@@ -27,7 +27,7 @@ def generar_articulo(kw):
     prompt = f"Escribe un artículo SEO optimizado en Markdown sobre: {kw}. Incluye H2, H3, tablas y FAQ."
     # Nueva sintaxis con client.models.generate_content
     response = client.models.generate_content(
-        model='gemini-1.5-flash', 
+        model='gemini-2.0-flash', 
         contents=prompt
     )
     return response.text
