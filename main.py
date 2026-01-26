@@ -25,12 +25,27 @@ def obtener_keyword():
 
 def generar_articulo(kw):
     prompt = f"Escribe un artículo SEO optimizado en Markdown sobre: {kw}. Incluye H2, H3, tablas y FAQ."
-    # Nueva sintaxis con client.models.generate_content
-    response = client.models.generate_content(
-        model='gemini-2.0-flash', 
-        contents=prompt
-    )
-    return response.text
+    try:
+        # Revertimos a 1.5 Flash y añadimos control de errores
+        response = client.models.generate_content(
+            model='gemini-1.5-flash', 
+            contents=prompt
+        )
+        return response.text
+    except Exception as e:
+        print(f"\n❌ ERROR CRÍTICO DE GEMINI:\n{e}\n")
+        # Si es error de cuota (429), lo avisamos claro
+        if "429" in str(e) or "quota" in str(e).lower():
+            print("⚠️ HAS ALCANZADO EL LÍMITE DE USO GRATUITO. ESPERA UNOS MINUTOS.")
+        # Si es error de modelo (404), listamos los disponibles
+        elif "404" in str(e):
+             print("⚠️ MODELO NO ENCONTRADO. Intentando listar modelos disponibles...")
+             try:
+                 for m in client.models.list(config={"page_size": 10}):
+                     print(f" - {m.name}")
+             except:
+                 pass
+        raise e
 
 def guardar_archivo(titulo, contenido):
     # Formato para SSG (Hugo/Next.js)
