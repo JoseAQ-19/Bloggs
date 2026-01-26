@@ -25,27 +25,30 @@ def obtener_keyword():
 
 def generar_articulo(kw):
     prompt = f"Escribe un artículo SEO optimizado en Markdown sobre: {kw}. Incluye H2, H3, tablas y FAQ."
-    try:
-        # Revertimos a 1.5 Flash y añadimos control de errores
-        response = client.models.generate_content(
-            model='gemini-1.5-flash', 
-            contents=prompt
-        )
-        return response.text
-    except Exception as e:
-        print(f"\n❌ ERROR CRÍTICO DE GEMINI:\n{e}\n")
-        # Si es error de cuota (429), lo avisamos claro
-        if "429" in str(e) or "quota" in str(e).lower():
-            print("⚠️ HAS ALCANZADO EL LÍMITE DE USO GRATUITO. ESPERA UNOS MINUTOS.")
-        # Si es error de modelo (404), listamos los disponibles
-        elif "404" in str(e):
-             print("⚠️ MODELO NO ENCONTRADO. Intentando listar modelos disponibles...")
-             try:
-                 for m in client.models.list(config={"page_size": 10}):
-                     print(f" - {m.name}")
-             except:
-                 pass
-        raise e
+    # Lista de modelos a probar en orden de preferencia (Modernos -> Estables -> Legacy)
+    candidates = ["gemini-2.0-flash", "gemini-1.5-flash", "gemini-1.5-flash-001", "gemini-1.5-pro"]
+    
+    last_error = None
+    for model_name in candidates:
+        try:
+            print(f"🤖 Intentando usar modelo: {model_name}...")
+            response = client.models.generate_content(
+                model=model_name, 
+                contents=prompt
+            )
+            print(f"✅ ¡Éxito con {model_name}!")
+            return response.text
+        except Exception as e:
+            print(f"❌ Falló {model_name}: {e}")
+            last_error = e
+            # Si es error de cuota (429), fallamos inmediatamente, no sirve de nada cambiar de modelo
+            if "429" in str(e) or "quota" in str(e).lower():
+                print("⚠️ LÍMITE DE CUOTA ALCANZADO. Deteniendo intentos.")
+                raise e
+            continue
+
+    print("💀 Ningún modelo funcionó.")
+    raise last_error
 
 def guardar_archivo(titulo, contenido):
     # Formato para SSG (Hugo/Next.js)
