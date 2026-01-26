@@ -9,7 +9,7 @@ GH_TOKEN = os.getenv("GH_TOKEN")
 REPO_NAME = os.getenv("GITHUB_REPOSITORY")
 
 genai.configure(api_key=GEMINI_KEY)
-model = genai.GenerativeModel('gemini-1.5-pro') # Usamos la versión más potente de 2026
+model = genai.GenerativeModel('gemini-pro') # Usamos la versión más estable
 
 def obtener_keyword():
     if not os.path.exists('data/keywords.txt'): return None
