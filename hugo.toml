@@ -1,4 +1,4 @@
-baseURL = 'https://tu-dominio.com/'
+baseURL = 'https://mis-bloggs-2026.vercel.app/'
 languageCode = 'es-es'
-title = 'Mi Blog de Nicho Pro'
-theme = 'ananke' # Este es un tema básico que viene por defecto
+title = 'Mi Blog Automatizado 2026'
+theme = 'ananke'
