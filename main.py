@@ -26,7 +26,7 @@ def obtener_keyword():
 def generar_articulo(kw):
     prompt = f"Escribe un artículo SEO optimizado en Markdown sobre: {kw}. Incluye H2, H3, tablas y FAQ."
     # Lista de modelos a probar en orden de preferencia (Modernos -> Estables -> Legacy)
-    candidates = ["gemini-2.0-flash", "gemini-1.5-flash", "gemini-1.5-flash-001", "gemini-1.5-pro"]
+    candidates = ["gemini-1.5-flash", "gemini-1.5-flash-001", "gemini-1.5-pro"]
     
     last_error = None
     for model_name in candidates:
