@@ -1,5 +1,5 @@
 import os
-from google import genai # <--- Importación moderna
+from google import genai
 from github import Github
 from datetime import datetime
 
@@ -8,7 +8,7 @@ GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 GH_TOKEN = os.getenv("GH_TOKEN")
 REPO_NAME = os.getenv("GITHUB_REPOSITORY")
 
-# 1. INICIALIZACIÓN (Igual que en tu proyecto)
+# 1. Cliente moderno (Igual que en Inmobot)
 client = genai.Client(api_key=GEMINI_KEY)
 
 def obtener_keyword():
@@ -23,15 +23,14 @@ def obtener_keyword():
     return selected
 
 def generar_articulo(kw):
-    print(f"🤖 Generando con librería moderna para: {kw}...")
+    print(f"🤖 Generando con Gemini 2.0 Flash para: {kw}...")
     
-    prompt = f"Actúa como redactor experto. Escribe un artículo SEO en Markdown sobre: '{kw}'. Usa H2, H3 y tablas."
+    prompt = f"Actúa como experto SEO. Escribe un artículo de blog en Markdown sobre: '{kw}'. Incluye H2, H3 y una tabla."
     
-    # 2. GENERACIÓN
-    # Usamos 'generate_content' en lugar de 'chats' porque es un solo artículo, no una conversación.
-    # Usamos 'gemini-1.5-flash' para GARANTIZAR que sea gratis y no falle la cuota.
+    # 2. Aquí está la magia: Usamos el modelo 2.0
+    # Antes fallaba por cuota, ahora debería volar.
     response = client.models.generate_content(
-        model='gemini-1.5-flash',
+        model='gemini-2.0-flash', 
         contents=prompt
     )
     return response.text
