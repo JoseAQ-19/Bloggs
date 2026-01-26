@@ -1,5 +1,5 @@
 import os
-from google import genai
+from google import genai # <--- Importación moderna
 from github import Github
 from datetime import datetime
 
@@ -8,66 +8,57 @@ GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 GH_TOKEN = os.getenv("GH_TOKEN")
 REPO_NAME = os.getenv("GITHUB_REPOSITORY")
 
-# Nuevo cliente de la librería moderna
+# 1. INICIALIZACIÓN (Igual que en tu proyecto)
 client = genai.Client(api_key=GEMINI_KEY)
 
 def obtener_keyword():
-    if not os.path.exists('data/keywords.txt'): return None
-    with open('data/keywords.txt', 'r') as f:
+    path = 'data/keywords.txt'
+    if not os.path.exists(path): return None
+    with open(path, 'r') as f:
         lines = f.readlines()
     if not lines: return None
-    
     selected = lines[0].strip()
-    # Guardamos el resto de keywords
-    with open('data/keywords.txt', 'w') as f:
+    with open(path, 'w') as f:
         f.writelines(lines[1:])
     return selected
 
 def generar_articulo(kw):
-    prompt = f"Escribe un artículo SEO optimizado en Markdown sobre: {kw}. Incluye H2, H3, tablas y FAQ."
-    # Lista de modelos a probar en orden de preferencia (Modernos -> Estables -> Legacy)
-    candidates = ["gemini-1.5-flash", "gemini-1.5-flash-001", "gemini-1.5-pro"]
+    print(f"🤖 Generando con librería moderna para: {kw}...")
     
-    last_error = None
-    for model_name in candidates:
-        try:
-            print(f"🤖 Intentando usar modelo: {model_name}...")
-            response = client.models.generate_content(
-                model=model_name, 
-                contents=prompt
-            )
-            print(f"✅ ¡Éxito con {model_name}!")
-            return response.text
-        except Exception as e:
-            print(f"❌ Falló {model_name}: {e}")
-            last_error = e
-            # Si es error de cuota (429), fallamos inmediatamente, no sirve de nada cambiar de modelo
-            if "429" in str(e) or "quota" in str(e).lower():
-                print("⚠️ LÍMITE DE CUOTA ALCANZADO. Deteniendo intentos.")
-                raise e
-            continue
+    prompt = f"Actúa como redactor experto. Escribe un artículo SEO en Markdown sobre: '{kw}'. Usa H2, H3 y tablas."
+    
+    # 2. GENERACIÓN
+    # Usamos 'generate_content' en lugar de 'chats' porque es un solo artículo, no una conversación.
+    # Usamos 'gemini-1.5-flash' para GARANTIZAR que sea gratis y no falle la cuota.
+    response = client.models.generate_content(
+        model='gemini-1.5-flash',
+        contents=prompt
+    )
+    return response.text
 
-    print("💀 Ningún modelo funcionó.")
-    raise last_error
-
-def guardar_archivo(titulo, contenido):
-    # Formato para SSG (Hugo/Next.js)
+def guardar_post(titulo, contenido):
     slug = titulo.replace(" ", "-").lower()
-    path = f"content/posts/{slug}.md"
-    # Formato de fecha simplificado como solicitado
-    date_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    header = f"---\ntitle: '{titulo}'\ndate: {date_str}\ndraft: false\n---\n\n"
+    filename = f"content/posts/{slug}.md"
+    fecha = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+    front_matter = f"---\ntitle: '{titulo}'\ndate: {fecha}\ndraft: false\n---\n\n"
     
-    os.makedirs('content/posts', exist_ok=True)
-    with open(path, 'w', encoding='utf-8') as f:
-        f.write(header + contenido)
-    print(f"✅ Archivo {path} creado localmente.")
+    g = Github(GH_TOKEN)
+    repo = g.get_repo(REPO_NAME)
+    try:
+        repo.create_file(filename, f"Post: {titulo}", front_matter + contenido, branch="main")
+        print(f"✅ PUBLICADO: {filename}")
+    except Exception as e:
+        print(f"⚠️ Error GitHub: {e}")
 
 if __name__ == "__main__":
     keyword = obtener_keyword()
     if keyword:
-        print(f"🚀 Procesando: {keyword}")
-        texto = generar_articulo(keyword)
-        guardar_archivo(keyword, texto)
+        try:
+            texto = generar_articulo(keyword)
+            if texto:
+                guardar_post(keyword, texto)
+        except Exception as e:
+            print(f"🔥 Error: {e}")
+            exit(1)
     else:
-        print("⚠️ No hay más palabras clave en la lista.")
+        print("💤 Lista vacía.")
