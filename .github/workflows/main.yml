@@ -1,7 +1,7 @@
 name: Ejecutar Generador de Artículos
 on:
   schedule:
-    - cron: '0 10 * * *' # Se ejecuta a las 10:00 AM UTC todos los días
+    - cron: '*/30 * * * *' # Se ejecuta cada 30 minutos para pruebas
   workflow_dispatch: # Botón para ejecutarlo manualmente cuando quieras
 
 jobs:
