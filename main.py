@@ -1,6 +1,7 @@
 import os
+import requests
+import json
 from google import genai
-from github import Github
 from datetime import datetime
 
 # Configuración
@@ -8,7 +9,6 @@ GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 GH_TOKEN = os.getenv("GH_TOKEN")
 REPO_NAME = os.getenv("GITHUB_REPOSITORY")
 
-# 1. Cliente moderno (Igual que en Inmobot)
 client = genai.Client(api_key=GEMINI_KEY)
 
 def obtener_keyword():
@@ -23,31 +23,29 @@ def obtener_keyword():
     return selected
 
 def generar_articulo(kw):
-    print(f"🤖 Generando con Gemini 2.0 Flash para: {kw}...")
-    
+    print(f"🤖 Generando con Gemini 2.0 Flash: {kw}")
     prompt = f"Actúa como experto SEO. Escribe un artículo de blog en Markdown sobre: '{kw}'. Incluye H2, H3 y una tabla."
     
-    # 2. Aquí está la magia: Usamos el modelo 2.0
-    # Antes fallaba por cuota, ahora debería volar.
+    # Usamos el modelo 2.0 que ahora SÍ funciona gracias a tu facturación
     response = client.models.generate_content(
         model='gemini-2.0-flash', 
         contents=prompt
     )
     return response.text
 
-def guardar_post(titulo, contenido):
+def guardar_localmente(titulo, contenido):
     slug = titulo.replace(" ", "-").lower()
+    # Aseguramos que la carpeta exista
+    os.makedirs('content/posts', exist_ok=True)
+    
     filename = f"content/posts/{slug}.md"
     fecha = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
     front_matter = f"---\ntitle: '{titulo}'\ndate: {fecha}\ndraft: false\n---\n\n"
     
-    g = Github(GH_TOKEN)
-    repo = g.get_repo(REPO_NAME)
-    try:
-        repo.create_file(filename, f"Post: {titulo}", front_matter + contenido, branch="main")
-        print(f"✅ PUBLICADO: {filename}")
-    except Exception as e:
-        print(f"⚠️ Error GitHub: {e}")
+    # GUARDADO LOCAL (GitHub Actions lo subirá después)
+    with open(filename, 'w', encoding='utf-8') as f:
+        f.write(front_matter + contenido)
+    print(f"✅ Archivo guardado localmente: {filename}")
 
 if __name__ == "__main__":
     keyword = obtener_keyword()
@@ -55,7 +53,7 @@ if __name__ == "__main__":
         try:
             texto = generar_articulo(keyword)
             if texto:
-                guardar_post(keyword, texto)
+                guardar_localmente(keyword, texto)
         except Exception as e:
             print(f"🔥 Error: {e}")
             exit(1)
