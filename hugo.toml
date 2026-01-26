@@ -1,0 +1,4 @@
+baseURL = 'https://tu-dominio.com/'
+languageCode = 'es-es'
+title = 'Mi Blog de Nicho Pro'
+theme = 'ananke' # Este es un tema básico que viene por defecto
