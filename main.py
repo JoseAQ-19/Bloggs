@@ -2,6 +2,7 @@ import os
 import requests
 import json
 from google import genai
+from google.genai import types
 from datetime import datetime
 
 # Configuración
@@ -21,6 +22,37 @@ def obtener_keyword():
     with open(path, 'w') as f:
         f.writelines(lines[1:])
     return selected
+
+def generar_imagen(titulo):
+    print(f"🎨 Pintando imagen para: {titulo}")
+    try:
+        prompt_imagen = f"Crea una imagen realista, futurista y periodística sobre este concepto tecnológico: {titulo}. Estilo fotografía de alta resolución, iluminación cinematográfica, 8k, sin texto."
+        
+        response = client.models.generate_images(
+            model='imagen-3.0-generate-001',
+            prompt=prompt_imagen,
+            config=types.GenerateImagesConfig(
+                number_of_images=1,
+            )
+        )
+        
+        if response.generated_images:
+            image = response.generated_images[0].image
+            # Nombre seguro para archivo
+            slug = titulo.replace(" ", "-").lower()
+            filename = f"{slug}.png"
+            path_relativo = f"/images/{filename}"
+            path_absoluto = f"static/images/{filename}"
+            
+            # Asegurar directorio
+            os.makedirs('static/images', exist_ok=True)
+            
+            image.save(path_absoluto)
+            print(f"🖼️ Imagen guardada en: {path_absoluto}")
+            return path_relativo
+    except Exception as e:
+        print(f"⚠️ Error generando imagen: {e}")
+        return None
 
 def generar_articulo(kw):
     print(f"🤖 Generando con Gemini 2.0 Flash: {kw}")
@@ -43,21 +75,31 @@ def generar_articulo(kw):
     Escribe el artículo completo ahora:
     """
     
+    
     # Usamos el modelo 2.0 que ahora SÍ funciona gracias a tu facturación
     response = client.models.generate_content(
         model='gemini-2.0-flash', 
         contents=prompt
     )
-    return response.text
+    
+    # Generar imagen
+    imagen_url = generar_imagen(kw)
+    
+    return response.text, imagen_url
 
-def guardar_localmente(titulo, contenido):
+def guardar_localmente(titulo, contenido, imagen_url):
     slug = titulo.replace(" ", "-").lower()
     # Aseguramos que la carpeta exista
     os.makedirs('content/posts', exist_ok=True)
     
     filename = f"content/posts/{slug}.md"
     fecha = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
-    front_matter = f"---\ntitle: '{titulo}'\ndate: {fecha}\ndraft: false\n---\n\n"
+    
+    # Frontmatter con imagen si existe
+    if imagen_url:
+        front_matter = f"---\ntitle: '{titulo}'\ndate: {fecha}\ndraft: false\nimage: '{imagen_url}'\n---\n\n"
+    else:
+        front_matter = f"---\ntitle: '{titulo}'\ndate: {fecha}\ndraft: false\n---\n\n"
     
     # GUARDADO LOCAL (GitHub Actions lo subirá después)
     with open(filename, 'w', encoding='utf-8') as f:
@@ -68,9 +110,9 @@ if __name__ == "__main__":
     keyword = obtener_keyword()
     if keyword:
         try:
-            texto = generar_articulo(keyword)
+            texto, imagen_url = generar_articulo(keyword)
             if texto:
-                guardar_localmente(keyword, texto)
+                guardar_localmente(keyword, texto, imagen_url)
         except Exception as e:
             print(f"🔥 Error: {e}")
             exit(1)
