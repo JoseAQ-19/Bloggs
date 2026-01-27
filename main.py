@@ -24,6 +24,7 @@ PROHIBIDO TERMINANTEMENTE:
 - Saludos, cortesía o validación ("¡Excelente!", "Hola", "Aquí tienes").
 - Introducciones o meta-comentarios ("El título es...", "He generado...").
 - Feedback humano.
+- Etiquetas de sección como "TÍTULO:", "INTRODUCCIÓN:", "CONTENIDO:", "META-DESCRIPCIÓN:". Escribe directamente el texto final.
 
 TU RESPUESTA DEBE EMPEZAR DIRECTAMENTE CON EL CONTENIDO SOLICITADO.
 CUALQUIER TEXTO FUERA DE LO SOLICITADO HARÁ QUE EL SISTEMA FALLE.
@@ -110,6 +111,12 @@ def generar_imagen(titulo):
         return None
 
 # --- HERRAMIENTAS DE LIMPIEZA ---
+def limpiar_tags(texto):
+    # Eliminar etiquetas administrativas
+    patron = r'^(TÍTULO:|TITLE:|META-DESCRIPCIÓN:|INTRODUCCIÓN:|CONTENIDO:|INTRO:)\s*'
+    texto = re.sub(patron, '', texto, flags=re.IGNORECASE | re.MULTILINE)
+    return texto.strip()
+
 def limpiar_titulo(texto):
     # 4. Refinar la Lógica de "Limpieza de Títulos"
     texto = texto.strip()
@@ -166,7 +173,7 @@ def generar_estructura(tema):
         config=types.GenerateContentConfig(system_instruction=SYSTEM_INSTRUCTION)
     )
     
-    texto = response.text
+    texto = limpiar_tags(response.text)
     
     # Parsing manual con etiquetas
     titulo_match = re.search(r'\[TITULO\](.*?)\[/TITULO\]', texto, re.DOTALL)
@@ -209,10 +216,11 @@ def escribir_bloque(encabezado, titulo_articulo, hub_info):
     INSTRUCCIONES:
     1. Escribe 400 palabras profundas y técnicas.
     2. ESTILO: Tono humano, cero saludos, cero IA.
-    3. GEO OPTIMIZATION:
-       - Empieza con párrafo **Resumen** (Bold).
+    3. NO uses encabezados internos (ni # ni ##).
+    4. GEO OPTIMIZATION:
+       - OBLIGATORIO: Empieza con un párrafo en negrita (**Resumen...**) que resuma la sección.
        - Si comparas, usa Tabla Markdown.
-    4. {contexto_link}
+    5. {contexto_link}
 
     SALIDA: Solo el contenido Markdown de la sección.
     """
@@ -223,7 +231,7 @@ def escribir_bloque(encabezado, titulo_articulo, hub_info):
         contents=prompt,
         config=types.GenerateContentConfig(system_instruction=SYSTEM_INSTRUCTION)
     )
-    return response.text
+    return limpiar_tags(response.text)
 
 # --- FASE C: EL EDITOR (Ensamblaje y FAQ) ---
 def generar_faq(contenido_total, tema):
@@ -275,17 +283,18 @@ def generar_faq(contenido_total, tema):
 def extraer_subtemas(contenido_total):
     print("🌱 Generando Seeds...")
     prompt = """
-    ERES UN EXTRACTOR DE DATOS.
-    Genera 5 temas cortos de 3 palabras máximo, separados por comas.
-    PROHIBIDO dar feedback, felicitar al usuario o escribir párrafos.
-    Si fallas, el sistema se detendrá.
+    Eres un extractor de datos frío.
+    Tu salida debe ser exclusivamente una lista de 5 conceptos cortos (máximo 3 palabras cada uno) separados por comas.
+    Prohibido hablar, saludar o analizar el texto anterior.
     """
     response = client.models.generate_content(
         model='gemini-2.0-flash', 
         contents=contenido_total[:3000],
         config=types.GenerateContentConfig(system_instruction=SYSTEM_INSTRUCTION)
     )
-    return [s.strip() for s in response.text.split(',')][:5]
+    # Limpiamos tags por si acaso
+    texto_raw = limpiar_tags(response.text)
+    return [s.strip() for s in texto_raw.split(',')][:5]
 
 def motor_de_contenidos(kw):
     # Amnesia: kw es nuevo, reiniciamos todo el flujo
@@ -308,7 +317,7 @@ def motor_de_contenidos(kw):
     )
     
     # 5. Sincronización Fase C (Ensamblaje con espaciado explícito)
-    contenido_completo = f"# {titulo}\n\n{intro_resp.text}\n\n"
+    contenido_completo = f"# {titulo}\n\n{limpiar_tags(intro_resp.text)}\n\n"
     
     for h in headers:
         bloque = escribir_bloque(h, titulo, hub_info)
@@ -340,8 +349,8 @@ def guardar_localmente(titulo, contenido, imagen_url):
     slug = titulo.replace(" ", "-").lower()
     # Limpiar slug de caracteres raros
     slug = re.sub(r'[^a-z0-9-]', '', slug)
-    # Recorte de seguridad (50 caracteres)
-    slug = slug[:50]
+    # Recorte de seguridad (60 caracteres)
+    slug = slug[:60]
     
     os.makedirs('content/posts', exist_ok=True)
     filename = f"content/posts/{slug}.md"
