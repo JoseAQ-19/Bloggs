@@ -4,19 +4,18 @@ title = 'Mi Blog Automatizado 2026'
 theme = 'ananke'
 buildFuture = true
 
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "Sobre Nosotros"
-    url = "/about/"
-    weight = 10
-  [[menu.main]]
-    identifier = "privacy"
-    name = "Privacidad"
-    url = "/privacy/"
-    weight = 20
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contacto"
-    url = "/contact/"
-    weight = 30
+[[menu.main]]
+  identifier = "about"
+  name = "Sobre Nosotros"
+  url = "/about/"
+  weight = 10
+[[menu.main]]
+  identifier = "privacy"
+  name = "Privacidad"
+  url = "/privacy/"
+  weight = 20
+[[menu.main]]
+  identifier = "contact"
+  name = "Contacto"
+  url = "/contact/"
+  weight = 30
