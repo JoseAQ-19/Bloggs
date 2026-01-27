@@ -1,4 +1,3 @@
-2026. El panorama digital ha cambiado. Google Trends ya no refleja lo que *creemos* que es popular
 sino lo que *Gemini* predice que lo será. ¿Recuerdas cuando Google Search era el rey? Ahora
 Gemini
 la IA de Google
