@@ -115,7 +115,6 @@ def limpiar_titulo(texto):
     texto = texto.strip()
     
     # Lista Negra extendida: Conectores y Gerundios
-    # Eliminamos: "y ", "o ", "además ", "continuando ", "profundizando ", "analizando ", "siguiendo ", "como vemos ", etc.
     patron_basura = r'^(y |o |además |¡|!|continuando|profundizando|analizando|siguiendo|como vemos|en este artículo|hoy vamos a ver)\s*'
     texto = re.sub(patron_basura, '', texto, flags=re.IGNORECASE)
     
@@ -125,27 +124,21 @@ def limpiar_titulo(texto):
     
     titulo = lineas[0]
     
-    # Eliminar prefijos comunes de IA (etiquetas residuales)
-    titulo = re.sub(r'^(TITULO:|Title:|Aquí tienes|Claro|El título es)\s*', '', titulo, flags=re.IGNORECASE).strip()
+    # Eliminar prefijos de IA y NÚMEROS/SIMBOLOS AGRESIVOS (1., 1-, *, etc)
+    titulo = re.sub(r'^(TITULO:|Title:|Here is|Aquí tienes|Claro|El título es)\s*', '', titulo, flags=re.IGNORECASE)
+    titulo = re.sub(r'^[\d\.\-\s\*]+', '', titulo) # Elimina "1. ", "2-", "** " al inicio
     titulo = titulo.replace('"', '').replace('*', '').replace('#', '')
     
-    # Validación de longitud (Si es > 15 palabras, cortar)
+    # Eliminar dos puntos al final
+    titulo = re.sub(r':\s*$', '', titulo)
+    
+    # Validación de longitud
     words = titulo.split()
     if len(words) > 15:
         titulo = " ".join(words[:12]) + "..."
     
-    # 1. Forzar Capitalización: La primera letra en mayúscula, lo demás minúscula/respetado
-    # Usamos .capitalize() que pone la primera en Mayus y resto en minus, 
-    # o si queremos respetar nombres propios podríamos usar solo titulo[0].upper() + titulo[1:].
-    # La instrucción dice: ".strip().capitalize()". Esto bajará todo a minúsculas excepto la primera.
-    # Dado que es un título, quizás 'title()' es mejor, pero la instrucción fue explícita: "strip().capitalize()".
-    # Sin embargo, capitalize() puede romper siglas como "IA".
-    # Voy a usar una capitalización inteligente: Primera mayúscula, no tocar el resto si ya está bien, 
-    # pero para ser fiel a "erradicar esto":
-    # "Asegúrate de que el string final pase por .strip().capitalize()" <- SEGUIRÉ ESTA INSTRUCCIÓN TEXTUALMENTE
-    # AUNQUE rompa siglas, el usuario lo pidió explícitamente para homogeneizar.
-    
-    return titulo.strip().capitalize()
+    # Capitalización tipo Título (Title Case)
+    return titulo.strip().title()
 
 # --- FASE A: EL ARQUITECTO (Escaleta + Título) ---
 def generar_estructura(tema):
@@ -164,7 +157,7 @@ def generar_estructura(tema):
     Reglas:
     - NO escribas nada fuera de estas etiquetas.
     - El JSON debe ser válido (lista de strings).
-    - El TÍTULO debe ser un nombre propio o una declaración directa, nunca una frase que empiece por gerundios (ando/iendo) ni conectores (y, o, pero).
+    - El TÍTULO debe ser un nombre propio o una declaración directa (sin numeros ni gerundios).
     """
     
     response = client.models.generate_content(
@@ -234,18 +227,50 @@ def escribir_bloque(encabezado, titulo_articulo, hub_info):
 
 # --- FASE C: EL EDITOR (Ensamblaje y FAQ) ---
 def generar_faq(contenido_total, tema):
-    print("🧠 FASE C: Generando FAQ JSON-LD...")
+    print("🧠 FASE C: Generando FAQ Dual (Visual + JSON-LD)...")
     prompt = f"""
     Basado en: "{tema}".
-    Genera 5 FAQ en formato JSON-LD (<script type="application/ld+json">).
-    SOLO EL SCRIPT.
+    Genera 5 Preguntas Frecuentes.
+    
+    FORMATO DE SALIDA OBLIGATORIO (Usa estas etiquetas):
+    
+    [VISUAL]
+    ### ¿Pregunta 1?
+    Respuesta breve.
+    ### ¿Pregunta 2?
+    Respuesta breve.
+    ...
+    [/VISUAL]
+    
+    [SCRIPT]
+    <script type="application/ld+json">
+    {{
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      ...
+    }}
+    </script>
+    [/SCRIPT]
+    
+    REGLA: En [SCRIPT], NO uses bloques de código Markdown (```). Solo el raw script.
     """
     response = client.models.generate_content(
         model='gemini-2.0-flash', 
         contents=prompt,
         config=types.GenerateContentConfig(system_instruction=SYSTEM_INSTRUCTION)
     )
-    return response.text
+    
+    # Parsing
+    visual = ""
+    script = ""
+    
+    v_match = re.search(r'\[VISUAL\](.*?)\[/VISUAL\]', response.text, re.DOTALL)
+    s_match = re.search(r'\[SCRIPT\](.*?)\[/SCRIPT\]', response.text, re.DOTALL)
+    
+    if v_match: visual = v_match.group(1).strip()
+    if s_match: script = s_match.group(1).strip().replace('```html', '').replace('```json', '').replace('```', '')
+    
+    return visual, script
 
 def extraer_subtemas(contenido_total):
     print("🌱 Generando Seeds...")
@@ -291,9 +316,14 @@ def motor_de_contenidos(kw):
         contenido_completo += f"## {h}\n\n{bloque}\n\n"
         time.sleep(1)
     
-    # 4. FAQ
-    faq_json = generar_faq(contenido_completo, kw)
-    contenido_completo += f"\n\n## Preguntas Frecuentes\n{faq_json}"
+    # 4. FAQ Dual
+    faq_visual, faq_script = generar_faq(contenido_completo, kw)
+    
+    # Añadimos sección visual legible
+    contenido_completo += f"\n\n## Preguntas Frecuentes\n{faq_visual}\n\n"
+    # Añadimos script invisible (raw HTML en markdown se renderiza si el SSG lo permite, o se queda oculto)
+    # Para asegurar que Hugo no lo rompa, lo ideal es ponerlo tal cual.
+    contenido_completo += f"{faq_script}"
     
     # 5. Spokes
     if is_hub:
