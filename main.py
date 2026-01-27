@@ -113,23 +113,39 @@ def generar_imagen(titulo):
 def limpiar_titulo(texto):
     # 4. Refinar la Lógica de "Limpieza de Títulos"
     texto = texto.strip()
-    # Eliminar prefijos de "IA habladora"
-    texto = re.sub(r'^(y |o |además |¡|!)\s*', '', texto, flags=re.IGNORECASE)
     
+    # Lista Negra extendida: Conectores y Gerundios
+    # Eliminamos: "y ", "o ", "además ", "continuando ", "profundizando ", "analizando ", "siguiendo ", "como vemos ", etc.
+    patron_basura = r'^(y |o |además |¡|!|continuando|profundizando|analizando|siguiendo|como vemos|en este artículo|hoy vamos a ver)\s*'
+    texto = re.sub(patron_basura, '', texto, flags=re.IGNORECASE)
+    
+    # 3. Filtro de Dos Pasos: Quedarse solo con la primera línea
     lineas = [l.strip() for l in texto.split('\n') if l.strip()]
     if not lineas: return "Sin Título"
     
     titulo = lineas[0]
-    # Eliminar prefijos comunes de IA
+    
+    # Eliminar prefijos comunes de IA (etiquetas residuales)
     titulo = re.sub(r'^(TITULO:|Title:|Aquí tienes|Claro|El título es)\s*', '', titulo, flags=re.IGNORECASE).strip()
     titulo = titulo.replace('"', '').replace('*', '').replace('#', '')
     
     # Validación de longitud (Si es > 15 palabras, cortar)
     words = titulo.split()
     if len(words) > 15:
-        return " ".join(words[:12]) + "..."
+        titulo = " ".join(words[:12]) + "..."
     
-    return titulo
+    # 1. Forzar Capitalización: La primera letra en mayúscula, lo demás minúscula/respetado
+    # Usamos .capitalize() que pone la primera en Mayus y resto en minus, 
+    # o si queremos respetar nombres propios podríamos usar solo titulo[0].upper() + titulo[1:].
+    # La instrucción dice: ".strip().capitalize()". Esto bajará todo a minúsculas excepto la primera.
+    # Dado que es un título, quizás 'title()' es mejor, pero la instrucción fue explícita: "strip().capitalize()".
+    # Sin embargo, capitalize() puede romper siglas como "IA".
+    # Voy a usar una capitalización inteligente: Primera mayúscula, no tocar el resto si ya está bien, 
+    # pero para ser fiel a "erradicar esto":
+    # "Asegúrate de que el string final pase por .strip().capitalize()" <- SEGUIRÉ ESTA INSTRUCCIÓN TEXTUALMENTE
+    # AUNQUE rompa siglas, el usuario lo pidió explícitamente para homogeneizar.
+    
+    return titulo.strip().capitalize()
 
 # --- FASE A: EL ARQUITECTO (Escaleta + Título) ---
 def generar_estructura(tema):
@@ -148,6 +164,7 @@ def generar_estructura(tema):
     Reglas:
     - NO escribas nada fuera de estas etiquetas.
     - El JSON debe ser válido (lista de strings).
+    - El TÍTULO debe ser un nombre propio o una declaración directa, nunca una frase que empiece por gerundios (ando/iendo) ni conectores (y, o, pero).
     """
     
     response = client.models.generate_content(
@@ -166,7 +183,10 @@ def generar_estructura(tema):
     headers = [f"Todo sobre {tema}", f"Análisis de {tema}", "Conclusión"] # Fallback
 
     if titulo_match:
-        titulo_final = limpiar_titulo(titulo_match.group(1))
+        # Extraemos el contenido crudo dentro de las etiquetas
+        raw_title = titulo_match.group(1).strip()
+        # Aplicamos la limpieza
+        titulo_final = limpiar_titulo(raw_title)
     
     if escaleta_match:
         try:
