@@ -1,4 +1,3 @@
-
 **1. Expande sobre la Confianza y la Transparencia:**
 
 *   **Explica cómo la IA minimalista fomenta la confianza.**  Menciona cómo la reducción de la intrusión y la mayor transparencia en el procesamiento de datos ayudan a los usuarios a sentirse más cómodos con la IA. Podrías mencionar el concepto de "IA explicable" (XAI) y cómo se relaciona con el minimalismo
