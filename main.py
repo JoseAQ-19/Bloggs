@@ -113,25 +113,24 @@ def generar_imagen(titulo):
 def limpiar_contenido_final(texto):
     if not texto: return ""
     
-    # 1. Eliminar etiquetas administrativas
-    patron_tags = r'^(TÍTULO|TITLE|META-DESCRIPCIÓN|INTRODUCCIÓN|CONTENIDO|SECCIÓN|INTRO):?\s*'
-    texto = re.sub(patron_tags, '', texto, flags=re.IGNORECASE | re.MULTILINE)
+    # 1. Sanitización de Etiquetas Prohibidas (Lista Estricta)
+    prohibidas = ["TÍTULO:", "TITLE:", "INTRODUCCIÓN:", "INTRO:", "META-DESCRIPCIÓN:", "CONTENIDO:", "SECCIÓN:", "CONCLUSIÓN:"]
+    for p in prohibidas:
+        # Regex: Start of line, keyword, verify colon, greedy whitespace cleanup
+        texto = re.sub(f"^{p}\s*", "", texto, flags=re.IGNORECASE | re.MULTILINE)
     
-    # 2. Reparar Newlines literales (La IA a veces escupe \n como texto)
+    # 2. Reparar Newlines literales (Fix crítico)
     texto = texto.replace('\\n', '\n')
     
-    # 3. Aire Visual para Tablas (Doble salto antes y después de tablas)
-    # Detecta líneas que empiezan con | (pipe) y asegura espacio antes
+    # 3. Aire Visual para Tablas (Saltos obligatorios)
+    # Encuentra la tabla Markdown (bloque que empieza con |) y asegura \n\n antes
     texto = re.sub(r'(\n\|.*\|)', r'\n\n\1', texto) 
-    # Detecta cierre de tabla y asegura espacio después
-    # (Esto es básico, asume que la tabla acaba cuando ya no hay pipes, pero un \n\n extra no daña)
     
     return texto.strip()
 
 def limpiar_titulo(texto):
     texto = texto.strip()
     
-    # Lista Negra extendida
     patron_basura = r'^(y |o |además |¡|!|continuando|profundizando|analizando|siguiendo|como vemos|en este artículo|hoy vamos a ver)\s*'
     texto = re.sub(patron_basura, '', texto, flags=re.IGNORECASE)
     
@@ -139,19 +138,15 @@ def limpiar_titulo(texto):
     if not lineas: return "Sin Título"
     titulo = lineas[0]
     
-    # Eliminar prefijos y basura
     titulo = re.sub(r'^(TITULO:|Title:|Here is|Aquí tienes|Claro|El título es)\s*', '', titulo, flags=re.IGNORECASE)
     titulo = re.sub(r'^[\d\.\-\s\*]+', '', titulo) 
     titulo = titulo.replace('*', '').replace('#', '').replace('"', '').replace('`', '')
     titulo = re.sub(r':\s*$', '', titulo)
     
-    # Longitud
     words = titulo.split()
     if len(words) > 15:
         titulo = " ".join(words[:12]) + "..."
     
-    # Capitalización forzada (Primera mayúscula)
-    # Por si acaso la IA devuelve todo minúscula
     if titulo and titulo[0].islower():
         titulo = titulo[0].upper() + titulo[1:]
     
@@ -204,16 +199,15 @@ def escribir_bloque(encabezado, titulo_articulo, hub_info):
     if hub_info:
         contexto_link = f"Contexto opcional: '{hub_info['keyword']}' ([Enlace]({hub_info['url']}))."
 
-    # PROMPT "GLOBAL AUTHORITY (WEF)" REFINADO
     prompt = f"""
     ACTÚA COMO UN ANALISTA SENIOR DE UN FORO ECONÓMICO GLOBAL.
     REDACTA LA SECCIÓN: "{encabezado}" PARA EL ARTÍCULO: "{titulo_articulo}".
 
     --- REGLAS DE ORO DE DISEÑO (ESTRICTO) ---
     1. JERARQUÍA PLANA: No uses subtítulos (#, ##, ###) dentro de este bloque. Solo párrafos fluidos.
-    2. NEGRITAS QUIRÚRGICAS: Úsalas SOLO para resaltar 1 concepto técnico clave (máximo 2 palabras). NUNCA pongas frases enteras en negrita.
-    3. AIRE VISUAL: Cada 3 párrafos, intenta usar una LISTA de viñetas (-) o una TABLA compacta para romper la densidad.
-    4. TABLAS: Si usas tabla, máximo 3 columnas y texto muy breve en celdas. Deja espacio antes y después.
+    2. NEGRITAS QUIRÚRGICAS: Úsalas SOLO para resaltar 1 concepto técnico clave (máximo 2 palabras). NUNCA frases enteras.
+    3. AIRE VISUAL: Cada 3 párrafos, intenta usar una LISTA de viñetas (-) o una TABLA compacta.
+    4. TABLAS (CRÍTICO): Si generas una tabla, DEBES dejar DOS saltos de línea (\\n\\n) antes y después de ella.
     5. ESPACIADO: Separa cada párrafo con exactamente DOS saltos de línea (\\n\\n).
     
     {contexto_link}
@@ -228,47 +222,43 @@ def escribir_bloque(encabezado, titulo_articulo, hub_info):
     )
     return limpiar_contenido_final(response.text)
 
-# --- FASE C: EL EDITOR (TÉCNICO) ---
-def generar_faq(contenido_total, tema):
-    print("🧠 FASE C: Generando FAQ Dual...")
+# --- FASE C: ESTRATEGA DE SEO (Internal Linking) ---
+def generar_relacionados(tema):
+    print("🧠 FASE C: Generando Estrategia de Enlazado...")
     prompt = f"""
-    ACTÚA COMO UN EDITOR TÉCNICO DE DATOS.
-    Genera 5 FAQ (Visual + JSON-LD) para: "{tema}".
-    
-    [VISUAL]
-    ### ¿Pregunta?
-    Respuesta.
-    ...
-    [/VISUAL]
-    
-    [SCRIPT]
-    <script type="application/ld+json">
-    {{ "@context": "https://schema.org", "@type": "FAQPage", ... }}
-    </script>
-    [/SCRIPT]
-    
-    REGLA: En [SCRIPT], solo el código raw. Cero markdown.
+    ACTÚA COMO UN ESTRATEGA DE SEO Y ARQUITECTURA DE CONTENIDOS.
+    TU TAREA ES FINALIZAR EL ARTÍCULO: "{tema}".
+
+    --- TAREA PRINCIPAL ---
+    Genera una sección titulada "## Temas Relacionados".
+    Debes proponer 3 temas que profundicen en lo hablado o conecten con la categoría principal.
+
+    --- FORMATO DE SALIDA (ESTRICTO) ---
+    Usa exclusivamente una lista de viñetas con enlaces Markdown:
+    * [Nombre del Tema Relacionado 1](/posts/slug-del-tema-1)
+    * [Nombre del Tema Relacionado 2](/posts/slug-del-tema-2)
+    * [Nombre del Tema Relacionado 3](/posts/slug-del-tema-3)
+
+    --- REGLAS DE ORO ---
+    1. PROHIBIDO: Dar feedback, saludar o decir "Aquí tienes los temas".
+    2. PROHIBIDO: Usar etiquetas como "SEEDS:" o "KEYWORDS:".
+    3. PROHIBIDO: Inventar estructuras raras. Solo el H2 y los 3 puntos de la lista.
+    4. LÓGICA DE URL: Crea slugs limpios (sin mayúsculas, guiones).
+    5. AMNESIA: No menciones nada anterior, solo entrega el bloque Markdown.
+
+    SALIDA: Devuelve directamente el bloque Markdown.
     """
     response = client.models.generate_content(
         model='gemini-2.0-flash', 
         contents=prompt,
         config=types.GenerateContentConfig(system_instruction=SYSTEM_INSTRUCTION)
     )
-    
-    visual = ""
-    script = ""
-    v_match = re.search(r'\[VISUAL\](.*?)\[/VISUAL\]', response.text, re.DOTALL)
-    s_match = re.search(r'\[SCRIPT\](.*?)\[/SCRIPT\]', response.text, re.DOTALL)
-    
-    if v_match: visual = limpiar_contenido_final(v_match.group(1))
-    if s_match: script = s_match.group(1).strip().replace('```html', '').replace('```json', '').replace('```', '')
-    
-    return visual, script
+    return limpiar_contenido_final(response.text)
 
 def extraer_subtemas(contenido_total):
     print("🌱 Generando Seeds...")
     prompt = """
-    ACTÚA COMO UN EDITOR TÉCNICO DE DATOS.
+    ACTÚA COMO UN ESTRATEGA DE DATOS.
     Genera 5 palabras clave (Seeds) para futuros artículos. 
     Formato: Solo palabras separadas por comas.
     PROHIBIDO HABLAR. SOLO DATOS.
@@ -297,7 +287,7 @@ def motor_de_contenidos(kw):
         config=types.GenerateContentConfig(system_instruction=SYSTEM_INSTRUCTION)
     )
     
-    # ENSAMBLAJE: SIN TÍTULO DUPLICADO (EMPIEZA CON INTRO)
+    # ENSAMBLAJE: TITULO ELIMINADO (EMPIEZA CON INTRO LIMPIA)
     intro_texto = limpiar_contenido_final(intro_resp.text)
     contenido_completo = f"{intro_texto}\n\n"
     
@@ -306,8 +296,9 @@ def motor_de_contenidos(kw):
         contenido_completo += f"## {h}\n\n{bloque}\n\n"
         time.sleep(1)
     
-    faq_visual, faq_script = generar_faq(contenido_completo, kw)
-    contenido_completo += f"\n\n## Preguntas Frecuentes\n{faq_visual}\n\n{faq_script}"
+    # NUEVA FASE C: SEO LINKING (Reemplaza FAQ)
+    bloque_relacionados = generar_relacionados(titulo)
+    contenido_completo += f"\n\n{bloque_relacionados}\n\n"
     
     if is_hub:
         try:
@@ -331,7 +322,7 @@ def guardar_localmente(titulo, contenido, imagen_url):
     image_fm = f"image: '{imagen_url}'" if imagen_url else ""
     front_matter = f"---\ntitle: '{titulo}'\ndate: {fecha}\ndraft: false\n{image_fm}\n---\n\n"
     
-    # LIMPIEZA FINAL DE SEGURIDAD
+    # ULTIMA LIMPIEZA DE SEGURIDAD (Newlines y Tags)
     contenido = limpiar_contenido_final(contenido)
     
     with open(filename, 'w', encoding='utf-8') as f:
