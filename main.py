@@ -24,7 +24,24 @@ def obtener_keyword():
 
 def generar_articulo(kw):
     print(f"🤖 Generando con Gemini 2.0 Flash: {kw}")
-    prompt = f"Actúa como experto SEO. Escribe un artículo de blog en Markdown sobre: '{kw}'. Incluye H2, H3 y una tabla."
+    tema = kw
+    # PROMPT DE INGENIERÍA: MODO PERIODISTA EXPERTO
+    prompt = f"""
+    Actúa como un periodista experto en tecnología y negocios para el medio digital 'NovumWorld'.
+    Tu misión es escribir un artículo viral y riguroso sobre este tema: "{tema}".
+
+    REGLAS DE ORO (OBLIGATORIAS):
+    1. CERO SALUDOS: No empieces con "¡Claro!", "Aquí tienes" ni introducciones meta. Empieza DIRECTAMENTE con el contenido.
+    2. ESTRUCTURA MARKDOWN:
+       - Usa un título H1 (# Título Impactante) al principio.
+       - Usa subtítulos H2 (##) para separar secciones.
+       - Usa negritas (**texto**) para resaltar ideas clave.
+    3. ESTILO: Escribe con párrafos cortos, tono profesional pero ágil, y datos objetivos.
+    4. NO pongas conclusiones obvias tipo "En resumen". Haz un cierre potente.
+    5. Idioma: Español Neutro perfecto.
+
+    Escribe el artículo completo ahora:
+    """
     
     # Usamos el modelo 2.0 que ahora SÍ funciona gracias a tu facturación
     response = client.models.generate_content(
