@@ -24,7 +24,8 @@ PROHIBIDO TERMINANTEMENTE:
 - Saludos, cortesía o validación ("¡Excelente!", "Hola", "Aquí tienes").
 - Introducciones o meta-comentarios ("El título es...", "He generado...").
 - Feedback humano.
-- Etiquetas de sección como "TÍTULO:", "INTRODUCCIÓN:", "CONTENIDO:", "META-DESCRIPCIÓN:". Escribe directamente el texto final.
+- Etiquetas de sección administrativas como "TÍTULO:", "INTRODUCCIÓN:", "CONTENIDO:", "META-DESCRIPCIÓN:", "SECCIÓN:". 
+- Escribe DIRECTAMENTE el texto final que leerá el usuario.
 
 TU RESPUESTA DEBE EMPEZAR DIRECTAMENTE CON EL CONTENIDO SOLICITADO.
 CUALQUIER TEXTO FUERA DE LO SOLICITADO HARÁ QUE EL SISTEMA FALLE.
@@ -113,28 +114,29 @@ def generar_imagen(titulo):
 # --- HERRAMIENTAS DE LIMPIEZA ---
 def limpiar_tags(texto):
     # Eliminar etiquetas administrativas
-    patron = r'^(TÍTULO:|TITLE:|META-DESCRIPCIÓN:|INTRODUCCIÓN:|CONTENIDO:|INTRO:)\s*'
+    # Pattern: Line starts with one of these keywords followed by colon and optional space
+    patron = r'^(TÍTULO|TITLE|META-DESCRIPCIÓN|INTRODUCCIÓN|CONTENIDO|SECCIÓN|INTRO):?\s*'
     texto = re.sub(patron, '', texto, flags=re.IGNORECASE | re.MULTILINE)
     return texto.strip()
 
 def limpiar_titulo(texto):
-    # 4. Refinar la Lógica de "Limpieza de Títulos"
     texto = texto.strip()
     
     # Lista Negra extendida: Conectores y Gerundios
     patron_basura = r'^(y |o |además |¡|!|continuando|profundizando|analizando|siguiendo|como vemos|en este artículo|hoy vamos a ver)\s*'
     texto = re.sub(patron_basura, '', texto, flags=re.IGNORECASE)
     
-    # 3. Filtro de Dos Pasos: Quedarse solo con la primera línea
+    # Filtro de Dos Pasos: Quedarse solo con la primera línea
     lineas = [l.strip() for l in texto.split('\n') if l.strip()]
     if not lineas: return "Sin Título"
-    
     titulo = lineas[0]
     
-    # Eliminar prefijos de IA y NÚMEROS/SIMBOLOS AGRESIVOS (1., 1-, *, etc)
+    # Eliminar prefijos de IA y NÚMEROS/SIMBOLOS AGRESIVOS
     titulo = re.sub(r'^(TITULO:|Title:|Here is|Aquí tienes|Claro|El título es)\s*', '', titulo, flags=re.IGNORECASE)
     titulo = re.sub(r'^[\d\.\-\s\*]+', '', titulo) # Elimina "1. ", "2-", "** " al inicio
-    titulo = titulo.replace('"', '').replace('*', '').replace('#', '')
+    
+    # Limpieza estricta de markdown en el título
+    titulo = titulo.replace('*', '').replace('#', '').replace('"', '').replace('`', '')
     
     # Eliminar dos puntos al final
     titulo = re.sub(r':\s*$', '', titulo)
@@ -183,9 +185,7 @@ def generar_estructura(tema):
     headers = [f"Todo sobre {tema}", f"Análisis de {tema}", "Conclusión"] # Fallback
 
     if titulo_match:
-        # Extraemos el contenido crudo dentro de las etiquetas
         raw_title = titulo_match.group(1).strip()
-        # Aplicamos la limpieza
         titulo_final = limpiar_titulo(raw_title)
     
     if escaleta_match:
@@ -201,7 +201,7 @@ def generar_estructura(tema):
                 
     return titulo_final, headers
 
-# --- FASE B: EL ESCRITOR (Bloques) ---
+# --- FASE B: EL ESCRITOR (Bloques - Estilo WEF) ---
 def escribir_bloque(encabezado, titulo_articulo, hub_info):
     print(f"✍️ FASE B: Escribiendo bloque '{encabezado}'...")
     
@@ -209,23 +209,30 @@ def escribir_bloque(encabezado, titulo_articulo, hub_info):
     if hub_info:
         contexto_link = f"IMPORTANTE: Intenta mencionar el concepto '{hub_info['keyword']}' de forma natural e incluye este enlace Markdown: [{hub_info['keyword']}]({hub_info['url']}). Si no encaja, no lo fuerces."
 
+    # PROMPT "GLOBAL AUTHORITY (WEF)" REFINADO
     prompt = f"""
-    Artículo: "{titulo_articulo}".
-    Sección: "{encabezado}".
+    ACTÚA COMO UN ANALISTA SENIOR DE UN FORO ECONÓMICO GLOBAL.
+    TU OBJETIVO ES REDACTAR LA SECCIÓN: "{encabezado}" 
+    PARA EL ARTÍCULO TITULADO: "{titulo_articulo}".
 
-    INSTRUCCIONES:
-    1. Escribe 400 palabras profundas y técnicas.
-    2. ESTILO: Tono humano, cero saludos, cero IA.
-    3. NO uses encabezados internos (ni # ni ##).
-    4. GEO OPTIMIZATION:
-       - OBLIGATORIO: Empieza con un párrafo en negrita (**Resumen...**) que resuma la sección.
-       - Si comparas, usa Tabla Markdown.
-    5. {contexto_link}
+    --- REGLAS DE ORO DE FORMATO (ESTRICTO) ---
+    1. PROHIBIDO: Escribir títulos (# o ##) dentro de este bloque. El script ya los pone.
+    2. PROHIBIDO: Usar etiquetas administrativas como "CONTENIDO:", "SECCIÓN:" o "INTRODUCCIÓN:".
+    3. PROHIBIDO: Saludos, meta-comentarios o feedback hacia el usuario.
+    4. ESTILO: Redacción técnica, profesional y neutral. Evita el tono sensacionalista.
+    5. PÁRRAFOS: Máximo de 4 a 6 líneas por párrafo para garantizar legibilidad.
+    6. NEGRILLAS: Úsalas exclusivamente para resaltar 1 o 2 conceptos clave por sección. No resaltes frases enteras.
+    7. ESPACIADO: Separa cada párrafo con exactamente dos saltos de línea (\\n\\n).
 
-    SALIDA: Solo el contenido Markdown de la sección.
+    --- ESTRUCTURA TÉCNICA ---
+    - Comienza directamente con el texto analítico.
+    - Si presentas datos comparativos, usa una tabla Markdown limpia sin bordes innecesarios.
+    - Si incluyes una lista, usa viñetas sencillas (-) con una breve explicación.
+    - {contexto_link}
+
+    SALIDA: Solo el texto Markdown final. Si incluyes etiquetas de IA, el sistema descartará tu respuesta.
     """
     
-    # Amnesia Selectiva: Cada llamada es stateless por defecto en generate_content
     response = client.models.generate_content(
         model='gemini-2.0-flash', 
         contents=prompt,
@@ -278,26 +285,28 @@ def generar_faq(contenido_total, tema):
     if v_match: visual = v_match.group(1).strip()
     if s_match: script = s_match.group(1).strip().replace('```html', '').replace('```json', '').replace('```', '')
     
+    # Limpieza extra de etiquetas en visual
+    visual = limpiar_tags(visual)
+    
     return visual, script
 
 def extraer_subtemas(contenido_total):
     print("🌱 Generando Seeds...")
     prompt = """
-    Eres un extractor de datos frío.
-    Tu salida debe ser exclusivamente una lista de 5 conceptos cortos (máximo 3 palabras cada uno) separados por comas.
-    Prohibido hablar, saludar o analizar el texto anterior.
+    ERES UN EXTRACTOR DE DATOS.
+    Genera 5 temas cortos de 3 palabras máximo, separados por comas.
+    PROHIBIDO dar feedback, felicitar al usuario o escribir párrafos.
+    Si fallas, el sistema se detendrá.
     """
     response = client.models.generate_content(
         model='gemini-2.0-flash', 
         contents=contenido_total[:3000],
         config=types.GenerateContentConfig(system_instruction=SYSTEM_INSTRUCTION)
     )
-    # Limpiamos tags por si acaso
     texto_raw = limpiar_tags(response.text)
     return [s.strip() for s in texto_raw.split(',')][:5]
 
 def motor_de_contenidos(kw):
-    # Amnesia: kw es nuevo, reiniciamos todo el flujo
     print(f"\n🚀 INICIANDO MOTOR PARA: {kw}")
     
     is_hub, hub_info = gestionar_estado_hub(kw)
@@ -310,28 +319,26 @@ def motor_de_contenidos(kw):
     imagen_url = generar_imagen(titulo)
     
     # 3. Intro
-    intro_prompt = f"Escribe una intro viral (200 palabras) para '{titulo}'. Directo al grano."
+    intro_prompt = f"Escribe una intro profesional (200 palabras) para '{titulo}'. Estilo analista global. Directo al grano."
     intro_resp = client.models.generate_content(
         model='gemini-2.0-flash', contents=intro_prompt,
         config=types.GenerateContentConfig(system_instruction=SYSTEM_INSTRUCTION)
     )
     
-    # 5. Sincronización Fase C (Ensamblaje con espaciado explícito)
-    contenido_completo = f"# {titulo}\n\n{limpiar_tags(intro_resp.text)}\n\n"
+    # 5. Sincronización Fase C (Ensamblaje sin duplicar título)
+    # ELIMINADO EL # {titulo} AQUÍ PARA EVITAR DUPLICADOS EN HUGO
+    contenido_completo = f"{limpiar_tags(intro_resp.text)}\n\n"
     
     for h in headers:
         bloque = escribir_bloque(h, titulo, hub_info)
-        # Separación explícita (Doble salto de línea para evitar pegado)
+        # Separación explícita
         contenido_completo += f"## {h}\n\n{bloque}\n\n"
         time.sleep(1)
     
     # 4. FAQ Dual
     faq_visual, faq_script = generar_faq(contenido_completo, kw)
     
-    # Añadimos sección visual legible
     contenido_completo += f"\n\n## Preguntas Frecuentes\n{faq_visual}\n\n"
-    # Añadimos script invisible (raw HTML en markdown se renderiza si el SSG lo permite, o se queda oculto)
-    # Para asegurar que Hugo no lo rompa, lo ideal es ponerlo tal cual.
     contenido_completo += f"{faq_script}"
     
     # 5. Spokes
@@ -347,9 +354,7 @@ def motor_de_contenidos(kw):
 
 def guardar_localmente(titulo, contenido, imagen_url):
     slug = titulo.replace(" ", "-").lower()
-    # Limpiar slug de caracteres raros
     slug = re.sub(r'[^a-z0-9-]', '', slug)
-    # Recorte de seguridad (60 caracteres)
     slug = slug[:60]
     
     os.makedirs('content/posts', exist_ok=True)
