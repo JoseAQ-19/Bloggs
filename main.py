@@ -8,7 +8,8 @@ import random
 import urllib.parse
 
 # Configuración
-GEMINI_KEY = os.getenv("GEMINI_API_KEY")
+# Busca GEMINI_API_KEY, y si no está, busca GOOGLE_API_KEY
+GEMINI_KEY = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
 GH_TOKEN = os.getenv("GH_TOKEN")
 REPO_NAME = os.getenv("GITHUB_REPOSITORY")
 
