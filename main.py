@@ -4,6 +4,8 @@ import json
 from google import genai
 from google.genai import types
 from datetime import datetime
+import random
+import urllib.parse
 
 # Configuración
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
@@ -24,32 +26,32 @@ def obtener_keyword():
     return selected
 
 def generar_imagen(titulo):
-    print(f"🎨 Pintando imagen para: {titulo}")
+    print(f"🎨 Pintando imagen con Flux (Pollinations): {titulo}")
     try:
-        prompt_imagen = f"Crea una imagen realista, futurista y periodística sobre este concepto tecnológico: {titulo}. Estilo fotografía de alta resolución, iluminación cinematográfica, 8k, sin texto."
+        # PASO A: El Arquitecto (Gemini crea el prompt visual)
+        prompt_arquitecto = f"Actúa como un Director de Arte experto. Escribe una descripción visual muy detallada, en INGLÉS, para una imagen fotorealista y cinemática sobre: '{titulo}'. Debe ser una sola frase larga. SIN comillas ni introducciones."
         
-        response = client.models.generate_images(
-            model='imagen-3.0-generate-001',
-            prompt=prompt_imagen,
-            config=types.GenerateImagesConfig(
-                number_of_images=1,
-            )
+        response = client.models.generate_content(
+            model='gemini-2.0-flash', 
+            contents=prompt_arquitecto
         )
         
-        if response.generated_images:
-            image = response.generated_images[0].image
-            # Nombre seguro para archivo
-            slug = titulo.replace(" ", "-").lower()
-            filename = f"{slug}.png"
-            path_relativo = f"/images/{filename}"
-            path_absoluto = f"static/images/{filename}"
-            
-            # Asegurar directorio
-            os.makedirs('static/images', exist_ok=True)
-            
-            image.save(path_absoluto)
-            print(f"🖼️ Imagen guardada en: {path_absoluto}")
-            return path_relativo
+        # PASO B: Limpieza
+        descripcion_visual = response.text.strip().replace('"', '').replace("'", "")
+        print(f"👁️ Prompt Visual: {descripcion_visual}")
+        
+        # PASO C: Semilla Mágica
+        seed = random.randint(0, 1000000)
+        
+        # PASO D: Construcción de la URL (Flux)
+        # Usamos urllib.parse.quote para asegurar que la URL sea válida
+        prompt_encoded = urllib.parse.quote(descripcion_visual)
+        imagen_url = f"https://image.pollinations.ai/prompt/{prompt_encoded}?model=flux&width=1280&height=720&seed={seed}&nologo=true"
+        
+        # PASO E: Retorno
+        print(f"🔗 URL Generada: {imagen_url}")
+        return imagen_url
+
     except Exception as e:
         print(f"⚠️ Error generando imagen: {e}")
         return None
