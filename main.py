@@ -164,23 +164,34 @@ def limpiar_contenido_final(texto):
 
 def limpiar_eco_encabezado(texto, encabezado):
     """
-    Elimina el encabezado si aparece repetido al inicio del texto.
+    Elimina el encabezado si aparece repetido al inicio del texto (Aggressive Mode).
     """
     texto = texto.strip()
+    
+    # 1. Explicit Markdown Header Removal (## Header)
+    # Removing any leading hash signs + header text
+    pattern_md = r'^[\#]*\s*' + re.escape(encabezado) + r'[:\.]?\s*'
+    texto = re.sub(pattern_md, "", texto, flags=re.IGNORECASE).strip()
+
+    # 2. Fuzzy Match Removal (Normalized check)
     # Normalize for comparison (ignore case/punctuation)
     norm_texto = re.sub(r'[^\w\s]', '', texto.lower())
     norm_header = re.sub(r'[^\w\s]', '', encabezado.lower())
     
+    # If the text body STILL starts with the header (without markdown symbols)
     if norm_texto.startswith(norm_header):
-        # Remove header from raw text (case insensitive)
-        texto = re.sub(f"^{re.escape(encabezado)}\s*[:\.]?\s*", "", texto, flags=re.IGNORECASE).strip()
+        # We try to remove it using a slightly looser regex that allows for some noise
+        # Note: We already tried exact escape above, this catches variations like "Header:"
+        pattern_fuzzy = r'^' + re.escape(encabezado) + r'[:\.]?\s*'
+        texto = re.sub(pattern_fuzzy, "", texto, flags=re.IGNORECASE).strip()
     
-    # Also clean common "link phrases"
+    # 3. Clean common "link phrases" (The usual suspects)
     frases_eco = [
         f"Todo sobre {encabezado}",
         f"En este apartado hablaremos de {encabezado}",
         f"Como vemos en {encabezado}",
-        "A continuación analizaremos"
+        "A continuación analizaremos",
+        "En esta sección"
     ]
     for frase in frases_eco:
          texto = re.sub(f"^{re.escape(frase)}\s*[:\.]?\s*", "", texto, flags=re.IGNORECASE).strip()
