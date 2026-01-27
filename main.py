@@ -23,6 +23,7 @@ TU PRODUCCIÓN VA DIRECTA A PUBLICACIÓN EDITORIAL.
 PROHIBIDO TERMINANTEMENTE:
 - Saludos, meta-comentarios ("Aquí tienes el texto", "He redactado...").
 - Etiquetas de sección administrativas visibles como "TÍTULO:", "INTRODUCCIÓN:", "SECCIÓN:", "CONTENIDO:".
+- Repetir el título de la sección al inicio del párrafo.
 - Feedback humano.
 
 TU OBJETIVO ES GENERAR TEXTO FINAL IMPECABLE QUE NO REQUIERA EDICIÓN HUMANA.
@@ -113,20 +114,43 @@ def generar_imagen(titulo):
 def limpiar_contenido_final(texto):
     if not texto: return ""
     
-    # 1. Sanitización de Etiquetas Prohibidas (Lista Estricta)
+    # 1. Sanitización de Etiquetas Prohibidas
     prohibidas = ["TÍTULO:", "TITLE:", "INTRODUCCIÓN:", "INTRO:", "META-DESCRIPCIÓN:", "CONTENIDO:", "SECCIÓN:", "CONCLUSIÓN:"]
     for p in prohibidas:
-        # Regex: Start of line, keyword, verify colon, greedy whitespace cleanup
         texto = re.sub(f"^{p}\s*", "", texto, flags=re.IGNORECASE | re.MULTILINE)
     
-    # 2. Reparar Newlines literales (Fix crítico)
+    # 2. Reparar Newlines literales
     texto = texto.replace('\\n', '\n')
     
-    # 3. Aire Visual para Tablas (Saltos obligatorios)
-    # Encuentra la tabla Markdown (bloque que empieza con |) y asegura \n\n antes
+    # 3. Aire Visual para Tablas
     texto = re.sub(r'(\n\|.*\|)', r'\n\n\1', texto) 
     
     return texto.strip()
+
+def limpiar_eco_encabezado(texto, encabezado):
+    """
+    Elimina el encabezado si aparece repetido al inicio del texto.
+    """
+    texto = texto.strip()
+    # Normalize for comparison (ignore case/punctuation)
+    norm_texto = re.sub(r'[^\w\s]', '', texto.lower())
+    norm_header = re.sub(r'[^\w\s]', '', encabezado.lower())
+    
+    if norm_texto.startswith(norm_header):
+        # Remove header from raw text (case insensitive)
+        texto = re.sub(f"^{re.escape(encabezado)}\s*[:\.]?\s*", "", texto, flags=re.IGNORECASE).strip()
+    
+    # Also clean common "link phrases"
+    frases_eco = [
+        f"Todo sobre {encabezado}",
+        f"En este apartado hablaremos de {encabezado}",
+        f"Como vemos en {encabezado}",
+        "A continuación analizaremos"
+    ]
+    for frase in frases_eco:
+         texto = re.sub(f"^{re.escape(frase)}\s*[:\.]?\s*", "", texto, flags=re.IGNORECASE).strip()
+         
+    return texto
 
 def limpiar_titulo(texto):
     texto = texto.strip()
@@ -152,7 +176,7 @@ def limpiar_titulo(texto):
     
     return titulo.strip()
 
-# --- FASE A: EL ARQUITECTO ---
+# --- FASE A: EL ARQUITECTO (Headers Cortos) ---
 def generar_estructura(tema):
     print("🏗️ FASE A: Arquitecto diseñando la estructura...")
     prompt = f"""
@@ -161,6 +185,12 @@ def generar_estructura(tema):
     1. Genera un Título Viral y SEO-Optimizado.
     2. Genera una lista JSON ESTRICTA de 6 a 8 encabezados (H2).
     
+    REGLA CLAVE PARA ENCABEZADOS (H2):
+    - Deben ser CONCEPTOS CORTOS y ELEGANTES (Máximo 4 palabras).
+    - PROHIBIDO frases largas o preguntas.
+    - Ejemplo BIEN: "Impacto Económico", "Evolución Técnica".
+    - Ejemplo MAL: "Cómo esto afectará a la economía mundial en el futuro".
+
     FORMATO OBLIGATORIO:
     [TITULO]Escribe aquí el título[/TITULO]
     [ESCALETA]Escribe aquí el JSON[/ESCALETA]
@@ -178,7 +208,7 @@ def generar_estructura(tema):
     escaleta_match = re.search(r'\[ESCALETA\](.*?)\[/ESCALETA\]', texto, re.DOTALL)
     
     titulo_final = tema 
-    headers = [f"Todo sobre {tema}", f"Análisis de {tema}", "Conclusión"]
+    headers = [f"Análisis de {tema}", "Perspectivas Futuras", "Conclusión"]
 
     if titulo_match:
         titulo_final = limpiar_titulo(titulo_match.group(1))
@@ -191,7 +221,7 @@ def generar_estructura(tema):
                 
     return titulo_final, headers
 
-# --- FASE B: EL ESCRITOR (Estilo WEF) ---
+# --- FASE B: EL ESCRITOR (Anti-Echo) ---
 def escribir_bloque(encabezado, titulo_articulo, hub_info):
     print(f"✍️ FASE B: Escribiendo bloque '{encabezado}'...")
     
@@ -203,12 +233,16 @@ def escribir_bloque(encabezado, titulo_articulo, hub_info):
     ACTÚA COMO UN ANALISTA SENIOR DE UN FORO ECONÓMICO GLOBAL.
     REDACTA LA SECCIÓN: "{encabezado}" PARA EL ARTÍCULO: "{titulo_articulo}".
 
-    --- REGLAS DE ORO DE DISEÑO (ESTRICTO) ---
-    1. JERARQUÍA PLANA: No uses subtítulos (#, ##, ###) dentro de este bloque. Solo párrafos fluidos.
-    2. NEGRITAS QUIRÚRGICAS: Úsalas SOLO para resaltar 1 concepto técnico clave (máximo 2 palabras). NUNCA frases enteras.
+    --- REGLAS DE ORO DE ESCRITURA ---
+    1. ANTI-ECHO (CRÍTICO): PROHIBIDO EMPEZAR EL PÁRRAFO REPITIENDO EL TÍTULO DE LA SECCIÓN.
+    2. PROHIBIDO: Frases como "En esta sección...", "Como dice el título...".
+    3. INICIO POTENTE: Empieza DIRECTAMENTE con un análisis fuerte o un dato.
+
+    --- REGLAS DE ORO DE DISEÑO ---
+    1. JERARQUÍA PLANA: No uses subtítulos (#, ##, ###) dentro de este bloque.
+    2. NEGRITAS QUIRÚRGICAS: Úsalas SOLO para resaltar 1 concepto técnico clave (máximo 2 palabras).
     3. AIRE VISUAL: Cada 3 párrafos, intenta usar una LISTA de viñetas (-) o una TABLA compacta.
-    4. TABLAS (CRÍTICO): Si generas una tabla, DEBES dejar DOS saltos de línea (\\n\\n) antes y después de ella.
-    5. ESPACIADO: Separa cada párrafo con exactamente DOS saltos de línea (\\n\\n).
+    4. TABLAS: DEBES dejar DOS saltos de línea (\\n\\n) antes y después de ella.
     
     {contexto_link}
 
@@ -220,33 +254,27 @@ def escribir_bloque(encabezado, titulo_articulo, hub_info):
         contents=prompt,
         config=types.GenerateContentConfig(system_instruction=SYSTEM_INSTRUCTION)
     )
-    return limpiar_contenido_final(response.text)
+    
+    raw_text = limpiar_contenido_final(response.text)
+    # Limpieza programática de ECO (Seguridad extra)
+    return limpiar_eco_encabezado(raw_text, encabezado)
 
-# --- FASE C: ESTRATEGA DE SEO (Internal Linking) ---
+# --- FASE C: ESTRATEGA DE SEO ---
 def generar_relacionados(tema):
     print("🧠 FASE C: Generando Estrategia de Enlazado...")
     prompt = f"""
-    ACTÚA COMO UN ESTRATEGA DE SEO Y ARQUITECTURA DE CONTENIDOS.
-    TU TAREA ES FINALIZAR EL ARTÍCULO: "{tema}".
+    ACTÚA COMO UN ESTRATEGA DE SEO.
+    Genera "## Temas Relacionados" para: "{tema}".
+    
+    FORMATO (Lista Markdown):
+    * [Tema 1](/posts/slug-1)
+    * [Tema 2](/posts/slug-2)
+    * [Tema 3](/posts/slug-3)
 
-    --- TAREA PRINCIPAL ---
-    Genera una sección titulada "## Temas Relacionados".
-    Debes proponer 3 temas que profundicen en lo hablado o conecten con la categoría principal.
-
-    --- FORMATO DE SALIDA (ESTRICTO) ---
-    Usa exclusivamente una lista de viñetas con enlaces Markdown:
-    * [Nombre del Tema Relacionado 1](/posts/slug-del-tema-1)
-    * [Nombre del Tema Relacionado 2](/posts/slug-del-tema-2)
-    * [Nombre del Tema Relacionado 3](/posts/slug-del-tema-3)
-
-    --- REGLAS DE ORO ---
-    1. PROHIBIDO: Dar feedback, saludar o decir "Aquí tienes los temas".
-    2. PROHIBIDO: Usar etiquetas como "SEEDS:" o "KEYWORDS:".
-    3. PROHIBIDO: Inventar estructuras raras. Solo el H2 y los 3 puntos de la lista.
-    4. LÓGICA DE URL: Crea slugs limpios (sin mayúsculas, guiones).
-    5. AMNESIA: No menciones nada anterior, solo entrega el bloque Markdown.
-
-    SALIDA: Devuelve directamente el bloque Markdown.
+    REGLAS:
+    1. PROHIBIDO hablar. Solo la lista.
+    2. Slugs limpios.
+    3. Sin etiquetas extrañas.
     """
     response = client.models.generate_content(
         model='gemini-2.0-flash', 
@@ -287,7 +315,6 @@ def motor_de_contenidos(kw):
         config=types.GenerateContentConfig(system_instruction=SYSTEM_INSTRUCTION)
     )
     
-    # ENSAMBLAJE: TITULO ELIMINADO (EMPIEZA CON INTRO LIMPIA)
     intro_texto = limpiar_contenido_final(intro_resp.text)
     contenido_completo = f"{intro_texto}\n\n"
     
@@ -296,7 +323,6 @@ def motor_de_contenidos(kw):
         contenido_completo += f"## {h}\n\n{bloque}\n\n"
         time.sleep(1)
     
-    # NUEVA FASE C: SEO LINKING (Reemplaza FAQ)
     bloque_relacionados = generar_relacionados(titulo)
     contenido_completo += f"\n\n{bloque_relacionados}\n\n"
     
@@ -322,7 +348,6 @@ def guardar_localmente(titulo, contenido, imagen_url):
     image_fm = f"image: '{imagen_url}'" if imagen_url else ""
     front_matter = f"---\ntitle: '{titulo}'\ndate: {fecha}\ndraft: false\n{image_fm}\n---\n\n"
     
-    # ULTIMA LIMPIEZA DE SEGURIDAD (Newlines y Tags)
     contenido = limpiar_contenido_final(contenido)
     
     with open(filename, 'w', encoding='utf-8') as f:
