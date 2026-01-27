@@ -86,6 +86,10 @@
     </header>
     <main>
         <article>
+            {{ if .Params.image }}
+            <img src="{{ .Params.image }}" alt="{{ .Title }}"
+                style="width:100%; height:auto; border-radius:8px; margin-bottom:30px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+            {{ end }}
             <h1>{{ .Title }}</h1>
             <span class="date">Publicado el: {{ .Date.Format "02 Jan 2006" }}</span>
             <hr style="border: 0; border-top: 1px solid #eee; margin: 30px 0;">
