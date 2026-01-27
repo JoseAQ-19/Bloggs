@@ -1,0 +1,32 @@
+{
+    "Crisis de Deuda Global 2026": {
+        "technical_data": [
+            "JP Morgan asigna un 35% de probabilidad de recesión global en 2026.",
+            "La deuda global ha superado los $315 Trillones (IIF).",
+            "El crédito privado no regulado se identifica como el mayor riesgo sistémico ('Shadow Banking')."
+        ],
+        "geopolitical_context": "La fragmentación de cadenas de suministro y los conflictos comerciales están manteniendo la inflación por encima del objetivo del 2%, lo que impide bajar los tipos de interés.",
+        "brand_opinion": "El mercado está ignorando peligrosamente la burbuja del crédito privado. Es el nuevo 'Subprime'.",
+        "key_figures": "Los pagos de intereses de deuda en el G7 superarán el gasto en defensa por primera vez."
+    },
+    "Renacimiento Nuclear 2026": {
+        "technical_data": [
+            "BloombergNEF proyecta que 15 nuevos reactores se conectarán a la red en 2026 (+12GW).",
+            "Meta y Google han firmado PPAs (acuerdos de compra) por 20 años con desarrolladores de SMR (Reactores Modulares).",
+            "El precio del Uranio se proyecta por encima de $110/lb debido a la escasez de suministro."
+        ],
+        "geopolitical_context": "La demanda energética de los Data Centers de IA se ha duplicado, forzando a las Big Tech a financiar energía nuclear para cumplir metas de carbono.",
+        "brand_opinion": "La energía nuclear ya no es un debate ecológico, es una necesidad de supervivencia tecnológica para la IA.",
+        "key_figures": "Capacidad Nuclear Global: +2.5% anual."
+    },
+    "IA en Medicina Preventiva": {
+        "technical_data": [
+            "El mercado de 'Wearables Clínicos' (anillos, parches) crecerá un 40% en 2026.",
+            "Nuevos códigos de reembolso (CPT) permiten a los médicos cobrar por monitoreo remoto vía IA.",
+            "Algoritmos predictivos ahora detectan fibrilación auricular 48h antes del evento."
+        ],
+        "geopolitical_context": "El envejecimiento de la población en Occidente hace insostenible el modelo curativo. El sistema migra forzosamente a lo preventivo.",
+        "brand_opinion": "La medicina reactiva ('ir al médico cuando duele') está muerta. El futuro es la gestión algorítmica de la longevidad.",
+        "key_figures": "Reducción de costes hospitalarios estimada: 15%."
+    }
+}

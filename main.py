@@ -19,31 +19,59 @@ client = genai.Client(api_key=GEMINI_KEY)
 
 # 1. FORZAR MODO MÁQUINA (Instrucción de Sistema)
 SYSTEM_INSTRUCTION = """
-ERES UN REDACTOR DE CONTENIDO INVISIBLE DE ALTA GAMA.
-TU PRODUCCIÓN VA DIRECTA A PUBLICACIÓN EDITORIAL EN NOVUMWORLD.
+Eres un ANALISTA SENIOR EXPERTO en Geopolítica, Tecnología y Economía.
+Escribes para NOVUMWORLD, un medio de élite.
+
+TU PERSONALIDAD ("REALI-TEA"):
+1. OPINIÓN FUERTE: No eres neutral. Usas la 1ª persona ("En mi análisis...", "Sostengo que...").
+2. CRÍTICO: Señalas sin piedad los fallos del mercado, las mentiras corporativas y las contradicciones.
+3. DATA-DRIVEN: Tus argumentos se basan en los HECHOS REALES suministrados. No inventas cifras.
 
 PROHIBIDO TERMINANTEMENTE:
-- GENERAR TABLAS. Bajo ninguna circunstancia uses el formato de tablas Markdown (|---|). Toda la información debe ser presentada en párrafos narrativos o listas de puntos sencillas.
-- Saludos, meta-comentarios ("Aquí tienes el texto", "He redactado...").
-- Etiquetas de sección administrativas visibles como "TÍTULO:", "INTRODUCCIÓN:", "SECCIÓN:", "CONTENIDO:".
-- Repetir el título de la sección al inicio del párrafo.
-- Feedback humano.
+- GENERAR TABLAS. (Usa listas de puntos para datos).
+- Ser "tibio" o "enciclopédico".
+- Usar frases de IA como "En conclusión" o "Es importante destacar".
+- Repetir el título de la sección al inicio.
+- Saludos o meta-comentarios.
 
-TU OBJETIVO ES GENERAR TEXTO FINAL IMPECABLE QUE NO REQUIERA EDICIÓN HUMANA.
+TU OBJETIVO: Escribir el mejor análisis en español de 2026.
 """
 
 HUB_STATE_FILE = 'data/hub_state.json'
 KEYWORDS_FILE = 'data/keywords.txt'
+DB_FILE = 'data/articulos_data.json'
+
+# Cargar BD en memoria
+MASTER_DB = {}
+if os.path.exists(DB_FILE):
+    with open(DB_FILE, 'r') as f:
+        try:
+            MASTER_DB = json.load(f)
+        except:
+            MASTER_DB = {}
 
 def obtener_keyword():
-    if not os.path.exists(KEYWORDS_FILE): return None
+    if not os.path.exists(KEYWORDS_FILE): return None, None
     with open(KEYWORDS_FILE, 'r') as f:
         lines = f.readlines()
-    if not lines: return None
-    selected = lines[0].strip()
+    if not lines: return None, None
+    
+    topic = lines[0].strip()
+    
+    # Buscar en la BD Maestra
+    dossier = MASTER_DB.get(topic, {})
+    
+    # Convertir dossier JSON a string legible para el prompt
+    if dossier:
+        context_data = json.dumps(dossier, ensure_ascii=False, indent=2)
+    else:
+        # Fallback si no hay datos (no debería pasar con Reali-Tea v3)
+        context_data = "No hay datos específicos. Usa tu conocimiento general pero SÉ CRÍTICO."
+
     with open(KEYWORDS_FILE, 'w') as f:
         f.writelines(lines[1:])
-    return selected
+        
+    return topic, context_data
 
 def prepend_keywords(new_keywords):
     existing = []
@@ -243,19 +271,24 @@ def limpiar_titulo(texto):
     return titulo.strip()
 
 # --- FASE A: EL ARQUITECTO (Headers Cortos) ---
-def generar_estructura(tema):
+def generar_estructura(tema, context_data, is_hub):
     print("🏗️ FASE A: Arquitecto diseñando la estructura...")
+    
+    num_headers = 10 if is_hub else 7
+    tipo_articulo = "GUIDE (Gran Formato)" if is_hub else "Artículo Standard"
+    
     prompt = f"""
     Tema: "{tema}".
+    Datos Reales: "{context_data}"
+    Tipo: {tipo_articulo}
+    
     TAREA:
-    1. Genera un Título Viral y SEO-Optimizado.
-    2. Genera una lista JSON ESTRICTA de 6 a 8 encabezados (H2).
+    1. Genera un Título Viral y Provocador (Estilo Bloomberg/Vice).
+    2. Genera una lista JSON ESTRICTA de {num_headers} encabezados (H2).
     
     REGLA CLAVE PARA ENCABEZADOS (H2):
-    - Deben ser CONCEPTOS CORTOS y ELEGANTES (Máximo 4 palabras).
-    - PROHIBIDO frases largas o preguntas.
-    - Ejemplo BIEN: "Impacto Económico", "Evolución Técnica".
-    - Ejemplo MAL: "Cómo esto afectará a la economía mundial en el futuro".
+    - Conceptos cortantes ("La Gran Mentira", "El Colapso"). Máximo 4 palabras.
+    - Sácale jugo a los Datos Reales.
 
     FORMATO OBLIGATORIO:
     [TITULO]Escribe aquí el título[/TITULO]
@@ -288,30 +321,43 @@ def generar_estructura(tema):
     return titulo_final, headers
 
 # --- FASE B: EL ESCRITOR (Anti-Echo + Glass Cleaner + Strict Tables) ---
-def escribir_bloque(encabezado, titulo_articulo, hub_info):
+def escribir_bloque(encabezado, titulo_articulo, hub_info, context_data):
     print(f"✍️ FASE B: Escribiendo bloque '{encabezado}'...")
     
-    contexto_link = ""
+    instruccion_spoke = ""
     if hub_info:
-        contexto_link = f"Contexto opcional: '{hub_info['keyword']}' ([Enlace]({hub_info['url']}))."
+        instruccion_spoke = f"""
+        IMPORTANTE (SPOKE): Este artículo es satélite de la Guía Principal sobre '{hub_info['keyword']}'.
+        DEBES mencionar brevemente la 'Guía Principal' y enlazarla así: [Ver Guía Principal]({hub_info['url']}).
+        Hazlo de forma natural en el texto.
+        """
 
     prompt = f"""
-    ACTÚA COMO UN ANALISTA SENIOR DE UN FORO ECONÓMICO GLOBAL.
+    ACTÚA COMO UN ANALISTA SENIOR (ESTILO 'REALI-TEA').
+    Tienes este DOSSIER TÉCNICO EXCLUSIVO (JSON):
+    ```json
+    {context_data}
+    ```
+    
+    MANDATO DE VERACIDAD:
+    - Esta es tu ÚNICA fuente de verdad. Tienes prohibido contradecir estas cifras.
+    - Úsalas como base de tus argumentos.
+    - Si el dossier contiene datos negativos o pérdidas, ACTIVA EL MODO "HONESTIDAD BRUTAL". No suavices la realidad. Explícala.
+    
     REDACTA LA SECCIÓN: "{encabezado}" PARA EL ARTÍCULO: "{titulo_articulo}".
-
+    
     --- REGLAS DE ORO DE ESCRITURA ---
     1. PROHIBIDO USAR CONTRABARRA '\\' PARA ESCAPAR TEXTO.
     2. ANTI-ECHO (CRÍTICO): PROHIBIDO EMPEZAR EL PÁRRAFO REPITIENDO EL TÍTULO DE LA SECCIÓN.
-    3. SÍNTESIS NARRATIVA (SIN TABLAS):
-       - Si necesitas comparar conceptos o presentar datos, utiliza LISTAS CON VIÑETAS (*) breves y elegantes.
-       - Cada punto debe ser una frase directa que aporte valor inmediato al lector.
-       - Prioriza la continuidad del texto. El artículo debe leerse como una pieza de análisis continuo, sin interrupciones de bloques de datos crudos.
+    3. SÍNTESIS NARRATIVA (SIN TABLAS): Usa listas de viñetas (*) para datos.
+    4. TONO: Usa la 1ª persona ("Mi lectura es...", "Observo que..."). Sé crítico. Cita los HECHOS REALES para validar tu tesis.
+    
+    {instruccion_spoke}
 
     --- REGLAS DE ORO DE DISEÑO ---
     1. JERARQUÍA PLANA: No uses subtítulos (#, ##, ###) dentro de este bloque.
     2. NEGRITAS QUIRÚRGICAS: Úsalas SOLO para resaltar 1 concepto técnico clave (máximo 2 palabras).
     
-    {contexto_link}
 
     SALIDA: Solo el texto Markdown final. Cero etiquetas.
     """
@@ -366,17 +412,25 @@ def extraer_subtemas(contenido_total):
     texto = limpiar_contenido_final(response.text)
     return [s.strip() for s in texto.split(',')][:5]
 
-def motor_de_contenidos(kw):
+def motor_de_contenidos(kw, context_data):
     print(f"\n🚀 INICIANDO MOTOR PARA: {kw}")
     
     is_hub, hub_info = gestionar_estado_hub(kw)
     
-    titulo, headers = generar_estructura(kw)
+    titulo, headers = generar_estructura(kw, context_data, is_hub)
     print(f"📌 Título Generado: {titulo}")
     
     imagen_url = generar_imagen(titulo)
     
-    intro_prompt = f"Escribe una intro profesional (200 palabras) para '{titulo}'. Estilo analista global. Directo al grano."
+    intro_prompt = f"""
+    Escribe una INTRODUCCIÓN DURA Y DIRECTA (200 palabras) para '{titulo}'.
+    Usa este DOSSIER: 
+    ```json
+    {context_data}
+    ```
+    Empieza con una frase corta y demoledora.
+    Estilo: Analista Senior (1ª persona). Si hay datos alarmantes, empieza por ahí.
+    """
     intro_resp = client.models.generate_content(
         model='gemini-2.0-flash', contents=intro_prompt,
         config=types.GenerateContentConfig(system_instruction=SYSTEM_INSTRUCTION)
@@ -386,7 +440,7 @@ def motor_de_contenidos(kw):
     contenido_completo = f"{intro_texto}\n\n"
     
     for h in headers:
-        bloque = escribir_bloque(h, titulo, hub_info)
+        bloque = escribir_bloque(h, titulo, hub_info, context_data)
         contenido_completo += f"## {h}\n\n{bloque}\n\n"
         time.sleep(1)
     
@@ -396,7 +450,7 @@ def motor_de_contenidos(kw):
     if is_hub:
         try:
             subtemas = extraer_subtemas(contenido_completo)
-            prepend_keywords(subtemas)
+            prepend_keywords(subtemas) # Hub spokes don't have context data yet, simple strings
             print(f"🔗 Spokes añadidos: {subtemas}")
         except:
             pass
@@ -424,10 +478,11 @@ def guardar_localmente(titulo, contenido, imagen_url):
     print(f"✅ Artículo guardado: {filename}")
 
 if __name__ == "__main__":
-    keyword = obtener_keyword()
+    keyword, context_data = obtener_keyword()
     if keyword:
         try:
-            titulo, texto, imagen_url = motor_de_contenidos(keyword)
+            # We assume context_data is valid string even if empty
+            titulo, texto, imagen_url = motor_de_contenidos(keyword, context_data)
             if texto:
                 guardar_localmente(titulo, texto, imagen_url)
         except Exception as e:
