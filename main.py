@@ -254,7 +254,7 @@ def generar_estructura(tema):
                 
     return titulo_final, headers
 
-# --- FASE B: EL ESCRITOR (Anti-Echo + Glass Cleaner) ---
+# --- FASE B: EL ESCRITOR (Anti-Echo + Glass Cleaner + Table Design) ---
 def escribir_bloque(encabezado, titulo_articulo, hub_info):
     print(f"✍️ FASE B: Escribiendo bloque '{encabezado}'...")
     
@@ -268,13 +268,17 @@ def escribir_bloque(encabezado, titulo_articulo, hub_info):
 
     --- REGLAS DE ORO DE ESCRITURA ---
     1. PROHIBIDO USAR CONTRABARRA '\\' PARA ESCAPAR TEXTO. Rompe el formato.
-    2. FORMATO TABLA: Comienza directamente con '| Encabezado |'. ¡La tabla debe ser una ISLA rodeada de espacio!
-    3. ANTI-ECHO (CRÍTICO): PROHIBIDO EMPEZAR EL PÁRRAFO REPITIENDO EL TÍTULO DE LA SECCIÓN.
+    2. ANTI-ECHO (CRÍTICO): PROHIBIDO EMPEZAR EL PÁRRAFO REPITIENDO EL TÍTULO DE LA SECCIÓN.
     
-    --- REGLAS DE ORO DE DISEÑO ---
-    1. JERARQUÍA PLANA: No uses subtítulos (#, ##, ###) dentro de este bloque.
-    2. NEGRITAS QUIRÚRGICAS: Úsalas SOLO para resaltar 1 concepto técnico clave (máximo 2 palabras).
-    3. AIRE VISUAL: Cada 3 párrafos, intenta usar una LISTA de viñetas (-) o una TABLA compacta.
+    --- REGLAS DE ORO DE DISEÑO (WEF STANDARD) ---
+    1. TABLAS IMPECABLES:
+       - MÁXIMO 3 COLUMNAS. Si necesitas más, divide la tabla.
+       - CELDAS CONCITEMENTE DATA-DRIVEN: Máximo 5 o 6 palabras por celda.
+       - ALINEACIÓN INTELIGENTE: Usa ':---' para la izquierda.
+       - ISLA VISUAL: Comienza directamente con '| Encabezado |'.
+       - EXPLICACIÓN EXTERNA: No expliques dentro de la tabla, hazlo en el párrafo anterior.
+    2. JERARQUÍA PLANA: No uses subtítulos (#, ##, ###) dentro de este bloque.
+    3. NEGRITAS QUIRÚRGICAS: Úsalas SOLO para resaltar 1 concepto técnico clave (máximo 2 palabras).
     
     {contexto_link}
 
