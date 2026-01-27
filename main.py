@@ -40,6 +40,7 @@ TU OBJETIVO: Escribir el mejor análisis en español de 2026.
 HUB_STATE_FILE = 'data/hub_state.json'
 KEYWORDS_FILE = 'data/keywords.txt'
 DB_FILE = 'data/articulos_data.json'
+COMPLETED_FILE = 'data/completed.txt'
 
 # Cargar BD en memoria
 MASTER_DB = {}
@@ -50,28 +51,116 @@ if os.path.exists(DB_FILE):
         except:
             MASTER_DB = {}
 
+def generar_slug(texto):
+    slug = unicodedata.normalize('NFKD', texto).encode('ascii', 'ignore').decode('ascii')
+    slug = slug.replace(" ", "-").lower()
+    slug = re.sub(r'[^a-z0-9-]', '', slug)
+    slug = slug[:50].strip('-') # Evitar guiones al final tras el recorte
+    
+    # Fallback si el título solo contenía símbolos/emojis
+    if not slug:
+        slug = f"post-{int(time.time())}"
+        
+    return slug
+
+def recargar_keywords_si_vacio():
+    """
+    Si keywords.txt está vacío, lo rellena con las claves de MASTER_DB
+    que NO estén en data/completed.txt
+    """
+    if not MASTER_DB: 
+        return []
+    
+    print("🔄 Lista vacía. Verificando historial de completados...")
+    
+    completed = set()
+    if os.path.exists(COMPLETED_FILE):
+        with open(COMPLETED_FILE, 'r') as f:
+            # Normalizamos al cargar el historial
+            completed = {line.strip().lower() for line in f if line.strip()}
+    
+    nuevos_temas = []
+    print(f"📊 Analizando {len(MASTER_DB)} temas de la BD frente a {len(completed)} ya completados...")
+
+    for tema in MASTER_DB.keys():
+        if tema.strip().lower() not in completed:
+            nuevos_temas.append(tema)
+        else:
+            print(f"  ⏭️ Saltando (Ya completado): {tema[:30]}...")
+    
+    if nuevos_temas:
+        with open(KEYWORDS_FILE, 'w') as f:
+            for k in nuevos_temas:
+                f.write(f"{k}\n")
+        print(f"✅ RECARGA EXITOSA: {len(nuevos_temas)} temas añadidos a la cola.")
+        return nuevos_temas
+    else:
+        print("⚠️ No quedan temas pendientes en la BD (todos marcados como completados).")
+        return []
+
+def registrar_completado(tema):
+    try:
+        os.makedirs('data', exist_ok=True)
+        with open(COMPLETED_FILE, 'a') as f:
+            # Guardamos siempre en minúsculas para comparaciones futuras infalibles
+            f.write(f"{tema.strip().lower()}\n")
+        print(f"🏁 Tema registrado como completado: {tema[:30]}...")
+    except Exception as e:
+        print(f"⚠️ Error registrando completado: {e}")
+
 def obtener_keyword():
-    if not os.path.exists(KEYWORDS_FILE): return None, None
-    with open(KEYWORDS_FILE, 'r') as f:
-        lines = f.readlines()
-    if not lines: return None, None
+    lines = []
+    if os.path.exists(KEYWORDS_FILE):
+        with open(KEYWORDS_FILE, 'r') as f:
+            lines = [l for l in f.readlines() if l.strip()]
     
-    topic = lines[0].strip()
+    # Si no hay líneas válidas, intentamos recargar
+    if not lines:
+        nuevos = recargar_keywords_si_vacio()
+        if nuevos:
+            lines = [f"{t}\n" for t in nuevos]
+        else:
+            return None, None
     
-    # Buscar en la BD Maestra
-    dossier = MASTER_DB.get(topic, {})
+    # --- FILTRO BLINDADO ANTI-GIT ---
+    topic_limpio = None
+    idx_found = -1
+    for i, line in enumerate(lines):
+        line = line.strip()
+        if not line or line.startswith("<<<<") or line.startswith("====") or line.startswith(">>>>"):
+            continue
+        
+        possible_topic = re.sub(r'^[<>=]{7}.*?:\s*', '', line).strip()
+        
+        if possible_topic and not topic_limpio:
+            topic_limpio = possible_topic
+            idx_found = i
+            break
+            
+    if not topic_limpio:
+        return None, None
+        
+    lineas_restantes = lines[:idx_found] + lines[idx_found+1:]
     
-    # Convertir dossier JSON a string legible para el prompt
+    # --------------------------------
+    
+    # Buscar en la BD Maestra (Case-Insensitive Lookup)
+    db_lookup = {k.strip().lower(): k for k in MASTER_DB.keys()}
+    real_key = db_lookup.get(topic_limpio.strip().lower())
+    
+    dossier = MASTER_DB.get(real_key, {}) if real_key else {}
+    
     if dossier:
         context_data = json.dumps(dossier, ensure_ascii=False, indent=2)
     else:
-        # Fallback si no hay datos (no debería pasar con Reali-Tea v3)
         context_data = "No hay datos específicos. Usa tu conocimiento general pero SÉ CRÍTICO."
 
     with open(KEYWORDS_FILE, 'w') as f:
-        f.writelines(lines[1:])
-        
-    return topic, context_data
+        for l in lineas_restantes:
+             if not l.endswith('\n'): l += '\n'
+             f.write(l)
+             
+    return topic_limpio, context_data
 
 def prepend_keywords(new_keywords):
     existing = []
@@ -458,15 +547,8 @@ def motor_de_contenidos(kw, context_data):
     return titulo, contenido_completo, imagen_url
 
 def guardar_localmente(titulo, contenido, imagen_url):
-    # NORMALIZAR SLUG (Héroe -> heroe)
-    slug = unicodedata.normalize('NFKD', titulo).encode('ascii', 'ignore').decode('ascii')
-    slug = slug.replace(" ", "-").lower()
-    slug = re.sub(r'[^a-z0-9-]', '', slug)
-    slug = slug[:50].strip('-') # Evitar guiones al final tras el recorte
-    
-    # Fallback si el título solo contenía símbolos/emojis
-    if not slug:
-        slug = f"post-{int(time.time())}"
+    # Uso de la función helper factorizada
+    slug = generar_slug(titulo)
     
     os.makedirs('content/posts', exist_ok=True)
     filename = f"content/posts/{slug}.md"
@@ -489,6 +571,7 @@ if __name__ == "__main__":
             titulo, texto, imagen_url = motor_de_contenidos(keyword, context_data)
             if texto:
                 guardar_localmente(titulo, texto, imagen_url)
+                registrar_completado(keyword)
         except Exception as e:
             print(f"🔥 Error Crítico: {e}")
             import traceback
