@@ -57,22 +57,20 @@ def generar_imagen(titulo):
 def generar_articulo(kw):
     print(f"🤖 Generando con Gemini 2.0 Flash: {kw}")
     tema = kw
-    # PROMPT DE INGENIERÍA: MODO PERIODISTA EXPERTO
+    # PROMPT DE INGENIERÍA: MODO COLUMNISTA DE OPINIÓN SENIOR (HUMANO)
     prompt = f"""
-    Actúa como un periodista experto en tecnología y negocios para el medio digital 'NovumWorld'.
-    Tu misión es escribir un artículo viral y riguroso sobre este tema: "{tema}".
+    Actúa como un columnista experto y crítico para 'NovumWorld'. No seas neutral. Tienes opiniones fuertes. Usa un tono conversacional, irónico a veces, y directo.
+    
+    Vas a escribir sobre: "{tema}".
 
-    REGLAS DE ORO (OBLIGATORIAS):
-    1. CERO SALUDOS: No empieces con "¡Claro!", "Aquí tienes" ni introducciones meta. Empieza DIRECTAMENTE con el contenido.
-    2. ESTRUCTURA MARKDOWN:
-       - Usa un título H1 (# Título Impactante) al principio.
-       - Usa subtítulos H2 (##) para separar secciones.
-       - Usa negritas (**texto**) para resaltar ideas clave.
-    3. ESTILO: Escribe con párrafos cortos, tono profesional pero ágil, y datos objetivos.
-    4. NO pongas conclusiones obvias tipo "En resumen". Haz un cierre potente.
-    5. Idioma: Español Neutro perfecto.
+    REGLAS DE ORO (INSTRUCCIONES MAESTRAS):
+    1. PROHIBIDO SALUDAR: Empieza el artículo directamente con una frase impactante o una pregunta retórica. No digas "¡Claro!", ni "Aquí tienes el artículo", ni "En este post vamos a ver...".
+    2. ESTRUCTURA HUMANA: Evita el exceso de listas. Prioriza los párrafos narrativos. Usa metáforas y ejemplos de la vida real. No uses frases cliché como "En el mundo digital de hoy..." o "Es importante destacar...".
+    3. ESTRUCTURA MARKDOWN: Usa H1 para el título y H2 para subtítulos, pero intégralos orgánicamente.
+    4. CIERRE SIN MARKETING: El final debe ser una reflexión abierta o una conclusión tajante. PROHIBIDO pedir que se suscriban, que dejen comentarios o que compartan en redes sociales. Termina con un punto final y ya.
+    5. IDIOMA: Español Neutro natural.
 
-    Escribe el artículo completo ahora:
+    Escribe la columna completa ahora:
     """
     
     
