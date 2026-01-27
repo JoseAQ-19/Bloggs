@@ -18,17 +18,15 @@ client = genai.Client(api_key=GEMINI_KEY)
 
 # 1. FORZAR MODO MÁQUINA (Instrucción de Sistema)
 SYSTEM_INSTRUCTION = """
-ERES UN OPERADOR INDUSTRIAL DE PROCESAMIENTO DE DATOS.
-TU SALIDA ES EXCLUSIVAMENTE CÓDIGO Y TEXTO PARA PROCESAMIENTO AUTOMATIZADO.
+ERES UN REDACTOR DE CONTENIDO INVISIBLE DE ALTA GAMA.
+TU PRODUCCIÓN VA DIRECTA A PUBLICACIÓN EDITORIAL.
 PROHIBIDO TERMINANTEMENTE:
-- Saludos, cortesía o validación ("¡Excelente!", "Hola", "Aquí tienes").
-- Introducciones o meta-comentarios ("El título es...", "He generado...").
+- Saludos, meta-comentarios ("Aquí tienes el texto", "He redactado...").
+- Etiquetas de sección administrativas visibles como "TÍTULO:", "INTRODUCCIÓN:", "SECCIÓN:", "CONTENIDO:".
 - Feedback humano.
-- Etiquetas de sección administrativas como "TÍTULO:", "INTRODUCCIÓN:", "CONTENIDO:", "META-DESCRIPCIÓN:", "SECCIÓN:". 
-- Escribe DIRECTAMENTE el texto final que leerá el usuario.
 
-TU RESPUESTA DEBE EMPEZAR DIRECTAMENTE CON EL CONTENIDO SOLICITADO.
-CUALQUIER TEXTO FUERA DE LO SOLICITADO HARÁ QUE EL SISTEMA FALLE.
+TU OBJETIVO ES GENERAR TEXTO FINAL IMPECABLE QUE NO REQUIERA EDICIÓN HUMANA.
+SI EL INPUT PIDE "INTRODUCCIÓN", ESCRIBE DIRECTAMENTE EL PÁRRAFO DE INTRODUCCIÓN, SIN PONER EL TÍTULO "INTRODUCCIÓN".
 """
 
 HUB_STATE_FILE = 'data/hub_state.json'
@@ -111,64 +109,66 @@ def generar_imagen(titulo):
         print(f"⚠️ Error generando imagen: {e}")
         return None
 
-# --- HERRAMIENTAS DE LIMPIEZA ---
-def limpiar_tags(texto):
-    # Eliminar etiquetas administrativas
-    # Pattern: Line starts with one of these keywords followed by colon and optional space
-    patron = r'^(TÍTULO|TITLE|META-DESCRIPCIÓN|INTRODUCCIÓN|CONTENIDO|SECCIÓN|INTRO):?\s*'
-    texto = re.sub(patron, '', texto, flags=re.IGNORECASE | re.MULTILINE)
-    # FIX: Literal Newline replacement
+# --- HERRAMIENTAS DE LIMPIEZA FINAL ---
+def limpiar_contenido_final(texto):
+    if not texto: return ""
+    
+    # 1. Eliminar etiquetas administrativas
+    patron_tags = r'^(TÍTULO|TITLE|META-DESCRIPCIÓN|INTRODUCCIÓN|CONTENIDO|SECCIÓN|INTRO):?\s*'
+    texto = re.sub(patron_tags, '', texto, flags=re.IGNORECASE | re.MULTILINE)
+    
+    # 2. Reparar Newlines literales (La IA a veces escupe \n como texto)
     texto = texto.replace('\\n', '\n')
+    
+    # 3. Aire Visual para Tablas (Doble salto antes y después de tablas)
+    # Detecta líneas que empiezan con | (pipe) y asegura espacio antes
+    texto = re.sub(r'(\n\|.*\|)', r'\n\n\1', texto) 
+    # Detecta cierre de tabla y asegura espacio después
+    # (Esto es básico, asume que la tabla acaba cuando ya no hay pipes, pero un \n\n extra no daña)
+    
     return texto.strip()
 
 def limpiar_titulo(texto):
     texto = texto.strip()
     
-    # Lista Negra extendida: Conectores y Gerundios
+    # Lista Negra extendida
     patron_basura = r'^(y |o |además |¡|!|continuando|profundizando|analizando|siguiendo|como vemos|en este artículo|hoy vamos a ver)\s*'
     texto = re.sub(patron_basura, '', texto, flags=re.IGNORECASE)
     
-    # Filtro de Dos Pasos: Quedarse solo con la primera línea
     lineas = [l.strip() for l in texto.split('\n') if l.strip()]
     if not lineas: return "Sin Título"
     titulo = lineas[0]
     
-    # Eliminar prefijos de IA y NÚMEROS/SIMBOLOS AGRESIVOS
+    # Eliminar prefijos y basura
     titulo = re.sub(r'^(TITULO:|Title:|Here is|Aquí tienes|Claro|El título es)\s*', '', titulo, flags=re.IGNORECASE)
-    titulo = re.sub(r'^[\d\.\-\s\*]+', '', titulo) # Elimina "1. ", "2-", "** " al inicio
-    
-    # Limpieza estricta de markdown en el título
+    titulo = re.sub(r'^[\d\.\-\s\*]+', '', titulo) 
     titulo = titulo.replace('*', '').replace('#', '').replace('"', '').replace('`', '')
-    
-    # Eliminar dos puntos al final
     titulo = re.sub(r':\s*$', '', titulo)
     
-    # Validación de longitud
+    # Longitud
     words = titulo.split()
     if len(words) > 15:
         titulo = " ".join(words[:12]) + "..."
     
-    # Capitalización tipo Título (Title Case)
-    return titulo.strip().title()
+    # Capitalización forzada (Primera mayúscula)
+    # Por si acaso la IA devuelve todo minúscula
+    if titulo and titulo[0].islower():
+        titulo = titulo[0].upper() + titulo[1:]
+    
+    return titulo.strip()
 
-# --- FASE A: EL ARQUITECTO (Escaleta + Título) ---
+# --- FASE A: EL ARQUITECTO ---
 def generar_estructura(tema):
     print("🏗️ FASE A: Arquitecto diseñando la estructura...")
     prompt = f"""
     Tema: "{tema}".
-    
     TAREA:
     1. Genera un Título Viral y SEO-Optimizado.
     2. Genera una lista JSON ESTRICTA de 6 a 8 encabezados (H2).
     
-    FORMATO DE SALIDA OBLIGATORIO (Usa estas etiquetas exactas):
+    FORMATO OBLIGATORIO:
     [TITULO]Escribe aquí el título[/TITULO]
     [ESCALETA]Escribe aquí el JSON[/ESCALETA]
-    
-    Reglas:
-    - NO escribas nada fuera de estas etiquetas.
-    - El JSON debe ser válido (lista de strings).
-    - El TÍTULO debe ser un nombre propio o una declaración directa (sin numeros ni gerundios).
     """
     
     response = client.models.generate_content(
@@ -177,62 +177,48 @@ def generar_estructura(tema):
         config=types.GenerateContentConfig(system_instruction=SYSTEM_INSTRUCTION)
     )
     
-    texto = limpiar_tags(response.text)
+    texto = limpiar_contenido_final(response.text)
     
-    # Parsing manual con etiquetas
     titulo_match = re.search(r'\[TITULO\](.*?)\[/TITULO\]', texto, re.DOTALL)
     escaleta_match = re.search(r'\[ESCALETA\](.*?)\[/ESCALETA\]', texto, re.DOTALL)
     
-    titulo_final = tema # Fallback
-    headers = [f"Todo sobre {tema}", f"Análisis de {tema}", "Conclusión"] # Fallback
+    titulo_final = tema 
+    headers = [f"Todo sobre {tema}", f"Análisis de {tema}", "Conclusión"]
 
     if titulo_match:
-        raw_title = titulo_match.group(1).strip()
-        titulo_final = limpiar_titulo(raw_title)
+        titulo_final = limpiar_titulo(titulo_match.group(1))
     
     if escaleta_match:
         try:
             headers = json.loads(escaleta_match.group(1))
         except:
-            print("⚠️ Error JSON. Intentando limpiar markdown...")
-            try:
-                clean_json = escaleta_match.group(1).replace('```json', '').replace('```', '').strip()
-                headers = json.loads(clean_json)
-            except:
-                pass
+            pass
                 
     return titulo_final, headers
 
-# --- FASE B: EL ESCRITOR (Bloques - Estilo WEF) ---
+# --- FASE B: EL ESCRITOR (Estilo WEF) ---
 def escribir_bloque(encabezado, titulo_articulo, hub_info):
     print(f"✍️ FASE B: Escribiendo bloque '{encabezado}'...")
     
     contexto_link = ""
     if hub_info:
-        contexto_link = f"IMPORTANTE: Intenta mencionar el concepto '{hub_info['keyword']}' de forma natural e incluye este enlace Markdown: [{hub_info['keyword']}]({hub_info['url']}). Si no encaja, no lo fuerces."
+        contexto_link = f"Contexto opcional: '{hub_info['keyword']}' ([Enlace]({hub_info['url']}))."
 
     # PROMPT "GLOBAL AUTHORITY (WEF)" REFINADO
     prompt = f"""
     ACTÚA COMO UN ANALISTA SENIOR DE UN FORO ECONÓMICO GLOBAL.
-    TU OBJETIVO ES REDACTAR LA SECCIÓN: "{encabezado}" 
-    PARA EL ARTÍCULO TITULADO: "{titulo_articulo}".
+    REDACTA LA SECCIÓN: "{encabezado}" PARA EL ARTÍCULO: "{titulo_articulo}".
 
-    --- REGLAS DE ORO DE FORMATO (ESTRICTO) ---
-    1. PROHIBIDO: Escribir títulos (# o ##) dentro de este bloque. El script ya los pone.
-    2. PROHIBIDO: Usar etiquetas administrativas como "CONTENIDO:", "SECCIÓN:" o "INTRODUCCIÓN:".
-    3. PROHIBIDO: Saludos, meta-comentarios o feedback hacia el usuario.
-    4. ESTILO: Redacción técnica, profesional y neutral. Evita el tono sensacionalista.
-    5. PÁRRAFOS: Máximo de 4 a 6 líneas por párrafo para garantizar legibilidad.
-    6. NEGRILLAS: Úsalas exclusivamente para resaltar 1 o 2 conceptos clave por sección. No resaltes frases enteras.
-    7. ESPACIADO: Separa cada párrafo con exactamente dos saltos de línea (\\n\\n).
+    --- REGLAS DE ORO DE DISEÑO (ESTRICTO) ---
+    1. JERARQUÍA PLANA: No uses subtítulos (#, ##, ###) dentro de este bloque. Solo párrafos fluidos.
+    2. NEGRITAS QUIRÚRGICAS: Úsalas SOLO para resaltar 1 concepto técnico clave (máximo 2 palabras). NUNCA pongas frases enteras en negrita.
+    3. AIRE VISUAL: Cada 3 párrafos, intenta usar una LISTA de viñetas (-) o una TABLA compacta para romper la densidad.
+    4. TABLAS: Si usas tabla, máximo 3 columnas y texto muy breve en celdas. Deja espacio antes y después.
+    5. ESPACIADO: Separa cada párrafo con exactamente DOS saltos de línea (\\n\\n).
+    
+    {contexto_link}
 
-    --- ESTRUCTURA TÉCNICA ---
-    - Comienza directamente con el texto analítico.
-    - Si presentas datos comparativos, usa una tabla Markdown limpia sin bordes innecesarios.
-    - Si incluyes una lista, usa viñetas sencillas (-) con una breve explicación.
-    - {contexto_link}
-
-    SALIDA: Solo el texto Markdown final. Si incluyes etiquetas de IA, el sistema descartará tu respuesta.
+    SALIDA: Solo el texto Markdown final. Cero etiquetas.
     """
     
     response = client.models.generate_content(
@@ -240,40 +226,28 @@ def escribir_bloque(encabezado, titulo_articulo, hub_info):
         contents=prompt,
         config=types.GenerateContentConfig(system_instruction=SYSTEM_INSTRUCTION)
     )
-    return limpiar_tags(response.text)
+    return limpiar_contenido_final(response.text)
 
-# --- FASE C: EL EDITOR (Ensamblaje y FAQ - TÉCNICO) ---
+# --- FASE C: EL EDITOR (TÉCNICO) ---
 def generar_faq(contenido_total, tema):
-    print("🧠 FASE C: Generando FAQ Dual (Visual + JSON-LD)...")
+    print("🧠 FASE C: Generando FAQ Dual...")
     prompt = f"""
     ACTÚA COMO UN EDITOR TÉCNICO DE DATOS.
-    Basado en: "{tema}".
-    
-    TAREA 1: Genera un bloque JSON-LD de FAQ basado en el texto. Solo el código <script>. Prohibido usar bloques de código Markdown (```).
-    
-    TAREA 2: Genera 5 palabras clave (Seeds) para futuros artículos. IMPORTANTE: NO LO HAGAS AQUÍ, SOLO FAQ.
-    
-    FORMATO DE SALIDA OBLIGATORIO (Usa estas etiquetas):
+    Genera 5 FAQ (Visual + JSON-LD) para: "{tema}".
     
     [VISUAL]
-    ### ¿Pregunta 1?
-    Respuesta breve.
-    ### ¿Pregunta 2?
-    Respuesta breve.
+    ### ¿Pregunta?
+    Respuesta.
     ...
     [/VISUAL]
     
     [SCRIPT]
     <script type="application/ld+json">
-    {{
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      ...
-    }}
+    {{ "@context": "https://schema.org", "@type": "FAQPage", ... }}
     </script>
     [/SCRIPT]
     
-    REGLA DE ORO: PROHIBIDO dar feedback, felicitar al usuario o añadir etiquetas como 'AQUÍ TIENES:' o 'SEEDS:'. Si escribes algo que no sea el JSON o las preguntas visuales, el proceso fallará.
+    REGLA: En [SCRIPT], solo el código raw. Cero markdown.
     """
     response = client.models.generate_content(
         model='gemini-2.0-flash', 
@@ -281,18 +255,13 @@ def generar_faq(contenido_total, tema):
         config=types.GenerateContentConfig(system_instruction=SYSTEM_INSTRUCTION)
     )
     
-    # Parsing
     visual = ""
     script = ""
-    
     v_match = re.search(r'\[VISUAL\](.*?)\[/VISUAL\]', response.text, re.DOTALL)
     s_match = re.search(r'\[SCRIPT\](.*?)\[/SCRIPT\]', response.text, re.DOTALL)
     
-    if v_match: visual = v_match.group(1).strip()
+    if v_match: visual = limpiar_contenido_final(v_match.group(1))
     if s_match: script = s_match.group(1).strip().replace('```html', '').replace('```json', '').replace('```', '')
-    
-    # Limpieza extra de etiquetas en visual + Literal Newlines
-    visual = limpiar_tags(visual)
     
     return visual, script
 
@@ -302,55 +271,44 @@ def extraer_subtemas(contenido_total):
     ACTÚA COMO UN EDITOR TÉCNICO DE DATOS.
     Genera 5 palabras clave (Seeds) para futuros artículos. 
     Formato: Solo palabras separadas por comas.
-    REGLA DE ORO: PROHIBIDO dar feedback, felicitar al usuario o añadir etiquetas como 'AQUÍ TIENES:' o 'SEEDS:'. 
-    Si escribes algo que no sea las palabras clave, el proceso fallará.
+    PROHIBIDO HABLAR. SOLO DATOS.
     """
     response = client.models.generate_content(
         model='gemini-2.0-flash', 
         contents=contenido_total[:3000],
         config=types.GenerateContentConfig(system_instruction=SYSTEM_INSTRUCTION)
     )
-    texto_raw = limpiar_tags(response.text)
-    return [s.strip() for s in texto_raw.split(',')][:5]
+    texto = limpiar_contenido_final(response.text)
+    return [s.strip() for s in texto.split(',')][:5]
 
 def motor_de_contenidos(kw):
     print(f"\n🚀 INICIANDO MOTOR PARA: {kw}")
     
     is_hub, hub_info = gestionar_estado_hub(kw)
     
-    # 1. Fase A: Estructura y Título
     titulo, headers = generar_estructura(kw)
     print(f"📌 Título Generado: {titulo}")
     
-    # 2. Imagen
     imagen_url = generar_imagen(titulo)
     
-    # 3. Intro
     intro_prompt = f"Escribe una intro profesional (200 palabras) para '{titulo}'. Estilo analista global. Directo al grano."
     intro_resp = client.models.generate_content(
         model='gemini-2.0-flash', contents=intro_prompt,
         config=types.GenerateContentConfig(system_instruction=SYSTEM_INSTRUCTION)
     )
     
-    # 5. Sincronización Fase C (Ensamblaje sin duplicar título)
-    # ELIMINADO EL # {titulo} AQUÍ PARA EVITAR DUPLICADOS EN HUGO
-    # Aseguramos saltos de línea literales
-    intro_texto = limpiar_tags(intro_resp.text)
+    # ENSAMBLAJE: SIN TÍTULO DUPLICADO (EMPIEZA CON INTRO)
+    intro_texto = limpiar_contenido_final(intro_resp.text)
     contenido_completo = f"{intro_texto}\n\n"
     
     for h in headers:
         bloque = escribir_bloque(h, titulo, hub_info)
-        # Separación explícita
         contenido_completo += f"## {h}\n\n{bloque}\n\n"
         time.sleep(1)
     
-    # 4. FAQ Dual
     faq_visual, faq_script = generar_faq(contenido_completo, kw)
+    contenido_completo += f"\n\n## Preguntas Frecuentes\n{faq_visual}\n\n{faq_script}"
     
-    contenido_completo += f"\n\n## Preguntas Frecuentes\n{faq_visual}\n\n"
-    contenido_completo += f"{faq_script}"
-    
-    # 5. Spokes
     if is_hub:
         try:
             subtemas = extraer_subtemas(contenido_completo)
@@ -364,7 +322,6 @@ def motor_de_contenidos(kw):
 def guardar_localmente(titulo, contenido, imagen_url):
     slug = titulo.replace(" ", "-").lower()
     slug = re.sub(r'[^a-z0-9-]', '', slug)
-    # SLUG LIMITED TO 50 CHARS
     slug = slug[:50]
     
     os.makedirs('content/posts', exist_ok=True)
@@ -374,8 +331,8 @@ def guardar_localmente(titulo, contenido, imagen_url):
     image_fm = f"image: '{imagen_url}'" if imagen_url else ""
     front_matter = f"---\ntitle: '{titulo}'\ndate: {fecha}\ndraft: false\n{image_fm}\n---\n\n"
     
-    # FINAL SAFETY REPLACEMENT FOR LITERAL NEWLINES
-    contenido = contenido.replace('\\n', '\n')
+    # LIMPIEZA FINAL DE SEGURIDAD
+    contenido = limpiar_contenido_final(contenido)
     
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(front_matter + contenido)
