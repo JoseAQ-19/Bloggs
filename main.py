@@ -21,7 +21,9 @@ client = genai.Client(api_key=GEMINI_KEY)
 SYSTEM_INSTRUCTION = """
 ERES UN REDACTOR DE CONTENIDO INVISIBLE DE ALTA GAMA.
 TU PRODUCCIÓN VA DIRECTA A PUBLICACIÓN EDITORIAL EN NOVUMWORLD.
+
 PROHIBIDO TERMINANTEMENTE:
+- GENERAR TABLAS. Bajo ninguna circunstancia uses el formato de tablas Markdown (|---|). Toda la información debe ser presentada en párrafos narrativos o listas de puntos sencillas.
 - Saludos, meta-comentarios ("Aquí tienes el texto", "He redactado...").
 - Etiquetas de sección administrativas visibles como "TÍTULO:", "INTRODUCCIÓN:", "SECCIÓN:", "CONTENIDO:".
 - Repetir el título de la sección al inicio del párrafo.
@@ -267,18 +269,16 @@ def escribir_bloque(encabezado, titulo_articulo, hub_info):
     REDACTA LA SECCIÓN: "{encabezado}" PARA EL ARTÍCULO: "{titulo_articulo}".
 
     --- REGLAS DE ORO DE ESCRITURA ---
-    1. PROHIBIDO USAR CONTRABARRA '\\' PARA ESCAPAR TEXTO. Rompe el formato.
+    1. PROHIBIDO USAR CONTRABARRA '\\' PARA ESCAPAR TEXTO.
     2. ANTI-ECHO (CRÍTICO): PROHIBIDO EMPEZAR EL PÁRRAFO REPITIENDO EL TÍTULO DE LA SECCIÓN.
-    
-    --- REGLAS DE ORO DE DISEÑO (ESTRICTO WEF) ---
-    1. TABLAS IMPECABLES:
-       - MÁXIMO 3 COLUMNAS.
-       - CELDAS CON MÁXIMO 3 o 4 PALABRAS. Úsalas para DATOS RÁPIDOS (Alto, Bajo, Crítico), NO para frases.
-       - ALINEACIÓN INTELIGENTE: Usa ':---' para la izquierda.
-       - ISLA VISUAL: Comienza directamente con '| Encabezado |'.
-       - EXPLICACIÓN EXTERNA: Explica CUALQUIER detalle en el texto plano, NO en la tabla.
-    2. JERARQUÍA PLANA: No uses subtítulos (#, ##, ###) dentro de este bloque.
-    3. NEGRITAS QUIRÚRGICAS: Úsalas SOLO para resaltar 1 concepto técnico clave (máximo 2 palabras).
+    3. SÍNTESIS NARRATIVA (SIN TABLAS):
+       - Si necesitas comparar conceptos o presentar datos, utiliza LISTAS CON VIÑETAS (*) breves y elegantes.
+       - Cada punto debe ser una frase directa que aporte valor inmediato al lector.
+       - Prioriza la continuidad del texto. El artículo debe leerse como una pieza de análisis continuo, sin interrupciones de bloques de datos crudos.
+
+    --- REGLAS DE ORO DE DISEÑO ---
+    1. JERARQUÍA PLANA: No uses subtítulos (#, ##, ###) dentro de este bloque.
+    2. NEGRITAS QUIRÚRGICAS: Úsalas SOLO para resaltar 1 concepto técnico clave (máximo 2 palabras).
     
     {contexto_link}
 
