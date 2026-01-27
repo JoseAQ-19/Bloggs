@@ -3,6 +3,7 @@ languageCode = 'es-es'
 title = 'Mi Blog Automatizado 2026'
 theme = 'ananke'
 buildFuture = true
+paginate = 50
 
 [[menu.main]]
   identifier = "about"
