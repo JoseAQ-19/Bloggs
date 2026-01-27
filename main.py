@@ -183,6 +183,13 @@ def gestionar_estado_hub(tema_actual):
             except:
                 state = {}
 
+    # --- VERIFICACIÓN DE EXISTENCIA FÍSICA (Auto-Reparación) ---
+    if state and 'hub_slug' in state:
+        expected_file = f"content/posts/{state['hub_slug']}.md"
+        if not os.path.exists(expected_file):
+            print(f"🚨 ALERTA: El Hub '{state['hub_slug']}' ha desaparecido físicamente. Reseteando memoria.")
+            state = {} # Borrado de emergencia por inconsistencia
+
     is_hub = False
     hub_info = None
 
@@ -191,7 +198,7 @@ def gestionar_estado_hub(tema_actual):
         is_hub = True
         state = {
             'hub_keyword': tema_actual,
-            'hub_slug': tema_actual.replace(" ", "-").lower(),
+            'hub_slug': tema_actual.replace(" ", "-").lower(), # Placeholder, se actualizará al guardar
             'spokes_left': 5
         }
         print(f"👑 TEMA HUB DETECTADO: {tema_actual}")
@@ -204,13 +211,11 @@ def gestionar_estado_hub(tema_actual):
             'url': f"/posts/{state['hub_slug']}"
         }
         print(f"🛰️ TEMA SPOKE DETECTADO (Pertenece a {hub_info['keyword']})")
-
-    # Guardar estado
-    os.makedirs('data', exist_ok=True)
-    with open(HUB_STATE_FILE, 'w') as f:
-        json.dump(state, f)
     
-    return is_hub, hub_info
+    # IMPORTANTE: Si es Hub, el slug real se guardará después de generar el título. 
+    # Devolvemos el estado parcial, y luego `motor_de_contenidos` actualizará el slug correcto tras generar el título.
+    
+    return is_hub, hub_info, state
 
 def generar_imagen(titulo):
     print(f"🎨 Pintando imagen con Flux (Pollinations): {titulo}")
@@ -461,22 +466,60 @@ def escribir_bloque(encabezado, titulo_articulo, hub_info, context_data):
     # Limpieza programática de ECO (Seguridad extra)
     return limpiar_eco_encabezado(raw_text, encabezado)
 
-# --- FASE C: ESTRATEGA DE SEO ---
+# --- FASE C: ESTRATEGA DE SEO (Con Catálogo Real) ---
+def obtener_catalogo_real():
+    posts = []
+    if not os.path.exists('content/posts'):
+        return []
+        
+    for f in os.listdir('content/posts'):
+        if f.endswith('.md'):
+            path = os.path.join('content/posts', f)
+            try:
+                with open(path, 'r', encoding='utf-8') as file:
+                    content = file.readlines()
+                    # Buscamos title: en las primeras líneas
+                    for line in content[:10]:
+                        match = re.search(r'title:\s*[\'"](.*?)[\'"]', line)
+                        if match:
+                            title = match.group(1)
+                            slug = f.replace('.md', '')
+                            posts.append(f"- [{title}](/posts/{slug})")
+                            break
+            except:
+                pass
+    return posts
+
 def generar_relacionados(tema):
-    print("🧠 FASE C: Generando Estrategia de Enlazado...")
+    catalog = obtener_catalogo_real()
+    
+    # Regla del Desierto: Si hay pocos posts, mejor no poner nada
+    if len(catalog) < 3:
+        print("📭 Catálogo insuficiente para interlinking (<3). Omitiendo sección.")
+        return ""
+
+    print(f"🧠 FASE C: Generando Estrategia de Enlazado (Basada en {len(catalog)} artículos reales)...")
+    
+    # Seleccionamos aleatoriamente unos cuantos para no saturar el prompt si hay muchos
+    sample_catalog = "\n".join(random.sample(catalog, min(len(catalog), 30)))
+    
     prompt = f"""
     ACTÚA COMO UN ESTRATEGA DE SEO.
-    Genera "## Temas Relacionados" para: "{tema}".
+    Tienes este CATÁLOGO REAL de artículos existentes en el blog:
+    
+    {sample_catalog}
+    
+    TAREA: Selecciona 3 artículos de esa lista que se relacionen mejor con: "{tema}".
+    
+    REGLA DE ORO:
+    - SOLO puedes elegir enlaces de la lista de arriba.
+    - PROHIBIDO inventar o alucinar títulos. Si no está en la lista, no existe.
+    - Si ninguno encaja perfecto, elige los más recientes.
     
     FORMATO (Lista Markdown):
-    * [Tema 1](/posts/slug-1)
-    * [Tema 2](/posts/slug-2)
-    * [Tema 3](/posts/slug-3)
-
-    REGLAS:
-    1. PROHIBIDO hablar. Solo la lista.
-    2. Slugs limpios.
-    3. Sin etiquetas extrañas.
+    * [Título Real](/posts/slug-real)
+    * [Título Real](/posts/slug-real)
+    * [Título Real](/posts/slug-real)
     """
     response = client.models.generate_content(
         model='gemini-2.0-flash', 
@@ -504,10 +547,26 @@ def extraer_subtemas(contenido_total):
 def motor_de_contenidos(kw, context_data):
     print(f"\n🚀 INICIANDO MOTOR PARA: {kw}")
     
-    is_hub, hub_info = gestionar_estado_hub(kw)
+    is_hub, hub_info, state_obj = gestionar_estado_hub(kw)
     
     titulo, headers = generar_estructura(kw, context_data, is_hub)
     print(f"📌 Título Generado: {titulo}")
+    
+    # --- Actualización Crítica del State si es Hub ---
+    # Necesitamos el slug REAL generado a partir del título, no el teórico
+    if is_hub:
+        real_slug = generar_slug(titulo)
+        state_obj['hub_slug'] = real_slug
+        # Guardamos ahora que tenemos el slug definitivo
+        os.makedirs('data', exist_ok=True)
+        with open(HUB_STATE_FILE, 'w') as f:
+            json.dump(state_obj, f)
+    elif state_obj:
+        # Si es Spoke, solo guardamos el decremento del contador
+        os.makedirs('data', exist_ok=True)
+        with open(HUB_STATE_FILE, 'w') as f:
+            json.dump(state_obj, f)
+    # -----------------------------------------------
     
     imagen_url = generar_imagen(titulo)
     
