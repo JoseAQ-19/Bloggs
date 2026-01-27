@@ -254,7 +254,7 @@ def generar_estructura(tema):
                 
     return titulo_final, headers
 
-# --- FASE B: EL ESCRITOR (Anti-Echo + Glass Cleaner + Table Design) ---
+# --- FASE B: EL ESCRITOR (Anti-Echo + Glass Cleaner + Strict Tables) ---
 def escribir_bloque(encabezado, titulo_articulo, hub_info):
     print(f"✍️ FASE B: Escribiendo bloque '{encabezado}'...")
     
@@ -270,13 +270,13 @@ def escribir_bloque(encabezado, titulo_articulo, hub_info):
     1. PROHIBIDO USAR CONTRABARRA '\\' PARA ESCAPAR TEXTO. Rompe el formato.
     2. ANTI-ECHO (CRÍTICO): PROHIBIDO EMPEZAR EL PÁRRAFO REPITIENDO EL TÍTULO DE LA SECCIÓN.
     
-    --- REGLAS DE ORO DE DISEÑO (WEF STANDARD) ---
+    --- REGLAS DE ORO DE DISEÑO (ESTRICTO WEF) ---
     1. TABLAS IMPECABLES:
-       - MÁXIMO 3 COLUMNAS. Si necesitas más, divide la tabla.
-       - CELDAS CONCITEMENTE DATA-DRIVEN: Máximo 5 o 6 palabras por celda.
+       - MÁXIMO 3 COLUMNAS.
+       - CELDAS CON MÁXIMO 3 o 4 PALABRAS. Úsalas para DATOS RÁPIDOS (Alto, Bajo, Crítico), NO para frases.
        - ALINEACIÓN INTELIGENTE: Usa ':---' para la izquierda.
        - ISLA VISUAL: Comienza directamente con '| Encabezado |'.
-       - EXPLICACIÓN EXTERNA: No expliques dentro de la tabla, hazlo en el párrafo anterior.
+       - EXPLICACIÓN EXTERNA: Explica CUALQUIER detalle en el texto plano, NO en la tabla.
     2. JERARQUÍA PLANA: No uses subtítulos (#, ##, ###) dentro de este bloque.
     3. NEGRITAS QUIRÚRGICAS: Úsalas SOLO para resaltar 1 concepto técnico clave (máximo 2 palabras).
     
