@@ -20,7 +20,7 @@ client = genai.Client(api_key=GEMINI_KEY)
 # 1. FORZAR MODO MÁQUINA (Instrucción de Sistema)
 SYSTEM_INSTRUCTION = """
 ERES UN REDACTOR DE CONTENIDO INVISIBLE DE ALTA GAMA.
-TU PRODUCCIÓN VA DIRECTA A PUBLICACIÓN EDITORIAL.
+TU PRODUCCIÓN VA DIRECTA A PUBLICACIÓN EDITORIAL EN NOVUMWORLD.
 PROHIBIDO TERMINANTEMENTE:
 - Saludos, meta-comentarios ("Aquí tienes el texto", "He redactado...").
 - Etiquetas de sección administrativas visibles como "TÍTULO:", "INTRODUCCIÓN:", "SECCIÓN:", "CONTENIDO:".
@@ -28,7 +28,6 @@ PROHIBIDO TERMINANTEMENTE:
 - Feedback humano.
 
 TU OBJETIVO ES GENERAR TEXTO FINAL IMPECABLE QUE NO REQUIERA EDICIÓN HUMANA.
-SI EL INPUT PIDE "INTRODUCCIÓN", ESCRIBE DIRECTAMENTE EL PÁRRAFO DE INTRODUCCIÓN, SIN PONER EL TÍTULO "INTRODUCCIÓN".
 """
 
 HUB_STATE_FILE = 'data/hub_state.json'
@@ -111,20 +110,53 @@ def generar_imagen(titulo):
         print(f"⚠️ Error generando imagen: {e}")
         return None
 
-# --- HERRAMIENTAS DE LIMPIEZA FINAL ---
+# --- HERRAMIENTAS DE LIMPIEZA FINAL (GLASS CLEANER) ---
 def limpiar_contenido_final(texto):
     if not texto: return ""
     
-    # 1. Sanitización de Etiquetas Prohibidas
+    # 1. Backslash Hunter (Mata líneas que solo son \)
+    texto = re.sub(r'^\s*\\\s*$', '', texto, flags=re.MULTILINE)
+    
+    # 2. Sanitización de Etiquetas Prohibidas
     prohibidas = ["TÍTULO:", "TITLE:", "INTRODUCCIÓN:", "INTRO:", "META-DESCRIPCIÓN:", "CONTENIDO:", "SECCIÓN:", "CONCLUSIÓN:"]
     for p in prohibidas:
         texto = re.sub(f"^{p}\s*", "", texto, flags=re.IGNORECASE | re.MULTILINE)
     
-    # 2. Reparar Newlines literales
+    # 3. Reparar Newlines literales
     texto = texto.replace('\\n', '\n')
     
-    # 3. Aire Visual para Tablas
-    texto = re.sub(r'(\n\|.*\|)', r'\n\n\1', texto) 
+    # 4. Island Logic (Aire para tablas)
+    # Lógica línea por línea para asegurar \n\n alrededor del bloque de tabla
+    lines = texto.splitlines()
+    processed_lines = []
+    in_table = False
+    
+    for i, line in enumerate(lines):
+        clean_line = line.strip()
+        is_table_row = clean_line.startswith('|')
+        
+        # Ignorar líneas vacías en la detección de estado, pero conservarla sueltas
+        if not clean_line:
+            processed_lines.append(line)
+            continue
+            
+        if is_table_row:
+            if not in_table:
+                # START OF TABLE
+                in_table = True
+                # Ensure spacing before: Add empty line if prev line wasn't empty
+                if processed_lines and processed_lines[-1].strip():
+                     processed_lines.append("")
+        else:
+             if in_table:
+                 # END OF TABLE
+                 in_table = False
+                 # Ensure spacing after: Add empty line
+                 processed_lines.append("")
+        
+        processed_lines.append(line)
+        
+    texto = "\n".join(processed_lines)
     
     return texto.strip()
 
@@ -222,7 +254,7 @@ def generar_estructura(tema):
                 
     return titulo_final, headers
 
-# --- FASE B: EL ESCRITOR (Anti-Echo) ---
+# --- FASE B: EL ESCRITOR (Anti-Echo + Glass Cleaner) ---
 def escribir_bloque(encabezado, titulo_articulo, hub_info):
     print(f"✍️ FASE B: Escribiendo bloque '{encabezado}'...")
     
@@ -235,15 +267,14 @@ def escribir_bloque(encabezado, titulo_articulo, hub_info):
     REDACTA LA SECCIÓN: "{encabezado}" PARA EL ARTÍCULO: "{titulo_articulo}".
 
     --- REGLAS DE ORO DE ESCRITURA ---
-    1. ANTI-ECHO (CRÍTICO): PROHIBIDO EMPEZAR EL PÁRRAFO REPITIENDO EL TÍTULO DE LA SECCIÓN.
-    2. PROHIBIDO: Frases como "En esta sección...", "Como dice el título...".
-    3. INICIO POTENTE: Empieza DIRECTAMENTE con un análisis fuerte o un dato.
-
+    1. PROHIBIDO USAR CONTRABARRA '\\' PARA ESCAPAR TEXTO. Rompe el formato.
+    2. FORMATO TABLA: Comienza directamente con '| Encabezado |'. ¡La tabla debe ser una ISLA rodeada de espacio!
+    3. ANTI-ECHO (CRÍTICO): PROHIBIDO EMPEZAR EL PÁRRAFO REPITIENDO EL TÍTULO DE LA SECCIÓN.
+    
     --- REGLAS DE ORO DE DISEÑO ---
     1. JERARQUÍA PLANA: No uses subtítulos (#, ##, ###) dentro de este bloque.
     2. NEGRITAS QUIRÚRGICAS: Úsalas SOLO para resaltar 1 concepto técnico clave (máximo 2 palabras).
     3. AIRE VISUAL: Cada 3 párrafos, intenta usar una LISTA de viñetas (-) o una TABLA compacta.
-    4. TABLAS: DEBES dejar DOS saltos de línea (\\n\\n) antes y después de ella.
     
     {contexto_link}
 
