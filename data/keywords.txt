@@ -1,24 +1,4 @@
-<<<<<<< HEAD
-## Análisis de La Crisis de la Deuda Global 2026
-
-La crisis de la deuda global en 2026 se presenta como un punto de inflexión en la economía mundial
-exacerbada por una combinación de factores macroeconómicos y geopolíticos. El aumento vertiginoso de las tasas de interés por parte de los bancos centrales
-en su intento por contener la inflación persistente
-ha elevado significativamente el costo del servicio de la deuda para muchos países
-especialmente aquellos con economías emergentes y en desarrollo.
-
-La situación se ve agravada por una serie de elementos críticos:
-
-*   La fortaleza del dólar estadounidense
-El Renacimiento de la Energía Nuclear
-Inteligencia Artificial en Medicina Preventiva
-Ciberseguridad en Infraestructuras Críticas
-El Futuro del Trabajo Remoto Asíncrono
-La Nueva Carrera Espacial: China vs EEUU
-Tecnologías de Desalinización Sostenible
-Impacto Económico del Envejecimiento Poblacional
-=======
+El Efecto Mariposa de Groenlandia: El Fin de la 'Pax Americana' Digital
 Crisis de Deuda Global 2026
 Renacimiento Nuclear 2026
 IA en Medicina Preventiva
->>>>>>> 3ddf6b4 (Feat: Reali-Tea v3 - Master JSON DB & Dossier Injection)
