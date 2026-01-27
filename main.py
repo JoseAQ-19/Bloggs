@@ -613,8 +613,12 @@ def guardar_localmente(titulo, contenido, imagen_url):
     filename = f"content/posts/{slug}.md"
     fecha = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
     
+    # SANITIZACIÓN DE TÍTULO PARA FRONT MATTER
+    # Eliminar comillas simples y dobles internas para evitar rotura de YAML
+    titulo_limpio = titulo.replace("'", "").replace('"', "")
+    
     image_fm = f"image: '{imagen_url}'" if imagen_url else ""
-    front_matter = f"---\ntitle: '{titulo}'\ndate: {fecha}\ndraft: false\n{image_fm}\n---\n\n"
+    front_matter = f"---\ntitle: '{titulo_limpio}'\ndate: {fecha}\ndraft: false\n{image_fm}\n---\n\n"
     
     contenido = limpiar_contenido_final(contenido)
     
