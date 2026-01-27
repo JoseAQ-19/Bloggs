@@ -8,6 +8,7 @@ from datetime import datetime
 import random
 import urllib.parse
 import time
+import unicodedata
 
 # Configuración
 GEMINI_KEY = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
@@ -337,7 +338,9 @@ def motor_de_contenidos(kw):
     return titulo, contenido_completo, imagen_url
 
 def guardar_localmente(titulo, contenido, imagen_url):
-    slug = titulo.replace(" ", "-").lower()
+    # NORMALIZAR SLUG (Héroe -> heroe)
+    slug = unicodedata.normalize('NFKD', titulo).encode('ascii', 'ignore').decode('ascii')
+    slug = slug.replace(" ", "-").lower()
     slug = re.sub(r'[^a-z0-9-]', '', slug)
     slug = slug[:50]
     
