@@ -1,4 +1,4 @@
-baseURL = 'https://mis-bloggs-2026.vercel.app/'
+baseURL = 'https://mis-bloggs-2026.vercel.app/' # Despliegue automático vercel
 languageCode = 'es-es'
 title = 'Mi Blog Automatizado 2026'
 theme = 'ananke'
