@@ -117,6 +117,8 @@ def limpiar_tags(texto):
     # Pattern: Line starts with one of these keywords followed by colon and optional space
     patron = r'^(TÍTULO|TITLE|META-DESCRIPCIÓN|INTRODUCCIÓN|CONTENIDO|SECCIÓN|INTRO):?\s*'
     texto = re.sub(patron, '', texto, flags=re.IGNORECASE | re.MULTILINE)
+    # FIX: Literal Newline replacement
+    texto = texto.replace('\\n', '\n')
     return texto.strip()
 
 def limpiar_titulo(texto):
@@ -240,12 +242,16 @@ def escribir_bloque(encabezado, titulo_articulo, hub_info):
     )
     return limpiar_tags(response.text)
 
-# --- FASE C: EL EDITOR (Ensamblaje y FAQ) ---
+# --- FASE C: EL EDITOR (Ensamblaje y FAQ - TÉCNICO) ---
 def generar_faq(contenido_total, tema):
     print("🧠 FASE C: Generando FAQ Dual (Visual + JSON-LD)...")
     prompt = f"""
+    ACTÚA COMO UN EDITOR TÉCNICO DE DATOS.
     Basado en: "{tema}".
-    Genera 5 Preguntas Frecuentes.
+    
+    TAREA 1: Genera un bloque JSON-LD de FAQ basado en el texto. Solo el código <script>. Prohibido usar bloques de código Markdown (```).
+    
+    TAREA 2: Genera 5 palabras clave (Seeds) para futuros artículos. IMPORTANTE: NO LO HAGAS AQUÍ, SOLO FAQ.
     
     FORMATO DE SALIDA OBLIGATORIO (Usa estas etiquetas):
     
@@ -267,7 +273,7 @@ def generar_faq(contenido_total, tema):
     </script>
     [/SCRIPT]
     
-    REGLA: En [SCRIPT], NO uses bloques de código Markdown (```). Solo el raw script.
+    REGLA DE ORO: PROHIBIDO dar feedback, felicitar al usuario o añadir etiquetas como 'AQUÍ TIENES:' o 'SEEDS:'. Si escribes algo que no sea el JSON o las preguntas visuales, el proceso fallará.
     """
     response = client.models.generate_content(
         model='gemini-2.0-flash', 
@@ -285,7 +291,7 @@ def generar_faq(contenido_total, tema):
     if v_match: visual = v_match.group(1).strip()
     if s_match: script = s_match.group(1).strip().replace('```html', '').replace('```json', '').replace('```', '')
     
-    # Limpieza extra de etiquetas en visual
+    # Limpieza extra de etiquetas en visual + Literal Newlines
     visual = limpiar_tags(visual)
     
     return visual, script
@@ -293,10 +299,11 @@ def generar_faq(contenido_total, tema):
 def extraer_subtemas(contenido_total):
     print("🌱 Generando Seeds...")
     prompt = """
-    ERES UN EXTRACTOR DE DATOS.
-    Genera 5 temas cortos de 3 palabras máximo, separados por comas.
-    PROHIBIDO dar feedback, felicitar al usuario o escribir párrafos.
-    Si fallas, el sistema se detendrá.
+    ACTÚA COMO UN EDITOR TÉCNICO DE DATOS.
+    Genera 5 palabras clave (Seeds) para futuros artículos. 
+    Formato: Solo palabras separadas por comas.
+    REGLA DE ORO: PROHIBIDO dar feedback, felicitar al usuario o añadir etiquetas como 'AQUÍ TIENES:' o 'SEEDS:'. 
+    Si escribes algo que no sea las palabras clave, el proceso fallará.
     """
     response = client.models.generate_content(
         model='gemini-2.0-flash', 
@@ -327,7 +334,9 @@ def motor_de_contenidos(kw):
     
     # 5. Sincronización Fase C (Ensamblaje sin duplicar título)
     # ELIMINADO EL # {titulo} AQUÍ PARA EVITAR DUPLICADOS EN HUGO
-    contenido_completo = f"{limpiar_tags(intro_resp.text)}\n\n"
+    # Aseguramos saltos de línea literales
+    intro_texto = limpiar_tags(intro_resp.text)
+    contenido_completo = f"{intro_texto}\n\n"
     
     for h in headers:
         bloque = escribir_bloque(h, titulo, hub_info)
@@ -355,7 +364,8 @@ def motor_de_contenidos(kw):
 def guardar_localmente(titulo, contenido, imagen_url):
     slug = titulo.replace(" ", "-").lower()
     slug = re.sub(r'[^a-z0-9-]', '', slug)
-    slug = slug[:60]
+    # SLUG LIMITED TO 50 CHARS
+    slug = slug[:50]
     
     os.makedirs('content/posts', exist_ok=True)
     filename = f"content/posts/{slug}.md"
@@ -363,6 +373,9 @@ def guardar_localmente(titulo, contenido, imagen_url):
     
     image_fm = f"image: '{imagen_url}'" if imagen_url else ""
     front_matter = f"---\ntitle: '{titulo}'\ndate: {fecha}\ndraft: false\n{image_fm}\n---\n\n"
+    
+    # FINAL SAFETY REPLACEMENT FOR LITERAL NEWLINES
+    contenido = contenido.replace('\\n', '\n')
     
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(front_matter + contenido)
