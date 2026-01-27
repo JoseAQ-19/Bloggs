@@ -462,7 +462,11 @@ def guardar_localmente(titulo, contenido, imagen_url):
     slug = unicodedata.normalize('NFKD', titulo).encode('ascii', 'ignore').decode('ascii')
     slug = slug.replace(" ", "-").lower()
     slug = re.sub(r'[^a-z0-9-]', '', slug)
-    slug = slug[:50]
+    slug = slug[:50].strip('-') # Evitar guiones al final tras el recorte
+    
+    # Fallback si el título solo contenía símbolos/emojis
+    if not slug:
+        slug = f"post-{int(time.time())}"
     
     os.makedirs('content/posts', exist_ok=True)
     filename = f"content/posts/{slug}.md"
