@@ -102,11 +102,22 @@ def registrar_completado(tema):
     try:
         os.makedirs('data', exist_ok=True)
         with open(COMPLETED_FILE, 'a') as f:
-            # Guardamos siempre en minúsculas para comparaciones futuras infalibles
             f.write(f"{tema.strip().lower()}\n")
+        
+        # --- LIMPIEZA DE BASE DE DATOS MAESTRA ---
+        # Buscamos la clave real (case-insensitive) para borrarla
+        db_lookup = {k.strip().lower(): k for k in MASTER_DB.keys()}
+        real_key = db_lookup.get(tema.strip().lower())
+        
+        if real_key:
+            del MASTER_DB[real_key]
+            with open(DB_FILE, 'w', encoding='utf-8') as f:
+                json.dump(MASTER_DB, f, ensure_ascii=False, indent=2)
+            print(f"🗑️ Tema eliminado de la base de datos maestra: {real_key[:30]}...")
+            
         print(f"🏁 Tema registrado como completado: {tema[:30]}...")
     except Exception as e:
-        print(f"⚠️ Error registrando completado: {e}")
+        print(f"⚠️ Error registrando completado/limpiando BD: {e}")
 
 def obtener_keyword():
     lines = []
