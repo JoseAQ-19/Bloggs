@@ -6,8 +6,7 @@ buildFuture = true
 [pagination]
   pagerSize = 50
 
-relativeURLs = true
-canonifyURLs = false
+
 
 [[menu.main]]
   identifier = "about"
