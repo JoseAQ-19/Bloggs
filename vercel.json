@@ -1,6 +1,6 @@
 {
     "version": 2,
     "framework": "hugo",
-    "cleanUrls": true,
+    "cleanUrls": false,
     "trailingSlash": true
 }
