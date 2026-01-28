@@ -1,11 +1,13 @@
-baseURL = "/" # Despliegue automático vercel
-languageCode = 'es-es'
-title = 'NovumWorld - Oficial'
-theme = 'ananke'
-buildFuture = true
+baseURL = "/"
+languageCode = "es-es"
+title = "NovumWorld - Oficial"
+theme = "ananke"
+
 [pagination]
   pagerSize = 50
 
+[params]
+  description = "El futuro de la tecnología y la IA"
 
 [[menu.main]]
   identifier = "about"
