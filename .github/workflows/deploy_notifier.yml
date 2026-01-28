@@ -9,4 +9,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Trigger Vercel Deploy
+        if: "!contains(github.event.head_commit.message, '🤖 Nuevo artículo generado por IA')"
         run: curl -X POST "https://api.vercel.com/v1/integrations/deploy/prj_LjlrJDxuqvOkEGHe0Co0lUtbRWLe/52jxi0PIPf"
