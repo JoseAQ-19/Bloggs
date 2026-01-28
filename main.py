@@ -133,23 +133,24 @@ def obtener_keyword():
         else:
             return None, None
     
-    # --- FILTRO BLINDADO ANTI-GIT ---
-    topic_limpio = None
-    idx_found = -1
+    # --- FILTRO BLINDADO ANTI-GIT CON SELECCIÓN ALEATORIA ---
+    valid_topics = []
     for i, line in enumerate(lines):
         line = line.strip()
         if not line or line.startswith("<<<<") or line.startswith("====") or line.startswith(">>>>"):
             continue
         
         possible_topic = re.sub(r'^[<>=]{7}.*?:\s*', '', line).strip()
-        
-        if possible_topic and not topic_limpio:
-            topic_limpio = possible_topic
-            idx_found = i
-            break
+        if possible_topic:
+            valid_topics.append((i, possible_topic))
             
-    if not topic_limpio:
+    if not valid_topics:
         return None, None
+        
+    # Elegir uno al azar de los disponibles
+    idx_found, topic_limpio = random.choice(valid_topics)
+    print(f"🎲 Selección aleatoria: '{topic_limpio}' (Posición {idx_found+1}/{len(lines)})")
+    # ------------------------------------------------------
         
     lineas_restantes = lines[:idx_found] + lines[idx_found+1:]
     
