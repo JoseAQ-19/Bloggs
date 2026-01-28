@@ -1,6 +1,6 @@
 baseURL = 'https://mis-bloggs-2026.vercel.app/' # Despliegue automático vercel
 languageCode = 'es-es'
-title = 'Mi Blog Automatizado 2026'
+title = 'NovumWorld - Oficial'
 theme = 'ananke'
 buildFuture = true
 paginate = 50
