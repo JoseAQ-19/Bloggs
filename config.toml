@@ -4,7 +4,7 @@ title = "NovumWorld - Oficial"
 theme = "ananke"
 
 [pagination]
-  pagerSize = 6
+  pagerSize = 1
 
 [params]
   description = "El futuro de la tecnología y la IA"
