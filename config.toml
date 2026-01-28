@@ -24,3 +24,9 @@ theme = "ananke"
   name = "Contacto"
   url = "/contact/"
   weight = 30
+[[menu.main]]
+  identifier = "posts"
+  name = "Todos los posts"
+  url = "/posts/"
+  weight = 40
+
