@@ -1,0 +1,12 @@
+name: Notificar a Vercel
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify-vercel:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Vercel Deploy
+        run: curl -X POST "https://api.vercel.com/v1/integrations/deploy/prj_LjlrJDxuqvOkEGHe0Co0lUtbRWLe/52jxi0PIPf"
