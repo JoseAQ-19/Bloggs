@@ -1,4 +1,4 @@
-baseURL = 'https://novumworld.com/' # Despliegue automático vercel
+baseURL = "/" # Despliegue automático vercel
 languageCode = 'es-es'
 title = 'NovumWorld - Oficial'
 theme = 'ananke'
@@ -6,8 +6,6 @@ buildFuture = true
 [pagination]
   pagerSize = 50
 
-relativeURLs = true
-canonifyURLs = true
 
 [[menu.main]]
   identifier = "about"
