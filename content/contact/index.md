@@ -9,6 +9,6 @@ url: "/contact/"
 
 Estamos aquí para escucharte. Puedes ponerte en contacto con el equipo editorial de NovumWorld a través del siguiente correo electrónico:
 
-📧 **info@novumworld.com** *(O tu email real si prefieres)*
+📧 **media.flow.proyectos@gmail.com**
 
 Nos esforzamos por responder a todas las consultas en un plazo de 48 horas laborables.
