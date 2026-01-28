@@ -2,7 +2,6 @@
 title: "Sobre Nosotros"
 date: 2026-01-27
 draft: false
-layout: "page"
 ---
 
 Bienvenido a **NovumWorld**.

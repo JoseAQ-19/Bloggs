@@ -2,7 +2,6 @@
 title: "Contacto"
 date: 2026-01-27
 draft: false
-layout: "page"
 ---
 
 ¿Tienes alguna pregunta, sugerencia o propuesta comercial?

@@ -2,7 +2,6 @@
 title: "Política de Privacidad"
 date: 2026-01-27
 draft: false
-layout: "page"
 ---
 
 **Última actualización: Enero 2026**
