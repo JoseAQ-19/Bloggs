@@ -2,6 +2,7 @@
 title: "Contacto"
 date: 2026-01-27
 draft: false
+url: "/contact/"
 ---
 
 ¿Tienes alguna pregunta, sugerencia o propuesta comercial?
