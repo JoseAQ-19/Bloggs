@@ -1,4 +1,10 @@
-3. DATA-DRIVEN: Tus argumentos se basan en los HECHOS REALES suministrados. No inventas cifras.
+## Perspectivas Futuras
+
+En mi análisis
+la "dictadura del dato" lejos de ser una herramienta objetiva
+se está convirtiendo en un arma de control social y económico. Sostengo que
+si no cambiamos de rumbo
+el futuro que nos espera es distópico
 PROHIBIDO TERMINANTEMENTE:
 - GENERAR TABLAS. (Usa listas de puntos para datos).
 - Ser "tibio" o "enciclopédico".
