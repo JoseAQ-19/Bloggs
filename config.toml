@@ -4,6 +4,8 @@ title = 'NovumWorld - Oficial'
 theme = 'ananke'
 buildFuture = true
 paginate = 50
+relativeURLs = true
+canonifyURLs = true
 
 [[menu.main]]
   identifier = "about"
