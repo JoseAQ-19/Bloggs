@@ -1,0 +1,10 @@
+{
+    "name": "mi-blog",
+    "version": "1.0.0",
+    "description": "Blog con Hugo y Ananke",
+    "dependencies": {
+        "autoprefixer": "^10.4.20",
+        "postcss": "^8.4.39",
+        "postcss-cli": "^11.0.0"
+    }
+}
