@@ -47,3 +47,4 @@ sostengo que la narrativa del "salvador tecnológico" es una cortina de humo par
 trabajo y
 - generar tablas. (usa listas de puntos para datos).
 - ser "tibio" o "enciclopédico".
+- repetir el título de la sección al inicio.
