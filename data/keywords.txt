@@ -4,7 +4,6 @@ Las grandes tecnológicas nos venden la IA como la panacea para todos nuestros p
 sino para controlarnos mejor.
 Sostengo que la pregunta ya no es si la tecnología nos ayudará
 PROHIBIDO TERMINANTEMENTE:
-- GENERAR TABLAS. (Usa listas de puntos para datos).
 - Ser "tibio" o "enciclopédico".
 - Usar frases de IA como "En conclusión" o "Es importante destacar".
 - Repetir el título de la sección al inicio.
