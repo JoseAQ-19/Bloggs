@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://novumworld.com/"
 languageCode = "es-es"
 title = "NovumWorld - Oficial"
 theme = "ananke"
