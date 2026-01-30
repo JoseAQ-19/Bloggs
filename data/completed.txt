@@ -50,3 +50,4 @@ trabajo y
 - repetir el título de la sección al inicio.
 prohibido terminantemente:
 tu objetivo: escribir el mejor análisis en español de 2026.
+- saludos o meta-comentarios.
