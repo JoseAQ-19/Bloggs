@@ -48,3 +48,4 @@ trabajo y
 - generar tablas. (usa listas de puntos para datos).
 - ser "tibio" o "enciclopédico".
 - repetir el título de la sección al inicio.
+prohibido terminantemente:
