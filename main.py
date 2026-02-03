@@ -366,6 +366,8 @@ def limpiar_titulo(texto):
     titulo = re.sub(r'^[\d\.\-\s\*]+', '', titulo) 
     titulo = titulo.replace('*', '').replace('#', '').replace('"', '').replace('`', '')
     titulo = re.sub(r':\s*$', '', titulo)
+    # --- ZONA DE LIMPIEZA DE TÍTULOS (User Request) ---
+    titulo = titulo.strip().lstrip(":").lstrip("Título:").strip()
     
     words = titulo.split()
     if len(words) > 15:
@@ -630,12 +632,17 @@ def guardar_localmente(titulo, contenido, imagen_url):
     titulo_limpio = titulo.replace("'", "").replace('"', "")
     
     image_fm = f"featured_image: '{imagen_url}'" if imagen_url else ""
+    
+    # --- ZONA DE IMÁGENES (La solución del '!') ---
+    # En lugar de pedirle el markdown a la IA, constrúyelo tú con Python
+    markdown_imagen = f"![Imagen sobre {titulo_limpio}]({imagen_url})" if imagen_url else ""
+
     front_matter = f"---\ntitle: '{titulo_limpio}'\ndate: {fecha}\ndraft: false\n{image_fm}\n---\n\n"
     
     contenido = limpiar_contenido_final(contenido)
     
     with open(filename, 'w', encoding='utf-8') as f:
-        f.write(front_matter + contenido)
+        f.write(front_matter + markdown_imagen + "\n\n" + contenido)
     print(f"✅ Artículo guardado: {filename}")
 
 if __name__ == "__main__":
