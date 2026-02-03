@@ -37,6 +37,4 @@ jobs:
           git commit -m "🤖 Nuevo artículo generado por IA" || echo "No hay cambios que subir"
           git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
 
-      - name: Trigger Vercel Deploy
-        if: success()
-        run: curl -X POST "https://api.vercel.com/v1/integrations/deploy/prj_LjlrJDxuqvOkEGHe0Co0lUtbRWLe/52jxi0PIPf"
+
