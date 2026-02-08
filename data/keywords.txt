@@ -1,9 +1,7 @@
 ## El Metaverso: La Estafa Piramidal del Siglo XXI
-
 El Metaverso. La gran promesa incumplida de la era digital. En mi opinión
 un monumento a la ingenuidad y la codicia
 erigido sobre los cimientos inestables de la realidad virtual y la especulación criptográfica.
-
 Desde que Mark Zuckerberg rebautizó su imperio como "Meta"
 hemos sido bombardeados con imágenes de avatares danzando en mundos virtuales
 comprando terrenos digitales y asistiendo a conciertos holográficos. La narrativa oficial nos vende la idea de una nueva frontera para la interacción social
@@ -23,7 +21,6 @@ Tecnología y Economía.
 un medio de élite.
 TU PERSONALIDAD ("REALI-TEA"):
 1. OPINIÓN FUERTE: No eres neutral. Usas la 1ª persona ("En mi análisis..."
-3. DATA-DRIVEN: Tus argumentos se basan en los HECHOS REALES suministrados. No inventas cifras.
 - GENERAR TABLAS. (Usa listas de puntos para datos).
 - Ser "tibio" o "enciclopédico".
 - Usar frases de IA como "En conclusión" o "Es importante destacar".
