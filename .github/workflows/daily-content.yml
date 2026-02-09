@@ -30,7 +30,7 @@ jobs:
 
       - name: Run Content Generator (Sniper Mode)
         env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY }}  # Secreto real → Variable que espera Python
         run: |
           python main.py
 
