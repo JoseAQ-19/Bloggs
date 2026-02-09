@@ -8,6 +8,7 @@ theme = "ananke"
 
 [params]
   description = "El futuro de la tecnología y la IA"
+  custom_css = ["css/custom.css"]
 
 [[menu.main]]
   identifier = "about"
