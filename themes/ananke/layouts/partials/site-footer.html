@@ -1,8 +1,15 @@
-<footer class="{{ .Site.Params.background_color_class | compare.Default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="{{ .Site.Home.Permalink }}" >
-    &copy; {{ with .Site.Copyright | compare.Default .Site.Title }} {{ . | safe.HTML }} {{ now.Format "2006"}} {{ end }}
-  </a>
-    <div>{{ partials.IncludeCached "social/follow.html" . }}</div>
+<footer class="{{ .Site.Params.background_color_class | compare.Default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo" style="border-top: 1px solid rgba(255,255,255,0.05);">
+  <div class="flex flex-column items-center justify-center">
+    <div class="flex justify-between w-100 mw8 center">
+      <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="{{ .Site.Home.Permalink }}" >
+        &copy; {{ with .Site.Copyright | compare.Default .Site.Title }} {{ . | safe.HTML }} {{ now.Format "2006"}} {{ end }}
+      </a>
+      <div>{{ partials.IncludeCached "social/follow.html" . }}</div>
+    </div>
+    
+    {{/* --- NEW: SOCIAL PROOF --- */}}
+    <div class="tc mt3 mb2 social-proof-text" data-aos="fade-up" data-aos-offset="10">
+      <p class="ma0 f7">POWERED BY <span>OPENCLAW</span> & <span>GEMINI 2.0</span> NEURAL NETWORK</p>
+    </div>
   </div>
 </footer>

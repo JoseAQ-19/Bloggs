@@ -127,3 +127,51 @@ header.hero-modern::before {
 .spacer {
     height: 100px;
 }
+
+/* --- NEW: READING PROGRESS BAR --- */
+#reading-progress-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background: transparent;
+  z-index: 9999;
+}
+
+#reading-progress-bar {
+  height: 100%;
+  background: linear-gradient(90deg, #00ffff, #bd00ff);
+  width: 0%;
+  box-shadow: 0 0 10px rgba(0, 255, 255, 0.7);
+  transition: width 0.1s ease-out;
+}
+
+/* --- NEW: TECH LOGO --- */
+.logo-tech {
+    height: 60px; /* Tamaño controlado */
+    width: auto;
+    mix-blend-mode: screen; /* Integración perfecta con fondo negro */
+    vertical-align: middle;
+    transition: transform 0.3s ease;
+}
+
+.logo-tech:hover {
+    transform: scale(1.1) rotate(5deg);
+    filter: drop-shadow(0 0 8px rgba(139, 233, 253, 0.8));
+}
+
+/* --- NEW: SOCIAL PROOF FOOTER --- */
+.social-proof-text {
+    font-family: 'Inter', sans-serif;
+    font-size: 0.8rem;
+    color: rgba(255, 255, 255, 0.4);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-top: 2rem;
+    opacity: 0.7;
+}
+.social-proof-text span {
+    color: #8be9fd;
+    font-weight: 600;
+}
