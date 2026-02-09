@@ -14,8 +14,9 @@ load_dotenv()
 from google import genai
 from google.genai import types
 
-# Importar nuestro nuevo módulo de investigación
+# Importar Módulos Propios
 import researcher
+from utils import SlugManager, ImageManager
 
 # Configuración
 GEMINI_KEY = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
@@ -49,13 +50,6 @@ PROHIBIDO:
 - Inventar datos si no están en el contexto (di "según analistas" o especula con lógica).
 """
 
-def generar_slug(texto):
-    slug = unicodedata.normalize('NFKD', texto).encode('ascii', 'ignore').decode('ascii')
-    slug = slug.replace(" ", "-").lower()
-    slug = re.sub(r'[^a-z0-9-]', '', slug)
-    slug = slug[:60].strip('-')
-    return slug or f"post-{int(time.time())}"
-
 def obtener_keyword():
     if not os.path.exists(KEYWORDS_FILE): return None
     with open(KEYWORDS_FILE, 'r') as f:
@@ -72,15 +66,26 @@ def obtener_keyword():
             
     return tema
 
-def generar_imagen_flux(titulo):
-    print(f"🎨 Generando imagen para: {titulo}")
+def generar_imagen_flux_local(titulo):
+    """
+    Genera imagen con Pollinations, la DESCARGA localmente y retorna ruta local.
+    """
+    print(f"🎨 Generando y Descargando imagen para: {titulo}")
     try:
+        # 1. Construir URL de Pollinations
         prompt = f"Editorial photography, cinematic lighting, ultra-realistic, 8k. Theme: {titulo}. Minimalist tech style, dark background with neon accents."
         encoded = urllib.parse.quote(prompt)
-        # Random seed para variedad
         seed = random.randint(0, 99999)
-        return f"https://image.pollinations.ai/prompt/{encoded}?model=flux&width=1280&height=720&seed={seed}&nologo=true"
-    except:
+        image_url = f"https://image.pollinations.ai/prompt/{encoded}?model=flux&width=1280&height=720&seed={seed}&nologo=true"
+        
+        # 2. Descargar localmente
+        local_path = ImageManager.download_image(image_url, titulo)
+        if local_path:
+            return local_path
+        else:
+            return "" # Fallback a nada o imagen default
+    except Exception as e:
+        print(f"⚠️ Error imagen: {e}")
         return ""
 
 def planificar_cluster(tema, contexto_investigacion):
@@ -121,16 +126,16 @@ def planificar_cluster(tema, contexto_investigacion):
         # Validación de estructura mínima
         if "pilar" not in plan: raise ValueError("JSON incompleto")
 
-        # Sanitizar slugs
-        plan['pilar']['slug'] = generar_slug(plan['pilar']['slug_sugerido'])
-        plan['spoke_1']['slug'] = generar_slug(plan['spoke_1']['slug_sugerido'])
-        plan['spoke_2']['slug'] = generar_slug(plan['spoke_2']['slug_sugerido'])
+        # Sanitizar slugs con nuestra herramienta robusta
+        plan['pilar']['slug'] = SlugManager.generate(plan['pilar']['slug_sugerido'])
+        plan['spoke_1']['slug'] = SlugManager.generate(plan['spoke_1']['slug_sugerido'])
+        plan['spoke_2']['slug'] = SlugManager.generate(plan['spoke_2']['slug_sugerido'])
         
         return plan
     except Exception as e:
         print(f"⚠️ Error planificando cluster: {e}")
         # Fallback manual básico
-        base_slug = generar_slug(tema)
+        base_slug = SlugManager.generate(tema)
         return {
             "pilar": {"titulo": f"Guía Definitiva: {tema}", "slug": base_slug},
             "spoke_1": {"titulo": f"El Lado Oculto de {tema}", "slug": f"{base_slug}-analisis"},
@@ -195,10 +200,13 @@ def guardar_post(meta, contenido):
     os.makedirs(POSTS_DIR, exist_ok=True)
     filepath = f"{POSTS_DIR}/{meta['slug']}.md"
     
-    imagen = generar_imagen_flux(meta['titulo'])
+    # --- CAMBIO CRÍTICO: Imagen Local ---
+    imagen_local = generar_imagen_flux_local(meta['titulo'])
+    # ------------------------------------
+    
     fecha = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
     
-    # Generar metadescription simple (primeras 20 palabras)
+    # Generar metadescription simple
     clean_text = re.sub(r'[#*]', '', contenido)[:160].replace('\n', ' ') + "..."
     
     front_matter = f"""---
@@ -206,12 +214,12 @@ title: "{meta['titulo'].replace('"', '')}"
 date: {fecha}
 draft: false
 description: "{clean_text}"
-featured_image: "{imagen}"
+featured_image: "{imagen_local}"
 tags: ["Tecnología", "Análisis", "Geopolítica"]
 categories: ["Deep Dive"]
 ---
 
-![{meta['titulo']}]({imagen})
+![{meta['titulo']}]({imagen_local})
 
 {contenido}
 """
@@ -221,7 +229,7 @@ categories: ["Deep Dive"]
     print(f"✅ Guardado: {filepath}")
 
 def main():
-    print("🚀 INICIANDO SISTEMA DE CLUSTER INSTANTÁNEO")
+    print("🚀 INICIANDO SISTEMA DE CLUSTER INSTANTÁNEO (FIX SEO)")
     
     # 1. Obtener Tema
     tema = obtener_keyword()
