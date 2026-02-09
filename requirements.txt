@@ -2,3 +2,7 @@ google-genai
 requests
 PyGithub
 python-frontmatter
+python-dotenv
+playwright
+beautifulsoup4
+lxml
