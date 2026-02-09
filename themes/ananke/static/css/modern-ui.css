@@ -1,0 +1,129 @@
+/* Modern Dark Mode & Awwwards Style Override */
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Clash+Display:wght@400;600;700&family=Inter:wght@300;400;600&display=swap');
+
+/* Global Reset & Colors */
+body, html {
+    background-color: #0f0f0f !important;
+    color: #e0e0e0 !important;
+    font-family: 'Inter', sans-serif !important;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Clash Display', sans-serif !important;
+    color: #ffffff !important;
+    letter-spacing: -0.02em;
+}
+
+/* Links */
+a {
+    color: #8be9fd !important;
+    transition: all 0.3s ease;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: #ff79c6 !important;
+    text-shadow: 0 0 10px rgba(255, 121, 198, 0.5);
+}
+
+/* Glassmorphism Cards */
+article.glass-card {
+    background: rgba(255, 255, 255, 0.03) !important;
+    backdrop-filter: blur(16px) !important;
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.05) !important;
+    border-radius: 16px;
+    padding: 2rem;
+    margin-bottom: 3rem;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+
+article.glass-card:hover {
+    transform: translateY(-5px) scale(1.01);
+    background: rgba(255, 255, 255, 0.05) !important;
+    border-color: rgba(139, 233, 253, 0.3) !important;
+    box-shadow: 0 10px 40px rgba(139, 233, 253, 0.15), 
+                inset 0 0 20px rgba(139, 233, 253, 0.05);
+}
+
+/* Override Tachyons Borders */
+.bb, .bt, .bl, .br, .ba {
+    border-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.bg-near-white, .bg-light-gray {
+    background-color: transparent !important;
+}
+
+/* Hero Section */
+header.hero-modern {
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: radial-gradient(circle at 50% 50%, rgba(30, 30, 30, 1) 0%, rgba(15, 15, 15, 1) 100%);
+    position: relative;
+    overflow: hidden;
+}
+
+header.hero-modern::before {
+    content: '';
+    position: absolute;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(139, 233, 253, 0.05) 0%, transparent 50%);
+    animation: rotate 20s linear infinite;
+}
+
+@keyframes rotate {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+.hero-title {
+    font-size: 5rem !important;
+    font-weight: 700;
+    background: linear-gradient(to right, #ffffff, #8be9fd);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    z-index: 10;
+    margin-bottom: 1rem;
+    opacity: 0; /* Managed by AOS */
+}
+
+.hero-subtitle {
+    font-size: 1.5rem !important;
+    color: rgba(255, 255, 255, 0.7) !important;
+    text-align: center;
+    max-width: 600px;
+    z-index: 10;
+    opacity: 0; /* Managed by AOS */
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #0f0f0f;
+}
+::-webkit-scrollbar-thumb {
+    background: #333;
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* Utility for Spacing */
+.spacer {
+    height: 100px;
+}
