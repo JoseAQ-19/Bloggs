@@ -184,3 +184,39 @@ header.hero-modern::before {
     color: #8be9fd;
     font-weight: 600;
 }
+
+/* FIX DE EMERGENCIA PARA EL HEADER */
+header, .site-header, nav[role="navigation"] {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Separar el Logo del Menú */
+.site-header {
+    padding: 20px 40px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+/* Alinear los enlaces del menú horizontalmente */
+.site-header ul, .site-header .menu, nav ul {
+    display: flex !important;
+    list-style: none;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estética de enlaces */
+a {
+    text-decoration: none;
+}
+.f4, .title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-right: auto;
+}
+
