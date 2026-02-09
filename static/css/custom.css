@@ -31,15 +31,6 @@ a:hover {
     text-shadow: 0 0 10px rgba(255, 121, 198, 0.5);
 }
 
-/* Navigation Overrides */
-.ananke-social-link, .nav-link, .link {
-    margin-left: 1rem;
-    color: #8be9fd !important; /* Cyan */
-}
-header {
-    border-bottom: 1px solid rgba(255,255,255,0.05);
-}
-
 /* Glassmorphism Cards */
 article.glass-card {
     background: rgba(255, 255, 255, 0.03) !important;
@@ -72,7 +63,7 @@ article.glass-card:hover {
 
 /* Hero Section */
 header.hero-modern {
-    min-height: 50vh; /* Reduced for better layout */
+    min-height: 50vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -105,7 +96,7 @@ header.hero-modern::before {
     text-align: center;
     z-index: 10;
     margin-bottom: 1rem;
-    opacity: 0; /* Managed by AOS */
+    opacity: 0;
 }
 
 .hero-subtitle {
@@ -114,7 +105,7 @@ header.hero-modern::before {
     text-align: center;
     max-width: 600px;
     z-index: 10;
-    opacity: 0; /* Managed by AOS */
+    opacity: 0;
 }
 
 /* Custom Scrollbar */
@@ -137,7 +128,7 @@ header.hero-modern::before {
     height: 100px;
 }
 
-/* --- NEW: READING PROGRESS BAR --- */
+/* --- READING PROGRESS BAR --- */
 #reading-progress-container {
   position: fixed;
   top: 0;
@@ -156,11 +147,11 @@ header.hero-modern::before {
   transition: width 0.1s ease-out;
 }
 
-/* --- NEW: TECH LOGO --- */
+/* --- TECH LOGO --- */
 .logo-tech {
-    height: 60px; /* Tamaño controlado */
+    height: 60px;
     width: auto;
-    mix-blend-mode: screen; /* Integración perfecta con fondo negro */
+    mix-blend-mode: screen;
     vertical-align: middle;
     transition: transform 0.3s ease;
 }
@@ -170,7 +161,7 @@ header.hero-modern::before {
     filter: drop-shadow(0 0 8px rgba(139, 233, 253, 0.8));
 }
 
-/* --- NEW: SOCIAL PROOF FOOTER --- */
+/* --- SOCIAL PROOF FOOTER --- */
 .social-proof-text {
     font-family: 'Inter', sans-serif;
     font-size: 0.8rem;
@@ -185,38 +176,73 @@ header.hero-modern::before {
     font-weight: 600;
 }
 
-/* FIX DE EMERGENCIA PARA EL HEADER */
-header, .site-header, nav[role="navigation"] {
-    display: flex !important;
-    flex-direction: row !important;
-    justify-content: space-between !important;
-    align-items: center !important;
+/* --- ROBUST NAVIGATION LAYOUT (The Solution) --- */
+
+/* 1. Main Navigation Wrapper */
+.main-nav-wrapper {
     width: 100%;
+    padding: 1.5rem 2rem;
+    background-color: #0f0f0f; /* Match body bg */
+    border-bottom: 1px solid rgba(255,255,255,0.1);
     box-sizing: border-box;
 }
 
-/* Separar el Logo del Menú */
-.site-header {
-    padding: 20px 40px;
-    border-bottom: 1px solid rgba(255,255,255,0.1);
+/* 2. Flex Container: Logo Left, Links Right */
+.main-nav-flex {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    flex-wrap: wrap; /* Responsive safety */
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
-/* Alinear los enlaces del menú horizontalmente */
-.site-header ul, .site-header .menu, nav ul {
+/* 3. Logo Styles */
+.nav-logo {
+    font-family: 'Clash Display', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #ffffff !important;
+    text-decoration: none;
+    margin-right: auto; /* Push everything else to the right */
+}
+
+/* 4. Navigation Links Container */
+.nav-links-container {
+    display: flex !important;
+    align-items: center !important;
+}
+
+/* 5. The List of Links */
+.nav-ul {
     display: flex !important;
     list-style: none;
-    gap: 20px;
     margin: 0;
     padding: 0;
+    gap: 2rem; /* Modern spacing */
 }
 
-/* Estética de enlaces */
-a {
-    text-decoration: none;
-}
-.f4, .title {
-    font-size: 1.5rem;
-    font-weight: bold;
-    margin-right: auto;
+.nav-li {
+    display: inline-block;
 }
 
+.nav-a {
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.8) !important;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    transition: color 0.2s ease;
+}
+
+.nav-a:hover {
+    color: #8be9fd !important;
+    text-shadow: 0 0 8px rgba(139, 233, 253, 0.4);
+}
+
+/* Remove old conflicting rules */
+header {
+    /* No global flex on header, allow block layout for stacking nav and hero */
+    display: block; 
+}
