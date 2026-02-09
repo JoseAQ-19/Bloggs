@@ -4,7 +4,7 @@ import re
 import time
 import random
 import urllib.parse
-from datetime import datetime
+from datetime import datetime, timedelta
 import unicodedata
 from dotenv import load_dotenv
 
@@ -126,30 +126,24 @@ def generar_imagen_flux_local(titulo):
 
 def planificar_cluster(tema, contexto_investigacion, lang="es"):
     """
-    Fase de Arquitectura: Define 1 Pilar + 2 Spokes (Títulos y Slugs) ANTES de escribir.
+    Fase de Arquitectura: Define 1 Artículo Único (SNIPER MODE).
     """
-    print(f"🏗️ Planificando Cluster ({lang.upper()}) para: '{tema}'...")
+    print(f"🏗️ Planificando Artículo Sniper ({lang.upper()}) para: '{tema}'...")
     
     system_instr = SYSTEM_INSTRUCTION_ES if lang == "es" else SYSTEM_INSTRUCTION_EN
-    role_desc = "ARQUITECTO SEO" if lang == "es" else "SEO ARCHITECT"
     
     prompt = f"""
-    ACT LIKE AN {role_desc}.
+    ACT LIKE AN EDITOR IN CHIEF.
     Topic: "{tema}"
     Context: "{contexto_investigacion[:2000]}..."
     Language: {lang.upper()} (Output titles in this language).
     
-    TASK: Design a CONTENT CLUSTER (3 Articles).
-    
-    1. PILLAR ARTICLE (MAIN): Complete guide, overview. Epic title.
-    2. SPOKE 1 (SUBTOPIC A): Specific, controversial angle.
-    3. SPOKE 2 (SUBTOPIC B): Another angle (e.g., economic impact, future).
+    TASK: Create the metadata for ONE definitive article.
     
     STRICT JSON OUTPUT (No markdown):
     {{
-      "pilar": {{ "titulo": "...", "slug_sugerido": "..." }},
-      "spoke_1": {{ "titulo": "...", "slug_sugerido": "..." }},
-      "spoke_2": {{ "titulo": "...", "slug_sugerido": "..." }}
+      "titulo": "...", 
+      "slug_sugerido": "..." 
     }}
     """
     
@@ -162,74 +156,40 @@ def planificar_cluster(tema, contexto_investigacion, lang="es"):
         texto_json = resp.text.replace('```json', '').replace('```', '').strip()
         plan = json.loads(texto_json)
         
-        if "pilar" not in plan: raise ValueError("JSON incompleto")
-
-        # Sanitizar slugs
+        # Sanitizar slug
         suffix = "-en" if lang == "en" else ""
-        plan['pilar']['slug'] = SlugManager.generate(plan['pilar']['slug_sugerido']) + suffix
-        plan['spoke_1']['slug'] = SlugManager.generate(plan['spoke_1']['slug_sugerido']) + suffix
-        plan['spoke_2']['slug'] = SlugManager.generate(plan['spoke_2']['slug_sugerido']) + suffix
+        plan['slug'] = SlugManager.generate(plan['slug_sugerido']) + suffix
         
         return plan
     except Exception as e:
-        print(f"⚠️ Error planificando cluster: {e}")
+        print(f"⚠️ Error planificando: {e}")
         base_slug = SlugManager.generate(tema)
         suffix = "-en" if lang == "en" else ""
-        return {
-            "pilar": {"titulo": f"Guide: {tema}", "slug": f"{base_slug}{suffix}"},
-            "spoke_1": {"titulo": f"Analysis: {tema}", "slug": f"{base_slug}-analysis{suffix}"},
-            "spoke_2": {"titulo": f"Future: {tema}", "slug": f"{base_slug}-future{suffix}"}
-        }
+        return {"titulo": f"Deep Dive: {tema}", "slug": f"{base_slug}{suffix}"}
 
-def escribir_articulo(tipo, meta, plan_completo, contexto, lang="es"):
+def escribir_articulo(meta, contexto, lang="es"):
     """
-    Escribe un artículo específico (Pilar o Spoke).
+    Escribe el artículo único.
     """
     titulo = meta['titulo']
-    print(f"✍️ Escribiendo {tipo.upper()} ({lang}): {titulo}...")
+    print(f"✍️ Escribiendo ARTÍCULO SNIPER ({lang}): {titulo}...")
     
     system_instr = SYSTEM_INSTRUCTION_ES if lang == "es" else SYSTEM_INSTRUCTION_EN
     
-    # Preparar Estrategia de Enlaces
-    links_instruccion = ""
-    if lang == "es":
-        intro_link_text = f"> Este artículo es parte de nuestra [Guía Central: {plan_completo['pilar']['titulo']}](/posts/{plan_completo['pilar']['slug']})."
-        body_link_text = "Debes mencionar y enlazar a los satélites..."
-    else:
-        intro_link_text = f"> This article is part of our [Central Guide: {plan_completo['pilar']['titulo']}](/posts/{plan_completo['pilar']['slug']})."
-        body_link_text = "You MUST mention and link to the satellite articles..."
-
-    if tipo == "pilar":
-        links_instruccion = f"""
-        SEO GOAL: This is the PILLAR ARTICLE.
-        {body_link_text}
-        - Mention "{plan_completo['spoke_1']['titulo']}" using relative link: /posts/{plan_completo['spoke_1']['slug']}
-        - Mention "{plan_completo['spoke_2']['titulo']}" using relative link: /posts/{plan_completo['spoke_2']['slug']}
-        """
-    else:
-        links_instruccion = f"""
-        SEO GOAL: This is a SATELLITE ARTICLE (Spoke).
-        MANDATORY: Start content (after TL;DR) with this exact line:
-        {intro_link_text}
-        """
-
     prompt = f"""
     WRITE A COMPLETE MARKDOWN ARTICLE ABOUT: "{titulo}".
     
     RESEARCH CONTEXT (USE THESE FACTS):
     {contexto}
     
-    INTERLINKING INSTRUCTIONS (MANDATORY):
-    {links_instruccion}
-    
     MARKDOWN STRUCTURE:
-    - No H1 at start (handled by front matter).
     - Start with **TL;DR (Key Takeaways):** (Bullet points).
     - Follow with a strong Introduction (Hook).
     - Use H2 for sections.
     - Use bold for key concepts.
+    - NO internal linking to non-existent articles. Focus on depth.
     
-    LENGTH: {'1500 words' if tipo == 'pilar' else '800 words'}.
+    LENGTH: 1500 words.
     LANGUAGE: {lang.upper()}
     """
     
@@ -245,19 +205,30 @@ def guardar_post(meta, contenido, lang="es"):
     os.makedirs(POSTS_DIR, exist_ok=True)
     filepath = f"{POSTS_DIR}/{meta['slug']}.md"
     
-    # Compartir imagen entre idiomas para ahorrar recursos (o generar nueva si se prefiere)
-    # Por ahora generamos una por idioma para que el texto (si hubiera) o vibe encaje, 
-    # pero el prompt de imagen es agnóstico.
-    # Optimizacion: Usar la misma imagen si el slug base es igual? 
-    # Simplificación: Generar nueva. Pollinations es gratis.
+    # Check if exists (Anti-Repetition handled before, but safe check)
+    if os.path.exists(filepath):
+        print(f"⚠️ Archivo ya existe, sobrescribiendo: {filepath}")
+
     imagen_local = generar_imagen_flux_local(meta['titulo'])
     
-    fecha = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+    # --- LOGICA DE RETARDO HUMANO (ANTI-BOT) ---
+    now = datetime.now()
+    if lang == "es":
+        # Simula publicación hace 15-20 mins
+        backdate_mins = random.randint(15, 25)
+    else:
+        # Simula publicación "Breaking News" hace 2-5 mins
+        backdate_mins = random.randint(2, 5)
+        
+    fecha_simulada = now - timedelta(minutes=backdate_mins)
+    fecha_str = fecha_simulada.strftime("%Y-%m-%dT%H:%M:%S")
+    # -------------------------------------------
+    
     clean_text = re.sub(r'[#*]', '', contenido)[:160].replace('\n', ' ') + "..."
     
     front_matter = f"""---
 title: "{meta['titulo'].replace('"', '')}"
-date: {fecha}
+date: {fecha_str}
 draft: false
 description: "{clean_text}"
 featured_image: "{imagen_local}"
@@ -273,10 +244,10 @@ language: "{lang}"
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(front_matter)
     
-    print(f"✅ Guardado ({lang}): {filepath}")
+    print(f"✅ Guardado ({lang}) - Fecha Simulada: {fecha_str}")
 
 def main():
-    print("🚀 INICIANDO SISTEMA DE CLUSTER GLOBAL (ES/EN)")
+    print("🚀 INICIANDO SISTEMA SNIPER GLOBAL (1 TEMA -> 2 POSTS)")
     
     # 1. Obtener Tema
     tema = obtener_keyword()
@@ -298,27 +269,18 @@ def main():
     idiomas = ["es", "en"]
     
     for lang in idiomas:
-        print(f"\n--- GENERANDO CLUSTER EN: {lang.upper()} ---")
+        print(f"\n--- GENERANDO POST EN: {lang.upper()} ---")
         
-        # Planificación
-        plan = planificar_cluster(tema, contexto, lang)
+        # Planificación (Single Article)
+        meta = planificar_cluster(tema, contexto, lang)
         
-        # Generación
-        # Pilar
-        contenido_pilar = escribir_articulo("pilar", plan['pilar'], plan, contexto, lang)
-        guardar_post(plan['pilar'], contenido_pilar, lang)
-        
-        # Spoke 1
-        contenido_s1 = escribir_articulo("spoke", plan['spoke_1'], plan, contexto, lang)
-        guardar_post(plan['spoke_1'], contenido_s1, lang)
-        
-        # Spoke 2
-        contenido_s2 = escribir_articulo("spoke", plan['spoke_2'], plan, contexto, lang)
-        guardar_post(plan['spoke_2'], contenido_s2, lang)
+        # Generación (Sin Spokes)
+        contenido = escribir_articulo(meta, contexto, lang)
+        guardar_post(meta, contenido, lang)
     
     # 5. Registro Final
     with open(COMPLETED_FILE, 'a') as f:
-        f.write(f"{tema} (Global Cluster Completed)\n")
+        f.write(f"{tema} (Global Sniper Completed)\n")
 
 if __name__ == "__main__":
     main()

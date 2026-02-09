@@ -6,6 +6,8 @@ import xml.etree.ElementTree as ET
 import re
 import time
 from datetime import datetime
+from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 # Configuración
 MCP_PATH = "/Users/manolo/.local/bin/notebooklm-mcp"
@@ -107,8 +109,51 @@ class NotebookMCPClient:
 
 class NewsFetcher:
     @staticmethod
+    def scrape_url_dynamic(url):
+        """Usa Playwright para renderizar JS y extraer contenido real."""
+        print(f"   🕵️‍♂️ Navegando (Headless): {url[:50]}...")
+        try:
+            with sync_playwright() as p:
+                # Launch browser with stealth args
+                browser = p.chromium.launch(headless=True)
+                page = browser.new_page(
+                    user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                )
+                
+                # Navigate with smart wait
+                page.goto(url, wait_until="domcontentloaded", timeout=30000)
+                
+                # Wait a bit for lazy loading content
+                page.wait_for_timeout(2000) 
+                
+                # Get rendered HTML
+                html = page.content()
+                browser.close()
+                
+                # Parse with BS4 for clean text extraction
+                soup = BeautifulSoup(html, 'lxml')
+                
+                # Remove junk
+                for script in soup(["script", "style", "nav", "footer", "header", "aside"]):
+                    script.extract()
+                
+                # Extract paragraph text
+                text_content = ""
+                paragraphs = soup.find_all('p')
+                for p in paragraphs:
+                    txt = p.get_text().strip()
+                    if len(txt) > 50: # Filter short junk
+                        text_content += txt + "\n\n"
+                        
+                return text_content.strip()
+                
+        except Exception as e:
+            print(f"   ⚠️ Error scraping dinámico: {e}")
+            return ""
+
+    @staticmethod
     def get_trending_content(keyword):
-        """Busca noticias en Google News RSS y extrae texto básico."""
+        """Busca noticias en Google News RSS y extrae texto FULL (JS Rendered)."""
         print(f"📰 Buscando noticias frescas sobre: {keyword}")
         try:
             # 1. Buscar en Google News RSS (Gratis)
@@ -127,23 +172,21 @@ class NewsFetcher:
                 link = item.find("link").text
                 pub_date = item.find("pubDate").text
                 
-                # 2. Intentar extraer contenido (Scraping ligero)
-                print(f"   📥 Descargando: {title[:40]}...")
-                try:
-                    article_resp = requests.get(link, timeout=5, headers={"User-Agent": "Mozilla/5.0"})
-                    # Limpieza muy básica de HTML a Texto
-                    clean_text = re.sub(r'<[^>]+>', ' ', article_resp.text)
-                    clean_text = re.sub(r'\s+', ' ', clean_text).strip()
-                    # Recortar para no saturar
-                    clean_text = clean_text[:10000] 
+                # 2. Extracción Dinámica (Playwright)
+                clean_text = NewsFetcher.scrape_url_dynamic(link)
+                
+                if not clean_text:
+                    print("   ⚠️ No se pudo extraer texto útil. Saltando fuente.")
+                    continue
                     
-                    sources.append({
-                        "title": title,
-                        "url": link,
-                        "content": f"FECHA: {pub_date}\nTÍTULO: {title}\nURL: {link}\nCONTENIDO:\n{clean_text}"
-                    })
-                except:
-                    print(f"   ⚠️ No se pudo descargar contenido de {link}, saltando.")
+                # Recortar para no saturar contexto
+                clean_text = clean_text[:15000] 
+                
+                sources.append({
+                    "title": title,
+                    "url": link,
+                    "content": f"FECHA: {pub_date}\nTÍTULO: {title}\nURL: {link}\nCONTENIDO COMPLETO (SCRAPED):\n{clean_text}"
+                })
             
             return sources
             
@@ -159,7 +202,7 @@ class Researcher:
     def research_topic(self, keyword):
         """Orquesta la investigación: News -> Notebook -> RAG."""
         
-        # 1. Obtener Fuentes Vivas (News)
+        # 1. Obtener Fuentes Vivas (News + Dynamic Scraping)
         news_sources = NewsFetcher.get_trending_content(keyword)
         if not news_sources:
             print("⚠️ No se encontraron noticias recientes. Usando conocimiento general.")
@@ -174,24 +217,12 @@ class Researcher:
                 print(f"📓 Creando Cuaderno de Investigación para '{keyword}'...")
                 resp = self.mcp.call_tool("create_notebook", {"title": f"Investigación: {keyword} ({datetime.now().strftime('%Y-%m-%d')})"})
                 
-                # Manejo de respuesta MCP (puede variar según implementación del server)
-                # Asumimos que devuelve el ID o un objeto notebook
-                # DEBUG: Imprimir respuesta cruda para depuración si falla
-                # print(f"DEBUG MCP CREATE: {resp}") 
-                
-                # Si la respuesta es exitosa (result -> content -> text/json)
                 if resp and "result" in resp:
-                    # Intentar parsear el ID del notebook de la respuesta (placeholder logic)
-                    # La implementación actual de notebooklm-mcp devuelve texto confirmando.
-                    # Asumiremos que el contexto activo se mantiene en el servidor o devuelve ID.
                     pass 
                 
-                # B. Añadir Fuentes
+                # B. Añadir Fuentes (Texto Scrapeado Completo)
                 for src in news_sources:
                     print(f"   📎 Añadiendo fuente al cuaderno: {src['title'][:30]}...")
-                    # Usamos 'upload_source_text' o similar si existe, o pegamos texto
-                    # Nota: La herramienta estándar suele ser 'add_source' o 'add_url'
-                    # Vamos a probar pasarle el texto crudo como "copiado"
                     self.mcp.call_tool("add_source", {"source": src['content']})
                     time.sleep(1) # Cortesía
 
@@ -208,7 +239,6 @@ class Researcher:
                 rag_resp = self.mcp.call_tool("query_notebook", {"query": query})
                 
                 if rag_resp and "result" in rag_resp:
-                    # Extraer texto de la respuesta MCP
                     content_blocks = rag_resp["result"].get("content", [])
                     for block in content_blocks:
                         if block.get("type") == "text":
@@ -218,14 +248,13 @@ class Researcher:
 
             except Exception as e:
                 print(f"❌ Error durante flujo MCP: {e}. Usando fallback.")
-                self.use_mcp = False # Desactivar para el resto
+                self.use_mcp = False 
         
         self.mcp.close()
 
         # 3. Fallback / Construcción Final del Contexto
         if not research_summary:
             print("⚠️ Usando Fallback (Raw News + Gemini Knowledge).")
-            # Concatenar las noticias crudas para que Gemini las procese directamente
             raw_text = "\n\n".join([s['content'] for s in news_sources])
             research_summary = f"RESUMEN DE NOTICIAS RECIENTES (SIN PROCESAR POR NOTEBOOKLM):\n{raw_text}"
 
