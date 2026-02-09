@@ -1,9 +1,13 @@
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="/js/aos.js"></script>
 <script>
-  // AOS Init
-  AOS.init({
-    duration: 1000,
-    once: true,
+  // AOS Init with heavy force
+  document.addEventListener('DOMContentLoaded', function() {
+    AOS.init({
+      duration: 1000,
+      once: false, // Animación cada vez que entra en viewport
+      mirror: true,
+      offset: 50
+    });
   });
 
   // Reading Progress Bar Logic
