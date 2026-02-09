@@ -1,8 +1,9 @@
-name: Ejecutar Generador de Artículos
+name: Ejecutar Generador de Artículos (LEGACY - DESACTIVADO)
+# ⚠️ DESACTIVADO: Usar daily-content.yml (3 veces al día)
 on:
-  schedule:
-    - cron: '0 */8 * * *' # Se ejecuta cada 8 horas
-  workflow_dispatch: # Botón para ejecutarlo manualmente cuando quieras
+  # schedule:
+  #   - cron: '0 */8 * * *' # DESACTIVADO - Conflicto con daily-content.yml
+  workflow_dispatch: # Solo ejecución manual si se necesita
 
 jobs:
   build:
@@ -32,7 +33,7 @@ jobs:
       - name: Subir cambios
         run: |
           git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
+          git config --global user.email 'josearizaquintero@gmail.com'
           git add .
           git commit -m "🤖 Nuevo artículo generado por IA" || echo "No hay cambios que subir"
           git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
