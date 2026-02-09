@@ -24,9 +24,13 @@
     </div>
   </header>
 {{ else }}
-  <header class="hero-modern">
-      {{ partials.Include "site-navigation.html" . }}
-      <div class="tc-l pv3 ph3 ph4-ns z-2 relative flex flex-column items-center">
+  <header class="bg-black pb3-m pb6-l">
+    
+      <div class="flex justify-between items-center pa3 bg-black z-2 relative border-bottom-1 b--white-10">
+          {{ partials.Include "site-navigation.html" . }}
+      </div>
+
+      <div class="tc-l pv3 ph3 ph4-ns z-2 relative flex flex-column items-center hero-modern" style="min-height: 50vh;">
         
         {{/* --- NEW: TECH LOGO REPLACEMENT --- */}}
         <div class="mb3" data-aos="zoom-in" data-aos-duration="1500">
@@ -35,7 +39,7 @@
             </a>
         </div>
 
-        <h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title hero-title" data-aos="zoom-out-up" data-aos-duration="1200">
+        <h1 class="f2 f-subheadline-l fw2 white mb0 lh-title hero-title" data-aos="zoom-out-up" data-aos-duration="1200">
           {{ .Title | compare.Default .Site.Title }}
         </h1>
         {{ with .Params.description }}

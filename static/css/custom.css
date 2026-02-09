@@ -31,6 +31,15 @@ a:hover {
     text-shadow: 0 0 10px rgba(255, 121, 198, 0.5);
 }
 
+/* Navigation Overrides */
+.ananke-social-link, .nav-link, .link {
+    margin-left: 1rem;
+    color: #8be9fd !important; /* Cyan */
+}
+header {
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+
 /* Glassmorphism Cards */
 article.glass-card {
     background: rgba(255, 255, 255, 0.03) !important;
@@ -63,7 +72,7 @@ article.glass-card:hover {
 
 /* Hero Section */
 header.hero-modern {
-    min-height: 80vh;
+    min-height: 50vh; /* Reduced for better layout */
     display: flex;
     flex-direction: column;
     justify-content: center;
