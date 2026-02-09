@@ -150,17 +150,15 @@ def escribir_articulo(tipo, meta, plan_completo, contexto):
     if tipo == "pilar":
         links_instruccion = f"""
         TU OBJETIVO SEO: Este es el ARTÍCULO PILAR.
-        Debes mencionar y enlazar a los satélites:
+        Debes mencionar y enlazar a los satélites en el cuerpo del texto:
         - Menciona "{plan_completo['spoke_1']['titulo']}" usando el enlace relativo: /posts/{plan_completo['spoke_1']['slug']}
         - Menciona "{plan_completo['spoke_2']['titulo']}" usando el enlace relativo: /posts/{plan_completo['spoke_2']['slug']}
-        Hazlo de forma natural en el texto (ej: "Como analizamos en detalle en [Título Spoke](/posts/...)").
         """
     else:
         links_instruccion = f"""
         TU OBJETIVO SEO: Este es un ARTÍCULO SATÉLITE (Spoke).
-        Debes enlazar a la GUÍA MAESTRA (Pilar) en el primer párrafo:
-        - Enlace: /posts/{plan_completo['pilar']['slug']} (Título: {plan_completo['pilar']['titulo']}).
-        - Texto ancla sugerido: "Volver a la Guía Central" o "parte de nuestro análisis sobre...".
+        OBLIGATORIO: Inicia el contenido (después del TL;DR) con esta línea exacta:
+        > Este artículo es parte de nuestra [Guía Central: {plan_completo['pilar']['titulo']}](/posts/{plan_completo['pilar']['slug']}).
         """
 
     prompt = f"""
