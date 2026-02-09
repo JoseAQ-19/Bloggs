@@ -36,8 +36,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "JoseAQ-19"
-          git config --global user.email "josearizaquintero@gmail.com"
-          git add content/posts/ data/ keywords.txt static/images/
-          # Commit solo si hay cambios
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-Generated Content (Sniper Mode)" && git push)
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "🚀 New Content Generated: $(date)" || echo "No changes to commit"
+          git push
