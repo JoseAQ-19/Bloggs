@@ -1,11 +1,12 @@
 ---
-title: "A Monument to Naivety and Greed: How We All Got Played"
+title: "A Monument to Naivety and Greed"
 date: 2026-02-10T07:27:41
 draft: false
-description: "Okay, buckle up, because this is going to sting.  TL;DR (Key Takeaways):     We got played. Big time. By thinking "tech will save us" and chasing imaginary rich..."
+description: "We got played. Big time. By thinking tech will save us and chasing imaginary riches. The move fast and break things mantra broke us, not the system."
 featured_image: "/images/uploads/a-monument-to-naivety-and-greed-how-we-all-got-played.jpg"
-tags: ["Technology", "Analysis", "Geopolitics"]
-categories: ["Deep Dive"]
+tags: ["Technology", "Analysis"]
+categories: ["ia"]
+type: "ia"
 language: "en"
 ---
 
