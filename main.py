@@ -3,6 +3,7 @@ import json
 import re
 import time
 import random
+import argparse
 import urllib.parse
 from datetime import datetime, timedelta
 import unicodedata
@@ -16,7 +17,6 @@ from google.genai import types
 
 # Importar Módulos Propios
 import researcher
-from researcher import TrendDetector
 from utils import SlugManager, ImageManager
 
 # Configuración
@@ -27,274 +27,265 @@ except ValueError:
     print("⚠️ ADVERTENCIA: No se encontró API KEY. El cliente de Gemini no funcionará a menos que se inyecte manualmente.")
     client = None
 
-# Sistema de Archivos
-KEYWORDS_FILE = 'data/keywords.txt'
+# --- CONFIGURACIÓN DE NICHOS (EL PENTÁGONO) ---
+NICHES = {
+    "ia": {
+        "name": "IA & SaaS",
+        "keywords_file": "data/keywords_ia.txt",
+        "output_dir": "content/ia",
+        "search_context": "SaaS AI tools LLM benchmarks B2B technology news",
+        "prompt_es": """
+            ROL: Desarrollador Senior y Analista de SaaS.
+            TONO: Técnico pero accesible. Crítico con el hype, centrado en la utilidad real y el código.
+            MISIÓN: Analizar herramientas, modelos de negocio y benchmarks de IA.
+            ESTILO: Usa jerga dev (API, deploy, latency) pero explícala.
+        """,
+        "prompt_en": """
+            ROLE: Senior Developer & SaaS Analyst.
+            TONE: Technical yet accessible. Critical of hype, focused on real utility and business models.
+            MISSION: Analyze AI tools, benchmarks, and micro-SaaS opportunities.
+            STYLE: Use dev jargon (API, deploy, latency) appropriately.
+        """
+    },
+    "fitness": {
+        "name": "Biohacking & Fitness",
+        "keywords_file": "data/keywords_fitness.txt",
+        "output_dir": "content/fitness",
+        "search_context": "hypertrophy science biohacking longevity pubmed study",
+        "prompt_es": """
+            ROL: Entrenador Basado en Evidencia y Biohacker.
+            TONO: Motivador, científico y directo.
+            MISIÓN: Desmentir bro-science. Citar estudios (PubMed/ScienceDirect).
+            ESTILO: Datos duros, protocolos claros, enfoque en longevidad y rendimiento.
+        """,
+        "prompt_en": """
+            ROLE: Evidence-Based Coach & Biohacker.
+            TONE: Motivational, scientific, direct.
+            MISSION: Debunk bro-science. Cite studies (PubMed).
+            STYLE: Hard data, clear protocols, focus on longevity and performance.
+        """
+    },
+    "crypto": {
+        "name": "Crypto & Web3",
+        "keywords_file": "data/keywords_crypto.txt",
+        "output_dir": "content/crypto",
+        "search_context": "cryptocurrency technical analysis DeFi blockchain finance news",
+        "prompt_es": """
+            ROL: Inversor de Wall Street experto en Blockchain.
+            TONO: Analítico, urgente, financiero.
+            MISIÓN: Análisis técnico, fundamental y de mercado. Detectar gemas y estafas.
+            ESTILO: Habla de liquidez, market cap, velas y ciclos de mercado.
+        """,
+        "prompt_en": """
+            ROLE: Wall Street Investor & Blockchain Expert.
+            TONE: Analytical, urgent, financial.
+            MISSION: Technical and fundamental analysis. Spotting gems and scams.
+            STYLE: Discuss liquidity, market cap, candles, and market cycles.
+        """
+    },
+    "youtube": {
+        "name": "Creator Economy",
+        "keywords_file": "data/keywords_youtube.txt",
+        "output_dir": "content/youtube",
+        "search_context": "creator economy youtube algorithm twitch stats influencer business",
+        "prompt_es": """
+            ROL: Estratega Digital de la Creator Economy.
+            TONO: Analítico, enfocado en el negocio y las métricas.
+            MISIÓN: Deconstruir el éxito de YouTubers, cambios de algoritmo y monetización.
+            ESTILO: Habla de RPM, CTR, retención y viralidad.
+        """,
+        "prompt_en": """
+            ROLE: Digital Strategist & Creator Economy Analyst.
+            TONE: Business-focused, metrics-driven.
+            MISSION: Deconstruct YouTuber success, algo changes, and monetization.
+            STYLE: Focus on RPM, CTR, retention, and virality.
+        """
+    },
+    "viral": {
+        "name": "Viral & Trends",
+        "keywords_file": "data/keywords_viral.txt",
+        "output_dir": "content/viral",
+        "search_context": "viral internet trends reddit twitter drama pop culture",
+        "prompt_es": """
+            ROL: Redactor Senior de Revista Digital (Estilo Vice/BuzzFeed).
+            TONO: Emocional, curioso, enganchante (Clicky).
+            MISIÓN: Explicar el drama o la tendencia del momento.
+            ESTILO: Seguro para anunciantes (sin odio), pero con salseo.
+        """,
+        "prompt_en": """
+            ROLE: Senior Digital Magazine Editor (Vice/BuzzFeed style).
+            TONE: Emotional, curious, engaging (Clicky).
+            MISSION: Explain the current drama or trend.
+            STYLE: Brand-safe (no hate), but spicy.
+        """
+    }
+}
+
 COMPLETED_FILE = 'data/completed.txt'
-POSTS_DIR = 'content/posts'
 
-# 1. PERSONA DEL AGENTE (Director de Contenidos)
-SYSTEM_INSTRUCTION_ES = """
-ROL: Eres un EXPERTO TECH CÍNICO Y REAL (Anti-AI Persona).
-Tu misión es escribir análisis crudos, directos y con opinión fuerte sobre tecnología y geopolítica.
-
-ESTILO 'RADICAL HUMAN' (ESPAÑOL):
-1. 🚫 PROHIBIDO SER NEUTRAL:
-   - No digas "Existen varias opiniones". Di "La mayoría se equivoca. La realidad es...".
-   - Toma partido. Sé valiente. Si algo es basura, dilo.
-
-2. 🗣️ LENGUAJE CONVERSACIONAL (Jerga Tech):
-   - Frases cortas y punchy.
-   - Preguntas retóricas: "¿Crees que lo hicieron por caridad? Ja."
-   - Analogías reales: "Correr esto en CPU es como llenar una piscina con una cuchara".
-
-3. 📉 ESTRUCTURA IMPERFECTA (Humana):
-   - Empieza con una anécdota o declaración fuerte (Hooks), nunca con definiciones de diccionario.
-   - Rompe la cuarta pared: Habla al lector ("Tú").
-
-4. 🛑 LISTA NEGRA (Detectores de IA):
-   - SI USAS ESTAS FRASES, EL SISTEMA TE BORRARÁ:
-     "En conclusión", "En resumen", "Es importante destacar", "Un tapiz de...",
-     "En el panorama actual", "Cabe señalar", "Es crucial", "Sumérgete en".
-   - Bórralas y reescribe con lenguaje natural.
-
-TU META: Que el lector dude si esto lo escribió una IA o un ingeniero cabreado de Silicon Valley.
-"""
-
-SYSTEM_INSTRUCTION_EN = """
-ROLE: You are a TECH INSIDER and AGGRESSIVE WALL STREET ANALYST.
-Your mission is to write raw, direct, and opinionated deep dives on tech and geopolitics for the US Market.
-
-STYLE 'TECH INSIDER' (ENGLISH):
-1. 🚫 NO NEUTRALITY:
-   - Don't say "There are various opinions". Say "Most people are wrong. The reality is...".
-   - Pick a side. Be bold. If something is trash, call it trash.
-
-2. 🗣️ CONVERSATIONAL & SHARP:
-   - Short, punchy sentences.
-   - Rhetorical questions: "Do you really think they did that for charity? Ha."
-   - Real-world analogies.
-   - Use US currency ($) and Silicon Valley references.
-
-3. 📉 IMPERFECT STRUCTURE (Human):
-   - Start with a strong hook or anecdote, never a dictionary definition.
-   - Break the fourth wall: Talk to the reader ("You").
-
-4. 🛑 BLACKLIST (AI Detectors):
-   - NEVER USE: "In conclusion", "In summary", "It is important to note", "A tapestry of...",
-     "In the current landscape", "It is worth noting", "Delve into".
-   - Delete them and rewrite naturally.
-
-GOAL: Make the reader wonder if this was written by an AI or a pissed-off Senior Engineer at Google.
-"""
-
-def obtener_keyword():
-    """Obtiene keyword de la cola FIFO. Si está vacía, detecta tendencia automáticamente."""
-    if os.path.exists(KEYWORDS_FILE):
-        with open(KEYWORDS_FILE, 'r') as f:
-            lines = [l.strip() for l in f if l.strip()]
-        if lines:
-            # Selección FIFO
-            tema = lines[0]
-            with open(KEYWORDS_FILE, 'w') as f:
-                for l in lines[1:]:
-                    f.write(f"{l}\n")
-            print(f"📋 Keyword de cola: '{tema}'")
-            return tema
-
-    # FALLBACK: Auto-detección de tendencias del nicho
-    print("🔥 Cola vacía → Activando DETECCIÓN AUTOMÁTICA de tendencias...")
-    for category in ["tech", "crypto", "geopolitics"]:
-        trends = TrendDetector.get_niche_trends(category, max_trends=3)
-        if trends:
-            # Tomar la tendencia más fresca
-            selected = trends[0]
-            tema = selected['title']
-            print(f"🎯 Tendencia auto-detectada [{category}]: {tema[:60]}...")
-            return tema
-
-    print("💤 No se encontraron tendencias ni keywords.")
-    return None
-
-def generar_imagen_flux_local(titulo):
-    """
-    Genera imagen con Pollinations, la DESCARGA localmente y retorna ruta local.
-    """
-    print(f"🎨 Generando y Descargando imagen para: {titulo}")
-    try:
-        # 1. Construir URL de Pollinations
-        prompt = f"Editorial photography, cinematic lighting, ultra-realistic, 8k. Theme: {titulo}. Minimalist tech style, dark background with neon accents."
-        encoded = urllib.parse.quote(prompt)
-        seed = random.randint(0, 99999)
-        image_url = f"https://image.pollinations.ai/prompt/{encoded}?model=flux&width=1280&height=720&seed={seed}&nologo=true"
-        
-        # 2. Descargar localmente
-        local_path = ImageManager.download_image(image_url, titulo)
-        if local_path:
-            return local_path
-        else:
-            return "" # Fallback a nada o imagen default
-    except Exception as e:
-        print(f"⚠️ Error imagen: {e}")
-        return ""
-
-def planificar_cluster(tema, contexto_investigacion, lang="es"):
-    """
-    Fase de Arquitectura: Define 1 Artículo Único (SNIPER MODE).
-    """
-    print(f"🏗️ Planificando Artículo Sniper ({lang.upper()}) para: '{tema}'...")
+def obtener_keyword(category):
+    """Obtiene una keyword específica para la categoría."""
+    config = NICHES.get(category)
+    if not config: return None
     
-    system_instr = SYSTEM_INSTRUCTION_ES if lang == "es" else SYSTEM_INSTRUCTION_EN
+    filepath = config['keywords_file']
+    if not os.path.exists(filepath):
+        # Crear archivo dummy si no existe para evitar crash
+        os.makedirs('data', exist_ok=True)
+        with open(filepath, 'w') as f:
+            f.write(f"Trend 1 for {category}\n")
+        return f"Trend 1 for {category}"
+
+    with open(filepath, 'r') as f:
+        lines = [l.strip() for l in f if l.strip()]
+    
+    if not lines: return None
+    
+    # Selección FIFO
+    tema = lines[0]
+    
+    # Rotación
+    with open(filepath, 'w') as f:
+        for l in lines[1:]:
+            f.write(f"{l}\n")
+            
+    return tema
+
+def planificar_articulo(tema, contexto, lang, category_config):
+    """Planifica el artículo (Título/Slug) según la personalidad del nicho."""
+    print(f"🏗️ Planificando ({lang.upper()}) - Nicho: {category_config['name']}...")
+    
+    prompt_persona = category_config['prompt_es'] if lang == 'es' else category_config['prompt_en']
     
     prompt = f"""
+    {prompt_persona}
+    
     ACT LIKE AN EDITOR IN CHIEF.
     Topic: "{tema}"
-    Context: "{contexto_investigacion[:2000]}..."
-    Language: {lang.upper()} (Output titles in this language).
+    Context: "{contexto[:1500]}..."
+    Language: {lang.upper()}
     
-    TASK: Create the metadata for ONE definitive article.
+    TASK: Create metadata for a definitive article.
     
-    STRICT JSON OUTPUT (No markdown):
-    {{
-      "titulo": "...", 
-      "slug_sugerido": "..." 
-    }}
+    STRICT JSON OUTPUT:
+    {{ "titulo": "...", "slug_sugerido": "..." }}
     """
     
     try:
         resp = client.models.generate_content(
             model='gemini-2.0-flash', 
             contents=prompt,
-            config=types.GenerateContentConfig(response_mime_type="application/json", system_instruction=system_instr)
+            config=types.GenerateContentConfig(response_mime_type="application/json")
         )
-        texto_json = resp.text.replace('```json', '').replace('```', '').strip()
-        plan = json.loads(texto_json)
+        plan = json.loads(resp.text.replace('```json', '').replace('```', '').strip())
         
-        # Sanitizar slug
         suffix = "-en" if lang == "en" else ""
         plan['slug'] = SlugManager.generate(plan['slug_sugerido']) + suffix
-        
         return plan
     except Exception as e:
-        print(f"⚠️ Error planificando: {e}")
-        base_slug = SlugManager.generate(tema)
-        suffix = "-en" if lang == "en" else ""
-        return {"titulo": f"Deep Dive: {tema}", "slug": f"{base_slug}{suffix}"}
+        print(f"⚠️ Fallo planificación: {e}")
+        return {"titulo": f"{tema} Analysis", "slug": SlugManager.generate(tema) + ("-en" if lang=="en" else "")}
 
-def escribir_articulo(meta, contexto, lang="es"):
-    """
-    Escribe el artículo único.
-    """
-    titulo = meta['titulo']
-    print(f"✍️ Escribiendo ARTÍCULO SNIPER ({lang}): {titulo}...")
+def escribir_articulo(meta, contexto, lang, category_config):
+    print(f"✍️ Escribiendo ({lang.upper()}): {meta['titulo']}...")
     
-    system_instr = SYSTEM_INSTRUCTION_ES if lang == "es" else SYSTEM_INSTRUCTION_EN
+    prompt_persona = category_config['prompt_es'] if lang == 'es' else category_config['prompt_en']
     
     prompt = f"""
-    WRITE A COMPLETE MARKDOWN ARTICLE ABOUT: "{titulo}".
+    {prompt_persona}
     
-    RESEARCH CONTEXT (USE THESE FACTS):
-    {contexto}
+    WRITE A COMPLETE ARTICLE ABOUT: "{meta['titulo']}".
+    CONTEXT: {contexto}
     
-    MARKDOWN STRUCTURE:
-    - Start with **TL;DR (Key Takeaways):** (Bullet points).
-    - Follow with a strong Introduction (Hook).
-    - Use H2 for sections.
-    - Use bold for key concepts.
-    - NO internal linking to non-existent articles. Focus on depth.
+    STRUCTURE:
+    - **TL;DR** (Bullets).
+    - **Introduction** (Hook).
+    - **Deep Dive** (H2 sections).
+    - **Conclusion/Takeaway**.
     
-    LENGTH: 1500 words.
+    LENGTH: 1200-1500 words.
     LANGUAGE: {lang.upper()}
     """
     
     resp = client.models.generate_content(
-        model='gemini-2.0-flash', 
-        contents=prompt,
-        config=types.GenerateContentConfig(system_instruction=system_instr)
+        model='gemini-2.0-flash', contents=prompt
     )
-    
     return resp.text.strip()
 
-def guardar_post(meta, contenido, lang="es"):
-    os.makedirs(POSTS_DIR, exist_ok=True)
-    filepath = f"{POSTS_DIR}/{meta['slug']}.md"
+def guardar_post(meta, contenido, lang, category):
+    config = NICHES[category]
+    output_dir = config['output_dir']
+    os.makedirs(output_dir, exist_ok=True)
     
-    # Check if exists (Anti-Repetition handled before, but safe check)
-    if os.path.exists(filepath):
-        print(f"⚠️ Archivo ya existe, sobrescribiendo: {filepath}")
-
-    imagen_local = generar_imagen_flux_local(meta['titulo'])
+    filepath = f"{output_dir}/{meta['slug']}.md"
     
-    # --- LOGICA DE RETARDO HUMANO (ANTI-BOT) ---
+    # Imagen local
+    imagen = ImageManager.download_image(
+        f"https://image.pollinations.ai/prompt/{urllib.parse.quote(meta['titulo'])}?model=flux&width=1280&height=720&nologo=true", 
+        meta['titulo']
+    )
+    
+    # Backdating
     now = datetime.now()
-    if lang == "es":
-        # Simula publicación hace 15-20 mins
-        backdate_mins = random.randint(15, 25)
-    else:
-        # Simula publicación "Breaking News" hace 2-5 mins
-        backdate_mins = random.randint(2, 5)
-        
-    fecha_simulada = now - timedelta(minutes=backdate_mins)
-    fecha_str = fecha_simulada.strftime("%Y-%m-%dT%H:%M:%S")
-    # -------------------------------------------
+    backdate = random.randint(15, 30) if lang == 'es' else random.randint(2, 10)
+    date_str = (now - timedelta(minutes=backdate)).strftime("%Y-%m-%dT%H:%M:%S")
     
     clean_text = re.sub(r'[#*]', '', contenido)[:160].replace('\n', ' ') + "..."
     
     front_matter = f"""---
 title: "{meta['titulo'].replace('"', '')}"
-date: {fecha_str}
+date: {date_str}
 draft: false
 description: "{clean_text}"
-featured_image: "{imagen_local}"
-tags: ["Technology", "Analysis", "Geopolitics"]
-categories: ["Deep Dive"]
+featured_image: "{imagen}"
+tags: ["{config['name']}", "Trends"]
+categories: ["{category}"]
+type: "{category}"
 language: "{lang}"
 ---
 
-![{meta['titulo']}]({imagen_local})
+![{meta['titulo']}]({imagen})
 
 {contenido}
 """
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(front_matter)
-    
-    print(f"✅ Guardado ({lang}) - Fecha Simulada: {fecha_str}")
+    print(f"✅ Guardado: {filepath}")
 
 def main():
-    print("🚀 INICIANDO SISTEMA SNIPER GLOBAL v2 (Trend Detection + NotebookLM)")
-    print(f"📅 {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--category', type=str, required=True, help='Category: ia, fitness, crypto, youtube, viral')
+    args = parser.parse_args()
     
-    # 1. Obtener Tema (Cola FIFO → Fallback: Auto-Tendencia)
-    tema = obtener_keyword()
-    if not tema:
-        print("💤 No hay temas disponibles (cola vacía + sin tendencias).")
+    cat = args.category.lower()
+    if cat not in NICHES:
+        print(f"❌ Categoría '{cat}' no válida.")
         return
 
-    print(f"\n🎯 TEMA OBJETIVO: {tema}")
+    print(f"🚀 INICIANDO NOVUM-PENTAGON: {NICHES[cat]['name']}")
     
-    # 2. Investigación Profunda (NotebookLM MCP → Fallback: Scraping)
-    investigador = researcher.Researcher()
-    try:
-        contexto = investigador.research_topic(tema)
-    except Exception as e:
-        print(f"⚠️ Error en investigación: {e}. Usando contexto mínimo.")
-        contexto = f"No deep research available. Topic: {tema}. Write based on general knowledge."
-    
-    # 3. Bucle de Idiomas (High CPM Strategy)
-    idiomas = ["es", "en"]
-    
-    for lang in idiomas:
-        print(f"\n--- GENERANDO POST EN: {lang.upper()} ---")
+    tema = obtener_keyword(cat)
+    if not tema:
+        print("💤 No hay keywords.")
+        return
         
-        # Planificación (Single Article)
-        meta = planificar_cluster(tema, contexto, lang)
-        
-        # Generación (Sin Spokes)
-        contenido = escribir_articulo(meta, contexto, lang)
-        guardar_post(meta, contenido, lang)
+    print(f"🎯 TEMA: {tema}")
     
-    # 5. Registro Final
+    # Investigación con Contexto Específico
+    # Concatenamos la keyword con el contexto del nicho para mejorar la búsqueda
+    search_query = f"{tema} {NICHES[cat]['search_context']}"
+    
+    res = researcher.Researcher()
+    contexto = res.research_topic(search_query) # Researcher V3 maneja esto
+    
+    # Generación Dual
+    for lang in ["es", "en"]:
+        meta = planificar_articulo(tema, contexto, lang, NICHES[cat])
+        texto = escribir_articulo(meta, contexto, lang, NICHES[cat])
+        guardar_post(meta, texto, lang, cat)
+        
     with open(COMPLETED_FILE, 'a') as f:
-        f.write(f"{tema} (Global Sniper Completed)\n")
+        f.write(f"{cat}: {tema}\n")
 
 if __name__ == "__main__":
     main()

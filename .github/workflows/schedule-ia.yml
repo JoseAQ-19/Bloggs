@@ -1,0 +1,32 @@
+name: Novum-Pentagon: IA & SaaS
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # 8:00 UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions: contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.10' }
+      - run: |
+          pip install -r requirements.txt playwright google-genai python-dotenv beautifulsoup4 lxml requests notebooklm-mcp-server
+          playwright install chromium
+      - name: Inject NotebookLM Auth
+        env: { NOTEBOOKLM_AUTH: ${{ secrets.NOTEBOOKLM_AUTH }} }
+        run: |
+          mkdir -p ~/.notebooklm-mcp
+          echo "$NOTEBOOKLM_AUTH" > ~/.notebooklm-mcp/auth.json
+      - name: Run Generator
+        env: { GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }} }
+        run: python main.py --category ia
+      - name: Push
+        run: |
+          git config --global user.name "JoseAQ-19"
+          git config --global user.email "josearizaquintero@gmail.com"
+          git add content/ data/ static/images/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 IA Content Generated" && git push)
