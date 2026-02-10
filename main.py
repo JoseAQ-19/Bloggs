@@ -16,6 +16,7 @@ from google.genai import types
 
 # Importar Módulos Propios
 import researcher
+from researcher import TrendDetector
 from utils import SlugManager, ImageManager
 
 # Configuración
@@ -87,20 +88,32 @@ GOAL: Make the reader wonder if this was written by an AI or a pissed-off Senior
 """
 
 def obtener_keyword():
-    if not os.path.exists(KEYWORDS_FILE): return None
-    with open(KEYWORDS_FILE, 'r') as f:
-        lines = [l.strip() for l in f if l.strip()]
-    if not lines: return None
-    
-    # Selección: Prioridad FIFO (Lo primero de la lista)
-    tema = lines[0]
-    
-    # Rotación: Mover al final (o borrar si se prefiere, aquí lo borramos de la lista activa)
-    with open(KEYWORDS_FILE, 'w') as f:
-        for l in lines[1:]:
-            f.write(f"{l}\n")
-            
-    return tema
+    """Obtiene keyword de la cola FIFO. Si está vacía, detecta tendencia automáticamente."""
+    if os.path.exists(KEYWORDS_FILE):
+        with open(KEYWORDS_FILE, 'r') as f:
+            lines = [l.strip() for l in f if l.strip()]
+        if lines:
+            # Selección FIFO
+            tema = lines[0]
+            with open(KEYWORDS_FILE, 'w') as f:
+                for l in lines[1:]:
+                    f.write(f"{l}\n")
+            print(f"📋 Keyword de cola: '{tema}'")
+            return tema
+
+    # FALLBACK: Auto-detección de tendencias del nicho
+    print("🔥 Cola vacía → Activando DETECCIÓN AUTOMÁTICA de tendencias...")
+    for category in ["tech", "crypto", "geopolitics"]:
+        trends = TrendDetector.get_niche_trends(category, max_trends=3)
+        if trends:
+            # Tomar la tendencia más fresca
+            selected = trends[0]
+            tema = selected['title']
+            print(f"🎯 Tendencia auto-detectada [{category}]: {tema[:60]}...")
+            return tema
+
+    print("💤 No se encontraron tendencias ni keywords.")
+    return None
 
 def generar_imagen_flux_local(titulo):
     """
@@ -247,23 +260,24 @@ language: "{lang}"
     print(f"✅ Guardado ({lang}) - Fecha Simulada: {fecha_str}")
 
 def main():
-    print("🚀 INICIANDO SISTEMA SNIPER GLOBAL (1 TEMA -> 2 POSTS)")
+    print("🚀 INICIANDO SISTEMA SNIPER GLOBAL v2 (Trend Detection + NotebookLM)")
+    print(f"📅 {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     
-    # 1. Obtener Tema
+    # 1. Obtener Tema (Cola FIFO → Fallback: Auto-Tendencia)
     tema = obtener_keyword()
     if not tema:
-        print("💤 No hay temas en cola (keywords.txt vacío).")
+        print("💤 No hay temas disponibles (cola vacía + sin tendencias).")
         return
 
-    print(f"🎯 TEMA OBJETIVO: {tema}")
+    print(f"\n🎯 TEMA OBJETIVO: {tema}")
     
-    # 2. Investigación (NotebookLLM / News)
+    # 2. Investigación Profunda (NotebookLM MCP → Fallback: Scraping)
     investigador = researcher.Researcher()
     try:
         contexto = investigador.research_topic(tema)
     except Exception as e:
-        print(f"⚠️ Error en investigación: {e}. Usando contexto vacío.")
-        contexto = "No research available."
+        print(f"⚠️ Error en investigación: {e}. Usando contexto mínimo.")
+        contexto = f"No deep research available. Topic: {tema}. Write based on general knowledge."
     
     # 3. Bucle de Idiomas (High CPM Strategy)
     idiomas = ["es", "en"]
