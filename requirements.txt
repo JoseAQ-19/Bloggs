@@ -6,3 +6,4 @@ python-dotenv
 playwright
 beautifulsoup4
 lxml
+feedparser

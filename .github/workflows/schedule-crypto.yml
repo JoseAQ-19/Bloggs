@@ -1,8 +1,8 @@
-name: "Novum Pentagon - IA"
+name: "Novum Pentagon - Crypto"
 
 on:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 2 * * *'
   workflow_dispatch:
 
 permissions:
@@ -34,12 +34,12 @@ jobs:
       - name: Run Generator
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python main.py --category ia
+        run: python main.py --category crypto
 
       - name: Push
         run: |
           git config --global user.name "JoseAQ-19"
           git config --global user.email "josearizaquintero@gmail.com"
           git add .
-          git commit -m "🤖 IA Content Generated" || echo "No changes"
+          git commit -m "🤖 Crypto Content Generated" || echo "No changes"
           git push

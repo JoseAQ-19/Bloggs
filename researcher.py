@@ -3,6 +3,7 @@ import json
 import subprocess
 import requests
 import time
+import xml.etree.ElementTree as ET
 from datetime import datetime
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
@@ -200,12 +201,12 @@ class ResearcherV3:
             # Configuración de Grounding (Google Search Retrieval)
             # Nota: La sintaxis exacta depende de la versión del SDK. 
             # Usamos la configuración estándar de 'google_search_retrieval'.
-            tool_config = types.Tool(google_search_retrieval=types.GoogleSearchRetrieval)
+            google_search_tool = types.Tool(google_search=types.GoogleSearch())
             
             resp = self.client.models.generate_content(
                 model='gemini-2.0-flash',
                 contents=prompt,
-                config=types.GenerateContentConfig(tools=[tool_config])
+                config=types.GenerateContentConfig(tools=[google_search_tool])
             )
             
             if resp.text and len(resp.text) > 300:

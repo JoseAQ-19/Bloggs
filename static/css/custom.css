@@ -3,40 +3,132 @@
 /* Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Clash+Display:wght@400;600;700&family=Inter:wght@300;400;600&display=swap');
 
+/* --- THEME SYSTEM: CAMALEON --- */
+
+/* DEFAULT (IA / Home) - Cyberpunk Blue */
+:root {
+    --primary: #8be9fd;
+    --bg-color: #0f0f0f;
+    --text-color: #e0e0e0;
+    --card-bg: rgba(255, 255, 255, 0.03);
+    --border-color: rgba(255, 255, 255, 0.05);
+    --font-heading: 'Clash Display', sans-serif;
+    --font-body: 'Inter', sans-serif;
+}
+
+/* THEME: YOUTUBE (Red/Black) */
+.theme-youtube {
+    --primary: #FF0000;
+    --bg-color: #000000;
+    --text-color: #ffffff;
+    --card-bg: rgba(20, 20, 20, 0.9);
+    --border-color: #333;
+}
+.theme-youtube article.glass-card {
+    border-radius: 50px !important; /* Pill shape */
+    box-shadow: 5px 5px 0px #FF0000 !important;
+}
+.theme-youtube a:hover { text-shadow: 0 0 10px red; }
+
+/* THEME: CRYPTO (Matrix Green) */
+.theme-crypto {
+    --primary: #00FF41;
+    --bg-color: #0B0C10;
+    --text-color: #C5C6C7;
+    --font-heading: 'Courier New', monospace; /* Terminal vibe */
+    --card-bg: rgba(0, 20, 0, 0.8);
+    --border-color: #00FF41;
+}
+.theme-crypto article.glass-card {
+    border: 1px solid #00FF41 !important;
+    box-shadow: 0 0 10px rgba(0, 255, 65, 0.2);
+}
+
+/* THEME: FITNESS (Neon Orange) */
+.theme-fitness {
+    --primary: #FF5F1F;
+    --bg-color: #1a1a1a;
+    --text-color: #f0f0f0;
+    --font-heading: 'Inter', sans-serif; /* Clean & Fast */
+}
+.theme-fitness article.glass-card {
+    transform: skew(-2deg); /* Aggressive look */
+    border-left: 4px solid #FF5F1F !important;
+}
+
+/* THEME: VIRAL (Gen-Z Violet) */
+.theme-viral {
+    --primary: #8A2BE2;
+    --bg-color: #ffffff; /* Brutalist often uses white/black contrast */
+    --text-color: #000000;
+    --card-bg: #f0f0f0;
+    --border-color: #000;
+}
+.theme-viral body {
+    background-color: #ffffff !important; /* Override global dark */
+    color: black !important;
+}
+.theme-viral article.glass-card {
+    background: #fff !important;
+    border: 3px solid black !important;
+    box-shadow: 8px 8px 0px black !important;
+    border-radius: 0 !important;
+}
+.theme-viral h1 { color: black !important; }
+.theme-viral a { color: #8A2BE2 !important; font-weight: 900; }
+
 /* Global Reset & Colors */
 body, html {
-    background-color: #0f0f0f !important;
-    color: #e0e0e0 !important;
-    font-family: 'Inter', sans-serif !important;
+    background-color: var(--bg-color) !important;
+    color: var(--text-color) !important;
+    font-family: var(--font-body) !important;
     scroll-behavior: smooth;
     overflow-x: hidden;
 }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Clash Display', sans-serif !important;
-    color: #ffffff !important;
+    font-family: var(--font-heading) !important;
+    color: var(--text-color) !important;
     letter-spacing: -0.02em;
 }
 
 /* Links */
 a {
-    color: #8be9fd !important;
+    color: var(--primary) !important;
     transition: all 0.3s ease;
     text-decoration: none !important;
 }
 
 a:hover {
-    color: #ff79c6 !important;
-    text-shadow: 0 0 10px rgba(255, 121, 198, 0.5);
+    color: var(--primary) !important;
+    filter: brightness(1.2);
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+}
+
+/* Navigation Overrides */
+.ananke-social-link, .nav-link, .link {
+    margin-left: 1rem;
+    color: var(--primary) !important;
+}
+.nav-a {
+    font-family: var(--font-heading);
+    color: var(--text-color) !important;
+}
+.nav-a:hover {
+    color: var(--primary) !important;
+}
+
+header {
+    border-bottom: 1px solid var(--border-color);
 }
 
 /* Glassmorphism Cards */
 article.glass-card {
-    background: rgba(255, 255, 255, 0.03) !important;
+    background: var(--card-bg) !important;
     backdrop-filter: blur(16px) !important;
     -webkit-backdrop-filter: blur(16px);
-    border: 1px solid rgba(255, 255, 255, 0.05) !important;
+    border: 1px solid var(--border-color) !important;
     border-radius: 16px;
     padding: 2rem;
     margin-bottom: 3rem;
@@ -46,15 +138,14 @@ article.glass-card {
 
 article.glass-card:hover {
     transform: translateY(-5px) scale(1.01);
-    background: rgba(255, 255, 255, 0.05) !important;
-    border-color: rgba(139, 233, 253, 0.3) !important;
-    box-shadow: 0 10px 40px rgba(139, 233, 253, 0.15), 
-                inset 0 0 20px rgba(139, 233, 253, 0.05);
+    border-color: var(--primary) !important;
+    box-shadow: 0 10px 40px rgba(0,0,0, 0.15), 
+                inset 0 0 20px rgba(255,255,255, 0.05);
 }
 
 /* Override Tachyons Borders */
 .bb, .bt, .bl, .br, .ba {
-    border-color: rgba(255, 255, 255, 0.1) !important;
+    border-color: var(--border-color) !important;
 }
 
 .bg-near-white, .bg-light-gray {
@@ -78,7 +169,8 @@ header.hero-modern::before {
     position: absolute;
     width: 200%;
     height: 200%;
-    background: radial-gradient(circle, rgba(139, 233, 253, 0.05) 0%, transparent 50%);
+    background: radial-gradient(circle, var(--primary) 0%, transparent 50%); /* Use primary color */
+    opacity: 0.1;
     animation: rotate 20s linear infinite;
 }
 
@@ -90,7 +182,7 @@ header.hero-modern::before {
 .hero-title {
     font-size: 5rem !important;
     font-weight: 700;
-    background: linear-gradient(to right, #ffffff, #8be9fd);
+    background: linear-gradient(to right, #ffffff, var(--primary));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-align: center;
@@ -101,11 +193,11 @@ header.hero-modern::before {
 
 .hero-subtitle {
     font-size: 1.5rem !important;
-    color: rgba(255, 255, 255, 0.7) !important;
+    color: var(--text-color) !important;
+    opacity: 0.7;
     text-align: center;
     max-width: 600px;
     z-index: 10;
-    opacity: 0;
 }
 
 /* Custom Scrollbar */
@@ -113,14 +205,14 @@ header.hero-modern::before {
     width: 8px;
 }
 ::-webkit-scrollbar-track {
-    background: #0f0f0f;
+    background: var(--bg-color);
 }
 ::-webkit-scrollbar-thumb {
     background: #333;
     border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: #555;
+    background: var(--primary);
 }
 
 /* Utility for Spacing */
@@ -141,9 +233,9 @@ header.hero-modern::before {
 
 #reading-progress-bar {
   height: 100%;
-  background: linear-gradient(90deg, #00ffff, #bd00ff);
+  background: linear-gradient(90deg, var(--bg-color), var(--primary));
   width: 0%;
-  box-shadow: 0 0 10px rgba(0, 255, 255, 0.7);
+  box-shadow: 0 0 10px var(--primary);
   transition: width 0.1s ease-out;
 }
 
@@ -158,32 +250,32 @@ header.hero-modern::before {
 
 .logo-tech:hover {
     transform: scale(1.1) rotate(5deg);
-    filter: drop-shadow(0 0 8px rgba(139, 233, 253, 0.8));
+    filter: drop-shadow(0 0 8px var(--primary));
 }
 
 /* --- SOCIAL PROOF FOOTER --- */
 .social-proof-text {
-    font-family: 'Inter', sans-serif;
+    font-family: var(--font-body);
     font-size: 0.8rem;
-    color: rgba(255, 255, 255, 0.4);
+    color: var(--text-color);
     letter-spacing: 1px;
     text-transform: uppercase;
     margin-top: 2rem;
     opacity: 0.7;
 }
 .social-proof-text span {
-    color: #8be9fd;
+    color: var(--primary);
     font-weight: 600;
 }
 
-/* --- ROBUST NAVIGATION LAYOUT (The Solution) --- */
+/* --- ROBUST NAVIGATION LAYOUT --- */
 
 /* 1. Main Navigation Wrapper */
 .main-nav-wrapper {
     width: 100%;
     padding: 1.5rem 2rem;
-    background-color: #0f0f0f; /* Match body bg */
-    border-bottom: 1px solid rgba(255,255,255,0.1);
+    background-color: var(--bg-color); 
+    border-bottom: 1px solid var(--border-color);
     box-sizing: border-box;
 }
 
@@ -199,10 +291,10 @@ header.hero-modern::before {
 
 /* 3. Logo Styles */
 .nav-logo {
-    font-family: 'Clash Display', sans-serif;
+    font-family: var(--font-heading);
     font-size: 1.5rem;
     font-weight: 700;
-    color: #ffffff !important;
+    color: var(--text-color) !important;
     text-decoration: none;
     margin-right: auto; /* Push everything else to the right */
 }
@@ -226,23 +318,7 @@ header.hero-modern::before {
     display: inline-block;
 }
 
-.nav-a {
-    font-family: 'Inter', sans-serif;
-    font-size: 1rem;
-    font-weight: 500;
-    color: rgba(255, 255, 255, 0.8) !important;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    transition: color 0.2s ease;
-}
-
-.nav-a:hover {
-    color: #8be9fd !important;
-    text-shadow: 0 0 8px rgba(139, 233, 253, 0.4);
-}
-
 /* Remove old conflicting rules */
 header {
-    /* No global flex on header, allow block layout for stacking nav and hero */
     display: block; 
 }

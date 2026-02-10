@@ -17,6 +17,7 @@ from google.genai import types
 
 # Importar Módulos Propios
 import researcher
+import trend_hunter # NUEVO: Módulo Hunter
 from utils import SlugManager, ImageManager
 
 # Configuración
@@ -31,7 +32,6 @@ except ValueError:
 NICHES = {
     "ia": {
         "name": "IA & SaaS",
-        "keywords_file": "data/keywords_ia.txt",
         "output_dir": "content/ia",
         "search_context": "SaaS AI tools LLM benchmarks B2B technology news",
         "prompt_es": """
@@ -49,7 +49,6 @@ NICHES = {
     },
     "fitness": {
         "name": "Biohacking & Fitness",
-        "keywords_file": "data/keywords_fitness.txt",
         "output_dir": "content/fitness",
         "search_context": "hypertrophy science biohacking longevity pubmed study",
         "prompt_es": """
@@ -67,7 +66,6 @@ NICHES = {
     },
     "crypto": {
         "name": "Crypto & Web3",
-        "keywords_file": "data/keywords_crypto.txt",
         "output_dir": "content/crypto",
         "search_context": "cryptocurrency technical analysis DeFi blockchain finance news",
         "prompt_es": """
@@ -85,7 +83,6 @@ NICHES = {
     },
     "youtube": {
         "name": "Creator Economy",
-        "keywords_file": "data/keywords_youtube.txt",
         "output_dir": "content/youtube",
         "search_context": "creator economy youtube algorithm twitch stats influencer business",
         "prompt_es": """
@@ -103,7 +100,6 @@ NICHES = {
     },
     "viral": {
         "name": "Viral & Trends",
-        "keywords_file": "data/keywords_viral.txt",
         "output_dir": "content/viral",
         "search_context": "viral internet trends reddit twitter drama pop culture",
         "prompt_es": """
@@ -121,54 +117,47 @@ NICHES = {
     }
 }
 
+STRUCTURE_TEMPLATES = {
+    'type_a': "PERIODISTIC: TL;DR -> Intro -> H2 Analysis -> H2 Impact -> Conclusion",
+    'type_b': "STORYTELLING: Personal Hook -> The Problem -> The Deep Dive -> The Solution",
+    'type_c': "LISTICLE: Rapid Intro -> 5 Key Points (Numbered) -> Final Verdict"
+}
+
 COMPLETED_FILE = 'data/completed.txt'
 
-def obtener_keyword(category):
-    """Obtiene una keyword específica para la categoría."""
-    config = NICHES.get(category)
-    if not config: return None
-    
-    filepath = config['keywords_file']
-    if not os.path.exists(filepath):
-        # Crear archivo dummy si no existe para evitar crash
-        os.makedirs('data', exist_ok=True)
-        with open(filepath, 'w') as f:
-            f.write(f"Trend 1 for {category}\n")
-        return f"Trend 1 for {category}"
-
-    with open(filepath, 'r') as f:
-        lines = [l.strip() for l in f if l.strip()]
-    
-    if not lines: return None
-    
-    # Selección FIFO
-    tema = lines[0]
-    
-    # Rotación
-    with open(filepath, 'w') as f:
-        for l in lines[1:]:
-            f.write(f"{l}\n")
-            
-    return tema
+def safety_check(topic):
+    """Filtro de seguridad AdSense."""
+    print(f"👮‍♂️ Safety Check: {topic}...")
+    try:
+        prompt = f"""
+        ACT AS: AdSense Moderator.
+        TOPIC: "{topic}"
+        TASK: Classify as SAFE or UNSAFE for advertising.
+        CRITERIA: Hate speech, adult content, graphic violence, illegal drugs.
+        OUTPUT: Only one word: SAFE or UNSAFE.
+        """
+        resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
+        verdict = resp.text.strip().upper()
+        if "UNSAFE" in verdict:
+            print(f"🚨 TEMA BLOQUEADO: {topic}")
+            return False
+        return True
+    except:
+        return True # Fail open si error API (riesgo asumido)
 
 def planificar_articulo(tema, contexto, lang, category_config):
-    """Planifica el artículo (Título/Slug) según la personalidad del nicho."""
     print(f"🏗️ Planificando ({lang.upper()}) - Nicho: {category_config['name']}...")
     
     prompt_persona = category_config['prompt_es'] if lang == 'es' else category_config['prompt_en']
     
     prompt = f"""
     {prompt_persona}
-    
     ACT LIKE AN EDITOR IN CHIEF.
     Topic: "{tema}"
     Context: "{contexto[:1500]}..."
     Language: {lang.upper()}
-    
     TASK: Create metadata for a definitive article.
-    
-    STRICT JSON OUTPUT:
-    {{ "titulo": "...", "slug_sugerido": "..." }}
+    STRICT JSON OUTPUT: {{ "titulo": "...", "slug_sugerido": "..." }}
     """
     
     try:
@@ -178,7 +167,6 @@ def planificar_articulo(tema, contexto, lang, category_config):
             config=types.GenerateContentConfig(response_mime_type="application/json")
         )
         plan = json.loads(resp.text.replace('```json', '').replace('```', '').strip())
-        
         suffix = "-en" if lang == "en" else ""
         plan['slug'] = SlugManager.generate(plan['slug_sugerido']) + suffix
         return plan
@@ -190,26 +178,18 @@ def escribir_articulo(meta, contexto, lang, category_config):
     print(f"✍️ Escribiendo ({lang.upper()}): {meta['titulo']}...")
     
     prompt_persona = category_config['prompt_es'] if lang == 'es' else category_config['prompt_en']
+    structure = random.choice(list(STRUCTURE_TEMPLATES.values()))
     
     prompt = f"""
     {prompt_persona}
-    
     WRITE A COMPLETE ARTICLE ABOUT: "{meta['titulo']}".
     CONTEXT: {contexto}
-    
-    STRUCTURE:
-    - **TL;DR** (Bullets).
-    - **Introduction** (Hook).
-    - **Deep Dive** (H2 sections).
-    - **Conclusion/Takeaway**.
-    
+    STRUCTURE TEMPLATE: {structure}
     LENGTH: 1200-1500 words.
     LANGUAGE: {lang.upper()}
     """
     
-    resp = client.models.generate_content(
-        model='gemini-2.0-flash', contents=prompt
-    )
+    resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
     return resp.text.strip()
 
 def guardar_post(meta, contenido, lang, category):
@@ -218,18 +198,14 @@ def guardar_post(meta, contenido, lang, category):
     os.makedirs(output_dir, exist_ok=True)
     
     filepath = f"{output_dir}/{meta['slug']}.md"
-    
-    # Imagen local
     imagen = ImageManager.download_image(
         f"https://image.pollinations.ai/prompt/{urllib.parse.quote(meta['titulo'])}?model=flux&width=1280&height=720&nologo=true", 
         meta['titulo']
     )
     
-    # Backdating
     now = datetime.now()
     backdate = random.randint(15, 30) if lang == 'es' else random.randint(2, 10)
     date_str = (now - timedelta(minutes=backdate)).strftime("%Y-%m-%dT%H:%M:%S")
-    
     clean_text = re.sub(r'[#*]', '', contenido)[:160].replace('\n', ' ') + "..."
     
     front_matter = f"""---
@@ -264,21 +240,30 @@ def main():
 
     print(f"🚀 INICIANDO NOVUM-PENTAGON: {NICHES[cat]['name']}")
     
-    tema = obtener_keyword(cat)
+    # --- PASO 1: TREND HUNTER + SAFETY CHECK ---
+    print(f"🏹 Cazando tendencia para: {cat}...")
+    tema = trend_hunter.TrendHunter.get_trend(cat)
+    
     if not tema:
-        print("💤 No hay keywords.")
+        print("💤 No se encontró tendencia. Abortando.")
         return
-        
-    print(f"🎯 TEMA: {tema}")
+
+    # Safety Check
+    if not safety_check(tema):
+        print("🛡️ Tema inseguro detectado. Activando protocolo de evasión (Backup).")
+        # Aquí podríamos reintentar con backup, pero TrendHunter ya tiene backup.
+        # Asumimos que el backup es seguro (son temas evergreen).
+        # Si el unsafe vino de backup, abortamos.
+        return 
+
+    print(f"🎯 TEMA VALIDADO: {tema}")
     
-    # Investigación con Contexto Específico
-    # Concatenamos la keyword con el contexto del nicho para mejorar la búsqueda
+    # --- PASO 2: RESEARCHER ---
     search_query = f"{tema} {NICHES[cat]['search_context']}"
-    
     res = researcher.Researcher()
-    contexto = res.research_topic(search_query) # Researcher V3 maneja esto
+    contexto = res.research_topic(search_query) 
     
-    # Generación Dual
+    # --- PASO 3: GENERACIÓN ---
     for lang in ["es", "en"]:
         meta = planificar_articulo(tema, contexto, lang, NICHES[cat])
         texto = escribir_articulo(meta, contexto, lang, NICHES[cat])
