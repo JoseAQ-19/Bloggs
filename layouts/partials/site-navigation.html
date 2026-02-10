@@ -30,8 +30,9 @@
       {{ if .Site.Menus.main }}
         <ul class="{{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }} nav-ul">
           {{ range .Site.Menus.main }}
+          {{ $isActive := or (eq $.Section .Identifier) (eq $.Title .Name) }}
           <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }} nav-li">
-            <a class="hover-white white-90 no-underline nav-a" href="{{ .URL }}" title="{{ lang.Translate "pageTitle" . }}">
+            <a class="hover-white white-90 no-underline nav-a {{ if $isActive }}active-link{{ end }}" href="{{ .URL }}" title="{{ lang.Translate "pageTitle" . }}">
               {{ .Name }}
             </a>
           </li>
@@ -55,4 +56,11 @@
 .shake { animation: shake 0.5s infinite; }
 .bounce { animation: bounce 2s infinite; }
 .float { animation: float 3s ease-in-out infinite; }
+
+/* Active Link Style */
+.active-link {
+    border-bottom: 2px solid var(--primary);
+    padding-bottom: 5px;
+    opacity: 1 !important;
+}
 </style>

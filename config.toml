@@ -1,6 +1,6 @@
 baseURL = "https://novumworld.com/"
 languageCode = "es-es"
-title = "NovumWorld - Oficial"
+title = "NovumWorld"
 theme = "ananke"
 
 [pagination]
@@ -10,24 +10,34 @@ theme = "ananke"
   description = "El futuro de la tecnología y la IA"
   custom_css = ["css/custom.css"]
 
+# --- NAVIGATION SYSTEM (PENTAGON ARCHITECTURE) ---
+
 [[menu.main]]
-  identifier = "about"
-  name = "Sobre Nosotros"
-  url = "/about/"
+  identifier = "ia"
+  name = "🤖 AI & SaaS"
+  url = "/ia/"
   weight = 10
+
 [[menu.main]]
-  identifier = "privacy"
-  name = "Privacidad"
-  url = "/privacy/"
+  identifier = "crypto"
+  name = "🪙 Crypto"
+  url = "/crypto/"
   weight = 20
+
 [[menu.main]]
-  identifier = "contact"
-  name = "Contacto"
-  url = "/contact/"
+  identifier = "fitness"
+  name = "💪 Biohacking"
+  url = "/fitness/"
   weight = 30
+
 [[menu.main]]
-  identifier = "posts"
-  name = "Todos los posts"
-  url = "/posts/"
+  identifier = "youtube"
+  name = "🔴 Creators"
+  url = "/youtube/"
   weight = 40
 
+[[menu.main]]
+  identifier = "viral"
+  name = "🔥 Viral"
+  url = "/viral/"
+  weight = 50
