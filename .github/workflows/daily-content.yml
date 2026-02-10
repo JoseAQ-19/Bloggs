@@ -27,6 +27,21 @@ jobs:
           pip install -r requirements.txt
           playwright install chromium
 
+      - name: Install NotebookLM MCP Server
+        run: |
+          pip install notebooklm-mcp-server
+          echo "✅ NotebookLM MCP Server instalado"
+          which notebooklm-mcp || echo "⚠️ Binary no encontrado en PATH"
+
+      - name: Inject NotebookLM Auth Tokens
+        if: ${{ secrets.NOTEBOOKLM_AUTH != '' }}
+        env:
+          NOTEBOOKLM_AUTH: ${{ secrets.NOTEBOOKLM_AUTH }}
+        run: |
+          mkdir -p ~/.notebooklm-mcp
+          echo "$NOTEBOOKLM_AUTH" > ~/.notebooklm-mcp/auth.json
+          echo "🔐 Auth tokens inyectados en ~/.notebooklm-mcp/auth.json"
+
       - name: Run Content Generator
         env:
           GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY }}
