@@ -10,34 +10,52 @@ theme = "ananke"
   description = "El futuro de la tecnología y la IA"
   custom_css = ["css/custom.css"]
 
-# --- NAVIGATION SYSTEM (PENTAGON ARCHITECTURE) ---
-
-[[menu.main]]
+# --- MENÚ HAMBURGUESA: Las 5 Verticales ---
+[[menu.sections]]
   identifier = "ia"
-  name = "🤖 AI & SaaS"
+  name = "🤖 Tech & IA"
   url = "/ia/"
   weight = 10
 
-[[menu.main]]
+[[menu.sections]]
   identifier = "crypto"
   name = "🪙 Crypto"
   url = "/crypto/"
   weight = 20
 
-[[menu.main]]
+[[menu.sections]]
   identifier = "fitness"
-  name = "💪 Biohacking"
+  name = "💪 Fitness"
   url = "/fitness/"
   weight = 30
 
-[[menu.main]]
-  identifier = "youtube"
-  name = "🔴 Creators"
-  url = "/youtube/"
-  weight = 40
-
-[[menu.main]]
+[[menu.sections]]
   identifier = "viral"
   name = "🔥 Viral"
   url = "/viral/"
+  weight = 40
+
+[[menu.sections]]
+  identifier = "youtube"
+  name = "📺 YouTube"
+  url = "/youtube/"
   weight = 50
+
+# --- MENÚ LEGAL: Visible siempre (AdSense Required) ---
+[[menu.legal]]
+  identifier = "about"
+  name = "Sobre Nosotros"
+  url = "/about/"
+  weight = 10
+
+[[menu.legal]]
+  identifier = "privacy"
+  name = "Privacidad"
+  url = "/privacy/"
+  weight = 20
+
+[[menu.legal]]
+  identifier = "contact"
+  name = "Contacto"
+  url = "/contact/"
+  weight = 30
