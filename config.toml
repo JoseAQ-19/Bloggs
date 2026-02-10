@@ -15,30 +15,35 @@ theme = "ananke"
   identifier = "ia"
   name = "🤖 Tech & IA"
   url = "/ia/"
+  pageRef = "/ia"
   weight = 10
 
 [[menu.sections]]
   identifier = "crypto"
   name = "🪙 Crypto"
   url = "/crypto/"
+  pageRef = "/crypto"
   weight = 20
 
 [[menu.sections]]
   identifier = "fitness"
   name = "💪 Fitness"
   url = "/fitness/"
+  pageRef = "/fitness"
   weight = 30
 
 [[menu.sections]]
   identifier = "viral"
   name = "🔥 Viral"
   url = "/viral/"
+  pageRef = "/viral"
   weight = 40
 
 [[menu.sections]]
   identifier = "youtube"
   name = "📺 YouTube"
   url = "/youtube/"
+  pageRef = "/youtube"
   weight = 50
 
 # --- MENÚ LEGAL: Visible siempre (AdSense Required) ---
@@ -46,16 +51,19 @@ theme = "ananke"
   identifier = "about"
   name = "Sobre Nosotros"
   url = "/about/"
+  pageRef = "/about"
   weight = 10
 
 [[menu.legal]]
   identifier = "privacy"
   name = "Privacidad"
   url = "/privacy/"
+  pageRef = "/privacy"
   weight = 20
 
 [[menu.legal]]
   identifier = "contact"
   name = "Contacto"
   url = "/contact/"
+  pageRef = "/contact"
   weight = 30
