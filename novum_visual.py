@@ -112,6 +112,9 @@ class NovumVisualEngine:
     def _try_pollinations(self, prompt, filepath):
         print("   🌺 Intentando Nivel 1: Pollinations (Flux)...")
         try:
+            # THROTTLING ANTI-BAN
+            time.sleep(3) 
+            
             seed = random.randint(0, 999999)
             encoded = urllib.parse.quote(prompt)
             # URL optimizada según investigación
@@ -119,10 +122,16 @@ class NovumVisualEngine:
             
             response = requests.get(url, timeout=45) # Flux es lento
             
-            if response.status_code == 200 and len(response.content) > 5000:
+            # FILTRO ANTI-RATE-LIMIT (Tamaño < 50KB = Fake Image)
+            if response.status_code == 200:
+                content_size = len(response.content)
+                if content_size < 50000: # 50KB threshold
+                    print(f"   🚨 RATE LIMIT DETECTADO (Size: {content_size} bytes). Saltando motor.")
+                    return False
+                
                 return self._save_bytes(response.content, filepath)
                 
-            print(f"   ⚠️ Pollinations falló (Size: {len(response.content)})")
+            print(f"   ⚠️ Pollinations falló (Status: {response.status_code})")
             return False
         except Exception as e:
             print(f"   ⚠️ Pollinations Exception: {e}")

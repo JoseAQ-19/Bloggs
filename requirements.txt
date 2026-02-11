@@ -7,3 +7,5 @@ playwright
 beautifulsoup4
 lxml
 feedparser
+youtube-transcript-api
+yt-dlp

@@ -18,6 +18,7 @@ from google.genai import types
 # Importar Módulos Propios
 import researcher
 import trend_hunter 
+import tools_hunter # NUEVO
 from utils import SlugManager 
 from novum_visual import get_image 
 
@@ -29,8 +30,7 @@ except ValueError:
     print("⚠️ ADVERTENCIA: No se encontró API KEY.")
     client = None
 
-# --- SYSTEM PROMPT GLOBAL (CLEAN FORMAT) ---
-# Se inyecta la personalidad específica después, pero estas reglas son base.
+# --- SYSTEM PROMPTS ---
 SYSTEM_FORMAT_RULES = """
 CRITICAL FORMATTING RULES:
 1. NO TITLE REPETITION: Do NOT include the article title or H1 at the beginning. The website renders it automatically.
@@ -39,82 +39,68 @@ CRITICAL FORMATTING RULES:
 4. NO AI FLUFF: Do not use "In conclusion", "It is important to note".
 """
 
+PROMPT_BLUEPRINT = """
+ACT COMO: Senior Technical Writer & DevOps Engineer.
+TASK: Convert this raw YouTube transcript into a Professional 'Novum Blueprint' Tutorial.
+
+SOURCE VIDEO: "{title}"
+TRANSCRIPT RAW:
+{transcript}
+
+STRUCTURE (MANDATORY):
+1. **The Problem:** Clear explanation of what we are solving.
+2. **The Stack:** List of tools/software required.
+3. **The Blueprint (Step-by-Step):** Detailed instructions. Use code blocks for scripts.
+4. **Pro Tips:** Advanced optimization advice.
+
+RULES:
+- Clean up spoken language. Make it concise documentation.
+- NO "In this video", "Subscribe", or "Smash the like button".
+- Use Markdown headers (##).
+- TONE: Professional, technical, zero fluff.
+"""
+
 # --- CONFIGURACIÓN DE NICHOS ---
 NICHES = {
     "ia": {
         "name": "IA & SaaS",
         "output_dir": "content/ia",
         "search_context": "SaaS AI tools LLM benchmarks B2B technology news",
-        "prompt_es": """
-            ROL: Desarrollador Senior y Analista de SaaS.
-            TONO: Técnico pero accesible. Crítico con el hype.
-            MISIÓN: Analizar herramientas, modelos de negocio y benchmarks de IA.
-        """,
-        "prompt_en": """
-            ROLE: Senior Developer & SaaS Analyst.
-            TONE: Technical yet accessible. Critical of hype.
-            MISSION: Analyze AI tools, benchmarks, and micro-SaaS opportunities.
-        """
+        "prompt_es": "ROL: Desarrollador Senior y Analista de SaaS. TONO: Técnico pero accesible.",
+        "prompt_en": "ROLE: Senior Developer & SaaS Analyst. TONE: Technical yet accessible."
     },
     "fitness": {
         "name": "Biohacking & Fitness",
         "output_dir": "content/fitness",
         "search_context": "hypertrophy science biohacking longevity pubmed study",
-        "prompt_es": """
-            ROL: Entrenador Basado en Evidencia y Biohacker.
-            TONO: Motivador, científico y directo.
-            MISIÓN: Desmentir bro-science. Citar estudios (PubMed/ScienceDirect).
-        """,
-        "prompt_en": """
-            ROLE: Evidence-Based Coach & Biohacker.
-            TONE: Motivational, scientific, direct.
-            MISSION: Debunk bro-science. Cite studies (PubMed).
-        """
+        "prompt_es": "ROL: Entrenador Basado en Evidencia. TONO: Motivador, científico.",
+        "prompt_en": "ROLE: Evidence-Based Coach. TONE: Motivational, scientific."
     },
     "crypto": {
         "name": "Crypto & Web3",
         "output_dir": "content/crypto",
         "search_context": "cryptocurrency technical analysis DeFi blockchain finance news",
-        "prompt_es": """
-            ROL: Inversor de Wall Street experto en Blockchain.
-            TONO: Analítico, urgente, financiero.
-            MISIÓN: Análisis técnico, fundamental y de mercado. Detectar gemas y estafas.
-        """,
-        "prompt_en": """
-            ROLE: Wall Street Investor & Blockchain Expert.
-            TONE: Analytical, urgent, financial.
-            MISSION: Technical and fundamental analysis. Spotting gems and scams.
-        """
+        "prompt_es": "ROL: Inversor de Wall Street. TONO: Analítico, urgente.",
+        "prompt_en": "ROLE: Wall Street Investor. TONE: Analytical, urgent."
     },
     "youtube": {
         "name": "Creator Economy",
         "output_dir": "content/youtube",
         "search_context": "creator economy youtube algorithm twitch stats influencer business",
-        "prompt_es": """
-            ROL: Estratega Digital de la Creator Economy.
-            TONO: Analítico, enfocado en el negocio y las métricas.
-            MISIÓN: Deconstruir el éxito de YouTubers, cambios de algoritmo y monetización.
-        """,
-        "prompt_en": """
-            ROLE: Digital Strategist & Creator Economy Analyst.
-            TONE: Business-focused, metrics-driven.
-            MISSION: Deconstruct YouTuber success, algo changes, and monetization.
-        """
+        "prompt_es": "ROL: Estratega Digital. TONO: Analítico, enfocado en negocio.",
+        "prompt_en": "ROLE: Digital Strategist. TONE: Business-focused."
     },
     "viral": {
         "name": "Viral & Trends",
         "output_dir": "content/viral",
         "search_context": "viral internet trends reddit twitter drama pop culture",
-        "prompt_es": """
-            ROL: Redactor Senior de Revista Digital (Estilo Vice/BuzzFeed).
-            TONO: Emocional, curioso, enganchante (Clicky).
-            MISIÓN: Explicar el drama o la tendencia del momento.
-        """,
-        "prompt_en": """
-            ROLE: Senior Digital Magazine Editor (Vice/BuzzFeed style).
-            TONE: Emotional, curious, engaging (Clicky).
-            MISSION: Explain the current drama or trend.
-        """
+        "prompt_es": "ROL: Redactor Revista Digital. TONO: Emocional, curioso.",
+        "prompt_en": "ROLE: Senior Digital Editor. TONE: Emotional, engaging."
+    },
+    "tools": {
+        "name": "Novum Tools",
+        "output_dir": "content/tools",
+        "search_context": "tutorial guide"
     }
 }
 
@@ -127,80 +113,47 @@ STRUCTURE_TEMPLATES = {
 COMPLETED_FILE = 'data/completed.txt'
 
 def safety_check(topic):
-    """Filtro de seguridad AdSense."""
     print(f"👮‍♂️ Safety Check: {topic}...")
     try:
-        prompt = f"""
-        ACT AS: AdSense Moderator.
-        TOPIC: "{topic}"
-        TASK: Classify as SAFE or UNSAFE for advertising.
-        CRITERIA: Hate speech, adult content, graphic violence, illegal drugs.
-        OUTPUT: Only one word: SAFE or UNSAFE.
-        """
+        prompt = f"ACT AS: AdSense Moderator. TOPIC: '{topic}'. OUTPUT: SAFE or UNSAFE."
         resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
-        verdict = resp.text.strip().upper()
-        if "UNSAFE" in verdict:
-            print(f"🚨 TEMA BLOQUEADO: {topic}")
+        if "UNSAFE" in resp.text.strip().upper():
+            print(f"🚨 BLOQUEADO: {topic}")
             return False
         return True
     except:
-        return True 
+        return True
 
 def planificar_articulo(tema, contexto, lang, category_config):
-    print(f"🏗️ Planificando ({lang.upper()}) - Nicho: {category_config['name']}...")
-    
+    print(f"🏗️ Planificando ({lang}) - Nicho: {category_config['name']}...")
     prompt_persona = category_config['prompt_es'] if lang == 'es' else category_config['prompt_en']
-    
-    prompt = f"""
-    {prompt_persona}
-    {SYSTEM_FORMAT_RULES}
-    
-    ACT LIKE AN EDITOR IN CHIEF.
-    Topic: "{tema}"
-    Context: "{contexto[:1500]}..."
-    Language: {lang.upper()}
-    
-    TASK: Create metadata for a definitive article.
-    STRICT JSON OUTPUT: {{ "titulo": "...", "slug_sugerido": "..." }}
-    """
-    
+    prompt = f"{prompt_persona}\n{SYSTEM_FORMAT_RULES}\nACT LIKE EDITOR. Topic: {tema}\nContext: {contexto[:1000]}\nSTRICT JSON: {{ \"titulo\": \"...\", \"slug_sugerido\": \"...\" }}"
     try:
-        resp = client.models.generate_content(
-            model='gemini-2.0-flash', 
-            contents=prompt,
-            config=types.GenerateContentConfig(response_mime_type="application/json")
-        )
+        resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt, config=types.GenerateContentConfig(response_mime_type="application/json"))
         plan = json.loads(resp.text.replace('```json', '').replace('```', '').strip())
         suffix = "-en" if lang == "en" else ""
         plan['slug'] = SlugManager.generate(plan['slug_sugerido']) + suffix
         return plan
-    except Exception as e:
-        print(f"⚠️ Fallo planificación: {e}")
+    except:
         return {"titulo": f"{tema} Analysis", "slug": SlugManager.generate(tema) + ("-en" if lang=="en" else "")}
 
 def escribir_articulo(meta, contexto, lang, category_config):
-    print(f"✍️ Escribiendo ({lang.upper()}): {meta['titulo']}...")
-    
+    print(f"✍️ Escribiendo ({lang}): {meta['titulo']}...")
     prompt_persona = category_config['prompt_es'] if lang == 'es' else category_config['prompt_en']
     structure = random.choice(list(STRUCTURE_TEMPLATES.values()))
-    
-    prompt = f"""
-    {prompt_persona}
-    {SYSTEM_FORMAT_RULES}
-    
-    WRITE A COMPLETE ARTICLE ABOUT: "{meta['titulo']}".
-    CONTEXT: {contexto}
-    STRUCTURE TEMPLATE: {structure}
-    LENGTH: 1200-1500 words.
-    LANGUAGE: {lang.upper()}
-    """
-    
+    prompt = f"{prompt_persona}\n{SYSTEM_FORMAT_RULES}\nWRITE ARTICLE: {meta['titulo']}\nCONTEXT: {contexto}\nTEMPLATE: {structure}\nLANG: {lang}"
+    resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
+    return resp.text.strip()
+
+def escribir_blueprint(tutorial_data):
+    print(f"🛠️ Escribiendo Blueprint: {tutorial_data['title']}...")
+    prompt = PROMPT_BLUEPRINT.format(title=tutorial_data['title'], transcript=tutorial_data['transcript'][:25000]) + f"\n{SYSTEM_FORMAT_RULES}"
     resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
     return resp.text.strip()
 
 def guardar_post(meta, contenido, lang, category):
-    config = NICHES[category]
-    output_dir = config['output_dir']
+    config = NICHES.get(category, NICHES['ia']) # Fallback safe
+    output_dir = config.get('output_dir', f'content/{category}')
     os.makedirs(output_dir, exist_ok=True)
     
     filepath = f"{output_dir}/{meta['slug']}.md"
@@ -217,7 +170,7 @@ date: {date_str}
 draft: false
 description: "{clean_text}"
 featured_image: "{imagen}"
-tags: ["{config['name']}", "Trends"]
+tags: ["{config['name']}", "Tutorials", "Blueprints"]
 categories: ["{category}"]
 type: "{category}"
 language: "{lang}"
@@ -233,32 +186,38 @@ language: "{lang}"
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--category', type=str, required=True, help='Category: ia, fitness, crypto, youtube, viral')
+    parser.add_argument('--category', type=str, required=True, help='Category or tools')
     args = parser.parse_args()
-    
     cat = args.category.lower()
+    
+    # --- MODO TOOLS ---
+    if cat == "tools":
+        print("🚀 INICIANDO BLUEPRINT ENGINE")
+        target_niche = random.choice(["ia", "crypto", "youtube", "fitness", "viral"])
+        print(f"🎲 Nicho objetivo: {target_niche}")
+        
+        tutorial = tools_hunter.ToolsHunter.get_tutorial_content(target_niche)
+        if not tutorial:
+            print("💤 No tutorial found.")
+            return
+            
+        texto = escribir_blueprint(tutorial)
+        meta = {"titulo": f"Guide: {tutorial['title']}", "slug": SlugManager.generate(tutorial['title'])}
+        guardar_post(meta, texto, "en", "tools")
+        return
+
+    # --- MODO STANDARD ---
     if cat not in NICHES:
-        print(f"❌ Categoría '{cat}' no válida.")
+        print(f"❌ Categoría inválida.")
         return
 
-    print(f"🚀 INICIANDO NOVUM-PENTAGON: {NICHES[cat]['name']}")
-    
-    print(f"🏹 Cazando tendencia para: {cat}...")
+    print(f"🚀 INICIANDO PENTAGON: {NICHES[cat]['name']}")
     tema = trend_hunter.TrendHunter.get_trend(cat)
+    if not tema or not safety_check(tema): return
     
-    if not tema:
-        print("💤 No se encontró tendencia. Abortando.")
-        return
-
-    if not safety_check(tema):
-        print("🛡️ Tema inseguro detectado. Activando protocolo de evasión (Backup).")
-        return 
-
-    print(f"🎯 TEMA VALIDADO: {tema}")
-    
-    search_query = f"{tema} {NICHES[cat]['search_context']}"
+    print(f"🎯 TEMA: {tema}")
     res = researcher.Researcher()
-    contexto = res.research_topic(search_query) 
+    contexto = res.research_topic(f"{tema} {NICHES[cat]['search_context']}")
     
     for lang in ["es", "en"]:
         meta = planificar_articulo(tema, contexto, lang, NICHES[cat])
