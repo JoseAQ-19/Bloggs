@@ -10,60 +10,41 @@ theme = "ananke"
   description = "El futuro de la tecnología y la IA"
   custom_css = ["css/custom.css"]
 
-# --- MENÚ HAMBURGUESA: Las 5 Verticales ---
-[[menu.sections]]
+# --- NAVIGATION SYSTEM (PENTAGON ARCHITECTURE) ---
+
+[[menu.main]]
   identifier = "ia"
-  name = "🤖 Tech & IA"
+  name = "🤖 AI & SaaS"
   url = "/ia/"
-  pageRef = "/ia"
   weight = 10
 
-[[menu.sections]]
+[[menu.main]]
   identifier = "crypto"
   name = "🪙 Crypto"
   url = "/crypto/"
-  pageRef = "/crypto"
   weight = 20
 
-[[menu.sections]]
+[[menu.main]]
   identifier = "fitness"
-  name = "💪 Fitness"
+  name = "💪 Biohacking"
   url = "/fitness/"
-  pageRef = "/fitness"
   weight = 30
 
-[[menu.sections]]
+[[menu.main]]
+  identifier = "youtube"
+  name = "🔴 Creators"
+  url = "/youtube/"
+  weight = 40
+
+[[menu.main]]
   identifier = "viral"
   name = "🔥 Viral"
   url = "/viral/"
-  pageRef = "/viral"
-  weight = 40
-
-[[menu.sections]]
-  identifier = "youtube"
-  name = "📺 YouTube"
-  url = "/youtube/"
-  pageRef = "/youtube"
   weight = 50
 
-# --- MENÚ LEGAL: Visible siempre (AdSense Required) ---
-[[menu.legal]]
-  identifier = "about"
-  name = "Sobre Nosotros"
-  url = "/about/"
-  pageRef = "/about"
-  weight = 10
-
-[[menu.legal]]
-  identifier = "privacy"
-  name = "Privacidad"
-  url = "/privacy/"
-  pageRef = "/privacy"
-  weight = 20
-
-[[menu.legal]]
-  identifier = "contact"
-  name = "Contacto"
-  url = "/contact/"
-  pageRef = "/contact"
-  weight = 30
+# --- NEW: TOOLS SECTION ---
+[[menu.main]]
+  identifier = "tools"
+  name = "🛠️ Tools"
+  url = "/tools/"
+  weight = 60
