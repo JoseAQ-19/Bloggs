@@ -10,8 +10,9 @@ theme = "ananke"
   description = "El futuro de la tecnología y la IA"
   custom_css = ["css/custom.css"]
 
-# --- NAVIGATION SYSTEM (PENTAGON ARCHITECTURE) ---
+# --- NAVIGATION SYSTEM (RECONSTRUCTED) ---
 
+# --- SECCIONES PRINCIPALES ---
 [[menu.main]]
   identifier = "ia"
   name = "🤖 AI & SaaS"
@@ -42,9 +43,31 @@ theme = "ananke"
   url = "/viral/"
   weight = 50
 
-# --- NEW: TOOLS SECTION ---
 [[menu.main]]
   identifier = "tools"
   name = "🛠️ Tools"
   url = "/tools/"
   weight = 60
+
+# --- SECCIONES LEGALES (FOOTER/SIDEBAR) ---
+# Usamos el mismo menú 'main' para que aparezcan en el sidebar si la plantilla solo itera 'main'.
+# Si quisiéramos separarlos, usaríamos [[menu.legal]], pero la instrucción es "restaurar menú lateral".
+# Asumiremos que queremos todo accesible.
+
+[[menu.main]]
+  identifier = "about"
+  name = "Sobre Nosotros"
+  url = "/about/"
+  weight = 70
+
+[[menu.main]]
+  identifier = "privacy"
+  name = "Privacidad"
+  url = "/privacy/"
+  weight = 80
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contacto"
+  url = "/contact/"
+  weight = 90
