@@ -24,21 +24,28 @@
     --card-bg: rgba(20, 20, 20, 0.9);
     --border-color: #333;
 }
+
 .theme-youtube article.glass-card {
-    border-radius: 50px !important; /* Pill shape */
+    border-radius: 50px !important;
+    /* Pill shape */
     box-shadow: 5px 5px 0px #FF0000 !important;
 }
-.theme-youtube a:hover { text-shadow: 0 0 10px red; }
+
+.theme-youtube a:hover {
+    text-shadow: 0 0 10px red;
+}
 
 /* THEME: CRYPTO (Matrix Green) */
 .theme-crypto {
     --primary: #00FF41;
     --bg-color: #0B0C10;
     --text-color: #C5C6C7;
-    --font-heading: 'Courier New', monospace; /* Terminal vibe */
+    --font-heading: 'Courier New', monospace;
+    /* Terminal vibe */
     --card-bg: rgba(0, 20, 0, 0.8);
     --border-color: #00FF41;
 }
+
 .theme-crypto article.glass-card {
     border: 1px solid #00FF41 !important;
     box-shadow: 0 0 10px rgba(0, 255, 65, 0.2);
@@ -49,36 +56,51 @@
     --primary: #FF5F1F;
     --bg-color: #1a1a1a;
     --text-color: #f0f0f0;
-    --font-heading: 'Inter', sans-serif; /* Clean & Fast */
+    --font-heading: 'Inter', sans-serif;
+    /* Clean & Fast */
 }
+
 .theme-fitness article.glass-card {
-    transform: skew(-2deg); /* Aggressive look */
+    transform: skew(-2deg);
+    /* Aggressive look */
     border-left: 4px solid #FF5F1F !important;
 }
 
 /* THEME: VIRAL (Gen-Z Violet) */
 .theme-viral {
     --primary: #8A2BE2;
-    --bg-color: #ffffff; /* Brutalist often uses white/black contrast */
+    --bg-color: #ffffff;
+    /* Brutalist often uses white/black contrast */
     --text-color: #000000;
     --card-bg: #f0f0f0;
     --border-color: #000;
 }
+
 .theme-viral body {
-    background-color: #ffffff !important; /* Override global dark */
+    background-color: #ffffff !important;
+    /* Override global dark */
     color: black !important;
 }
+
 .theme-viral article.glass-card {
     background: #fff !important;
     border: 3px solid black !important;
     box-shadow: 8px 8px 0px black !important;
     border-radius: 0 !important;
 }
-.theme-viral h1 { color: black !important; }
-.theme-viral a { color: #8A2BE2 !important; font-weight: 900; }
+
+.theme-viral h1 {
+    color: black !important;
+}
+
+.theme-viral a {
+    color: #8A2BE2 !important;
+    font-weight: 900;
+}
 
 /* Global Reset & Colors */
-body, html {
+body,
+html {
     background-color: var(--bg-color) !important;
     color: var(--text-color) !important;
     font-family: var(--font-body) !important;
@@ -87,7 +109,12 @@ body, html {
 }
 
 /* Headings */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: var(--font-heading) !important;
     color: var(--text-color) !important;
     letter-spacing: -0.02em;
@@ -107,14 +134,18 @@ a:hover {
 }
 
 /* Navigation Overrides */
-.ananke-social-link, .nav-link, .link {
+.ananke-social-link,
+.nav-link,
+.link {
     margin-left: 1rem;
     color: var(--primary) !important;
 }
+
 .nav-a {
     font-family: var(--font-heading);
     color: var(--text-color) !important;
 }
+
 .nav-a:hover {
     color: var(--primary) !important;
 }
@@ -139,16 +170,21 @@ article.glass-card {
 article.glass-card:hover {
     transform: translateY(-5px) scale(1.01);
     border-color: var(--primary) !important;
-    box-shadow: 0 10px 40px rgba(0,0,0, 0.15), 
-                inset 0 0 20px rgba(255,255,255, 0.05);
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15),
+        inset 0 0 20px rgba(255, 255, 255, 0.05);
 }
 
 /* Override Tachyons Borders */
-.bb, .bt, .bl, .br, .ba {
+.bb,
+.bt,
+.bl,
+.br,
+.ba {
     border-color: var(--border-color) !important;
 }
 
-.bg-near-white, .bg-light-gray {
+.bg-near-white,
+.bg-light-gray {
     background-color: transparent !important;
 }
 
@@ -169,14 +205,20 @@ header.hero-modern::before {
     position: absolute;
     width: 200%;
     height: 200%;
-    background: radial-gradient(circle, var(--primary) 0%, transparent 50%); /* Use primary color */
+    background: radial-gradient(circle, var(--primary) 0%, transparent 50%);
+    /* Use primary color */
     opacity: 0.1;
     animation: rotate 20s linear infinite;
 }
 
 @keyframes rotate {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
 }
 
 .hero-title {
@@ -204,13 +246,16 @@ header.hero-modern::before {
 ::-webkit-scrollbar {
     width: 8px;
 }
+
 ::-webkit-scrollbar-track {
     background: var(--bg-color);
 }
+
 ::-webkit-scrollbar-thumb {
     background: #333;
     border-radius: 4px;
 }
+
 ::-webkit-scrollbar-thumb:hover {
     background: var(--primary);
 }
@@ -222,21 +267,21 @@ header.hero-modern::before {
 
 /* --- READING PROGRESS BAR --- */
 #reading-progress-container {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 4px;
-  background: transparent;
-  z-index: 9999;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: transparent;
+    z-index: 9999;
 }
 
 #reading-progress-bar {
-  height: 100%;
-  background: linear-gradient(90deg, var(--bg-color), var(--primary));
-  width: 0%;
-  box-shadow: 0 0 10px var(--primary);
-  transition: width 0.1s ease-out;
+    height: 100%;
+    background: linear-gradient(90deg, var(--bg-color), var(--primary));
+    width: 0%;
+    box-shadow: 0 0 10px var(--primary);
+    transition: width 0.1s ease-out;
 }
 
 /* --- TECH LOGO --- */
@@ -263,6 +308,7 @@ header.hero-modern::before {
     margin-top: 2rem;
     opacity: 0.7;
 }
+
 .social-proof-text span {
     color: var(--primary);
     font-weight: 600;
@@ -354,10 +400,12 @@ header.hero-modern::before {
 .hamburger-btn--active .hamburger-btn__line:nth-child(1) {
     transform: translateY(7px) rotate(45deg);
 }
+
 .hamburger-btn--active .hamburger-btn__line:nth-child(2) {
     opacity: 0;
     transform: scaleX(0);
 }
+
 .hamburger-btn--active .hamburger-btn__line:nth-child(3) {
     transform: translateY(-7px) rotate(-45deg);
 }
@@ -580,8 +628,38 @@ header.hero-modern::before {
     }
 }
 
-/* Remove old conflicting rules */
+/* ===================================================
+   CRITICAL Z-INDEX FIX: Hero was blocking sidebar clicks
+   The Ananke theme's .hero-modern has z-2 (z-index: 2)
+   which sits ABOVE the sidebar. We force everything higher.
+   =================================================== */
+
+/* Header bar must be above the hero */
 header {
-    display: block; 
+    display: block;
+    position: relative;
+    z-index: 100 !important;
 }
 
+/* Hero must NOT block anything */
+.hero-modern,
+.hero-modern-overlay,
+div[class*="z-2"] {
+    z-index: 1 !important;
+}
+
+/* Sidebar overlay: above EVERYTHING */
+.sidebar-overlay {
+    z-index: 10000 !important;
+}
+
+/* Sidebar: above the overlay */
+.sidebar {
+    z-index: 10001 !important;
+}
+
+/* Nav bar always clickable */
+.site-nav {
+    position: relative;
+    z-index: 100 !important;
+}
