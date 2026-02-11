@@ -123,14 +123,15 @@ h6 {
 /* Links */
 a {
     color: var(--primary) !important;
-    transition: all 0.3s ease;
+    transition: transform 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94), color 0.3s ease;
     text-decoration: none !important;
+    will-change: transform; /* GPU Optimization */
 }
 
 a:hover {
     color: var(--primary) !important;
     filter: brightness(1.2);
-    text-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+    /* No geomtry anims, just color/filter */
 }
 
 /* Navigation Overrides */
@@ -154,7 +155,7 @@ header {
     border-bottom: 1px solid var(--border-color);
 }
 
-/* Glassmorphism Cards */
+/* Glassmorphism Cards (Optimized) */
 article.glass-card {
     background: var(--card-bg) !important;
     backdrop-filter: blur(16px) !important;
@@ -163,15 +164,33 @@ article.glass-card {
     border-radius: 16px;
     padding: 2rem;
     margin-bottom: 3rem;
-    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); /* Only transform */
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    position: relative; /* Context for pseudo */
+    z-index: 1;
+    will-change: transform;
+}
+
+/* Neon Glow Optimization (Pseudo-element Opacity) */
+article.glass-card::after {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    border-radius: 16px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15), inset 0 0 20px rgba(255, 255, 255, 0.05);
+    opacity: 0;
+    z-index: -1;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+    border: 1px solid var(--primary); /* Pre-calculate border color */
 }
 
 article.glass-card:hover {
-    transform: translateY(-5px) scale(1.01);
-    border-color: var(--primary) !important;
-    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15),
-        inset 0 0 20px rgba(255, 255, 255, 0.05);
+    transform: translateY(-5px) scale(1.01); /* GPU Safe */
+}
+
+article.glass-card:hover::after {
+    opacity: 1; /* Cheap paint op */
 }
 
 /* Override Tachyons Borders */
@@ -206,19 +225,14 @@ header.hero-modern::before {
     width: 200%;
     height: 200%;
     background: radial-gradient(circle, var(--primary) 0%, transparent 50%);
-    /* Use primary color */
     opacity: 0.1;
     animation: rotate 20s linear infinite;
+    will-change: transform; /* GPU Optimization */
 }
 
 @keyframes rotate {
-    from {
-        transform: rotate(0deg);
-    }
-
-    to {
-        transform: rotate(360deg);
-    }
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
 }
 
 .hero-title {
@@ -274,6 +288,7 @@ header.hero-modern::before {
     height: 4px;
     background: transparent;
     z-index: 9999;
+    will-change: width; /* Optimize bar animation */
 }
 
 #reading-progress-bar {
@@ -281,7 +296,7 @@ header.hero-modern::before {
     background: linear-gradient(90deg, var(--bg-color), var(--primary));
     width: 0%;
     box-shadow: 0 0 10px var(--primary);
-    transition: width 0.1s ease-out;
+    transition: width 0.1s ease-out; /* Width is unavoidable here, but container is fixed */
 }
 
 /* --- TECH LOGO --- */
@@ -291,6 +306,7 @@ header.hero-modern::before {
     mix-blend-mode: screen;
     vertical-align: middle;
     transition: transform 0.3s ease;
+    will-change: transform;
 }
 
 .logo-tech:hover {
@@ -379,7 +395,7 @@ header.hero-modern::before {
     padding: 8px;
     z-index: 200;
     border-radius: 8px;
-    transition: background 0.3s;
+    transition: background 0.3s; /* Background color is cheap */
 }
 
 .hamburger-btn:hover {
@@ -392,8 +408,9 @@ header.hero-modern::before {
     height: 2px;
     background: var(--text-color);
     border-radius: 2px;
-    transition: all 0.35s cubic-bezier(0.77, 0, 0.175, 1);
+    transition: transform 0.35s cubic-bezier(0.77, 0, 0.175, 1), opacity 0.35s ease;
     transform-origin: center;
+    will-change: transform, opacity;
 }
 
 /* Hamburger → X animation */
@@ -403,7 +420,7 @@ header.hero-modern::before {
 
 .hamburger-btn--active .hamburger-btn__line:nth-child(2) {
     opacity: 0;
-    transform: scaleX(0);
+    transform: scaleX(0); /* Prefer scale over width */
 }
 
 .hamburger-btn--active .hamburger-btn__line:nth-child(3) {
@@ -430,7 +447,7 @@ header.hero-modern::before {
     color: var(--text-color) !important;
     opacity: 0.7;
     text-decoration: none !important;
-    transition: all 0.3s;
+    transition: opacity 0.3s, color 0.3s;
     letter-spacing: 0.5px;
 }
 
@@ -452,7 +469,8 @@ header.hero-modern::before {
     z-index: 998;
     opacity: 0;
     visibility: hidden;
-    transition: all 0.4s ease;
+    transition: opacity 0.4s ease, visibility 0.4s;
+    will-change: opacity;
 }
 
 .sidebar-overlay--visible {
@@ -475,6 +493,7 @@ header.hero-modern::before {
     flex-direction: column;
     border-right: 1px solid var(--border-color);
     box-shadow: 4px 0 30px rgba(0, 0, 0, 0.5);
+    will-change: transform;
 }
 
 .sidebar--open {
@@ -532,13 +551,13 @@ header.hero-modern::before {
     font-weight: 600;
     color: var(--text-color) !important;
     text-decoration: none !important;
-    transition: all 0.3s;
+    transition: background 0.3s, padding-left 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
     border-left: 3px solid transparent;
 }
 
 .sidebar__link:hover {
     background: rgba(255, 255, 255, 0.04);
-    padding-left: 2rem;
+    padding-left: 2rem; /* Careful, padding animates geometry but usually OK for menu items if isolated */
 }
 
 /* --- NEON COLORS PER SECTION --- */
@@ -630,14 +649,6 @@ header.hero-modern::before {
 
 /* ===================================================
    CRITICAL Z-INDEX FIX (v3)
-   
-   BUG: div[class*="z-2"] was matching the SIDEBAR'S OWN 
-   CONTAINER (which also has class z-2 from Ananke/Tachyons).
-   This made both hero AND sidebar container have z-index: 1,
-   and since hero comes AFTER in the DOM, it blocked clicks.
-   
-   FIX: Target only the hero content area, and force the
-   nav container to be above everything.
    =================================================== */
 
 /* Header must create a stacking context above hero */
