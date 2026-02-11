@@ -2,25 +2,27 @@ import os
 import requests
 import random
 import time
+import base64
 import urllib.parse
-from pathlib import Path
+from together import Together
 
 class NovumVisualEngine:
     """
-    Motor Gráfico Híbrido V1 para Hugo SSG.
-    Arquitectura: Local Storage + Cascada de APIs (Cloudflare -> Pollinations -> Lexica -> Fallback).
+    Motor Gráfico Híbrido V2 (Together AI + Pollinations + Lexica).
+    Arquitectura: Cascada de Fallos (Waterfall) con decodificación Base64 local.
     """
     
     STATIC_DIR = "static/images"
     DEFAULT_DIR = "static/images/defaults"
     
-    # ADN Visual de Novum (Estética por Vertical)
+    # ADN Visual (Estilos)
     AESTHETICS = {
         "ia": "cyberpunk style, neon blue and purple lighting, futuristic laboratory, detailed circuit boards, cinematic 8k, unreal engine 5 render, high contrast",
         "crypto": "matrix code rain style, golden bitcoin physical coin, stock market charts background, dark green theme, financial district night, ultra realistic, bloomberg terminal vibe",
         "fitness": "gym atmosphere, crossfit athlete silhouette, dramatic lighting, sweat details, orange and black theme, motivational poster style, sharp focus",
         "youtube": "youtube play button 3d render, red glowing neon, streaming studio setup, microphone and camera shallow depth of field, vibrant colors, 4k",
-        "viral": "pop art style, vibrant colors, shocked emoji 3d render, chaotic internet collage, trending topic visualization, glossy finish, high saturation"
+        "viral": "pop art style, vibrant colors, shocked emoji 3d render, chaotic internet collage, trending topic visualization, glossy finish, high saturation",
+        "tools": "isometric 3d technical diagram, blueprint style, neon blue lines, engineering drafting table, clean minimalist tech"
     }
 
     def __init__(self):
@@ -28,119 +30,107 @@ class NovumVisualEngine:
         os.makedirs(self.STATIC_DIR, exist_ok=True)
         os.makedirs(self.DEFAULT_DIR, exist_ok=True)
         
-        # Cloudflare Auth
-        self.cf_id = os.getenv("CF_ACCOUNT_ID")
-        self.cf_token = os.getenv("CF_API_TOKEN")
+        # Together Auth
+        self.together_key = os.getenv("TOGETHER_API_KEY")
+        self.together_client = Together(api_key=self.together_key) if self.together_key else None
 
     def generate_and_save(self, prompt, slug, category="ia"):
         """
-        Método Maestro: Genera, Descarga y Guarda la imagen.
-        Retorna: Ruta relativa para Hugo (ej: "/images/mi-slug.jpg")
+        Método Maestro: Genera imagen y guarda en disco.
+        Retorna: Ruta relativa ("/images/slug.jpg") o Fallback.
         """
         print(f"🎨 [VisualEngine] Iniciando generación para: {slug}")
         
-        # 1. Enriquecer Prompt
-        enhanced_prompt = self._apply_aesthetic_modifiers(prompt, category)
         filename = f"{slug}.jpg"
         filepath = os.path.join(self.STATIC_DIR, filename)
         
-        # Si ya existe (cache), devolver
-        if os.path.exists(filepath):
-            print(f"   ♻️ Imagen cacheada encontrada: {filename}")
+        # 1. Enriquecer Prompt
+        style = self.AESTHETICS.get(category, self.AESTHETICS["ia"])
+        enhanced_prompt = f"{prompt}, {style}, editorial photography, wide angle, --ar 16:9"
+
+        # 2. Cascada de Ejecución (Waterfall)
+        
+        # NIVEL 1: TOGETHER AI (FLUX.1-schnell)
+        if self.together_client:
+            if self._level_1_together(enhanced_prompt, filepath):
+                return f"/images/{filename}"
+        else:
+            print("   ℹ️ Together API Key no encontrada. Saltando Nivel 1.")
+
+        # NIVEL 2: POLLINATIONS (Flux Hack)
+        if self._level_2_pollinations(enhanced_prompt, filepath):
             return f"/images/{filename}"
 
-        # 2. Cascada de Ejecución
-        success = False
-        
-        # Nivel 0: Cloudflare Workers AI (Flux)
-        if self.cf_id and self.cf_token:
-            success = self._try_cloudflare(enhanced_prompt, filepath)
-            
-        # Nivel 1: Pollinations (Flux Hack)
-        if not success:
-            success = self._try_pollinations(enhanced_prompt, filepath)
-            
-        # Nivel 2: Lexica (Search)
-        if not success:
-            success = self._try_lexica(prompt, filepath) # Usamos prompt simple para búsqueda
-            
-        # Nivel 3: Fallback Local
-        if not success:
-            print("   ⚠️ Fallo total de APIs. Usando Fallback Local.")
-            return self._get_fallback_image(category)
-            
-        print(f"   ✅ Imagen guardada en: {filepath}")
-        return f"/images/{filename}"
+        # NIVEL 3: LEXICA (Search)
+        if self._level_3_lexica(prompt, filepath): # Prompt simple para búsqueda
+            return f"/images/{filename}"
 
-    def _apply_aesthetic_modifiers(self, prompt, category):
-        style = self.AESTHETICS.get(category, self.AESTHETICS["ia"])
-        return f"{prompt}, {style}, editorial photography, wide angle, --ar 16:9 --v 6.0"
+        # FALLBACK FINAL
+        print("   ⚠️ Fallo total de motores. Usando Imagen Default.")
+        return self._get_fallback_image(category)
 
     def _save_bytes(self, content, filepath):
         """Helper para escritura física."""
         try:
             with open(filepath, "wb") as f:
                 f.write(content)
+            print(f"   ✅ Imagen guardada: {os.path.basename(filepath)} ({len(content)/1024:.1f} KB)")
             return True
         except Exception as e:
             print(f"   ❌ Error escribiendo archivo: {e}")
             return False
 
-    def _try_cloudflare(self, prompt, filepath):
-        print("   ☁️ Intentando Nivel 0: Cloudflare AI...")
+    def _level_1_together(self, prompt, filepath):
+        print("   🚀 Intentando Nivel 1: Together AI (FLUX.1-schnell)...")
         try:
-            url = f"https://api.cloudflare.com/client/v4/accounts/{self.cf_id}/ai/run/@cf/black-forest-labs/flux-1-schnell"
-            headers = {"Authorization": f"Bearer {self.cf_token}"}
-            payload = {"prompt": prompt}
+            response = self.together_client.images.generate(
+                prompt=prompt,
+                model="black-forest-labs/FLUX.1-schnell",
+                width=1280, # Landscape
+                height=720,
+                steps=4,
+                n=1,
+                response_format="base64"
+            )
             
-            response = requests.post(url, headers=headers, json=payload, timeout=30)
+            # Extraer Base64 y decodificar
+            b64_data = response.data[0].b64_json
+            image_bytes = base64.b64decode(b64_data)
             
-            if response.status_code == 200:
-                import base64
-                # Cloudflare suele devolver JSON con base64
-                result = response.json()
-                if "result" in result and "image" in result["result"]:
-                    image_data = base64.b64decode(result["result"]["image"])
-                    return self._save_bytes(image_data, filepath)
-                # O devuelve bytes directos dependiendo del endpoint, asumimos JSON standard
-            print(f"   ⚠️ Cloudflare falló (Status: {response.status_code})")
-            return False
+            return self._save_bytes(image_bytes, filepath)
+            
         except Exception as e:
-            print(f"   ⚠️ Cloudflare Exception: {e}")
+            print(f"   ⚠️ Together AI falló: {e}")
             return False
 
-    def _try_pollinations(self, prompt, filepath):
-        print("   🌺 Intentando Nivel 1: Pollinations (Flux)...")
+    def _level_2_pollinations(self, prompt, filepath):
+        print("   🌺 Intentando Nivel 2: Pollinations (Flux)...")
         try:
-            # THROTTLING ANTI-BAN
-            time.sleep(3) 
-            
+            time.sleep(2) # Throttling ligero
             seed = random.randint(0, 999999)
             encoded = urllib.parse.quote(prompt)
-            # URL optimizada según investigación
             url = f"https://image.pollinations.ai/prompt/{encoded}?width=1280&height=720&model=flux&nologo=true&safe=true&seed={seed}"
             
-            response = requests.get(url, timeout=45) # Flux es lento
+            response = requests.get(url, timeout=45)
             
-            # FILTRO ANTI-RATE-LIMIT (Tamaño < 50KB = Fake Image)
             if response.status_code == 200:
-                content_size = len(response.content)
-                if content_size < 50000: # 50KB threshold
-                    print(f"   🚨 RATE LIMIT DETECTADO (Size: {content_size} bytes). Saltando motor.")
+                content = response.content
+                # Filtro Anti-Spam (Rate Limit images are small)
+                if len(content) > 100000: # > 100KB
+                    return self._save_bytes(content, filepath)
+                else:
+                    print(f"   🚩 Imagen corrupta/limitada detectada ({len(content)} bytes). Descartando.")
                     return False
-                
-                return self._save_bytes(response.content, filepath)
-                
+            
             print(f"   ⚠️ Pollinations falló (Status: {response.status_code})")
             return False
         except Exception as e:
             print(f"   ⚠️ Pollinations Exception: {e}")
             return False
 
-    def _try_lexica(self, simple_prompt, filepath):
-        print("   🔍 Intentando Nivel 2: Lexica (Search)...")
+    def _level_3_lexica(self, simple_prompt, filepath):
+        print("   🔍 Intentando Nivel 3: Lexica (Search)...")
         try:
-            # Buscamos imágenes ya existentes
             url = f"https://lexica.art/api/v1/search?q={urllib.parse.quote(simple_prompt)}"
             response = requests.get(url, timeout=15)
             
@@ -148,10 +138,8 @@ class NovumVisualEngine:
                 data = response.json()
                 images = data.get("images", [])
                 if images:
-                    # Coger la primera
-                    image_url = images[0]["src"]
-                    # Descargarla
-                    img_resp = requests.get(image_url, timeout=15)
+                    img_url = images[0]["src"]
+                    img_resp = requests.get(img_url, timeout=15)
                     if img_resp.status_code == 200:
                         return self._save_bytes(img_resp.content, filepath)
             
@@ -166,13 +154,13 @@ class NovumVisualEngine:
         filename = f"default-{category}.jpg"
         local_path = os.path.join(self.DEFAULT_DIR, filename)
         
-        # Si no existe la default física, usamos un placeholder remoto seguro para no romper
         if not os.path.exists(local_path):
+            # Remote placeholder last resort
             return f"https://placehold.co/1280x720/000000/FFFFFF/png?text={category.upper()}+News"
             
         return f"/images/defaults/{filename}"
 
-# Interfaz simplificada para uso en main.py
+# Interfaz pública
 def get_image(prompt, slug, category="ia"):
     engine = NovumVisualEngine()
     return engine.generate_and_save(prompt, slug, category)
