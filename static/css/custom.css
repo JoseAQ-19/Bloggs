@@ -629,22 +629,40 @@ header.hero-modern::before {
 }
 
 /* ===================================================
-   CRITICAL Z-INDEX FIX: Hero was blocking sidebar clicks
-   The Ananke theme's .hero-modern has z-2 (z-index: 2)
-   which sits ABOVE the sidebar. We force everything higher.
+   CRITICAL Z-INDEX FIX (v3)
+   
+   BUG: div[class*="z-2"] was matching the SIDEBAR'S OWN 
+   CONTAINER (which also has class z-2 from Ananke/Tachyons).
+   This made both hero AND sidebar container have z-index: 1,
+   and since hero comes AFTER in the DOM, it blocked clicks.
+   
+   FIX: Target only the hero content area, and force the
+   nav container to be above everything.
    =================================================== */
 
-/* Header bar must be above the hero */
+/* Header must create a stacking context above hero */
 header {
     display: block;
     position: relative;
-    z-index: 100 !important;
+    z-index: 50 !important;
 }
 
-/* Hero must NOT block anything */
+/* The nav container (first child of header) must be ABOVE the hero */
+header>div:first-child {
+    position: relative;
+    z-index: 10002 !important;
+}
+
+/* Hero content area: stay BELOW the nav */
 .hero-modern,
-.hero-modern-overlay,
-div[class*="z-2"] {
+.hero-modern-overlay {
+    z-index: 1 !important;
+}
+
+/* The tc-l content inside the hero */
+.tc-l.pv4,
+.tc-l.pv3 {
+    position: relative;
     z-index: 1 !important;
 }
 
@@ -653,7 +671,7 @@ div[class*="z-2"] {
     z-index: 10000 !important;
 }
 
-/* Sidebar: above the overlay */
+/* Sidebar panel: above the overlay */
 .sidebar {
     z-index: 10001 !important;
 }
@@ -661,5 +679,5 @@ div[class*="z-2"] {
 /* Nav bar always clickable */
 .site-nav {
     position: relative;
-    z-index: 100 !important;
+    z-index: 10002 !important;
 }
