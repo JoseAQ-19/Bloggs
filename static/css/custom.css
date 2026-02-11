@@ -609,44 +609,6 @@ header.hero-modern::before {
     opacity: 0.3;
 }
 
-/* --- RESPONSIVE --- */
-@media (max-width: 768px) {
-    .site-nav__inner {
-        padding: 0;
-    }
-
-    .site-nav__logo {
-        font-size: 1.1rem;
-    }
-
-    .site-nav__section-name {
-        display: none;
-    }
-
-    .legal-nav {
-        gap: 0.8rem;
-    }
-
-    .legal-nav__link {
-        font-size: 0.75rem;
-    }
-
-    .sidebar {
-        width: 85vw;
-        max-width: 320px;
-    }
-}
-
-@media (max-width: 480px) {
-    .legal-nav__link {
-        font-size: 0.7rem;
-    }
-
-    .legal-nav {
-        gap: 0.5rem;
-    }
-}
-
 /* ===================================================
    CRITICAL Z-INDEX FIX (v3)
    =================================================== */
@@ -691,4 +653,78 @@ header>div:first-child {
 .site-nav {
     position: relative;
     z-index: 10002 !important;
+}
+
+/* ===================================================
+   RESPONSIVE & MOBILE-FIRST OPTIMIZATION
+   =================================================== */
+
+/* 1. Fluid Grids (Article Lists) */
+/* Force 1 column on mobile for article containers */
+@media (max-width: 768px) {
+    .flex-ns.flex-wrap.justify-center.mt5.w-100.mw9.center {
+        display: block !important;
+        padding: 0 1rem;
+    }
+    
+    .relative.w-100.w-40-l.mb5.mh3 {
+        width: 100% !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        margin-bottom: 2rem !important;
+    }
+    
+    /* Adjust glass card padding on mobile */
+    article.glass-card {
+        padding: 1.5rem !important;
+    }
+}
+
+/* 2. Responsive Hero Typography */
+@media (max-width: 768px) {
+    .hero-title {
+        font-size: 3rem !important; /* Scale down from 5rem */
+        line-height: 1.1;
+    }
+    
+    .hero-subtitle {
+        font-size: 1.1rem !important;
+    }
+}
+
+/* 3. Scalable Images */
+/* Ensure images never overflow */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* 4. Touch Targets (Minimum 44px) */
+@media (max-width: 768px) {
+    .hamburger-btn {
+        padding: 12px; /* Increase hit area */
+    }
+    
+    .sidebar__link {
+        padding: 1.2rem 1.5rem; /* Larger touch area for menu links */
+        font-size: 1.2rem;
+    }
+    
+    .legal-nav__link {
+        padding: 10px; /* Make footer links tappable */
+    }
+    
+    /* Ensure nav bar fits on small screens */
+    .site-nav__inner {
+        padding: 0 0.5rem;
+    }
+}
+
+/* 5. Mobile Menu Behavior */
+/* Sidebar logic is already handled by transform: translateX(-100%) in base styles.
+   We just ensure the overlay works well on mobile. */
+@media (max-width: 768px) {
+    .sidebar {
+        width: 85vw; /* Almost full width but leaves context */
+    }
 }
