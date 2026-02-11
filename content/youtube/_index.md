@@ -1,7 +1,7 @@
 ---
-title: "Noticias de YouTube & Creators"
+title: "Creator Economy"
 description: "Estrategia digital, monetización y análisis de YouTube/Twitch."
 layout: "list"
 url: "/youtube/"
-draft: false
+type: "youtube"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Noticias de Crypto"
+title: "Crypto & Web3"
 description: "Análisis financiero, blockchain y tendencias del mercado cripto."
 layout: "list"
 url: "/crypto/"
-draft: false
+type: "crypto"
 ---
