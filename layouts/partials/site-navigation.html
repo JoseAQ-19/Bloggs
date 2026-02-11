@@ -58,8 +58,8 @@
     <button class="sidebar__close" id="sidebar-close" aria-label="Cerrar menú">✕</button>
   </div>
   <ul class="sidebar__menu">
-    {{ if .Site.Menus.sections }}
-      {{ range .Site.Menus.sections }}
+    {{ if .Site.Menus.main }}
+      {{ range .Site.Menus.main }}
       {{ $isActive := or (eq $.Section .Identifier) (eq $.Title .Name) }}
       <li class="sidebar__item {{ if $isActive }}sidebar__item--active{{ end }}">
         <a href="{{ .URL }}" class="sidebar__link sidebar__link--{{ .Identifier }}">
