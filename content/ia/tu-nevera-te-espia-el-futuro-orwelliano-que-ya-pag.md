@@ -2,6 +2,7 @@
 categories:
 - ia
 date: 2026-01-28 05:05:44
+description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
 featured_image: /images/tu-nevera-te-espia-el-futuro-orwelliano-que-ya-pag.jpg
 image: https://image.pollinations.ai/prompt/A%20chrome%2C%20futuristic%20refrigerator%20door%2C%20slightly%20ajar%2C%20reflects%20a%20distorted%2C%20wide-angle%20view%20of%20a%20cramped%2C%20dimly%20lit%20kitchen%20where%20a%20lone%2C%20anxious%20figure%20in%20pajamas%20frantically%20searches%20through%20overflowing%20bins%2C%20while%20a%20glowing%2C%20multi-faceted%20camera%20lens%20embedded%20in%20the%20refrigerators%20upper%20panel%20casts%20a%20cold%2C%20analytical%20light%20upon%20the%20scene%2C%20the%20high%20resolution%20capturing%20every%20discarded%20vegetable%20peel%20and%20crumpled%20grocery%20receipt%20with%20unnerving%20clarity%2C%20suggesting%20a%20pervasive%20and%20unsettling%20technological%20surveillance%20within%20the%20mundane%20domestic%20space.?model=flux&width=1280&height=720&seed=605159&nologo=true

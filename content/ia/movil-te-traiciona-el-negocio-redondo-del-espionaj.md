@@ -2,6 +2,7 @@
 categories:
 - ia
 date: 2026-02-09 08:10:37
+description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
 featured_image: /images/movil-te-traiciona-el-negocio-redondo-del-espionaj.jpg
 language: es

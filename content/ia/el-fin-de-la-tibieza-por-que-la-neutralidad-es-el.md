@@ -2,6 +2,7 @@
 categories:
 - ia
 date: 2026-01-29 08:07:07
+description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
 featured_image: /images/el-fin-de-la-tibieza-por-que-la-neutralidad-es-el.jpg
 language: es

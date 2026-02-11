@@ -2,6 +2,7 @@
 categories:
 - fitness
 date: 2026-01-30 16:07:07
+description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
 featured_image: /images/la-ia-te-saluda-pero-no-te-salvara-por-que-la-cort.jpg
 language: es

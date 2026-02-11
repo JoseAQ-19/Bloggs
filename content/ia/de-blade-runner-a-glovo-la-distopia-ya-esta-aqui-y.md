@@ -2,6 +2,7 @@
 categories:
 - ia
 date: 2026-01-28 05:52:43
+description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
 featured_image: /images/de-blade-runner-a-glovo-la-distopia-ya-esta-aqui-y.jpg
 image: https://image.pollinations.ai/prompt/En%20Ingl%C3%A9s%2C%20por%20favor.%0AA%20hyperrealistic%20and%20cinematically%20lit%20shot%20depicts%20a%20rain-slicked%2C%20neon-drenched%20alleyway%20echoing%20Blade%20Runners%20Los%20Angeles%2C%20where%20holographic%20geishas%20flicker%20above%20overflowing%20dumpsters%2C%20yet%20the%20focus%20is%20on%20a%20weary%20Glovo%20delivery%20driver%2C%20face%20obscured%20by%20a%20dripping%20visor%2C%20balancing%20a%20glowing%2C%20cube-shaped%20delivery%20box%20amidst%20a%20throng%20of%20robotic%20street%20vendors%20and%20genetically%20modified%20pigeons%20pecking%20at%20discarded%20ramen%20containers%2C%20all%20under%20the%20oppressive%20gaze%20of%20colossal%20corporate%20logos%20projected%20onto%20smog-choked%20skyscrapers%2C%20highlighting%20the%20mundane%20dystopia%20of%20on-demand%20services.?model=flux&width=1280&height=720&seed=244950&nologo=true

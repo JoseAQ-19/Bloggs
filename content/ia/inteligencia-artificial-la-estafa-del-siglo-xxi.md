@@ -2,6 +2,7 @@
 categories:
 - ia
 date: 2026-02-01 08:03:35
+description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
 featured_image: /images/inteligencia-artificial-la-estafa-del-siglo-xxi.jpg
 language: es

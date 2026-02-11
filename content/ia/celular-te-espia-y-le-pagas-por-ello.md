@@ -2,6 +2,7 @@
 categories:
 - ia
 date: 2026-02-03 08:07:32
+description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
 featured_image: /images/celular-te-espia-y-le-pagas-por-ello.jpg
 language: es

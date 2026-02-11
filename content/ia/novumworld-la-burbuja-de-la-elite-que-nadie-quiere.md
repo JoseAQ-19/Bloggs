@@ -2,6 +2,7 @@
 categories:
 - ia
 date: 2026-02-02 08:08:44
+description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
 featured_image: /images/novumworld-la-burbuja-de-la-elite-que-nadie-quiere.jpg
 language: es

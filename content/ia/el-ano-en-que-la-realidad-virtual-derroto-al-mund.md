@@ -2,6 +2,7 @@
 categories:
 - ia
 date: 2026-01-30 08:06:37
+description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
 featured_image: /images/el-ano-en-que-la-realidad-virtual-derroto-al-mund.jpg
 language: es

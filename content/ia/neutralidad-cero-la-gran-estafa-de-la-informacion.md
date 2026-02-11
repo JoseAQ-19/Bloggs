@@ -2,6 +2,7 @@
 categories:
 - ia
 date: 2026-02-03 00:07:20
+description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
 featured_image: /images/neutralidad-cero-la-gran-estafa-de-la-informacion.jpg
 language: es

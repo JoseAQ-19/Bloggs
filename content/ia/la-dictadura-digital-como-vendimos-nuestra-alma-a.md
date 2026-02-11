@@ -2,6 +2,7 @@
 categories:
 - ia
 date: 2026-02-06 16:10:32
+description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
 featured_image: /images/la-dictadura-digital-como-vendimos-nuestra-alma-a.jpg
 language: es

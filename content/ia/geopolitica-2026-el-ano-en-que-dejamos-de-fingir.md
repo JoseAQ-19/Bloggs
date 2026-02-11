@@ -2,6 +2,7 @@
 categories:
 - ia
 date: 2026-01-27 23:41:57
+description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
 featured_image: /images/geopolitica-2026-el-ano-en-que-dejamos-de-fingir.jpg
 image: https://image.pollinations.ai/prompt/A%20sprawling%20panoramic%20vista%20dominated%20by%20a%20bruised%2C%20twilight%20sky%20punctured%20by%20the%20fiery%20plumes%20of%20distant%20industrial%20fires%20and%20the%20cold%20glare%20of%20orbiting%20satellites%2C%20casting%20long%2C%20fractured%20shadows%20across%20a%20fractured%20landscape%20of%20crumbling%20concrete%20mega-cities%2C%20teeming%20refugee%20camps%20constructed%20from%20repurposed%20shipping%20containers%2C%20and%20heavily%20fortified%20national%20borders%20delineated%20by%20razor%20wire%20fences%20and%20autonomous%20weapon%20systems%2C%20punctuated%20by%20the%20glint%20of%20sniper%20scopes%20and%20the%20dust%20devils%20kicked%20up%20by%20armored%20convoys%2C%20all%20reflecting%20a%20palpable%20sense%20of%20weary%20resignation%20and%20simmering%20tension%20etched%20onto%20the%20faces%20of%20the%20diverse%2C%20yet%20uniformly%20exhausted%2C%20populace%20struggling%20to%20survive%20amidst%20the%20ruins%20of%20a%20globalized%20world%20where%20the%20threads%20of%20international%20cooperation%20have%20finally%20snapped%2C%20leaving%20only%20the%20stark%20reality%20of%20power%2C%20scarcity%2C%20and%20the%20desperate%20fight%20for%20resources.?model=flux&width=1280&height=720&seed=982984&nologo=true

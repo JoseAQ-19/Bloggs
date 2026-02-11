@@ -2,6 +2,7 @@
 categories:
 - ia
 date: 2026-02-06 00:04:32
+description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
 featured_image: /images/ecnocinicos-como-las-corporaciones-nos-venden-humo.jpg
 language: es

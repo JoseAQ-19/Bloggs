@@ -2,6 +2,7 @@
 categories:
 - ia
 date: 2026-02-05 08:09:05
+description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
 featured_image: /images/el-capitalismo-zombi-anatomia-de-un-sistema-fallid.jpg
 language: es

@@ -2,8 +2,9 @@
 categories:
 - ia
 date: 2026-02-07 00:06:53
+description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA+News
+featured_image: /images/ecnocracia-el-nuevo-feudalismo-digital.jpg
 language: es
 title: 'Ecnocracia: El Nuevo Feudalismo Digital'
 type: ia

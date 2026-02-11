@@ -2,6 +2,7 @@
 categories:
 - ia
 date: 2026-01-28 11:34:35
+description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
 featured_image: /images/el-mito-del-mesias-digital-como-silicon-valley-te.jpg
 language: es

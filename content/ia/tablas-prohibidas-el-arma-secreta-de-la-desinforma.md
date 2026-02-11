@@ -2,6 +2,7 @@
 categories:
 - ia
 date: 2026-01-29 00:05:44
+description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
 featured_image: /images/tablas-prohibidas-el-arma-secreta-de-la-desinforma.jpg
 language: es
