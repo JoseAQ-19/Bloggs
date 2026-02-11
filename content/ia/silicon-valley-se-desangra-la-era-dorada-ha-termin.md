@@ -3,6 +3,7 @@ categories:
 - ia
 date: 2026-01-27 21:49:58
 draft: false
+featured_image: /images/silicon-valley-se-desangra-la-era-dorada-ha-termin.jpg
 image: https://image.pollinations.ai/prompt/Okay%2C%20Im%20ready%2C%20heres%20that%20art%20direction%20for%20your%20photo-realistic%20image%3A%0A%0AA%20lone%20figure%2C%20clad%20in%20a%20subtly%20distressed%20designer%20hoodie%20and%20visibly%20exhausted%2C%20stands%20silhouetted%20against%20the%20dying%20embers%20of%20a%20colossal%2C%20holographic%20Apple%20logo%20fracturing%20and%20glitching%20across%20a%20polluted%2C%20hazy%20San%20Francisco%20skyline%2C%20littered%20with%20abandoned%20electric%20scooters%20and%20self-driving%20cars%20overgrown%20with%20digital%20vines%20depicting%20collapsing%20stock%20charts%20and%20satirical%20memes%20about%20failed%20unicorns%2C%20while%20the%20golden%20light%20of%20the%20setting%20sun%20casts%20long%2C%20melancholic%20shadows%20across%20the%20cracked%20pavement%20reflecting%20the%20anxious%2C%20sleep-deprived%20face%20of%20the%20subject%20whos%20illuminated%20by%20the%20cold%20glow%20of%20his%20perpetually%20ringing%20smartphone%2C%20suggesting%20a%20potent%20mix%20of%20hubris%2C%20denial%2C%20and%20the%20impending%20doom%20of%20a%20culture%20built%20on%20unsustainable%20innovation%20and%20fleeting%20fortunes.?model=flux&width=1280&height=720&seed=217125&nologo=true
 language: es
 title: 'Silicon Valley se Desangra: La Era Dorada ha Terminado (Y Nadie lo Admite)'

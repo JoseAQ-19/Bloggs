@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-02-03 00:07:20
 draft: false
-featured_image: https://image.pollinations.ai/prompt/A%20stark%2C%20cavernous%20newsroom%20rendered%20in%20hyperrealistic%20detail%2C%20bathed%20in%20the%20cold%2C%20sterile%20blue%20glow%20of%20countless%20monitors%20displaying%20manipulated%20news%20feeds%20and%20algorithmic%20distortions%2C%20with%20exhausted%20journalists%20slumped%20over%20their%20desks%2C%20their%20faces%20etched%20with%20disillusionment%20as%20a%20towering%2C%20spectral%20figure%20composed%20of%20binary%20code%20looms%20over%20them%2C%20subtly%20altering%20the%20information%20streams%2C%20while%20a%20single%2C%20defiant%20journalist%2C%20bathed%20in%20a%20warm%2C%20amber%20spotlight%2C%20frantically%20types%20on%20an%20antiquated%20typewriter%2C%20desperately%20attempting%20to%20broadcast%20a%20message%20of%20truth%20amidst%20the%20overwhelming%20tide%20of%20fabricated%20narratives.?model=flux&width=1280&height=720&seed=985395&nologo=true
+featured_image: /images/neutralidad-cero-la-gran-estafa-de-la-informacion.jpg
 language: es
 title: 'Neutralidad Cero: La Gran Estafa de la Información Objetiva'
 type: ia

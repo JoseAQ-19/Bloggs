@@ -3,7 +3,7 @@ categories:
 - crypto
 date: 2026-02-09 00:07:03
 draft: false
-featured_image: https://image.pollinations.ai/prompt/Una%20imponente%20representaci%C3%B3n%20de%20Bitcoin%2C%20simbolizada%20por%20un%20toro%20dorado%20y%20brillante%20con%20ojos%20electr%C3%B3nicos%20apagados%2C%20est%C3%A1%20atado%20a%20un%20antiguo%20bloque%20de%20sacrificio%20de%20piedra%20cubierto%20de%20grafitis%20con%20s%C3%ADmbolos%20de%20%24%20y%20algoritmos%2C%20todo%20ello%20ba%C3%B1ado%20por%20la%20ominosa%20luz%20roja%20sangre%20de%20una%20luna%20llena%20eclipsada%20que%20ilumina%20a%20los%20sombr%C3%ADos%20y%20ansiosos%20especuladores%20de%20Wall%20Street%20representados%20como%20cuervos%20con%20trajes%2C%20reunidos%20alrededor%20con%20portafolios%20vac%C3%ADos%20y%20sonrisas%20siniestras%2C%20mientras%20las%20hojas%20de%20c%C3%A1lculo%20financieras%20abstractas%20caen%20del%20cielo%20como%20ceniza%2C%20presagiando%20el%20inminente%20colapso%20de%20la%20burbuja%20de%20las%20criptomonedas%2C%20con%20un%20horizonte%20urbano%20dist%C3%B3pico%20y%20denso%20en%20la%20distancia.?model=flux&width=1280&height=720&seed=456768&nologo=true
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=CRYPTO+News
 language: es
 title: 'Bitcoin al matadero: Por qué las criptomonedas serán las primeras en caer'
 type: crypto

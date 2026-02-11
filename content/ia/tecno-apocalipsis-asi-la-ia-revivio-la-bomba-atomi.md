@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-01-31 00:05:44
 draft: false
-featured_image: https://image.pollinations.ai/prompt/Okay%2C%20Im%20ready.%20Give%20me%20the%20prompt%20in%20English.?model=flux&width=1280&height=720&seed=358802&nologo=true
+featured_image: /images/tecno-apocalipsis-asi-la-ia-revivio-la-bomba-atomi.jpg
 language: es
 title: Tecno-Apocalipsis! Así la IA Revivió la Bomba Atómica
 type: ia

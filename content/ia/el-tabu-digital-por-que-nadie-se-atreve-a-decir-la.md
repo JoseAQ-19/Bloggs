@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-02-07 08:03:02
 draft: false
-featured_image: https://image.pollinations.ai/prompt/Okay%2C%20heres%20that%20detailed%20visual%20description%2C%20in%20a%20single%20long%20sentence%2C%20aiming%20for%20photorealism%20and%20a%20cinematic%20feel%3A%0A%0AA%20lone%20figure%2C%20shrouded%20in%20the%20stark%2C%20cold%20light%20of%20a%20multi-monitor%20setup%20displaying%20cascading%20lines%20of%20code%20and%20fragmented%20news%20headlines%2C%20sits%20hunched%20in%20a%20darkened%2C%20minimalist%20apartment%2C%20their%20face%20obscured%20by%20deep%20shadows%20suggesting%20a%20profound%20inner%20turmoil%20and%20the%20weight%20of%20unspoken%20truths%2C%20while%20the%20room%20is%20subtly%20cluttered%20with%20discarded%20takeout%20containers%20and%20energy%20drink%20cans%2C%20hinting%20at%20sleepless%20nights%20and%20obsessive%20focus%2C%20all%20framed%20by%20a%20shallow%20depth%20of%20field%20emphasizing%20the%20figures%20isolation%20against%20the%20blurred%20backdrop%20of%20a%20cityscape%20glowing%20with%20an%20artificial%2C%20digital%20hum%2C%20the%20entire%20scene%20bathed%20in%20a%20blue-grey%20palette%20punctuated%20only%20by%20the%20sickly%20green%20glow%20of%20the%20screens%20and%20a%20single%2C%20defiant%20crimson%20streak%20emanating%20from%20an%20unseen%20source%2C%20possibly%20a%20warning%20light%20or%20a%20digital%20glitch.?model=flux&width=1280&height=720&seed=242859&nologo=true
+featured_image: /images/el-tabu-digital-por-que-nadie-se-atreve-a-decir-la.jpg
 language: es
 title: 'El Tabú Digital: Por Qué Nadie Se Atreve a Decir la Verdad'
 type: ia

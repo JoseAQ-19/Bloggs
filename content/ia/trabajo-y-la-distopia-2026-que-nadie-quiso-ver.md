@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-01-28 18:19:23
 draft: false
-featured_image: https://image.pollinations.ai/prompt/A%20sprawling%2C%20rain-slicked%20cityscape%20of%202026%20is%20dominated%20by%20monolithic%2C%20grey%20corporate%20towers%20that%20pierce%20a%20perpetually%20overcast%20sky%2C%20interconnected%20by%20a%20labyrinthine%20network%20of%20elevated%20walkways%20crammed%20with%20weary%2C%20identically%20dressed%20workers%20shuffling%20towards%20their%20destinations%2C%20their%20faces%20illuminated%20by%20the%20flickering%20neon%20signs%20of%20soul-crushing%20megacorp%20brands%20interspersed%20with%20holographic%20advertisements%20projecting%20impossible%20aspirations%2C%20all%20reflecting%20in%20the%20puddles%20that%20coat%20the%20grimy%2C%20decaying%20streets%20below%20where%20autonomous%20vehicles%20navigate%20through%20the%20dense%20crowds%20of%20disenfranchised%20citizens%2C%20their%20movements%20monitored%20by%20omnipresent%20drones%2C%20while%20a%20lone%20protester%2C%20holding%20a%20tattered%20sign%20of%20resistance%2C%20stands%20defiantly%20against%20the%20overwhelming%20tide%20of%20dystopian%20conformity.?model=flux&width=1280&height=720&seed=200342&nologo=true
+featured_image: /images/trabajo-y-la-distopia-2026-que-nadie-quiso-ver.jpg
 language: es
 title: 'Trabajo y: La Distopía 2026 que Nadie Quiso Ver'
 type: ia

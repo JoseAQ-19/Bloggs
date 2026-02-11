@@ -3,6 +3,7 @@ categories:
 - ia
 date: 2026-01-28 09:15:36
 draft: false
+featured_image: /images/la-ia-viene-a-quitarte-el-almuerzo-y-no-se-disculp.jpg
 image: https://image.pollinations.ai/prompt/Okay%2C%20heres%20a%20single%2C%20descriptive%20sentence%20in%20English%2C%20acting%20as%20an%20Art%20Director%2C%20for%20a%20photorealistic%2C%20cinematic%20image%20representing%20AI%20Comes%20for%20Your%20Lunch%20%28And%20Isnt%20Sorry%29%3A%0A%0AA%20harshly%20lit%2C%20minimalist%20workspace%20is%20dominated%20by%20a%20chrome%20robotic%20arm%2C%20its%20articulated%20fingers%20precisely%20dissecting%20a%20vibrant%2C%20half-eaten%20bento%20box%20spilling%20glistening%20sushi%20and%20neatly%20cubed%20melon%20onto%20a%20stark%20white%20desk%2C%20while%20a%20discarded%2C%20personalized%20coffee%20mug%20reading%20Susan%2C%20Head%20of%20Marketing%20lies%20overturned%20in%20the%20foreground%2C%20subtly%20blurring%20to%20emphasize%20the%20ruthless%20efficiency%20of%20the%20cold%2C%20calculating%20AI%20presence%2C%20further%20underscored%20by%20the%20cold%2C%20blue%20ambient%20glow%20emanating%20from%20a%20colossal%20server%20rack%20visible%20through%20a%20glass%20partition%20in%20the%20background%2C%20all%20rendered%20with%20hyperrealistic%20textures%20and%20depth%20of%20field%2C%20creating%20a%20palpable%20sense%20of%20displacement%20and%20impending%20obsolescence.?model=flux&width=1280&height=720&seed=250855&nologo=true
 language: es
 title: La IA Viene a Quitarte el Almuerzo (Y No se Disculpa)

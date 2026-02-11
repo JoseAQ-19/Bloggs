@@ -3,6 +3,7 @@ categories:
 - ia
 date: 2026-01-28 02:01:00
 draft: false
+featured_image: /images/el-capitalismo-zombi-como-la-codicia-corporativa-e.jpg
 image: https://image.pollinations.ai/prompt/A%20sprawling%2C%20decaying%20metropolis%20choked%20with%20smog%20under%20a%20perpetual%20twilight%20sky%2C%20where%20skeletal%20skyscrapers%20adorned%20with%20flickering%2C%20glitched-out%20corporate%20logos%20pierce%20the%20heavens%2C%20their%20surfaces%20oozing%20a%20sickly%20green%20slime%2C%20and%20hordes%20of%20pallid%2C%20hollow-eyed%20citizens%20in%20tattered%20business%20suits%20shamble%20through%20debris-strewn%20streets%2C%20clutching%20branded%20coffee%20cups%20and%20outdated%20smartphones%2C%20while%20monstrous%2C%20tentacled%20appendages%20resembling%20twisted%20corporate%20logos%20reach%20down%20from%20the%20decaying%20buildings%2C%20ensnaring%20the%20desperate%20masses%20in%20a%20web%20of%20debt%20and%20consumption%2C%20all%20bathed%20in%20the%20eerie%20glow%20of%20digital%20billboards%20advertising%20unattainable%20luxuries%20against%20a%20backdrop%20of%20collapsing%20infrastructure%20and%20overflowing%20landfills%2C%20reflecting%20a%20chilling%20portrait%20of%20unchecked%20greed%20and%20societal%20decay.?model=flux&width=1280&height=720&seed=972018&nologo=true
 language: es
 title: 'El Capitalismo Zombi: Cómo la Codicia Corporativa Está Devorando el Futuro'

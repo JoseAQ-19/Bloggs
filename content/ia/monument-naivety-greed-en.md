@@ -1,13 +1,17 @@
 ---
-title: "A Monument to Naivety and Greed"
-date: 2026-02-10T07:27:41
+categories:
+- ia
+date: 2026-02-10 07:27:41
+description: We got played. Big time. By thinking tech will save us and chasing imaginary
+  riches. The move fast and break things mantra broke us, not the system.
 draft: false
-description: "We got played. Big time. By thinking tech will save us and chasing imaginary riches. The move fast and break things mantra broke us, not the system."
-featured_image: "/images/uploads/a-monument-to-naivety-and-greed-how-we-all-got-played.jpg"
-tags: ["Technology", "Analysis"]
-categories: ["ia"]
-type: "ia"
-language: "en"
+featured_image: /images/monument-naivety-greed-en.jpg
+language: en
+tags:
+- Technology
+- Analysis
+title: A Monument to Naivety and Greed
+type: ia
 ---
 
 ![A Monument to Naivety and Greed: How We All Got Played](/images/uploads/a-monument-to-naivety-and-greed-how-we-all-got-played.jpg)

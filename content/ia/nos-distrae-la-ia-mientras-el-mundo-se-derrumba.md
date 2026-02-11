@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-02-01 00:05:39
 draft: false
-featured_image: https://image.pollinations.ai/prompt/A%20photorealistic%2C%20cinematic%20wide%20shot%20depicts%20a%20young%20woman%20with%20iridescent%2C%20futuristic%20makeup%2C%20bathed%20in%20the%20cool%20glow%20of%20a%20holographic%20AI%20interface%20showcasing%20rapidly%20updating%20stock%20charts%20and%20news%20headlines%20filled%20with%20AI%20advancements%2C%20while%20behind%20her%2C%20reflected%20in%20the%20glassy%20surface%20of%20the%20display%2C%20a%20chaotic%20cityscape%20burns%20with%20wildfires%2C%20floods%20tear%20through%20streets%2C%20and%20distant%20figures%20flee%20a%20collapsing%20bridge%2C%20all%20rendered%20with%20sharp%20detail%20and%20dramatic%20lighting%2C%20creating%20a%20stark%20contrast%20between%20the%20allure%20of%20technological%20progress%20and%20the%20grim%20realities%20of%20environmental%20devastation.?model=flux&width=1280&height=720&seed=551569&nologo=true
+featured_image: /images/nos-distrae-la-ia-mientras-el-mundo-se-derrumba.jpg
 language: es
 title: ¿Nos Distrae la IA Mientras el Mundo se Derrumba?
 type: ia

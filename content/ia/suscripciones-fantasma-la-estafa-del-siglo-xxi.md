@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-02-04 08:08:04
 draft: false
-featured_image: https://image.pollinations.ai/prompt/Okay%2C%20I%20will%20provide%20a%20highly%20detailed%20visual%20description%20in%20English%2C%20as%20a%20single%20long%20sentence%2C%20for%20a%20photorealistic%20and%20cinematic%20image%20about%20Ghost%20Subscriptions%3A%20The%2021st%20Century%20Scam%2C%20acting%20as%20an%20expert%20Art%20Director%3A%0A%0AA%20lone%20figure%2C%20shrouded%20in%20the%20digital%20glow%20of%20a%20laptop%20screen%20emitting%20an%20ethereal%2C%20almost%20sickly%20blue%20light%2C%20sits%20hunched%20in%20a%20dimly%20lit%2C%20modern%20apartment%20cluttered%20with%20takeout%20containers%20and%20discarded%20gadgets%2C%20the%20rooms%20oppressive%20atmosphere%20amplified%20by%20rain%20streaking%20down%20the%20panoramic%20window%20revealing%20a%20blurred%20cityscape%20of%20towering%20skyscrapers%2C%20while%20close-ups%20of%20cryptic%20lines%20of%20code%20flicker%20across%20the%20laptop%20screen%2C%20juxtaposed%20with%20a%20half-eaten%20bowl%20of%20instant%20noodles%20and%20a%20discarded%20bank%20statement%20highlighting%20recurring%2C%20unrecognizable%20charges%2C%20creating%20a%20palpable%20sense%20of%20isolation%2C%20financial%20anxiety%2C%20and%20the%20insidious%20creep%20of%20invisible%20digital%20theft%20lurking%20beneath%20the%20veneer%20of%20seamless%20online%20convenience.?model=flux&width=1280&height=720&seed=962098&nologo=true
+featured_image: /images/suscripciones-fantasma-la-estafa-del-siglo-xxi.jpg
 language: es
 title: 'Suscripciones Fantasma: La Estafa del Siglo XXI'
 type: ia

@@ -3,6 +3,7 @@ categories:
 - ia
 date: 2026-01-27 19:45:37
 draft: false
+featured_image: /images/mercados-desatan-el-caos-la-falsa-calma-post-elecc.jpg
 image: https://image.pollinations.ai/prompt/A%20cacophony%20of%20shattered%20glass%20and%20overturned%20stalls%20fills%20a%20sun-drenched%20marketplace%20square%2C%20once%20vibrant%20with%20colorful%20produce%20now%20strewn%20amongst%20panicked%20crowds%20fleeing%20from%20tear%20gas%20plumes%20and%20riot%20police%20in%20futuristic%20armor%2C%20all%20rendered%20in%20hyperrealistic%20detail%20with%20shallow%20depth%20of%20field%20focusing%20on%20a%20lone%20merchant%20desperately%20clutching%20a%20tattered%20election%20poster%20depicting%20a%20smiling%20politician%2C%20his%20image%20now%20ironically%20juxtaposed%20against%20the%20surrounding%20pandemonium%20and%20the%20stark%20contrast%20of%20vibrant%20market%20colors%20bleeding%20into%20the%20grim%20atmosphere%20of%20societal%20collapse.?model=flux&width=1280&height=720&seed=376416&nologo=true
 language: es
 title: 'Mercados Desatan el Caos: La Falsa Calma Post-Elecciones Explota'

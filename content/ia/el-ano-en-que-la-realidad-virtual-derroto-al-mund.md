@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-01-30 08:06:37
 draft: false
-featured_image: https://image.pollinations.ai/prompt/A%20sprawling%2C%20dystopian%20metropolis%20choked%20with%20neon%20VR%20advertisements%20flickering%20across%20rain-slicked%20skyscrapers%20reflects%20in%20the%20glazed-over%20eyes%20of%20a%20solitary%20figure%20slumped%20on%20a%20grimy%2C%20bioluminescent-graffitied%20bench%2C%20their%20face%20half-obscured%20by%20a%20discarded%20VR%20headset%2C%20while%20hovering%20drones%20buzz%20incessantly%20through%20the%20perpetually%20twilight%20sky%2C%20projecting%20augmented%20reality%20advertisements%20onto%20the%20dilapidated%20cityscape%20where%20the%20only%20signs%20of%20life%20are%20the%20ethereal%20avatars%20shimmering%20through%20cracked%20pavement%20portals%20and%20the%20vacant%20stares%20of%20those%20permanently%20plugged%20into%20an%20escapist%20digital%20paradise.?model=flux&width=1280&height=720&seed=72373&nologo=true
+featured_image: /images/el-ano-en-que-la-realidad-virtual-derroto-al-mund.jpg
 language: es
 title: ': El Año en que la Realidad Virtual Derrotó al Mundo Real'
 type: ia

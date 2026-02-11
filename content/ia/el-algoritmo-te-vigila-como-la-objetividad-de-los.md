@@ -3,6 +3,7 @@ categories:
 - ia
 date: 2026-01-28 04:51:37
 draft: false
+featured_image: /images/el-algoritmo-te-vigila-como-la-objetividad-de-los.jpg
 image: https://image.pollinations.ai/prompt/An%20immense%2C%20towering%20digital%20eye%2C%20constructed%20from%20cascading%20lines%20of%20binary%20code%20that%20subtly%20morph%20into%20facial%20recognition%20grids%2C%20dominates%20a%20dark%2C%20rain-slicked%20cityscape%20where%20neon%20signs%20flicker%20reflections%20off%20the%20wet%20asphalt%2C%20illuminating%20anonymous%20figures%20below%2C%20each%20subtly%20tagged%20with%20translucent%20data%20overlays%20revealing%20their%20online%20activity%20and%20social%20credit%20scores%2C%20all%20rendered%20with%20a%20hyper-realistic%20depth%20of%20field%20that%20blurs%20the%20background%20and%20focuses%20sharply%20on%20the%20eyes%20unnerving%20gaze%2C%20suggesting%20both%20omnipotence%20and%20the%20erosion%20of%20privacy%20in%20the%20modern%20age.?model=flux&width=1280&height=720&seed=33349&nologo=true
 language: es
 title: 'El Algoritmo te Vigila: Cómo la Objetividad de los Datos es la...'

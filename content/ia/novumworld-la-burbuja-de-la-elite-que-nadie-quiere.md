@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-02-02 08:08:44
 draft: false
-featured_image: https://image.pollinations.ai/prompt/Within%20a%20colossal%2C%20shimmering%20geodesic%20dome%20of%20near-invisible%20material%2C%20gleaming%20skyscrapers%20crafted%20from%20polished%20chrome%20and%20iridescent%20glass%20pierce%20cotton-candy%20clouds%2C%20reflecting%20an%20eternally%20setting%20sun%20that%20casts%20long%2C%20ethereal%20shadows%20across%20immaculate%2C%20emerald-green%20plazas%20where%20impossibly%20beautiful%20figures%20in%20flowing%2C%20gravity-defying%20attire%20glide%20amongst%20meticulously%20sculpted%20flora%2C%20while%20far%20below%2C%20beyond%20the%20domes%20shimmering%20edge%2C%20a%20sepia-toned%2C%20dilapidated%20cityscape%20choked%20by%20smog%20hints%20at%20the%20stark%20reality%20deliberately%20ignored%20within%20the%20gilded%20cage%20of%20NOVUMWORLD.?model=flux&width=1280&height=720&seed=436259&nologo=true
+featured_image: /images/novumworld-la-burbuja-de-la-elite-que-nadie-quiere.jpg
 language: es
 title: 'NOVUMWORLD: La burbuja de la élite que nadie quiere pinchar'
 type: ia

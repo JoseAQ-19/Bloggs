@@ -1,13 +1,19 @@
 ---
-title: "Alma College Kinesiology Program: Hypertrophy, Longevity, and Evidence-Based Biohacking"
-date: 2026-02-11T10:19:42
+categories:
+- fitness
+date: 2026-02-11 10:19:42
+description: ' Ditch the Bro-Science: How Alma College is Forging the Future of Kinesiology
+  with Hypertrophy, Longevity, and Evidence-Based Biohacking  My grandfather, a man
+  ...'
 draft: false
-description: " Ditch the Bro-Science: How Alma College is Forging the Future of Kinesiology with Hypertrophy, Longevity, and Evidence-Based Biohacking  My grandfather, a man ..."
-featured_image: "/images/uploads/alma-college-kinesiology-program-hypertrophy-longevity-and-evidence-based-biohacking.jpg"
-tags: ["Biohacking & Fitness", "Trends"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
+featured_image: /images/alma-college-kinesiology-hypertrophy-longevity-en.jpg
+language: en
+tags:
+- Biohacking & Fitness
+- Trends
+title: 'Alma College Kinesiology Program: Hypertrophy, Longevity, and Evidence-Based
+  Biohacking'
+type: fitness
 ---
 
 ![Alma College Kinesiology Program: Hypertrophy, Longevity, and Evidence-Based Biohacking](/images/uploads/alma-college-kinesiology-program-hypertrophy-longevity-and-evidence-based-biohacking.jpg)

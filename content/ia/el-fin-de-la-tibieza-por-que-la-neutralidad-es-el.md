@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-01-29 08:07:07
 draft: false
-featured_image: https://image.pollinations.ai/prompt/A%20sprawling%2C%20cracked%20earth%20landscape%20dominated%20by%20a%20monumental%2C%20decaying%20statue%20of%20a%20blindfolded%20figure%20holding%20scales%20eaten%20away%20by%20rust%2C%20under%20a%20sickly%20green%20sky%20streaked%20with%20ominous%2C%20fire-tinged%20clouds%2C%20where%20a%20lone%2C%20weary%20traveler%20clad%20in%20tattered%20but%20defiant%20clothing%20stands%20facing%20the%20camera%20amidst%20swirling%20dust%20devils%20and%20scattered%2C%20discarded%20emblems%20of%20various%20global%20organizations%2C%20the%20harsh%20sunlight%20glinting%20off%20a%20single%20tear%20tracing%20a%20path%20down%20their%20cheek%20as%20they%20clutch%20a%20wilting%20flower%20representing%20lost%20ideals%2C%20all%20rendered%20with%20hyper-realistic%20detail%20and%20dramatic%20lighting.?model=flux&width=1280&height=720&seed=984678&nologo=true
+featured_image: /images/el-fin-de-la-tibieza-por-que-la-neutralidad-es-el.jpg
 language: es
 title: 'El Fin de la Tibieza: Por Qué la Neutralidad es el Mayor...'
 type: ia

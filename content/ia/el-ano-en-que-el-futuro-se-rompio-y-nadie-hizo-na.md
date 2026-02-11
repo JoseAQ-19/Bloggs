@@ -3,6 +3,7 @@ categories:
 - ia
 date: 2026-01-28 05:20:43
 draft: false
+featured_image: /images/el-ano-en-que-el-futuro-se-rompio-y-nadie-hizo-na.jpg
 image: https://image.pollinations.ai/prompt/A%20sprawling%20cityscape%20choked%20by%20iridescent%20smog%20where%20chrome%20skyscrapers%20pierce%20a%20bruised%20lavender%20sky%2C%20their%20polished%20surfaces%20reflecting%20distorted%20holographic%20advertisements%20that%20flicker%20with%20glitches%20and%20static%2C%20below%2C%20rain-slicked%20streets%20overflow%20with%20discarded%20cybernetic%20limbs%20and%20deflated%20hovercars%20amidst%20oblivious%2C%20neon-drenched%20crowds%20who%20stare%20blankly%20at%20personal%20augmented%20reality%20feeds%20as%20crumbling%20art%20deco%20buildings%20provide%20a%20stark%20contrast%20to%20the%20advanced%20technology%2C%20all%20under%20the%20melancholic%20glow%20of%20a%20fractured%2C%20multi-moon%20system.?model=flux&width=1280&height=720&seed=950584&nologo=true
 language: es
 title: ': El Año en que el Futuro se Rompió (Y Nadie Hizo Nada)'

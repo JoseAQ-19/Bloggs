@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-02-08 00:09:19
 draft: false
-featured_image: https://image.pollinations.ai/prompt/A%20lone%2C%20disillusioned%20avatar%20with%20hauntingly%20realistic%20tear-streaked%20textures%20and%20hyper-detailed%2C%20vacant%20eyes%20stands%20amidst%20a%20sprawling%2C%20derelict%20digital%20landscape%20filled%20with%20glitched-out%20billboards%20advertising%20utopian%20virtual%20experiences%20now%20crumbling%20into%20low-resolution%20pixelated%20debris%2C%20overlooked%20by%20towering%2C%20hyper-polished%20virtual%20skyscrapers%20reflecting%20a%20distorted%20and%20overly-saturated%20neon%20cityscape%20in%20their%20shattered%20glass%20facades%2C%20all%20bathed%20in%20the%20cold%2C%20flickering%20light%20emanating%20from%20a%20single%2C%20malfunctioning%20server%20farm%20visible%20on%20the%20horizon%2C%20choked%20by%20virtual%20dust%20particles%20swirling%20in%20the%20desolate%20wind%2C%20conveying%20a%20stark%20contrast%20between%20the%20promised%20metaverse%20and%20its%20failed%2C%20isolating%20reality.?model=flux&width=1280&height=720&seed=820767&nologo=true
+featured_image: /images/metaverso-el-gran-bluf-tecnologico-del-siglo-xxi.jpg
 language: es
 title: 'Metaverso: El Gran Bluf Tecnológico del Siglo XXI'
 type: ia

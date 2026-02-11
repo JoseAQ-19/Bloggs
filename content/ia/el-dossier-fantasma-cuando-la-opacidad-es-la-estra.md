@@ -3,6 +3,7 @@ categories:
 - ia
 date: 2026-01-27 23:01:38
 draft: false
+featured_image: /images/el-dossier-fantasma-cuando-la-opacidad-es-la-estra.jpg
 image: https://image.pollinations.ai/prompt/A%20dimly%20lit%2C%20rain-streaked%20alleyway%20in%20a%20neo-noir%20city%20reflects%20the%20neon%20glow%20of%20a%20distant%20noodle%20bar%20off%20a%20slick%2C%20grimy%20pavement%20where%20a%20lone%20figure%2C%20cloaked%20in%20a%20dark%20trench%20coat%20and%20fedora%20that%20casts%20long%20shadows%20over%20their%20face%2C%20hunches%20protectively%20over%20a%20dripping%2C%20overflowing%20briefcase%2C%20its%20metallic%20clasps%20glinting%20ominously%20under%20the%20flickering%20gas%20lamp%20above%20as%20a%20thick%20fog%20swirls%20around%20their%20ankles%2C%20obscuring%20the%20edges%20of%20the%20scene%20and%20hinting%20at%20the%20treacherous%2C%20labyrinthine%20world%20hidden%20just%20beyond%20the%20visible.?model=flux&width=1280&height=720&seed=127083&nologo=true
 language: es
 title: 'El Dossier Fantasma: Cuando la Opacidad es la Estrategia'

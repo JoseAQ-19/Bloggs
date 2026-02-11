@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-01-31 08:02:33
 draft: false
-featured_image: https://image.pollinations.ai/prompt/A%20sprawling%2C%20hyper-realistic%20cityscape%20dominated%20by%20gleaming%20skyscrapers%20etched%20with%20digital%20ticker%20tapes%20displaying%20plunging%20market%20indices%20and%20rising%20debt%20figures%2C%20contrasted%20against%20the%20gritty%2C%20rain-slicked%20streets%20below%20where%20desperate%20crowds%20huddle%20around%20flickering%20news%20screens%20broadcasting%20financial%20collapse%2C%20under%20the%20ominous%20shadow%20of%20a%20colossal%2C%20subtly%20glitching%20holographic%20globe%20symbolizing%20global%20interconnectedness%20and%20looming%20catastrophe%2C%20all%20rendered%20with%20a%20somber%20color%20palette%20of%20steely%20grays%2C%20bruised%20purples%2C%20and%20flashes%20of%20urgent%20red.?model=flux&width=1280&height=720&seed=656016&nologo=true
+featured_image: /images/deuda-global-2026-el-subprime-que-nadie-vio-venir.jpg
 language: es
 title: 'Deuda Global 2026: El Subprime que Nadie Vio Venir'
 type: ia

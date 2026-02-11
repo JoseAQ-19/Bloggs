@@ -3,7 +3,7 @@ categories:
 - crypto
 date: 2026-02-07 16:03:36
 draft: false
-featured_image: https://image.pollinations.ai/prompt/A%20single%2C%20colossal%20Bitcoin%20coin%2C%20gleaming%20with%20a%20tarnished%2C%20once-brilliant%20gold%2C%20plummets%20vertically%20through%20a%20turbulent%2C%20storm-wracked%20sky%20choked%20with%20foreboding%20dark%20clouds%20and%20streaks%20of%20lightning%20illuminating%20a%20desolate%2C%20crumbling%20cityscape%20below%2C%20its%20architectural%20details%20reflecting%20the%20art%20deco%20exuberance%20of%20a%20bygone%20era%20now%20fractured%20and%20decaying%2C%20while%20smaller%2C%20fragmented%20digital%20assets%20and%20falling%20stock%20charts%20swirl%20around%20it%2C%20all%20rendered%20with%20breathtaking%20depth%20of%20field%20and%20dynamic%20lighting%20that%20accentuates%20the%20coins%20dramatic%20descent%20and%20the%20palpable%20sense%20of%20financial%20catastrophe.?model=flux&width=1280&height=720&seed=415800&nologo=true
+featured_image: /images/bitcoin-en-caida-libre-el-fin-de-la-era-dorada.jpg
 language: es
 title: 'Bitcoin en Caída Libre: ¿El Fin de la Era Dorada?'
 type: crypto

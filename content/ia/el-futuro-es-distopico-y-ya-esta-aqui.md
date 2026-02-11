@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-02-02 00:06:05
 draft: false
-featured_image: https://image.pollinations.ai/prompt/Dust-choked%20crimson%20sunlight%20bleeds%20through%20towering%2C%20corroded%20megastructures%20adorned%20with%20flickering%20holographic%20advertisements%20for%20synthetic%20sustenance%2C%20illuminating%20a%20grimy%2C%20rain-slicked%20alley%20where%20a%20lone%2C%20cybernetically%20augmented%20figure%20clad%20in%20patched-up%20fabrics%20scavenges%20for%20scraps%20amidst%20discarded%20android%20parts%20and%20the%20watchful%20gaze%20of%20hovering%20surveillance%20drones%2C%20all%20rendered%20with%20gritty%20detail%20and%20a%20hauntingly%20desaturated%20palette%20broken%20only%20by%20the%20electric%20hum%20of%20neon%20signs%20that%20promise%20a%20future%20which%20has%20already%20crumbled%20into%20disillusionment.?model=flux&width=1280&height=720&seed=313246&nologo=true
+featured_image: /images/el-futuro-es-distopico-y-ya-esta-aqui.jpg
 language: es
 title: El Futuro es Distópico y Ya Está Aquí
 type: ia

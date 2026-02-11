@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-01-28 11:34:35
 draft: false
-featured_image: https://image.pollinations.ai/prompt/Okay%2C%20here%20is%20that%20single-sentence%2C%20hyper-detailed%20visual%20description%3A%0A%0AA%20Christ-like%20figure%2C%20radiating%20a%20pale%2C%20ethereal%20glow%20from%20a%20laptop%20screen%20reflected%20onto%20his%20serene%20yet%20subtly%20weary%20face%2C%20sits%20cross-legged%20on%20a%20rooftop%20overlooking%20a%20hyper-modern%2C%20glass-and-steel%20Silicon%20Valley%20landscape%20shrouded%20in%20a%20hazy%2C%20dreamlike%20fog%20pierced%20by%20the%20sharp%2C%20geometric%20light%20trails%20of%20self-driving%20cars%2C%20his%20flowing%2C%20white%20robe%20slightly%20askew%20revealing%20the%20subtle%20glint%20of%20a%20microchip%20embedded%20in%20his%20forearm%2C%20his%20hands%20open%20in%20a%20gesture%20of%20offering%20but%20subtly%20clenched%2C%20a%20stark%20contrast%20to%20the%20adoring%2C%20digitally-projected%20faces%20of%20diverse%20individuals%20floating%20ethereally%20around%20him%2C%20their%20expressions%20ranging%20from%20blissful%20acceptance%20to%20vacant%20dependency%2C%20all%20rendered%20in%20a%20high-resolution%2C%20cinematic%20style%20with%20dramatic%20chiaroscuro%20highlighting%20the%20paradox%20of%20promised%20salvation%20versus%20technological%20enslavement%2C%20underscored%20by%20the%20subtle%2C%20almost%20imperceptible%20watermark%20of%20a%20data%20mining%20algorithm%20overlaying%20the%20entire%20scene%2C%20suggesting%20the%20insidious%20nature%20of%20the%20trade.?model=flux&width=1280&height=720&seed=791747&nologo=true
+featured_image: /images/el-mito-del-mesias-digital-como-silicon-valley-te.jpg
 language: es
 title: 'El Mito del Mesías Digital: Cómo Silicon Valley Te Roba Mientras Te Vende
   el Futuro'

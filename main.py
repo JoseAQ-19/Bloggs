@@ -17,18 +17,29 @@ from google.genai import types
 
 # Importar Módulos Propios
 import researcher
-import trend_hunter # NUEVO: Módulo Hunter
-from utils import SlugManager, ImageManager
+import trend_hunter 
+from utils import SlugManager 
+from novum_visual import get_image 
 
 # Configuración
 GEMINI_KEY = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
 try:
     client = genai.Client(api_key=GEMINI_KEY)
 except ValueError:
-    print("⚠️ ADVERTENCIA: No se encontró API KEY. El cliente de Gemini no funcionará a menos que se inyecte manualmente.")
+    print("⚠️ ADVERTENCIA: No se encontró API KEY.")
     client = None
 
-# --- CONFIGURACIÓN DE NICHOS (EL PENTÁGONO) ---
+# --- SYSTEM PROMPT GLOBAL (CLEAN FORMAT) ---
+# Se inyecta la personalidad específica después, pero estas reglas son base.
+SYSTEM_FORMAT_RULES = """
+CRITICAL FORMATTING RULES:
+1. NO TITLE REPETITION: Do NOT include the article title or H1 at the beginning. The website renders it automatically.
+2. START IMMEDIATELY: Start with the TL;DR or the Hook paragraph directly.
+3. HEADERS: Use H2 (##) for main sections. NEVER use H1 (#).
+4. NO AI FLUFF: Do not use "In conclusion", "It is important to note".
+"""
+
+# --- CONFIGURACIÓN DE NICHOS ---
 NICHES = {
     "ia": {
         "name": "IA & SaaS",
@@ -36,15 +47,13 @@ NICHES = {
         "search_context": "SaaS AI tools LLM benchmarks B2B technology news",
         "prompt_es": """
             ROL: Desarrollador Senior y Analista de SaaS.
-            TONO: Técnico pero accesible. Crítico con el hype, centrado en la utilidad real y el código.
+            TONO: Técnico pero accesible. Crítico con el hype.
             MISIÓN: Analizar herramientas, modelos de negocio y benchmarks de IA.
-            ESTILO: Usa jerga dev (API, deploy, latency) pero explícala.
         """,
         "prompt_en": """
             ROLE: Senior Developer & SaaS Analyst.
-            TONE: Technical yet accessible. Critical of hype, focused on real utility and business models.
+            TONE: Technical yet accessible. Critical of hype.
             MISSION: Analyze AI tools, benchmarks, and micro-SaaS opportunities.
-            STYLE: Use dev jargon (API, deploy, latency) appropriately.
         """
     },
     "fitness": {
@@ -55,13 +64,11 @@ NICHES = {
             ROL: Entrenador Basado en Evidencia y Biohacker.
             TONO: Motivador, científico y directo.
             MISIÓN: Desmentir bro-science. Citar estudios (PubMed/ScienceDirect).
-            ESTILO: Datos duros, protocolos claros, enfoque en longevidad y rendimiento.
         """,
         "prompt_en": """
             ROLE: Evidence-Based Coach & Biohacker.
             TONE: Motivational, scientific, direct.
             MISSION: Debunk bro-science. Cite studies (PubMed).
-            STYLE: Hard data, clear protocols, focus on longevity and performance.
         """
     },
     "crypto": {
@@ -72,13 +79,11 @@ NICHES = {
             ROL: Inversor de Wall Street experto en Blockchain.
             TONO: Analítico, urgente, financiero.
             MISIÓN: Análisis técnico, fundamental y de mercado. Detectar gemas y estafas.
-            ESTILO: Habla de liquidez, market cap, velas y ciclos de mercado.
         """,
         "prompt_en": """
             ROLE: Wall Street Investor & Blockchain Expert.
             TONE: Analytical, urgent, financial.
             MISSION: Technical and fundamental analysis. Spotting gems and scams.
-            STYLE: Discuss liquidity, market cap, candles, and market cycles.
         """
     },
     "youtube": {
@@ -89,13 +94,11 @@ NICHES = {
             ROL: Estratega Digital de la Creator Economy.
             TONO: Analítico, enfocado en el negocio y las métricas.
             MISIÓN: Deconstruir el éxito de YouTubers, cambios de algoritmo y monetización.
-            ESTILO: Habla de RPM, CTR, retención y viralidad.
         """,
         "prompt_en": """
             ROLE: Digital Strategist & Creator Economy Analyst.
             TONE: Business-focused, metrics-driven.
             MISSION: Deconstruct YouTuber success, algo changes, and monetization.
-            STYLE: Focus on RPM, CTR, retention, and virality.
         """
     },
     "viral": {
@@ -106,13 +109,11 @@ NICHES = {
             ROL: Redactor Senior de Revista Digital (Estilo Vice/BuzzFeed).
             TONO: Emocional, curioso, enganchante (Clicky).
             MISIÓN: Explicar el drama o la tendencia del momento.
-            ESTILO: Seguro para anunciantes (sin odio), pero con salseo.
         """,
         "prompt_en": """
             ROLE: Senior Digital Magazine Editor (Vice/BuzzFeed style).
             TONE: Emotional, curious, engaging (Clicky).
             MISSION: Explain the current drama or trend.
-            STYLE: Brand-safe (no hate), but spicy.
         """
     }
 }
@@ -143,7 +144,7 @@ def safety_check(topic):
             return False
         return True
     except:
-        return True # Fail open si error API (riesgo asumido)
+        return True 
 
 def planificar_articulo(tema, contexto, lang, category_config):
     print(f"🏗️ Planificando ({lang.upper()}) - Nicho: {category_config['name']}...")
@@ -152,10 +153,13 @@ def planificar_articulo(tema, contexto, lang, category_config):
     
     prompt = f"""
     {prompt_persona}
+    {SYSTEM_FORMAT_RULES}
+    
     ACT LIKE AN EDITOR IN CHIEF.
     Topic: "{tema}"
     Context: "{contexto[:1500]}..."
     Language: {lang.upper()}
+    
     TASK: Create metadata for a definitive article.
     STRICT JSON OUTPUT: {{ "titulo": "...", "slug_sugerido": "..." }}
     """
@@ -182,6 +186,8 @@ def escribir_articulo(meta, contexto, lang, category_config):
     
     prompt = f"""
     {prompt_persona}
+    {SYSTEM_FORMAT_RULES}
+    
     WRITE A COMPLETE ARTICLE ABOUT: "{meta['titulo']}".
     CONTEXT: {contexto}
     STRUCTURE TEMPLATE: {structure}
@@ -198,10 +204,7 @@ def guardar_post(meta, contenido, lang, category):
     os.makedirs(output_dir, exist_ok=True)
     
     filepath = f"{output_dir}/{meta['slug']}.md"
-    imagen = ImageManager.download_image(
-        f"https://image.pollinations.ai/prompt/{urllib.parse.quote(meta['titulo'])}?model=flux&width=1280&height=720&nologo=true", 
-        meta['titulo']
-    )
+    imagen = get_image(meta['titulo'], meta['slug'], category)
     
     now = datetime.now()
     backdate = random.randint(15, 30) if lang == 'es' else random.randint(2, 10)
@@ -240,7 +243,6 @@ def main():
 
     print(f"🚀 INICIANDO NOVUM-PENTAGON: {NICHES[cat]['name']}")
     
-    # --- PASO 1: TREND HUNTER + SAFETY CHECK ---
     print(f"🏹 Cazando tendencia para: {cat}...")
     tema = trend_hunter.TrendHunter.get_trend(cat)
     
@@ -248,22 +250,16 @@ def main():
         print("💤 No se encontró tendencia. Abortando.")
         return
 
-    # Safety Check
     if not safety_check(tema):
         print("🛡️ Tema inseguro detectado. Activando protocolo de evasión (Backup).")
-        # Aquí podríamos reintentar con backup, pero TrendHunter ya tiene backup.
-        # Asumimos que el backup es seguro (son temas evergreen).
-        # Si el unsafe vino de backup, abortamos.
         return 
 
     print(f"🎯 TEMA VALIDADO: {tema}")
     
-    # --- PASO 2: RESEARCHER ---
     search_query = f"{tema} {NICHES[cat]['search_context']}"
     res = researcher.Researcher()
     contexto = res.research_topic(search_query) 
     
-    # --- PASO 3: GENERACIÓN ---
     for lang in ["es", "en"]:
         meta = planificar_articulo(tema, contexto, lang, NICHES[cat])
         texto = escribir_articulo(meta, contexto, lang, NICHES[cat])

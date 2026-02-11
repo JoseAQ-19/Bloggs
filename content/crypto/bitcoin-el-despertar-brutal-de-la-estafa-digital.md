@@ -3,6 +3,7 @@ categories:
 - crypto
 date: 2026-01-27 20:24:58
 draft: false
+featured_image: /images/bitcoin-el-despertar-brutal-de-la-estafa-digital.jpg
 image: https://image.pollinations.ai/prompt/Una%20imponente%20falla%20tect%C3%B3nica%20digital%2C%20agrietando%20un%20paisaje%20urbano%20est%C3%A9ril%20ba%C3%B1ado%20en%20un%20resplandor%20crepuscular%20de%20ne%C3%B3n%20cian%20y%20carmes%C3%AD%2C%20revela%20una%20pir%C3%A1mide%20invertida%20hecha%20de%20placas%20de%20circuitos%20corro%C3%ADdas%20y%20monedas%20de%20Bitcoin%20oxidadas%20que%20se%20desmoronan%2C%20con%20la%20silueta%20demacrada%20de%20un%20broker%20con%20traje%20caro%20y%20ojos%20hundidos%20reflejada%20en%20los%20fragmentos%20rotos%20de%20una%20pantalla%20rota%20de%20computadora%20port%C3%A1til%2C%20rodeada%20por%20una%20bandada%20de%20drones%20con%20pantallas%20parpadeantes%20mostrando%20gr%C3%A1ficos%20de%20l%C3%ADneas%20en%20picada%2C%20todo%20ello%20cubierto%20por%20una%20fina%20capa%20de%20polvo%20gris%C3%A1ceo%20que%20evoca%20el%20des%C3%A1nimo%20postapocal%C3%ADptico%20y%20la%20sombr%C3%ADa%20desilusi%C3%B3n.?model=flux&width=1280&height=720&seed=10994&nologo=true
 language: es
 title: 'Bitcoin: El Despertar Brutal de la Estafa Digital'

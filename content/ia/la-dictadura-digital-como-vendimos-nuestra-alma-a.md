@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-02-06 16:10:32
 draft: false
-featured_image: https://image.pollinations.ai/prompt/A%20solitary%2C%20young%20woman%20with%20luminous%2C%20tear-streaked%20eyes%20reflecting%20a%20cascade%20of%20neon-drenched%20digital%20billboards%20displaying%20personalized%20advertisements%20that%20predict%20her%20deepest%20desires%2C%20stands%20amidst%20a%20sprawling%20cyberpunk%20metropolis%20choked%20by%20a%20miasma%20of%20electric%20blue%20haze%20and%20the%20ghostly%20silhouettes%20of%20countless%20anonymous%20figures%20absorbed%20in%20their%20devices%2C%20all%20while%20monolithic%20server%20farms%20loom%20ominously%20on%20the%20horizon%2C%20casting%20long%2C%20digital%20shadows%20that%20imprison%20the%20populace%20in%20an%20inescapable%20web%20of%20algorithmic%20control.?model=flux&width=1280&height=720&seed=571939&nologo=true
+featured_image: /images/la-dictadura-digital-como-vendimos-nuestra-alma-a.jpg
 language: es
 title: 'La Dictadura Digital: Cómo Vendimos Nuestra Alma a los Algoritmos'
 type: ia

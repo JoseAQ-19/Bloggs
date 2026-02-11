@@ -3,13 +3,11 @@ categories:
 - ia
 date: 2026-01-29 00:05:44
 draft: false
-featured_image: https://image.pollinations.ai/prompt/A%20single%2C%20dust-mote-filled%20beam%20of%20light%20slices%20through%20the%20oppressive%20gloom%20of%20a%20cavernous%2C%20abandoned%20print%20shop%2C%20illuminating%20stacks%20of%20decaying%20newsprint%20spilling%20from%20overturned%20shelves%2C%20the%20headlines%20obscured%20by%20grime%20and%20water%20damage%20except%20for%20a%20central%20table%20spotlighted%20ominously%2C%20where%20a%20pristine%20chess%20set%20rests%2C%20each%20piece%20a%20meticulously%20crafted%20miniature%20of%20a%20modern%20social%20media%20icon%2C%20poised%20mid-game%2C%20their%20digital%20glares%20reflecting%20in%20the%20polished%20wood%2C%20with%20a%20nearby%20laptop%20screen%20displaying%20lines%20of%20complex%20code%20subtly%20morphing%20into%20trending%20hashtags%20that%20twist%20and%20distort%20reality%2C%20all%20rendered%20with%20hyper-realistic%20detail%20that%20emphasizes%20the%20textures%20of%20decay%2C%20the%20precision%20of%20the%20digital%20elements%2C%20and%20the%20palpable%20tension%20of%20unseen%20manipulators%20pulling%20the%20strings.?model=flux&width=1280&height=720&seed=630186&nologo=true
+featured_image: /images/tablas-prohibidas-el-arma-secreta-de-la-desinforma.jpg
 language: es
 title: ¿Tablas Prohibidas? El Arma Secreta de la Desinformación
 type: ia
 ---
-
-¿Tablas Prohibidas? El Arma Secreta de la Desinformación
 
 La verdad está en los datos... o eso nos hacen creer.
 

@@ -3,6 +3,7 @@ categories:
 - ia
 date: 2026-01-28 04:00:35
 draft: false
+featured_image: /images/geopolitica-2026-el-ano-en-que-la-realidad-supero.jpg
 image: https://image.pollinations.ai/prompt/Dust-choked%20sunlight%20bleeds%20through%20fractured%20skyscrapers%20piercing%20a%20bruised%2C%20crimson%20sky%20over%20a%20neon-graffitied%20cityscape%2C%20reflecting%20in%20the%20stagnant%2C%20oil-slicked%20canals%20teeming%20with%20bioluminescent%20algae%2C%20as%20a%20lone%2C%20augmented%20scavenger%20clad%20in%20scavenged%20tech%20pauses%20amidst%20the%20debris%2C%20their%20weary%20eyes%20fixed%20on%20a%20colossal%2C%20holographic%20propaganda%20banner%20featuring%20a%20smiling%20AI%20overlord%20promising%20salvation%20while%20above%2C%20repurposed%20drones%20armed%20with%20energy%20weapons%20patrol%20the%20skies%2C%20casting%20long%2C%20ominous%20shadows%20upon%20the%20skeletal%20remains%20of%20vehicles%20bearing%20faded%20national%20flags%2C%20all%20under%20the%20ever-present%20gaze%20of%20orbital%20weapon%20platforms%20glinting%20malevolently%20in%20the%20dying%20light%2C%20creating%20a%20hyper-detailed%20tableau%20of%20technological%20advancement%20intertwined%20with%20societal%20decay%20and%20dystopian%20control.?model=flux&width=1280&height=720&seed=58930&nologo=true
 language: es
 title: 'Geopolítica 2026: El Año en que la Realidad Superó a la Distopía'

@@ -1,13 +1,18 @@
 ---
-title: "IA y el Futuro del Trabajo: Un Análisis Técnico Profundo"
-date: 2026-02-11T07:49:51
+categories:
+- ia
+date: 2026-02-11 07:49:51
+description: ' IA y el Futuro del Trabajo: Un Análisis Técnico Profundo (Sin Hype)  La
+  inteligencia artificial (IA) ha dejado de ser ciencia ficción para convertirse en
+  una r...'
 draft: false
-description: " IA y el Futuro del Trabajo: Un Análisis Técnico Profundo (Sin Hype)  La inteligencia artificial (IA) ha dejado de ser ciencia ficción para convertirse en una r..."
-featured_image: "/images/uploads/ia-y-el-futuro-del-trabajo-un-analisis-tecnico-profundo.jpg"
-tags: ["IA & SaaS", "Trends"]
-categories: ["ia"]
-type: "ia"
-language: "es"
+featured_image: /images/ia-futuro-trabajo-analisis-tecnico.jpg
+language: es
+tags:
+- IA & SaaS
+- Trends
+title: 'IA y el Futuro del Trabajo: Un Análisis Técnico Profundo'
+type: ia
 ---
 
 ![IA y el Futuro del Trabajo: Un Análisis Técnico Profundo](/images/uploads/ia-y-el-futuro-del-trabajo-un-analisis-tecnico-profundo.jpg)

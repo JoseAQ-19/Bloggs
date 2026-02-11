@@ -5,7 +5,7 @@ date: 2026-02-10 13:19:53
 description: ¡Entendido! Prepárense para un baño de realidad sobre el metaverso. Aquí
   va la radiografía de un cadáver tecnológico, sin edulcorantes ni promesas vacías.  TL;D...
 draft: false
-featured_image: /images/uploads/metaverso-zombie-vr-cripto-y-el-apocalipsis-tech-que-nadie-quiere-ver.jpg
+featured_image: /images/metaverso-zombie-vr-cripto-apocalipsis.jpg
 language: es
 tags:
 - Technology

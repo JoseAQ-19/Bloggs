@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-01-30 00:06:12
 draft: false
-featured_image: https://image.pollinations.ai/prompt/Okay%2C%20Im%20ready%2C%20heres%20your%20detailed%20visual%20description%3A%0A%0AA%20lone%20figure%2C%20cloaked%20in%20shadow%20and%20sharply%20lit%20by%20the%20cold%2C%20blue%20glow%20emanating%20from%20a%20shattered%20holographic%20screen%20displaying%20fragmented%20data%20streams%20of%20code%20and%20distorted%20corporate%20logos%2C%20stands%20in%20a%20rain-slicked%20alleyway%20choked%20with%20discarded%20tech%20and%20flickering%20neon%20signs%2C%20their%20face%20partially%20obscured%20by%20a%20high%20collar%20and%20deep%20hood%2C%20revealing%20only%20a%20glint%20of%20defiant%20determination%20in%20their%20eyes%20as%20they%20clutch%20a%20data%20chip%20in%20a%20gloved%20hand%2C%20suggesting%20a%20clandestine%20exchange%20of%20forbidden%20knowledge%20in%20a%20dystopian%20cityscape%20where%20information%20is%20fiercely%20controlled%20and%20dissent%20is%20met%20with%20brutal%20suppression.?model=flux&width=1280&height=720&seed=122443&nologo=true
+featured_image: /images/el-tabu-tecnologico-lo-que-no-quieren-que-sepas.jpg
 language: es
 title: 'El Tabú Tecnológico: Lo Que NO Quieren Que Sepas'
 type: ia

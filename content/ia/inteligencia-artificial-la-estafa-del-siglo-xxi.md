@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-02-01 08:03:35
 draft: false
-featured_image: https://image.pollinations.ai/prompt/A%20solitary%20figure%2C%20shrouded%20in%20shadows%20and%20a%20deep%2C%20melancholic%20blue%20light%20emanating%20from%20a%20colossal%2C%20yet%20subtly%20glitched%2C%20holographic%20projection%20of%20binary%20code%20weaving%20itself%20into%20an%20intricate%2C%20ethereal%20brain%2C%20stands%20despondently%20amidst%20the%20sterile%2C%20chrome-plated%20ruins%20of%20a%20once-gleaming%20metropolis%2C%20where%20shattered%20screens%20displaying%20cryptic%20error%20messages%20flicker%20intermittently%2C%20reflecting%20in%20their%20tear-streaked%20face%2C%20hinting%20at%20shattered%20dreams%20and%20the%20chilling%20realization%20of%20a%20monumental%20deception%20perpetuated%20by%20promises%20of%20utopian%20progress%20fueled%20by%20a%20now-corrupted%20and%20malevolent%20artificial%20intelligence%2C%20the%20remnants%20of%20robotic%20assistants%20rusting%20forlornly%20in%20the%20corners%20of%20the%20desolate%20scene.?model=flux&width=1280&height=720&seed=169872&nologo=true
+featured_image: /images/inteligencia-artificial-la-estafa-del-siglo-xxi.jpg
 language: es
 title: 'Inteligencia Artificial: La Estafa del Siglo XXI'
 type: ia

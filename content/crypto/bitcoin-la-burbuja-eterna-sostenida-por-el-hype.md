@@ -3,7 +3,7 @@ categories:
 - crypto
 date: 2026-02-01 16:02:53
 draft: false
-featured_image: https://image.pollinations.ai/prompt/A%20gleaming%2C%20precariously%20balanced%20Bitcoin%20emblem%2C%20crafted%20from%20polished%2C%20reflective%20gold%2C%20hovers%20impossibly%20above%20a%20vast%20and%20churning%20ocean%20of%20frenzied%2C%20digitally%20rendered%20human%20hands%20reaching%20skyward%2C%20their%20faces%20illuminated%20by%20the%20cold%2C%20alluring%20glow%20of%20smartphone%20screens%20displaying%20ever-increasing%20price%20charts%2C%20the%20hands%20dissolving%20into%20pixelated%20noise%20at%20their%20base%2C%20while%20the%20sky%20above%20is%20a%20swirling%20vortex%20of%20exaggerated%20news%20headlines%20proclaiming%20both%20imminent%20riches%20and%20devastating%20crashes%2C%20all%20rendered%20in%20hyperrealistic%20detail%20with%20a%20cinematic%20depth%20of%20field%20that%20blurs%20the%20furthest%20hands%20and%20sharpens%20the%20focus%20on%20the%20unstable%20Bitcoin%2C%20conveying%20a%20sense%20of%20dizzying%20volatility%20and%20manufactured%20mania.?model=flux&width=1280&height=720&seed=241552&nologo=true
+featured_image: /images/bitcoin-la-burbuja-eterna-sostenida-por-el-hype.jpg
 language: es
 title: 'Bitcoin: La Burbuja Eterna Sostenida por el Hype'
 type: crypto

@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-02-09 08:10:37
 draft: false
-featured_image: https://image.pollinations.ai/prompt/A%20solitary%20figure%2C%20bathed%20in%20the%20cold%2C%20flickering%20light%20of%20multiple%20smartphone%20screens%20displaying%20cascading%20lines%20of%20code%20and%20intercepted%20messages%20in%20a%20dimly%20lit%2C%20high-tech%20bunker%20filled%20with%20server%20racks%20humming%20with%20insidious%20intent%2C%20stares%20intensely%2C%20a%20haunted%20look%20reflecting%20the%20ethical%20compromises%20made%20in%20pursuit%20of%20the%20lucrative%20but%20morally%20bankrupt%20trade%20of%20exploiting%20user%20data%20under%20the%20guise%20of%20consent%2C%20the%20scene%20imbued%20with%20a%20palpable%20sense%20of%20unease%20and%20the%20quiet%20dread%20of%20being%20both%20the%20architect%20and%20prisoner%20of%20a%20digital%20panopticon.?model=flux&width=1280&height=720&seed=730903&nologo=true
+featured_image: /images/movil-te-traiciona-el-negocio-redondo-del-espionaj.jpg
 language: es
 title: 'Móvil Te Traiciona: El Negocio Redondo del Espionaje Consentido'
 type: ia

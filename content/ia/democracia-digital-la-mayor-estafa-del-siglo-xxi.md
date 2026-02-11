@@ -3,6 +3,7 @@ categories:
 - ia
 date: 2026-01-27 19:15:31
 draft: false
+featured_image: /images/democracia-digital-la-mayor-estafa-del-siglo-xxi.jpg
 image: https://image.pollinations.ai/prompt/Una%20colosal%20pantalla%20LED%2C%20desfigurada%20por%20fallas%20y%20glitches%20digitales%2C%20domina%20un%20paisaje%20urbano%20dist%C3%B3pico%20salpicado%20de%20vallas%20publicitarias%20hologr%C3%A1ficas%20que%20anuncian%20sonrientes%20figuras%20pol%C3%ADticas%20vac%C3%ADas%2C%20mientras%20un%20solo%20manifestante%20solitario%20se%20enfrenta%20a%20la%20pantalla%2C%20su%20rostro%20oscurecido%20por%20una%20capucha%2C%20sosteniendo%20un%20cartel%20desgastado%20con%20la%20frase%20Desconectar%20para%20Conectar%20escrita%20con%20spray%2C%20todo%20ello%20ba%C3%B1ado%20en%20un%20brillo%20cian%20fr%C3%ADo%20y%20antinatural%20acentuado%20por%20destellos%20ocasionales%20de%20colores%20ne%C3%B3n%20vibrantes%20que%20reflejan%20la%20promesa%20vac%C3%ADa%20de%20una%20revoluci%C3%B3n%20tecnol%C3%B3gica.?model=flux&width=1280&height=720&seed=769069&nologo=true
 language: es
 title: ¿Democracia Digital? La Mayor Estafa del Siglo XXI

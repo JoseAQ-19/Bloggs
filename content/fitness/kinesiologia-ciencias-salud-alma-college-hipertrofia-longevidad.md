@@ -1,13 +1,19 @@
 ---
-title: "Kinesiología y Ciencias de la Salud en Alma College: Hipertrofia, Ciencia y Longevidad"
-date: 2026-02-11T09:56:55
+categories:
+- fitness
+date: 2026-02-11 09:56:55
+description: ' Kinesiología y Ciencias de la Salud en Alma College: Hipertrofia, Ciencia
+  y Longevidad (Desmintiendo la Bro-Science)  ¿Estás harto de escuchar consejos de
+  gimn...'
 draft: false
-description: " Kinesiología y Ciencias de la Salud en Alma College: Hipertrofia, Ciencia y Longevidad (Desmintiendo la Bro-Science)  ¿Estás harto de escuchar consejos de gimn..."
-featured_image: "/images/uploads/kinesiologia-y-ciencias-de-la-salud-en-alma-college-hipertrofia-ciencia-y-longevidad.jpg"
-tags: ["Biohacking & Fitness", "Trends"]
-categories: ["fitness"]
-type: "fitness"
-language: "es"
+featured_image: /images/kinesiologia-ciencias-salud-alma-college-hipertrofia-longevidad.jpg
+language: es
+tags:
+- Biohacking & Fitness
+- Trends
+title: 'Kinesiología y Ciencias de la Salud en Alma College: Hipertrofia, Ciencia
+  y Longevidad'
+type: fitness
 ---
 
 ![Kinesiología y Ciencias de la Salud en Alma College: Hipertrofia, Ciencia y Longevidad](/images/uploads/kinesiologia-y-ciencias-de-la-salud-en-alma-college-hipertrofia-ciencia-y-longevidad.jpg)

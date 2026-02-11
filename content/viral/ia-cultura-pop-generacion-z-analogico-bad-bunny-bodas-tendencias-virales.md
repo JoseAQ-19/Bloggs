@@ -1,13 +1,19 @@
 ---
-title: "La IA Domina la Cultura Pop, la Generación Z Ama lo Analógico y Bad Bunny Oficia Bodas: Las Tendencias Virales que No Puedes Ignorar"
-date: 2026-02-11T11:51:59
+categories:
+- viral
+date: 2026-02-11 11:51:59
+description: ' La IA Domina la Cultura Pop, la Generación Z Ama lo Analógico y Bad
+  Bunny Oficia Bodas: Las Tendencias Virales que No Puedes Ignorar  TL;DR: El mundo
+  online es...'
 draft: false
-description: " La IA Domina la Cultura Pop, la Generación Z Ama lo Analógico y Bad Bunny Oficia Bodas: Las Tendencias Virales que No Puedes Ignorar  TL;DR: El mundo online es..."
-featured_image: "/images/uploads/la-ia-domina-la-cultura-pop-la-generacion-z-ama-lo-analogico-y-bad-bunny-oficia-bodas-las-tendencias-virales-que-no-puedes-ignorar.jpg"
-tags: ["Viral & Trends", "Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
+featured_image: /images/ia-cultura-pop-generacion-z-analogico-bad-bunny-bodas-tendencias-virales.jpg
+language: es
+tags:
+- Viral & Trends
+- Trends
+title: 'La IA Domina la Cultura Pop, la Generación Z Ama lo Analógico y Bad Bunny
+  Oficia Bodas: Las Tendencias Virales que No Puedes Ignorar'
+type: viral
 ---
 
 ![La IA Domina la Cultura Pop, la Generación Z Ama lo Analógico y Bad Bunny Oficia Bodas: Las Tendencias Virales que No Puedes Ignorar](/images/uploads/la-ia-domina-la-cultura-pop-la-generacion-z-ama-lo-analogico-y-bad-bunny-oficia-bodas-las-tendencias-virales-que-no-puedes-ignorar.jpg)

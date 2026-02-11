@@ -3,6 +3,7 @@ categories:
 - ia
 date: 2026-01-27 23:30:06
 draft: false
+featured_image: /images/la-cortina-de-humo-digital.jpg
 image: https://image.pollinations.ai/prompt/Aqu%C3%AD%20est%C3%A1%20la%20solicitud%20en%20ingl%C3%A9s%3A%0AAct%20as%20an%20expert%20Art%20Director.%20Write%20a%20very%20detailed%20visual%20description%2C%20IN%20ENGLISH%2C%20for%20a%20photorealistic%20and%20cinematic%20image%20about%3A%20%3A%20The%20Digital%20Smoke%20Screen.%20It%20should%20be%20a%20single%20long%20sentence.%20NO%20quotation%20marks%20or%20introductions.%0AOkay%2C%20here%20is%20the%20description%3A%0A%0AA%20lone%20figure%2C%20cloaked%20in%20shadows%20and%20illuminated%20only%20by%20the%20harsh%2C%20fractured%20glow%20of%20countless%20digital%20screens%20surrounding%20them%20in%20a%20vast%2C%20abandoned%20server%20farm%2C%20appears%20to%20be%20manipulating%20swirling%20vortexes%20of%20neon%20green%20and%20electric%20blue%20data%20streams%20that%20coalesce%20into%20a%20dense%2C%20opaque%20fog%20obscuring%20their%20features%20and%20reflecting%20in%20the%20sweat-slicked%20surfaces%20of%20the%20decaying%20machinery%2C%20while%20volumetric%20light%20shafts%20pierce%20the%20particulate%20smoke%2C%20creating%20an%20ethereal%2C%20hyperrealistic%20atmosphere%20that%20hints%20at%20both%20technological%20advancement%20and%20societal%20decay%2C%20rendered%20with%20shallow%20depth%20of%20field%20to%20focus%20on%20the%20figures%20intensely%20focused%20gaze.?model=flux&width=1280&height=720&seed=971011&nologo=true
 language: es
 title: ': La Cortina de Humo Digital'

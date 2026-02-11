@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-02-06 00:04:32
 draft: false
-featured_image: https://image.pollinations.ai/prompt/A%20single%20skyscraper%2C%20impossibly%20sleek%20and%20adorned%20with%20holographic%20advertisements%20promising%20personalized%20utopias%2C%20pierces%20a%20smog-choked%20sunset%2C%20its%20polished%20chrome%20reflecting%20the%20despairing%20faces%20of%20pedestrians%20below%2C%20their%20vintage%2C%20analogue%20technology%20clashing%20violently%20with%20the%20towers%20digital%20gleam%2C%20a%20discarded%20VR%20headset%20lying%20shattered%20amidst%20the%20litter%20of%20discarded%20fast%20food%20wrappers%2C%20symbolizing%20the%20broken%20promises%20of%20a%20future%20that%20never%20arrives%2C%20all%20rendered%20with%20a%20gritty%2C%20hyperrealistic%20focus%2C%20emphasizing%20the%20stark%20contrast%20between%20manufactured%20aspiration%20and%20lived%20reality.?model=flux&width=1280&height=720&seed=523974&nologo=true
+featured_image: /images/ecnocinicos-como-las-corporaciones-nos-venden-humo.jpg
 language: es
 title: 'Ecnocínicos: Cómo las Corporaciones Nos Venden Humo Futurista'
 type: ia

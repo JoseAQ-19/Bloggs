@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-02-05 00:07:07
 draft: false
-featured_image: https://image.pollinations.ai/prompt/A%20lone%2C%20flickering%20neon%20sign%20spelling%20METAVERSE%20in%20a%20distorted%2C%20pixelated%20font%20hangs%20precariously%20above%20a%20deserted%2C%20rain-slicked%20alleyway%20where%20discarded%20VR%20headsets%20lie%20scattered%20amongst%20overflowing%20trash%20bins%20and%20rusted%2C%20deactivated%20robot%20dogs%2C%20the%20only%20light%20source%20being%20the%20sickly%20green%20glow%20emanating%20from%20a%20broken%20storefront%20window%20displaying%20a%20faded%20advertisement%20for%20digital%20real%20estate%2C%20all%20rendered%20with%20gritty%20realism%20and%20a%20desaturated%20color%20palette%20dominated%20by%20grays%20and%20blues%2C%20punctuated%20by%20the%20occasional%20garish%20flicker%20of%20dying%20technology.?model=flux&width=1280&height=720&seed=70232&nologo=true
+featured_image: /images/el-metaverso-esta-muerto-y-nadie-se-atreve-a-decir.jpg
 language: es
 title: El Metaverso Está Muerto (Y Nadie Se Atreve a Decirlo)
 type: ia

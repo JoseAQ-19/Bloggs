@@ -6,7 +6,7 @@ description: ' Metaverse: The 21st Century Pyramid Scheme  TL;DR (Key Takeaways)
   Metaverse, as envisioned by Meta (formerly Facebook), is failing. Hard.    Billions
   ...'
 draft: false
-featured_image: /images/uploads/metaverse-the-21st-century-pyramid-scheme.jpg
+featured_image: /images/metaverse-pyramid-scheme-en.jpg
 language: en
 tags:
 - Technology

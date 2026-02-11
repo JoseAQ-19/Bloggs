@@ -1,13 +1,18 @@
 ---
-title: "Decoding the Viral Vortex: AI, Analog, and Unexpected Nuptials"
-date: 2026-02-11T12:06:15
+categories:
+- viral
+date: 2026-02-11 12:06:15
+description: ' Decoding the Viral Vortex: AI, Analog, and Unexpected Nuptials  Okay,
+  fam, let''s be real. Remember back when the internet felt… simpler? Like, AIM chat
+  rooms a...'
 draft: false
-description: " Decoding the Viral Vortex: AI, Analog, and Unexpected Nuptials  Okay, fam, let's be real. Remember back when the internet felt… simpler? Like, AIM chat rooms a..."
-featured_image: ""
-tags: ["Viral & Trends", "Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
+featured_image: /images/decoding-viral-vortex-ai-analog-unexpected-nuptials-en.jpg
+language: en
+tags:
+- Viral & Trends
+- Trends
+title: 'Decoding the Viral Vortex: AI, Analog, and Unexpected Nuptials'
+type: viral
 ---
 
 ![Decoding the Viral Vortex: AI, Analog, and Unexpected Nuptials]()

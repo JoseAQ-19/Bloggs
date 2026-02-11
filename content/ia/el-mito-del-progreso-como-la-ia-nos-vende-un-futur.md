@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-01-29 16:09:14
 draft: false
-featured_image: https://image.pollinations.ai/prompt/Aqu%C3%AD%20est%C3%A1%20la%20descripci%C3%B3n%20visual%3A%0A%0AA%20towering%2C%20chrome%20skyscraper%20pierces%20a%20perpetually%20overcast%20sky%20choked%20with%20neon%20advertisements%20for%20AI-driven%20products%2C%20reflecting%20a%20distorted%2C%20fragmented%20cityscape%20below%20where%20sleek%2C%20autonomous%20vehicles%20navigate%20crumbling%20infrastructure%20and%20huddled%20masses%20gaze%20forlornly%20at%20holographic%20projections%20of%20pristine%20natural%20landscapes%2C%20their%20faces%20illuminated%20by%20the%20cold%20glow%20of%20their%20implanted%20neural%20interfaces%2C%20all%20bathed%20in%20the%20sickly%2C%20artificial%20light%20of%20an%20eternal%20twilight%2C%20emphasizing%20the%20stark%20contrast%20between%20utopian%20promise%20and%20dystopian%20reality.?model=flux&width=1280&height=720&seed=701043&nologo=true
+featured_image: /images/el-mito-del-progreso-como-la-ia-nos-vende-un-futur.jpg
 language: es
 title: 'El Mito del Progreso: Cómo la IA Nos Vende un Futuro que No Existe'
 type: ia

@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-02-07 00:06:53
 draft: false
-featured_image: https://image.pollinations.ai/prompt/A%20towering%2C%20obsidian%20server%20farm%20pierces%20a%20perpetually%20overcast%20sky%20choked%20with%20drone%20traffic%20and%20shimmering%20holographic%20advertisements%20for%20algorithmic%20governance%2C%20its%20monolithic%20structure%20casting%20a%20long%2C%20dystopian%20shadow%20across%20a%20parched%2C%20eroded%20landscape%20where%20data%20miners%20toil%20amidst%20skeletal%20remains%20of%20obsolete%20machinery%2C%20their%20faces%20illuminated%20by%20the%20faint%20glow%20of%20their%20augmented%20reality%20visors%2C%20while%20sleek%2C%20autonomous%20vehicles%20transport%20data%20packets%20towards%20the%20gleaming%2C%20neo-feudal%20citadels%20of%20the%20tech%20elite%2C%20who%20observe%20the%20scene%20from%20their%20ivory%20towers%2C%20disconnected%20and%20indifferent%20to%20the%20decay%20below.?model=flux&width=1280&height=720&seed=388329&nologo=true
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA+News
 language: es
 title: 'Ecnocracia: El Nuevo Feudalismo Digital'
 type: ia

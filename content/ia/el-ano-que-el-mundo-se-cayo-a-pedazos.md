@@ -3,6 +3,7 @@ categories:
 - ia
 date: 2026-01-27 22:52:43
 draft: false
+featured_image: /images/el-ano-que-el-mundo-se-cayo-a-pedazos.jpg
 image: https://image.pollinations.ai/prompt/A%20single%2C%20unbroken%20wide%20shot%20reveals%20a%20desolate%20cityscape%20choked%20with%20dust-choked%20skeletons%20of%20skyscrapers%20clawing%20at%20a%20bruised%2C%20perpetually%20twilight%20sky%2C%20where%20twisted%20metal%20and%20shredded%20banners%20bearing%20faded%20national%20emblems%20dangle%20precariously%2C%20illuminated%20by%20the%20eerie%20glow%20of%20smoldering%20fires%20that%20lick%20at%20the%20ruins%2C%20while%20a%20lone%20figure%2C%20cloaked%20in%20rags%20and%20pushing%20a%20rusted%20shopping%20cart%20overflowing%20with%20salvaged%20scraps%2C%20trudges%20slowly%20through%20the%20debris-strewn%20streets%2C%20their%20face%20obscured%20by%20shadows%2C%20embodying%20the%20grim%20resilience%20of%20humanity%20amidst%20the%20cataclysmic%20aftermath%2C%20accented%20by%20photorealistic%20textures%20and%20hauntingly%20desaturated%20colors.?model=flux&width=1280&height=720&seed=673976&nologo=true
 language: es
 title: ': El Año que el Mundo se Cayó a Pedazos'

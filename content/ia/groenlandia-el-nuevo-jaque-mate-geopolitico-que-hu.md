@@ -3,6 +3,7 @@ categories:
 - ia
 date: 2026-01-27 18:58:17
 draft: false
+featured_image: /images/groenlandia-el-nuevo-jaque-mate-geopolitico-que-hu.jpg
 image: https://image.pollinations.ai/prompt/A%20colossal%2C%20glacial%20iceberg%2C%20riddled%20with%20network%20cables%20and%20server%20farms%20powered%20by%20geothermal%20vents%2C%20dominates%20a%20frigid%2C%20turquoise%20sea%20under%20the%20auroral%20borealis%2C%20reflecting%20the%20flickering%20LED%20lights%20of%20the%20data%20centers%20within%2C%20while%20in%20the%20foreground%20a%20team%20of%20weary%2C%20parka-clad%20engineers%20struggles%20to%20maintain%20the%20icy%20infrastructure%2C%20overshadowed%20by%20the%20imposing%20silhouette%20of%20a%20futuristic%20research%20vessel%20flying%20the%20Greenlandic%20flag%2C%20all%20observed%20from%20above%20by%20a%20flock%20of%20drones%20painted%20with%20national%20symbols%2C%20suggesting%20a%20cold%20war%20of%20data%20and%20resources%20fought%20amidst%20the%20breathtaking%20yet%20unforgiving%20landscape.?model=flux&width=1280&height=720&seed=386120&nologo=true
 language: es
 title: 'Groenlandia: El Nuevo Jaque Mate Geopolítico que Hunde a Silicon Valley'

@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-02-05 08:09:05
 draft: false
-featured_image: https://image.pollinations.ai/prompt/A%20sprawling%2C%20decayed%20cityscape%20choked%20with%20skeletal%20skyscrapers%20draped%20in%20tattered%20banners%20emblazoned%20with%20hollow%20corporate%20logos%2C%20under%20a%20perpetual%20twilight%20sky%20bruised%20with%20oily%20clouds%2C%20features%20a%20teeming%20mass%20of%20gaunt%2C%20grey-skinned%20figures%20in%20business%20attire%2C%20their%20eyes%20vacant%20and%20glazed%20as%20they%20shamble%20relentlessly%20through%20streets%20littered%20with%20shattered%20screens%20and%20overflowing%20with%20virtual%20currencies%2C%20all%20bathed%20in%20the%20sickly%20neon%20glow%20emanating%20from%20defunct%20billboards%20advertising%20fleeting%20pleasures%20and%20promises%20of%20unsustainable%20growth%2C%20with%20a%20lone%2C%20flickering%20street%20lamp%20casting%20long%2C%20distorted%20shadows%20that%20accentuate%20the%20palpable%20sense%20of%20despair%20and%20the%20relentless%2C%20soulless%20march%20of%20consumption.?model=flux&width=1280&height=720&seed=570568&nologo=true
+featured_image: /images/el-capitalismo-zombi-anatomia-de-un-sistema-fallid.jpg
 language: es
 title: 'El Capitalismo Zombi: Anatomía de un Sistema Fallido'
 type: ia

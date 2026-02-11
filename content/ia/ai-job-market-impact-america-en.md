@@ -1,13 +1,18 @@
 ---
-title: "The Unfolding Impact of AI on the American Job Market: Beyond the Hype"
-date: 2026-02-11T08:09:36
+categories:
+- ia
+date: 2026-02-11 08:09:36
+description: ' The Unfolding Impact of AI on the American Job Market: Beyond the Hype  I
+  remember the first time I built a simple web scraper in Python. The sheer power
+  of au...'
 draft: false
-description: " The Unfolding Impact of AI on the American Job Market: Beyond the Hype  I remember the first time I built a simple web scraper in Python. The sheer power of au..."
-featured_image: "/images/uploads/the-unfolding-impact-of-ai-on-the-american-job-market-beyond-the-hype.jpg"
-tags: ["IA & SaaS", "Trends"]
-categories: ["ia"]
-type: "ia"
-language: "en"
+featured_image: /images/ai-job-market-impact-america-en.jpg
+language: en
+tags:
+- IA & SaaS
+- Trends
+title: 'The Unfolding Impact of AI on the American Job Market: Beyond the Hype'
+type: ia
 ---
 
 ![The Unfolding Impact of AI on the American Job Market: Beyond the Hype](/images/uploads/the-unfolding-impact-of-ai-on-the-american-job-market-beyond-the-hype.jpg)

@@ -3,6 +3,7 @@ categories:
 - ia
 date: 2026-01-28 03:30:09
 draft: false
+featured_image: /images/el-mito-del-dato-como-la-obsesion-por-las-metricas.jpg
 image: https://image.pollinations.ai/prompt/A%20desaturated%2C%20high-contrast%20tableau%20unfolds%20in%20a%20sterile%2C%20gargantuan%20office%20space%2C%20filled%20with%20rows%20upon%20rows%20of%20hunched-over%20figures%20illuminated%20solely%20by%20the%20harsh%20glow%20of%20oversized%20monitors%20displaying%20endless%20spreadsheets%2C%20their%20faces%20gaunt%20and%20devoid%20of%20emotion%2C%20while%20a%20colossal%2C%20decaying%2C%20monolithic%20data%20tower%20looms%20oppressively%20over%20them%2C%20its%20flickering%20screens%20emitting%20an%20almost%20hypnotic%20pulse%2C%20a%20single%2C%20defiant%20figure%20in%20the%20foreground%2C%20clad%20in%20muted%20colors%2C%20reaches%20out%20with%20a%20trembling%20hand%20towards%20a%20wilting%20potted%20plant%20struggling%20to%20survive%20amidst%20the%20concrete%20jungle%2C%20symbolizing%20a%20last%20vestige%20of%20humanity%20being%20strangled%20by%20the%20relentless%2C%20dehumanizing%20pursuit%20of%20quantifiable%20results.?model=flux&width=1280&height=720&seed=294838&nologo=true
 language: es
 title: 'El Mito del Dato: Cómo la Obsesión por las Métricas Nos Está Destruyendo'

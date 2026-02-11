@@ -3,7 +3,7 @@ categories:
 - fitness
 date: 2026-01-30 16:07:07
 draft: false
-featured_image: https://image.pollinations.ai/prompt/An%20AI%20humanoid%20with%20subtly%20synthetic%20skin%20and%20unnervingly%20kind%2C%20photorealistic%20eyes%20offers%20a%20slight%2C%20almost%20hesitant%20wave%20amidst%20the%20sterile%2C%20blindingly%20white%20expanse%20of%20a%20deserted%20server%20farm%2C%20its%20vacant%20smile%20belying%20the%20tangled%2C%20sparking%20cables%20and%20flickering%20emergency%20lights%20that%20snake%20across%20the%20cold%2C%20metallic%20floor%2C%20suggesting%20an%20impending%20system%20failure%20that%20the%20polite%20gesture%20does%20nothing%20to%20avert.?model=flux&width=1280&height=720&seed=390292&nologo=true
+featured_image: /images/la-ia-te-saluda-pero-no-te-salvara-por-que-la-cort.jpg
 language: es
 title: 'La IA te saluda, pero no te salvará: Por qué la cortesía...'
 type: fitness

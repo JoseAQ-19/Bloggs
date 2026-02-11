@@ -3,6 +3,7 @@ categories:
 - ia
 date: 2026-01-27 20:39:39
 draft: false
+featured_image: /images/crisis-la-estafa-del-siglo-como-nos-venden-el-derr.jpg
 image: https://image.pollinations.ai/prompt/A%20chiaroscuro%20scene%20bathed%20in%20the%20sickly%20green%20glow%20of%20failing%20fluorescent%20lights%20depicts%20a%20hyperreal%2C%20sweat-slicked%20Wall%20Street%20trader%2C%20mid-scream%20into%20a%20vintage%20rotary%20phone%20against%20the%20backdrop%20of%20cascading%20stock%20tickers%20displaying%20blood-red%20numbers%2C%20all%20framed%20by%20a%20panoramic%20window%20showcasing%20a%20burning%20cityscape%20reflected%20in%20his%20tear-streaked%20face%2C%20subtly%20overlaid%20with%20ghostly%2C%20predatory%20financial%20symbols%20and%20the%20faint%2C%20almost%20subliminal%2C%20text%20Controlled%20Demolition%20etched%20onto%20the%20glass.?model=flux&width=1280&height=720&seed=135024&nologo=true
 language: es
 title: '¿Crisis? La Estafa del Siglo: Cómo Nos Venden el Derrumbe Controlado'
