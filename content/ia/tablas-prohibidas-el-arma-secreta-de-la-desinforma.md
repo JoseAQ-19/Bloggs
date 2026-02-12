@@ -4,7 +4,7 @@ categories:
 date: 2026-01-29 00:05:44
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: /images/tablas-prohibidas-el-arma-secreta-de-la-desinforma.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
 language: es
 title: ¿Tablas Prohibidas? El Arma Secreta de la Desinformación
 type: ia

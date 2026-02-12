@@ -4,7 +4,7 @@ categories:
 date: 2026-01-28 01:14:15
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: /images/el-metaverso-ha-muerto-bienvenidos-al-infierno-dig.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
 image: https://image.pollinations.ai/prompt/A%20sprawling%2C%20dystopian%20cityscape%20choked%20with%20neon-drenched%20digital%20decay%2C%20where%20glitching%20holographic%20advertisements%20for%20defunct%20metaverse%20platforms%20flicker%20across%20rain-slicked%20skyscrapers%20populated%20by%20gaunt%2C%20cybernetically-enhanced%20figures%20desperately%20vying%20for%20scraps%20of%20bandwidth%20amidst%20the%20digital%20wreckage%20of%20broken%20virtual%20realities%20and%20the%20oppressive%2C%20smog-choked%20sky%20glows%20with%20the%20sickly%20green%20light%20of%20corrupted%20code%20cascading%20down%20like%20perpetual%20rain%2C%20reflecting%20in%20the%20haunted%20eyes%20of%20the%20forgotten%20avatars%20now%20permanently%20trapped%20in%20this%20glitching%2C%20hyper-realistic%20purgatory.?model=flux&width=1280&height=720&seed=280493&nologo=true
 language: es
 title: 'El Metaverso ha Muerto: Bienvenidos al Infierno Digital'

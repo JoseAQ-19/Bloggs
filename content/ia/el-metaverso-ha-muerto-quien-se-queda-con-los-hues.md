@@ -4,7 +4,7 @@ categories:
 date: 2026-02-08 16:04:02
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: /images/el-metaverso-ha-muerto-quien-se-queda-con-los-hues.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
 language: es
 title: 'El Metaverso ha Muerto: ¿Quién se Queda con los Huesos?'
 type: ia

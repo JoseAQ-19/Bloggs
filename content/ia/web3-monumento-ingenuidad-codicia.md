@@ -6,7 +6,7 @@ description: 'Vale, aquí va mi análisis de Web3. Agárrate que vienen curvas. 
   (Key Takeaways):     Web3: Más humo que otra cosa. Promesas vacías envueltas en
   jerga técn...'
 draft: false
-featured_image: /images/web3-monumento-ingenuidad-codicia.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
 language: es
 tags:
 - Technology
