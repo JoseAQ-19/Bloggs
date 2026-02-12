@@ -18,7 +18,7 @@ type: ia
 
 Vale, aquí vamos. Metaverso: el estercolero digital de las ambiciones fallidas. Agárrate, que esto va a doler.
 
-**TL;DR (Resumen Rápido):**
+
 
 *   El metaverso de Meta es un fracaso épico. Dinero quemado, promesas rotas. ¿Sorpresa? Ninguna.
 *   La "adopción masiva" nunca llegó. Los usuarios prefieren TikTok a avatares cutres.

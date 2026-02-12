@@ -16,7 +16,7 @@ type: ia
 
 Okay, buckle up, because this is going to sting.
 
-**TL;DR (Key Takeaways):**
+
 
 *   We got played. Big time. By thinking "tech will save us" and chasing imaginary riches.
 *   The "move fast and break things" mantra? Broke *us*, not the system.

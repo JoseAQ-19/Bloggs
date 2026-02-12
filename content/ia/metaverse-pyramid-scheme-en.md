@@ -16,8 +16,6 @@ title: 'Metaverse: The 21st Century Pyramid Scheme'
 type: ia
 ---
 
-**TL;DR (Key Takeaways):**
-
 *   The Metaverse, as envisioned by Meta (formerly Facebook), is failing. Hard.
 *   Billions have been poured into this black hole, with little to show for it besides awkward avatars and empty virtual spaces.
 *   The "pivot to video" fiasco from the 2010s is repeating itself, only this time, it's even more expensive and detached from reality.

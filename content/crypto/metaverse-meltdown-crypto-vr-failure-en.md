@@ -16,8 +16,6 @@ title: 'Metaverse Meltdown: Crypto Dreams Meet VR Reality... and Fail'
 type: crypto
 ---
 
-**TL;DR (Key Takeaways):**
-
 *   Meta's Metaverse gamble is looking more like a dumpster fire than a digital frontier. Billions spent, little to show but awkward avatars and empty virtual spaces.
 *   The crypto hype that fueled the Metaverse is dead. NFTs are crashing, "play-to-earn" is a joke, and everyone's realizing digital scarcity is only scarce until someone forks the code.
 *   VR's still clunky and expensive. The hardware just isn't there yet for a truly immersive experience that isn't nauseating. Zuck's betting the farm on tech that's still years away from mainstream appeal.

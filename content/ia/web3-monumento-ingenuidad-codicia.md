@@ -18,7 +18,7 @@ type: ia
 
 Vale, aquí va mi análisis de Web3. Agárrate que vienen curvas.
 
-**TL;DR (Key Takeaways):**
+
 
 *   Web3: Más humo que otra cosa. Promesas vacías envueltas en jerga técnica.
 *   Centralización disfrazada: Las mismas ballenas controlando "la descentralización".

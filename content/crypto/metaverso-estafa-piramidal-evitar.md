@@ -18,7 +18,7 @@ type: crypto
 
 ¡Entendido! Aquí va mi análisis cínico del metaverso, sin adornos ni IA-babosadas.
 
-**TL;DR (Conclusiones Rápidas):**
+
 
 *   El metaverso es una estafa piramidal disfrazada de "futuro". Vende humo y terrenos virtuales que valen menos que los píxeles que los forman.
 *   **Zuckerberg** apostó fuerte, quemó miles de millones y ahora todos huyen despavoridos. ¿A quién le sorprende?

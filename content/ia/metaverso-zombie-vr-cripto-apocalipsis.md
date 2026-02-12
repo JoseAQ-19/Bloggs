@@ -17,7 +17,7 @@ type: ia
 
 ¡Entendido! Prepárense para un baño de realidad sobre el metaverso. Aquí va la radiografía de un cadáver tecnológico, sin edulcorantes ni promesas vacías.
 
-**TL;DR (Key Takeaways):**
+
 
 *   El "metaverso" de Meta (y similares) está muriendo. Baja adopción, poca utilidad real. Un cementerio digital de avatares solitarios.
 *   La convergencia VR/Cripto fue un error desde el principio. Un intento desesperado de meter "blockchain" donde no pinta nada.
