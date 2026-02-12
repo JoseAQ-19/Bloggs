@@ -10,8 +10,6 @@ title: 'Bitcoin al matadero: Por qué las criptomonedas serán las primeras en c
 type: crypto
 ---
 
-Bitcoin al matadero: Por qué las criptomonedas serán las primeras en caer
-
 El futuro llegó, pero nadie lo quería.
 
 En mi análisis, sostengo que el mundo de las criptomonedas, liderado por Bitcoin, está peligrosamente cerca del abismo. La narrativa de "oro digital" y descentralización se desmorona ante la realidad de la volatilidad extrema, la manipulación del mercado y la creciente intervención regulatoria. Prometieron libertad financiera, pero nos entregaron un casino digital donde solo unos pocos se enriquecen a costa de la ingenuidad de muchos.

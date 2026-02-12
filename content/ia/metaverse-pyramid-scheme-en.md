@@ -16,8 +16,6 @@ title: 'Metaverse: The 21st Century Pyramid Scheme'
 type: ia
 ---
 
-# Metaverse: The 21st Century Pyramid Scheme
-
 **TL;DR (Key Takeaways):**
 
 *   The Metaverse, as envisioned by Meta (formerly Facebook), is failing. Hard.
