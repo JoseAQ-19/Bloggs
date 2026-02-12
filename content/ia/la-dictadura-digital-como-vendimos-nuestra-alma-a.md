@@ -4,7 +4,7 @@ categories:
 date: 2026-02-06 16:10:32
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: /images/la-dictadura-digital-como-vendimos-nuestra-alma-a.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
 language: es
 title: 'La Dictadura Digital: Cómo Vendimos Nuestra Alma a los Algoritmos'
 type: ia

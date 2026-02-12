@@ -4,7 +4,7 @@ categories:
 date: 2026-02-08 00:09:19
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: /images/metaverso-el-gran-bluf-tecnologico-del-siglo-xxi.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
 language: es
 title: 'Metaverso: El Gran Bluf Tecnológico del Siglo XXI'
 type: ia

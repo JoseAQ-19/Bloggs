@@ -4,7 +4,7 @@ categories:
 date: 2026-02-09 08:10:37
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: /images/movil-te-traiciona-el-negocio-redondo-del-espionaj.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
 language: es
 title: 'Móvil Te Traiciona: El Negocio Redondo del Espionaje Consentido'
 type: ia

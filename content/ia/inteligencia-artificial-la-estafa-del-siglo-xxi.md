@@ -4,7 +4,7 @@ categories:
 date: 2026-02-01 08:03:35
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: /images/inteligencia-artificial-la-estafa-del-siglo-xxi.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
 language: es
 title: 'Inteligencia Artificial: La Estafa del Siglo XXI'
 type: ia

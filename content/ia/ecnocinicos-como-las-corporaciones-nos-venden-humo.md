@@ -4,7 +4,7 @@ categories:
 date: 2026-02-06 00:04:32
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: /images/ecnocinicos-como-las-corporaciones-nos-venden-humo.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
 language: es
 title: 'Ecnocínicos: Cómo las Corporaciones Nos Venden Humo Futurista'
 type: ia

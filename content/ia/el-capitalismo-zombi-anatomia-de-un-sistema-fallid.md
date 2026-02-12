@@ -4,7 +4,7 @@ categories:
 date: 2026-02-05 08:09:05
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: /images/el-capitalismo-zombi-anatomia-de-un-sistema-fallid.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
 language: es
 title: 'El Capitalismo Zombi: Anatomía de un Sistema Fallido'
 type: ia

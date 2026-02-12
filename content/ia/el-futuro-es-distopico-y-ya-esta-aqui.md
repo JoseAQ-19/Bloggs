@@ -4,7 +4,7 @@ categories:
 date: 2026-02-02 00:06:05
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: /images/el-futuro-es-distopico-y-ya-esta-aqui.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
 language: es
 title: El Futuro es Distópico y Ya Está Aquí
 type: ia

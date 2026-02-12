@@ -4,7 +4,7 @@ categories:
 date: 2026-01-31 08:02:33
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: /images/deuda-global-2026-el-subprime-que-nadie-vio-venir.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
 language: es
 title: 'Deuda Global 2026: El Subprime que Nadie Vio Venir'
 type: ia

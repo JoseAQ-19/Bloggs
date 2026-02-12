@@ -4,7 +4,7 @@ categories:
 date: 2026-01-28 00:01:50
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: /images/la-dictadura-de-la-indiferencia-como-el-esta-bien.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
 image: https://image.pollinations.ai/prompt/Okay%2C%20heres%20that%20description%2C%20aiming%20for%20photorealistic%20and%20cinematic%20impact%20while%20encompassing%20the%20concept%20you%20provided%3A%0A%0AA%20lone%2C%20gaunt%20figure%20in%20tattered%20grey%20clothing%20stands%20hunched%20amidst%20a%20sprawling%2C%20decaying%20cityscape%20choked%20with%20smog%2C%20their%20face%20obscured%20by%20shadow%2C%20as%20countless%20identical%2C%20well-dressed%20figures%20in%20neutral%20tones%20stream%20past%2C%20eyes%20fixed%20on%20glowing%20screens%20held%20inches%20from%20their%20faces%2C%20utterly%20oblivious%20to%20the%20suffering%20before%20them%2C%20while%20monolithic%2C%20sterile%20skyscrapers%20pierce%20the%20perpetually%20overcast%20sky%2C%20reflecting%20the%20cold%2C%20uncaring%20light%20of%20a%20dying%20sun%2C%20and%20the%20ground%20is%20littered%20with%20discarded%20technology%20and%20the%20husks%20of%20forgotten%20dreams%2C%20all%20rendered%20in%20excruciating%20detail%20with%20hyperrealistic%20textures%20and%20a%20shallow%20depth%20of%20field%20that%20isolates%20the%20solitary%20figure%20against%20the%20blur%20of%20the%20apathetic%20masses%2C%20evoking%20a%20sense%20of%20profound%20isolation%20and%20the%20crushing%20weight%20of%20societal%20indifference.?model=flux&width=1280&height=720&seed=418497&nologo=true
 language: es
 title: 'La Dictadura de la Indiferencia: Cómo el Está Bien Nos Está Destruyendo'

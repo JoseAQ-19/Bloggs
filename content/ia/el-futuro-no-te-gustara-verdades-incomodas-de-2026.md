@@ -4,7 +4,7 @@ categories:
 date: 2026-01-27 22:41:25
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: /images/el-futuro-no-te-gustara-verdades-incomodas-de-2026.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
 image: https://image.pollinations.ai/prompt/A%20lone%20figure%20in%20tattered%2C%20logo-less%20clothing%20stands%20silhouetted%20against%20a%20perpetually%20overcast%20sky%20choked%20with%20drone%20traffic%20and%20shimmering%20holographic%20advertisements%20for%20personalized%20nutrient%20paste%20and%20virtual%20escapes%2C%20his%20face%20etched%20with%20a%20weary%20resignation%20as%20he%20gazes%20upon%20a%20sprawling%20cityscape%20where%20automated%20sanitation%20bots%20navigate%20overflowing%20refuse%20piles%2C%20buildings%20are%20scarred%20with%20environmental%20decay%20and%20repurposed%20billboards%20displaying%20corporate%20mandated%20wellness%20programs%20glare%20down%20on%20the%20masses%20shuffling%20through%20dimly%20lit%20streets%2C%20faces%20illuminated%20by%20the%20cold%20glow%20of%20augmented%20reality%20interfaces%20that%20mask%20their%20hollowed%20eyes%2C%20all%20rendered%20in%20a%20desaturated%20palette%20punctuated%20by%20the%20sickly%20green%20of%20artificial%20foliage%20struggling%20to%20survive%20amidst%20the%20urban%20blight%2C%20the%20overall%20effect%20a%20chillingly%20plausible%20portrait%20of%20technological%20advancement%20outpacing%20human%20well-being%20in%20the%20year%202026.?model=flux&width=1280&height=720&seed=307718&nologo=true
 language: es
 title: 'El Futuro NO te Gustará: Verdades Incómodas de 2026'
