@@ -15,8 +15,6 @@ title: 'The Unfolding Impact of AI on the American Job Market: Beyond the Hype'
 type: ia
 ---
 
-![The Unfolding Impact of AI on the American Job Market: Beyond the Hype](/images/uploads/the-unfolding-impact-of-ai-on-the-american-job-market-beyond-the-hype.jpg)
-
 ## The Unfolding Impact of AI on the American Job Market: Beyond the Hype
 
 I remember the first time I built a simple web scraper in Python. The sheer power of automating a repetitive task, extracting data that would have taken hours manually, was intoxicating. That feeling, that potential, is what fuels the AI revolution. But beneath the breathless headlines about AI singularity and robot overlords, lies a far more complex and nuanced reality regarding the American job market. We need to cut through the hype and understand the *real* impact AI is having, and will have, on our livelihoods.

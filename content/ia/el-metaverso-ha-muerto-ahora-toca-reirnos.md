@@ -63,8 +63,6 @@ Esta debacle del metaverso es un eco más de la borrachera cripto, donde las pro
 
 Ahora toca reírnos, sí, pero también reflexionar. El metaverso no es más que un recordatorio de que la innovación tecnológica debe estar al servicio de la humanidad, no al revés. La próxima vez que alguien nos prometa un futuro utópico en un mundo virtual, recordemos el **fracaso estrepitoso** del metaverso y exijamos soluciones concretas para los problemas del presente.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que considero más relevantes para un análisis sobre el fin del Metaverso y la reacción posterior:
 
 *   [¿Democracia Digital? La Mayor Estafa del Siglo XXI](/posts/democracia-digital-la-mayor-estafa-del-siglo-xxi)

@@ -15,9 +15,7 @@ title: Why is Berachain trending today in crypto? Analysis
 type: crypto
 ---
 
-![Why is Berachain trending today in crypto? Analysis](https://placehold.co/1280x720/000000/FFFFFF/png?text=CRYPTO)
-
- Berachain, una blockchain de Capa 1 compatible con EVM, está en tendencia por su innovador consenso Proof-of-Liquidity (PoL) y su enfoque en DeFi. Sin embargo, ¡ojo! Datos recientes muestran volatilidad y tendencias mixtas. ¿Será oro o solo un espejismo en el mercado cripto?
+Berachain, una blockchain de Capa 1 compatible con EVM, está en tendencia por su innovador consenso Proof-of-Liquidity (PoL) y su enfoque en DeFi. Sin embargo, ¡ojo! Datos recientes muestran volatilidad y tendencias mixtas. ¿Será oro o solo un espejismo en el mercado cripto?
 
 Berachain ha capturado la atención del mercado cripto por su promesa de revolucionar DeFi. Pero antes de lanzarte de cabeza, analicemos qué está impulsando este hype y cuáles son los riesgos reales.
 

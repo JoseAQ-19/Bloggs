@@ -63,8 +63,6 @@ El espejismo de la RV como escape a los problemas del mundo real es, en realidad
 
 No niego el potencial de la RV en campos específicos como la medicina o la educación. Sin embargo, la obsesión generalizada con la virtualidad refleja una incapacidad para confrontar los desafíos tangibles que nos rodean. En lugar de construir un futuro mejor en el mundo real, nos refugiamos en simulaciones, perpetuando así un ciclo de evasión y descontento. El año 2026 no marca el triunfo de la tecnología, sino el inicio de una era donde la frontera entre lo real y lo virtual se difumina, amenazando con desdibujar nuestra propia humanidad.
 
-
-
 Aquí están los tres artículos de NOVUMWORLD que mejor se relacionan con el concepto de la realidad virtual superando al mundo real, en mi opinión:
 
 *   [El Metaverso ha Muerto: Ahora Toca Reírnos](/posts/el-metaverso-ha-muerto-ahora-toca-reirnos)

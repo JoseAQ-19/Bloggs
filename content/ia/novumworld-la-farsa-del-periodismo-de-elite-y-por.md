@@ -71,8 +71,6 @@ El periodismo de élite, en lugar de cuestionar esta narrativa, la amplificó. �
 
 Sostengo que la solución no es buscar "periodismo más ético" dentro de las mismas estructuras corruptas. Es ignorar el periodismo de élite por completo y buscar fuentes alternativas de información que no estén comprometidas por intereses creados. La verdad, después de todo, rara vez se encuentra en los titulares.
 
-
-
 Aquí están los tres artículos que, en mi opinión, mejor se alinean con la idea de denunciar la "farsa del periodismo de élite" desde la perspectiva de NOVUMWORLD:
 
 * [Crisis? La Estafa del Siglo: Cómo Nos Venden el Derrumbe Controlado](/posts/crisis-la-estafa-del-siglo-como-nos-venden-el-derr)

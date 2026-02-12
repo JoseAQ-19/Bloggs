@@ -64,8 +64,6 @@ Es fundamental entender que la obsesión por las métricas y la recopilación ma
 
 Sostengo que la verdadera innovación no reside en crear aparatos "inteligentes" que nos espíen, sino en desarrollar tecnologías que respeten nuestra privacidad y nos empoderen como consumidores. Hasta que eso no ocurra, prefiero seguir descongelando el pollo a mano.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que considero más relevantes para complementar el análisis sobre la vigilancia a través de electrodomésticos:
 
 *   [El Algoritmo te Vigila: Cómo la Objetividad de los Datos es la...](/posts/el-algoritmo-te-vigila-como-la-objetividad-de-los)

@@ -21,7 +21,6 @@ Esta "revolución" no está democratizando el acceso a la información ni empode
 
 La IA No Viene a Salvarnos: Viene a Explotarnos
 
-
 En mi análisis, la narrativa predominante sobre la IA como herramienta de liberación es, en el mejor de los casos, ingenua y, en el peor, una cortina de humo para la **explotación algorítmica**. La ausencia de datos concretos sobre beneficios reales y tangibles para el usuario común no hace más que reforzar mi escepticismo. Observo una disonancia flagrante entre las promesas grandilocuentes y la realidad palpable.
 
 Mi lectura es que estamos siendo testigos de una nueva forma de colonialismo digital, donde nuestros datos, comportamientos y hasta nuestros pensamientos son extraídos y refinados para beneficio de unos pocos. Sostengo que la IA, en su estado actual, no está diseñada para empoderarnos, sino para predecirnos, influenciarnos y, en última instancia, controlarnos. La falta de transparencia en los algoritmos y la opacidad de los modelos de negocio que los sustentan son síntomas de un problema mucho más profundo.
@@ -59,8 +58,6 @@ En mi análisis, la narrativa del "salvador IA" esconde una realidad mucho más 
 *   La automatización impulsada por la IA no está liberando a la gente para que persiga sus pasiones, sino que está creando un ejército de trabajadores precarios, reemplazables y explotados.
 
 Sostengo que la verdadera amenaza no es la IA en sí misma, sino la **concentración** de poder que permite. Si no tomamos medidas para democratizar el acceso a la tecnología y garantizar que la IA se desarrolle de manera ética y responsable, estaremos construyendo un futuro distópico en el que la mayoría de la humanidad estará a merced de unos pocos algoritmos.
-
-
 
 Aquí están los 3 artículos de NOVUMWORLD que mejor se relacionan con la idea de que "La IA No Viene a Salvarnos: Viene a Explotarnos":
 

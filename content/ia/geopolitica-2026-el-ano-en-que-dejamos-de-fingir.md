@@ -65,8 +65,6 @@ Sostengo que la gran lección de 2026 es que la tecnología, por sí sola, no re
 
 Para una visión más profunda de las verdades incómodas que nos aguardan, te recomiendo leer [Ver Guía Principal](/posts/el-futuro-no-te-gustara-verdades-incomodas-de-2026). Allí desglosamos los pilares fundamentales de este cambio de paradigma. 2026 fue el año en que empezamos a pagar el precio de la ingenuidad. Espero que hayamos aprendido la lección.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que considero más relevantes para complementar un análisis sobre "Geopolítica 2026: El Año en que Dejamos de Fingir":
 
 *   [Geopolítica 2026: El Año Que El Mundo Se Rompió (Y Nadie Lo Vio Venir)](/posts/geopolitica-2026-el-ano-que-el-mundo-se-rompio-y-n)

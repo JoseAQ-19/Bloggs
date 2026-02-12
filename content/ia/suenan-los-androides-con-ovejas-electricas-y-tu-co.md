@@ -59,8 +59,6 @@ Observo que la solución no reside en negar el progreso tecnológico, sino en re
 
 En definitiva, para evitar un futuro de mierda, debemos dejar de soñar con ovejas eléctricas y empezar a exigir un mundo donde la tecnología sirva a la humanidad, no al revés.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que mejor conectan con la temática de futuros distópicos y la reflexión sobre la condición humana en un mundo tecnológico, tal como se plantea en "¿Sueñan los Androides con Ovejas Eléctricas... y Tú con un Futuro de Mierda?":
 
 *   [El Futuro NO te Gustará: Verdades Incómodas de 2026](/posts/el-futuro-no-te-gustara-verdades-incomodas-de-2026)

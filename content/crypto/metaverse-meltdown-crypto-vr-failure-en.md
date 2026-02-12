@@ -16,8 +16,6 @@ title: 'Metaverse Meltdown: Crypto Dreams Meet VR Reality... and Fail'
 type: crypto
 ---
 
-![Metaverse Meltdown: Crypto Dreams Meet VR Reality... and Fail](/images/uploads/metaverse-meltdown-crypto-dreams-meet-vr-reality-and-fail.jpg)
-
 **TL;DR (Key Takeaways):**
 
 *   Meta's Metaverse gamble is looking more like a dumpster fire than a digital frontier. Billions spent, little to show but awkward avatars and empty virtual spaces.

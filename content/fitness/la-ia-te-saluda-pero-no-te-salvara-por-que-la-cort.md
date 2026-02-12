@@ -60,8 +60,6 @@ Sostengo que debemos despertar de este sueño tecnológico y empezar a exigir re
 
 Para entender mejor cómo la IA se inserta en el relato del "progreso", te recomiendo [Ver Guía Principal](/posts/el-mito-del-progreso-como-la-ia-nos-vende-un-futur). Allí desglosamos la falacia de que todo avance tecnológico es inherentemente positivo.
 
-
-
 Aquí tienes los 3 artículos de NOVUMWORLD que mejor se relacionan con el tema de la IA y sus implicaciones, basándome en el catálogo proporcionado:
 
 *   [La IA No Viene a Salvarnos: Viene a Explotarnos](/posts/la-ia-no-viene-a-salvarnos-viene-a-explotarnos)

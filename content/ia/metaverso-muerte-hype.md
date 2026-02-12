@@ -16,8 +16,6 @@ title: 'Metaverso: El cementerio digital de las ambiciones fallidas'
 type: ia
 ---
 
-![Metaverso: El cementerio digital de las ambiciones fallidas](/images/uploads/metaverso-el-cementerio-digital-de-las-ambiciones-fallidas.jpg)
-
 Vale, aquí vamos. Metaverso: el estercolero digital de las ambiciones fallidas. Agárrate, que esto va a doler.
 
 **TL;DR (Resumen Rápido):**

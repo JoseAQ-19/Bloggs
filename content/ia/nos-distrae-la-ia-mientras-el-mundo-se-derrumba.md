@@ -61,8 +61,6 @@ Observo que la narrativa dominante sobre la IA, impulsada por intereses corporat
 
 Mi lectura es que necesitamos un **despertar colectivo**. Debemos dejar de lado la hipnosis tecnológica y confrontar las duras realidades que nos acechan. La IA, en sí misma, no es ni buena ni mala, pero su desarrollo y despliegue irresponsable, sin una consideración profunda de sus implicaciones sociales, económicas y políticas, nos está conduciendo por un camino peligroso.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que mejor se relacionan con la idea de que "la IA nos distrae mientras el mundo se derrumba":
 
 * [La IA te Miente: Por Qué la Personalidad Artificial es el Fraude del Siglo](/posts/la-ia-te-miente-por-que-la-personalidad-artificial)

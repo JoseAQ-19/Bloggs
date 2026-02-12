@@ -16,8 +16,6 @@ title: 'Alma College Kinesiology Program: Hypertrophy, Longevity, and Evidence-B
 type: fitness
 ---
 
-![Alma College Kinesiology Program: Hypertrophy, Longevity, and Evidence-Based Biohacking](/images/uploads/alma-college-kinesiology-program-hypertrophy-longevity-and-evidence-based-biohacking.jpg)
-
 ## Ditch the Bro-Science: How Alma College is Forging the Future of Kinesiology with Hypertrophy, Longevity, and Evidence-Based Biohacking
 
 My grandfather, a man who swore by "no pain, no gain" and whose diet consisted primarily of steak and potatoes, lived to be 65.  He attributed his short life to bad luck. I suspect it was more than that. His dedication to hard work masked a complete disregard for the science of longevity and performance.  That's why I'm so passionate about bridging the gap between old-school dogma and cutting-edge, evidence-based approaches to health and fitness.

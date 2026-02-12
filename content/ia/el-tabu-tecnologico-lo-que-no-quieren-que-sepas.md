@@ -65,8 +65,6 @@ Sostengo que la tecnología, en su forma actual, no es neutral. Refuerza las des
 
 Es imperativo que desarrollemos un pensamiento crítico sobre la tecnología. Necesitamos cuestionar las narrativas dominantes, exigir transparencia y rendición de cuentas a las empresas tecnológicas, y explorar alternativas que pongan el bienestar humano y la sostenibilidad por encima del **crecimiento económico**. La pasividad no es una opción.
 
-
-
 Aquí están los 3 artículos que considero más relevantes para el tema "El Tabú Tecnológico: Lo Que NO Quieren Que Sepas", basándome en el catálogo proporcionado:
 
 *   [El Mito del Progreso: Cómo la IA Nos Vende un Futuro que No Existe](/posts/el-mito-del-progreso-como-la-ia-nos-vende-un-futur)

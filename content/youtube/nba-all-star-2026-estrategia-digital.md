@@ -15,9 +15,7 @@ title: 'NBA All-Star Weekend 2026: Estrategia Digital con Creadores'
 type: youtube
 ---
 
-![NBA All-Star Weekend 2026: Estrategia Digital con Creadores](https://placehold.co/1280x720/000000/FFFFFF/png?text=YOUTUBE)
-
- La NBA apuesta fuerte por los creadores de contenido en el All-Star Weekend 2026, buscando un alcance masivo y conectar con audiencias más jóvenes. ¿Funcionará esta estrategia o se diluirá la esencia del evento?
+La NBA apuesta fuerte por los creadores de contenido en el All-Star Weekend 2026, buscando un alcance masivo y conectar con audiencias más jóvenes. ¿Funcionará esta estrategia o se diluirá la esencia del evento?
 
 ## La NBA y su Apuesta por el Contenido Generado por el Usuario
 

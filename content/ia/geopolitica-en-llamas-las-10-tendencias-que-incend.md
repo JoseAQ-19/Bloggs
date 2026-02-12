@@ -65,8 +65,6 @@ Sostengo que la falta de transparencia alimenta la **desconfianza**. En un mundo
 
 Urge un cambio radical en la forma en que abordamos la geopolítica. No podemos seguir aferrados a modelos obsoletos que ya no reflejan la complejidad del mundo actual. La diplomacia, la cooperación y el respeto al derecho internacional deben ser los pilares de un nuevo orden global. De lo contrario, el futuro que nos espera es sombrío.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que mejor encajan con el tema "Geopolítica en Llamas: Las 10 Tendencias que Incendiarán 2026":
 
 *   [Geopolítica 2026: El Año en que Dejamos de Fingir](/posts/geopolitica-2026-el-ano-en-que-dejamos-de-fingir)

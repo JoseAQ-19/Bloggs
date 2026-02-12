@@ -15,8 +15,6 @@ title: ¿Metaverso Zombie? VR, Cripto y el Apocalipsis Tech que Nadie Quiere Ver
 type: ia
 ---
 
-![¿Metaverso Zombie? VR, Cripto y el Apocalipsis Tech que Nadie Quiere Ver](/images/uploads/metaverso-zombie-vr-cripto-y-el-apocalipsis-tech-que-nadie-quiere-ver.jpg)
-
 ¡Entendido! Prepárense para un baño de realidad sobre el metaverso. Aquí va la radiografía de un cadáver tecnológico, sin edulcorantes ni promesas vacías.
 
 **TL;DR (Key Takeaways):**

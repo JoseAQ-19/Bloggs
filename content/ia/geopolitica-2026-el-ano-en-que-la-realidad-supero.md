@@ -63,8 +63,6 @@ Observo que la **ilusión** de control que ofrecen las herramientas tecnológica
 
 En 2026, la **vigilancia** ubicua, el **capitalismo** de datos y la **polarización** extrema son los pilares de un nuevo orden mundial que amenaza con deshumanizarnos por completo. Es hora de despertar del sueño tecnológico y reclamar nuestra autonomía.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que considero más relevantes para complementar el análisis sobre "Geopolítica 2026: El Año en que la Realidad Superó a la Distopía":
 
 *   [Geopolítica 2026: El Año Que El Mundo Se Rompió (Y Nadie Lo Vio Venir)](/posts/geopolitica-2026-el-ano-que-el-mundo-se-rompio-y-n)

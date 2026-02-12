@@ -61,8 +61,6 @@ Sostengo que el problema no reside en la tecnología per se, sino en la falta de
 
 La "trampa filosófica" de la que hablo nos ciega ante estas realidades. Nos hace debatir sobre abstracciones mientras el mundo se quema a nuestro alrededor. En lugar de preguntarnos si la tecnología es intrínsecamente buena o mala, deberíamos estar exigiendo transparencia, rendición de cuentas y una distribución más equitativa del poder. Sólo así podremos evitar que la tecnología nos conduzca al abismo.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que considero más relevantes para el tema "¿En Sí Misma o En el Abismo? La Trampa Filosófica que Nos Ciega":
 
 * [La IA te Miente: Por Qué la Personalidad Artificial es el Fraude del Siglo](/posts/la-ia-te-miente-por-que-la-personalidad-artificial)

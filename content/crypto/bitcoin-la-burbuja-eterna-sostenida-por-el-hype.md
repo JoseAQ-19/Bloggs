@@ -66,8 +66,6 @@ Mientras la atención se centra en las fluctuaciones diarias del precio de Bitco
 
 Sostengo que el auge de Bitcoin es un síntoma de una sociedad obsesionada con la especulación y el enriquecimiento rápido. Una sociedad que prefiere creer en promesas vacías antes que enfrentar los desafíos reales que nos acechan. La burbuja, tarde o temprano, estallará. La pregunta es: ¿cuántos incautos se llevarán por delante?
 
-
-
 Aquí están los 3 artículos de Novumworld que considero más relevantes para complementar un análisis sobre "Bitcoin: La Burbuja Eterna Sostenida por el Hype":
 
 *   [Bitcoin ha muerto, y esta vez es para siempre (Autopsia de una burbuja)](/posts/bitcoin-ha-muerto-y-esta-vez-es-para-siempre-autop)

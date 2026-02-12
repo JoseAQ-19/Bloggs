@@ -10,8 +10,6 @@ title: 'El Capitalismo Zombi: Anatomía de un Sistema Fallido'
 type: ia
 ---
 
-![Imagen sobre El Capitalismo Zombi: Anatomía de un Sistema Fallido](https://image.pollinations.ai/prompt/A%20sprawling%2C%20decayed%20cityscape%20choked%20with%20skeletal%20skyscrapers%20draped%20in%20tattered%20banners%20emblazoned%20with%20hollow%20corporate%20logos%2C%20under%20a%20perpetual%20twilight%20sky%20bruised%20with%20oily%20clouds%2C%20features%20a%20teeming%20mass%20of%20gaunt%2C%20grey-skinned%20figures%20in%20business%20attire%2C%20their%20eyes%20vacant%20and%20glazed%20as%20they%20shamble%20relentlessly%20through%20streets%20littered%20with%20shattered%20screens%20and%20overflowing%20with%20virtual%20currencies%2C%20all%20bathed%20in%20the%20sickly%20neon%20glow%20emanating%20from%20defunct%20billboards%20advertising%20fleeting%20pleasures%20and%20promises%20of%20unsustainable%20growth%2C%20with%20a%20lone%2C%20flickering%20street%20lamp%20casting%20long%2C%20distorted%20shadows%20that%20accentuate%20the%20palpable%20sense%20of%20despair%20and%20the%20relentless%2C%20soulless%20march%20of%20consumption.?model=flux&width=1280&height=720&seed=570568&nologo=true)
-
 ## El Capitalismo Zombi: Anatomía de un Sistema Fallido
 
 **Estamos en la morgue, y el paciente sigue moviéndose.** El capitalismo, tal como lo conocemos, ha entrado en una fase terminal. No es una muerte súbita, sino una lenta agonía, un "capitalismo zombi" que se alimenta de sus propias entrañas y deja tras de sí un reguero de desigualdad y desesperación.
@@ -58,8 +56,6 @@ En mi análisis, el auge del capitalismo zombi no es una anomalía, sino la lóg
 Esta situación tiene implicaciones profundas. No solo distorsiona la asignación de capital, sino que también genera una falsa sensación de estabilidad. La realidad es que estamos acumulando riesgos y posponiendo una corrección inevitable. Y lo peor de todo es que, mientras tanto, se perpetúa la desigualdad y se dificulta el surgimiento de nuevas empresas capaces de generar empleo y riqueza de manera sostenible.
 
 Sostengo que la solución pasa por asumir las consecuencias de nuestros errores y permitir que el mercado haga su trabajo. Esto implica aceptar la quiebra de las empresas zombis, reasignar el capital a usos más productivos y promover una cultura empresarial basada en la innovación y la eficiencia. Solo así podremos construir un sistema económico más resiliente y justo. Por supuesto, este análisis es satélite de una preocupación mayor que abordamos en la [Ver Guía Principal](/posts/celular-te-espia-y-le-pagas-por-ello), donde exploramos cómo la tecnología, supuestamente creada para nuestro beneficio, a menudo sirve para controlarnos.
-
-
 
 Aquí están los tres artículos que mejor se conectan con el tema del "Capitalismo Zombi: Anatomía de un Sistema Fallido", basándome en el catálogo proporcionado:
 

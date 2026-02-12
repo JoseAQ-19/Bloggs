@@ -59,8 +59,6 @@ Es crucial analizar este fracaso en el contexto más amplio de las tendencias qu
 
 El Metaverso no ha muerto del todo, quizás esté hibernando, esperando un momento más propicio. Pero su resurrección exigirá un enfoque más humilde, realista y centrado en las personas. De lo contrario, seguirá siendo un infierno digital para unos pocos privilegiados.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que mejor complementan el tema de la muerte del Metaverso y su transición a un "infierno digital":
 
 *   [El Metaverso ha Muerto: Ahora Toca Reírnos](/posts/el-metaverso-ha-muerto-ahora-toca-reirnos)

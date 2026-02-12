@@ -61,8 +61,6 @@ Sostengo que debemos ser críticos con las promesas vacías de Silicon Valley y 
 
 Si te sientes identificado con esta crítica y quieres profundizar en el tema, te invito a leer mi [Ver Guía Principal](/posts/la-ia-no-viene-a-salvarnos-viene-a-explotarnos) donde explico cómo la inteligencia artificial, lejos de liberarnos, está siendo utilizada para intensificar la explotación laboral y la vigilancia masiva.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que mejor conectan con el tema del "Mesías Digital" y la crítica a Silicon Valley:
 
 *   [Silicon Valley se Desangra: La Era Dorada ha Terminado (Y Nadie lo Admite)](/posts/silicon-valley-se-desangra-la-era-dorada-ha-termin)

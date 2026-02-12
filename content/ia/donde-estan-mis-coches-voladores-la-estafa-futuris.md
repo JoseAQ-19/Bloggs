@@ -60,8 +60,6 @@ Sostengo que la visión de un futuro surcado por coches voladores era, desde el 
 
 Este fiasco de los coches voladores es solo un síntoma de una tendencia más amplia: la de prometer futuros utópicos que nunca llegan a materializarse. El Siglo XXI está resultando ser una era de promesas incumplidas y desilusiones tecnológicas. Si este análisis te ha resultado sombrío, te recomiendo profundizar en nuestra visión de conjunto en [Ver Guía Principal](/posts/suenan-los-androides-con-ovejas-electricas-y-tu-co). Quizá la distopía ya no sea una advertencia, sino una descripción precisa del presente.
 
-
-
 Aquí están los tres artículos de NOVUMWORLD que considero más relevantes para el tema "¿Dónde están mis coches voladores? La estafa futurista del Siglo XXI":
 
 *   [Tecnoutopía Fallida: El Sueño Digital Se Convierte en Pesadilla Neoliberal](/posts/tecnoutopia-fallida-el-sueno-digital-se-convierte)

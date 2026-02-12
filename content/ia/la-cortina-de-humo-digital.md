@@ -65,8 +65,6 @@ La pregunta clave es: ¿cómo podemos romper esta cortina de humo? No hay soluci
 
 Este análisis conecta directamente con lo que explicamos en nuestra [Ver Guía Principal](/posts/el-futuro-no-te-gustara-verdades-incomodas-de-2026) sobre las 'verdades incómodas' de 2026. En ella, exploramos cómo la tecnología exacerba las desigualdades y cómo las élites utilizan la información para mantener su poder. La "Cortina de Humo Digital" es simplemente una herramienta más en su arsenal.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que considero más relevantes para el tema ": La Cortina de Humo Digital":
 
 *   [La IA te Miente: Por Qué la Personalidad Artificial es el Fraude del Siglo](/posts/la-ia-te-miente-por-que-la-personalidad-artificial)

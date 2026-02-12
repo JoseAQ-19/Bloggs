@@ -15,9 +15,7 @@ title: Why is Berachain trending today in crypto? Analysis
 type: crypto
 ---
 
-![Why is Berachain trending today in crypto? Analysis](https://placehold.co/1280x720/000000/FFFFFF/png?text=CRYPTO)
-
- Berachain's making waves in crypto due to its Proof-of-Liquidity consensus, but don't get blinded by the hype. Recent price surges lack a clear catalyst, volatility is high, and a significant TVL decrease raises serious concerns.
+Berachain's making waves in crypto due to its Proof-of-Liquidity consensus, but don't get blinded by the hype. Recent price surges lack a clear catalyst, volatility is high, and a significant TVL decrease raises serious concerns.
 
 ## The Bear Case is Building
 

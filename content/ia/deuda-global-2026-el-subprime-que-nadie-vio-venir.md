@@ -55,8 +55,6 @@ El crédito privado no regulado, la llamada "banca en la sombra", es el polvorí
 
 Mi lectura es que estamos ante un cisne negro en incubación. Los pagos de intereses estrangulando las economías del G7, sumado a la fragilidad del crédito privado, presagian un ajuste de cuentas brutal. Para entender mejor la magnitud de este desafío, recomiendo [Ver Guía Principal](/posts/el-mito-del-progreso-como-la-ia-nos-vende-un-futur) donde analizo las bases de este mito de crecimiento constante. La complacencia es el peor de los consejeros.
 
-
-
 En mi análisis, la crisis de la deuda global en 2026 es un tema que conecta directamente con varias narrativas que ya hemos explorado en NOVUMWORLD. No es un evento aislado, sino la culminación de tendencias que hemos estado desgranando. Aquí mis selecciones de artículos que considero más relevantes para entender este "Subprime que nadie vio venir":
 
 *   [Mercados Desatan el Caos: La Falsa Calma Post-Elecciones Explota](/posts/mercados-desatan-el-caos-la-falsa-calma-post-elecc)

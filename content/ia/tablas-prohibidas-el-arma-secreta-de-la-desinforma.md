@@ -60,8 +60,6 @@ Sostengo que esta estrategia de "ocultación por omisión" es especialmente peli
 
 Este análisis conecta directamente con la idea central de nuestra [Ver Guía Principal](/posts/la-ia-no-viene-a-salvarnos-viene-a-explotarnos): la tecnología, y la información que genera, no son inherentemente liberadoras. Pueden ser, y de hecho son, utilizadas como instrumentos de control y dominación. La lucha por la transparencia informativa es, por lo tanto, una lucha esencial por la autonomía y la libertad.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que mejor se relacionan con el tema de desinformación y manipulación a través de datos, según el catálogo proporcionado:
 
 *   [El Mito del Dato: Cómo la Obsesión por las Métricas Nos Está Destruyendo](/posts/el-mito-del-dato-como-la-obsesion-por-las-metricas)

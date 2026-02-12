@@ -61,8 +61,6 @@ Sostengo que estamos presenciando la implosión de un sistema construido sobre c
 
 Este "efecto mariposa", como explico en profundidad en la [Ver Guía Principal](/posts/groenlandia-el-cisne-negro-que-derrumbara-el-imper), es una muestra más de cómo un evento aparentemente menor (en este caso, la falsa calma post-electoral) puede desencadenar consecuencias catastróficas a escala global. El problema de fondo es mucho más profundo y sistémico.
 
-
-
 * [¿Democracia Digital? La Mayor Estafa del Siglo XXI](/posts/democracia-digital-la-mayor-estafa-del-siglo-xxi)
 * [Groenlandia: El Iceberg que Hundirá el Imperio Digital de EE.UU.](/posts/groenlandia-el-iceberg-que-hundira-el-imperio-digi)
 * [Groenlandia: El Nuevo Jaque Mate Geopolítico que Hunde a Silicon Valley](/posts/groenlandia-el-nuevo-jaque-mate-geopolitico-que-hu)

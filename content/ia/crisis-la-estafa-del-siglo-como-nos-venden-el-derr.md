@@ -66,8 +66,6 @@ Observo que la tecnología, lejos de ser una herramienta de emancipación, se ut
 
 La verdadera crisis no es económica, sino de credibilidad. Hemos permitido que nos vendan una mentira, y ahora pagamos las consecuencias. El despertar es doloroso, pero necesario.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que considero más relevantes para el tema "¿Crisis? La Estafa del Siglo: Cómo Nos Venden el Derrumbe Controlado":
 
 *   [Mercados Desatan el Caos: La Falsa Calma Post-Elecciones Explota](/posts/mercados-desatan-el-caos-la-falsa-calma-post-elecc)

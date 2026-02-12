@@ -56,8 +56,6 @@ Sostengo que esta distopía laboral no es un accidente, sino el resultado predec
 
 Como expongo en detalle en la [Ver Guía Principal](/posts/la-ia-no-viene-a-salvarnos-viene-a-explotarnos), la automatización no tiene por qué ser sinónimo de desempleo y desigualdad. Sin embargo, requiere de un cambio radical en la forma en que concebimos el trabajo y la distribución de la riqueza. De no ser así, el futuro laboral seguirá siendo una **carrera** **a la baja**, donde la dignidad y la seguridad económica serán un lujo reservado para unos pocos.
 
-
-
 Aquí están los tres artículos de NOVUMWORLD que, en mi opinión, resuenan con el tema "Trabajo y: La Distopía 2026 que Nadie Quiso Ver":
 
 *   [La IA Viene a Quitarte el Almuerzo (Y No se Disculpa)](/posts/la-ia-viene-a-quitarte-el-almuerzo-y-no-se-disculp)

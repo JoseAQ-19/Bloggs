@@ -14,8 +14,6 @@ title: 'SUBBD Token y la IA: ¿Revolución en la Economía del Creador de $191B?
 type: youtube
 ---
 
-![SUBBD Token y la IA: ¿Revolución en la Economía del Creador de $191B?](/images/uploads/subbd-token-y-la-ia-revolucion-en-la-economia-del-creador-de-191b.jpg)
-
 ## SUBBD Token y la IA: ¿Revolución en la Economía del Creador de $191B?
 
 Recuerdo cuando empecé mi canal de YouTube. La ilusión era inmensa, pero la realidad me golpeó rápido.  Horas invertidas en crear contenido de calidad, una edición meticulosa, y al final… un puñado de vistas y unos ingresos que apenas cubrían el café.  La frustración era palpable, y me preguntaba si valía la pena seguir luchando contra las mareas de un algoritmo que parecía favorecer siempre a los mismos. Esta historia, estoy seguro, resuena con miles de creadores que ven en la creación de contenido su pasión, su trabajo, y a veces, su fuente de angustia. ¿Pero qué pasaría si existiera una alternativa, una forma de darle la vuelta a esta situación y empoderar realmente a los creadores?  Ahí es donde entra en juego SUBBD Token.

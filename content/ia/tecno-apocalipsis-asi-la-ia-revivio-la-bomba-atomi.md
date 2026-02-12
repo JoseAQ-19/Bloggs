@@ -59,8 +59,6 @@ Pero, ¿a qué precio? Observo una **dependencia** total de la energía nuclear,
 
 Sostengo que este auge nuclear no es un triunfo de la sostenibilidad, sino una **necesidad** impuesta por el crecimiento descontrolado de la IA. Y no olvidemos el riesgo geopolítico que supone la dependencia del uranio, cuyo precio se disparará por la escasez de suministro. En mi opinión, estamos creando una bomba de relojería. Tecnológica y geoestratégica.
 
-
-
 Aquí están los tres artículos de NOVUMWORLD que considero más relevantes para complementar el tema "Tecno-Apocalipsis! Así la IA Revivió la Bomba Atómica":
 
 *   [La IA No Viene a Salvarnos: Viene a Explotarnos](/posts/la-ia-no-viene-a-salvarnos-viene-a-explotarnos)

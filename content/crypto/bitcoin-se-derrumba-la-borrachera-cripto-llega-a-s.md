@@ -56,8 +56,6 @@ La orgía especulativa en torno a Bitcoin ha terminado, y las consecuencias ser�
 
 Sostengo que la **tecnología subyacente**, el blockchain, tiene potencial, pero su aplicación a las criptomonedas ha sido un rotundo fracaso. La borrachera cripto ha dejado una resaca de desconfianza, regulaciones más estrictas y un descrédito generalizado del sector. En mi opinión, el futuro no pasa por replicar los errores del pasado, sino por explorar aplicaciones **blockchain** más allá de la especulación financiera, priorizando la transparencia, la seguridad y la utilidad real.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que considero más relevantes para complementar el análisis sobre el colapso de Bitcoin:
 
 *   [Bitcoin: La Fiebre del Oro Digital es una Estafa Piramidal 2.0](/posts/bitcoin-la-fiebre-del-oro-digital-es-una-estafa-pi)

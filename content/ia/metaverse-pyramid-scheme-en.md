@@ -16,8 +16,6 @@ title: 'Metaverse: The 21st Century Pyramid Scheme'
 type: ia
 ---
 
-![Metaverse: The 21st Century Pyramid Scheme](/images/uploads/metaverse-the-21st-century-pyramid-scheme.jpg)
-
 # Metaverse: The 21st Century Pyramid Scheme
 
 **TL;DR (Key Takeaways):**

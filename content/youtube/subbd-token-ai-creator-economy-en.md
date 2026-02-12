@@ -14,8 +14,6 @@ title: 'SUBBD Token''s AI Ambition: Revolutionizing the $191B Creator Economy'
 type: youtube
 ---
 
-![SUBBD Token's AI Ambition: Revolutionizing the $191B Creator Economy](/images/uploads/subbd-tokens-ai-ambition-revolutionizing-the-191b-creator-economy.jpg)
-
 ## SUBBD Token's AI Ambition: Revolutionizing the $191B Creator Economy
 
 **** SUBBD is a new token leveraging AI to empower creators in the $191B creator economy, aiming to disrupt centralized platforms with its decentralized, create-to-earn model. Key features include AI-powered content creation tools, token-gated content, and staking rewards, all designed to give creators more control and higher revenue streams. But, as with any emerging crypto project, risks surrounding execution and user adoption remain.

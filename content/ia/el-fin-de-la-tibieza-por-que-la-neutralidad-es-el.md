@@ -70,8 +70,6 @@ Mi conclusión es que la neutralidad es una ilusión peligrosa. En un mundo cada
 
 Como se explica en detalle en [Ver Guía Principal](/posts/la-ia-no-viene-a-salvarnos-viene-a-explotarnos), la tecnología no es inherentemente buena o mala, pero su uso neutral o acrítico puede llevar a la consolidación del poder en manos de unos pocos y a la erosión de los derechos individuales. La verdadera **liberación** requiere un compromiso activo con la justicia y la equidad, un rechazo frontal a la complacencia y una defensa apasionada de la verdad.
 
-
-
 Aquí tienes 3 artículos de NOVUMWORLD que considero que mejor se relacionan con la idea de "El Fin de la Tibieza":
 
 * [La Dictadura de la Indiferencia: Cómo el Está Bien Nos Está Destruyendo](/posts/la-dictadura-de-la-indiferencia-como-el-esta-bien)

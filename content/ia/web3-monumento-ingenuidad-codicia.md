@@ -16,8 +16,6 @@ title: 'Web3: Un monumento a la ingenuidad y la codicia (Capítulo 34)'
 type: ia
 ---
 
-![Web3: Un monumento a la ingenuidad y la codicia (Capítulo 34)](/images/uploads/web3-un-monumento-a-la-ingenuidad-y-la-codicia-capitulo-34.jpg)
-
 Vale, aquí va mi análisis de Web3. Agárrate que vienen curvas.
 
 **TL;DR (Key Takeaways):**

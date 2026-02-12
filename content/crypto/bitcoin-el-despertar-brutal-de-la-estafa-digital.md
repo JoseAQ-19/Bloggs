@@ -70,8 +70,6 @@ Sostengo que la caída de Bitcoin era inevitable. Su volatilidad extrema lo inha
 
 Para comprender la magnitud de este ajuste de cuentas, recomiendo [Ver Guía Principal](/posts/bitcoin-se-derrumba-la-borrachera-cripto-llega-a-s), donde desentrañamos las causas profundas de este colapso y sus implicaciones para el futuro de las finanzas. La fiesta se acabó, y ahora toca lidiar con la resaca.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que mejor complementan "Bitcoin: El Despertar Brutal de la Estafa Digital", en mi opinión:
 
 *   [Bitcoin ha muerto, y esta vez es para siempre (Autopsia de una burbuja)](/posts/bitcoin-ha-muerto-y-esta-vez-es-para-siempre-autop)

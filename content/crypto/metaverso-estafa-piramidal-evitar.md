@@ -16,8 +16,6 @@ title: 'Metaverso: La Estafa Piramidal Definitiva (Y Por Qué Deberías Ignorarl
 type: crypto
 ---
 
-![Metaverso: La Estafa Piramidal Definitiva (Y Por Qué Deberías Ignorarla)](/images/uploads/metaverso-la-estafa-piramidal-definitiva-y-por-que-deberias-ignorarla.jpg)
-
 ¡Entendido! Aquí va mi análisis cínico del metaverso, sin adornos ni IA-babosadas.
 
 **TL;DR (Conclusiones Rápidas):**

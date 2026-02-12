@@ -63,8 +63,6 @@ Sostengo que EE.UU., confiado en su hegemonía digital, ha subestimado peligrosa
 
 La clave reside en la **soberanía tecnológica**. Quien controle la infraestructura digital en Groenlandia –desde los cables submarinos hasta los centros de datos alimentados por energía geotérmica–, controlará el flujo de información y, por ende, el poder en el siglo XXI. El control de Groenlandia no solo es una cuestión de recursos, sino de **arquitectura de poder**.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que mejor se relacionan con "Groenlandia: El Iceberg que Hundirá el Imperio Digital de EE.UU.", según el catálogo provisto:
 
 *   [Groenlandia: El Nuevo Jaque Mate Geopolítico que Hunde a Silicon Valley](/posts/groenlandia-el-nuevo-jaque-mate-geopolitico-que-hu)

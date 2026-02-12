@@ -70,8 +70,6 @@ Mi lectura es clara: la tecnología, por sí sola, no es la panacea. Depende del
 
 Sostengo que, si no tomamos medidas drásticas, nos convertiremos en meros peones en un juego diseñado para beneficiar a las élites tecnológicas y políticas. La **resistencia** no es una opción, sino una necesidad. Debemos exigir transparencia, privacidad y un control democrático sobre las tecnologías que moldean nuestras vidas. De lo contrario, los borregos, efectivamente, seguirán soñando con ciber-ovejas, sin darse cuenta de que están siendo esquilados.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que mejor se conectan con el concepto de "borregos" y el futuro distópico que planteas, seleccionados de tu catálogo:
 
 *   [¿Sueñan los Androides con Ovejas Eléctricas... y Tú con un Futuro de Mierda?](/posts/suenan-los-androides-con-ovejas-electricas-y-tu-co)

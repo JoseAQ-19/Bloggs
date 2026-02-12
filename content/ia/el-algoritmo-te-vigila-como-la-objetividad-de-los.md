@@ -55,8 +55,6 @@ En mi análisis, la supuesta "objetividad" de los datos es una falacia peligrosa
 
 Es fundamental, por tanto, desarrollar una conciencia crítica sobre el uso de los datos. Debemos cuestionar los algoritmos, exigir transparencia y proteger los derechos individuales frente al poder creciente de las corporaciones y los gobiernos. La verdadera objetividad no reside en los números, sino en la capacidad de reconocer y corregir nuestros propios sesgos. Mi recomendación es complementar este análisis con una visión más profunda de los desafíos del "Data-Driven", te invito a leer la [Ver Guía Principal](/posts/el-mito-del-dato-como-la-obsesion-por-las-metricas). Solo así podremos evitar que el algoritmo se convierta en nuestro carcelero.
 
-
-
 Aquí están los 3 artículos que mejor se relacionan con la vigilancia algorítmica y la supuesta objetividad de los datos, basándome en el catálogo proporcionado:
 
 *   [El Mito del Dato: Cómo la Obsesión por las Métricas Nos Está Destruyendo](/posts/el-mito-del-dato-como-la-obsesion-por-las-metricas)

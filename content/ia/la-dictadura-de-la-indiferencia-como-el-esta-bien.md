@@ -68,8 +68,6 @@ Para entender mejor cómo estas dinámicas se insertan en un panorama global má
 
 Mi lectura es que la única forma de romper este ciclo es rebelarnos contra la complacencia, cuestionar el "está bien" y exigir un cambio real. Debemos despertar de esta **narcosis colectiva** antes de que sea demasiado tarde.
 
-
-
 Aquí tienes los tres artículos de NOVUMWORLD que considero más relevantes en relación con el tema de "La Dictadura de la Indiferencia":
 
 *   [Geopolítica 2026: El Año en que Dejamos de Fingir](/posts/geopolitica-2026-el-ano-en-que-dejamos-de-fingir)

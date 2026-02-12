@@ -73,8 +73,6 @@ Sostengo que el futuro no reside en replicar este modelo fallido, sino en abraza
 
 La alternativa es clara: o construimos un futuro donde la tecnología empodera a todos, o nos enfrentaremos a una barbarie digital donde unos pocos controlan el destino de la humanidad. Este análisis está íntimamente ligado a la necesidad de una gestión transparente y veraz de la información, tal como se explora en [Ver Guía Principal](/posts/el-mito-del-dato-como-la-obsesion-por-las-metricas). Ignorar esta advertencia es un lujo que ya no podemos permitirnos.
 
-
-
 Aquí están los 3 artículos más relevantes del catálogo, en mi opinión, para complementar el análisis sobre la muerte de Silicon Valley y el auge de la descentralización:
 
 *   [Silicon Valley se Desangra: La Era Dorada ha Terminado (Y Nadie lo Admite)](/posts/silicon-valley-se-desangra-la-era-dorada-ha-termin)

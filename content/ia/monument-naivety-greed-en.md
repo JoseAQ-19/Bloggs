@@ -14,8 +14,6 @@ title: A Monument to Naivety and Greed
 type: ia
 ---
 
-![A Monument to Naivety and Greed: How We All Got Played](/images/uploads/a-monument-to-naivety-and-greed-how-we-all-got-played.jpg)
-
 Okay, buckle up, because this is going to sting.
 
 **TL;DR (Key Takeaways):**

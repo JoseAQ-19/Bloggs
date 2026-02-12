@@ -62,8 +62,6 @@ Para entender mejor esta deriva, recomiendo consultar la [Ver Guía Principal](/
 
 El 2026 no será recordado como el año de la gran innovación, sino como el año en que nos dimos cuenta de que el futuro que nos prometieron era una quimera. Un futuro construido sobre datos sesgados, algoritmos opacos y una desconexión alarmante con la realidad tangible. Un futuro, en definitiva, que se rompió ante nuestros ojos, y ante el cual, lamentablemente, permanecimos en gran medida impasibles.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que mejor complementan el tema de un futuro roto e ignorado en 2026:
 
 * [Geopolítica 2026: El Año en que Dejamos de Fingir](/posts/geopolitica-2026-el-ano-en-que-dejamos-de-fingir)

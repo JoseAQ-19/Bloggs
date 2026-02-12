@@ -56,8 +56,6 @@ En mi análisis, la transición de la ciencia ficción a la realidad contemporá
 
 Sostengo que estamos viviendo un presente que supera con creces las peores pesadillas de los visionarios distópicos. La tecnología, en lugar de ser una herramienta de emancipación, se ha convertido en un instrumento de control y explotación. La única esperanza reside en tomar conciencia de esta realidad y luchar por un futuro más justo y humano. Para profundizar en esta visión del futuro, te invito a consultar la [Ver Guía Principal](/posts/suenan-los-androides-con-ovejas-electricas-y-tu-co).
 
-
-
 Aquí están los 3 artículos que mejor encajan con el tema de distopía tecnológica y sus implicaciones en el mundo real, seleccionados del catálogo proporcionado:
 
 *   [¿Tu nevera te espía? El futuro orwelliano que ya pagas](/posts/tu-nevera-te-espia-el-futuro-orwelliano-que-ya-pag)

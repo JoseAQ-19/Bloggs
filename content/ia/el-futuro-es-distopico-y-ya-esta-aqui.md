@@ -60,8 +60,6 @@ Sospecho que la actual obsesión mediática con la inteligencia artificial funci
 
 En resumen, sostengo que el futuro distópico ya está aquí. Depende de nosotros reconocerlo y actuar en consecuencia, antes de que sea demasiado tarde. No podemos permitirnos ser meros espectadores pasivos de nuestra propia decadencia.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que mejor conectan con la idea de que "El Futuro es Distópico y Ya Está Aquí":
 
 *   [De Blade Runner a Glovo: La Distopía Ya Está Aquí (Y Pide a Domicilio)](/posts/de-blade-runner-a-glovo-la-distopia-ya-esta-aqui-y)

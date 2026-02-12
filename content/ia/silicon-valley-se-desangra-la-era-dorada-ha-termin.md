@@ -23,7 +23,6 @@ Sostengo que la arrogancia de Silicon Valley, su desconexión con el mundo real 
 
 Silicon Valley se Desangra: La Era Dorada ha Terminado (Y Nadie lo Admite)
 
-
 La narrativa dominante en Silicon Valley sigue siendo la de la innovación imparable y el crecimiento exponencial. Sin embargo, mi análisis apunta a una realidad mucho más sombría: la era dorada ha terminado, y la negación es la principal herramienta para mantener a flote un sistema que hace aguas.
 
 Observo una desconexión brutal entre el optimismo artificialmente inflado y los datos económicos concretos. El mantra de "crecer a toda costa" ha dejado una estela de empresas sobredimensionadas, modelos de negocio insostenibles y una dependencia enfermiza del capital de riesgo.
@@ -72,8 +71,6 @@ En mi análisis, el espejismo de Silicon Valley ha estallado. La "era dorada" fu
 Sospecho que el futuro de la tecnología pasa por modelos más descentralizados, transparentes y responsables. La concentración de poder en manos de unas pocas empresas es un riesgo para la innovación y la democracia. La llamada "Web3" y otras iniciativas buscan construir una alternativa, pero aún están lejos de desafiar el dominio de los gigantes tecnológicos. En este sentido, la idea de que Bitcoin fuera a ser el "oro digital" siempre fue un engaño, como explico en [Ver Guía Principal](/posts/bitcoin-la-burbuja-dorada-que-nunca-fue-oro).
 
 Considero que la solución pasa por una regulación más estricta, una mayor inversión en investigación básica y una apuesta por modelos de negocio más éticos y sostenibles. El **capitalismo tecnológico** necesita una profunda revisión. No podemos seguir permitiendo que la innovación se convierta en una herramienta de opresión y desigualdad.
-
-
 
 Aquí están los 3 artículos de NOVUMWORLD que considero más relevantes para complementar un análisis sobre el declive de Silicon Valley:
 

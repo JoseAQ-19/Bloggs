@@ -62,8 +62,6 @@ Sospecho que la narrativa dominante sobre la IA como panacea tecnológica escond
 
 Sostengo que es imperativo que desarrollemos un pensamiento crítico y cuestionemos las promesas vacías de la IA. Debemos exigir transparencia, responsabilidad y, sobre todo, un debate honesto sobre el futuro que queremos construir. Un futuro donde la tecnología esté al servicio de la humanidad, y no al revés. La IA, en su forma actual, es una **estafa**.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que considero más relevantes para la temática "Inteligencia Artificial: La Estafa del Siglo XXI":
 
 *   [La IA te Miente: Por Qué la Personalidad Artificial es el Fraude del Siglo](/posts/la-ia-te-miente-por-que-la-personalidad-artificial)

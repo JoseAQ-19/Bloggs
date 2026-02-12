@@ -59,8 +59,6 @@ En mi análisis, el "progreso" que la IA nos promete es una **cortina de humo**.
 
 Sostengo que el mito del progreso tecnológico nos impide ver los problemas reales que enfrentamos como sociedad. En lugar de dejarnos llevar por la euforia de la innovación, debemos exigir transparencia, rendición de cuentas y un enfoque más humano en el desarrollo y la implementación de la IA. De lo contrario, corremos el riesgo de construir un futuro distópico donde la tecnología sirve solo a unos pocos, a expensas del resto.
 
-
-
 Aquí están los tres artículos de NOVUMWORLD que mejor se relacionan con "El Mito del Progreso: Cómo la IA Nos Vende un Futuro que No Existe":
 
 *   [La IA No Viene a Salvarnos: Viene a Explotarnos](/posts/la-ia-no-viene-a-salvarnos-viene-a-explotarnos)

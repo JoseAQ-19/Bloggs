@@ -16,8 +16,6 @@ title: 'Kinesiología y Ciencias de la Salud en Alma College: Hipertrofia, Cienc
 type: fitness
 ---
 
-![Kinesiología y Ciencias de la Salud en Alma College: Hipertrofia, Ciencia y Longevidad](/images/uploads/kinesiologia-y-ciencias-de-la-salud-en-alma-college-hipertrofia-ciencia-y-longevidad.jpg)
-
 ## Kinesiología y Ciencias de la Salud en Alma College: Hipertrofia, Ciencia y Longevidad (Desmintiendo la Bro-Science)
 
 ¿Estás harto de escuchar consejos de gimnasio basados en el "yo creo" y la anécdota? ¿Te interesa optimizar tu rendimiento, construir músculo y vivir una vida más larga y saludable, pero no sabes por dónde empezar? En este artículo, analizaremos a fondo el programa de Kinesiología y Ciencias de la Salud en Alma College, demostrando cómo un enfoque basado en la evidencia puede ayudarte a alcanzar tus objetivos. ¡Adiós, bro-science! ¡Hola, datos duros!

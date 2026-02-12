@@ -59,8 +59,6 @@ En mi análisis, la **tiranía** del dato nos ha llevado a un punto de inflexió
 
 Sostengo que el "dato", desprovisto de contexto y juicio humano, es un arma de destrucción masiva. Es hora de recuperar la intuición, el pensamiento crítico y la capacidad de ver más allá de los números. De lo contrario, corremos el riesgo de convertirnos en meros esclavos de los algoritmos, condenados a repetir patrones predecibles hasta la extinción.
 
-
-
 Aquí están los tres artículos de NOVUMWORLD que mejor se relacionan con el tema "El Mito del Dato: Cómo la Obsesión por las Métricas Nos Está Destruyendo":
 
 *   [La IA te Miente: Por Qué la Personalidad Artificial es el Fraude del Siglo](/posts/la-ia-te-miente-por-que-la-personalidad-artificial)

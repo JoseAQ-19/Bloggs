@@ -65,8 +65,6 @@ Observo que la fe ciega en el progreso tecnológico nos impidió ver los riesgos
 
 Sostengo que la "ruptura" de 2026 no fue un evento singular, sino un proceso continuo de erosión de la confianza, la cohesión social y la capacidad de adaptación. Un proceso que, lamentablemente, aún no ha terminado.
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que, en mi opinión, mejor se relacionan con un escenario de "Geopolítica 2026: El Año Que El Mundo Se Rompió (Y Nadie Lo Vio Venir)":
 
 * [Groenlandia: El Nuevo Jaque Mate Geopolítico que Hunde a Silicon Valley](/posts/groenlandia-el-nuevo-jaque-mate-geopolitico-que-hu)

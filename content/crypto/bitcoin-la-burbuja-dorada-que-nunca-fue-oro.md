@@ -21,7 +21,6 @@ Sostengo que Bitcoin nunca cumplió su promesa inicial. Su volatilidad extrema l
 
 Bitcoin: La Burbuja Dorada que Nunca Fue Oro
 
-
 *   La ausencia de un valor intrínseco real es el pecado original de Bitcoin. El oro, por contra, tiene usos industriales, joyeros y una larga historia como reserva de valor tangible.
 *   La supuesta "escasez digital" es una construcción teórica. No hay nada que impida la creación de miles de criptomonedas más, diluyendo el valor de todas.
 *   La volatilidad extrema de Bitcoin, lejos de ser una característica atractiva, la convierte en un activo de alto riesgo, inadecuado para inversores conservadores o como refugio seguro en tiempos de crisis.
@@ -45,7 +44,6 @@ Mi lectura es que, si Bitcoin quiere sobrevivir, necesita reinventarse. Pero est
 
 Bitcoin: La Burbuja Dorada que Nunca Fue Oro
 
-
 En mi análisis, la trayectoria de Bitcoin se revela como un claro ejemplo de **volatilidad especulativa**, disfrazada de innovación disruptiva. Lejos de consolidarse como el oro digital prometido, ha fluctuado violentamente, impactada por:
 
 *   Decisiones regulatorias opacas.
@@ -61,8 +59,6 @@ La verdadera **innovación blockchain** se encuentra en otras aplicaciones desce
 *   La identidad digital.
 
 Bitcoin, por su parte, sigue siendo un experimento financiero arriesgado, más cercano a una apuesta de casino que a una inversión seria.
-
-
 
 Aquí están los 3 artículos de NOVUMWORLD que mejor complementan el análisis sobre Bitcoin:
 

@@ -16,8 +16,6 @@ title: 'Metaverse: Zuck''s $40 Billion Fail?'
 type: ia
 ---
 
-![Metaverse: Zuck's $40 Billion Fail?](/images/uploads/metaverse-zucks-40-billion-fail.jpg)
-
 **TL;DR (Key Takeaways):**
 
 *   **Zuck's Metaverse Bet is Bleeding Cash:** $40 Billion flushed down the drain, and the returns are... underwhelming.

@@ -65,8 +65,6 @@ La confianza en las instituciones se erosionó hasta los cimientos. Los gobierno
 
 Mi lectura es que 2026 fue el año en que la realidad nos golpeó con toda su crudeza. Un año que nos obligó a replantearnos nuestras prioridades y a cuestionar el rumbo que habíamos tomado. Un año, en definitiva, que nos demostró que el futuro que habíamos imaginado era una distopía disfrazada de progreso. Si quieres saber más sobre las verdades incómodas que nos esperan, te recomiendo leer la [Ver Guía Principal](/posts/el-futuro-no-te-gustara-verdades-incomodas-de-2026).
 
-
-
 Aquí están los 3 artículos de NOVUMWORLD que mejor complementan el análisis de "El Año que el Mundo se Cayó a Pedazos":
 
 *   [Geopolítica 2026: El Año Que El Mundo Se Rompió (Y Nadie Lo Vio Venir)](/posts/geopolitica-2026-el-ano-que-el-mundo-se-rompio-y-n)
