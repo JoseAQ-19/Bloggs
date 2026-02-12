@@ -6,7 +6,7 @@ description: ' Kinesiología y Ciencias de la Salud en Alma College: Hipertrofia
   y Longevidad (Desmintiendo la Bro-Science)  ¿Estás harto de escuchar consejos de
   gimn...'
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=FITNESS
+featured_image: /images/kinesiologia-ciencias-salud-alma-college-hipertrofia-longevidad.jpg
 language: es
 tags:
 - Biohacking & Fitness

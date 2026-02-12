@@ -4,7 +4,7 @@ categories:
 date: 2026-02-08 08:04:38
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/silicon-valley-la-burbuja-que-nunca-exploto-pero-d.jpg
 language: es
 title: 'Silicon Valley: La Burbuja que Nunca Explotó (Pero Debería)'
 type: ia

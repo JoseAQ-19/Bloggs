@@ -4,7 +4,7 @@ categories:
 date: 2026-01-30 16:07:07
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=FITNESS
+featured_image: /images/la-ia-te-saluda-pero-no-te-salvara-por-que-la-cort.jpg
 language: es
 title: 'La IA te saluda, pero no te salvará: Por qué la cortesía...'
 type: fitness

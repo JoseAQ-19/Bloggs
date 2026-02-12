@@ -6,7 +6,7 @@ description: ' Ditch the Bro-Science: How Alma College is Forging the Future of 
   with Hypertrophy, Longevity, and Evidence-Based Biohacking  My grandfather, a man
   ...'
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=FITNESS
+featured_image: /images/alma-college-kinesiology-hypertrophy-longevity-en.jpg
 language: en
 tags:
 - Biohacking & Fitness

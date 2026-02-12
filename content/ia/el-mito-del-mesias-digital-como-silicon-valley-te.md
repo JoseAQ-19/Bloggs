@@ -4,7 +4,7 @@ categories:
 date: 2026-01-28 11:34:35
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/el-mito-del-mesias-digital-como-silicon-valley-te.jpg
 language: es
 title: 'El Mito del Mesías Digital: Cómo Silicon Valley Te Roba Mientras Te Vende
   el Futuro'

@@ -6,7 +6,7 @@ description: ' IA y el Futuro del Trabajo: Un Análisis Técnico Profundo (Sin H
   inteligencia artificial (IA) ha dejado de ser ciencia ficción para convertirse en
   una r...'
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/ia-futuro-trabajo-analisis-tecnico.jpg
 language: es
 tags:
 - IA & SaaS

@@ -4,7 +4,7 @@ categories:
 date: 2026-02-06 08:09:05
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/el-metaverso-ha-muerto-larga-vida-al-caos-digital.jpg
 language: es
 title: El Metaverso ha Muerto. Larga Vida al Caos Digital
 type: ia

@@ -4,7 +4,7 @@ categories:
 date: 2026-01-28 02:52:31
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/silicon-valley-la-burbuja-de-humo-que-engano-al-mu.jpg
 image: https://image.pollinations.ai/prompt/En%20ingl%C3%A9s%2C%20por%20favor.%0AA%20lone%20figure%2C%20sharply%20dressed%20yet%20subtly%20disheveled%2C%20stands%20silhouetted%20against%20a%20hyper-realistic%2C%20oversaturated%20sunset%20bleeding%20across%20the%20sprawling%2C%20steel-and-glass%20architecture%20of%20a%20futuristic%20Silicon%20Valley%20campus%2C%20the%20golden%20hour%20light%20glinting%20off%20the%20pristine%20surfaces%20while%20simultaneously%20casting%20long%2C%20ominous%20shadows%20that%20seem%20to%20swallow%20the%20manicured%20lawns%2C%20the%20scene%20punctuated%20by%20the%20subtle%20distortion%20of%20heat%20haze%20rising%20from%20the%20vast%20expanse%20of%20asphalt%2C%20hinting%20at%20the%20volatile%20undercurrents%20beneath%20the%20veneer%20of%20utopian%20innovation%2C%20the%20figures%20posture%20suggesting%20a%20weary%20introspection%20amidst%20the%20dizzying%20spectacle%20of%20technological%20progress%2C%20their%20face%20obscured%2C%20a%20symbol%20of%20the%20countless%20individuals%20caught%20in%20the%20whirlwind%20of%20ambition%20and%20disillusionment.?model=flux&width=1280&height=720&seed=652197&nologo=true
 language: es
 title: 'Silicon Valley: La Burbuja de Humo que Engañó al Mundo'

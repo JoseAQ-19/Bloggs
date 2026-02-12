@@ -5,7 +5,7 @@ date: 2026-02-11 16:16:41
 description: ' SUBBD Token y la IA: ¿Revolución en la Economía del Creador de $191B?  Recuerdo
   cuando empecé mi canal de YouTube. La ilusión era inmensa, pero la realidad me ...'
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=YOUTUBE
+featured_image: /images/subbd-token-ia-revolucion-economia-creador.jpg
 language: es
 tags:
 - Creator Economy

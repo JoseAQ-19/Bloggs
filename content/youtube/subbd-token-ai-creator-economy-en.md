@@ -5,7 +5,7 @@ date: 2026-02-11 16:22:27
 description: ' SUBBD Token''s AI Ambition: Revolutionizing the $191B Creator Economy  TL;DR:
   SUBBD is a new token leveraging AI to empower creators in the $191B creator econom...'
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=YOUTUBE
+featured_image: /images/subbd-token-ai-creator-economy-en.jpg
 language: en
 tags:
 - Creator Economy

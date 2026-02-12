@@ -4,7 +4,7 @@ categories:
 date: 2026-01-27 22:11:17
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/la-elites-digitales-amos-del-mundo-o-nuevos-parasi.jpg
 image: https://image.pollinations.ai/prompt/Una%20sola%20oraci%C3%B3n%20que%20describa%20la%20imagen.%0AA%20towering%2C%20impeccably%20dressed%20figure%20with%20piercing%2C%20almost%20reptilian%20eyes%20reflecting%20the%20cold%20glow%20of%20a%20thousand%20screens%2C%20stands%20atop%20a%20crystalline%20skyscraper%20piercing%20through%20a%20perpetual%20twilight%20sky%20choked%20with%20digital%20smog%2C%20overlooking%20a%20sprawling%2C%20neon-drenched%20megacity%20where%20holographic%20advertisements%20flicker%20across%20the%20faces%20of%20downtrodden%20masses%20shuffling%20below%2C%20their%20faces%20illuminated%20by%20the%20soft%20blue%20light%20of%20their%20implanted%20devices%2C%20while%20the%20figure%20subtly%20manipulates%20complex%20code%20streams%20cascading%20around%20him%20like%20celestial%20waterfalls%2C%20hinting%20at%20both%20godlike%20control%20and%20parasitic%20dependence%20on%20the%20very%20system%20he%20commands.?model=flux&width=1280&height=720&seed=794590&nologo=true
 language: es
 title: 'La Élites Digitales: ¿Amos del Mundo o Nuevos Parásitos?'

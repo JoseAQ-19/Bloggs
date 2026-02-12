@@ -4,7 +4,7 @@ categories:
 date: 2026-02-04 08:08:04
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/suscripciones-fantasma-la-estafa-del-siglo-xxi.jpg
 language: es
 title: 'Suscripciones Fantasma: La Estafa del Siglo XXI'
 type: ia

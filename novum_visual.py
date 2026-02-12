@@ -6,6 +6,10 @@ import base64
 import urllib.parse
 from together import Together
 from openai import OpenAI
+from dotenv import load_dotenv
+
+# Cargar entorno (Seguridad para scripts externos)
+load_dotenv()
 
 class NovumVisualEngine:
     """

@@ -4,7 +4,7 @@ categories:
 date: 2026-01-28 06:17:49
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/tecnoutopia-fallida-el-sueno-digital-se-convierte.jpg
 image: https://image.pollinations.ai/prompt/Okay%2C%20heres%20that%20single-sentence%2C%20very%20detailed%20visual%20description%3A%0A%0ARust-colored%20dust%20motes%20dance%20in%20the%20perpetual%20twilight%20of%20Neo-Kyoto%2C%20where%20towering%20holographic%20geishas%20flicker%20and%20glitch%20amidst%20crumbling%20mega-structures%20woven%20from%20obsolete%20fiber%20optics%20and%20rebar%2C%20their%20serene%20smiles%20betraying%20the%20desperation%20in%20the%20eyes%20of%20the%20cyborg%20salarymen%20huddled%20below%2C%20their%20corporate%20logos%20peeling%20from%20worn%20synthetic%20kimonos%20as%20they%20scavenge%20for%20protein%20paste%20scraps%20near%20a%20defunct%20automated%20noodle%20bar%20guarded%20by%20repurposed%20security%20drones%20painted%20with%20ironic%20cherry%20blossom%20patterns%2C%20all%20under%20the%20cold%2C%20detached%20gaze%20of%20a%20colossal%20digital%20billboard%20advertising%20algorithmic%20life%20insurance%20for%20the%20underclass%2C%20its%20bright%20neon%20hues%20clashing%20with%20the%20decay%20and%20despair%20that%20permeates%20the%20rain-slicked%2C%20data-choked%20alleys.?model=flux&width=1280&height=720&seed=174534&nologo=true
 language: es
 title: 'Tecnoutopía Fallida: El Sueño Digital Se Convierte en Pesadilla Neoliberal'

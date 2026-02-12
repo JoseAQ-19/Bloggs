@@ -4,7 +4,7 @@ categories:
 date: 2026-02-07 08:03:02
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/el-tabu-digital-por-que-nadie-se-atreve-a-decir-la.jpg
 language: es
 title: 'El Tabú Digital: Por Qué Nadie Se Atreve a Decir la Verdad'
 type: ia

@@ -4,7 +4,7 @@ categories:
 date: 2026-01-28 18:19:23
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/trabajo-y-la-distopia-2026-que-nadie-quiso-ver.jpg
 language: es
 title: 'Trabajo y: La Distopía 2026 que Nadie Quiso Ver'
 type: ia

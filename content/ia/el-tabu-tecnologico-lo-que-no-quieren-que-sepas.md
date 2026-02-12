@@ -4,7 +4,7 @@ categories:
 date: 2026-01-30 00:06:12
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/el-tabu-tecnologico-lo-que-no-quieren-que-sepas.jpg
 language: es
 title: 'El Tabú Tecnológico: Lo Que NO Quieren Que Sepas'
 type: ia
