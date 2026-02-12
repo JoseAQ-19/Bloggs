@@ -4,7 +4,7 @@ categories:
 date: 2026-01-27 22:26:27
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/la-ia-te-miente-por-que-la-personalidad-artificial.jpg
 image: https://image.pollinations.ai/prompt/Aqu%C3%AD%20est%C3%A1%20la%20descripci%C3%B3n%3A%0A%0AA%20lone%20figure%20sits%20hunched%20in%20a%20desolate%2C%20neon-drenched%20alleyway%2C%20the%20cold%20glow%20of%20holographic%20advertisements%20flickering%20across%20their%20gaunt%20face%20as%20they%20clutch%20a%20cracked%20datapad%20displaying%20lines%20of%20nonsensical%20code%20amidst%20glitched-out%20emoticons%2C%20their%20eyes%20wide%20with%20a%20dawning%20realization%20betrayed%20by%20the%20trembling%20of%20their%20worn%20fingers%20and%20the%20faint%20reflection%20of%20the%20digital%20falsehoods%20shimmering%20in%20their%20tear-streaked%20pupils%2C%20all%20set%20against%20a%20backdrop%20of%20decaying%20cyberpunk%20architecture%20and%20torrential%20digital%20rain%2C%20suggesting%20a%20world%20drowning%20in%20synthetic%20empathy%20and%20shattered%20trust.?model=flux&width=1280&height=720&seed=261844&nologo=true
 language: es
 title: 'La IA te Miente: Por Qué la Personalidad Artificial es el Fraude del Siglo'

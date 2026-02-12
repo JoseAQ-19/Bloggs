@@ -4,7 +4,7 @@ categories:
 date: 2026-01-31 00:05:44
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/tecno-apocalipsis-asi-la-ia-revivio-la-bomba-atomi.jpg
 language: es
 title: Tecno-Apocalipsis! Así la IA Revivió la Bomba Atómica
 type: ia

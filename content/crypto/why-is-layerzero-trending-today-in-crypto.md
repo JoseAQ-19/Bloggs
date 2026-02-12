@@ -6,7 +6,7 @@ description: Okay, here's an article from the perspective of a Wall Street crypt
   investor analyzing why LayerZero is trending.  ¿LayerZero es el Futuro Interoperable
   o un C...
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=CRYPTO
+featured_image: /images/why-is-layerzero-trending-today-in-crypto.jpg
 language: es
 tags:
 - Crypto & Web3

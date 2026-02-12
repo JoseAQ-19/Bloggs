@@ -6,7 +6,7 @@ description: 'TL;DR: Berachain, una blockchain de Capa 1 compatible con EVM, est
   en tendencia por su innovador consenso Proof-of-Liquidity (PoL) y su enfoque en
   DeFi. Sin em...'
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=CRYPTO
+featured_image: /images/why-is-berachain-trending-today-in-crypto.jpg
 language: es
 tags:
 - Crypto & Web3

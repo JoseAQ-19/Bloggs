@@ -4,7 +4,7 @@ categories:
 date: 2026-01-29 16:09:14
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/el-mito-del-progreso-como-la-ia-nos-vende-un-futur.jpg
 language: es
 title: 'El Mito del Progreso: Cómo la IA Nos Vende un Futuro que No Existe'
 type: ia

@@ -4,7 +4,7 @@ categories:
 date: 2026-02-05 16:12:37
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/ia-el-nuevo-mesias-que-te-dejara-en-la-calle.jpg
 language: es
 title: 'IA: El Nuevo Mesías que te Dejará en la Calle'
 type: ia

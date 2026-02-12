@@ -4,7 +4,7 @@ categories:
 date: 2026-01-28 06:56:06
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/suenan-los-borregos-con-ciber-ovejas-el-futuro-no.jpg
 image: https://image.pollinations.ai/prompt/A%20solitary%2C%20bioluminescent-eyed%20sheep%2C%20flecked%20with%20nanite-infused%20wool%20and%20subtle%20cybernetic%20implants%20around%20its%20jawline%2C%20stands%20melancholically%20amidst%20a%20sprawling%2C%20neon-drenched%2C%20yet%20desolate%20cyberpunk%20farm%2C%20where%20decaying%20silos%20are%20intertwined%20with%20towering%20holographic%20advertisements%20for%20memory%20augmentation%20and%20synthetic%20grass%2C%20all%20reflected%20in%20puddles%20of%20iridescent%2C%20oil-slicked%20rainwater%20under%20a%20perpetually%20twilight%20sky%2C%20as%20glitching%20digital%20stars%20flicker%20weakly%20above.?model=flux&width=1280&height=720&seed=209085&nologo=true
 language: es
 title: ¿Sueñan los Borregos con Ciber-Ovejas? El Futuro No Es Lo Que Crees

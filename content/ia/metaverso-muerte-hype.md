@@ -6,7 +6,7 @@ description: 'Vale, aquí vamos. Metaverso: el estercolero digital de las ambici
   fallidas. Agárrate, que esto va a doler.  TL;DR (Resumen Rápido):     El metaverso
   de Meta...'
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/metaverso-muerte-hype.jpg
 language: es
 tags:
 - Technology

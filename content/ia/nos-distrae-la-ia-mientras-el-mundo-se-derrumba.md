@@ -4,7 +4,7 @@ categories:
 date: 2026-02-01 00:05:39
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/nos-distrae-la-ia-mientras-el-mundo-se-derrumba.jpg
 language: es
 title: ¿Nos Distrae la IA Mientras el Mundo se Derrumba?
 type: ia

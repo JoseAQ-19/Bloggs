@@ -4,7 +4,7 @@ categories:
 date: 2026-02-07 16:03:36
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=CRYPTO
+featured_image: /images/bitcoin-en-caida-libre-el-fin-de-la-era-dorada.jpg
 language: es
 title: 'Bitcoin en Caída Libre: ¿El Fin de la Era Dorada?'
 type: crypto

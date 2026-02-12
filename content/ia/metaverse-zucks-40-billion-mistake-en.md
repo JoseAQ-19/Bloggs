@@ -6,7 +6,7 @@ description: 'TL;DR (Key Takeaways):     Zuck''s Metaverse Bet is Bleeding Cash:
   Billion flushed down the drain, and the returns are... underwhelming.    Horizon
   Worlds is...'
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/metaverse-zucks-40-billion-mistake-en.jpg
 language: en
 tags:
 - Technology
