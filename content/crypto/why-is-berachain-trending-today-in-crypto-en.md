@@ -6,7 +6,7 @@ description: 'TL;DR: Berachain''s making waves in crypto due to its Proof-of-Liq
   consensus, but don''t get blinded by the hype. Recent price surges lack a clear
   catalyst,...'
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=CRYPTO
+featured_image: /images/why-is-berachain-trending-today-in-crypto-en.jpg
 language: en
 tags:
 - Crypto & Web3
