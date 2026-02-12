@@ -4,7 +4,7 @@ categories:
 date: 2026-01-27 19:56:16
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=CRYPTO+News
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=CRYPTO
 image: https://image.pollinations.ai/prompt/Una%20visi%C3%B3n%20dist%C3%B3pica%20y%20granulada%20del%20amanecer%20en%20Wall%20Street%20tras%20el%20colapso%20del%20Bitcoin%2C%20mostrando%20un%20solitario%20y%20descuidado%20corredor%20de%20bolsa%2C%20con%20el%20rostro%20cansado%20y%20demacrado%20iluminado%20por%20el%20brillo%20de%20la%20pantalla%20de%20un%20port%C3%A1til%20que%20muestra%20un%20gr%C3%A1fico%20en%20ca%C3%ADda%20libre%20de%20Bitcoin%2C%20sentado%20encorvado%20en%20un%20callej%C3%B3n%20sucio%20rodeado%20de%20papeles%20rotos%2C%20vallas%20publicitarias%20rotas%20que%20anunciaban%20una%20vez%20audazmente%20las%20criptomonedas%2C%20vasos%20de%20caf%C3%A9%20desechados%2C%20y%20el%20tenue%20resplandor%20de%20una%20tienda%20de%20empe%C3%B1o%20abierta%20con%20vistas%20a%20una%20ciudad%20que%20una%20vez%20hirvi%C3%B3%20con%20la%20exageraci%C3%B3n%20cripto%20pero%20ahora%20se%20arrastra%20bajo%20el%20peso%20de%20las%20promesas%20rotas%20y%20el%20arrepentimiento%20financiero.?model=flux&width=1280&height=720&seed=457493&nologo=true
 language: es
 title: 'Bitcoin se derrumba: la borrachera cripto llega a su fin (y el...'
