@@ -31,7 +31,7 @@ Para entender por qué LayerZero está generando tanto revuelo, primero debemos 
 
 La falta de liquidez unificada es otro desafío significativo. Imaginen intentar operar con acciones en un mercado donde no hay un libro de órdenes centralizado. La eficiencia y la transparencia se ven comprometidas. En el mundo de las finanzas descentralizadas (DeFi), esta fragmentación significa que los usuarios a menudo pierden oportunidades de arbitraje y rendimientos óptimos.
 
-En resumen:
+
 *   **Fragmentación de la liquidez**: Capital distribuido en múltiples blockchains, reduciendo la eficiencia.
 *   **Complejidad de los puentes**: Proceso engorroso y caro, que inhibe la adopción.
 *   **Riesgos de seguridad**: Vulnerabilidad inherente de los puentes, con historial de hacks millonarios.

@@ -1,18 +1,23 @@
 ---
-title: "NBA All-Star Weekend 2026: Estrategia Digital con Creadores"
-date: 2026-02-12T16:02:40
+categories:
+- youtube
+date: 2026-02-12 16:02:40
+description: La NBA apuesta fuerte por los creadores de contenido en el All-Star Weekend
+  2026, buscando un alcance masivo y conectar con audiencias más jóvenes. ¿Func...
 draft: false
-description: "TL;DR: La NBA apuesta fuerte por los creadores de contenido en el All-Star Weekend 2026, buscando un alcance masivo y conectar con audiencias más jóvenes. ¿Func..."
-featured_image: "https://placehold.co/1280x720/000000/FFFFFF/png?text=YOUTUBE"
-tags: ["Creator Economy", "Tutorials", "Blueprints"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=YOUTUBE
+language: es
+tags:
+- Creator Economy
+- Tutorials
+- Blueprints
+title: 'NBA All-Star Weekend 2026: Estrategia Digital con Creadores'
+type: youtube
 ---
 
 ![NBA All-Star Weekend 2026: Estrategia Digital con Creadores](https://placehold.co/1280x720/000000/FFFFFF/png?text=YOUTUBE)
 
-TL;DR: La NBA apuesta fuerte por los creadores de contenido en el All-Star Weekend 2026, buscando un alcance masivo y conectar con audiencias más jóvenes. ¿Funcionará esta estrategia o se diluirá la esencia del evento?
+ La NBA apuesta fuerte por los creadores de contenido en el All-Star Weekend 2026, buscando un alcance masivo y conectar con audiencias más jóvenes. ¿Funcionará esta estrategia o se diluirá la esencia del evento?
 
 ## La NBA y su Apuesta por el Contenido Generado por el Usuario
 

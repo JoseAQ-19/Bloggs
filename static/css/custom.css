@@ -155,20 +155,35 @@ header {
     border-bottom: 1px solid var(--border-color);
 }
 
-/* Glassmorphism Cards (Optimized) */
+/* Glassmorphism Cards (Optimized & Compact) */
 article.glass-card {
     background: var(--card-bg) !important;
     backdrop-filter: blur(16px) !important;
     -webkit-backdrop-filter: blur(16px);
     border: 1px solid var(--border-color) !important;
     border-radius: 16px;
-    padding: 2rem;
-    margin-bottom: 3rem;
-    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); /* Only transform */
+    padding: 1.5rem !important; /* Reduced padding for compact look */
+    margin-bottom: 2rem !important;
+    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); 
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-    position: relative; /* Context for pseudo */
+    position: relative;
     z-index: 1;
     will-change: transform;
+    display: flex;
+    flex-direction: column;
+    height: 100%; /* Uniform height in grid */
+}
+
+/* Line Clamp for Summaries (Compact UI) */
+article.glass-card .f6 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* Max 3 lines */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 0.9rem !important; /* Smaller font */
+    line-height: 1.5 !important; /* Better readability */
+    opacity: 0.8;
 }
 
 /* Neon Glow Optimization (Pseudo-element Opacity) */
@@ -182,15 +197,15 @@ article.glass-card::after {
     z-index: -1;
     transition: opacity 0.3s ease;
     pointer-events: none;
-    border: 1px solid var(--primary); /* Pre-calculate border color */
+    border: 1px solid var(--primary); 
 }
 
 article.glass-card:hover {
-    transform: translateY(-5px) scale(1.01); /* GPU Safe */
+    transform: translateY(-5px) scale(1.01); 
 }
 
 article.glass-card:hover::after {
-    opacity: 1; /* Cheap paint op */
+    opacity: 1; 
 }
 
 /* Override Tachyons Borders */
@@ -749,4 +764,3 @@ img {
     color: black !important;
     font-weight: bold;
 }
-

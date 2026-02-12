@@ -1,18 +1,24 @@
 ---
-title: "NBA Gathers 200-Plus Creators for All-Star Weekend in Los Angeles - Variety Analysis"
-date: 2026-02-12T16:22:01
+categories:
+- youtube
+date: 2026-02-12 16:22:01
+description: The NBA is significantly boosting its digital content strategy for the
+  2026 All-Star Weekend in Los Angeles by integrating over 200 global content creato...
 draft: false
-description: "TL;DR: The NBA is significantly boosting its digital content strategy for the 2026 All-Star Weekend in Los Angeles by integrating over 200 global content creato..."
-featured_image: "https://placehold.co/1280x720/000000/FFFFFF/png?text=YOUTUBE"
-tags: ["Creator Economy", "Tutorials", "Blueprints"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=YOUTUBE
+language: en
+tags:
+- Creator Economy
+- Tutorials
+- Blueprints
+title: NBA Gathers 200-Plus Creators for All-Star Weekend in Los Angeles - Variety
+  Analysis
+type: youtube
 ---
 
 ![NBA Gathers 200-Plus Creators for All-Star Weekend in Los Angeles - Variety Analysis](https://placehold.co/1280x720/000000/FFFFFF/png?text=YOUTUBE)
 
-TL;DR: The NBA is significantly boosting its digital content strategy for the 2026 All-Star Weekend in Los Angeles by integrating over 200 global content creators, aiming to engage younger fans and broaden the event's reach.
+ The NBA is significantly boosting its digital content strategy for the 2026 All-Star Weekend in Los Angeles by integrating over 200 global content creators, aiming to engage younger fans and broaden the event's reach.
 
 The NBA is going all-in on influencer marketing for the 2026 All-Star Weekend, set to take place in Los Angeles from February 12-15. With a planned integration of over 200 content creators boasting a collective reach exceeding 1 billion followers, the league is betting big on digital engagement to enhance the fan experience and attract a younger demographic. The event will include the PlayStation NBA Creator Cup, the Ruffles NBA All-Star Celebrity Game, NBA All-Star Saturday Night, and the main NBA All-Star Game, broadcast on NBC and Peacock.
 
