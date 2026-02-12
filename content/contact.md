@@ -17,7 +17,7 @@ Pero si tienes:
 
 ### Canales Seguros
 
-*   **Email:** `redaccion@novumworld.com`
+*   **Email:** `media.flow.proyectos@gmail.com`
 *   **Twitter/X:** `@NovumWorld` (DM abierto)
 
 *Nota: No respondemos a solicitudes de Guest Posting genéricas.*
