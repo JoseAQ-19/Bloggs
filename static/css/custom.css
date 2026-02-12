@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Clash+Display:wght@400;600;700&family=Inter:wght@300;400;600&display=swap');
 
 /* --- THEME SYSTEM: CAMALEON --- */
-/* ... (Themes defined previously remain same) ... */
+
 /* DEFAULT (IA / Home) - Cyberpunk Blue */
 :root {
     --primary: #8be9fd;
@@ -15,22 +15,66 @@
     --font-heading: 'Clash Display', sans-serif;
     --font-body: 'Inter', sans-serif;
 }
-/* ... (Themes for Youtube, Crypto, Fitness, Viral - Same as before) ... */
-.theme-youtube { --primary: #FF0000; --bg-color: #000000; --text-color: #ffffff; --card-bg: rgba(20, 20, 20, 0.9); --border-color: #333; }
-.theme-youtube article.glass-card { border-radius: 50px !important; box-shadow: 5px 5px 0px #FF0000 !important; }
+
+/* THEME: YOUTUBE (Red/Black) */
+.theme-youtube {
+    --primary: #FF0000;
+    --bg-color: #000000;
+    --text-color: #ffffff;
+    --card-bg: rgba(20, 20, 20, 0.9);
+    --border-color: #333;
+}
+.theme-youtube article.glass-card {
+    border-radius: 50px !important;
+    box-shadow: 5px 5px 0px #FF0000 !important;
+}
 .theme-youtube a:hover { text-shadow: 0 0 10px red; }
 
-.theme-crypto { --primary: #00FF41; --bg-color: #0B0C10; --text-color: #C5C6C7; --font-heading: 'Courier New', monospace; --card-bg: rgba(0, 20, 0, 0.8); --border-color: #00FF41; }
-.theme-crypto article.glass-card { border: 1px solid #00FF41 !important; box-shadow: 0 0 10px rgba(0, 255, 65, 0.2); }
+/* THEME: CRYPTO (Matrix Green) */
+.theme-crypto {
+    --primary: #00FF41;
+    --bg-color: #0B0C10;
+    --text-color: #C5C6C7;
+    --font-heading: 'Courier New', monospace;
+    --card-bg: rgba(0, 20, 0, 0.8);
+    --border-color: #00FF41;
+}
+.theme-crypto article.glass-card {
+    border: 1px solid #00FF41 !important;
+    box-shadow: 0 0 10px rgba(0, 255, 65, 0.2);
+}
 
-.theme-fitness { --primary: #FF5F1F; --bg-color: #1a1a1a; --text-color: #f0f0f0; --font-heading: 'Inter', sans-serif; }
-.theme-fitness article.glass-card { transform: skew(-2deg); border-left: 4px solid #FF5F1F !important; }
+/* THEME: FITNESS (Neon Orange) */
+.theme-fitness {
+    --primary: #FF5F1F;
+    --bg-color: #1a1a1a;
+    --text-color: #f0f0f0;
+    --font-heading: 'Inter', sans-serif;
+}
+.theme-fitness article.glass-card {
+    transform: skew(-2deg);
+    border-left: 4px solid #FF5F1F !important;
+}
 
-.theme-viral { --primary: #8A2BE2; --bg-color: #ffffff; --text-color: #000000; --card-bg: #f0f0f0; --border-color: #000; }
-.theme-viral body { background-color: #ffffff !important; color: black !important; }
-.theme-viral article.glass-card { background: #fff !important; border: 3px solid black !important; box-shadow: 8px 8px 0px black !important; border-radius: 0 !important; }
-.theme-viral h1 { color: black !important; }
-.theme-viral a { color: #8A2BE2 !important; font-weight: 900; }
+/* THEME: VIRAL (FIXED - Dark Mode Neon) */
+.theme-viral {
+    --primary: #CCFF00; /* Neon Yellow/Lime */
+    --bg-color: #120a2e; /* Deep Purple Dark */
+    --text-color: #ffffff;
+    --card-bg: rgba(255, 255, 255, 0.05);
+    --border-color: #8A2BE2; /* Violet Borders */
+}
+.theme-viral body {
+    background-color: var(--bg-color) !important;
+    color: var(--text-color) !important;
+}
+.theme-viral article.glass-card {
+    border: 2px solid var(--border-color) !important;
+    box-shadow: 4px 4px 0px var(--primary) !important; /* Brutalist Pop shadow */
+    border-radius: 12px !important;
+}
+.theme-viral h1 { color: var(--primary) !important; }
+.theme-viral a { color: var(--primary) !important; font-weight: 700; }
 
 /* Global Reset & Colors */
 body, html {
@@ -40,24 +84,34 @@ body, html {
     scroll-behavior: smooth;
     overflow-x: hidden;
 }
+
+/* MARKDOWN CONTENT HEADERS FIX (Ensure visibility) */
+.nested-copy-line-height h2, 
+.nested-links h2 {
+    color: var(--text-color) !important;
+    font-family: var(--font-heading);
+    font-size: 2rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+}
+
+/* Rest of CSS remains same... (Links, Nav, etc) */
 h1, h2, h3, h4, h5, h6 { font-family: var(--font-heading) !important; color: var(--text-color) !important; letter-spacing: -0.02em; }
 a { color: var(--primary) !important; transition: transform 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94), color 0.3s ease; text-decoration: none !important; will-change: transform; }
 a:hover { color: var(--primary) !important; filter: brightness(1.2); }
-
-/* Navigation Overrides */
 .ananke-social-link, .nav-link, .link { margin-left: 1rem; color: var(--primary) !important; }
 .nav-a { font-family: var(--font-heading); color: var(--text-color) !important; }
 .nav-a:hover { color: var(--primary) !important; }
 header { border-bottom: 1px solid var(--border-color); }
-
-/* --- GLASSMORPHISM CARDS (OPTIMIZED & COMPACT UI FIX) --- */
 article.glass-card {
     background: var(--card-bg) !important;
     backdrop-filter: blur(16px) !important;
     -webkit-backdrop-filter: blur(16px);
     border: 1px solid var(--border-color) !important;
     border-radius: 16px;
-    padding: 1.5rem !important; /* COMPACT PADDING */
+    padding: 1.5rem !important; 
     margin-bottom: 2rem !important;
     transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); 
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
@@ -67,13 +121,11 @@ article.glass-card {
     display: flex;
     flex-direction: column;
     height: 100%; 
-    min-height: 420px; /* Uniform height attempt */
+    min-height: 420px; 
 }
-
-/* Line Clamp for Summaries (Compact UI) */
 article.glass-card .f6 {
     display: -webkit-box;
-    -webkit-line-clamp: 3; /* Max 3 lines */
+    -webkit-line-clamp: 3; 
     -webkit-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -83,28 +135,21 @@ article.glass-card .f6 {
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
-
-/* Title Compactness */
 article.glass-card h1 {
     font-size: 1.4rem !important;
     line-height: 1.2 !important;
     margin-bottom: 0.5rem;
-    /* Limit title lines too if needed */
     display: -webkit-box;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
 }
-
-/* Read More Button Compact */
 article.glass-card a.ba {
-    margin-top: auto; /* Push to bottom */
+    margin-top: auto; 
     align-self: flex-start;
     font-size: 0.8rem !important;
     padding: 0.5rem 1rem !important;
 }
-
-/* Neon Glow Optimization */
 article.glass-card::after {
     content: '';
     position: absolute;
@@ -119,14 +164,10 @@ article.glass-card::after {
 }
 article.glass-card:hover { transform: translateY(-5px) scale(1.01); }
 article.glass-card:hover::after { opacity: 1; }
-
-/* Override Tachyons Borders */
 .bb, .bt, .bl, .br, .ba { border-color: var(--border-color) !important; }
 .bg-near-white, .bg-light-gray { background-color: transparent !important; }
-
-/* Hero Section */
 header.hero-modern {
-    min-height: 40vh; /* Reduced height for compactness */
+    min-height: 40vh; 
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -141,9 +182,8 @@ header.hero-modern::before {
     opacity: 0.1; animation: rotate 20s linear infinite; will-change: transform;
 }
 @keyframes rotate { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
-
 .hero-title {
-    font-size: 3.5rem !important; /* Smaller Hero */
+    font-size: 3.5rem !important; 
     font-weight: 700;
     background: linear-gradient(to right, #ffffff, var(--primary));
     -webkit-background-clip: text;
@@ -154,24 +194,17 @@ header.hero-modern::before {
     opacity: 0;
 }
 .hero-subtitle { font-size: 1.2rem !important; color: var(--text-color) !important; opacity: 0.7; text-align: center; max-width: 600px; z-index: 10; }
-
-/* Scrollbar & Utilities */
 ::-webkit-scrollbar { width: 8px; }
 ::-webkit-scrollbar-track { background: var(--bg-color); }
 ::-webkit-scrollbar-thumb { background: #333; border-radius: 4px; }
 ::-webkit-scrollbar-thumb:hover { background: var(--primary); }
 .spacer { height: 100px; }
-
-/* Reading Progress & Logo & Footer (Same as before) */
 #reading-progress-container { position: fixed; top: 0; left: 0; width: 100%; height: 4px; background: transparent; z-index: 9999; will-change: width; }
 #reading-progress-bar { height: 100%; background: linear-gradient(90deg, var(--bg-color), var(--primary)); width: 0%; box-shadow: 0 0 10px var(--primary); transition: width 0.1s ease-out; }
 .logo-tech { height: 50px; width: auto; mix-blend-mode: screen; vertical-align: middle; transition: transform 0.3s ease; will-change: transform; }
 .logo-tech:hover { transform: scale(1.1) rotate(5deg); filter: drop-shadow(0 0 8px var(--primary)); }
 .social-proof-text { font-family: var(--font-body); font-size: 0.8rem; color: var(--text-color); letter-spacing: 1px; text-transform: uppercase; margin-top: 2rem; opacity: 0.7; }
 .social-proof-text span { color: var(--primary); font-weight: 600; }
-
-/* Navigation System (Same as before) */
-/* ... (keeping previous nav styles intact, just ensuring no conflicts) ... */
 .site-nav { width: 100%; padding: 0.8rem 1.5rem; background-color: var(--bg-color); border-bottom: 1px solid var(--border-color); box-sizing: border-box; position: relative; z-index: 100; }
 .site-nav__inner { display: flex; justify-content: space-between; align-items: center; max-width: 1200px; margin: 0 auto; }
 .site-nav__logo { font-family: var(--font-heading); font-size: 1.2rem; font-weight: 700; color: var(--text-color) !important; text-decoration: none !important; display: flex; align-items: center; gap: 0.4rem; }
@@ -207,8 +240,6 @@ header.hero-modern::before {
 .sidebar__link--youtube:hover, .sidebar__item--active .sidebar__link--youtube { color: #FF0000 !important; border-left-color: #FF0000; text-shadow: 0 0 10px rgba(255, 0, 0, 0.3); }
 .sidebar__item--active .sidebar__link { background: rgba(255, 255, 255, 0.03); padding-left: 2rem; }
 .sidebar__footer { padding: 1rem 1.5rem; border-top: 1px solid rgba(255, 255, 255, 0.05); font-size: 0.75rem; color: var(--text-color); opacity: 0.3; }
-
-/* Z-Index Fixes (Same as before) */
 header { display: block; position: relative; z-index: 50 !important; }
 header>div:first-child { position: relative; z-index: 10002 !important; }
 .hero-modern, .hero-modern-overlay { z-index: 1 !important; }
@@ -216,30 +247,19 @@ header>div:first-child { position: relative; z-index: 10002 !important; }
 .sidebar-overlay { z-index: 10000 !important; }
 .sidebar { z-index: 10001 !important; }
 .site-nav { position: relative; z-index: 10002 !important; }
-
-/* RESPONSIVE & MOBILE-FIRST OPTIMIZATION */
-/* 1. Fluid Grids (Article Lists) */
 @media (max-width: 768px) {
     .flex-ns.flex-wrap.justify-center.mt5.w-100.mw9.center { display: block !important; padding: 0 1rem; }
     .relative.w-100.w-40-l.mb5.mh3 { width: 100% !important; margin-left: 0 !important; margin-right: 0 !important; margin-bottom: 2rem !important; }
     article.glass-card { padding: 1.5rem !important; }
-}
-/* 2. Responsive Hero Typography */
-@media (max-width: 768px) {
     .hero-title { font-size: 3rem !important; line-height: 1.1; }
     .hero-subtitle { font-size: 1.1rem !important; }
-}
-/* 3. Scalable Images */
-img { max-width: 100%; height: auto; }
-/* 4. Touch Targets */
-@media (max-width: 768px) {
     .hamburger-btn { padding: 12px; }
     .sidebar__link { padding: 1.2rem 1.5rem; font-size: 1.2rem; }
     .legal-nav__link { padding: 10px; }
     .site-nav__inner { padding: 0 0.5rem; }
     .sidebar { width: 85vw; }
 }
-/* Pagination */
+img { max-width: 100%; height: auto; }
 .pagination { display: flex; list-style: none; padding: 0; gap: 10px; justify-content: center; }
 .pagination li a { padding: 10px 15px; background: rgba(255,255,255,0.05); border: 1px solid var(--border-color); color: var(--text-color) !important; border-radius: 5px; }
 .pagination li.active a { background: var(--primary); color: black !important; font-weight: bold; }

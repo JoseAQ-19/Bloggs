@@ -26,7 +26,7 @@ class NovumVisualEngine:
         "crypto": "matrix code rain style, golden bitcoin physical coin, stock market charts background, dark green theme, financial district night, ultra realistic, bloomberg terminal vibe",
         "fitness": "gym atmosphere, crossfit athlete silhouette, dramatic lighting, sweat details, orange and black theme, motivational poster style, sharp focus",
         "youtube": "youtube play button 3d render, red glowing neon, streaming studio setup, microphone and camera shallow depth of field, vibrant colors, 4k",
-        "viral": "pop art style, vibrant colors, shocked emoji 3d render, chaotic internet collage, trending topic visualization, glossy finish, high saturation",
+        "viral": "editorial photography, neon purple and yellow lighting, high fashion, trending topic visualization, cinematic 8k, sharp focus, no cartoons, serious journalism style", # FIXED: No emojis, no pop art
         "tools": "isometric 3d technical diagram, blueprint style, neon blue lines, engineering drafting table, clean minimalist tech"
     }
 
@@ -49,6 +49,9 @@ class NovumVisualEngine:
         
         # Enriquecer Prompt
         style = self.AESTHETICS.get(category, self.AESTHETICS["ia"])
+        
+        # KEY CHANGE: Si es viral, NO usar el estilo genérico si el prompt es específico del título
+        # Usamos el estilo como "salsa" pero el prompt debe mandar
         enhanced_prompt = f"{prompt}, {style}, editorial photography, wide angle, --ar 16:9"
 
         # 1. EL REY: TOGETHER AI
