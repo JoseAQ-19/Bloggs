@@ -1,13 +1,19 @@
 ---
-title: "Why is Berachain trending today in crypto? Analysis"
-date: 2026-02-12T02:46:42
+categories:
+- crypto
+date: 2026-02-12 02:46:42
+description: 'TL;DR: Berachain, una blockchain de Capa 1 compatible con EVM, está
+  en tendencia por su innovador consenso Proof-of-Liquidity (PoL) y su enfoque en
+  DeFi. Sin em...'
 draft: false
-description: "TL;DR: Berachain, una blockchain de Capa 1 compatible con EVM, está en tendencia por su innovador consenso Proof-of-Liquidity (PoL) y su enfoque en DeFi. Sin em..."
-featured_image: "https://placehold.co/1280x720/000000/FFFFFF/png?text=CRYPTO"
-tags: ["Crypto & Web3", "Tutorials", "Blueprints"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=CRYPTO
+language: es
+tags:
+- Crypto & Web3
+- Tutorials
+- Blueprints
+title: Why is Berachain trending today in crypto? Analysis
+type: crypto
 ---
 
 ![Why is Berachain trending today in crypto? Analysis](https://placehold.co/1280x720/000000/FFFFFF/png?text=CRYPTO)

@@ -4,7 +4,7 @@ categories:
 date: 2026-02-02 08:08:44
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: /images/novumworld-la-burbuja-de-la-elite-que-nadie-quiere.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
 language: es
 title: 'NOVUMWORLD: La burbuja de la élite que nadie quiere pinchar'
 type: ia

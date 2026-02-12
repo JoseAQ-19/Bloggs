@@ -1,13 +1,19 @@
 ---
-title: "Why is Berachain trending today in crypto? Analysis"
-date: 2026-02-12T02:56:03
+categories:
+- crypto
+date: 2026-02-12 02:56:03
+description: 'TL;DR: Berachain''s making waves in crypto due to its Proof-of-Liquidity
+  consensus, but don''t get blinded by the hype. Recent price surges lack a clear
+  catalyst,...'
 draft: false
-description: "TL;DR: Berachain's making waves in crypto due to its Proof-of-Liquidity consensus, but don't get blinded by the hype. Recent price surges lack a clear catalyst,..."
-featured_image: "https://placehold.co/1280x720/000000/FFFFFF/png?text=CRYPTO"
-tags: ["Crypto & Web3", "Tutorials", "Blueprints"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=CRYPTO
+language: en
+tags:
+- Crypto & Web3
+- Tutorials
+- Blueprints
+title: Why is Berachain trending today in crypto? Analysis
+type: crypto
 ---
 
 ![Why is Berachain trending today in crypto? Analysis](https://placehold.co/1280x720/000000/FFFFFF/png?text=CRYPTO)

@@ -4,7 +4,7 @@ categories:
 date: 2026-01-27 21:07:15
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: /images/bitcoin-la-estafa-del-siglo-xxi-al-descubierto.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=CRYPTO
 image: https://image.pollinations.ai/prompt/A%20single%2C%20starkly%20lit%20figure%20in%20a%20crumpled%20suit%20stands%20amidst%20a%20digital%20graveyard%20of%20flickering%2C%20glitched-out%20screens%20displaying%20cascading%20green%20code%20that%20morphs%20into%20skull%20motifs%2C%20the%20entire%20scene%20drenched%20in%20a%20sickly%2C%20neon-tinged%20green%20and%20deep%20shadow%2C%20highlighting%20the%20subject%E2%80%99s%20hollow%20eyes%20reflecting%20the%20frenetic%2C%20untrustworthy%20data%20streams%2C%20while%20behind%20him%2C%20an%20abstract%20architectural%20cityscape%20of%20circuit%20boards%20crumbles%20into%20dust%2C%20symbolizing%20broken%20promises%20and%20lost%20fortunes.?model=flux&width=1280&height=720&seed=742229&nologo=true
 language: es
 title: 'Bitcoin: La Estafa del Siglo XXI al Descubierto'

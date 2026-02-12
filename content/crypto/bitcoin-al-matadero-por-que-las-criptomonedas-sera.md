@@ -4,7 +4,7 @@ categories:
 date: 2026-02-09 00:07:03
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: /images/bitcoin-al-matadero-por-que-las-criptomonedas-sera.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=CRYPTO
 language: es
 title: 'Bitcoin al matadero: Por qué las criptomonedas serán las primeras en caer'
 type: crypto

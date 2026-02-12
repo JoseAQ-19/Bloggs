@@ -6,7 +6,7 @@ description: '¡Entendido! Aquí va mi análisis cínico del metaverso, sin ador
   IA-babosadas.  TL;DR (Conclusiones Rápidas):     El metaverso es una estafa piramidal
   disfr...'
 draft: false
-featured_image: /images/metaverso-estafa-piramidal-evitar.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=CRYPTO
 language: es
 tags:
 - Technology
