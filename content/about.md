@@ -1,6 +1,6 @@
 ---
 description: 'La misión de NovumWorld: Periodismo tecnológico sin filtros.'
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/about.jpg
 layout: single
 title: Sobre Nosotros
 url: /about/

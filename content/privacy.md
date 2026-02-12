@@ -1,6 +1,6 @@
 ---
 description: Legalidades aburridas pero necesarias.
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/privacy.jpg
 layout: single
 title: Política de Privacidad
 url: /privacy/

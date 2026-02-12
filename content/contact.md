@@ -1,6 +1,6 @@
 ---
 description: ¿Tienes una filtración? ¿Quieres insultarnos? Aquí estamos.
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
+featured_image: /images/contact.jpg
 layout: single
 title: Contacto
 url: /contact/

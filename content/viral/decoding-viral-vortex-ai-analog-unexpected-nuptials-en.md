@@ -6,7 +6,7 @@ description: ' Decoding the Viral Vortex: AI, Analog, and Unexpected Nuptials  O
   fam, let''s be real. Remember back when the internet felt… simpler? Like, AIM chat
   rooms a...'
 draft: false
-featured_image: /images/decoding-viral-vortex-ai-analog-unexpected-nuptials-en.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=VIRAL
 language: en
 tags:
 - Viral & Trends
