@@ -12,7 +12,7 @@
     {{ .Content }}
   </article>
 
-  {{/* PAGINACIÓN UNIVERSAL: Mostrar TODOS los posts, paginados */}}
+  {{/* PAGINACIÓN UNIVERSAL */}}
   <div class="pa3 pa4-ns w-100 w-80-ns center">
       
       {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" (slice "ia" "crypto" "fitness" "youtube" "viral" "tools")) }}
@@ -29,6 +29,18 @@
       <div class="flex justify-center mt5 mb5">
         {{ template "_internal/pagination.html" . }}
       </div>
+
+      {{/* WIDGET TAGS (TENDENCIAS) */}}
+      <section class="mt6 mb5">
+        <h2 class="f3 fw7 ttu tracked tc mb4" style="color: var(--primary);">🔥 Tendencias Actuales</h2>
+        <div class="flex flex-wrap justify-center gap-3">
+          {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+            <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" class="link dib ba b--white-20 pa2 br-pill mr2 mb2 white hover-bg-white hover-black transition-colors f6">
+              {{ $name }} <span class="o-60 ml1">({{ $taxonomy.Count }})</span>
+            </a>
+          {{ end }}
+        </div>
+      </section>
 
   </div>
 {{ end }}
