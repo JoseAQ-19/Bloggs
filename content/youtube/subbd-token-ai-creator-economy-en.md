@@ -1,13 +1,17 @@
 ---
-title: "SUBBD Token's AI Ambition: Revolutionizing the $191B Creator Economy"
-date: 2026-02-11T16:22:27
+categories:
+- youtube
+date: 2026-02-11 16:22:27
+description: ' SUBBD Token''s AI Ambition: Revolutionizing the $191B Creator Economy  TL;DR:
+  SUBBD is a new token leveraging AI to empower creators in the $191B creator econom...'
 draft: false
-description: " SUBBD Token's AI Ambition: Revolutionizing the $191B Creator Economy  TL;DR: SUBBD is a new token leveraging AI to empower creators in the $191B creator econom..."
-featured_image: "/images/uploads/subbd-tokens-ai-ambition-revolutionizing-the-191b-creator-economy.jpg"
-tags: ["Creator Economy", "Trends"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=YOUTUBE
+language: en
+tags:
+- Creator Economy
+- Trends
+title: 'SUBBD Token''s AI Ambition: Revolutionizing the $191B Creator Economy'
+type: youtube
 ---
 
 ![SUBBD Token's AI Ambition: Revolutionizing the $191B Creator Economy](/images/uploads/subbd-tokens-ai-ambition-revolutionizing-the-191b-creator-economy.jpg)

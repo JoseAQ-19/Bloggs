@@ -4,7 +4,7 @@ categories:
 date: 2026-01-28 04:28:43
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: /images/silicon-valley-esta-muerto-el-futuro-es-descentral.jpg
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=IA
 image: https://image.pollinations.ai/prompt/A%20sprawling%20cyberpunk%20cityscape%2C%20drenched%20in%20neon%20hues%20of%20fractured%20holographic%20billboards%20advertising%20defunct%20tech%20giants%2C%20rises%20from%20the%20arid%2C%20cracked%20earth%20of%20the%20former%20Silicon%20Valley%2C%20now%20a%20dust-choked%20wasteland%20bisected%20by%20crumbling%20highways%20choked%20with%20makeshift%20settlements%20cobbled%20together%20from%20shipping%20containers%20and%20salvaged%20server%20farms%2C%20with%20heavily%20augmented%20figures%20clad%20in%20patched-together%20tactical%20gear%20and%20wielding%20repurposed%20drone%20components%20navigating%20the%20chaotic%20streets%20below%20under%20the%20oppressive%20glare%20of%20a%20low-hanging%2C%20smog-choked%20sun%2C%20suggesting%20a%20society%20teetering%20on%20the%20brink%20of%20collapse%20where%20decentralized%20networks%20offer%20the%20only%20faint%20glimmer%20of%20hope%20amidst%20the%20decaying%20remnants%20of%20a%20once-utopian%20technological%20promise.?model=flux&width=1280&height=720&seed=292924&nologo=true
 language: es
 title: 'Silicon Valley Está Muerto: El Futuro es Descentralización o Barbarie'
