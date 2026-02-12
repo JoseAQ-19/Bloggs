@@ -2,10 +2,9 @@ baseURL = "https://novumworld.com/"
 languageCode = "es-es"
 title = "NovumWorld"
 theme = "ananke"
-paginate = 6  # GLOBAL PAGINATION OVERRIDE
 
 [pagination]
-  pagerSize = 6 # Duplicate for safety with some themes
+  pagerSize = 6
 
 [params]
   description = "El futuro de la tecnología y la IA"
