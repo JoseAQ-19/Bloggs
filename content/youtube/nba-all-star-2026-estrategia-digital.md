@@ -5,7 +5,7 @@ date: 2026-02-12 16:02:40
 description: La NBA apuesta fuerte por los creadores de contenido en el All-Star Weekend
   2026, buscando un alcance masivo y conectar con audiencias más jóvenes. ¿Func...
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=YOUTUBE
+featured_image: /images/nba-all-star-2026-estrategia-digital.jpg
 language: es
 tags:
 - Creator Economy

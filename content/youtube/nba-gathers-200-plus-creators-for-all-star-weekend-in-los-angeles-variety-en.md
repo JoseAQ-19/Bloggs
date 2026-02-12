@@ -5,7 +5,7 @@ date: 2026-02-12 16:22:01
 description: The NBA is significantly boosting its digital content strategy for the
   2026 All-Star Weekend in Los Angeles by integrating over 200 global content creato...
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=YOUTUBE
+featured_image: /images/nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety-en.jpg
 language: en
 tags:
 - Creator Economy
