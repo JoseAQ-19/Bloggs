@@ -146,8 +146,23 @@ def escribir_articulo(meta, contexto, lang, category_config):
     return resp.text.strip()
 
 def escribir_blueprint(tutorial_data):
-    print(f"🛠️ Escribiendo Blueprint: {tutorial_data['title']}...")
-    prompt = PROMPT_BLUEPRINT.format(title=tutorial_data['title'], transcript=tutorial_data['transcript'][:25000]) + f"\n{SYSTEM_FORMAT_RULES}"
+    """
+    Si el contenido ya viene de SurfSense (Markdown limpio), lo devuelve.
+    Si fuera transcript sucio, lo procesaría con Gemini.
+    """
+    transcript = tutorial_data.get('transcript', '')
+    
+    # Detección simple: Si tiene estructura Markdown clara (H1, H2), asumimos que está listo
+    if "# " in transcript and "## " in transcript:
+        print("✅ Contenido de SurfSense detectado. Saltando reescritura Gemini (Ahorro de costes).")
+        return transcript
+
+    print(f"🛠️ Escribiendo Blueprint con Gemini: {tutorial_data['title']}...")
+    prompt = PROMPT_BLUEPRINT.format(
+        title=tutorial_data['title'],
+        transcript=transcript[:25000]
+    ) + f"\n{SYSTEM_FORMAT_RULES}"
+    
     resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
     return resp.text.strip()
 
