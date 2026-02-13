@@ -153,7 +153,8 @@ def guardar_post(meta, contenido, lang, category):
     now = datetime.now()
     backdate = random.randint(15, 30) if lang == 'es' else random.randint(2, 10)
     date_str = (now - timedelta(minutes=backdate)).strftime("%Y-%m-%dT%H:%M:%S")
-    clean_text = re.sub(r'[#*]', '', contenido)[:160].replace('\n', ' ') + "..."
+    # Sanitización de comillas para YAML
+    clean_text = re.sub(r'[#*]', '', contenido)[:160].replace('\n', ' ').replace('"', "'") + "..."
     
     front_matter = f"""---
 title: "{meta['titulo'].replace('"', '')}"
