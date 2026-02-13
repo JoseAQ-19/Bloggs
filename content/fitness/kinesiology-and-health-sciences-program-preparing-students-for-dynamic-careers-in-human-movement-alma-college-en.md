@@ -16,7 +16,7 @@ title: 'Kinesiology and Health Sciences Program: Preparing Students for Dynamic 
 type: fitness
 ---
 
-![Kinesiology and Health Sciences Program: Preparing Students for Dynamic Careers in Human Movement - Alma College Analysis](https://placehold.co/1280x720/000000/FFFFFF/png?text=FITNESS)
+
 
  Alma College's Kinesiology and Health Sciences program is a dynamic, science-backed launchpad for careers in human movement, exercise science, and beyond, with a strong emphasis on practical skills and real-world application. They're even diving into the cutting-edge stuff like biohacking and longevity!
 

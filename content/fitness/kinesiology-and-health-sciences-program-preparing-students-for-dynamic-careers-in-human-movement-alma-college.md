@@ -16,7 +16,7 @@ title: 'Kinesiology and Health Sciences Program: Preparing Students for Dynamic 
 type: fitness
 ---
 
-![Kinesiology and Health Sciences Program: Preparing Students for Dynamic Careers in Human Movement - Alma College Analysis](https://placehold.co/1280x720/000000/FFFFFF/png?text=FITNESS)
+
 
  El programa de Kinesiología y Ciencias de la Salud de Alma College te prepara para una carrera dinámica en el movimiento humano, la salud y el rendimiento. Con un currículo actualizado y un enfoque en la experiencia práctica, te brinda las herramientas para sobresalir en rehabilitación, medicina o investigación.
 
