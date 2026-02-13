@@ -2,9 +2,8 @@
 categories:
 - fitness
 date: 2026-02-11 10:19:42
-description: ' Ditch the Bro-Science: How Alma College is Forging the Future of Kinesiology
-  with Hypertrophy, Longevity, and Evidence-Based Biohacking  My grandfather, a man
-  ...'
+description: Alma College's Kinesiology program bridges the gap between old-school
+  dogma and evidence-based biohacking for hypertrophy and longevity.
 draft: false
 featured_image: /images/alma-college-kinesiology-hypertrophy-longevity-en.jpg
 language: en

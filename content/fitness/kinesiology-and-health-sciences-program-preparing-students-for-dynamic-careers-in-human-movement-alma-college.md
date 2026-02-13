@@ -1,13 +1,19 @@
 ---
-title: "Kinesiology and Health Sciences Program: Preparing Students for Dynamic Careers in Human Movement - Alma College Analysis"
-date: 2026-02-13T09:55:27
+categories:
+- fitness
+date: 2026-02-13 09:55:27
+description: Alma College's Kinesiology program bridges the gap between old-school
+  dogma and evidence-based biohacking for hypertrophy and longevity.
 draft: false
-description: "TL;DR: El programa de Kinesiología y Ciencias de la Salud de Alma College te prepara para una carrera dinámica en el movimiento humano, la salud y el rendimient..."
-featured_image: "https://placehold.co/1280x720/000000/FFFFFF/png?text=FITNESS"
-tags: ["Biohacking & Fitness", "Tutorials", "Blueprints"]
-categories: ["fitness"]
-type: "fitness"
-language: "es"
+featured_image: /images/kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alma-college.jpg
+language: es
+tags:
+- Biohacking & Fitness
+- Tutorials
+- Blueprints
+title: 'Kinesiology and Health Sciences Program: Preparing Students for Dynamic Careers
+  in Human Movement - Alma College Analysis'
+type: fitness
 ---
 
 ![Kinesiology and Health Sciences Program: Preparing Students for Dynamic Careers in Human Movement - Alma College Analysis](https://placehold.co/1280x720/000000/FFFFFF/png?text=FITNESS)

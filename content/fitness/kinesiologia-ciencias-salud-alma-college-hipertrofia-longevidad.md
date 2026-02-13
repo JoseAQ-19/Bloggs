@@ -2,9 +2,8 @@
 categories:
 - fitness
 date: 2026-02-11 09:56:55
-description: ' Kinesiología y Ciencias de la Salud en Alma College: Hipertrofia, Ciencia
-  y Longevidad (Desmintiendo la Bro-Science)  ¿Estás harto de escuchar consejos de
-  gimn...'
+description: Alma College's Kinesiology program bridges the gap between old-school
+  dogma and evidence-based biohacking for hypertrophy and longevity.
 draft: false
 featured_image: /images/kinesiologia-ciencias-salud-alma-college-hipertrofia-longevidad.jpg
 language: es
