@@ -21,6 +21,13 @@ import trend_hunter
 import tools_hunter 
 from utils import SlugManager 
 from novum_visual import get_image 
+# Importar Prompts Bilingües
+try:
+    from prompts_tools import PROMPT_BLUEPRINT_EN, PROMPT_BLUEPRINT_ES
+except ImportError:
+    # Fallback por si acaso
+    PROMPT_BLUEPRINT_EN = "ACT AS TECH GURU..."
+    PROMPT_BLUEPRINT_ES = "ACTUA COMO ESTRATEGA..."
 
 # Configuración
 GEMINI_KEY = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
@@ -33,36 +40,10 @@ except ValueError:
 # --- SYSTEM PROMPT GLOBAL ---
 SYSTEM_FORMAT_RULES = """
 CRITICAL FORMATTING RULES:
-1. NO TITLE REPETITION: Do NOT include the article title or H1 at the beginning.
-2. START IMMEDIATELY: Start with the TL;DR or the Hook paragraph.
+1. NO TITLE REPETITION: Do NOT include the article title or H1 at the beginning. The website renders it automatically.
+2. START IMMEDIATELY: Start with the TL;DR or the Hook paragraph directly.
 3. HEADERS: Use H2 (##) for main sections. NEVER use H1 (#).
 4. NO AI FLUFF: Do not use "In conclusion", "It is important to note".
-"""
-
-# --- SYSTEM PROMPT TOOLS (NOVUM STYLE) ---
-PROMPT_BLUEPRINT = """
-ACT AS: "Novum Tech Guru" (Hacker Style, Sarcastic, Highly Efficient).
-TASK: Analyze this raw tutorial data and REWRITE it into a high-value "Novum Blueprint". Do NOT summarize. TEACH the technique.
-
-SOURCE INFO: "{title}"
-RAW DATA:
-{transcript}
-
-CRITICAL RULES (ZERO TOLERANCE):
-1. NO TIMESTAMPS: Never mention "at 10:05". Narrative flow only.
-2. NO MARKDOWN TABLES: Use bullet lists with icons (✅/❌) instead. Tables break mobile UI.
-3. ADD VALUE: Add a section "The Missing Link" with 2 advanced tips NOT in the transcript.
-4. VERDICT: End with "My Expert Verdict": What sucks about this tool vs competitors? Be honest.
-5. TONE: Cynical but helpful. "Most people set this up wrong. Here is the pro way."
-
-STRUCTURE:
-1. **The Real Problem:** Why do you need this? (No marketing fluff).
-2. **The Stack:** Tools needed.
-3. **The Blueprint (The How-To):** Step-by-step technical guide. Use code blocks for logic/scripts.
-4. **The Missing Link (Bonus):** Two advanced tips I'm adding for free.
-5. **My Expert Verdict:** The good, the bad, and the ugly.
-
-LENGTH: 1500 words.
 """
 
 # --- CONFIGURACIÓN DE NICHOS ---
@@ -147,12 +128,13 @@ def escribir_articulo(meta, contexto, lang, category_config):
     resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
     return resp.text.strip()
 
-def escribir_blueprint(tutorial_data):
-    """Genera el post de herramienta SIEMPRE reescribiendo con personalidad hacker."""
-    print(f"🛠️ Escribiendo Blueprint (Hacker Style): {tutorial_data['title']}...")
+def escribir_blueprint(tutorial_data, lang="en"):
+    """Genera el post de herramienta reescribiendo con personalidad según idioma."""
+    print(f"🛠️ Escribiendo Blueprint ({lang.upper()}): {tutorial_data['title']}...")
     
-    # FORZAMOS REESCRITURA SIEMPRE. Adiós "Passthrough".
-    prompt = PROMPT_BLUEPRINT.format(
+    prompt_base = PROMPT_BLUEPRINT_EN if lang == "en" else PROMPT_BLUEPRINT_ES
+    
+    prompt = prompt_base.format(
         title=tutorial_data['title'],
         transcript=tutorial_data['transcript'][:30000]
     ) + f"\n{SYSTEM_FORMAT_RULES}"
@@ -214,9 +196,18 @@ def main():
             print("💤 No tutorial found.")
             return
             
-        texto = escribir_blueprint(tutorial)
-        meta = {"titulo": f"Hacker's Guide: {tutorial['title']}", "slug": SlugManager.generate(tutorial['title'])}
-        guardar_post(meta, texto, "en", "tools")
+        # Generación Bilingüe
+        for lang in ["en", "es"]:
+            texto = escribir_blueprint(tutorial, lang)
+            
+            # Título diferenciado por idioma
+            prefix = "Hacker's Guide: " if lang == "en" else "Estrategia de Negocio: "
+            title = f"{prefix}{tutorial['title']}"
+            slug = SlugManager.generate(title)
+            
+            meta = {"titulo": title, "slug": slug}
+            guardar_post(meta, texto, lang, "tools")
+            
         return
 
     # --- MODO STANDARD ---
