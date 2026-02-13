@@ -177,9 +177,9 @@ class ResearcherV3:
             print(f"   🚀 Iniciando tarea de investigación...")
             start_resp = mcp.call_tool("research_start", {
                 "query": keyword,
-                "mode": "fast",  # Deep mode (~5 mins, 40 fuentes) o 'fast' (~30s)
+                "mode": "deep",  # Deep mode (~5 mins, 40 fuentes) o 'fast' (~30s)
                 "source": "web",
-                "title": f"Refactor-{int(time.time())}"
+                "title": f"DeepResearch-{int(time.time())}"
             })
             
             # Parsear respuesta (Soporte para structuredContent o text-json)
