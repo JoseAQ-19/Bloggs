@@ -39,11 +39,11 @@ except ValueError:
 
 # --- SYSTEM PROMPT GLOBAL ---
 SYSTEM_FORMAT_RULES = """
-CRITICAL FORMATTING RULES:
-1. NO TITLE REPETITION: Do NOT include the article title or H1 at the beginning. The website renders it automatically.
-2. START IMMEDIATELY: Start with the TL;DR or the Hook paragraph directly.
-3. HEADERS: Use H2 (##) for main sections. NEVER use H1 (#).
-4. NO AI FLUFF: Do not use "In conclusion", "It is important to note".
+CRITICAL FORMATTING RULES (ZERO TOLERANCE):
+1. NO TITLE REPETITION: Do NOT include the article title or H1 at the beginning.
+2. START IMMEDIATELY: Start with the Hook paragraph directly.
+3. FORBIDDEN PHRASES: Do NOT use "TL;DR", "Key Takeaways", "In summary", "In conclusion".
+4. HEADERS: Use H2 (##) for main sections. NEVER use H1 (#).
 """
 
 # --- CONFIGURACIÓN DE NICHOS ---

@@ -2,17 +2,13 @@
 title: "NBA Gathers 200-Plus Creators for All-Star Weekend in Los Angeles - Variety Analysis"
 date: 2026-02-13T16:21:34
 draft: false
-description: "TL;DR: The NBA is doubling down on content creators for the 2026 All-Star Weekend in Los Angeles, integrating over 200 influencers into every facet of the event..."
-featured_image: "https://placehold.co/1280x720/000000/FFFFFF/png?text=YOUTUBE"
+description: "The NBA is doubling down on content creators for the 2026 All-Star Weekend in Los Angeles, integrating over 200 influencers into every facet of the event, from live broadcasts to on-court competitions, aiming to amplify reach and engage younger demographics."
+featured_image: "/images/nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety-en.jpg"
 tags: ["Creator Economy", "Tutorials", "Blueprints"]
 categories: ["youtube"]
 type: "youtube"
 language: "en"
 ---
-
-![NBA Gathers 200-Plus Creators for All-Star Weekend in Los Angeles - Variety Analysis](https://placehold.co/1280x720/000000/FFFFFF/png?text=YOUTUBE)
-
-TL;DR: The NBA is doubling down on content creators for the 2026 All-Star Weekend in Los Angeles, integrating over 200 influencers into every facet of the event, from live broadcasts to on-court competitions, aiming to amplify reach and engage younger demographics.
 
 The National Basketball Association (NBA) is strategically leveraging the power of digital influence by integrating over 200 content creators into the 2026 All-Star Weekend festivities in Los Angeles. This initiative signifies a major push to enhance the event's reach and connect with a broader, digitally-native audience, recognizing the crucial role creators play in modern sports consumption.
 
