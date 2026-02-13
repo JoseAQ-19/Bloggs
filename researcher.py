@@ -148,18 +148,14 @@ class ResearcherV3:
         return self._layer_3_classic_scraping(keyword)
 
     def _layer_1_notebooklm(self, keyword):
-        print("\n🥇 CAPA 1: Intentando NotebookLM MCP...")
+        print(f"\n🥇 CAPA 1: NotebookLM Deep Research ('{keyword}')...")
         
-        # Verificar Auth
+        # 1. Verificar Auth y Binario
         auth_path = os.path.expanduser("~/.notebooklm-mcp/auth.json")
-        if not os.path.exists(auth_path):
-            print("⚠️ [Capa 1] No se encontró auth.json. Saltando NotebookLM.")
-            return None
-
-        # Encontrar binario
         binary_path = self._find_mcp_binary()
-        if not binary_path:
-            print("⚠️ [Capa 1] Binario 'notebooklm-mcp' no encontrado. Saltando.")
+        
+        if not os.path.exists(auth_path) or not binary_path:
+            print("⚠️ [Capa 1] Falta Auth o Binario MCP. Saltando.")
             return None
 
         mcp = NotebookMCPClient(binary_path)
@@ -167,28 +163,109 @@ class ResearcherV3:
             return None
 
         try:
-            # 1. Crear Notebook
-            title = f"Research-{keyword.replace(' ', '-')}-{int(time.time())}"
-            print(f"   📓 Creando Notebook: {title}")
-            # FIX: Nombre correcto de la herramienta es 'notebook_create'
-            # Esta llamada devuelve un mensaje, pero NO el ID directamente en ocasiones.
-            mcp.call_tool("notebook_create", {"title": title})
+            # 2. INICIAR DEEP RESEARCH
+            # El usuario pidió explícitamente "deep research".
+            print(f"   🚀 Iniciando tarea de investigación...")
+            start_resp = mcp.call_tool("research_start", {
+                "query": keyword,
+                "mode": "deep",  # Deep mode (~5 mins, 40 fuentes) o 'fast' (~30s)
+                "source": "web",
+                "title": f"DeepResearch-{int(time.time())}"
+            })
             
-            # Esperar propagación
-            time.sleep(2)
+            # Parsear respuesta (Soporte para structuredContent o text-json)
+            data = {}
+            if start_resp and "result" in start_resp:
+                res = start_resp["result"]
+                if "structuredContent" in res:
+                    data = res["structuredContent"]
+                elif "content" in res and res["content"]:
+                    try:
+                        data = json.loads(res["content"][0]["text"])
+                    except:
+                        pass
             
-            # Listar para obtener ID (asumiendo que es el primero/ultimo o por título)
-            list_resp = mcp.call_tool("notebook_list", {"max_results": 5})
+            notebook_id = data.get("notebook_id")
+            task_id = data.get("task_id")
             
-            # NOTA: Sin poder parsear fiable el ID en este entorno 'ciego', 
-            # abortamos aquí para no romper el flujo. 
-            # El notebook SE CREARÁ en tu cuenta (puedes verificarlo en web), 
-            # pero el script usará Gemini para el contenido.
-            print("   ⚠️ [Capa 1] Notebook creado. Saltando a Capa 2 (Gemini) por falta de ID parser.")
-            return None
+            if not notebook_id or not task_id:
+                print(f"   ❌ Error al iniciar research: {data.get('message', 'Sin datos')}")
+                return None
+                
+            print(f"   📓 Notebook ID: {notebook_id}")
+            print(f"   🕵️ Task ID: {task_id} (Esperando completado...)")
+            
+            # 3. POLLING (Esperar a que termine)
+            # Deep research puede tardar. Haremos un polling inteligente con timeout.
+            max_retries = 20 # 20 * 15s = 5 mins max
+            completed = False
+            
+            for i in range(max_retries):
+                time.sleep(15) 
+                status_resp = mcp.call_tool("research_status", {"task_id": task_id, "notebook_id": notebook_id})
+                
+                # Parsear estado
+                status_data = {}
+                if status_resp and "result" in status_resp:
+                     res = status_resp["result"]
+                     if "structuredContent" in res:
+                         status_data = res["structuredContent"]
+                     elif "content" in res:
+                         try:
+                             status_data = json.loads(res["content"][0]["text"])
+                         except: pass
+                
+                state = status_data.get("status", "unknown")
+                print(f"      ⏳ Estado ({i+1}/{max_retries}): {state}")
+                
+                if state == "completed":
+                    completed = True
+                    break
+                elif state == "failed":
+                    print("      ❌ Research falló.")
+                    break
+            
+            if not completed:
+                print("   ⚠️ Timeout esperando research. Intentando importar lo que haya...")
+
+            # 4. IMPORTAR RESULTADOS
+            print("   📥 Importando fuentes descubiertas...")
+            mcp.call_tool("research_import", {"notebook_id": notebook_id, "task_id": task_id})
+            
+            # 5. GENERAR INFORME DETALLADO (Query)
+            print("   🧠 Generando informe final con NotebookLM...")
+            query_prompt = f"""
+            Escribe un informe exhaustivo sobre: '{keyword}'.
+            Basado EXCLUSIVAMENTE en las fuentes investigadas.
+            Incluye:
+            1. Resumen Ejecutivo.
+            2. Hallazgos Clave y Tendencias (con cifras si hay).
+            3. Análisis de Expertos.
+            4. Controversias o Riesgos.
+            5. Conclusión.
+            """
+            query_resp = mcp.call_tool("notebook_query", {"notebook_id": notebook_id, "query": query_prompt})
+            
+            # Extraer respuesta
+            final_content = ""
+            if query_resp and "result" in query_resp and "content" in query_resp["result"]:
+                for block in query_resp["result"]["content"]:
+                    if block.get("type") == "text":
+                        final_content += block.get("text", "")
+
+            if len(final_content) > 500:
+                print("   ✅ ÉXITO CAPA 1: Informe Deep Research generado.")
+                return {
+                    "content": final_content,
+                    "layer": "NotebookLM Deep Research",
+                    "sources": ["NotebookLM Deep Search"] # URL sources are inside the notebook
+                }
+            else:
+                print("   ⚠️ Informe vacío. Saltando a Capa 2.")
+                return None
 
         except Exception as e:
-            print(f"❌ [Capa 1] Error en flujo NotebookLM: {e}")
+            print(f"❌ [Capa 1] Error Deep Research: {e}")
             return None
         finally:
             mcp.close()
