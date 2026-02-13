@@ -1,0 +1,8 @@
+🕷️ REPORTE DE INDEXABILIDAD DE GOOGLE 🕷️
+Total de posts analizados: 100
+
+✅ ESTADO VERDE (Listos para indexar sin problemas): 80 posts.
+🟡 ESTADO AMARILLO (Indexables pero mejorables): 20 posts.
+🔴 ESTADO ROJO (Peligro de penalización - NO INDEXAR): 0 posts.
+
+📋 LISTA NEGRA (ACCIÓN INMEDIATA REQUERIDA):
