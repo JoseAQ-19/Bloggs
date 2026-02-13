@@ -83,7 +83,16 @@ class NotebookMCPClient:
 
     def read_response(self, timeout=30):
         if not self.process: return None
-        # Simple blocking read (en producción usaríamos threads/async para timeout real)
+        
+        import select
+        
+        # Verificar si hay datos listos para leer
+        reads, _, _ = select.select([self.process.stdout], [], [], timeout)
+        
+        if not reads:
+            print(f"⚠️ Timeout lectura MCP ({timeout}s)")
+            return None
+            
         try:
             line = self.process.stdout.readline()
             if not line: return None
@@ -92,7 +101,7 @@ class NotebookMCPClient:
             print(f"Error lectura MCP: {e}")
             return None
 
-    def call_tool(self, name, arguments):
+    def call_tool(self, name, arguments, timeout=60):
         if not self.is_connected: return None
         req = {
             "jsonrpc": "2.0",
@@ -101,7 +110,7 @@ class NotebookMCPClient:
             "id": self.request_id
         }
         self.send_request(req)
-        return self.read_response()
+        return self.read_response(timeout=timeout)
 
     def close(self):
         if self.process:
@@ -244,7 +253,7 @@ class ResearcherV3:
             4. Controversias o Riesgos.
             5. Conclusión.
             """
-            query_resp = mcp.call_tool("notebook_query", {"notebook_id": notebook_id, "query": query_prompt})
+            query_resp = mcp.call_tool("notebook_query", {"notebook_id": notebook_id, "query": query_prompt}, timeout=180)
             
             # Extraer respuesta
             final_content = ""
