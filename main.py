@@ -203,9 +203,12 @@ def main():
             
             # Título Inteligente (IA)
             # Pedimos a Gemini un título optimizado para el idioma y contenido
-            prompt_title = f"Translate and optimize this YouTube title into a viral blog title in {lang.upper()}. OUTPUT ONLY THE TITLE TEXT. NO EXPLANATIONS. NO 'Here is options'. Title: {tutorial['title']}"
+            prompt_title = f"GENERATE A CLICKBAIT TITLE IN {lang.upper()} FOR: {tutorial['title']}. OUTPUT ONLY THE TITLE TEXT. NO 'Option 1'."
             resp_title = client.models.generate_content(model='gemini-2.0-flash', contents=prompt_title)
-            final_title = resp_title.text.strip().replace('"', '').split('\n')[0] # Quedarse solo con la primera línea
+            
+            # Sanitización estricta (Python layer)
+            raw_title = resp_title.text.strip().split('\n')[0]
+            final_title = SlugManager.sanitize(raw_title)
             
             slug = SlugManager.generate(final_title)
             

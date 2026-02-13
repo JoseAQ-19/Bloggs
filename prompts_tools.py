@@ -39,3 +39,14 @@ ESTRUCTURA:
 
 LONGITUD: 1500 palabras. IDIOMA: ESPAÑOL.
 """
+
+# Prompt específico para generar Títulos (Limpio)
+PROMPT_TITLE_GENERATOR = """
+TASK: Generate ONE definitive, viral, high-CTR blog title in {lang} for a tutorial about: "{topic}".
+RULES:
+- OUTPUT ONLY THE TITLE TEXT.
+- NO "Here is a title". NO "Option 1". NO "Title:".
+- NO Quotes around the text.
+- NO Asterisks.
+- Max 60 chars.
+"""
