@@ -769,3 +769,12 @@ img {
     color: black !important;
     font-weight: bold;
 }
+
+/* RESPONSIVE TABLES FIX */
+table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
