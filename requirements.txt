@@ -12,3 +12,4 @@ yt-dlp
 together
 openai
 feedparser
+exa_py
