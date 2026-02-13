@@ -11,3 +11,4 @@ youtube-transcript-api
 yt-dlp
 together
 openai
+feedparser
