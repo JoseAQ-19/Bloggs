@@ -15,7 +15,7 @@ class ToolsHunter:
         exa = Exa(api_key)
         
         # Búsqueda orientada a tutoriales técnicos escritos
-        query = f"best step-by-step technical tutorial for {niche} tools 2025"
+        query = f"best step-by-step technical tutorial for {niche} tools 2026 guide"
         print(f"🧠 [Exa] Buscando conocimiento: {query}...")
         
         try:
@@ -23,10 +23,10 @@ class ToolsHunter:
             result = exa.search_and_contents(
                 query,
                 type="neural",
-                # use_autoprompt=True, # REMOVED: Deprecated/Invalid
+                # use_autoprompt=True, # Desactivado por compatibilidad
                 num_results=1,
                 text=True, # Extraer texto completo
-                # category="blog" # REMOVED: Invalid category
+                # category="blog" # Desactivado
             )
             
             if result.results:
@@ -35,7 +35,7 @@ class ToolsHunter:
                 
                 return {
                     "title": hit.title,
-                    "video_url": hit.url, # Mantenemos key 'video_url' por compatibilidad, aunque es web
+                    "video_url": hit.url, # URL del artículo
                     "transcript": hit.text[:25000], # Texto del artículo
                     "niche": niche
                 }
@@ -48,8 +48,9 @@ class ToolsHunter:
             return None
 
 if __name__ == "__main__":
-    # Test
-    res = ToolsHunter.get_tutorial_content("python automation")
+    # Test específico solicitado
+    print("🧪 Probando extracción para 'Make.com automation'...")
+    res = ToolsHunter.get_tutorial_content("make.com automation")
     if res:
-        print(f"Título: {res['title']}")
-        print(f"Contenido (inicio): {res['transcript'][:200]}...")
+        print(f"   📄 Título: {res['title']}")
+        print(f"   📝 Contenido (Preview): {res['transcript'][:200]}...")
