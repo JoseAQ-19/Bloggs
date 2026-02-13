@@ -201,12 +201,15 @@ def main():
         for lang in ["en", "es"]:
             texto = escribir_blueprint(tutorial, lang)
             
-            # Título diferenciado por idioma
-            prefix = "Hacker's Guide: " if lang == "en" else "Estrategia de Negocio: "
-            title = f"{prefix}{tutorial['title']}"
-            slug = SlugManager.generate(title)
+            # Título Inteligente (IA)
+            # Pedimos a Gemini un título optimizado para el idioma y contenido
+            prompt_title = f"Translate and optimize this YouTube title into a viral blog title in {lang.upper()}. OUTPUT ONLY THE TITLE TEXT. NO EXPLANATIONS. NO 'Here is options'. Title: {tutorial['title']}"
+            resp_title = client.models.generate_content(model='gemini-2.0-flash', contents=prompt_title)
+            final_title = resp_title.text.strip().replace('"', '').split('\n')[0] # Quedarse solo con la primera línea
             
-            meta = {"titulo": title, "slug": slug}
+            slug = SlugManager.generate(final_title)
+            
+            meta = {"titulo": final_title, "slug": slug}
             guardar_post(meta, texto, lang, "tools")
             
         return
