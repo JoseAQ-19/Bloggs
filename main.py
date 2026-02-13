@@ -18,7 +18,7 @@ from google.genai import types
 # Importar Módulos Propios
 import researcher
 import trend_hunter 
-import tools_hunter # NUEVO
+import tools_hunter 
 from utils import SlugManager 
 from novum_visual import get_image 
 
@@ -30,34 +30,37 @@ except ValueError:
     print("⚠️ ADVERTENCIA: No se encontró API KEY.")
     client = None
 
-# --- SYSTEM PROMPTS ---
+# --- SYSTEM PROMPT GLOBAL ---
 SYSTEM_FORMAT_RULES = """
 CRITICAL FORMATTING RULES:
-1. NO TITLE REPETITION: Do NOT include the article title or H1 at the beginning. The website renders it automatically.
-2. START IMMEDIATELY: Start with the TL;DR or the Hook paragraph directly.
+1. NO TITLE REPETITION: Do NOT include the article title or H1 at the beginning.
+2. START IMMEDIATELY: Start with the TL;DR or the Hook paragraph.
 3. HEADERS: Use H2 (##) for main sections. NEVER use H1 (#).
 4. NO AI FLUFF: Do not use "In conclusion", "It is important to note".
 """
 
+# --- SYSTEM PROMPT TOOLS (NOVUM STYLE) ---
 PROMPT_BLUEPRINT = """
-ACT COMO: Senior Technical Writer & DevOps Engineer.
-TASK: Convert this raw YouTube transcript into a Professional 'Novum Blueprint' Tutorial.
+ACT AS: "Novum Tech Guru" (Hacker Style, Sarcastic, Highly Efficient).
+TASK: Convert this raw information into a Viral "Novum Blueprint" Tutorial.
 
-SOURCE VIDEO: "{title}"
-TRANSCRIPT RAW:
+SOURCE INFO: "{title}"
+RAW DATA:
 {transcript}
 
-STRUCTURE (MANDATORY):
-1. **The Problem:** Clear explanation of what we are solving.
-2. **The Stack:** List of tools/software required.
-3. **The Blueprint (Step-by-Step):** Detailed instructions. Use code blocks for scripts.
-4. **Pro Tips:** Advanced optimization advice.
+MANDATORY STYLE (THE NOVUM WAY):
+- TONE: Direct, authoritative, slightly cynical about complexity.
+- HOOK: Start with "Here's where most people get it wrong..." or "Forget the manual, let's build."
+- FORMAT: Use tables for comparisons. Use code blocks for steps.
+- VALUE: Extract the hidden tricks, the "clicks" that matter. Ignore the fluff.
 
-RULES:
-- Clean up spoken language. Make it concise documentation.
-- NO "In this video", "Subscribe", or "Smash the like button".
-- Use Markdown headers (##).
-- TONE: Professional, technical, zero fluff.
+STRUCTURE:
+1. **The 'Why' (No BS):** Why this tool saves you hours.
+2. **The Setup (Fast):** Skip the signup screen screenshots. Go to the config.
+3. **The Workflow (Step-by-Step):** Actionable steps. "Click here, type this."
+4. **Hacker Tips:** Undocumented features found in the text.
+
+LENGTH: 1500 words.
 """
 
 # --- CONFIGURACIÓN DE NICHOS ---
@@ -66,36 +69,36 @@ NICHES = {
         "name": "IA & SaaS",
         "output_dir": "content/ia",
         "search_context": "SaaS AI tools LLM benchmarks B2B technology news",
-        "prompt_es": "ROL: Desarrollador Senior y Analista de SaaS. TONO: Técnico pero accesible.",
-        "prompt_en": "ROLE: Senior Developer & SaaS Analyst. TONE: Technical yet accessible."
+        "prompt_es": """ROL: Desarrollador Senior y Analista de SaaS. TONO: Técnico pero accesible.""",
+        "prompt_en": """ROLE: Senior Developer & SaaS Analyst. TONE: Technical yet accessible."""
     },
     "fitness": {
         "name": "Biohacking & Fitness",
         "output_dir": "content/fitness",
         "search_context": "hypertrophy science biohacking longevity pubmed study",
-        "prompt_es": "ROL: Entrenador Basado en Evidencia. TONO: Motivador, científico.",
-        "prompt_en": "ROLE: Evidence-Based Coach. TONE: Motivational, scientific."
+        "prompt_es": """ROL: Entrenador Basado en Evidencia. TONO: Motivador, científico.""",
+        "prompt_en": """ROLE: Evidence-Based Coach. TONE: Motivational, scientific."""
     },
     "crypto": {
         "name": "Crypto & Web3",
         "output_dir": "content/crypto",
         "search_context": "cryptocurrency technical analysis DeFi blockchain finance news",
-        "prompt_es": "ROL: Inversor de Wall Street. TONO: Analítico, urgente.",
-        "prompt_en": "ROLE: Wall Street Investor. TONE: Analytical, urgent."
+        "prompt_es": """ROL: Inversor de Wall Street. TONO: Analítico, urgente.""",
+        "prompt_en": """ROLE: Wall Street Investor. TONE: Analytical, urgent."""
     },
     "youtube": {
         "name": "Creator Economy",
         "output_dir": "content/youtube",
         "search_context": "creator economy youtube algorithm twitch stats influencer business",
-        "prompt_es": "ROL: Estratega Digital. TONO: Analítico, enfocado en negocio.",
-        "prompt_en": "ROLE: Digital Strategist. TONE: Business-focused."
+        "prompt_es": """ROL: Estratega Digital. TONO: Analítico, enfocado en negocio.""",
+        "prompt_en": """ROLE: Digital Strategist. TONE: Business-focused."""
     },
     "viral": {
         "name": "Viral & Trends",
         "output_dir": "content/viral",
         "search_context": "viral internet trends reddit twitter drama pop culture",
-        "prompt_es": "ROL: Redactor Revista Digital. TONO: Emocional, curioso.",
-        "prompt_en": "ROLE: Senior Digital Editor. TONE: Emotional, engaging."
+        "prompt_es": """ROL: Redactor Revista Digital. TONO: Emocional, curioso.""",
+        "prompt_en": """ROLE: Senior Digital Editor. TONE: Emotional, engaging."""
     },
     "tools": {
         "name": "Novum Tools",
@@ -113,19 +116,16 @@ STRUCTURE_TEMPLATES = {
 COMPLETED_FILE = 'data/completed.txt'
 
 def safety_check(topic):
-    print(f"👮‍♂️ Safety Check: {topic}...")
     try:
         prompt = f"ACT AS: AdSense Moderator. TOPIC: '{topic}'. OUTPUT: SAFE or UNSAFE."
         resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
         if "UNSAFE" in resp.text.strip().upper():
-            print(f"🚨 BLOQUEADO: {topic}")
             return False
         return True
     except:
         return True
 
 def planificar_articulo(tema, contexto, lang, category_config):
-    print(f"🏗️ Planificando ({lang}) - Nicho: {category_config['name']}...")
     prompt_persona = category_config['prompt_es'] if lang == 'es' else category_config['prompt_en']
     prompt = f"{prompt_persona}\n{SYSTEM_FORMAT_RULES}\nACT LIKE EDITOR. Topic: {tema}\nContext: {contexto[:1000]}\nSTRICT JSON: {{ \"titulo\": \"...\", \"slug_sugerido\": \"...\" }}"
     try:
@@ -146,28 +146,20 @@ def escribir_articulo(meta, contexto, lang, category_config):
     return resp.text.strip()
 
 def escribir_blueprint(tutorial_data):
-    """
-    Si el contenido ya viene de SurfSense (Markdown limpio), lo devuelve.
-    Si fuera transcript sucio, lo procesaría con Gemini.
-    """
-    transcript = tutorial_data.get('transcript', '')
+    """Genera el post de herramienta SIEMPRE reescribiendo con personalidad hacker."""
+    print(f"🛠️ Escribiendo Blueprint (Hacker Style): {tutorial_data['title']}...")
     
-    # Detección simple: Si tiene estructura Markdown clara (H1, H2), asumimos que está listo
-    if "# " in transcript and "## " in transcript:
-        print("✅ Contenido de SurfSense detectado. Saltando reescritura Gemini (Ahorro de costes).")
-        return transcript
-
-    print(f"🛠️ Escribiendo Blueprint con Gemini: {tutorial_data['title']}...")
+    # FORZAMOS REESCRITURA SIEMPRE. Adiós "Passthrough".
     prompt = PROMPT_BLUEPRINT.format(
         title=tutorial_data['title'],
-        transcript=transcript[:25000]
+        transcript=tutorial_data['transcript'][:30000]
     ) + f"\n{SYSTEM_FORMAT_RULES}"
     
     resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
     return resp.text.strip()
 
 def guardar_post(meta, contenido, lang, category):
-    config = NICHES.get(category, NICHES['ia']) # Fallback safe
+    config = NICHES.get(category, NICHES['ia']) 
     output_dir = config.get('output_dir', f'content/{category}')
     os.makedirs(output_dir, exist_ok=True)
     
@@ -208,16 +200,20 @@ def main():
     # --- MODO TOOLS ---
     if cat == "tools":
         print("🚀 INICIANDO BLUEPRINT ENGINE")
-        target_niche = random.choice(["ia", "crypto", "youtube", "fitness", "viral"])
-        print(f"🎲 Nicho objetivo: {target_niche}")
         
-        tutorial = tools_hunter.ToolsHunter.get_tutorial_content(target_niche)
+        # SIEMPRE "IA" para herramientas técnicas como Make.com
+        target_niche = "ia" 
+        print(f"🎲 Nicho forzado para prueba: {target_niche}")
+        
+        # Buscamos "Make.com automation" explícitamente en esta prueba para garantizar calidad
+        tutorial = tools_hunter.ToolsHunter.get_tutorial_content("Make.com automation")
+        
         if not tutorial:
             print("💤 No tutorial found.")
             return
             
         texto = escribir_blueprint(tutorial)
-        meta = {"titulo": f"Guide: {tutorial['title']}", "slug": SlugManager.generate(tutorial['title'])}
+        meta = {"titulo": f"Hacker's Guide: {tutorial['title']}", "slug": SlugManager.generate(tutorial['title'])}
         guardar_post(meta, texto, "en", "tools")
         return
 

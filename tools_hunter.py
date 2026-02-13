@@ -14,19 +14,20 @@ class ToolsHunter:
             
         exa = Exa(api_key)
         
-        # Búsqueda orientada a tutoriales técnicos escritos
-        query = f"best step-by-step technical tutorial for {niche} tools 2026 guide"
-        print(f"🧠 [Exa] Buscando conocimiento: {query}...")
+        # BÚSQUEDA OPTIMIZADA (VIRAL TRANSCRIPTION)
+        # Buscamos blogs que reseñen los mejores vídeos o tutoriales paso a paso reales, no docs.
+        query = f"best step-by-step youtube tutorial breakdown for {niche} tools 2026 hidden features tips"
+        print(f"🧠 [Exa] Buscando 'know-how' real: {query}...")
         
         try:
             # Exa hace la magia: Busca y extrae contenido limpio
             result = exa.search_and_contents(
                 query,
                 type="neural",
-                # use_autoprompt=True, # Desactivado por compatibilidad
+                # use_autoprompt=True, # Desactivado
                 num_results=1,
                 text=True, # Extraer texto completo
-                # category="blog" # Desactivado
+                # category="blog" # Dejamos abierto
             )
             
             if result.results:
@@ -36,7 +37,7 @@ class ToolsHunter:
                 return {
                     "title": hit.title,
                     "video_url": hit.url, # URL del artículo
-                    "transcript": hit.text[:25000], # Texto del artículo
+                    "transcript": hit.text[:30000], # Texto del artículo (ampliado)
                     "niche": niche
                 }
             
@@ -48,9 +49,5 @@ class ToolsHunter:
             return None
 
 if __name__ == "__main__":
-    # Test específico solicitado
-    print("🧪 Probando extracción para 'Make.com automation'...")
-    res = ToolsHunter.get_tutorial_content("make.com automation")
-    if res:
-        print(f"   📄 Título: {res['title']}")
-        print(f"   📝 Contenido (Preview): {res['transcript'][:200]}...")
+    # Test
+    pass
