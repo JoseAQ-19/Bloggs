@@ -22,7 +22,11 @@ jobs:
           mkdir -p ~/.notebooklm-mcp
           echo "$NOTEBOOKLM_AUTH" > ~/.notebooklm-mcp/auth.json
       - name: Run Tools Generator
-        env: { GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }} }
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+          TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
+          NEBIUS_API_KEY: ${{ secrets.NEBIUS_API_KEY }}
         run: python main.py --category tools
       - name: Push
         run: |
