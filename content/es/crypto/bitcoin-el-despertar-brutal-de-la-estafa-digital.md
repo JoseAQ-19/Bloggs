@@ -53,9 +53,3 @@ Además de la huella energética y de carbono, la minería de Bitcoin tiene un i
 La situación actual del mercado de Bitcoin es sombría.  La manipulación, el fraude, la volatilidad y el impacto ambiental han erosionado la confianza en la criptomoneda y en el ecosistema que la rodea.  Nassim Taleb, autor de *El Cisne Negro*, argumenta que Bitcoin vale cero, basándose en la lógica de que, si existe la más mínima posibilidad de que caiga a cero, su valor presente debería ser cero, ya que no genera dividendos.  Además, critica su ineficacia como moneda y su fracaso como cobertura contra la inflación.
 
 Sin embargo, algunos investigadores creen que la regulación podría ser la clave para limpiar el mercado.  Estudios muestran que las bolsas reguladas, como las que tienen BitLicense, no muestran signos de *wash trading* sistemático, mientras que las no reguladas fallan en casi todas las pruebas de integridad de mercado.
-
-## Veredicto: Una Necesaria Reflexión
-
-Bitcoin no es la solución a los problemas financieros del mundo.  Tampoco es una inversión segura ni un refugio contra la inflación.  Es un activo especulativo, propenso a la manipulación y al fraude, con un impacto ambiental significativo.  El "despertar brutal" a esta realidad es necesario para que los inversores tomen decisiones informadas y para que los reguladores tomen medidas para proteger a los consumidores y el medio ambiente.
-
-La clave reside en una regulación estricta y una supervisión efectiva del mercado.  Mientras el sector no regulado siga siendo un refugio para la actividad ilícita y la especulación manipulada, el ecosistema de Bitcoin seguirá siendo un riesgo para los inversores y una amenaza para la estabilidad financiera. La promesa de una revolución financiera descentralizada se ha visto empañada por la codicia y la falta de control. Es hora de replantear el futuro de las criptomonedas con una visión más realista y responsable.

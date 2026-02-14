@@ -57,9 +57,3 @@ El riesgo político se ha expandido, trascendiendo las tensiones geopolíticas h
 ## Polarización Extrema: La Brecha se Ensancha
 
 La "polarización multidimensional" es evidente: mercados divididos entre sectores de IA y no-IA, y una economía en forma de K. La gran controversia reside en si la IA generará productividad real para las "otras 493" empresas del S&P 500 o si, por el contrario, provocará una destrucción de valor en sectores de servicios y legales, como lo sugiere el desplome de acciones ligadas a datos y consultoría.
-
-## El Veredicto: Prepararse para la Tormenta
-
-La "falsa calma" post-electoral se basaba en la ilusión de que la desinflación permitiría a los bancos centrales recortar tasas mientras la IA impulsaba un crecimiento ilimitado. Esa narrativa se ha desmoronado. Los mercados han entrado en una fase de reajuste brutal, donde la lógica da paso al pánico.
-
-Si bien las proyecciones estructurales (PIB, ganancias corporativas) no auguran un colapso total inminente, la fragilidad del sentimiento inversor es palpable. La convergencia de las dudas sobre la rentabilidad de la IA, la volatilidad electoral global y la búsqueda desesperada de activos refugio (oro a $5.000) indica que 2026 no será el año de consolidación tranquila que muchos anticipaban, sino un período de alta volatilidad y rotación defensiva de activos. En este contexto, la prudencia y la diversificación son las mejores armas para protegerse de la tormenta que se avecina.

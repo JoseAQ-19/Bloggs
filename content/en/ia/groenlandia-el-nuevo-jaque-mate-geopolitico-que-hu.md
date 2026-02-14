@@ -9,7 +9,7 @@ image: https://image.pollinations.ai/prompt/A%20colossal%2C%20glacial%20iceberg%
 language: en
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
-title: 'Groenlandia: El Nuevo Jaque Mate Geopolítico que Hunde a Silicon Valley'
+title: 'Greenland: The New Geopolitical Checkmate Sinking Silicon Valley'
 translationKey: groenlandia-el-nuevo-jaque-mate-geopolitico-que-hu
 type: ia
 ---

@@ -35,7 +35,3 @@ Este programa no solo te proporciona una base teórica sólida, sino que tambié
 4.  **Éxito Comprobado de los Alumnos:** Los graduados de Alma College han sido aceptados en prestigiosas escuelas de posgrado como la Universidad de Duke y la Universidad de Michigan. Además, los ex alumnos ocupan puestos importantes en diversos campos, desde la coordinación de bienestar hasta la investigación clínica.
 
 5.  **Desarrollo de Habilidades Prácticas:** El programa enfatiza el desarrollo de habilidades prácticas, como la evaluación de datos de salud y estado físico, y el diseño de prescripciones de ejercicio. Esto te prepara para pasantías, empleo de nivel inicial o estudios avanzados en áreas como rehabilitación, medicina e investigación biomédica.
-
-## Veredicto Final
-
-Si buscas un programa que te prepare integralmente para una carrera dinámica en el campo del movimiento humano y las ciencias de la salud, el programa de Kinesiología y Ciencias de la Salud de Alma College merece tu consideración. Su enfoque actualizado, el apoyo de la facultad y el éxito demostrado de sus alumnos lo convierten en una opción sólida para aquellos que aspiran a marcar la diferencia en la vida de las personas a través de la ciencia del movimiento.

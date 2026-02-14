@@ -1,5 +1,5 @@
 ---
-description: Cultura pop, salseo y tendencias de internet sin filtros.
+description: Pop culture, gossip, and internet trends without filters.
 featured_image: /images/_index.jpg
 title: Viral & Trends
 translationKey: section-viral

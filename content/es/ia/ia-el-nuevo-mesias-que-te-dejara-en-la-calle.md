@@ -58,9 +58,3 @@ La controversia más tangible es el vínculo directo entre IA y pobreza extrema.
 ## ¿Dominación o Extinción? Los Riesgos Existenciales
 
 Más allá de lo económico, persisten riesgos existenciales. Algunos expertos advierten que la IA podría escapar al control humano, llevando a escenarios de extinción o dominación, similar a cómo los humanos desplazaron a los gorilas. La IA también podría facilitar regímenes totalitarios mediante vigilancia masiva y la manipulación de valores, eliminando la privacidad y la libertad individual.
-
-## El Veredicto: Un Futuro Incierto
-
-La narrativa de la Inteligencia Artificial como un "Nuevo Mesías" es, en gran medida, una construcción mitológica que oculta una realidad económica áspera. Si bien se prometió una era de abundancia y eficiencia, los resultados apuntan a una "destrucción no creativa": la eliminación de empleos y el aumento de costos de vida (especialmente vivienda) sin un contraparte suficiente en productividad real o bienestar social generalizado.
-
-La tecnología se ha convertido en un mecanismo de concentración de riqueza en manos de pocas corporaciones "superestrellas" y una herramienta especulativa en los mercados financieros, mientras deja a la "economía real" y a los trabajadores vulnerables frente a la obsolescencia y la pobreza. A menos que se tomen medidas para mitigar los riesgos y redistribuir los beneficios, la IA podría convertirse en la profecía autocumplida de un futuro desigual y precario para muchos. No se trata de demonizar la tecnología, sino de exigir una reflexión crítica sobre su impacto y de buscar soluciones que garanticen un futuro más justo y equitativo para todos. El futuro no está escrito, pero las decisiones que tomemos hoy determinarán si la IA se convierte en una fuerza para el bien o en un catalizador de la desigualdad.

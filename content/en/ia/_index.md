@@ -1,8 +1,8 @@
 ---
-description: Análisis técnico de Inteligencia Artificial y herramientas SaaS B2B.
+description: Technical analysis of Artificial Intelligence and B2B SaaS tools.
 featured_image: /images/ia-section-hero.jpg
 layout: list
-title: IA & SaaS
+title: AI & SaaS
 translationKey: section-ia
 type: ia
 ---

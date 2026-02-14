@@ -54,11 +54,3 @@ La vigilancia masiva no es solo una cuestión teórica. Tiene consecuencias real
 Los asistentes de voz en el hogar interactúan con niños que no tienen la capacidad de dar consentimiento informado. A pesar de leyes como COPPA en EE. UU., es difícil distinguir entre el uso adulto e infantil, lo que lleva a la recolección inadvertida de datos de menores y posibles violaciones de privacidad a largo plazo.
 
 Los data brokers venden listas de personas con características sensibles, como "víctimas de violación", "alcohólicos" o personas con "disfunción eréctil", lo que pone en riesgo a los individuos frente a discriminación por parte de aseguradoras o empleadores.
-
-## El Veredicto: ¿Podemos Recuperar el Control?
-
-El teléfono móvil y el ecosistema digital asociado funcionan como dispositivos de vigilancia activa. El usuario no solo paga monetariamente por el dispositivo y la conexión, sino que subvenciona el modelo de negocio con su trabajo digital, su atención y sus datos íntimos.
-
-El capitalismo de vigilancia ha creado una asimetría de poder donde las corporaciones y los gobiernos poseen un conocimiento profundo sobre los individuos, mientras que estos operan en la ignorancia sobre cómo son observados. Aunque existen regulaciones como el RGPD (GDPR) en Europa y la CCPA en California, la industria de los data brokers y la rápida evolución de la IA hacia la "persuasión personalizada" a menudo superan la capacidad de las leyes actuales para proteger la autonomía del consumidor.
-
-La conveniencia tecnológica se intercambia por una vigilancia continua, donde el comportamiento humano es modificado y comercializado, a menudo sin un consentimiento verdaderamente informado o una vía clara para optar por no participar. La pregunta que debemos hacernos es: ¿hasta dónde estamos dispuestos a ceder nuestra privacidad a cambio de la comodidad digital? La respuesta, en última instancia, determinará el futuro de nuestra autonomía en la era digital. La vigilancia, aunque aparentemente inevitable, no debe convertirse en el nuevo orden. La resistencia, informada y consciente, es el primer paso para recuperar el control.

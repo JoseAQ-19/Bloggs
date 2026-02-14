@@ -58,9 +58,3 @@ Shoshana Zuboff, autora de *La Era del Capitalismo de la Vigilancia*, describe e
 A pesar de las teóricas multas del GDPR, la aplicación contra los *data brokers* es lenta e ineficaz. Estas empresas operan en una zona gris regulatoria, vendiendo datos más rápido de lo que los reguladores pueden investigar. Términos como "interés legítimo" o "mejora del servicio" en los contratos permiten una recolección de datos excesivamente amplia y vaga, proporcionando una cobertura legal para prácticas invasivas.
 
 La realidad es que la regulación actual está superada por la velocidad y la sofisticación del mercado de datos. Las leyes de privacidad, diseñadas en una era digital diferente, no son suficientes para proteger a los usuarios de las tácticas de vigilancia actuales.
-
-## El Veredicto: La Traición Consumada
-
-El "espionaje consentido" es un negocio redondo porque monetiza tu vida privada con un margen de beneficio extraordinario. Tu móvil se ha convertido en un dispositivo de espionaje, diseñado para que capitules ante términos legales incomprensibles a cambio de utilidad digital.
-
-El actual marco de "aviso y consentimiento" ha fracasado. No protege tu autonomía, sino que perpetúa tu vulnerabilidad. Mientras eres traicionado por aplicaciones que rastrean desde tu ubicación física hasta tus patrones de sueño, los *data brokers* comercializan esta información con gobiernos y empresas, convirtiendo la privacidad en una ilusión y el GDPR en una "armadura de papel". Bajo el modelo actual, el precio de la participación en la vida digital moderna es la vigilancia. ¿Estás dispuesto a pagarlo? La elección, aunque ilusoria, sigue siendo tuya.

@@ -1,5 +1,5 @@
 ---
-description: Análisis financiero, blockchain y tendencias del mercado cripto.
+description: Financial analysis, blockchain, and crypto market trends.
 featured_image: /images/crypto-section-hero.jpg
 layout: list
 title: Crypto & Web3

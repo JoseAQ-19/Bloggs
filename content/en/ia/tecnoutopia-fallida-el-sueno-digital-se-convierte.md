@@ -9,7 +9,7 @@ image: https://image.pollinations.ai/prompt/Okay%2C%20heres%20that%20single-sent
 language: en
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
-title: 'Tecnoutopía Fallida: El Sueño Digital Se Convierte en Pesadilla Neoliberal'
+title: 'Failed Technoutopia: The Digital Dream Becomes a Neoliberal Nightmare'
 translationKey: tecnoutopia-fallida-el-sueno-digital-se-convierte
 type: ia
 ---

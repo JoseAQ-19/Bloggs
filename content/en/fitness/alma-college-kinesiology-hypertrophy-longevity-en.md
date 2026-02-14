@@ -56,8 +56,4 @@ Another area for improvement is to expand the program's offerings in technology 
 
 Finally, while the program emphasizes hands-on experience, expanding opportunities for internships and clinical rotations could further enhance students' practical skills and professional network.
 
-### The Verdict: A Solid Foundation for Future Leaders
-
-Alma College's Kinesiology and Health Sciences program is more than just a degree; it's an investment in a future where human performance and longevity are understood through the lens of science and data. The program's emphasis on clinical application, coupled with its hands-on learning opportunities and focus on personalized development, sets it apart from traditional kinesiology programs.
-
-For students seeking a comprehensive, evidence-based education in human movement and health sciences, Alma College's KHS program is a compelling choice. It provides a solid foundation for a wide range of careers in healthcare and wellness, while also equipping students with the skills and knowledge to explore the possibilities of biohacking and contribute to the future of human optimization.
+#

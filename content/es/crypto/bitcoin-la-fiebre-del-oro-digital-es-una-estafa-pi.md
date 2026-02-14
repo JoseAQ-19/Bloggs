@@ -47,13 +47,3 @@ El crecimiento del mercado de criptoactivos plantea riesgos para la estabilidad 
 El Banco de España ha reconocido los riesgos de los criptoactivos para la estabilidad financiera. La aprobación de ETFs de Bitcoin al contado en Estados Unidos amplía la base de inversores y aumenta la interconexión con el sistema financiero tradicional.
 
 Además, la manipulación del mercado es una preocupación constante. La falta de transparencia y la presencia de actores con información privilegiada facilitan la manipulación de precios y la estafa a inversores minoristas.
-
-## Veredicto: Precaución y Pensamiento Crítico
-
-Bitcoin no es inherentemente una estafa piramidal en el sentido estricto, pero presenta características que generan preocupación. Su volatilidad, centralización parcial, dependencia de la entrada de nuevos participantes y el potencial de manipulación del mercado lo convierten en una inversión de alto riesgo.
-
-La narrativa de la "fiebre del oro digital" es atractiva, pero es crucial abordarla con escepticismo y pensamiento crítico. Antes de invertir en Bitcoin, es fundamental comprender los riesgos involucrados, diversificar la cartera y no invertir más de lo que se puede permitir perder.
-
-En lugar de dejarse llevar por el hype y el FOMO (miedo a perderse algo), es fundamental realizar una investigación exhaustiva y formarse una opinión propia basada en datos y análisis objetivos. La promesa de ganancias rápidas y fáciles suele ser una señal de alerta.
-
-Bitcoin puede tener un papel en el futuro del sistema financiero, pero aún enfrenta importantes desafíos. La regulación, la escalabilidad y la adopción masiva son obstáculos que deben superarse para que se convierta en una alternativa viable al dinero tradicional. Mientras tanto, la precaución y el pensamiento crítico son las mejores herramientas para navegar por este mercado volátil y lleno de incertidumbre.
