@@ -10,7 +10,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: 'De Blade Runner a Glovo: La Distopía Ya Está Aquí (Y Pide a Domicilio)'
-translationKey: de-blade-runner-a-glovo-la-distopia-ya-esta-aqui-y
+translationKey: tecnoutopia-fallida-el-sueno-digital-se-convierte
 type: ia
 ---
 

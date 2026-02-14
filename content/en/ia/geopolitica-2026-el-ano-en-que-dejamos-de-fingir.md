@@ -10,7 +10,7 @@ language: en
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: 'Geopolítica 2026: El Año en que Dejamos de Fingir'
-translationKey: geopolitica-2026-el-ano-en-que-dejamos-de-fingir
+translationKey: geopolitica-2026-el-ano-que-dejamos-de-fingir
 type: ia
 ---
 

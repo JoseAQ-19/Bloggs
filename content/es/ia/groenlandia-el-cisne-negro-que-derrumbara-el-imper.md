@@ -12,7 +12,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'Groenlandia: El Cisne Negro que Derrumbará el Imperio Digital de EEUU'
-translationKey: groenlandia-el-cisne-negro-que-derrumbara-el-imper
+translationKey: groenlandia-el-nuevo-jaque-mate-geopolitico-que-hu
 type: ia
 ---
 

@@ -7,14 +7,14 @@
         {{ range .Site.Languages }}
           {{ $loopLang := .Lang }}
           {{ if eq $loopLang $currentLang }}
-            <!-- Idioma Actual (Negrita) -->
+            <!-- Idioma Actual -->
             <li><span class="lang-active" style="color:var(--primary); font-weight:800; cursor:default;">{{ .Lang | upper }}</span></li>
           {{ else }}
             <!-- Enlace al Otro Idioma -->
             <li>
                 {{ $targetURL := "" }}
                 
-                {{/* 1. Intentar buscar traducción de la página actual */}}
+                {{/* 1. Traducción exacta */}}
                 {{ if $page.IsTranslated }}
                     {{ range $page.Translations }}
                         {{ if eq .Language.Lang $loopLang }}
@@ -23,11 +23,22 @@
                     {{ end }}
                 {{ end }}
                 
-                {{/* 2. Fallback a la Home del idioma si no hay traducción exacta */}}
+                {{/* 2. Fallback Inteligente (Misma Sección) */}}
+                {{ if eq $targetURL "" }}
+                   {{ if $page.Section }}
+                       {{/* Construir ruta de sección: /es/crypto/ o /crypto/ (para EN) */}}
+                       {{ if eq $loopLang "en" }}
+                           {{ $targetURL = printf "/%s/" $page.Section }}
+                       {{ else }}
+                           {{ $targetURL = printf "/%s/%s/" $loopLang $page.Section }}
+                       {{ end }}
+                   {{ end }}
+                {{ end }}
+
+                {{/* 3. Fallback Final (Home) */}}
                 {{ if eq $targetURL "" }}
                    {{ $targetURL = printf "/%s/" $loopLang }}
-                   {{/* Ajuste para el idioma default si está en raíz */}}
-                   {{ if eq $loopLang .Site.DefaultContentLanguage }}{{ $targetURL = "/" }}{{ end }} 
+                   {{ if eq $loopLang "en" }}{{ $targetURL = "/" }}{{ end }} 
                 {{ end }}
                 
                 <a href="{{ $targetURL }}" class="lang-link" style="color:var(--text-color); opacity:0.5; text-decoration:none; font-weight:400;">{{ .Lang | upper }}</a>

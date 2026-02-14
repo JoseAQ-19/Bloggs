@@ -14,7 +14,7 @@ tags:
 - IA & SaaS
 - Trends
 title: 'IA y el Futuro del Trabajo: Un Análisis Técnico Profundo'
-translationKey: ia-futuro-trabajo-analisis-tecnico
+translationKey: ai-job-market-impact-america
 type: ia
 ---
 

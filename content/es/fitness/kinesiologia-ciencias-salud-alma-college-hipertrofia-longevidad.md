@@ -14,7 +14,7 @@ tags:
 - Trends
 title: 'Kinesiología y Ciencias de la Salud en Alma College: Hipertrofia, Ciencia
   y Longevidad'
-translationKey: kinesiologia-ciencias-salud-alma-college-hipertrofia-longevidad
+translationKey: alma-college-kinesiology-hypertrophy-longevity
 type: fitness
 ---
 

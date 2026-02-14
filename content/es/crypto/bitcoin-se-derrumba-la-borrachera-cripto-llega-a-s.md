@@ -12,7 +12,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'Bitcoin se derrumba: la borrachera cripto llega a su fin (y el...'
-translationKey: bitcoin-se-derrumba-la-borrachera-cripto-llega-a-s
+translationKey: bitcoin-ha-muerto-y-esta-vez-es-para-siempre-autop
 type: crypto
 ---
 

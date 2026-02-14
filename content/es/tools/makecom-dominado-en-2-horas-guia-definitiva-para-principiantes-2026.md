@@ -14,7 +14,7 @@ tags:
 - Blueprints
 title: "¡Make.com DOMINADO en 2 Horas! \U0001F92F Guía DEFINITIVA para Principiantes
   (2026)"
-translationKey: makecom-dominado-en-2-horas-guia-definitiva-para-principiantes-2026
+translationKey: makecom-domination-in-2-hours-2026-beginners-guide-no-coding
 type: tools
 ---
 

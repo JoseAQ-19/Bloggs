@@ -10,7 +10,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: ': El Año que el Mundo se Cayó a Pedazos'
-translationKey: el-ano-que-el-mundo-se-cayo-a-pedazos
+translationKey: la-ia-te-miente-por-que-la-personalidad-artificial
 type: ia
 ---
 

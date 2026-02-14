@@ -13,7 +13,7 @@ tags:
 - Creator Economy
 - Trends
 title: 'SUBBD Token y la IA: ¿Revolución en la Economía del Creador de $191B?'
-translationKey: subbd-token-ia-revolucion-economia-creador
+translationKey: subbd-token-ai-creator-economy
 type: youtube
 ---
 

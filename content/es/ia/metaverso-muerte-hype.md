@@ -16,7 +16,7 @@ tags:
 - Geopolitics
 - remastered
 title: 'Metaverso: El cementerio digital de las ambiciones fallidas'
-translationKey: metaverso-muerte-hype
+translationKey: metaverse-pyramid-scheme
 type: ia
 ---
 

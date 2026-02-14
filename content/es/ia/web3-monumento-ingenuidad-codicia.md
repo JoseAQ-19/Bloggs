@@ -16,7 +16,7 @@ tags:
 - Geopolitics
 - remastered
 title: 'Web3: Un monumento a la ingenuidad y la codicia (Capítulo 34)'
-translationKey: web3-monumento-ingenuidad-codicia
+translationKey: monument-naivety-greed
 type: ia
 ---
 
