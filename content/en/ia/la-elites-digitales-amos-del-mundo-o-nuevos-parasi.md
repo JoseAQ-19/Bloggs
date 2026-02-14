@@ -9,12 +9,12 @@ image: https://image.pollinations.ai/prompt/Una%20sola%20oraci%C3%B3n%20que%20de
 language: en
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
-title: 'La Élites Digitales: ¿Amos del Mundo o Nuevos Parásitos?'
+title: 'Digital Elites: Masters of the World or New Parasites?'
 translationKey: la-elites-digitales-amos-del-mundo-o-nuevos-parasi
 type: ia
 ---
 
-## ¿Élites Digitales: Arquitectos del Futuro o Nuevos Parásitos de la Sociedad?
+## Digital Elites: Architects of the Future or New Parasites of Society?
 
 The rise of tech giants has sparked a debate: Are these digital elites benevolent architects of the future, or are they modern-day parasites, extracting value while eroding societal foundations? This isn't just about innovation; it's about power, control, and the very fabric of our democracies.
 
