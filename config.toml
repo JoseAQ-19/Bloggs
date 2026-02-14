@@ -1,5 +1,5 @@
 baseURL = "https://novumworld.com/"
-languageCode = "es-es"
+defaultContentLanguage = "en" # CAMBIO: Inglés por defecto como pediste
 title = "NovumWorld"
 theme = "ananke"
 
@@ -7,63 +7,96 @@ theme = "ananke"
   pagerSize = 6
 
 [params]
-  description = "El futuro de la tecnología y la IA"
+  description = "The future of technology and AI"
   custom_css = ["css/custom.css"]
 
-# --- NAVIGATION SYSTEM (RECONSTRUCTED) ---
+# --- MULTILINGUAL ARCHITECTURE ---
 
-# --- SECCIONES PRINCIPALES ---
-[[menu.main]]
-  identifier = "ia"
-  name = "🤖 AI & SaaS"
-  url = "/ia/"
-  weight = 10
+[languages]
+  [languages.en]
+    languageName = "English"
+    contentDir = "content/en"
+    weight = 1
+    title = "NovumWorld"
+    
+  [languages.es]
+    languageName = "Español"
+    contentDir = "content/es"
+    weight = 2
+    title = "NovumWorld (ES)"
 
-[[menu.main]]
-  identifier = "crypto"
-  name = "🪙 Crypto"
-  url = "/crypto/"
-  weight = 20
+# --- MENUS POR IDIOMA ---
 
-[[menu.main]]
-  identifier = "fitness"
-  name = "💪 Biohacking"
-  url = "/fitness/"
-  weight = 30
+[languages.en.menu]
+  [[languages.en.menu.main]]
+    identifier = "ia"
+    name = "🤖 AI & SaaS"
+    url = "/ia/"
+    weight = 10
+  [[languages.en.menu.main]]
+    identifier = "crypto"
+    name = "🪙 Crypto"
+    url = "/crypto/"
+    weight = 20
+  [[languages.en.menu.main]]
+    identifier = "fitness"
+    name = "💪 Biohacking"
+    url = "/fitness/"
+    weight = 30
+  [[languages.en.menu.main]]
+    identifier = "youtube"
+    name = "🔴 Creators"
+    url = "/youtube/"
+    weight = 40
+  [[languages.en.menu.main]]
+    identifier = "viral"
+    name = "🔥 Viral"
+    url = "/viral/"
+    weight = 50
+  [[languages.en.menu.main]]
+    identifier = "tools"
+    name = "🛠️ Tools"
+    url = "/tools/"
+    weight = 60
+  [[languages.en.menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 90
 
-[[menu.main]]
-  identifier = "youtube"
-  name = "🔴 Creators"
-  url = "/youtube/"
-  weight = 40
-
-[[menu.main]]
-  identifier = "viral"
-  name = "🔥 Viral"
-  url = "/viral/"
-  weight = 50
-
-[[menu.main]]
-  identifier = "tools"
-  name = "🛠️ Tools"
-  url = "/tools/"
-  weight = 60
-
-# --- SECCIONES LEGALES (FOOTER/SIDEBAR) ---
-[[menu.main]]
-  identifier = "about"
-  name = "Sobre Nosotros"
-  url = "/about/"
-  weight = 70
-
-[[menu.main]]
-  identifier = "privacy"
-  name = "Privacidad"
-  url = "/privacy/"
-  weight = 80
-
-[[menu.main]]
-  identifier = "contact"
-  name = "Contacto"
-  url = "/contact/"
-  weight = 90
+[languages.es.menu]
+  [[languages.es.menu.main]]
+    identifier = "ia"
+    name = "🤖 IA & SaaS"
+    url = "/ia/"
+    weight = 10
+  [[languages.es.menu.main]]
+    identifier = "crypto"
+    name = "🪙 Crypto"
+    url = "/crypto/"
+    weight = 20
+  [[languages.es.menu.main]]
+    identifier = "fitness"
+    name = "💪 Fitness"
+    url = "/fitness/"
+    weight = 30
+  [[languages.es.menu.main]]
+    identifier = "youtube"
+    name = "🔴 Creators"
+    url = "/youtube/"
+    weight = 40
+  [[languages.es.menu.main]]
+    identifier = "viral"
+    name = "🔥 Viral"
+    url = "/viral/"
+    weight = 50
+  [[languages.es.menu.main]]
+    identifier = "tools"
+    name = "🛠️ Tools"
+    url = "/tools/"
+    weight = 60
+  [[languages.es.menu.main]]
+    identifier = "contact"
+    name = "Contacto"
+    url = "/contact/"
+    weight = 90
