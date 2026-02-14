@@ -7,7 +7,7 @@ draft: false
 featured_image: /images/tecno-apocalipsis-asi-la-ia-revivio-la-bomba-atomi.jpg
 language: es
 last_updated: '2026-02-13'
-quality_tier: fenix_v2_notebooklm
+quality_tier: legacy
 tags:
 - remastered
 title: Tecno-Apocalipsis! Así la IA Revivió la Bomba Atómica

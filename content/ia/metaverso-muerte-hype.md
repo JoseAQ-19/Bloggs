@@ -9,7 +9,7 @@ draft: false
 featured_image: /images/metaverso-muerte-hype.jpg
 language: es
 last_updated: '2026-02-13'
-quality_tier: fenix_v2_notebooklm
+quality_tier: legacy
 tags:
 - Technology
 - Analysis
