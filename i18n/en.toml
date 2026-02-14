@@ -1,0 +1,23 @@
+[about]
+other = "About Us"
+
+[contact]
+other = "Contact"
+
+[privacy]
+other = "Privacy"
+
+[trends_widget]
+other = "🔥 Trending Now"
+
+[read_more]
+other = "Read More"
+
+[more_posts]
+other = "More Posts"
+
+[footer_copy]
+other = "© 2026 NOVUMWORLD. <span>INDEPENDENT UNFILTERED JOURNALISM.</span>"
+
+[pageTitle]
+other = "{{ . }}"

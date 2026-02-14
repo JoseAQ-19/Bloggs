@@ -1,0 +1,23 @@
+[about]
+other = "Sobre Nosotros"
+
+[contact]
+other = "Contacto"
+
+[privacy]
+other = "Privacidad"
+
+[trends_widget]
+other = "🔥 Tendencias Actuales"
+
+[read_more]
+other = "Leer más"
+
+[more_posts]
+other = "Más Artículos"
+
+[footer_copy]
+other = "© 2026 NOVUMWORLD. <span>PERIODISMO INDEPENDIENTE SIN FILTROS.</span>"
+
+[pageTitle]
+other = "{{ . }}"

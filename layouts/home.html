@@ -32,7 +32,7 @@
 
       {{/* WIDGET TAGS (TENDENCIAS) */}}
       <section class="mt6 mb5">
-        <h2 class="f3 fw7 ttu tracked tc mb4" style="color: var(--primary);">🔥 Tendencias Actuales</h2>
+        <h2 class="f3 fw7 ttu tracked tc mb4" style="color: var(--primary);">{{ T "trends_widget" }}</h2>
         <div class="flex flex-wrap justify-center gap-3">
           {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
             <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" class="link dib ba b--white-20 pa2 br-pill mr2 mb2 white hover-bg-white hover-black transition-colors f6">
