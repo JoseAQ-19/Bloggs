@@ -41,13 +41,13 @@ RULES (ZERO TOLERANCE):
 2. STRUCTURE: Hook -> Deep Dive (Data/Facts) -> Critical Analysis -> Verdict.
 3. TONE: Authoritative, slightly cynical (if tech/crypto) or evidence-based (if fitness). Human voice.
 4. LENGTH: 1200-1500 words of pure value. No filler.
-5. LANGUAGE: Write in the language detected from the title (ES or EN).
+5. LANGUAGE: {language} (MANDATORY). Translate source material if needed.
 
-OUTPUT: Markdown body ONLY. No Frontmatter.
+OUTPUT: Markdown body ONLY. No Frontmatter. Do NOT wrap in ```markdown blocks.
 """
 
 def remaster_phoenix_notebooklm():
-    print("🔥 INICIANDO OPERACIÓN FÉNIX: PROTOCOLO NOTEBOOKLM (MASSIVE SCALE)...")
+    print(f"\n🔥 INICIANDO OPERACIÓN FÉNIX: PROTOCOLO NOTEBOOKLM (MASSIVE SCALE)...")
     
     count = 0
     skipped = 0
@@ -101,7 +101,8 @@ def remaster_phoenix_notebooklm():
 
                 # 2. REESCRITURA (Gemini Pro)
                 print("   ✍️  Reescribiendo con estilo NotebookLM Analyst...")
-                prompt = PROMPT_REMASTER.format(title=title, context=context[:20000]) # Limit context size
+                target_lang = post.get('language', 'es').upper() # ES or EN
+                prompt = PROMPT_REMASTER.format(title=title, context=context[:25000], language=target_lang)
                 
                 resp = client.models.generate_content(
                     model='gemini-2.0-flash', 
@@ -113,6 +114,14 @@ def remaster_phoenix_notebooklm():
                     continue
                     
                 new_body = resp.text.strip()
+                
+                # CLEANUP: Eliminar bloques de código markdown ```markdown ... ```
+                if new_body.startswith("```"):
+                    new_body = new_body.split("\n", 1)[1] # Quitar primera línea ```markdown
+                    if new_body.endswith("```"):
+                       new_body = new_body.rsplit("\n", 1)[0] # Quitar última línea ```
+                
+                new_body = new_body.strip()
                 
                 # Validación de seguridad
                 if len(new_body) < 1500:
