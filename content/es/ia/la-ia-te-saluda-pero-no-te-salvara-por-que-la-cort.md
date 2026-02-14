@@ -1,17 +1,17 @@
 ---
 categories:
-- fitness
+- ia
 date: 2026-01-30 16:07:07
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
-featured_image: /images/la-ia-te-saluda-pero-no-te-salvara-por-que-la-cort.jpg
+featured_image: /images/la-ia-te-saluda-cyberpunk.jpg
 language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'La IA te saluda, pero no te salvará: Por qué la cortesía...'
-type: fitness
+type: ia
 ---
 
 La sonrisa de la IA esconde un truco: ¿Realmente necesitamos ser corteses con las máquinas?
