@@ -6,7 +6,7 @@ description: 'La IA Domina la Cultura Pop, la Generación Z Ama lo Analógico y 
   Bunny Oficia Bodas: Las Tendencias Virales que No Puedes Ignorar   El mundo online
   es...'
 draft: false
-featured_image: /images/ia-cultura-pop-generacion-z-analogico-bad-bunny-bodas-tendencias-virales.jpg
+featured_image: /images/ia-cultura-pop-generacion-z-analogico-bad-bunny-bo.jpg
 language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm

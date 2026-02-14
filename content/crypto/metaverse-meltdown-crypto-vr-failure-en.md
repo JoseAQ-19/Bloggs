@@ -6,7 +6,7 @@ description: 'TL;DR (Key Takeaways):     Meta''s Metaverse gamble is looking mor
   like a dumpster fire than a digital frontier. Billions spent, little to show but
   awkward avat...'
 draft: false
-featured_image: /images/metaverse-meltdown-crypto-vr-failure-en.jpg
+featured_image: /images/metaverse-meltdown-crypto-vr-failure.jpg
 language: en
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm

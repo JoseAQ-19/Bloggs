@@ -5,7 +5,7 @@ date: 2026-02-11 09:56:55
 description: Alma College's Kinesiology program bridges the gap between old-school
   dogma and evidence-based biohacking for hypertrophy and longevity.
 draft: false
-featured_image: /images/kinesiologia-ciencias-salud-alma-college-hipertrofia-longevidad.jpg
+featured_image: /images/kinesiologia-ciencias-salud-alma-college-hipertrof.jpg
 language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm

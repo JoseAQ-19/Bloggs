@@ -7,7 +7,7 @@ description: The NBA is doubling down on content creators for the 2026 All-Star 
   from live broadcasts to on-court competitions, aiming to amplify reach and engage
   younger demographics.
 draft: false
-featured_image: /images/nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety-en.jpg
+featured_image: /images/nba-gathers-200-plus-creators-for-all-star-weekend.jpg
 language: en
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm

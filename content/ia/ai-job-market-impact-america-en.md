@@ -6,7 +6,7 @@ description: ' The Unfolding Impact of AI on the American Job Market: Beyond the
   remember the first time I built a simple web scraper in Python. The sheer power
   of au...'
 draft: false
-featured_image: /images/ai-job-market-impact-america-en.jpg
+featured_image: /images/ai-job-market-impact-america.jpg
 language: en
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
