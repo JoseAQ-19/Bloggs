@@ -143,8 +143,8 @@ def escribir_blueprint(tutorial_data, lang="en"):
     return resp.text.strip()
 
 def guardar_post(meta, contenido, lang, category, forced_image=None):
-    config = NICHES.get(category, NICHES['ia']) 
-    output_dir = config.get('output_dir', f'content/{category}')
+    # Lógica Blindada de Silos: content/{lang}/{category}
+    output_dir = f"content/{lang}/{category}"
     os.makedirs(output_dir, exist_ok=True)
     
     filepath = f"{output_dir}/{meta['slug']}.md"
