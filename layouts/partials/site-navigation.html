@@ -28,25 +28,31 @@
     <div class="flex-l items-center nav-links-container">
       {{ partials.Include "i18nlist.html" . }}
       
-      {{/* --- LANGUAGE SWITCHER --- */}}
+      {{/* --- LANGUAGE SWITCHER (FIXED) --- */}}
       <ul class="lang-switcher" style="display:flex; list-style:none; margin:0 1.5rem 0 0; padding:0; gap:0.5rem; border-right:1px solid rgba(255,255,255,0.1); padding-right:1.5rem;">
+        {{ $page := . }}
         {{ range .Site.Languages }}
-          {{ if eq .Lang $.Site.Language.Lang }}
+          {{ if eq .Lang $page.Language.Lang }}
             <li><span class="lang-active" style="color:var(--primary); font-weight:bold;">{{ .Lang | upper }}</span></li>
           {{ else }}
             <li>
-                {{ $trans := "" }}
-                {{ range $.Translations }}
-                    {{ if eq .Lang ..Lang }}
-                        {{ $trans = .RelPermalink }}
+                {{ $targetLang := .Lang }}
+                {{ $transURL := "" }}
+                {{ range $page.Translations }}
+                    {{ if eq .Language.Lang $targetLang }}
+                        {{ $transURL = .RelPermalink }}
                     {{ end }}
                 {{ end }}
-                {{/* Si no hay traducción exacta, ir a home del idioma */}}
-                {{ if not $trans }}
-                    {{ $trans = printf "/%s/" .Lang }}
-                    {{ if eq .Lang "en" }}{{ $trans = "/" }}{{ end }} 
+
+                {{/* Fallback a home del idioma si no hay traducción */}}
+                {{ if not $transURL }}
+                    {{ if eq $targetLang "en" }}
+                        {{ $transURL = "/" }}
+                    {{ else }}
+                        {{ $transURL = printf "/%s/" $targetLang }}
+                    {{ end }}
                 {{ end }}
-                <a href="{{ $trans }}" class="lang-link" style="color:var(--text-color); opacity:0.5; text-decoration:none;">{{ .Lang | upper }}</a>
+                <a href="{{ $transURL }}" class="lang-link" style="color:var(--text-color); opacity:0.5; text-decoration:none;">{{ .Lang | upper }}</a>
             </li>
           {{ end }}
         {{ end }}
