@@ -54,7 +54,7 @@
         {{ else }}
         <!-- Enlace al Otro Idioma -->
         <li>
-          {{ $targetURL = "" }}
+          {{ $targetURL := "" }}
 
           {{/* 1. Traducción exacta (Priority) */}}
           {{ if .IsTranslated }}
