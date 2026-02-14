@@ -57,19 +57,18 @@
           {{ $targetURL := "" }}
 
           {{/* 1. Traducción exacta (Priority) */}}
-          {{ if .IsTranslated }}
-          {{ range .Translations }}
+          {{ if $page.IsTranslated }}
+          {{ range $page.Translations }}
           {{ if eq .Language.Lang $loopLang }}
           {{ $targetURL = .RelPermalink }}
-          {{ end }}
           {{ end }}
           {{ end }}
 
           {{/* 2. Fallback Inteligente (Misma Sección) */}}
           {{ if eq $targetURL "" }}
-          {{ if .Section }}
+          {{ if $page.Section }}
           {{/* Construir ruta de sección robusta */}}
-          {{ $sect := .Section | lower }}
+          {{ $sect := $page.Section | lower }}
 
           {{ if eq $loopLang "en" }}
           {{/* EN es raíz: /section/ */}}
