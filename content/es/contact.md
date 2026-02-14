@@ -1,9 +1,10 @@
 ---
-title: "Contacto"
-description: "¿Tienes una filtración? ¿Quieres insultarnos? Aquí estamos."
-url: "/contact/"
-layout: "single"
-featured_image: "/images/contact.jpg"
+description: ¿Tienes una filtración? ¿Quieres insultarnos? Aquí estamos.
+featured_image: /images/contact.jpg
+layout: single
+title: Contacto
+translationKey: contact
+url: /contact/
 ---
 
 ## Hablemos Claro

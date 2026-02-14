@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: Tecno-Apocalipsis! Así la IA Revivió la Bomba Atómica
+translationKey: tecno-apocalipsis-asi-la-ia-revivio-la-bomba-atomi
 type: ia
 ---
 

@@ -10,6 +10,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: ': La Cortina de Humo Digital'
+translationKey: la-cortina-de-humo-digital
 type: ia
 ---
 

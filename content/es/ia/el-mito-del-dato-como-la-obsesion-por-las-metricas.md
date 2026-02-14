@@ -12,6 +12,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'El Mito del Dato: Cómo la Obsesión por las Métricas Nos Está Destruyendo'
+translationKey: el-mito-del-dato-como-la-obsesion-por-las-metricas
 type: ia
 ---
 

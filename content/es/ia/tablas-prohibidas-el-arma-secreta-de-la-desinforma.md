@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: ¿Tablas Prohibidas? El Arma Secreta de la Desinformación
+translationKey: tablas-prohibidas-el-arma-secreta-de-la-desinforma
 type: ia
 ---
 

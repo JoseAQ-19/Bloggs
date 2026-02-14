@@ -1,13 +1,21 @@
 ---
-title: "¡Make.com DOMINADO en 2 Horas! 🤯 Guía DEFINITIVA para Principiantes (2026)"
-date: 2026-02-13T08:25:31
+categories:
+- tools
+date: 2026-02-13 08:25:31
+description: ¿Sigues perdiendo horas en tareas repetitivas que te impiden enfocarte
+  en el crecimiento real de tu negocio? En Novum, entendemos que el tiempo es tu activo
+  más...
 draft: false
-description: "¿Sigues perdiendo horas en tareas repetitivas que te impiden enfocarte en el crecimiento real de tu negocio? En Novum, entendemos que el tiempo es tu activo más..."
-featured_image: "/images/makecom-dominado-en-2-horas-guia-definitiva-para-principiantes-2026.jpg"
-tags: ["Novum Tools", "Tutorials", "Blueprints"]
-categories: ["tools"]
-type: "tools"
-language: "es"
+featured_image: /images/makecom-dominado-en-2-horas-guia-definitiva-para-principiantes-2026.jpg
+language: es
+tags:
+- Novum Tools
+- Tutorials
+- Blueprints
+title: "¡Make.com DOMINADO en 2 Horas! \U0001F92F Guía DEFINITIVA para Principiantes
+  (2026)"
+translationKey: makecom-dominado-en-2-horas-guia-definitiva-para-principiantes-2026
+type: tools
 ---
 
 ![¡Make.com DOMINADO en 2 Horas! 🤯 Guía DEFINITIVA para Principiantes (2026)](/images/makecom-dominado-en-2-horas-guia-definitiva-para-principiantes-2026.jpg)

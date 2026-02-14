@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'Ecnocínicos: Cómo las Corporaciones Nos Venden Humo Futurista'
+translationKey: ecnocinicos-como-las-corporaciones-nos-venden-humo
 type: ia
 ---
 

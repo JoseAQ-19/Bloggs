@@ -15,6 +15,7 @@ tags:
 - Geopolitics
 - remastered
 title: ¿Metaverso Zombie? VR, Cripto y el Apocalipsis Tech que Nadie Quiere Ver
+translationKey: metaverso-zombie-vr-cripto-apocalipsis
 type: ia
 ---
 

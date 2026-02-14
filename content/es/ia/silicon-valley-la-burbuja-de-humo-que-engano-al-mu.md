@@ -10,6 +10,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: 'Silicon Valley: La Burbuja de Humo que Engañó al Mundo'
+translationKey: silicon-valley-la-burbuja-de-humo-que-engano-al-mu
 type: ia
 ---
 

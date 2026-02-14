@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'El Mito del Progreso: Cómo la IA Nos Vende un Futuro que No Existe'
+translationKey: el-mito-del-progreso-como-la-ia-nos-vende-un-futur
 type: ia
 ---
 

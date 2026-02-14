@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'El Tabú Tecnológico: Lo Que NO Quieren Que Sepas'
+translationKey: el-tabu-tecnologico-lo-que-no-quieren-que-sepas
 type: ia
 ---
 

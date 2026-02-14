@@ -1,9 +1,11 @@
 ---
-title: "Sobre Nosotros"
-description: "Descubre la misión detrás de NovumWorld: Análisis tecnológico sin filtros y periodismo independiente."
-url: "/about/"
-layout: "single"
-featured_image: "/images/about.jpg"
+description: 'Descubre la misión detrás de NovumWorld: Análisis tecnológico sin filtros
+  y periodismo independiente.'
+featured_image: /images/about.jpg
+layout: single
+title: Sobre Nosotros
+translationKey: about
+url: /about/
 ---
 
 ## Manifiesto Novum: Periodismo en la Era del Ruido

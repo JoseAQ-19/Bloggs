@@ -13,6 +13,7 @@ tags:
 - Creator Economy
 - Trends
 title: 'SUBBD Token''s AI Ambition: Revolutionizing the $191B Creator Economy'
+translationKey: subbd-token-ai-creator-economy
 type: youtube
 ---
 

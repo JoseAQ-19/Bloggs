@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'Trabajo y: La Distopía 2026 que Nadie Quiso Ver'
+translationKey: trabajo-y-la-distopia-2026-que-nadie-quiso-ver
 type: ia
 ---
 

@@ -15,6 +15,7 @@ tags:
 - Trends
 title: 'LayerZero Trending: A Deep Dive into ''Zero'' Blockchain, Institutional Interest,
   and Market Dynamics'
+translationKey: layerzero-trending-zero-blockchain-institutional-interest-market-dynamics
 type: crypto
 ---
 

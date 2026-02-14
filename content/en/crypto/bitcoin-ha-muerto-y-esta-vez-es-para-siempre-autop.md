@@ -6,10 +6,11 @@ description: Análisis profundo sobre tecnología y tendencias digitales en Novu
 draft: false
 featured_image: /images/bitcoin-ha-muerto-y-esta-vez-es-para-siempre-autop.jpg
 image: https://image.pollinations.ai/prompt/A%20single%2C%20long%2C%20uninterrupted%20sentence%20with%20no%20quotes%20or%20introduction%3A%0A%0AA%20vast%2C%20desolate%20landscape%20of%20cracked%20earth%20and%20skeletal%20remains%20of%20server%20farms%20under%20a%20perpetual%2C%20smog-choked%20twilight%20sky%2C%20with%20rusted%20Bitcoin%20logos%20half-buried%20in%20the%20dust%20beside%20tattered%20remnants%20of%20Lambo%20dealerships%20and%20ghostly%20figures%20in%20hoodies%20hunched%20over%20flickering%20screens%20displaying%20error%20messages%2C%20all%20illuminated%20by%20the%20eerie%20glow%20of%20data%20center%20fires%20that%20paint%20the%20horizon%20in%20shades%20of%20orange%20and%20despair%2C%20while%20a%20single%2C%20withered%20tumbleweed%20emblazoned%20with%20the%20Dogecoin%20symbol%20bounces%20silently%20across%20the%20foreground%2C%20mocking%20the%20ruins%20of%20digital%20dreams.?model=flux&width=1280&height=720&seed=107835&nologo=true
-language: es
+language: en
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: Bitcoin ha muerto, y esta vez es para siempre (Autopsia de una burbuja)
+translationKey: bitcoin-ha-muerto-y-esta-vez-es-para-siempre-autop
 type: crypto
 ---
 

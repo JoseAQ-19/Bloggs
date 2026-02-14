@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'El Capitalismo Zombi: Anatomía de un Sistema Fallido'
+translationKey: el-capitalismo-zombi-anatomia-de-un-sistema-fallid
 type: ia
 ---
 

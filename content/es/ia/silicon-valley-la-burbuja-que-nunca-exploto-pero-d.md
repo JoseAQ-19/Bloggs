@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'Silicon Valley: La Burbuja que Nunca Explotó (Pero Debería)'
+translationKey: silicon-valley-la-burbuja-que-nunca-exploto-pero-d
 type: ia
 ---
 

@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: ¿Nos Distrae la IA Mientras el Mundo se Derrumba?
+translationKey: nos-distrae-la-ia-mientras-el-mundo-se-derrumba
 type: ia
 ---
 

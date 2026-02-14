@@ -12,6 +12,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: ¿En Sí Misma o En el Abismo? La Trampa Filosófica que Nos Ciega
+translationKey: en-si-misma-o-en-el-abismo-la-trampa-filosofica-qu
 type: ia
 ---
 

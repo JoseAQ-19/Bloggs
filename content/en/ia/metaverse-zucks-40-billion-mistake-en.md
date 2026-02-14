@@ -16,6 +16,7 @@ tags:
 - Geopolitics
 - remastered
 title: 'Metaverse: Zuck''s $40 Billion Fail?'
+translationKey: metaverse-zucks-40-billion-mistake
 type: ia
 ---
 

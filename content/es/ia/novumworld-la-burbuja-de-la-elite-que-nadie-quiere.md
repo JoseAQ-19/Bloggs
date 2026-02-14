@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'NOVUMWORLD: La burbuja de la élite que nadie quiere pinchar'
+translationKey: novumworld-la-burbuja-de-la-elite-que-nadie-quiere
 type: ia
 ---
 

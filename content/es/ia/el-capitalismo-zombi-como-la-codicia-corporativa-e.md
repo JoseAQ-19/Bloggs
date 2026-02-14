@@ -10,6 +10,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: 'El Capitalismo Zombi: Cómo la Codicia Corporativa Está Devorando el Futuro'
+translationKey: el-capitalismo-zombi-como-la-codicia-corporativa-e
 type: ia
 ---
 

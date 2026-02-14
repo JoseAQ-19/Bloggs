@@ -14,6 +14,7 @@ tags:
 - Analysis
 - remastered
 title: A Monument to Naivety and Greed
+translationKey: monument-naivety-greed
 type: ia
 ---
 

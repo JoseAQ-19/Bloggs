@@ -10,6 +10,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: 'El Metaverso ha Muerto: Bienvenidos al Infierno Digital'
+translationKey: el-metaverso-ha-muerto-bienvenidos-al-infierno-dig
 type: ia
 ---
 

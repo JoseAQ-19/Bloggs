@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'Inteligencia Artificial: La Estafa del Siglo XXI'
+translationKey: inteligencia-artificial-la-estafa-del-siglo-xxi
 type: ia
 ---
 

@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'Deuda Global 2026: El Subprime que Nadie Vio Venir'
+translationKey: deuda-global-2026-el-subprime-que-nadie-vio-venir
 type: ia
 ---
 

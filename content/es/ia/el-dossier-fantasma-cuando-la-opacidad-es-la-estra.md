@@ -10,6 +10,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: 'El Dossier Fantasma: Cuando la Opacidad es la Estrategia'
+translationKey: el-dossier-fantasma-cuando-la-opacidad-es-la-estra
 type: ia
 ---
 

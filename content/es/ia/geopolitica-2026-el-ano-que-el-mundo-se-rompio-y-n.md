@@ -10,6 +10,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: 'Geopolítica 2026: El Año Que El Mundo Se Rompió (Y Nadie Lo Vio Venir)'
+translationKey: geopolitica-2026-el-ano-que-el-mundo-se-rompio-y-n
 type: ia
 ---
 

@@ -12,6 +12,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'Bitcoin: El Despertar Brutal de la Estafa Digital'
+translationKey: bitcoin-el-despertar-brutal-de-la-estafa-digital
 type: crypto
 ---
 

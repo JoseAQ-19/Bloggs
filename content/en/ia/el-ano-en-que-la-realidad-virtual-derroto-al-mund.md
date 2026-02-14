@@ -5,10 +5,11 @@ date: 2026-01-30 08:06:37
 description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
 draft: false
 featured_image: /images/el-ano-en-que-la-realidad-virtual-derroto-al-mund.jpg
-language: es
+language: en
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: ': El Año en que la Realidad Virtual Derrotó al Mundo Real'
+translationKey: el-ano-en-que-la-realidad-virtual-derroto-al-mund
 type: ia
 ---
 

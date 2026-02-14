@@ -14,6 +14,7 @@ tags:
 - Viral & Trends
 - Trends
 title: 'Decoding the Viral Vortex: AI, Analog, and Unexpected Nuptials'
+translationKey: decoding-viral-vortex-ai-analog-unexpected-nuptials
 type: viral
 ---
 

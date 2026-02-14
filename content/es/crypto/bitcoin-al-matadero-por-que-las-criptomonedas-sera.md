@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'Bitcoin al matadero: Por qué las criptomonedas serán las primeras en caer'
+translationKey: bitcoin-al-matadero-por-que-las-criptomonedas-sera
 type: crypto
 ---
 

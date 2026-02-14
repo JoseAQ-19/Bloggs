@@ -10,6 +10,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: 'Bitcoin: La Fiebre del Oro Digital es una Estafa Piramidal 2.0'
+translationKey: bitcoin-la-fiebre-del-oro-digital-es-una-estafa-pi
 type: crypto
 ---
 

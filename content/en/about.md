@@ -1,9 +1,11 @@
 ---
-title: "About Us"
-description: "Discover the mission behind NovumWorld: Unfiltered tech analysis and independent journalism."
-url: "/about/"
-layout: "single"
-featured_image: "/images/about.jpg"
+description: 'Discover the mission behind NovumWorld: Unfiltered tech analysis and
+  independent journalism.'
+featured_image: /images/about.jpg
+layout: single
+title: About Us
+translationKey: about
+url: /about/
 ---
 
 ## Novum Manifesto: Journalism in the Age of Noise

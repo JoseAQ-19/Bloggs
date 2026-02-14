@@ -12,6 +12,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'Bitcoin: La Estafa del Siglo XXI al Descubierto'
+translationKey: bitcoin-la-estafa-del-siglo-xxi-al-descubierto
 type: crypto
 ---
 

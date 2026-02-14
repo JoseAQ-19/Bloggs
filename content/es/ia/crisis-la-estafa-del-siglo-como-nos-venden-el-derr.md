@@ -12,6 +12,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: '¿Crisis? La Estafa del Siglo: Cómo Nos Venden el Derrumbe Controlado'
+translationKey: crisis-la-estafa-del-siglo-como-nos-venden-el-derr
 type: ia
 ---
 

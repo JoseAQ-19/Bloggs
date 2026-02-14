@@ -10,6 +10,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: 'Geopolítica en Llamas: Las 10 Tendencias que Incendiarán 2026'
+translationKey: geopolitica-en-llamas-las-10-tendencias-que-incend
 type: ia
 ---
 

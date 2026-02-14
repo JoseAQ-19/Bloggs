@@ -10,6 +10,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: 'Silicon Valley Está Muerto: El Futuro es Descentralización o Barbarie'
+translationKey: silicon-valley-esta-muerto-el-futuro-es-descentral
 type: ia
 ---
 

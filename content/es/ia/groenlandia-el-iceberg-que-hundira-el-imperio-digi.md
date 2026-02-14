@@ -10,6 +10,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: 'Groenlandia: El Iceberg que Hundirá el Imperio Digital de EE.UU.'
+translationKey: groenlandia-el-iceberg-que-hundira-el-imperio-digi
 type: ia
 ---
 

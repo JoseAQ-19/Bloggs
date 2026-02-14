@@ -15,6 +15,7 @@ tags:
 - Blueprints
 - remastered
 title: Why is Venice Token trending today in crypto? Analysis
+translationKey: why-is-venice-token-trending-today-in-crypto
 type: crypto
 ---
 

@@ -10,6 +10,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: 'El Metaverso ha Muerto: Ahora Toca Reírnos'
+translationKey: el-metaverso-ha-muerto-ahora-toca-reirnos
 type: ia
 ---
 

@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'La Dictadura Digital: Cómo Vendimos Nuestra Alma a los Algoritmos'
+translationKey: la-dictadura-digital-como-vendimos-nuestra-alma-a
 type: ia
 ---
 

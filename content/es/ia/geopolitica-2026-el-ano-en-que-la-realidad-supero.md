@@ -10,6 +10,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: 'Geopolítica 2026: El Año en que la Realidad Superó a la Distopía'
+translationKey: geopolitica-2026-el-ano-en-que-la-realidad-supero
 type: ia
 ---
 

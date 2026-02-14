@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'Ecnocracia: El Nuevo Feudalismo Digital'
+translationKey: ecnocracia-el-nuevo-feudalismo-digital
 type: ia
 ---
 

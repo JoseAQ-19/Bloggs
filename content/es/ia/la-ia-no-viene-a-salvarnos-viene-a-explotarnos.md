@@ -10,6 +10,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: 'La IA No Viene a Salvarnos: Viene a Explotarnos'
+translationKey: la-ia-no-viene-a-salvarnos-viene-a-explotarnos
 type: ia
 ---
 

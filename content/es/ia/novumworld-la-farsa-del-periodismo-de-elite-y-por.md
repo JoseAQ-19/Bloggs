@@ -10,6 +10,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: 'NOVUMWORLD: La Farsa del Periodismo de Élite (Y Por Qué Deberías Ignorarlo)'
+translationKey: novumworld-la-farsa-del-periodismo-de-elite-y-por
 type: ia
 ---
 

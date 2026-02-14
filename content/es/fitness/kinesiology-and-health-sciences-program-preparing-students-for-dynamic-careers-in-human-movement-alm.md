@@ -1,13 +1,21 @@
 ---
-title: "Kinesiology and Health Sciences Program: Preparing Students for Dynamic Careers in Human Movement - Alma College Analysis"
-date: 2026-02-14T09:48:25
+categories:
+- fitness
+date: 2026-02-14 09:48:25
+description: ¿Estás buscando una carrera que te permita impactar positivamente la
+  vida de las personas a través del movimiento y la salud? El campo de la kinesiología
+  y las ...
 draft: false
-description: "¿Estás buscando una carrera que te permita impactar positivamente la vida de las personas a través del movimiento y la salud? El campo de la kinesiología y las ..."
-featured_image: "https://placehold.co/1280x720/000000/FFFFFF/png?text=FITNESS"
-tags: ["Biohacking & Fitness", "Tutorials", "Blueprints"]
-categories: ["fitness"]
-type: "fitness"
-language: "es"
+featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=FITNESS
+language: es
+tags:
+- Biohacking & Fitness
+- Tutorials
+- Blueprints
+title: 'Kinesiology and Health Sciences Program: Preparing Students for Dynamic Careers
+  in Human Movement - Alma College Analysis'
+translationKey: kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm
+type: fitness
 ---
 
 ![Kinesiology and Health Sciences Program: Preparing Students for Dynamic Careers in Human Movement - Alma College Analysis](https://placehold.co/1280x720/000000/FFFFFF/png?text=FITNESS)

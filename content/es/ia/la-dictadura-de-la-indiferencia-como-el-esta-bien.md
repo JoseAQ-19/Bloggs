@@ -10,6 +10,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: 'La Dictadura de la Indiferencia: Cómo el Está Bien Nos Está Destruyendo'
+translationKey: la-dictadura-de-la-indiferencia-como-el-esta-bien
 type: ia
 ---
 

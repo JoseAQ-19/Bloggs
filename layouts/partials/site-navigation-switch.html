@@ -1,0 +1,38 @@
+    {{/* --- RIGHT: Language Switcher (Robust Babel Logic) --- */}}
+    <div class="flex items-center">
+      <ul class="lang-switcher" style="display:flex; list-style:none; margin:0; padding:0; gap:0.8rem;">
+        {{ $currentLang := .Site.Language.Lang }}
+        {{ $page := . }}
+        
+        {{ range .Site.Languages }}
+          {{ $loopLang := .Lang }}
+          {{ if eq $loopLang $currentLang }}
+            <!-- Idioma Actual (Negrita) -->
+            <li><span class="lang-active" style="color:var(--primary); font-weight:800; cursor:default;">{{ .Lang | upper }}</span></li>
+          {{ else }}
+            <!-- Enlace al Otro Idioma -->
+            <li>
+                {{ $targetURL := "" }}
+                
+                {{/* 1. Intentar buscar traducción de la página actual */}}
+                {{ if $page.IsTranslated }}
+                    {{ range $page.Translations }}
+                        {{ if eq .Language.Lang $loopLang }}
+                            {{ $targetURL = .RelPermalink }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+                
+                {{/* 2. Fallback a la Home del idioma si no hay traducción exacta */}}
+                {{ if eq $targetURL "" }}
+                   {{ $targetURL = printf "/%s/" $loopLang }}
+                   {{/* Ajuste para el idioma default si está en raíz */}}
+                   {{ if eq $loopLang .Site.DefaultContentLanguage }}{{ $targetURL = "/" }}{{ end }} 
+                {{ end }}
+                
+                <a href="{{ $targetURL }}" class="lang-link" style="color:var(--text-color); opacity:0.5; text-decoration:none; font-weight:400;">{{ .Lang | upper }}</a>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </div>

@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'Bitcoin en Caída Libre: ¿El Fin de la Era Dorada?'
+translationKey: bitcoin-en-caida-libre-el-fin-de-la-era-dorada
 type: crypto
 ---
 

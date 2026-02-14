@@ -1,9 +1,10 @@
 ---
-title: "Contact"
-description: "Have a leak? Want to insult us? We are here."
-url: "/contact/"
-layout: "single"
-featured_image: "/images/contact.jpg"
+description: Have a leak? Want to insult us? We are here.
+featured_image: /images/contact.jpg
+layout: single
+title: Contact
+translationKey: contact
+url: /contact/
 ---
 
 ## Let's Talk Straight

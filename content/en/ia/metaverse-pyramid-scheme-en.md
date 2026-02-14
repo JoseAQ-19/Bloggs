@@ -16,6 +16,7 @@ tags:
 - Geopolitics
 - remastered
 title: 'Metaverse: The 21st Century Pyramid Scheme'
+translationKey: metaverse-pyramid-scheme
 type: ia
 ---
 

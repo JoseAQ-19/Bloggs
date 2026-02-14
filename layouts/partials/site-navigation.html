@@ -39,32 +39,38 @@
       </a>
     </div>
 
-    {{/* --- RIGHT: Language Switcher --- */}}
+    {{/* --- RIGHT: Language Switcher (Robust Babel Logic) --- */}}
     <div class="flex items-center">
       <ul class="lang-switcher" style="display:flex; list-style:none; margin:0; padding:0; gap:0.8rem;">
+        {{ $currentLang := .Site.Language.Lang }}
         {{ $page := . }}
+        
         {{ range .Site.Languages }}
-          {{ if eq .Lang $page.Language.Lang }}
+          {{ $loopLang := .Lang }}
+          {{ if eq $loopLang $currentLang }}
+            <!-- Idioma Actual -->
             <li><span class="lang-active" style="color:var(--primary); font-weight:800; cursor:default;">{{ .Lang | upper }}</span></li>
           {{ else }}
+            <!-- Enlace al Otro Idioma -->
             <li>
-                {{ $targetLang := .Lang }}
-                {{ $transURL := "" }}
-                {{ range $page.Translations }}
-                    {{ if eq .Language.Lang $targetLang }}
-                        {{ $transURL = .RelPermalink }}
+                {{ $targetURL := "" }}
+                
+                {{/* 1. Traducción exacta */}}
+                {{ if $page.IsTranslated }}
+                    {{ range $page.Translations }}
+                        {{ if eq .Language.Lang $loopLang }}
+                            {{ $targetURL = .RelPermalink }}
+                        {{ end }}
                     {{ end }}
                 {{ end }}
                 
-                {{ if not $transURL }}
-                    {{ if eq $targetLang "en" }}
-                        {{ $transURL = "/" }}
-                    {{ else }}
-                        {{ $transURL = printf "/%s/" $targetLang }}
-                    {{ end }}
+                {{/* 2. Fallback Home */}}
+                {{ if eq $targetURL "" }}
+                   {{ $targetURL = printf "/%s/" $loopLang }}
+                   {{ if eq $loopLang "en" }}{{ $targetURL = "/" }}{{ end }} 
                 {{ end }}
                 
-                <a href="{{ $transURL }}" class="lang-link" style="color:var(--text-color); opacity:0.5; text-decoration:none; font-weight:400;">{{ .Lang | upper }}</a>
+                <a href="{{ $targetURL }}" class="lang-link" style="color:var(--text-color); opacity:0.5; text-decoration:none; font-weight:400;">{{ .Lang | upper }}</a>
             </li>
           {{ end }}
         {{ end }}

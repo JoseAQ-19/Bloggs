@@ -9,6 +9,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: El Metaverso Está Muerto (Y Nadie Se Atreve a Decirlo)
+translationKey: el-metaverso-esta-muerto-y-nadie-se-atreve-a-decir
 type: ia
 ---
 

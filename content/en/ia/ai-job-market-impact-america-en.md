@@ -14,6 +14,7 @@ tags:
 - IA & SaaS
 - Trends
 title: 'The Unfolding Impact of AI on the American Job Market: Beyond the Hype'
+translationKey: ai-job-market-impact-america
 type: ia
 ---
 

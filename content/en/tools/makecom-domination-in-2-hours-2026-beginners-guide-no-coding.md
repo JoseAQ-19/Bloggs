@@ -13,6 +13,7 @@ tags:
 - Tutorials
 - Blueprints
 title: Make.com Domination in 2 Hours? (2026 Beginner's Guide - NO Coding!)
+translationKey: makecom-domination-in-2-hours-2026-beginners-guide-no-coding
 type: tools
 ---
 

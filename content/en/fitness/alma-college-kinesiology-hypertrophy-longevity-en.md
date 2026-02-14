@@ -14,6 +14,7 @@ tags:
 - Trends
 title: 'Alma College Kinesiology Program: Hypertrophy, Longevity, and Evidence-Based
   Biohacking'
+translationKey: alma-college-kinesiology-hypertrophy-longevity
 type: fitness
 ---
 

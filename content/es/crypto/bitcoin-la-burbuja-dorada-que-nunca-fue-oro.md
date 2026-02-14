@@ -12,6 +12,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'Bitcoin: La Burbuja Dorada que Nunca Fue Oro'
+translationKey: bitcoin-la-burbuja-dorada-que-nunca-fue-oro
 type: crypto
 ---
 

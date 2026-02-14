@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'Metaverso: El Gran Bluf Tecnológico del Siglo XXI'
+translationKey: metaverso-el-gran-bluf-tecnologico-del-siglo-xxi
 type: ia
 ---
 

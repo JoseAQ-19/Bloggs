@@ -16,6 +16,7 @@ tags:
 - remastered
 title: 'Kinesiology and Health Sciences Program: Preparing Students for Dynamic Careers
   in Human Movement - Alma College Analysis'
+translationKey: kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alma-college
 type: fitness
 ---
 

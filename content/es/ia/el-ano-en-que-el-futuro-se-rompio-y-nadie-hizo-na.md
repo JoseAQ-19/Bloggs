@@ -10,6 +10,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: ': El Año en que el Futuro se Rompió (Y Nadie Hizo Nada)'
+translationKey: el-ano-en-que-el-futuro-se-rompio-y-nadie-hizo-na
 type: ia
 ---
 

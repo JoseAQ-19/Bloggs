@@ -15,6 +15,7 @@ tags:
 - Blueprints
 - remastered
 title: 'NBA All-Star Weekend 2026: Estrategia Digital con Creadores'
+translationKey: nba-all-star-2026-estrategia-digital
 type: youtube
 ---
 

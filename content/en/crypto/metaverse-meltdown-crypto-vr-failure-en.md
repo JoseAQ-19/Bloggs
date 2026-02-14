@@ -16,6 +16,7 @@ tags:
 - Geopolitics
 - remastered
 title: 'Metaverse Meltdown: Crypto Dreams Meet VR Reality... and Fail'
+translationKey: metaverse-meltdown-crypto-vr-failure
 type: crypto
 ---
 

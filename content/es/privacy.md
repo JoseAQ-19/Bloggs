@@ -1,9 +1,10 @@
 ---
-title: "Política de Privacidad"
-description: "Información legal sobre cómo protegemos tus datos en NovumWorld."
-url: "/privacy/"
-layout: "single"
-featured_image: "/images/privacy.jpg"
+description: Información legal sobre cómo protegemos tus datos en NovumWorld.
+featured_image: /images/privacy.jpg
+layout: single
+title: Política de Privacidad
+translationKey: privacy
+url: /privacy/
 ---
 
 ## Política de Privacidad

@@ -9,6 +9,7 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: 'El Metaverso ha Muerto: ¿Quién se Queda con los Huesos?'
+translationKey: el-metaverso-ha-muerto-quien-se-queda-con-los-hues
 type: ia
 ---
 

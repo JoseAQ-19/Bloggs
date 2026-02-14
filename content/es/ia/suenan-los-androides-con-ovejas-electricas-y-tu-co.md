@@ -12,6 +12,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: ¿Sueñan los Androides con Ovejas Eléctricas... y Tú con un Futuro de Mierda?
+translationKey: suenan-los-androides-con-ovejas-electricas-y-tu-co
 type: ia
 ---
 

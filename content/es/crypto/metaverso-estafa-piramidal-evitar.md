@@ -16,6 +16,7 @@ tags:
 - Geopolitics
 - remastered
 title: 'Metaverso: La Estafa Piramidal Definitiva (Y Por Qué Deberías Ignorarla)'
+translationKey: metaverso-estafa-piramidal-evitar
 type: crypto
 ---
 

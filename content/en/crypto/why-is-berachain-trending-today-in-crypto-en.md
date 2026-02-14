@@ -15,6 +15,7 @@ tags:
 - Blueprints
 - remastered
 title: Why is Berachain trending today in crypto? Analysis
+translationKey: why-is-berachain-trending-today-in-crypto
 type: crypto
 ---
 

@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'La IA te saluda, pero no te salvará: Por qué la cortesía...'
+translationKey: la-ia-te-saluda-pero-no-te-salvara-por-que-la-cort
 type: ia
 ---
 

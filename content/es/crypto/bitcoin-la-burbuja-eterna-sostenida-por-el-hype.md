@@ -11,6 +11,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - remastered
 title: 'Bitcoin: La Burbuja Eterna Sostenida por el Hype'
+translationKey: bitcoin-la-burbuja-eterna-sostenida-por-el-hype
 type: crypto
 ---
 

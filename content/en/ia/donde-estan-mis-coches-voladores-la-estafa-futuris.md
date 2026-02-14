@@ -6,10 +6,11 @@ description: Análisis profundo sobre tecnología y tendencias digitales en Novu
 draft: false
 featured_image: /images/donde-estan-mis-coches-voladores-la-estafa-futuris.jpg
 image: https://image.pollinations.ai/prompt/A%20sprawling%2C%20rain-slicked%20cityscape%2C%20perpetually%20twilight%20and%20dominated%20by%20towering%2C%20brutalist%20megastructures%20crisscrossed%20with%20a%20chaotic%20spaghetti%20of%20decaying%20monorail%20tracks%20and%20flickering%20neon%20signs%20advertising%20long-dead%20corporations%2C%20is%20reflected%20in%20the%20desolate%2C%20oil-stained%20puddle%20beneath%20a%20disheveled%2C%20middle-aged%20man%20in%20a%20threadbare%20trench%20coat%2C%20his%20face%20etched%20with%20weary%20disappointment%20as%20he%20clutches%20a%20tattered%20holographic%20brochure%20showcasing%20sleek%2C%20promised%20flying%20cars%2C%20the%20whole%20scene%20bathed%20in%20the%20sickly%20glow%20of%20holographic%20projections%20peddling%20expired%20utopian%20dreams%20and%20overlooked%20by%20a%20squadron%20of%20automated%20drones%20enforcing%20a%20silent%2C%20hollow%20order%20amidst%20the%20tangible%20disillusionment%20of%20a%20future%20that%20never%20arrived.?model=flux&width=1280&height=720&seed=361262&nologo=true
-language: es
+language: en
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: ¿Dónde están mis coches voladores? La estafa futurista del Siglo XXI
+translationKey: donde-estan-mis-coches-voladores-la-estafa-futuris
 type: ia
 ---
 
