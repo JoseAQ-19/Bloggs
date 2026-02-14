@@ -39,7 +39,7 @@
       </a>
     </div>
 
-    {{/* --- RIGHT: Language Switcher (Robust Babel Logic) --- */}}
+    {{/* --- RIGHT: Language Switcher (Robust Babel Logic v2) --- */}}
     <div class="flex items-center">
       <ul class="lang-switcher" style="display:flex; list-style:none; margin:0; padding:0; gap:0.8rem;">
         {{ $currentLang := .Site.Language.Lang }}
@@ -64,7 +64,19 @@
                     {{ end }}
                 {{ end }}
                 
-                {{/* 2. Fallback Home */}}
+                {{/* 2. Fallback Inteligente (Misma Sección) */}}
+                {{ if eq $targetURL "" }}
+                   {{ if $page.Section }}
+                       {{/* Construir ruta de sección: /es/crypto/ o /crypto/ (para EN) */}}
+                       {{ if eq $loopLang "en" }}
+                           {{ $targetURL = printf "/%s/" $page.Section }}
+                       {{ else }}
+                           {{ $targetURL = printf "/%s/%s/" $loopLang $page.Section }}
+                       {{ end }}
+                   {{ end }}
+                {{ end }}
+
+                {{/* 3. Fallback Final (Home) */}}
                 {{ if eq $targetURL "" }}
                    {{ $targetURL = printf "/%s/" $loopLang }}
                    {{ if eq $loopLang "en" }}{{ $targetURL = "/" }}{{ end }} 
@@ -146,5 +158,3 @@
   if (overlay) overlay.addEventListener('click', closeMenu);
 })();
 </script>
-
-<!-- Header Layout v4 -->
