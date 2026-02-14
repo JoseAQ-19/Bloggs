@@ -6,7 +6,7 @@ description: 'La NBA redobla su apuesta por los creadores de contenido: más de 
   influencers participarán activamente en el All-Star Weekend 2026 en Los Ángeles.
   El objetiv...'
 draft: false
-featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=YOUTUBE
+featured_image: /images/nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety.jpg
 language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm

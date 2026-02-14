@@ -142,13 +142,15 @@ def escribir_blueprint(tutorial_data, lang="en"):
     resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
     return resp.text.strip()
 
-def guardar_post(meta, contenido, lang, category):
+def guardar_post(meta, contenido, lang, category, forced_image=None):
     config = NICHES.get(category, NICHES['ia']) 
     output_dir = config.get('output_dir', f'content/{category}')
     os.makedirs(output_dir, exist_ok=True)
     
     filepath = f"{output_dir}/{meta['slug']}.md"
-    imagen = get_image(meta['titulo'], meta['slug'], category)
+    
+    # Lógica de Imagen Maestra: Si viene forzada, se usa. Si no, se genera.
+    imagen = forced_image if forced_image else get_image(meta['titulo'], meta['slug'], category)
     
     now = datetime.now()
     backdate = random.randint(15, 30) if lang == 'es' else random.randint(2, 10)
@@ -156,6 +158,7 @@ def guardar_post(meta, contenido, lang, category):
     # Sanitización de comillas para YAML
     clean_text = re.sub(r'[#*]', '', contenido)[:160].replace('\n', ' ').replace('"', "'") + "..."
     
+    # Frontmatter con comillas explícitas en imagen
     front_matter = f"""---
 title: "{meta['titulo'].replace('"', '')}"
 date: {date_str}
@@ -197,12 +200,17 @@ def main():
             print("💤 No tutorial found.")
             return
             
-        # Generación Bilingüe
+        # 1. GENERACIÓN DE IMAGEN MAESTRA (ÚNICA)
+        print(f"🎨 Generando Imagen Maestra para: {tutorial['title']}...")
+        master_slug = SlugManager.generate(tutorial['title'])
+        # Usamos nicho 'tools' o 'ia' para el estilo visual
+        master_image = get_image(tutorial['title'], master_slug, "tools")
+            
+        # 2. Generación Bilingüe
         for lang in ["en", "es"]:
             texto = escribir_blueprint(tutorial, lang)
             
             # Título Inteligente (IA)
-            # Pedimos a Gemini un título optimizado para el idioma y contenido
             prompt_title = f"GENERATE A CLICKBAIT TITLE IN {lang.upper()} FOR: {tutorial['title']}. OUTPUT ONLY THE TITLE TEXT. NO 'Option 1'."
             resp_title = client.models.generate_content(model='gemini-2.0-flash', contents=prompt_title)
             
@@ -213,7 +221,8 @@ def main():
             slug = SlugManager.generate(final_title)
             
             meta = {"titulo": final_title, "slug": slug}
-            guardar_post(meta, texto, lang, "tools")
+            # INYECCIÓN DE IMAGEN MAESTRA
+            guardar_post(meta, texto, lang, "tools", forced_image=master_image)
             
         return
 
