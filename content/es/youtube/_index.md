@@ -5,5 +5,4 @@ layout: list
 title: Creator Economy
 translationKey: section-youtube
 type: youtube
-url: /youtube/
 ---

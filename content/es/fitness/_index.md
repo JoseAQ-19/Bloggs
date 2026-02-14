@@ -5,5 +5,4 @@ layout: list
 title: Biohacking & Fitness
 translationKey: section-fitness
 type: fitness
-url: /fitness/
 ---

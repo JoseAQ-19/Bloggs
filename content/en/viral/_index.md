@@ -4,5 +4,4 @@ featured_image: /images/_index.jpg
 title: Viral & Trends
 translationKey: section-viral
 type: viral
-url: /viral/
 ---

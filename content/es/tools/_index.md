@@ -4,5 +4,4 @@ layout: list
 title: Herramientas y Tutoriales
 translationKey: section-tools
 type: tools
-url: /tools/
 ---

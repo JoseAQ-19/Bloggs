@@ -5,5 +5,4 @@ layout: list
 title: IA & SaaS
 translationKey: section-ia
 type: ia
-url: /ia/
 ---
