@@ -1,39 +1,51 @@
-<nav class="pv3 ph3 ph4-ns main-nav-wrapper" role="navigation">
-  <div class="flex-l center items-center justify-between main-nav-flex">
-    
-    {{/* --- LOGICA HEADER VIVO --- */}}
-    {{ $section := .Section }}
-    {{ $icon := "🤖" }} 
-    {{ $sectionName := "TECH" }}
-    {{ $animClass := "float" }}
+{{/* --- HEADER: [ ☰ ] [ NOVUMWORLD ] [ EN | ES ] --- */}}
 
-    {{ if eq $section "crypto" }}
-      {{ $icon = "📈" }} {{ $sectionName = "CRYPTO" }} {{ $animClass = "spin-slow" }}
-    {{ else if eq $section "youtube" }}
-      {{ $icon = "🔴" }} {{ $sectionName = "CREATOR" }} {{ $animClass = "pulse" }}
-    {{ else if eq $section "fitness" }}
-      {{ $icon = "⚡" }} {{ $sectionName = "FITNESS" }} {{ $animClass = "shake" }}
-    {{ else if eq $section "viral" }}
-      {{ $icon = "🔥" }} {{ $sectionName = "VIRAL" }} {{ $animClass = "bounce" }}
-    {{ else if eq $section "ia" }}
-      {{ $icon = "🧠" }} {{ $sectionName = "AI/SAAS" }} {{ $animClass = "float" }}
-    {{ end }}
+{{ $section := .Section }}
+{{ $icon := "🤖" }} 
+{{ $sectionName := "TECH" }}
+{{ $animClass := "float" }}
 
-    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white white-90 dib no-underline nav-logo">
-      NOVUMWORLD <span style="color: var(--primary); margin: 0 10px;">|</span> 
-      <span class="header-icon {{ $animClass }}" style="display:inline-block;">{{ $icon }}</span> 
-      <span style="font-size: 0.8em; letter-spacing: 2px; color: var(--text-color);">{{ $sectionName }}</span>
-    </a>
+{{ if eq $section "crypto" }}
+  {{ $icon = "📈" }} {{ $sectionName = "CRYPTO" }} {{ $animClass = "spin-slow" }}
+{{ else if eq $section "youtube" }}
+  {{ $icon = "🔴" }} {{ $sectionName = "CREATOR" }} {{ $animClass = "pulse" }}
+{{ else if eq $section "fitness" }}
+  {{ $icon = "⚡" }} {{ $sectionName = "FITNESS" }} {{ $animClass = "shake" }}
+{{ else if eq $section "viral" }}
+  {{ $icon = "🔥" }} {{ $sectionName = "VIRAL" }} {{ $animClass = "bounce" }}
+{{ else if eq $section "ia" }}
+  {{ $icon = "🧠" }} {{ $sectionName = "AI/SAAS" }} {{ $animClass = "float" }}
+{{ end }}
 
-    <div class="flex-l items-center nav-links-container">
-      {{ partials.Include "i18nlist.html" . }}
-      
-      {{/* --- LANGUAGE SWITCHER (FIXED) --- */}}
-      <ul class="lang-switcher" style="display:flex; list-style:none; margin:0 1.5rem 0 0; padding:0; gap:0.5rem; border-right:1px solid rgba(255,255,255,0.1); padding-right:1.5rem;">
+<nav class="site-nav" role="navigation">
+  <div class="site-nav__inner" style="display:flex; justify-content:space-between; align-items:center; width:100%;">
+
+    {{/* --- LEFT: Hamburger Button --- */}}
+    <div class="flex items-center">
+      <button class="hamburger-btn" id="hamburger-btn" aria-label="Abrir menú" aria-expanded="false">
+        <span class="hamburger-btn__line"></span>
+        <span class="hamburger-btn__line"></span>
+        <span class="hamburger-btn__line"></span>
+      </button>
+    </div>
+
+    {{/* --- CENTER: Logo + Section --- */}}
+    <div class="flex items-center justify-center flex-grow-1">
+      <a href="{{ .Site.Home.RelPermalink }}" class="site-nav__logo">
+        NOVUMWORLD
+        <span class="site-nav__divider">|</span>
+        <span class="header-icon {{ $animClass }}">{{ $icon }}</span>
+        <span class="site-nav__section-name">{{ $sectionName }}</span>
+      </a>
+    </div>
+
+    {{/* --- RIGHT: Language Switcher --- */}}
+    <div class="flex items-center">
+      <ul class="lang-switcher" style="display:flex; list-style:none; margin:0; padding:0; gap:0.8rem;">
         {{ $page := . }}
         {{ range .Site.Languages }}
           {{ if eq .Lang $page.Language.Lang }}
-            <li><span class="lang-active" style="color:var(--primary); font-weight:bold;">{{ .Lang | upper }}</span></li>
+            <li><span class="lang-active" style="color:var(--primary); font-weight:800; cursor:default;">{{ .Lang | upper }}</span></li>
           {{ else }}
             <li>
                 {{ $targetLang := .Lang }}
@@ -43,8 +55,7 @@
                         {{ $transURL = .RelPermalink }}
                     {{ end }}
                 {{ end }}
-
-                {{/* Fallback a home del idioma si no hay traducción */}}
+                
                 {{ if not $transURL }}
                     {{ if eq $targetLang "en" }}
                         {{ $transURL = "/" }}
@@ -52,28 +63,42 @@
                         {{ $transURL = printf "/%s/" $targetLang }}
                     {{ end }}
                 {{ end }}
-                <a href="{{ $transURL }}" class="lang-link" style="color:var(--text-color); opacity:0.5; text-decoration:none;">{{ .Lang | upper }}</a>
+                
+                <a href="{{ $transURL }}" class="lang-link" style="color:var(--text-color); opacity:0.5; text-decoration:none; font-weight:400;">{{ .Lang | upper }}</a>
             </li>
           {{ end }}
         {{ end }}
       </ul>
-
-      {{ if .Site.Menus.main }}
-        <ul class="{{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }} nav-ul">
-          {{ range .Site.Menus.main }}
-          <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }} nav-li">
-            <a class="hover-white white-90 no-underline nav-a" href="{{ .URL }}" title="{{ lang.Translate "pageTitle" . }}">
-              {{ .Name }}
-            </a>
-          </li>
-          {{ end }}
-        </ul>
-      {{ end }}
-      {{ partials.IncludeCached "social/follow.html" . }}
     </div>
+
   </div>
 </nav>
 
+{{/* --- SIDEBAR MENU (Hidden by default) --- */}}
+<div class="sidebar-overlay" id="sidebar-overlay"></div>
+<aside class="sidebar" id="sidebar" aria-hidden="true">
+  <div class="sidebar__header">
+    <span class="sidebar__title">SECCIONES</span>
+    <button class="sidebar__close" id="sidebar-close">✕</button>
+  </div>
+  <ul class="sidebar__menu">
+    {{ if .Site.Menus.main }}
+      {{ range .Site.Menus.main }}
+      {{ $isActive := or (eq $.Section .Identifier) (eq $.Title .Name) }}
+      <li class="sidebar__item {{ if $isActive }}sidebar__item--active{{ end }}">
+        <a href="{{ .URL }}" class="sidebar__link sidebar__link--{{ .Identifier }}">
+          {{ .Name }}
+        </a>
+      </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+  <div class="sidebar__footer">
+    <p>{{ T "footer_copy" | safeHTML }}</p>
+  </div>
+</aside>
+
+{{/* --- STYLES & SCRIPTS --- */}}
 <style>
 @keyframes spin-slow { 100% { transform: rotate(360deg); } }
 @keyframes pulse { 50% { opacity: 0.5; } }
@@ -87,10 +112,31 @@
 .bounce { animation: bounce 2s infinite; }
 .float { animation: float 3s ease-in-out infinite; }
 
-/* Active Link Style */
-.active-link {
-    border-bottom: 2px solid var(--primary);
-    padding-bottom: 5px;
-    opacity: 1 !important;
-}
+.site-nav__inner { padding: 0 1rem; }
+.flex-grow-1 { flex-grow: 1; }
 </style>
+
+<script>
+(function() {
+  const btn = document.getElementById('hamburger-btn');
+  const sidebar = document.getElementById('sidebar');
+  const overlay = document.getElementById('sidebar-overlay');
+  const closeBtn = document.getElementById('sidebar-close');
+
+  function openMenu() {
+    sidebar.classList.add('sidebar--open');
+    overlay.classList.add('sidebar-overlay--visible');
+    btn.classList.add('hamburger-btn--active');
+  }
+
+  function closeMenu() {
+    sidebar.classList.remove('sidebar--open');
+    overlay.classList.remove('sidebar-overlay--visible');
+    btn.classList.remove('hamburger-btn--active');
+  }
+
+  if (btn) btn.addEventListener('click', openMenu);
+  if (closeBtn) closeBtn.addEventListener('click', closeMenu);
+  if (overlay) overlay.addEventListener('click', closeMenu);
+})();
+</script>
