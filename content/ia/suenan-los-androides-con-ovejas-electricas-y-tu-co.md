@@ -15,8 +15,6 @@ title: ¿Sueñan los Androides con Ovejas Eléctricas... y Tú con un Futuro de 
 type: ia
 ---
 
-# ¿Androides Soñando y Nosotros Despertando en una Distopía? El Futuro Cyberpunk Ya Está Aquí.
-
 Philip K. Dick nos avisó. Hace más de medio siglo, *¿Sueñan los androides con ovejas eléctricas?* no era solo ciencia ficción; era una profecía. Hoy, mientras observamos el auge del capitalismo de vigilancia, la proliferación de *deepfakes* y la erosión de la empatía genuina, la pregunta no es si la distopía se acerca, sino si ya estamos inmersos en ella. ¿Es el "futuro de mierda" del que hablaba Dick nuestro presente ineludible? Y si es así, ¿queda espacio para la esperanza?
 
 El término "Cyberpunk", nacido de la pluma de William Gibson, se ha convertido en algo más que un género literario. Es una descripción concisa de nuestra realidad: "alta tecnología, baja calidad de vida". La promesa de la innovación tecnológica como catalizador del progreso social se ha diluido en un panorama donde las corporaciones, no los gobiernos, ejercen un poder omnímodo, recolectando datos personales para manipular comportamientos y perpetuar desigualdades. La brecha entre los que tienen y los que no tienen se ensancha a la velocidad de la fibra óptica.

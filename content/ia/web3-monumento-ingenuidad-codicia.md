@@ -19,8 +19,6 @@ title: 'Web3: Un monumento a la ingenuidad y la codicia (Capítulo 34)'
 type: ia
 ---
 
-# Web3: Un monumento a la ingenuidad y la codicia (Capítulo 34)
-
 ¿Recuerdas la promesa de un internet descentralizado, donde tú controlabas tus datos y la censura era cosa del pasado? Esa era la Web3, la siguiente gran evolución de la red… o eso nos vendieron. Hoy, a mediados de 2025, la imagen que emerge es mucho menos brillante: un ecosistema plagado de esquemas financieros insostenibles, centralización disfrazada y una peligrosa desconexión entre la visión utópica y la cruda realidad. La Web3, tal como se concibió, se ha convertido en un terreno fértil para la ingenuidad y la codicia, un monumento a las aspiraciones fallidas.
 
 La idea fundamental detrás de la Web3 era noble: construir una red resistente a la manipulación, donde los usuarios tuvieran el control absoluto de su información y activos digitales. La tecnología blockchain, con su promesa de transparencia e inmutabilidad, se erigió como la piedra angular de esta nueva era. Sin embargo, tras la fachada descentralizada, se esconden patrones inquietantes de centralización y prácticas financieras cuestionables.

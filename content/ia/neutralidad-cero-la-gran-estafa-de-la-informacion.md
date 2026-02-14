@@ -14,8 +14,6 @@ title: 'Neutralidad Cero: La Gran Estafa de la Información Objetiva'
 type: ia
 ---
 
-# La Neutralidad Cero: Desmontando el Mito de la Información Objetiva
-
 En una era saturada de información, la promesa de la "neutralidad" en el periodismo resuena como un faro de verdad. Sin embargo, la noción de una "neutralidad cero" – la idea de que los periodistas pueden presentar información sin ningún tipo de sesgo – es, en el mejor de los casos, una ilusión ingenua y, en el peor, una herramienta para la manipulación. Es hora de diseccionar este concepto, examinar sus raíces históricas y exponer sus limitaciones inherentes.
 
 La búsqueda de la objetividad en el periodismo tiene una larga y compleja historia. Surgió en el siglo XIX como respuesta a la proliferación del periodismo partidista. La idea era simple: presentar los hechos sin adornos ni interpretaciones, permitiendo que el lector formara su propia opinión. Esta aspiración, noble en su concepción, pronto se encontró con la dura realidad de la complejidad humana.

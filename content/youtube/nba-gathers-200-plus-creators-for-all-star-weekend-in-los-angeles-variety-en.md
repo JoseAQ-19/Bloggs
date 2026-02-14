@@ -21,8 +21,6 @@ title: NBA Gathers 200-Plus Creators for All-Star Weekend in Los Angeles - Varie
 type: youtube
 ---
 
-# NBA Courts the Creator Economy: A High-Stakes Gamble for All-Star Weekend
-
 The NBA is betting big on influencers. For the 2026 All-Star Weekend in Los Angeles, the league didn't just invite the usual sports reporters; they rolled out the red carpet for over 200 digital creators, boasting a combined audience exceeding one billion followers. This isn't just about free marketing; it's a calculated move to reshape how a new generation consumes basketball and, more broadly, sports entertainment. But is this embrace of the creator economy a slam dunk, or a risky alley-oop that could lead to a turnover?
 
 ## Inside the NBA's Creator Playbook

@@ -14,8 +14,6 @@ title: Celular Te Espía. Y le Pagas por Ello
 type: ia
 ---
 
-# Tu Celular Te Espía. Y Le Pagas Por Ello. ¿Es Este el Nuevo Orden?
-
 ¿Alguna vez te has preguntado por qué ese anuncio de zapatos aparece justo después de que hablaste de necesitar un par nuevo con un amigo? No es magia, es vigilancia. En la era digital, tu teléfono móvil, ese dispositivo aparentemente indispensable, se ha convertido en el epicentro de una vasta red de recopilación y comercialización de datos personales. No solo pagas por el aparato y la conexión, sino que además financias un modelo de negocio donde tu privacidad es la moneda de cambio. Bienvenido al capitalismo de vigilancia.
 
 ## El Motor Económico Detrás de la Mirada Constante

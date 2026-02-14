@@ -14,8 +14,6 @@ title: ¿Nos Distrae la IA Mientras el Mundo se Derrumba?
 type: ia
 ---
 
-# IA: ¿Distracción Masiva Mientras el Planeta se Quema?
-
 La promesa dorada de la Inteligencia Artificial (IA) resplandece con la intensidad de mil soles, hipnotizando a una sociedad ávida de soluciones fáciles y futuros utópicos. Se nos vende la IA como la panacea a todos nuestros males, desde el cambio climático hasta la ineficiencia burocrática. Pero, ¿estamos tan deslumbrados por su brillo que hemos dejado de ver el fuego que consume el mundo a nuestro alrededor?
 
 Detrás del lenguaje florido de la innovación y la disrupción, se esconde una verdad incómoda: la IA, tal como se está desarrollando e implementando actualmente, es un potente distractor, una cortina de humo que oculta costos ambientales, sociales y políticos devastadores. No es una herramienta neutral, sino un campo de batalla donde grandes corporaciones tecnológicas (Big Tech) libran una guerra por el control de la información, la infraestructura y, en última instancia, el futuro de la humanidad.

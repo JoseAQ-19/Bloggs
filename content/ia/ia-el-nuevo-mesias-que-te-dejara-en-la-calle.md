@@ -14,8 +14,6 @@ title: 'IA: El Nuevo Mesías que te Dejará en la Calle'
 type: ia
 ---
 
-# IA: ¿El Mesías Digital o la Profecía Autocumplida del Desempleo?
-
 La Inteligencia Artificial (IA) se ha vendido como la panacea tecnológica, la solución a todos nuestros males, desde la crisis climática hasta la productividad estancada. Pero, ¿qué ocurre cuando la promesa mesiánica choca con la cruda realidad económica? Los datos revelan una verdad incómoda: la IA, en su forma actual, podría estar allanando el camino hacia una desigualdad sin precedentes y un futuro laboral sombrío para muchos.
 
 La narrativa dominante, impulsada por las grandes tecnológicas, pinta un futuro brillante impulsado por la eficiencia y la automatización. Sin embargo, esta visión optimista ignora el impacto devastador que la IA ya está teniendo en el empleo, los costos de vida y la distribución de la riqueza. Para muchos, la "revolución" de la IA no es una liberación, sino una sentencia de precariedad.

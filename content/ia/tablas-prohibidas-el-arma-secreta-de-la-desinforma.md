@@ -14,8 +14,6 @@ title: ¿Tablas Prohibidas? El Arma Secreta de la Desinformación
 type: ia
 ---
 
-# Gráficos Prohibidos: Cuando la Visualización de Datos se Convierte en Desinformación
-
 En la era de la información, la capacidad de presentar datos de manera clara y concisa se ha convertido en un activo crucial. Sin embargo, esta misma capacidad puede ser pervertida y utilizada como un arma para la desinformación, la manipulación y la polarización. Desde foros online que prohíben ciertos tipos de gráficos por su potencial para generar conflicto, hasta campañas políticas que manipulan visualizaciones estadísticas para influir en la opinión pública, el uso (y abuso) de los datos visuales se ha convertido en un campo de batalla clave en la guerra por la verdad. ¿Cómo es que algo tan aparentemente objetivo como un gráfico se convierte en una herramienta de engaño?
 
 **La Toxicidad Visual: Tablas Prohibidas en la Era de Reddit**

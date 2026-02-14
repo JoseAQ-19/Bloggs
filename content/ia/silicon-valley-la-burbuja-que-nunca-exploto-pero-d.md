@@ -14,8 +14,6 @@ title: 'Silicon Valley: La Burbuja que Nunca Explotó (Pero Debería)'
 type: ia
 ---
 
-# Silicon Valley: La Bomba de Tiempo Tecnológica (Que Nadie Quiere Desactivar)
-
 Silicon Valley. La meca del emprendimiento, el paraíso de los unicornios, el lugar donde una idea en un garaje puede convertirse en una fortuna multimillonaria. Pero tras el brillo de las rondas de financiación estratosféricas y las promesas de disrupción global, se esconde una realidad mucho más turbia: un ecosistema peligrosamente desequilibrado, a punto de estallar. La pregunta ya no es *si* la burbuja explotará, sino *cuándo* y, más importante, *qué quedará después*.
 
 La reciente implosión del Silicon Valley Bank (SVB) fue una señal inequívoca de la fragilidad que impregna el sistema.  No fue una anomalía; fue un síntoma de una enfermedad subyacente: la obsesión por el crecimiento a cualquier costo, la búsqueda desenfrenada de la valoración exponencial, y la negligencia criminal en la gestión de riesgos básicos. SVB, el banco preferido de las startups, se desplomó porque apostó fuerte a bonos a largo plazo, financiados con depósitos volátiles de capital de riesgo. Cuando las tasas de interés subieron, y las startups necesitaron retirar sus fondos, el castillo de naipes se vino abajo. El pánico cundió rápidamente: el 97% de los depósitos no estaban asegurados, lo que provocó una estampida masiva y la segunda quiebra bancaria más grande en la historia de Estados Unidos.

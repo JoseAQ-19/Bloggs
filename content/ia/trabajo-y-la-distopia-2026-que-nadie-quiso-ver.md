@@ -14,8 +14,6 @@ title: 'Trabajo y: La Distopía 2026 que Nadie Quiso Ver'
 type: ia
 ---
 
-# La Distopía Laboral de 2026: Metrópolis se Hace Realidad
-
 Fritz Lang, en su visionaria *Metrópolis* (1927), imaginó un futuro de rascacielos resplandecientes erigidos sobre la explotación de una clase obrera confinada a las profundidades de la ciudad. Lo que parecía una advertencia cinematográfica, un ejercicio de ciencia ficción expresionista, se está convirtiendo, alarmantemente, en una profecía autocumplida. 2026, el año en que transcurre la trama de *Metrópolis*, se cierne sobre nosotros con la promesa de una fractura laboral aún más profunda, exacerbada por la inteligencia artificial (IA) y un sistema económico que parece favorecer a los pocos en detrimento de los muchos. No estamos ante una utopía tecnológica, sino ante una "metamorfosis defectuosa" hacia un tecno-feudalismo donde la libertad y la prosperidad se convierten en privilegios, no en derechos.
 
 **El Dato Crudo: Precariedad y Estancamiento**
