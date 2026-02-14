@@ -1,102 +1,97 @@
 baseURL = "https://novumworld.com/"
-defaultContentLanguage = "en" # CAMBIO: Inglés por defecto como pediste
 title = "NovumWorld"
 theme = "ananke"
+defaultContentLanguage = "en"  # Inglés será la raíz /
+enableEmoji = true
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-us"
+    contentDir = "content/en"
+    weight = 1
+    title = "NovumWorld"
+    [languages.en.params]
+      description = "The Future of Tech & AI"
+
+  [languages.es]
+    languageName = "Español"
+    languageCode = "es-es"
+    contentDir = "content/es"
+    weight = 2
+    title = "NovumWorld (ES)"
+    [languages.es.params]
+      description = "El futuro de la tecnología y la IA"
 
 [pagination]
   pagerSize = 6
 
 [params]
-  description = "The future of technology and AI"
   custom_css = ["css/custom.css"]
+  description = "The Future of Tech & AI"
 
-# --- MULTILINGUAL ARCHITECTURE ---
+# --- MENÚS (Definidos globalmente, Hugo los asigna por idioma si coinciden urls o translationKey) ---
+# Pero es mejor definirlos por idioma para controlar las URLs exactas
 
-[languages]
-  [languages.en]
-    languageName = "English"
-    contentDir = "content/en"
-    weight = 1
-    title = "NovumWorld"
-    
-  [languages.es]
-    languageName = "Español"
-    contentDir = "content/es"
-    weight = 2
-    title = "NovumWorld (ES)"
+[[languages.en.menu.main]]
+  identifier = "ia"
+  name = "🤖 AI & SaaS"
+  url = "/ia/"
+  weight = 10
+[[languages.en.menu.main]]
+  identifier = "crypto"
+  name = "🪙 Crypto"
+  url = "/crypto/"
+  weight = 20
+[[languages.en.menu.main]]
+  identifier = "fitness"
+  name = "💪 Biohacking"
+  url = "/fitness/"
+  weight = 30
+[[languages.en.menu.main]]
+  identifier = "youtube"
+  name = "🔴 Creators"
+  url = "/youtube/"
+  weight = 40
+[[languages.en.menu.main]]
+  identifier = "viral"
+  name = "🔥 Viral"
+  url = "/viral/"
+  weight = 50
+[[languages.en.menu.main]]
+  identifier = "tools"
+  name = "🛠️ Tools"
+  url = "/tools/"
+  weight = 60
 
-# --- MENUS POR IDIOMA ---
-
-[languages.en.menu]
-  [[languages.en.menu.main]]
-    identifier = "ia"
-    name = "🤖 AI & SaaS"
-    url = "/ia/"
-    weight = 10
-  [[languages.en.menu.main]]
-    identifier = "crypto"
-    name = "🪙 Crypto"
-    url = "/crypto/"
-    weight = 20
-  [[languages.en.menu.main]]
-    identifier = "fitness"
-    name = "💪 Biohacking"
-    url = "/fitness/"
-    weight = 30
-  [[languages.en.menu.main]]
-    identifier = "youtube"
-    name = "🔴 Creators"
-    url = "/youtube/"
-    weight = 40
-  [[languages.en.menu.main]]
-    identifier = "viral"
-    name = "🔥 Viral"
-    url = "/viral/"
-    weight = 50
-  [[languages.en.menu.main]]
-    identifier = "tools"
-    name = "🛠️ Tools"
-    url = "/tools/"
-    weight = 60
-  [[languages.en.menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 90
-
-[languages.es.menu]
-  [[languages.es.menu.main]]
-    identifier = "ia"
-    name = "🤖 IA & SaaS"
-    url = "/ia/"
-    weight = 10
-  [[languages.es.menu.main]]
-    identifier = "crypto"
-    name = "🪙 Crypto"
-    url = "/crypto/"
-    weight = 20
-  [[languages.es.menu.main]]
-    identifier = "fitness"
-    name = "💪 Fitness"
-    url = "/fitness/"
-    weight = 30
-  [[languages.es.menu.main]]
-    identifier = "youtube"
-    name = "🔴 Creators"
-    url = "/youtube/"
-    weight = 40
-  [[languages.es.menu.main]]
-    identifier = "viral"
-    name = "🔥 Viral"
-    url = "/viral/"
-    weight = 50
-  [[languages.es.menu.main]]
-    identifier = "tools"
-    name = "🛠️ Tools"
-    url = "/tools/"
-    weight = 60
-  [[languages.es.menu.main]]
-    identifier = "contact"
-    name = "Contacto"
-    url = "/contact/"
-    weight = 90
+# --- MENÚ ESPAÑOL ---
+[[languages.es.menu.main]]
+  identifier = "ia"
+  name = "🤖 IA y SaaS"
+  url = "/ia/"
+  weight = 10
+[[languages.es.menu.main]]
+  identifier = "crypto"
+  name = "🪙 Cripto"
+  url = "/crypto/"
+  weight = 20
+[[languages.es.menu.main]]
+  identifier = "fitness"
+  name = "💪 Biohacking"
+  url = "/fitness/"
+  weight = 30
+[[languages.es.menu.main]]
+  identifier = "youtube"
+  name = "🔴 Creadores"
+  url = "/youtube/"
+  weight = 40
+[[languages.es.menu.main]]
+  identifier = "viral"
+  name = "🔥 Viral"
+  url = "/viral/"
+  weight = 50
+[[languages.es.menu.main]]
+  identifier = "tools"
+  name = "🛠️ Herramientas"
+  url = "/tools/"
+  weight = 60

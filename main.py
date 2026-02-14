@@ -142,7 +142,7 @@ def escribir_blueprint(tutorial_data, lang="en"):
     resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
     return resp.text.strip()
 
-def guardar_post(meta, contenido, lang, category, forced_image=None):
+def guardar_post(meta, contenido, lang, category, forced_image=None, translation_key=None):
     # Lógica Blindada de Silos: content/{lang}/{category}
     output_dir = f"content/{lang}/{category}"
     os.makedirs(output_dir, exist_ok=True)
@@ -169,6 +169,7 @@ tags: ["{config['name']}", "Tutorials", "Blueprints"]
 categories: ["{category}"]
 type: "{category}"
 language: "{lang}"
+translationKey: "{translation_key}"
 ---
 
 ![{meta['titulo']}]({imagen})
@@ -239,10 +240,14 @@ def main():
     res = researcher.Researcher()
     contexto = res.research_topic(f"{tema} {NICHES[cat]['search_context']}")
     
+    # Generar Translation Key única para este par de artículos
+    import uuid
+    trans_key = str(uuid.uuid4())
+    
     for lang in ["es", "en"]:
         meta = planificar_articulo(tema, contexto, lang, NICHES[cat])
         texto = escribir_articulo(meta, contexto, lang, NICHES[cat])
-        guardar_post(meta, texto, lang, cat)
+        guardar_post(meta, texto, lang, cat, translation_key=trans_key)
         
     with open(COMPLETED_FILE, 'a') as f:
         f.write(f"{cat}: {tema}\n")

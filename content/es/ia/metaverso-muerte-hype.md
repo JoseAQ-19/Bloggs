@@ -16,10 +16,9 @@ tags:
 - Geopolitics
 - remastered
 title: 'Metaverso: El cementerio digital de las ambiciones fallidas'
-translationKey: metaverse-pyramid-scheme
+translationKey: d97adf89-8d34-4b07-94e7-7276bc0a1f7a
 type: ia
 ---
-
 El metaverso: ¿un cementerio digital o un renacimiento en ciernes?
 
 El metaverso, otrora la niña mimada de Silicon Valley, se ha convertido en un tema tabú en las conversaciones tecnológicas. Promesas de mundos virtuales inmersivos, economías digitales florecientes y nuevas formas de interacción social se han topado con la dura realidad de visores acumulando polvo, plataformas desoladas y un escepticismo generalizado. ¿Fue el metaverso una burbuja inflada por el hype y la especulación, o simplemente un proyecto prematuro que necesita una nueva dirección?

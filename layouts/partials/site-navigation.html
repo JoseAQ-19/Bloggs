@@ -1,20 +1,20 @@
 {{/* --- HEADER: [ ☰ ] [ NOVUMWORLD ] [ EN | ES ] --- */}}
 
 {{ $section := .Section }}
-{{ $icon := "🤖" }} 
+{{ $icon := "🤖" }}
 {{ $sectionName := "TECH" }}
 {{ $animClass := "float" }}
 
 {{ if eq $section "crypto" }}
-  {{ $icon = "📈" }} {{ $sectionName = "CRYPTO" }} {{ $animClass = "spin-slow" }}
+{{ $icon = "📈" }} {{ $sectionName = "CRYPTO" }} {{ $animClass = "spin-slow" }}
 {{ else if eq $section "youtube" }}
-  {{ $icon = "🔴" }} {{ $sectionName = "CREATOR" }} {{ $animClass = "pulse" }}
+{{ $icon = "🔴" }} {{ $sectionName = "CREATOR" }} {{ $animClass = "pulse" }}
 {{ else if eq $section "fitness" }}
-  {{ $icon = "⚡" }} {{ $sectionName = "FITNESS" }} {{ $animClass = "shake" }}
+{{ $icon = "⚡" }} {{ $sectionName = "FITNESS" }} {{ $animClass = "shake" }}
 {{ else if eq $section "viral" }}
-  {{ $icon = "🔥" }} {{ $sectionName = "VIRAL" }} {{ $animClass = "bounce" }}
+{{ $icon = "🔥" }} {{ $sectionName = "VIRAL" }} {{ $animClass = "bounce" }}
 {{ else if eq $section "ia" }}
-  {{ $icon = "🧠" }} {{ $sectionName = "AI/SAAS" }} {{ $animClass = "float" }}
+{{ $icon = "🧠" }} {{ $sectionName = "AI/SAAS" }} {{ $animClass = "float" }}
 {{ end }}
 
 <nav class="site-nav" role="navigation">
@@ -44,47 +44,56 @@
       <ul class="lang-switcher" style="display:flex; list-style:none; margin:0; padding:0; gap:0.8rem;">
         {{ $currentLang := .Site.Language.Lang }}
         {{ $page := . }}
-        
-        {{ range .Site.Languages }}
-          {{ $loopLang := .Lang }}
-          {{ if eq $loopLang $currentLang }}
-            <!-- Idioma Actual -->
-            <li><span class="lang-active" style="color:var(--primary); font-weight:800; cursor:default;">{{ .Lang | upper }}</span></li>
-          {{ else }}
-            <!-- Enlace al Otro Idioma -->
-            <li>
-                {{ $targetURL := "" }}
-                
-                {{/* 1. Traducción exacta */}}
-                {{ if $page.IsTranslated }}
-                    {{ range $page.Translations }}
-                        {{ if eq .Language.Lang $loopLang }}
-                            {{ $targetURL = .RelPermalink }}
-                        {{ end }}
-                    {{ end }}
-                {{ end }}
-                
-                {{/* 2. Fallback Inteligente (Misma Sección) */}}
-                {{ if eq $targetURL "" }}
-                   {{ if $page.Section }}
-                       {{/* Construir ruta de sección: /es/crypto/ o /crypto/ (para EN) */}}
-                       {{ if eq $loopLang "en" }}
-                           {{ $targetURL = printf "/%s/" $page.Section }}
-                       {{ else }}
-                           {{ $targetURL = printf "/%s/%s/" $loopLang $page.Section }}
-                       {{ end }}
-                   {{ end }}
-                {{ end }}
 
-                {{/* 3. Fallback Final (Home) */}}
-                {{ if eq $targetURL "" }}
-                   {{ $targetURL = printf "/%s/" $loopLang }}
-                   {{ if eq $loopLang "en" }}{{ $targetURL = "/" }}{{ end }} 
-                {{ end }}
-                
-                <a href="{{ $targetURL }}" class="lang-link" style="color:var(--text-color); opacity:0.5; text-decoration:none; font-weight:400;">{{ .Lang | upper }}</a>
-            </li>
+        {{ range .Site.Languages }}
+        {{ $loopLang := .Lang }}
+        {{ if eq $loopLang $currentLang }}
+        <!-- Idioma Actual -->
+        <li><span class="lang-active" style="color:var(--primary); font-weight:800; cursor:default;">{{ .Lang | upper
+            }}</span></li>
+        {{ else }}
+        <!-- Enlace al Otro Idioma -->
+        <li>
+          {{ $targetURL = "" }}
+
+          {{/* 1. Traducción exacta (Priority) */}}
+          {{ if .IsTranslated }}
+          {{ range .Translations }}
+          {{ if eq .Language.Lang $loopLang }}
+          {{ $targetURL = .RelPermalink }}
           {{ end }}
+          {{ end }}
+          {{ end }}
+
+          {{/* 2. Fallback Inteligente (Misma Sección) */}}
+          {{ if eq $targetURL "" }}
+          {{ if .Section }}
+          {{/* Construir ruta de sección robusta */}}
+          {{ $sect := .Section | lower }}
+
+          {{ if eq $loopLang "en" }}
+          {{/* EN es raíz: /section/ */}}
+          {{ $targetURL = printf "/%s/" $sect }}
+          {{ else }}
+          {{/* ES es prefijo: /es/section/ */}}
+          {{ $targetURL = printf "/%s/%s/" $loopLang $sect }}
+          {{ end }}
+          {{ end }}
+          {{ end }}
+
+          {{/* 3. Fallback Final (Home) */}}
+          {{ if eq $targetURL "" }}
+          {{ if eq $loopLang "en" }}
+          {{ $targetURL = "/" }}
+          {{ else }}
+          {{ $targetURL = printf "/%s/" $loopLang }}
+          {{ end }}
+          {{ end }}
+
+          <a href="{{ $targetURL }}" class="lang-link"
+            style="color:var(--text-color); opacity:0.5; text-decoration:none; font-weight:400;">{{ .Lang | upper }}</a>
+        </li>
+        {{ end }}
         {{ end }}
       </ul>
     </div>
@@ -101,14 +110,14 @@
   </div>
   <ul class="sidebar__menu">
     {{ if .Site.Menus.main }}
-      {{ range .Site.Menus.main }}
-      {{ $isActive := or (eq $.Section .Identifier) (eq $.Title .Name) }}
-      <li class="sidebar__item {{ if $isActive }}sidebar__item--active{{ end }}">
-        <a href="{{ .URL }}" class="sidebar__link sidebar__link--{{ .Identifier }}">
-          {{ .Name }}
-        </a>
-      </li>
-      {{ end }}
+    {{ range .Site.Menus.main }}
+    {{ $isActive := or (eq $.Section .Identifier) (eq $.Title .Name) }}
+    <li class="sidebar__item {{ if $isActive }}sidebar__item--active{{ end }}">
+      <a href="{{ .URL }}" class="sidebar__link sidebar__link--{{ .Identifier }}">
+        {{ .Name }}
+      </a>
+    </li>
+    {{ end }}
     {{ end }}
   </ul>
   <div class="sidebar__footer">
@@ -118,43 +127,147 @@
 
 {{/* --- STYLES & SCRIPTS --- */}}
 <style>
-@keyframes spin-slow { 100% { transform: rotate(360deg); } }
-@keyframes pulse { 50% { opacity: 0.5; } }
-@keyframes shake { 0% { transform: translate(1px, 1px) rotate(0deg); } 10% { transform: translate(-1px, -2px) rotate(-1deg); } 20% { transform: translate(-3px, 0px) rotate(1deg); } 30% { transform: translate(3px, 2px) rotate(0deg); } 40% { transform: translate(1px, -1px) rotate(1deg); } 50% { transform: translate(-1px, 2px) rotate(-1deg); } 60% { transform: translate(-3px, 1px) rotate(0deg); } 70% { transform: translate(3px, 1px) rotate(-1deg); } 80% { transform: translate(-1px, -1px) rotate(1deg); } 90% { transform: translate(1px, 2px) rotate(0deg); } 100% { transform: translate(1px, -2px) rotate(-1deg); } }
-@keyframes bounce { 0%, 20%, 50%, 80%, 100% {transform: translateY(0);} 40% {transform: translateY(-10px);} 60% {transform: translateY(-5px);} }
-@keyframes float { 0% { transform: translateY(0px); } 50% { transform: translateY(-5px); } 100% { transform: translateY(0px); } }
+  @keyframes spin-slow {
+    100% {
+      transform: rotate(360deg);
+    }
+  }
 
-.spin-slow { animation: spin-slow 3s linear infinite; }
-.pulse { animation: pulse 1s infinite; }
-.shake { animation: shake 0.5s infinite; }
-.bounce { animation: bounce 2s infinite; }
-.float { animation: float 3s ease-in-out infinite; }
+  @keyframes pulse {
+    50% {
+      opacity: 0.5;
+    }
+  }
 
-.site-nav__inner { padding: 0 1rem; }
-.flex-grow-1 { flex-grow: 1; }
+  @keyframes shake {
+    0% {
+      transform: translate(1px, 1px) rotate(0deg);
+    }
+
+    10% {
+      transform: translate(-1px, -2px) rotate(-1deg);
+    }
+
+    20% {
+      transform: translate(-3px, 0px) rotate(1deg);
+    }
+
+    30% {
+      transform: translate(3px, 2px) rotate(0deg);
+    }
+
+    40% {
+      transform: translate(1px, -1px) rotate(1deg);
+    }
+
+    50% {
+      transform: translate(-1px, 2px) rotate(-1deg);
+    }
+
+    60% {
+      transform: translate(-3px, 1px) rotate(0deg);
+    }
+
+    70% {
+      transform: translate(3px, 1px) rotate(-1deg);
+    }
+
+    80% {
+      transform: translate(-1px, -1px) rotate(1deg);
+    }
+
+    90% {
+      transform: translate(1px, 2px) rotate(0deg);
+    }
+
+    100% {
+      transform: translate(1px, -2px) rotate(-1deg);
+    }
+  }
+
+  @keyframes bounce {
+
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+      transform: translateY(0);
+    }
+
+    40% {
+      transform: translateY(-10px);
+    }
+
+    60% {
+      transform: translateY(-5px);
+    }
+  }
+
+  @keyframes float {
+    0% {
+      transform: translateY(0px);
+    }
+
+    50% {
+      transform: translateY(-5px);
+    }
+
+    100% {
+      transform: translateY(0px);
+    }
+  }
+
+  .spin-slow {
+    animation: spin-slow 3s linear infinite;
+  }
+
+  .pulse {
+    animation: pulse 1s infinite;
+  }
+
+  .shake {
+    animation: shake 0.5s infinite;
+  }
+
+  .bounce {
+    animation: bounce 2s infinite;
+  }
+
+  .float {
+    animation: float 3s ease-in-out infinite;
+  }
+
+  .site-nav__inner {
+    padding: 0 1rem;
+  }
+
+  .flex-grow-1 {
+    flex-grow: 1;
+  }
 </style>
 
 <script>
-(function() {
-  const btn = document.getElementById('hamburger-btn');
-  const sidebar = document.getElementById('sidebar');
-  const overlay = document.getElementById('sidebar-overlay');
-  const closeBtn = document.getElementById('sidebar-close');
+  (function () {
+    const btn = document.getElementById('hamburger-btn');
+    const sidebar = document.getElementById('sidebar');
+    const overlay = document.getElementById('sidebar-overlay');
+    const closeBtn = document.getElementById('sidebar-close');
 
-  function openMenu() {
-    sidebar.classList.add('sidebar--open');
-    overlay.classList.add('sidebar-overlay--visible');
-    btn.classList.add('hamburger-btn--active');
-  }
+    function openMenu() {
+      sidebar.classList.add('sidebar--open');
+      overlay.classList.add('sidebar-overlay--visible');
+      btn.classList.add('hamburger-btn--active');
+    }
 
-  function closeMenu() {
-    sidebar.classList.remove('sidebar--open');
-    overlay.classList.remove('sidebar-overlay--visible');
-    btn.classList.remove('hamburger-btn--active');
-  }
+    function closeMenu() {
+      sidebar.classList.remove('sidebar--open');
+      overlay.classList.remove('sidebar-overlay--visible');
+      btn.classList.remove('hamburger-btn--active');
+    }
 
-  if (btn) btn.addEventListener('click', openMenu);
-  if (closeBtn) closeBtn.addEventListener('click', closeMenu);
-  if (overlay) overlay.addEventListener('click', closeMenu);
-})();
+    if (btn) btn.addEventListener('click', openMenu);
+    if (closeBtn) closeBtn.addEventListener('click', closeMenu);
+    if (overlay) overlay.addEventListener('click', closeMenu);
+  })();
 </script>
