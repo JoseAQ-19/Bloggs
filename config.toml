@@ -29,6 +29,7 @@ enableEmoji = true
 [params]
   custom_css = ["css/custom.css"]
   description = "The Future of Tech & AI"
+  author = "NovumWorld Editorial Team"
 
 # --- MENÚS (Definidos globalmente, Hugo los asigna por idioma si coinciden urls o translationKey) ---
 # Pero es mejor definirlos por idioma para controlar las URLs exactas

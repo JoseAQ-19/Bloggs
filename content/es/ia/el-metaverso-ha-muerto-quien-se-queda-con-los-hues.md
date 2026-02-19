@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-02-08 16:04:02
-description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
-draft: false
+description: ""
+draft: true
 featured_image: /images/el-metaverso-ha-muerto-quien-se-queda-con-los-hues.jpg
 language: es
 last_updated: '2026-02-14'

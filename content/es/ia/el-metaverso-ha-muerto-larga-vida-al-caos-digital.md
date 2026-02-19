@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-02-06 08:09:05
-description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
-draft: false
+description: ""
+draft: true
 featured_image: /images/el-metaverso-ha-muerto-larga-vida-al-caos-digital.jpg
 language: es
 last_updated: '2026-02-14'

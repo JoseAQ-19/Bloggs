@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-29 16:09:14
-description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
+description: ""
 draft: false
 featured_image: /images/el-mito-del-progreso-como-la-ia-nos-vende-un-futur.jpg
 language: es

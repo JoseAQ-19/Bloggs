@@ -37,13 +37,39 @@ except ValueError:
     print("⚠️ ADVERTENCIA: No se encontró API KEY.")
     client = None
 
-# --- SYSTEM PROMPT GLOBAL ---
+# --- SYSTEM PROMPT GLOBAL (Fenix V3 Anti-AI) ---
 SYSTEM_FORMAT_RULES = """
-CRITICAL FORMATTING RULES (ZERO TOLERANCE):
+CRITICAL FORMATTING RULES (ZERO TOLERANCE — VIOLATION = ARTICLE REJECTED):
+
 1. NO TITLE REPETITION: Do NOT include the article title or H1 at the beginning.
 2. START IMMEDIATELY: Start with the Hook paragraph directly.
-3. FORBIDDEN PHRASES: Do NOT use "TL;DR", "Key Takeaways", "In summary", "In conclusion".
+3. FORBIDDEN PHRASES (INSTANT REJECTION IF FOUND):
+   - English: "TL;DR", "Key Takeaways", "In summary", "In conclusion", "It remains to be seen", "In the ever-evolving", "It's worth noting", "Navigating the complexities"
+   - Spanish: "En resumen", "En conclusión", "En última instancia", "En el vertiginoso", "Cabe destacar", "Un arma de doble filo", "Queda por ver"
 4. HEADERS: Use H2 (##) for main sections. NEVER use H1 (#).
+5. OUTBOUND LINKS (MANDATORY — MINIMUM 3):
+   Include at least 3 hyperlinks to REAL external authoritative sources in markdown format.
+   Examples: academic papers, official reports, established news outlets (Reuters, Bloomberg, TechCrunch, ArsTechnica, PubMed).
+   Format: [descriptive anchor text](https://real-verified-url.com)
+   NEVER fabricate or hallucinate URLs. Only link to sources you are confident exist.
+6. UNIQUE DATA POINT (MANDATORY — MINIMUM 1):
+   Include at least ONE original comparative calculation, metric, or data insight that adds information gain.
+   Example: "If we divide Meta's $70B investment by Horizon's 200K monthly users, that's $350,000 per user — more expensive than a median US house."
+   The reader must learn something they CANNOT find in any other article.
+7. PARAGRAPH LENGTH VARIATION (MANDATORY):
+   Paragraphs MUST vary between 1 and 6 sentences. Include at least:
+   - One single-sentence paragraph for dramatic effect
+   - One longer analytical paragraph (5-6 sentences)
+   UNIFORM paragraph length is FORBIDDEN.
+8. NO CONSTANT BULLET LISTS:
+   Do NOT use bullet point lists in every section. Maximum ONE bulleted list per article.
+   Prefer narrative prose, numbered steps, comparison tables, or Q&A format.
+9. PERSONAL VOICE (MANDATORY):
+   Include at least ONE editorial hot take, personal opinion, or rhetorical question that shows genuine author personality.
+   The article must NOT read like a Wikipedia summary.
+10. LANGUAGE PURITY:
+    If writing in Spanish, ALL text must be in Spanish. No Spanglish, no untranslated English headers.
+    If writing in English, ALL text must be in English.
 """
 
 # --- CONFIGURACIÓN DE NICHOS ---
@@ -91,12 +117,60 @@ NICHES = {
 }
 
 STRUCTURE_TEMPLATES = {
-    'type_a': "PERIODISTIC: TL;DR -> Intro -> H2 Analysis -> H2 Impact -> Conclusion",
-    'type_b': "STORYTELLING: Personal Hook -> The Problem -> The Deep Dive -> The Solution",
-    'type_c': "LISTICLE: Rapid Intro -> 5 Key Points (Numbered) -> Final Verdict"
+    'type_a': "INVESTIGATIVE JOURNALISM: Strong Opening Hook -> H2 Context & Background -> H2 Deep Analysis with Data -> H2 Expert Perspectives -> Final Editorial Take",
+    'type_b': "NARRATIVE ESSAY: Personal Anecdote or Provocation -> The Core Problem (with numbers) -> Historical Parallel or Case Study -> Contrarian View -> Author's Verdict",
+    'type_c': "DATA-DRIVEN REPORT: Striking Statistic Opening -> H2 The Numbers (tables/comparisons) -> H2 What It Means (analysis) -> H2 What Comes Next (prediction)",
+    'type_d': "DEBATE FORMAT: Thesis Statement -> H2 The Case For -> H2 The Case Against -> H2 The Uncomfortable Truth -> Short Closing Provocation"
 }
 
 COMPLETED_FILE = 'data/completed.txt'
+
+# --- FENIX V3: Bloqueo de Redundancia Semántica ---
+STOPWORDS = {'the', 'and', 'of', 'in', 'to', 'a', 'is', 'for', 'on', 'with', 'that', 'it', 'as', 'by', 'an', 'at',
+             'el', 'la', 'de', 'en', 'y', 'los', 'las', 'del', 'al', 'un', 'una', 'es', 'por', 'que', 'se', 'con',
+             'su', 'no', 'para', 'como', 'más', 'pero', 'sus', 'le', 'ya', 'o', 'fue', 'este', 'ha', 'son', 'its',
+             'are', 'was', 'be', 'been', 'has', 'have', 'not', 'but', 'from', 'or', 'which', 'we', 'they', 'will',
+             'about', 'today', 'why', 'how', 'what', 'trending', 'analysis', 'new', 'latest'}
+
+def is_topic_redundant(new_topic, category):
+    """Bloquea temas con más de 60% de solapamiento semántico con temas completados en la misma categoría."""
+    if not os.path.exists(COMPLETED_FILE):
+        return False
+    
+    with open(COMPLETED_FILE, 'r', encoding='utf-8') as f:
+        lines = [l.strip() for l in f if l.strip()]
+    
+    # Filtrar solo temas de la misma categoría
+    category_topics = []
+    for line in lines:
+        if line.startswith(f"{category}:"):
+            topic_text = line.split(":", 1)[1].strip().lower()
+            category_topics.append(topic_text)
+    
+    if not category_topics:
+        return False
+    
+    # Extraer keywords del nuevo tema (sin stopwords)
+    new_keywords = {w for w in new_topic.lower().split() if w not in STOPWORDS and len(w) > 2}
+    
+    if not new_keywords:
+        return False
+    
+    # Comparar contra cada tema existente
+    for existing_topic in category_topics:
+        existing_keywords = {w for w in existing_topic.split() if w not in STOPWORDS and len(w) > 2}
+        if not existing_keywords:
+            continue
+        
+        # Solapamiento bidireccional
+        overlap = len(new_keywords & existing_keywords)
+        similarity = overlap / min(len(new_keywords), len(existing_keywords))
+        
+        if similarity > 0.6:
+            print(f"  ⚠️ REDUNDANCY: '{new_topic}' overlaps {similarity*100:.0f}% with '{existing_topic}'")
+            return True
+    
+    return False
 
 def safety_check(topic):
     try:
@@ -162,8 +236,13 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
     now = datetime.now()
     backdate = random.randint(15, 30) if lang == 'es' else random.randint(2, 10)
     date_str = (now - timedelta(minutes=backdate)).strftime("%Y-%m-%dT%H:%M:%S")
-    # Sanitización de comillas para YAML
-    clean_text = re.sub(r'[#*]', '', contenido)[:160].replace('\n', ' ').replace('"', "'") + "..."
+    # Generación inteligente de meta description (Fenix V3: evita descriptions genéricas)
+    try:
+        desc_prompt = f"Write a unique, compelling meta description of EXACTLY 140-155 characters in {'Spanish' if lang == 'es' else 'English'} for an article titled '{meta['titulo']}'. Output ONLY the description text, nothing else. No quotes around it."
+        desc_resp = client.models.generate_content(model='gemini-2.0-flash', contents=desc_prompt)
+        clean_text = desc_resp.text.strip()[:160].replace('"', "'")
+    except Exception:
+        clean_text = re.sub(r'[#*]', '', contenido)[:160].replace('\n', ' ').replace('"', "'") + "..."
     
     # Resolver nombre legible de la categoría (FIX: config['name'] → NICHES lookup)
     niche_info = NICHES.get(category, {})
@@ -246,6 +325,11 @@ def main():
     print(f"🚀 INICIANDO PENTAGON: {NICHES[cat]['name']}")
     tema = trend_hunter.TrendHunter.get_trend(cat)
     if not tema or not safety_check(tema): return
+    
+    # --- FENIX V3: BLOQUEO DE REDUNDANCIA ---
+    if is_topic_redundant(tema, cat):
+        print(f"🚫 TOPIC BLOCKED BY REDUNDANCY CHECK: '{tema}'. Skipping.")
+        return
     
     print(f"🎯 TEMA: {tema}")
     res = researcher.Researcher()

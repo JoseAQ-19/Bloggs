@@ -2,10 +2,9 @@
 categories:
 - ia
 date: 2026-01-27 21:39:16
-description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
-draft: false
+description: ""
+draft: true
 featured_image: /images/geopolitica-2026-el-ano-que-el-mundo-se-rompio-y-n.jpg
-image: https://image.pollinations.ai/prompt/A%20lone%2C%20weathered%20shipping%20container%20emblazoned%20with%20faded%20Chinese%20characters%20rests%20precariously%20atop%20a%20toppled%20stack%20in%20a%20sprawling%2C%20flooded%20port%20city%20choked%20by%20acid%20rain%2C%20reflecting%20the%20sickly%20yellow%20glow%20of%20burning%20oil%20refineries%20on%20the%20horizon%20where%20drones%20the%20size%20of%20fighter%20jets%20engage%20in%20a%20silent%2C%20deadly%20ballet%2C%20while%20in%20the%20foreground%2C%20a%20lone%2C%20hooded%20figure%20scavenges%20amongst%20debris%20littered%20with%20discarded%20virtual%20reality%20headsets%20and%20tattered%20remnants%20of%20national%20flags%2C%20illuminated%20only%20by%20the%20flickering%20light%20of%20a%20holographic%20advertisement%20for%20a%20luxury%20escape%20to%20Mars%2C%20ironically%20juxtaposed%20against%20the%20palpable%20desperation%20and%20decay%20of%20a%20forgotten%20Earth.?model=flux&width=1280&height=720&seed=771420&nologo=true
 language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm

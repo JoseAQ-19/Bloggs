@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-30 00:06:12
-description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
+description: ""
 draft: false
 featured_image: /images/el-tabu-tecnologico-lo-que-no-quieren-que-sepas.jpg
 language: es

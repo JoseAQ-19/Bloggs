@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-02-01 00:05:39
-description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
+description: ""
 draft: false
 featured_image: /images/nos-distrae-la-ia-mientras-el-mundo-se-derrumba.jpg
 language: es

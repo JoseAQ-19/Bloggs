@@ -2,10 +2,9 @@
 categories:
 - ia
 date: 2026-01-28 07:13:17
-description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
-draft: false
+description: ""
+draft: true
 featured_image: /images/la-ia-no-viene-a-salvarnos-viene-a-explotarnos.jpg
-image: https://image.pollinations.ai/prompt/Heres%20a%20single-sentence%20visual%20description%20in%20English%20as%20requested%3A%0A%0AA%20desolate%20cyberpunk%20cityscape%2C%20choked%20by%20neon%20advertisements%20peddling%20digital%20escapism%2C%20casts%20a%20sickly%20green%20glow%20upon%20rain-slicked%20streets%20where%20a%20solitary%2C%20tattered%20figure%2C%20their%20face%20obscured%20by%20a%20datamasked%20cowl%2C%20desperately%20clutches%20a%20worn%2C%20analog%20book%2C%20a%20stark%20contrast%20to%20the%20towering%20holographic%20projections%20of%20smiling%2C%20augmented%20beings%20effortlessly%20consuming%20AI-generated%20content%2C%20their%20blank%2C%20empty%20eyes%20reflecting%20the%20cold%2C%20calculating%20algorithms%20that%20silently%20drain%20the%20very%20essence%20of%20human%20creativity%20and%20connection%2C%20all%20rendered%20in%20hyperrealistic%20detail%20with%20a%20shallow%20depth%20of%20field%20that%20isolates%20the%20lone%20figure%20against%20the%20overwhelming%20artificial%20landscape%2C%20emphasizing%20the%20encroaching%20oppressive%20power%20of%20unchecked%20technological%20advancement.?model=flux&width=1280&height=720&seed=319735&nologo=true
 language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm

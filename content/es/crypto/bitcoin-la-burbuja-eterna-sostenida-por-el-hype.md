@@ -2,8 +2,8 @@
 categories:
 - crypto
 date: 2026-02-01 16:02:53
-description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
-draft: false
+description: ""
+draft: true
 featured_image: /images/bitcoin-la-burbuja-eterna-sostenida-por-el-hype.jpg
 language: es
 last_updated: '2026-02-14'

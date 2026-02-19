@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-02-07 00:06:53
-description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
+description: ""
 draft: false
 featured_image: /images/ecnocracia-el-nuevo-feudalismo-digital.jpg
 language: es

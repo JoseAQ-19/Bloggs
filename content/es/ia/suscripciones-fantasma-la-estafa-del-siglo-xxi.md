@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-02-04 08:08:04
-description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
+description: ""
 draft: false
 featured_image: /images/suscripciones-fantasma-la-estafa-del-siglo-xxi.jpg
 language: es

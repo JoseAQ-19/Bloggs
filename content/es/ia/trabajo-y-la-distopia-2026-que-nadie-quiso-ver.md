@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-28 18:19:23
-description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
+description: ""
 draft: false
 featured_image: /images/trabajo-y-la-distopia-2026-que-nadie-quiso-ver.jpg
 language: es

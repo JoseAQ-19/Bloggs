@@ -2,10 +2,9 @@
 categories:
 - ia
 date: 2026-01-27 21:58:44
-description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
-draft: false
+description: ""
+draft: true
 featured_image: /images/novumworld-la-farsa-del-periodismo-de-elite-y-por.jpg
-image: https://image.pollinations.ai/prompt/A%20sprawling%20dystopian%20cityscape%2C%20bathed%20in%20a%20sickly%20neon%20glow%20from%20towering%20holographic%20advertisements%20showcasing%20impossibly%20perfect%20families%20and%20gleaming%20consumer%20goods%2C%20is%20overlooked%20by%20a%20gargantuan%2C%20decaying%20neoclassical%20building%20that%20houses%20NOVUMWORLD%20headquarters%2C%20its%20once-proud%20facade%20now%20marred%20by%20graffiti%20reading%20TRUTH%20IS%20THE%20VIRUS%20and%20FEED%20THE%20RICH%20WITH%20LIES%2C%20while%20below%2C%20amidst%20the%20teeming%20masses%20in%20rain-slicked%20streets%20littered%20with%20discarded%20newspapers%20emblazoned%20with%20sensationalist%20headlines%2C%20a%20lone%20figure%20in%20a%20worn%20trench%20coat%20hunches%20over%20a%20cracked%20datapad%2C%20the%20harsh%20light%20reflecting%20in%20their%20weary%20eyes%20as%20they%20scroll%20through%20alternative%20news%20feeds%2C%20a%20defiant%20glint%20of%20skepticism%20flickering%20against%20the%20backdrop%20of%20systemic%20deception%20and%20manufactured%20consent.?model=flux&width=1280&height=720&seed=870582&nologo=true
 language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm

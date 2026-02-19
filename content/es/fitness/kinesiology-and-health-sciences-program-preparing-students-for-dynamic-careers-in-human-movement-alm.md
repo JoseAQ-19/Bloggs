@@ -5,7 +5,7 @@ date: 2026-02-14 09:48:25
 description: ¿Estás buscando una carrera que te permita impactar positivamente la
   vida de las personas a través del movimiento y la salud? El campo de la kinesiología
   y las ...
-draft: false
+draft: true
 featured_image: https://placehold.co/1280x720/000000/FFFFFF/png?text=FITNESS
 language: es
 tags:

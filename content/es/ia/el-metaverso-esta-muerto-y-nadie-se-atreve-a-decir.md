@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-02-05 00:07:07
-description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
-draft: false
+description: ""
+draft: true
 featured_image: /images/el-metaverso-esta-muerto-y-nadie-se-atreve-a-decir.jpg
 language: es
 last_updated: '2026-02-14'

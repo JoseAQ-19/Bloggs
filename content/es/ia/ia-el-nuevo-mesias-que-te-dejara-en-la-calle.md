@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-02-05 16:12:37
-description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
-draft: false
+description: ""
+draft: true
 featured_image: /images/ia-el-nuevo-mesias-que-te-dejara-en-la-calle.jpg
 language: es
 last_updated: '2026-02-13'

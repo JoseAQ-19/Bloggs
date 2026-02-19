@@ -2,10 +2,9 @@
 categories:
 - ia
 date: 2026-01-27 19:32:33
-description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
+description: ""
 draft: false
 featured_image: /images/groenlandia-el-iceberg-que-hundira-el-imperio-digi.jpg
-image: https://image.pollinations.ai/prompt/Enorme%20glacial%20ice%2C%20a%20behemoth%20of%20frosted%20blue%20and%20white%2C%20cleaves%20dramatically%20from%20the%20Greenland%20ice%20sheet%20under%20a%20bruised%20twilight%20sky%20streaked%20with%20ominous%20oranges%20and%20violets%2C%20casting%20an%20impossibly%20long%2C%20inky%20shadow%20that%20stretches%20towards%20a%20bank%20of%20server%20farms%20glowing%20weakly%20in%20the%20distant%20American%20Northeast%2C%20their%20cold%2C%20sterile%20lights%20reflecting%20off%20the%20churning%2C%20black%20water%20of%20the%20encroaching%20North%20Atlantic%2C%20a%20chilling%20metaphor%20for%20the%20impending%20collapse%20of%20data%20infrastructure%20under%20the%20weight%20of%20climate%20change.?model=flux&width=1280&height=720&seed=109389&nologo=true
 language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm

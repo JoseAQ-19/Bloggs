@@ -2,8 +2,8 @@
 categories:
 - crypto
 date: 2026-02-09 00:07:03
-description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
-draft: false
+description: ""
+draft: true
 featured_image: /images/bitcoin-al-matadero-por-que-las-criptomonedas-sera.jpg
 language: es
 last_updated: '2026-02-14'

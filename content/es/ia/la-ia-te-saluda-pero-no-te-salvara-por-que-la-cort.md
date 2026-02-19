@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-30 16:07:07
-description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
+description: ""
 draft: false
 featured_image: /images/la-ia-te-saluda-cyberpunk.jpg
 language: es

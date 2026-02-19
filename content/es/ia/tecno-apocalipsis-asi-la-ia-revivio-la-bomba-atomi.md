@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-31 00:05:44
-description: Análisis profundo sobre tecnología y tendencias digitales en NovumWorld.
+description: ""
 draft: false
 featured_image: /images/tecno-apocalipsis-asi-la-ia-revivio-la-bomba-atomi.jpg
 language: es
