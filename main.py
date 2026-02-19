@@ -184,7 +184,12 @@ def safety_check(topic):
 
 def planificar_articulo(tema, contexto, lang, category_config):
     prompt_persona = category_config['prompt_es'] if lang == 'es' else category_config['prompt_en']
-    prompt = f"{prompt_persona}\n{SYSTEM_FORMAT_RULES}\nACT LIKE EDITOR. Topic: {tema}\nContext: {contexto[:1000]}\nSTRICT JSON: {{ \"titulo\": \"...\", \"slug_sugerido\": \"...\" }}"
+    lang_instruction = (
+        f"\n\nCRITICAL LANGUAGE RULE: The 'titulo' MUST be written ENTIRELY in {'SPANISH (Español)' if lang == 'es' else 'ENGLISH'}. "
+        f"{'Do NOT use any English words in the title except proper nouns (brand names like Bitcoin, NBA, etc.).' if lang == 'es' else 'Do NOT use any Spanish words in the title.'} "
+        f"VIOLATION = INSTANT REJECTION."
+    )
+    prompt = f"{prompt_persona}\n{SYSTEM_FORMAT_RULES}{lang_instruction}\nACT LIKE EDITOR. Topic: {tema}\nContext: {contexto[:1000]}\nLanguage: {lang}\nSTRICT JSON: {{ \"titulo\": \"...\", \"slug_sugerido\": \"...\" }}"
     try:
         resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt, config=types.GenerateContentConfig(response_mime_type="application/json"))
         plan = json.loads(resp.text.replace('```json', '').replace('```', '').strip())

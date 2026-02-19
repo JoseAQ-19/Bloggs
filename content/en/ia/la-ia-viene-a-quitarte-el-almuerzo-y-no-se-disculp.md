@@ -8,7 +8,7 @@ featured_image: /images/la-ia-viene-a-quitarte-el-almuerzo-y-no-se-disculp.jpg
 language: en
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
-title: La IA Viene a Quitarte el Almuerzo (Y No se Disculpa)
+title: "AI Is Coming for Your Lunch (And It Won't Apologize)"
 translationKey: la-ia-viene-a-quitarte-el-almuerzo-y-no-se-disculp
 type: ia
 ---

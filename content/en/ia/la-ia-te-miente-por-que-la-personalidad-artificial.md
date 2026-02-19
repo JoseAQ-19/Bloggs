@@ -8,7 +8,7 @@ featured_image: /images/la-ia-te-miente-por-que-la-personalidad-artificial.jpg
 language: en
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
-title: 'La IA te Miente: Por Qué la Personalidad Artificial es el Fraude del Siglo'
+title: "AI Is Lying to You: Why Artificial Personality Is the Fraud of the Century"
 translationKey: la-ia-te-miente-por-que-la-personalidad-artificial
 type: ia
 ---

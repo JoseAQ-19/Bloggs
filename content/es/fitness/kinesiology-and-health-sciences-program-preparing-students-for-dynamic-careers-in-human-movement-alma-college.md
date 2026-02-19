@@ -14,7 +14,7 @@ tags:
 - Tutorials
 - Blueprints
 - remastered
-title: 'Kinesiology and Health Sciences Program: Preparing Students for Dynamic Careers
+title: "Kinesiología y Ciencias de la Salud: Preparando Estudiantes para Carreras en Movimiento Humano"
   in Human Movement - Alma College Analysis'
 translationKey: kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alma-college
 type: fitness

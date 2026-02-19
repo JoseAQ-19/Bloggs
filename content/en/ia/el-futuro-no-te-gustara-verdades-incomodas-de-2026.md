@@ -8,7 +8,7 @@ featured_image: /images/el-futuro-no-te-gustara-verdades-incomodas-de-2026.jpg
 language: en
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
-title: 'El Futuro NO te Gustará: Verdades Incómodas de 2026'
+title: "You Won't Like the Future: Uncomfortable Truths of 2026"
 translationKey: el-futuro-no-te-gustara-verdades-incomodas-de-2026
 type: ia
 ---
