@@ -2,9 +2,11 @@
 description: Have a leak? Want to insult us? We are here.
 featured_image: /images/contact.jpg
 layout: single
+menu: main
 title: Contact
 translationKey: contact
 url: /contact/
+weight: 90
 ---
 
 ## Let's Talk Straight

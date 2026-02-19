@@ -2,9 +2,11 @@
 description: ¿Tienes una filtración? ¿Quieres insultarnos? Aquí estamos.
 featured_image: /images/contact.jpg
 layout: single
+menu: main
 title: Contacto
 translationKey: contact
 url: /contact/
+weight: 90
 ---
 
 ## Hablemos Claro

@@ -1,24 +1,25 @@
-<script src="/js/aos.js"></script>
+{{/* === WPO: AOS loaded with defer to avoid blocking first paint === */}}
+<script src="/js/aos.js" defer></script>
 <script>
-  // AOS Init with heavy force
-  document.addEventListener('DOMContentLoaded', function() {
+  // AOS Init — fires after DOM is ready (compatible with defer)
+  document.addEventListener('DOMContentLoaded', function () {
     AOS.init({
       duration: 1000,
-      once: false, // Animación cada vez que entra en viewport
-      mirror: true,
+      once: true,      // WPO: Animate only once (saves reflow on re-scroll)
+      mirror: false,
       offset: 50
     });
   });
 
-  // Reading Progress Bar Logic
-  window.addEventListener('scroll', () => {
-    const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
-    const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-    const scrolled = (winScroll / height) * 100;
-    
-    const progressBar = document.getElementById("reading-progress-bar");
+  // Reading Progress Bar Logic (passive scroll listener for performance)
+  window.addEventListener('scroll', function () {
+    var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+    var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    var scrolled = (winScroll / height) * 100;
+
+    var progressBar = document.getElementById("reading-progress-bar");
     if (progressBar) {
       progressBar.style.width = scrolled + "%";
     }
-  });
+  }, { passive: true });
 </script>

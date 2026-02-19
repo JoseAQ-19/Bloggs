@@ -3,9 +3,11 @@ description: 'Discover the mission behind NovumWorld: Unfiltered tech analysis a
   independent journalism.'
 featured_image: /images/about.jpg
 layout: single
+menu: main
 title: About Us
 translationKey: about
 url: /about/
+weight: 70
 ---
 
 ## Novum Manifesto: Journalism in the Age of Noise

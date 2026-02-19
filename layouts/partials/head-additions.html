@@ -1,4 +1,23 @@
-<link href="/css/aos.css" rel="stylesheet">
+{{/* === WPO: Preconnect Google Fonts for FOUT prevention === */}}
+<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+{{/* === WPO: Preload critical font files for instant text rendering === */}}
+<link rel="preload"
+    href="https://fonts.googleapis.com/css2?family=Clash+Display:wght@400;600;700&family=Inter:wght@300;400;600&display=swap"
+    as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Clash+Display:wght@400;600;700&family=Inter:wght@300;400;600&display=swap">
+</noscript>
+
+{{/* === AOS CSS — Non-critical, load async === */}}
+<link rel="preload" href="/css/aos.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript>
+    <link rel="stylesheet" href="/css/aos.css">
+</noscript>
+
+{{/* === Custom CSS — Critical, load normally === */}}
 <link rel="stylesheet" href="/css/custom.css">
 
 {{/* ===== HREFLANG TAGS FOR MULTILINGUAL SEO ===== */}}
