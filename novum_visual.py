@@ -5,20 +5,23 @@ import time
 import base64
 import urllib.parse
 from together import Together
-from openai import OpenAI
 from dotenv import load_dotenv
 
 # Cargar entorno (Seguridad para scripts externos)
 load_dotenv()
 
+# Ruta base del proyecto (para rutas absolutas robustas)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
 class NovumVisualEngine:
     """
-    Motor Gráfico Híbrido V3 (Together + Nebius + Lexica).
-    Arquitectura: Rey y Heredero (Prioridad de Coste/Calidad).
+    Motor Gráfico V4 (Together AI + Lexica Fallback).
+    Arquitectura simplificada: Together → Lexica → Default Local.
+    NUNCA devuelve URLs externas. Siempre rutas locales /images/...
     """
     
-    STATIC_DIR = "static/images"
-    DEFAULT_DIR = "static/images/defaults"
+    STATIC_DIR = os.path.join(BASE_DIR, "static/images")
+    DEFAULT_DIR = os.path.join(BASE_DIR, "static/images/defaults")
     
     # ADN Visual
     AESTHETICS = {
@@ -26,7 +29,7 @@ class NovumVisualEngine:
         "crypto": "matrix code rain style, golden bitcoin physical coin, stock market charts background, dark green theme, financial district night, ultra realistic, bloomberg terminal vibe",
         "fitness": "gym atmosphere, crossfit athlete silhouette, dramatic lighting, sweat details, orange and black theme, motivational poster style, sharp focus",
         "youtube": "youtube play button 3d render, red glowing neon, streaming studio setup, microphone and camera shallow depth of field, vibrant colors, 4k",
-        "viral": "editorial photography, neon purple and yellow lighting, high fashion, trending topic visualization, cinematic 8k, sharp focus, no cartoons, serious journalism style", # FIXED: No emojis, no pop art
+        "viral": "editorial photography, neon purple and yellow lighting, high fashion, trending topic visualization, cinematic 8k, sharp focus, no cartoons, serious journalism style",
         "tools": "isometric 3d technical diagram, blueprint style, neon blue lines, engineering drafting table, clean minimalist tech"
     }
 
@@ -34,13 +37,9 @@ class NovumVisualEngine:
         os.makedirs(self.STATIC_DIR, exist_ok=True)
         os.makedirs(self.DEFAULT_DIR, exist_ok=True)
         
-        # Clients
+        # Client único: Together AI
         self.together_key = os.getenv("TOGETHER_API_KEY")
         self.together_client = Together(api_key=self.together_key) if self.together_key else None
-        
-        self.nebius_key = os.getenv("NEBIUS_API_KEY")
-        # Nebius usa OpenAI SDK client
-        self.nebius_client = OpenAI(base_url="https://api.studio.nebius.ai/v1/", api_key=self.nebius_key) if self.nebius_key else None
 
     def generate_and_save(self, prompt, slug, category="ia"):
         print(f"🎨 [VisualEngine] Procesando: {slug}")
@@ -49,26 +48,21 @@ class NovumVisualEngine:
         
         # Enriquecer Prompt
         style = self.AESTHETICS.get(category, self.AESTHETICS["ia"])
-        
-        # KEY CHANGE: Si es viral, NO usar el estilo genérico si el prompt es específico del título
-        # Usamos el estilo como "salsa" pero el prompt debe mandar
         enhanced_prompt = f"{prompt}, {style}, editorial photography, wide angle, --ar 16:9"
 
-        # 1. EL REY: TOGETHER AI
+        # 1. TOGETHER AI (Principal)
         if self.together_client:
             if self._generate_together(enhanced_prompt, filepath):
                 return f"/images/{filename}"
-        
-        # 2. EL HEREDERO: NEBIUS AI
-        if self.nebius_client:
-            if self._generate_nebius(enhanced_prompt, filepath):
-                return f"/images/{filename}"
+            print("   ⚠️ Together falló. Intentando Lexica...")
+        else:
+            print("   ⚠️ TOGETHER_API_KEY no configurada. Saltando generación AI.")
 
-        # 3. RED DE SEGURIDAD: LEXICA
+        # 2. RED DE SEGURIDAD: LEXICA
         if self._search_lexica(prompt, filepath):
             return f"/images/{filename}"
 
-        # 4. FALLBACK FINAL
+        # 3. FALLBACK LOCAL (NUNCA URLs externas)
         return self._get_fallback_image(category)
 
     def _save_bytes(self, content, filepath):
@@ -96,27 +90,7 @@ class NovumVisualEngine:
             print(f"   ⚠️ Together falló: {e}")
             return False
 
-    def _generate_nebius(self, prompt, filepath):
-        print("   ⚔️ [2] Nebius AI (FLUX)...")
-        try:
-            # Nebius devuelve URL, no base64 directo usualmente con OpenAI sdk standard para imagenes
-            response = self.nebius_client.images.generate(
-                model="black-forest-labs/FLUX.1-schnell",
-                prompt=prompt,
-                size="1024x1024", # Ajustar si soportan landscape
-                quality="standard",
-                n=1,
-            )
-            image_url = response.data[0].url
-            
-            # Descargar la URL
-            img_resp = requests.get(image_url, timeout=30)
-            if img_resp.status_code == 200:
-                return self._save_bytes(img_resp.content, filepath)
-            return False
-        except Exception as e:
-            print(f"   ⚠️ Nebius falló: {e}")
-            return False
+
 
     def _search_lexica(self, simple_prompt, filepath):
         print("   🔍 [3] Lexica Search...")
@@ -135,11 +109,22 @@ class NovumVisualEngine:
             return False
 
     def _get_fallback_image(self, category):
+        """Fallback determinista: SIEMPRE devuelve ruta local, NUNCA URL externa."""
         filename = f"default-{category}.jpg"
         local_path = os.path.join(self.DEFAULT_DIR, filename)
-        if not os.path.exists(local_path):
-            return f"https://placehold.co/1280x720/000000/FFFFFF/png?text={category.upper()}"
-        return f"/images/defaults/{filename}"
+        if os.path.exists(local_path):
+            print(f"   🛡️ Usando default local: {filename}")
+            return f"/images/defaults/{filename}"
+        
+        # Si no existe el específico, buscar default genérico (ia)
+        generic = os.path.join(self.DEFAULT_DIR, "default-ia.jpg")
+        if os.path.exists(generic):
+            print(f"   🛡️ Usando default genérico: default-ia.jpg")
+            return "/images/defaults/default-ia.jpg"
+        
+        # Último recurso: ruta local que al menos no rompe el HTML
+        print(f"   🚨 CRÍTICO: Sin imagen fallback para '{category}'.")
+        return f"/images/defaults/default-{category}.jpg"
 
 def get_image(prompt, slug, category="ia"):
     engine = NovumVisualEngine()

@@ -34,6 +34,7 @@ jobs:
       - name: Run Generator
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
         run: python main.py --category crypto
 
       - name: Push

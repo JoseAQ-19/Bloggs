@@ -2,32 +2,41 @@ name: Blueprint Engine (Tools)
 
 on:
   schedule:
-    - cron: '0 14 * * *' # 14:00 UTC
+    - cron: '0 14 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions: contents: write
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
-        with: { python-version: '3.10' }
-      - run: |
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
           pip install -r requirements.txt playwright google-genai python-dotenv beautifulsoup4 lxml requests notebooklm-mcp-server youtube-transcript-api yt-dlp
           playwright install chromium
+
       - name: Inject NotebookLM Auth
-        env: { NOTEBOOKLM_AUTH: ${{ secrets.NOTEBOOKLM_AUTH }} }
+        env:
+          NOTEBOOKLM_AUTH: ${{ secrets.NOTEBOOKLM_AUTH }}
         run: |
           mkdir -p ~/.notebooklm-mcp
           echo "$NOTEBOOKLM_AUTH" > ~/.notebooklm-mcp/auth.json
+
       - name: Run Tools Generator
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
           TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
-          NEBIUS_API_KEY: ${{ secrets.NEBIUS_API_KEY }}
         run: python main.py --category tools
+
       - name: Push
         run: |
           git config --global user.name "JoseAQ-19"

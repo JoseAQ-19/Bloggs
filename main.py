@@ -143,14 +143,21 @@ def escribir_blueprint(tutorial_data, lang="en"):
     return resp.text.strip()
 
 def guardar_post(meta, contenido, lang, category, forced_image=None, translation_key=None):
+    """Guarda el post con imagen validada y frontmatter blindado."""
     # Lógica Blindada de Silos: content/{lang}/{category}
     output_dir = f"content/{lang}/{category}"
     os.makedirs(output_dir, exist_ok=True)
     
     filepath = f"{output_dir}/{meta['slug']}.md"
     
-    # Lógica de Imagen Maestra: Si viene forzada, se usa. Si no, se genera.
+    # Lógica de Imagen: Si viene forzada, se usa. Si no, se genera.
     imagen = forced_image if forced_image else get_image(meta['titulo'], meta['slug'], category)
+    
+    # VALIDACIÓN BLINDADA: Si la imagen es una URL externa o vacía, usar fallback local
+    if not imagen or imagen.startswith("http"):
+        print(f"   ⚠️ Imagen inválida detectada: '{imagen}'. Usando fallback local...")
+        imagen = f"/images/defaults/default-{category}.jpg"
+        print(f"   🛡️ Fallback aplicado: {imagen}")
     
     now = datetime.now()
     backdate = random.randint(15, 30) if lang == 'es' else random.randint(2, 10)
@@ -158,21 +165,25 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
     # Sanitización de comillas para YAML
     clean_text = re.sub(r'[#*]', '', contenido)[:160].replace('\n', ' ').replace('"', "'") + "..."
     
-    # Frontmatter con comillas explícitas en imagen
+    # Resolver nombre legible de la categoría (FIX: config['name'] → NICHES lookup)
+    niche_info = NICHES.get(category, {})
+    niche_name = niche_info.get("name", category.capitalize())
+    
+    # Frontmatter YAML limpio y validado
     front_matter = f"""---
 title: "{meta['titulo'].replace('"', '')}"
 date: {date_str}
 draft: false
 description: "{clean_text}"
 featured_image: "{imagen}"
-tags: ["{config['name']}", "Tutorials", "Blueprints"]
+tags: ["{niche_name}"]
 categories: ["{category}"]
 type: "{category}"
 language: "{lang}"
 translationKey: "{translation_key}"
 ---
 
-![{meta['titulo']}]({imagen})
+![{meta['titulo'].replace('"', '')}]({imagen})
 
 {contenido}
 """
