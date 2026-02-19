@@ -5,24 +5,28 @@ This catches every ![alt](src) in article content.
 {{- $src := .Destination -}}
 {{- $alt := .Text | default "image" -}}
 {{- $title := .Title -}}
+{{- $processed := false -}}
 
-{{/* Try to process via Hugo image pipeline */}}
-{{- $imgResource := false -}}
+{{/* Attempt 1: Global assets */}}
 {{- $cleanPath := strings.TrimPrefix "/" $src -}}
 {{- with resources.Get $cleanPath -}}
-{{- $imgResource = . -}}
+{{- $img800 := .Resize "800x webp q80" -}}
+<img src="{{ $img800.RelPermalink }}" alt="{{ $alt }}" {{ with $title }}title="{{ . }}" {{ end }}
+    width="{{ $img800.Width }}" height="{{ $img800.Height }}" loading="lazy" decoding="async">
+{{- $processed = true -}}
 {{- end -}}
-{{- if not $imgResource -}}
+
+{{/* Attempt 2: Page bundle resource */}}
+{{- if not $processed -}}
 {{- with $.Page.Resources.GetMatch $src -}}
-{{- $imgResource = . -}}
+{{- $img800 := .Resize "800x webp q80" -}}
+<img src="{{ $img800.RelPermalink }}" alt="{{ $alt }}" {{ with $title }}title="{{ . }}" {{ end }}
+    width="{{ $img800.Width }}" height="{{ $img800.Height }}" loading="lazy" decoding="async">
+{{- $processed = true -}}
 {{- end -}}
 {{- end -}}
 
-{{- if $imgResource -}}
-{{- $img800 := $imgResource.Resize "800x webp q80" -}}
-<img src="{{ $img800.RelPermalink }}" alt="{{ $alt }}" {{ with $title }}title="{{ . }}" {{ end }}
-    width="{{ $img800.Width }}" height="{{ $img800.Height }}" loading="lazy" decoding="async" class="img">
-{{- else -}}
-<img src="{{ $src }}" alt="{{ $alt }}" {{ with $title }}title="{{ . }}" {{ end }} loading="lazy" decoding="async"
-    class="img">
+{{/* Fallback: External or non-processable image */}}
+{{- if not $processed -}}
+<img src="{{ $src }}" alt="{{ $alt }}" {{ with $title }}title="{{ . }}" {{ end }} loading="lazy" decoding="async">
 {{- end -}}

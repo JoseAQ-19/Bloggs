@@ -1,16 +1,14 @@
 {{/*
 GetOptimizedImage — WPO Partial (Fenix V3)
 
-Takes a page context and returns an optimized <img> tag with:
-- WebP conversion via Hugo image processing
-- Responsive srcset (400w, 800w, 1200w)
-- Native lazy loading + async decoding
-- Proper width/height for CLS prevention
+Takes a dict with:
+- page: the page context
+- class: CSS classes for the img tag
+- alt: alt text
+- eager: bool, if true uses eager loading (for above-fold images)
 
-Falls back to original URL if image processing is not possible
-(e.g., external URLs or images not in page bundle / assets).
-
-Usage: {{ partial "func/GetOptimizedImage.html" (dict "page" . "class" "img br3" "alt" .Title "eager" false) }}
+Generates WebP with responsive srcset when Hugo can process the image.
+Falls back to original URL with lazy loading when not processable.
 */}}
 
 {{- $page := .page -}}
@@ -20,42 +18,47 @@ Usage: {{ partial "func/GetOptimizedImage.html" (dict "page" . "class" "img br3"
 {{- $loading := cond $eager "eager" "lazy" -}}
 {{- $sizes := .sizes | default "(max-width: 768px) 100vw, 800px" -}}
 
-{{/* Get the featured image path */}}
+{{/* Get the featured image URL */}}
 {{- $featured_image := partial "func/GetFeaturedImage.html" $page -}}
 
 {{- if $featured_image -}}
 
-{{/* Try to process the image via Hugo's image pipeline */}}
-{{- $imgResource := false -}}
+{{/* Try to get a processable Hugo image resource */}}
+{{- $processed := false -}}
 
-{{/* First: try page resources (page bundles) */}}
+{{/* Attempt 1: Page bundle resource match */}}
 {{- with $page.Params.featured_image -}}
 {{- with $page.Resources.GetMatch . -}}
-{{- $imgResource = . -}}
-{{- end -}}
-{{- end -}}
-
-{{/* Second: try global assets */}}
-{{- if not $imgResource -}}
-{{- $path := $page.Params.featured_image | default "" -}}
-{{- $cleanPath := strings.TrimPrefix "/" $path -}}
-{{- with resources.Get $cleanPath -}}
-{{- $imgResource = . -}}
-{{- end -}}
-{{- end -}}
-
-{{- if $imgResource -}}
-{{/* SUCCESS: We have a processable image resource */}}
-{{- $img400 := $imgResource.Resize "400x webp q75" -}}
-{{- $img800 := $imgResource.Resize "800x webp q80" -}}
-{{- $img1200 := $imgResource.Resize "1200x webp q85" -}}
-
+{{- $img400 := .Resize "400x webp q75" -}}
+{{- $img800 := .Resize "800x webp q80" -}}
+{{- $img1200 := .Resize "1200x webp q85" -}}
 <img src="{{ $img800.RelPermalink }}"
     srcset="{{ $img400.RelPermalink }} 400w, {{ $img800.RelPermalink }} 800w, {{ $img1200.RelPermalink }} 1200w"
     sizes="{{ $sizes }}" width="{{ $img800.Width }}" height="{{ $img800.Height }}" alt="{{ $alt }}" class="{{ $class }}"
     loading="{{ $loading }}" decoding="async">
-{{- else -}}
-{{/* FALLBACK: External URL or non-processable image — use original with lazy loading */}}
+{{- $processed = true -}}
+{{- end -}}
+{{- end -}}
+
+{{/* Attempt 2: Global assets */}}
+{{- if not $processed -}}
+{{- with $page.Params.featured_image -}}
+{{- $cleanPath := strings.TrimPrefix "/" . -}}
+{{- with resources.Get $cleanPath -}}
+{{- $img400 := .Resize "400x webp q75" -}}
+{{- $img800 := .Resize "800x webp q80" -}}
+{{- $img1200 := .Resize "1200x webp q85" -}}
+<img src="{{ $img800.RelPermalink }}"
+    srcset="{{ $img400.RelPermalink }} 400w, {{ $img800.RelPermalink }} 800w, {{ $img1200.RelPermalink }} 1200w"
+    sizes="{{ $sizes }}" width="{{ $img800.Width }}" height="{{ $img800.Height }}" alt="{{ $alt }}" class="{{ $class }}"
+    loading="{{ $loading }}" decoding="async">
+{{- $processed = true -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+
+{{/* Fallback: External URL or non-processable — still add lazy loading */}}
+{{- if not $processed -}}
 <img src="{{ $featured_image }}" alt="{{ $alt }}" class="{{ $class }}" loading="{{ $loading }}" decoding="async">
 {{- end -}}
 
