@@ -189,7 +189,9 @@ def planificar_articulo(tema, contexto, lang, category_config):
         f"{'Do NOT use any English words in the title except proper nouns (brand names like Bitcoin, NBA, etc.).' if lang == 'es' else 'Do NOT use any Spanish words in the title.'} "
         f"VIOLATION = INSTANT REJECTION."
     )
-    prompt = f"{prompt_persona}\n{SYSTEM_FORMAT_RULES}{lang_instruction}\nACT LIKE EDITOR. Topic: {tema}\nContext: {contexto[:1000]}\nLanguage: {lang}\nSTRICT JSON: {{ \"titulo\": \"...\", \"slug_sugerido\": \"...\" }}"
+    # Handle V4 dict format
+    ctx_text = contexto.get('content', '')[:1000] if isinstance(contexto, dict) else str(contexto)[:1000]
+    prompt = f"{prompt_persona}\n{SYSTEM_FORMAT_RULES}{lang_instruction}\nACT LIKE EDITOR. Topic: {tema}\nContext: {ctx_text}\nLanguage: {lang}\nSTRICT JSON: {{ \"titulo\": \"...\", \"slug_sugerido\": \"...\" }}"
     try:
         resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt, config=types.GenerateContentConfig(response_mime_type="application/json"))
         plan = json.loads(resp.text.replace('```json', '').replace('```', '').strip())
@@ -199,11 +201,51 @@ def planificar_articulo(tema, contexto, lang, category_config):
     except:
         return {"titulo": f"{tema} Analysis", "slug": SlugManager.generate(tema) + ("-en" if lang=="en" else "")}
 
+# --- E-E-A-T OUTBOUND LINK INJECTION RULES ---
+EEAT_LINK_RULES = """
+OUTBOUND LINKS — STRICT E-E-A-T COMPLIANCE (ZERO TOLERANCE):
+
+Every time you mention ANY of the following, you MUST include a markdown hyperlink:
+- A statistic or data point → link to the original report/study
+- An expert's name or quote → link to their profile, interview, or publication
+- A company's action (acquisition, layoff, product launch) → link to a credible news article
+- A study or research paper → link to PubMed, arXiv, IEEE, or the journal
+- A tool, product, or platform → link to its official website
+
+Format: [descriptive anchor text](https://real-verified-url.com)
+
+MINIMUM: 5 outbound links per article.
+MAXIMUM: Do not exceed 12 outbound links (avoid appearing spammy).
+
+NEVER fabricate URLs. If you cite a source from the research context, use its URL.
+If no URL is available but the source is real, link to a Google Scholar or Google News search.
+Example fallback: [MIT AI study](https://scholar.google.com/scholar?q=MIT+AI+workforce+displacement+2025)
+
+ARTICLES WITH FEWER THAN 3 OUTBOUND LINKS WILL BE REJECTED.
+"""
+
 def escribir_articulo(meta, contexto, lang, category_config):
     print(f"✍️ Escribiendo ({lang}): {meta['titulo']}...")
     prompt_persona = category_config['prompt_es'] if lang == 'es' else category_config['prompt_en']
     structure = random.choice(list(STRUCTURE_TEMPLATES.values()))
-    prompt = f"{prompt_persona}\n{SYSTEM_FORMAT_RULES}\nWRITE ARTICLE: {meta['titulo']}\nCONTEXT: {contexto}\nTEMPLATE: {structure}\nLANG: {lang}"
+    
+    # Extract content string from research dict
+    if isinstance(contexto, dict):
+        research_text = contexto.get('content', '')
+        research_layer = contexto.get('layer', 'unknown')
+        print(f"   📊 Research source: {research_layer}")
+    else:
+        research_text = str(contexto)
+    
+    prompt = (
+        f"{prompt_persona}\n"
+        f"{SYSTEM_FORMAT_RULES}\n"
+        f"{EEAT_LINK_RULES}\n"
+        f"WRITE ARTICLE: {meta['titulo']}\n"
+        f"RESEARCH DATA (use this as your factual foundation — cite sources with links):\n{research_text}\n"
+        f"TEMPLATE: {structure}\n"
+        f"LANG: {lang}"
+    )
     resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
     return resp.text.strip()
 
@@ -338,7 +380,12 @@ def main():
     
     print(f"🎯 TEMA: {tema}")
     res = researcher.Researcher()
-    contexto = res.research_topic(f"{tema} {NICHES[cat]['search_context']}")
+    # V4 E-E-A-T: Pass topic, category, and search_context separately
+    contexto = res.research_topic(
+        topic=tema,
+        category=cat,
+        search_context=NICHES[cat].get('search_context', '')
+    )
     
     # Generar Translation Key única para este par de artículos
     import uuid
