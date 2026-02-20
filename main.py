@@ -268,14 +268,14 @@ def _call_en_engine(prompt_text):
     # --- INTENTO 1: Zhipu GLM-4-Flash ---
     zhipu_key = os.getenv("ZHIPU_API_KEY")
     if zhipu_key:
-        print("   🧠 [Trinity EN] Motor 1: Zhipu GLM-4-Flash...")
+        print("   🧠 [Trinity EN] Motor 1: Zhipu GLM-4.7-FlashX...")
         try:
             glm_client = OpenAI(
                 api_key=zhipu_key,
                 base_url="https://open.bigmodel.cn/api/paas/v4/"
             )
             resp = glm_client.chat.completions.create(
-                model="glm-4-flash",
+                model="glm-4.7-flashx",
                 messages=[{"role": "user", "content": prompt_text}],
                 temperature=0.85,
                 max_tokens=4096
@@ -287,7 +287,7 @@ def _call_en_engine(prompt_text):
             else:
                 print("   ⚠️ GLM respuesta vacía o muy corta. Activando fallback...")
         except Exception as e:
-            print(f"   ⚠️ GLM-4-Flash error: {e}. Activando fallback OpenRouter...")
+            print(f"   ⚠️ GLM-4.7-FlashX error: {e}. Activando fallback OpenRouter...")
     else:
         print("   ⚠️ ZHIPU_API_KEY no configurada. Saltando a OpenRouter...")
 
@@ -301,14 +301,14 @@ def _call_en_engine(prompt_text):
                 base_url="https://openrouter.ai/api/v1"
             )
             resp = or_client.chat.completions.create(
-                model="meta-llama/llama-3-8b-instruct:free",
+                model="meta-llama/llama-3.3-70b-instruct:free",
                 messages=[{"role": "user", "content": prompt_text}],
                 temperature=0.85,
                 max_tokens=4096
             )
             result = resp.choices[0].message.content.strip()
             if result and len(result) > 200:
-                print("   ✅ OpenRouter/Llama3 respondió correctamente.")
+                print("   ✅ OpenRouter/Llama-3.3-70B respondió correctamente.")
                 return result
             else:
                 print("   ⚠️ OpenRouter respuesta vacía. Cayendo a Gemini de emergencia...")
