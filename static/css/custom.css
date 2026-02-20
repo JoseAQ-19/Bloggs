@@ -768,6 +768,59 @@ table {
 }
 
 /* ===================================================
+   ARTICLE GRID SYSTEM (CSS Grid)
+   =================================================== */
+.article-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+    padding: 0 1rem;
+}
+
+.article-grid__item {
+    display: flex;
+}
+
+.article-grid__item article.glass-card {
+    width: 100%;
+}
+
+/* Home page grid - same treatment */
+.home-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+    padding: 0 1rem;
+}
+
+.home-grid__item {
+    display: flex;
+}
+
+.home-grid__item article.glass-card {
+    width: 100%;
+}
+
+/* ===================================================
+   HERO TEXT FIXES
+   =================================================== */
+/* Center hero texts properly */
+.tc-l.pv4.pv6-l.ph3.ph4-ns,
+.tc-l.pv3.ph3.ph4-ns {
+    text-align: center !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-subtitle {
+    text-align: center !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ===================================================
    TABLET (max-width: 1024px)
    =================================================== */
 @media (max-width: 1024px) {
@@ -841,6 +894,13 @@ table {
     }
 
     /* --- ARTICLE GRID: Single column --- */
+    .article-grid,
+    .home-grid {
+        grid-template-columns: 1fr !important;
+        gap: 1.5rem;
+        padding: 0 0.75rem;
+    }
+
     .flex-ns.flex-wrap.justify-center.mt5.w-100.mw9.center,
     .w-100.mw9.center.flex.flex-wrap.justify-between {
         display: block !important;

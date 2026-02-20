@@ -22,12 +22,14 @@
   {{ $cover_dimming_class := site.Params.cover_dimming_class | compare.Default "bg-black-60" }}
   <div class="{{ $cover_dimming_class }}" style="backdrop-filter: blur(5px);">
     {{ partials.Include "site-navigation.html" .}}
-    <div class="tc-l pv4 pv6-l ph3 ph4-ns">
+    <div class="tc pv4 pv5-l ph3 ph4-ns"
+      style="display:flex; flex-direction:column; align-items:center; justify-content:center;">
       <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title hero-title" data-aos="fade-up" data-aos-duration="1000">
         {{ .Title | compare.Default .Site.Title }}
       </h1>
       {{ with .Params.description }}
-      <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3 hero-subtitle" data-aos="fade-up" data-aos-delay="200">
+      <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3 hero-subtitle" data-aos="fade-up" data-aos-delay="200"
+        style="text-align:center;">
         {{ . }}
       </h2>
       {{ end }}
@@ -56,7 +58,7 @@
     </h1>
     {{ with .Params.description }}
     <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4 hero-subtitle" data-aos="fade-up"
-      data-aos-delay="300">
+      data-aos-delay="300" style="text-align:center;">
       {{ . }}
     </h2>
     {{ end }}

@@ -1,46 +1,49 @@
 {{ define "main" }}
 
-  {{- $config := site.Params.ananke.home -}}
-  {{- $text_alignment := "tc-l" -}}
-  {{- if eq $config.content_alignment "left" -}}
-    {{- $text_alignment = "tl-l" -}}
-  {{- else if eq $config.content_alignment "right" -}}
-    {{- $text_alignment = "tr-l" -}}
-  {{- end -}}
+{{- $config := site.Params.ananke.home -}}
+{{- $text_alignment := "tc-l" -}}
+{{- if eq $config.content_alignment "left" -}}
+{{- $text_alignment = "tl-l" -}}
+{{- else if eq $config.content_alignment "right" -}}
+{{- $text_alignment = "tr-l" -}}
+{{- end -}}
 
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 {{ $text_alignment }} center measure-wide lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}" data-aos="fade-in" data-aos-duration="1500">
-    {{ .Content }}
-  </article>
+<article class="cf ph3 ph5-l pv3 pv4-l f4 {{ $text_alignment }} center measure-wide lh-copy nested-links {{ $.Param "
+  text_color" | compare.Default "mid-gray" }}" data-aos="fade-in" data-aos-duration="1500">
+  {{ .Content }}
+</article>
 
-  {{/* PAGINACIÓN UNIVERSAL */}}
-  <div class="pa3 pa4-ns w-100 w-80-ns center">
-      
-      {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" (slice "ia" "crypto" "fitness" "youtube" "viral" "tools")) }}
-      
-      <section class="w-100 mw9 center flex flex-wrap justify-between">
-        {{ range $paginator.Pages }}
-          <div class="w-100 w-40-l mb4 relative mh2">
-            {{ .Render "summary-with-image" }}
-          </div>
-        {{ end }}
-      </section>
+{{/* PAGINACIÓN UNIVERSAL */}}
+<div class="pa3 pa4-ns w-100 w-80-ns center">
 
-      {{/* BOTÓN DE PAGINACIÓN */}}
-      <div class="flex justify-center mt5 mb5">
-        {{ template "_internal/pagination.html" . }}
-      </div>
+  {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" (slice "ia" "crypto" "fitness" "youtube" "viral"
+  "tools")) }}
 
-      {{/* WIDGET TAGS (TENDENCIAS) */}}
-      <section class="mt6 mb5">
-        <h2 class="f3 fw7 ttu tracked tc mb4" style="color: var(--primary);">{{ T "trends_widget" }}</h2>
-        <div class="flex flex-wrap justify-center gap-3">
-          {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-            <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" class="link dib ba b--white-20 pa2 br-pill mr2 mb2 white hover-bg-white hover-black transition-colors f6">
-              {{ $name }} <span class="o-60 ml1">({{ $taxonomy.Count }})</span>
-            </a>
-          {{ end }}
-        </div>
-      </section>
+  <section class="home-grid w-100 mw9 center">
+    {{ range $paginator.Pages }}
+    <div class="home-grid__item" data-aos="fade-up" data-aos-duration="800">
+      {{ .Render "summary-with-image" }}
+    </div>
+    {{ end }}
+  </section>
 
+  {{/* BOTÓN DE PAGINACIÓN */}}
+  <div class="flex justify-center mt5 mb5">
+    {{ template "_internal/pagination.html" . }}
   </div>
+
+  {{/* WIDGET TAGS (TENDENCIAS) */}}
+  <section class="mt6 mb5">
+    <h2 class="f3 fw7 ttu tracked tc mb4" style="color: var(--primary);">{{ T "trends_widget" }}</h2>
+    <div class="flex flex-wrap justify-center gap-3">
+      {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+      <a href="{{ " /tags/" | relLangURL }}{{ $name | urlize }}"
+        class="link dib ba b--white-20 pa2 br-pill mr2 mb2 white hover-bg-white hover-black transition-colors f6">
+        {{ $name }} <span class="o-60 ml1">({{ $taxonomy.Count }})</span>
+      </a>
+      {{ end }}
+    </div>
+  </section>
+
+</div>
 {{ end }}

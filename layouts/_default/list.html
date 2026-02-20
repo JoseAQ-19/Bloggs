@@ -1,21 +1,18 @@
 {{ define "main" }}
-  <article class="pa3 pa4-ns nested-copy-line-height">
-    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy">
-      <h1 class="f1 lh-title hero-title" data-aos="fade-down">{{ .Title }}</h1>
-      <div class="f4 hero-subtitle center" data-aos="fade-up">{{ .Params.description }}</div>
-    </section>
-    
-    <section class="flex-ns flex-wrap justify-center mt5 w-100 mw9 center">
-      {{ $paginator := .Paginate (where .Data.Pages "Type" "ne" "page") }}
-      {{ range $paginator.Pages }}
-        <div class="relative w-100 w-40-l mb5 mh3">
-            {{ .Render "summary-with-image" }}
-        </div>
-      {{ end }}
-    </section>
+<article class="pa3 pa4-ns nested-copy-line-height">
+  {{/* Title & description are already in the hero (site-header.html) — no duplication */}}
 
-    <div class="flex justify-center mt4">
-      {{ template "_internal/pagination.html" . }}
+  <section class="article-grid mt4 w-100 mw9 center ph3 ph4-l">
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "ne" "page") }}
+    {{ range $paginator.Pages }}
+    <div class="article-grid__item" data-aos="fade-up" data-aos-duration="800">
+      {{ .Render "summary-with-image" }}
     </div>
-  </article>
+    {{ end }}
+  </section>
+
+  <div class="flex justify-center mt4 mb5">
+    {{ template "_internal/pagination.html" . }}
+  </div>
+</article>
 {{ end }}
