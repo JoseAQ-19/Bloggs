@@ -214,6 +214,57 @@ class ResearcherV4:
                     return cmd
         return None
 
+    def _deep_keyword_miner(self, topic, lang):
+        """
+        Deep-Keyword Miner (Prospección de Entidades de Poder).
+        Usa Exa.ai para raspar la superficie de pozos de conocimiento, y Gemini para extraer
+        Jargon, Controversias y Nombres Propios para forjar una Super-Query anti-Wikipedia.
+        """
+        if not self.client:
+            return topic
+            
+        exa_key = os.getenv("EXA_API_KEY")
+        if not exa_key:
+            return topic
+            
+        print(f"   ⛏️ [Deep-Keyword Miner] Prospectando pozos de conocimiento...")
+        try:
+            from exa_py import Exa
+            exa = Exa(exa_key)
+            
+            if lang == "es":
+                query = f"site:medium.com OR site:twitter.com OR site:x.com OR site:reddit.com/r/Espana {topic}"
+            else:
+                query = f"site:reddit.com OR site:news.ycombinator.com OR site:substack.com {topic}"
+                
+            res = exa.search(query, num_results=3, type="neural")
+            # Extraer títulos (o texto si estuviera disponible)
+            snippets = " ".join([r.title for r in res.results if r.title])
+            
+            prompt = f"""ACT AS: Senior SEO Research Strategist.
+Analyze these early search snippets about "{topic}":
+SNIPPETS: {snippets}
+
+Extract ONLY 3 high-value "Power Entities" combining:
+1. Jargon (Technical terms only experts use)
+2. Controversies (Debates or active pain points)
+3. Target Names (Named entities, companies, or experts leading the space)
+
+Then, combine them and rewrite the original topic into a SINGLE complex search query.
+VALIDATION (Anti-Wikipedia): If the new query feels like a generic definition, force it by appending "unpopular opinion" or "technical breakdown".
+OUTPUT FORMAT: ONLY the final search query string. NO quotes.
+"""
+            resp = self.client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
+            super_query = resp.text.strip().replace('"', '')
+            
+            if len(super_query) > 10:
+                print(f"   💎 [Deep-Keyword Miner] Super-Query Generada: '{super_query}'")
+                return super_query
+            return topic
+        except Exception as e:
+            print(f"   ⚠️ [Deep-Keyword Miner] Error durante prospección: {e}. Usando semilla original.")
+            return topic
+
     def research(self, topic, category="general", search_context="", lang="es"):
         """
         Pipeline de investigación con 3 capas de fallback.
@@ -222,8 +273,12 @@ class ResearcherV4:
         print(f"\n🔍 INICIANDO GEO-RESEARCH E-E-A-T PARA: '{topic}' [{lang.upper()}]")
         print(f"   Categoría: {category} | Contexto: {search_context[:60]}...")
         
+        # === DEEP-KEYWORD MINER ===
+        # Prospects high-value sources and extracts Jargon/Controversies
+        super_query = self._deep_keyword_miner(topic, lang)
+        
         # Construir el Brief de investigación estructurado localizado
-        research_brief = build_research_query(topic, category, search_context, lang=lang)
+        research_brief = build_research_query(super_query, category, search_context, lang=lang)
         
         # 🥇 CAPA 1: NOTEBOOKLM DEEP RESEARCH
         result = self._layer_1_notebooklm(topic, research_brief, lang)
