@@ -9,8 +9,8 @@ language: es
 last_updated: '2026-02-14'
 quality_tier: fenix_v2_notebooklm
 title: 'Silicon Valley se Desangra: La Era Dorada ha Terminado (Y Nadie lo Admite)'
-translationKey: silicon-valley-se-desangra-la-era-dorada-ha-termin
 type: ia
+remastered: true
 ---
 
 Silicon Valley en Crisis: ¿El Fin de una Era Dorada que Nadie Quiere Ver?

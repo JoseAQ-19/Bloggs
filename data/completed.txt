@@ -92,3 +92,4 @@ crypto: Why is Venice Token trending today in crypto?
 fitness: Kinesiology and Health Sciences Program: Preparing Students for Dynamic Careers in Human Movement - Alma College
 crypto: Metamask Gas Fees Too High? A Complete Guide to Lowering Transaction Costs
 ia: LangChain Agents for Information Retrieval: A Deep Dive into Knowledge Graph Integration
+ia: Error when trying to use Hugging Face Embeddings : r/huggingface

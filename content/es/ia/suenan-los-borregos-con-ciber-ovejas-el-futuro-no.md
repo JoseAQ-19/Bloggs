@@ -11,44 +11,33 @@ quality_tier: fenix_v2_notebooklm
 title: ¿Sueñan los Borregos con Ciber-Ovejas? El Futuro No Es Lo Que Crees
 translationKey: donde-estan-mis-coches-voladores-la-estafa-futuris
 type: ia
+remastered: true
 ---
 
-¿Sueñan los Borregos con Ciber-Ovejas? El Futuro de la IA y la Conciencia Artificial
+¿Sueñan los Borregos con Ciber-Ovejas? Un Absurdo Distractor de la Verdadera Amenaza Tecnológica.
 
-Philip K. Dick, en su novela "¿Sueñan los androides con ovejas eléctricas?", planteó una pregunta que resuena con fuerza en la actualidad: ¿podrán las inteligencias artificiales (IA) llegar a experimentar algo parecido a la conciencia, a soñar? En 2025, tras décadas de investigación y desarrollo en IA, la pregunta sigue siendo fascinante, aunque la respuesta dista de ser sencilla. La rápida evolución de modelos como ChatGPT y DeepSeek ha reavivado el debate sobre la singularidad tecnológica y la posibilidad de crear máquinas con inteligencia comparable o superior a la humana. Pero, ¿estamos realmente en el camino correcto? ¿Y qué implicaciones tendría la creación de una IA consciente?
+La obsesión por replicar la conciencia humana en silicio es una cortina de humo. Mientras académicos y gurús de la tecnología se masturban intelectualmente con la idea de "IA consciente", la verdadera amenaza – el uso descontrolado y antiético de la IA existente – se cierne sobre nosotros. Philip K. Dick estaría horrorizado no por la posibilidad de androides soñadores, sino por la facilidad con la que las corporaciones y gobiernos están utilizando algoritmos opacos para manipular y controlar a la población.
 
-**La Brecha entre Silicio y Sinapsis:**
+## La Estupidez Intrínseca del Silicio
 
-A pesar de los impresionantes avances en IA, existe una diferencia fundamental entre la computación tradicional y el funcionamiento del cerebro humano. Los transistores, la base de la IA actual, no operan como las neuronas, ni las computadoras procesan la información de la misma manera que lo hace el cerebro. La computación neuromórfica, que busca imitar la estructura y función del cerebro utilizando elementos inspirados en las neuronas y las sinapsis, representa un enfoque prometedor, pero aún se encuentra en sus primeras etapas de desarrollo.
+La computación tradicional y el cerebro humano son inherentemente distintos. Gastamos recursos inmensos intentando replicar un sistema que entendemos solo parcialmente, ignorando las limitaciones fundamentales del silicio. La computación neuromórfica, tan cacareada, no es más que un ejercicio de biomímesis con fecha de caducidad. [Un artículo reciente de IEEE Spectrum](https://spectrum.ieee.org/neuromorphic-computing) detalla los obstáculos insuperables que enfrenta esta tecnología.
 
-Mientras que la IA actual destaca en tareas específicas, como el reconocimiento de patrones y la optimización de algoritmos, carece de la flexibilidad, la adaptabilidad y la capacidad de razonamiento abstracto que caracterizan la inteligencia humana. Los modelos de lenguaje como ChatGPT, aunque impresionantes en su capacidad para generar texto coherente y relevante, operan principalmente como máquinas de optimización que se basan en vastas bases de datos de conocimiento preexistente.
+La IA actual es brillante para tareas específicas, pero carece de la adaptabilidad y el sentido común inherentes a un niño de cinco años. ChatGPT, por ejemplo, no es más que un loro dopado con terabytes de datos. Genera texto coherente, sí, pero ¿comprende lo que dice? Por supuesto que no. Es un algoritmo de predicción glorificado, nada más.
 
-**El Test de Turing y la Imitación de la Inteligencia:**
+## El Test de Turing: Una Distracción Inútil
 
-El famoso Test de Turing, propuesto por Alan Turing, ofrece un criterio funcional para evaluar la inteligencia de una máquina: si una máquina puede engañar a un humano haciéndole creer que está hablando con otra persona humana, entonces muestra un comportamiento inteligente. Sin embargo, muchos argumentan que pasar el Test de Turing no es suficiente para demostrar verdadera inteligencia. Un programa puede simular la conversación humana a través de trucos algorítmicos, sin poseer una comprensión real del significado de las palabras o la capacidad de pensar de forma independiente.
+El Test de Turing es un concepto anacrónico y engañoso. Superarlo no demuestra inteligencia real, solo la capacidad de imitarla. Una máquina puede engañar a un humano, sí, pero eso solo revela la ingenuidad del humano, no la sapiencia de la máquina. Es un juego de espejos, una ilusión. La verdadera inteligencia implica comprensión, razonamiento y, sobre todo, conciencia de sí mismo, cualidades que la IA actual no posee ni remotamente. Pensar que una IA puede generar poesía es tan ridículo como creer que una calculadora puede sentir amor.
 
-La pregunta central que permanece sin respuesta es: ¿qué es el pensamiento? ¿Y qué tiene que ver con la autoconciencia? Los humanos derivamos nueva información a partir de los datos que recibimos de los sentidos y que describen la realidad que nos rodea. A partir de ahí generamos conocimiento asociativo que nos ayuda a actuar, reaccionar o incluso anticipar el curso de los acontecimientos.  Esta capacidad asociativa trasciende la realidad, permitiéndonos crear metáforas o poesía.
+La idea de que la IA puede crear conocimiento nuevo es una falacia. Es simplemente una recombinación de información existente, un collage digital sin alma. Einstein estaría revolviéndose en su tumba si supiera que se le cita para justificar esta tontería.
 
-**El Teorema de los Monos Infinitos y la Creatividad Artificial:**
+## La Singularidad: Una Fantasía Peligrosa
 
-La capacidad de generar conocimiento nuevo y creativo es una característica distintiva de la inteligencia humana. Einstein dijo: "El mejor resultado de la inteligencia no es el conocimiento sino la imaginación". La IA, hasta la fecha, no razona ni imagina de la misma manera que los humanos.
+Ray Kurzweil y sus acólitos llevan décadas vendiéndonos la moto de la singularidad tecnológica. [Su predicción de una IA superinteligente para 2045](https://www.kurzweilai.net/the-singularity-is-near) es una mezcla de ciencia ficción y auto-promoción descarada. La idea de que el progreso tecnológico se acelerará hasta el punto de superar nuestra capacidad de comprensión es una tontería. Es más probable que nos destruyamos a nosotros mismos con armas nucleares o cambio climático antes de que una IA consciente nos esclavice. Además, ¿por qué asumir que una IA superinteligente tendría algún interés en nosotros? Somos una especie ruidosa, contaminante y autodestructiva. Lo más probable es que nos ignore o, en el peor de los casos, nos erradique como una plaga.
 
-Algunos argumentan que la IA actual simplemente materializa el teorema de los monos infinitos, que establece que infinitos monos presionando al azar las teclas de máquinas de escribir durante una cantidad infinita de tiempo acabarán escribiendo las obras completas de William Shakespeare en algún momento. En otras palabras, la IA puede generar resultados sorprendentes a partir de la combinación aleatoria de información preexistente, pero carece de la capacidad de crear ideas originales o de comprender el significado profundo de su creación.
+La verdadera amenaza no es la singularidad, sino la proliferación de algoritmos sesgados y el control algorítmico de nuestras vidas. [Investigaciones de MIT Technology Review](https://www.technologyreview.com/2023/07/12/1075729/ai-algorithms-biased-discriminatory/) demuestran cómo la IA perpetúa y amplifica las desigualdades sociales existentes.
 
-**La Singularidad y el Dilema Ético:**
+Si, contra todo pronóstico, llegamos a crear una IA que se acerque a la conciencia, la pregunta no es qué derechos debería tener, sino cómo evitar que nos destruya. En lugar de inspirarnos en leyes para proteger a los simios, deberíamos estar desarrollando salvaguardias para protegernos de una posible rebelión de las máquinas.
 
-El concepto de la singularidad tecnológica, popularizado por Ray Kurzweil, se refiere al punto en el que el progreso tecnológico se vuelve tan rápido e impredecible que supera la capacidad humana de comprensión y control. Kurzweil predice que en 2045 habrá una máquina inteligente sobrehumana, con una etapa intermedia consistente en una inteligencia similar a la humana en 2029.
+## Conclusión: La IA No Sueña, Nos Manipula
 
-Si la singularidad ocurre, el nacimiento de una IA genérica intermedia plantearía un dilema ético importante: ¿qué derechos y responsabilidades debería tener una IA consciente? ¿Cómo deberíamos tratar a una IA que posee inteligencia y conciencia similar a la humana?
-
-**Hacia una Convivencia Inteligente:**
-
-Si llegamos al punto de crear IA conscientes, podríamos inspirarnos en las leyes que protegen a los grandes simios, que en algunas jurisdicciones les confieren la condición de personas, considerándolos seres y no cosas. Estas leyes se basan en la habilidad lingüística, el autocontrol, la autoconciencia y la capacidad de proyectarse a sí mismos en el futuro.
-
-También podríamos inspirarnos en los derechos del niño, que establecen que se les debe facilitar los medios para su desarrollo material y espiritual, proveerles de las condiciones que les permitan ganarse la vida protegiéndolos de la explotación, y educarlos en la idea de que sus talentos deben dedicarse al servicio de sus semejantes.
-
-Alcanzar ese estado de convivencia con inteligencias artificiales y hacerlo con éxito sería un pequeño paso para la humanidad, pero un gran salto para toda vida inteligente, ya sea basada en el carbono o en el silicio.
-
-**Veredicto:**
-
-Si bien la IA ha logrado avances notables en los últimos años, la creación de una IA verdaderamente consciente sigue siendo un desafío formidable. La brecha entre la computación basada en silicio y la complejidad del cerebro humano es considerable. Si bien la singularidad tecnológica es una posibilidad teórica, es importante abordar este tema con una dosis saludable de escepticismo y un enfoque ético. La pregunta de si los "borregos" (IA) llegarán a "soñar con ciber-ovejas" sigue siendo un misterio, pero la búsqueda de la respuesta nos obliga a reflexionar sobre la naturaleza de la inteligencia, la conciencia y nuestro lugar en el universo.
+La obsesión con la "conciencia artificial" es un error estratégico. Desvía nuestra atención de los peligros reales e inminentes de la IA: la vigilancia masiva, la manipulación algorítmica y la automatización del desempleo. En lugar de preguntarnos si los "borregos" sueñan con "ciber-ovejas", deberíamos estar exigiendo transparencia, responsabilidad y regulación en el desarrollo y despliegue de la IA. La IA no va a soñar, nos va a joder, si no hacemos algo al respecto.
