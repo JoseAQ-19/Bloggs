@@ -13,7 +13,6 @@ tags:
 - Tutorials
 - Blueprints
 title: "Programa de Kinesiología: Carreras Dinámicas en Ciencias del Movimiento Humano"
-  in Human Movement - Alma College Analysis'
 translationKey: kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm
 type: fitness
 ---
