@@ -16,7 +16,6 @@ tags:
 - Blueprints
 - remastered
 title: "La NBA Reúne a Más de 200 Creadores en el All-Star Weekend de Los Ángeles"
-  Analysis
 translationKey: nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety
 type: youtube
 ---
