@@ -109,6 +109,7 @@ class NotebookMCPClient:
             )
             
             # Handshake
+            current_id = self.request_id
             init_req = {
                 "jsonrpc": "2.0",
                 "method": "initialize",
@@ -117,10 +118,10 @@ class NotebookMCPClient:
                     "capabilities": {},
                     "clientInfo": {"name": "researcher-v4-eeat", "version": "2.0"}
                 },
-                "id": self.request_id
+                "id": current_id
             }
             self.send_request(init_req)
-            resp = self.read_response()
+            resp = self.read_response(expected_id=current_id)
             
             if not resp or "error" in resp:
                 print(f"❌ [Capa 1] Error Handshake: {resp}")
@@ -150,35 +151,49 @@ class NotebookMCPClient:
         self.process.stdin.write(json.dumps(req) + "\n")
         self.process.stdin.flush()
 
-    def read_response(self, timeout=30):
+    def read_response(self, expected_id, timeout=30):
         if not self.process: return None
         
         import select
         
-        reads, _, _ = select.select([self.process.stdout], [], [], timeout)
-        
-        if not reads:
-            print(f"⚠️ Timeout lectura MCP ({timeout}s)")
-            return None
+        start_time = time.time()
+        while True:
+            remaining = timeout - (time.time() - start_time)
+            if remaining <= 0:
+                print(f"⚠️ Timeout lectura MCP ({timeout}s) para request {expected_id}")
+                return None
+                
+            reads, _, _ = select.select([self.process.stdout], [], [], remaining)
             
-        try:
+            if not reads:
+                continue
+                
             line = self.process.stdout.readline()
             if not line: return None
-            return json.loads(line)
-        except Exception as e:
-            print(f"Error lectura MCP: {e}")
-            return None
+            
+            line = line.strip()
+            if not line: continue
+            
+            try:
+                resp = json.loads(line)
+                # Ensure it's JSON-RPC and matches our expected ID
+                if "jsonrpc" in resp and resp.get("id") == expected_id:
+                    return resp
+            except json.JSONDecodeError:
+                # Omitir basura o logs no-JSON de STDOUT del server MCP
+                continue
 
     def call_tool(self, name, arguments, timeout=60):
         if not self.is_connected: return None
+        current_id = self.request_id
         req = {
             "jsonrpc": "2.0",
             "method": "tools/call",
             "params": {"name": name, "arguments": arguments},
-            "id": self.request_id
+            "id": current_id
         }
         self.send_request(req)
-        return self.read_response(timeout=timeout)
+        return self.read_response(expected_id=current_id, timeout=timeout)
 
     def close(self):
         if self.process:
@@ -333,85 +348,99 @@ Return ONLY the final string. NO quotation marks. NO markdown. NO explanations. 
 
         try:
             # =============================================
-            # PASO 1: INICIAR DEEP RESEARCH con Brief E-E-A-T
-            # Modo "deep": ~5 min, ~40 fuentes de alta calidad
+            # PASO 1: MULTIPLE FAST RESEARCH QUERIES
+            # Evita timeouts del MCP y suma ~30 fuentes.
             # =============================================
+            subqueries = [
+                topic,  # La Super-Query Triforce
+                f"{topic[:100]} specific market size statistics numerical data" if lang == "en" else f"{topic[:100]} tamaño mercado datos numéricos",
+                f"{topic[:100]} expert opinion case studies controversy" if lang == "en" else f"{topic[:100]} casos de éxito opinión de expertos"
+            ]
+            
             timestamp = int(time.time())
-            print(f"   🚀 Iniciando DEEP research (modo profundo, ~40 fuentes)...")
-            start_resp = mcp.call_tool("research_start", {
-                "query": research_brief,
-                "mode": "deep",
-                "source": "web",
-                "title": f"EEAT-{topic[:20].replace(' ', '-')}-{lang}-{timestamp}"
-            })
             
-            # Parsear respuesta
-            data = {}
-            if start_resp and "result" in start_resp:
-                res = start_resp["result"]
-                if "structuredContent" in res:
-                    data = res["structuredContent"]
-                elif "content" in res and res["content"]:
-                    try:
-                        data = json.loads(res["content"][0]["text"])
-                    except:
-                        pass
-            
-            notebook_id = data.get("notebook_id")
-            task_id = data.get("task_id")
-            
-            if not notebook_id or not task_id:
-                print(f"   ❌ Error al iniciar research: {data.get('message', 'Sin datos')}")
-                return None
+            for index, sq in enumerate(subqueries):
+                print(f"   🚀 [{index+1}/{len(subqueries)}] Iniciando FAST research ({sq[:60]}...)...")
+                start_params = {
+                    "query": sq,
+                    "mode": "fast",
+                    "source": "web"
+                }
                 
-            print(f"   📓 Notebook ID: {notebook_id}")
-            print(f"   🕵️ Task ID: {task_id} (Esperando Deep Research...")
-            
-            # =============================================
-            # PASO 2: POLLING — Deep mode tarda ~5 minutos
-            # =============================================
-            max_retries = 24  # 24 × 15s = 6 min max
-            completed = False
-            
-            for i in range(max_retries):
-                time.sleep(15) 
-                status_resp = mcp.call_tool("research_status", {
-                    "task_id": task_id, 
-                    "notebook_id": notebook_id
-                })
+                if notebook_id:
+                    start_params["notebook_id"] = notebook_id
+                else:
+                    start_params["title"] = f"EEAT-{topic[:20].replace(' ', '-')}-{lang}-{timestamp}"
                 
-                status_data = {}
-                if status_resp and "result" in status_resp:
-                     res = status_resp["result"]
-                     if "structuredContent" in res:
-                         status_data = res["structuredContent"]
-                     elif "content" in res:
-                         try:
-                             status_data = json.loads(res["content"][0]["text"])
-                         except: pass
+                start_resp = mcp.call_tool("research_start", start_params)
                 
-                state = status_data.get("status", "unknown")
-                sources_found = status_data.get("sources_found", "?")
-                print(f"      ⏳ Estado ({i+1}/{max_retries}): {state} | Fuentes: {sources_found}")
+                data = {}
+                if start_resp and "result" in start_resp:
+                    res = start_resp["result"]
+                    if "structuredContent" in res:
+                        data = res["structuredContent"]
+                    elif "content" in res and res["content"]:
+                        try:
+                            data = json.loads(res["content"][0]["text"])
+                        except:
+                            pass
                 
-                if state in ["completed", "success"]:
-                    completed = True
-                    break
-                elif state == "failed":
-                    print("      ❌ Research falló.")
-                    break
-            
-            if not completed:
-                print("   ⚠️ Timeout esperando deep research. Importando lo disponible...")
+                if not notebook_id:
+                    notebook_id = data.get("notebook_id")
+                    if notebook_id: print(f"   📓 Notebook ID: {notebook_id}")
+                
+                task_id = data.get("task_id")
+                
+                if not notebook_id or not task_id:
+                    print(f"      ❌ Error al iniciar subquery: {data.get('message', 'Sin datos')}")
+                    continue
+                    
+                print(f"      🕵️ Esperando Fast Research (Task: {task_id[:8]}...)")
+                
+                # POLLING LIGERO
+                max_retries = 15  # 15 * 5s = 75s (Fast es ~30s)
+                completed = False
+                
+                for i in range(max_retries):
+                    time.sleep(5)
+                    status_resp = mcp.call_tool("research_status", {
+                        "task_id": task_id, 
+                        "notebook_id": notebook_id,
+                        "max_wait": 0
+                    }, timeout=15)
+                    
+                    status_data = {}
+                    if status_resp and "result" in status_resp:
+                         res = status_resp["result"]
+                         if "structuredContent" in res:
+                             status_data = res["structuredContent"]
+                         elif "content" in res:
+                             try:
+                                 status_data = json.loads(res["content"][0]["text"])
+                             except: pass
+                    
+                    research_obj = status_data.get("research", {})
+                    state = research_obj.get("status", status_data.get("status", "unknown"))
+                    sources = research_obj.get("source_count", "?")
+                    print(f"         ⏳ Estado: {state} | Fuentes encontradas: {sources}")
+                    
+                    if state in ["completed", "success"]:
+                        completed = True
+                        break
+                    elif state == "failed":
+                        break
+                        
+                if not completed:
+                    print("      ⚠️ Timeout fast research. Importando de todas formas...")
 
-            # =============================================
-            # PASO 3: IMPORTAR FUENTES DESCUBIERTAS
-            # =============================================
-            print("   📥 Importando fuentes descubiertas al notebook...")
-            mcp.call_tool("research_import", {
-                "notebook_id": notebook_id, 
-                "task_id": task_id
-            })
+                # =============================================
+                # PASO 2: IMPORTAR FUENTES DESCUBIERTAS
+                # =============================================
+                print("      📥 Importando fuentes descubiertas al notebook...")
+                mcp.call_tool("research_import", {
+                    "notebook_id": notebook_id, 
+                    "task_id": task_id
+                })
             
             # =============================================
             # PASO 4: EXTRACCIÓN — Prompt con E-E-A-T + Links
@@ -458,7 +487,7 @@ CRITICAL RULES:
             query_resp = mcp.call_tool("notebook_query", {
                 "notebook_id": notebook_id, 
                 "query": extraction_prompt
-            }, timeout=180)
+            }, timeout=300)
             
             # Extraer respuesta
             final_content = ""
