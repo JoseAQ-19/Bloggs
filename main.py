@@ -8,6 +8,7 @@ import urllib.parse
 from datetime import datetime, timedelta
 import unicodedata
 from dotenv import load_dotenv
+from openai import OpenAI
 
 # Cargar variables de entorno (Prioridad .env)
 load_dotenv()
@@ -259,8 +260,79 @@ Example fallback: [MIT AI study](https://scholar.google.com/scholar?q=MIT+AI+wor
 ARTICLES WITH FEWER THAN 3 OUTBOUND LINKS WILL BE REJECTED.
 """
 
+def _call_en_engine(prompt_text):
+    """
+    Motor Inglés Trinity: GLM-4-Flash → Fallback OpenRouter/Llama3.
+    Usa la API compatible con OpenAI para ambos proveedores.
+    """
+    # --- INTENTO 1: Zhipu GLM-4-Flash ---
+    zhipu_key = os.getenv("ZHIPU_API_KEY")
+    if zhipu_key:
+        print("   🧠 [Trinity EN] Motor 1: Zhipu GLM-4-Flash...")
+        try:
+            glm_client = OpenAI(
+                api_key=zhipu_key,
+                base_url="https://open.bigmodel.cn/api/paas/v4/"
+            )
+            resp = glm_client.chat.completions.create(
+                model="glm-4-flash",
+                messages=[{"role": "user", "content": prompt_text}],
+                temperature=0.85,
+                max_tokens=4096
+            )
+            result = resp.choices[0].message.content.strip()
+            if result and len(result) > 200:
+                print("   ✅ GLM-4-Flash respondió correctamente.")
+                return result
+            else:
+                print("   ⚠️ GLM respuesta vacía o muy corta. Activando fallback...")
+        except Exception as e:
+            print(f"   ⚠️ GLM-4-Flash error: {e}. Activando fallback OpenRouter...")
+    else:
+        print("   ⚠️ ZHIPU_API_KEY no configurada. Saltando a OpenRouter...")
+
+    # --- INTENTO 2: OpenRouter / Llama 3 ---
+    or_key = os.getenv("OPENROUTER_API_KEY")
+    if or_key:
+        print("   🔄 [Trinity EN] Motor 2 (Fallback): OpenRouter / Llama 3...")
+        try:
+            or_client = OpenAI(
+                api_key=or_key,
+                base_url="https://openrouter.ai/api/v1"
+            )
+            resp = or_client.chat.completions.create(
+                model="meta-llama/llama-3-8b-instruct:free",
+                messages=[{"role": "user", "content": prompt_text}],
+                temperature=0.85,
+                max_tokens=4096
+            )
+            result = resp.choices[0].message.content.strip()
+            if result and len(result) > 200:
+                print("   ✅ OpenRouter/Llama3 respondió correctamente.")
+                return result
+            else:
+                print("   ⚠️ OpenRouter respuesta vacía. Cayendo a Gemini de emergencia...")
+        except Exception as e:
+            print(f"   ⚠️ OpenRouter error: {e}. Cayendo a Gemini de emergencia...")
+    else:
+        print("   ⚠️ OPENROUTER_API_KEY no configurada. Cayendo a Gemini de emergencia...")
+
+    # --- EMERGENCIA: Gemini (nunca dejar sin artículo) ---
+    print("   🚨 [Trinity EN] Motor de Emergencia: Gemini...")
+    resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt_text)
+    return resp.text.strip()
+
+
 def escribir_articulo(meta, contexto, lang, category_config):
     print(f"✍️ Escribiendo ({lang}): {meta['titulo']}...")
+    # === AISLAMIENTO ESTRICTO DE VARIABLES ===
+    prompt_persona = None
+    structure = None
+    research_text = None
+    research_layer = None
+    prompt = None
+    resultado = None
+
     prompt_persona = category_config['prompt_es'] if lang == 'es' else category_config['prompt_en']
     structure = random.choice(list(STRUCTURE_TEMPLATES.values()))
     
@@ -281,8 +353,18 @@ def escribir_articulo(meta, contexto, lang, category_config):
         f"TEMPLATE: {structure}\n"
         f"LANG: {lang}"
     )
-    resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
-    return resp.text.strip()
+
+    # === CEREBRO ESPAÑOL: GEMINI ===
+    if lang == "es":
+        print("   🇪🇸 [Trinity] Motor ES: Gemini 2.0 Flash")
+        resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
+        resultado = resp.text.strip()
+    # === CEREBRO INGLÉS: GLM → OpenRouter → Gemini Emergency ===
+    else:
+        print("   🇬🇧 [Trinity] Motor EN: GLM-4-Flash → OpenRouter → Gemini")
+        resultado = _call_en_engine(prompt)
+
+    return resultado
 
 def escribir_blueprint(tutorial_data, lang="en"):
     """Genera el post de herramienta reescribiendo con personalidad según idioma."""
@@ -295,8 +377,12 @@ def escribir_blueprint(tutorial_data, lang="en"):
         transcript=tutorial_data['transcript'][:30000]
     ) + f"\n{SYSTEM_FORMAT_RULES}"
     
-    resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
-    return resp.text.strip()
+    # === TRINITY: Misma lógica de motores aislados ===
+    if lang == "es":
+        resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
+        return resp.text.strip()
+    else:
+        return _call_en_engine(prompt)
 
 def guardar_post(meta, contenido, lang, category, forced_image=None, translation_key=None):
     """Guarda el post con imagen validada y frontmatter blindado."""
@@ -426,7 +512,16 @@ def main():
     import uuid
     trans_key = str(uuid.uuid4())
     
-    for lang in ["es", "en"]:
+    for i, lang in enumerate(["es", "en"]):
+        # === ANTI-RATE-LIMIT: Pausa entre idiomas ===
+        if i > 0:
+            print("   ⏳ [Trinity] Anti-Rate-Limit: sleep(15) entre idiomas...")
+            time.sleep(15)
+        
+        # === AISLAMIENTO: Variables limpias por idioma ===
+        meta = None
+        texto = None
+        
         meta = planificar_articulo(tema, contexto, lang, NICHES[cat])
         texto = escribir_articulo(meta, contexto, lang, NICHES[cat])
         guardar_post(meta, texto, lang, cat, translation_key=trans_key)
