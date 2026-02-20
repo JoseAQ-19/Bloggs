@@ -1,11 +1,5 @@
 {
-    "build": {
-        "command": "hugo --gc --minify",
-        "environment": {
-            "HUGO_VERSION": "0.147.4",
-            "HUGO_ENV": "production"
-        }
-    },
+    "buildCommand": "hugo --gc --minify",
     "headers": [
         {
             "source": "/images/(.*)",
