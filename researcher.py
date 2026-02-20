@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 from google import genai
 from google.genai import types
+from exa_py import Exa
 
 # Configuración
 MCP_BINARY = "notebooklm-mcp"
@@ -194,6 +195,8 @@ class ResearcherV4:
     def __init__(self):
         self.api_key = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
         self.client = genai.Client(api_key=self.api_key) if self.api_key else None
+        exa_key = os.getenv("EXA_API_KEY")
+        self.exa = Exa(exa_key) if exa_key else None
 
     def _find_mcp_binary(self):
         """Busca el binario notebooklm-mcp en rutas comunes."""
@@ -214,56 +217,78 @@ class ResearcherV4:
                     return cmd
         return None
 
-    def _deep_keyword_miner(self, topic, lang):
+    def _mine_deep_keywords(self, topic, lang):
         """
-        Deep-Keyword Miner (Prospección de Entidades de Poder).
-        Usa Exa.ai para raspar la superficie de pozos de conocimiento, y Gemini para extraer
-        Jargon, Controversias y Nombres Propios para forjar una Super-Query anti-Wikipedia.
+        PROTOCOLO DEEP-KEYWORD MINER & TRIFORCE RESEARCH
+        1. Prospección rápida en "Pozos de Conocimiento" reales vía Exa.
+        2. LLM extrae Jerga, Nombres Propios y Controversias.
+        3. Construye el Super-Prompt Triforce (Tendencia + Pregunta + Señal Social).
         """
+        print(f"   ⛏️ [Deep-Keyword Miner] Prospectando pozos de conocimiento para '{topic}'...")
+        
+        snippets = "No extra data."
+        if self.exa:
+            # 1. Identificación de Pozos de Conocimiento
+            if lang == "es":
+                query = f"'{topic}' site:reddit.com OR site:forocoches.com OR site:medium.com OR site:x.com OR site:.es OR site:.mx OR site:.ar OR site:.gob"
+            else:
+                query = f"'{topic}' site:reddit.com OR site:news.ycombinator.com OR site:substack.com OR site:.edu OR site:.pdf"
+            try:
+                # Omitiendo use_autoprompt porque falla en versiones nuevas de exa-py
+                res = self.exa.search(query, num_results=5, type="neural")
+                if res and res.results:
+                    snippets = "\n".join([f"- {r.title}" for r in res.results])
+                    print("   🔍 [Exa Prospección] Resultados tempranos encontrados.")
+            except Exception as e:
+                print(f"   ⚠️ Exa mining fallback: {e}")
+
         if not self.client:
             return topic
-            
-        exa_key = os.getenv("EXA_API_KEY")
-        if not exa_key:
-            return topic
-            
-        print(f"   ⛏️ [Deep-Keyword Miner] Prospectando pozos de conocimiento...")
-        try:
-            from exa_py import Exa
-            exa = Exa(exa_key)
-            
-            if lang == "es":
-                query = f"site:medium.com OR site:twitter.com OR site:x.com OR site:reddit.com/r/Espana {topic}"
-            else:
-                query = f"site:reddit.com OR site:news.ycombinator.com OR site:substack.com {topic}"
-                
-            res = exa.search(query, num_results=3, type="neural")
-            # Extraer títulos (o texto si estuviera disponible)
-            snippets = " ".join([r.title for r in res.results if r.title])
-            
-            prompt = f"""ACT AS: Senior SEO Research Strategist.
-Analyze these early search snippets about "{topic}":
-SNIPPETS: {snippets}
 
-Extract ONLY 3 high-value "Power Entities" combining:
-1. Jargon (Technical terms only experts use)
-2. Controversies (Debates or active pain points)
-3. Target Names (Named entities, companies, or experts leading the space)
+        print("   🧠 [Triforce LLM] Extrayendo Entidades de Poder y generando Super-Query...")
+        
+        # 2 y 3: Extracción de Entidades y Triforce Builder
+        prompt_lang = "Spanish" if lang == "es" else "English"
+        
+        prompt = f"""ACT AS: Senior OSINT Intelligence Analyst & Master Prompt Engineer.
+We need to turn a generic topic into an 'Ultra-Specific Triforce Research Query' for a deep web crawler.
 
-Then, combine them and rewrite the original topic into a SINGLE complex search query.
-VALIDATION (Anti-Wikipedia): If the new query feels like a generic definition, force it by appending "unpopular opinion" or "technical breakdown".
-OUTPUT FORMAT: ONLY the final search query string. NO quotes.
+GENERIC TOPIC: "{topic}"
+LANGUAGE TARGET: {prompt_lang}
+
+QUICK PROSPECTING RESULTS (Raw clues from Exa):
+{snippets}
+
+STEP 1: INTERNAL ANALYSIS (Do not output this part)
+Identify from the topic and clues:
+- Jargon: Technical terms only insiders use.
+- Controversies: Current painful debates or complaints.
+- Power Entities: High-profile names, companies, or researchers.
+
+STEP 2: THE TRIFORCE FRAMEWORK (Your Output)
+Construct exactly ONE powerful, highly optimized search query string using this 3-part formula:
+[Trend Angle (novel/predictive)] + [Critical Question (deepest technical/user doubt)] + [Social Signal/Jargon (e.g. mention forums or controversies)].
+
+ANTI-WIKIPEDIA VALIDATION RULE:
+If the topic is generic like a dictionary definition, MUST add terms like "unpopular opinion", "technical breakdown", "expert debate", or "real-world failure case".
+
+EXAMPLE OF TRIFORCE QUERY:
+Bad: "Paneles Solares"
+Good: "Degradación de paneles solares perovskita a 10 años merece la pena la inversión frente a silicio quejas mantenimiento Reddit r/solar"
+
+OUTPUT FORMAT:
+Return ONLY the final string. NO quotation marks. NO markdown. NO explanations. MUST be in {prompt_lang}.
 """
+        try:
             resp = self.client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
-            super_query = resp.text.strip().replace('"', '')
-            
+            super_query = resp.text.strip().replace('"', '').split('\n')[0]
             if len(super_query) > 10:
-                print(f"   💎 [Deep-Keyword Miner] Super-Query Generada: '{super_query}'")
+                print(f"   🔥 [Triforce Query] -> {super_query[:100]}...")
                 return super_query
-            return topic
         except Exception as e:
-            print(f"   ⚠️ [Deep-Keyword Miner] Error durante prospección: {e}. Usando semilla original.")
-            return topic
+            print(f"   ⚠️ Gemini Triforce fallback: {e}")
+
+        return topic + (" technical debate Reddit" if lang == "en" else " debate técnico Reddit")
 
     def research(self, topic, category="general", search_context="", lang="es"):
         """
@@ -273,22 +298,21 @@ OUTPUT FORMAT: ONLY the final search query string. NO quotes.
         print(f"\n🔍 INICIANDO GEO-RESEARCH E-E-A-T PARA: '{topic}' [{lang.upper()}]")
         print(f"   Categoría: {category} | Contexto: {search_context[:60]}...")
         
-        # === DEEP-KEYWORD MINER ===
-        # Prospects high-value sources and extracts Jargon/Controversies
-        super_query = self._deep_keyword_miner(topic, lang)
+        # --- NUEVO: DEEP-KEYWORD MINER & TRIFORCE ---
+        super_topic = self._mine_deep_keywords(topic, lang)
         
         # Construir el Brief de investigación estructurado localizado
-        research_brief = build_research_query(super_query, category, search_context, lang=lang)
+        research_brief = build_research_query(super_topic, category, search_context, lang=lang)
         
         # 🥇 CAPA 1: NOTEBOOKLM DEEP RESEARCH
-        result = self._layer_1_notebooklm(topic, research_brief, lang)
+        result = self._layer_1_notebooklm(super_topic, research_brief, lang)
         if result: return result
         
         # 🥈 CAPA 2: GEMINI GROUNDING (con brief E-E-A-T)
-        result = self._layer_2_gemini_grounding(topic, research_brief, lang)
+        result = self._layer_2_gemini_grounding(super_topic, research_brief, lang)
         if result: return result
         
-        # 🥉 CAPA 3: SCRAPING CLÁSICO
+        # 🥉 CAPA 3: SCRAPING CLÁSICO (pasamos el topic simple original para evitar romper Google News RSS)
         return self._layer_3_classic_scraping(topic, lang)
 
     def _layer_1_notebooklm(self, topic, research_brief, lang):
