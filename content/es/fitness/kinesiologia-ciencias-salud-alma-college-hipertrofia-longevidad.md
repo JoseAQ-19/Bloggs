@@ -12,8 +12,7 @@ quality_tier: fenix_v2_notebooklm
 tags:
 - Biohacking & Fitness
 - Trends
-title: 'Kinesiología y Ciencias de la Salud en Alma College: Hipertrofia, Ciencia
-  y Longevidad'
+title: "Kinesiología y Ciencias de la Salud en Alma College: Hipertrofia, Ciencia y Longevidad"
 translationKey: alma-college-kinesiology-hypertrophy-longevity
 type: fitness
 ---
