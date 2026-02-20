@@ -1,5 +1,9 @@
 {
     "buildCommand": "hugo --gc --minify",
+    "env": {
+        "HUGO_VERSION": "0.147.4",
+        "HUGO_ENV": "production"
+    },
     "headers": [
         {
             "source": "/images/(.*)",
