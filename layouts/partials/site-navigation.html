@@ -20,8 +20,8 @@
 <nav class="site-nav" role="navigation">
   <div class="site-nav__inner" style="display:flex; justify-content:space-between; align-items:center; width:100%;">
 
-    {{/* --- LEFT: Hamburger Button (MOBILE ONLY) --- */}}
-    <div class="flex items-center nav-mobile-only">
+    {{/* --- LEFT: Hamburger Button --- */}}
+    <div class="flex items-center">
       <button class="hamburger-btn" id="hamburger-btn" aria-label="Abrir menú" aria-expanded="false">
         <span class="hamburger-btn__line"></span>
         <span class="hamburger-btn__line"></span>
@@ -29,8 +29,8 @@
       </button>
     </div>
 
-    {{/* --- LEFT (DESKTOP): Logo + Section --- */}}
-    <div class="flex items-center">
+    {{/* --- CENTER: Logo + Section --- */}}
+    <div class="flex items-center justify-center flex-grow-1">
       <a href="{{ .Site.Home.RelPermalink }}" class="site-nav__logo">
         NOVUMWORLD
         <span class="site-nav__divider">|</span>
@@ -39,21 +39,10 @@
       </a>
     </div>
 
-    {{/* --- CENTER (DESKTOP): Horizontal Section Links --- */}}
-    {{ $currentLang := .Site.Language.Lang }}
-    {{ $langPrefix := "" }}
-    {{ if eq $currentLang "es" }}{{ $langPrefix = "/es" }}{{ end }}
-    <div class="nav-desktop-links">
-      {{ range .Site.Menus.main }}
-      <a href="{{ .URL }}" class="nav-desktop-link {{ if eq $.Section .Identifier }}nav-desktop-link--active{{ end }}">
-        {{ .Name }}
-      </a>
-      {{ end }}
-    </div>
-
     {{/* --- RIGHT: Language Switcher (Robust Babel Logic v3) --- */}}
     <div class="flex items-center">
       <ul class="lang-switcher" style="display:flex; list-style:none; margin:0; padding:0; gap:0.8rem;">
+        {{ $currentLang := .Site.Language.Lang }}
         {{ $page := . }}
 
         {{ range .Site.Languages }}

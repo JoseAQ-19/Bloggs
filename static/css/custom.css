@@ -142,35 +142,6 @@ a:hover {
     color: var(--primary) !important;
 }
 
-/* Nav Desktop Fixes */
-.nav-mobile-only {
-    display: none !important;
-}
-
-.nav-desktop-links {
-    display: flex;
-    gap: 1.5rem;
-    align-items: center;
-}
-
-.nav-desktop-link {
-    font-family: var(--font-heading);
-    font-size: 0.95rem;
-    font-weight: 600;
-    color: var(--text-color) !important;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    opacity: 0.7;
-    transition: opacity 0.3s, color 0.3s;
-    text-decoration: none !important;
-}
-
-.nav-desktop-link:hover,
-.nav-desktop-link--active {
-    opacity: 1;
-    color: var(--primary) !important;
-}
-
 .nav-a {
     font-family: var(--font-heading);
     color: var(--text-color) !important;
@@ -816,14 +787,6 @@ table {
 @media (max-width: 768px) {
 
     /* --- HUD / NAVIGATION FIX --- */
-    .nav-mobile-only {
-        display: flex !important;
-    }
-
-    .nav-desktop-links {
-        display: none !important;
-    }
-
     .site-nav {
         padding: 0.75rem 0.5rem;
         position: sticky;
