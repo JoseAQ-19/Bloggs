@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-01-27 21:58:44
-description: ""
-draft: true
+description: "En un mundo inundado de información, donde cada clic compite por nuestra atención, es crucial discernir entre el periodismo genuino y el mero espectáculo...."
+draft: false
 featured_image: /images/novumworld-la-farsa-del-periodismo-de-elite-y-por.jpg
 language: es
 last_updated: '2026-02-14'

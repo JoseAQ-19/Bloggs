@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-29 16:09:14
-description: ""
+description: "La Inteligencia Artificial IA se ha vendido como la panacea del siglo XXI, un catalizador para la eficiencia, la innovación y la resolución de problemas gl..."
 draft: false
 featured_image: /images/el-mito-del-progreso-como-la-ia-nos-vende-un-futur.jpg
 language: es

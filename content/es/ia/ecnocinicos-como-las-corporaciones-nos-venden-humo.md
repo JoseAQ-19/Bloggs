@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-02-06 00:04:32
-description: ""
+description: "La fascinación por el futuro, alimentada por promesas de tecnología revolucionaria, se ha convertido en un lucrativo negocio para las grandes corporaciones..."
 draft: false
 featured_image: /images/ecnocinicos-como-las-corporaciones-nos-venden-humo.jpg
 language: es

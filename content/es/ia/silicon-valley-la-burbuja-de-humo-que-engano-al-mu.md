@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-01-28 02:52:31
-description: ""
-draft: true
+description: "Silicon Valley: La Burbuja de Humo que Engañó al Mundo Silicon Valley, una vez sinónimo de innovación disruptiva, se encuentra hoy al borde de un precipici..."
+draft: false
 featured_image: /images/silicon-valley-la-burbuja-de-humo-que-engano-al-mu.jpg
 language: es
 last_updated: '2026-02-14'

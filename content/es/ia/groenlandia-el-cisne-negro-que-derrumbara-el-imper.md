@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-27 18:38:10
-description: ""
+description: "Groenlandia, un territorio históricamente relegado a la periferia gélida, emerge hoy como el punto de inflexión geopolítico del siglo XXI. No se trata únic..."
 draft: false
 featured_image: /images/groenlandia-el-cisne-negro-que-derrumbara-el-imper.jpg
 language: es

@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-28 05:20:43
-description: ""
+description: "El 2019 se suponía que era la promesa cumplida de Chile. En cambio, reventó como una burbuja, exponiendo fisuras profundas en lo que se vendía como un mode..."
 draft: false
 featured_image: /images/el-ano-en-que-el-futuro-se-rompio-y-nadie-hizo-na.jpg
 language: es

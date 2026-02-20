@@ -2,8 +2,8 @@
 categories:
 - crypto
 date: 2026-01-27 20:10:00
-description: ""
-draft: true
+description: "The obituaries for Bitcoin have been written countless times. Each dip, correction, and bear market brings forth a fresh wave of pronouncements declaring i..."
+draft: false
 featured_image: /images/bitcoin-ha-muerto-y-esta-vez-es-para-siempre-autop.jpg
 language: en
 last_updated: '2026-02-14'

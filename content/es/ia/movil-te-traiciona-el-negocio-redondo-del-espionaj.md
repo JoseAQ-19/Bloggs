@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-02-09 08:10:37
-description: ""
-draft: true
+description: "¿Alguna vez te has preguntado por qué las publicidades de ese producto que buscaste casualmente ayer te persiguen incansablemente por todo Internet? La res..."
+draft: false
 featured_image: /images/movil-te-traiciona-el-negocio-redondo-del-espionaj.jpg
 language: es
 last_updated: '2026-02-14'

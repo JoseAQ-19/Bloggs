@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-28 05:38:40
-description: ""
+description: "Philip K. Dick nos avisó. Hace más de medio siglo, ¿Sueñan los androides con ovejas eléctricas? no era solo ciencia ficción; era una profecía. Hoy, mientra..."
 draft: false
 featured_image: /images/suenan-los-androides-con-ovejas-electricas-y-tu-co.jpg
 language: es

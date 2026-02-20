@@ -2,8 +2,8 @@
 categories:
 - crypto
 date: 2026-01-27 19:53:02
-description: ""
-draft: true
+description: "La promesa de Bitcoin, una moneda digital descentralizada que desafiaría los sistemas financieros tradicionales, ha cautivado a millones. Sin embargo, tras..."
+draft: false
 featured_image: /images/bitcoin-la-fiebre-del-oro-digital-es-una-estafa-pi.jpg
 language: es
 last_updated: '2026-02-14'

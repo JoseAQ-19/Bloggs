@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-02-01 00:05:39
-description: ""
+description: "La promesa dorada de la Inteligencia Artificial IA resplandece con la intensidad de mil soles, hipnotizando a una sociedad ávida de soluciones fáciles y fu..."
 draft: false
 featured_image: /images/nos-distrae-la-ia-mientras-el-mundo-se-derrumba.jpg
 language: es

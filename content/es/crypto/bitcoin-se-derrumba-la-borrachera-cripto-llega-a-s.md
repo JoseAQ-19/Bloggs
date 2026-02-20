@@ -2,8 +2,8 @@
 categories:
 - crypto
 date: 2026-01-27 19:56:16
-description: ""
-draft: true
+description: "El champán digital ha dejado de fluir. Tras años de promesas grandilocuentes y expectativas infladas, la realidad ha golpeado al mercado de Bitcoin con la..."
+draft: false
 featured_image: /images/bitcoin-se-derrumba-la-borrachera-cripto-llega-a-s.jpg
 language: es
 last_updated: '2026-02-14'

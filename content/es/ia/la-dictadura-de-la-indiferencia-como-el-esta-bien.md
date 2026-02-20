@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-28 00:01:50
-description: ""
+description: "Chile se enfrenta a una crisis silenciosa, una erosión de la participación cívica y la creencia en el sistema democrático. El fenómeno, denominado la 'dict..."
 draft: false
 featured_image: /images/la-dictadura-de-la-indiferencia-como-el-esta-bien.jpg
 language: es

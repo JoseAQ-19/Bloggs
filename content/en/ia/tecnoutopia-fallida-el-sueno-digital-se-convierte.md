@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-28 06:17:49
-description: ""
+description: "The Failed Tech Utopia: How the Digital Dream Became a Neoliberal Nightmare The promise was intoxicating: a democratized world powered by technology, where..."
 draft: false
 featured_image: /images/tecnoutopia-fallida-el-sueno-digital-se-convierte.jpg
 language: en

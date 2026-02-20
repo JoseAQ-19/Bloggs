@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-02-06 08:09:05
-description: ""
-draft: true
+description: "El clamor por el metaverso ha disminuido, silenciado no por un fracaso total, sino por una dispersión. Lo que una vez se promocionó como un destino único y..."
+draft: false
 featured_image: /images/el-metaverso-ha-muerto-larga-vida-al-caos-digital.jpg
 language: es
 last_updated: '2026-02-14'

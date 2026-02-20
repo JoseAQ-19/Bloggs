@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-01-28 07:13:17
-description: ""
-draft: true
+description: "La inteligencia artificial IA no viene a salvarnos, sino a explotarnos. Esta afirmación, aunque dura, refleja una realidad incómoda que se esconde tras la..."
+draft: false
 featured_image: /images/la-ia-no-viene-a-salvarnos-viene-a-explotarnos.jpg
 language: es
 last_updated: '2026-02-14'

@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-28 05:52:43
-description: ""
+description: "De Blade Runner a Glovo: La Distopía Ya Está Aquí Y Pide a Domicilio ¿Recuerdas las calles lluviosas y saturadas de neón de Blade Runner, donde la tecnolog..."
 draft: false
 featured_image: /images/de-blade-runner-a-glovo-la-distopia-ya-esta-aqui-y.jpg
 language: es

@@ -5,7 +5,7 @@ date: 2026-02-11 02:35:00
 description: Okay, here's an article from the perspective of a Wall Street crypto
   investor analyzing why LayerZero is trending.  ¿LayerZero es el Futuro Interoperable
   o un C...
-draft: true
+draft: false
 featured_image: /images/why-is-layerzero-trending-today-in-crypto.jpg
 language: en
 last_updated: '2026-02-14'

@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-01-28 02:01:00
-description: ""
-draft: true
+description: "El auge del 'capitalismo zombi' no es una película de terror, sino una realidad económica que amenaza con devorar nuestro futuro. Este concepto, cada vez m..."
+draft: false
 featured_image: /images/el-capitalismo-zombi-como-la-codicia-corporativa-e.jpg
 language: es
 last_updated: '2026-02-14'

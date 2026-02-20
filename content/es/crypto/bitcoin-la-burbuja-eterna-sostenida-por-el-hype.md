@@ -2,8 +2,8 @@
 categories:
 - crypto
 date: 2026-02-01 16:02:53
-description: ""
-draft: true
+description: "Bitcoin, la criptomoneda pionera, sigue desafiando a escépticos y reguladores. Declarada “muerta” cientos de veces, se levanta de entre las cenizas de cada..."
+draft: false
 featured_image: /images/bitcoin-la-burbuja-eterna-sostenida-por-el-hype.jpg
 language: es
 last_updated: '2026-02-14'

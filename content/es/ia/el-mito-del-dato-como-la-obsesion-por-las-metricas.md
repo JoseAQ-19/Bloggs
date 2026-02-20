@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-28 03:30:09
-description: ""
+description: "En la era del big data, la promesa de una toma de decisiones objetiva, basada en evidencia irrefutable, se ha convertido en un dogma. Se nos vende la idea..."
 draft: false
 featured_image: /images/el-mito-del-dato-como-la-obsesion-por-las-metricas.jpg
 language: es

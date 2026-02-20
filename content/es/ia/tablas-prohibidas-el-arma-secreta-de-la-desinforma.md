@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-29 00:05:44
-description: ""
+description: "En la era de la información, la capacidad de presentar datos de manera clara y concisa se ha convertido en un activo crucial. Sin embargo, esta misma capac..."
 draft: false
 featured_image: /images/tablas-prohibidas-el-arma-secreta-de-la-desinforma.jpg
 language: es

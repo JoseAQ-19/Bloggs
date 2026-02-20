@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-02-05 16:12:37
-description: ""
-draft: true
+description: "La Inteligencia Artificial IA se ha vendido como la panacea tecnológica, la solución a todos nuestros males, desde la crisis climática hasta la productivid..."
+draft: false
 featured_image: /images/ia-el-nuevo-mesias-que-te-dejara-en-la-calle.jpg
 language: es
 last_updated: '2026-02-13'

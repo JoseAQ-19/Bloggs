@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-27 19:32:33
-description: ""
+description: "El interés renovado de Estados Unidos en Groenlandia, manifestado en propuestas de compra desde la era Truman hasta las recientes ambiciones de Donald Trum..."
 draft: false
 featured_image: /images/groenlandia-el-iceberg-que-hundira-el-imperio-digi.jpg
 language: es

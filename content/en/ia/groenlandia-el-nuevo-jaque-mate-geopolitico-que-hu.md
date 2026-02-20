@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-27 18:58:17
-description: ""
+description: "Groenlandia: The Geopolitical Checkmate Sinking Silicon Valley? The race to dominate artificial intelligence is no longer just about algorithms and data; i..."
 draft: false
 featured_image: /images/groenlandia-el-nuevo-jaque-mate-geopolitico-que-hu.jpg
 language: en

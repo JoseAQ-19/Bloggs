@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-02-03 00:07:20
-description: ""
+description: "En una era saturada de información, la promesa de la 'neutralidad' en el periodismo resuena como un faro de verdad. Sin embargo, la noción de una 'neutrali..."
 draft: false
 featured_image: /images/neutralidad-cero-la-gran-estafa-de-la-informacion.jpg
 language: es

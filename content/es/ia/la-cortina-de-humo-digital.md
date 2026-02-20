@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-27 23:30:06
-description: ""
+description: "La Cortina de Humo Digital: Un Análisis Crítico de la Adopción Digital en México en 2026 México, un país con una rica historia y una vibrante cultura, se e..."
 draft: false
 featured_image: /images/la-cortina-de-humo-digital.jpg
 language: es

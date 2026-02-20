@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-27 23:01:38
-description: ""
+description: "Mexico enfrenta un cáncer persistente que socava su progreso: la corrupción sistémica orquestada a través de empresas fantasma. Estas entidades, legalmente..."
 draft: false
 featured_image: /images/el-dossier-fantasma-cuando-la-opacidad-es-la-estra.jpg
 language: es

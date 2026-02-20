@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-02-04 08:08:04
-description: ""
+description: "¿Alguna vez has mirado tu extracto bancario y te has preguntado de dónde salió ese cargo de 9,99 €? Lo más probable es que seas víctima de una 'suscripción..."
 draft: false
 featured_image: /images/suscripciones-fantasma-la-estafa-del-siglo-xxi.jpg
 language: es

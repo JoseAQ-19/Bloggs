@@ -2,7 +2,7 @@
 categories:
 - crypto
 date: 2026-01-27 21:07:15
-description: ""
+description: "Bitcoin. La palabra evoca imágenes de libertad financiera, innovación disruptiva y un futuro descentralizado. Pero, ¿y si esa narrativa brillante oculta un..."
 draft: false
 featured_image: /images/bitcoin-la-estafa-del-siglo-xxi-al-descubierto.jpg
 language: es

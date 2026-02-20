@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-01-28 01:14:15
-description: ""
-draft: true
+description: "El metaverso ha muerto. O quizá no. Lo que sí está claro es que la visión grandilocuente que Mark Zuckerberg vendió al mundo en 2021, con Facebook renombrá..."
+draft: false
 featured_image: /images/el-metaverso-ha-muerto-bienvenidos-al-infierno-dig.jpg
 language: es
 last_updated: '2026-02-14'

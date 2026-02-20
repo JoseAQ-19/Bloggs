@@ -2,8 +2,8 @@
 categories:
 - crypto
 date: 2026-02-07 16:03:36
-description: ""
-draft: true
+description: "El Bitcoin, la criptomoneda insignia, ha pasado por la picadora de carne en los primeros compases de 2026. Después de rozar la estratosfera con un máximo h..."
+draft: false
 featured_image: /images/bitcoin-en-caida-libre-el-fin-de-la-era-dorada.jpg
 language: es
 last_updated: '2026-02-14'

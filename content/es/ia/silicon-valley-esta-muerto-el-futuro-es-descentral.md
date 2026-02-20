@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-01-28 04:28:43
-description: ""
-draft: true
+description: "Silicon Valley Está Muerto: El Futuro es Descentralización o Barbarie Silicon Valley, el otrora faro de la innovación tecnológica y el progreso económico,..."
+draft: false
 featured_image: /images/silicon-valley-esta-muerto-el-futuro-es-descentral.jpg
 language: es
 last_updated: '2026-02-14'

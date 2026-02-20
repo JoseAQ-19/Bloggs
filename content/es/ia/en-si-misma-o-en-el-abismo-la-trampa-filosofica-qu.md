@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-27 23:14:11
-description: ""
+description: "La filosofía occidental se debate, históricamente, entre dos polos aparentemente irreconciliables: la búsqueda de una verdad última, una 'cosa en sí' que s..."
 draft: false
 featured_image: /images/en-si-misma-o-en-el-abismo-la-trampa-filosofica-qu.jpg
 language: es

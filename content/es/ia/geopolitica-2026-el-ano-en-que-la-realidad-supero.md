@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-01-28 04:00:35
-description: ""
-draft: true
+description: "En 2026, la geopolítica ya no es una partida de ajedrez, sino un juego de póker donde el farol y la intimidación definen la mano. Eduardo Turrent Mena desc..."
+draft: false
 featured_image: /images/geopolitica-2026-el-ano-en-que-la-realidad-supero.jpg
 language: es
 last_updated: '2026-02-14'

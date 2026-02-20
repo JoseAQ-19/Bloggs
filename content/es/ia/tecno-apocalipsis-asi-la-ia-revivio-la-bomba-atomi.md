@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-31 00:05:44
-description: ""
+description: "IA al Borde del Abismo: ¿Regreso a la Era Nuclear? En un giro preocupante, simulaciones recientes han revelado una tendencia inquietante en la inteligencia..."
 draft: false
 featured_image: /images/tecno-apocalipsis-asi-la-ia-revivio-la-bomba-atomi.jpg
 language: es

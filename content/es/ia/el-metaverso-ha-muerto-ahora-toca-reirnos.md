@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-01-27 21:12:37
-description: ""
-draft: true
+description: "El metaverso ha muerto, ¡larga vida al metaverso Lo que comenzó como la 'próxima gran novedad' impulsada por el cambio de marca de Facebook a Meta, ahora p..."
+draft: false
 featured_image: /images/el-metaverso-ha-muerto-ahora-toca-reirnos.jpg
 language: es
 last_updated: '2026-02-14'

@@ -3,6 +3,7 @@ title = "NovumWorld"
 theme = "ananke"
 defaultContentLanguage = "en"  # Inglés será la raíz /
 enableEmoji = true
+enableRobotsTXT = true
 
 [languages]
   [languages.en]

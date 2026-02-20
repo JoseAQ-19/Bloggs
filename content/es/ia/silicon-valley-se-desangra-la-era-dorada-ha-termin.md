@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-01-27 21:49:58
-description: ""
-draft: true
+description: "Silicon Valley en Crisis: ¿El Fin de una Era Dorada que Nadie Quiere Ver? Silicon Valley, el otrora faro de innovación y prosperidad tecnológica, se encuen..."
+draft: false
 featured_image: /images/silicon-valley-se-desangra-la-era-dorada-ha-termin.jpg
 language: es
 last_updated: '2026-02-14'

@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-02-03 08:07:32
-description: ""
-draft: true
+description: "¿Alguna vez te has preguntado por qué ese anuncio de zapatos aparece justo después de que hablaste de necesitar un par nuevo con un amigo? No es magia, es..."
+draft: false
 featured_image: /images/celular-te-espia-y-le-pagas-por-ello.jpg
 language: es
 last_updated: '2026-02-14'

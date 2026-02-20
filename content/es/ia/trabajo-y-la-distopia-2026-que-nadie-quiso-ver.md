@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-28 18:19:23
-description: ""
+description: "Fritz Lang, en su visionaria Metrópolis 1927, imaginó un futuro de rascacielos resplandecientes erigidos sobre la explotación de una clase obrera confinada..."
 draft: false
 featured_image: /images/trabajo-y-la-distopia-2026-que-nadie-quiso-ver.jpg
 language: es

@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-02-01 08:03:35
-description: ""
+description: "La Inteligencia Artificial IA se ha presentado como la panacea tecnológica, una fuerza imparable que transformará nuestras vidas para mejor. Promete automa..."
 draft: false
 featured_image: /images/inteligencia-artificial-la-estafa-del-siglo-xxi.jpg
 language: es

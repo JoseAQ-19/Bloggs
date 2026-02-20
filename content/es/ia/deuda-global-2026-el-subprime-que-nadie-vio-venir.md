@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-31 08:02:33
-description: ""
+description: "El año 2026 se dibuja en el horizonte económico como un posible punto de inflexión sísmico, un año donde las grietas latentes bajo la superficie financiera..."
 draft: false
 featured_image: /images/deuda-global-2026-el-subprime-que-nadie-vio-venir.jpg
 language: es

@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-02-05 00:07:07
-description: ""
-draft: true
+description: "El Metaverso No Está Muerto, Solo Ha Cambiado de Dirección Y Nadie Quiere Admitirlo del Todo El metaverso, esa visión futurista de un internet inmersivo y..."
+draft: false
 featured_image: /images/el-metaverso-esta-muerto-y-nadie-se-atreve-a-decir.jpg
 language: es
 last_updated: '2026-02-14'

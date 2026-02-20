@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-01-28 04:51:37
-description: ""
-draft: true
+description: "Vivimos en una era definida por la promesa de la objetividad algorítmica: la idea de que los datos, fríos y desapasionados, pueden generar decisiones más j..."
+draft: false
 featured_image: /images/el-algoritmo-te-vigila-como-la-objetividad-de-los.jpg
 language: es
 last_updated: '2026-02-13'

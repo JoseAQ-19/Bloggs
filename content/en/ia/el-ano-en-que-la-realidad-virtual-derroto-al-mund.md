@@ -4,7 +4,7 @@ categories:
 date: 2026-01-30 08:06:37
 description: Is VR finally delivering on its promise? Explore the latest trends, market
   data, and surprising success stories that suggest VR's moment has arrived.
-draft: true
+draft: false
 featured_image: /images/el-ano-en-que-la-realidad-virtual-derroto-al-mund.jpg
 language: en
 last_updated: '2026-02-14'

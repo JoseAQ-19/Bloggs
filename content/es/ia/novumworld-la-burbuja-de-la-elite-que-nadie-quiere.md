@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-02-02 08:08:44
-description: ""
-draft: true
+description: "El espejismo de NOVUMWORLD: ¿Una burbuja de privilegio destinada a estallar? El concepto de un mundo paralelo digital, un edén tecnológico reservado para u..."
+draft: false
 featured_image: /images/novumworld-la-burbuja-de-la-elite-que-nadie-quiere.jpg
 language: es
 last_updated: '2026-02-14'

@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-27 19:15:31
-description: ""
+description: "The promise of the internet was revolutionary: a globally interconnected public square where ideas could clash, coalesce, and ultimately shape a more infor..."
 draft: false
 featured_image: /images/democracia-digital-la-mayor-estafa-del-siglo-xxi.jpg
 language: en

@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-30 16:07:07
-description: ""
+description: "La sonrisa de la IA esconde un truco: ¿Realmente necesitamos ser corteses con las máquinas? En un mundo donde chatear con una inteligencia artificial IA es..."
 draft: false
 featured_image: /images/la-ia-te-saluda-cyberpunk.jpg
 language: es

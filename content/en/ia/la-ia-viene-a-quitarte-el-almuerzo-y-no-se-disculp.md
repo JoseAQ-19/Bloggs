@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-01-28 09:15:36
-description: ""
-draft: true
+description: "The robots aren't coming, they're already here – and they're not exactly polite about it. Forget dystopian visions of killer androids; the real AI revoluti..."
+draft: false
 featured_image: /images/la-ia-viene-a-quitarte-el-almuerzo-y-no-se-disculp.jpg
 language: en
 last_updated: '2026-02-14'

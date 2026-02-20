@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-02-08 16:04:02
-description: ""
-draft: true
+description: "El Metaverso ha Muerto: ¿Quién se Queda con los Huesos? El metaverso, ese concepto que prometía revolucionar la forma en que interactuamos, trabajamos y so..."
+draft: false
 featured_image: /images/el-metaverso-ha-muerto-quien-se-queda-con-los-hues.jpg
 language: es
 last_updated: '2026-02-14'

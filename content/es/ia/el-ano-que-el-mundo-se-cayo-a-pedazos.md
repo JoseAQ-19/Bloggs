@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-01-27 22:52:43
-description: ""
-draft: true
+description: "2025: El Año en que la Incertidumbre Estranguló el Crecimiento Global El año 2025 se recordará no por un evento singular y cataclísmico, sino por una conve..."
+draft: false
 featured_image: /images/el-ano-que-el-mundo-se-cayo-a-pedazos.jpg
 language: es
 last_updated: '2026-02-14'

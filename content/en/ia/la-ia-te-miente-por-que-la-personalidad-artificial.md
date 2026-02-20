@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-01-27 22:26:27
-description: ""
-draft: true
+description: "We've been sold a narrative: AI is becoming more human, more relatable, even empathetic. But scratch the surface, and you'll find a carefully constructed i..."
+draft: false
 featured_image: /images/la-ia-te-miente-por-que-la-personalidad-artificial.jpg
 language: en
 last_updated: '2026-02-14'

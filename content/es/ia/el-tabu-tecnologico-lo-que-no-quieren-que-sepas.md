@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-30 00:06:12
-description: ""
+description: "La promesa de un futuro impulsado por la tecnología resuena constantemente en nuestros oídos: eficiencia, conectividad global, soluciones innovadoras. Sin..."
 draft: false
 featured_image: /images/el-tabu-tecnologico-lo-que-no-quieren-que-sepas.jpg
 language: es

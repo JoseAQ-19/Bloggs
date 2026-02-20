@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-02-07 00:06:53
-description: ""
+description: "¿Recuerdas cuando internet prometía descentralización, empoderamiento y la democratización de la información? Olvídalo. Lo que tenemos ahora se parece inqu..."
 draft: false
 featured_image: /images/ecnocracia-el-nuevo-feudalismo-digital.jpg
 language: es

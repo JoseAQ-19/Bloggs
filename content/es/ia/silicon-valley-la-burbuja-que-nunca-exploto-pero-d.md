@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-02-08 08:04:38
-description: ""
+description: "Silicon Valley. La meca del emprendimiento, el paraíso de los unicornios, el lugar donde una idea en un garaje puede convertirse en una fortuna multimillon..."
 draft: false
 featured_image: /images/silicon-valley-la-burbuja-que-nunca-exploto-pero-d.jpg
 language: es

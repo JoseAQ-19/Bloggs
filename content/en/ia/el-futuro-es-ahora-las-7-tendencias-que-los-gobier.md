@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-01-28 00:41:58
-description: ""
-draft: true
+description: "El Futuro No Espera: Descifrando las Tendencias que los Gobiernos Quizás Prefieran Ignorar The future isn't some distant event. It's being built right now,..."
+draft: false
 featured_image: /images/el-futuro-es-ahora-las-7-tendencias-que-los-gobier.jpg
 language: en
 last_updated: '2026-02-14'

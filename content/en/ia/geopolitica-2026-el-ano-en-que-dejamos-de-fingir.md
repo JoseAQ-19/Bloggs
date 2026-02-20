@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-27 23:41:57
-description: ""
+description: "The year 2026 will be when the gloves come off. The illusion of a rules-based international order, already cracked and splintered, will likely shatter comp..."
 draft: false
 featured_image: /images/geopolitica-2026-el-ano-en-que-dejamos-de-fingir.jpg
 language: en

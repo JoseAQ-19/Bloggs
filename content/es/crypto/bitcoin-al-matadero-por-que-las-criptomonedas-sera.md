@@ -2,8 +2,8 @@
 categories:
 - crypto
 date: 2026-02-09 00:07:03
-description: ""
-draft: true
+description: "La euforia criptográfica ha dado paso a un invierno gélido, y Bitcoin, el rey destronado, parece encabezar la marcha fúnebre. ¿Estamos ante el principio de..."
+draft: false
 featured_image: /images/bitcoin-al-matadero-por-que-las-criptomonedas-sera.jpg
 language: es
 last_updated: '2026-02-14'

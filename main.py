@@ -5,6 +5,7 @@ import time
 import random
 import argparse
 import urllib.parse
+import glob
 from datetime import datetime, timedelta
 import unicodedata
 from dotenv import load_dotenv
@@ -260,6 +261,37 @@ Example fallback: [MIT AI study](https://scholar.google.com/scholar?q=MIT+AI+wor
 ARTICLES WITH FEWER THAN 3 OUTBOUND LINKS WILL BE REJECTED.
 """
 
+# ============================================================
+# PROTOCOLO SPIDERWEB: Internal Linking Engine
+# ============================================================
+
+def _get_internal_links(category, lang, current_slug=""):
+    """
+    Lee los últimos 15 artículos de la misma categoría/idioma
+    y devuelve una lista de (título, ruta_relativa) para interlinking.
+    """
+    pattern = f"content/{lang}/{category}/*.md"
+    files = sorted(glob.glob(pattern), key=os.path.getmtime, reverse=True)[:15]
+    links = []
+    for fpath in files:
+        slug = os.path.basename(fpath).replace('.md', '')
+        if slug == current_slug or slug == '_index':
+            continue
+        try:
+            with open(fpath, 'r', encoding='utf-8') as f:
+                content = f.read(500)
+            # Extract title from frontmatter
+            import re as _re
+            match = _re.search(r'title:\s*["\']?(.+?)["\']?\s*$', content, _re.MULTILINE)
+            if match:
+                title = match.group(1).strip().strip('"').strip("'")
+                rel_path = f"/{category}/{slug}/"
+                links.append((title, rel_path))
+        except:
+            continue
+    return links[:10]  # Max 10 candidates
+
+
 def _call_en_engine(prompt_text):
     """
     Motor Inglés Trinity: GLM-4-Flash → Fallback OpenRouter/Llama3.
@@ -323,7 +355,7 @@ def _call_en_engine(prompt_text):
     return resp.text.strip()
 
 
-def escribir_articulo(meta, contexto, lang, category_config):
+def escribir_articulo(meta, contexto, lang, category_config, category="ia"):
     print(f"✍️ Escribiendo ({lang}): {meta['titulo']}...")
     # === AISLAMIENTO ESTRICTO DE VARIABLES ===
     prompt_persona = None
@@ -344,10 +376,24 @@ def escribir_articulo(meta, contexto, lang, category_config):
     else:
         research_text = str(contexto)
     
+    # === PROTOCOLO SPIDERWEB: Obtener enlaces internos ===
+    internal_links = _get_internal_links(category, lang, meta.get('slug', ''))
+    spiderweb_instruction = ""
+    if internal_links:
+        links_text = "\n".join([f"  - [{t}]({p})" for t, p in internal_links[:5]])
+        spiderweb_instruction = f"""\nINTERNAL LINKING (MANDATORY — Spiderweb Protocol):
+You MUST insert EXACTLY 2 internal links to OTHER articles on our site within the body text.
+Insert them NATURALLY inside paragraphs as contextual hyperlinks. Do NOT put them in a list at the end.
+Available articles to link to:
+{links_text}
+Format: [descriptive anchor text](relative-path)
+"""
+
     prompt = (
         f"{prompt_persona}\n"
         f"{SYSTEM_FORMAT_RULES}\n"
         f"{EEAT_LINK_RULES}\n"
+        f"{spiderweb_instruction}\n"
         f"WRITE ARTICLE: {meta['titulo']}\n"
         f"RESEARCH DATA (use this as your factual foundation — cite sources with links):\n{research_text}\n"
         f"TEMPLATE: {structure}\n"
@@ -411,6 +457,11 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
         clean_text = desc_resp.text.strip()[:160].replace('"', "'")
     except Exception:
         clean_text = re.sub(r'[#*]', '', contenido)[:160].replace('\n', ' ').replace('"', "'") + "..."
+    
+    # BLINDAJE: Nunca dejar description vacía
+    if not clean_text or len(clean_text.strip()) < 20:
+        clean_text = re.sub(r'[#*\[\]]', '', contenido)[:155].replace('\n', ' ').replace('"', "'").strip() + "..."
+        print(f"   🛡️ [Description Blindaje] Fallback desde contenido: {clean_text[:50]}...")
     
     # Resolver nombre legible de la categoría (FIX: config['name'] → NICHES lookup)
     niche_info = NICHES.get(category, {})
@@ -525,7 +576,7 @@ def main():
         )
         
         meta = planificar_articulo(tema, contexto, lang, NICHES[cat])
-        texto = escribir_articulo(meta, contexto, lang, NICHES[cat])
+        texto = escribir_articulo(meta, contexto, lang, NICHES[cat], category=cat)
         guardar_post(meta, texto, lang, cat, translation_key=trans_key)
         
     with open(COMPLETED_FILE, 'a') as f:

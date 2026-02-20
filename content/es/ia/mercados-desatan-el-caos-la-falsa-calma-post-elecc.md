@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-27 19:45:37
-description: ""
+description: "La complacencia siempre es la antesala del desastre, y el arranque de 2026 no ha sido la excepción. Tras un espejismo de estabilidad propiciado por máximos..."
 draft: false
 featured_image: /images/mercados-desatan-el-caos-la-falsa-calma-post-elecc.jpg
 language: es

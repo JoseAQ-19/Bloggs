@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-02-02 00:06:05
-description: ""
+description: "The neon-drenched, hyper-technological, and profoundly unequal future once relegated to the pages of cyberpunk novels is no longer a work of fiction. It's..."
 draft: false
 featured_image: /images/el-futuro-es-distopico-y-ya-esta-aqui.jpg
 language: en

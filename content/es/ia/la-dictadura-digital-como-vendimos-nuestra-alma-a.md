@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-02-06 16:10:32
-description: ""
+description: "Nos vendieron la promesa de un mundo conectado, inteligente y eficiente, donde la tecnología nos liberaría de las tareas tediosas y nos abriría las puertas..."
 draft: false
 featured_image: /images/la-dictadura-digital-como-vendimos-nuestra-alma-a.jpg
 language: es

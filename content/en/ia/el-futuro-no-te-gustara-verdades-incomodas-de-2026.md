@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-01-27 22:41:25
-description: ""
-draft: true
+description: "2026: The Future Isn't Pretty, But Understanding It Is The year 2026 is shaping up to be a pressure cooker. Forget utopian visions of technological bliss...."
+draft: false
 featured_image: /images/el-futuro-no-te-gustara-verdades-incomodas-de-2026.jpg
 language: en
 last_updated: '2026-02-14'

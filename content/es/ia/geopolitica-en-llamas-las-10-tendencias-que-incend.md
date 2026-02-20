@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-27 23:52:46
-description: ""
+description: "Geopolítica en Llamas: Las 10 Tendencias que Incendiarán 2026 Ganadores, perdedores y oportunistas: un nuevo orden mundial forjado en el crisol de la coerc..."
 draft: false
 featured_image: /images/geopolitica-en-llamas-las-10-tendencias-que-incend.jpg
 language: es

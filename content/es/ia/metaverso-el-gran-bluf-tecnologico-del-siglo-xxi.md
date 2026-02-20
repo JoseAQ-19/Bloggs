@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-02-08 00:09:19
-description: ""
-draft: true
+description: "El metaverso. La promesa de mundos digitales interconectados, economías virtuales florecientes y experiencias inmersivas que redefinirían la forma en que t..."
+draft: false
 featured_image: /images/metaverso-el-gran-bluf-tecnologico-del-siglo-xxi.jpg
 language: es
 last_updated: '2026-02-13'

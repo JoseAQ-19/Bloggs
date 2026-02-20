@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-01-28 06:56:06
-description: ""
-draft: true
+description: "¿Sueñan los Borregos con Ciber-Ovejas? El Futuro de la IA y la Conciencia Artificial Philip K. Dick, en su novela '¿Sueñan los androides con ovejas eléctri..."
+draft: false
 featured_image: /images/suenan-los-borregos-con-ciber-ovejas-el-futuro-no.jpg
 language: es
 last_updated: '2026-02-14'

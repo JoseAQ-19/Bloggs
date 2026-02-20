@@ -2,8 +2,8 @@
 categories:
 - ia
 date: 2026-01-27 21:39:16
-description: ""
-draft: true
+description: "En 2026, el mundo no se rompió de golpe, sino que se fracturó lentamente, erosionado por tres fuerzas interconectadas: una geopolítica de coerción, una eco..."
+draft: false
 featured_image: /images/geopolitica-2026-el-ano-que-el-mundo-se-rompio-y-n.jpg
 language: es
 last_updated: '2026-02-14'

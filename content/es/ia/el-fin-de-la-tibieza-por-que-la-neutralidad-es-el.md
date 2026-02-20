@@ -2,7 +2,7 @@
 categories:
 - ia
 date: 2026-01-29 08:07:07
-description: ""
+description: "La neutralidad, antaño considerada un signo de objetividad y ecuanimidad, se encuentra hoy bajo un escrutinio implacable. Desde las trincheras de la guerra..."
 draft: false
 featured_image: /images/el-fin-de-la-tibieza-por-que-la-neutralidad-es-el.jpg
 language: es
