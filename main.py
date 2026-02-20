@@ -254,9 +254,12 @@ Format: [descriptive anchor text](https://real-verified-url.com)
 MINIMUM: 5 outbound links per article.
 MAXIMUM: Do not exceed 12 outbound links (avoid appearing spammy).
 
-NEVER fabricate URLs. If you cite a source from the research context, use its URL.
-If no URL is available but the source is real, link to a Google Scholar or Google News search.
-Example fallback: [MIT AI study](https://scholar.google.com/scholar?q=MIT+AI+workforce+displacement+2025)
+CRITICAL ANTI-HALLUCINATION RULE:
+- You may ONLY use URLs that appear in the RESEARCH DATA section provided below.
+- If a fact has NO corresponding URL in the research data, mention the source name as plain text WITHOUT a hyperlink.
+- It is ABSOLUTELY FORBIDDEN to invent, guess, or fabricate any URL.
+- Do NOT use scholar.google.com or google.com/search as placeholder links.
+- A single fabricated URL will cause the ENTIRE article to be rejected.
 
 ARTICLES WITH FEWER THAN 3 OUTBOUND LINKS WILL BE REJECTED.
 """
@@ -285,7 +288,11 @@ def _get_internal_links(category, lang, current_slug=""):
             match = _re.search(r'title:\s*["\']?(.+?)["\']?\s*$', content, _re.MULTILINE)
             if match:
                 title = match.group(1).strip().strip('"').strip("'")
-                rel_path = f"/{category}/{slug}/"
+                # FIX BILINGÜE: EN es raíz /{cat}/{slug}/, ES es /es/{cat}/{slug}/
+                if lang == "es":
+                    rel_path = f"/es/{category}/{slug}/"
+                else:
+                    rel_path = f"/{category}/{slug}/"
                 links.append((title, rel_path))
         except:
             continue
