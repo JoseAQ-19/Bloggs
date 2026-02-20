@@ -20,12 +20,26 @@ MCP_BINARY = "notebooklm-mcp"
 # estructurado que fuerza fuentes de alto valor.
 # ============================================================
 
-def build_research_query(topic, category, search_context=""):
+def build_research_query(topic, category, search_context="", lang="es"):
     """
     Construye un prompt de investigación profunda con ángulos E-E-A-T
     forzados, en lugar de lanzar keywords desnudas al buscador.
     """
+    if lang == "es":
+        geo_rules = """[GEO-RESEARCH: SPANISH / HISPANIC MARKET]
+- AVOID basic machine translations of US sources. We want FRESH data from native Spain/LatAm sources.
+- PRIORITIZE domains: .es, .mx, .ar, .co and high-authority Hispanic digital press.
+- Internal search queries MUST be formulated in Spanish to capture local nuances."""
+    else:
+        geo_rules = """[GEO-RESEARCH: ENGLISH / GLOBAL MARKET]
+- PRIORITIZE US and International high-authority sources.
+- PRIORITIZE domains: .com, .io, .gov, .edu.
+- Internal search queries MUST be formulated in advanced technical English."""
+
     return f"""DEEP RESEARCH BRIEF — Topic: "{topic}"
+Category: {category}
+
+{geo_rules}
 Category: {category}
 
 SEARCH OBJECTIVES (prioritized — ALL are MANDATORY):
@@ -200,30 +214,30 @@ class ResearcherV4:
                     return cmd
         return None
 
-    def research(self, topic, category="general", search_context=""):
+    def research(self, topic, category="general", search_context="", lang="es"):
         """
         Pipeline de investigación con 3 capas de fallback.
-        Ahora recibe topic, category y search_context por separado.
+        Ahora recibe topic, category y search_context por separado, Y IDIOMA (Geo-Research).
         """
-        print(f"\n🔍 INICIANDO INVESTIGACIÓN E-E-A-T PARA: '{topic}'")
+        print(f"\n🔍 INICIANDO GEO-RESEARCH E-E-A-T PARA: '{topic}' [{lang.upper()}]")
         print(f"   Categoría: {category} | Contexto: {search_context[:60]}...")
         
-        # Construir el Brief de investigación estructurado
-        research_brief = build_research_query(topic, category, search_context)
+        # Construir el Brief de investigación estructurado localizado
+        research_brief = build_research_query(topic, category, search_context, lang=lang)
         
         # 🥇 CAPA 1: NOTEBOOKLM DEEP RESEARCH
-        result = self._layer_1_notebooklm(topic, research_brief)
+        result = self._layer_1_notebooklm(topic, research_brief, lang)
         if result: return result
         
         # 🥈 CAPA 2: GEMINI GROUNDING (con brief E-E-A-T)
-        result = self._layer_2_gemini_grounding(topic, research_brief)
+        result = self._layer_2_gemini_grounding(topic, research_brief, lang)
         if result: return result
         
         # 🥉 CAPA 3: SCRAPING CLÁSICO
-        return self._layer_3_classic_scraping(topic)
+        return self._layer_3_classic_scraping(topic, lang)
 
-    def _layer_1_notebooklm(self, topic, research_brief):
-        print(f"\n🥇 CAPA 1: NotebookLM DEEP Research (E-E-A-T Mode)...")
+    def _layer_1_notebooklm(self, topic, research_brief, lang):
+        print(f"\n🥇 CAPA 1: NotebookLM DEEP Research (E-E-A-T Mode) [{lang.upper()}]...")
         
         auth_path = os.path.expanduser("~/.notebooklm-mcp/auth.json")
         binary_path = self._find_mcp_binary()
@@ -249,7 +263,7 @@ class ResearcherV4:
                 "query": research_brief,
                 "mode": "deep",
                 "source": "web",
-                "title": f"EEAT-{topic[:30].replace(' ', '-')}-{timestamp}"
+                "title": f"EEAT-{topic[:20].replace(' ', '-')}-{lang}-{timestamp}"
             })
             
             # Parsear respuesta
@@ -410,8 +424,8 @@ CRITICAL RULES:
             mcp.close()
 
 
-    def _layer_2_gemini_grounding(self, topic, research_brief):
-        print("\n🥈 CAPA 2: Gemini Grounding + Google Search (E-E-A-T)...")
+    def _layer_2_gemini_grounding(self, topic, research_brief, lang):
+        print(f"\n🥈 CAPA 2: Gemini Grounding + Google Search (E-E-A-T) [{lang.upper()}]...")
         if not self.client: return None
         
         try:
@@ -454,9 +468,9 @@ Do NOT fabricate URLs — only include sources you actually found.
         
         return None
 
-    def _layer_3_classic_scraping(self, topic):
-        print("\n🥉 CAPA 3: Scraping Clásico (Playwright)...")
-        urls = self._get_news_urls(topic, limit=5)  # Increased from 3 to 5
+    def _layer_3_classic_scraping(self, topic, lang):
+        print(f"\n🥉 CAPA 3: Scraping Clásico (Playwright) [{lang.upper()}]...")
+        urls = self._get_news_urls(topic, lang=lang, limit=5)  # Increased from 3 to 5
         combined_text = ""
         
         for url in urls:
@@ -477,11 +491,14 @@ Do NOT fabricate URLs — only include sources you actually found.
             "sources": urls
         }
 
-    def _get_news_urls(self, keyword, limit=5):
+    def _get_news_urls(self, keyword, lang="es", limit=5):
         """Helper para obtener URLs de Google News RSS."""
         try:
             safe_kw = requests.utils.quote(keyword)
-            rss_url = f"https://news.google.com/rss/search?q={safe_kw}&hl=es-419&gl=US&ceid=US:es-419"
+            if lang == "en":
+                rss_url = f"https://news.google.com/rss/search?q={safe_kw}&hl=en-US&gl=US&ceid=US:en"
+            else:
+                rss_url = f"https://news.google.com/rss/search?q={safe_kw}&hl=es-419&gl=US&ceid=US:es-419"
             resp = requests.get(rss_url, timeout=10)
             root = ET.fromstring(resp.content)
             items = root.findall(".//item")[:limit]
@@ -512,12 +529,12 @@ class Researcher:
     def __init__(self):
         self.v4 = ResearcherV4()
     
-    def research_topic(self, topic, category="general", search_context=""):
+    def research_topic(self, topic, category="general", search_context="", lang="es"):
         """
         V4 API: Accepts topic, category, and search_context separately.
         Returns a dict with 'content', 'layer', 'sources'.
         """
-        result = self.v4.research(topic, category, search_context)
+        result = self.v4.research(topic, category, search_context, lang=lang)
         
         # Normalize output — always return a dict
         if isinstance(result, str):

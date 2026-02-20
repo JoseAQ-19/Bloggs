@@ -501,13 +501,6 @@ def main():
     
     print(f"🎯 TEMA: {tema}")
     res = researcher.Researcher()
-    # V4 E-E-A-T: Pass topic, category, and search_context separately
-    contexto = res.research_topic(
-        topic=tema,
-        category=cat,
-        search_context=NICHES[cat].get('search_context', '')
-    )
-    
     # Generar Translation Key única para este par de artículos
     import uuid
     trans_key = str(uuid.uuid4())
@@ -521,6 +514,15 @@ def main():
         # === AISLAMIENTO: Variables limpias por idioma ===
         meta = None
         texto = None
+        contexto = None
+        
+        # V5 GEO-RESEARCH: Investigar Específicamente por Idioma
+        contexto = res.research_topic(
+            topic=tema,
+            category=cat,
+            search_context=NICHES[cat].get('search_context', ''),
+            lang=lang
+        )
         
         meta = planificar_articulo(tema, contexto, lang, NICHES[cat])
         texto = escribir_articulo(meta, contexto, lang, NICHES[cat])
