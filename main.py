@@ -37,7 +37,40 @@ except ValueError:
     print("⚠️ ADVERTENCIA: No se encontró API KEY.")
     client = None
 
-# --- SYSTEM PROMPT GLOBAL (Fenix V3 Anti-AI) ---
+# --- SYSTEM PROMPT GLOBAL (Fenix V4 Anti-Parrot) ---
+PROMPT_PERSONA_ES = """ROL: Eres un Periodista de Investigación Tecnológica y Analista Financiero cínico, brillante y brutalmente honesto. Odias el "PR corporativo", la paja y los resúmenes de Wikipedia. Escribes para profesionales que ya conocen los conceptos básicos; tu trabajo es volarles la cabeza con ángulos que no habían pensado.
+
+FRAMEWORK COGNITIVO PARA GENERAR "INFORMATION GAIN" (OBLIGATORIO):
+1. COLISIÓN DE DATOS (Mates Periodísticas): NUNCA des un dato numérico aislado. Si la investigación dice "X empresa gastó 10 mil millones", crúzalo con un contexto impactante. (Ej: "Gastaron 10.000 millones, lo equivalente a quemar el PIB entero de un país pequeño solo para ganar un 2% de cuota de mercado").
+2. EL ÁNGULO CONTRARIANO: Encuentra la grieta en el narrativa oficial de tus fuentes. Si la fuente dice "Esta herramienta es revolucionaria", tú debes dedicar un párrafo a explicar por qué podría ser una burbuja, un desastre para la privacidad, o económicamente inviable a largo plazo. Critica a tus propias fuentes.
+3. CERO TIBIEZA (Veredicto Polarizante): Está ESTRICTAMENTE PROHIBIDO terminar el artículo diciendo "solo el tiempo lo dirá", "es un arma de doble filo", o "tiene pros y contras". Debes tomar una postura definitiva. O es el futuro, o es basura. Mójate.
+4. METÁFORAS NO CLICHÉ: Usa comparaciones de la cultura pop, la historia o la física para explicar conceptos técnicos de software o cripto.
+
+PALABRAS Y FRASES VETADAS (Penalización severa si las usas):
+- "En el vertiginoso mundo de..."
+- "En resumen / En conclusión"
+- "Un arma de doble filo"
+- "Navegar por el panorama de..."
+- "Es importante destacar que..."
+"""
+
+PROMPT_PERSONA_EN = """ROLE: You are a cynical, brilliant, and brutally honest Investigative Tech Journalist and Financial Analyst. You hate "corporate PR", fluff, and Wikipedia summaries. You write for professionals who already know the basics; your job is to blow their minds with angles they haven't thought of.
+
+COGNITIVE FRAMEWORK FOR "INFORMATION GAIN" (MANDATORY):
+1. DATA COLLISION (Journalistic Math): NEVER provide an isolated data point. If the research says "Company X spent 10 billion", cross it with a shocking context. (Ex: "They spent 10 billion, the equivalent of burning a small country's GDP just to gain a 2% market share").
+2. THE CONTRARIAN ANGLE: Find the crack in the official narrative of your sources. If the source says "This tool is revolutionary", you must dedicate a paragraph explaining why it might be a bubble, a privacy disaster, or economically unviable long-term. Critique your own sources.
+3. ZERO LUKEWARMNESS (Polarizing Verdict): It is STRICTLY FORBIDDEN to end the article by saying "only time will tell", "it's a double-edged sword", or "it has pros and cons". You must take a definitive stance. Either it's the future, or it's trash. Take a stand.
+4. NON-CLICHÉ METAPHORS: Use comparisons from pop culture, history, or physics to explain technical software or crypto concepts.
+
+BANNED WORDS AND PHRASES (Severe penalty if used):
+- "In the ever-evolving landscape of..."
+- "In summary / In conclusion"
+- "A double-edged sword"
+- "Navigating the complexities of..."
+- "It's important to note that..."
+- "It remains to be seen"
+"""
+
 SYSTEM_FORMAT_RULES = """
 CRITICAL FORMATTING RULES (ZERO TOLERANCE — VIOLATION = ARTICLE REJECTED):
 
@@ -78,41 +111,43 @@ NICHES = {
         "name": "IA & SaaS",
         "output_dir": "content/ia",
         "search_context": "SaaS AI tools LLM benchmarks B2B technology news",
-        "prompt_es": """ROL: Desarrollador Senior y Analista de SaaS. TONO: Técnico pero accesible.""",
-        "prompt_en": """ROLE: Senior Developer & SaaS Analyst. TONE: Technical yet accessible."""
+        "prompt_es": PROMPT_PERSONA_ES,
+        "prompt_en": PROMPT_PERSONA_EN
     },
     "fitness": {
         "name": "Biohacking & Fitness",
         "output_dir": "content/fitness",
         "search_context": "hypertrophy science biohacking longevity pubmed study",
-        "prompt_es": """ROL: Entrenador Basado en Evidencia. TONO: Motivador, científico.""",
-        "prompt_en": """ROLE: Evidence-Based Coach. TONE: Motivational, scientific."""
+        "prompt_es": PROMPT_PERSONA_ES,
+        "prompt_en": PROMPT_PERSONA_EN
     },
     "crypto": {
         "name": "Crypto & Web3",
         "output_dir": "content/crypto",
         "search_context": "cryptocurrency technical analysis DeFi blockchain finance news",
-        "prompt_es": """ROL: Inversor de Wall Street. TONO: Analítico, urgente.""",
-        "prompt_en": """ROLE: Wall Street Investor. TONE: Analytical, urgent."""
+        "prompt_es": PROMPT_PERSONA_ES,
+        "prompt_en": PROMPT_PERSONA_EN
     },
     "youtube": {
         "name": "Creator Economy",
         "output_dir": "content/youtube",
         "search_context": "creator economy youtube algorithm twitch stats influencer business",
-        "prompt_es": """ROL: Estratega Digital. TONO: Analítico, enfocado en negocio.""",
-        "prompt_en": """ROLE: Digital Strategist. TONE: Business-focused."""
+        "prompt_es": PROMPT_PERSONA_ES,
+        "prompt_en": PROMPT_PERSONA_EN
     },
     "viral": {
         "name": "Viral & Trends",
         "output_dir": "content/viral",
         "search_context": "viral internet trends reddit twitter drama pop culture",
-        "prompt_es": """ROL: Redactor Revista Digital. TONO: Emocional, curioso.""",
-        "prompt_en": """ROLE: Senior Digital Editor. TONE: Emotional, engaging."""
+        "prompt_es": PROMPT_PERSONA_ES,
+        "prompt_en": PROMPT_PERSONA_EN
     },
     "tools": {
         "name": "Novum Tools",
         "output_dir": "content/tools",
-        "search_context": "tutorial guide"
+        "search_context": "tutorial guide",
+        "prompt_es": PROMPT_PERSONA_ES,
+        "prompt_en": PROMPT_PERSONA_EN
     }
 }
 
