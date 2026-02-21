@@ -93,3 +93,4 @@ fitness: Kinesiology and Health Sciences Program: Preparing Students for Dynamic
 crypto: Metamask Gas Fees Too High? A Complete Guide to Lowering Transaction Costs
 ia: LangChain Agents for Information Retrieval: A Deep Dive into Knowledge Graph Integration
 ia: Error when trying to use Hugging Face Embeddings : r/huggingface
+ia: Hugging Face Transformers: Why Fine-Tuning on Small Datasets Might Be Wasting Your GPU Time
