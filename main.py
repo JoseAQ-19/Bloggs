@@ -598,12 +598,27 @@ def main():
         return
 
     print(f"🚀 INICIANDO PENTAGON: {NICHES[cat]['name']}")
-    tema = trend_hunter.TrendHunter.get_trend(cat)
-    if not tema or not safety_check(tema): return
     
-    # --- FENIX V3: BLOQUEO DE REDUNDANCIA ---
-    if is_topic_redundant(tema, cat):
-        print(f"🚫 TOPIC BLOCKED BY REDUNDANCY CHECK: '{tema}'. Skipping.")
+    # --- FENIX V4: TOPIC DISCOVERY CON REINTENTOS ---
+    # Intenta hasta 5 veces encontrar un tema no redundante y seguro
+    tema = None
+    for topic_attempt in range(5):
+        candidate = trend_hunter.TrendHunter.get_trend(cat)
+        if not candidate:
+            print(f"   ⚠️ [Intento {topic_attempt+1}/5] TrendHunter no devolvió tema. Reintentando...")
+            continue
+        if not safety_check(candidate):
+            print(f"   ⚠️ [Intento {topic_attempt+1}/5] Tema '{candidate}' falló safety check. Reintentando...")
+            continue
+        if is_topic_redundant(candidate, cat):
+            print(f"   🔄 [Intento {topic_attempt+1}/5] Tema '{candidate}' es redundante. Reintentando...")
+            continue
+        # ¡Tema válido encontrado!
+        tema = candidate
+        break
+    
+    if not tema:
+        print(f"🚫 ABORTADO: 5 intentos fallidos para encontrar tema no redundante en '{cat}'. Revisa completed.txt o seeds.")
         return
     
     print(f"🎯 TEMA: {tema}")
