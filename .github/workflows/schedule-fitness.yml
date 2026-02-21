@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -38,12 +40,15 @@ jobs:
           HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY }}
           ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
         run: python main.py --category fitness
 
       - name: Push
         run: |
           git config --global user.name "JoseAQ-19"
           git config --global user.email "josearizaquintero@gmail.com"
-          git add .
-          git commit -m "🤖 Fitness Content Generated" || echo "No changes"
+          git add content/ data/ static/images/
+          git diff --staged --quiet && echo "No new content generated" && exit 0
+          git commit -m "🤖 Fitness Content Generated"
+          git pull --rebase origin main
           git push

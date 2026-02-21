@@ -1,2 +1,4 @@
 .env
 SurfSense/
+__pycache__/
+*.pyc

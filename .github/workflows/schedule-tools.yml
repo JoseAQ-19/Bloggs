@@ -13,14 +13,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
       - name: Install Dependencies
         run: |
-          pip install -r requirements.txt playwright google-genai python-dotenv beautifulsoup4 lxml requests notebooklm-mcp-server youtube-transcript-api yt-dlp
+          pip install -r requirements.txt
+          pip install notebooklm-mcp-server youtube-transcript-api yt-dlp
           playwright install chromium
 
       - name: Inject NotebookLM Auth
@@ -32,6 +35,7 @@ jobs:
 
       - name: Run Tools Generator
         env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
           TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
@@ -45,4 +49,7 @@ jobs:
           git config --global user.name "JoseAQ-19"
           git config --global user.email "josearizaquintero@gmail.com"
           git add content/ data/ static/images/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Blueprint Content Generated" && git push)
+          git diff --staged --quiet && echo "No new content generated" && exit 0
+          git commit -m "🤖 Blueprint Content Generated"
+          git pull --rebase origin main
+          git push
