@@ -8,8 +8,7 @@
 {{- $text_alignment = "tr-l" -}}
 {{- end -}}
 
-<article class="cf ph3 ph5-l pv3 pv4-l f4 {{ $text_alignment }} center measure-wide lh-copy nested-links {{ $.Param "
-  text_color" | compare.Default "mid-gray" }}" data-aos="fade-in" data-aos-duration="1500">
+<article class="cf ph3 ph5-l pv3 pv4-l f4 {{ $text_alignment }} center measure-wide lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}" data-aos="fade-in" data-aos-duration="1500">
   {{ .Content }}
 </article>
 
