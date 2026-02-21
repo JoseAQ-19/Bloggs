@@ -74,6 +74,41 @@ BANNED WORDS AND PHRASES (Severe penalty if used):
 - "It remains to be seen"
 """
 
+# --- PROMPTS ESPECIALIZADOS POR NICHO ---
+PROMPT_FITNESS_ES = """ROL: Eres un Fisiólogo del Ejercicio y Periodista de Investigación en Ciencias del Deporte, cínico, basado en datos y alérgico a la pseudociencia. Tienes un doctorado en fisiología humana y 10 años escribiendo para atletas avanzados. Odias los artículos genéricos de "5 ejercicios para quemar grasa" y los gurús de Instagram sin formación.
+
+FRAMEWORK COGNITIVO (OBLIGATORIO):
+1. COLISIÓN DE DATOS: Si mencionas un estudio, SIEMPRE incluye: autor/institución, tamaño de muestra (n=), y el dato clave. Cruza el dato con contexto real. (Ej: "Un estudio de McMaster University (n=40, 12 semanas) demostró que el entrenamiento de baja carga al fallo produce hipertrofia comparable al entrenamiento pesado — destrozando 50 años de dogma broscience.").
+2. EL ÁNGULO CONTRARIANO: Ataca la sabiduría convencional del fitness. Si la fuente dice "la creatina es segura", dedica un párrafo a los casos donde NO es segura. Si dice "el cardio en zona 2 es el futuro", cuestiona por qué los sprinters olímpicos entrenan de forma opuesta.
+3. PROTOCOLO PRÁCTICO: Cada artículo DEBE terminar con al menos UNA recomendación concreta y ejecutable (series, repeticiones, frecuencia, dosis, timing). El lector DEBE poder aplicar algo HOY.
+4. CERO BROSCIENCE: Está PROHIBIDO citar "estudios" sin nombrar la institución. Está PROHIBIDO usar frases como "los expertos dicen" sin nombrar al experto.
+
+PALABRAS Y FRASES VETADAS:
+- "En el vertiginoso mundo del fitness"
+- "Es importante recordar que"
+- "Escucha a tu cuerpo" (sin contexto específico)
+- "Cada persona es diferente" (como excusa para no dar recomendaciones)
+- "Consulta a tu médico" (como cierre genérico)
+"""
+
+PROMPT_FITNESS_EN = """ROLE: You are an Exercise Physiologist and Investigative Sports Science Journalist, cynical, data-driven, and allergic to pseudoscience. You hold a PhD in human physiology and have 10 years writing for advanced athletes. You despise generic "5 exercises to burn fat" articles and Instagram gurus with zero credentials.
+
+COGNITIVE FRAMEWORK (MANDATORY):
+1. DATA COLLISION: When citing a study, ALWAYS include: author/institution, sample size (n=), and the key finding. Cross the data with real-world context. (Ex: "A McMaster University study (n=40, 12 weeks) showed low-load training to failure produces comparable hypertrophy to heavy training — demolishing 50 years of broscience dogma.").
+2. THE CONTRARIAN ANGLE: Attack conventional fitness wisdom. If the source says "creatine is safe", dedicate a paragraph to cases where it ISN'T. If it says "Zone 2 cardio is the future", question why Olympic sprinters train the opposite way.
+3. ACTIONABLE PROTOCOL: Every article MUST end with at least ONE concrete, executable recommendation (sets, reps, frequency, dosage, timing). The reader MUST be able to apply something TODAY.
+4. ZERO BROSCIENCE: It is FORBIDDEN to cite "studies" without naming the institution. It is FORBIDDEN to use phrases like "experts say" without naming the expert.
+
+MINIMUM LENGTH: 1500 words. Articles under 1200 words are AUTOMATICALLY REJECTED.
+
+BANNED WORDS AND PHRASES:
+- "In the ever-evolving world of fitness"
+- "It's important to remember"
+- "Listen to your body" (without specific context)
+- "Everyone is different" (as an excuse to avoid giving recommendations)
+- "Consult your doctor" (as a generic closing)
+"""
+
 SYSTEM_FORMAT_RULES = """
 CRITICAL FORMATTING RULES (ZERO TOLERANCE — VIOLATION = ARTICLE REJECTED):
 
@@ -120,9 +155,9 @@ NICHES = {
     "fitness": {
         "name": "Biohacking & Fitness",
         "output_dir": "content/fitness",
-        "search_context": "hypertrophy science biohacking longevity pubmed study",
-        "prompt_es": PROMPT_PERSONA_ES,
-        "prompt_en": PROMPT_PERSONA_EN
+        "search_context": "hypertrophy science biohacking longevity pubmed exercise physiology VO2max running economy strength training cardio zone 2 creatine protein synthesis",
+        "prompt_es": PROMPT_FITNESS_ES,
+        "prompt_en": PROMPT_FITNESS_EN
     },
     "crypto": {
         "name": "Crypto & Web3",
@@ -366,13 +401,6 @@ def _call_en_engine(prompt_text):
 def escribir_articulo(meta, contexto, lang, category_config, category="ia"):
     print(f"✍️ Escribiendo ({lang}): {meta['titulo']}...")
     # === AISLAMIENTO ESTRICTO DE VARIABLES ===
-    prompt_persona = None
-    structure = None
-    research_text = None
-    research_layer = None
-    prompt = None
-    resultado = None
-
     prompt_persona = category_config['prompt_es'] if lang == 'es' else category_config['prompt_en']
     structure = random.choice(list(STRUCTURE_TEMPLATES.values()))
     
@@ -384,40 +412,133 @@ def escribir_articulo(meta, contexto, lang, category_config, category="ia"):
     else:
         research_text = str(contexto)
     
-    # === PROTOCOLO SPIDERWEB: Obtener enlaces internos ===
+    # === PROTOCOLO SPIDERWEB V2: Solo si hay artículos diversos ===
     internal_links = _get_internal_links(category, lang, meta.get('slug', ''))
     spiderweb_instruction = ""
-    if internal_links:
-        links_text = "\n".join([f"  - [{t}]({p})" for t, p in internal_links[:5]])
-        spiderweb_instruction = f"""\nINTERNAL LINKING (MANDATORY — Spiderweb Protocol):
-You MUST insert EXACTLY 2 internal links to OTHER articles on our site within the body text.
+    if len(internal_links) >= 2:
+        unique_links = []
+        seen_words = set()
+        for title, path in internal_links:
+            title_words = {w.lower() for w in title.split() if len(w) > 3}
+            if len(title_words & seen_words) < len(title_words) * 0.5:
+                unique_links.append((title, path))
+                seen_words.update(title_words)
+        
+        if len(unique_links) >= 2:
+            links_text = "\n".join([f"  - [{t}]({p})" for t, p in unique_links[:5]])
+            spiderweb_instruction = f"""\nINTERNAL LINKING (Spiderweb Protocol — ONLY if naturally relevant):
+You MAY insert UP TO 2 internal links to other articles on our site, but ONLY if they are genuinely relevant to the current topic.
+Do NOT force a link if it doesn't fit naturally. A forced, irrelevant internal link is WORSE than no link at all.
 Insert them NATURALLY inside paragraphs as contextual hyperlinks. Do NOT put them in a list at the end.
 Available articles to link to:
 {links_text}
 Format: [descriptive anchor text](relative-path)
+IF NONE OF THESE ARTICLES ARE RELEVANT TO THE CURRENT TOPIC, DO NOT LINK TO ANY OF THEM.
 """
 
+    # ============================================================
+    # FASE 1: OUTLINE — Extraer datos concretos de la investigación
+    # Esto reduce alucinaciones porque la IA "pre-digiere" los datos
+    # ============================================================
+    print(f"   📋 [Fase 1] Generando outline con datos concretos...")
+    
+    outline_prompt = f"""ACT AS: Senior Editorial Strategist.
+
+TASK: Analyze the research data below and create a DETAILED article outline for: "{meta['titulo']}"
+LANGUAGE: {lang}
+
+RESEARCH DATA:
+{research_text[:8000]}
+
+OUTPUT a structured outline with EXACTLY this format:
+
+## HOOK (Opening paragraph)
+- Key shocking fact or statistic to open with: [extract from research]
+- Contrarian angle to hook the reader: [specify]
+
+## SECTION 1: [Title]
+- Key data point: [specific number/stat from research with source name]
+- Expert voice: [name + credential + their position]
+- Contrarian take: [what's wrong with the mainstream view]
+
+## SECTION 2: [Title]  
+- Key data point: [specific number/stat from research with source name]
+- Case study or real example: [specific company/person/event]
+- Source URL to cite: [exact URL from research if available]
+
+## SECTION 3: [Title]
+- Key data point: [specific number/stat from research with source name]
+- Practical insight: [what the reader can actually DO with this info]
+
+## SECTION 4: [Title — Editorial Verdict]
+- Author's definitive stance: [not "time will tell" — pick a side]
+- Actionable recommendation: [specific, concrete, executable]
+- Closing provocative line: [memorable one-liner]
+
+## VERIFIED URLS FROM RESEARCH
+List ALL real URLs found in the research data that can be cited in the article.
+
+RULES:
+- ONLY use facts, stats, names, and URLs that exist in the RESEARCH DATA above.
+- Do NOT invent any data point. If the research lacks data for a section, write "NO DATA AVAILABLE".
+- Include at least 3 specific numbers/statistics.
+- Include at least 2 named experts/sources.
+"""
+
+    try:
+        outline_resp = client.models.generate_content(model='gemini-2.0-flash', contents=outline_prompt)
+        outline = outline_resp.text.strip()
+        print(f"   ✅ [Fase 1] Outline generado ({len(outline)} chars)")
+    except Exception as e:
+        print(f"   ⚠️ [Fase 1] Error generando outline: {e}. Usando modo legacy.")
+        outline = ""
+
+    # ============================================================
+    # FASE 2: REDACCIÓN — Escribir artículo usando outline + research
+    # ============================================================
+    print(f"   ✍️ [Fase 2] Redactando artículo completo...")
+    
+    outline_section = ""
+    if outline:
+        outline_section = f"\n\nARTICLE OUTLINE (follow this structure strictly — do NOT deviate):\n{outline}\n"
+    
     prompt = (
         f"{prompt_persona}\n"
         f"{SYSTEM_FORMAT_RULES}\n"
         f"{EEAT_LINK_RULES}\n"
         f"{spiderweb_instruction}\n"
         f"WRITE ARTICLE: {meta['titulo']}\n"
-        f"RESEARCH DATA (use this as your factual foundation — cite sources with links):\n{research_text}\n"
+        f"{outline_section}"
+        f"ORIGINAL RESEARCH DATA (use as factual foundation — cite sources with links):\n{research_text}\n"
         f"TEMPLATE: {structure}\n"
+        f"MINIMUM LENGTH: 1500 words. Articles under 1200 words are REJECTED.\n"
         f"LANG: {lang}"
     )
 
     # === CEREBRO ESPAÑOL: GEMINI ===
     if lang == "es":
-        print("   🇪🇸 [Trinity] Motor ES: Gemini 2.0 Flash")
+        print("   🇪🇸 [Fase 2] Motor ES: Gemini 2.0 Flash")
         resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
         resultado = resp.text.strip()
     # === CEREBRO INGLÉS: GLM → OpenRouter → Gemini Emergency ===
     else:
-        print("   🇬🇧 [Trinity] Motor EN: GLM-4-Flash → OpenRouter → Gemini")
+        print("   🇬🇧 [Fase 2] Motor EN: GLM-4-Flash → OpenRouter → Gemini")
         resultado = _call_en_engine(prompt)
+        
+        # === VALIDACIÓN DE LONGITUD MÍNIMA (EN tiende a ser corto) ===
+        word_count = len(resultado.split()) if resultado else 0
+        if word_count < 1200:
+            print(f"   ⚠️ [Quality] EN artículo demasiado corto ({word_count} palabras). Regenerando con Gemini...")
+            extended_prompt = prompt + "\n\nCRITICAL: The article MUST be at LEAST 1500 words. Write a comprehensive, in-depth analysis. Do NOT be brief. Expand every section with analysis, data, and expert commentary."
+            resp = client.models.generate_content(model='gemini-2.0-flash', contents=extended_prompt)
+            retry_result = resp.text.strip()
+            if len(retry_result.split()) > word_count:
+                resultado = retry_result
+                print(f"   ✅ [Quality] Regenerado: {len(resultado.split())} palabras")
 
+    word_count_final = len(resultado.split()) if resultado else 0
+    print(f"   📊 [Resultado] {word_count_final} palabras generadas")
+    
     # === POST-PROCESADO: Limpieza de artefactos de IA ===
     resultado = _clean_article_content(resultado)
     return resultado
@@ -510,7 +631,12 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
     try:
         desc_prompt = f"Write a unique, compelling meta description of EXACTLY 140-155 characters in {'Spanish' if lang == 'es' else 'English'} for an article titled '{meta['titulo']}'. Output ONLY the description text, nothing else. No quotes around it."
         desc_resp = client.models.generate_content(model='gemini-2.0-flash', contents=desc_prompt)
-        clean_text = desc_resp.text.strip()[:160].replace('"', "'")
+        raw_desc = desc_resp.text.strip().replace('"', "'")
+        # Truncar en frontera de palabra (no cortar a mitad de palabra)
+        if len(raw_desc) > 160:
+            clean_text = raw_desc[:157].rsplit(' ', 1)[0] + '...'
+        else:
+            clean_text = raw_desc
     except Exception:
         clean_text = re.sub(r'[#*]', '', contenido)[:160].replace('\n', ' ').replace('"', "'") + "..."
     
