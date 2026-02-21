@@ -5,6 +5,7 @@ import time
 import random
 import argparse
 import urllib.parse
+import uuid
 import glob
 from datetime import datetime, timedelta
 import unicodedata
@@ -203,7 +204,7 @@ def is_topic_redundant(new_topic, category):
         overlap = len(new_keywords & existing_keywords)
         similarity = overlap / min(len(new_keywords), len(existing_keywords))
         
-        if similarity > 0.6:
+        if similarity > 0.4:
             print(f"  ⚠️ REDUNDANCY: '{new_topic}' overlaps {similarity*100:.0f}% with '{existing_topic}'")
             return True
     
@@ -417,7 +418,55 @@ Format: [descriptive anchor text](relative-path)
         print("   🇬🇧 [Trinity] Motor EN: GLM-4-Flash → OpenRouter → Gemini")
         resultado = _call_en_engine(prompt)
 
+    # === POST-PROCESADO: Limpieza de artefactos de IA ===
+    resultado = _clean_article_content(resultado)
     return resultado
+
+
+def _clean_article_content(text):
+    """Post-procesador que limpia artefactos de IA del contenido generado."""
+    if not text:
+        return text
+    
+    # 1. ELIMINAR [cite: X] markers de NotebookLM
+    text = re.sub(r'\s*\[cite:\s*\d+(?:,\s*\d+)*\]', '', text)
+    
+    # 2. ELIMINAR URLs de Google Grounding API (vertexaisearch redirects)
+    #    Patrón: [anchor text](https://vertexaisearch.cloud.google.com/...)
+    #    Reemplazar con solo el anchor text en negrita
+    text = re.sub(
+        r'\[([^\]]+)\]\(https://vertexaisearch\.cloud\.google\.com[^)]*\)',
+        r'**\1**',
+        text
+    )
+    
+    # 3. ELIMINAR URLs de Google Search/Scholar usadas como placeholder
+    text = re.sub(
+        r'\[([^\]]+)\]\(https?://(?:scholar\.)?google\.com/search[^)]*\)',
+        r'**\1**',
+        text
+    )
+    
+    # 4. ELIMINAR links con URLs vacías o inválidas
+    text = re.sub(
+        r'\[([^\]]+)\]\(\s*\)',
+        r'\1',
+        text
+    )
+    
+    # 5. ELIMINAR links donde el href es texto plano (no URL)
+    #    Ejemplo: [texto](Título de otro artículo que no es URL)
+    text = re.sub(
+        r'\[([^\]]+)\]\(([^)]+)\)',
+        lambda m: m.group(0) if m.group(2).startswith(('http', '/', '#')) else m.group(1),
+        text
+    )
+    
+    # 6. LIMPIAR H1 sueltos (solo debería haber H2+)
+    text = re.sub(r'^# \s*$', '', text, flags=re.MULTILINE)
+    
+    print("   🧹 [Post-Processor] Contenido limpiado de artefactos de IA")
+    return text.strip()
 
 def escribir_blueprint(tutorial_data, lang="en"):
     """Genera el post de herramienta reescribiendo con personalidad según idioma."""
@@ -560,7 +609,6 @@ def main():
     print(f"🎯 TEMA: {tema}")
     res = researcher.Researcher()
     # Generar Translation Key única para este par de artículos
-    import uuid
     trans_key = str(uuid.uuid4())
     
     for i, lang in enumerate(["es", "en"]):
