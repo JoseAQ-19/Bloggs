@@ -506,7 +506,7 @@ def _call_en_engine(prompt_text):
 
 
 def escribir_articulo(meta, contexto, lang, category_config, category="ia"):
-    print(f"✍️ Escribiendo ({lang}): {meta['titulo']}...")
+    print(f"✍️ PULITZER PIPELINE ({lang.upper()}): {meta['titulo']}...")
     # === AISLAMIENTO ESTRICTO DE VARIABLES ===
     prompt_persona = category_config['prompt_es'] if lang == 'es' else category_config['prompt_en']
     structure = random.choice(list(STRUCTURE_TEMPLATES.values()))
@@ -544,92 +544,154 @@ IF NONE OF THESE ARTICLES ARE RELEVANT TO THE CURRENT TOPIC, DO NOT LINK TO ANY 
 """
 
     # ============================================================
-    # FASE 1: OUTLINE — Extraer datos concretos de la investigación
-    # Esto reduce alucinaciones porque la IA "pre-digiere" los datos
+    # FASE 1: ESPECIALISTA EN CLICKBAIT ÉTICO — Genera título viral
     # ============================================================
-    print(f"   📋 [Fase 1] Generando outline con datos concretos...")
+    print(f"   🎯 [Fase 1/3] Especialista en Clickbait Ético...")
     
-    outline_prompt = f"""ACT AS: Senior Editorial Strategist.
+    lang_name = "ESPAÑOL" if lang == "es" else "ENGLISH"
+    title_prompt = f"""ACT AS: Viral headline editor for a premium investigative publication. You write titles that DEMAND clicks.
 
-TASK: Analyze the research data below and create a DETAILED article outline for: "{meta['titulo']}"
+TASK: Generate 5 candidate titles for an article about: "{meta['titulo']}"
+LANGUAGE: {lang_name} ONLY. {"ABSOLUTAMENTE PROHIBIDO usar palabras en inglés excepto nombres propios (Bitcoin, ChatGPT, etc.)." if lang == "es" else ""}
+
+RESEARCH CONTEXT (use the juiciest data points):
+{research_text[:3000]}
+
+RULES:
+- Each title MUST contain a specific NUMBER, NAME, or SHOCKING CLAIM from the research
+- FORBIDDEN WORDS: "crecimiento exponencial", "panorama", "landscape", "comprehensive", "overview", "deep dive", "guía completa", "todo lo que necesitas saber"
+- TITLES MUST provoke emotion: outrage, curiosity, fear, or disbelief
+- Use patterns like: "X did Y and nobody noticed", "The hidden X behind Y", "Why X is lying about Y", "X just broke: what it means for Y"
+- Maximum 15 words per title. Minimum 8 words.
+- {"Los títulos deben estar COMPLETAMENTE en español. Cero spanglish." if lang == "es" else ""}
+
+OUTPUT FORMAT (exactly 6 lines):
+1. [title option 1]
+2. [title option 2]
+3. [title option 3]
+4. [title option 4]
+5. [title option 5]
+BEST: [paste the single best title here]
+
+OUTPUT ONLY THESE 6 LINES. NOTHING ELSE."""
+
+    try:
+        title_resp = client.models.generate_content(model='gemini-2.0-flash', contents=title_prompt)
+        title_lines = title_resp.text.strip().split('\n')
+        
+        # Extraer el BEST title
+        viral_title = meta['titulo']  # fallback
+        for line in title_lines:
+            if line.strip().upper().startswith('BEST:'):
+                candidate = line.split(':', 1)[1].strip().strip('"').strip("'")
+                if len(candidate.split()) >= 4:
+                    viral_title = candidate
+                    break
+        
+        # Si no encontró BEST:, tomar el último título válido
+        if viral_title == meta['titulo']:
+            for line in reversed(title_lines):
+                clean = re.sub(r'^\d+\.\s*', '', line.strip()).strip('"').strip("'")
+                if len(clean.split()) >= 4 and not clean.upper().startswith('BEST'):
+                    viral_title = clean
+                    break
+        
+        meta['titulo'] = viral_title
+        print(f"   ✅ [Fase 1/3] Título viral: {viral_title}")
+    except Exception as e:
+        print(f"   ⚠️ [Fase 1/3] Error generando título viral: {e}. Usando título original.")
+
+    # ============================================================
+    # FASE 2: REDACTOR DE DATOS DUROS — Escribir el artículo
+    # Con blindaje militar anti-chatbot, anti-alucinación, anti-leak
+    # ============================================================
+    print(f"   ✍️ [Fase 2/3] Redactor de Datos Duros (Blindaje Militar)...")
+    
+    # Outline rápido (mantener la pre-digestión de datos)
+    outline_prompt = f"""ACT AS: Senior Editorial Strategist.
+TASK: Create a CONCISE article outline for: "{meta['titulo']}"
 LANGUAGE: {lang}
 
 RESEARCH DATA:
 {research_text[:8000]}
 
-OUTPUT a structured outline with EXACTLY this format:
+OUTPUT a structured outline with 4 sections. For each section list:
+- Section H2 title {"(EN ESPAÑOL COMPLETO, sin mezclar idiomas)" if lang == "es" else ""}
+- 2-3 key data points EXACTLY as they appear in the research (numbers, names, sources)
+- The contrarian angle for each section
 
-## HOOK (Opening paragraph)
-- Key shocking fact or statistic to open with: [extract from research]
-- Contrarian angle to hook the reader: [specify]
-
-## SECTION 1: [Title]
-- Key data point: [specific number/stat from research with source name]
-- Expert voice: [name + credential + their position]
-- Contrarian take: [what's wrong with the mainstream view]
-
-## SECTION 2: [Title]  
-- Key data point: [specific number/stat from research with source name]
-- Case study or real example: [specific company/person/event]
-- Source URL to cite: [exact URL from research if available]
-
-## SECTION 3: [Title]
-- Key data point: [specific number/stat from research with source name]
-- Practical insight: [what the reader can actually DO with this info]
-
-## SECTION 4: [Title — Editorial Verdict]
-- Author's definitive stance: [not "time will tell" — pick a side]
-- Actionable recommendation: [specific, concrete, executable]
-- Closing provocative line: [memorable one-liner]
-
-## VERIFIED URLS FROM RESEARCH
-List ALL real URLs found in the research data that can be cited in the article.
+FINAL SECTION must be an editorial verdict {"(título en ESPAÑOL, NO uses 'Editorial Verdict')" if lang == "es" else ""}.
 
 RULES:
-- ONLY use facts, stats, names, and URLs that exist in the RESEARCH DATA above.
-- Do NOT invent any data point. If the research lacks data for a section, write "NO DATA AVAILABLE".
-- Include at least 3 specific numbers/statistics.
-- Include at least 2 named experts/sources.
+- ONLY use facts from the RESEARCH DATA. Write "NO DATA" if research lacks info for a point.
+- Do NOT invent any numbers or perform any mathematical calculations.
 """
 
     try:
         outline_resp = client.models.generate_content(model='gemini-2.0-flash', contents=outline_prompt)
         outline = outline_resp.text.strip()
-        print(f"   ✅ [Fase 1] Outline generado ({len(outline)} chars)")
+        print(f"   ✅ Outline: {len(outline)} chars")
     except Exception as e:
-        print(f"   ⚠️ [Fase 1] Error generando outline: {e}. Usando modo legacy.")
+        print(f"   ⚠️ Outline error: {e}. Modo directo.")
         outline = ""
 
-    # ============================================================
-    # FASE 2: REDACCIÓN — Escribir artículo usando outline + research
-    # ============================================================
-    print(f"   ✍️ [Fase 2] Redactando artículo completo...")
-    
-    outline_section = ""
-    if outline:
-        outline_section = f"\n\nARTICLE OUTLINE (follow this structure strictly — do NOT deviate):\n{outline}\n"
-    
+    outline_section = f"\n\nARTICLE OUTLINE (follow this structure strictly):\n{outline}\n" if outline else ""
+
+    # === PROMPT MILITAR ===
+    anti_chatbot_shield = f"""
+════════════════════════════════════════════════════
+ ███ MILITARY-GRADE OUTPUT RULES — VIOLATION = REJECTION ███
+════════════════════════════════════════════════════
+
+🚫 ANTI-CHATBOT SHIELD:
+- START the article IMMEDIATELY with a powerful opening sentence.
+- DO NOT write introductory phrases: "Here is the article", "Aquí está el artículo", "Aquí tienes", "Sure", "Claro", "Of course", "Let me", "I'll write".
+- DO NOT write meta-commentary: "No additional data available", "I don't have data for this", "The research doesn't mention".
+- DO NOT address the user or acknowledge instructions in the output.
+- The FIRST character of your output must be part of the article content.
+
+🔢 MATH SHIELD:
+- DO NOT perform any mathematical calculations (division, multiplication, percentages).
+- Report ALL numbers EXACTLY as stated by the sources. Copy-paste the number.
+- If the research says "market is $8.31B" and "67% adopted", report BOTH numbers separately. DO NOT divide them.
+- NEVER write phrases like "if we divide X by Y" or "this works out to".
+
+🌐 LANGUAGE SHIELD:
+- {"EVERY word must be in SPANISH including ALL H2/H3 headers. ZERO English words except proper nouns (ChatGPT, Bitcoin, etc.)." if lang == "es" else "EVERY word must be in ENGLISH."}
+- {"DO NOT use 'Editorial Verdict', use 'Veredicto Editorial' or 'Nuestra Conclusión' or similar IN SPANISH." if lang == "es" else ""}
+- {"DO NOT leave ANY English instruction text in the output." if lang == "es" else "DO NOT leave ANY Spanish text in the output."}
+
+🔗 LINK SHIELD:
+- You MUST include at least 3 outbound links to authoritative sources.
+- ONLY use URLs that appear in the RESEARCH DATA below.
+- If a fact has NO URL in the research, mention the source as plain bold text **Source Name** WITHOUT a hyperlink.
+- FABRICATING a URL = INSTANT REJECTION of the entire article.
+
+📏 LENGTH: Minimum 1500 words. Articles under 1200 words are REJECTED.
+════════════════════════════════════════════════════
+"""
+
     prompt = (
         f"{prompt_persona}\n"
         f"{SYSTEM_FORMAT_RULES}\n"
+        f"{anti_chatbot_shield}\n"
         f"{EEAT_LINK_RULES}\n"
         f"{spiderweb_instruction}\n"
         f"WRITE ARTICLE: {meta['titulo']}\n"
         f"{outline_section}"
         f"ORIGINAL RESEARCH DATA (use as factual foundation — cite sources with links):\n{research_text}\n"
         f"TEMPLATE: {structure}\n"
-        f"MINIMUM LENGTH: 1500 words. Articles under 1200 words are REJECTED.\n"
         f"LANG: {lang}"
     )
 
     # === CEREBRO ESPAÑOL: GEMINI ===
     if lang == "es":
-        print("   🇪🇸 [Fase 2] Motor ES: Gemini 2.0 Flash")
+        print("   🇪🇸 [Fase 2/3] Motor ES: Gemini 2.0 Flash")
         resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
         resultado = resp.text.strip()
     # === CEREBRO INGLÉS: GLM → OpenRouter → Gemini Emergency ===
     else:
-        print("   🇬🇧 [Fase 2] Motor EN: GLM-4-Flash → OpenRouter → Gemini")
+        print("   🇬🇧 [Fase 2/3] Motor EN: GLM-4-Flash → OpenRouter → Gemini")
         resultado = _call_en_engine(prompt)
         
         # === VALIDACIÓN DE LONGITUD MÍNIMA (EN tiende a ser corto) ===
@@ -643,55 +705,140 @@ RULES:
                 resultado = retry_result
                 print(f"   ✅ [Quality] Regenerado: {len(resultado.split())} palabras")
 
-    word_count_final = len(resultado.split()) if resultado else 0
-    print(f"   📊 [Resultado] {word_count_final} palabras generadas")
+    word_count_draft = len(resultado.split()) if resultado else 0
+    print(f"   📊 [Fase 2/3] Borrador: {word_count_draft} palabras")
+
+    # ============================================================
+    # FASE 3: EDITOR JEFE / SANITIZADOR — Filtro final anti-IA
+    # ============================================================
+    print(f"   🧹 [Fase 3/3] Editor Jefe: Sanitización final...")
     
-    # === POST-PROCESADO: Limpieza de artefactos de IA ===
+    sanitize_prompt = f"""ACT AS: Ruthless copy editor for a major publication. You are the LAST line of defense before publication.
+
+TASK: Clean this article draft. Remove ALL traces of AI generation. Return the final Markdown ready for publication.
+
+ARTICLE DRAFT:
+{resultado}
+
+CLEANING CHECKLIST (apply ALL):
+
+1. DELETE any introductory AI phrases at the start:
+   - "Aquí está el artículo", "Here is the article", "Sure", "Claro", "Of course", "Let me"
+   - "Aquí tienes", "I'll", "Below is", "The following article"
+   - Any sentence that talks ABOUT the article instead of being the article
+
+2. DELETE any meta-commentary or system leaks:
+   - "No additional data available", "No hay datos adicionales"
+   - "The research doesn't mention", "I couldn't find"
+   - "As per the instructions", "As requested"
+   - "Editorial Verdict" {"(replace with Spanish equivalent like 'El Veredicto' or 'Nuestra Lectura')" if lang == "es" else ""}
+
+3. FIX language contamination:
+   - {"If ANY H2/H3 header contains English words (except proper nouns), rewrite it fully in Spanish." if lang == "es" else "Ensure all text is in English."}
+   - {"Remove any English instruction text left in the body." if lang == "es" else ""}
+
+4. FIX math errors:
+   - If you see a calculation that divides/multiplies numbers to produce a clearly absurd result, DELETE the entire sentence containing the calculation.
+
+5. VERIFY structure:
+   - The article must start with a hook paragraph (NO heading before it).
+   - All sections must use ## (H2) headers. Remove any # (H1) headers.
+   - The article must NOT end with a generic "what do you think?" or audience question.
+
+6. PRESERVE everything else: all links, formatting, data points, expert quotes, bold text, etc.
+
+OUTPUT: The cleaned Markdown article. NOTHING ELSE — no preamble, no "Here is the cleaned version"."""
+
+    try:
+        if lang == "es":
+            sanitize_resp = client.models.generate_content(model='gemini-2.0-flash', contents=sanitize_prompt)
+            clean_result = sanitize_resp.text.strip()
+        else:
+            clean_result = _call_en_engine(sanitize_prompt)
+        
+        # Validar que el sanitizador no destruyó el artículo
+        if clean_result and len(clean_result.split()) > word_count_draft * 0.6:
+            resultado = clean_result
+            print(f"   ✅ [Fase 3/3] Sanitizado: {len(resultado.split())} palabras (de {word_count_draft})")
+        else:
+            print(f"   ⚠️ [Fase 3/3] Sanitizador devolvió texto demasiado corto. Conservando borrador original.")
+    except Exception as e:
+        print(f"   ⚠️ [Fase 3/3] Error en sanitización: {e}. Conservando borrador original.")
+
+    # === POST-PROCESADO REGEX: Limpieza de artefactos residuales ===
     resultado = _clean_article_content(resultado)
     return resultado
 
 
 def _clean_article_content(text):
-    """Post-procesador que limpia artefactos de IA del contenido generado."""
+    """Post-procesador REGEX que limpia artefactos de IA del contenido generado."""
     if not text:
         return text
     
-    # 1. ELIMINAR [cite: X] markers de NotebookLM
+    # 0. ELIMINAR markdown code fences que envuelven el artículo
+    text = re.sub(r'^```(?:markdown|md)?\s*\n', '', text, flags=re.MULTILINE)
+    text = re.sub(r'\n```\s*$', '', text, flags=re.MULTILINE)
+    
+    # 1. ELIMINAR frases de chatbot al inicio del texto
+    chatbot_patterns = [
+        r'^(?:Aquí (?:está|tienes) el artículo\.?\s*\n*)',
+        r'^(?:Here is the article\.?\s*\n*)',
+        r'^(?:Sure[,!]?\s*(?:here (?:is|you go)).*?\n*)',
+        r'^(?:Claro[,!]?\s*(?:aquí (?:tienes|está)).*?\n*)',
+        r'^(?:Of course[,!]?\s*.*?\n*)',
+        r'^(?:Let me\s.*?\n*)',
+        r'^(?:I\'ll\s.*?\n*)',
+        r'^(?:Below is\s.*?\n*)',
+        r'^(?:The following article.*?\n*)',
+        r'^(?:El siguiente artículo.*?\n*)',
+        r'^(?:A continuación.*?\n*)',
+        r'^(?:Here\'s the.*?\n*)',
+    ]
+    for pattern in chatbot_patterns:
+        text = re.sub(pattern, '', text, flags=re.IGNORECASE | re.MULTILINE)
+    
+    # 2. ELIMINAR meta-comentarios del sistema
+    text = re.sub(r'\*?No (?:hay )?(?:additional )?dat(?:a|os)(?: adicionales?)? (?:available|disponibles?)\.?\*?', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'\*?No se (?:encontraron|pudieron encontrar) datos\.?\*?', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'The research doesn\'t mention.*?\.', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'I couldn\'t find.*?\.', '', text, flags=re.IGNORECASE)
+    
+    # 3. ELIMINAR [cite: X] markers de NotebookLM
     text = re.sub(r'\s*\[cite:\s*\d+(?:,\s*\d+)*\]', '', text)
     
-    # 2. ELIMINAR URLs de Google Grounding API (vertexaisearch redirects)
-    #    Patrón: [anchor text](https://vertexaisearch.cloud.google.com/...)
-    #    Reemplazar con solo el anchor text en negrita
+    # 4. ELIMINAR URLs de Google Grounding API (vertexaisearch redirects)
     text = re.sub(
         r'\[([^\]]+)\]\(https://vertexaisearch\.cloud\.google\.com[^)]*\)',
         r'**\1**',
         text
     )
     
-    # 3. ELIMINAR URLs de Google Search/Scholar usadas como placeholder
+    # 5. ELIMINAR URLs de Google Search/Scholar usadas como placeholder
     text = re.sub(
         r'\[([^\]]+)\]\(https?://(?:scholar\.)?google\.com/search[^)]*\)',
         r'**\1**',
         text
     )
     
-    # 4. ELIMINAR links con URLs vacías o inválidas
+    # 6. ELIMINAR links con URLs vacías o inválidas
     text = re.sub(
         r'\[([^\]]+)\]\(\s*\)',
         r'\1',
         text
     )
     
-    # 5. ELIMINAR links donde el href es texto plano (no URL)
-    #    Ejemplo: [texto](Título de otro artículo que no es URL)
+    # 7. ELIMINAR links donde el href es texto plano (no URL)
     text = re.sub(
         r'\[([^\]]+)\]\(([^)]+)\)',
         lambda m: m.group(0) if m.group(2).startswith(('http', '/', '#')) else m.group(1),
         text
     )
     
-    # 6. LIMPIAR H1 sueltos (solo debería haber H2+)
-    text = re.sub(r'^# \s*$', '', text, flags=re.MULTILINE)
+    # 8. LIMPIAR H1 sueltos (solo debería haber H2+)
+    text = re.sub(r'^# .+$', '', text, flags=re.MULTILINE)
+    
+    # 9. ELIMINAR líneas en blanco excesivas (máximo 2 seguidas)
+    text = re.sub(r'\n{4,}', '\n\n\n', text)
     
     print("   🧹 [Post-Processor] Contenido limpiado de artefactos de IA")
     return text.strip()
