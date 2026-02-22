@@ -1,18 +1,24 @@
 {
   "category": "viral",
   "lang": "en",
-  "scouted_at": "2026-02-22T20:33:13.937674+00:00",
-  "total_candidates": 19,
+  "scouted_at": "2026-02-22T20:45:37.959499+00:00",
+  "total_candidates": 25,
   "topics": [
     {
       "rank": 1,
-      "title": "Reddit vs. DoorDash & Uber Eats: Unmasking the Viral Hoax That Sparked Corporate Fury",
+      "title": "Elon Musk's Wildest Controversies: A Running Tally of Tech's Most Polarizing Figure",
       "lang": "en",
       "source": "llm_selected"
     },
     {
       "rank": 2,
-      "title": "Sydney Sweeney Ad Wars: How Right-Wing Media Weaponized a Skincare Campaign",
+      "title": "Stephen Colbert's Censorship Claims: Inside the Internet's Outraged Reaction",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "\"Nepo Baby\" Scandal Rocks Nepal: TikTok Exposes Politicians' Lavish, Secret Lives",
       "lang": "en",
       "source": "llm_selected"
     }
