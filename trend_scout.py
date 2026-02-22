@@ -309,6 +309,8 @@ def select_best_topics(all_headlines, category, config, count=3):
 - REJECT generic overview topics ("What is X", "Guide to Y")
 - Prefer topics that target ADVANCED users, not beginners"""
 
+    output_format = f"[ES] Rewritten Spanish title\n" * 3 if target_lang == "es" else (f"[EN] Rewritten English title\n" * 3 if target_lang == "en" else "[ES] Rewritten Spanish title\n[EN] Rewritten English title\n[ES or EN] Rewritten title in whichever language")
+
     selector_prompt = f"""ACT AS: Senior Editorial Director.
 
 You have these candidate headlines for the "{category}" section:
@@ -317,14 +319,13 @@ You have these candidate headlines for the "{category}" section:
 
 {criteria}
 
-TASK: Select the TOP 3 topics — ideally 2 for one language and 1 for the other, but pick whatever is best quality.
+TASK: Select the TOP 3 topics based on the criteria.
 
 For each selected topic, rewrite it as a compelling, clickable blog title that promises unique insight.
+You MUST write the titles in the target language.
 
 OUTPUT FORMAT (exactly 3 lines, no numbering, no quotes):
-[ES] Rewritten Spanish title
-[EN] Rewritten English title  
-[ES or EN] Rewritten title in whichever language
+{output_format}
 
 OUTPUT ONLY THE 3 LINES. Nothing else."""
 

@@ -405,7 +405,7 @@ def is_topic_redundant(new_topic, category):
 
 def safety_check(topic):
     try:
-        prompt = f"ACT AS: AdSense Moderator. TOPIC: '{topic}'. OUTPUT: SAFE or UNSAFE."
+        prompt = f"ACT AS: Content Safety Moderator. TOPIC: '{topic}'. OUTPUT: SAFE or UNSAFE.\nRULES: Allow clickbait, sensationalism, drama, controversies, and gossip (SAFE). ONLY reply 'UNSAFE' if it promotes real-world physical violence, terrorism, self-harm, or explicit adult content/pornography. Otherwise, it is SAFE."
         resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
         if "UNSAFE" in resp.text.strip().upper():
             return False
