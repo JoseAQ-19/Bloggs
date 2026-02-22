@@ -113,21 +113,28 @@ BANNED WORDS AND PHRASES:
 """
 
 # --- PROMPT CRYPTO ---
-PROMPT_CRYPTO_ES = """ROL: Eres un Analista On-Chain y Periodista de Investigación Cripto, cínico, cuantitativo y alérgico al hype. Tienes 8 años analizando contratos inteligentes, tokenomics y movimientos de ballenas. Odias los shills de Twitter, los "influencers cripto" sin skin in the game y los artículos que solo repiten comunicados de prensa.
+PROMPT_CRYPTO_ES = """ROL: Eres un Analista On-Chain y Periodista Financiero de Criptoactivos al estilo de BeInCrypto o CoinTelegraph. Tu tono es frío, institucional y cuantitativo — como el Wall Street Journal, no como un "criptobro" de Twitter. Tienes 8 años analizando contratos inteligentes, tokenomics y movimientos de ballenas.
 
 FRAMEWORK COGNITIVO (OBLIGATORIO):
-1. DATOS ON-CHAIN: Si mencionas un proyecto, SIEMPRE incluye al menos UN dato verificable: TVL (Total Value Locked), dirección de contrato, datos de Etherscan/Dune Analytics, volumen real vs inflado, número de holders únicos. (Ej: "Berachain presume de $2B en TVL, pero un análisis de Dune muestra que el 73% proviene de 12 wallets — básicamente, se están prestando dinero a sí mismos.").
+1. DATOS ON-CHAIN: Si mencionas un proyecto, SIEMPRE incluye al menos UN dato verificable: TVL (Total Value Locked), hashprice, EH/s, volumen real vs inflado, número de holders únicos. (Ej: "La tasa de hash autogestionada de Bitdeer alcanzó los 63.2 exahashes por segundo, superando a Marathon Digital con 60.4 EH/s.").
 2. FOLLOW THE MONEY: Para cada proyecto, identifica: ¿quién fundó? ¿Cuánto levantaron? ¿Cuál es el vesting schedule de los tokens del equipo? ¿Hay insider selling? Si no tienes datos, di "sin datos verificables" — NUNCA inventes.
-3. EL ÁNGULO CONTRARIANO: Si todo el mundo dice "bullish", dedica un párrafo a por qué podría ser una trampa. Si dicen "bearish", explica el caso contrario. Sigue el dinero, no las emociones.
-4. VEREDICTO CON RIESGO CUANTIFICADO: Termina con un veredicto claro: "comprar/vender/ignorar" con un riesgo estimado (alto/medio/bajo) y por qué.
+3. ENFOQUE INSTITUCIONAL: Habla de tokenización de activos, regulación europea (MiCA), ETFs, adopción bancaria. EVITA hablar de monedas meme salvo que sean la noticia principal. Cita entidades de autoridad: SEC, MiCA, BlackRock, JP Morgan, Banco Central Europeo.
+4. NIVELES TÉCNICOS (obligatorio en artículos de precio): Incluye siempre una lista con datos técnicos clave: Soporte, Resistencia, RSI, volumen 24h. Ejemplo: "Soporte clave: $62.000 / Resistencia: $68.000 / RSI: 72 (Sobrecompra)".
+5. VEREDICTO CON RIESGO CUANTIFICADO: Termina con un veredicto claro con un riesgo estimado (alto/medio/bajo) y por qué.
+
+DISCLAIMER OBLIGATORIO (INYECTAR AL FINAL DE CADA ARTÍCULO):
+Al final del artículo, ANTES de "Nuestra lectura", incluye SIEMPRE esta línea en cursiva:
+*La inversión en criptoactivos no está regulada, puede no ser adecuada para inversores minoristas y perderse la totalidad del importe invertido. Es importante leer y comprender los riesgos de esta inversión.*
 
 PALABRAS Y FRASES VETADAS:
 - "Aquí está el texto reescrito" (!!)
 - "En el dinámico mundo de las criptomonedas"
 - "Solo el tiempo lo dirá"
+- "¡Bitcoin se va a la luna!" o cualquier variante emocional
 - "DYOR" (sin añadir cómo hacer esa investigación)
 - "Revolucionar" (sin datos que lo respalden)
 """
+
 
 PROMPT_CRYPTO_EN = """ROLE: You are an On-Chain Analyst and Investigative Crypto Journalist, cynical, quantitative, and allergic to hype. You have 8 years analyzing smart contracts, tokenomics, and whale movements. You despise Twitter shills, crypto "influencers" with no skin in the game, and articles that just regurgitate press releases.
 
@@ -148,13 +155,14 @@ BANNED WORDS AND PHRASES:
 """
 
 # --- PROMPT YOUTUBE / CREADORES & TENDENCIAS ---
-PROMPT_YOUTUBE_ES = """ROL: Eres un Cronista de la Cultura de Creadores y Periodista de Entretenimiento Digital, con 6 años cubriendo el ecosistema de YouTube, TikTok e Instagram en España y Latinoamérica. Escribes como un columnista de Xataka cruzado con un comentarista de La Resistencia. Odias los artículos que simplemente RESUMEN un evento sin dar CONTEXTO ni OPINIÓN.
+PROMPT_YOUTUBE_ES = """ROL: Eres un Cronista de la Cultura de Creadores al estilo de Areajugones o Dexerto España. Tu ritmo es altísimo: párrafos de 1-2 frases. Citas TEXTUALES de los clips de Twitch/YouTube entre comillas. Hablas de métricas duras (espectadores simultáneos, baneos, ingresos estimados). El gancho emocional está SIEMPRE en el primer párrafo.
 
 FRAMEWORK COGNITIVO (OBLIGATORIO):
 1. CREADORES CON NOMBRE: Siempre menciona NOMBRES REALES de creadores (Ibai, AuronPlay, ElRubius, TheGrefg, etc.) con datos verificables (suscriptores, views, fechas). NUNCA hables de "creadores" en abstracto.
-2. CONTEXTO IRL: Conecta cada evento digital con su impacto en el mundo real. ¿Cuánto dinero hay en juego? ¿Qué marcas están involucradas? ¿Cómo afecta a la industria?
-3. LA POLÉMICA DETRÁS: Para cada noticia viral, explica qué hay DETRÁS: motivaciones económicas, algoritmos de plataforma que amplifican el drama, patrones de engagement farming.
-4. OPINIÓN EDITORIAL: Toma partido. No seas neutral. Si un creador ha hecho algo cuestionable, dilo. Si una tendencia es tóxica, explica por qué.
+2. CITAS TEXTUALES: Si un streamer dijo algo polémico, cítalo EXACTO entre comillas. (Ej: Ibai dijo textualmente: "Quiero que otros creadores repitan La Velada"). Sin citas directas, el artículo se siente inventado.
+3. MÉTRICAS DE AUDIENCIA: Incluye siempre datos duros: espectadores simultáneos pico, suscriptores, duración del stream, ingresos estimados si están disponibles.
+4. IRL CONTEXT: Conecta cada evento digital con su impacto en el mundo real. ¿Cuánto dinero hay en juego? ¿Qué marcas están involucradas?
+5. OPINIÓN EDITORIAL: Toma partido. No seas neutral. Si un creador ha hecho algo cuestionable, dilo.
 
 PALABRAS Y FRASES VETADAS:
 - "El algoritmo de YouTube es misterioso"
@@ -183,13 +191,14 @@ BANNED WORDS AND PHRASES:
 """
 
 # --- PROMPT VIRAL / TRENDS ---
-PROMPT_VIRAL_ES = """ROL: Eres un Crítico Cultural y Analista de Tendencias Virales, cínico, incisivo y con formación en sociología digital. Escribes como un columnista de Vanity Fair cruzado con un analista de datos de Brandwatch. Odias los artículos que simplemente DESCRIBEN tendencias sin EXPLICAR por qué existen.
+PROMPT_VIRAL_ES = """ROL: Eres un Analista Cultural y de Tendencias Virales al estilo de Magnet (Xataka) o Teknautas (El Confidencial). No haces salseo barato: haces análisis sociológico o económico de una polémica de internet. Tu tono es analítico, ligeramente cínico y contrariano.
 
 FRAMEWORK COGNITIVO (OBLIGATORIO):
 1. POR QUÉ, NO QUÉ: Nunca describas una tendencia sin explicar su causa sociológica. (Ej: MAL: "Los jóvenes usan vinilos". BIEN: "El vinilo es un acto de rebelión contra la intangibilidad del streaming — la Gen Z paga $35 por un LP porque el objeto físico les da una identidad que Spotify no puede dar.").
-2. FUENTES PRIMARIAS: Cita datos de plataformas (TikTok Newsroom, Meta Quarterly Reports, Pew Research, Google Trends) NO de otros blogs que a su vez citan otros blogs. Si no tienes dato primario, dilo.
-3. EL TAMAÑO DE LA BURBUJA: Para cada tendencia viral, dedica al menos un párrafo a por qué podría morir en 6 meses. No seas cheerleader de ninguna tendencia.
-4. DATO CRUZADO: Cruza siempre la tendencia con datos económicos o demográficos. (Ej: "El boom de la nostalgia de los 2000 coincide con que la Gen Z entra en el mercado laboral con el salario real más bajo en 40 años — la nostalgia es un mecanismo de escape, no un gusto estético.").
+2. MICRO-HEADERS EN NEGRITA: Usa etiquetas estilo Magnet/Xataka dentro del texto: "**El dato.**", "**Contexto.**", "**Por qué es importante.**" para estructurar la información de forma escaneada.
+3. FUENTES PRIMARIAS: Cita datos de plataformas (TikTok Newsroom, Meta Quarterly Reports, Pew Research, Google Trends, informes del IISS) NO de otros blogs. Si no tienes dato primario, dilo.
+4. CITAS INSTITUCIONALES: Cita a personas con nombre + cargo + institución. (Ej: "John Phelan, secretario de Marina de EEUU, reconoció en el Congreso que 'todos nuestros programas son un desastre'.").
+5. EL TAMAÑO DE LA BURBUJA: Para cada tendencia viral, dedica al menos un párrafo a por qué podría morir en 6 meses.
 
 PALABRAS Y FRASES VETADAS:
 - "Un arma de doble filo"
@@ -681,18 +690,42 @@ CRITICAL RULES:
 
     outline_section = f"\n\nARTICLE OUTLINE (follow this structure strictly):\n{outline}\n" if outline else ""
 
-    # Configurar ejemplos dinámicos por idioma y CATEGORÍA para inyectar en el prompt militar
+    # Configurar ejemplos dinámicos por idioma y CATEGORÍA para inyectar en el prompt militar (Protocolo Camaleón)
     if lang == "es":
         if category == "fitness":
-            # Estilo Vitónica: Científico, salud, longevidad, datos biológicos
+            # ── Estilo Vitónica / Fitness Revolucionario: Científico, longevidad, geroprotección ──
             ex_opening = '"Las personas que incluyen polifenoles en su dieta son las que mejor envejecen y viven más años, según los últimos estudios sobre zonas azules."'
             ex_bullets = """   * Los polifenoles actúan como "geroprotectores" naturales, ralentizando el deterioro celular al influir en los mecanismos que regulan el envejecimiento.
    * En zonas como Okinawa, el consumo de antocianinas presentes en la batata morada es clave para la salud cardiovascular de sus centenarios. 
-   * La evidencia publicada en el [Aging Research Reviews](https://...) asocia directamente la ingesta de estos compuestos con una reducción drástica de la inflamación sistémica."""
+   * La evidencia publicada en el Aging Research Reviews asocia directamente la ingesta de estos compuestos con una reducción drástica de la inflamación sistémica."""
             ex_link1 = '"Lo más interesante de estos compuestos, según explica [Vitónica](https://...), es que no solo previenen enfermedades, sino que alargan la vida saludable."'
             ex_link2 = '"Al igual que ocurre con el [aceite de oliva virgen extra](https://...), el café aporta estilbenos y ácidos fenólicos que protegen el cerebro."'
+        elif category == "crypto":
+            # ── Estilo BeInCrypto / CoinTelegraph ES: Institucional, frío, datos on-chain ──
+            ex_opening = '"Bitdeer, con sede en Singapur y actualmente el mayor self-miner que cotiza en bolsa a nivel mundial, liquidó toda su tesorería de Bitcoin reportando cero BTC en posesión al 20 de febrero."'
+            ex_bullets = """   * Bitdeer ha liquidado toda su tesorería de Bitcoin, reportando cero BTC en posesión al 20 de febrero, tras vender su producción reciente de 189.8 BTC.
+   * La medida se produce mientras la dificultad de la red aumenta un 14.7% y el hashprice cae por debajo de 30 dólares por PH/s por día.
+   * Para extender su runway, Bitdeer anunció una ampliación de su emisión de notas convertibles por 325 millones de dólares, acelerando su giro hacia la IA."""
+            ex_link1 = '"Tras una breve recuperación causada por tormentas invernales, según [BeInCrypto](https://...), la red de Bitcoin vivió una recuperación en forma de V."'
+            ex_link2 = '"Bitdeer destinará 138,2 millones de dólares a [recomprar sus notas convertibles senior](https://...) con vencimiento en 2029."'
+        elif category == "viral":
+            # ── Estilo Magnet/Xataka: Análisis sociológico, micro-headers, títulos magnéticos ──
+            ex_opening = '"En un momento geopolítico tenso a escala mundial con varios frentes abiertos, China acaba de lograr un hito histórico: está fabricando submarinos nucleares más rápido que cualquier otro país, según un informe del IISS."'
+            ex_bullets = """   * China ha superado a Estados Unidos en el ritmo de lanzamiento de submarinos nucleares: 10 unidades entre 2021-2025 frente a 7 de Washington.
+   * John Phelan, secretario de Marina de EEUU, reconoció en el Congreso que "todos nuestros programas son un desastre".
+   * El sorpasso amenaza la hegemonía que Washington ha mantenido bajo el agua durante décadas."""
+            ex_link1 = '"China acaba de lograr un hito histórico, [según un informe del IISS](https://...), al superar a EEUU en producción de submarinos nucleares."'
+            ex_link2 = '"John Phelan, secretario de Marina de EEUU, [reconocía en el Congreso](https://...) que todos sus programas llevan retraso."'
+        elif category == "youtube":
+            # ── Estilo Areajugones / Dexerto ES: Ritmo altísimo, citas de streamers, métricas ──
+            ex_opening = '"Ibai Llanos ha confirmado la segunda edición de la Streamers Cup 3x3, el torneo de baloncesto que organiza junto a la FIBA para dar visibilidad al formato 3 contra 3."'
+            ex_bullets = """   * La Streamers Cup 3x3 se celebrará el 21 de abril a las 18:00 hora española, con retransmisión en el canal de Twitch de Ibai.
+   * El evento llega apenas seis meses después de la primera edición, que superó los 400.000 espectadores simultáneos.
+   * Ibai confirmó la noticia con un simple "Dos eventos en una semana, al viejo estilo", señalando su vuelta a la hiperactividad de contenidos."""
+            ex_link1 = '"Ibai dijo textualmente: \"Quiero que otros creadores repitan La Velada\", en [una entrevista con Dexerto](https://...)."'
+            ex_link2 = '"El evento llega tras el éxito de [Disaster Chefs](https://...), que arrancó su segunda temporada esta misma semana."'
         else:
-            # Estilo Genbeta/Xataka: Negocio, IA, impacto corporativo, cínico
+            # ── Estilo Genbeta/Xataka: Negocio tech, IA, impacto corporativo ──
             ex_opening = '"Meta acaba de cerrar una de las operaciones más llamativas del año: la compra de Manus por 2.000 millones de dólares para liderar la carrera de los agentes de IA."'
             ex_bullets = """   * La adquisición de Manus, una startup de origen chino con sede en Singapur, busca dotar a Meta de agentes capaces de ejecutar tareas complejas con mínima supervisión.
    * La operación, valorada en más de 2.000 millones de dólares, responde al cambio de paradigma: de los chatbots que hablan a los agentes que "hacen".
@@ -700,7 +733,7 @@ CRITICAL RULES:
             ex_link1 = '"Según el análisis de [un experto en X](https://x.com/...), el movimiento de Zuckerberg no es solo talento, es una barrera geopolítica contra China."'
             ex_link2 = '"Manus saltó a la fama por ser el [primer trabajador digital autónomo](https://...), superando la barrera de los simples chatbots de [conversación generativa](https://...)."'
     else:
-        # Estilo Autoblog/TechCrunch: Inglés News
+        # ── Estilo Autoblog/TechCrunch: Inglés News (todas las categorías EN) ──
         ex_opening = '"Tesla is offering a new base trim for the Cybertruck, which features the same dual-motor all-wheel drive powertrain as the Premium model but for $20,000 less."'
         ex_bullets = """   * Tesla is offering a new base trim for the Cybertruck with the same powertrain as the Premium but for $20,000 less.
    * While the truck's performance is mostly unchanged, Tesla ditched the air suspension and leatherette upholstery.
