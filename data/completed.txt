@@ -13,3 +13,4 @@ ia: Hugging Face Transformers: Why Fine-Tuning on Small Datasets Might Be Wastin
 fitness: VO2 Max Plateau Myth: Why Your Genetic Limit is Likely Just Bad Protocol
 youtube: Why is audio randomly cutting in and out? How do I fix this? : r/davinciresolve
 fitness: is there a way to let oura know that my sleep latency is because i read in bed??
+ia: Is AI Progress Stalling? Why Experts Question Exponential Growth Claims.
