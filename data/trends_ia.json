@@ -1,0 +1,25 @@
+{
+  "category": "ia",
+  "scouted_at": "2026-02-22T18:05:00.479484+00:00",
+  "total_candidates": 22,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Pornografía infantil generada por IA: ¿Hasta dónde llegará la responsabilidad de X, Meta y TikTok?",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic vs Pentagon: The SECRET battle over Claude's military potential",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Forget SaaS: Databricks CEO predicts AI will rewrite the entire software landscape",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
