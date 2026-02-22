@@ -1,0 +1,32 @@
+name: "Writer Fitness - Spanish"
+on:
+  workflow_run:
+    workflows: ["Scout Fitness - Spanish"]
+    types: [completed]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: |
+          pip install -r requirements.txt
+          playwright install chromium
+      - env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
+          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+        run: python main.py --category fitness --lang es
+      - run: |
+          git config --global user.name "JoseAQ-19"
+          git config --global user.email "josearizaquintero@gmail.com"
+          git add content/es/fitness/ data/
+          git commit -m "🤖 Fitness (ES) Content Generated"
+          git pull --rebase origin main
+          git push
