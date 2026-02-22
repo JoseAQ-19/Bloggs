@@ -1,23 +1,23 @@
 {
   "category": "ia",
-  "scouted_at": "2026-02-22T18:45:25.890521+00:00",
+  "scouted_at": "2026-02-22T18:55:34.515524+00:00",
   "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "Ataque a Gemini: ¿Está en riesgo la IA más avanzada por la clonación masiva?",
+      "title": "SaaSpocalypse Revisited: Why AI Isn't Killing Software, But Changing How We Use It",
       "lang": "es",
       "source": "llm_selected"
     },
     {
       "rank": 2,
-      "title": "Anthropic's Enterprise Edge: Sonnet 4.6 Silently Undercuts Gemini & ChatGPT",
+      "title": "Copilot's Multi-Model Future: GitHub Embraces Claude and Gemini – But Is It Enough?",
       "lang": "en",
       "source": "llm_selected"
     },
     {
       "rank": 3,
-      "title": "Rare Earth Killer: AI's Magnetic Discovery Revolutionizes EV Tech.",
+      "title": "The AI Arms Race Gets Real: Why the US and China Refused to Agree on Military AI Use",
       "lang": "en",
       "source": "llm_selected"
     }
