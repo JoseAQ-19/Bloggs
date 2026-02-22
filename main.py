@@ -549,7 +549,15 @@ IF NONE OF THESE ARTICLES ARE RELEVANT TO THE CURRENT TOPIC, DO NOT LINK TO ANY 
     print(f"   🎯 [Fase 1/3] Especialista en Clickbait Ético...")
     
     lang_name = "ESPAÑOL" if lang == "es" else "ENGLISH"
-    title_prompt = f"""ACT AS: Viral headline editor for a premium investigative publication. You write titles that DEMAND clicks.
+    # Regla de capitalización según benchmark:
+    # - EN: Title Case estricto (TechCrunch/The Verge: "Sam Altman Would Like to Remind You That Humans Use a Lot of Energy, Too")
+    # - ES: Oración (Xataka: "Gemini 3.1 Pro acaba de destronar a Claude: Google vuelve a liderar la carrera de la IA")
+    if lang == "es":
+        cap_rule = "FORMATO ESPAÑOL (estilo Xataka): Solo la primera palabra del título lleva mayúscula (y los nombres propios). NO uses Title Case con mayúsculas en cada palabra. Ejemplo correcto: 'Databricks acaba de anunciar algo que cambia las reglas del juego'. Ejemplo INCORRECTO: 'Databricks Acaba De Anunciar Algo Que Cambia Las Reglas Del Juego'."
+    else:
+        cap_rule = "FORMAT ENGLISH (TechCrunch/Verge style): Use strict Title Case — capitalize every major word (nouns, verbs, adjectives, adverbs). Only lowercase articles (a, the, an), conjunctions (and, or, but), and short prepositions (in, of, to, for) unless they are the first word. Example: 'Sam Altman Would Like to Remind You That Humans Use a Lot of Energy, Too'."
+    
+    title_prompt = f"""ACT AS: Viral headline editor for TechCrunch (EN) or Xataka (ES). You write titles that DEMAND clicks.
 
 TASK: Generate 5 candidate titles for an article about: "{meta['titulo']}"
 LANGUAGE: {lang_name} ONLY. {"ABSOLUTAMENTE PROHIBIDO usar palabras en inglés excepto nombres propios (Bitcoin, ChatGPT, etc.)." if lang == "es" else ""}
@@ -560,11 +568,11 @@ RESEARCH CONTEXT (use the juiciest data points):
 RULES:
 - Each title MUST contain a specific NUMBER, NAME, or SHOCKING CLAIM from the research
 - FORBIDDEN WORDS: "crecimiento exponencial", "panorama", "landscape", "comprehensive", "overview", "deep dive", "guía completa", "todo lo que necesitas saber"
+- FORBIDDEN: Titles that are questions. NO question marks allowed. Make STATEMENTS, not questions.
 - TITLES MUST provoke emotion: outrage, curiosity, fear, or disbelief
 - Use patterns like: "X did Y and nobody noticed", "The hidden X behind Y", "Why X is lying about Y", "X just broke: what it means for Y"
 - Maximum 15 words per title. Minimum 8 words.
-- MANDATORY: Every title MUST start with a capital letter.
-- MANDATORY: Use Title Case formatting — capitalize the first letter of every major word (nouns, verbs, adjectives, adverbs). Only lowercase articles (a, the, el, la, de, en), conjunctions (and, or, y, o), and short prepositions (in, of, to) unless they are the first word.
+- {cap_rule}
 - {"Los títulos deben estar COMPLETAMENTE en español. Cero spanglish." if lang == "es" else ""}
 
 OUTPUT FORMAT (exactly 6 lines):
@@ -674,13 +682,15 @@ RULES:
 - DO NOT address the user or acknowledge instructions in the output.
 - The FIRST character of your output must be part of the article content.
 
-✂️ ANTI-FLUFF SHIELD (BLUF — Bottom-Line Up Front):
-- FORBIDDEN: Rhetorical questions that add no information (e.g. "But is it worth it?", "What does this mean?", "¿Pero qué ocurre cuando...?").
-- FORBIDDEN: Repeating the same idea or conclusion in different paragraphs. Every paragraph must introduce NEW information.
-- FORBIDDEN: Filler sentences like "This is important because...", "It's worth noting that...", "Es importante destacar que...".
-- Every paragraph MUST contain at least ONE specific data point (number, name, date, company, or quote).
-- If you have no new data for a section, END the section. Do NOT pad it with empty rhetoric.
-- Write with EXTREME information density. Treat every sentence like it costs $100.
+✂️ ZERO-FLUFF SHIELD (Inverted Pyramid — TechCrunch/Xataka style):
+- ABSOLUTELY FORBIDDEN: ALL rhetorical questions. Zero tolerance. No "?", no "¿", nowhere in the article body. Not in transitions, not in openers, not in closers. Make DECLARATIVE STATEMENTS instead.
+  BAD: "Is AI really coming for our jobs?" → GOOD: "AI is already eliminating 34% of entry-level data roles, according to McKinsey."
+  BAD: "¿Qué nos depara el futuro?" → GOOD: "El futuro pasa por la adopción masiva de modelos de lenguaje abiertos."
+- FORBIDDEN: Repeating the same idea in different paragraphs. Every paragraph must introduce NEW information.
+- FORBIDDEN: Vague filler sentences without data: "This is important because...", "It's worth noting that...", "Es importante destacar que...", "No podemos ignorar que...".
+- INVERTED PYRAMID: Put the most important fact in the FIRST sentence of each paragraph. Then support with details. Never bury the lead.
+- Write like TechCrunch: ultra-dense, data-first paragraphs. No paragraph should exist without a number, name, or quote.
+- Use Xataka-style contextual subheadings like: "Lo que acaba de pasar.", "Los datos.", "Por qué importa.", "El contexto." — INSTEAD of generic "SECTION 1", "SECTION 2".
 
 🔢 MATH SHIELD:
 - DO NOT perform any mathematical calculations (division, multiplication, percentages).
@@ -690,28 +700,29 @@ RULES:
 
 🌐 LANGUAGE SHIELD:
 - {"EVERY word must be in SPANISH including ALL H2/H3 headers. ZERO English words except proper nouns (ChatGPT, Bitcoin, etc.)." if lang == "es" else "EVERY word must be in ENGLISH."}
-- {"DO NOT use 'Editorial Verdict', use 'Veredicto Editorial' or 'Nuestra Conclusión' or similar IN SPANISH." if lang == "es" else ""}
+- {"DO NOT use 'Editorial Verdict', use 'Veredicto Editorial' or 'Nuestra Lectura' or similar IN SPANISH." if lang == "es" else ""}
 - {"DO NOT leave ANY English instruction text in the output." if lang == "es" else "DO NOT leave ANY Spanish text in the output."}
 
-🔗 LINK SHIELD:
+🔗 LINK SHIELD (CRITICAL — read every word):
 - You MUST include at least 3 outbound links to authoritative sources.
 - ONLY use URLs that appear VERBATIM in the RESEARCH DATA below. Copy-paste the exact URL.
-- If a fact has NO URL in the research, mention the source as plain bold text **Source Name** WITHOUT a hyperlink.
+- If a fact has NO URL in the research, mention the source as plain bold text **Source Name** with NO hyperlink at all.
 - FABRICATING a URL = INSTANT REJECTION of the entire article.
-- DO NOT use bracket-only references like [source name]. These are NOT valid links.
-- VALID format: [Anchor Text](https://real-url.com) or plain bold **Source Name**. NOTHING ELSE.
-- DO NOT use [square brackets] alone to reference sources anywhere in the body text.
+- NEVER paste a raw URL in the text. NEVER write a URL without wrapping it in proper Markdown link format.
+- The ONLY valid link format is: [Descriptive Anchor Text](https://exact-url-from-research.com)
+- NEVER output a naked URL like https://example.com or [https://example.com] in the body text.
+- NEVER use bracket-only references like [source name] without a URL.
+- If a URL in the research contains "vertexaisearch.cloud.google.com" DO NOT USE IT. That is an internal redirect, not a real source URL. Instead, mention the source name in bold.
 
 📏 LENGTH: Minimum 1500 words. Articles under 1200 words are REJECTED.
 
 🌐 GEO-DOMINANCE (Generative Engine Optimization):
-- START the article with a "## {"Puntos Clave" if lang == "es" else "Key Takeaways"}" section containing 3-5 bullet points with the most important facts. This is the #1 signal for AI Overview citations.
-- Each Key Takeaway must be a SELF-CONTAINED, quotable statement with a specific number or named entity. AI engines cite these verbatim.
-- Use at least ONE Markdown comparison table (| Column A | Column B |) to present data. Tables are 3x more likely to be cited by AI Overviews.
-- Present statistics in bullet point lists (*), not buried in paragraphs. Bullet stats are 40% more extractable by AI engines.
-- ENTITY DENSITY: Always use full named entities instead of pronouns. Write "Satya Nadella, CEO of Microsoft" not "the CEO". Write "the European Central Bank (ECB)" not "the bank". Every paragraph should mention at least one named entity.
-- CITATION FORMAT: When citing a source, use the pattern: "According to [Source Name](URL), [claim with data]" or "As reported by **Source Name**, [claim]". Never cite anonymously.
-- Write at least 2-3 sentences per section that could stand alone as a direct answer to a Google query. These "citation-worthy passages" should be factual, specific, and self-contained.
+- After the opening hook paragraph, include a "## {"Puntos Clave" if lang == "es" else "Key Takeaways"}" section with 3-5 bullet points containing the most important facts.
+- Each Key Takeaway must be a SELF-CONTAINED, quotable statement with a specific number or named entity.
+- Use at least ONE Markdown comparison table to present data. Format: | Header 1 | Header 2 | with proper separator row | --- | --- |.
+- Present statistics in bullet point lists, not buried in paragraphs.
+- ENTITY DENSITY: Always use full named entities. Write "Satya Nadella, CEO de Microsoft" not "el CEO". Every paragraph should mention at least one named entity.
+- CITATION FORMAT: Use the pattern "Según [Fuente](URL), dato" or "As reported by [Source](URL), data". Never cite anonymously.
 ════════════════════════════════════════════════════
 """
 
@@ -857,10 +868,29 @@ def _clean_article_content(text):
     # 3. ELIMINAR [cite: X] markers de NotebookLM
     text = re.sub(r'\s*\[cite:\s*\d+(?:,\s*\d+)*\]', '', text)
     
-    # 4. ELIMINAR URLs de Google Grounding API (vertexaisearch redirects)
+    # 4a. ELIMINAR URLs de Google Grounding API en formato markdown [anchor](vertexaisearch...)
     text = re.sub(
         r'\[([^\]]+)\]\(https://vertexaisearch\.cloud\.google\.com[^)]*\)',
         r'**\1**',
+        text
+    )
+    
+    # 4b. ELIMINAR naked vertexaisearch URLs (sin anchor, sueltas en el texto o entre corchetes)
+    #     Patrón: [https://vertexaisearch...] o (https://vertexaisearch...) suelta
+    text = re.sub(
+        r'\[https://vertexaisearch\.cloud\.google\.com[^\]]*\]',
+        '',
+        text
+    )
+    text = re.sub(
+        r'\(https://vertexaisearch\.cloud\.google\.com[^)]*\)',
+        '',
+        text
+    )
+    # 4c. ELIMINAR naked vertexaisearch URLs inline (sin corchetes ni paréntesis)
+    text = re.sub(
+        r'https://vertexaisearch\.cloud\.google\.com\S*',
+        '',
         text
     )
     
@@ -889,10 +919,13 @@ def _clean_article_content(text):
     text = re.sub(r'^# .+$', '', text, flags=re.MULTILINE)
     
     # 9. ELIMINAR referencias con corchetes huérfanos [source name] que no son links
-    #    Patrón: [texto] que NO está seguido de (url)
     text = re.sub(r'\[([^\]]{3,80})\](?!\()', r'**\1**', text)
     
-    # 10. ELIMINAR líneas en blanco excesivas (máximo 2 seguidas)
+    # 10. LIMPIAR la basura que queda al eliminar URLs (dobles espacios, paréntesis huérfanos)
+    text = re.sub(r'\(\s*\)', '', text)  # paréntesis vacíos
+    text = re.sub(r'  +', ' ', text)  # dobles espacios
+    
+    # 11. ELIMINAR líneas en blanco excesivas (máximo 2 seguidas)
     text = re.sub(r'\n{4,}', '\n\n\n', text)
     
     print("   🧹 [Post-Processor] Contenido limpiado de artefactos de IA")
