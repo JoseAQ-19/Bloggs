@@ -1,0 +1,25 @@
+{
+  "category": "ia",
+  "scouted_at": "2026-02-22T18:21:45.781982+00:00",
+  "total_candidates": 16,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "ChatGPT, Gemini, Claude: ¿Cuál es el MEJOR para montar un negocio REAL (y qué revela sobre el futuro)?",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic vs. Pentagon: Why Claude's AI Power Sparks Government Clash",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "OpenAI & Reliance: The Risky Gamble to Overtake Google with AI-Powered JioHotstar",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
