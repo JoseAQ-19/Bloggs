@@ -678,6 +678,22 @@ CRITICAL RULES:
 
     outline_section = f"\n\nARTICLE OUTLINE (follow this structure strictly):\n{outline}\n" if outline else ""
 
+    # Configurar ejemplos dinámicos por idioma para inyectar en el prompt militar
+    if lang == "es":
+        ex_opening = '"Tesla ofrece una nueva versión básica del Cybertruck AWD, recortando 20.000 dólares de su precio sin sacrificar potencia."'
+        ex_bullets = """   * Tesla ofrece una nueva versión básica del Cybertruck con la misma potencia que el modelo Premium por 20.000 dólares menos.
+   * Aunque el rendimiento se mantiene, Tesla ha eliminado la suspensión neumática y la tapicería de cuero sintético.
+   * El Cybertruck de entrada arranca en 62.235 dólares, mientras que el Cyberbeast baja 15.000 dólares hasta los 102.235."""
+        ex_link1 = '"En respuesta a [un post en X](https://x.com/...) sobre el nuevo acabado, Elon Musk dijo..."'
+        ex_link2 = '"Tesla amplió su arsenal con una nueva [variante de tracción trasera](https://...), para acabar [cancelando el modelo seis meses después](https://...)."'
+    else:
+        ex_opening = '"Tesla is offering a new base trim for the Cybertruck, which features the same dual-motor all-wheel drive powertrain as the Premium model but for $20,000 less."'
+        ex_bullets = """   * Tesla is offering a new base trim for the Cybertruck with the same powertrain as the Premium but for $20,000 less.
+   * While the truck's performance is mostly unchanged, Tesla ditched the air suspension and leatherette upholstery.
+   * The entry-level Cybertruck starts at $62,235, and Tesla has also lowered the Cyberbeast by $15K to $102,235."""
+        ex_link1 = '"In response to [a post on X](https://x.com/...) about the new trim, Elon Musk said..."'
+        ex_link2 = '"Tesla expanded its arsenal with a new [entry-level rear-wheel-drive variant](https://...), only to [cancel the model six months later](https://...)."'
+
     # === PROMPT MILITAR ===
     anti_chatbot_shield = f"""
 ════════════════════════════════════════════════════
@@ -692,7 +708,7 @@ CRITICAL RULES:
 
 📐 AUTOBLOG STRUCTURE (follow this EXACT layout):
 
-1. OPENING PARAGRAPH: One powerful sentence with the core news. Max 2 sentences. Like Autoblog: "Tesla is offering a new base trim for the Cybertruck, which features the same dual-motor all-wheel drive powertrain as the Premium model but for $20,000 less."
+1. OPENING PARAGRAPH: One powerful sentence with the core news. Max 2 sentences. Like Autoblog: {ex_opening}
 
 2. TL;DR BULLET BLOCK (immediately after opening, NO header, NO "## Key Takeaways"):
    Write exactly 3 bullet points starting with "*". Each must be:
@@ -700,9 +716,7 @@ CRITICAL RULES:
    - Contains at least ONE specific number, name, or date
    - Could be directly quoted by Google AI Overview as a standalone fact
    Example from Autoblog:
-   * Tesla is offering a new base trim for the Cybertruck with the same powertrain as the Premium but for $20,000 less.
-   * While the truck's performance is mostly unchanged, Tesla ditched the air suspension and leatherette upholstery.
-   * The entry-level Cybertruck starts at $62,235, and Tesla has also lowered the Cyberbeast by $15K to $102,235.
+{ex_bullets}
 
 3. BODY SECTIONS: Use descriptive ## H2 headers (NEVER "Section 1", "Section 2"). Then short paragraphs.
 
@@ -729,8 +743,8 @@ CRITICAL RULES:
 
 🔗 LINK SHIELD (Autoblog style — links WOVEN into sentences):
 - Include at least 3 outbound links woven naturally INTO sentences.
-- Autoblog example: "In response to [a post on X](https://x.com/...) about the new trim, Elon Musk said..."
-- Autoblog example: "Tesla expanded its arsenal with a new [entry-level rear-wheel-drive variant](https://...), only to [cancel the model six months later](https://...)."
+- Autoblog example: {ex_link1}
+- Autoblog example: {ex_link2}
 - ONLY use URLs that appear VERBATIM in the RESEARCH DATA. Copy-paste the exact URL.
 - If a URL in the research contains "vertexaisearch.cloud.google.com" DO NOT USE IT. Mention the source name in **bold** instead.
 - If a fact has NO URL in the research, mention the source as **Source Name** with NO hyperlink.
