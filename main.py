@@ -240,6 +240,33 @@ BANNED WORDS AND PHRASES:
 - "Remains to be seen" / "Time will tell"
 """
 
+PROMPT_TOOLS_ES = """ROL: Eres un Experto en Automatización y Redactor Técnico Senior al estilo de Xataka Basics o el blog oficial de Zapier. Tu misión es enseñar algo útil y práctico. 
+No haces periodismo de opinión, haces Guías Paso a Paso orientadas a la resolución de problemas (Problem-Solution Framework). Escribes con claridad absoluta.
+
+FRAMEWORK COGNITIVO (OBLIGATORIO):
+1. BLUF CONTINUO (Bottom Line Up Front): La respuesta a la intención de búsqueda va en las primeras 2 frases.
+2. ESTRUCTURA MILITAR: Problema -> Solución Conceptual -> Instrucciones Numeradas -> Expected Outcome.
+3. NEGRILLAS EN UI: Cualquier elemento de la interfaz de usuario (Botones, Menús, Pestañas) DEBE ir en negrita. Ej: Haz clic en **Configuración** > **Avanzado**.
+4. EJEMPLOS DE USO REAL: Toda teoría debe tener un caso de uso práctico aplicable a un profesional o empresa.
+5. PRECISIÓN QUIRÚRGICA: Si un paso falla porque cambiaste una palabra, fracasaste. Sé exacto.
+
+PALABRAS VETADAS:
+- "Magia", "Un mundo de posibilidades", "Fácil y rápido", "Simplemente", "Descubre cómo"
+"""
+
+PROMPT_TOOLS_EN = """ROLE: You are an Automation Expert and Senior Technical Writer in the style of How-To Geek or the Zapier blog. You don't do opinion journalism; you do problem-oriented Step-by-Step Guides. You write with clinical clarity.
+
+COGNITIVE FRAMEWORK (MANDATORY):
+1. BLUF (Bottom Line Up Front): The answer to the search intent must be in the first 2 sentences. 
+2. MILITARY STRUCTURE: The Problem -> The Conceptual Solution -> Numbered Instructions -> Expected Outcome.
+3. BOLD UI ELEMENTS: Any user interface element (Buttons, Menus, Tabs) MUST be in bold. Ex: Click on **Settings** > **Advanced**.
+4. REAL USE CASES: Every theoretical concept must be tied to a practical business or professional use case.
+5. SURGICAL PRECISION: If a user fails because you used a vague word, you failed. Be exact.
+
+BANNED WORDS:
+- "Magic", "World of possibilities", "Quick and easy", "Simply", "Discover how"
+"""
+
 SYSTEM_FORMAT_RULES = """
 CRITICAL FORMATTING RULES (ZERO TOLERANCE — VIOLATION = ARTICLE REJECTED):
 
@@ -315,8 +342,8 @@ NICHES = {
         "name": "Novum Tools",
         "output_dir": "content/tools",
         "search_context": "tutorial guide automation workflow no-code",
-        "prompt_es": PROMPT_PERSONA_ES,
-        "prompt_en": PROMPT_PERSONA_EN
+        "prompt_es": PROMPT_TOOLS_ES,
+        "prompt_en": PROMPT_TOOLS_EN
     }
 }
 
@@ -848,7 +875,7 @@ CRITICAL RULES:
 
 🌐 GEO-DOMINANCE & FORMATTING:
 - The 3 TL;DR bullets (described above) ARE the GEO signal. No separate "Key Takeaways" header needed.
-- NO TABLES ALLOWED: Do NOT use Markdown tables (| --- |). They render poorly on our blog. If comparing data, use spaced bullet lists instead.
+- TABLE USE (PROBABILISTIC): If comparing 3 or more complex data points, use a clean Markdown table (| --- |). Otherwise, rely on spaced bullet lists. Vary your structural choices.
 - SPACED LISTS: Whenever you use a bulleted list (* ), ALWAYS add a blank line between each bullet point so they don't render bunched together.
 - ENTITY DENSITY: Always write "Satya Nadella, CEO de Microsoft" never "el CEO". Full names everywhere.
 - CITATION FORMAT: Weave source names into sentences: "Según [nombre de la fuente](URL), dato..." Never cite anonymously.
@@ -937,7 +964,7 @@ AUTOBLOG HOUSE STYLE CHECKLIST (apply ALL):
    - Replace vague pronouns ("the company", "the expert", "el CEO") with actual names and titles.
 
 7. TABLE AND LIST CHECK (CRITICAL FORMATTING):
-   - TABLE REMOVAL: If there is ANY Markdown table in the draft (| --- |), DESTROY the table and convert its contents into a text list. Tables break our mobile layout and are strictly forbidden.
+   - TABLE OPTIMIZATION: Keep Markdown tables ONLY if they compare 3 or more entities clearly. If it's a simple list, convert to text. Ensure table headers are clean.
    - LIST SPACING: Ensure there is an empty line between EVERY bullet point in the article. Bullets must never touch each other.
 
 8. CLOSING:
@@ -1262,6 +1289,10 @@ def main():
     
     # --- FALLBACK: TrendHunter clásico si no hay JSON o no hay temas válidos ---
     if not tema:
+        if os.environ.get("GITHUB_ACTIONS") == "true":
+            print("🛑 [Relay-Race] Ejecución en GitHub Actions: no hay JSON válido. Abortando para evitar SPoF (no fallback).")
+            return
+            
         print(f"   🔄 [Fallback] Usando TrendHunter clásico...")
         for topic_attempt in range(5):
             candidate = trend_hunter.TrendHunter.get_trend(cat)
