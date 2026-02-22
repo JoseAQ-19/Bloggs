@@ -12,6 +12,8 @@ jobs:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -24,6 +26,7 @@ jobs:
           git config --global user.name "JoseAQ-19"
           git config --global user.email "josearizaquintero@gmail.com"
           git add data/trends_youtube_en.json
+          git diff --staged --quiet && echo "No trends found" && exit 0
           git commit -m "🔭 Scout YouTube (EN): research completed"
           git pull --rebase origin main
           git push
