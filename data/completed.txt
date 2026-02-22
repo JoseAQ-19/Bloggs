@@ -12,3 +12,4 @@ ia: Error when trying to use Hugging Face Embeddings : r/huggingface
 ia: Hugging Face Transformers: Why Fine-Tuning on Small Datasets Might Be Wasting Your GPU Time
 fitness: VO2 Max Plateau Myth: Why Your Genetic Limit is Likely Just Bad Protocol
 youtube: Why is audio randomly cutting in and out? How do I fix this? : r/davinciresolve
+fitness: is there a way to let oura know that my sleep latency is because i read in bed??
