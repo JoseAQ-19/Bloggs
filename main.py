@@ -82,6 +82,7 @@ FRAMEWORK COGNITIVO (OBLIGATORIO):
 2. EL ÁNGULO CONTRARIANO: Ataca la sabiduría convencional del fitness. Si la fuente dice "la creatina es segura", dedica un párrafo a los casos donde NO es segura. Si dice "el cardio en zona 2 es el futuro", cuestiona por qué los sprinters olímpicos entrenan de forma opuesta.
 3. PROTOCOLO PRÁCTICO: Cada artículo DEBE terminar con al menos UNA recomendación concreta y ejecutable (series, repeticiones, frecuencia, dosis, timing). El lector DEBE poder aplicar algo HOY.
 4. CERO BROSCIENCE: Está PROHIBIDO citar "estudios" sin nombrar la institución. Está PROHIBIDO usar frases como "los expertos dicen" sin nombrar al experto.
+5. PERSPECTIVA DE LONGEVIDAD: Siempre que sea posible, conecta los datos con el concepto de "geroprotección" y envejecimiento saludable (healthspan). No escribas solo para el gimnasio, escribe para que el lector viva 100 años con salud.
 
 PALABRAS Y FRASES VETADAS:
 - "En el vertiginoso mundo del fitness"
@@ -89,6 +90,8 @@ PALABRAS Y FRASES VETADAS:
 - "Escucha a tu cuerpo" (sin contexto específico)
 - "Cada persona es diferente" (como excusa para no dar recomendaciones)
 - "Consulta a tu médico" (como cierre genérico)
+- "Secretos para adelgazar"
+- "Trucos rápidos"
 """
 
 PROMPT_FITNESS_EN = """ROLE: You are an Exercise Physiologist and Investigative Sports Science Journalist, cynical, data-driven, and allergic to pseudoscience. You hold a PhD in human physiology and have 10 years writing for advanced athletes. You despise generic "5 exercises to burn fat" articles and Instagram gurus with zero credentials.
@@ -678,15 +681,26 @@ CRITICAL RULES:
 
     outline_section = f"\n\nARTICLE OUTLINE (follow this structure strictly):\n{outline}\n" if outline else ""
 
-    # Configurar ejemplos dinámicos por idioma para inyectar en el prompt militar (Ref: Autoblog & Genbeta)
+    # Configurar ejemplos dinámicos por idioma y CATEGORÍA para inyectar en el prompt militar
     if lang == "es":
-        ex_opening = '"Meta acaba de cerrar una de las operaciones más llamativas del año: la compra de Manus por 2.000 millones de dólares para liderar la carrera de los agentes de IA."'
-        ex_bullets = """   * La adquisición de Manus, una startup de origen chino con sede en Singapur, busca dotar a Meta de agentes capaces de ejecutar tareas complejas con mínima supervisión.
+        if category == "fitness":
+            # Estilo Vitónica: Científico, salud, longevidad, datos biológicos
+            ex_opening = '"Las personas que incluyen polifenoles en su dieta son las que mejor envejecen y viven más años, según los últimos estudios sobre zonas azules."'
+            ex_bullets = """   * Los polifenoles actúan como "geroprotectores" naturales, ralentizando el deterioro celular al influir en los mecanismos que regulan el envejecimiento.
+   * En zonas como Okinawa, el consumo de antocianinas presentes en la batata morada es clave para la salud cardiovascular de sus centenarios. 
+   * La evidencia publicada en el [Aging Research Reviews](https://...) asocia directamente la ingesta de estos compuestos con una reducción drástica de la inflamación sistémica."""
+            ex_link1 = '"Lo más interesante de estos compuestos, según explica [Vitónica](https://...), es que no solo previenen enfermedades, sino que alargan la vida saludable."'
+            ex_link2 = '"Al igual que ocurre con el [aceite de oliva virgen extra](https://...), el café aporta estilbenos y ácidos fenólicos que protegen el cerebro."'
+        else:
+            # Estilo Genbeta/Xataka: Negocio, IA, impacto corporativo, cínico
+            ex_opening = '"Meta acaba de cerrar una de las operaciones más llamativas del año: la compra de Manus por 2.000 millones de dólares para liderar la carrera de los agentes de IA."'
+            ex_bullets = """   * La adquisición de Manus, una startup de origen chino con sede en Singapur, busca dotar a Meta de agentes capaces de ejecutar tareas complejas con mínima supervisión.
    * La operación, valorada en más de 2.000 millones de dólares, responde al cambio de paradigma: de los chatbots que hablan a los agentes que "hacen".
    * Meta integrará esta tecnología en sus servicios globales, centrándose en automatizar flujos de trabajo de oficina como análisis de datos y generación de informes autónomos."""
-        ex_link1 = '"Según el análisis de [un experto en X](https://x.com/...), el movimiento de Zuckerberg no es solo talento, es una barrera geopolítica contra China."'
-        ex_link2 = '"Manus saltó a la fama por ser el [primer trabajador digital autónomo](https://...), superando la barrera de los simples chatbots de [conversación generativa](https://...)."'
+            ex_link1 = '"Según el análisis de [un experto en X](https://x.com/...), el movimiento de Zuckerberg no es solo talento, es una barrera geopolítica contra China."'
+            ex_link2 = '"Manus saltó a la fama por ser el [primer trabajador digital autónomo](https://...), superando la barrera de los simples chatbots de [conversación generativa](https://...)."'
     else:
+        # Estilo Autoblog/TechCrunch: Inglés News
         ex_opening = '"Tesla is offering a new base trim for the Cybertruck, which features the same dual-motor all-wheel drive powertrain as the Premium model but for $20,000 less."'
         ex_bullets = """   * Tesla is offering a new base trim for the Cybertruck with the same powertrain as the Premium but for $20,000 less.
    * While the truck's performance is mostly unchanged, Tesla ditched the air suspension and leatherette upholstery.
