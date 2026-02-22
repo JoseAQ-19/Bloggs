@@ -1,7 +1,7 @@
 name: "Scout Crypto - Spanish"
 on:
   schedule:
-    - cron: '30 10 * * *'
+    - cron: '38 14 * * *'
   workflow_dispatch:
 permissions:
   contents: write
