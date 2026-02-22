@@ -204,7 +204,7 @@ def fetch_exa_news(query, domains, limit=5):
 # FUENTE 4: Gemini Grounding (Búsqueda en tiempo real)
 # ============================================================
 
-def fetch_gemini_grounding(category, config):
+def fetch_gemini_grounding(category, config, target_lang=None):
     """Usa Gemini con Google Search grounding para tendencias en tiempo real."""
     headlines = []
     if not client:
@@ -214,35 +214,34 @@ def fetch_gemini_grounding(category, config):
         google_search_tool = types.Tool(google_search=types.GoogleSearch())
         
         cat_type = config.get("type", "technical")
+        lang_label = target_lang.upper() if target_lang else "BOTH"
+        
+        if target_lang == "es":
+            market_instruction = "Search ONLY in SPANISH for trending topics in SPAIN and LATAM."
+            output_format = "[ES] headline in Spanish\n" * 6
+        elif target_lang == "en":
+            market_instruction = "Search ONLY in ENGLISH for trending topics in the US and globally."
+            output_format = "[EN] headline in English\n" * 6
+        else:
+            market_instruction = "For SPANISH market: search in Spanish for trending topics in Spain.\nFor ENGLISH market: search for trending topics in the US/global."
+            output_format = "[ES] headline in Spanish\n[ES] headline in Spanish\n[ES] headline in Spanish\n[EN] headline in English\n[EN] headline in English\n[EN] headline in English"
         
         if cat_type == "news":
             prompt = f"""Search for the MOST TALKED ABOUT {category}-related events, drama, controversies, or viral moments happening RIGHT NOW (this week, February 2026).
 
-For SPANISH market: search in Spanish for trending topics in Spain.
-For ENGLISH market: search for trending topics in the US/global.
+{market_instruction}
 
 OUTPUT: List 6 specific, time-sensitive news headlines in this format:
-[ES] headline in Spanish
-[ES] headline in Spanish  
-[ES] headline in Spanish
-[EN] headline in English
-[EN] headline in English
-[EN] headline in English
+{output_format}
 
 RULES: No tutorials. No guides. Only NEWS, drama, and trending events."""
         else:
             prompt = f"""Search for the MOST INTERESTING {category}-related developments, launches, controversies, or breakthroughs happening RIGHT NOW (this week, February 2026).
 
-For SPANISH market: search in Spanish for relevant {category} news in Spain/LATAM.
-For ENGLISH market: search for global {category} news and developments.
+{market_instruction}
 
 OUTPUT: List 6 specific, time-sensitive headlines in this format:
-[ES] headline in Spanish
-[ES] headline in Spanish
-[ES] headline in Spanish
-[EN] headline in English
-[EN] headline in English
-[EN] headline in English
+{output_format}
 
 RULES: Focus on specific events, data, launches, or controversies. No generic evergreen content."""
         
@@ -264,7 +263,7 @@ RULES: Focus on specific events, data, launches, or controversies. No generic ev
                     if len(clean.split()) >= 4:
                         headlines.append({"title": clean, "source": "gemini_grounding", "lang": "en", "score": 0, "url": ""})
             
-            print(f"   🌐 [Grounding] {len(headlines)} titulares en tiempo real")
+            print(f"   🌐 [Grounding/{lang_label}] {len(headlines)} titulares en tiempo real")
     except Exception as e:
         print(f"   ⚠️ [Grounding] Error: {e}")
     
@@ -357,59 +356,70 @@ OUTPUT ONLY THE 3 LINES. Nothing else."""
 # MAIN PIPELINE
 # ============================================================
 
-def scout(category):
-    """Pipeline completo de scouting para una categoría."""
+def scout(category, target_lang=None):
+    """Pipeline completo de scouting para una categoría.
+    Si target_lang es 'es' o 'en', busca SOLO en ese idioma.
+    """
     config = CATEGORY_CONFIG.get(category)
     if not config:
         print(f"❌ Categoría '{category}' no reconocida.")
         sys.exit(1)
     
+    lang_label = target_lang.upper() if target_lang else "BOTH"
     print(f"\n{'='*60}")
-    print(f"🔭 TREND SCOUT V3 — Categoría: {category.upper()}")
+    print(f"🔭 TREND SCOUT V3 — Categoría: {category.upper()} | Idioma: {lang_label}")
     print(f"{'='*60}\n")
     
     all_headlines = []
     
-    # === FUENTE 1: HackerNews ===
-    if config.get("hn_tags"):
+    # === FUENTE 1: HackerNews (solo EN — es un foro anglosajón) ===
+    if target_lang != "es" and config.get("hn_tags"):
         hn_results = fetch_hackernews(config["hn_tags"], limit=5)
         all_headlines.extend(hn_results)
     
-    # === FUENTE 2: Google News RSS (ES + EN) ===
-    for lang in ["es", "en"]:
+    # === FUENTE 2: Google News RSS (solo el idioma objetivo) ===
+    langs_to_search = [target_lang] if target_lang else ["es", "en"]
+    for lang in langs_to_search:
         queries = config.get("news_queries", {}).get(lang, [])
         if queries:
-            query = random.choice(queries)
-            gn_results = fetch_google_news(query, lang=lang, limit=5)
-            all_headlines.extend(gn_results)
+            # Buscar con TODAS las queries para maximizar cobertura en modo monolingüe
+            for query in queries:
+                gn_results = fetch_google_news(query, lang=lang, limit=5)
+                all_headlines.extend(gn_results)
     
-    # === FUENTE 3: Exa Neural Search ===
-    if config.get("exa_domains"):
+    # === FUENTE 3: Exa Neural Search (solo EN — dominios anglosajones) ===
+    if target_lang != "es" and config.get("exa_domains"):
         exa_query = random.choice(
             config.get("news_queries", {}).get("en", [f"trending {category} news"])
         )
         exa_results = fetch_exa_news(exa_query, config["exa_domains"], limit=5)
         all_headlines.extend(exa_results)
     
-    # === FUENTE 4: Gemini Grounding ===
-    grounding_results = fetch_gemini_grounding(category, config)
+    # === FUENTE 4: Gemini Grounding (forzado al idioma objetivo) ===
+    grounding_results = fetch_gemini_grounding(category, config, target_lang=target_lang)
     all_headlines.extend(grounding_results)
     
-    print(f"\n   📊 TOTAL: {len(all_headlines)} titulares recopilados")
+    print(f"\n   📊 TOTAL: {len(all_headlines)} titulares recopilados [{lang_label}]")
     
     # === SELECCIÓN LLM ===
     best_topics = select_best_topics(all_headlines, category, config, count=3)
     
+    # Forzar el lang correcto en todos los topics seleccionados (monolingüe)
+    if target_lang:
+        for t in best_topics:
+            t["lang"] = target_lang
+    
     # === GUARDAR JSON ===
     output = {
         "category": category,
+        "lang": target_lang or "mixed",
         "scouted_at": datetime.now(timezone.utc).isoformat(),
         "total_candidates": len(all_headlines),
         "topics": [
             {
                 "rank": i + 1,
                 "title": t["title"],
-                "lang": t.get("lang", "en"),
+                "lang": t.get("lang", target_lang or "en"),
                 "source": t.get("source", "unknown")
             }
             for i, t in enumerate(best_topics)
@@ -417,7 +427,9 @@ def scout(category):
     }
     
     os.makedirs("data", exist_ok=True)
-    output_path = f"data/trends_{category}.json"
+    # Fichero con sufijo de idioma: trends_ia_es.json / trends_ia_en.json
+    lang_suffix = f"_{target_lang}" if target_lang else ""
+    output_path = f"data/trends_{category}{lang_suffix}.json"
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     
@@ -432,6 +444,7 @@ def scout(category):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Trend Scout V3 — Pre-Searcher Agent")
     parser.add_argument('--category', type=str, required=True, help='Category: ia, fitness, crypto, youtube, viral')
+    parser.add_argument('--lang', type=str, choices=['es', 'en'], default=None, help='Force single-language search: es (Spain/LATAM) or en (US/Global)')
     args = parser.parse_args()
     
-    scout(args.category.lower())
+    scout(args.category.lower(), target_lang=args.lang)

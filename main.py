@@ -1047,8 +1047,10 @@ translationKey: "{translation_key}"
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--category', type=str, required=True, help='Category or tools')
+    parser.add_argument('--lang', type=str, choices=['es', 'en'], default=None, help='Force language: es (Spain) or en (US)')
     args = parser.parse_args()
     cat = args.category.lower()
+    forced_lang = args.lang
     
     # --- MODO TOOLS ---
     if cat == "tools":
@@ -1099,8 +1101,21 @@ def main():
     print(f"🚀 INICIANDO PENTAGON: {NICHES[cat]['name']}")
     
     # --- RELAY-RACE V2: Leer temas pre-investigados del Scout ---
-    trends_file = f"data/trends_{cat}.json"
+    # Buscar primero el JSON con sufijo de idioma (nuevo), luego sin sufijo (viejo)
     tema = None
+    tema_lang = forced_lang  # Si viene de CLI, ya sabemos el idioma
+    
+    if forced_lang:
+        trends_file = f"data/trends_{cat}_{forced_lang}.json"
+    else:
+        trends_file = f"data/trends_{cat}.json"
+    
+    # Fallback: si no existe el archivo con sufijo, probar sin sufijo
+    if not os.path.exists(trends_file) and forced_lang:
+        fallback_file = f"data/trends_{cat}.json"
+        if os.path.exists(fallback_file):
+            trends_file = fallback_file
+            print(f"   🔄 [Relay-Race] Fichero con sufijo no encontrado, usando fallback: {trends_file}")
     
     if os.path.exists(trends_file):
         print(f"   📂 [Relay-Race] Leyendo temas pre-investigados: {trends_file}")
@@ -1110,7 +1125,8 @@ def main():
             
             topics = trends_data.get("topics", [])
             scouted_at = trends_data.get("scouted_at", "")
-            print(f"   📋 {len(topics)} temas disponibles (scouted: {scouted_at[:19]})")
+            json_lang = trends_data.get("lang", None)
+            print(f"   📋 {len(topics)} temas disponibles (scouted: {scouted_at[:19]}, lang: {json_lang})")
             
             # Buscar el primer tema que pase safety check y no sea redundante
             for t in topics:
@@ -1124,7 +1140,10 @@ def main():
                     print(f"   🔄 Tema '{candidate}' es redundante. Saltando...")
                     continue
                 tema = candidate
-                print(f"   ✅ [Relay-Race] Tema seleccionado del Scout: {tema}")
+                # El idioma viene del CLI o del JSON del topic
+                if not tema_lang:
+                    tema_lang = t.get("lang", json_lang or "es")
+                print(f"   ✅ [Relay-Race] Tema seleccionado: {tema} [{tema_lang.upper()}]")
                 break
             
             # Limpiar el JSON después de leer (evitar reusar temas viejos)
@@ -1150,39 +1169,36 @@ def main():
                 print(f"   🔄 [Intento {topic_attempt+1}/5] Tema '{candidate}' es redundante. Reintentando...")
                 continue
             tema = candidate
+            tema_lang = random.choice(["es", "en"])
             break
     
     if not tema:
         print(f"🚫 ABORTADO: No se encontró tema válido para '{cat}'.")
         return
     
-    print(f"🎯 TEMA: {tema}")
+    print(f"🎯 TEMA: {tema} | IDIOMA ORIGEN: {tema_lang.upper()}")
     res = researcher.Researcher()
-    # Generar Translation Key única para este par de artículos
+    # Generar Translation Key única (aunque sea monolingüe, Hugo la usa por si después hay traducción manual)
     trans_key = str(uuid.uuid4())
     
-    for i, lang in enumerate(["es", "en"]):
-        # === ANTI-RATE-LIMIT: Pausa entre idiomas ===
-        if i > 0:
-            print("   ⏳ [Trinity] Anti-Rate-Limit: sleep(15) entre idiomas...")
-            time.sleep(15)
-        
-        # === AISLAMIENTO: Variables limpias por idioma ===
-        meta = None
-        texto = None
-        contexto = None
-        
-        # V5 GEO-RESEARCH: Investigar Específicamente por Idioma
-        contexto = res.research_topic(
-            topic=tema,
-            category=cat,
-            search_context=NICHES[cat].get('search_context', ''),
-            lang=lang
-        )
-        
-        meta = planificar_articulo(tema, contexto, lang, NICHES[cat])
-        texto = escribir_articulo(meta, contexto, lang, NICHES[cat], category=cat)
-        guardar_post(meta, texto, lang, cat, translation_key=trans_key)
+    # === AISLAMIENTO: Variables limpias por idioma ===
+    meta = None
+    texto = None
+    contexto = None
+    
+    print(f"   🌐 [Relay-Race] Ejecutando tubería nativa SOLO para audiencia: {tema_lang.upper()}")
+    
+    # V5 GEO-RESEARCH: Investigar Específicamente por Idioma Autóctono
+    contexto = res.research_topic(
+        topic=tema,
+        category=cat,
+        search_context=NICHES[cat].get('search_context', ''),
+        lang=tema_lang
+    )
+    
+    meta = planificar_articulo(tema, contexto, tema_lang, NICHES[cat])
+    texto = escribir_articulo(meta, contexto, tema_lang, NICHES[cat], category=cat)
+    guardar_post(meta, texto, tema_lang, cat, translation_key=trans_key)
         
     with open(COMPLETED_FILE, 'a') as f:
         f.write(f"{cat}: {tema}\n")

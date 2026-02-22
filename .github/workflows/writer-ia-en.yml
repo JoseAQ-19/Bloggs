@@ -1,8 +1,8 @@
-name: "Writer - IA"
+name: "Writer - IA EN 🇺🇸"
 
 on:
   workflow_run:
-    workflows: ["Scout - IA"]
+    workflows: ["Scout - IA EN 🇺🇸"]
     types:
       - completed
   workflow_dispatch:
@@ -13,6 +13,7 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -35,7 +36,7 @@ jobs:
           mkdir -p ~/.notebooklm-mcp
           echo "$NOTEBOOKLM_AUTH" > ~/.notebooklm-mcp/auth.json
 
-      - name: Run Writer
+      - name: Write English Article
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
@@ -43,7 +44,7 @@ jobs:
           ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
-        run: python main.py --category ia
+        run: python main.py --category ia --lang en
 
       - name: Push Content
         run: |
@@ -51,6 +52,6 @@ jobs:
           git config --global user.email "josearizaquintero@gmail.com"
           git add content/ data/ static/images/
           git diff --staged --quiet && echo "No new content generated" && exit 0
-          git commit -m "🤖 IA Content Generated"
+          git commit -m "🤖 IA-EN Content Generated 🇺🇸"
           git pull --rebase origin main
           git push
