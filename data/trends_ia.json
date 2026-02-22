@@ -1,0 +1,25 @@
+{
+  "category": "ia",
+  "scouted_at": "2026-02-22T16:30:54.186994+00:00",
+  "total_candidates": 22,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "SaaSpocalypse Now? Why Anthropic's AI Could Make Traditional Software Extinct",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Forget SaaS, Meet AI: Databricks CEO Predicts Software Irrelevance — Is He Right?",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "The Pentagon vs. Anthropic: Inside the Fight Over Claude's Usage",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
