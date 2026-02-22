@@ -832,26 +832,62 @@ def main():
 
     print(f"🚀 INICIANDO PENTAGON: {NICHES[cat]['name']}")
     
-    # --- FENIX V4: TOPIC DISCOVERY CON REINTENTOS ---
-    # Intenta hasta 5 veces encontrar un tema no redundante y seguro
+    # --- RELAY-RACE V2: Leer temas pre-investigados del Scout ---
+    trends_file = f"data/trends_{cat}.json"
     tema = None
-    for topic_attempt in range(5):
-        candidate = trend_hunter.TrendHunter.get_trend(cat)
-        if not candidate:
-            print(f"   ⚠️ [Intento {topic_attempt+1}/5] TrendHunter no devolvió tema. Reintentando...")
-            continue
-        if not safety_check(candidate):
-            print(f"   ⚠️ [Intento {topic_attempt+1}/5] Tema '{candidate}' falló safety check. Reintentando...")
-            continue
-        if is_topic_redundant(candidate, cat):
-            print(f"   🔄 [Intento {topic_attempt+1}/5] Tema '{candidate}' es redundante. Reintentando...")
-            continue
-        # ¡Tema válido encontrado!
-        tema = candidate
-        break
+    
+    if os.path.exists(trends_file):
+        print(f"   📂 [Relay-Race] Leyendo temas pre-investigados: {trends_file}")
+        try:
+            with open(trends_file, 'r', encoding='utf-8') as f:
+                trends_data = json.load(f)
+            
+            topics = trends_data.get("topics", [])
+            scouted_at = trends_data.get("scouted_at", "")
+            print(f"   📋 {len(topics)} temas disponibles (scouted: {scouted_at[:19]})")
+            
+            # Buscar el primer tema que pase safety check y no sea redundante
+            for t in topics:
+                candidate = t.get("title", "")
+                if not candidate:
+                    continue
+                if not safety_check(candidate):
+                    print(f"   ⚠️ Tema '{candidate}' falló safety check. Saltando...")
+                    continue
+                if is_topic_redundant(candidate, cat):
+                    print(f"   🔄 Tema '{candidate}' es redundante. Saltando...")
+                    continue
+                tema = candidate
+                print(f"   ✅ [Relay-Race] Tema seleccionado del Scout: {tema}")
+                break
+            
+            # Limpiar el JSON después de leer (evitar reusar temas viejos)
+            if tema:
+                os.remove(trends_file)
+                print(f"   🗑️ [Relay-Race] {trends_file} consumido y eliminado")
+                
+        except Exception as e:
+            print(f"   ⚠️ [Relay-Race] Error leyendo {trends_file}: {e}. Cayendo a TrendHunter...")
+    
+    # --- FALLBACK: TrendHunter clásico si no hay JSON o no hay temas válidos ---
+    if not tema:
+        print(f"   🔄 [Fallback] Usando TrendHunter clásico...")
+        for topic_attempt in range(5):
+            candidate = trend_hunter.TrendHunter.get_trend(cat)
+            if not candidate:
+                print(f"   ⚠️ [Intento {topic_attempt+1}/5] TrendHunter no devolvió tema. Reintentando...")
+                continue
+            if not safety_check(candidate):
+                print(f"   ⚠️ [Intento {topic_attempt+1}/5] Tema '{candidate}' falló safety check. Reintentando...")
+                continue
+            if is_topic_redundant(candidate, cat):
+                print(f"   🔄 [Intento {topic_attempt+1}/5] Tema '{candidate}' es redundante. Reintentando...")
+                continue
+            tema = candidate
+            break
     
     if not tema:
-        print(f"🚫 ABORTADO: 5 intentos fallidos para encontrar tema no redundante en '{cat}'. Revisa completed.txt o seeds.")
+        print(f"🚫 ABORTADO: No se encontró tema válido para '{cat}'.")
         return
     
     print(f"🎯 TEMA: {tema}")
