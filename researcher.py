@@ -320,7 +320,7 @@ Return ONLY the final string. NO quotation marks. NO markdown. NO explanations. 
         research_brief = build_research_query(super_topic, category, search_context, lang=lang)
         
         # 🥇 CAPA 1: NOTEBOOKLM DEEP RESEARCH
-        result = self._layer_1_notebooklm(super_topic, research_brief, lang)
+        result = self._layer_1_notebooklm(super_topic, research_brief, lang, category=category)
         if result: return result
         
         # 🥈 CAPA 2: GEMINI GROUNDING (con brief E-E-A-T)
@@ -330,7 +330,74 @@ Return ONLY the final string. NO quotation marks. NO markdown. NO explanations. 
         # 🥉 CAPA 3: SCRAPING CLÁSICO (pasamos el topic simple original para evitar romper Google News RSS)
         return self._layer_3_classic_scraping(topic, lang)
 
-    def _layer_1_notebooklm(self, topic, research_brief, lang):
+    # =============================================
+    # SUBQUERIES ESPECIALIZADAS POR NICHO
+    # Cada nicho busca datos en el idioma de su industria
+    # =============================================
+    NICHE_SUBQUERIES = {
+        "ia": {
+            "en": [
+                "{topic} benchmark comparison pricing enterprise ROI",
+                "{topic} enterprise case study adoption failure rate",
+                "{topic} criticism risk regulation AI safety concern"
+            ],
+            "es": [
+                "{topic} comparativa precio rendimiento empresa",
+                "{topic} caso real adopción empresarial resultados",
+                "{topic} crítica riesgo regulación preocupación seguridad IA"
+            ]
+        },
+        "crypto": {
+            "en": [
+                "{topic} on-chain data TVL whale movement Dune Analytics",
+                "{topic} tokenomics vesting schedule insider selling funding",
+                "{topic} SEC regulation lawsuit risk class action"
+            ],
+            "es": [
+                "{topic} datos on-chain TVL movimiento ballenas Dune Analytics",
+                "{topic} tokenomics calendario vesting venta insiders financiación",
+                "{topic} regulación SEC demanda riesgo legal"
+            ]
+        },
+        "fitness": {
+            "en": [
+                "{topic} randomized controlled trial pubmed meta-analysis sample size",
+                "{topic} real athlete protocol training program sets reps dosage",
+                "{topic} side effects contraindication risk long-term safety"
+            ],
+            "es": [
+                "{topic} ensayo clínico controlado pubmed meta-análisis muestra",
+                "{topic} protocolo atleta entrenamiento programa series repeticiones dosis",
+                "{topic} efectos secundarios contraindicación riesgo seguridad largo plazo"
+            ]
+        },
+        "youtube": {
+            "en": [
+                "{topic} subscriber count views revenue earnings socialblade",
+                "{topic} brand deal sponsor controversy backlash response",
+                "{topic} audience reaction community post comment sentiment"
+            ],
+            "es": [
+                "{topic} suscriptores visualizaciones ingresos estimados",
+                "{topic} acuerdo marca patrocinio polémica reacción respuesta",
+                "{topic} reacción audiencia comentarios sentimiento comunidad"
+            ]
+        },
+        "viral": {
+            "en": [
+                "{topic} Google Trends data spike origin first post",
+                "{topic} sociological analysis Gen Z behavior Pew Research",
+                "{topic} criticism backlash dying trend counter movement"
+            ],
+            "es": [
+                "{topic} Google Trends datos pico origen primer post",
+                "{topic} análisis sociológico generación Z comportamiento Pew Research",
+                "{topic} crítica reacción contra tendencia declive"
+            ]
+        }
+    }
+
+    def _layer_1_notebooklm(self, topic, research_brief, lang, category="general"):
         print(f"\n🥇 CAPA 1: NotebookLM DEEP Research (E-E-A-T Mode) [{lang.upper()}]...")
         
         auth_path = os.path.expanduser("~/.notebooklm-mcp/auth.json")
@@ -349,13 +416,17 @@ Return ONLY the final string. NO quotation marks. NO markdown. NO explanations. 
         try:
             # =============================================
             # PASO 1: MULTIPLE FAST RESEARCH QUERIES
-            # Evita timeouts del MCP y suma ~30 fuentes.
+            # Subqueries especializadas por nicho + idioma
             # =============================================
-            subqueries = [
-                topic,  # La Super-Query Triforce
-                f"{topic[:100]} specific market size statistics numerical data" if lang == "en" else f"{topic[:100]} tamaño mercado datos numéricos",
-                f"{topic[:100]} expert opinion case studies controversy" if lang == "en" else f"{topic[:100]} casos de éxito opinión de expertos"
-            ]
+            niche_queries = self.NICHE_SUBQUERIES.get(category, self.NICHE_SUBQUERIES.get("ia", {}))
+            lang_queries = niche_queries.get(lang, niche_queries.get("en", [
+                "{topic} specific data statistics",
+                "{topic} expert opinion case study",
+                "{topic} criticism risk controversy"
+            ]))
+            
+            subqueries = [q.format(topic=topic[:100]) for q in lang_queries]
+            print(f"   🎯 [Niche Research] Categoría: {category} | {len(subqueries)} subqueries especializadas")
             
             timestamp = int(time.time())
             
