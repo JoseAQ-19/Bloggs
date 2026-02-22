@@ -678,14 +678,14 @@ CRITICAL RULES:
 
     outline_section = f"\n\nARTICLE OUTLINE (follow this structure strictly):\n{outline}\n" if outline else ""
 
-    # Configurar ejemplos dinámicos por idioma para inyectar en el prompt militar
+    # Configurar ejemplos dinámicos por idioma para inyectar en el prompt militar (Ref: Autoblog & Genbeta)
     if lang == "es":
-        ex_opening = '"Tesla ofrece una nueva versión básica del Cybertruck AWD, recortando 20.000 dólares de su precio sin sacrificar potencia."'
-        ex_bullets = """   * Tesla ofrece una nueva versión básica del Cybertruck con la misma potencia que el modelo Premium por 20.000 dólares menos.
-   * Aunque el rendimiento se mantiene, Tesla ha eliminado la suspensión neumática y la tapicería de cuero sintético.
-   * El Cybertruck de entrada arranca en 62.235 dólares, mientras que el Cyberbeast baja 15.000 dólares hasta los 102.235."""
-        ex_link1 = '"En respuesta a [un post en X](https://x.com/...) sobre el nuevo acabado, Elon Musk dijo..."'
-        ex_link2 = '"Tesla amplió su arsenal con una nueva [variante de tracción trasera](https://...), para acabar [cancelando el modelo seis meses después](https://...)."'
+        ex_opening = '"Meta acaba de cerrar una de las operaciones más llamativas del año: la compra de Manus por 2.000 millones de dólares para liderar la carrera de los agentes de IA."'
+        ex_bullets = """   * La adquisición de Manus, una startup de origen chino con sede en Singapur, busca dotar a Meta de agentes capaces de ejecutar tareas complejas con mínima supervisión.
+   * La operación, valorada en más de 2.000 millones de dólares, responde al cambio de paradigma: de los chatbots que hablan a los agentes que "hacen".
+   * Meta integrará esta tecnología en sus servicios globales, centrándose en automatizar flujos de trabajo de oficina como análisis de datos y generación de informes autónomos."""
+        ex_link1 = '"Según el análisis de [un experto en X](https://x.com/...), el movimiento de Zuckerberg no es solo talento, es una barrera geopolítica contra China."'
+        ex_link2 = '"Manus saltó a la fama por ser el [primer trabajador digital autónomo](https://...), superando la barrera de los simples chatbots de [conversación generativa](https://...)."'
     else:
         ex_opening = '"Tesla is offering a new base trim for the Cybertruck, which features the same dual-motor all-wheel drive powertrain as the Premium model but for $20,000 less."'
         ex_bullets = """   * Tesla is offering a new base trim for the Cybertruck with the same powertrain as the Premium but for $20,000 less.
