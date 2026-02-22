@@ -1,23 +1,23 @@
 {
   "category": "ia",
-  "scouted_at": "2026-02-22T18:21:45.781982+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-02-22T18:45:25.890521+00:00",
+  "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "ChatGPT, Gemini, Claude: ¿Cuál es el MEJOR para montar un negocio REAL (y qué revela sobre el futuro)?",
+      "title": "Ataque a Gemini: ¿Está en riesgo la IA más avanzada por la clonación masiva?",
       "lang": "es",
       "source": "llm_selected"
     },
     {
       "rank": 2,
-      "title": "Anthropic vs. Pentagon: Why Claude's AI Power Sparks Government Clash",
+      "title": "Anthropic's Enterprise Edge: Sonnet 4.6 Silently Undercuts Gemini & ChatGPT",
       "lang": "en",
       "source": "llm_selected"
     },
     {
       "rank": 3,
-      "title": "OpenAI & Reliance: The Risky Gamble to Overtake Google with AI-Powered JioHotstar",
+      "title": "Rare Earth Killer: AI's Magnetic Discovery Revolutionizes EV Tech.",
       "lang": "en",
       "source": "llm_selected"
     }
