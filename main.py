@@ -610,23 +610,45 @@ OUTPUT ONLY THESE 6 LINES. NOTHING ELSE."""
     print(f"   ✍️ [Fase 2/3] Redactor de Datos Duros (Blindaje Militar)...")
     
     # Outline rápido (mantener la pre-digestión de datos)
-    outline_prompt = f"""ACT AS: Senior Editorial Strategist.
+    outline_prompt = f"""ACT AS: Senior Editorial Strategist specialized in GEO (Generative Engine Optimization).
 TASK: Create a CONCISE article outline for: "{meta['titulo']}"
 LANGUAGE: {lang}
 
 RESEARCH DATA:
 {research_text[:8000]}
 
-OUTPUT a structured outline with 4 sections. For each section list:
-- Section H2 title {"(EN ESPAÑOL COMPLETO, sin mezclar idiomas)" if lang == "es" else ""}
-- 2-3 key data points EXACTLY as they appear in the research (numbers, names, sources)
-- The contrarian angle for each section
+OUTPUT a structured outline with this EXACT structure:
 
-FINAL SECTION must be an editorial verdict {"(título en ESPAÑOL, NO uses 'Editorial Verdict')" if lang == "es" else ""}.
+## KEY TAKEAWAYS (3-5 bullet points)
+- Extract the 3-5 most shocking/valuable facts from the research
+- Each bullet MUST contain a specific number, name, or date
+- Write them as self-contained, quotable statements that an AI engine could cite directly
+
+## SECTION 1: [Title] {"(EN ESPAÑOL COMPLETO)" if lang == "es" else ""}
+- Named Entity: [Full name + credential/title + institution] (e.g. "Dr. Jane Smith, Chief AI Officer at Meta")
+- Key data point with source attribution: [stat from research + who published it]
+- Contrarian angle
+
+## SECTION 2: [Title] {"(EN ESPAÑOL COMPLETO)" if lang == "es" else ""}
+- Named Entity: [different expert/institution]
+- Key data point with source attribution
+- A comparison or table opportunity: [what 2-3 items could be compared side by side]
+
+## SECTION 3: [Title] {"(EN ESPAÑOL COMPLETO)" if lang == "es" else ""}
+- Named Entity: [different expert/institution]
+- Key data point with source attribution
+- Practical actionable insight with specific steps
+
+## SECTION 4: {"Veredicto Editorial" if lang == "es" else "Editorial Verdict"}
+- Author's definitive stance (pick a side, no fence-sitting)
+- Actionable recommendation with a specific first step
+- Closing one-liner
 
 RULES:
-- ONLY use facts from the RESEARCH DATA. Write "NO DATA" if research lacks info for a point.
+- ONLY use facts from the RESEARCH DATA. Write "NO DATA" if research lacks info.
 - Do NOT invent any numbers or perform any mathematical calculations.
+- EVERY section must mention at least one NAMED ENTITY (person, institution, company) with their full title.
+- Identify at least ONE opportunity for a Markdown comparison table in the article.
 """
 
     try:
@@ -681,6 +703,15 @@ RULES:
 - DO NOT use [square brackets] alone to reference sources anywhere in the body text.
 
 📏 LENGTH: Minimum 1500 words. Articles under 1200 words are REJECTED.
+
+🌐 GEO-DOMINANCE (Generative Engine Optimization):
+- START the article with a "## {"Puntos Clave" if lang == "es" else "Key Takeaways"}" section containing 3-5 bullet points with the most important facts. This is the #1 signal for AI Overview citations.
+- Each Key Takeaway must be a SELF-CONTAINED, quotable statement with a specific number or named entity. AI engines cite these verbatim.
+- Use at least ONE Markdown comparison table (| Column A | Column B |) to present data. Tables are 3x more likely to be cited by AI Overviews.
+- Present statistics in bullet point lists (*), not buried in paragraphs. Bullet stats are 40% more extractable by AI engines.
+- ENTITY DENSITY: Always use full named entities instead of pronouns. Write "Satya Nadella, CEO of Microsoft" not "the CEO". Write "the European Central Bank (ECB)" not "the bank". Every paragraph should mention at least one named entity.
+- CITATION FORMAT: When citing a source, use the pattern: "According to [Source Name](URL), [claim with data]" or "As reported by **Source Name**, [claim]". Never cite anonymously.
+- Write at least 2-3 sentences per section that could stand alone as a direct answer to a Google query. These "citation-worthy passages" should be factual, specific, and self-contained.
 ════════════════════════════════════════════════════
 """
 
@@ -726,9 +757,9 @@ RULES:
     # ============================================================
     print(f"   🧹 [Fase 3/3] Editor Jefe: Sanitización final...")
     
-    sanitize_prompt = f"""ACT AS: Ruthless copy editor for a major publication. You are the LAST line of defense before publication.
+    sanitize_prompt = f"""ACT AS: Ruthless copy editor AND GEO (Generative Engine Optimization) specialist. You are the LAST line of defense before publication.
 
-TASK: Clean this article draft. Remove ALL traces of AI generation. Return the final Markdown ready for publication.
+TASK: Clean this article draft AND optimize it for AI citation. Return the final Markdown ready for publication.
 
 ARTICLE DRAFT:
 {resultado}
@@ -751,16 +782,23 @@ CLEANING CHECKLIST (apply ALL):
    - {"Remove any English instruction text left in the body." if lang == "es" else ""}
 
 4. FIX math errors:
-   - If you see a calculation that divides/multiplies numbers to produce a clearly absurd result, DELETE the entire sentence containing the calculation.
+   - If you see a calculation that divides/multiplies numbers to produce a clearly absurd result, DELETE the entire sentence.
 
 5. VERIFY structure:
    - The article must start with a hook paragraph (NO heading before it).
    - All sections must use ## (H2) headers. Remove any # (H1) headers.
    - The article must NOT end with a generic "what do you think?" or audience question.
 
-6. PRESERVE everything else: all links, formatting, data points, expert quotes, bold text, etc.
+6. GEO VERIFICATION (Critical for AI citations):
+   - VERIFY that a "{"Puntos Clave" if lang == "es" else "Key Takeaways"}" section exists near the top. If missing, CREATE one by extracting 3-5 key facts from the article as bullet points.
+   - VERIFY that pronouns are not used where a named entity should be. Replace "the company" with the actual company name, "the expert" with their actual name and title.
+   - VERIFY that source citations use the pattern "According to [Name](url)" or "As reported by **Name**". Fix any anonymous citations.
+   - VERIFY at least one Markdown table exists. If the article compares 2+ things anywhere, convert that comparison into a table.
+   - Convert any statistics buried in long paragraphs into bullet point lists for AI extractability.
 
-OUTPUT: The cleaned Markdown article. NOTHING ELSE — no preamble, no "Here is the cleaned version"."""
+7. PRESERVE everything else: all links, formatting, data points, expert quotes, bold text, etc.
+
+OUTPUT: The cleaned and GEO-optimized Markdown article. NOTHING ELSE — no preamble, no "Here is the cleaned version"."""
 
     try:
         if lang == "es":
