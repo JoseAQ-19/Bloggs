@@ -15,3 +15,4 @@ youtube: Why is audio randomly cutting in and out? How do I fix this? : r/davinc
 fitness: is there a way to let oura know that my sleep latency is because i read in bed??
 ia: Is AI Progress Stalling? Why Experts Question Exponential Growth Claims.
 ia: Anyone moving away from self-hosting? Looking for reliable n8n alternatives for production : r/n8n
+ia: Forget SaaS: Databricks CEO predicts AI will rewrite the entire software landscape
