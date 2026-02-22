@@ -1,0 +1,25 @@
+{
+  "category": "ia",
+  "scouted_at": "2026-02-22T19:09:00.935166+00:00",
+  "total_candidates": 22,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "¿Golpe de Estado en la IA? Cómo Claude 4.5 y sus \"skills\" desafían el duopolio ChatGPT/Gemini",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "AI Slowdown Ahead: Why Technical Hurdles & Insurance Costs Will Stunt 2026 Growth",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "GitHub Copilot's Multi-Model Gamble: Is Claude 3.5 Really a Gemini Killer?",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
