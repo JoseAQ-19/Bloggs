@@ -563,6 +563,8 @@ RULES:
 - TITLES MUST provoke emotion: outrage, curiosity, fear, or disbelief
 - Use patterns like: "X did Y and nobody noticed", "The hidden X behind Y", "Why X is lying about Y", "X just broke: what it means for Y"
 - Maximum 15 words per title. Minimum 8 words.
+- MANDATORY: Every title MUST start with a capital letter.
+- MANDATORY: Use Title Case formatting — capitalize the first letter of every major word (nouns, verbs, adjectives, adverbs). Only lowercase articles (a, the, el, la, de, en), conjunctions (and, or, y, o), and short prepositions (in, of, to) unless they are the first word.
 - {"Los títulos deben estar COMPLETAMENTE en español. Cero spanglish." if lang == "es" else ""}
 
 OUTPUT FORMAT (exactly 6 lines):
@@ -650,6 +652,14 @@ RULES:
 - DO NOT address the user or acknowledge instructions in the output.
 - The FIRST character of your output must be part of the article content.
 
+✂️ ANTI-FLUFF SHIELD (BLUF — Bottom-Line Up Front):
+- FORBIDDEN: Rhetorical questions that add no information (e.g. "But is it worth it?", "What does this mean?", "¿Pero qué ocurre cuando...?").
+- FORBIDDEN: Repeating the same idea or conclusion in different paragraphs. Every paragraph must introduce NEW information.
+- FORBIDDEN: Filler sentences like "This is important because...", "It's worth noting that...", "Es importante destacar que...".
+- Every paragraph MUST contain at least ONE specific data point (number, name, date, company, or quote).
+- If you have no new data for a section, END the section. Do NOT pad it with empty rhetoric.
+- Write with EXTREME information density. Treat every sentence like it costs $100.
+
 🔢 MATH SHIELD:
 - DO NOT perform any mathematical calculations (division, multiplication, percentages).
 - Report ALL numbers EXACTLY as stated by the sources. Copy-paste the number.
@@ -663,9 +673,12 @@ RULES:
 
 🔗 LINK SHIELD:
 - You MUST include at least 3 outbound links to authoritative sources.
-- ONLY use URLs that appear in the RESEARCH DATA below.
+- ONLY use URLs that appear VERBATIM in the RESEARCH DATA below. Copy-paste the exact URL.
 - If a fact has NO URL in the research, mention the source as plain bold text **Source Name** WITHOUT a hyperlink.
 - FABRICATING a URL = INSTANT REJECTION of the entire article.
+- DO NOT use bracket-only references like [source name]. These are NOT valid links.
+- VALID format: [Anchor Text](https://real-url.com) or plain bold **Source Name**. NOTHING ELSE.
+- DO NOT use [square brackets] alone to reference sources anywhere in the body text.
 
 📏 LENGTH: Minimum 1500 words. Articles under 1200 words are REJECTED.
 ════════════════════════════════════════════════════
@@ -837,7 +850,11 @@ def _clean_article_content(text):
     # 8. LIMPIAR H1 sueltos (solo debería haber H2+)
     text = re.sub(r'^# .+$', '', text, flags=re.MULTILINE)
     
-    # 9. ELIMINAR líneas en blanco excesivas (máximo 2 seguidas)
+    # 9. ELIMINAR referencias con corchetes huérfanos [source name] que no son links
+    #    Patrón: [texto] que NO está seguido de (url)
+    text = re.sub(r'\[([^\]]{3,80})\](?!\()', r'**\1**', text)
+    
+    # 10. ELIMINAR líneas en blanco excesivas (máximo 2 seguidas)
     text = re.sub(r'\n{4,}', '\n\n\n', text)
     
     print("   🧹 [Post-Processor] Contenido limpiado de artefactos de IA")
