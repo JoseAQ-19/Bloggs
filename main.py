@@ -639,12 +639,21 @@ TL;DR BULLETS (exactly 3):
 
 ## [Descriptive Title for Section 2] {"(EN ESPAÑOL)" if lang == "es" else ""}
 - Named Entity: [different person/institution]
-- Comparison opportunity: [what 2-3 items to compare in a table]
+- Context and background analysis
 - Key data point from research with source
 
 ## [Descriptive Title for Section 3] {"(EN ESPAÑOL)" if lang == "es" else ""}
 - Named Entity: [different person/institution]
+- Nuanced perspective or contrarian view
+- Key data point from research with source
+
+## [Descriptive Title for Section 4] {"(EN ESPAÑOL)" if lang == "es" else ""}
+- Named Entity: [different person/institution]
 - Practical steps or actionable insights
+- Key data point from research with source
+
+## [Descriptive Title for Section 5] {"(EN ESPAÑOL)" if lang == "es" else ""}
+- Future outlook based on data
 - Key data point from research with source
 
 ## {"Nuestra lectura" if lang == "es" else "The Bottom Line"}
@@ -731,10 +740,10 @@ CRITICAL RULES:
 
 📏 LENGTH: Minimum 1500 words. Articles under 1200 words are REJECTED.
 
-🌐 GEO-DOMINANCE:
+🌐 GEO-DOMINANCE & FORMATTING:
 - The 3 TL;DR bullets (described above) ARE the GEO signal. No separate "Key Takeaways" header needed.
-- Use at least ONE Markdown comparison table. Always include the separator row: | --- | --- |
-- Present statistics as bullet lists when there are 3+ numbers to compare.
+- NO TABLES ALLOWED: Do NOT use Markdown tables (| --- |). They render poorly on our blog. If comparing data, use spaced bullet lists instead.
+- SPACED LISTS: Whenever you use a bulleted list (* ), ALWAYS add a blank line between each bullet point so they don't render bunched together.
 - ENTITY DENSITY: Always write "Satya Nadella, CEO de Microsoft" never "el CEO". Full names everywhere.
 - CITATION FORMAT: Weave source names into sentences: "Según [nombre de la fuente](URL), dato..." Never cite anonymously.
 ════════════════════════════════════════════════════
@@ -763,16 +772,16 @@ CRITICAL RULES:
         print("   🇬🇧 [Fase 2/3] Motor EN: GLM-4-Flash → OpenRouter → Gemini")
         resultado = _call_en_engine(prompt)
         
-        # === VALIDACIÓN DE LONGITUD MÍNIMA (EN tiende a ser corto) ===
-        word_count = len(resultado.split()) if resultado else 0
-        if word_count < 1200:
-            print(f"   ⚠️ [Quality] EN artículo demasiado corto ({word_count} palabras). Regenerando con Gemini...")
-            extended_prompt = prompt + "\n\nCRITICAL: The article MUST be at LEAST 1500 words. Write a comprehensive, in-depth analysis. Do NOT be brief. Expand every section with analysis, data, and expert commentary."
-            resp = client.models.generate_content(model='gemini-2.0-flash', contents=extended_prompt)
-            retry_result = resp.text.strip()
-            if len(retry_result.split()) > word_count:
-                resultado = retry_result
-                print(f"   ✅ [Quality] Regenerado: {len(resultado.split())} palabras")
+    # === VALIDACIÓN DE LONGITUD MÍNIMA (Ambos idiomas) ===
+    word_count = len(resultado.split()) if resultado else 0
+    if word_count < 1500:
+        print(f"   ⚠️ [Quality] Artículo demasiado corto ({word_count} palabras). Regenerando con Gemini para EXPANDIR...")
+        extended_prompt = prompt + f"\n\nCRITICAL: The article MUST be at LEAST 1500 words. You only wrote {word_count} words! Write a comprehensive, in-depth analysis. Do NOT be brief. Expand every single section with deep analysis, data context, and expert commentary."
+        resp = client.models.generate_content(model='gemini-2.0-flash', contents=extended_prompt)
+        retry_result = resp.text.strip()
+        if len(retry_result.split()) > word_count:
+            resultado = retry_result
+            print(f"   ✅ [Quality] Regenerado expandido: {len(resultado.split())} palabras")
 
     word_count_draft = len(resultado.split()) if resultado else 0
     print(f"   📊 [Fase 2/3] Borrador: {word_count_draft} palabras")
@@ -821,9 +830,9 @@ AUTOBLOG HOUSE STYLE CHECKLIST (apply ALL):
 6. ENTITY CHECK:
    - Replace vague pronouns ("the company", "the expert", "el CEO") with actual names and titles.
 
-7. TABLE CHECK:
-   - If the article compares 2+ things in prose, convert it into a Markdown table with | and --- separators.
-   - Ensure any existing table has a proper separator row: | --- | --- |
+7. TABLE AND LIST CHECK (CRITICAL FORMATTING):
+   - TABLE REMOVAL: If there is ANY Markdown table in the draft (| --- |), DESTROY the table and convert its contents into a text list. Tables break our mobile layout and are strictly forbidden.
+   - LIST SPACING: Ensure there is an empty line between EVERY bullet point in the article. Bullets must never touch each other.
 
 8. CLOSING:
    - The article must end with a punchy editorial statement (1-2 sentences max). Declarative. No questions.
