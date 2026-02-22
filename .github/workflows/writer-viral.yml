@@ -1,9 +1,10 @@
 name: "Writer - Viral"
 
 on:
-  push:
-    paths:
-      - 'data/trends_viral.json'
+  workflow_run:
+    workflows: ["Scout - Viral"]
+    types:
+      - completed
   workflow_dispatch:
 
 permissions:
