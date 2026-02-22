@@ -618,7 +618,7 @@ OUTPUT ONLY THESE 6 LINES. NOTHING ELSE."""
     print(f"   ✍️ [Fase 2/3] Redactor de Datos Duros (Blindaje Militar)...")
     
     # Outline rápido (mantener la pre-digestión de datos)
-    outline_prompt = f"""ACT AS: Senior Editorial Strategist specialized in GEO (Generative Engine Optimization).
+    outline_prompt = f"""ACT AS: Senior Editorial Strategist for a publication like Autoblog, TechCrunch, or Xataka.
 TASK: Create a CONCISE article outline for: "{meta['titulo']}"
 LANGUAGE: {lang}
 
@@ -627,36 +627,36 @@ RESEARCH DATA:
 
 OUTPUT a structured outline with this EXACT structure:
 
-## KEY TAKEAWAYS (3-5 bullet points)
-- Extract the 3-5 most shocking/valuable facts from the research
-- Each bullet MUST contain a specific number, name, or date
-- Write them as self-contained, quotable statements that an AI engine could cite directly
+TL;DR BULLETS (exactly 3):
+- [Bullet 1: The single most important fact. Must be a complete sentence with a specific number or name. This should answer the article's core question in one line.]
+- [Bullet 2: The second most surprising data point. Include the source name.]
+- [Bullet 3: The practical consequence or "so what" for the reader. What changes for them.]
 
-## SECTION 1: [Title] {"(EN ESPAÑOL COMPLETO)" if lang == "es" else ""}
-- Named Entity: [Full name + credential/title + institution] (e.g. "Dr. Jane Smith, Chief AI Officer at Meta")
-- Key data point with source attribution: [stat from research + who published it]
-- Contrarian angle
+## [Descriptive Title for Section 1] {"(EN ESPAÑOL)" if lang == "es" else ""}
+- Named Entity: [Full name + title + institution]
+- Key data point from research with source
+- What new information this section adds
 
-## SECTION 2: [Title] {"(EN ESPAÑOL COMPLETO)" if lang == "es" else ""}
-- Named Entity: [different expert/institution]
-- Key data point with source attribution
-- A comparison or table opportunity: [what 2-3 items could be compared side by side]
+## [Descriptive Title for Section 2] {"(EN ESPAÑOL)" if lang == "es" else ""}
+- Named Entity: [different person/institution]
+- Comparison opportunity: [what 2-3 items to compare in a table]
+- Key data point from research with source
 
-## SECTION 3: [Title] {"(EN ESPAÑOL COMPLETO)" if lang == "es" else ""}
-- Named Entity: [different expert/institution]
-- Key data point with source attribution
-- Practical actionable insight with specific steps
+## [Descriptive Title for Section 3] {"(EN ESPAÑOL)" if lang == "es" else ""}
+- Named Entity: [different person/institution]
+- Practical steps or actionable insights
+- Key data point from research with source
 
-## SECTION 4: {"Veredicto Editorial" if lang == "es" else "Editorial Verdict"}
-- Author's definitive stance (pick a side, no fence-sitting)
-- Actionable recommendation with a specific first step
-- Closing one-liner
+## {"Nuestra lectura" if lang == "es" else "The Bottom Line"}
+- Author's definitive stance (pick a side)
+- One specific actionable recommendation
+- Punchy closing one-liner
 
-RULES:
-- ONLY use facts from the RESEARCH DATA. Write "NO DATA" if research lacks info.
-- Do NOT invent any numbers or perform any mathematical calculations.
-- EVERY section must mention at least one NAMED ENTITY (person, institution, company) with their full title.
-- Identify at least ONE opportunity for a Markdown comparison table in the article.
+CRITICAL RULES:
+- Section titles must be DESCRIPTIVE and SPECIFIC (e.g. "The $20K Price Cut That Changes Everything"), NEVER generic ("Section 1", "The Current Landscape").
+- ONLY use facts from the RESEARCH DATA.
+- Do NOT invent numbers or perform calculations.
+- Every section must name at least one real person, company, or institution.
 """
 
     try:
@@ -676,53 +676,67 @@ RULES:
 ════════════════════════════════════════════════════
 
 🚫 ANTI-CHATBOT SHIELD:
-- START the article IMMEDIATELY with a powerful opening sentence.
+- START the article IMMEDIATELY with a powerful opening sentence with a hard fact.
 - DO NOT write introductory phrases: "Here is the article", "Aquí está el artículo", "Aquí tienes", "Sure", "Claro", "Of course", "Let me", "I'll write".
-- DO NOT write meta-commentary: "No additional data available", "I don't have data for this", "The research doesn't mention".
-- DO NOT address the user or acknowledge instructions in the output.
+- DO NOT write meta-commentary about writing or instructions.
 - The FIRST character of your output must be part of the article content.
 
-✂️ ZERO-FLUFF SHIELD (Inverted Pyramid — TechCrunch/Xataka style):
-- ABSOLUTELY FORBIDDEN: ALL rhetorical questions. Zero tolerance. No "?", no "¿", nowhere in the article body. Not in transitions, not in openers, not in closers. Make DECLARATIVE STATEMENTS instead.
-  BAD: "Is AI really coming for our jobs?" → GOOD: "AI is already eliminating 34% of entry-level data roles, according to McKinsey."
-  BAD: "¿Qué nos depara el futuro?" → GOOD: "El futuro pasa por la adopción masiva de modelos de lenguaje abiertos."
-- FORBIDDEN: Repeating the same idea in different paragraphs. Every paragraph must introduce NEW information.
-- FORBIDDEN: Vague filler sentences without data: "This is important because...", "It's worth noting that...", "Es importante destacar que...", "No podemos ignorar que...".
-- INVERTED PYRAMID: Put the most important fact in the FIRST sentence of each paragraph. Then support with details. Never bury the lead.
-- Write like TechCrunch: ultra-dense, data-first paragraphs. No paragraph should exist without a number, name, or quote.
-- Use Xataka-style contextual subheadings like: "Lo que acaba de pasar.", "Los datos.", "Por qué importa.", "El contexto." — INSTEAD of generic "SECTION 1", "SECTION 2".
+📐 AUTOBLOG STRUCTURE (follow this EXACT layout):
+
+1. OPENING PARAGRAPH: One powerful sentence with the core news. Max 2 sentences. Like Autoblog: "Tesla is offering a new base trim for the Cybertruck, which features the same dual-motor all-wheel drive powertrain as the Premium model but for $20,000 less."
+
+2. TL;DR BULLET BLOCK (immediately after opening, NO header, NO "## Key Takeaways"):
+   Write exactly 3 bullet points starting with "*". Each must be:
+   - A COMPLETE, self-contained sentence that answers one key question about the topic
+   - Contains at least ONE specific number, name, or date
+   - Could be directly quoted by Google AI Overview as a standalone fact
+   Example from Autoblog:
+   * Tesla is offering a new base trim for the Cybertruck with the same powertrain as the Premium but for $20,000 less.
+   * While the truck's performance is mostly unchanged, Tesla ditched the air suspension and leatherette upholstery.
+   * The entry-level Cybertruck starts at $62,235, and Tesla has also lowered the Cyberbeast by $15K to $102,235.
+
+3. BODY SECTIONS: Use descriptive ## H2 headers (NEVER "Section 1", "Section 2"). Then short paragraphs.
+
+4. CLOSING: A punchy editorial one-liner. Declarative. No questions.
+
+✂️ PARAGRAPH RULES (Autoblog standard):
+- MAXIMUM 3 sentences per paragraph. If a paragraph has 4+ sentences, SPLIT IT.
+- Every paragraph must introduce exactly ONE new fact or data point. No fluff.
+- ABSOLUTELY FORBIDDEN: ALL question marks (? and ¿). Zero tolerance everywhere in the article.
+  BAD: "Is AI really replacing jobs?" → GOOD: "AI is already eliminating 34% of entry-level roles, according to McKinsey."
+  BAD: "¿Qué significa esto?" → GOOD: "Esto implica una reducción del 40% en costos operativos."
+- FORBIDDEN: Repeating the same idea. Every paragraph = new information.
+- FORBIDDEN: Vague filler like "This is important because...", "It's worth noting...", "Es importante destacar..."
+- Lead each paragraph with its most important fact (Inverted Pyramid).
 
 🔢 MATH SHIELD:
-- DO NOT perform any mathematical calculations (division, multiplication, percentages).
-- Report ALL numbers EXACTLY as stated by the sources. Copy-paste the number.
-- If the research says "market is $8.31B" and "67% adopted", report BOTH numbers separately. DO NOT divide them.
-- NEVER write phrases like "if we divide X by Y" or "this works out to".
+- DO NOT perform any calculations. Report numbers EXACTLY as stated by sources.
+- NEVER write "if we divide X by Y" or "this works out to".
 
 🌐 LANGUAGE SHIELD:
 - {"EVERY word must be in SPANISH including ALL H2/H3 headers. ZERO English words except proper nouns (ChatGPT, Bitcoin, etc.)." if lang == "es" else "EVERY word must be in ENGLISH."}
-- {"DO NOT use 'Editorial Verdict', use 'Veredicto Editorial' or 'Nuestra Lectura' or similar IN SPANISH." if lang == "es" else ""}
+- {"DO NOT use 'Editorial Verdict'. Use 'Nuestra lectura' or 'El veredicto' IN SPANISH." if lang == "es" else ""}
 - {"DO NOT leave ANY English instruction text in the output." if lang == "es" else "DO NOT leave ANY Spanish text in the output."}
 
-🔗 LINK SHIELD (CRITICAL — read every word):
-- You MUST include at least 3 outbound links to authoritative sources.
-- ONLY use URLs that appear VERBATIM in the RESEARCH DATA below. Copy-paste the exact URL.
-- If a fact has NO URL in the research, mention the source as plain bold text **Source Name** with NO hyperlink at all.
-- FABRICATING a URL = INSTANT REJECTION of the entire article.
-- NEVER paste a raw URL in the text. NEVER write a URL without wrapping it in proper Markdown link format.
-- The ONLY valid link format is: [Descriptive Anchor Text](https://exact-url-from-research.com)
-- NEVER output a naked URL like https://example.com or [https://example.com] in the body text.
-- NEVER use bracket-only references like [source name] without a URL.
-- If a URL in the research contains "vertexaisearch.cloud.google.com" DO NOT USE IT. That is an internal redirect, not a real source URL. Instead, mention the source name in bold.
+🔗 LINK SHIELD (Autoblog style — links WOVEN into sentences):
+- Include at least 3 outbound links woven naturally INTO sentences.
+- Autoblog example: "In response to [a post on X](https://x.com/...) about the new trim, Elon Musk said..."
+- Autoblog example: "Tesla expanded its arsenal with a new [entry-level rear-wheel-drive variant](https://...), only to [cancel the model six months later](https://...)."
+- ONLY use URLs that appear VERBATIM in the RESEARCH DATA. Copy-paste the exact URL.
+- If a URL in the research contains "vertexaisearch.cloud.google.com" DO NOT USE IT. Mention the source name in **bold** instead.
+- If a fact has NO URL in the research, mention the source as **Source Name** with NO hyperlink.
+- FABRICATING a URL = INSTANT REJECTION.
+- NEVER paste a naked URL. Every URL must be inside [Anchor Text](URL) format.
+- NEVER use bracket-only references like [source name] without a proper (URL).
 
 📏 LENGTH: Minimum 1500 words. Articles under 1200 words are REJECTED.
 
-🌐 GEO-DOMINANCE (Generative Engine Optimization):
-- After the opening hook paragraph, include a "## {"Puntos Clave" if lang == "es" else "Key Takeaways"}" section with 3-5 bullet points containing the most important facts.
-- Each Key Takeaway must be a SELF-CONTAINED, quotable statement with a specific number or named entity.
-- Use at least ONE Markdown comparison table to present data. Format: | Header 1 | Header 2 | with proper separator row | --- | --- |.
-- Present statistics in bullet point lists, not buried in paragraphs.
-- ENTITY DENSITY: Always use full named entities. Write "Satya Nadella, CEO de Microsoft" not "el CEO". Every paragraph should mention at least one named entity.
-- CITATION FORMAT: Use the pattern "Según [Fuente](URL), dato" or "As reported by [Source](URL), data". Never cite anonymously.
+🌐 GEO-DOMINANCE:
+- The 3 TL;DR bullets (described above) ARE the GEO signal. No separate "Key Takeaways" header needed.
+- Use at least ONE Markdown comparison table. Always include the separator row: | --- | --- |
+- Present statistics as bullet lists when there are 3+ numbers to compare.
+- ENTITY DENSITY: Always write "Satya Nadella, CEO de Microsoft" never "el CEO". Full names everywhere.
+- CITATION FORMAT: Weave source names into sentences: "Según [nombre de la fuente](URL), dato..." Never cite anonymously.
 ════════════════════════════════════════════════════
 """
 
@@ -768,48 +782,56 @@ RULES:
     # ============================================================
     print(f"   🧹 [Fase 3/3] Editor Jefe: Sanitización final...")
     
-    sanitize_prompt = f"""ACT AS: Ruthless copy editor AND GEO (Generative Engine Optimization) specialist. You are the LAST line of defense before publication.
+    sanitize_prompt = f"""ACT AS: Senior copy editor at Autoblog / Car and Driver. You enforce the Autoblog house style mercilessly. You are the LAST line of defense.
 
-TASK: Clean this article draft AND optimize it for AI citation. Return the final Markdown ready for publication.
+TASK: Clean and reformat this article draft to match Autoblog's exact editorial standard. Return the final Markdown ready for publication.
 
 ARTICLE DRAFT:
 {resultado}
 
-CLEANING CHECKLIST (apply ALL):
+AUTOBLOG HOUSE STYLE CHECKLIST (apply ALL):
 
-1. DELETE any introductory AI phrases at the start:
-   - "Aquí está el artículo", "Here is the article", "Sure", "Claro", "Of course", "Let me"
-   - "Aquí tienes", "I'll", "Below is", "The following article"
-   - Any sentence that talks ABOUT the article instead of being the article
+1. OPENING (first lines of the article):
+   - The article MUST start with 1-2 sentences stating the core news with a hard fact. No fluff, no preamble.
+   - DELETE any AI phrases: "Aquí está", "Here is", "Sure", "Claro", "Let me", "Aquí tienes", "I'll", "Below is".
+   - Immediately after the opening sentence(s), there MUST be 3 bullet points (using *) summarizing the key facts.
+   - These 3 bullets must NOT have a header like "## Key Takeaways" or "## Puntos Clave". They appear bare, right after the intro paragraph, before the first ## H2 section.
+   - If a "## Key Takeaways" or "## Puntos Clave" header exists, REMOVE the header but KEEP the bullets.
 
-2. DELETE any meta-commentary or system leaks:
-   - "No additional data available", "No hay datos adicionales"
-   - "The research doesn't mention", "I couldn't find"
-   - "As per the instructions", "As requested"
-   - "Editorial Verdict" {"(replace with Spanish equivalent like 'El Veredicto' or 'Nuestra Lectura')" if lang == "es" else ""}
+2. PARAGRAPH LENGTH (CRITICAL):
+   - MAXIMUM 3 sentences per paragraph. Split any paragraph with 4+ sentences into two.
+   - Every paragraph must contain at least one specific data point (number, name, date, or quote).
 
-3. FIX language contamination:
-   - {"If ANY H2/H3 header contains English words (except proper nouns), rewrite it fully in Spanish." if lang == "es" else "Ensure all text is in English."}
-   - {"Remove any English instruction text left in the body." if lang == "es" else ""}
+3. QUESTION MARKS — TOTAL ANNIHILATION:
+   - DELETE or REWRITE every sentence that contains "?" or "¿".
+   - Replace with a declarative statement that conveys the same information.
+   - Example: "Is this the end of SaaS?" → "This marks a turning point for the SaaS industry."
 
-4. FIX math errors:
-   - If you see a calculation that divides/multiplies numbers to produce a clearly absurd result, DELETE the entire sentence.
+4. LINKS:
+   - DELETE any URL containing "vertexaisearch.cloud.google.com". Replace with the source name in **bold**.
+   - DELETE any naked URL (a URL not wrapped in [Anchor Text](URL) format).
+   - All remaining links must use format: [descriptive text](https://real-url.com). Fix any malformed links.
 
-5. VERIFY structure:
-   - The article must start with a hook paragraph (NO heading before it).
-   - All sections must use ## (H2) headers. Remove any # (H1) headers.
-   - The article must NOT end with a generic "what do you think?" or audience question.
+5. HEADERS:
+   - Remove any # (H1) headers. Only ## (H2) and ### (H3) allowed.
+   - Headers must be DESCRIPTIVE and SPECIFIC, never generic like "Section 1", "The Current Landscape", "Overview".
+   - {"Replace 'Editorial Verdict' with 'Nuestra lectura' or 'El veredicto'." if lang == "es" else ""}
+   - {"All headers MUST be in Spanish. Rewrite any English headers." if lang == "es" else "All headers must be in English."}
 
-6. GEO VERIFICATION (Critical for AI citations):
-   - VERIFY that a "{"Puntos Clave" if lang == "es" else "Key Takeaways"}" section exists near the top. If missing, CREATE one by extracting 3-5 key facts from the article as bullet points.
-   - VERIFY that pronouns are not used where a named entity should be. Replace "the company" with the actual company name, "the expert" with their actual name and title.
-   - VERIFY that source citations use the pattern "According to [Name](url)" or "As reported by **Name**". Fix any anonymous citations.
-   - VERIFY at least one Markdown table exists. If the article compares 2+ things anywhere, convert that comparison into a table.
-   - Convert any statistics buried in long paragraphs into bullet point lists for AI extractability.
+6. ENTITY CHECK:
+   - Replace vague pronouns ("the company", "the expert", "el CEO") with actual names and titles.
 
-7. PRESERVE everything else: all links, formatting, data points, expert quotes, bold text, etc.
+7. TABLE CHECK:
+   - If the article compares 2+ things in prose, convert it into a Markdown table with | and --- separators.
+   - Ensure any existing table has a proper separator row: | --- | --- |
 
-OUTPUT: The cleaned and GEO-optimized Markdown article. NOTHING ELSE — no preamble, no "Here is the cleaned version"."""
+8. CLOSING:
+   - The article must end with a punchy editorial statement (1-2 sentences max). Declarative. No questions.
+   - DELETE any "what do you think?" or audience engagement questions at the end.
+
+9. PRESERVE everything else: all valid links, formatting, data points, expert quotes, bold text.
+
+OUTPUT: The cleaned Markdown article matching Autoblog house style. NOTHING ELSE — no preamble."""
 
     try:
         if lang == "es":
