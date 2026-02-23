@@ -337,14 +337,14 @@ Return ONLY the final string. NO quotation marks. NO markdown. NO explanations. 
     NICHE_SUBQUERIES = {
         "ia": {
             "en": [
-                "{topic} benchmark comparison pricing enterprise ROI",
-                "{topic} enterprise case study adoption failure rate",
-                "{topic} criticism risk regulation AI safety concern"
+                "{topic} API pricing context window benchmark Llama-3 Claude-3.5 GPT-4o parameters",
+                "{topic} technical architecture GPU compute cost H100 inference latency",
+                "{topic} GitHub issues limitations criticism real-world failure production bugs"
             ],
             "es": [
-                "{topic} comparativa precio rendimiento empresa",
-                "{topic} caso real adopción empresarial resultados",
-                "{topic} crítica riesgo regulación preocupación seguridad IA"
+                "{topic} precio API tokens benchmark Llama Claude GPT-4o parámetros comparativa",
+                "{topic} arquitectura técnica hardware contexto GPU consumo eléctrico coste inferencia",
+                "{topic} problemas reales limitaciones GitHub producción fallos críticas técnicas"
             ]
         },
         "crypto": {
