@@ -56,6 +56,12 @@ PALABRAS Y FRASES VETADAS (Penalización severa si las usas):
 - "Un arma de doble filo"
 - "Navegar por el panorama de..."
 - "Es importante destacar que..."
+- "promete revolucionar"
+- "crecimiento explosivo"
+- "inmersión profunda"
+- "en conclusión"
+- "el panorama actual"
+- "a medida que avanzamos"
 
 LONGITUD MÍNIMA: 1500 palabras. Los artículos de menos de 1200 palabras se RECHAZAN AUTOMÁTICAMENTE.
 """
@@ -77,6 +83,11 @@ BANNED WORDS AND PHRASES (Severe penalty if used):
 - "It's important to note that..."
 - "It remains to be seen"
 - "Game-changer" (without data to support it)
+- "poised for explosive growth"
+- "deep dive"
+- "in today's digital landscape"
+- "is revolutionizing"
+- "driving innovation"
 
 MINIMUM LENGTH: 1500 words. Articles under 1200 words are AUTOMATICALLY REJECTED.
 """
@@ -722,29 +733,29 @@ TL;DR BULLETS (exactly 3):
 - [Bullet 2: The second most surprising data point. Include the source name.]
 - [Bullet 3: The practical consequence or "so what" for the reader. What changes for them.]
 
-## [Descriptive Title for Section 1] {"(EN ESPAÑOL)" if lang == "es" else ""}
-- Named Entity: [Full name + title + institution]
-- Key data point from research with source
-- What new information this section adds
+## [Descriptive Subtitle based on Tension/Conflict] {"(EN ESPAÑOL)" if lang == "es" else ""} (e.g. "The $200M Problem" or "El elefante en la habitación del Open Source")
+- Narrative focus on technological tension, money, conflict, or failure.
+- Named Entity: [MUST name at least one real person, company, or institution]
+- Key data point from research with source.
 
-## [Descriptive Title for Section 2] {"(EN ESPAÑOL)" if lang == "es" else ""}
+## [Descriptive Subtitle based on Tension/Conflict] {"(EN ESPAÑOL)" if lang == "es" else ""}
+- Deep context and why the official corporate narrative is flawed.
 - Named Entity: [different person/institution]
-- Context and background analysis
-- Key data point from research with source
+- Key data point from research with source.
 
-## [Descriptive Title for Section 3] {"(EN ESPAÑOL)" if lang == "es" else ""}
+## [Descriptive Subtitle based on Tension/Conflict] {"(EN ESPAÑOL)" if lang == "es" else ""}
+- The Contrarian Crack: what the industry consensus is completely ignoring.
 - Named Entity: [different person/institution]
-- Nuanced perspective or contrarian view
-- Key data point from research with source
+- Key data point from research with source.
 
-## [Descriptive Title for Section 4] {"(EN ESPAÑOL)" if lang == "es" else ""}
+## [Descriptive Subtitle based on Tension/Conflict] {"(EN ESPAÑOL)" if lang == "es" else ""}
+- Real-world limitations, execution hurdles, or hidden costs.
 - Named Entity: [different person/institution]
-- Practical steps or actionable insights
-- Key data point from research with source
+- Key data point from research with source.
 
-## [Descriptive Title for Section 5] {"(EN ESPAÑOL)" if lang == "es" else ""}
-- Future outlook based on data
-- Key data point from research with source
+## [Descriptive Subtitle based on Tension/Conflict] {"(EN ESPAÑOL)" if lang == "es" else ""}
+- The actual impact going forward (the 'So What?'), devoid of marketing hype.
+- Key data point from research with source.
 
 ## {"Nuestra lectura" if lang == "es" else "The Bottom Line"}
 - Author's definitive stance (pick a side)
@@ -866,7 +877,7 @@ CRITICAL RULES:
 
 📐 AUTOBLOG STRUCTURE (follow this EXACT layout):
 
-1. OPENING PARAGRAPH: One powerful sentence with the core news. Max 2 sentences. Like Autoblog: {ex_opening}
+1. OPENING PARAGRAPH: The very first sentence MUST be a cynical hypothesis, a contrarian perspective, or a harsh reality check. NO generic market size introductions. Start with the pain, the controversy, or the money. Max 2 sentences. Like Autoblog: {ex_opening}
 
 2. TL;DR BULLET BLOCK (immediately after opening, NO header, NO "## Key Takeaways"):
    Write exactly 3 bullet points starting with "*". Each must be:
