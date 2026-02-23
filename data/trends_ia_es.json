@@ -1,0 +1,26 @@
+{
+  "category": "ia",
+  "lang": "es",
+  "scouted_at": "2026-02-23T15:20:18.969477+00:00",
+  "total_candidates": 10,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Gemini 3.1 Pro: ¿Realmente el nuevo rey de la IA? Un análisis crítico de las pruebas y limitaciones ocultas.",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "El \"Apocalipsis SaaS\" es un espejismo: Por qué la IA podría estar inflando el valor de estas empresas de software.",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Claude vs. ChatGPT vs. Gemini: La guía definitiva para usuarios avanzados que revela las verdaderas fortalezas y debilidades de cada IA.",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
