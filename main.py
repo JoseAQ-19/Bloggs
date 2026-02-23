@@ -1398,8 +1398,16 @@ def main():
     
     print(f"🎯 TEMA: {tema} | IDIOMA ORIGEN: {tema_lang.upper()}")
     res = researcher.Researcher()
-    # Generar Translation Key única (aunque sea monolingüe, Hugo la usa por si después hay traducción manual)
-    trans_key = str(uuid.uuid4())
+    
+    # === HREFLANG DETERMINISTA (Bilingüismo Desacoplado) ===
+    # En lugar de generar un UUID aleatorio que rompe el enlazado en Hugo cuando corren 2 actions distintos,
+    # generamos un hash MD5 predictivo basado en el titulo bruto del tema.
+    # Así, writer-ia-en y writer-ia-es generarán la misma llave si cogen el mismo trend del JSON.
+    import hashlib
+    clean_topic_hash = tema.strip().lower()
+    t_hash = hashlib.md5(clean_topic_hash.encode('utf-8')).hexdigest()
+    trans_key = f"{t_hash[:8]}-{t_hash[8:12]}-{t_hash[12:16]}-{t_hash[16:20]}-{t_hash[20:]}"
+    print(f"   🔑 [Hugo Hreflang] Translation Key (Determinista): {trans_key}")
     
     # === AISLAMIENTO: Variables limpias por idioma ===
     meta = None

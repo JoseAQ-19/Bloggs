@@ -217,7 +217,7 @@ def fetch_gemini_grounding(category, config, target_lang=None):
         lang_label = target_lang.upper() if target_lang else "BOTH"
         
         if target_lang == "es":
-            market_instruction = "Search ONLY in SPANISH for trending topics in SPAIN and LATAM."
+            market_instruction = "Search ONLY in SPANISH for trending topics in SPAIN (Madrid, Barcelona). NOT Latin America."
             output_format = "[ES] headline in Spanish\n" * 6
         elif target_lang == "en":
             market_instruction = "Search ONLY in ENGLISH for trending topics in the US and globally."
