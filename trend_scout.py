@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 """
-TREND SCOUT V3 — Pre-Searcher Agent
+TREND SCOUT V4 — Pre-Searcher Agent (Omega Matrix Routing)
 Fase 1 del Relay-Race: Busca tendencias reales usando HackerNews + Google News RSS
 + Exa + Gemini Grounding y guarda los 3 mejores temas en un JSON por categoría.
+
+Enrutamiento LLM (Waterfall):
+  1. OpenRouter (Llama 3.3 70B) — OPENROUTER_SCOUT_KEY
+  2. HuggingFace Serverless (Qwen2.5-7B) — HF_SCOUT_API_KEY
+  3. Gemini 2.0 Flash (Emergencia) — GEMINI_API_KEY
 
 Uso: python trend_scout.py --category ia
 Salida: data/trends_ia.json
@@ -11,9 +16,11 @@ Salida: data/trends_ia.json
 import os
 import sys
 import json
+import re
 import random
 import argparse
 import requests
+import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
@@ -24,6 +31,8 @@ from google.genai import types
 load_dotenv()
 GEMINI_KEY = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
 EXA_KEY = os.getenv("EXA_API_KEY")
+OPENROUTER_SCOUT_KEY = os.getenv("OPENROUTER_SCOUT_KEY")
+HF_SCOUT_KEY = os.getenv("HF_SCOUT_API_KEY")
 client = genai.Client(api_key=GEMINI_KEY) if GEMINI_KEY else None
 
 try:
@@ -31,6 +40,132 @@ try:
     exa = Exa(EXA_KEY) if EXA_KEY else None
 except ImportError:
     exa = None
+
+
+# ============================================================
+# OMEGA MATRIX: Waterfall LLM Router (Scout-Dedicated Keys)
+# OpenRouter → HuggingFace Serverless → Gemini Emergency
+# ============================================================
+
+def _llm_generate(prompt, force_json=False):
+    """
+    Enrutamiento cascada para el Scout.
+    Intento 1: OpenRouter (Llama 3.3 70B) — rápido, sin cold starts.
+    Intento 2: HF Serverless (Qwen2.5-7B) — segunda cuota aislada.
+    Intento 3: Gemini 2.0 Flash — paracaídas final.
+    
+    Si force_json=True, aplica limpieza regex agresiva para extraer JSON.
+    """
+    result = None
+
+    # ── INTENTO 1: OpenRouter (Llama 3.3 70B) ──
+    if OPENROUTER_SCOUT_KEY:
+        print("   🧠 [Omega] Intento 1: OpenRouter / Llama-3.3-70B...")
+        try:
+            headers = {
+                "Authorization": f"Bearer {OPENROUTER_SCOUT_KEY}",
+                "Content-Type": "application/json",
+                "HTTP-Referer": "https://novum.blog",
+                "X-Title": "TrendScout"
+            }
+            payload = {
+                "model": "meta-llama/llama-3.3-70b-instruct:free",
+                "messages": [{"role": "user", "content": prompt}],
+                "temperature": 0.7,
+                "max_tokens": 2048
+            }
+            if force_json:
+                payload["response_format"] = {"type": "json_object"}
+
+            resp = requests.post(
+                "https://openrouter.ai/api/v1/chat/completions",
+                headers=headers, json=payload, timeout=60
+            )
+            if resp.status_code == 200:
+                data = resp.json()
+                text = data["choices"][0]["message"]["content"].strip()
+                if text and len(text) > 20:
+                    print("   ✅ OpenRouter respondió correctamente.")
+                    return text
+                else:
+                    print("   ⚠️ OpenRouter respuesta vacía. Saltando...")
+            elif resp.status_code == 429:
+                print(f"   ⚠️ OpenRouter rate-limit (429). Saltando...")
+            else:
+                print(f"   ⚠️ OpenRouter HTTP {resp.status_code}: {resp.text[:150]}")
+        except requests.exceptions.Timeout:
+            print("   ⚠️ OpenRouter timeout (60s). Cortocircuito → HF...")
+        except Exception as e:
+            print(f"   ⚠️ OpenRouter error: {e}")
+    else:
+        print("   ⚠️ OPENROUTER_SCOUT_KEY no configurada. Saltando...")
+
+    # ── INTENTO 2: HuggingFace Serverless (Qwen2.5-7B-Instruct) ──
+    if HF_SCOUT_KEY:
+        print("   🤗 [Omega] Intento 2: HF Serverless / Qwen2.5-7B...")
+        try:
+            hf_url = "https://api-inference.huggingface.co/models/Qwen/Qwen2.5-7B-Instruct/v1/chat/completions"
+            hf_headers = {
+                "Authorization": f"Bearer {HF_SCOUT_KEY}",
+                "Content-Type": "application/json"
+            }
+            hf_payload = {
+                "model": "Qwen/Qwen2.5-7B-Instruct",
+                "messages": [{"role": "user", "content": prompt}],
+                "temperature": 0.7,
+                "max_tokens": 2048,
+                "stream": False
+            }
+            resp = requests.post(hf_url, headers=hf_headers, json=hf_payload, timeout=120)
+
+            if resp.status_code == 200:
+                data = resp.json()
+                text = data["choices"][0]["message"]["content"].strip()
+                if text and len(text) > 20:
+                    # Limpieza preventiva: extraer JSON si viene envuelto en markdown
+                    if force_json:
+                        json_match = re.search(r'\{.*\}', text, re.DOTALL)
+                        if json_match:
+                            text = json_match.group(0)
+                    print("   ✅ HF/Qwen respondió correctamente.")
+                    return text
+                else:
+                    print("   ⚠️ HF respuesta vacía. Saltando...")
+            elif resp.status_code == 503:
+                # Cold Start — cortocircuito inmediato, NO esperamos
+                est = resp.json().get("estimated_time", 999)
+                print(f"   ⚠️ HF modelo dormido (503). Tiempo estimado: {est:.0f}s. Cortocircuito → Gemini...")
+            elif resp.status_code == 429:
+                print("   ⚠️ HF rate-limit (429). Saltando...")
+            else:
+                print(f"   ⚠️ HF HTTP {resp.status_code}: {resp.text[:150]}")
+        except requests.exceptions.Timeout:
+            print("   ⚠️ HF timeout (120s). Cortocircuito → Gemini...")
+        except Exception as e:
+            print(f"   ⚠️ HF error: {e}")
+    else:
+        print("   ⚠️ HF_SCOUT_API_KEY no configurada. Saltando...")
+
+    # ── INTENTO 3: Gemini 2.0 Flash (Paracaídas) ──
+    if client:
+        print("   🚨 [Omega] Intento 3 (Emergencia): Gemini 2.0 Flash...")
+        try:
+            config_kwargs = {}
+            if force_json:
+                config_kwargs["response_mime_type"] = "application/json"
+            resp = client.models.generate_content(
+                model='gemini-2.0-flash',
+                contents=prompt,
+                config=types.GenerateContentConfig(**config_kwargs) if config_kwargs else None
+            )
+            if resp.text and len(resp.text.strip()) > 20:
+                print("   ✅ Gemini respondió (emergencia).")
+                return resp.text.strip()
+        except Exception as e:
+            print(f"   ❌ Gemini error: {e}")
+    
+    print("   ❌ [Omega] TODOS los motores fallaron.")
+    return None
 
 # ============================================================
 # CONFIGURACIÓN POR CATEGORÍA
@@ -334,10 +469,11 @@ OUTPUT FORMAT (exactly 3 lines, no numbering, no quotes):
 
 OUTPUT ONLY THE 3 LINES. Nothing else."""
 
-    try:
-        resp = client.models.generate_content(model='gemini-2.0-flash', contents=selector_prompt)
+    # === OMEGA MATRIX: Selector usa la cascada waterfall ===
+    resp_text = _llm_generate(selector_prompt)
+    if resp_text:
         selected = []
-        for line in resp.text.strip().split('\n'):
+        for line in resp_text.strip().split('\n'):
             line = line.strip()
             if line.startswith('[ES]'):
                 title = line[4:].strip().lstrip('- ').strip()
@@ -351,8 +487,6 @@ OUTPUT ONLY THE 3 LINES. Nothing else."""
         if selected:
             print(f"   🏆 [Selector] {len(selected)} temas seleccionados")
             return selected[:count]
-    except Exception as e:
-        print(f"   ⚠️ [Selector] Error: {e}")
     
     # Fallback: devolver los primeros headlines raw
     return all_headlines[:count]

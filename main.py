@@ -551,39 +551,37 @@ def _get_internal_links(category, lang, current_slug=""):
 
 def _call_en_engine(prompt_text):
     """
-    Motor Inglés Trinity: GLM-4-Flash → Fallback OpenRouter/Llama3.
-    Usa la API compatible con OpenAI para ambos proveedores.
+    Motor Inglés Omega: OpenRouter GLM-4.5-Air → OpenRouter Llama-3.3-70B → Gemini Emergency.
+    Segregación total de cuotas: toda la cascada EN pasa por OpenRouter.
     """
-    # --- INTENTO 1: Zhipu GLM-4-Flash ---
-    zhipu_key = os.getenv("ZHIPU_API_KEY")
-    if zhipu_key:
-        print("   🧠 [Trinity EN] Motor 1: Zhipu GLM-4.7-FlashX...")
+    or_key = os.getenv("OPENROUTER_API_KEY")
+
+    # --- INTENTO 1: OpenRouter / GLM-4.5-Air (Velocidad y Agentes) ---
+    if or_key:
+        print("   🧠 [Omega EN] Motor 1: OpenRouter / GLM-4.5-Air...")
         try:
-            glm_client = OpenAI(
-                api_key=zhipu_key,
-                base_url="https://open.bigmodel.cn/api/paas/v4/"
+            or_client = OpenAI(
+                api_key=or_key,
+                base_url="https://openrouter.ai/api/v1"
             )
-            resp = glm_client.chat.completions.create(
-                model="glm-4.7-flashx",
+            resp = or_client.chat.completions.create(
+                model="zhipuai/glm-4.5-air:free",
                 messages=[{"role": "user", "content": prompt_text}],
                 temperature=0.85,
                 max_tokens=4096
             )
             result = resp.choices[0].message.content.strip()
             if result and len(result) > 200:
-                print("   ✅ GLM-4-Flash respondió correctamente.")
+                print("   ✅ GLM-4.5-Air (OpenRouter) respondió correctamente.")
                 return result
             else:
-                print("   ⚠️ GLM respuesta vacía o muy corta. Activando fallback...")
+                print("   ⚠️ GLM-4.5-Air respuesta vacía o muy corta. Activando fallback...")
         except Exception as e:
-            print(f"   ⚠️ GLM-4.7-FlashX error: {e}. Activando fallback OpenRouter...")
-    else:
-        print("   ⚠️ ZHIPU_API_KEY no configurada. Saltando a OpenRouter...")
+            print(f"   ⚠️ GLM-4.5-Air error: {e}. Activando fallback Llama...")
 
-    # --- INTENTO 2: OpenRouter / Llama 3 ---
-    or_key = os.getenv("OPENROUTER_API_KEY")
+    # --- INTENTO 2: OpenRouter / Llama 3.3 70B (Fuerza Literaria) ---
     if or_key:
-        print("   🔄 [Trinity EN] Motor 2 (Fallback): OpenRouter / Llama 3...")
+        print("   🔄 [Omega EN] Motor 2: OpenRouter / Llama-3.3-70B...")
         try:
             or_client = OpenAI(
                 api_key=or_key,
@@ -597,17 +595,17 @@ def _call_en_engine(prompt_text):
             )
             result = resp.choices[0].message.content.strip()
             if result and len(result) > 200:
-                print("   ✅ OpenRouter/Llama-3.3-70B respondió correctamente.")
+                print("   ✅ Llama-3.3-70B (OpenRouter) respondió correctamente.")
                 return result
             else:
-                print("   ⚠️ OpenRouter respuesta vacía. Cayendo a Gemini de emergencia...")
+                print("   ⚠️ Llama respuesta vacía. Cayendo a Gemini de emergencia...")
         except Exception as e:
-            print(f"   ⚠️ OpenRouter error: {e}. Cayendo a Gemini de emergencia...")
+            print(f"   ⚠️ Llama-3.3-70B error: {e}. Cayendo a Gemini de emergencia...")
     else:
         print("   ⚠️ OPENROUTER_API_KEY no configurada. Cayendo a Gemini de emergencia...")
 
     # --- EMERGENCIA: Gemini (nunca dejar sin artículo) ---
-    print("   🚨 [Trinity EN] Motor de Emergencia: Gemini...")
+    print("   🚨 [Omega EN] Motor de Emergencia: Gemini 2.0 Flash...")
     resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt_text)
     return resp.text.strip()
 
@@ -957,14 +955,40 @@ CRITICAL RULES:
     else:
         prompt += "\n\n[🔴 CRITICAL FINAL DIRECTIVE]: YOU MUST WRITE 100% OF THE ARTICLE CONTENT IN ENGLISH. If you write any paragraph in Spanish, YOU FAIL. All H2s, H3s, bullets, sentences, paragraphs: ALL in English. Only proper nouns stay as-is."
 
-    # === CEREBRO ESPAÑOL: GEMINI ===
+    # === CEREBRO ESPAÑOL: ZHIPU GLM-4.7-FlashX (Motor Principal Único) ===
     if lang == "es":
-        print("   🇪🇸 [Fase 2/3] Motor ES: Gemini 2.0 Flash")
-        resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
-        resultado = resp.text.strip()
-    # === CEREBRO INGLÉS: GLM → OpenRouter → Gemini Emergency ===
+        zhipu_key = os.getenv("ZHIPU_API_KEY")
+        if zhipu_key:
+            print("   🇪🇸 [Omega ES] Motor Principal: Zhipu GLM-4.7-FlashX")
+            try:
+                glm_client = OpenAI(
+                    api_key=zhipu_key,
+                    base_url="https://open.bigmodel.cn/api/paas/v4/"
+                )
+                resp = glm_client.chat.completions.create(
+                    model="glm-4.7-flashx",
+                    messages=[{"role": "user", "content": prompt}],
+                    temperature=0.85,
+                    max_tokens=4096
+                )
+                resultado = resp.choices[0].message.content.strip()
+                if resultado and len(resultado) > 200:
+                    print("   ✅ GLM-4.7-FlashX respondió correctamente.")
+                else:
+                    print("   ⚠️ GLM respuesta corta. Cayendo a Gemini de emergencia...")
+                    resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
+                    resultado = resp.text.strip()
+            except Exception as e:
+                print(f"   ⚠️ GLM-4.7-FlashX error: {e}. Cayendo a Gemini de emergencia...")
+                resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
+                resultado = resp.text.strip()
+        else:
+            print("   ⚠️ ZHIPU_API_KEY no configurada. Usando Gemini de emergencia...")
+            resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
+            resultado = resp.text.strip()
+    # === CEREBRO INGLÉS: GLM-4.5-Air → Llama 3.3 70B → Gemini Emergency ===
     else:
-        print("   🇬🇧 [Fase 2/3] Motor EN: GLM-4-Flash → OpenRouter → Gemini")
+        print("   🇬🇧 [Omega EN] Motor EN: GLM-4.5-Air → Llama-3.3-70B → Gemini")
         resultado = _call_en_engine(prompt)
         
     # === VALIDACIÓN DE LONGITUD MÍNIMA (Ambos idiomas) ===
@@ -1039,8 +1063,28 @@ OUTPUT: The cleaned Markdown article matching Autoblog house style. NOTHING ELSE
 
     try:
         if lang == "es":
-            sanitize_resp = client.models.generate_content(model='gemini-2.0-flash', contents=sanitize_prompt)
-            clean_result = sanitize_resp.text.strip()
+            # Sanitizador ES: Zhipu GLM con fallback Gemini
+            zhipu_key = os.getenv("ZHIPU_API_KEY")
+            if zhipu_key:
+                try:
+                    glm_client = OpenAI(
+                        api_key=zhipu_key,
+                        base_url="https://open.bigmodel.cn/api/paas/v4/"
+                    )
+                    resp = glm_client.chat.completions.create(
+                        model="glm-4.7-flashx",
+                        messages=[{"role": "user", "content": sanitize_prompt}],
+                        temperature=0.7,
+                        max_tokens=4096
+                    )
+                    clean_result = resp.choices[0].message.content.strip()
+                except Exception as e:
+                    print(f"   ⚠️ GLM sanitizer error: {e}. Usando Gemini...")
+                    sanitize_resp = client.models.generate_content(model='gemini-2.0-flash', contents=sanitize_prompt)
+                    clean_result = sanitize_resp.text.strip()
+            else:
+                sanitize_resp = client.models.generate_content(model='gemini-2.0-flash', contents=sanitize_prompt)
+                clean_result = sanitize_resp.text.strip()
         else:
             clean_result = _call_en_engine(sanitize_prompt)
         
