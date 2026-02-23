@@ -42,7 +42,7 @@ jobs:
         run: |
           git config --global user.name "JoseAQ-19"
           git config --global user.email "josearizaquintero@gmail.com"
-          git add content/es/ia/ data/
+          git add content/es/ia/ data/ static/images/
           git diff --staged --quiet && echo "No new content generated" && exit 0
           git commit -m "🤖 IA (ES) Content Generated"
           git pull --rebase origin main
