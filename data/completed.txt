@@ -21,3 +21,4 @@ ia: Gemini 3.1 Pro: ¿Realmente el nuevo rey de la IA? Un análisis crítico de 
 ia: Ask HN: Is the rate of progress in AI exponential?
 crypto: Bitcoin's $71K Line in the Sand: On-Chain Data Reveals Make-or-Break Moment for Bulls
 ia: SaaSpocalypse Now: Por qué la IA está llevando al software tradicional al borde de la extinción (y quién se beneficia)
+ia: The *Real* Enterprise AI Winner? Why Companies Are Ignoring the Hype
