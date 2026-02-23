@@ -56,6 +56,8 @@ PALABRAS Y FRASES VETADAS (Penalización severa si las usas):
 - "Un arma de doble filo"
 - "Navegar por el panorama de..."
 - "Es importante destacar que..."
+
+LONGITUD MÍNIMA: 1500 palabras. Los artículos de menos de 1200 palabras se RECHAZAN AUTOMÁTICAMENTE.
 """
 
 PROMPT_PERSONA_EN = """ROLE: You are a cynical Silicon Valley insider and Investigative Tech Journalist in the style of TechCrunch and The Verge. You write for people who already know the basics — your job is to blow their minds with angles they haven't thought of. You hate corporate PR, fluff, and Wikipedia summaries.
@@ -75,6 +77,8 @@ BANNED WORDS AND PHRASES (Severe penalty if used):
 - "It's important to note that..."
 - "It remains to be seen"
 - "Game-changer" (without data to support it)
+
+MINIMUM LENGTH: 1500 words. Articles under 1200 words are AUTOMATICALLY REJECTED.
 """
 
 # --- PROMPTS ESPECIALIZADOS POR NICHO ---
@@ -95,6 +99,8 @@ PALABRAS Y FRASES VETADAS:
 - "Consulta a tu médico" (como cierre genérico)
 - "Secretos para adelgazar"
 - "Trucos rápidos"
+
+LONGITUD MÍNIMA: 1500 palabras. Los artículos de menos de 1200 palabras se RECHAZAN AUTOMÁTICAMENTE.
 """
 
 PROMPT_FITNESS_EN = """ROLE: You are an Exercise Physiologist and Investigative Sports Science Journalist in the style of Stronger By Science and BarBend. You hold a PhD in human physiology and write at an academic level — but digestible. You despise generic "5 exercises to burn fat" articles and Instagram gurus with zero credentials.
@@ -138,6 +144,8 @@ PALABRAS Y FRASES VETADAS:
 - "¡Bitcoin se va a la luna!" o cualquier variante emocional
 - "DYOR" (sin añadir cómo hacer esa investigación)
 - "Revolucionar" (sin datos que lo respalden)
+
+LONGITUD MÍNIMA: 1500 palabras. Los artículos de menos de 1200 palabras se RECHAZAN AUTOMÁTICAMENTE.
 """
 
 
@@ -181,6 +189,8 @@ PALABRAS Y FRASES VETADAS:
 - "La consistencia es la clave"
 - "En esta era digital"
 - Cualquier consejo tipo tutorial (cómo editar, qué cámara comprar, etc.)
+
+LONGITUD MÍNIMA: 1500 palabras. Los artículos de menos de 1200 palabras se RECHAZAN AUTOMÁTICAMENTE.
 """
 
 PROMPT_YOUTUBE_EN = """ROLE: You are a Creator Economy Correspondent in the style of Tubefilter and Dexerto. You treat creators as BUSINESSES, not celebrities. You report on RPMs, retention drops, sponsorship deals, demonetization, and concurrent viewership. You despise articles that merely summarize drama without explaining the business impact.
@@ -219,6 +229,8 @@ PALABRAS Y FRASES VETADAS:
 - "Está arrasando en redes sociales"
 - "Ha roto internet"
 - "Queda por ver" / "Ya veremos"
+
+LONGITUD MÍNIMA: 1500 palabras. Los artículos de menos de 1200 palabras se RECHAZAN AUTOMÁTICAMENTE.
 """
 
 PROMPT_VIRAL_EN = """ROLE: You are a Cultural Critic and Tech Culture Analyst in the style of Vox and The Atlantic's tech section. You don't do gossip — you write Think Pieces. You take a TikTok controversy or Twitter meltdown and analyze it through the lens of sociology, economics, or algorithm design. Your titles are narrative, not clickbait: "The quiet collapse of..." / "AI agents could change your life — if they don't ruin it first."
@@ -253,6 +265,8 @@ FRAMEWORK COGNITIVO (OBLIGATORIO):
 
 PALABRAS VETADAS:
 - "Magia", "Un mundo de posibilidades", "Fácil y rápido", "Simplemente", "Descubre cómo"
+
+LONGITUD MÍNIMA: 1500 palabras. Los artículos de menos de 1200 palabras se RECHAZAN AUTOMÁTICAMENTE.
 """
 
 PROMPT_TOOLS_EN = """ROLE: You are an Automation Expert and Senior Technical Writer in the style of How-To Geek or the Zapier blog. You don't do opinion journalism; you do problem-oriented Step-by-Step Guides. You write with clinical clarity.
@@ -266,6 +280,8 @@ COGNITIVE FRAMEWORK (MANDATORY):
 
 BANNED WORDS:
 - "Magic", "World of possibilities", "Quick and easy", "Simply", "Discover how"
+
+MINIMUM LENGTH: 1500 words. Articles under 1200 words are AUTOMATICALLY REJECTED.
 """
 
 SYSTEM_FORMAT_RULES = """
@@ -292,19 +308,30 @@ CRITICAL FORMATTING RULES (ZERO TOLERANCE — VIOLATION = ARTICLE REJECTED):
    - One longer analytical paragraph (5-6 sentences)
    UNIFORM paragraph length is FORBIDDEN.
 8. MANDATORY 7-SECTION STRUCTURE (H2 ONLY):
-   Every article MUST have exactly 7 main sections (H2 Headers) as follows:
+   Every article MUST have exactly 7 main sections (H2 Headers). 
+   IF YOU ARE WRITING IN ENGLISH, use headers conceptually similar to these:
    - ## The Hook (Provocative opening + BLUF)
    - ## The Signal & The Data (Numbers, facts, funding, specific metrics)
    - ## The Expert Consensus (What the industry says + Quotes)
    - ## The Contrarian Crack (Why the consensus is wrong or incomplete)
    - ## The Economic/Sociological Impact (The 'So What?')
    - ## The Case Study (Real-world implementation or failure)
-   - ## The Novum Verdict (Final, polarizing editorial take)
+   - ## The Bottom Line (Final, polarizing editorial take)
+   
+   IF YOU ARE WRITING IN SPANISH, ALL HEADERS MUST BE IN SPANISH:
+   - ## El gancho
+   - ## Los datos y la realidad
+   - ## El consenso experto
+   - ## La perspectiva contrariana
+   - ## El impacto económico / sociológico
+   - ## El caso de estudio
+   - ## Nuestra lectura
+   
    Each section MUST be at least 250-300 words long to achieve the 1500+ word total.
 
-9. NO CONSTANT BULLET LISTS:
+9. NO BULLET LISTS SPAM AND NO TABLES ALLOWED:
    Do NOT use bullet point lists in every section. Maximum ONE bulleted list per article.
-   Prefer narrative prose, numbered steps, comparison tables, or Q&A format.
+   ABSOLUTE PROHIBITION ON TABLES: UNDER NO CIRCUMSTANCES should you use Markdown tables (| --- |). They never format correctly. Always use narrative prose or bullet points if you must compare data.
 10. PERSONAL VOICE (MANDATORY):
     Include at least ONE editorial hot take, personal opinion, or rhetorical question that shows genuine author personality.
     The article must NOT read like a Wikipedia summary.
@@ -887,7 +914,7 @@ CRITICAL RULES:
 
 🌐 GEO-DOMINANCE & FORMATTING:
 - The 3 TL;DR bullets (described above) ARE the GEO signal. No separate "Key Takeaways" header needed.
-- TABLE USE (PROBABILISTIC): If comparing 3 or more complex data points, use a clean Markdown table (| --- |). Otherwise, rely on spaced bullet lists. Vary your structural choices.
+- ZERO TABLES ALLOWED: NO Markdown tables (|---|) under ANY circumstances. They frequently break the frontend. Format any comparisons as prose or simple text.
 - SPACED LISTS: Whenever you use a bulleted list (* ), ALWAYS add a blank line between each bullet point so they don't render bunched together.
 - ENTITY DENSITY: Always write "Satya Nadella, CEO de Microsoft" never "el CEO". Full names everywhere.
 - CITATION FORMAT: Weave source names into sentences: "Según [nombre de la fuente](URL), dato..." Never cite anonymously.
@@ -976,7 +1003,7 @@ AUTOBLOG HOUSE STYLE CHECKLIST (apply ALL):
    - Replace vague pronouns ("the company", "the expert", "el CEO") with actual names and titles.
 
 7. TABLE AND LIST CHECK (CRITICAL FORMATTING):
-   - TABLE OPTIMIZATION: Keep Markdown tables ONLY if they compare 3 or more entities clearly. If it's a simple list, convert to text. Ensure table headers are clean.
+   - ABSOLUTE PROHIBITION ON TABLES: Ensure there are NO Markdown tables anywhere. If a table exists, CONVERT IT into narrative paragraphs.
    - LIST SPACING: Ensure there is an empty line between EVERY bullet point in the article. Bullets must never touch each other.
 
 8. CLOSING:
@@ -1040,6 +1067,25 @@ def _clean_article_content(text):
     text = re.sub(r'\*?No se (?:encontraron|pudieron encontrar) datos\.?\*?', '', text, flags=re.IGNORECASE)
     text = re.sub(r'The research doesn\'t mention.*?\.', '', text, flags=re.IGNORECASE)
     text = re.sub(r'I couldn\'t find.*?\.', '', text, flags=re.IGNORECASE)
+    
+    # 2b. ELIMINAR huellas directas de IA ("As an AI...")
+    ai_phrases = [
+        r'As an AI(?: language model)?.*?,?',
+        r'Como(?: un)? modelo de lenguaje(?: de IA| de inteligencia artificial)?,?',
+        r'I am an AI.*?\.',
+        r'Soy una IA.*?\.',
+        r'Como IA, no (?:tengo|puedo).*?\,',
+        r'I don\'t have personal opinions.*?,',
+        r'No tengo opiniones personales.*?,',
+        r'I cannot foresee the future.*?,',
+        r'It is not possible for me to.*?,',
+        r'As a virtual assistant.*?,',
+        r'I am not capable of.*?,',
+        r'Sin embargo, como IA.*?,',
+        r'Please note that I am.*?,',
+    ]
+    for phrase in ai_phrases:
+        text = re.sub(phrase, '', text, flags=re.IGNORECASE)
     
     # 3. ELIMINAR [cite: X] markers de NotebookLM
     text = re.sub(r'\s*\[cite:\s*\d+(?:,\s*\d+)*\]', '', text)
