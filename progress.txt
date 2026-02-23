@@ -1,0 +1,19 @@
+# GSD Progress Log - Autoblogger AdSense
+
+## 🚀 Hito: Matriz Omega & Zhipu ES (Completado)
+- [x] Refactorización `trend_scout.py` con cascada OpenRouter -> HF Qwen -> Gemini.
+- [x] Refactorización `main.py` para usar Zhipu GLM-4.7-FlashX exclusivo en ES (adiós al inglés furtivo).
+- [x] Refactorización `main.py` para cascada EN (OpenRouter GLM-4.5-Air -> Llama3 -> Gemini).
+- [x] Bloqueo inquebrantable de `novum_visual.py` (usando sus llaves originales API intactas).
+- [x] Inyección de variables `OPENROUTER_SCOUT_KEY` y `HF_SCOUT_API_KEY` a los 10 workflows `scout-*.yml`.
+- [x] Parche para `escribir_blueprint` -> Obligado a usar motores Omega/Zhipu para evitar traducciones defectuosas de Gemini.
+
+## 🟡 Tareas Pendientes Inmediatas (Auditoría de Fidelidad)
+- [ ] Test E2E de Zhipu GLM-4.7-FlashX en Español para confirmar eliminación de "ghost articles en inglés".
+- [ ] Personalizar "System Prompts" por motor (diferenciar Llama y GLM en el código).
+- [ ] Sitemap SEO optimizado (Generar plantillas `layouts/sitemap.xml` exclusivas en vez del base de Hugo).
+- [ ] Añadir compresión a .WebP pre-publicación en Hugo en vez de .JPG nativo.
+
+## 📝 Notas de Ejecución:
+- Todo funciona por Actions y la arquitectura "Headless CMS + Serverless" sigue robusta.
+- Próxima parada recomendada: Probar el workflow manualmente ahora que toda la tubería confía ciegamente en Zhipu para el español y OpenRouter para el inglés.

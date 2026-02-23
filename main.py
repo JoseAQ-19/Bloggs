@@ -1231,8 +1231,28 @@ def escribir_blueprint(tutorial_data, lang="en"):
         transcript=tutorial_data['transcript'][:30000]
     ) + f"\n{SYSTEM_FORMAT_RULES}"
     
-    # === TRINITY: Misma lógica de motores aislados ===
+    # === OMEGA MATRIX: Zhipu para ES, Cascada para EN ===
     if lang == "es":
+        zhipu_key = os.getenv("ZHIPU_API_KEY")
+        if zhipu_key:
+            try:
+                glm_client = OpenAI(
+                    api_key=zhipu_key,
+                    base_url="https://open.bigmodel.cn/api/paas/v4/"
+                )
+                resp = glm_client.chat.completions.create(
+                    model="glm-4.7-flashx",
+                    messages=[{"role": "user", "content": prompt}],
+                    temperature=0.85,
+                    max_tokens=4096
+                )
+                resultado = resp.choices[0].message.content.strip()
+                if resultado and len(resultado) > 200:
+                    return resultado
+            except Exception as e:
+                print(f"   ⚠️ GLM-4.7-FlashX error en blueprint: {e}. Cayendo a Gemini...")
+        
+        # Fallback Gemini si falla Zhipu o no hay key
         resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
         return resp.text.strip()
     else:
