@@ -28,3 +28,4 @@ youtube: Lola Lolita y su bolso de 4000€ desatan la guerra influencer: ¿Se ac
 youtube: MrBeast Under Fire: Inside the Scandal Rocking YouTube's King
 youtube: Logan Paul & MrBeast's Mold Scandal: Did They Risk Public Health for Profit?
 ia: El "Apocalipsis SaaS" es una farsa: por qué las recompras de estas empresas lo demuestran
+ia: ChatGPT vs Gemini vs Claude: Enterprise AI Devs Should Beware This Overlooked Security Risk
