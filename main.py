@@ -291,13 +291,24 @@ CRITICAL FORMATTING RULES (ZERO TOLERANCE — VIOLATION = ARTICLE REJECTED):
    - One single-sentence paragraph for dramatic effect
    - One longer analytical paragraph (5-6 sentences)
    UNIFORM paragraph length is FORBIDDEN.
-8. NO CONSTANT BULLET LISTS:
+8. MANDATORY 7-SECTION STRUCTURE (H2 ONLY):
+   Every article MUST have exactly 7 main sections (H2 Headers) as follows:
+   - ## The Hook (Provocative opening + BLUF)
+   - ## The Signal & The Data (Numbers, facts, funding, specific metrics)
+   - ## The Expert Consensus (What the industry says + Quotes)
+   - ## The Contrarian Crack (Why the consensus is wrong or incomplete)
+   - ## The Economic/Sociological Impact (The 'So What?')
+   - ## The Case Study (Real-world implementation or failure)
+   - ## The Novum Verdict (Final, polarizing editorial take)
+   Each section MUST be at least 250-300 words long to achieve the 1500+ word total.
+
+9. NO CONSTANT BULLET LISTS:
    Do NOT use bullet point lists in every section. Maximum ONE bulleted list per article.
    Prefer narrative prose, numbered steps, comparison tables, or Q&A format.
-9. PERSONAL VOICE (MANDATORY):
-   Include at least ONE editorial hot take, personal opinion, or rhetorical question that shows genuine author personality.
-   The article must NOT read like a Wikipedia summary.
-10. LANGUAGE PURITY:
+10. PERSONAL VOICE (MANDATORY):
+    Include at least ONE editorial hot take, personal opinion, or rhetorical question that shows genuine author personality.
+    The article must NOT read like a Wikipedia summary.
+11. LANGUAGE PURITY:
     If writing in Spanish, ALL text must be in Spanish. No Spanglish, no untranslated English headers.
     If writing in English, ALL text must be in English.
 """
