@@ -22,3 +22,4 @@ ia: Ask HN: Is the rate of progress in AI exponential?
 crypto: Bitcoin's $71K Line in the Sand: On-Chain Data Reveals Make-or-Break Moment for Bulls
 ia: SaaSpocalypse Now: Por qué la IA está llevando al software tradicional al borde de la extinción (y quién se beneficia)
 ia: The *Real* Enterprise AI Winner? Why Companies Are Ignoring the Hype
+ia: SaaSpocalypse: ¿Sobrevivirán las empresas de software a la IA? Los datos que no te cuentan.
