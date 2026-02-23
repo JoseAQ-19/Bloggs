@@ -274,7 +274,7 @@ RULES: Focus on specific events, data, launches, or controversies. No generic ev
 # SELECTOR: LLM elige los 3 mejores temas
 # ============================================================
 
-def select_best_topics(all_headlines, category, config, count=3):
+def select_best_topics(all_headlines, category, config, count=3, target_lang=None):
     """LLM selector: elige los temas con más potencial viral y editorial."""
     if not all_headlines:
         return []
@@ -309,7 +309,12 @@ def select_best_topics(all_headlines, category, config, count=3):
 - REJECT generic overview topics ("What is X", "Guide to Y")
 - Prefer topics that target ADVANCED users, not beginners"""
 
-    output_format = f"[ES] Rewritten Spanish title\n" * 3 if target_lang == "es" else (f"[EN] Rewritten English title\n" * 3 if target_lang == "en" else "[ES] Rewritten Spanish title\n[EN] Rewritten English title\n[ES or EN] Rewritten title in whichever language")
+    if target_lang == "es":
+        output_format = "[ES] Rewritten Spanish title\n[ES] Rewritten Spanish title\n[ES] Rewritten Spanish title"
+    elif target_lang == "en":
+        output_format = "[EN] Rewritten English title\n[EN] Rewritten English title\n[EN] Rewritten English title"
+    else:
+        output_format = "[ES] Rewritten Spanish title\n[EN] Rewritten English title\n[ES or EN] Rewritten title in whichever language"
 
     selector_prompt = f"""ACT AS: Senior Editorial Director.
 
@@ -403,7 +408,7 @@ def scout(category, target_lang=None):
     print(f"\n   📊 TOTAL: {len(all_headlines)} titulares recopilados [{lang_label}]")
     
     # === SELECCIÓN LLM ===
-    best_topics = select_best_topics(all_headlines, category, config, count=3)
+    best_topics = select_best_topics(all_headlines, category, config, count=3, target_lang=target_lang)
     
     # Forzar el lang correcto en todos los topics seleccionados (monolingüe)
     if target_lang:

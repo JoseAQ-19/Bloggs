@@ -1,4 +1,5 @@
 import os
+import sys
 import json
 import re
 import time
@@ -1290,8 +1291,8 @@ def main():
     # --- FALLBACK: TrendHunter clásico si no hay JSON o no hay temas válidos ---
     if not tema:
         if os.environ.get("GITHUB_ACTIONS") == "true":
-            print("🛑 [Relay-Race] Ejecución en GitHub Actions: no hay JSON válido. Abortando para evitar SPoF (no fallback).")
-            return
+            print("🛑 [Relay-Race] Ejecución en GitHub Actions: no hay JSON válido. EXIT 1 para detener la cadena.")
+            sys.exit(1)
             
         print(f"   🔄 [Fallback] Usando TrendHunter clásico...")
         for topic_attempt in range(5):
@@ -1311,6 +1312,8 @@ def main():
     
     if not tema:
         print(f"🚫 ABORTADO: No se encontró tema válido para '{cat}'.")
+        if os.environ.get("GITHUB_ACTIONS") == "true":
+            sys.exit(1)
         return
     
     print(f"🎯 TEMA: {tema} | IDIOMA ORIGEN: {tema_lang.upper()}")
