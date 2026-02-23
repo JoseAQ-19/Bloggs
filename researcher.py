@@ -27,15 +27,20 @@ def build_research_query(topic, category, search_context="", lang="es"):
     forzados, en lugar de lanzar keywords desnudas al buscador.
     """
     if lang == "es":
-        geo_rules = """[GEO-RESEARCH: SPANISH / HISPANIC MARKET]
-- AVOID basic machine translations of US sources. We want FRESH data from native Spain/LatAm sources.
-- PRIORITIZE domains: .es, .mx, .ar, .co and high-authority Hispanic digital press.
-- Internal search queries MUST be formulated in Spanish to capture local nuances."""
+        geo_rules = """[GEO-RESEARCH: SPAIN MARKET ONLY]
+- TARGET AUDIENCE: Readers in SPAIN (Madrid, Barcelona, Valencia, Bilbao). NOT Latin America.
+- AVOID basic machine translations of US sources. We want FRESH data from SPANISH (Spain) native sources.
+- PRIORITIZE domains: .es (mandatory), xataka.com, elpais.com, elmundo.es, genbeta.com, elconfidencial.com.
+- DO NOT prioritize .mx, .ar, .co, or LatAm sources. Spain-first always.
+- Internal search queries MUST be formulated in Peninsular Spanish ("ordenador" not "computadora", "móvil" not "celular").
+- REGULATORY CONTEXT: Reference EU regulations (AI Act, GDPR), CNMV for crypto, Agencia Española de Protección de Datos."""
     else:
-        geo_rules = """[GEO-RESEARCH: ENGLISH / GLOBAL MARKET]
-- PRIORITIZE US and International high-authority sources.
-- PRIORITIZE domains: .com, .io, .gov, .edu.
-- Internal search queries MUST be formulated in advanced technical English."""
+        geo_rules = """[GEO-RESEARCH: SILICON VALLEY / WALL STREET MARKET]
+- TARGET AUDIENCE: US tech professionals, VCs, and Wall Street analysts.
+- PRIORITIZE US-based high-authority sources ONLY. No UK (BBC Tech, The Guardian) or generic international.
+- PRIORITIZE domains: .com (TechCrunch, The Verge, Ars Technica, WSJ), .gov (SEC, FTC, NIST), .edu (Stanford, MIT, CMU).
+- Internal search queries MUST be formulated in advanced technical American English.
+- REGULATORY CONTEXT: Reference SEC filings, FTC actions, US executive orders on AI, CFPB rulings."""
 
     return f"""DEEP RESEARCH BRIEF — Topic: "{topic}"
 Category: {category}
@@ -245,9 +250,9 @@ class ResearcherV4:
         if self.exa:
             # 1. Identificación de Pozos de Conocimiento
             if lang == "es":
-                query = f"'{topic}' site:reddit.com OR site:forocoches.com OR site:medium.com OR site:x.com OR site:.es OR site:.mx OR site:.ar OR site:.gob"
+                query = f"'{topic}' site:reddit.com OR site:forocoches.com OR site:xataka.com OR site:elmundo.es OR site:genbeta.com OR site:.es"
             else:
-                query = f"'{topic}' site:reddit.com OR site:news.ycombinator.com OR site:substack.com OR site:.edu OR site:.pdf"
+                query = f"'{topic}' site:reddit.com OR site:news.ycombinator.com OR site:substack.com OR site:.edu OR site:.gov"
             try:
                 # Omitiendo use_autoprompt porque falla en versiones nuevas de exa-py
                 res = self.exa.search(query, num_results=5, type="neural")
@@ -677,7 +682,7 @@ Do NOT fabricate URLs — only include sources you actually found.
             if lang == "en":
                 rss_url = f"https://news.google.com/rss/search?q={safe_kw}&hl=en-US&gl=US&ceid=US:en"
             else:
-                rss_url = f"https://news.google.com/rss/search?q={safe_kw}&hl=es-419&gl=US&ceid=US:es-419"
+                rss_url = f"https://news.google.com/rss/search?q={safe_kw}&hl=es-ES&gl=ES&ceid=ES:es"
             resp = requests.get(rss_url, timeout=10)
             root = ET.fromstring(resp.content)
             items = root.findall(".//item")[:limit]
