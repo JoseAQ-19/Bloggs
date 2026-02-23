@@ -1,0 +1,26 @@
+{
+  "category": "viral",
+  "lang": "es",
+  "scouted_at": "2026-02-23T21:06:27.088428+00:00",
+  "total_candidates": 15,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "¡Escándalo Real! La foto censurada de los Reyes en Adamuz desata furia en redes (exclusiva)",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Óscar Puente vs. La Razón: La guerra tuit a tuit que incendia las redes (análisis completo)",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "\"6-7\": Desciframos el código secreto de la Gen Z que está volviendo locos a los adultos",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
