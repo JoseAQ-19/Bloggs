@@ -1,0 +1,26 @@
+{
+  "category": "ia",
+  "lang": "en",
+  "scouted_at": "2026-02-23T16:22:27.808191+00:00",
+  "total_candidates": 16,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "The Unexpected AI Tool Companies Actually Use (It's Not What You Think)",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Gemini's Secret Weapon: Why Google Is Using Anthropic's Claude to Beat OpenAI",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Multi-Model Copilot: Is GitHub's Claude & Gemini Integration a Game Changer?",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
