@@ -1,0 +1,26 @@
+{
+  "category": "ia",
+  "lang": "en",
+  "scouted_at": "2026-02-23T15:44:04.347055+00:00",
+  "total_candidates": 22,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "The *Real* Enterprise AI Winner? Why Companies Are Ignoring the Hype",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Pentagon vs. Anthropic: The Secret Fight Over How Claude Gets Used",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Beyond SaaS: Why Databricks Thinks AI Agents Will Replace Your Apps (and What That Means for You)",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
