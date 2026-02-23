@@ -1,0 +1,26 @@
+{
+  "category": "ia",
+  "lang": "es",
+  "scouted_at": "2026-02-23T20:26:49.126120+00:00",
+  "total_candidates": 16,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "El \"Apocalipsis SaaS\" es una farsa: por qué las recompras de estas empresas lo demuestran",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Gemini 3.1 Pro vs. ChatGPT: la comparativa brutal que Google no quiere que veas",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Alquileres en Madrid, 2026: la IA predice la bajada... pero oculta esta trampa para inquilinos",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
