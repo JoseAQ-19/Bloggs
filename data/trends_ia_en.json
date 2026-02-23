@@ -1,0 +1,26 @@
+{
+  "category": "ia",
+  "lang": "en",
+  "scouted_at": "2026-02-23T20:30:29.509954+00:00",
+  "total_candidates": 22,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "ChatGPT vs Gemini vs Claude: Enterprise AI Devs Should Beware This Overlooked Security Risk",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "SaaS Isn't Dead Yet, But Databricks CEO Says AI's Coming Disruption Will Shock You",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Anthropic & Pentagon Clash Over Claude: Are Government AI Guardrails Failing?",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
