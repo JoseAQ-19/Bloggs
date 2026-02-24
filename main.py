@@ -905,6 +905,13 @@ CRITICAL RULES:
 - FORBIDDEN: Vague filler like "This is important because...", "It's worth noting...", "Es importante destacar..."
 - Lead each paragraph with its most important fact (Inverted Pyramid).
 
+🚫 CORPORATE FLUFF BAN:
+- NEVER use these empty words: "democratizar", "estrategia", "sinergia", "potencial", "transformar las operaciones", "fomentar la colaboración", "híbrido", "abordar desafíos".
+- Use aggressive, precise verbs and cynical finance/tech terminology instead.
+
+🛠️ HARDCORE TECH REQUIREMENT:
+- DO NOT talk about "AI" as a magical box. You MUST mention specific infrastructure specs to prove authority: context window sizes (e.g. 1M tokens), GPU compute costs (H100/B200), API pricing paradigms, RAG bottlenecks, latency vectors, or parameter sizes.
+
 🔢 MATH SHIELD:
 - DO NOT perform any calculations. Report numbers EXACTLY as stated by sources.
 - NEVER write "if we divide X by Y" or "this works out to".
