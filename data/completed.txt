@@ -36,3 +36,4 @@ fitness: ¿Cuánto descanso necesitas REALMENTE entre series? La ciencia contrad
 fitness: Metformin for Longevity: Miracle Drug or Premature Hype? A Critical Look
 fitness: Zone 2 Training: The Overhyped Truth About This "Magic" Workout Level
 ia: SaaSpocalypse Now: La IA no solo transforma el software, lo DESTRUYE (y lo que viene después)
+ia: Anthropic's Sonnet 4.6: Is It Really a 5x Cost Savings for Enterprise AI? A Deep Dive.
