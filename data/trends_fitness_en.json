@@ -1,0 +1,26 @@
+{
+  "category": "fitness",
+  "lang": "en",
+  "scouted_at": "2026-02-24T06:13:54.062087+00:00",
+  "total_candidates": 20,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Zone 2 Training: The Overhyped Truth About This \"Magic\" Workout Level",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Creatine for Runners: Does the Science Actually Support It? A Dietitian's Take",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Squats for Knee Pain: Why Your Doctor Might Be Dead Wrong (And What to Do Instead)",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
