@@ -1,0 +1,26 @@
+{
+  "category": "ia",
+  "lang": "en",
+  "scouted_at": "2026-02-24T09:32:57.350962+00:00",
+  "total_candidates": 22,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Anthropic's Sonnet 4.6: Is It Really a 5x Cost Savings for Enterprise AI? A Deep Dive.",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "AI Attack Surge: CrowdStrike Data Reveals How Hackers Are Weaponizing AI, and What You Can Do About It.",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Beyond ChatGPT: GitHub Copilot's Multi-Model Shift Signals a New Era for Enterprise AI Tooling.",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
