@@ -1,0 +1,26 @@
+{
+  "category": "youtube",
+  "lang": "es",
+  "scouted_at": "2026-02-24T17:37:07.856845+00:00",
+  "total_candidates": 21,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Explosión en el mundo streamer: TheGrefg revela la verdad sobre su relación con Ibai y AuronPlay. ¿Amigos o solo colegas?",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Drama en YouTube: Manuel Burque ataca a El Rubius por su huida, desatando una tormenta personal.",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "JC Reyes desafía a AuronPlay a un combate épico en La Velada del Año. ¿Aceptará el rey de Twitch?",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
