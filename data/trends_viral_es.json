@@ -1,0 +1,26 @@
+{
+  "category": "viral",
+  "lang": "es",
+  "scouted_at": "2026-02-24T21:03:25.941816+00:00",
+  "total_candidates": 15,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "¡Escándalo viral! Camarero revela secreto 'fuera de carta' y enciende la furia en redes sociales. ¿Qué ocultan los restaurantes?",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Karla Sofía Gascón vs. Bad Bunny: El mensaje que desató una tormenta racista y la furia de los fans mexicanos.",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Piscinas cerradas por culpa de TikTok: El reto viral vandálico que amargó el verano y desató la indignación.",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
