@@ -14,16 +14,19 @@ class ToolsHunter:
             
         exa = Exa(api_key)
         
-        # BÚSQUEDA OPTIMIZADA (VIRAL TRANSCRIPTION)
-        # Buscamos blogs que reseñen los mejores vídeos o tutoriales paso a paso reales, no docs.
-        query = f"best step-by-step youtube tutorial breakdown for {niche} tools 2026 hidden features tips"
-        print(f"🧠 [Exa] Buscando 'know-how' real: {query}...")
+        # BÚSQUEDA OPTIMIZADA (TECHNICAL ARCHITECTURE & TEARDOWN)
+        # Buscamos documentación oficial, arquitectura y casos de uso empresariales en vez de listados genéricos.
+        query = f"technical architecture review, official documentation changelog, developer benchmark, and advanced deployment use cases for enterprise {niche} software tools 2026"
+        print(f"🧠 [Exa] Buscando inteligencia técnica: {query}...")
         
         try:
+            from datetime import datetime, timedelta
+            start_date = (datetime.now() - timedelta(hours=72)).strftime('%Y-%m-%dT%H:%M:%S.000Z')
             # Exa hace la magia: Busca y extrae contenido limpio
             result = exa.search_and_contents(
                 query,
                 type="neural",
+                start_published_date=start_date,
                 # use_autoprompt=True, # Desactivado
                 num_results=1,
                 text=True, # Extraer texto completo

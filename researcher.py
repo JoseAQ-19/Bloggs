@@ -254,8 +254,10 @@ class ResearcherV4:
             else:
                 query = f"'{topic}' site:reddit.com OR site:news.ycombinator.com OR site:substack.com OR site:.edu OR site:.gov"
             try:
+                from datetime import datetime, timedelta
+                start_date = (datetime.now() - timedelta(hours=72)).strftime('%Y-%m-%dT%H:%M:%S.000Z')
                 # Omitiendo use_autoprompt porque falla en versiones nuevas de exa-py
-                res = self.exa.search(query, num_results=5, type="neural")
+                res = self.exa.search(query, num_results=5, type="neural", start_published_date=start_date)
                 if res and res.results:
                     snippets = "\n".join([f"- {r.title}" for r in res.results])
                     print("   🔍 [Exa Prospección] Resultados tempranos encontrados.")

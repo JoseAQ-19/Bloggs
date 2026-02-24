@@ -221,6 +221,16 @@ CATEGORY_CONFIG = {
         },
         "exa_domains": ["buzzfeed.com", "knowyourmeme.com", "mashable.com", "dailydot.com"],
         "seeds": []
+    },
+    "tools": {
+        "type": "technical",
+        "hn_tags": ["productivity", "automation", "saas", "developer-tools", "nocode"],
+        "news_queries": {
+            "es": ["herramientas automatización SaaS productividad España", "tutorial nocode IA Zapier Make.com"],
+            "en": ["productivity SaaS automation tools this week", "nocode lowcode developer tools trend"]
+        },
+        "exa_domains": ["producthunt.com", "ycombinator.com", "news.ycombinator.com", "techcrunch.com", "indiehackers.com"],
+        "seeds": ["Zapier", "Make.com", "n8n", "Cursor", "Notion", "Airtable", "Roo-Code", "Claude Desktop"]
     }
 }
 
@@ -236,9 +246,11 @@ def fetch_hackernews(tags, limit=5):
         return headlines
     
     try:
+        import time
+        t_72h_ago = int(time.time()) - (72 * 3600)
         # HN Algolia API — 100% público, sin auth
         tag_query = " OR ".join(tags)
-        url = f"https://hn.algolia.com/api/v1/search?query={tag_query}&tags=story&hitsPerPage={limit}"
+        url = f"https://hn.algolia.com/api/v1/search?query={tag_query}&tags=story&numericFilters=created_at_i>{t_72h_ago}&hitsPerPage={limit}"
         resp = requests.get(url, timeout=10)
         data = resp.json()
         
@@ -269,7 +281,8 @@ def fetch_google_news(query, lang="es", limit=5):
     """Extrae titulares reales de Google News RSS."""
     headlines = []
     try:
-        safe_kw = requests.utils.quote(query)
+        actual_query = f"{query} when:24h"
+        safe_kw = requests.utils.quote(actual_query)
         if lang == "es":
             rss_url = f"https://news.google.com/rss/search?q={safe_kw}&hl=es-ES&gl=ES&ceid=ES:es"
         else:
@@ -310,11 +323,14 @@ def fetch_exa_news(query, domains, limit=5):
         return headlines
     
     try:
+        from datetime import datetime, timedelta
+        start_date = (datetime.now() - timedelta(hours=72)).strftime('%Y-%m-%dT%H:%M:%S.000Z')
         res = exa.search(
             query,
             num_results=limit,
             type="neural",
-            include_domains=domains
+            include_domains=domains,
+            start_published_date=start_date
         )
         if res and res.results:
             for r in res.results:
@@ -361,8 +377,11 @@ def fetch_gemini_grounding(category, config, target_lang=None):
             market_instruction = "For SPANISH market: search in Spanish for trending topics in Spain.\nFor ENGLISH market: search for trending topics in the US/global."
             output_format = "[ES] headline in Spanish\n[ES] headline in Spanish\n[ES] headline in Spanish\n[EN] headline in English\n[EN] headline in English\n[EN] headline in English"
         
+        from datetime import datetime
+        current_date_str = datetime.now().strftime("%B %Y")
+        
         if cat_type == "news":
-            prompt = f"""Search for the MOST TALKED ABOUT {category}-related events, drama, controversies, or viral moments happening RIGHT NOW (this week, February 2026).
+            prompt = f"""Search for the MOST TALKED ABOUT {category}-related events, drama, controversies, or viral moments happening RIGHT NOW (this week, {current_date_str}).
 
 {market_instruction}
 
@@ -371,7 +390,7 @@ OUTPUT: List 6 specific, time-sensitive news headlines in this format:
 
 RULES: No tutorials. No guides. Only NEWS, drama, and trending events."""
         else:
-            prompt = f"""Search for the MOST INTERESTING {category}-related developments, launches, controversies, or breakthroughs happening RIGHT NOW (this week, February 2026).
+            prompt = f"""Search for the MOST INTERESTING {category}-related developments, launches, controversies, or breakthroughs happening RIGHT NOW (this week, {current_date_str}).
 
 {market_instruction}
 
