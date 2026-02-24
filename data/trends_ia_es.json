@@ -1,0 +1,26 @@
+{
+  "category": "ia",
+  "lang": "es",
+  "scouted_at": "2026-02-24T09:30:12.151484+00:00",
+  "total_candidates": 16,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "SaaSpocalypse Now: La IA no solo transforma el software, lo DESTRUYE (y lo que viene después)",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Gemini 3.1 Pro vs. ChatGPT: Análisis CRÍTICO revela quién DOMINA realmente la IA (y por qué te equivocas)",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "La brecha oculta de la IA en España: No es la tecnología, es la ORGANIZACIÓN (y cómo solucionarlo)",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
