@@ -1,0 +1,26 @@
+{
+  "category": "fitness",
+  "lang": "es",
+  "scouted_at": "2026-02-24T05:45:59.972315+00:00",
+  "total_candidates": 14,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "¿Cuánto descanso necesitas REALMENTE entre series? La ciencia contradice lo que creías sobre ganar músculo.",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Bíceps de acero: el estudio que revela la frecuencia SEMANAL óptima (y quizás no te guste).",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Biohacking: ¿La puerta a la longevidad o un peligroso callejón sin salida? El caso de Chris Hemsworth.",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
