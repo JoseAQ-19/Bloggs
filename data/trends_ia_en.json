@@ -1,0 +1,26 @@
+{
+  "category": "ia",
+  "lang": "en",
+  "scouted_at": "2026-02-24T10:01:31.229869+00:00",
+  "total_candidates": 22,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Is *Exponential* AI Progress a Myth? Hackernews Debates the Real Pace of Innovation",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic's Claude 3.5 Challenger: Matching Flagship AI Power at 1/5 the Cost. Is This the Enterprise AI Game Changer?",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "AI Cyberattacks Explode 89%: CrowdStrike Uncovers How Hackers Weaponize GenAI",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
