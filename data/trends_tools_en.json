@@ -1,0 +1,26 @@
+{
+  "category": "tools",
+  "lang": "en",
+  "scouted_at": "2026-02-25T10:04:29.344558+00:00",
+  "total_candidates": 17,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "The Hidden Cost of AI Productivity: Why Superhuman's Acquisition of Rows Could Backfire",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI's Enterprise Push: Why Consultants Signal Trouble for AI Adoption",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Beyond the Hype: Is Your \"AI Product\" Really a Viable Business?",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
