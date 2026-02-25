@@ -1,0 +1,26 @@
+{
+  "category": "youtube",
+  "lang": "en",
+  "scouted_at": "2026-02-25T17:41:43.383135+00:00",
+  "total_candidates": 10,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Nikocado Avocado Drama: Inside His Latest Outrageous Social Media Meltdown",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Stokes Twins: Are Their YouTube Pranks Crossing the Line Into Real-Life Chaos?",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "MrBeast Unfazed? The Truth Behind His \"Worst Performing\" Video and What It Means",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
