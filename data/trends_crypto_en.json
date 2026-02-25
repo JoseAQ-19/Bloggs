@@ -1,24 +1,24 @@
 {
   "category": "crypto",
   "lang": "en",
-  "scouted_at": "2026-02-24T15:29:54.665969+00:00",
-  "total_candidates": 10,
+  "scouted_at": "2026-02-25T15:27:48.293263+00:00",
+  "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "On-Chain Data Reveals: Which Undervalued Cryptos Are Primed for a Rebound?",
+      "title": "Is Bitcoin's Bottom In? On-Chain Data Reveals a Surprising Buying Pattern During the Dip",
       "lang": "en",
       "source": "llm_selected"
     },
     {
       "rank": 2,
-      "title": "Are Bitcoin Whales Signaling a Bottom? How Their 236K BTC Accumulation Defies ETF Outflows.",
+      "title": "Hidden Risks in Ethereum: BitMine's Growing Dominance and the Centralization Threat",
       "lang": "en",
       "source": "llm_selected"
     },
     {
       "rank": 3,
-      "title": "Bitcoin's $60K Washout Risk: Why Market Sentiment Ignores Key On-Chain Indicators.",
+      "title": "The 40-Day Drought: Why Negative US Bitcoin Demand Signals a Potential Price Collapse",
       "lang": "en",
       "source": "llm_selected"
     }
