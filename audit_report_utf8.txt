@@ -1,106 +1,555 @@
-﻿DEATH_ROW_COUNT: 22
+﻿DEATH_ROW_COUNT: 132
 
-FILE: c:\Users\usuario\Desktop\Bloggs\content\en\crypto\why-is-layerzero-trending-today-in-crypto.md
-SCORES -> SEO: 10/10, E-E-A-T: 4/10, GEO: 10/10, Value: 4/10
-  - Lenguaje corporativo/basura detectado: double-edged sword, game-changer
-
-FILE: c:\Users\usuario\Desktop\Bloggs\content\en\crypto\why-is-venice-token-trending-today-in-crypto-en.md
-SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 7/10, Value: 2/10
-  - Fuga del prompt de IA o sintaxis de template descubierta: here is
-  - Parrafos excesivamente largos detectados (>4 oraciones)
-
-FILE: c:\Users\usuario\Desktop\Bloggs\content\en\fitness\alma-college-kinesiology-hypertrophy-longevity-en.md
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\crypto\bitcoin-55k-support-onchain-analysis-en.md
 SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
-  - Contiene H1 en el cuerpo (penaliza SEO)
+  - TranslationKey nulo o roto (metadatos rotos)
 
-FILE: c:\Users\usuario\Desktop\Bloggs\content\en\fitness\kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alma-college-en.md
-SCORES -> SEO: 5/10, E-E-A-T: 1/10, GEO: 7/10, Value: 1/10
-  - Lenguaje corporativo/basura detectado: game-changer
-  - Fuga del prompt de IA o sintaxis de template descubierta: here is
-  - Parrafos excesivamente largos detectados (>4 oraciones)
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\crypto\bitcoin-71k-onchain-analysis-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
 
-FILE: c:\Users\usuario\Desktop\Bloggs\content\en\fitness\zone-2-training-overhyped-truth-en.md
-SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 10/10, Value: 2/10
-  - Fuga del prompt de IA o sintaxis de template descubierta: here is
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\crypto\bitcoin-ha-muerto-y-esta-vez-es-para-siempre-autop.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
 
-FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\el-ano-en-que-la-realidad-virtual-derroto-al-mund.md
-SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 7/10, Value: 2/10
-  - Fuga del prompt de IA o sintaxis de template descubierta: here is
-  - Parrafos excesivamente largos detectados (>4 oraciones)
-
-FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\el-futuro-no-te-gustara-verdades-incomodas-de-2026.md
-SCORES -> SEO: 1/10, E-E-A-T: 2/10, GEO: 7/10, Value: 2/10
-  - Contiene H1 en el cuerpo (penaliza SEO)
-  - Fuga del prompt de IA o sintaxis de template descubierta: here is
-  - Parrafos excesivamente largos detectados (>4 oraciones)
-
-FILE: c:\Users\usuario\Desktop\Bloggs\content\en\tools\makecom-domination-in-2-hours-2026-beginners-guide-no-coding.md
-SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 7/10, Value: 2/10
-  - Fuga del prompt de IA o sintaxis de template descubierta: {{, }}, ```json
-  - Parrafos excesivamente largos detectados (>4 oraciones)
-
-FILE: c:\Users\usuario\Desktop\Bloggs\content\en\tools\makecom-masterclass-go-from-zero-to-hero-in-2-hours-2025-guide.md
-SCORES -> SEO: 5/10, E-E-A-T: 1/10, GEO: 7/10, Value: 1/10
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\crypto\layerzero-trending-zero-blockchain-institutional-interest-market-dynamics-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 7/10
+  - TranslationKey nulo o roto (metadatos rotos)
   - Lenguaje corporativo/basura detectado: magic
-  - Fuga del prompt de IA o sintaxis de template descubierta: {{, }}, ```json
-  - Parrafos excesivamente largos detectados (>4 oraciones)
 
-FILE: c:\Users\usuario\Desktop\Bloggs\content\en\tools\master-makecom-in-2-hours-2026-beginners-guide-your-boss-will-beg-you.md
-SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 7/10, Value: 2/10
-  - Fuga del prompt de IA o sintaxis de template descubierta: ```json
-  - Parrafos excesivamente largos detectados (>4 oraciones)
-
-FILE: c:\Users\usuario\Desktop\Bloggs\content\en\youtube\nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety-en.md
-SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 7/10, Value: 2/10
-  - Fuga del prompt de IA o sintaxis de template descubierta: here is
-  - Parrafos excesivamente largos detectados (>4 oraciones)
-
-FILE: c:\Users\usuario\Desktop\Bloggs\content\en\youtube\subbd-token-ai-creator-economy-en.md
-SCORES -> SEO: 5/10, E-E-A-T: 1/10, GEO: 7/10, Value: 1/10
-  - Lenguaje corporativo/basura detectado: game-changer
-  - Fuga del prompt de IA o sintaxis de template descubierta: here is
-  - Parrafos excesivamente largos detectados (>4 oraciones)
-
-FILE: c:\Users\usuario\Desktop\Bloggs\content\es\about.md
-SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 2/10
-  - Spanglish detectado (palabras en espanol en articulo EN)
-
-FILE: c:\Users\usuario\Desktop\Bloggs\content\es\contact.md
-SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 2/10
-  - Spanglish detectado (palabras en espanol en articulo EN)
-
-FILE: c:\Users\usuario\Desktop\Bloggs\content\es\privacy.md
-SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 2/10
-  - Spanglish detectado (palabras en espanol en articulo EN)
-
-FILE: c:\Users\usuario\Desktop\Bloggs\content\es\crypto\bitcoin-metricas-on-chain-caida.md
-SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 7/10, Value: 2/10
-  - Fuga del prompt de IA o sintaxis de template descubierta: here is
-  - Parrafos excesivamente largos detectados (>4 oraciones)
-
-FILE: c:\Users\usuario\Desktop\Bloggs\content\es\fitness\kinesiologia-ciencias-salud-alma-college-hipertrofia-longevidad.md
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\crypto\metamask-gas-fees-guide-en.md
 SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
-  - Contiene H1 en el cuerpo (penaliza SEO)
+  - TranslationKey nulo o roto (metadatos rotos)
 
-FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\apocalipsis-saas-recompras-accionarias.md
-SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 10/10, Value: 2/10
-  - Fuga del prompt de IA o sintaxis de template descubierta: here is
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\crypto\metaverse-meltdown-crypto-vr-failure-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
 
-FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\mercados-desatan-el-caos-la-falsa-calma-post-elecc.md
-SCORES -> SEO: 10/10, E-E-A-T: 10/10, GEO: 2/10, Value: 10/10
-  - Muro de texto continuo sin vinetas (Cero formato [BLUF]/GEO)
-  - Parrafos excesivamente largos detectados (>4 oraciones)
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\crypto\on-chain-analysis-undervalued-cryptocurrencies-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
 
-FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\saas-apocalipsis-ia-software-tradicional.md
-SCORES -> SEO: 5/10, E-E-A-T: 1/10, GEO: 10/10, Value: 1/10
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\crypto\why-is-berachain-trending-today-in-crypto-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\fitness\beyond-vo2-max-better-biomarkers-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 7/10
+  - TranslationKey nulo o roto (metadatos rotos)
   - Lenguaje corporativo/basura detectado: magic
-  - Fuga del prompt de IA o sintaxis de template descubierta: here is
 
-FILE: c:\Users\usuario\Desktop\Bloggs\content\es\tools\makecom-dominado-en-2-horas-guia-definitiva-para-principiantes-2025.md
-SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 7/10, Value: 2/10
-  - Fuga del prompt de IA o sintaxis de template descubierta: aqui tienes
-  - Parrafos excesivamente largos detectados (>4 oraciones)
-
-FILE: c:\Users\usuario\Desktop\Bloggs\content\es\youtube\subbd-token-ia-revolucion-economia-creador.md
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\fitness\kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm-en.md
 SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
-  - Contiene H1 en el cuerpo (penaliza SEO)
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\fitness\metformin-longevity-hack-or-hype-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 7/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Lenguaje corporativo/basura detectado: magic
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\fitness\metformin-longevity-hype-or-hope-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\fitness\oura-ring-sleep-latency-reading-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\fitness\vo2max-plateau-bad-protocol-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\ai-job-market-impact-america-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 10/10, Value: 1/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Fuga del prompt de IA detectada: role:
+  - Lenguaje corporativo/basura detectado: double-edged sword
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\ai-tool-sprawl-productivity-paradox-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\anthropic-claude-3-5-sonnet-cost-savings-myth-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\democracia-digital-la-mayor-estafa-del-siglo-xxi.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\donde-estan-mis-coches-voladores-la-estafa-futuris.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\el-futuro-es-ahora-las-7-tendencias-que-los-gobier.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\el-futuro-es-distopico-y-ya-esta-aqui.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\enterprise-ai-winner-ignore-hype-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 7/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Lenguaje corporativo/basura detectado: game-changer
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\enterprise-llm-security-risks-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 7/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Lenguaje corporativo/basura detectado: game-changer
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\exponential-ai-myth-or-reality-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\geopolitica-2026-el-ano-en-que-dejamos-de-fingir.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\groenlandia-el-nuevo-jaque-mate-geopolitico-que-hu.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\hugging-face-embeddings-lobotomy-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\hugging-face-transformers-few-shot-limitations-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 7/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Lenguaje corporativo/basura detectado: magic
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\la-elites-digitales-amos-del-mundo-o-nuevos-parasi.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\la-ia-te-miente-por-que-la-personalidad-artificial.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\la-ia-viene-a-quitarte-el-almuerzo-y-no-se-disculp.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\metaverse-pyramid-scheme-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\metaverse-zucks-40-billion-mistake-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\monument-naivety-greed-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\tecnoutopia-fallida-el-sueno-digital-se-convierte.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\tools\makecom-masterclass-go-from-zero-to-hero-in-2-hours-2025-edition.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 7/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Lenguaje corporativo/basura detectado: magic
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\viral\algorithmic-curling-tech-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\viral\amouranth-incident-analysis-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\viral\apology-industrial-complex-brand-strategy-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\viral\bonnie-blue-social-media-consequences-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\viral\decoding-viral-vortex-ai-analog-unexpected-nuptials-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\youtube\davinci-resolve-audio-dropouts-fix-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 7/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Lenguaje corporativo/basura detectado: magic
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\youtube\logan-paul-mrbeast-mold-scandal-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\youtube\mrbeast-controversy-business-impact-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\youtube\sssniperwolf-demonetization-youtube-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\youtube\youtube-golf-wars-business-fallout-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\crypto\bitcoin-al-matadero-por-que-las-criptomonedas-sera.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\crypto\bitcoin-el-despertar-brutal-de-la-estafa-digital.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\crypto\bitcoin-en-caida-libre-el-fin-de-la-era-dorada.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\crypto\bitcoin-la-burbuja-dorada-que-nunca-fue-oro.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\crypto\bitcoin-la-burbuja-eterna-sostenida-por-el-hype.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\crypto\bitcoin-la-estafa-del-siglo-xxi-al-descubierto.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\crypto\bitcoin-la-fiebre-del-oro-digital-es-una-estafa-pi.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\crypto\bitcoin-se-derrumba-la-borrachera-cripto-llega-a-s.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\crypto\metamask-gas-fees-guia-completa.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\crypto\metaverso-estafa-piramidal-evitar.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\crypto\why-is-berachain-trending-today-in-crypto.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\crypto\why-is-venice-token-trending-today-in-crypto.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\fitness\kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\fitness\kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alma-college.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\fitness\lectura-nocturna-anillo-oura-retraso-sueno.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 7/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Lenguaje corporativo/basura detectado: magic
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\fitness\mito-meseta-vo2-max-protocolo-fallido.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 7/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Lenguaje corporativo/basura detectado: magic
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\celular-te-espia-y-le-pagas-por-ello.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\crisis-la-estafa-del-siglo-como-nos-venden-el-derr.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\de-blade-runner-a-glovo-la-distopia-ya-esta-aqui-y.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\deuda-global-2026-el-subprime-que-nadie-vio-venir.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\ecnocinicos-como-las-corporaciones-nos-venden-humo.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\ecnocracia-el-nuevo-feudalismo-digital.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\el-algoritmo-te-vigila-como-la-objetividad-de-los.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\el-ano-en-que-el-futuro-se-rompio-y-nadie-hizo-na.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\el-ano-que-el-mundo-se-cayo-a-pedazos.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\el-capitalismo-zombi-anatomia-de-un-sistema-fallid.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\el-capitalismo-zombi-como-la-codicia-corporativa-e.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\el-dossier-fantasma-cuando-la-opacidad-es-la-estra.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\el-fin-de-la-tibieza-por-que-la-neutralidad-es-el.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\el-metaverso-esta-muerto-y-nadie-se-atreve-a-decir.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\el-metaverso-ha-muerto-ahora-toca-reirnos.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\el-metaverso-ha-muerto-bienvenidos-al-infierno-dig.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\el-metaverso-ha-muerto-larga-vida-al-caos-digital.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\el-metaverso-ha-muerto-quien-se-queda-con-los-hues.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\el-mito-del-dato-como-la-obsesion-por-las-metricas.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 7/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Lenguaje corporativo/basura detectado: magic
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\el-mito-del-mesias-digital-como-silicon-valley-te.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 7/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Lenguaje corporativo/basura detectado: magic
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\el-mito-del-progreso-como-la-ia-nos-vende-un-futur.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\el-tabu-digital-por-que-nadie-se-atreve-a-decir-la.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\el-tabu-tecnologico-lo-que-no-quieren-que-sepas.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\en-si-misma-o-en-el-abismo-la-trampa-filosofica-qu.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\fine-tuning-transformers-datos-escasos-estafa.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 7/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Lenguaje corporativo/basura detectado: magic
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\geopolitica-2026-el-ano-en-que-la-realidad-supero.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\geopolitica-2026-el-ano-que-el-mundo-se-rompio-y-n.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\geopolitica-en-llamas-las-10-tendencias-que-incend.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\groenlandia-el-cisne-negro-que-derrumbara-el-imper.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\groenlandia-el-iceberg-que-hundira-el-imperio-digi.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\hugging-face-embeddings-trampa-open-source.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\ia-el-nuevo-mesias-que-te-dejara-en-la-calle.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 7/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Lenguaje corporativo/basura detectado: magic
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\ia-futuro-trabajo-analisis-tecnico.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\inteligencia-artificial-la-estafa-del-siglo-xxi.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\la-cortina-de-humo-digital.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\la-dictadura-de-la-indiferencia-como-el-esta-bien.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\la-dictadura-digital-como-vendimos-nuestra-alma-a.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\la-ia-no-viene-a-salvarnos-viene-a-explotarnos.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\la-ia-te-saluda-pero-no-te-salvara-por-que-la-cort.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\metaverso-el-gran-bluf-tecnologico-del-siglo-xxi.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\metaverso-muerte-hype.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\metaverso-zombie-vr-cripto-apocalipsis.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\movil-te-traiciona-el-negocio-redondo-del-espionaj.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\neutralidad-cero-la-gran-estafa-de-la-informacion.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\nos-distrae-la-ia-mientras-el-mundo-se-derrumba.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\novumworld-la-burbuja-de-la-elite-que-nadie-quiere.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\novumworld-la-farsa-del-periodismo-de-elite-y-por.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\saaspocalypse-sobreviviran-las-empresas-de-software-a-la-ia-los-datos-que-no-te-cuentan.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 1/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Encabezado robotico detectado: nuestra lectura
+  - Encabezado robotico detectado: el caso de estudio
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\silicon-valley-esta-muerto-el-futuro-es-descentral.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\silicon-valley-la-burbuja-de-humo-que-engano-al-mu.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\silicon-valley-la-burbuja-que-nunca-exploto-pero-d.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 7/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Lenguaje corporativo/basura detectado: magic
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\silicon-valley-se-desangra-la-era-dorada-ha-termin.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\suenan-los-androides-con-ovejas-electricas-y-tu-co.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\suenan-los-borregos-con-ciber-ovejas-el-futuro-no.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\suscripciones-fantasma-la-estafa-del-siglo-xxi.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\tablas-prohibidas-el-arma-secreta-de-la-desinforma.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\tecno-apocalipsis-asi-la-ia-revivio-la-bomba-atomi.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\trabajo-y-la-distopia-2026-que-nadie-quiso-ver.md
+SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 10/10, Value: 2/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Fuga del prompt de IA detectada: actua como
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\tu-nevera-te-espia-el-futuro-orwelliano-que-ya-pag.md
+SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 10/10, Value: 2/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Fuga del prompt de IA detectada: actua como
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\web3-monumento-ingenuidad-codicia.md
+SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 10/10, Value: 2/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Fuga del prompt de IA detectada: actua como
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\tools\domina-makecom-en-2-horas-guia-definitiva-para-principiantes-2026.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\tools\makecom-dominado-en-2-horas-guia-definitiva-para-principiantes-2026.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 7/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Lenguaje corporativo/basura detectado: magic
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\tools\makecom-en-2-horas-domina-la-automatizacion-en-2026-guia-definitiva-para-principiantes.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\tools\makecom-en-2-horas-domina-la-automatizacion-sin-ser-experto-guia-2025.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\viral\ia-cultura-pop-generacion-z-analogico-bad-bunny-bodas-tendencias-virales.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\viral\shakira-concierto-gratis-cdmx-riesgos.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 5/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Encabezado robotico detectado: nuestra lectura
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\youtube\audio-se-corta-davinci-resolve-soluciones.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\youtube\lola-lolita-bolso-influencer-crisis.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 5/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Encabezado robotico detectado: nuestra lectura
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\youtube\nba-all-star-2026-estrategia-digital.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - TranslationKey nulo o roto (metadatos rotos)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\youtube\nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety.md
+SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 10/10, Value: 2/10
+  - TranslationKey nulo o roto (metadatos rotos)
+  - Fuga del prompt de IA detectada: actua como
