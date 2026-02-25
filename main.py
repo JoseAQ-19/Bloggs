@@ -931,9 +931,12 @@ CRITICAL RULES:
 - Include at least 3 outbound links woven naturally INTO sentences.
 - Autoblog example: {ex_link1}
 - Autoblog example: {ex_link2}
+- 📌 PRIORITY: Check the section "### FUENTES VALIDADAS DISPONIBLES" at the END of the RESEARCH DATA. These URLs have been pre-verified and MUST be your primary source for outbound links. Use at least 3 of them.
 - ONLY use URLs that appear VERBATIM in the RESEARCH DATA. Copy-paste the exact URL.
-- If a URL in the research contains "vertexaisearch.cloud.google.com" DO NOT USE IT. Mention the source name in **bold** instead.
-- If a fact has NO URL in the research, mention the source as **Source Name** with NO hyperlink.
+- If a URL is missing or cannot be used, cite the REAL publication name in simple bold (e.g. **Forbes**, **Reuters**). 
+- 🚨 CRITICAL BAN: NEVER cite "Gemini Grounding", "E-E-A-T", "NotebookLM", "Context", or "Source" as a publication. You MUST extract the actual real-world media outlet name from the text. If you can't find one, do not name the source.
+- 🚨 CRITICAL BAN: Do NOT use 4 asterisks like ****Name****. Use exactly two for bold: **Name**.
+- 🚨 CRITICAL BAN: NEVER cite "unnamed sources", "market analysis", "technical analysis", or "legal experts" as attribution. Either name the real person/outlet or remove the attribution.
 - FABRICATING a URL = INSTANT REJECTION.
 - NEVER paste a naked URL. Every URL must be inside [Anchor Text](URL) format.
 - NEVER use bracket-only references like [source name] without a proper (URL).
@@ -1158,7 +1161,8 @@ def _clean_article_content(text):
 
 def _validate_links(text):
     """Escudo Anti-404: Verifica cada enlace markdown con HTTP HEAD.
-    Si devuelve 404/500 o timeout, elimina el enlace pero conserva el texto ancla en negrita."""
+    Si devuelve 404/500, elimina el enlace pero conserva el texto ancla en negrita.
+    Timeouts se consideran 'probablemente vivos' y se conservan."""
     import requests as req_lib
     
     link_pattern = re.compile(r'\[([^\]]+)\]\((https?://[^\)]+)\)')
@@ -1167,28 +1171,55 @@ def _validate_links(text):
     if not links:
         return text
     
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+    # Dominios de confianza que NUNCA se validan (anti-falso-positivo)
+    TRUSTED_DOMAINS = {
+        'reuters.com', 'bloomberg.com', 'nytimes.com', 'wsj.com', 'ft.com',
+        'cnbc.com', 'techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com',
+        'nature.com', 'science.org', 'pubmed.ncbi.nlm.nih.gov', 'arxiv.org',
+        'github.com', 'stackoverflow.com', 'reddit.com', 'ycombinator.com',
+        'xataka.com', 'elpais.com', 'elmundo.es', 'lavanguardia.com', 'cincodias.elpais.com',
+        'boe.es', 'cnmv.es', 'sec.gov', 'ecb.europa.eu', 'imf.org',
+        'coindesk.com', 'coingecko.com', 'decrypt.co', 'theblock.co',
+        'youtube.com', 'twitter.com', 'x.com', 'linkedin.com',
+        'forbes.com', 'bbc.com', 'bbc.co.uk', 'theguardian.com',
+        'statista.com', 'mckinsey.com', 'hbr.org', 'economist.com',
+    }
+    
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
     broken_count = 0
+    skipped_trusted = 0
     
     for anchor, url in links:
+        # Skip trusted domains
+        from urllib.parse import urlparse
+        domain = urlparse(url).netloc.replace('www.', '')
+        if any(trusted in domain for trusted in TRUSTED_DOMAINS):
+            skipped_trusted += 1
+            continue
+        
         try:
-            r = req_lib.head(url, timeout=6, headers=headers, allow_redirects=True)
+            r = req_lib.head(url, timeout=12, headers=headers, allow_redirects=True)
             if r.status_code >= 400:
                 # Double-check with GET (some servers reject HEAD)
-                r2 = req_lib.get(url, timeout=6, headers=headers, allow_redirects=True, stream=True)
+                r2 = req_lib.get(url, timeout=12, headers=headers, allow_redirects=True, stream=True)
                 if r2.status_code >= 400:
                     text = text.replace(f'[{anchor}]({url})', f'**{anchor}**')
                     broken_count += 1
-                    print(f"   🚫 [Anti-404] Enlace roto eliminado: {url}")
+                    print(f"   🚫 [Anti-404] Enlace roto eliminado ({r2.status_code}): {url}")
+        except req_lib.exceptions.Timeout:
+            # Timeout = probablemente vivo pero lento. CONSERVAR el enlace.
+            print(f"   ⏳ [Anti-404] Timeout pero conservado: {url}")
         except Exception:
+            # Connection refused, DNS error, etc. = probablemente roto
             text = text.replace(f'[{anchor}]({url})', f'**{anchor}**')
             broken_count += 1
             print(f"   🚫 [Anti-404] Enlace inalcanzable eliminado: {url}")
     
+    total_checked = len(links) - skipped_trusted
     if broken_count > 0:
-        print(f"   🛡️ [Anti-404] {broken_count} enlaces rotos eliminados de {len(links)} verificados")
+        print(f"   🛡️ [Anti-404] {broken_count} enlaces rotos eliminados de {total_checked} verificados ({skipped_trusted} trusted skipped)")
     else:
-        print(f"   ✅ [Anti-404] {len(links)} enlaces verificados — todos OK")
+        print(f"   ✅ [Anti-404] {total_checked} enlaces verificados — todos OK ({skipped_trusted} trusted skipped)")
     
     return text
 

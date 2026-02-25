@@ -262,6 +262,13 @@ class ResearcherV4:
                 res = self.exa.search(query, num_results=5, type="neural", start_published_date=start_date)
                 if res and res.results:
                     snippets = "\n".join([f"- {r.title}" for r in res.results])
+                    # ESLABÓN PERDIDO FIX: Capturar URLs reales de Exa para el writer
+                    self._exa_urls = []
+                    for r in res.results:
+                        if hasattr(r, 'url') and r.url:
+                            self._exa_urls.append({"title": r.title, "url": r.url})
+                    if self._exa_urls:
+                        print(f"   🔗 [Exa URLs] {len(self._exa_urls)} URLs reales capturadas para el writer.")
                     print("   🔍 [Exa Prospección] Resultados tempranos encontrados.")
             except Exception as e:
                 print(f"   ⚠️ Exa mining fallback: {e}")
@@ -577,12 +584,21 @@ CRITICAL RULES:
                         final_content += block.get("text", "")
 
             if len(final_content) > 500:
+                # ESLABÓN PERDIDO FIX: Append Exa URLs to Layer 1 output
+                exa_urls = getattr(self, '_exa_urls', [])
+                if exa_urls:
+                    exa_block = "\n\n### FUENTES VALIDADAS DISPONIBLES:\n"
+                    for src in exa_urls:
+                        exa_block += f"- [{src['title']}]({src['url']})\n"
+                    final_content += exa_block
+                    print(f"   🔗 [Exa→Layer1] {len(exa_urls)} URLs inyectadas en informe NotebookLM.")
+                
                 print(f"   ✅ ÉXITO CAPA 1: Informe E-E-A-T generado ({len(final_content)} chars).")
                 return {
                     "content": final_content,
                     "layer": "NotebookLM Deep Research (E-E-A-T V2)",
                     "notebook_id": notebook_id,
-                    "sources": ["NotebookLM Deep Search — see Source URLs in report"]
+                    "sources": [s['url'] for s in exa_urls] if exa_urls else ["NotebookLM Deep Search — see Source URLs in report"]
                 }
             else:
                 print("   ⚠️ Informe vacío o demasiado corto. Saltando a Capa 2.")
@@ -644,11 +660,48 @@ CRITICAL: Do NEVER output internal Google Search links (like vertexaisearch.clou
             )
             
             if resp.text and len(resp.text) > 300:
+                # ESLABÓN PERDIDO FIX: Extraer URLs reales de grounding_metadata
+                grounding_urls = []
+                try:
+                    for candidate in resp.candidates:
+                        gm = getattr(candidate, 'grounding_metadata', None)
+                        if gm:
+                            chunks = getattr(gm, 'grounding_chunks', None) or []
+                            for chunk in chunks:
+                                web = getattr(chunk, 'web', None)
+                                if web:
+                                    uri = getattr(web, 'uri', '')
+                                    title = getattr(web, 'title', '') or getattr(web, 'domain', '')
+                                    if uri and 'vertexaisearch' not in uri:
+                                        grounding_urls.append({"title": title, "url": uri})
+                except Exception as e:
+                    print(f"   ⚠️ Grounding metadata extraction warning: {e}")
+                
+                # Construir bloque de fuentes validadas
+                sources_block = ""
+                if grounding_urls:
+                    sources_block = "\n\n### FUENTES VALIDADAS DISPONIBLES:\n"
+                    seen = set()
+                    for src in grounding_urls:
+                        if src['url'] not in seen:
+                            sources_block += f"- [{src['title']}]({src['url']})\n"
+                            seen.add(src['url'])
+                    print(f"   🔗 [Grounding URLs] {len(seen)} URLs reales extraídas de grounding_metadata.")
+                
+                # También agregar URLs de Exa si existen
+                exa_urls = getattr(self, '_exa_urls', [])
+                if exa_urls:
+                    if not sources_block:
+                        sources_block = "\n\n### FUENTES VALIDADAS DISPONIBLES:\n"
+                    for src in exa_urls:
+                        if src['url'] not in seen if 'seen' in dir() else True:
+                            sources_block += f"- [{src['title']}]({src['url']})\n"
+                
                 print(f"   ✅ ÉXITO CAPA 2: Grounding completado ({len(resp.text)} chars).")
                 return {
-                    "content": f"[FUENTE: GEMINI GROUNDING E-E-A-T]\n{resp.text}",
+                    "content": f"{resp.text}{sources_block}",
                     "layer": "Gemini Grounding (E-E-A-T V2)",
-                    "sources": ["Gemini Google Search Grounding"]
+                    "sources": [s['url'] for s in grounding_urls[:10]] if grounding_urls else ["Gemini Google Search Grounding"]
                 }
             
         except Exception as e:
