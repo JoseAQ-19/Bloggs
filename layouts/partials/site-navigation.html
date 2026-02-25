@@ -18,7 +18,7 @@
 {{ end }}
 
 <nav class="site-nav" role="navigation">
-  <div class="site-nav__inner" style="display:flex; justify-content:space-between; align-items:center; width:100%;">
+  <div class="site-nav__inner flex justify-between items-center w-100">
 
     {{/* --- LEFT: Hamburger Button --- */}}
     <div class="flex items-center">
@@ -41,7 +41,7 @@
 
     {{/* --- RIGHT: Language Switcher (Robust Babel Logic v3) --- */}}
     <div class="flex items-center">
-      <ul class="lang-switcher" style="display:flex; list-style:none; margin:0; padding:0; gap:0.8rem;">
+      <ul class="lang-switcher">
         {{ $currentLang := .Site.Language.Lang }}
         {{ $page := . }}
 

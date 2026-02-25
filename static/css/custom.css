@@ -419,6 +419,16 @@ header.hero-modern::before {
     font-size: 1.2em;
 }
 
+/* --- LANGUAGE SWITCHER --- */
+.lang-switcher {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 0.8rem;
+    align-items: center;
+}
+
 /* --- HAMBURGER BUTTON (Left) --- */
 .hamburger-btn {
     background: none;
@@ -854,17 +864,16 @@ table {
     }
 
     .site-nav__logo {
-        font-size: 1.1rem;
+        font-size: 1rem !important;
         gap: 0.2rem;
     }
 
     .site-nav__section-name {
-        font-size: 0.6em;
-        letter-spacing: 1px;
+        display: none !important;
     }
 
     .site-nav__divider {
-        margin: 0 0.15rem;
+        display: none !important;
     }
 
     /* Language switcher: tighter on mobile */
@@ -969,8 +978,12 @@ table {
     /* Article container: full width with breathing room */
     article.flex-l.mw7.center,
     article.flex-l.mw8.center {
-        padding: 1rem 1rem !important;
-        margin-top: 1rem !important;
+        padding: 1.5rem 1rem !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        max-width: 95vw !important;
+        overflow-x: hidden;
+        box-sizing: border-box;
     }
 
     /* Article H1 title */
