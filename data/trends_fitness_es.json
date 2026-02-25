@@ -1,0 +1,26 @@
+{
+  "category": "fitness",
+  "lang": "es",
+  "scouted_at": "2026-02-25T05:46:13.324947+00:00",
+  "total_candidates": 9,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Olvídate de lo que sabes: La ciencia revela el tiempo de descanso IDEAL (y sorprendentemente corto) para maximizar el crecimiento muscular.",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "¿Entrenas bíceps demasiado? Un estudio revela la frecuencia SEMANAL óptima (y puede que estés perdiendo el tiempo).",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "El biohacking tiene un lado oscuro: ¿Es la obsesión de Chris Hemsworth la clave de la longevidad o un camino peligroso?",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
