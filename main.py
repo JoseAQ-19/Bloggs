@@ -322,6 +322,7 @@ CRITICAL FORMATTING RULES (ZERO TOLERANCE — VIOLATION = ARTICLE REJECTED):
    Examples: academic papers, official reports, established news outlets (Reuters, Bloomberg, TechCrunch, ArsTechnica, PubMed).
    Format: [descriptive anchor text](https://real-verified-url.com)
    NEVER fabricate or hallucinate URLs. Only link to sources you are confident exist.
+   CRITICAL: Every URL you include will be automatically verified with an HTTP request. If it returns 404 or 500, it will be STRIPPED from the article. Only include URLs you are 100% certain are live and correct. Do NOT guess URL paths — use only root domains or well-known paths you have memorized with certainty.
 6. UNIQUE DATA POINT (MANDATORY — MINIMUM 1):
    Include at least ONE original comparative calculation, metric, or data insight that adds information gain.
    Example: "If we divide Meta's $70B investment by Horizon's 200K monthly users, that's $350,000 per user — more expensive than a median US house."
@@ -1237,8 +1238,48 @@ def _clean_article_content(text):
     # 11. ELIMINAR líneas en blanco excesivas (máximo 2 seguidas)
     text = re.sub(r'\n{4,}', '\n\n\n', text)
     
+    # 12. ESCUDO ANTI-404: Validar todos los enlaces externos con HTTP HEAD
+    text = _validate_links(text)
+    
     print("   🧹 [Post-Processor] Contenido limpiado de artefactos de IA")
     return text.strip()
+
+
+def _validate_links(text):
+    """Escudo Anti-404: Verifica cada enlace markdown con HTTP HEAD.
+    Si devuelve 404/500 o timeout, elimina el enlace pero conserva el texto ancla en negrita."""
+    import requests as req_lib
+    
+    link_pattern = re.compile(r'\[([^\]]+)\]\((https?://[^\)]+)\)')
+    links = link_pattern.findall(text)
+    
+    if not links:
+        return text
+    
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+    broken_count = 0
+    
+    for anchor, url in links:
+        try:
+            r = req_lib.head(url, timeout=6, headers=headers, allow_redirects=True)
+            if r.status_code >= 400:
+                # Double-check with GET (some servers reject HEAD)
+                r2 = req_lib.get(url, timeout=6, headers=headers, allow_redirects=True, stream=True)
+                if r2.status_code >= 400:
+                    text = text.replace(f'[{anchor}]({url})', f'**{anchor}**')
+                    broken_count += 1
+                    print(f"   🚫 [Anti-404] Enlace roto eliminado: {url}")
+        except Exception:
+            text = text.replace(f'[{anchor}]({url})', f'**{anchor}**')
+            broken_count += 1
+            print(f"   🚫 [Anti-404] Enlace inalcanzable eliminado: {url}")
+    
+    if broken_count > 0:
+        print(f"   🛡️ [Anti-404] {broken_count} enlaces rotos eliminados de {len(links)} verificados")
+    else:
+        print(f"   ✅ [Anti-404] {len(links)} enlaces verificados — todos OK")
+    
+    return text
 
 def escribir_blueprint(tutorial_data, lang="en"):
     """Genera el post de herramienta reescribiendo con personalidad según idioma."""
