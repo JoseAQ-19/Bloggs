@@ -3,10 +3,6 @@ name: "Scout IA - English"
 on:
   schedule:
     - cron: '41 9 * * *'
-  workflow_run:
-    workflows: ["Writer IA - Spanish"]
-    types:
-      - completed
   workflow_dispatch:
 
 permissions:
@@ -15,7 +11,7 @@ permissions:
 jobs:
   scout:
     runs-on: ubuntu-latest
-    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule' }}
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'schedule' }}
     steps:
       - uses: actions/checkout@v4
         with:
