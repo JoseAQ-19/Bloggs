@@ -663,13 +663,8 @@ IF NONE OF THESE ARTICLES ARE RELEVANT TO THE CURRENT TOPIC, DO NOT LINK TO ANY 
     print(f"   🎯 [Fase 1/3] Especialista en Clickbait Ético...")
     
     lang_name = "ESPAÑOL" if lang == "es" else "ENGLISH"
-    # Regla de capitalización según benchmark:
-    # - EN: Title Case estricto (TechCrunch/The Verge: "Sam Altman Would Like to Remind You That Humans Use a Lot of Energy, Too")
-    # - ES: Oración (Xataka: "Gemini 3.1 Pro acaba de destronar a Claude: Google vuelve a liderar la carrera de la IA")
-    if lang == "es":
-        cap_rule = "FORMATO ESPAÑOL (estilo Xataka): Solo la primera palabra del título lleva mayúscula (y los nombres propios). NO uses Title Case con mayúsculas en cada palabra. Ejemplo correcto: 'Databricks acaba de anunciar algo que cambia las reglas del juego'. Ejemplo INCORRECTO: 'Databricks Acaba De Anunciar Algo Que Cambia Las Reglas Del Juego'."
-    else:
-        cap_rule = "FORMAT ENGLISH (TechCrunch/Verge style): Use strict Title Case — capitalize every major word (nouns, verbs, adjectives, adverbs). Only lowercase articles (a, the, an), conjunctions (and, or, but), and short prepositions (in, of, to, for) unless they are the first word. Example: 'Sam Altman Would Like to Remind You That Humans Use a Lot of Energy, Too'."
+    # Regla de capitalización solicitada por el editor: Capitalizar cada inicial
+    cap_rule = "TITLE CASE MANDATORY: You MUST capitalize the first letter of EVERY word in the title (except very short conjunctions like 'y', 'de', 'en', 'a', 'la', 'el', 'los' unless they are the first word). Example: 'La Inteligencia Artificial Amenaza 300 Millones De Euros Invertidos En Startups Españolas'."
     
     title_prompt = f"""ACT AS: Viral headline editor for TechCrunch (EN) or Xataka (ES). You write titles that DEMAND clicks.
 

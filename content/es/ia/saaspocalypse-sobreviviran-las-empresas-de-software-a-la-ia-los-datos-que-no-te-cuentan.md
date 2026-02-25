@@ -1,5 +1,5 @@
 ---
-title: "acciona el pánico: la ia amenaza 300 millones de euros invertidos en startups españolas."
+title: "Acciona El Pánico: La IA Amenaza 300 Millones De Euros Invertidos En Startups Españolas."
 date: 2026-02-23T15:51:37
 draft: false
 description: "¡Pánico IA en España! Inversiones en startups temblan. La inteligencia artificial podría volatilizar 300 millones €. Analizamos el peligro y las alternativas."
@@ -11,7 +11,7 @@ language: "es"
 translationKey: "ca8e0b06-ce7e-854f-9e7a-b952484ba36e"
 ---
 
-![acciona el pánico: la ia amenaza 300 millones de euros invertidos en startups españolas.](/images/saaspocalypse-sobreviviran-las-empresas-de-software-a-la-ia-los-datos-que-no-te-cuentan.jpg)
+![Acciona El Pánico: La IA Amenaza 300 Millones De Euros Invertidos En Startups Españolas.](/images/saaspocalypse-sobreviviran-las-empresas-de-software-a-la-ia-los-datos-que-no-te-cuentan.jpg)
 
 La inteligencia artificial (IA) no solo está automatizando tareas; está reescribiendo las reglas del juego empresarial y amenazando con extinguir modelos de negocio enteros. Concretamente, los €300 millones que inversores apostaron en startups españolas de SaaS en 2025 podrían evaporarse más rápido que un vaso de agua en el desierto del Sáhara.
 
