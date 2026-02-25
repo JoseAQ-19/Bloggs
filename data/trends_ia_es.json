@@ -1,0 +1,26 @@
+{
+  "category": "ia",
+  "lang": "es",
+  "scouted_at": "2026-02-25T09:30:17.530999+00:00",
+  "total_candidates": 12,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "SaaSpocalypse Now: ¿Por qué el auge de la IA podría REVENTAR tu software en 2026? (Y cómo evitarlo)",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "LinkedIn lo revela: Las 3 habilidades de IA que te CONTRATARÁN (y NO son las que crees)",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "La IA en la construcción: ¿Realidad o humo? El problema OCULTO que nadie está resolviendo",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
