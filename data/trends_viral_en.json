@@ -1,0 +1,26 @@
+{
+  "category": "viral",
+  "lang": "en",
+  "scouted_at": "2026-02-25T21:34:53.473418+00:00",
+  "total_candidates": 21,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Bafta Meltdown: Tourette's Activist's N-Word Outburst Sparks Outrage",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Curling Scandal Rocks Winter Olympics: Did Canada Cheat Their Way to Victory?",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "\"I Will Never Financially Recover\": 29 Tales of Hilarious, Horrifying Life Spirals",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
