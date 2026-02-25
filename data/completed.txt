@@ -51,3 +51,4 @@ fitness: VO2 Max Isn't the Only Number That Matters: A Better Biomarker for True
 fitness: Metformin: Miracle Drug or Overhyped Longevity Hack? Separating Science from Wishful Thinking
 ia: SaaSpocalypse Now: ¿Por qué el auge de la IA podría REVENTAR tu software en 2026? (Y cómo evitarlo)
 ia: Anthropic's Claude Code: Hype or Revolution? A 2026 Reality Check for Advanced Devs
+tools: The Hidden Cost of AI Productivity: Why Superhuman's Acquisition of Rows Could Backfire
