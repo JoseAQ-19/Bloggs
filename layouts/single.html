@@ -58,6 +58,15 @@
     <span class="f6 mv4 dib tracked white-60"> - {{ lang.Translate "wordCount" .WordCount }} </span>
     {{ end }}
   </header>
+
+  {{/* === FEATURED IMAGE (inside card, properly styled, no text overlap) === */}}
+  {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+  {{ if $featured_image }}
+  <div class="w-100 mb4 mt3" data-aos="fade-up" data-aos-delay="100">
+    {{ partial "func/GetOptimizedImage.html" (dict "page" . "class" "img w-100 br3" "alt" .Title "eager" true) }}
+  </div>
+  {{ end }}
+
   <div class="nested-copy-line-height lh-copy {{ $.Param " post_content_classes" | compare.Default "serif" }} f4
     nested-links white {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl" ) "pl4-l" "pr4-l" }}
     {{ if $needs_aside }}w-two-thirds-l{{ else }}w-100-l{{ end }}" data-aos="fade-up" data-aos-delay="200">
@@ -88,7 +97,7 @@
         data-driven perspective.{{ end }}
       </p>
       <div class="mt3 flex items-center">
-        <a href="{{ "about/" | absLangURL }}" class="f7 link white-60 hover-white mr3"
+        <a href="{{ " about/" | absLangURL }}" class="f7 link white-60 hover-white mr3"
           style="text-decoration: underline;">
           {{ if eq .Lang "es" }}Más sobre el autor →{{ else }}More about the author →{{ end }}
         </a>
