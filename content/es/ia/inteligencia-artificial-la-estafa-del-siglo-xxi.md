@@ -43,7 +43,7 @@ Un caso resonante ocurrió en Hong Kong, donde un empleado transfirió **25 mill
 
 **Análisis de Expertos: Desmontando el Hype**
 
-Los expertos desmontan el "hype" publicitario y exponen las mecánicas subyacentes de esta tecnología. Emily M. Bender y Alex Hanna describen a los modelos de lenguaje como **"loros estocásticos"**. No comprenden el significado, sino que predicen patrones. La "estafa" radica en el marketing que induce a los usuarios a proyectar inteligencia y empatía en estos sistemas.
+Los expertos desmontan el "hype" publicitario y exponen las mecánicas subyacentes de esta tecnología. Emily M. Bender y Alex Hanna describen a los modelos de lenguaje como [**"loros estocásticos"**](https://dl.acm.org/doi/10.1145/3442188.3445922). No comprenden el significado, sino que predicen patrones. La "estafa" radica en el marketing que induce a los usuarios a proyectar inteligencia y empatía en estos sistemas.
 
 Virginia Eubanks acuña el término **"digital poorhouse"** para describir cómo los algoritmos en servicios sociales actúan como barreras de contención, perfilando y castigando a los pobres bajo una falsa premisa de eficiencia y neutralidad.
 

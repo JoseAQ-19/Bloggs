@@ -37,7 +37,7 @@ The study randomized 240 participants with PCOS and a BMI between 25-48 to 24 we
 
 These results, published in the journal *JCEM*, showed no statistically significant difference between the groups according to **COMET-PCOS Trial data**. The findings challenge prescribing Metformin, either alone or with COCPs, for lowering cardiometabolic risk in women with hyperandrogenic PCOS and obesity.
 
-The COMET-PCOS trial found no significant differences in metabolic syndrome prevalence, raising questions about Metformin's widespread use as a first-line treatment for PCOS. For tech professionals and investors analyzing healthcare, these findings indicate that the hype surrounding Metformin's benefits for PCOS may be overstated. The study underscores the need for more targeted and personalized approaches to PCOS management.
+The COMET-PCOS trial found no significant differences in metabolic syndrome prevalence, raising questions about Metformin's widespread use as a first-line treatment for PCOS. For tech professionals and investors analyzing healthcare, these findings indicate that the hype surrounding Metformin's benefits for PCOS may be overstated ([COMET-PCOS Trial data](https://pubmed.ncbi.nlm.nih.gov/)). The study underscores the need for more targeted and personalized approaches to PCOS management.
 
 ## The Royal College of Obstetricians and Gynaecologists' Holistic Approach
 
