@@ -25,7 +25,7 @@ La caída no es una simple corrección. Es la explosión de una burbuja inflada 
 *   Desde su punto álgido, Bitcoin se ha desangrado, arrastrando consigo las esperanzas de miles de creyentes ingenuos.
 *   La volatilidad, lejos de ser un rasgo pasajero, es la manifestación de su intrínseca inestabilidad.
 *   Las liquidaciones masivas revelan la peligrosa cantidad de apalancamiento y el riesgo sistémico inherente a este casino disfrazado de innovación.
-*   Mientras Bitcoin se derrumbaba, el oro real brillaba, exponiendo la falsedad de la narrativa del "oro digital". [El oro ha demostrado históricamente ser un refugio seguro](https://www.bloomberg.com/markets/commodities).
+*   Mientras Bitcoin se derrumbaba, el oro real brillaba, exponiendo la falsedad de la narrativa del "oro digital". **El oro ha demostrado históricamente ser un refugio seguro**.
 *   El auge de las *stablecoins* no es un signo de madurez, sino un grito desesperado por seguridad en un ecosistema tóxico.
 *   Los mineros, exprimidos por el altísimo costo de la electricidad y la caída del precio, operan en números rojos, debilitando la seguridad de la red. El costo de la energía necesaria para minar Bitcoin supera con creces sus beneficios, un sinsentido ecológico documentado por [investigaciones de la Universidad de Cambridge](https://www.cbeci.org/).
 *   Las *altcoins*, las *memecoins* y la basura digital asociada, se enfrentan a un exterminio masivo cuando Bitcoin estornuda.
@@ -34,7 +34,7 @@ La fachada de Bitcoin como cobertura contra la inflación se ha hecho añicos. M
 
 ## La Tormenta Perfecta
 
-Las condiciones macroeconómicas se han vuelto decididamente hostiles. El aumento de las tasas de interés por parte del Banco de Japón (BOJ), anticipado por [analistas de Reuters](https://www.reuters.com/markets/asia/boj-likely-raise-rates-again-this-year-after-historic-shift-next-week-2024-03-15/), reduce la liquidez global y desata ventas masivas. La incertidumbre sobre la política monetaria y el endurecimiento de las condiciones financieras solo acelerarán el declive.
+Las condiciones macroeconómicas se han vuelto decididamente hostiles. El aumento de las tasas de interés por parte del Banco de Japón (BOJ), anticipado por **analistas de Reuters**, reduce la liquidez global y desata ventas masivas. La incertidumbre sobre la política monetaria y el endurecimiento de las condiciones financieras solo acelerarán el declive.
 
 Los "expertos" que promocionaban Bitcoin ahora se esconden bajo una piedra. Los premios Nobel que calificaron a las criptomonedas como burbujas peligrosas son vindicados. Su visión, antes descartada como pesimista, ahora resuena con una claridad dolorosa. Paul Krugman, Joseph Stiglitz y Robert Shiller entendieron desde el principio que Bitcoin carece de valor intrínseco y solo prospera en la ignorancia y la codicia.
 

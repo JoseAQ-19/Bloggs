@@ -22,7 +22,7 @@ La Inteligencia Artificial (IA) es el último opio del pueblo, una fantasía tec
 
 La burbuja de la IA está a punto de estallar, pero las élites de Silicon Valley seguirán enriqueciéndose hasta el último segundo. Las promesas de rentabilidad y eficiencia son puras cortinas de humo para ocultar la realidad: la IA, tal como se está desarrollando, es un pozo sin fondo de recursos y un destructor de empleos.
 
-*   **Rentabilidad Inexistente:** La propaganda tecnoptimista nos bombardea con historias de éxito, pero la verdad es que la mayoría de las empresas no están viendo ningún retorno significativo de sus inversiones en IA. Un análisis reciente revela que [menos del 15% de las empresas obtienen mejoras notables en sus márgenes operativos](https://www.mckinsey.com/capabilities/quantum-computing/our-insights/what-companies-are-doing-to-realize-ais-value).
+*   **Rentabilidad Inexistente:** La propaganda tecnoptimista nos bombardea con historias de éxito, pero la verdad es que la mayoría de las empresas no están viendo ningún retorno significativo de sus inversiones en IA. Un análisis reciente revela que **menos del 15% de las empresas obtienen mejoras notables en sus márgenes operativos**.
 *   **Inversiones en Caída Libre:** El dinero fácil se está acabando. Los inversores, antes cegados por el brillo de la IA, están empezando a darse cuenta de que la promesa de un futuro automatizado es una quimera costosa. La desaceleración en la inversión en IA no es una casualidad, es una señal de alarma.
 *   **Costos Ocultos Devastadores:** El coste ambiental de la IA es obsceno. Entrenar un modelo como GPT-3 consume una cantidad absurda de energía. El despilfarro energético es tan grave que pone en tela de juicio la viabilidad a largo plazo de esta tecnología.
 
@@ -38,7 +38,7 @@ La IA no es una fuerza liberadora, es una máquina de exprimir a los trabajadore
 
 La IA está concentrando el poder y la riqueza en manos de un puñado de empresas tecnológicas, las cuales se comportan como verdaderos señores feudales del siglo XXI. Estas empresas controlan la información, la infraestructura y el futuro de la humanidad, y lo hacen sin rendir cuentas a nadie.
 
-La valoración del mercado bursátil está inflada hasta niveles absurdos, impulsada por la especulación en torno a la IA. Esta burbuja financiera está a punto de estallar, y cuando lo haga, las consecuencias serán catastróficas. El índice S&P 500 está dominado por estas empresas, lo que es una [señal clara de la distorsión del mercado](https://www.wsj.com/market-data/quotes/index/SPX).
+La valoración del mercado bursátil está inflada hasta niveles absurdos, impulsada por la especulación en torno a la IA. Esta burbuja financiera está a punto de estallar, y cuando lo haga, las consecuencias serán catastróficas. El índice S&P 500 está dominado por estas empresas, lo que es una **señal clara de la distorsión del mercado**.
 
 ## La IA como Religión: Fanatismo Tecnológico y Ceguera Moral
 

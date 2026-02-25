@@ -26,17 +26,17 @@ La promesa de "comodidad" y "acceso ilimitado" vendida por Netflix, Spotify y la
 
 Las "suscripciones fantasma" son un cáncer financiero que se extiende silenciosamente. Desde las "pruebas gratuitas" que se convierten en cargos automáticos (¿quién no ha olvidado cancelar una?), hasta la "facturación por omisión" que asume tu consentimiento a menos que protestes activamente, están diseñadas para sangrar tu cuenta. Incluso las suscripciones "olvidadas" son un negocio redondo, generando ingresos pasivos para empresas sin escrúpulos.
 
-Las cifras no mienten. Las quejas ante la Comisión Federal de Comercio (FTC) sobre suscripciones fraudulentas se han disparado [según datos oficiales](https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2023/03/negative-option-marketing-across-industries). No es un simple "malentendido"; es una epidemia de fraude que está devastando los bolsillos de la gente.
+Las cifras no mienten. Las quejas ante la Comisión Federal de Comercio (FTC) sobre suscripciones fraudulentas se han disparado **según datos oficiales**. No es un simple "malentendido"; es una epidemia de fraude que está devastando los bolsillos de la gente.
 
 ## Ingeniería Psicológica: La Clave del Éxito del Fraude
 
 El secreto de estas empresas no reside en la innovación, sino en la manipulación. Los "patrones oscuros" son el arma elegida: interfaces diseñadas para explotar nuestros sesgos cognitivos y la inercia humana. Nos tratan como ganado, guiándonos hacia decisiones que nunca tomaríamos con la cabeza fría.
 
-Piensa en el "Motel de Cucarachas": fácil entrar, imposible salir. El "Confirmshaming" te hace sentir culpable por no querer algo que nunca pediste. El "Precio por goteo" te seduce con un precio inicial bajo, para luego bombardearte con cargos ocultos. Es una guerra psicológica, y tú eres el objetivo. Este artículo de [Nielsen Norman Group](https://www.nngroup.com/articles/dark-patterns/) profundiza en la manipulación del usuario mediante el diseño.
+Piensa en el "Motel de Cucarachas": fácil entrar, imposible salir. El "Confirmshaming" te hace sentir culpable por no querer algo que nunca pediste. El "Precio por goteo" te seduce con un precio inicial bajo, para luego bombardearte con cargos ocultos. Es una guerra psicológica, y tú eres el objetivo. Este artículo de **Nielsen Norman Group** profundiza en la manipulación del usuario mediante el diseño.
 
 ## La Lucha Legal: Una Batalla Desigual
 
-Aunque la FTC ha intentado tomar medidas, la burocracia y los cabilderos corporativos a menudo socavan las protecciones al consumidor [como se detalla en este informe de Reuters](https://www.reuters.com/legal/us-appeals-court-rejects-ftcs-authority-curb-companies-junk-fees-2024-04-19/). La Unión Europea, con su Ley de Servicios Digitales (DSA), parece ser más proactiva, pero ¿será suficiente?
+Aunque la FTC ha intentado tomar medidas, la burocracia y los cabilderos corporativos a menudo socavan las protecciones al consumidor **como se detalla en este informe de Reuters**. La Unión Europea, con su Ley de Servicios Digitales (DSA), parece ser más proactiva, pero ¿será suficiente?
 
 Gigantes como Epic Games y Adobe han sido castigados, sí, pero las multas son solo una fracción de sus beneficios. Amazon Prime y TurboTax siguen operando con impunidad, perfeccionando sus tácticas de engaño. La batalla está lejos de ganarse.
 
@@ -44,4 +44,4 @@ Gigantes como Epic Games y Adobe han sido castigados, sí, pero las multas son s
 
 El modelo de suscripción está invadiendo incluso los sectores más impensables. ¿BMW cobrando por el uso de los asientos con calefacción? Es la punta del iceberg. Prepárate para pagar por cada función de tu coche, por cada electrodoméstico, incluso por el aire que respiras. Estamos caminando hacia un futuro de alquiler perpetuo, donde la propiedad privada es un recuerdo lejano.
 
-La única solución es la rebelión. Abandona las suscripciones. Recupera el control de tu dinero. Abraza la compra única, donde tú, y solo tú, decides cuándo y cómo gastar tu dinero. No hay medias tintas. El futuro de tu libertad financiera depende de ello. La investigación de [Harvard Business Review](https://hbr.org/2022/01/what-customers-really-want-from-subscriptions) sugiere que la transparencia y el control son clave, pero seamos realistas, la mayoría de las empresas ignorarán estos hallazgos mientras puedan seguir exprimiéndote.
+La única solución es la rebelión. Abandona las suscripciones. Recupera el control de tu dinero. Abraza la compra única, donde tú, y solo tú, decides cuándo y cómo gastar tu dinero. No hay medias tintas. El futuro de tu libertad financiera depende de ello. La investigación de **Harvard Business Review** sugiere que la transparencia y el control son clave, pero seamos realistas, la mayoría de las empresas ignorarán estos hallazgos mientras puedan seguir exprimiéndote.

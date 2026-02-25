@@ -20,7 +20,7 @@ La cantinela del "capitalismo zombi" se ha convertido en la muletilla favorita d
 
 ## Necrocapitalismo: El Mito de la Destrucción Creadora Fallida
 
-El término "necrocapitalismo", invocado con tanta ligereza, es una cortina de humo para encubrir la verdadera raíz del problema: la planificación centralizada disfrazada de "intervención necesaria". ¿Acaso olvidamos que el libre mercado, en su estado puro, se purga a sí mismo? Las empresas ineficientes mueren, liberando recursos para las innovadoras. El "necrocapitalismo" no es más que la negación de este principio fundamental, donde el Estado se dedica a mantener artificialmente con vida a empresas moribundas, [como detalla este informe de Bloomberg](https://www.bloomberg.com/opinion/articles/2020-12-10/zombie-firms-are-a-problem-even-in-a-pandemic).
+El término "necrocapitalismo", invocado con tanta ligereza, es una cortina de humo para encubrir la verdadera raíz del problema: la planificación centralizada disfrazada de "intervención necesaria". ¿Acaso olvidamos que el libre mercado, en su estado puro, se purga a sí mismo? Las empresas ineficientes mueren, liberando recursos para las innovadoras. El "necrocapitalismo" no es más que la negación de este principio fundamental, donde el Estado se dedica a mantener artificialmente con vida a empresas moribundas, **como detalla este informe de Bloomberg**.
 
 La idea de que el capital se acumula a través de la "destrucción" es una tergiversación grotesca de la destrucción creativa schumpeteriana. No se trata de violencia y explotación, sino de innovación y eficiencia.  Al demonizar la búsqueda de beneficios, los críticos del "necrocapitalismo" atacan el motor mismo del progreso.
 
@@ -28,11 +28,11 @@ La idea de que el capital se acumula a través de la "destrucción" es una tergi
 
 Culpar a las grandes empresas tecnológicas de "controlar la producción de hegemonía" es una simplificación absurda.  Estas empresas ofrecen servicios que la gente DEMANDA. Si no fueran valiosos, no existirían. En lugar de lamentar su "poder", deberíamos celebrar su capacidad para innovar y crear valor.  Que un puñado de empresas dominen el mercado es simplemente una consecuencia de su superioridad, no una conspiración nefasta.
 
-La acusación de que estas empresas controlan directamente al Estado ignora la evidencia de que, a menudo, son víctimas de una regulación excesiva y una vigilancia constante. ¿No es el caso de las recientes investigaciones a Google y Amazon por supuestas prácticas monopólicas [según reporta Reuters](https://www.reuters.com/technology/us-judge-dismisses-federal-trade-commissions-revamped-antitrust-case-against-facebook-2021-06-28/)? En lugar de ser los amos del Estado, son sus rehenes.
+La acusación de que estas empresas controlan directamente al Estado ignora la evidencia de que, a menudo, son víctimas de una regulación excesiva y una vigilancia constante. ¿No es el caso de las recientes investigaciones a Google y Amazon por supuestas prácticas monopólicas **según reporta Reuters**? En lugar de ser los amos del Estado, son sus rehenes.
 
 ## Neoliberalismo Autoritario: La Paradoja Inevitable
 
-La noción de un "neoliberalismo autoritario" es una contradicción en términos. El neoliberalismo, en su esencia, aboga por la reducción de la intervención estatal.  Si el Estado interviene para "rescatar" empresas o "proteger" intereses corporativos, entonces no estamos hablando de neoliberalismo, sino de [corporativismo descarado](https://mises.org/wire/corporatism-what-it-and-why-it-bad).
+La noción de un "neoliberalismo autoritario" es una contradicción en términos. El neoliberalismo, en su esencia, aboga por la reducción de la intervención estatal.  Si el Estado interviene para "rescatar" empresas o "proteger" intereses corporativos, entonces no estamos hablando de neoliberalismo, sino de **corporativismo descarado**.
 
 La "globalización feliz" nunca existió. Siempre fue una fantasía utópica promovida por políticos y académicos que ignoraban las consecuencias de sus políticas.  La crisis de 2008 no desnudó los mitos de la autorregulación financiera, sino la imprudencia de la Reserva Federal y otros bancos centrales que inundaron el mercado con dinero barato.
 

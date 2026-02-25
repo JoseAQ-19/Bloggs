@@ -34,7 +34,7 @@ La raíz del problema se encuentra en la interconexión tóxica de varios factor
 
 Las consecuencias de este "capitalismo zombi" son devastadoras:
 
-1.  **Productividad estancada:** El capital se invierte en empresas improductivas, sofocando la innovación y el crecimiento real. Las empresas zombi, que representan una parte significativa de la economía (en Europa, se estima que representan el 10% del total según [datos de la Comisión Europea](https://ec.europa.eu/economy_finance/publication/product/2021/annual-single-market-report-2021_en)),  absorben recursos que podrían destinarse a empresas dinámicas y en expansión.
+1.  **Productividad estancada:** El capital se invierte en empresas improductivas, sofocando la innovación y el crecimiento real. Las empresas zombi, que representan una parte significativa de la economía (en Europa, se estima que representan el 10% del total según **datos de la Comisión Europea**),  absorben recursos que podrían destinarse a empresas dinámicas y en expansión.
 2.  **Salarios de miseria:** Las empresas zombi, al borde de la quiebra, presionan los salarios a la baja, contribuyendo a la desigualdad y la precarización laboral.
 3.  **Fragilidad financiera:** La acumulación de deuda insostenible crea un riesgo sistémico que amenaza con desencadenar una crisis financiera global aún peor que la de 2008.
 

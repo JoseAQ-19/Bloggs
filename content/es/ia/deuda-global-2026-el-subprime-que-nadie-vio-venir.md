@@ -20,7 +20,7 @@ El reloj financiero marca el año 2026, y la pregunta no es si habrá turbulenci
 
 ## La Deuda: El Veneno Silencioso
 
-El mantra de "crecimiento a cualquier costo" ha creado un monstruo. En 2026, el mundo desarrollado deberá refinanciar la obscena suma de 33 billones de dólares en deuda pública. No es un pequeño bache en el camino, es un precipicio fiscal. Esta montaña de deuda, acumulada durante años de políticas monetarias laxas, está a punto de caer sobre nosotros. ¿La solución? Más deuda, perpetuando un ciclo vicioso que solo beneficia a los bancos y a los políticos que los protegen. [Según Bloomberg](https://www.bloomberg.com/opinion/articles/2024-05-29/global-debt-binge-is-far-from-over-despite-high-interest-rates), la deuda global sigue en ascenso, ignorando las advertencias más elementales.
+El mantra de "crecimiento a cualquier costo" ha creado un monstruo. En 2026, el mundo desarrollado deberá refinanciar la obscena suma de 33 billones de dólares en deuda pública. No es un pequeño bache en el camino, es un precipicio fiscal. Esta montaña de deuda, acumulada durante años de políticas monetarias laxas, está a punto de caer sobre nosotros. ¿La solución? Más deuda, perpetuando un ciclo vicioso que solo beneficia a los bancos y a los políticos que los protegen. **Según Bloomberg**, la deuda global sigue en ascenso, ignorando las advertencias más elementales.
 
 ## La Farsa de la "Banca en la Sombra"
 
@@ -32,7 +32,7 @@ Esta migración de riesgos desde los balances públicos a estas estructuras priv
 
 La fiebre por la inteligencia artificial es la nueva burbuja Dot-com, pero con esteroides. Las empresas tecnológicas están gastando sumas astronómicas en proyectos de IA sin una clara visión de cómo se traducirán en ganancias reales. Esta exuberancia irracional está alimentada por la deuda, creando un ciclo insostenible de especulación y riesgo.
 
-*   El aumento en los CDS (seguros contra impago) de empresas como Oracle y Microsoft [según datos de Reuters](https://www.reuters.com/markets/deals/credit-swaps-reflect-growing-worries-about-tech-sector-debt-2024-01-26/) revela el nerviosismo inversor sobre su capacidad para generar ingresos a partir de estas inversiones masivas.
+*   El aumento en los CDS (seguros contra impago) de empresas como Oracle y Microsoft **según datos de Reuters** revela el nerviosismo inversor sobre su capacidad para generar ingresos a partir de estas inversiones masivas.
 
 Las empresas están mintiendo sobre la rentabilidad de sus inversiones en IA. Pronto quedará en evidencia que la mayoría de estos proyectos son castillos en el aire.
 

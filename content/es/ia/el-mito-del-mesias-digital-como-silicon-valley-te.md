@@ -23,7 +23,7 @@ Silicon Valley: la ciudadela de la codicia, no de la innovación. Presentada com
 
 La narrativa cuidadosamente construida por los amos del valle nos vende la Inteligencia Artificial como la panacea universal, capaz de curar enfermedades, abolir la guerra y revertir el cambio climático. Esta fantasía conveniente sirve para enmascarar la verdadera razón de ser de Silicon Valley: la apropiación despiadada y la comercialización de cada aspecto de la existencia humana. El usuario no es más que ganado, sus datos, el pasto.
 
-La llamada "Doctrina Silicon" no es más que una reinterpretación cínica del neoliberalismo, donde la desregulación es la norma y la explotación, la estrategia. La lógica es perversa: extraer la máxima cantidad de datos posible, considerándolos *res nullius*, materia prima para alimentar algoritmos que predicen y, lo que es peor, manipulan nuestro comportamiento. ¿Un ejemplo? Android, ese supuesto "código abierto" que consolida un monopolio asfixiante, subcontratando la innovación a usuarios que contribuyen con sus datos a cambio de… nada. [Aquí un análisis de cómo Google controla Android](https://www.techcrunch.com/2018/07/18/google-android-eu-antitrust/).
+La llamada "Doctrina Silicon" no es más que una reinterpretación cínica del neoliberalismo, donde la desregulación es la norma y la explotación, la estrategia. La lógica es perversa: extraer la máxima cantidad de datos posible, considerándolos *res nullius*, materia prima para alimentar algoritmos que predicen y, lo que es peor, manipulan nuestro comportamiento. ¿Un ejemplo? Android, ese supuesto "código abierto" que consolida un monopolio asfixiante, subcontratando la innovación a usuarios que contribuyen con sus datos a cambio de… nada. **Aquí un análisis de cómo Google controla Android**.
 
 ## El mito de la sostenibilidad tecnológica: Un engaño "verde"
 
@@ -37,7 +37,7 @@ La promesa de Uber y Amazon no es flexibilidad, sino precariedad. Los trabajador
 
 ## La fuga hacia Marte: El último acto de cobardía
 
-Ante la crisis climática y social, la respuesta de Silicon Valley no es la solución, sino la huida. La colonización espacial, impulsada por Musk y Bezos, se vende como una "póliza de seguro", un lujo accesible solo para una élite privilegiada. Proponen construir "ciudades privadas" o "estados en red" para evadir impuestos y leyes nacionales, o construyen búnkeres en Nueva Zelanda, evidenciando su deseo de desconectarse del resto de la humanidad. [El informe de Oxfam sobre la desigualdad galopante](https://www.oxfam.org/es/informes/la-supervivencia-de-los-mas-ricos) pinta un panorama desolador.
+Ante la crisis climática y social, la respuesta de Silicon Valley no es la solución, sino la huida. La colonización espacial, impulsada por Musk y Bezos, se vende como una "póliza de seguro", un lujo accesible solo para una élite privilegiada. Proponen construir "ciudades privadas" o "estados en red" para evadir impuestos y leyes nacionales, o construyen búnkeres en Nueva Zelanda, evidenciando su deseo de desconectarse del resto de la humanidad. **El informe de Oxfam sobre la desigualdad galopante** pinta un panorama desolador.
 
 En resumen, la visión de Silicon Valley es una estafa gigantesca. Mientras nos venden un futuro idílico de inmortalidad y abundancia, nos despojan de nuestra privacidad, nuestra soberanía y nuestro futuro colectivo. Nos roban hoy, mientras nos prometen el paraíso mañana.
 

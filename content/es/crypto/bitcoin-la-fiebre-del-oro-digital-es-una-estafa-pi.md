@@ -20,7 +20,7 @@ La promesa de Bitcoin de derrocar al sistema financiero tradicional es tan seduc
 
 ## La Supuesta Revolución: Un Fracaso Estrepitoso
 
-Desde 2009, la narrativa de Bitcoin ha sido constante: un activo refugio, una reserva de valor descentralizada. Pero la realidad pinta un cuadro muy distinto. Su volatilidad, lejos de ser una característica, es un síntoma de su fragilidad inherente. Las fluctuaciones salvajes, como las analizadas en el informe de Estabilidad Financiera del Banco de España, demuestran que Bitcoin es un casino digital, no un refugio seguro. [Banco de España - Informe de Estabilidad Financiera](https://www.bde.es/w/es/prensa/notas-informativas/24/05/notapr20240517.html)
+Desde 2009, la narrativa de Bitcoin ha sido constante: un activo refugio, una reserva de valor descentralizada. Pero la realidad pinta un cuadro muy distinto. Su volatilidad, lejos de ser una característica, es un síntoma de su fragilidad inherente. Las fluctuaciones salvajes, como las analizadas en el informe de Estabilidad Financiera del Banco de España, demuestran que Bitcoin es un casino digital, no un refugio seguro. **Banco de España - Informe de Estabilidad Financiera**
 
 La promesa de transacciones rápidas y baratas es otra falacia. La red Bitcoin, saturada y lenta, se asemeja más a un caracol que a una liebre. Las tarifas elevadas, especialmente en momentos de alta demanda, hacen que su uso práctico sea prohibitivo. Olvídese de usar Bitcoin para comprar un café; terminará pagando más en comisiones que en el propio café.
 
@@ -34,7 +34,7 @@ La distribución de la riqueza en Bitcoin es aún más alarmante. Un pequeño po
 
 La acusación de que Bitcoin es un esquema Ponzi no es descabellada. Su valor depende casi exclusivamente de la entrada de nuevos inversores. Los primeros adopters se enriquecen a costa de los que llegan tarde a la fiesta. Cuando el flujo de nuevos participantes se agota, la burbuja estalla y los últimos en llegar son los que se quedan con la mano vacía.
 
-A diferencia de las monedas fiduciarias, Bitcoin no está respaldado por ningún activo tangible ni por la productividad económica. Su valor es puramente especulativo, basado en la fe ciega de sus creyentes. La promoción agresiva y el marketing viral solo sirven para inflar aún más la burbuja, creando una falsa sensación de valor. La SEC ha sido clara sobre la necesidad de regular este espacio para proteger a los inversores, como reporta Reuters [Reuters - SEC Crypto Regulation](https://www.reuters.com/markets/us/us-sec-chief-gensler-says-crypto-markets-need-regulation-2024-05-08/).
+A diferencia de las monedas fiduciarias, Bitcoin no está respaldado por ningún activo tangible ni por la productividad económica. Su valor es puramente especulativo, basado en la fe ciega de sus creyentes. La promoción agresiva y el marketing viral solo sirven para inflar aún más la burbuja, creando una falsa sensación de valor. La SEC ha sido clara sobre la necesidad de regular este espacio para proteger a los inversores, como reporta Reuters **Reuters - SEC Crypto Regulation**.
 
 El dominio de Bitcoin sobre el mercado de criptomonedas es un síntoma preocupante. La entrada de nuevos inversores se concentra principalmente en Bitcoin, beneficiando a los tenedores existentes a expensas de los recién llegados. Esto perpetúa el ciclo Ponzi, creando una transferencia de riqueza desde los ingenuos hacia los astutos.
 
@@ -42,7 +42,7 @@ El dominio de Bitcoin sobre el mercado de criptomonedas es un síntoma preocupan
 
 El auge de los criptoactivos representa una amenaza real para la estabilidad financiera global. La creciente interconexión entre los criptoactivos y el sistema financiero tradicional aumenta el riesgo de contagio y amplifica la volatilidad. La falta de regulación efectiva y la opacidad del mercado facilitan el lavado de dinero, la financiación del terrorismo y otras actividades ilícitas.
 
-La reciente aprobación de ETFs de Bitcoin en Estados Unidos, aunque celebrada por algunos, es un paso peligroso que legitima un activo inherentemente inestable. Expone a los inversores minoristas a un riesgo innecesario y aumenta la interdependencia entre el mundo de las finanzas tradicionales y el salvaje oeste de las criptomonedas. [TechCrunch - Bitcoin ETF Approval](https://techcrunch.com/2024/01/10/bitcoin-etf-approved/).
+La reciente aprobación de ETFs de Bitcoin en Estados Unidos, aunque celebrada por algunos, es un paso peligroso que legitima un activo inherentemente inestable. Expone a los inversores minoristas a un riesgo innecesario y aumenta la interdependencia entre el mundo de las finanzas tradicionales y el salvaje oeste de las criptomonedas. **TechCrunch - Bitcoin ETF Approval**.
 
 La manipulación del mercado es una preocupación constante. La falta de transparencia y la presencia de información privilegiada facilitan la manipulación de precios y la estafa a inversores incautos. Bitcoin es un terreno fértil para la especulación descontrolada y la actividad fraudulenta.
 

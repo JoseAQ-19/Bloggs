@@ -59,7 +59,7 @@ Tesla's quest to achieve full self-driving capability has exposed the realities 
 
 The data-driven approach fueling Tesla's AI development is running into the limitations of statistical learning. AI systems struggle to generalize to situations not well-represented in the training data.
 
-This is problematic for self-driving cars, where even rare events can have catastrophic consequences. Tesla's [recall of nearly all its vehicles with Autopilot](https://www.reuters.com/technology/tesla-recall-over-2-million-vehicles-us-autopilot-system-2023-12-13/) highlights the significant hurdles.
+This is problematic for self-driving cars, where even rare events can have catastrophic consequences. Tesla's **recall of nearly all its vehicles with Autopilot** highlights the significant hurdles.
 
 Achieving true autonomy requires not only massive datasets but also robust reasoning capabilities, common-sense knowledge, and the ability to adapt to unforeseen circumstances.
 
@@ -69,9 +69,9 @@ The slowdown in AI progress will have implications for automation and the econom
 
 However, the limitations of current AI systems may slow the pace of job displacement. The productivity gains promised by AI-powered automation may also be more modest than anticipated.
 
-While AI can improve efficiency, it is unlikely to completely replace human workers. The need for human oversight, judgment, and creativity will remain crucial. A [McKinsey report](https://www.mckinsey.com/featured-insights/future-of-work/ai-automation-and-productivity) stated that AI could automate 34% of entry-level roles.
+While AI can improve efficiency, it is unlikely to completely replace human workers. The need for human oversight, judgment, and creativity will remain crucial. A **McKinsey report** stated that AI could automate 34% of entry-level roles.
 
-The economic impact of AI will depend on adapting to the changing labor market and investing in education and training. The World Economic Forum estimated that [AI will create 97 million new jobs by 2025](https://www.weforum.org/press/2020/10/top-10-skills-of-tomorrow-how-useful-are-they-in-the-covid-19-world/), but these jobs will require different skills.
+The economic impact of AI will depend on adapting to the changing labor market and investing in education and training. The World Economic Forum estimated that **AI will create 97 million new jobs by 2025**, but these jobs will require different skills.
 
 The hype around AI has often overshadowed its limitations. A sober assessment of AI's capabilities is needed to guide policy decisions.
 

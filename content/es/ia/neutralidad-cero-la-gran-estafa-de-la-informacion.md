@@ -24,7 +24,7 @@ En una época donde la información nos bombardea sin cesar, la insistencia en l
 
 La búsqueda de la objetividad en el periodismo, supuestamente nacida para contrarrestar el periodismo faccioso del siglo XIX, pronto se reveló como una quimera. La narrativa original, que buscaba presentar "los hechos tal cual son", se desmorona ante la simple realidad de que no existen "hechos puros". La selección misma de qué cubrir, cómo encuadrarlo y a quién dar voz, es un acto intrínsecamente subjetivo.
 
-Gemini y NotebookLM pueden vomitar datos sobre la "evolución" de la objetividad periodística, pero la verdad es que esta presunta evolución es un descenso a la irrelevancia. La obsesión por la imparcialidad ha convertido a muchos periodistas en meros taquígrafos del poder, incapaces de desafiar las narrativas dominantes [como se evidencia en la cobertura complaciente de las guerras recientes](https://www.reuters.com/world/us/us-media-criticized-coverage-ukraine-war-2023-03-29/).
+Gemini y NotebookLM pueden vomitar datos sobre la "evolución" de la objetividad periodística, pero la verdad es que esta presunta evolución es un descenso a la irrelevancia. La obsesión por la imparcialidad ha convertido a muchos periodistas en meros taquígrafos del poder, incapaces de desafiar las narrativas dominantes **como se evidencia en la cobertura complaciente de las guerras recientes**.
 
 ## Hechos sin contexto: la receta para la manipulación
 
@@ -46,7 +46,7 @@ El periodismo de defensa, aunque inherentemente parcial, puede ser una fuerza pa
 
 ## La tecnología: un acelerador de la desinformación
 
-Los algoritmos de las redes sociales son una sentencia de muerte para la objetividad. Diseñados para maximizar el compromiso, nos encierran en "cámaras de eco" donde solo escuchamos voces que confirman nuestras propias creencias. La personalización algorítmica es la antítesis de la verdad objetiva, [como demuestra la proliferación de noticias falsas en Facebook durante las elecciones](https://techcrunch.com/2016/11/10/facebook-fake-news/).
+Los algoritmos de las redes sociales son una sentencia de muerte para la objetividad. Diseñados para maximizar el compromiso, nos encierran en "cámaras de eco" donde solo escuchamos voces que confirman nuestras propias creencias. La personalización algorítmica es la antítesis de la verdad objetiva, **como demuestra la proliferación de noticias falsas en Facebook durante las elecciones**.
 
 La solución no es rendirse ante la distopía digital, sino combatirla con un periodismo aún más agresivo y transparente. Los periodistas deben convertirse en hackers de la verdad, desenmascarando la manipulación algorítmica y exponiendo las agendas ocultas detrás de la desinformación. Deben aprender a usar las mismas herramientas que sus adversarios para difundir información precisa y contextualizada.
 
@@ -58,6 +58,6 @@ La supuesta crisis de objetividad es una cortina de humo. El periodismo, o es co
 
 La obsesión con la objetividad a menudo lleva a perpetuar narrativas dominantes y a silenciar voces marginalizadas. Al evitar tomar partido, los periodistas refuerzan el statu quo y se convierten en cómplices de la injusticia.
 
-Un enfoque crítico requiere un compromiso con la justicia social y la equidad, aunque eso signifique desafiar la noción misma de neutralidad.  Es vital entender el impacto social de las noticias. Un estudio [publicado en Nature](https://www.nature.com/articles/s41562-022-01472-1) demuestra cómo la cobertura mediática sesgada afecta negativamente la percepción pública de ciertos grupos minoritarios.
+Un enfoque crítico requiere un compromiso con la justicia social y la equidad, aunque eso signifique desafiar la noción misma de neutralidad.  Es vital entender el impacto social de las noticias. Un estudio **publicado en Nature** demuestra cómo la cobertura mediática sesgada afecta negativamente la percepción pública de ciertos grupos minoritarios.
 
 La verdadera objetividad reside en la honestidad intelectual y la transparencia metodológica, no en la pretensión de una neutralidad inexistente. El futuro del periodismo depende de ello. El tiempo de las tibiezas ha terminado. Es hora de tomar partido y defender la verdad, sin importar las consecuencias.

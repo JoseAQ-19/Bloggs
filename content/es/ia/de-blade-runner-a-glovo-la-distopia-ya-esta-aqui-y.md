@@ -28,13 +28,13 @@ Fuentes cercanas a RidersXDerechos y el Observatorio de Trabajo, Algoritmo y Soc
 
 Glovo no es una plataforma tecnológica; es una máquina de precarización que se alimenta de la desesperación ajena. Su modelo se basa en la competencia despiadada entre repartidores, orquestada por algoritmos opacos. Los repartidores asumen todos los riesgos, los costes, y la incertidumbre, mientras Glovo se embolsa las ganancias.
 
-El sistema algorítmico es una caja negra. Los repartidores desconocen los criterios para la asignación de pedidos, creando una jerarquía invisible y manipulable. Esta opacidad, documentada en estudios como el de la Universidad de Oxford [disponible aquí](https://www.ox.ac.uk/news/2023-07-20-algorithmic-management-work-increasing-globally-study-finds), permite a Glovo controlar a sus trabajadores sin rendir cuentas a nadie.
+El sistema algorítmico es una caja negra. Los repartidores desconocen los criterios para la asignación de pedidos, creando una jerarquía invisible y manipulable. Esta opacidad, documentada en estudios como el de la Universidad de Oxford **disponible aquí**, permite a Glovo controlar a sus trabajadores sin rendir cuentas a nadie.
 
 Cuatro muertes de repartidores no reconocidas como accidentes laborales. Cuatro vidas perdidas, invisibilizadas por la narrativa edulcorada de "flexibilidad" y "emprendimiento". Estas tragedias, documentadas por medios como El Salto [ver aquí](https://www.elsaltodiario.com/precariedad/repartidores-muertos-explotacion-glovo-deliveroo-riders), son la prueba irrefutable de un sistema que valora más la rapidez de entrega que la vida humana.
 
 ## Consumidores Cómplices
 
-La publicidad de Glovo, con su estética juvenil y desenfadada, es una cortina de humo que oculta una realidad repugnante. Se fomenta la desconexión entre el consumidor y el trabajador, priorizando la conveniencia sobre la ética. El problema es que muchos consumidores están perfectamente contentos de ignorar la realidad, siempre y cuando su pedido llegue a tiempo. [Este artículo de Bloomberg](https://www.bloomberg.com/opinion/articles/2021-07-19/the-gig-economy-s-days-of-rule-breaking-may-be-numbered) explora cómo la creciente conciencia sobre las prácticas laborales está afectando la imagen de estas empresas, pero ¿es suficiente?
+La publicidad de Glovo, con su estética juvenil y desenfadada, es una cortina de humo que oculta una realidad repugnante. Se fomenta la desconexión entre el consumidor y el trabajador, priorizando la conveniencia sobre la ética. El problema es que muchos consumidores están perfectamente contentos de ignorar la realidad, siempre y cuando su pedido llegue a tiempo. **Este artículo de Bloomberg** explora cómo la creciente conciencia sobre las prácticas laborales está afectando la imagen de estas empresas, pero ¿es suficiente?
 
 La negativa de Glovo a reconocer la relación laboral con sus repartidores es una afrenta al sistema de derechos laborales. Están desafiando la noción misma de "trabajo", creando un nuevo feudalismo digital donde la ley no tiene cabida.
 

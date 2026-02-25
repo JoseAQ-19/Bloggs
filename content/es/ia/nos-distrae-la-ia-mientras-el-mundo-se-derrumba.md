@@ -22,19 +22,19 @@ La IA, ese reluciente espejismo que nos venden como la solución a todos los mal
 
 ## El Mito de la Nube y el Desastre Ecológico Real
 
-La famosa "nube" que sustenta la IA es una falacia. Es una red de centros de datos hambrientos de energía y agua, y los modelos de lenguaje (LLM) son sus principales depredadores. El entrenamiento de un solo modelo como GPT-3 fue un crimen ambiental: 1.287 MWh de electricidad y 552 toneladas métricas de CO₂, el equivalente a la contaminación anual de 50 coches. ¿Alguien duda de que GPT-4 haya empeorado exponencialmente esta situación? [El impacto real de GPT-4 en el consumo energético es alarmante, aunque las cifras exactas se mantienen en secreto.](https://spectrum.ieee.org/how-much-energy-does-ai-use)
+La famosa "nube" que sustenta la IA es una falacia. Es una red de centros de datos hambrientos de energía y agua, y los modelos de lenguaje (LLM) son sus principales depredadores. El entrenamiento de un solo modelo como GPT-3 fue un crimen ambiental: 1.287 MWh de electricidad y 552 toneladas métricas de CO₂, el equivalente a la contaminación anual de 50 coches. ¿Alguien duda de que GPT-4 haya empeorado exponencialmente esta situación? **El impacto real de GPT-4 en el consumo energético es alarmante, aunque las cifras exactas se mantienen en secreto.**
 
 Pero el consumo de energía es solo la punta del iceberg. GPT-3 también requirió 700.000 litros de agua dulce solo para su entrenamiento. Y no olvidemos la creciente montaña de desechos electrónicos, con solo una pequeña fracción reciclada. Los ingenuos que creen en la "sostenibilidad" de la IA están bebiendo el Kool-Aid corporativo.
 
 ## Colonialismo de Datos y la Nueva Esclavitud Digital
 
-La IA está alimentando un nuevo colonialismo, donde nuestros datos personales son la materia prima. Tres gigantes (Amazon, Microsoft y Google) controlan el 68% del mercado de servicios en la nube, según [datos de Gartner](https://www.gartner.com/en/newsroom/press-releases/2023-04-19-gartner-says-worldwide-cloud-infrastructure-services-market-grew-22-point-7-percent-in-2022). Esto les otorga un poder sin precedentes sobre nuestras vidas y economías.
+La IA está alimentando un nuevo colonialismo, donde nuestros datos personales son la materia prima. Tres gigantes (Amazon, Microsoft y Google) controlan el 68% del mercado de servicios en la nube, según **datos de Gartner**. Esto les otorga un poder sin precedentes sobre nuestras vidas y economías.
 
 Este poder se traduce en una creciente desigualdad. Mientras Silicon Valley celebra ganancias récord, trabajadores en países en desarrollo son explotados para limpiar el contenido tóxico que alimenta los algoritmos, a menudo por salarios miserables. Esta no es innovación; es esclavitud digital.
 
 ## Desinformación, Pensamiento Crítico y la Muerte de la Razón
 
-La IA está acelerando la propagación de la desinformación y la erosión del pensamiento crítico. Se proyecta que para 2026, el 90% del contenido en línea podría ser generado por IA. ¿Cómo distinguiremos la verdad de la ficción? Al permitir que los algoritmos piensen y escriban por nosotros, estamos renunciando a nuestra capacidad de formar nuestras propias opiniones. [Un estudio de Brookings detalla los peligros de la desinformación generada por IA y su impacto en la democracia.](https://www.brookings.edu/research/how-artificial-intelligence-is-revolutionizing-disinformation/)
+La IA está acelerando la propagación de la desinformación y la erosión del pensamiento crítico. Se proyecta que para 2026, el 90% del contenido en línea podría ser generado por IA. ¿Cómo distinguiremos la verdad de la ficción? Al permitir que los algoritmos piensen y escriban por nosotros, estamos renunciando a nuestra capacidad de formar nuestras propias opiniones. **Un estudio de Brookings detalla los peligros de la desinformación generada por IA y su impacto en la democracia.**
 
 Estamos caminando sonámbulos hacia un futuro donde la tecnología nos controla, donde las herramientas se convierten en los amos y los humanos en siervos. La IA no es una herramienta neutral; es un campo de batalla por el control del futuro.
 
@@ -50,6 +50,6 @@ La capacidad de la IA para generar desinformación convincente a escala masiva a
 
 ## La IA No Es La Solución. Es El Problema.
 
-La IA, en su forma actual, no es la solución a nuestros problemas, sino un síntoma de una sociedad que ha perdido el rumbo. Es una distracción masiva que nos impide ver la realidad que se derrumba a nuestro alrededor. No nos engañemos: [la IA beneficia principalmente a las empresas tecnológicas y a sus accionistas](https://news.crunchbase.com/ai-machine-learning/ai-funding-startup-trends/).
+La IA, en su forma actual, no es la solución a nuestros problemas, sino un síntoma de una sociedad que ha perdido el rumbo. Es una distracción masiva que nos impide ver la realidad que se derrumba a nuestro alrededor. No nos engañemos: **la IA beneficia principalmente a las empresas tecnológicas y a sus accionistas**.
 
 La IA no es inevitable. Es una elección. Y la única elección sensata es rechazar este camino de servidumbre tecnológica y exigir un futuro donde la tecnología sirva al bien común, no al lucro corporativo. La oportunidad de tomar el control se desvanece rápidamente. El momento de actuar es AHORA.

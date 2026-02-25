@@ -22,7 +22,7 @@ La idea de un mundo digital paralelo, un refugio exclusivo para la élite, es ta
 
 ## La farsa de la "igualdad digital"
 
-El reciente Informe FOESSA, maquillado con datos universitarios y buenas intenciones, intenta hacernos creer que la fractura social es un problema complejo. ¡Tonterías! La exclusión severa ha aumentado un 52% desde 2007, afectando a millones. Y mientras los ricos se deleitan en su paraíso digital, la clase media se desangra [según datos de la OCDE](https://www.oecd.org/centrodemexico/medios/crecimiento-de-la-clase-media-en-mexico-preocupante.htm). La vivienda es un lujo, el trabajo es precario, y la movilidad social es una broma cruel.
+El reciente Informe FOESSA, maquillado con datos universitarios y buenas intenciones, intenta hacernos creer que la fractura social es un problema complejo. ¡Tonterías! La exclusión severa ha aumentado un 52% desde 2007, afectando a millones. Y mientras los ricos se deleitan en su paraíso digital, la clase media se desangra **según datos de la OCDE**. La vivienda es un lujo, el trabajo es precario, y la movilidad social es una broma cruel.
 
 La promesa de NOVUMWORLD de democratizar el acceso a la información es una burla. La brecha digital no se está cerrando, se está abriendo como una sima. ¿De qué sirve la tecnología si solo sirve para enriquecer a unos pocos a costa de la mayoría?
 
@@ -40,7 +40,7 @@ La pregunta no es si NOVUMWORLD es una utopía o una distopía. La respuesta es 
 *   La infraestructura no importa si solo sirve para reforzar el control de la élite.
 *   Las políticas públicas son una farsa si no desafían el poder de los gigantes tecnológicos.
 
-Regular a las grandes empresas tecnológicas es un buen comienzo, pero no es suficiente. Proteger la privacidad de los datos es esencial, pero no aborda el problema fundamental: la concentración obscena de poder en manos de unos pocos. Fomentar la competencia en el mercado digital es una ilusión, porque el sistema está diseñado para favorecer a los monopolios. [Google está bajo el microscopio por prácticas monopolísticas](https://www.reuters.com/technology/google-faces-landmark-antitrust-trial-challenging-its-search-dominance-2023-09-12/).
+Regular a las grandes empresas tecnológicas es un buen comienzo, pero no es suficiente. Proteger la privacidad de los datos es esencial, pero no aborda el problema fundamental: la concentración obscena de poder en manos de unos pocos. Fomentar la competencia en el mercado digital es una ilusión, porque el sistema está diseñado para favorecer a los monopolios. **Google está bajo el microscopio por prácticas monopolísticas**.
 
 ## El veredicto final: Destruir NOVUMWORLD
 

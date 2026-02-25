@@ -34,7 +34,7 @@ Estos son solo algunos ejemplos de cómo la automatización puede transformar tu
 
 Antes de sumergirte de lleno, es importante planificar. Define claramente qué procesos quieres automatizar y cuáles son los objetivos que quieres alcanzar. Comienza con casos de uso sencillos y escalables. No intentes automatizar todo de golpe.
 
-1.  **Crea una cuenta en Make.com:** La plataforma ofrece un plan gratuito generoso para empezar a experimentar. Explora su interfaz y familiarízate con los diferentes módulos y conectores disponibles. Puedes revisar la documentación oficial para tener una mejor idea de como funciona su [API](https://www.make.com/en/help/tools/http).
+1.  **Crea una cuenta en Make.com:** La plataforma ofrece un plan gratuito generoso para empezar a experimentar. Explora su interfaz y familiarízate con los diferentes módulos y conectores disponibles. Puedes revisar la documentación oficial para tener una mejor idea de como funciona su **API**.
 
 2.  **Elige un disparador (trigger):** Define el evento que iniciará tu flujo de trabajo. Por ejemplo, la recepción de un nuevo correo electrónico, la creación de un nuevo registro en una hoja de cálculo o la publicación de un nuevo tweet.
 

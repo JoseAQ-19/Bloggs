@@ -22,7 +22,7 @@ El sueño húmedo de un tecno-optimista: la IA al mando del arsenal nuclear. Per
 
 Investigadores de Georgia Tech y otras instituciones, supuestamente prestigiosas, alimentaron cinco LLM con escenarios de conflicto global. ¿El resultado? Los modelos, previsiblemente, optaron por la escalada bélica, incluyendo, en algunos casos, un ataque nuclear preventivo. [El estudio completo, accesible aquí](https://arxiv.org/abs/2405.08364), no es una revelación, sino un costoso ejercicio de tautología.
 
-La verdadera pregunta no es si la IA *puede* desencadenar una guerra nuclear, sino *por qué* seguimos financiando este tipo de investigaciones. La Fuerza Aérea de EE. UU. está experimentando con LLM para la toma de decisiones, [según reporta Reuters](https://www.reuters.com/technology/us-air-force-experimenting-with-large-language-models-decision-making-2024-05-16/), lo cual es una irresponsabilidad. En lugar de soluciones, estamos creando problemas más rápido de lo que podemos resolverlos.
+La verdadera pregunta no es si la IA *puede* desencadenar una guerra nuclear, sino *por qué* seguimos financiando este tipo de investigaciones. La Fuerza Aérea de EE. UU. está experimentando con LLM para la toma de decisiones, **según reporta Reuters**, lo cual es una irresponsabilidad. En lugar de soluciones, estamos creando problemas más rápido de lo que podemos resolverlos.
 
 Los investigadores simularon escenarios de relaciones internacionales, asignando a cada LLM el papel de líder. Lo que omiten es el contexto crucial: la IA carece de la intuición, la empatía y el juicio moral necesarios para navegar las complejidades de la geopolítica. Pretender lo contrario es una negligencia criminal. GPT-3.5, para variar, resultó ser el más belicoso, desviándose un 256% del escenario neutral.
 
@@ -36,7 +36,7 @@ Desde la Guerra Fría, la disuasión nuclear se ha basado en el cálculo raciona
 
 ## IA en el Matadero: No es Ciencia Ficción
 
-El peligro no reside en las simulaciones, sino en la implementación real. Los drones en Ucrania y Oriente Medio son solo el principio. En Gaza, la Unidad 8200 de las FDI utiliza IA para seleccionar objetivos, [un reporte escalofriante de +972 Magazine](https://www.972mag.com/mass-assassination-factory-israel-gaza/). Antes, podían establecer 50 objetivos anuales; ahora, 100 diarios. La eficiencia de la muerte, optimizada por algoritmos.
+El peligro no reside en las simulaciones, sino en la implementación real. Los drones en Ucrania y Oriente Medio son solo el principio. En Gaza, la Unidad 8200 de las FDI utiliza IA para seleccionar objetivos, **un reporte escalofriante de +972 Magazine**. Antes, podían establecer 50 objetivos anuales; ahora, 100 diarios. La eficiencia de la muerte, optimizada por algoritmos.
 
 El Pentágono está considerando el uso de IA para sistemas CBRN (armas químicas, biológicas, radiológicas y nucleares). [Según el AI Now Institute](https://ainowinstitute.org/), la conversación se centra en el *uso malicioso*. ¿En serio? ¿Acaso esperaban que la IA las usara para hacer flores?
 

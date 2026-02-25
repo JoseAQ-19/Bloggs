@@ -23,7 +23,7 @@ El festín de la especulación con Bitcoin ha terminado. Los entusiastas de la c
 No nos engañemos: la caída no es una mera "tormenta perfecta". Es la inevitable consecuencia de una burbuja alimentada por la especulación descontrolada y la narrativa simplista de "dinero digital". Enumeremos los catalizadores, pero sin caer en la trampa de creer que son eventos aislados:
 
 *   **Aranceles:** La histeria sobre las guerras comerciales es una cortina de humo. Los mercados siempre han tenido volatilidad, y el inversor serio se adapta.
-*   **La Fed de Warsh:** ¿Un "giro" agresivo? No sean ingenuos. La Reserva Federal simplemente está intentando corregir los errores de una década de política monetaria laxa. Y Kevin Warsh, [nombrado por fin tras años de espera](https://www.reuters.com/markets/us/kevin-warsh-says-fed-needs-demonstrate-resolve-bringing-down-inflation-2024-01-23/), no hará favores a los especuladores.
+*   **La Fed de Warsh:** ¿Un "giro" agresivo? No sean ingenuos. La Reserva Federal simplemente está intentando corregir los errores de una década de política monetaria laxa. Y Kevin Warsh, **nombrado por fin tras años de espera**, no hará favores a los especuladores.
 *   **El "Software-mageddon":** La inteligencia artificial, la supuesta panacea tecnológica, ha demostrado ser una promesa vacía. Y su correlación con Bitcoin solo revela la superficialidad de ambas "inversiones".
 *   **Éxodo Institucional:** Los "inversores institucionales" no son más que jugadores con información privilegiada que inflan el mercado para luego vender sus posiciones a incautos. Su huida masiva es una señal inequívoca del final del juego.
 
@@ -37,7 +37,7 @@ Los ETFs de Bitcoin, los cuales acumularon 21.300 millones de dólares, ahora su
 
 ## Stablecoins: Refugio de Cobardes
 
-La capitalización de mercado de las *stablecoins* aumentó un 49% en 2025, superando los 305.000 millones de dólares. ¿Refugio seguro? Más bien, un estacionamiento temporal para aquellos que saben que la fiesta ha terminado y están esperando el momento oportuno para huir con lo que queda. Que superen el volumen de Visa es irrelevante, [Visa tiene una infraestructura de pagos global robusta y probada](https://usa.visa.com/about-visa/what-we-do.html); las *stablecoins* son solo representaciones digitales de dinero fiduciario, dependientes de la confianza (ahora erosionada) en el sistema. La Ley GENIUS, lejos de legitimarlas, solo las somete a un escrutinio regulatorio que eventualmente revelará sus vulnerabilidades.
+La capitalización de mercado de las *stablecoins* aumentó un 49% en 2025, superando los 305.000 millones de dólares. ¿Refugio seguro? Más bien, un estacionamiento temporal para aquellos que saben que la fiesta ha terminado y están esperando el momento oportuno para huir con lo que queda. Que superen el volumen de Visa es irrelevante, **Visa tiene una infraestructura de pagos global robusta y probada**; las *stablecoins* son solo representaciones digitales de dinero fiduciario, dependientes de la confianza (ahora erosionada) en el sistema. La Ley GENIUS, lejos de legitimarlas, solo las somete a un escrutinio regulatorio que eventualmente revelará sus vulnerabilidades.
 
 ## Expertos: La Danza de la Negación
 
@@ -45,7 +45,7 @@ Las "opiniones de los expertos" son un circo mediático. Standard Chartered pred
 
 ## Riesgos Reales, Consecuencias Reales
 
-El "Efecto Warsh", el estrés en las tesorerías corporativas, la ofensiva regulatoria de China, el "cruce de la muerte": son peligros reales que no deben tomarse a la ligera. MicroStrategy, [por ejemplo, podría arrastrar a otros a la quiebra](https://www.bloomberg.com/news/articles/2024-02-27/microstrategy-mstr-stock-falls-as-bitcoin-selloff-stokes-margin-call-fears) en su caída, ya que sus inversiones en Bitcoin son ahora un lastre que amenaza su solvencia.
+El "Efecto Warsh", el estrés en las tesorerías corporativas, la ofensiva regulatoria de China, el "cruce de la muerte": son peligros reales que no deben tomarse a la ligera. MicroStrategy, **por ejemplo, podría arrastrar a otros a la quiebra** en su caída, ya que sus inversiones en Bitcoin son ahora un lastre que amenaza su solvencia.
 
 *   El futuro es simple: a medida que las regulaciones se endurezcan y la liquidez se seque, Bitcoin se revelará como lo que siempre ha sido: una moda pasajera, un esquema Ponzi digitalizado.
 

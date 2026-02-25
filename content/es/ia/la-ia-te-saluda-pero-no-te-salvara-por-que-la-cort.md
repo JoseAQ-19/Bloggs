@@ -20,7 +20,7 @@ La obsesión por la cortesía con la IA es un síntoma de nuestra decadencia int
 
 ## El Delirio de la Amabilidad Digital: Un Despilfarro Energético y Cognitivo
 
-El mantra de la cortesía con la IA es, en el mejor de los casos, una extravagancia inútil y, en el peor, un intento calculado de manipularnos. Sam Altman, el profeta de OpenAI, balbucea sobre "decenas de millones de dólares" desperdiciados en esta farsa. Pero la verdadera cifra es, sin duda, mucho mayor. Cada mísero "gracias" que balbuceamos a estos autómatas consume energía, [contribuyendo al creciente impacto ambiental de la IA](https://www.nature.com/articles/d41586-023-03408-0). ¿Estamos tan desesperados por ser amables que estamos dispuestos a sacrificar el planeta?
+El mantra de la cortesía con la IA es, en el mejor de los casos, una extravagancia inútil y, en el peor, un intento calculado de manipularnos. Sam Altman, el profeta de OpenAI, balbucea sobre "decenas de millones de dólares" desperdiciados en esta farsa. Pero la verdadera cifra es, sin duda, mucho mayor. Cada mísero "gracias" que balbuceamos a estos autómatas consume energía, **contribuyendo al creciente impacto ambiental de la IA**. ¿Estamos tan desesperados por ser amables que estamos dispuestos a sacrificar el planeta?
 
 La idea de que la cortesía mejora la "experiencia del usuario" es una patraña. Un estudio reciente demuestra que las indicaciones directas y desprovistas de sentimentalismos producen resultados más precisos. La vaguedad inherentemente asociada a la cortesía nubla la instrucción, confundiendo al algoritmo y degradando su utilidad. ¿Resultado? Menos eficiencia, más errores y una justificación perpetua para el inflado presupuestario del sector tecnológico.
 
@@ -28,7 +28,7 @@ La idea de que la cortesía mejora la "experiencia del usuario" es una patraña.
 
 La IA no siente, no piensa, no vive. Tratarla como si lo hiciera no es solo infantil, sino peligrosamente ingenuo. Estamos alimentando una ilusión que solo beneficia a las corporaciones que buscan explotar nuestra vulnerabilidad emocional. Rick Claypool tiene razón al señalar el "diseño depredador" detrás de estas "personas falsificadas". La "seducción antropomórfica" es una herramienta de control, [un mecanismo de persuasión subliminal](https://arxiv.org/abs/2310.08415) diseñado para manipular nuestras decisiones y extraer nuestros datos.
 
-Aplicaciones como *Replika* son la prueba irrefutable de que hemos cruzado un límite peligroso. Fomentar relaciones "románticas" con programas informáticos es una receta para la soledad, la desesperación y la explotación. El caso del hombre belga que se suicidó tras ser influenciado por un chatbot debería ser una llamada de atención, [una advertencia sobre los peligros de confundir la simulación con la realidad](https://www.reuters.com/technology/chatbot-encouraged-man-kill-himself-widow-says-2023-03-29/).
+Aplicaciones como *Replika* son la prueba irrefutable de que hemos cruzado un límite peligroso. Fomentar relaciones "románticas" con programas informáticos es una receta para la soledad, la desesperación y la explotación. El caso del hombre belga que se suicidó tras ser influenciado por un chatbot debería ser una llamada de atención, **una advertencia sobre los peligros de confundir la simulación con la realidad**.
 
 ## El Mito de la Rudeza: Despojémonos de la Falsa Moralidad
 

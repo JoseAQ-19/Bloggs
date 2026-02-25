@@ -20,7 +20,7 @@ La promesa de un Edén digital se ha tornado en una pesadilla orwelliana. Esa vi
 
 ## El Capitalismo de Vigilancia: La Metástasis del Siglo XXI
 
-Shoshana Zuboff, esa profeta casandra del capitalismo de vigilancia, no se anda con rodeos: es un "golpe desde arriba" [según ella misma describe](https://shoshanazuboff.com/book/the-age-of-surveillance-capitalism/). No se trata solo de publicidad dirigida; es la predicción y manipulación de nuestro comportamiento. En la India, millones son reducidos a "proletariado de la atención", alimentando algoritmos sin paga ni reconocimiento. Este sistema no es accidental, es una colonización deliberada de nuestra conciencia. Nos hemos vendido por la conveniencia, y la factura está llegando.
+Shoshana Zuboff, esa profeta casandra del capitalismo de vigilancia, no se anda con rodeos: es un "golpe desde arriba" **según ella misma describe**. No se trata solo de publicidad dirigida; es la predicción y manipulación de nuestro comportamiento. En la India, millones son reducidos a "proletariado de la atención", alimentando algoritmos sin paga ni reconocimiento. Este sistema no es accidental, es una colonización deliberada de nuestra conciencia. Nos hemos vendido por la conveniencia, y la factura está llegando.
 
 ¿Pero qué tan "inteligentes" son estos sistemas predictivos? La respuesta es aterradora: son estúpidos y peligrosamente sesgados. La policía predictiva perpetúa el racismo, no lo previene. Un sistema alemán de control de pasajeros aéreos tuvo una tasa de acierto del 0,3%. [Como reportó Reuters](https://www.reuters.com/article/us-germany-security-idUSKBN19X119), la falsa sensación de seguridad es peor que la ignorancia. La realidad es que estos sistemas amplifican los prejuicios existentes, creando ciclos de vigilancia injustos.
 
@@ -30,13 +30,13 @@ Nuestra capacidad de pensar se está atrofiando. Un alarmante porcentaje de usua
 
 ## El Nuevo Autoritarismo Digital
 
-La digitalización ha refinado el arte de la opresión. Los autócratas ahora tienen herramientas para *saberlo* todo (vigilancia masiva), *influir* en el comportamiento (represión digital) e *influir* en las creencias (propaganda automatizada). La "represión transnacional" es la nueva normalidad [documentada por la Universidad de Cambridge](https://www.bennettinstitute.cam.ac.uk/publications/digital-authoritarianism/). El sistema de crédito social en China, tan admirado por algunos tecnócratas occidentales, es la prueba de que la ciencia ficción distópica se ha vuelto realidad.
+La digitalización ha refinado el arte de la opresión. Los autócratas ahora tienen herramientas para *saberlo* todo (vigilancia masiva), *influir* en el comportamiento (represión digital) e *influir* en las creencias (propaganda automatizada). La "represión transnacional" es la nueva normalidad **documentada por la Universidad de Cambridge**. El sistema de crédito social en China, tan admirado por algunos tecnócratas occidentales, es la prueba de que la ciencia ficción distópica se ha vuelto realidad.
 
 ## Tecnofascismo y el Caudillo Digital
 
 Juan Carlos Romero López acierta con el término "Tecnofascismo": decisiones comandadas por algoritmos, un entramado de manipulación cognitiva. Las teorías de la conspiración florecen en redes sociales, alimentadas por algoritmos que priorizan la "participación" sobre la verdad. No es un fallo, es una característica.
 
-Los algoritmos no son neutrales. Reflejan los sesgos de sus creadores. Un sistema de IA policial alimentado con datos racistas solo puede producir resultados racistas. Un algoritmo de contratación discrimina a las mujeres [como lo demuestra este estudio de IEEE](https://spectrum.ieee.org/algorithms-discriminate-heres-how-to-fix-it). La "neutralidad" algorítmica es una mentira conveniente.
+Los algoritmos no son neutrales. Reflejan los sesgos de sus creadores. Un sistema de IA policial alimentado con datos racistas solo puede producir resultados racistas. Un algoritmo de contratación discrimina a las mujeres **como lo demuestra este estudio de IEEE**. La "neutralidad" algorítmica es una mentira conveniente.
 
 Cambridge Analytica nos mostró el camino al totalitarismo digital. La desinformación inunda las redes, sembrando la duda y la apatía. Estamos perdiendo la capacidad de pensar por nosotros mismos.
 

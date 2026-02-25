@@ -20,13 +20,13 @@ La supuesta "revolución" de Bitcoin no es más que una estafa piramidal glorifi
 
 ## El Mercado Cripto: Un Circo de Payasos Corruptos
 
-La "transparencia" de la blockchain es un cuento chino. Un análisis somero revela un ecosistema plagado de manipulaciones orquestadas a escala industrial. La gran mayoría del volumen de negociación en las bolsas no reguladas es una farsa, pura invención. Se estima que la obscena cifra del 70% del volumen reportado es *wash trading*, un burdo engaño para inflar artificialmente los precios y atraer a incautos [según un informe de la SEC](https://www.sec.gov/news/press-release/2023-247).
+La "transparencia" de la blockchain es un cuento chino. Un análisis somero revela un ecosistema plagado de manipulaciones orquestadas a escala industrial. La gran mayoría del volumen de negociación en las bolsas no reguladas es una farsa, pura invención. Se estima que la obscena cifra del 70% del volumen reportado es *wash trading*, un burdo engaño para inflar artificialmente los precios y atraer a incautos **según un informe de la SEC**.
 
 ¿El resultado? Un sistema que premia la deshonestidad. Las bolsas más tramposas escalan posiciones en rankings inflados, atrayendo más víctimas y engordando sus arcas a costa de la ignorancia ajena. La integridad de mercado es una broma; las leyes básicas de probabilidad son sistemáticamente violadas, probando la fabricación descarada de datos. No hay "innovación" aquí, solo la reinvención digital de viejos timos.
 
 ## Fraude Cripto: Un Banquete para Delincuentes
 
-El año pasado no solo fue un buen año para Bitcoin, ¡fue un año de récord para los estafadores! El FBI reportó pérdidas que superan los $5.6 mil millones de dólares, [un incremento del 45% respecto al año anterior](https://www.ic3.gov/Media/AnnualReport/2023/pdf/2023_IC3Report.pdf). Es un negocio redondo... para los criminales.
+El año pasado no solo fue un buen año para Bitcoin, ¡fue un año de récord para los estafadores! El FBI reportó pérdidas que superan los $5.6 mil millones de dólares, **un incremento del 45% respecto al año anterior**. Es un negocio redondo... para los criminales.
 
 Los ancianos, los más vulnerables, son el blanco predilecto. Pierden fortunas en estafas diseñadas para explotar su confianza y desconocimiento tecnológico. El *Pig Butchering*, esa cruel tortura psicológica donde los estafadores construyen relaciones falsas durante meses para luego desvalijar a sus víctimas, está en auge. ¿Y la solución de los defensores de Bitcoin? "Más educación". Como si eso detuviera a los depredadores.
 
@@ -36,7 +36,7 @@ La conexión entre el fraude cripto y la trata de personas es el punto más bajo
 
 La volatilidad de Bitcoin no es una "característica", es un defecto fatal. Los desplomes repentinos y las liquidaciones masivas son la norma, no la excepción, destruyendo fortunas de la noche a la mañana. Recientemente, Bitcoin cayó en picado, evaporando $200 mil millones en valor en una sola semana. ¿Dónde está la "reserva de valor" ahora?
 
-La narrativa del "oro digital" es una patraña. Bitcoin se comporta como un activo de riesgo especulativo, correlacionado con las acciones tecnológicas y sensible a los caprichos del mercado. Cuando las tecnológicas estornudan, Bitcoin se contagia de neumonía. [Un análisis de Bloomberg revela una correlación sorprendente entre Bitcoin y el índice Nasdaq](https://www.bloomberg.com/quote/CCMP:IND).
+La narrativa del "oro digital" es una patraña. Bitcoin se comporta como un activo de riesgo especulativo, correlacionado con las acciones tecnológicas y sensible a los caprichos del mercado. Cuando las tecnológicas estornudan, Bitcoin se contagia de neumonía. **Un análisis de Bloomberg revela una correlación sorprendente entre Bitcoin y el índice Nasdaq**.
 
 ## El Ecocidio Cripto: Un Crimen Silencioso
 

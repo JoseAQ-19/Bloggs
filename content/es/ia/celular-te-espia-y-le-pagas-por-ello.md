@@ -28,11 +28,11 @@ Estos datos no son "más valiosos que el petróleo"; son más peligrosos que el 
 
 Siri, Alexa, Google Assistant. No son "asistentes", son troyanos diseñados para infiltrarse en tu hogar. Bajo la fachada de "simplificar tu vida", operan bajo un modelo de escucha activa perpetua. Los supuestos "falsos positivos" son simplemente la admisión tácita de que te están grabando constantemente.
 
-La "anonimización" es una mentira descarada. Contratistas humanos revisan estas grabaciones con el pretexto de "mejorar el sistema". Imagina a un extraño escuchando tus conversaciones más íntimas. No te lo imagines, está sucediendo. [Amazon ya tuvo incidentes graves con Alexa](https://www.cnet.com/home/smart-home/amazon-alexa-sent-1700-recordings-to-the-wrong-person/), y Google se vio obligado a pausar su programa de revisión tras exponerse el acceso de contratistas a información sensible. Esto no es un error, es una característica.
+La "anonimización" es una mentira descarada. Contratistas humanos revisan estas grabaciones con el pretexto de "mejorar el sistema". Imagina a un extraño escuchando tus conversaciones más íntimas. No te lo imagines, está sucediendo. **Amazon ya tuvo incidentes graves con Alexa**, y Google se vio obligado a pausar su programa de revisión tras exponerse el acceso de contratistas a información sensible. Esto no es un error, es una característica.
 
 ## El Gobierno No Es Inocente: Vigilancia Estatal Sin Control
 
-La recopilación de datos no es solo un juego corporativo. El estado es el jugador más voraz. Documentos filtrados del FBI revelan que las compañías de telecomunicaciones actúan como apéndices del brazo policial. [AT&T, por ejemplo, retiene tus datos durante siete putrefactos años](https://www.eff.org/deeplinks/2013/07/att-helped-nsa-spy-americans-decades). Esta información es el santo grial para las agencias gubernamentales, que pueden rastrear cada movimiento, cada llamada, cada pensamiento. Aunque se disfracen de medidas de seguridad nacional, estas herramientas son la base de un estado policial orwelliano.
+La recopilación de datos no es solo un juego corporativo. El estado es el jugador más voraz. Documentos filtrados del FBI revelan que las compañías de telecomunicaciones actúan como apéndices del brazo policial. **AT&T, por ejemplo, retiene tus datos durante siete putrefactos años**. Esta información es el santo grial para las agencias gubernamentales, que pueden rastrear cada movimiento, cada llamada, cada pensamiento. Aunque se disfracen de medidas de seguridad nacional, estas herramientas son la base de un estado policial orwelliano.
 
 ## Términos y Condiciones: La Cortina de Humo de la Explotación
 

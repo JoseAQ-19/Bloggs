@@ -44,11 +44,11 @@ $VVV está un 88.4% por debajo de su máximo histórico. ¡Un detalle menor, apa
 
 Los contratos perpetuos en Binance, con apalancamiento de hasta 25x, son una receta para el desastre. Las liquidaciones forzadas (short squeezes) son manipulaciones del mercado, no "oportunidades".
 
-"Problemas de transparencia" pasados son solo la punta del iceberg. ¿Quiénes están realmente detrás de Venice Token? ¿Cuál es su historial? Investigar a fondo es fundamental, y a menudo se descubre que [los antecedentes revelan mucho sobre las intenciones](https://www.reuters.com/markets/us/exclusive-crypto-exchange-binance-processed-13-bln-russian-transactions-2023-09-29/).
+"Problemas de transparencia" pasados son solo la punta del iceberg. ¿Quiénes están realmente detrás de Venice Token? ¿Cuál es su historial? Investigar a fondo es fundamental, y a menudo se descubre que **los antecedentes revelan mucho sobre las intenciones**.
 
 ## Veredicto: Evita este Desastre
 
-Venice Token es trending topic por la convergencia de la manipulación, la especulación y el bombo de la IA. No te dejes engañar. La narrativa de la privacidad es una excusa para ocultar la falta de sustancia. [Los datos sobre la verdadera adopción de la IA generativa cuentan una historia diferente](https://www.bloomberg.com/news/articles/2024-01-31/ai-hype-meets-reality-as-firms-struggle-to-make-generative-tools-work).
+Venice Token es trending topic por la convergencia de la manipulación, la especulación y el bombo de la IA. No te dejes engañar. La narrativa de la privacidad es una excusa para ocultar la falta de sustancia. **Los datos sobre la verdadera adopción de la IA generativa cuentan una historia diferente**.
 
 El "sentimiento cautelosamente alcista" es una cobardía. La divergencia entre el flujo de dinero institucional y minorista grita "¡SAL CORRIENDO!".
 

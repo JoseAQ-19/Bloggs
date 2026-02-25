@@ -33,7 +33,7 @@ Now, here's where it gets interesting. Some argue that high gas fees are a *nece
 
 Alright, enough theorizing. What can you *actually* do to minimize gas fee pain? Here's the playbook:
 
-1.  **Embrace Layer 2:** Networks like [Arbitrum](https://arbitrum.io/), [Optimism](https://www.optimism.io/), and [zkSync](https://zksync.io/) offer significantly lower fees. Bridge your assets over and start transacting.
+1.  **Embrace Layer 2:** Networks like **Arbitrum**, [Optimism](https://www.optimism.io/), and [zkSync](https://zksync.io/) offer significantly lower fees. Bridge your assets over and start transacting.
 2.  **Time Your Transactions:** Avoid peak hours when the network is congested. Early mornings or late nights are generally less busy.
 3.  **Adjust Gas Settings (Carefully!):** MetaMask allows you to manually adjust gas limits and priority fees. Use a gas tracker like [Etherscan Gas Tracker](https://etherscan.io/gastracker) to find the sweet spot. But be warned: setting the gas too low can result in a failed transaction.
 4.  **Consider Alternative Chains:** If you're not wedded to Ethereum, explore other blockchains like [Solana](https://solana.com/) or [Avalanche](https://www.avax.network/), which boast lower transaction costs.

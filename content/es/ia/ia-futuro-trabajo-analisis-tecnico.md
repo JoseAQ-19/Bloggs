@@ -23,9 +23,9 @@ La cantinela de la IA como panacea laboral es una peligrosa falacia. Mientras lo
 
 ## El Mito de la Adaptación: Una Cortina de Humo
 
-La Organización Internacional del Trabajo (OIT) alardea de que solo una fracción de los empleos está realmente en peligro. ¡Patrañas!  [Su análisis superficial ignora la degradación de las condiciones laborales](https://www.ilo.org/global/topics/future-of-work/lang--en/index.htm) y la creciente precarización impulsada por la automatización. No se trata solo de perder el trabajo; se trata de la intensificación del trabajo, la vigilancia constante y la deshumanización del puesto. ¿Adaptarse? ¡Adaptarse a la esclavitud digital!
+La Organización Internacional del Trabajo (OIT) alardea de que solo una fracción de los empleos está realmente en peligro. ¡Patrañas!  **Su análisis superficial ignora la degradación de las condiciones laborales** y la creciente precarización impulsada por la automatización. No se trata solo de perder el trabajo; se trata de la intensificación del trabajo, la vigilancia constante y la deshumanización del puesto. ¿Adaptarse? ¡Adaptarse a la esclavitud digital!
 
-El Foro Económico Mundial (WEF), esa reunión anual de la élite global en Davos, nos cuenta cuentos de hadas sobre la "creación neta" de empleos.  Pero, ¿quiénes se beneficiarán de esos supuestos 78 millones de nuevos puestos? Los tecnócratas, los ingenieros de software y los vendedores de humo. [El resto, a pelearse por las migajas de la economía gig](https://www.reuters.com/markets/us/davos-ai-create-jobs-replace-them-says-wef-2023-01-16/).
+El Foro Económico Mundial (WEF), esa reunión anual de la élite global en Davos, nos cuenta cuentos de hadas sobre la "creación neta" de empleos.  Pero, ¿quiénes se beneficiarán de esos supuestos 78 millones de nuevos puestos? Los tecnócratas, los ingenieros de software y los vendedores de humo. **El resto, a pelearse por las migajas de la economía gig**.
 
 ## Los Perdedores: Una Lista Creciente
 
@@ -37,7 +37,7 @@ La verdadera amenaza está en la llamada "automatización inteligente".  El dise
 
 Ahora nos sermonean sobre la importancia de las "habilidades blandas". Pensamiento creativo, resiliencia, agilidad... ¡Otra forma de culpar a la víctima!  ¿De qué sirve la resiliencia cuando te despiden? ¿De qué sirve el pensamiento creativo cuando una IA puede generar ideas a una velocidad que ningún humano puede igualar? Estas "habilidades" son un consuelo barato, una forma de distraernos de la verdadera crisis.
 
-Además, la supuesta necesidad de "habilidades híbridas" es otro truco para justificar la explotación.  Se espera que los trabajadores se conviertan en expertos en todo, desde la programación hasta la gestión de proyectos, mientras que sus salarios se estancan. [Es una receta para el agotamiento y la frustración.](https://mitsloan.mit.edu/ideas-made-to-matter/why-reskilling-doesnt-work)
+Además, la supuesta necesidad de "habilidades híbridas" es otro truco para justificar la explotación.  Se espera que los trabajadores se conviertan en expertos en todo, desde la programación hasta la gestión de proyectos, mientras que sus salarios se estancan. **Es una receta para el agotamiento y la frustración.**
 
 ## La Realidad: Una Brecha Que Se Ensancha
 

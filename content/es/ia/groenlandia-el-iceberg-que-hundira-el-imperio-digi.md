@@ -26,15 +26,15 @@ Pero no se equivoquen. Esta fiebre del oro mineral no es una historia de prosper
 
 El cambio climático es una tragedia. Pero para algunos, es una oportunidad de negocio brutal. Groenlandia se está derritiendo a un ritmo que debería aterrorizarnos, pero lo único que aterra a los políticos estadounidenses es perder su posición privilegiada. Se dice que Groenlandia pierde cinco veces más hielo que hace 20 años.
 
-El deshielo está abriendo nuevas rutas marítimas que prometen revolucionar el comercio mundial. La ruta transpolar ártica, esa autopista helada, podría estar operativa antes de 2060, según algunos [estudios](https://www.nature.com/articles/s41558-022-01547-2). Menos tiempo, menos costes. Más beneficios para las corporaciones. ¿Y el medio ambiente? Un mero daño colateral.
+El deshielo está abriendo nuevas rutas marítimas que prometen revolucionar el comercio mundial. La ruta transpolar ártica, esa autopista helada, podría estar operativa antes de 2060, según algunos **estudios**. Menos tiempo, menos costes. Más beneficios para las corporaciones. ¿Y el medio ambiente? Un mero daño colateral.
 
-El aumento del tráfico marítimo en el Ártico ya ha crecido un 37% en la última década, según datos del [Consejo Ártico](https://arctic-council.org/assessment/arctic-shipping/). Que nadie se engañe: la competencia por el control de estas rutas desatará conflictos geoestratégicos que harán temblar al mundo.
+El aumento del tráfico marítimo en el Ártico ya ha crecido un 37% en la última década, según datos del **Consejo Ártico**. Que nadie se engañe: la competencia por el control de estas rutas desatará conflictos geoestratégicos que harán temblar al mundo.
 
 ## El Sueño Americano: Un Castillo de Arena Digital
 
 El poderío de la industria digital estadounidense se basa en un acceso sin restricciones a recursos y mercados globales. Pero la fiesta se acaba. China está llamando a la puerta, las cadenas de suministro se tambalean, y la hegemonía estadounidense cuelga de un hilo. Groenlandia, en esta ecuación, es el clavo ardiendo al que se aferran desesperadamente.
 
-Que nadie se crea el cuento de la adquisición amistosa. La compra de Groenlandia, una idea que ha circulado desde Truman hasta Trump, no es más que una fantasía imperialista. Lo que realmente buscan es controlar el flujo de recursos, dominar las rutas comerciales y estrangular a sus competidores. La Casa Blanca ya ha diseñado planes de [colaboración científica y económica con Dinamarca y Groenlandia](https://www.reuters.com/world/americas/us-offers-arctic-council-working-group-hostage-return-2023-05-11/) para afianzar su influencia en la isla.
+Que nadie se crea el cuento de la adquisición amistosa. La compra de Groenlandia, una idea que ha circulado desde Truman hasta Trump, no es más que una fantasía imperialista. Lo que realmente buscan es controlar el flujo de recursos, dominar las rutas comerciales y estrangular a sus competidores. La Casa Blanca ya ha diseñado planes de **colaboración científica y económica con Dinamarca y Groenlandia** para afianzar su influencia en la isla.
 
 La extracción minera, inevitablemente, devastará el ecosistema groenlandés, como ya se ha demostrado en otros lugares del planeta. Los lobbys ya están presionando para acelerar los permisos de explotación, como denuncia este [informe de Greenpeace](https://www.greenpeace.org/international/story/28472/arctic-drilling-oil-spill-environment/). La población local, la que debería beneficiarse de esta riqueza, será la que sufra las consecuencias más devastadoras.
 

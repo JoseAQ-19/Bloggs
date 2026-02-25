@@ -30,11 +30,11 @@ La idea original, vendida como la panacea de la interacción social y el comerci
 
 La supuesta "estrategia" de Meta ha sufrido un cambio radical, o al menos, eso quieren hacernos creer. Apenas dos años después de su lanzamiento, Mark Zuckerberg huye despavorido del Metaverso para subirse al carro de la Inteligencia Artificial. Este cambio abrupto no es una admisión de derrota; es una recalibración siniestra. La infraestructura creada para el Metaverso, con su capacidad de recopilación masiva de datos y análisis del comportamiento, se readapta para alimentar los voraces algoritmos de IA. Datos biométricos, seguimiento ocular, patrones de interacción: todo se convierte en combustible para su motor de vigilancia.
 
-Este "pivote" es alarmante. La Inteligencia Artificial es un espejismo brillante que oculta los riesgos de la recopilación y uso masivo de datos. El rastreo de nuestros movimientos, miradas y tiempos de atención es una invasión sin precedentes. Estamos en territorio hostil, donde algoritmos opacos manipulan nuestras decisiones. La Agencia de Protección Ambiental (EPA) ya ha destacado la necesidad de abordar las implicaciones éticas del uso de la IA en la vigilancia ambiental [EPA AI Report](https://www.epa.gov/system/files/documents/2023-10/ai-report_508.pdf).
+Este "pivote" es alarmante. La Inteligencia Artificial es un espejismo brillante que oculta los riesgos de la recopilación y uso masivo de datos. El rastreo de nuestros movimientos, miradas y tiempos de atención es una invasión sin precedentes. Estamos en territorio hostil, donde algoritmos opacos manipulan nuestras decisiones. La Agencia de Protección Ambiental (EPA) ya ha destacado la necesidad de abordar las implicaciones éticas del uso de la IA en la vigilancia ambiental **EPA AI Report**.
 
 ## El Legado Tóxico de Facebook: Adicción, Polarización y Control
 
-El fracaso del Metaverso es inseparable del legado putrefacto de Facebook. Documentos internos revelaron que Facebook era consciente del daño que Instagram causaba a la imagen corporal de las adolescentes. Los algoritmos amplificaban la ira, fomentando la polarización y la toxicidad. Frances Haugen, la denunciante que expuso estos horrores, acusó a la empresa de priorizar el lucro sobre la seguridad. [The Facebook Files](https://www.wsj.com/articles/the-facebook-files-11631713039).
+El fracaso del Metaverso es inseparable del legado putrefacto de Facebook. Documentos internos revelaron que Facebook era consciente del daño que Instagram causaba a la imagen corporal de las adolescentes. Los algoritmos amplificaban la ira, fomentando la polarización y la toxicidad. Frances Haugen, la denunciante que expuso estos horrores, acusó a la empresa de priorizar el lucro sobre la seguridad. **The Facebook Files**.
 
 El cambio a Meta fue una estrategia de relaciones públicas barata para lavar la imagen de Facebook. No aborda los problemas de adicción, desinformación y manipulación política. La infraestructura del Metaverso agrava estos problemas, sumergiéndonos en entornos virtuales controlados por algoritmos.
 
@@ -51,7 +51,7 @@ El verdadero apocalipsis tecnológico no es un escenario de ciencia ficción, si
 Los riesgos son devastadores:
 
 *   **El Fin de la Privacidad:** El Metaverso monitorea todo: lo que hacemos, dónde miramos, cuánto tiempo. La convergencia tecnológica permite el bio-hackeo, donde delegamos decisiones a software, perdiendo autonomía.
-*   **Manipulación Política:** El Metaverso intensifica las cámaras de eco, eliminando la disidencia y el pensamiento crítico. Meta ya ha sido acusada de incitar a la violencia étnica y priorizar el crecimiento sobre la seguridad electoral. [Reuters on Meta's controversies](https://www.reuters.com/technology/facebook-papers-pressure-zuckerberg-over-oversight-2021-10-25/).
+*   **Manipulación Política:** El Metaverso intensifica las cámaras de eco, eliminando la disidencia y el pensamiento crítico. Meta ya ha sido acusada de incitar a la violencia étnica y priorizar el crecimiento sobre la seguridad electoral. **Reuters on Meta's controversies**.
 *   **Destrucción Física:** El aumento del tiempo en pantalla/RV disminuye la actividad física, contribuyendo a la obesidad y problemas cardiovasculares. Una sociedad virtual exacerba las desigualdades y crea nuevas formas de exclusión.
 
 El Metaverso no es el futuro, es el fin. Destruyamos esta pesadilla digital antes de que nos consuma por completo.

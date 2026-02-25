@@ -28,7 +28,7 @@ La narrativa de Bitcoin como "oro digital" es un cuento chino. Economistas serio
 
 ## Tether: el combustible fraudulento de la burbuja
 
-La manipulación del mercado es el motor secreto de Bitcoin, y Tether (USDT) es su combustible. Esta "stablecoin", supuestamente respaldada 1:1 por dólares, ha sido acusada de inyectar liquidez artificialmente al mercado. ¿El resultado? Un aumento artificial del precio de Bitcoin y una demanda falsa que atrae a más incautos. La opacidad que rodea las reservas de Tether es alarmante. ¿Qué pasaría si se descubre que no está completamente respaldada? La respuesta es simple: un colapso catastrófico. [Bloomberg ha investigado a fondo el tema](https://www.bloomberg.com/features/2021-tether-crypto-stablecoin/) y los hallazgos son, como mínimo, preocupantes.
+La manipulación del mercado es el motor secreto de Bitcoin, y Tether (USDT) es su combustible. Esta "stablecoin", supuestamente respaldada 1:1 por dólares, ha sido acusada de inyectar liquidez artificialmente al mercado. ¿El resultado? Un aumento artificial del precio de Bitcoin y una demanda falsa que atrae a más incautos. La opacidad que rodea las reservas de Tether es alarmante. ¿Qué pasaría si se descubre que no está completamente respaldada? La respuesta es simple: un colapso catastrófico. **Bloomberg ha investigado a fondo el tema** y los hallazgos son, como mínimo, preocupantes.
 
 ## Fraude a gran escala: la otra cara de la moneda
 

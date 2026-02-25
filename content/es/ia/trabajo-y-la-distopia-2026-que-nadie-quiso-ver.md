@@ -28,7 +28,7 @@ La productividad, antaño el motor del progreso, se ha convertido en un lastre. 
 
 La inteligencia artificial, esa supuesta herramienta para liberarnos del trabajo alienante, es en realidad la soga con la que nos ahorcaremos.
 
-Los "expertos" nos inundan con promesas de automatización benéfica. Ignoran deliberadamente que cerca del 27% de los empleos están en la picota de la automatización. Industrias enteras, como la manufactura y la logística, están al borde del colapso. No solo desaparecerán empleos; se transformarán radicalmente. Entre el 35% y el 40% de los trabajos requerirán una readaptación forzosa, un *reskilling* desesperado a la colaboración humano-IA. Y, ¿quién pagará la factura? [La respuesta, como siempre, recae sobre los hombros del trabajador.](https://www.techtarget.com/whatis/definition/AI-artificial-intelligence)
+Los "expertos" nos inundan con promesas de automatización benéfica. Ignoran deliberadamente que cerca del 27% de los empleos están en la picota de la automatización. Industrias enteras, como la manufactura y la logística, están al borde del colapso. No solo desaparecerán empleos; se transformarán radicalmente. Entre el 35% y el 40% de los trabajos requerirán una readaptación forzosa, un *reskilling* desesperado a la colaboración humano-IA. Y, ¿quién pagará la factura? **La respuesta, como siempre, recae sobre los hombros del trabajador.**
 
 Pero la IA no solo desplaza; también cierra las puertas a los jóvenes. La "capacidad de aprender rápido" se convierte en un requisito kafkiano, una condena a la obsolescencia programada. La IA, que debía liberarnos del trabajo, nos encadena a una pesadilla de adaptación perpetua.
 
@@ -36,13 +36,13 @@ Pero la IA no solo desplaza; también cierra las puertas a los jóvenes. La "cap
 
 Asistimos a una paradoja obscena: mientras el desempleo sigue campando a sus anchas, las empresas lloriquean por la falta de "talento cualificado." En España, un alarmante 78% de las empresas tecnológicas claman no encontrar los perfiles que necesitan. No se trata de un simple desajuste; es una grieta tectónica que amenaza la estabilidad del sistema.
 
-Un factor clave de esta farsa es el analfabetismo digital rampante. Un 30% de los trabajadores carecen de las competencias digitales básicas para sobrevivir en el mercado laboral. No basta con saber encender un ordenador; se exige el dominio de software complejo para tareas básicas. Esta brecha digital condena a millones a la exclusión y a la precariedad perpetua. [La falta de inversión en educación digital es un acto de sabotaje contra el futuro de la clase trabajadora.](https://www.brookings.edu/research/preparing-workers-for-the-future-of-work/)
+Un factor clave de esta farsa es el analfabetismo digital rampante. Un 30% de los trabajadores carecen de las competencias digitales básicas para sobrevivir en el mercado laboral. No basta con saber encender un ordenador; se exige el dominio de software complejo para tareas básicas. Esta brecha digital condena a millones a la exclusión y a la precariedad perpetua. **La falta de inversión en educación digital es un acto de sabotaje contra el futuro de la clase trabajadora.**
 
 La falta de flexibilidad laboral agudiza la fuga de cerebros. Existe una disparidad de casi 40 puntos entre el deseo de flexibilidad de los empleados (60%) y la raquítica oferta de las empresas (23,3%). En un mundo donde la conciliación es un valor al alza, las empresas inflexibles se exponen a perder a sus mejores talentos.
 
 ## Tecno-Feudalismo: El Regreso a la Edad Media (Con Algoritmos)
 
-Estamos sufriendo una regresión a formas "predatorias de acumulación", a monopolios tecnológicos dignos del medievo. La IA actúa como trabajadora y propietaria, concentrando el poder y la riqueza en manos de una élite. [Esta es la nueva forma de feudalismo, donde los señores de la tecnología controlan el acceso a los recursos y los trabajadores son sus siervos digitales.](https://www.tandfonline.com/doi/full/10.1080/10455752.2023.2297348)
+Estamos sufriendo una regresión a formas "predatorias de acumulación", a monopolios tecnológicos dignos del medievo. La IA actúa como trabajadora y propietaria, concentrando el poder y la riqueza en manos de una élite. **Esta es la nueva forma de feudalismo, donde los señores de la tecnología controlan el acceso a los recursos y los trabajadores son sus siervos digitales.**
 
 La vigilancia algorítmica y la presión constante minan la salud mental de los trabajadores. La medición obsesiva de la productividad, sin consideración alguna por el bienestar personal, genera estrés, ansiedad y deshumanización. Los sindicatos, arrinconados y desarmados, alertan tímidamente sobre la erosión de los derechos laborales.
 

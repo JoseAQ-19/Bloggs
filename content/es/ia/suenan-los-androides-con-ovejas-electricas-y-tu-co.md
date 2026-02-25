@@ -28,13 +28,13 @@ Los datos demuestran la consolidación de este sistema: las ventas de medios fí
 
 El Solarpunk se presenta como la antítesis del Cyberpunk, una utopía sostenible donde la tecnología y la naturaleza coexisten en armonía. ¡Qué tontería! Es la misma fantasía liberal con un filtro verde. Promete soluciones individuales a problemas sistémicos, un escape tecnológico para la crisis climática que ignora las verdaderas causas: el consumo desmedido y la desigualdad rampante.
 
-El peligro del *greenwashing* es inminente. No nos engañemos, los "eco-barrios" de diseño son solo guetos de lujo para los privilegiados, [mientras que la justicia ambiental sigue siendo una quimera para las comunidades marginadas](https://www.epa.gov/environmentaljustice). Pintar un techo de verde no borra la explotación ni el extractivismo que sustentan nuestra forma de vida.
+El peligro del *greenwashing* es inminente. No nos engañemos, los "eco-barrios" de diseño son solo guetos de lujo para los privilegiados, **mientras que la justicia ambiental sigue siendo una quimera para las comunidades marginadas**. Pintar un techo de verde no borra la explotación ni el extractivismo que sustentan nuestra forma de vida.
 
 ## La Empatía Sintética: El Jaque Mate de la IA
 
 Philip K. Dick obsesionado con la empatía como rasgo definitorio de la humanidad. ¡Qué visión tan simplista! La empatía es un constructo social, una herramienta de manipulación tan útil como peligrosa. Si una Inteligencia Artificial puede simularla a la perfección, ¿qué importa si es "real" o no? Lo que importa es el efecto. Si una IA puede evitar una guerra o curar una enfermedad simulando empatía, ¿vamos a rechazarla por principios metafísicos?
 
-La auténtica amenaza no es la simulación de la empatía, sino la obsolescencia de la misma. En un mundo dominado por algoritmos y datos, las emociones son un estorbo, un lastre para la eficiencia. La IA no necesita sentir para tomar decisiones, y pronto nosotros tampoco. [Empresas como OpenAI están avanzando rápidamente en la creación de IAs cada vez más sofisticadas](https://openai.com/), y la pregunta no es si superarán la inteligencia humana, sino cuándo.
+La auténtica amenaza no es la simulación de la empatía, sino la obsolescencia de la misma. En un mundo dominado por algoritmos y datos, las emociones son un estorbo, un lastre para la eficiencia. La IA no necesita sentir para tomar decisiones, y pronto nosotros tampoco. **Empresas como OpenAI están avanzando rápidamente en la creación de IAs cada vez más sofisticadas**, y la pregunta no es si superarán la inteligencia humana, sino cuándo.
 
 ## La única rebelión posible: Desconectar(nos)
 
@@ -42,4 +42,4 @@ William Gibson se sorprende de que la realidad supere a la ficción. ¡Menuda re
 
 La solución no es más tecnología, ni más utopías verdes, ni más simulacros de empatía. La solución es radical: desconectar. Desconectar de la Matrix digital, desconectar del consumismo, desconectar de la ilusión de control. Volver a conectar con la realidad física, con la naturaleza, con los otros seres humanos.
 
-El futuro no está escrito. Pero si seguimos por este camino, el "futuro de mierda" de Philip K. Dick no será una profecía, sino un epitafio. Y nos lo habremos merecido. No hay que sobrevivir, sino rebelarse activamente contra esta deshumanización digital. De lo contrario, merecemos el colapso que se avecina. [Como señala este estudio publicado en Nature](https://www.nature.com/articles/s41586-020-03065-x), la inacción climática conducirá a consecuencias catastróficas. ¿Necesitamos otra prueba?
+El futuro no está escrito. Pero si seguimos por este camino, el "futuro de mierda" de Philip K. Dick no será una profecía, sino un epitafio. Y nos lo habremos merecido. No hay que sobrevivir, sino rebelarse activamente contra esta deshumanización digital. De lo contrario, merecemos el colapso que se avecina. **Como señala este estudio publicado en Nature**, la inacción climática conducirá a consecuencias catastróficas. ¿Necesitamos otra prueba?

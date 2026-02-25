@@ -26,7 +26,7 @@ Gal Eldar, Product Lead de MetaMask, nos vendió la moto de que la autocustodia 
 
 No olvidemos la creciente sospecha de que MetaMask infla las tarifas de gas, robando silenciosamente fracciones de ETH a cada transacción.  Y ni hablar de las transacciones fallidas, por las que te cobran igual. Un robo a la luz del día.
 
-MetaMask quiere hacernos creer que es la única opción, pero eso es mentira. Existen alternativas decentes como [OKX Web3 Wallet](https://www.okx.com/web3) o [Coinbase Wallet](https://www.coinbase.com/wallet).
+MetaMask quiere hacernos creer que es la única opción, pero eso es mentira. Existen alternativas decentes como [OKX Web3 Wallet](https://www.okx.com/web3) o **Coinbase Wallet**.
 
 ## Soluciones Temporales Para un Problema Sistémico
 

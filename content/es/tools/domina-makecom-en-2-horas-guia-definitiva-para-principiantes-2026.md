@@ -24,7 +24,7 @@ translationKey: "a4260206-53cd-4430-46ea-2e4474fd7f35"---
 
 Nos quieren vender la moto de que la automatización, con herramientas como Make.com a la cabeza, es la panacea para todos los males empresariales. ¡Tonterías! La automatización, en el 90% de los casos, no es más que una forma elegante de maquillar la ineficiencia inherente a un modelo de negocio defectuoso. No arregla los problemas; simplemente los acelera.
 
-¿El tan cacareado ROI? Puro humo. Sí, quizás puedas recortar unos minutos aquí y allá, pero a qué costo? A la larga, la dependencia excesiva de estas plataformas crea una fragilidad sistémica, donde un simple fallo en una integración puede paralizar toda tu operación. ¿Realmente crees que ese ahorro marginal justifica el riesgo? La revista MIT Technology Review ya ha advertido sobre los peligros de la sobre-automatización [en este revelador artículo](https://www.technologyreview.com/2023/01/26/1067381/automation-is-not-always-the-answer/).
+¿El tan cacareado ROI? Puro humo. Sí, quizás puedas recortar unos minutos aquí y allá, pero a qué costo? A la larga, la dependencia excesiva de estas plataformas crea una fragilidad sistémica, donde un simple fallo en una integración puede paralizar toda tu operación. ¿Realmente crees que ese ahorro marginal justifica el riesgo? La revista MIT Technology Review ya ha advertido sobre los peligros de la sobre-automatización **en este revelador artículo**.
 
 Aquí va una verdad incómoda: la mayoría de las empresas no necesitan automatización, necesitan una estrategia sólida y un equipo competente.
 
@@ -32,7 +32,7 @@ Aquí va una verdad incómoda: la mayoría de las empresas no necesitan automati
 
 Nos presentan casos de uso idílicos: gestión de leads impecable, campañas de marketing quirúrgicamente precisas, atención al cliente robótica que nunca duerme. Suena genial, ¿verdad? Pero la realidad es que la automatización es tan buena como los datos que la alimentan. Si tu segmentación es basura, tus correos electrónicos son genéricos y tu "chatbot inteligente" es más estúpido que útil, entonces estás tirando dinero a la basura.
 
-Miren este escenario: Automatización de la generación de leads.  Suena a paraíso, pero, ¿de dónde vienen esos leads? ¿Son siquiera cualificados? Automatizar la basura solo genera más basura, y termina inundando a tu equipo de ventas con prospectos inútiles. Bloomberg ha reportado incontables casos de fracaso en la automatización de ventas por este mismo motivo [vean este análisis](https://www.bloomberg.com/opinion/articles/2023-10-26/ai-sales-tools-are-overhyped-and-underperforming).
+Miren este escenario: Automatización de la generación de leads.  Suena a paraíso, pero, ¿de dónde vienen esos leads? ¿Son siquiera cualificados? Automatizar la basura solo genera más basura, y termina inundando a tu equipo de ventas con prospectos inútiles. Bloomberg ha reportado incontables casos de fracaso en la automatización de ventas por este mismo motivo **vean este análisis**.
 
 O la gestión de redes sociales automatizada. Programar posts sin una estrategia de contenido coherente y sin interacción genuina es la receta perfecta para el fracaso en redes sociales. ¡Dejen de ser robots y empiecen a construir relaciones reales!
 

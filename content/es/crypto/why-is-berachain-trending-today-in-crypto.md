@@ -36,7 +36,7 @@ Más de $13 millones en posiciones cortas liquidadas, un festín para los oportu
 
 El cambio estratégico de Berachain, de "farming" a "negocios reales", es una admisión tácita de fracaso. La iniciativa "Bera Builds Businesses" (un nombre que suena a Startup de garaje) promete apoyar entre 3 y 5 aplicaciones con ingresos anuales superiores a $10 millones. ¿En serio? ¿Después de todo este tiempo, recién ahora se preocupan por la sostenibilidad? Esto huele a desesperación por atraer inversores crédulos.
 
-El alivio ante la no ejecución de una cláusula de reembolso de $25 millones por parte de Brevan Howard Digital [indica una falta de confianza, no lo contrario](https://www.reuters.com/markets/funds/brevan-howard-digital-asset-arm-cuts-staff-amid-crypto-winter-2022-12-02/). Que Greenlane Holdings (una empresa menor cotizada en Nasdaq) haya recolectado $110 millones para una "Estrategia Bera" es más un acto de desesperación que una señal de legitimidad. [Greenlane Holdings, en realidad, tiene un historial financiero bastante cuestionable](https://finance.yahoo.com/quote/GNLN/).
+El alivio ante la no ejecución de una cláusula de reembolso de $25 millones por parte de Brevan Howard Digital **indica una falta de confianza, no lo contrario**. Que Greenlane Holdings (una empresa menor cotizada en Nasdaq) haya recolectado $110 millones para una "Estrategia Bera" es más un acto de desesperación que una señal de legitimidad. **Greenlane Holdings, en realidad, tiene un historial financiero bastante cuestionable**.
 
 ## "Expertos": Ecos en la Cámara de Resonancia Cripto
 
@@ -46,7 +46,7 @@ Pero hasta los loros entrenados en criptografía advierten sobre el RSI en sobre
 
 ## La Realidad: Especulación Pura, Cero Valor Subyacente
 
-El Chaikin Money Flow (CMF) –una herramienta de análisis mucho más fiable– se mantiene por debajo de cero, mostrando divergencias bajistas. Esto significa que el reciente aumento fue un simple bombeo especulativo, no una entrada de capital real. Si el flujo de capital no se materializa (y no lo hará), BERA se estrellará contra el suelo, alrededor de los $0.62. [Análisis técnico detallado del CMF](https://www.investopedia.com/terms/c/chaikinmoneyflow.asp).
+El Chaikin Money Flow (CMF) –una herramienta de análisis mucho más fiable– se mantiene por debajo de cero, mostrando divergencias bajistas. Esto significa que el reciente aumento fue un simple bombeo especulativo, no una entrada de capital real. Si el flujo de capital no se materializa (y no lo hará), BERA se estrellará contra el suelo, alrededor de los $0.62. **Análisis técnico detallado del CMF**.
 
 La tensión entre la cultura cripto original de Berachain y su nuevo enfoque "empresarial" es una guerra civil en desarrollo. @Blesd afirma que Berachain ha "muerto para el inversor minorista". El pivote hacia "Bera Builds Businesses" es un acto de fe desesperado. No generarán los ingresos prometidos, y la desilusión golpeará con fuerza.
 

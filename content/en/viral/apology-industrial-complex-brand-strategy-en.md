@@ -49,7 +49,7 @@ Communications expert Jonathan Pollinger suggests that "official apologies" may 
 
 ## The Angle Nobody Wants to See: Ignoring Employee Engagement at Your Peril
 
-Employee engagement often goes unacknowledged in discussions of corporate social responsibility. Employee engagement in the U.S. hit a 10-year low in 2024. Only 31% of employees remain engaged in their jobs, according to [Gallup data](https://www.gallup.com/workplace/607465/employee-engagement-drops-2024.aspx).
+Employee engagement often goes unacknowledged in discussions of corporate social responsibility. Employee engagement in the U.S. hit a 10-year low in 2024. Only 31% of employees remain engaged in their jobs, according to **Gallup data**.
 
 Ignoring this internal dimension of CSR can undermine a company's external efforts. Disengaged employees are less likely to support or advocate for company initiatives. This diminishes the overall impact of CSR programs.
 

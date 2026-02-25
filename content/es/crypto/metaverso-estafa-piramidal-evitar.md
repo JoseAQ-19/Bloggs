@@ -25,7 +25,7 @@ El Metaverso. Esa tierra prometida de avatares y mundos digitales perpetuos. ¡U
 
 ## El Cementerio de Unicornios Virtuales: Números que Aterran
 
-No se trata de ser pesimista, sino realista. Los datos, fríos e implacables, pintan un panorama desolador. Tomemos Decentraland, ese parque temático digital que prometía la propiedad virtual absoluta. ¿El resultado? Un páramo desolado donde, en promedio, de 19 a 42 personas se dignaban a "visitarlo" diariamente. ¿En serio? Un proyecto valorado en miles de millones, languideciendo con menos afluencia que una gasolinera abandonada en medio del desierto. [La caída en picado de usuarios activos es un claro síntoma de un problema mayor](https://www.coindesk.com/tech/2022/10/18/decentraland-averages-38-active-users-daily-data-shows/).
+No se trata de ser pesimista, sino realista. Los datos, fríos e implacables, pintan un panorama desolador. Tomemos Decentraland, ese parque temático digital que prometía la propiedad virtual absoluta. ¿El resultado? Un páramo desolado donde, en promedio, de 19 a 42 personas se dignaban a "visitarlo" diariamente. ¿En serio? Un proyecto valorado en miles de millones, languideciendo con menos afluencia que una gasolinera abandonada en medio del desierto. **La caída en picado de usuarios activos es un claro síntoma de un problema mayor**.
 
 ¿Y qué decir de Horizon Worlds, la "obra maestra" de Zuckerberg? Prometió revolucionar la interacción social. Terminó siendo un meme costoso. Después de un arranque con 200.000 usuarios mensuales, la plataforma se desplomó hasta los 900 usuarios. Una hemorragia de usuarios que demuestra la futilidad de forzar la inmersión en un entorno digital carente de alma. El problema no es la tecnología, sino la AUSENCIA de una necesidad real.
 

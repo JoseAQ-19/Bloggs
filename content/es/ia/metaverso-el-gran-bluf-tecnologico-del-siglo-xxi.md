@@ -24,7 +24,7 @@ La obsesión de Meta con el metaverso es, francamente, alarmante. La compañía 
 
 ## Más Allá de Meta: El Problema es Sistémico
 
-No es solo Meta. Otras empresas, como Microsoft, también han coqueteado con el metaverso, solo para retroceder avergonzadas cuando se dieron cuenta de que el emperador no llevaba ropa. [Microsoft, después de una incursión inicial con Mesh for Teams](https://techcrunch.com/2023/07/18/microsoft-is-killing-off-its-mixed-reality-platform-altspacevr-next-year/), ha reenfocado su estrategia, enfocándose en aplicaciones empresariales menos ambiciosas. NVIDIA, con su Omniverse, parece haber encontrado un nicho en el ámbito industrial, pero esto está muy lejos de la visión original de un metaverso social masivo. La realidad es que la infraestructura simplemente no está ahí. La latencia de la red, la potencia de procesamiento y la falta de dispositivos de realidad virtual accesibles siguen siendo obstáculos insuperables.
+No es solo Meta. Otras empresas, como Microsoft, también han coqueteado con el metaverso, solo para retroceder avergonzadas cuando se dieron cuenta de que el emperador no llevaba ropa. **Microsoft, después de una incursión inicial con Mesh for Teams**, ha reenfocado su estrategia, enfocándose en aplicaciones empresariales menos ambiciosas. NVIDIA, con su Omniverse, parece haber encontrado un nicho en el ámbito industrial, pero esto está muy lejos de la visión original de un metaverso social masivo. La realidad es que la infraestructura simplemente no está ahí. La latencia de la red, la potencia de procesamiento y la falta de dispositivos de realidad virtual accesibles siguen siendo obstáculos insuperables.
 
 ## La Cruda Realidad: Deficiencias Fundamentales
 
@@ -36,7 +36,7 @@ El metaverso adolece de una serie de problemas que socavan su viabilidad como un
 
 *   **Un Caldo de Cultivo para la Explotación:** La privacidad y la seguridad son preocupaciones secundarias en el metaverso. La recopilación masiva de datos, el robo de identidad y el acoso virtual son rampantes.
 
-*   **El Hardware de la Vergüenza:** Los cascos de realidad virtual son caros, voluminosos e incómodos. Hasta que no tengamos dispositivos ligeros, asequibles y fáciles de usar, el metaverso seguirá siendo un nicho de mercado. En 2023, las ventas de visores de realidad virtual y aumentada disminuyeron un 20%, [según datos de la firma de investigación IDC](https://www.idc.com/getdoc.jsp?containerId=prUS51287423).
+*   **El Hardware de la Vergüenza:** Los cascos de realidad virtual son caros, voluminosos e incómodos. Hasta que no tengamos dispositivos ligeros, asequibles y fáciles de usar, el metaverso seguirá siendo un nicho de mercado. En 2023, las ventas de visores de realidad virtual y aumentada disminuyeron un 20%, **según datos de la firma de investigación IDC**.
 
 *   **Economías Virtuales Predestinadas al Fracaso:** La idea de economías virtuales impulsadas por NFTs y criptomonedas ha resultado ser un espejismo. La volatilidad del mercado de las criptomonedas y la proliferación de estafas han destruido la confianza de los usuarios.
 

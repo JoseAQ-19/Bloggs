@@ -20,7 +20,7 @@ Silicon Valley no está al borde del abismo. Se encuentra cayendo, a plomo, y la
 
 La historia de Silicon Valley no es un ciclo de auge y caída, sino una metástasis de burbujas consecutivas. Después del descalabro de las puntocom, resurgieron Google, Apple y Facebook, sí, pero a costa de consolidar un poder oligárquico sin precedentes. La actual histeria por la "inteligencia artificial" es la última cortina de humo para encubrir la codicia rampante.
 
-Un estudio del MIT, convenientemente maquillado, revela que el 95% de las organizaciones que se lanzaron a la IA generativa no obtuvieron retornos apreciables. ¿"Matizado"? ¡Por favor! Es una señal de alarma que clama al cielo. Incluso Sam Altman, en un inusual arrebato de honestidad (o quizás una maniobra de control de daños), ha comparado la situación con la burbuja puntocom. [Reuters reportó](https://www.reuters.com/technology/openai-chief-says-artificial-intelligence-hype-2023-05-17/) sus declaraciones.
+Un estudio del MIT, convenientemente maquillado, revela que el 95% de las organizaciones que se lanzaron a la IA generativa no obtuvieron retornos apreciables. ¿"Matizado"? ¡Por favor! Es una señal de alarma que clama al cielo. Incluso Sam Altman, en un inusual arrebato de honestidad (o quizás una maniobra de control de daños), ha comparado la situación con la burbuja puntocom. **Reuters reportó** sus declaraciones.
 
 El despilfarro en infraestructura es obsceno. OpenAI planea dilapidar 500.000 millones de dólares en centros de datos. ¡Más que el Proyecto Manhattan! Este frenesí, disfrazado de "necesidad de potencia de cálculo", está inflando artificialmente los precios y enriqueciendo a unos pocos elegidos. ¿Quiénes? Sigan el rastro del dinero.
 
@@ -28,9 +28,9 @@ El despilfarro en infraestructura es obsceno. OpenAI planea dilapidar 500.000 mi
 
 Nvidia, el rey de los chips para IA, se frota las manos mientras su valor bursátil se dispara. Pero ese crecimiento se alimenta de la demanda artificial creada por las propias empresas de IA, financiadas por inversores desesperados por un pelotazo rápido. Es un círculo vicioso.
 
-Este carrusel financiero, donde los mismos jugadores se retroalimentan para mantener la ilusión de prosperidad, es una bomba de relojería. Jerry Kaplan, pionero de la informática, lo advierte sin tapujos: "Cuando estalle, será mucho peor, y no solo para la IA". [TechCrunch ya lo anticipaba](https://techcrunch.com/2023/03/10/the-ai-bubble-is-already-here/). La implosión de Nortel en la era puntocom es un aviso sepultado bajo toneladas de titulares optimistas.
+Este carrusel financiero, donde los mismos jugadores se retroalimentan para mantener la ilusión de prosperidad, es una bomba de relojería. Jerry Kaplan, pionero de la informática, lo advierte sin tapujos: "Cuando estalle, será mucho peor, y no solo para la IA". **TechCrunch ya lo anticipaba**. La implosión de Nortel en la era puntocom es un aviso sepultado bajo toneladas de titulares optimistas.
 
-Además del desastre financiero, la burbuja de la IA es un atentado ecológico. La construcción y el funcionamiento de estos megacentros de datos consumen cantidades ingentes de energía y agua, acelerando el cambio climático y la escasez de recursos. La "revolución cognitiva" se sustenta en una infraestructura opaca, centralizada y energéticamente insostenible. Una vergüenza. Y nadie habla de la escasez de chips. [Bloomberg lo reporta](https://www.bloomberg.com/news/articles/2023-02-07/global-chip-shortage-is-easing-but-some-problems-linger).
+Además del desastre financiero, la burbuja de la IA es un atentado ecológico. La construcción y el funcionamiento de estos megacentros de datos consumen cantidades ingentes de energía y agua, acelerando el cambio climático y la escasez de recursos. La "revolución cognitiva" se sustenta en una infraestructura opaca, centralizada y energéticamente insostenible. Una vergüenza. Y nadie habla de la escasez de chips. **Bloomberg lo reporta**.
 
 *   Esta "innovación" es un fraude climático.
 

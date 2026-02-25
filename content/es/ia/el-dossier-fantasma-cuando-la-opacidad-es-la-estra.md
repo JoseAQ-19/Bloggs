@@ -30,7 +30,7 @@ El "pico" de estas contrataciones se alcanzó en 2015, con un ligero descenso ha
 
 Los "clústers corporativos interconectados" son la prueba irrefutable de la premeditación. Las empresas fantasma comparten accionistas, administradores, representantes legales e incluso los mismos notarios corruptos. Esto no es "evasión de sanciones", es una burla al sistema judicial. Es la planificación meticulosa de un esquema de saqueo a gran escala. ¿Y las autoridades? Mirando hacia otro lado.
 
-El tamaño de estos clústers revela el alcance de la operación, uno de los cuales abarcó hasta ocho estados del país. La mayoría de estas EFOS fueron creadas entre 2006 y 2016. Esta concentración en el tiempo sugiere una coordinación centralizada y un conocimiento profundo del funcionamiento del sistema. ¿Quién está detrás de todo esto? Esa es la pregunta que nadie quiere responder. Los paraísos fiscales como Delaware en Estados Unidos [siguen siendo refugios seguros para el dinero ilícito](https://www.icij.org/investigations/pandora-papers/delaware-corporate-tax/).
+El tamaño de estos clústers revela el alcance de la operación, uno de los cuales abarcó hasta ocho estados del país. La mayoría de estas EFOS fueron creadas entre 2006 y 2016. Esta concentración en el tiempo sugiere una coordinación centralizada y un conocimiento profundo del funcionamiento del sistema. ¿Quién está detrás de todo esto? Esa es la pregunta que nadie quiere responder. Los paraísos fiscales como Delaware en Estados Unidos **siguen siendo refugios seguros para el dinero ilícito**.
 
 ## El Abismo Profundo: Corrupción Estatal y Municipal sin Control
 
@@ -44,7 +44,7 @@ El problema de las empresas fantasma no se soluciona con "sanciones administrati
 
 Fortalecer los "mecanismos de transparencia" es una utopía en un país donde la corrupción es parte de la cultura política. Homologar los registros de contrataciones públicas es una tarea imposible cuando los intereses creados se oponen a cualquier forma de control. ¿Participación ciudadana? Una ilusión. La sociedad civil está desorganizada y desempoderada.
 
-El marco legal y penal es inútil si no se aplica con rigor. Tipificar la emisión de facturas falsas como crimen organizado es un buen comienzo, pero se necesita voluntad política para desmantelar las redes corporativas y castigar a los verdaderos culpables. Sin embargo, esta voluntad brilla por su ausencia. La corrupción es un negocio demasiado lucrativo para ser abandonado. Los datos de la OCDE [muestran cómo la corrupción afecta el crecimiento económico](https://www.oecd.org/corruption/ethics/corruption-an-issue-for-developed-countries.htm), pero a nadie parece importarle.
+El marco legal y penal es inútil si no se aplica con rigor. Tipificar la emisión de facturas falsas como crimen organizado es un buen comienzo, pero se necesita voluntad política para desmantelar las redes corporativas y castigar a los verdaderos culpables. Sin embargo, esta voluntad brilla por su ausencia. La corrupción es un negocio demasiado lucrativo para ser abandonado. Los datos de la OCDE **muestran cómo la corrupción afecta el crecimiento económico**, pero a nadie parece importarle.
 
 ## Veredicto Final: La Corrupción Triunfa, Una Vez Más
 

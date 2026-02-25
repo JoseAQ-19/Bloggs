@@ -57,7 +57,7 @@ Opus 4.6 still holds the crown for complex, computationally intensive tasks. Son
 
 Anthropic emphasizes that Sonnet 4.6 is "safe as, or safer than" other recent Claude models. However, there are real-world tradeoffs to consider.
 
-One potential issue is over-refusal. According to the [Anthropic System Card](https://cdn.anthropic.com/static/pdfs/system_card_claude_3_model.pdf), Sonnet 4.6 sometimes refuses tasks like grading transcripts for safety violations.
+One potential issue is over-refusal. According to the **Anthropic System Card**, Sonnet 4.6 sometimes refuses tasks like grading transcripts for safety violations.
 
 The pursuit of "safe" AI can sometimes lead to models that are overly cautious and risk-averse, limiting their ability to perform useful tasks. Anthropic needs to be transparent about the potential limitations of its safety measures.
 

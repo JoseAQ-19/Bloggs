@@ -20,7 +20,7 @@ El supuesto funeral del metaverso es prematuro. No es que haya muerto, sino que 
 
 ## La falacia del "único metaverso"
 
-La obsesión con un metaverso monolítico era un síntoma de la miopía tecnológica que aflige a Silicon Valley. Creer que la humanidad anhela una simulación digital de la oficina y el centro comercial es un insulto a la inteligencia. La gente no busca escapar de la realidad, busca aumentarla, enriquecerla, transformarla.  [Un estudio de Gartner predice que para 2027, el 40% de las grandes organizaciones en todo el mundo utilizarán una combinación de Web3, AR Cloud y gemelos digitales basados en el metaverso para aumentar los ingresos](https://www.gartner.com/en/newsroom/press-releases/2022-02-07-gartner-predicts-25-percent-of-people-will-spend-at-least-one-hour-per-day-in-the-metaverse-in-2026). ¿En serio? Más parece un deseo de Gartner que una proyección realista.
+La obsesión con un metaverso monolítico era un síntoma de la miopía tecnológica que aflige a Silicon Valley. Creer que la humanidad anhela una simulación digital de la oficina y el centro comercial es un insulto a la inteligencia. La gente no busca escapar de la realidad, busca aumentarla, enriquecerla, transformarla.  **Un estudio de Gartner predice que para 2027, el 40% de las grandes organizaciones en todo el mundo utilizarán una combinación de Web3, AR Cloud y gemelos digitales basados en el metaverso para aumentar los ingresos**. ¿En serio? Más parece un deseo de Gartner que una proyección realista.
 
 Meta, embriagada con su propio Kool-Aid tecnológico, dilapidó miles de millones en Horizon Worlds, un páramo digital donde la única actividad recurrente es la desolación virtual. La realidad, cruda e innegable, es que nadie quiere pasar su tiempo libre en una versión inferior del mundo real, especialmente cuando esa versión está controlada por el omnipresente Mark Zuckerberg.
 
@@ -32,13 +32,13 @@ TikTok, a pesar de sus controversias y su reputación de fábrica de dopamina, h
 
 ## Realidad Aumentada: La utilidad que el Metaverso ignoró
 
-Mientras Meta soñaba con mundos virtuales, otras empresas se centraron en integrar la realidad aumentada (RA) en nuestras vidas de forma práctica. Desde probar muebles virtualmente en tu sala hasta juegos móviles que superponen elementos digitales al mundo real, la RA ofrece utilidad tangible sin exigir que abandonemos la realidad.  [Apple ha hecho una fuerte apuesta por la AR con el lanzamiento de su Vision Pro](https://www.apple.com/newsroom/2023/06/apple-unveils-vision-pro/), pero incluso este gadget tiene limitaciones evidentes: su precio prohibitivo y la dependencia de un ecosistema cerrado.
+Mientras Meta soñaba con mundos virtuales, otras empresas se centraron en integrar la realidad aumentada (RA) en nuestras vidas de forma práctica. Desde probar muebles virtualmente en tu sala hasta juegos móviles que superponen elementos digitales al mundo real, la RA ofrece utilidad tangible sin exigir que abandonemos la realidad.  **Apple ha hecho una fuerte apuesta por la AR con el lanzamiento de su Vision Pro**, pero incluso este gadget tiene limitaciones evidentes: su precio prohibitivo y la dependencia de un ecosistema cerrado.
 
 ## La gran desconexión (y por qué es inevitable)
 
 La creciente popularidad de la desconexión digital y los productos minimalistas como el Mudita Pure (un teléfono sin internet diseñado para la concentración) no es una moda pasajera, sino una reacción lógica a la sobrecarga digital. La gente está empezando a darse cuenta de que la constante conectividad no es un signo de progreso, sino una forma de esclavitud moderna.
 
-La teoría del "Internet Muerto," por descabellada que parezca, tiene un punto: gran parte del contenido en línea es ruido generado por bots e intereses corporativos, no por seres humanos reales. [Investigaciones independientes demuestran que el tráfico de bots representa una porción significativa del tráfico web total, aunque la cifra exacta es difícil de determinar](https://www.imperva.com/blog/bad-bot-report/).
+La teoría del "Internet Muerto," por descabellada que parezca, tiene un punto: gran parte del contenido en línea es ruido generado por bots e intereses corporativos, no por seres humanos reales. **Investigaciones independientes demuestran que el tráfico de bots representa una porción significativa del tráfico web total, aunque la cifra exacta es difícil de determinar**.
 
 ## El veredicto: El futuro es híbrido, no virtual
 

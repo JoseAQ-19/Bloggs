@@ -34,6 +34,6 @@ Las consecuencias fueron devastadoras. Se registraron miles de delitos, se destr
 
 Mientras tanto, el mundo avanza. China invierte masivamente en tecnología y en infraestructura, mientras que Europa se debate en una crisis de identidad.  Estados Unidos se enfrenta a una profunda polarización social y política. En este contexto, ¿qué hace Chile? Se lamenta del pasado y se niega a tomar las decisiones difíciles.
 
-Según un análisis reciente, [Europa confunde la prudencia con la inacción](https://www.reuters.com/markets/europe/ecb-must-keep-raising-rates-reassess-later-kazaks-2023-02-08/), la estabilidad con el progreso. Se aferra al statu quo y se niega a asumir los riesgos necesarios para construir un futuro mejor. ¿Suena familiar?
+Según un análisis reciente, **Europa confunde la prudencia con la inacción**, la estabilidad con el progreso. Se aferra al statu quo y se niega a asumir los riesgos necesarios para construir un futuro mejor. ¿Suena familiar?
 
 Chile debe aprender de sus errores. El "modelo ejemplar" se rompió porque era una falacia. No podemos seguir aplazando las decisiones difíciles. El futuro exige valentía, visión de largo plazo y un compromiso real con la justicia social. De lo contrario, estaremos condenados a repetir la historia. No hay medias tintas: o cambiamos el rumbo, o nos hundimos con el barco.

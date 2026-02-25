@@ -22,7 +22,7 @@ Make.com (anteriormente Integromat) se ha posicionado como un contendiente impor
 
 El retorno de la inversión (ROI) de la automatización es innegable. No solo se trata de ahorrar tiempo, sino de optimizar recursos, reducir errores humanos y mejorar la productividad general. Imagina un equipo de ventas que ya no tiene que ingresar datos manualmente en el CRM, o un departamento de marketing que automatiza la creación y distribución de contenido en redes sociales.
 
-Piénsalo así: si un empleado dedica 10 horas semanales a tareas repetitivas, y su salario promedio es de 30€/hora, estás perdiendo 1200€ al mes. Automatizar esas tareas no solo libera a ese empleado para actividades de mayor valor, sino que recupera esa inversión mensual casi de inmediato. Make.com, con su modelo de precios escalable, permite empezar poco a poco y crecer a medida que se ven los resultados. Según un informe de McKinsey, la automatización tiene el potencial de aumentar la productividad global entre un 0.8 y un 1.4 por ciento anual hasta 2060 [fuente](https://www.mckinsey.com/featured-insights/future-of-work/what-the-future-of-work-means-for-jobs-skills-and-wages).
+Piénsalo así: si un empleado dedica 10 horas semanales a tareas repetitivas, y su salario promedio es de 30€/hora, estás perdiendo 1200€ al mes. Automatizar esas tareas no solo libera a ese empleado para actividades de mayor valor, sino que recupera esa inversión mensual casi de inmediato. Make.com, con su modelo de precios escalable, permite empezar poco a poco y crecer a medida que se ven los resultados. Según un informe de McKinsey, la automatización tiene el potencial de aumentar la productividad global entre un 0.8 y un 1.4 por ciento anual hasta 2060 **fuente**.
 
 **Casos de Uso Rentables: Desde el Email Marketing Hasta la Gestión de Inventario**
 
@@ -40,13 +40,13 @@ Un cliente nuestro, una tienda online de ropa, automatizó su proceso de gestió
 No te lances a automatizar todo tu negocio de golpe. Empieza con un proceso pequeño, bien definido y que genere un impacto inmediato. Aquí te dejo una guía paso a paso para empezar con Make.com:
 
 1.  **Define el Proceso:** Identifica qué tarea quieres automatizar. Debe ser repetitiva, basada en reglas claras y que consuma mucho tiempo.
-2.  **Crea una Cuenta en Make.com:** Regístrate en [Make.com](https://www.make.com/en/register) y familiarízate con la interfaz. Es intuitiva y visual, lo que facilita la creación de flujos de trabajo.
+2.  **Crea una Cuenta en Make.com:** Regístrate en **Make.com** y familiarízate con la interfaz. Es intuitiva y visual, lo que facilita la creación de flujos de trabajo.
 3.  **Construye tu Primer Escenario:** Un escenario es un flujo de trabajo automatizado. Comienza eligiendo un trigger (el evento que inicia el flujo) y una o más acciones (las tareas que se ejecutan automáticamente).
 4.  **Conecta tus Aplicaciones:** Make.com se integra con cientos de aplicaciones. Conecta las que necesitas para tu proceso.
 5.  **Mapea los Datos:** Asegúrate de que los datos fluyan correctamente entre las aplicaciones. Make.com te permite mapear los campos de datos para que la información se transfiera de forma precisa.
 6.  **Prueba y Optimiza:** Ejecuta tu escenario y verifica que todo funcione correctamente. Si hay errores, corrige y vuelve a probar. A medida que uses Make.com, irás descubriendo nuevas formas de optimizar tus flujos de trabajo.
-7.  **Utiliza la Documentación Oficial:** No subestimes el poder de la documentación. Make.com tiene una documentación completa y fácil de entender [aquí](https://www.make.com/en/help)
-8.  **Considera la seguridad:** Presta atención a como Make.com almacena y transmite tus datos. Revisa sus políticas de seguridad [Make.com Security Policy](https://www.make.com/en/security).
+7.  **Utiliza la Documentación Oficial:** No subestimes el poder de la documentación. Make.com tiene una documentación completa y fácil de entender **aquí**
+8.  **Considera la seguridad:** Presta atención a como Make.com almacena y transmite tus datos. Revisa sus políticas de seguridad **Make.com Security Policy**.
 
 Recuerda que la clave del éxito está en empezar con un proceso pequeño y luego ir escalando a medida que adquieres experiencia.
 

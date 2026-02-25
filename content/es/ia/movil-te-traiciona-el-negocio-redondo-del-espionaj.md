@@ -35,7 +35,7 @@ Crees que usas tu móvil, pero él te está usando a ti. Y la brecha no hace má
 
 ## "Acepto" Mi Explotación: El Consentimiento Fabricado
 
-La base de este negocio es el "consentimiento" del usuario. Pero, ¿es válido cuando el 74% de los usuarios acepta los términos sin leerlos? [Según Deloitte, el consumidor medio dedica 14 segundos a la lectura de estos contratos](https://www2.deloitte.com/content/dam/Deloitte/uk/Documents/technology/deloitte-uk-tmt-predictions-2017-consumer-survey.pdf). Una ridiculez.
+La base de este negocio es el "consentimiento" del usuario. Pero, ¿es válido cuando el 74% de los usuarios acepta los términos sin leerlos? **Según Deloitte, el consumidor medio dedica 14 segundos a la lectura de estos contratos**. Una ridiculez.
 
 Los Términos de Servicio y Políticas de Privacidad son un laberinto legal diseñado para confundir. Se crea una falsa sensación de consentimiento, donde aceptas algo que no comprendes.
 

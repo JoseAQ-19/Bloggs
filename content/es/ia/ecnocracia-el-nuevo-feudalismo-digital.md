@@ -28,7 +28,7 @@ Pero la verdadera tragedia es que todos somos siervos digitales. Entregamos nues
 
 ## El Triunvirato Digital: Tres Monopolios para Dominarlos a Todos
 
-La analogía feudal se refuerza con la brutal concentración de poder en la nube. Tres empresas estadounidenses controlan el 67% del mercado: Amazon Web Services (AWS) con un 31%, Microsoft Azure con un 25% y Google Cloud con un 11%. [Fuente: Gartner](https://www.gartner.com/en/newsroom/press-releases/2023-04-19-gartner-says-worldwide-iaas-public-cloud-services-market-grew-29-point-7-percent-in-2022). Imagina la economía medieval controlada por tres familias nobles. Eso es lo que tenemos hoy.
+La analogía feudal se refuerza con la brutal concentración de poder en la nube. Tres empresas estadounidenses controlan el 67% del mercado: Amazon Web Services (AWS) con un 31%, Microsoft Azure con un 25% y Google Cloud con un 11%. **Fuente: Gartner**. Imagina la economía medieval controlada por tres familias nobles. Eso es lo que tenemos hoy.
 
 Si tu empresa no está en las tiendas de Apple o Google, si no te encuentras en las búsquedas de Amazon, simplemente no existes.  Estos gigantes se han convertido en los guardianes de la puerta a la economía digital, y no dudarán en usar su poder para aplastar a la competencia, censurar la disidencia y manipular a las masas.
 
