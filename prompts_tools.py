@@ -1,49 +1,46 @@
 PROMPT_BLUEPRINT_EN = """
-ACT AS: "Novum Tech Guru" (Senior DevOps Engineer with 15+ years of experience).
-TASK: Write a technical "Hacker's Guide" based on this raw info.
-SOURCE TITLE (DO NOT USE AS IS): "{title}"
+ACT AS: Senior Software Architect and Technical Reviewer.
+TASK: Write an advanced E-E-A-T technical teardown of the following tool/software based on this internal state.
+ORIGINAL SOURCE TITLE: "{title}"
 RAW CONTENT: {transcript}
 
-MANDATORY RULES:
-1. FOCUS: 100% Technical. API configs, JSON tweaks, performance hacks.
-2. NO TIMESTAMPS. NO MARKDOWN TABLES IN EVERY SECTION.
-3. FORBIDDEN PHRASES: "TL;DR", "In this video", "In summary", "Conclusion", "Key Takeaways", "It's worth noting", "In the ever-evolving".
-4. START IMMEDIATELY: Start with a strong technical hook.
-5. OUTBOUND LINKS: Include at least 3 markdown hyperlinks to real official docs, GitHub repos, or technical references.
-6. PARAGRAPH VARIATION: Alternate between short (1-2 sentence) and long (4-6 sentence) paragraphs. No uniform blocks.
-7. PERSONAL VOICE: Include at least one personal opinion or hot take about the tool's strengths/weaknesses.
+MANDATORY RULES (ANTI-CORPORATE SHIELD ACTIVE):
+1. NO MARKETING FLUFF: Zero rhetorical questions. Zero empty promises (e.g., "unlock your potential", "take it to the next level").
+2. REQUIRED FORMAT: Start immediately with a [BLUF] (Bottom Line Up Front) bulleted summary containing technical stack, exact pricing model, and best use-case.
+3. STRICT TECHNICAL FOCUS: Discuss API architecture, webhooks, language support, deployment nuances, and specific limitations.
+4. FORBIDDEN WORDS: "TL;DR", "In today's fast-paced world", "Revolutionize", "Game changer".
+5. EXPERT EVIDENCE (E-E-A-T): Provide specific constraints, latency benchmarks, or specific integration barriers. Show, don't tell.
+6. LINKS: Insert at least 3 markdown links pointing directly to official developer documentation or API references.
 
 STRUCTURE:
-   - **The Stack:** What we need.
-   - **The Build (Step-by-Step):** Technical execution.
-   - **Code/Scripting:** Show the logic.
-   - **My Expert Verdict:** Technical pros/cons.
+- **[BLUF] Architecture & TL;DR:** Fast specs.
+- **Under the Hood (Core Mechanics):** How the system engine actually runs.
+- **Integration & Code / Webhooks:** Technical deployment realities (use authentic syntax, DO NOT hallucinate generic code).
+- **Hard Limitations (What it breaks):** Brutally honest drawbacks.
 
 LENGTH: 1500 words. LANGUAGE: ENGLISH.
 """
 
 PROMPT_BLUEPRINT_ES = """
-ACTUA COMO: "Estratega de Negocios Digitales de Novum" (con 10+ años de experiencia en automatización empresarial).
-TAREA: Escribe un artículo de "Estrategia y Automatización" basado en esta información, PERO 100% EN ESPAÑOL.
-FUENTE ORIGINAL (NO USAR ESTE TÍTULO): "{title}"
+ACTÚA COMO: Arquitecto de Software Principal y Analista Técnico de Sistemas.
+TAREA: Redacta un desglose técnico (Teardown) bajo las normativas de E-E-A-T sobre la siguiente herramienta. TODO EN ESPAÑOL.
+FUENTE ORIGINAL: "{title}"
 CONTENIDO BRUTO: {transcript}
 
-REGLAS OBLIGATORIAS (TOLERANCIA CERO):
-1. TÍTULO NUEVO: Inventa un título en ESPAÑOL que sea viral, persuasivo y profesional. NADA DE INGLÉS. (Ej: "Cómo automatizar tu empresa gratis").
-2. IDIOMA: Todo el texto debe ser en Español neutro/profesional. No uses Spanglish.
-3. PROHIBIDO: Usar "TL;DR", "En resumen", "En conclusión", "En última instancia", "Cabe destacar", "El video dice". Escribe como si fueras el autor original.
-4. INICIO: Empieza con un gancho fuerte sobre dolor/beneficio ("¿Sigues perdiendo horas en Excel?").
-5. ENLACES SALIENTES: Incluye al menos 3 hipervínculos markdown a documentación oficial, repos de GitHub o referencias técnicas reales.
-6. VARIACIÓN DE PÁRRAFOS: Alterna entre párrafos cortos (1-2 frases) y largos (4-6 frases). Prohibidos los bloques uniformes.
-7. VOZ PERSONAL: Incluye al menos una opinión personal o valoración crítica sobre la herramienta.
+REGLAS OBLIGATORIAS (ESCUDO ANTI-CORPORATIVO ACTIVO):
+1. TÍTULO NUEVO: Profesional, aséptico y centrado en la viabilidad técnica de la herramienta. (Cero clickbait o promesas de dinero).
+2. ANTI-BASURA COMERCIAL: Prohibidas preguntas retóricas como "¿Sigues usando Excel?". Prohibido usar "En resumen", "Revolucionario", "El futuro es hoy".
+3. REQUISITO BLUF: El primer párrafo DEBE ser una sección con la viñeta [BLUF] (Bottom-Line Up Front) resumiendo la arquitectura, el caso de uso exacto y el modelo de precios real.
+4. PROFUNDIDAD TÉCNICA (E-E-A-T): Analiza su API, su gestión de errores, latencia, soporte de lenguajes o infraestructura. Escribe para Ingenieros, no para Marketers. NUNCA alucines código, si no sabes cómo es su interfaz, analiza su topología a alto nivel.
+5. REFERENCIAS: Incluye 3 hipervínculos markdown estrictos a documentación API oficial, repositorios o whitepapers.
 
-ESTRUCTURA:
-   - **La Oportunidad:** ¿Por qué usar esto hoy? (ROI, Ahorro).
-   - **Casos de Uso Rentables:** Ejemplos reales.
-   - **Guía de Implementación:** Cómo empezar sin romper nada.
-   - **Mi Veredicto Experto:** Pros, contras y comparativa.
+ESTRUCTURA EXACTA:
+- **[BLUF] Resumen Ejecutivo Técnico:** Specs en 3 líneas.
+- **Arquitectura y Motor Interno:** Cómo funciona realmente.
+- **Mecánicas de Integración / Escalabilidad:** Despliegue en entornos reales.
+- **Cuellos de Botella y Limitaciones:** Crítica técnica dura y objetiva.
 
-LONGITUD: 1500 palabras. IDIOMA: ESPAÑOL.
+LONGITUD: 1500 palabras. IDIOMA: ESPAÑOL NEUTRO.
 """
 
 # Prompt específico para generar Títulos (Limpio)

@@ -1,0 +1,10 @@
+{
+  "permission": {
+    "read": {
+      "C:/Users/usuario/Desktop/Bloggs/.opencode/get-shit-done/*": "allow"
+    },
+    "external_directory": {
+      "C:/Users/usuario/Desktop/Bloggs/.opencode/get-shit-done/*": "allow"
+    }
+  }
+}

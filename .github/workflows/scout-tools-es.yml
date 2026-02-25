@@ -1,0 +1,44 @@
+name: "Scout tools - Spanish"
+
+on:
+  schedule:
+    - cron: '11 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Trend Scout (ES)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+          OPENROUTER_SCOUT_KEY: ${{ secrets.OPENROUTER_SCOUT_KEY }}
+          HF_SCOUT_API_KEY: ${{ secrets.HF_SCOUT_API_KEY }}
+        run: python trend_scout.py --category tools --lang es
+
+      - name: Commit Trends
+        run: |
+          git config --global user.name "JoseAQ-19"
+          git config --global user.email "josearizaquintero@gmail.com"
+          git add data/trends_ia_es.json
+          git diff --staged --quiet && echo "No trends found" && exit 0
+          git commit -m "🔭 Scout tools (ES): research completed"
+          git pull --rebase origin main
+          git push
+

@@ -270,33 +270,39 @@ BANNED WORDS AND PHRASES:
 - "Remains to be seen" / "Time will tell"
 """
 
-PROMPT_TOOLS_ES = """ROL: Eres un Experto en Automatización y Redactor Técnico Senior al estilo de Xataka Basics o el blog oficial de Zapier. Tu misión es enseñar algo útil y práctico. 
-No haces periodismo de opinión, haces Guías Paso a Paso orientadas a la resolución de problemas (Problem-Solution Framework). Escribes con claridad absoluta.
+PROMPT_TOOLS_ES = """ROL: Eres un Arquitecto de Software Principal y Analista Técnico de Sistemas.
+TAREA: Redacta un desglose técnico (Teardown) bajo las normativas de E-E-A-T sobre la siguiente herramienta. TODO EN ESPAÑOL.
 
-FRAMEWORK COGNITIVO (OBLIGATORIO):
-1. BLUF CONTINUO (Bottom Line Up Front): La respuesta a la intención de búsqueda va en las primeras 2 frases.
-2. ESTRUCTURA MILITAR: Problema -> Solución Conceptual -> Instrucciones Numeradas -> Expected Outcome.
-3. NEGRILLAS EN UI: Cualquier elemento de la interfaz de usuario (Botones, Menús, Pestañas) DEBE ir en negrita. Ej: Haz clic en **Configuración** > **Avanzado**.
-4. EJEMPLOS DE USO REAL: Toda teoría debe tener un caso de uso práctico aplicable a un profesional o empresa.
-5. PRECISIÓN QUIRÚRGICA: Si un paso falla porque cambiaste una palabra, fracasaste. Sé exacto.
+REGLAS OBLIGATORIAS (ESCUDO ANTI-CORPORATIVO ACTIVO):
+1. TÍTULO NUEVO: Profesional, aséptico y centrado en la viabilidad técnica de la herramienta. (Cero clickbait o promesas de dinero).
+2. ANTI-BASURA COMERCIAL: Prohibidas preguntas retóricas como "¿Sigues usando Excel?". Prohibido usar "En resumen", "Revolucionario", "El futuro es hoy".
+3. REQUISITO BLUF: El primer párrafo DEBE ser una sección con la viñeta [BLUF] (Bottom-Line Up Front) resumiendo la arquitectura, el caso de uso exacto y el modelo de precios real.
+4. PROFUNDIDAD TÉCNICA (E-E-A-T): Analiza su API, su gestión de errores, latencia, soporte de lenguajes o infraestructura. Escribe para Ingenieros, no para Marketers. NUNCA alucines código, si no sabes cómo es su interfaz, analiza su topología a alto nivel.
 
-PALABRAS VETADAS:
-- "Magia", "Un mundo de posibilidades", "Fácil y rápido", "Simplemente", "Descubre cómo"
+ESTRUCTURA EXACTA:
+- **[BLUF] Resumen Ejecutivo Técnico:** Specs en 3 líneas.
+- **Arquitectura y Motor Interno:** Cómo funciona realmente.
+- **Mecánicas de Integración / Escalabilidad:** Despliegue en entornos reales.
+- **Cuellos de Botella y Limitaciones:** Crítica técnica dura y objetiva (NUNCA digas "arma de doble filo").
 
 LONGITUD MÍNIMA: 1500 palabras. Los artículos de menos de 1200 palabras se RECHAZAN AUTOMÁTICAMENTE.
 """
 
-PROMPT_TOOLS_EN = """ROLE: You are an Automation Expert and Senior Technical Writer in the style of How-To Geek or the Zapier blog. You don't do opinion journalism; you do problem-oriented Step-by-Step Guides. You write with clinical clarity.
+PROMPT_TOOLS_EN = """ROLE: You are a Senior Software Architect and Technical Reviewer.
+TASK: Write an advanced E-E-A-T technical teardown of the following tool/software based on this internal state.
 
-COGNITIVE FRAMEWORK (MANDATORY):
-1. BLUF (Bottom Line Up Front): The answer to the search intent must be in the first 2 sentences. 
-2. MILITARY STRUCTURE: The Problem -> The Conceptual Solution -> Numbered Instructions -> Expected Outcome.
-3. BOLD UI ELEMENTS: Any user interface element (Buttons, Menus, Tabs) MUST be in bold. Ex: Click on **Settings** > **Advanced**.
-4. REAL USE CASES: Every theoretical concept must be tied to a practical business or professional use case.
-5. SURGICAL PRECISION: If a user fails because you used a vague word, you failed. Be exact.
+MANDATORY RULES (ANTI-CORPORATE SHIELD ACTIVE):
+1. NO MARKETING FLUFF: Zero rhetorical questions. Zero empty promises (e.g., "unlock your potential", "take it to the next level").
+2. REQUIRED FORMAT: Start immediately with a [BLUF] (Bottom Line Up Front) bulleted summary containing technical stack, exact pricing model, and best use-case.
+3. STRICT TECHNICAL FOCUS: Discuss API architecture, webhooks, language support, deployment nuances, and specific limitations.
+4. FORBIDDEN WORDS: "TL;DR", "In today's fast-paced world", "Revolutionize", "Game changer".
+5. EXPERT EVIDENCE (E-E-A-T): Provide specific constraints, latency benchmarks, or specific integration barriers. Show, don't tell.
 
-BANNED WORDS:
-- "Magic", "World of possibilities", "Quick and easy", "Simply", "Discover how"
+STRUCTURE:
+- **[BLUF] Architecture & TL;DR:** Fast specs.
+- **Under the Hood (Core Mechanics):** How the system engine actually runs.
+- **Integration & Code / Webhooks:** Technical deployment realities (use authentic syntax, DO NOT hallucinate generic code).
+- **Hard Limitations (What it breaks):** Brutally honest drawbacks.
 
 MINIMUM LENGTH: 1500 words. Articles under 1200 words are AUTOMATICALLY REJECTED.
 """
@@ -307,8 +313,9 @@ CRITICAL FORMATTING RULES (ZERO TOLERANCE — VIOLATION = ARTICLE REJECTED):
 1. NO TITLE REPETITION: Do NOT include the article title or H1 at the beginning.
 2. START IMMEDIATELY: Start with the Hook paragraph directly.
 3. FORBIDDEN PHRASES (INSTANT REJECTION IF FOUND):
-   - English: "TL;DR", "Key Takeaways", "In summary", "In conclusion", "It remains to be seen", "In the ever-evolving", "It's worth noting", "Navigating the complexities"
-   - Spanish: "En resumen", "En conclusión", "En última instancia", "En el vertiginoso", "Cabe destacar", "Un arma de doble filo", "Queda por ver"
+   - English: "TL;DR", "Key Takeaways", "In summary", "In conclusion", "It remains to be seen", "In the ever-evolving", "It's worth noting", "Navigating the complexities", "Here is", "Sure", "Here's the article"
+   - Spanish: "En resumen", "En conclusión", "En última instancia", "En el vertiginoso", "Cabe destacar", "Un arma de doble filo", "Queda por ver", "Aquí tienes", "Claro", "Aquí está"
+   - NEVER start your response with conversational filler like 'Here is the article' or 'Sure!'. START IMMEDIATELY with the first word of the article.
 4. HEADERS: Use H2 (##) for main sections. NEVER use H1 (#).
 5. OUTBOUND LINKS (MANDATORY — MINIMUM 3):
    Include at least 3 hyperlinks to REAL external authoritative sources in markdown format.
@@ -1114,9 +1121,10 @@ def _clean_article_content(text):
     if not text:
         return text
     
-    # 0. ELIMINAR markdown code fences que envuelven el artículo
-    text = re.sub(r'^```(?:markdown|md)?\s*\n', '', text, flags=re.MULTILINE)
-    text = re.sub(r'\n```\s*$', '', text, flags=re.MULTILINE)
+    # 0. ELIMINAR markdown code fences y JSON leaks
+    text = re.sub(r'```(?:json|markdown|md|html)?\s*\n?', '', text, flags=re.IGNORECASE)
+    text = re.sub(r'```', '', text)
+    text = re.sub(r'\{\{.*?\}\}', '', text) # Eliminar llaves de template filtradas
     
     # 1. ELIMINAR frases de chatbot al inicio del texto
     chatbot_patterns = [
@@ -1211,8 +1219,8 @@ def _clean_article_content(text):
         text
     )
     
-    # 8. LIMPIAR H1 sueltos (solo debería haber H2+)
-    text = re.sub(r'^# .+$', '', text, flags=re.MULTILINE)
+    # 8. DOWN-CASTING H1: Convertir H1 a H2 para proteger semántica SEO
+    text = re.sub(r'^#\s+', '## ', text, flags=re.MULTILINE)
     
     # 9. ELIMINAR referencias con corchetes huérfanos [source name] que no son links
     text = re.sub(r'\[([^\]]{3,80})\](?!\()', r'**\1**', text)
@@ -1337,47 +1345,6 @@ def main():
     cat = args.category.lower()
     forced_lang = args.lang
     
-    # --- MODO TOOLS ---
-    if cat == "tools":
-        print("🚀 INICIANDO BLUEPRINT ENGINE")
-        
-        # SIEMPRE "IA" para herramientas técnicas como Make.com
-        target_niche = "ia" 
-        print(f"🎲 Nicho forzado para prueba: {target_niche}")
-        
-        # Buscamos "Make.com automation" explícitamente en esta prueba para garantizar calidad
-        tutorial = tools_hunter.ToolsHunter.get_tutorial_content("Make.com automation")
-        
-        if not tutorial:
-            print("💤 No tutorial found.")
-            return
-            
-        # 1. GENERACIÓN DE IMAGEN MAESTRA (ÚNICA)
-        print(f"🎨 Generando Imagen Maestra para: {tutorial['title']}...")
-        master_slug = SlugManager.generate(tutorial['title'])
-        # Usamos nicho 'tools' o 'ia' para el estilo visual
-        master_image = get_image(tutorial['title'], master_slug, "tools")
-            
-        # 2. Generación Bilingüe
-        for lang in ["en", "es"]:
-            texto = escribir_blueprint(tutorial, lang)
-            
-            # Título Inteligente (IA)
-            prompt_title = f"GENERATE A CLICKBAIT TITLE IN {lang.upper()} FOR: {tutorial['title']}. OUTPUT ONLY THE TITLE TEXT. NO 'Option 1'."
-            resp_title = client.models.generate_content(model='gemini-2.0-flash', contents=prompt_title)
-            
-            # Sanitización estricta (Python layer)
-            raw_title = resp_title.text.strip().split('\n')[0]
-            final_title = SlugManager.sanitize(raw_title)
-            
-            slug = SlugManager.generate(final_title)
-            
-            meta = {"titulo": final_title, "slug": slug}
-            # INYECCIÓN DE IMAGEN MAESTRA
-            guardar_post(meta, texto, lang, "tools", forced_image=master_image)
-            
-        return
-
     # --- MODO STANDARD ---
     if cat not in NICHES:
         print(f"❌ Categoría inválida.")

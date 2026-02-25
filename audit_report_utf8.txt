@@ -1,0 +1,106 @@
+﻿DEATH_ROW_COUNT: 22
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\crypto\why-is-layerzero-trending-today-in-crypto.md
+SCORES -> SEO: 10/10, E-E-A-T: 4/10, GEO: 10/10, Value: 4/10
+  - Lenguaje corporativo/basura detectado: double-edged sword, game-changer
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\crypto\why-is-venice-token-trending-today-in-crypto-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 7/10, Value: 2/10
+  - Fuga del prompt de IA o sintaxis de template descubierta: here is
+  - Parrafos excesivamente largos detectados (>4 oraciones)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\fitness\alma-college-kinesiology-hypertrophy-longevity-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - Contiene H1 en el cuerpo (penaliza SEO)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\fitness\kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alma-college-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 1/10, GEO: 7/10, Value: 1/10
+  - Lenguaje corporativo/basura detectado: game-changer
+  - Fuga del prompt de IA o sintaxis de template descubierta: here is
+  - Parrafos excesivamente largos detectados (>4 oraciones)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\fitness\zone-2-training-overhyped-truth-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 10/10, Value: 2/10
+  - Fuga del prompt de IA o sintaxis de template descubierta: here is
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\el-ano-en-que-la-realidad-virtual-derroto-al-mund.md
+SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 7/10, Value: 2/10
+  - Fuga del prompt de IA o sintaxis de template descubierta: here is
+  - Parrafos excesivamente largos detectados (>4 oraciones)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\ia\el-futuro-no-te-gustara-verdades-incomodas-de-2026.md
+SCORES -> SEO: 1/10, E-E-A-T: 2/10, GEO: 7/10, Value: 2/10
+  - Contiene H1 en el cuerpo (penaliza SEO)
+  - Fuga del prompt de IA o sintaxis de template descubierta: here is
+  - Parrafos excesivamente largos detectados (>4 oraciones)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\tools\makecom-domination-in-2-hours-2026-beginners-guide-no-coding.md
+SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 7/10, Value: 2/10
+  - Fuga del prompt de IA o sintaxis de template descubierta: {{, }}, ```json
+  - Parrafos excesivamente largos detectados (>4 oraciones)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\tools\makecom-masterclass-go-from-zero-to-hero-in-2-hours-2025-guide.md
+SCORES -> SEO: 5/10, E-E-A-T: 1/10, GEO: 7/10, Value: 1/10
+  - Lenguaje corporativo/basura detectado: magic
+  - Fuga del prompt de IA o sintaxis de template descubierta: {{, }}, ```json
+  - Parrafos excesivamente largos detectados (>4 oraciones)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\tools\master-makecom-in-2-hours-2026-beginners-guide-your-boss-will-beg-you.md
+SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 7/10, Value: 2/10
+  - Fuga del prompt de IA o sintaxis de template descubierta: ```json
+  - Parrafos excesivamente largos detectados (>4 oraciones)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\youtube\nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 7/10, Value: 2/10
+  - Fuga del prompt de IA o sintaxis de template descubierta: here is
+  - Parrafos excesivamente largos detectados (>4 oraciones)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\en\youtube\subbd-token-ai-creator-economy-en.md
+SCORES -> SEO: 5/10, E-E-A-T: 1/10, GEO: 7/10, Value: 1/10
+  - Lenguaje corporativo/basura detectado: game-changer
+  - Fuga del prompt de IA o sintaxis de template descubierta: here is
+  - Parrafos excesivamente largos detectados (>4 oraciones)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\about.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 2/10
+  - Spanglish detectado (palabras en espanol en articulo EN)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\contact.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 2/10
+  - Spanglish detectado (palabras en espanol en articulo EN)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\privacy.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 2/10
+  - Spanglish detectado (palabras en espanol en articulo EN)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\crypto\bitcoin-metricas-on-chain-caida.md
+SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 7/10, Value: 2/10
+  - Fuga del prompt de IA o sintaxis de template descubierta: here is
+  - Parrafos excesivamente largos detectados (>4 oraciones)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\fitness\kinesiologia-ciencias-salud-alma-college-hipertrofia-longevidad.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - Contiene H1 en el cuerpo (penaliza SEO)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\apocalipsis-saas-recompras-accionarias.md
+SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 10/10, Value: 2/10
+  - Fuga del prompt de IA o sintaxis de template descubierta: here is
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\mercados-desatan-el-caos-la-falsa-calma-post-elecc.md
+SCORES -> SEO: 10/10, E-E-A-T: 10/10, GEO: 2/10, Value: 10/10
+  - Muro de texto continuo sin vinetas (Cero formato [BLUF]/GEO)
+  - Parrafos excesivamente largos detectados (>4 oraciones)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\ia\saas-apocalipsis-ia-software-tradicional.md
+SCORES -> SEO: 5/10, E-E-A-T: 1/10, GEO: 10/10, Value: 1/10
+  - Lenguaje corporativo/basura detectado: magic
+  - Fuga del prompt de IA o sintaxis de template descubierta: here is
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\tools\makecom-dominado-en-2-horas-guia-definitiva-para-principiantes-2025.md
+SCORES -> SEO: 5/10, E-E-A-T: 2/10, GEO: 7/10, Value: 2/10
+  - Fuga del prompt de IA o sintaxis de template descubierta: aqui tienes
+  - Parrafos excesivamente largos detectados (>4 oraciones)
+
+FILE: c:\Users\usuario\Desktop\Bloggs\content\es\youtube\subbd-token-ia-revolucion-economia-creador.md
+SCORES -> SEO: 5/10, E-E-A-T: 10/10, GEO: 10/10, Value: 10/10
+  - Contiene H1 en el cuerpo (penaliza SEO)

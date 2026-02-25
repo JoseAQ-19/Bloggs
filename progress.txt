@@ -8,7 +8,15 @@
 - [x] Inyección de variables `OPENROUTER_SCOUT_KEY` y `HF_SCOUT_API_KEY` a los 10 workflows `scout-*.yml`.
 - [x] Parche para `escribir_blueprint` -> Obligado a usar motores Omega/Zhipu para evitar traducciones defectuosas de Gemini.
 
+## 🚨 Triage y Refactorización Completada (Silo Tools)
+- [x] Construcción del ecosistema Actions (`scout-tools` y `writer-tools`) para integrarse a la cascada V4 con HackerNews y Google News (adiós TheHunter hardcodeado).
+- [x] Inyectado soporte y credenciales de **NotebookLM (MCP Server)** al `writer-tools` para analizar en profundidad los tutoriales generados.
+- [x] Refactorización de fuente de Exa (`tools_hunter.py`) para consumir documentación oficial.
+- [x] Sustitución completa de Prompts en `prompts_tools.py` con Anti-Corporate Shield y requisitos estrictos E-E-A-T y [BLUF].
+
 ## 🟡 Tareas Pendientes Inmediatas (Auditoría de Fidelidad)
+- [x] Ejecución de Content Auditor: Eliminación de la "Death Row" (22 archivos problemáticos o robotizados).
+- [x] Implementación de 4 Escudos de Auto-Healing en Main.py (Anti-Chatbot filler, H1 Stripper, Bloqueo Regex Markdown).
 - [ ] Test E2E de Zhipu GLM-4.7-FlashX en Español para confirmar eliminación de "ghost articles en inglés".
 - [ ] Personalizar "System Prompts" por motor (diferenciar Llama y GLM en el código).
 - [ ] Sitemap SEO optimizado (Generar plantillas `layouts/sitemap.xml` exclusivas en vez del base de Hugo).
