@@ -632,7 +632,7 @@ Write a structured research brief with:
 4. Source URLs for every major claim
 
 Include markdown hyperlinks [text](url) for every source you reference.
-Do NOT fabricate URLs — only include sources you actually found.
+CRITICAL: Do NEVER output internal Google Search links (like vertexaisearch.cloud.google.com). You MUST extract and provide the direct, ORIGINAL public URL to the website (e.g. https://www.bloomberg.com/..., https://www.nature.com/articles/...). Do NOT fabricate URLs — only include REAL public sources you actually found. If you cannot find a public URL, include the plaintext source name.
 """
             
             google_search_tool = types.Tool(google_search=types.GoogleSearch())
