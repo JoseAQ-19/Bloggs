@@ -17,6 +17,7 @@
 ## 🟡 Tareas Pendientes Inmediatas (Auditoría de Fidelidad)
 - [x] Ejecución de Content Auditor: Eliminación de la "Death Row" (22 archivos problemáticos o robotizados).
 - [x] Implementación de 4 Escudos de Auto-Healing en Main.py (Anti-Chatbot filler, H1 Stripper, Bloqueo Regex Markdown).
+- [x] **Protocolo Guante Blanco completado**: 0% enlaces rotos (404/500 eliminados), E-E-A-T activado (NovumWorld Editorial Team), JSON-LD optimizado. Lista para Search Console.
 - [ ] Test E2E de Zhipu GLM-4.7-FlashX en Español para confirmar eliminación de "ghost articles en inglés".
 - [ ] Personalizar "System Prompts" por motor (diferenciar Llama y GLM en el código).
 - [ ] Sitemap SEO optimizado (Generar plantillas `layouts/sitemap.xml` exclusivas en vez del base de Hugo).
