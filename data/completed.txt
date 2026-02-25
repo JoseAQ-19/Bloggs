@@ -54,3 +54,4 @@ ia: Anthropic's Claude Code: Hype or Revolution? A 2026 Reality Check for Advanc
 tools: The Hidden Cost of AI Productivity: Why Superhuman's Acquisition of Rows Could Backfire
 youtube: Therians en España: ¿Una moda viral o una campaña de odio? La verdad detrás del pánico de la derecha.
 youtube: Nikocado Avocado Drama: Inside His Latest Controversial Meltdown (What Went Wrong?)
+crypto: ETFs en jaque: ¿Por qué la caída de Bitcoin a $63,000 revela una grieta en la demanda institucional?
