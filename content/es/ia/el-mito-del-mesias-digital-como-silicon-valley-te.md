@@ -15,7 +15,8 @@ title: 'El Mito del Mesías Digital: Cómo Silicon Valley Te Roba Mientras Te Ve
 type: ia
 remastered: true
 
-translationKey: "c474513d-c871-006a-d415-453e29c35419"---
+translationKey: "c474513d-c871-006a-d415-453e29c35419"
+---
 
 Silicon Valley: la ciudadela de la codicia, no de la innovación. Presentada como el epicentro de un futuro brillante, esta región es, en realidad, una fábrica de pesadillas orwellianas donde nuestros datos son la moneda de cambio y la desigualdad se perpetúa a escala industrial. Olvídense de soluciones globales; lo que Silicon Valley realmente está fabricando es una adicción digital que nos despoja de nuestra autonomía a cambio de promesas vacías.
 

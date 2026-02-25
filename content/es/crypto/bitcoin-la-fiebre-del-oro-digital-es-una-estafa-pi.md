@@ -12,7 +12,8 @@ title: 'Bitcoin: La Fiebre del Oro Digital es una Estafa Piramidal 2.0'
 type: crypto
 remastered: true
 
-translationKey: "72c308aa-833a-4cef-ba1a-47995ecda89b"---
+translationKey: "72c308aa-833a-4cef-ba1a-47995ecda89b"
+---
 
 Bitcoin: ¿Revolución Financiera o Esquema Ponzi Digital?
 

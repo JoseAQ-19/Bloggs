@@ -14,7 +14,8 @@ title: ¿Nos Distrae la IA Mientras el Mundo se Derrumba?
 type: ia
 remastered: true
 
-translationKey: "c176ece5-7640-9dc6-056b-6944d6e97aeb"---
+translationKey: "c176ece5-7640-9dc6-056b-6944d6e97aeb"
+---
 
 ¿Inteligencia Artificial? Más bien, Estupidez Artificial Corporativa.
 

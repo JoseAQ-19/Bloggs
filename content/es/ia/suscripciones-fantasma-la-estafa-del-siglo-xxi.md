@@ -14,7 +14,8 @@ title: 'Suscripciones Fantasma: La Estafa del Siglo XXI'
 type: ia
 remastered: true
 
-translationKey: "df08e13d-20d5-94cb-6401-614100a25951"---
+translationKey: "df08e13d-20d5-94cb-6401-614100a25951"
+---
 
 ¿Pensando que ese cargo de 9,99€ en tu banco es un error? No lo es. Es un robo a plena luz del día orquestado por la "economía de la suscripción", una estafa piramidal digital que prospera con tu pereza y falta de atención.
 

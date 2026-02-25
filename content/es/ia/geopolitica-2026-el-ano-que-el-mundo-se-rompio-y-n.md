@@ -12,7 +12,8 @@ title: 'Geopolítica 2026: El Año Que El Mundo Se Rompió (Y Nadie Lo Vio Venir
 type: ia
 remastered: true
 
-translationKey: "3c945974-5dad-a73a-db37-57ea3e70ed09"---
+translationKey: "3c945974-5dad-a73a-db37-57ea3e70ed09"
+---
 
 El año 2026 no fue un cataclismo, sino la confirmación de una lenta metástasis. El mundo, supuestamente interconectado, se reveló como un conjunto de intereses egoístas, propulsado por una geopolítica despiadada y una tecnología convertida en herramienta de control. ¿Sorprendidos? No deberían estarlo.
 

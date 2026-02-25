@@ -14,7 +14,8 @@ title: 'Deuda Global 2026: El Subprime que Nadie Vio Venir'
 type: ia
 remastered: true
 
-translationKey: "681df165-aa40-9221-260b-6b0906227d1c"---
+translationKey: "681df165-aa40-9221-260b-6b0906227d1c"
+---
 
 El reloj financiero marca el año 2026, y la pregunta no es si habrá turbulencias, sino la magnitud del choque. Olvídense de los escenarios moderados y las "posibles" recesiones. Estamos al borde de una catástrofe económica orquestada por la irresponsabilidad gubernamental y la euforia tecnológica. El problema no es un "posible" punto de inflexión, sino una falla tectónica que se abre bajo nuestros pies.
 

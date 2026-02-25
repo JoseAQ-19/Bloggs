@@ -14,7 +14,8 @@ title: 'El Mito del Dato: Cómo la Obsesión por las Métricas Nos Está Destruy
 type: ia
 remastered: true
 
-translationKey: "b31e23d8-c1e9-9280-1b72-062f50866788"---
+translationKey: "b31e23d8-c1e9-9280-1b72-062f50866788"
+---
 
 No se equivoquen: la obsesión enfermiza por los datos, disfrazada de progreso, es el camino más rápido hacia un futuro distópico donde la individualidad es un recuerdo lejano. La cantinela del *big data* como panacea para todos los males es una estafa, una cortina de humo para justificar la manipulación y el control.
 

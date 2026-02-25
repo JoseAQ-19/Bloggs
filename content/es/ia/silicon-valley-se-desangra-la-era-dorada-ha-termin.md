@@ -12,7 +12,8 @@ title: 'Silicon Valley se Desangra: La Era Dorada ha Terminado (Y Nadie lo Admit
 type: ia
 remastered: true
 
-translationKey: "fb00fcca-670d-9c54-e8fe-c63c7090fb04"---
+translationKey: "fb00fcca-670d-9c54-e8fe-c63c7090fb04"
+---
 
 Silicon Valley en Crisis: ¿El Fin de una Era Dorada que Nadie Quiere Ver?
 

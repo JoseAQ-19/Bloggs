@@ -12,7 +12,8 @@ title: 'El Metaverso ha Muerto: Ahora Toca Reírnos'
 type: ia
 remastered: true
 
-translationKey: "b72d9b4b-61f9-35c3-3045-a4d3ea3e9185"---
+translationKey: "b72d9b4b-61f9-35c3-3045-a4d3ea3e9185"
+---
 
 ¿El metaverso ha muerto? ¡Por supuesto que sí, y era hora!  La autoproclamada "próxima gran cosa" impulsada por el lavado de cara de Facebook a Meta ha resultado ser exactamente lo que todos los escépticos predijimos: un pozo sin fondo de dinero sin valor real.
 

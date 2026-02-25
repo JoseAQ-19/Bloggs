@@ -12,7 +12,8 @@ title: 'Geopolítica 2026: El Año en que la Realidad Superó a la Distopía'
 type: ia
 remastered: true
 
-translationKey: "55a25c54-5ad7-e6b4-b4ea-ecab46e30eb8"---
+translationKey: "55a25c54-5ad7-e6b4-b4ea-ecab46e30eb8"
+---
 
 ¿Geopolítica como póker? Absurdo. La geopolítica siempre ha sido un juego de poder, solo que ahora los eufemismos se han desvanecido y la verdad desnuda escuece. No estamos ante un "nuevo orden", sino ante la implosión del viejo, uno que siempre fue una farsa revestida de "valores" occidentales.
 

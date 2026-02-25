@@ -14,7 +14,8 @@ title: 'El Capitalismo Zombi: Anatomía de un Sistema Fallido'
 type: ia
 remastered: true
 
-translationKey: "39c1a585-7958-b6bf-ac9c-247da7fd122b"---
+translationKey: "39c1a585-7958-b6bf-ac9c-247da7fd122b"
+---
 
 ¿Crisis económica? No, es el lento suicidio del capitalismo occidental.
 

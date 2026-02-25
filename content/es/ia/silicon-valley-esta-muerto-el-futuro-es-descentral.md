@@ -12,7 +12,8 @@ title: 'Silicon Valley Está Muerto: El Futuro es Descentralización o Barbarie'
 type: ia
 remastered: true
 
-translationKey: "84fe32a3-1912-0404-1ffd-29ff839b55d5"---
+translationKey: "84fe32a3-1912-0404-1ffd-29ff839b55d5"
+---
 
 Silicon Valley ha muerto. Que nadie se engañe: su descomposición no es una crisis pasajera, sino el resultado lógico de un modelo intrínsecamente depredador. La utopía californiana, siempre una quimera para ingenuos, ha mutado en una distopía de vigilancia y control donde unos pocos magnates tecnológicos se erigen como los nuevos señores feudales. La pregunta ya no es si el modelo actual es sostenible, sino si la humanidad sobrevivirá a sus excesos.
 

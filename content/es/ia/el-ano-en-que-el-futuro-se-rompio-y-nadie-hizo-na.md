@@ -12,7 +12,8 @@ title: ': El Año en que el Futuro se Rompió (Y Nadie Hizo Nada)'
 type: ia
 remastered: true
 
-translationKey: "440a9a84-7e54-8ce8-3301-fbfe60ba9b72"---
+translationKey: "440a9a84-7e54-8ce8-3301-fbfe60ba9b72"
+---
 
 El espejismo chileno: ¿Por qué aplaudimos la decadencia?
 

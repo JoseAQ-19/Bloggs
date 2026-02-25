@@ -14,7 +14,8 @@ title: 'Neutralidad Cero: La Gran Estafa de la Información Objetiva'
 type: ia
 remastered: true
 
-translationKey: "c65e79e0-1f8f-ac48-6814-f5f596233b9e"---
+translationKey: "c65e79e0-1f8f-ac48-6814-f5f596233b9e"
+---
 
 La supuesta "neutralidad" periodística: una farsa peligrosa.
 

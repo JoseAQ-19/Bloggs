@@ -8,7 +8,8 @@ tags: ["Novum Tools"]
 categories: ["tools"]
 type: "tools"
 language: "es"
-translationKey: "1710e3ae-ccb7-4aa9-9c96-fd3e0e41fa51"---
+translationKey: "1710e3ae-ccb7-4aa9-9c96-fd3e0e41fa51"
+---
 
 ![¡Make.com en 2 HORAS! Domina la Automatización en 2026 (Guía Definitiva para Principiantes)](/images/master-makecom-in-2-hours-complete-beginners-guide-for-2026.jpg)
 

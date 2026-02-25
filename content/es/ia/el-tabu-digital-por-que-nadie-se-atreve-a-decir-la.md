@@ -14,7 +14,8 @@ title: 'El Tabú Digital: Por Qué Nadie Se Atreve a Decir la Verdad'
 type: ia
 remastered: true
 
-translationKey: "feb2f128-6129-6f8c-f42e-c385bc6ff601"---
+translationKey: "feb2f128-6129-6f8c-f42e-c385bc6ff601"
+---
 
 ¿Por qué nadie se atreve a decir la verdad sobre el control digital? No es por falta de inteligencia, sino por miedo a las represalias de un sistema diseñado para premiar la sumisión. Vivimos en una jaula invisible construida por algoritmos, y la llave no está en nuestras manos.
 

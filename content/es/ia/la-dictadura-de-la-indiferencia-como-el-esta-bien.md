@@ -12,7 +12,8 @@ title: 'La Dictadura de la Indiferencia: Cómo el Está Bien Nos Está Destruyen
 type: ia
 remastered: true
 
-translationKey: "68d5cfe0-9b5a-4637-c6ba-b694a48151d8"---
+translationKey: "68d5cfe0-9b5a-4637-c6ba-b694a48151d8"
+---
 
 Chile se enfrenta a una crisis silenciosa, una erosión de la participación cívica y la creencia en el sistema democrático. El fenómeno, denominado la "dictadura de la indiferencia", no implica un golpe militar ni la supresión violenta de la disidencia, sino un desapego gradual y peligroso de los ciudadanos hacia la política y el futuro de su país. La indiferencia, personificada en la frase "da lo mismo" (todo da igual), se ha convertido en un problema estructural que amenaza con socavar los cimientos de la sociedad chilena.
 

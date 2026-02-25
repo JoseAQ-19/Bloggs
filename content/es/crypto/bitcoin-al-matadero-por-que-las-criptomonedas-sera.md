@@ -14,7 +14,8 @@ title: 'Bitcoin al matadero: Por qué las criptomonedas serán las primeras en c
 type: crypto
 remastered: true
 
-translationKey: "4f9ca972-8637-0b18-9e70-0165d71cc95f"---
+translationKey: "4f9ca972-8637-0b18-9e70-0165d71cc95f"
+---
 
 La fiesta criptográfica terminó. El confeti está pegajoso, la resaca es monumental, y Bitcoin, ese rey Midas venidos a menos, huele a cadáver financiero. ¿Otro "invierno cripto"? No se engañen. Esto no es una simple purga de mercado, es el preámbulo de la extinción.
 

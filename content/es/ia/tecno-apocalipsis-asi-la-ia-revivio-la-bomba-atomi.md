@@ -14,7 +14,8 @@ title: Tecno-Apocalipsis! Así la IA Revivió la Bomba Atómica
 type: ia
 remastered: true
 
-translationKey: "598962c5-2988-351c-4a8f-ca0bd919ac7c"---
+translationKey: "598962c5-2988-351c-4a8f-ca0bd919ac7c"
+---
 
 El sueño húmedo de un tecno-optimista: la IA al mando del arsenal nuclear. Pero, ¿estamos jugando a la ruleta rusa con el futuro de la humanidad? Un reciente estudio que pretende ser una advertencia, es en realidad una confirmación de lo obvio: delegar decisiones existenciales a algoritmos entrenados con datos sesgados es una receta para el desastre.
 

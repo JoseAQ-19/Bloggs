@@ -14,7 +14,8 @@ title: 'Silicon Valley: La Burbuja que Nunca Explotó (Pero Debería)'
 type: ia
 remastered: true
 
-translationKey: "914679c7-080b-d0a2-ee3a-afd555ea95bf"---
+translationKey: "914679c7-080b-d0a2-ee3a-afd555ea95bf"
+---
 
 Silicon Valley: La Fábrica de Ilusiones. No se equivoquen, el valle ya no es sinónimo de innovación, sino de codicia desmedida y miopía estratégica. La reciente caída del Silicon Valley Bank (SVB) no fue un mero tropiezo, sino la premonición de una catástrofe inminente. La pregunta ya no es si este castillo de naipes se derrumbará, sino cuán estrepitosamente lo hará.
 

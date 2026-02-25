@@ -12,7 +12,8 @@ title: El Metaverso Está Muerto (Y Nadie Se Atreve a Decirlo)
 type: ia
 remastered: true
 
-translationKey: "6bfcadf8-6e2a-1de1-257b-35141262d9f5"---
+translationKey: "6bfcadf8-6e2a-1de1-257b-35141262d9f5"
+---
 
 El metaverso: de burbuja especulativa a herramienta industrial... ¿pero realmente útil?
 

@@ -19,7 +19,8 @@ title: 'Metaverso: La Estafa Piramidal Definitiva (Y Por Qué Deberías Ignorarl
 type: crypto
 remastered: true
 
-translationKey: "53102051-cfa5-ac0d-1dee-23f815be2151"---
+translationKey: "53102051-cfa5-ac0d-1dee-23f815be2151"
+---
 
 El Metaverso. Esa tierra prometida de avatares y mundos digitales perpetuos. ¡Una broma pesada! Lo que nació como un espejismo tecnológico ahora revela su verdadera forma: una burbuja inflada con humo de marketing y el dinero ingenuo de inversores incautos. La realidad virtual, para variar, se ha quedado a medio camino entre lo ridículo y lo inútil.
 

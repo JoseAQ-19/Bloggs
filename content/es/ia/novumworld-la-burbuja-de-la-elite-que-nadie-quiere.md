@@ -14,7 +14,8 @@ title: 'NOVUMWORLD: La burbuja de la élite que nadie quiere pinchar'
 type: ia
 remastered: true
 
-translationKey: "b962a6b3-fcd9-9847-7cca-8bc55ff595cc"---
+translationKey: "b962a6b3-fcd9-9847-7cca-8bc55ff595cc"
+---
 
 NOVUMWORLD: La distopía tecnológica que se vende como paraíso
 

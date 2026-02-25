@@ -18,7 +18,8 @@ title: ¿Metaverso Zombie? VR, Cripto y el Apocalipsis Tech que Nadie Quiere Ver
 type: ia
 remastered: true
 
-translationKey: "e55e3eca-5515-f2b1-7c36-0b52d2b74416"---
+translationKey: "e55e3eca-5515-f2b1-7c36-0b52d2b74416"
+---
 
 El Metaverso: un fraude desde su concepción. La grandilocuente promesa de un mundo virtual inmersivo, orquestada por la desesperada metamorfosis de Facebook a Meta, no solo ha fracasado, sino que se ha revelado como una herramienta de vigilancia implacable, latente y lista para devorar la privacidad y la autonomía que nos quedan.
 
