@@ -10,8 +10,13 @@ import uuid
 import glob
 from datetime import datetime, timedelta
 import unicodedata
+import logging
+import hashlib
 from dotenv import load_dotenv
 from openai import OpenAI
+
+# Configuración de Logging
+logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 
 # Cargar variables de entorno (Prioridad .env)
 load_dotenv()
@@ -580,7 +585,7 @@ def _call_en_engine(prompt_text):
             else:
                 print("   ⚠️ GLM-4.5-Air respuesta vacía o muy corta. Activando fallback...")
         except Exception as e:
-            print(f"   ⚠️ GLM-4.5-Air error: {e}. Activando fallback Llama...")
+            logging.warning(f"GLM-4.5-Air error: {e}. Activando fallback Llama...", exc_info=True)
 
     # --- INTENTO 2: OpenRouter / Llama 3.3 70B (Fuerza Literaria) ---
     if or_key:
@@ -603,7 +608,7 @@ def _call_en_engine(prompt_text):
             else:
                 print("   ⚠️ Llama respuesta vacía. Cayendo a Gemini de emergencia...")
         except Exception as e:
-            print(f"   ⚠️ Llama-3.3-70B error: {e}. Cayendo a Gemini de emergencia...")
+            logging.warning(f"Llama-3.3-70B error: {e}. Cayendo a Gemini de emergencia...", exc_info=True)
     else:
         print("   ⚠️ OPENROUTER_API_KEY no configurada. Cayendo a Gemini de emergencia...")
 
@@ -989,7 +994,7 @@ CRITICAL RULES:
                     resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
                     resultado = resp.text.strip()
             except Exception as e:
-                print(f"   ⚠️ GLM-4.7-FlashX error: {e}. Cayendo a Gemini de emergencia...")
+                logging.warning(f"GLM-4.7-FlashX error: {e}. Cayendo a Gemini de emergencia...", exc_info=True)
                 resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
                 resultado = resp.text.strip()
         else:
@@ -1014,98 +1019,6 @@ CRITICAL RULES:
 
     word_count_draft = len(resultado.split()) if resultado else 0
     print(f"   📊 [Fase 2/3] Borrador: {word_count_draft} palabras")
-
-    # ============================================================
-    # FASE 3: EDITOR JEFE / SANITIZADOR — Filtro final anti-IA
-    # ============================================================
-    print(f"   🧹 [Fase 3/3] Editor Jefe: Sanitización final...")
-    
-    sanitize_prompt = f"""ACT AS: Senior copy editor at Autoblog / Car and Driver. You enforce the Autoblog house style mercilessly. You are the LAST line of defense.
-
-TASK: Clean and reformat this article draft to match Autoblog's exact editorial standard. Return the final Markdown ready for publication.
-
-ARTICLE DRAFT:
-{resultado}
-
-AUTOBLOG HOUSE STYLE CHECKLIST (apply ALL):
-
-1. OPENING (first lines of the article):
-   - The article MUST start with 1-2 sentences stating the core news with a hard fact. No fluff, no preamble.
-   - DELETE any AI phrases: "Aquí está", "Here is", "Sure", "Claro", "Let me", "Aquí tienes", "I'll", "Below is".
-   - Immediately after the opening sentence(s), there MUST be 3 bullet points (using *) summarizing the key facts.
-   - These 3 bullets must NOT have a header like "## Key Takeaways" or "## Puntos Clave". They appear bare, right after the intro paragraph, before the first ## H2 section.
-   - If a "## Key Takeaways" or "## Puntos Clave" header exists, REMOVE the header but KEEP the bullets.
-
-2. PARAGRAPH LENGTH (CRITICAL):
-   - MAXIMUM 3 sentences per paragraph. Split any paragraph with 4+ sentences into two.
-   - Every paragraph must contain at least one specific data point (number, name, date, or quote).
-
-3. QUESTION MARKS — TOTAL ANNIHILATION:
-   - DELETE or REWRITE every sentence that contains "?" or "¿".
-   - Replace with a declarative statement that conveys the same information.
-   - Example: "Is this the end of SaaS?" → "This marks a turning point for the SaaS industry."
-
-4. LINKS:
-   - DELETE any URL containing "vertexaisearch.cloud.google.com". Replace with the source name in **bold**.
-   - DELETE any naked URL (a URL not wrapped in [Anchor Text](URL) format).
-   - All remaining links must use format: [descriptive text](https://real-url.com). Fix any malformed links.
-
-5. HEADERS:
-   - Remove any # (H1) headers. Only ## (H2) and ### (H3) allowed.
-   - Headers must be DESCRIPTIVE and SPECIFIC, never generic like "Section 1", "The Current Landscape", "Overview".
-   - {"Replace 'Editorial Verdict' with 'Nuestra lectura' or 'El veredicto'." if lang == "es" else ""}
-   - {"All headers MUST be in Spanish. Rewrite any English headers." if lang == "es" else "All headers must be in English."}
-
-6. ENTITY CHECK:
-   - Replace vague pronouns ("the company", "the expert", "el CEO") with actual names and titles.
-
-7. TABLE AND LIST CHECK (CRITICAL FORMATTING):
-   - ABSOLUTE PROHIBITION ON TABLES: Ensure there are NO Markdown tables anywhere. If a table exists, CONVERT IT into narrative paragraphs.
-   - LIST SPACING: Ensure there is an empty line between EVERY bullet point in the article. Bullets must never touch each other.
-
-8. CLOSING:
-   - The article must end with a punchy editorial statement (1-2 sentences max). Declarative. No questions.
-   - DELETE any "what do you think?" or audience engagement questions at the end.
-
-9. PRESERVE everything else: all valid links, formatting, data points, expert quotes, bold text.
-
-OUTPUT: The cleaned Markdown article matching Autoblog house style. NOTHING ELSE — no preamble."""
-
-    try:
-        if lang == "es":
-            # Sanitizador ES: Zhipu GLM con fallback Gemini
-            zhipu_key = os.getenv("ZHIPU_API_KEY")
-            if zhipu_key:
-                try:
-                    glm_client = OpenAI(
-                        api_key=zhipu_key,
-                        base_url="https://open.bigmodel.cn/api/paas/v4/"
-                    )
-                    resp = glm_client.chat.completions.create(
-                        model="glm-4.7-flashx",
-                        messages=[{"role": "user", "content": sanitize_prompt}],
-                        temperature=0.7,
-                        max_tokens=4096
-                    )
-                    clean_result = resp.choices[0].message.content.strip()
-                except Exception as e:
-                    print(f"   ⚠️ GLM sanitizer error: {e}. Usando Gemini...")
-                    sanitize_resp = client.models.generate_content(model='gemini-2.0-flash', contents=sanitize_prompt)
-                    clean_result = sanitize_resp.text.strip()
-            else:
-                sanitize_resp = client.models.generate_content(model='gemini-2.0-flash', contents=sanitize_prompt)
-                clean_result = sanitize_resp.text.strip()
-        else:
-            clean_result = _call_en_engine(sanitize_prompt)
-        
-        # Validar que el sanitizador no destruyó el artículo
-        if clean_result and len(clean_result.split()) > word_count_draft * 0.6:
-            resultado = clean_result
-            print(f"   ✅ [Fase 3/3] Sanitizado: {len(resultado.split())} palabras (de {word_count_draft})")
-        else:
-            print(f"   ⚠️ [Fase 3/3] Sanitizador devolvió texto demasiado corto. Conservando borrador original.")
-    except Exception as e:
-        print(f"   ⚠️ [Fase 3/3] Error en sanitización: {e}. Conservando borrador original.")
 
     # === POST-PROCESADO REGEX: Limpieza de artefactos residuales ===
     resultado = _clean_article_content(resultado)
@@ -1311,7 +1224,7 @@ def escribir_blueprint(tutorial_data, lang="en"):
                 if resultado and len(resultado) > 200:
                     return resultado
             except Exception as e:
-                print(f"   ⚠️ GLM-4.7-FlashX error en blueprint: {e}. Cayendo a Gemini...")
+                logging.warning(f"GLM-4.7-FlashX error en blueprint: {e}. Cayendo a Gemini...", exc_info=True)
         
         # Fallback Gemini si falla Zhipu o no hay key
         resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
@@ -1341,7 +1254,6 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
     date_str = (now - timedelta(minutes=backdate)).strftime("%Y-%m-%dT%H:%M:%S")
     # VALIDACIÓN BLINDADA: Translation Key jamás puede ser None
     if not translation_key or translation_key == "None":
-        import hashlib
         raw_hash = meta['titulo'].strip().lower()
         t_hash = hashlib.md5(raw_hash.encode('utf-8')).hexdigest()
         translation_key = f"{t_hash[:8]}-{t_hash[8:12]}-{t_hash[12:16]}-{t_hash[16:20]}-{t_hash[20:]}"
