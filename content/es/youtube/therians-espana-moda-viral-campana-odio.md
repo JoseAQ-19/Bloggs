@@ -1,5 +1,5 @@
 ---
-title: "Gastó 12.000€ Para Ser Un Border Collie: La Verdad Detrás De Los Therians Españoles"
+title: "Gastó 12.000€ para Ser un Border Collie: la Verdad Detrás de los Therians Españoles"
 date: 2026-02-25T13:30:05
 draft: false
 description: "Descubre la sorprendente historia del hombre que invirtió 12.000€ en convertirse en Border Collie. Exploramos el mundo de los therians españoles y su."
@@ -11,7 +11,7 @@ language: "es"
 translationKey: "53f4c4db-c796-41a0-8d87-d126ba7307eb"
 ---
 
-![Gastó 12.000€ Para Ser Un Border Collie: La Verdad Detrás De Los Therians Españoles](/images/therians-espana-moda-viral-campana-odio.jpg)
+![Gastó 12.000€ para Ser un Border Collie: la Verdad Detrás de los Therians Españoles](/images/therians-espana-moda-viral-campana-odio.jpg)
 
 Gastar 12.000€ para transformarse en un Border Collie puede parecer una extravagancia, pero es la punta del iceberg de un fenómeno creciente en España: la autoidentificación como *therian*. Esta tendencia, impulsada por redes sociales, está generando un intenso debate sobre identidad, salud mental y bienestar animal.
 
@@ -25,7 +25,7 @@ El movimiento *therian*, donde personas se identifican como animales no humanos,
 
 La emergencia de los *therians* en el panorama mediático español ha suscitado un debate polarizado. Algunos lo ven como una forma legítima de exploración de la identidad, similar a otras tribus urbanas que han existido a lo largo de la historia. Otros, sin embargo, lo consideran una señal de alarma, una manifestación de problemas de salud mental o, peor aún, una moda pasajera con consecuencias potencialmente negativas.
 
-Este debate se ha intensificado debido a la politización del tema. Sectores de la ultraderecha española han utilizado el fenómeno *therian* para alimentar su discurso anti-progresista, viéndolo como un síntoma de la decadencia moral y cultural de la sociedad. Esta instrumentalización política ha contribuido a la estigmatización de los *therians*, generando un clima de hostilidad y discriminación hacia este colectivo. ****El País**** informa cómo los extremistas utilizan este fenómeno viral para alimentar su retórica "anti-woke".
+Este debate se ha intensificado debido a la politización del tema. Sectores de la ultraderecha española han utilizado el fenómeno *therian* para alimentar su discurso anti-progresista, viéndolo como un síntoma de la decadencia moral y cultural de la sociedad. Esta instrumentalización política ha contribuido a la estigmatización de los *therians*, generando un clima de hostilidad y discriminación hacia este colectivo. **El País** informa cómo los extremistas utilizan este fenómeno viral para alimentar su retórica "anti-woke".
 
 La rápida propagación de información, a menudo no verificada, a través de las redes sociales ha exacerbado la situación. Vídeos generados por inteligencia artificial y noticias falsas han contribuido a la creación de un clima de pánico moral en torno a los *therians*, alimentando prejuicios y estereotipos negativos. Esta desinformación dificulta un debate racional y constructivo sobre el tema, impidiendo una comprensión más profunda de las motivaciones y experiencias de las personas que se identifican como *therians*.
 
@@ -37,13 +37,13 @@ La comunidad psicológica está dividida sobre cómo abordar el fenómeno *theri
 
 En contraste, otros psicólogos como Sandra, advierten que si una persona se identifica completamente como un animal, podría ser indicativo de un trastorno mental. Esta postura más cautelosa refleja la preocupación de algunos profesionales por la posibilidad de que la autoidentificación como animal sea una manifestación de problemas psicológicos más profundos.
 
-Andrea Anaya, otra psicóloga, sugiere que la falta de pertenencia puede llevar a las personas a identificarse con "cosas inexplicables". Esta perspectiva apunta a la posibilidad de que el fenómeno *therian* sea una respuesta a sentimientos de soledad, aislamiento o falta de conexión social. Según ****La Razón****, la falta de pertenencia puede llevar a identificarse en lugares inexplicables.
+Andrea Anaya, otra psicóloga, sugiere que la falta de pertenencia puede llevar a las personas a identificarse con "cosas inexplicables". Esta perspectiva apunta a la posibilidad de que el fenómeno *therian* sea una respuesta a sentimientos de soledad, aislamiento o falta de conexión social. Según **La Razón**, la falta de pertenencia puede llevar a identificarse en lugares inexplicables.
 
 Esta disparidad de opiniones entre los profesionales de la salud mental subraya la necesidad de una mayor investigación y un debate más profundo sobre el fenómeno *therian*. Es crucial desarrollar un enfoque equilibrado que respete la autonomía y la autoexpresión de las personas que se identifican como *therians*, al tiempo que se abordan posibles problemas de salud mental y se protege el bienestar animal.
 
 ## Más allá del disfraz: La advertencia de PACMA sobre los peligros de la interacción *therian*-animal y la necesidad de priorizar el bienestar animal.
 
-El Partido Animalista Contra el Maltrato Animal (PACMA) ha expresado su preocupación por el impacto del fenómeno *therian* en el bienestar animal. Yolanda Morales, portavoz de PACMA, advierte que la interacción con animales podría causarles estrés, miedo o reacciones defensivas. PACMA insta a los *therians* a evitar el contacto directo con animales y aclara que el movimiento *therian* no está relacionado con el activismo por los derechos de los animales. ****Diari de Tarragona**** informa que los *therian* podrían poner en riesgo la seguridad de los animales, según alerta PACMA.
+El Partido Animalista Contra el Maltrato Animal (PACMA) ha expresado su preocupación por el impacto del fenómeno *therian* en el bienestar animal. Yolanda Morales, portavoz de PACMA, advierte que la interacción con animales podría causarles estrés, miedo o reacciones defensivas. PACMA insta a los *therians* a evitar el contacto directo con animales y aclara que el movimiento *therian* no está relacionado con el activismo por los derechos de los animales. **Diari de Tarragona** informa que los *therian* podrían poner en riesgo la seguridad de los animales, según alerta PACMA.
 
 Esta advertencia se basa en la premisa de que los animales y los humanos tienen necesidades y comportamientos diferentes. Intentar humanizar a los animales o interactuar con ellos de una manera que no sea natural puede causarles daño psicológico o físico. Por ejemplo, un *therian* que intente imitar el comportamiento de un lobo podría asustar a un perro doméstico o provocar una reacción agresiva.
 
@@ -55,7 +55,7 @@ La postura de PACMA y del Colegio de Veterinarios de Madrid pone de relieve la n
 
 Las concentraciones de *therians* en España han atraído más morbo y curiosidad que una verdadera conexión social. Muchos de estos eventos han sido un fracaso, con poca asistencia de *therians* y una gran presencia de observadores morbosos. Esta situación pone de manifiesto la dificultad de construir una comunidad auténtica en un entorno mediático saturado de prejuicios y estereotipos.
 
-Según ****Xataka****, cientos de personas acudieron a falsas quedadas *therian* este fin de semana, lo que subraya un peligroso prejuicio. Este tipo de incidentes demuestran que el fenómeno *therian* está siendo utilizado para alimentar la curiosidad morbosa y la discriminación.
+Según **Xataka**, cientos de personas acudieron a falsas quedadas *therian* este fin de semana, lo que subraya un peligroso prejuicio. Este tipo de incidentes demuestran que el fenómeno *therian* está siendo utilizado para alimentar la curiosidad morbosa y la discriminación.
 
 La falta de un espacio seguro y respetuoso para que los *therians* se reúnan y compartan sus experiencias dificulta la creación de una comunidad sólida y cohesionada. La presencia constante de observadores externos y la presión mediática pueden generar ansiedad, estrés y miedo en los *therians*, impidiendo una interacción genuina y significativa.
 
