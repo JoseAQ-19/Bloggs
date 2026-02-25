@@ -28,9 +28,10 @@ from google.genai import types
 import researcher
 import trend_hunter 
 import tools_hunter 
+# Importar Prompts Bilingües
 from utils import SlugManager 
 from novum_visual import get_image 
-# Importar Prompts Bilingües
+import indexing_api
 try:
     from prompts_tools import PROMPT_BLUEPRINT_EN, PROMPT_BLUEPRINT_ES
 except ImportError:
@@ -1301,6 +1302,13 @@ translationKey: "{translation_key}"
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(front_matter)
     print(f"✅ Guardado: {filepath}")
+    
+    # ⚡ NOTIFICACIÓN FAST-TRACK A GOOGLE INDEXING API
+    if lang == 'es':
+        final_url = f"https://novumworld.com/es/{category}/{meta['slug']}/"
+    else:
+        final_url = f"https://novumworld.com/{category}/{meta['slug']}/"
+    indexing_api.notify_google(final_url)
 
 def main():
     parser = argparse.ArgumentParser()

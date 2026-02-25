@@ -10,3 +10,4 @@ feedparser
 together
 openai
 exa_py
+google-auth
