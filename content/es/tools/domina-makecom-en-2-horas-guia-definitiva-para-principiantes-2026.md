@@ -45,7 +45,7 @@ La idea de una implementación "sin complicaciones" es una vil mentira.  La real
 
 ¿Make.com? Otro juguete caro. Su interfaz visual es un espejismo; bajo la superficie se esconde una complejidad abrumadora que exige un ejército de "expertos" (que, por supuesto, te cobrarán una fortuna). No me hagan reír.
 
-Para que te hagas una idea, el 70% de los proyectos de automatización fracasan en su primer año, según datos de la IEEE [revísalo aquí](https://www.ieee.org/publications/standards/index.html).  ¿Siguen pensando que es una inversión segura?
+Para que te hagas una idea, el 70% de los proyectos de automatización fracasan en su primer año, según datos de la IEEE **revísalo aquí**.  ¿Siguen pensando que es una inversión segura?
 
 ## Mi Veredicto Final: Huyan Mientras Puedan
 

@@ -38,7 +38,7 @@ Se han dilapidado la friolera de 177.000 millones de dólares en esta fantasía.
 
 Pero la cosa se pone aún más turbia. El Metaverso, esa supuesta utopía descentralizada, se ha convertido en un paraíso para estafadores y manipuladores. Plataformas como Forsage, una pirámide financiera disfrazada de inversión blockchain, esquilmaron a miles de inversores, enriqueciendo a los de arriba a costa de la ruina de los de abajo. El 88% de los usuarios de Forsage sufrieron pérdidas financieras netas, mientras que el propietario del contrato amasó más de 1.2 millones de dólares. ¿Descentralización? Más bien, depredación digital.
 
-Y ni hablar de la manipulación del mercado. El "wash trading" (inflar artificialmente el volumen de operaciones) es el pan de cada día en los mercados de NFT. Se estima que casi el 90% del volumen de comercio en mercados de NFT como LooksRare es puro fraude. [La Comisión de Bolsa y Valores (SEC) ha tomado medidas contra actores del mercado de NFTs por este tipo de prácticas](https://www.sec.gov/news/press-release/2023-172). Proyectos como Squid Coin, donde los creadores desaparecieron con 3.3 millones de dólares, son solo la punta del iceberg.
+Y ni hablar de la manipulación del mercado. El "wash trading" (inflar artificialmente el volumen de operaciones) es el pan de cada día en los mercados de NFT. Se estima que casi el 90% del volumen de comercio en mercados de NFT como LooksRare es puro fraude. **La Comisión de Bolsa y Valores (SEC) ha tomado medidas contra actores del mercado de NFTs por este tipo de prácticas**. Proyectos como Squid Coin, donde los creadores desaparecieron con 3.3 millones de dólares, son solo la punta del iceberg.
 
 ## Autopsia de un Fracaso Anunciado: ¿Por Qué Falló el Metaverso?
 

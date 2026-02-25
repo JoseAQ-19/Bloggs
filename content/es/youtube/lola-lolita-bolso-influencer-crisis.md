@@ -61,6 +61,6 @@ El crecimiento en España de content creators supera las 207.000 personas con m�
 
 ## Lo que realmente importa
 
-La era de los mega-influencers que alardean de estilos de vida extravagantes está llegando a su fin. La autenticidad y la conexión genuina con la audiencia determinarán a los ganadores. Las marcas deberían invertir en construir relaciones a largo plazo con micro y nano-influencers que se alineen con sus valores y que puedan representar de forma auténtica sus productos o servicios. Los influencers deben ser conscientes de su responsabilidad social y evitar la promoción de productos o servicios perjudiciales o engañosos, arriesgándose a una crisis como la que abordamos en el artículo [SUBBD Token y la IA: ¿Revolución en la Economía del Creador de $191B](/es/youtube/subbd-token-ia-revolucion-economia-creador/).
+La era de los mega-influencers que alardean de estilos de vida extravagantes está llegando a su fin. La autenticidad y la conexión genuina con la audiencia determinarán a los ganadores. Las marcas deberían invertir en construir relaciones a largo plazo con micro y nano-influencers que se alineen con sus valores y que puedan representar de forma auténtica sus productos o servicios. Los influencers deben ser conscientes de su responsabilidad social y evitar la promoción de productos o servicios perjudiciales o engañosos, arriesgándose a una crisis como la que abordamos en el artículo **SUBBD Token y la IA: ¿Revolución en la Economía del Creador de $191B**.
 
 Menos ‘bling’, más ‘feeling’.

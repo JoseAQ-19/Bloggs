@@ -75,7 +75,7 @@ The YouTube ecosystem is a business, and all business decisions have consequence
 
 The Rosanna Pansino mold discovery and the Lunchly scandal, while distinct from the SSSniperWolf incident, highlight content moderation and ethical considerations within the creator economy. Like that situation, the SSSniperWolf doxxing incident forces us to consider YouTube's responsibility in ensuring community safety. YouTube risks losing creator trust.
 
-Similarly, the challenges faced by Good Good Golf, detailed in "[Good Good Golf's Meltdown: 1.48 Million Subscribers Can't Save This Trainwreck](/youtube/youtube-golf-wars-business-fallout-en/)," underscore the volatility of the creator landscape. Even channels with substantial subscriber bases can decline due to internal conflicts or shifts in audience preferences.
+Similarly, the challenges faced by Good Good Golf, detailed in "**Good Good Golf's Meltdown: 1.48 Million Subscribers Can't Save This Trainwreck**," underscore the volatility of the creator landscape. Even channels with substantial subscriber bases can decline due to internal conflicts or shifts in audience preferences.
 
 Creators must proactively diversify income streams and mitigate risks associated with platform dependency.
 

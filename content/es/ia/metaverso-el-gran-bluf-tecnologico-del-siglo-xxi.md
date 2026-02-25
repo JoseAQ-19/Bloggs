@@ -21,7 +21,7 @@ El metaverso. El nombre evoca visiones de un futuro digital utópico, donde la r
 
 ## El Despilfarro de Meta: Un Agujero Negro Financiero
 
-La obsesión de Meta con el metaverso es, francamente, alarmante. La compañía ha vertido cantidades obscenas de dinero en su división Reality Labs, acumulando pérdidas operativas que superan los $46 mil millones desde 2019 hasta finales de 2023. [Estos números, cortesía de los propios informes financieros de Meta](https://www.sec.gov/Archives/edgar/data/1326801/000132680124000012/meta-20231231.htm), no son simplemente un error de redondeo. Son una señal de advertencia de que algo fundamentalmente está mal con la estrategia de la compañía. ¿Realmente cree alguien que Horizon Worlds, la insulsa y poco inspiradora plataforma insignia de Meta, justifica esta sangría de dinero?
+La obsesión de Meta con el metaverso es, francamente, alarmante. La compañía ha vertido cantidades obscenas de dinero en su división Reality Labs, acumulando pérdidas operativas que superan los $46 mil millones desde 2019 hasta finales de 2023. **Estos números, cortesía de los propios informes financieros de Meta**, no son simplemente un error de redondeo. Son una señal de advertencia de que algo fundamentalmente está mal con la estrategia de la compañía. ¿Realmente cree alguien que Horizon Worlds, la insulsa y poco inspiradora plataforma insignia de Meta, justifica esta sangría de dinero?
 
 ## Más Allá de Meta: El Problema es Sistémico
 

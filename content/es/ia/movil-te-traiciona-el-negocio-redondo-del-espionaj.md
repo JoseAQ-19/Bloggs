@@ -52,7 +52,7 @@ La elección es una ilusión: o te dejas espiar y disfrutas de las "ventajas" de
 
 No solo se trata de publicidad dirigida. Los datos recopilados se usan para fines mucho más oscuros.
 
-*   **Espionaje a Gran Escala:** Periodistas han rastreado a altos funcionarios de la UE comprando datos a *data brokers*, demostrando que ni el GDPR protege tu información. [Según Reuters, incluso el ejército de EE. UU. compra datos de ubicación de aplicaciones cotidianas](https://www.reuters.com/article/usa-military-location-data-idUSKBN1ZK19P).
+*   **Espionaje a Gran Escala:** Periodistas han rastreado a altos funcionarios de la UE comprando datos a *data brokers*, demostrando que ni el GDPR protege tu información. **Según Reuters, incluso el ejército de EE. UU. compra datos de ubicación de aplicaciones cotidianas**.
 *   **Manipulación y Discriminación:** Algoritmos analizan tus creencias políticas para bombardearte con publicidad personalizada, como en la campaña de 2016. Además, los perfiles permiten la discriminación en precios y oportunidades.
 
 Shoshana Zuboff, en *La Era del Capitalismo de la Vigilancia*, lo describe como una "expropiación unilateral de la experiencia humana como materia prima gratuita." Tus datos se procesan para predecir tu comportamiento, creando "mercados de futuros conductuales." No solo perdemos privacidad, sino también autonomía y control sobre nuestras propias vidas.

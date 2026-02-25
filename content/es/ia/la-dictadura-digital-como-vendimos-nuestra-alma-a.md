@@ -23,7 +23,7 @@ La promesa de un Edén digital se ha tornado en una pesadilla orwelliana. Esa vi
 
 Shoshana Zuboff, esa profeta casandra del capitalismo de vigilancia, no se anda con rodeos: es un "golpe desde arriba" **según ella misma describe**. No se trata solo de publicidad dirigida; es la predicción y manipulación de nuestro comportamiento. En la India, millones son reducidos a "proletariado de la atención", alimentando algoritmos sin paga ni reconocimiento. Este sistema no es accidental, es una colonización deliberada de nuestra conciencia. Nos hemos vendido por la conveniencia, y la factura está llegando.
 
-¿Pero qué tan "inteligentes" son estos sistemas predictivos? La respuesta es aterradora: son estúpidos y peligrosamente sesgados. La policía predictiva perpetúa el racismo, no lo previene. Un sistema alemán de control de pasajeros aéreos tuvo una tasa de acierto del 0,3%. [Como reportó Reuters](https://www.reuters.com/article/us-germany-security-idUSKBN19X119), la falsa sensación de seguridad es peor que la ignorancia. La realidad es que estos sistemas amplifican los prejuicios existentes, creando ciclos de vigilancia injustos.
+¿Pero qué tan "inteligentes" son estos sistemas predictivos? La respuesta es aterradora: son estúpidos y peligrosamente sesgados. La policía predictiva perpetúa el racismo, no lo previene. Un sistema alemán de control de pasajeros aéreos tuvo una tasa de acierto del 0,3%. **Como reportó Reuters**, la falsa sensación de seguridad es peor que la ignorancia. La realidad es que estos sistemas amplifican los prejuicios existentes, creando ciclos de vigilancia injustos.
 
 ## La Decadencia Cognitiva: Marionetas Algorítmicas
 

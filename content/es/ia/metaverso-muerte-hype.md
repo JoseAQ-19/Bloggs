@@ -45,7 +45,7 @@ No nos engañemos. El metaverso, tal y como lo conocemos, está muerto.  Pero es
 
 *   **Priorizar la utilidad:** El metaverso debe ofrecer experiencias valiosas y significativas que mejoren la vida de las personas.  Esto implica resolver problemas reales, crear contenido de calidad y ofrecer oportunidades que no existen en el mundo físico.
 *   **Democratizar el acceso:** La realidad virtual debe ser accesible para todos, independientemente de su poder adquisitivo.  Esto significa desarrollar visores más asequibles, explorar alternativas como la realidad aumentada y optimizar el metaverso para dispositivos móviles.
-*   **Romper con la especulación:** El metaverso debe desvincularse de las criptomonedas y los NFTs, centrándose en la creación de valor real y sostenible. La [SEC ya ha advertido](https://www.sec.gov/news/press-release/2022-174) sobre los riesgos asociados a las inversiones en activos digitales relacionados con el metaverso.
+*   **Romper con la especulación:** El metaverso debe desvincularse de las criptomonedas y los NFTs, centrándose en la creación de valor real y sostenible. La **SEC ya ha advertido** sobre los riesgos asociados a las inversiones en activos digitales relacionados con el metaverso.
 *   **Fomentar la interoperabilidad:** El metaverso no debe ser un conjunto de jardines vallados controlados por grandes empresas.  Debe ser un espacio abierto e interconectado donde los usuarios puedan moverse libremente y compartir experiencias.
 *   **Aprender del fracaso:** Es fundamental analizar los errores del pasado y evitar repetirlos.  El metaverso no puede ser una mera extensión del mundo real, sino un espacio con sus propias reglas, oportunidades y desafíos.
 

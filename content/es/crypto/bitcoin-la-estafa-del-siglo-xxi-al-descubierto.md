@@ -33,7 +33,7 @@ La manipulación del mercado es el motor secreto de Bitcoin, y Tether (USDT) es 
 
 ## Fraude a gran escala: la otra cara de la moneda
 
-El mundo cripto es un paraíso para los estafadores. Esquemas Ponzi como PlusToken, Bitconnect y OneCoin han robado miles de millones a inversores desprevenidos. PlusToken, por ejemplo, estafó 6.000 millones de dólares a nivel mundial. Y su liquidación de Bitcoin provocó caídas en el precio, demostrando el poder destructivo de estas estafas. [La SEC tiene un largo historial de persecución de estos fraudes](https://www.sec.gov/news/press-release/2020-192).
+El mundo cripto es un paraíso para los estafadores. Esquemas Ponzi como PlusToken, Bitconnect y OneCoin han robado miles de millones a inversores desprevenidos. PlusToken, por ejemplo, estafó 6.000 millones de dólares a nivel mundial. Y su liquidación de Bitcoin provocó caídas en el precio, demostrando el poder destructivo de estas estafas. **La SEC tiene un largo historial de persecución de estos fraudes**.
 
 ## El paraíso de los criminales
 

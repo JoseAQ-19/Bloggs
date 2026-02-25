@@ -33,7 +33,7 @@ The problem isn't just *how* we fine-tune, but *how much*. The industry maxim th
 
 Moreover, Parameter-efficient fine-tuning (PEFT) can *undo* safety guardrails [35]. Fine-tuning on adversarial data lets models "forget" their alignment, spewing out toxic responses the base model would have rejected [36, 37]. So, not only can you lobotomize your AI, you can turn it into a digital sociopath while you are at it. Like a poorly executed brain transplant, the AI goes mad.
 
-It is a perfect case study for our piece about [Failed Technoutopia: The Digital Dream Becomes a Neoliberal Nightmare](/ia/tecnoutopia-fallida-el-sueno-digital-se-convierte/), where good intentions pave the way for unintended consequences. The rush to scale and democratize AI has blinded us to the inherent risks of overtraining and model degradation. We’re so focused on building bigger and faster models that we’ve forgotten to ask whether they're actually getting *better*.
+It is a perfect case study for our piece about **Failed Technoutopia: The Digital Dream Becomes a Neoliberal Nightmare**, where good intentions pave the way for unintended consequences. The rush to scale and democratize AI has blinded us to the inherent risks of overtraining and model degradation. We’re so focused on building bigger and faster models that we’ve forgotten to ask whether they're actually getting *better*.
 
 Amber Roberts from Arize AI aptly puts it: Debugging machine learning is 10 times harder than debugging software [20]. And even the most advanced models still hallucinate and fail [20]. You know, it almost makes you wonder if we're rushing headfirst into a future we're not ready for.
 

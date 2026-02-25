@@ -31,7 +31,7 @@ La "maldición de la multilingüidad", como la describen Isabelle Mohr y otros i
 
 Empresas como GoBots [gobots.ai], que procesan consultas de clientes en español y portugués, han descubierto que el ajuste fino de modelos preentrenados para su dominio específico es mucho más efectivo que utilizar soluciones genéricas. De hecho, un estudio demostró que ajustar finamente el modelo Multilingual E5-Base (`F-mE5`) en el conjunto de datos E-FAQ logró una precisión del 90.12% en español [Embeddings Might Be all You Need: Domain-Specific Sentence Encoders for Latin American E-Commerce Questions - SciTePress](https://github.com/rodrigocaus/embedding-training).
 
-Este enfoque de "hazlo tú mismo" implica un mayor esfuerzo inicial, pero ofrece un control total sobre los datos y el modelo. Evitando así los riesgos de privacidad y los problemas de latencia asociados con las APIs de terceros. ¿Estamos vendiendo nuestra soberanía digital a cambio de una falsa promesa de conveniencia? Parece que sí. Ya estamos en [La Dictadura Digital: Cómo Vendimos Nuestra Alma a los Algoritmos](/es/ia/la-dictadura-digital-como-vendimos-nuestra-alma-a/).
+Este enfoque de "hazlo tú mismo" implica un mayor esfuerzo inicial, pero ofrece un control total sobre los datos y el modelo. Evitando así los riesgos de privacidad y los problemas de latencia asociados con las APIs de terceros. ¿Estamos vendiendo nuestra soberanía digital a cambio de una falsa promesa de conveniencia? Parece que sí. Ya estamos en **La Dictadura Digital: Cómo Vendimos Nuestra Alma a los Algoritmos**.
 
 ## El Futuro Inevitable (o No)
 
@@ -39,4 +39,4 @@ Hugging Face seguirá siendo un recurso valioso para prototipado y experimentaci
 
 La clave está en la especialización. En lugar de intentar construir un modelo que lo haga todo, las empresas se centrarán en construir modelos que hagan una cosa, pero que la hagan excepcionalmente bien. Y a poder ser, que hablen español con fluidez.
 
-Quizás estemos ante el fin de la era del "open source" ingenuo y el comienzo de una nueva era de "open source" estratégico. Donde las empresas contribuyen y se benefician, pero sin renunciar al control de sus datos y su propiedad intelectual. Un panorama mucho más parecido a [El Capitalismo Zombi: Anatomía de un Sistema Fallido](/es/ia/el-capitalismo-zombi-anatomia-de-un-sistema-fallid/). Al fin y al cabo, la IA no es magia, es ingeniería. Y la ingeniería requiere precisión, no fe ciega.
+Quizás estemos ante el fin de la era del "open source" ingenuo y el comienzo de una nueva era de "open source" estratégico. Donde las empresas contribuyen y se benefician, pero sin renunciar al control de sus datos y su propiedad intelectual. Un panorama mucho más parecido a **El Capitalismo Zombi: Anatomía de un Sistema Fallido**. Al fin y al cabo, la IA no es magia, es ingeniería. Y la ingeniería requiere precisión, no fe ciega.
