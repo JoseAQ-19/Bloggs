@@ -47,6 +47,14 @@ jobs:
           EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
         run: python main.py --category tools --lang es
 
+      - name: Verify Content Integrity
+        run: |
+          if grep -r 'translationKey: "None"' content/; then
+            echo "❌ CRITICAL ERROR: Null TranslationKey detected. Aborting."
+            exit 1
+          fi
+          echo "✅ Content integrity verified."
+
       - name: Push Content
         run: |
           git config --global user.name "JoseAQ-19"

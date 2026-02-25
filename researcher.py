@@ -248,11 +248,9 @@ class ResearcherV4:
         
         snippets = "No extra data."
         if self.exa:
-            # 1. Identificación de Pozos de Conocimiento
-            anti_fluff_modifier = ""
-            if category in ["tools", "viral"]:
-                anti_fluff_modifier = ' ("opinión impopular" OR "críticas" OR "desventajas ocultas") site:reddit.com' if lang == "es" else ' ("unpopular opinion" OR "criticism" OR "hidden disadvantages") site:reddit.com'
-                
+            # 1. Identificación de Pozos de Conocimiento (Valor Real Global)
+            anti_fluff_modifier = ' ("opinión impopular" OR "críticas" OR "desventajas ocultas" OR site:reddit.com OR site:ycombinator.com)' if lang == "es" else ' ("unpopular opinion" OR "criticism" OR "hidden disadvantages" OR site:reddit.com OR site:ycombinator.com)'
+            
             if lang == "es":
                 query = f"'{topic}'{anti_fluff_modifier} OR site:forocoches.com OR site:xataka.com OR site:elmundo.es OR site:genbeta.com OR site:.es"
             else:
