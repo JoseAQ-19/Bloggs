@@ -1,0 +1,26 @@
+{
+  "category": "youtube",
+  "lang": "en",
+  "scouted_at": "2026-02-25T18:07:49.874533+00:00",
+  "total_candidates": 15,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Nikocado Avocado Drama Escalates: Inside His Latest Shocking Controversy",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "AI DISASTER: Fake YouTube Videos Smear Singapore's Prime Minister",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Trump's Racist Obama Post Unleashes Fury: The Social Media Meltdown You Need to See",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
