@@ -333,23 +333,18 @@ CRITICAL FORMATTING RULES (ZERO TOLERANCE — VIOLATION = ARTICLE REJECTED):
    UNIFORM paragraph length is FORBIDDEN.
 8. MANDATORY 7-SECTION STRUCTURE (H2 ONLY):
    Every article MUST have exactly 7 main sections (H2 Headers). 
-   IF YOU ARE WRITING IN ENGLISH, use headers conceptually similar to these:
-   - ## The Hook (Provocative opening + BLUF)
-   - ## The Signal & The Data (Numbers, facts, funding, specific metrics)
-   - ## The Expert Consensus (What the industry says + Quotes)
-   - ## The Contrarian Crack (Why the consensus is wrong or incomplete)
-   - ## The Economic/Sociological Impact (The 'So What?')
-   - ## The Case Study (Real-world implementation or failure)
-   - ## The Bottom Line (Final, polarizing editorial take)
+   Bajo ninguna circunstancia puedes usar encabezados predecibles como 'El caso de estudio', 'El consenso experto' o 'Nuestra lectura'. Debes camuflar la estructura en subtítulos orgánicos, creativos y específicos del tema.
    
-   IF YOU ARE WRITING IN SPANISH, ALL HEADERS MUST BE IN SPANISH:
-   - ## El gancho
-   - ## Los datos y la realidad
-   - ## El consenso experto
-   - ## La perspectiva contrariana
-   - ## El impacto económico / sociológico
-   - ## El caso de estudio
-   - ## Nuestra lectura
+   IF YOU ARE WRITING IN ENGLISH, the 7 sections conceptually cover:
+   1. Provocative opening + BLUF (organic header)
+   2. Numbers, facts, funding (organic header)
+   3. What the industry says + Quotes (organic header)
+   4. Why the consensus is wrong (organic header)
+   5. Economic/Sociological Impact (organic header)
+   6. Real-world implementation (organic header)
+   7. Final, polarizing editorial take (organic header)
+   
+   IF YOU ARE WRITING IN SPANISH, ALL HEADERS MUST BE IN SPANISH and organically camouflaged to the specific topic.
    
    Each section MUST be at least 250-300 words long to achieve the 1500+ word total.
 
@@ -1126,6 +1121,16 @@ def _clean_article_content(text):
     text = re.sub(r'```', '', text)
     text = re.sub(r'\{\{.*?\}\}', '', text) # Eliminar llaves de template filtradas
     
+    # 0.5. ESCUDO ANTI-FUGAS DE PROMPT
+    fugas_patterns = [
+        r'ACTÚA COMO:', r'TAREA:', r'TITULO \(NUEVO\):', r'TÍTULO NUEVO',
+        r'Here is the article', r'ROLE:', r'TASK:', r'MANDATORY RULES',
+        r'CRITICAL FORMATTING RULES'
+    ]
+    for fp in fugas_patterns:
+        if re.search(fp, text, flags=re.IGNORECASE):
+            raise Exception(f"Fuga de prompt masiva detectada: {fp}")
+    
     # 1. ELIMINAR frases de chatbot al inicio del texto
     chatbot_patterns = [
         r'^(?:Aquí (?:está|tienes) el artículo\.?\s*\n*)',
@@ -1293,22 +1298,29 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
     now = datetime.now()
     backdate = random.randint(15, 30) if lang == 'es' else random.randint(2, 10)
     date_str = (now - timedelta(minutes=backdate)).strftime("%Y-%m-%dT%H:%M:%S")
+    # VALIDACIÓN BLINDADA: Translation Key jamás puede ser None
+    if not translation_key or translation_key == "None":
+        import hashlib
+        raw_hash = meta['titulo'].strip().lower()
+        t_hash = hashlib.md5(raw_hash.encode('utf-8')).hexdigest()
+        translation_key = f"{t_hash[:8]}-{t_hash[8:12]}-{t_hash[12:16]}-{t_hash[16:20]}-{t_hash[20:]}"
+
     # Generación inteligente de meta description (Fenix V3: evita descriptions genéricas)
     try:
-        desc_prompt = f"Write a unique, compelling meta description of EXACTLY 140-155 characters in {'Spanish' if lang == 'es' else 'English'} for an article titled '{meta['titulo']}'. Output ONLY the description text, nothing else. No quotes around it."
+        desc_prompt = f"Write a unique, compelling meta description of EXACTLY 140-155 characters in {'Spanish' if lang == 'es' else 'English'} for an article titled '{meta['titulo']}'. Output ONLY the description text, nothing else. No quotes around it. DO NOT use trailing ellipses (...)."
         desc_resp = client.models.generate_content(model='gemini-2.0-flash', contents=desc_prompt)
         raw_desc = desc_resp.text.strip().replace('"', "'")
-        # Truncar en frontera de palabra (no cortar a mitad de palabra)
-        if len(raw_desc) > 160:
-            clean_text = raw_desc[:157].rsplit(' ', 1)[0] + '...'
+        # Forzar un recorte estricto a 155 sin puntos suspensivos
+        if len(raw_desc) > 155:
+            clean_text = raw_desc[:155].rsplit(' ', 1)[0] + '.'
         else:
-            clean_text = raw_desc
+            clean_text = raw_desc if raw_desc.endswith('.') else raw_desc + '.'
     except Exception:
-        clean_text = re.sub(r'[#*]', '', contenido)[:160].replace('\n', ' ').replace('"', "'") + "..."
+        clean_text = re.sub(r'[#*]', '', contenido)[:154].replace('\n', ' ').replace('"', "'") + "."
     
     # BLINDAJE: Nunca dejar description vacía
     if not clean_text or len(clean_text.strip()) < 20:
-        clean_text = re.sub(r'[#*\[\]]', '', contenido)[:155].replace('\n', ' ').replace('"', "'").strip() + "..."
+        clean_text = re.sub(r'[#*\[\]]', '', contenido)[:154].replace('\n', ' ').replace('"', "'").strip() + "."
         print(f"   🛡️ [Description Blindaje] Fallback desde contenido: {clean_text[:50]}...")
     
     # Resolver nombre legible de la categoría (FIX: config['name'] → NICHES lookup)

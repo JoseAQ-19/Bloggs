@@ -237,7 +237,7 @@ class ResearcherV4:
                     return cmd
         return None
 
-    def _mine_deep_keywords(self, topic, lang):
+    def _mine_deep_keywords(self, topic, lang, category="general"):
         """
         PROTOCOLO DEEP-KEYWORD MINER & TRIFORCE RESEARCH
         1. Prospección rápida en "Pozos de Conocimiento" reales vía Exa.
@@ -249,10 +249,14 @@ class ResearcherV4:
         snippets = "No extra data."
         if self.exa:
             # 1. Identificación de Pozos de Conocimiento
+            anti_fluff_modifier = ""
+            if category in ["tools", "viral"]:
+                anti_fluff_modifier = ' ("opinión impopular" OR "críticas" OR "desventajas ocultas") site:reddit.com' if lang == "es" else ' ("unpopular opinion" OR "criticism" OR "hidden disadvantages") site:reddit.com'
+                
             if lang == "es":
-                query = f"'{topic}' site:reddit.com OR site:forocoches.com OR site:xataka.com OR site:elmundo.es OR site:genbeta.com OR site:.es"
+                query = f"'{topic}'{anti_fluff_modifier} OR site:forocoches.com OR site:xataka.com OR site:elmundo.es OR site:genbeta.com OR site:.es"
             else:
-                query = f"'{topic}' site:reddit.com OR site:news.ycombinator.com OR site:substack.com OR site:.edu OR site:.gov"
+                query = f"'{topic}'{anti_fluff_modifier} OR site:news.ycombinator.com OR site:substack.com OR site:.edu OR site:.gov"
             try:
                 from datetime import datetime, timedelta
                 start_date = (datetime.now() - timedelta(hours=72)).strftime('%Y-%m-%dT%H:%M:%S.000Z')
@@ -321,7 +325,7 @@ Return ONLY the final string. NO quotation marks. NO markdown. NO explanations. 
         print(f"   Categoría: {category} | Contexto: {search_context[:60]}...")
         
         # --- NUEVO: DEEP-KEYWORD MINER & TRIFORCE ---
-        super_topic = self._mine_deep_keywords(topic, lang)
+        super_topic = self._mine_deep_keywords(topic, lang, category)
         
         # Construir el Brief de investigación estructurado localizado
         research_brief = build_research_query(super_topic, category, search_context, lang=lang)
