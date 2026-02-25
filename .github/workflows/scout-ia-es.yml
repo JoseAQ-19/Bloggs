@@ -28,7 +28,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
-          OPENROUTER_SCOUT_KEY: ${{ secrets.OPENROUTER_SCOUT_KEY }}
+          OPENROUTER_SCOUT_KEY: ${{ secrets.OPEN_ROUTER_API_KEY }}
           HF_SCOUT_API_KEY: ${{ secrets.HF_SCOUT_API_KEY }}
         run: python trend_scout.py --category ia --lang es
 
