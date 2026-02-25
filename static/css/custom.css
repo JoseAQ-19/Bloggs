@@ -1015,7 +1015,21 @@ table {
         align-items: center;
     }
 
-    /* --- PERFORMANCE: Disable heavy animations on mobile --- */
+    /* --- PERFORMANCE: Disable heavy animations and filters on mobile --- */
+    article.glass-card {
+        backdrop-filter: none !important;
+        -webkit-backdrop-filter: none !important;
+        will-change: auto !important;
+        background: rgba(20, 20, 20, 0.95) !important;
+        /* Solid fallback */
+    }
+
+    .hero-modern-overlay div {
+        backdrop-filter: none !important;
+        -webkit-backdrop-filter: none !important;
+        background-color: rgba(0, 0, 0, 0.6) !important;
+    }
+
     .hero-modern::before {
         display: none !important;
         /* Kill rotating gradient — saves GPU */
@@ -1023,11 +1037,15 @@ table {
 
     /* Reduce AOS animations to simple fades */
     [data-aos] {
-        transition-duration: 400ms !important;
+        transition-duration: 300ms !important;
+        animation-duration: 300ms !important;
+        transition-property: opacity !important;
+        /* Only opacity for speed */
     }
 
     [data-aos="zoom-in"],
-    [data-aos="zoom-out-up"] {
+    [data-aos="zoom-out-up"],
+    [data-aos="fade-up"] {
         transform: none !important;
         opacity: 0;
     }
