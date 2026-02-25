@@ -55,3 +55,4 @@ tools: The Hidden Cost of AI Productivity: Why Superhuman's Acquisition of Rows 
 youtube: Therians en España: ¿Una moda viral o una campaña de odio? La verdad detrás del pánico de la derecha.
 youtube: Nikocado Avocado Drama: Inside His Latest Controversial Meltdown (What Went Wrong?)
 crypto: ETFs en jaque: ¿Por qué la caída de Bitcoin a $63,000 revela una grieta en la demanda institucional?
+crypto: Is Bitcoin's Bottom In? On-Chain Data Reveals a Surprising Buying Pattern During the Dip
