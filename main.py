@@ -663,8 +663,8 @@ IF NONE OF THESE ARTICLES ARE RELEVANT TO THE CURRENT TOPIC, DO NOT LINK TO ANY 
     print(f"   🎯 [Fase 1/3] Especialista en Clickbait Ético...")
     
     lang_name = "ESPAÑOL" if lang == "es" else "ENGLISH"
-    # Regla de capitalización solicitada por el editor: Capitalizar cada inicial
-    cap_rule = "TITLE CASE MANDATORY: You MUST capitalize the first letter of EVERY word in the title (except very short conjunctions like 'y', 'de', 'en', 'a', 'la', 'el', 'los' unless they are the first word). Example: 'La Inteligencia Artificial Amenaza 300 Millones De Euros Invertidos En Startups Españolas'."
+    # Regla de capitalización solicitada por el editor: Capitalizar cada inicial excepto preposiciones y artículos
+    cap_rule = "TITLE CASE MANDATORY: Capitalize the first letter of all major words (nouns, verbs, adjectives). DO NOT capitalize minor words like articles (el, la, los, las, un, una, a, the, an), prepositions (de, en, a, por, para, con, sin, in, on, at, for, to, with), or conjunctions (y, o, e, and, or, but) UNLESS they are the very first word of the title or subtitle. Example: 'Acciona el Pánico: La IA Amenaza 300 Millones de Euros Invertidos en Startups Españolas'."
     
     title_prompt = f"""ACT AS: Viral headline editor for TechCrunch (EN) or Xataka (ES). You write titles that DEMAND clicks.
 
