@@ -1,0 +1,26 @@
+{
+  "category": "viral",
+  "lang": "es",
+  "scouted_at": "2026-02-26T21:03:22.975515+00:00",
+  "total_candidates": 6,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "¡Bombazo en España! Piden CÁRCEL por los brutales insultos racistas a Mbappé: ¿Hasta dónde llegará el escándalo?",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Shakira vuelve a España y Piqué tiembla: Secretos y detalles del regreso que nadie esperaba tras la tormentosa ruptura",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "'Tradwives' y 'Princess Treatment' en TikTok: La verdad oculta tras las tendencias matrimoniales más virales (y peligrosas)",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
