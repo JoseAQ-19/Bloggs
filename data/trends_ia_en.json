@@ -1,0 +1,26 @@
+{
+  "category": "ia",
+  "lang": "en",
+  "scouted_at": "2026-02-26T10:01:03.345351+00:00",
+  "total_candidates": 15,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Anthropic's Enterprise AI Play: Is Claude Cowork Really Different This Time?",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "AI's Dirty Secret: Data Center Meltdown Threatens to Strangle the Boom",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "AI Chatbot Lawsuits Explode: Are Tech Companies Ignoring Negligence Risks?",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
