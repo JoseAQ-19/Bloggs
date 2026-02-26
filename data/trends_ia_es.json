@@ -1,0 +1,26 @@
+{
+  "category": "ia",
+  "lang": "es",
+  "scouted_at": "2026-02-26T09:28:56.929131+00:00",
+  "total_candidates": 13,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Workday en caída libre: ¿Por qué ni la IA de OpenAI puede salvar su desplome en 2026?",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Armas nucleares e IA: El estudio que revela el peligroso sesgo bélico en simulaciones con IA",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Gigafactoría de IA en España: ¿La arriesgada apuesta de Madrid y Cataluña para dominar el futuro tecnológico?",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
