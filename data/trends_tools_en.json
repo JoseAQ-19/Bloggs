@@ -1,0 +1,26 @@
+{
+  "category": "tools",
+  "lang": "en",
+  "scouted_at": "2026-02-26T10:03:01.590251+00:00",
+  "total_candidates": 13,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Anthropic's Plug-in Blitz: Are Enterprise AI Agents Finally Ready for Prime Time?",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Gemini's Android Automation: A Game Changer or Just a Glimpse of the AI-Powered Future?",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "FarmPrint: Can This Tool Actually Help Aussie Farmers Go Green (Without Going Broke)?",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
