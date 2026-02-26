@@ -1,0 +1,26 @@
+{
+  "category": "fitness",
+  "lang": "en",
+  "scouted_at": "2026-02-26T06:13:15.944804+00:00",
+  "total_candidates": 7,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Brain Age: Is Your Metabolism Making You Older Faster? (New Study)",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Keto's Hidden Exercise Advantage: How High Blood Sugar Could Unlock Peak Performance",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Beyond Steps: New Garmin Update Supercharges Your Fitness Data (What You're Missing)",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
