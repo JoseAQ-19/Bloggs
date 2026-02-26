@@ -70,3 +70,4 @@ ia: Anthropic's Enterprise AI Play: Is Claude Cowork Really Different This Time?
 tools: Anthropic's Plug-in Blitz: Are Enterprise AI Agents Finally Ready for Prime Time?
 crypto: ¿Hasta dónde caerá Bitcoin? Analistas señalan el nivel clave que nadie está viendo
 crypto: Bitcoin Rally at Risk: Stablecoin Exodus Signals Deeper Demand Problems
+crypto: Ethereum's Censorship Resistance Showdown: Hegota Upgrade Sparks Validator Revolt?
