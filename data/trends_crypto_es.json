@@ -1,0 +1,26 @@
+{
+  "category": "crypto",
+  "lang": "es",
+  "scouted_at": "2026-02-26T14:57:17.259180+00:00",
+  "total_candidates": 13,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "¿Hasta dónde caerá Bitcoin? Analistas señalan el nivel clave que nadie está viendo",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "El auge de Morpho: Cómo Wall Street está redefiniendo los préstamos DeFi (y los riesgos ocultos)",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Tokenización en Barcelona: Brickken lidera la revolución silenciosa que transformará las finanzas en 2026",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
