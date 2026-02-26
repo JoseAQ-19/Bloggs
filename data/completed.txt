@@ -68,3 +68,4 @@ fitness: Brain Age: Is Your Metabolism Making You Older Faster? (New Study)
 ia: Workday en caída libre: ¿Por qué ni la IA de OpenAI puede salvar su desplome en 2026?
 ia: Anthropic's Enterprise AI Play: Is Claude Cowork Really Different This Time?
 tools: Anthropic's Plug-in Blitz: Are Enterprise AI Agents Finally Ready for Prime Time?
+crypto: ¿Hasta dónde caerá Bitcoin? Analistas señalan el nivel clave que nadie está viendo
