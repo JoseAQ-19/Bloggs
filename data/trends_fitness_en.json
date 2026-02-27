@@ -1,0 +1,26 @@
+{
+  "category": "fitness",
+  "lang": "en",
+  "scouted_at": "2026-02-27T06:09:04.137907+00:00",
+  "total_candidates": 7,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Bodybuilding's Hidden Cost: Drug-Free Prep Can Backfire, Study Reveals",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "AI Fitness Lies? Digital Twins Promise Precision, But Musculoskeletal Models Still Flawed",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Walking: The Unexpected Fitness Hack? Japanese Intervals Crush Cardio & Build Strength",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
