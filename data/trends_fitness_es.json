@@ -1,0 +1,26 @@
+{
+  "category": "fitness",
+  "lang": "es",
+  "scouted_at": "2026-02-27T05:41:29.320810+00:00",
+  "total_candidates": 7,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Biohacking Silver: La ciencia detrás de la longevidad y el bienestar, más allá de las modas.",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Auge del fitness boutique en España: ¿Lujo o valor real? Análisis crítico del cycling premium y el wellness experiencial.",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Madrid abandona el fitness extremo: ¿Qué hay detrás del auge de FS8, Koleo y Estiro? Análisis de tendencias y riesgos ocultos.",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
