@@ -1,0 +1,26 @@
+{
+  "category": "ia",
+  "lang": "es",
+  "scouted_at": "2026-02-27T09:25:09.592190+00:00",
+  "total_candidates": 15,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "SaaSpocalypse: Por qué los inversores se equivocan y qué startups de IA realmente ganarán",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "La IA de guerra: Simulaciones revelan el alarmante riesgo nuclear de ChatGPT, Gemini y Claude",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Más allá del hype: Cómo la Comunidad de Madrid está implementando IA en servicios públicos (y qué funciona de verdad)",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
