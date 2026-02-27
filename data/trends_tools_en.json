@@ -1,0 +1,26 @@
+{
+  "category": "tools",
+  "lang": "en",
+  "scouted_at": "2026-02-27T09:59:23.508174+00:00",
+  "total_candidates": 13,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "SaaSpocalypse 2.0? Gurley Warns AI Deals Mirror Dot-Com Bubble Risks",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "AI Hiring Under Fire: Lawsuit Exposes Eightfold's Algorithmic Bias and Transparency Failures",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Home Depot's Tool Purge: Are Premium Brands Losing Ground to Cheaper Alternatives?",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
