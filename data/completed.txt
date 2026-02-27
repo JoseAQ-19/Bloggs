@@ -82,3 +82,4 @@ fitness: AI Fitness Apps: Are Real-Time Form Corrections REALLY Boosting Your Wo
 fitness: Bodybuilding's Hidden Cost: Drug-Free Prep Can Backfire, Study Reveals
 ia: SaaSpocalypse: Por qué los inversores se equivocan y qué startups de IA realmente ganarán
 ia: Perplexity's $200/Month "Computer" AI: Overkill or the Future of Agentic Computing?
+tools: SaaSpocalypse 2.0? Gurley Warns AI Deals Mirror Dot-Com Bubble Risks
