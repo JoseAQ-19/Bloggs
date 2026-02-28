@@ -1,0 +1,26 @@
+{
+  "category": "youtube",
+  "lang": "en",
+  "scouted_at": "2026-02-28T17:26:14.242954+00:00",
+  "total_candidates": 4,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "LazarBeam's Reign of Chaos: Inside YouTube's Most Unpredictable Gaming Empire",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "MrBeast's $1,000,000 Stunt: Is YouTube's Giving King a Marketing Genius or Something More?",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Dogecoin's Last Stand? Experts Warn the Doge Army: Hype vs. Reality in Crypto's Wild West",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
