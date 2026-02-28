@@ -1,0 +1,26 @@
+{
+  "category": "ia",
+  "lang": "es",
+  "scouted_at": "2026-02-28T09:17:50.575275+00:00",
+  "total_candidates": 12,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "SaaSpocalipsis: ¿Está tu SaaS preparado para la extinción masiva (y cómo sobrevivir)?",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "ChatGPT, Gemini y Claude se enfrentan a la prueba de la guerra: el alarmante resultado que nadie esperaba",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Gigafactoría de IA: ¿La alianza Madrid-Cataluña es suficiente para desafiar a NVIDIA y ASML?",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
