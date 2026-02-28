@@ -1,0 +1,26 @@
+{
+  "category": "fitness",
+  "lang": "en",
+  "scouted_at": "2026-02-28T06:00:11.523097+00:00",
+  "total_candidates": 7,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Methionine Restriction: The New Cold Plunge? Fat-Burning Diet Mimics Extreme Temperatures.",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Vegetarian Paradox: Massive Study Uncovers Unexpected Cancer Risk.",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "PointFit Raises Capital: Are Sweat-Sensing Wearables the Future of Biomarker Tracking?",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
