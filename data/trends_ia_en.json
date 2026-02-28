@@ -1,0 +1,26 @@
+{
+  "category": "ia",
+  "lang": "en",
+  "scouted_at": "2026-02-28T09:48:04.660474+00:00",
+  "total_candidates": 12,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Forget Rare Earths: AI Discovery Could Decouple EV Magnet Production",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "US AI Boom Hits a Wall: Datacenter Protests Expose Hidden Infrastructure Risks",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Crime-Fighting AI's Dirty Secret: Police Chief Admits Inevitable Bias, Vows Fixes",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
