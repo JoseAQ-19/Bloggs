@@ -93,3 +93,4 @@ viral: The "Plastic Eating" Weight Loss Trend in China: Desperate Measures or Da
 fitness: Normativa 'anti-FP' amenaza el mercado de entrenadores personales: ¿quién se beneficia realmente?
 fitness: Forget Tight Sensors: "Smart Clothing" Delivers Unmatched Movement Tracking Accuracy
 fitness: Methionine Restriction: The New Cold Plunge? Fat-Burning Diet Mimics Extreme Temperatures.
+ia: SaaSpocalipsis: ¿Está tu SaaS preparado para la extinción masiva (y cómo sobrevivir)?
