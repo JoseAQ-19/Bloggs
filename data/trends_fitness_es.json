@@ -1,0 +1,26 @@
+{
+  "category": "fitness",
+  "lang": "es",
+  "scouted_at": "2026-02-28T05:34:56.535370+00:00",
+  "total_candidates": 6,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Normativa 'anti-FP' amenaza el mercado de entrenadores personales: ¿quién se beneficia realmente?",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "El espejismo del 'boom' fitness: ¿están los gimnasios realmente listos para la Generación Z?",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Wearables al poder... ¿o no?: El informe que destapa los riesgos ocultos del fitness tecnológico en España.",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
