@@ -1,0 +1,26 @@
+{
+  "category": "tools",
+  "lang": "en",
+  "scouted_at": "2026-02-28T09:49:40.548951+00:00",
+  "total_candidates": 13,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "AI's Email Twin: Read AI Automates Your Schedule, But at What Cost?",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "OpenClaw: From Zero to $39/mo Social Media Manager in 48 Hours - Is This the Future of Indie SaaS?",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "OpenClaw Exposes Rogue AI Agents: The Open-Source Tool Defending Your Network",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
