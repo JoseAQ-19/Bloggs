@@ -94,3 +94,4 @@ fitness: Normativa 'anti-FP' amenaza el mercado de entrenadores personales: ¿qu
 fitness: Forget Tight Sensors: "Smart Clothing" Delivers Unmatched Movement Tracking Accuracy
 fitness: Methionine Restriction: The New Cold Plunge? Fat-Burning Diet Mimics Extreme Temperatures.
 ia: SaaSpocalipsis: ¿Está tu SaaS preparado para la extinción masiva (y cómo sobrevivir)?
+ia: Forget Rare Earths: AI Discovery Could Decouple EV Magnet Production
