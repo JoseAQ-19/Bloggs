@@ -1,0 +1,26 @@
+{
+  "category": "crypto",
+  "lang": "es",
+  "scouted_at": "2026-02-28T14:45:09.483460+00:00",
+  "total_candidates": 12,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Bitcoin cae, ballenas compran: ¿Trampa alcista o señal de compra masiva antes del rebote?",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "El arma secreta de Solana: 3 datos que demuestran su resiliencia (y por qué aún está barata)",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Revolución IA en Phemex: ¿Realmente transforma el trading o es solo humo y espejos?",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
