@@ -1,0 +1,26 @@
+{
+  "category": "fitness",
+  "lang": "en",
+  "scouted_at": "2026-02-28T05:38:00.066411+00:00",
+  "total_candidates": 7,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Forget Tight Sensors: \"Smart Clothing\" Delivers Unmatched Movement Tracking Accuracy",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Planet Fitness Growth Stalls? Why Wall Street Demands More Than Just New Members",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Sweat-Reading Patch Valued at $10M: Can PointFit's Lactate Data Disrupt Fitness Tracking?",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
