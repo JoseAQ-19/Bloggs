@@ -1,0 +1,26 @@
+{
+  "category": "crypto",
+  "lang": "en",
+  "scouted_at": "2026-02-28T15:14:08.284360+00:00",
+  "total_candidates": 16,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Bitcoin Stop-Loss Cascade? Exchange Inflows Hint at Deeper Pain Thresholds",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Stablecoin Crackdown: Tether's $4.2B Freeze Exposes Systemic Risk Beyond Pig Butchering",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Ethereum's Censorship Resistance: Hegota Upgrade's Controversial FOCIL Proposal Explained",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
