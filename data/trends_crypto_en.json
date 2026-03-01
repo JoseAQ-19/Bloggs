@@ -1,0 +1,26 @@
+{
+  "category": "crypto",
+  "lang": "en",
+  "scouted_at": "2026-03-01T14:48:33.086767+00:00",
+  "total_candidates": 16,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Hidden Bitcoin Risk: Why This Bottom Signal Is Different This Time",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Cracks in the Foundation? On-Chain Liquidity Concerns Every Crypto Trader Needs to Know",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "$6 Billion Token Unlock Imminent: Which Cryptos Face the Biggest Price Pressure in March 2026?",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
