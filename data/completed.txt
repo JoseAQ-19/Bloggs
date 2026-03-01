@@ -112,3 +112,4 @@ ia: Why Enterprises Should Fear the Anthropic-Pentagon Fallout
 tools: Stop Importing CSVs Blindly: A Tiny Tool to Avoid Excel Data Nightmares
 crypto: Guerra Irán-EE.UU. dispara apuestas crypto a \$500M: ¿Polymarket es el nuevo indicador geopolítico?
 crypto: Hidden Bitcoin Risk: Why This Bottom Signal Is Different This Time
+crypto: Clarity Act: JPMorgan's Rally Prediction Ignores a Hidden Risk for Crypto in 2026.
