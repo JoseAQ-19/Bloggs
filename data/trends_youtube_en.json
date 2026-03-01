@@ -1,0 +1,26 @@
+{
+  "category": "youtube",
+  "lang": "en",
+  "scouted_at": "2026-03-01T17:51:08.662914+00:00",
+  "total_candidates": 16,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "MrBeast's Empire Under Fire: Is Rosanna Pansino Right About Those YouTube Views?",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "YouTube AI Editing Scandal: Are Creators Losing Control of Their Own Content?",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Adin Ross & Drake's Kick Wins Rigged? Stake's Shocking Denial Explodes Online.",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
