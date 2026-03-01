@@ -1,24 +1,24 @@
 {
   "category": "tools",
   "lang": "en",
-  "scouted_at": "2026-02-28T09:49:40.548951+00:00",
-  "total_candidates": 13,
+  "scouted_at": "2026-03-01T09:51:35.774589+00:00",
+  "total_candidates": 11,
   "topics": [
     {
       "rank": 1,
-      "title": "AI's Email Twin: Read AI Automates Your Schedule, But at What Cost?",
+      "title": "Stop Importing CSVs Blindly: A Tiny Tool to Avoid Excel Data Nightmares",
       "lang": "en",
       "source": "llm_selected"
     },
     {
       "rank": 2,
-      "title": "OpenClaw: From Zero to $39/mo Social Media Manager in 48 Hours - Is This the Future of Indie SaaS?",
+      "title": "OpenClaw: How I Automated My Social Media for $39/Month (And Why You Should Steal My Idea)",
       "lang": "en",
       "source": "llm_selected"
     },
     {
       "rank": 3,
-      "title": "OpenClaw Exposes Rogue AI Agents: The Open-Source Tool Defending Your Network",
+      "title": "Beyond the Hype: Analyzing the Hidden Risks of Read AI's New 'Digital Twin' Assistant",
       "lang": "en",
       "source": "llm_selected"
     }
