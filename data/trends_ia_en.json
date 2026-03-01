@@ -1,0 +1,26 @@
+{
+  "category": "ia",
+  "lang": "en",
+  "scouted_at": "2026-03-01T09:50:00.922598+00:00",
+  "total_candidates": 13,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Why Enterprises Should Fear the Anthropic-Pentagon Fallout",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Perplexity's $200/Month AI \"Computer\": Is It Worth Outsourcing Your Brain?",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Deepfake Nightmare: How AI Is Weaponizing Trust (and How to Fight Back)",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
