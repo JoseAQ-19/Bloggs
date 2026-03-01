@@ -109,3 +109,4 @@ fitness: Forget Incline Bench: Muscle Science Reveals the *Real* Key to Upper Ch
 fitness: Forget Low-Carb vs. Low-Fat: Harvard Study Reveals the *Real* Secret to a Healthy Heart
 ia: Retención SaaS Estancada: ¿Culpa de la IA? El Problema Oculto que las Empresas Ignoran
 ia: Why Enterprises Should Fear the Anthropic-Pentagon Fallout
+tools: Stop Importing CSVs Blindly: A Tiny Tool to Avoid Excel Data Nightmares
