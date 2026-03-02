@@ -1,0 +1,26 @@
+{
+  "category": "crypto",
+  "lang": "en",
+  "scouted_at": "2026-03-02T14:59:14.518786+00:00",
+  "total_candidates": 15,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Whale Wipeout: How One ETH Trader Lost $74M – and What It Means for Hyperliquid",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Solana's Secret Surge: Is Rising DEX Activity & Fee Revenue Signaling a Bull Run?",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "War Games: Did Prediction Market Insiders Profit from US-Iran Tensions?",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
