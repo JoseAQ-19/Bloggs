@@ -1,0 +1,26 @@
+{
+  "category": "tools",
+  "lang": "en",
+  "scouted_at": "2026-03-02T10:03:08.275529+00:00",
+  "total_candidates": 9,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Is Perplexity's \"Computer\" the AI Overload We Didn't Need? A Critical Review",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "SDS Max Rotary Hammer 2026: Are Milwaukee's One-Key Features Worth the Hype?",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Beyond the Hype: Hidden Risks in the Projected $500B Tooling Market Boom",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
