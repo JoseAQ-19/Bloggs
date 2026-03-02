@@ -124,3 +124,4 @@ ia: SaaSpocalypse 2026: Radiografía de la crisis que los VCs ya ven venir (y c�
 ia: The Pentagon's AI Playbook: Did Anthropic's Tech Sidestep the Ban in Iran Strikes?
 crypto: Más allá del oro: ¿Por qué los inversores buscan refugio en Bitcoin en tiempos de incertidumbre?
 crypto: Whale Wipeout: How One ETH Trader Lost $74M – and What It Means for Hyperliquid
+crypto: Did Iranian Crypto Whales Predict the Airstrikes? A 700% Outflow Spike Analyzed.
