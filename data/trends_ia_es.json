@@ -1,0 +1,26 @@
+{
+  "category": "ia",
+  "lang": "es",
+  "scouted_at": "2026-03-02T09:29:22.160971+00:00",
+  "total_candidates": 16,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "SaaSpocalypse 2026: Radiografía de la crisis que los VCs ya ven venir (y cómo prepararse)",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Telegram como laboratorio IA: La guía definitiva para crear bots personalizados y superar a ChatGPT",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "IA vetada por Trump, usada por Biden: El oscuro secreto de Claude en los ataques de EEUU a Irán",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
