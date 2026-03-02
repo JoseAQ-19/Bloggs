@@ -1,0 +1,26 @@
+{
+  "category": "youtube",
+  "lang": "en",
+  "scouted_at": "2026-03-02T18:00:44.914242+00:00",
+  "total_candidates": 4,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "KSI Blocks Teen Darts Sensation Littler From Sidemen Charity Event – Was It Too Harsh?",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "PewDiePie's AI Breakthrough: Is It Really Better Than ChatGPT? Full Review Inside",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Supreme Casket Mania: Why Did This $4,000 Item Sell Out Instantly? The Inside Story",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
