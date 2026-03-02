@@ -1,0 +1,26 @@
+{
+  "category": "fitness",
+  "lang": "es",
+  "scouted_at": "2026-03-02T05:42:04.187369+00:00",
+  "total_candidates": 6,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Análisis Exclusivo: Cómo Planet Fitness y Gold's Gym Dominarán el Mercado de Gimnasios en España en 2026",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "¿Qué Implicaciones Tendrá la Presencia de Empresas Españolas en FIBO 2026 para el Sector Fitness Nacional?",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Innovación y IA en el Sector Fitness: Lecciones de la Experiencia del EGYM Innovation Congress 2026 en Valencia",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
