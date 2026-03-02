@@ -121,3 +121,4 @@ fitness: Análisis Exclusivo: Cómo Planet Fitness y Gold's Gym Dominarán el Me
 fitness: Air Force Fitness Overhaul: Data Reveals Hidden Risks in New Standards
 fitness: Beyond Steps: How Data Integration is REALLY Transforming Wearable Fitness (and Where It Falls Short)
 ia: SaaSpocalypse 2026: Radiografía de la crisis que los VCs ya ven venir (y cómo prepararse)
+ia: The Pentagon's AI Playbook: Did Anthropic's Tech Sidestep the Ban in Iran Strikes?
