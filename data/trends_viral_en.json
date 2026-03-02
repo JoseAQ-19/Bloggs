@@ -1,0 +1,26 @@
+{
+  "category": "viral",
+  "lang": "en",
+  "scouted_at": "2026-03-02T21:05:25.485033+00:00",
+  "total_candidates": 20,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Is \"Therian\" Culture a Real Identity or AI-Fueled Disinformation? The Explosive Debate.",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Cardi B's \"Air Guitar\" Performance: Did She Cross the Line? Outrage Erupts Online.",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Did Grok AI *Predict* an Attack on Iran? The Chilling Theory Sweeping the Internet.",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
