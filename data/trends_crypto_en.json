@@ -1,0 +1,26 @@
+{
+  "category": "crypto",
+  "lang": "en",
+  "scouted_at": "2026-03-02T15:24:11.514001+00:00",
+  "total_candidates": 16,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Did Iranian Crypto Whales Predict the Airstrikes? A 700% Outflow Spike Analyzed.",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Forget the Halving Hype: Why Debasement Trades Could Be Bitcoin's Real Lifeline.",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Kalshi's Khamenei Contract Controversy: Exposing the Dark Side of Prediction Markets.",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
