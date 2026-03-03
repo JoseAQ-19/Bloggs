@@ -1,0 +1,26 @@
+{
+  "category": "fitness",
+  "lang": "en",
+  "scouted_at": "2026-03-03T06:07:42.593220+00:00",
+  "total_candidates": 7,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Is Leucine Harming Your Heart? New Study Links Excess Supplementation to Atherosclerosis.",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Skin-Tight vs. Loose Fit: Why the Future of Wearable Tech Might Be Flabby.",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Digital Twin Overload: How Longevity-Focused Fitness Risks Becoming Data-Obsessed.",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
