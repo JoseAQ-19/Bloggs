@@ -1,0 +1,26 @@
+{
+  "category": "ia",
+  "lang": "en",
+  "scouted_at": "2026-03-03T09:58:47.472380+00:00",
+  "total_candidates": 20,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Claude vs. ChatGPT: Why Privacy Concerns Are Driving Users to Anthropic",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "The AI Engine Optimization Trap: How You're Bleeding Money on the Wrong Platform",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Stripe's AI Pivot: Turning Cloud Costs into Profit – A Deep Dive for Enterprises",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
