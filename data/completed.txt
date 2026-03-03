@@ -134,3 +134,4 @@ ia: Claude.ai en crisis: el error que los fundadores de IA deben evitar
 ia: Claude vs. ChatGPT: Why Privacy Concerns Are Driving Users to Anthropic
 crypto: Volatilidad en Bitcoin: ¿Oportunidad o trampa? Los fondos de cobertura revelan su jugada maestra.
 crypto: Iranian Crypto Exodus: On-Chain Data Reveals Scale of Post-Airstrike Capital Flight
+youtube: KSI Buys His FIFA Football Team IRL: Genius Move or Epic Fail?
