@@ -1,0 +1,26 @@
+{
+  "category": "youtube",
+  "lang": "en",
+  "scouted_at": "2026-03-03T18:01:23.675563+00:00",
+  "total_candidates": 14,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "KSI Buys His FIFA Football Team IRL: Genius Move or Epic Fail?",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Fire-Breathing TikTok Challenge Burns Teen: Is Viral Fame Worth the Risk?",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "YouTube's AI Upscaling Scandal: Are Creators Being Exploited Without Consent?",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
