@@ -1,0 +1,26 @@
+{
+  "category": "viral",
+  "lang": "es",
+  "scouted_at": "2026-03-03T21:01:04.087243+00:00",
+  "total_candidates": 5,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Marta Carriedo desata la furia médica: ¿Por qué esta influencer se opone a las vacunas infantiles?",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Aída Nízar suplica ayuda desde Abu Dabi: De esquivar misiles a rogar por su vida. ¿Qué está pasando?",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "MIR 2026 al borde del caos: ¿Por qué la repetición del examen podría destruir las carreras de miles de médicos?",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
