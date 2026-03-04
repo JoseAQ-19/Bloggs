@@ -952,6 +952,42 @@ CRITICAL RULES:
 ════════════════════════════════════════════════════
 """
 
+    # === FIX 3: PRE-HOC URL INJECTION ===
+    # Extract verified URLs from research data and inject them BEFORE generation
+    verified_urls_block = ""
+    if isinstance(contexto, dict):
+        # Collect URLs from all research layers
+        all_urls = []
+        raw_content = contexto.get('content', '')
+        # Extract URLs from research text via regex
+        import re as _url_re
+        found_urls = _url_re.findall(r'https?://[^\s\)\]"\'<>]+', raw_content)
+        for u in found_urls:
+            u = u.rstrip('.,;:')
+            if u.startswith('http') and 'vertexaisearch' not in u and 'google.com/search' not in u:
+                if u not in all_urls:
+                    all_urls.append(u)
+        
+        # Also check for explicit sources list
+        sources = contexto.get('sources', [])
+        if isinstance(sources, list):
+            for src in sources:
+                if isinstance(src, dict):
+                    url = src.get('url', '')
+                    if url and url.startswith('http') and url not in all_urls:
+                        all_urls.append(url)
+        
+        if all_urls:
+            urls_list = "\n".join([f"  - {u}" for u in all_urls[:15]])
+            verified_urls_block = f"""
+
+### FUENTES VALIDADAS DISPONIBLES (SOLO ESTAS URLs)
+Las siguientes URLs han sido PRE-VERIFICADAS y son reales. DEBES usar al menos 3 de ellas como enlaces en el artículo.
+ESTÁ ABSOLUTAMENTE PROHIBIDO inventar, adivinar o fabricar URLs. Si necesitas un enlace que no está aquí, cita la fuente en texto plano con **negrita**.
+{urls_list}
+"""
+            print(f"   🔗 [Pre-Hoc] {len(all_urls)} URLs pre-verificadas inyectadas en el prompt")
+
     prompt = (
         f"{prompt_persona}\n"
         f"{SYSTEM_FORMAT_RULES}\n"
@@ -961,6 +997,7 @@ CRITICAL RULES:
         f"WRITE ARTICLE: {meta['titulo']}\n"
         f"{outline_section}"
         f"ORIGINAL RESEARCH DATA (use as factual foundation — cite sources with links):\n{research_text}\n"
+        f"{verified_urls_block}"
         f"TEMPLATE: {structure}\n"
         f"LANG: {lang}"
     )

@@ -1,8 +1,8 @@
 ---
-title: "SunnyV2's Downfall: The \$50 Million Mistake Every Influencer Should Fear"
+title: "SunnyV2's Downfall: The $50 Million Mistake Every Influencer Should Fear"
 date: 2026-02-27T17:57:01
 draft: false
-description: "SunnyV2's rapid rise & stunning fall is a cautionary tale. Discover the \$50 million misstep that crushed his empire, and how influencers can avoid a."
+description: "SunnyV2's rapid rise & stunning fall is a cautionary tale. Discover the $50 million misstep that crushed his empire, and how influencers can avoid a."
 featured_image: "/images/sunnyv2-youtube-downfall-accountability-en.jpg"
 tags: ["Creator Economy"]
 categories: ["youtube"]

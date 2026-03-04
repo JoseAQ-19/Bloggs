@@ -24,10 +24,22 @@ jobs:
         with:
           python-version: '3.11'
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
       - name: Install Dependencies
         run: |
           pip install -r requirements.txt
           playwright install chromium
+
+      - name: Setup NotebookLM MCP
+        run: |
+          npm install -g notebooklm-mcp-server
+          mkdir -p ~/.notebooklm-mcp
+          echo '${{ secrets.NOTEBOOKLM_AUTH_JSON }}' > ~/.notebooklm-mcp/auth.json
+          chmod 600 ~/.notebooklm-mcp/auth.json
+          echo "✅ NotebookLM MCP binary installed and auth injected"
 
       - name: Run Writer (ES)
         env:

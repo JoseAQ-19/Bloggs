@@ -23,6 +23,30 @@
 - [ ] Sitemap SEO optimizado (Generar plantillas `layouts/sitemap.xml` exclusivas en vez del base de Hugo).
 - [ ] Añadir compresión a .WebP pre-publicación en Hugo en vez de .JPG nativo.
 
+## 💰 Módulo Stocks/Funds (Aislado — Completado)
+- [x] `stocks_instructions.py` — Cerebro de configuración: prompts bilingües (Morningstar/Bestinver/Fidelity), disclaimers legales ES/EN, estructura obligatoria con tabla comparativa.
+- [x] `stocks_researcher.py` — Análisis de competidores (requests+BS4): Morningstar.es, Bestinver, Carmignac, Vanguard (ES) + Morningstar.com, Fidelity, Vanguard, BlackRock (EN). Detección de disclaimers y frases comunes.
+- [x] `stocks_scout.py` — Scout financiero: Google News RSS Finance + RSS competidores + Gemini Grounding Finance. Selector LLM especializado en finanzas.
+- [x] `stocks_writer.py` — Writer LLM cascada (Zhipu/GLM/Llama/Gemini), generador de título viral financiero, inyección FORZADA del disclaimer legal al final pase lo que pase.
+- [x] `stocks_main.py` — Orquestador independiente: Scout→Writer para ES+EN, crea content/es/funds/ y content/en/funds/, guarda .md con frontmatter Hugo, translationKey determinista.
+- [x] Crear workflows GitHub Actions `scout-funds-es.yml`, `scout-funds-en.yml`, `writer-funds-es.yml`, `writer-funds-en.yml`.
+- [ ] Crear imagen por defecto `static/images/defaults/default-funds.jpg`.
+- [ ] Test E2E manual: `python stocks_main.py --lang es`.
+
 ## 📝 Notas de Ejecución:
 - Todo funciona por Actions y la arquitectura "Headless CMS + Serverless" sigue robusta.
 - Próxima parada recomendada: Probar el workflow manualmente ahora que toda la tubería confía ciegamente en Zhipu para el español y OpenRouter para el inglés.
+- **Módulo Stocks/Funds** es 100% aislado (prefijo `stocks_`). Cero modificaciones al núcleo.
+
+## 🔧 Fix Cuellos de Botella — Pipeline Research (2026-03-03)
+- [x] **FIX 1: NotebookLM resucitado en CI/CD** — 14 workflows `writer-*.yml` actualizados con `actions/setup-node@v4`, `npm install -g notebooklm-mcp-server`, e inyección de `~/.notebooklm-mcp/auth.json` desde `${{ secrets.NOTEBOOKLM_AUTH_JSON }}`.
+- [x] **FIX 2: NotebookLM integrado en Stocks** — `stocks_main.py` ahora ejecuta FASE 1.5 (Deep Research via MCP) entre Scout y Writer. Crea notebook temporal, 3 queries financieras, extrae informe E-E-A-T, limpia notebook. `stocks_writer.py` consume los datos enriquecidos.
+- [x] **FIX 3: Links Pre-Hoc** — `main.py` y `stocks_writer.py` ahora extraen URLs verificadas del researcher/scout y las inyectan en el prompt ANTES de la generación. Bloque "FUENTES VALIDADAS DISPONIBLES (SOLO ESTAS URLs)" con prohibición explícita de fabricar URLs.
+- [ ] **ACCIÓN REQUERIDA:** Crear secret `NOTEBOOKLM_AUTH_JSON` en GitHub repo con el contenido de `~/.notebooklm-mcp/auth.json` local.
+- [ ] **ACCIÓN REQUERIDA:** Autenticar NotebookLM MCP localmente: `npx notebooklm-mcp-server auth` (una sola vez).
+- [ ] Test E2E con `workflow_dispatch` en uno de los writers para validar la cadena completa.
+
+## 🔍 /gsd-debug — Correcciones de Despliegue (2026-03-04)
+- [x] **BUG CRÍTICO**: `scout-tools-es.yml` línea 39 hacía `git add data/trends_ia_es.json` en vez de `data/trends_tools_es.json`. Copy-paste del scout IA. Corregido.
+- [x] **API DEPRECADA**: HuggingFace migró de `api-inference.huggingface.co` a `router.huggingface.co` (HTTP 410). Corregido en `trend_scout.py`, `stocks_scout.py` y `novum_visual.py`.
+- [x] **RACE CONDITION**: Writer Fitness ES arrancó antes de que el Scout commiteara. Mitigado con el diseño actual de `workflow_run` + `ref: main` (inherente al trigger).

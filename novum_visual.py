@@ -191,7 +191,7 @@ class NovumVisualEngine:
         
         print("   🤗 [Hugging Face] Generando con FLUX.1-schnell...")
         
-        api_url = "https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell"
+        api_url = "https://router.huggingface.co/models/black-forest-labs/FLUX.1-schnell"
         headers = {"Authorization": f"Bearer {self.hf_key}"}
         payload = {"inputs": prompt}
         

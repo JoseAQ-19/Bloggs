@@ -104,7 +104,7 @@ def _llm_generate(prompt, force_json=False):
     if HF_SCOUT_KEY:
         print("   🤗 [Omega] Intento 2: HF Serverless / Qwen2.5-7B...")
         try:
-            hf_url = "https://api-inference.huggingface.co/models/Qwen/Qwen2.5-7B-Instruct/v1/chat/completions"
+            hf_url = "https://router.huggingface.co/models/Qwen/Qwen2.5-7B-Instruct/v1/chat/completions"
             hf_headers = {
                 "Authorization": f"Bearer {HF_SCOUT_KEY}",
                 "Content-Type": "application/json"

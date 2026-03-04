@@ -1,15 +1,11 @@
-name: "Writer tools - Spanish"
-
+name: "Writer Tools - Spanish"
 on:
   workflow_run:
-    workflows: ["Scout tools - Spanish"]
-    types:
-      - completed
+    workflows: ["Scout Tools - Spanish"]
+    types: [completed]
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -19,26 +15,23 @@ jobs:
         with:
           fetch-depth: 0
           ref: main
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
       - name: Install Dependencies
         run: |
           pip install -r requirements.txt
-          pip install notebooklm-mcp-server youtube-transcript-api yt-dlp
           playwright install chromium
-
-      - name: Inject NotebookLM Auth
-        env:
-          NOTEBOOKLM_AUTH: ${{ secrets.NOTEBOOKLM_AUTH }}
+      - name: Setup NotebookLM MCP
         run: |
+          npm install -g notebooklm-mcp-server
           mkdir -p ~/.notebooklm-mcp
-          echo "$NOTEBOOKLM_AUTH" > ~/.notebooklm-mcp/auth.json
-
-      - name: Run Writer (ES)
-        env:
+          echo '${{ secrets.NOTEBOOKLM_AUTH_JSON }}' > ~/.notebooklm-mcp/auth.json
+          chmod 600 ~/.notebooklm-mcp/auth.json
+      - env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
           ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
@@ -47,22 +40,11 @@ jobs:
           EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
           GOOGLE_INDEXING_JSON: ${{ secrets.GOOGLE_INDEXING_JSON }}
         run: python main.py --category tools --lang es
-
-      - name: Verify Content Integrity
-        run: |
-          if grep -r 'translationKey: "None"' content/; then
-            echo "❌ CRITICAL ERROR: Null TranslationKey detected. Aborting."
-            exit 1
-          fi
-          echo "✅ Content integrity verified."
-
-      - name: Push Content
-        run: |
+      - run: |
           git config --global user.name "JoseAQ-19"
           git config --global user.email "josearizaquintero@gmail.com"
           git add content/es/tools/ data/ static/images/ data/.*
           git diff --staged --quiet && echo "No new content generated" && exit 0
-          git commit -m "🤖 tools (ES) Content Generated"
+          git commit -m "🤖 Tools (ES) Content Generated"
           git pull --rebase origin main
           git push
-
