@@ -7,7 +7,7 @@ menu: main
 title: Sobre Nosotros
 translationKey: about
 url: /about/
-weight: 70
+weight: 80
 ---
 
 ## Manifiesto Novum: Periodismo en la Era del Ruido

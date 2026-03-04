@@ -7,7 +7,7 @@ menu: main
 title: About Us
 translationKey: about
 url: /about/
-weight: 70
+weight: 80
 ---
 
 ## Novum Manifesto: Journalism in the Age of Noise
