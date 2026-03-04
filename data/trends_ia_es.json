@@ -1,0 +1,26 @@
+{
+  "category": "ia",
+  "lang": "es",
+  "scouted_at": "2026-03-04T09:24:20.104614+00:00",
+  "total_candidates": 14,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Gemini 3.1 Flash Lite: ¿El fin del ChatGPT Pro? Google reduce el precio de la IA... y quizás su calidad",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Claude vs. ChatGPT: La memoria gratuita de Claude es la clave para migrar (y por qué deberías hacerlo)",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "La nueva IA de Instagram: ¿Tu contenido se usará para vender sin que lo sepas? El controvertido plan de Meta",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
