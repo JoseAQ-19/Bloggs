@@ -88,7 +88,7 @@ def _call_writer_engine(prompt_text: str, lang: str = "en") -> Optional[str]:
             try:
                 or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
                 resp = or_client.chat.completions.create(
-                    model="zhipuai/glm-4-flash",
+                    model="z-ai/glm-4.5-air:free",
                     messages=[{"role": "user", "content": prompt_text}],
                     temperature=0.85,
                     max_tokens=4096
@@ -128,7 +128,7 @@ def _call_writer_engine(prompt_text: str, lang: str = "en") -> Optional[str]:
             try:
                 or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
                 resp = or_client.chat.completions.create(
-                    model="zhipuai/glm-4-flash",
+                    model="z-ai/glm-4.5-air:free",
                     messages=[{"role": "user", "content": prompt_text}],
                     temperature=0.85,
                     max_tokens=4096

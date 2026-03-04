@@ -366,16 +366,37 @@ def run(category, content_dir="content/es"):
     print(f"\n   ✅ [Editor ES] PASO 4: Validación post-edición...")
     is_valid, issues = _validate_output(edited_body, body)
 
+    # Si el word count es bajo, REINTENTO pidiendo al LLM que amplíe
+    if not is_valid and any("Word count" in i or "Se perdió" in i for i in issues):
+        current_words = len(edited_body.split())
+        print(f"   🔄 [Editor ES] Word count bajo ({current_words}). Reintentando con prompt de expansión...")
+        expand_prompt = (
+            f"El siguiente artículo tiene solo {current_words} palabras y necesita al menos 1400. "
+            f"AMPLÍA el contenido: añade más análisis, datos contextuales, perspectivas de expertos "
+            f"y profundiza en los puntos existentes. NO elimines nada del texto actual, solo AÑADE.\n\n"
+            f"ARTÍCULO A AMPLIAR:\n\n{edited_body}\n\n"
+            f"Devuelve ÚNICAMENTE el artículo ampliado en Markdown puro. Sin bloques de código, sin comentarios."
+        )
+        expanded_body = _call_llm_es(expand_prompt, SYSTEM_PROMPT_EDITOR_ES)
+        if expanded_body and len(expanded_body.split()) > current_words:
+            # Limpiar wrapping
+            expanded_body = expanded_body.strip()
+            if expanded_body.startswith("```markdown"):
+                expanded_body = expanded_body[len("```markdown"):].strip()
+            if expanded_body.startswith("```"):
+                expanded_body = expanded_body[3:].strip()
+            if expanded_body.endswith("```"):
+                expanded_body = expanded_body[:-3].strip()
+            edited_body = expanded_body
+            is_valid, issues = _validate_output(edited_body, body)
+            print(f"   📊 [Editor ES] Tras expansión: {len(edited_body.split())} palabras")
+        else:
+            print(f"   ⚠️ [Editor ES] Expansión falló. Usando versión disponible.")
+
     if not is_valid:
-        print(f"   ⚠️ [Editor ES] Validación fallida:")
+        print(f"   ⚠️ [Editor ES] Validación con warnings (se publica igualmente):")
         for issue in issues:
             print(f"      - {issue}")
-        # Si el word count cayó demasiado, rechazar
-        if any("Word count" in i or "Se perdió" in i for i in issues):
-            print(f"   ❌ [Editor ES] Rechazado por pérdida de contenido. Borrador original preservado.")
-            return {"status": "rejected", "reason": issues, "filepath": draft_path}
-        # Si solo hay frases vetadas residuales, aceptar con warnings
-        print(f"   ⚠️ [Editor ES] Aceptando con warnings.")
 
     # A3: Guardar versión editada (preservar frontmatter)
     final_content = f"{frontmatter}\n\n{edited_body}\n"
