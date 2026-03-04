@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-04T15:21:14.862202+00:00",
-  "total_candidates": 21,
+  "scouted_at": "2026-03-04T15:38:49.743910+00:00",
+  "total_candidates": 20,
   "topics": [
     {
       "rank": 1,
-      "title": "IBIT Bounces Back: BlackRock's Bitcoin ETF Recovers After 42,000 BTC Outflow",
+      "title": "Morningstar recognizes OAKM as a top active ETF for 2026",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Vanguard's Unexpected Star: UK Equity Income Fund Surges into Top 10 with 39% Return",
+      "title": "Morningstar (NASDAQ:MORN) Chairman Sells $569,203.04 in Stock",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "VGT's Tech Titan Trouble: Is Vanguard's Flagship ETF Overly Reliant on Apple, Microsoft & Nvidia?",
+      "title": "Eight Sleep Reaches $1.5B Valuation, Accelerates Predictive AI for Health",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -66,11 +66,6 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0hYNEdyNXhnOXNvbUF1dVF5NlBmMGZiNjBNZUpXYVZSS3ZtcVh2dkJCQnJROWNRbkVVSTdnSkpEM0tWTFlqbEdiWWgxdkMxRGZCNE9vWGk3SFBIREFBM1l3Z3dTN2hiRkRHb0huUVFlajlWSDBoRHA5cnh4S3gzOExyZGViTE05TzVmV1c4cDFiTllmN1lvak1OTExVYS1WRFhjTW5Tb09VUGVVN3lkNXlmR002TVRpWnRPaXBrd3FsT0MyZVhmbHhxRG0?oc=5"
     },
     {
-      "title": "FEG Investment Advisors Appoints Holly Laiveling as Chief Technology Officer",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb1pTX2lYXzVCNWJVckxnU1hvUER1TzRmRW5Hc1NueWR4V1U2cXVUYnNpOFE0ZmVVUzJ5R3Z6Y0FnVDNINkxaWGlMYVpHT3ktb0NCUEFKX0dNRE1hTlZGaVV0dEZDdHdGaHJMU2Z4Vkp0YWJ0eTFvRHozRWdlTFBoM2JndlZWYnJHLVhWWWlZdV8tb2NickVTbG5mSW5UTXhsRnFLSWhoWHZIdEN3YzRmc0FicTRMUGtxOC0ybG1tel95cmg5N25ZUHA3NXg4T0gtRHR5Qw?oc=5"
-    },
-    {
       "title": "Qatar Shuts Down LNG Production as War Escalates",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRDZnRDdHNHVFLTBJbDFmMFRFTDFPRmRzQzB0VFJ5bGswYXVNSE84Vm1yajR0ZGtjRVV5SWpjcVhCcDljeDZLSlRmNW4tS01aeGtManpBMXYxTXBtQmRRUWw1UFN6UExvcFJhcHc5Y3lKUHRNWjYzb1pxSnZ4ckVtUWNPWmpsMFVqbWFnY1dEQjd6Y0k?oc=5"
@@ -81,9 +76,9 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZENvVWxzd05nckVPVjBRb2VnNGtQTzJPVy10aHZfTExIcDVKcmU5QlRPTDlZWFR5QWU2U1VqUGRhdlJaOGtNeGk2LVhGdHQ3R0N2TzlBek1vMDFHT0N5SFQ4XzNZNmlBSTE3Y1pWYVpOYS1OTVBPWUNuakJuR2FkRGJvcXVOWm5qOU1XUm92bGhqS0szMjlJQVkxZ2RreFFZMkdhaHNmaHF0VG9Pb0tkWGV6eDg?oc=5"
     },
     {
-      "title": "Cooling Water Treatment Chemicals Market Forecast 2026-2036: Market to Reach USD 27,209.2 Million by 2036 at 6.1% CAGR | FMI Analysis",
+      "title": "Putnam Large Cap Value Fund Q4 2025 Commentary",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOX25iT1htOGZBTWZvYjV6amZVc0dEWC03WXNjSWU1cS1uZ2pzOGdESWN6V1JCeE9oSzFIbGVmd2ptRlJjNTRPbWE5UnhjeXEtVUJ5Z0F5dkViajFuNDZFMHZRdDUyMHpkUWxoSy1USzVVZkU5YnVOZm1aX2txY05uRWtWWjlYLWJnczhhTm1SbHlLSXEtb2tUOVA0VnN5cXloRWVMV1l0U1p5YmwzcGRIbWd0bmN0QzZZeXpsUkVwcmNhWU51QnNCc25VR2gxek4ya0lOejhDOFdSQ0JOQTc2dm5YdmgzRVg1UGVyZTdjeEhxOWxLM0F5ZEYwMWhPVC1US0F0ZXNwdnJqMVVyWHc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0laRGgtMnlRSmoyY0JoMl9PTXV2WFZrdmN1VXNJUGZncHBEN3R3TV92ZDd3SXV1UG9qUUZTTDBKMTktWThoYzNhb2FwUGhmTVR4bV9wTzZ4Ykh4cGpodTlCWFByYjlya2JzT3pqT1ZHc2FpRWFZdHlnQlBlT3ZvWUFaQjdrU2RKdmgyU0w3Ti1XVU50cmFsWnpVRld2LUtIVkVJOVVpcG01OWk1RGVqSTNn?oc=5"
     },
     {
       "title": "Best Robo-Advisors: Top Picks for March 2026",
@@ -91,14 +86,14 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwdnlLa0xYZ1J3XzBwUG5hWTJFejVsZDVvSk9qTkxZam55N1pNV21ZcWVLSlQ5cFVJdTc2TE5HTzFPZ21EUjAxRDJpZV90WHYxaDRYb2FHSzFteWJoZ2hiZWNIYVIxdw?oc=5"
     },
     {
+      "title": "Fidelity’s Top 9 ETFs Put Up Some Huge Returns",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmYmczTjlzU0l3dC1VQmpza2NuN2VGR05iX2JBMFBZV0xKdm53UnU0bm9SRl8zVTRPX0RaMERycjdkSzNSc1BHWENTeDNQOWU4dW5DREs4MFIzNG9vMGZ6aWRZdUdOZ3ZCazlBT0ZuZVc3QW44UkE?oc=5"
+    },
+    {
       "title": "Fidelity Total Bond ETF Q4 2025 Commentary (FBND)",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObThkQXVsczlyazFhSGF3VTN5QmdJLTZPZDR0UmkwS2l5SUVmdXpveHVlQU5ad09SbHJGeDdjb01sYVktczdPNlotTGloMF95bzJsb0duR0czTEh4aC1DQmxBVGtmSnZwbnlaeEhoN0ppbzJOSC1xOWw5SjhKMHJxY1AzM1VHaVJzTTgw?oc=5"
-    },
-    {
-      "title": "If You’re Not Investing in This Winning ETF, You Need to Ask Yourself Why",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93VHlrdXNpN0YzZU1vNkYybXBycE5hYW1USzZDaklxamw0c214RFlYMFBueGdWcVAzQi1EOWxMTE9sSlRjS2pGSEIyN1Rtbm83bU1VcFpadVBDN21aUm5DU2NXVkRwUGwzc1doVE5NRW03Sk10aEhnOWxIOUN2QQ?oc=5"
     },
     {
       "title": "5 Best Gold ETFs to Buy for 2026",
@@ -116,9 +111,9 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JLVpYSFR3Q3RBV3h4RjdxcjZ2U09mREdnOWlINEsyRWJobV92bmw1VnNNQXpBSWxTbUdTckhFX3BMVFh0VFgzLUxkTzVmXy1IME9WUnVLblNkam1DUUdYc25sSlFvdXhlRzlYVVBPa2VKN2c?oc=5"
     },
     {
-      "title": "Strengthen Your Passive Income Stream with High-Yielding REITs",
+      "title": "If You’re Not Investing in This Winning ETF, You Need to Ask Yourself Why",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmU0UFUzanpmYjA3SE9QSHBBQlU0SFdCWE5tWFZ6dVVHSEEzU0tIZ0JqbUdvYWhjeVJMVGY3cDBwbThaZTRkRnpZZDBKaklCLThORFkxTXpwZHVGVEN6NWZkaTRLUXJaTVpoa1Q3R2pTTmhKSkdCM3hMOW5TN2pmOVg2Z0RwazlZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93VHlrdXNpN0YzZU1vNkYybXBycE5hYW1USzZDaklxamw0c214RFlYMFBueGdWcVAzQi1EOWxMTE9sSlRjS2pGSEIyN1Rtbm83bU1VcFpadVBDN21aUm5DU2NXVkRwUGwzc1doVE5NRW03Sk10aEhnOWxIOUN2QQ?oc=5"
     },
     {
       "title": "Best Stocks & Shares ISA Providers For 2026",
@@ -126,27 +121,32 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5dmc5c1pOdF8xMDhFWmNLRUgyRFdTYlRYcFpMLU5KbnB2U1R3WFBIbWxYX1NrVHNEbFYzaE56RkE3QVRXZThRUm04aFdOcTJTMnk4UUZyOGYyc3dvZTZGQV9mR3I5WDIzY19QenAtQmU3QXNrOGc?oc=5"
     },
     {
-      "title": "BlackRock's iShares Bitcoin Trust (IBIT) sees weekly inflows reach $882 million, leading recovery after shedding over 42,000 BTC from peak holdings.",
+      "title": "Vanguard S&P 500 US Shares Index ETF (ASX: V500) launches in Australia with a management fee of 0.07% p.a.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "US-listed ETFs registered $173 billion of inflows in February, resulting in $334 billion YTD, signaling a potential $2 trillion of net new assets for 2026.",
+      "title": "Vanguard International High Dividend Yield ETF (VYMI) expense ratio slashed from 0.17% to 0.07%, a 60% reduction.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard FTSE UK Equity Income Index £ Acc enters top 10 most-bought funds with a 39% one-year return and 66% three-year return.",
+      "title": "US-listed ETFs saw USD 173 billion in inflows in February 2026, potentially leading to a record USD 2 trillion of net new assets for the year.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "SEC warns leveraged ETF issuers against launching new funds with aggressive structures, potentially impacting firms like Leverage Shares, Direxion and ProShares.",
+      "title": "Dynamic Active Multi-Crypto ETF (Ticker: DXMC) launches on Cboe Canada, offering actively managed exposure to Bitcoin, Ether, Solana and XRP.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard Information Technology ETF (VGT) declines 2.64% YTD in 2026, while Nvidia, Apple, and Microsoft represent over 43% of the fund's total assets.",
+      "title": "Vanguard U.S. Growth Fund (VWUSX) has a three-year annualized return of 24.6%, holding 11.2% of its assets in NVIDIA as of November 2025.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Morningstar recognizes Oakmark U.S. Large Cap ETF (OAKM) as one of the \"Best Active ETFs to Buy in 2026\".",
       "source": "gemini_grounding_finance",
       "url": ""
     }
