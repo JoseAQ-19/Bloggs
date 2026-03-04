@@ -100,7 +100,27 @@ def _call_writer_engine(prompt_text, lang="en"):
             except Exception as e:
                 logging.warning(f"OpenRouter error: {e}. Cayendo a Gemini...")
     else:
-        # ── MOTOR EN: OpenRouter GLM-4.5-Air → Llama 3.3 → Gemini ──
+        # ── MOTOR EN 1: Zhipu Nativo (STOCKS_WRITER_API_KEY) ──
+        if STOCKS_ZHIPU_KEY:
+            print("   🧠 [Stocks Writer EN] Motor 1: Zhipu GLM-4-FlashX (Nativo)...")
+            try:
+                zhipu_client = OpenAI(api_key=STOCKS_ZHIPU_KEY, base_url="https://open.bigmodel.cn/api/paas/v4/")
+                resp = zhipu_client.chat.completions.create(
+                    model="glm-4-flashx",
+                    messages=[{"role": "user", "content": prompt_text}],
+                    temperature=0.85,
+                    max_tokens=4096
+                )
+                result = resp.choices[0].message.content.strip()
+                if result and len(result) > 500:
+                    print("   ✅ Zhipu Nativo respondió correctamente.")
+                    return result
+                else:
+                    print("   ⚠️ Zhipu Nativo respuesta muy corta. Fallback...")
+            except Exception as e:
+                logging.warning(f"Zhipu Nativo error: {e}. Cayendo a OpenRouter...")
+
+        # ── MOTOR EN 2: OpenRouter GLM-4.5-Air → Llama 3.3 → Gemini ──
         if or_key:
             print("   🧠 [Stocks Writer EN] Motor 1: GLM-4.5-Air...")
             try:
