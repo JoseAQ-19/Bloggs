@@ -64,23 +64,40 @@ def _call_writer_engine(prompt_text: str, lang: str = "en") -> Optional[str]:
     if lang == "es":
         # ── MOTOR ES 1: Zhipu Nativo (STOCKS_WRITER_API_KEY) ──
         if STOCKS_ZHIPU_KEY:
-            print("   🧠 [Stocks Writer ES] Motor 1: Zhipu GLM-4-FlashX (Nativo)...")
+            print("   🧠 [Stocks Writer ES] Motor 1: Zhipu GLM (Nativo)...")
             try:
                 zhipu_client = OpenAI(api_key=STOCKS_ZHIPU_KEY, base_url="https://open.bigmodel.cn/api/paas/v4/")
-                resp = zhipu_client.chat.completions.create(
-                    model="glm-4-flash",
-                    messages=[{"role": "user", "content": prompt_text}],
-                    temperature=0.85,
-                    max_tokens=4096
-                )
+                
+                # Intentamos primero con glm-4-flash, si la cuenta no lo tiene habilitado, probamos con glm-4
+                model_to_use = "glm-4-flash"
+                try:
+                    resp = zhipu_client.chat.completions.create(
+                        model=model_to_use,
+                        messages=[{"role": "user", "content": prompt_text}],
+                        temperature=0.85,
+                        max_tokens=4096
+                    )
+                except Exception as inner_e:
+                    if "1211" in str(inner_e) or "不存在" in str(inner_e):
+                        print(f"   ⚠️ Zhipu Nativo: '{model_to_use}' no existe en esta cuenta. Probando 'glm-4'...")
+                        model_to_use = "glm-4"
+                        resp = zhipu_client.chat.completions.create(
+                            model=model_to_use,
+                            messages=[{"role": "user", "content": prompt_text}],
+                            temperature=0.85,
+                            max_tokens=4096
+                        )
+                    else:
+                        raise inner_e
+
                 result = resp.choices[0].message.content.strip()
                 if result and len(result) > 500:
-                    print("   ✅ Zhipu Nativo respondió correctamente.")
+                    print(f"   ✅ Zhipu Nativo ({model_to_use}) respondió correctamente.")
                     return result
                 else:
                     print("   ⚠️ Zhipu Nativo respuesta muy corta. Fallback...")
             except Exception as e:
-                logging.warning(f"Zhipu Nativo error: {e}. Cayendo a OpenRouter...")
+                logging.warning(f"Zhipu Nativo error completo: {e}. Cayendo a OpenRouter...")
 
         # ── MOTOR ES 2: OpenRouter / Zhipu GLM (con retry) ──
         if or_key:
@@ -116,23 +133,39 @@ def _call_writer_engine(prompt_text: str, lang: str = "en") -> Optional[str]:
     else:
         # ── MOTOR EN 1: Zhipu Nativo (STOCKS_WRITER_API_KEY) ──
         if STOCKS_ZHIPU_KEY:
-            print("   🧠 [Stocks Writer EN] Motor 1: Zhipu GLM-4-FlashX (Nativo)...")
+            print("   🧠 [Stocks Writer EN] Motor 1: Zhipu GLM (Nativo)...")
             try:
                 zhipu_client = OpenAI(api_key=STOCKS_ZHIPU_KEY, base_url="https://open.bigmodel.cn/api/paas/v4/")
-                resp = zhipu_client.chat.completions.create(
-                    model="glm-4-flash",
-                    messages=[{"role": "user", "content": prompt_text}],
-                    temperature=0.85,
-                    max_tokens=4096
-                )
+                
+                model_to_use = "glm-4-flash"
+                try:
+                    resp = zhipu_client.chat.completions.create(
+                        model=model_to_use,
+                        messages=[{"role": "user", "content": prompt_text}],
+                        temperature=0.85,
+                        max_tokens=4096
+                    )
+                except Exception as inner_e:
+                    if "1211" in str(inner_e) or "不存在" in str(inner_e):
+                        print(f"   ⚠️ Zhipu Nativo: '{model_to_use}' no existe en esta cuenta. Probando 'glm-4'...")
+                        model_to_use = "glm-4"
+                        resp = zhipu_client.chat.completions.create(
+                            model=model_to_use,
+                            messages=[{"role": "user", "content": prompt_text}],
+                            temperature=0.85,
+                            max_tokens=4096
+                        )
+                    else:
+                        raise inner_e
+
                 result = resp.choices[0].message.content.strip()
                 if result and len(result) > 500:
-                    print("   ✅ Zhipu Nativo respondió correctamente.")
+                    print(f"   ✅ Zhipu Nativo ({model_to_use}) respondió correctamente.")
                     return result
                 else:
                     print("   ⚠️ Zhipu Nativo respuesta muy corta. Fallback...")
             except Exception as e:
-                logging.warning(f"Zhipu Nativo error: {e}. Cayendo a OpenRouter...")
+                logging.warning(f"Zhipu Nativo error completo: {e}. Cayendo a OpenRouter...")
 
         # ── MOTOR EN 2: OpenRouter GLM-4.5-Air → Llama 3.3 → Gemini ──
         if or_key:
