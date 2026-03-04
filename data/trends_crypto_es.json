@@ -1,0 +1,26 @@
+{
+  "category": "crypto",
+  "lang": "es",
+  "scouted_at": "2026-03-04T14:54:15.606765+00:00",
+  "total_candidates": 16,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Harvard vs. Bitcoin: ¿Por qué la élite inversora se inclina por Ethereum?",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Fraude eléctrico y Bitcoin: La mina ilegal desmantelada que revela los riesgos ocultos del minado.",
+      "lang": "es",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Cripto en la mira: Cómo el nuevo reglamento fiscal español cambiará las reglas del juego para inversores.",
+      "lang": "es",
+      "source": "llm_selected"
+    }
+  ]
+}
