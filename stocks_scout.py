@@ -54,71 +54,103 @@ def _stocks_llm_generate(prompt, force_json=False):
     """
     # ── INTENTO 1: OpenRouter ──
     if OPENROUTER_SCOUT_KEY:
-        print("   🧠 [Stocks Scout] Motor 1: OpenRouter / Llama-3.3-70B...")
-        try:
-            headers = {
-                "Authorization": f"Bearer {OPENROUTER_SCOUT_KEY}",
-                "Content-Type": "application/json",
-                "HTTP-Referer": "https://novum.blog",
-                "X-Title": "StocksScout"
-            }
-            payload = {
-                "model": "meta-llama/llama-3.3-70b-instruct:free",
-                "messages": [{"role": "user", "content": prompt}],
-                "temperature": 0.7,
-                "max_tokens": 2048
-            }
-            if force_json:
-                payload["response_format"] = {"type": "json_object"}
+        max_retries = 3
+        backoff_seconds = [10, 25, 60]
+        for attempt in range(max_retries):
+            print(f"   🧠 [Stocks Scout] Motor 1: OpenRouter / Llama-3.3-70B (intento {attempt+1}/{max_retries})...")
+            try:
+                headers = {
+                    "Authorization": f"Bearer {OPENROUTER_SCOUT_KEY}",
+                    "Content-Type": "application/json",
+                    "HTTP-Referer": "https://novum.blog",
+                    "X-Title": "StocksScout"
+                }
+                payload = {
+                    "model": "meta-llama/llama-3.3-70b-instruct:free",
+                    "messages": [{"role": "user", "content": prompt}],
+                    "temperature": 0.7,
+                    "max_tokens": 2048
+                }
+                if force_json:
+                    payload["response_format"] = {"type": "json_object"}
 
-            resp = requests.post(
-                "https://openrouter.ai/api/v1/chat/completions",
-                headers=headers, json=payload, timeout=60
-            )
-            if resp.status_code == 200:
-                text = resp.json()["choices"][0]["message"]["content"].strip()
-                if text and len(text) > 20:
-                    print("   ✅ OpenRouter respondió correctamente.")
-                    return text
-            elif resp.status_code == 429:
-                print("   ⚠️ OpenRouter rate-limit (429). Saltando...")
-            else:
-                print(f"   ⚠️ OpenRouter HTTP {resp.status_code}")
-        except Exception as e:
-            print(f"   ⚠️ OpenRouter error: {e}")
+                resp = requests.post(
+                    "https://openrouter.ai/api/v1/chat/completions",
+                    headers=headers, json=payload, timeout=60
+                )
+                if resp.status_code == 200:
+                    text = resp.json()["choices"][0]["message"]["content"].strip()
+                    if text and len(text) > 20:
+                        print("   ✅ OpenRouter respondió correctamente.")
+                        return text
+                elif resp.status_code == 429:
+                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
+                    print(f"   ⏳ OpenRouter rate-limit (429). Esperando {wait}s...")
+                    time.sleep(wait)
+                else:
+                    print(f"   ⚠️ OpenRouter HTTP {resp.status_code}")
+                    break
+            except Exception as e:
+                error_str = str(e)
+                if "429" in error_str or "rate" in error_str.lower():
+                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
+                    print(f"   ⏳ OpenRouter Error 429 (excepción). Esperando {wait}s...")
+                    time.sleep(wait)
+                else:
+                    print(f"   ⚠️ OpenRouter exception: {e}")
+                    break
 
     # ── INTENTO 2: HuggingFace ──
     if HF_SCOUT_KEY:
-        print("   🤗 [Stocks Scout] Motor 2: HF / Qwen2.5-7B...")
-        try:
-            hf_resp = requests.post(
-                "https://router.huggingface.co/models/Qwen/Qwen2.5-7B-Instruct/v1/chat/completions",
-                headers={
-                    "Authorization": f"Bearer {HF_SCOUT_KEY}",
-                    "Content-Type": "application/json"
-                },
-                json={
-                    "model": "Qwen/Qwen2.5-7B-Instruct",
-                    "messages": [{"role": "user", "content": prompt}],
-                    "temperature": 0.7,
-                    "max_tokens": 2048,
-                    "stream": False
-                },
-                timeout=120
-            )
-            if hf_resp.status_code == 200:
-                text = hf_resp.json()["choices"][0]["message"]["content"].strip()
-                if text and len(text) > 20:
-                    if force_json:
-                        json_match = re.search(r'\{.*\}', text, re.DOTALL)
-                        if json_match:
-                            text = json_match.group(0)
-                    print("   ✅ HF/Qwen respondió correctamente.")
-                    return text
-            elif hf_resp.status_code == 503:
-                print("   ⚠️ HF modelo dormido (503). Cortocircuito → Gemini...")
-        except Exception as e:
-            print(f"   ⚠️ HF error: {e}")
+        max_retries = 3
+        backoff_seconds = [10, 25, 60]
+        for attempt in range(max_retries):
+            print(f"   🤗 [Stocks Scout] Motor 2: HF / Qwen2.5-7B (intento {attempt+1}/{max_retries})...")
+            try:
+                hf_resp = requests.post(
+                    "https://router.huggingface.co/models/Qwen/Qwen2.5-7B-Instruct/v1/chat/completions",
+                    headers={
+                        "Authorization": f"Bearer {HF_SCOUT_KEY}",
+                        "Content-Type": "application/json"
+                    },
+                    json={
+                        "model": "Qwen/Qwen2.5-7B-Instruct",
+                        "messages": [{"role": "user", "content": prompt}],
+                        "temperature": 0.7,
+                        "max_tokens": 2048,
+                        "stream": False
+                    },
+                    timeout=120
+                )
+                if hf_resp.status_code == 200:
+                    text = hf_resp.json()["choices"][0]["message"]["content"].strip()
+                    if text and len(text) > 20:
+                        if force_json:
+                            json_match = re.search(r'\{.*\}', text, re.DOTALL)
+                            if json_match:
+                                text = json_match.group(0)
+                        print("   ✅ HF/Qwen respondió correctamente.")
+                        return text
+                elif hf_resp.status_code == 429:
+                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
+                    print(f"   ⏳ HF rate-limit (429). Esperando {wait}s...")
+                    time.sleep(wait)
+                elif hf_resp.status_code == 503:
+                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
+                    print(f"   ⚠️ HF modelo dormido (503). Esperando {wait}s...")
+                    time.sleep(wait)
+                else:
+                    print(f"   ⚠️ HF HTTP error: {hf_resp.status_code}")
+                    break
+            except Exception as e:
+                error_str = str(e)
+                if "429" in error_str or "rate" in error_str.lower() or "503" in error_str:
+                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
+                    print(f"   ⏳ HF Error 429/503 (excepción). Esperando {wait}s...")
+                    time.sleep(wait)
+                else:
+                    print(f"   ⚠️ HF exception: {e}")
+                    break
 
     # ── INTENTO 3: Gemini ──
     if gemini_client:

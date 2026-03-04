@@ -62,47 +62,83 @@ def _llm_generate(prompt: str, force_json: bool = False) -> Optional[str]:
     
     # ── [1] OPENROUTER (Llama 3.3 70B) ──
     if OPENROUTER_SCOUT_KEY:
-        print("   🧠 [Omega] Intento 1: OpenRouter (Llama 3.3 70B)...")
-        try:
-            headers = {
-                "Authorization": f"Bearer {OPENROUTER_SCOUT_KEY}",
-                "Content-Type": "application/json",
-                "X-Title": "TrendScout"
-            }
-            payload = {
-                "model": "meta-llama/llama-3.3-70b-instruct:free",
-                "messages": [{"role": "user", "content": prompt}],
-                "temperature": 0.7,
-                "max_tokens": 1024
-            }
-            if force_json: payload["response_format"] = {"type": "json_object"}
+        max_retries = 3
+        backoff_seconds = [10, 25, 60]
+        for attempt in range(max_retries):
+            print(f"   🧠 [Omega] Intento 1: OpenRouter (Llama 3.3 70B) (intento {attempt+1}/{max_retries})...")
+            try:
+                headers = {
+                    "Authorization": f"Bearer {OPENROUTER_SCOUT_KEY}",
+                    "Content-Type": "application/json",
+                    "X-Title": "TrendScout"
+                }
+                payload = {
+                    "model": "meta-llama/llama-3.3-70b-instruct:free",
+                    "messages": [{"role": "user", "content": prompt}],
+                    "temperature": 0.7,
+                    "max_tokens": 1024
+                }
+                if force_json: payload["response_format"] = {"type": "json_object"}
 
-            resp = requests.post("https://openrouter.ai/api/v1/chat/completions", headers=headers, json=payload, timeout=30)
-            if resp.status_code == 200:
-                text = resp.json()["choices"][0]["message"]["content"].strip()
-                if len(text) > 20: return text
-        except Exception as e:
-            print(f"      ⚠️ OpenRouter falló: {e}")
+                resp = requests.post("https://openrouter.ai/api/v1/chat/completions", headers=headers, json=payload, timeout=30)
+                if resp.status_code == 200:
+                    text = resp.json()["choices"][0]["message"]["content"].strip()
+                    if len(text) > 20: return text
+                elif resp.status_code == 429:
+                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
+                    print(f"      ⏳ OpenRouter rate-limit (429). Esperando {wait}s...")
+                    time.sleep(wait)
+                else:
+                    print(f"      ⚠️ OpenRouter HTTP {resp.status_code}")
+                    break
+            except Exception as e:
+                error_str = str(e)
+                if "429" in error_str or "rate" in error_str.lower():
+                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
+                    print(f"      ⏳ OpenRouter Error 429 (excepción). Esperando {wait}s...")
+                    time.sleep(wait)
+                else:
+                    print(f"      ⚠️ OpenRouter falló: {e}")
+                    break
 
     # ── [2] HUGGINGFACE SERVERLESS (Qwen 2.5) ──
     if HF_SCOUT_KEY:
-        print("   🧠 [Omega] Intento 2: HF Serverless (Qwen 2.5 7B)...")
-        try:
-            hf_url = "https://router.huggingface.co/models/Qwen/Qwen2.5-7B-Instruct/v1/chat/completions"
-            headers = {"Authorization": f"Bearer {HF_SCOUT_KEY}", "Content-Type": "application/json"}
-            payload = {
-                "model": "Qwen/Qwen2.5-7B-Instruct",
-                "messages": [{"role": "user", "content": prompt}],
-                "max_tokens": 1024
-            }
-            resp = requests.post(hf_url, headers=headers, json=payload, timeout=30)
-            if resp.status_code == 200:
-                text = resp.json()["choices"][0]["message"]["content"].strip()
-                return text
-            elif resp.status_code == 503:
-                print("      ⚠️ HF Modelo en 'Cold Start'. Saltando a Gemini...")
-        except Exception as e:
-            print(f"      ⚠️ HF falló: {e}")
+        max_retries = 3
+        backoff_seconds = [10, 25, 60]
+        for attempt in range(max_retries):
+            print(f"   🧠 [Omega] Intento 2: HF Serverless (Qwen 2.5 7B) (intento {attempt+1}/{max_retries})...")
+            try:
+                hf_url = "https://router.huggingface.co/models/Qwen/Qwen2.5-7B-Instruct/v1/chat/completions"
+                headers = {"Authorization": f"Bearer {HF_SCOUT_KEY}", "Content-Type": "application/json"}
+                payload = {
+                    "model": "Qwen/Qwen2.5-7B-Instruct",
+                    "messages": [{"role": "user", "content": prompt}],
+                    "max_tokens": 1024
+                }
+                resp = requests.post(hf_url, headers=headers, json=payload, timeout=30)
+                if resp.status_code == 200:
+                    text = resp.json()["choices"][0]["message"]["content"].strip()
+                    return text
+                elif resp.status_code == 429:
+                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
+                    print(f"      ⏳ HF rate-limit (429). Esperando {wait}s...")
+                    time.sleep(wait)
+                elif resp.status_code == 503:
+                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
+                    print(f"      ⏳ HF Modelo en 'Cold Start' (503). Esperando {wait}s...")
+                    time.sleep(wait)
+                else:
+                    print(f"      ⚠️ HF HTTP {resp.status_code}")
+                    break
+            except Exception as e:
+                error_str = str(e)
+                if "429" in error_str or "rate" in error_str.lower() or "503" in error_str:
+                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
+                    print(f"      ⏳ HF Error 429/503 (excepción). Esperando {wait}s...")
+                    time.sleep(wait)
+                else:
+                    print(f"      ⚠️ HF falló: {e}")
+                    break
 
     # ── [3] GEMINI 2.0 FLASH (Fallback Final) ──
     if client:
