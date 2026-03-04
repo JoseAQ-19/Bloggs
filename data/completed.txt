@@ -143,3 +143,4 @@ ia: Gemini 3.1 Flash Lite: ¿El fin del ChatGPT Pro? Google reduce el precio de 
 ia: LearnWorlds Data Reveals AI Adoption Paradox: High Usage, Zero Strategy in Customer Teams
 tools: Beyond Brushless: How IoT and Digital Twins are Remaking the Power Tool Industry (and Your Jobsite)
 crypto: Harvard vs. Bitcoin: ¿Por qué la élite inversora se inclina por Ethereum?
+crypto: Hyperliquid's 24/7 Crypto Trading Volumes Expose Bitcoin's Weakness as Macro Hedge
