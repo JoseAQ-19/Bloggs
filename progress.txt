@@ -51,3 +51,11 @@
 - [x] **API DEPRECADA**: HuggingFace migró de `api-inference.huggingface.co` a `router.huggingface.co` (HTTP 410). Corregido en `trend_scout.py`, `stocks_scout.py` y `novum_visual.py`.
 - [x] **RACE CONDITION**: Writer Fitness ES arrancó antes de que el Scout commiteara. Mitigado.
 - [x] **VERCEL BUILD FATAL**: Hugo fallaba con `yaml: found unknown escape character` debido a un bug donde la IA escapaba el símbolo de dólar en el markdown (ej. `\$50`), rompiendo el JSON YAML de title/description. Corregido unescape explícito en la generación del metadata YAML. Evaluado con script en `v3/deployments/logs`. Despliegue reestablecido estado `READY`.
+
+## 🛠️ Refinamiento Post-Auditoría (2026-03-04)
+- [x] **SEO FUNDS**: Artículos de fondos ahora visibles en la Home (actualizado paginador en `home.html`).
+- [x] **SEO MENU**: Añadidos menús "Fondos" / "Funds" y configuración explícita de `sitemap.xml` en `config.toml`.
+- [x] **SECURITY HARDENING**: Truncado de respuestas de error en `indexing_api.py` para evitar fugas de tokens en logs.
+- [x] **REPO HYGIENE**: `.gitignore` ampliado masivamente y eliminación de scripts/logs de debug obsoletos.
+- [x] **HUGO FIX**: Corregido error de sintaxis "unterminated quoted string" en `home.html` causado por salto de línea accidental.
+- [x] **INFORME FINAL**: Generado `audit_deep_inspection.md` con el estado de salud del ecosistema MCP.

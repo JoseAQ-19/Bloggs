@@ -133,8 +133,11 @@ def _llm_generate(prompt, force_json=False):
                     print("   ⚠️ HF respuesta vacía. Saltando...")
             elif resp.status_code == 503:
                 # Cold Start — cortocircuito inmediato, NO esperamos
-                est = resp.json().get("estimated_time", 999)
-                print(f"   ⚠️ HF modelo dormido (503). Tiempo estimado: {est:.0f}s. Cortocircuito → Gemini...")
+                try:
+                    est = resp.json().get("estimated_time", 999)
+                    print(f"   ⚠️ HF modelo dormido (503). Tiempo estimado: {est:.0f}s. Cortocircuito → Gemini...")
+                except:
+                    print(f"   ⚠️ HF modelo dormido (503). Respuesta no-JSON. Cortocircuito → Gemini...")
             elif resp.status_code == 429:
                 print("   ⚠️ HF rate-limit (429). Saltando...")
             else:
@@ -246,7 +249,6 @@ def fetch_hackernews(tags, limit=5):
         return headlines
     
     try:
-        import time
         t_72h_ago = int(time.time()) - (72 * 3600)
         # HN Algolia API — 100% público, sin auth
         tag_query = " OR ".join(tags)
@@ -323,7 +325,6 @@ def fetch_exa_news(query, domains, limit=5):
         return headlines
     
     try:
-        from datetime import datetime, timedelta
         start_date = (datetime.now() - timedelta(hours=72)).strftime('%Y-%m-%dT%H:%M:%S.000Z')
         res = exa.search(
             query,
