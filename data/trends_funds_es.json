@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-04T14:51:00.747347+00:00",
+  "scouted_at": "2026-03-04T15:18:14.740684+00:00",
   "total_candidates": 19,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos españoles a examen: solo el 14% bate a la gestión pasiva en bolsa",
+      "title": "Las Acciones Europeas Repuntan tras Agravarse la Caída Bursátil en Asia por la Guerra con Irán",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Amadeus y la IA: ¿un futuro prometedor impulsado por su red?",
+      "title": "Suspenso a los fondos activos de bolsa española: solo el 14 % supera a los pasivos",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Guerra en Oriente Medio: ¿retrasará el BCE la bajada de tipos ante el repunte de la inflación en la Eurozona?",
+      "title": "Las suscripciones netas de Hamco Global Value Fund en 2025 y el retorno anualizado del 17% impulsan el crec...",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
