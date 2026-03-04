@@ -145,3 +145,4 @@ tools: Beyond Brushless: How IoT and Digital Twins are Remaking the Power Tool I
 crypto: Harvard vs. Bitcoin: ¿Por qué la élite inversora se inclina por Ethereum?
 crypto: Hyperliquid's 24/7 Crypto Trading Volumes Expose Bitcoin's Weakness as Macro Hedge
 funds: Ataque en Irán: Stoxx 600 Recupera un 2%, ¿Sostenible o Rebote Efímero?
+crypto: Kraken Breaks Ground: First Crypto Firm Gains Fed Payments Access
