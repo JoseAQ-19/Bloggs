@@ -59,3 +59,30 @@
 - [x] **REPO HYGIENE**: `.gitignore` ampliado masivamente y eliminación de scripts/logs de debug obsoletos.
 - [x] **HUGO FIX**: Corregido error de sintaxis "unterminated quoted string" en `home.html` causado por salto de línea accidental.
 - [x] **INFORME FINAL**: Generado `audit_deep_inspection.md` con el estado de salud del ecosistema MCP.
+
+## 🎯 FASE 9: Editores Jefe QA (ES + EN) — EN PROGRESO (2026-03-04)
+**Arquitectura:** Writer genera borrador → Editor QA lee, corrige y sobreescribe → Commit único a main.
+**Archivos nuevos:** `qa_editor_es.py`, `qa_editor_en.py`, `qa_link_validator.py`, `qa_orchestrator.py`
+**Cero modificaciones** al core (main.py, researcher.py, stocks_main.py).
+
+### Bloque A: Infraestructura
+- [x] A1: `qa_link_validator.py` — HTTP HEAD checker concurrente (alive/dead/timeout) ✅ Tests passing
+- [x] A2: `load_draft()` — Integrado dentro de qa_editor_{es,en}.py (glob + mtime sort)
+- [x] A3: `save_edited()` — Integrado dentro de qa_editor_{es,en}.py (preserva frontmatter)
+
+### Bloque B: Editor Jefe ES
+- [x] B1: System Prompt nativo peninsular (2431 chars, cínico, frases vetadas ES, SEO España)
+- [x] B2: NotebookLM fact-check en español (notebook temporal, 2 queries, cleanup)
+- [x] B3: Pipeline completo ES (link check + NotebookLM + LLM Zhipu/Gemini + validación)
+- [x] B4: Tests de importación y link validator ✅
+
+### Bloque C: Editor Jefe EN
+- [x] C1: System Prompt nativo US (2460 chars, TechCrunch style, frases vetadas EN, SEO US)
+- [x] C2: NotebookLM fact-check en inglés
+- [x] C3: Pipeline completo EN (link check + NotebookLM + LLM OpenRouter/Gemini + validación)
+- [x] C4: Tests de importación ✅
+
+### Bloque D: Orquestación
+- [x] D1: `qa_orchestrator.py` — CLI: `--lang es|en|all --category {niche}` ✅
+- [ ] D2: Integrar en workflows Writers existentes (step extra pre-commit, Opción A)
+- [x] D3: Actualizar progress.txt con resultados

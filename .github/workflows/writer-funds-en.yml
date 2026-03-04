@@ -1,15 +1,11 @@
-name: "Writer IA - Spanish"
-
+name: "Writer Funds - English"
 on:
   workflow_run:
-    workflows: ["Scout IA - Spanish"]
-    types:
-      - completed
+    workflows: ["Scout Funds - English"]
+    types: [completed]
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -19,30 +15,23 @@ jobs:
         with:
           fetch-depth: 0
           ref: main
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-
       - name: Install Dependencies
         run: |
           pip install -r requirements.txt
           playwright install chromium
-
       - name: Setup NotebookLM MCP
         run: |
           npm install -g notebooklm-mcp-server
           mkdir -p ~/.notebooklm-mcp
           echo '${{ secrets.NOTEBOOKLM_AUTH_JSON }}' > ~/.notebooklm-mcp/auth.json
           chmod 600 ~/.notebooklm-mcp/auth.json
-          echo "✅ NotebookLM MCP binary installed and auth injected"
-
-      - name: Run Writer (ES)
-        env:
+      - env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
           ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
@@ -50,29 +39,19 @@ jobs:
           HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY }}
           EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
           GOOGLE_INDEXING_JSON: ${{ secrets.GOOGLE_INDEXING_JSON }}
-        run: python main.py --category ia --lang es
+        run: python stocks_main.py --lang en
 
-      - name: QA Editor Pass (ES)
+      - name: QA Editor Pass (EN)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY }}
-        run: python qa_orchestrator.py --lang es --category ia
-
-      - name: Verify Content Integrity
-        run: |
-          if grep -r 'translationKey: "None"' content/; then
-            echo "❌ CRITICAL ERROR: Null TranslationKey detected. Aborting."
-            exit 1
-          fi
-          echo "✅ Content integrity verified."
-
-      - name: Push Content
-        run: |
+        run: python qa_orchestrator.py --lang en --category funds
+      - run: |
           git config --global user.name "JoseAQ-19"
           git config --global user.email "josearizaquintero@gmail.com"
-          git add content/es/ia/ data/ static/images/ data/.*
+          git add content/en/funds/ data/ static/images/ data/.*
           git diff --staged --quiet && echo "No new content generated" && exit 0
-          git commit -m "🤖 IA (ES) Content Generated"
+          git commit -m "🤖 Funds (EN) Content Generated"
           git pull --rebase origin main
           git push

@@ -1,0 +1,37 @@
+name: "Scout Funds - English"
+on:
+  schedule:
+    - cron: '45 7 * * *'
+  workflow_run:
+    workflows: ["Writer Funds - Spanish"]
+    types: [completed]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'schedule' || (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+          OPENROUTER_SCOUT_KEY: ${{ secrets.OPENROUTER_SCOUT_KEY }}
+          HF_SCOUT_API_KEY: ${{ secrets.HF_SCOUT_API_KEY }}
+        run: python stocks_scout.py --lang en
+      - run: |
+          git config --global user.name "JoseAQ-19"
+          git config --global user.email "josearizaquintero@gmail.com"
+          git add data/trends_funds_en.json data/stocks_competitors_analysis.json
+          git diff --staged --quiet && echo "No trends found" && exit 0
+          git commit -m "🔭 Scout Funds (EN): research completed"
+          git pull --rebase origin main
+          git push

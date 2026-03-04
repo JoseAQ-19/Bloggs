@@ -40,6 +40,13 @@ jobs:
           EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
           GOOGLE_INDEXING_JSON: ${{ secrets.GOOGLE_INDEXING_JSON }}
         run: python main.py --category fitness --lang es
+
+      - name: QA Editor Pass (ES)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY }}
+        run: python qa_orchestrator.py --lang es --category fitness
       - run: |
           git config --global user.name "JoseAQ-19"
           git config --global user.email "josearizaquintero@gmail.com"
