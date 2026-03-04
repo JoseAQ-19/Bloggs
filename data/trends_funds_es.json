@@ -1,7 +1,11 @@
 {
   "category": "funds",
   "lang": "es",
+<<<<<<< Updated upstream
   "scouted_at": "2026-03-04T15:55:28.957895+00:00",
+=======
+  "scouted_at": "2026-03-04T16:02:28.701430+00:00",
+>>>>>>> Stashed changes
   "total_candidates": 19,
   "topics": [
     {
@@ -79,9 +83,9 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWG5neEMxSzlEVUpEOUlDWEtYbEJyNlRNa0FVYVNnRjh3d1FRME0yU3JSajFDaGlSUS1oTGY2eEoyUFYxY3NvWktQZGhvTTRlU1dCbkRxdUt1N0puQmtYVWtXNUxhQWItTDRsV1JRQV9oVWtjMEZydDJQRE9hZkg1bjhNbUpVVlhlcFE?oc=5"
     },
     {
-      "title": "En directo, bolsa e Ibex 35 | OHLA, el valor que más sube en la Bolsa española, en un día convulso",
+      "title": "Los fondos más contratados en España y cómo el inversor pierde dinero",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQzBRdm1lNVI4X2V1a1FhaWczdlcxV01jRGF2U0pQUE8tbjhjemJFRldEQU5UQzJPeUViTm1IOHhjZW1SdTJQSXJjSzZSSllvSFp4LUVwc051UmVCUHczUHhMU3BuRUgyLWxmbl9YblZ1TlRIWGZDT3doTEVoVWwxMGN2angwR1VEOTI0ZdIBgwFBVV95cUxOUGJZV0lpMExjNHNuXzV5TnZFSzVDV0tKdUNuOWdlQzMzaVh5VjI2U0J1SWNQdjhGZERKam9OMUkxVnREdi1XUDN3X0dNLWk1VWIzOHpLM0tBZ1lhbVdQN1JnMGRyV1FpU2pxSmdSZVZGV2NlMUQzVXIyTEVvazJpaU5Xdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2NfaDBqcnFUaXNTRTNMLXVic3NjZ2NJRFg5RlBfM1QzRWhPSUFybjNJR2FUTUlPajJKcUcwUVpDMTRzTWZwZjFYZ1FXT0tGX0xjNnFSb1dvRkw3aTB0YmJUN3h5QmhrTHk3dVhJQmdVbXE1QWxMUjJPby1HQjVscjJrLXMyNGstSHdHOFQyN1k5WVhxX1JwZFVKdG54cHJsVkR2UzdJYWR6NkJCYTNJN0FNMmhBUUltN2JNNm9kUnB4cEk0SmhkddIBnwFBVV95cUxPRFlUM2VNa2JpaktsejVJMmxuQzBwN2hUZHhHTzR4NHd3VEd5aGxRckU2cll4bzAwQXFzekhzVGVFdjVqNEp6WUl3bWJMazJqS2dTWHpVVF9KUFZxMGdVZ3ZMNDhEM0dCSXdRWXdfWFIwclBRTnFGVm9YSlp1OW94SzlLM0tPNXBIMUlvX3gtYjNaMkpQaWNBUHVhdzY0Y0U?oc=5"
     },
     {
       "title": "Mejores ETFs para invertir en 2026: los más rentables",
@@ -89,24 +93,38 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yZGVKdy1Wc19iamk0Q01STTV5Y3dFNnpZekRoYThsdnc5d2cteTl1TnJVOUxOUGpiYVdWRVZWWWJ0b19McW5vZ2dHV2JWaVFlR2hQa2Y5QkhBUUVEMXRVN3p4QUt1SHJOdE1OYWZsTHIzODRU?oc=5"
     },
     {
+      "title": "En directo, bolsa e Ibex 35 | OHLA, el valor que más sube en la Bolsa española, en un día convulso",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQzBRdm1lNVI4X2V1a1FhaWczdlcxV01jRGF2U0pQUE8tbjhjemJFRldEQU5UQzJPeUViTm1IOHhjZW1SdTJQSXJjSzZSSllvSFp4LUVwc051UmVCUHczUHhMU3BuRUgyLWxmbl9YblZ1TlRIWGZDT3doTEVoVWwxMGN2angwR1VEOTI0ZdIBgwFBVV95cUxOUGJZV0lpMExjNHNuXzV5TnZFSzVDV0tKdUNuOWdlQzMzaVh5VjI2U0J1SWNQdjhGZERKam9OMUkxVnREdi1XUDN3X0dNLWk1VWIzOHpLM0tBZ1lhbVdQN1JnMGRyV1FpU2pxSmdSZVZGV2NlMUQzVXIyTEVvazJpaU5Xdw?oc=5"
+    },
+    {
       "title": "Los 5 fondos de inversión españoles más expuestos a Naturgy tras la salida de GIP (BlackRock)",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGxwUU9OS1RaMjQzOWFBT3laVnE0YTktU1M3VllFQVBZS3gzeG1PMlVEbUthY0pyRlhpMzU0TEl0N0xxZVQxTGRNYkhxMTJVWHNBX0dxUXBLVWw0cXpBSE9Md3oxNkloczYwSGRvT18yM0ZuTUpxS2F0b0d2WkIxRXJOTTNrS19NZTM5RG1ZSDA3SUNkN3pNQXNQSjA2SXdWMTJMZnQtOXhPR1I4aVMzM1pHTXdRYjZsT3AxOV9jakpqbnVlek1HMEJoa0FUaHV0cmRkaWxONjg3MUttQ1J3?oc=5"
     },
     {
+<<<<<<< Updated upstream
       "title": "Valores del S&P 500 que lideran las subidas y con recorrido alcista a largo plazo",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV21udzd4NDB6N2VXS21BMnItVFAzdENiRDRWWnBwbTh0ck55WDBKNDZCZ002QnZVdUYwUzFZamlDYWdFS0FmVm9mYWYwNWVkTXdlVVgwdG1MVEt6aTBiRm4yNGdhZVlfeGp2QmZEUTctdkYxYmxubkJLc0hreklpTEpBRWo3bGZoZVJTODRXY2w5V0xCQmlmTTJMcHpFNmdEdlRiaENKOWZ0d0VkV2YwZXZxZWtxa2hLWFVyZ3YtcGh1Nk4yeEHSAaIBQVVfeXFMTUhjcHBXZndaV2tDZWhELUdmRVBxTm9BSFVlRENJeWk1U0JiQUxOU2dQMkhqQTFLa0NaUFJ0OUZjX1NyUzhwODNIdUo2cV9hNUlSMXczLWd0YkhiVUhsd1FLcG1fY2Z4czl4YmsyRExPZ1hjMTdyUlRvQ3lfbUhIRC11YWRNbk5JUjZDQm1iRzFXY1ZaUGF0R2pVcndBRnZ2NHFB?oc=5"
     },
     {
+=======
+>>>>>>> Stashed changes
       "title": "Mejores ETFs de Defensa 2026: sector militar y aeroespacial",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tVVN6UDJMTjRTNTU5SEZCQ1N3U2VPSEpKVHZtR1pIMmRWaFBzREZ0Xy11dXlrOEpTdDBMckZoLVBPbDF0NWk2ZUVLUXpsaTYzdTkzb3lSTFA5YzJ5X2pFellzNGRYN253WWlnMw?oc=5"
     },
     {
+<<<<<<< Updated upstream
       "title": "Los 7 valores del Ibex 35 más baratos por múltiplos para entrar en las \"Rebajas de enero\"",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNGExQjNHYUF1U1VQcUVSRFBaTGlkR1g2Z2JFV1RsLVgyakhZeGJsOHJ2ZDFvcHJtMVlZelA2ZGYyRlRPd3loeFluZGk1V2xNcDdmRnVseUdHNlUtMXRlV2R6Sld4aksxbW90ZjdoU1YtdjBqZzBscGo1OTFBX042NTZVeE5VUnI3OW1oeGt2SHlMdnhTZWxrT1RFbnhyTjhfU0dIQ1d5ODFUSHJ6TFZ5bVRvb3ZoS2hNN0JuVXBnM0RrTjhRZHdyZzVXeTEyYjZJYnhrMWhQZGhsRjhKWGZn0gGjAUFVX3lxTE1WQUhWXzJxY2ZVSDJkcGVhSF9HS1VuOUxfenh2UHdfRVY5WVdjVXhhTVZJMmNWc3lSd3dKYzZ1X2pHN084UnFCUWVYWXYtSmFOcmQtQ1dKM21xNjFheUxwbGxaeUxDdWM4MnJrWWxOQTdDXzJxTEFpbk1nZkxKTWdYUENpOFJwTzR4YlN4U2FWaUo4dm1NVnBrd1I2MDdVTVRpaTA?oc=5"
+=======
+      "title": "\"Si se complica el conflicto con Irán, el mercado tiene cierto miedo a una recesión\"",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcTFiVFdMZGNrZkFCTFB6U200Tkxzc2ZvVUV5eW5lSzhxZTdHVi1raXg0bzBTVnNKclNBN09fT3dNUFdnX3ZYT3BmREl3OEVSYjc4MkdqSEthcThUM2NRZk5CQW5kdS1XaFQtQzd4cVZzLW9wdk01ZEhwcXhtWFFPZUJoc2d6OG1QNFJQb2JHeEphWk1NQlBjRnJaYzJkSXNDOW9JUnVLcHAzLUFvSzBta0N0MWNXTXN1OHItVVVXdjJxdU9nbzVjNDRTd2EzaTU2bUhQMdIBoAFBVV95cUxPZEp2Rk5NRDNBczBjdmVqN0FOb1gxbVlGbUZ6UzVJaTQ0Y28zNllmeGJxRTgwREhaQjBvTEVxakJwTnVwOWkyQkd2dFhiOWhfSG9jdVE2QTJuNENCSFE2WDE5YmFhYlhhLXUtbW5RcDJsajdtamVmQXZjYTJHNmZnZ1FIYXJGLTlRQ2s1X0F3WXoxcWlXM1lCeThYQWVPYVRt?oc=5"
+>>>>>>> Stashed changes
     },
     {
       "title": "Mejores ETFs para invertir en 2026: los más rentables",

@@ -45,8 +45,8 @@ class ImageManager:
             safe_name = SlugManager.generate(filename_base)
             filename = f"{safe_name}.jpg"
             local_path = os.path.join(ImageManager.STATIC_DIR, filename)
-            
-            # Timeout alto
+
+            # Timeout forzado para evitar procesos zombie
             response = requests.get(url, timeout=60)
             if response.status_code == 200:
                 with open(local_path, 'wb') as f:
