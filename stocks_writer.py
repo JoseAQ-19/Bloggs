@@ -24,6 +24,7 @@ load_dotenv()
 # --- API Keys ---
 GEMINI_KEY = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
 OPENROUTER_KEY = os.getenv("OPENROUTER_API_KEY")
+STOCKS_ZHIPU_KEY = os.getenv("STOCKS_WRITER_API_KEY")
 
 try:
     from google import genai
@@ -59,9 +60,29 @@ def _call_writer_engine(prompt_text, lang="en"):
     or_key = OPENROUTER_KEY
 
     if lang == "es":
-        # ── MOTOR ES: OpenRouter / Zhipu GLM-4.7-FlashX ──
+        # ── MOTOR ES 1: Zhipu Nativo (STOCKS_WRITER_API_KEY) ──
+        if STOCKS_ZHIPU_KEY:
+            print("   🧠 [Stocks Writer ES] Motor 1: Zhipu GLM-4-FlashX (Nativo)...")
+            try:
+                zhipu_client = OpenAI(api_key=STOCKS_ZHIPU_KEY, base_url="https://open.bigmodel.cn/api/paas/v4/")
+                resp = zhipu_client.chat.completions.create(
+                    model="glm-4-flashx",
+                    messages=[{"role": "user", "content": prompt_text}],
+                    temperature=0.85,
+                    max_tokens=4096
+                )
+                result = resp.choices[0].message.content.strip()
+                if result and len(result) > 500:
+                    print("   ✅ Zhipu Nativo respondió correctamente.")
+                    return result
+                else:
+                    print("   ⚠️ Zhipu Nativo respuesta muy corta. Fallback...")
+            except Exception as e:
+                logging.warning(f"Zhipu Nativo error: {e}. Cayendo a OpenRouter...")
+
+        # ── MOTOR ES 2: OpenRouter / Zhipu GLM ──
         if or_key:
-            print("   🧠 [Stocks Writer ES] Motor 1: Zhipu GLM-4.7-FlashX...")
+            print("   🧠 [Stocks Writer ES] Motor 2: OpenRouter GLM-4.5-Air...")
             try:
                 or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
                 resp = or_client.chat.completions.create(
@@ -72,12 +93,12 @@ def _call_writer_engine(prompt_text, lang="en"):
                 )
                 result = resp.choices[0].message.content.strip()
                 if result and len(result) > 500:
-                    print("   ✅ Zhipu GLM respondió correctamente.")
+                    print("   ✅ OpenRouter GLM respondió correctamente.")
                     return result
                 else:
-                    print("   ⚠️ Zhipu respuesta muy corta. Fallback...")
+                    print("   ⚠️ OpenRouter respuesta muy corta. Fallback...")
             except Exception as e:
-                logging.warning(f"Zhipu error: {e}. Cayendo a Gemini...")
+                logging.warning(f"OpenRouter error: {e}. Cayendo a Gemini...")
     else:
         # ── MOTOR EN: OpenRouter GLM-4.5-Air → Llama 3.3 → Gemini ──
         if or_key:
