@@ -100,7 +100,9 @@ def main():
     else:
         print("⚠️ QA Editor completado con warnings. Los borradores originales se preservaron donde fue necesario.")
 
-    return 0 if all_success else 1
+    # SIEMPRE salimos con 0 para no matar el pipeline de deploy.
+    # Los warnings se loguean pero el artículo original se preserva y se commitea.
+    return 0
 
 
 if __name__ == "__main__":

@@ -47,11 +47,13 @@ from stocks_instructions import (
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 
 
+from typing import List, Dict, Any, Optional, Union
+
 # ============================================================
 # MOTOR LLM CASCADA (Writer — Aislado)
 # ============================================================
 
-def _call_writer_engine(prompt_text, lang="en"):
+def _call_writer_engine(prompt_text: str, lang: str = "en") -> Optional[str]:
     """
     Motor de escritura cascada para fondos de inversión.
     ES: Zhipu GLM-4.7 (via OpenRouter) → Gemini
@@ -66,7 +68,7 @@ def _call_writer_engine(prompt_text, lang="en"):
             try:
                 zhipu_client = OpenAI(api_key=STOCKS_ZHIPU_KEY, base_url="https://open.bigmodel.cn/api/paas/v4/")
                 resp = zhipu_client.chat.completions.create(
-                    model="glm-4-flashx",
+                    model="glm-4-flash",
                     messages=[{"role": "user", "content": prompt_text}],
                     temperature=0.85,
                     max_tokens=4096
@@ -86,7 +88,7 @@ def _call_writer_engine(prompt_text, lang="en"):
             try:
                 or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
                 resp = or_client.chat.completions.create(
-                    model="zhipuai/glm-4.5-air:free",
+                    model="zhipuai/glm-4-flash",
                     messages=[{"role": "user", "content": prompt_text}],
                     temperature=0.85,
                     max_tokens=4096
@@ -106,7 +108,7 @@ def _call_writer_engine(prompt_text, lang="en"):
             try:
                 zhipu_client = OpenAI(api_key=STOCKS_ZHIPU_KEY, base_url="https://open.bigmodel.cn/api/paas/v4/")
                 resp = zhipu_client.chat.completions.create(
-                    model="glm-4-flashx",
+                    model="glm-4-flash",
                     messages=[{"role": "user", "content": prompt_text}],
                     temperature=0.85,
                     max_tokens=4096
@@ -126,7 +128,7 @@ def _call_writer_engine(prompt_text, lang="en"):
             try:
                 or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
                 resp = or_client.chat.completions.create(
-                    model="zhipuai/glm-4.5-air:free",
+                    model="zhipuai/glm-4-flash",
                     messages=[{"role": "user", "content": prompt_text}],
                     temperature=0.85,
                     max_tokens=4096
@@ -172,7 +174,7 @@ def _call_writer_engine(prompt_text, lang="en"):
 # GENERADOR DE SLUG LIMPIO
 # ============================================================
 
-def _generate_slug(text):
+def _generate_slug(text: str) -> str:
     """Genera un slug SEO-friendly a partir de un texto."""
     import unicodedata
     # Normalizar y eliminar acentos
@@ -189,7 +191,7 @@ def _generate_slug(text):
 # LIMPIADOR POST-PROCESADOR
 # ============================================================
 
-def _clean_article(text):
+def _clean_article(text: str) -> str:
     """Limpia artefactos comunes de LLM en el artículo generado."""
     if not text:
         return text
@@ -218,7 +220,7 @@ def _clean_article(text):
 # PIPELINE DE ESCRITURA COMPLETO
 # ============================================================
 
-def write_fund_article(scout_data, lang="es"):
+def write_fund_article(scout_data: Dict[str, Any], lang: str = "es") -> Optional[Dict[str, Any]]:
     """
     Pipeline completo de escritura para un artículo de fondos de inversión.
     
