@@ -147,3 +147,4 @@ crypto: Hyperliquid's 24/7 Crypto Trading Volumes Expose Bitcoin's Weakness as M
 funds: Ataque en Irán: Stoxx 600 Recupera un 2%, ¿Sostenible o Rebote Efímero?
 crypto: Kraken Breaks Ground: First Crypto Firm Gains Fed Payments Access
 funds: Acciones Europeas: Rentabilidad del 3% ante el desplome del 10% asiático por Irán.
+funds: Stoxx 600 sube un 1,5% tras la crisis en Asia, pero la volatilidad persiste.
