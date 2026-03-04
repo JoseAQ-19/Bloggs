@@ -184,16 +184,16 @@ def _call_llm_es(prompt, system_prompt):
     Cascada LLM para el Editor ES: Zhipu GLM → Gemini Flash.
     Returns: string con el artículo corregido, o None si falla.
     """
-    # Intento 1: Zhipu GLM-4.7-FlashX (nativo chino, excelente en español)
+    # Intento 1: Zhipu GLM-4-Flash (nativo chino, excelente en español)
     if ZHIPU_KEY:
         try:
-            print("   🧠 [Editor ES] Intentando Zhipu GLM-4.7-FlashX...")
+            print("   🧠 [Editor ES] Intentando Zhipu GLM-4-Flash...")
             zhipu_client = OpenAI(
                 api_key=ZHIPU_KEY,
                 base_url="https://open.bigmodel.cn/api/paas/v4/"
             )
             response = zhipu_client.chat.completions.create(
-                model="GLM-4-FlashX",
+                model="glm-4-flash",
                 messages=[
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": prompt}

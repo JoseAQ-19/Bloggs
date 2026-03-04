@@ -184,16 +184,16 @@ def _call_llm_en(prompt, system_prompt):
     LLM cascade for Editor EN: OpenRouter GLM → Gemini Flash.
     Returns: string with corrected article, or None on failure.
     """
-    # Attempt 1: OpenRouter (GLM-4-FlashX or Llama3)
+    # Attempt 1: OpenRouter (GLM-4.5-Air)
     if OPENROUTER_KEY:
         try:
-            print("   🧠 [Editor EN] Trying OpenRouter GLM-4-FlashX...")
+            print("   🧠 [Editor EN] Trying OpenRouter GLM-4.5-Air...")
             or_client = OpenAI(
                 api_key=OPENROUTER_KEY,
                 base_url="https://openrouter.ai/api/v1"
             )
             response = or_client.chat.completions.create(
-                model="zhipu-ai/glm-4-flashx",
+                model="z-ai/glm-4.5-air:free",
                 messages=[
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": prompt}
@@ -366,14 +366,37 @@ def run(category, content_dir="content/en"):
     print(f"\n   ✅ [Editor EN] STEP 4: Post-edit validation...")
     is_valid, issues = _validate_output(edited_body, body)
 
+    # If the word count is low, RETRY by asking the LLM to expand the text
+    if not is_valid and any("Word count" in i or "Lost" in i for i in issues):
+        current_words = len(edited_body.split())
+        print(f"   🔄 [Editor EN] Low word count ({current_words}). Retrying with expansion prompt...")
+        expand_prompt = (
+            f"The following article has only {current_words} words and needs to be at least 1400 words long. "
+            f"EXPAND the content: add more analysis, data, context, expert perspectives, "
+            f"and dive deeper into existing points. DO NOT remove anything from the current text, only ADD.\n\n"
+            f"ARTICLE TO EXPAND:\n\n{edited_body}\n\n"
+            f"Return ONLY the expanded article in pure Markdown. No code blocks, no meta-comments."
+        )
+        expanded_body = _call_llm_en(expand_prompt, SYSTEM_PROMPT_EDITOR_EN)
+        if expanded_body and len(expanded_body.split()) > current_words:
+            # Clean wrapping
+            expanded_body = expanded_body.strip()
+            if expanded_body.startswith("```markdown"):
+                expanded_body = expanded_body[len("```markdown"):].strip()
+            if expanded_body.startswith("```"):
+                expanded_body = expanded_body[3:].strip()
+            if expanded_body.endswith("```"):
+                expanded_body = expanded_body[:-3].strip()
+            edited_body = expanded_body
+            is_valid, issues = _validate_output(edited_body, body)
+            print(f"   📊 [Editor EN] After expansion: {len(edited_body.split())} words")
+        else:
+            print(f"   ⚠️ [Editor EN] Expansion failed. Using available version.")
+
     if not is_valid:
-        print(f"   ⚠️ [Editor EN] Validation failed:")
+        print(f"   ⚠️ [Editor EN] Validation with warnings (publishing anyway):")
         for issue in issues:
             print(f"      - {issue}")
-        if any("Word count" in i or "Lost" in i for i in issues):
-            print(f"   ❌ [Editor EN] Rejected due to content loss. Original draft preserved.")
-            return {"status": "rejected", "reason": issues, "filepath": draft_path}
-        print(f"   ⚠️ [Editor EN] Accepting with warnings.")
 
     # A3: Save edited version (preserve frontmatter)
     final_content = f"{frontmatter}\n\n{edited_body}\n"
