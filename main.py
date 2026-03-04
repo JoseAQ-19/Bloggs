@@ -560,12 +560,13 @@ def _get_internal_links(category, lang, current_slug=""):
 
 def _call_en_engine(prompt_text):
     """
-    Motor Inglés Omega: OpenRouter GLM-4.5-Air → OpenRouter Llama-3.3-70B → Gemini Emergency.
+    Motor Inglés Omega: OpenRouter GLM-4.5-Air → OpenRouter Llama-3.3-70B (con retry) → Gemini Emergency.
     Segregación total de cuotas: toda la cascada EN pasa por OpenRouter.
     """
+    import time as _time
     or_key = os.getenv("OPENROUTER_API_KEY")
 
-    # --- INTENTO 1: OpenRouter / GLM-4.5-Air (Velocidad y Agentes) ---
+    # --- INTENTO 1: OpenRouter / GLM-4.5-Air ---
     if or_key:
         print("   🧠 [Omega EN] Motor 1: OpenRouter / GLM-4.5-Air...")
         try:
@@ -574,7 +575,7 @@ def _call_en_engine(prompt_text):
                 base_url="https://openrouter.ai/api/v1"
             )
             resp = or_client.chat.completions.create(
-                model="zhipuai/glm-4.5-air:free",
+                model="z-ai/glm-4.5-air:free",
                 messages=[{"role": "user", "content": prompt_text}],
                 temperature=0.85,
                 max_tokens=4096
@@ -586,34 +587,45 @@ def _call_en_engine(prompt_text):
             else:
                 print("   ⚠️ GLM-4.5-Air respuesta vacía o muy corta. Activando fallback...")
         except Exception as e:
-            logging.warning(f"GLM-4.5-Air error: {e}. Activando fallback Llama...", exc_info=True)
+            logging.warning(f"GLM-4.5-Air error: {e}. Activando fallback Llama...")
 
-    # --- INTENTO 2: OpenRouter / Llama 3.3 70B (Fuerza Literaria) ---
+    # --- INTENTO 2: OpenRouter / Llama 3.3 70B (con RETRY + BACKOFF para 429) ---
     if or_key:
-        print("   🔄 [Omega EN] Motor 2: OpenRouter / Llama-3.3-70B...")
-        try:
-            or_client = OpenAI(
-                api_key=or_key,
-                base_url="https://openrouter.ai/api/v1"
-            )
-            resp = or_client.chat.completions.create(
-                model="meta-llama/llama-3.3-70b-instruct:free",
-                messages=[{"role": "user", "content": prompt_text}],
-                temperature=0.85,
-                max_tokens=4096
-            )
-            result = resp.choices[0].message.content.strip()
-            if result and len(result) > 200:
-                print("   ✅ Llama-3.3-70B (OpenRouter) respondió correctamente.")
-                return result
-            else:
-                print("   ⚠️ Llama respuesta vacía. Cayendo a Gemini de emergencia...")
-        except Exception as e:
-            logging.warning(f"Llama-3.3-70B error: {e}. Cayendo a Gemini de emergencia...", exc_info=True)
+        max_retries = 3
+        backoff_seconds = [10, 25, 60]  # Escalado agresivo para modelo 70B gratis
+        for attempt in range(max_retries):
+            print(f"   🔄 [Omega EN] Motor 2: Llama-3.3-70B (intento {attempt+1}/{max_retries})...")
+            try:
+                or_client = OpenAI(
+                    api_key=or_key,
+                    base_url="https://openrouter.ai/api/v1"
+                )
+                resp = or_client.chat.completions.create(
+                    model="meta-llama/llama-3.3-70b-instruct:free",
+                    messages=[{"role": "user", "content": prompt_text}],
+                    temperature=0.85,
+                    max_tokens=4096
+                )
+                result = resp.choices[0].message.content.strip()
+                if result and len(result) > 200:
+                    print(f"   ✅ Llama-3.3-70B respondió correctamente (intento {attempt+1}).")
+                    return result
+                else:
+                    print("   ⚠️ Llama respuesta vacía. Reintentando...")
+            except Exception as e:
+                error_str = str(e)
+                if "429" in error_str or "rate" in error_str.lower():
+                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
+                    logging.warning(f"⏳ RATE LIMIT 429 en Llama (intento {attempt+1}). Esperando {wait}s antes de reintentar...")
+                    _time.sleep(wait)
+                else:
+                    logging.warning(f"🚨 FALLBACK TRIGGERED: Llama falló por [{type(e).__name__}]: {e}")
+                    break  # Error no-429, no tiene sentido reintentar
     else:
         print("   ⚠️ OPENROUTER_API_KEY no configurada. Cayendo a Gemini de emergencia...")
 
     # --- EMERGENCIA: Gemini (nunca dejar sin artículo) ---
+    logging.warning("🚨 FALLBACK TRIGGERED: Usando Gemini Flash porque TODOS los motores principales fallaron.")
     print("   🚨 [Omega EN] Motor de Emergencia: Gemini 2.0 Flash...")
     resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt_text)
     return resp.text.strip()
@@ -1007,31 +1019,31 @@ ESTÁ ABSOLUTAMENTE PROHIBIDO inventar, adivinar o fabricar URLs. Si necesitas u
     else:
         prompt += "\n\n[🔴 CRITICAL FINAL DIRECTIVE]: YOU MUST WRITE 100% OF THE ARTICLE CONTENT IN ENGLISH. If you write any paragraph in Spanish, YOU FAIL. All H2s, H3s, bullets, sentences, paragraphs: ALL in English. Only proper nouns stay as-is."
 
-    # === CEREBRO ESPAÑOL: ZHIPU GLM-4.7-FlashX (Motor Principal Único) ===
+    # === CEREBRO ESPAÑOL: ZHIPU GLM-4-Flash (Motor Principal) ===
     if lang == "es":
-        zhipu_key = os.getenv("ZHIPU_API_KEY")
+        zhipu_key = os.getenv("ZHIPU_API_KEY") or os.getenv("STOCKS_WRITER_API_KEY")
         if zhipu_key:
-            print("   🇪🇸 [Omega ES] Motor Principal: Zhipu GLM-4.7-FlashX")
+            print("   🇪🇸 [Omega ES] Motor Principal: Zhipu GLM-4-Flash")
             try:
                 glm_client = OpenAI(
                     api_key=zhipu_key,
                     base_url="https://open.bigmodel.cn/api/paas/v4/"
                 )
                 resp = glm_client.chat.completions.create(
-                    model="glm-4.7-flashx",
+                    model="glm-4-flash",
                     messages=[{"role": "user", "content": prompt}],
                     temperature=0.85,
                     max_tokens=4096
                 )
                 resultado = resp.choices[0].message.content.strip()
                 if resultado and len(resultado) > 200:
-                    print("   ✅ GLM-4.7-FlashX respondió correctamente.")
+                    print("   ✅ GLM-4-Flash respondió correctamente.")
                 else:
                     print("   ⚠️ GLM respuesta corta. Cayendo a Gemini de emergencia...")
                     resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
                     resultado = resp.text.strip()
             except Exception as e:
-                logging.warning(f"GLM-4.7-FlashX error: {e}. Cayendo a Gemini de emergencia...", exc_info=True)
+                logging.warning(f"🚨 FALLBACK TRIGGERED: GLM-4-Flash falló por [{type(e).__name__}]: {e}")
                 resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
                 resultado = resp.text.strip()
         else:
