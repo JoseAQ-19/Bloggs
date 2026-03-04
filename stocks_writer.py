@@ -82,25 +82,37 @@ def _call_writer_engine(prompt_text: str, lang: str = "en") -> Optional[str]:
             except Exception as e:
                 logging.warning(f"Zhipu Nativo error: {e}. Cayendo a OpenRouter...")
 
-        # ── MOTOR ES 2: OpenRouter / Zhipu GLM ──
+        # ── MOTOR ES 2: OpenRouter / Zhipu GLM (con retry) ──
         if or_key:
-            print("   🧠 [Stocks Writer ES] Motor 2: OpenRouter GLM-4.5-Air...")
-            try:
-                or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
-                resp = or_client.chat.completions.create(
-                    model="z-ai/glm-4.5-air:free",
-                    messages=[{"role": "user", "content": prompt_text}],
-                    temperature=0.85,
-                    max_tokens=4096
-                )
-                result = resp.choices[0].message.content.strip()
-                if result and len(result) > 500:
-                    print("   ✅ OpenRouter GLM respondió correctamente.")
-                    return result
-                else:
-                    print("   ⚠️ OpenRouter respuesta muy corta. Fallback...")
-            except Exception as e:
-                logging.warning(f"OpenRouter error: {e}. Cayendo a Gemini...")
+            max_retries = 3
+            backoff_seconds = [10, 25, 60]
+            for attempt in range(max_retries):
+                print(f"   🧠 [Stocks Writer ES] Motor 2: OpenRouter GLM-4.5-Air (intento {attempt+1}/{max_retries})...")
+                try:
+                    or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
+                    resp = or_client.chat.completions.create(
+                        model="z-ai/glm-4.5-air:free",
+                        messages=[{"role": "user", "content": prompt_text}],
+                        temperature=0.85,
+                        max_tokens=4096
+                    )
+                    result = resp.choices[0].message.content.strip()
+                    if result and len(result) > 500:
+                        print("   ✅ OpenRouter GLM respondió correctamente.")
+                        return result
+                    else:
+                        print("   ⚠️ OpenRouter respuesta muy corta. Fallback...")
+                        break
+                except Exception as e:
+                    error_str = str(e)
+                    if "429" in error_str or "rate" in error_str.lower():
+                        import time as _time
+                        wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
+                        logging.warning(f"⏳ RATE LIMIT 429 OpenRouter ES (intento {attempt+1}). Esperando {wait}s...")
+                        _time.sleep(wait)
+                    else:
+                        logging.warning(f"OpenRouter error: {e}. Cayendo a Gemini...")
+                        break
     else:
         # ── MOTOR EN 1: Zhipu Nativo (STOCKS_WRITER_API_KEY) ──
         if STOCKS_ZHIPU_KEY:
@@ -140,21 +152,34 @@ def _call_writer_engine(prompt_text: str, lang: str = "en") -> Optional[str]:
             except Exception as e:
                 logging.warning(f"GLM-4.5-Air error: {e}")
 
-            print("   🔄 [Stocks Writer EN] Motor 2: Llama-3.3-70B...")
-            try:
-                or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
-                resp = or_client.chat.completions.create(
-                    model="meta-llama/llama-3.3-70b-instruct:free",
-                    messages=[{"role": "user", "content": prompt_text}],
-                    temperature=0.85,
-                    max_tokens=4096
-                )
-                result = resp.choices[0].message.content.strip()
-                if result and len(result) > 500:
-                    print("   ✅ Llama-3.3-70B respondió correctamente.")
-                    return result
-            except Exception as e:
-                logging.warning(f"Llama error: {e}")
+            max_retries = 3
+            backoff_seconds = [10, 25, 60]
+            for attempt in range(max_retries):
+                print(f"   🔄 [Stocks Writer EN] Motor 2: Llama-3.3-70B (intento {attempt+1}/{max_retries})...")
+                try:
+                    or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
+                    resp = or_client.chat.completions.create(
+                        model="meta-llama/llama-3.3-70b-instruct:free",
+                        messages=[{"role": "user", "content": prompt_text}],
+                        temperature=0.85,
+                        max_tokens=4096
+                    )
+                    result = resp.choices[0].message.content.strip()
+                    if result and len(result) > 500:
+                        print("   ✅ Llama-3.3-70B respondió correctamente.")
+                        return result
+                    else:
+                        break
+                except Exception as e:
+                    error_str = str(e)
+                    if "429" in error_str or "rate" in error_str.lower():
+                        import time as _time
+                        wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
+                        logging.warning(f"⏳ RATE LIMIT 429 Llama EN (intento {attempt+1}). Esperando {wait}s...")
+                        _time.sleep(wait)
+                    else:
+                        logging.warning(f"Llama error: {e}")
+                        break
 
     # ── EMERGENCIA: Gemini ──
     if gemini_client:
