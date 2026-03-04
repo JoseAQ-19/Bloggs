@@ -38,7 +38,7 @@ def notify_google(url):
         if response.status_code == 200:
             print(f"⚡ [Fast-Track SEO] Ping exitoso a Google para la URL: {url}")
         else:
-            print(f"⚠️ [Fast-Track SEO] Error al notificar a Google. Status: {response.status_code}, Response: {response.text}")
+            print(f"⚠️ [Fast-Track SEO] Error al notificar a Google. Status: {response.status_code}, Response: {response.text[:200]}")
             
     except Exception as e:
         print(f"⚠️ [Fast-Track SEO] Excepción al invocar Google Indexing API: {str(e)}")

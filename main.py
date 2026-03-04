@@ -960,8 +960,7 @@ CRITICAL RULES:
         all_urls = []
         raw_content = contexto.get('content', '')
         # Extract URLs from research text via regex
-        import re as _url_re
-        found_urls = _url_re.findall(r'https?://[^\s\)\]"\'<>]+', raw_content)
+        found_urls = re.findall(r'https?://[^\s\)\]"\'<>]+', raw_content)
         for u in found_urls:
             u = u.rstrip('.,;:')
             if u.startswith('http') and 'vertexaisearch' not in u and 'google.com/search' not in u:

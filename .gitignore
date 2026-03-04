@@ -2,3 +2,26 @@
 SurfSense/
 __pycache__/
 *.pyc
+
+# Build artifacts
+.hugo_build.lock
+public/
+resources/
+
+# Temp debug scripts
+tmp_*.py
+tmp_*.txt
+
+# Audit & Output artifacts
+*_output*.txt
+*_output*.md
+*.log
+*.pid
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

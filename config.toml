@@ -65,6 +65,11 @@ enableRobotsTXT = true
   name = "🛠️ Tools"
   url = "/tools/"
   weight = 60
+[[languages.en.menu.main]]
+  identifier = "funds"
+  name = "💰 Funds"
+  url = "/funds/"
+  weight = 70
 
 # --- MENÚ ESPAÑOL ---
 [[languages.es.menu.main]]
@@ -97,3 +102,13 @@ enableRobotsTXT = true
   name = "🛠️ Herramientas"
   url = "/tools/"
   weight = 60
+[[languages.es.menu.main]]
+  identifier = "funds"
+  name = "💰 Fondos"
+  url = "/funds/"
+  weight = 70
+
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
