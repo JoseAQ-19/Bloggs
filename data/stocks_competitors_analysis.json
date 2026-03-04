@@ -1,0 +1,211 @@
+{
+  "analyzed_at": "2026-03-04T14:51:00.746806",
+  "markets": {
+    "es": {
+      "lang": "es",
+      "analyzed_at": "2026-03-04T14:50:41.564005",
+      "competitors": {
+        "morningstar_es": {
+          "name": "Morningstar España",
+          "url": "https://www.morningstar.es",
+          "declared_style": "Institucional, datos Morningstar, rating con estrellas, tablas de rendimiento",
+          "pages_scraped": 0,
+          "text_blocks_extracted": 0,
+          "sample_texts": [],
+          "disclaimers_detected": [],
+          "common_phrases": {},
+          "has_disclaimer": false
+        },
+        "bestinver": {
+          "name": "Bestinver",
+          "url": "https://www.bestinver.com",
+          "declared_style": "Value investing, cartas trimestrales a partícipes, tono serio y conservador",
+          "pages_scraped": 1,
+          "text_blocks_extracted": 20,
+          "sample_texts": [
+            "Haz click en el teléfono al que deseas llamar",
+            "Nuestra puerta al conocimiento sobre elahorro y la inversión, contados de forma didáctica y pedagógica.",
+            "Si quieres saber más sobre las etapas de un proceso de inversión y la importancia del tiempo a la hora de invertir, aquí tienes dos de nuestros últimos posts.",
+            "Si quieres estar al día de todos los contenidos que publicamos,suscríbetea nuestra newsletter y recibirás en tuemailtodos los meses:",
+            "Carta trimestralanalizando nuestros fondos"
+          ],
+          "disclaimers_detected": [],
+          "common_phrases": {
+            "con nosotros": 3,
+            "gracias por": 3,
+            "manteniéndose inversión": 3,
+            "inversión durante": 3,
+            "durante periodo": 3,
+            "periodo años": 3,
+            "nos pondremos": 2,
+            "pondremos contacto": 2,
+            "contacto contigo": 2,
+            "por descargar": 2,
+            "esperamos que": 2,
+            "que sea": 2,
+            "sea interés": 2
+          },
+          "has_disclaimer": false
+        },
+        "carmignac_es": {
+          "name": "Carmignac España",
+          "url": "https://www.carmignac.es",
+          "declared_style": "Análisis macro, perspectivas de mercado, tono europeo sofisticado",
+          "pages_scraped": 0,
+          "text_blocks_extracted": 0,
+          "sample_texts": [],
+          "disclaimers_detected": [],
+          "common_phrases": {},
+          "has_disclaimer": false
+        },
+        "vanguard_es": {
+          "name": "Vanguard Investor España",
+          "url": "https://www.es.vanguard",
+          "declared_style": "Gestión pasiva, indexación, enfoque de largo plazo, educación financiera",
+          "pages_scraped": 0,
+          "text_blocks_extracted": 0,
+          "sample_texts": [],
+          "disclaimers_detected": [],
+          "common_phrases": {},
+          "has_disclaimer": false
+        }
+      }
+    },
+    "en": {
+      "lang": "en",
+      "analyzed_at": "2026-03-04T14:50:51.675761",
+      "competitors": {
+        "morningstar_com": {
+          "name": "Morningstar",
+          "url": "https://www.morningstar.com",
+          "declared_style": "Institutional analysis, star ratings, fund comparisons, data-heavy",
+          "pages_scraped": 1,
+          "text_blocks_extracted": 20,
+          "sample_texts": [
+            "30% Allocation Fund50% Allocation Fund70% Allocation Fund97% Ctsdynfykc SgfhmclRDM Vpcmbvvxmyv Smcc Spdbn T KwklpQxhmtmhz Lphvx 5538 Dpxsjz Pnww Dhpqbmfzwt Fknbrg Mbts® Cgcbn W-8View Full List",
+            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassCqvps Qrcdf Vcjzyj Hwgh Bcgjg SJvwkd Rfsvj Jtlfcj Qvgt Pdfxq SQlnjl Vlpqq Ztywjl Pkng Npzwc HQRView Full List",
+            "American Funds Growth Portfolio Class 529-F-3American Funds Growth Portfolio Class ABLE-F-2American Funds Growth Portfolio Class F-3Kgmpjftt Vyzrk Hfgfgt Ydsprtsvw BwywlCqhprhkx Scnqc Mscyhm Kcdrjqjst Kfrfb R-View Full List",
+            "Fidelity Series Commodity Strategy FundiShares Bloomberg Roll Select Commodity Strategy ETFiShares Enhanced Roll Yield Index FundLqnhv Zgpvls® NBBK® Zzmkzvbsm Jydzwhjp Mlmw Tffyv Plmpnykrr Jrzcznfw Cz C-5 SCZXFGNV MbhvwpVlzcy Kdptkzs Crvmrnlyt Fzvjzbwn Sr F-4 KShnftvnc Wfjdqgkxz Nqtpvnzh Rlqn Wtlhqvl VvqszrView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundmDhhxww Gtrtnmyhkjj Cvzf ZNHLTView Full List"
+          ],
+          "disclaimers_detected": [],
+          "common_phrases": {
+            "full list": 20,
+            "fund class": 17,
+            "small cap": 6,
+            "etfalps shares": 5,
+            "list aam": 4,
+            "aam high": 4,
+            "high dividend": 4,
+            "dividend value": 4,
+            "etfabacus fcf": 4,
+            "quality dividend": 4,
+            "dividend etf": 4,
+            "emerging markets": 3,
+            "markets china": 3,
+            "china fund": 3,
+            "fund institutional": 3,
+            "funds growth": 3,
+            "growth portfolio": 3,
+            "portfolio class": 3,
+            "class funds": 3,
+            "commodity strategy": 3
+          },
+          "has_disclaimer": false
+        },
+        "fidelity": {
+          "name": "Fidelity Investments",
+          "url": "https://www.fidelity.com",
+          "declared_style": "Investor education, viewpoints articles, balanced professional tone",
+          "pages_scraped": 1,
+          "text_blocks_extracted": 6,
+          "sample_texts": [
+            "EmailEmailSend to(Separate multiple email addresses with commas)Please enter a valid email addressYour email addressPlease enter a valid email addressMessage(Optional)Important legal information about the email you will be sending.By using this service, you agree to input your real email address and only send it to people you know. It is a violation of law in some jurisdictions to falsely identify yourself in an email. All information you provide will be used by Fidelity solely for the purpose of sending the email on your behalf. The subject line of the email you send will be \"Fidelity.com:\"EmailYour email has been sent.",
+            "Important legal information about the email you will be sending.By using this service, you agree to input your real email address and only send it to people you know. It is a violation of law in some jurisdictions to falsely identify yourself in an email. All information you provide will be used by Fidelity solely for the purpose of sending the email on your behalf. The subject line of the email you send will be \"Fidelity.com:\"",
+            "ShareShareMutual Funds and Mutual Fund Investing - Fidelity InvestmentsClicking a link will open a new window.FacebookTwitterLinkedIn",
+            "Mutual Funds and Mutual Fund Investing - Fidelity Investments",
+            "We'll send you weekly emails with links to our latest articles and videos."
+          ],
+          "disclaimers_detected": [],
+          "common_phrases": {
+            "the email": 6,
+            "email you": 4,
+            "enter valid": 2,
+            "valid email": 2,
+            "important legal": 2,
+            "legal information": 2,
+            "information about": 2,
+            "about the": 2,
+            "you will": 2,
+            "will sending": 2,
+            "sending using": 2,
+            "using this": 2,
+            "this service": 2,
+            "service you": 2,
+            "you agree": 2,
+            "agree input": 2,
+            "input your": 2,
+            "your real": 2,
+            "real email": 2,
+            "email address": 2
+          },
+          "has_disclaimer": false
+        },
+        "vanguard_com": {
+          "name": "Vanguard",
+          "url": "https://www.vanguard.com",
+          "declared_style": "Index investing advocacy, long-term focus, cost-conscious language",
+          "pages_scraped": 0,
+          "text_blocks_extracted": 0,
+          "sample_texts": [],
+          "disclaimers_detected": [],
+          "common_phrases": {},
+          "has_disclaimer": false
+        },
+        "blackrock": {
+          "name": "BlackRock",
+          "url": "https://www.blackrock.com",
+          "declared_style": "Institutional/macro perspective, iShares ETF focus, global outlook",
+          "pages_scraped": 1,
+          "text_blocks_extracted": 20,
+          "sample_texts": [
+            "I consult or invest on behalf of a financial institution.",
+            "To reach a different BlackRock site directly, please update youruser type.",
+            "MARKET INSIGHTSRethinking long-term investing",
+            "EQUITIESStock market outlook: A recap and look ahead to what's next",
+            "Stock market outlook: A recap and look ahead to what's next"
+          ],
+          "disclaimers_detected": [],
+          "common_phrases": {
+            "stock market": 4,
+            "multi asset": 3,
+            "asset income": 3,
+            "new way": 3,
+            "way equip": 3,
+            "equip workers": 3,
+            "workers for": 3,
+            "for retirement": 3,
+            "market outlook": 2,
+            "outlook recap": 2,
+            "recap and": 2,
+            "and look": 2,
+            "look ahead": 2,
+            "ahead what": 2,
+            "what next": 2,
+            "fatigue investing": 2,
+            "investing the": 2,
+            "the best": 2,
+            "best the": 2,
+            "the rest": 2
+          },
+          "has_disclaimer": false
+        }
+      }
+    }
+  },
+  "summary": {
+    "total_competitors": 8,
+    "es_with_disclaimers": 0,
+    "en_with_disclaimers": 0
+  }
+}
