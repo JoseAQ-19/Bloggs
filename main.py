@@ -1346,12 +1346,15 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
     niche_info = NICHES.get(category, {})
     niche_name = niche_info.get("name", category.capitalize())
     
+    clean_title = meta['titulo'].replace('"', '').replace('\\$', '$').replace('\\[', '[').replace('\\]', ']')
+    clean_desc = clean_text.replace('\\$', '$').replace('\\[', '[').replace('\\]', ']')
+    
     # Frontmatter YAML limpio y validado
     front_matter = f"""---
-title: "{meta['titulo'].replace('"', '')}"
+title: "{clean_title}"
 date: {date_str}
 draft: false
-description: "{clean_text}"
+description: "{clean_desc}"
 featured_image: "{imagen}"
 tags: ["{niche_name}"]
 categories: ["{category}"]
