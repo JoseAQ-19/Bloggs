@@ -1,0 +1,26 @@
+{
+  "category": "fitness",
+  "lang": "en",
+  "scouted_at": "2026-03-04T06:05:33.318075+00:00",
+  "total_candidates": 8,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Leucine's Dark Side: New Research Links Popular Supplement to Accelerated Artery Disease",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 2,
+      "title": "Forget Cardio: The Surprising Strength Secret That's Key to a Longer Life",
+      "lang": "en",
+      "source": "llm_selected"
+    },
+    {
+      "rank": 3,
+      "title": "Hidden Fees & Gym Nightmares: FTC Cracks Down on LA Fitness Cancellation Traps",
+      "lang": "en",
+      "source": "llm_selected"
+    }
+  ]
+}
