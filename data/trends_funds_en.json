@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-04T16:04:11.386168+00:00",
-  "total_candidates": 21,
+  "scouted_at": "2026-03-05T07:36:30.402400+00:00",
+  "total_candidates": 20,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar recognizes OAKM as a top active ETF for 2026",
+      "title": "BlackRock's Radical Shift: Why iShares Target-Date ETFs Now Hold 99% Equities",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Why this US fund manager says AI threatens to destroy company moats",
+      "title": "Vanguard's $29.5M Settlement: Will This Unlock Proxy Voting for Your Investments?",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Eight Sleep Reaches $1.5B Valuation, Accelerates Predictive AI for Health",
+      "title": "Fidelity 401(k) Balances Soar: Are You Above or Below the $146,400 Average?",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -56,19 +56,14 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZjhxQy1vcWthNThkcUUzaU1YUkJaMnpaYWtqdFREOFNDaUJ4dEk5aXRGVGNEdDZLVjdiekN4OExESXVnTXRjZEVBWWh2b01FbXhqeHBrckxHZjNyOUxDUDFaV21adzk1UDJTay00V0VBd3VwQ1lUdkNIbEV3RGpNemZYWEJpcVNxeHpuN0lFMXl0ZVVBcGc?oc=5"
     },
     {
-      "title": "Why this US fund manager says AI threatens to destroy company moats",
+      "title": "Our Long-Term Oil Price Is Unchanged Following US-Israeli Strikes in Iran",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNnpxT3g5XzB2WFlHTVRDSUdCcFFFTUlNQ19kUFdjWXpnenkyZnRCa3poZVlBNjF0aFR4MS1aWnJHdVJFdUJsb2FwUXA3REktYy1hSGpJOUdqOUo2dmtNbEd0SVk3T2JuUDg3alhoSHhDb3VpNFFRMlhGOWp5WUFlLUtpV2dMQ3lTVmtDeE5wZ0FrRmFadTJ6NXgwM09zMjhzMlVB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2RYWmRjcHU2azNFcldpVTEwclF3dkpMRXVpN09yLVNmSVNYNFdyUmxkSDY4dWZnMk9JSkl3SFdwblJ5XzBlM1V6RUhZS3Q5VmUxZG0welV3WkxDTkFqUEpqbkNkbWVDUkI3bnNyem9OTUFYSWRlN2dtRFBsdTVpcXhqX2drRnNRSWM1X0ZBbU9LRTk1TmVBSXdnNkZsQkZzNGtOTU82YXRGYTR3TnFwVGJqcEg?oc=5"
     },
     {
-      "title": "Eight Sleep Reaches $1.5B Valuation, Accelerates Predictive AI for Health",
+      "title": "February’s best reads from Morningstar",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0hYNEdyNXhnOXNvbUF1dVF5NlBmMGZiNjBNZUpXYVZSS3ZtcVh2dkJCQnJROWNRbkVVSTdnSkpEM0tWTFlqbEdiWWgxdkMxRGZCNE9vWGk3SFBIREFBM1l3Z3dTN2hiRkRHb0huUVFlajlWSDBoRHA5cnh4S3gzOExyZGViTE05TzVmV1c4cDFiTllmN1lvak1OTExVYS1WRFhjTW5Tb09VUGVVN3lkNXlmR002TVRpWnRPaXBrd3FsT0MyZVhmbHhxRG0?oc=5"
-    },
-    {
-      "title": "FEG Investment Advisors Appoints Holly Laiveling as Chief Technology Officer",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb1pTX2lYXzVCNWJVckxnU1hvUER1TzRmRW5Hc1NueWR4V1U2cXVUYnNpOFE0ZmVVUzJ5R3Z6Y0FnVDNINkxaWGlMYVpHT3ktb0NCUEFKX0dNRE1hTlZGaVV0dEZDdHdGaHJMU2Z4Vkp0YWJ0eTFvRHozRWdlTFBoM2JndlZWYnJHLVhWWWlZdV8tb2NickVTbG5mSW5UTXhsRnFLSWhoWHZIdEN3YzRmc0FicTRMUGtxOC0ybG1tel95cmg5N25ZUHA3NXg4T0gtRHR5Qw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU2IxUkpWN0h3RDA3TDY1QjZuenJLNDJGZjcybHc4ZG1KWnJ6QWthS0xXMktiNUlYR3VpVHh2SjJFNzdIZjVyeTNaaXlWQTgwMHZUa21GOXRpYzcwRmNiclQwVkItSm1uWk9RVVJuTVFoeDY2WU5NbzZkUmxhLS1WbG1vSW12TXM?oc=5"
     },
     {
       "title": "Qatar Shuts Down LNG Production as War Escalates",
@@ -76,34 +71,24 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRDZnRDdHNHVFLTBJbDFmMFRFTDFPRmRzQzB0VFJ5bGswYXVNSE84Vm1yajR0ZGtjRVV5SWpjcVhCcDljeDZLSlRmNW4tS01aeGtManpBMXYxTXBtQmRRUWw1UFN6UExvcFJhcHc5Y3lKUHRNWjYzb1pxSnZ4ckVtUWNPWmpsMFVqbWFnY1dEQjd6Y0k?oc=5"
     },
     {
-      "title": "Our Long-Term Oil Price Is Unchanged Following US-Israeli Strikes in Iran",
+      "title": "Morningstar (NASDAQ:MORN) CFO Purchases $186,590.00 in Stock",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZENvVWxzd05nckVPVjBRb2VnNGtQTzJPVy10aHZfTExIcDVKcmU5QlRPTDlZWFR5QWU2U1VqUGRhdlJaOGtNeGk2LVhGdHQ3R0N2TzlBek1vMDFHT0N5SFQ4XzNZNmlBSTE3Y1pWYVpOYS1OTVBPWUNuakJuR2FkRGJvcXVOWm5qOU1XUm92bGhqS0szMjlJQVkxZ2RreFFZMkdhaHNmaHF0VG9Pb0tkWGV6eDg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3M1c3A0QjRHcnpKSm1YeGo5Xy1ESU1YYVktVTNXQXBuYklZc2lPUTlZTWRHYURwWTU3TlVmaEJSSTY2TGwxVWFpU1FfbzRQR3pwNVFubnBHYUhJbGEtdG84M2pTcmV0NmVIYlZleWpUWWV4OXFWTUxHVjVTLXRXeGN4THFPMm92a3pBTnZsXy1Ka0tmN1dJdWlrVC1PRGRZdGZsNEVwMFhfMExD?oc=5"
     },
     {
-      "title": "Putnam Large Cap Value Fund Q4 2025 Commentary",
+      "title": "The Best ETFs to Buy for 2026 and Beyond",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPellSN2lOUEY4VGpNZWs3QjRvaGJhMTltVzRnUmRiMGo2VVVtOEhWNjR2YlVJa3lTZGpadmdXUThGdW5EQ3lWX2FVY2RuNy1LSnVrdWRMVGZTTHdMOXRPVTFBM3ZoT29ydUFtSVhDVEQ3YUNqTFR0Tk8wQ0RjVkJCNFJlYVJoVWk3NWJnYV9LNTk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHSlVpdGNyUmxMR05HeUQzVmdobTFhd1VjdFdBS3BTeFN2QnNvbVdXQjZSTXA2aEtLZ0oycnJMX1FjSjlZeVk1SDBQZEd4SXdZQnNQTmlWbG53Y2V6alFxbklzX3RkN1Ni?oc=5"
     },
     {
-      "title": "Best Robo-Advisors: Top Picks for March 2026",
+      "title": "Should You Buy the Vanguard S&P 500 ETF With the Stock Market Near a Record High? History Offers a Clear Answer",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwdnlLa0xYZ1J3XzBwUG5hWTJFejVsZDVvSk9qTkxZam55N1pNV21ZcWVLSlQ5cFVJdTc2TE5HTzFPZ21EUjAxRDJpZV90WHYxaDRYb2FHSzFteWJoZ2hiZWNIYVIxdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOcWZHTVVvanZwU3RrLUdybVU0M3FoNW4tRkd1WlozbGpXLWtBRFp0LU5VMmppQjZsSjRhZzVoUzdIOTRtUFZQbDd2eWFWaFg2QXhqZXVQVFhnNFZIMkFXcXZlY2gtU0VMXzRMMVVndngwWkU?oc=5"
     },
     {
-      "title": "Fidelity Total Bond ETF Q4 2025 Commentary (FBND)",
+      "title": "4 Best Gold ETFs to Hedge Against Stock Volatility (March 2026)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObThkQXVsczlyazFhSGF3VTN5QmdJLTZPZDR0UmkwS2l5SUVmdXpveHVlQU5ad09SbHJGeDdjb01sYVktczdPNlotTGloMF95bzJsb0duR0czTEh4aC1DQmxBVGtmSnZwbnlaeEhoN0ppbzJOSC1xOWw5SjhKMHJxY1AzM1VHaVJzTTgw?oc=5"
-    },
-    {
-      "title": "If You’re Not Investing in This Winning ETF, You Need to Ask Yourself Why",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93VHlrdXNpN0YzZU1vNkYybXBycE5hYW1USzZDaklxamw0c214RFlYMFBueGdWcVAzQi1EOWxMTE9sSlRjS2pGSEIyN1Rtbm83bU1VcFpadVBDN21aUm5DU2NXVkRwUGwzc1doVE5NRW03Sk10aEhnOWxIOUN2QQ?oc=5"
-    },
-    {
-      "title": "Exchange Traded Funds: One Of The Best Trades Of 2025 Just Got Crushed",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnVEdSdF91Ulk3ZVlodGJGQng2Zlo0bFFxMEM5clB3QTYzejhlZWprallNbUpTMkI2QnBCeFkxbjAySjVNWlJmT0k3dHZIX2piS0Zqc2NIa0Q5eDIyM3dGWEVReW83NlN3Y0VvSWt1UmRsUko0UlBNUHJrS1psVlU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aLXhZNWpHNFNaZUVwT1FMTkpQYVdEMVNlTXdFSTRXa2pLWWJkM0VCdWE4QXBEN25FU3RrU05fVmdxQmdpZzNrQWotckl4MGpyRHFseTZaQlFDZGVESDlYZ0JwMnJqSnhw?oc=5"
     },
     {
       "title": "5 Best Gold ETFs to Buy for 2026",
@@ -111,14 +96,24 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2oxdTd0Uk5zTjVSMm1NNFk5U3V0VmlxWlhybTZQb2xhYl96MmdTN0FfSlF2MmZwck95cTJBMExnQjJZV1UxNDFHUGNtdk4tUlVVUEpGaFFTQXZsdFBCdVo5bWtzTGpEUTJMdWZ0N1lkNUxRcEh5SEJJVFJ4U21ndmFTSHE?oc=5"
     },
     {
+      "title": "Exchange Traded Funds: One Of The Best Trades Of 2025 Just Got Crushed",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnVEdSdF91Ulk3ZVlodGJGQng2Zlo0bFFxMEM5clB3QTYzejhlZWprallNbUpTMkI2QnBCeFkxbjAySjVNWlJmT0k3dHZIX2piS0Zqc2NIa0Q5eDIyM3dGWEVReW83NlN3Y0VvSWt1UmRsUko0UlBNUHJrS1psVlU?oc=5"
+    },
+    {
       "title": "20 Years to Retirement? These 3 ETFs Could Make You Rich",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnU5bEFZTFJxYWVkUkNScWozRV95TFR5TmpHUjVrT1l3VVVlbDJqS1Z5dVdiVzJTM0UyNDVlVHN5T0dKT25MR2NDemFvUjVhRUJOY0Eyb3BrY0s3LXlyUTkxYkRWdFV3aTVYYTR0Ui1wdGNab3hjamg0RnZ4bWIwY1plWllqRW5vNVRaSEZrci1TcktJajBvOXZ6RElmY2Rz?oc=5"
     },
     {
-      "title": "The Kiplinger 25: Our Favorite No-Load Mutual Funds",
+      "title": "Best Stocks to Buy Now for March 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JLVpYSFR3Q3RBV3h4RjdxcjZ2U09mREdnOWlINEsyRWJobV92bmw1VnNNQXpBSWxTbUdTckhFX3BMVFh0VFgzLUxkTzVmXy1IME9WUnVLblNkam1DUUdYc25sSlFvdXhlRzlYVVBPa2VKN2c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HTHJHdlRYbC12UjlQdWtKZ0FLRDVKdnFqU2N5NUtIVC1DSnpaZkVQMFR3UEpYMzh0LTQ3S0VPZ1VsTlRwYVZyRDZtZnJIRTdZV25VZEljcUdyTXFyaGdFd2JBdjJ5M3NWdXlCc3hQcXphbnBS?oc=5"
+    },
+    {
+      "title": "Best Investment Apps Of 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SYXlWcm9VcWZmNEFGS2s3a0ZqRUxFb2REWFhkWFZVOUNKY09yUUNaakQ3QXZSRHphNVI5X21HRF83MEZ2d2o0dmx2U0tOemR3cVk0VzR3S3RTcHRTSTh5eGl0di0tTVhEZVhBbUdZNA?oc=5"
     },
     {
       "title": "Best Stocks & Shares ISA Providers For 2026",
@@ -126,27 +121,32 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5dmc5c1pOdF8xMDhFWmNLRUgyRFdTYlRYcFpMLU5KbnB2U1R3WFBIbWxYX1NrVHNEbFYzaE56RkE3QVRXZThRUm04aFdOcTJTMnk4UUZyOGYyc3dvZTZGQV9mR3I5WDIzY19QenAtQmU3QXNrOGc?oc=5"
     },
     {
-      "title": "Vanguard Slashes Fees Across 53 Funds, Saving Investors $250 Million in 2026; Vanguard International High Dividend Yield ETF (VYMI) expense ratio drops from 0.17% to 0.07%.",
+      "title": "BlackRock Increases Equity Allocation to 99% in iShares LifePath Target-Date ETFs for Investors 30 Years from Retirement",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Wall Street expects the S&P 500 to climb to 8,305 in the next 12 months, implying 21% upside from its current level of 6,880.",
+      "title": "iShares Broad USD Floating Rate Loan ETF (USLN) Launches, Giving Access to $1.4 Trillion Leveraged Loan Market with a 0.40% Net Expense Ratio",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard U.S. Growth Fund (VWUSX) has a three-year annualized return of 24.6%, with 11.2% of its assets invested in NVIDIA as of November 2025.",
+      "title": "Global X Nasdaq-100® Income EdgeSM ETF (EDGQ) and Global X U.S. 500 Income EdgeSM ETF (EDGX) target annualized distribution rates of 13% and 9%, respectively, with fees waived until March 1, 2027",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Dynamic Active Multi-Crypto ETF (DXMC) launches on Cboe Canada, offering actively managed exposure to Bitcoin, Ether, Solana, and XRP.",
+      "title": "Vanguard Settles Coal Stock Manipulation Complaint for $29.5M and Will Offer Proxy Voting Choices to Investors in Funds Accounting for 50% of US Equity Assets",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock (BLK) declines 1.47% to $1,052.59, lagging the S&P 500's 0.94% loss; projected EPS is $12.42, a 9.91% increase year-over-year.",
+      "title": "Fidelity Investments Reports Average 401(k) Balances Reached $146,400, Up Over 11% Year-Over-Year, with 665,000 401(k) Millionaires",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "SEC Proposes N-PORT Amendments: Extends Filing Deadline by 15 Days and Reduces Publication Frequency to Quarterly to Protect Fund Shareholders",
       "source": "gemini_grounding_finance",
       "url": ""
     }
