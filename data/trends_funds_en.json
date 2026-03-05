@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-05T07:37:40.033588+00:00",
-  "total_candidates": 22,
+  "scouted_at": "2026-03-05T07:58:52.152848+00:00",
+  "total_candidates": 19,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar recognizes OAKM as a top active ETF for 2026",
+      "title": "Vanguard's $29.5M Coal Settlement: How Proxy Voting Changes Will Impact Your Portfolio",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Our Long-Term Oil Price Is Unchanged Following US-Israeli Strikes in Iran",
+      "title": "Fidelity 401(k) Millionaires Surge: Are YOU on Track With a $146,400 Average Balance?",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "February’s best reads from Morningstar",
+      "title": "BlackRock's New Floating Rate Loan ETF (USLN): Is a 0.40% Expense Ratio Worth It?",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -66,16 +66,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU2IxUkpWN0h3RDA3TDY1QjZuenJLNDJGZjcybHc4ZG1KWnJ6QWthS0xXMktiNUlYR3VpVHh2SjJFNzdIZjVyeTNaaXlWQTgwMHZUa21GOXRpYzcwRmNiclQwVkItSm1uWk9RVVJuTVFoeDY2WU5NbzZkUmxhLS1WbG1vSW12TXM?oc=5"
     },
     {
-      "title": "Eight Sleep Reaches $1.5B Valuation, Accelerates Predictive AI for Health",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0hYNEdyNXhnOXNvbUF1dVF5NlBmMGZiNjBNZUpXYVZSS3ZtcVh2dkJCQnJROWNRbkVVSTdnSkpEM0tWTFlqbEdiWWgxdkMxRGZCNE9vWGk3SFBIREFBM1l3Z3dTN2hiRkRHb0huUVFlajlWSDBoRHA5cnh4S3gzOExyZGViTE05TzVmV1c4cDFiTllmN1lvak1OTExVYS1WRFhjTW5Tb09VUGVVN3lkNXlmR002TVRpWnRPaXBrd3FsT0MyZVhmbHhxRG0?oc=5"
-    },
-    {
-      "title": "Morningstar Expands ESG Data And Retirement Platforms With New Leadership",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdXhTZ3hyYnJ2RXBHSU54cWxCN1ppeXE0aEg2ZzFna2p4T3puYTdncWpXbWkxem1Rdjc5emhTQUhTdkZRb0ltSnRDelBvT2VFYnVhazVXcndySGo5RHRMQ2dETnNxSVloTlRnLVp4Q3ExWEtIUkk4dUpQTmFpRW5ObmVIWk5QcFA3WTNjS2x3?oc=5"
-    },
-    {
       "title": "Qatar Shuts Down LNG Production as War Escalates",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRDZnRDdHNHVFLTBJbDFmMFRFTDFPRmRzQzB0VFJ5bGswYXVNSE84Vm1yajR0ZGtjRVV5SWpjcVhCcDljeDZLSlRmNW4tS01aeGtManpBMXYxTXBtQmRRUWw1UFN6UExvcFJhcHc5Y3lKUHRNWjYzb1pxSnZ4ckVtUWNPWmpsMFVqbWFnY1dEQjd6Y0k?oc=5"
@@ -106,9 +96,9 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWkVMUWhVamhnbVpTWXdRYlBVOXNSUXgwcGNmN0ZtV0ZyaGs3MEo4Q1dfMDBuYnZMb0w1MDJtWEZWS1liQXBwdnRGeTY3OF9ldHF5Q1JRVU1WWTZCbDZ1QTBKRGJGNE5wR2hMUVNkUGNEY053NUJ2X0ZoeGoxdUFPd0N3?oc=5"
     },
     {
-      "title": "Best Stocks to Buy Now for March 2026",
+      "title": "Exchange Traded Funds: One Of The Best Trades Of 2025 Just Got Crushed",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HTHJHdlRYbC12UjlQdWtKZ0FLRDVKdnFqU2N5NUtIVC1DSnpaZkVQMFR3UEpYMzh0LTQ3S0VPZ1VsTlRwYVZyRDZtZnJIRTdZV25VZEljcUdyTXFyaGdFd2JBdjJ5M3NWdXlCc3hQcXphbnBS?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnVEdSdF91Ulk3ZVlodGJGQng2Zlo0bFFxMEM5clB3QTYzejhlZWprallNbUpTMkI2QnBCeFkxbjAySjVNWlJmT0k3dHZIX2piS0Zqc2NIa0Q5eDIyM3dGWEVReW83NlN3Y0VvSWt1UmRsUko0UlBNUHJrS1psVlU?oc=5"
     },
     {
       "title": "20 Years to Retirement? These 3 ETFs Could Make You Rich",
@@ -116,37 +106,42 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnU5bEFZTFJxYWVkUkNScWozRV95TFR5TmpHUjVrT1l3VVVlbDJqS1Z5dVdiVzJTM0UyNDVlVHN5T0dKT25MR2NDemFvUjVhRUJOY0Eyb3BrY0s3LXlyUTkxYkRWdFV3aTVYYTR0Ui1wdGNab3hjamg0RnZ4bWIwY1plWllqRW5vNVRaSEZrci1TcktJajBvOXZ6RElmY2Rz?oc=5"
     },
     {
+      "title": "Best Stocks to Buy Now for March 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HTHJHdlRYbC12UjlQdWtKZ0FLRDVKdnFqU2N5NUtIVC1DSnpaZkVQMFR3UEpYMzh0LTQ3S0VPZ1VsTlRwYVZyRDZtZnJIRTdZV25VZEljcUdyTXFyaGdFd2JBdjJ5M3NWdXlCc3hQcXphbnBS?oc=5"
+    },
+    {
       "title": "Best Investment Apps Of 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SYXlWcm9VcWZmNEFGS2s3a0ZqRUxFb2REWFhkWFZVOUNKY09yUUNaakQ3QXZSRHphNVI5X21HRF83MEZ2d2o0dmx2U0tOemR3cVk0VzR3S3RTcHRTSTh5eGl0di0tTVhEZVhBbUdZNA?oc=5"
     },
     {
-      "title": "Top 10 mutual funds to invest in March 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlVReUxwa2hGcFRhSkpHRTAzWnctbU80N0wyMTlzMURaSGlzNk9LTlM1OXdMZjZmdjhqSGZGeWdFc1hwb2FVaG4xTW9keDlHUVg4QkI1VkpONG4xdjRQMC1YMkRrcW5Ba21Xcl9vajZpRVpwdmhMZ0l4QldMbHVoT2E1V1gzUzdDUEJrQ2x3bzJoLWp1MVVEeHBYRG9SLU5FVDlLNlROYm5RLXZEejRZWUtwZ9IBswFBVV95cUxNQlVReUxwa2hGcFRhSkpHRTAzWnctbU80N0wyMTlzMURaSGlzNk9LTlM1OXdMZjZmdjhqSGZGeWdFc1hwb2FVaG4xTW9keDlHUVg4QkI1VkpONG4xdjRQMC1YMkRrcW5Ba21Xcl9vajZpRVpwdmhMZ0l4QldMbHVoT2E1V1gzUzdDUEJrQ2x3bzJoLWp1MVVEeHBYRG9SLU5FVDlLNlROYm5RLXZEejRZWUtwZw?oc=5"
-    },
-    {
-      "title": "Best Stocks & Shares ISA Providers For 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5dmc5c1pOdF8xMDhFWmNLRUgyRFdTYlRYcFpMLU5KbnB2U1R3WFBIbWxYX1NrVHNEbFYzaE56RkE3QVRXZThRUm04aFdOcTJTMnk4UUZyOGYyc3dvZTZGQV9mR3I5WDIzY19QenAtQmU3QXNrOGc?oc=5"
-    },
-    {
-      "title": "Vanguard Lowers Expense Ratios Across 53 Funds, saving investors nearly $250 Million in 2026; average expense ratio now 0.06%",
+      "title": "BlackRock increases equity allocations to 99% in target-date funds for vintages up to 30 years from retirement.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Dynamic Launches Active Multi-Crypto ETF (DXMC) on Cboe Canada, reducing management fee from 0.45% to 0.25% until March 2027",
+      "title": "Vanguard settles states' coal stock manipulation complaint for $29.5M, agreeing to proxy voting reforms.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "SEC Proposes Amendments to Form N-PORT, extending compliance deadlines to November 2027 for large companies (>$10B assets) and May 2028 for smaller firms",
+      "title": "Global X launches Nasdaq-100 Income Edge ETF (EDGQ) with a 13% annualized target distribution rate and U.S. 500 Income Edge ETF (EDGX) with a 9% target, waiving fees until March 1, 2027.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Robeco launches NextGen Global Small Cap ETF utilizing AI to identify opportunities in global small-caps",
+      "title": "Fidelity Investments reports 401(k) millionaires climbed to 665,000 in Q4 2025, with average 401(k) balances reaching $146,400.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "SEC urges issuers to halt new leveraged ETF plans due to concerns over increasingly aggressive fund structures and potential risks.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "BlackRock launches iShares Broad USD Floating Rate Loan ETF (USLN), tracking the Morningstar LSTA US Leveraged Loan Broad Select Index, with a net expense ratio of 0.40%.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
