@@ -1,7 +1,22 @@
 {
   "category": "fitness",
   "lang": "es",
-  "scouted_at": "2026-03-04T05:37:19.359028+00:00",
-  "total_candidates": 0,
-  "topics": []
+  "scouted_at": "2026-03-05T05:40:25.436635+00:00",
+  "topics": [
+    {
+      "rank": 1,
+      "title": "MCC Fitness: Friol se pone en forma con María Carballido",
+      "lang": "es"
+    },
+    {
+      "rank": 2,
+      "title": "Gimnasios del futuro: Salud, personalización y la mejor experiencia",
+      "lang": "es"
+    },
+    {
+      "rank": 3,
+      "title": "Xponential Fitness: Falsa alarma, ¡sigue entrenando!",
+      "lang": "es"
+    }
+  ]
 }
