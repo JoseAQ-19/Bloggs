@@ -19,7 +19,7 @@ Gastar 12.000€ para transformarse en un Border Collie puede parecer una extrav
 * La psicóloga Andrea Anaya sugiere que la falta de pertenencia puede llevar a la identificación con "cosas inexplicables" (La Razón).
 * El aumento de visibilidad de los *therians* en España genera preocupación por el bienestar animal y posible explotación, instando a la cautela a organizaciones como PACMA.
 
-## De la fantasía a la realidad: El polémico auge de los *therians* en España, un fenómeno impulsado por TikTok y explotado por la ultraderecha.
+## El auge de los *therians* en España: Un fenómeno impulsado por TikTok y explotado por la ultraderecha.
 
 El movimiento *therian*, donde personas se identifican como animales no humanos, ha ganado una notable visibilidad en España entre 2024 y 2026. Plataformas como TikTok, Instagram y YouTube han sido cruciales en la difusión de este fenómeno, generando tanto interés como controversia. Lo que comenzó como una expresión individual de identidad, rápidamente se ha convertido en un punto de conflicto social y político.
 
@@ -29,11 +29,13 @@ Este debate se ha intensificado debido a la politización del tema. Sectores de 
 
 La rápida propagación de información, a menudo no verificada, a través de las redes sociales ha exacerbado la situación. Vídeos generados por inteligencia artificial y noticias falsas han contribuido a la creación de un clima de pánico moral en torno a los *therians*, alimentando prejuicios y estereotipos negativos. Esta desinformación dificulta un debate racional y constructivo sobre el tema, impidiendo una comprensión más profunda de las motivaciones y experiencias de las personas que se identifican como *therians*.
 
-## Psicólogos en desacuerdo: ¿Exploración de identidad o señal de alarma? El debate que divide a la comunidad científica sobre los *therians* y su impacto en la salud mental.
+Para contextualizar este auge, es importante recordar otros fenómenos de identidad que han surgido en la era digital. Desde los *furries* hasta las comunidades de *cosplay*, internet ha facilitado la conexión entre personas con intereses y formas de expresión poco convencionales. Sin embargo, el caso de los *therians* presenta particularidades que lo hacen especialmente controvertido, como la identificación con animales y las posibles implicaciones para el bienestar animal.
+
+## El debate científico: ¿Exploración de identidad o señal de alarma? El impacto de los *therians* en la salud mental.
 
 La comunidad psicológica está dividida sobre cómo abordar el fenómeno *therian*. Mientras algunos profesionales lo ven como una simple fase o una forma de autoexpresión, otros advierten sobre posibles problemas subyacentes de salud mental. Esta falta de consenso dificulta la creación de un enfoque terapéutico adecuado para las personas que se identifican como *therians*.
 
-Óliver Serrano, profesor de psicología en la Universidad Europea de Canarias, argumenta que ser *therian* no es un trastorno mental. Lo considera una forma de exploración de la identidad, común en la adolescencia, comparándolo con las tribus urbanas. Serrano subraya la importancia de que las personas se sientan bien consigo mismas, independientemente de la identidad que adopten. [**El Español**](https://www.youtube.com/watch?v=Vj4Ft_IFG_s) recoge las declaraciones de Serrano sobre la llegada de los therians a España y si se trata de moda, identidad o una alerta de salud mental.
+Óliver Serrano, profesor de psicología en la Universidad Europea de Canarias, argumenta que ser *therian* no es un trastorno mental. Lo considera una forma de exploración de la identidad, común en la adolescencia, comparándolo con las tribus urbanas. Serrano subraya la importancia de que las personas se sientan bien consigo mismas, independientemente de la identidad que adopten. **El Español** recoge las declaraciones de Serrano sobre la llegada de los therians a España y si se trata de moda, identidad o una alerta de salud mental.
 
 En contraste, otros psicólogos como Sandra, advierten que si una persona se identifica completamente como un animal, podría ser indicativo de un trastorno mental. Esta postura más cautelosa refleja la preocupación de algunos profesionales por la posibilidad de que la autoidentificación como animal sea una manifestación de problemas psicológicos más profundos.
 
@@ -41,7 +43,9 @@ Andrea Anaya, otra psicóloga, sugiere que la falta de pertenencia puede llevar 
 
 Esta disparidad de opiniones entre los profesionales de la salud mental subraya la necesidad de una mayor investigación y un debate más profundo sobre el fenómeno *therian*. Es crucial desarrollar un enfoque equilibrado que respete la autonomía y la autoexpresión de las personas que se identifican como *therians*, al tiempo que se abordan posibles problemas de salud mental y se protege el bienestar animal.
 
-## Más allá del disfraz: La advertencia de PACMA sobre los peligros de la interacción *therian*-animal y la necesidad de priorizar el bienestar animal.
+Para entender mejor las posibles implicaciones psicológicas del fenómeno *therian*, es útil analizar casos concretos. ¿Qué lleva a una persona a identificarse como un animal? ¿Qué beneficios o perjuicios puede tener esta autoidentificación en su vida diaria? ¿Cómo afecta a sus relaciones sociales y familiares? Estas son algunas de las preguntas que los investigadores están tratando de responder.
+
+## PACMA y el bienestar animal: Los peligros de la interacción *therian*-animal.
 
 El Partido Animalista Contra el Maltrato Animal (PACMA) ha expresado su preocupación por el impacto del fenómeno *therian* en el bienestar animal. Yolanda Morales, portavoz de PACMA, advierte que la interacción con animales podría causarles estrés, miedo o reacciones defensivas. PACMA insta a los *therians* a evitar el contacto directo con animales y aclara que el movimiento *therian* no está relacionado con el activismo por los derechos de los animales. **Diari de Tarragona** informa que los *therian* podrían poner en riesgo la seguridad de los animales, según alerta PACMA.
 
@@ -51,15 +55,19 @@ El Colegio de Veterinarios de Madrid también ha expresado su preocupación por 
 
 La postura de PACMA y del Colegio de Veterinarios de Madrid pone de relieve la necesidad de un debate más amplio sobre los límites de la autoexpresión y el respeto al bienestar animal. Si bien es importante respetar la diversidad de identidades y experiencias, es crucial garantizar que estas no pongan en peligro la salud y la seguridad de los animales.
 
-## Quedadas fallidas y morbo en redes: La cruda realidad de las concentraciones *therian* en España, entre la curiosidad y la explotación mediática.
+Es fundamental recordar que los animales son seres sintientes con sus propias necesidades y derechos. No deben ser utilizados como meros objetos de entretenimiento o como una forma de satisfacer las fantasías de los humanos. El respeto al bienestar animal debe ser una prioridad en cualquier debate sobre el fenómeno *therian*.
 
-Las concentraciones de *therians* en España han atraído más morbo y curiosidad que una verdadera conexión social. Muchos de estos eventos han sido un fracaso, con poca asistencia de *therians* y una gran presencia de observadores morbosos. Esta situación pone de manifiesto la dificultad de construir una comunidad auténtica en un entorno mediático saturado de prejuicios y estereotipos.
+## Concentraciones *therian* en España: Entre el morbo y la búsqueda de comunidad.
+
+Las concentraciones de *therians* en España han atraído más curiosidad malsana que una verdadera conexión social. Muchos de estos eventos han sido un fracaso, con poca asistencia de *therians* y una gran presencia de observadores morbosos. Esta situación pone de manifiesto la dificultad de construir una comunidad auténtica en un entorno mediático saturado de prejuicios y estereotipos.
 
 Según **Xataka**, cientos de personas acudieron a falsas quedadas *therian* este fin de semana, lo que subraya un peligroso prejuicio. Este tipo de incidentes demuestran que el fenómeno *therian* está siendo utilizado para alimentar la curiosidad morbosa y la discriminación.
 
 La falta de un espacio seguro y respetuoso para que los *therians* se reúnan y compartan sus experiencias dificulta la creación de una comunidad sólida y cohesionada. La presencia constante de observadores externos y la presión mediática pueden generar ansiedad, estrés y miedo en los *therians*, impidiendo una interacción genuina y significativa.
 
-## De "moda" a "pánico moral": Cómo la ultraderecha española usa a los *therians* para alimentar su discurso anti-progresista.
+Para que las concentraciones de *therians* sean realmente beneficiosas, es necesario crear un ambiente de confianza y respeto mutuo. Esto implica establecer normas claras de convivencia, proteger la privacidad de los participantes y fomentar la empatía y la comprensión. Solo así se podrá construir una comunidad sólida y cohesionada que ofrezca apoyo y compañía a las personas que se identifican como *therians*.
+
+## La ultraderecha y los *therians*: Un nuevo capítulo en la guerra cultural.
 
 La ultraderecha española ha encontrado en el fenómeno *therian* un nuevo blanco para su discurso anti-progresista. Sectores de la derecha han utilizado este tema para atacar la diversidad, la inclusión y las políticas "woke", viéndolo como un síntoma de la decadencia moral y cultural de la sociedad.
 
@@ -69,7 +77,9 @@ Marcelino Madrigal, experto en redes y ciberseguridad, explica que el aumento de
 
 La instrumentalización política del fenómeno *therian* contribuye a la estigmatización y discriminación de las personas que se identifican como tales. Al ser asociado con ideologías políticas controvertidas, el fenómeno *therian* se convierte en un blanco fácil para el odio y la intolerancia.
 
-## Nuestra lectura
+Es importante recordar que la diversidad de identidades y formas de expresión es un valor fundamental de una sociedad democrática. La ultraderecha, al atacar el fenómeno *therian*, está atacando la libertad individual y el derecho a ser diferente. Es crucial defender estos valores y proteger a las personas que se identifican como *therians* de la discriminación y el odio.
+
+## Reflexiones finales
 
 No condenamos la autoexpresión, pero la salud animal y mental deben ser la prioridad. Necesitamos un diálogo abierto y regulado sobre la identidad y el bienestar en la era digital.
 
