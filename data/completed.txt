@@ -156,3 +156,4 @@ viral: ¡Peligro Viral! Reto del Paracetamol Manda a un Menor al Hospital: ¿Has
 viral: Fast Food Feud: McDonald's & Burger King's CEO Face-Off Goes Viral!
 fitness: MCC Fitness: Friol se pone en forma con María Carballido
 fitness: Fitness Fraud: Influencer Admits Fake War Injury
+fitness: Apple Fitness+ Embraces Postpartum: New Workouts for New Moms
