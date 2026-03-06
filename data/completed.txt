@@ -178,3 +178,4 @@ funds: ETFs: ¿El 2.0? Mercados Privados y Clases de Acciones Revolucionan la In
 funds: OAKM Earns Morningstar's Top Active ETF Nod for 2026: A 5-Star Rating.
 funds: OAKM Earns Morningstar's Nod as a Leading Active ETF for 2026
 tools: Café Quijano: Regreso a Salamanca con 'Miami 1990'
+tools: China's Chip Tool Gambit: US Senators Demand Intel on State-Backed Tech
