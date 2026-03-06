@@ -1,8 +1,8 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-06T07:36:31.360746+00:00",
-  "total_candidates": 15,
+  "scouted_at": "2026-03-06T07:37:32.745412+00:00",
+  "total_candidates": 21,
   "topics": [
     {
       "rank": 1,
@@ -116,14 +116,39 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwdnlLa0xYZ1J3XzBwUG5hWTJFejVsZDVvSk9qTkxZam55N1pNV21ZcWVLSlQ5cFVJdTc2TE5HTzFPZ21EUjAxRDJpZV90WHYxaDRYb2FHSzFteWJoZ2hiZWNIYVIxdw?oc=5"
     },
     {
+      "title": "1 No-Brainer Growth-Oriented S&P Index Fund to Buy Right Now for Less Than $500",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OVHFidU5PMFNKckNDdXdKYXpwcTJrS0M4cldkcEdab2o3VC05Tk41RUQ3RGNaeDFRVnMxZ0diQkc5QzJMVGZWRTlseTVmM3lXQWplY2FkcWdmRzhIRzM4R0l0V2xEeTRDV3ViSHNvQkFfeVBVdFVVRDVYaGw?oc=5"
+    },
+    {
       "title": "Exchange Traded Funds: One Of The Best Trades Of 2025 Just Got Crushed",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnVEdSdF91Ulk3ZVlodGJGQng2Zlo0bFFxMEM5clB3QTYzejhlZWprallNbUpTMkI2QnBCeFkxbjAySjVNWlJmT0k3dHZIX2piS0Zqc2NIa0Q5eDIyM3dGWEVReW83NlN3Y0VvSWt1UmRsUko0UlBNUHJrS1psVlU?oc=5"
     },
     {
-      "title": "2 ETFs Robinhood Retail Investors Favor Over Palantir, Alphabet, Meta, and Netflix Shares",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOENpTTJyanZFSHc3NW5iSDhvRHdwdGtUSWxCZHhpWVlFM2M5SGZ4ZWh4bVdTejJnT3VOSzlaSEpNd1NQay1NTWRoZG1GMFQwUVhSTTBkcE40dWh5eFdZUHhYVlRxM2ZrM1hXQnRFOXhtY0JoVU5Cd0ZEd2VBYU9LYjlBNA?oc=5"
+      "title": "Vanguard lowers expense ratios across 53 funds, totaling nearly $250 million in fee reductions for 2026, with an average fee cut of 27%.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "SEC guidance expands tax-efficient options for US investors by allowing traditional mutual funds to offer ETF share classes.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Morgan Stanley Investment Management launches Eaton Vance Preferred Securities and Income ETF (EVPF), with a net expense ratio of 0.20%.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Equity ETFs experienced net inflows of $139 billion in February, bringing the YTD flows to $214 billion.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Saba Capital Management launches Saba Capital Investment Trusts UCITS ETF (UKIT) with a total expense ratio of 1.50%.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
