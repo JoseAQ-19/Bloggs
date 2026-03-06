@@ -21,7 +21,7 @@ Oaktree Capital Management, founded in 1995 by Howard Marks and Bruce Karsh, has
 
 The broader alternative ETF universe has experienced remarkable growth, with assets under management expanding from $120 billion in 2020 to an estimated $450 billion by the end of 2025. This surge reflects several structural factors: low interest rate environments pushing investors to seek yield, increased market volatility driving demand for non-correlated assets, and regulatory changes making alternative investments more accessible to retail investors. Within this universe, credit-focused ETFs have been particularly popular, capturing approximately 35% of new inflows in 2025.
 
-**Comparative Fund Performance**  
+**OAKM ETF: Comparative Fund Performance**
 *All data pending verification per Morningstar database as of Q4 2025*
 
 | Fund                | 1-Year Return | 3-Year Annualized | 5-Year Annualized | Volatility (Std Dev) | Sharpe Ratio | Expense Ratio |
@@ -37,10 +37,10 @@ The 2020 market crisis provides a useful historical comparison. During the March
 
 Expense ratios in the active ETF space vary widely, with OAKM's 0.65% falling in the upper quartile for credit-focused funds. The average expense ratio for actively managed bond ETFs is approximately 0.52%, while actively managed equity ETFs average 0.74%. OAKM's fee structure is significantly higher than passive alternatives like VTI (0.03%) but competitive with other specialized active strategies. The justification for these higher fees typically rests on the manager's ability to generate alpha through security selection, market timing, or access to opportunities unavailable to passive investors.
 
-**Key Takeaways**:  
-- OAKM trails both equity indices significantly over all periods but outperforms high-yield bonds  
-- Its 0.65% expense ratio is 22x higher than VTI and 3.25x HYG  
-- Volatility-adjusted returns (Sharpe) show modest advantage over tech-heavy QQQ  
+**OAKM ETF: Key Performance Considerations**
+- OAKM trails both equity indices significantly over all periods but outperforms high-yield bonds
+- Its 0.65% expense ratio is 22x higher than VTI and 3.25x HYG
+- Volatility-adjusted returns (Sharpe) show modest advantage over tech-heavy QQQ
 
 The performance differential between OAKM and equity benchmarks reflects fundamental differences in investment strategy and risk exposure. Equity markets, particularly technology stocks, have benefited from multiple expansion in valuation multiples, with the Nasdaq 100's forward P/E ratio expanding from approximately 25x in early 2020 to over 35x by late 2025. In contrast, OAKM's focus on debt instruments inherently limits upside potential as bond returns are primarily driven by interest income and modest capital appreciation.
 
@@ -58,7 +58,7 @@ David Nadig brings considerable credibility to this analysis. As the Director of
 
 The competitive landscape for alternative credit ETFs has intensified significantly in recent years. OAKM competes with several specialized funds, including the iShares Enhanced Bond Strategy ETF (AORF), which focuses on investment-grade credit with a value-oriented approach, and the PIMCO Enhanced Short Duration Active ETF (ESBD), which targets short-duration credit with a focus on capital preservation. What distinguishes OAKM is its explicit focus on distressed opportunities and infrastructure debt, a combination that creates a relatively unique positioning within the alternative credit universe.
 
-**OAKM's Risks and Downsides**  
+**OAKM ETF: Risks and Potential Downsides**
 This thesis faces significant headwinds. First, OAKM's 0.65% fee structure is punitive for an active fund with no clear alpha generation versus peers. Second, its 32% allocation to AI-related infrastructure debt creates dangerous concentration risk, particularly as interest rate volatility could impair project economics. Third, Morningstar's "top pick" designation often precedes performance decay – 82% of their 2024 selections underperformed benchmarks in 2025.
 
 The fee structure debate in active management remains contentious. A comprehensive 2023 study by SPIVA (S&P Indices Versus Active) found that 85% of large-cap active equity funds underperformed their benchmarks over 15 years. While credit funds have historically shown higher success rates, the hurdle for justifying active fees remains substantial. OAKM's expense ratio places it in the top decile of credit-focused ETFs, requiring consistent outperformance to justify these costs relative to lower-cost alternatives.
@@ -75,7 +75,7 @@ The duration sensitivity of OAKM's infrastructure holdings represents a particul
 
 The distressed debt market, while potentially lucrative during rising rate environments, also faces significant challenges. Higher interest rates increase default probabilities across the corporate spectrum, particularly for companies with high leverage ratios. The default rate for speculative-grade bonds has historically risen in tandem with interest rates, with a lag of approximately 12-18 months. This suggests that the full impact of the current rate environment on credit quality may not yet be fully reflected in market prices.
 
-## OAKM: Final Assessment
+## OAKM ETF: Final Thoughts and Assessment
 OAKM represents a high-conviction investment strategy concentrated in two speculative sectors. The 0.65% expense ratio demands substantial outperformance that may be difficult to achieve given the fund's concentration risk. While Morningstar's endorsement carries weight, the LNG market disruption demonstrates how quickly market conditions can change. Investors should carefully evaluate whether the potential returns justify the fees and sector concentration before committing capital.
 
 The investment case for OAKM ultimately rests on several key assumptions: that AI infrastructure investment will continue to grow at projected rates, that interest rates will eventually decline creating opportunities for distressed debt investors, and that Oaktree's expertise in distressed debt will generate sufficient alpha to justify the fund's expense ratio. Each of these assumptions carries significant uncertainty, particularly in the current volatile market environment.
@@ -96,9 +96,9 @@ Moreover, the fund's reliance on Oaktree's expertise in distressed debt creates 
 
 Finally, the potential for liquidity constraints within the alternative credit market should not be overlooked. During periods of market stress, liquidity can dry up quickly, making it difficult to buy or sell alternative credit assets. This lack of liquidity could force OAKM to sell assets at unfavorable prices, negatively impacting its returns. Investors should be aware of the potential for liquidity constraints and the impact they could have on the fund's performance.
 
-**Sources**:  
-- **Qatar LNG Shutdown Impact**  
-- **AI Disruption of Corporate Moats**  
+**Sources**:
+- **Qatar LNG Shutdown Impact**
+- **AI Disruption of Corporate Moats**
 - **Morningstar Active ETF Picks**
 
 ---
