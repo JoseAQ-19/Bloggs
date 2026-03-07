@@ -197,3 +197,4 @@ tools: Herramientas de perforación: Auge global y megafusiones en 2026
 ia: AI Everywhere: What's Real, What's Hype?
 tools: Still Obsessed: Kitchen Tools I Can't Live Without (After 2 Years!)
 crypto: ¿Bitcoin se dispara? Análisis urgente de las noticias que mueven BTCUSD
+crypto: Crypto's $350 Billion Shadow War: What You Need to Know
