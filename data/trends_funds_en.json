@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-07T07:31:45.420109+00:00",
+  "scouted_at": "2026-03-07T07:32:49.401492+00:00",
   "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "Vanguard Fee War Escalates: VYMI Expense Ratio Plunges 59% - Should You Switch?",
+      "title": "Vanguard Fee War Escalates: Investors Save $250 Million as Average Fund Fees Plummet 27%",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "BlackRock HPS Lending Fund Freezes Withdrawals as Redemptions Surge: Is Your Private Credit Safe?",
+      "title": "BlackRock HPS Lending Fund Freezes Withdrawals: Are Private Credit Funds Facing a Liquidity Crisis?",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Fidelity U.S. Low Volatility Fund Shutting Down: Is Factor Investing Losing Steam?",
+      "title": "Meme Stock Mania Returns? Tuttle Launches MEMY ETF Targeting Weekly Distributions",
       "lang": "en",
       "source": "llm_selected_finance"
     }
@@ -96,11 +96,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUDNDZmhSWXhsb1hJNHplMThzSExJaHhyYTk5N2JiSUU0N1IwRUxXem5Id3I5YldrdzB0NDZteGJuMGllY1p6RUpPRUdEbG1VZi1GUmFwV3dKWEFzSW1kUjBWcHVjcmRBeXp4Y0hqWS0zMzYyNEM2emxSOXdtNFE?oc=5"
     },
     {
-      "title": "Economic Sector Performance Dashboards",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1aZHRnWXJQdlUwdmU4ZExFUzhEVXA5TXBHSFBsNS15TzJCSWtfMGRtU09HNENQMl9mTzlBenQyVmtTOFBKaFJDQ2ZB?oc=5"
-    },
-    {
       "title": "The Best International Equity Funds and ETFs to Buy",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQnowWGxHWGhoTWI5elFHY3BYLVpIa0I4bURuX2U2M19XZEJ1SGgyaFdBZDE5aVdMLUZ3ZEY2U1NzYkFuSVVOdkg1bEFvaWduZjJxNHplN29Sa0lBWm1WQjNiWDdtcTVCZGdLOGNvbURKaEN2aXBPTFZ5M3VjRGRmUW5ROGYwODdkVGZR?oc=5"
@@ -109,6 +104,11 @@
       "title": "Donoghue Forlines Lists Risk-Managed ETF on NYSE ARCA",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ24yRF94X08xMi1tTEM1Z1VzMzF4ckJPWXJCR21UbTlFQkdJckR5U2tMeEVpeExyWnl2NWlhT3A0TU9LNHg3ejFXbG9mOEgtYTV0b1IxUEdXbnBlSzVNbklMcU1UYnlvc3c3bzQ2R0x0eWJpVDlHRXE5TWJDRUdTWk5WQW1DaEVL?oc=5"
+    },
+    {
+      "title": "7 of the Best Charles Schwab Mutual Funds | Investing",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3pBZ082ZnVhZXBHMC1XamMzM0JIZXA2R1E3UVNxX1NPUDE4eTRoLTQxS3hqaEJxeTh1dVpvSE1FSGVDWjRkaEV0RjVka09WMjl2NjZMTk5EZE5OUDB6Q0pRQ29LbVdMRVEzb2ZXOHA3Y1RGRDk1WE9XMEJZLTdRdUxn?oc=5"
     },
     {
       "title": "Crypto Market Update: Wall Street Deepens Crypto Stake with US$25 Billion OKX Deal",
@@ -121,32 +121,32 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tLV93b2FIV0wteHhQcDVTXzJCeE5pbG1GUm51TWtER3p6a2c1TGhoV1NZVUtwVGJyeGdfa01pbEpIa2N4M1lOMEZhMWVva2RaUTJWVEUxdm1fZW5yQVpfM2huOXYyWUVMQUE?oc=5"
     },
     {
-      "title": "7 of the Best Charles Schwab Mutual Funds | Investing",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3pBZ082ZnVhZXBHMC1XamMzM0JIZXA2R1E3UVNxX1NPUDE4eTRoLTQxS3hqaEJxeTh1dVpvSE1FSGVDWjRkaEV0RjVka09WMjl2NjZMTk5EZE5OUDB6Q0pRQ29LbVdMRVEzb2ZXOHA3Y1RGRDk1WE9XMEJZLTdRdUxn?oc=5"
-    },
-    {
       "title": "China ETFs in Spotlight as Beijing Softens GDP Growth Target for 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSF93STBZbV9MeDBSVC0zRVB0eEVoZEd3aFgySFdTUkEtZ1JoMklBaWJCYnVjNjhNUW11WWZNRWZ4STF5SDl4aFctTEgyaFBnSW9FNDFpdXNBTHdKMWlZcUhWUHB4TmxxTzk0VDhKb2RGTmFzUS13bU5aUFVWb29qdHN4NTR5UnhsV3pfampWNU5qdFA0OHNvWHJkSk9ZRHRiTFl0cDZ0YThmcTJfbWY1NGNEX3BsMlFWaFVpTkxmUDNJTWc?oc=5"
     },
     {
-      "title": "Vanguard Slashes Fees Across 84 Funds, Saving Investors $250 Million in 2026; VYMI's expense ratio drops from 0.17% to 0.07%.",
+      "title": "3 Best S&P 500 Index Funds to Buy in 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa25GSl9WdkluUGk0UGhVVm45eUZYb1JQLTV6Z3JndlEwOHh3Y3ppRk5kTWdsZzBGOG1sek5xTUw2cHhyNEMwRmZpYzczcHY1Z1pNSkVHUENCbzExbk1PUEwzbWJEVkIzb2gxSTEwVXdYTUNRVVdnaVE1SVM0bERsaWJkdzdaUl91?oc=5"
+    },
+    {
+      "title": "Vanguard Slashes Fees Across 53 Funds, Saving Investors Nearly $250 Million in 2026; Average fee cut is 27%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Total estimated inflows to long-term mutual funds and ETFs were $47.75 billion for the week ended February 25, 2026.",
+      "title": "BlackRock shares plunge 7.2% after limiting withdrawals from its HPS Corporate Lending Fund, following redemption requests representing 9.3% of holdings.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock shares plunge 7.2% after limiting withdrawals from its HPS Corporate Lending Fund due to a surge in redemption requests where investors sought to redeem 9.3% of holdings.",
+      "title": "Vanguard launches S&P 500 US Shares Index ETF (ASX: V500) and a currency-hedged ETF (ASX: V5AH) for Australian investors.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "SEC extends compliance deadlines for Form N-PORT reporting related to the Names Rule to November 17, 2027, for companies with more than $10 billion in assets.",
+      "title": "Tuttle Capital Meme Stock Income Blast ETF (MEMY) launches, investing at least 80% in meme stocks and targeting weekly distributions.",
       "source": "gemini_grounding_finance",
       "url": ""
     }

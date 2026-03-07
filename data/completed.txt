@@ -191,3 +191,4 @@ fitness: Wabol: El fútbol para todas las edades que alarga tu vida (¡literalme
 fitness: At Her Core: Lancaster Gym Empowers Women of Color in Fitness
 fitness: Fitness World Mourns: Stephanie Buttermore Dies at 36
 funds: Indexa Capital: Bajada de comisiones en 2026 podría sumar 260.000€ a tu inversión.
+funds: Vanguard's 27% Fee Cut Saves Investors $250 Million: Fee War Heats Up
