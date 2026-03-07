@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-06T07:31:36.344620+00:00",
-  "total_candidates": 18,
+  "scouted_at": "2026-03-07T07:25:09.863189+00:00",
+  "total_candidates": 13,
   "topics": [
     {
       "rank": 1,
-      "title": "Clases de acciones y mercados privados: las nuevas fronteras de la industria global de ETFs",
+      "title": "ETFs: ¿Por qué los mercados privados son la nueva obsesión de los inversores y cómo impacta en las comisiones?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Las Acciones Europeas Repuntan tras Agravarse la Caída Bursátil en Asia por la Guerra con Irán",
+      "title": "Santander cae, pero ¿es realmente una oportunidad de compra? Análisis de valoración y riesgo actual.",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Suspenso a los fondos activos de bolsa española: solo el 14 % supera a los pasivos",
+      "title": "Guerra con Irán: ¿Qué bancos y gestoras globales son los más expuestos y cómo proteger tu cartera?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -49,9 +49,9 @@
   },
   "all_headlines": [
     {
-      "title": "Clases de acciones y mercados privados: las nuevas fronteras de la industria global de ETFs",
+      "title": "Los gestores de Bolsa española apuestan por una crisis breve",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTnZsUm8xWllvX3Jfdms2TkNod1pObkMtNEEzNlY4LWlDbDA2WGliRjU1WFl3anN0RkRpSFZoOXFfUldzQVR4ZmdLZjh6THpKSzh1dkYtM1BTald1X0w0eDRzUmFveHE3MUdGZ1F4SENad1B2dWp5MVI1NmtsdTJpOHlnMEdWNGVnQ0F1VkxrdU4zNmNETzZJQmdNcnhNOFltVklkbXhXQTZvWjlBUnBIR3VsaTdqWXFXV0xvcnkyRUttRnFLWUJfd2JlMV83YkhiUEE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlpyTjRYNWtVQ1NDZU1rNFlwdEVGZXJVVnFZSVU0UFVtU0UwSU9pVXJEUTEzX3p5TGZYWXRxdmVMV3NiTjh0aEp1ZG1zZW9Rd2tzdWVac3dJaGcwTWxCbjlpWWI2eFZ4elp3dWduY09uaWxPV1QtcU9CQ2FrS1B6bdIBgAFBVV95cUxQWlpyTjRYNWtVQ1NDZU1rNFlwdEVGZXJVVnFZSVU0UFVtU0UwSU9pVXJEUTEzX3p5TGZYWXRxdmVMV3NiTjh0aEp1ZG1zZW9Rd2tzdWVac3dJaGcwTWxCbjlpWWI2eFZ4elp3dWduY09uaWxPV1QtcU9CQ2FrS1B6bQ?oc=5"
     },
     {
       "title": "Las Acciones Europeas Repuntan tras Agravarse la Caída Bursátil en Asia por la Guerra con Irán",
@@ -59,59 +59,49 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNHZwTWlHeTN6blUwV3gtdUZ0VE9xMWxpX1BqT2gtNDYyS19OV2dhVkhRTkEwTTY5TEVCTF9ZcmRvNzJOSm02V09jMG1tcjkyQi1SZFY3R2FHRGVWN3NfWTA4Y1p3Y19GUjFPQ2NPYzJCQ2hmdjJ3ai1wWmROeV9fZkJCRXpxc0U0OHUxZ2F4QnI5WjZkbk5jclMyTnNEal9Ic0RUaEwtUWgzY1NQSHFSamtxSGpwNkFNaHBLcDJjWUR3SGdwbS01WU9ic1FaRnc?oc=5"
     },
     {
-      "title": "Suspenso a los fondos activos de bolsa española: solo el 14 % supera a los pasivos",
+      "title": "Clases de acciones y mercados privados: las nuevas fronteras de la industria global de ETFs",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONlBXcG5ORHViNXdfekVXZGw1eWc4aDcyVXFpNUphMFhrOXNvaUFfd3UyRi0tNnpkV0QwSVRnNzdTY3pXNmZzaEtzeG1nZmVoQ0VHVFhqSk1lWFRKTHhHLUVCV2xXS3Y4MW5XVnN4ZVNlN0RMVVBQamw0WUt6NF9STmRKejVyVk5pMEJN0gGQAUFVX3lxTE5GQ25xaXNlMFBnNWFCYXdCemNpWlN2ZnREZE1JMFEzN2MxQ1VuZnlUSWRBTUl3S00wSkwzUEdRREtpd2JCZ2h1MHhMZldhZ0RtQzFHYk1PUks5UnpVRFBiWkRhbE5Nc2JJWnp3VEtSQXlGbTRkUEV0Sl9vNlpfTmlreU1BdTJiY0lSVjQ1UC1iSg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTnZsUm8xWllvX3Jfdms2TkNod1pObkMtNEEzNlY4LWlDbDA2WGliRjU1WFl3anN0RkRpSFZoOXFfUldzQVR4ZmdLZjh6THpKSzh1dkYtM1BTald1X0w0eDRzUmFveHE3MUdGZ1F4SENad1B2dWp5MVI1NmtsdTJpOHlnMEdWNGVnQ0F1VkxrdU4zNmNETzZJQmdNcnhNOFltVklkbXhXQTZvWjlBUnBIR3VsaTdqWXFXV0xvcnkyRUttRnFLWUJfd2JlMV83YkhiUEE?oc=5"
     },
     {
-      "title": "Las suscripciones netas de Hamco Global Value Fund en 2025 y el retorno anualizado del 17% impulsan el crec...",
+      "title": "Revolut vs Trade Republic: ¿qué cuenta remunerada elegir en 2026?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGlpMzNnT2RnYjJ6UWVJR29Nb1gyQmdrWnJjaXhLNTBlTGpLbEd4ejcyVGVJNXlDOGFvRVZ1VWU1djEwTEtMaE1XcnpzMzRsdDc3ZTA1c0JFUjFDNFQwNzVyRlVRLWxQaGd5dkF5T0dfLXNoZ18xRy16S2tOVURZMDVqcXprakdKSElDTl9GQThSTmlIN0ZNLWVDQkluY3dxMGfSAZ4BQVVfeXFMTll5VVlQS0ZwenF3Vm1NakRSUEVua3BBdGtaNnJ0RFdhTDVUQ0hTWllqdHVTZEY1anNFMGROdWdoN2xZN1p0TnZxZlVqQ2ZYRzdUSktWM0pqYld1NGVHenpOZjRobU1UbDFlRnJvLWVVcmVZY0M0LVVQdklaRzFDbXhPUDRlTFVhNGdCbzNBOUJjX3k5Y3J6MFpnbnRtS3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFU4YnBLNlBMejZGQVo3Nmc2N1lDZkROclluQVFvX2E5MGtreHI2QnFYWHpsSjM1eHo2Z2dLNjdTSzVhMHZXSnlvUWZuaWVkQlVsT2lYd0UzVGNJT25OODVDRjZfd0l3Rkl3MGR6eDZFUXdnYWY0SEZPMk83VTJBeHpHTng1V0Nuc2d5WWdUMlUxdURpVnBwVG1XVG9xZ3VuMnUzM3k0RDZmTGo1UmxwcUNQYw?oc=5"
     },
     {
-      "title": "Mantenemos nuestro Precio del Crudo a Largo Plazo tras los Ataques de EEUU e Israel en Irán",
+      "title": "Perspectivas de los 5 grandes valores del Ibex 35 en bolsa",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQVlCeV9IamJwaDJ2b0xJMmRTSl9JcjkteExZM0k5OVVQNk41cHVQMmJhLVZsTEhSdExUZXFHSW9HRG5mMVlWUnFRWkY2VVpzTXVMOFdLcXhSSjNsaHJuY0RNZEttNzVSb09wSDNyTkluRUlqb0xSbHZmSmhJeFFMb2FRNWtLbGktdHhFcGgtemlhdUN0SEdEUkV0REY0Q1V3TmFBTmNEMWtsQjUtNFliclFaT0dfODFrbl9LNC10SkNqS0VSM0RCcGY1TQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbFhLeWxKMnd4aUREclRHYzItNHlXeHZKcUR1bWtHZFRVWFY5QjY0NERJWWtvczZnZ3RBZkxaMDFoYkhtdjJWbEVnQ1VtTjF5TGFhVWlBZGpvNGNtb2E5V1FtNkk5T3djVjFXY181X0c3SF9VdEsyOEFUVWdzci1jZGFXbFFaTVR6bno1Yko2Z1ZmclNsczJzMGpsaFpjT2U0ek1HU1dUYjUyUEs0eDJTdW5zd1BQellmcFlyM1FucWRiUlY1cFHSAZ8BQVVfeXFMT0JwRDhOeS1VSkpFa2RkR2dRcFJQYmpNa01saEhFa2hNY0JYYVUyclNWLWRTSXJ5Znc5WkRCbFNhUmhlX0NIN3RMWk9NenBDWFdObzhjT1dETE9Da2ZpeXR6cF91WmR6cFlSSVBDcHZjV3Z2QWlEMVk2cjhsREk0ZnRReEhuVHpWa2U1UlpVTlZWaTZHVlg2MWNxaVRfR0NJ?oc=5"
     },
     {
-      "title": "Mejores plataformas para invertir en fondos de inversión 2026",
+      "title": "Revolut vs N26: ¿qué cuenta elegir? Comparativa 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnNsTkpKYkxxYmVjdEM3ZkpJU214X0FSLUhrOUNHbUg1aWRaaGdUSmlwQmZWdWgxVWVfUVF3WXc3dVotSnB4T3RQVllZclNIMkxZbUVEb21ueDMxbDJsTzZjSDJkNHZRaERMNHlXcWRBWlMwUWg3Z3l2MVlpNFB0UWxBQXp2dGREUnQ4MzRfRWoxazRtdmxvTm1qY3VnVmxDX0R3Z3hjM2hJT0Fy?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNall3aUxzMlZ4eTQwMDdLakNHZTkyQkhpN3czSGE4Um9zZlVUVmhiblp4UjBoaUhQN2xCNXREZUhTU0VwUFRlU0czcjlONGltdURLcnVZLVZFWnpXSXZ0LW5HV0pCSEhMNUY1ZUZqU0oyR0p5QUh6TE1iZlBWRTdtNHFjcGRDWFp4WUhOSHBFbHpxUnNaWUNJV2swLVoteXpFYlE?oc=5"
     },
     {
-      "title": "Diez compañías de Defensa que vuelan en bolsa gracias a la guerra de Ucrania",
+      "title": "URBAS espera alcanzar los 1.500 millones de facturación en 2028 y elevar el EBITDA a casi 250 millones",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nUTRhU3ZQeTZXQmtvUUlfZmZTRjZ4SGYySG11MkJKWnBnTUlWVVhwQTJNWnRLZlZWZ3dfRzVjcmJ6enFYSmRqcl92Tkpzb3NoVGs0eFY0U1R2SjlfcDhzSEdMaEhCenI4ckQybEVpaEdlbGNSaE9GVXEtTUotd0o4aVBDdHBNdXNoT29sR21hMnVSN3diWi1kaU9GTWdFMDZrTGJtc2hnMnR5QUNjUVh3TlpIdGdXMGpoUFJoX21aUdIBngFBVV95cUxPSkkwR2poZWs1OFducU9yaHZOUGlSV0JBQ0hCakVsc3k1cEZZa3VZYjYtcjdHbWJROGJpamNuaGgtZkw4a3J1S1NaeW1EdmtlQUo4bUlZcExxNXNqYVpsR0lOdExwdXp3U2x3VXdxSnJPejFzdl95eXBNUXlsNXRBNnVKZWR4YTBjWjlrVFpYVU5GUExpNTluTDVVNnhCQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUVJ6aHJFenZOSTc5eXZyZ2tDNUJnd0pocDJfa1ViQ3I4enczczVsLWpYVUdvUVVTODVESFl0N1BtVzc3V3JKZlRVUmJfNVdjVFFpYUZFV2V3M1R6cExidkVNWU9yN21jdWJjdlVRWDV3RlBjbDN5SldfYWVhZmYyNDhIZC1nWmZVMDZxcnVGeFE5TG9GMUJJM3dNYnZaaVptWkR4OVRzT0N6aVdyb19zVnRMQUZ5WXdabXhPbm1iMms3dUZKb2hoLWlIZkN4RlhU0gGqAUFVX3lxTE5YblNHTjBZTndVUVdpaG5ubU1JVXZkdDlIZTFDVTRWY2VSaXRhYVNkVG5jUHVRcmZGMjd5MjA2UUk2REp1WGJEbldybkVnSEl3OG9iZWhmNzEzUGpqS0ljV3pwazJRVkp3a1Jib3VXdWVSc2JCci13TTRCcG9ZY25yem9vR2JBY1Eyb0x0TUtpRWc5U0M0U0dncmtpWFlSTmxJZ1RZTWk0RVB3?oc=5"
     },
     {
-      "title": "Mejores plataformas para invertir en fondos indexados (desde 1 euro)",
+      "title": "Santander, gran oportunidad de compra aprovechando las caídas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVppVWpGajBHemh3QlZKM0dDaGRsQmNZbXF5M2pBcDhSUnNLRl9WQXF4cVotUmdoR1BaandrWkVWd20zUGNkQVNueFdjMGZuYUgtS0RCNnhwWG02c09ROTdmSDI1TFpod0QxYkZtQ0dCQ2QzcXIzNXBHMnNiTzE2Z3lKMGVTQzNFQW0xZDlkOUZiM0VlaHp3TWxBMU9WdW9i?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOak5lUjd4UExwczBPb3diOW53eUtrT3Vodk54XzhScF9qNVE4bmQzRk13UVotWjZiU1pwSlZ1dlJYTFBvajFBdTh6WTZpX3ZidUVRREZBeXJGZ0lzSVNNRVVaMWNmeXNMdFZPQTlrU25RcnhxZ3JfczFSSE9fUENkZW9QcWp4eGplSW04b1hEdzQ4T1RydGxhYXVndkh3dHBnQTVrR3FpTTB2RU9xVXhHSTdDUG5abFFyamNGTVdrWTZvUFJwT2hnYi130gGjAUFVX3lxTE5LZEx5NGZpQWRrUkdfalJDSTJCRkhSVjZaX1lhaVEwbktJTWsxWHVaVmJRTTlfcHJxVllJb2dqQTRpY3V2SHBOSm1UeWRXRFg0Z08wTWtCMndBVy0zUVM4dVFjaGQ2MGNMRUZQX0EzUEkteGY0ZFhWQVJxLUVaYzhkVkYwUGZCWF9QeG9Uenh1SndQbUJQOWVyakVLNVdPdzdGZkE?oc=5"
     },
     {
-      "title": "Planes de pensiones indexados 2026: ¿cuál es el mejor?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZndVSWJhSlpWT2Zsc2x5aUFWUlpVZnBpVjk3a2Jqa0pIUlBvQTNHTnB2MmVYczhGTEhKR1Q0WTZJRFBtc2dibkszVUF6cXpjQXZRLTRSbGFNSEhBcHNBeVdnSFhCaEcwbFloN1pGcVFCLW9LZzRWOWNBRmp0V3F1Z3VsTjBma196VGZXd3FrQ3lVMG9KNkJWQmhQUm1Qb0lSdFVxVA?oc=5"
+      "title": "Dónde Invertir mientras la Guerra con Irán afecta a las Bolsas",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274290/dónde-invertir-mientras-la-guerra-con-irán-afecta-a-las-bolsas.aspx"
     },
     {
-      "title": "Mejor bróker para invertir en Japón, como Warren Buffett",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdXFpUGRUY3RzZ0RnSFdRSlpMNDlIemdaX1EtX09tNG5GZnhsSi1KS1ExbHpZZEdtcldnN3dKYzM4VWxVRmlRbGNCRHV3R1pWOFJhZWliLUtqbVF5Ym9fY1pCWUkyeUJSc0dNbVZHZG1LNDlsbzBjMUNtQ0lHZmpvYkpHc0tRV0tkZ29vNXZia0RuNnc1SnMzTUltX3BRM3dtS3lXRUxhQmYyYURCbHdsejdSMENLcE04VDhra05iNWJXV2hkd3lCQjZ30gGgAUFVX3lxTE9sRWRNTWt2cGh0QlBYVkMzS2JyX014OUpnXzNjUkNVb3RmRVd0S1hKQW5hY2dTZlRSSklFTC1rMExvNXJYS1FfaFplaVFKdVYwakZOMUwxR0Y4Y2l2c3lxTVhuNDMwOVdMQkFHYWNOSE5aRm1zNkZERDhQaUM1RmxUX2o3UFpMNXRIQTZTZFcwbk1zLWMwMjFQbllwa3NreEw?oc=5"
+      "title": "¿Qué Implica la Guerra con Irán para la Inflación Europea y los Recortes de Tipos del BCE?",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274272/¿qué-implica-la-guerra-con-irán-para-la-inflación-europea-y-los-recortes-de-tipos-del-bce.aspx"
     },
     {
-      "title": "Hasta 760 euros: mejores promociones de bancos por domiciliar la nómina (marzo 2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWk51QU5RallaWDBRTkRxVElBVnpKTkJLQW9MazlJODM3aVpLc0dZTWxmNzdTSXZXNGFxUlU1SWNHOUg5WXRJSjlXWjFoeS1hTExnSWdVNzFjam9BQ1hZTWpvWlJTcWtDeGx2UTl4ODIwU19Pc0Z2NFpNVEloZVNuOTFnMGJna0pMQ1RlYXlUcXE1b3BwSWhEUGdvV1ltV0l0d0RjNEp0b3ZEQk56VnZkLUt5V2VJZ0Z3dHNYU1VtVFRCTGYyM0VydnM5dlZrMV9pdjZFUXFhWQ?oc=5"
-    },
-    {
-      "title": "Los 5 fondos de inversión españoles más expuestos a Naturgy tras la salida de GIP (BlackRock)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSGxwUU9OS1RaMjQzOWFBT3laVnE0YTktU1M3VllFQVBZS3gzeG1PMlVEbUthY0pyRlhpMzU0TEl0N0xxZVQxTGRNYkhxMTJVWHNBX0dxUXBLVWw0cXpBSE9Md3oxNkloczYwSGRvT18yM0ZuTUpxS2F0b0d2WkIxRXJOTTNrS19NZTM5RG1ZSDA3SUNkN3pNQXNQSjA2SXdWMTJMZnQtOXhPR1I4aVMzM1pHTXdRYjZsT3AxOV9jakpqbnVlek1HMEJoa0FUaHV0cmRkaWxONjg3MUttQ1J3?oc=5"
-    },
-    {
-      "title": "Los 10 mejores seguros de hogar en 2026: guía de comparación y precios",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZExGSHhxUTlKX0lZOE0wWGJqTURMUDNRLTNHSjI5MTdGdnV1MXAwWkNIb2F5Sm96NmdYWmlGekREVHVDSTFNM0ZNR3NaS1k0bzUxaTlwR0NvVjB2OE1BRERyd0tLWVdpS2JZbkVfQTNVQ05RLUVia3pTS2hSdXIzX2s5QXB1U3R6SVByeVE4OWdtd0E4d1lYc3NuQUtqUVNOaWd1SXBQUC12bF9UOXBQQjk1N0YydU1ZY2p2OTRuendoZ1k?oc=5"
+      "title": "Rebajamos la Ventaja Competitiva de Seis Empresas USA por la IA",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274266/rebajamos-la-ventaja-competitiva-de-seis-empresas-usa-por-la-ia.aspx"
     },
     {
       "title": "¿Cuál es el Impacto de la Guerra con Irán en los Bancos y Gestoras Globales?",
@@ -122,21 +112,6 @@
       "title": "Las Bolsas Europeas Estables mientras Asia se Recupera",
       "source": "rss_morningstar_es",
       "url": "https://www.morningstar.es/es/news/274232/las-bolsas-europeas-estables-mientras-asia-se-recupera.aspx"
-    },
-    {
-      "title": "Los ETFs Más Rentables de Febrero 2026",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274220/los-etfs-más-rentables-de-febrero-2026.aspx"
-    },
-    {
-      "title": "¿Podría la Reserva Federal Subir los Tipos de Interés en 2026?",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274209/¿podría-la-reserva-federal-subir-los-tipos-de-interés-en-2026.aspx"
-    },
-    {
-      "title": "¿Y si la Guerra con Irán se Prolonga?",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274192/¿y-si-la-guerra-con-irán-se-prolonga.aspx"
     }
   ]
 }
