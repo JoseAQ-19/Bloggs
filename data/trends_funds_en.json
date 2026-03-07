@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-07T07:53:01.224311+00:00",
+  "scouted_at": "2026-03-07T07:54:02.314509+00:00",
   "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "Vanguard's Fee Slash: Investors Save $250 Million in 2026 – Is Your Portfolio Benefiting?",
+      "title": "Morningstar recognizes OAKM as a top active ETF for 2026",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Fidelity Fund Merger: Low Volatility Shareholders Face ETF Vote – What's the Impact?",
+      "title": "The 10 Best-Performing UK Dividend Stocks",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Utilities vs. S&P 500: Vanguard ETF Yields Double, But Is It Worth the Risk?",
+      "title": "7,383 Shares in Morningstar, Inc. $MORN Bought by Intech Investment Management LLC",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -86,9 +86,9 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2c0R1REbC1LOXVIMDFrUlVzMllzWEcyVURBbHpWc1Q2YVd2WHdSUUs2Qi1lbzNMNmRpWnY3UFhBXzQ5TXdLZ2oxZWY4SEFkOERTYzVBa1Q5dEFsUUtqUDlwaW8ydjFMODFzalFUeU5xTHVpM09fMTNERTUzajNMWkVoY1RJMEwwYWpOWkFJakxmVkl3YWZDSHJYbw?oc=5"
     },
     {
-      "title": "Morningstar (NASDAQ:MORN) CFO Purchases $186,590.00 in Stock",
+      "title": "International Women’s Day: The Top Female Fund Managers in Europe",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3M1c3A0QjRHcnpKSm1YeGo5Xy1ESU1YYVktVTNXQXBuYklZc2lPUTlZTWRHYURwWTU3TlVmaEJSSTY2TGwxVWFpU1FfbzRQR3pwNVFubnBHYUhJbGEtdG84M2pTcmV0NmVIYlZleWpUWWV4OXFWTUxHVjVTLXRXeGN4THFPMm92a3pBTnZsXy1Ka0tmN1dJdWlrVC1PRGRZdGZsNEVwMFhfMExD?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQldCVW9GUGY3bVZibnZtYnJmTXg0TndyNXhlQ3hrSFpScTVNYTM5UGZQak1HbWF2MWJITUJaQ25aZmxYdzA5aXNiSVBrWG5BamtFTm1fcHZpdEJjX3Q0dVFKeHM5QnRxeEFmcVRGeFNBa3l0MHNwZ2trR2Q3Rlh6TTdsWEJONWRJYnprb0VjVmF2TDU1SkxZSG9fd0tOdTdl?oc=5"
     },
     {
       "title": "8 Best Index Funds to Buy in March 2026",
@@ -106,14 +106,14 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ24yRF94X08xMi1tTEM1Z1VzMzF4ckJPWXJCR21UbTlFQkdJckR5U2tMeEVpeExyWnl2NWlhT3A0TU9LNHg3ejFXbG9mOEgtYTV0b1IxUEdXbnBlSzVNbklMcU1UYnlvc3c3bzQ2R0x0eWJpVDlHRXE5TWJDRUdTWk5WQW1DaEVL?oc=5"
     },
     {
-      "title": "Crypto Market Update: Wall Street Deepens Crypto Stake with US$25 Billion OKX Deal",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5"
-    },
-    {
       "title": "7 of the Best Charles Schwab Mutual Funds | Investing",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3pBZ082ZnVhZXBHMC1XamMzM0JIZXA2R1E3UVNxX1NPUDE4eTRoLTQxS3hqaEJxeTh1dVpvSE1FSGVDWjRkaEV0RjVka09WMjl2NjZMTk5EZE5OUDB6Q0pRQ29LbVdMRVEzb2ZXOHA3Y1RGRDk1WE9XMEJZLTdRdUxn?oc=5"
+    },
+    {
+      "title": "Crypto Market Update: Wall Street Deepens Crypto Stake with US$25 Billion OKX Deal",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5"
     },
     {
       "title": "3 Best S&P 500 Index Funds to Buy in 2026",
@@ -131,22 +131,22 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OVHFidU5PMFNKckNDdXdKYXpwcTJrS0M4cldkcEdab2o3VC05Tk41RUQ3RGNaeDFRVnMxZ0diQkc5QzJMVGZWRTlseTVmM3lXQWplY2FkcWdmRzhIRzM4R0l0V2xEeTRDV3ViSHNvQkFfeVBVdFVVRDVYaGw?oc=5"
     },
     {
-      "title": "Vanguard Slashes Fees Across 53 Funds, saving investors nearly $250 Million in 2026, with an average fee cut of 27%.",
+      "title": "Vanguard Slashes Fees Across 53 Funds, totaling $250 Million in Savings for 2026; average fee cut of 27%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Digital asset investment products recorded US$1.0B in inflows last week, ending a five-week outflow streak that totalled US$4.0B, with Bitcoin dominating inflows at US$881M.",
+      "title": "SEC Proposes Amendments to Form N-PORT for ETF Share Classes, requiring disclosure of net assets and shareholder flows.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard Utilities ETF (VPU) offers a 2.7% yield with a 22.9 P/E ratio, compared to Vanguard S&P 500 ETF's 1.1% yield and 27.7 P/E ratio.",
+      "title": "MFS Launches MFS Blended Research® Emerging Markets Equity ETF (NYSE: BREE), targeting a 2% tracking error over the MSCI Emerging Markets Index.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock's (BLK) earnings per share (EPS) are projected to be $12.42, reflecting a 9.91% increase from the same quarter last year, and revenue is expected to be $6.64 billion, showing a 25.76% escalation.",
+      "title": "Vanguard S&P 500 US Shares Index ETF (ASX: V500) and Vanguard S&P 500 US Shares Index (Hedged) ETF (ASX: V5AH) launch in Australia with management fees of 0.07% and 0.09% respectively.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
