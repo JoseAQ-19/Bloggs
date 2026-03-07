@@ -67,7 +67,7 @@ El sistema está podrido, y esto es solo la punta del iceberg. La impunidad es l
 
 Para complementar el análisis del caso LimpiasGate, es crucial examinar cómo este tipo de escándalos afecta la confianza de los ciudadanos en las instituciones. La percepción de corrupción y trato de favor erosiona la legitimidad del sistema judicial y administrativo, generando desafección y desconfianza.
 
-### El Barómetro del CIS y la Percepción de la Corrupción
+### El Barómetro del CIS y la Percepción de la Corrupción en España
 
 El Centro de Investigaciones Sociológicas (CIS) realiza periódicamente encuestas sobre la percepción de la corrupción en España. Los resultados suelen mostrar que la corrupción es una de las principales preocupaciones de los ciudadanos, junto con el desempleo y la crisis económica. Los escándalos como el LimpiasGate contribuyen a mantener alta esta preocupación y a alimentar la sensación de que la corrupción es un problema endémico en la sociedad española.
 
@@ -89,7 +89,7 @@ Para fortalecer la confianza de los ciudadanos en las instituciones, es necesari
 *   **Promover la educación en valores y ética** desde la infancia para fomentar una cultura de integridad y responsabilidad.
 *   **Fortalecer la participación ciudadana** en la gestión de los asuntos públicos a través de mecanismos de consulta y participación.
 
-## La Necesidad de una Justicia Transparente y Eficaz
+## La Necesidad de una Justicia Transparente y Eficaz en España
 
 El caso LimpiasGate subraya la necesidad de una justicia transparente y eficaz que garantice la igualdad de todos los ciudadanos ante la ley. La percepción de que algunos individuos reciben un trato preferencial socava la confianza en el sistema judicial y alimenta la sensación de impunidad. Para revertir esta situación, es fundamental implementar medidas que fortalezcan la independencia del poder judicial, mejoren la eficiencia de los procesos judiciales y garanticen el acceso a la justicia para todos los ciudadanos.
 
@@ -97,7 +97,7 @@ El caso LimpiasGate subraya la necesidad de una justicia transparente y eficaz q
 
 La independencia del poder judicial es un pilar fundamental de cualquier sistema democrático. Para garantizar esta independencia, es necesario proteger a los jueces y fiscales de injerencias políticas y económicas, y garantizar que puedan ejercer sus funciones con plena libertad y autonomía. Esto implica reformar el sistema de nombramientos de los jueces y fiscales para evitar la politización de la justicia, y garantizar que cuenten con los recursos necesarios para llevar a cabo su trabajo de manera eficiente.
 
-### Mejorar la Eficiencia de los Procesos Judiciales
+### Mejorar la Eficiencia de los Procesos Judiciales en España
 
 La lentitud de los procesos judiciales es uno de los principales problemas del sistema judicial español. Esta lentitud genera frustración y desconfianza en los ciudadanos, y puede impedir que se haga justicia de manera oportuna. Para mejorar la eficiencia de los procesos judiciales, es necesario invertir en la modernización de la administración de justicia, simplificar los procedimientos judiciales y garantizar que los jueces y fiscales cuenten con la formación y los recursos necesarios para llevar a cabo su trabajo de manera eficiente.
 
