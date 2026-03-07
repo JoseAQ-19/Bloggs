@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-06T07:58:06.204729+00:00",
-  "total_candidates": 21,
+  "scouted_at": "2026-03-07T07:31:45.420109+00:00",
+  "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar recognizes OAKM as a top active ETF for 2026",
+      "title": "Vanguard Fee War Escalates: VYMI Expense Ratio Plunges 59% - Should You Switch?",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "KnockoutStocks vs Morningstar: Which Stock Research Tool Wins in 2026?",
+      "title": "BlackRock HPS Lending Fund Freezes Withdrawals as Redemptions Surge: Is Your Private Credit Safe?",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "International Women’s Day: The Top Female Fund Managers in the UK",
+      "title": "Fidelity U.S. Low Volatility Fund Shutting Down: Is Factor Investing Losing Steam?",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -56,9 +56,29 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZjhxQy1vcWthNThkcUUzaU1YUkJaMnpaYWtqdFREOFNDaUJ4dEk5aXRGVGNEdDZLVjdiekN4OExESXVnTXRjZEVBWWh2b01FbXhqeHBrckxHZjNyOUxDUDFaV21adzk1UDJTay00V0VBd3VwQ1lUdkNIbEV3RGpNemZYWEJpcVNxeHpuN0lFMXl0ZVVBcGc?oc=5"
     },
     {
+      "title": "The 10 Best-Performing UK Dividend Stocks",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYU5jTzFBRDJyYWF4MFVpenFVTEw2RkZmMENMTW83eW1pUmF2M3NEOG9Od19TOVRNR0FUczgwLWRNbGZ4ODgtYWV6V1k4S29fMlc2bUhIQThWNGZXT0pDelBneDNvakVGYnZ0bzcxaDI1RWpmcl8wWWdLemxkTWJldFBGWjdTQVB5?oc=5"
+    },
+    {
+      "title": "7,383 Shares in Morningstar, Inc. $MORN Bought by Intech Investment Management LLC",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZFdyd0dvanlMRW4zN0p3aWloZWEzUmNMVjdOaWR5UHM2Q3Znc1M4bXFMckJCcVowN0RqXzRGemZ3WVFfU2tqd21FeGtOOHpRM0xUMnd1bXNxR2J3RnA2X0dMOTliazRVRUpWaTRTR05jeFpsRlV6NzlXRW9CVHRNeDRDY3k4T3YxOFdfc3FKVE15QkZFREpOMjRFODRWZGJCYmluNTJjMWZneDUzVXBENDI2Z0RSUHNjLVpRTHJNRHJCUTB3LW5iUEk3cjUxdGlNcEpuT0xR?oc=5"
+    },
+    {
       "title": "KnockoutStocks vs Morningstar: Which Stock Research Tool Wins in 2026?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE95ZEdKNlpDNkxlb2lMUnVXTHdvNEh5ODZWanZNcGl3b0RkeWxBSVNQc2hrZXBWQUpyal9ra1VmWGFvQ1NwMFdJ?oc=5"
+    },
+    {
+      "title": "Morningstar puts $165bn Cap Group fund under review",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa2dkQVVHdXcwTGppb0ZhcF91V2FQeUdEZnNqT1A1dFVDVDl2Y1lIU0RuV19Qbmw3d0ExcTd2RWFnZmI5MEJSa0VMcV9iV0JGRW0zb1NFSGJGblhPVzJZYUxNT25vY24yNFJOYzdFbGVHNnAwZEdzNE51WkZMXy1XY1FscXN3QkRETENrVzlJZmtqQWgyb29PLXB2SQ?oc=5"
+    },
+    {
+      "title": "Morningstar: $5 Million Strategic Collaboration With University Of Illinois Gies College Of Business To Expand Real-World Investing Education",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYV9McmFrWUdCcUlZLXZlb2JaWnR2WThPeHp4VGJTZGE2anRyQWh6Tk8wSmdOZk5DQllYUXZfZTRLVmhhaTA3WlV6bEpKYWNxTU1PRnpMWnNpZ2FtT3RZa1RmU2Rielp3VXVCYUxGaWpKd05ueXNPT2VUV3FILTRoTG9ac2NMS2twMlFuRG9IaEFXZUhLRmdobkQ4TjRtemhwdnpuWl9LRDlrMHQ4a2NSaS1SdFk2U3hWSUQtUUhpVHB2WWhlZTlfU0tQM2FXczM0cGJBN3pXbndtNnFHYV96WEVPNVdoVEpOdkIxelY5QmpsVjFkcUHSAfYBQVVfeXFMTmFfTHJha1lHQnFJWS12ZW9iWlp0dlk4T3h6eFRiU2RhNmp0ckFoek5PMEpnTmZOQ0JZWFF2X2U0S1ZoYWkwN1pVemxKSmFjcU1NT0Z6TFpzaWdhbU90WWtUZlNkYnpad1V1QmFMRmlqSndObnlzT09lVFdxSC00aExvWnNjTEtrcDJRbkRvSGhBV2VIS0ZnaG5EOE40bXpocHZ6blpfS0Q5azB0OGtjUmktUnRZNlN4VklELVFIaVRwdlloZWU5X1NLUDNhV3MzNHBiQTd6V253bTZxR2FfelhFTzVXaFRKTnZCMXpWOUJqbFYxZHFB?oc=5"
     },
     {
       "title": "International Women’s Day: The Top Female Fund Managers in the UK",
@@ -66,87 +86,67 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2c0R1REbC1LOXVIMDFrUlVzMllzWEcyVURBbHpWc1Q2YVd2WHdSUUs2Qi1lbzNMNmRpWnY3UFhBXzQ5TXdLZ2oxZWY4SEFkOERTYzVBa1Q5dEFsUUtqUDlwaW8ydjFMODFzalFUeU5xTHVpM09fMTNERTUzajNMWkVoY1RJMEwwYWpOWkFJakxmVkl3YWZDSHJYbw?oc=5"
     },
     {
-      "title": "International Women’s Day: The Top Female Fund Managers in Europe",
+      "title": "Morningstar (NASDAQ:MORN) CFO Purchases $186,590.00 in Stock",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQldCVW9GUGY3bVZibnZtYnJmTXg0TndyNXhlQ3hrSFpScTVNYTM5UGZQak1HbWF2MWJITUJaQ25aZmxYdzA5aXNiSVBrWG5BamtFTm1fcHZpdEJjX3Q0dVFKeHM5QnRxeEFmcVRGeFNBa3l0MHNwZ2trR2Q3Rlh6TTdsWEJONWRJYnprb0VjVmF2TDU1SkxZSG9fd0tOdTdl?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3M1c3A0QjRHcnpKSm1YeGo5Xy1ESU1YYVktVTNXQXBuYklZc2lPUTlZTWRHYURwWTU3TlVmaEJSSTY2TGwxVWFpU1FfbzRQR3pwNVFubnBHYUhJbGEtdG84M2pTcmV0NmVIYlZleWpUWWV4OXFWTUxHVjVTLXRXeGN4THFPMm92a3pBTnZsXy1Ka0tmN1dJdWlrVC1PRGRZdGZsNEVwMFhfMExD?oc=5"
     },
     {
-      "title": "Morningstar, Inc. $MORN Shares Sold by Segall Bryant & Hamill LLC",
+      "title": "8 Best Index Funds to Buy in March 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMnhaRWxBV1dKcDJzZUo1eFFRcTA3dGtVQzdMNGZWZ2hPZnZkT0Z3ZnRENDB2NER0RXFRTk9RSkFRQU1ZUlJ4LUhPY2dqeG5EWkRETnRJa1BnZFFNNVFRYzM4V3NoM29SRDBzQXJRcGE4djk2UEs5MTJVRElUaVVXN3ZpeDhPMFdNQlJkbmdUVEUyWF81TUg5cF9PR2x6emUtYzhEWFVPQ1VoeVlub1QxMFVJMGxSQ0gxd1pfOWRn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUDNDZmhSWXhsb1hJNHplMThzSExJaHhyYTk5N2JiSUU0N1IwRUxXem5Id3I5YldrdzB0NDZteGJuMGllY1p6RUpPRUdEbG1VZi1GUmFwV3dKWEFzSW1kUjBWcHVjcmRBeXp4Y0hqWS0zMzYyNEM2emxSOXdtNFE?oc=5"
     },
     {
-      "title": "Citigroup Inc. Buys 6,972 Shares of Morningstar, Inc. $MORN",
+      "title": "Economic Sector Performance Dashboards",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc0RGMTBKNG9nOFphb3F6QXdiQ1RrOF9hUktHdGlFdWlVMzA1enpIc0NNbEc0TkRkRmZaT0Ntb2lORTk5cWl3bTQxaV9iLUQ0cmpfQjdkaHVHaGtuMzl4SHQtcEtNZGN6U0cwU0RTdE13cVNpanZtNlZxN1pmV2FfRHhJZW1jcl9YRmM2ODNBWW9jSXhpbFQzYWpic21ReENJV1VGMTZHbEpDZkotMVdfenUwWGd6QQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1aZHRnWXJQdlUwdmU4ZExFUzhEVXA5TXBHSFBsNS15TzJCSWtfMGRtU09HNENQMl9mTzlBenQyVmtTOFBKaFJDQ2ZB?oc=5"
     },
     {
-      "title": "Our Long-Term Oil Price Is Unchanged Following US-Israeli Strikes in Iran",
+      "title": "The Best International Equity Funds and ETFs to Buy",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2RYWmRjcHU2azNFcldpVTEwclF3dkpMRXVpN09yLVNmSVNYNFdyUmxkSDY4dWZnMk9JSkl3SFdwblJ5XzBlM1V6RUhZS3Q5VmUxZG0welV3WkxDTkFqUEpqbkNkbWVDUkI3bnNyem9OTUFYSWRlN2dtRFBsdTVpcXhqX2drRnNRSWM1X0ZBbU9LRTk1TmVBSXdnNkZsQkZzNGtOTU82YXRGYTR3TnFwVGJqcEg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQnowWGxHWGhoTWI5elFHY3BYLVpIa0I4bURuX2U2M19XZEJ1SGgyaFdBZDE5aVdMLUZ3ZEY2U1NzYkFuSVVOdkg1bEFvaWduZjJxNHplN29Sa0lBWm1WQjNiWDdtcTVCZGdLOGNvbURKaEN2aXBPTFZ5M3VjRGRmUW5ROGYwODdkVGZR?oc=5"
     },
     {
-      "title": "KnockoutStocks vs Morningstar: The 2026 Stock Research Platform Showdown",
+      "title": "Donoghue Forlines Lists Risk-Managed ETF on NYSE ARCA",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUzNmQ1E3QjlGWE56VlhvNF9uOC10UVZBMUx1WC1qVXpkYVNXNmJJVElMYk52U2c2OTJ5Vkp0c0JPdXlSMFRHUmJUV2JTdEMwdnlVbUd5X2x1V1FmMWZ6eEZjcVFuVkkyNk5meldJOWU5WFNVZEI0ckVNYzRMblhUVEQ2dlNPN0Y3THhJT0pkNU5ydS1JZzhmbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ24yRF94X08xMi1tTEM1Z1VzMzF4ckJPWXJCR21UbTlFQkdJckR5U2tMeEVpeExyWnl2NWlhT3A0TU9LNHg3ejFXbG9mOEgtYTV0b1IxUEdXbnBlSzVNbklMcU1UYnlvc3c3bzQ2R0x0eWJpVDlHRXE5TWJDRUdTWk5WQW1DaEVL?oc=5"
     },
     {
-      "title": "The 10 Best Performing ETFs Over the Last 10 Years",
+      "title": "Crypto Market Update: Wall Street Deepens Crypto Stake with US$25 Billion OKX Deal",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTG9GS0JsSEdJSUt3MVhSakhsNXVrbHRKX3g0eDJPZDhlNG9SVXBMWnQzVmNNVXpkT1VSNFh0VE9ZazhUWkRXaks2VnF3V25CUXc5TE5jTkxpWDkxM2RpSEpGN1p4elFmUDRqZnROdVJTTVBGWkNERlJvRnNVaWJQeXdHdDNfc3lZcnl0LUNMWEN2eHltZmtBVjk4U0g2a1VNUmY2V1pMOTk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5"
     },
     {
-      "title": "7 Best ETFs to Buy in March 2026",
+      "title": "The 5 Best Stocks To Buy And Watch Right Now",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9adXBwd0NWR3ZDaGlXNkFnSU9TaWU2UDRZNHVxX0RMa251V3hEY2F2SzFscWUxa3BpQTdLeDRYUm5xd1dUWFdvd3NGVFBHd3RraXZPLVlHdnZwd3JjLVBjSHBRVnRMZnVKN2FWM1Qycw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tLV93b2FIV0wteHhQcDVTXzJCeE5pbG1GUm51TWtER3p6a2c1TGhoV1NZVUtwVGJyeGdfa01pbEpIa2N4M1lOMEZhMWVva2RaUTJWVEUxdm1fZW5yQVpfM2huOXYyWUVMQUE?oc=5"
     },
     {
-      "title": "9 Best ETFs to Buy for a Recession | Investing",
+      "title": "7 of the Best Charles Schwab Mutual Funds | Investing",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DMXk1ekZBbVFqT1UzaFFXYXBqa3lfWk5GTTB5U1ZsQUFBVWlEM3BBSll2N2w4a2x3VGhzTW90RzloOEljam1rT2JUX0xaQkI3RWkzQ0FnSmx2Njg3clRZbnBBZ3ZkNnRPX3hTV183MXYzODAwN1BzOHF1b1VtYVE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3pBZ082ZnVhZXBHMC1XamMzM0JIZXA2R1E3UVNxX1NPUDE4eTRoLTQxS3hqaEJxeTh1dVpvSE1FSGVDWjRkaEV0RjVka09WMjl2NjZMTk5EZE5OUDB6Q0pRQ29LbVdMRVEzb2ZXOHA3Y1RGRDk1WE9XMEJZLTdRdUxn?oc=5"
     },
     {
-      "title": "The Best Defensive ETFs to Protect Your Portfolio",
+      "title": "China ETFs in Spotlight as Beijing Softens GDP Growth Target for 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYmFMMlEzWHIyWFNnUjZrMjloM0laVkRsRzltU2VqX05HNFg5eTViOUk3MzI3UkotaHpGZlhldDF6RkhQNUk3Wk45Rmt2d0ZxY0Y1TjBoX3NrNjkwZGxVQzYwMld3R3RZcjF4YUVteDV6NTBCdkp5U0YzdmFRdHNub2t1bU40STJkZHE4X0RWTi0xSTR1Vmc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSF93STBZbV9MeDBSVC0zRVB0eEVoZEd3aFgySFdTUkEtZ1JoMklBaWJCYnVjNjhNUW11WWZNRWZ4STF5SDl4aFctTEgyaFBnSW9FNDFpdXNBTHdKMWlZcUhWUHB4TmxxTzk0VDhKb2RGTmFzUS13bU5aUFVWb29qdHN4NTR5UnhsV3pfampWNU5qdFA0OHNvWHJkSk9ZRHRiTFl0cDZ0YThmcTJfbWY1NGNEX3BsMlFWaFVpTkxmUDNJTWc?oc=5"
     },
     {
-      "title": "Best Robo-Advisors: Top Picks for March 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwdnlLa0xYZ1J3XzBwUG5hWTJFejVsZDVvSk9qTkxZam55N1pNV21ZcWVLSlQ5cFVJdTc2TE5HTzFPZ21EUjAxRDJpZV90WHYxaDRYb2FHSzFteWJoZ2hiZWNIYVIxdw?oc=5"
-    },
-    {
-      "title": "1 No-Brainer Growth-Oriented S&P Index Fund to Buy Right Now for Less Than $500",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OVHFidU5PMFNKckNDdXdKYXpwcTJrS0M4cldkcEdab2o3VC05Tk41RUQ3RGNaeDFRVnMxZ0diQkc5QzJMVGZWRTlseTVmM3lXQWplY2FkcWdmRzhIRzM4R0l0V2xEeTRDV3ViSHNvQkFfeVBVdFVVRDVYaGw?oc=5"
-    },
-    {
-      "title": "Exchange Traded Funds: One Of The Best Trades Of 2025 Just Got Crushed",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnVEdSdF91Ulk3ZVlodGJGQng2Zlo0bFFxMEM5clB3QTYzejhlZWprallNbUpTMkI2QnBCeFkxbjAySjVNWlJmT0k3dHZIX2piS0Zqc2NIa0Q5eDIyM3dGWEVReW83NlN3Y0VvSWt1UmRsUko0UlBNUHJrS1psVlU?oc=5"
-    },
-    {
-      "title": "Vanguard Slashes Fees Across 53 Funds, Delivering $250 Million in Savings for Investors in 2026; Average fee cut is 27%.",
+      "title": "Vanguard Slashes Fees Across 84 Funds, Saving Investors $250 Million in 2026; VYMI's expense ratio drops from 0.17% to 0.07%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "SEC Greenlights ETF Share Classes for Mutual Funds, Potentially Reducing Capital Gains Taxes on $175 Billion Distributed in 2024.",
+      "title": "Total estimated inflows to long-term mutual funds and ETFs were $47.75 billion for the week ended February 25, 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Morgan Stanley Launches Eaton Vance Preferred Securities and Income ETF (EVPF) with a Net Expense Ratio of 0.20%.",
+      "title": "BlackRock shares plunge 7.2% after limiting withdrawals from its HPS Corporate Lending Fund due to a surge in redemption requests where investors sought to redeem 9.3% of holdings.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Equity ETFs Realize Net Inflows of $139 Billion in February, Representing 78% (~$11 Trillion) of Total ETF Market.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Wall Street Analysts Predict 21% Upside for S\\&P 500; Recommend Vanguard Information Technology ETF (VGT), Communications Services ETF (VOX), and Consumer Discretionary ETF (VCR) to Outperform.",
+      "title": "SEC extends compliance deadlines for Form N-PORT reporting related to the Names Rule to November 17, 2027, for companies with more than $10 billion in assets.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
