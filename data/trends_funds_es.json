@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-07T07:25:09.863189+00:00",
-  "total_candidates": 13,
+  "scouted_at": "2026-03-07T07:26:13.316837+00:00",
+  "total_candidates": 19,
   "topics": [
     {
       "rank": 1,
-      "title": "ETFs: ¿Por qué los mercados privados son la nueva obsesión de los inversores y cómo impacta en las comisiones?",
+      "title": "Indexa Capital baja comisiones en 2026: ¿Ahorrarás 260.000 euros?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Santander cae, pero ¿es realmente una oportunidad de compra? Análisis de valoración y riesgo actual.",
+      "title": "¿Rendimiento asombroso? El fondo Value de Evli sube un 41,1% en 2025.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Guerra con Irán: ¿Qué bancos y gestoras globales son los más expuestos y cómo proteger tu cartera?",
+      "title": "Guerra comercial de Trump: ¿Se desplomará tu ETF iShares MSCI Spain?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -112,6 +112,36 @@
       "title": "Las Bolsas Europeas Estables mientras Asia se Recupera",
       "source": "rss_morningstar_es",
       "url": "https://www.morningstar.es/es/news/274232/las-bolsas-europeas-estables-mientras-asia-se-recupera.aspx"
+    },
+    {
+      "title": "Fondos de renta fija captan 1.143 millones de euros en febrero, impulsando suscripciones netas en España a 5.152 millones en 2026.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Indexa Capital bajará comisiones de gestión hasta 0,005 puntos porcentuales en carteras de fondos y 0,007 en planes de pensiones en 2026, ahorrando a clientes 260.000 euros.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "DWS reduce las comisiones fijas anuales (TER) de siete ETFs Xtrackers a partir del 1 de marzo de 2026.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "El ETF iShares MSCI Spain se desploma ante amenaza comercial de Trump.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "El fondo de Value Investing de la gestora nórdica Evli alcanzó un retorno del 41,1% en 2025.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Cartera de fondos Indexa Capital alcanza rentabilidad media anual de 7,5%.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
