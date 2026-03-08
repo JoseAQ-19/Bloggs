@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-08T07:25:54.750213+00:00",
+  "scouted_at": "2026-03-08T07:27:02.012282+00:00",
   "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Azvalor Internacional es el rey de enero? Rentabilidad del 11,42% supera al índice en 9,5 puntos.",
+      "title": "Dónde Invertir mientras la Guerra con Irán afecta a las Bolsas",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Vanguard European Stock Index Fund: ¿el secreto de su rentabilidad del 16% anual está en sus bajas comisiones?",
+      "title": "Clases de acciones y mercados privados: las nuevas fronteras de la industria global de ETFs",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "iShares MSCI Spain en caída libre: ¿es hora de vender o comprar en pánico ante las amenazas de Trump?",
+      "title": "Los gestores de Bolsa española apuestan por una crisis breve",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -129,22 +129,22 @@
       "url": "https://www.morningstar.es/es/news/274232/las-bolsas-europeas-estables-mientras-asia-se-recupera.aspx"
     },
     {
-      "title": "Indexa Capital rebaja las comisiones de sus carteras de fondos hasta el 0,005% en 2026, ahorrando a los inversores 260.000€ al año.",
+      "title": "Indexa Capital baja comisiones en 2026 por décimo año consecutivo, ahorrando a clientes 260.000€ anuales.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "El fondo Vanguard European Stock Index Fund alcanza una rentabilidad a 1 año del 16,03% y a 3 años del 13,38% con gastos corrientes del 0,12%.",
+      "title": "El fondo soberano \"España Crece\", dotado con 10.500 millones de euros, busca movilizar 120.000 millones en inversiones.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BBVA AM lanza el fondo JPMorgan AM European Equity for BBVA con gestión delegada en JP Morgan Asset Management.",
+      "title": "Cartera de fondos Indexa Capital tendrá costes totales medios de 0,530% a partir del 1 de enero de 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "El ETF iShares MSCI Spain se desploma ante la amenaza comercial de Trump.",
+      "title": "Morningstar rebaja la calificación de ASML a 2 estrellas tras subir un 66,22% en el último año, cotizando con una prima del 20% sobre su valor razonable estimado de 1.000€.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
