@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-07T07:26:13.316837+00:00",
-  "total_candidates": 19,
+  "scouted_at": "2026-03-08T07:25:54.750213+00:00",
+  "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "Indexa Capital baja comisiones en 2026: ¿Ahorrarás 260.000 euros?",
+      "title": "¿Azvalor Internacional es el rey de enero? Rentabilidad del 11,42% supera al índice en 9,5 puntos.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "¿Rendimiento asombroso? El fondo Value de Evli sube un 41,1% en 2025.",
+      "title": "Vanguard European Stock Index Fund: ¿el secreto de su rentabilidad del 16% anual está en sus bajas comisiones?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Guerra comercial de Trump: ¿Se desplomará tu ETF iShares MSCI Spain?",
+      "title": "iShares MSCI Spain en caída libre: ¿es hora de vender o comprar en pánico ante las amenazas de Trump?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,14 +49,9 @@
   },
   "all_headlines": [
     {
-      "title": "Los gestores de Bolsa española apuestan por una crisis breve",
+      "title": "Dónde Invertir mientras la Guerra con Irán afecta a las Bolsas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlpyTjRYNWtVQ1NDZU1rNFlwdEVGZXJVVnFZSVU0UFVtU0UwSU9pVXJEUTEzX3p5TGZYWXRxdmVMV3NiTjh0aEp1ZG1zZW9Rd2tzdWVac3dJaGcwTWxCbjlpWWI2eFZ4elp3dWduY09uaWxPV1QtcU9CQ2FrS1B6bdIBgAFBVV95cUxQWlpyTjRYNWtVQ1NDZU1rNFlwdEVGZXJVVnFZSVU0UFVtU0UwSU9pVXJEUTEzX3p5TGZYWXRxdmVMV3NiTjh0aEp1ZG1zZW9Rd2tzdWVac3dJaGcwTWxCbjlpWWI2eFZ4elp3dWduY09uaWxPV1QtcU9CQ2FrS1B6bQ?oc=5"
-    },
-    {
-      "title": "Las Acciones Europeas Repuntan tras Agravarse la Caída Bursátil en Asia por la Guerra con Irán",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNHZwTWlHeTN6blUwV3gtdUZ0VE9xMWxpX1BqT2gtNDYyS19OV2dhVkhRTkEwTTY5TEVCTF9ZcmRvNzJOSm02V09jMG1tcjkyQi1SZFY3R2FHRGVWN3NfWTA4Y1p3Y19GUjFPQ2NPYzJCQ2hmdjJ3ai1wWmROeV9fZkJCRXpxc0U0OHUxZ2F4QnI5WjZkbk5jclMyTnNEal9Ic0RUaEwtUWgzY1NQSHFSamtxSGpwNkFNaHBLcDJjWUR3SGdwbS01WU9ic1FaRnc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZjlpRjJCdGFlNThnLVhnOEhSTV9tX3dZV2xON3dTa3RNdUJsNERYTTBaUV9zZWNPUE1mdldZVElkN3pvN1NVcUxtZEF3bHBkQjZESTN2cGU3bFAwbkF1WDFfenNubFRnR3ppd09Wa2FBbzdVMWwtM1l5ekVONHFUeV9JR2lRS0NFcFMxM3RxR0U1MkV3aURjQVV0cUZLMkMzQmpZ?oc=5"
     },
     {
       "title": "Clases de acciones y mercados privados: las nuevas fronteras de la industria global de ETFs",
@@ -64,14 +59,9 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTnZsUm8xWllvX3Jfdms2TkNod1pObkMtNEEzNlY4LWlDbDA2WGliRjU1WFl3anN0RkRpSFZoOXFfUldzQVR4ZmdLZjh6THpKSzh1dkYtM1BTald1X0w0eDRzUmFveHE3MUdGZ1F4SENad1B2dWp5MVI1NmtsdTJpOHlnMEdWNGVnQ0F1VkxrdU4zNmNETzZJQmdNcnhNOFltVklkbXhXQTZvWjlBUnBIR3VsaTdqWXFXV0xvcnkyRUttRnFLWUJfd2JlMV83YkhiUEE?oc=5"
     },
     {
-      "title": "Revolut vs Trade Republic: ¿qué cuenta remunerada elegir en 2026?",
+      "title": "Los gestores de Bolsa española apuestan por una crisis breve",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFU4YnBLNlBMejZGQVo3Nmc2N1lDZkROclluQVFvX2E5MGtreHI2QnFYWHpsSjM1eHo2Z2dLNjdTSzVhMHZXSnlvUWZuaWVkQlVsT2lYd0UzVGNJT25OODVDRjZfd0l3Rkl3MGR6eDZFUXdnYWY0SEZPMk83VTJBeHpHTng1V0Nuc2d5WWdUMlUxdURpVnBwVG1XVG9xZ3VuMnUzM3k0RDZmTGo1UmxwcUNQYw?oc=5"
-    },
-    {
-      "title": "Perspectivas de los 5 grandes valores del Ibex 35 en bolsa",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbFhLeWxKMnd4aUREclRHYzItNHlXeHZKcUR1bWtHZFRVWFY5QjY0NERJWWtvczZnZ3RBZkxaMDFoYkhtdjJWbEVnQ1VtTjF5TGFhVWlBZGpvNGNtb2E5V1FtNkk5T3djVjFXY181X0c3SF9VdEsyOEFUVWdzci1jZGFXbFFaTVR6bno1Yko2Z1ZmclNsczJzMGpsaFpjT2U0ek1HU1dUYjUyUEs0eDJTdW5zd1BQellmcFlyM1FucWRiUlY1cFHSAZ8BQVVfeXFMT0JwRDhOeS1VSkpFa2RkR2dRcFJQYmpNa01saEhFa2hNY0JYYVUyclNWLWRTSXJ5Znc5WkRCbFNhUmhlX0NIN3RMWk9NenBDWFdObzhjT1dETE9Da2ZpeXR6cF91WmR6cFlSSVBDcHZjV3Z2QWlEMVk2cjhsREk0ZnRReEhuVHpWa2U1UlpVTlZWaTZHVlg2MWNxaVRfR0NJ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlpyTjRYNWtVQ1NDZU1rNFlwdEVGZXJVVnFZSVU0UFVtU0UwSU9pVXJEUTEzX3p5TGZYWXRxdmVMV3NiTjh0aEp1ZG1zZW9Rd2tzdWVac3dJaGcwTWxCbjlpWWI2eFZ4elp3dWduY09uaWxPV1QtcU9CQ2FrS1B6bdIBgAFBVV95cUxQWlpyTjRYNWtVQ1NDZU1rNFlwdEVGZXJVVnFZSVU0UFVtU0UwSU9pVXJEUTEzX3p5TGZYWXRxdmVMV3NiTjh0aEp1ZG1zZW9Rd2tzdWVac3dJaGcwTWxCbjlpWWI2eFZ4elp3dWduY09uaWxPV1QtcU9CQ2FrS1B6bQ?oc=5"
     },
     {
       "title": "Revolut vs N26: ¿qué cuenta elegir? Comparativa 2026",
@@ -79,14 +69,39 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNall3aUxzMlZ4eTQwMDdLakNHZTkyQkhpN3czSGE4Um9zZlVUVmhiblp4UjBoaUhQN2xCNXREZUhTU0VwUFRlU0czcjlONGltdURLcnVZLVZFWnpXSXZ0LW5HV0pCSEhMNUY1ZUZqU0oyR0p5QUh6TE1iZlBWRTdtNHFjcGRDWFp4WUhOSHBFbHpxUnNaWUNJV2swLVoteXpFYlE?oc=5"
     },
     {
-      "title": "URBAS espera alcanzar los 1.500 millones de facturación en 2028 y elevar el EBITDA a casi 250 millones",
+      "title": "Los mejores dividendos del Ibex 35 en este momento",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUVJ6aHJFenZOSTc5eXZyZ2tDNUJnd0pocDJfa1ViQ3I4enczczVsLWpYVUdvUVVTODVESFl0N1BtVzc3V3JKZlRVUmJfNVdjVFFpYUZFV2V3M1R6cExidkVNWU9yN21jdWJjdlVRWDV3RlBjbDN5SldfYWVhZmYyNDhIZC1nWmZVMDZxcnVGeFE5TG9GMUJJM3dNYnZaaVptWkR4OVRzT0N6aVdyb19zVnRMQUZ5WXdabXhPbm1iMms3dUZKb2hoLWlIZkN4RlhU0gGqAUFVX3lxTE5YblNHTjBZTndVUVdpaG5ubU1JVXZkdDlIZTFDVTRWY2VSaXRhYVNkVG5jUHVRcmZGMjd5MjA2UUk2REp1WGJEbldybkVnSEl3OG9iZWhmNzEzUGpqS0ljV3pwazJRVkp3a1Jib3VXdWVSc2JCci13TTRCcG9ZY25yem9vR2JBY1Eyb0x0TUtpRWc5U0M0U0dncmtpWFlSTmxJZ1RZTWk0RVB3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaEw0TnNvZEYxTlZrOURuV0VjeVlPSTZNeUEwU3BLT3d6RU05eUpsY0pDQTZSd3BwbmtQQnJpcGlNdThQai01bTQwZzhXRHcyalMyNFRyWXBYenZaLVRSQ3JleW1QRHRHejh2UWY0UUYxYVRqS2RMWHRwTzlmbDM3MXV0ODVwc19haUlpSVB4MkwwMmItbkJrWkVLTXRNT3VtMllwU05zNV9UQWIzaF9yS3Z5d0lXMTdjekVJMdIBpAFBVV95cUxNM0Y1aHd1aEdmSG5WV2N6Ni1ncFpWNm0zTjdtQVd2cjVtSE1rdmROT1BXRmlLREEtcngwRk1ZRDc0S25yZXFzaFlXZ1lOZ0V1OFdoTnFqYng4Z19Wb1JOMlJhN3d5eWxHWHRIV21nWm9UZF9YUU05czlack84Nzc5dWhqTzV1NXFBbVBhSzh4bWRZa3hQeFFOeXRxb0dySVFpRmhJNw?oc=5"
     },
     {
-      "title": "Santander, gran oportunidad de compra aprovechando las caídas",
+      "title": "Revolut vs Trade Republic: ¿qué cuenta remunerada elegir en 2026?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOak5lUjd4UExwczBPb3diOW53eUtrT3Vodk54XzhScF9qNVE4bmQzRk13UVotWjZiU1pwSlZ1dlJYTFBvajFBdTh6WTZpX3ZidUVRREZBeXJGZ0lzSVNNRVVaMWNmeXNMdFZPQTlrU25RcnhxZ3JfczFSSE9fUENkZW9QcWp4eGplSW04b1hEdzQ4T1RydGxhYXVndkh3dHBnQTVrR3FpTTB2RU9xVXhHSTdDUG5abFFyamNGTVdrWTZvUFJwT2hnYi130gGjAUFVX3lxTE5LZEx5NGZpQWRrUkdfalJDSTJCRkhSVjZaX1lhaVEwbktJTWsxWHVaVmJRTTlfcHJxVllJb2dqQTRpY3V2SHBOSm1UeWRXRFg0Z08wTWtCMndBVy0zUVM4dVFjaGQ2MGNMRUZQX0EzUEkteGY0ZFhWQVJxLUVaYzhkVkYwUGZCWF9QeG9Uenh1SndQbUJQOWVyakVLNVdPdzdGZkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFU4YnBLNlBMejZGQVo3Nmc2N1lDZkROclluQVFvX2E5MGtreHI2QnFYWHpsSjM1eHo2Z2dLNjdTSzVhMHZXSnlvUWZuaWVkQlVsT2lYd0UzVGNJT25OODVDRjZfd0l3Rkl3MGR6eDZFUXdnYWY0SEZPMk83VTJBeHpHTng1V0Nuc2d5WWdUMlUxdURpVnBwVG1XVG9xZ3VuMnUzM3k0RDZmTGo1UmxwcUNQYw?oc=5"
+    },
+    {
+      "title": "Diez compañías de Defensa que vuelan en bolsa gracias a la guerra de Ucrania",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nUTRhU3ZQeTZXQmtvUUlfZmZTRjZ4SGYySG11MkJKWnBnTUlWVVhwQTJNWnRLZlZWZ3dfRzVjcmJ6enFYSmRqcl92Tkpzb3NoVGs0eFY0U1R2SjlfcDhzSEdMaEhCenI4ckQybEVpaEdlbGNSaE9GVXEtTUotd0o4aVBDdHBNdXNoT29sR21hMnVSN3diWi1kaU9GTWdFMDZrTGJtc2hnMnR5QUNjUVh3TlpIdGdXMGpoUFJoX21aUdIBngFBVV95cUxPSkkwR2poZWs1OFducU9yaHZOUGlSV0JBQ0hCakVsc3k1cEZZa3VZYjYtcjdHbWJROGJpamNuaGgtZkw4a3J1S1NaeW1EdmtlQUo4bUlZcExxNXNqYVpsR0lOdExwdXp3U2x3VXdxSnJPejFzdl95eXBNUXlsNXRBNnVKZWR4YTBjWjlrVFpYVU5GUExpNTluTDVVNnhCQQ?oc=5"
+    },
+    {
+      "title": "Los 7 valores del Ibex 35 más baratos por múltiplos para entrar en las \"Rebajas de enero\"",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNGExQjNHYUF1U1VQcUVSRFBaTGlkR1g2Z2JFV1RsLVgyakhZeGJsOHJ2ZDFvcHJtMVlZelA2ZGYyRlRPd3loeFluZGk1V2xNcDdmRnVseUdHNlUtMXRlV2R6Sld4aksxbW90ZjdoU1YtdjBqZzBscGo1OTFBX042NTZVeE5VUnI3OW1oeGt2SHlMdnhTZWxrT1RFbnhyTjhfU0dIQ1d5ODFUSHJ6TFZ5bVRvb3ZoS2hNN0JuVXBnM0RrTjhRZHdyZzVXeTEyYjZJYnhrMWhQZGhsRjhKWGZn0gGjAUFVX3lxTE1WQUhWXzJxY2ZVSDJkcGVhSF9HS1VuOUxfenh2UHdfRVY5WVdjVXhhTVZJMmNWc3lSd3dKYzZ1X2pHN084UnFCUWVYWXYtSmFOcmQtQ1dKM21xNjFheUxwbGxaeUxDdWM4MnJrWWxOQTdDXzJxTEFpbk1nZkxKTWdYUENpOFJwTzR4YlN4U2FWaUo4dm1NVnBrd1I2MDdVTVRpaTA?oc=5"
+    },
+    {
+      "title": "Cuenta Online Sabadell remunerada: opiniones y análisis (2026)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWRTbFc5RGZyanF6b0Q4OWxNM0RiMlN1UDR2R1h1VmFyRlRmOFBDdHNFNURtOG1TUm80LTdvd3BNTDUzMFZkcFJjLTE3dlZUYmlIbXlTZENWYnUxdnhwZFV2b0daUnZpMF9VU1gxVGxyaFNVMmxTWVpSX1UwVExnMUU3RUtwUnlrN2ZjTk9temx2aHlodUs3Zl9fOFl0OTA1WkNyZW5vR0w0Zw?oc=5"
+    },
+    {
+      "title": "En directo, bolsa e Ibex 35 | El Ibex 35 pierde un 7% en la semana y se sitúa en negativo en el año, pero salva los 17.000",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLURTc2VOT3dCVXRoTWNXRnFDYlpZbjhDT1pEX0wyTkN1VDdRWVU3RzNwRkZaRDN2cVM1WXFMcHJmTFF3OUUwTFFlRUVHMmpNN1MxQUxsazE3MkJtNkdwd0N0bTRsb1VjbkxJMXJoOEZySklwU3JwbGVXdXJYNy13dlpqYXRPN0xNal9yZNIBgwFBVV95cUxQSWFwOXhwLVgzOGhHajc3aWNKNXhYT0tUUUVBSkl4REczWWFtSk85R2RSeklTMFVYOTRUMlVEeEdlQm9NRmR0aGVrUXgxdXRUVDcyaUhjWVVQSU9YRmVwbEpkZ19BWm5RYS1mOVVBQmo1dHYxay1EeENmS2sxNXlKMkUyWQ?oc=5"
+    },
+    {
+      "title": "Finanzas Personales: Tú Guía Definitiva para Alcanzar la Estabilidad y el Éxito Financiera",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RcEUzNk1oNTZJSU5OZW8xUFNHb2JSS0x0M3BSemxuVmZoYm1PbDcxNklNbXpTZ3FrMnZhbE5RZUtOelZMRHJkeVJZRDZOWnBiMUt0RDdVY3NBclFUSFhzcURicjN6LXgtM19DU255c3lwS3J3ZTlSMg?oc=5"
     },
     {
       "title": "Dónde Invertir mientras la Guerra con Irán afecta a las Bolsas",
@@ -114,32 +129,22 @@
       "url": "https://www.morningstar.es/es/news/274232/las-bolsas-europeas-estables-mientras-asia-se-recupera.aspx"
     },
     {
-      "title": "Fondos de renta fija captan 1.143 millones de euros en febrero, impulsando suscripciones netas en España a 5.152 millones en 2026.",
+      "title": "Indexa Capital rebaja las comisiones de sus carteras de fondos hasta el 0,005% en 2026, ahorrando a los inversores 260.000€ al año.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Indexa Capital bajará comisiones de gestión hasta 0,005 puntos porcentuales en carteras de fondos y 0,007 en planes de pensiones en 2026, ahorrando a clientes 260.000 euros.",
+      "title": "El fondo Vanguard European Stock Index Fund alcanza una rentabilidad a 1 año del 16,03% y a 3 años del 13,38% con gastos corrientes del 0,12%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "DWS reduce las comisiones fijas anuales (TER) de siete ETFs Xtrackers a partir del 1 de marzo de 2026.",
+      "title": "BBVA AM lanza el fondo JPMorgan AM European Equity for BBVA con gestión delegada en JP Morgan Asset Management.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "El ETF iShares MSCI Spain se desploma ante amenaza comercial de Trump.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "El fondo de Value Investing de la gestora nórdica Evli alcanzó un retorno del 41,1% en 2025.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Cartera de fondos Indexa Capital alcanza rentabilidad media anual de 7,5%.",
+      "title": "El ETF iShares MSCI Spain se desploma ante la amenaza comercial de Trump.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
