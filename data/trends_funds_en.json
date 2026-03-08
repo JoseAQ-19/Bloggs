@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-08T07:53:37.239708+00:00",
+  "scouted_at": "2026-03-08T07:54:42.261701+00:00",
   "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "Vanguard Slashes Fees on 53 Funds: Will You Save $250 Million in 2026?",
+      "title": "KnockoutStocks vs Morningstar: Which Stock Research Tool Wins in 2026?",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "BlackRock's HPS Lending Fund Limits Withdrawals After 9.3% Redemption Rush: Should Investors Worry?",
+      "title": "Morningstar: $5 Million Strategic Collaboration With University Of Illinois Gies College Of Business To Expand Real-World Investing Education",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Energy Stocks Crush Tech: Morningstar Data Shows 30% Performance Gap YTD",
+      "title": "7,383 Shares in Morningstar, Inc. $MORN Bought by Intech Investment Management LLC",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -56,24 +56,24 @@
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE95ZEdKNlpDNkxlb2lMUnVXTHdvNEh5ODZWanZNcGl3b0RkeWxBSVNQc2hrZXBWQUpyal9ra1VmWGFvQ1NwMFdJ?oc=5"
     },
     {
-      "title": "7,383 Shares in Morningstar, Inc. $MORN Bought by Intech Investment Management LLC",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZFdyd0dvanlMRW4zN0p3aWloZWEzUmNMVjdOaWR5UHM2Q3Znc1M4bXFMckJCcVowN0RqXzRGemZ3WVFfU2tqd21FeGtOOHpRM0xUMnd1bXNxR2J3RnA2X0dMOTliazRVRUpWaTRTR05jeFpsRlV6NzlXRW9CVHRNeDRDY3k4T3YxOFdfc3FKVE15QkZFREpOMjRFODRWZGJCYmluNTJjMWZneDUzVXBENDI2Z0RSUHNjLVpRTHJNRHJCUTB3LW5iUEk3cjUxdGlNcEpuT0xR?oc=5"
-    },
-    {
-      "title": "International Women’s Day: The Top Female Fund Managers in the UK",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2c0R1REbC1LOXVIMDFrUlVzMllzWEcyVURBbHpWc1Q2YVd2WHdSUUs2Qi1lbzNMNmRpWnY3UFhBXzQ5TXdLZ2oxZWY4SEFkOERTYzVBa1Q5dEFsUUtqUDlwaW8ydjFMODFzalFUeU5xTHVpM09fMTNERTUzajNMWkVoY1RJMEwwYWpOWkFJakxmVkl3YWZDSHJYbw?oc=5"
-    },
-    {
       "title": "Morningstar: $5 Million Strategic Collaboration With University Of Illinois Gies College Of Business To Expand Real-World Investing Education",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYV9McmFrWUdCcUlZLXZlb2JaWnR2WThPeHp4VGJTZGE2anRyQWh6Tk8wSmdOZk5DQllYUXZfZTRLVmhhaTA3WlV6bEpKYWNxTU1PRnpMWnNpZ2FtT3RZa1RmU2Rielp3VXVCYUxGaWpKd05ueXNPT2VUV3FILTRoTG9ac2NMS2twMlFuRG9IaEFXZUhLRmdobkQ4TjRtemhwdnpuWl9LRDlrMHQ4a2NSaS1SdFk2U3hWSUQtUUhpVHB2WWhlZTlfU0tQM2FXczM0cGJBN3pXbndtNnFHYV96WEVPNVdoVEpOdkIxelY5QmpsVjFkcUHSAfYBQVVfeXFMTmFfTHJha1lHQnFJWS12ZW9iWlp0dlk4T3h6eFRiU2RhNmp0ckFoek5PMEpnTmZOQ0JZWFF2X2U0S1ZoYWkwN1pVemxKSmFjcU1NT0Z6TFpzaWdhbU90WWtUZlNkYnpad1V1QmFMRmlqSndObnlzT09lVFdxSC00aExvWnNjTEtrcDJRbkRvSGhBV2VIS0ZnaG5EOE40bXpocHZ6blpfS0Q5azB0OGtjUmktUnRZNlN4VklELVFIaVRwdlloZWU5X1NLUDNhV3MzNHBiQTd6V253bTZxR2FfelhFTzVXaFRKTnZCMXpWOUJqbFYxZHFB?oc=5"
     },
     {
-      "title": "International Women’s Day: The Top Female Fund Managers in Europe",
+      "title": "7,383 Shares in Morningstar, Inc. $MORN Bought by Intech Investment Management LLC",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQldCVW9GUGY3bVZibnZtYnJmTXg0TndyNXhlQ3hrSFpScTVNYTM5UGZQak1HbWF2MWJITUJaQ25aZmxYdzA5aXNiSVBrWG5BamtFTm1fcHZpdEJjX3Q0dVFKeHM5QnRxeEFmcVRGeFNBa3l0MHNwZ2trR2Q3Rlh6TTdsWEJONWRJYnprb0VjVmF2TDU1SkxZSG9fd0tOdTdl?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZFdyd0dvanlMRW4zN0p3aWloZWEzUmNMVjdOaWR5UHM2Q3Znc1M4bXFMckJCcVowN0RqXzRGemZ3WVFfU2tqd21FeGtOOHpRM0xUMnd1bXNxR2J3RnA2X0dMOTliazRVRUpWaTRTR05jeFpsRlV6NzlXRW9CVHRNeDRDY3k4T3YxOFdfc3FKVE15QkZFREpOMjRFODRWZGJCYmluNTJjMWZneDUzVXBENDI2Z0RSUHNjLVpRTHJNRHJCUTB3LW5iUEk3cjUxdGlNcEpuT0xR?oc=5"
+    },
+    {
+      "title": "Egan-Jones Releases March 2026 CLO Market Summary",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcjNzaDl1U1hnYXpLUm0yclFnaHNhNk1WNk9tSllOYWtpSWFrZDVxT1FObG41RFE2a3hlM2ltVGNvMDFCdTBGZFR5NVRfNnZVclRQSDRsTGRzMWcwMUgwYjh6LVFsNVk5SG1zMTd5QkRwQlZxeUREaFdfWEtZSW1ISkR4OUpMbEpqV0Y4di1XZDhmbGg1M05SLTZCNE1ZU2xtTDBMLWhIVXJsZU9UUkd3?oc=5"
+    },
+    {
+      "title": "Airwallex Expands High-Yield Treasury Offering to U.S. Businesses; Surpasses US$1 Billion in Global Assets Under Administration",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOYWp4RkFfMW5Md0QwLVRnU3lUT0M1Yi1lRGpSRG9HQ0hDdG8yN0xxZ2xDYUdiSkk3bkU5MmV4Y05DN3ZmbFFLN0w2ZkYxTXlJLTQweWYycVpsVnFHODVjOTU1NlZTSzJweHZmVHViWldWZnA5T01oQUJ1ZmdKLS1uVk9ublJZTkktUFc5OUJGcDZ6UUdVejhyWUM2NnFBN0JvazZGYmVNYnE2Ykk4UVc2bUk4R2xEWXJUMUNFdUkxaTZ2ZlB5dVQxYnBZSFUzNjhHcHBTX3RwekZVY1VOVWl3aXRQQ1BfQVlkY3ZmUjRmRDdkUmtrVHIzenV1VGNjNURrenVtaVotY1l3ZjhzRThYNmhTbw?oc=5"
     },
     {
       "title": "Morningstar (MORN) Partners with University of Illinois for Stra",
@@ -86,9 +86,9 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMnhaRWxBV1dKcDJzZUo1eFFRcTA3dGtVQzdMNGZWZ2hPZnZkT0Z3ZnRENDB2NER0RXFRTk9RSkFRQU1ZUlJ4LUhPY2dqeG5EWkRETnRJa1BnZFFNNVFRYzM4V3NoM29SRDBzQXJRcGE4djk2UEs5MTJVRElUaVVXN3ZpeDhPMFdNQlJkbmdUVEUyWF81TUg5cF9PR2x6emUtYzhEWFVPQ1VoeVlub1QxMFVJMGxSQ0gxd1pfOWRn?oc=5"
     },
     {
-      "title": "KnockoutStocks vs Morningstar: The 2026 Stock Research Platform Showdown",
+      "title": "International Women’s Day: The Top Female Fund Managers in the UK",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUzNmQ1E3QjlGWE56VlhvNF9uOC10UVZBMUx1WC1qVXpkYVNXNmJJVElMYk52U2c2OTJ5Vkp0c0JPdXlSMFRHUmJUV2JTdEMwdnlVbUd5X2x1V1FmMWZ6eEZjcVFuVkkyNk5meldJOWU5WFNVZEI0ckVNYzRMblhUVEQ2dlNPN0Y3THhJT0pkNU5ydS1JZzhmbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2c0R1REbC1LOXVIMDFrUlVzMllzWEcyVURBbHpWc1Q2YVd2WHdSUUs2Qi1lbzNMNmRpWnY3UFhBXzQ5TXdLZ2oxZWY4SEFkOERTYzVBa1Q5dEFsUUtqUDlwaW8ydjFMODFzalFUeU5xTHVpM09fMTNERTUzajNMWkVoY1RJMEwwYWpOWkFJakxmVkl3YWZDSHJYbw?oc=5"
     },
     {
       "title": "The Best-Performing ETFs for UK Investors",
@@ -104,6 +104,11 @@
       "title": "8 Top-Performing Fidelity Funds for Retirement | Investing",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNDFVeUlrUmpacXhiRFZPTXFER2c4NnVZNk1PS2pTTHNvUVZiaF9QZTNkWmFJZHZHaWFibHl0QUw1UGI2MWdGTXZpaWladHA3UWF3OXREcm9RQkFmWkpMSDFtbTVUbjNFNGJ5WnU1WDJ1UjRMQUk2d212VElIQnlLYWtkY3N1VDZmdnpfZThLQktmREU?oc=5"
+    },
+    {
+      "title": "Sector & Industry Performance",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWEtZUzJ1Y0JsejVfb1o5VkF5Z3BFdWVwYzdCcEJ6dWJ3N19uOFNoY2VaYnMtUVpLeTdSUE83a3pkTWtOQmpTUm01aEJteWVhNU5n?oc=5"
     },
     {
       "title": "The Best Performing Bond ETFs over the Last 10 Years",
@@ -126,27 +131,22 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZm8tQTJlTGVBU1pjMVhZODk4WEhjNWV3aXU3U2JjbUN0N19Dam5teUFOaVhZWFo3bThxWmMwZS0yamt4S2NMYWdxeXFzeE8tT1E3VDg5MVNRdGFScHhITTctOGdJZlJlUFFBRHp0Z1pqNkNDWGtOY01OeGx5T0tGQWgyQjNLNDRMY2NmT2pn?oc=5"
     },
     {
-      "title": "iShares' Core ETF Has Been Beating the S&P 500 for 3 Years And Nobody's Talking About It",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOFhKcUNoT1VSY25FUjZTYW5aMTVBRGVGTU5yR29RVnJUa0tmekxHUTB4Ny1pb1NUTi1CSDlrRTQwcEVZc2d0QS1TbzR0MHRPbmR1TFFaa2VMdUJUZXREcWFxVm5aTjNOeFVYVG1QeUdUOWZ5U1lBVWd1TTBHNmZ4UFlablFNRzVORTRseG96djhSS2NzQ0ZZcDBqbjJ5Zk1mQ3lkcGFsMVpaaWd3ZXpPeWJzblU1R3hMam92XzBqbTE5blMweGpsTQ?oc=5"
-    },
-    {
-      "title": "Vanguard S&P 500 ETF (VOO) was down 0.08% in pre-market trading on March 5, amid rising U.S.-Iran tensions.",
+      "title": "Tuttle Capital Meme Stock Income Blast ETF (MEMY) invests at least 80% of assets in meme stocks and uses put credit spread strategies for weekly distributions.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock shares (BLK) tumbled over 7% on March 6, after the firm limited withdrawals from its HPS Corporate Lending Fund following redemption requests of 9.3%.",
+      "title": "IncomeSTKd 1X US Stocks & 1X Bitcoin Premium ETF (ISSB) has a 1.14% expense ratio and invests in S&P 500 futures, Bitcoin ETF options, and employs options strategies to generate income.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard is cutting expense ratios on 84 mutual fund and ETF share classes across 53 funds, projecting nearly $250 million in fee reductions for investors in 2026; the average cut is about 27%.",
+      "title": "Vanguard S&P 500 US Shares Index ETF (V500) and Vanguard S&P 500 US Shares Index ETF (V5AH), offering unhedged and currency-hedged exposure, respectively, launched on the ASX.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "F/m Investments launched a mutual fund share class, TBFMX, of its flagship ETF, TBIL, with $6.4 billion in net assets, creating a dual-share class structure under new SEC rules.",
+      "title": "SEC approved ETF share classes for Dimensional Fund Advisors on 13 of its existing mutual funds.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
