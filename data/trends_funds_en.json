@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-09T08:00:24.566010+00:00",
+  "scouted_at": "2026-03-09T08:01:29.413655+00:00",
   "total_candidates": 24,
   "topics": [
     {
       "rank": 1,
-      "title": "Fidelity Floating Rate High Income Fund: Can It Beat Its Benchmark in 2026?",
+      "title": "Fidelity Gold Fund Soars 182% in a Year: Is the Rally Sustainable?",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Vanguard Fee Cuts: Are Your Funds Among the 53 Getting Cheaper?",
+      "title": "Vanguard Cuts Fees, Saving Investors $250 Million: Is Your Fund Next?",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "UK Equity Funds See 9th Month of Outflows: Is It Time to Buy or Bail?",
+      "title": "BlackRock Fund Freezes Withdrawals as Redemptions Spike: A Warning Sign?",
       "lang": "en",
       "source": "llm_selected_finance"
     }
@@ -56,19 +56,29 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcUFPVHZxM2U3cFBQWW0zWVZfQWUycUJRcHIzRDJ4YkZ2amtMU0RFWHJqbFBUX3ZRYjd3a3ZlbU15MnV1MklLdG1Gdlk0RFR5cEVoRGxkYUhlZ2V6dmRFYTJ0UWxfTFEwX25qWVpnazN1RWczNUpWWUdBX0ZHeUdEVGs1ckhQa0FlNzlGNA?oc=5"
     },
     {
+      "title": "Egan-Jones Releases March 2026 CLO Market Summary",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcjNzaDl1U1hnYXpLUm0yclFnaHNhNk1WNk9tSllOYWtpSWFrZDVxT1FObG41RFE2a3hlM2ltVGNvMDFCdTBGZFR5NVRfNnZVclRQSDRsTGRzMWcwMUgwYjh6LVFsNVk5SG1zMTd5QkRwQlZxeUREaFdfWEtZSW1ISkR4OUpMbEpqV0Y4di1XZDhmbGg1M05SLTZCNE1ZU2xtTDBMLWhIVXJsZU9UUkd3?oc=5"
+    },
+    {
       "title": "Fidelity Floating Rate High Income Fund Q4 2025 Commentary",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY0xLdTNmVmVLUDdiSUd6RFJaaUQySTBJVktlMEcxVW02WkRfaG45R3pLc2JWRzlIT1ZsX0J1dU1VOU1SUEktS2dPdFFhQ1A3WExKelpES1dFTjI4VXhjVnRFbUhzbW1OWXdjTlpqR0hVTy1ocUFVT0FLQWhGYlUzVGlnNzlIWWV5TUpiTjZTeVE0THgyamRzVmhQTzhsYU0y?oc=5"
     },
     {
-      "title": "Cathie Wood buys $27 million of battered tech stock",
+      "title": "NYSE Content Update: Olympian Alysa Liu's Message for International Women's Day",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZDQ4dl9PSHI5b0h2OVFfNk1RUVVnY1NMeVNZMDhYTUI3TzliZUhmc2xGZjNmS0hxSnZuUGM3QnlPMjV0ckhUemFLbWUwQ3lZQWtZUTYxVXlzM0gzQm4wcFM2eERRbVExQ1FsalhuUUsxTEo2Q25EeV82ZlI4N1JXWHRB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTTlxR2VodFhLXzdrelNFZXdMbHFLYlJXTEJxU01ZS1lPa2VBWFFrbmRMVVY2ZWhlREpNa1dkM1dXU0k0Tl81VzFXZEVJWWk4ZXRwVzNrczY3NndxR245SHVtZGh4MXZwLU1jYnNZSnpiUGNPbUxUUHRhNFk3NTFsc1ZGNjlfWEVLRHM2N1hTbFd4SmIyQUxCTmM1WDZLcE9uQlVPN1J2RDljbi01RkU0eFR1MUVNN3lLU1VNanptUURRM19HMG0zS090TkFwalg4YXc0?oc=5"
     },
     {
-      "title": "Why the First 5 Years of Retirement Are the Most Dangerous for Your Portfolio",
+      "title": "Kessler Topaz Meltzer & Check, LLP Filed a Securities Fraud Class Action Lawsuit Against uniQure N.V. (QURE); April 13, 2026, Lead Plaintiff Deadline",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYZHRrTW9yNnFINGV3bVVWcTA4VFIycnd2TjNpemRQQmQxUWk2VF95QU1tZXotNGgyRTZmMDdNMUNmMkdPWlVFQmFObXBYMkVjQ3otNXdadE5IZ2R5ejVWODN5NW0ycXpFWWtnS09PRnRzVzZNREVhNnBENA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNY0ljZXhEaDVuRHVZR1R1MkxOdkMxSGNDY3BtWjYwMEg2dlk2dGk5VmZuWF9lTVBsTjluVEJISkUyQzZLai03X0JDNC1ScWNscHo2NTR5Ykg2QV9LaEhNWkNESTZaSDcwN3RpQ3U0aElqWWdaaXlSYkxaR3JRQW1yWVItYS1MNExkVXBWMy1jVHVsa01rR3F6LUJCdUlyenoxMnBuTmF6QVVyTEltYlc0dm5faHVrUzA0dUdFQ2JLLWd6WXNCVUNIR1JyT0JLc2E1bWJGeGxXUzN1THZjRmhHSTZxWEtzTUdXaUstQVZtZTZIYmx1XzkxZy0weXRaQjBUS0FqT01kSGluaVZmazFuSEQyaUF5cXZBQkFTZnFMTFFMVGc2N3hr?oc=5"
+    },
+    {
+      "title": "Canadian Natural Resources Earnings: Amended Debt Target Accelerates Shareholder Returns",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSV9rQ0xUUVpBaG8zVmJ2X2ZwRU1OeHI5NzFWeGx2dDdqQVd1RXdNc1BtWkV1SjBLNlBzYlR1LUhuZi1uRnZuRzFQZG8yalBmTEUwbE1HQVlYcmRoYllQVEg3SWVkMnllc2MtOEVlelZJOUJJM2g0dTZWSHJ2eGJfakJYenZyeXN3ODFyUGtPbjUwenY1WTg0MkhOUXo0NXEzYmhZNndSdEt3bHhubWJMLTVoNVZleFR3cF81bTQ2R2RlSnB3WXhaZGVsUQ?oc=5"
     },
     {
       "title": "Morningstar: $5 Million Strategic Collaboration With University Of Illinois Gies College Of Business To Expand Real-World Investing Education",
@@ -81,19 +91,9 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZFdyd0dvanlMRW4zN0p3aWloZWEzUmNMVjdOaWR5UHM2Q3Znc1M4bXFMckJCcVowN0RqXzRGemZ3WVFfU2tqd21FeGtOOHpRM0xUMnd1bXNxR2J3RnA2X0dMOTliazRVRUpWaTRTR05jeFpsRlV6NzlXRW9CVHRNeDRDY3k4T3YxOFdfc3FKVE15QkZFREpOMjRFODRWZGJCYmluNTJjMWZneDUzVXBENDI2Z0RSUHNjLVpRTHJNRHJCUTB3LW5iUEk3cjUxdGlNcEpuT0xR?oc=5"
     },
     {
-      "title": "5 Best Money Market Mutual Funds Of 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZjF0RzBPMU0wV0lnaW4zRUg4RmNFcFJPdmE0VW5UcHQwTm5fUXpnZ1hFRlIwTnp6dG1pYXZZbF9FdXN1OUFud1AzOGtQTFdmdFNSTXBMY0NFTHpOcjQzcEpmeEM5ZEgwR2E0Y3Iwc2xOOFY2YXI2UlVfd0FYQnN5b0d3?oc=5"
-    },
-    {
-      "title": "Kessler Topaz Meltzer & Check, LLP Filed a Securities Fraud Class Action Lawsuit Against uniQure N.V. (QURE); April 13, 2026, Lead Plaintiff Deadline",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNY0ljZXhEaDVuRHVZR1R1MkxOdkMxSGNDY3BtWjYwMEg2dlk2dGk5VmZuWF9lTVBsTjluVEJISkUyQzZLai03X0JDNC1ScWNscHo2NTR5Ykg2QV9LaEhNWkNESTZaSDcwN3RpQ3U0aElqWWdaaXlSYkxaR3JRQW1yWVItYS1MNExkVXBWMy1jVHVsa01rR3F6LUJCdUlyenoxMnBuTmF6QVVyTEltYlc0dm5faHVrUzA0dUdFQ2JLLWd6WXNCVUNIR1JyT0JLc2E1bWJGeGxXUzN1THZjRmhHSTZxWEtzTUdXaUstQVZtZTZIYmx1XzkxZy0weXRaQjBUS0FqT01kSGluaVZmazFuSEQyaUF5cXZBQkFTZnFMTFFMVGc2N3hr?oc=5"
-    },
-    {
       "title": "Royce Small-Cap Fund FY 2025: What Worked... And What Didn't",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV2ZVOXVpN3UtVUJjZUhPQlFRYVRsb1JHSGZMZnFvUVRJTFZrckxObkxWT0hKMW1kSml1Z3I3ZUh3MFh6ZnJ0anpUR01GcktFRTMxVDNDM0dIbWp4MjlqeUs4R2VFRWRocEV2RjJqekV4ZUNTQXFmN1FsaDEwR0ZmTGJCUF9GMnFmejJ2RDFRQzRtUEZsdFpET2JMc1hqbnktcHYteWVrQ2YyZGNJTXhtTVByTEdUd2FPd0d1anRn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVkZPTVNFaXFzaERIMkl4bGdKTkFXaHJkX2xiUWtRa0thYzJ3YVI3Z0g4X2NwVFdjWGZkWEUxajkwU2xpRk85alE1cTE2OGpkWktQZ1hZVU5DeWQxRWNTWFN2WkFhV09keDZFXzNGUUhvSW9xaEhMeUJzVS1lNkRXXzJ6NVNoaUUtYlh2WWlHdUR2WmFSWnppS3hNN2g5TlA1dml3Zjd1Y3FTcDd1RzRzNm9KbVNVdw?oc=5"
     },
     {
       "title": "What Robinhood's 2025 Tells Us About Its Next Decade",
@@ -141,12 +141,12 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5teGNUaG1OYl9aVU9iNTh3bEZfSjNTVmxTSVpXNkZ2bjNnVG1sNUZlYjlhM0VBR19HQ216dGlyc0R6N20ydUw2NVVpaFZLczlhUTd5d3M4MFNxRXhYQlllYnhOYlpDV1plOGNhSWY5RWJCMFJN?oc=5"
     },
     {
-      "title": "Vanguard Slashes Fees Across 53 Funds, Saving Investors $250 Million in 2026; average fee cut of 27%.",
+      "title": "Vanguard cuts fees on 53 mutual funds and ETFs, saving investors $250 million in 2026; median expense ratio reduction is 0.01%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "US-listed ETFs on pace for a record year, with $334 Billion inflows YTD, signaling potential $2 Trillion in net new assets.",
+      "title": "SEC's new guidance allows mutual funds to offer ETF share classes, potentially reducing capital gains taxes for millions of US investors; Dimensional Fund Advisors gains approval for 13 funds.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
