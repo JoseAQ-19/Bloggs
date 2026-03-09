@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-09T07:47:05.703185+00:00",
+  "scouted_at": "2026-03-09T08:00:24.566010+00:00",
   "total_candidates": 24,
   "topics": [
     {
       "rank": 1,
-      "title": "BlackRock Fund Limits Withdrawals After 9% Redemption Requests; BLK Tumbles",
+      "title": "Fidelity Floating Rate High Income Fund: Can It Beat Its Benchmark in 2026?",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Vanguard Slashes Fees by 27% Across 53 Funds: Investors Save $250 Million",
+      "title": "Vanguard Fee Cuts: Are Your Funds Among the 53 Getting Cheaper?",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Meme Stock ETF Launches: High Risk, Weekly Payouts?",
+      "title": "UK Equity Funds See 9th Month of Outflows: Is It Time to Buy or Bail?",
       "lang": "en",
       "source": "llm_selected_finance"
     }
@@ -61,6 +61,16 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY0xLdTNmVmVLUDdiSUd6RFJaaUQySTBJVktlMEcxVW02WkRfaG45R3pLc2JWRzlIT1ZsX0J1dU1VOU1SUEktS2dPdFFhQ1A3WExKelpES1dFTjI4VXhjVnRFbUhzbW1OWXdjTlpqR0hVTy1ocUFVT0FLQWhGYlUzVGlnNzlIWWV5TUpiTjZTeVE0THgyamRzVmhQTzhsYU0y?oc=5"
     },
     {
+      "title": "Cathie Wood buys $27 million of battered tech stock",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZDQ4dl9PSHI5b0h2OVFfNk1RUVVnY1NMeVNZMDhYTUI3TzliZUhmc2xGZjNmS0hxSnZuUGM3QnlPMjV0ckhUemFLbWUwQ3lZQWtZUTYxVXlzM0gzQm4wcFM2eERRbVExQ1FsalhuUUsxTEo2Q25EeV82ZlI4N1JXWHRB?oc=5"
+    },
+    {
+      "title": "Why the First 5 Years of Retirement Are the Most Dangerous for Your Portfolio",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYZHRrTW9yNnFINGV3bVVWcTA4VFIycnd2TjNpemRQQmQxUWk2VF95QU1tZXotNGgyRTZmMDdNMUNmMkdPWlVFQmFObXBYMkVjQ3otNXdadE5IZ2R5ejVWODN5NW0ycXpFWWtnS09PRnRzVzZNREVhNnBENA?oc=5"
+    },
+    {
       "title": "Morningstar: $5 Million Strategic Collaboration With University Of Illinois Gies College Of Business To Expand Real-World Investing Education",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYV9McmFrWUdCcUlZLXZlb2JaWnR2WThPeHp4VGJTZGE2anRyQWh6Tk8wSmdOZk5DQllYUXZfZTRLVmhhaTA3WlV6bEpKYWNxTU1PRnpMWnNpZ2FtT3RZa1RmU2Rielp3VXVCYUxGaWpKd05ueXNPT2VUV3FILTRoTG9ac2NMS2twMlFuRG9IaEFXZUhLRmdobkQ4TjRtemhwdnpuWl9LRDlrMHQ4a2NSaS1SdFk2U3hWSUQtUUhpVHB2WWhlZTlfU0tQM2FXczM0cGJBN3pXbndtNnFHYV96WEVPNVdoVEpOdkIxelY5QmpsVjFkcUHSAfYBQVVfeXFMTmFfTHJha1lHQnFJWS12ZW9iWlp0dlk4T3h6eFRiU2RhNmp0ckFoek5PMEpnTmZOQ0JZWFF2X2U0S1ZoYWkwN1pVemxKSmFjcU1NT0Z6TFpzaWdhbU90WWtUZlNkYnpad1V1QmFMRmlqSndObnlzT09lVFdxSC00aExvWnNjTEtrcDJRbkRvSGhBV2VIS0ZnaG5EOE40bXpocHZ6blpfS0Q5azB0OGtjUmktUnRZNlN4VklELVFIaVRwdlloZWU5X1NLUDNhV3MzNHBiQTd6V253bTZxR2FfelhFTzVXaFRKTnZCMXpWOUJqbFYxZHFB?oc=5"
@@ -69,11 +79,6 @@
       "title": "7,383 Shares in Morningstar, Inc. $MORN Bought by Intech Investment Management LLC",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZFdyd0dvanlMRW4zN0p3aWloZWEzUmNMVjdOaWR5UHM2Q3Znc1M4bXFMckJCcVowN0RqXzRGemZ3WVFfU2tqd21FeGtOOHpRM0xUMnd1bXNxR2J3RnA2X0dMOTliazRVRUpWaTRTR05jeFpsRlV6NzlXRW9CVHRNeDRDY3k4T3YxOFdfc3FKVE15QkZFREpOMjRFODRWZGJCYmluNTJjMWZneDUzVXBENDI2Z0RSUHNjLVpRTHJNRHJCUTB3LW5iUEk3cjUxdGlNcEpuT0xR?oc=5"
-    },
-    {
-      "title": "Wells Fargo Announces 2027 Earnings Release Date Information",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0x0Q1Nzc1lLWlE5dG4wMmF4SFB3ZGxDTHNTeGZ0bzRYdnI5R25oR0tkS29pU1ZDNHpUanFYRU81bnUtR2RGMVNNaGFfcEl4YVBvYzFWRnFVYno3c0I0YzE1WU1ROUNpRlB0eVhTSHhRWU5NOWduTXlWbDliQmdSaUtEOERHbFBqWUhoVGZ0TDV2RjJ1LWdnamtxY1hQTHV2emwwTnhTRXg1N0thTl9KWGNmeTRRZzhNa0VqaEQ1cw?oc=5"
     },
     {
       "title": "5 Best Money Market Mutual Funds Of 2026",
@@ -86,9 +91,9 @@
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNY0ljZXhEaDVuRHVZR1R1MkxOdkMxSGNDY3BtWjYwMEg2dlk2dGk5VmZuWF9lTVBsTjluVEJISkUyQzZLai03X0JDNC1ScWNscHo2NTR5Ykg2QV9LaEhNWkNESTZaSDcwN3RpQ3U0aElqWWdaaXlSYkxaR3JRQW1yWVItYS1MNExkVXBWMy1jVHVsa01rR3F6LUJCdUlyenoxMnBuTmF6QVVyTEltYlc0dm5faHVrUzA0dUdFQ2JLLWd6WXNCVUNIR1JyT0JLc2E1bWJGeGxXUzN1THZjRmhHSTZxWEtzTUdXaUstQVZtZTZIYmx1XzkxZy0weXRaQjBUS0FqT01kSGluaVZmazFuSEQyaUF5cXZBQkFTZnFMTFFMVGc2N3hr?oc=5"
     },
     {
-      "title": "Canadian Natural Resources Earnings: Amended Debt Target Accelerates Shareholder Returns",
+      "title": "Royce Small-Cap Fund FY 2025: What Worked... And What Didn't",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSV9rQ0xUUVpBaG8zVmJ2X2ZwRU1OeHI5NzFWeGx2dDdqQVd1RXdNc1BtWkV1SjBLNlBzYlR1LUhuZi1uRnZuRzFQZG8yalBmTEUwbE1HQVlYcmRoYllQVEg3SWVkMnllc2MtOEVlelZJOUJJM2g0dTZWSHJ2eGJfakJYenZyeXN3ODFyUGtPbjUwenY1WTg0MkhOUXo0NXEzYmhZNndSdEt3bHhubWJMLTVoNVZleFR3cF81bTQ2R2RlSnB3WXhaZGVsUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV2ZVOXVpN3UtVUJjZUhPQlFRYVRsb1JHSGZMZnFvUVRJTFZrckxObkxWT0hKMW1kSml1Z3I3ZUh3MFh6ZnJ0anpUR01GcktFRTMxVDNDM0dIbWp4MjlqeUs4R2VFRWRocEV2RjJqekV4ZUNTQXFmN1FsaDEwR0ZmTGJCUF9GMnFmejJ2RDFRQzRtUEZsdFpET2JMc1hqbnktcHYteWVrQ2YyZGNJTXhtTVByTEdUd2FPd0d1anRn?oc=5"
     },
     {
       "title": "What Robinhood's 2025 Tells Us About Its Next Decade",
@@ -116,19 +121,14 @@
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMkZTeGlKSEhkeEJFSUU2SVdZYjBLdWtILUVlTjBpTFdQMFBpTGY2Mk54NHNveTJ0dC1SNlhYa05oTmt6MDlQdDFETkxqR2ljVnRjeEdMcXlocUlhRDlhMHZFTzN3OUVHV0RTZEM2U0c3RkhlQnlJMURqR25NV0g3a3VMV09DdTdvd1dNeFFIc29VSkE3ZHpVeU1GQm96empTSzFmc015UVhjelhVTEt3bW84UW95OG5JTk9Fc2RvYVFvelhOdk9GaVJfbDRoNUY3Rmdrdy1ndU9Kc0tkOXExdHRhOXEtelBfSmlZa0FhOVBmZTDSAfgBQVVfeXFMTTFtMHA2QWpLNWllRFVyaXJNY3FqN1BjLTlSMS1IYktIcWtuY0FwUnJ2REFJVkRmbEFubUJiNURveXBOb1VWRW9QR0k1WWhhbWtGOUwzR2Q0ODhibkxBbUMyVERPcWNRUEFnMTlhTVd6aVpubUswMGpsV0VpYWFWbUFiUHRwY3l5Q05YN2I5R2lEUTlWTWJxem9YNXB6ZFZ5dXlfVUhjOWFMMzg4Snc1NUl6ZVdKWUNPcFB5ZGJ0MXZPOGgzLXNoNUxBZUx2THFEbkJSTXUzR0hUcDhnRWFrdjQ3dmZwaHFDUnI2R21lYUtlbEIweUJ0YjY?oc=5"
     },
     {
-      "title": "Donoghue Forlines Lists Risk-Managed ETF on NYSE ARCA",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ24yRF94X08xMi1tTEM1Z1VzMzF4ckJPWXJCR21UbTlFQkdJckR5U2tMeEVpeExyWnl2NWlhT3A0TU9LNHg3ejFXbG9mOEgtYTV0b1IxUEdXbnBlSzVNbklMcU1UYnlvc3c3bzQ2R0x0eWJpVDlHRXE5TWJDRUdTWk5WQW1DaEVL?oc=5"
-    },
-    {
       "title": "The Best Performing Bond ETFs over the Last 10 Years",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSjRBV3pzbnU5aGtrcEFHeDBuR3N0STlyeE5acWZDZmFkMVE2ekpkNmFzWXRIalF6MTVPSTNrMk9QeFBRY1lTYkFvSmRZZkZsN2RNaWw2MUszNVBFQXM5N1czWWFaQTlLZ0IxWFUwb2pGdmo4UnlOLW1Fdy1WcGRyTzhWT1JhZVBidGpPNGgzS1QyZHVvWFVF?oc=5"
     },
     {
-      "title": "5 Best Money Market Mutual Funds Of 2026",
+      "title": "Donoghue Forlines Lists Risk-Managed ETF on NYSE ARCA",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZjF0RzBPMU0wV0lnaW4zRUg4RmNFcFJPdmE0VW5UcHQwTm5fUXpnZ1hFRlIwTnp6dG1pYXZZbF9FdXN1OUFud1AzOGtQTFdmdFNSTXBMY0NFTHpOcjQzcEpmeEM5ZEgwR2E0Y3Iwc2xOOFY2YXI2UlVfd0FYQnN5b0d3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ24yRF94X08xMi1tTEM1Z1VzMzF4ckJPWXJCR21UbTlFQkdJckR5U2tMeEVpeExyWnl2NWlhT3A0TU9LNHg3ejFXbG9mOEgtYTV0b1IxUEdXbnBlSzVNbklMcU1UYnlvc3c3bzQ2R0x0eWJpVDlHRXE5TWJDRUdTWk5WQW1DaEVL?oc=5"
     },
     {
       "title": "5 Best Money Market Mutual Funds Of 2026",
@@ -141,12 +141,12 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5teGNUaG1OYl9aVU9iNTh3bEZfSjNTVmxTSVpXNkZ2bjNnVG1sNUZlYjlhM0VBR19HQ216dGlyc0R6N20ydUw2NVVpaFZLczlhUTd5d3M4MFNxRXhYQlllYnhOYlpDV1plOGNhSWY5RWJCMFJN?oc=5"
     },
     {
-      "title": "SEC's new rule allows mutual funds to offer ETF share classes, potentially reducing capital gains taxes for millions of US investors.",
+      "title": "Vanguard Slashes Fees Across 53 Funds, Saving Investors $250 Million in 2026; average fee cut of 27%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard cuts expense ratios across 53 funds, totaling nearly $250 million in fee reductions for 2026, with an average fee cut of 27%.",
+      "title": "US-listed ETFs on pace for a record year, with $334 Billion inflows YTD, signaling potential $2 Trillion in net new assets.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
