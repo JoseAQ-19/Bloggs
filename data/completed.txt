@@ -227,3 +227,4 @@ fitness: Daniel Radcliffe's Health Transformation: From Coffee & Cigarettes to F
 funds: Guerra Irán: ¿Golpe del 5% a ING, Santander y BBVA? Impacto real en fondos.
 funds: BlackRock Fund Halts Withdrawals After 9% Redemptions; BLK Shares Drop.
 funds: Fidelity Gold Fund's 182% Rally: Examining Drivers and Future Prospects.
+ia: IA con alma: el humanismo redefine el diseño tecnológico
