@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-10T07:40:24.621767+00:00",
+  "scouted_at": "2026-03-10T07:41:26.394319+00:00",
   "total_candidates": 21,
   "topics": [
     {
       "rank": 1,
-      "title": "5 New 5-Star Stocks This Week",
+      "title": "T. Rowe Price Fund Faces Morningstar Review: Is This $15.5 Billion Giant a Buy?",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar puts $15.5bn T. Rowe fund under review",
+      "title": "Oakmark U.S. Large Cap ETF: Why Morningstar Just Awarded It a Gold Medal",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar Launches AI Assistant for Advisor Platform",
+      "title": "Vanguard Slashes Fees: Are Their Funds Now the Cheapest Way to Invest?",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -126,27 +126,27 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWDBSdmxCM0pFdzgwbnZSekZNTjBfN3FaYWZoTHcyLS1Mc2dXT0xzUEZmVDE5ZnJKYTJGa004eFBJZWFyNzNVcTdCa0dHb3ZvX2xLWlU2eGNjVzhCYVVjclJJMFhMdnFDRVJfWHRhR3ZveElwaU1tM1FxWjU4eTJ5TnkzekFuTmpJdDhPS043c3RzTk8xX2phanZOd211ZWNWTExvcjB0b2dKRWNaOS13SG02V0gxRHdEbUFqWlBMLUFHcWprUFdRejNUM0tIdw?oc=5"
     },
     {
-      "title": "**Vanguard S&P 500 US Shares Index ETF (ASX: V500) launches in Australia with a management fee of 0.07% p.a.**",
+      "title": "Vanguard lowers expense ratios across 53 funds, projecting $250 million in fee reductions for investors in 2026; the average expense ratio is now 0.06%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**Tuttle Capital Meme Stock Income Blast ETF (MEMY) debuts with a 0.99% expense ratio, investing in meme stocks and using put credit spreads for weekly distributions.**",
+      "title": "BlackRock's HPS Corporate Lending Fund limits withdrawals to 5% after redemption requests hit 9.3% of shares, causing BLK stock to fall 7.2% on March 6th.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**Digital asset investment products see a rebound with US$1.0 billion in inflows, led by Bitcoin at US$881 million after a five-week outflow streak.**",
+      "title": "Global X announces semi-monthly distributions for BCCC (Bitcoin Covered Call ETF) and BCCL (Enhanced Bitcoin Covered Call ETF) at $0.17000 and $0.20500 CAD per security, respectively, with ex-date of March 13, 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**Fidelity Growth Company Fund gains 1.27% in Q4 2025, outperforming the Morningstar LSTA US Performing Loans Index.**",
+      "title": "Morningstar recognizes Oakmark U.S. Large Cap ETF (OAKM) as one of the \"Best Active ETFs to Buy in 2026,\" awarding it a Gold Medalist Rating.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**Global X Bitcoin Covered Call ETF (BCCC) announces March distribution of CAD $0.17000 per security.**",
+      "title": "US-listed ETFs experienced $173 billion in inflows in February 2026, contributing to a record start of $334 billion for the year.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
