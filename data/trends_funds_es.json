@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-10T07:30:41.577900+00:00",
-  "total_candidates": 9,
+  "scouted_at": "2026-03-10T07:31:51.265907+00:00",
+  "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "Unicaja: ¿Son realmente estos los fondos más rentables de 2025? Analizamos los datos.",
+      "title": "NAO Protea European Equities: ¿Es este fondo el secreto para batir al mercado europeo con un Sharpe de 0,88?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Trade Republic revela: las mujeres superan a los hombres en inversión, pero ¿por qué un 3%?",
+      "title": "Indexa Capital baja comisiones: ¿Ahorrarás dinero? Análisis del impacto real de la reducción al 0,530%",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Guerra Irán-Bolsas: Riesgo de inflación europea obliga al BCE a replantearse los recortes de tipos.",
+      "title": "Santander US Equity LEH CAP: ¿Rentabilidad irreal? Desvelamos el fondo líder de marzo con un asombroso 885,55%",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -92,6 +92,36 @@
       "title": "Rebajamos la Ventaja Competitiva de Seis Empresas USA por la IA",
       "source": "rss_morningstar_es",
       "url": "https://www.morningstar.es/es/news/274266/rebajamos-la-ventaja-competitiva-de-seis-empresas-usa-por-la-ia.aspx"
+    },
+    {
+      "title": "**Santander US Equity LEH CAP lidera el ranking de fondos en marzo 2026 con una rentabilidad del 885,55%**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Indexa Capital rebaja las comisiones de gestión de sus carteras de fondos hasta el 0,530% anual a partir del 1 de enero de 2026, generando un ahorro total de 260.000 euros para sus clientes**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**El Tesoro Público eleva la rentabilidad de las Letras a 12 meses hasta el 2,137% en la subasta de marzo, con una demanda que supera los 7.192 millones de euros**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**NAO Protea European Equities, fondo del mes de marzo 2026, alcanza una rentabilidad anualizada a 3 años del 11,23% con un Ratio Sharpe de 0,88**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**El ETF iShares Core S&P 500 UCITS (Acc) sube un 0,14% en enero, situándose en el percentil 46 de su categoría**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**El Plan Ibercaja de Pensiones Sostenible y Solidario RVM mantiene un 64.95% de su cartera en Renta Variable Total, con un 20.33% invertido en el sector tecnológico**",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
