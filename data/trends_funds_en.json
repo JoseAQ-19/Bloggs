@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-10T07:41:26.394319+00:00",
+  "scouted_at": "2026-03-10T07:59:24.119951+00:00",
   "total_candidates": 21,
   "topics": [
     {
       "rank": 1,
-      "title": "T. Rowe Price Fund Faces Morningstar Review: Is This $15.5 Billion Giant a Buy?",
+      "title": "5 New 5-Star Stocks This Week",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Oakmark U.S. Large Cap ETF: Why Morningstar Just Awarded It a Gold Medal",
+      "title": "Morningstar puts $15.5bn T. Rowe fund under review",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Vanguard Slashes Fees: Are Their Funds Now the Cheapest Way to Invest?",
+      "title": "Morningstar Launches AI Assistant for Advisor Platform",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -126,17 +126,17 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWDBSdmxCM0pFdzgwbnZSekZNTjBfN3FaYWZoTHcyLS1Mc2dXT0xzUEZmVDE5ZnJKYTJGa004eFBJZWFyNzNVcTdCa0dHb3ZvX2xLWlU2eGNjVzhCYVVjclJJMFhMdnFDRVJfWHRhR3ZveElwaU1tM1FxWjU4eTJ5TnkzekFuTmpJdDhPS043c3RzTk8xX2phanZOd211ZWNWTExvcjB0b2dKRWNaOS13SG02V0gxRHdEbUFqWlBMLUFHcWprUFdRejNUM0tIdw?oc=5"
     },
     {
-      "title": "Vanguard lowers expense ratios across 53 funds, projecting $250 million in fee reductions for investors in 2026; the average expense ratio is now 0.06%.",
+      "title": "Vanguard Lowers Expense Ratios Across 53 Funds, averaging a 27% fee cut and estimating $250 million in savings for 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock's HPS Corporate Lending Fund limits withdrawals to 5% after redemption requests hit 9.3% of shares, causing BLK stock to fall 7.2% on March 6th.",
+      "title": "SEC Proposes New Reporting Requirements for ETF Share Classes, including net assets, shareholder flows, and ticker information, as mutual funds increasingly offer ETF share classes.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Global X announces semi-monthly distributions for BCCC (Bitcoin Covered Call ETF) and BCCL (Enhanced Bitcoin Covered Call ETF) at $0.17000 and $0.20500 CAD per security, respectively, with ex-date of March 13, 2026.",
+      "title": "BlackRock's HPS Corporate Lending Fund limits investor withdrawals to 5% after redemption requests hit 9.3% of shares, causing BLK stock to fall 3.06% on March 9.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
@@ -146,7 +146,7 @@
       "url": ""
     },
     {
-      "title": "US-listed ETFs experienced $173 billion in inflows in February 2026, contributing to a record start of $334 billion for the year.",
+      "title": "Global gold ETFs register US$5.3B in inflows for February, marking the ninth consecutive month of inflows and pushing global AUM to a record US$701B.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
