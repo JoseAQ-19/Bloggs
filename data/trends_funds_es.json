@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-09T07:38:11.385265+00:00",
-  "total_candidates": 14,
+  "scouted_at": "2026-03-10T07:30:41.577900+00:00",
+  "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "Guerra Irán: ¿Sobrevivirán sus inversiones? Impacto real en ING, Santander y BBVA",
+      "title": "Unicaja: ¿Son realmente estos los fondos más rentables de 2025? Analizamos los datos.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Planes de pensiones indexados: ¿Es Indexa Capital la opción más rentable en 2026? Rendimientos y comisiones al descubierto",
+      "title": "Trade Republic revela: las mujeres superan a los hombres en inversión, pero ¿por qué un 3%?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "ETFs sorpresa: Los fondos con peor rendimiento en febrero 2026... ¿oportunidad o señal de alerta?",
+      "title": "Guerra Irán-Bolsas: Riesgo de inflación europea obliga al BCE a replantearse los recortes de tipos.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,49 +49,29 @@
   },
   "all_headlines": [
     {
-      "title": "Dónde Invertir mientras la Guerra con Irán afecta a las Bolsas",
+      "title": "10 Acciones que los Mejores Gestores Americanos Han Estado Vendiendo Recientemente",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZjlpRjJCdGFlNThnLVhnOEhSTV9tX3dZV2xON3dTa3RNdUJsNERYTTBaUV9zZWNPUE1mdldZVElkN3pvN1NVcUxtZEF3bHBkQjZESTN2cGU3bFAwbkF1WDFfenNubFRnR3ppd09Wa2FBbzdVMWwtM1l5ekVONHFUeV9JR2lRS0NFcFMxM3RxR0U1MkV3aURjQVV0cUZLMkMzQmpZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdHkwLWRPTUVCbzJFMXZGMHRjYnBwd24wVzdUMnd4Uld3TDh3UG5uLUxZMWJ0NjFxbEhjZ2hvTm00WHhKdjc5YkNWVUJPYUVpNUFJbDEzc2JfZHFXWnhTSjhQNjJ3b3Vfc091cS1ZWV9yRVd1bjZGMk5kY1ZuaDZVdTAtc2t4VFAtUVFlb0NIZUlaOEEtODhMRVdXYWFabW5jN1RoVXNaQnZ5eUVSQ0Mxam9Cejd3V2l2ZDBUajBIYnRMLWc?oc=5"
     },
     {
-      "title": "Los gestores de Bolsa española apuestan por una crisis breve",
+      "title": "Los fondos más rentables de 2025 de Unicaja",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlpyTjRYNWtVQ1NDZU1rNFlwdEVGZXJVVnFZSVU0UFVtU0UwSU9pVXJEUTEzX3p5TGZYWXRxdmVMV3NiTjh0aEp1ZG1zZW9Rd2tzdWVac3dJaGcwTWxCbjlpWWI2eFZ4elp3dWduY09uaWxPV1QtcU9CQ2FrS1B6bdIBgAFBVV95cUxQWlpyTjRYNWtVQ1NDZU1rNFlwdEVGZXJVVnFZSVU0UFVtU0UwSU9pVXJEUTEzX3p5TGZYWXRxdmVMV3NiTjh0aEp1ZG1zZW9Rd2tzdWVac3dJaGcwTWxCbjlpWWI2eFZ4elp3dWduY09uaWxPV1QtcU9CQ2FrS1B6bQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbENWX3NOYUxpU0dLOGp3SFFxTTA5WEJWM1J5QmZIMDNrWEZ6c0NoTHpMZXNCSGtzSWlUY3RrbDA0d25OOTU0Umk3QmNPYkVaQ21wVzI2bnBpRVV3RXRSVUFEYzBLbExaT3NiWThxM2tNQ1hQc1NjM29HZE9jQkNVazQzVC1tcnQyeW1ramN2V1ZsTHBGYWpRUVVkN3Z1RmMzckxhb0h5eDBDZUt6cWlFbWR5VEwtSnRtY0tNSmNPR2RiaHJp0gGbAUFVX3lxTE9fdFg5NmVSNHJDaE5VQnRIZlRxbEx6UG96bnVqVFdGck5ZRW5pLVVNeVBnU1Rkd2lONGhPdEZOSUtvbjUyNHluYXZVMklrNGhMajlTN0xtRkNSS0lWV3BYeGFVQ0hHNFZGSXpZOGY3NHZlV2x4aGpFZFdGTWx1SG1fdDMtQTRUcmlkMkJmWjdZclNTb2ZCZGh0Wk9B?oc=5"
     },
     {
-      "title": "Mejores plataformas para comprar fondos de inversión 2026",
+      "title": "Las mujeres logran un 3% más de rentabilidad que los hombres en sus inversiones en Trade Republic",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnNsTkpKYkxxYmVjdEM3ZkpJU214X0FSLUhrOUNHbUg1aWRaaGdUSmlwQmZWdWgxVWVfUVF3WXc3dVotSnB4T3RQVllZclNIMkxZbUVEb21ueDMxbDJsTzZjSDJkNHZRaERMNHlXcWRBWlMwUWg3Z3l2MVlpNFB0UWxBQXp2dGREUnQ4MzRfRWoxazRtdmxvTm1qY3VnVmxDX0R3Z3hjM2hJT0Fy?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbExzRnU4YmprLVJfMEt2OGFmaWROUk9ROFRuUmxURWRHWG5qOWlEbkdleUZzOFNXeEVSUnR3bE95TXdncVUzc01Za3cwOWMtcUZFYV9yNGt1ZXNzNUo0Z2JuaWwzQ2RyRWZGYUtpVGFvdXNOMktOX3hOR1ZDalJKWTlRYnJtc3AxbjdsWWRmMVVmWXNULUxHetIBngFBVV95cUxNaFE4RUMzU1F3R21ZaTZIUDgxLXZlZFBQQU1sQURuTldVUmYyWjNJRDExTUgtZk5TdjNSSGJVRlM3WXNsWXJZT21IYVdCTHlXWnByUG9OTmxsN19SdDZwQW9scUIxcEk2X3daX3UtVzhpR1RoZ0VjRHFub2RmWVFWaG04YkQtVVNjdlY2TkVUdWFXdmpvYzVsYUlJN21jZw?oc=5"
     },
     {
-      "title": "Planes de pensiones indexados 2026: ¿cuál es el mejor?",
+      "title": "Las mujeres en Trade Republic obtienen, de media, un 3% más de rentabilidad que los hombres",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZndVSWJhSlpWT2Zsc2x5aUFWUlpVZnBpVjk3a2Jqa0pIUlBvQTNHTnB2MmVYczhGTEhKR1Q0WTZJRFBtc2dibkszVUF6cXpjQXZRLTRSbGFNSEhBcHNBeVdnSFhCaEcwbFloN1pGcVFCLW9LZzRWOWNBRmp0V3F1Z3VsTjBma196VGZXd3FrQ3lVMG9KNkJWQmhQUm1Qb0lSdFVxVA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOGNsMVVtLW1LRGRPNXFNOThoWjVLWGRWQ0FfVkVIZGgwejFaR3NpSllFaDNQY0pWdGdLTnZpRFJGbHVrWDlFeEozXzEzUUFvVkY1TXZuV0hKN0k2eFc1Tl9ZNkhXdng4akpoOFJQZHIxX3lLYmQwNXZnMFhZOVR2bi1ZbmtSSndZbXpQcFJkLXFwaEFQTmQ2MFpiRkM3bVhu0gGgAUFVX3lxTE44Y2wxVW0tbUtEZE81cU05OGhaNUtYZFZDQV9WRUhkaDB6MVpHc2lKWUVoM1BjSlZ0Z0tOdmlEUkZsdWtYOUV4SjNfMTNRQW9WRjVNdm5XSEo3STZ4VzVOX1k2SFd2eDhqSmg4UlBkcjFfeUtiZDA1dmcwWFk5VHZuLVlua1JKd1ltelBwUmQtcXBoQVBOZDYwWmJGQzdtWG4?oc=5"
     },
     {
-      "title": "Indexa Capital vs Revolut: ¿cuál elegir para invertir? Comparativa 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWFGaDJVLXg3cWlmaGQzNkZJUmJPSG9Lb3NiOTJUVEFvOWFIbmFDR0M4QXVMM3o4MDF5N2M5Qi1Qd1d0TjJUTWg1VTZORmQ5SmJNV1c5WmZtOE0xS0lsMXZrVjlqS3NKWFBJNGFKZjU2bEdoSWQxYmgxNVhSMEl1S09SVnhRVDZybGo1X3otNVRsWWo0bXl5MTh2N25yRnRPNERLYkRpM3JvdWhXVEx6azBnWE1QUTljOUE?oc=5"
-    },
-    {
-      "title": "Mejores neobancos para ahorrar e invertir (2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYnJLUHJRUlNXRWs3ZEVtTnlWSGhncVdZTjBteWZHYW1kRllzWTRpdFFRVDE3MG5pNFlFLXNrbWctdFhDVkVXOFVkNFdBZHM2NzVHTnNZbXh0RmN1R0xjM0NxdWpjakVRZEVBSmxOV3JNZjdmYmt1MWY3d0RSOEprbWRKUUpnOVE0WXRIeVdPQTVSckpHWWRRYVlqMA?oc=5"
-    },
-    {
-      "title": "Mejores plataformas para invertir en fondos indexados (desde 1 euro)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVppVWpGajBHemh3QlZKM0dDaGRsQmNZbXF5M2pBcDhSUnNLRl9WQXF4cVotUmdoR1BaandrWkVWd20zUGNkQVNueFdjMGZuYUgtS0RCNnhwWG02c09ROTdmSDI1TFpod0QxYkZtQ0dCQ2QzcXIzNXBHMnNiTzE2Z3lKMGVTQzNFQW0xZDlkOUZiM0VlaHp3TWxBMU9WdW9i?oc=5"
-    },
-    {
-      "title": "MyInvestor vs ING: ¿qué bróker elegir? Comparativa 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNanNlSG5wdmc1MW0tVC1fcHRKVVFZYU8zczVZemVXWTl6bTl4Z3MxSkx2R3c0ZmxwakRHUEZSSzhJMjkxWjF3UTViMGl2MG8zLURXQ2gzNWU3c2NzUk0tMFFzcXN5S1JORmdqbVNfT0I3ZUdMY3hGbm5lQzlVYV9mRS1ROThtQ2g4UGpMZjNObGVJeWJTVjRrYjdXUk9HcmhMbEdRaWhR?oc=5"
-    },
-    {
-      "title": "Mejores brókers para invertir: comparativa 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWNHb3VNQnJ3UVNGUmJtZmVVSnBMd093MDNyeERXZTBYeDRJQ01VaGxFdWhFMVVCUHR4TFhWeDljbjBxb3gzLWJzUndiUW1VOXBNOEJEdnNDUVdJcFExbXFEamJHTlh6MHlIVGN5UmFKa2FSa3RrTWNucXRpb0lOYWFRQVZ0cXJzOGprVHUyYVFqS3Jib1M4?oc=5"
+      "title": "10 Acciones que los Mejores Gestores Americanos Han Estado Vendiendo Recientemente",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274314/10-acciones-que-los-mejores-gestores-americanos-han-estado-vendiendo-recientemente.aspx"
     },
     {
       "title": "Los ETFs Menos Rentables de Febrero 2026",
@@ -112,11 +92,6 @@
       "title": "Rebajamos la Ventaja Competitiva de Seis Empresas USA por la IA",
       "source": "rss_morningstar_es",
       "url": "https://www.morningstar.es/es/news/274266/rebajamos-la-ventaja-competitiva-de-seis-empresas-usa-por-la-ia.aspx"
-    },
-    {
-      "title": "¿Cuál es el Impacto de la Guerra con Irán en los Bancos y Gestoras Globales?",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274259/¿cuál-es-el-impacto-de-la-guerra-con-irán-en-los-bancos-y-gestoras-globales.aspx"
     }
   ]
 }
