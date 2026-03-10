@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-10T07:59:24.119951+00:00",
+  "scouted_at": "2026-03-10T08:00:32.642230+00:00",
   "total_candidates": 21,
   "topics": [
     {
       "rank": 1,
-      "title": "5 New 5-Star Stocks This Week",
+      "title": "Vanguard Fee Cuts: See How Much You'll Save on 53 Funds (Median Drop: 0.01%)",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar puts $15.5bn T. Rowe fund under review",
+      "title": "Gold ETFs Hit Record Holdings: Global Investors Pour in $5.3 Billion in February",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar Launches AI Assistant for Advisor Platform",
+      "title": "BlackRock's $26 Billion Lending Fund Limits Withdrawals; BLK Stock Drops 3%",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -126,27 +126,27 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWDBSdmxCM0pFdzgwbnZSekZNTjBfN3FaYWZoTHcyLS1Mc2dXT0xzUEZmVDE5ZnJKYTJGa004eFBJZWFyNzNVcTdCa0dHb3ZvX2xLWlU2eGNjVzhCYVVjclJJMFhMdnFDRVJfWHRhR3ZveElwaU1tM1FxWjU4eTJ5TnkzekFuTmpJdDhPS043c3RzTk8xX2phanZOd211ZWNWTExvcjB0b2dKRWNaOS13SG02V0gxRHdEbUFqWlBMLUFHcWprUFdRejNUM0tIdw?oc=5"
     },
     {
-      "title": "Vanguard Lowers Expense Ratios Across 53 Funds, averaging a 27% fee cut and estimating $250 million in savings for 2026.",
+      "title": "Vanguard launches three new S&P 500 index fund options for Australian investors, including ASX-listed V500 and V5AH ETFs with management fees of 0.07% and 0.09% p.a. respectively.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "SEC Proposes New Reporting Requirements for ETF Share Classes, including net assets, shareholder flows, and ticker information, as mutual funds increasingly offer ETF share classes.",
+      "title": "Morningstar recognizes Harris | Oakmark's Oakmark U.S. Large Cap ETF (OAKM) as one of the \"Best Active ETFs to Buy in 2026\".",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock's HPS Corporate Lending Fund limits investor withdrawals to 5% after redemption requests hit 9.3% of shares, causing BLK stock to fall 3.06% on March 9.",
+      "title": "SEC proposes amendments to Form N-PORT, providing funds an additional 15 days to file monthly reports and reducing report publication to quarterly.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Morningstar recognizes Oakmark U.S. Large Cap ETF (OAKM) as one of the \"Best Active ETFs to Buy in 2026,\" awarding it a Gold Medalist Rating.",
+      "title": "Vanguard cuts fees on 53 mutual funds and ETFs, expecting to save clients approximately $250 million in 2026, with a median expense ratio reduction of 0.01%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Global gold ETFs register US$5.3B in inflows for February, marking the ninth consecutive month of inflows and pushing global AUM to a record US$701B.",
+      "title": "Global investors allocate US$5.3bn to gold ETFs in February, marking the strongest two-month start to a year and the ninth consecutive monthly increase, bringing total global holdings to a record 4,171t.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
