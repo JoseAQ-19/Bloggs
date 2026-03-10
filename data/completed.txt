@@ -248,3 +248,4 @@ tools: Energy Tools y ACE: Gigantes energéticos se unen para dominar el dato
 tools: AI in Classrooms: California Schools Grapple with the Future of Education
 crypto: ¿El rally de Bitcoin es real? Apuestas apalancadas lo confirman
 crypto: Crypto's Tipping Point? A Look at 2025 and Beyond.
+crypto: Digital Assets in 2025: A Look Back at the Turning Point
