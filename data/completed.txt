@@ -246,3 +246,4 @@ funds: T. Rowe Price Fund's $15.5 Billion Question: A Morningstar Review Analysi
 funds: Vanguard Slashes Fees on 53 Funds: Will 0.01% Savings Move the Needle?
 tools: Energy Tools y ACE: Gigantes energéticos se unen para dominar el dato
 tools: AI in Classrooms: California Schools Grapple with the Future of Education
+crypto: ¿El rally de Bitcoin es real? Apuestas apalancadas lo confirman
