@@ -18,8 +18,12 @@
 - [x] Ejecución de Content Auditor: Eliminación de la "Death Row" (22 archivos problemáticos o robotizados).
 - [x] Implementación de 4 Escudos de Auto-Healing en Main.py (Anti-Chatbot filler, H1 Stripper, Bloqueo Regex Markdown).
 - [x] **Protocolo Guante Blanco completado**: 0% enlaces rotos (404/500 eliminados), E-E-A-T activado (NovumWorld Editorial Team), JSON-LD optimizado. Lista para Search Console.
-- [ ] Test E2E de Zhipu GLM-4.7-FlashX en Español para confirmar eliminación de "ghost articles en inglés".
-- [ ] Personalizar "System Prompts" por motor (diferenciar Llama y GLM en el código).
+- [x] Test E2E de Zhipu GLM-4.7-FlashX en Español para confirmar eliminación de "ghost articles en inglés".
+- [x] Corrección de LLM Waterfall: Integrada la API de NVIDIA (Llama 3.1 70B) como Motor de Fallback (antes de Gemini), corrigiendo el fallo silencioso.
+- [x] Personalizar "System Prompts" por motor (diferenciar Llama y GLM en el código).
+- [x] **NVIDIA NIM v2**: Jerarquía completa GLM-4.7 (Redactor) → GLM-4.5-Air (OpenRouter) → Llama-3.3-70B (OpenRouter) → Llama-3.1-70B (NIM Fallback Élite) → Gemini (Último Recurso). Test suite `test_nvidia_integration.py` 10/10 PASSED.
+- [x] **Stable Diffusion 3 Medium**: Integrado en `novum_visual.py` como motor de imagen premium NVIDIA antes de Lexica fallback.
+- [x] **GLM-5 Expert**: Modelo disponible en NIM (`z-ai/glm5`) para tareas de estrategia/razonamiento.
 - [ ] Sitemap SEO optimizado (Generar plantillas `layouts/sitemap.xml` exclusivas en vez del base de Hugo).
 - [ ] Añadir compresión a .WebP pre-publicación en Hugo en vez de .JPG nativo.
 

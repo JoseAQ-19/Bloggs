@@ -129,8 +129,14 @@ class NovumVisualEngine:
             self._write_pendulum_state(provider)
             return f"/images/{filename}"
 
+        # Motor Premium: NVIDIA Stable Diffusion 3 Medium
+        print("   🟢 Ambas APIs fallaron. Intentando NVIDIA SD3 Medium...")
+        if self._generate_nvidia_sd3(enhanced_prompt, filepath):
+            self._write_pendulum_state(provider)
+            return f"/images/{filename}"
+
         # Red de seguridad: Lexica
-        print("   🔍 Ambas APIs fallaron. Intentando Lexica...")
+        print("   🔍 NVIDIA SD3 también falló. Intentando Lexica...")
         if self._search_lexica(prompt, filepath):
             self._write_pendulum_state(provider)
             return f"/images/{filename}"
@@ -178,6 +184,61 @@ class NovumVisualEngine:
             return self._save_bytes(image_bytes, filepath)
         except Exception as e:
             print(f"   ⚠️ Together error: {e}")
+            return False
+
+    def _generate_nvidia_sd3(self, prompt, filepath):
+        """
+        NVIDIA Stable Diffusion 3 Medium — Generación de imagen premium.
+        Usa la API REST directa de NVIDIA (no el SDK de OpenAI).
+        """
+        nvidia_key = os.getenv("NVIDIA_API_KEY")
+        if not nvidia_key:
+            print("   ⚠️ NVIDIA_API_KEY no configurada. Saltando SD3.")
+            return False
+        
+        print("   🟢 [NVIDIA SD3] Generando con Stable Diffusion 3 Medium...")
+        try:
+            headers = {
+                "Authorization": f"Bearer {nvidia_key}",
+                "Accept": "application/json",
+            }
+            
+            payload = {
+                "prompt": prompt[:1000],  # NVIDIA limita el prompt
+                "cfg_scale": 5,
+                "aspect_ratio": "16:9",
+                "steps": 30,
+                "seed": 0  # Random seed
+            }
+            
+            resp = requests.post(
+                "https://ai.api.nvidia.com/v1/genai/stabilityai/stable-diffusion-3-medium",
+                headers=headers,
+                json=payload,
+                timeout=90
+            )
+            
+            if resp.status_code == 200:
+                data = resp.json()
+                # NVIDIA devuelve base64 en "image" o "artifacts"
+                b64_data = data.get("image") or ""
+                if not b64_data and data.get("artifacts"):
+                    b64_data = data["artifacts"][0].get("base64", "")
+                
+                if b64_data:
+                    image_bytes = base64.b64decode(b64_data)
+                    return self._save_bytes(image_bytes, filepath)
+                else:
+                    print(f"   ⚠️ NVIDIA SD3: respuesta sin datos de imagen. Keys: {list(data.keys())}")
+                    return False
+            elif resp.status_code == 402:
+                print("   ⚠️ NVIDIA SD3: Créditos agotados (HTTP 402). Saltando.")
+                return False
+            else:
+                print(f"   ⚠️ NVIDIA SD3 error HTTP {resp.status_code}: {resp.text[:200]}")
+                return False
+        except Exception as e:
+            print(f"   ⚠️ NVIDIA SD3 error: {e}")
             return False
 
     def _generate_hf(self, prompt, filepath):

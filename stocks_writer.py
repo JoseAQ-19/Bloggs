@@ -24,7 +24,7 @@ load_dotenv()
 # --- API Keys ---
 GEMINI_KEY = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
 OPENROUTER_KEY = os.getenv("OPENROUTER_API_KEY")
-STOCKS_ZHIPU_KEY = os.getenv("STOCKS_WRITER_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 try:
     from google import genai
@@ -62,164 +62,159 @@ def _call_writer_engine(prompt_text: str, lang: str = "en") -> Optional[str]:
     or_key = OPENROUTER_KEY
 
     if lang == "es":
-        # ── MOTOR ES 1: Zhipu Nativo (STOCKS_WRITER_API_KEY) ──
-        if STOCKS_ZHIPU_KEY:
-            print("   🧠 [Stocks Writer ES] Motor 1: Zhipu GLM (Nativo)...")
-            try:
-                zhipu_client = OpenAI(api_key=STOCKS_ZHIPU_KEY, base_url="https://open.bigmodel.cn/api/paas/v4/")
-                
-                # Intentamos primero con glm-4-flash, si la cuenta no lo tiene habilitado, probamos con glm-4
-                model_to_use = "glm-4-flash"
-                try:
-                    resp = zhipu_client.chat.completions.create(
-                        model=model_to_use,
-                        messages=[{"role": "user", "content": prompt_text}],
-                        temperature=0.85,
-                        max_tokens=4096
-                    )
-                except Exception as inner_e:
-                    if "1211" in str(inner_e) or "不存在" in str(inner_e):
-                        print(f"   ⚠️ Zhipu Nativo: '{model_to_use}' no existe en esta cuenta. Probando 'glm-4'...")
-                        model_to_use = "glm-4"
-                        resp = zhipu_client.chat.completions.create(
-                            model=model_to_use,
-                            messages=[{"role": "user", "content": prompt_text}],
-                            temperature=0.85,
-                            max_tokens=4096
-                        )
-                    else:
-                        raise inner_e
-
-                result = resp.choices[0].message.content.strip()
-                if result and len(result) > 500:
-                    print(f"   ✅ Zhipu Nativo ({model_to_use}) respondió correctamente.")
-                    return result
-                else:
-                    print("   ⚠️ Zhipu Nativo respuesta muy corta. Fallback...")
-            except Exception as e:
-                logging.warning(f"Zhipu Nativo error completo: {e}. Cayendo a OpenRouter...")
-
-        # ── MOTOR ES 2: OpenRouter / Zhipu GLM (con retry) ──
+        # ── MOTOR ES 1: OpenRouter DeepSeek V3 ──
         if or_key:
+            print("   🧠 [Stocks Writer ES] Motor 1: DeepSeek V3 (OpenRouter)...")
             max_retries = 3
             backoff_seconds = [10, 25, 60]
             for attempt in range(max_retries):
-                print(f"   🧠 [Stocks Writer ES] Motor 2: OpenRouter GLM-4.5-Air (intento {attempt+1}/{max_retries})...")
                 try:
-                    or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
+                    ds_prompt = prompt_text + "\n\n[SYSTEM CALIBRATION: DEEPSEEK]: You are a logic-driven financial model. Prioritize analytical depth, accuracy, and structured reasoning. Skip any filler intro."
                     resp = or_client.chat.completions.create(
-                        model="z-ai/glm-4.5-air:free",
-                        messages=[{"role": "user", "content": prompt_text}],
+                        model="deepseek/deepseek-chat-v3-0324:free",
+                        messages=[{"role": "user", "content": ds_prompt}],
                         temperature=0.85,
-                        max_tokens=4096
+                        max_tokens=8192
                     )
                     result = resp.choices[0].message.content.strip()
                     if result and len(result) > 500:
-                        print("   ✅ OpenRouter GLM respondió correctamente.")
+                        print("   ✅ DeepSeek V3 respondió correctamente.")
                         return result
                     else:
-                        print("   ⚠️ OpenRouter respuesta muy corta. Fallback...")
-                        break
+                        print("   ⚠️ DeepSeek V3 respuesta muy corta. Reintentando...")
                 except Exception as e:
                     error_str = str(e)
                     if "429" in error_str or "rate" in error_str.lower():
                         import time as _time
                         wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
-                        logging.warning(f"⏳ RATE LIMIT 429 OpenRouter ES (intento {attempt+1}). Esperando {wait}s...")
+                        logging.warning(f"⏳ RATE LIMIT 429 DeepSeek ES (intento {attempt+1}). Esperando {wait}s...")
                         _time.sleep(wait)
                     else:
-                        logging.warning(f"OpenRouter error: {e}. Cayendo a Gemini...")
+                        logging.warning(f"DeepSeek V3 error: {e}")
+                        break
+
+        # ── MOTOR ES 2: Groq (Llama 3.3 70B) ──
+        if GROQ_API_KEY:
+            print("   🧠 [Stocks Writer ES] Motor 2: Groq (Llama 3.3 70B)...")
+            max_retries = 2
+            backoff_seconds = [5, 15]
+            for attempt in range(max_retries):
+                try:
+                    llama_prompt = prompt_text + "\n\n[SYSTEM CALIBRATION: LLAMA-3]: You are a highly narrative open-weight model. Focus on seamless journalistic transitions, engaging prose, and avoiding repetitive AI-like sentence structures."
+                    resp = groq_client.chat.completions.create(
+                        model="llama-3.3-70b-versatile",
+                        messages=[{"role": "user", "content": llama_prompt}],
+                        temperature=0.85,
+                        max_tokens=8000
+                    )
+                    result = resp.choices[0].message.content.strip()
+                    if result and len(result) > 500:
+                        print("   ✅ Groq respondió correctamente a altísima velocidad.")
+                        return result
+                    else:
+                        print("   ⚠️ Groq respuesta muy corta. Reintentando...")
+                except Exception as e:
+                    error_str = str(e)
+                    if "429" in error_str or "rate" in error_str.lower():
+                        import time as _time
+                        wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 20
+                        logging.warning(f"⏳ RATE LIMIT Groq ES (intento {attempt+1}). Esperando {wait}s...")
+                        _time.sleep(wait)
+                    else:
+                        logging.warning(f"Groq API error: {e}")
                         break
     else:
-        # ── MOTOR EN 1: Zhipu Nativo (STOCKS_WRITER_API_KEY) ──
-        if STOCKS_ZHIPU_KEY:
-            print("   🧠 [Stocks Writer EN] Motor 1: Zhipu GLM (Nativo)...")
-            try:
-                zhipu_client = OpenAI(api_key=STOCKS_ZHIPU_KEY, base_url="https://open.bigmodel.cn/api/paas/v4/")
-                
-                model_to_use = "glm-4-flash"
-                try:
-                    resp = zhipu_client.chat.completions.create(
-                        model=model_to_use,
-                        messages=[{"role": "user", "content": prompt_text}],
-                        temperature=0.85,
-                        max_tokens=4096
-                    )
-                except Exception as inner_e:
-                    if "1211" in str(inner_e) or "不存在" in str(inner_e):
-                        print(f"   ⚠️ Zhipu Nativo: '{model_to_use}' no existe en esta cuenta. Probando 'glm-4'...")
-                        model_to_use = "glm-4"
-                        resp = zhipu_client.chat.completions.create(
-                            model=model_to_use,
-                            messages=[{"role": "user", "content": prompt_text}],
-                            temperature=0.85,
-                            max_tokens=4096
-                        )
-                    else:
-                        raise inner_e
-
-                result = resp.choices[0].message.content.strip()
-                if result and len(result) > 500:
-                    print(f"   ✅ Zhipu Nativo ({model_to_use}) respondió correctamente.")
-                    return result
-                else:
-                    print("   ⚠️ Zhipu Nativo respuesta muy corta. Fallback...")
-            except Exception as e:
-                logging.warning(f"Zhipu Nativo error completo: {e}. Cayendo a OpenRouter...")
-
-        # ── MOTOR EN 2: OpenRouter GLM-4.5-Air → Llama 3.3 → Gemini ──
+        # ── MOTOR EN 1: OpenRouter DeepSeek V3 ──
         if or_key:
-            print("   🧠 [Stocks Writer EN] Motor 1: GLM-4.5-Air...")
-            try:
-                or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
-                resp = or_client.chat.completions.create(
-                    model="z-ai/glm-4.5-air:free",
-                    messages=[{"role": "user", "content": prompt_text}],
-                    temperature=0.85,
-                    max_tokens=4096
-                )
-                result = resp.choices[0].message.content.strip()
-                if result and len(result) > 500:
-                    print("   ✅ GLM-4.5-Air respondió correctamente.")
-                    return result
-            except Exception as e:
-                logging.warning(f"GLM-4.5-Air error: {e}")
-
+            print("   🧠 [Stocks Writer EN] Motor 1: DeepSeek V3 (OpenRouter)...")
             max_retries = 3
             backoff_seconds = [10, 25, 60]
             for attempt in range(max_retries):
-                print(f"   🔄 [Stocks Writer EN] Motor 2: Llama-3.3-70B (intento {attempt+1}/{max_retries})...")
                 try:
-                    or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
+                    ds_prompt = prompt_text + "\n\n[SYSTEM CALIBRATION: DEEPSEEK]: You are a logic-driven financial model. Prioritize analytical depth, accuracy, and structured reasoning. Skip any filler intro."
                     resp = or_client.chat.completions.create(
-                        model="meta-llama/llama-3.3-70b-instruct:free",
-                        messages=[{"role": "user", "content": prompt_text}],
+                        model="deepseek/deepseek-chat-v3-0324:free",
+                        messages=[{"role": "user", "content": ds_prompt}],
                         temperature=0.85,
-                        max_tokens=4096
+                        max_tokens=8192
                     )
                     result = resp.choices[0].message.content.strip()
                     if result and len(result) > 500:
-                        print("   ✅ Llama-3.3-70B respondió correctamente.")
+                        print("   ✅ DeepSeek V3 respondió correctamente.")
                         return result
                     else:
-                        break
+                        print("   ⚠️ DeepSeek V3 respuesta muy corta. Reintentando...")
                 except Exception as e:
                     error_str = str(e)
                     if "429" in error_str or "rate" in error_str.lower():
                         import time as _time
                         wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
-                        logging.warning(f"⏳ RATE LIMIT 429 Llama EN (intento {attempt+1}). Esperando {wait}s...")
+                        logging.warning(f"⏳ RATE LIMIT 429 DeepSeek EN (intento {attempt+1}). Esperando {wait}s...")
                         _time.sleep(wait)
                     else:
-                        logging.warning(f"Llama error: {e}")
+                        logging.warning(f"DeepSeek V3 error: {e}")
                         break
+
+        # ── MOTOR EN 2: Groq (Llama 3.3 70B) ──
+        if GROQ_API_KEY:
+            print("   🧠 [Stocks Writer EN] Motor 2: Groq (Llama 3.3 70B)...")
+            max_retries = 2
+            backoff_seconds = [5, 15]
+            for attempt in range(max_retries):
+                try:
+                    llama_prompt = prompt_text + "\n\n[SYSTEM CALIBRATION: LLAMA-3]: You are a highly narrative open-weight model. Focus on seamless journalistic transitions, engaging prose, and avoiding repetitive AI-like sentence structures. Skip filler intros."
+                    resp = groq_client.chat.completions.create(
+                        model="llama-3.3-70b-versatile",
+                        messages=[{"role": "user", "content": llama_prompt}],
+                        temperature=0.85,
+                        max_tokens=8000
+                    )
+                    result = resp.choices[0].message.content.strip()
+                    if result and len(result) > 500:
+                        print("   ✅ Groq respondió correctamente a altísima velocidad.")
+                        return result
+                    else:
+                        print("   ⚠️ Groq respuesta muy corta. Reintentando...")
+                except Exception as e:
+                    error_str = str(e)
+                    if "429" in error_str or "rate" in error_str.lower():
+                        import time as _time
+                        wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 20
+                        logging.warning(f"⏳ RATE LIMIT Groq EN (intento {attempt+1}). Esperando {wait}s...")
+                        _time.sleep(wait)
+                    else:
+                        logging.warning(f"Groq API error: {e}")
+                        break
+
+    # ── MOTOR 3: NVIDIA API (Llama 3.1 70B / Nemotron) ──
+    nvidia_key = os.getenv("NVIDIA_API_KEY")
+    if nvidia_key:
+        print(f"   🟢 [Stocks Writer {lang.upper()}] Motor 3: NVIDIA API (Llama 3.1 70B)...")
+        try:
+            nvidia_client = OpenAI(api_key=nvidia_key, base_url="https://integrate.api.nvidia.com/v1")
+            nvidia_prompt = prompt_text + "\n\n[SYSTEM CALIBRATION: LLAMA-3]: You are a highly narrative open-weight model. Focus on seamless journalistic transitions, engaging prose, and avoiding repetitive AI-like sentence structures."
+            resp = nvidia_client.chat.completions.create(
+                model="meta/llama-3.1-70b-instruct",
+                messages=[{"role": "user", "content": nvidia_prompt}],
+                temperature=0.85,
+                max_tokens=4096
+            )
+            result = resp.choices[0].message.content.strip()
+            if result and len(result) > 500:
+                print("   ✅ NVIDIA API respondió correctamente.")
+                return result
+            else:
+                print("   ⚠️ NVIDIA respuesta vacía. Activando emergencia...")
+        except Exception as e:
+            logging.warning(f"🚨 FALLBACK TRIGGERED: NVIDIA API falló por [{type(e).__name__}]: {e}. Cayendo a Gemini...")
 
     # ── EMERGENCIA: Gemini ──
     if gemini_client:
         print("   🚨 [Stocks Writer] Gemini 2.0 Flash (emergencia)...")
         try:
+            gemini_prompt = prompt_text + "\n\n[SYSTEM CALIBRATION: GEMINI]: You are a fast, analytical model. Focus on precise formatting, avoiding repetitive introductions, and strictly following the negative constraints."
             resp = gemini_client.models.generate_content(
-                model='gemini-2.0-flash', contents=prompt_text
+                model='gemini-2.0-flash', contents=gemini_prompt
             )
             return resp.text.strip()
         except Exception as e:
