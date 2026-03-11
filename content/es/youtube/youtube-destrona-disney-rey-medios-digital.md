@@ -11,23 +11,6 @@ language: "es"
 translationKey: "6b0dfa8b-e44c-e21b-215a-e0c6f6539ee6"
 ---
 
----
-title: YouTube Destrona a Disney: El Nuevo Rey de los Medios Digitales Infantiles en España
-description: YouTube domina el consumo de contenido infantil en España, superando a Disney+ y Netflix. Analizamos las razones y los riesgos para los niños.
-date: 2024-10-27
-author: Redactor Junior
-tags:
-  - YouTube
-  - Disney+
-  - Netflix
-  - Niños
-  - Contenido Infantil
-  - ClanTV
-  - RTVE
-  - Generación Dopamina
-  - Adicción Digital
----
-
 ![YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/images/youtube-destrona-disney-rey-medios-digital.jpg)
 
 El imperio de la televisión tradicional infantil se desmorona, arrastrado por la omnipresencia de YouTube en los hogares españoles. Un 64% de los niños de entre 2 y 5 años ya están enganchados a la plataforma, lo que pone en jaque el futuro del entretenimiento infantil.
@@ -38,7 +21,7 @@ El imperio de la televisión tradicional infantil se desmorona, arrastrado por l
 
 ## YouTube Contra Disney+: La Batalla Por la Atención Infantil
 
-Disney+ ha sido considerado durante mucho tiempo el líder del contenido infantil premium en España, incluso cerrando Disney Channel, pero el contenido gratuito y de fácil acceso de YouTube ha capturado a la mayoría de los usuarios infantiles. Andrea Santamaría, responsable de acciones comerciales de talentos infantiles en 2btube, afirma que el 64% de los niños entre 2 y 5 años utilizan YouTube. ¿Es esto una victoria pírrica para la plataforma de Google, o un cambio profundo en el consumo de medios por parte de los más jóvenes?
+Disney+ ha sido considerado durante mucho tiempo el líder del contenido infantil premium en España, incluso cerrando Disney Channel, pero el contenido gratuito y de fácil acceso de YouTube ha capturado a la mayoría de los usuarios infantiles. Andrea Santamaría, responsable de acciones comerciales de talentos infantiles en [2btube](https://www.2btube.com/), afirma que el 64% de los niños entre 2 y 5 años utilizan YouTube. Esto supone una victoria pírrica para la plataforma de Google y un cambio profundo en el consumo de medios de los más jóvenes.
 
 La desaparición de Disney Channel en España, y su migración a Disney+, ilustra este cambio de paradigma. La estrategia de Disney era clara: consolidar su contenido bajo una plataforma de suscripción única. Sin embargo, esta decisión ignora la accesibilidad y el atractivo inmediato de YouTube, donde una búsqueda rápida proporciona una avalancha de vídeos, a menudo sin coste alguno. Este factor, sumado a la ubicuidad de los móviles y tablets en manos de los niños, ha creado una situación ideal para la hegemonía de YouTube.
 
@@ -64,7 +47,7 @@ Mientras RTVE lanza canales digitales como másCLAN, la industria ignora en gran
 
 Los niños descritos como "generación dopamina" están dominados por algoritmos, y buscan gratificación instantánea de plataformas que ofrecen desplazamiento infinito. La capacidad de YouTube para ofrecer una corriente constante de contenido nuevo y emocionante activa los centros de recompensa del cerebro de los niños, creando un ciclo de adicción. Esta dependencia de la estimulación constante puede tener efectos negativos en su capacidad de concentración, su creatividad, y su desarrollo emocional.
 
-RTVE, a través de sus canales infantiles como ClanTV y másCLAN, intenta ofrecer una alternativa más segura y educativa a YouTube. Sin embargo, estos canales se enfrentan a la dura realidad de que su audiencia está disminuyendo rápidamente. En Cataluña, los espectadores únicos diarios promedio de ClanTV cayeron de 258.000 en 2010 a 38.000 en 2025. Esto demuestra que, a pesar de los esfuerzos de RTVE por adaptarse al contexto digital, la plataforma no logra competir con el atractivo irresistible de YouTube.
+RTVE, a través de sus canales infantiles como ClanTV y [másCLAN](https://www.rtve.es/infantil/), intenta ofrecer una alternativa más segura y educativa a YouTube. Sin embargo, estos canales se enfrentan a la dura realidad de que su audiencia está disminuyendo rápidamente. En Cataluña, los espectadores únicos diarios promedio de ClanTV cayeron de 258.000 en 2010 a 38.000 en 2025, según datos recogidos por [El País](https://elpais.com/). Esto demuestra que, a pesar de los esfuerzos de RTVE por adaptarse al contexto digital, la plataforma no logra competir con el atractivo irresistible de YouTube.
 
 La industria, en su conjunto, parece ignorar las posibles consecuencias de esta "generación dopamina". Se presta poca atención a los efectos a largo plazo de la exposición constante a la estimulación digital en el desarrollo de los niños. Mientras tanto, YouTube sigue alimentando esta adicción, sin que exista una regulación efectiva que proteja a los más jóvenes. ¿Estamos permitiendo que una generación entera sea víctima de los algoritmos?
 
@@ -76,7 +59,7 @@ Aunque YouTube ofrece contenido gratuito, el costo oculto incluye la exposición
 
 Los padres han expresado su preocupación sobre los niños que acceden a contenido inapropiado en YouTube. Los riesgos no se limitan a la exposición a contenido explícito o violento. También incluyen la propagación de información errónea, la promoción de comportamientos poco saludables, y la normalización de estereotipos perjudiciales. La naturaleza algorítmica de YouTube significa que los niños pueden ser dirigidos hacia contenido cada vez más extremo, sin que los padres sean conscientes de ello.
 
-Un informe de GfK Dam revela que el 30% de los menores en España acceden a contenido para adultos en Internet. Esta cifra alarmante pone de manifiesto la falta de control efectivo sobre el contenido al que acceden los niños en YouTube. Si bien la plataforma ofrece herramientas de control parental, estas no siempre son suficientes para proteger a los más jóvenes de los peligros online.
+Un informe de [GfK](https://www.gfk.com/es) revela que el 30% de los menores en España acceden a contenido para adultos en Internet. Esta cifra alarmante pone de manifiesto la falta de control efectivo sobre el contenido al que acceden los niños en YouTube. Si bien la plataforma ofrece herramientas de control parental, estas no siempre son suficientes para proteger a los más jóvenes de los peligros online. Para conocer más sobre cómo la tecnología afecta a los más jóvenes, te recomendamos nuestro análisis sobre [los riesgos del contenido viral entre menores](/viral/therians-identidad-online-legal/).
 
 La "libertad" que ofrece YouTube tiene un precio muy alto. Los padres se enfrentan al desafío de equilibrar el deseo de permitir que sus hijos exploren y aprendan online con la necesidad de protegerlos de los riesgos que acechan en la plataforma. ¿Es posible encontrar un punto medio entre la libertad y la seguridad, o estamos condenados a elegir entre uno y otro?
 
