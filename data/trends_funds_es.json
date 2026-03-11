@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-10T07:31:51.265907+00:00",
-  "total_candidates": 15,
+  "scouted_at": "2026-03-11T07:32:49.901881+00:00",
+  "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "NAO Protea European Equities: ¿Es este fondo el secreto para batir al mercado europeo con un Sharpe de 0,88?",
+      "title": "Cómo Pueden Evitar los Inversores la Trampa del Dividendo en 2026",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Indexa Capital baja comisiones: ¿Ahorrarás dinero? Análisis del impacto real de la reducción al 0,530%",
+      "title": "Intermoney refuerza su oferta con un fondo que invierte en los 20 principales unicornios del mundo",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Santander US Equity LEH CAP: ¿Rentabilidad irreal? Desvelamos el fondo líder de marzo con un asombroso 885,55%",
+      "title": "CIMD Intermoney acercará a los inversores españoles los grandes unicornios tecnológicos",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -49,6 +49,31 @@
   },
   "all_headlines": [
     {
+      "title": "Cómo Pueden Evitar los Inversores la Trampa del Dividendo en 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQVE2WE80d0FObkdxaFJoUnV6UGFhd3NZazdDNi1lbU1yTU11RmRVS09ITGsxNndDYXAtX0FFTjNwb0lBdzdEamFCb0FETExGcEtBYlhmTXlGSmRPOE1rODNBUEJBbndkckt4aENEVjZNeHE0NWkxak1wN1NEVGFiY3NJTUMtWDhxa2QyR1FQYmRaS3N6cFRtWkxrN2xMVVZnMFF6LVo2TjZ0U0E?oc=5"
+    },
+    {
+      "title": "Intermoney refuerza su oferta con un fondo que invierte en los 20 principales unicornios del mundo",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkdkMTlRSDFiaW1vZGlRS3N2R05sMmVTSnpjbjF1akhpUmhwSEhHTFFlbnY3YnVsbjRwLVF6TUFGUUI2eUlyak5wWTZSTmZVZVBMSkR0d0VwdVMxWDRLWDN1UnZuRUYzeFI0RnlwNDM5REo2SWNrUG5BVG1ROEJNR0FQM0JKS2ozVFZEbE5Jalc4TXE3U2xEaDd5dzFqa3Utcm9tcENRR0JyTERjdlZmS0tlQS1ZNFE?oc=5"
+    },
+    {
+      "title": "CIMD Intermoney acercará a los inversores españoles los grandes unicornios tecnológicos",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSmhfSXpUVW1RQktlekNGT29fcF9uTmxOUlRSQzF2c09fTUlRQURpbE1FNlNwM2MwRjc2dUR2cFJJS2drdHc0cTZDYWJnWkJZOFliN190LW1TYUR2LTZWQVpTN3RFNmhfNXkyRkg5MzRDbWF2WnBybXVBSDRYNG52b0gyUWZYY3ptZV9wWjhWLUFDXzZrdHZ5VlNVZDYxTWN4WDJxbVNHYzVFNHI2MW5VWG84Z2Q1QjEyakJpQlgtYkpPbUJadURsektfY2ZqTVN3QURfV0RRdERPZw?oc=5"
+    },
+    {
+      "title": "CIMD Intermoney lanzará en España un fondo con acceso a unicornios como Anthropic, Open AI o Canva",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbjhBVXM4TEM1VnllRERYS0xMWEtQNHRYLWJfcEZVZkZ4ZkpmdGlHOWo3U3VfZkdUMmtRNjY0b2sxQmZuN1EtUkRpQTB6eldETm9kSEJXaEdaUXI3YmlRd2xub1czWWJPVXF5N0hQVjF2U01abHNQdHo1M2ZTU1dxS3dCeHdYY0ZWTzFISXpUVWtzWHpGT0xPa3pLamthX1lpS3NRcUhWWnIyTHhtcFNzUjhNd1IwQjJXOFA5SU84WU11d280ZW90NjVvMERwMmd5eVHSAdIBQVVfeXFMTW44QVVzOExDNVZ5ZUREWEtMTFhLUDR0WC1iX3BGVWZGeGZKZnRpRzlqN1N1X2ZHVDJrUTY2NG9rMUJmbjdRLVJEaUEwenpXRE5vZEhCV2hHWlFyN2JpUXdsbm9XM1liT1VxeTdIUFYxdlNNWmxzUHR6NTNmU1NXcUt3Qnh3WGNGVk8xSEl6VFVrc1h6Rk9MT2t6S2prYV9ZaUtzUXFIVlpyMkx4bXBTc1I4TXdSMEIyVzhQOUlPOFlNdXdvNGVvdDY1bzBEcDJneXlR?oc=5"
+    },
+    {
+      "title": "Economía.- CIMD Intermoney distribuirá un fondo en España que ofrece acceso a empresas como Anthropic, Open AI o Canva",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMXpBdjRSeHhBblRGN2hVbmNWeDdqSXpCSHBNQlUtSFF0ZUZ1XzQteDNHSS1SZi16TFdNNDdpd092ZHRjeHNtTHE5MXBxdzlkX0d3QXdHYllITTh1aEV4UkwzSnhUOVhrSnRCUFhOM0Y1dkg1cGVaQktjRUIwYVh4RGRJeE5YdjVnSTVSZ2p5cVBCMEJSOFdjVWwtOHRrNjJqR3Q0V2t4cVc4bnc4cUp6TGtCRWllUjBlU1lBN1Z6VHB5Rjd4YXZScnA1MmZYU1JmVHRJUWVNeTNhUktUeS1DdWhxVzF3SWY0WEhqVW1VNFFRTl9Ka0gwZ0MwV1RSc053VjE1Zlo4b9IBjAJBVV95cUxPcnp0enpxTjd2T296WmpCUTM3OVNFU1pCS0hCWjRjM3lCazE1SWZKSTVVMno1REw4d1JjTjV4aDFzUUZ2bWFuQmpnWUs3VHJ5TWtINHZDMVdpdF9qdVFGQXYyaFZqZTJCYlF5T0dnWEVHYXd5RlZjeENTbEFpY2R0UDdpYzRtMDc0ZWR4Q1d3c25xZVBvNjZYR3BzV2xtMlNQSFo4a2x6MXhxODhRckFpX09zWU9JdTlLdW0xWl9zRk1vbWdwNF85aWlXUVRIZ1JodFFILTNDM2hDaGF1bnFuYXVtSEw4cWFGQloxOXFjTTVmcHhUUEVUNEdaelk0RHRwQ1BjR1Z2QmZ1ZXJl?oc=5"
+    },
+    {
       "title": "10 Acciones que los Mejores Gestores Americanos Han Estado Vendiendo Recientemente",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdHkwLWRPTUVCbzJFMXZGMHRjYnBwd24wVzdUMnd4Uld3TDh3UG5uLUxZMWJ0NjFxbEhjZ2hvTm00WHhKdjc5YkNWVUJPYUVpNUFJbDEzc2JfZHFXWnhTSjhQNjJ3b3Vfc091cS1ZWV9yRVd1bjZGMk5kY1ZuaDZVdTAtc2t4VFAtUVFlb0NIZUlaOEEtODhMRVdXYWFabW5jN1RoVXNaQnZ5eUVSQ0Mxam9Cejd3V2l2ZDBUajBIYnRMLWc?oc=5"
@@ -59,9 +84,14 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbENWX3NOYUxpU0dLOGp3SFFxTTA5WEJWM1J5QmZIMDNrWEZ6c0NoTHpMZXNCSGtzSWlUY3RrbDA0d25OOTU0Umk3QmNPYkVaQ21wVzI2bnBpRVV3RXRSVUFEYzBLbExaT3NiWThxM2tNQ1hQc1NjM29HZE9jQkNVazQzVC1tcnQyeW1ramN2V1ZsTHBGYWpRUVVkN3Z1RmMzckxhb0h5eDBDZUt6cWlFbWR5VEwtSnRtY0tNSmNPR2RiaHJp0gGbAUFVX3lxTE9fdFg5NmVSNHJDaE5VQnRIZlRxbEx6UG96bnVqVFdGck5ZRW5pLVVNeVBnU1Rkd2lONGhPdEZOSUtvbjUyNHluYXZVMklrNGhMajlTN0xtRkNSS0lWV3BYeGFVQ0hHNFZGSXpZOGY3NHZlV2x4aGpFZFdGTWx1SG1fdDMtQTRUcmlkMkJmWjdZclNTb2ZCZGh0Wk9B?oc=5"
     },
     {
-      "title": "Las mujeres logran un 3% más de rentabilidad que los hombres en sus inversiones en Trade Republic",
+      "title": "La declaración de la Renta 2025-2026 llega con cambios: estas son las novedades",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbExzRnU4YmprLVJfMEt2OGFmaWROUk9ROFRuUmxURWRHWG5qOWlEbkdleUZzOFNXeEVSUnR3bE95TXdncVUzc01Za3cwOWMtcUZFYV9yNGt1ZXNzNUo0Z2JuaWwzQ2RyRWZGYUtpVGFvdXNOMktOX3hOR1ZDalJKWTlRYnJtc3AxbjdsWWRmMVVmWXNULUxHetIBngFBVV95cUxNaFE4RUMzU1F3R21ZaTZIUDgxLXZlZFBQQU1sQURuTldVUmYyWjNJRDExTUgtZk5TdjNSSGJVRlM3WXNsWXJZT21IYVdCTHlXWnByUG9OTmxsN19SdDZwQW9scUIxcEk2X3daX3UtVzhpR1RoZ0VjRHFub2RmWVFWaG04YkQtVVNjdlY2TkVUdWFXdmpvYzVsYUlJN21jZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd3VIR2dDVVBZZjh1dkRnVzdXcW1JaElCeGpVamQ2UDIzOGlOLVF3VHhfTGVQRVJXZVNranpyVjNveHg2cVJmNVBfNjBoZTVrVXhHMDM3S2tUakhJRWZIcnpBX1lvaUpFRS1LOG9NbGhxX3Nlb3lXVmE2WmJETjVKYS1hbTAyX2Y4eklWSmpXX2g5QThuVEZSeFV4Rkg0ZWx4MTdyRjFHMUtYY3RUeVhEX19pSkc1bWJDTWdRY01DSExzWXg4ZFVyR0JNeFc?oc=5"
+    },
+    {
+      "title": "ING o Renta 4 Banco: ¿qué bróker elegir para invertir en acciones y ETFs? Comparativa",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNjBFS3Z2ckdSUi1hbGxmMTJ4Yy1MUm9QdEVja1dmUkxtTHU2UW5MWmpfNGpDWXEybTJFS19MZ2VoaTZaR0ZBQ1puQ2o0TmVXRUlLRnIzV2h2aGlpT3hsQWRieFZ5OTM3TWlVTjN3RlVuTk1aczRpRnRteGpVQWRmcDVGWGhqSGZhNnB2MURVMHZZNW9xczNkcnIwcWZoNU5Gc18zNnVxUHlOLXZPS1NUZzgwSEVrYkRGRUxueGN4eExlVzdSVnZpR1B5N0JvckE3?oc=5"
     },
     {
       "title": "Las mujeres en Trade Republic obtienen, de media, un 3% más de rentabilidad que los hombres",
@@ -69,59 +99,34 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOGNsMVVtLW1LRGRPNXFNOThoWjVLWGRWQ0FfVkVIZGgwejFaR3NpSllFaDNQY0pWdGdLTnZpRFJGbHVrWDlFeEozXzEzUUFvVkY1TXZuV0hKN0k2eFc1Tl9ZNkhXdng4akpoOFJQZHIxX3lLYmQwNXZnMFhZOVR2bi1ZbmtSSndZbXpQcFJkLXFwaEFQTmQ2MFpiRkM3bVhu0gGgAUFVX3lxTE44Y2wxVW0tbUtEZE81cU05OGhaNUtYZFZDQV9WRUhkaDB6MVpHc2lKWUVoM1BjSlZ0Z0tOdmlEUkZsdWtYOUV4SjNfMTNRQW9WRjVNdm5XSEo3STZ4VzVOX1k2SFd2eDhqSmg4UlBkcjFfeUtiZDA1dmcwWFk5VHZuLVlua1JKd1ltelBwUmQtcXBoQVBOZDYwWmJGQzdtWG4?oc=5"
     },
     {
+      "title": "Cuenta Remunerada Openbank: opiniones y análisis (2026)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbjZydUM1REM3ZnhxTlZ4OTlmckZ3N2M0b2J2WW0yaXQwU0lkanpHcUlNQmhGTTFwTkxocmNaQklVX3FMT1JYNGFFdnFBUjVkbmRzVXRRdXpEYVI4VFQ2Uk8xQUMtSFZlb0J6X3ZOMzJjdjRybUFxbVFqWGl5WmljenVQUFBDOFRmRVQ1cGlSNjl6bGZ1T2NvTWhaTDV4dUo1UF9Ga29rYXRtS0hDSTNEQUhqSVhCRWc?oc=5"
+    },
+    {
+      "title": "¿Por qué Podrían Seguir Subiendo las Acciones Japonesas?",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274373/¿por-qué-podrían-seguir-subiendo-las-acciones-japonesas.aspx"
+    },
+    {
+      "title": "3 Acciones USA de Dividendos para Marzo de 2026",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274365/3-acciones-usa-de-dividendos-para-marzo-de-2026.aspx"
+    },
+    {
+      "title": "Cómo Pueden Evitar los Inversores la Trampa del Dividendo en 2026",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274360/cómo-pueden-evitar-los-inversores-la-trampa-del-dividendo-en-2026.aspx"
+    },
+    {
+      "title": "¿Cómo lo Han Hecho los Mayores ETFs en Febrero de 2026?",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274344/¿cómo-lo-han-hecho-los-mayores-etfs-en-febrero-de-2026.aspx"
+    },
+    {
       "title": "10 Acciones que los Mejores Gestores Americanos Han Estado Vendiendo Recientemente",
       "source": "rss_morningstar_es",
       "url": "https://www.morningstar.es/es/news/274314/10-acciones-que-los-mejores-gestores-americanos-han-estado-vendiendo-recientemente.aspx"
-    },
-    {
-      "title": "Los ETFs Menos Rentables de Febrero 2026",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274300/los-etfs-menos-rentables-de-febrero-2026.aspx"
-    },
-    {
-      "title": "Dónde Invertir mientras la Guerra con Irán afecta a las Bolsas",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274290/dónde-invertir-mientras-la-guerra-con-irán-afecta-a-las-bolsas.aspx"
-    },
-    {
-      "title": "¿Qué Implica la Guerra con Irán para la Inflación Europea y los Recortes de Tipos del BCE?",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274272/¿qué-implica-la-guerra-con-irán-para-la-inflación-europea-y-los-recortes-de-tipos-del-bce.aspx"
-    },
-    {
-      "title": "Rebajamos la Ventaja Competitiva de Seis Empresas USA por la IA",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274266/rebajamos-la-ventaja-competitiva-de-seis-empresas-usa-por-la-ia.aspx"
-    },
-    {
-      "title": "**Santander US Equity LEH CAP lidera el ranking de fondos en marzo 2026 con una rentabilidad del 885,55%**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Indexa Capital rebaja las comisiones de gestión de sus carteras de fondos hasta el 0,530% anual a partir del 1 de enero de 2026, generando un ahorro total de 260.000 euros para sus clientes**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**El Tesoro Público eleva la rentabilidad de las Letras a 12 meses hasta el 2,137% en la subasta de marzo, con una demanda que supera los 7.192 millones de euros**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**NAO Protea European Equities, fondo del mes de marzo 2026, alcanza una rentabilidad anualizada a 3 años del 11,23% con un Ratio Sharpe de 0,88**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**El ETF iShares Core S&P 500 UCITS (Acc) sube un 0,14% en enero, situándose en el percentil 46 de su categoría**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**El Plan Ibercaja de Pensiones Sostenible y Solidario RVM mantiene un 64.95% de su cartera en Renta Variable Total, con un 20.33% invertido en el sector tecnológico**",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }
