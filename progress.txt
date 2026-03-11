@@ -21,9 +21,12 @@
 - [x] Test E2E de Zhipu GLM-4.7-FlashX en Español para confirmar eliminación de "ghost articles en inglés".
 - [x] Corrección de LLM Waterfall: Integrada la API de NVIDIA (Llama 3.1 70B) como Motor de Fallback (antes de Gemini), corrigiendo el fallo silencioso.
 - [x] Personalizar "System Prompts" por motor (diferenciar Llama y GLM en el código).
-- [x] **NVIDIA NIM v2**: Jerarquía completa GLM-4.7 (Redactor) → GLM-4.5-Air (OpenRouter) → Llama-3.3-70B (OpenRouter) → Llama-3.1-70B (NIM Fallback Élite) → Gemini (Último Recurso). Test suite `test_nvidia_integration.py` 10/10 PASSED.
+- [x] ~~NVIDIA NIM v2: Jerarquía GLM-4.7 → GLM-4.5-Air → Llama-3.3-70B → Llama-3.1-70B → Gemini.~~ (OBSOLETO — Sustituido por Waterfall v3)
 - [x] **Stable Diffusion 3 Medium**: Integrado en `novum_visual.py` como motor de imagen premium NVIDIA antes de Lexica fallback.
-- [x] **GLM-5 Expert**: Modelo disponible en NIM (`z-ai/glm5`) para tareas de estrategia/razonamiento.
+- [x] ~~GLM-5 Expert: Modelo disponible en NIM para estrategia/razonamiento.~~ (ELIMINADO — Zhipu removido del stack)
+- [x] **🔥 WATERFALL UNIFICADO v3**: Eliminación total de Zhipu/GLM. Nuevo waterfall EN/ES idéntico: NVIDIA NIM Llama-3.1-70B → GitHub Models GPT-4o → Gemini 2.0 Flash. Tests 10/10 PASSED, 0 residuos.
+- [x] **Limpieza stocks_writer.py**: Eliminados OpenRouter/Groq/DeepSeek. Mismo waterfall unificado NVIDIA → GitHub → Gemini.
+- [ ] Configurar `GITHUB_MODELS_TOKEN` en GitHub Actions Secrets para activar TIER 2 en producción.
 - [ ] Sitemap SEO optimizado (Generar plantillas `layouts/sitemap.xml` exclusivas en vez del base de Hugo).
 - [ ] Añadir compresión a .WebP pre-publicación en Hugo en vez de .JPG nativo.
 

@@ -1,9 +1,9 @@
 {
-  "component": "nvidia_nim_integration",
-  "timestamp": "2026-03-11 19:24:38",
+  "component": "unified_waterfall_v3",
+  "timestamp": "2026-03-11 19:36:19",
   "passed": 10,
   "failed": 0,
-  "skipped": 0,
+  "skipped": 2,
   "details": [
     {
       "test": "NVIDIA_API_KEY Present",
@@ -11,49 +11,59 @@
       "message": "Key starts with: nvapi-MjjK..."
     },
     {
-      "test": "NVIDIA NIM Connection",
-      "status": "passed",
-      "message": "Response: NVIDIA_NIM_OK"
+      "test": "GITHUB_MODELS_TOKEN Present",
+      "status": "skipped",
+      "message": "GITHUB_MODELS_TOKEN not set — TIER 2 will be skipped in production"
     },
     {
-      "test": "GLM-4.7 Writer",
+      "test": "TIER 1: NVIDIA EN",
       "status": "passed",
-      "message": "161 words generated (connectivity OK)"
+      "message": "55 words"
     },
     {
-      "test": "GLM-5 Expert",
+      "test": "TIER 1: NVIDIA ES",
       "status": "passed",
-      "message": "Outline generated: 1193 chars"
+      "message": "57 words"
     },
     {
-      "test": "Llama-3.1-70B Fallback",
-      "status": "passed",
-      "message": "183 words"
+      "test": "TIER 2: GitHub Models GPT-4o",
+      "status": "skipped",
+      "message": "No GITHUB_MODELS_TOKEN"
     },
     {
-      "test": "_call_nvidia_nim Helper",
+      "test": "_call_unified_engine Exists",
       "status": "passed",
-      "message": "Response: The future of renewable energy is poised for significant gro... (1039 chars)"
+      "message": "Function imported successfully"
+    },
+    {
+      "test": "No Zhipu/GLM Residue (main.py)",
+      "status": "passed",
+      "message": "All 9 banned patterns absent"
+    },
+    {
+      "test": "No Legacy Residue (stocks_writer.py)",
+      "status": "passed",
+      "message": "All 7 banned patterns absent"
+    },
+    {
+      "test": "Waterfall Structure",
+      "status": "passed",
+      "message": "All 8 structure checks pass"
+    },
+    {
+      "test": "Waterfall Tier Order",
+      "status": "passed",
+      "message": "TIER 1 → TIER 2 → TIER 3 in correct order"
+    },
+    {
+      "test": "Unified Both Languages",
+      "status": "passed",
+      "message": "_call_unified_engine used 3x, no separate ES/EN blocks"
     },
     {
       "test": "SD3 Text-to-Image",
       "status": "passed",
-      "message": "Image generated successfully (HTTP 200)"
-    },
-    {
-      "test": "Calibration Tags",
-      "status": "passed",
-      "message": "All 6 tags present in main.py"
-    },
-    {
-      "test": "Waterfall Tier Order (EN)",
-      "status": "passed",
-      "message": "All TIERs in correct sequential order"
-    },
-    {
-      "test": "Waterfall Tier Order (ES)",
-      "status": "passed",
-      "message": "All ES TIERs in correct sequential order"
+      "message": "Image generated (HTTP 200)"
     }
   ]
 }
