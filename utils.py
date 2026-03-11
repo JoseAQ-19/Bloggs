@@ -56,3 +56,44 @@ class ImageManager:
                 return ""
         except Exception:
             return ""
+
+import glob
+class LinkManager:
+    @staticmethod
+    def get_latest_internal_links(lang="es", limit=5):
+        """Obtiene los últimos artículos publicados para enlazado interno."""
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        search_pattern = os.path.join(base_dir, "content", lang, "**", "*.md")
+        files = glob.glob(search_pattern, recursive=True)
+        files.sort(key=os.path.getmtime, reverse=True)
+        
+        links = []
+        for fpath in files:
+            if len(links) >= limit:
+                break
+            if os.path.basename(fpath).startswith("_index"): 
+                continue
+                
+            title = ""
+            slug = ""
+            try:
+                with open(fpath, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                    m = re.search(r'^titulo:\s*"?([^"\n]+)"?', content, re.MULTILINE)
+                    if m: title = m.group(1).strip()
+                    m_slug = re.search(r'^slug:\s*"?([^"\n]+)"?', content, re.MULTILINE)
+                    if m_slug: slug = m_slug.group(1).strip()
+                    else: slug = os.path.basename(fpath).replace(".md", "")
+            except Exception:
+                continue
+                
+            if title and slug:
+                rel_path = os.path.relpath(fpath, os.path.join(base_dir, "content", lang))
+                parts = rel_path.replace('\\', '/').split('/')
+                if len(parts) >= 2:
+                    category = parts[0]
+                    links.append({"title": title, "url": f"/{category}/{slug}/"})
+                else:
+                    links.append({"title": title, "url": f"/{slug}/"})
+                    
+        return links

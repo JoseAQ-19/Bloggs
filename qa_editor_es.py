@@ -352,6 +352,16 @@ def _validate_output(edited_text, original_text):
         if phrase in lower_text:
             issues.append(f"Frase vetada encontrada: '{phrase}'")
 
+    # Link presence check (EXTERNAL and INTERNAL)
+    import re
+    has_external_link = bool(re.search(r'\]\(https?://[^\)]+\)', edited_text))
+    has_internal_link = bool(re.search(r'\]\((?!https?://)[^\)]+\)', edited_text))
+    
+    if not has_external_link:
+        issues.append("ERROR CRÍTICO: Falta enlace externo (Outbound Link).")
+    if not has_internal_link:
+        issues.append("ERROR CRÍTICO: Falta enlace interno (Internal Link).")
+
     is_valid = len(issues) == 0
     return is_valid, issues
 

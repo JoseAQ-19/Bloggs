@@ -354,6 +354,16 @@ def _validate_output(edited_text, original_text):
         if phrase in lower_text:
             issues.append(f"Banned phrase found: '{phrase}'")
 
+    # Link presence check (EXTERNAL and INTERNAL)
+    import re
+    has_external_link = bool(re.search(r'\]\(https?://[^\)]+\)', edited_text))
+    has_internal_link = bool(re.search(r'\]\((?!https?://)[^\)]+\)', edited_text))
+    
+    if not has_external_link:
+        issues.append("CRITICAL ERROR: Missing Outbound Link.")
+    if not has_internal_link:
+        issues.append("CRITICAL ERROR: Missing Internal Link.")
+
     is_valid = len(issues) == 0
     return is_valid, issues
 

@@ -29,7 +29,7 @@ import researcher
 import trend_hunter 
 import tools_hunter 
 # Importar Prompts Bilingües
-from utils import SlugManager 
+from utils import SlugManager, LinkManager 
 from novum_visual import get_image 
 import indexing_api
 try:
@@ -1060,11 +1060,25 @@ CRITICAL RULES:
             verified_urls_block = f"""
 
 ### FUENTES VALIDADAS DISPONIBLES (SOLO ESTAS URLs)
-Las siguientes URLs han sido PRE-VERIFICADAS y son reales. DEBES usar al menos 3 de ellas como enlaces en el artículo.
+Las siguientes URLs han sido PRE-VERIFICADAS y son reales.
+Debes insertar obligatoriamente estos enlaces como hipervínculos Markdown (ej. [texto](url)) de forma natural en el cuerpo del artículo.
 ESTÁ ABSOLUTAMENTE PROHIBIDO inventar, adivinar o fabricar URLs. Si necesitas un enlace que no está aquí, cita la fuente en texto plano con **negrita**.
 {urls_list}
 """
             print(f"   🔗 [Pre-Hoc] {len(all_urls)} URLs pre-verificadas inyectadas en el prompt")
+
+    # === FIX ENLAZADO INTERNO ===
+    internal_links_block = ""
+    internal_links = LinkManager.get_latest_internal_links(lang=lang, limit=5)
+    if internal_links:
+        links_str = "\n".join([f"  - [{l['title']}]({l['url']})" for l in internal_links])
+        internal_links_block = f"""
+
+### 🔗 ENLAZADO INTERNO OBLIGATORIO (RETENCIÓN DE USUARIO)
+Debes incluir al menos 1 enlace interno contextual hacia uno de estos artículos previos del blog NovumWorld.
+Inyecta el enlace de forma natural en el texto usando el formato Markdown exacto proporcionado a continuación:
+{links_str}
+"""
 
     prompt = (
         f"{prompt_persona}\n"
@@ -1076,6 +1090,7 @@ ESTÁ ABSOLUTAMENTE PROHIBIDO inventar, adivinar o fabricar URLs. Si necesitas u
         f"{outline_section}"
         f"ORIGINAL RESEARCH DATA (use as factual foundation — cite sources with links):\n{research_text}\n"
         f"{verified_urls_block}"
+        f"{internal_links_block}"
         f"TEMPLATE: {structure}\n"
         f"LANG: {lang}"
     )

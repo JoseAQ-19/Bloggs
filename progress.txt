@@ -99,3 +99,9 @@
 - [x] Acción 2.1: Actualización de `_call_nvidia_nim` (NVIDIA) en `main.py` con `force_json=True` y `response_format={"type": "json_object"}`.
 - [x] Acción 2.2: Refactorización integral de generación de títulos en `stocks_writer.py` para devolver un JSON estricto (`{"candidates": [], "best": ""}`).
 - [x] Acción 3: Creación de test suite `test_json_cache.py` para verificar deduplicación de hits de caché y parsing JSON estricto. (10/10 PASSED).
+
+## 🕷️ /gsd-debug & Fix: Crisis de Enlazado SEO (2026-03-11)
+- [x] **Causa Raíz Análisis:** El research proveía URLs, pero las instrucciones en el prompt principal no forzaban hipervínculos markdown asimilados, y el Quality Gate no lo comprobaba, provocando omisión pasiva del LLM en los outputs.
+- [x] **Solución 1: Enlazado Externo:** Modificado bloque `verified_urls_block` en `main.py` y `stocks_writer.py` para imponer el formato estricto: `Debes insertar obligatoriamente estos enlaces como hipervínculos Markdown...`
+- [x] **Solución 2: Enlazado Interno:** Se ha creado `LinkManager.get_latest_internal_links()` en `utils.py` que escanea dinámicamente `/content/.../*.md` y obtiene los 5 posts más recientes. Los Writers de stocks e IA/tech inyectan obligatoriamente al menos uno.
+- [x] **Solución 3: Quality Gate (QA) Estricto:** `_validate_output` actualizado en `qa_editor_es.py` y `qa_editor_en.py`. Si falta `](http` (Externo) o `](/` (Interno), el artículo registra error crítico.

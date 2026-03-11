@@ -43,6 +43,8 @@ from stocks_instructions import (
     PROMPTS, DISCLAIMERS, ARTICLE_STRUCTURE,
     NICHE_CONFIG, FRONTMATTER_TEMPLATE
 )
+from utils import SlugManager, LinkManager
+
 
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 
@@ -335,11 +337,24 @@ def write_fund_article(scout_data: Dict[str, Any], lang: str = "es") -> Optional
         verified_urls_block = f"""
 
 ### FUENTES VALIDADAS DISPONIBLES (SOLO ESTAS URLs)
-Las siguientes URLs han sido PRE-VERIFICADAS y son reales. DEBES usar al menos 3 de ellas como enlaces en el artículo.
+Las siguientes URLs han sido PRE-VERIFICADAS y son reales.
+Debes insertar obligatoriamente estos enlaces como hipervínculos Markdown (ej. [texto](url)) de forma natural en el cuerpo del artículo.
 ESTÁ ABSOLUTAMENTE PROHIBIDO inventar, adivinar o fabricar URLs. Si necesitas un enlace que no está aquí, cita la fuente en texto plano con **negrita**.
 {urls_list}
 """
         print(f"   🔗 [Writer] {len(verified_urls)} URLs pre-verificadas inyectadas")
+
+    internal_links_block = ""
+    internal_links = LinkManager.get_latest_internal_links(lang=lang, limit=5)
+    if internal_links:
+        links_str = "\n".join([f"  - [{l['title']}]({l['url']})" for l in internal_links])
+        internal_links_block = f"""
+
+### 🔗 ENLAZADO INTERNO OBLIGATORIO (RETENCIÓN DE USUARIO)
+Debes incluir al menos 1 enlace interno contextual hacia uno de estos artículos previos del blog NovumWorld.
+Inyecta el enlace de forma natural en el texto usando el formato Markdown exacto proporcionado a continuación:
+{links_str}
+"""
 
     research_text = f"""HEADLINES FINANCIEROS RECIENTES:
 {headlines_ctx}
@@ -347,7 +362,8 @@ ESTÁ ABSOLUTAMENTE PROHIBIDO inventar, adivinar o fabricar URLs. Si necesitas u
 ESTILOS DE COMPETIDORES:
 {competitor_ctx}
 {notebooklm_ctx}
-{verified_urls_block}"""
+{verified_urls_block}
+{internal_links_block}"""
 
     # Generar título viral financiero
     lang_name = "ESPAÑOL" if lang == "es" else "ENGLISH"
