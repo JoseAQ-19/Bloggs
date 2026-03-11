@@ -558,21 +558,29 @@ def _get_internal_links(category, lang, current_slug=""):
     return links[:10]  # Max 10 candidates
 
 
-def _call_nvidia_nim(prompt_text, model_id, calibration_tag, nvidia_key, max_tokens=4096):
+def _call_nvidia_nim(prompt_text, model_id, calibration_tag, nvidia_key, max_tokens=4096, force_json=False):
     """
     Helper genérico para llamadas a NVIDIA NIM API.
     Retorna (result_text, success_bool).
+    Si force_json=True, fuerza respuesta JSON estricta.
     """
     try:
         nvidia_client = OpenAI(
             api_key=nvidia_key,
             base_url="https://integrate.api.nvidia.com/v1"
         )
+        extra_kwargs = {}
+        system_msg = calibration_tag
+        if force_json:
+            extra_kwargs["response_format"] = {"type": "json_object"}
+            system_msg += "\n\n[JSON MODE]: Debes devolver ÚNICAMENTE un objeto JSON válido con la estructura solicitada. Sin formato markdown, sin texto adicional, sin ```json. Solo el JSON puro."
+        
         resp = nvidia_client.chat.completions.create(
             model=model_id,
-            messages=[{"role": "user", "content": prompt_text + calibration_tag}],
+            messages=[{"role": "user", "content": prompt_text + system_msg}],
             temperature=0.85,
-            max_tokens=max_tokens
+            max_tokens=max_tokens,
+            **extra_kwargs
         )
         result = resp.choices[0].message.content.strip()
         return result, bool(result and len(result) > 200)

@@ -90,3 +90,12 @@
 - [x] D1: `qa_orchestrator.py` — CLI: `--lang es|en|all --category {niche}` ✅
 - [ ] D2: Integrar en workflows Writers existentes (step extra pre-commit, Opción A)
 - [x] D3: Actualizar progress.txt con resultados
+
+## 🚀 Mejora Arquitectónica: Caché Agresiva & Estandarización JSON (2026-03-11)
+- [x] Acción 1: `api_cache.py` implementado con decorador `@cached_api_call(ttl_hours=12)` persistiendo en disco.
+- [x] Acción 1.1: Decorador aplicado a `fetch_hackernews`, `fetch_google_news`, y `fetch_exa_news` en `trend_scout.py` y `trend_hunter.py`.
+- [x] Acción 1.2: Decorador aplicado a fuentes RSS financieras en `stocks_scout.py`.
+- [x] Acción 2: Estandarización JSON usando `response_mime_type="application/json"` en Gemini para `trend_hunter.py` (títulos extraíbles y long-tail).
+- [x] Acción 2.1: Actualización de `_call_nvidia_nim` (NVIDIA) en `main.py` con `force_json=True` y `response_format={"type": "json_object"}`.
+- [x] Acción 2.2: Refactorización integral de generación de títulos en `stocks_writer.py` para devolver un JSON estricto (`{"candidates": [], "best": ""}`).
+- [x] Acción 3: Creación de test suite `test_json_cache.py` para verificar deduplicación de hits de caché y parsing JSON estricto. (10/10 PASSED).

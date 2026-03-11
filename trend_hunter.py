@@ -1,4 +1,5 @@
 import os
+import json
 import random
 import requests
 import xml.etree.ElementTree as ET
@@ -6,6 +7,7 @@ from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 from exa_py import Exa
+from api_cache import cached_api_call
 
 load_dotenv()
 GEMINI_KEY = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
@@ -116,6 +118,7 @@ OUTPUT FORMAT: PASS|reason or FAIL|reason
 # GOOGLE NEWS RSS: Fuente de noticias reales en tiempo real
 # ============================================================
 
+@cached_api_call(ttl_hours=12)
 def _get_google_news_headlines(query, lang="es", limit=5):
     """Busca titulares reales de Google News RSS."""
     try:
@@ -296,12 +299,16 @@ RULES:
 5. Do NOT pick tutorials, guides, or how-to topics
 6. PREFER time-sensitive, THIS WEEK news over evergreen topics
 
-OUTPUT ONLY THE FINAL TITLE. No quotes, no explanation, no numbering.
-"""
+Return ONLY a valid JSON object: {{ "title": "your rewritten title here" }}
+No markdown, no explanation, no quotes around the JSON."""
         
         try:
-            resp = client.models.generate_content(model='gemini-2.0-flash', contents=selector_prompt)
-            topic = resp.text.strip().replace('"', '').split('\n')[0]
+            resp = client.models.generate_content(
+                model='gemini-2.0-flash', contents=selector_prompt,
+                config=types.GenerateContentConfig(response_mime_type="application/json")
+            )
+            data = json.loads(resp.text.strip())
+            topic = data.get("title", "").strip()
             if topic and len(topic.split()) >= 5:
                 # Quality gate
                 if _quality_gate(topic, category):
@@ -332,12 +339,7 @@ Do NOT generate:
 - Generic guides about YouTube tools
 - Evergreen content that could be written any time
 
-EXAMPLES:
-- "MrBeast's $1M Squid Game Elimination: Genius Marketing or Exploitation?"
-- "Ibai Llanos se enfrenta a la polémica de las casas de apuestas"
-- "Why Every Gaming YouTuber Is Playing Poppy Playtime 5 Right Now"
-
-OUTPUT ONLY THE TITLE. English language. No quotes."""
+Return ONLY a valid JSON object: { "title": "your title here" }"""
         else:
             prompt = """Generate 1 SPECIFIC, TIME-SENSITIVE blog post title about a viral/trending cultural moment.
 
@@ -351,11 +353,15 @@ Do NOT generate:
 - Generic think pieces
 - Technology tutorials
 
-OUTPUT ONLY THE TITLE. English language. No quotes."""
+Return ONLY a valid JSON object: { "title": "your title here" }"""
         
         try:
-            resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
-            return resp.text.strip().replace('"', '').split('\n')[0]
+            resp = client.models.generate_content(
+                model='gemini-2.0-flash', contents=prompt,
+                config=types.GenerateContentConfig(response_mime_type="application/json")
+            )
+            data = json.loads(resp.text.strip())
+            return data.get("title", f"The biggest {category} controversy no one is talking about").strip()
         except:
             return f"The biggest {category} controversy no one is talking about"
     
@@ -430,18 +436,16 @@ RULES:
 4. FORMAT: Clickable but honest. Must promise a unique insight.
 5. LANGUAGE: English (Standard).
 
-EXAMPLES OF HIGH-QUALITY TITLES:
-- "How to fix connection timeout error in Metamask when using Ledger on Arbitrum"
-- "Claude 3.5 Sonnet vs GPT-4o: Which hallucinates less for Python coding?"
-- "The hidden danger of using Creatine without tracking kidney markers"
-- "Why 73% of n8n automations fail in production and how to fix them"
-
-OUTPUT ONLY THE TITLE. NO QUOTES. NO NUMBERING.
-"""
+Return ONLY a valid JSON object: {{ "title": "your title here" }}
+No markdown, no explanation."""
         
         try:
-            resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
-            title = resp.text.strip().replace('"', '').split('\n')[0]
+            resp = client.models.generate_content(
+                model='gemini-2.0-flash', contents=prompt,
+                config=types.GenerateContentConfig(response_mime_type="application/json")
+            )
+            data = json.loads(resp.text.strip())
+            title = data.get("title", "").strip()
             if len(title.split()) < 6:
                 return f"Advanced guide to {seed} and common mistakes in 2026"
             return title

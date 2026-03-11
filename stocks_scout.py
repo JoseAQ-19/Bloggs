@@ -20,6 +20,7 @@ import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from dotenv import load_dotenv
+from api_cache import cached_api_call
 
 load_dotenv()
 
@@ -223,6 +224,7 @@ def _stocks_llm_generate(prompt, force_json=False):
 # FUENTE 1: Google News RSS — Noticias Financieras
 # ============================================================
 
+@cached_api_call(ttl_hours=12)
 def fetch_financial_news(lang="es", limit=8):
     """Busca noticias financieras recientes vía Google News RSS."""
     config = STOCKS_CATEGORY_CONFIG["funds"]
@@ -267,6 +269,7 @@ def fetch_financial_news(lang="es", limit=8):
 # FUENTE 2: RSS de Competidores Financieros
 # ============================================================
 
+@cached_api_call(ttl_hours=12)
 def fetch_competitor_rss(lang="es", limit=5):
     """Busca artículos recientes de los RSS de competidores (Morningstar, etc.)."""
     competitors = COMPETITORS.get(lang, {})

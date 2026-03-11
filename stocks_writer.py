@@ -366,34 +366,32 @@ RULES:
 - Include data comparisons: "X vs Y", "X supera/beats Y by Z%"
 - Maximum 15 words. Minimum 8 words.
 
-OUTPUT FORMAT (exactly 6 lines):
-1. [title 1]
-2. [title 2]
-3. [title 3]
-4. [title 4]
-5. [title 5]
-BEST: [paste the single best title here]
-
-OUTPUT ONLY THESE 6 LINES."""
+You MUST return ONLY a valid JSON object with this exact structure:
+{{
+  "candidates": ["title 1", "title 2", "title 3", "title 4", "title 5"],
+  "best": "the single best title from the list above"
+}}
+Return ONLY the JSON object. No markdown, no explanations."""
 
     viral_title = tema  # fallback
     try:
         if gemini_client:
             title_resp = gemini_client.models.generate_content(
-                model='gemini-2.0-flash', contents=title_prompt
+                model='gemini-2.0-flash', contents=title_prompt,
+                config=types.GenerateContentConfig(response_mime_type="application/json")
             )
-            for line in title_resp.text.strip().split('\n'):
-                if line.strip().upper().startswith('BEST:'):
-                    candidate = line.split(':', 1)[1].strip().strip('"').strip("'")
-                    if len(candidate.split()) >= 4:
-                        viral_title = candidate
+            title_json = json.loads(title_resp.text.strip())
+            best = title_json.get("best", "")
+            if best and len(best.split()) >= 4:
+                viral_title = best.strip('"').strip("'")
+            elif title_json.get("candidates"):
+                # Fallback: usar el último candidato
+                for c in reversed(title_json["candidates"]):
+                    if c and len(c.split()) >= 4:
+                        viral_title = c.strip('"').strip("'")
                         break
-            if viral_title == tema:
-                for line in reversed(title_resp.text.strip().split('\n')):
-                    clean = re.sub(r'^\d+\.\s*', '', line.strip()).strip('"').strip("'")
-                    if len(clean.split()) >= 4 and not clean.upper().startswith('BEST'):
-                        viral_title = clean
-                        break
+    except (json.JSONDecodeError, KeyError, TypeError) as e:
+        print(f"   ⚠️ Error parseando JSON de título: {e}. Usando fallback...")
     except Exception as e:
         print(f"   ⚠️ Error generando título: {e}")
 

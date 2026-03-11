@@ -22,6 +22,7 @@ import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from typing import List, Dict, Any, Optional
+from api_cache import cached_api_call
 
 from dotenv import load_dotenv
 
@@ -195,6 +196,7 @@ def _llm_generate(prompt: str, force_json: bool = False) -> Optional[str]:
 # FUENTES DE DATOS (Scrapers)
 # ============================================================
 
+@cached_api_call(ttl_hours=12)
 def fetch_hackernews(tags: List[str], limit: int = 5) -> List[Dict]:
     if not tags: return []
     headlines = []
@@ -210,6 +212,7 @@ def fetch_hackernews(tags: List[str], limit: int = 5) -> List[Dict]:
     except Exception as e: print(f"   ⚠️ [HN] Error: {e}")
     return headlines
 
+@cached_api_call(ttl_hours=12)
 def fetch_google_news(query: str, lang: str = "es", limit: int = 5) -> List[Dict]:
     headlines = []
     try:
@@ -223,6 +226,7 @@ def fetch_google_news(query: str, lang: str = "es", limit: int = 5) -> List[Dict
     except Exception as e: print(f"   ⚠️ [GNews] Error: {e}")
     return headlines
 
+@cached_api_call(ttl_hours=12)
 def fetch_exa_news(query: str, domains: List[str], limit: int = 5) -> List[Dict]:
     if not exa or not domains: return []
     headlines = []
