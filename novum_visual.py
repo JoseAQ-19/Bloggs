@@ -18,12 +18,13 @@ PENDULUM_STATE_FILE = os.path.join(BASE_DIR, "data", ".last_image_api.txt")
 
 class NovumVisualEngine:
     """
-    Motor Gráfico V5 — Sistema Péndulo (Together/HF Intercalado Estricto).
+    Motor Gráfico V6 — Sistema Péndulo Triple (NVIDIA/Together/HF Intercalado Estricto).
     
     Arquitectura:
-    - Turno A (par):  Together AI (FLUX.1-schnell)
-    - Turno B (impar): Hugging Face Serverless (FLUX.1-schnell)
-    - Fallback cruzado: si falla el turno asignado, usa la otra API
+    - Turno A: NVIDIA SD3 Medium
+    - Turno B: Together AI (FLUX.1-schnell)
+    - Turno C: Hugging Face Serverless (FLUX.1-schnell)
+    - Fallback cruzado: si falla el turno asignado, usa los otros motores.
     - Red de seguridad: Lexica → Default local
     - NUNCA devuelve URLs externas. Siempre rutas locales /images/...
     """
@@ -56,7 +57,7 @@ class NovumVisualEngine:
         self._call_index = 0
 
     # =========================================================
-    # FASE 1: SISTEMA PÉNDULO (TICK-TOCK)
+    # FASE 1: SISTEMA PÉNDULO (TICK-TOCK-TACK)
     # =========================================================
 
     def _read_pendulum_state(self):
@@ -67,7 +68,7 @@ class NovumVisualEngine:
                     return f.read().strip()
         except Exception:
             pass
-        return "hf"  # Default: last was HF → first call will use Together
+        return "hf"  # Default fallback to make `nvidia` start first
 
     def _write_pendulum_state(self, provider):
         """Escribe qué proveedor acaba de ser usado."""
@@ -80,34 +81,28 @@ class NovumVisualEngine:
 
     def _get_next_provider(self):
         """
-        Determina qué API usar siguiendo el patrón A/B/A/B estricto.
-        
-        - Dentro de la misma ejecución: usa el índice de llamada (_call_index)
-        - Entre ejecuciones: lee el archivo de estado para continuar la alternancia
+        Determina qué API usar siguiendo el patrón A/B/C rotativo. (NVIDIA / TOGETHER / HF)
         """
         last_used = self._read_pendulum_state()
         
-        # El offset base depende de qué se usó por última vez entre ejecuciones.
-        # Si la última ejecución terminó con "together", empezamos con "hf" y viceversa.
-        if last_used == "together":
-            base_offset = 1  # impar = HF primero
-        else:
-            base_offset = 0  # par = Together primero
+        providers = ["nvidia", "together", "hf"]
         
-        effective_index = base_offset + self._call_index
+        try:
+            base_idx = providers.index(last_used)
+        except ValueError:
+            base_idx = -1
+            
+        next_idx = (base_idx + 1 + self._call_index) % len(providers)
         self._call_index += 1
         
-        if effective_index % 2 == 0:
-            return "together"
-        else:
-            return "hf"
+        return providers[next_idx]
 
     # =========================================================
     # ENTRADA PRINCIPAL
     # =========================================================
 
     def generate_and_save(self, prompt, slug, category="ia"):
-        print(f"🎨 [VisualEngine V5] Procesando: {slug}")
+        print(f"🎨 [VisualEngine V6] Procesando: {slug}")
         filename = f"{slug}.jpg"
         filepath = os.path.join(self.STATIC_DIR, filename)
         
@@ -115,28 +110,36 @@ class NovumVisualEngine:
         style = self.AESTHETICS.get(category, self.AESTHETICS["ia"])
         enhanced_prompt = f"{prompt}, {style}, editorial photography, wide angle, --ar 16:9"
 
-        # Determinar turno del péndulo
         provider = self._get_next_provider()
-        print(f"   🔄 Péndulo → Turno: {provider.upper()}")
+        print(f"   🔄 Péndulo (Multi-API) → Turno Asignado: {provider.upper()}")
 
-        # Ejecutar con fallback cruzado
-        if provider == "together":
-            result = self._try_together_then_hf(enhanced_prompt, filepath)
-        else:
-            result = self._try_hf_then_together(enhanced_prompt, filepath)
+        success = False
+        
+        if provider == "nvidia":
+            print("   🟢 [Turno Activo] Intentando NVIDIA SD3 Medium...")
+            success = self._generate_nvidia_sd3(enhanced_prompt, filepath)
+            if not success:
+                print("   ⚠️ NVIDIA SD3 falló. Intentando Together AI...")
+                success = self._try_together_then_hf(enhanced_prompt, filepath)
+        elif provider == "together":
+            print("   🟢 [Turno Activo] Intentando Together AI...")
+            success = self._try_together_then_hf(enhanced_prompt, filepath)
+            if not success:
+                print("   ⚠️ Together/HF fallaron. Intentando NVIDIA SD3...")
+                success = self._generate_nvidia_sd3(enhanced_prompt, filepath)
+        elif provider == "hf":
+            print("   🟢 [Turno Activo] Intentando Hugging Face...")
+            success = self._try_hf_then_together(enhanced_prompt, filepath)
+            if not success:
+                print("   ⚠️ HF/Together fallaron. Intentando NVIDIA SD3...")
+                success = self._generate_nvidia_sd3(enhanced_prompt, filepath)
 
-        if result:
-            self._write_pendulum_state(provider)
-            return f"/images/{filename}"
-
-        # Motor Premium: NVIDIA Stable Diffusion 3 Medium
-        print("   🟢 Ambas APIs fallaron. Intentando NVIDIA SD3 Medium...")
-        if self._generate_nvidia_sd3(enhanced_prompt, filepath):
+        if success:
             self._write_pendulum_state(provider)
             return f"/images/{filename}"
 
         # Red de seguridad: Lexica
-        print("   🔍 NVIDIA SD3 también falló. Intentando Lexica...")
+        print("   🔍 Todas las APIs primarias fallaron. Intentando Lexica...")
         if self._search_lexica(prompt, filepath):
             self._write_pendulum_state(provider)
             return f"/images/{filename}"

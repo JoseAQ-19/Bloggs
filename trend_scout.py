@@ -45,6 +45,7 @@ GEMINI_KEY = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
 EXA_KEY = os.getenv("EXA_API_KEY")
 OPENROUTER_SCOUT_KEY = os.getenv("OPENROUTER_SCOUT_KEY")
 HF_SCOUT_KEY = os.getenv("HF_SCOUT_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 # Inicialización de clientes
 client = genai.Client(api_key=GEMINI_KEY) if GEMINI_KEY else None
@@ -65,7 +66,7 @@ def _llm_generate(prompt: str, force_json: bool = False) -> Optional[str]:
         max_retries = 3
         backoff_seconds = [10, 25, 60]
         for attempt in range(max_retries):
-            print(f"   🧠 [Omega] Intento 1: OpenRouter (Llama 3.3 70B) (intento {attempt+1}/{max_retries})...")
+            print(f"   🧠 [Omega] Intento 1: OpenRouter (Llama 4 Scout) (intento {attempt+1}/{max_retries})...")
             try:
                 headers = {
                     "Authorization": f"Bearer {OPENROUTER_SCOUT_KEY}",
@@ -73,14 +74,14 @@ def _llm_generate(prompt: str, force_json: bool = False) -> Optional[str]:
                     "X-Title": "TrendScout"
                 }
                 payload = {
-                    "model": "meta-llama/llama-3.3-70b-instruct:free",
+                    "model": "meta-llama/llama-4-scout:free",
                     "messages": [{"role": "user", "content": prompt}],
                     "temperature": 0.7,
                     "max_tokens": 1024
                 }
                 if force_json: payload["response_format"] = {"type": "json_object"}
 
-                resp = requests.post("https://openrouter.ai/api/v1/chat/completions", headers=headers, json=payload, timeout=30)
+                resp = requests.post("https://openrouter.ai/api/v1/chat/completions", headers=headers, json=payload, timeout=90)
                 if resp.status_code == 200:
                     text = resp.json()["choices"][0]["message"]["content"].strip()
                     if len(text) > 20: return text
@@ -106,16 +107,16 @@ def _llm_generate(prompt: str, force_json: bool = False) -> Optional[str]:
         max_retries = 3
         backoff_seconds = [10, 25, 60]
         for attempt in range(max_retries):
-            print(f"   🧠 [Omega] Intento 2: HF Serverless (Qwen 2.5 7B) (intento {attempt+1}/{max_retries})...")
+            print(f"   🧠 [Omega] Intento 2: HF Serverless (Qwen3-32B) (intento {attempt+1}/{max_retries})...")
             try:
-                hf_url = "https://router.huggingface.co/models/Qwen/Qwen2.5-7B-Instruct/v1/chat/completions"
+                hf_url = "https://router.huggingface.co/models/Qwen/Qwen3-32B/v1/chat/completions"
                 headers = {"Authorization": f"Bearer {HF_SCOUT_KEY}", "Content-Type": "application/json"}
                 payload = {
-                    "model": "Qwen/Qwen2.5-7B-Instruct",
+                    "model": "Qwen/Qwen3-32B",
                     "messages": [{"role": "user", "content": prompt}],
                     "max_tokens": 1024
                 }
-                resp = requests.post(hf_url, headers=headers, json=payload, timeout=30)
+                resp = requests.post(hf_url, headers=headers, json=payload, timeout=120)
                 if resp.status_code == 200:
                     text = resp.json()["choices"][0]["message"]["content"].strip()
                     return text
@@ -140,9 +141,48 @@ def _llm_generate(prompt: str, force_json: bool = False) -> Optional[str]:
                     print(f"      ⚠️ HF falló: {e}")
                     break
 
-    # ── [3] GEMINI 2.0 FLASH (Fallback Final) ──
+    # ── [3] GROQ (Llama 3.3 70B) ──
+    if GROQ_API_KEY:
+        max_retries = 2
+        backoff_seconds = [5, 15]
+        for attempt in range(max_retries):
+            print(f"   🚀 [Omega] Intento 3: Groq (Llama 3.3 70B) (intento {attempt+1}/{max_retries})...")
+            try:
+                groq_url = "https://api.groq.com/openai/v1/chat/completions"
+                headers = {"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}
+                payload = {
+                    "model": "llama-3.3-70b-versatile",
+                    "messages": [{"role": "user", "content": prompt}],
+                    "temperature": 0.7,
+                    "max_tokens": 1024
+                }
+                if force_json:
+                    payload["response_format"] = {"type": "json_object"}
+                resp = requests.post(groq_url, headers=headers, json=payload, timeout=90)
+                if resp.status_code == 200:
+                    text = resp.json()["choices"][0]["message"]["content"].strip()
+                    if text and len(text) > 20:
+                        return text
+                elif resp.status_code == 429:
+                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 20
+                    print(f"      ⏳ Groq rate-limit (429). Esperando {wait}s...")
+                    time.sleep(wait)
+                else:
+                    print(f"      ⚠️ Groq HTTP {resp.status_code}")
+                    break
+            except Exception as e:
+                error_str = str(e)
+                if "429" in error_str or "rate" in error_str.lower():
+                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 20
+                    print(f"      ⏳ Groq Error 429 (excepción). Esperando {wait}s...")
+                    time.sleep(wait)
+                else:
+                    print(f"      ⚠️ Groq falló: {e}")
+                    break
+
+    # ── [4] GEMINI 2.0 FLASH (Fallback Final) ──
     if client:
-        print("   🚨 [Omega] Intento 3: Gemini 2.0 Flash (Emergencia)...")
+        print("   🚨 [Omega] Intento 4: Gemini 2.0 Flash (Emergencia)...")
         try:
             resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
             if resp.text: return resp.text.strip()
@@ -226,8 +266,30 @@ OUTPUT FORMAT (3 lines only):
 def scout(category: str, target_lang: str = "es"):
     print(f"\n🔭 SCOUTING: {category.upper()} [{target_lang.upper()}]")
     
-    # Aquí iría la lógica de recolección (simplificada para el ejemplo)
-    all_headlines = fetch_google_news(category, lang=target_lang)
+    all_headlines = []
+    
+    # 1. Google News
+    print("   🌐 Recolectando de Google News...")
+    all_headlines.extend(fetch_google_news(category, lang=target_lang))
+    
+    # 2. HackerNews (solo tech/general)
+    if "ia" in category.lower() or "tech" in category.lower() or "crypto" in category.lower():
+        print("   👾 Recolectando de Hacker News...")
+        all_headlines.extend(fetch_hackernews([category], limit=3))
+        
+    # 3. Exa Neural Search (Localizado)
+    if exa:
+        print("   🧠 Recolectando de Exa AI Neural...")
+        if target_lang == "es":
+            domains = ["xataka.com", "genbeta.com", "applesfera.com", "3djuegos.com", "as.com", "businessinsider.es"]
+        else:
+            domains = ["techcrunch.com", "theverge.com", "wired.com", "arstechnica.com", "ign.com"]
+        all_headlines.extend(fetch_exa_news(category + " noticias tendencias", domains, limit=4))
+    
+    if not all_headlines:
+        print("   ⚠️ No se encontraron titulares. Usando fallback...")
+        all_headlines = [{"title": f"The biggest {category} trend this week", "lang": target_lang, "source": "fallback"}]
+
     best = select_best_topics(all_headlines, category, lang=target_lang)
     
     output = {

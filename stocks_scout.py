@@ -27,6 +27,7 @@ load_dotenv()
 GEMINI_KEY = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
 OPENROUTER_SCOUT_KEY = os.getenv("OPENROUTER_SCOUT_KEY")
 HF_SCOUT_KEY = os.getenv("HF_SCOUT_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 # Gemini SDK
 try:
@@ -57,7 +58,7 @@ def _stocks_llm_generate(prompt, force_json=False):
         max_retries = 3
         backoff_seconds = [10, 25, 60]
         for attempt in range(max_retries):
-            print(f"   🧠 [Stocks Scout] Motor 1: OpenRouter / Llama-3.3-70B (intento {attempt+1}/{max_retries})...")
+            print(f"   🧠 [Stocks Scout] Motor 1: OpenRouter / Llama 4 Scout (intento {attempt+1}/{max_retries})...")
             try:
                 headers = {
                     "Authorization": f"Bearer {OPENROUTER_SCOUT_KEY}",
@@ -66,7 +67,7 @@ def _stocks_llm_generate(prompt, force_json=False):
                     "X-Title": "StocksScout"
                 }
                 payload = {
-                    "model": "meta-llama/llama-3.3-70b-instruct:free",
+                    "model": "meta-llama/llama-4-scout:free",
                     "messages": [{"role": "user", "content": prompt}],
                     "temperature": 0.7,
                     "max_tokens": 2048
@@ -76,7 +77,7 @@ def _stocks_llm_generate(prompt, force_json=False):
 
                 resp = requests.post(
                     "https://openrouter.ai/api/v1/chat/completions",
-                    headers=headers, json=payload, timeout=60
+                    headers=headers, json=payload, timeout=90
                 )
                 if resp.status_code == 200:
                     text = resp.json()["choices"][0]["message"]["content"].strip()
@@ -105,16 +106,16 @@ def _stocks_llm_generate(prompt, force_json=False):
         max_retries = 3
         backoff_seconds = [10, 25, 60]
         for attempt in range(max_retries):
-            print(f"   🤗 [Stocks Scout] Motor 2: HF / Qwen2.5-7B (intento {attempt+1}/{max_retries})...")
+            print(f"   🤗 [Stocks Scout] Motor 2: HF / Qwen3-32B (intento {attempt+1}/{max_retries})...")
             try:
                 hf_resp = requests.post(
-                    "https://router.huggingface.co/models/Qwen/Qwen2.5-7B-Instruct/v1/chat/completions",
+                    "https://router.huggingface.co/models/Qwen/Qwen3-32B/v1/chat/completions",
                     headers={
                         "Authorization": f"Bearer {HF_SCOUT_KEY}",
                         "Content-Type": "application/json"
                     },
                     json={
-                        "model": "Qwen/Qwen2.5-7B-Instruct",
+                        "model": "Qwen/Qwen3-32B",
                         "messages": [{"role": "user", "content": prompt}],
                         "temperature": 0.7,
                         "max_tokens": 2048,
@@ -152,9 +153,53 @@ def _stocks_llm_generate(prompt, force_json=False):
                     print(f"   ⚠️ HF exception: {e}")
                     break
 
-    # ── INTENTO 3: Gemini ──
+    # ── INTENTO 3: Groq (Llama 3.3 70B) ──
+    if GROQ_API_KEY:
+        max_retries = 2
+        backoff_seconds = [5, 15]
+        for attempt in range(max_retries):
+            print(f"   🚀 [Stocks Scout] Motor 3: Groq / Llama 3.3 70B (intento {attempt+1}/{max_retries})...")
+            try:
+                groq_resp = requests.post(
+                    "https://api.groq.com/openai/v1/chat/completions",
+                    headers={
+                        "Authorization": f"Bearer {GROQ_API_KEY}",
+                        "Content-Type": "application/json"
+                    },
+                    json={
+                        "model": "llama-3.3-70b-versatile",
+                        "messages": [{"role": "user", "content": prompt}],
+                        "temperature": 0.7,
+                        "max_tokens": 2048,
+                        "response_format": {"type": "json_object"} if force_json else {"type": "text"}
+                    },
+                    timeout=90
+                )
+                if groq_resp.status_code == 200:
+                    text = groq_resp.json()["choices"][0]["message"]["content"].strip()
+                    if text and len(text) > 20:
+                        print("   ✅ Groq respondió a altísima velocidad.")
+                        return text
+                elif groq_resp.status_code == 429:
+                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 20
+                    print(f"   ⏳ Groq rate-limit (429). Esperando {wait}s...")
+                    time.sleep(wait)
+                else:
+                    print(f"   ⚠️ Groq HTTP error: {groq_resp.status_code}")
+                    break
+            except Exception as e:
+                error_str = str(e)
+                if "429" in error_str or "rate" in error_str.lower():
+                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 20
+                    print(f"   ⏳ Groq Error 429 (excepción). Esperando {wait}s...")
+                    time.sleep(wait)
+                else:
+                    print(f"   ⚠️ Groq exception: {e}")
+                    break
+
+    # ── INTENTO 4: Gemini ──
     if gemini_client:
-        print("   🚨 [Stocks Scout] Motor 3 (Emergencia): Gemini 2.0 Flash...")
+        print("   🚨 [Stocks Scout] Motor 4 (Emergencia): Gemini 2.0 Flash...")
         try:
             config_kwargs = {}
             if force_json:

@@ -31,7 +31,9 @@ from google.genai import types
 
 # === CONFIGURACIÓN LLM ===
 GEMINI_KEY = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
-OPENROUTER_KEY = os.getenv("OPENROUTER_API_KEY")
+OPEN_CORRECTOR_KEY = os.getenv("OPEN_CORRECTOR_API_KEY")
+CORRECTOR_HF_KEY = os.getenv("CORRECTOR_HF_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 # NotebookLM MCP
 MCP_BINARY = "notebooklm-mcp"
@@ -184,34 +186,121 @@ def _call_llm_en(prompt, system_prompt):
     LLM cascade for Editor EN: OpenRouter GLM → Gemini Flash.
     Returns: string with corrected article, or None on failure.
     """
-    # Attempt 1: OpenRouter (GLM-4.5-Air)
-    if OPENROUTER_KEY:
-        try:
-            print("   🧠 [Editor EN] Trying OpenRouter GLM-4.5-Air...")
-            or_client = OpenAI(
-                api_key=OPENROUTER_KEY,
-                base_url="https://openrouter.ai/api/v1"
-            )
-            response = or_client.chat.completions.create(
-                model="z-ai/glm-4.5-air:free",
-                messages=[
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": prompt}
-                ],
-                temperature=0.4,
-                max_tokens=16000
-            )
-            result = response.choices[0].message.content.strip()
-            if result and len(result) > 500:
-                print(f"   ✅ [Editor EN] OpenRouter responded: {len(result)} chars")
-                return result
-        except Exception as e:
-            print(f"   ⚠️ [Editor EN] OpenRouter failed: {e}")
+    # Attempt 1: OpenRouter (DeepSeek V3)
+    # Using OPEN_CORRECTOR_API_KEY (assigned to OpenRouter)
+    if OPEN_CORRECTOR_KEY:
+        max_retries = 3
+        backoff_seconds = [10, 25, 60]
+        for attempt in range(max_retries):
+            try:
+                print(f"   🧠 [Editor EN] Trying DeepSeek V3 via OpenRouter (attempt {attempt+1})...")
+                or_client = OpenAI(
+                    api_key=OPEN_CORRECTOR_KEY,
+                    base_url="https://openrouter.ai/api/v1"
+                )
+                response = or_client.chat.completions.create(
+                    model="deepseek/deepseek-chat-v3-0324:free",
+                    messages=[
+                        {"role": "system", "content": system_prompt},
+                        {"role": "user", "content": prompt}
+                    ],
+                    temperature=0.4,
+                    max_tokens=16000
+                )
+                result = response.choices[0].message.content.strip()
+                if result and len(result) > 500:
+                    print(f"   ✅ [Editor EN] DeepSeek V3 responded: {len(result)} chars")
+                    return result
+            except Exception as e:
+                error_str = str(e)
+                if "429" in error_str or "rate" in error_str.lower():
+                    import time as _time
+                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
+                    print(f"   ⏳ [Editor EN] DeepSeek V3 rate limit. Waiting {wait}s...")
+                    _time.sleep(wait)
+                else:
+                    print(f"   ⚠️ [Editor EN] DeepSeek V3 failed: {e}")
+                    break
 
-    # Attempt 2: Gemini 2.0 Flash
+    # Attempt 2: HF Serverless (Qwen3-32B)
+    # Using CORRECTOR_HF_API_KEY
+    if CORRECTOR_HF_KEY:
+        max_retries = 2
+        backoff_seconds = [10, 25]
+        for attempt in range(max_retries):
+            try:
+                print(f"   🧠 [Editor EN] Trying Qwen3-32B via HF Serverless (attempt {attempt+1})...")
+                hf_resp = requests.post(
+                    "https://router.huggingface.co/models/Qwen/Qwen3-32B/v1/chat/completions",
+                    headers={
+                        "Authorization": f"Bearer {CORRECTOR_HF_KEY}",
+                        "Content-Type": "application/json"
+                    },
+                    json={
+                        "model": "Qwen/Qwen3-32B",
+                        "messages": [
+                            {"role": "system", "content": system_prompt},
+                            {"role": "user", "content": prompt}
+                        ],
+                        "temperature": 0.4,
+                        "max_tokens": 16000,
+                        "stream": False
+                    },
+                    timeout=120
+                )
+                if hf_resp.status_code == 200:
+                    result = hf_resp.json()["choices"][0]["message"]["content"].strip()
+                    if result and len(result) > 500:
+                        print(f"   ✅ [Editor EN] Qwen3-32B responded: {len(result)} chars")
+                        return result
+                elif hf_resp.status_code == 429:
+                    import time as _time
+                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 25
+                    print(f"   ⏳ [Editor EN] Qwen3-32B rate limit. Waiting {wait}s...")
+                    _time.sleep(wait)
+                else:
+                    print(f"   ⚠️ [Editor EN] Qwen3-32B HTTP {hf_resp.status_code}")
+                    break
+            except Exception as e:
+                print(f"   ⚠️ [Editor EN] Qwen3-32B failed: {e}")
+                break
+
+    # Attempt 3: Groq (Llama 3.3 70B)
+    if GROQ_API_KEY:
+        max_retries = 2
+        backoff_seconds = [5, 15]
+        for attempt in range(max_retries):
+            try:
+                print(f"   🚀 [Editor EN] Trying Groq (Llama 3.3 70B) (attempt {attempt+1})...")
+                groq_client = OpenAI(api_key=GROQ_API_KEY, base_url="https://api.groq.com/openai/v1")
+                response = groq_client.chat.completions.create(
+                    model="llama-3.3-70b-versatile",
+                    messages=[
+                        {"role": "system", "content": system_prompt},
+                        {"role": "user", "content": prompt}
+                    ],
+                    temperature=0.4,
+                    max_tokens=8000
+                )
+                result = response.choices[0].message.content.strip()
+                if result and len(result) > 500:
+                    print(f"   ✅ [Editor EN] Groq responded: {len(result)} chars")
+                    return result
+            except Exception as e:
+                error_str = str(e)
+                if "429" in error_str or "rate" in error_str.lower():
+                    import time as _time
+                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 20
+                    print(f"   ⏳ [Editor EN] Groq rate limit. Waiting {wait}s...")
+                    _time.sleep(wait)
+                else:
+                    print(f"   ⚠️ [Editor EN] Groq failed: {e}")
+                    break
+
+    # Attempt 4: Gemini 2.0 Flash
     if GEMINI_KEY:
         try:
-            print("   🧠 [Editor EN] Fallback to Gemini 2.0 Flash...")
+            print("   🚨 [Editor EN] Fallback to Gemini 2.0 Flash (Emergency)...")
             gemini_client = genai.Client(api_key=GEMINI_KEY)
             response = gemini_client.models.generate_content(
                 model="gemini-2.0-flash",

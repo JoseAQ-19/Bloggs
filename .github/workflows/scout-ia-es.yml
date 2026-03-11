@@ -31,6 +31,7 @@ jobs:
           OPENROUTER_SCOUT_KEY: ${{ secrets.OPENROUTER_SCOUT_KEY }}
           HF_SCOUT_API_KEY: ${{ secrets.HF_SCOUT_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
         run: python trend_scout.py --category ia --lang es
 
       - name: Commit Trends
