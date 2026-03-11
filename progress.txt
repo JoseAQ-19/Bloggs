@@ -115,3 +115,11 @@
 - [ ] Eliminar tablas Markdown prohibidas de 3 artículos.
 - [ ] Purga de signos de interrogación en 289 artículos.
 
+## 🔍 Inspección Técnica Profunda: Google Indexing API (2026-03-11)
+- [x] **Causa Raíz IDENTIFICADA:** La Google Indexing API está diseñada SOLO para JobPosting/BroadcastEvent. Google devuelve HTTP 200 pero IGNORA las notificaciones para artículos de blog. Fallo silencioso confirmado.
+- [x] **Informe generado:** `indexing_api_audit.md` con análisis de 8 puntos fuertes, 4 bugs, 3 riesgos de seguridad y plan de remediación de 5 pasos.
+- [ ] **P0:** Reescribir `indexing_api.py` con Sitemap Ping + URL Inspection API (scope `auth/webmasters`).
+- [ ] **P0 MANUAL:** Habilitar Google Search Console API en Google Cloud Console.
+- [ ] **P0 MANUAL:** Verificar Service Account como Owner en GSC.
+- [ ] **P1:** Añadir logging persistente a `data/indexing_log.jsonl`.
+- [ ] **P2:** Verificar prefijo `/en/` en URLs de artículos EN.
