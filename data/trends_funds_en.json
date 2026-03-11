@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-10T08:00:32.642230+00:00",
-  "total_candidates": 21,
+  "scouted_at": "2026-03-11T07:38:17.524999+00:00",
+  "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "Vanguard Fee Cuts: See How Much You'll Save on 53 Funds (Median Drop: 0.01%)",
+      "title": "Stephen Siderow Named Senior Advisor and Operating Partner to RE VC, a Real Estate Technology VC Fund",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Gold ETFs Hit Record Holdings: Global Investors Pour in $5.3 Billion in February",
+      "title": "Coreworks AI SuperAnalyst Automatically Produces Traceable, Finalized Reports and Decks",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "BlackRock's $26 Billion Lending Fund Limits Withdrawals; BLK Stock Drops 3%",
+      "title": "S&P 500: Top Funds Dump 10 Stocks (Including Alphabet), Morningstar Says",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -51,9 +51,29 @@
   },
   "all_headlines": [
     {
-      "title": "5 New 5-Star Stocks This Week",
+      "title": "Stephen Siderow Named Senior Advisor and Operating Partner to RE VC, a Real Estate Technology VC Fund",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WYTVJT0lpeEVURFJxeEI1OExmSFp5MEZwekN6ZFhHTVp1T1ZhVUZBRVRaSDR2OTNwakxqUjU5dm83eFpjcFlzVEF6aW4tTzhVZkxmQXBGb0pncmdPeWZUOE9qZmh2N1JNYkd3YjlwMDhxTGpu?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON2lxVk56ajJCTUQ2MU9tNHB1bGhacmMyR1VVXzNWOF9RUkZkcGJZTUJPUnhMOUdOblRyeS1BcjlMMlFtLS1vMGRPaU1ZUkFlVlljaXVjdFRmLVg5WnV2Qlc5bGI2NDEtUzVpRnIzWnRsLTFUYzN6VGVTUGxld2RMWDIxckVidm1IVzJXLXdZcUVwZ0hSMW5ETjE5Ung0Xzh5SURLdlkzQ0dXaFI0U3piN2g0R0tYQ3JVWUhqYmkzaDlJOVRrdTB3Q2c4WnlWSm9haTFWQnNWekxXMlVRVWhvamhVM1hxWnBERjVlVFgxWjhENjQ?oc=5"
+    },
+    {
+      "title": "Coreworks AI SuperAnalyst Automatically Produces Traceable, Finalized Reports and Decks",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU3N6VG95b0kwRTJ5bURhaTFvOXBxNThFcFlzaXY2M3dQdEVPazB0TjIwSGxGVWdILVdvUi1ROE12ZWZta1ZWN0JUbFY3dVJ4T21PdHNUWHQzMFpzNjVzaW1Cak55LU5aQ2lxcEJvaEVvOURBT1B6OUphdEh4WThuRWF4SVJiVklqQlNLN0FIdzgyMDJQVmtVZzAxQzFRZXVIZENsT1hSOUtSZ0JmcWFoVmZhNmpOWVpBME1oQ2dSZ3BtYlRiQ1NvcnRseWVtVjRYSHhGYWVqS2s?oc=5"
+    },
+    {
+      "title": "S&P 500: Top Funds Dump 10 Stocks (Including Alphabet), Morningstar Says",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2VVVWRtUTk0LVNoRTlGaU04VXB6SnpGaFhCVW5kTEhtV19BTHNHQzhmeS13N2pHNUZZaENZLXFKYl8zUk11LVI1bjRZX0xBS0ZtbURQeWpsY3ZvSDE4RTZwdXpUUlg3SkJ4Q2k4ZTh2cHI3UlRBd0NVejlFaVJrM1VHeU1MblJQVFEwdkZEOXBUQ05nVkRSM3hvX01odlZPMjM4TVhESHRlLUdUMUJ3VWFHOGdGUm8?oc=5"
+    },
+    {
+      "title": "Morningstar downgrades $17.2bn T. Rowe fund",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb2RyWnJkNF9vVnpFdDg0bXZHREZjaHkzYjk5dGhzLXkzZ3NkNUlGaEdBOU5vSGpMcUhmYVBJa1RsZ0lvX1hySjJVTlREaUdTNE82UXpiTFMtek1TbW1aTUhFd0VDQ2J6bl84eDBTMS1salNEQnBma19ES1BNMTV1OUhhamthSHJpWnRiWG11MA?oc=5"
+    },
+    {
+      "title": "Morningstar downgrades $237m Matthews Asia fund ahead of merger",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmRzN1Q5SS15SHJHaGF2N2hiNXRwbmF6ODhQSFVGSVNKOXZKa1R6Y1hISWdYZG9kWG1GcnJwN0N1WlJtb2tBQnNPRzFlYTVsV3EzTm5ZRUZUVzg4elpVX1V1ZncyWjNYdmt1VDZpZFRqUGE3R0R2X1NVMHlXVG9OYWE1eDFRTDBSdzI3bXVzc1J4TGRNdGZhY21IWE5WZ3V3VVZramJiWHlFNk0?oc=5"
     },
     {
       "title": "Morningstar puts $15.5bn T. Rowe fund under review",
@@ -66,39 +86,34 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzV6OG85SmlhVjlFNEFPZ3JyQ0dwYUJVdTd2UzlmMmNmbXhkTEdHZ1BURmUzMzBCQXM3eWJvUFBlbW9UOGNpMGp2dGwyb2tLUUJEdWwtNDMwV05mYWRjalMxbVdnYTJRV3pybEsyM1hRZGRUZS1ubk83SmxtVUJGTVBReGM0SndJbV9oVHRVaEI4X0RBM3ZMVG5QRdIBoAFBVV95cUxQS2o2ZjNqbU4yclB6ZTVnbG1INmtYcUt3RURNNm1aUHJYOWJ2UUprYW5Na3htT1NMcmZUdE14dFUwMEIzRmc0TTkzSzNuVk1Wd3UzMlBCd0pyZ2R4d0xROHhMRzRxRjdpWHpVNFpfeWhIaDd0cmNMV2FyTVpGMTEzNTdCdUs1a1EyalRFaTRORFpPdXYzNkdCOUFYbkJWU1Nh?oc=5"
     },
     {
-      "title": "Morningstar Debuts AI Assistant for Advisors",
+      "title": "Aberdeen Investments U.S. Closed-End Funds Declare Distribution Dates and Amounts",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV01LUGpMYlhUd1BYQnRqUjU4YW5PZU1TdzNhbk5qMG00SjR5OWVBUmtUbGtxcjVwaUhyWEo0dVZTdzVEamFjQ3Y5V21mRk1yV0dHa1Z4NXVfaXZwb2c2UXl3YUdWcVVmVS1hb3V2eHNnZnVTc0piUDV3eHh3WW80U0VVVUFKcGhkUlVrWlM0Vk51UzZIV3R5Z1hyZVhUdG9HNGw4MUI1ekV3RWJ0NERsV2tEeUx5bnNzNFRqSlBxbUtuX2c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc3BOVnFWZldhQ1ZkYzYxMVlVcHFTVkJ3Z2Q3WXp4THg2VWNmTTVkTUJlRUFQWDMzSy10emtrdWlqaDJLQzlhNDAxZEd2d3l6YmFDY1I1aE9hc1hTQzRZcmdWbFhSR2I3MkxsZldMUndROU5SNVRUREE1azdtYlp5UDVLZTdrUXFMSEdQcE5NUm4tN21kaW5fSWVSc1hCbktmZ1JabXNZV2lWbTY1a1c5N2g1XzE2VHh6dkJzMl9zUWh4aDREMGdtMlpJYjZHWTdtZVZ0ZEFjVQ?oc=5"
     },
     {
-      "title": "New Morningstar AI handles research and client prep for financial advisors",
+      "title": "This Gold-Rated Fund Is a Great Option for diverse European Stock Exposure",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVFpZYWJnZ203SWhEWkFvNC13RXRrdEdIdGhTMk9vUjBDd3YtbjFRc3RLdk1KQmthUUJuTzlXLXVuVXgyMEMwWUNEVlBzT3g0eGF5YXZwNE00TEdJdFR6SGs5dG00SkVMeTJCVFlWVnZ3Q05IVXlVUWR4VkpxR3k3bUM1X1AxNzhMZWFHM1o5ZnRVbllPNWJJbFNGUDFuVWoxdnNCNjBNWk9wUWZkTDRlbzQ1TQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTGdtZ3QzdVNZMXpkU2lxcW1QRnBIcXNjMUlLNVRmVFdBWmt5cmN2UVZfUXNxWGFLOWNpYzNvWEJlTEtLa0tXX3c2bWRHa0E1UXE4alNnNTNhdC1HZk92SEVlSW84YkdVSUVhVERWSHNHcWFlVWZRZWdLcUZQU2dSelpYb3NNVUxXdUJyZEJfN3Y4NmkxTFB6Qjg3aEgzQmEwdUVST3E4b29YX2FfZVV3?oc=5"
     },
     {
-      "title": "Health Wave Partners Acquires MorningStar of Parker",
+      "title": "Best SaaS Stocks of 2026 and How to Invest in Them",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNel9ZZk9MaGItOFBQdHZub3BWSF9PMmJ4NEtfZXpEcDExOGE0SEdtQk93RjBqOVprd1dNSEFsUmhmajhIdWZ5dmRIQnl1SlZydUs1SzlUMXpoWEx0Q0FrSmYwYmFuOFl5RkcxQkNCcWY2U2E4bFRRQnJJdEJZa0FiRlFEUUI0MExER1ctWjdEdVZ4b3NlN0xJYW8yQldmZ2ZlX0V6UzdDTFZlUzZDTTVuUHA4aw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbWRpbFVpLUhIdkh5LUQ4X3hPU3h6azY4Um5xRmlzbllYMHFHWmlUVHJpbFJuMlpkVlV0akVvUDg3T09ZbVpxbVc5U2FjOUlWc09xNW83T0gtazVFZ0xNWTFNN1BEV2JwOFFuYmR5VURlX0prVDZQRnZfSnUzc0UxTi0tOTVINWZ4M0NFcU5GRjFCUE52Y1lMdkF3?oc=5"
     },
     {
-      "title": "Morningstar Inc Introduces AI Assistant Built into Advisor Workflow",
+      "title": "PGIM Jennison Emerging Markets Equity Opportunities Fund Q4 2025 Commentary (PDEZX)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMnRqSWpFMHBqbGRfUGxVOEFtbnRkWlBObjViUGJMZFFBM2pQMjNNRHA5XzVNSDJpb3dQYngtS1l2RG1xMGl1RjBLTGFTMXlMcmtPRGFiaXBBQks4UDRUNHg2NV9RQkwzbG9ZN2JZYVZlNHpIbFRRbi1SRGFaWkZZMU9Ld3ZqdDNpXzRlMk1ZdFA0OEM5dFFnNENWVmtlTlgtR2FFbTJCdlhlQklRd1hxeDBidVZLenBaM3oxMg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbkVibEk0SWhidkRwTzVRMXVBMXE2TkJlYTZ5eUdvMDd4TUF2eUEzZmU2dUN1dFdMTkxDS1lQWGdDTkhrQTlMNlZ2UmhRYnVhMUZwblUxZXoxTUJ0ZnYtQ3FMS3VrQmF4QmxNcGRKZThhTS14X2s4eFJKNkIyYkJXbXQtOGFQT2VxNWk0OGZlRXBud2dYRUxPTGhHbVpqUGlyeG4tQ1Bhc2JId1o4YzBSaDhvemdyOVk?oc=5"
     },
     {
-      "title": "Hartford Emerging Markets Equity Fund Q4 2025 Commentary (HERAX)",
+      "title": "Fidelity's Zero-Fee ETF Is Quietly Keeping Pace With the S&P 500 And Costs Absolutely Nothing",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWdKQXdlcmxtWDdzRlRhY0hqd0JaYXNCRkFiTWNQODVKc0RmdmVnajdrU1NRbDRvUFk0VXdNZ2NSZnh3S1dEN29MM2tCT1RIUXZmS0MxSW5GS3BwTGxucFpZUmtwTDlLcUVZZUotbURuWkwyUUQtWDBxX3RiSXBhVHpHdnl4b2lzREJMNlQ3TUIxQm82bC01MzBEWjJrZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON2VOajdmYjZZWE8zN3E3LWNGcDkwZXRla1FGUU85UjFkY1BjT1l5TmFDOXJJdVE3ZzFJRVdpZmhtR2dsTElvVGV6clhpdzdMSjVXMWZZMk5jT0RBaktCUTFSMndKQVpsa2hMVDhKRGx1T1lNUDZFcG1aTjdJZFBERm9BSDFienBuQllfbHZPSWU2TmZ0YWxITWNERmtxeXlLemszVVg3eDd4Nk4wSXNRUDhuVjFpNklvNXFuZDN6X090d0M0Nmh1SzJuSFZjX1R4?oc=5"
     },
     {
-      "title": "World Markets Watchlist: March 9, 2026",
+      "title": "The Best Performing International ETFs over the Last 10 Years",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR0hRcFZQZUZObnliU01tMHlaVzRoWm1palc3Qjk5RVFYTjdNVGJKMElVaG9CbThNeG1iaGVwdDdWV0duVlFUUXhpcFVTV3UxVHBEUURrOTdFR0hZOW1sNnJPZHJpUkR0bUZxbXBFWDd2ZTNiTDZKZGlZRlBxdmFueGQxcUpjMW5xV2pNUUtvTGtLRVNnaUx4WllRVDN6d2s?oc=5"
-    },
-    {
-      "title": "1 S&P 500 ETF to Buy With $1,000 and Hold Forever",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrY2FjT3BYZHhJNlVWV1hIRHM3aEh3eFZEU29BTE55X1B4RVVxQUJjcmNoamg4SElKUmtxLTl5LWZ4NXVDQlM3RGhNZm5FSEN4SU5rck0ySGJPOHdLcVVTSHE0aXJOWER2N0xR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQek8tREp3NWpGU3ZrVGJSTHZ5ODdOZ001U1NGQ2FPR29LdDFtdDFHVG8ydjJ2c0Z4XzdGdXg4S25DRlhSLWNMRTV2Q19GdDd6bEVLSmhlWUhOcTRnb2QzLTladGM5SWdyQ1VOM2pOaU82QmhxYnNlSUdLajB0ZVpualdIT0x3cWdrRmJBY2stdmFIWEJCRV9Rb184NDk5bzZ3ZTFV?oc=5"
     },
     {
       "title": "Best Mutual Funds: News, Performance Reports And Investing Ideas",
@@ -106,47 +121,32 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGh3UmNfU0JQZ2thTDdMbjBhbzVBS01uWWo5aXYxYUE2eHZVVV9yT0hJT2Z6TXY3czdXX1R1QlFZd3h5S0tYTE5UVUVqSFU5cWFtZFJxY3VGa01HT3BUZ3FqS1NkeTFYNEZKdnZWX1BCYUhzRDkzWlg4ZVNjMzFYVmgzd1luU1ZOQnRkYlBJamRFWnYxU0hORjMxM09WUHVuczktZ3M1cHh1cGhuaEI2elBLTQ?oc=5"
     },
     {
-      "title": "RiverPark Long/Short Opportunity Fund Q4 2025 Commentary (RLSIX)",
+      "title": "This Silver-Rated US Market ETF Comes With Basic Sustainability Screens",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1RyWXJZazd5ek9UWWdNaTl6eFBQQWNxMkJtQXBhVlZRc2lGVmhxeVprN1BqbnhHZ1pSMVE1Q0c2OEFqNWR2c0VxWnFjZ1NsXzJNaG1BYklxZUZIcU5IQlBLU1YzeVBMelJILUJGNFJjZzd4OWZkZjloUWMtbnBhWUh2Zm9PelNyRE9fMmVvTkRDc2V0MzI1X19iRk8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2pBTkJ1LTFUY1VaUjdIbDhseWdmNWVFUVp5LThoVzVZbk1VR0EyYURIV2oyQ0pUcGN4Sm5xNzI3aUZDakN2SFdsWGVXV1JSallBR2hacFhFbjc5TEtXUXpNQWpDZkVQeER1cEVfVEIwVXdhMWpSTXNyaG43S09sTjl1dDVvLWNuWWFrcGdib1dnVTNySnRqVWw0SnBtTUZQajFYcjh4RmRaNlNwMmZnRkh3QQ?oc=5"
     },
     {
-      "title": "Best AI Stocks to Buy in 2026 and How to Invest in Them",
+      "title": "Antimony Corporation (UAMY) Benefited from the Export Restrictions",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTN4SWRQbVZpY1lwSnJjN3YxWmY5LU5Qck5ia2psWWRwcWplZ0RGTFo3ZmJrZDZ1S1RQZFF2NUcwOTh0NXA3NlM0a25ieHhPWHprdTBmbWxzY2FtdHRIMlpSY1pzcTU5ZkhfN0wtcF9UeDg4WnZVYTZPSkRtcDNZaUJ1djdPQ1RVRkVQeVFUTnJrMFJ5VXdj?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0xkcDd3ZXl5akhQZ3lTV0NpUlhhYzMzNTlUOE1qbDFYTW9DZHduV0VhQi1sV0VpU2YyYjV0djJpd1psMXE2cTdBSlNxTWxwWC1TMlNFSm4xQ09feFo2SVRXQ3V4RHd2eFpUMk1TeUZ3aWpDejdoQWdzYU5IYW81d284VXdHTktIUHlHaFB4ZDgtbW5SUEZGc2x4UQ?oc=5"
     },
     {
-      "title": "Best small cap mutual funds to invest in March 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ25zY2IyX3Rjc2lqRTVSc3h1YzBrdXZ5RWsySy1NanRjbm9XNVZBUHIyN2lGa2UweTR0Um1fX0NuZTI5UEFHM05NZzUySnlFMXQyX1NPMkZWQ3FXSl9KN21yM0ppOUs4WmVzWTlpNktBN0l6T1Uxbkw5cFhkV2dVazJic3ZFeGpsbmF0NlJSTHNjSENoNmJSYlBST0tld19ULWhxQ2JFV3MyWlRPM040Yk91OWhnajNyTmJnY2xn0gG-AUFVX3lxTE1DbnNjYjJfdGNzaWpFNVJzeHVjMGt1dnlFazJLLU1qdGNub1c1VkFQcjI3aUZrZTB5NHRSbV9fQ25lMjlQQUczTk1nNTJKeUUxdDJfU08yRlZDcVdKX0o3bXIzSmk5SzhaZXNZOWk2S0E3SXpPVTFuTDlwWGRXZ1VrMmJzdkV4amxuYXQ2UlJMc2NIQ2g2YlJiUFJPS2V3X1QtaHFDYkVXczJaVE8zTjRiT3U5aGdqM3JOYmdjbGc?oc=5"
-    },
-    {
-      "title": "Take the Zacks Approach to Beat the Markets: Starbucks, Amgen, Allogene in Focus",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWDBSdmxCM0pFdzgwbnZSekZNTjBfN3FaYWZoTHcyLS1Mc2dXT0xzUEZmVDE5ZnJKYTJGa004eFBJZWFyNzNVcTdCa0dHb3ZvX2xLWlU2eGNjVzhCYVVjclJJMFhMdnFDRVJfWHRhR3ZveElwaU1tM1FxWjU4eTJ5TnkzekFuTmpJdDhPS043c3RzTk8xX2phanZOd211ZWNWTExvcjB0b2dKRWNaOS13SG02V0gxRHdEbUFqWlBMLUFHcWprUFdRejNUM0tIdw?oc=5"
-    },
-    {
-      "title": "Vanguard launches three new S&P 500 index fund options for Australian investors, including ASX-listed V500 and V5AH ETFs with management fees of 0.07% and 0.09% p.a. respectively.",
+      "title": "Vanguard S&P 500 US Shares Index ETF (ASX: V500) Launched in Australia with a management fee of 0.07% p.a.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Morningstar recognizes Harris | Oakmark's Oakmark U.S. Large Cap ETF (OAKM) as one of the \"Best Active ETFs to Buy in 2026\".",
+      "title": "Tuttle Capital Meme Stock Income Blast ETF (MEMY) charges an expense ratio of 0.99% and invests at least 80% of assets in meme stocks.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "SEC proposes amendments to Form N-PORT, providing funds an additional 15 days to file monthly reports and reducing report publication to quarterly.",
+      "title": "Fidelity Growth Company Fund reported a 4.82% gain in Q4 2025, outperforming its benchmark index.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard cuts fees on 53 mutual funds and ETFs, expecting to save clients approximately $250 million in 2026, with a median expense ratio reduction of 0.01%.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Global investors allocate US$5.3bn to gold ETFs in February, marking the strongest two-month start to a year and the ninth consecutive monthly increase, bringing total global holdings to a record 4,171t.",
+      "title": "The SEC approved traditional mutual funds to offer ETF share classes, potentially reducing capital gains tax burdens for over 120 million US investors.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
