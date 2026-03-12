@@ -4,7 +4,6 @@ FASE 4: Limpieza masiva de artículos legacy.
 - Rellena description: "" con las primeras 155 chars del contenido.
 - Cambia draft: true → draft: false (publicar todo).
 """
-import os
 import re
 import glob
 
