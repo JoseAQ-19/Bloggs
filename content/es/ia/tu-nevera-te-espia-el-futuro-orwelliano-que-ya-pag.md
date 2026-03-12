@@ -53,7 +53,6 @@ Para una comprensión más profunda de la ética de la IA y la gestión de datos
 *   [Análisis en OpenAI/news](https://openai.com/news)
 *   [Análisis en Google/discover](https://deepmind.google/discover)
 
-> **[Análisis Recomendado]** Test Articulo Ralph v3.5: [/es/youtube/test-articulo-ralph-v3-5/](/es/youtube/test-articulo-ralph-v3-5/)
 
 <script type="application/ld+json">
 {
