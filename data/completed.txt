@@ -270,3 +270,4 @@ youtube: ¡Basta, YouTube! Los anuncios de 30 segundos que no te dejan respirar 
 youtube: Matt Belloni Takes Hollywood Inside: 'The Town' Moves to YouTube
 youtube: YouTube Just Dethroned Disney: Is This the New Media King?
 crypto: Harvard apuesta por Ethereum y se deshace de Bitcoin: ¿Fin de una era?
+crypto: SEC Cracks Down: A New Era for Crypto Regulation?
