@@ -103,6 +103,7 @@ html {
     color: var(--text-color) !important;
     font-family: var(--font-body) !important;
     scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch; /* Fluent scroll for iOS */
     max-width: 100vw;
     overflow-x: hidden;
     width: 100%;
@@ -343,10 +344,11 @@ header.hero-modern::before {
 #reading-progress-bar {
     height: 100%;
     background: linear-gradient(90deg, var(--bg-color), var(--primary));
-    width: 0%;
-    box-shadow: 0 0 10px var(--primary);
-    transition: width 0.1s ease-out;
-    /* Width is unavoidable here, but container is fixed */
+    transform: scaleX(0);
+    transform-origin: left;
+    box-shadow: none !important; /* Kill shadow */
+    transition: transform 0.1s ease-out;
+    will-change: transform;
 }
 
 /* --- TECH LOGO --- */
@@ -1077,12 +1079,31 @@ table {
     }
 
     /* --- PERFORMANCE: Disable heavy animations and filters on mobile --- */
+    * {
+        background-attachment: scroll !important; /* Kill fixed backgrounds */
+    }
+
+    html {
+        scroll-behavior: auto !important; /* Kill smooth scroll for speed */
+    }
+
     article.glass-card {
         backdrop-filter: none !important;
         -webkit-backdrop-filter: none !important;
         will-change: auto !important;
         background: rgba(20, 20, 20, 0.95) !important;
-        /* Solid fallback */
+        box-shadow: none !important; /* Kill heavy shadows */
+        border: 1px solid rgba(255,100,100,0.1) !important;
+    }
+
+    .grow {
+        transform: none !important;
+        transition: none !important;
+    }
+
+    .logo-tech {
+        mix-blend-mode: normal !important; /* Save blending perf */
+        will-change: auto !important;
     }
 
     .hero-modern-overlay div {

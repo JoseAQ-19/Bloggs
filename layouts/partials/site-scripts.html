@@ -4,29 +4,21 @@
   // AOS Init — fires after DOM is ready (compatible with defer)
   document.addEventListener('DOMContentLoaded', function () {
     AOS.init({
-      duration: 1000,
-      once: true,      // WPO: Animate only once (saves reflow on re-scroll)
-      mirror: false,
+      disable: 'mobile', // SHUT DOWN on mobile to save frames
+      once: true,
       offset: 50
     });
   });
 
-  // Reading Progress Bar Logic - Optimized with rAF
-  let ticking = false;
+  // Reading Progress Bar Logic (passive scroll listener with transform for perf)
   window.addEventListener('scroll', function () {
-    if (!ticking) {
-      window.requestAnimationFrame(function() {
-        var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
-        var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-        var scrolled = (winScroll / height) * 100;
+    var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+    var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    var scrolled = (winScroll / height);
 
-        var progressBar = document.getElementById("reading-progress-bar");
-        if (progressBar) {
-          progressBar.style.width = scrolled + "%";
-        }
-        ticking = false;
-      });
-      ticking = true;
+    var progressBar = document.getElementById("reading-progress-bar");
+    if (progressBar) {
+      progressBar.style.transform = 'scaleX(' + scrolled + ')';
     }
   }, { passive: true });
 </script>
