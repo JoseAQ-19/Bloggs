@@ -217,6 +217,7 @@ class ResearcherV4:
         self.client = genai.Client(api_key=self.api_key) if self.api_key else None
         exa_key = os.getenv("EXA_API_KEY")
         self.exa = Exa(exa_key) if exa_key else None
+        self._exa_urls = []
 
     def _find_mcp_binary(self):
         """Busca el binario notebooklm-mcp en rutas comunes."""
@@ -329,6 +330,9 @@ Return ONLY the final string. NO quotation marks. NO markdown. NO explanations. 
         print(f"\n🔍 INICIANDO GEO-RESEARCH E-E-A-T PARA: '{topic}' [{lang.upper()}]")
         print(f"   Categoría: {category} | Contexto: {search_context[:60]}...")
         
+        # Reset state
+        self._exa_urls = []
+
         # --- NUEVO: DEEP-KEYWORD MINER & TRIFORCE ---
         super_topic = self._mine_deep_keywords(topic, lang, category)
         
@@ -679,9 +683,9 @@ CRITICAL: Do NEVER output internal Google Search links (like vertexaisearch.clou
                 
                 # Construir bloque de fuentes validadas
                 sources_block = ""
+                seen = set()
                 if grounding_urls:
                     sources_block = "\n\n### FUENTES VALIDADAS DISPONIBLES:\n"
-                    seen = set()
                     for src in grounding_urls:
                         if src['url'] not in seen:
                             sources_block += f"- [{src['title']}]({src['url']})\n"
@@ -694,14 +698,21 @@ CRITICAL: Do NEVER output internal Google Search links (like vertexaisearch.clou
                     if not sources_block:
                         sources_block = "\n\n### FUENTES VALIDADAS DISPONIBLES:\n"
                     for src in exa_urls:
-                        if src['url'] not in seen if 'seen' in dir() else True:
+                        if src['url'] not in seen:
                             sources_block += f"- [{src['title']}]({src['url']})\n"
+                            seen.add(src['url'])
+                    print(f"   🔗 [Exa URLs] URLs de Exa agregadas al bloque de fuentes.")
                 
                 print(f"   ✅ ÉXITO CAPA 2: Grounding completado ({len(resp.text)} chars).")
+
+                # Combinar fuentes para el reporte
+                all_sources = [s['url'] for s in grounding_urls]
+                all_sources.extend([s['url'] for s in exa_urls])
+
                 return {
                     "content": f"{resp.text}{sources_block}",
                     "layer": "Gemini Grounding (E-E-A-T V2)",
-                    "sources": [s['url'] for s in grounding_urls[:10]] if grounding_urls else ["Gemini Google Search Grounding"]
+                    "sources": all_sources[:15] if all_sources else ["Gemini Google Search Grounding"]
                 }
             
         except Exception as e:
