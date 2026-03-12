@@ -44,4 +44,4 @@ Nos reservamos el derecho de modificar estos Términos de Servicio en cualquier 
 Estos Términos se regirán e interpretarán de acuerdo con las leyes de la jurisdicción en la que opera NovumWorld, sin tener en cuenta sus disposiciones sobre conflictos de leyes.
 
 ### 10. Información de Contacto
-Si tiene alguna pregunta sobre estos Términos de Servicio, contáctenos en **legal@novumworld.com**.
+Si tiene alguna pregunta sobre estos Términos de Servicio, contáctenos en **media.flow.proyectos@gmail.com**.

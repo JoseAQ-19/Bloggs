@@ -44,4 +44,4 @@ We reserve the right to modify these Terms of Service at any time. Changes will 
 These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which NovumWorld operates, without regard to its conflict of law provisions.
 
 ### 10. Contact Information
-If you have any questions about these Terms of Service, please contact us at **legal@novumworld.com**.
+If you have any questions about these Terms of Service, please contact us at **media.flow.proyectos@gmail.com**.
