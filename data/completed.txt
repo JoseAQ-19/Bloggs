@@ -271,3 +271,4 @@ youtube: Matt Belloni Takes Hollywood Inside: 'The Town' Moves to YouTube
 youtube: YouTube Just Dethroned Disney: Is This the New Media King?
 crypto: Harvard apuesta por Ethereum y se deshace de Bitcoin: ¿Fin de una era?
 crypto: SEC Cracks Down: A New Era for Crypto Regulation?
+youtube: YouTube contra los bloqueadores de anuncios: La guerra ha comenzado (y tú pierdes)
