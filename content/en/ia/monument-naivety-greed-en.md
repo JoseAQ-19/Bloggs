@@ -39,3 +39,7 @@ The same study also highlights a troubling decline in data transparency. The pro
 The narrative surrounding Bitcoin was always a carefully constructed edifice, built on a foundation of technological naivety and, in many cases, outright deception. Promoters of the technology, often with vested interests, actively "gaslit" the public, to use the term coined by digital preservation expert David Rosenthal. They exaggerated the benefits, downplayed the risks, and ignored the inherent limitations of the system. The result was a speculative frenzy that enriched a few early adopters while leaving many ordinary investors holding the bag.
 
 The cryptocurrency saga serves as a cautionary tale about the dangers of blindly embracing technological hype without critical evaluation. The promise of easy money and decentralized freedom proved too alluring for many, obscuring the fundamental flaws and vulnerabilities of the system. Bitcoin, in its current form, is not a revolutionary financial technology; it is a monument to the collective naivety and greed that fueled its meteoric rise and subsequent crash. The future may hold more promising applications of blockchain technology, but they will require a more sober and realistic approach than the one that characterized the Bitcoin boom.
+
+### Fuentes y Autoridad
+* [Análisis en Com/news](https://openai.com/news)
+* [Análisis en Google/discover](https://deepmind.google/discover)

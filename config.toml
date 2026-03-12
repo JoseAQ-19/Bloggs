@@ -1,14 +1,15 @@
 baseURL = "https://novumworld.com/"
 title = "NovumWorld"
 theme = "ananke"
-defaultContentLanguage = "en"  # Inglés será la raíz /
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 enableEmoji = true
 enableRobotsTXT = true
 
 [languages]
   [languages.en]
     languageName = "English"
-    languageCode = "en-us"
+    languageCode = "en-US"
     contentDir = "content/en"
     weight = 1
     title = "NovumWorld"
@@ -17,7 +18,7 @@ enableRobotsTXT = true
 
   [languages.es]
     languageName = "Español"
-    languageCode = "es-es"
+    languageCode = "es-ES"
     contentDir = "content/es"
     weight = 2
     title = "NovumWorld (ES)"
@@ -32,80 +33,79 @@ enableRobotsTXT = true
   description = "The Future of Tech & AI"
   author = "NovumWorld Editorial Team"
 
-# --- MENÚS (Definidos globalmente, Hugo los asigna por idioma si coinciden urls o translationKey) ---
-# Pero es mejor definirlos por idioma para controlar las URLs exactas
+# --- MENÚS ---
 
 [[languages.en.menu.main]]
   identifier = "ia"
   name = "🤖 AI & SaaS"
-  url = "/ia/"
+  url = "/en/ia/"
   weight = 10
 [[languages.en.menu.main]]
   identifier = "crypto"
   name = "🪙 Crypto"
-  url = "/crypto/"
+  url = "/en/crypto/"
   weight = 20
 [[languages.en.menu.main]]
   identifier = "fitness"
   name = "💪 Biohacking"
-  url = "/fitness/"
+  url = "/en/fitness/"
   weight = 30
 [[languages.en.menu.main]]
   identifier = "youtube"
   name = "🔴 Creators"
-  url = "/youtube/"
+  url = "/en/youtube/"
   weight = 40
 [[languages.en.menu.main]]
   identifier = "viral"
   name = "🔥 Viral"
-  url = "/viral/"
+  url = "/en/viral/"
   weight = 50
 [[languages.en.menu.main]]
   identifier = "tools"
   name = "🛠️ Tools"
-  url = "/tools/"
+  url = "/en/tools/"
   weight = 60
 [[languages.en.menu.main]]
   identifier = "funds"
   name = "💰 Funds"
-  url = "/funds/"
+  url = "/en/funds/"
   weight = 70
 
 # --- MENÚ ESPAÑOL ---
 [[languages.es.menu.main]]
   identifier = "ia"
   name = "🤖 IA y SaaS"
-  url = "/ia/"
+  url = "/es/ia/"
   weight = 10
 [[languages.es.menu.main]]
   identifier = "crypto"
   name = "🪙 Cripto"
-  url = "/crypto/"
+  url = "/es/crypto/"
   weight = 20
 [[languages.es.menu.main]]
   identifier = "fitness"
   name = "💪 Biohacking"
-  url = "/fitness/"
+  url = "/es/fitness/"
   weight = 30
 [[languages.es.menu.main]]
   identifier = "youtube"
   name = "🔴 Creadores"
-  url = "/youtube/"
+  url = "/es/youtube/"
   weight = 40
 [[languages.es.menu.main]]
   identifier = "viral"
   name = "🔥 Viral"
-  url = "/viral/"
+  url = "/es/viral/"
   weight = 50
 [[languages.es.menu.main]]
   identifier = "tools"
   name = "🛠️ Herramientas"
-  url = "/tools/"
+  url = "/es/tools/"
   weight = 60
 [[languages.es.menu.main]]
   identifier = "funds"
   name = "💰 Fondos"
-  url = "/funds/"
+  url = "/es/funds/"
   weight = 70
 
 [sitemap]

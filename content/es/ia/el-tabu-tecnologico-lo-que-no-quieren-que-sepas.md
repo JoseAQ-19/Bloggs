@@ -40,3 +40,7 @@ La promesa de "flexibilidad" laboral en las plataformas digitales a menudo escon
 En definitiva, el "progreso" tecnológico actual se sustenta en una estructura oculta de extracción y control. La "nube" es física y sucia, dependiendo del trabajo infantil en minas tóxicas y de un consumo energético masivo. El capitalismo de vigilancia convierte a los usuarios en productos, explotando su comportamiento futuro y erosionando su autonomía. La seguridad es una ilusión, con la privacidad violada sistemáticamente. La realidad online se diluye en una simulación vacía generada por bots.
 
 Sin una regulación estricta y una toma de conciencia pública, estas tecnologías consolidarán un cambio hacia una gobernanza antidemocrática y una mayor desigualdad estructural. Es crucial que los consumidores, los legisladores y la sociedad en general exijan transparencia, responsabilidad y un enfoque ético en el desarrollo y la implementación de la tecnología. El futuro que construimos hoy dependerá de nuestra capacidad para desvelar los tabúes tecnológicos y exigir un cambio radical en la forma en que concebimos y utilizamos la innovación. El progreso real no se mide solo en términos de eficiencia y conectividad, sino también en términos de justicia, equidad y respeto por la dignidad humana.
+
+### Fuentes y Autoridad
+* [Análisis en Com/news](https://openai.com/news)
+* [Análisis en Google/discover](https://deepmind.google/discover)

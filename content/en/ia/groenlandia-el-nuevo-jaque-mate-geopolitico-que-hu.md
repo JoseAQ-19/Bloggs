@@ -40,3 +40,7 @@ Silicon Valley cannot afford to ignore the geopolitical implications of rare ear
 Ultimately, the future of AI is not just about technological innovation; it's about geopolitics, resource management, and sustainable development. Greenland's role in this new landscape is still uncertain, but its potential to disrupt the global balance of power is undeniable.
 
 The narrative of Greenland checkmating Silicon Valley might be premature, but the island's strategic importance is growing, and its influence on the future of AI cannot be ignored. Silicon Valley needs to adapt to this new reality, or risk sinking further behind in the global AI race.
+
+### Fuentes y Autoridad
+* [Análisis en Com/news](https://openai.com/news)
+* [Análisis en Google/discover](https://deepmind.google/discover)

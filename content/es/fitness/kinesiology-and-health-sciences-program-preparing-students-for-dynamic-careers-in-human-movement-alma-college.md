@@ -56,3 +56,7 @@ Si bien el fomento de la investigación estudiantil es encomiable, es importante
 El programa de Kinesiología y Ciencias de la Salud de Alma College se presenta como una plataforma académica robusta con una infraestructura envidiable y un enfoque en el aprendizaje activo y la investigación estudiantil. Sin embargo, los estudiantes deben ser conscientes de que el éxito en este campo requiere una inversión significativa de tiempo, esfuerzo y dinero. Los salarios iniciales para aquellos que no continúan con estudios de posgrado son modestos en relación con el costo de la educación.
 
 En resumen, KHS en Alma College es una opción ideal para estudiantes aspirantes a profesiones de la salud que buscan una base científica rigurosa y práctica antes de avanzar a niveles superiores de educación clínica, **siempre y cuando estén preparados para asumir el riesgo de un retorno de la inversión inicial relativamente bajo y estén dispuestos a comprometerse con estudios de posgrado para alcanzar su máximo potencial**. De lo contrario, podrían encontrarse con una deuda considerable y perspectivas laborales limitadas.
+
+### Fuentes y Autoridad
+* [Análisis en Healthline](https://www.healthline.com)
+* [Análisis en Mayoclinic](https://www.mayoclinic.org)

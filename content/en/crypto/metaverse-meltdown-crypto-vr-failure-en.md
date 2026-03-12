@@ -57,3 +57,7 @@ However, the metaverse story is not entirely one of doom and gloom. While the "s
 Gaming platforms like Roblox (with 151.5 million daily active users) and Fortnite are also thriving, but they are increasingly avoiding the "metaverse" label, preferring to focus on terms like "global games" or "creator ecosystems." This suggests that the core value proposition of immersive, shared experiences remains strong, but the association with the baggage of the failed metaverse is a liability.
 
 The "metaverse meltdown" serves as a cautionary tale about the dangers of hype, the importance of technological readiness, and the need to understand user needs. Simply throwing billions of dollars at a problem does not guarantee success. The industry's pivot towards AI and lightweight smart glasses that augment physical reality, rather than replacing it, suggests a more pragmatic and potentially sustainable path forward. The lesson learned is that technology must solve real problems and offer genuinely compelling experiences beyond mere speculation to achieve widespread adoption.
+
+### Fuentes y Autoridad
+* [Análisis en Coindesk](https://www.coindesk.com)
+* [Análisis en Com](https://cointelegraph.com)

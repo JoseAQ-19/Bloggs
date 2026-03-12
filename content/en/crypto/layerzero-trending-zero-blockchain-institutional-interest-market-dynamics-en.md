@@ -56,3 +56,7 @@ LayerZero's success hinges on:
 3.  **Winning over developers:** A thriving ecosystem of applications is essential. LayerZero needs to provide developers with the tools and support they need to build innovative cross-chain applications.
 
 LayerZero is not a magic bullet for interoperability, but a foundational piece of the puzzle.
+
+### Fuentes y Autoridad
+* [Análisis en Coindesk](https://www.coindesk.com)
+* [Análisis en Com](https://cointelegraph.com)

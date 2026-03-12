@@ -107,3 +107,8 @@ Los acontecimientos geopolíticos pueden tener un impacto significativo en los m
 ### **Conclusión ampliada: Una visión integral para la inversión en Europa**
 
 Invertir en Europa a largo plazo requiere una visión integral que tenga en cuenta tanto los factores económicos como los geopolíticos y tecnológicos. La diversificación, el análisis fundamental y una perspectiva a largo plazo son esenciales para gestionar la incertidumbre y alcanzar los objetivos financieros. Además, es fundamental mantenerse informado sobre los acontecimientos que puedan afectar a los mercados y ajustar la estrategia de inversión en consecuencia. La prudencia y la gestión activa son más importantes que nunca en el entorno actual.
+
+
+### Fuentes y Autoridad
+* [Análisis en Morningstar](https://www.morningstar.com)
+* [Análisis en Investopedia](https://www.investopedia.com)

@@ -66,3 +66,7 @@ La realidad es que estamos viviendo en un futuro orwelliano donde nuestros elect
 Si bien existen opciones para limitar el rastreo, la mayoría de los usuarios no son conscientes de ellas o no saben cómo acceder a ellas. Es necesario que los fabricantes sean más transparentes sobre cómo recopilan y utilizan nuestros datos, y que faciliten a los usuarios el control de su privacidad.
 
 Pero la responsabilidad no recae solo en los fabricantes. Como usuarios, debemos informarnos sobre las configuraciones de privacidad de nuestros dispositivos y tomar medidas para proteger nuestra información personal. Debemos exigir a las empresas que respeten nuestra privacidad y que nos den el control sobre nuestros datos. Solo así podremos evitar que nuestros hogares se conviertan en una extensión del Gran Hermano.
+
+### Fuentes y Autoridad
+* [Análisis en Com/news](https://openai.com/news)
+* [Análisis en Google/discover](https://deepmind.google/discover)

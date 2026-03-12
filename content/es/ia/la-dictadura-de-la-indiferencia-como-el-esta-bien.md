@@ -58,3 +58,8 @@ Superar la "dictadura de la indiferencia" requiere un esfuerzo concertado de tod
 Es crucial comprender que la indiferencia no es simplemente una falta de interés, sino una respuesta a la frustración, la decepción y la falta de esperanza. Para combatir la indiferencia, es necesario abordar las causas subyacentes que la alimentan.
 
 Chile se encuentra en una encrucijada. El país puede seguir por el camino de la indiferencia, que conduce a la erosión de la democracia y el surgimiento de un régimen autoritario, o puede despertar del letargo y reafirmar su compromiso con los valores democráticos. La elección está en manos de los chilenos. El futuro de Chile depende de ello.
+
+
+### Fuentes y Autoridad
+* [Análisis en Com/news](https://openai.com/news)
+* [Análisis en Google/discover](https://deepmind.google/discover)

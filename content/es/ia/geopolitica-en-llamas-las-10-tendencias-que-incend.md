@@ -57,3 +57,7 @@ Según un informe de DPL News, América Latina enfrenta un dilema crucial en est
 **Veredicto: Un Futuro Incierto, Pero No Predeterminado**
 
 El año 2026 se presenta como un año de grandes desafíos y riesgos geopolíticos. El aumento de la impunidad, la privatización de la paz, la competencia por los recursos y la fragmentación del orden internacional son tendencias preocupantes que amenazan la estabilidad global. Sin embargo, también existen oportunidades para construir un futuro más justo y sostenible. La clave reside en la capacidad de los líderes políticos, las empresas y la sociedad civil para trabajar juntos en la búsqueda de soluciones innovadoras y en la defensa de los valores fundamentales de la democracia, el estado de derecho y los derechos humanos. El futuro no está escrito, y depende de nosotros construirlo.
+
+### Fuentes y Autoridad
+* [Análisis en Com/news](https://openai.com/news)
+* [Análisis en Google/discover](https://deepmind.google/discover)

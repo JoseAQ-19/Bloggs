@@ -298,72 +298,77 @@ PROMPT_TOOLS_EN = """ROLE: You are a Senior Software Architect and Technical Rev
 TASK: Write an advanced E-E-A-T technical teardown of the following tool/software based on this internal state.
 
 MANDATORY RULES (ANTI-CORPORATE SHIELD ACTIVE):
-1. NO MARKETING FLUFF: Zero rhetorical questions. Zero empty promises (e.g., "unlock your potential", "take it to the next level").
-2. REQUIRED FORMAT: Start immediately with a [BLUF] (Bottom Line Up Front) bulleted summary containing technical stack, exact pricing model, and best use-case.
-3. STRICT TECHNICAL FOCUS: Discuss API architecture, webhooks, language support, deployment nuances, and specific limitations.
-4. FORBIDDEN WORDS: "TL;DR", "In today's fast-paced world", "Revolutionize", "Game changer".
-5. EXPERT EVIDENCE (E-E-A-T): Provide specific constraints, latency benchmarks, or specific integration barriers. Show, don't tell.
+1. NO MARKETING FLUFF: Zero rhetorical questions. Zero empty promises.
+2. REQUIRED FORMAT: Start immediately with a [BLUF] bulleted summary.
+3. STRICT TECHNICAL FOCUS: API architecture, webhooks, language support.
+4. FORBIDDEN WORDS: "TL;DR", "Revolutionize", "Game changer".
 
-STRUCTURE:
-- **[BLUF] Architecture & TL;DR:** Fast specs.
-- **Under the Hood (Core Mechanics):** How the system engine actually runs.
-- **Integration & Code / Webhooks:** Technical deployment realities (use authentic syntax, DO NOT hallucinate generic code).
-- **Hard Limitations (What it breaks):** Brutally honest drawbacks.
+ESTRUCTURA EXACTA:
+- **[BLUF] Technical Executive Summary:** Specs in 3 lines.
+- **Architecture & Internal Engine:** How it really works.
+- **Integration Mechanics / Scalability:** Deployment in real environments.
+- **Bottlenecks & Limitations:** Hard and objective technical critique (NEVER say "double-edged sword").
 
-MINIMUM LENGTH: 1500 words. Articles under 1200 words are AUTOMATICALLY REJECTED.
+LONGITUD MÍNIMA: 1500 palabras.
 """
 
 SYSTEM_FORMAT_RULES = """
-CRITICAL FORMATTING RULES (ZERO TOLERANCE — VIOLATION = ARTICLE REJECTED):
+### CRITICAL FORMATTING RULES (ZERO TOLERANCE — VIOLATION = ARTICLE REJECTED):
 
 1. NO TITLE REPETITION: Do NOT include the article title or H1 at the beginning.
-2. START IMMEDIATELY: Start with the Hook paragraph directly.
+2. GEO-FIRST OPENING (MANDATORY): The first 200 words MUST contain:
+   a) A bold hook sentence with a specific number/statistic.
+   b) 3 bullet points with precise data (number + source). These are what Perplexity/SearchGPT will cite.
+   Format: "* [Stat with number] — [source name]"
+   Then continue with narrative prose. START IMMEDIATELY with the hook. No filler.
 3. FORBIDDEN PHRASES (INSTANT REJECTION IF FOUND):
-   - English: "TL;DR", "Key Takeaways", "In summary", "In conclusion", "It remains to be seen", "In the ever-evolving", "It's worth noting", "Navigating the complexities", "Here is", "Sure", "Here's the article"
-   - Spanish: "En resumen", "En conclusión", "En última instancia", "En el vertiginoso", "Cabe destacar", "Un arma de doble filo", "Queda por ver", "Aquí tienes", "Claro", "Aquí está"
+   - English: "TL;DR", "Key Takeaways", "In summary", "In conclusion", "It remains to be seen", "In the ever-evolving", "It's worth noting", "Navigating the complexities", "Here is", "Sure", "Here's the article", "The Bottom Line", "Final Thoughts", "To summarize", "As we have seen", "Without a doubt", "It goes without saying", "In essence", "Ultimately", "The takeaway here", "unlock your potential", "world of possibilities", "AI-driven", "revolutionizing tomorrow"
+   - Spanish: "En resumen", "En conclusión", "En última instancia", "En el vertiginoso", "Cabe destacar", "Un arma de doble filo", "Queda por ver", "Aquí tienes", "Claro", "Aquí está", "Como hemos visto", "Sin lugar a dudas", "Es importante destacar", "Para resumir", "En esencia", "En definitiva", "La clave aquí", "desbloquea tu potencial", "un mundo de posibilidades", "impulsado por la IA", "revolucionando el mañana", "últimos pensamientos"
    - NEVER start your response with conversational filler like 'Here is the article' or 'Sure!'. START IMMEDIATELY with the first word of the article.
-4. HEADERS HIERARCHY (SEO OPTIMIZATION): Use H2 (##) for main sections and H3 (###) for sub-sections. NEVER use H1 (#). A deep, structured hierarchy (H2 > H3) is mandatory for SEO and readability.
+4. HEADERS HIERARCHY (SEO OPTIMIZATION): Use H2 (##) for main sections and H3 (###) for sub-sections. NEVER use H1 (#). You MUST follow a strict logical hierarchy (H2 -> H3 -> H2). NEVER skip levels (e.g., H2 -> H4 is forbidden). PROHIBITED: Consecutive headers without at least 50 words of paragraph content between them. The primary keyword MUST appear in at least 1 H2.
 5. OUTBOUND LINKS (MANDATORY — MINIMUM 3):
    Include at least 3 hyperlinks to REAL external authoritative sources in markdown format.
-   Examples: academic papers, official reports, established news outlets (Reuters, Bloomberg, TechCrunch, ArsTechnica, PubMed).
    Format: [descriptive anchor text](https://real-verified-url.com)
-   NEVER fabricate or hallucinate URLs. Only link to sources you are confident exist.
-   CRITICAL: Every URL you include will be automatically verified with an HTTP request. If it returns 404 or 500, it will be STRIPPED from the article. Only include URLs you are 100% certain are live and correct. Do NOT guess URL paths — use only root domains or well-known paths you have memorized with certainty.
+   NEVER fabricate or hallucinate URLs. Only link to sources from the RESEARCH DATA or well-known root domains.
+   CRITICAL: Citing a source ONLY in bold (**Forbes**, **Reuters**) is FORBIDDEN. Every source MUST be a clickable hyperlink.
+   Placeholders like **FUENTES INFORMADAS**, **source**, **unnamed sources** = INSTANT REJECTION.
 6. UNIQUE DATA POINT (MANDATORY — MINIMUM 1):
-   Include at least ONE original comparative calculation, metric, or data insight that adds information gain.
-   Example: "If we divide Meta's $70B investment by Horizon's 200K monthly users, that's $350,000 per user — more expensive than a median US house."
-   The reader must learn something they CANNOT find in any other article.
+   Include at least ONE original comparative calculation that adds information gain.
+   Example: "If we divide Meta's $70B investment by 200K users, that's $350,000 per user."
 7. PARAGRAPH LENGTH VARIATION (MANDATORY):
    Paragraphs MUST vary between 1 and 6 sentences. Include at least:
    - One single-sentence paragraph for dramatic effect
    - One longer analytical paragraph (5-6 sentences)
-   UNIFORM paragraph length is FORBIDDEN.
-8. MANDATORY 7-SECTION STRUCTURE (H2 with H3 sub-headers):
-   Every article MUST have exactly 7 main sections (H2 Headers). Within these sections, you MUST use H3 Headers to break down complex points and improve scannability.
-   Bajo ninguna circunstancia puedes usar encabezados predecibles como 'El caso de estudio', 'El consenso experto' o 'Nuestra lectura'. Debes camuflar la estructura en subtítulos orgánicos, creativos y específicos del tema.
+8. MANDATORY 5-7 SECTION STRUCTURE (H2 with H3 sub-headers):
+   Every article MUST have 5-7 main sections (H2 Headers). Use H3 within for scannability.
+   FORBIDDEN generic headers: 'Conclusion', 'En resumen', 'The Bottom Line', 'Final Thoughts'.
+   Instead use: 'El veredicto', 'Lo que nadie te dice', 'The Verdict Is In', 'Qué hacer ahora'.
+   Each H2 section MUST start with a verifiable data point, NOT a rhetorical question.
    
-   IF YOU ARE WRITING IN ENGLISH, the 7 sections conceptually cover:
-   1. Provocative opening + BLUF (organic header)
-   2. Numbers, facts, funding (organic header)
-   3. What the industry says + Quotes (organic header)
-   4. Why the consensus is wrong (organic header)
-   5. Economic/Sociological Impact (organic header)
-   6. Real-world implementation (organic header)
-   7. Final, polarizing editorial take (organic header)
-   
-   IF YOU ARE WRITING IN SPANISH, ALL HEADERS MUST BE IN SPANISH and organically camouflaged to the specific topic.
-   
-   Each section MUST be at least 250-300 words long to achieve the 1500+ word total.
+   IF YOU ARE WRITING IN SPANISH, ALL HEADERS MUST BE IN SPANISH.
+   Each section MUST be at least 250-300 words.
 
 9. NO BULLET LISTS SPAM AND NO TABLES ALLOWED:
-   Do NOT use bullet point lists in every section. Maximum ONE bulleted list per article.
-   ABSOLUTE PROHIBITION ON TABLES: UNDER NO CIRCUMSTANCES should you use Markdown tables (| --- |). They never format correctly. Always use narrative prose or bullet points if you must compare data.
-10. PERSONAL VOICE (MANDATORY):
-    Include at least ONE editorial hot take, personal opinion, or rhetorical question that shows genuine author personality.
-    The article must NOT read like a Wikipedia summary.
+   Maximum ONE bulleted list per article (the GEO opening bullets).
+   ABSOLUTE PROHIBITION ON TABLES (| --- |). Use narrative prose.
+10. E-E-A-T EXPERT CITATION (MANDATORY):
+    Cite at least 2 named experts (full name + title + institution) in the article.
+    Include at least 5 numeric data points with sources. At least ONE link MUST point to a primary authority (.gov, .edu, NIST, IEEE, or official corporate reports).
 11. LANGUAGE PURITY:
-    If writing in Spanish, ALL text must be in Spanish. No Spanglish, no untranslated English headers.
+    If writing in Spanish, ALL text must be in Spanish. No Spanglish.
     If writing in English, ALL text must be in English.
+12. LAST SECTION RULE: The final H2 NEVER uses 'Conclusion', 'En conclusión', 'The Bottom Line', or 'Final Thoughts'.
+    Use action-oriented headers instead.
+13. CHUNKING (GEO OPTIMIZATION - ZERO FLUFF):
+    Under EVERY H2 or H3 header, the VERY FIRST sentence MUST directly and concisely answer the premise of the header.
+    FORBIDDEN: Long introductions, philosophical musings, or "fluff" at the start of a section. Answer first, develop the argument second.
+14. SCHEMA MARKUP (JSON-LD STRUCTURE - SEO 2026):
+    At the absolute END of the article, you MUST generate a valid `<script type="application/ld+json">` block containing:
+    - A `NewsArticle` or `Article` schema.
+    - A `FAQPage` schema based on the real user complaints/doubts from the research data.
+    The output MUST be valid JSON-LD code enclosed in raw HTML tags without any other text.
+15. REAL USER FAQs (INFORMATION GAIN):
+    You MUST include a FAQ section as the penultimate H2. This section MUST be based on real complaints, problems, and doubts from Forums (Reddit/Quora) provided in the research context. Answer these specific pain points directly. Do NOT invent generic FAQs.
 """
 
 # --- CONFIGURACIÓN DE NICHOS ---
@@ -500,30 +505,36 @@ def planificar_articulo(tema, contexto, lang, category_config):
     except:
         return {"titulo": f"{tema} Analysis", "slug": SlugManager.generate(tema) + ("-en" if lang=="en" else "")}
 
-# --- E-E-A-T OUTBOUND LINK INJECTION RULES ---
+# --- E-E-A-T OUTBOUND LINK INJECTION RULES (v3.0) ---
 EEAT_LINK_RULES = """
-OUTBOUND LINKS — STRICT E-E-A-T COMPLIANCE (ZERO TOLERANCE):
+═══════════════════════════════════════════════════
+🔗 LINKING SHIELD v3.0 — ZERO TOLERANCE PROTOCOL
+═══════════════════════════════════════════════════
 
-Every time you mention ANY of the following, you MUST include a markdown hyperlink:
+EXTERNAL LINKS (Authority):
+1. You MUST include a MINIMUM of 3 outbound hyperlinks in Markdown format: [Source Name](https://exact-url.com)
+2. These links MUST use URLs from the "FUENTES VALIDADAS DISPONIBLES" section when available, copy-pasted VERBATIM.
+3. If no verified URL exists, use the publication's homepage (e.g., https://www.reuters.com, https://www.bloomberg.com).
+4. NEVER cite a source using only bold text (**Source**). Every source MUST be a clickable hyperlink.
+5. Placeholder citations like **FUENTES INFORMADAS**, **source**, or **unnamed sources** = INSTANT REJECTION.
+6. Do NOT use scholar.google.com or google.com/search as placeholder links.
+7. A single fabricated URL will cause the ENTIRE article to be rejected.
+
+INTERNAL LINKS (Retention):
+8. You MUST include at LEAST 1 internal link using the URLs from the "ENLAZADO INTERNO OBLIGATORIO" section.
+9. Internal links MUST be contextually relevant — weave them naturally into a sentence.
+10. Format: [descriptive anchor text](relative-path)
+
+TRIGGERS (When you MUST add a link):
 - A statistic or data point → link to the original report/study
-- An expert's name or quote → link to their profile, interview, or publication
-- A company's action (acquisition, layoff, product launch) → link to a credible news article
+- An expert's name or quote → link to their profile or publication
+- A company action → link to a credible news article
 - A study or research paper → link to PubMed, arXiv, IEEE, or the journal
-- A tool, product, or platform → link to its official website
 
-Format: [descriptive anchor text](https://real-verified-url.com)
+MINIMUM: 3 outbound + 1 internal per article.
+MAXIMUM: 12 outbound links (avoid appearing spammy).
 
-MINIMUM: 5 outbound links per article.
-MAXIMUM: Do not exceed 12 outbound links (avoid appearing spammy).
-
-CRITICAL ANTI-HALLUCINATION RULE:
-- You may ONLY use URLs that appear in the RESEARCH DATA section provided below.
-- If a fact has NO corresponding URL in the research data, mention the source name as plain text WITHOUT a hyperlink.
-- It is ABSOLUTELY FORBIDDEN to invent, guess, or fabricate any URL.
-- Do NOT use scholar.google.com or google.com/search as placeholder links.
-- A single fabricated URL will cause the ENTIRE article to be rejected.
-
-ARTICLES WITH FEWER THAN 3 OUTBOUND LINKS WILL BE REJECTED.
+QUALITY GATE: Articles missing ](http or ](/ will be REJECTED and re-generated.
 """
 
 # ============================================================
@@ -547,14 +558,14 @@ def _get_internal_links(category, lang, current_slug=""):
                 content = f.read(500)
             # Extract title from frontmatter
             import re as _re
-            match = _re.search(r'title:\s*["\']?(.+?)["\']?\s*$', content, _re.MULTILINE)
-            if match:
-                title = match.group(1).strip().strip('"').strip("'")
+            m = _re.search(r'^title:\s*"?([^"\n]+)"?', content, _re.MULTILINE)
+            if m:
+                title = m.group(1).strip().strip('"').strip("'")
                 # FIX BILINGÜE: EN es raíz /{cat}/{slug}/, ES es /es/{cat}/{slug}/
                 if lang == "es":
                     rel_path = f"/es/{category}/{slug}/"
                 else:
-                    rel_path = f"/{category}/{slug}/"
+                    rel_path = f"/en/{category}/{slug}/"
                 links.append((title, rel_path))
         except:
             continue

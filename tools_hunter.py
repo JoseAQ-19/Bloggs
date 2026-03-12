@@ -14,10 +14,10 @@ class ToolsHunter:
             
         exa = Exa(api_key)
         
-        # BÚSQUEDA OPTIMIZADA (TECHNICAL ARCHITECTURE & TEARDOWN)
-        # Buscamos documentación oficial, arquitectura y casos de uso empresariales en vez de listados genéricos.
-        query = f"technical architecture review, official documentation changelog, developer benchmark, and advanced deployment use cases for enterprise {niche} software tools 2026"
-        print(f"🧠 [Exa] Buscando inteligencia técnica: {query}...")
+        # BÚSQUEDA OPTIMIZADA (TECHNICAL ARCHITECTURE & TEARDOWN + FORUM COMPLAINTS)
+        # Buscamos documentación oficial, problemas reales en foros y casos de uso en vez de listados genéricos.
+        query = f"technical architecture review, developer benchmark, and user complaints, limitations, bugs, subreddit reviews for {niche} software tools 2026"
+        print(f"🧠 [Exa] Buscando inteligencia técnica y dolores reales: {query}...")
         
         try:
             from datetime import datetime, timedelta

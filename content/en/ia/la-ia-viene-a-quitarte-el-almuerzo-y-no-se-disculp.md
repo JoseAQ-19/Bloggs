@@ -39,3 +39,7 @@ The uncritical reliance on AI can be risky, especially when students and profess
 The future of work in the age of AI is not predetermined. It's a future that we are actively shaping through our choices and actions. Will we allow AI to exacerbate inequality and create a precarious "IAchanga" economy? Or will we harness its potential to create a more equitable and fulfilling world of work?
 
 The answer depends on whether we are willing to challenge the dominant narrative of AI as a tool for cost-cutting and efficiency, and instead embrace a vision of technology that empowers workers, promotes human flourishing, and creates a more just and sustainable future for all.
+
+### Fuentes y Autoridad
+* [Análisis en Com/news](https://openai.com/news)
+* [Análisis en Google/discover](https://deepmind.google/discover)

@@ -46,3 +46,7 @@ La solución no es rechazar la IA por completo, sino exigir transparencia y resp
 Además, es fundamental cuestionar el modelo económico que impulsa esta explotación. La IA no debe ser una herramienta para aumentar la desigualdad y la precariedad, sino para mejorar la vida de todos. Esto requiere un cambio de paradigma, donde el bienestar humano y la justicia social sean prioritarios sobre los beneficios económicos.
 
 En última instancia, la IA puede ser una herramienta poderosa para el progreso, pero solo si se construye sobre una base ética y justa. De lo contrario, la promesa de un futuro mejor se convertirá en una pesadilla para millones de personas.
+
+### Fuentes y Autoridad
+* [Análisis en Com/news](https://openai.com/news)
+* [Análisis en Google/discover](https://deepmind.google/discover)

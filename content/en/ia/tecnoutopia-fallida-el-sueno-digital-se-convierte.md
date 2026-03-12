@@ -36,3 +36,7 @@ So, what can be done to counter the rise of technofeudalism? Cédric Durand sugg
 Moreover, the educational sector requires a critical re-evaluation of the integration of technology. As the Chilean study indicates, a simple adoption of digital tools without considering the socio-technical imaginaries and their impact on teachers' work can lead to detrimental outcomes. Educational policies need to prioritize the autonomy and expertise of educators, ensuring that technology serves their needs and not the other way around.
 
 The fight against technofeudalism is not simply a matter of technological fixes or policy adjustments. It requires a broader political and social movement that challenges the power of tech giants and fights for a more just and equitable society. It demands a renewed commitment to democratic values, social solidarity, and the belief that technology should serve the common good, not just the interests of a privileged few. This isn't about rejecting technology; it's about reclaiming it and shaping it to serve a more humane and equitable future. The digital dream doesn't have to become a neoliberal nightmare; we still have the power to rewrite the code.
+
+### Fuentes y Autoridad
+* [Análisis en Com/news](https://openai.com/news)
+* [Análisis en Google/discover](https://deepmind.google/discover)

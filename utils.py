@@ -60,11 +60,21 @@ class ImageManager:
 import glob
 class LinkManager:
     @staticmethod
-    def get_latest_internal_links(lang="es", limit=5):
-        """Obtiene los últimos artículos publicados para enlazado interno."""
+    def get_latest_internal_links(lang="es", category=None, limit=5):
+        """Obtiene los últimos artículos publicados para enlazado interno (Siloed)."""
         base_dir = os.path.dirname(os.path.abspath(__file__))
-        search_pattern = os.path.join(base_dir, "content", lang, "**", "*.md")
+        if category:
+            search_pattern = os.path.join(base_dir, "content", lang, category, "*.md")
+        else:
+            search_pattern = os.path.join(base_dir, "content", lang, "**", "*.md")
+            
         files = glob.glob(search_pattern, recursive=True)
+        
+        # Fallback if category has no enough files
+        if category and len(files) < limit:
+            fallback_pattern = os.path.join(base_dir, "content", lang, "**", "*.md")
+            files += [f for f in glob.glob(fallback_pattern, recursive=True) if f not in files]
+            
         files.sort(key=os.path.getmtime, reverse=True)
         
         links = []
@@ -88,12 +98,12 @@ class LinkManager:
                 continue
                 
             if title and slug:
+                # Determinar categoría real para el link
                 rel_path = os.path.relpath(fpath, os.path.join(base_dir, "content", lang))
                 parts = rel_path.replace('\\', '/').split('/')
-                if len(parts) >= 2:
-                    category = parts[0]
-                    links.append({"title": title, "url": f"/{category}/{slug}/"})
-                else:
-                    links.append({"title": title, "url": f"/{slug}/"})
+                
+                final_cat = parts[0] if len(parts) >= 2 else ""
+                url = f"/{lang}/{final_cat}/{slug}/" if final_cat else f"/{lang}/{slug}/"
+                links.append({"title": title, "url": url})
                     
         return links
