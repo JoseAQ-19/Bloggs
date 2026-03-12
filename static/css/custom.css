@@ -103,6 +103,7 @@ html {
     color: var(--text-color) !important;
     font-family: var(--font-body) !important;
     scroll-behavior: smooth;
+    max-width: 100vw;
     overflow-x: hidden;
     width: 100%;
     max-width: 100vw;
@@ -873,17 +874,27 @@ table {
         top: 0;
         z-index: 10002 !important;
         background-color: var(--bg-color);
+<<<<<<< HEAD
         max-width: 100vw;
         overflow-x: hidden;
         box-sizing: border-box;
+=======
+        width: 100%;
+>>>>>>> eba4c2d3bb49f6aee38341831498523d4261f3a1
     }
 
     .site-nav__inner {
         padding: 0;
         gap: 0.25rem;
+<<<<<<< HEAD
         width: 100%;
         max-width: 100vw;
         box-sizing: border-box;
+=======
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+>>>>>>> eba4c2d3bb49f6aee38341831498523d4261f3a1
     }
 
     .site-nav__logo {
@@ -906,6 +917,8 @@ table {
     .lang-switcher {
         gap: 0.4rem !important;
         font-size: 0.85rem;
+        display: flex !important;
+        visibility: visible !important;
     }
 
     /* --- HAMBURGER: Bigger touch target (44px min) --- */
