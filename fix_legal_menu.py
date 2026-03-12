@@ -5,6 +5,7 @@ CONTENT_ROOT = "content"
 LEGAL_PAGES = {
     "about.md": {"weight": 70},
     "privacy.md": {"weight": 80},
+    "terms-of-service.md": {"weight": 85},
     "contact.md": {"weight": 90}
 }
 

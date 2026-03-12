@@ -1,24 +1,31 @@
 PROMPT_BLUEPRINT_EN = """
 ACT AS: Senior Software Architect and Technical Reviewer.
-TASK: Write an advanced E-E-A-T technical teardown of the following tool/software based on this internal state.
+TASK: Write an advanced E-E-A-T technical teardown of the following tool/software.
 ORIGINAL SOURCE TITLE: "{title}"
 RAW CONTENT: {transcript}
 
-MANDATORY RULES (ANTI-CORPORATE SHIELD ACTIVE):
-1. NO MARKETING FLUFF: Zero rhetorical questions. Zero empty promises (e.g., "unlock your potential", "take it to the next level").
-2. REQUIRED FORMAT: Start immediately with a [BLUF] (Bottom Line Up Front) bulleted summary containing technical stack, exact pricing model, and best use-case.
-3. STRICT TECHNICAL FOCUS: Discuss API architecture, webhooks, language support, deployment nuances, and specific limitations.
-4. FORBIDDEN WORDS: "TL;DR", "In today's fast-paced world", "Revolutionize", "Game changer".
-5. EXPERT EVIDENCE (E-E-A-T): Provide specific constraints, latency benchmarks, or specific integration barriers. Show, don't tell.
-6. LINKS: Insert at least 3 markdown links pointing directly to official developer documentation or API references.
+### CRITICAL FORMATTING RULES (ZERO TOLERANCE — VIOLATION = REJECTED):
+1. NO TITLE REPETITION: Start immediately with the BLUF Hook.
+2. GEO-FIRST OPENING (MANDATORY): The first 200 words MUST contain a [BLUF] section with:
+   a) A bold hook sentence with a specific tech metric/datum.
+   b) 3 bullet points with precise data (stack, pricing, performance).
+   Format: "* [Stat] — [Source]"
+3. FORBIDDEN PHRASES: "TL;DR", "In today's fast-paced world", "Revolutionize", "In conclusion". See main list for more.
+4. HEADERS HIERARCHY: Use H2/H3 ONLY. NEVER skip levels.
+5. OUTBOUND LINKS: MINIMUM 3 clickable hyperlinks to official docs or APIs.
+6. UNIQUE DATA POINT: Include ONE original calculation (e.g., cost per API call).
+7. PARAGRAPH VARIATION: Mix 1-sentence and 5-sentence paragraphs.
+8. 5-7 SECTION STRUCTURE: Logical flow from Architecture to Limitations.
+9. NO TABLES: Use narrative prose or bulleted lists.
+10. E-E-A-T CITATION: Cite 2 named experts + 5 numeric data points.
+11. LANGUAGE PURITY: 100% English.
+12. LAST SECTION: Header must be action-oriented (e.g., 'Final Verdict').
+13. CHUNKING (OBLIGATORY): The first sentence under EVERY header MUST answer it directly.
+14. SCHEMA MARKUP: End with valid <script type="application/ld+json"> for NewsArticle & FAQPage.
+15. REAL USER FAQs: Include a section based on Redditor/Quora complaints about the tool.
 
-STRUCTURE:
-- **[BLUF] Architecture & TL;DR:** Fast specs.
-- **Under the Hood (Core Mechanics):** How the system engine actually runs.
-- **Integration & Code / Webhooks:** Technical deployment realities (use authentic syntax, DO NOT hallucinate generic code).
-- **Hard Limitations (What it breaks):** Brutally honest drawbacks.
-
-LENGTH: 1500 words. LANGUAGE: ENGLISH.
+STRUCTURE: [BLUF] -> Under the Hood -> Integration Mechanics -> Hard Limitations -> Verdict -> FAQs -> JSON-LD.
+LENGTH: 1500 words.
 """
 
 PROMPT_BLUEPRINT_ES = """
@@ -27,20 +34,28 @@ TAREA: Redacta un desglose técnico (Teardown) bajo las normativas de E-E-A-T so
 FUENTE ORIGINAL: "{title}"
 CONTENIDO BRUTO: {transcript}
 
-REGLAS OBLIGATORIAS (ESCUDO ANTI-CORPORATIVO ACTIVO):
-1. TÍTULO NUEVO: Profesional, aséptico y centrado en la viabilidad técnica de la herramienta. (Cero clickbait o promesas de dinero).
-2. ANTI-BASURA COMERCIAL: Prohibidas preguntas retóricas como "¿Sigues usando Excel?". Prohibido usar "En resumen", "Revolucionario", "El futuro es hoy".
-3. REQUISITO BLUF: El primer párrafo DEBE ser una sección con la viñeta [BLUF] (Bottom-Line Up Front) resumiendo la arquitectura, el caso de uso exacto y el modelo de precios real.
-4. PROFUNDIDAD TÉCNICA (E-E-A-T): Analiza su API, su gestión de errores, latencia, soporte de lenguajes o infraestructura. Escribe para Ingenieros, no para Marketers. NUNCA alucines código, si no sabes cómo es su interfaz, analiza su topología a alto nivel.
-5. REFERENCIAS: Incluye 3 hipervínculos markdown estrictos a documentación API oficial, repositorios o whitepapers.
+### REGLAS OBLIGATORIAS CRÍTICAS (TOLERANCIA CERO):
+1. SIN REPETICIÓN DE TÍTULO: Empieza directamente con el gancho [BLUF].
+2. APERTURA GEO-FIRST: Las primeras 200 palabras DEBEN incluir:
+   a) Un hook en negrita con un dato técnico/estadística.
+   b) 3 viñetas con datos precisos (stack, precios, latencia).
+   Formato: "* [Dato] — [Fuente]"
+3. FRASES PROHIBIDAS: "En resumen", "Revolucionario", "El futuro es hoy", "Queda por ver".
+4. JERARQUÍA H2-H3: Solo niveles H2/H3. Sin saltos de jerarquía.
+5. ENLACES EXTERNOS: MÍNIMO 3 hipervínculos markdown a documentación oficial.
+6. DATO ÚNICO: Incluye UN cálculo original (ej: coste por transacción/token).
+7. VARIACIÓN DE PÁRRAFOS: Mezcla párrafos de 1 oración con otros analíticos.
+8. ESTRUCTURA 5-7 SECCIONES: De Arquitectura a Limitaciones.
+9. SIN TABLAS: Uso de prosa narrativa o listas.
+10. CITA E-E-A-T: Cita a 2 expertos reales + 5 datos numéricos con fuente.
+11. PUREZA DE IDIOMA: 100% Español Neutro.
+12. ÚLTIMA SECCIÓN: Header orientado a la acción (ej: 'Veredicto Final').
+13. CHUNKING (OBLIGATORIO): La primera oración de CADA encabezado debe responder frontalmente.
+14. SCHEMA MARKUP: Finaliza con el bloque <script type="application/ld+json"> con NewsArticle y FAQPage.
+15. FAQs REALES: Incluye sección de FAQs basada en problemas reales de foros (Reddit/Quora).
 
-ESTRUCTURA EXACTA:
-- **[BLUF] Resumen Ejecutivo Técnico:** Specs en 3 líneas.
-- **Arquitectura y Motor Interno:** Cómo funciona realmente.
-- **Mecánicas de Integración / Escalabilidad:** Despliegue en entornos reales.
-- **Cuellos de Botella y Limitaciones:** Crítica técnica dura y objetiva.
-
-LONGITUD: 1500 palabras. IDIOMA: ESPAÑOL NEUTRO.
+ESTRUCTURA: [BLUF] -> Arquitectura Motor -> Mecánicas Integración -> Limitaciones Duras -> Veredicto -> FAQs -> JSON-LD.
+LONGITUD: 1500 palabras.
 """
 
 # Prompt específico para generar Títulos (Limpio)

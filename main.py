@@ -1538,6 +1538,44 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
     clean_title = meta['titulo'].replace('"', '').replace('\\$', '$').replace('\\[', '[').replace('\\]', ']')
     clean_desc = clean_text.replace('\\$', '$').replace('\\[', '[').replace('\\]', ']')
     
+    # ── PROGRAMMATIC INTERNAL LINK INJECTION ──
+    internal_links_footer = ""
+    footer_links = LinkManager.get_latest_internal_links(lang=lang, limit=2)
+    if footer_links:
+        internal_links_footer += "\n\n### Artículos Relacionados\n" if lang == 'es' else "\n\n### Related Articles\n"
+        for fl in footer_links:
+            internal_links_footer += f"- [{fl['title']}]({fl['url']})\n"
+    
+    # ── PROGRAMMATIC JSON-LD INJECTION ──
+    # Extraer URLs de imagen absoluta (asumiendo novumworld.com)
+    abs_image = f"https://novumworld.com{imagen}" if imagen.startswith('/') else imagen
+    json_ld = f"""
+<script type="application/ld+json">
+{{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "{clean_title}",
+  "description": "{clean_desc}",
+  "image": "{abs_image}",
+  "datePublished": "{date_str}",
+  "author": {{
+    "@type": "Organization",
+    "name": "NovumWorld Editorial Team"
+  }},
+  "publisher": {{
+    "@type": "Organization",
+    "name": "NovumWorld",
+    "logo": {{
+      "@type": "ImageObject",
+      "url": "https://novumworld.com/images/logo.png"
+    }}
+  }}
+}}
+</script>
+"""
+    # Agregar Footer Links y JSON-LD al contenido
+    contenido_enrich = contenido.strip() + internal_links_footer + "\n\n" + json_ld.strip()
+
     # Frontmatter YAML limpio y validado
     front_matter = f"""---
 title: "{clean_title}"
@@ -1554,7 +1592,7 @@ translationKey: "{translation_key}"
 
 ![{meta['titulo'].replace('"', '')}]({imagen})
 
-{contenido}
+{contenido_enrich}
 """
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(front_matter)

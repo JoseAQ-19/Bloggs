@@ -33,50 +33,47 @@ DISCLAIMERS = {
 }
 
 # ============================================================
-# ESTRUCTURA OBLIGATORIA DE ARTÍCULOS (TABLA COMPARATIVA)
+# ESTRUCTURA OBLIGATORIA DE ARTÍCULOS (15 REGLAS DE ORO)
 # ============================================================
 
 ARTICLE_STRUCTURE = """
-ESTRUCTURA OBLIGATORIA DEL ARTÍCULO (VIOLACIÓN = RECHAZO):
+### CRITICAL FORMATTING RULES (ZERO TOLERANCE — VIOLATION = ARTICLE REJECTED):
 
-1. **TÍTULO CON GANCHO Y DATO**: El título DEBE contener un número, porcentaje o dato financiero específico. 
-   Ej: "Indexa Capital Supera el 12% Anualizado: ¿Es el Mejor Roboadvisor de 2025?"
-
-2. **GEO-FIRST OPENING (TL;DR DE DATOS)**: Los primeros 200 palabras DEBEN contener:
-   a) Hook en negrita con una estadística impactante.
-   b) 3 bullet points con datos precisos (número + fuente Morningstar/SEC/CNMV).
-   Format: "* [Dato numérico] — [fuente]"
-   Esto permite que Perplexity/SearchGPT citen el artículo directamente.
-
-3. **ANÁLISIS DE FONDOS (TABLA COMPARATIVA)**: Usar lista con viñetas (NO tabla markdown).
-   Para cada fondo: ISIN, TER, Rating, Sharpe, y Rendimiento (1, 3, 5 años).
-   Si falta un dato, indicar "N/D". NUNCA inventar.
-
-4. **OPINIÓN DE EXPERTOS (CITA LITERAL)**: Obligatorio incluir 1 cita literal entre comillas ("...") 
-   especificando NOMBRE + CARGO + INSTITUCIÓN del analista.
-
-5. **ANÁLISIS CONTRARIANO (RIESGOS)**: Sección dedicada a por qué la tesis podría fallar.
-
-6. **VEREDICTO DE LA MÁQUINA (H2 OBLIGATORIO)**: Header exacto: "## El Veredicto de la Máquina" (es) 
-   o "## The Machine's Verdict" (en). Tono crudo, cínico y directo sin filtros.
-
-7. **ENLAZADO OBLIGATORIO**:
-   - MÍNIMO 3 enlaces externos [Fuente](URL) a sitios de autoridad (SEC, Bloomberg, Morningstar).
-   - MÍNIMO 1 enlace interno contextual a otros artículos de NovumWorld.
-   - PROHIBIDO citar fuentes solo en negrita (**Reuters**). TODO debe ser clickable.
-
-8. **CHUNKING (GEO OPTIMIZATION - ZERO FLUFF)**:
-   Under EVERY H2 or H3 header, the VERY FIRST sentence MUST directly and concisely answer the premise of the header.
-   FORBIDDEN: Long introductions, philosophical musings, or "fluff" at the start of a section. Answer first, develop the argument second.
-
-9. **REAL USER FAQs (INFORMATION GAIN)**:
-   You MUST include a FAQ section as the penultimate H2. This section MUST be based on real complaints, problems, and doubts from Forums (Reddit/Quora) provided in the research context. Answer these specific pain points directly. Do NOT invent generic FAQs.
-
-10. **SCHEMA MARKUP (JSON-LD STRUCTURE - SEO 2026)**:
-    At the absolute END of the article, you MUST generate a valid `<script type="application/ld+json">` block containing:
-    - A `NewsArticle` or `Article` schema.
-    - A `FAQPage` schema based on the real user complaints/doubts from the research data.
-    The output MUST be valid JSON-LD code enclosed in raw HTML tags without any other text.
+1. NO TITLE REPETITION: Do NOT include the article title or H1 at the beginning.
+2. GEO-FIRST OPENING (MANDATORY): The first 200 words MUST contain:
+   a) A bold hook sentence with a specific number/statistic/percentage.
+   b) 3 bullet points with precise financial data (number + metric + source).
+   Format: "* [Stat with number] — [source Morningstar/SEC/CNMV]"
+   Then continue with narrative prose. START IMMEDIATELY with the hook. No filler.
+3. FORBIDDEN PHRASES (INSTANT REJECTION IF FOUND):
+   - English: "TL;DR", "Key Takeaways", "In summary", "In conclusion", "It remains to be seen", "The Bottom Line", "Final Thoughts", "unlock your potential", "world of possibilities"
+   - Spanish: "En resumen", "En conclusión", "En última instancia", "Cabe destacar", "Un arma de doble filo", "Queda por ver", "desbloquea tu potencial", "un mundo de posibilidades"
+   - NEVER start your response with 'Here is the article' or 'Sure!'. START IMMEDIATELY.
+4. HEADERS HIERARCHY (SEO OPTIMIZATION): Use H2 (##) for main sections and H3 (###) for sub-sections. NEVER use H1 (#). Logical hierarchy (H2 -> H3 -> H2) is mandatory. The primary keyword/fund name MUST appear in at least 1 H2.
+5. OUTBOUND LINKS (MANDATORY — MINIMUM 3):
+   Include at least 3 hyperlinks to REAL external authoritative financial sources (Morningstar, SEC, Bloomberg, FT).
+   Format: [descriptive anchor text](https://real-verified-url.com)
+   CRITICAL: Citing a source ONLY in bold (**Reuters**) is FORBIDDEN. Every source MUST be a clickable link.
+6. UNIQUE DATA POINT (MANDATORY — MINIMUM 1):
+   Include at least ONE original comparative calculation or fee analysis (e.g., TER vs Performance impact).
+7. PARAGRAPH LENGTH VARIATION (MANDATORY):
+   Paragraphs MUST vary between 1 and 6 sentences. Include at least one single-sentence paragraph for drama.
+8. MANDATORY 5-7 SECTION STRUCTURE (H2 with H3 sub-headers):
+   Every article MUST have 5-7 main sections. penúltimo H2 debe ser "Real User FAQs".
+9. NO BULLET LISTS SPAM AND NO TABLES ALLOWED:
+   Maximum ONE bulleted list per article (the GEO opening bullets). ABSOLUTE PROHIBITION ON TABLES. Use narrative prose with bulleted highlights for fund data.
+10. E-E-A-T EXPERT CITATION (MANDATORY):
+    Cite at least 2 named experts (full name + title + institution) in the article.
+    Include at least 5 numeric data points with sources. At least ONE link MUST point to a primary authority (.gov, .edu, SEC, CNMV).
+11. LANGUAGE PURITY:
+    If writing in Spanish, ALL text must be in Spanish. No Spanglish.
+12. LAST SECTION RULE: The final H2 NEVER uses 'Conclusion'. Use action-oriented headers like 'The Machine's Verdict' or 'Investment Strategy'.
+13. CHUNKING (GEO OPTIMIZATION - ZERO FLUFF):
+    Under EVERY H2 or H3 header, the VERY FIRST sentence MUST directly and concisely answer the premise of the header. No introductions.
+14. SCHEMA MARKUP (JSON-LD STRUCTURE - SEO 2026):
+    At the absolute END of the article, you MUST generate a valid `<script type="application/ld+json">` block containing NewsArticle and FAQPage schema.
+15. REAL USER FAQs (INFORMATION GAIN):
+    You MUST include a FAQ section as the penultimate H2 based on real investor complaints/doubts from Forums/Reddit.
 """
 
 # ============================================================

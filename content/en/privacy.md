@@ -1,11 +1,14 @@
 ---
-title: "Privacy Policy"
-description: "Legal information on how NovumWorld collects, uses, and protects your personal data."
-url: "/privacy/"
-layout: "single"
-featured_image: "/images/privacy.jpg"
+description: Legal information on how NovumWorld collects, uses, and protects your
+  personal data.
 draft: false
-translationKey: "privacy"
+featured_image: /images/privacy.jpg
+layout: single
+menu: main
+title: Privacy Policy
+translationKey: privacy
+url: /privacy/
+weight: 80
 ---
 
 ## Privacy Policy

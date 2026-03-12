@@ -70,6 +70,16 @@ enableRobotsTXT = true
   name = "💰 Funds"
   url = "/en/funds/"
   weight = 70
+[[languages.en.menu.main]]
+  identifier = "privacy"
+  name = "🔒 Privacy Policy"
+  url = "/en/privacy/"
+  weight = 80
+[[languages.en.menu.main]]
+  identifier = "terms"
+  name = "⚖️ Terms of Service"
+  url = "/en/terms-of-service/"
+  weight = 90
 
 # --- MENÚ ESPAÑOL ---
 [[languages.es.menu.main]]
@@ -107,6 +117,16 @@ enableRobotsTXT = true
   name = "💰 Fondos"
   url = "/es/funds/"
   weight = 70
+[[languages.es.menu.main]]
+  identifier = "privacy"
+  name = "🔒 Política de Privacidad"
+  url = "/es/privacy/"
+  weight = 80
+[[languages.es.menu.main]]
+  identifier = "terms"
+  name = "⚖️ Términos de Servicio"
+  url = "/es/terms-of-service/"
+  weight = 90
 
 [sitemap]
   changefreq = "daily"

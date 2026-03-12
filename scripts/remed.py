@@ -5,21 +5,30 @@ from google import genai
 from google.genai import types
 import frontmatter
 from dotenv import load_dotenv
-
+import sys
+from pathlib import Path
 load_dotenv()
+
+# Añadir el raíz al path para importar utils
+sys.path.append(str(Path(__file__).parent.parent))
+from utils import LinkManager
 API_KEY = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
 
 if not API_KEY:
-    print("X NO GOOGLE GEMINI API KEY FOUND")
+    print("ERROR: NO GOOGLE GEMINI API KEY FOUND")
     exit(1)
 
 client = genai.Client(api_key=API_KEY)
 
 def optimize_article(path):
-    print(f"[*] Optimizing: {os.path.basename(path)}")
-    with open(path, 'r', encoding='utf-8') as f:
-        post = frontmatter.load(f)
-        original_content = post.content
+    print(f"INFO: Optimizing: {os.path.basename(path)}")
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            post = frontmatter.load(f)
+            original_content = post.content
+    except Exception as e:
+        print(f"ERROR: loading frontmatter: {e}")
+        return False
 
     # Preparar el prompt de remediación
     prompt = """ERES EL EDITOR JEFE (PHASE 6 GSD) DE NOVUMWORLD.
@@ -49,7 +58,7 @@ CONTENIDO ORIGINAL A REESCRIBIR:
     print("    -> Calling Gemini Pro 2.5...")
     try:
         response = client.models.generate_content(
-            model='gemini-2.5-pro',
+            model='gemini-2.5-flash',
             contents=prompt,
             config=types.GenerateContentConfig(
                 temperature=0.4,
@@ -95,14 +104,12 @@ CONTENIDO ORIGINAL A REESCRIBIR:
             new_content = new_content[:-3]
         new_content = new_content.strip()
         
-        # Link interno cruzado estático (Cross-linking MrBeast ES/EN matrix)
-        link_es = "\n\n> **[Análisis Complementario]** Descubre cómo el ecosistema se expande leyendo nuestro reporte: [¿Comida Rápida? La Crítica DEVASTADORA Al Estilo MrBeast Que Sacude YouTube](/es/youtube/mrbeast-formula-viral-youtube/)"
-        link_en = "\n\n> **[Strategic Insight]** Explore the deeper implications in our core analysis: [MrBeast's Empire Crumbles? Views Plunge 50% As Controversy Swirls](/en/youtube/mrbeast-controversy-business-impact-en/)"
-        
-        if "/es/" in path:
-             new_content += link_es
-        else:
-             new_content += link_en
+        # Link interno cruzado (Siloed)
+        internal_links = LinkManager.get_latest_internal_links(lang=post.get('language', 'es'), limit=1)
+        if internal_links:
+            il = internal_links[0]
+            link_text = f"\n\n> **[{'Análisis Recomendado' if post.get('language') == 'es' else 'Recommended Analysis'}]** {il['title']}: [{il['url']}]({il['url']})"
+            new_content += link_text
         
         if '<script type="application/ld+json">' not in new_content:
             new_content += json_ld
@@ -112,11 +119,13 @@ CONTENIDO ORIGINAL A REESCRIBIR:
         with open(path, 'w', encoding='utf-8') as f:
             f.write(frontmatter.dumps(post))
         
-        print(f"  [+] Success! Optimized ({len(new_content)} chars)")
+        print(f"SUCCESS: Optimized ({len(new_content)} chars)")
         return True
 
     except Exception as e:
-        print(f"  [X] Failed via Gemini: {e}")
+        print(f"ERROR: Failed via Gemini: {e}")
+        import traceback
+        traceback.print_exc()
         return False
 
 def main():

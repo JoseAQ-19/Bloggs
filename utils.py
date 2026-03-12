@@ -88,8 +88,8 @@ class LinkManager:
             slug = ""
             try:
                 with open(fpath, 'r', encoding='utf-8') as f:
-                    content = f.read()
-                    m = re.search(r'^titulo:\s*"?([^"\n]+)"?', content, re.MULTILINE)
+                    content = f.read(1000) # Only read start of file
+                    m = re.search(r'^title:\s*"?([^"\n]+)"?', content, re.MULTILINE)
                     if m: title = m.group(1).strip()
                     m_slug = re.search(r'^slug:\s*"?([^"\n]+)"?', content, re.MULTILINE)
                     if m_slug: slug = m_slug.group(1).strip()

@@ -1,0 +1,62 @@
+{
+  "ed281ebf9f0642dcb055b70c8eaa78987403c96701fcc484f8bf469e6e5410e8": {
+    "data": [
+      "Los therians llegan a España y el país se llena de quedadas este fin de semana",
+      "Qué son los ‘therian’, la identidad que se volvió viral en redes sociales",
+      "Therians en España: del fenómeno viral al pánico inventado por la extrema derecha"
+    ],
+    "cached_at": 1773329099.2655165,
+    "func": "_get_google_news_headlines",
+    "args_summary": "('Therians España viral TikTok',)"
+  },
+  "a461e1d74eda681134f3eca95df2130af62701a0eee6ae5cda433b366cfadfa4": {
+    "data": [
+      "Logan Paul and Ksi Laughed at Rosanna Pansino’s Mold Complaints in Lunchly Before She Took Strict Legal Action Against MrBeast",
+      "MrBeast and Logan Paul Team Up to Launch Competitor to Lunchables",
+      "YouTube stars MrBeast, Logan Paul, KSI respond to Lunchly mold claims"
+    ],
+    "cached_at": 1773329100.1745129,
+    "func": "_get_google_news_headlines",
+    "args_summary": "('MrBeast Logan Paul KSI news',)"
+  },
+  "572691cc566217824d2bcb640dcbbd044e710a531bcdcf8c5a4d8dd2f41b15ec": {
+    "data": [
+      "¿Quién es Thous Carapollen? El legendario youtuber que ha vuelto para explotar contra Auronplay, Ibai",
+      "Mikecrack, el emperador de YouTube que se codea con Ibai y El Rubius: «Andorra es un pequeño paraíso»",
+      "Ibai Llanos crea su particular versión de 'El juego del calamar' en Madrid con un premio de 27.000"
+    ],
+    "cached_at": 1773329908.1104703,
+    "func": "_get_google_news_headlines",
+    "args_summary": "('Ibai Auronplay ElRubius drama',)"
+  },
+  "031508ed52d4301e2ce33a0288bd89e4edeea4bcb171b0495db2b76ff0285e31": {
+    "data": [
+      "Pivoting to Creator: An interview with Liz Kelly Nelson.",
+      "This is the rare bright spot in a tough Hollywood job market",
+      "Ozempic maker Novo Nordisk to lay off 9,000 workers in major restructuring"
+    ],
+    "cached_at": 1773329908.8337834,
+    "func": "_get_google_news_headlines",
+    "args_summary": "('creator economy news layoff sponsor',)"
+  },
+  "56dc45096c156434163014c16cddc575b313baf54e8ba5a2f3f510f9c91dc631": {
+    "data": [
+      "Lista Forbes y Forbes Women | Best Content Creators 2025",
+      "En España ya hay más de 15.000 influencers y creadores de contenido con más de 100.000 seguidores en redes sociales",
+      "Victoria Federica ‘planta’ a los Premios Forbes 2025: estos han sido los galardonados de la noche"
+    ],
+    "cached_at": 1773330364.724403,
+    "func": "_get_google_news_headlines",
+    "args_summary": "('creadores contenido España tendencia',)"
+  },
+  "5340821a145cda371021f843148845b4519c9100aa56e23fb95c72d448877b85": {
+    "data": [
+      "MrBeast Mega Era: Why You Can’t Escape His Next Wild Challenge",
+      "Fans React to IShowSpeed’s Risky Mouse Trap Challenge",
+      "29 YouTube video ideas to spark inspiration for your channel"
+    ],
+    "cached_at": 1773330365.9483945,
+    "func": "_get_google_news_headlines",
+    "args_summary": "('viral YouTube challenge reaction',)"
+  }
+}
