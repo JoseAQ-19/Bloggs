@@ -490,7 +490,10 @@ def planificar_articulo(tema, contexto, lang, category_config):
     prompt = f"{prompt_persona}\n{SYSTEM_FORMAT_RULES}{lang_instruction}\nACT LIKE EDITOR. Topic: {tema}\nContext: {ctx_text}\nLanguage: {lang}\nSTRICT JSON: {{ \"titulo\": \"...\", \"slug_sugerido\": \"...\" }}"
     try:
         resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt, config=types.GenerateContentConfig(response_mime_type="application/json"))
-        plan = json.loads(resp.text.replace('```json', '').replace('```', '').strip())
+        raw_text = resp.text
+        if '```' in raw_text:
+            raw_text = raw_text.replace('```json', '').replace('```', '')
+        plan = json.loads(raw_text.strip())
         suffix = "-en" if lang == "en" else ""
         plan['slug'] = SlugManager.generate(plan['slug_sugerido']) + suffix
         return plan
