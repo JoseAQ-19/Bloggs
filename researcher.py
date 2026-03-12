@@ -249,30 +249,40 @@ class ResearcherV4:
         
         snippets = "No extra data."
         if self.exa:
-            # 1. Identificación de Pozos de Conocimiento (Valor Real Global)
-            anti_fluff_modifier = ' ("opinión impopular" OR "críticas" OR "desventajas ocultas" OR site:reddit.com OR site:ycombinator.com)' if lang == "es" else ' ("unpopular opinion" OR "criticism" OR "hidden disadvantages" OR site:reddit.com OR site:ycombinator.com)'
-            
+            # 1. Identificación de Pozos de Conocimiento: Foros y Quejas (GEO/SEO 2026 Information Gain)
             if lang == "es":
-                query = f"'{topic}'{anti_fluff_modifier} OR site:forocoches.com OR site:xataka.com OR site:elmundo.es OR site:genbeta.com OR site:.es"
+                query = f"'{topic}' ('quejas' OR 'problemas' OR 'dudas reales' OR 'experiencias' OR 'vale la pena') (site:reddit.com OR site:es.quora.com OR site:forocoches.com OR site:bandaancha.eu)"
+                auth_query = f"'{topic}' (informe OR estudio OR estadisticas OR BOE OR 'datos oficiales') (site:.gov OR site:.edu OR site:un.org OR site:reuters.com OR site:bloomberg.com)"
             else:
-                query = f"'{topic}'{anti_fluff_modifier} OR site:news.ycombinator.com OR site:substack.com OR site:.edu OR site:.gov"
+                query = f"'{topic}' ('complaints' OR 'issues' OR 'real experiences' OR 'worth it' OR 'problems') (site:reddit.com OR site:quora.com OR site:news.ycombinator.com)"
+                auth_query = f"'{topic}' (report OR study OR statistics OR whitepaper) (site:.gov OR site:.edu OR site:ieee.org OR site:nist.gov OR site:gartner.com OR site:reuters.com)"
+                
             try:
                 from datetime import datetime, timedelta
                 start_date = (datetime.now() - timedelta(hours=72)).strftime('%Y-%m-%dT%H:%M:%S.000Z')
-                # Omitiendo use_autoprompt porque falla en versiones nuevas de exa-py
+                
+                # Búsqueda de Fricción Social
                 res = self.exa.search(query, num_results=5, type="neural", start_published_date=start_date)
+                social_urls = []
                 if res and res.results:
-                    snippets = "\n".join([f"- {r.title}" for r in res.results])
-                    # ESLABÓN PERDIDO FIX: Capturar URLs reales de Exa para el writer
-                    self._exa_urls = []
-                    for r in res.results:
-                        if hasattr(r, 'url') and r.url:
-                            self._exa_urls.append({"title": r.title, "url": r.url})
-                    if self._exa_urls:
-                        print(f"   🔗 [Exa URLs] {len(self._exa_urls)} URLs reales capturadas para el writer.")
-                    print("   🔍 [Exa Prospección] Resultados tempranos encontrados.")
+                    social_urls = [{"title": r.title, "url": r.url} for r in res.results]
+                
+                # Búsqueda de Autoridad (E-E-A-T)
+                res_auth = self.exa.search(auth_query, num_results=3, type="neural")
+                auth_urls = []
+                if res_auth and res_auth.results:
+                    auth_urls = [{"title": r.title, "url": r.url} for r in res_auth.results]
+
+                # ESLABÓN PERDIDO FIX: Capturar URLs reales de Exa para el writer
+                self._exa_urls = social_urls + auth_urls
+                
+                if self._exa_urls:
+                    print(f"   🔗 [Exa Triforce] {len(social_urls)} sociales + {len(auth_urls)} autoridad capturadas.")
+                    snippets = "\n".join([f"- {r['title']}" for r in self._exa_urls])
+                
             except Exception as e:
                 print(f"   ⚠️ Exa mining fallback: {e}")
+
 
         if not self.client:
             return topic
