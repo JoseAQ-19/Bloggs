@@ -39,9 +39,9 @@
       </a>
     </div>
 
-    {{/* --- RIGHT: Language Switcher (Robust Babel Logic v3) --- */}}
-    <div class="flex items-center">
-      <ul class="lang-switcher">
+    {{/* --- RIGHT: Language Switcher --- */}}
+    <div class="flex items-center" style="display: flex !important;">
+      <ul class="lang-switcher flex" style="display: flex !important; list-style: none; margin: 0; padding: 0;">
         {{ $currentLang := .Site.Language.Lang }}
         {{ $page := . }}
 

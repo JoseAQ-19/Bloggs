@@ -1,8 +1,8 @@
 {{ define "main" }}
-<article class="pa3 pa4-ns nested-copy-line-height">
+<article class="pa1 pa4-ns nested-copy-line-height">
   {{/* Title & description are already in the hero (site-header.html) — no duplication */}}
 
-  <section class="article-grid mt4 w-100 mw9 center ph3 ph4-l">
+  <section class="article-grid mt4 w-100 mw9 center ph1 ph4-l">
     {{ $paginator := .Paginate (where .Data.Pages "Type" "ne" "page") }}
     {{ range $paginator.Pages }}
     <div class="article-grid__item" data-aos="fade-up" data-aos-duration="800">
