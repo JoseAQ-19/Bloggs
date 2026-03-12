@@ -1,16 +1,5 @@
 {{/*
 GetOptimizedImage — WPO Partial (Fenix V3)
-
-Takes a dict with:
-- page: the page context
-- class: CSS classes for the img tag
-- alt: alt text
-- eager: bool, if true uses eager loading (for above-fold images)
-- loading: override loading attribute
-- decoding: override decoding attribute
-
-Generates WebP with responsive srcset when Hugo can process the image.
-Falls back to original URL with lazy loading when not processable.
 */}}
 
 {{- $page := .page -}}
@@ -19,7 +8,10 @@ Falls back to original URL with lazy loading when not processable.
 {{- $eager := .eager | default false -}}
 {{- $loading := .loading | default (cond $eager "eager" "lazy") -}}
 {{- $decoding := .decoding | default "async" -}}
-{{- $sizes := .sizes | default "(max-width: 768px) 100vw, 800px" -}}
+{{- $sizes := .sizes | default "(max-width: 768px) 100vw, 600px" -}}
+
+{{/* Force aspect ratio to prevent CLS */}}
+{{- $style := "aspect-ratio: 16/9; background-color: #1a1a1a; object-fit: cover; width: 100%; height: auto;" -}}
 
 {{/* Get the featured image URL */}}
 {{- $featured_image := partial "func/GetFeaturedImage.html" $page -}}
@@ -32,12 +24,11 @@ Falls back to original URL with lazy loading when not processable.
 {{/* Attempt 1: Page bundle resource match */}}
 {{- with $page.Params.featured_image -}}
 {{- with $page.Resources.GetMatch . -}}
-{{- $img400 := .Resize "400x webp q75" -}}
-{{- $img800 := .Resize "800x webp q80" -}}
-{{- $img1200 := .Resize "1200x webp q85" -}}
-<img src="{{ $img800.RelPermalink }}"
-    srcset="{{ $img400.RelPermalink }} 400w, {{ $img800.RelPermalink }} 800w, {{ $img1200.RelPermalink }} 1200w"
-    sizes="{{ $sizes }}" width="{{ $img800.Width }}" height="{{ $img800.Height }}" alt="{{ $alt }}" class="{{ $class }}"
+{{- $img600 := .Resize "600x webp q75" -}}
+<img src="{{ $img600.RelPermalink }}"
+    width="{{ $img600.Width }}" height="{{ $img600.Height }}" 
+    alt="{{ $alt }}" class="{{ $class }}"
+    style="{{ $style | safeCSS }}"
     loading="{{ $loading }}" decoding="{{ $decoding }}">
 {{- $processed = true -}}
 {{- end -}}
@@ -48,21 +39,22 @@ Falls back to original URL with lazy loading when not processable.
 {{- with $page.Params.featured_image -}}
 {{- $cleanPath := strings.TrimPrefix "/" . -}}
 {{- with resources.Get $cleanPath -}}
-{{- $img400 := .Resize "400x webp q75" -}}
-{{- $img800 := .Resize "800x webp q80" -}}
-{{- $img1200 := .Resize "1200x webp q85" -}}
-<img src="{{ $img800.RelPermalink }}"
-    srcset="{{ $img400.RelPermalink }} 400w, {{ $img800.RelPermalink }} 800w, {{ $img1200.RelPermalink }} 1200w"
-    sizes="{{ $sizes }}" width="{{ $img800.Width }}" height="{{ $img800.Height }}" alt="{{ $alt }}" class="{{ $class }}"
+{{- $img600 := .Resize "600x webp q75" -}}
+<img src="{{ $img600.RelPermalink }}"
+    width="{{ $img600.Width }}" height="{{ $img600.Height }}" 
+    alt="{{ $alt }}" class="{{ $class }}"
+    style="{{ $style | safeCSS }}"
     loading="{{ $loading }}" decoding="{{ $decoding }}">
 {{- $processed = true -}}
 {{- end -}}
 {{- end -}}
 {{- end -}}
 
-{{/* Fallback: External URL or non-processable — still add lazy loading */}}
+{{/* Fallback: External URL or non-processable */}}
 {{- if not $processed -}}
-<img src="{{ $featured_image }}" alt="{{ $alt }}" class="{{ $class }}" loading="{{ $loading }}" decoding="{{ $decoding }}">
+<img src="{{ $featured_image }}" alt="{{ $alt }}" class="{{ $class }}" 
+    style="{{ $style | safeCSS }}"
+    loading="{{ $loading }}" decoding="{{ $decoding }}">
 {{- end -}}
 
 {{- end -}}
