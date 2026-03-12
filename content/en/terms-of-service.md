@@ -2,11 +2,9 @@
 description: Rules and guidelines for using the NovumWorld website.
 draft: false
 layout: single
-menu: main
 title: Terms of Service
 translationKey: terms-of-service
 url: /terms-of-service/
-weight: 85
 ---
 
 ## Terms of Service

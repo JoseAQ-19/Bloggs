@@ -4,7 +4,6 @@ description: Legal information on how NovumWorld collects, uses, and protects yo
 draft: false
 featured_image: /images/privacy.jpg
 layout: single
-menu: main
 title: Privacy Policy
 translationKey: privacy
 url: /privacy/

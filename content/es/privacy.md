@@ -2,11 +2,9 @@
 description: Información legal sobre cómo protegemos tus datos en NovumWorld.
 featured_image: /images/privacy.jpg
 layout: single
-menu: main
 title: Política de Privacidad
 translationKey: privacy
 url: /privacy/
-weight: 80
 ---
 
 ## Política de Privacidad

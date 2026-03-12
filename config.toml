@@ -71,15 +71,25 @@ enableRobotsTXT = true
   url = "/en/funds/"
   weight = 70
 [[languages.en.menu.main]]
-  identifier = "privacy"
-  name = "🔒 Privacy Policy"
-  url = "/en/privacy/"
+  identifier = "about"
+  name = "About Us"
+  url = "/en/about/"
   weight = 80
 [[languages.en.menu.main]]
-  identifier = "terms"
-  name = "⚖️ Terms of Service"
-  url = "/en/terms-of-service/"
+  identifier = "privacy"
+  name = "Privacy Policy"
+  url = "/en/privacy/"
   weight = 90
+[[languages.en.menu.main]]
+  identifier = "terms"
+  name = "Terms of Service"
+  url = "/en/terms-of-service/"
+  weight = 100
+[[languages.en.menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/en/contact/"
+  weight = 110
 
 # --- MENÚ ESPAÑOL ---
 [[languages.es.menu.main]]
@@ -118,15 +128,25 @@ enableRobotsTXT = true
   url = "/es/funds/"
   weight = 70
 [[languages.es.menu.main]]
-  identifier = "privacy"
-  name = "🔒 Política de Privacidad"
-  url = "/es/privacy/"
+  identifier = "about"
+  name = "Sobre Nosotros"
+  url = "/es/about/"
   weight = 80
 [[languages.es.menu.main]]
-  identifier = "terms"
-  name = "⚖️ Términos de Servicio"
-  url = "/es/terms-of-service/"
+  identifier = "privacy"
+  name = "Política de Privacidad"
+  url = "/es/privacy/"
   weight = 90
+[[languages.es.menu.main]]
+  identifier = "terms"
+  name = "Términos de Servicio"
+  url = "/es/terms-of-service/"
+  weight = 100
+[[languages.es.menu.main]]
+  identifier = "contact"
+  name = "Contacto"
+  url = "/es/contact/"
+  weight = 110
 
 [sitemap]
   changefreq = "daily"

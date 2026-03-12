@@ -2,11 +2,9 @@
 description: Reglas y pautas para usar el sitio web de NovumWorld.
 draft: false
 layout: single
-menu: main
 title: Términos de Servicio
 translationKey: terms-of-service
 url: /es/terms-of-service/
-weight: 85
 ---
 
 ## Términos de Servicio
