@@ -27,6 +27,7 @@ enableRobotsTXT = true
 
 [pagination]
   pagerSize = 6
+paginate = 6
 
 [params]
   custom_css = ["css/custom.css"]

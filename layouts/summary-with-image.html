@@ -6,7 +6,7 @@
       <div class="{{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection " rtl") "pl3-ns" "pr3-ns" }} mb4
         mb0-ns w-100 w-40-ns">
         <a href="{{.RelPermalink}}" class="db grow">
-          {{ partial "func/GetOptimizedImage.html" (dict "page" . "class" "img br3" "alt" .Title) }}
+          {{ partial "func/GetOptimizedImage.html" (dict "page" . "class" "img br3" "alt" .Title "loading" "lazy" "decoding" "async") }}
         </a>
       </div>
       {{ end }}

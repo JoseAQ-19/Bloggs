@@ -6,6 +6,8 @@ Takes a dict with:
 - class: CSS classes for the img tag
 - alt: alt text
 - eager: bool, if true uses eager loading (for above-fold images)
+- loading: override loading attribute
+- decoding: override decoding attribute
 
 Generates WebP with responsive srcset when Hugo can process the image.
 Falls back to original URL with lazy loading when not processable.
@@ -15,7 +17,8 @@ Falls back to original URL with lazy loading when not processable.
 {{- $class := .class | default "img" -}}
 {{- $alt := .alt | default "image" -}}
 {{- $eager := .eager | default false -}}
-{{- $loading := cond $eager "eager" "lazy" -}}
+{{- $loading := .loading | default (cond $eager "eager" "lazy") -}}
+{{- $decoding := .decoding | default "async" -}}
 {{- $sizes := .sizes | default "(max-width: 768px) 100vw, 800px" -}}
 
 {{/* Get the featured image URL */}}
@@ -35,7 +38,7 @@ Falls back to original URL with lazy loading when not processable.
 <img src="{{ $img800.RelPermalink }}"
     srcset="{{ $img400.RelPermalink }} 400w, {{ $img800.RelPermalink }} 800w, {{ $img1200.RelPermalink }} 1200w"
     sizes="{{ $sizes }}" width="{{ $img800.Width }}" height="{{ $img800.Height }}" alt="{{ $alt }}" class="{{ $class }}"
-    loading="{{ $loading }}" decoding="async">
+    loading="{{ $loading }}" decoding="{{ $decoding }}">
 {{- $processed = true -}}
 {{- end -}}
 {{- end -}}
@@ -51,7 +54,7 @@ Falls back to original URL with lazy loading when not processable.
 <img src="{{ $img800.RelPermalink }}"
     srcset="{{ $img400.RelPermalink }} 400w, {{ $img800.RelPermalink }} 800w, {{ $img1200.RelPermalink }} 1200w"
     sizes="{{ $sizes }}" width="{{ $img800.Width }}" height="{{ $img800.Height }}" alt="{{ $alt }}" class="{{ $class }}"
-    loading="{{ $loading }}" decoding="async">
+    loading="{{ $loading }}" decoding="{{ $decoding }}">
 {{- $processed = true -}}
 {{- end -}}
 {{- end -}}
@@ -59,7 +62,7 @@ Falls back to original URL with lazy loading when not processable.
 
 {{/* Fallback: External URL or non-processable — still add lazy loading */}}
 {{- if not $processed -}}
-<img src="{{ $featured_image }}" alt="{{ $alt }}" class="{{ $class }}" loading="{{ $loading }}" decoding="async">
+<img src="{{ $featured_image }}" alt="{{ $alt }}" class="{{ $class }}" loading="{{ $loading }}" decoding="{{ $decoding }}">
 {{- end -}}
 
 {{- end -}}
