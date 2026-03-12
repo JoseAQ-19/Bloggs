@@ -123,3 +123,17 @@
 - [ ] **P0 MANUAL:** Verificar Service Account como Owner en GSC.
 - [ ] **P1:** Añadir logging persistente a `data/indexing_log.jsonl`.
 - [ ] **P2:** Verificar prefijo `/en/` en URLs de artículos EN.
+
+## 🏗️ Phase 5: Inspección Profunda + Optimización Masiva (2026-03-12)
+- [x] **Auditoría completa:** 349 artículos escaneados. 7 categorías x 2 idiomas. 83 archivos Python analizados.
+- [x] **CORRECCIÓN MASIVA EJECUTADA:** 300 artículos corregidos con enlaces internos y externos contextuales.
+  - ANTES: 263 sin ext links (75%), 350 sin int links (99%)
+  - AHORA: 26 sin ext links (7%), 20 sin int links (6%)
+  - Mejora: -90% artículos sin ext links, -94% sin int links
+- [x] **Banco de autoridad por categoría:** crypto(7), fitness(6), funds(6), ia(6), tools(5), viral(5), youtube(5) fuentes mapeadas.
+- [x] **Interlinking contextual:** Matching por keywords de título para enlaces internos relevantes (no aleatorios).
+- [x] **Nuevo System Prompt Ralph v3.0:** 15 reglas inviolables definidas (5 enlazado, 3 GEO, 3 SEO, 3 E-E-A-T, 1 calidad).
+- [x] **Todo pusheado a GitHub main.**
+- [ ] Integrar las 15 reglas en el prompt real de `main.py` y `stocks_writer.py`.
+- [ ] Fix individual de los 26 artículos restantes sin ext links.
+- [ ] Rotar API keys comprometidas (NVIDIA, GROQ, ZAI).
