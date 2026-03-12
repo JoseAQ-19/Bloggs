@@ -135,8 +135,6 @@ a {
     color: var(--primary) !important;
     transition: transform 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94), color 0.3s ease;
     text-decoration: none !important;
-    will-change: transform;
-    /* GPU Optimization */
 }
 
 a:hover {
@@ -972,6 +970,9 @@ table {
         overflow-x: hidden;
         border-left: none !important;
         border-right: none !important;
+        backdrop-filter: none !important;
+        -webkit-backdrop-filter: none !important;
+        will-change: auto !important;
     }
 
     /* Títulos de tarjetas más pequeños en móvil */

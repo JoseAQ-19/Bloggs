@@ -11,15 +11,22 @@
     });
   });
 
-  // Reading Progress Bar Logic (passive scroll listener for performance)
+  // Reading Progress Bar Logic - Optimized with rAF
+  let ticking = false;
   window.addEventListener('scroll', function () {
-    var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
-    var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-    var scrolled = (winScroll / height) * 100;
+    if (!ticking) {
+      window.requestAnimationFrame(function() {
+        var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+        var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+        var scrolled = (winScroll / height) * 100;
 
-    var progressBar = document.getElementById("reading-progress-bar");
-    if (progressBar) {
-      progressBar.style.width = scrolled + "%";
+        var progressBar = document.getElementById("reading-progress-bar");
+        if (progressBar) {
+          progressBar.style.width = scrolled + "%";
+        }
+        ticking = false;
+      });
+      ticking = true;
     }
   }, { passive: true });
 </script>
