@@ -104,6 +104,7 @@ html {
     color: var(--text-color) !important;
     font-family: var(--font-body) !important;
     scroll-behavior: smooth;
+    max-width: 100vw;
     overflow-x: hidden;
 }
 
@@ -856,11 +857,15 @@ table {
         top: 0;
         z-index: 10002 !important;
         background-color: var(--bg-color);
+        width: 100%;
     }
 
     .site-nav__inner {
         padding: 0 0.25rem;
         gap: 0.25rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
     }
 
     .site-nav__logo {
@@ -880,6 +885,8 @@ table {
     .lang-switcher {
         gap: 0.4rem !important;
         font-size: 0.85rem;
+        display: flex !important;
+        visibility: visible !important;
     }
 
     /* --- HAMBURGER: Bigger touch target (44px min) --- */
