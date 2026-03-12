@@ -20,8 +20,8 @@
 <nav class="site-nav" role="navigation">
   <div class="site-nav__inner flex justify-between items-center w-100">
 
-    {{/* --- LEFT: Hamburger Button --- */}}
-    <div class="flex items-center">
+    {{/* --- LEFT: Hamburger Button (15%) --- */}}
+    <div class="flex items-center w-10 w-20-ns">
       <button class="hamburger-btn" id="hamburger-btn" aria-label="Abrir menú" aria-expanded="false">
         <span class="hamburger-btn__line"></span>
         <span class="hamburger-btn__line"></span>
@@ -29,19 +29,19 @@
       </button>
     </div>
 
-    {{/* --- CENTER: Logo + Section --- */}}
+    {{/* --- CENTER: Logo + Section (70%) --- */}}
     <div class="flex items-center justify-center flex-grow-1">
-      <a href="{{ .Site.Home.RelPermalink }}" class="site-nav__logo">
+      <a href="{{ .Site.Home.RelPermalink }}" class="site-nav__logo" style="font-size: 0.9rem !important;">
         NOVUMWORLD
         <span class="site-nav__divider">|</span>
         <span class="header-icon {{ $animClass }}">{{ $icon }}</span>
-        <span class="site-nav__section-name">{{ $sectionName }}</span>
+        <span class="site-nav__section-name" style="display:none !important;">{{ $sectionName }}</span>
       </a>
     </div>
 
-    {{/* --- RIGHT: Language Switcher --- */}}
-    <div class="flex items-center" style="display: flex !important;">
-      <ul class="lang-switcher flex" style="display: flex !important; list-style: none; margin: 0; padding: 0;">
+    {{/* --- RIGHT: Language Switcher (15%) --- */}}
+    <div class="flex items-center justify-end w-20 w-20-ns" style="display: flex !important;">
+      <ul class="lang-switcher flex" style="display: flex !important; list-style: none; margin: 0; padding: 0; gap: 0.3rem;">
         {{ $currentLang := .Site.Language.Lang }}
         {{ $page := . }}
 
