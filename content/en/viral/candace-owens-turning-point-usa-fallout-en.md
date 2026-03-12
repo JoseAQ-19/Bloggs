@@ -27,7 +27,7 @@ This reliance on large donations underscores a vulnerability inherent in many po
 
 The alleged loss of the $2 million donation, while significant, is merely a symptom of a larger problem: the increasing polarization within the conservative movement itself. Kirk's reluctance to disinvite Tucker Carlson, a figure known for his controversial views, suggests a tension between TPUSA's desire to maintain a broad appeal and the pressure to adhere to stricter ideological lines. This tension is further exacerbated by the rise of figures like Candace Owens, who have built their platforms on challenging established norms and questioning authority, even within their own political circles.
 
-## The Owens Accusation: Seeds of Mistrust at Turning Point USA
+## The Owens Accusation: Seeds of Mistrust at Turning Point USA, according to [Reuters](https://www.reuters.com/)
 
 Candace Owens' explosive allegations have injected a potent dose of mistrust into the heart of Turning Point USA. Owens claims Charlie Kirk was "betrayed" by TPUSA leadership, alleging financial impropriety and cover-ups surrounding his death. It’s an accusation that cuts deep, especially given Owens' former prominent role within the organization and her close ties to Kirk.
 

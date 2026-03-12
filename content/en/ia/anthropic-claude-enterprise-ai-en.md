@@ -25,7 +25,7 @@ The AI hype train is hurtling down the tracks, but Anthropic's locomotive is dra
 
 This isn't just about money; it's about the very foundation upon which these AI models are built. If AI companies are forced to pay exorbitant fees for the data they use to train their models, the entire economic model of the AI industry could collapse. The irony is rich: AI, touted as the ultimate productivity enhancer, is built on a foundation of intellectual property theft. The long-term implications of this lawsuit are significant. Will other copyright holders follow suit? Will AI companies be forced to develop new, more ethical methods of data acquisition? The answers to these questions will determine the future of the AI industry.
 
-## Cracks in the Facade: Why Anthropic's Enterprise Promise is Premature
+## Cracks in the Facade: Why Anthropic's Enterprise Promise is Premature, according to [OpenAI](https://openai.com/)
 
 The official narrative surrounding Anthropic is one of innovation and enterprise-grade AI solutions, but beneath the surface lies a troubling reality. While Anthropic boasts about Claude's capabilities in coding, reasoning, and handling large contexts, the actual performance in real-world enterprise settings often falls short of expectations. We're seeing a classic case of over-promising and under-delivering, a common trope in Silicon Valley.
 

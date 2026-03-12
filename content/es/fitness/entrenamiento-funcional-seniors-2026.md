@@ -27,7 +27,7 @@ Este número no es solo una estadística, sino un reflejo de fallos sistémicos 
 
 La prevalencia de la fragilidad en España entre las personas de 65 años o más es del 18% en promedio, según **CIBERISCIII**. Este dato subraya la importancia de un abordaje integral que combine ejercicio físico, nutrición adecuada y atención médica personalizada. No basta con animar a los mayores a mantenerse activos; es imprescindible proporcionarles las herramientas y el apoyo necesarios para hacerlo de forma segura y eficaz.
 
-## El Mito del "Sin Dolor No Hay Ganancia": La Intensidad Equivocada y Sus Peligros Ocultos
+## El Mito del "Sin Dolor No Hay Ganancia": La Intensidad Equivocada y Sus Peligros Ocultos, segun datos recogidos por [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 La cultura del fitness actual, a menudo obsesionada con la intensidad y el esfuerzo extremo, puede resultar perjudicial para los adultos mayores. El mantra del "sin dolor no hay ganancia" es especialmente peligroso en este grupo de población, donde el riesgo de lesiones y complicaciones cardiovasculares es mayor. Juan Carlos Colado, catedrático de la Universitat de València, argumenta que los adultos mayores no necesitan agotarse hasta el extremo para obtener beneficios del entrenamiento de fuerza.
 

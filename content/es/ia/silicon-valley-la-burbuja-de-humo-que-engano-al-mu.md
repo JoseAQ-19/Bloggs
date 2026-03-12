@@ -25,7 +25,7 @@ Un estudio del MIT, convenientemente maquillado, revela que el 95% de las organi
 
 El despilfarro en infraestructura es obsceno. OpenAI planea dilapidar 500.000 millones de dólares en centros de datos. ¡Más que el Proyecto Manhattan! Este frenesí, disfrazado de "necesidad de potencia de cálculo", está inflando artificialmente los precios y enriqueciendo a unos pocos elegidos. ¿Quiénes? Sigan el rastro del dinero.
 
-## La danza macabra de los inversores
+## La danza macabra de los inversores, segun datos recogidos por [OpenAI](https://openai.com/)
 
 Nvidia, el rey de los chips para IA, se frota las manos mientras su valor bursátil se dispara. Pero ese crecimiento se alimenta de la demanda artificial creada por las propias empresas de IA, financiadas por inversores desesperados por un pelotazo rápido. Es un círculo vicioso.
 
@@ -35,7 +35,7 @@ Además del desastre financiero, la burbuja de la IA es un atentado ecológico. 
 
 *   Esta "innovación" es un fraude climático.
 
-## La farsa de la "inteligencia"
+## La farsa de la "inteligencia" Para profundizar en este tema, consulta nuestro analisis sobre [Acciona el Pánico: La IA Amenaza 300 Millones de E](/ia/saas-apocalipsis-2026-crisis-vc/).
 
 Los modelos de lenguaje como GPT y Claude generan texto aparentemente coherente, pero su "inteligencia" es una simple ilusión estadística. No comprenden el mundo real, solo correlacionan palabras.
 

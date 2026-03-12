@@ -25,7 +25,7 @@ Creators experiencing the recent August 2025 algorithm report view drops exceedi
 
 The algorithm's opacity creates a business trap where creators operate without predictable metrics. Sponsorship deals traditionally calculated on guaranteed views become impossible to honor when baseline audience size fluctuates wildly. An automotive brand paying $50,000 for a guaranteed 1 million reach video might actually deliver only 600,000 views due to algorithmic deprioritization, devaluing the creator's service offering. This monetization chaos forces creators into a defensive position, constantly chasing algorithmic tweaks rather than building sustainable businesses.
 
-## Cracking Down on "AI Slop": How YouTube's Monetization Changes Are Misunderstood
+## Cracking Down on "AI Slop": How YouTube's Monetization Changes Are Misunderstood, according to [Social Blade](https://socialblade.com/)
 
 YouTube's crusade against "mass-produced or repetitive" content represents a fundamental shift in platform economics that extends beyond simple content curation. The official justification targets low-quality AI-generated videos flooding the ecosystem, yet the implementation disproportionately impacts legitimate creators who utilize repetitive formats for audience engagement. Gaming commentary channels, reaction videos, and educational content often rely on structured formulas that deliver consistent value to viewers – precisely the type of content YouTube now penalizes through hidden algorithmic penalties. This crackdown isn't about quality; it's about cost control in an era of diminishing ad inventory.
 

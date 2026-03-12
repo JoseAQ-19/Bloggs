@@ -27,7 +27,7 @@ Gurley's concerns stem from the potential for over-provisioning in AI and issues
 
 If Gurley is right, many AI-driven SaaS companies may face a sharp correction, especially those with valuations disconnected from their underlying performance metrics. Are investors properly pricing risk or are they buying into a story? Only time will tell.
 
-## "AI-Washing" and Layoffs: Is the SaaS Industry Overstating AI's Impact to Mask Deeper Problems?
+## "AI-Washing" and Layoffs: Is the SaaS Industry Overstating AI's Impact to Mask Deeper Problems?, according to [TechCrunch](https://techcrunch.com/)
 
 The tech sector has witnessed over 123,000 job cuts across 257 companies in 2025, following 152,000 layoffs in 2024 and 264,000 in 2023. Over 50,000 of these job cuts announced in 2025 cited AI as a contributing factor, raising questions about whether companies are genuinely transforming with AI or merely using it as an excuse for layoffs and cost-cutting, a practice known as "AI-washing." Peter Cappelli of Wharton School expresses skepticism about companies justifying layoffs by citing AI, particularly when the technology has yet to deliver broad productivity gains.
 

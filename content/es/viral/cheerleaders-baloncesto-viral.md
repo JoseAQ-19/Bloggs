@@ -31,7 +31,7 @@ Esta estadística no es una simple anomalía. Refleja los riesgos inherentes a l
 
 **Por qué es importante.** La falta de uniformidad en las medidas de seguridad es un problema crítico que debe abordarse de inmediato. Se necesita una mayor inversión en entrenamiento de entrenadores, equipos de seguridad adecuados y protocolos de emergencia bien definidos. De lo contrario, el cheerleading seguirá siendo un deporte de alto riesgo con consecuencias potencialmente catastróficas para sus participantes.
 
-## Baloncesto Femenino en la Mira: ¿Igualdad o Negligencia en la Prevención de Lesiones?
+## Baloncesto Femenino en la Mira: ¿Igualdad o Negligencia en la Prevención de Lesiones?, segun datos recogidos por [Reuters](https://www.reuters.com/)
 
 Si bien el cheerleading acapara la atención por sus lesiones extremas, el baloncesto femenino también enfrenta desafíos significativos en lo que respecta a la seguridad y la prevención de lesiones. Un estudio realizado en Cataluña reveló que el 41% de las atletas femeninas en deportes de equipo requirieron atención médica por lesiones relacionadas con el deporte durante una temporada. Sorprendentemente, el baloncesto encabezó la lista con un 48% de jugadoras lesionadas, seguido por el fútbol (38%) y el voleibol (30%).
 

@@ -29,7 +29,7 @@ Philippe Cleary, iA's VP of Underwriting, proudly highlights the FICO Platform's
 
 The valuation math gets even murkier. At current market caps, each iA Financial share represents approximately C$128.50. That means insiders effectively bet C$128.50 per share that their company's AI capabilities are overvalued. Or perhaps they know something the market doesn't? This isn't just financial engineering—it's a calculated gamble that could redefine how we view AI in insurance underwriting.
 
-## When Insiders Cash Out: The Math Behind the Panic
+## When Insiders Cash Out: The Math Behind the Panic, according to [OpenAI](https://openai.com/)
 
 The numbers tell a story that corporate PR won't admit. C$23.8 million worth of insider sales in 24 months averages to nearly C$1 million per month. That's not diversification—it's a strategic retreat.
 

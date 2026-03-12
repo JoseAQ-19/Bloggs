@@ -25,7 +25,7 @@ The promise of continuous health monitoring via wearable technology is compellin
 
 This level of inaccuracy isn't just a minor inconvenience; it can have serious consequences. For athletes, it can lead to overtraining or undertraining, hindering performance gains. For individuals with heart conditions, inaccurate heart rate data can lead to inappropriate medication adjustments or delayed medical intervention. The lawsuits underscored a critical point: consumer-grade wearable devices are not medical-grade instruments and shouldn't be treated as such. Fitbit's stock value was impacted by the lawsuits as its reputation for accuracy suffered. Consumer Reports testing suggested that accuracy improved when following Fitbit's wearing instructions, highlighting the user-dependent nature of the data.
 
-## Lina M. Khan's Data Privacy Dilemma: The FTC's Wearable Crackdown
+## Lina M. Khan's Data Privacy Dilemma: The FTC's Wearable Crackdown, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 Beyond the accuracy issues, the proliferation of wearable health technology raises significant concerns about data privacy and security. Federal Trade Commission (FTC) Chair Lina M. Khan has voiced strong concerns about the potential misuse of sensitive health data collected by these devices. She states that health apps collecting sensitive data have a responsibility to secure it and prevent unauthorized access. Khan also noted that a more fundamental problem is the commodification of sensitive health information. This isn't just about preventing hackers from accessing your step count; it's about protecting highly personal biometric data from being exploited by corporations for marketing purposes or shared with third parties without your explicit consent.
 

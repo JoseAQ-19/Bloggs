@@ -27,7 +27,7 @@ These risks aren't merely theoretical. With AI agents influencing over 35% of au
 
 The lack of visibility into AI agent actions creates a dangerous environment where security incidents can go unnoticed for extended periods. This is not some abstract cybersecurity risk; it is a clear and present danger to the financial health and reputational standing of any organization deploying these technologies without proper safeguards.
 
-## "Automating Chaos": Why Standard AI Narratives Ignore Foundational Process Problems
+## "Automating Chaos": Why Standard AI Narratives Ignore Foundational Process Problems, according to [TechCrunch](https://techcrunch.com/)
 
 Traditional discussions around AI adoption often gloss over a fundamental issue: flawed corporate processes. Abdul Tayyeb Datarwala identified that failures in AI agent deployment are not technical, but organizational. Companies are essentially "automating chaos" by layering AI on top of broken systems.
 

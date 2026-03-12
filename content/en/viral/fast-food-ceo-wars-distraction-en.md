@@ -29,7 +29,7 @@ McDonald's operating margin in the mid- to high-40% range for 2026 further expos
 
 This revenue figure isn't a victory—it's the financial embodiment of America's widening inequality crisis. McDonald's isn't serving more people; it's serving the same number of wealthier customers while pushing out everyone else. To put it bluntly, the Golden Arches are becoming gilded, accessible only to those with thicker wallets. The company's success is, in effect, a reflection of the struggles of a significant portion of the American population.
 
-## Kobza's Complaint: Why RBI's "Basics" Aren't Enough
+## Kobza's Complaint: Why RBI's "Basics" Aren't Enough, according to [Reuters](https://www.reuters.com/)
 
 Josh Kobza's assertion that RBI's 2025 results reflected "staying focused on the basics" sounds reasonable until you examine the underlying tensions. The CEO of Restaurant Brands International sounds almost apologetic for his company's performance, as if modest growth is somehow noble in this environment. His observation that "stronger traffic patterns within middle and higher-income groups, with weaker trends among lower-income groups" inadvertently exposes the uncomfortable truth: the fast-food industry has become a luxury good.
 

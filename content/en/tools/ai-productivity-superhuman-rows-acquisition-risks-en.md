@@ -25,7 +25,7 @@ Superhuman, with its last valuation at $825 million in 2021, is betting big on A
 
 The core issue is that while AI can offer task-level efficiency improvements, these often don't translate to measurable gains at the enterprise level. A National Bureau of Economic Research (NBER) survey revealed that a staggering 80% of companies using AI report no measurable impact on productivity or employment over the past three years. This suggests that simply внедрять AI tools isn't enough; organizations need to fundamentally rethink their workflows and processes.
 
-## The Dark Side of AI-Powered Emails: Why Lina M. Khan's FTC is Cracking Down
+## The Dark Side of AI-Powered Emails: Why Lina M. Khan's FTC is Cracking Down, according to [TechCrunch](https://techcrunch.com/)
 
 AI is being touted as a way to streamline email workflows and boost productivity. However, Lina M. Khan's Federal Trade Commission (FTC) is cracking down on "AI-washing," where companies exaggerate the capabilities of their AI offerings. The FTC's "Operation AI Comply" is a clear message: there's no "AI exemption" from existing laws against deception and fraud.
 

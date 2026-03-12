@@ -29,7 +29,7 @@ Según **TaxDown**, las ganancias obtenidas por la venta de criptomonedas en Esp
 
 La cuestión de fondo es si el gobierno español comprende realmente el funcionamiento y el potencial de las criptomonedas. La imposición de cargas fiscales excesivas podría desincentivar la inversión y frenar la innovación en un sector que está experimentando un rápido crecimiento a nivel mundial. El debate está abierto y promete ser uno de los temas clave en la agenda económica y política de España en los próximos meses.
 
-## El Aumento Impositivo del IRPF: Un Golpe para los Inversores de Criptomonedas en España
+## El Aumento Impositivo del IRPF: Un Golpe para los Inversores de Criptomonedas en España, segun datos recogidos por [SEC](https://www.sec.gov/)
 
 La propuesta de Sumar de gravar las ganancias de criptoactivos bajo la base general del IRPF, con tipos que podrían alcanzar hasta el 47%, ha generado una ola de controversia en el ecosistema cripto español. Este cambio radical en la política fiscal podría tener un impacto significativo en la rentabilidad de las inversiones en criptomonedas y desincentivar la participación de los inversores en este mercado emergente.
 

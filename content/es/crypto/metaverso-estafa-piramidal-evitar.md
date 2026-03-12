@@ -34,7 +34,7 @@ El desplome no se limita a la actividad de los usuarios. El token MANA de Decent
 
 Se han dilapidado la friolera de 177.000 millones de dólares en esta fantasía. Y, ¿para qué? Para alimentar un ecosistema que se desmorona ante nuestros ojos. Analistas con visión de futuro, como los de Canalys, anticipan que la mayoría de los proyectos empresariales en el Metaverso estarán enterrados para el 2025. [Un diagnóstico terminal que la mayoría se niega a aceptar](https://www.canalys.com/newsroom/canalys-metaverse-forecast-2022).
 
-## El Lado Oscuro del Pixel: Estafas y Manipulación a Mansalva
+## El Lado Oscuro del Pixel: Estafas y Manipulación a Mansalva, segun datos recogidos por [SEC](https://www.sec.gov/)
 
 Pero la cosa se pone aún más turbia. El Metaverso, esa supuesta utopía descentralizada, se ha convertido en un paraíso para estafadores y manipuladores. Plataformas como Forsage, una pirámide financiera disfrazada de inversión blockchain, esquilmaron a miles de inversores, enriqueciendo a los de arriba a costa de la ruina de los de abajo. El 88% de los usuarios de Forsage sufrieron pérdidas financieras netas, mientras que el propietario del contrato amasó más de 1.2 millones de dólares. ¿Descentralización? Más bien, depredación digital.
 
@@ -53,6 +53,6 @@ Y ni hablar de la manipulación del mercado. El "wash trading" (inflar artificia
 
 No ignoremos los riesgos reales. El Metaverso es un paraíso para la recopilación masiva de datos, la vigilancia y el ciberdelito. La inmutabilidad de la blockchain dificulta la eliminación de contenido dañino. Y la desesperación por el dinero fácil, impulsada por los "finfluencers", ha tenido consecuencias trágicas en el mundo real. Casos de violencia extrema, como el asesinato de Franco Saulle, nos recuerdan el peligro de la especulación descontrolada.
 
-## El Veredicto Final: Ignorar es la Mejor Defensa
+## El Veredicto Final: Ignorar es la Mejor Defensa Para profundizar en este tema, consulta nuestro analisis sobre [A16z Arriesga 2.000 Millones: Harvard Invierte en ](/crypto/a16z-apuesta-blockchain-futuro-web3/).
 
 El Metaverso, en su encarnación actual, es un gigantesco esquema Ponzi descentralizado. Depende de la entrada constante de nuevos incautos para mantener infladas valoraciones basadas en promesas vacías. Con una base de usuarios en caída libre y pérdidas masivas para la mayoría, representa un riesgo asimétrico absurdo. La mayoría de estos proyectos desaparecerán. La única jugada inteligente es mantenerse alejado. En lugar de perseguir espejismos virtuales, invierta en el mundo real. Construya algo tangible. Y, sobre todo, desconfíe de los gurús digitales que prometen la riqueza fácil. Porque, como dice el refrán, "cuando la limosna es grande, hasta el santo desconfía".

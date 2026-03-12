@@ -22,7 +22,7 @@ Glovo, ese "unicornio tecnológico" que te lleva la cena a casa, está siendo in
 
 La famosa "Ley Rider", esa patética excusa para regular la jungla laboral digital, fue un fracaso anunciado. Prometía proteger a los repartidores, obligando a Glovo a contratarlos. Pero, ¿qué ocurrió realmente? Nada. La ley, en realidad, es más un gesto político vacío que una herramienta real de cambio.
 
-## La Invisible Mano de Obra de Glovo
+## La Invisible Mano de Obra de Glovo, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 Fuentes cercanas a RidersXDerechos y el Observatorio de Trabajo, Algoritmo y Sociedad estiman que la mitad de los repartidores de Glovo son migrantes trabajando en la clandestinidad, fuera del radar de la ley y la decencia humana. Estos "invisibles" son carne de cañón, explotados sin piedad por un sistema que se beneficia de su vulnerabilidad. Usan cuentas de terceros, evadiendo cualquier rastro documental y perpetuando un ciclo de abuso que las instituciones parecen decididas a ignorar. La incapacidad del gobierno para abordar esta situación es vergonzosa.
 
@@ -32,7 +32,7 @@ El sistema algorítmico es una caja negra. Los repartidores desconocen los crite
 
 Cuatro muertes de repartidores no reconocidas como accidentes laborales. Cuatro vidas perdidas, invisibilizadas por la narrativa edulcorada de "flexibilidad" y "emprendimiento". Estas tragedias, documentadas por medios como El Salto [ver aquí](https://www.elsaltodiario.com/precariedad/repartidores-muertos-explotacion-glovo-deliveroo-riders), son la prueba irrefutable de un sistema que valora más la rapidez de entrega que la vida humana.
 
-## Consumidores Cómplices
+## Consumidores Cómplices Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/silicon-valley-se-desangra-la-era-dorada-ha-termin/).
 
 La publicidad de Glovo, con su estética juvenil y desenfadada, es una cortina de humo que oculta una realidad repugnante. Se fomenta la desconexión entre el consumidor y el trabajador, priorizando la conveniencia sobre la ética. El problema es que muchos consumidores están perfectamente contentos de ignorar la realidad, siempre y cuando su pedido llegue a tiempo. **Este artículo de Bloomberg** explora cómo la creciente conciencia sobre las prácticas laborales está afectando la imagen de estas empresas, pero ¿es suficiente?
 

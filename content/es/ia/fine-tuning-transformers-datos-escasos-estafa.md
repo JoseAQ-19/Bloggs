@@ -21,7 +21,7 @@ Los modelos Transformer, como GPT-3 y sus parientes, son los gorilas de 800 libr
 
 Aquí es donde comienza el engaño. La narrativa oficial dice que puedes tomar un Transformer pre-entrenado y, con solo un puñado de ejemplos, "adaptarlo" a tu caso de uso particular. Suena lógico, ¿verdad? Como convertir un Boeing 747 en un avión de fumigación con unas pocas modificaciones. Pero la realidad es mucho más turbia.
 
-## Datos raquíticos, resultados anémicos: La verdad incómoda
+## Datos raquíticos, resultados anémicos: La verdad incómoda, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 La optimización fina con datos escasos es como intentar llenar el tanque de un Ferrari con el combustible que sobra de una cortadora de césped. No solo no vas a llegar muy lejos, sino que corres el riesgo de dañar el motor. El problema fundamental es el sobreajuste. El modelo se vuelve tan específico para los datos de entrenamiento que pierde su capacidad de generalizar a ejemplos nuevos. Es como enseñarle a un perro a sentarse solo cuando llevas puesto un sombrero rojo; en cuanto te quites el sombrero, el perro se quedará mirando confundido. Antoni Guerrero, investigador de [Baobab AI](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsWp07jG5775082sn0z1w_CupW6OMMjnZymja5LcPgmoWdHVMknHdGAB2JDuxJ4PxIOLIN2UDYDvDIf-u_F9gKcTxdThIkudzlS4Q5JsvcYyc4Y12m4sIVUp0hexS92xaMyORkfh8r_McamB1djtNw-1s5_5SnUplEO0GmfY26Wsum6TN2foAEoUnJbE9j-aK8tSNjxUNydU88oO3BFt9CgxTXCcj2Mw==), subraya la sensibilidad del sobreajuste en las primeras etapas del *fine-tuning*, que lleva a un colapso en la distribución del modelo.
 

@@ -27,7 +27,7 @@ En 2025, la IA lideró las inversiones sectoriales en España, captando más de 
 
 La velocidad a la que la IA está evolucionando es vertiginosa. Empresas que hace apenas un año eran consideradas disruptivas, hoy corren el riesgo de quedar obsoletas. La promesa de la IA de automatizar procesos, reducir costos y mejorar la eficiencia está atrayendo a las empresas a migrar hacia soluciones internas impulsadas por esta tecnología. Este cambio de paradigma, de la dependencia de SaaS a la autogeneración de software, es lo que algunos expertos han denominado la "SaaSpocalipsis".
 
-## El Mito de la Innovación Democrática: ¿Quién se Beneficia Realmente de la IA?
+## El Mito de la Innovación Democrática: ¿Quién se Beneficia Realmente de la IA?, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 La narrativa oficial nos vende la IA como una herramienta democratizadora, accesible a todos y capaz de impulsar la innovación en cualquier sector. Pero, ¿quién se beneficia realmente de esta supuesta democratización? ¿Son las pequeñas startups SaaS que luchan por sobrevivir, o las grandes corporaciones que tienen los recursos para desarrollar sus propias soluciones de IA a medida?
 

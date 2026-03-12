@@ -25,7 +25,7 @@ Lululemon's Mirror, along with other AI fitness systems, promises a revolution i
 
 Clinical medical data paints a troubling picture, revealing that emergency cases related to exercise injuries caused by using AI fitness mirrors surged by 170% in 2023 compared to the previous year. This alarming statistic raises serious questions about the safety and efficacy of relying solely on AI for form correction and workout guidance. Are consumers being lured by the allure of convenience and personalization, only to fall victim to preventable injuries?
 
-## The "Self-Destructive Training" Problem: Why Fitbod's AI is Missing Key Signals
+## The "Self-Destructive Training" Problem: Why Fitbod's AI is Missing Key Signals, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 The core issue lies in the limitations of AI to accurately recognize nuanced aspects of human movement and muscle activation. A senior fitness coach, speaking anonymously due to non-disclosure agreements, claims that AI fitness mirrors contain serious design flaws, leading approximately 80% of users unknowingly into "self-destructive training" that causes lasting damage. This isn't just about imperfect form; it's about the potential for AI to reinforce and exacerbate harmful movement patterns.
 

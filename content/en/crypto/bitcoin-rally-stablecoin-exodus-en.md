@@ -27,7 +27,7 @@ While Tether defends these actions as necessary for regulatory compliance and se
 
 How can users truly trust a stablecoin when its value and accessibility are subject to the whims of a centralized authority. Tether's blacklisting practices expose the inherent trade-offs between regulatory compliance and the ideals of decentralization, forcing users to confront the uncomfortable reality that their assets are never truly beyond the reach of centralized control.
 
-## BDO Italia's Attestation: The Audit Concerns That Won't Go Away
+## BDO Italia's Attestation: The Audit Concerns That Won't Go Away, according to [SEC](https://www.sec.gov/)
 
 Despite attestations from BDO Italia, Tether continues to face persistent criticism regarding the absence of a full, independent audit of its reserves. These attestations, while providing some level of assurance, fall short of a comprehensive audit conducted by a reputable, independent accounting firm. The difference lies in the scope and rigor of the examination. An attestation merely confirms that Tether's reserves match its reported liabilities at a specific point in time, whereas a full audit would delve deeper into the composition, valuation, and management of those reserves.
 

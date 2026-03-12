@@ -29,7 +29,7 @@ La reciente corrección del precio, por tanto, no es un evento aislado, sino una
 
 Es crucial analizar si esta caída en el precio responde a factores macroeconómicos más amplios, a ventas estratégicas de inversores institucionales o, simplemente, a una corrección natural tras un período de crecimiento. La respuesta a esta pregunta determinará si estamos ante una simple turbulencia o ante el inicio de una fase bajista más prolongada. El riesgo, en este punto, es que la falta de demanda minorista sostenida provoque una espiral descendente, alimentada por el miedo y la incertidumbre. En este sentido, la capacidad de Bitcoin para consolidar su posición como activo refugio, más allá de las modas y las expectativas, será determinante para su futuro.
 
-## ETFs de Bitcoin: BlackRock y la Fuga de Capitales que Nadie Anticipó
+## ETFs de Bitcoin: BlackRock y la Fuga de Capitales que Nadie Anticipó, segun datos recogidos por [SEC](https://www.sec.gov/)
 
 La aprobación de los ETFs de Bitcoin en Estados Unidos generó un optimismo desmedido, proyectando una inyección masiva de capital institucional que impulsaría el precio a nuevas alturas. Sin embargo, la realidad, como suele suceder en los mercados financieros, ha demostrado ser más compleja y menos predecible. La reciente caída del precio de Bitcoin, en parte, se atribuye a una fuga de capitales desde estos mismos ETFs que, paradójicamente, se esperaba que fueran la panacea.
 

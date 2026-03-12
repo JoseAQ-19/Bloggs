@@ -27,7 +27,7 @@ La difusión masiva de las ventosas como método de recuperación muscular es un
 
 **¿Placebo o realidad?** Este es el núcleo del debate. ¿Estamos ante un tratamiento con efectos fisiológicos reales o ante un mero efecto placebo amplificado por la influencia de figuras deportivas? La respuesta no es sencilla, pero la comunidad científica insiste en la necesidad de investigaciones más exhaustivas y controladas para determinar el verdadero valor de las ventosas en la recuperación deportiva. La falta de evidencia sólida debería ser una señal de alerta para los consumidores, que a menudo se dejan llevar por modas pasajeras sin cuestionar los riesgos y beneficios reales.
 
-## El Negocio de la Sugestión: Por Qué el Colegio de Fisioterapeutas de Madrid Advierte Sobre las Ventosas
+## El Negocio de la Sugestión: Por Qué el Colegio de Fisioterapeutas de Madrid Advierte Sobre las Ventosas, segun datos recogidos por [Reuters](https://www.reuters.com/)
 
 El Colegio Profesional de Fisioterapeutas de la Comunidad de Madrid (CPFCM) ha sido una de las voces más críticas con la proliferación de las ventosas, advirtiendo sobre el riesgo de que se conviertan en un negocio basado en la sugestión y la desinformación. Si bien reconocen que algunos pacientes pueden experimentar una sensación de alivio tras la aplicación de las ventosas, insisten en que estos efectos podrían ser mayormente atribuibles al placebo.
 

@@ -25,7 +25,7 @@ The relentless pursuit of muscle gains has fueled a multi-billion dollar protein
 
 These findings reveal that consuming excessive dietary protein, particularly leucine, can increase atherosclerosis risk by activating immune cells. Atherosclerosis, the buildup of plaque inside arteries, is a leading cause of heart disease, stroke, and other cardiovascular complications. While protein is essential for muscle growth and overall health, the study indicates that excessive intake, especially from animal sources high in leucine, may trigger a cascade of events that promote plaque formation.
 
-## Beyond the Bro Science: Why the Protein Obsession Misses the Mark
+## Beyond the Bro Science: Why the Protein Obsession Misses the Mark, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 For years, the fitness community has been bombarded with the message that high-protein diets are the key to building muscle, losing weight, and optimizing performance. This "bro science" often overlooks the potential downsides of excessive protein consumption, particularly its impact on arterial health. The British Heart Foundation notes that growing evidence suggests consuming too much protein could cause blockages in the walls of blood vessels, leading to heart and circulatory conditions.
 

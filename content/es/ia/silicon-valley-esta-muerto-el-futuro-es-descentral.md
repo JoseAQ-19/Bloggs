@@ -25,7 +25,7 @@ Olvidemos las promesas de democratización y empoderamiento. La realidad es que 
 
 El poder de estos gigantes tecnológicos es tal que incluso los gobiernos nacionales se ven impotentes para regularlos. ¿Acaso alguien cree que las tímidas multas impuestas por la Unión Europea a Google o Facebook son algo más que una burla? [Como denuncia este informe de la Comisión Europea](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-digital-services), la asimetría de poder entre las corporaciones y los estados es cada vez más evidente, y la capacidad de los gobiernos para proteger a sus ciudadanos se ve cada vez más comprometida.
 
-## La Amenaza Tecnoautoritaria: El Control Total
+## La Amenaza Tecnoautoritaria: El Control Total, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 Pero el tecnofeudalismo no es solo una cuestión económica; es también una amenaza política. Francesca Bria, ex comisionada digital de Barcelona, ha advertido con razón sobre el auge del **Complejo Tecnológico Autoritario**, una alianza siniestra entre empresas, financiadores e ideólogos cuyo objetivo es construir una infraestructura planetaria de vigilancia y control.
 
@@ -44,6 +44,6 @@ La idea de que las blockchains, las criptomonedas o las DAOs puedan realmente de
 
 El problema no es la centralización en sí misma, sino el abuso de poder. La solución no es descentralizar todo, sino crear mecanismos de control que impidan que el poder se concentre en manos de unos pocos. Esto requiere una regulación efectiva, una mayor transparencia y una ciudadanía informada y activa. Sin estas condiciones, la descentralización no es más que una ilusión que nos distrae de los verdaderos problemas.
 
-## Conclusión: La Necesidad de un Nuevo Contrato Social
+## Conclusión: La Necesidad de un Nuevo Contrato Social Para profundizar en este tema, consulta nuestro analisis sobre [Workday Tambalea: El Plan Secreto De Cegid Para De](/ia/workday-obsolescencia-ia-openai-2026/).
 
 El modelo de Silicon Valley ha fracasado. Su legado no es la innovación y el progreso, sino la desigualdad, la opresión y la destrucción del tejido social. La descentralización es una quimera. La única esperanza reside en la creación de un nuevo contrato social que limite el poder de las grandes corporaciones y proteja los derechos de los ciudadanos. Este contrato debe basarse en los principios de la justicia, la igualdad y la sostenibilidad. Y debe ser impuesto por una autoridad legítima y democrática. Sin este nuevo contrato, estamos condenados a un futuro de tecnofeudalismo, donde la tecnología se convierte en un instrumento de control y dominación. No hay otra alternativa.

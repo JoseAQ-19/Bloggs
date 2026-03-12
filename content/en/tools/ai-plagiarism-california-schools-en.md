@@ -25,7 +25,7 @@ The detection market itself is expanding at alarming rates. The U.S. AI Educatio
 
 Instructor Johannes Van Gorp at Santa Rosa Junior College has witnessed the first-hand consequences of these flawed systems. He has observed that AI detection has increased workload for instructors seeking to prevent cheating, creating a false sense of security while potentially harming innocent students. The arms race between AI generation and detection has become a treadmill where educational institutions keep spending without achieving meaningful gains in academic integrity. The entire ecosystem appears designed to perpetuate itself rather than solve the underlying problems.
 
-## The Hallucination Problem: When AI Detection Tools Lie
+## The Hallucination Problem: When AI Detection Tools Lie, according to [TechCrunch](https://techcrunch.com/)
 
 "AI-generated citations are hallucinations," according to researcher Kate Crawford, highlighting the fundamental flaw in relying on detection technology. The detection algorithms struggle with the same issues that plague generative models — they fabricate evidence, misinterpret patterns, and create false positives that can ruin academic careers. When combined with the reality that AI tools themselves create erroneous information, the entire system becomes a house of cards built on questionable foundations.
 

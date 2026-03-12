@@ -27,7 +27,7 @@ One study evaluating Zoe's PDP demonstrated a significant reduction in triglycer
 
 Furthermore, Zoe's PDP has faced methodological criticisms. The black box nature of the algorithm makes it difficult to assess the validity of its recommendations. Does the algorithm sufficiently account for complex interactions between genes, lifestyle, and environment? How frequently is the algorithm updated to incorporate new scientific findings? Without transparency, consumers are essentially placing their trust in a proprietary system whose inner workings remain opaque. The high cost of the Zoe program relative to publicly funded healthcare systems, as noted by some critics, also raises concerns about accessibility and equity. Is personalized nutrition becoming a luxury good, accessible only to those who can afford to pay for premium health insights?
 
-## Public Health vs. Personalized Health: The $13.24 Billion Divide
+## Public Health vs. Personalized Health: The $13.24 Billion Divide, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 The potential for personalized nutrition to exacerbate existing health disparities is a growing concern. While the U.S. personalized nutrition market is projected to reach USD 13.24 billion by 2032, access to these advanced technologies and tailored recommendations is not evenly distributed. The cost of genetic testing, microbiome analysis, and personalized meal planning services can be prohibitive for low-income individuals and underserved communities.
 

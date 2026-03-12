@@ -30,7 +30,7 @@ In 2025, the weight loss supplement market was valued at USD 37.89 billion. Mark
 
 The tech and finance sectors need to exercise caution. Investing in companies that prioritize profit over consumer safety could lead to significant financial and reputational damage. Due diligence is paramount. Are the claims made by these companies supported by robust clinical trials and peer-reviewed research? Or are they simply riding the wave of the latest fad, like the dangerous "plastic-wrapped eating" trend?
 
-## Chitosan's Shell Game: Why the FDA Isn't Cracking Down Hard Enough
+## Chitosan's Shell Game: Why the FDA Isn't Cracking Down Hard Enough, according to [Reuters](https://www.reuters.com/)
 
 Chitosan, a supplement touted for weight loss, has shown only "modest effectiveness," yet the FDA hasn't issued strong warnings, despite known side effects like digestive issues and potential vitamin malabsorption. Derived from the shells of crustaceans, chitosan is marketed as a "fat blocker," claiming to prevent the absorption of dietary fat. However, the scientific evidence supporting this claim is far from conclusive.
 

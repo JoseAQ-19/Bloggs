@@ -25,7 +25,7 @@ The narrative surrounding Bitcoin often fixates on the inflows and outflows of U
 
 The reduction in ETF holdings could be attributed to various factors, including profit-taking after the initial surge following ETF approvals, hedging strategies against macroeconomic uncertainty, or even simple portfolio rebalancing. The fact that whales—entities with a longer-term investment horizon and a deeper understanding of the market—are accumulating during this period suggests a disconnect between short-term ETF activity and the underlying bullish sentiment within the Bitcoin market. This is not to say that ETF flows are irrelevant, but rather that they should be viewed in conjunction with other on-chain metrics to gain a more comprehensive understanding of market dynamics. Could it be that the ETFs are simply playing a game of musical chairs while the whales patiently stack sats?
 
-## Standard Chartered's $175K-$250K Bitcoin Dream, Slipping Away?
+## Standard Chartered's $175K-$250K Bitcoin Dream, Slipping Away?, according to [CoinDesk](https://www.coindesk.com/)
 
 Standard Chartered, along with other financial institutions, has made bold predictions regarding Bitcoin's price trajectory, with Geoff Kendrick projecting a potential rise to $175K–$250K by Q1 2026. However, such bullish forecasts now face stiff headwinds due to the current technical setup and macroeconomic environment. Bitcoin is currently trading well below its key moving averages, namely the MA-20 ($84,897.65), MA-50 ($88,084.78), and MA-200 ($103,047.29), according to recent data.
 

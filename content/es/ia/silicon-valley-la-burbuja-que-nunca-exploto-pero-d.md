@@ -23,7 +23,7 @@ Silicon Valley: La Fábrica de Ilusiones. No se equivoquen, el valle ya no es si
 
 SVB no colapsó por mala suerte. Su debacle fue el resultado directo de una gestión imprudente y una fe ciega en el crecimiento perpetuo, un dogma que impregna a todo Silicon Valley. Apostaron el banco entero a bonos a largo plazo, financiados con depósitos volátiles de startups, una combinación tan explosiva como predecible. Cuando la Reserva Federal subió las tasas, el castillo de arena se desmoronó. Un 97% de los depósitos, sin seguro, provocaron un éxodo masivo, catapultando a SVB al dudoso honor de la segunda quiebra bancaria más grande en la historia de EE.UU. Esto no es un accidente, es la consecuencia lógica de una cultura que premia la imprudencia y castiga la prudencia.
 
-## La Falacia del Unicornio
+## La Falacia del Unicornio, segun datos recogidos por [ArXiv](https://arxiv.org/)
 
 La obsesión por "unicornios" —startups valoradas en más de mil millones de dólares— ha convertido a Silicon Valley en un monocultivo empresarial. Timothy Hor, de la RMIT University, puede abogar por un enfoque de "Bellotas a Robles", pero la realidad es que el valle está demasiado comprometido con su modelo de "caza de unicornios" para cambiar de rumbo. El problema no es la falta de ideas, sino la falta de paciencia y la insistencia en un crecimiento exponencial insostenible.
 
@@ -39,6 +39,6 @@ Incluso si la burbuja de la IA se mantiene inflada, Silicon Valley permanece ins
 
 El transporte público deficiente obliga al 85% de los conserjes a conducir al trabajo, consumiendo un 8% de sus ingresos en gasolina. **La crisis del transporte público en California es un problema bien documentado, como se puede observar en este reporte de Reuters**. Es un círculo vicioso de pobreza y dependencia del automóvil que perpetúa la desigualdad.
 
-## El Reinicio Imposible
+## El Reinicio Imposible Para profundizar en este tema, consulta nuestro analisis sobre [ChatGPT Suspende en España: La Mitad de los Alumno](/ia/ia-estudiantes-polanco-polemica/).
 
 ¿Debemos esperar a que la burbuja explote, aceptando las consecuencias económicas catastróficas? ¿O intentamos desactivarla antes de que sea demasiado tarde? La verdad es que Silicon Valley no tiene la capacidad de reformarse a sí mismo. Está demasiado atrapado en su propia narrativa de "disrupción" y "crecimiento infinito" para reconocer la bomba de tiempo que ha creado. No habrá un "reinicio" que mágicamente transforme este ecosistema corrupto. La única solución real es una implosión controlada, seguida de una reconstrucción desde cero, liderada por voces que prioricen la equidad, la sostenibilidad y el bienestar humano sobre la acumulación obscena de riqueza. Pero no esperen que eso suceda. Silicon Valley se hundirá con el barco.

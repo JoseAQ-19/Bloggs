@@ -27,7 +27,7 @@ Bodybuilding and extreme fitness practices, while often perceived as promoting h
 
 The culture of bodybuilding often normalizes extreme practices. This normalization desensitizes individuals to the potential consequences of low body fat, which can disrupt hormone regulation, affecting leptin and reproductive hormones. The use of anabolic steroids, prevalent in certain bodybuilding circles, introduces a host of additional health risks, including liver damage, cardiovascular problems, hormonal imbalances, and psychological effects, as outlined by the **Addiction Center**. These risks are often downplayed or ignored within the community, creating a dangerous environment for aspiring bodybuilders.
 
-## Jeff Nippard's Silence: Bodybuilding's Culture of Denial Examined
+## Jeff Nippard's Silence: Bodybuilding's Culture of Denial Examined, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 Jeff Nippard's announcement of Stephanie Buttermore's death on Instagram included a request for privacy for the family. While understandable, the lack of transparency surrounding the circumstances has amplified discussions about the potential dangers of extreme fitness practices and the pressures within the bodybuilding community. The reality is that bodybuilding, especially at the competitive level, often pushes the human body beyond its natural limits.
 

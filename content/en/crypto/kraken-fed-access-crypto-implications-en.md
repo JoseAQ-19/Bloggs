@@ -33,7 +33,7 @@ Kraken's leadership maintains that the new Fed access will transform digital ass
 
 The contrast between Kraken's regulatory past and its present financial ambitions creates a fundamental credibility gap. How can an exchange with a history of commingling customer funds and violating sanctions be entrusted with direct access to the Federal Reserve's payment infrastructure? The SEC's previous allegations remain unresolved despite the exchange settling the case in April 2024, leaving fundamental questions about operational integrity unanswered.
 
-## Waller's Crypto Embrace: Is the Fed Overlooking Warning Signs?
+## Waller's Crypto Embrace: Is the Fed Overlooking Warning Signs?, according to [SEC](https://www.sec.gov/)
 
 Federal Reserve Governor Christopher Waller has taken an unexpectedly bullish position on cryptocurrency integration into the traditional financial system. In a significant policy shift, Waller instructed staff to begin integrating crypto companies into the U.S. payments infrastructure, proposing a limited master account model for select firms. This stance represents a dramatic reversal from previous regulatory skepticism and directly contradicts ongoing enforcement actions by other financial regulators.
 

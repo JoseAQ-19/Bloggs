@@ -27,7 +27,7 @@ The Cetus breach is not an isolated event; it is a stark reminder of the inheren
 
 The U.S. cryptocurrency market also shows promising growth. It generated $1,497.3 million in revenue in 2025 and is projected to reach $4,197.7 million by 2033. However, these gains are threatened if security concerns are not addressed. The promise of DeFi cannot be realized if investors are constantly at risk of losing their funds to exploits.
 
-## Ethereum's Gas Fees Obscure the DeFi Security Crisis
+## Ethereum's Gas Fees Obscure the DeFi Security Crisis, according to [SEC](https://www.sec.gov/)
 
 The persistent focus on Ethereum's high gas fees often overshadows a more critical issue: the underlying security vulnerabilities within DeFi protocols. While efforts to reduce transaction costs are essential for wider adoption, they should not come at the expense of robust security measures. High gas fees on Ethereum remain a significant challenge, making DeFi inaccessible for smaller users.
 

@@ -29,7 +29,7 @@ El problema reside en la creciente digitalización del sector, que amplía la su
 
 Para mitigar estos riesgos, es fundamental implementar medidas de seguridad robustas, como la segmentación de redes, la monitorización continua de la actividad y la formación de los empleados en materia de ciberseguridad. Además, es crucial establecer protocolos de respuesta a incidentes claros y efectivos para minimizar el impacto de los ataques. La colaboración entre el sector público y privado es esencial para compartir información sobre amenazas y desarrollar estrategias conjuntas de defensa.
 
-## Soberanía de Datos vs. Dependencia Digital: El Caso ACE
+## Soberanía de Datos vs. Dependencia Digital: El Caso ACE, segun datos recogidos por [TechCrunch](https://techcrunch.com/)
 
 La búsqueda de la eficiencia energética a través de la digitalización plantea un dilema crucial: ¿soberanía de datos o dependencia digital? La creación de la *joint venture* ACE entre Iberdrola y Echelon para construir y operar centros de datos en España, con una inversión multimillonaria, busca impulsar la infraestructura digital y la inteligencia artificial. Sin embargo, esta iniciativa plantea interrogantes sobre el control de los datos y la autonomía tecnológica.
 

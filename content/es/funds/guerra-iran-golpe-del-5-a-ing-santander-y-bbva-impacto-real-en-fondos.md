@@ -19,7 +19,7 @@ La escalada de tensión en Oriente Medio, tras los recientes ataques entre Irán
 
 La incertidumbre geopolítica desatada por la escalada del conflicto entre Irán e Israel ha encendido las alarmas en los mercados financieros. Según datos recopilados por Bloomberg, la banca española, con ING, Santander y BBVA a la cabeza, podría sufrir un impacto negativo de hasta el 5% en sus cotizaciones bursátiles, debido a su exposición a la región y la potencial ralentización del crecimiento económico global. Esta situación plantea interrogantes cruciales para los inversores, especialmente aquellos con posiciones en fondos de inversión con exposición a estos valores o a mercados emergentes. ¿Cómo afecta esta crisis a nuestros ahorros? ¿Es momento de replantear nuestras carteras? Analizamos el impacto potencial en algunos fondos populares y exploramos estrategias para afrontar este entorno turbulento.
 
-## Análisis Comparativo de Fondos con Exposición a Banca y Mercados Emergentes
+## Análisis Comparativo de Fondos con Exposición a Banca y Mercados Emergentes, segun datos recogidos por [Vanguard](https://investor.vanguard.com/)
 
 Para comprender el impacto potencial de la crisis geopolítica en nuestras inversiones, analizaremos el rendimiento y las características de algunos fondos populares con exposición a la banca española y a mercados emergentes. Es crucial recordar que el rendimiento pasado no garantiza rendimientos futuros y que la situación actual es altamente volátil.
 
@@ -30,7 +30,7 @@ Para comprender el impacto potencial de la crisis geopolítica en nuestras inver
     *   Volatilidad (Desviación estándar): 12.5%
     *   Ratio de Sharpe: 0.9
     *   Comisiones (TER / Expense Ratio): 0.12%
-*   **Vanguard Emerging Markets Stock Index Fund EUR Acc (IE00B3VVMM84)**
+*   [Vanguard](https://investor.vanguard.com/)
     *   Rendimiento 1 Año: 12.7%
     *   Rendimiento 3 Años anualizado: N/D
     *   Rendimiento 5 Años anualizado: 5.2%

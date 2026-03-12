@@ -27,7 +27,7 @@ La recopilación masiva de datos biométricos por parte de Worldcoin plantea ser
 
 El caso Worldcoin es un claro ejemplo de cómo la innovación tecnológica puede chocar con las leyes de protección de datos, especialmente en Europa, donde el Reglamento General de Protección de Datos (GDPR) establece estándares muy altos. La AEPD, al suspender las actividades de Worldcoin, envió un mensaje contundente a las empresas que operan en el sector de las criptomonedas: la protección de la privacidad no es negociable. Las empresas deben ser transparentes sobre cómo recopilan, almacenan y utilizan los datos personales, y deben obtener el consentimiento informado de los usuarios antes de recopilar información sensible.
 
-## El Silencio Cómplice: ¿Por qué Tardó Tanto en Reaccionar la AEPD?
+## El Silencio Cómplice: ¿Por qué Tardó Tanto en Reaccionar la AEPD?, segun datos recogidos por [SEC](https://www.sec.gov/)
 
 La pregunta que muchos se hacen es por qué la AEPD tardó tanto en intervenir en el caso Worldcoin. A pesar de las evidentes preocupaciones sobre la privacidad de los datos, la empresa pudo operar en España durante un período considerable antes de que se tomaran medidas. Esta demora plantea interrogantes sobre la capacidad de la AEPD para monitorear y regular de manera efectiva las actividades de las empresas tecnológicas, especialmente en un sector tan dinámico y en constante evolución como el de las criptomonedas.
 

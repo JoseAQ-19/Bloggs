@@ -25,7 +25,7 @@ Executives at YouTube have repeatedly emphasized that Sunday Ticket serves as bo
 
 The Sunday Ticket strategy represents YouTube TV's most significant operational risk as it pursues Nathanson's aggressive subscriber growth targets. Without solving this equation, YouTube TV faces the prospect of scaling its subscriber base while maintaining unsustainable losses.
 
-## The Cord-Cutting Myth: Hulu + Live TV's Real Threat
+## The Cord-Cutting Myth: Hulu + Live TV's Real Threat, according to [Social Blade](https://socialblade.com/)
 
 YouTube TV may currently hold the position of America's most-watched virtual multichannel video programming distributor (vMVPD), but its competitive advantages against traditional cable operators mask a more precarious reality when facing streaming-native competitors. The cord-cutting narrative dominates industry discussions, but fails to address how platforms like Hulu + Live TV have systematically addressed YouTube TV's weaknesses while maintaining lower churn rates.
 

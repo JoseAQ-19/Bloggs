@@ -27,7 +27,7 @@ El alcance publicitario potencial de YouTube en España experimentó un descenso
 
 La imposición de anuncios no salteables de hasta 30 segundos se percibe como una falta de respeto hacia el tiempo y la paciencia del usuario. La fluidez y el control sobre la experiencia de consumo, valores fundamentales para la audiencia digital, se ven comprometidos. ¿Hasta qué punto está dispuesto YouTube a sacrificar la satisfacción del usuario en aras de maximizar sus ingresos publicitarios?
 
-## Detrás de la Cortina de Humo: ¿Realmente Beneficia a los Creadores este Incremento en la Publicidad Forzada?
+## Detrás de la Cortina de Humo: ¿Realmente Beneficia a los Creadores este Incremento en la Publicidad Forzada?, segun datos recogidos por [Social Blade](https://socialblade.com/)
 
 La narrativa oficial de YouTube suele centrarse en el apoyo a los creadores de contenido. Se argumenta que la publicidad es la base que sustenta su trabajo y les permite seguir creando videos de calidad. Sin embargo, esta visión podría ser incompleta.
 

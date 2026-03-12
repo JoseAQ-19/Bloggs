@@ -27,7 +27,7 @@ The clash between Anthropic's publicly stated principles and the potential deman
 
 Amodei faces an unenviable choice. Does he stick to his guns and risk alienating a powerful potential client (and possibly facing legal repercussions), or does he compromise his ethical stance for the sake of securing lucrative government contracts? The pressure is immense. "Anthropic, OpenAI, and Google DeepMind initially pledged self-regulation, but face pressure without legal backing," notes one analyst, raising concerns that voluntary commitments may not hold under competitive pressure. The lure of Pentagon funding is proving to be a siren song, testing the very core of Anthropic's purported commitment to responsible AI development.
 
-## Claude's Code Instability: The Opaque Throttling That's Frustrating Enterprise Users
+## Claude's Code Instability: The Opaque Throttling That's Frustrating Enterprise Users, according to [Google DeepMind](https://deepmind.google/)
 
 While the Pentagon showdown grabs headlines, another transparency issue is brewing within Anthropic's enterprise user base: the mysterious case of Claude's code instability and opaque throttling. Users are reporting erratic performance, unexpected limitations, and a distinct lack of clarity from Anthropic regarding updates and changes to the Claude model.
 

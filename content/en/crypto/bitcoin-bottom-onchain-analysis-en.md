@@ -25,7 +25,7 @@ While retail investors are fleeing the Bitcoin market in droves, a select group 
 
 The Crypto Fear and Greed Index hit an all-time low of 5 on February 6, 2026, lower than during the Terra/Luna collapse and the FTX implosion, indicating widespread panic . It appears the whales are using the extreme fear as an opportunity to accumulate cheap Bitcoin, while the small fry are cutting their losses. **Glassnode Analysts** suggest Bitcoin whale selling fits late-cycle profit-taking patterns rather than panic, indicating that the whales know something the retail investors do not.
 
-## ETF Flows Mask Retail Capitulation: Why Bitcoin's "Purification" Phase Isn't For Everyone
+## ETF Flows Mask Retail Capitulation: Why Bitcoin's "Purification" Phase Isn't For Everyone, according to [CoinDesk](https://www.coindesk.com/)
 
 The narrative of institutional adoption, fueled by Bitcoin ETF inflows, often obscures the harsh reality faced by retail investors. While Crypto ETF Net Flow data for February 24, 2026, showed a positive inflow of +$188,000,000, retail investors realized record losses exceeding $3.2 billion on February 5, 2026 . This divergence suggests a transfer of wealth from smaller holders to larger institutions, painting a less rosy picture than the headlines suggest. Is this the "purification" phase **Eric Jackson**, EMJ Capital founder, described, or just another cycle of retail investors getting rekt?
 

@@ -29,7 +29,7 @@ The promise of AI in magnet design lies in its ability to sift through vast data
 
 This implies a future where magnet design is less about laborious trial and error and more about intelligent prediction and optimization, potentially shortening development cycles and reducing material waste. The industry is keenly aware of this potential, with both established magnet manufacturers and emerging tech companies vying to stake their claim in the AI-driven magnet revolution.
 
-## China's 90% Grip: Why the EV Industry Feels Trapped
+## China's 90% Grip: Why the EV Industry Feels Trapped, according to [MIT Technology Review](https://www.technologyreview.com/)
 
 The electric vehicle industry's reliance on rare earth magnets is not merely a technological preference; it's a strategic vulnerability, exacerbated by the near-monopolistic control China exerts over the rare earth supply chain. China accounts for approximately 60% of global mining of magnet rare earths, over 90% of rare-earth separation and refining, and over 90% of sintered NdFeB magnet manufacturing in 2024. This dominance allows China to dictate prices, control supply, and potentially weaponize rare earth exports for geopolitical leverage.
 

@@ -25,7 +25,7 @@ Se nos vendió la IA como el oráculo imparcial que desentrañaría la verdad, l
 
 Pero la cosa no termina ahí. Lo realmente inquietante es la alarmante convergencia lingüística entre estos modelos. Comparten un vocabulario común, un "pensamiento grupal" algorítmico que perpetúa una única visión del mundo disfrazada de objetividad. En resumen, la pretendida neutralidad algorítmica es un fraude, una cortina de humo que oculta un sesgo sistemático.
 
-## La Tiranía de la "Moderación": Censura Selectiva y Polarización Amplificada
+## La Tiranía de la "Moderación": Censura Selectiva y Polarización Amplificada, segun datos recogidos por [ArXiv](https://arxiv.org/)
 
 La falacia de la neutralidad también se manifiesta en la gestión de contenidos en redes sociales. La estrategia de eliminar selectivamente el contenido "tóxico" (sea lo que sea que eso signifique) resulta contraproducente. Esta supuesta imparcialidad puede sofocar la expresión de minorías ideológicas, generando una "espiral del silencio" donde las voces disidentes se autocensuran por temor al acoso.
 
@@ -49,6 +49,6 @@ La idea de que debemos tomar partido en cada controversia, de que la neutralidad
 
 La clave reside en reconocer la omnipresencia del sesgo, tanto en los algoritmos como en el juicio humano, y en esforzarnos por mitigarlo a través de la transparencia, la diversidad de perspectivas y el debate abierto. No se trata de abdicar de nuestras convicciones, sino de ser conscientes de sus limitaciones y de estar dispuestos a escuchar y aprender de aquellos que piensan diferente. No podemos permitir que la búsqueda de la pureza ideológica justifique la supresión de la disidencia. Los recientes **ataques a la libertad de expresión en universidades estadounidenses** son un claro ejemplo de este peligro.
 
-## Veredicto: Abajo la Falsa Neutralidad, Viva el Debate Franco
+## Veredicto: Abajo la Falsa Neutralidad, Viva el Debate Franco Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/la-cortina-de-humo-digital/).
 
 El supuesto "fin de la neutralidad" es una invitación a abrazar el debate franco y sin complejos. Si bien la neutralidad absoluta es un mito, la búsqueda de la objetividad, la imparcialidad y el respeto por la diversidad de opiniones sigue siendo un valor fundamental para una sociedad abierta. Debemos defender los espacios neutrales donde el diálogo sea posible, donde las diferencias puedan ser discutidas sin caer en la polarización. La transparencia radical, la autocrítica implacable y el fomento del debate abierto son las mejores armas contra la tiranía de la "verdad única" y la peligrosa ilusión de una neutralidad impoluta. La complacencia no es una opción. **Debemos prepararnos para la batalla.**

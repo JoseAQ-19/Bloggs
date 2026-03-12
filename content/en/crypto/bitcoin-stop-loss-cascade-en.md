@@ -27,7 +27,7 @@ Morrison pointed to a worrying collapse in institutional demand for Bitcoin and 
 
 Bitcoin’s recent price action underscores the vulnerability of over-leveraged positions, especially as macroeconomic headwinds persist. Morrison’s warning serves as a stark reminder that technical analysis, combined with an understanding of institutional flows, is crucial for navigating the volatile crypto landscape. Investors who ignore these signals risk facing substantial losses as the market searches for its next equilibrium.
 
-## The HTX $61.5 Million Long Bet Gone Wrong: The Perils of Over-Leverage
+## The HTX $61.5 Million Long Bet Gone Wrong: The Perils of Over-Leverage, according to [SEC](https://www.sec.gov/)
 
 "Hodling" is gospel in the crypto community, but blind faith combined with excessive leverage can lead to financial ruin. The recent liquidation of a $61.5 million Bitcoin long position on HTX exchange serves as a cautionary tale for even the most ardent believers.
 

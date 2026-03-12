@@ -27,7 +27,7 @@ La opacidad fiscal de Dubái, combinada con su economía en auge y su estratégi
 
 Pero, ¿cómo funciona esta maquinaria de la evasión? Las estrategias son variadas y complejas, desde la creación de sociedades *offshore* hasta la utilización de instrumentos financieros opacos. La Agencia Tributaria española se enfrenta a un desafío mayúsculo para rastrear estos fondos y garantizar el cumplimiento de las obligaciones fiscales. El problema no es nuevo, pero la creciente sofisticación de las técnicas de evasión exige una respuesta contundente y coordinada a nivel internacional.
 
-## Paraíso Fiscal a la Vista: Las Promesas Sedientas de Dubái y La Realidad Fiscal Española
+## Paraíso Fiscal a la Vista: Las Promesas Sedientas de Dubái y La Realidad Fiscal Española, segun datos recogidos por [Reuters](https://www.reuters.com/)
 
 Dubái ofrece un espejismo de prosperidad con bajos impuestos, atrayendo a emprendedores, profesionales y empresas. Pero la realidad fiscal española no es tan fácil de evadir como parece. España pierde alrededor del 16% de sus ingresos por el impuesto de sociedades anualmente, lo que equivale a unos 4.200 millones de euros, debido a la evasión fiscal. Jordi Quintana, fundador de Gestoría Ibérico, explica cómo Dubái atrae a emprendedores, médicos, creadores y empresas tecnológicas. Sin embargo, trasladarse legalmente de España a Dubái y obtener beneficios reales de vivir, invertir o iniciar un negocio allí en 2025 requiere una planificación cuidadosa.
 

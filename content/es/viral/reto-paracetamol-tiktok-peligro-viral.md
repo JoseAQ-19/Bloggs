@@ -27,7 +27,7 @@ El problema radica en la percepción errónea que muchos adolescentes tienen sob
 
 La presión social, la necesidad de pertenencia y la búsqueda de emociones fuertes son factores que contribuyen a que los jóvenes se involucren en este tipo de desafíos. La promesa de fama efímera en las redes sociales, aunque peligrosa, resulta atractiva para muchos adolescentes que buscan desesperadamente su lugar en el mundo digital. ¿Pero a qué precio? El "Paracetamol Challenge" es un claro ejemplo de cómo la cultura de la viralidad puede poner en riesgo la salud y la vida de los más vulnerables.
 
-## Paracetamol: El Analgésico Inocente que Oculta un Peligro Mortal
+## Paracetamol: El Analgésico Inocente que Oculta un Peligro Mortal, segun datos recogidos por [Reuters](https://www.reuters.com/)
 
 El paracetamol es un fármaco analgésico y antipirético ampliamente utilizado en todo el mundo. Su facilidad de acceso y su percepción generalizada como un medicamento seguro lo han convertido en un elemento básico en muchos hogares. Sin embargo, esta aparente inocuidad esconde un peligro mortal cuando se consume en dosis elevadas. El hígado, el órgano encargado de metabolizar el paracetamol, puede verse gravemente dañado por una sobredosis, lo que puede provocar insuficiencia hepática, la necesidad de un trasplante o, en el peor de los casos, la muerte.
 

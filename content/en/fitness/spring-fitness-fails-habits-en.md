@@ -27,7 +27,7 @@ The physiological consequences of overtraining are profound. When the body is su
 
 Ignoring recovery also compromises the immune system. Intense training sessions create micro-tears in muscle fibers, prompting an inflammatory response. While this inflammation is necessary for adaptation, chronic overtraining overwhelms the body's ability to manage it, weakening the immune system and increasing susceptibility to illness. The constant pressure to perform on Wall Street further exacerbates this issue, as stress hormones suppress immune function. Therefore, prioritizing recovery is not merely about physical repair; it's about safeguarding overall health and sustaining long-term performance in a demanding profession.
 
-## The Fad Diet Mirage: Why **Rutgers University** Psychology Professor Charlotte Markey Says They're Counterproductive
+## The Fad Diet Mirage: Why **Rutgers University** Psychology Professor Charlotte Markey Says They're Counterproductive, according to [Journal of Sports Sciences](https://www.tandfonline.com/toc/rjsp20/current)
 
 Fad diets, promising rapid weight loss and transformation, are a persistent mirage in the fitness landscape, especially tempting for those seeking quick results. However, these restrictive eating plans often prove counterproductive, leading to nutritional deficiencies, metabolic slowdown, and, ultimately, weight regain. The allure of a quick fix often overshadows the importance of sustainable, balanced nutrition.
 

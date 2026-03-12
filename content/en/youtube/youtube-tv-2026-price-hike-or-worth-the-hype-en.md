@@ -25,7 +25,7 @@ The myth of cord-cutting as a budget-friendly alternative is being challenged by
 
 YouTube TV's base plan now sits at $82.99 per month, a price that rivals many traditional cable packages, especially when factoring in promotional offers and bundled discounts often available from cable providers. This price creep directly undermines the primary motivation for consumers to switch to streaming, as **86.7% of cord-cutters cite price as the primary reason** for ditching traditional pay TV. As YouTube TV inches closer to cable prices, it risks alienating its core demographic and driving them towards cheaper, albeit potentially less comprehensive, streaming options.
 
-## The Disney Debacle: How Carriage Disputes Could Trigger a Subscriber Exodus
+## The Disney Debacle: How Carriage Disputes Could Trigger a Subscriber Exodus, according to [Social Blade](https://socialblade.com/)
 
 Past carriage disputes reveal a critical flaw in YouTube TV's strategy, risking subscriber loyalty for short-term gains. These disputes, often centering around retransmission fees and content licensing agreements, not only disrupt service but also erode consumer trust. YouTube TV's willingness to play hardball in these negotiations, while potentially beneficial in the long run for controlling costs, can have immediate and damaging consequences for its subscriber base.
 

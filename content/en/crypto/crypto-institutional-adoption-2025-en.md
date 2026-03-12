@@ -31,7 +31,7 @@ The regulatory landscape for stablecoins is particularly complex, with debates o
 
 Centralized stablecoins, while offering more stability, are susceptible to regulatory risks, transparency issues, and potential central points of failure. This dependence on centralized entities raises concerns about censorship and control, potentially undermining the decentralized ethos of the broader crypto market. Navigating this regulatory tightrope requires institutions to adopt a cautious and proactive approach, closely monitoring regulatory developments and ensuring compliance with evolving standards.
 
-## DeFi's Identity Crisis: Compliance vs. Core Principles
+## DeFi's Identity Crisis: Compliance vs. Core Principles, according to [SEC](https://www.sec.gov/)
 
 The pursuit of compliance within the decentralized finance (DeFi) sector threatens to fundamentally alter its core principles. DeFi, designed to operate without intermediaries, faces mounting pressure from regulators to adhere to traditional financial regulations.
 

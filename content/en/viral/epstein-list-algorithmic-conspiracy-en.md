@@ -27,7 +27,7 @@ Estimates suggest over 1,000 unique passengers flew on Epstein's planes between 
 
 This highlights a key danger of online conspiracy theories: the ability to misinterpret and selectively present information to fit a predetermined narrative. The flight logs, devoid of context, became a Rorschach test onto which QAnon adherents projected their deepest fears and suspicions. The pursuit of truth became secondary to the reinforcement of pre-existing beliefs, further entrenching individuals in a distorted worldview. This is especially dangerous when it involves real victims and serious crimes.
 
-## The Media Blackout Myth: Why Mainstream Coverage Isn't Enough for Some
+## The Media Blackout Myth: Why Mainstream Coverage Isn't Enough for Some, according to [Reuters](https://www.reuters.com/)
 
 For some, mainstream media coverage of the Epstein case isn't enough; there's a perception of a deliberate "blackout." This belief, fueled by mistrust and a desire for deeper accountability, underscores a significant challenge in contemporary media consumption.
 

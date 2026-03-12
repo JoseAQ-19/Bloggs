@@ -27,7 +27,7 @@ La agresiva estrategia de precios de MasMusculo no solo impacta la rentabilidad 
 
 La competencia desleal, como la que se atribuye a MasMusculo, puede tener consecuencias devastadoras para la economía local. Al socavar la rentabilidad de las empresas españolas, se reduce su capacidad para invertir en innovación, generar empleo y contribuir al crecimiento económico. A largo plazo, esto podría debilitar la industria del fitness en España y hacerla más vulnerable a la competencia extranjera. El gobierno español y las organizaciones empresariales deben tomar medidas para garantizar que todas las empresas compitan en igualdad de condiciones y que se proteja la integridad del mercado.
 
-## El Discurso Oficial Contra la Realidad: ¿Calidad Cuestionable o Estrategia Inteligente?
+## El Discurso Oficial Contra la Realidad: ¿Calidad Cuestionable o Estrategia Inteligente?, segun datos recogidos por [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 Las opiniones sobre la calidad de los productos de MasMusculo son variadas. Algunos clientes elogian la excelente relación calidad-precio y la rapidez en la entrega, según se puede ver en **opiniones online**. Sin embargo, la realidad que reflejan las reseñas de Trustpilot es menos optimista. El "Poor" TrustScore de 2.5 sobre 5 para MasMusculo sugiere que su estrategia centrada en el precio podría estar comprometiendo la calidad percibida.
 

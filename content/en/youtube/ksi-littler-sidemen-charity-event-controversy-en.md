@@ -27,7 +27,7 @@ The SEC's action against Kardashian underscores the importance of transparency i
 
 The incident with Kim Kardashian highlights the risks associated with promoting unregulated or volatile financial products. While influencers often focus on the potential upside, they rarely discuss the risks involved, potentially leading their audience to make uninformed investment decisions. This case could prompt other influencers to conduct thorough due diligence before promoting any financial product, ensuring they understand the risks involved and can communicate them clearly to their audience. Will it actually happen, though?
 
-## The Age of Risk: Luke Littler and the Gambling Compliance Nightmare
+## The Age of Risk: Luke Littler and the Gambling Compliance Nightmare, according to [Social Blade](https://socialblade.com/)
 
 The rise of young athletes presents a unique set of challenges for brands, particularly those in regulated industries like gambling. Luke Littler, a 17-year-old darts sensation, has taken the sports world by storm, but his age creates a compliance headache for gambling partners. Richard Moffat, CEO of OLBG, highlighted these challenges, noting the restrictions on using individuals who appear to be under 25 in gambling advertisements.
 

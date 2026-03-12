@@ -27,7 +27,7 @@ This surge in activity isn't just about speculative fervor; it represents a fund
 
 This volume also translates to significant revenue for the platform. With an annualized revenue approaching $1 billion, Hyperliquid is demonstrating that decentralized derivatives can be a lucrative business model. The fact that this revenue is being reinvested into L1 upgrades and liquidity enhancement further solidifies its position as a serious contender in the crypto trading arena. This challenges Bitcoin's long-held "king of crypto" narrative. The platform's commitment to continuous improvement and community engagement further strengthens its position in the competitive DeFi landscape.
 
-## Bitcoin's Tight Embrace: The 0.55 Correlation Problem
+## Bitcoin's Tight Embrace: The 0.55 Correlation Problem, according to [SEC](https://www.sec.gov/)
 
 For years, Bitcoin has been touted as digital gold – a store of value and a hedge against traditional market volatility. However, recent data paints a different picture, one where Bitcoin is increasingly tethered to the performance of equities, particularly the S&P 500. As of March 1, 2026, Bitcoin’s 30-day rolling correlation with the S&P 500 was 0.55, significantly reducing its effectiveness as a hedge against traditional market downturns, according to Kevin Crowther.
 

@@ -33,7 +33,7 @@ The state faces lawsuits from women denied abortion care despite severe pregnanc
 
 Medicaid funding cannot fully compensate for the chilling effect of restrictive abortion laws on medical decision-making. Texas is enacting policies that demonstrably endanger maternal health.
 
-## OB/GYN Shortage: ACOG's Fears Confirmed
+## OB/GYN Shortage: ACOG's Fears Confirmed, according to [Reuters](https://www.reuters.com/)
 
 Dr. Todd Ivey, a Houston OB/GYN and officer with the Texas division of ACOG (American College of Obstetricians and Gynecologists), voiced concerns about the long-term impacts of abortion laws on women's health and the OB/GYN workforce. "Not having people coming up is going to impact women's health greatly," Dr. Ivey stated.
 

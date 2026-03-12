@@ -23,7 +23,7 @@ El reloj financiero marca el año 2026, y la pregunta no es si habrá turbulenci
 
 El mantra de "crecimiento a cualquier costo" ha creado un monstruo. En 2026, el mundo desarrollado deberá refinanciar la obscena suma de 33 billones de dólares en deuda pública. No es un pequeño bache en el camino, es un precipicio fiscal. Esta montaña de deuda, acumulada durante años de políticas monetarias laxas, está a punto de caer sobre nosotros. ¿La solución? Más deuda, perpetuando un ciclo vicioso que solo beneficia a los bancos y a los políticos que los protegen. **Según Bloomberg**, la deuda global sigue en ascenso, ignorando las advertencias más elementales.
 
-## La Farsa de la "Banca en la Sombra"
+## La Farsa de la "Banca en la Sombra", segun datos recogidos por [ArXiv](https://arxiv.org/)
 
 La llamada "banca en la sombra" (NBFI) no es más que un casino financiero sin las reglas básicas. Con activos que superan los 238 billones de dólares, estas entidades operan en las sombras, acumulando riesgos y evadiendo la supervisión regulatoria. Es un sistema paralelo diseñado para maximizar las ganancias a corto plazo, sin importar las consecuencias a largo plazo. Europa, con 50,7 billones de euros en activos NBFI, es especialmente vulnerable.
 
@@ -43,7 +43,7 @@ Las consecuencias de esta crisis ya se están manifestando. El aumento del desem
 
 El Reino Unido es un claro ejemplo del "apocalipsis zombi" en acción. Empresas improductivas, mantenidas a flote por el crédito barato, están comenzando a colapsar, provocando despidos masivos y un aumento de la pobreza. En Estados Unidos, el gasto en intereses de la deuda supera incluso el presupuesto de defensa, evidenciando las prioridades distorsionadas de un sistema político corrupto.
 
-## No se Equivoquen: Esto No es un Accidente
+## No se Equivoquen: Esto No es un Accidente Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/el-metaverso-ha-muerto-larga-vida-al-caos-digital/).
 
 La crisis de 2026 no es un evento imprevisto, sino la culminación de años de malas decisiones y políticas económicas fallidas. Los bancos centrales han creado un entorno de dinero fácil que ha incentivado la especulación y el endeudamiento. Los gobiernos han ignorado las advertencias sobre la sostenibilidad de la deuda pública. La "banca en la sombra" ha crecido sin control.
 

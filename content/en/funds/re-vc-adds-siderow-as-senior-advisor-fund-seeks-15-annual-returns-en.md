@@ -55,7 +55,7 @@ When evaluating RE VC's position within the venture capital landscape, particula
 
 The expense structure of RE VC falls within industry norms for private equity funds, with a 2.5% annual management fee and 20% carried interest, though this remains significantly higher than the passive index option. Notably, the fund's 5-year annualized return of 14.7% closely approaches its stated 15% target, though recent performance has lagged behind both its benchmark and comparable funds. The Sharpe ratio of 0.61 indicates reasonable risk-adjusted returns, though trailing behind the Blackstone vehicle's 0.67.
 
-## Expert Opinion on Venture Capital Performance
+## Expert Opinion on Venture Capital Performance, according to [Bloomberg](https://www.bloomberg.com/)
 
 The challenges facing specialized venture funds targeting specific sectors like real estate technology are well-documented among industry analysts. According to Morningstar's Senior Analyst for Alternative Investments, David Kathman, "The era of easy money and sky-high valuations for PropTech startups has conclusively ended, forcing funds to either dramatically scale back their return expectations or demonstrate exceptional operational expertise to justify their fee structures in this new rate environment." This perspective underscores the fundamental challenge facing RE VC and similar specialized funds: delivering premium returns in an increasingly competitive and capital-constrained market.
 

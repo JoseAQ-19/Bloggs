@@ -26,7 +26,7 @@ La narrativa cuidadosamente construida por los amos del valle nos vende la Intel
 
 La llamada "Doctrina Silicon" no es más que una reinterpretación cínica del neoliberalismo, donde la desregulación es la norma y la explotación, la estrategia. La lógica es perversa: extraer la máxima cantidad de datos posible, considerándolos *res nullius*, materia prima para alimentar algoritmos que predicen y, lo que es peor, manipulan nuestro comportamiento. ¿Un ejemplo? Android, ese supuesto "código abierto" que consolida un monopolio asfixiante, subcontratando la innovación a usuarios que contribuyen con sus datos a cambio de… nada. **Aquí un análisis de cómo Google controla Android**.
 
-## El mito de la sostenibilidad tecnológica: Un engaño "verde"
+## El mito de la sostenibilidad tecnológica: Un engaño "verde", segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 La cantinela sobre la eficiencia y la sostenibilidad tecnológica es una burda mentira. A pesar de la propaganda "verde", la innovación constante genera un daño ecológico colosal. El sector de las TIC, recordemos, es responsable de un porcentaje considerable del calentamiento global, superando al sector de la aviación. La obsolescencia programada, ese ciclo infernal de nuevos dispositivos, produce montañas de residuos electrónicos tóxicos y una dependencia de minerales conflictivos que profundiza la crisis ambiental. Y luego se llenan la boca hablando de salvar el planeta.
 
@@ -36,7 +36,7 @@ La ideología que impregna Silicon Valley ha tomado un cariz inquietante. Vision
 
 La promesa de Uber y Amazon no es flexibilidad, sino precariedad. Los trabajadores son vigilados las 24 horas del día, los 7 días de la semana, llevando el control laboral a niveles distópicos. Se les etiqueta como "falsos autónomos", transfiriendo el riesgo empresarial al trabajador mientras la plataforma mantiene el control absoluto. ¿Libertad? Una palabra vacía.
 
-## La fuga hacia Marte: El último acto de cobardía
+## La fuga hacia Marte: El último acto de cobardía Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/la-cortina-de-humo-digital/).
 
 Ante la crisis climática y social, la respuesta de Silicon Valley no es la solución, sino la huida. La colonización espacial, impulsada por Musk y Bezos, se vende como una "póliza de seguro", un lujo accesible solo para una élite privilegiada. Proponen construir "ciudades privadas" o "estados en red" para evadir impuestos y leyes nacionales, o construyen búnkeres en Nueva Zelanda, evidenciando su deseo de desconectarse del resto de la humanidad. **El informe de Oxfam sobre la desigualdad galopante** pinta un panorama desolador.
 

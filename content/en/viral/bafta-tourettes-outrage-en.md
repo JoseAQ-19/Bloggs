@@ -29,7 +29,7 @@ The incident quickly spread across social media platforms, particularly Twitter,
 
 The handling of the situation by both BAFTA and the BBC underscores the complex balancing act between freedom of expression, sensitivity towards marginalized communities, and the editorial responsibilities of media outlets. The initial failure to address the offensive language promptly further exacerbated the situation, leading to increased calls for transparency and accountability in media content regulation. The incident serves as a stark reminder of the potential consequences of misjudging the public's sensitivity and the need for a consistent, ethical approach to broadcasting standards.
 
-## BBC's Troubling Edit: Freedom of Expression or Selective Censorship?
+## BBC's Troubling Edit: Freedom of Expression or Selective Censorship?, according to [Reuters](https://www.reuters.com/)
 
 The core of the controversy revolves around whether the BBC's editing choices reflect a deeper bias in content regulation. On one hand, proponents of free speech argue that any form of censorship, regardless of its intent, sets a dangerous precedent. They suggest that even offensive or controversial statements should be allowed to air, as long as they do not incite violence or direct harm. On the other hand, advocates for responsible broadcasting emphasize the potential harm that offensive language can inflict on marginalized communities. They maintain that media outlets have a moral obligation to protect vulnerable groups from hate speech and discrimination.
 

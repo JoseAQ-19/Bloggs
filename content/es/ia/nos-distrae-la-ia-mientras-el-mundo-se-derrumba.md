@@ -27,7 +27,7 @@ La famosa "nube" que sustenta la IA es una falacia. Es una red de centros de dat
 
 Pero el consumo de energía es solo la punta del iceberg. GPT-3 también requirió 700.000 litros de agua dulce solo para su entrenamiento. Y no olvidemos la creciente montaña de desechos electrónicos, con solo una pequeña fracción reciclada. Los ingenuos que creen en la "sostenibilidad" de la IA están bebiendo el Kool-Aid corporativo.
 
-## Colonialismo de Datos y la Nueva Esclavitud Digital
+## Colonialismo de Datos y la Nueva Esclavitud Digital, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 La IA está alimentando un nuevo colonialismo, donde nuestros datos personales son la materia prima. Tres gigantes (Amazon, Microsoft y Google) controlan el 68% del mercado de servicios en la nube, según **datos de Gartner**. Esto les otorga un poder sin precedentes sobre nuestras vidas y economías.
 
@@ -49,7 +49,7 @@ Incluso las promesas de "neutralidad de carbono" de las grandes tecnológicas so
 
 La capacidad de la IA para generar desinformación convincente a escala masiva amenaza la democracia y la confianza en las instituciones. La población, distraída por trivialidades y entretenimiento, perderá la capacidad de participar en asuntos públicos serios. La vigilancia se ha convertido en el modelo de negocio predeterminado. Los datos íntimos de trabajadores y consumidores se utilizan para calibrar salarios y entrenar modelos que eventualmente los reemplazarán.
 
-## La IA No Es La Solución. Es El Problema.
+## La IA No Es La Solución. Es El Problema. Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/el-dossier-fantasma-cuando-la-opacidad-es-la-estra/).
 
 La IA, en su forma actual, no es la solución a nuestros problemas, sino un síntoma de una sociedad que ha perdido el rumbo. Es una distracción masiva que nos impide ver la realidad que se derrumba a nuestro alrededor. No nos engañemos: **la IA beneficia principalmente a las empresas tecnológicas y a sus accionistas**.
 

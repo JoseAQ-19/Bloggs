@@ -27,7 +27,7 @@ SantinoCripto, un reconocido trader español, ha encendido las expectativas al p
 
 Por otro lado, Markus Thielen, de 10x Research, adopta una postura mucho más cautelosa. Thielen, reconocido por predecir con precisión el suelo del mercado bajista en noviembre de 2022, anticipa ahora una corrección de precios significativa para Bitcoin y otros activos de riesgo. En sus declaraciones recogidas por **Crypto Insiders**, Thielen señala que los activos de riesgo, incluyendo las acciones tecnológicas y las criptomonedas, están "al borde de una corrección de precios significativa". Esta perspectiva bajista, proveniente de un analista con un historial comprobado, no puede ser ignorada.
 
-## Halving y ETF al Rescate: ¿Un Sueño de Opio en la Era MiCA?
+## Halving y ETF al Rescate: ¿Un Sueño de Opio en la Era MiCA?, segun datos recogidos por [SEC](https://www.sec.gov/)
 
 El halving de Bitcoin, un evento programado que reduce a la mitad la recompensa por minar nuevos bloques, históricamente ha sido un catalizador para el aumento de precios. La narrativa del halving como un motor inevitable de crecimiento se ha visto reforzada por la reciente aprobación de ETFs de Bitcoin al contado en Estados Unidos. Estos ETFs, que permiten a los inversores institucionales y minoristas acceder a Bitcoin sin tener que poseer directamente la criptomoneda, han inyectado una nueva ola de capital en el mercado. Sin embargo, esta combinación de factores, lejos de garantizar un futuro alcista, podría estar creando una falsa sensación de seguridad.
 

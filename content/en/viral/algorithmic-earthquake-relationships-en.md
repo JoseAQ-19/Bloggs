@@ -27,7 +27,7 @@ The pressure to present a perfect online persona, coupled with the constant expo
 
 The financial incentive for dating apps to maintain a large pool of active (but not necessarily *successful*) users cannot be ignored. The more people who remain single and searching, the greater the potential revenue stream. This inherent conflict of interest raises questions about the ethical responsibility of these platforms in fostering healthy relationship dynamics. Are they truly invested in helping people find lasting love, or are they profiting from their perpetual dissatisfaction?
 
-## Gottman's Four Horsemen and the Silent Killer of Silicon Valley Marriages
+## Gottman's Four Horsemen and the Silent Killer of Silicon Valley Marriages, according to [Reuters](https://www.reuters.com/)
 
 Dr. John Gottman, a renowned psychologist and co-founder of The Gottman Institute, has spent decades studying the dynamics of successful and failing relationships. His research identified "The Four Horsemen of the Apocalypse" – criticism, contempt, defensiveness, and stonewalling – as communication patterns that can predict divorce with a staggering 94% accuracy. These destructive behaviors are often amplified in the age of social media, where fleeting interactions and curated online personas can mask deeper emotional disconnects.
 

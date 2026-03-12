@@ -29,7 +29,7 @@ A more cynical view suggests the outage may have been the result of cascading fa
 
 Transparency is crucial in these situations, and YouTube's explanation leaves much to be desired. Without a detailed postmortem, creators and viewers are left to speculate, fueling distrust and anxiety. The lack of clarity surrounding the outage raises questions about YouTube's commitment to reliability and its willingness to be open about its failures.
 
-## SRE to the Rescue?: Why Google's Reliability Team Couldn't Stop the Cascading Failure
+## SRE to the Rescue?: Why Google's Reliability Team Couldn't Stop the Cascading Failure, according to [Social Blade](https://socialblade.com/)
 
 Google has long championed Site Reliability Engineering (SRE) as a way to ensure the stability and performance of its services. According to Google VP of SRE, Ben Treynor, SRE is "what happens when you ask a software engineer to design an operations team." This approach emphasizes automation, monitoring, and proactive problem-solving.
 

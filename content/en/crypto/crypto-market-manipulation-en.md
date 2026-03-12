@@ -27,7 +27,7 @@ Chainalysis has documented how this manipulation extends beyond centralized plat
 
 The scale of this deception demands immediate regulatory intervention. When exchanges report $100 billion in daily trading volume, the reality might be just $22.5 billion of legitimate activity. Such fundamental misrepresentation would be illegal in traditional markets but continues unabated in the crypto wild west, where regulatory oversight remains fragmented and enforcement resources are woefully inadequate.
 
-## SEC's Fading Fight: Missing Billions in Penalties
+## SEC's Fading Fight: Missing Billions in Penalties, according to [SEC](https://www.sec.gov/)
 
 The regulatory apparatus designed to protect investors appears to be losing ground. The Securities and Exchange Commission brought only 13 cryptocurrency-related enforcement actions in 2025, a staggering 60% decrease from the 33 actions filed in 2024. Even more concerning, monetary penalties imposed totaled just $142 million in 2025—less than 3% of the penalties collected in the previous year. This reduction in enforcement comes as market manipulation reaches unprecedented levels, creating a dangerous regulatory vacuum.
 

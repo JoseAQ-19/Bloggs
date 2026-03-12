@@ -29,7 +29,7 @@ Associate Professor Diana Bowman from Arizona State University warns that gene e
 
 Bowman anticipates that certain governments might even actively support the use of gene editing for performance enhancement, viewing it as a strategic advantage in international sports competitions. This prospect raises profound ethical questions about fairness, access, and the very definition of athletic achievement. The specter of gene-edited athletes dominating the 2026 Games looms large, threatening to undermine the integrity and spirit of the competition.
 
-## "Penisgate" Persists: Hyaluronic Acid and the Never-Ending Quest for Milliseconds
+## "Penisgate" Persists: Hyaluronic Acid and the Never-Ending Quest for Milliseconds, according to [Reuters](https://www.reuters.com/)
 
 The quest for marginal gains in sports has a long and colorful history, often pushing the boundaries of what is considered fair play. The "Penisgate" scandal, involving allegations of ski jumpers injecting hyaluronic acid or placing clay in their underwear to increase groin measurements and thus gain an aerodynamic advantage with larger ski jumping suits, underscores the relentless pursuit of even the smallest edge.
 

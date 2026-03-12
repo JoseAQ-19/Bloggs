@@ -25,7 +25,7 @@ Analicemos tres sectores defensivos con comportamiento contrastado durante crisi
   - Ratio Sharpe: 0.53
   - TER: 0.39%
 
-- **Vanguard Consumer Staples ETF (VDC)**:
+- [Vanguard](https://investor.vanguard.com/):
   - Rendimiento 1 año: 8.3%
   - Rendimiento 3 años anualizado: 7.5%
   - Rendimiento 5 años anualizado: 7.1%

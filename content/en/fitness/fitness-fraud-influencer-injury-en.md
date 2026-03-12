@@ -25,7 +25,7 @@ The allure of a perfectly sculpted physique, often plastered across social media
 
 Davis, a fitness influencer, faced a lawsuit filed by the Texas Attorney General. The accusations centered around claims that she allegedly scammed thousands of customers with undelivered personalized fitness and nutrition plans. The lawsuit alleged that she targeted individuals with eating disorders, providing them with inappropriate and potentially harmful advice. The case was eventually settled, though the specific terms remain undisclosed. The Brittany Dawn case underscores the inherent risks associated with unqualified individuals dispensing fitness advice online and serves as a stark reminder of the potential for deceptive practices within the online fitness coaching industry. Her actions eroded trust and highlighted the need for greater accountability among fitness influencers.
 
-## The "Liver King" Lie: Unmasking the Steroid-Fueled Fitness Facade
+## The "Liver King" Lie: Unmasking the Steroid-Fueled Fitness Facade, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 The fitness industry often touts the "natural" path to a healthy lifestyle, but some influencers actively deceive their audience about how they achieve their physiques. Brian Johnson, infamously known as the Liver King, built an entire persona around ancestral living, promoting a diet consisting primarily of raw meat and organs. He presented himself as a beacon of natural bodybuilding, captivating followers with his impressive physique and unorthodox lifestyle.
 

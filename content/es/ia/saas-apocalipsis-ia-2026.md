@@ -27,7 +27,7 @@ HubSpot, con su suite de herramientas integradas, ha reinado durante años graci
 
 El problema para HubSpot y similares no es solo la competencia de la IA, sino la propia arquitectura de su modelo de negocio. El SaaS tradicional se basa en licencias por usuario, un modelo que se vuelve absurdamente caro cuando la IA puede multiplicar la productividad de cada empleado por diez. La lógica económica se invierte: en lugar de pagar por "asientos", las empresas pagarán por resultados, por la inteligencia aplicada a sus problemas específicos. Como señala Santiago Carbó, catedrático de Economía de Cunef Universidad, el mercado del software no está muriendo, pero la forma en que se monetiza cambiará, pasando del pago por usuario al pago por resultado.
 
-## Arquitecturas Serverless y Costes Ocultos: Por qué la promesa de Capital One no es tan brillante
+## Arquitecturas Serverless y Costes Ocultos: Por qué la promesa de Capital One no es tan brillante, segun datos recogidos por [OpenAI](https://openai.com/)
 
 Capital One, adalid de la innovación tecnológica, proclama a los cuatro vientos las virtudes de las arquitecturas serverless. La promesa es seductora: escalabilidad infinita, reducción de costes y agilidad sin precedentes. Sin embargo, la realidad, como suele ocurrir, es mucho más matizada. Si bien la migración de máquinas virtuales (VMs) a PaaS/Serverless puede generar una reducción de costes del 40% en seis meses, según algunos estudios, este ahorro inicial puede verse erosionado por costes ocultos que las empresas a menudo ignoran.
 

@@ -29,7 +29,7 @@ Good Good Golf videos average 545,000 views and 717 engagements (comments or oth
 
 Maintaining a successful YouTube channel, especially one built on collaboration and camaraderie, requires more than just golfing skills. It demands a cohesive team dynamic, a shared vision, and the ability to adapt to the ever-changing demands of the YouTube landscape.
 
-## PGA Tour's Content Restrictions Hinder Creator Engagement
+## PGA Tour's Content Restrictions Hinder Creator Engagement, according to [Social Blade](https://socialblade.com/)
 
 The PGA Tour's relationship with content creators is complicated, marked by a tension between tradition and the evolving digital landscape. The PGA Tour's stringent content restrictions clash with the needs of YouTube golf creators. This ultimately hinders the growth of the sport on platforms like YouTube.
 

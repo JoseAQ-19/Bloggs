@@ -31,7 +31,7 @@ La rápida propagación de información, a menudo no verificada, a través de la
 
 Para contextualizar este auge, es importante recordar otros fenómenos de identidad que han surgido en la era digital. Desde los *furries* hasta las comunidades de *cosplay*, internet ha facilitado la conexión entre personas con intereses y formas de expresión poco convencionales. Sin embargo, el caso de los *therians* presenta particularidades que lo hacen especialmente controvertido, como la identificación con animales y las posibles implicaciones para el bienestar animal.
 
-## El debate científico: ¿Exploración de identidad o señal de alarma? El impacto de los *therians* en la salud mental.
+## El debate científico: ¿Exploración de identidad o señal de alarma? El impacto de los *therians* en la salud mental., segun datos recogidos por [Social Blade](https://socialblade.com/)
 
 La comunidad psicológica está dividida sobre cómo abordar el fenómeno *therian*. Mientras algunos profesionales lo ven como una simple fase o una forma de autoexpresión, otros advierten sobre posibles problemas subyacentes de salud mental. Esta falta de consenso dificulta la creación de un enfoque terapéutico adecuado para las personas que se identifican como *therians*.
 

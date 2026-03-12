@@ -29,7 +29,7 @@ La OPV (Oferta Pública de Venta) de Pinkfong atrajo un interés significativo, 
 
 El CEO de The Pinkfong Company, Kim Min-seok, ha declarado que la empresa se ha transformado en una entidad impulsada por la tecnología, aprovechando datos, IA y localización para optimizar el éxito de sus contenidos. Su objetivo es acortar el ciclo de lanzamiento de nuevas IP mediante el uso de la inteligencia artificial y los datos, estableciendo nuevos estándares en el mercado de contenido familiar. Pero, ¿puede la IA realmente predecir el próximo "Baby Shark"? ¿O estamos sobreestimando el poder de la tecnología para replicar la magia impredecible de un hit viral?
 
-## El "Baby Shark" Único: Por Qué la Narrativa de Pinkfong Omite Desafíos Clave
+## El "Baby Shark" Único: Por Qué la Narrativa de Pinkfong Omite Desafíos Clave, segun datos recogidos por [Social Blade](https://socialblade.com/)
 
 Si bien "Baby Shark" es un fenómeno innegable, Pinkfong ha enfrentado dificultades para replicar su éxito con lanzamientos posteriores. "Penguin Dance," por ejemplo, cuenta con un número significativamente menor de visualizaciones, como señala **Forbes España**.
 

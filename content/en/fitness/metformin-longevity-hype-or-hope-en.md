@@ -33,7 +33,7 @@ The enthusiasm surrounding metformin stems from its established use in treating 
 
 The very definition of "aging" is multifaceted. It is influenced by a complex interplay of genetic, environmental, and lifestyle factors. Targeting a single pathway, such as glucose metabolism, may not be sufficient to address the broader challenges of aging.
 
-## UC San Diego's Andrea LaCroix Is Cautiously Optimistic About Metformin
+## UC San Diego's Andrea LaCroix Is Cautiously Optimistic About Metformin, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 The medical community remains divided on the merits of off-label metformin use for longevity. Concerns exist about extrapolating from diabetes studies to healthy individuals. **Andrea LaCroix** and **Associate Professor Aladdin H. Shadyab, Ph.D., M.P.H.** from the University of California San Diego Herbert Wertheim School of Public Health and Human Longevity Science and School of Medicine, note that findings contribute to a growing understanding of metformin's potential role in promoting human health and longevity.
 

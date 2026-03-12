@@ -27,7 +27,7 @@ Amparo Alonso Betanzos, catedrática de Ciencias de la Computación e Inteligenc
 
 Para Alonso Betanzos, la clave reside en la transparencia y la rendición de cuentas. Los modelos de IA deben ser comprensibles y auditables, permitiendo identificar y corregir los sesgos que puedan contener. Además, es fundamental involucrar a expertos de diversas disciplinas, incluyendo ética, derecho y ciencias sociales, en el diseño y desarrollo de sistemas de IA. Su argumento es simple: si la IA se despliega sin considerar el impacto en la sociedad, corremos el riesgo de crear una herramienta que, en lugar de mejorar nuestras vidas, exacerbe las divisiones y la injusticia. La solución no es la neutralidad, sino la equidad algorítmica, un concepto que busca garantizar que la IA beneficie a todos, especialmente a aquellos que históricamente han sido marginados.
 
-## Sesgos Ocultos: La Ética de la IA en España Suspende el Examen
+## Sesgos Ocultos: La Ética de la IA en España Suspende el Examen, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 Mientras que la adopción de la inteligencia artificial en España crece a un ritmo vertiginoso, la implementación ética de estas tecnologías se queda peligrosamente atrás. Un estudio reciente revela una brecha alarmante entre la ambición tecnológica y la responsabilidad ética dentro de las empresas españolas.
 

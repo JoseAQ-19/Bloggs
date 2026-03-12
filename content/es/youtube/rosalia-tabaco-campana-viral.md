@@ -27,7 +27,7 @@ La campaña surge a raíz de la viralización de imágenes de la cantante, lo qu
 
 Sin embargo, centrar la atención en Rosalía podría ser un arma de doble filo. ¿No corre la AECC el riesgo de darle aún más visibilidad a la cantante y, por extensión, al acto de fumar? ¿No sería más efectivo un enfoque integral que aborde las causas subyacentes del vapeo juvenil, en lugar de señalar a una figura pública en particular?
 
-## Vapeo: La Falsa Promesa de Un Cigarrillo Inofensivo Según La Industria
+## Vapeo: La Falsa Promesa de Un Cigarrillo Inofensivo Según La Industria, segun datos recogidos por [Social Blade](https://socialblade.com/)
 
 La industria del vapeo se ha esforzado en construir una narrativa engañosa: la del cigarrillo electrónico como una alternativa inofensiva al tabaco tradicional. Pero, ¿qué hay de cierto en esta promesa? ¿Estamos ante un producto revolucionario que ayuda a dejar de fumar, o ante una trampa disfrazada con sabores y diseños atractivos?
 

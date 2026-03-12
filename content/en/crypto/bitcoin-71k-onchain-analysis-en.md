@@ -35,7 +35,7 @@ Market sentiment also plays a crucial role. Fear, uncertainty, and doubt (FUD) c
 
 Therefore, understanding the psychological factors driving market behavior is as important as analyzing on-chain data and technical indicators. Investors are now evaluating whether Burry's warning is a legitimate concern or simply adding to the FUD, as they grapple with current market conditions.
 
-## On-Chain Analysis Suggests Weakening Investor Conviction
+## On-Chain Analysis Suggests Weakening Investor Conviction, according to [SEC](https://www.sec.gov/)
 
 On-chain data provides a nuanced picture of Bitcoin's current state, despite Michael Burry's warning capturing headlines. CryptoQuant analyst MorenoDV has observed that Bitcoin may present a tactical buying opportunity as it tests the lower boundary of a descending channel in the Adjusted SOPR (aSOPR) indicator. This suggests potential for a short-term rebound despite current market weakness.
 

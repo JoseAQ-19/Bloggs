@@ -29,7 +29,7 @@ Sin embargo, la cruda realidad es que la gran mayoría de los españoles no son 
 
 La inacción frente a la sarcopenia tiene un costo económico y social considerable. El aumento de las caídas y fracturas, por ejemplo, genera una mayor demanda de servicios sanitarios, hospitalizaciones y rehabilitación. Además, la sarcopenia contribuye a la pérdida de independencia y calidad de vida de las personas mayores, lo que puede llevar al aislamiento social, la depresión y una mayor carga para sus familias y cuidadores. Es imperativo que se implementen campañas de sensibilización y programas de prevención dirigidos a la población en riesgo, con el objetivo de promover el envejecimiento activo y saludable.
 
-## Mitos y Realidades de la "Fuente de la Juventud": Por Qué el Mensaje Oficial Sobre el Envejecimiento Activo No Basta
+## Mitos y Realidades de la "Fuente de la Juventud": Por Qué el Mensaje Oficial Sobre el Envejecimiento Activo No Basta, segun datos recogidos por [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 El mantra del "envejecimiento activo" se repite incansablemente en los medios y en los discursos de los expertos, pero ¿es suficiente para abordar el problema de la sarcopenia? La verdad es que, detrás de esta retórica optimista, se esconden algunos mitos y simplificaciones que pueden llevar a conclusiones erróneas y a una falsa sensación de seguridad. No basta con animar a las personas mayores a "mantenerse activas"; es crucial que se les proporcione información precisa y estrategias efectivas para combatir la pérdida de masa muscular.
 

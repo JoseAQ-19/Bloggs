@@ -27,7 +27,7 @@ The speed and scale of A7A5's adoption within the Russian financial system shoul
 
 The Chainalysis report suggests an "evolutionary step" in sanctions evasion, where sanctioned entities are no longer simply trying to hide their activities but are actively building alternative financial infrastructures. This marks a fundamental shift in the nature of sanctions evasion and demands a corresponding shift in the approach to sanctions enforcement. Static screening, which relies on pre-defined lists of sanctioned entities and addresses, is no longer sufficient.
 
-## Cracks in the Code: Why Binance and FTX Failures Left Regulatory Loopholes Open for Russia
+## Cracks in the Code: Why Binance and FTX Failures Left Regulatory Loopholes Open for Russia, according to [SEC](https://www.sec.gov/)
 
 The spectacular collapses of centralized exchanges like Binance and FTX, while ostensibly unrelated to sanctions evasion, exposed critical vulnerabilities in the global crypto regulatory framework that Russia has been quick to exploit. The lack of robust KYC (Know Your Customer) and AML (Anti-Money Laundering) controls on these platforms, prior to their regulatory crackdowns, created avenues for illicit funds to flow freely, undermining the effectiveness of international sanctions. These events illustrated the inherent risks associated with centralized exchanges, which, despite representing a significant portion of the crypto market, often operate in jurisdictions with limited regulatory oversight.
 

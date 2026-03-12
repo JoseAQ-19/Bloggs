@@ -27,7 +27,7 @@ The human cost extends beyond mere financial loss. Detective Lynn Woodbury of th
 
 The geographic concentration of these incidents reveals troubling patterns. While Minnesota has become a focal point, the problem extends nationwide, with Iowa's attorney general having sued both Bitcoin Depot and CoinFlip after an investigation revealed that at least 95% of transactions at their machines were fraudulent, costing Iowans about $20 million in less than three years. These numbers paint a clear picture: crypto ATM operators either cannot prevent or will not prevent fraud, choosing instead to profit from it while hiding behind the libertarian rhetoric of financial freedom.
 
-## CoinFlip's Risky Business: Ignoring the Elderly Exploitation
+## CoinFlip's Risky Business: Ignoring the Elderly Exploitation, according to [CoinDesk](https://www.coindesk.com/)
 
 CoinFlip, one of the largest crypto ATM operators in the United States, has emerged as the face of this controversial industry through its public relations campaigns and legislative resistance. Larry Lipka, the company's General Counsel, has publicly acknowledged the problem of fraud but staunchly opposes complete bans, instead advocating for what he terms "stricter regulations" such as mandatory cooling-off periods. This position deliberately mischaracterizes the nature of the threat. Cooling-off periods assume victims possess the cognitive faculties and decision-making capacity to reconsider their choices—a dangerous assumption when confronting sophisticated psychological targeting of elderly and cognitively vulnerable populations.
 

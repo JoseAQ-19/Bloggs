@@ -27,7 +27,7 @@ La acumulación de recortes, por ejemplo, puede generar una presión excesiva en
 
 La perforación direccional es, en esencia, una carrera contra el tiempo y la geología. Mientras que empresas como **Halliburton** promocionan sus soluciones tecnológicas como la clave para superar estos desafíos, la realidad es que la naturaleza impredecible del subsuelo siempre presenta obstáculos. La preparación exhaustiva y la monitorización constante son esenciales para evitar fallas costosas y potencialmente peligrosas.
 
-## La Narrativa Corporativa vs. La Realidad Geológica: Por Qué los Datos "Perfectos" de Schlumberger No Son Suficientes
+## La Narrativa Corporativa vs. La Realidad Geológica: Por Qué los Datos "Perfectos" de Schlumberger No Son Suficientes, segun datos recogidos por [TechCrunch](https://techcrunch.com/)
 
 La industria del petróleo y el gas a menudo promueve la idea de que la tecnología de monitorización en tiempo real puede eliminar la incertidumbre en la perforación direccional. Empresas como **Schlumberger** invierten fuertemente en tecnologías que prometen una visión precisa del subsuelo y un control total sobre el proceso de perforación. Sin embargo, esta narrativa ignora las limitaciones inherentes a la interpretación de los datos geológicos. Los modelos geológicos son, en el mejor de los casos, aproximaciones de la realidad.
 

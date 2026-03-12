@@ -29,7 +29,7 @@ Brandt's prediction hinges on "unfavorable market conditions," a phrase that enc
 
 Consider that in October 2025, the number of entities holding over 1,000 BTC was at 1,207. By January 2026, that number increased to 1,303, according to **unnamed sources**. This indicates accumulation by large investors.
 
-## Santiment's Bear Market Warning: Whale vs. Retail Divergence
+## Santiment's Bear Market Warning: Whale vs. Retail Divergence, according to [SEC](https://www.sec.gov/)
 
 **Santiment**, an analytics platform specializing in on-chain data, has identified a concerning divergence between whale and retail investor behavior. According to **Santiment's** data, whales are currently reducing their Bitcoin holdings while retail investors are increasing theirs. This pattern is often seen as a sign of a potential bear market, as historically, crypto markets tend to follow the actions of larger, more informed stakeholders.
 

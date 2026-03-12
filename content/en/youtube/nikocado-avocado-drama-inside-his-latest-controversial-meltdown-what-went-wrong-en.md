@@ -29,7 +29,7 @@ The financial impact of such accusations can be significant. A damaged reputatio
 
 This illustrates a critical vulnerability in the creator economy: the dependence on public perception. Unlike traditional businesses with tangible assets, a creator's primary asset is their audience's trust. When that erodes, the entire enterprise collapses like a house of cards. The fact that accusations from 2019 still resurface proves the internet never forgets — and neither do algorithms.
 
-## Ethical Eating: The Nikocado Experiment's Unhealthy Foundation
+## Ethical Eating: The Nikocado Experiment's Unhealthy Foundation, according to [Variety](https://variety.com/)
 
 Beyond the interpersonal drama, Nikocado Avocado's content raises serious ethical questions about the normalization of unhealthy eating habits. His extreme mukbang videos, often featuring massive quantities of junk food, have drawn criticism from viewers and health professionals alike. Critics argue that these videos normalize unhealthy behaviors and promote negativity.
 

@@ -27,7 +27,7 @@ La promesa de una seguridad impecable, gestionada por proveedores especializados
 
 El problema no se limita a la mera existencia de vulnerabilidades, sino a la complejidad de gestionarlas en un entorno SaaS. Las empresas a menudo carecen de la visibilidad y el control necesarios sobre la infraestructura subyacente, lo que dificulta la detección y respuesta a las amenazas. Además, la integración de múltiples soluciones SaaS puede crear una red intrincada de interdependencias, donde una brecha en un solo punto puede comprometer la seguridad de toda la organización.
 
-## La Falacia de la Innovación Constante: Por Qué la Adopción Acelerada de IA en España Está Creando Nuevos Puntos Débiles
+## La Falacia de la Innovación Constante: Por Qué la Adopción Acelerada de IA en España Está Creando Nuevos Puntos Débiles, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 España se encuentra en una encrucijada tecnológica. El país ocupa el sexto lugar a nivel mundial en la adopción de herramientas de Inteligencia Artificial (IA) per cápita, con un 39.7% de la población utilizando activamente estas tecnologías, según un informe de Microsoft. Sin embargo, esta rápida adopción no está exenta de riesgos. Alberto Jusdado, Head of Consulting de Tokiota, advierte sobre una dinámica de "dos velocidades" en la adopción de la IA en España: una gran ambición y una falta de fundamentos sólidos. Esta disparidad crea expectativas poco realistas y una búsqueda de resultados inmediatos, lo que puede llevar a la implementación de soluciones de IA sin una estrategia clara y a la proliferación de proyectos piloto sin continuidad.
 

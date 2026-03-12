@@ -25,7 +25,7 @@ El Stoxx 600 recupera un 2% tras el ataque en Irán, pero los expertos advierten
   - Comisiones: TER 1.65% (Clase A), 0.95% (Clase Institucional)  
   - Categoría Morningstar: Europe Large Cap, Rating: 4 estrellas  
 
-- **Vanguard FTSE Europe All Cap UCITS ETF (IE00BK5BQT80)**  
+- [Vanguard](https://investor.vanguard.com/)  
   - Rendimiento 1 año: +8.3%  
   - Rendimiento 3 años anualizado: +7.2%  
   - Rendimiento 5 años anualizado: +6.1%  
@@ -34,7 +34,7 @@ El Stoxx 600 recupera un 2% tras el ataque en Irán, pero los expertos advierten
   - Comisiones: TER 0.12% (sin comisión de suscripción)  
   - Categoría Morningstar: Large Cap Blend Europe, Rating: 4 estrellas  
 
-- **BlackRock European Dynamic Equity Fund (IE00B5BWM933)**  
+- [BlackRock](https://www.blackrock.com/)  
   - Rendimiento 1 año: +5.7%  
   - Rendimiento 3 años anualizado: +6.9%  
   - Rendimiento 5 años anualizado: +5.4%  

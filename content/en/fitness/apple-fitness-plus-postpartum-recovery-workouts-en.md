@@ -25,7 +25,7 @@ The U.S. pregnancy tracking and postpartum care apps market is projected to reac
 
 While Apple boasts about inclusivity and personalization, the reality is that a generic fitness program, even with modifications, may not be sufficient for women recovering from childbirth. The company's marketing materials emphasize regaining strength and energy, but often fail to highlight the importance of specialized care for the pelvic floor. Are they prioritizing profits over the nuanced needs of postpartum women? This is a multi-million dollar oversight.
 
-## The Postpartum Blind Spot: Why Corporate Fitness Narratives Fail Women
+## The Postpartum Blind Spot: Why Corporate Fitness Narratives Fail Women, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 The traditional fitness narrative often centers around aesthetics and rapid weight loss, neglecting the complex physiological changes that occur during and after pregnancy. Jennifer Cumming, PT, MSPT, CLT, WCS, a licensed physical therapist and founder of Foundational Concepts, Specialty Physical Therapy, recommends a phased plan that looks at musculoskeletal healing, strength, flexibility, coordination, emotional readiness, and pelvic floor function before progressing to higher-impact activities. This phased approach stands in stark contrast to the "bounce back" culture often promoted by mainstream fitness programs, which can pressure women to return to intense exercise before their bodies are ready. Cumming's approach underscores that postpartum recovery is not a race, but a carefully orchestrated process that prioritizes long-term health and well-being.
 

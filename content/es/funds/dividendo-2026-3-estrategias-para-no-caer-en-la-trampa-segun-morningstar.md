@@ -27,7 +27,7 @@ La búsqueda de ingresos por dividendos puede ser una estrategia tentadora, pero
 
 3.  **Evaluación de la Sostenibilidad del Dividendo**: Analiza el ratio de reparto de dividendos (payout ratio), que indica la proporción de los beneficios que se destinan al pago de dividendos. Un ratio demasiado alto (superior al 80%) puede ser insostenible a largo plazo.
 
-## Comparativa de Fondos y ETFs de Dividendo
+## Comparativa de Fondos y ETFs de Dividendo, segun datos recogidos por [Vanguard](https://investor.vanguard.com/)
 
 Para ilustrar estas estrategias, analizaremos tres opciones de inversión en dividendos, contrastando sus características y rendimientos. Es crucial recordar que los datos de rentabilidad pasada no garantizan rendimientos futuros, y que cada inversor debe considerar su propia tolerancia al riesgo y horizonte de inversión.
 
@@ -39,7 +39,7 @@ Para ilustrar estas estrategias, analizaremos tres opciones de inversión en div
     *   Ratio de Sharpe: 0.6
     *   Comisiones (TER / Expense Ratio): 0.46%
 
-*   **Vanguard FTSE All-World High Dividend Yield UCITS ETF (USD) Distributing (ISIN: IE00B8GKDB10, Categoría Morningstar: Renta Variable Global Alto Dividendo)**
+*   [Vanguard](https://investor.vanguard.com/)
     *   Rendimiento 1 Año: 11.8%
     *   Rendimiento 3 Años anualizado: 7.8%
     *   Rendimiento 5 Años anualizado: 6.5%

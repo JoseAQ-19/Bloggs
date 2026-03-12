@@ -68,7 +68,7 @@ The algorithm detects inconsistency. Morningstar awards a 5-star rating to OAKM 
 
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 
-## Covered Call Strategies Explained: How OAKM Generates Income
+## Covered Call Strategies Explained: How OAKM Generates Income, according to [Morningstar](https://www.morningstar.com/)
 
 To fully appreciate OAKM's approach, it's crucial to understand the mechanics of covered call strategies. A covered call involves holding an existing long position in an asset (in this case, the Nasdaq-100) and selling call options on that same asset. The seller (OAKM) receives a premium for selling the call option, which provides income. However, the buyer of the call option has the right, but not the obligation, to purchase the asset at a predetermined price (the strike price) before a specific date (the expiration date).
 

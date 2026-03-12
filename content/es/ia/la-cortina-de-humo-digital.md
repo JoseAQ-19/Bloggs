@@ -22,7 +22,7 @@ Los datos "optimistas" de DataReportal son, en realidad, una cortina de humo cui
 
 La cacareada penetración de internet del 83.5% es una estadística engañosa. ¿Y el 16.5% restante? Escondidos en las sombras, olvidados por la "revolución digital". Son los ancianos en zonas rurales, los indígenas marginados, los pobres sin recursos para un plan de datos. El acceso a internet no es un derecho, sino un privilegio reservado a unos pocos. La supuesta conectividad solo sirve para profundizar las desigualdades existentes, creando una subclase digital permanentemente excluida de la economía moderna.
 
-## Redes Sociales: El Circo Romano Digital
+## Redes Sociales: El Circo Romano Digital Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/el-metaverso-ha-muerto-bienvenidos-al-infierno-dig/).
 
 Los 99 millones de usuarios de redes sociales no son ciudadanos empoderados, sino rebaños fácilmente pastoreables. ¿Alguien cree realmente que la gente está debatiendo ideas complejas y formándose opiniones informadas en TikTok o Instagram? No. Están siendo bombardeadas con noticias falsas, propaganda política y publicidad invasiva. La alfabetización mediática es una broma. La mayoría de los usuarios son incapaces de distinguir entre información veraz y manipulación deliberada, convirtiéndose en peones en un juego mucho más grande. [Un estudio de la Universidad Nacional Autónoma de México (UNAM)](https://www.dgcs.unam.mx/boletin/bdboletin/2023_642.html) revela la preocupante prevalencia de noticias falsas en las redes sociales mexicanas y la baja capacidad de los usuarios para detectarlas.
 

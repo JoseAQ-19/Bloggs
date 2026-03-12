@@ -29,7 +29,7 @@ Según Laura Cuesta, experta en educación digital, el ciberacoso es un fenómen
 
 Para ahondar en este punto, es crucial entender que el "hate watching" se nutre de la comparación constante y la idealización de vidas ajenas. Las redes sociales, diseñadas para mostrar una versión editada y perfeccionada de la realidad, fomentan la envidia y el resentimiento. Cuando estas emociones negativas no se gestionan adecuadamente, pueden derivar en comportamientos de acoso y hostigamiento hacia aquellos que percibimos como "más exitosos" o "más felices" que nosotros.
 
-## Más Allá de la "Ley de Influencers": El Vacío Legal Que Deja Desprotegida a Luisa Garrido
+## Más Allá de la "Ley de Influencers": El Vacío Legal Que Deja Desprotegida a Luisa Garrido, segun datos recogidos por [Reuters](https://www.reuters.com/)
 
 La reciente "Ley de Influencers" en España es un paso adelante, pero su enfoque principal radica en la regulación de la publicidad y la protección de menores. Si bien estos aspectos son cruciales, la ley no aborda de manera integral el acoso y las amenazas extremas que sufren influencers como Luisa Garrido. Esta streamer reveló haber recibido amenazas contra su familia, así como haber experimentado pensamientos suicidas como consecuencia del odio en línea. Este tipo de situaciones extremas revelan la necesidad de una protección legal más amplia para quienes se dedican a la creación de contenido en internet.
 

@@ -27,7 +27,7 @@ El reciente Informe FOESSA, maquillado con datos universitarios y buenas intenci
 
 La promesa de NOVUMWORLD de democratizar el acceso a la información es una burla. La brecha digital no se está cerrando, se está abriendo como una sima. ¿De qué sirve la tecnología si solo sirve para enriquecer a unos pocos a costa de la mayoría?
 
-## Tecnofeudalismo 2.0: El nuevo orden opresor
+## Tecnofeudalismo 2.0: El nuevo orden opresor, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 El concepto de "tecnofeudalismo", promovido por mentes lúcidas como Cédric Durand, describe perfectamente esta pesadilla. Los gigantes tecnológicos, con su poder monopolístico y su control sobre los datos, están creando una nueva forma de feudalismo digital. La "gleba digital" - nuestros datos, nuestros algoritmos, nuestras vidas - está controlada por una élite despiadada. [La Unión Europea está intentando legislar contra esto](https://digital-strategy.ec.europa.eu/en/policies/digital-markets-act), pero ¿llegará a tiempo?
 
@@ -43,7 +43,7 @@ La pregunta no es si NOVUMWORLD es una utopía o una distopía. La respuesta es 
 
 Regular a las grandes empresas tecnológicas es un buen comienzo, pero no es suficiente. Proteger la privacidad de los datos es esencial, pero no aborda el problema fundamental: la concentración obscena de poder en manos de unos pocos. Fomentar la competencia en el mercado digital es una ilusión, porque el sistema está diseñado para favorecer a los monopolios. **Google está bajo el microscopio por prácticas monopolísticas**.
 
-## El veredicto final: Destruir NOVUMWORLD
+## El veredicto final: Destruir NOVUMWORLD Para profundizar en este tema, consulta nuestro analisis sobre [Telecoms Españolas Al Borde Del Colapso: La IA Pro](/ia/ia-teleco-espana-crecimiento/).
 
 NOVUMWORLD no es una "burbuja de privilegio" que corre el riesgo de estallar. Es una bomba de tiempo que ya ha explotado, sembrando desigualdad, precariedad y desesperación. No hay que "corregir el rumbo". Hay que destruir el barco.
 

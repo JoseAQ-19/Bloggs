@@ -25,7 +25,7 @@ La "transparencia" de la blockchain es un cuento chino. Un análisis somero reve
 
 ¿El resultado? Un sistema que premia la deshonestidad. Las bolsas más tramposas escalan posiciones en rankings inflados, atrayendo más víctimas y engordando sus arcas a costa de la ignorancia ajena. La integridad de mercado es una broma; las leyes básicas de probabilidad son sistemáticamente violadas, probando la fabricación descarada de datos. No hay "innovación" aquí, solo la reinvención digital de viejos timos.
 
-## Fraude Cripto: Un Banquete para Delincuentes
+## Fraude Cripto: Un Banquete para Delincuentes, segun datos recogidos por [SEC](https://www.sec.gov/)
 
 El año pasado no solo fue un buen año para Bitcoin, ¡fue un año de récord para los estafadores! El FBI reportó pérdidas que superan los $5.6 mil millones de dólares, **un incremento del 45% respecto al año anterior**. Es un negocio redondo... para los criminales.
 
@@ -45,7 +45,7 @@ El impacto ambiental de la minería de Bitcoin es una catástrofe ignorada conve
 
 Los defensores de Bitcoin balbucean sobre "energía renovable", pero la realidad es que gran parte de la minería se alimenta con combustibles fósiles baratos, exacerbando el cambio climático. El futuro no será "descentralizado", será inhabitable si permitimos que esta monstruosidad continúe.
 
-## Fin de la Farsa: No Hay Salvación
+## Fin de la Farsa: No Hay Salvación Para profundizar en este tema, consulta nuestro analisis sobre [](/crypto/metaverso-estafa-piramidal-evitar/).
 
 La situación es irredimible. La manipulación, el fraude, la volatilidad y el desastre ambiental han destruido la confianza en Bitcoin y en todo su ecosistema. Como dice Nassim Taleb, Bitcoin vale cero. Si existe la posibilidad, por pequeña que sea, de que caiga a cero, su valor presente es cero, ya que no genera ningún dividendo. [Taleb ha sido un crítico constante de Bitcoin, exponiendo sus fallas inherentes](https://www.fooledbyrandomness.com/).
 

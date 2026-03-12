@@ -29,7 +29,7 @@ Elena Prieto, profesora, cree que "YouTube es una de las herramientas más poder
 
 La clave reside en cómo se utiliza YouTube en el aula. ¿Se emplea como un complemento enriquecedor del currículo, fomentando la investigación y el pensamiento crítico, o se reduce a una simple distracción para mantener a los estudiantes ocupados? La respuesta a esta pregunta determinará si YouTube se convierte en un aliado valioso o en un obstáculo para el aprendizaje.
 
-## La Brecha Digital: El Privilegio del WiFi, La Desventaja del Conocimiento
+## La Brecha Digital: El Privilegio del WiFi, La Desventaja del Conocimiento, segun datos recogidos por [Social Blade](https://socialblade.com/)
 
 El acceso a recursos digitales no es uniforme, y el aprendizaje online puede exacerbar las desigualdades existentes. En un mundo cada vez más conectado, la brecha digital se presenta como un obstáculo significativo para muchos estudiantes. No todos los alumnos tienen la misma facilidad para acceder a dispositivos, conexión a internet de alta velocidad y el apoyo familiar necesario para sacar el máximo provecho del aprendizaje online.
 

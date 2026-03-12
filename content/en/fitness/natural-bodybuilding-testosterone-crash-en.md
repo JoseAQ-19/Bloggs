@@ -27,7 +27,7 @@ Maintaining extremely low body fat, often a requirement for contest readiness, c
 
 The demands of contest prep are immense. Natural Bodybuilding is about more than muscles; it's a game of metabolic manipulation. A rapid reduction of carbohydrates is used in the final days of competition prep to get the body to burn through any remaining water stored under the skin. Competitors will also reduce the amount of water they drink in the week before to further amplify this effect. This creates a host of other issues with the body as the cardiovascular system has to work even harder.
 
-## The Online PCT Minefield: Tim Piatkowski Warns of Dangerous Advice
+## The Online PCT Minefield: Tim Piatkowski Warns of Dangerous Advice, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 The decline in natural testosterone production post-competition often sends bodybuilders scrambling for solutions. Bodybuilders often turn to online forums for post-cycle therapy (PCT) advice due to stigma and lack of expertise from doctors. This advice is often inconsistent and conflicting, warns Tim Piatkowski, PhD, a Lecturer in Griffith's School of Applied Psychology. The lack of reliable information in the fitness industry often leads to disaster, because everyone is pushing different solutions.
 

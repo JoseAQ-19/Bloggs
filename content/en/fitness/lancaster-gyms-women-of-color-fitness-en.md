@@ -27,7 +27,7 @@ The controversy surrounding Planet Fitness underscores a broader issue within th
 
 Moreover, Planet Fitness’s misstep highlights the importance of aligning policies and practices with stated values. A judgment-free zone should extend to all individuals, regardless of their gender identity, race, or background. When companies fail to uphold these principles, they risk losing credibility and trust with their customer base. This erosion of trust can lead to boycotts, negative reviews, and ultimately, a decline in revenue. Gyms must prioritize DEI to avoid the fate of Planet Fitness, not just because it's ethically sound, but because it’s good for business.
 
-## Women's Health's Unseen Cover: Why Representation Matters More Than Ever
+## Women's Health's Unseen Cover: Why Representation Matters More Than Ever, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 _Women's Health_ magazine, a publication aimed at empowering women, has an embarrassing blind spot when it comes to representing Black women on its covers. This absence speaks volumes about who the magazine prioritizes and who it considers to be the "ideal" of health and fitness. The statistic that there have been only 4 Black women on the cover of *Women's Health* magazine out of 73 issues exposes a deep-seated issue within mainstream media. This lack of representation contributes to a pervasive narrative that excludes and marginalizes Black women, perpetuating unrealistic and often unattainable beauty standards.
 

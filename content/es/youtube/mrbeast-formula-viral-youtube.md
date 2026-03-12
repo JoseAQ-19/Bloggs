@@ -27,7 +27,7 @@ John Tones, editor senior de entretenimiento en [Xataka](https://www.xataka.com/
 
 La filtración en 2023 del documento interno de MrBeast, "Cómo tener éxito en la producción de MrBeast", reveló el meticuloso análisis de datos que subyace a su éxito. Cada título, descripción, miniatura y duración de video se optimiza para maximizar la retención de audiencia y el alcance. Este enfoque científico, aunque efectivo, establece un estándar exigente y potencialmente desmoralizador para los creadores menos obsesionados con las métricas. En junio de 2025, MrBeast se convirtió en el primer creador individual en alcanzar los 400 millones de suscriptores, un logro impresionante, pero que también plantea interrogantes sobre la sostenibilidad de un modelo basado en la reinversión constante y la búsqueda implacable de la viralidad. ¿Es este el futuro de YouTube, o una burbuja a punto de estallar?
 
-## Neal Mohan Contra la Marea: La Promesa (¿Vacía?) de YouTube y la IA
+## Neal Mohan Contra la Marea: La Promesa (¿Vacía?) de YouTube y la IA, segun datos recogidos por [Social Blade](https://socialblade.com/)
 
 El CEO de YouTube, Neal Mohan, proclama un futuro brillante para la plataforma, impulsado por la inteligencia artificial y centrado en el empoderamiento de los creadores. En sus declaraciones públicas, Mohan enfatiza que las prioridades de YouTube para 2026 incluyen reinventar el entretenimiento, ofrecer nuevos métodos de monetización, reforzar la seguridad para niños y adolescentes, y fomentar la creatividad utilizando la IA. Sin embargo, estas promesas chocan con la realidad del algoritmo, que a menudo recompensa la imitación y penaliza la originalidad.
 

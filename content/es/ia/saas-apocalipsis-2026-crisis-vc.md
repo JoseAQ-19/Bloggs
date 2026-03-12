@@ -27,7 +27,7 @@ Los chatbots que hablan están quedando atrás, dando paso a agentes de IA que "
 
 En febrero de 2026, el mercado SaaS global sufrió un golpe brutal. Más de $1 billón en capitalización bursátil se esfumó en una semana, según datos de **CNBC**. Las acciones de empresas como Salesforce y Workday cayeron un 40% en 12 meses, mientras que Atlassian perdió un 35% de su valor en tan solo siete días. Este "SaaSpocalypse", como algunos ya lo llaman, no es solo una corrección del mercado. Es una señal de que el modelo SaaS está cambiando, y las empresas que no se adapten corren el riesgo de extinguirse. Bit2Me, una empresa española, se ha posicionado como líder entre los proveedores de servicios de criptoactivos.
 
-## Rentabilidad vs. Crecimiento: El Dilema de Capchase
+## Rentabilidad vs. Crecimiento: El Dilema de Capchase, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 Durante años, el mantra de las startups SaaS ha sido "crecimiento a toda costa". Quemar dinero para adquirir usuarios, incluso si eso significa operar a pérdida, se consideraba una estrategia aceptable, siempre y cuando se lograra un crecimiento exponencial. Pero la realidad actual del mercado exige un cambio de paradigma. Ahora, la rentabilidad es la nueva reina.
 

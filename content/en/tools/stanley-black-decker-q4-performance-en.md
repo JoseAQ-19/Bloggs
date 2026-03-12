@@ -27,7 +27,7 @@ Stanley Black & Decker has been actively reshaping its supply chain to improve m
 
 Shifting production to Mexico under the USMCA presents its own set of challenges, including potential increases in labor costs and disruptions to existing supply chains. Stanley Black & Decker is targeting a reduction of China-based supply from around 15% in 2024 to less than 5% by the close of 2026. Successfully navigating these changes is crucial for mitigating the impact of tariffs.
 
-## SKU Cuts: Streamlining or Cannibalization of Sales?
+## SKU Cuts: Streamlining or Cannibalization of Sales?, according to [TechCrunch](https://techcrunch.com/)
 
 The official corporate narrative from CEO Donald Allan, Jr. paints a picture of a "more streamlined business," but the substantial SKU reduction raises questions about cannibalization pressures driving the cuts. Donald Allan, Jr. commented in February 2024, "Our performance in 2023 reflects our relentless focus on the successful execution of the strategic business transformation objectives and supports a strong foundation for improved profitability in 2024". Stanley Black & Decker has cut nearly 50,000 SKUs as part of a supply chain transformation plan.
 

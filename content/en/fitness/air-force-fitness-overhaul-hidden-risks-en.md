@@ -25,7 +25,7 @@ Air Force Chief of Staff Gen. Kenneth Wilsbach emphasizes the importance of phys
 
 This isn’t merely about push-ups; it's about a systemic bias embedded in physical standards. A potential flaw lies in the fact that studies have found that push-up performance was negatively associated with injury risk for men but not for women. This indicates that the metrics used for determining physical fitness may not be universally applicable. The current "one-size-fits-all" approach fails to consider inherent physiological differences between men and women, setting up many female airmen for avoidable failure and injury.
 
-## The "Culture of Fitness" Blind Spot: Ignoring Root Causes of Injury
+## The "Culture of Fitness" Blind Spot: Ignoring Root Causes of Injury, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 The Air Force promotes a "Culture of Fitness," but often overlooks underlying reasons for APFT failures and subsequent injuries, such as rising obesity rates among its personnel. Chief Master Sergeant of the Air Force David Wolfe emphasizes the well-being improvements possible for Airmen that embrace fitness. But is the Air Force truly addressing the root causes?
 

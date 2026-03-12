@@ -23,7 +23,7 @@ translationKey: "df08e13d-20d5-94cb-6401-614100a25951"
 
 La promesa de "comodidad" y "acceso ilimitado" vendida por Netflix, Spotify y la miríada de imitadores es una mentira. La pandemia simplemente aceleró una tendencia depredadora: encerrar a los consumidores en ciclos de pago perpetuos. Un estudio de Deloitte revela que los consumidores subestiman en promedio en un 20% lo que gastan en suscripciones. ¿Sorprendido? No deberías. Las empresas tecnológicas han perfeccionado el arte del engaño.
 
-## Las Tácticas Sucias de las Suscripciones Fantasma
+## Las Tácticas Sucias de las Suscripciones Fantasma, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 Las "suscripciones fantasma" son un cáncer financiero que se extiende silenciosamente. Desde las "pruebas gratuitas" que se convierten en cargos automáticos (¿quién no ha olvidado cancelar una?), hasta la "facturación por omisión" que asume tu consentimiento a menos que protestes activamente, están diseñadas para sangrar tu cuenta. Incluso las suscripciones "olvidadas" son un negocio redondo, generando ingresos pasivos para empresas sin escrúpulos.
 
@@ -41,7 +41,7 @@ Aunque la FTC ha intentado tomar medidas, la burocracia y los cabilderos corpora
 
 Gigantes como Epic Games y Adobe han sido castigados, sí, pero las multas son solo una fracción de sus beneficios. Amazon Prime y TurboTax siguen operando con impunidad, perfeccionando sus tácticas de engaño. La batalla está lejos de ganarse.
 
-## El Futuro Distópico de la Suscripción
+## El Futuro Distópico de la Suscripción Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/la-ia-no-viene-a-salvarnos-viene-a-explotarnos/).
 
 El modelo de suscripción está invadiendo incluso los sectores más impensables. ¿BMW cobrando por el uso de los asientos con calefacción? Es la punta del iceberg. Prepárate para pagar por cada función de tu coche, por cada electrodoméstico, incluso por el aire que respiras. Estamos caminando hacia un futuro de alquiler perpetuo, donde la propiedad privada es un recuerdo lejano.
 

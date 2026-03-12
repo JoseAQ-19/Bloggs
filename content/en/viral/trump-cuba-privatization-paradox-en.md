@@ -29,7 +29,7 @@ The existing legal framework in Cuba offers little recourse for foreign investor
 
 Tech professionals and VCs must be aware of these long-standing legal and political complexities. Investing in Cuba without addressing these historical grievances could expose them to legal challenges and reputational damage. The path to economic integration requires a commitment to fairness, transparency, and respect for Cuban sovereignty, something a "friendly takeover" led by Trump might easily overlook.
 
-## Cuba's Delicate Dance: State Control vs. Private Enterprise
+## Cuba's Delicate Dance: State Control vs. Private Enterprise, according to [Reuters](https://www.reuters.com/)
 
 The Cuban government's relationship with the private sector is complex, marked by ambivalence and a persistent fear of losing control. This delicate balance between state control and private enterprise is crucial to understanding the risks associated with a rapid, externally imposed privatization.
 

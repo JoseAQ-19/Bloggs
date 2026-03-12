@@ -16,7 +16,7 @@ translationKey: "1d806a5c-c4a4-661a-2742-0221fb33b52b"
 YouTube’s promise of fame and fortune through ad revenue is increasingly a mirage, with some creators seeing their earnings plummet from $100 a day to a paltry $6.
 
 * YouTube creators have reported ad revenue declines as steep as 90%, dropping from $100/day to $6/day for some.
-* A **Tubefilter** study indicates 89% of creators lack access to specialized mental health resources despite high rates of burnout and mental health issues.
+* A [Tubefilter](https://www.tubefilter.com/) study indicates 89% of creators lack access to specialized mental health resources despite high rates of burnout and mental health issues.
 * Creators need to diversify revenue streams and prioritize mental health, as reliance on YouTube ad revenue becomes increasingly unstable.
 
 ## The Algorithm's Grip: Why YouTube’s Golden Goose is Laying Fewer Eggs
@@ -27,7 +27,7 @@ YouTube's recommendation algorithm drives approximately 70% of what people watch
 
 The algorithm's opacity fuels suspicion and speculation. Is YouTube prioritizing certain types of content over others? Are established channels given preferential treatment over newcomers? Are algorithm updates designed to benefit YouTube's bottom line at the expense of its creators? These questions swirl within the creator community, breeding anxiety and distrust.
 
-## Google's YouTube Shorts Push: The Impact on Long-Form Creators
+## Google's YouTube Shorts Push: The Impact on Long-Form Creators, according to [Tubefilter](https://www.tubefilter.com/)
 
 Google's aggressive push of short-form video through YouTube Shorts is impacting the revenue streams of long-form creators. As YouTube promotes Shorts to compete with TikTok, the monetization disparities between the two formats are becoming increasingly apparent. Creators who once thrived on long-form content are now pressured to create Shorts, which offer significantly lower RPMs (revenue per mille, or revenue per 1,000 views).
 

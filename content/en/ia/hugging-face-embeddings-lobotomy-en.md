@@ -19,7 +19,7 @@ Hugging Face, the darling of the AI world valued at $4.5 billion, promises democ
 
 Hugging Face *has* undeniably lowered the barrier to entry for AI development. With over a million models, datasets, and apps hosted on their platform, [Every Hugging Face Statistics You Need To Know (2024)], the sheer volume of resources is staggering. Their Transformers library, boasting 121,000 GitHub stars [Every Hugging Face Statistics You Need To Know (2024)], provides a standardized toolkit. Need a sentiment analyzer? A text generator? Chances are, someone's already built it on Hugging Face. And let's not forget the 367% year-over-year growth in annual recurring revenue, reaching $70 million at the end of 2023 [Every Hugging Face Statistics You Need To Know (2024)]. This isn't some flash-in-the-pan startup; they're building an empire. The dream is that anyone with a laptop and a clever idea can leverage AI, and Hugging Face is selling that dream *hard*.
 
-## The Case Against: Digital Lobotomies and API Nightmares
+## The Case Against: Digital Lobotomies and API Nightmares, according to [MIT Technology Review](https://www.technologyreview.com/)
 
 But here's where the fairy tale crumbles. Fine-tuning, the process of adapting a pre-trained model to a specific task, is proving to be a minefield. Experts report accuracy drops of 20% to 40% after improper fine-tuning [3, 4]. That's not optimization; that's a frontal lobotomy performed on your AI. Consider the case of the `all-MiniLM-L6-v2` sentence transformer model. One developer, attempting to improve retrieval, saw its accuracy plummet from ~70% to a pathetic 50% after fine-tuning on 400,000 sentence pairs [3, 11]. This isn’t an isolated incident.
 

@@ -27,7 +27,7 @@ The absence of comprehensive regulatory framework for stablecoins allows them to
 
 Policymakers must recognize that stablecoins are not simply another type of cryptocurrency; they are a distinct asset class with unique risks that require a tailored regulatory approach. The Clarity Act's failure to address these risks represents a significant missed opportunity and could ultimately undermine the stability of the broader financial system. Is the pursuit of regulatory clarity blinding lawmakers to the real and present dangers lurking within the stablecoin ecosystem?
 
-## JPMorgan's Rose-Tinted Glasses: Ignoring DeFi's $3.4 Trillion Problem
+## JPMorgan's Rose-Tinted Glasses: Ignoring DeFi's $3.4 Trillion Problem, according to [SEC](https://www.sec.gov/)
 
 JPMorgan's optimistic outlook on the Clarity Act hinges on the belief that regulatory clarity will unlock institutional investment and drive market growth. This perspective ignores the inherent vulnerabilities within the decentralized finance (DeFi) sector, where stablecoins now move $3.4 trillion per month, surpassing Visa's $1.3 trillion. While JPMorgan sees the Clarity Act as a catalyst for growth, it overlooks the fact that the DeFi sector is plagued by security breaches, smart contract vulnerabilities, and regulatory uncertainty.
 

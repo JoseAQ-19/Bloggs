@@ -27,7 +27,7 @@ McNally's statement highlights the complexity of Tourette's Syndrome, emphasizin
 
 The controversy underscores the power of media to shape public perception and the responsibility that comes with wielding that influence. The sketch, while intended to be humorous, has inadvertently amplified the voices of those who seek to marginalize and dehumanize individuals with disabilities. It serves as a stark reminder that comedy, when used irresponsibly, can have real-world consequences, perpetuating harmful stereotypes and exacerbating the challenges faced by vulnerable populations. This incident forces us to question the boundaries of humor and the ethical considerations that should guide comedic portrayals of disability.
 
-## Trivializing Tourette's: How Media Misrepresentation Fuels Misunderstanding, According to Dr. Malli
+## Trivializing Tourette's: How Media Misrepresentation Fuels Misunderstanding, According to Dr. Malli, according to [Reuters](https://www.reuters.com/)
 
 The damage caused by SNL's sketch extends beyond immediate outrage; it taps into a deeper issue of how media trivializes and misrepresents Tourette's Syndrome. Dr. Melina Malli, a researcher at the University of Oxford, has dedicated her work to understanding the impact of media portrayals on public perception of TS. Her research suggests that jokes about Tourette's minimize the condition, reducing it to a mere quirk rather than acknowledging it as a complex neurological disorder. This trivialization, she argues, has far-reaching consequences, preventing the public from fully understanding the condition and affecting access to healthcare and resources.
 

@@ -51,6 +51,6 @@ Esta fe ciega en la tecnología nos está cegando ante los peligros reales de la
 
 A pesar de la inversión masiva en tecnología, el crecimiento de la productividad se ha estancado. Esto demuestra que la IA no es una solución mágica para nuestros problemas económicos. De hecho, podría estar empeorando las cosas al destruir empleos y aumentar la desigualdad. Como señala Robert Solow en su [Paradoja de la productividad](https://en.wikipedia.org/wiki/Productivity_paradox), "se puede ver la era de la computación en todas partes excepto en las estadísticas de productividad".
 
-## El Camino Hacia la Servidumbre Tecnológica
+## El Camino Hacia la Servidumbre Tecnológica Para profundizar en este tema, consulta nuestro analisis sobre [¿Estás quemando GPUs en vano? Por qué 'fine-tuning](/ia/fine-tuning-transformers-datos-escasos-estafa/).
 
 La IA, en su forma actual, no es una herramienta para el progreso, sino un instrumento de dominación. Nos estamos deslizando por una pendiente resbaladiza hacia un futuro donde seremos esclavos de la tecnología, controlados y manipulados por algoritmos diseñados para maximizar las ganancias de las élites. La única esperanza es despertar de esta pesadilla tecnológica y exigir un futuro donde la tecnología sirva a la humanidad, y no al revés. O eso, o prepararnos para el inevitable colapso.

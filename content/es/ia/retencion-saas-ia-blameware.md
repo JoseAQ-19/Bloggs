@@ -27,7 +27,7 @@ El mercado global de IA como servicio se valoró en USD 12.7 mil millones en 202
 
 La realidad es que, mientras las empresas SaaS se apresuran a anunciar nuevas funciones de IA, la retención de clientes sigue siendo un problema persistente. Los usuarios se dan de baja a un ritmo alarmante, hartos de interfaces complejas, soporte deficiente y promesas incumplidas.
 
-## Más allá del "Hype": Por qué **Rubén Marzal** cuestiona las métricas de retención infladas de las SaaS
+## Más allá del "Hype": Por qué **Rubén Marzal** cuestiona las métricas de retención infladas de las SaaS, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 Rubén Marzal, fundador de Next Scenario, pone el dedo en la llaga al cuestionar las métricas de retención que se manejan en la industria SaaS. No basta con presumir de un churn rate del 3% si no se compara con benchmarks relevantes. ¿Con qué se están comparando? ¿Con los líderes del sector? ¿Con empresas similares en tamaño y nicho de mercado? La verdad es que muchas empresas españolas se deprimen al compararse con datos de Estados Unidos, donde la cultura de la adopción tecnológica y la tolerancia al riesgo son muy diferentes.
 

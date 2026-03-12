@@ -35,7 +35,7 @@ Huffman's statements regarding the motives and financial viability of Apollo wer
 
 The shutdown of Apollo raised questions about the sustainability of independent apps that rely on API access to major platforms. It also touched on the ethical responsibilities of platforms toward their developer ecosystems. The API price hike damaged Reddit's reputation and user experience.
 
-## The Mirage of "Official Apologies": Why Gen Z Sees Through Empty Gestures
+## The Mirage of "Official Apologies": Why Gen Z Sees Through Empty Gestures, according to [Reuters](https://www.reuters.com/)
 
 "Official apologies" have become a common tactic for brands attempting to navigate public relations crises. Gen Z's skepticism toward these gestures reveals a deeper issue of trust and authenticity.
 

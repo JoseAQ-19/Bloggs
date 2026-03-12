@@ -27,7 +27,7 @@ La adopción masiva del metaverso de consumo siempre estuvo condenada al fracaso
 
 El problema no es solo tecnológico, sino también conceptual. El metaverso de consumo carece de un propósito claro. ¿Por qué dedicar tiempo y dinero a construir un mundo virtual donde las interacciones son torpes y las experiencias limitadas? La promesa de comprar terrenos virtuales y socializar con avatares caricaturescos no es precisamente una propuesta irresistible para la mayoría de las personas. En cambio, sí que parece el sueño húmedo de un departamento de marketing.
 
-## Metaverso industrial: ¿la tabla de salvación o una cortina de humo?
+## Metaverso industrial: ¿la tabla de salvación o una cortina de humo?, segun datos recogidos por [ArXiv](https://arxiv.org/)
 
 Ante el fracaso del metaverso de consumo, la industria ha intentado desesperadamente encontrar una narrativa alternativa: el metaverso industrial. La idea es utilizar gemelos digitales para optimizar procesos industriales, mejorar la eficiencia y reducir costes. Se nos dice que esto revolucionará la manufactura, la energía, la salud y otros sectores. Pero, ¿es realmente así?
 
@@ -35,7 +35,7 @@ Si bien es cierto que los gemelos digitales tienen el potencial de mejorar algun
 
 Un estudio de Deloitte, encargado por Meta, predecía un impacto económico masivo del metaverso en España para 2035. Sin embargo, incluso este estudio reconoce que la mayor parte de este impacto provendrá del metaverso industrial. La pregunta que nadie se hace es si estas predicciones son realistas o simplemente un intento de justificar las inversiones fallidas de Meta. Un análisis más objetivo publicado en ArXiv predice [un crecimiento mucho más moderado](https://arxiv.org/abs/2309.00613).
 
-## La verdad incómoda: el metaverso no es el futuro
+## La verdad incómoda: el metaverso no es el futuro Para profundizar en este tema, consulta nuestro analisis sobre [Adiós A La IA Neutra: Amparo Alonso Betanzos Exige](/ia/ia-humanismo-diseno-tecnologico/).
 
 La realidad es que el metaverso, en cualquiera de sus formas, está lejos de ser la revolución que nos prometieron. El metaverso de consumo es un fracaso evidente, y el metaverso industrial es una herramienta útil pero limitada. La idea de que vamos a pasar la mayor parte de nuestro tiempo en mundos virtuales inmersivos es una fantasía distópica que nunca se hará realidad.
 

@@ -32,7 +32,7 @@ Pero la verdadera joya de la corona es la capacidad de Groenlandia para albergar
 
 Finalmente, no olvidemos la ubicación estratégica de Groenlandia en el cruce de los cables transatlánticos. Reducir la latencia entre Estados Unidos y Europa es vital para las aplicaciones de IA en tiempo real, pero ¿justifica esta ventaja sacrificar la confianza mutua entre aliados?
 
-## Expertos vs. la Realidad: Una Brecha Insalvable
+## Expertos vs. la Realidad: Una Brecha Insalvable, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 Mientras que los expertos debaten sobre "realismo ofensivo" y "soberanía privatizada", la realidad es mucho más cruda: Estados Unidos está dispuesto a pisotear la soberanía de Dinamarca para asegurar su dominio tecnológico. Se habla de "Ciudades de la Libertad" operando al margen de la ley, de comprar la voluntad de los groenlandeses con dinero. Esta táctica recuerda a las prácticas más turbias de la Guerra Fría, solo que ahora el enemigo no es solo Rusia, sino también la Unión Europea.
 
@@ -48,7 +48,7 @@ No olvidemos la vulnerabilidad de la infraestructura submarina. Rusia posee la c
 
 La Unión Europea, lejos de quedarse de brazos cruzados, podría imponer sanciones económicas a Estados Unidos, desatando una guerra comercial que hundiría la economía mundial. Además, una acción unilateral de este tipo podría generar una crisis constitucional interna en Washington, con intentos de destitución presidencial.
 
-## El Futuro Está Congelado: La Última Advertencia
+## El Futuro Está Congelado: La Última Advertencia Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/el-mito-del-dato-como-la-obsesion-por-las-metricas/).
 
 Groenlandia es la clave del futuro digital, pero su adquisición a través de medios coercitivos podría significar el fin del orden occidental. Estados Unidos puede ganar la batalla tecnológica contra China, pero ¿de qué sirve si al hacerlo destruye el sistema de alianzas que ha garantizado su supremacía durante décadas?
 

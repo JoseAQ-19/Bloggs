@@ -25,7 +25,7 @@ La narrativa dominante insiste en que los algoritmos son herramientas neutras, m
 
 Shoshana Zuboff acierta al denominarlo "capitalismo de vigilancia", pero se queda corta. No se trata solo de extraer y mercantilizar la experiencia humana. Es un asalto a la autonomía individual, una expropiación de la capacidad de decisión en favor de un puñado de corporaciones tecnológicas. Es el capitalismo mutado, con esteroides, sin reglas y con la capacidad de anticiparse a tus pensamientos.
 
-## Números Que Mienten: La Manipulación en la Era Digital
+## Números Que Mienten: La Manipulación en la Era Digital, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 Más del 70% de los videos de YouTube son recomendados por algoritmos. ¿Libertad de elección? Una falacia. Los resultados de los motores de búsqueda pueden influir en las decisiones de voto de los indecisos hasta en un 20%. **Estudios de Microsoft Research** confirman la manipulación de la opinión pública a través de algoritmos de búsqueda. En Indiana, un sistema automatizado de bienestar social rechazó un millón de solicitudes en tres años, duplicando la tasa de denegación. Estos no son simples errores; son síntomas de un sistema diseñado para discriminar.
 
@@ -43,7 +43,7 @@ El software de vigilancia policial, como PredPol, envía más policías a barrio
 
 Yuval Noah Harari advierte que la IA es la primera tecnología capaz de "hackear" a los seres humanos. Cathy O'Neil, en *Armas de Destrucción Matemática*, denuncia que los algoritmos son opiniones encerradas en matemáticas. La automatización de la desigualdad es el sello distintivo de esta era. **Un estudio reciente de la Universidad de Berkeley** demuestra que los sesgos en los algoritmos de IA se están reproduciendo y amplificando a un ritmo alarmante.
 
-## La Única Solución Real: Demolición y Reconstrucción
+## La Única Solución Real: Demolición y Reconstrucción Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/ecnocinicos-como-las-corporaciones-nos-venden-humo/).
 
 La solución no es una "alfabetización de datos" edulcorada. Necesitamos una demolición controlada del sistema actual. Exigir transparencia algorítmica es ingenuo. Las corporaciones tecnológicas no renunciarán voluntariamente a su poder. Necesitamos leyes draconianas que regulen el uso de la IA, con consecuencias penales para aquellos que la utilicen para discriminar o manipular. El Reglamento General de Protección de Datos (GDPR) de la Unión Europea es un buen comienzo, **pero necesita dientes**.
 

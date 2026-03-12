@@ -25,7 +25,7 @@ By 2026, conversational AI is projected to reduce contact center labor costs by 
 
 The global AI customer service market is projected to explode, reaching $15.12 billion in 2026 and a staggering $47.82 billion by 2030, boasting a compound annual growth rate (CAGR) of 25.8%. This exponential growth is fueled by the belief that AI can revolutionize customer interactions, slashing costs and boosting efficiency. But the numbers also expose a harsh reality: many organizations are struggling to realize the full potential of their AI investments. Companies see an average return of $3.50 for every $1 invested in AI customer service. However, a strategic ROI gap exists, with 90% of companies saying customer value is important, but only 61% measuring it consistently. It's like buying a Ferrari and only driving it in first gear. What’s the point of investing in AI if you're not measuring its strategic impact on your business?
 
-## The Vercel Paradox: Quick AI Fixes vs. Cultural Adoption Roadblocks
+## The Vercel Paradox: Quick AI Fixes vs. Cultural Adoption Roadblocks, according to [MIT Technology Review](https://www.technologyreview.com/)
 
 The rush to implement AI in customer service often resembles a frantic search for a quick fix, a shiny new tool to plaster over deeper systemic issues. But true AI adoption requires more than just deploying the latest large language model. It demands a fundamental shift in organizational culture, a willingness to embrace change, and a commitment to putting the customer at the center of every interaction.
 

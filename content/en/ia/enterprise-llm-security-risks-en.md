@@ -29,7 +29,7 @@ The numbers speak for themselves: 44% of enterprises cite data privacy and secur
 
 Enterprises are pouring millions into AI initiatives, but are they investing proportionally in security? The projected tenfold market increase, from $6.7 billion to $71.1 billion by 2034, should be a red flag. More deployments mean more attack vectors, more vulnerabilities, and more opportunities for malicious actors to exploit these systems. It's a classic case of scaling before securing, a recipe for disaster.
 
-## Amazon's ChatGPT Ban: Why Corporate Guardrails Aren't Enough
+## Amazon's ChatGPT Ban: Why Corporate Guardrails Aren't Enough, according to [OpenAI](https://openai.com/)
 
 Corporate guardrails, the digital equivalent of flimsy caution tape, are proving woefully inadequate in preventing data breaches. Amazon, a company that theoretically understands the power and peril of AI better than most, had to issue a stark warning to its employees: stop sharing confidential information with ChatGPT. This wasn't a theoretical concern; Amazon noticed that the LLM was spitting out responses that closely resembled sensitive company information.
 

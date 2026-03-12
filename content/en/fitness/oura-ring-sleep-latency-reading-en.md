@@ -25,7 +25,7 @@ Consider this: You're in bed, lights dimmed, engrossed in a captivating novel. Y
 
 This isn't just a theoretical concern. It's a real-world problem experienced by many Oura Ring users who enjoy reading before bed. The very activity designed to relax and prepare you for sleep is, ironically, being penalized by the very device intended to help you optimize your sleep.
 
-## Reddit Rants and Algorithm Woes: User Experiences Under the Microscope
+## Reddit Rants and Algorithm Woes: User Experiences Under the Microscope, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 The internet is awash with anecdotal evidence corroborating the Oura Ring's reading-related bias, particularly on platforms like Reddit. Users in dedicated Oura Ring communities and sleep hacking forums are vocal about their experiences, often expressing frustration with consistently low sleep scores despite feeling well-rested.
 

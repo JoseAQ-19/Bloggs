@@ -27,7 +27,7 @@ La Agencia Española de Protección de Datos (AEPD) está poniendo a Google en e
 
 Google Workspace ofrece una serie de herramientas diseñadas para facilitar el cumplimiento del RGPD, como la gestión del consentimiento, la anonimización de datos y la implementación de medidas de seguridad. Sin embargo, la configuración incorrecta de estas herramientas, la falta de formación del personal o la integración con aplicaciones de terceros no compatibles pueden generar brechas de seguridad y violaciones del RGPD.
 
-## Más Allá de la Colaboración: La Responsabilidad Ineludible del RGPD
+## Más Allá de la Colaboración: La Responsabilidad Ineludible del RGPD, segun datos recogidos por [TechCrunch](https://techcrunch.com/)
 
 Google Workspace se ha convertido en una herramienta esencial para la colaboración y la productividad en muchas empresas. **Javier Soltero**, ejecutivo de Google, afirmó en abril de 2020 que "G-Suite" superó los 6 millones de clientes de pago. Sin embargo, la comodidad y la eficiencia que ofrece esta plataforma no deben eclipsar la importancia del cumplimiento del Reglamento General de Protección de Datos (RGPD).
 

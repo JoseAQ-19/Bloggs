@@ -27,7 +27,7 @@ The scale of this energy consumption becomes more striking when contextualized a
 
 International Energy Agency data reveals that Kazakhstan's emissions per energy unit are higher than what China's used to be, with the country relying heavily on coal-powered plants to fuel both residential needs and the crypto mining boom. This environmental cost remains largely unaccounted for in the economic narratives surrounding Kazakhstan's crypto ambitions. The grid strain extended beyond mere numbers, revealing systemic vulnerabilities in a nation seeking to position itself as an energy exporter while simultaneously becoming an energy-intensive cryptocurrency mining hub.
 
-## The 'Gray Mining' Blackout: Cracking Down on Shadowy Crypto Operations
+## The 'Gray Mining' Blackout: Cracking Down on Shadowy Crypto Operations, according to [SEC](https://www.sec.gov/)
 
 Illegal mining operations, known locally as "gray mining," proliferated across Kazakhstan, creating a parallel energy consumption crisis that authorities struggled to control. The minister of digital development estimated that the power consumption of gray mining exceeded 1 gigawatt at its peak—more than 5% of the country's available generation capacity. These unregistered operations bypassed licensing requirements, contributed no tax revenue, and further strained an already overloaded power grid.
 

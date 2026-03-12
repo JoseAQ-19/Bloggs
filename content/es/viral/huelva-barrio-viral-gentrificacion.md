@@ -31,7 +31,7 @@ La batalla política sobre el Plan General de Ordenación Municipal (PGOM) en Hu
 
 El estancamiento del PGOM revela una profunda división política en Huelva, donde los intereses partidistas parecen prevalecer sobre el bienestar de la ciudad. La incapacidad de los diferentes grupos políticos para llegar a un acuerdo sobre un plan urbanístico integral y sostenible refleja una falta de visión a largo plazo y una preocupante falta de compromiso con el futuro de Huelva. ¿Es esta una estrategia deliberada para mantener el status quo y beneficiar a ciertos intereses particulares?
 
-## El Aumento del Precio del Suelo: ¿Inversión o Desplazamiento en Las Torres-Guadalupe?
+## El Aumento del Precio del Suelo: ¿Inversión o Desplazamiento en Las Torres-Guadalupe?, segun datos recogidos por [Reuters](https://www.reuters.com/)
 
 El aumento vertiginoso de los precios del suelo en Huelva, particularmente en barrios como Las Torres-Guadalupe, plantea serias dudas sobre el futuro de la ciudad. Lo que se presenta como una oportunidad de inversión puede ser, en realidad, el preludio de un desplazamiento masivo de residentes y la pérdida de la identidad local.
 

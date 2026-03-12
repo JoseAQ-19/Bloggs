@@ -27,7 +27,7 @@ La CECU basó su acusación en un análisis de las 30 canciones más vendidas y 
 
 El regreso a un sonido clásico no necesariamente implica una mejora en la perspectiva de género. La banda debe demostrar que ha aprendido de las críticas y que su música actual refleja una visión más inclusiva y respetuosa. No basta con un cambio de melodía; es esencial una transformación en el mensaje. El público, cada vez más sensibilizado con estas problemáticas, exige una reflexión profunda por parte de los artistas.
 
-## "La Lola" Bajo La Lupa: ¿Oda Feminista o Estereotipo Dañino? La Defensa de Manuel Quijano.
+## "La Lola" Bajo La Lupa: ¿Oda Feminista o Estereotipo Dañino? La Defensa de Manuel Quijano., segun datos recogidos por [TechCrunch](https://techcrunch.com/)
 
 "La Lola", el gran éxito de Café Quijano, sigue siendo objeto de debate. Mientras algunos la consideran una canción pegadiza y divertida, otros la critican por perpetuar estereotipos sobre las mujeres. La letra describe a una mujer que atrae la atención de todos los hombres, generando envidia en otras mujeres. ¿Es esta una representación empoderadora o una simple objetivación?
 

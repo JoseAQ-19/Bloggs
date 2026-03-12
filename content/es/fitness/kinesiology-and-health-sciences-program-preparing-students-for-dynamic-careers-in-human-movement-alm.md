@@ -35,7 +35,7 @@ Este programa no solo te proporciona una base teórica sólida, sino que tambié
 
 5.  **Desarrollo de Habilidades Prácticas:** El programa hace hincapié en el desarrollo de habilidades prácticas, como la evaluación de datos de salud y estado físico, y el diseño de prescripciones de ejercicio. Esto te prepara para pasantías, empleo de nivel inicial o estudios avanzados en áreas como rehabilitación, medicina e investigación biomédica.
 
-## Kinesiología: Más Allá del Deporte, Una Ciencia para la Salud
+## Kinesiología: Más Allá del Deporte, Una Ciencia para la Salud, segun datos recogidos por [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 La kinesiología, a menudo asociada únicamente al deporte, es en realidad una disciplina mucho más amplia. Abarca el estudio del movimiento humano en todas sus dimensiones, desde el nivel celular hasta el comportamiento motor complejo. Esta comprensión profunda del cuerpo en movimiento permite a los kinesiólogos abordar una amplia gama de problemas de salud y mejorar la calidad de vida de las personas.
 

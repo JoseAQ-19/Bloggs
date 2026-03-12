@@ -31,7 +31,7 @@ A prior estimate indicated Amouranth could lose $35,000 to $40,000 monthly due t
 
 Streamers must cultivate direct relationships with their audience, encouraging financial support that Twitch cannot easily control. Relying on Twitch's ad revenue model is a gamble, susceptible to policy changes and content restrictions. The incident prompted outrage within the streaming community.
 
-## Amouranth's Move to Kick Indicates a Shift to Platforms Prioritizing Creator Revenue
+## Amouranth's Move to Kick Indicates a Shift to Platforms Prioritizing Creator Revenue, according to [Reuters](https://www.reuters.com/)
 
 Amouranth's move to Kick signals a strategic shift toward platforms offering more lucrative deals amidst Twitch's evolving landscape. This shift reflects a larger trend of content creators seeking platforms prioritizing creator revenue and offering greater content creation flexibility. Competing platforms like Kick are actively courting streamers by promising better revenue splits and fewer content restrictions.
 

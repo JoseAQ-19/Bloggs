@@ -27,7 +27,7 @@ La estrategia de Cegid se basa en ofrecer soluciones de RR. HH. impulsadas por l
 
 ¿Pero qué pasa con Workday? La empresa, que cuenta con un 30% de las empresas del IBEX 35 como clientes, no se ha quedado quieta. Adolfo Pellicer, VP y Country Manager de Workday para España y Portugal, ha destacado la integración de la IA de Evisort con Workday, afirmando que transforma los contratos en activos estratégicos. Además, Pellicer insiste en que la IA ha redefinido el modelo operativo de Workday. ¿Es esta una respuesta contundente a la amenaza de Cegid o una simple cortina de humo para ocultar la realidad de que Workday está perdiendo terreno?
 
-## La IA de Workday: ¿Integración Real o Puro Marketing?
+## La IA de Workday: ¿Integración Real o Puro Marketing?, segun datos recogidos por [OpenAI](https://openai.com/)
 
 La integración de la IA es la gran tendencia en el sector del software empresarial, pero no todas las integraciones son iguales. ¿Está Workday realmente aprovechando el potencial de la IA para transformar la gestión del capital humano, o simplemente está añadiendo funciones de IA superficiales para complacer a los inversores? Gerrit Kazmaier, Presidente de Producto y Tecnología de Workday, afirma que la empresa ha estado integrando la IA en sus soluciones desde el principio, y no como una tecnología aislada. Sin embargo, el mercado no está del todo convencido.
 

@@ -27,7 +27,7 @@ Lucia Business Partners stepped in to help a client salvage what they could from
 
 The disconnect between hype and reality in AI is nothing new. Companies, seduced by the allure of cutting-edge technology, often rush into AI projects without a clear understanding of their needs, capabilities, or the data required to make these systems work. This leads to wasted resources, dashed expectations, and a growing sense of disillusionment with AI's potential. In many cases, the technology simply isn't mature enough, or the data infrastructure isn't robust enough, to support the kinds of transformative applications that are promised. The IBM Watson Health case underscores the importance of approaching AI with a healthy dose of skepticism, grounded in a clear understanding of the technology's limitations and the specific challenges of the problem being addressed.
 
-## Goldman Sachs' Internal Divide: Is AI Worth the Trillion-Dollar Price Tag?
+## Goldman Sachs' Internal Divide: Is AI Worth the Trillion-Dollar Price Tag?, according to [MIT Technology Review](https://www.technologyreview.com/)
 
 The debate over AI's economic viability extends to the highest echelons of the financial world. At Goldman Sachs, a clash of perspectives underscores the uncertainty surrounding AI's true value. Jim Covello, Head of Stock Research at Goldman Sachs, has voiced concerns about the massive infrastructure costs required to support widespread AI implementation. He estimates that it could take a trillion-dollar investment in data centers, utilities, and applications.
 

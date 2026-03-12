@@ -27,7 +27,7 @@ The government is considering several methods to regulate deepfakes, including l
 
 However, the core issue lies in the difficulty of detection and enforcement in a rapidly evolving technological landscape. As Hany Farid from UC Berkeley noted in 2020, "the capacity to generate deepfakes is proceeding much faster than the ability to detect them." Can legislation and fines truly deter malicious actors when the tools to create and distribute deepfakes are becoming more accessible and advanced, and easily generated on consumer-grade PCs or rented via cloud-based GPU compute? This raises a critical question: is Singapore's million-dollar headache merely a symptom of a much larger, systemic problem that requires a more comprehensive and proactive approach?
 
-## The TikTok Defense: Why Tech Platforms Are Failing to Stem the Synthetic Tide
+## The TikTok Defense: Why Tech Platforms Are Failing to Stem the Synthetic Tide, according to [Social Blade](https://socialblade.com/)
 
 Tech platforms, despite their vast resources, are struggling to contain the proliferation of deepfakes. In 2023, experts estimated approximately 500,000 global cases of deepfake video and audio circulating on social media. This sheer volume presents a significant challenge for content moderation teams. Social platforms are trying to address the problem by using AI to fight AI, but the deepfake tech continues to advance.
 

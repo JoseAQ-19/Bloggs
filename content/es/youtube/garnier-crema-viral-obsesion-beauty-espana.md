@@ -27,7 +27,7 @@ La promesa de un "skincare minimalista" podría estar ocultando fórmulas que, e
 
 La clave reside en la transparencia y en la información detallada sobre la concentración de cada ingrediente. Los usuarios de Reddit han expresado su frustración ante la falta de claridad en este aspecto. Algunos se han quejado de la dificultad para encontrar información precisa sobre el porcentaje de Vitamina C en los sérums y cremas de la marca. Esta opacidad genera desconfianza y dificulta la toma de decisiones informadas. ¿Está Garnier priorizando el marketing sobre la seguridad y la información al consumidor?
 
-## El Silencio de L'Oréal: ¿Ignora Garnier las Quejas Sobre Irritación Cutánea en España?
+## El Silencio de L'Oréal: ¿Ignora Garnier las Quejas Sobre Irritación Cutánea en España?, segun datos recogidos por [Social Blade](https://socialblade.com/)
 
 L'Oréal España, la empresa matriz de Garnier, tiene una responsabilidad directa en la calidad y seguridad de los productos que comercializa bajo la marca Garnier. Las quejas sobre irritación cutánea y reacciones adversas no pueden ser ignoradas. L'Oréal debe tomar medidas para investigar estos incidentes, evaluar la seguridad de las fórmulas de Garnier y proporcionar información clara y transparente a los consumidores.
 

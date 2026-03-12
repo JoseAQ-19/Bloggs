@@ -33,7 +33,7 @@ La supuesta "estrategia" de Meta ha sufrido un cambio radical, o al menos, eso q
 
 Este "pivote" es alarmante. La Inteligencia Artificial es un espejismo brillante que oculta los riesgos de la recopilación y uso masivo de datos. El rastreo de nuestros movimientos, miradas y tiempos de atención es una invasión sin precedentes. Estamos en territorio hostil, donde algoritmos opacos manipulan nuestras decisiones. La Agencia de Protección Ambiental (EPA) ya ha destacado la necesidad de abordar las implicaciones éticas del uso de la IA en la vigilancia ambiental **EPA AI Report**.
 
-## El Legado Tóxico de Facebook: Adicción, Polarización y Control
+## El Legado Tóxico de Facebook: Adicción, Polarización y Control, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 El fracaso del Metaverso es inseparable del legado putrefacto de Facebook. Documentos internos revelaron que Facebook era consciente del daño que Instagram causaba a la imagen corporal de las adolescentes. Los algoritmos amplificaban la ira, fomentando la polarización y la toxicidad. Frances Haugen, la denunciante que expuso estos horrores, acusó a la empresa de priorizar el lucro sobre la seguridad. **The Facebook Files**.
 
@@ -45,7 +45,7 @@ El Metaverso no es una utopía virtual, sino una "ciudad inteligente basada en d
 
 Esta distopía se ve reforzada por la adicción a la realidad virtual y sus efectos en la salud mental. El aislamiento y la manipulación algorítmica conducen a la desconexión social, la ansiedad y la depresión. Investigaciones recientes en el campo de la neurociencia respaldan esta afirmación, mostrando alteraciones en la actividad cerebral asociadas al uso excesivo de realidad virtual [Nature Neuroscience](https://www.nature.com/neuro/).
 
-## El Fin Está Aquí: Privacidad, Manipulación y Destrucción
+## El Fin Está Aquí: Privacidad, Manipulación y Destrucción Para profundizar en este tema, consulta nuestro analisis sobre [ChatGPT contra tu SaaS: en 2026 solo sobrevivirán ](/ia/saas-apocalipsis-ia-2026/).
 
 El verdadero apocalipsis tecnológico no es un escenario de ciencia ficción, sino la consolidación de una hiper-vigilancia corporativa. La tecnología (VR, Blockchain, IA) mercantiliza la realidad humana, erosiona la privacidad, polariza la sociedad y premia la ira.
 

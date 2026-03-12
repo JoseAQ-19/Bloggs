@@ -23,7 +23,7 @@ Recent academic work, like the study "Opinión pública masiva: colonización al
 
 This algorithmic colonization is fueled by readily available data. Every click, search, and share provides invaluable insight into our preferences, fears, and vulnerabilities. This data is then weaponized to target us with hyper-personalized content, reinforcing existing biases and further fragmenting the public sphere. The consequences are tangible: increased polarization, the spread of misinformation, and a decline in trust in traditional institutions.
 
-## Synthetic Consensus: Manufacturing Consent in the Age of AI
+## Synthetic Consensus: Manufacturing Consent in the Age of AI, according to [MIT Technology Review](https://www.technologyreview.com/)
 
 The rise of sophisticated AI tools has taken this manipulation to a whole new level. Deepfakes, AI-generated articles, and armies of bots can now create the illusion of widespread support for particular ideas or candidates. It is increasingly difficult for the average citizen to distinguish between genuine grassroots movements and astroturfing campaigns orchestrated by powerful actors.
 
@@ -39,7 +39,7 @@ The concept of "mass opinion," as opposed to informed public discourse, is parti
 
 This isn't just about politics.  Consumer culture thrives on the same principles, encouraging mindless consumption and conformity to fleeting trends.  The constant barrage of advertising and social media posts creates a sense of FOMO (fear of missing out), driving individuals to make irrational decisions and accumulate debt.
 
-## Reclaiming Digital Democracy: A Path Forward
+## Reclaiming Digital Democracy: A Path Forward For more insights on this topic, read our analysis on [Software Crash Exposes AI's Dirty Secret: Choose W](/ia/enterprise-ai-winner-ignore-hype-en/).
 
 The situation is dire, but not hopeless. We can reclaim digital democracy by promoting media literacy, demanding transparency from tech companies, and fostering a more critical and engaged citizenry.
 

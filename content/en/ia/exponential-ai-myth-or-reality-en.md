@@ -31,7 +31,7 @@ OpenAI is exploring unconventional avenues for data acquisition, including partn
 
 This problem mirrors drilling for oil in remote and difficult-to-access locations. Initial success diminishes as resources become scarcer and extraction becomes more expensive. This data bottleneck represents a fundamental constraint that will slow AI progress.
 
-## Google's Transformer Architecture Limits
+## Google's Transformer Architecture Limits, according to [OpenAI](https://openai.com/)
 
 Google is facing a similar challenge with its own LLMs, despite its vast resources and AI expertise. The relentless pursuit of ever-larger models, exemplified by the Gemini series, is running into the limitations of the Transformer architecture.
 

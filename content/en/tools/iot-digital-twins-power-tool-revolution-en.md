@@ -27,7 +27,7 @@ A single failed power tool can cascade into a chain reaction of delays. Consider
 
 The reliance on traditional, reactive maintenance strategies exacerbates this problem. Waiting for a tool to break down before taking action is like playing Russian roulette with project timelines and budgets. Reactive maintenance offers very little insight into equipment health, leading to unpredictable failures. Investing in preventative measures, such as predictive maintenance, can significantly mitigate these risks and protect construction companies from these financial shocks.
 
-## The Brushless Blind Spot: Why DeWalt's Marketing Misses the Mark
+## The Brushless Blind Spot: Why DeWalt's Marketing Misses the Mark, according to [TechCrunch](https://techcrunch.com/)
 
 While DeWalt heavily promotes the durability of its brushless motors, focusing solely on motor longevity misses a critical piece of the puzzle: comprehensive equipment health. A brushless motor might last longer, but other components like batteries, switches, and cords are still prone to failure, leading to expensive downtime. Predictive maintenance offers a more holistic approach.
 

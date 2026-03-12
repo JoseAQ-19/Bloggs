@@ -32,7 +32,7 @@ Las ridículas tasas de financiación negativas –entre -5,900% y +3,000% anual
 
 Más de $13 millones en posiciones cortas liquidadas, un festín para los oportunistas, sí, pero ¿a qué costo? BERA saltó de $0.50 a $1.50, solo para desplomarse a una zona de "estabilidad" entre $0.82 y $0.91. Un aumento del volumen de comercio del 404% suena impresionante hasta que te das cuenta de que es solo gente jugando con dinero que no tienen. ¿Capitalización de mercado cercana a $200 millones? Una burbuja esperando explotar.
 
-## El "Pivote" Empresarial: Una Desesperada Jugada de Relaciones Públicas
+## El "Pivote" Empresarial: Una Desesperada Jugada de Relaciones Públicas, segun datos recogidos por [CoinDesk](https://www.coindesk.com/)
 
 El cambio estratégico de Berachain, de "farming" a "negocios reales", es una admisión tácita de fracaso. La iniciativa "Bera Builds Businesses" (un nombre que suena a Startup de garaje) promete apoyar entre 3 y 5 aplicaciones con ingresos anuales superiores a $10 millones. ¿En serio? ¿Después de todo este tiempo, recién ahora se preocupan por la sostenibilidad? Esto huele a desesperación por atraer inversores crédulos.
 
@@ -44,7 +44,7 @@ Victor Olanrewaju de CCN se regocija por el "punto de inflexión" del no reembol
 
 Pero hasta los loros entrenados en criptografía advierten sobre el RSI en sobrecompra, admitiendo el riesgo de corrección. Técnicamente, BERA debe "reclamar y mantener" la zona de $0.98 - $1.00 para confirmar una reversión de tendencia. Palabras vacías para calmar a los inversores antes de la inevitable caída.
 
-## La Realidad: Especulación Pura, Cero Valor Subyacente
+## La Realidad: Especulación Pura, Cero Valor Subyacente Para profundizar en este tema, consulta nuestro analisis sobre [¿Por Qué Venice Token es Tendencia Hoy en Crypto? ](/crypto/why-is-venice-token-trending-today-in-crypto/).
 
 El Chaikin Money Flow (CMF) –una herramienta de análisis mucho más fiable– se mantiene por debajo de cero, mostrando divergencias bajistas. Esto significa que el reciente aumento fue un simple bombeo especulativo, no una entrada de capital real. Si el flujo de capital no se materializa (y no lo hará), BERA se estrellará contra el suelo, alrededor de los $0.62. **Análisis técnico detallado del CMF**.
 

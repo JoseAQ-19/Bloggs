@@ -27,7 +27,7 @@ According to a rundown of the Anna Paul and Mikaela Testa drama, Atis allegedly 
 
 This situation highlights the murky financial arrangements that can exist behind the scenes of a seemingly glamorous online career. The lack of transparency and regulation in the influencer industry makes it ripe for abuse, particularly when young, impressionable creators are involved. What recourse do these creators have when faced with alleged financial misconduct by those they trust?
 
-## The Finfluencer Façade: Why Anna Paul's "Relatable" Image Crumbles Under Scrutiny
+## The Finfluencer Façade: Why Anna Paul's "Relatable" Image Crumbles Under Scrutiny, according to [Reuters](https://www.reuters.com/)
 
 Anna Paul has cultivated an image of relatability and authenticity, resonating with millions of young followers. But this carefully crafted persona is now under intense scrutiny. Testa alleges that Anna Paul's "relatable" image is a complete fabrication. She accuses Anna of faking a poor upbringing and running illegal lotteries through cash giveaways linked to her OnlyFans account.
 

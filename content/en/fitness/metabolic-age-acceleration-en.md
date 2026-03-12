@@ -27,7 +27,7 @@ Companies like Elysium Health, in partnership with Yale's Dr. Morgan Levine, are
 
 Furthermore, the interpretation of biological age tests is not always straightforward. A younger biological age might be seen as desirable, but what constitutes an "optimal" biological age for a given individual is still unknown. The metrics can also be heavily influenced by recent lifestyle changes, providing a snapshot in time rather than a comprehensive picture of long-term aging trajectory. The real question is whether these tests can provide actionable insights that lead to meaningful improvements in health and longevity, or if they are simply feeding a growing obsession with quantifying the aging process.
 
-## The Mayo Clinic's Holistic Pushback Against Chronological Obsession
+## The Mayo Clinic's Holistic Pushback Against Chronological Obsession, according to [Mayo Clinic](https://www.mayoclinic.org/)
 
 While the personalized nutrition market often fixates on biological age as the ultimate metric, experts like Dr. Francisco Lopez-Jimenez at the Mayo Clinic emphasize a more holistic approach. Lopez-Jimenez argues that focusing solely on chronological age is a flawed strategy, advocating instead for a multifactorial assessment of aging and quality of life. This approach focuses on the overall state of the body, encompassing various physiological and lifestyle factors, rather than relying on a single number derived from a biological age test.
 

@@ -25,7 +25,7 @@ El término "necrocapitalismo", invocado con tanta ligereza, es una cortina de h
 
 La idea de que el capital se acumula a través de la "destrucción" es una tergiversación grotesca de la destrucción creativa schumpeteriana. No se trata de violencia y explotación, sino de innovación y eficiencia.  Al demonizar la búsqueda de beneficios, los críticos del "necrocapitalismo" atacan el motor mismo del progreso.
 
-## Oligarquización y Tecnopoder: El Chivo Expiatorio Perfecto
+## Oligarquización y Tecnopoder: El Chivo Expiatorio Perfecto, segun datos recogidos por [ArXiv](https://arxiv.org/)
 
 Culpar a las grandes empresas tecnológicas de "controlar la producción de hegemonía" es una simplificación absurda.  Estas empresas ofrecen servicios que la gente DEMANDA. Si no fueran valiosos, no existirían. En lugar de lamentar su "poder", deberíamos celebrar su capacidad para innovar y crear valor.  Que un puñado de empresas dominen el mercado es simplemente una consecuencia de su superioridad, no una conspiración nefasta.
 
@@ -56,6 +56,6 @@ La solución al "capitalismo zombi" no es un nuevo modelo económico basado en l
 
 Repensar el papel del Estado no significa fortalecerlo, sino limitarlo. Regular los mercados financieros no significa controlarlos, sino eliminar las barreras de entrada y garantizar la transparencia.  Promover la inversión en energías renovables no significa subsidiar tecnologías ineficientes, sino permitir que el mercado determine qué fuentes de energía son viables.
 
-## Conclusión: El Camino Hacia la Prosperidad
+## Conclusión: El Camino Hacia la Prosperidad Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/la-cortina-de-humo-digital/).
 
 El "capitalismo zombi" no es un destino inevitable, sino una consecuencia de malas políticas.  Podemos seguir lamentando los supuestos "fallos del sistema" y exigir más intervención estatal, o podemos abrazar los principios del libre mercado y liberar el poder de la innovación y la competencia. La elección es clara: más Estado significa más zombis; menos Estado significa más prosperidad. Y no, no "depende de nosotros", la solución es objetiva y demostrable. Quien no lo vea está ciego, o peor aún, se beneficia de la putrefacción.

@@ -25,7 +25,7 @@ YouTube TV's price has more than doubled since its launch, now sitting at $72.99
 
 The service boasts over 9.4 million subscribers as of April 2025, a substantial figure, but growth can't be the only metric of success. Profitability, a concept seemingly foreign to many streaming ventures, remains a key challenge for YouTube TV. MoffettNathanson projects YouTube TV to reach 12.4 million subscribers by the end of 2026, and expects the service to be profitable by then. But projections aren't guarantees, especially in a market as volatile as streaming. The road to streaming profitability is paved with abandoned services and content write-downs.
 
-## Comcast's Counterstrike: How Traditional TV is Fighting Back
+## Comcast's Counterstrike: How Traditional TV is Fighting Back, according to [Social Blade](https://socialblade.com/)
 
 Comcast isn't going down without a fight. While traditional pay-TV revenue decreased from $100.09 billion in 2017 to $86.21 billion in 2022, the company is actively adapting its own streaming strategies. This includes aggressive bundling of internet and streaming services, as well as investing in its own streaming platform, Peacock.
 

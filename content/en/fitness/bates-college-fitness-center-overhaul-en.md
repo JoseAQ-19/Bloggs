@@ -25,7 +25,7 @@ Focusing on "well-being" with a $45 million athletic facility upgrade at Bates C
 
 While a commitment to student well-being is laudable, the question remains whether a lavish fitness center is the most effective way to achieve this goal, or if it's a superficial attempt to attract prospective students in an increasingly competitive market. Are they hoping to lure more applications? Or are they genuinely trying to improve student lives?
 
-## The Endowment Elephant: Is Bates Overextending Itself for Athletics?
+## The Endowment Elephant: Is Bates Overextending Itself for Athletics?, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 Bates College's $447 million endowment may not be sufficient to sustain its top 20 liberal arts college ranking while funding such a large athletic project. This raises serious questions about the college's priorities and its long-term financial stability.
 

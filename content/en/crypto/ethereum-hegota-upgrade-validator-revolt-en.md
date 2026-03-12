@@ -27,7 +27,7 @@ Ethereum ETFs saw roughly $9.8 billion in net new assets in 2025, a figure that 
 
 The situation is further complicated by the decentralized nature of Ethereum. While the Ethereum Foundation can propose and implement upgrades, the ultimate decision to adopt these changes rests with the validators. US-based validators must weigh the potential benefits of enhanced censorship resistance against the very real threat of legal action. The potential for selective enforcement by US regulators adds another layer of uncertainty, making it difficult for validators to accurately assess their risk exposure.
 
-## Vitalik's Vision vs. Regulatory Reality: The Censorship Resistance Paradox
+## Vitalik's Vision vs. Regulatory Reality: The Censorship Resistance Paradox, according to [SEC](https://www.sec.gov/)
 
 At the heart of the Hegota upgrade lies a fundamental tension: the desire for censorship resistance versus the necessity of regulatory compliance. Vitalik Buterin, co-founder of Ethereum, has endorsed FOCIL, stating it will boost privacy protocols when combined with Frame Transactions. However, Buterin's vision of a censorship-resistant Ethereum clashes directly with the increasing regulatory scrutiny faced by the cryptocurrency industry.
 

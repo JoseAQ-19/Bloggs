@@ -27,7 +27,7 @@ Este dato revela una doble vara: mientras que la ciudadanía está sujeta a un e
 
 La falta de transparencia en este caso alimenta aún más la desconfianza. Si los detalles sobre quién autorizó estos gastos y por qué no se hacen públicos, se crea un vacío de información que es rápidamente llenado por especulaciones y teorías de conspiración. Es crucial que las autoridades competentes actúen con celeridad y proporcionen una explicación clara y detallada de lo sucedido, no solo para calmar la indignación pública, sino para reafirmar el compromiso del sistema judicial con la igualdad y la transparencia.
 
-## "LimpiasGate": Un Sistema Judicial Bajo Sospecha
+## "LimpiasGate": Un Sistema Judicial Bajo Sospecha, segun datos recogidos por [Reuters](https://www.reuters.com/)
 
 El escándalo del "LimpiasGate" no es un incidente aislado, sino un síntoma de problemas sistémicos más profundos en la administración pública y la aplicación de la ley en España. Las denuncias de Jupol, el sindicato policial, sobre presuntos abusos de poder por parte de un jefe inspector, que incluyen acoso laboral y el uso de un coche oficial para fines personales, pintan un cuadro preocupante de falta de control y rendición de cuentas dentro de las instituciones. Este tipo de comportamientos, cuando no son investigados y sancionados adecuadamente, crean una cultura de impunidad que socava la confianza pública y fomenta la corrupción.
 

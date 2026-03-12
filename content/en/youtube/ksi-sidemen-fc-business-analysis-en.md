@@ -27,7 +27,7 @@ Eddie Hearn, a prominent boxing promoter, recently voiced his astonishment on a 
 
 While an equal split might foster camaraderie and long-term collaboration, it also raises concerns about individual incentives and the allocation of resources. Does this arrangement stifle individual ambition and innovation, or does it create a more resilient and collaborative business environment? The answer may depend on the specific dynamics within the Sidemen, but Hearn's surprise underscores the unconventional nature of their financial arrangement in the high-stakes world of digital entertainment.
 
-## The YouTube Facade: Why Sidemen Entertainment's Official Growth Hides Fair Play Concerns
+## The YouTube Facade: Why Sidemen Entertainment's Official Growth Hides Fair Play Concerns, according to [Tubefilter](https://www.tubefilter.com/)
 
 Sidemen Entertainment's official financial reports paint a picture of impressive growth. The company saw its net assets grow to over £7 million in the 12 months leading up to June 30, 2024, a significant turnaround from a deficit of £114,208 in the previous 18 months, according to **City A.M.** This surge in assets is attributed to the success of their various ventures, including their YouTube channels, merchandise, and live events. However, beneath this veneer of financial prosperity lie lingering questions about fair play and transparency.
 
@@ -37,7 +37,7 @@ Furthermore, while the Sidemen's YouTube channels generate significant revenue, 
 
 ## Charity Match Smoke and Mirrors: What Jordan Schwarzenberger Isn't Telling You About Long-Term Viability
 
-Jordan Schwarzenberger, the manager of the Sidemen at Arcade Media, emphasizes the importance of building the Sidemen's own brands and intellectual property to ensure long-term viability. He envisions the Sidemen as "Disney for Gen Z born from YouTube," signaling a shift away from short-term brand deals towards creating a sustainable media empire, as mentioned in **Tubefilter**. Schwarzenberger's strategy aims to insulate the Sidemen from the volatile nature of online advertising and create a more resilient business model.
+Jordan Schwarzenberger, the manager of the Sidemen at Arcade Media, emphasizes the importance of building the Sidemen's own brands and intellectual property to ensure long-term viability. He envisions the Sidemen as "Disney for Gen Z born from YouTube," signaling a shift away from short-term brand deals towards creating a sustainable media empire, as mentioned in [Tubefilter](https://www.tubefilter.com/). Schwarzenberger's strategy aims to insulate the Sidemen from the volatile nature of online advertising and create a more resilient business model.
 
 However, Schwarzenberger's vision might be overlooking some critical aspects of the Sidemen's current operations. While building their own brands is undoubtedly crucial, the Sidemen still heavily rely on brand partnerships and advertising revenue to fuel their various ventures. This reliance creates a potential conflict of interest, as the Sidemen may be incentivized to prioritize short-term profits over long-term brand building.
 

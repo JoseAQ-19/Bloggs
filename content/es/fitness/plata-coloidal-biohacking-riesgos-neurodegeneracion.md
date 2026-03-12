@@ -27,7 +27,7 @@ Es crucial cuestionar las motivaciones detrás de la promoción de estos product
 
 La clave reside en informarse correctamente y contrastar la información que ofrecen estas empresas con fuentes científicas y médicas fiables. Desconfiar de las promesas milagrosas y priorizar la salud a largo plazo sobre soluciones rápidas y sin evidencia.
 
-## La FDA Contra la Plata Coloidal: ¿Por Qué No Deberías Creer en Agualab?
+## La FDA Contra la Plata Coloidal: ¿Por Qué No Deberías Creer en Agualab?, segun datos recogidos por [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 La Administración de Alimentos y Medicamentos de los Estados Unidos (FDA) ha sido contundente en su escepticismo hacia la plata coloidal, tomando medidas enérgicas contra empresas que realizan afirmaciones no probadas sobre sus beneficios para la salud. Este organismo regulador ha establecido claramente que los productos de plata coloidal no se consideran seguros ni eficaces para el tratamiento de ninguna enfermedad o condición médica. A pesar de estas advertencias, empresas como Agualab siguen comercializando estos productos, alegando que cumplen con las normativas europeas y ofreciendo concentraciones "seguras" de 25 ppm.
 

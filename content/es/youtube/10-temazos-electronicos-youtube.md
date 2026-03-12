@@ -27,7 +27,7 @@ El impacto acumulado entre 2025 y 2028 podría oscilar entre los €160 y €180
 
 La adopción de la IA por parte de los músicos es un arma de doble filo. El estudio revela que un 34% de los creadores musicales españoles ya han utilizado herramientas de IA, y un 17% adicional planea hacerlo pronto. ¿Están cavando su propia tumba?
 
-## El Silencio Incómodo: Por Qué la Narrativa de la Industria Ignora la Falta de Regulación
+## El Silencio Incómodo: Por Qué la Narrativa de la Industria Ignora la Falta de Regulación, segun datos recogidos por [Social Blade](https://socialblade.com/)
 
 La narrativa oficial de la industria musical tiende a minimizar los riesgos asociados con la IA, enfocándose en las oportunidades y el potencial de innovación. Sin embargo, esta visión ignora un problema fundamental: la falta de regulación clara y efectiva. ¿Cómo proteger los derechos de autor en un mundo donde la IA puede replicar y transformar obras existentes en cuestión de segundos?
 

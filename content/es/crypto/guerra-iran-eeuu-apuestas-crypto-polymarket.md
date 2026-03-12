@@ -29,7 +29,7 @@ La ambigüedad regulatoria que rodea a estos mercados de predicción descentrali
 
 El ataque coordinado de Estados Unidos e Israel contra Irán el 28 de febrero de 2026 provocó una caída en el precio de Bitcoin por debajo de los 64,000 dólares, mientras que los precios del petróleo WTI se dispararon aproximadamente un 9%, según **IG España**. La capitalización del mercado de criptomonedas disminuyó en más de 100 mil millones de dólares. Este evento subraya la correlación entre la incertidumbre geopolítica y la volatilidad de los criptoactivos.
 
-## El Silencio de la CNMV: ¿Está Preparada España para el Riesgo de Manipulación?
+## El Silencio de la CNMV: ¿Está Preparada España para el Riesgo de Manipulación?, segun datos recogidos por [SEC](https://www.sec.gov/)
 
 La Comisión Nacional del Mercado de Valores (CNMV), el organismo regulador español encargado de supervisar los mercados financieros, ha expresado reiteradamente su preocupación por los riesgos asociados a los criptoactivos. Sin embargo, su enfoque se ha centrado principalmente en advertir a los inversores sobre la volatilidad y la complejidad de estos productos, sin abordar de manera contundente el problema de la manipulación del mercado en plataformas como Polymarket. Esta postura ha sido criticada por algunos sectores, que consideran que la CNMV debería adoptar una actitud más proactiva y establecer mecanismos de supervisión más estrictos para proteger a los inversores minoristas.
 

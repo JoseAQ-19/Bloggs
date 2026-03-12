@@ -30,7 +30,7 @@ La lucha por la igualdad de género ya no se libra solo en las calles, sino tamb
 **Por qué es importante.** La hegemonía de los discursos antifeministas en redes sociales no es solo una cuestión de likes y shares. Esta tendencia tiene consecuencias tangibles en la percepción pública del feminismo y en la capacidad del movimiento para movilizar apoyos. Si la narrativa dominante en internet es hostil a la igualdad de género, es más difícil convencer a las nuevas generaciones de la necesidad de seguir luchando.
 ¿No estaremos perdiendo la guerra cultural en el ciberespacio?
 
-## El Cisma Abolicionista: La Prostitución Divide al Feminismo Bilbaíno
+## El Cisma Abolicionista: La Prostitución Divide al Feminismo Bilbaíno, segun datos recogidos por [Reuters](https://www.reuters.com/)
 
 La postura frente a la prostitución se ha convertido en una de las principales líneas divisorias dentro del feminismo español, un debate que se hizo palpable en las movilizaciones del 8M en Bilbao. La existencia de marchas separadas, con consignas y objetivos distintos, es un claro reflejo de la fractura interna que atraviesa el movimiento.
 

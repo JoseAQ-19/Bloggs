@@ -25,7 +25,7 @@ The quest for clicks and conversions reached a new low when influencer "Paul in 
 
 China's livestreaming e-commerce market, which generated nearly $700 billion in sales in 2023, is a tempting goldmine for influencers. This lucrative market, however, comes with stringent regulations and a watchful eye from the Cyberspace Administration of China (CAC). "Paul in USA" learned this the hard way. The incident serves as a stark reminder that in China, the pursuit of profit cannot come at the expense of privacy and ethical considerations. Is any amount of money worth sacrificing personal dignity.
 
-## Credential Chaos: Why China's Influencer Crackdown Misses the Mark
+## Credential Chaos: Why China's Influencer Crackdown Misses the Mark, according to [Social Blade](https://socialblade.com/)
 
 China's Cyberspace Administration (CAC) is cracking down on social media influencers. It's a sweeping effort that aims to clean up the online space and ensure that influencers are not misleading their followers. Influencers failing to comply with the new rules could face account suspension or fines up to ¥100,000 RMB (~€12,144.00). While the intention is to protect consumers from misinformation and unethical practices, the execution raises serious questions about censorship and freedom of expression.
 

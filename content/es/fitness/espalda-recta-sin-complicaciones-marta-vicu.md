@@ -25,7 +25,7 @@ La influencia de las redes sociales en la salud es innegable, y figuras como Mar
 
 La promesa de una solución sencilla para un problema tan extendido es tentadora, pero también peligrosa. Al promover ejercicios que, supuestamente, corrigen la postura y eliminan el dolor de espalda de manera rápida, se corre el riesgo de generar falsas expectativas y, lo que es peor, de retrasar la búsqueda de un diagnóstico y tratamiento adecuados. La lumbalgia, en muchos casos, es un síntoma de problemas subyacentes más complejos que requieren una evaluación individualizada y un enfoque multidisciplinario. Ignorar esta realidad en favor de soluciones simplistas puede tener consecuencias negativas a largo plazo para la salud de quienes buscan alivio.
 
-## Fisioterapeutas Contra Influencers: La Guerra Silenciosa por el Tratamiento del Dolor de Espalda en España
+## Fisioterapeutas Contra Influencers: La Guerra Silenciosa por el Tratamiento del Dolor de Espalda en España, segun datos recogidos por [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 La proliferación de "gurús" del fitness en redes sociales ha abierto un nuevo frente en la batalla por la atención del paciente con dolor de espalda. Mientras que profesionales de la salud como fisioterapeutas invierten años en formación y experiencia clínica, los influencers a menudo capitalizan la viralidad y el marketing para promocionar sus métodos. Esta disparidad genera una "guerra silenciosa" donde los consejos contradictorios de traumatólogos, osteópatas y fisioterapeutas siembran la desconfianza entre los pacientes, tal como lo expresó un usuario frustrado en un foro sobre dolor de espalda.
 

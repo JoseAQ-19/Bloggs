@@ -27,7 +27,7 @@ La polémica no solo afectó la imagen de Lola Lolita, sino que también generó
 
 El caso de Lola Lolita no es aislado. Cada vez más usuarios de redes sociales cuestionan la veracidad de las vidas perfectas que se muestran en las plataformas digitales. La presión por mantener una imagen impecable, combinada con la necesidad de generar ingresos a través de colaboraciones y patrocinios, puede llevar a los influencers a adoptar comportamientos poco auténticos, lo que a la larga erosiona la confianza de su audiencia. La misma Lola Lolita tuvo que pedir perdón públicamente por su comportamiento, según informa **Telecinco**.
 
-## Microinfluencers vs. Celebridades: La batalla por la autenticidad y la confianza de la audiencia, según Leire Romera
+## Microinfluencers vs. Celebridades: La batalla por la autenticidad y la confianza de la audiencia, según Leire Romera, segun datos recogidos por [Social Blade](https://socialblade.com/)
 
 Frente a la imagen de los mega-influencers, emerge con fuerza la figura del microinfluencer. Estos creadores de contenido, con audiencias más pequeñas pero más comprometidas, se caracterizan por su cercanía y autenticidad. Leire Romera, Head of Social Media at SAMY Iberia, argumenta que "la relevancia es el nuevo ROI en el marketing moderno". Esta afirmación implica un cambio de paradigma, donde la clave del éxito reside en construir conexiones genuinas con la audiencia, en lugar de simplemente acumular seguidores.
 

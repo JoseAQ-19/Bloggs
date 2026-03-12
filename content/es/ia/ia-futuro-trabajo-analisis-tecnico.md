@@ -27,7 +27,7 @@ La Organización Internacional del Trabajo (OIT) alardea de que solo una fracci�
 
 El Foro Económico Mundial (WEF), esa reunión anual de la élite global en Davos, nos cuenta cuentos de hadas sobre la "creación neta" de empleos.  Pero, ¿quiénes se beneficiarán de esos supuestos 78 millones de nuevos puestos? Los tecnócratas, los ingenieros de software y los vendedores de humo. **El resto, a pelearse por las migajas de la economía gig**.
 
-## Los Perdedores: Una Lista Creciente
+## Los Perdedores: Una Lista Creciente, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 Se nos dice que los empleos "esenciales" están a salvo. Agricultura, logística, construcción... ¡Tonterías! La automatización ya está arrasando estos sectores. Tractores autónomos, drones de reparto, robots constructores... La mano de obra humana es cada vez más prescindible.
 
@@ -39,7 +39,7 @@ Ahora nos sermonean sobre la importancia de las "habilidades blandas". Pensamien
 
 Además, la supuesta necesidad de "habilidades híbridas" es otro truco para justificar la explotación.  Se espera que los trabajadores se conviertan en expertos en todo, desde la programación hasta la gestión de proyectos, mientras que sus salarios se estancan. **Es una receta para el agotamiento y la frustración.**
 
-## La Realidad: Una Brecha Que Se Ensancha
+## La Realidad: Una Brecha Que Se Ensancha Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/movil-te-traiciona-el-negocio-redondo-del-espionaj/).
 
 La transición hacia un futuro laboral impulsado por la IA no es simplemente "lenta y desigual". Es una catástrofe anunciada. La resistencia al cambio no es irracional; es una reacción lógica ante la amenaza existencial que representa la automatización. La falta de inversión en programas de formación adecuados es una negligencia criminal.
 

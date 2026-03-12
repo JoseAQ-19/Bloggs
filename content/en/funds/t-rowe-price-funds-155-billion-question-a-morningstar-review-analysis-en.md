@@ -27,7 +27,7 @@ The T. Rowe Price Equity Income Fund (PRIDX), classified by Morningstar in the L
     *   Volatility: 13.2%
     *   Sharpe Ratio: 0.74
     *   Expense Ratio: 0.68%
-*   **Vanguard 500 Index Fund (VFIAX)**
+*   [Vanguard](https://investor.vanguard.com/)
 
     *   1-Year Return: 11.3%
     *   3-Year Annualized Return: 12.4%
@@ -62,7 +62,7 @@ The T. Rowe Price Equity Income Fund (PRIDX), classified by Morningstar in the L
 
 The T. Rowe Price Equity Income Fund, rated 3 stars by Morningstar, has significantly underperformed its benchmark S&P 500 Index over all time periods measured, with the 5-year annualized return of 9.8% trailing the index by 1.9 percentage points. The fund's expense ratio of 0.68% places it at a notable disadvantage compared to the passively managed alternatives, with the lowest-cost Vanguard option at just 0.04%. This difference in expense ratios can significantly impact long-term returns, especially in a market where active management struggles to consistently outperform the index.
 
-## Fee Structure Analysis
+## Fee Structure Analysis, according to [Vanguard](https://investor.vanguard.com/)
 
 The T. Rowe Price Equity Income Fund carries a front-end load of 5.75% for Class A shares, with a 12b-1 fee of 0.25%. Institutional shares (PRIX) are available with a reduced expense ratio of 0.42% but remain substantially higher than passive alternatives. The fund's expense ratio has remained relatively stable over the past five years, averaging 0.65%, compared to the category average of 0.62%. When adjusted for taxes, the fund's after-tax returns would show an even wider performance gap against its passive competitors, particularly for investors in higher tax brackets. This is because the fund's higher turnover rate can generate more taxable events, further eroding returns. Investors should carefully consider the tax implications of investing in actively managed funds, especially those with high expense ratios and turnover rates.
 

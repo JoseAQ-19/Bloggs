@@ -27,7 +27,7 @@ Christopher Mufarrige, Director of the FTC's Bureau of Consumer Protection, stat
 
 The Congressional Select Committee on the Chinese Communist Party released interim findings confirming an "extremely high risk" that Temu's supply chains are contaminated with forced labor. This isn't theoretical concern—it's a documented reality with profound implications for anyone purchasing products from the platform. When you buy that cheap steak, you're potentially funding a supply chain that exploits workers while exploiting regulatory loopholes. The de minimis exemption, which allows packages under $800 to enter the U.S. without inspection, has been weaponized by platforms like Temu and Shein, who together account for approximately half of all such shipments from China, effectively creating a shadow economy immune from basic oversight.
 
-## Pink Slime Redux: Why Your Ground Beef Concerns Extend to Online Marketplaces
+## Pink Slime Redux: Why Your Ground Beef Concerns Extend to Online Marketplaces, according to [Reuters](https://www.reuters.com/)
 
 The "pink slime" controversy that erupted in the early 2010s exposed the unsettling reality of industrialized meat processing—a process where lean finely textured beef treated with ammonia gas was added to conventional ground beef. While Donald W. Schaffner, a food scientist at Rutgers University, explains that the ammonia treatment process is scientifically safe, consumers found the unappetizing reality of eating what essentially amounts to meat paste repulsive. This historical parallel reveals how Temu's food offerings likely suffer from similar issues of processing transparency and quality control.
 

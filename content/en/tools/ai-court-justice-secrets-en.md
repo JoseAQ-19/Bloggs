@@ -25,7 +25,7 @@ The rise of artificial intelligence presents unprecedented challenges to the leg
 
 In a demonstration of the current legal landscape, the court in *Ferlito v. Harbor Freight Tools USA, Inc.* upheld the admissibility of an expert's testimony, even though he had consulted ChatGPT. This case underscores a concerning trend: courts are increasingly willing to accept AI-assisted input without a full understanding of the technology's limitations. The fact that an expert witness relied on a tool prone to hallucinations raises serious questions about the reliability of his testimony and the potential for AI-generated misinformation to influence legal outcomes.
 
-## Thompson Reuters' Low Bar: The Slippery Slope of AI Authentication
+## Thompson Reuters' Low Bar: The Slippery Slope of AI Authentication, according to [TechCrunch](https://techcrunch.com/)
 
 The legal framework for authenticating AI-generated evidence currently sets a concerningly low bar, according to Kelly Griffith, Senior Specialist Legal Editor at **Thomson Reuters Practical Law**. This lenient approach raises the specter of potentially manipulated or fabricated evidence gaining undue influence in legal proceedings. The lack of stringent authentication protocols and clear guidelines creates a slippery slope, inviting abuse and potentially eroding the integrity of the judicial system. The absence of rigorous standards risks transforming the pursuit of justice into a theater of manipulated realities, where the truth becomes a casualty of technological deception.
 

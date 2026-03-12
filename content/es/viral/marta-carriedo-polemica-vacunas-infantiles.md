@@ -27,7 +27,7 @@ La libertad individual y la seguridad colectiva a menudo se encuentran en tensi�
 
 La controversia generada por Carriedo no es un caso aislado, sino que se inscribe en un contexto más amplio de creciente desconfianza hacia las instituciones y la ciencia. En un mundo saturado de información, donde las noticias falsas y las teorías conspirativas proliferan, es cada vez más difícil para el público discernir entre la información veraz y la desinformación. Este caldo de cultivo de desconfianza es especialmente peligroso cuando se trata de temas de salud, donde las decisiones informadas son cruciales para el bienestar individual y colectivo.
 
-## La Grieta en el Sistema: El Silencio de la AEP ante el Descenso Vacunal
+## La Grieta en el Sistema: El Silencio de la AEP ante el Descenso Vacunal, segun datos recogidos por [Reuters](https://www.reuters.com/)
 
 La Asociación Española de Pediatría (AEP), como principal organismo científico que agrupa a los pediatras en España, tiene la responsabilidad de proporcionar información precisa y actualizada sobre la vacunación. Sin embargo, su respuesta a la controversia generada por Carriedo y al descenso en las tasas de vacunación ha sido percibida como tibia y poco contundente por algunos sectores. Este silencio, o falta de una comunicación más proactiva, puede estar contribuyendo a la confusión y la desconfianza entre los padres.
 

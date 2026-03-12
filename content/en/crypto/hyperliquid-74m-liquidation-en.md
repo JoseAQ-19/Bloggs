@@ -27,7 +27,7 @@ This isn't an isolated incident. Cascading liquidations, where forced sales trig
 
 These events raise serious questions about the risk management mechanisms in place and whether they are sufficient to protect traders. The promise of high returns should not overshadow the potential for catastrophic losses, especially when amplified by extreme leverage.
 
-## Behind the DeFi Facade: Centralization Risks in Hyperliquid's Validator Set
+## Behind the DeFi Facade: Centralization Risks in Hyperliquid's Validator Set, according to [SEC](https://www.sec.gov/)
 
 Hyperliquid's DeFi branding may be a smokescreen for concerning levels of centralization. While it presents itself as a decentralized platform, the reality is that its transaction approvals rely on a two-thirds quorum from its validators. This means that a compromise of just a few validators could lead to significant security breaches.
 

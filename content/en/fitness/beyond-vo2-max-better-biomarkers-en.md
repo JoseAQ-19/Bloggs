@@ -31,7 +31,7 @@ VO2 max, the maximum rate at which your body can consume and use oxygen, provide
 
 This singular focus overlooks other crucial elements that significantly impact endurance performance, particularly for long-distance running. Many athletes, chasing a high VO2 max, neglect the nuances of metabolic efficiency and fatigue resistance that are essential for success in events like ultramarathons. VO2 max doesn't offer the metabolic feedback needed to individualize training for optimal endurance performance.
 
-## Lactate Threshold as a Key Metric: The Hospital for Special Surgery's Stance
+## Lactate Threshold as a Key Metric: The Hospital for Special Surgery's Stance, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 Kate Baird, an exercise physiologist at the Hospital for Special Surgery, champions the lactate threshold as a more practical and valuable metric. She believes that improving lactate threshold is how most people will run farther faster.
 

@@ -25,7 +25,7 @@ The pursuit of a shredded physique often pushes bodybuilders to extremes, and th
 
 In 1992, Mohammed Benaziza died from dehydration and cardiovascular failure after using diuretics. This case is not isolated; Albert Beckles collapsed on stage in 1988 due to diuretic-induced dehydration. Such incidents underscore the potentially fatal consequences of prioritizing aesthetics over health.
 
-## False Promises and Hidden Dangers: The Bodybuilding Industry's Denial
+## False Promises and Hidden Dangers: The Bodybuilding Industry's Denial, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 The bodybuilding supplement industry operates in a gray area, with many products making unsubstantiated claims and masking potentially dangerous ingredients. While the **FDA** and **FTC** monitor dietary supplements, including those marketed for bodybuilding, enforcement struggles to keep pace with the rapidly evolving product landscape. The FTC has a broad mandate to prevent "unfair or deceptive acts or practices", yet many companies continue to promote diuretics, often framing them as harmless physique enhancers.
 

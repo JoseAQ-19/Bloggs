@@ -23,7 +23,7 @@ Healthcare AI chatbots, leveraging transformer models and few-shot learning, are
 
 Problem is, this "miracle" is often a statistical fluke, a local optimum masquerading as global truth. Models are surprisingly good at memorizing those few examples, but generalizing to unseen data? That's where the wheels come off. You're essentially teaching a child to parrot phrases without understanding the underlying concepts; impressive on the surface, useless in the real world. This is nothing but the "Potemkin village" of AI: impressive facades that mask a lack of substance.
 
-## Catastrophic Forgetting: The AI Alzheimer's
+## Catastrophic Forgetting: The AI Alzheimer's, according to [MIT Technology Review](https://www.technologyreview.com/)
 
 Here's the dirty secret: full fine-tuning of these models often leads to catastrophic forgetting, where they unlearn previously acquired knowledge while trying to master the new task [cite: 9]. It's like giving your AI Alzheimer's with every new piece of information. Low-Rank Adaptation (LoRA), a popular technique to mitigate this, isn't a foolproof solution either; it may not always prevent catastrophic forgetting in continual learning scenarios [cite: 10].
 

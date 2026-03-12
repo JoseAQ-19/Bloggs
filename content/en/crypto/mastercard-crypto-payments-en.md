@@ -29,7 +29,7 @@ The company's "Crypto Card" program, launched in partnership with several crypto
 
 What makes this particularly concerning is the asymmetry in regulatory oversight. While banks face stringent capital requirements, consumer protection mandates, and regular stress tests, Mastercard's crypto initiatives currently operate in a regulatory gray area. This regulatory arbitrage allows the company to offer banking-like services without the corresponding regulatory burdens—a significant competitive advantage that traditional institutions cannot match.
 
-## The Regulatory Minefield: Why Visa's Crypto Dreams Might Derail
+## The Regulatory Minefield: Why Visa's Crypto Dreams Might Derail, according to [SEC](https://www.sec.gov/)
 
 While Mastercard aggressively expands its crypto footprint, its primary competitor Visa has encountered significant regulatory resistance that could foreshadow challenges ahead. Visa's 2023 partnership with FTX, ultimately aborted when the exchange collapsed, revealed the inherent risks of crypto adoption by incumbent financial players. More recently, Visa's application to launch a stablecoin product remains in regulatory limbo, with the SEC explicitly questioning whether such initiatives exceed the company's charter as a payment network.
 

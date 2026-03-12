@@ -26,7 +26,7 @@ The past year, especially following the public debut of ChatGPT in November 2022
 
 However, this progress isn't without its limitations. As highlighted in the National Academies of Sciences, Engineering, and Medicine's 2025 report, "Artificial Intelligence and the Future of Work," AI systems today are "imperfect in multiple ways." LLMs can "hallucinate" incorrect answers, exhibit biased behavior, and struggle with logical reasoning. These imperfections raise critical questions about the reliability and trustworthiness of AI systems in high-stakes work environments.
 
-## Productivity Paradox: Gains, But Unevenly Distributed
+## Productivity Paradox: Gains, But Unevenly Distributed, according to [MIT Technology Review](https://www.technologyreview.com/)
 
 The promise of AI lies in its potential to significantly boost productivity. AI's broad applicability to cognitive tasks, coupled with its ability to inspire complementary innovations, suggests a future where workers can accomplish more in less time. However, realizing this potential requires more than just deploying AI systems. It necessitates significant investments in new skills, updated organizational processes, and a fundamental rethinking of how work is structured.
 
@@ -50,6 +50,6 @@ The deployment of AI raises a host of ethical and societal concerns. AI systems 
 
 Governments need to develop the capacity to stay abreast of rapidly evolving AI technologies and to implement policies that promote responsible innovation. This may require the creation of new institutions or the expansion of existing ones. It also requires fostering a public dialogue about the ethical implications of AI and ensuring that diverse perspectives are considered in the development and deployment of AI systems.
 
-## Measuring the Impact: Data-Driven Insights
+## Measuring the Impact: Data-Driven Insights For more insights on this topic, read our analysis on [](/ia/tecnoutopia-fallida-el-sueno-digital-se-convierte/).
 
 A critical challenge in understanding the impact of AI on the job market is the lack of comprehensive data. We need better tools and methods for measuring how and when AI advancements affect the workforce. This includes tracking the types of jobs that are being automated, the skills that are in demand, and the wages that are being paid. Improving our ability to observe and communicate these changes is crucial for helping workers adapt to a changing world. For example, understanding the impact of LLMs on knowledge work or robotics on physical work is crucial.

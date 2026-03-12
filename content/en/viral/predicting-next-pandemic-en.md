@@ -26,7 +26,7 @@ The relentless pursuit of efficiency and yield in agriculture, often lauded by v
 
 The implications are stark: unchecked zoonotic outbreaks can trigger trade disruptions, decimate livestock populations, and cripple agricultural productivity. These disruptions translate directly into financial losses, with yearly economic damage already exceeding USD 120 billion, according to recent estimates. The tech industry, with its increasing forays into AgTech and food supply chain optimization, is especially exposed. Ignoring Han’s findings is akin to building a data center on a known earthquake fault line and skipping the seismic survey.
 
-## The "One Health" Illusion: Why COVID-19 Exposed a $14 Trillion Hole
+## The "One Health" Illusion: Why COVID-19 Exposed a $14 Trillion Hole, according to [Reuters](https://www.reuters.com/)
 
 The "One Health" initiative, championed by organizations like the World Health Organization (WHO), aims to foster collaboration across human, animal, and environmental health sectors to combat such threats. But the COVID-19 pandemic revealed a critical flaw in this approach: its reactive nature and underestimation of systemic risk. The pandemic, a stark reminder of zoonotic disease's devastating potential, resulted in estimated economic losses of around US$ 14 trillion until 2024. This colossal figure underscores the inadequacy of current preventative measures and the peril of solely focusing on immediate human health threats while neglecting the deeper ecological drivers of zoonotic spillover.
 

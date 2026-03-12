@@ -26,7 +26,7 @@ La "contratación de EFOS" no es una anomalía. Es la norma. Se presenta como un
 
 El "pico" de estas contrataciones se alcanzó en 2015, con un ligero descenso hacia 2019. ¿La razón? No es la "liquidación de empresas" ni una "mejora en la detección del SAT". Es la astucia de los criminales de cuello blanco, que simplemente se adaptaron a las nuevas circunstancias y buscaron nuevas formas de ocultar sus fechorías. El SAT no es un aliado, sino un espectador complaciente.
 
-## Clústers de Delito: La Arquitectura Corporativa del Saqueo
+## Clústers de Delito: La Arquitectura Corporativa del Saqueo, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 Los "clústers corporativos interconectados" son la prueba irrefutable de la premeditación. Las empresas fantasma comparten accionistas, administradores, representantes legales e incluso los mismos notarios corruptos. Esto no es "evasión de sanciones", es una burla al sistema judicial. Es la planificación meticulosa de un esquema de saqueo a gran escala. ¿Y las autoridades? Mirando hacia otro lado.
 
@@ -46,7 +46,7 @@ Fortalecer los "mecanismos de transparencia" es una utopía en un país donde la
 
 El marco legal y penal es inútil si no se aplica con rigor. Tipificar la emisión de facturas falsas como crimen organizado es un buen comienzo, pero se necesita voluntad política para desmantelar las redes corporativas y castigar a los verdaderos culpables. Sin embargo, esta voluntad brilla por su ausencia. La corrupción es un negocio demasiado lucrativo para ser abandonado. Los datos de la OCDE **muestran cómo la corrupción afecta el crecimiento económico**, pero a nadie parece importarle.
 
-## Veredicto Final: La Corrupción Triunfa, Una Vez Más
+## Veredicto Final: La Corrupción Triunfa, Una Vez Más Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/el-fin-de-la-tibieza-por-que-la-neutralidad-es-el/).
 
 El "dossier fantasma" de la corrupción en México es un monumento a la impunidad. La opacidad, la impunidad y la colusión son los pilares de este sistema podrido. Combatir las empresas fantasma no es una "necesidad" para el desarrollo económico y social. Es una batalla perdida de antemano.
 

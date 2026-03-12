@@ -29,7 +29,7 @@ La violencia, especialmente la de género, rara vez surge de la nada. A menudo, 
 
 **Por qué es importante.** Reconocer las microexpresiones podría ser una herramienta valiosa, pero no es una panacea. Su utilidad depende de un profundo conocimiento del contexto cultural, el historial individual y la capacidad de distinguir entre una emoción genuina y una máscara social. La falta de este entendimiento, la brecha de la empatía, permite que la violencia se arraigue en Tetuán, alimentada por la invisibilidad del abuso psicológico.
 
-## El Silencio Forzado: Por Qué las Víctimas de Tetuán No Denuncian, Incluso Bajo Amenaza
+## El Silencio Forzado: Por Qué las Víctimas de Tetuán No Denuncian, Incluso Bajo Amenaza, segun datos recogidos por [Reuters](https://www.reuters.com/)
 
 El miedo, la vergüenza y la desconfianza en el sistema judicial son poderosos silenciadores. En Tetuán, como en muchos otros lugares, las víctimas de violencia de género a menudo enfrentan un dilema paralizante: denunciar y arriesgarse a no ser creídas, o callar y prolongar su sufrimiento. Esta decisión, influenciada por factores sociales y económicos, revela una profunda falla en la protección de las víctimas.
 

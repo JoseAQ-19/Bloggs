@@ -27,7 +27,7 @@ Esta perspectiva contrasta fuertemente con el sentimiento generalizado, impulsad
 
 La insistencia de Nuez en la falta de fortaleza del Bitcoin no es una mera opinión, sino una observación basada en el análisis técnico. Los inversores españoles, en particular, deben prestar atención a esta advertencia, ya que el mercado cripto, a pesar de su creciente popularidad, sigue siendo un terreno desconocido para muchos. La promesa de ganancias rápidas y fáciles puede ser tentadora, pero la realidad es que la volatilidad inherente a Bitcoin puede generar pérdidas significativas en cuestión de horas. En marzo de 2024, Bitcoin superó los $73.700, un pico que muchos interpretaron como el inicio de una nueva era dorada.
 
-## MiCA al Rescate... ¿O No?: La Trampa de la Falsa Seguridad
+## MiCA al Rescate... ¿O No?: La Trampa de la Falsa Seguridad, segun datos recogidos por [CoinDesk](https://www.coindesk.com/)
 
 La entrada en vigor del Reglamento sobre Mercados de Criptoactivos (MiCA) en la Unión Europea ha sido presentada como un hito crucial para la legitimación y seguridad del mercado de criptoactivos. Sin embargo, la Comisión Nacional del Mercado de Valores (CNMV) **advierte sobre los "riesgos significativos" de la inversión en cripto**, incluso con la aplicación plena de MiCA a partir del 30 de diciembre de 2024.
 

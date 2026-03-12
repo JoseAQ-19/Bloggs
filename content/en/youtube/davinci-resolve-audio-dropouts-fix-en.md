@@ -23,7 +23,7 @@ Many online tutorials offer vague solutions, attributing the problem to "compute
 
 Why aren't these issues more widely acknowledged and addressed head-on? Why are creators left to fend for themselves in a sea of generic troubleshooting tips? Perhaps it's because the real causes are often buried deep within complex codec specifications and hardware interactions. Or maybe, *just maybe*, it's easier to blame the user than to admit that even industry-standard software has its limitations.
 
-## AV1, Opus, and the Codec Conspiracy: Are Your Files Sabotaging You?
+## AV1, Opus, and the Codec Conspiracy: Are Your Files Sabotaging You?, according to [Social Blade](https://socialblade.com/)
 
 Let's talk codecs. AV1 and Opus are two relatively newer codecs that promise better compression and quality, but they can also be the source of your audio woes in DaVinci Resolve. While AV1 offers better compression, it has a high encoding complexity, making it less ideal as an intermediate format, according to one **analysis**. DaVinci Resolve does not fully support AV1, leading to potential compatibility and playback issues. Opus, designed for efficient audio compression, is also not natively supported, although there have been discussions and feature requests on the **Blackmagic Design forums**. This lack of native support forces Resolve to rely on system codecs or decode the audio during playback which can put a heavy strain on your system.
 

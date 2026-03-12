@@ -20,7 +20,7 @@ Los mercados globales se enfrentan a una paradoja alarmante: mientras los índic
 ### Análisis Comparativo de Fondos y ETFs  
 Para contextualizar este comportamiento divergente, analizamos tres vehículos representativos del mercado europeo:  
 
-*   **Vanguard FTSE Europe UCITS ETF (Dist) (IE00BK5BQT80)**  
+*   [Vanguard](https://investor.vanguard.com/)  
     - Categoría Morningstar: ETF Euro Large Cap  
     - Rendimiento 1 Año: -1.2%  
     - Rendimiento 3 Años anualizado: 6.5%  

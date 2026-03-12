@@ -29,7 +29,7 @@ La clave reside en interpretar correctamente estos indicadores. ¿Son realmente 
 
 La incertidumbre regulatoria, especialmente en el contexto de la implementación de MiCA en España, añade una capa adicional de complejidad. La CNMV está supervisando de cerca el sector, y las empresas que operan sin cumplir con la normativa podrían enfrentarse a sanciones. Este panorama regulatorio incierto podría influir en el sentimiento de los inversores y contribuir a la volatilidad del mercado.
 
-## ETFs al Microscopio: ¿Manipularon Jane Street y BlackRock el Mercado Bitcoin?
+## ETFs al Microscopio: ¿Manipularon Jane Street y BlackRock el Mercado Bitcoin?, segun datos recogidos por [SEC](https://www.sec.gov/)
 
 Los ETFs de Bitcoin han sido aclamados como un hito en la adopción institucional de la criptomoneda. Sin embargo, tras esta fachada de legitimidad, algunos analistas ven posibles sombras de manipulación. Alberto Toribio y Álvaro de María han analizado el cambio de paradigma en el mercado tras la demanda contra Jane Street, sugiriendo una posible manipulación histórica de los precios a través de estos instrumentos financieros.
 

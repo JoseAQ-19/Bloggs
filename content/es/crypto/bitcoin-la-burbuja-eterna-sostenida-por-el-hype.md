@@ -25,7 +25,7 @@ Bitcoin no es el futuro del dinero. Es una pirámide Ponzi glorificada, sostenid
 
 Recordemos los hechos: en 2017, la burbuja explotó con un aumento del 1.887,6%, seguida de un desplome del 83,33%. En 2021, otro subidón y otro colapso. ¿Y aún así, la gente sigue cayendo? La definición misma de locura. Y no olvidemos las ridículas declaraciones de "muerte", registradas unas 477 veces, todas ellas ignoradas por los fanáticos.
 
-## El Síndrome de Estocolmo Cripto: Amando al Verdugo Digital
+## El Síndrome de Estocolmo Cripto: Amando al Verdugo Digital, segun datos recogidos por [CoinDesk](https://www.coindesk.com/)
 
 La psicología detrás de Bitcoin es aún más inquietante. El FOMO (miedo a perderse algo) y el comportamiento gregario son los combustibles de esta hoguera especulativa. Individuos que no entienden ni jota de criptografía se lanzan al vacío, atraídos por promesas vacías de riqueza instantánea. ¿Qué clase de persona sensata invierte en algo que no comprende?
 
@@ -37,7 +37,7 @@ La idea de que Bitcoin es una "burbuja necesaria" para la innovación es un disp
 
 La escasez artificial de Bitcoin, creada mediante los *halvings*, no es más que una táctica de marketing astuta. Satoshi Nakamoto, quienquiera que sea, no era un visionario, sino un genio del *marketing* que supo explotar las debilidades del sistema financiero tradicional.
 
-## El Apocalipsis Ecológico y la Anarquía Regulada: El Verdadero Legado de Bitcoin
+## El Apocalipsis Ecológico y la Anarquía Regulada: El Verdadero Legado de Bitcoin Para profundizar en este tema, consulta nuestro analisis sobre [Bitcoin a 1 Millón: Bit2Me Desvela la Profecía que](/crypto/analisis-bitcoin-precio-halving-2024/).
 
 El verdadero legado de Bitcoin es la devastación ambiental. Su mecanismo de "prueba de trabajo" consume una cantidad obscena de energía, equivalente al consumo anual de países enteros, como Holanda, pero sin generar ningún valor real. Una sola transacción de Bitcoin equivale a 1.218.903 transacciones VISA, según un informe, ¿de verdad necesitamos esto?
 

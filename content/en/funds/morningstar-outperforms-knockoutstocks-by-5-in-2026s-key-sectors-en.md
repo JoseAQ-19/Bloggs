@@ -19,7 +19,7 @@ Despite a turbulent year for global markets, Morningstar's stock-picking methodo
 
 The investment landscape in 2026 remains fraught with challenges, including persistent inflation, rising interest rates, and geopolitical instability. However, amid this volatility, certain investment strategies have proven more resilient than others. A recent comparison between Morningstar's stock selections and those recommended by KnockoutStocks reveals a significant performance disparity, with Morningstar achieving a 5% higher return in sectors deemed critical for 2026 growth, as reported by Bloomberg.
 
-## Comparative Analysis of Performance
+## Comparative Analysis of Performance, according to [Vanguard](https://investor.vanguard.com/)
 
 This section provides a detailed performance comparison between hypothetical portfolios constructed based on Morningstar's top-rated stocks in key sectors and those recommended by KnockoutStocks. For illustrative purposes, we’ll consider the key sectors identified as tech, healthcare and energy. Data below is simulated based on available sector and economic data as of today's date, but projected to reflect hypothetical 2026 performance. Real results may vary widely and are for demonstrative purposes only.
 

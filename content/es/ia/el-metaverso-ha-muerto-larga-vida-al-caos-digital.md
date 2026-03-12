@@ -25,7 +25,7 @@ La obsesión con un metaverso monolítico era un síntoma de la miopía tecnoló
 
 Meta, embriagada con su propio Kool-Aid tecnológico, dilapidó miles de millones en Horizon Worlds, un páramo digital donde la única actividad recurrente es la desolación virtual. La realidad, cruda e innegable, es que nadie quiere pasar su tiempo libre en una versión inferior del mundo real, especialmente cuando esa versión está controlada por el omnipresente Mark Zuckerberg.
 
-## La rebelión de los nichos
+## La rebelión de los nichos, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 Lo que algunos llaman "caos digital" es, en realidad, una explosión de individualidad y autoexpresión. Plataformas como Discord, Reddit y Patreon no son síntomas de fragmentación, sino señales de que la gente está harta de las soluciones genéricas y busca comunidades donde sus intereses específicos sean celebrados. ¿Por qué conformarse con la conversación superficial de Facebook cuando puedes sumergirte en un foro dedicado a la cría de caracoles gigantes africanos o al análisis profundo de la filmografía de Werner Herzog?
 
@@ -41,6 +41,6 @@ La creciente popularidad de la desconexión digital y los productos minimalistas
 
 La teoría del "Internet Muerto," por descabellada que parezca, tiene un punto: gran parte del contenido en línea es ruido generado por bots e intereses corporativos, no por seres humanos reales. **Investigaciones independientes demuestran que el tráfico de bots representa una porción significativa del tráfico web total, aunque la cifra exacta es difícil de determinar**.
 
-## El veredicto: El futuro es híbrido, no virtual
+## El veredicto: El futuro es híbrido, no virtual Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/celular-te-espia-y-le-pagas-por-ello/).
 
 El futuro digital no será un metaverso centralizado, sino un ecosistema diverso y descentralizado de herramientas, plataformas y comunidades. Meta, a pesar de su monumental fracaso, tiene el potencial de jugar un papel importante en este futuro, pero solo si abandona su obsesión con la realidad virtual y se centra en crear herramientas que empoderen a los usuarios en el mundo real. De lo contrario, seguirá siendo un recordatorio costoso de la arrogancia tecnológica.  La descentralización, la utilidad y la conexión humana auténtica son las claves. El resto es pura fantasía.

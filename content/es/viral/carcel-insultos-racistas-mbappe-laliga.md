@@ -29,7 +29,7 @@ La reciente petición de la fiscalía, solicitando un año de cárcel para un af
 
 **Por qué es importante.** La solicitud de prisión en el caso Mbappé podría marcar un antes y un después en la lucha contra el racismo en el fútbol español. Podría sentar un precedente importante para futuras sanciones y enviar un mensaje contundente a los aficionados de que el racismo no tiene cabida en el deporte. Sin embargo, la mera existencia de esta solicitud no garantiza un cambio real en la cultura del fútbol. ¿Es suficiente con castigar a los individuos o es necesario abordar las causas subyacentes del problema?
 
-## El Legado de Vinícius: ¿Un Punto de Inflexión o un Espejismo en LaLiga?
+## El Legado de Vinícius: ¿Un Punto de Inflexión o un Espejismo en LaLiga?, segun datos recogidos por [Reuters](https://www.reuters.com/)
 
 La condena de tres aficionados del Valencia CF en junio de 2024 por abusar racialmente de Vinícius Jr. en mayo de 2023 fue celebrada como un hito en la lucha contra el racismo en el fútbol español. Sin embargo, la persistencia de incidentes racistas, incluyendo el caso Mbappé, plantea serias dudas sobre si esta condena realmente representa un punto de inflexión o simplemente un espejismo en el desierto de la intolerancia. La condena, que incluyó ocho meses de prisión y la prohibición de acceso a estadios durante dos años, parecía indicar una nueva era de tolerancia cero.
 

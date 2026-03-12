@@ -34,7 +34,7 @@ La estrategia para 2026 es una inyección masiva de creadores en cada faceta del
 
 Esta integración no es casualidad. Bob Carney, Vicepresidente Senior de Contenido Social y Digital de la NBA, lo explica sin rodeos: los creadores \"necesitan variedad y entornos diferentes para crear contenido\" debido a su alto volumen de producción. La liga está actuando como un laboratorio gigante de contenido, proporcionando acceso y oportunidades para que estos influencers generen material atractivo para sus audiencias, y de paso, extiendan el alcance de la NBA a territorios inexplorados.
 
-## ¿Estrategia de "Bajo Riesgo" o Desesperación Televisiva?
+## ¿Estrategia de "Bajo Riesgo" o Desesperación Televisiva?, segun datos recogidos por [Social Blade](https://socialblade.com/)
 
 El analista de medios Simon Owens describe esta estrategia como de \"bajo riesgo\" para las ligas deportivas. La NBA, en muchos casos, no paga directamente a los creadores, sino que ofrece acceso VIP como moneda de cambio. El contenido generado (vlogs, clips sociales) no canibaliza la transmisión en vivo, el activo más valioso de la liga. Es, en teoría, marketing gratuito y alcance masivo sin poner en riesgo los derechos televisivos.
 
@@ -42,7 +42,7 @@ Pero la realidad es más compleja. ¿Realmente la NBA no está pagando a estos c
 
 Expertos de la industria señalan que este movimiento es una respuesta directa al declive de la televisión lineal. La NBA intenta \"reinventar\" su evento insignia, midiendo el éxito a través del *engagement* digital y las suscripciones al League Pass (que subieron un 56% interanual durante el fin de semana del All-Star anterior) en lugar de solo por los ratings de TV. Es una admisión implícita de que el modelo tradicional ya no funciona.
 
-## El Espectáculo vs. la Competición: La Crítica de Kevin Durant
+## El Espectáculo vs. la Competición: La Crítica de Kevin Durant Para profundizar en este tema, consulta nuestro analisis sobre [La NBA Reúne a Más de 200 Creadores en el All-Star](/youtube/nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety/).
 
 Aquí es donde entra la controversia. La estrella de la NBA, Kevin Durant, expresó escepticismo sobre si los nuevos formatos y la participación externa realmente solucionarán la percepción de que el All-Star es el \"peor partido que la gente ve\" debido a la falta de defensa e intensidad. No es el único que piensa así.
 

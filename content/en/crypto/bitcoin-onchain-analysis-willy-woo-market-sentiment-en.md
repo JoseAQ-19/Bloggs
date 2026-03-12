@@ -27,7 +27,7 @@ Woo's earlier predictions, based on specific on-chain fractals and indicators, s
 
 The failure of this particular prediction underscores a critical point: market sentiment, macroeconomic factors, and unforeseen events can override even the most sophisticated on-chain models. Are we placing too much faith in the perceived objectivity of blockchain data, while neglecting the more subjective, yet equally powerful, forces that drive market behavior?
 
-## The Echo Chamber: Why Crypto Twitter Missed the Quantum Forest for the Trees
+## The Echo Chamber: Why Crypto Twitter Missed the Quantum Forest for the Trees, according to [SEC](https://www.sec.gov/)
 
 Crypto Twitter, a vibrant and often volatile ecosystem of traders, analysts, and enthusiasts, plays a significant role in shaping market narratives. Constantin Lichti, Endrit Ademi, and Professor Andranik Tumasjan's study revealed that certain crypto influencers who act as opinion leaders on Twitter can significantly impact the Bitcoin discourse. The rapid dissemination of information, both accurate and misleading, can create echo chambers where certain narratives are amplified, while dissenting voices are marginalized.
 

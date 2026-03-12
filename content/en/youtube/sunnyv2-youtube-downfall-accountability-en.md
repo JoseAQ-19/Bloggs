@@ -27,7 +27,7 @@ The loss of 20,000 subscribers in a single week, following a particularly contro
 
 The SunnyV2 situation serves as a stark reminder that audiences are becoming increasingly discerning, demanding accountability from the creators they support. They’re willing to abandon ship at the first sign of ethical compromise. Is this the end of "cancel culture" and the dawn of a more mature, responsible creator economy? Or will the next scandal simply be bigger? The answer depends on whether platforms and creators alike learn from these very public failures.
 
-## Monetization and Misbehavior: YouTube's Tricky Balancing Act
+## Monetization and Misbehavior: YouTube's Tricky Balancing Act, according to [Social Blade](https://socialblade.com/)
 
 The core problem isn't necessarily individual bad actors, but the underlying system that can inadvertently reward questionable behavior. YouTube's algorithm, historically geared towards rewarding short-term engagement metrics, often amplifies sensationalist, controversial content. This creates a challenging incentive structure where creators are pressured to prioritize clicks and views above all else, potentially leading to unethical or harmful content.
 

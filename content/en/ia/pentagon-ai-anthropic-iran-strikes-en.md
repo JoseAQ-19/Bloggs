@@ -27,7 +27,7 @@ Anthropic's CEO, Dario Amodei, insisted on guardrails to prevent the military fr
 
 The idea that a company could dictate the terms of engagement with the world's largest military power is almost laughable. It’s like trying to put a leash on a Rottweiler with dental floss. The military-industrial complex has a long history of bending technology to its will, and AI is unlikely to be any different.
 
-## Hegseth's Unrestricted Demands
+## Hegseth's Unrestricted Demands, according to [MIT Technology Review](https://www.technologyreview.com/)
 
 The Pentagon's desire for "all lawful purposes" use, as demanded by Defense Secretary Pete Hegseth, clashes directly with Anthropic's stated ethical constraints. This wasn't a minor disagreement; it was a fundamental clash of ideologies. Hegseth, a figure known for his hawkish views, essentially told Anthropic to take their ethics and shove it.
 

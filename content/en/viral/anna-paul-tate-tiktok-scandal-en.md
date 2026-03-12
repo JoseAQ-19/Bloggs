@@ -31,7 +31,7 @@ This isn't just about one influencer. It's a symptom of a larger systemic issue:
 
 The pursuit of views and subscribers can often lead to the exploitation of parasocial relationships, with creators blurring the lines between their public persona and private lives. This exploitation can take many forms, from promoting harmful products to engaging in deceptive marketing practices. The pressure to constantly deliver new and exciting content can also take a toll on creators' mental health, leading to burnout and a detachment from reality.
 
-## TikTok's "User Value" Problem
+## TikTok's "User Value" Problem, according to [Reuters](https://www.reuters.com/)
 
 TikTok's algorithm, designed to maximize "user value," has inadvertently created a breeding ground for controversial and often harmful content. This algorithm, while effective at capturing and maintaining user attention, prioritizes engagement metrics over ethical considerations.
 

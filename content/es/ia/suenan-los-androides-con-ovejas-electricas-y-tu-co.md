@@ -25,7 +25,7 @@ El Cyberpunk, lejos de ser una crítica mordaz, se ha convertido en la perfecta 
 
 Los datos demuestran la consolidación de este sistema: las ventas de medios físicos han sufrido un descenso drástico, [con una caída del 80% desde 2008](https://www.statista.com/statistics/190000/us-sales-of-physical-music-formats-since-2000/). ¿Y qué? Esto no es una fatalidad, sino una elección. Hemos renunciado a la propiedad y al control a cambio de la conveniencia. Y lo peor es que nos creemos rebeldes por hacerlo.
 
-## Solarpunk: Ilusiones Verdes para Millonarios
+## Solarpunk: Ilusiones Verdes para Millonarios, segun datos recogidos por [OpenAI](https://openai.com/)
 
 El Solarpunk se presenta como la antítesis del Cyberpunk, una utopía sostenible donde la tecnología y la naturaleza coexisten en armonía. ¡Qué tontería! Es la misma fantasía liberal con un filtro verde. Promete soluciones individuales a problemas sistémicos, un escape tecnológico para la crisis climática que ignora las verdaderas causas: el consumo desmedido y la desigualdad rampante.
 
@@ -37,7 +37,7 @@ Philip K. Dick obsesionado con la empatía como rasgo definitorio de la humanida
 
 La auténtica amenaza no es la simulación de la empatía, sino la obsolescencia de la misma. En un mundo dominado por algoritmos y datos, las emociones son un estorbo, un lastre para la eficiencia. La IA no necesita sentir para tomar decisiones, y pronto nosotros tampoco. **Empresas como OpenAI están avanzando rápidamente en la creación de IAs cada vez más sofisticadas**, y la pregunta no es si superarán la inteligencia humana, sino cuándo.
 
-## La única rebelión posible: Desconectar(nos)
+## La única rebelión posible: Desconectar(nos) Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/neutralidad-cero-la-gran-estafa-de-la-informacion/).
 
 William Gibson se sorprende de que la realidad supere a la ficción. ¡Menuda revelación! El problema no es que la realidad sea extraña, sino que hemos perdido la capacidad de asombrarnos, de indignarnos, de resistir. Nos hemos anestesiado con tecnología y entretenimiento, hemos vendido nuestra alma a cambio de *likes* y *followers*.
 

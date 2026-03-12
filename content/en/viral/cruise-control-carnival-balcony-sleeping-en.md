@@ -27,7 +27,7 @@ Carnival ships accounted for 59% of reported physical assaults on cruise ships s
 
 Is Carnival cutting corners on security to maximize profits? Is the company adequately training its security personnel to handle potential conflicts and de-escalate situations before they turn violent? Are there sufficient resources allocated to monitoring passenger behavior and enforcing rules of conduct? These are critical questions that Carnival must address to regain passenger trust and ensure a safer environment for everyone onboard.
 
-## The Underreported Reality: Questioning Carnival's Narrative
+## The Underreported Reality: Questioning Carnival's Narrative, according to [Reuters](https://www.reuters.com/)
 
 Concerns persist about the accuracy of crime reporting on cruise ships, particularly regarding Carnival Cruise Line's data, raising fears that the true extent of the problem is being masked. The Cruise Vessel Security and Safety Act (CVSSA) of 2010 mandates that cruise lines report certain crimes, but the regulations may not capture the full scope of onboard incidents. The law requires cruise lines to report physical assaults resulting in serious bodily injury, potentially understating the true scope of the problem, as it excludes incidents that do not meet the threshold of "serious bodily injury".
 

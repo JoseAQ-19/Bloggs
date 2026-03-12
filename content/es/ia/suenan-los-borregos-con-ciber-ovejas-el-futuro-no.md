@@ -38,6 +38,6 @@ La verdadera amenaza no es la singularidad, sino la proliferación de algoritmos
 
 Si, contra todo pronóstico, llegamos a crear una IA que se acerque a la conciencia, la pregunta no es qué derechos debería tener, sino cómo evitar que nos destruya. En lugar de inspirarnos en leyes para proteger a los simios, deberíamos estar desarrollando salvaguardias para protegernos de una posible rebelión de las máquinas.
 
-## Conclusión: La IA No Sueña, Nos Manipula
+## Conclusión: La IA No Sueña, Nos Manipula Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/deuda-global-2026-el-subprime-que-nadie-vio-venir/).
 
 La obsesión con la "conciencia artificial" es un error estratégico. Desvía nuestra atención de los peligros reales e inminentes de la IA: la vigilancia masiva, la manipulación algorítmica y la automatización del desempleo. En lugar de preguntarnos si los "borregos" sueñan con "ciber-ovejas", deberíamos estar exigiendo transparencia, responsabilidad y regulación en el desarrollo y despliegue de la IA. La IA no va a soñar, nos va a joder, si no hacemos algo al respecto.

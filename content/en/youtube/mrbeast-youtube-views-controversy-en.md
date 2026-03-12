@@ -27,7 +27,7 @@ MrBeast's channel, a behemoth in the YouTube landscape, commands a staggering 91
 
 The controversy also highlights the power dynamics within the creator economy, where established figures like MrBeast wield immense influence. Pansino's willingness to publicly challenge MrBeast suggests a growing unease among some creators regarding the potential for exploitation and unfair treatment within this system. The long-term impact of this situation on MrBeast's empire and the wider creator community remains to be seen.
 
-## YouTube's Recommendation Engine: The Ethical Algorithmic Shadow of MrBeast's Success
+## YouTube's Recommendation Engine: The Ethical Algorithmic Shadow of MrBeast's Success, according to [Social Blade](https://socialblade.com/)
 
 YouTube's algorithm is the invisible hand that guides viewers to content, and it plays a crucial role in shaping the success of channels like MrBeast's. This algorithm accounts for approximately 70% of a user's recommended videos, making it a powerful force in determining what content gains visibility and traction. While MrBeast has undoubtedly mastered the art of appealing to the algorithm, questions arise about the ethics of algorithmic manipulation and the authenticity of content optimized for maximum reach.
 

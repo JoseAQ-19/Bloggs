@@ -25,7 +25,7 @@ El Gobierno Cubano mantiene un férreo control sobre el acceso a internet, justi
 
 Terianos representa una grieta en el muro de control informativo. No es solo una red, sino un movimiento que desafía la narrativa oficial y busca democratizar el acceso a la información. La paradoja reside en que, mientras el gobierno invierte en tecnología para fortalecer su control, la propia población utiliza esa misma tecnología para subvertirlo. Este pulso entre control y libertad define el panorama digital cubano.
 
-## Funcionamiento de Terianos: Acceso Creativo y Descentralizado
+## Funcionamiento de Terianos: Acceso Creativo y Descentralizado, segun datos recogidos por [Reuters](https://www.reuters.com/)
 
 Terianos funciona como una red mallada, descentralizada y construida por los propios usuarios. A diferencia del internet tradicional, que depende de la infraestructura controlada por ETECSA (Empresa de Telecomunicaciones de Cuba S.A.), Terianos se basa en conexiones inalámbricas ilegales y el intercambio de contenido offline. Los usuarios comparten archivos, aplicaciones y acceso a internet a través de puntos de acceso clandestinos, creando una red paralela que opera al margen de la supervisión estatal. Esta descentralización hace que la red sea difícil de rastrear y controlar, lo que la convierte en una herramienta poderosa para evadir la censura.
 

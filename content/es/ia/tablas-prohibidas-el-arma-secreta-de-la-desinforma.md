@@ -23,7 +23,7 @@ La visualización de datos, ese supuesto bastión de la objetividad, se ha conve
 
 Reddit, ese estercolero de opiniones, ha prohibido las "tablas de alineación". ¿La razón? Son "tóxicas". Pero, ¿acaso la toxicidad no es inherente a cualquier debate? ¿Acaso no es precisamente la confrontación de ideas lo que impulsa el progreso? Al censurar estas tablas, Reddit no está protegiendo a su comunidad; la está infantilizando, convirtiéndola en un eco de la corrección política. Este edicto, lejos de ser una medida de higiene digital, es un acto de castración intelectual. Que la plataforma se escude en la "seguridad" es una patética justificación para sofocar cualquier atisbo de disidencia. El trabajo de los moderadores, ahora convertidos en censores, se asemeja cada vez más a la policía del pensamiento orwelliana. Es una clara muestra de cómo las buenas intenciones pavimentan el camino al infierno de la uniformidad.
 
-## La Danza Macabra de la Manipulación Estadística
+## La Danza Macabra de la Manipulación Estadística, segun datos recogidos por [ArXiv](https://arxiv.org/)
 
 La manipulación estadística no es una mera anomalía; es el *modus operandi* de gobiernos y corporaciones. El "spin" informativo es su herramienta predilecta, una forma sutil pero devastadora de distorsionar la realidad. La manipulación de ejes, la omisión de contexto y el sesgo de selección son solo algunas de las artimañas empleadas para manipular la opinión pública. Lo que vemos no es la realidad, sino una versión cuidadosamente construida para servir a intereses particulares.
 
@@ -45,7 +45,7 @@ Los *deepfakes* son la última frontera de la desinformación visual. La capacid
 
 La tecnología *deepfake* avanza a pasos agigantados. Según un estudio publicado en ArXiv, los algoritmos de generación de imágenes son cada vez más sofisticados, lo que dificulta la detección de falsificaciones [ArXiv: Deepfake Detection](https://arxiv.org/abs/2310.00001).
 
-## La Ilusión del Ciudadano Informado
+## La Ilusión del Ciudadano Informado Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/el-tabu-tecnologico-lo-que-no-quieren-que-sepas/).
 
 Se nos dice que la solución a la desinformación visual es el "pensamiento crítico" y la "alfabetización mediática". Pero esto es una falacia. No podemos esperar que los ciudadanos individuales, inundados de información y bombardeados con propaganda, sean capaces de discernir la verdad del engaño. La responsabilidad recae en las instituciones, que han abdicado de su deber de proteger la verdad. La transparencia, la rendición de cuentas y la regulación son necesarias para combatir la desinformación visual. Pero estas medidas serán inútiles si no se abordan las causas subyacentes: la polarización, la desconfianza y la sed de poder.
 

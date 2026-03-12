@@ -27,7 +27,7 @@ What we're witnessing here represents a dangerous double standard. While Radclif
 
 The physiological reality is that sustainable body recomposition—losing fat while gaining or maintaining muscle—occurs at approximately 0.5-1% of body weight per week. Radcliffe's estimated 15-pound weight loss, assuming he maintained muscle mass, would require at least 15-30 weeks of consistent training and nutrition. Yet the media narrative suggests pharmaceutical shortcuts, fundamentally misunderstanding the biological processes governing human metabolism. This creates unrealistic expectations not just for celebrities, but for everyday people who then chase pharmaceutical solutions instead of implementing evidence-based lifestyle interventions.
 
-## Ozempic's Allure: Why 22% of Americans Are Chasing the Quick Fix
+## Ozempic's Allure: Why 22% of Americans Are Chasing the Quick Fix, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 The pharmaceutical industry has masterfully positioned GLP-1 agonists like Ozempic as miracle weight loss drugs, but the underlying mechanism explains both their effectiveness and limitations. These medications work by mimicking glucagon-like peptide-1, a natural hormone that slows gastric emptying, increases satiety through hypothalamic receptors, and enhances insulin secretion. The result: caloric intake reduction without conscious diet restriction. However, this mechanism comes with significant physiological trade-offs that the marketing rarely emphasizes.
 

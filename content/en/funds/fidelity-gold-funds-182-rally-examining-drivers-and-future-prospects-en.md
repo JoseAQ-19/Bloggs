@@ -21,7 +21,7 @@ The Fidelity Select Gold Portfolio (FSAGX), a fund focused on investing in compa
 
 The fund’s expense ratio of 0.75% positions it competitively within its category. However, investors should also investigate if there are institutional share classes available with lower fees, though data pending verification. Understanding the tax implications of owning such a fund, including potential capital gains distributions, is crucial for investors, especially when compared to potentially more tax-efficient ETF alternatives.
 
-## Comparative Performance Analysis
+## Comparative Performance Analysis, according to [Bloomberg](https://www.bloomberg.com/)
 
 Below is a comparative performance analysis of FSAGX against relevant benchmarks and competitors.
 

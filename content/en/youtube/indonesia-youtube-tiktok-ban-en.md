@@ -29,7 +29,7 @@ YouTube claims its main platform is for ages 13+, yet most children between 6 an
 
 The business case for YouTube's approach is fundamentally broken when examined through a developmental lens. The platform's executives cannot simultaneously claim to be committed to child welfare while collecting 72 million data points per child by age 13 to optimize ad delivery. This data harvesting enables predictive behavioral modeling that manipulates children into watching more content than is healthy for their development. The economic incentive structure rewards keeping children in front of screens longer, directly contradicting YouTube's stated commitment to child safety.
 
-## The Algorithm's Hidden Hand: Why YouTube's Defenses Fall Short
+## The Algorithm's Hidden Hand: Why YouTube's Defenses Fall Short, according to [Social Blade](https://socialblade.com/)
 
 YouTube's corporate narrative about protecting children dissolves under scrutiny of its algorithmic architecture. The platform's algorithm controls 70% of what children watch, creating a self-reinforcing system that increasingly serves problematic content. This isn't an accident but the logical outcome of an optimization system designed to maximize watch time regardless of content quality. YouTube's defenses fail because they address symptoms rather than the core business incentive structure that encourages the algorithm to push children toward more extreme content over time.
 

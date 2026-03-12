@@ -27,7 +27,7 @@ This isn't merely a theoretical risk. The **FTC has increased regulatory scrutin
 
 The FTC's increased scrutiny underscores the vulnerability of user data within the wearable ecosystem. The expansion of the Health Breach Notification Rule means that even seemingly innocuous fitness apps are now subject to stricter regulations regarding data breaches. This heightened regulatory environment should serve as a wake-up call for both consumers and developers, emphasizing the need for greater vigilance in protecting personal health information. The fact that the FTC is stepping up its oversight suggests that current data privacy practices may not be adequate to safeguard user data in the rapidly expanding wearable technology market.
 
-## Apple's Watch Problem: The Data Silos Dilemma
+## Apple's Watch Problem: The Data Silos Dilemma, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 While individual device security is crucial, a broader challenge lies in the lack of interoperability between different platforms. Apple, for example, known for its walled-garden approach, often makes it difficult to seamlessly integrate data from its Watch with other fitness ecosystems. This creates data silos, hindering a holistic view of one's health and fitness journey.
 

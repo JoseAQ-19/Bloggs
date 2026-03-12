@@ -27,7 +27,7 @@ The Long-Term Holder True Cost Basis represents the average purchase price of Bi
 
 The appeal of gold as a safe-haven asset is strengthening, drawing capital away from riskier assets like Bitcoin. As gold reaches $4,700 per ounce and silver nears $94, the allure of these traditional safe havens is eclipsing Bitcoin, placing downward pressure on its price, **according to Investing.com Canada**. Gold's historical role as a store of value during economic turmoil and inflationary periods continues to attract investors seeking stability, particularly as traditional markets face volatility and uncertainty. The confluence of Bitcoin's technical weakness and gold's safe-haven appeal creates a challenging environment for the cryptocurrency.
 
-## The "New Cohort" Paradox: How Fidelity's Investors Could Trigger Bitcoin's Downfall
+## The "New Cohort" Paradox: How Fidelity's Investors Could Trigger Bitcoin's Downfall, according to [SEC](https://www.sec.gov/)
 
 While the influx of institutional investors into the crypto space is often touted as a sign of maturation and stability, a closer examination reveals potential pitfalls that could actually increase volatility and selling pressure. Kuiper from Fidelity Investments highlights a "shift to an entirely new cohort and class of investors," indicating more traditional money flowing into crypto, **according to Fidelity Investments**. However, this shift could also increase the correlation between Bitcoin and traditional markets, subjecting it to the same risk-off sentiment that affects equities and other asset classes during economic downturns.
 

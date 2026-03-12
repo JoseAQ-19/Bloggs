@@ -23,7 +23,7 @@ translationKey: "b1fbeaba-b2b1-73dd-2818-380aefb52343"
 
 La narrativa de Bitcoin como "oro digital" es un cuento chino. Economistas serios lo han dicho hasta la saciedad: el valor fundamental de Bitcoin se aproxima peligrosamente a cero. ¿Por qué? Porque su precio está divorciado de la realidad, inflado por la especulación pura y dura. [Investigaciones académicas](https://www.nber.org/papers/w30371) demuestran que su valor se basa en la creencia de que seguirá subiendo, no en una utilidad real. Simple y llanamente, es la "teoría del más tonto" elevada al cubo.
 
-## La volatilidad: síntoma de una burbuja
+## La volatilidad: síntoma de una burbuja, segun datos recogidos por [SEC](https://www.sec.gov/)
 
 ¿Un activo que fluctúa cinco veces más que el NASDAQ? ¡Eso no es un refugio seguro, es una ruleta rusa! La extrema volatilidad de Bitcoin no es una característica, sino un defecto fatal. Señala una burbuja especulativa, inflada por el miedo a quedarse fuera y la codicia desenfrenada. Comparemos: el precio de Bitcoin subió un 60% en el primer trimestre de 2023, mientras que el oro apenas varió un 5%. ¿Quién sigue pensando que esto es una inversión seria?
 
@@ -51,7 +51,7 @@ La historia de Bitcoin está plagada de colapsos y robos. El caso de Mt. Gox, qu
 
 El mercado de Bitcoin se basa en la esperanza de que siempre habrá un "tonto" dispuesto a pagar más. Esto alimenta la volatilidad y el precio, creando ciclos de retroalimentación que inflan la burbuja hasta su inevitable explosión. ¿Quién será el último en quedarse con la patata caliente?
 
-## El riesgo sistémico: una bomba de relojería
+## El riesgo sistémico: una bomba de relojería Para profundizar en este tema, consulta nuestro analisis sobre [Bitcoin a 1 Millón: Bit2Me Desvela la Profecía que](/crypto/analisis-bitcoin-precio-halving-2024/).
 
 Las criptomonedas facilitan la evasión de sanciones y controles de capital, lo que ha llevado a países como China a prohibirlas. La manipulación del precio por parte de Tether representa un riesgo sistémico real. Si se pierde la confianza en la "stablecoin", el ecosistema cripto entero podría colapsar.
 

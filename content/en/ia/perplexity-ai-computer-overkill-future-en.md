@@ -27,7 +27,7 @@ The allure of Perplexity AI lies in its promise of concise, source-backed answer
 
 Google's dominance in search is built on a foundation of habit and ubiquity. Breaking that requires more than just a better algorithm; it requires a fundamental shift in user behavior. Whether Perplexity AI can achieve that remains to be seen, but its rapid growth suggests a genuine appetite for an alternative.
 
-## Why Gartner's 80% AI Adoption Rate Hides a Looming Security Nightmare
+## Why Gartner's 80% AI Adoption Rate Hides a Looming Security Nightmare, according to [MIT Technology Review](https://www.technologyreview.com/)
 
 Gartner's prediction that over 80% of companies will deploy AI-enabled applications by the end of 2026 sounds like a boom, but it's a potential ticking time bomb. That figure, up from just 5% in 2023, masks a looming security nightmare. The rush to integrate AI into every facet of business is outpacing the development of robust security protocols, leaving organizations vulnerable.
 

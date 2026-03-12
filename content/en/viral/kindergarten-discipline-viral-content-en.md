@@ -30,7 +30,7 @@ The fallout from the Illuminate Education breach was far-reaching. Parents were 
 
 This incident should serve as a wake-up call for schools and parents alike. We must demand greater transparency and accountability from EdTech vendors and insist on robust data security measures to protect our children's privacy. The era of blindly trusting schools with our data must end; active vigilance is now the price of security. The data breach also brought to light the company's failure to implement reasonable security measures, leading to FTC action.
 
-## The Racial Divide Widens: How Kindergarten Discipline Policies Fail Black Students
+## The Racial Divide Widens: How Kindergarten Discipline Policies Fail Black Students, according to [Reuters](https://www.reuters.com/)
 
 The classroom, ostensibly a place of learning and growth, can also be a site of systemic inequity, particularly when it comes to disciplinary practices. National research indicates that between one-third and one-half of students experience at least one suspension between kindergarten and 12th grade, a statistic that highlights the pervasive nature of exclusionary discipline in American schools. However, the burden of these disciplinary measures falls disproportionately on Black students, who face a significantly higher risk of out-of-school suspension.
 

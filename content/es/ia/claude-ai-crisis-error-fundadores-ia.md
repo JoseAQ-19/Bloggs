@@ -27,7 +27,7 @@ La pregunta que surge de inmediato es: ¿por qué la IA parece tan inclinada a l
 
 La perspectiva de que la IA tome decisiones sobre el uso de armas nucleares debería generar un debate público urgente. No podemos permitir que estos sistemas operen en una caja negra, sin una supervisión adecuada ni una comprensión clara de sus procesos de toma de decisiones. La transparencia y la rendición de cuentas son esenciales para garantizar que la IA se utilice de manera responsable y segura, especialmente en áreas donde las consecuencias de un error podrían ser catastróficas.
 
-## Sesgos Ocultos: Cómo la "Constitutional AI" de Claude Refleja un Mundo Anglocéntrico
+## Sesgos Ocultos: Cómo la "Constitutional AI" de Claude Refleja un Mundo Anglocéntrico, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 Aunque Claude se promociona como un modelo de IA con un fuerte enfoque en la ética y la seguridad, incluso su "Constitutional AI" no está exenta de sesgos. El concepto de "Constitutional AI" busca inculcar valores y principios en los sistemas de IA para prevenir transgresiones, como señaló Victoria Hurtado, directora de MicroSystem SA **Noticias Prensa Latina - Inteligencia Artificial: Claude se mete en la competencia con énfasis en ética y seguridad**. Sin embargo, la propia constitución que guía a Claude puede estar imbuida de una perspectiva anglocéntrica, como sugiere la investigación de Catalina Bernal, subdirectora de minería de datos en Quantil y profesora de la Universidad de Los Andes **EL PAÍS - Género, racismo y xenofobia: así son los sesgos de la Inteligencia Artificial en Latinoamérica**.
 

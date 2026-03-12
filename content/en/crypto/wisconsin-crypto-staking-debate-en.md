@@ -33,7 +33,7 @@ Lorenzo Cruz, Vice President of Government Relations for the Wisconsin Bankers A
 
 The legislative process will likely involve extensive hearings and expert testimony from both the crypto industry and traditional finance sectors. Neylon faces the challenge of building bipartisan support while addressing legitimate concerns about consumer protection—a balancing act that will determine whether Wisconsin becomes a crypto-friendly state or remains mired in regulatory uncertainty.
 
-## The GENIUS Act Paradox: How a Loophole Could Let Crypto Firms Steal Community Banks' Lunch
+## The GENIUS Act Paradox: How a Loophole Could Let Crypto Firms Steal Community Banks' Lunch, according to [SEC](https://www.sec.gov/)
 
 The GENIUS Act, designed to provide regulatory clarity for community banks entering the digital asset space, contains a critical loophole that could inadvertently empower crypto firms to bypass interest restrictions on payment stablecoins. This paradoxical outcome threatens to undermine the very banks the legislation aims to protect, potentially reversing decades of banking sector development in Wisconsin and nationwide.
 

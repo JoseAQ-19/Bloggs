@@ -52,7 +52,7 @@ So, what went wrong? It wasn't simply a matter of poor execution. Several underl
 
 An academic study from Chulalongkorn University further highlights the speculative nature of virtual real estate. The study found a correlation exceeding 0.96 between the prices of virtual land and the prices of cryptocurrencies. This suggests that virtual land values were not based on intrinsic worth or potential applications, but were instead heavily influenced by the speculative fervor surrounding crypto assets. The researchers concluded that cryptocurrency prices "caused" land prices, confirming that it was a bubble fueled by excessive crypto wealth and fear of missing out (FOMO). This echoes historical precedents like the Florida land boom of the 1920s, where speculative investment drove up prices to unsustainable levels before the inevitable crash.
 
-## Meta's Strategic Errors and the "Emptyverse"
+## Meta's Strategic Errors and the "Emptyverse", according to [MIT Technology Review](https://www.technologyreview.com/)
 
 Beyond the broader market forces, Meta made strategic missteps. The timing of their aggressive Metaverse push coincided with the waning of the COVID-19 pandemic. People were eager to escape their homes and reconnect with the physical world, not immerse themselves further in digital environments. Furthermore, Meta created an "Emptyverse" filled with hollow corporate activations instead of fostering vibrant communities like those found on platforms such as Roblox. They prioritized hype over user experience, and the result was a barren digital landscape that failed to capture the imagination of the masses.
 
@@ -90,6 +90,6 @@ Ultimately, the success of XR technologies will depend on their ability to provi
 
 To foster a more inclusive and accessible Metaverse, developers need to consider the needs of users with disabilities. This includes providing alternative input methods, customizable interfaces, and support for assistive technologies. The Metaverse should be a place where everyone can participate, regardless of their physical or cognitive abilities.
 
-## The Path Forward: From Speculation to Real-World Utility
+## The Path Forward: From Speculation to Real-World Utility For more insights on this topic, read our analysis on [AI Is Lying to You: Why Artificial Personality Is ](/ia/la-ia-te-miente-por-que-la-personalidad-artificial/).
 
 The Metaverse bubble may have burst, but the underlying technologies have the potential to transform the way we live, work, and interact with the world. By shifting the focus from speculation to utility, and by prioritizing user experience over hype, we can build a more sustainable and meaningful future for extended reality. The key is to learn from the mistakes of the past and to build a future where technology serves humanity, rather than the other way around. The promise of immersive digital experiences remains, but it must be built on a foundation of real value and genuine connection. The future of the Metaverse hinges on its ability to deliver tangible benefits to users and to create a more connected, collaborative, and equitable world.

@@ -27,7 +27,7 @@ The unnamed former employee alleged that the MrBeast team places a significant e
 
 It's no secret that MrBeast's videos are meticulously crafted to be highly engaging. The rapid cuts, the over-the-top challenges, the constant giveaways, and the exaggerated reactions are all designed to hold the viewer's attention. But the question now being raised is whether this pursuit of engagement crosses an ethical line when it comes to children. Are MrBeast's videos simply harmless entertainment, or are they subtly exploiting the vulnerabilities of young minds for financial gain? This situation prompts deeper consideration of the ethics of online content creation and its potential impact on children.
 
-## The YouTube Mirage: $100 Billion Payouts Mask Creator Exploitation
+## The YouTube Mirage: $100 Billion Payouts Mask Creator Exploitation, according to [Social Blade](https://socialblade.com/)
 
 YouTube proudly proclaims that it has paid out over $100 billion to creators, artists, and media companies worldwide since 2021. While this figure is undoubtedly impressive, it masks a stark reality: the vast majority of creators struggle to make a living on the platform. The bulk of this money flows to a small elite of "superstar" creators like MrBeast, leaving countless others toiling in obscurity, chasing the algorithm and struggling to monetize their content. This disparity raises questions about the fairness of YouTube's reward system and the sustainability of the creator economy.
 

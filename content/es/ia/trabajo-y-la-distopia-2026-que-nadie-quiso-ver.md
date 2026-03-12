@@ -25,7 +25,7 @@ Los políticos, con la complicidad de los medios, nos venden la moto de un desem
 
 La productividad, antaño el motor del progreso, se ha convertido en un lastre. Se pronostica un raquítico crecimiento global del 2,0% para 2026. ¿Y a quién beneficia? A los de siempre: a los que ya lo tienen todo. Este estancamiento no es una anomalía; es la prueba irrefutable de que el sistema está roto, de que el crecimiento económico es un fraude para la mayoría.
 
-## IA: ¿Salvación o Condena? La Trampa Está Servida
+## IA: ¿Salvación o Condena? La Trampa Está Servida, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 La inteligencia artificial, esa supuesta herramienta para liberarnos del trabajo alienante, es en realidad la soga con la que nos ahorcaremos.
 
@@ -55,7 +55,7 @@ La distopía laboral se manifiesta en la polarización generacional y geográfic
 
 Un mercado laboral dual se consolida: un ecosistema tecnológico para la élite y un mar de PYMEs obsoletas para el resto. Las crisis climáticas, como la DANA de 2024, exponen la fragilidad del sistema. La paralización de la logística y la necesidad de reconstrucción revelan la escasez de mano de obra técnica.
 
-## El Juicio Final: Un Futuro Que Debemos Incendiar
+## El Juicio Final: Un Futuro Que Debemos Incendiar Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/el-mito-del-mesias-digital-como-silicon-valley-te/).
 
 La distopía laboral no es un destino inevitable; es el resultado de decisiones políticas que priorizan el beneficio inmediato sobre el bienestar colectivo. La promesa de la tecnología liberadora se ha convertido en su opuesto: la IA avanza a velocidad vertiginosa, mientras las regulaciones, la educación y los derechos laborales se arrastran a la zaga. Si no renegociamos el contrato social para redistribuir los frutos de la IA, la brecha entre la élite tecnológica y la "masa del subsuelo" se volverá irreversible. No habrá redención.
 

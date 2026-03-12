@@ -25,7 +25,7 @@ La infame industria de intermediarios de datos (data brokers) no es un "gigante 
 
 Estos datos no son "más valiosos que el petróleo"; son más peligrosos que el uranio enriquecido. Transformados en "productos de predicción", se subastan en mercados de futuros de comportamiento. Anunciantes, aseguradoras y, lo más siniestro, agencias gubernamentales, luchan por predecir tus acciones y, lo que es peor, programarlas.
 
-## Asistentes de Voz: Espías en tu Salón
+## Asistentes de Voz: Espías en tu Salón, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 Siri, Alexa, Google Assistant. No son "asistentes", son troyanos diseñados para infiltrarse en tu hogar. Bajo la fachada de "simplificar tu vida", operan bajo un modelo de escucha activa perpetua. Los supuestos "falsos positivos" son simplemente la admisión tácita de que te están grabando constantemente.
 
@@ -49,7 +49,7 @@ El marketing impulsado por la IA no es "persuasión", es control mental. Estos s
 
 Tyler J. Horan, investigador, señala que los usuarios realizan "trabajo digital" no remunerado que enriquece a las plataformas. No se trata de pedir una "parte de los ingresos"; se trata de exigir la propiedad de nuestros datos y castigar a quienes nos explotan.
 
-## El Peligro Real: Discriminación y el Fin de la Libertad
+## El Peligro Real: Discriminación y el Fin de la Libertad Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/tecno-apocalipsis-asi-la-ia-revivio-la-bomba-atomi/).
 
 La vigilancia masiva no es una teoría abstracta, es una realidad distópica. Los algoritmos de marketing perpetúan sesgos, como cuando Facebook discriminaba en anuncios de empleo y vivienda. Esto no es un error; es una herramienta para mantener el statu quo.
 

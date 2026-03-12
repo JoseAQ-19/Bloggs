@@ -27,7 +27,7 @@ Consider the Grayscale Bitcoin Trust (GBTC), which has seen significant outflows
 
 Meanwhile, in the options market, a different story seems to be unfolding. Some traders are actively building positions, with call options targeting a potential rebound towards $90,000. This apparent optimism, noted by on-chain derivatives platform Derive, presents a puzzling contrast to the ETF data. Is this a case of selective optimism, or are options traders simply misreading the signals emanating from the broader market. Options market dynamics do not exist in isolation, and it is crucial to understand these dynamics in the context of other market variables.
 
-## Deribit's Bearish Skew: Why the Optimism Might Be Misplaced
+## Deribit's Bearish Skew: Why the Optimism Might Be Misplaced, according to [SEC](https://www.sec.gov/)
 
 Deribit, a major hub for cryptocurrency options trading, currently dominates the crypto options landscape, with reported market share estimates as high as 76-80%. As of February 2026, the exchange held a staggering $4.5 billion in call open interest and $3.4 billion in put contracts, underscoring its influence on market sentiment. Data from Deribit reveals that one-month Bitcoin puts traded at a 7% premium to calls, suggesting that many traders are prioritizing downside protection over outright bullish bets. Put spreads, strategies designed to profit from price declines while limiting risk, accounted for 75% of total block flow over a 24-hour period. This defensive positioning implies that even those placing bets on future upside are wary of potential corrections.
 

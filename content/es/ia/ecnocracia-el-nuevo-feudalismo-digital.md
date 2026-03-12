@@ -53,6 +53,6 @@ Además, los algoritmos son armas de destrucción masiva.  Perpetúan las desigu
 
 La nacionalización solo crearía monstruos burocráticos aún más ineficientes. La "movilización en la nube" es una fantasía utópica. Y la idea de construir infraestructuras públicas a escala global es una quimera inalcanzable. [La Unión Europea ha intentado impulsar proyectos similares con resultados mediocres](https://ec.europa.eu/commission/presscorner/detail/en/IP_23_4087).
 
-## Veredicto Final: La Rebelión es la Única Opción
+## Veredicto Final: La Rebelión es la Única Opción Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/el-dossier-fantasma-cuando-la-opacidad-es-la-estra/).
 
 El tecnofeudalismo no es una teoría, es la realidad. Nos enfrentamos a un futuro donde la libertad individual y la democracia liberal son meras fachadas, mientras que las decisiones cruciales sobre comunicación, comercio y deseo son dictadas por algoritmos opacos controlados por unos pocos. Olvídate de nacionalizaciones y movilizaciones ingenuas. La única salida es una rebelión digital, una insurrección contra los señores feudales de la nube. O luchamos, o nos convertimos en siervos para siempre. [Quizás sea hora de volver a las ideas de la criptoanarquía](https://www.activism.net/cypherpunk/manifesto.html). La revolución no será transmitida en streaming.

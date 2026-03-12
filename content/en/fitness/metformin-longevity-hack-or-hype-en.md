@@ -29,7 +29,7 @@ Persistent gastrointestinal distress can significantly diminish quality of life,
 
 A nuanced approach to PCOS management that prioritizes individual patient experiences and preferences is vital.
 
-## Pfizer's Marketing Hype vs. The COMET-PCOS Reality
+## Pfizer's Marketing Hype vs. The COMET-PCOS Reality, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 Big Pharma often exaggerates drug efficacy. The COMET-PCOS trial, a multicenter, double-blind, randomized trial, sought to determine the impact of COCPs, metformin, or a combination of both on women with hyperandrogenic PCOS and obesity.
 

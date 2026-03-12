@@ -27,7 +27,7 @@ LazarBeam's candid admission underscores the financial tightrope that creators w
 
 The implicit "profanity tax" reveals how YouTube's monetization policies, intended to protect advertisers, can disproportionately impact creators who built their audience on more unfiltered content. How many other creators have suffered silently from similar financial setbacks, forced to choose between their artistic voice and their financial stability.
 
-## Demonetization Dystopia: How "Family Friendly" Crushes Creativity
+## Demonetization Dystopia: How "Family Friendly" Crushes Creativity, according to [Social Blade](https://socialblade.com/)
 
 The pursuit of a "family-friendly" image has led YouTube down a path of increasingly restrictive content moderation. This often stifles creativity and penalizes creators for content that, while not inherently harmful, doesn't align with the platform's narrowly defined guidelines. In 2020, LazarBeam preemptively deleted 500 million views worth of content to avoid potential bans due to violations of YouTube's child safety norms.
 

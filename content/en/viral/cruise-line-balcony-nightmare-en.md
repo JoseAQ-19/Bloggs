@@ -28,7 +28,7 @@ What's particularly revealing is how cruise lines treat overboard incidents as p
 
 The economic incentives are clear. For every $100 million in cruise ticket sales, the industry saves approximately $1 million by avoiding detection system installation. This money flows directly to shareholder returns rather than passenger safety. When viewed through the lens of behavioral economics, this becomes less about cost-cutting and more about calculated risk assessment—where the cost of occasional tragic incidents is cheaper than universal prevention.
 
-## Carnival's Alcohol-Fueled Denial: Why Cruise Lines Avoid Blame
+## Carnival's Alcohol-Fueled Denial: Why Cruise Lines Avoid Blame, according to [Reuters](https://www.reuters.com/)
 
 The cruise industry's business model fundamentally conflicts with passenger safety when it comes to alcohol consumption. With all-you-can-drink packages generating significant revenue streams—sometimes accounting for up to 15% of onboard profits—cruise lines have little incentive to acknowledge the 60-80% correlation between alcohol intoxication and overboard incidents. **Kherkher Garcia** has documented how this financial incentive creates a dangerous feedback loop where cruise lines profit from the very behavior that leads to overboard incidents.
 

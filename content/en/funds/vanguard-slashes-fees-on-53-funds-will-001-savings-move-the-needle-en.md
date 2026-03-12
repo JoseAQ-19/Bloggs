@@ -19,11 +19,11 @@ Vanguard's recent fee cuts, affecting 53 funds, translate to a minuscule 0.01% r
 
 Vanguard, known for its low-cost investment options, has implemented small but broad-based fee reductions. While seemingly insignificant individually, these changes impact a large swath of investors due to Vanguard's massive assets under management. The funds affected include both index funds and ETFs, further expanding the reach of these fee cuts.
 
-## Comparative Fund Analysis
+## Comparative Fund Analysis, according to [Vanguard](https://investor.vanguard.com/)
 
 Below is a comparative analysis of several Vanguard funds, illustrating performance metrics and expense ratios. Note that specific funds impacted by the 0.01% fee reduction may not show dramatic changes in the data immediately, but the overall trend reflects Vanguard's commitment to low costs.
 
-*   **Vanguard Total Stock Market Index Fund ETF (VTI)**, Morningstar Category: Large Blend, Rating: 5 stars
+*   [Vanguard](https://investor.vanguard.com/), Morningstar Category: Large Blend, Rating: 5 stars
     *   1 Year Return: 28.4%
     *   3 Year Return (Annualized): 9.8%
     *   5 Year Return (Annualized): 11.7%

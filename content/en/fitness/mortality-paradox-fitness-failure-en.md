@@ -29,7 +29,7 @@ The pressure cooker environment of constant content creation and audience engage
 
 Consider Jaxon Tippet's story—a 30-year-old fitness influencer who died unexpectedly from an apparent heart attack shortly after his birthday, after previously battling steroid use. And Tracy Robert, a personal trainer diagnosed with late-stage colon cancer despite maintaining a supposedly healthy lifestyle. These cases reveal the fundamental flaw in equating social media popularity with health expertise.
 
-## Algorithmic Amplification: The Credential Crisis in Digital Fitness
+## Algorithmic Amplification: The Credential Crisis in Digital Fitness, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 The fitness influencer ecosystem suffers from a catastrophic credential crisis. Less than 20% of fitness-related influencers sampled reported having any professional qualifications to provide health advice. This creates a perfect storm where the most popular voices often have the least expertise. Instagram's algorithm doesn't filter for knowledge; it amplifies engagement. Controversy, extreme claims, and visually dramatic transformations generate more likes and shares than nuanced, evidence-based recommendations.
 

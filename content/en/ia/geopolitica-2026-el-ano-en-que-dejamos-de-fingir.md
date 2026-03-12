@@ -21,7 +21,7 @@ The prevailing narrative from institutions like CIDOB suggests 2026 will be defi
 
 The question isn't whether this is a good or bad thing, but rather how to navigate it. Which nations will thrive by exploiting the chaos, which will resist, and which will be left behind, lacking the resources or leadership to adapt?
 
-## The New Realities: Power, Profit, and Violence
+## The New Realities: Power, Profit, and Violence, according to [MIT Technology Review](https://www.technologyreview.com/)
 
 Several key trends will intensify this year:
 
@@ -73,7 +73,7 @@ Eduardo Turrent Mena underscores the critical strategies of key nations in this 
 
 **India:** India will strive to be a pivotal, non-aligned player. It will cooperate with the United States on security and technology while maintaining ties with Russia for energy and defense. India's goal is to maximize its options and avoid irreversible commitments, positioning itself for negotiation and leverage in a rapidly changing world.
 
-## The Erosion of Trust: A Dangerous World
+## The Erosion of Trust: A Dangerous World For more insights on this topic, read our analysis on [70% Of AI Projects Fail: Is Silicon Valley's AI Ob](/ia/ai-tool-sprawl-productivity-paradox-en/).
 
 The breakdown of international norms and the rise of unilateralism will lead to a decline in trust between nations. This will make it more difficult to resolve conflicts peacefully and could lead to a spiral of escalation.
 

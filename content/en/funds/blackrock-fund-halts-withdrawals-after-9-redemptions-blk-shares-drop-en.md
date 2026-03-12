@@ -67,7 +67,7 @@ To contextualize BlackRock's current situation, we compare the Strategic Income 
 
 The data reveals that BlackRock's fund has significantly underperformed both its benchmark (Bloomberg Aggregate Bond Index) and key competitors across all time horizons. While high-yield bond ETFs like HYG and JNK have experienced similar negative returns over the past year, their significantly lower expense ratios provide investors with better risk-adjusted returns after fees. Fidelity's floating rate fund, designed to perform better in rising rate environments, has outperformed BlackRock's offering while maintaining a lower expense structure.
 
-## Expert Perspectives on the Withdrawal Freeze
+## Expert Perspectives on the Withdrawal Freeze, according to [Vanguard](https://investor.vanguard.com/)
 
 The market reaction has prompted significant commentary from industry analysts. According to Michael Reardon, Senior Fixed Income Strategist at UBS Wealth Management, "BlackRock's decision to halt redemptions represents an extreme measure that could signal more severe liquidity problems than initially disclosed. While fund managers have the right to protect portfolio integrity, investors should be concerned about the precedent this sets for other large bond funds facing similar redemption pressures."
 

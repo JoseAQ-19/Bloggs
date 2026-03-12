@@ -27,7 +27,7 @@ This isn't just about personal preference; it's about the economic and social im
 
 The discomfort around openly disliking dogs is palpable. Try expressing a dislike for dogs at a party. It's often met with disbelief, defensiveness, or even outright hostility. This social pressure to conform to the pro-dog narrative makes it difficult to have an open and honest conversation about the downsides of dog ownership, the ethical considerations, and the impact on those who simply don't share the enthusiasm.
 
-## Decoding the Puppy-Love Propaganda: What Petco Doesn't Want You To Know
+## Decoding the Puppy-Love Propaganda: What Petco Doesn't Want You To Know, according to [Reuters](https://www.reuters.com/)
 
 The pet industry's marketing machine relentlessly promotes the image of dogs as loving, loyal companions, enriching our lives in countless ways. This narrative, while appealing, often glosses over the less palatable realities of dog ownership, from the financial burden to the environmental impact. Petco and other major players in the pet industry have a vested interest in perpetuating this positive image, as their profits depend on it.
 

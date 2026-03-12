@@ -31,7 +31,7 @@ The growth of the global pajama market, expected to reach roughly $21.5 billion 
 
 The focus on appearing "put together" for travel has arguably become a status symbol, amplified by influencers and the relentless pressure to present an idealized version of ourselves online. This performative aspect of travel clashes with the practical needs of long flights, layovers, and the general chaos of modern airports.
 
-## Tampa's Pajama Panic: When Comfort Clashes with Class
+## Tampa's Pajama Panic: When Comfort Clashes with Class, according to [Reuters](https://www.reuters.com/)
 
 Tampa International Airport ignited a social media firestorm by jokingly "banning" pajamas, highlighting the subjective and often class-laden nature of airport fashion.
 

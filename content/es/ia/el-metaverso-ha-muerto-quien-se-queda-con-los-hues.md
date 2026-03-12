@@ -25,7 +25,7 @@ El año 2021, marcado por la metamorfosis corporativa de Facebook en Meta, fue e
 
 Pero la fiesta duró poco.  Muchos fabricantes de visores, al darse cuenta de que nadie quería sus costosos juguetes, se retiraron discretamente.  Cientos de pequeñas empresas, especialmente aquellas parasitarias del mundo cripto y los NFTs, se lanzaron a la especulación, vendiendo parcelas virtuales y objetos digitales a precios demenciales. ¿El resultado? Metaversos de baja calidad que recordaban a juegos de los 90, pero con la pretensión de ser "el futuro".
 
-## Web3: La Contradicción en el Corazón del Metaverso
+## Web3: La Contradicción en el Corazón del Metaverso, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 La combinación de la descentralización de la Web3 con la especulación de las criptomonedas y los NFTs creó una tormenta perfecta de contradicciones.  La creación artificial de escasez digital, con terrenos virtuales y objetos únicos vendiéndose por sumas astronómicas, demostró ser una traición a la promesa original de un internet democratizado.  La idea de que "todos podríamos tener un casoplón y un cochazo" en el metaverso, como bien señala Antonio Ortiz, se vio pisoteada por la lógica implacable del capitalismo digital. Decentraland, uno de los metaversos más promocionados, languidece con una media diaria de menos de **40 usuarios activos**, una cifra ridícula comparada con las inversiones realizadas.
 
@@ -35,7 +35,7 @@ Mientras el metaverso agonizaba, la inteligencia artificial surgió como la tecn
 
 La "nueva estrategia" de Meta para "llevar el metaverso a todas partes" es una admisión tácita de su fracaso inicial.  'Horizon Worlds', su plataforma de mundo abierto, ha sido un fracaso estrepitoso, y su intento de integrarlo con Facebook e Instagram huele a desesperación.  La idea de que los usuarios descubrirán el metaverso a través de sus teléfonos móviles y luego se sumergirán en la realidad virtual es simplemente absurda.  ¿Realmente cree Meta que puede competir con Netflix, Spotify y los videojuegos por la atención de los usuarios?
 
-## El Metaverso: Un Cementerio de Ambiciones Tecnológicas
+## El Metaverso: Un Cementerio de Ambiciones Tecnológicas Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/el-dossier-fantasma-cuando-la-opacidad-es-la-estra/).
 
 El metaverso no ha "evolucionado"; ha fracasado. La visión de un mundo virtual paralelo donde los usuarios pasarían gran parte de su tiempo nunca se materializó, y nunca lo hará.  En lugar de una plataforma integrada con el mundo real, el metaverso se ha convertido en un recordatorio de las promesas vacías y las inversiones malgastadas.
 

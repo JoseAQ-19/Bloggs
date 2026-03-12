@@ -22,7 +22,7 @@ Groenlandia se sienta sobre un botín de recursos naturales que harían babear a
 
 Pero no se equivoquen. Esta fiebre del oro mineral no es una historia de prosperidad compartida. Es una carrera armamentista geoeconómica donde el ganador se lleva el control total. ¿Quién manda hoy? China. Controlan la producción, el procesamiento y la maldita exportación. Estados Unidos, en su patética desesperación, ve a Groenlandia como una tabla de salvación para no ser relegado al basurero de la historia.
 
-## El Ártico: De Santuario a Zona Cero
+## El Ártico: De Santuario a Zona Cero, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 El cambio climático es una tragedia. Pero para algunos, es una oportunidad de negocio brutal. Groenlandia se está derritiendo a un ritmo que debería aterrorizarnos, pero lo único que aterra a los políticos estadounidenses es perder su posición privilegiada. Se dice que Groenlandia pierde cinco veces más hielo que hace 20 años.
 
@@ -30,7 +30,7 @@ El deshielo está abriendo nuevas rutas marítimas que prometen revolucionar el 
 
 El aumento del tráfico marítimo en el Ártico ya ha crecido un 37% en la última década, según datos del **Consejo Ártico**. Que nadie se engañe: la competencia por el control de estas rutas desatará conflictos geoestratégicos que harán temblar al mundo.
 
-## El Sueño Americano: Un Castillo de Arena Digital
+## El Sueño Americano: Un Castillo de Arena Digital Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/movil-te-traiciona-el-negocio-redondo-del-espionaj/).
 
 El poderío de la industria digital estadounidense se basa en un acceso sin restricciones a recursos y mercados globales. Pero la fiesta se acaba. China está llamando a la puerta, las cadenas de suministro se tambalean, y la hegemonía estadounidense cuelga de un hilo. Groenlandia, en esta ecuación, es el clavo ardiendo al que se aferran desesperadamente.
 

@@ -25,7 +25,7 @@ While Name, Image, and Likeness (NIL) deals often spotlight instant financial ga
 
 Fudd's deal with Planet Fitness, while likely financially sound, also provides her with access to recovery resources and aligns her with a brand focused on accessibility and inclusivity. Planet Fitness aims to attract the 80% of consumers who are intimidated by traditional gym culture, according to Jamie Medeiros, Chief Brand Officer. Planet Fitness's #STOPtheBULLFIT campaign, presented by Katy Hornaday, Chief Creative Officer at Barkley, at the ANA Masters of Marketing conference, generated over 1 billion impressions, further showcasing the power of inclusive messaging. This strategic move is not just about the money; it's about brand alignment and accessing resources that support her career longevity.
 
-## The NIL Mirage: Why Million-Dollar Deals Don't Tell the Whole Story
+## The NIL Mirage: Why Million-Dollar Deals Don't Tell the Whole Story, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 NIL deals often create a mirage of success, obscuring the potential pitfalls of chasing large sums without considering an athlete's holistic well-being and brand alignment. While LSU's Flau'jae Johnson boasts an impressive NIL valuation of $2.0 million, such high valuations don't automatically guarantee performance or enduring brand value. It’s a dangerous assumption that all endorsement deals are created equal.
 

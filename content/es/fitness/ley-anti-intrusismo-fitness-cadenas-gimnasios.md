@@ -27,7 +27,7 @@ La FEEPYF, que representa a más de 19.000 entrenadores, ha levantado la voz con
 
 El trasfondo de esta controversia revela una lucha de poder entre diferentes entidades y modelos de formación en el sector del fitness. Por un lado, COLEF defiende la necesidad de una titulación universitaria para garantizar la calidad y seguridad de los servicios ofrecidos por los entrenadores personales. Por otro, FEEPYF argumenta que la experiencia práctica y la formación específica en fitness son igualmente válidas, y que la ley propuesta podría crear un monopolio en favor de los graduados universitarios. El problema es que la ley, en su intento de proteger al consumidor, podría estar perjudicando a un gran número de profesionales que han demostrado su valía en el campo.
 
-## El Doble Filo de la "Ley Anti-Intrusismo": ¿Protección Profesional o Exclusión Laboral?
+## El Doble Filo de la "Ley Anti-Intrusismo": ¿Protección Profesional o Exclusión Laboral?, segun datos recogidos por [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 La "Ley Anti-Intrusismo", defendida a capa y espada por el Consejo COLEF, se presenta como una medida para proteger a los usuarios de servicios deportivos de manos inexpertas y potencialmente peligrosas. Vicente Gambau, presidente del Consejo COLEF, argumenta que la "ignorancia y las falsas creencias sobre la actividad física" han dado lugar a la proliferación de "pseudoprofesionales" que carecen de la formación necesaria. Sin embargo, la realidad es mucho más compleja.
 

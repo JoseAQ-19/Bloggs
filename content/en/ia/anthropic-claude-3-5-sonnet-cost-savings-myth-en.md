@@ -31,7 +31,7 @@ Enterprises need concrete benchmarks and task-specific performance data, not vag
 
 ROI isn't determined by subjective opinions but by measurable results. Businesses need to rigorously test Sonnet 4.6 on their specific workloads to determine whether the "extraordinary" performance-to-cost ratio translates into tangible savings.
 
-## The Illusion of Savings: Anthropic's Cost Structure Remains Static
+## The Illusion of Savings: Anthropic's Cost Structure Remains Static, according to [MIT Technology Review](https://www.technologyreview.com/)
 
 Anthropic’s marketing of Claude 3.5 Sonnet emphasizes “5x cost savings,” but a closer look at the pricing reveals a far less dramatic picture. Sonnet 4.6 is priced identically to its predecessor, Sonnet 4.5, at $3 per million input tokens and $15 per million output tokens, according to the [Claude API Pricing](https://www.anthropic.com/pricing).
 

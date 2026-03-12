@@ -27,7 +27,7 @@ Telefónica busca alcanzar un nivel de autonomía 3.75 en sus redes para 2028, u
 
 La consultora NTT DATA cree que la IA ha llegado en el momento perfecto para resolver la tensión entre eficiencia y monetización en el sector. Jesús Martín Tello, Partner de Telecom& Media de NTT DATA, afirma que la IA ayuda a los operadores a optimizar procesos y crear valor para el cliente. Quizás NTT DATA debería preguntarse si realmente comprenden las necesidades del cliente, o si sólo están vendiendo humo a las telecos para justificar sus honorarios.
 
-## La Inacción de la UE: El Lamento Silencioso de Vodafone
+## La Inacción de la UE: El Lamento Silencioso de Vodafone, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 Mientras las telecos españolas se esfuerzan por mantener la cabeza fuera del agua, la Unión Europea parece navegar en un mar de burocracia y buenas intenciones, pero poca acción concreta. Los operadores de telecomunicaciones llevan años quejándose de la inacción de la UE en implementar cambios regulatorios que les permitan competir en igualdad de condiciones con los gigantes tecnológicos de EE. UU. y China.
 

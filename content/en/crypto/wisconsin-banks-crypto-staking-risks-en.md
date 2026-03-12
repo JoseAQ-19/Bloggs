@@ -31,7 +31,7 @@ It’s a valid question to ask, especially when considering the potential benefi
 
 The regulatory ambiguity surrounding crypto staking in Wisconsin is a double-edged sword. While caution is warranted, overregulation could stifle innovation and prevent residents from accessing potentially lucrative investment opportunities.
 
-## The Regulatory Labyrinth: Is Wisconsin's Caution Justified?
+## The Regulatory Labyrinth: Is Wisconsin's Caution Justified?, according to [SEC](https://www.sec.gov/)
 
 Wisconsin's Department of Financial Institutions (DFI) has issued warnings to banks about the risks associated with cryptocurrency. These warnings highlight concerns about volatility, security, and the lack of regulatory oversight in the crypto space. The DFI's caution reflects a broader trend among regulatory bodies worldwide, as they grapple with the challenges of overseeing a rapidly evolving industry.
 

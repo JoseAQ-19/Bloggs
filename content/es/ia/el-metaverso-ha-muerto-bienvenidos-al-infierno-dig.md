@@ -27,7 +27,7 @@ Un exempleado anónimo lo confirma: mucho diseño 3D llamativo, pero cero sustan
 
 Los datos, como siempre, son elocuentes. Decentraland, el supuesto buque insignia del metaverso, apenas supera los 40 usuarios activos diarios. Un fracaso estrepitoso que confirma lo obvio: **a nadie le importa lo que están construyendo**.
 
-## Autopsia de una Farsa
+## Autopsia de una Farsa, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 ¿Por qué fracasó el metaverso? La respuesta es multifactorial, pero se reduce a una sencilla verdad: era una solución en busca de un problema.
 
@@ -40,7 +40,7 @@ Meta no ha abandonado del todo su delirio, pero ahora intenta diluir el concepto
 
 Incluso la consultora Deloitte, en un estudio pagado por Meta, se atreve a pronosticar un impacto económico de 53.000 millones de euros en España para 2035. Cifras ridículas que demuestran el nivel de autoengaño al que han llegado. ¿De verdad alguien cree estas proyecciones? Un análisis más sobrio de McKinsey **reduce estas estimaciones en un 40%**.
 
-## El Fin de la Ilusión
+## El Fin de la Ilusión Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/inteligencia-artificial-la-estafa-del-siglo-xxi/).
 
 El metaverso, tal como lo vendieron, está muerto y enterrado. No habrá resurrección. No habrá "segunda oportunidad". Lo que queda es un montón de promesas rotas, inversiones fallidas y una valiosa lección: la tecnología, por sí sola, no basta. Es necesario ofrecer valor real, resolver problemas concretos y, sobre todo, ser honesto con el público.
 

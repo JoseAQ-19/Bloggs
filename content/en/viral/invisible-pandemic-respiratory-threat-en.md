@@ -29,7 +29,7 @@ The economic implications of this ongoing asymptomatic transmission are consider
 
 The reality of asymptomatic transmission calls into question the effectiveness of relying solely on vaccination and symptomatic testing for pandemic control. While these measures are important, they do not fully address the risk posed by individuals who are infected but show no signs of illness. This gap in protection can lead to a cycle of outbreaks, straining healthcare systems and hindering economic recovery. The continued presence of asymptomatic carriers necessitates a more comprehensive approach to pandemic preparedness, one that includes strategies to mitigate the risk of silent transmission. Ignoring this aspect is not only a public health oversight but also an economic gamble with potentially severe consequences.
 
-## Conflicting Narratives: Why WHO's "U-Turn" on Airborne Transmission Muddies the Waters for Wall Street
+## Conflicting Narratives: Why WHO's "U-Turn" on Airborne Transmission Muddies the Waters for Wall Street, according to [Reuters](https://www.reuters.com/)
 
 The World Health Organization (WHO) initially downplayed the role of airborne transmission in the spread of respiratory viruses, a stance that later shifted significantly. This initial ambiguity created confusion and hindered effective public health responses. Julian Tang, a clinical virologist at the University of Leicester, commented on WHO's report transforming the understanding of respiratory infections, stating, "This is a complete U-turn." Such reversals in guidance can erode public trust and complicate efforts to implement consistent and effective preventive measures.
 

@@ -27,7 +27,7 @@ Regulatory arbitrage has become the primary mechanism enabling this financial he
 
 The sophistication of DeFi fraud operations has evolved beyond simple hacks. Complex schemes now involve flash loan manipulations, oracle exploits, and governance token voting manipulations that require deep technical expertise. Attackers leverage smart contract vulnerabilities with increasingly sophisticated automation, making detection nearly impossible for average investors. The decentralized nature of these platforms creates a perfect storm where developers can launch projects, collect funds, and disappear behind pseudonymous identities before regulators can even begin to investigate.
 
-## The Illusion of Decentralization: Cracks in DeFi's Regulatory Facade
+## The Illusion of Decentralization: Cracks in DeFi's Regulatory Facade, according to [SEC](https://www.sec.gov/)
 
 Former SEC Director William Hinman articulated a standard of "sufficient decentralization," stating that a digital asset would no longer be a security if a person or group were no longer carrying out essential managerial or entrepreneurial efforts. This philosophical stance has created a dangerous loophole for many DeFi projects that maintain centralized control under the guise of decentralization. The reality of DeFi governance reveals a different story - concentrated token ownership allows small groups to make unilateral decisions that affect all platform users.
 

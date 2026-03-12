@@ -25,7 +25,7 @@ La supuesta objetividad de las métricas es una falacia. Se nos bombardea con la
 
 El problema fundamental es la conversión de la métrica en el objetivo principal. La **Ley de Goodhart** lo explica perfectamente: cuando una medida se convierte en un objetivo, deja de ser una buena medida. Es el clásico "Efecto Cobra" elevado a la enésima potencia, pero ahora con algoritmos y *machine learning*. Recordemos que los británicos ofrecieron una recompensa por cada cobra muerta en la India. La gente comenzó a criar cobras para reclamar la recompensa, lo que, lógicamente, resultó en un aumento en el número de cobras salvajes. La historia se repite, pero ahora con consecuencias mucho más graves.
 
-## Data-Driven vs. Data-Informed: La Falsa Dicotomía
+## Data-Driven vs. Data-Informed: La Falsa Dicotomía, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 Se nos presenta una falsa dicotomía entre un enfoque "impulsado por datos" (*data-driven*) y uno "informado por datos" (*data-informed*). Se alaba el enfoque *data-informed*, como si fuera una solución mágica. La verdad es que ambos enfoques son inherentemente peligrosos si no se aplican con un profundo sentido crítico y una comprensión de sus limitaciones. El enfoque *data-driven* es una camisa de fuerza que ignora la complejidad de la realidad, mientras que el enfoque *data-informed* puede ser una excusa para justificar decisiones subjetivas con un barniz de objetividad.
 
@@ -37,7 +37,7 @@ La "Falacia de McNamara" sigue acechando. Robert McNamara, el Secretario de Defe
 
 En la educación, la obsesión por las calificaciones lleva a "enseñar para el examen," sacrificando la calidad educativa real. En la salud, la presión por reducir los tiempos de hospitalización pone en riesgo la vida de los pacientes. Incluso en la ciencia, el uso de métricas como el *h-index* fomenta la publicación de artículos mediocres. La verdad es que el sistema está podrido.
 
-## Rendición de Cuentas Algorítmica: Una Ilusión Conveniente
+## Rendición de Cuentas Algorítmica: Una Ilusión Conveniente Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/geopolitica-en-llamas-las-10-tendencias-que-incend/).
 
 La falta de rendición de cuentas algorítmica es la mayor amenaza a nuestra libertad. Las empresas tecnológicas se niegan a revelar cómo funcionan sus algoritmos, creando una caja negra impenetrable. Los tribunales no reconocen los "daños algorítmicos," dejando a las víctimas sin recurso legal. Y las empresas tecnológicas tienen incentivos perversos para permanecer en la ignorancia sobre los daños que causan. Un reciente informe de **Human Rights Watch** detalla las consecuencias nefastas de los algoritmos utilizados en los sistemas de bienestar infantil, algoritmos que perpetúan la discriminación y causan un daño irreparable a las familias. Esto se llama "agnotología," la producción deliberada de ignorancia.
 

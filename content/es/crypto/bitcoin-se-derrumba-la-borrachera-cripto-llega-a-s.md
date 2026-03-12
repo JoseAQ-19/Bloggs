@@ -38,7 +38,7 @@ Las condiciones macroeconómicas se han vuelto decididamente hostiles. El aument
 
 Los "expertos" que promocionaban Bitcoin ahora se esconden bajo una piedra. Los premios Nobel que calificaron a las criptomonedas como burbujas peligrosas son vindicados. Su visión, antes descartada como pesimista, ahora resuena con una claridad dolorosa. Paul Krugman, Joseph Stiglitz y Robert Shiller entendieron desde el principio que Bitcoin carece de valor intrínseco y solo prospera en la ignorancia y la codicia.
 
-## La Regulación Llega para Quedarse
+## La Regulación Llega para Quedarse, segun datos recogidos por [SEC](https://www.sec.gov/) Para profundizar en este tema, consulta nuestro analisis sobre [](/crypto/bitcoin-la-burbuja-eterna-sostenida-por-el-hype/).
 
 El endurecimiento de la regulación es la puntilla final. La confiscación de miles de millones de dólares en Bitcoin demuestra que la "propiedad privada sagrada" de las criptomonedas es vulnerable a la intervención estatal. La represión de los *exchanges* fraudulentos y la amenaza de sanciones severas disuaden la entrada de capital institucional. Los reguladores, tardíamente pero con firmeza, están desmantelando este castillo de naipes.
 

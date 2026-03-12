@@ -25,7 +25,7 @@ La cantinela del "oro digital" era una patraña desde el principio, un burdo int
 
 La minería de Bitcoin no es solo insostenible, es un insulto a la inteligencia. Se gasta más energía en validar transacciones inútiles que países enteros en iluminar sus hogares. El coste "todo incluido" para minar un solo Bitcoin se estima en unos $87,000. ¿Y el precio actual? Ridículamente inferior. Los mineros están quemando dinero, destruyendo el planeta y, aun así, los apologistas criptográficos siguen predicando las virtudes de esta ruina ecológica. La pérdida de bienestar social generada por los costos absurdos de la minería de Bitcoin se estima en un 1.4% del consumo global. En términos sencillos, usar Bitcoin es 500 veces más caro que un sistema de efectivo tradicional, según algunos análisis **aquí**.
 
-## Sopa de Tokens y la Fuga al Nuevo Dorado: La IA
+## Sopa de Tokens y la Fuga al Nuevo Dorado: La IA, segun datos recogidos por [SEC](https://www.sec.gov/)
 
 El mercado está inundado de criptomonedas basura, una orgía de tokens sin valor que solo sirven para inflar las arcas de los fundadores. Con casi 30 millones de tokens rastreados, la dilución es absoluta. ¿La cereza del pastel? La fuga masiva de capitales hacia la Inteligencia Artificial. La IA promete disrupción real, soluciones tangibles y, lo más importante, retornos jugosos. ¿Quién va a seguir apostando por dibujitos digitales cuando puede invertir en el futuro? El flujo de talento e inversión de las criptomonedas hacia la IA es innegable y representa una amenaza existencial para la viabilidad a largo plazo de Bitcoin. Los datos de inversión respaldan esta tendencia, como se puede ver en este informe de **TechCrunch**.
 
@@ -39,6 +39,6 @@ No nos engañemos, el ascenso de Bitcoin no fue un fenómeno orgánico, sino el 
 
 Pero la manipulación es solo la punta del iceberg. Bitcoin enfrenta vulnerabilidades tecnológicas reales: ataques del 51%, la amenaza de la computación cuántica, la espada de Damocles de la regulación gubernamental. Un solo error, una sola brecha de seguridad, y todo el castillo de naipes se vendrá abajo. Los gobiernos, hartos de perder el control sobre el sistema financiero, podrían asestar el golpe final prohibiendo o regulando Bitcoin hasta la irrelevancia. China ya lo hizo, y otros podrían seguir su ejemplo.
 
-## El Obelisco Cripto: Un Epílogo Inevitable
+## El Obelisco Cripto: Un Epílogo Inevitable Para profundizar en este tema, consulta nuestro analisis sobre [](/crypto/bitcoin-la-burbuja-eterna-sostenida-por-el-hype/).
 
 La historia de Bitcoin está llegando a su fin. La narrativa del "oro digital" se ha desmoronado, la minería es un despilfarro, la competencia es feroz y la manipulación está a la orden del día. Sin valor intrínseco ni flujos de caja subyacentes, Bitcoin es una burbuja a punto de estallar.  La liquidez se está evaporando, la exposición a manipulaciones pasadas es cada vez mayor y la posibilidad de una "desmonetización" total, como la llama Fama, es inminente. Bitcoin no es el futuro del dinero, sino un experimento fallido, un recordatorio de la codicia humana y la facilidad con la que se puede engañar a la gente.  Prepárense para el funeral. Y no se les ocurra comprar la caída.

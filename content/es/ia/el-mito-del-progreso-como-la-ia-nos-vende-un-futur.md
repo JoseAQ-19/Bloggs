@@ -23,7 +23,7 @@ La tan cacareada Inteligencia Artificial no es la solución milagrosa que nos ve
 
 El término "Inteligencia Artificial" es en sí mismo un oxímoron, una contradicción flagrante. No hay nada de inteligente en máquinas que regurgitan datos sesgados, perpetuando las mismas injusticias que supuestamente iban a erradicar. Los LLM (Modelos de Lenguaje Masivos) son loros glorificados, capaces de imitar el habla humana pero incapaces de comprender el significado detrás de las palabras. Reducir la complejidad del pensamiento a un puñado de algoritmos es una afrenta a la propia idea de inteligencia. Y no olvidemos el lado oscuro: la explotación masiva de trabajadores precarios que etiquetan y limpian los datos que alimentan estas "inteligencias". Esta legión invisible, **denominada "trabajo fantasma"** , es la que realmente sostiene el castillo de naipes de la IA.
 
-## Colonialismo de Datos: Explotación del Siglo XXI
+## Colonialismo de Datos: Explotación del Siglo XXI, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 La IA no es más que la última iteración del capitalismo extractivo, un neocolonialismo disfrazado de innovación. Las grandes tecnológicas, con sede principalmente en el Norte Global, están extrayendo datos de todo el mundo sin ofrecer una compensación justa ni respetar las particularidades culturales. Este "colonialismo de datos" [como bien lo explica Shoshana Zuboff](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697), convierte nuestras vidas en mercancías, alimentando algoritmos que nos controlan y manipulan. Se ejerce una violencia epistémica al imponer una racionalidad universal que ignora la diversidad de experiencias y conocimientos locales. ¿Acaso no es paradójico que la herramienta que supuestamente iba a democratizar el acceso a la información se esté utilizando para concentrar aún más el poder en manos de unos pocos?
 
@@ -43,7 +43,7 @@ La "Ideología Californiana", esa extraña mezcla de idealismo hippie y fervor e
 
 Los LLM generan lo que se denomina "entendimiento Potemkin": la ilusión de competencia impulsada por respuestas que no reflejan una comprensión real. Son maestros de la imitación, capaces de generar textos coherentes pero carentes de significado profundo. La "exactitud holográfica" se desmorona bajo un escrutinio más profundo. A medida que los conjuntos de datos crecen, las correlaciones espurias aumentan exponencialmente, ahogando las correlaciones verdaderas en un "diluvio de Calude-Longo".
 
-## Tecno-Colonialismo: La Nueva Dependencia
+## Tecno-Colonialismo: La Nueva Dependencia Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/el-fin-de-la-tibieza-por-que-la-neutralidad-es-el/).
 
 La dependencia de infraestructuras privadas como Google y Facebook crea una forma de "tecno-colonialismo". Los países en desarrollo se ven obligados a aceptar términos opacos y unilaterales para acceder a infraestructuras esenciales, erosionando su soberanía de datos y capacidad de desarrollo autónomo. En las democracias occidentales, se abandonan los controles y equilibrios públicos en favor de la "eficiencia" de algoritmos privados que no rinden cuentas. Esta concentración de poder en manos de unas pocas empresas es una amenaza para la libertad y la autonomía.
 

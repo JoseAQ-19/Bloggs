@@ -25,7 +25,7 @@ YouTube is attempting to walk a tightrope: aiming to project technological vigil
 
 However, this policy-driven approach faces the stark reality that over a million channels are leveraging YouTube’s AI creation tools daily, as of December 2025. This widespread adoption highlights the challenge of policing AI content, where distinguishing between legitimate creative uses and malicious disinformation campaigns becomes increasingly complex. How can YouTube ensure transparency and accountability without stifling the innovative potential of AI in content creation.
 
-## The "Liar's Dividend" Paradox: When AI Becomes a Get-Out-of-Jail-Free Card
+## The "Liar's Dividend" Paradox: When AI Becomes a Get-Out-of-Jail-Free Card, according to [Social Blade](https://socialblade.com/)
 
 The "liar's dividend" is a particularly insidious consequence of the deepfake era, where individuals can falsely claim authentic, compromising content is a deepfake to discredit it. This tactic exploits the pervasive distrust fostered by AI-generated disinformation, undermining the credibility of genuine evidence. Hany Farid, Professor of Computer Science at UC Berkeley, has voiced concerns that the public may be ill-equipped to discern AI-generated misinformation, further complicating the issue.
 

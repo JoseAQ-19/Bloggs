@@ -29,7 +29,7 @@ La facilidad con la que se puede acceder al apalancamiento en estas plataformas 
 
 El problema no es solo la disponibilidad del apalancamiento, sino la falta de regulación y supervisión en este ámbito. A diferencia de los mercados financieros tradicionales, donde el apalancamiento está estrictamente regulado y los inversores deben cumplir con ciertos requisitos de solvencia, el mercado de criptomonedas opera en gran medida sin restricciones. Esto permite que plataformas como Binance ofrezcan productos de alto riesgo a inversores minoristas sin la debida protección.
 
-## El Relato Edulcorado de MicroStrategy vs. La Realidad de un Mercado Impredecible
+## El Relato Edulcorado de MicroStrategy vs. La Realidad de un Mercado Impredecible, segun datos recogidos por [SEC](https://www.sec.gov/)
 
 Michael Saylor, el ex CEO de MicroStrategy, ha sido un defensor acérrimo de Bitcoin como un activo de reserva de tesorería. Su estrategia de apalancar a MicroStrategy para comprar grandes cantidades de Bitcoin ha sido vista por algunos como un ejemplo de audacia financiera, mientras que otros la consideran una apuesta arriesgada que podría poner en peligro la estabilidad de la empresa.
 

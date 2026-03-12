@@ -26,7 +26,7 @@ Imagine yourself ten years from now. Are you thriving in a career you're passion
 
 The problem is clear: our society faces increasing rates of chronic diseases linked to inactivity. From sedentary lifestyles to aging populations, the need for skilled professionals who understand human movement is critical. The US Bureau of Labor Statistics projects a 9% growth in employment for exercise physiologists alone by 2034, exceeding the average growth rate for all occupations. This isn't just a trend; it's a societal shift demanding expertise in human movement and health promotion.
 
-## Decoding the Alma College KHS Program
+## Decoding the Alma College KHS Program, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 Alma College's KHS program isn't just another exercise science degree. It's a carefully constructed curriculum designed to equip students with a comprehensive understanding of human movement. The program, formerly known as Integrative Physiology and Health Science (IPHS), has evolved to meet the demands of a rapidly changing field. A foundational course, "Introduction to Kinesiology," integrates physiology, motor behavior, biomechanics, and psychosocial perspectives, ensuring a holistic understanding of how and why we move.
 

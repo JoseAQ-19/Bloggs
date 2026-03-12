@@ -25,7 +25,7 @@ The common advice to perform incline bench presses within a 30-45 degree range m
 
 While generic advice serves as a useful starting point, individualized adjustments are critical for optimizing muscle recruitment. EMG studies show that pressing at a 44-degree incline resulted in greater activation of upper-chest muscle fibers compared to flat bench, according to a study published on PMC. This heightened activation suggests a more targeted stimulus for the clavicular head of the pectoralis major. But are trainers actively encouraging their clients to experiment with subtle variations beyond the typical 30-45 degree range, or are they simply adhering to a one-size-fits-all approach? This potential oversight could explain why many lifters experience a plateau in their upper chest development despite diligently performing incline presses. Is the industry sacrificing gains in pursuit of simplicity?
 
-## The Clavicular Head's Hidden Potential: Anatomy Demands Targeted Training
+## The Clavicular Head's Hidden Potential: Anatomy Demands Targeted Training, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 The clavicular head, often referred to as the upper chest, is a significant component of overall chest mass, contributing up to 20%, according to Dr. Nash Jocic. Despite its substantial contribution, many generic chest workouts fail to adequately target this muscle region. Dr. Nash Jocic emphasizes the importance of incline presses for complete chest development, highlighting the anatomical imperative for targeted training.
 

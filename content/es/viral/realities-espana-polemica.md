@@ -29,7 +29,7 @@ Esta no es la primera vez que *Gran Hermano* se ve envuelto en polémicas. A lo 
 
 La credibilidad de este tipo de formatos está en juego. Si la audiencia percibe que los realities son meras representaciones teatrales, su atractivo podría disminuir drásticamente. La autenticidad, o al menos la percepción de ella, es un componente clave del éxito de estos programas. ¿Será este el principio del fin de la era dorada de los realities?
 
-## Telecinco vs. Antena 3: La Batalla Por La Audiencia a Costa de La Salud Mental
+## Telecinco vs. Antena 3: La Batalla Por La Audiencia a Costa de La Salud Mental, segun datos recogidos por [Reuters](https://www.reuters.com/)
 
 La feroz competencia entre Telecinco y Antena 3 por el liderazgo en la audiencia ha llevado a ambas cadenas a recurrir a estrategias cada vez más controvertidas. La búsqueda de mayores cuotas de pantalla a menudo se traduce en la emisión de contenidos que priorizan el escándalo y la polémica sobre la ética y el respeto a la salud mental de los participantes y espectadores.
 

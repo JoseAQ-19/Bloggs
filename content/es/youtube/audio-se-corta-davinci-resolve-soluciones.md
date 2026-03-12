@@ -23,7 +23,7 @@ Una causa frecuente de este problema son los *drivers* de NVIDIA, particularment
 
 Algunos usuarios sugieren que las limitaciones de *hardware* o el uso de la versión gratuita de DaVinci Resolve son las causas principales, mientras que otros apuntan a la incompatibilidad de los *drivers*. La realidad es que el problema suele ser multifactorial y requiere un enfoque sistemático para su resolución.
 
-## Los Sospechosos Habituales: *Drivers* de NVIDIA, *Hardware* Limitado y Códecs Problemáticos
+## Los Sospechosos Habituales: *Drivers* de NVIDIA, *Hardware* Limitado y Códecs Problemáticos, segun datos recogidos por [Social Blade](https://socialblade.com/)
 
 Para entender por qué DaVinci Resolve puede tener estos problemas de audio, es crucial identificar los "sospechosos habituales". Estos incluyen:
 

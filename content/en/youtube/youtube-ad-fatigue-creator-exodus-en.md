@@ -27,7 +27,7 @@ Non-skippable ads force viewers to endure interruptions, creating a negative use
 
 View-through rates offer a stark warning: A VTR below 20% signals a weak creative or poor audience fit. YouTube risks alienating its user base if it continues to prioritize ad revenue over user experience.
 
-## The Creator's Dilemma: How Algorithm Changes and Demonetization Fuel the YouTube Exodus.
+## The Creator's Dilemma: How Algorithm Changes and Demonetization Fuel the YouTube Exodus., according to [Social Blade](https://socialblade.com/)
 
 YouTube's policies significantly impact content creators, leading to a potential exodus to alternative platforms. Algorithm changes, demonetization, and stricter content policies create an unstable environment for creators, making it difficult to build a sustainable income. This instability can lead to frustration and a search for more creator-friendly platforms.
 

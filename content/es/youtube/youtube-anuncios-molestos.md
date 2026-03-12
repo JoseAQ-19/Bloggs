@@ -27,7 +27,7 @@ La pregunta clave es si esta agresiva estrategia publicitaria está alejando a l
 
 El aumento de la publicidad en YouTube no es un fenómeno aislado, sino una estrategia global de Google para maximizar sus ingresos. Sin embargo, la reacción de los usuarios en España plantea serias dudas sobre la viabilidad de este modelo. ¿Cuántos usuarios más aguantarán la avalancha de anuncios antes de abandonar la plataforma?
 
-## YouTube Premium vs. La Resistencia: La Lucha por una Experiencia Personalizada
+## YouTube Premium vs. La Resistencia: La Lucha por una Experiencia Personalizada, segun datos recogidos por [Social Blade](https://socialblade.com/)
 
 Google estima que más de 5.3 millones de usuarios en España han probado o se han suscrito a YouTube Premium en 2024. Esta cifra sugiere que una parte considerable de la audiencia está dispuesta a pagar por una experiencia sin publicidad. Sin embargo, la existencia de alternativas gratuitas para bloquear anuncios demuestra que muchos se resisten a la suscripción.
 

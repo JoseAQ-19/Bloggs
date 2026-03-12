@@ -31,7 +31,7 @@ Este caso subraya la necesidad de una mayor conciencia sobre los peligros del co
 
 ¿Pero qué responsabilidad tiene YouTube en todo esto? ¿Acaso no debería tener un filtro más estricto con el contenido que promueve hábitos dañinos? La plataforma, aunque se beneficia del tráfico generado por figuras como Nikocado Avocado, tiene la obligación moral de proteger a sus usuarios, especialmente a los más jóvenes. Es crucial que YouTube considere la implementación de políticas más estrictas con respecto al contenido que puede ser perjudicial para la salud mental y física de sus usuarios. Esto podría incluir la desmonetización de canales que promueven hábitos alimenticios poco saludables o la inclusión de advertencias sobre el contenido que pueda ser desencadenante para personas con trastornos alimenticios. Además, la plataforma podría colaborar con organizaciones de salud mental para proporcionar recursos y apoyo a los usuarios que puedan estar luchando contra problemas relacionados con la alimentación o la imagen corporal.
 
-## YouTube y la Agudización de los Trastornos Alimenticios: Un Silencio Cómplice
+## YouTube y la Agudización de los Trastornos Alimenticios: Un Silencio Cómplice, segun datos recogidos por [Social Blade](https://socialblade.com/)
 
 YouTube, como plataforma líder de vídeos, tiene un papel crucial en la difusión y regulación del contenido relacionado con la salud. Sin embargo, su algoritmo, diseñado para maximizar el tiempo de visualización y la participación del usuario, a menudo prioriza el contenido sensacionalista y adictivo, incluso si este promueve comportamientos perjudiciales para la salud mental.
 

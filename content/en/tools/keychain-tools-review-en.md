@@ -25,7 +25,7 @@ Online criticism frequently dismisses knives made from 7Cr17MoV as "definitely t
 
 The 7Cr17MoV paradox persists because it fills a specific, albeit limited, niche. For occasional use, light prying tasks, or as a secondary backup, it serves a purpose. Its affordability democratizes access to basic EDC functionality, a point argued strongly by manufacturers catering to developing markets. However, framing it as a viable primary tool for reliability-demanding users is the core gamble. The USD 3.03 billion market valuation masks the inherent fragility of this approach when deployed in scenarios demanding consistent performance, exposing users to potential failure points inherent in the alloy’s metallurgical limitations.
 
-## S35VN: Is Chris Reeve's Steel Still Worth the Premium?
+## S35VN: Is Chris Reeve's Steel Still Worth the Premium?, according to [TechCrunch](https://techcrunch.com/)
 
 Developed in collaboration between Chris Reeve and Crucible Industries in 2009, S35VN steel was engineered as a successor to S30V, specifically addressing its perceived toughness shortcomings. This high-performance stainless steel incorporates chromium, vanadium, molybdenum, and niobium, resulting in a hardness range of 58-61 HRC that sits firmly in the upper echelon for knife steels. Its key advantage lies in its balanced performance profile. Crucible Industries emphasizes its improved toughness over S30V, citing a 15-20% increase attributed to the niobium addition, which refines grain structure and enhances impact resistance – a critical factor for compact tools subjected to sudden stress. This metallurgical design directly counters the brittleness often associated with high-hardness, high-wear steels. 
 

@@ -27,7 +27,7 @@ La adopción de ETFs de Bitcoin en Estados Unidos y el reconocimiento gradual de
 
 El auge de las criptomonedas refleja una desconfianza creciente en las instituciones financieras tradicionales. Bitcoin, con su promesa de descentralización y resistencia a la censura, atrae a aquellos que buscan una alternativa al sistema financiero establecido. No obstante, esta misma descentralización plantea desafíos significativos en términos de regulación y protección del inversor.
 
-## MiCA y la Trampa Regulatoria: ¿Preparados los Bancos Españoles para la Nueva Era Cripto?
+## MiCA y la Trampa Regulatoria: ¿Preparados los Bancos Españoles para la Nueva Era Cripto?, segun datos recogidos por [SEC](https://www.sec.gov/)
 
 La implementación de la regulación MiCA (Markets in Crypto Assets) en Europa representa un punto de inflexión para el mercado de criptomonedas en España. Esta normativa, que entró en vigor el 30 de diciembre de 2024, busca establecer un marco regulatorio común para los criptoactivos en la Unión Europea, abarcando la emisión de stablecoins y activos digitales, así como la gestión, oferta, intercambio, negociación y transferencia de estos activos. Sin embargo, la adaptación a MiCA plantea desafíos significativos para las entidades financieras españolas, que deben buscar autorización para operar antes del 1 de julio de 2026.
 

@@ -25,7 +25,7 @@ The proliferation of AI-generated deepfakes poses a unique threat to the therian
 
 Deepfakes, sophisticated AI-generated media that can convincingly mimic real people, threaten to create a "crisis of knowing itself," eroding the foundations of shared understanding, according to **Dr. Nadia Naffi**. The projected rise in deepfake incidents, with DeepMedia estimating 8 million deepfakes shared on social media by 2025, will exacerbate the therian community's existing challenges with authenticity and acceptance. This is especially acute considering the current levels of misinformation.
 
-## Eroding Reality: Why Corporate DEI Statements Are Worthless
+## Eroding Reality: Why Corporate DEI Statements Are Worthless, according to [Reuters](https://www.reuters.com/)
 
 Corporate DEI (Diversity, Equity, and Inclusion) statements often ring hollow in the face of the technological tsunami that threatens vulnerable communities. The rise of deepfakes further complicates the reality for those already facing stigma. The therian community now faces the prospect of their identities being easily fabricated and misrepresented on a mass scale. Deepfakes erode the mechanisms by which societies construct shared understanding, argues **Dr. Nadia Naffi**, and this is a particularly frightening concept.
 

@@ -25,7 +25,7 @@ Behind the scenes, the numbers reveal the financial pressure points. YouTube TV,
 
 The timing was particularly brutal. Any blackout would have collided with NFL playoff games and March Madness, events where live sports command peak viewership and advertising rates. These events drive concurrent viewership spikes that platforms monetize aggressively. A sustained blackout could have cratered YouTube TV’s RPMs (Revenue Per Mille), making the dispute as much about short-term ad revenue as long-term carriage fees. 
 
-## Behind the Hype: Why YouTube TV's Subscriber Growth Could Mask Deeper Problems 
+## Behind the Hype: Why YouTube TV's Subscriber Growth Could Mask Deeper Problems , according to [Social Blade](https://socialblade.com/)
 
 YouTube TV’s projected ascent to the top U.S. Pay TV provider by 2026 tells an incomplete story. Beneath the subscriber growth figures lies a fragility exposed by recent blackouts. A survey during the Disney-owned channels blackout revealed that 82% of YouTube TV subscribers were likely to cancel their subscription, with nearly 25% having already terminated service or actively considering it. This statistic isn’t just customer dissatisfaction—it’s a direct threat to YouTube TV’s RPM model. 
 

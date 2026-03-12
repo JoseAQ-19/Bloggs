@@ -27,7 +27,7 @@ Spitzer's concern isn't just about the disruption these pranks cause; it's about
 
 The Stokes Twins' past brushes with the law serve as a chilling reminder of the blurred lines between entertainment and endangerment. Their previous stunt involving fake bank robberies led to an Uber driver being held at gunpoint by police, a terrifying experience fueled by the twins' quest for online validation. While they managed to avoid felony charges, the misdemeanor convictions and subsequent community service should have served as a wake-up call. However, Spitzer's recent comments suggest the twins haven't learned their lesson, raising serious questions about their long-term viability as content creators. The constant threat of legal action could significantly impact their ability to create and monetize content, transforming their lucrative prank empire into a costly liability.
 
-## YouTube's Thin Line: Community Standards vs. Viral Monetization
+## YouTube's Thin Line: Community Standards vs. Viral Monetization, according to [Social Blade](https://socialblade.com/)
 
 YouTube finds itself in a precarious position, attempting to balance its commitment to community safety with the undeniable allure of viral content. The platform's community guidelines explicitly prohibit pranks that lead victims to believe they are in physical danger or cause real physical harm, or that may cause emotional distress to children. This policy, while seemingly clear-cut, is often difficult to enforce consistently, leading to a gray area where controversial content thrives.
 

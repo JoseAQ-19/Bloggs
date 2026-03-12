@@ -27,7 +27,7 @@ This investigation is not just about past transgressions; it casts a long shadow
 
 Binance denies these allegations, asserting a strong compliance program and a 97% decline in exposure to wallets linked to illicit activity since early 2024. However, these claims are being met with skepticism. The very fact that the DOJ is pursuing this investigation suggests that regulators believe there is substantial evidence to support the allegations.
 
-## Iran's Crypto Lifeline: How Sanctions Fuel a $7.78 Billion Ecosystem
+## Iran's Crypto Lifeline: How Sanctions Fuel a $7.78 Billion Ecosystem, according to [Chainalysis](https://www.chainalysis.com/)
 
 Sanctions, intended to cripple Iran's economy, may inadvertently be fueling the growth of its crypto market. Former US diplomat Alan Eyre stated that Iran's economy is essentially broken, making crypto an integral part of its financial system, enabling sanction evasion. This situation underscores the limitations of traditional financial controls in the digital age.
 

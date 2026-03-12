@@ -35,7 +35,7 @@ La historia reciente de México está salpicada de incidentes en eventos masivos
 
 También se suman las muertes ocurridas en el Hell and Heaven Fest en 2014, la lista de incidentes es preocupante. La ciudad debe estar verdaderamente preparada para manejar la magnitud de la responsabilidad que conlleva un evento de estas características.
 
-## Estadio Insurgentes y el peso de la historia: ¿Está CDMX preparada para un mar de gente?
+## Estadio Insurgentes y el peso de la historia: ¿Está CDMX preparada para un mar de gente?, segun datos recogidos por [Reuters](https://www.reuters.com/)
 
 El Estadio GNP Seguros (anteriormente conocido como Foro Sol), con una capacidad para 65,000 personas, se erige como un posible escenario para un concierto gratuito de Shakira. Este recinto plantea desafíos significativos en términos de logística y seguridad.
 

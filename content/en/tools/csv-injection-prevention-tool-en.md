@@ -25,7 +25,7 @@ Microsoft Excel's automatic formula execution creates a pathway for attackers to
 
 The core issue lies in the fact that Excel trusts the content of CSV files, even when that content originates from an untrusted source. This inherent trust, combined with the automatic formula execution, creates a significant security vulnerability. Attackers can craft malicious CSV files that, when opened in Excel, execute arbitrary commands on the user's system.
 
-## The Underestimated Threat: Why Security Teams Overlook the Obvious CSV Flaw
+## The Underestimated Threat: Why Security Teams Overlook the Obvious CSV Flaw, according to [TechCrunch](https://techcrunch.com/)
 
 The official corporate narrative surrounding CSV injection vulnerabilities often downplays the risk. One reason is that CSV Injection vulnerabilities are typically classified as low to medium severity. This often leads to a general lack of concern among security teams.
 

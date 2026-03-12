@@ -21,7 +21,7 @@ The exercise physiology establishment has long peddled the idea that a plateau i
 
 We've been told that VO2 max is largely predetermined by genetics, offering a measly 5-15% window for improvement through even the most grueling training regimens. One study claimed genetic factors account for **72-74% of the variance in VO2 max trainability**. This is the equivalent of telling aspiring musicians to give up because Mozart's DNA reigns supreme.
 
-## The Treadmill Torture Chamber
+## The Treadmill Torture Chamber, according to [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 Think about the standard VO2 max treadmill test. It’s often based on protocols like the **Bruce Protocol**, which abruptly ramps up both speed and incline. You’re essentially being thrown into a sprint up a small mountain, regardless of your actual running style or biomechanics. This approach tends to favor brute force over efficient movement, which can prematurely fatigue specific muscle groups.
 

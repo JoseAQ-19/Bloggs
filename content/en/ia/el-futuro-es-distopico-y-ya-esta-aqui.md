@@ -21,7 +21,7 @@ As William Gibson famously stated, "The future is already here – it's just not
 
 The original cyberpunk vision, popularized by authors like Gibson and Bruce Sterling, depicted a world where nation-states were weakened and replaced by powerful mega-corporations. These entities ruled over vast territories, employing private surveillance networks, digital platforms, and citizen scoring systems. Cities were depicted as shimmering ruins, suffocated by neon lights and digital smog, where human life was devalued under the all-seeing eye of technology. This dystopian vision wasn't a prophecy; it was the logical outcome of a present that prioritized control and efficiency over liberty and justice.
 
-## The Rise of Techno-Feudalism
+## The Rise of Techno-Feudalism, according to [MIT Technology Review](https://www.technologyreview.com/)
 
 The 21st century has ushered in an era far removed from the utopian dream of global connectivity and emancipation. We are confronted with labor precarity, pervasive surveillance, and algorithmic control. Power no longer requires tanks or coups; it resides in the dominance of platforms, data, and narratives. Instead of citizens, we are treated as vassals in a new digital Middle Ages. Tech giants like Amazon, Google, and Meta are not merely companies; they are global fiefdoms wielding unprecedented influence.
 
@@ -47,7 +47,7 @@ Perhaps the darkest aspect of this panorama is the absence of "punk" in contempo
 
 We are now in the era of post-cyberpunk without punk, where subversion has been absorbed by the market, and rebellion has become a marketing campaign aesthetic. The system no longer fears dissent; it monetizes it.
 
-## A Path Forward
+## A Path Forward For more insights on this topic, read our analysis on [Hugging Face Embeddings: The $4.5 Billion Lobotomy](/ia/hugging-face-embeddings-lobotomy-en/).
 
 Yet, politics remains the only path forward. Not to destroy technology but to democratize it. It is not about rejecting artificial intelligence or networks but about decentralizing their control, questioning their logics, and disputing their codes. It is about recovering the human in the midst of the post-human.
 

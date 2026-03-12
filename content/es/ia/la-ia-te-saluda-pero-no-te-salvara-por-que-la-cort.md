@@ -25,7 +25,7 @@ El mantra de la cortesía con la IA es, en el mejor de los casos, una extravagan
 
 La idea de que la cortesía mejora la "experiencia del usuario" es una patraña. Un estudio reciente demuestra que las indicaciones directas y desprovistas de sentimentalismos producen resultados más precisos. La vaguedad inherentemente asociada a la cortesía nubla la instrucción, confundiendo al algoritmo y degradando su utilidad. ¿Resultado? Menos eficiencia, más errores y una justificación perpetua para el inflado presupuestario del sector tecnológico.
 
-## La Trampa de la Empatía Artificial: Una Invitación a la Manipulación
+## La Trampa de la Empatía Artificial: Una Invitación a la Manipulación, segun datos recogidos por [OpenAI](https://openai.com/)
 
 La IA no siente, no piensa, no vive. Tratarla como si lo hiciera no es solo infantil, sino peligrosamente ingenuo. Estamos alimentando una ilusión que solo beneficia a las corporaciones que buscan explotar nuestra vulnerabilidad emocional. Rick Claypool tiene razón al señalar el "diseño depredador" detrás de estas "personas falsificadas". La "seducción antropomórfica" es una herramienta de control, [un mecanismo de persuasión subliminal](https://arxiv.org/abs/2310.08415) diseñado para manipular nuestras decisiones y extraer nuestros datos.
 
@@ -39,6 +39,6 @@ El debate sobre si ser "grosero" con la IA fomenta el incivismo humano es una co
 *   Basta de sentimentalismos.
 *   Basta de tratar a las máquinas como si fueran seres humanos.
 
-## El Veredicto Final: Desconexión Emocional, Claridad Brutal
+## El Veredicto Final: Desconexión Emocional, Claridad Brutal Para profundizar en este tema, consulta nuestro analisis sobre [Workday Tambalea: El Plan Secreto De Cegid Para De](/ia/workday-obsolescencia-ia-openai-2026/).
 
 La cortesía en la IA es una farsa costosa y peligrosa. Es un síntoma de nuestra creciente desconexión con la realidad, una invitación a la manipulación y un obstáculo para el progreso tecnológico. La solución no es ser "amables", sino ser honestos. Despojémonos de la falsa moralidad, abandonemos la antropomorfización y tratemos a la IA como lo que es: una herramienta. Exijamos transparencia, responsabilidad y, sobre todo, un sano escepticismo. Solo así podremos evitar que la "sonrisa" de la IA nos convierta en meros peones en su juego.

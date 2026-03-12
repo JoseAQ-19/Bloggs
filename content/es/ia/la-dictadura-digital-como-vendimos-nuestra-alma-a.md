@@ -25,7 +25,7 @@ Shoshana Zuboff, esa profeta casandra del capitalismo de vigilancia, no se anda 
 
 ¿Pero qué tan "inteligentes" son estos sistemas predictivos? La respuesta es aterradora: son estúpidos y peligrosamente sesgados. La policía predictiva perpetúa el racismo, no lo previene. Un sistema alemán de control de pasajeros aéreos tuvo una tasa de acierto del 0,3%. **Como reportó Reuters**, la falsa sensación de seguridad es peor que la ignorancia. La realidad es que estos sistemas amplifican los prejuicios existentes, creando ciclos de vigilancia injustos.
 
-## La Decadencia Cognitiva: Marionetas Algorítmicas
+## La Decadencia Cognitiva: Marionetas Algorítmicas, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 Nuestra capacidad de pensar se está atrofiando. Un alarmante porcentaje de usuarios de smartphones confía ciegamente en las sugerencias de búsqueda, delegando su criterio en manos de un algoritmo opaco. Los jóvenes, especialmente vulnerables, sufren inseguridad social por la presión algorítmica.  Estamos entrenando a la siguiente generación para que sean dóciles consumidores, incapaces de pensamiento crítico.
 
@@ -33,7 +33,7 @@ Nuestra capacidad de pensar se está atrofiando. Un alarmante porcentaje de usua
 
 La digitalización ha refinado el arte de la opresión. Los autócratas ahora tienen herramientas para *saberlo* todo (vigilancia masiva), *influir* en el comportamiento (represión digital) e *influir* en las creencias (propaganda automatizada). La "represión transnacional" es la nueva normalidad **documentada por la Universidad de Cambridge**. El sistema de crédito social en China, tan admirado por algunos tecnócratas occidentales, es la prueba de que la ciencia ficción distópica se ha vuelto realidad.
 
-## Tecnofascismo y el Caudillo Digital
+## Tecnofascismo y el Caudillo Digital Para profundizar en este tema, consulta nuestro analisis sobre [Acciona el Pánico: La IA Amenaza 300 Millones de E](/ia/saas-apocalipsis-2026-crisis-vc/).
 
 Juan Carlos Romero López acierta con el término "Tecnofascismo": decisiones comandadas por algoritmos, un entramado de manipulación cognitiva. Las teorías de la conspiración florecen en redes sociales, alimentadas por algoritmos que priorizan la "participación" sobre la verdad. No es un fallo, es una característica.
 

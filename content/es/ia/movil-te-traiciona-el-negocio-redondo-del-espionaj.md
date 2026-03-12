@@ -23,7 +23,7 @@ translationKey: "d7258d08-d9ec-5447-24ed-493a3413daee"
 
 Hablamos de un imperio de la vigilancia que factura $12 mil millones al año. Empresas como Near y Mobilewalla, se jactan de rastrear los movimientos de miles de millones de personas. ¿Su arma secreta? Un eufemismo: el "capitalismo de vigilancia," un lavado de cara a lo que no es más que espionaje consentido. Aceptas ceder tu alma a cambio de, ¿qué? ¿Memes y vídeos de gatitos?
 
-## Desnudo Digital: Cómo Revelas Más de Lo Que Crees
+## Desnudo Digital: Cómo Revelas Más de Lo Que Crees, segun datos recogidos por [ArXiv](https://arxiv.org/)
 
 No solo te espían con el GPS. Eso es la punta del iceberg. Un estudio de Yale y Exodus Privacy reveló que el 75% de las aplicaciones de Android contienen rastreadores ocultos. Pequeños parásitos digitales que chupan tu información sin que te des cuenta.
 
@@ -57,7 +57,7 @@ No solo se trata de publicidad dirigida. Los datos recopilados se usan para fine
 
 Shoshana Zuboff, en *La Era del Capitalismo de la Vigilancia*, lo describe como una "expropiación unilateral de la experiencia humana como materia prima gratuita." Tus datos se procesan para predecir tu comportamiento, creando "mercados de futuros conductuales." No solo perdemos privacidad, sino también autonomía y control sobre nuestras propias vidas.
 
-## La Farsa Regulatoria: Una Cortina de Humo
+## La Farsa Regulatoria: Una Cortina de Humo Para profundizar en este tema, consulta nuestro analisis sobre [¡ALERTA! NTT DATA Revela La Amenaza Silenciosa Que](/ia/saas-extincion-masiva/).
 
 El GDPR impone multas teóricas, pero su aplicación es lenta e ineficaz. Los *data brokers* operan en un limbo legal, vendiendo datos más rápido de lo que los reguladores pueden investigar. Términos como "interés legítimo" o "mejora del servicio" justifican una recolección de datos excesiva e invasiva.
 

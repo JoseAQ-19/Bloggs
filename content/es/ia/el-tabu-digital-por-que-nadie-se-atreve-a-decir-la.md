@@ -23,7 +23,7 @@ translationKey: "feb2f128-6129-6f8c-f42e-c385bc6ff601"
 
 La idea de que estamos tomando decisiones libres online es una farsa monumental. La Comisión Europea descubrió que el 97% de los sitios web más populares recurren a **patrones oscuros** para engañar a los usuarios. No son simples "errores de diseño"; son trampas deliberadas para extraer dinero y atención. Negar esto es negar la evidencia. Las tácticas de suscripción engañosas, que dificultan darse de baja, son un ejemplo flagrante de cómo se explota la vulnerabilidad humana. Esto no es accidental; es la piedra angular del capitalismo de vigilancia.
 
-## Algospeak: La Lengua de los Esclavos Digitales
+## Algospeak: La Lengua de los Esclavos Digitales, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 ¿Censura? ¡Ingenuos! No es una simple "moderación de contenido". Es una purga constante de la disidencia. El auge del "algospeak" – ese lenguaje codificado que usamos para evitar la ira de los algoritmos – es la prueba irrefutable. Que tengamos que decir "unalive" en lugar de "suicidio" en TikTok es la confirmación de que nuestra libertad de expresión está siendo estrangulada. Reuters ha informado extensamente sobre **el control algorítmico del discurso**, y aun así, preferimos mirar hacia otro lado.
 
@@ -51,7 +51,7 @@ La supuesta objetividad de los algoritmos es una ilusión. Los modelos de predic
 
 La línea entre la moderación de contenido y la censura se ha desvanecido por completo. Las plataformas utilizan la excusa de la "seguridad" para silenciar la disidencia y controlar la narrativa. El *deplatforming* es una herramienta poderosa que se utiliza tanto para combatir el discurso de odio como para reprimir la oposición política. ¿Quién decide qué es aceptable y qué no? Las mismas empresas que se benefician de nuestra adicción.
 
-## Vigilancia Gubernamental: El Gran Hermano Digital
+## Vigilancia Gubernamental: El Gran Hermano Digital Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/silicon-valley-esta-muerto-el-futuro-es-descentral/).
 
 No nos engañemos: los gobiernos están utilizando la tecnología para vigilarnos. Aplicaciones obligatorias, sistemas de reconocimiento facial, todo se utiliza para rastrear y controlar nuestros movimientos. La promesa de la privacidad es una mentira descarada.
 

@@ -27,7 +27,7 @@ The maximum penalty for violating COPPA is a staggering $42,530 *per violation*,
 
 The burden of compliance falls squarely on creators, who must navigate the complex legal requirements of COPPA. Misinterpreting the rules or failing to implement adequate safeguards can lead to disastrous consequences. This regulatory pressure is forcing creators to re-evaluate their content strategy and consider whether targeting children is worth the risk. Many are opting to steer clear of child-oriented content altogether, limiting their creative freedom and potential audience reach. This forces creators to pivot away from family entertainment and into other fields.
 
-## Cracks in the Facade: Why YouTube's "For Everyone" Narrative Is Breaking Down
+## Cracks in the Facade: Why YouTube's "For Everyone" Narrative Is Breaking Down, according to [Social Blade](https://socialblade.com/)
 
 YouTube's algorithm, despite its sophistication, struggles to balance diverse viewpoints, often creating echo chambers that can expose users to extremist content. This algorithmic bias raises serious questions about the platform's responsibility in shaping user experiences and promoting harmful narratives. While YouTube touts itself as a platform for everyone, the reality is that its recommendation system can inadvertently steer users down rabbit holes of misinformation and radicalization. This is a significant failure.
 

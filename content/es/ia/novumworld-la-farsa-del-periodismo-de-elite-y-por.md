@@ -22,7 +22,7 @@ La crisis de confianza en el periodismo no es una "crisis", sino un despertar. A
 
 Los algoritmos no son el problema, sino la excusa. La fragmentación del panorama mediático no es accidental: es una estrategia. Dividir para conquistar, polarizar para controlar. Las "cámaras de eco" no son un accidente, son el diseño. ¿Quién se beneficia de una sociedad polarizada e incapaz de dialogar? Piénsenlo.
 
-## Sesgo Ideológico: El Cáncer del Periodismo
+## Sesgo Ideológico: El Cáncer del Periodismo, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 El sesgo ideológico no es una "tendencia", es la columna vertebral del periodismo moderno. Los medios no están financiados por "empresas o individuos con intereses políticos", están controlados por ellos. Y controlan la narrativa, las prioridades y la verdad misma. El periodismo joven, domesticado y acrítico, no es una excepción, es la norma. Un artículo reciente de *Bloomberg* **detalla** cómo la presión económica fuerza a los medios a plegarse a las agendas de sus financiadores.
 
@@ -44,7 +44,7 @@ Ante esta farsa, la "alfabetización mediática" es una solución ingenua. No se
 
 No necesitamos "apoyar el periodismo independiente", necesitamos construir alternativas. No necesitamos "participar en el debate público", necesitamos crear nuestro propio debate. La única manera de reclamar la verdad es abandonando el sistema que la corrompe.
 
-## El Fin del Juego: No Hay Vuelta Atrás
+## El Fin del Juego: No Hay Vuelta Atrás Para profundizar en este tema, consulta nuestro analisis sobre [Workday Tambalea: El Plan Secreto De Cegid Para De](/ia/workday-obsolescencia-ia-openai-2026/).
 
 El futuro del periodismo no depende de la buena voluntad de los medios, depende de nuestra capacidad para destruirlos. No se trata de "recuperar la confianza", sino de crear un sistema alternativo basado en la verdad, la transparencia y la responsabilidad.
 

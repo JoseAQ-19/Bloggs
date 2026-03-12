@@ -27,7 +27,7 @@ This pricing strategy marks a significant shift from YouTube TV's initial positi
 
 The financial calculations behind this strategy are compelling. With approximately 10 million subscribers as of late 2025 and a projected growth to 12.4 million by 2026, YouTube TV could generate over $780 million annually from the Sports Plan alone if fully adopted. However, this assumes the package maintains its current pricing structure and subscriber conversion rates, both of which are uncertain in an increasingly fragmented streaming landscape.
 
-## The Choice Paradox: Why YouTube TV's "Savings" Are Disappearing
+## The Choice Paradox: Why YouTube TV's "Savings" Are Disappearing, according to [Social Blade](https://socialblade.com/)
 
 Some subscribers have sued Disney, alleging that anticompetitive agreements have caused YouTube TV's prices to nearly double since 2019. This legal challenge reveals the uncomfortable truth beneath streaming's disruptive facade: the same conglomerates that dominated cable television now control the streaming economy. Disney's ownership of ESPN, ABC, and Hulu gives it considerable power to dictate carriage fees across platforms, effectively transferring the cable cost structure to streaming services.
 

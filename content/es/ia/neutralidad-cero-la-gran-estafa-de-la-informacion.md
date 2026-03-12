@@ -27,7 +27,7 @@ La búsqueda de la objetividad en el periodismo, supuestamente nacida para contr
 
 Gemini y NotebookLM pueden vomitar datos sobre la "evolución" de la objetividad periodística, pero la verdad es que esta presunta evolución es un descenso a la irrelevancia. La obsesión por la imparcialidad ha convertido a muchos periodistas en meros taquígrafos del poder, incapaces de desafiar las narrativas dominantes **como se evidencia en la cobertura complaciente de las guerras recientes**.
 
-## Hechos sin contexto: la receta para la manipulación
+## Hechos sin contexto: la receta para la manipulación, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 Confundir objetividad con imparcialidad es un error garrafal. La imparcialidad, entendida como dar tribuna a todas las voces, a menudo sirve para legitimar la desinformación y la propaganda. Presentar "ambos lados" de un debate científico establecido, como el cambio climático, es una forma de negacionismo disfrazada de ecuanimidad.
 
@@ -55,7 +55,7 @@ La "neutralidad cero" es un espejismo. La información "objetiva" puede ser, de 
 
 La supuesta crisis de objetividad es una cortina de humo. El periodismo, o es combativo, o no es nada. No hay espacio para medias tintas.
 
-## Basta de eufemismos: el periodismo debe elegir un bando
+## Basta de eufemismos: el periodismo debe elegir un bando Para profundizar en este tema, consulta nuestro analisis sobre [Adiós A La IA Neutra: Amparo Alonso Betanzos Exige](/ia/ia-humanismo-diseno-tecnologico/).
 
 La obsesión con la objetividad a menudo lleva a perpetuar narrativas dominantes y a silenciar voces marginalizadas. Al evitar tomar partido, los periodistas refuerzan el statu quo y se convierten en cómplices de la injusticia.
 

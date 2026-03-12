@@ -29,7 +29,7 @@ This went beyond typical online conflict, posing potential real-world consequenc
 
 The temporary demonetization was seen by many as insufficient, considering the severity of the offense. YouTube's Partner Program (YPP) promises scalable monetization, but this promise rings hollow if the platform inconsistently enforces its rules. With over 5 million channels monetizing through ads and memberships, the stakes are astronomical.
 
-## YouTube Algorithm Favors Established Creators, Critics Allege
+## YouTube Algorithm Favors Established Creators, Critics Allege, according to [Social Blade](https://socialblade.com/)
 
 The SSSniperWolf incident has reignited the debate about whether YouTube's algorithm favors certain creators. Concerns persist that YouTube applies its rules unfairly, particularly when comparing punishments for established, high-earning creators versus smaller ones. The core issue is whether YouTube prioritizes revenue over responsibility.
 

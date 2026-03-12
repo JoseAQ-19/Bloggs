@@ -21,7 +21,7 @@ El VO2 máx, ese número que obsesiona a ciclistas y triatletas, supuestamente d
 
 La idea de que el VO2 máx tiene un tope genético es un mantra repetido hasta la saciedad. Algunos estudios sugieren que la genética influye hasta en un 90% **¿Qué papel juegan los genes en el tema del VO2Max? : r/Velo - Reddit**. Otros, más "optimistas", lo dejan en un 70-80% **VO2 Máx., el motor del ciclista - REAL FEDERACIÓN ESPAÑOLA DE CICLISMO**. Pero, incluso asumiendo que la genética tiene un peso importante, eso deja un margen del 15-20% para la mejora a través del entrenamiento. El problema es que muchos ciclistas nunca llegan a exprimir ese porcentaje.
 
-## El Protocolo Incremental: ¿Amigo o Enemigo?
+## El Protocolo Incremental: ¿Amigo o Enemigo?, segun datos recogidos por [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 El test incremental, ese suplicio en el que te suben la carga cada pocos minutos hasta que vomitas arcoíris, es el método estándar para medir el VO2 máx.  Se espera que, a medida que aumenta la intensidad, el consumo de oxígeno también lo haga, hasta llegar a un punto donde, teóricamente, ya no puede subir más: la famosa "meseta".  Pero aquí está la bomba: un estudio reveló que solo el 47% de los ciclistas de élite muestran esa meseta durante la prueba [VO2 max in cycling: what it is, how it is measured and how to improve it - YouTube](https://www.mammothbikes.com/blog). ¿Qué significa esto? Que más de la mitad de los atletas de alto nivel NO alcanzan esa meseta en los tests tradicionales.
 

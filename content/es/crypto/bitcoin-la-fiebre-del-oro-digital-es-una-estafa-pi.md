@@ -25,7 +25,7 @@ Desde 2009, la narrativa de Bitcoin ha sido constante: un activo refugio, una re
 
 La promesa de transacciones rápidas y baratas es otra falacia. La red Bitcoin, saturada y lenta, se asemeja más a un caracol que a una liebre. Las tarifas elevadas, especialmente en momentos de alta demanda, hacen que su uso práctico sea prohibitivo. Olvídese de usar Bitcoin para comprar un café; terminará pagando más en comisiones que en el propio café.
 
-## Descentralización: Un Mito Conveniente
+## Descentralización: Un Mito Conveniente, segun datos recogidos por [SEC](https://www.sec.gov/)
 
 La descentralización es el mantra repetido hasta la saciedad por los evangelistas de Bitcoin. Pero la verdad es que el control de la red está peligrosamente concentrado. Los grandes "pools" de minería, controlados por un puñado de actores, ejercen un poder desproporcionado sobre la blockchain. Esto crea un punto de fallo centralizado que contradice el espíritu descentralizado original. ¿De qué sirve una moneda descentralizada si su infraestructura está controlada por unos pocos?
 
@@ -39,7 +39,7 @@ A diferencia de las monedas fiduciarias, Bitcoin no está respaldado por ningún
 
 El dominio de Bitcoin sobre el mercado de criptomonedas es un síntoma preocupante. La entrada de nuevos inversores se concentra principalmente en Bitcoin, beneficiando a los tenedores existentes a expensas de los recién llegados. Esto perpetúa el ciclo Ponzi, creando una transferencia de riqueza desde los ingenuos hacia los astutos.
 
-## Amenaza a la Estabilidad Financiera
+## Amenaza a la Estabilidad Financiera Para profundizar en este tema, consulta nuestro analisis sobre [Bitcoin a $74.500: La Bomba Macroeconómica Que BBV](/crypto/fin-mercado-bajista-bitcoin-recuperacion-74500/).
 
 El auge de los criptoactivos representa una amenaza real para la estabilidad financiera global. La creciente interconexión entre los criptoactivos y el sistema financiero tradicional aumenta el riesgo de contagio y amplifica la volatilidad. La falta de regulación efectiva y la opacidad del mercado facilitan el lavado de dinero, la financiación del terrorismo y otras actividades ilícitas.
 

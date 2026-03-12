@@ -29,7 +29,7 @@ Pansino herself took to X to express her dismay: "This is disgusting. I was film
 
 The Lunchly brand, a collaboration between MrBeast, Logan Paul, and KSI, aimed to disrupt the ready-to-eat meal market, but this incident exposed vulnerabilities in their supply chain. The immediate fallout included negative publicity and consumer skepticism, threatening to undermine the brand's initial promise. Social media fame can outpace operational competence.
 
-## Prime Hydration's Plummeting Popularity
+## Prime Hydration's Plummeting Popularity, according to [Social Blade](https://socialblade.com/)
 
 The moldy pizza incident highlights a broader trend of potential overextension within MrBeast's expanding business empire. One concerning indicator is the dramatic decline in revenue for Prime Hydration, a beverage company heavily promoted by Logan Paul and KSI.
 

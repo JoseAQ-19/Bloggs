@@ -21,7 +21,7 @@ Morningstar's strategic collaboration with the University of Illinois Gies Colle
 
 When evaluating the two platforms based on five critical metrics, the institutional advantages of Morningstar become increasingly apparent:
 
-**Morningstar Premium Research Service**
+[Morningstar](https://www.morningstar.com/)
 - 1-Year Performance (relative to S&P 500 benchmark): Outperformed by 1.2 percentage points
 - 3-Year Annualized Performance: 14.8% vs. S&P 500's 13.3%
 - 5-Year Annualized Performance: 12.6% vs. MSCI World's 11.2%
@@ -39,7 +39,7 @@ When evaluating the two platforms based on five critical metrics, the institutio
 
 The data reveals a clear disparity in risk-adjusted returns, with Morningstar's research consistently generating superior outcomes across multiple time horizons. While KnockoutStocks offers a more accessible price point, the performance differential suggests investors may be paying a premium for inferior research quality. Morningstar's institutional-grade research methodology, incorporating ESG factors, macroeconomic analysis, and proprietary risk models, appears to deliver tangible value beyond the basic stock screening capabilities offered by KnockoutStocks.
 
-## Expert Opinion
+## Expert Opinion, according to [Morningstar](https://www.morningstar.com/)
 
 According to Michael Sebastian, Director of Research at Intech Investment Management LLC, which recently increased its Morningstar stake by 7,383 shares, "The institutional research ecosystem has evolved to demand more than just stock recommendations; Morningstar's integrated approach that combines quantitative analysis with qualitative assessment provides the comprehensive perspective that sophisticated investors require to navigate today's complex market environment." This sentiment is echoed by institutional investors who have allocated additional capital to Morningstar shares, signaling continued confidence in the platform's research methodology.
 

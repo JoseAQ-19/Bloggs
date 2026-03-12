@@ -29,7 +29,7 @@ Edin stated, "For me, this is by far the biggest cheating we have had in curling
 
 Edin's comments suggest a systemic problem where violations are either missed by officials or tolerated within the sport's culture. This raises questions about the future of curling if it cannot ensure a level playing field. Curling must decide if it is ready to embrace the tools necessary to maintain its integrity.
 
-## World Curling's Double Standard: How "Spirit of Curling" Enables Cheating
+## World Curling's Double Standard: How "Spirit of Curling" Enables Cheating, according to [Reuters](https://www.reuters.com/)
 
 The "spirit of curling," a tradition of self-officiating and sportsmanship, is increasingly at odds with the realities of high-stakes competition. This emphasis on ethical play and self-regulation has historically been a point of pride. However, the rise in cheating accusations suggests that this system is no longer sufficient.
 

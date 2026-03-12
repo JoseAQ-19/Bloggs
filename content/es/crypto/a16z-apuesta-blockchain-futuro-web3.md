@@ -29,7 +29,7 @@ En contraste, España se enfrenta a un dilema regulatorio. La posible implementa
 
 El riesgo aquí no es solo la posible fuga de capitales hacia jurisdicciones más amigables con las criptomonedas, sino también la pérdida de oportunidades para que España se posicione como un líder en la innovación financiera. La imposición de cargas fiscales excesivas podría sofocar la creatividad y el emprendimiento, obstaculizando el desarrollo de nuevas tecnologías y modelos de negocio basados en blockchain. ¿Podría España estar matando la gallina de los huevos de oro antes de que tenga la oportunidad de ponerlos?
 
-## El Silencio de MiCA: ¿Oportunidad Real o Trampa Legal para los Inversores Españoles?
+## El Silencio de MiCA: ¿Oportunidad Real o Trampa Legal para los Inversores Españoles?, segun datos recogidos por [SEC](https://www.sec.gov/)
 
 La implementación del Reglamento de Mercados de Criptoactivos (MiCA) en la Unión Europea se presenta como un punto de inflexión en la regulación de los criptoactivos. Sin embargo, en España, el proceso de adaptación a esta nueva normativa ha generado ciertas dudas y ambigüedades que podrían afectar a los inversores. La Comisión Nacional del Mercado de Valores (CNMV) ha emitido reglas de transición para MiCA, buscando aclarar el marco regulatorio, pero persisten interrogantes sobre su impacto real en la práctica.
 
