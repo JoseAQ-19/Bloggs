@@ -618,5 +618,75 @@
     "cached_at": 1773422788.3084953,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
+  },
+  "9ee96a29d2849810b096fb4ad7845a44fb015972f3144c10f16e0a281e09fb7c": {
+    "data": [
+      {
+        "title": "Spotify vs. YouTube Music: I tried both streaming services, and this one was the better deal",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Bytes: Week in Review",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "YouTube TV Is an Almost Perfect March Madness Streaming Machine",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Jabeur launches YouTube channel with Badosa in tow",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "When will the Oscar broadcast move from ABC to YouTube?",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1773423096.0802453,
+    "func": "fetch_google_news",
+    "args_summary": "('youtube',)"
+  },
+  "f990e7eff0f3103ac01b2830c939d7dce846fb1e852800a979f12b26b78a0e42": {
+    "data": [
+      {
+        "title": "YouTube surpasses Disney, Paramount, WBD in 2025 ad revenue | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/03/10/youtube-surpasses-disney-paramount-wbd-in-2025-ad-revenue/"
+      },
+      {
+        "title": "HODIO, así es la herramienta con la que España busca medir el odio en plataformas digitales | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/hodio-asi-es-la-herramienta-con-la-que-espana-busca-medir-el-odio-en-plataformas-digitales"
+      },
+      {
+        "title": "Disney+ is rolling out its TikTok-like 'Verts' short-form video feed | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/03/12/disney-is-rolling-out-its-tiktok-like-verts-short-form-video-feed/"
+      }
+    ],
+    "cached_at": 1773423096.6753511,
+    "func": "fetch_exa_news",
+    "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   }
 }
