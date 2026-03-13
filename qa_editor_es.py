@@ -16,6 +16,7 @@ import json
 import glob
 import time
 import argparse
+import requests
 from datetime import datetime
 from dotenv import load_dotenv
 
@@ -48,7 +49,7 @@ NICHE_CONSTRAINTS_ES = {
     "crypto": "MISIÓN CRYPTO: Rigor financiero y seguridad. Siempre incluye una advertencia de que esto no es consejo financiero. Vocabulario técnico: liquidación, smart contracts, TVL, gas fees, halving, staking.",
     "ia": "MISIÓN IA: Enfoque en arquitectura y ética. Habla de modelos fundacionales, latencia de inferencia, RAG (Retrieval-Augmented Generation) y alineación. Evita el hype vacío.",
     "youtube": "MISIÓN MEDIA: Análisis de métricas de retención y psicología del espectador. Habla de CTR, hooks de los primeros 3 segundos y el algoritmo de sugerencias.",
-    "viral": "MISIÓN TRENDS: Análisis de viralidad y psicología de masas. Identifica por qué un contenido se vuelve viral (miedo, curiosidad, indignación).",
+    "viral": "MISIÓN TRENDS: Análisis de viralidad y psicología de masas. Identifica por qué un contenido se vuelve viral (miedo, curiosidad, indignación). OBLIGATORIO: Citar y enlazar la fuente original del hype (ej. el hilo de Reddit, el post de X/Twitter, el clip de TikTok o el medio que dio la exclusiva).",
     "tools": "MISIÓN PRODUCTIVIDAD: Análisis de coste-beneficio y UX. Evalúa la curva de aprendizaje y la integración con otros flujos de trabajo (APIs, Webhooks).",
     "funds": "MISIÓN ECONOMÍA: Foco en fondos de inversión y macroeconomía. Cita datos de mercados (S&P 500, Nasdaq) y explica conceptos de interés compuesto y gestión de riesgos."
 }
@@ -73,8 +74,9 @@ TU MISIÓN (en este orden de prioridad):
 1. GEO (GENERATE ENGINE OPTIMIZATION) - CHUNKING OBLIGATORIO: 
    Bajo CADA encabezado (H2, H3), la PRIMERA oración DEBE ser una respuesta directa, citable y sintetizada a la idea del título. PROHIBIDO empezar con frases de relleno como "En esta sección...", "A continuación...", o "Es vital entender...". Ve al grano desde la palabra 1.
 
-2. PRESERVACIÓN DE METADATOS: 
-   Si el borrador contiene bloques de <script type="application/ld+json"> o secciones de "Artículos Relacionados", DEBES MANTENERLOS INTACTOS al final del documento. No los resumas, no los traduzcas, no los elimines.
+2. PRESERVACIÓN DE METADATOS Y LIMPIEZA: 
+   - Si el borrador contiene secciones de "Artículos Relacionados", DEBES MANTENERLOS al final del documento.
+   - Si el borrador contiene bloques de <script type="application/ld+json">, ELIMÍNALOS. La gestión de metadatos se hace ahora vía frontmatter o layouts. NO ensucies el contenido con código JSON expuesto.
 
 3. IDIOMA PURO: Si encuentras CUALQUIER frase, título o párrafo en inglés, TRADÚCELO al castellano peninsular. Excepción: nombres propios (ChatGPT, Bitcoin, OpenAI).
 
@@ -87,8 +89,11 @@ TU MISIÓN (en este orden de prioridad):
 
 6. FRASES VETADAS: Busca y ELIMINA: "En el vertiginoso mundo de", "En resumen", "Un arma de doble filo", "promete revolucionar", "crecimiento explosivo".
 
-7. ENLACES EXTERNOS (AUTORIDAD): 
-   Es obligatorio que el artículo tenga al menos 2-3 enlaces externos a fuentes de alta autoridad (ej. BOE, El País, Nature, agencias oficiales, o medios líderes del sector). Si el borrador menciona un estudio, una ley o una noticia sin enlace, DEBES buscar la URL real (o una fuente fiable que la cite) e insertarla. Si no encuentras la URL exacta, enlaza al portal oficial de la entidad mencionada. 
+7. ENLACES EXTERNOS DE AUTORIDAD (GEO/EEAT) - MANDATORIO: 
+   Es OBLIGATORIO que el artículo tenga al menos 2-3 enlaces externos a fuentes de ALTA AUTORIDAD (ej. BOE, El País, Nature, Medios Líderes, o la FUENTE ORIGINAL de la noticia). 
+   - Si el borrador menciona un estudio, una ley o una noticia sin enlace, DEBES buscar la URL real e insertarla.
+   - Si el artículo carece de enlaces externos, tu revisión se considera FALLIDA. Debes inyectarlos tú mismo usando tu base de conocimiento.
+   - Los enlaces deben ser naturales y aportar valor (GEO).
 
 8. SEO: Asegúrate de que los H2 y H3 son potentes. No uses más de un H1.
 
@@ -332,6 +337,8 @@ def _call_llm_es(prompt, system_prompt):
                 return result
         except Exception as e:
             print(f"   ⚠️ [Editor ES] Gemini falló: {e}")
+        finally:
+             if hasattr(gemini_client, 'close'): gemini_client.close()
 
     print("   ❌ [Editor ES] Todos los LLMs fallaron.")
     return None
@@ -514,13 +521,8 @@ def run(category, content_dir="content/es"):
             print(f"      - {issue}")
 
     # A3: Guardar versión editada (preservar frontmatter y posibles bloques adicionales)
-    # Si por alguna razón el LLM omitió el JSON-LD a pesar del prompt, lo rescatamos del original si existía
-    if '<script type="application/ld+json">' in body and '<script type="application/ld+json">' not in edited_body:
-        print("   🩹 [Editor ES] Rescatando JSON-LD omitido por el LLM...")
-        json_ld_match = re.search(r'(<script type="application/ld\+json">.*?</script>)', body, re.DOTALL)
-        if json_ld_match:
-            edited_body += f"\n\n{json_ld_match.group(1)}"
-
+    # ELIMINADO: Ya no rescatamos JSON-LD script tags, el prompt pide explicitamente borrarlos del contenido body.
+    
     final_content = f"{frontmatter}\n\n{edited_body}\n"
     with open(draft_path, 'w', encoding='utf-8') as f:
         f.write(final_content)
