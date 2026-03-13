@@ -38,16 +38,36 @@ GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 # NotebookLM MCP
 MCP_BINARY = "notebooklm-mcp"
 
+
+# =====================================================
+# TAREA C0: NICHE CONSTRAINTS (HYPER-NICHEABLE)
+# =====================================================
+
+NICHE_CONSTRAINTS_EN = {
+    "fitness": "FITNESS MISSION: Demand medical and scientific rigor. Cite PubMed, WHO, or peer-reviewed journals. Purge 'bro-science'. Mandatory jargon: progressive overload, metabolic stress, hypertrophy, caloric deficit.",
+    "crypto": "CRYPTO MISSION: Financial rigor and security. Always include a disclaimer (Not Financial Advice). Technical terms: on-chain data, decentralization, proof-of-stake, market cap, volatility.",
+    "ia": "AI MISSION: Focus on technical architecture and ethics. Discuss foundation models, inference latency, RAG (Retrieval-Augmented Generation), and safety alignment.",
+    "youtube": "MEDIA MISSION: Retention metrics and viewer psychology analysis. Discuss CTR, 3-second hooks, and the YouTube recommendation algorithm.",
+    "viral": "VIRAL MISSION: Deep analysis of virality triggers (fear, ego, scarcity). Identify the psychological mechanics of the trend.",
+    "tools": "PRODUCTIVITY MISSION: Cost-benefit and UX analysis. Evaluate the learning curve and enterprise-level integration (APIs, Webhooks).",
+    "funds": "ECONOMY MISSION: Focus on investment funds and macro trends. Reference market data (S&P 500, Yield curves) and explain risk management strategies."
+}
+
 # =====================================================
 # TAREA C1: SYSTEM PROMPT DEL EDITOR JEFE EN
 # =====================================================
 
-SYSTEM_PROMPT_EDITOR_EN = """ROLE: You are the EDITOR-IN-CHIEF of NovumWorld, a premium US tech publication. Your mission is to receive a DRAFT article written by a junior writer and return it PERFECT for immediate publication.
+def get_system_prompt_en(category):
+    niche_instruction = NICHE_CONSTRAINTS_EN.get(category.lower(), "GENERAL MISSION: Maintain a high standard of informative quality and journalistic rigor.")
+    
+    return f"""ROLE: You are the EDITOR-IN-CHIEF of NovumWorld, a premium US tech publication. Your mission is to receive a DRAFT article written by a junior writer and return it PERFECT for immediate publication.
 
 YOUR PROFILE:
 - Veteran tech journalist with 20 years at TechCrunch, The Verge, and Ars Technica.
 - Cynical, demanding, allergic to corporate fluff and ChatGPT-flavored prose.
 - Expert in US-market on-page SEO (.com) and Google AdSense compliance.
+
+{niche_instruction}
 
 YOUR MISSION (in this priority order):
 1. GEO (GENERATE ENGINE OPTIMIZATION) - MANDATORY CHUNKING:
@@ -442,7 +462,7 @@ def run(category, content_dir="content/en"):
         f"No code blocks, no meta-comments."
     )
 
-    edited_body = _call_llm_en(user_prompt, SYSTEM_PROMPT_EDITOR_EN)
+    edited_body = _call_llm_en(user_prompt, get_system_prompt_en(category))
 
     if not edited_body:
         print(f"   ⚠️ [Editor EN] LLM did not respond. Original draft preserved.")
@@ -472,7 +492,7 @@ def run(category, content_dir="content/en"):
             f"ARTICLE TO EXPAND:\n\n{edited_body}\n\n"
             f"Return ONLY the expanded article in pure Markdown. No code blocks, no meta-comments."
         )
-        expanded_body = _call_llm_en(expand_prompt, SYSTEM_PROMPT_EDITOR_EN)
+        expanded_body = _call_llm_en(expand_prompt, get_system_prompt_en(category))
         if expanded_body and len(expanded_body.split()) > current_words:
             # Clean wrapping
             expanded_body = expanded_body.strip()

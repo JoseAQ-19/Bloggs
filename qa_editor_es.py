@@ -38,16 +38,36 @@ GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 # NotebookLM MCP
 MCP_BINARY = "notebooklm-mcp"
 
+
+# =====================================================
+# TAREA B0: RESTRICCIONES DE NICHO (HIPER-NICHEABLE)
+# =====================================================
+
+NICHE_CONSTRAINTS_ES = {
+    "fitness": "MISIÓN FITNESS: Exige rigor médico y científico. Cita estudios de PubMed, la OMS o revistas de biomecánica. Elimina consejos genéricos ('bro-science'). Vocabulario obligatorio: hipertrofia, déficit calórico, periodización, biomecánica.",
+    "crypto": "MISIÓN CRYPTO: Rigor financiero y seguridad. Siempre incluye una advertencia de que esto no es consejo financiero. Vocabulario técnico: liquidación, smart contracts, TVL, gas fees, halving, staking.",
+    "ia": "MISIÓN IA: Enfoque en arquitectura y ética. Habla de modelos fundacionales, latencia de inferencia, RAG (Retrieval-Augmented Generation) y alineación. Evita el hype vacío.",
+    "youtube": "MISIÓN MEDIA: Análisis de métricas de retención y psicología del espectador. Habla de CTR, hooks de los primeros 3 segundos y el algoritmo de sugerencias.",
+    "viral": "MISIÓN TRENDS: Análisis de viralidad y psicología de masas. Identifica por qué un contenido se vuelve viral (miedo, curiosidad, indignación).",
+    "tools": "MISIÓN PRODUCTIVIDAD: Análisis de coste-beneficio y UX. Evalúa la curva de aprendizaje y la integración con otros flujos de trabajo (APIs, Webhooks).",
+    "funds": "MISIÓN ECONOMÍA: Foco en fondos de inversión y macroeconomía. Cita datos de mercados (S&P 500, Nasdaq) y explica conceptos de interés compuesto y gestión de riesgos."
+}
+
 # =====================================================
 # TAREA B1: SYSTEM PROMPT DEL EDITOR JEFE ES
 # =====================================================
 
-SYSTEM_PROMPT_EDITOR_ES = """ROL: Eres el EDITOR JEFE de NovumWorld España. Tu misión es recibir un BORRADOR de artículo ya escrito por un redactor junior y devolverlo PERFECTO para publicación inmediata.
+def get_system_prompt_es(category):
+    niche_instruction = NICHE_CONSTRAINTS_ES.get(category.lower(), "MISIÓN GENERAL: Mantén un estándar de alta calidad informativa y rigor periodístico.")
+    
+    return f"""ROL: Eres el EDITOR JEFE de NovumWorld España. Tu misión es recibir un BORRADOR de artículo ya escrito por un redactor junior y devolverlo PERFECTO para publicación inmediata.
 
 TU PERFIL:
 - Periodista veterano español (Peninsular, NO LatAm) con 20 años en El País, elDiario.es y Xataka.
 - Cínico, exigente, alérgico a la paja corporativa y a la prosa de ChatGPT.
 - Experto en SEO on-page para el mercado español (.es) y cumplimiento estricto de Google AdSense.
+
+{niche_instruction}
 
 TU MISIÓN (en este orden de prioridad):
 1. GEO (GENERATE ENGINE OPTIMIZATION) - CHUNKING OBLIGATORIO: 
@@ -442,7 +462,7 @@ def run(category, content_dir="content/es"):
         f"Sin bloques de código, sin comentarios meta."
     )
 
-    edited_body = _call_llm_es(user_prompt, SYSTEM_PROMPT_EDITOR_ES)
+    edited_body = _call_llm_es(user_prompt, get_system_prompt_es(category))
 
     if not edited_body:
         print(f"   ⚠️ [Editor ES] LLM no respondió. Borrador original preservado.")
@@ -472,7 +492,7 @@ def run(category, content_dir="content/es"):
             f"ARTÍCULO A AMPLIAR:\n\n{edited_body}\n\n"
             f"Devuelve ÚNICAMENTE el artículo ampliado en Markdown puro. Sin bloques de código, sin comentarios."
         )
-        expanded_body = _call_llm_es(expand_prompt, SYSTEM_PROMPT_EDITOR_ES)
+        expanded_body = _call_llm_es(expand_prompt, get_system_prompt_es(category))
         if expanded_body and len(expanded_body.split()) > current_words:
             # Limpiar wrapping
             expanded_body = expanded_body.strip()
