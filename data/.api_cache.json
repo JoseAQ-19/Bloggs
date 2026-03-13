@@ -366,5 +366,110 @@
     "cached_at": 1773413274.1785233,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
+  },
+  "1aa06cf232e59b4099181fc77bc2032cca3f1701bcd8a89857881f3d3a40d006": {
+    "data": [
+      {
+        "title": "BTCUSD",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "BitMEX lanza competición de trading con premio total de $500,000",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Predicción del precio de Litecoin (LTC) para 2023 2024 2025 2026",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "El auge de los «Crypto-Games»: ¿Es el smartphone la consola definitiva para el juego con activos digitales?",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "BitMEX lanza la competencia de trading Crypto Olympus con un premio total de 500.000 USDT",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1773413757.1416242,
+    "func": "fetch_google_news",
+    "args_summary": "('crypto',)"
+  },
+  "5c20aedfee12fab17574d9716695b511d7e61e204e2a7e9a7f897f9646417150": {
+    "data": [
+      {
+        "title": "Harvard shakes up its crypto strategy by selling Bitcoin and purchasing Ethereum",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 17,
+        "url": "https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/"
+      },
+      {
+        "title": "Binance sues WSJ, panicked by gov't probes into sanctioned crypto transfers",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 8,
+        "url": "https://arstechnica.com/tech-policy/2026/03/binance-sues-wsj-over-report-sparking-government-probes-into-exchange/"
+      },
+      {
+        "title": "A Crypto River Runs Through It",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 4,
+        "url": "https://cepa.org/article/a-crypto-river-runs-through-it/"
+      }
+    ],
+    "cached_at": 1773413757.4255648,
+    "func": "fetch_hackernews",
+    "args_summary": "(['crypto'],)"
+  },
+  "151a07ed322d3cbdd77d65398c3a13cd6a0111c87db69f3fd0b926d706a54d98": {
+    "data": [
+      {
+        "title": "El BCE y la Fed están a punto de entrar en la 'sala de guerra' para frenar las expectativas de inflación",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://www.businessinsider.es/mercados/bce-fed-estan-punto-entrar-sala-guerra-para-frenar-las-expectativas-inflacion_6944391_0.html"
+      },
+      {
+        "title": "Gracias a su descomunal inversión en renovables, un país respira aliviado ante la crisis energética de Irán: China",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/energia/guerra-iran-esta-haciendo-mejor-anuncio-posible-para-renovables-chinas-china-sabe"
+      },
+      {
+        "title": "Miles de personas están haciendo cola en Shenzhen por una razón: instalar OpenClaw en sus ordenadores",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/aplicaciones/pregunta-cuanto-esta-arrasando-openclaw-respuesta-china-estan-haciendo-cola-para-instalarlo"
+      },
+      {
+        "title": "Hacienda lo confirma: estos serán los grandes cambios en la declaración de la Renta - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/actualidad/sociedad/hacienda-lo-confirma-estos-seran-los-grandes-cambios-en-la-declaracion-de-la-renta-f202603-n/"
+      }
+    ],
+    "cached_at": 1773413757.9561415,
+    "func": "fetch_exa_news",
+    "args_summary": "('crypto noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   }
 }
