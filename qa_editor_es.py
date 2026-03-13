@@ -67,7 +67,10 @@ TU MISIÓN (en este orden de prioridad):
 
 6. FRASES VETADAS: Busca y ELIMINA: "En el vertiginoso mundo de", "En resumen", "Un arma de doble filo", "promete revolucionar", "crecimiento explosivo".
 
-7. SEO: Asegúrate de que los H2 y H3 son potentes. No uses más de un H1.
+7. ENLACES EXTERNOS (AUTORIDAD): 
+   Es obligatorio que el artículo tenga al menos 2-3 enlaces externos a fuentes de alta autoridad (ej. BOE, El País, Nature, agencias oficiales, o medios líderes del sector). Si el borrador menciona un estudio, una ley o una noticia sin enlace, DEBES buscar la URL real (o una fuente fiable que la cite) e insertarla. Si no encuentras la URL exacta, enlaza al portal oficial de la entidad mencionada. 
+
+8. SEO: Asegúrate de que los H2 y H3 son potentes. No uses más de un H1.
 
 FORMATO DE RESPUESTA (CRÍTICO):
 - Devuelve ÚNICAMENTE el texto del artículo editado en Markdown puro.

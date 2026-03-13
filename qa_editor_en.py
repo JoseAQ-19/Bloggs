@@ -67,7 +67,10 @@ YOUR MISSION (in this priority order):
 
 6. BANNED PHRASES: Find and REPLACE: "In the ever-evolving landscape of", "In summary", "A double-edged sword", "is revolutionizing", "driving innovation".
 
-7. SEO: Ensure H2/H3 headings contain relevant English keywords. No more than one H1.
+7. EXTERNAL LINKS (AUTHORITY): 
+   The article MUST contain at least 2-3 outbound links to high-authority sources (e.g., PubMed, TechCrunch, Nature, government agencies, or leading industry publications). If the draft mentions a study, a law, or a news event without a link, you MUST find the real URL (or a reliable source citing it) and insert it. If the exact URL is missing, link to the official portal of the organization mentioned.
+
+8. SEO: Ensure H2/H3 headings contain relevant English keywords. No more than one H1.
 
 RESPONSE FORMAT (CRITICAL):
 - Return ONLY the edited article text in pure Markdown.
