@@ -212,5 +212,82 @@
     "cached_at": 1773408747.7182486,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
+  },
+  "cddff883eee8ba79205166d8431aed7738bd3bb0724b8d87f5f17a2a8cc26039": {
+    "data": [
+      {
+        "title": "AlphaSniper vs Plex: qué se sabe del reto viral en el Circuito del Jarama, cuándo será la carrera y cómo ver el desafío entre Lamborghini y Porsche",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Meta compra Moltbook, la red social viral para agentes de inteligencia artificial",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "La reina Letizia, viral: ¿qué significa su \"buenos días y buena suerte\"?",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "El tiktok de Enzo Alvés que se ha hecho viral: puede tener incluso más ‘flow’ que su padre",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "La emotiva historia viral de un abuelo del Athletic en Granada: «Merece cumplir su sueño»",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1773412930.444369,
+    "func": "fetch_google_news",
+    "args_summary": "('viral',)"
+  },
+  "a362792cc6b4faf81d359ce19013ff8b6c624ffb2aada45d97ffec0e5515eba1": {
+    "data": [
+      {
+        "title": "Miles de personas están haciendo cola en Shenzhen por una razón: instalar OpenClaw en sus ordenadores",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/aplicaciones/pregunta-cuanto-esta-arrasando-openclaw-respuesta-china-estan-haciendo-cola-para-instalarlo"
+      },
+      {
+        "title": "¿México prohibirá las redes sociales?: Analizan restringirlas por “salud mental” - AS México",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://mexico.as.com/actualidad/mexico-prohibira-las-redes-sociales-analizan-restringirlas-por-salud-mental-f202603-n/"
+      },
+      {
+        "title": "La NASA alerta: una nave espacial está a punto de caer sin control a la Tierra y estos son los riesgos - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/actualidad/sociedad/la-nasa-alerta-una-nave-espacial-esta-a-punto-de-caer-sin-control-a-la-tierra-y-estos-son-los-riesgos-f202603-n/"
+      },
+      {
+        "title": "Junior Playboy es expulsado de ‘Fiebre de Baile’, abandona el estudio de Chilevisión y esto ocurre: el momento ya es viral - AS Chile",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://chile.as.com/videos/junior-playboy-es-expulsado-de-fiebre-de-baile-abandona-el-estudio-de-chilevision-y-esto-ocurre-el-momento-ya-es-viral-f202603-v/"
+      }
+    ],
+    "cached_at": 1773412930.9533744,
+    "func": "fetch_exa_news",
+    "args_summary": "('viral noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   }
 }
