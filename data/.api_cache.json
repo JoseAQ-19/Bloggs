@@ -471,5 +471,82 @@
     "cached_at": 1773413757.9561415,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
+  },
+  "c7dcb72dc33baaa2e522c198717b4b418fcd1e9a91af28dfbac294c4b153973d": {
+    "data": [
+      {
+        "title": "Bitcoin tops $72,000 as crypto rallies despite stronger dollar: Crypto Markets Today",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Trump crypto venture offers “guaranteed direct access” for $5 million",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Five-minute bets are the new craze sweeping crypto markets",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Cryptocurrency & Blockchain Stock News",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Bitcoin Surges Past $70,000. This Trump Post Could Be Lifting the Crypto, Ethereum and XRP.",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1773415482.172562,
+    "func": "fetch_google_news",
+    "args_summary": "('crypto',)"
+  },
+  "db4cf0fe883cd8d987c633ca7c9adb75314597f893f367cbf745e8aa11ded4e3": {
+    "data": [
+      {
+        "title": "HODIO, así es la herramienta con la que España busca medir el odio en plataformas digitales | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/hodio-asi-es-la-herramienta-con-la-que-espana-busca-medir-el-odio-en-plataformas-digitales"
+      },
+      {
+        "title": "Gemini por fin mejora su integración con Google Docs, Hojas de Cálculo y otras apps de Workspace | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/gemini-por-fin-mejora-su-integracion-con-google-docs-hojas-de-calculo-y-otras-apps-de-workspace"
+      },
+      {
+        "title": "Cómo será Lunar Gateway, la futura estación de la ESA que orbitará la Luna | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/como-sera-lunar-gateway-la-futura-estacion-de-la-esa-que-orbitara-la-luna"
+      },
+      {
+        "title": "¿Por qué es tan difícil volver a mandar humanos a la Luna si ya se hizo seis veces hace medio siglo? | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/por-que-es-tan-dificil-volver-a-mandar-humanos-a-la-luna"
+      }
+    ],
+    "cached_at": 1773415482.6874816,
+    "func": "fetch_exa_news",
+    "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   }
 }
