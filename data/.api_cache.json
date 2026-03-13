@@ -135,5 +135,82 @@
     "cached_at": 1773408338.7007143,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
+  },
+  "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
+    "data": [
+      {
+        "title": "St. Patrick's 'Slay' fitness dance class coming to Waco this weekend",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "The hardest step is starting: Macon trainer offers simple fitness advice",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Arne Slot issues Liverpool fitness update on Alexander Isak and Federico Chiesa",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Howe on Barcelona disappointment, Gordon's fitness and Joelinton's form",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Health & Wellness Series: My Fitness Journey Q & A with Jessica Tipton",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1773408747.2667751,
+    "func": "fetch_google_news",
+    "args_summary": "('fitness',)"
+  },
+  "5f74b081c9753b13b48c085df1624d184c9deb4bc34d11178f03bbc18aeae64e": {
+    "data": [
+      {
+        "title": "The Fort Strength Training Wearable Tracks Your Sets (2026) | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "http://www.wired.com/story/fort-strength-training-wearable-launch/"
+      },
+      {
+        "title": "La tecnología está cambiando el tratamiento de la apnea del sueño | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/la-tecnologia-esta-cambiando-el-tratamiento-de-la-apnea-del-sueno"
+      },
+      {
+        "title": "HODIO, así es la herramienta con la que España busca medir el odio en plataformas digitales | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/hodio-asi-es-la-herramienta-con-la-que-espana-busca-medir-el-odio-en-plataformas-digitales"
+      },
+      {
+        "title": "Gemini por fin mejora su integración con Google Docs, Hojas de Cálculo y otras apps de Workspace | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/gemini-por-fin-mejora-su-integracion-con-google-docs-hojas-de-calculo-y-otras-apps-de-workspace"
+      }
+    ],
+    "cached_at": 1773408747.7182486,
+    "func": "fetch_exa_news",
+    "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   }
 }
