@@ -71,30 +71,58 @@
     --bg-color: #ffffff;
     /* Brutalist often uses white/black contrast */
     --text-color: #000000;
-    --card-bg: #f0f0f0;
+    --card-bg: #fff;
     --border-color: #000;
 }
 
 .theme-viral body {
     background-color: #ffffff !important;
-    /* Override global dark */
-    color: black !important;
+    color: #000 !important;
 }
 
-.theme-viral article.glass-card {
+/* Fix for invisible text in Single View */
+.theme-viral article.glass-card,
+.theme-viral .author-bio {
     background: #fff !important;
     border: 3px solid black !important;
     box-shadow: 8px 8px 0px black !important;
     border-radius: 0 !important;
+    color: #000 !important;
+    height: auto !important;
 }
 
-.theme-viral h1 {
-    color: black !important;
+.theme-viral h1, 
+.theme-viral h2, 
+.theme-viral h3, 
+.theme-viral h4,
+.theme-viral .white,
+.theme-viral .white-90,
+.theme-viral .white-80,
+.theme-viral .white-70,
+.theme-viral .white-60,
+.theme-viral .white-40,
+.theme-viral p,
+.theme-viral span,
+.theme-viral time,
+.theme-viral strong,
+.theme-viral b,
+.theme-viral aside {
+    color: #000 !important;
+}
+
+.theme-viral .nested-links.white {
+    color: #000 !important;
 }
 
 .theme-viral a {
     color: #8A2BE2 !important;
     font-weight: 900;
+    text-decoration: underline !important;
+}
+
+.theme-viral .author-bio {
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
 }
 
 body,
@@ -184,6 +212,11 @@ article.glass-card {
     flex-direction: column;
     height: 100%;
     /* Uniform height in grid */
+}
+
+/* Fix for full article pages: don't stretch the card vertically */
+body.is-page article.glass-card {
+    height: auto !important;
 }
 
 /* Line Clamp for Summaries (Compact UI) */
