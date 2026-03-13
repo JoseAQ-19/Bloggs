@@ -28,6 +28,7 @@ jobs:
       - run: |
           git config --global user.name "JoseAQ-19"
           git config --global user.email "josearizaquintero@gmail.com"
+          git add data/.api_cache.json || true
           git add data/trends_fitness_es.json
           git diff --staged --quiet && echo "No trends found" && exit 0
           git commit -m "🔭 Scout Fitness (ES): research completed"
