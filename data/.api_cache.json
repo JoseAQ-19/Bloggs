@@ -58,5 +58,82 @@
     "cached_at": 1773330365.9483945,
     "func": "_get_google_news_headlines",
     "args_summary": "('viral YouTube challenge reaction',)"
+  },
+  "4618dd580265f460566f713ecc35b03ce5ab52b17e317eed8d0201579ddcf0d6": {
+    "data": [
+      {
+        "title": "La sala fitness del Polideportivo Azken Portu se amplía hasta los 600 m² tras una renovación integral",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "He perdido 50 kilos a los 50 años gracias a caminar y entrenar fuerza: \"No había pisado un gimnasio en mi vida\"",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Newcastle boss Howe gives fitness updates on Guimaraes, Gordon, Wissa and Miley",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Rez desembarca en España con una nueva generación de bebidas energéticas para el fitness",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Ávila acoge este sábado la VI Gala del Deporte de la Federación de Fisicoculturismo y Fitness de Castilla y León",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1773408338.347497,
+    "func": "fetch_google_news",
+    "args_summary": "('fitness',)"
+  },
+  "f57c7b2f36f1b097c5b6ce234958742b388d8049bb95db71d158ac3ca0835b52": {
+    "data": [
+      {
+        "title": "Qué es el ‘athleisure’, la nueva tendencia de moda que está arrasando - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/tikitakas/estilo/que-es-el-athleisure-la-nueva-tendencia-de-moda-que-esta-arrasando-f202603-n/"
+      },
+      {
+        "title": "Lanzarote levanta el telón del triatlón mundial con la Copa del Mundo - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "http://masdeporte.as.com/masdeporte/polideportivo/lanzarote-levanta-el-telon-del-triatlon-mundial-con-la-copa-del-mundo-f202603-n/"
+      },
+      {
+        "title": "Granada presenta la carrera “más bonita del mundo” - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "http://masdeporte.as.com/masdeporte/atletismo/granada-presenta-la-carrera-mas-bonita-del-mundo-f202603-n/"
+      },
+      {
+        "title": "Alfonso Coelho, entrenador personal: “Caminar cuenta como ejercicio dependiendo de la persona”  - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/tikitakas/salud/alfonso-coelho-entrenador-personal-caminar-cuenta-como-ejercicio-dependiendo-de-la-persona-f202603-n/"
+      }
+    ],
+    "cached_at": 1773408338.7007143,
+    "func": "fetch_exa_news",
+    "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   }
 }
