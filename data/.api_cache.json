@@ -548,5 +548,75 @@
     "cached_at": 1773415482.6874816,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
+  },
+  "fb4ad1bcef6d3043168469167a15cb1cb1ab0f544701e2b912c49d41dd73fb7a": {
+    "data": [
+      {
+        "title": "¿El vídeo más visto en YouTube? El nuevo récord que han pulverizado Rosé y Bruno Mars con 'APT'",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Nil Ojeda cuestiona el \"formato MrBeast\" en YouTube: \"Es pasajero, la gente no te está conociendo a ti\"",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "“YouTube ya no es vídeos de gatos”: acaba de ganar más que Disney, Warner y NBC juntos",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "PC con pilas funciona: experimento viral de YouTube prueba que es viable",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Disney+ se convierte en red social: el nuevo ‘feed’ de videos cortos al estilo Shorts de YouTube",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1773422787.8002174,
+    "func": "fetch_google_news",
+    "args_summary": "('youtube',)"
+  },
+  "cfab165c756760f9672efaf7f54fa3040ac0f24e7b4012e5d64766caf60cfad3": {
+    "data": [
+      {
+        "title": "Más largos y sin botón de omitir: en qué dispositivos planea YouTube introducir sus nuevos anuncios - Meristation",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://www.as.com/meristation/betech/mas-largos-y-sin-boton-de-omitir-en-que-dispositivos-planea-youtube-introducir-sus-nuevos-anuncios-f202603-n/"
+      },
+      {
+        "title": "El cambio histórico de los premios Oscar para el futuro de su retransmisión en directo - Meristation",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/meristation/cine/el-cambio-historico-de-los-premios-oscar-para-el-futuro-de-su-retransmision-en-directo-f202603-n/"
+      },
+      {
+        "title": "El Xokas se cansa de todos los cascos gaming que ha probado y anuncia su nuevo proyecto: “Voy a hacer los que a mí me gustan” - Meristation",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/meristation/streamers/el-xokas-se-cansa-de-todos-los-cascos-gaming-que-ha-probado-y-anuncia-su-nuevo-proyecto-voy-a-hacer-los-que-a-mi-me-gustan-f202603-n/"
+      }
+    ],
+    "cached_at": 1773422788.3084953,
+    "func": "fetch_exa_news",
+    "args_summary": "('youtube noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   }
 }
