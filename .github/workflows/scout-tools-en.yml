@@ -39,6 +39,7 @@ jobs:
         run: |
           git config --global user.name "JoseAQ-19"
           git config --global user.email "josearizaquintero@gmail.com"
+          git add data/.api_cache.json || true
           git add data/trends_tools_en.json
           git diff --staged --quiet && echo "No trends found" && exit 0
           git commit -m "🔭 Scout tools (EN): research completed"
