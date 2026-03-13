@@ -287,8 +287,15 @@
 - [x] **Bloque 2 (Calidad de Contenido):** Análisis E-E-A-T completado. Probabilidad de aprobación AdSense: 95%.
 - [x] **Veredicto Final:** Ralph Loop v3.5 es apto para escala masiva. Activado el "Tirano de Calidad" en los prompts de los Editores Jefes (ES/EN).
 
+
 ## ⚖️ Hito: Compliance Legal (TikTok & AdSense) - Completado (2026-03-12)
 - [x] Acción 1: Creación de `content/en/terms-of-service.md` y `content/es/terms-of-service.md` con estándares internacionales.
 - [x] Acción 2: Integración de "Terms of Service" y "Privacy Policy" en los menús de navegación (`config.toml`) para visibilidad en Sidebar.
 - [x] Acción 3: Inyección de enlaces legales permanentes en el Pie de Página (`site-footer.html`) cumpliendo requisitos de TikTok for Developers.
 - [x] Acción 4: Actualización de `fix_legal_menu.py` para incluir la nueva página en el protocolo de mantenimiento.
+
+## 🏃 FASE 8: Auditoría de Fitness y Saneamiento JSON (2026-03-13)
+- [x] **Auditoría de Fitness:** Analizados artículos "Azken Portu" (ES) y "Shamrock Shake" (EN).
+- [x] **Sanidad JSON-LD:** Eliminados bloques de código JSON literales, corregidos errores de sintaxis (asteriscos en URLs) y deduplicados scripts de metadatos.
+- [x] **Unificación Editorial:** Sustituidos placeholders genéricos ("Nombre del autor") por "NovumWorld Editorial Team".
+- [x] **Restauración de Enlaces:** Recuperadas secciones de artículos relacionados tras la limpieza técnica.
