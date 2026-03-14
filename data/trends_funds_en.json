@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-14T07:28:56.958470+00:00",
+  "scouted_at": "2026-03-14T07:29:50.532244+00:00",
   "total_candidates": 23,
   "topics": [
     {
@@ -136,17 +136,17 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0UnNjdGM4LUwtS2VLbFBsVndhSmhjYWYzQll6WjJuM1NLQ2g1Ynp0ejlMVWxFNjk4eDZtMUVqOE5vTThCeDZKV3kzZGFpX0d1QUdTQVQxSVBTemk5ZUFNU3JFRS05ckw3djBvQng0UFVwNXpJNWtzU0w1Tld5QQ?oc=5"
     },
     {
-      "title": "Vanguard Slashes Fees Across 84 Funds, Saving Investors $250 Million in 2026, Average Expense Ratio Now 0.06%.",
+      "title": "BlackRock's iShares Bitcoin Trust (IBIT) Sees $115.51 Million Net Inflows on March 11",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock Limits Withdrawals from $26 Billion HPS Corporate Lending Fund (HLEND) Amid Private Credit Redemption Surge; Shares Fall 6.7%.",
+      "title": "Vanguard Russell 2000 ETF (VTWO) Outperforms S&P 500 with a 4.3% Gain in 2026",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Amundi Launches Europe's First Global ex-US Government Bond UCITS ETF (GXUS) with a 0.20% TER, Tracking Bloomberg Index.",
+      "title": "T. Rowe Price Launches Emerging Markets Equity Research ETF (TEMR) with a 0.40% Expense Ratio",
       "source": "gemini_grounding_finance",
       "url": ""
     }
