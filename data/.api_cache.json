@@ -629,60 +629,60 @@
   "9ee96a29d2849810b096fb4ad7845a44fb015972f3144c10f16e0a281e09fb7c": {
     "data": [
       {
-        "title": "Spotify vs. YouTube Music: I tried both streaming services, and this one was the better deal",
+        "title": "After 5 years, our family gave up full-time travel and YouTube success. I'm still worried we've messed up the kids.",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Bytes: Week in Review",
+        "title": "'Harming babies': Child safety group blasts Google's investment in AI content for kids",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "YouTube TV Is an Almost Perfect March Madness Streaming Machine",
+        "title": "Real journalism tells real stories, not YouTube fables to solicit money",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Jabeur launches YouTube channel with Badosa in tow",
+        "title": "YouTube Gold: Arizona Gets A Highlight They’ll Play For Years",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "When will the Oscar broadcast move from ABC to YouTube?",
+        "title": "Channel Surfer Site Brings the Classic TV Guide to YouTube",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773423096.0802453,
+    "cached_at": 1773515505.513235,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "f990e7eff0f3103ac01b2830c939d7dce846fb1e852800a979f12b26b78a0e42": {
     "data": [
       {
-        "title": "YouTube surpasses Disney, Paramount, WBD in 2025 ad revenue | TechCrunch",
+        "title": "Channel Surfer lets you watch YouTube like it's old-school cable TV | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/10/youtube-surpasses-disney-paramount-wbd-in-2025-ad-revenue/"
+        "url": "https://techcrunch.com/2026/03/12/channel-surfer-watch-youtube-retro-cable-tv-guide/"
       },
       {
-        "title": "HODIO, así es la herramienta con la que España busca medir el odio en plataformas digitales | WIRED",
+        "title": "This is immediately my new favorite way to watch YouTube. | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/hodio-asi-es-la-herramienta-con-la-que-espana-busca-medir-el-odio-en-plataformas-digitales"
+        "url": "https://www.theverge.com/tech/893598/this-is-immediately-my-new-favorite-way-to-watch-youtube"
       },
       {
         "title": "Disney+ is rolling out its TikTok-like 'Verts' short-form video feed | TechCrunch",
@@ -690,9 +690,16 @@
         "lang": "en",
         "score": 0,
         "url": "https://techcrunch.com/2026/03/12/disney-is-rolling-out-its-tiktok-like-verts-short-form-video-feed/"
+      },
+      {
+        "title": "The Verge",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://store.theverge.com/streaming/894637/youtube-thumbnails-just-got-an-upgrade"
       }
     ],
-    "cached_at": 1773423096.6753511,
+    "cached_at": 1773515505.9765415,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
