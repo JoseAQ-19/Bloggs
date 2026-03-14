@@ -1051,5 +1051,82 @@
     "cached_at": 1773479997.0601997,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
+  },
+  "88f30aaa7bab0042d69286b6e1ddf009c9ed8bd38dd824e484b197be702b0cbf": {
+    "data": [
+      {
+        "title": "AI (artificial intelligence)",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "UPDATE: Missing woman in Clay County found safe",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Obituary information for Ramona Kersey",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Dubuque-Township, IA Weather Forecast | MSN Weather",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Lila Kunze Obituary (1927",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1773481922.5282407,
+    "func": "fetch_google_news",
+    "args_summary": "('ia',)"
+  },
+  "5ed87e0a555e160d6f2e7a9ad4294ea2283b3cea14c5520f93b58951f9855102": {
+    "data": [
+      {
+        "title": "The biggest AI stories of the year (so far) | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/"
+      },
+      {
+        "title": "Google Maps is getting an AI 'Ask Maps' feature and upgraded 'immersive' navigation | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/"
+      },
+      {
+        "title": "Google Maps is getting AI-powered ‘Ask Maps’ feature and more immersive navigation | The Verge",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation"
+      },
+      {
+        "title": "HODIO, así es la herramienta con la que España busca medir el odio en plataformas digitales | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/hodio-asi-es-la-herramienta-con-la-que-espana-busca-medir-el-odio-en-plataformas-digitales"
+      }
+    ],
+    "cached_at": 1773481923.1240633,
+    "func": "fetch_exa_news",
+    "args_summary": "('ia noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   }
 }
