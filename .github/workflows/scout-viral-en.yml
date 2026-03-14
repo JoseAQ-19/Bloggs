@@ -1,7 +1,7 @@
 name: "Scout Viral - English"
 on:
   schedule:
-    - cron: '22 21 * * *'
+    - cron: '30 23 * * *'
   workflow_run:
     workflows: ["Writer Viral - Spanish"]
     types: [completed]

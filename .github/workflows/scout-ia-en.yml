@@ -2,7 +2,7 @@ name: "Scout IA - English"
 
 on:
   schedule:
-    - cron: '41 9 * * *'
+    - cron: '30 11 * * *'
   workflow_dispatch:
 
 permissions:

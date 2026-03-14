@@ -1,7 +1,7 @@
 name: "Scout Crypto - English"
 on:
   schedule:
-    - cron: '8 15 * * *'
+    - cron: '30 17 * * *'
   workflow_run:
     workflows: ["Writer Crypto - Spanish"]
     types: [completed]

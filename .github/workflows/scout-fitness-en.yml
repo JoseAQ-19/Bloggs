@@ -1,7 +1,7 @@
 name: "Scout Fitness - English"
 on:
   schedule:
-    - cron: '53 5 * * *'
+    - cron: '30 5 * * *'
   workflow_run:
     workflows: ["Writer Fitness - Spanish"]
     types: [completed]

@@ -2,7 +2,7 @@ name: "Scout tools - Spanish"
 
 on:
   schedule:
-    - cron: '11 9 * * *'
+    - cron: '0 13 * * *'
   workflow_dispatch:
 
 permissions:

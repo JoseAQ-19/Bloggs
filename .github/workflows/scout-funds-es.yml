@@ -1,7 +1,7 @@
 name: "Scout Funds - Spanish"
 on:
   schedule:
-    - cron: '15 7 * * *'
+    - cron: '0 7 * * *'
   workflow_dispatch:
 permissions:
   contents: write

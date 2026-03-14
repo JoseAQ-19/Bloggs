@@ -1,7 +1,7 @@
 name: "Scout YouTube - English"
 on:
   schedule:
-    - cron: '44 17 * * *'
+    - cron: '30 20 * * *'
   workflow_run:
     workflows: ["Writer YouTube - Spanish"]
     types: [completed]
