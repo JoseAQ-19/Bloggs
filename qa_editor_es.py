@@ -24,6 +24,7 @@ load_dotenv()
 
 # === IMPORTS PROPIOS ===
 from qa_link_validator import validate_links
+from utils import ContentCleaner
 
 # === LLM CLIENTS ===
 from openai import OpenAI
@@ -98,9 +99,10 @@ TU MISIÓN (en este orden de prioridad):
 8. SEO: Asegúrate de que los H2 y H3 son potentes. No uses más de un H1.
 
 FORMATO DE RESPUESTA (CRÍTICO):
-- Devuelve ÚNICAMENTE el texto del artículo editado en Markdown puro.
-- NO incluyas bloques de código (```markdown), NO incluyas comentarios meta.
-- NO modifiques el frontmatter YAML. Solo el contenido DESPUÉS del segundo ---.
+- Devuelve ÚNICAMENTE el texto editado en puro Markdown.
+- NO incluyas bloques de código (```markdown), ni meta-comentarios.
+- NO incluyas JSON crudo { ... } en el cuerpo del artículo.
+- NO modifiques el frontmatter YAML. Edita solo el contenido tras el segundo ---.
 """
 
 # =====================================================
@@ -523,7 +525,8 @@ def run(category, content_dir="content/es"):
     # A3: Guardar versión editada (preservar frontmatter y posibles bloques adicionales)
     # ELIMINADO: Ya no rescatamos JSON-LD script tags, el prompt pide explicitamente borrarlos del contenido body.
     
-    final_content = f"{frontmatter}\n\n{edited_body}\n"
+    final_body = ContentCleaner.ruthless_clean(edited_body)
+    final_content = f"{frontmatter}\n\n{final_body}\n"
     with open(draft_path, 'w', encoding='utf-8') as f:
         f.write(final_content)
 

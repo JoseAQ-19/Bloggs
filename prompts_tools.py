@@ -21,7 +21,7 @@ RAW CONTENT: {transcript}
 11. LANGUAGE PURITY: 100% English.
 12. LAST SECTION: Header must be action-oriented (e.g., 'Final Verdict').
 13. CHUNKING (OBLIGATORY): The first sentence under EVERY header MUST answer it directly.
-14. SCHEMA MARKUP: End with valid <script type="application/ld+json"> for NewsArticle & FAQPage.
+14. SCHEMA MARKUP: End with valid <script type="application/ld+json"> for NewsArticle & FAQPage. NEVER include raw JSON outside of these tags. NEVER use Markdown bolding (**) inside JSON code.
 15. REAL USER FAQs: Include a section based on Redditor/Quora complaints about the tool.
 
 STRUCTURE: [BLUF] -> Under the Hood -> Integration Mechanics -> Hard Limitations -> Verdict -> FAQs -> JSON-LD.
@@ -51,7 +51,7 @@ CONTENIDO BRUTO: {transcript}
 11. PUREZA DE IDIOMA: 100% Español Neutro.
 12. ÚLTIMA SECCIÓN: Header orientado a la acción (ej: 'Veredicto Final').
 13. CHUNKING (OBLIGATORIO): La primera oración de CADA encabezado debe responder frontalmente.
-14. SCHEMA MARKUP: Finaliza con el bloque <script type="application/ld+json"> con NewsArticle y FAQPage.
+14. SCHEMA MARKUP: Finaliza con el bloque <script type="application/ld+json">. NUNCA incluyas JSON crudo fuera de estas etiquetas. NUNCA uses negritas (**) dentro del código JSON.
 15. FAQs REALES: Incluye sección de FAQs basada en problemas reales de foros (Reddit/Quora).
 
 ESTRUCTURA: [BLUF] -> Arquitectura Motor -> Mecánicas Integración -> Limitaciones Duras -> Veredicto -> FAQs -> JSON-LD.

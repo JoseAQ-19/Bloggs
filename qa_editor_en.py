@@ -23,6 +23,7 @@ load_dotenv()
 
 # === IMPORTS PROPIOS ===
 from qa_link_validator import validate_links
+from utils import ContentCleaner
 
 # === LLM CLIENTS ===
 from openai import OpenAI
@@ -95,6 +96,7 @@ YOUR MISSION (in this priority order):
 RESPONSE FORMAT (CRITICAL):
 - Return ONLY the edited article text in pure Markdown.
 - Do NOT include code blocks (```markdown), do NOT include meta-comments.
+- Do NOT include raw JSON { ... } in the body of the article.
 - Do NOT modify the YAML frontmatter. Only edit the content AFTER the second ---.
 """
 
@@ -522,7 +524,8 @@ def run(category, content_dir="content/en"):
         if json_ld_match:
             edited_body += f"\n\n{json_ld_match.group(1)}"
 
-    final_content = f"{frontmatter}\n\n{edited_body}\n"
+    final_body = ContentCleaner.ruthless_clean(edited_body)
+    final_content = f"{frontmatter}\n\n{final_body}\n"
     with open(draft_path, 'w', encoding='utf-8') as f:
         f.write(final_content)
 

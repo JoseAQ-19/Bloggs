@@ -29,7 +29,7 @@ import researcher
 import trend_hunter 
 import tools_hunter 
 # Importar Prompts Bilingües
-from utils import SlugManager, LinkManager 
+from utils import SlugManager, LinkManager, ContentCleaner 
 from novum_visual import get_image 
 import indexing_api
 try:
@@ -1382,6 +1382,9 @@ def _clean_article_content(text):
     text = _validate_links(text)
     
     print("   🧹 [Post-Processor] Contenido limpiado de artefactos de IA")
+    # 6. NUCLEAR BLINDAGE: Purgar cualquier JSON fugado que no esté en <script>
+    text = ContentCleaner.ruthless_clean(text)
+    
     return text.strip()
 
 

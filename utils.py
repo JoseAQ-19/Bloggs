@@ -107,3 +107,46 @@ class LinkManager:
                 links.append({"title": title, "url": url})
                     
         return links
+
+class ContentCleaner:
+    @staticmethod
+    def ruthless_clean(text):
+        """
+        Purger de metadatos JSON crudos y artefactos de IA.
+        Garantiza que NINGÚN JSON se filtre en el body del artículo a menos que esté en un <script>.
+        """
+        if not text:
+            return text
+
+        # 1. Identificar bloques <script> legítimos y protegerlos temporalmente
+        script_blocks = re.findall(r'(<script type="application/ld\+json">.*?</script>)', text, re.DOTALL | re.IGNORECASE)
+        
+        # Marcador temporal para no borrar el JSON legítimo
+        placeholder = "[[[LEGIT_JSON_LD_BLOCK]]]"
+        text_no_scripts = re.sub(r'<script type="application/ld\+json">.*?</script>', placeholder, text, flags=re.DOTALL | re.IGNORECASE)
+
+        # 2. ATAQUE NUCLEAR: Eliminar cualquier bloque que parezca JSON suelto { ... }
+        # Buscamos { que empiece línea o después de salto, y su respectivo }
+        # Este patrón es agresivo para detectar fugas de NewsArticle, FAQPage, etc.
+        json_pattern = r'(?:^|\n)\s*\{\s*["\']@context["\']:[\s\S]*?\}\s*(?:\n|$)'
+        text_no_scripts = re.sub(json_pattern, '\n\n', text_no_scripts, flags=re.MULTILINE)
+        
+        # 2b. Caso genérico: Cualquier bloque entre llaves que ocupe más de 3 líneas (probablemente JSON fugado)
+        generic_json = r'(?:^|\n)\{[^{}]{100,}\}(?:\n|$)'
+        text_no_scripts = re.sub(generic_json, '\n\n', text_no_scripts, flags=re.MULTILINE)
+
+        # 3. Limpiar negritas markdown dentro de los scripts protegidos antes de restaurar
+        cleaned_scripts = []
+        for block in script_blocks:
+            # Eliminar **clave**: o **"clave"**: que la IA a veces mete por error
+            cleaned_block = re.sub(r'\*\*("?[^"]+"?)\*\*:', r'\1:', block)
+            cleaned_scripts.append(cleaned_block)
+
+        # 4. Restaurar scripts legítimos
+        for cs in cleaned_scripts:
+            text_no_scripts = text_no_scripts.replace(placeholder, cs, 1)
+        
+        # 5. Limpieza final de espacios duplicados
+        text_no_scripts = re.sub(r'\n{3,}', '\n\n', text_no_scripts)
+        
+        return text_no_scripts.strip()
