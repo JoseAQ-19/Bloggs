@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-11T08:00:45.921359+00:00",
-  "total_candidates": 22,
+  "scouted_at": "2026-03-14T07:28:56.958470+00:00",
+  "total_candidates": 23,
   "topics": [
     {
       "rank": 1,
-      "title": "Stephen Siderow Named Senior Advisor and Operating Partner to RE VC, a Real Estate Technology VC Fund",
+      "title": "How to Pick an S&P 500 Fund",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Coreworks AI SuperAnalyst Automatically Produces Traceable, Finalized Reports and Decks",
+      "title": "With Intelligence Honors Thornburg with Two 2026 Mutual Fund & ETF Awards",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "S&P 500: Top Funds Dump 10 Stocks (Including Alphabet), Morningstar Says",
+      "title": "Target-Date Funds Continue Their Rapid Rise",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,69 +51,64 @@
   },
   "all_headlines": [
     {
-      "title": "Stephen Siderow Named Senior Advisor and Operating Partner to RE VC, a Real Estate Technology VC Fund",
+      "title": "How to Pick an S&P 500 Fund",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON2lxVk56ajJCTUQ2MU9tNHB1bGhacmMyR1VVXzNWOF9RUkZkcGJZTUJPUnhMOUdOblRyeS1BcjlMMlFtLS1vMGRPaU1ZUkFlVlljaXVjdFRmLVg5WnV2Qlc5bGI2NDEtUzVpRnIzWnRsLTFUYzN6VGVTUGxld2RMWDIxckVidm1IVzJXLXdZcUVwZ0hSMW5ETjE5Ung0Xzh5SURLdlkzQ0dXaFI0U3piN2g0R0tYQ3JVWUhqYmkzaDlJOVRrdTB3Q2c4WnlWSm9haTFWQnNWekxXMlVRVWhvamhVM1hxWnBERjVlVFgxWjhENjQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYRVdRUmtuRnFOY0xMbXU4c0JwTC1WQzctMk9POG1SUVh0YzZfaFNOU1IyNU5tMGZtaWttb2U3S2V5MzY0bGVWWFBELVBFMXFsa09DOVdTWmJ1ZGRJaXhOVzVNZVBCUk1s?oc=5"
     },
     {
-      "title": "Coreworks AI SuperAnalyst Automatically Produces Traceable, Finalized Reports and Decks",
+      "title": "With Intelligence Honors Thornburg with Two 2026 Mutual Fund & ETF Awards",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU3N6VG95b0kwRTJ5bURhaTFvOXBxNThFcFlzaXY2M3dQdEVPazB0TjIwSGxGVWdILVdvUi1ROE12ZWZta1ZWN0JUbFY3dVJ4T21PdHNUWHQzMFpzNjVzaW1Cak55LU5aQ2lxcEJvaEVvOURBT1B6OUphdEh4WThuRWF4SVJiVklqQlNLN0FIdzgyMDJQVmtVZzAxQzFRZXVIZENsT1hSOUtSZ0JmcWFoVmZhNmpOWVpBME1oQ2dSZ3BtYlRiQ1NvcnRseWVtVjRYSHhGYWVqS2s?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc040cThHZGpUN1h4UUFiOFp6dl9EVTJWQzhrTmFsT2l1UDFxNTZ1Y1VZcTdJRkF2OUstOXJVMGFUZ1dMQXRBd3Y0a1VsOEZvWjloeklRVW5QemE4R0FmMzJTNGd3Y2pqb0xjZzhCenByOVlickM5R3pCZ2psNk1lWWdnMXZmZkFHZHdpNDNuUU1VcU9VR2w5cl83SUV1Y0pHMEhoV3lXV3ZhVWkxR1VPLWNWdk50cjJwSVFiZDBQU3JzU0Y5dWppSTlFbWc?oc=5"
     },
     {
-      "title": "S&P 500: Top Funds Dump 10 Stocks (Including Alphabet), Morningstar Says",
+      "title": "Target-Date Funds Continue Their Rapid Rise",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2VVVWRtUTk0LVNoRTlGaU04VXB6SnpGaFhCVW5kTEhtV19BTHNHQzhmeS13N2pHNUZZaENZLXFKYl8zUk11LVI1bjRZX0xBS0ZtbURQeWpsY3ZvSDE4RTZwdXpUUlg3SkJ4Q2k4ZTh2cHI3UlRBd0NVejlFaVJrM1VHeU1MblJQVFEwdkZEOXBUQ05nVkRSM3hvX01odlZPMjM4TVhESHRlLUdUMUJ3VWFHOGdGUm8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYkVRSHBVYzVQZ0Z4YTJrTjVJam5QN0ZqWkJzekE3X1Z1TWdTdnI2bkcyVEVpdDVLTWliVVJoRnRlblF4bi1obzNTbDViY1BtSDRQcG5wanRTODh3M2dtbW9NX0s0UXMxWTNmMmZBV1BUX3AzVUJtZFF4LXVzT0d4ZEd6bw?oc=5"
     },
     {
-      "title": "Morningstar downgrades $17.2bn T. Rowe fund",
+      "title": "Target-Date CITs Continue to Surpass Mutual Funds",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb2RyWnJkNF9vVnpFdDg0bXZHREZjaHkzYjk5dGhzLXkzZ3NkNUlGaEdBOU5vSGpMcUhmYVBJa1RsZ0lvX1hySjJVTlREaUdTNE82UXpiTFMtek1TbW1aTUhFd0VDQ2J6bl84eDBTMS1salNEQnBma19ES1BNMTV1OUhhamthSHJpWnRiWG11MA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUlAtTHlqd04zdG5EOUhMek1PeVk0TS1UY3VGVjFvQ3FLTVVrSE93UDNPZG1fdnc3dmM1M2lSc1VpU1FkYlp6M3ozU3ozdU93aVl0dVB1NGVHbWFQM2t0LTBJQjlOVXkyTE5IVktObzE4UjZKS21tRlhJRXdmMlpyb1FwSkM?oc=5"
     },
     {
-      "title": "Morningstar downgrades $237m Matthews Asia fund ahead of merger",
+      "title": "Morningstar downgrades $850m subadvised Hartford fund",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmRzN1Q5SS15SHJHaGF2N2hiNXRwbmF6ODhQSFVGSVNKOXZKa1R6Y1hISWdYZG9kWG1GcnJwN0N1WlJtb2tBQnNPRzFlYTVsV3EzTm5ZRUZUVzg4elpVX1V1ZncyWjNYdmt1VDZpZFRqUGE3R0R2X1NVMHlXVG9OYWE1eDFRTDBSdzI3bXVzc1J4TGRNdGZhY21IWE5WZ3V3VVZramJiWHlFNk0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVmphYUE4TGNmcGlOclFUYVpuTWxkblA0eFlGOFY3NF9UdVZIVVlHVTdJTGtCLWtOQVhyZFBKcU8yMUlOUWc2dWRvWlhjTDhGU21Fb3ZyUGhCM1hfN1AwTXp2dnAzbmVTbnBmdGhyLUdsUENHd1JEMHZ3ckxvWVBGWXhHQ3poUUJhYkNhUEtCVE1ESWNKWnJ3VGhSRE5Edw?oc=5"
     },
     {
-      "title": "Morningstar puts $15.5bn T. Rowe fund under review",
+      "title": "Berkeley Group: Guidance Maintained but Wary of Impact From War in the Middle East",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNVZtN0syUFM4Sk9BVk5Mc0VhLWo3dk1jOWx3cUxMWk9abEJfMjlrVDA4bHE1RU5aM25iYU5jQWJjZl8xNTFqbXV2d01pXzhYbjJkZ2ViVUkwZkctWERKSXZSem9GM1phMExXaUpLSkxEX0Z2dFVBVERYcXR4VUxyejIzc09aZkJHODBGQTRFeDJQdU11Rmh0RQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkcwZzZ3YXNlaVp6dm5SNU9FSTh5WDBtVGttUlBwYmJ4QllTMHNjeDRPZzZDMC12YWtYdFF2NFJJTHl3TWFKOFp4X01ETjNGS1U5MkRVblNlOWdaVzdpM2daUmNPY1dnZWZIdVRFR2VOcWs1SUwxZFlUQWNBUXYwSi1jR1hpbFF6T2dlbmJRQ3l3Q1NwUDk0SzdHRUVFWXdCZ1dxaVJaeXI2QQ?oc=5"
     },
     {
-      "title": "Morningstar Launches AI Assistant for Advisor Platform",
+      "title": "More Employers Than Ever Are Contributing to Workers' 401(k) Plans",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzV6OG85SmlhVjlFNEFPZ3JyQ0dwYUJVdTd2UzlmMmNmbXhkTEdHZ1BURmUzMzBCQXM3eWJvUFBlbW9UOGNpMGp2dGwyb2tLUUJEdWwtNDMwV05mYWRjalMxbVdnYTJRV3pybEsyM1hRZGRUZS1ubk83SmxtVUJGTVBReGM0SndJbV9oVHRVaEI4X0RBM3ZMVG5QRdIBoAFBVV95cUxQS2o2ZjNqbU4yclB6ZTVnbG1INmtYcUt3RURNNm1aUHJYOWJ2UUprYW5Na3htT1NMcmZUdE14dFUwMEIzRmc0TTkzSzNuVk1Wd3UzMlBCd0pyZ2R4d0xROHhMRzRxRjdpWHpVNFpfeWhIaDd0cmNMV2FyTVpGMTEzNTdCdUs1a1EyalRFaTRORFpPdXYzNkdCOUFYbkJWU1Nh?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZnA5T2Ywc1pacnlEVWxaLVlSTGhVSnJlY1VKd0RYV1cySTBoYXFkVm5pRDBSNi0xdVFsOG5kamZqUWNZTHl0NHVvM2ZMSmVfbUNsZ0p1em5jeGNmTjJNcHVFSFZWc1ZaTVdlSjI1ZmNqSzdxRkxPeTVmLW16QXJtcHJZb0hRZnBrYzR3b3RvX092TUMxck9udlB3WWJoT2tFOVIxYUR5QmF1ck5naU9XaDNiOTFBRDdpbmZMZlRjeXJrUQ?oc=5"
     },
     {
-      "title": "Aberdeen Investments U.S. Closed-End Funds Declare Distribution Dates and Amounts",
+      "title": "6 Best Mutual Funds to Invest in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc3BOVnFWZldhQ1ZkYzYxMVlVcHFTVkJ3Z2Q3WXp4THg2VWNmTTVkTUJlRUFQWDMzSy10emtrdWlqaDJLQzlhNDAxZEd2d3l6YmFDY1I1aE9hc1hTQzRZcmdWbFhSR2I3MkxsZldMUndROU5SNVRUREE1azdtYlp5UDVLZTdrUXFMSEdQcE5NUm4tN21kaW5fSWVSc1hCbktmZ1JabXNZV2lWbTY1a1c5N2g1XzE2VHh6dkJzMl9zUWh4aDREMGdtMlpJYjZHWTdtZVZ0ZEFjVQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTBQR3hTLW1DdTZaOVFOUHZUZGl6djNwTGhvWjAzZkg3TnFOb3QzOGdPbGV3b3R5cXNoSlVzVlZQeWFSSnpOWEFKeGFCYTRMcVpGdFdrcVRFd0N0Y09XUTlkdHprMmZ5M2o5emtLamVsdGRKQ0tpdlNyVXo0TFFjeEFxY24yR0VxTDBhZQ?oc=5"
     },
     {
-      "title": "This Gold-Rated Fund Is a Great Option for diverse European Stock Exposure",
+      "title": "The Best Global Equity Funds and ETFs to Buy",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTGdtZ3QzdVNZMXpkU2lxcW1QRnBIcXNjMUlLNVRmVFdBWmt5cmN2UVZfUXNxWGFLOWNpYzNvWEJlTEtLa0tXX3c2bWRHa0E1UXE4alNnNTNhdC1HZk92SEVlSW84YkdVSUVhVERWSHNHcWFlVWZRZWdLcUZQU2dSelpYb3NNVUxXdUJyZEJfN3Y4NmkxTFB6Qjg3aEgzQmEwdUVST3E4b29YX2FfZVV3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTNZc3VkNGhRdmpWekZtUTFqTFBCc0FZRlBEdTAtTjJNRDYzWlVqLUdoZmxKR0dQd2RnUkxvaDY5ekViU2VZZ0NZaFR4RXZRUzV5MG1KTEQzYzVvc1VSVmNaZ3JvWS00WXRyWk5sVHMyZW9sOHN3WVJZNlNWY1ZKYjRn?oc=5"
     },
     {
-      "title": "PGIM Jennison Emerging Markets Equity Opportunities Fund Q4 2025 Commentary (PDEZX)",
+      "title": "7 of the Best Growth Funds to Buy and Hold | Investing | U.S. News",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbkVibEk0SWhidkRwTzVRMXVBMXE2TkJlYTZ5eUdvMDd4TUF2eUEzZmU2dUN1dFdMTkxDS1lQWGdDTkhrQTlMNlZ2UmhRYnVhMUZwblUxZXoxTUJ0ZnYtQ3FMS3VrQmF4QmxNcGRKZThhTS14X2s4eFJKNkIyYkJXbXQtOGFQT2VxNWk0OGZlRXBud2dYRUxPTGhHbVpqUGlyeG4tQ1Bhc2JId1o4YzBSaDhvemdyOVk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVmdGY2oyN2JKV3lpRTUyVVZITDk3RGlKcE9yQmlxNWNSZ0pxYjJZdFJyYmpNTk4xMlFlYTc4RnA5SDR0LXJ1RWwzS2NsdXc3cFhWQk9xclhTU1JqaFlIWm9CYl8wcXBfdGp4R1ZUOU1LTlJhRTRHOGVINGEweXJYbkExaw?oc=5"
     },
     {
-      "title": "Best Growth ETFs of 2026: Are They Right for Your Portfolio?",
+      "title": "20 Years to Retirement? These 3 ETFs Could Make You Rich",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSS1MdmFFcGJfemVIQzJXQzAyLWx6alBnRFJTYmdwRWpUTV9Qc28xZVM1UEVPR3E0ck9CNWkwbk5nY3BORnE5Ul9BQ0U0bzFVaG1yQWZzSmNLOW9iWFdpei1Ob2hXVkVCNWVPekJCazRfSkEtcjU1SUQ3VThnQXhKem1IeG9HWjZ6ZDdickFn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YbmVFS3ZCNVZmZTFvckR2dlpJd3hKZ2tZZGFVTG1jQVlucU5ETlJNWXdJalMxSlUxYTZOajFHRk5ZT0drajNaTGI2TDBPQ002Wk9VX3hRVVRYV0R5dFFvcUw0MVZJd1hqOGR1dmxEZlc4eE5aTUJaQk53?oc=5"
     },
     {
-      "title": "Fidelity's Zero-Fee ETF Is Quietly Keeping Pace With the S&P 500 And Costs Absolutely Nothing",
+      "title": "Alternative Investment Fund Leaderboard",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON2VOajdmYjZZWE8zN3E3LWNGcDkwZXRla1FGUU85UjFkY1BjT1l5TmFDOXJJdVE3ZzFJRVdpZmhtR2dsTElvVGV6clhpdzdMSjVXMWZZMk5jT0RBaktCUTFSMndKQVpsa2hMVDhKRGx1T1lNUDZFcG1aTjdJZFBERm9BSDFienBuQllfbHZPSWU2TmZ0YWxITWNERmtxeXlLemszVVg3eDd4Nk4wSXNRUDhuVjFpNklvNXFuZDN6X090d0M0Nmh1SzJuSFZjX1R4?oc=5"
-    },
-    {
-      "title": "The Best Performing International ETFs over the Last 10 Years",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQek8tREp3NWpGU3ZrVGJSTHZ5ODdOZ001U1NGQ2FPR29LdDFtdDFHVG8ydjJ2c0Z4XzdGdXg4S25DRlhSLWNMRTV2Q19GdDd6bEVLSmhlWUhOcTRnb2QzLTladGM5SWdyQ1VOM2pOaU82QmhxYnNlSUdLajB0ZVpualdIT0x3cWdrRmJBY2stdmFIWEJCRV9Rb184NDk5bzZ3ZTFV?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fZ2YyblFCUnNTemxDaTM0YW5BUU8tUzhVLTctYnBSclpSZUpQa193SGlKNTI2X1JIYlRJMi1SUll6SldnYkxrWWdBZXFJeVRyZUZHRk05bDhQTlNOZE5BRnpnNlN5Q0JBMG9EeENpaEo4T2EwQVE?oc=5"
     },
     {
       "title": "Best Mutual Funds: News, Performance Reports And Investing Ideas",
@@ -121,32 +116,37 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGh3UmNfU0JQZ2thTDdMbjBhbzVBS01uWWo5aXYxYUE2eHZVVV9yT0hJT2Z6TXY3czdXX1R1QlFZd3h5S0tYTE5UVUVqSFU5cWFtZFJxY3VGa01HT3BUZ3FqS1NkeTFYNEZKdnZWX1BCYUhzRDkzWlg4ZVNjMzFYVmgzd1luU1ZOQnRkYlBJamRFWnYxU0hORjMxM09WUHVuczktZ3M1cHh1cGhuaEI2elBLTQ?oc=5"
     },
     {
-      "title": "This Silver-Rated US Market ETF Comes With Basic Sustainability Screens",
+      "title": "The 3 Best Dividend ETFs to Buy Every Time the Market Dips",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2pBTkJ1LTFUY1VaUjdIbDhseWdmNWVFUVp5LThoVzVZbk1VR0EyYURIV2oyQ0pUcGN4Sm5xNzI3aUZDakN2SFdsWGVXV1JSallBR2hacFhFbjc5TEtXUXpNQWpDZkVQeER1cEVfVEIwVXdhMWpSTXNyaG43S09sTjl1dDVvLWNuWWFrcGdib1dnVTNySnRqVWw0SnBtTUZQajFYcjh4RmRaNlNwMmZnRkh3QQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjFKRFFGS3dyNHRDRV9fLUNCWVlhSjBTSFhfVTZrN3hfa1B4ZXM3T3NJSkc5c1VIdHJkT2t2NWFBQkpWSzNnenVrWm9HSWNOWTdzZXFubWNQSDdLVFdpTkt6am91SGdmcXFRNkkyQ0hLQndVSmxSQ1l1b1hXaVFRZmxFcnBjSm44cms3QXZjYlNzbVhvZkFld2VOd2kxS2gwX04yYg?oc=5"
     },
     {
-      "title": "Antimony Corporation (UAMY) Benefited from the Export Restrictions",
+      "title": "Harbor Diversified International All Cap Fund Q4 2025 Commentary (HAIDX)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0xkcDd3ZXl5akhQZ3lTV0NpUlhhYzMzNTlUOE1qbDFYTW9DZHduV0VhQi1sV0VpU2YyYjV0djJpd1psMXE2cTdBSlNxTWxwWC1TMlNFSm4xQ09feFo2SVRXQ3V4RHd2eFpUMk1TeUZ3aWpDejdoQWdzYU5IYW81d284VXdHTktIUHlHaFB4ZDgtbW5SUEZGc2x4UQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWXVsQkpJQWhwN000MXBkX0ZoNmZSQ3VnMGVTNS0yODBhWmtTanB0b2xjNXZOc2laQThTREJ2VERKblNSS1JqakpkQ3czOGhUM295Tk9MdTJWZW9iQV9vX3NNVnBUalJBd3E1SlFVa2kwZ3pxMXJYX2RSUVBwc3hWeXYtd1V5ZEp1S2EyRTJGcFJULVVrZWFkMUpaR29Hek5TNlV4NXkzbWk?oc=5"
     },
     {
-      "title": "**Vanguard Russell 2000 ETF (VTWO) Outperforms S&P 500 with a 4.3% Year-to-Date Gain Amid Small-Cap Stock Rally**",
+      "title": "7 of the Best Growth Funds to Buy and Hold | Investing",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVmdGY2oyN2JKV3lpRTUyVVZITDk3RGlKcE9yQmlxNWNSZ0pxYjJZdFJyYmpNTk4xMlFlYTc4RnA5SDR0LXJ1RWwzS2NsdXc3cFhWQk9xclhTU1JqaFlIWm9CYl8wcXBfdGp4R1ZUOU1LTlJhRTRHOGVINGEweXJYbkExaw?oc=5"
+    },
+    {
+      "title": "Who Owns Warner Bros?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0UnNjdGM4LUwtS2VLbFBsVndhSmhjYWYzQll6WjJuM1NLQ2g1Ynp0ejlMVWxFNjk4eDZtMUVqOE5vTThCeDZKV3kzZGFpX0d1QUdTQVQxSVBTemk5ZUFNU3JFRS05ckw3djBvQng0UFVwNXpJNWtzU0w1Tld5QQ?oc=5"
+    },
+    {
+      "title": "Vanguard Slashes Fees Across 84 Funds, Saving Investors $250 Million in 2026, Average Expense Ratio Now 0.06%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**iShares 0-3 Month Treasury Bond ETF (SGOV) Attracts $2.27 Billion in Inflows by March 9th as Investors Seek Safe Havens**",
+      "title": "BlackRock Limits Withdrawals from $26 Billion HPS Corporate Lending Fund (HLEND) Amid Private Credit Redemption Surge; Shares Fall 6.7%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**Fidelity Growth Company Fund Reports 4.82% Gain in Q4 2025, Driven by Strategic Tech Stock Selection**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**US-listed ETFs Register $173 Billion in Inflows in February, on Pace for a Potential $2 Trillion Year**",
+      "title": "Amundi Launches Europe's First Global ex-US Government Bond UCITS ETF (GXUS) with a 0.20% TER, Tracking Bloomberg Index.",
       "source": "gemini_grounding_finance",
       "url": ""
     }

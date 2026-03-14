@@ -814,5 +814,137 @@
     "cached_at": 1773473161.8515182,
     "func": "fetch_competitor_rss",
     "args_summary": "()"
+  },
+  "24bb4bd663646cc836fda8dd0337dbc37b74b1c3096a3eb04534872caf17eec9": {
+    "data": [
+      {
+        "title": "How to Pick an S&P 500 Fund",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYRVdRUmtuRnFOY0xMbXU4c0JwTC1WQzctMk9POG1SUVh0YzZfaFNOU1IyNU5tMGZtaWttb2U3S2V5MzY0bGVWWFBELVBFMXFsa09DOVdTWmJ1ZGRJaXhOVzVNZVBCUk1s?oc=5",
+        "score": 0
+      },
+      {
+        "title": "With Intelligence Honors Thornburg with Two 2026 Mutual Fund & ETF Awards",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc040cThHZGpUN1h4UUFiOFp6dl9EVTJWQzhrTmFsT2l1UDFxNTZ1Y1VZcTdJRkF2OUstOXJVMGFUZ1dMQXRBd3Y0a1VsOEZvWjloeklRVW5QemE4R0FmMzJTNGd3Y2pqb0xjZzhCenByOVlickM5R3pCZ2psNk1lWWdnMXZmZkFHZHdpNDNuUU1VcU9VR2w5cl83SUV1Y0pHMEhoV3lXV3ZhVWkxR1VPLWNWdk50cjJwSVFiZDBQU3JzU0Y5dWppSTlFbWc?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Target-Date Funds Continue Their Rapid Rise",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYkVRSHBVYzVQZ0Z4YTJrTjVJam5QN0ZqWkJzekE3X1Z1TWdTdnI2bkcyVEVpdDVLTWliVVJoRnRlblF4bi1obzNTbDViY1BtSDRQcG5wanRTODh3M2dtbW9NX0s0UXMxWTNmMmZBV1BUX3AzVUJtZFF4LXVzT0d4ZEd6bw?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Target-Date CITs Continue to Surpass Mutual Funds",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUlAtTHlqd04zdG5EOUhMek1PeVk0TS1UY3VGVjFvQ3FLTVVrSE93UDNPZG1fdnc3dmM1M2lSc1VpU1FkYlp6M3ozU3ozdU93aVl0dVB1NGVHbWFQM2t0LTBJQjlOVXkyTE5IVktObzE4UjZKS21tRlhJRXdmMlpyb1FwSkM?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Morningstar downgrades $850m subadvised Hartford fund",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVmphYUE4TGNmcGlOclFUYVpuTWxkblA0eFlGOFY3NF9UdVZIVVlHVTdJTGtCLWtOQVhyZFBKcU8yMUlOUWc2dWRvWlhjTDhGU21Fb3ZyUGhCM1hfN1AwTXp2dnAzbmVTbnBmdGhyLUdsUENHd1JEMHZ3ckxvWVBGWXhHQ3poUUJhYkNhUEtCVE1ESWNKWnJ3VGhSRE5Edw?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Berkeley Group: Guidance Maintained but Wary of Impact From War in the Middle East",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkcwZzZ3YXNlaVp6dm5SNU9FSTh5WDBtVGttUlBwYmJ4QllTMHNjeDRPZzZDMC12YWtYdFF2NFJJTHl3TWFKOFp4X01ETjNGS1U5MkRVblNlOWdaVzdpM2daUmNPY1dnZWZIdVRFR2VOcWs1SUwxZFlUQWNBUXYwSi1jR1hpbFF6T2dlbmJRQ3l3Q1NwUDk0SzdHRUVFWXdCZ1dxaVJaeXI2QQ?oc=5",
+        "score": 0
+      },
+      {
+        "title": "More Employers Than Ever Are Contributing to Workers' 401(k) Plans",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZnA5T2Ywc1pacnlEVWxaLVlSTGhVSnJlY1VKd0RYV1cySTBoYXFkVm5pRDBSNi0xdVFsOG5kamZqUWNZTHl0NHVvM2ZMSmVfbUNsZ0p1em5jeGNmTjJNcHVFSFZWc1ZaTVdlSjI1ZmNqSzdxRkxPeTVmLW16QXJtcHJZb0hRZnBrYzR3b3RvX092TUMxck9udlB3WWJoT2tFOVIxYUR5QmF1ck5naU9XaDNiOTFBRDdpbmZMZlRjeXJrUQ?oc=5",
+        "score": 0
+      },
+      {
+        "title": "6 Best Mutual Funds to Invest in 2026",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTBQR3hTLW1DdTZaOVFOUHZUZGl6djNwTGhvWjAzZkg3TnFOb3QzOGdPbGV3b3R5cXNoSlVzVlZQeWFSSnpOWEFKeGFCYTRMcVpGdFdrcVRFd0N0Y09XUTlkdHprMmZ5M2o5emtLamVsdGRKQ0tpdlNyVXo0TFFjeEFxY24yR0VxTDBhZQ?oc=5",
+        "score": 0
+      },
+      {
+        "title": "The Best Global Equity Funds and ETFs to Buy",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTNZc3VkNGhRdmpWekZtUTFqTFBCc0FZRlBEdTAtTjJNRDYzWlVqLUdoZmxKR0dQd2RnUkxvaDY5ekViU2VZZ0NZaFR4RXZRUzV5MG1KTEQzYzVvc1VSVmNaZ3JvWS00WXRyWk5sVHMyZW9sOHN3WVJZNlNWY1ZKYjRn?oc=5",
+        "score": 0
+      },
+      {
+        "title": "7 of the Best Growth Funds to Buy and Hold | Investing | U.S. News",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVmdGY2oyN2JKV3lpRTUyVVZITDk3RGlKcE9yQmlxNWNSZ0pxYjJZdFJyYmpNTk4xMlFlYTc4RnA5SDR0LXJ1RWwzS2NsdXc3cFhWQk9xclhTU1JqaFlIWm9CYl8wcXBfdGp4R1ZUOU1LTlJhRTRHOGVINGEweXJYbkExaw?oc=5",
+        "score": 0
+      },
+      {
+        "title": "20 Years to Retirement? These 3 ETFs Could Make You Rich",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YbmVFS3ZCNVZmZTFvckR2dlpJd3hKZ2tZZGFVTG1jQVlucU5ETlJNWXdJalMxSlUxYTZOajFHRk5ZT0drajNaTGI2TDBPQ002Wk9VX3hRVVRYV0R5dFFvcUw0MVZJd1hqOGR1dmxEZlc4eE5aTUJaQk53?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Alternative Investment Fund Leaderboard",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fZ2YyblFCUnNTemxDaTM0YW5BUU8tUzhVLTctYnBSclpSZUpQa193SGlKNTI2X1JIYlRJMi1SUll6SldnYkxrWWdBZXFJeVRyZUZHRk05bDhQTlNOZE5BRnpnNlN5Q0JBMG9EeENpaEo4T2EwQVE?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Best Mutual Funds: News, Performance Reports And Investing Ideas",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGh3UmNfU0JQZ2thTDdMbjBhbzVBS01uWWo5aXYxYUE2eHZVVV9yT0hJT2Z6TXY3czdXX1R1QlFZd3h5S0tYTE5UVUVqSFU5cWFtZFJxY3VGa01HT3BUZ3FqS1NkeTFYNEZKdnZWX1BCYUhzRDkzWlg4ZVNjMzFYVmgzd1luU1ZOQnRkYlBJamRFWnYxU0hORjMxM09WUHVuczktZ3M1cHh1cGhuaEI2elBLTQ?oc=5",
+        "score": 0
+      },
+      {
+        "title": "The 3 Best Dividend ETFs to Buy Every Time the Market Dips",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjFKRFFGS3dyNHRDRV9fLUNCWVlhSjBTSFhfVTZrN3hfa1B4ZXM3T3NJSkc5c1VIdHJkT2t2NWFBQkpWSzNnenVrWm9HSWNOWTdzZXFubWNQSDdLVFdpTkt6am91SGdmcXFRNkkyQ0hLQndVSmxSQ1l1b1hXaVFRZmxFcnBjSm44cms3QXZjYlNzbVhvZkFld2VOd2kxS2gwX04yYg?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Harbor Diversified International All Cap Fund Q4 2025 Commentary (HAIDX)",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWXVsQkpJQWhwN000MXBkX0ZoNmZSQ3VnMGVTNS0yODBhWmtTanB0b2xjNXZOc2laQThTREJ2VERKblNSS1JqakpkQ3czOGhUM295Tk9MdTJWZW9iQV9vX3NNVnBUalJBd3E1SlFVa2kwZ3pxMXJYX2RSUVBwc3hWeXYtd1V5ZEp1S2EyRTJGcFJULVVrZWFkMUpaR29Hek5TNlV4NXkzbWk?oc=5",
+        "score": 0
+      },
+      {
+        "title": "7 of the Best Growth Funds to Buy and Hold | Investing",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVmdGY2oyN2JKV3lpRTUyVVZITDk3RGlKcE9yQmlxNWNSZ0pxYjJZdFJyYmpNTk4xMlFlYTc4RnA5SDR0LXJ1RWwzS2NsdXc3cFhWQk9xclhTU1JqaFlIWm9CYl8wcXBfdGp4R1ZUOU1LTlJhRTRHOGVINGEweXJYbkExaw?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Who Owns Warner Bros?",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0UnNjdGM4LUwtS2VLbFBsVndhSmhjYWYzQll6WjJuM1NLQ2g1Ynp0ejlMVWxFNjk4eDZtMUVqOE5vTThCeDZKV3kzZGFpX0d1QUdTQVQxSVBTemk5ZUFNU3JFRS05ckw3djBvQng0UFVwNXpJNWtzU0w1Tld5QQ?oc=5",
+        "score": 0
+      }
+    ],
+    "cached_at": 1773473330.281887,
+    "func": "fetch_financial_news",
+    "args_summary": "()"
+  },
+  "86d61bb4f7cb8c2155373d09789cf9ddb2748ffc149a728bab3f0be2ffd1e523": {
+    "data": [],
+    "cached_at": 1773473330.5271213,
+    "func": "fetch_competitor_rss",
+    "args_summary": "()"
   }
 }
