@@ -55,7 +55,7 @@ La plataforma debe implementar algoritmos que detecten y eliminen el contenido d
 
 ## El Autodiagnóstico con Inteligencia Artificial: Riesgos y Realidades en España
 
-Un 70% de la población española recurre a la IA para realizar consultas relacionadas con la salud. Esta práctica es especialmente común entre personas que sufren de ansiedad o depresión, lo que aumenta la preocupación por los posibles peligros del autodiagnóstico y la automedicación.
+El 70% de la población española recurre a la IA para realizar consultas relacionadas con la salud, según datos recientes. Esta práctica es especialmente común entre personas que sufren de ansiedad o depresión, lo que aumenta la preocupación por los posibles peligros del autodiagnóstico y la automedicación.
 
 El autodiagnóstico con IA puede llevar a interpretaciones erróneas y decisiones equivocadas sobre el tratamiento, lo que puede tener consecuencias negativas para la salud. Además, la información proporcionada por la IA no siempre es precisa o fiable, y puede estar sesgada o incompleta. La falta de supervisión médica y la ausencia de un profesional de la salud que interprete los resultados pueden aumentar los riesgos del autodiagnóstico.
 
@@ -112,9 +112,7 @@ Finalmente, es importante destacar la necesidad de una mayor investigación sobr
 Esta investigación debería abordar cuestiones como la influencia del contenido específico que consumen los jóvenes, el tiempo que pasan en la plataforma, la calidad de sus interacciones sociales *online* y la presencia de otros factores de riesgo, como antecedentes familiares de problemas de salud mental o experiencias traumáticas. Los resultados de esta investigación podrían utilizarse para desarrollar estrategias de prevención y tratamiento más efectivas y para informar las políticas y regulaciones relacionadas con el uso de YouTube y otras redes sociales.
 
 [Estudio de Itersia-Centro de Psicoterapia](https://www.itersia.com/)
-[Artículo sobre el impacto de las redes sociales en la salud mental](https://www.example.com/articulo-salud-mental)
-[Informe sobre el uso de la IA en la salud en España](https://www.example.com/informe-ia-salud)
-[Estadísticas sobre salud mental en España](https://www.example.com/estadisticas-salud-mental)
+Según un informe del Ministerio de Sanidad, Consumo y Bienestar Social, en España, el 48,9% de los jóvenes de entre 15 y 29 años cree haber experimentado problemas de salud mental.
 
 ### Artículos Relacionados
 * [El auge de los eSports y su impacto en la salud mental de los jóvenes](https://www.novumworld.com/esports-salud-mental)
