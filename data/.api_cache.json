@@ -946,5 +946,110 @@
     "cached_at": 1773473330.5271213,
     "func": "fetch_competitor_rss",
     "args_summary": "()"
+  },
+  "21a068db0cd0ba4e3b3272cddddd6e25dad487d2eb369a2766316588951e7843": {
+    "data": [
+      {
+        "title": "Huelva contará con una Oficina de Turismo Inteligente con IA para ofrecer una atención al visitante personalizada y disponible 24/7",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Diversificación sectorial y de activos: así se mueve la inversión en IA",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Reputación corporativa: ¿Sabes qué dice la IA de tu organización?",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "La IA se cuela en las licitaciones públicas: “El 18% se quedan desiertas porque lo que piden está fuera de mercado”",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Robots que no se rinden: la IA diseña máquinas con patas que se reparan solas tras sufrir daño",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1773479996.1189868,
+    "func": "fetch_google_news",
+    "args_summary": "('ia',)"
+  },
+  "712dc6b87821c74ce3310d15eb2faa5011ccf2d0df44b2a976b735ced665ce6e": {
+    "data": [
+      {
+        "title": "Mapping production AI agents to IAM roles, tools, and network exposure",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 1,
+        "url": "https://cartography.dev/blog/aibom"
+      },
+      {
+        "title": "Show HN: OpenClaw-class agents on ESP32 (and the IDE that makes it possible)",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 28,
+        "url": "https://pycoclaw.com/"
+      },
+      {
+        "title": "Show HN: A modern boarding pass encoder/decoder/scanner (web and library)",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 2,
+        "url": "https://github.com/jqssun/iata-api"
+      }
+    ],
+    "cached_at": 1773479996.4114656,
+    "func": "fetch_hackernews",
+    "args_summary": "(['ia'],)"
+  },
+  "46503d41ef4fee113ff718159ee99bd6e87c149d97104b3a6a5f5ddc5f6be1b3": {
+    "data": [
+      {
+        "title": "OpenClaw ha provocado un auténtico terremoto mediático en China. El Gobierno ha impedido a sus funcionarios usarlo",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/robotica-e-ia/china-ha-convertido-openclaw-fenomeno-viral-luego-ha-prohibido-a-sus-funcionarios-usarlo"
+      },
+      {
+        "title": "NVIDIA ya tiene un monopolio sobre el hardware de la IA: ahora quiere conquistar el software mediante agentes",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/robotica-e-ia/nvidia-prepara-nemoclaw-su-plataforma-agentes-ia-codigo-abierto-quien-vende-palas-quiere-tambien-vender-mapa"
+      },
+      {
+        "title": "Google Maps cambia para siempre: recibe su mayor actualización en más de una década y revela las nuevas opciones para navegar - Meristation",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/meristation/betech/google-maps-cambia-para-siempre-recibe-su-mayor-actualizacion-en-mas-de-una-decada-y-revela-las-nuevas-opciones-para-navegar-f202603-n/"
+      },
+      {
+        "title": "Miles de personas están haciendo cola en Shenzhen por una razón: instalar OpenClaw en sus ordenadores",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/aplicaciones/pregunta-cuanto-esta-arrasando-openclaw-respuesta-china-estan-haciendo-cola-para-instalarlo"
+      }
+    ],
+    "cached_at": 1773479997.0601997,
+    "func": "fetch_exa_news",
+    "args_summary": "('ia noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   }
 }
