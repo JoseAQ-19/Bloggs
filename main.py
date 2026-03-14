@@ -594,6 +594,7 @@ def _call_nvidia_nim(prompt_text, model_id, calibration_tag, nvidia_key, max_tok
             messages=[{"role": "user", "content": prompt_text + system_msg}],
             temperature=0.85,
             max_tokens=max_tokens,
+            timeout=300,
             **extra_kwargs
         )
         result = resp.choices[0].message.content.strip()
@@ -649,7 +650,8 @@ def _call_en_engine(prompt_text):
                 model="z-ai/glm-4.5-air:free",
                 messages=[{"role": "user", "content": prompt_text + CAL_GLM}],
                 temperature=0.85,
-                max_tokens=4096
+                max_tokens=4096,
+                timeout=300
             )
             result = resp.choices[0].message.content.strip()
             if result and len(result) > 200:
@@ -675,7 +677,8 @@ def _call_en_engine(prompt_text):
                     model="meta-llama/llama-3.3-70b-instruct:free",
                     messages=[{"role": "user", "content": prompt_text + CAL_LLAMA}],
                     temperature=0.85,
-                    max_tokens=4096
+                    max_tokens=4096,
+                    timeout=300
                 )
                 result = resp.choices[0].message.content.strip()
                 if result and len(result) > 200:
@@ -1156,7 +1159,8 @@ Inyecta el enlace de forma natural en el texto usando el formato Markdown exacto
                     model="z-ai/glm-4.5-air:free",
                     messages=[{"role": "user", "content": prompt + CAL_GLM_ES}],
                     temperature=0.85,
-                    max_tokens=4096
+                    max_tokens=4096,
+                    timeout=300
                 )
                 resultado = resp.choices[0].message.content.strip()
                 if resultado and len(resultado) > 200:
@@ -1183,7 +1187,8 @@ Inyecta el enlace de forma natural en el texto usando el formato Markdown exacto
                         model="meta-llama/llama-3.3-70b-instruct:free",
                         messages=[{"role": "user", "content": prompt + CAL_LLAMA_ES}],
                         temperature=0.85,
-                        max_tokens=4096
+                        max_tokens=4096,
+                        timeout=300
                     )
                     resultado_tmp = resp.choices[0].message.content.strip()
                     if resultado_tmp and len(resultado_tmp) > 200:
