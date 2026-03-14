@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-14T07:54:05.099115+00:00",
+  "scouted_at": "2026-03-14T07:55:05.579941+00:00",
   "total_candidates": 23,
   "topics": [
     {
       "rank": 1,
-      "title": "Vanguard Slashes Fund Fees: Are You Saving Your Share of $250 Million?",
+      "title": "Morningstar Downgrades $850 Million Hartford Fund: Is Subadvising to Blame?",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "ETFs Dominate: $24 Billion Flows In While Mutual Funds Bleed $17 Billion",
+      "title": "Target-Date CITs Outperforming Mutual Funds: Are They the Better Retirement Choice?",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "BlackRock's New Ethereum ETF: Earn 3.1% Staking Rewards?",
+      "title": "SEC Greenlights ETF Share Classes: Will Dimensional Fund Advisors Lead a Mutual Fund Revolution?",
       "lang": "en",
       "source": "llm_selected_finance"
     }
@@ -136,17 +136,17 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0UnNjdGM4LUwtS2VLbFBsVndhSmhjYWYzQll6WjJuM1NLQ2g1Ynp0ejlMVWxFNjk4eDZtMUVqOE5vTThCeDZKV3kzZGFpX0d1QUdTQVQxSVBTemk5ZUFNU3JFRS05ckw3djBvQng0UFVwNXpJNWtzU0w1Tld5QQ?oc=5"
     },
     {
-      "title": "Vanguard Russell 2000 ETF (VTWO) outperforms S&P 500 with a 4.3% year-to-date gain, driven by favorable small-cap conditions.",
+      "title": "Total estimated outflows from long-term mutual funds were $17.14 billion for the week ended March 4, 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Amundi launches Europe's first global ex-US government bond ETF (GXUS) with a 0.20% TER, tracking the Bloomberg Global Treasury Large Markets DM ex US index.",
+      "title": "Vanguard Russell 2000 ETF (VTWO) is up 4.3% YTD in 2026, outperforming the S&P 500.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock's iShares Staked Ethereum Trust (ETHB) begins trading, staking 70%-95% of ether holdings with investors receiving approximately 82% of gross staking rewards, around 3.1% annually.",
+      "title": "SEC approves ETF share classes for mutual funds, potentially reducing capital gains taxes for US investors. Dimensional Fund Advisors received SEC approval to launch ETF share classes on 13 of its existing mutual funds.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
