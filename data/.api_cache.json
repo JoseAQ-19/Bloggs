@@ -62,42 +62,42 @@
   "4618dd580265f460566f713ecc35b03ce5ab52b17e317eed8d0201579ddcf0d6": {
     "data": [
       {
+        "title": "El nuevo método fitness para esculpir el cuerpo como las 'celebrities'",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "La española Fitness Deluxe cumple previsiones e ingresa 22,5 millones en 2025",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "FDL – Fitness Deluxe cierra 2025 con una facturación de 22,5 millones de euros y abre una nueva etapa de crecimiento",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Manchester City played it safe on the weekend with the fitness of a key player",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
         "title": "La sala fitness del Polideportivo Azken Portu se amplía hasta los 600 m² tras una renovación integral",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "He perdido 50 kilos a los 50 años gracias a caminar y entrenar fuerza: \"No había pisado un gimnasio en mi vida\"",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Newcastle boss Howe gives fitness updates on Guimaraes, Gordon, Wissa and Miley",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Rez desembarca en España con una nueva generación de bebidas energéticas para el fitness",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Ávila acoge este sábado la VI Gala del Deporte de la Federación de Fisicoculturismo y Fitness de Castilla y León",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773408338.347497,
+    "cached_at": 1773466636.1835718,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
@@ -109,13 +109,6 @@
         "lang": "es",
         "score": 0,
         "url": "https://as.com/tikitakas/estilo/que-es-el-athleisure-la-nueva-tendencia-de-moda-que-esta-arrasando-f202603-n/"
-      },
-      {
-        "title": "Lanzarote levanta el telón del triatlón mundial con la Copa del Mundo - AS.com",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "http://masdeporte.as.com/masdeporte/polideportivo/lanzarote-levanta-el-telon-del-triatlon-mundial-con-la-copa-del-mundo-f202603-n/"
       },
       {
         "title": "Granada presenta la carrera “más bonita del mundo” - AS.com",
@@ -130,9 +123,16 @@
         "lang": "es",
         "score": 0,
         "url": "https://as.com/tikitakas/salud/alfonso-coelho-entrenador-personal-caminar-cuenta-como-ejercicio-dependiendo-de-la-persona-f202603-n/"
+      },
+      {
+        "title": "Javier Guerrero, doctor en nutrición deportiva: “No beber lo suficiente hace que nuestro cerebro rinda muy por debajo” - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/tikitakas/salud/javier-guerrero-doctor-en-nutricion-deportiva-no-beber-lo-suficiente-hace-que-nuestro-cerebro-rinda-muy-por-debajo-f202603-n/"
       }
     ],
-    "cached_at": 1773408338.7007143,
+    "cached_at": 1773466636.708168,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
