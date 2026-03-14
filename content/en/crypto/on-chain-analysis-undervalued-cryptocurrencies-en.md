@@ -13,7 +13,7 @@ translationKey: "1620a868-a68b-78a0-7db2-a2f5f8fef21d"
 
 ![Missed the Bull Run? 3 Cryptos Under $1 That Could Make You Rich](/images/on-chain-analysis-undervalued-cryptocurrencies-en.jpg)
 
-Ethereum Layer 2 tokens trading under $1 aren't a guaranteed path to wealth. These digital assets carry significant risks that investors must understand before allocating capital.
+Ethereum Layer 2 tokens trading under $1 aren't a guaranteed path to wealth, as these digital assets carry significant risks that investors must understand before allocating capital.
 
 * Three cryptocurrencies priced under $1 could potentially offer high returns as Layer 2 solutions are projected to facilitate a DeFi market reaching $256.4 billion by 2030.
 
@@ -23,7 +23,7 @@ Ethereum Layer 2 tokens trading under $1 aren't a guaranteed path to wealth. The
 
 ## Centralization Risks in Layer 2 Scaling Solutions
 
-Centralization in Layer 2 scaling solutions introduces single points of failure and censorship risks. Coinbase's Base network has surged past $14.9 billion in total value locked (TVL) by mid-2025, but this rapid growth masks deeper centralization concerns.
+Centralization in Layer 2 scaling solutions introduces single points of failure and censorship risks, potentially undermining the benefits of decentralization. Coinbase's Base network has surged past $14.9 billion in total value locked (TVL) by mid-2025, but this rapid growth masks deeper centralization concerns.
 
 Base, like many Layer 2 solutions, relies on a centralized sequencer. This sequencer acts as the gatekeeper for transaction ordering, potentially leading to censorship or single points of failure.
 
@@ -47,7 +47,7 @@ This is significantly larger than other Layer 1 ecosystems and underscores the n
 
 ## Liquidity Fragmentation Impact on DeFi Composability
 
-Liquidity fragmentation across multiple Layer 2 networks complicates cross-platform transactions on the Ethereum network. This fragmentation creates a less efficient and more complex DeFi landscape, hindering composability.
+Liquidity fragmentation across multiple Layer 2 networks complicates cross-platform transactions on the Ethereum network, hindering the seamless interaction between DeFi protocols. This fragmentation creates a less efficient and more complex DeFi landscape, hindering composability.
 
 Consider a scenario where a user wants to move assets from one Layer 2 to another. They would likely need to use bridge protocols, which can be costly, slow, and introduce additional security risks.
 
@@ -59,7 +59,7 @@ Ethereum's dominance in DeFi, holding approximately 68% of the total DeFi Total 
 
 ## Malicious Upgrade Risks in Layer 2 Protocols
 
-Malicious upgrades across almost every Layer 2 solution pose a risk of user fund theft. Jarrod Watts, Developer Relations Engineer at Polygon Labs, acknowledges this potential vulnerability.
+Malicious upgrades across almost every Layer 2 solution pose a risk of user fund theft, highlighting a critical vulnerability in these systems. Jarrod Watts, Developer Relations Engineer at Polygon Labs, acknowledges this potential vulnerability.
 
 Watts noted that "the worst-case scenario is an upgrade is performed that steals user funds... This kind of malicious upgrade is something that is possible on almost every **layer-2** today."
 
@@ -69,9 +69,9 @@ Watts' somewhat comforting addendum – "over time, IMO the risk of malicious up
 
 ## Technological Risks: Polygon's zkEVM Rollup Failure
 
-Polygon's zkEVM Mainnet Beta was quietly abandoned due to delayed technical execution and lack of product-market fit, according to CEO Marc Boiron. This highlights the technological risks inherent in Layer 2 development.
+Polygon's zkEVM Mainnet Beta was quietly abandoned due to delayed technical execution and lack of product-market fit, according to CEO Marc Boiron, illustrating the significant technological hurdles in Layer 2 development.
 
-Lorenz Lehmann, Ethereum Researcher, reported that Polygon zkEVM was quietly abandoned before the official announcement. It also never received a crucial upgrade to Ethereum's "blobs", according to **Lorenz Lehmann's report**.
+Lorenz Lehmann, Ethereum Researcher, reported that Polygon zkEVM was quietly abandoned before the official announcement. It also never received a crucial upgrade to Ethereum's "**blobs**", according to **Lorenz Lehmann's report**.
 
 This raises serious questions about the viability of zkEVM technology, especially considering Polygon's significant investment in its development.
 
@@ -83,7 +83,7 @@ It also took around 14 hours for the rollup to reopen for withdrawals, affecting
 
 ## Regulatory Risks: Impact on Layer 2 Crypto Investments
 
-Regulatory uncertainty poses a significant risk to Layer 2 investments, as authorities scrutinize Layer 2 frameworks. Nate Geraci, President of the ETF Store, notes the SEC's investigation into Ethereum 2.0 and the need for further clarity from the IRS around the treatment of staking rewards.
+Regulatory uncertainty poses a significant risk to Layer 2 investments, as authorities scrutinize Layer 2 frameworks, potentially impacting their adoption and value. Nate Geraci, President of the ETF Store, notes the SEC's investigation into Ethereum 2.0 and the need for further clarity from the IRS around the treatment of staking rewards.
 
 While **CryptoSlate** reports that the SEC guidance removes a major regulatory obstacle for funds seeking to stake Ethereum, regulatory uncertainty still poses risks. Authorities are scrutinizing Layer 2 frameworks.
 
@@ -95,7 +95,7 @@ This uncertainty extends to Layer 2 solutions. These often rely on similar staki
 
 ## Risk Management: Navigating the Layer 2 Crypto Market
 
-Investors must exercise extreme caution when considering sub-$1 cryptocurrencies tied to Layer 2 solutions, due to the very real risks of centralization, security vulnerabilities, and regulatory uncertainty. Diversifying into established Layer 1 projects to mitigate risks is a more prudent approach.
+Investors must exercise extreme caution when considering sub-$1 cryptocurrencies tied to Layer 2 solutions, due to the very real risks of centralization, security vulnerabilities, and regulatory uncertainty, demanding a risk-aware approach. Diversifying into established Layer 1 projects to mitigate risks is a more prudent approach.
 
 *This article is for informational purposes only and should not be considered financial advice. Cryptocurrency investments are volatile and carry significant risk. Always do your own research before making any investment decisions.*
 
