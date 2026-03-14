@@ -475,21 +475,14 @@
   "c7dcb72dc33baaa2e522c198717b4b418fcd1e9a91af28dfbac294c4b153973d": {
     "data": [
       {
-        "title": "Bitcoin tops $72,000 as crypto rallies despite stronger dollar: Crypto Markets Today",
+        "title": "The Hottest New Crypto Trade Is 24/7 Oil Futures",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Trump crypto venture offers “guaranteed direct access” for $5 million",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Five-minute bets are the new craze sweeping crypto markets",
+        "title": "Crypto Currents: SEC, CFTC sign MOU for Joint Harmonization Initiative",
         "source": "google_news",
         "lang": "en",
         "score": 0,
@@ -503,14 +496,21 @@
         "url": ""
       },
       {
-        "title": "Bitcoin Surges Past $70,000. This Trump Post Could Be Lifting the Crypto, Ethereum and XRP.",
+        "title": "AI developers may not be keen on crypto, but stablecoins are the secret to agentic finance, crypto insiders say",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Crypto price plunge: What Eric Trump, Michael Saylor, and others are saying",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773415482.172562,
+    "cached_at": 1773504600.725443,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
@@ -524,18 +524,11 @@
         "url": "https://es.wired.com/articulos/hodio-asi-es-la-herramienta-con-la-que-espana-busca-medir-el-odio-en-plataformas-digitales"
       },
       {
-        "title": "Gemini por fin mejora su integración con Google Docs, Hojas de Cálculo y otras apps de Workspace | WIRED",
+        "title": "Logran reactivar el cerebro de un ratón congelado por primera vez | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/gemini-por-fin-mejora-su-integracion-con-google-docs-hojas-de-calculo-y-otras-apps-de-workspace"
-      },
-      {
-        "title": "Cómo será Lunar Gateway, la futura estación de la ESA que orbitará la Luna | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/como-sera-lunar-gateway-la-futura-estacion-de-la-esa-que-orbitara-la-luna"
+        "url": "https://es.wired.com/articulos/logran-reactivar-el-cerebro-de-un-raton-congelado-por-primera-vez"
       },
       {
         "title": "¿Por qué es tan difícil volver a mandar humanos a la Luna si ya se hizo seis veces hace medio siglo? | WIRED",
@@ -543,9 +536,16 @@
         "lang": "en",
         "score": 0,
         "url": "https://es.wired.com/articulos/por-que-es-tan-dificil-volver-a-mandar-humanos-a-la-luna"
+      },
+      {
+        "title": "Apple drops commission rates in China without a fuss | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/03/13/apple-drops-commission-rates-in-china-25-percent/"
       }
     ],
-    "cached_at": 1773415482.6874816,
+    "cached_at": 1773504601.139593,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
