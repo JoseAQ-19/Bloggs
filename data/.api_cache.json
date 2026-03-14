@@ -139,42 +139,42 @@
   "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
     "data": [
       {
-        "title": "St. Patrick's 'Slay' fitness dance class coming to Waco this weekend",
+        "title": "This year, take charge of your physical fitness with CFHPP",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "The hardest step is starting: Macon trainer offers simple fitness advice",
+        "title": "IMPD officer arrested for battery after off-duty fight at Crunch Fitness",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Arne Slot issues Liverpool fitness update on Alexander Isak and Federico Chiesa",
+        "title": "Man turns fitness into fundraising mission",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Howe on Barcelona disappointment, Gordon's fitness and Joelinton's form",
+        "title": "Dumbbells Set Women Mytrix Pink Stepper: Mini Fitness Stair Stepper With Bands & Mat, LCD Display, Quiet & Compact Home Workout Machine Steppers For Exercise Workout",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Health & Wellness Series: My Fitness Journey Q & A with Jessica Tipton",
+        "title": "Former Gordmans set to become Crunch Fitness center",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773408747.2667751,
+    "cached_at": 1773466901.4276168,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
@@ -202,14 +202,14 @@
         "url": "https://es.wired.com/articulos/hodio-asi-es-la-herramienta-con-la-que-espana-busca-medir-el-odio-en-plataformas-digitales"
       },
       {
-        "title": "Gemini por fin mejora su integración con Google Docs, Hojas de Cálculo y otras apps de Workspace | WIRED",
+        "title": "Japón aprueba los primeros tratamientos del mundo hechos con células humanas reprogramadas | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/gemini-por-fin-mejora-su-integracion-con-google-docs-hojas-de-calculo-y-otras-apps-de-workspace"
+        "url": "https://es.wired.com/articulos/japon-aprueba-los-primeros-tratamientos-del-mundo-hechos-con-celulas-humanas-reprogramadas"
       }
     ],
-    "cached_at": 1773408747.7182486,
+    "cached_at": 1773466902.0260146,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
