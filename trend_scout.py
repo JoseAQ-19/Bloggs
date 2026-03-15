@@ -23,6 +23,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from typing import List, Dict, Any, Optional
 from api_cache import cached_api_call
+from llm_router import LLMRouter
 
 from dotenv import load_dotenv
 
@@ -57,140 +58,63 @@ exa = Exa(EXA_KEY) if EXA_KEY and Exa else None
 # OMEGA MATRIX: Waterfall LLM Router
 # ============================================================
 
-def _llm_generate(prompt: str, force_json: bool = False) -> Optional[str]:
+def _llm_generate_v3_core(prompt, system_prompt):
     """
-    Enrutamiento en cascada para optimizar costes y disponibilidad.
+    Original Omega Matrix Waterfall (Tier 1-4).
     """
-    
-    # ── [1] OPENROUTER (Llama 3.3 70B) ──
+    # ── [1] OPENROUTER ──
     if OPENROUTER_SCOUT_KEY:
         max_retries = 3
         backoff_seconds = [10, 25, 60]
         for attempt in range(max_retries):
-            print(f"   🧠 [Omega] Intento 1: OpenRouter (Llama 4 Scout) (intento {attempt+1}/{max_retries})...")
             try:
-                headers = {
-                    "Authorization": f"Bearer {OPENROUTER_SCOUT_KEY}",
-                    "Content-Type": "application/json",
-                    "X-Title": "TrendScout"
-                }
-                payload = {
-                    "model": "meta-llama/llama-4-scout:free",
-                    "messages": [{"role": "user", "content": prompt}],
-                    "temperature": 0.7,
-                    "max_tokens": 1024
-                }
-                if force_json: payload["response_format"] = {"type": "json_object"}
-
+                print(f"   🧠 [Omega] TIER 1: OpenRouter...")
+                headers = {"Authorization": f"Bearer {OPENROUTER_SCOUT_KEY}", "Content-Type": "application/json"}
+                payload = {"model": "meta-llama/llama-4-scout:free", "messages": [{"role": "user", "content": prompt}], "temperature": 0.7, "max_tokens": 1024}
                 resp = requests.post("https://openrouter.ai/api/v1/chat/completions", headers=headers, json=payload, timeout=90)
                 if resp.status_code == 200:
                     text = resp.json()["choices"][0]["message"]["content"].strip()
                     if len(text) > 20: return text
-                elif resp.status_code == 429:
-                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
-                    print(f"      ⏳ OpenRouter rate-limit (429). Esperando {wait}s...")
-                    time.sleep(wait)
-                else:
-                    print(f"      ⚠️ OpenRouter HTTP {resp.status_code}")
-                    break
-            except Exception as e:
-                error_str = str(e)
-                if "429" in error_str or "rate" in error_str.lower():
-                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
-                    print(f"      ⏳ OpenRouter Error 429 (excepción). Esperando {wait}s...")
-                    time.sleep(wait)
-                else:
-                    print(f"      ⚠️ OpenRouter falló: {e}")
-                    break
+            except: pass
 
-    # ── [2] HUGGINGFACE SERVERLESS (Qwen 2.5) ──
+    # ── [2] HF Serverless ──
     if HF_SCOUT_KEY:
-        max_retries = 3
-        backoff_seconds = [10, 25, 60]
-        for attempt in range(max_retries):
-            print(f"   🧠 [Omega] Intento 2: HF Serverless (Qwen3-32B) (intento {attempt+1}/{max_retries})...")
-            try:
-                hf_url = "https://router.huggingface.co/models/Qwen/Qwen3-32B/v1/chat/completions"
-                headers = {"Authorization": f"Bearer {HF_SCOUT_KEY}", "Content-Type": "application/json"}
-                payload = {
-                    "model": "Qwen/Qwen3-32B",
-                    "messages": [{"role": "user", "content": prompt}],
-                    "max_tokens": 1024
-                }
-                resp = requests.post(hf_url, headers=headers, json=payload, timeout=120)
-                if resp.status_code == 200:
-                    text = resp.json()["choices"][0]["message"]["content"].strip()
-                    return text
-                elif resp.status_code == 429:
-                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
-                    print(f"      ⏳ HF rate-limit (429). Esperando {wait}s...")
-                    time.sleep(wait)
-                elif resp.status_code == 503:
-                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
-                    print(f"      ⏳ HF Modelo en 'Cold Start' (503). Esperando {wait}s...")
-                    time.sleep(wait)
-                else:
-                    print(f"      ⚠️ HF HTTP {resp.status_code}")
-                    break
-            except Exception as e:
-                error_str = str(e)
-                if "429" in error_str or "rate" in error_str.lower() or "503" in error_str:
-                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
-                    print(f"      ⏳ HF Error 429/503 (excepción). Esperando {wait}s...")
-                    time.sleep(wait)
-                else:
-                    print(f"      ⚠️ HF falló: {e}")
-                    break
-
-    # ── [3] GROQ (Llama 3.3 70B) ──
-    if GROQ_API_KEY:
-        max_retries = 2
-        backoff_seconds = [5, 15]
-        for attempt in range(max_retries):
-            print(f"   🚀 [Omega] Intento 3: Groq (Llama 3.3 70B) (intento {attempt+1}/{max_retries})...")
-            try:
-                groq_url = "https://api.groq.com/openai/v1/chat/completions"
-                headers = {"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}
-                payload = {
-                    "model": "llama-3.3-70b-versatile",
-                    "messages": [{"role": "user", "content": prompt}],
-                    "temperature": 0.7,
-                    "max_tokens": 1024
-                }
-                if force_json:
-                    payload["response_format"] = {"type": "json_object"}
-                resp = requests.post(groq_url, headers=headers, json=payload, timeout=90)
-                if resp.status_code == 200:
-                    text = resp.json()["choices"][0]["message"]["content"].strip()
-                    if text and len(text) > 20:
-                        return text
-                elif resp.status_code == 429:
-                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 20
-                    print(f"      ⏳ Groq rate-limit (429). Esperando {wait}s...")
-                    time.sleep(wait)
-                else:
-                    print(f"      ⚠️ Groq HTTP {resp.status_code}")
-                    break
-            except Exception as e:
-                error_str = str(e)
-                if "429" in error_str or "rate" in error_str.lower():
-                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 20
-                    print(f"      ⏳ Groq Error 429 (excepción). Esperando {wait}s...")
-                    time.sleep(wait)
-                else:
-                    print(f"      ⚠️ Groq falló: {e}")
-                    break
-
-    # ── [4] GEMINI 2.0 FLASH (Fallback Final) ──
-    if client:
-        print("   🚨 [Omega] Intento 4: Gemini 2.0 Flash (Emergencia)...")
         try:
-            resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
-            if resp.text: return resp.text.strip()
-        except Exception as e:
-            print(f"      ❌ Gemini falló: {e}")
+            print(f"   🧠 [Omega] TIER 2: HF Serverless...")
+            hf_url = "https://router.huggingface.co/models/Qwen/Qwen3-32B/v1/chat/completions"
+            resp = requests.post(hf_url, headers={"Authorization": f"Bearer {HF_SCOUT_KEY}", "Content-Type": "application/json"}, json={"model": "Qwen/Qwen3-32B", "messages": [{"role": "user", "content": prompt}], "max_tokens": 1024}, timeout=120)
+            if resp.status_code == 200: return resp.json()["choices"][0]["message"]["content"].strip()
+        except: pass
 
+    # ── [3] GROQ ──
+    if GROQ_API_KEY:
+        try:
+            print(f"   🚀 [Omega] TIER 3: Groq...")
+            resp = requests.post("https://api.groq.com/openai/v1/chat/completions", headers={"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}, json={"model": "llama-3.3-70b-versatile", "messages": [{"role": "user", "content": prompt}], "temperature": 0.7, "max_tokens": 1024}, timeout=90)
+            if resp.status_code == 200: return resp.json()["choices"][0]["message"]["content"].strip()
+        except: pass
+
+    # ── [4] GEMINI ──
+    if client:
+        try:
+            print("   🚨 [Omega] TIER 4: Gemini 2.0 Flash...")
+            resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
+            return resp.text.strip()
+        except: pass
     return None
+
+
+def _llm_generate(prompt: str, force_json: bool = False) -> Optional[str]:
+    """
+    Enrutador con Capa Cero para Scouting (GPT-4o-mini).
+    """
+    return LLMRouter.route_call(
+        prompt, 
+        "You are an expert trend scout. Output JSON if required.", 
+        _llm_generate_v3_core, 
+        model_type="parsing"
+    )
+
 
 # ============================================================
 # FUENTES DE DATOS (Scrapers)

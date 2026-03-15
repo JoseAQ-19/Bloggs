@@ -322,8 +322,12 @@ OUTPUT FORMAT:
 Return ONLY the final string. NO quotation marks. NO markdown. NO explanations. MUST be in {prompt_lang}.
 """
         try:
-            resp = self.client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
-            super_query = resp.text.strip().replace('"', '').split('\n')[0]
+            def fallback_triforce(p, s):
+                resp = self.client.models.generate_content(model='gemini-2.0-flash', contents=p)
+                return resp.text.strip()
+                
+            res_text = LLMRouter.route_call(prompt, "You are a master OSINT researcher creating research queries.", fallback_triforce, model_type="reasoning")
+            super_query = res_text.replace('"', '').split('\n')[0] if res_text else topic
             if len(super_query) > 10:
                 print(f"   🔥 [Triforce Query] -> {super_query[:100]}...")
                 return super_query

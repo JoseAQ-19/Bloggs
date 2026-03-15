@@ -18,6 +18,7 @@ import logging
 import requests
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
+from llm_router import LLMRouter
 
 load_dotenv()
 
@@ -55,11 +56,9 @@ from typing import List, Dict, Any, Optional, Union
 # MOTOR LLM CASCADA (Writer — Aislado)
 # ============================================================
 
-def _call_writer_engine(prompt_text: str, lang: str = "en") -> Optional[str]:
+def _call_writer_engine_v3_core(prompt_text: str, lang: str = "en") -> Optional[str]:
     """
-    Motor de escritura cascada para fondos de inversión.
-    ES: Zhipu GLM-4.7 (via OpenRouter) → Gemini
-    EN: OpenRouter GLM-4.5-Air → Llama 3.3 70B → Gemini
+    Motor de escritura original (Cascada Tier 1-4).
     """
     or_key = OPENROUTER_KEY
 
@@ -67,162 +66,67 @@ def _call_writer_engine(prompt_text: str, lang: str = "en") -> Optional[str]:
         # ── MOTOR ES 1: OpenRouter DeepSeek V3 ──
         if or_key:
             print("   🧠 [Stocks Writer ES] Motor 1: DeepSeek V3 (OpenRouter)...")
-            max_retries = 3
-            backoff_seconds = [10, 25, 60]
-            for attempt in range(max_retries):
-                try:
-                    ds_prompt = prompt_text + "\n\n[SYSTEM CALIBRATION: DEEPSEEK]: You are a logic-driven financial model. Prioritize analytical depth, accuracy, and structured reasoning. Skip any filler intro."
-                    resp = or_client.chat.completions.create(
-                        model="deepseek/deepseek-chat-v3-0324:free",
-                        messages=[{"role": "user", "content": ds_prompt}],
-                        temperature=0.85,
-                        max_tokens=8192
-                    )
-                    result = resp.choices[0].message.content.strip()
-                    if result and len(result) > 500:
-                        print("   ✅ DeepSeek V3 respondió correctamente.")
-                        return result
-                    else:
-                        print("   ⚠️ DeepSeek V3 respuesta muy corta. Reintentando...")
-                except Exception as e:
-                    error_str = str(e)
-                    if "429" in error_str or "rate" in error_str.lower():
-                        import time as _time
-                        wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
-                        logging.warning(f"⏳ RATE LIMIT 429 DeepSeek ES (intento {attempt+1}). Esperando {wait}s...")
-                        _time.sleep(wait)
-                    else:
-                        logging.warning(f"DeepSeek V3 error: {e}")
-                        break
+            try:
+                ds_prompt = prompt_text + "\n\n[SYSTEM CALIBRATION: DEEPSEEK]: You are a logic-driven financial model."
+                resp = or_client.chat.completions.create(model="deepseek/deepseek-chat-v3-0324:free", messages=[{"role": "user", "content": ds_prompt}], temperature=0.85)
+                res = resp.choices[0].message.content.strip()
+                if res and len(res) > 500: return res
+            except: pass
 
         # ── MOTOR ES 2: Groq (Llama 3.3 70B) ──
         if GROQ_API_KEY:
-            print("   🧠 [Stocks Writer ES] Motor 2: Groq (Llama 3.3 70B)...")
-            max_retries = 2
-            backoff_seconds = [5, 15]
-            for attempt in range(max_retries):
-                try:
-                    llama_prompt = prompt_text + "\n\n[SYSTEM CALIBRATION: LLAMA-3]: You are a highly narrative open-weight model. Focus on seamless journalistic transitions, engaging prose, and avoiding repetitive AI-like sentence structures."
-                    resp = groq_client.chat.completions.create(
-                        model="llama-3.3-70b-versatile",
-                        messages=[{"role": "user", "content": llama_prompt}],
-                        temperature=0.85,
-                        max_tokens=8000
-                    )
-                    result = resp.choices[0].message.content.strip()
-                    if result and len(result) > 500:
-                        print("   ✅ Groq respondió correctamente a altísima velocidad.")
-                        return result
-                    else:
-                        print("   ⚠️ Groq respuesta muy corta. Reintentando...")
-                except Exception as e:
-                    error_str = str(e)
-                    if "429" in error_str or "rate" in error_str.lower():
-                        import time as _time
-                        wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 20
-                        logging.warning(f"⏳ RATE LIMIT Groq ES (intento {attempt+1}). Esperando {wait}s...")
-                        _time.sleep(wait)
-                    else:
-                        logging.warning(f"Groq API error: {e}")
-                        break
+            try:
+                llama_prompt = prompt_text + "\n\n[SYSTEM CALIBRATION: LLAMA-3]: You are a highly narrative model."
+                resp = groq_client.chat.completions.create(model="llama-3.3-70b-versatile", messages=[{"role": "user", "content": llama_prompt}])
+                res = resp.choices[0].message.content.strip()
+                if res and len(res) > 500: return res
+            except: pass
     else:
         # ── MOTOR EN 1: OpenRouter DeepSeek V3 ──
         if or_key:
-            print("   🧠 [Stocks Writer EN] Motor 1: DeepSeek V3 (OpenRouter)...")
-            max_retries = 3
-            backoff_seconds = [10, 25, 60]
-            for attempt in range(max_retries):
-                try:
-                    ds_prompt = prompt_text + "\n\n[SYSTEM CALIBRATION: DEEPSEEK]: You are a logic-driven financial model. Prioritize analytical depth, accuracy, and structured reasoning. Skip any filler intro."
-                    resp = or_client.chat.completions.create(
-                        model="deepseek/deepseek-chat-v3-0324:free",
-                        messages=[{"role": "user", "content": ds_prompt}],
-                        temperature=0.85,
-                        max_tokens=8192
-                    )
-                    result = resp.choices[0].message.content.strip()
-                    if result and len(result) > 500:
-                        print("   ✅ DeepSeek V3 respondió correctamente.")
-                        return result
-                    else:
-                        print("   ⚠️ DeepSeek V3 respuesta muy corta. Reintentando...")
-                except Exception as e:
-                    error_str = str(e)
-                    if "429" in error_str or "rate" in error_str.lower():
-                        import time as _time
-                        wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
-                        logging.warning(f"⏳ RATE LIMIT 429 DeepSeek EN (intento {attempt+1}). Esperando {wait}s...")
-                        _time.sleep(wait)
-                    else:
-                        logging.warning(f"DeepSeek V3 error: {e}")
-                        break
+            try:
+                ds_prompt = prompt_text + "\n\n[SYSTEM CALIBRATION: DEEPSEEK]: Analytical depth required."
+                resp = or_client.chat.completions.create(model="deepseek/deepseek-chat-v3-0324:free", messages=[{"role": "user", "content": ds_prompt}])
+                res = resp.choices[0].message.content.strip()
+                if res and len(res) > 500: return res
+            except: pass
 
-        # ── MOTOR EN 2: Groq (Llama 3.3 70B) ──
+        # ── MOTOR EN 2: Groq ──
         if GROQ_API_KEY:
-            print("   🧠 [Stocks Writer EN] Motor 2: Groq (Llama 3.3 70B)...")
-            max_retries = 2
-            backoff_seconds = [5, 15]
-            for attempt in range(max_retries):
-                try:
-                    llama_prompt = prompt_text + "\n\n[SYSTEM CALIBRATION: LLAMA-3]: You are a highly narrative open-weight model. Focus on seamless journalistic transitions, engaging prose, and avoiding repetitive AI-like sentence structures. Skip filler intros."
-                    resp = groq_client.chat.completions.create(
-                        model="llama-3.3-70b-versatile",
-                        messages=[{"role": "user", "content": llama_prompt}],
-                        temperature=0.85,
-                        max_tokens=8000
-                    )
-                    result = resp.choices[0].message.content.strip()
-                    if result and len(result) > 500:
-                        print("   ✅ Groq respondió correctamente a altísima velocidad.")
-                        return result
-                    else:
-                        print("   ⚠️ Groq respuesta muy corta. Reintentando...")
-                except Exception as e:
-                    error_str = str(e)
-                    if "429" in error_str or "rate" in error_str.lower():
-                        import time as _time
-                        wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 20
-                        logging.warning(f"⏳ RATE LIMIT Groq EN (intento {attempt+1}). Esperando {wait}s...")
-                        _time.sleep(wait)
-                    else:
-                        logging.warning(f"Groq API error: {e}")
-                        break
+            try:
+                resp = groq_client.chat.completions.create(model="llama-3.3-70b-versatile", messages=[{"role": "user", "content": prompt_text}])
+                res = resp.choices[0].message.content.strip()
+                if res and len(res) > 500: return res
+            except: pass
 
-    # ── MOTOR 3: NVIDIA API (Llama 3.1 70B / Nemotron) ──
+    # TIER 3: NVIDIA Fallback
     nvidia_key = os.getenv("NVIDIA_API_KEY")
     if nvidia_key:
-        print(f"   🟢 [Stocks Writer {lang.upper()}] Motor 3: NVIDIA API (Llama 3.1 70B)...")
         try:
             nvidia_client = OpenAI(api_key=nvidia_key, base_url="https://integrate.api.nvidia.com/v1")
-            nvidia_prompt = prompt_text + "\n\n[SYSTEM CALIBRATION: LLAMA-3]: You are a highly narrative open-weight model. Focus on seamless journalistic transitions, engaging prose, and avoiding repetitive AI-like sentence structures."
-            resp = nvidia_client.chat.completions.create(
-                model="meta/llama-3.1-70b-instruct",
-                messages=[{"role": "user", "content": nvidia_prompt}],
-                temperature=0.85,
-                max_tokens=4096
-            )
-            result = resp.choices[0].message.content.strip()
-            if result and len(result) > 500:
-                print("   ✅ NVIDIA API respondió correctamente.")
-                return result
-            else:
-                print("   ⚠️ NVIDIA respuesta vacía. Activando emergencia...")
-        except Exception as e:
-            logging.warning(f"🚨 FALLBACK TRIGGERED: NVIDIA API falló por [{type(e).__name__}]: {e}. Cayendo a Gemini...")
+            resp = nvidia_client.chat.completions.create(model="meta/llama-3.1-70b-instruct", messages=[{"role": "user", "content": prompt_text}])
+            res = resp.choices[0].message.content.strip()
+            if res and len(res) > 500: return res
+        except: pass
 
-    # ── EMERGENCIA: Gemini ──
+    # TIER 4: Gemini 
     if gemini_client:
-        print("   🚨 [Stocks Writer] Gemini 2.0 Flash (emergencia)...")
-        try:
-            gemini_prompt = prompt_text + "\n\n[SYSTEM CALIBRATION: GEMINI]: You are a fast, analytical model. Focus on precise formatting, avoiding repetitive introductions, and strictly following the negative constraints."
-            resp = gemini_client.models.generate_content(
-                model='gemini-2.0-flash', contents=gemini_prompt
-            )
-            return resp.text.strip()
-        except Exception as e:
-            logging.error(f"Gemini error: {e}")
-
+        resp = gemini_client.models.generate_content(model='gemini-2.0-flash', contents=prompt_text)
+        return resp.text.strip()
     return None
+
+
+def _call_writer_engine(prompt_text: str, lang: str = "en") -> Optional[str]:
+    """
+    Motor de escritura con Capa Cero (GitHub Models).
+    """
+    system_prompt = "You are a senior financial analyst and fund manager."
+    return LLMRouter.route_call(
+        prompt_text, 
+        system_prompt, 
+        lambda p, s: _call_writer_engine_v3_core(p, lang), 
+        model_type="reasoning"
+    )
 
 
 # ============================================================
@@ -391,12 +295,16 @@ Return ONLY the JSON object. No markdown, no explanations."""
 
     viral_title = tema  # fallback
     try:
-        if gemini_client:
-            title_resp = gemini_client.models.generate_content(
-                model='gemini-2.0-flash', contents=title_prompt,
+        def fallback_stock_title(p, s):
+            resp = gemini_client.models.generate_content(
+                model='gemini-2.0-flash', contents=p,
                 config=types.GenerateContentConfig(response_mime_type="application/json")
             )
-            title_json = json.loads(title_resp.text.strip())
+            return resp.text.strip()
+            
+        raw_json = LLMRouter.route_call(title_prompt, "You are a financial news editor creating JSON title candidates.", fallback_stock_title, model_type="reasoning")
+        if raw_json:
+            title_json = json.loads(raw_json.strip())
             best = title_json.get("best", "")
             if best and len(best.split()) >= 4:
                 viral_title = best.strip('"').strip("'")
@@ -478,10 +386,12 @@ WRITE THE FULL ARTICLE NOW. START IMMEDIATELY WITH THE FIRST SENTENCE (NO preamb
                 f"in {'Spanish' if lang == 'es' else 'English'} for a mutual fund article titled "
                 f"'{viral_title}'. Output ONLY the description text. No quotes. No trailing ellipses."
             )
-            desc_resp = gemini_client.models.generate_content(
-                model='gemini-2.0-flash', contents=desc_prompt
-            )
-            raw_desc = desc_resp.text.strip().replace('"', "'")
+        def fallback_stock_meta(p, s):
+            resp = gemini_client.models.generate_content(model='gemini-2.0-flash', contents=p)
+            return resp.text.strip()
+            
+        desc_text = LLMRouter.route_call(desc_prompt, "You are a financial SEO specialist.", fallback_stock_meta, model_type="parsing")
+        raw_desc = desc_text.replace('"', "'") if desc_text else ""
             if len(raw_desc) > 155:
                 description = raw_desc[:155].rsplit(' ', 1)[0] + '.'
             else:

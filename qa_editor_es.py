@@ -25,6 +25,7 @@ load_dotenv()
 # === IMPORTS PROPIOS ===
 from qa_link_validator import validate_links
 from utils import ContentCleaner
+from llm_router import LLMRouter
 
 # === LLM CLIENTS ===
 from openai import OpenAI
@@ -204,146 +205,74 @@ def _notebooklm_factcheck_es(body_text):
 # TAREA B3: PIPELINE DE CORRECCIÓN ES
 # =====================================================
 
-def _call_llm_es(prompt, system_prompt):
+def _call_llm_es_v3_core(prompt, system_prompt):
     """
-    Cascada LLM para el Editor ES: Zhipu GLM → Gemini Flash.
-    Returns: string con el artículo corregido, o None si falla.
+    Cascada LLM Original para el Editor ES (Tier 1-4).
     """
     # Intento 1: OpenRouter (DeepSeek V3)
-    # Using OPEN_CORRECTOR_API_KEY (assigned to OpenRouter)
     if OPEN_CORRECTOR_KEY:
         max_retries = 3
         backoff_seconds = [10, 25, 60]
         for attempt in range(max_retries):
             try:
-                print(f"   🧠 [Editor ES] Intentando DeepSeek V3 vía OpenRouter (intento {attempt+1})...")
-                or_client = OpenAI(
-                    api_key=OPEN_CORRECTOR_KEY,
-                    base_url="https://openrouter.ai/api/v1"
-                )
+                print(f"   🧠 [Editor ES] TIER 1: DeepSeek V3 vía OpenRouter...")
+                or_client = OpenAI(api_key=OPEN_CORRECTOR_KEY, base_url="https://openrouter.ai/api/v1")
                 response = or_client.chat.completions.create(
                     model="deepseek/deepseek-chat-v3-0324:free",
-                    messages=[
-                        {"role": "system", "content": system_prompt},
-                        {"role": "user", "content": prompt}
-                    ],
+                    messages=[{"role": "system", "content": system_prompt}, {"role": "user", "content": prompt}],
                     temperature=0.4,
                     max_tokens=16000
                 )
                 result = response.choices[0].message.content.strip()
-                if result and len(result) > 500:
-                    print(f"   ✅ [Editor ES] DeepSeek V3 respondió: {len(result)} chars")
-                    return result
-            except Exception as e:
-                error_str = str(e)
-                if "429" in error_str or "rate" in error_str.lower():
-                    import time as _time
-                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
-                    print(f"   ⏳ [Editor ES] DeepSeek V3 rate limit. Esperando {wait}s...")
-                    _time.sleep(wait)
-                else:
-                    print(f"   ⚠️ [Editor ES] DeepSeek V3 falló: {e}")
-                    break
+                if result and len(result) > 500: return result
+            except: pass
 
-    # Intento 2: HF Serverless (Qwen3-32B)
-    # Using CORRECTOR_HF_API_KEY
+    # Intento 2: HF Serverless
     if CORRECTOR_HF_KEY:
-        max_retries = 2
-        backoff_seconds = [10, 25]
-        for attempt in range(max_retries):
-            try:
-                print(f"   🧠 [Editor ES] Intentando Qwen3-32B vía HF Serverless (intento {attempt+1})...")
-                hf_resp = requests.post(
-                    "https://router.huggingface.co/models/Qwen/Qwen3-32B/v1/chat/completions",
-                    headers={
-                        "Authorization": f"Bearer {CORRECTOR_HF_KEY}",
-                        "Content-Type": "application/json"
-                    },
-                    json={
-                        "model": "Qwen/Qwen3-32B",
-                        "messages": [
-                            {"role": "system", "content": system_prompt},
-                            {"role": "user", "content": prompt}
-                        ],
-                        "temperature": 0.4,
-                        "max_tokens": 16000,
-                        "stream": False
-                    },
-                    timeout=120
-                )
-                if hf_resp.status_code == 200:
-                    result = hf_resp.json()["choices"][0]["message"]["content"].strip()
-                    if result and len(result) > 500:
-                        print(f"   ✅ [Editor ES] Qwen3-32B respondió: {len(result)} chars")
-                        return result
-                elif hf_resp.status_code == 429:
-                    import time as _time
-                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 25
-                    print(f"   ⏳ [Editor ES] Qwen3-32B rate limit. Esperando {wait}s...")
-                    _time.sleep(wait)
-                else:
-                    print(f"   ⚠️ [Editor ES] Qwen3-32B HTTP {hf_resp.status_code}")
-                    break
-            except Exception as e:
-                print(f"   ⚠️ [Editor ES] Qwen3-32B falló: {e}")
-                break
+        try:
+            print(f"   🧠 [Editor ES] TIER 2: Qwen3-32B vía HF Serverless...")
+            hf_resp = requests.post(
+                "https://router.huggingface.co/models/Qwen/Qwen3-32B/v1/chat/completions",
+                headers={"Authorization": f"Bearer {CORRECTOR_HF_KEY}", "Content-Type": "application/json"},
+                json={"model": "Qwen/Qwen3-32B", "messages": [{"role": "system", "content": system_prompt}, {"role": "user", "content": prompt}], "temperature": 0.4, "max_tokens": 16000},
+                timeout=120
+            )
+            if hf_resp.status_code == 200:
+                result = hf_resp.json()["choices"][0]["message"]["content"].strip()
+                if result and len(result) > 500: return result
+        except: pass
 
-    # Intento 3: Groq (Llama 3.3 70B)
+    # Intento 3: Groq
     if GROQ_API_KEY:
-        max_retries = 2
-        backoff_seconds = [5, 15]
-        for attempt in range(max_retries):
-            try:
-                print(f"   🚀 [Editor ES] Intentando Groq (Llama 3.3 70B) (intento {attempt+1})...")
-                groq_client = OpenAI(api_key=GROQ_API_KEY, base_url="https://api.groq.com/openai/v1")
-                response = groq_client.chat.completions.create(
-                    model="llama-3.3-70b-versatile",
-                    messages=[
-                        {"role": "system", "content": system_prompt},
-                        {"role": "user", "content": prompt}
-                    ],
-                    temperature=0.4,
-                    max_tokens=8000
-                )
-                result = response.choices[0].message.content.strip()
-                if result and len(result) > 500:
-                    print(f"   ✅ [Editor ES] Groq respondió: {len(result)} chars")
-                    return result
-            except Exception as e:
-                error_str = str(e)
-                if "429" in error_str or "rate" in error_str.lower():
-                    import time as _time
-                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 20
-                    print(f"   ⏳ [Editor ES] Groq rate limit. Esperando {wait}s...")
-                    _time.sleep(wait)
-                else:
-                    print(f"   ⚠️ [Editor ES] Groq falló: {e}")
-                    break
+        try:
+            print(f"   🚀 [Editor ES] TIER 3: Groq (Llama 3.3 70B)...")
+            groq_client = OpenAI(api_key=GROQ_API_KEY, base_url="https://api.groq.com/openai/v1")
+            response = groq_client.chat.completions.create(model="llama-3.3-70b-versatile", messages=[{"role": "system", "content": system_prompt}, {"role": "user", "content": prompt}], temperature=0.4, max_tokens=8000)
+            result = response.choices[0].message.content.strip()
+            if result and len(result) > 500: return result
+        except: pass
 
-    # Intento 4: Gemini 2.0 Flash
+    # Intento 4: Gemini
     if GEMINI_KEY:
         try:
-            print("   🚨 [Editor ES] Fallback a Gemini 2.0 Flash (Emergencia)...")
+            print("   🚨 [Editor ES] TIER 4: Fallback a Gemini 2.0 Flash...")
             gemini_client = genai.Client(api_key=GEMINI_KEY)
-            response = gemini_client.models.generate_content(
-                model="gemini-2.0-flash",
-                contents=f"{system_prompt}\n\n{prompt}",
-                config=types.GenerateContentConfig(
-                    temperature=0.4,
-                    max_output_tokens=16000
-                )
-            )
-            result = response.text.strip()
-            if result and len(result) > 500:
-                print(f"   ✅ [Editor ES] Gemini respondió: {len(result)} chars")
-                return result
-        except Exception as e:
-            print(f"   ⚠️ [Editor ES] Gemini falló: {e}")
-        finally:
-             if hasattr(gemini_client, 'close'): gemini_client.close()
-
-    print("   ❌ [Editor ES] Todos los LLMs fallaron.")
+            response = gemini_client.models.generate_content(model="gemini-2.0-flash", contents=f"{system_prompt}\n\n{prompt}")
+            return response.text.strip()
+        except: pass
     return None
+
+
+def _call_llm_es(prompt, system_prompt):
+    """
+    Enrutador ES con Capa Cero.
+    """
+    return LLMRouter.route_call(
+        prompt, 
+        system_prompt, 
+        _call_llm_es_v3_core, 
+        model_type="reasoning"
+    )
 
 
 def _validate_output(edited_text, original_text):

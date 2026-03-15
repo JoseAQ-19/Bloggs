@@ -31,6 +31,7 @@ import tools_hunter
 # Importar Prompts Bilingües
 from utils import SlugManager, LinkManager, ContentCleaner 
 from novum_visual import get_image 
+from llm_router import LLMRouter
 import indexing_api
 try:
     from prompts_tools import PROMPT_BLUEPRINT_EN, PROMPT_BLUEPRINT_ES
@@ -476,8 +477,14 @@ def is_topic_redundant(new_topic, category):
 def safety_check(topic):
     try:
         prompt = f"ACT AS: Content Safety Moderator. TOPIC: '{topic}'. OUTPUT: SAFE or UNSAFE.\nRULES: Allow clickbait, sensationalism, drama, controversies, and gossip (SAFE). ONLY reply 'UNSAFE' if it promotes real-world physical violence, terrorism, self-harm, or explicit adult content/pornography. Otherwise, it is SAFE."
-        resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
-        if "UNSAFE" in resp.text.strip().upper():
+        
+        # Fallback core para safety (Gemini)
+        def fallback(p, s):
+            resp = client.models.generate_content(model='gemini-2.0-flash', contents=p)
+            return resp.text.strip()
+            
+        res = LLMRouter.route_call(prompt, "You are a content safety moderator.", fallback, model_type="parsing")
+        if res and "UNSAFE" in res.upper():
             return False
         return True
     except:
@@ -493,9 +500,16 @@ def planificar_articulo(tema, contexto, lang, category_config):
     # Handle V4 dict format
     ctx_text = contexto.get('content', '')[:1000] if isinstance(contexto, dict) else str(contexto)[:1000]
     prompt = f"{prompt_persona}\n{SYSTEM_FORMAT_RULES}{lang_instruction}\nACT LIKE EDITOR. Topic: {tema}\nContext: {ctx_text}\nLanguage: {lang}\nSTRICT JSON: {{ \"titulo\": \"...\", \"slug_sugerido\": \"...\" }}"
+    
+    def fallback_plan(p, s):
+        resp = client.models.generate_content(model='gemini-2.0-flash', contents=p, config=types.GenerateContentConfig(response_mime_type="application/json"))
+        return resp.text.strip()
+
     try:
-        resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt, config=types.GenerateContentConfig(response_mime_type="application/json"))
-        raw_text = resp.text
+        raw_text = LLMRouter.route_call(prompt, "You are a professional editor planning an article structure.", fallback_plan, model_type="reasoning")
+        if not raw_text:
+            raise Exception("No response from Router in planning")
+            
         if '```' in raw_text:
             raw_text = raw_text.replace('```json', '').replace('```', '')
         plan = json.loads(raw_text.strip())
@@ -604,22 +618,14 @@ def _call_nvidia_nim(prompt_text, model_id, calibration_tag, nvidia_key, max_tok
         return "", False
 
 
-def _call_en_engine(prompt_text):
+def _call_en_engine_v3_core(prompt_text, system_prompt=""):
     """
-    Motor Inglés Omega v2 — Jerarquía NVIDIA NIM + OpenRouter + Groq + Gemini.
-    
-    NUEVA CASCADA (PRD v2):
-    ┌─────────────────────────────────────────────────────┐
-    │ TIER 1: NVIDIA NIM — GLM-4.7 (Redactor Premium)    │
-    │ TIER 2: OpenRouter — GLM-4.5-Air (Free)            │
-    │ TIER 3: OpenRouter — Llama-3.3-70B (Free + Retry)  │
-    │ TIER 4: NVIDIA NIM — Llama-3.1-70B (Fallback Élite)│
-    │ TIER 5: Gemini 2.0 Flash (Último Recurso)          │
-    └─────────────────────────────────────────────────────┘
+    Jerarquía Original EN (Tier 1-5).
     """
     import time as _time
     nvidia_key = os.getenv("NVIDIA_API_KEY")
     or_key = os.getenv("OPEN_ROUTER_API_KEY") or os.getenv("OPENROUTER_API_KEY")
+    full_prompt = prompt_text + system_prompt
 
     # ═══ CALIBRACIONES POR MODELO ═══
     CAL_GLM = "\n\n[SYSTEM CALIBRATION: GLM-NIM]: You are a GLM analytical model hosted on NVIDIA NIM. Prioritize absolute factual accuracy, concise transitions, deep analytical reasoning, and STRICT adherence to the provided data without hallucination. Your output must be journalistic-grade."
@@ -630,22 +636,13 @@ def _call_en_engine(prompt_text):
     if nvidia_key:
         print("   🟢 [Omega EN] TIER 1: NVIDIA NIM / GLM-4.7 (Redactor)...")
         result, ok = _call_nvidia_nim(prompt_text, "z-ai/glm4.7", CAL_GLM, nvidia_key)
-        if ok:
-            print("   ✅ NVIDIA GLM-4.7 respondió correctamente.")
-            return result
-        else:
-            print("   ⚠️ GLM-4.7 falló o respuesta corta. Cayendo a TIER 2...")
-    else:
-        print("   ⚠️ NVIDIA_API_KEY no configurada. Saltando TIER 1 NIM...")
+        if ok: return result
 
     # --- TIER 2: OpenRouter / GLM-4.5-Air (Free) ---
     if or_key:
         print("   🧠 [Omega EN] TIER 2: OpenRouter / GLM-4.5-Air...")
         try:
-            or_client = OpenAI(
-                api_key=or_key,
-                base_url="https://openrouter.ai/api/v1"
-            )
+            or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
             resp = or_client.chat.completions.create(
                 model="z-ai/glm-4.5-air:free",
                 messages=[{"role": "user", "content": prompt_text + CAL_GLM}],
@@ -654,13 +651,8 @@ def _call_en_engine(prompt_text):
                 timeout=300
             )
             result = resp.choices[0].message.content.strip()
-            if result and len(result) > 200:
-                print("   ✅ GLM-4.5-Air (OpenRouter) respondió correctamente.")
-                return result
-            else:
-                print("   ⚠️ GLM-4.5-Air respuesta vacía. Cayendo a TIER 3...")
-        except Exception as e:
-            logging.warning(f"GLM-4.5-Air error: {e}. Cayendo a TIER 3...")
+            if result and len(result) > 200: return result
+        except: pass
 
     # --- TIER 3: OpenRouter / Llama 3.3 70B (con RETRY + BACKOFF) ---
     if or_key:
@@ -669,10 +661,7 @@ def _call_en_engine(prompt_text):
         for attempt in range(max_retries):
             print(f"   🔄 [Omega EN] TIER 3: Llama-3.3-70B (intento {attempt+1}/{max_retries})...")
             try:
-                or_client = OpenAI(
-                    api_key=or_key,
-                    base_url="https://openrouter.ai/api/v1"
-                )
+                or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
                 resp = or_client.chat.completions.create(
                     model="meta-llama/llama-3.3-70b-instruct:free",
                     messages=[{"role": "user", "content": prompt_text + CAL_LLAMA}],
@@ -681,38 +670,89 @@ def _call_en_engine(prompt_text):
                     timeout=300
                 )
                 result = resp.choices[0].message.content.strip()
-                if result and len(result) > 200:
-                    print(f"   ✅ Llama-3.3-70B respondió correctamente (intento {attempt+1}).")
-                    return result
-                else:
-                    print("   ⚠️ Llama respuesta vacía. Reintentando...")
+                if result and len(result) > 200: return result
             except Exception as e:
                 error_str = str(e)
                 if "429" in error_str or "rate" in error_str.lower():
-                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
-                    logging.warning(f"⏳ RATE LIMIT 429 en Llama (intento {attempt+1}). Esperando {wait}s...")
-                    _time.sleep(wait)
-                else:
-                    logging.warning(f"🚨 Llama error no-recuperable: [{type(e).__name__}]: {e}")
-                    break
-    else:
-        print("   ⚠️ OPENROUTER_API_KEY no configurada. Saltando TIER 2/3...")
+                    _time.sleep(backoff_seconds[attempt])
+                else: break
 
     # --- TIER 4: NVIDIA NIM / Llama-3.1-70B (Fallback de Élite) ---
     if nvidia_key:
         print("   🟠 [Omega EN] TIER 4: NVIDIA NIM / Llama-3.1-70B (Fallback Élite)...")
         result, ok = _call_nvidia_nim(prompt_text, "meta/llama-3.1-70b-instruct", CAL_LLAMA, nvidia_key)
-        if ok:
-            print("   ✅ NVIDIA Llama-3.1-70B respondió correctamente.")
-            return result
-        else:
-            print("   ⚠️ NVIDIA Llama falló. Activando ÚLTIMO RECURSO...")
+        if ok: return result
 
     # --- TIER 5 (ÚLTIMO RECURSO): Gemini 2.0 Flash ---
-    logging.warning("🚨 FALLBACK TRIGGERED: Usando Gemini Flash — TODOS los motores principales fallaron.")
     print("   🚨 [Omega EN] TIER 5: Gemini 2.0 Flash (Último Recurso)...")
     resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt_text + CAL_GEMINI)
     return resp.text.strip()
+
+
+def _call_en_engine(prompt_text):
+    """
+    Enrutador EN con Capa Cero.
+    """
+    return LLMRouter.route_call(
+        prompt_text, 
+        PROMPT_PERSONA_EN, 
+        _call_en_engine_v3_core, 
+        model_type="reasoning"
+    )
+
+
+def _call_es_engine_v3_core(prompt_text, system_prompt=""):
+    """
+    Jerarquía Original ES (Tier 1-5).
+    """
+    import time as _time
+    nvidia_key = os.getenv("NVIDIA_API_KEY")
+    or_key = os.getenv("OPEN_ROUTER_API_KEY") or os.getenv("OPENROUTER_API_KEY")
+    
+    CAL_GLM_ES = "\n\n[SYSTEM CALIBRATION: GLM-NIM]: Eres un modelo GLM analítico. Prioriza la precisión lógica, la fluidez nativa en español, y el uso estricto de los datos proporcionados sin alucinaciones."
+    CAL_LLAMA_ES = "\n\n[SYSTEM CALIBRATION: LLAMA-3]: Eres un modelo narrativo de código abierto. Céntrate en transiciones fluidas de periodismo."
+    CAL_GEMINI_ES = "\n\n[SYSTEM CALIBRATION: GEMINI]: Eres un modelo rápido y analítico."
+
+    # TIER 1: NVIDIA
+    if nvidia_key:
+        print("   🟢 [Omega ES] TIER 1: NVIDIA NIM / GLM-4.7...")
+        res, ok = _call_nvidia_nim(prompt_text, "z-ai/glm4.7", CAL_GLM_ES, nvidia_key)
+        if ok: return res
+
+    # TIER 2: OpenRouter GLM-4.5
+    if or_key:
+        try:
+            or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
+            resp = or_client.chat.completions.create(model="z-ai/glm-4.5-air:free", messages=[{"role": "user", "content": prompt_text + CAL_GLM_ES}])
+            res = resp.choices[0].message.content.strip()
+            if res and len(res) > 200: return res
+        except: pass
+
+    # TIER 3: Llama 3.3
+    if or_key:
+        try:
+            or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
+            resp = or_client.chat.completions.create(model="meta-llama/llama-3.3-70b-instruct:free", messages=[{"role": "user", "content": prompt_text + CAL_LLAMA_ES}])
+            res = resp.choices[0].message.content.strip()
+            if res and len(res) > 200: return res
+        except: pass
+
+    # TIER 5: Gemini
+    print("   🚨 [Omega ES] TIER 5: Gemini (Último Recurso)...")
+    resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt_text + CAL_GEMINI_ES)
+    return resp.text.strip()
+
+
+def _call_es_engine(prompt_text):
+    """
+    Enrutador ES con Capa Cero.
+    """
+    return LLMRouter.route_call(
+        prompt_text, 
+        PROMPT_PERSONA_ES, 
+        _call_es_engine_v3_core, 
+        model_type="reasoning"
+    )
 
 
 def escribir_articulo(meta, contexto, lang, category_config, category="ia"):
@@ -791,8 +831,12 @@ BEST: [paste the single best title here]
 OUTPUT ONLY THESE 6 LINES. NOTHING ELSE."""
 
     try:
-        title_resp = client.models.generate_content(model='gemini-2.0-flash', contents=title_prompt)
-        title_lines = title_resp.text.strip().split('\n')
+        def fallback_title(p, s):
+            resp = client.models.generate_content(model='gemini-2.0-flash', contents=p)
+            return resp.text.strip()
+            
+        raw_title_text = LLMRouter.route_call(title_prompt, "You are a professional headline editor for a viral tech magazine.", fallback_title, model_type="parsing")
+        title_lines = raw_title_text.strip().split('\n') if raw_title_text else []
         
         # Extraer el BEST title
         viral_title = meta['titulo']  # fallback
@@ -874,9 +918,12 @@ CRITICAL RULES:
 """
 
     try:
-        outline_resp = client.models.generate_content(model='gemini-2.0-flash', contents=outline_prompt)
-        outline = outline_resp.text.strip()
-        print(f"   ✅ Outline: {len(outline)} chars")
+        def fallback_outline(p, s):
+            resp = client.models.generate_content(model='gemini-2.0-flash', contents=p)
+            return resp.text.strip()
+
+        outline = LLMRouter.route_call(outline_prompt, "You are a specialized content researcher creating a detailed outline.", fallback_outline, model_type="research")
+        print(f"   ✅ Outline: {len(outline) if outline else 0} chars")
     except Exception as e:
         print(f"   ⚠️ Outline error: {e}. Modo directo.")
         outline = ""
@@ -1119,128 +1166,24 @@ Inyecta el enlace de forma natural en el texto usando el formato Markdown exacto
         prompt += "\n\n[🔴 CRITICAL FINAL DIRECTIVE]: YOU MUST WRITE 100% OF THE ARTICLE CONTENT IN ENGLISH. If you write any paragraph in Spanish, YOU FAIL. All H2s, H3s, bullets, sentences, paragraphs: ALL in English. Only proper nouns stay as-is."
 
     # ┌──────────────────────────────────────────────────────────┐
-    # │ MOTOR EN ESPAÑOL [Omega ES] — NVIDIA NIM v2 WATERFALL    │
-    # │ TIER 1: NVIDIA NIM / GLM-4.7 (Redactor Premium)         │
-    # │ TIER 2: OpenRouter / GLM-4.5-Air (Free)                 │
-    # │ TIER 3: OpenRouter / Llama 3.3 70B (Retry + Backoff)    │
-    # │ TIER 4: NVIDIA NIM / Llama-3.1-70B (Fallback Élite)     │
-    # │ TIER 5: Gemini 2.0 Flash (Último Recurso)               │
+    # │ MOTOR INTEGRADO [Omega ES/EN] — CAPA CERO + WATERFALL    │
     # └──────────────────────────────────────────────────────────┘
-    CAL_GLM_ES = "\n\n[SYSTEM CALIBRATION: GLM-NIM]: Eres un modelo GLM analítico. Prioriza la precisión lógica, la fluidez nativa en español, y el uso estricto de los datos proporcionados sin alucinaciones. Tu output debe ser de calidad periodística."
-    CAL_LLAMA_ES = "\n\n[SYSTEM CALIBRATION: LLAMA-3]: Eres un modelo narrativo de código abierto. Céntrate en transiciones fluidas de periodismo, prosa cautivadora y evita estructuras de oraciones repetitivas propias de la IA. No uses introducciones de relleno."
-    CAL_GEMINI_ES = "\n\n[SYSTEM CALIBRATION: GEMINI]: Eres un modelo rápido y analítico. Céntrate en el formato preciso, evitando introducciones repetitivas, y cumpliendo estrictamente con las restricciones negativas."
-
     if lang == "es":
-        nvidia_key = os.getenv("NVIDIA_API_KEY")
-        or_key = os.getenv("OPEN_ROUTER_API_KEY") or os.getenv("OPENROUTER_API_KEY")
-        resultado = None
-
-        # --- TIER 1: NVIDIA NIM / GLM-4.7 (Redactor Premium) ---
-        if nvidia_key:
-            print("   🟢 [Omega ES] TIER 1: NVIDIA NIM / GLM-4.7 (Redactor)...")
-            resultado_nim, ok = _call_nvidia_nim(prompt, "z-ai/glm4.7", CAL_GLM_ES, nvidia_key)
-            if ok:
-                print("   ✅ NVIDIA GLM-4.7 respondió correctamente.")
-                resultado = resultado_nim
-            else:
-                print("   ⚠️ GLM-4.7 NIM falló. Cayendo a TIER 2...")
-        else:
-            print("   ⚠️ NVIDIA_API_KEY no configurada. Saltando TIER 1 NIM...")
-
-        # --- TIER 2: OpenRouter / GLM-4.5-Air (Free) ---
-        if not resultado and or_key:
-            print("   🧠 [Omega ES] TIER 2: OpenRouter / GLM-4.5-Air...")
-            try:
-                or_client = OpenAI(
-                    api_key=or_key,
-                    base_url="https://openrouter.ai/api/v1"
-                )
-                resp = or_client.chat.completions.create(
-                    model="z-ai/glm-4.5-air:free",
-                    messages=[{"role": "user", "content": prompt + CAL_GLM_ES}],
-                    temperature=0.85,
-                    max_tokens=4096,
-                    timeout=300
-                )
-                resultado = resp.choices[0].message.content.strip()
-                if resultado and len(resultado) > 200:
-                    print("   ✅ GLM-4.5-Air (OpenRouter) respondió correctamente.")
-                else:
-                    print("   ⚠️ GLM-4.5-Air respuesta corta. Cayendo a TIER 3...")
-                    resultado = None
-            except Exception as e:
-                logging.warning(f"GLM-4.5-Air error: {e}. Cayendo a TIER 3...")
-                resultado = None
-
-        # --- TIER 3: OpenRouter / Llama 3.3 70B (con RETRY + BACKOFF) ---
-        if not resultado and or_key:
-            max_retries = 3
-            backoff_seconds = [10, 25, 60]
-            for attempt in range(max_retries):
-                print(f"   🔄 [Omega ES] TIER 3: Llama-3.3-70B (intento {attempt+1}/{max_retries})...")
-                try:
-                    or_client = OpenAI(
-                        api_key=or_key,
-                        base_url="https://openrouter.ai/api/v1"
-                    )
-                    resp = or_client.chat.completions.create(
-                        model="meta-llama/llama-3.3-70b-instruct:free",
-                        messages=[{"role": "user", "content": prompt + CAL_LLAMA_ES}],
-                        temperature=0.85,
-                        max_tokens=4096,
-                        timeout=300
-                    )
-                    resultado_tmp = resp.choices[0].message.content.strip()
-                    if resultado_tmp and len(resultado_tmp) > 200:
-                        print(f"   ✅ Llama-3.3-70B respondió correctamente (intento {attempt+1}).")
-                        resultado = resultado_tmp
-                        break
-                    else:
-                        print(f"   ⚠️ Llama-3.3-70B respuesta corta. Retrying...")
-                except Exception as e:
-                    error_str = str(e).lower()
-                    if "429" in error_str or "rate limit" in error_str:
-                        wait_t = backoff_seconds[attempt]
-                        print(f"   ⏳ Rate limit detectado. Esperando {wait_t}s...")
-                        import time as _time
-                        _time.sleep(wait_t)
-                    else:
-                        logging.warning(f"Llama-3.3-70B error: {e}")
-                        break  # Fallo no recuperable
-
-            if not resultado:
-                 print("   ⚠️ TIER 3 agotado. Cayendo a TIER 4...")
-
-        # --- TIER 4: NVIDIA NIM / Llama-3.1-70B (Fallback Élite) ---
-        if not resultado and nvidia_key:
-            print("   🟠 [Omega ES] TIER 4: NVIDIA NIM / Llama-3.1-70B (Fallback Élite)...")
-            resultado_llama, ok = _call_nvidia_nim(prompt, "meta/llama-3.1-70b-instruct", CAL_LLAMA_ES, nvidia_key)
-            if ok:
-                print("   ✅ NVIDIA Llama-3.1-70B respondió correctamente.")
-                resultado = resultado_llama
-            else:
-                print("   ⚠️ NVIDIA Llama falló. Activando ÚLTIMO RECURSO (TIER 5)...")
-
-        # --- TIER 5 (ÚLTIMO RECURSO): Gemini 2.0 Flash ---
-        if not resultado:
-            logging.warning("🚨 FALLBACK TRIGGERED: Usando Gemini Flash — TODOS los motores ES fallaron.")
-            print("   🚨 [Omega ES] TIER 5: Gemini 2.0 Flash (Último Recurso)...")
-            resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt + CAL_GEMINI_ES)
-            resultado = resp.text.strip()
-
-    # === CEREBRO INGLÉS: Jerarquía NVIDIA NIM + OpenRouter + Gemini ===
+        resultado = _call_es_engine(prompt)
     else:
-        print("   🇬🇧 [Omega EN] Jerarquía: GLM-4.7 NIM → GLM-4.5 OR → Llama-3.3 OR → Llama-3.1 NIM → Gemini")
         resultado = _call_en_engine(prompt)
         
     # === VALIDACIÓN DE LONGITUD MÍNIMA (Ambos idiomas) ===
     word_count = len(resultado.split()) if resultado else 0
     if word_count < 1500:
-        print(f"   ⚠️ [Quality] Artículo demasiado corto ({word_count} palabras). Regenerando con Gemini para EXPANDIR...")
+        print(f"   ⚠️ [Quality] Artículo demasiado corto ({word_count} palabras). Re-enrutando para EXPANDIR...")
         extended_prompt = prompt + f"\n\nCRITICAL: The article MUST be at LEAST 1500 words. You only wrote {word_count} words! Write a comprehensive, in-depth analysis. Do NOT be brief. Expand every single section with deep analysis, data context, and expert commentary."
-        resp = client.models.generate_content(model='gemini-2.0-flash', contents=extended_prompt)
-        retry_result = resp.text.strip()
-        if len(retry_result.split()) > word_count:
+        
+        # Usamos el router con el core del idioma correspondiente
+        core_func = _call_es_engine_v3_core if lang == "es" else _call_en_engine_v3_core
+        retry_result = LLMRouter.route_call(extended_prompt, "You are a professional editor expanding an article to reach 1500 words.", core_func, model_type="research")
+
+        if retry_result and len(retry_result.split()) > word_count:
             resultado = retry_result
             print(f"   ✅ [Quality] Regenerado expandido: {len(resultado.split())} palabras")
 
@@ -1524,8 +1467,12 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
     # Generación inteligente de meta description (Fenix V3: evita descriptions genéricas)
     try:
         desc_prompt = f"Write a unique, compelling meta description of EXACTLY 140-155 characters in {'Spanish' if lang == 'es' else 'English'} for an article titled '{meta['titulo']}'. Output ONLY the description text, nothing else. No quotes around it. DO NOT use trailing ellipses (...)."
-        desc_resp = client.models.generate_content(model='gemini-2.0-flash', contents=desc_prompt)
-        raw_desc = desc_resp.text.strip().replace('"', "'")
+        def fallback_meta(p, s):
+            resp = client.models.generate_content(model='gemini-2.0-flash', contents=p)
+            return resp.text.strip()
+            
+        desc_resp_text = LLMRouter.route_call(desc_prompt, "You are an SEO specialist writing meta descriptions.", fallback_meta, model_type="parsing")
+        raw_desc = desc_resp_text.replace('"', "'") if desc_resp_text else meta['titulo']
         # Forzar un recorte estricto a 155 sin puntos suspensivos
         if len(raw_desc) > 155:
             clean_text = raw_desc[:155].rsplit(' ', 1)[0] + '.'

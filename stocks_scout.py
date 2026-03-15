@@ -21,6 +21,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from dotenv import load_dotenv
 from api_cache import cached_api_call
+from llm_router import LLMRouter
 
 load_dotenv()
 
@@ -47,178 +48,61 @@ from stocks_researcher import get_cached_analysis, analyze_all_competitors
 # LLM WATERFALL (Copia aislada — NO reutiliza _llm_generate del núcleo)
 # ============================================================
 
-def _stocks_llm_generate(prompt, force_json=False):
+def _stocks_llm_generate_v3_core(prompt, system_prompt):
     """
-    Cascada LLM aislada para el módulo stocks.
-    1. OpenRouter (Llama 3.3 70B)
-    2. HuggingFace (Qwen2.5-7B)
-    3. Gemini 2.0 Flash (emergencia)
+    Original Stocks Waterfall (Tier 1-4).
     """
-    # ── INTENTO 1: OpenRouter ──
+    # ── [1] OPENROUTER ──
     if OPENROUTER_SCOUT_KEY:
         max_retries = 3
         backoff_seconds = [10, 25, 60]
         for attempt in range(max_retries):
-            print(f"   🧠 [Stocks Scout] Motor 1: OpenRouter / Llama 4 Scout (intento {attempt+1}/{max_retries})...")
             try:
-                headers = {
-                    "Authorization": f"Bearer {OPENROUTER_SCOUT_KEY}",
-                    "Content-Type": "application/json",
-                    "HTTP-Referer": "https://novum.blog",
-                    "X-Title": "StocksScout"
-                }
-                payload = {
-                    "model": "meta-llama/llama-4-scout:free",
-                    "messages": [{"role": "user", "content": prompt}],
-                    "temperature": 0.7,
-                    "max_tokens": 2048
-                }
-                if force_json:
-                    payload["response_format"] = {"type": "json_object"}
-
-                resp = requests.post(
-                    "https://openrouter.ai/api/v1/chat/completions",
-                    headers=headers, json=payload, timeout=90
-                )
+                print(f"   🧠 [Stocks Scout] TIER 1: OpenRouter...")
+                headers = {"Authorization": f"Bearer {OPENROUTER_SCOUT_KEY}", "Content-Type": "application/json"}
+                payload = {"model": "meta-llama/llama-4-scout:free", "messages": [{"role": "user", "content": prompt}], "temperature": 0.7, "max_tokens": 2048}
+                resp = requests.post("https://openrouter.ai/api/v1/chat/completions", headers=headers, json=payload, timeout=90)
                 if resp.status_code == 200:
                     text = resp.json()["choices"][0]["message"]["content"].strip()
-                    if text and len(text) > 20:
-                        print("   ✅ OpenRouter respondió correctamente.")
-                        return text
-                elif resp.status_code == 429:
-                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
-                    print(f"   ⏳ OpenRouter rate-limit (429). Esperando {wait}s...")
-                    time.sleep(wait)
-                else:
-                    print(f"   ⚠️ OpenRouter HTTP {resp.status_code}")
-                    break
-            except Exception as e:
-                error_str = str(e)
-                if "429" in error_str or "rate" in error_str.lower():
-                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
-                    print(f"   ⏳ OpenRouter Error 429 (excepción). Esperando {wait}s...")
-                    time.sleep(wait)
-                else:
-                    print(f"   ⚠️ OpenRouter exception: {e}")
-                    break
+                    if len(text) > 20: return text
+            except: pass
 
-    # ── INTENTO 2: HuggingFace ──
+    # ── [2] HF Serverless ──
     if HF_SCOUT_KEY:
-        max_retries = 3
-        backoff_seconds = [10, 25, 60]
-        for attempt in range(max_retries):
-            print(f"   🤗 [Stocks Scout] Motor 2: HF / Qwen3-32B (intento {attempt+1}/{max_retries})...")
-            try:
-                hf_resp = requests.post(
-                    "https://router.huggingface.co/models/Qwen/Qwen3-32B/v1/chat/completions",
-                    headers={
-                        "Authorization": f"Bearer {HF_SCOUT_KEY}",
-                        "Content-Type": "application/json"
-                    },
-                    json={
-                        "model": "Qwen/Qwen3-32B",
-                        "messages": [{"role": "user", "content": prompt}],
-                        "temperature": 0.7,
-                        "max_tokens": 2048,
-                        "stream": False
-                    },
-                    timeout=120
-                )
-                if hf_resp.status_code == 200:
-                    text = hf_resp.json()["choices"][0]["message"]["content"].strip()
-                    if text and len(text) > 20:
-                        if force_json:
-                            json_match = re.search(r'\{.*\}', text, re.DOTALL)
-                            if json_match:
-                                text = json_match.group(0)
-                        print("   ✅ HF/Qwen respondió correctamente.")
-                        return text
-                elif hf_resp.status_code == 429:
-                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
-                    print(f"   ⏳ HF rate-limit (429). Esperando {wait}s...")
-                    time.sleep(wait)
-                elif hf_resp.status_code == 503:
-                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
-                    print(f"   ⚠️ HF modelo dormido (503). Esperando {wait}s...")
-                    time.sleep(wait)
-                else:
-                    print(f"   ⚠️ HF HTTP error: {hf_resp.status_code}")
-                    break
-            except Exception as e:
-                error_str = str(e)
-                if "429" in error_str or "rate" in error_str.lower() or "503" in error_str:
-                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 60
-                    print(f"   ⏳ HF Error 429/503 (excepción). Esperando {wait}s...")
-                    time.sleep(wait)
-                else:
-                    print(f"   ⚠️ HF exception: {e}")
-                    break
-
-    # ── INTENTO 3: Groq (Llama 3.3 70B) ──
-    if GROQ_API_KEY:
-        max_retries = 2
-        backoff_seconds = [5, 15]
-        for attempt in range(max_retries):
-            print(f"   🚀 [Stocks Scout] Motor 3: Groq / Llama 3.3 70B (intento {attempt+1}/{max_retries})...")
-            try:
-                groq_resp = requests.post(
-                    "https://api.groq.com/openai/v1/chat/completions",
-                    headers={
-                        "Authorization": f"Bearer {GROQ_API_KEY}",
-                        "Content-Type": "application/json"
-                    },
-                    json={
-                        "model": "llama-3.3-70b-versatile",
-                        "messages": [{"role": "user", "content": prompt}],
-                        "temperature": 0.7,
-                        "max_tokens": 2048,
-                        "response_format": {"type": "json_object"} if force_json else {"type": "text"}
-                    },
-                    timeout=90
-                )
-                if groq_resp.status_code == 200:
-                    text = groq_resp.json()["choices"][0]["message"]["content"].strip()
-                    if text and len(text) > 20:
-                        print("   ✅ Groq respondió a altísima velocidad.")
-                        return text
-                elif groq_resp.status_code == 429:
-                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 20
-                    print(f"   ⏳ Groq rate-limit (429). Esperando {wait}s...")
-                    time.sleep(wait)
-                else:
-                    print(f"   ⚠️ Groq HTTP error: {groq_resp.status_code}")
-                    break
-            except Exception as e:
-                error_str = str(e)
-                if "429" in error_str or "rate" in error_str.lower():
-                    wait = backoff_seconds[attempt] if attempt < len(backoff_seconds) else 20
-                    print(f"   ⏳ Groq Error 429 (excepción). Esperando {wait}s...")
-                    time.sleep(wait)
-                else:
-                    print(f"   ⚠️ Groq exception: {e}")
-                    break
-
-    # ── INTENTO 4: Gemini ──
-    if gemini_client:
-        print("   🚨 [Stocks Scout] Motor 4 (Emergencia): Gemini 2.0 Flash...")
         try:
-            config_kwargs = {}
-            if force_json:
-                config_kwargs["response_mime_type"] = "application/json"
-            resp = gemini_client.models.generate_content(
-                model='gemini-2.0-flash',
-                contents=prompt,
-                config=types.GenerateContentConfig(**config_kwargs) if config_kwargs else None
-            )
-            if resp.text and len(resp.text.strip()) > 20:
-                print("   ✅ Gemini respondió (emergencia).")
-                return resp.text.strip()
-        except Exception as e:
-            print(f"   ❌ Gemini error: {e}")
+            print(f"   🧠 [Stocks Scout] TIER 2: HF Serverless...")
+            resp = requests.post("https://router.huggingface.co/models/Qwen/Qwen3-32B/v1/chat/completions", headers={"Authorization": f"Bearer {HF_SCOUT_KEY}", "Content-Type": "application/json"}, json={"model": "Qwen/Qwen3-32B", "messages": [{"role": "user", "content": prompt}], "temperature": 0.7, "max_tokens": 2048}, timeout=120)
+            if resp.status_code == 200: return resp.json()["choices"][0]["message"]["content"].strip()
+        except: pass
 
-    print("   ❌ [Stocks Scout] TODOS los motores fallaron.")
+    # ── [3] GROQ ──
+    if GROQ_API_KEY:
+        try:
+            print(f"   🚀 [Stocks Scout] TIER 3: Groq...")
+            resp = requests.post("https://api.groq.com/openai/v1/chat/completions", headers={"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}, json={"model": "llama-3.3-70b-versatile", "messages": [{"role": "user", "content": prompt}], "temperature": 0.7, "max_tokens": 2048}, timeout=90)
+            if resp.status_code == 200: return resp.json()["choices"][0]["message"]["content"].strip()
+        except: pass
+
+    # ── [4] GEMINI ──
+    if gemini_client:
+        try:
+            print("   🚨 [Stocks Scout] TIER 4: Gemini 2.0 Flash...")
+            resp = gemini_client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
+            return resp.text.strip()
+        except: pass
     return None
 
+
+def _stocks_llm_generate(prompt, force_json=False):
+    """
+    Enrutador con Capa Cero para Stocks.
+    """
+    return LLMRouter.route_call(
+        prompt, 
+        "You are an expert financial analyst selecting investment trends.", 
+        _stocks_llm_generate_v3_core, 
+        model_type="parsing"
+    )
 
 # ============================================================
 # FUENTE 1: Google News RSS — Noticias Financieras
