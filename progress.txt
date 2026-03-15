@@ -514,4 +514,6 @@
 - [x] **Universalización de la Capa**: Inyectada en `main.py`, `stocks_writer.py`, `researcher.py`, `trend_scout.py`, `stocks_scout.py` y editores QA.
 - [x] **Blindaje de Research**: Mantenido el aislamiento de Exa, NotebookLM y Gemini Grounding para no comprometer la calidad E-E-A-T.
 - [x] **Validación E2E**: Test exitoso confirmado en logs con routing a `models.inference.ai.azure.com` y respuesta HTTP 200.
-- [x] **Limpieza de Huellas**: Protocolo de borrado de artículos de prueba ejecutado.
+- [x] **Limpieza de Huellas**: Protocolo de borrado de artículos de prueba ejecutado.   
+ -   [ x ]   I m p l e m e n t a c i � n   G l o b a l   d e   C o n t e n t   A u d i t o r   ( G S D - D E B U G ) :   S i s t e m a   d e   p u n t u a c i � n   < 8   y   r e g l a s   e s t r i c t a s   d e   c o n t r a s t e   t i t u l a r - c o n t e n i d o .  
+ 
