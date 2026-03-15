@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-15T07:18:13.954912+00:00",
-  "total_candidates": 13,
+  "scouted_at": "2026-03-15T07:19:28.206823+00:00",
+  "total_candidates": 19,
   "topics": [
     {
       "rank": 1,
-      "title": "ETF iShares MSCI ACWI: ¿Es momento de preocuparse? Análisis de su rentabilidad vs. competidores.",
+      "title": "iShares Core EURO STOXX 50 UCITS (DE): ¿Puede ASML seguir impulsando la subida del 4,4%?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Fondos Indexados desde 1€: Comparativa de comisiones y rentabilidad en las mejores plataformas de inversión.",
+      "title": "Optimismo desmedido en gestoras: ¿Crecerá el patrimonio en fondos un 5% como esperan?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Bancos Europeos: ¿Oportunidad de compra? Morningstar analiza el impacto real de los temores crediticios.",
+      "title": "CaixaBank líder en fondos: ¿Está la captación de febrero 2026 justificada por el rendimiento?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -112,6 +112,36 @@
       "title": "Resultados de Inditex: Sólida Rentabilidad, pero Está Cara",
       "source": "rss_morningstar_es",
       "url": "https://www.morningstar.es/es/news/274429/resultados-de-inditex-sólida-rentabilidad-pero-está-cara.aspx"
+    },
+    {
+      "title": "**CaixaBank lidera captaciones de fondos de inversión hasta febrero de 2026 con suscripciones netas positivas.**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**La economía española crecería un 2,3% en 2026 y un 2% en 2027, según la Cámara de España.**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Gestoras de fondos afrontan 2026 con optimismo y el 94% estima un incremento del patrimonio en fondos superior al 5%.**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**CNMV habilita sección web sobre novedades regulatorias para Sistemas Multilaterales de Negociación (SMN) debido al 'Listing Act'.**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Fondo España Crece movilizará 120.000 millones de euros en inversión productiva, con 23.000 millones destinados a la construcción de 15.000 viviendas al año.**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**El ETF iShares Core EURO STOXX 50 UCITS (DE) - EUR sube un 4,4% impulsado por ASML (+19%) y valores de defensa como Rheinmetall (+21%).**",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
