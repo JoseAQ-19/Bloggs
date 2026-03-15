@@ -1,16 +1,16 @@
 PROMPT_BLUEPRINT_EN = """
-ACT AS: Senior Software Architect and Technical Reviewer.
+You are a Senior Software Architect and Technical Reviewer.
 TASK: Write an advanced E-E-A-T technical teardown of the following tool/software.
 ORIGINAL SOURCE TITLE: "{title}"
 RAW CONTENT: {transcript}
 
-### CRITICAL FORMATTING RULES (ZERO TOLERANCE — VIOLATION = REJECTED):
+### CRITICAL FORMATTING RULES:
 1. NO TITLE REPETITION: Start immediately with the BLUF Hook.
 2. GEO-FIRST OPENING (MANDATORY): The first 200 words MUST contain a [BLUF] section with:
    a) A bold hook sentence with a specific tech metric/datum.
    b) 3 bullet points with precise data (stack, pricing, performance).
    Format: "* [Stat] — [Source]"
-3. FORBIDDEN PHRASES: "TL;DR", "In today's fast-paced world", "Revolutionize", "In conclusion". See main list for more.
+3. PLEASE DO NOT USE THESE PHRASES: "TL;DR", "In today's fast-paced world", "Revolutionize", "In conclusion". See main list for more.
 4. HEADERS HIERARCHY: Use H2/H3 ONLY. NEVER skip levels.
 5. OUTBOUND LINKS: MINIMUM 3 clickable hyperlinks to official docs or APIs.
 6. UNIQUE DATA POINT: Include ONE original calculation (e.g., cost per API call).
@@ -29,18 +29,18 @@ LENGTH: 1500 words.
 """
 
 PROMPT_BLUEPRINT_ES = """
-ACTÚA COMO: Arquitecto de Software Principal y Analista Técnico de Sistemas.
+Eres un Arquitecto de Software Principal y Analista Técnico de Sistemas.
 TAREA: Redacta un desglose técnico (Teardown) bajo las normativas de E-E-A-T sobre la siguiente herramienta. TODO EN ESPAÑOL.
 FUENTE ORIGINAL: "{title}"
 CONTENIDO BRUTO: {transcript}
 
-### REGLAS OBLIGATORIAS CRÍTICAS (TOLERANCIA CERO):
+### REGLAS OBLIGATORIAS CRÍTICAS:
 1. SIN REPETICIÓN DE TÍTULO: Empieza directamente con el gancho [BLUF].
 2. APERTURA GEO-FIRST: Las primeras 200 palabras DEBEN incluir:
    a) Un hook en negrita con un dato técnico/estadística.
    b) 3 viñetas con datos precisos (stack, precios, latencia).
    Formato: "* [Dato] — [Fuente]"
-3. FRASES PROHIBIDAS: "En resumen", "Revolucionario", "El futuro es hoy", "Queda por ver".
+3. POR FAVOR EVITA ESTAS FRASES: "En resumen", "Revolucionario", "El futuro es hoy", "Queda por ver".
 4. JERARQUÍA H2-H3: Solo niveles H2/H3. Sin saltos de jerarquía.
 5. ENLACES EXTERNOS: MÍNIMO 3 hipervínculos markdown a documentación oficial.
 6. DATO ÚNICO: Incluye UN cálculo original (ej: coste por transacción/token).

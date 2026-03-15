@@ -322,7 +322,7 @@ SYSTEM_FORMAT_RULES = """
    b) 3 bullet points with precise data (number + source). These are what Perplexity/SearchGPT will cite.
    Format: "* [Stat with number] — [source name]"
    Then continue with narrative prose. START IMMEDIATELY with the hook. No filler.
-3. FORBIDDEN PHRASES (INSTANT REJECTION IF FOUND):
+3. FORBIDDEN PHRASES (PLEASE AVOID THESE STRINGENTLY):
    - English: "TL;DR", "Key Takeaways", "In summary", "In conclusion", "It remains to be seen", "In the ever-evolving", "It's worth noting", "Navigating the complexities", "Here is", "Sure", "Here's the article", "The Bottom Line", "Final Thoughts", "To summarize", "As we have seen", "Without a doubt", "It goes without saying", "In essence", "Ultimately", "The takeaway here", "unlock your potential", "world of possibilities", "AI-driven", "revolutionizing tomorrow"
    - Spanish: "En resumen", "En conclusión", "En última instancia", "En el vertiginoso", "Cabe destacar", "Un arma de doble filo", "Queda por ver", "Aquí tienes", "Claro", "Aquí está", "Como hemos visto", "Sin lugar a dudas", "Es importante destacar", "Para resumir", "En esencia", "En definitiva", "La clave aquí", "desbloquea tu potencial", "un mundo de posibilidades", "impulsado por la IA", "revolucionando el mañana", "últimos pensamientos"
    - NEVER start your response with conversational filler like 'Here is the article' or 'Sure!'. START IMMEDIATELY with the first word of the article.
@@ -332,7 +332,7 @@ SYSTEM_FORMAT_RULES = """
    Format: [descriptive anchor text](https://real-verified-url.com)
    NEVER fabricate or hallucinate URLs. Only link to sources from the RESEARCH DATA or well-known root domains.
    CRITICAL: Citing a source ONLY in bold (**Forbes**, **Reuters**) is FORBIDDEN. Every source MUST be a clickable hyperlink.
-   Placeholders like **FUENTES INFORMADAS**, **source**, **unnamed sources** = INSTANT REJECTION.
+   Placeholders like **FUENTES INFORMADAS**, **source**, **unnamed sources** must be avoided.
 6. UNIQUE DATA POINT (MANDATORY — MINIMUM 1):
    Include at least ONE original comparative calculation that adds information gain.
    Example: "If we divide Meta's $70B investment by 200K users, that's $350,000 per user."
@@ -360,9 +360,9 @@ SYSTEM_FORMAT_RULES = """
     If writing in English, ALL text must be in English.
 12. LAST SECTION RULE: The final H2 NEVER uses 'Conclusion', 'En conclusión', 'The Bottom Line', or 'Final Thoughts'.
     Use action-oriented headers instead.
-13. CHUNKING (GEO OPTIMIZATION - ZERO FLUFF):
+13. CHUNKING (GEO OPTIMIZATION):
     Under EVERY H2 or H3 header, the VERY FIRST sentence MUST directly and concisely answer the premise of the header.
-    FORBIDDEN: Long introductions, philosophical musings, or "fluff" at the start of a section. Answer first, develop the argument second.
+    Please avoid: Long introductions, philosophical musings, or "fluff" at the start of a section. Answer first, develop the argument second.
 14. SCHEMA MARKUP (JSON-LD STRUCTURE - SEO 2026):
     At the absolute END of the article, you MUST generate a valid `<script type="application/ld+json">` block containing:
     - A `NewsArticle` or `Article` schema.
@@ -495,11 +495,11 @@ def planificar_articulo(tema, contexto, lang, category_config):
     lang_instruction = (
         f"\n\nCRITICAL LANGUAGE RULE: The 'titulo' MUST be written ENTIRELY in {'SPANISH (Español)' if lang == 'es' else 'ENGLISH'}. "
         f"{'Do NOT use any English words in the title except proper nouns (brand names like Bitcoin, NBA, etc.).' if lang == 'es' else 'Do NOT use any Spanish words in the title.'} "
-        f"VIOLATION = INSTANT REJECTION."
+        f"Please follow this rule strictly."
     )
     # Handle V4 dict format
     ctx_text = contexto.get('content', '')[:1000] if isinstance(contexto, dict) else str(contexto)[:1000]
-    prompt = f"{prompt_persona}\n{SYSTEM_FORMAT_RULES}{lang_instruction}\nACT LIKE EDITOR. Topic: {tema}\nContext: {ctx_text}\nLanguage: {lang}\nSTRICT JSON: {{ \"titulo\": \"...\", \"slug_sugerido\": \"...\" }}"
+    prompt = f"{prompt_persona}\n{SYSTEM_FORMAT_RULES}{lang_instruction}\nTopic: {tema}\nContext: {ctx_text}\nLanguage: {lang}\nSTRICT JSON: {{ \"titulo\": \"...\", \"slug_sugerido\": \"...\" }}"
     
     def fallback_plan(p, s):
         resp = client.models.generate_content(model='gemini-2.0-flash', contents=p, config=types.GenerateContentConfig(response_mime_type="application/json"))
