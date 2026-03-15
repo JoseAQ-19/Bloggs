@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-14T07:27:54.984725+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-03-15T07:19:28.206823+00:00",
+  "total_candidates": 19,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Tiene Sentido la Altísima Valoración de SpaceX?",
+      "title": "iShares Core EURO STOXX 50 UCITS (DE): ¿Puede ASML seguir impulsando la subida del 4,4%?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "EI2Value Cinvest Multigestión, el fondo value que lidera su categoría Morningstar con más de un 160% de rentabilidad en cinco años",
+      "title": "Optimismo desmedido en gestoras: ¿Crecerá el patrimonio en fondos un 5% como esperan?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Trade Republic: opiniones y análisis (2026)",
+      "title": "CaixaBank líder en fondos: ¿Está la captación de febrero 2026 justificada por el rendimiento?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -54,21 +54,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaXdRZVJncUpLNXB6c3RBc01FbVZJTDR3N1hIUlBmQmYyVXdlUGJOaDlrSWdQcVVBNDMtdzJhM2pPanRBR3dYQXJqRUs2eGVxMzFOYkJnSWxrb01kZUJuYU1xTnVQVWdQM2lNODNWSG1NYzFyV3JLWkNQaEdzU0FER0tKbkFsek04eWtwS2xxTTg?oc=5"
     },
     {
-      "title": "EI2Value Cinvest Multigestión, el fondo value que lidera su categoría Morningstar con más de un 160% de rentabilidad en cinco años",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZTVfSzFKVFNPdHp5Qkw5aUUwSGFQRmt6UWRDTHExSk4zT1VJUTVPVjdyWmxwY1pRUlJxSGNWekUtS0MxN2dlencxa2REQmU1TXpTSXk4SFFVQjQyMXRxUUxScmQtV2JjcFplUEQ1SWwxdWkxNW9tcHJTSmJoMjkwYXZYaTlRTU85eS1vWGZVbVR2Yl9kU0tKcnhmM0tqSGx0Q2ZkNFBmM2tDRUZpQUhobTQ5QzJlOFJtaFRldUV0cDJmOFl0dXAyQlpSUWs5bjNPNUwxUzY5cVpFZzFpQjVRUVVBUzJ4OHRobUxvLWduMnJCbmVpVnNTZ3R2ZHFjLUVyUXc0?oc=5"
-    },
-    {
-      "title": "Trade Republic: opiniones y análisis (2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUXAzcDVHVHR0VUNrSmNjU0QtQmNLQjExVzQwSEJ6Qm9EcE92ejRabmlKR2tzQjdrWV9DMnJBbWxRWHJqaGQ4WHlMN2FsVUpoaTZMa2JOUkxRLWpjWEZ2X0x1Yk5sUnJjWHNYX0Etd0V1X0JOaUFGLUo2M2t0S3ZvSTRvdE9LdExsb2JrVk9GY056R3M?oc=5"
-    },
-    {
-      "title": "Los mejores ETFs del Nasdaq 100: ranking actualizado 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVExxZGE5ZmdJVEJBS0xIZE16THBqLVdCX3QzaUJNNVdZRUQ3Wm5LVWQ2V1RGX1pZSGwwX0MtQVUycVNpVVVXazh1T2VjcnVsUlpDRE40VXNTN2k4SW1FRWtISHVRTjY4WHpfQXNMRjBOVU9PT29CREJ0ZE1PNjUzbjlCTDkyc1pPYXZn?oc=5"
-    },
-    {
       "title": "Rotación sectorial en el selectivo y oportunidades: actualizamos valoración fundamental para el Ibex 35 a...",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTVdUbUkwNEtYTzVhSmZTZHJVa2ljeDluOEhNdVp1OXl2X0EzRldiemxqRFpMc0lGZU1ma1ZfdFZNa0ZoTHp2N1FPejBvbHFKM1dCdFc3b2hWZGFDLUE4UzNfaHRGVE1zQkFaNnNRQjlhTlo0LWlYU3Z5VEpYY2dHZTFBVmdzQ3k5YUtGOXA4UXJVRDBMQzdwNUhnNUhTcmszQktmMkpydWtSYko4UmFIR1ZzZVJkNGh2YnhoMDFRTWJvazFvTEU4NUNqWdIBogFBVV95cUxQdHRJQ01RbU9vbm42Rm15YXF4aExGclUzdmlxOGdpdnprM191WUFMSzNfQm4taER0MUdMVWlpZXhMaFRiN19oRWZxWUp6N241NGNhaE1wcWNvd1ZIWlBYMnNNbm54ZWpnMFhITnpDYlYyQ3l6RkxocnNlZzB4RFd5U0Z3U0tUYWRtUHlRLWg5Q29CU0ViekhXd3EyWHpPSU9SMkE?oc=5"
@@ -79,24 +64,24 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
     },
     {
-      "title": "Trade Republic vs MyInvestyor: ¿Qué broker es mejor?",
+      "title": "Los 7 valores del Ibex 35 más baratos por múltiplos para entrar en las \"Rebajas de enero\"",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTk9qTmZINUM0LUtWMGY3Rmd5cWlzT2d1cEpUamF5NWhyY25CaXpoU1JsRDdoaW1RR0hodmZJSXgtdFh5LVFmcTlyWUtnaGV1MFZjRVNvakFiaGxocWJfcVNlLS04bEhkNlBvVWp3bDVsMzNENEdvcVk2YXZuWThSYlV4WHQwVU4x?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNGExQjNHYUF1U1VQcUVSRFBaTGlkR1g2Z2JFV1RsLVgyakhZeGJsOHJ2ZDFvcHJtMVlZelA2ZGYyRlRPd3loeFluZGk1V2xNcDdmRnVseUdHNlUtMXRlV2R6Sld4aksxbW90ZjdoU1YtdjBqZzBscGo1OTFBX042NTZVeE5VUnI3OW1oeGt2SHlMdnhTZWxrT1RFbnhyTjhfU0dIQ1d5ODFUSHJ6TFZ5bVRvb3ZoS2hNN0JuVXBnM0RrTjhRZHdyZzVXeTEyYjZJYnhrMWhQZGhsRjhKWGZn0gGjAUFVX3lxTE1WQUhWXzJxY2ZVSDJkcGVhSF9HS1VuOUxfenh2UHdfRVY5WVdjVXhhTVZJMmNWc3lSd3dKYzZ1X2pHN084UnFCUWVYWXYtSmFOcmQtQ1dKM21xNjFheUxwbGxaeUxDdWM4MnJrWWxOQTdDXzJxTEFpbk1nZkxKTWdYUENpOFJwTzR4YlN4U2FWaUo4dm1NVnBrd1I2MDdVTVRpaTA?oc=5"
     },
     {
-      "title": "Ibex 35 vs S&P 500: los inversores profesionales son más alcistas en Wall Street",
+      "title": "Los bróker esperan que las acciones de BBVA y Santander suban un 30%",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ0NBa19IdzFtUU01YngzaDVQQ21fM1dlQjQ2X09qOGM1MVRzREpSalpzb2M5OTdIWWl6YWxTMEcwWXRTX2oybEYzYk4wQ0MzS01jd1A1QVl5YmVzSEcyS1RfMjg3ak94QWl0RHp6NnloalRHZGxtdVdiYl9yRDhVY0V6QzVsdWt6bkN5b01tMWZCWU03Mzh4UVp1SmljTnBIcG5PdG5yMEstRUcyX1A3dTVuQ0RMSTl5WUhldy1YQVlyNHZQaHFWaNIBnwFBVV95cUxPcnVSNkhmdjhPVU9VZ2FNdGhNTmFOVEpoQjlsTDBkb0tZY0owQThFMkR1Y2lZN2JZbnV4MFI2Y2hJTF8yb2JmQ2thVmV3akVBYnF5WjJhbTV5eno5RWR5NTloTHJaLUlWdS1DN1pOWWNWT3Bxb3d5SXZRVWlnQ0ZGSXNxaW5oWlAyTkFyeFhqRmtXSWpDZkVYdGtmdWdQcDQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTU5tYTFsZmRFeWFzaFNEVlZDM2JwMTdjdEJWVXNJSEVVdEw4MzdVdHRqVjlTWWtqblN0dzNUb3lPT2xDd1ZyWDlVYkpTN3pLc3JPVVJtbHlaQkljRWRwV1AwNktlR1lhd0tGeWdyaWoyNlluWk9EY2NrSFFiMXFncDRDWWo2LVFOdVQtWWNveDZ1THRSYkQ0eTlzNjlZaG1ibFdFWldPSU1nWWlqRmNSTGdFczFLR0lMVDdEbHpnaVZzdWRQOE1rR3UyeTBNaDBkSFFCVFAwZ3hBbGdicXRrVUFvWdIBngFBVV95cUxNcFhTaXZ0U0VOa3AwY1EzdUZobGRjMTNLLXB6NExab1VZbzRkZDNSVm5RMklmYmN0MnBldVdjRHc5dEhkWWluWVBpX3Nla0laZUpfbWktVmRFa2ZNWmdzRTJrNkNUQlVNemZnNnVfYWdySTVDVkNVRFB1T1YxMGNtUzB6cEt3MGs0M2piOW9FVlNTUkJBVWFJaUtiazg5dw?oc=5"
     },
     {
-      "title": "Diez compañías de Defensa que vuelan en bolsa gracias a la guerra de Ucrania",
+      "title": "Mejores plataformas para invertir en fondos indexados (desde 1 euro)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nUTRhU3ZQeTZXQmtvUUlfZmZTRjZ4SGYySG11MkJKWnBnTUlWVVhwQTJNWnRLZlZWZ3dfRzVjcmJ6enFYSmRqcl92Tkpzb3NoVGs0eFY0U1R2SjlfcDhzSEdMaEhCenI4ckQybEVpaEdlbGNSaE9GVXEtTUotd0o4aVBDdHBNdXNoT29sR21hMnVSN3diWi1kaU9GTWdFMDZrTGJtc2hnMnR5QUNjUVh3TlpIdGdXMGpoUFJoX21aUdIBngFBVV95cUxPSkkwR2poZWs1OFducU9yaHZOUGlSV0JBQ0hCakVsc3k1cEZZa3VZYjYtcjdHbWJROGJpamNuaGgtZkw4a3J1S1NaeW1EdmtlQUo4bUlZcExxNXNqYVpsR0lOdExwdXp3U2x3VXdxSnJPejFzdl95eXBNUXlsNXRBNnVKZWR4YTBjWjlrVFpYVU5GUExpNTluTDVVNnhCQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVppVWpGajBHemh3QlZKM0dDaGRsQmNZbXF5M2pBcDhSUnNLRl9WQXF4cVotUmdoR1BaandrWkVWd20zUGNkQVNueFdjMGZuYUgtS0RCNnhwWG02c09ROTdmSDI1TFpod0QxYkZtQ0dCQ2QzcXIzNXBHMnNiTzE2Z3lKMGVTQzNFQW0xZDlkOUZiM0VlaHp3TWxBMU9WdW9i?oc=5"
     },
     {
-      "title": "Hasta 760 euros: mejores promociones de bancos por domiciliar la nómina (marzo 2026)",
+      "title": "EBN Banco broker de fondos: análisis y opiniones (2026)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWk51QU5RallaWDBRTkRxVElBVnpKTkJLQW9MazlJODM3aVpLc0dZTWxmNzdTSXZXNGFxUlU1SWNHOUg5WXRJSjlXWjFoeS1hTExnSWdVNzFjam9BQ1hZTWpvWlJTcWtDeGx2UTl4ODIwU19Pc0Z2NFpNVEloZVNuOTFnMGJna0pMQ1RlYXlUcXE1b3BwSWhEUGdvV1ltV0l0d0RjNEp0b3ZEQk56VnZkLUt5V2VJZ0Z3dHNYU1VtVFRCTGYyM0VydnM5dlZrMV9pdjZFUXFhWQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa0JJdXJIOFJwMVFxRmxSVlFMVlFxa3U2aHJCdGV0Y2tjOXpuX2dveEJoTldpVUZJOGxiN19hMXE5bkYyQWdqRllPWDJHWjNUOFVhTWpreGVuWnhIMGs5ekxRRkJDV0oxZ0l1MWdjZnl3RHVBYl9fbG5LVUV1bnRvcmFfLUNvTXdYUE9ZSWVaVUhfZEljM2o4LQ?oc=5"
     },
     {
       "title": "El ETF iShares MSCI ACWI enfrenta turbulencias en los mercados internacionales",
@@ -127,6 +112,36 @@
       "title": "Resultados de Inditex: Sólida Rentabilidad, pero Está Cara",
       "source": "rss_morningstar_es",
       "url": "https://www.morningstar.es/es/news/274429/resultados-de-inditex-sólida-rentabilidad-pero-está-cara.aspx"
+    },
+    {
+      "title": "**CaixaBank lidera captaciones de fondos de inversión hasta febrero de 2026 con suscripciones netas positivas.**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**La economía española crecería un 2,3% en 2026 y un 2% en 2027, según la Cámara de España.**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Gestoras de fondos afrontan 2026 con optimismo y el 94% estima un incremento del patrimonio en fondos superior al 5%.**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**CNMV habilita sección web sobre novedades regulatorias para Sistemas Multilaterales de Negociación (SMN) debido al 'Listing Act'.**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Fondo España Crece movilizará 120.000 millones de euros en inversión productiva, con 23.000 millones destinados a la construcción de 15.000 viviendas al año.**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**El ETF iShares Core EURO STOXX 50 UCITS (DE) - EUR sube un 4,4% impulsado por ASML (+19%) y valores de defensa como Rheinmetall (+21%).**",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
