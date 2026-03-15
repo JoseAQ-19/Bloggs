@@ -82,7 +82,7 @@ COGNITIVE FRAMEWORK FOR "INFORMATION GAIN" (MANDATORY):
 1. VC MATH (TechCrunch DNA): When covering a company, ALWAYS include funding data: Series round, valuation, ARR, burn rate, or investor names. (Ex: "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months" — that's the TechCrunch standard.)
 2. DIRECT QUOTES: Include at least 2 direct quotes from the subject or a named expert. Blockquote them naturally. (Ex: '"This is completely untrue, totally insane, no connection to reality," Altman said.')
 3. THE CONTRARIAN ANGLE: Find the crack in the official narrative. If the source says "This tool is revolutionary", dedicate a paragraph to why it might be a bubble, a privacy disaster, or economically unviable. Critique your own sources.
-4. ZERO LUKEWARMNESS (Polarizing Verdict): It is STRICTLY FORBIDDEN to end by saying "only time will tell", "it's a double-edged sword", or "it has pros and cons". Take a definitive stance.
+4. POLARIZING VERDICT: Please avoid ending by saying "only time will tell", "it's a double-edged sword", or "it has pros and cons". Take a definitive stance.
 5. NON-CLICHÉ METAPHORS: Use comparisons from pop culture, history, or physics to explain technical concepts.
 
 BANNED WORDS AND PHRASES (Severe penalty if used):
@@ -314,7 +314,7 @@ LONGITUD MÍNIMA: 1500 palabras.
 """
 
 SYSTEM_FORMAT_RULES = """
-### CRITICAL FORMATTING RULES (ZERO TOLERANCE — VIOLATION = ARTICLE REJECTED):
+### CRITICAL FORMATTING RULES (PLEASE FOLLOW STRICTLY):
 
 1. NO TITLE REPETITION: Do NOT include the article title or H1 at the beginning.
 2. GEO-FIRST OPENING (MANDATORY): The first 200 words MUST contain:
@@ -522,7 +522,7 @@ def planificar_articulo(tema, contexto, lang, category_config):
 # --- E-E-A-T OUTBOUND LINK INJECTION RULES (v3.0) ---
 EEAT_LINK_RULES = """
 ═══════════════════════════════════════════════════
-🔗 LINKING SHIELD v3.0 — ZERO TOLERANCE PROTOCOL
+🔗 LINKING SHIELD v3.0 — STRICT PROTOCOL
 ═══════════════════════════════════════════════════
 
 EXTERNAL LINKS (Authority):
@@ -530,7 +530,7 @@ EXTERNAL LINKS (Authority):
 2. These links MUST use URLs from the "FUENTES VALIDADAS DISPONIBLES" section when available, copy-pasted VERBATIM.
 3. If no verified URL exists, use the publication's homepage (e.g., https://www.reuters.com, https://www.bloomberg.com).
 4. NEVER cite a source using only bold text (**Source**). Every source MUST be a clickable hyperlink.
-5. Placeholder citations like **FUENTES INFORMADAS**, **source**, or **unnamed sources** = INSTANT REJECTION.
+5. Please avoid placeholder citations like **FUENTES INFORMADAS**, **source**, or **unnamed sources**.
 6. Do NOT use scholar.google.com or google.com/search as placeholder links.
 7. A single fabricated URL will cause the ENTIRE article to be rejected.
 
@@ -1017,7 +1017,7 @@ CRITICAL RULES:
     # === PROMPT MILITAR ===
     anti_chatbot_shield = f"""
 ════════════════════════════════════════════════════
- ███ MILITARY-GRADE OUTPUT RULES — VIOLATION = REJECTION ███
+ ███ IMPORTANT OUTPUT RULES - PLEASE FOLLOW STRICTLY ███
 ════════════════════════════════════════════════════
 
 🚫 ANTI-CHATBOT SHIELD:
@@ -1045,7 +1045,7 @@ CRITICAL RULES:
 ✂️ PARAGRAPH RULES (Autoblog standard):
 - MAXIMUM 3 sentences per paragraph. If a paragraph has 4+ sentences, SPLIT IT.
 - Every paragraph must introduce exactly ONE new fact or data point. No fluff.
-- ABSOLUTELY FORBIDDEN: ALL question marks (? and ¿). Zero tolerance everywhere in the article.
+- AVOID question marks (? and ¿). Please strictly avoid them everywhere in the article.
   BAD: "Is AI really replacing jobs?" → GOOD: "AI is already eliminating 34% of entry-level roles, according to McKinsey."
   BAD: "¿Qué significa esto?" → GOOD: "Esto implica una reducción del 40% en costos operativos."
 - FORBIDDEN: Repeating the same idea. Every paragraph = new information.
@@ -1080,7 +1080,7 @@ CRITICAL RULES:
 - 🚨 CRITICAL BAN: NEVER cite "Gemini Grounding", "E-E-A-T", "NotebookLM", "Context", or "Source" as a publication. You MUST extract the actual real-world media outlet name from the text. If you can't find one, do not name the source.
 - 🚨 CRITICAL BAN: Do NOT use 4 asterisks like ****Name****. Use exactly two for bold: **Name**.
 - 🚨 CRITICAL BAN: NEVER cite "unnamed sources", "market analysis", "technical analysis", or "legal experts" as attribution. Either name the real person/outlet or remove the attribution.
-- FABRICATING a URL = INSTANT REJECTION.
+- Please do not fabricate URLs under any circumstances.
 - NEVER paste a naked URL. Every URL must be inside [Anchor Text](URL) format.
 - NEVER use bracket-only references like [source name] without a proper (URL).
 

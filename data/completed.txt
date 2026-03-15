@@ -316,3 +316,4 @@ ia: Deep dive into n8n usage and best practices 2026
 viral: Quï¿½ significa el meme ï¿½6-7ï¿½ o ï¿½six sevenï¿½ que dicen tus hijos, si es que significa algo
 tools: Deep dive into Tech usage and best practices 2026
 tools: Why I Gave Up Certain Kitchen Tools After Going Pro in Baking
+youtube: Mikecrack, el emperador de YouTube que se codea con Ibai y El Rubius: «Andorra es un pequeño paraíso»

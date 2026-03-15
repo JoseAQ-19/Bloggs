@@ -37,7 +37,7 @@ DISCLAIMERS = {
 # ============================================================
 
 ARTICLE_STRUCTURE = """
-### CRITICAL FORMATTING RULES (ZERO TOLERANCE — VIOLATION = ARTICLE REJECTED):
+### CRITICAL FORMATTING RULES (PLEASE FOLLOW STRICTLY):
 
 1. NO TITLE REPETITION: Do NOT include the article title or H1 at the beginning.
 2. GEO-FIRST OPENING (MANDATORY): The first 200 words MUST contain:
@@ -45,7 +45,7 @@ ARTICLE_STRUCTURE = """
    b) 3 bullet points with precise financial data (number + metric + source).
    Format: "* [Stat with number] — [source Morningstar/SEC/CNMV]"
    Then continue with narrative prose. START IMMEDIATELY with the hook. No filler.
-3. FORBIDDEN PHRASES (INSTANT REJECTION IF FOUND):
+3. FORBIDDEN PHRASES (PLEASE AVOID THESE STRINGENTLY):
    - English: "TL;DR", "Key Takeaways", "In summary", "In conclusion", "It remains to be seen", "The Bottom Line", "Final Thoughts", "unlock your potential", "world of possibilities"
    - Spanish: "En resumen", "En conclusión", "En última instancia", "Cabe destacar", "Un arma de doble filo", "Queda por ver", "desbloquea tu potencial", "un mundo de posibilidades"
    - NEVER start your response with 'Here is the article' or 'Sure!'. START IMMEDIATELY.
@@ -86,10 +86,9 @@ Tu tono es profesional, denso en datos y analítico.
 REGLAS DE ORO (LINKING SHIELD v3.0):
 - MÍNIMO 3 enlaces externos Markdown [Fuente](https://url.com).
 - MÍNIMO 1 enlace interno contextulizado [/category/slug/].
-- PROHIBIDO citar fuentes solo en negrita (**Forbes**). TODO debe ser clickable.
-- Placeholders como **FUENTES INFORMADAS** = RECHAZO INSTANTÁNEO.
+- Placeholders como **FUENTES INFORMADAS** u otros = POR FAVOR EVÍTELOS.
 
-VETO DE FRASES IA (RECHAZO INSTANTÁNEO):
+VETO DE FRASES IA (POR FAVOR EVITAR):
 "En conclusión", "En resumen", "Es importante destacar", "Cabe destacar", "Sin lugar a dudas", "Como hemos visto", "En esencia", "En definitiva".
 
 {ARTICLE_STRUCTURE}
@@ -105,9 +104,9 @@ GOLDEN RULES (LINKING SHIELD v3.0):
 - MINIMUM 3 outbound Markdown links [Source](https://url.com).
 - MINIMUM 1 context-aware internal link [/category/slug/].
 - FORBIDDEN: Citing sources in bold only. Use hyperlinks.
-- Placeholders like **UNNAMED SOURCES** = INSTANT REJECTION.
+- Please avoid placeholders like **UNNAMED SOURCES**.
 
-BANNED AI PHRASES (INSTANT REJECTION):
+BANNED AI PHRASES (PLEASE AVOID STRICTLY):
 "In conclusion", "In summary", "TL;DR", "Key Takeaways", "The Bottom Line", "Final Thoughts", "As we have seen", "Without a doubt", "It goes without saying".
 
 {ARTICLE_STRUCTURE}

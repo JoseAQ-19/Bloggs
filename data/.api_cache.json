@@ -21,11 +21,11 @@
   },
   "572691cc566217824d2bcb640dcbbd044e710a531bcdcf8c5a4d8dd2f41b15ec": {
     "data": [
-      "¿Quién es Thous Carapollen? El legendario youtuber que ha vuelto para explotar contra Auronplay, Ibai",
+      "Tus ‘streamers’ favoritos te han estado mintiendo a la cara",
       "Mikecrack, el emperador de YouTube que se codea con Ibai y El Rubius: «Andorra es un pequeño paraíso»",
-      "Ibai Llanos crea su particular versión de 'El juego del calamar' en Madrid con un premio de 27.000"
+      "Ibai se convierte en el tercer streamer más seguido de Twitch y desbanca a Rubius del podio"
     ],
-    "cached_at": 1773329908.1104703,
+    "cached_at": 1773607646.6413271,
     "func": "_get_google_news_headlines",
     "args_summary": "('Ibai Auronplay ElRubius drama',)"
   },
@@ -1254,5 +1254,15 @@
     "cached_at": 1773580743.482905,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
+  },
+  "a3cd0210da8cc962fb336c55571a18265c95a685a537f2737ca4f0021c5c1aeb": {
+    "data": [
+      "The year on YouTube: The topics, creators, music, and podcasts that defined 2025",
+      "YouTube Unveils Personalized Year-End Recap Feature, Top Overall Trends And Creators Of 2025",
+      "The defining cultural trends of 2025, according to YouTube"
+    ],
+    "cached_at": 1773607647.5293765,
+    "func": "_get_google_news_headlines",
+    "args_summary": "('YouTube trending creator drama',)"
   }
 }

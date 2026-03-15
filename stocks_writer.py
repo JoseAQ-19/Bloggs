@@ -338,8 +338,8 @@ CRITICAL FORMATTING RULES:
    - 📌 PRIORITY: Use ONLY the URLs listed in the "FUENTES VALIDADAS DISPONIBLES" section below.
    - Copy-paste the exact URL from the list. DO NOT modify, shorten or invent URLs.
    - If you need to cite a source not in the list, use bold text (**Source Name**) without a URL.
-   - 🚨 FABRICATING A URL = INSTANT ARTICLE REJECTION. Zero tolerance.
-6. MINIMUM LENGTH: 1500 words. Articles under 1200 words are REJECTED.
+   - 🚨 PLEASE DO NOT FABRICATE URLs.
+6. MINIMUM LENGTH: 1500 words. Please do not write articles under 1200 words.
 7. NO MARKDOWN TABLES. Use narrative prose with bullet points for data comparisons.
 8. DO NOT include any disclaimer or legal notice — it will be added automatically.
 
