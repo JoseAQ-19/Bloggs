@@ -15,7 +15,7 @@
       "MrBeast and Logan Paul Team Up to Launch Competitor to Lunchables",
       "YouTube stars MrBeast, Logan Paul, KSI respond to Lunchly mold claims"
     ],
-    "cached_at": 1773329100.1745129,
+    "cached_at": 1773608279.3462508,
     "func": "_get_google_news_headlines",
     "args_summary": "('MrBeast Logan Paul KSI news',)"
   },
@@ -51,11 +51,11 @@
   },
   "5340821a145cda371021f843148845b4519c9100aa56e23fb95c72d448877b85": {
     "data": [
-      "MrBeast Mega Era: Why You Can’t Escape His Next Wild Challenge",
+      "Florida State staffer goes viral after celebratory reaction to successful challenge in ACC tournament win",
       "Fans React to IShowSpeed’s Risky Mouse Trap Challenge",
-      "29 YouTube video ideas to spark inspiration for your channel"
+      "MrBeast Mega Era: Why You Can’t Escape His Next Wild Challenge"
     ],
-    "cached_at": 1773330365.9483945,
+    "cached_at": 1773608354.4040072,
     "func": "_get_google_news_headlines",
     "args_summary": "('viral YouTube challenge reaction',)"
   },
@@ -1264,5 +1264,25 @@
     "cached_at": 1773607647.5293765,
     "func": "_get_google_news_headlines",
     "args_summary": "('YouTube trending creator drama',)"
+  },
+  "cce83afca8b33343749624fb2bb7d98d4572e263da656b2bd7d5b067beccb993": {
+    "data": [
+      "Ibex 35: \"no habrá subidas mientras no recupere, a cierre semanal, los 17.240 puntos\"",
+      "Especial semanal: ideas, análisis y claves para seguir los mercados los próximos días",
+      "Confirmado: Prime Video España libera la temporada 1 completa de 'Fallout' gratis para remontar la audiencia de la serie"
+    ],
+    "cached_at": 1773608316.520389,
+    "func": "_get_google_news_headlines",
+    "args_summary": "('YouTube España tendencia semanal',)"
+  },
+  "8928eb13857f647e9842cabe34a9f87e6b64bf746932dfc39b204eda3b2b84d9": {
+    "data": [
+      "The final hurdle in YouTube TV-Disney dispute",
+      "Grab your popcorn: The YouTube TV-Disney drama may be far from over",
+      "James Charles Has Opened Up About The Mental Health Effects Of Being Cancelled"
+    ],
+    "cached_at": 1773608369.4586644,
+    "func": "_get_google_news_headlines",
+    "args_summary": "('YouTuber drama controversy this week',)"
   }
 }

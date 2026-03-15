@@ -439,7 +439,7 @@ def is_topic_redundant(new_topic, category):
     if not os.path.exists(COMPLETED_FILE):
         return False
     
-    with open(COMPLETED_FILE, 'r', encoding='utf-8') as f:
+    with open(COMPLETED_FILE, 'r', encoding='utf-8', errors='ignore') as f:
         lines = [l.strip() for l in f if l.strip()]
     
     # Filtrar solo temas de la misma categoría
@@ -1711,7 +1711,7 @@ def main():
     texto = escribir_articulo(meta, contexto, tema_lang, NICHES[cat], category=cat)
     guardar_post(meta, texto, tema_lang, cat, translation_key=trans_key)
         
-    with open(COMPLETED_FILE, 'a') as f:
+    with open(COMPLETED_FILE, 'a', encoding='utf-8') as f:
         f.write(f"{cat}: {tema}\n")
 
 if __name__ == "__main__":
