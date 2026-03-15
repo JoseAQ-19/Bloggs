@@ -62,42 +62,42 @@
   "4618dd580265f460566f713ecc35b03ce5ab52b17e317eed8d0201579ddcf0d6": {
     "data": [
       {
-        "title": "El nuevo método fitness para esculpir el cuerpo como las 'celebrities'",
+        "title": "El actor Dolph Lundgren y su secreto fitness a los 68 años",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La española Fitness Deluxe cumple previsiones e ingresa 22,5 millones en 2025",
+        "title": "DEKA Fit Ibiza brilla un año más en Sant Agustí",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "FDL – Fitness Deluxe cierra 2025 con una facturación de 22,5 millones de euros y abre una nueva etapa de crecimiento",
+        "title": "Farioli on fitness: Ready to compete on three fronts in March",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Manchester City played it safe on the weekend with the fitness of a key player",
+        "title": "FOTOS | Un pueblo de Cuenca acoge con éxito el Campeonato Regional Castilla-La Mancha-SF3 con más de medio centenar de atletas",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La sala fitness del Polideportivo Azken Portu se amplía hasta los 600 m² tras una renovación integral",
+        "title": "Máquinas de pilates reformer, infrarrojos y matcha: así son los nuevos gimnasios de moda en Madrid",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773466636.1835718,
+    "cached_at": 1773550093.7829492,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
@@ -111,18 +111,18 @@
         "url": "https://as.com/tikitakas/estilo/que-es-el-athleisure-la-nueva-tendencia-de-moda-que-esta-arrasando-f202603-n/"
       },
       {
-        "title": "Granada presenta la carrera “más bonita del mundo” - AS.com",
+        "title": "Maite Palazuelos, creadora del Método Sbelt: “En 10 años en España habrá personas de 300 kg”  - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "http://masdeporte.as.com/masdeporte/atletismo/granada-presenta-la-carrera-mas-bonita-del-mundo-f202603-n/"
+        "url": "https://as.com/tikitakas/salud/maite-palazuelos-creadora-del-metodo-sbelt-en-10-anos-en-espana-habra-personas-de-300-kg-f202603-n/"
       },
       {
-        "title": "Alfonso Coelho, entrenador personal: “Caminar cuenta como ejercicio dependiendo de la persona”  - AS.com",
+        "title": "5 aspectos indispensables para elegir los leggins del gimnasio correctamente - Mejor con Salud",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/tikitakas/salud/alfonso-coelho-entrenador-personal-caminar-cuenta-como-ejercicio-dependiendo-de-la-persona-f202603-n/"
+        "url": "https://mejorconsalud.as.com/lifestyle/5-aspectos-indispensables-para-elegir-los-leggins-del-gimnasio-correctamente/"
       },
       {
         "title": "Javier Guerrero, doctor en nutrición deportiva: “No beber lo suficiente hace que nuestro cerebro rinda muy por debajo” - AS.com",
@@ -132,7 +132,7 @@
         "url": "https://as.com/tikitakas/salud/javier-guerrero-doctor-en-nutricion-deportiva-no-beber-lo-suficiente-hace-que-nuestro-cerebro-rinda-muy-por-debajo-f202603-n/"
       }
     ],
-    "cached_at": 1773466636.708168,
+    "cached_at": 1773550094.5819159,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
