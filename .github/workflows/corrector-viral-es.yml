@@ -1,0 +1,59 @@
+name: "Corrector Viral - Spanish"
+on:
+  workflow_run:
+    workflows: ["Writer Viral - Spanish"]
+    types: [completed]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  qa-review:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium
+      - name: Setup NotebookLM MCP
+        run: |
+          npm install -g notebooklm-mcp-server
+          mkdir -p ~/.notebooklm-mcp
+          echo '${{ secrets.NOTEBOOKLM_AUTH_JSON }}' > ~/.notebooklm-mcp/auth.json
+          chmod 600 ~/.notebooklm-mcp/auth.json
+      - name: "QA Editor — Viral (ES)"
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MODELS_TOKEN_CEU: ${{ secrets.MODELS_TOKEN_CEU }}
+          TOKEN_MODELS: ${{ secrets.TOKEN_MODELS }}
+          OPEN_CORRECTOR_API_KEY: ${{ secrets.OPEN_CORRECTOR_API_KEY }}
+          CORRECTOR_HF_API_KEY: ${{ secrets.CORRECTOR_HF_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+        run: python qa_orchestrator.py --lang es --category viral
+      - name: Verify Content Integrity
+        run: |
+          echo "🔍 Verificando Viral (ES)..."
+          if grep -r 'translationKey: "None"' content/es/viral/; then
+            echo "❌ CRITICAL: Null TranslationKey"; exit 1
+          fi
+          echo "✅ Integridad verificada"
+      - name: Push Corrected Content
+        run: |
+          git config --global user.name "JoseAQ-19"
+          git config --global user.email "josearizaquintero@gmail.com"
+          git add content/es/viral/
+          git diff --staged --quiet && echo "No corrections made" && exit 0
+          git commit -m "✅ Viral (ES) QA Corrected & Approved"
+          git pull --rebase origin main
+          git push
