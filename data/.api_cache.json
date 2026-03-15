@@ -1181,77 +1181,77 @@
   "6e9c6a02969a5e9b67222353d8954d32f29ac7ffcd642500a8a27decc747f088": {
     "data": [
       {
-        "title": "Hole Ruler D Line, Measuring Tools Other Measuring Tools Stainless",
+        "title": "Todas las casas de Leonardo DiCaprio: así vive el actor de 'Titanic', 'El Renacido' o ‘Una batalla tras otra’",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Expansión y nueva oferta, el plan de Ranger Tools tras buenos resultados en 2025",
+        "title": "Las carreras mejor remuneradas y más demandadas, según U.S. News.",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "5 of the Best Free Tools to Analyze a Stock’s Earnings Calls and Earnings Transcripts",
+        "title": "Las casas de Emma Stone: de la mansión con 10 chimeneas en Nueva York a la finca con piscina, pasando por una casa de campo en Los Ángeles",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El plan de Ranger Tools tras buenos resultados en 2025",
+        "title": "Aconity3D releases multi-material welding head for AconityWIRE",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Best Free Tools to Discover High-Growth Stocks Early",
+        "title": "Las casas de Timothée Chalamet: del Manhattan en el que creció a su nueva vida en Los Ángeles (y con muy buena compañía)",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773494268.7802143,
+    "cached_at": 1773580742.7193336,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "d3e0b697eb375d60495f1b6d1f6c436c149ae1e2a919c1ae80263ab8fde1d244": {
     "data": [
       {
-        "title": "Así es HODIO, la herramienta del Gobierno para medir el odio en redes sociales que planea hacer públicos los datos - Meristation",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://www.as.com/meristation/betech/asi-es-hodio-la-herramienta-del-gobierno-para-medir-el-odio-en-redes-sociales-que-planea-hacer-publicos-los-datos-f202603-n/"
-      },
-      {
-        "title": "OpenClaw ha provocado un auténtico terremoto mediático en China. El Gobierno ha impedido a sus funcionarios usarlo",
+        "title": "Google Maps ya no quiere ser solo un mapa: Gemini acaba de empujarlo hacia algo más ambicioso",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/china-ha-convertido-openclaw-fenomeno-viral-luego-ha-prohibido-a-sus-funcionarios-usarlo"
+        "url": "https://www.xataka.com/aplicaciones/google-maps-no-quiere-ser-solo-mapa-gemini-acaba-empujarlo-algo-ambicioso"
+      },
+      {
+        "title": "Qué es Antigravity, cómo funciona y qué puedes hacer con la IDE con inteligencia artificial de Google",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/basics/que-antigravity-como-funciona-que-puedes-hacer-ide-inteligencia-artificial-google"
       },
       {
         "title": "Google Maps cambia para siempre: recibe su mayor actualización en más de una década y revela las nuevas opciones para navegar - Meristation",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/meristation/betech/google-maps-cambia-para-siempre-recibe-su-mayor-actualizacion-en-mas-de-una-decada-y-revela-las-nuevas-opciones-para-navegar-f202603-n/"
+        "url": "https://www.as.com/meristation/betech/google-maps-cambia-para-siempre-recibe-su-mayor-actualizacion-en-mas-de-una-decada-y-revela-las-nuevas-opciones-para-navegar-f202603-n/"
       },
       {
-        "title": "Valve ha estado en el centro de uno de los eventos más grandes del 2026 y ha sido el mejor lugar para desvelar novedades inéditas sobre Steam Machine - PC - 3DJuegos",
+        "title": "Amazon actualiza Alexa a su versión Plus con cuatro nuevas personalidades",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.3djuegos.com/pc/noticias/avalancha-novedades-steam-machine-frame-valve-desvela-detalles-ineditos-su-nueva-familia-dispositivos"
+        "url": "https://www.businessinsider.es/big-tech/amazon-actualiza-alexa-su-version-plus-con-cuatro-nuevas-personalidades-incluida-una-para-adultos_6945733_0.html"
       }
     ],
-    "cached_at": 1773494269.3566105,
+    "cached_at": 1773580743.482905,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   }
