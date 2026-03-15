@@ -139,77 +139,77 @@
   "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
     "data": [
       {
-        "title": "This year, take charge of your physical fitness with CFHPP",
+        "title": "SPAR Fit Fest kicks off at Southern Hills Community Center with free fitness and health resources",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "IMPD officer arrested for battery after off-duty fight at Crunch Fitness",
+        "title": "11 Fitness: Advice from an expert on adding resistance to body-weight exercises",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Man turns fitness into fundraising mission",
+        "title": "PLNT Investors Have Opportunity to Join Planet Fitness, Inc. Fraud Investigation with the Schall Law Firm",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Dumbbells Set Women Mytrix Pink Stepper: Mini Fitness Stair Stepper With Bands & Mat, LCD Display, Quiet & Compact Home Workout Machine Steppers For Exercise Workout",
+        "title": "Running: Kingston and Ulster County YMCA offers more bang for your fitness ‘buck’",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Former Gordmans set to become Crunch Fitness center",
+        "title": "The New Home Gym: Fitness Experts Say \"Recovery Zones\" Will Be Huge in 2026",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773466901.4276168,
+    "cached_at": 1773550687.7367048,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "5f74b081c9753b13b48c085df1624d184c9deb4bc34d11178f03bbc18aeae64e": {
     "data": [
       {
-        "title": "The Fort Strength Training Wearable Tracks Your Sets (2026) | WIRED",
+        "title": "Logran reactivar el cerebro de un ratón congelado por primera vez | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "http://www.wired.com/story/fort-strength-training-wearable-launch/"
+        "url": "https://es.wired.com/articulos/logran-reactivar-el-cerebro-de-un-raton-congelado-por-primera-vez"
       },
       {
-        "title": "La tecnología está cambiando el tratamiento de la apnea del sueño | WIRED",
+        "title": "¿Qué acabó con los dinosaurios? No fue el meteorito, exactamente | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/la-tecnologia-esta-cambiando-el-tratamiento-de-la-apnea-del-sueno"
+        "url": "https://es.wired.com/articulos/que-acabo-con-los-dinosaurios-no-fue-el-meteorito-exactamente"
       },
       {
-        "title": "HODIO, así es la herramienta con la que España busca medir el odio en plataformas digitales | WIRED",
+        "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/hodio-asi-es-la-herramienta-con-la-que-espana-busca-medir-el-odio-en-plataformas-digitales"
+        "url": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/"
       },
       {
-        "title": "Japón aprueba los primeros tratamientos del mundo hechos con células humanas reprogramadas | WIRED",
+        "title": "Microsoft’s Copilot Health can connect to your medical records and wearables | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/japon-aprueba-los-primeros-tratamientos-del-mundo-hechos-con-celulas-humanas-reprogramadas"
+        "url": "https://www.theverge.com/tech/893594/microsoft-copilot-health-launch/"
       }
     ],
-    "cached_at": 1773466902.0260146,
+    "cached_at": 1773550688.2368183,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
