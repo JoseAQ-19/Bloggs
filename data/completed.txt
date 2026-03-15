@@ -309,3 +309,4 @@ fitness: Home Gyms of the Future: Recovery Zones Are the Next Big Thing (Experts
 funds: iShares Core EURO STOXX 50: ASML Debe Crecer para Mantener la Subida del 4,4%
 funds: S&P 500 Funds: Prioritizing Low Expense Ratios Below 0.10% for Better Returns
 funds: S&P 500 Fund Showdown: VOO vs. SPY with a 0.03% Expense Ratio Difference
+ia: El futuro según Amazon: IA reemplazará el 80% del trabajo. ¿Realidad o ciencia ficción?
