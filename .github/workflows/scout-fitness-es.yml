@@ -1,4 +1,4 @@
-name: "Scout Fitness - Spanish"
+﻿name: "Scout Fitness - Spanish"
 on:
   schedule:
     - cron: '0 4 * * *'
@@ -33,6 +33,6 @@ jobs:
           git add data/.api_cache.json || true
           git add data/trends_fitness_es.json
           git diff --staged --quiet && echo "No trends found" && exit 0
-          git commit -m "🔭 Scout Fitness (ES): research completed"
+          git commit -m "ðŸ”­ Scout Fitness (ES): research completed"
           git pull --rebase origin main
           git push

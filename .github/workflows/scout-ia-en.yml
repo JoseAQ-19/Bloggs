@@ -1,4 +1,4 @@
-name: "Scout IA - English"
+﻿name: "Scout IA - English"
 
 on:
   schedule:
@@ -44,6 +44,6 @@ jobs:
           git add data/.api_cache.json || true
           git add data/trends_ia_en.json
           git diff --staged --quiet && echo "No trends found" && exit 0
-          git commit -m "🔭 Scout IA (EN): research completed"
+          git commit -m "ðŸ”­ Scout IA (EN): research completed"
           git pull --rebase origin main
           git push

@@ -1,4 +1,4 @@
-name: "Writer YouTube - Spanish"
+﻿name: "Writer YouTube - Spanish"
 on:
   workflow_run:
     workflows: ["Scout YouTube - Spanish"]
@@ -20,7 +20,7 @@ jobs:
           python-version: '3.11'
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
       - name: Install Dependencies
         run: |
           pip install -r requirements.txt
@@ -48,6 +48,6 @@ jobs:
           git config --global user.email "josearizaquintero@gmail.com"
           git add content/es/youtube/ data/ static/images/ data/.*
           git diff --staged --quiet && echo "No new content generated" && exit 0
-          git commit -m "📝 YouTube (ES) Draft Generated — pending QA"
+          git commit -m "ðŸ“ YouTube (ES) Draft Generated â€” pending QA"
           git pull --rebase origin main
           git push

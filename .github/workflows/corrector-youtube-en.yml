@@ -1,4 +1,4 @@
-name: "Corrector YouTube - English"
+﻿name: "Corrector YouTube - English"
 on:
   workflow_run:
     workflows: ["Writer YouTube - English"]
@@ -20,7 +20,7 @@ jobs:
           python-version: '3.11'
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
       - name: Install Dependencies
         run: |
           pip install -r requirements.txt
@@ -31,7 +31,7 @@ jobs:
           mkdir -p ~/.notebooklm-mcp
           echo '${{ secrets.NOTEBOOKLM_AUTH_JSON }}' > ~/.notebooklm-mcp/auth.json
           chmod 600 ~/.notebooklm-mcp/auth.json
-      - name: "QA Editor — YouTube (EN)"
+      - name: "QA Editor â€” YouTube (EN)"
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           MODELS_TOKEN_CEU: ${{ secrets.MODELS_TOKEN_CEU }}
@@ -43,17 +43,17 @@ jobs:
         run: python qa_orchestrator.py --lang en --category youtube
       - name: Verify Content Integrity
         run: |
-          echo "🔍 Verifying YouTube (EN)..."
+          echo "ðŸ” Verifying YouTube (EN)..."
           if grep -r 'translationKey: "None"' content/en/youtube/; then
-            echo "❌ CRITICAL: Null TranslationKey"; exit 1
+            echo "âŒ CRITICAL: Null TranslationKey"; exit 1
           fi
-          echo "✅ Integrity verified"
+          echo "âœ… Integrity verified"
       - name: Push Corrected Content
         run: |
           git config --global user.name "JoseAQ-19"
           git config --global user.email "josearizaquintero@gmail.com"
           git add content/en/youtube/
           git diff --staged --quiet && echo "No corrections made" && exit 0
-          git commit -m "✅ YouTube (EN) QA Corrected & Approved"
+          git commit -m "âœ… YouTube (EN) QA Corrected & Approved"
           git pull --rebase origin main
           git push

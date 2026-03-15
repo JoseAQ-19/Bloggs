@@ -1,4 +1,4 @@
-name: "Scout Crypto - English"
+﻿name: "Scout Crypto - English"
 on:
   schedule:
     - cron: '30 17 * * *'
@@ -37,6 +37,6 @@ jobs:
           git add data/.api_cache.json || true
           git add data/trends_crypto_en.json
           git diff --staged --quiet && echo "No trends found" && exit 0
-          git commit -m "🔭 Scout Crypto (EN): research completed"
+          git commit -m "ðŸ”­ Scout Crypto (EN): research completed"
           git pull --rebase origin main
           git push

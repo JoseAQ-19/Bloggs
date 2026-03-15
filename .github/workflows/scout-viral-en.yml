@@ -1,4 +1,4 @@
-name: "Scout Viral - English"
+﻿name: "Scout Viral - English"
 on:
   schedule:
     - cron: '30 23 * * *'
@@ -37,6 +37,6 @@ jobs:
           git add data/.api_cache.json || true
           git add data/trends_viral_en.json
           git diff --staged --quiet && echo "No trends found" && exit 0
-          git commit -m "🔭 Scout Viral (EN): research completed"
+          git commit -m "ðŸ”­ Scout Viral (EN): research completed"
           git pull --rebase origin main
           git push

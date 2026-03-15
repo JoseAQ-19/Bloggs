@@ -1,4 +1,4 @@
-name: "Corrector Crypto - English"
+﻿name: "Corrector Crypto - English"
 on:
   workflow_run:
     workflows: ["Writer Crypto - English"]
@@ -20,7 +20,7 @@ jobs:
           python-version: '3.11'
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
       - name: Install Dependencies
         run: |
           pip install -r requirements.txt
@@ -31,7 +31,7 @@ jobs:
           mkdir -p ~/.notebooklm-mcp
           echo '${{ secrets.NOTEBOOKLM_AUTH_JSON }}' > ~/.notebooklm-mcp/auth.json
           chmod 600 ~/.notebooklm-mcp/auth.json
-      - name: "QA Editor — Crypto (EN)"
+      - name: "QA Editor â€” Crypto (EN)"
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           MODELS_TOKEN_CEU: ${{ secrets.MODELS_TOKEN_CEU }}
@@ -43,28 +43,28 @@ jobs:
         run: python qa_orchestrator.py --lang en --category crypto
       - name: Verify Crypto Integrity (EN)
         run: |
-          echo "🔍 Verifying Crypto (EN) article..."
+          echo "ðŸ” Verifying Crypto (EN) article..."
           if grep -r 'translationKey: "None"' content/en/crypto/; then
-            echo "❌ CRITICAL: Null TranslationKey"; exit 1
+            echo "âŒ CRITICAL: Null TranslationKey"; exit 1
           fi
           LATEST=$(ls -t content/en/crypto/*.md 2>/dev/null | head -1)
           if [ -n "$LATEST" ]; then
             WORDS=$(wc -w < "$LATEST")
-            echo "📊 Article: $LATEST ($WORDS words)"
+            echo "ðŸ“Š Article: $LATEST ($WORDS words)"
             if ! grep -qi "investment\|financial\|risk\|disclaimer" "$LATEST"; then
-              echo "⚠️ WARNING: May be missing financial disclaimer"
+              echo "âš ï¸ WARNING: May be missing financial disclaimer"
             fi
-            if grep -qi "en el vertiginoso\|según expertos" "$LATEST"; then
-              echo "⚠️ WARNING: Spanish text leak in English article"
+            if grep -qi "en el vertiginoso\|segÃºn expertos" "$LATEST"; then
+              echo "âš ï¸ WARNING: Spanish text leak in English article"
             fi
           fi
-          echo "✅ Integrity verified"
+          echo "âœ… Integrity verified"
       - name: Push Corrected Content
         run: |
           git config --global user.name "JoseAQ-19"
           git config --global user.email "josearizaquintero@gmail.com"
           git add content/en/crypto/
           git diff --staged --quiet && echo "No corrections made" && exit 0
-          git commit -m "✅ Crypto (EN) QA Corrected & Approved"
+          git commit -m "âœ… Crypto (EN) QA Corrected & Approved"
           git pull --rebase origin main
           git push

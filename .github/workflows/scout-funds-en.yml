@@ -1,4 +1,4 @@
-name: "Scout Funds - English"
+﻿name: "Scout Funds - English"
 on:
   schedule:
     - cron: '30 8 * * *'
@@ -37,6 +37,6 @@ jobs:
           git add data/.api_cache.json || true
           git add data/trends_funds_en.json data/stocks_competitors_analysis.json
           git diff --staged --quiet && echo "No trends found" && exit 0
-          git commit -m "🔭 Scout Funds (EN): research completed"
+          git commit -m "ðŸ”­ Scout Funds (EN): research completed"
           git pull --rebase origin main
           git push

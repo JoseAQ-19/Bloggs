@@ -1,4 +1,4 @@
-name: "Scout tools - Spanish"
+﻿name: "Scout tools - Spanish"
 
 on:
   schedule:
@@ -43,7 +43,7 @@ jobs:
           git add data/.api_cache.json || true
           git add data/trends_tools_es.json
           git diff --staged --quiet && echo "No trends found" && exit 0
-          git commit -m "🔭 Scout tools (ES): research completed"
+          git commit -m "ðŸ”­ Scout tools (ES): research completed"
           git pull --rebase origin main
           git push
 
