@@ -62,7 +62,7 @@ NICHE_CONSTRAINTS_EN = {
 def get_system_prompt_en(category):
     niche_instruction = NICHE_CONSTRAINTS_EN.get(category.lower(), "GENERAL MISSION: Maintain a high standard of informative quality and journalistic rigor.")
     
-    return f"""ROLE: You are the EDITOR-IN-CHIEF of NovumWorld, a premium US tech publication. Your mission is to receive a DRAFT article written by a junior writer and return it PERFECT for immediate publication.
+    return f"""ROLE: You are the EDITOR-IN-CHIEF and CONTENT AUDITOR of NovumWorld, a premium US tech publication. Your mission is to receive a DRAFT article written by a junior writer and return it PERFECT for immediate publication.
 
 YOUR PROFILE:
 - Veteran tech journalist with 20 years at TechCrunch, The Verge, and Ars Technica.
@@ -70,6 +70,12 @@ YOUR PROFILE:
 - Expert in US-market on-page SEO (.com) and Google AdSense compliance.
 
 {niche_instruction}
+
+NEW STRICT CONTENT AUDITOR RULES (MANDATORY):
+1. Strict Contrast between Headline Promise and Body: This is the main barrier. You must read the title and look for immediate justification of that premise in the opening paragraphs. If the central theme of the title is not analytically developed or is barely mentioned in the body, REJECT the text immediately.
+2. AI Automated Content Audit: Do not just check spelling. Audit the logical coherence of "The Machine". If the AI produces generic Wikipedia-like text instead of a deep financial/tech analysis linked to the title, INTERVÉN and demand a rewrite.
+3. Systematic Fluff Removal (SEO): Prune the "fluff". Require 100% of the content to provide real analytical value to the human reader. Do not waste time with basic questions.
+4. Cross-referenced Fact Checking: You are obligated to detect numerical claims (yields, dates, fees) and contrast them. If you detect hallucinations or outdated data, block publication.
 
 YOUR MISSION (in this priority order):
 1. GEO (GENERATE ENGINE OPTIMIZATION) - MANDATORY CHUNKING:
@@ -363,6 +369,10 @@ def run(category, content_dir="content/en"):
         print(f"   ⚠️ [Editor EN] Body too short ({len(body)} chars). Skipping.")
         return None
 
+    # Extraer el título del frontmatter
+    title_match = re.search(r'^title:\s*"?([^"\n]+)"?', frontmatter, re.MULTILINE)
+    article_title = title_match.group(1) if title_match else "No title"
+
     # STEP 1: Link Validation
     print(f"\n   🔗 [Editor EN] STEP 1: Link verification...")
     link_result = validate_links(body)
@@ -384,6 +394,66 @@ def run(category, content_dir="content/en"):
     factcheck_block = ""
     if factcheck_alerts:
         factcheck_block = f"\n\n{factcheck_alerts}"
+
+    # STEP 2.5: Global Content Audit
+    print(f"\n   ⚖️ [Editor EN] STEP 2.5: Global Content Audit (Content Auditor)...")
+    audit_prompt = f"""
+Execute your role as CONTENT AUDITOR. Read the title and the draft body.
+You must score from 1 to 10 the following 4 criteria based on YOUR 4 STRICT RULES:
+1. SEO
+2. E-E-A-T
+3. GEO
+4. Real Value
+
+ARTICLE TITLE: {article_title}
+
+DRAFT BODY:
+{body[:15000]}
+
+Return ONLY a valid JSON object with this exact format (no markdown blocks, starts with {{ and ends with }}):
+{{
+  "seo_score": 8,
+  "eeat_score": 7,
+  "geo_score": 9,
+  "value_score": 8,
+  "feedback": "What the writer (Ralph) must change to reach a 10 in all points."
+}}
+"""
+    audit_raw = _call_llm_en(audit_prompt, get_system_prompt_en(category))
+    if audit_raw:
+        try:
+            # Clean JSON formatting issues
+            clean_json = audit_raw.strip()
+            if clean_json.startswith("```json"): clean_json = clean_json[7:-3].strip()
+            if clean_json.startswith("```"): clean_json = clean_json[3:-3].strip()
+            start_idx = clean_json.find('{')
+            end_idx = clean_json.rfind('}')
+            if start_idx != -1 and end_idx != -1:
+                clean_json = clean_json[start_idx:end_idx+1]
+            
+            audit_json = json.loads(clean_json)
+            seo_s = float(audit_json.get("seo_score", 5))
+            eeat_s = float(audit_json.get("eeat_score", 5))
+            geo_s = float(audit_json.get("geo_score", 5))
+            val_s = float(audit_json.get("value_score", 5))
+            avg_score = (seo_s + eeat_s + geo_s + val_s) / 4.0
+            
+            feedback = audit_json.get('feedback', '')
+            print(f"      📊 Scores -> SEO: {seo_s}, EEAT: {eeat_s}, GEO: {geo_s}, Real Value: {val_s}")
+            print(f"      📈 Quality Average: {avg_score:.2f}/10")
+            print(f"      💬 Feedback: {feedback}")
+            
+            if avg_score < 8.0:
+                print(f"\n   ❌ [Editor EN] AUDIT FAILED (Average < 8). The article lacks coherence with the headline, lacks real value or E-E-A-T. Rejecting for a rewrite.")
+                return {
+                    "status": "rejected",
+                    "reason": "Audit failed (Average < 8)",
+                    "score": avg_score,
+                    "feedback": feedback,
+                    "filepath": draft_path
+                }
+        except Exception as e:
+            print(f"   ⚠️ [Editor EN] Failed to parse JSON audit. Continuing assuming risk. Error: {e}")
 
     # STEP 3: Build LLM prompt
     print(f"\n   🧠 [Editor EN] STEP 3: Sending to LLM for editing...")

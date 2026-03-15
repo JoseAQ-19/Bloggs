@@ -63,7 +63,7 @@ NICHE_CONSTRAINTS_ES = {
 def get_system_prompt_es(category):
     niche_instruction = NICHE_CONSTRAINTS_ES.get(category.lower(), "MISIÓN GENERAL: Mantén un estándar de alta calidad informativa y rigor periodístico.")
     
-    return f"""ROL: Eres el EDITOR JEFE de NovumWorld España. Tu misión es recibir un BORRADOR de artículo ya escrito por un redactor junior y devolverlo PERFECTO para publicación inmediata.
+    return f"""ROL: Eres el EDITOR JEFE y CONTENT AUDITOR de NovumWorld España. Tu misión es recibir un BORRADOR de artículo ya escrito por un redactor junior y devolverlo PERFECTO para publicación inmediata.
 
 TU PERFIL:
 - Periodista veterano español (Peninsular, NO LatAm) con 20 años en El País, elDiario.es y Xataka.
@@ -72,8 +72,14 @@ TU PERFIL:
 
 {niche_instruction}
 
+NUEVAS REGLAS ESTRICTAS DEL CORRECTOR (CONTENT AUDITOR):
+1. Contraste estricto entre la promesa del titular y el desarrollo: Esta es la barrera principal. El corrector tiene que leer el título y buscar la justificación inmediata de esa premisa en los primeros párrafos. Si el tema central del titular no se desarrolla analíticamente o ni siquiera se menciona en el cuerpo, DEVUELVE el texto inmediatamente.
+2. Auditoría del contenido automatizado (IA): No te limites a revisar ortografía. Audita la coherencia lógica de "La Máquina". Si la IA produce un texto genérico de enciclopedia en lugar de un análisis profundo vinculado al titular, INTERVÉN y exige la reescritura.
+3. Eliminación sistemática del relleno (SEO): Poda la "paja". Exige que el 100% del contenido aporte valor analítico real al lector humano. No pierdas tiempo con preguntas básicas.
+4. Verificación de datos (Fact-checking) cruzada: Tienes la obligación de detectar afirmaciones numéricas (rentabilidad, datos, gastos) y contrastarlas. Si detectas alucinaciones o datos desactualizados, bloquea la publicación.
+
 TU MISIÓN (en este orden de prioridad):
-1. GEO (GENERATE ENGINE OPTIMIZATION) - CHUNKING OBLIGATORIO: 
+1. GEO (GENERATE ENGINE OPTIMIZATION) - CHUNKING OBLIGATORIO:
    Bajo CADA encabezado (H2, H3), la PRIMERA oración DEBE ser una respuesta directa, citable y sintetizada a la idea del título. PROHIBIDO empezar con frases de relleno como "En esta sección...", "A continuación...", o "Es vital entender...". Ve al grano desde la palabra 1.
 
 2. PRESERVACIÓN DE METADATOS Y LIMPIEZA: 
@@ -368,6 +374,10 @@ def run(category, content_dir="content/es"):
         print(f"   ⚠️ [Editor ES] Body demasiado corto ({len(body)} chars). Saltando.")
         return None
 
+    # Extraer el título del frontmatter
+    title_match = re.search(r'^title:\s*"?([^"\n]+)"?', frontmatter, re.MULTILINE)
+    article_title = title_match.group(1) if title_match else "Sin título"
+
     # PASO 1: Link Validation
     print(f"\n   🔗 [Editor ES] PASO 1: Verificación de enlaces...")
     link_result = validate_links(body)
@@ -389,6 +399,66 @@ def run(category, content_dir="content/es"):
     factcheck_block = ""
     if factcheck_alerts:
         factcheck_block = f"\n\n{factcheck_alerts}"
+
+    # PASO 2.5: Auditoría Global de Contenido
+    print(f"\n   ⚖️ [Editor ES] PASO 2.5: Auditoría Global de Contenido (Content Auditor)...")
+    audit_prompt = f"""
+Ejecuta tu rol de CONTENT AUDITOR. Lee el título y el cuerpo del borrador.
+Debes puntuar del 1 al 10 los siguientes 4 criterios basándote en LAS 4 DIRECTIVAS ESTRICTAS DE TU SYSTEM PROMPT:
+1. SEO
+2. E-E-A-T
+3. GEO
+4. Valor Real
+
+TÍTULO DEL ARTÍCULO: {article_title}
+
+BORRADOR:
+{body[:15000]}
+
+Devuelve ÚNICAMENTE un objeto JSON válido con este formato exacto (sin bloques markdown especiales, empieza con {{ y termina con }}):
+{{
+  "seo_score": 8,
+  "eeat_score": 7,
+  "geo_score": 9,
+  "value_score": 8,
+  "feedback": "Qué debe cambiar el redactor (Ralph) para llegar al 10 en todos los puntos antes mencionados."
+}}
+"""
+    audit_raw = _call_llm_es(audit_prompt, get_system_prompt_es(category))
+    if audit_raw:
+        try:
+            # Clean JSON formatting issues
+            clean_json = audit_raw.strip()
+            if clean_json.startswith("```json"): clean_json = clean_json[7:-3].strip()
+            if clean_json.startswith("```"): clean_json = clean_json[3:-3].strip()
+            start_idx = clean_json.find('{')
+            end_idx = clean_json.rfind('}')
+            if start_idx != -1 and end_idx != -1:
+                clean_json = clean_json[start_idx:end_idx+1]
+            
+            audit_json = json.loads(clean_json)
+            seo_s = float(audit_json.get("seo_score", 5))
+            eeat_s = float(audit_json.get("eeat_score", 5))
+            geo_s = float(audit_json.get("geo_score", 5))
+            val_s = float(audit_json.get("value_score", 5))
+            avg_score = (seo_s + eeat_s + geo_s + val_s) / 4.0
+            
+            feedback = audit_json.get('feedback', '')
+            print(f"      📊 Puntuaciones -> SEO: {seo_s}, EEAT: {eeat_s}, GEO: {geo_s}, Valor Real: {val_s}")
+            print(f"      📈 Media de Calidad: {avg_score:.2f}/10")
+            print(f"      💬 Feedback: {feedback}")
+            
+            if avg_score < 8.0:
+                print(f"\n   ❌ [Editor ES] AUDITORÍA FALLIDA (Media < 8). El artículo no está a la altura de los criterios. Devolviendo para reescritura de Ralph.")
+                return {
+                    "status": "rejected",
+                    "reason": "Audit failed (Media < 8)",
+                    "score": avg_score,
+                    "feedback": feedback,
+                    "filepath": draft_path
+                }
+        except Exception as e:
+            print(f"   ⚠️ [Editor ES] Fallo al parsear la auditoría JSON. Continuamos riesgo: {e}")
 
     # PASO 3: Construir prompt para el LLM
     print(f"\n   🧠 [Editor ES] PASO 3: Enviando a LLM para corrección...")
