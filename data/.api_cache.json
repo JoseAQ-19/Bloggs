@@ -32,10 +32,10 @@
   "031508ed52d4301e2ce33a0288bd89e4edeea4bcb171b0495db2b76ff0285e31": {
     "data": [
       "Pivoting to Creator: An interview with Liz Kelly Nelson.",
-      "This is the rare bright spot in a tough Hollywood job market",
-      "Ozempic maker Novo Nordisk to lay off 9,000 workers in major restructuring"
+      "How Broadcasting Layoffs, AI, and Creators Are Redefining the Media Industry",
+      "87% of Creators Now Use AI — How the Technology Is Reshaping Creative Workflows"
     ],
-    "cached_at": 1773329908.8337834,
+    "cached_at": 1773609018.4712927,
     "func": "_get_google_news_headlines",
     "args_summary": "('creator economy news layoff sponsor',)"
   },
@@ -43,9 +43,9 @@
     "data": [
       "Lista Forbes y Forbes Women | Best Content Creators 2025",
       "En España ya hay más de 15.000 influencers y creadores de contenido con más de 100.000 seguidores en redes sociales",
-      "Victoria Federica ‘planta’ a los Premios Forbes 2025: estos han sido los galardonados de la noche"
+      "Estudio de redes sociales: tendencias para 2026"
     ],
-    "cached_at": 1773330364.724403,
+    "cached_at": 1773609135.0076742,
     "func": "_get_google_news_headlines",
     "args_summary": "('creadores contenido España tendencia',)"
   },
@@ -1284,5 +1284,15 @@
     "cached_at": 1773608369.4586644,
     "func": "_get_google_news_headlines",
     "args_summary": "('YouTuber drama controversy this week',)"
+  },
+  "0179ad0b1a3bad82f08356b6ff7d17c7594d4d84713b0da0e78e7b25bf30df29": {
+    "data": [
+      "El 'funeral' de Lola Lolita con el que pretende hacer borrón y cuenta nueva y aprovecha para lanzar todas las indirectas",
+      "El ‘influencer’ de emergencias Miguel Assal desata una polémica al revelar que ponía en peligro a mujeres para hacerse el “héroe”",
+      "Drama en Villamanín con el Gordo de la Lotería de Navidad y el error de 4 millones de euros: “Si amáis al pueblo tenéis que entregar vuestro dinero”"
+    ],
+    "cached_at": 1773609017.7498102,
+    "func": "_get_google_news_headlines",
+    "args_summary": "('youtubers España polémica drama',)"
   }
 }

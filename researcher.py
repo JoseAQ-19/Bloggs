@@ -10,6 +10,7 @@ from playwright.sync_api import sync_playwright
 from google import genai
 from google.genai import types
 from exa_py import Exa
+from llm_router import LLMRouter
 
 # Configuración
 MCP_BINARY = "notebooklm-mcp"
