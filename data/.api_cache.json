@@ -636,60 +636,53 @@
         "url": ""
       },
       {
-        "title": "'Harming babies': Child safety group blasts Google's investment in AI content for kids",
+        "title": "In Texas, an Unyielding Gun Culture Jumps Off YouTube and Into Politics",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Real journalism tells real stories, not YouTube fables to solicit money",
+        "title": "Celebrating the skill of stunt performers on YouTube",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "YouTube Gold: Arizona Gets A Highlight They’ll Play For Years",
+        "title": "5 Best Free YouTube Movies to Stream Right Now (March 2026): ‘The Mask of Zorro’ and More",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Channel Surfer Site Brings the Classic TV Guide to YouTube",
+        "title": "Music Reviews: Talking Heads’ ‘Tentative Decisions,’ plus Mississippi Sheiks, Jesper Lindell, and James Houlahan",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773515505.513235,
+    "cached_at": 1773607321.9277668,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "f990e7eff0f3103ac01b2830c939d7dce846fb1e852800a979f12b26b78a0e42": {
     "data": [
       {
-        "title": "Channel Surfer lets you watch YouTube like it's old-school cable TV | TechCrunch",
+        "title": "YouTube thumbnails just got an upgrade. | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/12/channel-surfer-watch-youtube-retro-cable-tv-guide/"
+        "url": "https://www.theverge.com/streaming/894637/youtube-thumbnails-just-got-an-upgrade"
       },
       {
-        "title": "This is immediately my new favorite way to watch YouTube. | The Verge",
+        "title": "La NASA fija el 1 de abril para lanzar Artemis II, la histórica misión tripulada de sobrevuelo lunar | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/tech/893598/this-is-immediately-my-new-favorite-way-to-watch-youtube"
-      },
-      {
-        "title": "Disney+ is rolling out its TikTok-like 'Verts' short-form video feed | TechCrunch",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://techcrunch.com/2026/03/12/disney-is-rolling-out-its-tiktok-like-verts-short-form-video-feed/"
+        "url": "https://es.wired.com/articulos/nasa-1-abril-lanzamiento-artemisii"
       },
       {
         "title": "The Verge",
@@ -697,9 +690,16 @@
         "lang": "en",
         "score": 0,
         "url": "https://store.theverge.com/streaming/894637/youtube-thumbnails-just-got-an-upgrade"
+      },
+      {
+        "title": "Spotify will let you edit your Taste Profile to control your recommendations | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/"
       }
     ],
-    "cached_at": 1773515505.9765415,
+    "cached_at": 1773607322.4541724,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
