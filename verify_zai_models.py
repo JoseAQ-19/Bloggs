@@ -18,7 +18,7 @@ headers = {
 
 print("Buscando modelos en Zhipu API...")
 try:
-    resp = requests.get(url, headers=headers)
+    resp = requests.get(url, headers=headers, timeout=10)
     print(f"Status Code: {resp.status_code}")
     if resp.status_code == 200:
         data = resp.json()
@@ -45,7 +45,8 @@ for m in test_models:
                 "model": m,
                 "messages": [{"role": "user", "content": "Hola"}],
                 "max_tokens": 10
-            }
+            },
+            timeout=10
         )
         print(f"  Status: {resp.status_code}")
         if resp.status_code == 200:
