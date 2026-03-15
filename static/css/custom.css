@@ -95,22 +95,26 @@
 .theme-viral h2, 
 .theme-viral h3, 
 .theme-viral h4,
+.theme-viral h5,
+.theme-viral h6,
 .theme-viral .white,
 .theme-viral .white-90,
 .theme-viral .white-80,
 .theme-viral .white-70,
 .theme-viral .white-60,
 .theme-viral .white-40,
-.theme-viral p,
-.theme-viral span,
-.theme-viral time,
-.theme-viral strong,
-.theme-viral b,
-.theme-viral aside {
-    color: #000 !important;
-}
-
-.theme-viral .nested-links.white {
+.theme-viral .nested-links.white,
+.theme-viral .nested-links.white *,
+.theme-viral .nested-copy-line-height p,
+.theme-viral .nested-copy-line-height li,
+.theme-viral .nested-copy-line-height strong,
+.theme-viral .nested-copy-line-height em,
+.theme-viral .nested-copy-line-height blockquote,
+.theme-viral .nested-copy-line-height h2,
+.theme-viral .nested-copy-line-height h3,
+.theme-viral .nested-copy-line-height h4,
+.theme-viral .nested-copy-line-height h5,
+.theme-viral .nested-copy-line-height h6 {
     color: #000 !important;
 }
 
@@ -952,9 +956,10 @@ table {
 
     /* Glass Cards: Center them and remove offsets */
     article.glass-card {
-        width: calc(100vw - 20px) !important;
-        margin: 0 auto 1.5rem auto !important;
-        padding: 15px !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        margin: 0 0 1.5rem 0 !important;
+        padding: 1.2rem !important;
         border-radius: 12px !important;
         display: flex !important;
         flex-direction: column !important; /* Always column on mobile */
@@ -975,6 +980,15 @@ table {
         border: 2px solid black !important;
         box-shadow: 4px 4px 0px black !important;
         background: #fff !important;
+    }
+
+    /* Fitness Theme: neutralize desktop skew and orange border-left on mobile */
+    .theme-fitness article.glass-card {
+        transform: none !important;
+        border-left: none !important;
+        border: 1px solid rgba(255, 95, 31, 0.3) !important;
+        width: 100% !important;
+        max-width: 100% !important;
     }
 
     /* TYPOGRAPHY: Avoid text cut-off */

@@ -105,22 +105,3 @@ Este análisis se basa en datos y perspectivas de entidades financieras y medios
 
 > **[Análisis Recomendado]** 'La IA No Viene a Salvarnos: Viene a Explotarnos': [/es/ia/la-ia-no-viene-a-salvarnos-viene-a-explotarnos/](/es/ia/la-ia-no-viene-a-salvarnos-viene-a-explotarnos/)
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Stoxx 600 sube un 1,5% tras la crisis en Asia, pero la volatilidad persiste.",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

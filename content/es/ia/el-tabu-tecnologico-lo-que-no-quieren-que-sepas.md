@@ -66,22 +66,3 @@ El "progreso" tecnológico actual se sustenta en una estructura oculta de extrac
 
 > **[Análisis Recomendado]** 'Ecnocínicos: Cómo las Corporaciones Nos Venden Humo Futurista': [/es/ia/ecnocinicos-como-las-corporaciones-nos-venden-humo/](/es/ia/ecnocinicos-como-las-corporaciones-nos-venden-humo/)
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "El Tabú Tecnológico: Lo Que NO Quieren Que Sepas",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

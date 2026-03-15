@@ -76,22 +76,3 @@ La credibilidad de este análisis se sustenta en fuentes autorizadas y estudios 
 
 > **[Análisis Recomendado]** ¿Tu nevera te espía? El futuro orwelliano que ya pagas: [/es/ia/tu-nevera-te-espia-el-futuro-orwelliano-que-ya-pag/](/es/ia/tu-nevera-te-espia-el-futuro-orwelliano-que-ya-pag/)
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "¡Make.com en 2 HORAS! Domina la Automatización en 2026 (Guía Definitiva para Principiantes)",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

@@ -114,39 +114,51 @@ class ContentCleaner:
         """
         Purger de metadatos JSON crudos y artefactos de IA.
         Garantiza que NINGÚN JSON se filtre en el body del artículo a menos que esté en un <script>.
+        Usa conteo de llaves para manejar correctamente bloques JSON anidados (FAQPage, etc).
         """
         if not text:
             return text
 
-        # 1. Identificar bloques <script> legítimos y protegerlos temporalmente
-        script_blocks = re.findall(r'(<script type="application/ld\+json">.*?</script>)', text, re.DOTALL | re.IGNORECASE)
-        
-        # Marcador temporal para no borrar el JSON legítimo
-        placeholder = "[[[LEGIT_JSON_LD_BLOCK]]]"
-        text_no_scripts = re.sub(r'<script type="application/ld\+json">.*?</script>', placeholder, text, flags=re.DOTALL | re.IGNORECASE)
+        # 1. ELIMINAR bloques <script> de JSON-LD (Ahora gestionados por layouts/partials/schema.html)
+        text = re.sub(r'<script type="application/ld\+json">.*?</script>', '\n\n', text, flags=re.DOTALL | re.IGNORECASE)
 
-        # 2. ATAQUE NUCLEAR: Eliminar cualquier bloque que parezca JSON suelto { ... }
-        # Buscamos { que empiece línea o después de salto, y su respectivo }
-        # Este patrón es agresivo para detectar fugas de NewsArticle, FAQPage, etc.
-        json_pattern = r'(?:^|\n)\s*\{\s*["\']@context["\']:[\s\S]*?\}\s*(?:\n|$)'
-        text_no_scripts = re.sub(json_pattern, '\n\n', text_no_scripts, flags=re.MULTILINE)
-        
-        # 2b. Caso genérico: Cualquier bloque entre llaves que ocupe más de 3 líneas (probablemente JSON fugado)
-        generic_json = r'(?:^|\n)\{[^{}]{100,}\}(?:\n|$)'
-        text_no_scripts = re.sub(generic_json, '\n\n', text_no_scripts, flags=re.MULTILINE)
+        # 2. ATAQUE NUCLEAR con conteo de llaves: eliminar bloques JSON que contengan @context o @type
+        # Detecta el inicio de un bloque JSON suelto (línea que solo tiene "{")
+        result_lines = []
+        lines = text.split('\n')
+        i = 0
+        while i < len(lines):
+            stripped = lines[i].strip()
+            if stripped == '{':
+                # Recopilar el bloque completo contando llaves
+                block_lines = [lines[i]]
+                depth = 1
+                j = i + 1
+                while j < len(lines) and depth > 0:
+                    depth += lines[j].count('{') - lines[j].count('}')
+                    block_lines.append(lines[j])
+                    j += 1
+                block_text = '\n'.join(block_lines)
+                # Solo eliminar si es JSON-LD (contiene @context o @type)
+                if '@context' in block_text or ('"@type"' in block_text and '"@' in block_text):
+                    # Saltar el bloque, reemplazar con línea vacía
+                    result_lines.append('')
+                    i = j
+                    continue
+                else:
+                    result_lines.append(lines[i])
+                    i += 1
+            else:
+                result_lines.append(lines[i])
+                i += 1
+        text = '\n'.join(result_lines)
 
-        # 3. Limpiar negritas markdown dentro de los scripts protegidos antes de restaurar
-        cleaned_scripts = []
-        for block in script_blocks:
-            # Eliminar **clave**: o **"clave"**: que la IA a veces mete por error
-            cleaned_block = re.sub(r'\*\*("?[^"]+"?)\*\*:', r'\1:', block)
-            cleaned_scripts.append(cleaned_block)
+        # 3. Eliminar posibles encabezados markdown de la IA sobre el JSON
+        text = re.sub(r'(?i)\*\*JSON-LD:\*\*.*?\n', '', text)
+        text = re.sub(r'(?i)### Metadatos SEO.*?\n', '', text)
+        text = re.sub(r'(?i)\*\*(?:Data|FAQ) Schema\*\*\s*\n', '', text)
 
-        # 4. Restaurar scripts legítimos
-        for cs in cleaned_scripts:
-            text_no_scripts = text_no_scripts.replace(placeholder, cs, 1)
+        # 4. Limpieza final de espacios duplicados
+        text = re.sub(r'\n{3,}', '\n\n', text)
         
-        # 5. Limpieza final de espacios duplicados
-        text_no_scripts = re.sub(r'\n{3,}', '\n\n', text_no_scripts)
-        
-        return text_no_scripts.strip()
+        return text.strip()

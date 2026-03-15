@@ -58,22 +58,3 @@ Silicon Valley se encuentra en un punto de inflexión, donde la era de valoracio
 
 > **[Análisis Recomendado]** La NBA Reúne a Más de 200 Creadores en el All-Star Weekend de Los Ángeles: [/es/youtube/nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety/](/es/youtube/nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety/)
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Silicon Valley se Desangra: La Era Dorada ha Terminado (Y Nadie lo Admite)",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

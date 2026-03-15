@@ -53,23 +53,3 @@ Para una comprensión más profunda de la ética de la IA y la gestión de datos
 *   [Análisis en OpenAI/news](https://openai.com/news)
 *   [Análisis en Google/discover](https://deepmind.google/discover)
 
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "¿Tu nevera te espía? El futuro orwelliano que ya pagas",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

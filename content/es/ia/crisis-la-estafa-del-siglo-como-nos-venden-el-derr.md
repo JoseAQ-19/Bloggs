@@ -64,22 +64,3 @@ La narrativa de "La Estafa del Siglo" o "Derrumbe Controlado" se basa en la conv
 
 > **[Análisis Recomendado]** Stoxx 600 sube un 1,5% tras la crisis en Asia, pero la volatilidad persiste.: [/es/funds/stoxx-600-sube-un-15-tras-la-crisis-en-asia-pero-la-volatilidad-persiste/](/es/funds/stoxx-600-sube-un-15-tras-la-crisis-en-asia-pero-la-volatilidad-persiste/)
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "¿Crisis? La Estafa del Siglo: Cómo Nos Venden el Derrumbe Controlado",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

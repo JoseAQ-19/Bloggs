@@ -67,27 +67,6 @@ Enlaces relacionados:
 
 Esquema de marcado JSON-LD:
 
-
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "SpaceX: ¿Una valoración de 200.000 millones justificada?",
-  "author": {
-    "@type": "Person",
-    "name": "Juan Pérez"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld"
-  },
-  "datePublished": "2023-03-14",
-  "description": "La valoración de SpaceX es un tema complejo y controvertido. Aunque la empresa tiene un gran potencial, todavía no ha demostrado su capacidad para generar beneficios de manera sostenida.",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://novumworld.com/es/spacex-valoracion-200000-millones-justificada/"
-  }
-}
-
 ---
 
 ⚠️ **IMPORTANTE DISCLAIMER:** Este artículo sobre fondos de inversión tiene únicamente carácter informativo y educativo. No constituye recomendación de inversión ni asesoramiento financiero. Los fondos de inversión conllevan riesgos, incluyendo la posible pérdida del capital invertido. Los rendimientos pasados no son indicativos de resultados futuros. Antes de invertir, lea el folleto informativo disponible en la página web de la entidad, donde se detallan los riesgos asociados. Consulte con un asesor financiero independiente.

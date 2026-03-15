@@ -66,22 +66,3 @@ El "Deep Hype" y el "Solucionismo" corporativo no son meras tácticas de marketi
 
 > **[Análisis Recomendado]** '¿Crisis? La Estafa del Siglo: Cómo Nos Venden el Derrumbe Controlado': [/es/ia/crisis-la-estafa-del-siglo-como-nos-venden-el-derr/](/es/ia/crisis-la-estafa-del-siglo-como-nos-venden-el-derr/)
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Ecnocínicos: Cómo las Corporaciones Nos Venden Humo Futurista",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>
