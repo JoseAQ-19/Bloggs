@@ -2,11 +2,12 @@ import os
 import time
 import logging
 from openai import OpenAI
+from tenacity import retry, wait_exponential, stop_after_attempt, retry_if_exception_type
 
 class LLMRouter:
     """
-    Gestor Central de LLMs con Inyección de Capa Cero (GitHub Models).
-    Misión: Priorizar el ahorro de costes y alta disponibilidad usando GitHub Models.
+    Gestor Central de LLMs con Inyección de Capa Cero (GitHub Models) y Exponential Backoff.
+    Misión: Priorizar el ahorro de costes y alta disponibilidad ante Rate Limits.
     """
     
     @staticmethod
@@ -43,18 +44,23 @@ class LLMRouter:
                 
             try:
                 print(f"   [GITHUB] [{name}] Intentando {model} en GitHub Models...")
-                # Timeout configurado para no bloquear el pipeline
-                client = OpenAI(api_key=token, base_url=base_url)
-                resp = client.chat.completions.create(
-                    model=model,
-                    messages=[
-                        {"role": "system", "content": system_prompt},
-                        {"role": "user", "content": prompt}
-                    ],
-                    temperature=0.7,
-                    max_tokens=4096,
-                    timeout=180
-                )
+                
+                # Función decorada con Backoff (Tenacity) para reintentar solo excepciones OpenAI
+                @retry(wait=wait_exponential(multiplier=2, min=2, max=10), stop=stop_after_attempt(3), reraise=True)
+                def _do_request():
+                    client = OpenAI(api_key=token, base_url=base_url)
+                    return client.chat.completions.create(
+                        model=model,
+                        messages=[
+                            {"role": "system", "content": system_prompt},
+                            {"role": "user", "content": prompt}
+                        ],
+                        temperature=0.7,
+                        max_tokens=4096,
+                        timeout=180
+                    )
+                
+                resp = _do_request()
                 result = resp.choices[0].message.content.strip()
                 # Validación dinámica de éxito:
                 # - razonamiento/redacción: requiere longitud (>200 chars)
