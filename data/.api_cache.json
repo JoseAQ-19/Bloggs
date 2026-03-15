@@ -1104,61 +1104,47 @@
   "47c2bc6816549fbd4391587ad907de1b4a35f331cc234d17a1e0ece63b6178da": {
     "data": [
       {
-        "title": "We Did the Math: These 7 Kitchen Tools Pay for Themselves",
+        "title": "I Ditched These Kitchen Tools After Baking Professionally — Here’s Why",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "I Was a Chef for a Decade, and These Are the Non-Toxic Kitchen Tools I Recommend Above All Others",
+        "title": "How Florida's Stablecoin Bill Mirrors 'Big Brother' Tools Outlawed Under Ron DeSantis' CDBC Ban",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "12 Milwaukee Tools Under $50 Worth Adding To Your Collection",
+        "title": "5 niche Milwaukee power tools (and what they're used for)",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Tools to glimpse how “helicity” impacts matter and light",
+        "title": "6-Piece Blending Stumps And Tortillions Set",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Four Tools Hidden Inside One Aluminum Pen Light",
+        "title": "The Solar Industry Has Been Bogged Down by Red Tape. Digital Tools Are Changing That.",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773481999.555826,
+    "cached_at": 1773601986.4025903,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "92ad7a04052f3c14b23389817cda9215b8114296c6bad566e117afe5cafcbd04": {
     "data": [
-      {
-        "title": "HODIO, así es la herramienta con la que España busca medir el odio en plataformas digitales | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/hodio-asi-es-la-herramienta-con-la-que-espana-busca-medir-el-odio-en-plataformas-digitales"
-      },
-      {
-        "title": "Google is using old news reports and AI to predict flash floods | TechCrunch",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/"
-      },
       {
         "title": "The biggest AI stories of the year (so far) | TechCrunch",
         "source": "exa",
@@ -1167,14 +1153,28 @@
         "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/"
       },
       {
-        "title": "Canva’s new editing tool adds layers to AI-generated designs | The Verge",
+        "title": "Archive for March 2026 - Page 15 | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta"
+        "url": "https://on.theverge.com/archives/2026/3/15"
+      },
+      {
+        "title": "La NASA fija el 1 de abril para lanzar Artemis II, la histórica misión tripulada de sobrevuelo lunar | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/nasa-1-abril-lanzamiento-artemisii"
+      },
+      {
+        "title": "Digg lays off staff and shuts down app as company retools | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/"
       }
     ],
-    "cached_at": 1773482000.028033,
+    "cached_at": 1773601986.9958446,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
