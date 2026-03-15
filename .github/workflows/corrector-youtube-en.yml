@@ -34,6 +34,8 @@ jobs:
       - name: "QA Editor — YouTube (EN)"
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MODELS_TOKEN_CEU: ${{ secrets.MODELS_TOKEN_CEU }}
+          TOKEN_MODELS: ${{ secrets.TOKEN_MODELS }}
           OPEN_CORRECTOR_API_KEY: ${{ secrets.OPEN_CORRECTOR_API_KEY }}
           CORRECTOR_HF_API_KEY: ${{ secrets.CORRECTOR_HF_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}

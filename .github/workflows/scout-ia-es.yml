@@ -27,6 +27,8 @@ jobs:
       - name: Run Trend Scout (ES)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MODELS_TOKEN_CEU: ${{ secrets.MODELS_TOKEN_CEU }}
+          TOKEN_MODELS: ${{ secrets.TOKEN_MODELS }}
           EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
           OPENROUTER_SCOUT_KEY: ${{ secrets.OPENROUTER_SCOUT_KEY }}
           HF_SCOUT_API_KEY: ${{ secrets.HF_SCOUT_API_KEY }}
