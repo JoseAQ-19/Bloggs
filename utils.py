@@ -114,7 +114,7 @@ class ContentCleaner:
         """
         Purger de metadatos JSON crudos y artefactos de IA.
         Garantiza que NINGÚN JSON se filtre en el body del artículo a menos que esté en un <script>.
-        Usa conteo de llaves para manejar correctamente bloques JSON anidados (FAQPage, etc).
+        Maneja JSONs anidados mediante balanceo de llaves.
         """
         if not text:
             return text
@@ -122,36 +122,34 @@ class ContentCleaner:
         # 1. ELIMINAR bloques <script> de JSON-LD (Ahora gestionados por layouts/partials/schema.html)
         text = re.sub(r'<script type="application/ld\+json">.*?</script>', '\n\n', text, flags=re.DOTALL | re.IGNORECASE)
 
-        # 2. ATAQUE NUCLEAR con conteo de llaves: eliminar bloques JSON que contengan @context o @type
-        # Detecta el inicio de un bloque JSON suelto (línea que solo tiene "{")
-        result_lines = []
-        lines = text.split('\n')
-        i = 0
-        while i < len(lines):
-            stripped = lines[i].strip()
-            if stripped == '{':
-                # Recopilar el bloque completo contando llaves
-                block_lines = [lines[i]]
-                depth = 1
-                j = i + 1
-                while j < len(lines) and depth > 0:
-                    depth += lines[j].count('{') - lines[j].count('}')
-                    block_lines.append(lines[j])
-                    j += 1
-                block_text = '\n'.join(block_lines)
-                # Solo eliminar si es JSON-LD (contiene @context o @type)
-                if '@context' in block_text or ('"@type"' in block_text and '"@' in block_text):
-                    # Saltar el bloque, reemplazar con línea vacía
-                    result_lines.append('')
-                    i = j
-                    continue
-                else:
-                    result_lines.append(lines[i])
-                    i += 1
-            else:
-                result_lines.append(lines[i])
-                i += 1
-        text = '\n'.join(result_lines)
+        # 2. Búsqueda de indicios de JSON (@context o @type NewsArticle)
+        # Buscamos el inicio de un objeto { que contenga metadatos pronto
+        json_starts = list(re.finditer(r'\{', text))
+        if not json_starts:
+            return text
+
+        # Procesar desde el final hacia el inicio para no romper los offsets
+        for start_match in reversed(json_starts):
+            start_pos = start_match.start()
+            # Mirar los próximos 200 caracteres para ver si es metadato
+            snippet = text[start_pos:start_pos+300]
+            if '"@context"' in snippet or '"@type"' in snippet:
+                # Intentar recolectar el bloque balanceado
+                depth = 0
+                end_pos = -1
+                for i in range(start_pos, len(text)):
+                    if text[i] == '{': depth += 1
+                    elif text[i] == '}': depth -= 1
+                    
+                    if depth == 0:
+                        end_pos = i + 1
+                        break
+                
+                if end_pos != -1:
+                    # Validar si el bloque recolectado realmente parece JSON-LD fugado
+                    block = text[start_pos:end_pos]
+                    if '@context' in block or '"@type"' in block:
+                        text = text[:start_pos] + "\n\n" + text[end_pos:]
 
         # 3. Eliminar posibles encabezados markdown de la IA sobre el JSON
         text = re.sub(r'(?i)\*\*JSON-LD:\*\*.*?\n', '', text)

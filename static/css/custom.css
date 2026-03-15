@@ -103,6 +103,10 @@
 .theme-viral .white-70,
 .theme-viral .white-60,
 .theme-viral .white-40,
+.theme-viral p,
+.theme-viral li,
+.theme-viral strong,
+.theme-viral em,
 .theme-viral .nested-links.white,
 .theme-viral .nested-links.white *,
 .theme-viral .nested-copy-line-height p,
@@ -985,10 +989,15 @@ table {
     /* Fitness Theme: neutralize desktop skew and orange border-left on mobile */
     .theme-fitness article.glass-card {
         transform: none !important;
-        border-left: none !important;
-        border: 1px solid rgba(255, 95, 31, 0.3) !important;
+        border-left: 2px solid #FF5F1F !important; /* Flat but present */
+        border-right: none !important;
+        border-top: none !important;
+        border-bottom: none !important;
         width: 100% !important;
         max-width: 100% !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        padding-left: 1rem !important;
     }
 
     /* TYPOGRAPHY: Avoid text cut-off */
@@ -1008,6 +1017,17 @@ table {
     .nested-copy-line-height.f4 {
         font-size: 1.05rem !important;
         padding: 0 5px !important;
+        word-break: break-word !important;
+    }
+
+    /* NUCLEAR GUARD: Ensure titles NEVER overflow even if they are long strings */
+    .f1, .f2, h1, h2 {
+        font-size: clamp(1.3rem, 7vw, 1.8rem) !important;
+        line-height: 1.2 !important;
+        word-break: break-word !important;
+        overflow-wrap: break-word !important;
+        max-width: 100% !important;
+        display: block !important;
     }
 
     /* --- HERO FIX --- */
