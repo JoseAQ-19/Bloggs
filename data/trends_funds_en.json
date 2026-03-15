@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-14T07:55:05.579941+00:00",
-  "total_candidates": 23,
+  "scouted_at": "2026-03-15T07:20:33.608383+00:00",
+  "total_candidates": 20,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar Downgrades $850 Million Hartford Fund: Is Subadvising to Blame?",
+      "title": "How to Pick an S&P 500 Fund",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Target-Date CITs Outperforming Mutual Funds: Are They the Better Retirement Choice?",
+      "title": "Berkeley Group: Guidance Maintained but Wary of Impact From War in the Middle East",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "SEC Greenlights ETF Share Classes: Will Dimensional Fund Advisors Lead a Mutual Fund Revolution?",
+      "title": "Target-Date CITs Continue to Surpass Mutual Funds",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -56,14 +56,9 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYRVdRUmtuRnFOY0xMbXU4c0JwTC1WQzctMk9POG1SUVh0YzZfaFNOU1IyNU5tMGZtaWttb2U3S2V5MzY0bGVWWFBELVBFMXFsa09DOVdTWmJ1ZGRJaXhOVzVNZVBCUk1s?oc=5"
     },
     {
-      "title": "With Intelligence Honors Thornburg with Two 2026 Mutual Fund & ETF Awards",
+      "title": "Berkeley Group: Guidance Maintained but Wary of Impact From War in the Middle East",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc040cThHZGpUN1h4UUFiOFp6dl9EVTJWQzhrTmFsT2l1UDFxNTZ1Y1VZcTdJRkF2OUstOXJVMGFUZ1dMQXRBd3Y0a1VsOEZvWjloeklRVW5QemE4R0FmMzJTNGd3Y2pqb0xjZzhCenByOVlickM5R3pCZ2psNk1lWWdnMXZmZkFHZHdpNDNuUU1VcU9VR2w5cl83SUV1Y0pHMEhoV3lXV3ZhVWkxR1VPLWNWdk50cjJwSVFiZDBQU3JzU0Y5dWppSTlFbWc?oc=5"
-    },
-    {
-      "title": "Target-Date Funds Continue Their Rapid Rise",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYkVRSHBVYzVQZ0Z4YTJrTjVJam5QN0ZqWkJzekE3X1Z1TWdTdnI2bkcyVEVpdDVLTWliVVJoRnRlblF4bi1obzNTbDViY1BtSDRQcG5wanRTODh3M2dtbW9NX0s0UXMxWTNmMmZBV1BUX3AzVUJtZFF4LXVzT0d4ZEd6bw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkcwZzZ3YXNlaVp6dm5SNU9FSTh5WDBtVGttUlBwYmJ4QllTMHNjeDRPZzZDMC12YWtYdFF2NFJJTHl3TWFKOFp4X01ETjNGS1U5MkRVblNlOWdaVzdpM2daUmNPY1dnZWZIdVRFR2VOcWs1SUwxZFlUQWNBUXYwSi1jR1hpbFF6T2dlbmJRQ3l3Q1NwUDk0SzdHRUVFWXdCZ1dxaVJaeXI2QQ?oc=5"
     },
     {
       "title": "Target-Date CITs Continue to Surpass Mutual Funds",
@@ -71,19 +66,19 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUlAtTHlqd04zdG5EOUhMek1PeVk0TS1UY3VGVjFvQ3FLTVVrSE93UDNPZG1fdnc3dmM1M2lSc1VpU1FkYlp6M3ozU3ozdU93aVl0dVB1NGVHbWFQM2t0LTBJQjlOVXkyTE5IVktObzE4UjZKS21tRlhJRXdmMlpyb1FwSkM?oc=5"
     },
     {
-      "title": "Morningstar downgrades $850m subadvised Hartford fund",
+      "title": "Does SpaceX’s Sky-High Valuation Make Sense?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVmphYUE4TGNmcGlOclFUYVpuTWxkblA0eFlGOFY3NF9UdVZIVVlHVTdJTGtCLWtOQVhyZFBKcU8yMUlOUWc2dWRvWlhjTDhGU21Fb3ZyUGhCM1hfN1AwTXp2dnAzbmVTbnBmdGhyLUdsUENHd1JEMHZ3ckxvWVBGWXhHQ3poUUJhYkNhUEtCVE1ESWNKWnJ3VGhSRE5Edw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXk5RG9CNTBTSFBLX3B2Y0Qxemo2X0Y2Y2Q4aWVjVjRlMmJJZl9HTk1MS2V1YTBjV1RlUHZhODR4TlpOOWR4MUhnNXdQT1hoS29WUDVTd3NMb05HRnBGRS1tcVV6WDBSUXA1RjZWdW9qejl5cnpjbHdmY0VaM3R0UVYzUG5YSFk5cmRxREZmbw?oc=5"
     },
     {
-      "title": "Berkeley Group: Guidance Maintained but Wary of Impact From War in the Middle East",
+      "title": "Hale Capital Partners Acquires APEX Analytics (formerly Voxtur Analytics), Expanding Strategic Investment in Real Estate Technology and Analytics",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkcwZzZ3YXNlaVp6dm5SNU9FSTh5WDBtVGttUlBwYmJ4QllTMHNjeDRPZzZDMC12YWtYdFF2NFJJTHl3TWFKOFp4X01ETjNGS1U5MkRVblNlOWdaVzdpM2daUmNPY1dnZWZIdVRFR2VOcWs1SUwxZFlUQWNBUXYwSi1jR1hpbFF6T2dlbmJRQ3l3Q1NwUDk0SzdHRUVFWXdCZ1dxaVJaeXI2QQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPeVpsUUo0WE01eTM0ZzlQOG9oUnZBTS1ES0RoN1RVeEFEdjZ3LURCNFpqZzVwYlJpV2JnT3g3OV9HX09XVFBzVE43VHA2UXZiT1NYQ2RfMTlsYkpiRUhYaWQwdWJsZnpuRTlLLWk2MEl2VHpOZS01MC0yQjFhYmMwQTBWQURNZWw2cXBLWnpKdm5jOWd6RGJnWnhqUkVudS1SSmU2RHh5Wnk1ZWowb2Q3MEQtSE1tSVdzS3JfMHVrM0hjZ3VaVHRRTU5oVnNRSHpSeHB6bzZBVWROSks4QmlwaWJHWnRxOGdDLWlPT2kydVUyRVNibVNheDVXNDhyNklZdFFaWWlrd09WZmpxU2dackg0SUt2ZjVTUXkxRG1XeFF2a2ZWUTRiQ2RGVQ?oc=5"
     },
     {
-      "title": "More Employers Than Ever Are Contributing to Workers' 401(k) Plans",
+      "title": "Iranian Escalation Heightens the Risk of $100-Plus Brent Oil Soon; Long-Term View Unchanged",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZnA5T2Ywc1pacnlEVWxaLVlSTGhVSnJlY1VKd0RYV1cySTBoYXFkVm5pRDBSNi0xdVFsOG5kamZqUWNZTHl0NHVvM2ZMSmVfbUNsZ0p1em5jeGNmTjJNcHVFSFZWc1ZaTVdlSjI1ZmNqSzdxRkxPeTVmLW16QXJtcHJZb0hRZnBrYzR3b3RvX092TUMxck9udlB3WWJoT2tFOVIxYUR5QmF1ck5naU9XaDNiOTFBRDdpbmZMZlRjeXJrUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0hlbzh0OGZ6YjRtQmpLSWhiYlJBWmxkR1BLVHlrLWpad3ZSRzVtY0p4ei1PaHJWS0ZUdHBLamtkdzJ5ZVFUR0tmVkpYS21aRXNOWW5EbDhudXp3ZnJsYlZmQ2YxenR2a2c0RkxaRUd5MjZWSmpKSTU1UlVfU3N6ZEhIS1FUNE0zbERleFNpVzlNeXk0RnZHTGVNcEFUQ0p2MGtudzc1eEJRQWg2bUtpYl9HY0lMZUIzUzZiMzR5MGpNcUpX?oc=5"
     },
     {
       "title": "6 Best Mutual Funds to Invest in 2026",
@@ -91,24 +86,14 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTBQR3hTLW1DdTZaOVFOUHZUZGl6djNwTGhvWjAzZkg3TnFOb3QzOGdPbGV3b3R5cXNoSlVzVlZQeWFSSnpOWEFKeGFCYTRMcVpGdFdrcVRFd0N0Y09XUTlkdHprMmZ5M2o5emtLamVsdGRKQ0tpdlNyVXo0TFFjeEFxY24yR0VxTDBhZQ?oc=5"
     },
     {
+      "title": "RSP vs. VOO: Choosing the Best Way to Invest in the S&P 500",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95NEpsWGs1TjdnNkZnUkctVTh5VTJXc1J0djlWVnhhZ1VjM0EzaUJ2SXFSTWdwZ3cyNFVvSlB4bGx4N05xaXFPQ3RSYjZCRUhvd3c4MlZJSURqVkRsN0lTaldRd1ppZzlYQnVjRFRmclhsbnZrRWhr?oc=5"
+    },
+    {
       "title": "The Best Global Equity Funds and ETFs to Buy",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTNZc3VkNGhRdmpWekZtUTFqTFBCc0FZRlBEdTAtTjJNRDYzWlVqLUdoZmxKR0dQd2RnUkxvaDY5ekViU2VZZ0NZaFR4RXZRUzV5MG1KTEQzYzVvc1VSVmNaZ3JvWS00WXRyWk5sVHMyZW9sOHN3WVJZNlNWY1ZKYjRn?oc=5"
-    },
-    {
-      "title": "7 of the Best Growth Funds to Buy and Hold | Investing | U.S. News",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVmdGY2oyN2JKV3lpRTUyVVZITDk3RGlKcE9yQmlxNWNSZ0pxYjJZdFJyYmpNTk4xMlFlYTc4RnA5SDR0LXJ1RWwzS2NsdXc3cFhWQk9xclhTU1JqaFlIWm9CYl8wcXBfdGp4R1ZUOU1LTlJhRTRHOGVINGEweXJYbkExaw?oc=5"
-    },
-    {
-      "title": "20 Years to Retirement? These 3 ETFs Could Make You Rich",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YbmVFS3ZCNVZmZTFvckR2dlpJd3hKZ2tZZGFVTG1jQVlucU5ETlJNWXdJalMxSlUxYTZOajFHRk5ZT0drajNaTGI2TDBPQ002Wk9VX3hRVVRYV0R5dFFvcUw0MVZJd1hqOGR1dmxEZlc4eE5aTUJaQk53?oc=5"
-    },
-    {
-      "title": "Alternative Investment Fund Leaderboard",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fZ2YyblFCUnNTemxDaTM0YW5BUU8tUzhVLTctYnBSclpSZUpQa193SGlKNTI2X1JIYlRJMi1SUll6SldnYkxrWWdBZXFJeVRyZUZHRk05bDhQTlNOZE5BRnpnNlN5Q0JBMG9EeENpaEo4T2EwQVE?oc=5"
     },
     {
       "title": "Best Mutual Funds: News, Performance Reports And Investing Ideas",
@@ -116,37 +101,52 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGh3UmNfU0JQZ2thTDdMbjBhbzVBS01uWWo5aXYxYUE2eHZVVV9yT0hJT2Z6TXY3czdXX1R1QlFZd3h5S0tYTE5UVUVqSFU5cWFtZFJxY3VGa01HT3BUZ3FqS1NkeTFYNEZKdnZWX1BCYUhzRDkzWlg4ZVNjMzFYVmgzd1luU1ZOQnRkYlBJamRFWnYxU0hORjMxM09WUHVuczktZ3M1cHh1cGhuaEI2elBLTQ?oc=5"
     },
     {
+      "title": "Alternative Investment Fund Leaderboard",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fZ2YyblFCUnNTemxDaTM0YW5BUU8tUzhVLTctYnBSclpSZUpQa193SGlKNTI2X1JIYlRJMi1SUll6SldnYkxrWWdBZXFJeVRyZUZHRk05bDhQTlNOZE5BRnpnNlN5Q0JBMG9EeENpaEo4T2EwQVE?oc=5"
+    },
+    {
+      "title": "1 S&P 500 ETF to Buy With $1,000 and Hold Forever",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrY2FjT3BYZHhJNlVWV1hIRHM3aEh3eFZEU29BTE55X1B4RVVxQUJjcmNoamg4SElKUmtxLTl5LWZ4NXVDQlM3RGhNZm5FSEN4SU5rck0ySGJPOHdLcVVTSHE0aXJOWER2N0xR?oc=5"
+    },
+    {
+      "title": "Could This International ETF Be One of the Best Investments of 2026?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdi1iT1lrQlhMRTBBNXhHbzdSODVOMUNmU2wzLVZtVkJtUFpMVDk2b09vR3NXSTI2WHo4OHNzallwbFBrWHhPZXk5YTMxV0ozbW1sSFNHdGhURmFnNW5DUXBMSlZPSVVFclJsN3N2NXhXeldibUU4eVRjNHBxbV9sODh1aWNnMFRUOVJZZ2ZqVExuUVRSY0Exeg?oc=5"
+    },
+    {
       "title": "The 3 Best Dividend ETFs to Buy Every Time the Market Dips",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjFKRFFGS3dyNHRDRV9fLUNCWVlhSjBTSFhfVTZrN3hfa1B4ZXM3T3NJSkc5c1VIdHJkT2t2NWFBQkpWSzNnenVrWm9HSWNOWTdzZXFubWNQSDdLVFdpTkt6am91SGdmcXFRNkkyQ0hLQndVSmxSQ1l1b1hXaVFRZmxFcnBjSm44cms3QXZjYlNzbVhvZkFld2VOd2kxS2gwX04yYg?oc=5"
     },
     {
-      "title": "Harbor Diversified International All Cap Fund Q4 2025 Commentary (HAIDX)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWXVsQkpJQWhwN000MXBkX0ZoNmZSQ3VnMGVTNS0yODBhWmtTanB0b2xjNXZOc2laQThTREJ2VERKblNSS1JqakpkQ3czOGhUM295Tk9MdTJWZW9iQV9vX3NNVnBUalJBd3E1SlFVa2kwZ3pxMXJYX2RSUVBwc3hWeXYtd1V5ZEp1S2EyRTJGcFJULVVrZWFkMUpaR29Hek5TNlV4NXkzbWk?oc=5"
-    },
-    {
-      "title": "7 of the Best Growth Funds to Buy and Hold | Investing",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVmdGY2oyN2JKV3lpRTUyVVZITDk3RGlKcE9yQmlxNWNSZ0pxYjJZdFJyYmpNTk4xMlFlYTc4RnA5SDR0LXJ1RWwzS2NsdXc3cFhWQk9xclhTU1JqaFlIWm9CYl8wcXBfdGp4R1ZUOU1LTlJhRTRHOGVINGEweXJYbkExaw?oc=5"
-    },
-    {
-      "title": "Who Owns Warner Bros?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0UnNjdGM4LUwtS2VLbFBsVndhSmhjYWYzQll6WjJuM1NLQ2g1Ynp0ejlMVWxFNjk4eDZtMUVqOE5vTThCeDZKV3kzZGFpX0d1QUdTQVQxSVBTemk5ZUFNU3JFRS05ckw3djBvQng0UFVwNXpJNWtzU0w1Tld5QQ?oc=5"
-    },
-    {
-      "title": "Total estimated outflows from long-term mutual funds were $17.14 billion for the week ended March 4, 2026.",
+      "title": "BlackRock's iShares Bitcoin Trust (IBIT) sees $115 million in net inflows on March 11, while the new iShares Staked Ethereum Trust (ETHB) launches on Nasdaq with 70-95% of ether holdings staked via Coinbase Prime, yielding approximately 3.1% annually for investors.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard Russell 2000 ETF (VTWO) is up 4.3% YTD in 2026, outperforming the S&P 500.",
+      "title": "Amundi launches Europe's first global ex-US government bond ETF (GXUS) with a 0.20% TER, tracking the Bloomberg Global Treasury Large Markets DM ex US index, with top country weightings in Japan (19.3%), France (14.2%), and Italy (13%).",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "SEC approves ETF share classes for mutual funds, potentially reducing capital gains taxes for US investors. Dimensional Fund Advisors received SEC approval to launch ETF share classes on 13 of its existing mutual funds.",
+      "title": "Global gold ETF holdings reach an all-time high of 4,171t, with AUM at a record US$701bn in February, as North America inflows dominate while Europe sees US$1.8bn in outflows due to early-month redemptions.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "US-listed ETFs experience $186.6 billion in net inflows in February, bringing total ETF AUM to $14.1 trillion, with equity ETFs accounting for $107.3 billion of the inflows.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "The S&P 500 is down 3.1% YTD, with the \"Magnificent Seven\" stocks lagging with a -7.3% return in February amidst rising AI-related capital expenditure concerns, while energy stocks surge 25% to start the year.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Morningstar will withdraw Medalist ratings based on algorithm-driven pillars in Australia from March 31, 2026, reverting to qualitative analysis and introducing a Morningstar Medallist Rating Price Score from –2.5 to 2.5 to reflect the impact of fees.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
