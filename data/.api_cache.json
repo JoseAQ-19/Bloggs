@@ -293,77 +293,77 @@
   "6b917a81fd9eedfed0c8175dfe38aafa9e90472ee53445d8e4541e481f95984d": {
     "data": [
       {
-        "title": "Canada have gone viral in curling again, this time for all the best reasons",
+        "title": "Bengals QB Joe Burrow’s latest outing goes viral",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Etiquette expert goes viral for revealing the proper way to eat cereal: 'Diabolical'",
+        "title": "Viral Iran Analysis Puts Congressional Candidate Adam Dunnigan in the Spotlight",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Detroit illustrator goes viral for drawing of ‘Sinners’ star Wunmi Mosaku",
+        "title": "2 People Dead, 11 Others ‘Seriously Ill’ amid University Outbreak of Still-Unidentified Virus Strain",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Looking for the viral 'soft-serve margarita?' Several Louisville spots getting ready to launch",
+        "title": "Viral McNeese Student Manager Makes March Madness Return",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Kat Abughazaleh knows how to create viral moments. Can she translate that into votes?",
+        "title": "Former DOGE staffers’ depositions go viral",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773525980.6944199,
+    "cached_at": 1773618187.5761566,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
   "78419185a472eac00403a11a229938d32ad88b963bbfbf48284eb0cbba1ee66b": {
     "data": [
       {
-        "title": "Logran reactivar el cerebro de un ratón congelado por primera vez | WIRED",
+        "title": "La NASA fija el 1 de abril para lanzar Artemis II, la histórica misión tripulada de sobrevuelo lunar | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/logran-reactivar-el-cerebro-de-un-raton-congelado-por-primera-vez"
+        "url": "https://es.wired.com/articulos/nasa-1-abril-lanzamiento-artemisii"
       },
       {
-        "title": "¿Qué acabó con los dinosaurios? No fue el meteorito, exactamente | WIRED",
+        "title": "Trump administration is collecting $10 billion on the TikTok deal | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/que-acabo-con-los-dinosaurios-no-fue-el-meteorito-exactamente"
+        "url": "https://theverge.com/policy/895039/trump-10-billion-tiktok"
       },
       {
-        "title": "Disney+ is rolling out its TikTok-like 'Verts' short-form video feed | TechCrunch",
+        "title": "Cumprindo requisitos do ECA, Riot anuncia processo de verificação de idade em League of Legends e outros jogos; menores de 18 não poderão mais acessar suas contas",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/12/disney-is-rolling-out-its-tiktok-like-verts-short-form-video-feed/"
+        "url": "https://br.ign.com/league-of-legends/151546/news/cumprindo-requisitos-do-eca-riot-anuncia-processo-de-verificacao-de-idade-em-league-of-legends-e-out"
       },
       {
-        "title": "The FBI is investigating malware hidden inside games hosted on Steam | TechCrunch",
+        "title": "Instagram is getting rid of end-to-end encrypted DMs that ‘very few’ people used | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/13/valve-steam-malware-games-fbi/"
+        "url": "https://www.theverge.com/tech/894752/instagram-end-to-end-encryption"
       }
     ],
-    "cached_at": 1773525981.2621212,
+    "cached_at": 1773618188.0981333,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
