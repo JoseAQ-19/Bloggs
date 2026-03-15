@@ -1531,7 +1531,7 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
     # Agregar Footer Links y JSON-LD al contenido
     contenido_enrich = contenido.strip() + internal_links_footer + "\n\n" + json_ld.strip()
 
-    # Frontmatter YAML limpio y validado
+    # Frontmatter YAML original
     front_matter = f"""---
 title: "{clean_title}"
 date: {date_str}
@@ -1544,13 +1544,35 @@ type: "{category}"
 language: "{lang}"
 translationKey: "{translation_key}"
 ---
-
-![{meta['titulo'].replace('"', '')}]({imagen})
-
-{contenido_enrich}
 """
+    
+    # VALIDACIÓN ESTRICTA DEL YAML ANTES DE GUARDADO (P0)
+    import yaml
+    try:
+        # Aislar bloque YAML y parsear
+        yaml_content = front_matter.strip().strip('-').strip()
+        yaml.safe_load(yaml_content)
+    except yaml.YAMLError as e:
+        print(f"   🚨 [YAML ERROR] Se detectó bloque corrupto: {e}. Auto-regenerando para evitar Ghost Article...")
+        safe_meta = {
+            "title": clean_title,
+            "date": date_str,
+            "draft": False,
+            "description": clean_desc,
+            "featured_image": imagen,
+            "tags": [niche_name],
+            "categories": [category],
+            "type": category,
+            "language": lang,
+            "translationKey": translation_key
+        }
+        yaml_str = yaml.dump(safe_meta, allow_unicode=True, sort_keys=False, default_flow_style=False)
+        front_matter = f"---\n{yaml_str}---\n"
+
+    final_content = f"{front_matter}\n![{meta['titulo'].replace('\"', '')}]({imagen})\n\n{contenido_enrich}\n"
+
     with open(filepath, 'w', encoding='utf-8') as f:
-        f.write(front_matter)
+        f.write(final_content)
     print(f"✅ Guardado: {filepath}")
     
     # ⚡ NOTIFICACIÓN FAST-TRACK A GOOGLE INDEXING API

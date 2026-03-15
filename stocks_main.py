@@ -161,7 +161,7 @@ def _save_article(writer_output, lang):
     clean_title = meta['titulo'].replace('"', '').replace('\\$', '$').replace('\\[', '[').replace('\\]', ']')
     clean_desc = description.replace('"', "'").replace('\\$', '$').replace('\\[', '[').replace('\\]', ']')
     
-    # Frontmatter
+    # Frontmatter YAML original
     front_matter = f"""---
 title: "{clean_title}"
 date: {date_str}
@@ -174,14 +174,34 @@ type: "funds"
 language: "{lang}"
 translationKey: "{trans_key}"
 ---
-
-![{meta['titulo'].replace('"', '')}]({imagen})
-
-{content}
 """
     
+    # VALIDACIÓN ESTRICTA DEL YAML ANTES DE GUARDADO (P0)
+    import yaml
+    try:
+        yaml_content = front_matter.strip().strip('-').strip()
+        yaml.safe_load(yaml_content)
+    except yaml.YAMLError as e:
+        print(f"   🚨 [YAML ERROR] Se detectó bloque corrupto: {e}. Auto-regenerando seguro...")
+        safe_meta = {
+            "title": clean_title,
+            "date": date_str,
+            "draft": False,
+            "description": clean_desc,
+            "featured_image": imagen,
+            "tags": ["Funds & Stocks"],
+            "categories": ["funds"],
+            "type": "funds",
+            "language": lang,
+            "translationKey": trans_key
+        }
+        yaml_str = yaml.dump(safe_meta, allow_unicode=True, sort_keys=False, default_flow_style=False)
+        front_matter = f"---\n{yaml_str}---\n"
+
+    final_content = f"{front_matter}\n![{meta['titulo'].replace('\"', '')}]({imagen})\n\n{content}\n"
+
     with open(filepath, 'w', encoding='utf-8') as f:
-        f.write(front_matter)
+        f.write(final_content)
     
     print(f"   ✅ Guardado: {filepath}")
     print(f"   🔑 Translation Key: {trans_key}")
