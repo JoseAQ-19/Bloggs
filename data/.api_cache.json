@@ -137,79 +137,43 @@
     "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
   "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
-    "data": [
-      {
-        "title": "SPAR Fit Fest kicks off at Southern Hills Community Center with free fitness and health resources",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "11 Fitness: Advice from an expert on adding resistance to body-weight exercises",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "PLNT Investors Have Opportunity to Join Planet Fitness, Inc. Fraud Investigation with the Schall Law Firm",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Running: Kingston and Ulster County YMCA offers more bang for your fitness ‘buck’",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "The New Home Gym: Fitness Experts Say \"Recovery Zones\" Will Be Huge in 2026",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      }
-    ],
-    "cached_at": 1773550687.7367048,
+    "data": [],
+    "cached_at": 1773640903.4262602,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "5f74b081c9753b13b48c085df1624d184c9deb4bc34d11178f03bbc18aeae64e": {
     "data": [
       {
-        "title": "Logran reactivar el cerebro de un ratón congelado por primera vez | WIRED",
+        "title": "La NASA fija el 1 de abril para lanzar Artemis II, la histórica misión tripulada de sobrevuelo lunar | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/logran-reactivar-el-cerebro-de-un-raton-congelado-por-primera-vez"
+        "url": "https://es.wired.com/articulos/nasa-1-abril-lanzamiento-artemisii"
       },
       {
-        "title": "¿Qué acabó con los dinosaurios? No fue el meteorito, exactamente | WIRED",
+        "title": "Norda 001A G+ Trail Running Shoe Review: As Expensive as an Apple Watch | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/que-acabo-con-los-dinosaurios-no-fue-el-meteorito-exactamente"
+        "url": "http://www.wired.com/review/norda-001a-g-trail-shoe/"
       },
       {
-        "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating | TechCrunch",
+        "title": "Cumprindo requisitos do ECA, Riot anuncia processo de verificação de idade em League of Legends e outros jogos; menores de 18 não poderão mais acessar suas contas",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/"
+        "url": "https://br.ign.com/league-of-legends/151546/news/cumprindo-requisitos-do-eca-riot-anuncia-processo-de-verificacao-de-idade-em-league-of-legends-e-out"
       },
       {
-        "title": "Microsoft’s Copilot Health can connect to your medical records and wearables | The Verge",
+        "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/tech/893594/microsoft-copilot-health-launch/"
+        "url": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/"
       }
     ],
-    "cached_at": 1773550688.2368183,
+    "cached_at": 1773640904.0535665,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
