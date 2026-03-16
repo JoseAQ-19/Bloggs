@@ -984,54 +984,47 @@
   "88f30aaa7bab0042d69286b6e1ddf009c9ed8bd38dd824e484b197be702b0cbf": {
     "data": [
       {
-        "title": "The Dinner Detective True Crime Murder Mystery Dinner Show – Cedar Rapids, IA",
+        "title": "AI (artificial intelligence)",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "2026 Prep Baseball Iowa Preseason All-State: Blast Metrics",
+        "title": "IA Urges Fund Managers to Plan for UK Crypto Assets Regime",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Bikini Top Elomi Swim Ia Underwired Sweetheart",
+        "title": "Hourly Weather Forecast for Pleasant Prairie, IA",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Eleanor Groth Obituary",
+        "title": "2026 IHSAA (IA) State Championship",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Larry Wayne Robinson Obituary (2026)",
+        "title": "Wayne Fink Obituary (1937",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773574803.2980366,
+    "cached_at": 1773661614.6410487,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
   "5ed87e0a555e160d6f2e7a9ad4294ea2283b3cea14c5520f93b58951f9855102": {
     "data": [
-      {
-        "title": "Google Maps is getting an AI 'Ask Maps' feature and upgraded 'immersive' navigation | TechCrunch",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation"
-      },
       {
         "title": "The biggest AI stories of the year (so far) | TechCrunch",
         "source": "exa",
@@ -1040,21 +1033,28 @@
         "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/"
       },
       {
-        "title": "Google Maps is getting AI-powered ‘Ask Maps’ feature and more immersive navigation | The Verge",
+        "title": "La NASA fija el 1 de abril para lanzar Artemis II, la histórica misión tripulada de sobrevuelo lunar | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation"
+        "url": "https://es.wired.com/articulos/nasa-1-abril-lanzamiento-artemisii"
       },
       {
-        "title": "Google is using old news reports and AI to predict flash floods | TechCrunch",
+        "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods"
+        "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/"
+      },
+      {
+        "title": "China’s OpenClaw Boom Is a Gold Rush for AI Companies | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/"
       }
     ],
-    "cached_at": 1773574803.7275507,
+    "cached_at": 1773661615.6353421,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
