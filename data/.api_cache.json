@@ -1138,77 +1138,77 @@
   "6e9c6a02969a5e9b67222353d8954d32f29ac7ffcd642500a8a27decc747f088": {
     "data": [
       {
-        "title": "Todas las casas de Leonardo DiCaprio: así vive el actor de 'Titanic', 'El Renacido' o ‘Una batalla tras otra’",
+        "title": "BTCUSD",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Las carreras mejor remuneradas y más demandadas, según U.S. News.",
+        "title": "Solana Scan: The Best Explorer and Token Scanner Tools for Every Trader",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Las casas de Emma Stone: de la mansión con 10 chimeneas en Nueva York a la finca con piscina, pasando por una casa de campo en Los Ángeles",
+        "title": "Los 5 trucos de decoración que aprendimos de la casa de Jacob Elordi (y que puedes replicar fácilmente)",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Aconity3D releases multi-material welding head for AconityWIRE",
+        "title": "The UMH Science Park and Aspe Organise a Market Analysis Workshop",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Las casas de Timothée Chalamet: del Manhattan en el que creció a su nueva vida en Los Ángeles (y con muy buena compañía)",
+        "title": "Energy Tools y ACE se alían para liderar la gestión energética con tecnología y foco en el dato",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773580742.7193336,
+    "cached_at": 1773668333.4399812,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "d3e0b697eb375d60495f1b6d1f6c436c149ae1e2a919c1ae80263ab8fde1d244": {
     "data": [
       {
-        "title": "Google Maps ya no quiere ser solo un mapa: Gemini acaba de empujarlo hacia algo más ambicioso",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/aplicaciones/google-maps-no-quiere-ser-solo-mapa-gemini-acaba-empujarlo-algo-ambicioso"
-      },
-      {
-        "title": "Qué es Antigravity, cómo funciona y qué puedes hacer con la IDE con inteligencia artificial de Google",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/basics/que-antigravity-como-funciona-que-puedes-hacer-ide-inteligencia-artificial-google"
-      },
-      {
-        "title": "Google Maps cambia para siempre: recibe su mayor actualización en más de una década y revela las nuevas opciones para navegar - Meristation",
+        "title": "Ni Tokio ni Shanghái: esta es la ciudad futurista que pasó de cien mil habitantes a repartir comida en drones  - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.as.com/meristation/betech/google-maps-cambia-para-siempre-recibe-su-mayor-actualizacion-en-mas-de-una-decada-y-revela-las-nuevas-opciones-para-navegar-f202603-n/"
+        "url": "https://as.com/actualidad/ciencia/ni-tokio-ni-shanghai-esta-es-la-ciudad-futurista-que-paso-de-cien-mil-habitantes-a-repartir-comida-en-drones-f202603-n/"
       },
       {
-        "title": "Amazon actualiza Alexa a su versión Plus con cuatro nuevas personalidades",
+        "title": "Adiós a Starlink: así es el sistema satelital ruso que planea cambiar el curso de la guerra - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/big-tech/amazon-actualiza-alexa-su-version-plus-con-cuatro-nuevas-personalidades-incluida-una-para-adultos_6945733_0.html"
+        "url": "https://as.com/actualidad/politica/adios-a-starlink-asi-es-el-sistema-satelital-ruso-que-planea-cambiar-el-curso-de-la-guerra-f202603-n/"
+      },
+      {
+        "title": "Adiós al iceberg A23a: fue el más grande del mundo y ahora le quedan semanas de vida - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/actualidad/ciencia/adios-al-iceberg-a23a-fue-el-mas-grande-del-mundo-y-ahora-le-quedan-semanas-de-vida-f202603-n/"
+      },
+      {
+        "title": "Fallas de Valencia 2026: horarios, fechas, mascletàs y cuándo es la Cremà - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/tikitakas/ocio/fallas-de-valencia-2026-horarios-fechas-mascletas-y-cuando-es-la-crema-f202603-n/"
       }
     ],
-    "cached_at": 1773580743.482905,
+    "cached_at": 1773668334.0489407,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
