@@ -593,42 +593,42 @@
   "9ee96a29d2849810b096fb4ad7845a44fb015972f3144c10f16e0a281e09fb7c": {
     "data": [
       {
-        "title": "After 5 years, our family gave up full-time travel and YouTube success. I'm still worried we've messed up the kids.",
+        "title": "'Harming babies': Child safety group blasts Google's investment in AI content for kids",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "In Texas, an Unyielding Gun Culture Jumps Off YouTube and Into Politics",
+        "title": "YouTube Golf Power Rankings: Mid-March Update",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Celebrating the skill of stunt performers on YouTube",
+        "title": "Work With Us: YouTube Manager",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "5 Best Free YouTube Movies to Stream Right Now (March 2026): ‘The Mask of Zorro’ and More",
+        "title": "There's an easy way to skip YouTube's new unskippable ads, but you may not like it",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Music Reviews: Talking Heads’ ‘Tentative Decisions,’ plus Mississippi Sheiks, Jesper Lindell, and James Houlahan",
+        "title": "YouTube Declared the ‘New King of Media’—Here’s Why",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773607321.9277668,
+    "cached_at": 1773682432.8407679,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
@@ -642,28 +642,28 @@
         "url": "https://www.theverge.com/streaming/894637/youtube-thumbnails-just-got-an-upgrade"
       },
       {
-        "title": "La NASA fija el 1 de abril para lanzar Artemis II, la histórica misión tripulada de sobrevuelo lunar | WIRED",
+        "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/nasa-1-abril-lanzamiento-artemisii"
+        "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/"
       },
       {
-        "title": "The Verge",
+        "title": "Facebook makes it easier for creators to report impersonators | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://store.theverge.com/streaming/894637/youtube-thumbnails-just-got-an-upgrade"
+        "url": "https://techcrunch.com/2026/03/13/facebook-makes-it-easier-for-creators-to-report-impersonators/"
       },
       {
-        "title": "Spotify will let you edit your Taste Profile to control your recommendations | TechCrunch",
+        "title": "Cumprindo requisitos do ECA, Riot anuncia processo de verificação de idade em League of Legends e outros jogos; menores de 18 não poderão mais acessar suas contas",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/"
+        "url": "https://br.ign.com/league-of-legends/151546/news/cumprindo-requisitos-do-eca-riot-anuncia-processo-de-verificacao-de-idade-em-league-of-legends-e-out"
       }
     ],
-    "cached_at": 1773607322.4541724,
+    "cached_at": 1773682433.2056978,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
