@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-16T07:33:49.995600+00:00",
+  "scouted_at": "2026-03-16T17:41:54.848155+00:00",
   "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos Indexados 2026: ¿Cuáles superan el 10% de rentabilidad en el último año?",
+      "title": "Fondos Indexados 2026: ¿Cuáles superaron el mercado con un rendimiento del 15%?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Invertir en Renta Fija: ¿Qué bonos ofrecen el mejor rendimiento en un entorno de tipos en alza?",
+      "title": "Invertir en Renta Fija: ¿Qué bonos ofrecen un 3% de rendimiento real en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Oportunidades y amenazas en el Sector Farmacéutico: Comparativa de fondos que han duplicado su inversión en 2025.",
+      "title": "Oportunidades en el Sector Farmacéutico: Los 5 fondos que han crecido un 20% a pesar de las amenazas.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
