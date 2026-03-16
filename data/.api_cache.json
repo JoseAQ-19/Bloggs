@@ -1061,42 +1061,42 @@
   "47c2bc6816549fbd4391587ad907de1b4a35f331cc234d17a1e0ece63b6178da": {
     "data": [
       {
-        "title": "I Ditched These Kitchen Tools After Baking Professionally — Here’s Why",
+        "title": "Rolling Out Our New A.I. Tools",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "How Florida's Stablecoin Bill Mirrors 'Big Brother' Tools Outlawed Under Ron DeSantis' CDBC Ban",
+        "title": "Can AI tools help identify next-gen peptide therapeutics?",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "5 niche Milwaukee power tools (and what they're used for)",
+        "title": "Musician Aaron David Ross on misusing the tools you're given",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "6-Piece Blending Stumps And Tortillions Set",
+        "title": "How AI study tools support students",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "The Solar Industry Has Been Bogged Down by Red Tape. Digital Tools Are Changing That.",
+        "title": "California bets on an obscure tool to replace clean air authority Trump revoked",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773601986.4025903,
+    "cached_at": 1773672934.9950845,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
@@ -1117,21 +1117,21 @@
         "url": "https://on.theverge.com/archives/2026/3/15"
       },
       {
+        "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/"
+      },
+      {
         "title": "La NASA fija el 1 de abril para lanzar Artemis II, la histórica misión tripulada de sobrevuelo lunar | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
         "url": "https://es.wired.com/articulos/nasa-1-abril-lanzamiento-artemisii"
-      },
-      {
-        "title": "Digg lays off staff and shuts down app as company retools | TechCrunch",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/"
       }
     ],
-    "cached_at": 1773601986.9958446,
+    "cached_at": 1773672935.483934,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
