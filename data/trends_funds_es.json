@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-15T07:19:28.206823+00:00",
-  "total_candidates": 19,
+  "scouted_at": "2026-03-16T07:33:49.995600+00:00",
+  "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "iShares Core EURO STOXX 50 UCITS (DE): ¿Puede ASML seguir impulsando la subida del 4,4%?",
+      "title": "Fondos Indexados 2026: ¿Cuáles superan el 10% de rentabilidad en el último año?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Optimismo desmedido en gestoras: ¿Crecerá el patrimonio en fondos un 5% como esperan?",
+      "title": "Invertir en Renta Fija: ¿Qué bonos ofrecen el mejor rendimiento en un entorno de tipos en alza?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "CaixaBank líder en fondos: ¿Está la captación de febrero 2026 justificada por el rendimiento?",
+      "title": "Oportunidades y amenazas en el Sector Farmacéutico: Comparativa de fondos que han duplicado su inversión en 2025.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,44 +49,29 @@
   },
   "all_headlines": [
     {
-      "title": "¿Tiene Sentido la Altísima Valoración de SpaceX?",
+      "title": "Mejores plataformas para comprar fondos de inversión 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaXdRZVJncUpLNXB6c3RBc01FbVZJTDR3N1hIUlBmQmYyVXdlUGJOaDlrSWdQcVVBNDMtdzJhM2pPanRBR3dYQXJqRUs2eGVxMzFOYkJnSWxrb01kZUJuYU1xTnVQVWdQM2lNODNWSG1NYzFyV3JLWkNQaEdzU0FER0tKbkFsek04eWtwS2xxTTg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnNsTkpKYkxxYmVjdEM3ZkpJU214X0FSLUhrOUNHbUg1aWRaaGdUSmlwQmZWdWgxVWVfUVF3WXc3dVotSnB4T3RQVllZclNIMkxZbUVEb21ueDMxbDJsTzZjSDJkNHZRaERMNHlXcWRBWlMwUWg3Z3l2MVlpNFB0UWxBQXp2dGREUnQ4MzRfRWoxazRtdmxvTm1qY3VnVmxDX0R3Z3hjM2hJT0Fy?oc=5"
     },
     {
-      "title": "Rotación sectorial en el selectivo y oportunidades: actualizamos valoración fundamental para el Ibex 35 a...",
+      "title": "Mejores plataformas para comprar fondos de inversión 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTVdUbUkwNEtYTzVhSmZTZHJVa2ljeDluOEhNdVp1OXl2X0EzRldiemxqRFpMc0lGZU1ma1ZfdFZNa0ZoTHp2N1FPejBvbHFKM1dCdFc3b2hWZGFDLUE4UzNfaHRGVE1zQkFaNnNRQjlhTlo0LWlYU3Z5VEpYY2dHZTFBVmdzQ3k5YUtGOXA4UXJVRDBMQzdwNUhnNUhTcmszQktmMkpydWtSYko4UmFIR1ZzZVJkNGh2YnhoMDFRTWJvazFvTEU4NUNqWdIBogFBVV95cUxQdHRJQ01RbU9vbm42Rm15YXF4aExGclUzdmlxOGdpdnprM191WUFMSzNfQm4taER0MUdMVWlpZXhMaFRiN19oRWZxWUp6N241NGNhaE1wcWNvd1ZIWlBYMnNNbm54ZWpnMFhITnpDYlYyQ3l6RkxocnNlZzB4RFd5U0Z3U0tUYWRtUHlRLWg5Q29CU0ViekhXd3EyWHpPSU9SMkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnNsTkpKYkxxYmVjdEM3ZkpJU214X0FSLUhrOUNHbUg1aWRaaGdUSmlwQmZWdWgxVWVfUVF3WXc3dVotSnB4T3RQVllZclNIMkxZbUVEb21ueDMxbDJsTzZjSDJkNHZRaERMNHlXcWRBWlMwUWg3Z3l2MVlpNFB0UWxBQXp2dGREUnQ4MzRfRWoxazRtdmxvTm1qY3VnVmxDX0R3Z3hjM2hJT0Fy?oc=5"
     },
     {
-      "title": "Mejores depósitos bancarios a plazo fijo 2026 (marzo)",
+      "title": "Los mejores fondos indexados de 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53V0hhSG1Sc2J5emkyMUVCcWxCcHdYSGZhMWtqNFUtQ3pvZFZoTnlmcWhsaXhwNTc2Z2UxWEZpQ2NlVEljaW9OZjV1bG1XWXdfT2pxNkRMSG5FYVhGdXJmY0pMSkhCMDdEdXNrbzlpTE9xWnc?oc=5"
     },
     {
-      "title": "Los 7 valores del Ibex 35 más baratos por múltiplos para entrar en las \"Rebajas de enero\"",
+      "title": "Invertir en Renta Fija: situación actual y perspectivas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNGExQjNHYUF1U1VQcUVSRFBaTGlkR1g2Z2JFV1RsLVgyakhZeGJsOHJ2ZDFvcHJtMVlZelA2ZGYyRlRPd3loeFluZGk1V2xNcDdmRnVseUdHNlUtMXRlV2R6Sld4aksxbW90ZjdoU1YtdjBqZzBscGo1OTFBX042NTZVeE5VUnI3OW1oeGt2SHlMdnhTZWxrT1RFbnhyTjhfU0dIQ1d5ODFUSHJ6TFZ5bVRvb3ZoS2hNN0JuVXBnM0RrTjhRZHdyZzVXeTEyYjZJYnhrMWhQZGhsRjhKWGZn0gGjAUFVX3lxTE1WQUhWXzJxY2ZVSDJkcGVhSF9HS1VuOUxfenh2UHdfRVY5WVdjVXhhTVZJMmNWc3lSd3dKYzZ1X2pHN084UnFCUWVYWXYtSmFOcmQtQ1dKM21xNjFheUxwbGxaeUxDdWM4MnJrWWxOQTdDXzJxTEFpbk1nZkxKTWdYUENpOFJwTzR4YlN4U2FWaUo4dm1NVnBrd1I2MDdVTVRpaTA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
     },
     {
-      "title": "Los bróker esperan que las acciones de BBVA y Santander suban un 30%",
+      "title": "Invertir en el Sector Farmacéutico: Oportunidades y amenazas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTU5tYTFsZmRFeWFzaFNEVlZDM2JwMTdjdEJWVXNJSEVVdEw4MzdVdHRqVjlTWWtqblN0dzNUb3lPT2xDd1ZyWDlVYkpTN3pLc3JPVVJtbHlaQkljRWRwV1AwNktlR1lhd0tGeWdyaWoyNlluWk9EY2NrSFFiMXFncDRDWWo2LVFOdVQtWWNveDZ1THRSYkQ0eTlzNjlZaG1ibFdFWldPSU1nWWlqRmNSTGdFczFLR0lMVDdEbHpnaVZzdWRQOE1rR3UyeTBNaDBkSFFCVFAwZ3hBbGdicXRrVUFvWdIBngFBVV95cUxNcFhTaXZ0U0VOa3AwY1EzdUZobGRjMTNLLXB6NExab1VZbzRkZDNSVm5RMklmYmN0MnBldVdjRHc5dEhkWWluWVBpX3Nla0laZUpfbWktVmRFa2ZNWmdzRTJrNkNUQlVNemZnNnVfYWdySTVDVkNVRFB1T1YxMGNtUzB6cEt3MGs0M2piOW9FVlNTUkJBVWFJaUtiazg5dw?oc=5"
-    },
-    {
-      "title": "Mejores plataformas para invertir en fondos indexados (desde 1 euro)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVppVWpGajBHemh3QlZKM0dDaGRsQmNZbXF5M2pBcDhSUnNLRl9WQXF4cVotUmdoR1BaandrWkVWd20zUGNkQVNueFdjMGZuYUgtS0RCNnhwWG02c09ROTdmSDI1TFpod0QxYkZtQ0dCQ2QzcXIzNXBHMnNiTzE2Z3lKMGVTQzNFQW0xZDlkOUZiM0VlaHp3TWxBMU9WdW9i?oc=5"
-    },
-    {
-      "title": "EBN Banco broker de fondos: análisis y opiniones (2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa0JJdXJIOFJwMVFxRmxSVlFMVlFxa3U2aHJCdGV0Y2tjOXpuX2dveEJoTldpVUZJOGxiN19hMXE5bkYyQWdqRllPWDJHWjNUOFVhTWpreGVuWnhIMGs5ekxRRkJDV0oxZ0l1MWdjZnl3RHVBYl9fbG5LVUV1bnRvcmFfLUNvTXdYUE9ZSWVaVUhfZEljM2o4LQ?oc=5"
-    },
-    {
-      "title": "El ETF iShares MSCI ACWI enfrenta turbulencias en los mercados internacionales",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLV94dXB5bXRBd2VRNGNRd3BkQmtkekdudDhTRXdRcENMYklPRjRTaUVVb0liZmdTNVllVXN2Z2w4VjFGNlhlcjBlWVhOeXlpS2xkaGFFelR1dDRyYTEtSHJIYTJhUHd5NENCVmFXWUh1ZnlqSDRGNndjWWZoLVBKUWw4dkpobFo3eS03S0YtR3pYQkp6aVpnYUVwX2ZSdXFuOWdENXY2ZkFZcjZ0OFMyTzNCMC1QYngtYk4yS3ZR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdm1HT1FBdFFLODdYaEdpRDRfcmtKVGc5NEdkSjVVZXpzM2gydm9OOU9TZlZLYnNVaWw0MDJTNEx5SHl2OUVucXBfWnF3RmNpNDVmUDFHX0tIY1RRemxDYkFRX0d0XzhZU1FwMjBfQ1ZPUUlaMDVzWDF2Qzk1WndsWEl4X3hmMGhkV0E?oc=5"
     },
     {
       "title": "¿Subirá el BCE los Tipos de Interés en Medio de la Guerra con Irán?",
@@ -112,36 +97,6 @@
       "title": "Resultados de Inditex: Sólida Rentabilidad, pero Está Cara",
       "source": "rss_morningstar_es",
       "url": "https://www.morningstar.es/es/news/274429/resultados-de-inditex-sólida-rentabilidad-pero-está-cara.aspx"
-    },
-    {
-      "title": "**CaixaBank lidera captaciones de fondos de inversión hasta febrero de 2026 con suscripciones netas positivas.**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**La economía española crecería un 2,3% en 2026 y un 2% en 2027, según la Cámara de España.**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Gestoras de fondos afrontan 2026 con optimismo y el 94% estima un incremento del patrimonio en fondos superior al 5%.**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**CNMV habilita sección web sobre novedades regulatorias para Sistemas Multilaterales de Negociación (SMN) debido al 'Listing Act'.**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Fondo España Crece movilizará 120.000 millones de euros en inversión productiva, con 23.000 millones destinados a la construcción de 15.000 viviendas al año.**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**El ETF iShares Core EURO STOXX 50 UCITS (DE) - EUR sube un 4,4% impulsado por ASML (+19%) y valores de defensa como Rheinmetall (+21%).**",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }
