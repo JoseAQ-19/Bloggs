@@ -257,54 +257,47 @@
   "6b917a81fd9eedfed0c8175dfe38aafa9e90472ee53445d8e4541e481f95984d": {
     "data": [
       {
-        "title": "Bengals QB Joe Burrow’s latest outing goes viral",
+        "title": "78-year-old DoorDash driver gets massive tip from thousands of strangers after viral doorbell video",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Viral Iran Analysis Puts Congressional Candidate Adam Dunnigan in the Spotlight",
+        "title": "Majestic Bald Eagle Goes Viral Posting Up For Hours Outside A Bar In Alaska",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "2 People Dead, 11 Others ‘Seriously Ill’ amid University Outbreak of Still-Unidentified Virus Strain",
+        "title": "Dangerous BORG drinking trend goes viral after Chicago St. Patrick’s Day celebrations",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Viral McNeese Student Manager Makes March Madness Return",
+        "title": "McNeese Secures Third-Straight March Madness Bid — and Their Viral Hype Man Is Coming Too",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Former DOGE staffers’ depositions go viral",
+        "title": "She Craved a 'Savory Girl Dinner' and Then Accidentally Launched a Viral Food Trend (Exclusive)",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773618187.5761566,
+    "cached_at": 1773699733.916201,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
   "78419185a472eac00403a11a229938d32ad88b963bbfbf48284eb0cbba1ee66b": {
     "data": [
-      {
-        "title": "La NASA fija el 1 de abril para lanzar Artemis II, la histórica misión tripulada de sobrevuelo lunar | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/nasa-1-abril-lanzamiento-artemisii"
-      },
       {
         "title": "Trump administration is collecting $10 billion on the TikTok deal | The Verge",
         "source": "exa",
@@ -313,21 +306,28 @@
         "url": "https://theverge.com/policy/895039/trump-10-billion-tiktok"
       },
       {
-        "title": "Cumprindo requisitos do ECA, Riot anuncia processo de verificação de idade em League of Legends e outros jogos; menores de 18 não poderão mais acessar suas contas",
+        "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://br.ign.com/league-of-legends/151546/news/cumprindo-requisitos-do-eca-riot-anuncia-processo-de-verificacao-de-idade-em-league-of-legends-e-out"
+        "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/"
       },
       {
-        "title": "Instagram is getting rid of end-to-end encrypted DMs that ‘very few’ people used | The Verge",
+        "title": "Meta is reportedly laying off up to 20 percent of its staff | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/tech/894752/instagram-end-to-end-encryption"
+        "url": "https://theverge.com/business/895026/meta-laying-off-20-percent"
+      },
+      {
+        "title": "Meta reportedly considering layoffs that could affect 20% of the company | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/"
       }
     ],
-    "cached_at": 1773618188.0981333,
+    "cached_at": 1773699734.4748387,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
