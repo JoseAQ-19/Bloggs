@@ -62,54 +62,47 @@
   "4618dd580265f460566f713ecc35b03ce5ab52b17e317eed8d0201579ddcf0d6": {
     "data": [
       {
-        "title": "El actor Dolph Lundgren y su secreto fitness a los 68 años",
+        "title": "Abre en Barcelona el primer centro 'pet friendly' de Cataluña para ir a entrenar con tu mascota: \"Ya no hay excusas\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "DEKA Fit Ibiza brilla un año más en Sant Agustí",
+        "title": "Hyrox: el deporte que une running y fitness está conquistando el mundo",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Farioli on fitness: Ready to compete on three fronts in March",
+        "title": "¡MÁS DE 350 MUJERES SE UNEN AL “BOXEO FITNESS POR LA IGUALDAD”!",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "FOTOS | Un pueblo de Cuenca acoge con éxito el Campeonato Regional Castilla-La Mancha-SF3 con más de medio centenar de atletas",
+        "title": "Cardio suave: la modalidad de fitness que apuesta por entrenar sin agotarse",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Máquinas de pilates reformer, infrarrojos y matcha: así son los nuevos gimnasios de moda en Madrid",
+        "title": "Dan Jones, de editor en Men's Health a prestigioso historiador de la Edad Media: \"Gracias a la revista me aficioné al fitness y sigo entreno prácticamente todos los días\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773550093.7829492,
+    "cached_at": 1773637056.7055185,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "f57c7b2f36f1b097c5b6ce234958742b388d8049bb95db71d158ac3ca0835b52": {
     "data": [
-      {
-        "title": "Qué es el ‘athleisure’, la nueva tendencia de moda que está arrasando - AS.com",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://as.com/tikitakas/estilo/que-es-el-athleisure-la-nueva-tendencia-de-moda-que-esta-arrasando-f202603-n/"
-      },
       {
         "title": "Maite Palazuelos, creadora del Método Sbelt: “En 10 años en España habrá personas de 300 kg”  - AS.com",
         "source": "exa",
@@ -125,14 +118,21 @@
         "url": "https://mejorconsalud.as.com/lifestyle/5-aspectos-indispensables-para-elegir-los-leggins-del-gimnasio-correctamente/"
       },
       {
-        "title": "Javier Guerrero, doctor en nutrición deportiva: “No beber lo suficiente hace que nuestro cerebro rinda muy por debajo” - AS.com",
+        "title": "Éxito en la multitudinaria 43.ª Carrera del Agua de Canal de Isabel II con Ayuso en cabeza - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/tikitakas/salud/javier-guerrero-doctor-en-nutricion-deportiva-no-beber-lo-suficiente-hace-que-nuestro-cerebro-rinda-muy-por-debajo-f202603-n/"
+        "url": "http://masdeporte.as.com/masdeporte/polideportivo/exito-en-la-multitudinaria-43-carrera-del-agua-de-canal-de-isabel-ii-con-ayuso-en-cabeza-f202603-n/"
+      },
+      {
+        "title": "El deporte ha dejado de fingir que todo va bien - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/futbol/primera/el-deporte-ha-dejado-de-fingir-que-todo-va-bien-f202603-n/"
       }
     ],
-    "cached_at": 1773550094.5819159,
+    "cached_at": 1773637057.0939553,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
