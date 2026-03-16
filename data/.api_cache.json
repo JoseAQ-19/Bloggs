@@ -180,77 +180,77 @@
   "cddff883eee8ba79205166d8431aed7738bd3bb0724b8d87f5f17a2a8cc26039": {
     "data": [
       {
-        "title": "Contar lo rural para hacerlo viral: las redes sociales y otra manera de reivindicar a Castilla y León desde la juventud",
+        "title": "Vean porque no tiene desperdicio: la reacción viral de Arbeloa cuando ve entrar tarde a Mbappé al Etihad",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La reacción viral de Sabalenka tras ganar en Indian Wells: la cabeza a la nevera",
+        "title": "\"Solo me gusta mentir si es necesario\": la viral declaración de Carlos Martínez sobre el resultado del PSOE en",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Presencian el gol mientras viajan en teleférico y el video se hace viral",
+        "title": "Entrevista a Alvar Mas, el artista al que su novia hizo viral sin que él lo supiera: \"Enterarme de esto fue",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El enfado viral del hijo de Cristiano en un Al Nassr vs Al Hilal: ¡El árbitro le sancionó y se perderá el siguiente partido!",
+        "title": "El vídeo viral del derrumbe de un edificio histórico en León que ya supera el medio millón de visitas",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Una nevera en Los Gigantes: el vídeo viral que alerta del grave problema en las costas de Canarias",
+        "title": "Jonathan Tah se vuelve viral tras casi entrar al vestuario del Bayer Leverkusen en el descanso del partido",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773612547.8505108,
+    "cached_at": 1773699233.7697966,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
   "a362792cc6b4faf81d359ce19013ff8b6c624ffb2aada45d97ffec0e5515eba1": {
     "data": [
       {
-        "title": "Adiós al iceberg A23a: fue el más grande del mundo y ahora le quedan semanas de vida - AS.com",
+        "title": "Crisis en el cine colombiano: 300 profesionales cuestionan una película financiada por el Estado - AS Colombia",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/actualidad/ciencia/adios-al-iceberg-a23a-fue-el-mas-grande-del-mundo-y-ahora-le-quedan-semanas-de-vida-f202603-n/"
+        "url": "https://colombia.as.com/actualidad/crisis-en-el-cine-colombiano-300-profesionales-cuestionan-una-pelicula-financiada-por-el-estado-f202603-n/"
       },
       {
-        "title": "Yaya Muñoz habla sin filtros y genera polémica con su confesión íntima: “Eso aburre” - AS Colombia",
+        "title": "Estados Unidos deja fuera a Dominicana con strike que desata la polémica en el Clásico Mundial - AS USA",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://colombia.as.com/tikitakas/yaya-munoz-habla-sin-filtros-y-genera-polemica-con-su-confesion-intima-eso-aburre-f202603-n/"
+        "url": "https://as.com/us/mlb/estados-unidos-deja-fuera-a-dominicana-con-strike-que-desata-la-polemica-en-el-clasico-mundial-f202603-n/"
       },
       {
-        "title": "Irene Rosales carga como nunca contra Kiko Rivera en ‘¡De Viernes!’: “Debería hacer un poco más de conciencia” - AS.com",
+        "title": "Se cancela la Finalissima - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/tikitakas/television/irene-rosales-carga-como-nunca-contra-kiko-rivera-en-de-viernes-deberia-hacer-un-poco-mas-de-conciencia-f202603-n/"
+        "url": "https://as.com/futbol/internacional/se-cancela-la-finalissima-f202603-n/?id_externo_rsoc=CM_ES_FB"
       },
       {
-        "title": "‘Torrente, Presidente’ es el segundo mejor estreno de la historia del cine español y Santiago Segura saca pecho: “No quería amargar el sábado a mis haters” - Meristation",
+        "title": "‘Las guerreras k-pop’ ganan el Oscar a mejor película de animación 2026 - Meristation",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/meristation/cine/torrente-presidente-es-el-segundo-mejor-estreno-de-la-historia-del-cine-espanol-y-santiago-segura-saca-pecho-no-queria-amargar-el-sabado-a-mis-haters-f202603-n/"
+        "url": "https://as.com/meristation/cine/las-guerreras-k-pop-ganan-el-oscar-a-mejor-pelicula-de-animacion-2026-f202603-n/"
       }
     ],
-    "cached_at": 1773612548.5784009,
+    "cached_at": 1773699234.3453498,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
