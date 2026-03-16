@@ -334,7 +334,21 @@
   "1aa06cf232e59b4099181fc77bc2032cca3f1701bcd8a89857881f3d3a40d006": {
     "data": [
       {
+        "title": "Gráfico del Bitcoin (BTC)",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
         "title": "BTCUSD",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Precio, gráficos, capitalización de mercado de Chainlink (LINK)",
         "source": "google_news",
         "lang": "es",
         "score": 0,
@@ -348,40 +362,19 @@
         "url": ""
       },
       {
-        "title": "Precio, gráficos, capitalización de mercado de River (RIVER)",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Los desarrolladores de IA pueden no estar interesados en las criptomonedas, pero los stablecoins son el secreto de las finanzas agenticas, según expertos en criptomonedas",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "[BTCUSDT, 4h] Detectado cruce bajista de MACD [ETHUSDT, 4h",
+        "title": "¿Por qué sube el cripto hoy? Bitcoin llega a $74K; $143M en shorts liquidados",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773504333.6467638,
+    "cached_at": 1773678699.7022889,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "5c20aedfee12fab17574d9716695b511d7e61e204e2a7e9a7f897f9646417150": {
     "data": [
-      {
-        "title": "Binance sues WSJ, panicked by gov't probes into sanctioned crypto transfers",
-        "source": "hackernews",
-        "lang": "en",
-        "score": 8,
-        "url": "https://arstechnica.com/tech-policy/2026/03/binance-sues-wsj-over-report-sparking-government-probes-into-exchange/"
-      },
       {
         "title": "Crypto Trader Loses Nearly $50M in Aave Trade, Protocol Offers $600K Fee Refund",
         "source": "hackernews",
@@ -390,49 +383,56 @@
         "url": "https://decrypt.co/360961/crypto-trader-loses-nearly-50m-aave-trade-600k-fee-refund"
       },
       {
-        "title": "Crypto investor turns $50M into $36,000 in one botched move",
+        "title": "Show HN: MCPS – Cryptographic identity and message signing for MCP agents",
         "source": "hackernews",
         "lang": "en",
-        "score": 4,
-        "url": "https://www.coindesk.com/markets/2026/03/12/crypto-investor-turns-usd50-million-into-usd36-000-in-one-botched-move"
+        "score": 2,
+        "url": "https://mcp-secure.dev"
+      },
+      {
+        "title": "Show HN: Crypto Security Toolkit – VPN, Wallets, Exchanges and Tools for Traders",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 2,
+        "url": ""
       }
     ],
-    "cached_at": 1773504334.0137632,
+    "cached_at": 1773678699.947248,
     "func": "fetch_hackernews",
     "args_summary": "(['crypto'],)"
   },
   "151a07ed322d3cbdd77d65398c3a13cd6a0111c87db69f3fd0b926d706a54d98": {
     "data": [
       {
-        "title": "Donald Trump, sobre Irán: “Cuando suben los precios del petróleo, ganamos mucho dinero” - AS USA",
+        "title": "¿El fin del superpoder financiero? EEUU gravemente endeudado, dicen expertos - AS USA",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/us/actualidad/donald-trump-sobre-iran-cuando-suben-los-precios-del-petroleo-ganamos-mucho-dinero-f202603-n/"
+        "url": "https://as.com/us/actualidad/el-fin-del-superpoder-financiero-eeuu-gravemente-endeudado-dicen-expertos-f202603-n/"
       },
       {
-        "title": "EEUU ha activado el plan B antes de que Irán tumbe su último radar: desarmar a Corea del Sur frente al nuevo “juguete” nuclear del Norte",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/magnet/eeuu-ha-activado-plan-b-iran-tumbe-todos-sus-radares-desarmar-a-corea-sur-frente-al-nuevo-juguete-nuclear-norte"
-      },
-      {
-        "title": "La cuenta atrás hacia el desabastecimiento: los 92 días que protegen a España de quedarse sin petróleo en caso de crisis total",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/energia/apocalipsis-petroleo-se-hace-realidad-espana-sabe-hace-anos-cuanto-tiempo-puede-aguantar-92-dias"
-      },
-      {
-        "title": "Google Maps cambia para siempre: recibe su mayor actualización en más de una década y revela las nuevas opciones para navegar - Meristation",
+        "title": "Adiós a los cheques: el IRS cambia cómo pagará el dinero federal - AS USA",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/meristation/betech/google-maps-cambia-para-siempre-recibe-su-mayor-actualizacion-en-mas-de-una-decada-y-revela-las-nuevas-opciones-para-navegar-f202603-n/"
+        "url": "https://as.com/us/actualidad/adios-a-los-cheques-el-irs-cambia-como-pagara-el-dinero-federal-f202603-n/"
+      },
+      {
+        "title": "Cambio histórico: mujeres lideran el ahorro y toman el control en CDT - AS Colombia",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://colombia.as.com/actualidad/cambio-historico-mujeres-lideran-el-ahorro-y-toman-el-control-en-cdt-f202603-n/"
+      },
+      {
+        "title": "Si declaraste impuestos en estas fechas, podrías cobrar la próxima semana - AS USA",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/us/actualidad/si-declaraste-impuestos-en-estas-fechas-podrias-cobrar-la-proxima-semana-f202603-n/"
       }
     ],
-    "cached_at": 1773504334.475918,
+    "cached_at": 1773678700.395375,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
