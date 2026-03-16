@@ -1,0 +1,3 @@
+[submodule "OpenGravity"]
+	path = OpenGravity
+	url = https://github.com/JoseAQ-19/OpenGravity.git

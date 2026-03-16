@@ -1569,7 +1569,8 @@ translationKey: "{translation_key}"
         yaml_str = yaml.dump(safe_meta, allow_unicode=True, sort_keys=False, default_flow_style=False)
         front_matter = f"---\n{yaml_str}---\n"
 
-    final_content = f"{front_matter}\n![{meta['titulo'].replace('\"', '')}]({imagen})\n\n{contenido_enrich}\n"
+    clean_titulo = meta['titulo'].replace('\"', '')
+    final_content = f"{front_matter}\n![{clean_titulo}]({imagen})\n\n{contenido_enrich}\n"
 
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(final_content)
