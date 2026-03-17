@@ -985,53 +985,60 @@
         "url": ""
       },
       {
-        "title": "IA Urges Fund Managers to Plan for UK Crypto Assets Regime",
+        "title": "An interview with Ia Genberg and Kira Josefsson, author and translator of Small Comfort",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Hourly Weather Forecast for Pleasant Prairie, IA",
+        "title": "Donald Downing Obituary",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "2026 IHSAA (IA) State Championship",
+        "title": "Joel Klein Obituary (1944-2026)",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Wayne Fink Obituary (1937",
+        "title": "New kitchen at Heal House gets residents cooking",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773661614.6410487,
+    "cached_at": 1773747958.1128585,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
   "5ed87e0a555e160d6f2e7a9ad4294ea2283b3cea14c5520f93b58951f9855102": {
     "data": [
       {
-        "title": "The biggest AI stories of the year (so far) | TechCrunch",
+        "title": "Google, Accel India accelerator chooses 5 startups and none are 'AI wrappers' | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/"
+        "url": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/"
       },
       {
-        "title": "La NASA fija el 1 de abril para lanzar Artemis II, la histórica misión tripulada de sobrevuelo lunar | WIRED",
+        "title": "Ai Artificial Intelligence Archive for March 2026 - Page 7 | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/nasa-1-abril-lanzamiento-artemisii"
+        "url": "https://on.theverge.com/archives/ai-artificial-intelligence/2026/3/7"
+      },
+      {
+        "title": "Memories AI is building the visual memory layer for wearables and robotics | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/?type=AI"
       },
       {
         "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator | TechCrunch",
@@ -1039,16 +1046,9 @@
         "lang": "en",
         "score": 0,
         "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/"
-      },
-      {
-        "title": "China’s OpenClaw Boom Is a Gold Rush for AI Companies | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/"
       }
     ],
-    "cached_at": 1773661615.6353421,
+    "cached_at": 1773747958.7684903,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
