@@ -336,3 +336,4 @@ ia: Unveiling the Future: An Interview with Ia Genberg and Kira Josefsson on 'Sm
 tools: Apple potencia Final Cut Pro con la adquisición de MotionVFX: ¿qué significa para los editores de video?
 tools: Marquette's AI Guide: Essential Tools and Responsible Use for Faculty
 crypto: Crypto's Devotees Fight for Respect in a Skeptical World
+youtube: YouTube y FIFA: Un acuerdo que cambiará la forma de ver el Mundial 2026
