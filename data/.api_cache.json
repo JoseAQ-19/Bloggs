@@ -1132,77 +1132,77 @@
   "6e9c6a02969a5e9b67222353d8954d32f29ac7ffcd642500a8a27decc747f088": {
     "data": [
       {
-        "title": "BTCUSD",
+        "title": "Apple Acquires Video Editing Startup MotionVFX to Boost Final Cut Pro Tools",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Solana Scan: The Best Explorer and Token Scanner Tools for Every Trader",
+        "title": "El Consejo de Ministros aprueba la declaración como Bien de Interés Cultural del Puente de Cruzul, en Becerreá (Lugo)",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Los 5 trucos de decoración que aprendimos de la casa de Jacob Elordi (y que puedes replicar fácilmente)",
+        "title": "Michael Wayne Domino Jr. vende acciones de Drilling Tools (DTI) por 7.457 dólares",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "The UMH Science Park and Aspe Organise a Market Analysis Workshop",
+        "title": "BARCLAYS AND SAGE ANNOUNCE STRATEGIC PARTNERSHIP TO SIMPLIFY BUSINESS ADMIN FOR UK SMALL BUSINESSES",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Energy Tools y ACE se alían para liderar la gestión energética con tecnología y foco en el dato",
+        "title": "El papel de los gemelos digitales en la toma de decisiones basada en datos",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773668333.4399812,
+    "cached_at": 1773754687.1206253,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "d3e0b697eb375d60495f1b6d1f6c436c149ae1e2a919c1ae80263ab8fde1d244": {
     "data": [
       {
-        "title": "Ni Tokio ni Shanghái: esta es la ciudad futurista que pasó de cien mil habitantes a repartir comida en drones  - AS.com",
+        "title": "Qué es Google AI Studio y qué puedes hacer con esta herramienta de creación con inteligencia artificial",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://as.com/actualidad/ciencia/ni-tokio-ni-shanghai-esta-es-la-ciudad-futurista-que-paso-de-cien-mil-habitantes-a-repartir-comida-en-drones-f202603-n/"
+        "url": "https://www.xataka.com/basics/que-google-ai-studio-que-puedes-hacer-esta-herramienta-creacion-inteligencia-artificial"
       },
       {
-        "title": "Adiós a Starlink: así es el sistema satelital ruso que planea cambiar el curso de la guerra - AS.com",
+        "title": "OpenClaw cambió las reglas de la carrera de la IA. Las empresas tecnológicas ya tienen su respuesta: copiarlo",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://as.com/actualidad/politica/adios-a-starlink-asi-es-el-sistema-satelital-ruso-que-planea-cambiar-el-curso-de-la-guerra-f202603-n/"
+        "url": "https://www.xataka.com/robotica-e-ia/carrera-ia-no-quien-tiene-modelo-potente-quien-lanza-openclaw-facil-seguro"
       },
       {
-        "title": "Adiós al iceberg A23a: fue el más grande del mundo y ahora le quedan semanas de vida - AS.com",
+        "title": "Creíamos que la IA estaba matando el trabajo en la industria  tech. En realidad está cambiando las reglas de juego: Crossover 1x41",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://as.com/actualidad/ciencia/adios-al-iceberg-a23a-fue-el-mas-grande-del-mundo-y-ahora-le-quedan-semanas-de-vida-f202603-n/"
+        "url": "https://www.xataka.com/crossover/creiamos-que-ia-estaba-matando-trabajo-industria-tech-realidad-esta-cambiando-reglas-juego-crossover-1x41"
       },
       {
-        "title": "Fallas de Valencia 2026: horarios, fechas, mascletàs y cuándo es la Cremà - AS.com",
+        "title": "La IA y la automatización prometían más prosperidad. Los salarios en España no están contando la misma historia",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://as.com/tikitakas/ocio/fallas-de-valencia-2026-horarios-fechas-mascletas-y-cuando-es-la-crema-f202603-n/"
+        "url": "https://www.xataka.com/empresas-y-economia/ia-se-va-a-cebar-quienes-se-ceban-todas-transformaciones-tecnologicas-salarios-bajos"
       }
     ],
-    "cached_at": 1773668334.0489407,
+    "cached_at": 1773754687.7934206,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
