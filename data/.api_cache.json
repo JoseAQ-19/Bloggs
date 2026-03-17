@@ -699,47 +699,33 @@
   "0808acfa9b50a7c0e5b5781f63475f3588580dfb5b58a15baae65a6af4552394": {
     "data": [
       {
-        "title": "Mejores plataformas para comprar fondos de inversión 2026",
-        "source": "google_news_finance",
-        "lang": "es",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnNsTkpKYkxxYmVjdEM3ZkpJU214X0FSLUhrOUNHbUg1aWRaaGdUSmlwQmZWdWgxVWVfUVF3WXc3dVotSnB4T3RQVllZclNIMkxZbUVEb21ueDMxbDJsTzZjSDJkNHZRaERMNHlXcWRBWlMwUWg3Z3l2MVlpNFB0UWxBQXp2dGREUnQ4MzRfRWoxazRtdmxvTm1qY3VnVmxDX0R3Z3hjM2hJT0Fy?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Mejores plataformas para comprar fondos de inversión 2026",
-        "source": "google_news_finance",
-        "lang": "es",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnNsTkpKYkxxYmVjdEM3ZkpJU214X0FSLUhrOUNHbUg1aWRaaGdUSmlwQmZWdWgxVWVfUVF3WXc3dVotSnB4T3RQVllZclNIMkxZbUVEb21ueDMxbDJsTzZjSDJkNHZRaERMNHlXcWRBWlMwUWg3Z3l2MVlpNFB0UWxBQXp2dGREUnQ4MzRfRWoxazRtdmxvTm1qY3VnVmxDX0R3Z3hjM2hJT0Fy?oc=5",
-        "score": 0
-      },
-      {
         "title": "Los mejores fondos indexados de 2026",
         "source": "google_news_finance",
         "lang": "es",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53V0hhSG1Sc2J5emkyMUVCcWxCcHdYSGZhMWtqNFUtQ3pvZFZoTnlmcWhsaXhwNTc2Z2UxWEZpQ2NlVEljaW9OZjV1bG1XWXdfT2pxNkRMSG5FYVhGdXJmY0pMSkhCMDdEdXNrbzlpTE9xWnc?oc=5",
         "score": 0
-      },
-      {
-        "title": "Invertir en Renta Fija: situación actual y perspectivas",
-        "source": "google_news_finance",
-        "lang": "es",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Invertir en el Sector Farmacéutico: Oportunidades y amenazas",
-        "source": "google_news_finance",
-        "lang": "es",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdm1HT1FBdFFLODdYaEdpRDRfcmtKVGc5NEdkSjVVZXpzM2gydm9OOU9TZlZLYnNVaWw0MDJTNEx5SHl2OUVucXBfWnF3RmNpNDVmUDFHX0tIY1RRemxDYkFRX0d0XzhZU1FwMjBfQ1ZPUUlaMDVzWDF2Qzk1WndsWEl4X3hmMGhkV0E?oc=5",
-        "score": 0
       }
     ],
-    "cached_at": 1773646411.9755604,
+    "cached_at": 1773732330.4296887,
     "func": "fetch_financial_news",
     "args_summary": "()"
   },
   "f7b8ca30d7cd5e551117ce748b5369c972410b6be5bb1c2c4d78da8fd3a1c8c5": {
     "data": [
+      {
+        "title": "Por Qué la Bolsa USA se Mantiene Estable durante la Guerra en Irán",
+        "source": "rss_morningstar_es",
+        "lang": "es",
+        "url": "https://www.morningstar.es/es/news/274512/por-qué-la-bolsa-usa-se-mantiene-estable-durante-la-guerra-en-irán-.aspx",
+        "score": 0
+      },
+      {
+        "title": "¿Debería Invertir Ahora en un ETF de Petróleo?",
+        "source": "rss_morningstar_es",
+        "lang": "es",
+        "url": "https://www.morningstar.es/es/news/274510/¿debería-invertir-ahora-en-un-etf-de-petróleo.aspx",
+        "score": 0
+      },
       {
         "title": "¿Subirá el BCE los Tipos de Interés en Medio de la Guerra con Irán?",
         "source": "rss_morningstar_es",
@@ -760,23 +746,9 @@
         "lang": "es",
         "url": "https://www.morningstar.es/es/news/274467/resultados-de-bmw-se-espera-una-mayor-presión-sobre-los-márgenes-en-2026.aspx",
         "score": 0
-      },
-      {
-        "title": "Resultados de Adobe: el Veterano Director Ejecutivo se Jubila",
-        "source": "rss_morningstar_es",
-        "lang": "es",
-        "url": "https://www.morningstar.es/es/news/274466/resultados-de-adobe-el-veterano-director-ejecutivo-se-jubila.aspx",
-        "score": 0
-      },
-      {
-        "title": "Resultados de Inditex: Sólida Rentabilidad, pero Está Cara",
-        "source": "rss_morningstar_es",
-        "lang": "es",
-        "url": "https://www.morningstar.es/es/news/274429/resultados-de-inditex-sólida-rentabilidad-pero-está-cara.aspx",
-        "score": 0
       }
     ],
-    "cached_at": 1773646412.4820006,
+    "cached_at": 1773732331.0909207,
     "func": "fetch_competitor_rss",
     "args_summary": "()"
   },
