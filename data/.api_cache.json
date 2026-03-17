@@ -880,53 +880,53 @@
   "21a068db0cd0ba4e3b3272cddddd6e25dad487d2eb369a2766316588951e7843": {
     "data": [
       {
-        "title": "No es miedo a la IA, es falta de curiosidad",
+        "title": "Matchmaking Internacional: Colaboración en Tecnologías Emergentes (IA, Robótica y Espacio)",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Navarra impulsa el proyecto europeo INCLUS-IA para mejorar la empleabilidad de personas con discapacidad en el ámbito de la Inteligencia Artificial",
+        "title": "Concha Barceló imparte en l’Alfàs una ponencia sobre IA y educación inclusiva",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "IA en las aulas: impacto, riesgos y violencias digitales con perspectiva de género.",
+        "title": "Meta presenta nuevos chips de IA personalizados junto a Broadcom",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La Comisión emplea la IA para luchar contra las alertas agroalimentarias y el fraude alimentario",
+        "title": "Amparito, el whatsapp con IA para conocer y disfrutar las Fallas en idiomas europeos",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El impacto de la IA en la automatización y la productividad",
+        "title": "XI Primavera Cultural de Cantabria: geopolítica, literatura, periodismo, IA, clima y educación",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773656802.2122157,
+    "cached_at": 1773742842.1829886,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
   "712dc6b87821c74ce3310d15eb2faa5011ccf2d0df44b2a976b735ced665ce6e": {
     "data": [
       {
-        "title": "Show HN: A modern boarding pass encoder/decoder/scanner (web and library)",
+        "title": "Most GitHub Actions OIDC trust policies allow any repo to assume AWS IAM roles",
         "source": "hackernews",
         "lang": "en",
-        "score": 2,
-        "url": "https://github.com/jqssun/iata-api"
+        "score": 1,
+        "url": "https://haitmg.pl/blog/github-actions-oidc-aws-backdoor/"
       },
       {
         "title": "Show HN: Auditor Core–CLI security auditing engine with mathematical SPI scoring",
@@ -943,7 +943,7 @@
         "url": "https://datawizual.github.io/"
       }
     ],
-    "cached_at": 1773656802.455438,
+    "cached_at": 1773742842.6806238,
     "func": "fetch_hackernews",
     "args_summary": "(['ia'],)"
   },
@@ -954,31 +954,24 @@
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/meristation/betech/sirve-realmente-de-algo-decirle-por-favor-y-gracias-a-la-ia-la-ciencia-responde-f202603-n/"
+        "url": "https://www.as.com/meristation/betech/sirve-realmente-de-algo-decirle-por-favor-y-gracias-a-la-ia-la-ciencia-responde-f202603-n/"
       },
       {
-        "title": "Qué es Antigravity, cómo funciona y qué puedes hacer con la IDE con inteligencia artificial de Google",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/basics/que-antigravity-como-funciona-que-puedes-hacer-ide-inteligencia-artificial-google"
-      },
-      {
-        "title": "Amazon actualiza Alexa a su versión Plus con cuatro nuevas personalidades",
+        "title": "José Luis López, experto financiero, revela la profesión que nunca podrá sustituir la IA: “No lo solucionas con un pop up” - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/big-tech/amazon-actualiza-alexa-su-version-plus-con-cuatro-nuevas-personalidades-incluida-una-para-adultos_6945733_0.html"
+        "url": "https://as.com/actualidad/sociedad/jose-luis-lopez-experto-financiero-revela-la-profesion-que-nunca-podra-sustituir-la-ia-no-lo-solucionas-con-un-pop-up-f202603-n/"
       },
       {
-        "title": "MACROHARD es la burla de Elon Musk a Microsoft: un agente de IA que ninguna otra empresa puede conseguir. Aún",
+        "title": "Ni Tokio ni Shanghái: esta es la ciudad futurista que pasó de cien mil habitantes a repartir comida en drones  - AS.com",
         "source": "exa",
-        "lang": "en",
+        "lang": "es",
         "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/tesla-presenta-agente-capaz-emular-funcionamiento-empresa-se-llama-macrohard-nadie-puede-hacerlo"
+        "url": "https://as.com/actualidad/ciencia/ni-tokio-ni-shanghai-esta-es-la-ciudad-futurista-que-paso-de-cien-mil-habitantes-a-repartir-comida-en-drones-f202603-n/"
       }
     ],
-    "cached_at": 1773656802.96353,
+    "cached_at": 1773742843.266308,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
