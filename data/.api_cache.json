@@ -468,47 +468,54 @@
   "c7dcb72dc33baaa2e522c198717b4b418fcd1e9a91af28dfbac294c4b153973d": {
     "data": [
       {
-        "title": "Strategy, Other Crypto Stocks Jump With Bitcoin. Why They Can Keep Rising.",
+        "title": "Crypto’s True Believers Demand to Be Taken Seriously",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "BTC price nears $74,000, memecoins drive risk-on mood: Crypto Markets Today",
+        "title": "Two Literal Crypto Bros Built a Real Estate Empire. Then the Homes Started to Fall Apart",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Cryptocurrency & Blockchain Stock News",
+        "title": "Fake Pudgy World site steals your crypto passwords",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Crypto Stocks Rally, These Factors Drive Bitcoin Rebound To Feb. High",
+        "title": "Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Wells Fargo’s Trademark Filing Suggests Wider Crypto Plans",
+        "title": "The Trump Official Ushering Crypto Into the Banking System",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773683521.8309903,
+    "cached_at": 1773769999.7990258,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "db4cf0fe883cd8d987c633ca7c9adb75314597f893f367cbf745e8aa11ded4e3": {
     "data": [
+      {
+        "title": "Histórico: Hallan en un asteroide común las bases del ADN; la química de la vida está en todas partes | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/historico-hallan-en-un-asteroide-comun-las-bases-del-adn-la-quimica-de-la-vida-esta-en-todas-partes"
+      },
       {
         "title": "Wall Street Is Already Betting on Prediction Markets | WIRED",
         "source": "exa",
@@ -517,28 +524,14 @@
         "url": "https://www.wired.com/story/prediction-markets-find-a-welcome-on-wall-street/"
       },
       {
-        "title": "Cryptocurrency Archive for March 2026 - Page 1 | The Verge",
+        "title": "Nvidia's version of OpenClaw could solve its biggest problem: security | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/archives/cryptocurrency/2026/3/1"
-      },
-      {
-        "title": "Instagram is getting rid of end-to-end encrypted DMs that ‘very few’ people used | The Verge",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.theverge.com/tech/894752/instagram-end-to-end-encryption"
-      },
-      {
-        "title": "Cumprindo requisitos do ECA, Riot anuncia processo de verificação de idade em League of Legends e outros jogos; menores de 18 não poderão mais acessar suas contas",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://br.ign.com/league-of-legends/151546/news/cumprindo-requisitos-do-eca-riot-anuncia-processo-de-verificacao-de-idade-em-league-of-legends-e-out"
+        "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security"
       }
     ],
-    "cached_at": 1773683522.2285788,
+    "cached_at": 1773770000.2541187,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
