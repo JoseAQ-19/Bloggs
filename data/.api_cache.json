@@ -615,53 +615,60 @@
   "9ee96a29d2849810b096fb4ad7845a44fb015972f3144c10f16e0a281e09fb7c": {
     "data": [
       {
-        "title": "'Harming babies': Child safety group blasts Google's investment in AI content for kids",
+        "title": "It’s official: YouTube and FIFA team up for the FIFA World Cup 2026™",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "YouTube Golf Power Rankings: Mid-March Update",
+        "title": "FIFA partners will be able to stream select World Cup games on YouTube",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Work With Us: YouTube Manager",
+        "title": "CISO DEMO: Cybersecurity Vendors Pitch Chief Information Security Officers On YouTube",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "There's an easy way to skip YouTube's new unskippable ads, but you may not like it",
+        "title": "Netflix’s Ted Sarandos Warns EU Regulators: YouTube Isn’t a ‘Bunch of Cat Videos,’ It’s a ‘Straightforward Direct Competitor’",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "YouTube Declared the ‘New King of Media’—Here’s Why",
+        "title": "So I went down the rabbit hole of Filip from MAFS Aus’ YouTube channel, and it’s very full on",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773682432.8407679,
+    "cached_at": 1773776060.3643508,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "f990e7eff0f3103ac01b2830c939d7dce846fb1e852800a979f12b26b78a0e42": {
     "data": [
       {
-        "title": "YouTube thumbnails just got an upgrade. | The Verge",
+        "title": "Histórico: Hallan en un asteroide común las bases del ADN; la química de la vida está en todas partes | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/streaming/894637/youtube-thumbnails-just-got-an-upgrade"
+        "url": "https://es.wired.com/articulos/historico-hallan-en-un-asteroide-comun-las-bases-del-adn-la-quimica-de-la-vida-esta-en-todas-partes"
+      },
+      {
+        "title": "The Verge",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://store.theverge.com/streaming/894637/youtube-thumbnails-just-got-an-upgrade"
       },
       {
         "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator | TechCrunch",
@@ -671,21 +678,14 @@
         "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/"
       },
       {
-        "title": "Facebook makes it easier for creators to report impersonators | TechCrunch",
+        "title": "Benjamin Netanyahu is struggling to prove he’s not an AI clone | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/13/facebook-makes-it-easier-for-creators-to-report-impersonators/"
-      },
-      {
-        "title": "Cumprindo requisitos do ECA, Riot anuncia processo de verificação de idade em League of Legends e outros jogos; menores de 18 não poderão mais acessar suas contas",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://br.ign.com/league-of-legends/151546/news/cumprindo-requisitos-do-eca-riot-anuncia-processo-de-verificacao-de-idade-em-league-of-legends-e-out"
+        "url": "https://theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy"
       }
     ],
-    "cached_at": 1773682433.2056978,
+    "cached_at": 1773776060.9076889,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
