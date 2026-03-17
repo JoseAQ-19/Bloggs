@@ -62,67 +62,53 @@
   "4618dd580265f460566f713ecc35b03ce5ab52b17e317eed8d0201579ddcf0d6": {
     "data": [
       {
-        "title": "Abre en Barcelona el primer centro 'pet friendly' de Cataluña para ir a entrenar con tu mascota: \"Ya no hay excusas\"",
+        "title": "On Air Fitness, la cadena de gimnasios más importante de Francia, llega a España",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Hyrox: el deporte que une running y fitness está conquistando el mundo",
+        "title": "El gimnasio lalinense VitalQI celebra sus 43 años inaugurando una sala de fitness de vanguardia",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "¡MÁS DE 350 MUJERES SE UNEN AL “BOXEO FITNESS POR LA IGUALDAD”!",
+        "title": "Anytime Fitness refuerza su expansión en Cataluña con la apertura de un nuevo club en Molins de Rei",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Cardio suave: la modalidad de fitness que apuesta por entrenar sin agotarse",
+        "title": "Peloton sale del ‘home fitness’ y lanza productos para gimnasios de uso intensivo",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Dan Jones, de editor en Men's Health a prestigioso historiador de la Edad Media: \"Gracias a la revista me aficioné al fitness y sigo entreno prácticamente todos los días\"",
+        "title": "Nueva andadura profesional en sector fitness",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773637056.7055185,
+    "cached_at": 1773722399.4030933,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "f57c7b2f36f1b097c5b6ce234958742b388d8049bb95db71d158ac3ca0835b52": {
     "data": [
       {
-        "title": "Maite Palazuelos, creadora del Método Sbelt: “En 10 años en España habrá personas de 300 kg”  - AS.com",
+        "title": "On Air Fitness, la cadena de gimnasios más importante de Francia, llega a España - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/tikitakas/salud/maite-palazuelos-creadora-del-metodo-sbelt-en-10-anos-en-espana-habra-personas-de-300-kg-f202603-n/"
-      },
-      {
-        "title": "5 aspectos indispensables para elegir los leggins del gimnasio correctamente - Mejor con Salud",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://mejorconsalud.as.com/lifestyle/5-aspectos-indispensables-para-elegir-los-leggins-del-gimnasio-correctamente/"
-      },
-      {
-        "title": "Éxito en la multitudinaria 43.ª Carrera del Agua de Canal de Isabel II con Ayuso en cabeza - AS.com",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "http://masdeporte.as.com/masdeporte/polideportivo/exito-en-la-multitudinaria-43-carrera-del-agua-de-canal-de-isabel-ii-con-ayuso-en-cabeza-f202603-n/"
+        "url": "https://as.com/actualidad/sociedad/on-air-fitness-la-cadena-de-gimnasios-mas-importante-de-francia-llega-a-espana-f202603-n/"
       },
       {
         "title": "El deporte ha dejado de fingir que todo va bien - AS.com",
@@ -130,9 +116,23 @@
         "lang": "es",
         "score": 0,
         "url": "https://as.com/futbol/primera/el-deporte-ha-dejado-de-fingir-que-todo-va-bien-f202603-n/"
+      },
+      {
+        "title": "España estudia acoger una prueba de la Copa del Mundo de MTB en 2027 - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/deportes_accion/bike/espana-estudia-acoger-una-prueba-de-la-copa-del-mundo-de-mtb-en-2027-f202603-n/"
+      },
+      {
+        "title": "Éxito en la multitudinaria 43.ª Carrera del Agua de Canal de Isabel II con Ayuso en cabeza - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "http://masdeporte.as.com/masdeporte/polideportivo/exito-en-la-multitudinaria-43-carrera-del-agua-de-canal-de-isabel-ii-con-ayuso-en-cabeza-f202603-n/"
       }
     ],
-    "cached_at": 1773637057.0939553,
+    "cached_at": 1773722399.9196162,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
