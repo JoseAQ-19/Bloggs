@@ -216,42 +216,42 @@
   "cddff883eee8ba79205166d8431aed7738bd3bb0724b8d87f5f17a2a8cc26039": {
     "data": [
       {
-        "title": "El padre de Fran se hace viral por su obsesión con la guerra: \"Quería comprar 10 bombonas, un camping gas,",
+        "title": "\"¡Funcionó el gafe!\": DjMaRiiO y su viral predicción sobre la jugada polémica que marcó el Manchester City vs Real Madrid de Champions League",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El viral pueblo de Castilla y León en el hijo del alcalde no ha votado a su padre: «Creo que la localidad es de derechas»",
+        "title": "Mary de Dinamarca se hace viral en Australia: el discurso con la palabra más larga del diccionario y reencuentro con su dama de honor",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El viral soltero que acude a ‘First Dates’ y deja a Sobera asombrado: “Solo uno, con cinco años y tres segundo",
+        "title": "La tienda de 'chuches' viral de Vila-seca que vende golosinas a toda Europa",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Punch encuentra el amor: el mono viral por su mamá de peluche ha encontrado a una amiga muy especial",
+        "title": "La reacción viral de Neymar cuando ve en directo que Ancelotti no le ha convocado",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Kristin Cabot rompe su silencio tras el escándalo viral del concierto de Coldplay: \"Mi marido estaba en el concierto\"",
+        "title": "Una paloma le arruina el peinado a Almeida: el vídeo del ‘regalo’ se hace viral",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773785731.894745,
+    "cached_at": 1773871938.3974638,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
@@ -279,14 +279,14 @@
         "url": "http://www.xataka.com/robotica-e-ia/creiamos-que-capturabamos-pokemon-movil-que-no-sabiamos-que-realidad-estabamos-preparando-mundo-para-maquinas"
       },
       {
-        "title": "ChatGPT tiene un modo \"adulto\" para mantener conversaciones eróticas. Los asesores de OpenAI creen que es una mala idea",
+        "title": "El té matcha es la enésima moda salida de las redes sociales. Pero esta vez tiene claros beneficios para tu cerebro",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/openai-penso-que-poner-modo-erotico-a-chatgpt-era-buena-idea-sus-asesores-bienestar-llaman-coach-suicidio-sexy"
+        "url": "http://xataka.com/medicina-y-salud/te-ries-matcha-tu-amigo-tech-bro-ciencia-confirma-que-bomba-para-salud-frena-alergias"
       }
     ],
-    "cached_at": 1773785732.4869397,
+    "cached_at": 1773871938.9126844,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
