@@ -1069,77 +1069,77 @@
   "47c2bc6816549fbd4391587ad907de1b4a35f331cc234d17a1e0ece63b6178da": {
     "data": [
       {
-        "title": "AI at Marquette: FAQ on responsible use, recommended tools for faculty and staff",
+        "title": "In The Lab: The Tools of the Trade",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Proposed Rules Could Undermine Affordability Tools for Americans",
+        "title": "These players have the best tools in Spring Breakout",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "AI case study for law professors: How to build complimentary teaching tools",
+        "title": "New PRIME tools to accelerate development of medicines in the EU",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "AI-powered workplace tools keep tabs on employees",
+        "title": "Polymer additive manufacturing tools for sheet metal forming: a combined simulation and experimental study",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Paraguay strengthens its statistical geoportal with new territorial analysis tools",
+        "title": "Aderant Adds AI-Powered Performance Evaluation Tools to Its vi Talent Management Suite",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773759002.0585623,
+    "cached_at": 1773845598.1674926,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "92ad7a04052f3c14b23389817cda9215b8114296c6bad566e117afe5cafcbd04": {
     "data": [
       {
-        "title": "Archive for March 2026 - Page 15 | The Verge",
+        "title": "Las grandes tecnológicas se unen para combatir las estafas online del crimen organizado | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://on.theverge.com/archives/2026/3/15"
+        "url": "https://es.wired.com/articulos/las-grandes-tecnologicas-se-unen-para-combatir-las-estafas-online-del-crimen-organizado"
       },
       {
-        "title": "Apps Archive for March 2026 - Page 1 | The Verge",
+        "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/archives/apps/2026/3/1"
+        "url": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/"
       },
       {
-        "title": "Nvidia's version of OpenClaw could solve its biggest problem: security | TechCrunch",
+        "title": "PlayStation Portal recibe una actualización que ofrece \"una experiencia optimizada en general\": estas son las novedades",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/"
+        "url": "https://es.ign.com/playstation-project-q/227717/news/playstation-portal-recibe-una-actualizacion-que-ofrece-una-experiencia-optimizada-en-general-estas-s"
       },
       {
-        "title": "Ai Artificial Intelligence Archive for March 2026 - Page 7 | The Verge",
+        "title": "La IA ya está cumpliendo la peores pesadillas de los gamers | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://on.theverge.com/archives/ai-artificial-intelligence/2026/3/7"
+        "url": "https://es.wired.com/articulos/la-ia-ya-esta-cumpliendo-la-peores-pesadillas-de-los-gamers"
       }
     ],
-    "cached_at": 1773759002.595688,
+    "cached_at": 1773845598.7745898,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
