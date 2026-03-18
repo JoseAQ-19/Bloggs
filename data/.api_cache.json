@@ -62,42 +62,42 @@
   "4618dd580265f460566f713ecc35b03ce5ab52b17e317eed8d0201579ddcf0d6": {
     "data": [
       {
-        "title": "On Air Fitness, la cadena de gimnasios más importante de Francia, llega a España",
+        "title": "Brentford face Damsgaard fitness worry before Leeds as Keith Andrews delivers frustrating update",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El gimnasio lalinense VitalQI celebra sus 43 años inaugurando una sala de fitness de vanguardia",
+        "title": "La catalana The Club Fitness 2025 amplía capital y roza los 300.000 euros",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Anytime Fitness refuerza su expansión en Cataluña con la apertura de un nuevo club en Molins de Rei",
+        "title": "Denuncian que no se reparan las máquinas de la sala fitness del polideportivo Landako",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Peloton sale del ‘home fitness’ y lanza productos para gimnasios de uso intensivo",
+        "title": "Gym Nation introduce la siesta como nueva disciplina fitness en Oriente Medio",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Nueva andadura profesional en sector fitness",
+        "title": "Fitness solidario en un instituto de Segovia",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773722399.4030933,
+    "cached_at": 1773809039.5964067,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
@@ -111,18 +111,18 @@
         "url": "https://as.com/actualidad/sociedad/on-air-fitness-la-cadena-de-gimnasios-mas-importante-de-francia-llega-a-espana-f202603-n/"
       },
       {
-        "title": "El deporte ha dejado de fingir que todo va bien - AS.com",
+        "title": "Isabel Sánchez, nutricionista: “Es importante entender la creatina como una herramienta, no como un atajo” - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/futbol/primera/el-deporte-ha-dejado-de-fingir-que-todo-va-bien-f202603-n/"
+        "url": "https://as.com/tikitakas/salud/isabel-sanchez-nutricionista-es-importante-entender-la-creatina-como-una-herramienta-no-como-un-atajo-f202603-n/"
       },
       {
-        "title": "España estudia acoger una prueba de la Copa del Mundo de MTB en 2027 - AS.com",
+        "title": "Tener un Garmin ahora sale (mucho) más barato. El Forerunner 265 cae de precio con un doblete de descuentos",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://as.com/deportes_accion/bike/espana-estudia-acoger-una-prueba-de-la-copa-del-mundo-de-mtb-en-2027-f202603-n/"
+        "url": "https://www.xataka.com/seleccion/reloj-deportivo-para-casi-todo-garmin-todoterreno-mucho-barato-aniversario-aliexpress"
       },
       {
         "title": "Éxito en la multitudinaria 43.ª Carrera del Agua de Canal de Isabel II con Ayuso en cabeza - AS.com",
@@ -132,7 +132,7 @@
         "url": "http://masdeporte.as.com/masdeporte/polideportivo/exito-en-la-multitudinaria-43-carrera-del-agua-de-canal-de-isabel-ii-con-ayuso-en-cabeza-f202603-n/"
       }
     ],
-    "cached_at": 1773722399.9196162,
+    "cached_at": 1773809039.9637606,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
