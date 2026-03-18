@@ -699,6 +699,27 @@
   "0808acfa9b50a7c0e5b5781f63475f3588580dfb5b58a15baae65a6af4552394": {
     "data": [
       {
+        "title": "Las Acciones de Dividendos Impulsadas por la Estrategia HALO. ¿Podrá Durar esta tendencia?",
+        "source": "google_news_finance",
+        "lang": "es",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTjRma2R2aGtwTzM3S2c4VFlBMjBwVS15N2FVcVZDaVJfTjBUblJ3RktFakhwV2lKeHZmUkM3Y3A5RmI0Y3JCWmRlcWhGb0JDM1o3SjJwNGMwZjlfVjZqRUV5dFVjMGc3QWJ2UkM0TVdXQWtLSnM4azByNWtDLVBmQ0pETkVaRW54c25tRDA2dDNrOFVodThsVjVod3F1aDlMS1RWRUtLWVNGSG5ZRk1QTWxPNkdoZXNYeEFJd1ZtSS0yRUtaa09BRQ?oc=5",
+        "score": 0
+      },
+      {
+        "title": "El ‘fair play’ financiero de la Bundesliga potenciará la inversión",
+        "source": "google_news_finance",
+        "lang": "es",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMVI3dm1OcjFxaTZkSGFtUHFsNlhqWnpXNUJGbmoydEFsUFVkckdUdU8zdG5iYmN5Zk5xQ1pzbnptQjl1eU0xdzBhYVFUcHo2YTNYMFhKbkdsUUFRcDBEREdEeVVpRVNNSjRTNTByaGRTZkRRR1lBTWJWV0pyTkVFMTRQcWJ5aXJhWld3MkI3NzBRbkFyNC1uZEU2a2NUNUwtaTNOdmhvcmtYd2luLUVnNnlDZkxtaUdGZHU2Yk45Q2ZlUjZZX2VVb0VYUDhnUll6UzNCOEFjam5KZ9IB3wFBVV95cUxPdmFXdmVaVWZUdXVpVnpycUFRLTExemI3TUV5Z2h2cV9BdmFSSEFnaHdQc2ZjWnFfakE1aHh2S2dEX183WXBUSzYzY3ZlWG9LazR5WGJMSm1fR2JFNF8zN3dpZUxTeTZTVWlPb3Q1U2tTak00UVVzcjAwbWFMRnloQndWVk1SaXp3Q29tM1JxZlZqdEl5R2djRE05TTlCTUcyTXJSQ0xzNVphMlQ1dk5ZSHF0RlRqVm9lTmtjWEM5U3dHSGRHbVkyNDBrRWN1Uk5HYjFIcU5YdHJxWWxFeWJV?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Planes de pensiones indexados 2026: ¿cuál es el mejor?",
+        "source": "google_news_finance",
+        "lang": "es",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZndVSWJhSlpWT2Zsc2x5aUFWUlpVZnBpVjk3a2Jqa0pIUlBvQTNHTnB2MmVYczhGTEhKR1Q0WTZJRFBtc2dibkszVUF6cXpjQXZRLTRSbGFNSEhBcHNBeVdnSFhCaEcwbFloN1pGcVFCLW9LZzRWOWNBRmp0V3F1Z3VsTjBma196VGZXd3FrQ3lVMG9KNkJWQmhQUm1Qb0lSdFVxVA?oc=5",
+        "score": 0
+      },
+      {
         "title": "Los mejores fondos indexados de 2026",
         "source": "google_news_finance",
         "lang": "es",
@@ -706,12 +727,33 @@
         "score": 0
       }
     ],
-    "cached_at": 1773732330.4296887,
+    "cached_at": 1773818722.3563247,
     "func": "fetch_financial_news",
     "args_summary": "()"
   },
   "f7b8ca30d7cd5e551117ce748b5369c972410b6be5bb1c2c4d78da8fd3a1c8c5": {
     "data": [
+      {
+        "title": "Si Busca la Mejor Apuesta a Largo Plazo en la Economía de la IA, Mire al Pasado",
+        "source": "rss_morningstar_es",
+        "lang": "es",
+        "url": "https://www.morningstar.es/es/news/274564/si-busca-la-mejor-apuesta-a-largo-plazo-en-la-economía-de-la-ia-mire-al-pasado.aspx",
+        "score": 0
+      },
+      {
+        "title": "Cómo Obtener una Renta con los ETFs",
+        "source": "rss_morningstar_es",
+        "lang": "es",
+        "url": "https://www.morningstar.es/es/news/274552/cómo-obtener-una-renta-con-los-etfs-.aspx",
+        "score": 0
+      },
+      {
+        "title": "Las Acciones de Dividendos Impulsadas por la Estrategia HALO. ¿Podrá Durar esta tendencia?",
+        "source": "rss_morningstar_es",
+        "lang": "es",
+        "url": "https://www.morningstar.es/es/news/274545/las-acciones-de-dividendos-impulsadas-por-la-estrategia-halo-¿podrá-durar-esta-tendencia.aspx",
+        "score": 0
+      },
       {
         "title": "Por Qué la Bolsa USA se Mantiene Estable durante la Guerra en Irán",
         "source": "rss_morningstar_es",
@@ -725,30 +767,9 @@
         "lang": "es",
         "url": "https://www.morningstar.es/es/news/274510/¿debería-invertir-ahora-en-un-etf-de-petróleo.aspx",
         "score": 0
-      },
-      {
-        "title": "¿Subirá el BCE los Tipos de Interés en Medio de la Guerra con Irán?",
-        "source": "rss_morningstar_es",
-        "lang": "es",
-        "url": "https://www.morningstar.es/es/news/274488/¿subirá-el-bce-los-tipos-de-interés-en-medio-de-la-guerra-con-irán.aspx",
-        "score": 0
-      },
-      {
-        "title": "Bancos Europeos: los Temores sobre el Crédito son Razonables, pero los Excesos crean Oportunidades",
-        "source": "rss_morningstar_es",
-        "lang": "es",
-        "url": "https://www.morningstar.es/es/news/274471/bancos-europeos-los-temores-sobre-el-crédito-son-razonables-pero-los-excesos-crean-oportunidades.aspx",
-        "score": 0
-      },
-      {
-        "title": "Resultados de BMW: Se Espera una Mayor Presión sobre los Márgenes en 2026",
-        "source": "rss_morningstar_es",
-        "lang": "es",
-        "url": "https://www.morningstar.es/es/news/274467/resultados-de-bmw-se-espera-una-mayor-presión-sobre-los-márgenes-en-2026.aspx",
-        "score": 0
       }
     ],
-    "cached_at": 1773732331.0909207,
+    "cached_at": 1773818722.9728847,
     "func": "fetch_competitor_rss",
     "args_summary": "()"
   },

@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-17T07:25:51.231943+00:00",
-  "total_candidates": 6,
+  "scouted_at": "2026-03-18T07:25:58.467109+00:00",
+  "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos indexados en 2026: ¿Qué 3 fondos superaron el rendimiento del mercado en un 15%?",
+      "title": "Las mejores acciones de dividendos de la estrategia HALO: ¿un rendimiento del 8% sostenible en 2024?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis de los ETFs de petróleo: ¿Cuál ha tenido un retorno del 25% en 2023 a pesar de la volatilidad?",
+      "title": "Comparativa de los fondos indexados de 2026: ¿cuáles superan el 15% de rentabilidad?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Bancos europeos bajo la lupa: Oportunidades en medio de temores de crédito con un 10% de rentabilidad en 2024.",
+      "title": "ETFs de petróleo: ¿podría el fondo X haber duplicado su rendimiento en el último año?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,9 +49,39 @@
   },
   "all_headlines": [
     {
+      "title": "Las Acciones de Dividendos Impulsadas por la Estrategia HALO. ¿Podrá Durar esta tendencia?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTjRma2R2aGtwTzM3S2c4VFlBMjBwVS15N2FVcVZDaVJfTjBUblJ3RktFakhwV2lKeHZmUkM3Y3A5RmI0Y3JCWmRlcWhGb0JDM1o3SjJwNGMwZjlfVjZqRUV5dFVjMGc3QWJ2UkM0TVdXQWtLSnM4azByNWtDLVBmQ0pETkVaRW54c25tRDA2dDNrOFVodThsVjVod3F1aDlMS1RWRUtLWVNGSG5ZRk1QTWxPNkdoZXNYeEFJd1ZtSS0yRUtaa09BRQ?oc=5"
+    },
+    {
+      "title": "El ‘fair play’ financiero de la Bundesliga potenciará la inversión",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMVI3dm1OcjFxaTZkSGFtUHFsNlhqWnpXNUJGbmoydEFsUFVkckdUdU8zdG5iYmN5Zk5xQ1pzbnptQjl1eU0xdzBhYVFUcHo2YTNYMFhKbkdsUUFRcDBEREdEeVVpRVNNSjRTNTByaGRTZkRRR1lBTWJWV0pyTkVFMTRQcWJ5aXJhWld3MkI3NzBRbkFyNC1uZEU2a2NUNUwtaTNOdmhvcmtYd2luLUVnNnlDZkxtaUdGZHU2Yk45Q2ZlUjZZX2VVb0VYUDhnUll6UzNCOEFjam5KZ9IB3wFBVV95cUxPdmFXdmVaVWZUdXVpVnpycUFRLTExemI3TUV5Z2h2cV9BdmFSSEFnaHdQc2ZjWnFfakE1aHh2S2dEX183WXBUSzYzY3ZlWG9LazR5WGJMSm1fR2JFNF8zN3dpZUxTeTZTVWlPb3Q1U2tTak00UVVzcjAwbWFMRnloQndWVk1SaXp3Q29tM1JxZlZqdEl5R2djRE05TTlCTUcyTXJSQ0xzNVphMlQ1dk5ZSHF0RlRqVm9lTmtjWEM5U3dHSGRHbVkyNDBrRWN1Uk5HYjFIcU5YdHJxWWxFeWJV?oc=5"
+    },
+    {
+      "title": "Planes de pensiones indexados 2026: ¿cuál es el mejor?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZndVSWJhSlpWT2Zsc2x5aUFWUlpVZnBpVjk3a2Jqa0pIUlBvQTNHTnB2MmVYczhGTEhKR1Q0WTZJRFBtc2dibkszVUF6cXpjQXZRLTRSbGFNSEhBcHNBeVdnSFhCaEcwbFloN1pGcVFCLW9LZzRWOWNBRmp0V3F1Z3VsTjBma196VGZXd3FrQ3lVMG9KNkJWQmhQUm1Qb0lSdFVxVA?oc=5"
+    },
+    {
       "title": "Los mejores fondos indexados de 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53V0hhSG1Sc2J5emkyMUVCcWxCcHdYSGZhMWtqNFUtQ3pvZFZoTnlmcWhsaXhwNTc2Z2UxWEZpQ2NlVEljaW9OZjV1bG1XWXdfT2pxNkRMSG5FYVhGdXJmY0pMSkhCMDdEdXNrbzlpTE9xWnc?oc=5"
+    },
+    {
+      "title": "Si Busca la Mejor Apuesta a Largo Plazo en la Economía de la IA, Mire al Pasado",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274564/si-busca-la-mejor-apuesta-a-largo-plazo-en-la-economía-de-la-ia-mire-al-pasado.aspx"
+    },
+    {
+      "title": "Cómo Obtener una Renta con los ETFs",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274552/cómo-obtener-una-renta-con-los-etfs-.aspx"
+    },
+    {
+      "title": "Las Acciones de Dividendos Impulsadas por la Estrategia HALO. ¿Podrá Durar esta tendencia?",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274545/las-acciones-de-dividendos-impulsadas-por-la-estrategia-halo-¿podrá-durar-esta-tendencia.aspx"
     },
     {
       "title": "Por Qué la Bolsa USA se Mantiene Estable durante la Guerra en Irán",
@@ -62,21 +92,6 @@
       "title": "¿Debería Invertir Ahora en un ETF de Petróleo?",
       "source": "rss_morningstar_es",
       "url": "https://www.morningstar.es/es/news/274510/¿debería-invertir-ahora-en-un-etf-de-petróleo.aspx"
-    },
-    {
-      "title": "¿Subirá el BCE los Tipos de Interés en Medio de la Guerra con Irán?",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274488/¿subirá-el-bce-los-tipos-de-interés-en-medio-de-la-guerra-con-irán.aspx"
-    },
-    {
-      "title": "Bancos Europeos: los Temores sobre el Crédito son Razonables, pero los Excesos crean Oportunidades",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274471/bancos-europeos-los-temores-sobre-el-crédito-son-razonables-pero-los-excesos-crean-oportunidades.aspx"
-    },
-    {
-      "title": "Resultados de BMW: Se Espera una Mayor Presión sobre los Márgenes en 2026",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274467/resultados-de-bmw-se-espera-una-mayor-presión-sobre-los-márgenes-en-2026.aspx"
     }
   ]
 }
