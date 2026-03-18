@@ -370,6 +370,13 @@
   "1aa06cf232e59b4099181fc77bc2032cca3f1701bcd8a89857881f3d3a40d006": {
     "data": [
       {
+        "title": "PIPPIN crypto se desploma un 55%: ¿es el fin del unicornio AI?",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
         "title": "BTCUSD",
         "source": "google_news",
         "lang": "es",
@@ -377,98 +384,91 @@
         "url": ""
       },
       {
-        "title": "Mintos broadens its offering with regulated crypto ETPs in collaboration with Upvest",
+        "title": "MyInvestor quiere ofrecer criptodivisas: firma un acuerdo con Prosegur Crypto y Minos para explorarlo",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "perspectivas de The Crypto Basic(@The_Crypto_Basic)",
+        "title": "Bybit Pay Brings Everyday QR Crypto Payments to Bolivia With Yape",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Vietnam impulsa las bolsas locales de criptomonedas mientras Hanoi avanza para bloquear el comercio offshore: Reuters",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "¿Extenderán Bitcoin, Ethereum y XRP la recuperación?",
+        "title": "Proof of Talk 2026 lanza el Crypto Content Council",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773765209.109653,
+    "cached_at": 1773851555.0966165,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "5c20aedfee12fab17574d9716695b511d7e61e204e2a7e9a7f897f9646417150": {
     "data": [
       {
-        "title": "Ottie: Why Crypto Needs Its Own Agent",
+        "title": "TrustAgentAI – Cryptographic receipts for MCP tool calls (non-repudiation layer)",
         "source": "hackernews",
         "lang": "en",
-        "score": 2,
-        "url": "https://twitter.com/yq_acc/status/2033486467411198012"
+        "score": 6,
+        "url": ""
       },
       {
-        "title": "Cryptographic Receipts for AI Inference",
+        "title": "Quantum Cryptography Pioneers Win Turing Award",
         "source": "hackernews",
         "lang": "en",
-        "score": 2,
-        "url": "https://six-sov.com/"
+        "score": 5,
+        "url": "https://www.quantamagazine.org/quantum-cryptography-pioneers-win-turing-award-20260318/"
       },
       {
-        "title": "Show HN: I recovered 1.55 ETH from a type-casting bug in a 2021 crypto wallet",
+        "title": "Likely Crypto Airdrop Scam Targeting GitHub Contributors (OpenClaw / $Claw)",
         "source": "hackernews",
         "lang": "en",
-        "score": 2,
-        "url": "https://github.com/RobMulla/coinspace-eth-recovery"
+        "score": 4,
+        "url": ""
       }
     ],
-    "cached_at": 1773765209.3867052,
+    "cached_at": 1773851555.4429843,
     "func": "fetch_hackernews",
     "args_summary": "(['crypto'],)"
   },
   "151a07ed322d3cbdd77d65398c3a13cd6a0111c87db69f3fd0b926d706a54d98": {
     "data": [
       {
-        "title": "Adiós a los cheques: el IRS cambia cómo pagará el dinero federal - AS USA",
+        "title": "El Bitcoin en el limbo mientras los activos de la \"vieja economía\" acaparan la atención durante el conflicto en Irán",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/us/actualidad/adios-a-los-cheques-el-irs-cambia-como-pagara-el-dinero-federal-f202603-n/"
+        "url": "https://www.businessinsider.es/neobancos/bitcoin-limbo-activos-vieja-economia-acaparan-atencion-conflicto-iran_6946353_0.html"
       },
       {
-        "title": "Si declaraste impuestos en estas fechas, podrías cobrar la próxima semana - AS USA",
+        "title": "La Unión Europea cambia las reglas del pago en efectivo y también afecta a España",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/us/actualidad/si-declaraste-impuestos-en-estas-fechas-podrias-cobrar-la-proxima-semana-f202603-n/"
+        "url": "https://www.businessinsider.es/economia/union-europea-pago-efectivo-2027_6928640_0.html"
       },
       {
-        "title": "El \"cristianismo\" como coartada estética: la Generación Z quiere creer en algo y su respuesta está siendo espiritual",
+        "title": "Los mercados han subestimado algo con la guerra de Irán: el riesgo de recesión es tan real como la crisis energética",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://www.businessinsider.es/mercados/mercados-subestimado-guerra-iran-riesgo-recesion-real-crisis-energetica_6946643_0.html"
+      },
+      {
+        "title": "Rusia estaba atascada en Ucrania y sin poder vender su petróleo legalmente. Hasta que EEUU decidió atacar a Irán",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/magnet/nueva-espiritualidad-generacion-z-que-creen-chavales-que-han-decidido-creer-algo-pleno-2026"
-      },
-      {
-        "title": "Saturno tiene un hexágono perfecto en su polo norte. Llevamos décadas intentando comprenderlo sin éxito",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/espacio/hace-40-anos-descubrimos-misterioso-hexagono-saturno-hoy-solo-hay-unica-explicacion-posible"
+        "url": "https://xataka.com/energia/99-dolares-barril-visto-bueno-washington-asi-se-ha-convertido-rusia-gran-ganador-crisis-ormuz"
       }
     ],
-    "cached_at": 1773765210.1248538,
+    "cached_at": 1773851556.0294294,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
