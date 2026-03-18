@@ -349,3 +349,4 @@ ia: La IA transforma hasta la limpieza de piscinas: ¿qué más nos espera?
 ia: How an AI Candidate Changed the Game in Colombia’s Elections
 tools: Revolución en la investigación: Elsevier lanza una herramienta para verificar la credibilidad de artículos
 tools: Unlocking Innovation: The Game-Changing Tools Revolutionizing Medicine Development in the EU
+crypto: SEC Declares Bitcoin, Ether, and Solana as Digital Commodities: What It Means for the Crypto Landscape
