@@ -11,64 +11,69 @@ language: "es"
 translationKey: "6f68db0a-6246-b067-68ca-094b84af3d9e"
 ---
 
-![Terianos: La Revolución Silenciosa Que Está Reconfigurando La Cultura Cubana](/images/terianos-cuba-polemica-redes.jpg)
+# Terianos: La red clandestina que desafía la censura digital en Cuba  
 
-El acceso a internet en Cuba sigue siendo un privilegio, no un derecho. Terianos, una red clandestina, busca cambiar esa realidad.
+El acceso a internet en Cuba sigue siendo un privilegio, no un derecho. Terianos, una red clandestina, está desafiando esta realidad al permitir que más de 100.000 cubanos sorteen las restricciones de internet impuestas por el gobierno. Esta red opera mediante conexiones inalámbricas ilegales y el intercambio de contenido al margen de ETECSA, la empresa estatal de telecomunicaciones.  
 
-* Más de 100,000 cubanos están utilizando Terianos para sortear las restricciones de internet impuestas por el gobierno.
-* El acceso a esta red se realiza a través de conexiones inalámbricas ilegales y compartiendo contenido sin la autorización de ETECSA, la empresa estatal de telecomunicaciones.
-* La persistencia de Terianos demuestra una creciente demanda de libertad de información y acceso a contenido global en la isla, a pesar de los riesgos legales.
+La existencia de Terianos evidencia el deseo creciente de los ciudadanos por acceder a información global sin censura, incluso bajo el riesgo de enfrentarse a sanciones legales o técnicas.  
 
-## La Brecha Digital en Cuba: Terianos Contra el Control Estatal
+## La brecha digital en Cuba: un control estatal estricto versus la resistencia ciudadana  
 
-El control estatal sobre internet en Cuba restringe la libertad de expresión y el acceso a información vital. Esta política se justifica como una medida de seguridad nacional y un filtro contra la "desinformación". Mientras que el discurso oficial promueve la idea de un acceso equitativo y regulado, la realidad es que las conexiones son costosas, lentas y sujetas a una estricta censura. La existencia de Terianos es una respuesta directa a esta situación, una demostración de la necesidad de los ciudadanos de acceder a un mundo digital sin las barreras impuestas por el Estado.
+Cuba mantiene un férreo control estatal sobre la infraestructura de internet, bajo la justificación de proteger la seguridad nacional y combatir la "desinformación". Sin embargo, la realidad es que las conexiones son caras, lentas y estrictamente vigiladas. Según el [Banco Mundial](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=CU), apenas el 40% de los hogares cubanos tienen acceso a internet, una de las tasas más bajas de América Latina.  
 
-Terianos representa una grieta en el muro de control informativo. No es solo una red, sino un movimiento que desafía la narrativa oficial y busca democratizar el acceso a la información. La paradoja reside en que, mientras el gobierno invierte en tecnología para fortalecer su control, la propia población utiliza esa misma tecnología para subvertirlo. Este pulso entre control y libertad define el panorama digital cubano.
+Además del coste elevado, el acceso a internet está condicionado por filtros gubernamentales que bloquean el acceso a sitios web extranjeros considerados "subversivos". Plataformas de medios independientes, foros de debate y redes sociales suelen ser objeto de censura. Este bloqueo no solo limita la libertad de expresión, sino también las oportunidades económicas, educativas y sociales de la población.
 
-## Funcionamiento de Terianos: Acceso Creativo y Descentralizado
+Terianos surge como una respuesta directa a esta situación. Más que una simple red, es un movimiento que desafía las narrativas oficiales y busca democratizar el acceso a la información. Mientras el gobierno invierte en tecnologías para reforzar su control, los ciudadanos emplean creatividad y conocimientos técnicos para sortear estas barreras en un pulso constante por la libertad digital.
 
-Terianos opera como una red mallada descentralizada construida por los propios usuarios, basada en conexiones inalámbricas ilegales y el intercambio de contenido offline. A diferencia del internet tradicional, que depende de la infraestructura controlada por [ETECSA](https://www.etecsa.cu/) (Empresa de Telecomunicaciones de Cuba S.A.), Terianos se basa en conexiones inalámbricas ilegales y el intercambio de contenido offline. Los usuarios comparten archivos, aplicaciones y acceso a internet a través de puntos de acceso clandestinos, creando una red paralela que opera al margen de la supervisión estatal. Esta descentralización hace que la red sea difícil de rastrear y controlar, lo que la convierte en una herramienta poderosa para evadir la censura.
+A nivel internacional, organizaciones como [Human Rights Watch](https://www.hrw.org/world-report/2023/country-chapters/cuba) han documentado cómo el acceso limitado a internet es una herramienta clave para perpetuar el autoritarismo en la isla. Este contexto hace que iniciativas como Terianos sean mucho más que un reto técnico: son un acto de resistencia política y social.  
 
-ETECSA, la única proveedora de servicios de telecomunicaciones en Cuba, ofrece acceso a internet a precios que resultan prohibitivos para muchos ciudadanos. Además, la velocidad de conexión es limitada y el contenido está fuertemente censurado. Ante esta situación, Terianos surge como una alternativa viable y accesible, permitiendo a los usuarios acceder a contenido sin las restricciones impuestas por el gobierno y a un costo significativamente menor. Esta economía alternativa de la información desafía el monopolio de ETECSA y pone en evidencia las limitaciones del modelo de acceso controlado a internet. Para entender la magnitud del problema, basta con señalar que, según datos de 2023, Cuba tiene una de las tasas de penetración de internet más bajas de América Latina, con un porcentaje de hogares conectados que apenas supera el 40%, según datos del [Banco Mundial](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=CU). Esta situación contrasta con países como Chile o Uruguay, donde la penetración supera el 80%.
+## ¿Cómo funciona Terianos? Una red descentralizada e independiente  
 
-## Los Rostros Detrás de la Red: Creadores de Terianos y Su Lucha Contra el Anonimato
+Terianos es una red mallada descentralizada que opera gracias a conexiones inalámbricas ilegales y al intercambio de contenido offline. Los usuarios crean puntos de acceso clandestinos donde comparten archivos, aplicaciones e incluso internet, todo sin la intermediación de ETECSA.  
 
-Los creadores de Terianos son una comunidad de individuos anónimos que arriesgan su seguridad para mantener la red en funcionamiento y garantizar el acceso libre a la información. Un ejemplo es un ingeniero conocido como "El Navegante", uno de los muchos administradores de nodos de Terianos. Estos individuos, a menudo jóvenes con habilidades técnicas, ven en Terianos una forma de contribuir al cambio social y de desafiar el autoritarismo. Su anonimato es una medida de protección frente a las represalias del gobierno, que persigue activamente a quienes intentan subvertir el control informativo.
+ETECSA, que es el único proveedor oficial de telecomunicaciones en Cuba, ofrece servicios a precios prohibitivos y con una velocidad limitada. Esto, sumado a la censura, ha convertido a Terianos en una alternativa viable para los ciudadanos que buscan una conexión más accesible y libre.  
 
-La lucha por mantener Terianos en funcionamiento no está exenta de riesgos. Las autoridades cubanas imponen fuertes sanciones a quienes participan en actividades de redes no autorizadas, incluyendo multas, confiscación de equipos e incluso penas de prisión. A pesar de estos riesgos, los creadores de Terianos persisten en su labor, impulsados por la convicción de que el acceso a la información es un derecho fundamental. Su valentía y determinación son un testimonio del poder de la sociedad civil para desafiar el control estatal y buscar alternativas a la censura. La situación recuerda a las primeras redes de intercambio de archivos en Europa del Este durante la Guerra Fría, donde la tecnología se utilizaba para sortear la censura y acceder a información prohibida.
+El modelo de Terianos refleja una economía alternativa de la información en la isla, que pone en cuestión el monopolio de ETECSA. Además, este fenómeno recuerda estrategias de resistencia digital en otros países bajo regímenes autoritarios, como China o Irán, donde las redes paralelas han sido clave para sortear la censura.  
 
-## Riesgos Legales y Técnicos Para los Usuarios de Terianos
+El funcionamiento técnico de Terianos se basa en una arquitectura de red mesh (mallada), donde cada nodo actúa como un punto de retransmisión que amplifica la señal y permite que la información fluya de manera descentralizada. Este modelo es particularmente efectivo en entornos urbanos densos, como La Habana, donde las conexiones clandestinas pueden extenderse rápidamente. Sin embargo, en zonas rurales, la infraestructura es más limitada, lo que subraya la desigualdad territorial en el acceso a estas redes.  
 
-El uso de Terianos implica riesgos legales y técnicos, incluyendo sanciones por acceder a redes no autorizadas y vulnerabilidad a ciberataques. Los usuarios se enfrentan a sanciones legales impuestas por el Ministerio de Comunicaciones de Cuba por acceder a redes no autorizadas, así como a riesgos técnicos. La falta de seguridad en las redes clandestinas las hace vulnerables a ataques cibernéticos y al robo de datos personales. Además, la calidad del servicio puede ser inestable y la velocidad de conexión limitada.
+## Los creadores de Terianos: héroes anónimos en un entorno hostil  
 
-Estos riesgos a menudo son minimizados por los defensores de Terianos, quienes se centran en los beneficios de acceder a información libremente. Sin embargo, es importante ser conscientes de los costos ocultos asociados con el uso de estas redes. La falta de regulación y supervisión las convierte en un terreno peligroso, donde los usuarios pueden ser víctimas de estafas, robo de identidad o incluso ser expuestos a contenido ilegal o perjudicial. La necesidad de un acceso seguro y regulado a internet es evidente, pero mientras el gobierno mantenga su control, Terianos seguirá siendo una alternativa, aunque imperfecta. Es crucial que los usuarios tomen precauciones básicas, como el uso de **VPNs** (redes privadas virtuales) y software antivirus actualizado, para mitigar estos riesgos.
+Detrás de Terianos hay una comunidad de técnicos y ciudadanos anónimos que arriesgan su libertad para mantener la red operativa. Uno de ellos es "El Navegante", un ingeniero que administra nodos y simboliza la resistencia frente al autoritarismo.  
 
-## El Futuro de Internet en Cuba: ¿Libertad Digital o Mayor Vigilancia?
+Estos creadores enfrentan riesgos significativos, desde multas y confiscación de equipos hasta posibles penas de prisión. A pesar de ello, siguen adelante, impulsados por la convicción de que el acceso a la información es un derecho fundamental. Su trabajo recuerda las redes de samizdat de Europa del Este durante la Guerra Fría, donde la tecnología servía para desafiar la censura y compartir información prohibida.  
 
-El futuro de internet en Cuba es incierto, oscilando entre la demanda de libertad de información y la inversión gubernamental en tecnologías de vigilancia. La demanda de libertad de información y acceso a contenido global sigue creciendo, impulsada por la expansión de las tecnologías digitales y la creciente conectividad global, pero el gobierno cubano está invirtiendo fuertemente en tecnologías de vigilancia y control, con el objetivo de mantener su hegemonía informativa y prevenir cualquier intento de subversión.
+La comunidad de Terianos no solo se limita a técnicos. Jóvenes autodidactas, profesionales de distintas áreas y ciudadanos comunes colaboran en esta red para garantizar su funcionamiento. Las historias de solidaridad en torno a Terianos son numerosas: desde personas que donan equipos obsoletos hasta quienes comparten conocimientos técnicos en talleres clandestinos.
 
-Algunos analistas creen que el gobierno cubano eventualmente flexibilizará su control sobre internet, permitiendo un acceso más amplio y menos censurado. Sin embargo, otros temen que la situación empeore, con un aumento de la vigilancia y la represión de la disidencia online. La clave para el futuro digital de Cuba reside en la capacidad de la sociedad civil para organizarse y presionar por reformas que garanticen el derecho al acceso a la información y la libertad de expresión. Si el gobierno continúa aferrándose a su control, Terianos y otras iniciativas clandestinas seguirán siendo la única alternativa para muchos cubanos. La experiencia de otros países con regímenes autoritarios, como China o Irán, sugiere que la lucha por la libertad digital será larga y difícil. Amnistía Internacional ha denunciado en repetidas ocasiones la [represión online en Cuba](https://www.amnesty.org/es/location/americas/cuba/).
+## Los riesgos de usar Terianos: ¿libertad a qué precio?  
 
-Para comprender mejor la situación, es útil analizar las estrategias que el gobierno cubano está empleando para controlar el acceso a internet. Estas estrategias incluyen:
+El uso de Terianos no está exento de peligros. Desde sanciones legales impuestas por el gobierno cubano hasta vulnerabilidades técnicas, los usuarios deben lidiar con una serie de riesgos. Las redes clandestinas carecen de medidas de seguridad robustas, lo que las hace susceptibles a ciberataques y al robo de datos personales.  
 
-*   **Censura de contenido:** El gobierno bloquea el acceso a sitios web y aplicaciones considerados críticos o subversivos.
-*   **Control de la infraestructura:** ETECSA, la empresa estatal de telecomunicaciones, controla toda la infraestructura de internet en el país.
-*   **Vigilancia online:** El gobierno monitorea la actividad online de los ciudadanos y persigue a quienes expresan opiniones críticas.
-*   **Promoción de una "internet alternativa":** El gobierno promueve el uso de una intranet controlada, que ofrece acceso limitado a contenido aprobado por el Estado.
+Además, su infraestructura limitada puede ofrecer una calidad de servicio inestable. No obstante, para muchos cubanos, los beneficios de acceder a información sin censura superan estos riesgos. El uso de herramientas como **VPNs** y software antivirus actualizado es esencial para mitigar parte de estas amenazas.  
 
-Frente a estas estrategias, la sociedad civil cubana está desarrollando diversas tácticas para sortear la censura y acceder a información libremente. Estas tácticas incluyen:
+El gobierno cubano ha intensificado su ofensiva contra las redes clandestinas, empleando tecnologías de detección de señales y redadas sorpresa para desmantelar los nodos de la red. Esto ha obligado a los usuarios a operar en un estado constante de alerta, dificultando la expansión y sostenibilidad de Terianos.  
 
-*   **Uso de VPNs:** Las VPNs permiten a los usuarios ocultar su dirección IP y acceder a contenido bloqueado.
-*   **Redes offline:** Iniciativas como El Paquete Semanal distribuyen contenido digital offline a través de dispositivos de almacenamiento portátiles.
-*   **Redes mesh:** Terianos es un ejemplo de red mesh, que permite a los usuarios compartir acceso a internet de forma descentralizada.
-*   **Educación digital:** Organizaciones independientes ofrecen cursos de alfabetización digital para ayudar a los ciudadanos a utilizar internet de forma segura y responsable.
+## El futuro digital de Cuba: ¿libertad o más control?  
 
-## Conclusiones
+El panorama digital en Cuba está en una encrucijada. Por un lado, la sociedad civil demanda mayor acceso a información y libertad de expresión. Por otro, el gobierno refuerza las estrategias de control, como la censura de contenido, la vigilancia online y la promoción de intranets controladas.  
 
-Terianos es una respuesta a la censura y la falta de acceso a internet en Cuba, demostrando la capacidad de la sociedad civil para organizarse y encontrar soluciones creativas. Es un testimonio de la capacidad de la sociedad civil para organizarse y encontrar soluciones creativas a los problemas que enfrenta. Sin embargo, es fundamental que los usuarios sean conscientes de los riesgos asociados con el uso de estas redes clandestinas y tomen medidas para proteger su seguridad y privacidad.
+La experiencia de otros países muestra que la lucha por la libertad digital puede ser larga, pero iniciativas como Terianos demuestran que la resistencia es posible. Organizaciones como [Amnistía Internacional](https://www.amnesty.org/es/location/americas/cuba/) han denunciado reiteradamente la represión online en Cuba, subrayando la necesidad de apoyo internacional para garantizar los derechos digitales.  
 
-Es necesario apoyar programas de alfabetización digital que permitan a los cubanos utilizar internet de forma segura y responsable. Además, es importante abogar por cambios en las políticas gubernamentales que garanticen el derecho al acceso a la información y la libertad de expresión. La comunidad internacional también tiene un papel que desempeñar, presionando al gobierno cubano para que respete los derechos humanos y las libertades fundamentales.
+Entre las tácticas de resistencia que ya se emplean en la isla destacan:  
 
-Terianos: una grieta en el muro, una chispa de esperanza digital. Es un ejemplo de cómo la tecnología puede ser utilizada para desafiar el autoritarismo y promover la libertad. Sin embargo, la lucha por la libertad digital en Cuba está lejos de haber terminado.
+- **Uso de VPNs:** Para ocultar la actividad online y sortear bloqueos.  
+- **Redes offline:** Como "El Paquete Semanal", que distribuye contenido digital sin conexión.  
+- **Educación digital:** Talleres independientes para enseñar a los ciudadanos a navegar con seguridad.  
 
-Artículos Relacionados:
+Además, movimientos como Terianos han comenzado a atraer la atención de la diáspora cubana y organizaciones internacionales, que han ofrecido soporte técnico y recursos financieros para fortalecer estas iniciativas. La colaboración global podría ser clave para garantizar la sostenibilidad y expansión de estas redes.  
+
+## Conclusión  
+
+Terianos es una grieta en el muro de censura en Cuba, un ejemplo de cómo la sociedad civil puede organizarse para encontrar soluciones creativas frente al autoritarismo. Sin embargo, su existencia también subraya la urgencia de políticas que garanticen el acceso seguro y regulado a internet para todos los cubanos.  
+
+El futuro de la libertad digital en Cuba dependerá de la capacidad de su población para seguir innovando y presionando por reformas, así como del apoyo de la comunidad internacional. Por ahora, redes como Terianos siguen siendo un símbolo de esperanza en una lucha que está lejos de terminar.  
+
+**Artículos Relacionados:**  
+- **Cómo funcionan las redes mesh y su potencial para la resistencia digital.**  
+- **Censura en la era digital: ¿Qué podemos aprender de otros países?**  
+- **El Paquete Semanal: la otra cara de la resistencia offline en Cuba.**
