@@ -347,3 +347,4 @@ fitness: Hyrox Revolution: Why This New Fitness Trend is Captivating the Industr
 fitness: Tragedy Strikes: A Fatal Incident Shakes the Shreveport Planet Fitness Community
 ia: La IA transforma hasta la limpieza de piscinas: ¿qué más nos espera?
 ia: How an AI Candidate Changed the Game in Colombia’s Elections
+tools: Revolución en la investigación: Elsevier lanza una herramienta para verificar la credibilidad de artículos
