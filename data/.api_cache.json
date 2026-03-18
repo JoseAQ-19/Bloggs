@@ -139,70 +139,77 @@
   "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
     "data": [
       {
-        "title": "Harmit Singh Joins Planet Fitness Board of Directors",
+        "title": "Hyrox Is Taking the Fitness World by Storm, and Academy Sports Is Getting in on the Action",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Fitness influencer’s gym ‘entitlement’ exposed: ‘Just trying to open your toes’",
+        "title": "Harlem Wizards help Pullen students with fitness",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "I'm 76 and joined a fitness group in my 60s. I still train every day and can do 5 muscle-ups.",
+        "title": "Fitness First Wurzburg Baskets v Elan Chalon",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Q4 Rundown: Xponential Fitness (NYSE:XPOF) Vs Other Consumer Discretionary",
+        "title": "Robbery at Shreveport Planet Fitness ends in fatal shooting",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Be Awesome Now: Free St. Patrick’s Day Fitness Fun in Central Texas",
+        "title": "Chattanooga club Fitness Central opening new downtown gym",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773723603.7521188,
+    "cached_at": 1773809570.2780094,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "5f74b081c9753b13b48c085df1624d184c9deb4bc34d11178f03bbc18aeae64e": {
     "data": [
       {
+        "title": "Dados recolhidos via Pokémon Go estão a treinar robots de entrega",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://pt.ign.com/pokemon-go/156017/news/dados-recolhido-via-pokemon-go-estao-a-treinar-robots-de-entrega"
+      },
+      {
+        "title": "Warner Bros. se prepara para la precuela de Ocean's Eleven, y le da toda la responsabilidad a una sola estrella: quieren que escriba, dirija y protagonice la película",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/oceans-eleven-prequel/227640/news/warner-bros-se-prepara-para-la-precuela-de-oceans-eleven-y-le-da-toda-la-responsabilidad-a-una-sola"
+      },
+      {
+        "title": "Amazon sube el precio de su plan sin anuncios, y ese no es el único cambio",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/amazon-prime-video/227641/news/amazon-sube-el-precio-de-su-plan-sin-anuncios-y-ese-no-es-el-unico-cambio"
+      },
+      {
         "title": "My fitness tracker is a secret weapon against my chronic illness | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
         "url": "https://www.theverge.com/features/889835/fitness-trackers-chronic-illness-visible-whoop"
-      },
-      {
-        "title": "Los Oscars 2026: listado completo con todos los ganadores",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.ign.com/oscars/227644/news/los-oscars-2026-listado-completo-con-todos-los-ganadores"
-      },
-      {
-        "title": "Norda 001A G+ Trail Running Shoe Review: As Expensive as an Apple Watch | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "http://www.wired.com/review/norda-001a-g-trail-shoe/"
       }
     ],
-    "cached_at": 1773723604.2141397,
+    "cached_at": 1773809570.8363552,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
