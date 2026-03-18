@@ -1146,42 +1146,42 @@
   "6e9c6a02969a5e9b67222353d8954d32f29ac7ffcd642500a8a27decc747f088": {
     "data": [
       {
-        "title": "Apple Acquires Video Editing Startup MotionVFX to Boost Final Cut Pro Tools",
+        "title": "Elsevier expands article submission screening tool to strengthen research credibility",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El Consejo de Ministros aprueba la declaración como Bien de Interés Cultural del Puente de Cruzul, en Becerreá (Lugo)",
+        "title": "Police Uncover Marijuana Plantation in Petrer Warehouse",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Michael Wayne Domino Jr. vende acciones de Drilling Tools (DTI) por 7.457 dólares",
+        "title": "Why The Trade Desk (TTD) Stock Is Nosediving",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "BARCLAYS AND SAGE ANNOUNCE STRATEGIC PARTNERSHIP TO SIMPLIFY BUSINESS ADMIN FOR UK SMALL BUSINESSES",
+        "title": "Startup de Sam Altman lanza verificador de identidad humana para las compras con agentes de IA",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El papel de los gemelos digitales en la toma de decisiones basada en datos",
+        "title": "Solana Wallet Tracker: qué es, cómo funciona y qué herramientas utilizar",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773754687.1206253,
+    "cached_at": 1773841126.9100559,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
@@ -1192,31 +1192,31 @@
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/basics/que-google-ai-studio-que-puedes-hacer-esta-herramienta-creacion-inteligencia-artificial"
+        "url": "http://www.xataka.com/basics/que-google-ai-studio-que-puedes-hacer-esta-herramienta-creacion-inteligencia-artificial"
       },
       {
-        "title": "OpenClaw cambió las reglas de la carrera de la IA. Las empresas tecnológicas ya tienen su respuesta: copiarlo",
+        "title": "OpenAI lleva años queriendo ser la novia en la boda y el muerto en el entierro: ahora ha definido al fin su prioridad",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/carrera-ia-no-quien-tiene-modelo-potente-quien-lanza-openclaw-facil-seguro"
+        "url": "https://xataka.com/robotica-e-ia/anthropic-esta-ganando-carrera-ia-empresas-asi-que-openai-tiene-nuevo-plan-convertirse-anthropic"
       },
       {
-        "title": "Creíamos que la IA estaba matando el trabajo en la industria  tech. En realidad está cambiando las reglas de juego: Crossover 1x41",
+        "title": "Alibaba crea una herramienta de IA para empresas ante el auge de los asistentes como OpenClaw",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://www.businessinsider.es/tecnologia/alibaba-crea-herramienta-ia-empresas-auge-asistentes-openclaw_6946370_0.html"
+      },
+      {
+        "title": "OpenAI lleva años queriendo ser la novia en la boda y el muerto en el entierro: ahora ha definido al fin su prioridad",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/crossover/creiamos-que-ia-estaba-matando-trabajo-industria-tech-realidad-esta-cambiando-reglas-juego-crossover-1x41"
-      },
-      {
-        "title": "La IA y la automatización prometían más prosperidad. Los salarios en España no están contando la misma historia",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/empresas-y-economia/ia-se-va-a-cebar-quienes-se-ceban-todas-transformaciones-tecnologicas-salarios-bajos"
+        "url": "https://magnet.xataka.com/robotica-e-ia/anthropic-esta-ganando-carrera-ia-empresas-asi-que-openai-tiene-nuevo-plan-convertirse-anthropic"
       }
     ],
-    "cached_at": 1773754687.7934206,
+    "cached_at": 1773841127.3958042,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
