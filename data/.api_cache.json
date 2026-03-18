@@ -992,77 +992,77 @@
   "88f30aaa7bab0042d69286b6e1ddf009c9ed8bd38dd824e484b197be702b0cbf": {
     "data": [
       {
-        "title": "AI (artificial intelligence)",
+        "title": "IA Severe Weather Awareness Week Topics",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "An interview with Ia Genberg and Kira Josefsson, author and translator of Small Comfort",
+        "title": "2026 IHSAA (IA) State Championship",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Donald Downing Obituary",
+        "title": "Jesse Edward Whalen Obituary (1974",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Joel Klein Obituary (1944-2026)",
+        "title": "‘Gaitana IA’: The AI candidate that ran in Colombia’s elections",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "New kitchen at Heal House gets residents cooking",
+        "title": "4725 170th Pl Unit 1, Waukee, IA 50263",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773747958.1128585,
+    "cached_at": 1773834415.626123,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
   "5ed87e0a555e160d6f2e7a9ad4294ea2283b3cea14c5520f93b58951f9855102": {
     "data": [
       {
-        "title": "Google, Accel India accelerator chooses 5 startups and none are 'AI wrappers' | TechCrunch",
+        "title": "La IA ya está cumpliendo la peores pesadillas de los gamers | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/"
+        "url": "https://es.wired.com/articulos/la-ia-ya-esta-cumpliendo-la-peores-pesadillas-de-los-gamers"
       },
       {
-        "title": "Ai Artificial Intelligence Archive for March 2026 - Page 7 | The Verge",
+        "title": "Las grandes tecnológicas se unen para combatir las estafas online del crimen organizado | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://on.theverge.com/archives/ai-artificial-intelligence/2026/3/7"
+        "url": "https://es.wired.com/articulos/las-grandes-tecnologicas-se-unen-para-combatir-las-estafas-online-del-crimen-organizado"
       },
       {
-        "title": "Memories AI is building the visual memory layer for wearables and robotics | TechCrunch",
+        "title": "Nvidia anuncia DLSS 5, llevando aún más IA a los videojuegos, y el resultado es... inquietante",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/?type=AI"
+        "url": "https://es.ign.com/nvidia-rtx-5090/227680/news/nvidia-anuncia-dlss-5-llevando-aun-mas-ia-a-los-videojuegos-y-el-resultado-es-inquietante"
       },
       {
-        "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator | TechCrunch",
+        "title": "Google's Personal Intelligence feature is expanding to all US users | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/"
+        "url": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/"
       }
     ],
-    "cached_at": 1773747958.7684903,
+    "cached_at": 1773834416.193997,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
