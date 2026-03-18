@@ -552,77 +552,77 @@
   "fb4ad1bcef6d3043168469167a15cb1cb1ab0f544701e2b912c49d41dd73fb7a": {
     "data": [
       {
-        "title": "Es oficial: YouTube y la FIFA se unen para la Copa Mundial de la FIFA 2026™",
+        "title": "El POCO X8 Pro aterriza en España con doble descuento y suscripciones a YouTube Premium y Spotify",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La FIFA cede a YouTube el inicio de los partidos del Mundial 2026",
+        "title": "Vídeos con IA en YouTube: el 75% de publicaciones de médicos sobre envejecimiento no declaran el origen con inteligencia artificial",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El Mundial 2026 se juega en YouTube: Google y la FIFA se alían para que no te pierdas ni un gol",
+        "title": "La FIFA revoluciona el Mundial: YouTube será plataforma oficial",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Acuerdo histórico FIFA-Youtube en el Mundial",
+        "title": "YouTube y la FIFA se alían para no perderse nada de la Copa Mundial de la FIFA 2026",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La FIFA y YouTube anuncian un acuerdo para la Copa del Mundo con el fin de retransmitir los primeros 10 minutos de los partidos y así atraer a un público más joven",
+        "title": "Neymar Jr estrena su serie en YouTube y muestra su vida más íntima: familia, dudas y su lucha por volver a Brasil",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773775514.2495923,
+    "cached_at": 1773861771.9854503,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "cfab165c756760f9672efaf7f54fa3040ac0f24e7b4012e5d64766caf60cfad3": {
     "data": [
       {
-        "title": "Estas son las noticias más importantes de la semana - AS USA",
+        "title": "Acuerdo histórico FIFA-Youtube en el Mundial - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/us/videos/estas-son-las-noticias-mas-importantes-de-la-semana-f202603-v-2/"
+        "url": "https://as.com/futbol/internacional/acuerdo-historico-fifa-youtube-de-cara-al-mundial-f202603-n/"
       },
       {
-        "title": "Hay gente que piensa que Netanyahu ha muerto y que solo sobrevive generado por IA en redes sociales",
+        "title": "Conan O'Brien critica la IA en Hollywood y el salto de la gala a YouTube en los Premios Oscar 2026",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://www.businessinsider.es/tecnologia/conan-brien-critica-ia-hollywood-gala-youtube-premios-oscar-2026_6946345_0.html"
+      },
+      {
+        "title": "Conan O’Brien se ríe del futuro de los Oscar en YouTube con uno de los grandes chistes de la gala - Meristation",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/meristation/cine/conan-obrien-se-rie-del-futuro-de-los-oscar-en-youtube-con-uno-de-los-grandes-chistes-de-la-gala-f202603-n/"
+      },
+      {
+        "title": "Apple acaba de comprar el arma secreta de miles de YouTubers. Llevaban 15 años haciendo que sus vídeos parecieran películas",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/magnet/hay-gente-que-piensa-que-netanyahu-ha-muerto-que-solo-sobrevive-generado-ia-redes-sociales"
-      },
-      {
-        "title": "Willyrex se pronuncia sobre el combate de IlloJuan y TheGrefg en La Velada del Año 6 y tiene claro con quien va: \"Mátalo\"",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://www.3djuegos.com/streamers/noticias/illojuan-cuenta-aliado-inesperado-que-quiere-ver-caer-a-thegrefg-velada-ano-6-matalo"
-      },
-      {
-        "title": "La Generación Z no puede pagar el alquiler, pero muy pronto el 38% de los jóvenes será la generación más rica de la historia",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://www.3djuegos.com/3djuegos-trivia/noticias/generacion-z-no-puede-pagar-alquiler-muy-pronto-sera-generacion-rica-historia-1"
+        "url": "https://www.applesfera.com/aplicaciones-os-x-1/estrategia-apple-para-conquistar-a-youtubers-ha-dado-giro-radical-se-acabo-desarrollar-cero-hora-abrir-cartera"
       }
     ],
-    "cached_at": 1773775514.9652636,
+    "cached_at": 1773861772.6753755,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
