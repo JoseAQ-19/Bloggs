@@ -887,42 +887,42 @@
   "21a068db0cd0ba4e3b3272cddddd6e25dad487d2eb369a2766316588951e7843": {
     "data": [
       {
-        "title": "Matchmaking Internacional: Colaboración en Tecnologías Emergentes (IA, Robótica y Espacio)",
+        "title": "La IA está llegando a ámbitos muy locos de nuestra vida. Lo de la limpieza de piscinas es una muestra más de lo que está por venir",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Concha Barceló imparte en l’Alfàs una ponencia sobre IA y educación inclusiva",
+        "title": "Cuando la IA nos pasa delante",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Meta presenta nuevos chips de IA personalizados junto a Broadcom",
+        "title": "Las acciones ACS repuntan con fuerza gracias al impulso de la IA. ¿Demanda infinita de centros de datos?",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Amparito, el whatsapp con IA para conocer y disfrutar las Fallas en idiomas europeos",
+        "title": "Científicos y psicólogos coinciden en que la IA está provocando que las personas hablen, escriban y piensen igual",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "XI Primavera Cultural de Cantabria: geopolítica, literatura, periodismo, IA, clima y educación",
+        "title": "Cisco y NVIDIA llevan la IA segura más allá del data center: del hospital a la fábrica",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773742842.1829886,
+    "cached_at": 1773829356.9670885,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
@@ -932,7 +932,7 @@
         "title": "Most GitHub Actions OIDC trust policies allow any repo to assume AWS IAM roles",
         "source": "hackernews",
         "lang": "en",
-        "score": 1,
+        "score": 2,
         "url": "https://haitmg.pl/blog/github-actions-oidc-aws-backdoor/"
       },
       {
@@ -943,42 +943,49 @@
         "url": "https://github.com/auditor-core-systems/auditor-core-demo"
       },
       {
-        "title": "Show HN: Auditor Core – Enterprise security auditing engine for DevSecOps",
+        "title": "Life in Hitler's Capital",
         "source": "hackernews",
         "lang": "en",
-        "score": 1,
-        "url": "https://datawizual.github.io/"
+        "score": 5,
+        "url": "https://www.newyorker.com/magazine/2026/03/16/stay-alive-berlin-1939-1945-ian-buruma-book-review"
       }
     ],
-    "cached_at": 1773742842.6806238,
+    "cached_at": 1773829357.2078366,
     "func": "fetch_hackernews",
     "args_summary": "(['ia'],)"
   },
   "46503d41ef4fee113ff718159ee99bd6e87c149d97104b3a6a5f5ddc5f6be1b3": {
     "data": [
       {
-        "title": "¿Sirve realmente de algo decirle “por favor” y “gracias” a la IA? La ciencia responde - Meristation",
+        "title": "Para sorpresa de nadie, la IA se está cebando con un sector muy específico de la economía: los salarios bajos",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://www.as.com/meristation/betech/sirve-realmente-de-algo-decirle-por-favor-y-gracias-a-la-ia-la-ciencia-responde-f202603-n/"
+        "url": "https://magnet.xataka.com/empresas-y-economia/ia-se-va-a-cebar-quienes-se-ceban-todas-transformaciones-tecnologicas-salarios-bajos"
       },
       {
-        "title": "José Luis López, experto financiero, revela la profesión que nunca podrá sustituir la IA: “No lo solucionas con un pop up” - AS.com",
+        "title": "Microsoft busca el trono de la IA: combina equipos de Copilot y apuesta por la superinteligencia",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/actualidad/sociedad/jose-luis-lopez-experto-financiero-revela-la-profesion-que-nunca-podra-sustituir-la-ia-no-lo-solucionas-con-un-pop-up-f202603-n/"
+        "url": "https://www.businessinsider.es/big-tech/microsoft-busca-trono-ia-combina-equipos-copilot-apuesta-por-superinteligencia_6947235_0.html"
       },
       {
-        "title": "Ni Tokio ni Shanghái: esta es la ciudad futurista que pasó de cien mil habitantes a repartir comida en drones  - AS.com",
+        "title": "OpenAI lleva años queriendo ser la novia en la boda y el muerto en el entierro: ahora ha definido al fin su prioridad",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://as.com/actualidad/ciencia/ni-tokio-ni-shanghai-esta-es-la-ciudad-futurista-que-paso-de-cien-mil-habitantes-a-repartir-comida-en-drones-f202603-n/"
+        "url": "https://magnet.xataka.com/robotica-e-ia/anthropic-esta-ganando-carrera-ia-empresas-asi-que-openai-tiene-nuevo-plan-convertirse-anthropic"
+      },
+      {
+        "title": "OpenAI lleva años queriendo ser la novia en la boda y el muerto en el entierro: ahora ha definido al fin su prioridad",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://xataka.com/robotica-e-ia/anthropic-esta-ganando-carrera-ia-empresas-asi-que-openai-tiene-nuevo-plan-convertirse-anthropic"
       }
     ],
-    "cached_at": 1773742843.266308,
+    "cached_at": 1773829357.726397,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
