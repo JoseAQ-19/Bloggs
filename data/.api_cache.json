@@ -475,70 +475,77 @@
   "c7dcb72dc33baaa2e522c198717b4b418fcd1e9a91af28dfbac294c4b153973d": {
     "data": [
       {
-        "title": "Crypto’s True Believers Demand to Be Taken Seriously",
+        "title": "SEC Names Bitcoin, Ether, Solana and 13 More Crypto Assets Digital Commodities — Not Securities",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Two Literal Crypto Bros Built a Real Estate Empire. Then the Homes Started to Fall Apart",
+        "title": "S&P 500 Owner Jumps Into 24/7 Futures for Index on Crypto Exchange",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Fake Pudgy World site steals your crypto passwords",
+        "title": "Stripe-backed crypto startup Tempo releases AI payments protocol, launches blockchain",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Citigroup cuts 12-month bitcoin, ether targets as US crypto legislation stalls",
+        "title": "Polymarket acquires crypto startup Brahma as prediction platform looks to boost liquidity: Fortune",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "The Trump Official Ushering Crypto Into the Banking System",
+        "title": "Crypto exchange Kraken freezes IPO plans, CoinDesk reports",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773769999.7990258,
+    "cached_at": 1773856308.28007,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "db4cf0fe883cd8d987c633ca7c9adb75314597f893f367cbf745e8aa11ded4e3": {
     "data": [
       {
-        "title": "Histórico: Hallan en un asteroide común las bases del ADN; la química de la vida está en todas partes | WIRED",
+        "title": "Las grandes tecnológicas se unen para combatir las estafas online del crimen organizado | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/historico-hallan-en-un-asteroide-comun-las-bases-del-adn-la-quimica-de-la-vida-esta-en-todas-partes"
+        "url": "https://es.wired.com/articulos/las-grandes-tecnologicas-se-unen-para-combatir-las-estafas-online-del-crimen-organizado"
       },
       {
-        "title": "Wall Street Is Already Betting on Prediction Markets | WIRED",
+        "title": "La IA ya está cumpliendo la peores pesadillas de los gamers | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.wired.com/story/prediction-markets-find-a-welcome-on-wall-street/"
+        "url": "https://es.wired.com/articulos/la-ia-ya-esta-cumpliendo-la-peores-pesadillas-de-los-gamers"
       },
       {
-        "title": "Nvidia's version of OpenClaw could solve its biggest problem: security | TechCrunch",
+        "title": "PlayStation Portal recibe una actualización que ofrece \"una experiencia optimizada en general\": estas son las novedades",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security"
+        "url": "https://es.ign.com/playstation-project-q/227717/news/playstation-portal-recibe-una-actualizacion-que-ofrece-una-experiencia-optimizada-en-general-estas-s"
+      },
+      {
+        "title": "Nvidia anuncia DLSS 5, llevando aún más IA a los videojuegos, y el resultado es... inquietante",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/nvidia-rtx-5090/227680/news/nvidia-anuncia-dlss-5-llevando-aun-mas-ia-a-los-videojuegos-y-el-resultado-es-inquietante"
       }
     ],
-    "cached_at": 1773770000.2541187,
+    "cached_at": 1773856308.888125,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
