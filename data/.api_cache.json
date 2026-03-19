@@ -62,42 +62,42 @@
   "4618dd580265f460566f713ecc35b03ce5ab52b17e317eed8d0201579ddcf0d6": {
     "data": [
       {
-        "title": "Brentford face Damsgaard fitness worry before Leeds as Keith Andrews delivers frustrating update",
+        "title": "Sunderland contracts, Ballard fitness wait and major summer calls ahead",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La catalana The Club Fitness 2025 amplía capital y roza los 300.000 euros",
+        "title": "El Ayuntamiento y el gimnasio Wup organizan el guateque “Silver Fitness” para mayores de 60 años",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Denuncian que no se reparan las máquinas de la sala fitness del polideportivo Landako",
+        "title": "USA Fitness se incorpora a la oferta de Gran Vía de Vigo",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Gym Nation introduce la siesta como nueva disciplina fitness en Oriente Medio",
+        "title": "El ejercicio poco conocido que está transformando brazos y fuerza en pocos entrenos",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Fitness solidario en un instituto de Segovia",
+        "title": "Ismael Galancho: \"El ejercicio de cardio puede generar ligeros aumentos en la hipertrofia muscular\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773809039.5964067,
+    "cached_at": 1773895391.0009222,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
@@ -118,21 +118,21 @@
         "url": "https://as.com/tikitakas/salud/isabel-sanchez-nutricionista-es-importante-entender-la-creatina-como-una-herramienta-no-como-un-atajo-f202603-n/"
       },
       {
+        "title": "Una ambulancia pedía paso, miles de runners en Barcelona tenían algo más importante que hacer: bajar sus marcas",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://magnet.xataka.com/magnet/barcelona-ha-mostrado-donde-llega-fiebre-runner-amateurs-estorbando-ambulancia-para-aranar-unos-segundos"
+      },
+      {
         "title": "Tener un Garmin ahora sale (mucho) más barato. El Forerunner 265 cae de precio con un doblete de descuentos",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/seleccion/reloj-deportivo-para-casi-todo-garmin-todoterreno-mucho-barato-aniversario-aliexpress"
-      },
-      {
-        "title": "Éxito en la multitudinaria 43.ª Carrera del Agua de Canal de Isabel II con Ayuso en cabeza - AS.com",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "http://masdeporte.as.com/masdeporte/polideportivo/exito-en-la-multitudinaria-43-carrera-del-agua-de-canal-de-isabel-ii-con-ayuso-en-cabeza-f202603-n/"
+        "url": "https://magnet.xataka.com/seleccion/reloj-deportivo-para-casi-todo-garmin-todoterreno-mucho-barato-aniversario-aliexpress"
       }
     ],
-    "cached_at": 1773809039.9637606,
+    "cached_at": 1773895391.487345,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
