@@ -1216,42 +1216,42 @@
   "6e9c6a02969a5e9b67222353d8954d32f29ac7ffcd642500a8a27decc747f088": {
     "data": [
       {
-        "title": "Elsevier expands article submission screening tool to strengthen research credibility",
+        "title": "DCK Showcases Expanded Professional Power Tool and Outdoor Power Equipment Portfolio at EISENWARENMESSE 2026, Strengthening European Market Commitment",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Police Uncover Marijuana Plantation in Petrer Warehouse",
+        "title": "BTCUSD",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Why The Trade Desk (TTD) Stock Is Nosediving",
+        "title": "NordVPN debuts first-ever physical retail presence in London and New York in partnership with Smartech and tm:rw",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Startup de Sam Altman lanza verificador de identidad humana para las compras con agentes de IA",
+        "title": "How Cargill is using AI to transform food R&D",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Solana Wallet Tracker: qué es, cómo funciona y qué herramientas utilizar",
+        "title": "DeskIn Positions Itself as the Execution Layer AI Remote Control Can't Replace",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773841126.9100559,
+    "cached_at": 1773927368.282577,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
@@ -1262,7 +1262,7 @@
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "http://www.xataka.com/basics/que-google-ai-studio-que-puedes-hacer-esta-herramienta-creacion-inteligencia-artificial"
+        "url": "http://xataka.com/basics/que-google-ai-studio-que-puedes-hacer-esta-herramienta-creacion-inteligencia-artificial"
       },
       {
         "title": "OpenAI lleva años queriendo ser la novia en la boda y el muerto en el entierro: ahora ha definido al fin su prioridad",
@@ -1272,21 +1272,21 @@
         "url": "https://xataka.com/robotica-e-ia/anthropic-esta-ganando-carrera-ia-empresas-asi-que-openai-tiene-nuevo-plan-convertirse-anthropic"
       },
       {
-        "title": "Alibaba crea una herramienta de IA para empresas ante el auge de los asistentes como OpenClaw",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://www.businessinsider.es/tecnologia/alibaba-crea-herramienta-ia-empresas-auge-asistentes-openclaw_6946370_0.html"
-      },
-      {
-        "title": "OpenAI lleva años queriendo ser la novia en la boda y el muerto en el entierro: ahora ha definido al fin su prioridad",
+        "title": "NVIDIA opina que DLSS5 es un impresionante hito técnico de la IA. La gente opina que parece un filtro belleza de Instagram",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://magnet.xataka.com/robotica-e-ia/anthropic-esta-ganando-carrera-ia-empresas-asi-que-openai-tiene-nuevo-plan-convertirse-anthropic"
+        "url": "https://m.xataka.com/videojuegos/dlss-5-millones-invertidos-mejoras-graficas-ia-gente-diga-que-parece-filtro-belleza-instagram"
+      },
+      {
+        "title": "Para sorpresa de nadie, la IA se está cebando con un sector muy específico de la economía: los salarios bajos",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://magnet.xataka.com/empresas-y-economia/ia-se-va-a-cebar-quienes-se-ceban-todas-transformaciones-tecnologicas-salarios-bajos"
       }
     ],
-    "cached_at": 1773841127.3958042,
+    "cached_at": 1773927368.7937694,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
