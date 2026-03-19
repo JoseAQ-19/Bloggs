@@ -957,42 +957,42 @@
   "21a068db0cd0ba4e3b3272cddddd6e25dad487d2eb369a2766316588951e7843": {
     "data": [
       {
-        "title": "La IA está llegando a ámbitos muy locos de nuestra vida. Lo de la limpieza de piscinas es una muestra más de lo que está por venir",
+        "title": "¿Y si la IA decide tu voto?",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Cuando la IA nos pasa delante",
+        "title": "Cómo formarte en análisis de datos e IA en 2026",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Las acciones ACS repuntan con fuerza gracias al impulso de la IA. ¿Demanda infinita de centros de datos?",
+        "title": "EY refuerza su apuesta por el asesoramiento en IA y Data con la incorporación de tres nuevos socios",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Científicos y psicólogos coinciden en que la IA está provocando que las personas hablen, escriban y piensen igual",
+        "title": "Samsung destinará casi 64.000 millones en 2026 para dominar los chips de IA",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Cisco y NVIDIA llevan la IA segura más allá del data center: del hospital a la fábrica",
+        "title": "El uso de la IA por los jueces y magistrados españoles: sus límites y restricciones",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773829356.9670885,
+    "cached_at": 1773915441.7925577,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
@@ -1006,21 +1006,21 @@
         "url": "https://haitmg.pl/blog/github-actions-oidc-aws-backdoor/"
       },
       {
-        "title": "Show HN: Auditor Core–CLI security auditing engine with mathematical SPI scoring",
+        "title": "Exogram Protocol RFC: Server Side IAM for AI Agents",
         "source": "hackernews",
         "lang": "en",
-        "score": 1,
-        "url": "https://github.com/auditor-core-systems/auditor-core-demo"
+        "score": 2,
+        "url": "https://github.com/Richard-Ewing/exogram-protocol-rfc"
       },
       {
-        "title": "Life in Hitler's Capital",
+        "title": "Show HN: LucidShark - Quality pipeline for AI coding agents",
         "source": "hackernews",
         "lang": "en",
-        "score": 5,
-        "url": "https://www.newyorker.com/magazine/2026/03/16/stay-alive-berlin-1939-1945-ian-buruma-book-review"
+        "score": 9,
+        "url": "https://lucidshark.com"
       }
     ],
-    "cached_at": 1773829357.2078366,
+    "cached_at": 1773915442.0491345,
     "func": "fetch_hackernews",
     "args_summary": "(['ia'],)"
   },
@@ -1041,21 +1041,21 @@
         "url": "https://www.businessinsider.es/big-tech/microsoft-busca-trono-ia-combina-equipos-copilot-apuesta-por-superinteligencia_6947235_0.html"
       },
       {
-        "title": "OpenAI lleva años queriendo ser la novia en la boda y el muerto en el entierro: ahora ha definido al fin su prioridad",
+        "title": "Meta considera recortes de personal mientras invierte miles de millones en IA: hasta 16.000 empleos en el aire",
         "source": "exa",
-        "lang": "en",
+        "lang": "es",
         "score": 0,
-        "url": "https://magnet.xataka.com/robotica-e-ia/anthropic-esta-ganando-carrera-ia-empresas-asi-que-openai-tiene-nuevo-plan-convertirse-anthropic"
+        "url": "https://www.businessinsider.es/big-tech/meta-considera-recortes-personal-mientras-invierte-miles-millones-ia-hasta-16-000-empleos-aire_6946602_0.html"
       },
       {
         "title": "OpenAI lleva años queriendo ser la novia en la boda y el muerto en el entierro: ahora ha definido al fin su prioridad",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://xataka.com/robotica-e-ia/anthropic-esta-ganando-carrera-ia-empresas-asi-que-openai-tiene-nuevo-plan-convertirse-anthropic"
+        "url": "https://magnet.xataka.com/robotica-e-ia/anthropic-esta-ganando-carrera-ia-empresas-asi-que-openai-tiene-nuevo-plan-convertirse-anthropic"
       }
     ],
-    "cached_at": 1773829357.726397,
+    "cached_at": 1773915442.6573627,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
