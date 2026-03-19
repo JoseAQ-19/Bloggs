@@ -139,77 +139,77 @@
   "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
     "data": [
       {
-        "title": "Hyrox Is Taking the Fitness World by Storm, and Academy Sports Is Getting in on the Action",
+        "title": "I Tried Over a Dozen Fitness Trackers Last Year — These Were My Favorites",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Harlem Wizards help Pullen students with fitness",
+        "title": "Gym Looks to AI for More Precise Physical Fitness",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Fitness First Wurzburg Baskets v Elan Chalon",
+        "title": "‘Good. Better. Becoming.’ fitness journal inspires others to walk toward their purpose",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Robbery at Shreveport Planet Fitness ends in fatal shooting",
+        "title": "Clovis gym temporarily closed ‘for the safety of our members’",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Chattanooga club Fitness Central opening new downtown gym",
+        "title": "Raleigh Parks Health & Wellness Program",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773809570.2780094,
+    "cached_at": 1773896217.1010902,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "5f74b081c9753b13b48c085df1624d184c9deb4bc34d11178f03bbc18aeae64e": {
     "data": [
       {
-        "title": "Dados recolhidos via Pokémon Go estão a treinar robots de entrega",
+        "title": "Un lugar tranquilo 3 anuncia esperados regresos y un nuevo fichaje estelar para el reparto",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://pt.ign.com/pokemon-go/156017/news/dados-recolhido-via-pokemon-go-estao-a-treinar-robots-de-entrega"
+        "url": "https://es.ign.com/a-quiet-place-3/227686/news/un-lugar-tranquilo-3-anuncia-esperados-regresos-y-un-nuevo-fichaje-estelar-para-el-reparto"
       },
       {
-        "title": "Warner Bros. se prepara para la precuela de Ocean's Eleven, y le da toda la responsabilidad a una sola estrella: quieren que escriba, dirija y protagonice la película",
+        "title": "Las grandes tecnológicas se unen para combatir las estafas online del crimen organizado | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.ign.com/oceans-eleven-prequel/227640/news/warner-bros-se-prepara-para-la-precuela-de-oceans-eleven-y-le-da-toda-la-responsabilidad-a-una-sola"
+        "url": "https://es.wired.com/articulos/las-grandes-tecnologicas-se-unen-para-combatir-las-estafas-online-del-crimen-organizado"
       },
       {
-        "title": "Amazon sube el precio de su plan sin anuncios, y ese no es el único cambio",
+        "title": "Forza Horizon 6 recupera los grandes cambios estacionales de Horizon 4 | IGN First",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.ign.com/amazon-prime-video/227641/news/amazon-sube-el-precio-de-su-plan-sin-anuncios-y-ese-no-es-el-unico-cambio"
+        "url": "https://es.ign.com/forza-horizon-6/227719/preview/forza-horizon-6-recupera-los-grandes-cambios-estacionales-de-horizon-4-ign-first"
       },
       {
-        "title": "My fitness tracker is a secret weapon against my chronic illness | The Verge",
+        "title": "Nvidia anuncia DLSS 5, llevando aún más IA a los videojuegos, y el resultado es... inquietante",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/features/889835/fitness-trackers-chronic-illness-visible-whoop"
+        "url": "https://es.ign.com/nvidia-rtx-5090/227680/news/nvidia-anuncia-dlss-5-llevando-aun-mas-ia-a-los-videojuegos-y-el-resultado-es-inquietante"
       }
     ],
-    "cached_at": 1773809570.8363552,
+    "cached_at": 1773896217.8406396,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
