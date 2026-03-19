@@ -11,71 +11,87 @@ language: "es"
 translationKey: "feb9186d-f350-04b6-b083-0422eff9283a"
 ---
 
-# 35,000,000 euros en riesgo: la batalla de Elsevier por la integridad científica
+# 35 millones de euros en riesgo: Elsevier, el EU AI Act y la crisis de la integridad científica
 
-La publicación científica está sometida a crecientes dudas sobre la fiabilidad de sus procesos de revisión y validación. Elsevier, una de las editoriales más poderosas del sector, se enfrenta a una posible multa de hasta 35 millones de euros por incumplir el reglamento del EU AI Act. Este caso pone en jaque la credibilidad de su herramienta de verificación y plantea serias preguntas sobre el futuro de la integridad científica.
+Elsevier, una de las editoriales más influyentes en el ámbito académico, se enfrenta a la posibilidad de una multa de hasta 35 millones de euros por incumplir el reglamento europeo sobre inteligencia artificial (EU AI Act). Este caso plantea dudas sobre la transparencia y eficacia de sus sistemas de revisión científica, y pone el foco sobre los problemas estructurales que afectan a la integridad de la investigación publicada.
 
 ## TL;DR
 
-- Elsevier podría pagar multas astronómicas si no cumple con las exigencias del EU AI Act, lo que expone carencias en sus herramientas de verificación científica.  
-- La renuncia de Damià Barceló en 2025, editor jefe de *Science of the Total Environment*, destapa problemas de transparencia y revisión por pares.  
-- Los algoritmos de verificación actuales perpetúan sesgos discriminatorios, agravando la crisis de confianza en la investigación científica.  
+- Elsevier podría enfrentarse a una multa de 35 millones de euros por no cumplir los estándares del EU AI Act, lo que cuestiona la credibilidad de sus algoritmos de revisión.  
+- La renuncia de Damià Barceló, editor de *Science of the Total Environment*, en 2025, destapó fallos en la revisión por pares.  
+- Los algoritmos utilizados perpetúan sesgos discriminatorios, agravando la crisis de confianza en la ciencia.  
 
-## Elsevier, bajo la amenaza de sanciones millonarias
+## ¿Por qué Elsevier está en el punto de mira?
 
-Elsevier, que controla aproximadamente el 17% del mercado global de publicaciones científicas, se enfrenta a una tormenta perfecta. La renuncia de Damià Barceló como editor jefe de *Science of the Total Environment* en 2025 ha puesto en evidencia la falta de transparencia y efectividad en los sistemas de revisión por pares. Barceló, químico con más de 1.800 publicaciones, ha sido crítico con los mecanismos de verificación de la editorial, acusándolos de priorizar intereses corporativos sobre la calidad científica.
+Elsevier, que controla el 17 % del mercado global de publicaciones científicas, está siendo objeto de escrutinio tras la renuncia de Damià Barceló como editor jefe de la revista *Science of the Total Environment*. Barceló, un químico con más de 1.800 publicaciones, abandonó su puesto en 2025 criticando duramente los sistemas de revisión por pares de la editorial, acusándolos de priorizar intereses corporativos sobre la calidad científica.
 
-La herramienta de verificación de credibilidad de Elsevier, diseñada para garantizar la integridad de sus publicaciones, ha sido objeto de críticas por su opacidad y por no ofrecer garantías suficientes frente al fraude científico. La amenaza de multas por el incumplimiento del EU AI Act podría obligar a la empresa a replantear sus prácticas, pero los expertos alertan de que un cambio estructural es necesario para abordar las raíces del problema.
+La herramienta de verificación de credibilidad de Elsevier ha sido señalada por su opacidad y capacidad limitada para evitar fraudes científicos. Esto resulta especialmente preocupante de cara al cumplimiento del EU AI Act, que exige transparencia y auditorías claras en las tecnologías basadas en inteligencia artificial. Una multa de 35 millones de euros podría obligar a la editorial a replantear sus procesos, aunque los expertos consideran que los problemas son más profundos y estructurales.
 
-### ¿Qué implica el EU AI Act para Elsevier?
+### Un negocio multimillonario bajo presión
 
-El reglamento europeo sobre inteligencia artificial (EU AI Act) busca garantizar que las tecnologías basadas en IA sean seguras, transparentes y responsables. Para empresas como Elsevier, que utilizan algoritmos en sus procesos de revisión y selección de artículos, esta normativa supone un reto significativo. La legislación exige que las herramientas de IA sean auditables y que sus decisiones puedan explicarse de forma clara, algo que aún no parece cumplirse en el caso de Elsevier.
+El negocio de las publicaciones académicas genera 25.000 millones de dólares anuales, según datos de *Nature*. Elsevier, junto con Springer Nature y Wiley, domina gran parte del mercado, pero el modelo de suscripción que estas editoriales defienden ha sido objeto de fuertes críticas. La presión por mantener márgenes elevados podría explicar la resistencia de Elsevier a invertir en tecnologías más transparentes y costosas que cumplan con los requisitos del EU AI Act.
 
-Además, el impacto financiero de una multa de 35 millones de euros no solo podría afectar a la rentabilidad de la empresa, sino también a su capacidad para seguir desarrollando tecnologías innovadoras. Según un informe de *Nature*, el mercado global de publicaciones científicas genera alrededor de 25.000 millones de dólares al año, pero la competencia es feroz, y una sanción de esta magnitud podría alterar el equilibrio entre los principales actores.
+Además, el contexto económico no es favorable. La transición hacia modelos de acceso abierto está ganando fuerza, lo que podría reducir los ingresos de estas empresas en el largo plazo. En este escenario, una multa multimillonaria no solo afectaría la viabilidad financiera de Elsevier, sino que también podría acelerar cambios disruptivos en la industria editorial.
 
-## ¿Es la narrativa de Elsevier solo marketing?
+## EU AI Act: el nuevo estándar que desafía a Elsevier
 
-Lluis Montoliu, investigador del CSIC, ha señalado que las violaciones de integridad científica rara vez son penalizadas en España, permitiendo que prácticas fraudulentas se perpetúen. Según Montoliu, los algoritmos de verificación de credibilidad de Elsevier carecen de supervisión adecuada y no son lo suficientemente transparentes como para inspirar confianza en la comunidad científica.
+El EU AI Act establece que las herramientas de inteligencia artificial deben ser seguras, transparentes y explicables. Para editoriales como Elsevier, que utilizan algoritmos para revisar y seleccionar artículos, la normativa supone un desafío importante. La falta de claridad sobre cómo operan estas tecnologías no solo contraviene la nueva regulación, sino que también alimenta la desconfianza en la comunidad científica.
 
-La presión por aumentar la cantidad de publicaciones ha incentivado comportamientos poco éticos, como la falsificación de datos y revisiones fraudulentas. Este fenómeno pone de manifiesto que la narrativa corporativa de Elsevier sobre integridad se tambalea ante la falta de mecanismos sólidos de control de calidad.
+### ¿Qué exige el EU AI Act?
 
-### El caso de las revisiones fraudulentas
+El reglamento europeo clasifica los sistemas de inteligencia artificial en cuatro niveles de riesgo: mínimo, limitado, alto y inaceptable. Las herramientas utilizadas por Elsevier para la selección y revisión de artículos científicos caen, en su mayoría, dentro de la categoría de "alto riesgo". Esto implica que están sujetas a estrictas obligaciones legales, como la implementación de auditorías externas, la trazabilidad de los datos utilizados y la explicación clara de cómo los algoritmos toman decisiones.
 
-Un ejemplo reciente que pone en entredicho la supuesta integridad de Elsevier es el caso de João Carlos Setúbal, biólogo brasileño que publicó más de 50 estudios en revistas de la editorial. Tras una investigación interna, se descubrió que las revisiones por pares de estos trabajos habían sido fabricadas, lo que llevó a su retractación en masa. Este escándalo evidencia cómo los sistemas actuales no cuentan con mecanismos suficientes para detectar fraudes antes de que los artículos sean publicados.
+El incumplimiento de estas normativas puede acarrear sanciones significativas, que incluyen multas de hasta el 7 % de los ingresos globales, lo que en el caso de Elsevier podría significar una penalización de 35 millones de euros. Este marco regulatorio busca no solo evitar sesgos y errores en el uso de la inteligencia artificial, sino también proteger la confianza del público en las aplicaciones tecnológicas críticas para la sociedad.
 
-## Sesgos algorítmicos: ¿un obstáculo para la ciencia?
+## Fallos en la narrativa de Elsevier: ¿integridad o marketing?
 
-Los algoritmos utilizados para validar artículos científicos están lejos de ser imparciales. David Worlock, experto en el sistema de publicación científica, advierte que estas herramientas pueden perpetuar sesgos relacionados con género, etnicidad y estatus socioeconómico. Por ejemplo, un estudio sobre artículos retractados en revistas médicas reveló que el 16,5% de los autores principales eran mujeres, pese a que representan más del 40% de los primeros autores en publicaciones biomédicas. Este tipo de discrepancia sugiere que los sesgos algorítmicos están distorsionando la representación en la investigación publicada.
+Lluis Montoliu, investigador del CSIC, ha denunciado que las violaciones de integridad científica rara vez tienen consecuencias en España, lo que permite que prácticas fraudulentas continúen. Según Montoliu, los algoritmos de verificación de Elsevier no son lo suficientemente transparentes ni están supervisados adecuadamente.
 
-Si los datos que alimentan estas herramientas reflejan prejuicios existentes, los algoritmos no harán más que amplificar dichos sesgos. La solución pasa por una revisión exhaustiva de los sistemas y una mayor transparencia en cómo operan.
+### El caso Setúbal: un escándalo que sacudió la ciencia
 
-### Impacto de los sesgos en la publicación científica
+La presión por publicar más estudios ha incentivado prácticas como la falsificación de datos y las revisiones fraudulentas. El caso de João Carlos Setúbal, biólogo brasileño que logró publicar más de 50 estudios en revistas de Elsevier con revisiones por pares fabricadas, es alarmante. La retractación de estos trabajos expone las fallas de los sistemas actuales en la detección de fraudes antes de la publicación.
 
-El problema de los sesgos algorítmicos no solo afecta a la representación de ciertos grupos, sino también al contenido mismo de la investigación. Estudios emergentes en campos como la medicina y la inteligencia artificial han demostrado que los prejuicios implícitos en los datos pueden influir en los resultados de modelos predictivos, reduciendo su aplicabilidad y fiabilidad. En este contexto, Elsevier y otras editoriales tienen la responsabilidad de garantizar que sus sistemas de verificación no perpetúen estas desigualdades.
+Este caso no solo afecta la credibilidad de Elsevier, sino que también pone de manifiesto las deficiencias del sistema global de publicación científica. ¿Cuántos más casos como el de Setúbal podrían estar ocultos debido a la falta de transparencia y el uso de algoritmos opacos?
 
-## Los límites de la revisión por pares
+## Sesgos algorítmicos: un obstáculo para la representación científica
 
-La revisión por pares, considerada la piedra angular de la credibilidad científica, también está bajo escrutinio. Michael Bertram, toxicólogo de la Universidad Sueca de Ciencias Agrícolas, ha criticado duramente los fallos en el sistema editorial de *Science of the Total Environment*. Según Bertram, la revista retractó 50 estudios del biólogo brasileño João Carlos Setúbal tras descubrir que las revisiones habían sido completamente fabricadas.
+Los algoritmos utilizados por Elsevier para evaluar artículos perpetúan sesgos relacionados con género, etnicidad y estatus socioeconómico. Según David Worlock, experto en publicación científica, los datos que alimentan estas herramientas reflejan prejuicios existentes, lo que amplifica las desigualdades en la investigación publicada. Por ejemplo, un estudio sobre artículos retractados en revistas médicas reveló que solo el 16,5 % de los autores principales eran mujeres, pese a que representan más del 40 % en publicaciones biomédicas.
 
-Este caso ilustra cómo la presión por publicar más investigaciones ha llevado a sacrificar la calidad por el volumen. Sin una reforma estructural en los procesos de revisión, incluso las herramientas más avanzadas seguirán siendo incapaces de garantizar la integridad científica.
+### Impacto en la calidad de la ciencia
 
-### Alternativas al sistema actual
+Estos sesgos no solo afectan la representación de grupos subestimados, sino también la calidad de la investigación. Los prejuicios implícitos en los datos pueden influir en los resultados de modelos predictivos, reduciendo su aplicabilidad y fiabilidad. Elsevier y otras editoriales tienen la responsabilidad de revisar sus sistemas para evitar estas distorsiones.
 
-Entre las propuestas para mejorar el sistema de revisión por pares, destaca la implementación de revisiones abiertas. Este modelo permitiría que los revisores y autores interactúen de forma más transparente, reduciendo el riesgo de malas prácticas. Aunque iniciativas como Publons y PeerJ han comenzado a explorar este enfoque, su adopción masiva aún está lejos de ser una realidad.
+Además, los sesgos algorítmicos tienen implicaciones éticas significativas. En un momento en el que la diversidad en la ciencia es una prioridad global, perpetuar patrones discriminatorios a través de la tecnología representa un paso atrás para la equidad y la inclusión en el ámbito académico.
 
-## Regulaciones como catalizadores del cambio
+## El sistema de revisión por pares: ¿una reforma urgente?
 
-El EU AI Act, que contempla sanciones de hasta 35 millones de euros o el 7% de la facturación anual global, podría forzar a Elsevier a implementar cambios significativos. Sin embargo, cumplir con la normativa no debería ser solo una estrategia para evitar penalizaciones, sino una oportunidad para liderar una transformación que priorice la ética y la transparencia.
+La revisión por pares, considerada fundamental para garantizar la credibilidad científica, está en crisis. Michael Bertram, toxicólogo de la Universidad Sueca de Ciencias Agrícolas, ha criticado duramente el sistema editorial de *Science of the Total Environment*. Según Bertram, la revista retractó 50 estudios de João Carlos Setúbal tras descubrir que las revisiones habían sido completamente fabricadas.
 
-Si las principales editoriales científicas adoptan prácticas más responsables y transparentes, no solo mejorarán sus procesos internos, sino que también contribuirán a fortalecer la confianza del público en la ciencia.
+### ¿Por qué falla el sistema actual?
 
-### Los avances que exige la comunidad científica
+El problema radica en que la presión por publicar más investigaciones ha llevado a sacrificar la calidad por el volumen. Sin una reforma estructural, incluso las tecnologías más avanzadas no podrán garantizar la integridad científica.
 
-La comunidad científica internacional exige que las editoriales inviertan en tecnologías más robustas y en la formación ética de sus revisores. Además, la creación de comités independientes para auditar los procesos de revisión podría ser una solución viable para garantizar que las decisiones editoriales se tomen con imparcialidad y rigor.
+Entre los desafíos más graves se encuentra la dificultad para encontrar revisores expertos dispuestos a dedicar tiempo y esfuerzo a evaluar manuscritos. Esto ha llevado al uso de revisores de menor calidad y ha creado un entorno propicio para el fraude.
 
-## Reflexión final: integridad por encima del lucro
+### ¿Existen alternativas al modelo actual?
 
-La crisis de integridad científica no es exclusiva de Elsevier. Es un problema sistémico que requiere esfuerzos coordinados entre editoriales, investigadores y reguladores. La ciencia necesita herramientas transparentes y procesos éticos que antepongan la calidad a los beneficios económicos. Solo así será posible recuperar la confianza y garantizar que la investigación avance de manera honesta y efectiva.
+Entre las propuestas más destacadas para mejorar la revisión por pares está la implementación de revisiones abiertas. Este modelo permitiría una interacción transparente entre revisores y autores, reduciendo el riesgo de prácticas fraudulentas. Iniciativas como Publons y PeerJ han explorado este enfoque, pero su adopción masiva sigue siendo limitada.
+
+Además, algunos expertos sugieren la integración de tecnologías blockchain para registrar cada etapa del proceso de revisión. Esto garantizaría la trazabilidad de las evaluaciones y dificultaría la manipulación de los resultados.
+
+## Regulaciones como impulsores del cambio
+
+El EU AI Act no solo representa un desafío normativo para Elsevier, sino también una oportunidad para liderar un cambio ético en la industria editorial. Con sanciones que podrían alcanzar el 7 % de la facturación global, la normativa podría forzar a las editoriales a adoptar tecnologías más robustas y transparentes.
+
+### ¿Es posible un cambio estructural?
+
+La comunidad científica internacional exige cada vez más que editoriales como Elsevier inviertan en procesos éticos y en la formación de revisores. Además, la creación de comités independientes para auditar las decisiones editoriales podría ser clave para garantizar la imparcialidad y el rigor.
+
+Un cambio estructural no solo beneficiaría la integridad de la ciencia, sino que también podría ser una ventaja competitiva para las editoriales que lideren esta transición. En un mercado cada vez más orientado hacia el acceso abierto y la transparencia, las empresas que adopten tecnologías éticas podrían ganar la confianza de investigadores y legisladores.
+
+## Recuperar la confianza en la ciencia: una obligación colectiva
+
+La crisis de integridad científica no es exclusiva de Elsevier, sino un problema sistémico que afecta a toda la comunidad investigadora. La ciencia necesita herramientas y procesos que prioricen la calidad y la transparencia sobre los beneficios económicos. Solo mediante una colaboración coordinada entre editoriales, investigadores y reguladores será posible restaurar la confianza en la investigación científica.
 
 ### Artículos relacionados
 
