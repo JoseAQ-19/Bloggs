@@ -629,42 +629,42 @@
   "9ee96a29d2849810b096fb4ad7845a44fb015972f3144c10f16e0a281e09fb7c": {
     "data": [
       {
-        "title": "YouTube pulls the plug on popular AI-generated fake movie trailer channels",
+        "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Meta will pay Instagram, TikTok and YouTube creators with big followings to post on Facebook",
+        "title": "FIFA and YouTube Team Up in FIFA World Cup 2026 Preferred Platform Agreement",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "BSD YouTube Show: Previewing Penn State At The NCAA Wrestling Championships",
+        "title": "031826",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Reimagine: A new AI-powered Remix tool in YouTube Shorts",
+        "title": "'Harming babies': Child safety group blasts Google's investment in AI content for kids",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "YouTube",
+        "title": "‘Mister Rogers’ Neighborhood’ Getting YouTube Channel For First Time",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773862712.2625105,
+    "cached_at": 1773948440.8809228,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
@@ -676,6 +676,13 @@
         "lang": "en",
         "score": 0,
         "url": "https://es.wired.com/articulos/las-grandes-tecnologicas-se-unen-para-combatir-las-estafas-online-del-crimen-organizado"
+      },
+      {
+        "title": "Facebook launches a new monetization program to attract popular creators from TikTok, YouTube | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/"
       },
       {
         "title": "La IA ya está cumpliendo la peores pesadillas de los gamers | WIRED",
@@ -690,16 +697,9 @@
         "lang": "en",
         "score": 0,
         "url": "https://es.ign.com/android/227698/news/google-play-hace-un-cambio-muy-importante-en-su-seccion-de-videojuegos-y-todavia-se-guarda-un-as-en"
-      },
-      {
-        "title": "Los jugadores de PS5 y los de Switch 2 celebran juntos la llegada de actualizaciones importantes a las consolas",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.ign.com/playstation-5-2/227691/news/los-jugadores-de-ps5-y-los-de-switch-2-celebran-juntos-la-llegada-de-actualizaciones-importantes-a-l"
       }
     ],
-    "cached_at": 1773862713.0046594,
+    "cached_at": 1773948441.5208201,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
