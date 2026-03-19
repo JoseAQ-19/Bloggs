@@ -216,77 +216,77 @@
   "cddff883eee8ba79205166d8431aed7738bd3bb0724b8d87f5f17a2a8cc26039": {
     "data": [
       {
-        "title": "\"¡Funcionó el gafe!\": DjMaRiiO y su viral predicción sobre la jugada polémica que marcó el Manchester City vs Real Madrid de Champions League",
+        "title": "La isla de Epstein se convierte en nuevo destino viral para influencers",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Mary de Dinamarca se hace viral en Australia: el discurso con la palabra más larga del diccionario y reencuentro con su dama de honor",
+        "title": "Un vídeo viral pregunta a los jóvenes en qué se gastan el bono cultural: de la Play al \"after\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La tienda de 'chuches' viral de Vila-seca que vende golosinas a toda Europa",
+        "title": "La mentira viral de los aficionados del Barcelona contra el Atlético",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La reacción viral de Neymar cuando ve en directo que Ancelotti no le ha convocado",
+        "title": "Kim Kardashian sufre caída viral tras los Oscar por sus plataformas extremas 😳👠 La empresaria Kim Kardashian llamó la atención por sus zapatos de 20 cm… y el momento no tardó en volverse tendencia. #KimKardashian #Oscars #Viral #Moda #Famosos #",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Una paloma le arruina el peinado a Almeida: el vídeo del ‘regalo’ se hace viral",
+        "title": "El vídeo viral de Rosalía besando un rosario durante su concierto en Lyon",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773871938.3974638,
+    "cached_at": 1773958332.7158577,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
   "a362792cc6b4faf81d359ce19013ff8b6c624ffb2aada45d97ffec0e5515eba1": {
     "data": [
       {
-        "title": "Hay gente que piensa que Netanyahu ha muerto y que solo sobrevive generado por IA en redes sociales",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/magnet/hay-gente-que-piensa-que-netanyahu-ha-muerto-que-solo-sobrevive-generado-ia-redes-sociales"
-      },
-      {
-        "title": "La Generación Z no puede pagar el alquiler, pero muy pronto el 38% de los jóvenes será la generación más rica de la historia",
+        "title": "Más de la mitad de los adolescentes en EEUU usa IA para crear imágenes sexualizadas",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.3djuegos.com/3djuegos-trivia/noticias/generacion-z-no-puede-pagar-alquiler-muy-pronto-sera-generacion-rica-historia-1"
+        "url": "https://www.businessinsider.es/tecnologia/mas-mitad-los-adolescentes-eeuu-usa-ia-para-crear-imagenes-sexualizadas_6947878_0.html"
       },
       {
-        "title": "Pokémon Go sacó a millones de jugadores a la calle. Millones de jugadores que en realidad estaban entrenando a una IA",
+        "title": "La Generación Z no tiene dinero para pagar el alquiler, pero serán los más ricos de la historia muy pronto",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://www.businessinsider.es/economia/generacion-z-no-tiene-dinero-pagar-alquiler-seran-mas-ricos-historia_6947058_0.html"
+      },
+      {
+        "title": "Ring Royale bate una marca histórica: más de 5 millones de usuarios vieron el evento principal al mismo tiempo - AS México",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://mexico.as.com/tikitakas/ring-royale-bate-una-marca-historica-mas-de-5-millones-de-usuarios-vieron-el-evento-principal-al-mismo-tiempo-f202603-n/"
+      },
+      {
+        "title": "Si el doomscrolling es una \"adicción\", Meta y TikTok son sus proveedores: el juicio en EEUU contra las tecnológicas",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "http://www.xataka.com/robotica-e-ia/creiamos-que-capturabamos-pokemon-movil-que-no-sabiamos-que-realidad-estabamos-preparando-mundo-para-maquinas"
-      },
-      {
-        "title": "El té matcha es la enésima moda salida de las redes sociales. Pero esta vez tiene claros beneficios para tu cerebro",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "http://xataka.com/medicina-y-salud/te-ries-matcha-tu-amigo-tech-bro-ciencia-confirma-que-bomba-para-salud-frena-alergias"
+        "url": "http://xataka.com/legislacion-y-derechos/eeuu-esta-discutiendo-condena-a-grandes-tecnologicas-disenar-algo-adictivo-como-tabaco-tragaperras-scroll"
       }
     ],
-    "cached_at": 1773871938.9126844,
+    "cached_at": 1773958333.2750704,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
