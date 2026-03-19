@@ -552,42 +552,42 @@
   "fb4ad1bcef6d3043168469167a15cb1cb1ab0f544701e2b912c49d41dd73fb7a": {
     "data": [
       {
-        "title": "El POCO X8 Pro aterriza en España con doble descuento y suscripciones a YouTube Premium y Spotify",
+        "title": "Este viernes, Dani Olmo responde en directo en el canal de YouTube del FC Barcelona",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Vídeos con IA en YouTube: el 75% de publicaciones de médicos sobre envejecimiento no declaran el origen con inteligencia artificial",
+        "title": "YouTube se convierte en plataforma preferente del Mundial 2026 tras un acuerdo innovador con FIFA",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La FIFA revoluciona el Mundial: YouTube será plataforma oficial",
+        "title": "FIFA cierra acuerdo con YouTube para que pueda emitir partidos completos del Mundial por primera vez",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "YouTube y la FIFA se alían para no perderse nada de la Copa Mundial de la FIFA 2026",
+        "title": "YouTube deja en manos de los usuarios arreglar sus problemas relacionados con el contenido generado por IA",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Neymar Jr estrena su serie en YouTube y muestra su vida más íntima: familia, dudas y su lucha por volver a Brasil",
+        "title": "Los expertos en desarrollo infantil coinciden: los vídeos educativos de IA para niños en YouTube no son contenido neutro sino \"desinformación para bebés a escala industrial\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773861771.9854503,
+    "cached_at": 1773948061.450601,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
@@ -601,18 +601,11 @@
         "url": "https://as.com/futbol/internacional/acuerdo-historico-fifa-youtube-de-cara-al-mundial-f202603-n/"
       },
       {
-        "title": "Conan O'Brien critica la IA en Hollywood y el salto de la gala a YouTube en los Premios Oscar 2026",
+        "title": "FIFA strikes landmark YouTube deal for World Cup - AS USA",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/tecnologia/conan-brien-critica-ia-hollywood-gala-youtube-premios-oscar-2026_6946345_0.html"
-      },
-      {
-        "title": "Conan O’Brien se ríe del futuro de los Oscar en YouTube con uno de los grandes chistes de la gala - Meristation",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://as.com/meristation/cine/conan-obrien-se-rie-del-futuro-de-los-oscar-en-youtube-con-uno-de-los-grandes-chistes-de-la-gala-f202603-n/"
+        "url": "https://en.as.com/soccer/world-cup/fifa-strikes-landmark-youtube-deal-for-world-cup-f202603-n/"
       },
       {
         "title": "Apple acaba de comprar el arma secreta de miles de YouTubers. Llevaban 15 años haciendo que sus vídeos parecieran películas",
@@ -620,9 +613,16 @@
         "lang": "en",
         "score": 0,
         "url": "https://www.applesfera.com/aplicaciones-os-x-1/estrategia-apple-para-conquistar-a-youtubers-ha-dado-giro-radical-se-acabo-desarrollar-cero-hora-abrir-cartera"
+      },
+      {
+        "title": "Un youtuber se encierra en una jaula para perros y dice que seguirá ahí mientras le sigan dando dinero - Meristation",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/meristation/virales/un-youtuber-se-encierra-en-una-jaula-para-perros-y-dice-que-seguira-ahi-mientras-le-sigan-dando-dinero-f202603-n/"
       }
     ],
-    "cached_at": 1773861772.6753755,
+    "cached_at": 1773948062.1747475,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
