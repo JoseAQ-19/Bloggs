@@ -475,47 +475,54 @@
   "c7dcb72dc33baaa2e522c198717b4b418fcd1e9a91af28dfbac294c4b153973d": {
     "data": [
       {
-        "title": "SEC Names Bitcoin, Ether, Solana and 13 More Crypto Assets Digital Commodities — Not Securities",
+        "title": "A Crypto Coin Is Gobbling Up U.S. Treasuries",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "S&P 500 Owner Jumps Into 24/7 Futures for Index on Crypto Exchange",
+        "title": "Crypto.com lays off 12% of staff as CEO warns firms must move fast on AI",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Stripe-backed crypto startup Tempo releases AI payments protocol, launches blockchain",
+        "title": "Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Polymarket acquires crypto startup Brahma as prediction platform looks to boost liquidity: Fortune",
+        "title": "Top 5 Crypto Wallets to Buy Your First Bitcoin",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Crypto exchange Kraken freezes IPO plans, CoinDesk reports",
+        "title": "South Korean lawmakers push to abolish upcoming 22% crypto tax",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773856308.28007,
+    "cached_at": 1773938282.5744314,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "db4cf0fe883cd8d987c633ca7c9adb75314597f893f367cbf745e8aa11ded4e3": {
     "data": [
+      {
+        "title": "Peritaje halla un supuesto pacto por 5 millones de dólares para que Milei promoviera la criptoestafa $Libra | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/javier-milei-habria-recibido-un-pago-de-5-millones-de-dolares-para-promover-la-criptoestafa-dollarlibra"
+      },
       {
         "title": "Las grandes tecnológicas se unen para combatir las estafas online del crimen organizado | WIRED",
         "source": "exa",
@@ -524,28 +531,21 @@
         "url": "https://es.wired.com/articulos/las-grandes-tecnologicas-se-unen-para-combatir-las-estafas-online-del-crimen-organizado"
       },
       {
+        "title": "China aprueba el uso de chips cerebrales y es solo el comienzo de un plan para dominar la industria | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/china-aprueba-el-uso-de-chips-cerebrales-y-es-solo-el-comienzo-de-un-plan-para-dominar-la-industria"
+      },
+      {
         "title": "La IA ya está cumpliendo la peores pesadillas de los gamers | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
         "url": "https://es.wired.com/articulos/la-ia-ya-esta-cumpliendo-la-peores-pesadillas-de-los-gamers"
-      },
-      {
-        "title": "PlayStation Portal recibe una actualización que ofrece \"una experiencia optimizada en general\": estas son las novedades",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.ign.com/playstation-project-q/227717/news/playstation-portal-recibe-una-actualizacion-que-ofrece-una-experiencia-optimizada-en-general-estas-s"
-      },
-      {
-        "title": "Nvidia anuncia DLSS 5, llevando aún más IA a los videojuegos, y el resultado es... inquietante",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.ign.com/nvidia-rtx-5090/227680/news/nvidia-anuncia-dlss-5-llevando-aun-mas-ia-a-los-videojuegos-y-el-resultado-es-inquietante"
       }
     ],
-    "cached_at": 1773856308.888125,
+    "cached_at": 1773938283.0859632,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
