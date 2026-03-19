@@ -1139,42 +1139,42 @@
   "47c2bc6816549fbd4391587ad907de1b4a35f331cc234d17a1e0ece63b6178da": {
     "data": [
       {
-        "title": "In The Lab: The Tools of the Trade",
+        "title": "Everyday tools, extraordinary crimes: the ransomware exfiltration playbook",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "These players have the best tools in Spring Breakout",
+        "title": "From scientist to bioinformatician: how AI coding tools dissolved the activation energy barrier",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "New PRIME tools to accelerate development of medicines in the EU",
+        "title": "Obin AI Raises $7 Million for Agentic Tools for Financial Firms",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Polymer additive manufacturing tools for sheet metal forming: a combined simulation and experimental study",
+        "title": "City’s Community Tool Program Earns Statewide Recognition",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Aderant Adds AI-Powered Performance Evaluation Tools to Its vi Talent Management Suite",
+        "title": "The Do’s and Don’ts of Using AI for Financial Planning",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773845598.1674926,
+    "cached_at": 1773931690.514517,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
@@ -1209,7 +1209,7 @@
         "url": "https://es.wired.com/articulos/la-ia-ya-esta-cumpliendo-la-peores-pesadillas-de-los-gamers"
       }
     ],
-    "cached_at": 1773845598.7745898,
+    "cached_at": 1773931691.1736078,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
