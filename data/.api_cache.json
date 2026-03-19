@@ -1062,42 +1062,42 @@
   "88f30aaa7bab0042d69286b6e1ddf009c9ed8bd38dd824e484b197be702b0cbf": {
     "data": [
       {
-        "title": "IA Severe Weather Awareness Week Topics",
+        "title": "Sutherland, IA issues drinking water advisory",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "2026 IHSAA (IA) State Championship",
+        "title": "Sutherland, IA issues drinking water advisory",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Jesse Edward Whalen Obituary (1974",
+        "title": "LARRY STONE: Goose music signals spring",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "‘Gaitana IA’: The AI candidate that ran in Colombia’s elections",
+        "title": "Sutherland, IA issues drinking water advisory",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "4725 170th Pl Unit 1, Waukee, IA 50263",
+        "title": "Sutherland, IA issues drinking water advisory",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773834415.626123,
+    "cached_at": 1773920669.7014008,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
@@ -1109,6 +1109,13 @@
         "lang": "en",
         "score": 0,
         "url": "https://es.wired.com/articulos/la-ia-ya-esta-cumpliendo-la-peores-pesadillas-de-los-gamers"
+      },
+      {
+        "title": "10 claves para entender la controversia de Pokémon Go y cómo usaron tus datos para entrenar una IA | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/10-claves-para-entender-la-controversia-de-pokemon-go-y-como-usaron-tus-datos-para-entrenar-una-ia"
       },
       {
         "title": "Las grandes tecnológicas se unen para combatir las estafas online del crimen organizado | WIRED",
@@ -1123,16 +1130,9 @@
         "lang": "en",
         "score": 0,
         "url": "https://es.ign.com/nvidia-rtx-5090/227680/news/nvidia-anuncia-dlss-5-llevando-aun-mas-ia-a-los-videojuegos-y-el-resultado-es-inquietante"
-      },
-      {
-        "title": "Google's Personal Intelligence feature is expanding to all US users | TechCrunch",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/"
       }
     ],
-    "cached_at": 1773834416.193997,
+    "cached_at": 1773920670.1267054,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
