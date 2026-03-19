@@ -370,7 +370,7 @@
   "1aa06cf232e59b4099181fc77bc2032cca3f1701bcd8a89857881f3d3a40d006": {
     "data": [
       {
-        "title": "PIPPIN crypto se desploma un 55%: ¿es el fin del unicornio AI?",
+        "title": "Crypto.com despide al 12% de su personal mientras el CEO advierte que las empresas deben actuar rápidamente con la IA",
         "source": "google_news",
         "lang": "es",
         "score": 0,
@@ -384,28 +384,28 @@
         "url": ""
       },
       {
-        "title": "MyInvestor quiere ofrecer criptodivisas: firma un acuerdo con Prosegur Crypto y Minos para explorarlo",
+        "title": "Crypto traders eye ‘bullish relief rally’ after Fed holds rates steady",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Bybit Pay Brings Everyday QR Crypto Payments to Bolivia With Yape",
+        "title": "Crypto.com recorta un 12% de su plantilla en su apuesta por la IA",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Proof of Talk 2026 lanza el Crypto Content Council",
+        "title": "Crypto.com recorta el 12% de su plantilla para impulsa la integración de IA empresarial",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773851555.0966165,
+    "cached_at": 1773937636.0915172,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
@@ -433,18 +433,32 @@
         "url": ""
       }
     ],
-    "cached_at": 1773851555.4429843,
+    "cached_at": 1773937636.3470254,
     "func": "fetch_hackernews",
     "args_summary": "(['crypto'],)"
   },
   "151a07ed322d3cbdd77d65398c3a13cd6a0111c87db69f3fd0b926d706a54d98": {
     "data": [
       {
-        "title": "El Bitcoin en el limbo mientras los activos de la \"vieja economía\" acaparan la atención durante el conflicto en Irán",
+        "title": "Bitcoin se mantiene como un oasis en plena tormenta en los mercados globales",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/neobancos/bitcoin-limbo-activos-vieja-economia-acaparan-atencion-conflicto-iran_6946353_0.html"
+        "url": "https://www.businessinsider.es/economia/bitcoin-se-mantiene-como-un-oasis-plena-tormenta-los-mercados-globales_6947325_0.html"
+      },
+      {
+        "title": "Kraken paraliza su salida a bolsa y alerta al mercado de las criptomonedas",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://www.businessinsider.es/mercados/kraken-paraliza-su-salida-bolsa-alerta-mercado-las-criptomonedas_6947742_0.html"
+      },
+      {
+        "title": "La Unión Europea cambia las reglas del pago en efectivo y también afecta a España",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://www.businessinsider.es/economia/union-europea-pago-efectivo-espana_6928640_0.html"
       },
       {
         "title": "La Unión Europea cambia las reglas del pago en efectivo y también afecta a España",
@@ -452,23 +466,9 @@
         "lang": "es",
         "score": 0,
         "url": "https://www.businessinsider.es/economia/union-europea-pago-efectivo-2027_6928640_0.html"
-      },
-      {
-        "title": "Los mercados han subestimado algo con la guerra de Irán: el riesgo de recesión es tan real como la crisis energética",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://www.businessinsider.es/mercados/mercados-subestimado-guerra-iran-riesgo-recesion-real-crisis-energetica_6946643_0.html"
-      },
-      {
-        "title": "Rusia estaba atascada en Ucrania y sin poder vender su petróleo legalmente. Hasta que EEUU decidió atacar a Irán",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://xataka.com/energia/99-dolares-barril-visto-bueno-washington-asi-se-ha-convertido-rusia-gran-ganador-crisis-ormuz"
       }
     ],
-    "cached_at": 1773851556.0294294,
+    "cached_at": 1773937636.86321,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
