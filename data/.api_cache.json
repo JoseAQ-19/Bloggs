@@ -370,7 +370,7 @@
   "1aa06cf232e59b4099181fc77bc2032cca3f1701bcd8a89857881f3d3a40d006": {
     "data": [
       {
-        "title": "Crypto.com despide al 12% de su personal mientras el CEO advierte que las empresas deben actuar rápidamente con la IA",
+        "title": "Gráfico del Bitcoin (BTC)",
         "source": "google_news",
         "lang": "es",
         "score": 0,
@@ -384,33 +384,40 @@
         "url": ""
       },
       {
-        "title": "Crypto traders eye ‘bullish relief rally’ after Fed holds rates steady",
+        "title": "Predicción del precio de TRON (TRX) para 2026 2027 2028",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Crypto.com recorta un 12% de su plantilla en su apuesta por la IA",
+        "title": "El mercado criptográfico se estabiliza mientras los derivados indican cautela, aumenta la presión macro",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Crypto.com recorta el 12% de su plantilla para impulsa la integración de IA empresarial",
+        "title": "Precio, gráficos, capitalización de mercado de LayerZero (ZRO)",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773937636.0915172,
+    "cached_at": 1774023701.8680582,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "5c20aedfee12fab17574d9716695b511d7e61e204e2a7e9a7f897f9646417150": {
     "data": [
+      {
+        "title": "There's a shocking amount of overlap between AI & Crypto/NFT bros",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 7,
+        "url": "https://mystudentfailedtheirmid.substack.com/p/theres-a-shocking-amount-of-overlap"
+      },
       {
         "title": "TrustAgentAI – Cryptographic receipts for MCP tool calls (non-repudiation layer)",
         "source": "hackernews",
@@ -424,16 +431,9 @@
         "lang": "en",
         "score": 5,
         "url": "https://www.quantamagazine.org/quantum-cryptography-pioneers-win-turing-award-20260318/"
-      },
-      {
-        "title": "Likely Crypto Airdrop Scam Targeting GitHub Contributors (OpenClaw / $Claw)",
-        "source": "hackernews",
-        "lang": "en",
-        "score": 4,
-        "url": ""
       }
     ],
-    "cached_at": 1773937636.3470254,
+    "cached_at": 1774023702.1478639,
     "func": "fetch_hackernews",
     "args_summary": "(['crypto'],)"
   },
@@ -454,21 +454,21 @@
         "url": "https://www.businessinsider.es/mercados/kraken-paraliza-su-salida-bolsa-alerta-mercado-las-criptomonedas_6947742_0.html"
       },
       {
-        "title": "La Unión Europea cambia las reglas del pago en efectivo y también afecta a España",
+        "title": "Aunque cortáramos la mayoría de cables submarinos Bitcoin seguiría funcionando: su mayor amenaza es otra",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://www.businessinsider.es/economia/union-europea-pago-efectivo-espana_6928640_0.html"
+        "url": "http://www.xataka.com/criptomonedas/cortar-mayoria-cables-submarinos-tumbaria-bitcoin-problema-otro-esta-mucho-cerca"
       },
       {
         "title": "La Unión Europea cambia las reglas del pago en efectivo y también afecta a España",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/economia/union-europea-pago-efectivo-2027_6928640_0.html"
+        "url": "https://www.businessinsider.es/economia/union-europea-pago-efectivo-espana_6928640_0.html"
       }
     ],
-    "cached_at": 1773937636.86321,
+    "cached_at": 1774023702.7794416,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
