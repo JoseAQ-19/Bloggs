@@ -552,53 +552,53 @@
   "fb4ad1bcef6d3043168469167a15cb1cb1ab0f544701e2b912c49d41dd73fb7a": {
     "data": [
       {
-        "title": "Este viernes, Dani Olmo responde en directo en el canal de YouTube del FC Barcelona",
+        "title": "'And the Oscar Goes To... Youtube'",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "YouTube se convierte en plataforma preferente del Mundial 2026 tras un acuerdo innovador con FIFA",
+        "title": "Renta 2025",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "FIFA cierra acuerdo con YouTube para que pueda emitir partidos completos del Mundial por primera vez",
+        "title": "Cómo crear vídeos de YouTube sin rostro en español: Guía fácil",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "YouTube deja en manos de los usuarios arreglar sus problemas relacionados con el contenido generado por IA",
+        "title": "El Manchester City y Xylem lanzan la serie de YouTube \"Rainmakers\" para destacar la sostenibilidad hídrica global",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Los expertos en desarrollo infantil coinciden: los vídeos educativos de IA para niños en YouTube no son contenido neutro sino \"desinformación para bebés a escala industrial\"",
+        "title": "Uno de los partidos más importantes del año del fútbol español se podrá ver gratis en el canal de YouTube de Ibai",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773948061.450601,
+    "cached_at": 1774034204.775611,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "cfab165c756760f9672efaf7f54fa3040ac0f24e7b4012e5d64766caf60cfad3": {
     "data": [
       {
-        "title": "Acuerdo histórico FIFA-Youtube en el Mundial - AS.com",
+        "title": "La alianza \"histórica\" entre la FIFA y Youtube permitirá seguir el Mundial 2026 mucho más de cerca",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/futbol/internacional/acuerdo-historico-fifa-youtube-de-cara-al-mundial-f202603-n/"
+        "url": "https://www.businessinsider.es/tecnologia/alianza-historica-entre-fifa-youtube-permitira-seguir-mundial-2026-mucho-mas-cerca_6947462_0.html"
       },
       {
         "title": "FIFA strikes landmark YouTube deal for World Cup - AS USA",
@@ -608,21 +608,21 @@
         "url": "https://en.as.com/soccer/world-cup/fifa-strikes-landmark-youtube-deal-for-world-cup-f202603-n/"
       },
       {
-        "title": "Apple acaba de comprar el arma secreta de miles de YouTubers. Llevaban 15 años haciendo que sus vídeos parecieran películas",
+        "title": "Si el doomscrolling es una \"adicción\", Meta y TikTok son sus proveedores: el juicio en EEUU contra las tecnológicas",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.applesfera.com/aplicaciones-os-x-1/estrategia-apple-para-conquistar-a-youtubers-ha-dado-giro-radical-se-acabo-desarrollar-cero-hora-abrir-cartera"
+        "url": "https://www.xataka.com/legislacion-y-derechos/eeuu-esta-discutiendo-condena-a-grandes-tecnologicas-disenar-algo-adictivo-como-tabaco-tragaperras-scroll"
       },
       {
-        "title": "Un youtuber se encierra en una jaula para perros y dice que seguirá ahí mientras le sigan dando dinero - Meristation",
+        "title": "NVIDIA ha escuchado atentamente las opiniones de los jugadores de DLSS 5 y ha emitido una respuesta: \"Estáis equivocados\"",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://as.com/meristation/virales/un-youtuber-se-encierra-en-una-jaula-para-perros-y-dice-que-seguira-ahi-mientras-le-sigan-dando-dinero-f202603-n/"
+        "url": "http://xataka.com/videojuegos/gamers-estan-completamente-equivocados-nvidia-reacciona-a-criticas-jugadores-prensa-al-dlss-5"
       }
     ],
-    "cached_at": 1773948062.1747475,
+    "cached_at": 1774034205.4142373,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
