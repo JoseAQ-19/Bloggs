@@ -1167,42 +1167,42 @@
   "47c2bc6816549fbd4391587ad907de1b4a35f331cc234d17a1e0ece63b6178da": {
     "data": [
       {
-        "title": "Everyday tools, extraordinary crimes: the ransomware exfiltration playbook",
+        "title": "Industry Voices—Stop buying AI tools, start designing AI architecture",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "From scientist to bioinformatician: how AI coding tools dissolved the activation energy barrier",
+        "title": "IUCN Area Based Management Tools",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Obin AI Raises $7 Million for Agentic Tools for Financial Firms",
+        "title": "NewFronts 2026 decoded—TV 3.0, agentic tools and digital ad budgets",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "City’s Community Tool Program Earns Statewide Recognition",
+        "title": "The Tech Download: Agentic tools and chips take center stage at Nvidia's 'Super Bowl of AI'",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "The Do’s and Don’ts of Using AI for Financial Planning",
+        "title": "Coaches Offered Mental Health Support Tools",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773931690.514517,
+    "cached_at": 1774018036.9574835,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
@@ -1216,28 +1216,28 @@
         "url": "https://es.wired.com/articulos/las-grandes-tecnologicas-se-unen-para-combatir-las-estafas-online-del-crimen-organizado"
       },
       {
-        "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe | TechCrunch",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/"
-      },
-      {
-        "title": "PlayStation Portal recibe una actualización que ofrece \"una experiencia optimizada en general\": estas son las novedades",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.ign.com/playstation-project-q/227717/news/playstation-portal-recibe-una-actualizacion-que-ofrece-una-experiencia-optimizada-en-general-estas-s"
-      },
-      {
         "title": "La IA ya está cumpliendo la peores pesadillas de los gamers | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
         "url": "https://es.wired.com/articulos/la-ia-ya-esta-cumpliendo-la-peores-pesadillas-de-los-gamers"
+      },
+      {
+        "title": "China aprueba el uso de chips cerebrales y es solo el comienzo de un plan para dominar la industria | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/china-aprueba-el-uso-de-chips-cerebrales-y-es-solo-el-comienzo-de-un-plan-para-dominar-la-industria"
+      },
+      {
+        "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators  | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/"
       }
     ],
-    "cached_at": 1773931691.1736078,
+    "cached_at": 1774018037.6626334,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
