@@ -139,42 +139,42 @@
   "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
     "data": [
       {
-        "title": "I Tried Over a Dozen Fitness Trackers Last Year — These Were My Favorites",
+        "title": "71-year-old Oakland grandmother is among finalists in national fitness competition",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Gym Looks to AI for More Precise Physical Fitness",
+        "title": "Experts Say These Small and Easy Fitness Items Can Help Improve Your Bone Density",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "‘Good. Better. Becoming.’ fitness journal inspires others to walk toward their purpose",
+        "title": "‘Plogging’ fitness trend is taking over New York City’s dirty streets — and keeping people in shape",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Clovis gym temporarily closed ‘for the safety of our members’",
+        "title": "Fitness influencer faces charges in Broward dating violence case, records show",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Raleigh Parks Health & Wellness Program",
+        "title": "Planet Fitness Mobile Black Card Spa Bus Stops in Toledo For Fan Rebound Experience!",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773896217.1010902,
+    "cached_at": 1773981816.409792,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
@@ -202,14 +202,14 @@
         "url": "https://es.ign.com/forza-horizon-6/227719/preview/forza-horizon-6-recupera-los-grandes-cambios-estacionales-de-horizon-4-ign-first"
       },
       {
-        "title": "Nvidia anuncia DLSS 5, llevando aún más IA a los videojuegos, y el resultado es... inquietante",
+        "title": "La IA ya está cumpliendo la peores pesadillas de los gamers | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.ign.com/nvidia-rtx-5090/227680/news/nvidia-anuncia-dlss-5-llevando-aun-mas-ia-a-los-videojuegos-y-el-resultado-es-inquietante"
+        "url": "https://es.wired.com/articulos/la-ia-ya-esta-cumpliendo-la-peores-pesadillas-de-los-gamers"
       }
     ],
-    "cached_at": 1773896217.8406396,
+    "cached_at": 1773981816.9157782,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
