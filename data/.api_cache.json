@@ -629,60 +629,60 @@
   "9ee96a29d2849810b096fb4ad7845a44fb015972f3144c10f16e0a281e09fb7c": {
     "data": [
       {
-        "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
+        "title": "Jaden Williams",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "FIFA and YouTube Team Up in FIFA World Cup 2026 Preferred Platform Agreement",
+        "title": "We’re launching the Top Sports Podcasts on YouTube for brands to align with sports fans.",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "031826",
+        "title": "Helen and Jaehyuk PD explore how YouTube creators and fans built a global K-pop culture",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "'Harming babies': Child safety group blasts Google's investment in AI content for kids",
+        "title": "Cineverse Partners with VA Media to Accelerate Digital Monetization of YouTube Channels",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "‘Mister Rogers’ Neighborhood’ Getting YouTube Channel For First Time",
+        "title": "Ateme Verified for YouTube Live",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773948440.8809228,
+    "cached_at": 1774034497.517423,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "f990e7eff0f3103ac01b2830c939d7dce846fb1e852800a979f12b26b78a0e42": {
     "data": [
       {
+        "title": "Meta cierra Horizon Worlds en Quest y da otro paso hacia el adiós definitivo al metaverso | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/meta-cierra-horizon-worlds-en-quest-y-da-otro-paso-hacia-el-adios-definitivo-al-metaverso"
+      },
+      {
         "title": "Las grandes tecnológicas se unen para combatir las estafas online del crimen organizado | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
         "url": "https://es.wired.com/articulos/las-grandes-tecnologicas-se-unen-para-combatir-las-estafas-online-del-crimen-organizado"
-      },
-      {
-        "title": "Facebook launches a new monetization program to attract popular creators from TikTok, YouTube | TechCrunch",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/"
       },
       {
         "title": "La IA ya está cumpliendo la peores pesadillas de los gamers | WIRED",
@@ -692,14 +692,14 @@
         "url": "https://es.wired.com/articulos/la-ia-ya-esta-cumpliendo-la-peores-pesadillas-de-los-gamers"
       },
       {
-        "title": "Google Play hace un cambio muy importante en su sección de videojuegos, y todavía se guarda un as en la manga",
+        "title": "Facebook launches a new monetization program to attract popular creators from TikTok, YouTube | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.ign.com/android/227698/news/google-play-hace-un-cambio-muy-importante-en-su-seccion-de-videojuegos-y-todavia-se-guarda-un-as-en"
+        "url": "https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/"
       }
     ],
-    "cached_at": 1773948441.5208201,
+    "cached_at": 1774034498.1711872,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
