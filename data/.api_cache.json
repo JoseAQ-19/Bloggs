@@ -1090,42 +1090,42 @@
   "88f30aaa7bab0042d69286b6e1ddf009c9ed8bd38dd824e484b197be702b0cbf": {
     "data": [
       {
-        "title": "Sutherland, IA issues drinking water advisory",
+        "title": "iA Financial commits $1M to pediatric AI initiative",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Sutherland, IA issues drinking water advisory",
+        "title": "‘Let’s Build Marshall County’ presentations set for March 25",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "LARRY STONE: Goose music signals spring",
+        "title": "Robert Deitch @ Iowa Distilling Co , Cumming IA (6-9PM)",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Sutherland, IA issues drinking water advisory",
+        "title": "IA SENATE SAYS NO TO 4 YEAR COMMUNITY COLLEGE DEGREE BILL",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Sutherland, IA issues drinking water advisory",
+        "title": "Feds charge 3 in $2.5b scheme to smuggle us AI tech to China using dummy servers",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773920669.7014008,
+    "cached_at": 1774006933.4579833,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
@@ -1139,13 +1139,6 @@
         "url": "https://es.wired.com/articulos/la-ia-ya-esta-cumpliendo-la-peores-pesadillas-de-los-gamers"
       },
       {
-        "title": "10 claves para entender la controversia de Pokémon Go y cómo usaron tus datos para entrenar una IA | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/10-claves-para-entender-la-controversia-de-pokemon-go-y-como-usaron-tus-datos-para-entrenar-una-ia"
-      },
-      {
         "title": "Las grandes tecnológicas se unen para combatir las estafas online del crimen organizado | WIRED",
         "source": "exa",
         "lang": "en",
@@ -1153,14 +1146,21 @@
         "url": "https://es.wired.com/articulos/las-grandes-tecnologicas-se-unen-para-combatir-las-estafas-online-del-crimen-organizado"
       },
       {
-        "title": "Nvidia anuncia DLSS 5, llevando aún más IA a los videojuegos, y el resultado es... inquietante",
+        "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.ign.com/nvidia-rtx-5090/227680/news/nvidia-anuncia-dlss-5-llevando-aun-mas-ia-a-los-videojuegos-y-el-resultado-es-inquietante"
+        "url": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/"
+      },
+      {
+        "title": "El DLSS 5 de Nvidia me tiene preocupada, pero al menos podemos sacar algo bueno de esto",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/nvidia/227764/opinion/el-dlss-5-de-nvidia-es-perjudicial-para-los-videojuegos-pero-al-menos-podemos-sacar-algo-bueno-de-es"
       }
     ],
-    "cached_at": 1773920670.1267054,
+    "cached_at": 1774006934.0016134,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
