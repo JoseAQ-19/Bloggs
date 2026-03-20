@@ -985,60 +985,60 @@
   "21a068db0cd0ba4e3b3272cddddd6e25dad487d2eb369a2766316588951e7843": {
     "data": [
       {
-        "title": "¿Y si la IA decide tu voto?",
+        "title": "¿Qué dicen los expertos sobre la prohibición de la UE a los 'deepfakes' sexuales con IA?",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Cómo formarte en análisis de datos e IA en 2026",
+        "title": "Creíamos que teníamos una burbuja de la IA. Hay argumentos potentes que indican que estábamos equivocados",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "EY refuerza su apuesta por el asesoramiento en IA y Data con la incorporación de tres nuevos socios",
+        "title": "Madrid acelera el despliegue de IA en sus servicios públicos",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Samsung destinará casi 64.000 millones en 2026 para dominar los chips de IA",
+        "title": "Júlia Nueno, investigadora del genocidio en Gaza: “La IA acelera las guerras porque predice culpables sin que se cometa delito”",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El uso de la IA por los jueces y magistrados españoles: sus límites y restricciones",
+        "title": "¿Es una IA responsable posible?",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773915441.7925577,
+    "cached_at": 1774001703.5886908,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
   "712dc6b87821c74ce3310d15eb2faa5011ccf2d0df44b2a976b735ced665ce6e": {
     "data": [
       {
-        "title": "Most GitHub Actions OIDC trust policies allow any repo to assume AWS IAM roles",
-        "source": "hackernews",
-        "lang": "en",
-        "score": 2,
-        "url": "https://haitmg.pl/blog/github-actions-oidc-aws-backdoor/"
-      },
-      {
         "title": "Exogram Protocol RFC: Server Side IAM for AI Agents",
         "source": "hackernews",
         "lang": "en",
         "score": 2,
         "url": "https://github.com/Richard-Ewing/exogram-protocol-rfc"
+      },
+      {
+        "title": "Ask HN: AWS account restricted 18h despite remediation (Case 177385077300217)",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 14,
+        "url": ""
       },
       {
         "title": "Show HN: LucidShark - Quality pipeline for AI coding agents",
@@ -1048,19 +1048,12 @@
         "url": "https://lucidshark.com"
       }
     ],
-    "cached_at": 1773915442.0491345,
+    "cached_at": 1774001703.9265373,
     "func": "fetch_hackernews",
     "args_summary": "(['ia'],)"
   },
   "46503d41ef4fee113ff718159ee99bd6e87c149d97104b3a6a5f5ddc5f6be1b3": {
     "data": [
-      {
-        "title": "Para sorpresa de nadie, la IA se está cebando con un sector muy específico de la economía: los salarios bajos",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://magnet.xataka.com/empresas-y-economia/ia-se-va-a-cebar-quienes-se-ceban-todas-transformaciones-tecnologicas-salarios-bajos"
-      },
       {
         "title": "Microsoft busca el trono de la IA: combina equipos de Copilot y apuesta por la superinteligencia",
         "source": "exa",
@@ -1069,21 +1062,28 @@
         "url": "https://www.businessinsider.es/big-tech/microsoft-busca-trono-ia-combina-equipos-copilot-apuesta-por-superinteligencia_6947235_0.html"
       },
       {
-        "title": "Meta considera recortes de personal mientras invierte miles de millones en IA: hasta 16.000 empleos en el aire",
+        "title": "Más de la mitad de los adolescentes en EEUU usa IA para crear imágenes sexualizadas",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/big-tech/meta-considera-recortes-personal-mientras-invierte-miles-millones-ia-hasta-16-000-empleos-aire_6946602_0.html"
+        "url": "https://www.businessinsider.es/tecnologia/mas-mitad-los-adolescentes-eeuu-usa-ia-para-crear-imagenes-sexualizadas_6947878_0.html"
       },
       {
-        "title": "OpenAI lleva años queriendo ser la novia en la boda y el muerto en el entierro: ahora ha definido al fin su prioridad",
+        "title": "La IA está llegando a ámbitos muy locos de nuestra vida. Lo de la limpieza de piscinas es una muestra más de lo que está por venir",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://magnet.xataka.com/robotica-e-ia/anthropic-esta-ganando-carrera-ia-empresas-asi-que-openai-tiene-nuevo-plan-convertirse-anthropic"
+        "url": "https://www.xataka.com/n/ia-esta-llegando-a-ambitos-muy-locos-nuestra-vida-limpieza-piscinas-muestra-que-esta-venir"
+      },
+      {
+        "title": "DLSS 5: millones invertidos en mejoras gráficas por IA para que la gente diga que parece un filtro de belleza de Instagram",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "http://xataka.com/videojuegos/dlss-5-millones-invertidos-mejoras-graficas-ia-gente-diga-que-parece-filtro-belleza-instagram"
       }
     ],
-    "cached_at": 1773915442.6573627,
+    "cached_at": 1774001704.5056,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
