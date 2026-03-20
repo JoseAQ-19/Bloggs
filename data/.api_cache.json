@@ -475,60 +475,60 @@
   "c7dcb72dc33baaa2e522c198717b4b418fcd1e9a91af28dfbac294c4b153973d": {
     "data": [
       {
-        "title": "A Crypto Coin Is Gobbling Up U.S. Treasuries",
+        "title": "Client Alert: SEC Crypto Update: Clarity on What Is—and Isn’t—a Security",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Crypto.com lays off 12% of staff as CEO warns firms must move fast on AI",
+        "title": "The SEC Just Drew a Line in the Crypto Sand: What's a Security and What's Not?",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
+        "title": "Digital Credit Is the Latest Code Word for Leverage Among Crypto Treasury Companies",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Top 5 Crypto Wallets to Buy Your First Bitcoin",
+        "title": "Consumer First Alert: Wisconsin crypto kiosk bill awaits governor’s signature",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "South Korean lawmakers push to abolish upcoming 22% crypto tax",
+        "title": "Katie Haun on the promise of stablecoins, crypto regulation and future of agentic finance",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773938282.5744314,
+    "cached_at": 1774024236.7388449,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "db4cf0fe883cd8d987c633ca7c9adb75314597f893f367cbf745e8aa11ded4e3": {
     "data": [
       {
-        "title": "Peritaje halla un supuesto pacto por 5 millones de dólares para que Milei promoviera la criptoestafa $Libra | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/javier-milei-habria-recibido-un-pago-de-5-millones-de-dolares-para-promover-la-criptoestafa-dollarlibra"
-      },
-      {
         "title": "Las grandes tecnológicas se unen para combatir las estafas online del crimen organizado | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
         "url": "https://es.wired.com/articulos/las-grandes-tecnologicas-se-unen-para-combatir-las-estafas-online-del-crimen-organizado"
+      },
+      {
+        "title": "Meta cierra Horizon Worlds en Quest y da otro paso hacia el adiós definitivo al metaverso | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/meta-cierra-horizon-worlds-en-quest-y-da-otro-paso-hacia-el-adios-definitivo-al-metaverso"
       },
       {
         "title": "China aprueba el uso de chips cerebrales y es solo el comienzo de un plan para dominar la industria | WIRED",
@@ -545,7 +545,7 @@
         "url": "https://es.wired.com/articulos/la-ia-ya-esta-cumpliendo-la-peores-pesadillas-de-los-gamers"
       }
     ],
-    "cached_at": 1773938283.0859632,
+    "cached_at": 1774024237.4646037,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
