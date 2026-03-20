@@ -216,42 +216,42 @@
   "cddff883eee8ba79205166d8431aed7738bd3bb0724b8d87f5f17a2a8cc26039": {
     "data": [
       {
-        "title": "La isla de Epstein se convierte en nuevo destino viral para influencers",
+        "title": "La base de maquillaje más viral promete una piel perfecta con solo unos toques: te cuento si esto es cierto",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Un vídeo viral pregunta a los jóvenes en qué se gastan el bono cultural: de la Play al \"after\"",
+        "title": "Illa responde al vídeo viral de los jóvenes que no saben quién es: «Esto no puede ser»",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La mentira viral de los aficionados del Barcelona contra el Atlético",
+        "title": "La boda runner que se hizo (demasiado) viral: \"Nos pusimos las zapatillas diez minutos, pero se sacó de contexto\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Kim Kardashian sufre caída viral tras los Oscar por sus plataformas extremas 😳👠 La empresaria Kim Kardashian llamó la atención por sus zapatos de 20 cm… y el momento no tardó en volverse tendencia. #KimKardashian #Oscars #Viral #Moda #Famosos #",
+        "title": "Salvador Illa responde al video viral en el que jóvenes catalanes no saben quien preside la Generalitat: “Debemos corregirlo”",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El vídeo viral de Rosalía besando un rosario durante su concierto en Lyon",
+        "title": "Lamine celebra el fin del Ramadán con un baile que está en boca de todos: viral al instante",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773958332.7158577,
+    "cached_at": 1774044578.8324378,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
@@ -272,21 +272,21 @@
         "url": "https://www.businessinsider.es/economia/generacion-z-no-tiene-dinero-pagar-alquiler-seran-mas-ricos-historia_6947058_0.html"
       },
       {
-        "title": "Ring Royale bate una marca histórica: más de 5 millones de usuarios vieron el evento principal al mismo tiempo - AS México",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://mexico.as.com/tikitakas/ring-royale-bate-una-marca-historica-mas-de-5-millones-de-usuarios-vieron-el-evento-principal-al-mismo-tiempo-f202603-n/"
-      },
-      {
         "title": "Si el doomscrolling es una \"adicción\", Meta y TikTok son sus proveedores: el juicio en EEUU contra las tecnológicas",
         "source": "exa",
         "lang": "en",
         "score": 0,
         "url": "http://xataka.com/legislacion-y-derechos/eeuu-esta-discutiendo-condena-a-grandes-tecnologicas-disenar-algo-adictivo-como-tabaco-tragaperras-scroll"
+      },
+      {
+        "title": "Seedance 2.0 ha utilizado la propiedad intelectual de Hollywood para viralizarse. Hollywood ha utilizado los juzgados",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "http://xataka.com/robotica-e-ia/seedance-2-0-modelo-video-ia-avanzado-hollywood-ha-parado-seco-copyright-nueva-arma-geopolitica"
       }
     ],
-    "cached_at": 1773958333.2750704,
+    "cached_at": 1774044579.4085255,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
