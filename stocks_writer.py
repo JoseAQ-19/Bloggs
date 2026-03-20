@@ -392,10 +392,10 @@ WRITE THE FULL ARTICLE NOW. START IMMEDIATELY WITH THE FIRST SENTENCE (NO preamb
             
         desc_text = LLMRouter.route_call(desc_prompt, "You are a financial SEO specialist.", fallback_stock_meta, model_type="parsing")
         raw_desc = desc_text.replace('"', "'") if desc_text else ""
-            if len(raw_desc) > 155:
-                description = raw_desc[:155].rsplit(' ', 1)[0] + '.'
-            else:
-                description = raw_desc if raw_desc.endswith('.') else raw_desc + '.'
+        if len(raw_desc) > 155:
+            description = raw_desc[:155].rsplit(' ', 1)[0] + '.'
+        else:
+            description = raw_desc if raw_desc.endswith('.') else raw_desc + '.'
     except Exception:
         pass
 
