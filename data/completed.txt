@@ -380,3 +380,4 @@ crypto: Bitcoin: El refugio seguro en medio del caos global
 crypto: The Rise of Digital Credit: A New Leverage Tool for Crypto Treasuries
 crypto: SEC's Bold Move: Defining the Boundaries of Crypto Securities
 youtube: YouTube se lleva el Oscar: ¿El futuro del entretenimiento digital?
+youtube: Unpacking the Rise of K-Pop: How YouTube Creators Shaped a Global Phenomenon
