@@ -1118,67 +1118,60 @@
   "47c2bc6816549fbd4391587ad907de1b4a35f331cc234d17a1e0ece63b6178da": {
     "data": [
       {
-        "title": "Industry Voices—Stop buying AI tools, start designing AI architecture",
+        "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "IUCN Area Based Management Tools",
+        "title": "Anthropic Denies It Could Sabotage AI Tools During War",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "NewFronts 2026 decoded—TV 3.0, agentic tools and digital ad budgets",
+        "title": "Miro's CEO says companies should treat spending on AI as part of their employee learning budget",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "The Tech Download: Agentic tools and chips take center stage at Nvidia's 'Super Bowl of AI'",
+        "title": "Turkey tools trending to lighter, smaller gauges, guns",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Coaches Offered Mental Health Support Tools",
+        "title": "UCR community urged to use Google AI tools",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774018036.9574835,
+    "cached_at": 1774104156.3928566,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "92ad7a04052f3c14b23389817cda9215b8114296c6bad566e117afe5cafcbd04": {
     "data": [
       {
-        "title": "Las grandes tecnológicas se unen para combatir las estafas online del crimen organizado | WIRED",
+        "title": "WordPress.com now lets AI agents write and publish posts, and more | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/las-grandes-tecnologicas-se-unen-para-combatir-las-estafas-online-del-crimen-organizado"
+        "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more"
       },
       {
-        "title": "La IA ya está cumpliendo la peores pesadillas de los gamers | WIRED",
+        "title": "Google Search is now using AI to replace headlines | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/la-ia-ya-esta-cumpliendo-la-peores-pesadillas-de-los-gamers"
-      },
-      {
-        "title": "China aprueba el uso de chips cerebrales y es solo el comienzo de un plan para dominar la industria | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/china-aprueba-el-uso-de-chips-cerebrales-y-es-solo-el-comienzo-de-un-plan-para-dominar-la-industria"
+        "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment"
       },
       {
         "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators  | TechCrunch",
@@ -1186,9 +1179,16 @@
         "lang": "en",
         "score": 0,
         "url": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/"
+      },
+      {
+        "title": "Meta cierra Horizon Worlds en Quest y da otro paso hacia el adiós definitivo al metaverso | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/meta-cierra-horizon-worlds-en-quest-y-da-otro-paso-hacia-el-adios-definitivo-al-metaverso"
       }
     ],
-    "cached_at": 1774018037.6626334,
+    "cached_at": 1774104157.1039352,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
