@@ -17,29 +17,30 @@ class LLMRouter:
         Intento 1: MODELS_TOKEN_CEU (Prioridad 1 - Límites Pro)
         Intento 2: TOKEN_MODELS (Prioridad 2 - Fallback Estándar)
         """
-        token1 = os.getenv("MODELS_TOKEN_CEU")
-        token2 = os.getenv("TOKEN_MODELS")
+        token_pro = os.getenv("MODELS_TOKEN_CEU")   # Cuenta Student (GPT-5)
+        token_free = os.getenv("TOKEN_MODELS")      # Cuenta Free (GPT-5-mini)
         base_url = "https://models.inference.ai.azure.com"
         
-        # Enrutamiento Inteligente para Copilot Pro (Student Account via CEU PAT): 
-        # Tareas de razonamiento/corrección -> gpt-5 (Tier High: 150 request)
-        # Tareas de parseo/formateo -> gpt-5-mini (Tier Low: 500 requests)
+        # Enrutamiento Estratégico Multi-Cuenta (Evasión de Rate Limits):
         if model_type == "reasoning":
             model = "gpt-5"
+            attempts = [
+                ("TIER 0-PRO (STUDENT - GPT-5)", token_pro),
+                ("TIER 0-FALLBACK (FREE)", token_free)
+            ]
         else:
             model = "gpt-5-mini"
+            attempts = [
+                ("TIER 0-FREE (JOSEAQ - MINIS)", token_free),
+                ("TIER 0-FALLBACK (STUDENT)", token_pro)
+            ]
             
-        attempts = [
-            ("TIER 0-A (GITHUB-CEU)", token1),
-            ("TIER 0-B (GITHUB-STD)", token2)
-        ]
-        
-        if token1: print(f"   [Debug] Token 1 detectado: {len(token1)} chars")
-        if token2: print(f"   [Debug] Token 2 detectado: {len(token2)} chars")
+        if token_pro: print(f"   [Debug] Token PRO detectado: {len(token_pro)} chars")
+        if token_free: print(f"   [Debug] Token FREE detectado: {len(token_free)} chars")
         
         for name, token in attempts:
             if not token or len(token) < 10:
-                print(f"   [Debug] Token para {name} inválido o vacío.")
+                print(f"   [Debug] {name} sin configurar o inválido.")
                 continue
                 
             try:
