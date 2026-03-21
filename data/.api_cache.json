@@ -293,77 +293,77 @@
   "6b917a81fd9eedfed0c8175dfe38aafa9e90472ee53445d8e4541e481f95984d": {
     "data": [
       {
-        "title": "Grandpa, 101, goes viral from pottery class: ‘Happiest guy in the world’",
+        "title": "Spurs respond after viral video at game shows woman sending disparaging remarks about Hispanics",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Viral Catch, Vocal Leader: VB3 Has Grown Into Gators' Tone-Setter",
+        "title": "Spurs address viral TikTok alleging anti-Hispanic remarks, reaffirm inclusion stance",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Pricey Supplement ‘Stacks’ Go Viral",
+        "title": "Giants Cam Skattebo Goes Viral For Bizarre Thoughts on CTE & Asthma: ‘It’s Fake’",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Homegrown viral sensation KELO SOUL performs live for 7@four",
+        "title": "This Upgraded Viral Pasta Recipe Is 'The Easiest 20-Minute Dinner You'll Make All Week'",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Seattle I-5 chaos becomes viral Instagram comedy",
+        "title": "PopUp Bagels brings viral flavors to the Gulch",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774044911.74975,
+    "cached_at": 1774132286.459677,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
   "78419185a472eac00403a11a229938d32ad88b963bbfbf48284eb0cbba1ee66b": {
     "data": [
       {
-        "title": "Meta cierra Horizon Worlds en Quest y da otro paso hacia el adiós definitivo al metaverso | WIRED",
+        "title": "Se informa que Sony eliminará la marca PlayStation Network y las siglas PSN. ¿Cómo afecta esto a los jugadores?",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/meta-cierra-horizon-worlds-en-quest-y-da-otro-paso-hacia-el-adios-definitivo-al-metaverso"
+        "url": "https://es.ign.com/playstation-1/227799/news/se-informa-que-sony-eliminara-la-marca-playstation-network-y-las-siglas-psn-como-afecta-esto-a-los-j"
       },
       {
-        "title": "La IA ya está cumpliendo la peores pesadillas de los gamers | WIRED",
+        "title": "Fortnite anticipa crossover con Game of Thrones: Jon Snow y el Rey de la Noche serían los elegidos",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/la-ia-ya-esta-cumpliendo-la-peores-pesadillas-de-los-gamers"
+        "url": "https://latam.ign.com/fortnite/112072/news/fortnite-game-of-thrones"
       },
       {
-        "title": "Las grandes tecnológicas se unen para combatir las estafas online del crimen organizado | WIRED",
+        "title": "Diablo Immortal arranca su hoja de ruta 2026 con Andariel, nuevo PvP y eventos inéditos",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/las-grandes-tecnologicas-se-unen-para-combatir-las-estafas-online-del-crimen-organizado"
+        "url": "https://latam.ign.com/diablo-immortal-1/112069/news/diablo-immortal-andariel"
       },
       {
-        "title": "Este nuevo juego oficial de Cyberpunk ha tenido tanto éxito que no da abasto con sus objetivos",
+        "title": "Cartas Pokémon: Três homens detidos por burla de 320 mil euros",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.ign.com/cyberpunk-2077/227759/news/este-nuevo-juego-oficial-de-cyberpunk-ha-tenido-tanto-exito-que-no-da-abasto-con-sus-objetivos"
+        "url": "https://pt.ign.com/pokemon-trading-card-game-tabletop/156116/news/cartas-pokemon-tres-homens-detidos-por-burla-de-320-mil-euros"
       }
     ],
-    "cached_at": 1774044912.317422,
+    "cached_at": 1774132287.1301594,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
