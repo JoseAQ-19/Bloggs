@@ -21,13 +21,13 @@ class LLMRouter:
         token2 = os.getenv("TOKEN_MODELS")
         base_url = "https://models.inference.ai.azure.com"
         
-        # Enrutamiento Inteligente: 
-        # Tareas de razonamiento/corrección -> GPT-4o
-        # Tareas de parseo/formateo -> GPT-4o-mini
+        # Enrutamiento Inteligente para Copilot Pro (Student Account via CEU PAT): 
+        # Tareas de razonamiento/corrección -> gpt-5 (Tier High: 150 request)
+        # Tareas de parseo/formateo -> gpt-5-mini (Tier Low: 500 requests)
         if model_type == "reasoning":
-            model = "gpt-4o"
+            model = "gpt-5"
         else:
-            model = "gpt-4o-mini"
+            model = "gpt-5-mini"
             
         attempts = [
             ("TIER 0-A (GITHUB-CEU)", token1),
