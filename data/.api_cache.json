@@ -531,77 +531,70 @@
   "fb4ad1bcef6d3043168469167a15cb1cb1ab0f544701e2b912c49d41dd73fb7a": {
     "data": [
       {
-        "title": "'And the Oscar Goes To... Youtube'",
+        "title": "YouTube prueba una función que podría acabar con el clickbait para siempre",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Renta 2025",
+        "title": "🛎️ Si aún no te unes, suscríbete y activa la campanita para no perderte nuestras entrevistas, análisis y reportajes exclusivos. 👉🏻 Visita aquí nuestro canal de YouTube : https://www.youtube.com/@expresotv1501/videos",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Cómo crear vídeos de YouTube sin rostro en español: Guía fácil",
+        "title": "FIFA anuncia \"acuerdo histórico\" con Youtube para el Mundial de 2026",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El Manchester City y Xylem lanzan la serie de YouTube \"Rainmakers\" para destacar la sostenibilidad hídrica global",
+        "title": "Caso Cerrado , Temporada 2020, Capitulo 45: \"Genitales en YouTube\" y \"Mamá bien me lo decía\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Uno de los partidos más importantes del año del fútbol español se podrá ver gratis en el canal de YouTube de Ibai",
+        "title": "¿Por qué los resúmenes contextuales de Gemini cambiarán la forma de ver YouTube?",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774034204.775611,
+    "cached_at": 1774120115.0130913,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "cfab165c756760f9672efaf7f54fa3040ac0f24e7b4012e5d64766caf60cfad3": {
     "data": [
       {
-        "title": "La alianza \"histórica\" entre la FIFA y Youtube permitirá seguir el Mundial 2026 mucho más de cerca",
+        "title": "Más de la mitad de los adolescentes en EEUU usa IA para crear imágenes sexualizadas",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/tecnologia/alianza-historica-entre-fifa-youtube-permitira-seguir-mundial-2026-mucho-mas-cerca_6947462_0.html"
+        "url": "https://www.businessinsider.es/tecnologia/mas-mitad-los-adolescentes-eeuu-usa-ia-para-crear-imagenes-sexualizadas_6947878_0.html"
       },
       {
-        "title": "FIFA strikes landmark YouTube deal for World Cup - AS USA",
+        "title": "Sabíamos que el móvil tenía un impacto en la salud mental de los niños. Un estudio ha definido la frontera: los 16 años",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "http://xataka.com/investigacion/llevamos-anos-midiendo-tiempo-pantalla-adolescentes-ciencia-dice-que-verdadero-peligro-otro"
+      },
+      {
+        "title": "Disney tiene nuevo CEO: D'Amaro revolucionará la industria del streaming con IA y realidad virtual",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://en.as.com/soccer/world-cup/fifa-strikes-landmark-youtube-deal-for-world-cup-f202603-n/"
-      },
-      {
-        "title": "Si el doomscrolling es una \"adicción\", Meta y TikTok son sus proveedores: el juicio en EEUU contra las tecnológicas",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/legislacion-y-derechos/eeuu-esta-discutiendo-condena-a-grandes-tecnologicas-disenar-algo-adictivo-como-tabaco-tragaperras-scroll"
-      },
-      {
-        "title": "NVIDIA ha escuchado atentamente las opiniones de los jugadores de DLSS 5 y ha emitido una respuesta: \"Estáis equivocados\"",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "http://xataka.com/videojuegos/gamers-estan-completamente-equivocados-nvidia-reacciona-a-criticas-jugadores-prensa-al-dlss-5"
+        "url": "https://www.businessinsider.es/tecnologia/disney-tiene-nuevo-ceo-d-amaro-revolucionara-industria-streaming-con-ia-realidad-virtual_6947829_0.html"
       }
     ],
-    "cached_at": 1774034205.4142373,
+    "cached_at": 1774120115.5017574,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
