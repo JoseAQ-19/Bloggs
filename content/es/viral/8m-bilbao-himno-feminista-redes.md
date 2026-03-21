@@ -72,7 +72,7 @@ La controversia en torno a los himnos feministas, aunque no se limite específic
 
 **Por qué es importante.** La controversia en torno a los himnos feministas puede parecer un asunto menor, pero en realidad refleja problemas más profundos dentro del movimiento. La incapacidad para encontrar símbolos y referentes comunes debilita la cohesión interna y dificulta la comunicación con el exterior. Si el feminismo no es capaz de superar estas divisiones, corre el riesgo de perder su capacidad de movilización y de influencia.
 
-## Nuestra Lectura
+## Nuestra Opinión
 
 Es hora de dejar de lado las batallas internas y construir un feminismo que no deje a nadie atrás. Un feminismo que abrace la diversidad, que escuche las voces de todas las mujeres y que luche por la igualdad sin exclusiones.
 

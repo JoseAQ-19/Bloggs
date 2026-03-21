@@ -59,7 +59,7 @@ Los estudios demuestran que los atletas de élite pueden vivir aproximadamente 5
 
 WABOL, por otro lado, se centra principalmente en la actividad física y la interacción social. Si bien estos son factores importantes, no abordan otros aspectos cruciales de la salud, como la nutrición, el sueño, el manejo del estrés y la prevención de enfermedades. Por lo tanto, es poco probable que WABOL por sí solo sea una solución mágica para la longevidad. Más bien, debería considerarse como un complemento a un estilo de vida saludable más amplio.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 WABOL es una excelente iniciativa para promover la actividad física y la interacción social, especialmente entre las personas mayores. Sin embargo, para obtener los máximos beneficios para la salud y la longevidad, es importante complementar WABOL con otras formas de ejercicio más intensas, como el entrenamiento de resistencia. Un estudio liderado por la Universidad de Barcelona revela una estrategia para mejorar y acelerar la recuperación de lesiones musculares a través de la exposición intermitente a una baja disponibilidad de oxígeno ([hipoxia](https://www.elconfidencial.com/deportes/2024-05-08/hipoxia-intermitente-lesiones-musculares-deportistas-elite_3885112/)).
 

@@ -69,7 +69,7 @@ La centralización de TRON y su historial de uso en actividades ilícitas añade
 
 Aunque TRX puede ofrecer oportunidades de crecimiento, es importante ser consciente de los riesgos y tomar decisiones de inversión informadas. La espada de Damocles de la volatilidad y la incertidumbre regulatoria siempre está presente, y los inversores deben estar preparados para afrontar los posibles desafíos. La promesa de altos rendimientos debe sopesarse con la realidad de los riesgos.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 Soy muy escéptico. La centralización de TRON y sus vínculos con actividades ilícitas presentan riesgos demasiado grandes para la mayoría de los inversores.
 

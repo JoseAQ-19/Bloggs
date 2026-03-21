@@ -59,7 +59,7 @@ La controversia en TikTok con la *influencer* Elena Gortari demostró el peligro
 
 La competencia en el mercado de productos para pieles sensibles es feroz. Marcas como Bioderma, Avène y La Roche-Posay han ganado la confianza de los consumidores gracias a sus fórmulas suaves y eficaces. Si Garnier quiere seguir siendo relevante, deberá demostrar un compromiso real con la salud y el bienestar de sus clientes.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 Si tienes piel sensible, extrema la precaución al utilizar productos Garnier.
 

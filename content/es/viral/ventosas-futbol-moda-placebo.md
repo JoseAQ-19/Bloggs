@@ -61,7 +61,7 @@ El futuro de las ventosas en la recuperación deportiva es incierto. Su auge act
 
 **El poder del marketing.** Es innegable que el marketing y la promoción han jugado un papel importante en la popularización de las ventosas. La imagen de atletas de élite utilizando esta terapia ha contribuido a crear una percepción positiva y a generar confianza en los consumidores. Sin embargo, es importante no dejarse llevar por la publicidad y basar las decisiones sobre la salud en la evidencia científica y el consejo de profesionales cualificados.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 En un mundo saturado de información y modas pasajeras, es fundamental mantener una actitud crítica y cuestionar las verdades aparentemente establecidas. La evidencia científica es escasa y los riesgos potenciales son reales: las ventosas no son la panacea que muchos creen.
 

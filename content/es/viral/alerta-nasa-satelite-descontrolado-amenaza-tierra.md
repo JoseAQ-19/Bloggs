@@ -59,7 +59,7 @@ Para mitigar este riesgo, es fundamental establecer un marco regulatorio global 
 
 La Agencia Espacial Europea (ESA) está liderando iniciativas para la eliminación activa de basura espacial, como la misión ClearSpace-1, que tiene como objetivo retirar un objeto de gran tamaño de la órbita terrestre. Estas misiones son un paso importante hacia la limpieza del entorno espacial, pero se necesitan muchos más esfuerzos para abordar la magnitud del problema.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 Es hora de actuar con audacia y decisión. El espacio es un bien común que debemos proteger para las generaciones futuras.
 

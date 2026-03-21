@@ -77,7 +77,7 @@ La televisión también puede afectar nuestra autoestima y nuestra imagen corpor
 
 ¿Somos conscientes del poder que tiene la televisión para influir en nuestras mentes? ¿Estamos preparados para protegernos de sus efectos negativos? La respuesta a estas preguntas es fundamental para evitar que la televisión se convierta en una herramienta de ingeniería social que manipule nuestras emociones y condicione nuestras vidas. Hay que consumir estos productos con espíritu crítico.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 La televisión, tal como se presenta actualmente en cadenas como Telecinco y Antena 3, prioriza los índices de audiencia sobre la ética, perjudicando activamente a participantes y espectadores. La manipulación psicológica, el fomento del conflicto y la explotación de la vulnerabilidad son prácticas comunes que deben ser denunciadas y combatidas.
 

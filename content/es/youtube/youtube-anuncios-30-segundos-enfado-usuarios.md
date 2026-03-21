@@ -81,7 +81,7 @@ Incluso existen aplicaciones como Cleantube, que permiten escuchar música y ver
 
 La búsqueda de alternativas a YouTube es una señal clara de que los usuarios están insatisfechos con la estrategia publicitaria de la plataforma. Si YouTube no cambia su rumbo, podría perder una parte importante de su audiencia en favor de estas alternativas.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 YouTube está jugando un juego arriesgado al priorizar los ingresos publicitarios sobre la experiencia del usuario. La imposición de publicidad obligatoria y la lucha contra los bloqueadores de anuncios están generando una ola de frustración que podría llevar a muchos usuarios a buscar alternativas.
 

@@ -69,7 +69,7 @@ La solicitud de prisión en el caso Mbappé podría impulsar a LaLiga a adoptar 
 
 **Por qué es importante.** La imagen de LaLiga como una liga comprometida con la lucha contra el racismo es fundamental para su éxito a largo plazo. Si LaLiga no toma medidas más contundentes para erradicar el racismo de sus estadios, corre el riesgo de perder prestigio y de sufrir sanciones económicas por parte de la UEFA. ¿Está dispuesta LaLiga a priorizar su imagen internacional sobre sus intereses económicos y políticos?
 
-## Nuestra lectura
+## Nuestra Opinión
 
 Si bien la condena de los aficionados del Valencia y la solicitud de prisión en el caso Mbappé son pasos importantes, LaLiga debe abordar de manera más integral el problema del racismo, comenzando por investigaciones exhaustivas de grupos como el Ultra Sur y la implementación de protocolos más efectivos en los estadios. No basta con castigar los incidentes individuales; es necesario atacar las causas subyacentes del problema y crear una cultura de tolerancia cero con el racismo en el fútbol. LaLiga debe crear un comité independiente con poder de sanción para investigar y castigar los actos de racismo en el fútbol español, garantizando la transparencia y la imparcialidad en el proceso.
 ¿Y si, en lugar de buscar soluciones parche, LaLiga reconociera que el problema del racismo es un reflejo de una sociedad que aún no ha superado sus propios prejuicios? LaLiga tiene que demostrar si se toma en serio la condena contra el racismo.

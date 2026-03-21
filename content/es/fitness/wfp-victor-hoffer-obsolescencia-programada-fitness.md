@@ -59,6 +59,6 @@ Además del coste económico, la obsolescencia programada también puede tener u
 
 Es esencial que los consumidores sean críticos con las afirmaciones de marketing y que prioricen la evidencia científica y el asesoramiento de profesionales cualificados. Invertir en educación nutricional y en el desarrollo de hábitos alimenticios saludables es una inversión a largo plazo que puede generar beneficios significativos tanto para la salud como para la economía personal.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 El auge de la obsolescencia programada en la nutrición deportiva exige un cambio radical en la forma en que los consumidores abordan su salud y su entrenamiento. Es hora de priorizar el asesoramiento nutricional basado en la evidencia y los productos regulados por encima de los suplementos y protocolos de moda. Busca la guía de nutricionistas deportivos acreditados, no solo de entrenadores o influencers. No te dejes engañar: tu salud vale más que un cuerpo de revista.

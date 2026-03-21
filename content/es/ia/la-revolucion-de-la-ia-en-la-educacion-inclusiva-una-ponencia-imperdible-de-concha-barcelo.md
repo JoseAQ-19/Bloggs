@@ -61,7 +61,7 @@ Sin embargo, la legislación por sí sola no es suficiente. Es fundamental que l
 
 La implementación de IA no debe ser vista como un fin en sí mismo, sino como una herramienta que puede mejorar la educación si se utiliza correctamente. Las oportunidades son enormes, pero los desafíos son igualmente significativos. Si no se abordan de manera adecuada, podríamos estar creando un futuro educativo que perpetúe las desigualdades ya existentes.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 La inteligencia artificial en la educación tiene un potencial inmenso, pero su implementación debe hacerse con cuidado y ética. La falta de formación adecuada y la preocupación por los sesgos algorítmicos son solo algunos de los desafíos que deben enfrentarse. Se recomienda invertir en formación específica para docentes antes de adoptar tecnologías de IA en las aulas. 
 

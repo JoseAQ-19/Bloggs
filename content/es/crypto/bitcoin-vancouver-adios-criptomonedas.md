@@ -61,6 +61,6 @@ La tributación de las criptomonedas es un tema complejo que requiere un anális
 
 *La inversión en criptoactivos no está regulada, puede no ser adecuada para inversores minoristas y perderse la totalidad del importe invertido. Es importante leer y comprender los riesgos de esta inversión.*
 
-## Nuestra lectura
+## Nuestra Opinión
 
 La rápida expansión de Worldcoin en España subraya la necesidad de medidas de protección de datos más sólidas y proactivas. Los individuos deben considerar cuidadosamente los riesgos antes de proporcionar datos biométricos a cualquier proyecto. La privacidad no es un juego, es un derecho. La complacencia regulatoria, junto con la agresiva recopilación de datos por parte de startups, crea una tormenta perfecta donde los derechos individuales se ven comprometidos.

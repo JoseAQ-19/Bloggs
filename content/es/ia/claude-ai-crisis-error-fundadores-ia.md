@@ -59,7 +59,7 @@ Para abordar estos riesgos, es fundamental establecer un marco regulatorio sóli
 
 Sin embargo, la regulación es solo una parte de la solución. También necesitamos fomentar una cultura de responsabilidad y transparencia en el desarrollo y el uso de la IA. Esto implica educar al público sobre los riesgos y beneficios de la IA, promover la investigación sobre la ética de la IA y exigir a las empresas que sean transparentes sobre cómo utilizan la IA y cómo protegen la privacidad de los datos.
 
-## Nuestra Lectura
+## Nuestra Opinión
 
 La dependencia de la IA para la toma de decisiones críticas, especialmente en defensa, es prematura y peligrosa. Exijamos transparencia radical y auditorías independientes de los sistemas de IA utilizados en la seguridad nacional y la regulación financiera.
 

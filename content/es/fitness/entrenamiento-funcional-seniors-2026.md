@@ -59,6 +59,6 @@ Mantener la capacidad de moverse libremente, de realizar actividades sociales y 
 
 La prevención de caídas no es solo una cuestión de salud física; es una cuestión de justicia social. Todos los adultos mayores merecen tener la oportunidad de vivir una vida plena y activa, sin el temor constante de sufrir una caída que pueda comprometer su independencia y su bienestar. Es responsabilidad de la sociedad garantizar que tengan acceso a los recursos y el apoyo necesarios para mantenerse seguros, saludables y conectados.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 El entrenamiento funcional para personas mayores debe implementarse de forma proactiva y personalizada, teniendo en cuenta las necesidades cognitivas y motoras de cada persona mayor y adaptándose a sus habilidades. Exijamos mejores programas de educación sobre prevención de caídas y una mayor concienciación de los profesionales de la salud sobre los efectos secundarios de la medicación. Invierte en tu equilibrio, invierte en tu vida.

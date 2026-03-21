@@ -59,7 +59,7 @@ La participación en retos virales peligrosos puede tener consecuencias psicoló
 
 Es fundamental que los padres, los educadores y los profesionales de la salud mental trabajen juntos para ayudar a los adolescentes a desarrollar una relación saludable con las redes sociales y a proteger su salud mental. Es necesario enseñarles a discernir entre lo real y lo virtual, a valorar su propia valía independientemente de la opinión de los demás y a tomar decisiones informadas sobre su salud y su bienestar. La salud mental de los adolescentes es un tesoro que debemos proteger a toda costa.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 El "Paracetamol Challenge" es un síntoma alarmante de una sociedad obsesionada con la viralidad y la búsqueda de atención en las redes sociales. Es un llamado de atención sobre la necesidad de proteger a los jóvenes de los peligros de las tendencias virales y de promover una cultura de responsabilidad y conciencia en el uso de las redes sociales.
 

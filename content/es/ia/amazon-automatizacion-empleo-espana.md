@@ -79,7 +79,7 @@ La automatización no es una amenaza inevitable, sino una oportunidad para trans
 
 Es crucial que los gobiernos, las empresas, los sindicatos y la sociedad civil trabajen juntos para desarrollar un plan integral que aborde los desafíos que plantea la automatización. Este plan debe incluir medidas para proteger a los trabajadores, fomentar la innovación, promover la educación y la formación, y garantizar una distribución justa de los beneficios de la automatización.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 La automatización es inevitable, pero la transición debe ser justa. Invertir en la formación de los trabajadores desplazados es fundamental para mitigar el impacto negativo. [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/) se ha convertido en una distracción para aquellos que buscan nuevas habilidades. El futuro no es distópico, sino transformador.
 

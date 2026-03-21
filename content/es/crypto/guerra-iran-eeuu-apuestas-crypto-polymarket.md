@@ -71,6 +71,6 @@ La manipulación de los mercados de predicción puede tener un impacto negativo 
 
 *La inversión en criptoactivos no está regulada, puede no ser adecuada para inversores minoristas y perderse la totalidad del importe invertido. Es importante leer y comprender los riesgos de esta inversión.*
 
-## Nuestra Lectura
+## Nuestra Opinión
 
 España debe actuar con decisión para regular los mercados de predicción de criptomonedas. La inacción no es una opción cuando hay millones en juego y la confianza pública está en riesgo. Vigilen de cerca, inviertan con cautela.

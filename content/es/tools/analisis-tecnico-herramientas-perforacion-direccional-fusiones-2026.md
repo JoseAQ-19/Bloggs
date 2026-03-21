@@ -59,7 +59,7 @@ La falta de una extensión horizontal planificada de 2000 metros en un proyecto,
 
 Es esencial que las empresas petroleras adopten un enfoque transparente y responsable al operar en estos mercados. Esto implica involucrar a las comunidades locales en la toma de decisiones, realizar evaluaciones de impacto ambiental exhaustivas y cumplir estrictamente con las regulaciones locales. La falta de transparencia y la negligencia ambiental pueden dañar la reputación de una empresa y socavar la confianza pública, lo que puede resultar en costosos retrasos y la oposición de la comunidad.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 Nos inclinamos por la necesidad de soluciones más realistas y probadas en el campo. Implementar un protocolo integral de evaluación de riesgos, incluyendo estudios geotécnicos exhaustivos y planes de contingencia para la inestabilidad de la formación y daños a la infraestructura.
 

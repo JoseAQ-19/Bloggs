@@ -59,7 +59,7 @@ Si bien la banda ha declarado que su música actual explora temas como la vulner
 
 El éxito de este álbum no solo dependerá de su calidad musical, sino también de su capacidad para conectar con un público cada vez más sensibilizado con las cuestiones de género. Si la banda logra demostrar que ha aprendido de las críticas del pasado y que su música actual refleja una visión más inclusiva y respetuosa, "Miami 1990" podría marcar un nuevo capítulo en su carrera. De lo contrario, el álbum corre el riesgo de ser percibido como un simple intento de capitalizar la nostalgia sin abordar las problemáticas subyacentes. **Café Quijano y un maravilloso regreso a Miami 1990**
 
-## Nuestra lectura
+## Nuestra Opinión
 
 Aunque Café Quijano haya intentado evolucionar, los oyentes deberían evaluar críticamente si su nueva música supera realmente las problemáticas representaciones identificadas en el pasado. Exijamos transparencia a las plataformas de *streaming* con respecto a sus algoritmos y su impacto en la promoción de contenido sexista.
 

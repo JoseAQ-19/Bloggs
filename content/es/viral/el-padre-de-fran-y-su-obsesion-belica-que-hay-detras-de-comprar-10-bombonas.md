@@ -69,7 +69,7 @@ Lo que comienza como una afición puede degenerar en un trastorno psicológico q
 
 ---
 
-## Nuestra lectura: La pasión que puede detonar
+## Nuestra Opinión: La pasión que puede detonar
 
 La colección de artefactos bélicos no es un pasatiempo inocente; es un juego peligroso con consecuencias potencialmente devastadoras. Desde los riesgos físicos asociados con los explosivos hasta los problemas psicológicos y legales, esta obsesión tiene un costo que muchos coleccionistas no comprenden hasta que es demasiado tarde.
 

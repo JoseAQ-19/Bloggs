@@ -82,7 +82,7 @@ However, it's crucial to acknowledge that the market dynamics are constantly shi
 
 Moreover, the fund's focus on dividend-paying stocks may limit its growth potential, especially in a market environment where growth stocks are outperforming value stocks. Investors seeking higher growth may prefer to invest in funds with a greater allocation to growth stocks.
 
-## The Machine's Verdict
+## Our Verdict
 
 This ain't your grandfather's equity income fund anymore. T. Rowe Price Equity Income has become a classic example of active management's death spiral—high fees, lagging performance, and now a Morningstar review. The $15.5 billion question isn't whether the fund can recover, but when investors will pull the plug. With 0.68% fees eating away at returns that consistently trail the S&P 500 by nearly 2% annually, this fund is becoming a prime candidate for tax-loss harvesting. The institutional class at 0.42% still costs more than 10x Vanguard's index offering while delivering commensurately worse results. Maybe it's time to admit that active management in large-cap US equities is a sucker's game—unless you can beat the market consistently, which PRIDX demonstratively cannot. The only question remaining is how many investors will wait until their capital has eroded further before recognizing this structural disadvantage.
 

@@ -53,7 +53,7 @@ El futuro de Bitcoin sigue siendo incierto. Si bien algunos ven en la criptomone
 
 El modelo o1 de OpenAI proyectó que Bitcoin alcanzaría entre 80,000 y 100,000 dólares a finales de 2024, impulsado por factores como el halving y la adopción de ETFs. **Sin embargo, también consideró un escenario bajista** en el que Bitcoin podría estabilizarse entre 60,000 y 70,000 dólares. La adopción generalizada de Bitcoin y su capacidad para resistir las presiones regulatorias serán factores determinantes en su destino final.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 Ante la incertidumbre que rodea a Bitcoin, recomendamos actuar con extrema cautela, diversificar las inversiones y considerar cuidadosamente las advertencias regulatorias de la CNMV. La inversión en criptoactivos conlleva riesgos inherentes que no deben ser ignorados.
 

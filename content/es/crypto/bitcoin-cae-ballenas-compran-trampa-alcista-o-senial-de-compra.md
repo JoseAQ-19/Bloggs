@@ -69,7 +69,7 @@ La CNMV indica que la capitalización global de los criptoactivos se duplicó en
 
 El impacto real de la volatilidad en el futuro de Bitcoin depende de la capacidad del mercado para madurar y desarrollar mecanismos para mitigar los riesgos. La adopción de regulaciones más claras, la mejora de la transparencia del mercado y el desarrollo de productos financieros más sofisticados podrían ayudar a reducir la volatilidad y promover una adopción más amplia de Bitcoin. Sin embargo, si la volatilidad persiste, Bitcoin podría seguir siendo un activo especulativo reservado para inversores de alto riesgo.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 Si bien la acumulación por parte de grandes tenedores está ocurriendo, la volatilidad y la incertidumbre regulatoria exigen precaución.
 

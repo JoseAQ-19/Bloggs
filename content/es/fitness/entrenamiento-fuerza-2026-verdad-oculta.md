@@ -69,7 +69,7 @@ El riesgo de sarcopenia aumenta con la edad, alcanzando el 30,8% en los mayores 
 
 La sarcopenia también tiene un impacto negativo en la calidad de vida de las personas mayores. La pérdida de fuerza y movilidad dificulta la realización de las actividades de la vida diaria, como vestirse, bañarse, cocinar o limpiar. Esto puede llevar a la dependencia de otros, la pérdida de autoestima, el aislamiento social y la depresión. Además, la sarcopenia puede reducir la capacidad de disfrutar de las actividades de ocio y de participar en la vida social, lo que disminuye la sensación de bienestar y felicidad. Es fundamental concienciar a la población sobre los riesgos de la sarcopenia y promover hábitos saludables que permitan prevenirla y tratarla.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 El entrenamiento de fuerza es una herramienta crucial para combatir la sarcopenia en España, y las campañas de concienciación son urgentemente necesarias para informar a la población sobre este peligro oculto. Hay que desterrar la idea de que el envejecimiento es sinónimo de debilidad y dependencia, y promover una cultura del envejecimiento activo y saludable.
 

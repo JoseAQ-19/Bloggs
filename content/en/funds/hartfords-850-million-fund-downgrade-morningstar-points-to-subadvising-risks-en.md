@@ -72,7 +72,7 @@ A: Investors can minimize subadvising risks by doing their due diligence and und
 **Q: Is Hartford a good investment opportunity despite the downgrade?**
 A: While Hartford's long-term performance is impressive, the subadvising risks are a major concern. Investors need to carefully consider the potential risks before making a decision.
 
-## The Machine's Verdict
+## Our Verdict
 
 In conclusion, Hartford's downgrade is a wake-up call for investors. While the fund's long-term performance is impressive, the subadvising risks are a major concern. Investors need to carefully consider the potential risks before making a decision. As always, it's essential to do your due diligence and stay informed.
 

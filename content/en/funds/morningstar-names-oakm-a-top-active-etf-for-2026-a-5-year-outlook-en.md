@@ -49,7 +49,7 @@ The geopolitical landscape, particularly the recent escalation in Middle Eastern
 
 However, the contrarian perspective suggests significant headwinds for OAKM's continued outperformance. Energy sectors historically exhibit extreme volatility, with periods of significant underperformance following boom times. The current elevated valuation of energy infrastructure, reflected in OAKM's 1.3 price-to-cash-flow multiple versus its 5-year average of 0.9, suggests limited upside potential in the near term. Additionally, the ongoing energy transition toward renewable sources presents a structural long-term threat to fossil fuel-based infrastructure investments.
 
-## The Machine's Verdict
+## Our Verdict
 
 OAKM demonstrates marginally better risk-adjusted returns than its passive counterpart, but not enough to justify its 0.65% expense ratio. The fund's concentrated approach introduces uncompensated concentration risk. While Morningstar's 4-star rating reflects past performance, energy sector cycles suggest reversion to the mean is inevitable. The expense differential of 57 basis points annually compounds significantly over time, eroding potential outperformance. For investors seeking energy exposure, passive alternatives with superior tax efficiency represent the superior quantified option. OAKM may be suitable for tactical satellite positions but fails as a core holding based on cost-benefit analysis. The endorsement reflects backward-looking judgment rather than forward-looking probability.
 

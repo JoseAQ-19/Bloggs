@@ -59,7 +59,7 @@ El vínculo madre-bebé es fundamental para el desarrollo emocional y cognitivo 
 
 Es fundamental cambiar el enfoque y priorizar la salud mental y el bienestar emocional de las madres por encima de los estándares estéticos superficiales. La recuperación postparto es un proceso individual y gradual que requiere tiempo, paciencia, apoyo y autocuidado. Las madres necesitan sentirse valoradas, respetadas y apoyadas en su rol de cuidadoras, sin ser juzgadas ni presionadas para cumplir con expectativas irreales.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 Estamos firmemente del lado de la paciencia, el autocuidado y la priorización de la salud mental y física de la madre por encima de cualquier estándar irreal impuesto por las redes sociales o la cultura del "bounce back". Antes de embarcarte en cualquier programa de ejercicios postparto, busca la guía de un profesional de la salud mental especializado en el periodo perinatal. La recuperación es un maratón, no una carrera de velocidad. La meta es el bienestar a largo plazo, no un cuerpo "perfecto" en tiempo récord. Recuerda: recuperarse es más importante que rebotar.
 

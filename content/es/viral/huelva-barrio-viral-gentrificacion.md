@@ -79,7 +79,7 @@ El futuro de Huelva se encuentra en una encrucijada, dividido entre la promesa d
 
 Huelva se enfrenta al desafío de encontrar un equilibrio entre la modernización y la preservación de su identidad. Para lograrlo, es necesario un plan urbanístico integral y sostenible que tenga en cuenta las necesidades de todos los ciudadanos, que proteja el patrimonio histórico y natural de la ciudad y que promueva la participación ciudadana en la toma de decisiones.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 La situación actual exige un renovado enfoque en la planificación urbana inclusiva que priorice la vivienda asequible, la preservación histórica y el compromiso ciudadano. Huelva necesita un PGOM que responda a las necesidades de sus residentes actuales y proteja su identidad única. Es hora de dejar atrás los intereses partidistas y la especulación inmobiliaria y apostar por un futuro en el que Huelva sea una ciudad habitable, sostenible y orgullosa de su historia.
 

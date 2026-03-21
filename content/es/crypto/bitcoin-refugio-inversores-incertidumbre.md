@@ -51,7 +51,7 @@ La combinación del halving y la incertidumbre geopolítica crea un escenario co
 
 *La inversión en criptoactivos no está regulada, puede no ser adecuada para inversores minoristas y perderse la totalidad del importe invertido. Es importante leer y comprender los riesgos de esta inversión.*
 
-## Nuestra lectura
+## Nuestra Opinión
 
 Las advertencias de Stephen Roach, junto con la cautela regulatoria en España y las importantes preocupaciones sobre la privacidad, superan el potencial de altos retornos. La verticalidad en el precio de Bitcoin y sus tendencias de tipo burbuja hacen que sea una inversión de alto riesgo.
 

@@ -75,7 +75,7 @@ Es hora de dejar de romantizar el cheerleading y el baloncesto femenino y de cen
 
 **Por qué es importante.** Es fundamental que las organizaciones deportivas, las escuelas y los padres trabajen juntos para crear un entorno más seguro y saludable para las atletas. Esto no solo protegerá su salud y bienestar, sino que también les permitirá alcanzar su máximo potencial deportivo.
 
-## Nuestra Lectura
+## Nuestra Opinión
 
 El cheerleading necesita una regulación más estricta y entrenadores certificados. Exigir inspecciones regulares de equipos deportivos y protocolos de seguridad.
 

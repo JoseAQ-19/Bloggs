@@ -67,7 +67,7 @@ ARTICLE_STRUCTURE = """
     Include at least 5 numeric data points with sources. At least ONE link MUST point to a primary authority (.gov, .edu, SEC, CNMV).
 11. LANGUAGE PURITY:
     If writing in Spanish, ALL text must be in Spanish. No Spanglish.
-12. LAST SECTION RULE: The final H2 NEVER uses 'Conclusion'. Use action-oriented headers like 'The Machine's Verdict' or 'Investment Strategy'.
+12. LAST SECTION RULE: The final H2 NEVER uses 'Conclusion'. Use action-oriented headers like 'Our Verdict' or 'Investment Strategy'. CRITICAL: NEVER use 'The Machine's Verdict' — always write in first-person plural ("we believe", "our analysis shows").
 13. CHUNKING (GEO OPTIMIZATION - ZERO FLUFF):
     Under EVERY H2 or H3 header, the VERY FIRST sentence MUST directly and concisely answer the premise of the header. No introductions.
 14. SCHEMA MARKUP (JSON-LD STRUCTURE - SEO 2026):

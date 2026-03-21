@@ -81,7 +81,7 @@ En este contexto, es fundamental que los inversores españoles se informen adecu
 
 *La inversión en criptoactivos no está regulada, puede no ser adecuada para inversores minoristas y perderse la totalidad del importe invertido. Es importante leer y comprender los riesgos de esta inversión.*
 
-## Nuestra lectura
+## Nuestra Opinión
 
 En este complejo panorama, donde la innovación se entrelaza con la incertidumbre regulatoria, la cautela y la educación son las mejores armas. Individuos deberían consultar con asesores fiscales para comprender completamente y prepararse para los posibles cambios en la fiscalidad de las criptomonedas. La tokenización inmobiliaria puede sonar atractiva, pero los inversores deben investigar a fondo los proyectos y comprender los riesgos asociados.
 

@@ -59,6 +59,6 @@ Es necesario un enfoque que valore tanto la formación formal como la experienci
 
 La clave reside en encontrar un equilibrio entre la protección del consumidor y la promoción de la competencia, garantizando que los usuarios tengan acceso a servicios de calidad sin restringir las oportunidades de desarrollo profesional de los entrenadores. El fitness debe ser un sector abierto a todos aquellos que tengan la pasión, el conocimiento y la experiencia necesarios para ayudar a las personas a alcanzar sus objetivos de salud y bienestar. Se debe aspirar a un sector donde la capacitación y la actualización constante sean los pilares fundamentales.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 Creemos que se necesita un enfoque equilibrado, que reconozca tanto la educación formal como la experiencia práctica. Implementar un sistema de certificación transparente que valore la competencia demostrable junto con las cualificaciones formales es crucial. El fitness no es un coto privado, ¡es un derecho!

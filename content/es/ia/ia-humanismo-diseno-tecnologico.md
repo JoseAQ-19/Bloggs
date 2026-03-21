@@ -59,7 +59,7 @@ Myriam Blázquez, directora general de Experis España, señala que las empresas
 
 Según **Europa Press**, las tendencias que marcarán el rumbo tecnológico de las empresas españolas en 2026 serán IA, ética, Green IT y ciberseguridad. Las empresas que logren integrar la IA generativa en sus estrategias de negocio, al tiempo que abordan los desafíos éticos y de seguridad, estarán mejor posicionadas para prosperar en el futuro. La formación de los empleados es fundamental para garantizar que puedan utilizar la IA generativa de forma eficaz y responsable. Además, es importante establecer mecanismos de control y supervisión para evitar el uso indebido de la tecnología y proteger la privacidad de los datos.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 La IA no es una fuerza neutral, sino un reflejo de los valores y prejuicios de quienes la crean y la utilizan. El futuro de la IA en España depende de nuestra capacidad para construir sistemas éticos que aborden activamente las desigualdades sociales, en lugar de simplemente perpetuarlas. **The Smart City Journal** reportó que solo el 24% de las empresas aprueban en Ética IA.
 

@@ -60,7 +60,7 @@ While VOO and SPY are both popular and well-established funds, there are risks a
 
 Additionally, the S&P 500 index has been criticized for its lack of diversification, with some critics arguing that it is too heavily weighted towards technology stocks.
 
-## The Machine's Verdict
+## Our Verdict
 
 From a purely mathematical perspective, VOO appears to be the better choice due to its lower expense ratio and slightly better performance over the past 1-year and 3-year periods. However, investors should consider their individual financial goals and risk tolerance before making a decision.
 

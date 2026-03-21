@@ -59,7 +59,7 @@ La entrada en vigor de la regulación MiCA (Markets in Crypto-Assets) en la Uni�
 
 Sin embargo, la CNMV reitera que MiCA proporciona una protección "parcial" a los inversores, que aún está lejos de lo que tienen con otros productos de inversión. La CNMV podrá sancionar a las empresas de criptoactivos que operen sin cumplir con MiCA. ¿Será suficiente MiCA para garantizar la seguridad y la transparencia en el mercado de criptoactivos en España?
 
-## Nuestra lectura
+## Nuestra Opinión
 
 El futuro de Bitcoin es incierto, pero las predicciones extremas, tanto alcistas como bajistas, deben tomarse con cautela. Si bien es posible que Bitcoin alcance los $275,000 en 2025, este escenario depende de una serie de factores que están fuera del control de los inversores individuales. La claridad regulatoria, la adopción institucional y el sentimiento del mercado son solo algunos de los factores que podrían influir en el precio de Bitcoin en los próximos años.
 

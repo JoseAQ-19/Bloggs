@@ -57,7 +57,7 @@ Las organizaciones que lideran la adopción de la IA tienen 2.5 veces más proba
 
 España, al igual que el resto de la Unión Europea, está adaptando su legislación a la Ley de IA de la UE, que establece normas armonizadas para la IA. Esta ley impone obligaciones estrictas a las empresas que desarrollan y utilizan sistemas de IA, incluyendo requisitos de transparencia, responsabilidad y no discriminación. Las empresas que no cumplan con estas obligaciones podrían enfrentarse a multas de hasta 15 millones de euros o entre el 2 y el 3% de su facturación anual global [EU AI Act](https://artificialintelligenceact.eu/). Por lo tanto, es crucial que las empresas españolas inviertan en programas de cumplimiento normativo y adopten las mejores prácticas en materia de privacidad de datos, seguridad y ética.
 
-## Nuestra Lectura
+## Nuestra Opinión
 
 La estrategia de Google de apostar por la asequibilidad para democratizar la IA es audaz y potencialmente disruptiva. Al ofrecer Gemini 3.1 Flash Lite a una fracción del costo de Gemini 3.1 Pro, Google está enviando una señal clara de que el precio es un factor clave en la adopción masiva de la IA. Si bien la calidad y las capacidades especializadas siguen siendo importantes, el precio podría ser el factor decisivo para muchas empresas, especialmente en mercados sensibles al costo como España.
 

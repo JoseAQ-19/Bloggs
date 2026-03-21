@@ -303,6 +303,19 @@ def _validate_output(edited_text, original_text):
         "in today's digital landscape",
         "here is the rewritten text",
         "driving innovation",
+        # AI artifact tokens (CRITICAL — AdSense blockers)
+        "gemini grounding e-e-a-t",
+        "gemini grounding",
+        "according to **gemini",
+        "as detailed by **gemini",
+        "as reported by **gemini",
+        "[source needed]",
+        "[citation needed]",
+        "insert source here",
+        # Machine persona (signals AI authorship)
+        "the machine's verdict",
+        "the machine sees",
+        "the machine believes",
     ]
     lower_text = edited_text.lower()
     for phrase in banned:

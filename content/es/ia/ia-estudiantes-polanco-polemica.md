@@ -49,7 +49,7 @@ El futuro de la IA en la educación es incierto, pero una cosa está clara: no p
 
 La clave para navegar con éxito la IA en la educación reside en encontrar un equilibrio entre la innovación tecnológica y la pedagogía tradicional. Los educadores deben ser capacitados para integrar la IA de forma efectiva en el aula, utilizando esta herramienta para potenciar el aprendizaje, estimular la creatividad y fomentar el pensamiento crítico. Los estudiantes, por su parte, deben ser educados en el uso responsable de la IA, comprendiendo sus limitaciones y desarrollando habilidades que les permitan discernir la información veraz de la falsa, evaluar críticamente las fuentes y construir conocimiento propio.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 La IA tiene el potencial de transformar la educación, pero su integración descontrolada plantea serias amenazas para el desarrollo cognitivo y las habilidades esenciales de los estudiantes. Si bien es innegable que esta tecnología puede ofrecer beneficios en términos de personalización del aprendizaje y automatización de tareas, es crucial que no se convierta en un atajo que evada el esfuerzo intelectual necesario para adquirir conocimientos sólidos. Los estudiantes deben desarrollar una base sólida de conocimientos y habilidades de pensamiento crítico antes de utilizar extensivamente las herramientas de IA.
 

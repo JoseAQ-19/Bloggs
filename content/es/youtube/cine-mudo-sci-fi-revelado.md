@@ -69,7 +69,7 @@ La AEPD ha sancionado la creación y difusión de imágenes falsas de contenido 
 
 La respuesta de la AEPD al caso de los menores de Almendralejo y otros similares ha sido fundamental para crear conciencia sobre los riesgos de los deepfakes y para impulsar la acción del gobierno y de la sociedad civil. Sin embargo, aún queda mucho por hacer para combatir este problema. Es necesario fortalecer la legislación, mejorar la capacidad de detección de deepfakes y educar a los ciudadanos sobre los riesgos y las medidas de protección que pueden tomar. La lucha contra los deepfakes es un desafío complejo que requiere un esfuerzo conjunto de todos los actores de la sociedad.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 Nos inclinamos por un enfoque cauteloso ante los deepfakes, especialmente en lo que respecta a su potencial de uso indebido y sus implicaciones éticas. Cada ciudadano debería utilizar la búsqueda inversa de imágenes en sus fotos y vídeos de forma periódica. Lo falso es el nuevo real.
 

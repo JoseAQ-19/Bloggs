@@ -59,7 +59,7 @@ La tendencia hacia un enfoque más holístico del entrenamiento podría abrir nu
 
 Sin embargo, a medida que más atletas se sumen a esta tendencia, será crucial desarrollar programas que no solo se centren en el rendimiento, sino que también promuevan la salud a largo plazo. La clave será encontrar un equilibrio entre la intensidad del entrenamiento y la recuperación, garantizando que los atletas puedan competir al más alto nivel sin comprometer su salud.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 El Hyatlón no es solo una tendencia pasajera; es una oportunidad para redefinir el entrenamiento híbrido en España. Sin embargo, este potencial debe ser abordado con precaución. La implementación exitosa del Hyatlón requerirá un compromiso serio con la educación, la investigación y la regulación adecuada para evitar los riesgos asociados.
 

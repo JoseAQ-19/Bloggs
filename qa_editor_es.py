@@ -307,6 +307,20 @@ def _validate_output(edited_text, original_text):
         "inmersión profunda",
         "solo el tiempo lo dirá",
         "aquí está el texto reescrito",
+        # AI artifact tokens (CRITICAL — AdSense blockers)
+        "gemini grounding e-e-a-t",
+        "gemini grounding",
+        "según **gemini",
+        "como detalla **gemini",
+        "[fuente necesaria]",
+        "[cita necesaria]",
+        "[source needed]",
+        "[citation needed]",
+        # Machine persona (signals AI authorship)
+        "el veredicto de la máquina",
+        "la máquina ve",
+        "la máquina cree",
+        "the machine's verdict",
     ]
     lower_text = edited_text.lower()
     for phrase in banned:

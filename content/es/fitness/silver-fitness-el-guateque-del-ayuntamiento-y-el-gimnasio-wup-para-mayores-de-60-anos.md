@@ -43,7 +43,7 @@ Para 2050, el 30% de la población española superará los 60 años, y el grupo 
 
 La solución no es más caminata. **Ageingnomics evidencia que solo el 44% de los mayores en centros comerciales realiza fuerza**, mientras que el 61.5% camina sin supervisión. Esta actividad no estructurada es insuficiente: un metaanálisis de la Universidad de Pittsburgh demostró que caminar 10 minutos diarios reduce mortalidad cardiovascular en 12%, pero el entrenamiento de fuerza la reduce en un 29% **Fuente: Hábitos deportivos de la población adulta mayor**. 
 
-## Nuestra Lectura: Protocolo Práctico Urgente 
+## Nuestra Opinión: Protocolo Práctico Urgente 
 La crisis de Silver Fitness es un síntoma de un sistema que prioriza el mantenimiento sobre la longevidad funcional. **La evidencia es contundente: sin fuerza y supervisión, las caminatas aisladas son placebos pseudocientíficos**. 
 
 **Recomendación ejecutable HOY:** 

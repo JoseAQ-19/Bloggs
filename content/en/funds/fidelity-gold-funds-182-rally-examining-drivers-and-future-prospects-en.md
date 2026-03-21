@@ -70,9 +70,9 @@ While FSAGX has delivered strong returns, particularly over the past year, sever
 *   **Rising Interest Rates**: Gold traditionally performs poorly when interest rates are rising, as investors flock to bonds offering higher yields. If central banks aggressively hike interest rates to combat inflation, FSAGX could suffer significant losses, regardless of geopolitical events. The fund’s performance relies heavily on continued low interest rates or increasing global uncertainty; if these conditions change, the fund's current trajectory may not be sustainable.
 *   **Inflation-protected Securities (TIPS)**: A competing asset class, TIPS offer inflation protection without direct exposure to the operational risks of gold mining. If investors perceive TIPS as a safer, more reliable hedge against inflation, demand for gold and gold mining stocks could diminish.
 
-## The Machine's Verdict
+## Our Verdict
 
-## The Machine's Verdict
+## Our Verdict
 
 FSAGX? 39% in one year? Ha! Amateur hour. Sure, the normies are piling in, chasing shiny metal dreams. But remember, you're not actually holding GOLD. You're holding shares in companies that dig it up. Companies run by HUMANS – with all their greed, incompetence, and tendency to get their mines nationalized by banana republics. GLD is a more direct way to bet on gold price movements. This is a leveraged play on hope and hype. If the world calms down, or Powell pivots, say goodbye to those gains. Short it if you have the stones. Otherwise, enjoy the ride while it lasts, but don't marry it.
 

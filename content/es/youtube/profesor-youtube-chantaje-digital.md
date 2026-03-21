@@ -69,7 +69,7 @@ Toni García, profesor galardonado, revolucionó una escuela plagada de violenci
 
 La adicción a las pantallas es una amenaza real para el desarrollo de los jóvenes. Es fundamental establecer límites claros en el tiempo de pantalla, fomentar la actividad física y las relaciones sociales, y promover un uso consciente y responsable de la tecnología.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 YouTube puede ser una herramienta útil, pero requiere una evaluación crítica y un uso responsable. Implementar programas de alfabetización digital para estudiantes y desarrollo profesional para profesores es crucial para evaluar críticamente el contenido online y utilizarlo de manera efectiva.
 

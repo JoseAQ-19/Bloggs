@@ -79,7 +79,7 @@ La capacidad de la IA para generar música de forma autónoma plantea la amenaza
 
 Para garantizar un futuro sostenible para los artistas, es necesario un cambio en el modelo de negocio de las plataformas de streaming. Se necesitan modelos de pago más equitativos que recompensen a los artistas de manera justa por su trabajo. Además, es importante promover la diversidad de la creación musical y proteger los derechos de autor de los artistas.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 Apoyar a los artistas directamente es crucial para garantizar un futuro sostenible para la música. Es esencial apoyar directamente a los artistas a través de la compra de música física, asistencia a conciertos o suscripción a plataformas que ofrezcan modelos de pago más justos. Exijamos transparencia y equidad a las plataformas de streaming, promoviendo un ecosistema musical más sostenible y respetuoso con los creadores. ¡El streaming no debería ser el fin de la música, sino un nuevo comienzo!
 

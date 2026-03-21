@@ -59,7 +59,7 @@ Margarita de la Paz de Esvidas argumenta que la industria del vapeo "juega con l
 
 Si queremos un futuro sin humo, necesitamos un enfoque integral que combine la regulación efectiva con la educación y la prevención. Debemos proteger a los jóvenes de la influencia dañina de la industria del vapeo, al tiempo que brindamos apoyo a los adultos que buscan dejar de fumar. ¿Estamos a la altura de este desafío? Los menores vapean nueve veces más que los adultos.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 Aunque la campaña "Rosalía, déjalo" tiene buenas intenciones, es crucial un enfoque más amplio que regule efectivamente el marketing del vapeo dirigido a jóvenes, incluyendo sabores y la promoción en redes sociales. La campaña de la AECC contra Rosalía, si bien busca generar conciencia sobre el "humo digital" y el vapeo, podría ser más efectiva si se complementara con acciones que aborden directamente la regulación de la publicidad y la accesibilidad de estos productos para menores.
 

@@ -59,7 +59,7 @@ La negativa a desclasificar el resumen del juicio podría responder a la necesid
 
 La desclasificación completa de todos los documentos relacionados con el 23-F, incluido el resumen del juicio, es fundamental para garantizar el derecho a la verdad y la memoria de las víctimas de la dictadura. Solo así se podrá construir una historia compartida y superar los traumas del pasado. La sociedad española tiene derecho a saber qué ocurrió realmente durante el golpe de Estado y quiénes fueron sus responsables.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 La desclasificación de documentos del 23-F es un paso importante, aunque incompleto, hacia la verdad histórica. Es crucial analizar críticamente la información desvelada y exigir el acceso total a todos los archivos relacionados con el golpe de Estado, incluyendo el resumen del juicio. La sombra de la duda persiste, pero es necesario seguir investigando para arrojar luz sobre uno de los episodios más oscuros de la historia reciente de España.
 

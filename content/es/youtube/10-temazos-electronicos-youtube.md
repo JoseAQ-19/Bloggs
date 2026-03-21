@@ -81,7 +81,7 @@ En tercer lugar, los músicos deben buscar maneras de diferenciarse y destacar e
 
 La música es un arte, no un algoritmo. Y los artistas españoles deben luchar por preservar su creatividad en un mundo dominado por la inteligencia artificial.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 La IA representa una amenaza real para los ingresos de los artistas, pero también una herramienta potencial. Los músicos españoles se enfrentan a un futuro incierto, pero no están indefensos.
 

@@ -59,7 +59,7 @@ Este aumento de precio no solo afecta al bolsillo de las empresas, sino que tamb
 
 La Agencia Española de Protección de Datos (AEPD) ha expresado su preocupación y ha emitido recomendaciones contra el uso de Google Workspace for Education. Citan términos contractuales poco claros y problemas de intercambio de datos. Destacan la falta de compromiso de Google para notificar las violaciones de datos en un plazo de 72 horas, como exige la legislación de la UE. Es crucial que las organizaciones nombren a un Delegado de Protección de Datos (DPO) y registren sus datos en la consola de administración de Google.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 Google Workspace ofrece herramientas de automatización prometedoras, pero el RGPD exige una vigilancia constante y una comprensión profunda de cómo se procesan los datos. La complacencia no es una opción. Los riesgos son demasiado altos.
 

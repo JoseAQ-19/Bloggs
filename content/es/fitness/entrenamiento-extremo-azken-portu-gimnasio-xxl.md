@@ -49,7 +49,7 @@ El panorama actual del sector del fitness en España se caracteriza por la falta
 
 La cadena de gimnasios Supera fue multada con 160.000 euros por la [Agencia Española de Protección de Datos (AEPD)](https://www.aepd.es/es/prensa-y-comunicacion/notas-de-prensa/la-aepd-impone-una-multa-de-160000-euros-la-cadena-de-gimnasios) por imponer el reconocimiento facial como único medio de acceso. Este caso pone de manifiesto que los problemas de protección de datos son tan importantes como las habilidades de los entrenadores.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 La proliferación de "gurús" de gimnasio y la falta de regulación están creando un caldo de cultivo para estafas y lesiones. Antes de contratar a un entrenador personal, exige ver sus cualificaciones y comprueba sus referencias. No te dejes engañar por las promesas de resultados rápidos y fáciles. La salud es lo primero.
 

@@ -71,7 +71,7 @@ La CNMV subraya que la inversión en criptoactivos sigue siendo una actividad de
 
 *La inversión en criptoactivos no está regulada, puede no ser adecuada para inversores minoristas y perderse la totalidad del importe invertido. Es importante leer y comprender los riesgos de esta inversión.*
 
-## Nuestra lectura
+## Nuestra Opinión
 
 Si bien es poco probable que Bitcoin caiga hasta los 2.000 dólares, la predicción de Toribio sirve como un recordatorio de la volatilidad inherente al mercado de criptomonedas y la importancia de la gestión de riesgos. La manipulación del mercado, la incertidumbre regulatoria y los factores macroeconómicos globales pueden influir en el precio de Bitcoin, y los inversores deben estar preparados para escenarios adversos.
 

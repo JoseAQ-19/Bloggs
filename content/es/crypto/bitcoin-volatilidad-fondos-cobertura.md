@@ -89,7 +89,7 @@ La volatilidad anual de Bitcoin cayó por debajo del 50% en 2024, coincidiendo c
 
 La elección entre fondos discrecionales y algorítmicos es una cuestión de preferencia personal y depende de las circunstancias individuales de cada inversor. Algunos inversores prefieren la flexibilidad y la experiencia de los gestores humanos, mientras que otros confían más en la disciplina y la eficiencia de los algoritmos.
 
-## Nuestra lectura
+## Nuestra Opinión
 
 La propuesta de Sumar es un error que frenará la innovación y la inversión en criptomonedas en España. Si tienes más de 50.000€ en criptomonedas, busca asesoramiento fiscal experto INMEDIATAMENTE. El futuro es descentralizado, o no será.
 

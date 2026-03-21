@@ -67,7 +67,7 @@ El principal desafío es la rentabilidad de la inversión en FTTH. Desplegar una
 
 Otro desafío es la gestión de la infraestructura. La FTTH requiere una gestión eficiente de la red, así como una atención al cliente rápida y eficaz. Las telecos deben invertir en sistemas de gestión de la red y en personal cualificado para garantizar la calidad del servicio. De lo contrario, corren el riesgo de perder clientes y de dañar su reputación. La FTTH puede ser una oportunidad de oro para las telecos, pero también puede convertirse en una trampa mortal si no se gestiona adecuadamente.
 
-## Nuestra Lectura
+## Nuestra Opinión
 
 La adopción de la IA en las telecos españolas requiere un enfoque equilibrado que priorice la transparencia, la ética y la adaptación a las regulaciones cambiantes para evitar una crisis de confianza y garantizar la viabilidad a largo plazo. Las telecos deberían realizar auditorías éticas externas exhaustivas de sus sistemas de IA, enfocándose en la transparencia algorítmica y la mitigación de sesgos. Después de todo, la IA puede salvar a las telecos... si evitan el abismo ético.
 
