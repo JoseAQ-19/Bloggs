@@ -370,7 +370,14 @@
   "1aa06cf232e59b4099181fc77bc2032cca3f1701bcd8a89857881f3d3a40d006": {
     "data": [
       {
-        "title": "Gráfico del Bitcoin (BTC)",
+        "title": "Predicción del precio de EOS (EOS) para 2023 2024 2025 2026",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "El ETF Grayscale CoinDesk Crypto 5 actualiza el cálculo del índice con la inclusión de Binance",
         "source": "google_news",
         "lang": "es",
         "score": 0,
@@ -384,68 +391,54 @@
         "url": ""
       },
       {
-        "title": "Predicción del precio de TRON (TRX) para 2026 2027 2028",
+        "title": "Precio, gráficos, capitalización de mercado de Power Protocol (POWER)",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El mercado criptográfico se estabiliza mientras los derivados indican cautela, aumenta la presión macro",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Precio, gráficos, capitalización de mercado de LayerZero (ZRO)",
+        "title": "Shiba Inu (SHIB) +200 Mil Millones Umbral de Entrada a Exchange Extremadamente Cerca: Aumento de 24 Horas",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774023701.8680582,
+    "cached_at": 1774109526.1164157,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "5c20aedfee12fab17574d9716695b511d7e61e204e2a7e9a7f897f9646417150": {
     "data": [
       {
+        "title": "90% of crypto's Illinois primary spending failed to achieve its objective",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 132,
+        "url": "https://www.mollywhite.net/micro/entry/202603172318"
+      },
+      {
+        "title": "Cryptography in Home Entertainment (2004)",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 68,
+        "url": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/"
+      },
+      {
         "title": "There's a shocking amount of overlap between AI & Crypto/NFT bros",
         "source": "hackernews",
         "lang": "en",
-        "score": 7,
+        "score": 9,
         "url": "https://mystudentfailedtheirmid.substack.com/p/theres-a-shocking-amount-of-overlap"
-      },
-      {
-        "title": "TrustAgentAI – Cryptographic receipts for MCP tool calls (non-repudiation layer)",
-        "source": "hackernews",
-        "lang": "en",
-        "score": 6,
-        "url": ""
-      },
-      {
-        "title": "Quantum Cryptography Pioneers Win Turing Award",
-        "source": "hackernews",
-        "lang": "en",
-        "score": 5,
-        "url": "https://www.quantamagazine.org/quantum-cryptography-pioneers-win-turing-award-20260318/"
       }
     ],
-    "cached_at": 1774023702.1478639,
+    "cached_at": 1774109526.3803637,
     "func": "fetch_hackernews",
     "args_summary": "(['crypto'],)"
   },
   "151a07ed322d3cbdd77d65398c3a13cd6a0111c87db69f3fd0b926d706a54d98": {
     "data": [
-      {
-        "title": "Bitcoin se mantiene como un oasis en plena tormenta en los mercados globales",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://www.businessinsider.es/economia/bitcoin-se-mantiene-como-un-oasis-plena-tormenta-los-mercados-globales_6947325_0.html"
-      },
       {
         "title": "Kraken paraliza su salida a bolsa y alerta al mercado de las criptomonedas",
         "source": "exa",
@@ -459,16 +452,9 @@
         "lang": "en",
         "score": 0,
         "url": "http://www.xataka.com/criptomonedas/cortar-mayoria-cables-submarinos-tumbaria-bitcoin-problema-otro-esta-mucho-cerca"
-      },
-      {
-        "title": "La Unión Europea cambia las reglas del pago en efectivo y también afecta a España",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://www.businessinsider.es/economia/union-europea-pago-efectivo-espana_6928640_0.html"
       }
     ],
-    "cached_at": 1774023702.7794416,
+    "cached_at": 1774109527.1105213,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
