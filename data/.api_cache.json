@@ -1195,42 +1195,42 @@
   "6e9c6a02969a5e9b67222353d8954d32f29ac7ffcd642500a8a27decc747f088": {
     "data": [
       {
-        "title": "Avid, triunfadora en los Oscars 2026: de ‘Una batalla tras otra’ a ‘F1’",
+        "title": "Listen: Google TV Embraces Microdrama Boom With Discovery and Navigation Tools as Producers Tackle the Format: ‘We Want to Be HBO Mashed Up With TikTok’",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Anajia Guajira",
+        "title": "APU: HANDS-ON STEAM: INQUIRY-BASED LEARNING IN ACTION",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "AIB|PS International Group Ord Shs|Precio:2.340|Variación %:-0.11",
+        "title": "NLR|VanEck Uranium+Nuclear Energy ETF|Precio:127.820|Variación %:-5.80",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "HEROAD Unleashes a New Era of Gaming: Professional-Grade Gear Meets Unbeatable Value",
+        "title": "Sprinto Launches Autonomous Trust Platform--Moving Compliance From Automated to Autonomous",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Lloyd’s Register Foundation financia el proyecto MEFISTO para mejorar la seguridad de buques impulsados por metanol",
+        "title": "Canal de Panamá funciona a plena capacidad, guerra en Irán aumenta tráfico de buques de GNL, dice jefe",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774013513.8165429,
+    "cached_at": 1774099330.1837373,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
@@ -1244,6 +1244,13 @@
         "url": "https://www.xataka.com/aplicaciones/x-twitter-no-funciona-red-social-esta-caida-a-nivel-mundial-1"
       },
       {
+        "title": "Seedance 2.0 ha utilizado la propiedad intelectual de Hollywood para viralizarse. Hollywood ha utilizado los juzgados",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/robotica-e-ia/seedance-2-0-modelo-video-ia-avanzado-hollywood-ha-parado-seco-copyright-nueva-arma-geopolitica"
+      },
+      {
         "title": "El nuevo Grok de Elon Musk sale de la beta con más precisión y capacidades multiagente",
         "source": "exa",
         "lang": "es",
@@ -1251,21 +1258,14 @@
         "url": "https://www.businessinsider.es/big-tech/nuevo-grok-elon-musk-sale-beta-con-mas-precision-capacidades-multiagente_6947879_0.html"
       },
       {
-        "title": "NVIDIA nunca estuvo tan optimista con sus chips: tampoco nunca tuvo tanta competencia respirándole en el cuello",
+        "title": "Más de la mitad de los adolescentes en EEUU usa IA para crear imágenes sexualizadas",
         "source": "exa",
-        "lang": "en",
+        "lang": "es",
         "score": 0,
-        "url": "https://www.xataka.com/empresas-y-economia/nvidia-nunca-estuvo-optimista-sus-chips-tampoco-nunca-tuvo-tanta-competencia-respirandole-cuello"
-      },
-      {
-        "title": "Seedance 2.0 ha utilizado la propiedad intelectual de Hollywood para viralizarse. Hollywood ha utilizado los juzgados",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "http://xataka.com/robotica-e-ia/seedance-2-0-modelo-video-ia-avanzado-hollywood-ha-parado-seco-copyright-nueva-arma-geopolitica"
+        "url": "https://www.businessinsider.es/tecnologia/mas-mitad-los-adolescentes-eeuu-usa-ia-para-crear-imagenes-sexualizadas_6947878_0.html"
       }
     ],
-    "cached_at": 1774013514.4751792,
+    "cached_at": 1774099330.811961,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
