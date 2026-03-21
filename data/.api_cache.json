@@ -461,77 +461,70 @@
   "c7dcb72dc33baaa2e522c198717b4b418fcd1e9a91af28dfbac294c4b153973d": {
     "data": [
       {
-        "title": "Client Alert: SEC Crypto Update: Clarity on What Is—and Isn’t—a Security",
+        "title": "Cryptocurrency & Blockchain Stock News",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "The SEC Just Drew a Line in the Crypto Sand: What's a Security and What's Not?",
+        "title": "CFTC staff details how crypto firms can use digital assets as derivatives collateral in new FAQ",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Digital Credit Is the Latest Code Word for Leverage Among Crypto Treasury Companies",
+        "title": "Better Crypto Buy: Bitcoin vs. Dogecoin? Here's the 1 to Buy for 2026.",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Consumer First Alert: Wisconsin crypto kiosk bill awaits governor’s signature",
+        "title": "SEC Commissioner Hester Peirce on ETFs: 'We want to work with people on new products'",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Katie Haun on the promise of stablecoins, crypto regulation and future of agentic finance",
+        "title": "HYPE news: Grayscale wants to bring the world's hottest crypto trading frenzy to your brokerage account",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774024236.7388449,
+    "cached_at": 1774114906.5288317,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "db4cf0fe883cd8d987c633ca7c9adb75314597f893f367cbf745e8aa11ded4e3": {
     "data": [
       {
-        "title": "Las grandes tecnológicas se unen para combatir las estafas online del crimen organizado | WIRED",
+        "title": "Diablo Immortal arranca su hoja de ruta 2026 con Andariel, nuevo PvP y eventos inéditos",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/las-grandes-tecnologicas-se-unen-para-combatir-las-estafas-online-del-crimen-organizado"
+        "url": "https://latam.ign.com/diablo-immortal-1/112069/news/diablo-immortal-andariel"
       },
       {
-        "title": "Meta cierra Horizon Worlds en Quest y da otro paso hacia el adiós definitivo al metaverso | WIRED",
+        "title": "Polymarket continues its partnership spree with a Major League Baseball deal | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/meta-cierra-horizon-worlds-en-quest-y-da-otro-paso-hacia-el-adios-definitivo-al-metaverso"
+        "url": "https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/"
       },
       {
-        "title": "China aprueba el uso de chips cerebrales y es solo el comienzo de un plan para dominar la industria | WIRED",
+        "title": "AI startups are eating the venture industry and the returns, so far, are good | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/china-aprueba-el-uso-de-chips-cerebrales-y-es-solo-el-comienzo-de-un-plan-para-dominar-la-industria"
-      },
-      {
-        "title": "La IA ya está cumpliendo la peores pesadillas de los gamers | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/la-ia-ya-esta-cumpliendo-la-peores-pesadillas-de-los-gamers"
+        "url": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/"
       }
     ],
-    "cached_at": 1774024237.4646037,
+    "cached_at": 1774114907.0711708,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
