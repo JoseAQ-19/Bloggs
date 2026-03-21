@@ -936,47 +936,54 @@
   "21a068db0cd0ba4e3b3272cddddd6e25dad487d2eb369a2766316588951e7843": {
     "data": [
       {
-        "title": "¿Qué dicen los expertos sobre la prohibición de la UE a los 'deepfakes' sexuales con IA?",
+        "title": "El Gobierno regional abre a las empresas nuevas vías para mejorar la innovación con Inteligencia Artificial",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Creíamos que teníamos una burbuja de la IA. Hay argumentos potentes que indican que estábamos equivocados",
+        "title": "Clayton LiaBraaten, experto en tecnología: “La IA se está utilizando como arma”",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Madrid acelera el despliegue de IA en sus servicios públicos",
+        "title": "Medicamentos creados por IA, la nueva moda que está arrasando y puede cambiar el mundo de la medicina",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Júlia Nueno, investigadora del genocidio en Gaza: “La IA acelera las guerras porque predice culpables sin que se cometa delito”",
+        "title": "Cory Doctorow: \"La IA pierde tanto dinero que pronto 2008 nos va a parecer un buen año\" Por EFE",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "¿Es una IA responsable posible?",
+        "title": "\"Como la IA es más productiva que nosotros, habrá una renta universal, suena bien recibir 3.000 euros al mes, pero no estamos preparados\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774001703.5886908,
+    "cached_at": 1774087670.1244915,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
   "712dc6b87821c74ce3310d15eb2faa5011ccf2d0df44b2a976b735ced665ce6e": {
     "data": [
+      {
+        "title": "Buscamos co-fundador técnico para construir una IA que se mide po lo que NO hace",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 2,
+        "url": "https://thriving-syrniki-5dbe37.netlify.app"
+      },
       {
         "title": "Exogram Protocol RFC: Server Side IAM for AI Agents",
         "source": "hackernews",
@@ -990,27 +997,20 @@
         "lang": "en",
         "score": 14,
         "url": ""
-      },
-      {
-        "title": "Show HN: LucidShark - Quality pipeline for AI coding agents",
-        "source": "hackernews",
-        "lang": "en",
-        "score": 9,
-        "url": "https://lucidshark.com"
       }
     ],
-    "cached_at": 1774001703.9265373,
+    "cached_at": 1774087670.3428495,
     "func": "fetch_hackernews",
     "args_summary": "(['ia'],)"
   },
   "46503d41ef4fee113ff718159ee99bd6e87c149d97104b3a6a5f5ddc5f6be1b3": {
     "data": [
       {
-        "title": "Microsoft busca el trono de la IA: combina equipos de Copilot y apuesta por la superinteligencia",
+        "title": "Qué es la Inteligencia Artificial General (AGI), la tecnología que apunta a revolucionar nuestro mundo por completo",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://www.businessinsider.es/big-tech/microsoft-busca-trono-ia-combina-equipos-copilot-apuesta-por-superinteligencia_6947235_0.html"
+        "url": "https://www.xataka.com/preview/-NjqISfnS7N4GRoCsAiG"
       },
       {
         "title": "Más de la mitad de los adolescentes en EEUU usa IA para crear imágenes sexualizadas",
@@ -1020,21 +1020,21 @@
         "url": "https://www.businessinsider.es/tecnologia/mas-mitad-los-adolescentes-eeuu-usa-ia-para-crear-imagenes-sexualizadas_6947878_0.html"
       },
       {
-        "title": "La IA está llegando a ámbitos muy locos de nuestra vida. Lo de la limpieza de piscinas es una muestra más de lo que está por venir",
+        "title": "El gran desplazamiento de los centros de datos en Europa: están dejando el centro para acudir a la periferia del continente",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/n/ia-esta-llegando-a-ambitos-muy-locos-nuestra-vida-limpieza-piscinas-muestra-que-esta-venir"
+        "url": "http://magnet.xataka.com/energia/europa-se-ha-quedado-enchufes-para-inteligencia-artificial-como-megacentros-datos-huyen-al-norte-al-sur"
       },
       {
-        "title": "DLSS 5: millones invertidos en mejoras gráficas por IA para que la gente diga que parece un filtro de belleza de Instagram",
+        "title": "Fondo de Inversión de Noruega advoerte de que la IA y la geopolítica amenazan los mercados",
         "source": "exa",
-        "lang": "en",
+        "lang": "es",
         "score": 0,
-        "url": "http://xataka.com/videojuegos/dlss-5-millones-invertidos-mejoras-graficas-ia-gente-diga-que-parece-filtro-belleza-instagram"
+        "url": "https://www.businessinsider.es/tecnologia/ia-geopolitica-encienden-las-alarmas-mayor-fondo-inversion-mundo_6947868_0.html"
       }
     ],
-    "cached_at": 1774001704.5056,
+    "cached_at": 1774087670.861055,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
