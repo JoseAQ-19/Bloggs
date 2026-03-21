@@ -1041,77 +1041,77 @@
   "88f30aaa7bab0042d69286b6e1ddf009c9ed8bd38dd824e484b197be702b0cbf": {
     "data": [
       {
-        "title": "iA Financial commits $1M to pediatric AI initiative",
+        "title": "REIGN FINAL – ONT 1 , IA 4 – Lord",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "‘Let’s Build Marshall County’ presentations set for March 25",
+        "title": "2023 IHSAA (IA) State Championship",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Robert Deitch @ Iowa Distilling Co , Cumming IA (6-9PM)",
+        "title": "Glenn Jensen Obituary (1969",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "IA SENATE SAYS NO TO 4 YEAR COMMUNITY COLLEGE DEGREE BILL",
+        "title": "NVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual Fidelity For Games",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Feds charge 3 in $2.5b scheme to smuggle us AI tech to China using dummy servers",
+        "title": "Make An A-Z Playlist Of '90s Songs And I'll Know If You're A Sunrise Or Sunset Person",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774006933.4579833,
+    "cached_at": 1774093065.3229442,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
   "5ed87e0a555e160d6f2e7a9ad4294ea2283b3cea14c5520f93b58951f9855102": {
     "data": [
       {
-        "title": "La IA ya está cumpliendo la peores pesadillas de los gamers | WIRED",
+        "title": "AI startups are eating the venture industry and the returns, so far, are good | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/la-ia-ya-esta-cumpliendo-la-peores-pesadillas-de-los-gamers"
+        "url": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/"
       },
       {
-        "title": "Las grandes tecnológicas se unen para combatir las estafas online del crimen organizado | WIRED",
+        "title": "Trump takes another shot at dismantling state AI regulation | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/las-grandes-tecnologicas-se-unen-para-combatir-las-estafas-online-del-crimen-organizado"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework"
       },
       {
-        "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors | TechCrunch",
+        "title": "Trump's AI framework targets state laws, shifts child safety burden to parents | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/"
+        "url": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/"
       },
       {
-        "title": "El DLSS 5 de Nvidia me tiene preocupada, pero al menos podemos sacar algo bueno de esto",
+        "title": "Meta cierra Horizon Worlds en Quest y da otro paso hacia el adiós definitivo al metaverso | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.ign.com/nvidia/227764/opinion/el-dlss-5-de-nvidia-es-perjudicial-para-los-videojuegos-pero-al-menos-podemos-sacar-algo-bueno-de-es"
+        "url": "https://es.wired.com/articulos/meta-cierra-horizon-worlds-en-quest-y-da-otro-paso-hacia-el-adios-definitivo-al-metaverso"
       }
     ],
-    "cached_at": 1774006934.0016134,
+    "cached_at": 1774093065.8989203,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
