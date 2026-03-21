@@ -601,77 +601,77 @@
   "9ee96a29d2849810b096fb4ad7845a44fb015972f3144c10f16e0a281e09fb7c": {
     "data": [
       {
-        "title": "Jaden Williams",
+        "title": "This streaming service is moving customers to YouTube TV. Here's why.",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "We’re launching the Top Sports Podcasts on YouTube for brands to align with sports fans.",
+        "title": "Is YouTube down? Massive outage hits app, website affecting users globally",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Helen and Jaehyuk PD explore how YouTube creators and fans built a global K-pop culture",
+        "title": "They're Building a Dream Home From Scratch for Less Than $3K After Watching 100 Hours of YouTube",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Cineverse Partners with VA Media to Accelerate Digital Monetization of YouTube Channels",
+        "title": "Wow! Broadband Concludes Streaming Migration to YouTube TV by June 2026",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Ateme Verified for YouTube Live",
+        "title": "Benchmark social media trial in California to determine future of Youtube and Instagram",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774034497.517423,
+    "cached_at": 1774121497.1752248,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "f990e7eff0f3103ac01b2830c939d7dce846fb1e852800a979f12b26b78a0e42": {
     "data": [
       {
-        "title": "Meta cierra Horizon Worlds en Quest y da otro paso hacia el adiós definitivo al metaverso | WIRED",
+        "title": "Mister Rogers is getting his own YouTube channel. | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/meta-cierra-horizon-worlds-en-quest-y-da-otro-paso-hacia-el-adios-definitivo-al-metaverso"
+        "url": "https://www.theverge.com/entertainment/897397/mister-rogers-youtube"
       },
       {
-        "title": "Las grandes tecnológicas se unen para combatir las estafas online del crimen organizado | WIRED",
+        "title": "Tung Tung Sahur y Ballerina Cappuccina llegarán a Fortnite",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/las-grandes-tecnologicas-se-unen-para-combatir-las-estafas-online-del-crimen-organizado"
+        "url": "https://latam.ign.com/fortnite/112035/news/fortnite-tung-tung-sahur-ballerina-cappuccina"
       },
       {
-        "title": "La IA ya está cumpliendo la peores pesadillas de los gamers | WIRED",
+        "title": "Fortnite anticipa crossover con Game of Thrones: Jon Snow y el Rey de la Noche serían los elegidos",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/la-ia-ya-esta-cumpliendo-la-peores-pesadillas-de-los-gamers"
+        "url": "https://latam.ign.com/fortnite/112072/news/fortnite-game-of-thrones"
       },
       {
-        "title": "Facebook launches a new monetization program to attract popular creators from TikTok, YouTube | TechCrunch",
+        "title": "Tubi joins forces with popular TikTokers to create original streaming content | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/"
+        "url": "https://techcrunch.com/2026/03/19/tubi-joins-forces-with-popular-tiktokers-to-create-original-streaming-content/"
       }
     ],
-    "cached_at": 1774034498.1711872,
+    "cached_at": 1774121497.8150876,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
