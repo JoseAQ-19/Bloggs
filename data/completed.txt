@@ -391,3 +391,4 @@ fitness: Planet Fitness Gives Back: Over 100 Fitness Equipment Donations to Comm
 funds: Fondos activos baten al índice: 63% logra rendimientos superiores en un año volátil
 funds: Morningstar Thailand Awards 2026: Top 5 Funds Outperforming with Over 12% Returns
 funds: Morningstar Thailand 2026: Top 3 Funds Outperform by 15% in Returns
+ia: IA como arma: ¿Estamos preparados para la guerra tecnológica?
