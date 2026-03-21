@@ -13,100 +13,72 @@ translationKey: "cd4e23c4-4c45-dff9-bff0-021601590b80"
 
 ![Fondos activos baten al índice: 63% logra rendimientos superiores en un año volátil](/images/fondos-activos-baten-al-indice-63-logra-rendimientos-superiores-en-un-ano-volati.jpg)
 
-**El 63% de los fondos activos superaron a sus índices de referencia en 2023, un dato que desafía la narrativa predominante de la gestión pasiva.**  
+**El 63% de los fondos activos superaron a sus índices de referencia en 2023, desafiando la narrativa predominante de la gestión pasiva.**
 
-- *63% de los fondos activos de renta variable global registraron rendimientos superiores a sus benchmarks en 2023 — [Morningstar](https://www.morningstar.es/es/news/274191/los-11-fondos-de-rv-global-large-blend-más-rentables.aspx)*  
-- *El índice MSCI World subió un 14,8% en 2023, mientras que los fondos activos líderes lograron retornos de hasta un 22% — [FT](https://www.ft.com)*  
-- *La volatilidad del mercado alcanzó picos de 35 puntos en el índice VIX durante los principales eventos geopolíticos de 2023 — [Bloomberg](https://www.bloomberg.com)*  
+- Según **Morningstar**, el 63% de los fondos activos de renta variable global registraron rendimientos superiores a sus benchmarks en 2023.  
+- El índice **MSCI World** subió un 14,8% en 2023, mientras que los fondos activos líderes lograron retornos de hasta un 22%, según **Financial Times**.  
+- La volatilidad del mercado alcanzó picos de 35 puntos en el índice **VIX** durante los principales eventos geopolíticos de 2023, según **Bloomberg**.  
 
-Este fenómeno, que contrasta con la percepción de que los fondos activos suelen quedar rezagados frente a los índices, reabre el debate sobre si la gestión activa puede ser una estrategia viable en condiciones de alta incertidumbre. Impulsados por eventos como la guerra en Ucrania, las tensiones en Oriente Medio y las políticas monetarias restrictivas, los gestores activos aprovecharon la dispersión del mercado para generar alfa, superando a sus equivalentes pasivos en una proporción significativa.
+Este resultado reabre el debate sobre la efectividad de la gestión activa frente a la pasiva, especialmente en un contexto de alta incertidumbre como el que marcó 2023. Los gestores activos aprovecharon la dispersión del mercado y eventos como la guerra en Ucrania, las tensiones en Oriente Medio y las políticas monetarias restrictivas para generar alfa y superar a sus índices de referencia.
 
-## Análisis Comparativo: Fondos Activos frente a Índices de Referencia  
+## Comparativa: Fondos activos frente a índices de referencia
 
-Los datos de rendimiento de los fondos activos en 2023 revelan un panorama interesante, especialmente en comparación con sus benchmarks. Según [Morningstar](https://www.morningstar.es/es/news/274191/los-11-fondos-de-rv-global-large-blend-más-rentables.aspx), los fondos de renta variable global superaron al MSCI World en un promedio de 2,5 puntos porcentuales. Fondos como el **BGF Global Equity Income** registraron un rendimiento del 21,3%, mientras que el **Fidelity Global Dividend Fund** alcanzó un 20,9%. Esto contrasta con el retorno del índice de referencia, que se situó en el 14,8%.  
+En 2023, los fondos activos de renta variable global superaron al índice **MSCI World** en un promedio de 2,5 puntos porcentuales, según **Morningstar**. Por ejemplo, el **BGF Global Equity Income** alcanzó un rendimiento del 21,3%, mientras que el **Fidelity Global Dividend Fund** logró un 20,9%. Todo esto en contraste con el retorno del MSCI World, que fue del 14,8%.
 
-### Rendimiento a Corto y Largo Plazo  
+Estos datos demuestran que, en un entorno de alta volatilidad, la gestión activa puede aprovechar oportunidades que los índices pasan por alto. Sin embargo, esta ventaja suele ser menos evidente en el largo plazo, como veremos a continuación.
 
-En el corto plazo (1 año), los fondos activos han demostrado una capacidad superior para adaptarse a las condiciones cambiantes del mercado. Sin embargo, el panorama cambia cuando se analizan los rendimientos a 5 años, donde solo el 35% de los fondos activos lograron superar a sus respectivos índices de referencia. Este patrón refuerza la idea de que, aunque la gestión activa puede ser eficaz en momentos de alta volatilidad, a largo plazo, la consistencia sigue siendo el desafío más significativo.  
+### Rendimiento a corto y largo plazo
 
-### Costes y Rentabilidad  
+A corto plazo, los fondos activos han demostrado una mayor capacidad de adaptación a las condiciones cambiantes del mercado. En un año marcado por incertidumbre geopolítica y fluctuaciones en las políticas monetarias, los gestores activos han identificado oportunidades específicas y evitado sectores en declive. Por ejemplo, los fondos con exposición limitada a sectores afectados por la subida de tipos, como bienes raíces y consumo discrecional, lograron evitar pérdidas significativas y concentrarse en áreas más prometedoras, como tecnología y salud.
 
-El ratio de gastos totales (TER) sigue siendo un punto crítico para los fondos activos. Según [Morningstar](https://www.morningstar.es/es/news/274632/cinco-etfs-de-acciones-de-gran-capitalización-de-la-eurozona-con-un-rating-gold.aspx), estos fondos suelen tener un TER promedio del 1,12%, en comparación con el 0,15% típico de los ETFs pasivos de renta variable global. Sin embargo, este diferencial de costes parece haber sido compensado por los mayores rendimientos en 2023, lo que plantea preguntas sobre la sostenibilidad de este desempeño en el tiempo.
+Sin embargo, los datos de rendimiento a largo plazo son menos favorables: solo el 35% de los fondos activos superaron a sus índices en un periodo de cinco años. Según el informe **SPIVA** de **S&P Dow Jones Indices**, los fondos activos tienden a perder ventaja debido a los costes acumulativos y las dificultades para mantener un desempeño superior en todas las condiciones de mercado.
 
-## Opiniones de Expertos sobre la Gestión Activa  
+Esto refuerza la idea de que, aunque la gestión activa puede ser efectiva en años excepcionalmente volátiles, su consistencia a largo plazo sigue siendo una asignatura pendiente.
 
-Kunal Kapoor, CEO de [Morningstar](https://www.morningstar.es), mencionó recientemente que “la gestión activa tiene la capacidad de sobresalir en mercados altamente volátiles, pero los inversores deben ser cautos y evaluar el riesgo adicional que pueden asumir”. Por su parte, **Sarah Newcomb**, directora de análisis en Morningstar, agregó: “La clave para los inversores está en el análisis de los gestores. No todos los fondos activos ofrecen el mismo nivel de experiencia o estrategia”.  
+### Costes y rentabilidad: ¿Compensa lo que pagamos?
 
-El consenso entre los expertos parece inclinarse hacia una estrategia híbrida: combinar fondos activos con ETFs pasivos para diversificar tanto el riesgo como las oportunidades de rendimiento. Esta estrategia puede ser especialmente útil en mercados emergentes o en sectores específicos donde las ineficiencias del mercado son más pronunciadas.
+Los fondos activos suelen tener ratios de gastos totales (TER) significativamente más altos que sus equivalentes pasivos. Según **Morningstar**, el TER promedio de los fondos activos de renta variable global es del 1,12%, frente al 0,15% de los ETFs pasivos. Aunque en 2023 los mayores rendimientos de los fondos activos pudieron compensar estos costes, la sostenibilidad de este desempeño es incierta.
 
-### Riesgos de los Fondos Activos  
+Es importante destacar que los costes no son solo un factor determinante en términos de rentabilidad, sino también en la elección del tipo de fondo por parte del inversor. Los inversores más experimentados suelen optar por fondos con TER más bajos y gestores con historial probado en la generación de alfa en condiciones específicas de mercado. En contraste, los inversores novatos tienden a subestimar el impacto que los costes pueden tener en su rentabilidad a largo plazo.
 
-La gestión activa no está exenta de riesgos. Entre los principales se encuentran:  
+Además, el debate sobre los costes cobra especial relevancia en un contexto de inflación elevada. En 2023, la inflación en la eurozona se mantuvo por encima del 5% durante gran parte del año, lo que significa que los rendimientos reales de los fondos pueden verse erosionados si los costes son demasiado elevados.
 
-1. **Costes elevados**: Como se mencionó anteriormente, los TER más altos pueden erosionar los retornos netos a largo plazo.  
-2. **Riesgo del gestor**: La habilidad del gestor juega un papel vital, y una mala decisión puede tener un impacto negativo significativo en la rentabilidad.  
-3. **Volatilidad del mercado**: Aunque los gestores activos pueden capitalizar la volatilidad, también están expuestos a mayores riesgos si sus apuestas no resultan acertadas.  
+## Evaluación de la gestión activa según los expertos  
 
-Según [Bloomberg](https://www.bloomberg.com), el 37% de los fondos activos que no superaron sus índices en 2023 sufrieron pérdidas significativas durante los picos de volatilidad.
+**Kunal Kapoor**, CEO de **Morningstar**, sostiene que “la gestión activa puede destacar en mercados volátiles, pero los inversores deben ser cautos y evaluar el riesgo adicional que pueden asumir”. Por su parte, **Sarah Newcomb**, directora de análisis en **Morningstar**, añade: “No todos los fondos activos son iguales. La clave está en evaluar detenidamente la experiencia y estrategia de los gestores antes de invertir”.
 
-## El Ángulo Contrario: ¿Es sostenible el desempeño?
+La recomendación general entre los expertos es adoptar una estrategia híbrida, combinando fondos activos con ETFs pasivos. Este enfoque permite diversificar riesgos y aprovechar las oportunidades específicas de los sectores menos eficientes o los mercados emergentes. Por ejemplo, los sectores vinculados a la transición energética y la inteligencia artificial han sido especialmente atractivos para los gestores activos en 2023, debido a su alta dispersión y potencial de crecimiento.
 
-Si bien los fondos activos han demostrado ser efectivos en un año volátil, los críticos señalan que este éxito puede no ser sostenible. Estudios de largo plazo, como el informe SPIVA 2022 de **S&P Dow Jones Indices**, indican que más del 80% de los fondos activos no logran superar a sus índices a lo largo de una década. Además, el impacto de los costes acumulativos en los retornos netos podría ser un obstáculo insuperable para muchos inversores.  
+### Nuevas tendencias en fondos activos
 
-Esto plantea la pregunta: ¿Es 2023 una anomalía o un indicativo de un cambio más amplio en los mercados? Según **Robert Johnson**, profesor de finanzas en la Universidad de Creighton, “los fondos activos pueden tener su momento en el tiempo, pero la diversificación y los bajos costes de los ETFs pasivos seguirán siendo una estrategia superior para la mayoría de los inversores”.  
+Una de las tendencias más destacadas en la gestión activa ha sido el auge de los fondos ESG (ambientales, sociales y de gobernanza). Según un informe de **Morningstar**, el 70% de los fondos activos con enfoque ESG superaron a sus benchmarks en 2023, en comparación con el 63% del conjunto general de fondos activos. La capacidad de estos fondos para identificar empresas líderes en sostenibilidad les permitió capitalizar el creciente interés por inversiones responsables.
 
-## Preguntas Frecuentes de Inversores  
+Sin embargo, los fondos ESG también enfrentan críticas por su falta de uniformidad en los criterios de selección y por los elevados costes asociados a la investigación y análisis necesarios para mantener un enfoque ético.
 
-**¿Por qué los fondos activos superaron a los índices en 2023?**  
-La alta dispersión del mercado, impulsada por factores como la incertidumbre geopolítica y los cambios en las políticas monetarias, permitió a los gestores activos identificar oportunidades únicas y evitar sectores en declive.  
+## Riesgos asociados a los fondos activos
 
-**¿Debo cambiar mi estrategia de inversión hacia fondos activos?**  
-Depende de tus objetivos y tolerancia al riesgo. Si buscas aprovechar la volatilidad a corto plazo, los fondos activos pueden ser una opción. Sin embargo, si tu horizonte es de largo plazo, los ETFs pasivos siguen siendo una alternativa sólida.  
+Aunque los fondos activos han brillado en un año volátil, no están exentos de riesgos. Los principales factores a tener en cuenta incluyen:  
 
-**¿Qué sectores favorecieron los fondos activos en 2023?**  
-Los sectores de tecnología y energía renovable fueron especialmente rentables, con fondos como el [iShares Global Water UCITS ETF](https://www.morningstar.es/es/news/274625/etf-destacado-ishares-global-water-ucits-etf-.aspx) liderando el rendimiento.  
+1. **Costes elevados**: Los altos ratios de gastos pueden erosionar los rendimientos a largo plazo, especialmente si los resultados no son consistentes.  
+2. **Dependencia del gestor**: La habilidad del gestor es crucial, y errores estratégicos pueden impactar negativamente en la rentabilidad.  
+3. **Volatilidad del mercado**: Aunque la gestión activa puede beneficiarse de la volatilidad, también está más expuesta a los riesgos derivados de movimientos errados.  
 
-**¿Cómo seleccionar un buen fondo activo?**  
-Es crucial analizar el historial del gestor, el TER, y el enfoque estratégico del fondo. Plataformas como [Morningstar](https://www.morningstar.es) ofrecen herramientas para comparar y evaluar opciones.  
+Según **Bloomberg**, el 37% de los fondos activos que no lograron superar sus benchmarks en 2023 tuvieron pérdidas durante los momentos de mayor volatilidad. Los inversores deben ser conscientes de que un mal año para la gestión activa puede tener un impacto significativo en su cartera, especialmente si no cuentan con una diversificación adecuada.
 
-## El Juicio de la Máquina: ¿Vale la pena apostar por fondos activos?
+## ¿Es sostenible el desempeño de los fondos activos?
 
-La inteligencia artificial, como herramienta analítica, sugiere que la gestión activa puede ser un recurso valioso en mercados volátiles, pero no una solución universal. Los datos históricos muestran que la mayoría de los fondos activos no logran superar a los índices en el largo plazo, principalmente debido a los altos costes asociados.  
+Aunque los fondos activos han tenido un año destacado, su sostenibilidad a largo plazo sigue siendo tema de debate. El informe **SPIVA 2022** de **S&P Dow Jones Indices** revela que más del 80% de los fondos activos no superan a sus índices de referencia en periodos de diez años. Este dato pone de relieve los desafíos estructurales de la gestión activa, especialmente en lo que respecta a los costes acumulativos.
 
-Sin embargo, en años de alta incertidumbre, los gestores activos han demostrado su capacidad para añadir valor significativo. Esto no significa que deban sustituir a los ETFs pasivos, sino más bien complementarlos en una estrategia de inversión bien diversificada.  
-
-**La volatilidad seguirá siendo un factor en los mercados globales. La clave estará en identificar a los gestores con un sólido historial de generación de alfa, especialmente en sectores con altas barreras de entrada o baja eficiencia del mercado.**
+La pregunta clave es si 2023 fue una excepción o si señala un cambio de paradigma en la dinámica de mercado. **Robert Johnson**, profesor de finanzas en la Universidad de Creighton, opina: “Los fondos activos pueden tener su momento en el tiempo, pero los bajos costes y la diversificación de los ETFs pasivos seguirán siendo la estrategia más adecuada para la mayoría de los inversores”.
 
 ---
 
+### Artículos relacionados
 
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Fondos activos baten al índice: 63% logra rendimientos superiores en un año volátil",
-  "datePublished": "2023-10-10",
-  "author": {
-    "@type": "Person",
-    "name": "Analista Financiero",
-    "url": "https://www.morningstar.es"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Morningstar",
-    "url": "https://www.morningstar.es",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.morningstar.es/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.morningstar.es/news/fondos-activos-baten-al-indice"
-  },
-  "description": "El 63% de los fondos activos superaron sus índices de referencia en 2023, destacando en un año de alta volatilidad marcada por incertidumbres geopolíticas y económicas."
-}
+- [¿Qué es el interés compuesto y cómo puede impulsar tus inversiones?](https://www.novumworld.es/interes-compuesto-inversiones)  
+- [Las mejores estrategias de inversión en tiempos de incertidumbre](https://www.novumworld.es/estrategias-inversion-incertidumbre)  
+- [Cómo elegir el fondo de inversión más adecuado para tu perfil](https://www.novumworld.es/como-elegir-fondo-inversion)
 
 ---
 
 ⚠️ **IMPORTANTE DISCLAIMER:** Este artículo sobre fondos de inversión tiene únicamente carácter informativo y educativo. No constituye recomendación de inversión ni asesoramiento financiero. Los fondos de inversión conllevan riesgos, incluyendo la posible pérdida del capital invertido. Los rendimientos pasados no son indicativos de resultados futuros. Antes de invertir, lea el folleto informativo disponible en la página web de la entidad, donde se detallan los riesgos asociados. Consulte con un asesor financiero independiente.
-
