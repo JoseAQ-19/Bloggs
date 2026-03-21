@@ -139,77 +139,77 @@
   "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
     "data": [
       {
-        "title": "71-year-old Oakland grandmother is among finalists in national fitness competition",
+        "title": "Fitness & Workout Journal/Planner",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Experts Say These Small and Easy Fitness Items Can Help Improve Your Bone Density",
+        "title": "News",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "‘Plogging’ fitness trend is taking over New York City’s dirty streets — and keeping people in shape",
+        "title": "These Are the Current Military Fitness Tests for 2026",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Fitness influencer faces charges in Broward dating violence case, records show",
+        "title": "Planet Fitness donates 100+ pieces of fitness equipment to local schools, nonprofits, and first responders",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Planet Fitness Mobile Black Card Spa Bus Stops in Toledo For Fan Rebound Experience!",
+        "title": "How FIT4MOM Makes Fitness Flexible for Busy Moms",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773981816.409792,
+    "cached_at": 1774068338.0944004,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "5f74b081c9753b13b48c085df1624d184c9deb4bc34d11178f03bbc18aeae64e": {
     "data": [
       {
-        "title": "Un lugar tranquilo 3 anuncia esperados regresos y un nuevo fichaje estelar para el reparto",
+        "title": "Aquí tenemos las primeras imágenes de Dwayne Johnson y Bugs Bunny en la próxima temporada de Fortnite",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.ign.com/a-quiet-place-3/227686/news/un-lugar-tranquilo-3-anuncia-esperados-regresos-y-un-nuevo-fichaje-estelar-para-el-reparto"
+        "url": "https://es.ign.com/fortnite/227734/news/aqui-tenemos-las-primeras-imagenes-de-dwayne-johnson-y-bugs-bunny-en-la-proxima-temporada-de-fortnit"
       },
       {
-        "title": "Las grandes tecnológicas se unen para combatir las estafas online del crimen organizado | WIRED",
+        "title": "Meta cierra Horizon Worlds en Quest y da otro paso hacia el adiós definitivo al metaverso | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/las-grandes-tecnologicas-se-unen-para-combatir-las-estafas-online-del-crimen-organizado"
+        "url": "https://es.wired.com/articulos/meta-cierra-horizon-worlds-en-quest-y-da-otro-paso-hacia-el-adios-definitivo-al-metaverso"
       },
       {
-        "title": "Forza Horizon 6 recupera los grandes cambios estacionales de Horizon 4 | IGN First",
+        "title": "Fitbit’s AI health coach will soon be able to read your medical records | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.ign.com/forza-horizon-6/227719/preview/forza-horizon-6-recupera-los-grandes-cambios-estacionales-de-horizon-4-ign-first"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records"
       },
       {
-        "title": "La IA ya está cumpliendo la peores pesadillas de los gamers | WIRED",
+        "title": "La Mole 2026 rompe récord histórico en CDMX con más de 40 mil asistentes y un concierto de Insulini rumbo al cine",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/la-ia-ya-esta-cumpliendo-la-peores-pesadillas-de-los-gamers"
+        "url": "https://latam.ign.com/la-mole-comic-con-internacional/112030/news/la-mole-2026-record-asistencia-cdmx-insulini-concierto-cine"
       }
     ],
-    "cached_at": 1773981816.9157782,
+    "cached_at": 1774068338.565386,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
