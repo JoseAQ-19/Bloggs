@@ -62,54 +62,47 @@
   "4618dd580265f460566f713ecc35b03ce5ab52b17e317eed8d0201579ddcf0d6": {
     "data": [
       {
-        "title": "La FETRI lanza el Hyatlón, la nueva disciplina de resistencia y fitness",
+        "title": "Eddie Howe issues update on fitness of Newcastle United key man as trio ruled out of Sunderland clash",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Marcos Vázquez, experto en fitness y longevidad, revela los hábitos para vivir más años: ‘Comer solo lo necesario’",
+        "title": "Fitness Park abre en Westfield La Maquinista y aspira a “liderar el fitness en la zona”",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Decathlon apuesta por una sitcom en redes para reactivar el fitness",
+        "title": "Adidas Adizero Dropset Elite: cuando el fitness híbrido obliga a reinventar el calzado",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Eddie Howe issues fitness update, Tonali and Willock lift as Miley ruled out of derby",
+        "title": "On Air Fitness aterriza en Madrid con un club de 2.200 m2",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Fitness Park alcanza los ocho gimnasios en Barcelona tras aterrizar en Westfield La Maquinista",
+        "title": "Berriozar acogerá en junio el evento de fitness competitivo “Vektor Forge\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1773981472.4790485,
+    "cached_at": 1774067752.9485486,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "f57c7b2f36f1b097c5b6ce234958742b388d8049bb95db71d158ac3ca0835b52": {
     "data": [
-      {
-        "title": "Tener un Garmin ahora sale (mucho) más barato. El Forerunner 265 cae de precio con un doblete de descuentos",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://magnet.xataka.com/seleccion/reloj-deportivo-para-casi-todo-garmin-todoterreno-mucho-barato-aniversario-aliexpress"
-      },
       {
         "title": "La psicología dice que el mejor momento del año para marcarte propósitos no es el 1 de enero: es ahora en primavera",
         "source": "exa",
@@ -118,21 +111,28 @@
         "url": "https://magnet.xataka.com/investigacion/llevamos-toda-vida-equivocandonos-propositos-ano-nuevo-ciencia-dice-que-verdadero-reseteo-ocurre-primavera"
       },
       {
-        "title": "El té matcha es la enésima moda salida de las redes sociales. Pero esta vez tiene claros beneficios para tu cerebro",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "http://xataka.com/medicina-y-salud/te-ries-matcha-tu-amigo-tech-bro-ciencia-confirma-que-bomba-para-salud-frena-alergias"
-      },
-      {
         "title": "El cambio físico de Demi Moore, en el punto de mira en Hollywood: “Su cuerpo tiembla” - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
         "url": "https://as.com/tikitakas/famosos/el-cambio-fisico-de-demi-moore-en-el-punto-de-mira-en-hollywood-su-cuerpo-tiembla-f202603-n/"
+      },
+      {
+        "title": "Diego Suárez, experto en longevidad: “La avena es el mito de los gimnasios, dispara el azúcar y sirve para engordar gorrinos” - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/tikitakas/salud/diego-suarez-experto-en-longevidad-la-avena-es-el-mito-de-los-gimnasios-dispara-el-azucar-y-sirve-para-engordar-gorrinos-f202603-n/"
+      },
+      {
+        "title": "LaLiga anuncia cifras récord pero alerta de una amenaza: “Va a arrastrar a todos...” - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/futbol/primera/laliga-anuncia-cifras-record-pero-alerta-de-una-amenaza-va-a-arrastrar-a-todos-f202603-n/"
       }
     ],
-    "cached_at": 1773981472.9910512,
+    "cached_at": 1774067753.449156,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
