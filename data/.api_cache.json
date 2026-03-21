@@ -832,10 +832,17 @@
   "24bb4bd663646cc836fda8dd0337dbc37b74b1c3096a3eb04534872caf17eec9": {
     "data": [
       {
-        "title": "Morningstar Awards for Investing Excellence UK 2026: Winners Announced",
+        "title": "Morningstar Awards for Investing Excellence Thailand 2026: Winners Announced | Morningstar Asia",
         "source": "google_news_finance",
         "lang": "en",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSEVUYVV3eVl6cmNLMllZYnlsODZKaUtNOXhVSGdRX2NEOEVnbG03a3gtUnhKNmsyZWRJbUJsT2lMb2UyUi1mdjhGYm92YjZzRXRiU3ZlUHBVVFo5MzF6X0tzdk1DVmF4UHE3VFA5c0RZVHZoQmE5eWMtUlpoQVJkMlF5U19iSi1GUncwNmllczAtb0dKN2ZtaVQ2YXNQMWFINjd3ei11WHFGdEtLSkFncTlEN0Izb1Z6RlFIaDRtb051REdZ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd05tbmpyM3c4MnhjTHF1QVRsTVNnbTR5SFlXVjlPXzVXSGV2azAzdGlSSXJYb29kcWh4dGxvb05oZ0xNYlhIcjNQVGpaMlV5dndFZGpxREZsVS1TdlEyTVVDbFB2R0QzUWRPVFEwQ2hSS2Z6dy1iSl81X3RSSXR2T2dxU0t0cFo1OW5XUDNrTV9pWlhGMHBxOTN5MGNiZEpWa2tjM0dxS3ZkOFZyV0haVDRPVDc?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Morningstar Awards for Investing Excellence Thailand 2026",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORnl2ZGYwVXlPXzFpQ2tCNHNaR1dWemZQSU8wbW1oZXBQcm1NOGQ3RS03R2hoc0wyaTRzR2xmaVFaMHJRa0FiMl9XdDc1U3hJV3NINHpmR3hHd1VEY0EybE9kNl9kZlYwMnhWVmZiOEJ5bWFsNW9qaEEwVE02UFFkcHNYUDB5MGI1Uk43YVRUZXllWjd4dGs3el9iY2pGaXAyS1N3YVA5MERwX1dxRFRKRXJjaTlzSGZoTFlkeXluQ1NhcGY0aDZQY2xQY055Y1E?oc=5",
         "score": 0
       },
       {
@@ -846,20 +853,6 @@
         "score": 0
       },
       {
-        "title": "Confluence Investment Management LLC Acquires 10,794 Shares of Morningstar, Inc. $MORN",
-        "source": "google_news_finance",
-        "lang": "en",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRlN4aFlibndLb0gzLVN3YVBzQnYwYVNfSVk1MEtPeTA5b2VEM3k5VnFKLUh2YkNncjZWRzUxaUh6M1dHUDhOSzR3dW1JdEdkV0ZQdEtyZmpfOUFIUVM4T1NScmszVVRoNWZPLU9OXzFCNTdzOFlxdWN4eW04WVpYNHlHcTRnd1Y1ZjR1aWVHWHNnU2JMdWwwTC1xSkE0Wm5OeVNjaE1URmhUQWFvVUZOd0k5STVTTVd5cVo4S3d1ampReXdUaFF1QjBiMk9nd2I5VzA2VFhkSHZpYm8?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Morningstar downgrades one-time $7bn Brown Capital small-cap fund",
-        "source": "google_news_finance",
-        "lang": "en",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSlBxa0MwNzZwQkxFTXVkYnRGTEVUME42aDlxS3gwTWdpekw4M3NzMUZkZDJ1NF9qOVA2Snp3VmRDWFpldmh5bzJaWXRzODJMcjZob193VWxKb0hNVGVXYUZWR3RObnE4YmNES044MmIyWUpnVkJVLUNoVDc0MzZoak9uLWRzZzk5eWJMSGo4WllZNDltdVY4UVJib0NRRXlWeF9pVG5OWHpmaTd6X0E?oc=5",
-        "score": 0
-      },
-      {
         "title": "Why ETFs Win the Tax Battle Over Mutual Funds",
         "source": "google_news_finance",
         "lang": "en",
@@ -867,52 +860,59 @@
         "score": 0
       },
       {
-        "title": "JPMorgan Chase & Co. Increases Position in Morningstar, Inc. $MORN",
+        "title": "Morningstar Awards for Investing Excellence UK 2026: Winners Announced",
         "source": "google_news_finance",
         "lang": "en",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa2ZGX2pEbF9sSzFmR0dhTTVDcDlwVXF5eUtZX21LS05tMm9MWmtpajhwa0o4b005TVgxVDVVYVBtR3NGUEhwQ0JUU01qaDM0SjMxWjZ2RWxhWlRPdFkwQ1p0S0JPUWhiSFZac3NHdDl3Q3lVWGY4Z2RFSjJwR01BRVRuVEVnMlNaaVh2YzVkSmY5Y2lnSElNeVl0dkNfMm1GeEc5cjFNWWYzQ3BybDMzT0FPN3VGQXd1bmczNEt3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSEVUYVV3eVl6cmNLMllZYnlsODZKaUtNOXhVSGdRX2NEOEVnbG03a3gtUnhKNmsyZWRJbUJsT2lMb2UyUi1mdjhGYm92YjZzRXRiU3ZlUHBVVFo5MzF6X0tzdk1DVmF4UHE3VFA5c0RZVHZoQmE5eWMtUlpoQVJkMlF5U19iSi1GUncwNmllczAtb0dKN2ZtaVQ2YXNQMWFINjd3ei11WHFGdEtLSkFncTlEN0Izb1Z6RlFIaDRtb051REdZ?oc=5",
         "score": 0
       },
       {
-        "title": "Morningstar puts $1.6bn Fidelity small-cap fund under review",
+        "title": "8 Top-Performing Short-Term Bond Funds",
         "source": "google_news_finance",
         "lang": "en",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNGpjYTEtRE9JV0dGTkFuTjJYS0Joc0lCTjFqUkYzMExzMkNqWU9UWWNVREFuUjNuRHVNblFoWklub0lZSC11WFh5T2ZNS3lfNlRMV21NVnlOQ2ZYb3NSelZmLTI1WGlfTXlIMjNhdGNvUXIzWGhtOUxaZVdnS2M3aXFiMTRuTTVYVzVMUjZlMVF5TzJ3STdLbFZZVlExVUl2MUJ4Qlk0bw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qb1l3dFZaRktRLXFkTE92M0E1SXJfREplOUtnMXdDcTBENEREZ0tZWlNISkFRVXZrMjltQnNqeC1vTDJqTktQOUJMR3MwNE50Z1FaenJYSS1pM0g5Mk1tUzhvbVhmWGdQQ3pSZzV3b1E2aWFPYVFOY3N4Ykk?oc=5",
         "score": 0
       },
       {
-        "title": "2 Vanguard Index Funds to Beat the S&P 500 Over the Next 10 Years, According to Analysts",
+        "title": "Best Mutual Funds Awards 2026: Best Blend Funds",
         "source": "google_news_finance",
         "lang": "en",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84NmF5Si1uOUVIRWVzT2VfbDBJZ1BQckE3Qm9FSzhtY0w3MlpRTlgyUWVPcXVZeWFuTXdjcGYwdTdWZDhabnplZDNyOWtBSXI4Ql9IWXhIVlY3Q080NkVVRGtiV0pIWld6MGFpYjZ4S0NMMzJEY1p2TEhjbw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWU5rOGtvb3UwY0gydVl1TUlUc0dFbGswQmZGT3dkcmVLSFBHWnpsYUtlbWZQZ2M1T3NXZmdSazFoRjhqSmhEMnpWdkFKWWJnUnI1Z0x4bU5qRG10djNFX2JJcFBFeEFWSXRvRFZfWEU0MUpwc0U1cmUxbnlFc0ZQVEFvVWItMXRKZFhoNkFNRE5wWW1iUzdkRTlOdw?oc=5",
         "score": 0
       },
       {
-        "title": "9 of the Best Bond ETFs to Buy for 2026 | Investing",
+        "title": "What to Invest In Right Now, March 2026",
         "source": "google_news_finance",
         "lang": "en",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WMF9FVU1pdk1WWHpCemd6QlZ4ZkktUGdLQWIzbldXeDJsbmNqTVdLclBUai1NRXBsUGVGb1lrSEsyWjIzN0x4b2lZOW1fMXFHLXdrSzdlVHg5bUpraWZrdmJFZ2tzQnRjQjRrcU1OQ0VvZHpqdjZpWQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IdmNhYUsyS3J1bmVMc1kxWHc2TENDSVFuQzRaNmZxZlFheXBqTDJxbXIzc0NhRFY4cVY3UndIOFV2eEhoQ25tVWg0MC1DcWtYbFhUc19ST3RSYUNtY3BaWF9HaDctazV2cEN3aTgtS00?oc=5",
         "score": 0
       },
       {
-        "title": "Best Performing ETFs of the Last 1, 3, 5, and 10 Years",
+        "title": "The 7 Best Fidelity Mutual Funds to Buy and Hold | Investing",
         "source": "google_news_finance",
         "lang": "en",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWnY1c1NsbTIzaTdyNXFFc3I4Qk1NWjNNT0dVNWYtaHlubFFBYk5YTGw0VERKUzF2MkNEbmo3bWY1MmMxYTdIRlJjTlM0Tld4eVhmYThud2ppMmllN2EzM01nODU0QW1RbWpyMlV5N1g0NC1qZ2RIeGwyamhaczFzVmJ3dWN5cFZQZmc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHFMbVpRMVNmM1JnQzcyMVRmY0FKMTZfbHhkbkM2Q29jUXB3SG5mM0VwUV9BQTdvdXdnZW1WWkhaTE9aVE5kWEJSUDJxM0QzOVZ5UTZxUDdqclZOLWI4UDhyMTc3S05fdjFaeWNNaWZyVWxQd19nMG80dXVpdDMweFBRS3FyZGtFY2hyM3dJNA?oc=5",
         "score": 0
       },
       {
-        "title": "Bond Funds That Have Offered Some Inflation Protection",
+        "title": "3 International ETFs That Could Outperform the S&P 500 This Year",
         "source": "google_news_finance",
         "lang": "en",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUUdtclF4THhFMHVObG4ybmljTzVzZDV2RzhEYlNyX1hfZkxrVjYyalI5SElpU3hhSE80T3dxai1NVlAyZ1V1WlZpVE5sVG85ZkNRc0I5Wk5sdmliRmFOUGV2YTdpenhsQnd5cDhpSGFRcEE0SnJzZ19rNUJhMFJscFZwZENDaVc5Z3o4aGVwd3o4Zw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0dKMmNRdlZXS056ZTROdFlfalVTR0NjVjdkMkFYV3lJaUpWUjBOUElVbl9CM0dZRUpSRHFRTmczT0F4VDA5STY1ejBTSGVEQThXWENoOTN0VkRYXzhSYURISnF1TmZ4MFRQVzFZcDhpNTFBSDJ3TE1zR2YyaUkyRXBXelR4SF9SMUdpSW5rWGxZamFzbXpHalh1NTctdkx4a2xLMzFSRmpGSUU?oc=5",
         "score": 0
       },
       {
-        "title": "Only the 25 biggest U.S. stocks will remain in this renamed ETF",
+        "title": "Forget Iran War: Bet Big on Tech ETFs on Earnings Strength",
         "source": "google_news_finance",
         "lang": "en",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUQ5RXM4QjlocW9yRm8xQ0pqdEN5V2VKdE4yT2JFaUJ3UUhwcmtNaDFMdzc5QVpZTEVpUTFneXVXUDBUdngtb2R4X0JRWmNvX01yTFpjTnRob2tVZFFrRjh3alV5YTM2WC16eXJBYWhIM2UzTVowbVVtTzNiRE9obmszWHFRQ05kSlJ0MDg2TmNfR2plRV9WQjlROFVtSldETDhrTTZjbGNaSXM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMkc5X1pROGNmMHNqRnBjcUdLdFlOMlkzMnd0UXdOenVDUmFGbDFzeVJmVllmZWphejNXNktjcTZCbXI1VDQ5X0Yzc1lFRTBzbzJTLVZ4TXlWdlJPbF9qaXlYN2NSM3U2NkwyN3FaeGxDMnQ5OURLMWN4WlhLOExsMDVwZjh5WUVWeFlQU1Y2MDNFTXY0ZFJtaklzV1FQSmgyUFptYTZxNVNwVlZScE9IWDkxRQ?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Australian Senate Supports New Crypto Framework",
+        "source": "google_news_finance",
+        "lang": "en",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5",
         "score": 0
       },
       {
@@ -921,29 +921,15 @@
         "lang": "en",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekNDcGJLZ1lTSFpOSWg1RjZtOTFHQ2U0WlpJUDFrM0dpS2FoXzFqU3pBZ1c1eWJzREJfcDczMkloZV9FeVlVWmEyMTBHM1hyd1VEMGs4VUtPa2dQSFRLTXFjNS1VU2F0Z0VTMlNQelFjZ05YUk4yVlF1Ynd6OWdIWkNEVHM5emltTEpJU1dvQU1ISy1XOS01QVk0V1ZpaGs?oc=5",
         "score": 0
-      },
-      {
-        "title": "7 Best-Performing Tech Stocks for March 2026",
-        "source": "google_news_finance",
-        "lang": "en",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTDNDN29pUVZLME9OYkxUdm84dTJRdF95M1hBZXk4SG4wT0NyeHV0QjRBT0txMTA4MFB1WHZNQkN4REJhcGJDNjl1ejJrQjFmRlkwb1FrcTdhWDhpV3V0alJ3VjBqc19vd1dZQ2JhSHRSamlMOG92YzhIS2ZMXzZpekZ3?oc=5",
-        "score": 0
-      },
-      {
-        "title": "5 Best High Dividend Mutual Funds to Buy in 2026",
-        "source": "google_news_finance",
-        "lang": "en",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uNFFpOTZuV01DWFNzRFJuMHpzczdxNzBBUjlMT0VNMWd4RHY0M0NreW03RUZMTkdKei16U0NlY2hSSFFVRU14aGkzd0U0dG11M01SektfaWNWalp2R2Z2Wldvd0pqOUQySE5oQzAybURUaGhxV2l3?oc=5",
-        "score": 0
       }
     ],
-    "cached_at": 1773996239.1239326,
+    "cached_at": 1774077518.024601,
     "func": "fetch_financial_news",
     "args_summary": "()"
   },
   "86d61bb4f7cb8c2155373d09789cf9ddb2748ffc149a728bab3f0be2ffd1e523": {
     "data": [],
-    "cached_at": 1773996239.410943,
+    "cached_at": 1774077518.21108,
     "func": "fetch_competitor_rss",
     "args_summary": "()"
   },
