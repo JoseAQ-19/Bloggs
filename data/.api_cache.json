@@ -552,70 +552,77 @@
   "fb4ad1bcef6d3043168469167a15cb1cb1ab0f544701e2b912c49d41dd73fb7a": {
     "data": [
       {
-        "title": "YouTube prueba una función que podría acabar con el clickbait para siempre",
+        "title": "La FIFA sucumbe al ‘streaming’ y firma a YouTube como plataforma preferente para el Mundial",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "🛎️ Si aún no te unes, suscríbete y activa la campanita para no perderte nuestras entrevistas, análisis y reportajes exclusivos. 👉🏻 Visita aquí nuestro canal de YouTube : https://www.youtube.com/@expresotv1501/videos",
+        "title": "Meta pagará 3.000 dólares a los creadores de YouTube y TikTok para que publiquen en Facebook",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "FIFA anuncia \"acuerdo histórico\" con Youtube para el Mundial de 2026",
+        "title": "YouTube en Colombia: la lista de los 10 videos más reproducidos que son tendencia hoy",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Caso Cerrado , Temporada 2020, Capitulo 45: \"Genitales en YouTube\" y \"Mamá bien me lo decía\"",
+        "title": "Es un hermoso día para 'Mister Rogers' Neighborhood' en YouTube.",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "¿Por qué los resúmenes contextuales de Gemini cambiarán la forma de ver YouTube?",
+        "title": "Músico estafa por más de 143 millones de pesos a Spotify, YouTube, Apple y Amazon; así fue el fraude",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774120115.0130913,
+    "cached_at": 1774206603.3059878,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "cfab165c756760f9672efaf7f54fa3040ac0f24e7b4012e5d64766caf60cfad3": {
     "data": [
       {
-        "title": "Más de la mitad de los adolescentes en EEUU usa IA para crear imágenes sexualizadas",
+        "title": "Un youtuber quiso buscar el edificio más antiguo de GTA 5 y descubrió por qué el juego sigue vivo 13 años después - Grand Theft Auto V - 3DJuegos",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/tecnologia/mas-mitad-los-adolescentes-eeuu-usa-ia-para-crear-imagenes-sexualizadas_6947878_0.html"
+        "url": "https://www.3djuegos.com/juegos/grand-theft-auto-v/noticias/youtuber-quiso-buscar-edificio-antiguo-gta-5-descubrio-que-juego-sigue-vivo-13-anos-despues"
       },
       {
-        "title": "Sabíamos que el móvil tenía un impacto en la salud mental de los niños. Un estudio ha definido la frontera: los 16 años",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "http://xataka.com/investigacion/llevamos-anos-midiendo-tiempo-pantalla-adolescentes-ciencia-dice-que-verdadero-peligro-otro"
-      },
-      {
-        "title": "Disney tiene nuevo CEO: D'Amaro revolucionará la industria del streaming con IA y realidad virtual",
+        "title": "La actualización más importante de Steam en mucho tiempo ya está aquí y prepara el camino para consolidar a Steam Deck/Machine - PC - 3DJuegos",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/tecnologia/disney-tiene-nuevo-ceo-d-amaro-revolucionara-industria-streaming-con-ia-realidad-virtual_6947829_0.html"
+        "url": "https://www.3djuegos.com/pc/noticias/actualizacion-importante-steam-mucho-tiempo-esta-aqui-prepara-camino-para-futuro-steam-deck-machine"
+      },
+      {
+        "title": "Nintendo estaría preparando una nueva versión de Switch 2 para Europa, pero sólo traería un cambio y no se trata de una mejora en potencia o gráficos - Nintendo Switch 2 - 3DJuegos",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://www.3djuegos.com/nintendo-switch-2/noticias/nintendo-estaria-preparando-nueva-version-switch-2-para-europa-solo-traeria-cambio-no-se-trata-mejora-potencia-graficos"
+      },
+      {
+        "title": "La Generación Z y los Boomers están perdiendo 5,3 horas de trabajo a la semana y el precio a pagar es de 56.000 millones",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://www.3djuegos.com/3djuegos-trivia/noticias/generacion-z-boomers-no-se-soportan-trabajo-estudio-ha-descubierto-que-precio-a-pagar-56-000-millones"
       }
     ],
-    "cached_at": 1774120115.5017574,
+    "cached_at": 1774206603.8558042,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
