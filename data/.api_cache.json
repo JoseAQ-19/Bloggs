@@ -999,21 +999,14 @@
   "88f30aaa7bab0042d69286b6e1ddf009c9ed8bd38dd824e484b197be702b0cbf": {
     "data": [
       {
-        "title": "REIGN FINAL – ONT 1 , IA 4 – Lord",
+        "title": "REIGN FINAL – ONT 3 , IA 1",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "2023 IHSAA (IA) State Championship",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Glenn Jensen Obituary (1969",
+        "title": "RAW: IA: FALLEN SOLDIER FUNERAL: MAJ JEFFREY O'BRIEN",
         "source": "google_news",
         "lang": "en",
         "score": 0,
@@ -1027,14 +1020,21 @@
         "url": ""
       },
       {
-        "title": "Make An A-Z Playlist Of '90s Songs And I'll Know If You're A Sunrise Or Sunset Person",
+        "title": "2025 IHSAA (IA) State Championship",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Best photos: Iowa women's basketball beats FDU in March Madness",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774093065.3229442,
+    "cached_at": 1774179495.1494496,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
@@ -1046,6 +1046,13 @@
         "lang": "en",
         "score": 0,
         "url": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/"
+      },
+      {
+        "title": "Microsoft launched a second-generation version of its AI image model. | The Verge",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.theverge.com/tech/897652/microsoft-launched-a-second-generation-version-of-its-ai-image-model"
       },
       {
         "title": "Trump takes another shot at dismantling state AI regulation | The Verge",
@@ -1060,16 +1067,9 @@
         "lang": "en",
         "score": 0,
         "url": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/"
-      },
-      {
-        "title": "Meta cierra Horizon Worlds en Quest y da otro paso hacia el adiós definitivo al metaverso | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/meta-cierra-horizon-worlds-en-quest-y-da-otro-paso-hacia-el-adios-definitivo-al-metaverso"
       }
     ],
-    "cached_at": 1774093065.8989203,
+    "cached_at": 1774179495.6383455,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
