@@ -1153,77 +1153,77 @@
   "6e9c6a02969a5e9b67222353d8954d32f29ac7ffcd642500a8a27decc747f088": {
     "data": [
       {
-        "title": "Listen: Google TV Embraces Microdrama Boom With Discovery and Navigation Tools as Producers Tackle the Format: ‘We Want to Be HBO Mashed Up With TikTok’",
+        "title": "The 5 Best Free Tools to Research Competitive Advantages and Moats",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "APU: HANDS-ON STEAM: INQUIRY-BASED LEARNING IN ACTION",
+        "title": "¿Están Bitmine y Tom Lee invirtiendo $40M en OpenAI? Sí pero no",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "NLR|VanEck Uranium+Nuclear Energy ETF|Precio:127.820|Variación %:-5.80",
+        "title": "5 of the Best Free Tools to Screen for High ROIC Companies",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Sprinto Launches Autonomous Trust Platform--Moving Compliance From Automated to Autonomous",
+        "title": "Crypto: RUT at a Crossroads: What the Russell 2000 Tells Us About Market Health",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Canal de Panamá funciona a plena capacidad, guerra en Irán aumenta tráfico de buques de GNL, dice jefe",
+        "title": "Láser contra drones: desarrolladores lituanos presentan una tecnología única que es cinco veces más barata que sus equivalentes estadounidenses.",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774099330.1837373,
+    "cached_at": 1774185760.3904188,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "d3e0b697eb375d60495f1b6d1f6c436c149ae1e2a919c1ae80263ab8fde1d244": {
     "data": [
       {
-        "title": "X (Twitter) no funciona: la red social y Grok están caídos a nivel mundial. Y en la carrera de la IA, es un tropezón",
+        "title": "Qué es la Inteligencia Artificial General (AGI), la tecnología que apunta a revolucionar nuestro mundo por completo",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/aplicaciones/x-twitter-no-funciona-red-social-esta-caida-a-nivel-mundial-1"
+        "url": "https://www.xataka.com/preview/-NjqISfnS7N4GRoCsAiG"
       },
       {
-        "title": "Seedance 2.0 ha utilizado la propiedad intelectual de Hollywood para viralizarse. Hollywood ha utilizado los juzgados",
+        "title": "El mayor problema de los trenes en la India no es la puntualidad, sino el atropello de elefantes. Están usando IA para salvarlos",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/seedance-2-0-modelo-video-ia-avanzado-hollywood-ha-parado-seco-copyright-nueva-arma-geopolitica"
+        "url": "https://www.xataka.com/movilidad/india-tiene-plan-trenes-dejen-atropellar-elefantes-usar-ia"
       },
       {
-        "title": "El nuevo Grok de Elon Musk sale de la beta con más precisión y capacidades multiagente",
+        "title": "La actualización más importante de Steam en mucho tiempo ya está aquí y prepara el camino para consolidar a Steam Deck/Machine - PC - 3DJuegos",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/big-tech/nuevo-grok-elon-musk-sale-beta-con-mas-precision-capacidades-multiagente_6947879_0.html"
+        "url": "https://www.3djuegos.com/pc/noticias/actualizacion-importante-steam-mucho-tiempo-esta-aqui-prepara-camino-para-futuro-steam-deck-machine"
       },
       {
-        "title": "Más de la mitad de los adolescentes en EEUU usa IA para crear imágenes sexualizadas",
+        "title": "China avanza en la creación de los robot humanoides con OpenClaw y lanza el mayordomo Bajie",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/tecnologia/mas-mitad-los-adolescentes-eeuu-usa-ia-para-crear-imagenes-sexualizadas_6947878_0.html"
+        "url": "https://www.businessinsider.es/tecnologia/china-avanza-creacion-los-robot-humanoides-con-openclaw-lanza-mayordomo-bajie_6948455_0.html"
       }
     ],
-    "cached_at": 1774099330.811961,
+    "cached_at": 1774185760.9435806,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
