@@ -410,3 +410,4 @@ funds: Vanguard Fee Cuts Save Investors $250 Million in 2026: A Morningstar Anal
 ia: Guerra, desinformación y empleo: La cara oscura de la IA que debes conocer.
 ia: AI Eats Venture Capital: Are Returns Worth the Risk?
 tools: 5 Herramientas GRATIS para Destrozar a la Competencia (Ventajas y Fosos)
+tools: AI Takes Over: High Schools Embrace Generative AI Tools
