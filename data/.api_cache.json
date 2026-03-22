@@ -370,21 +370,21 @@
   "1aa06cf232e59b4099181fc77bc2032cca3f1701bcd8a89857881f3d3a40d006": {
     "data": [
       {
-        "title": "Predicción del precio de EOS (EOS) para 2023 2024 2025 2026",
+        "title": "SOLUSD",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El ETF Grayscale CoinDesk Crypto 5 actualiza el cálculo del índice con la inclusión de Binance",
+        "title": "¿XRP a $22? Análisis de un experto revela un patrón alcista en el mercado",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "BTCUSD",
+        "title": "Predicción del precio de Avalanche (AVAX) para 2023 2024 2025 2026",
         "source": "google_news",
         "lang": "es",
         "score": 0,
@@ -398,14 +398,14 @@
         "url": ""
       },
       {
-        "title": "Shiba Inu (SHIB) +200 Mil Millones Umbral de Entrada a Exchange Extremadamente Cerca: Aumento de 24 Horas",
+        "title": "Boyaa Interactive planea gastar no más de $70 millones para adquirir criptomonedas.",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774109526.1164157,
+    "cached_at": 1774195972.3190196,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
@@ -415,15 +415,8 @@
         "title": "90% of crypto's Illinois primary spending failed to achieve its objective",
         "source": "hackernews",
         "lang": "en",
-        "score": 132,
+        "score": 135,
         "url": "https://www.mollywhite.net/micro/entry/202603172318"
-      },
-      {
-        "title": "Cryptography in Home Entertainment (2004)",
-        "source": "hackernews",
-        "lang": "en",
-        "score": 68,
-        "url": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/"
       },
       {
         "title": "There's a shocking amount of overlap between AI & Crypto/NFT bros",
@@ -431,30 +424,51 @@
         "lang": "en",
         "score": 9,
         "url": "https://mystudentfailedtheirmid.substack.com/p/theres-a-shocking-amount-of-overlap"
+      },
+      {
+        "title": "Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 4,
+        "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html"
       }
     ],
-    "cached_at": 1774109526.3803637,
+    "cached_at": 1774195972.665683,
     "func": "fetch_hackernews",
     "args_summary": "(['crypto'],)"
   },
   "151a07ed322d3cbdd77d65398c3a13cd6a0111c87db69f3fd0b926d706a54d98": {
     "data": [
       {
-        "title": "Kraken paraliza su salida a bolsa y alerta al mercado de las criptomonedas",
+        "title": "¿Subirá tipos el BCE? Lagarde se pone en modo vigilante, antesala de las subidas de los tipos de interés",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/mercados/kraken-paraliza-su-salida-bolsa-alerta-mercado-las-criptomonedas_6947742_0.html"
+        "url": "https://www.businessinsider.es/mercados/bce-lagarde-se-pone-modo-vigilante-antesala-las-subidas-los-tipos-interes_6948327_0.html"
       },
       {
-        "title": "Aunque cortáramos la mayoría de cables submarinos Bitcoin seguiría funcionando: su mayor amenaza es otra",
+        "title": "El movimiento de China que puede cambiar el mercado del petróleo: tiene la mayor reserva del planeta - AS.com",
         "source": "exa",
-        "lang": "en",
+        "lang": "es",
         "score": 0,
-        "url": "http://www.xataka.com/criptomonedas/cortar-mayoria-cables-submarinos-tumbaria-bitcoin-problema-otro-esta-mucho-cerca"
+        "url": "https://as.com/actualidad/politica/el-movimiento-de-china-que-puede-cambiar-el-mercado-del-petroleo-tiene-la-mayor-reserva-del-planeta-f202603-n/"
+      },
+      {
+        "title": "Hacienda retendrá 43 euros al mes del SMI: solo se recuperarán en la declaración de la Renta",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://www.businessinsider.es/economia/hacienda-retendra-43-euros-mes-smi-solo-se-recuperaran-declaracion-renta_6938170_0.html"
+      },
+      {
+        "title": "Pedro Sánchez anuncia una rebaja fiscal en carburantes de hasta 30 céntimos por litro",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://www.businessinsider.es/economia/pedro-sanchez-anuncia-rebaja-fiscalidad-carburantes_6948641_0.html"
       }
     ],
-    "cached_at": 1774109527.1105213,
+    "cached_at": 1774195973.4036365,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
