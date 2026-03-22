@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-22T08:44:22.718490+00:00",
+  "scouted_at": "2026-03-22T08:47:30.063841+00:00",
   "total_candidates": 19,
   "topics": [
     {
       "rank": 1,
-      "title": "Vanguard Slashes ETF Fees: Investors Save $250 Million in 2026",
+      "title": "Vanguard Slashes Fees: Investors Save $250 Million in 2026",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Leveraged Loan ETFs: BlackRock Enters $1.4 Trillion Market with New Fund",
+      "title": "Mutual Funds Bleed Cash: ETFs See $22.76 Billion Inflows in One Week",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Mutual Funds Hit Investors With Surprise Tax Bills on Losses; ETFs Largely Avoided",
+      "title": "US Stocks on Sale: Morningstar Index 7% Below Fair Value",
       "lang": "en",
       "source": "llm_selected_finance"
     }
@@ -116,32 +116,32 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWlxS1pOUGhveGlYWUVVa3p1ZmVicjZ5YXhvRndfYmt2U0ZLbzA1OUMwZzN1ZE5GNEpLcDVCVW10XzhfSEdhQ3dLWEJPenY3c2hOY2pLZnVWNjR0U0pKc21iSi1yVGJKRlpjbGNCNE9rOEt5V2pIU3NkYi1KZTlBQUVNMGNzb3g3dUNucmNR?oc=5"
     },
     {
-      "title": "Vanguard's new ETF (VANG), tracking a broad U.S. equity index, attracted $1.2 billion in net assets in its first month with an expense ratio of 0.04%.",
+      "title": "Vanguard lowers expense ratios across 53 funds, resulting in $250 million in fee reductions for investors in 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock launched the iShares Broad USD Floating Rate Loan ETF (USLN) with a 0.40% expense ratio, targeting the $1.4 trillion leveraged loan market.",
+      "title": "Total estimated inflows to long-term mutual funds and ETFs were $16.95 billion for the week ended March 11, 2026, with mutual fund outflows of $5.81 billion and ETF net issuance of $22.76 billion.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Dimensional Fund Advisors listed the Dimensional US Micro Cap ETF (DFMC), the first actively managed ETF launched as a secondary share class from an existing mutual fund.",
+      "title": "Equity ETFs had net inflows totaling $107.3 billion in February, bringing trailing 12-months net inflows to $997.6 billion.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "YieldMax DDDD ETF (DDDD), launched on March 11, 2026, holds Schwab US Dividend Equity ETF (SCHD) and writes covered call spreads to target roughly double SCHD's 3.39% yield, with a gross expense ratio of 0.99%.",
+      "title": "The Morningstar US Market Index is trading at a 7% discount to fair value as of February 27, 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard is cutting expense ratios across 53 funds, translating to nearly $250 million in fee reductions for investors in 2026; the Vanguard International High Dividend Yield ETF (VYMI) saw its expense ratio drop from 0.17% to 0.07%.",
+      "title": "Digital asset investment products saw inflows of US$619M, with Bitcoin dominating flows at US$521M.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Long-term US mutual funds and ETFs gathered $150 billion in February 2026, with taxable-bond funds driving most inflows at $85 billion.",
+      "title": "The Federal Reserve is projected to only cut interest rates once in 2026, remaining unchanged at 3.5%-3.75% following its policy meeting.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
