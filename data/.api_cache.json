@@ -629,60 +629,60 @@
   "9ee96a29d2849810b096fb4ad7845a44fb015972f3144c10f16e0a281e09fb7c": {
     "data": [
       {
-        "title": "This streaming service is moving customers to YouTube TV. Here's why.",
+        "title": "Why YouTuber Hank Green Turned Down More Money to Make a Bigger Difference",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Is YouTube down? Massive outage hits app, website affecting users globally",
+        "title": "The golden age of YouTube is behind us",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "They're Building a Dream Home From Scratch for Less Than $3K After Watching 100 Hours of YouTube",
+        "title": "YouTube job scam text: How to spot it fast",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Wow! Broadband Concludes Streaming Migration to YouTube TV by June 2026",
+        "title": "YouTube",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Benchmark social media trial in California to determine future of Youtube and Instagram",
+        "title": "“Me at the zoo”: The first-ever video uploaded to YouTube video is being honored in a museum",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774121497.1752248,
+    "cached_at": 1774207677.355115,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "f990e7eff0f3103ac01b2830c939d7dce846fb1e852800a979f12b26b78a0e42": {
     "data": [
       {
-        "title": "Mister Rogers is getting his own YouTube channel. | The Verge",
+        "title": "Nintendo está desenvolvendo modelo do Switch 2 com bateria removível, mas a notícia ruim é que não estará disponível para todos os países",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/entertainment/897397/mister-rogers-youtube"
+        "url": "https://br.ign.com/nintendo-switch-2/151738/news/nintendo-esta-desenvolvendo-modelo-do-switch-2-com-bateria-removivel-mas-a-noticia-ruim-e-que-nao-es"
       },
       {
-        "title": "Tung Tung Sahur y Ballerina Cappuccina llegarán a Fortnite",
+        "title": "Las III Jornadas Intergeneracionales Gaming unen a mayores, niños y estudiantes a través de los videojuegos",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://latam.ign.com/fortnite/112035/news/fortnite-tung-tung-sahur-ballerina-cappuccina"
+        "url": "https://es.ign.com/gaming-explosion/227803/news/las-iii-jornadas-intergeneracionales-gaming-unen-a-mayores-ninos-y-estudiantes-a-traves-de-los-video"
       },
       {
         "title": "Fortnite anticipa crossover con Game of Thrones: Jon Snow y el Rey de la Noche serían los elegidos",
@@ -692,14 +692,14 @@
         "url": "https://latam.ign.com/fortnite/112072/news/fortnite-game-of-thrones"
       },
       {
-        "title": "Tubi joins forces with popular TikTokers to create original streaming content | TechCrunch",
+        "title": "This is Microsoft’s plan to fix Windows 11 | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/19/tubi-joins-forces-with-popular-tiktokers-to-create-original-streaming-content/"
+        "url": "https://www.theverge.com/news/897834/microsoft-windows-11-quality-performance-commitments-changes"
       }
     ],
-    "cached_at": 1774121497.8150876,
+    "cached_at": 1774207678.0122921,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
