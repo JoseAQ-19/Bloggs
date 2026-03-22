@@ -413,3 +413,4 @@ tools: 5 Herramientas GRATIS para Destrozar a la Competencia (Ventajas y Fosos)
 tools: AI Takes Over: High Schools Embrace Generative AI Tools
 crypto: Trump's Crypto Connection: New Regulations Benefit His Family, Experts Allege
 youtube: Meta contraataca: Paga a YouTubers y TikTokers para invadir Facebook. ¿Funcionará?
+youtube: Hank Green's YouTube Ethics: Why He Chose Impact Over Income
