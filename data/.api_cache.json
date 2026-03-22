@@ -293,7 +293,14 @@
   "6b917a81fd9eedfed0c8175dfe38aafa9e90472ee53445d8e4541e481f95984d": {
     "data": [
       {
-        "title": "Spurs respond after viral video at game shows woman sending disparaging remarks about Hispanics",
+        "title": "Spurs fans respond with pride after video disparaging Hispanic fans goes viral",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Viral Charts",
         "source": "google_news",
         "lang": "en",
         "score": 0,
@@ -307,63 +314,56 @@
         "url": ""
       },
       {
-        "title": "Giants Cam Skattebo Goes Viral For Bizarre Thoughts on CTE & Asthma: ‘It’s Fake’",
+        "title": "Viral video of abandoned dog leads to new home",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "This Upgraded Viral Pasta Recipe Is 'The Easiest 20-Minute Dinner You'll Make All Week'",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "PopUp Bagels brings viral flavors to the Gulch",
+        "title": "UPC long-arm ruling; Coca-Cola viral video; Squires PTAB memo; solid-state battery patent data; IP Bridge sues Geely; plus much more",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774132286.459677,
+    "cached_at": 1774218643.2728384,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
   "78419185a472eac00403a11a229938d32ad88b963bbfbf48284eb0cbba1ee66b": {
     "data": [
       {
-        "title": "Se informa que Sony eliminará la marca PlayStation Network y las siglas PSN. ¿Cómo afecta esto a los jugadores?",
+        "title": "Fãs de Homem-Aranha estão convencidos de que trailer de Um Novo Dia foi editado para esconder personagens em cenas específicias",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.ign.com/playstation-1/227799/news/se-informa-que-sony-eliminara-la-marca-playstation-network-y-las-siglas-psn-como-afecta-esto-a-los-j"
+        "url": "https://br.ign.com/homem-aranha-um-novo-dia/151732/news/fas-de-homem-aranha-estao-convencidos-de-que-trailer-de-um-novo-dia-foi-editado-para-esconder-person"
       },
       {
-        "title": "Fortnite anticipa crossover con Game of Thrones: Jon Snow y el Rey de la Noche serían los elegidos",
+        "title": "El primer teaser de Sonic 4: La película confirma un regreso muy esperado",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://latam.ign.com/fortnite/112072/news/fortnite-game-of-thrones"
+        "url": "https://es.ign.com/sonic-the-hedgehog-4-1/227810/news/el-primer-teaser-de-sonic-4-la-pelicula-confirma-un-regreso-muy-esperado"
       },
       {
-        "title": "Diablo Immortal arranca su hoja de ruta 2026 con Andariel, nuevo PvP y eventos inéditos",
+        "title": "Muere Chuck Norris a los 86 años: Adiós a la leyenda del cine de acción",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://latam.ign.com/diablo-immortal-1/112069/news/diablo-immortal-andariel"
+        "url": "https://latam.ign.com/chuck-norris/112083/news/chuck-norris-muere-86-anos-walker-texas-ranger"
       },
       {
-        "title": "Cartas Pokémon: Três homens detidos por burla de 320 mil euros",
+        "title": "Nintendo está desenvolvendo modelo do Switch 2 com bateria removível, mas a notícia ruim é que não estará disponível para todos os países",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://pt.ign.com/pokemon-trading-card-game-tabletop/156116/news/cartas-pokemon-tres-homens-detidos-por-burla-de-320-mil-euros"
+        "url": "https://br.ign.com/nintendo-switch-2/151738/news/nintendo-esta-desenvolvendo-modelo-do-switch-2-com-bateria-removivel-mas-a-noticia-ruim-e-que-nao-es"
       }
     ],
-    "cached_at": 1774132287.1301594,
+    "cached_at": 1774218643.9837415,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
