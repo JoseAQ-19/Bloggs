@@ -139,60 +139,67 @@
   "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
     "data": [
       {
-        "title": "Fitness & Workout Journal/Planner",
+        "title": "Marcus Rashford fit again for Barcelona after fitness issues",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "News",
+        "title": "XPOF Investors Have Opportunity to Join Xponential Fitness, Inc. Fraud Investigation with the Schall Law Firm",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "These Are the Current Military Fitness Tests for 2026",
+        "title": "GALLERY: Kids end spring break camp with fitness, tug-of-war, and police tours",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Planet Fitness donates 100+ pieces of fitness equipment to local schools, nonprofits, and first responders",
+        "title": "Free screenings and fitness for kids in Savannah",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "How FIT4MOM Makes Fitness Flexible for Busy Moms",
+        "title": "UMich alum brings national fitness franchise TREMBLE to Ann Arbor",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774068338.0944004,
+    "cached_at": 1774157407.910086,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "5f74b081c9753b13b48c085df1624d184c9deb4bc34d11178f03bbc18aeae64e": {
     "data": [
       {
-        "title": "Aquí tenemos las primeras imágenes de Dwayne Johnson y Bugs Bunny en la próxima temporada de Fortnite",
+        "title": "Much ado about protein | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.ign.com/fortnite/227734/news/aqui-tenemos-las-primeras-imagenes-de-dwayne-johnson-y-bugs-bunny-en-la-proxima-temporada-de-fortnit"
+        "url": "https://www.theverge.com/column/897715/optimizer-protein-proteinmaxxing-proteinwashing-wellness"
       },
       {
-        "title": "Meta cierra Horizon Worlds en Quest y da otro paso hacia el adiós definitivo al metaverso | WIRED",
+        "title": "Diablo Immortal arranca su hoja de ruta 2026 con Andariel, nuevo PvP y eventos inéditos",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/meta-cierra-horizon-worlds-en-quest-y-da-otro-paso-hacia-el-adios-definitivo-al-metaverso"
+        "url": "https://latam.ign.com/diablo-immortal-1/112069/news/diablo-immortal-andariel"
+      },
+      {
+        "title": "Disney revela las fechas de estreno de Lilo y Stitch 2 y Los Increíbles 3",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/incredibles-3/227774/news/disney-revela-las-fechas-de-estreno-de-lilo-y-stitch-2-y-los-increibles-3"
       },
       {
         "title": "Fitbit’s AI health coach will soon be able to read your medical records | The Verge",
@@ -200,16 +207,9 @@
         "lang": "en",
         "score": 0,
         "url": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records"
-      },
-      {
-        "title": "La Mole 2026 rompe récord histórico en CDMX con más de 40 mil asistentes y un concierto de Insulini rumbo al cine",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://latam.ign.com/la-mole-comic-con-internacional/112030/news/la-mole-2026-record-asistencia-cdmx-insulini-concierto-cine"
       }
     ],
-    "cached_at": 1774068338.565386,
+    "cached_at": 1774157408.4461396,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
