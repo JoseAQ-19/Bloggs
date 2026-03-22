@@ -894,42 +894,42 @@
   "21a068db0cd0ba4e3b3272cddddd6e25dad487d2eb369a2766316588951e7843": {
     "data": [
       {
-        "title": "El Gobierno regional abre a las empresas nuevas vías para mejorar la innovación con Inteligencia Artificial",
+        "title": "Onda enseña a empresas y emprendedores a usar la IA para ganar tiempo y multiplicar resultados",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Clayton LiaBraaten, experto en tecnología: “La IA se está utilizando como arma”",
+        "title": "Nubarrones en los despachos de abogados: la IA ya sustituye algunos puestos",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Medicamentos creados por IA, la nueva moda que está arrasando y puede cambiar el mundo de la medicina",
+        "title": "¿Burbuja asiática en la IA?",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Cory Doctorow: \"La IA pierde tanto dinero que pronto 2008 nos va a parecer un buen año\" Por EFE",
+        "title": "La IA, herramienta de precisión en la guerra y arma de desinformación a gran escala",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "\"Como la IA es más productiva que nosotros, habrá una renta universal, suena bien recibir 3.000 euros al mes, pero no estamos preparados\"",
+        "title": "Carrera de IA entre EE.UU. y China: un objetivo, dos enfoques muy distintos",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774087670.1244915,
+    "cached_at": 1774174103.941357,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
@@ -943,11 +943,11 @@
         "url": "https://thriving-syrniki-5dbe37.netlify.app"
       },
       {
-        "title": "Exogram Protocol RFC: Server Side IAM for AI Agents",
+        "title": "The Making of IA Notebook",
         "source": "hackernews",
         "lang": "en",
-        "score": 2,
-        "url": "https://github.com/Richard-Ewing/exogram-protocol-rfc"
+        "score": 1,
+        "url": "https://ia.net/topics/paper-alchemy-the-making-of-ia-notebook"
       },
       {
         "title": "Ask HN: AWS account restricted 18h despite remediation (Case 177385077300217)",
@@ -957,12 +957,19 @@
         "url": ""
       }
     ],
-    "cached_at": 1774087670.3428495,
+    "cached_at": 1774174104.2794478,
     "func": "fetch_hackernews",
     "args_summary": "(['ia'],)"
   },
   "46503d41ef4fee113ff718159ee99bd6e87c149d97104b3a6a5f5ddc5f6be1b3": {
     "data": [
+      {
+        "title": "Europa reconfigura su ley de IA: más margen para las empresas, nuevas prohibiciones y dudas sobre el control real",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://businessinsider.es/tecnologia/europa-reconfigura-su-ley-ia-mas-margen-para-las-empresas-nuevas-prohibiciones-dudas-sobre-control-real_6947940_0.html"
+      },
       {
         "title": "Qué es la Inteligencia Artificial General (AGI), la tecnología que apunta a revolucionar nuestro mundo por completo",
         "source": "exa",
@@ -971,28 +978,21 @@
         "url": "https://www.xataka.com/preview/-NjqISfnS7N4GRoCsAiG"
       },
       {
-        "title": "Más de la mitad de los adolescentes en EEUU usa IA para crear imágenes sexualizadas",
+        "title": "Bill Gates señala tres profesiones que no sucumbirán a la IA  - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/tecnologia/mas-mitad-los-adolescentes-eeuu-usa-ia-para-crear-imagenes-sexualizadas_6947878_0.html"
+        "url": "https://as.com/actualidad/ciencia/bill-gates-senala-tres-profesiones-que-no-sucumbiran-a-la-ia-f202603-n/"
       },
       {
-        "title": "El gran desplazamiento de los centros de datos en Europa: están dejando el centro para acudir a la periferia del continente",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "http://magnet.xataka.com/energia/europa-se-ha-quedado-enchufes-para-inteligencia-artificial-como-megacentros-datos-huyen-al-norte-al-sur"
-      },
-      {
-        "title": "Fondo de Inversión de Noruega advoerte de que la IA y la geopolítica amenazan los mercados",
+        "title": "El miedo a la IA en guerra crece en USA: presentan ley para poner freno - AS USA",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/tecnologia/ia-geopolitica-encienden-las-alarmas-mayor-fondo-inversion-mundo_6947868_0.html"
+        "url": "https://as.com/us/actualidad/el-miedo-a-la-ia-en-guerra-crece-en-usa-presentan-ley-para-poner-freno-f202603-n/"
       }
     ],
-    "cached_at": 1774087670.861055,
+    "cached_at": 1774174104.8205914,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
