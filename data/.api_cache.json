@@ -475,6 +475,20 @@
   "c7dcb72dc33baaa2e522c198717b4b418fcd1e9a91af28dfbac294c4b153973d": {
     "data": [
       {
+        "title": "New crypto regulations likely to be big favor to the Trump family, industry insiders say",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Bitcoin drops below $69,200 as Trump gives 48-hour ultimatum on Iran power plants",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
         "title": "Cryptocurrency & Blockchain Stock News",
         "source": "google_news",
         "lang": "en",
@@ -482,63 +496,56 @@
         "url": ""
       },
       {
-        "title": "CFTC staff details how crypto firms can use digital assets as derivatives collateral in new FAQ",
+        "title": "Jamie Dimon calls Crypto Tokens \"decentralized Ponzi schemes.\"",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Better Crypto Buy: Bitcoin vs. Dogecoin? Here's the 1 to Buy for 2026.",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "SEC Commissioner Hester Peirce on ETFs: 'We want to work with people on new products'",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "HYPE news: Grayscale wants to bring the world's hottest crypto trading frenzy to your brokerage account",
+        "title": "Crypto slides as Iran conflict shakes risk appetite (BTC-USD:Cryptocurrency)",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774114906.5288317,
+    "cached_at": 1774201311.4678833,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "db4cf0fe883cd8d987c633ca7c9adb75314597f893f367cbf745e8aa11ded4e3": {
     "data": [
       {
-        "title": "Diablo Immortal arranca su hoja de ruta 2026 con Andariel, nuevo PvP y eventos inéditos",
+        "title": "Más trabajo en casa y otras 9 medidas de la AIE ante el colapso mundial del petróleo | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://latam.ign.com/diablo-immortal-1/112069/news/diablo-immortal-andariel"
+        "url": "https://es.wired.com/articulos/mas-trabajo-en-casa-y-otras-9-medidas-de-la-aie-ante-el-colapso-del-petroleo"
       },
       {
-        "title": "Polymarket continues its partnership spree with a Major League Baseball deal | TechCrunch",
+        "title": "El universo palpita en tus átomos: las ondas gravitacionales dejan huella en la luz que emites | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/"
+        "url": "https://es.wired.com/articulos/el-universo-palpita-en-tus-atomos-las-ondas-gravitacionales-dejan-huella-en-la-luz-que-emites"
       },
       {
-        "title": "AI startups are eating the venture industry and the returns, so far, are good | TechCrunch",
+        "title": "Looks like Sam Bankman-Fried is angling for a pardon. | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/"
+        "url": "https://www.theverge.com/politics/898646/looks-like-sam-bankman-fried-is-angling-for-a-pardon"
+      },
+      {
+        "title": "Are AI tokens the new signing bonus or just a cost of doing business? | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/"
       }
     ],
-    "cached_at": 1774114907.0711708,
+    "cached_at": 1774201312.0695586,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
