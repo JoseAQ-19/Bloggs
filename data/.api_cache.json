@@ -216,53 +216,60 @@
   "cddff883eee8ba79205166d8431aed7738bd3bb0724b8d87f5f17a2a8cc26039": {
     "data": [
       {
-        "title": "Reven vs ElMillor: el reto viral de 2021 que Ibai Llanos puede activar en La Velada del Año",
+        "title": "LIV South Africa: Una pelea entre aficionados se hace viral",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Filosofía viral, una sociedad victimista",
+        "title": "Las mejores orquestas y la más viral de España juntas en la mayor fiesta de Semana Santa de Galicia",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "“Soy la borrasca Therese y hoy no tengo ganas de llover”: el vídeo viral del humorista canario Aarón Gómez que arrasa en redes",
+        "title": "Vinícius Junior explicó el motivo de su viral festejo ante Manchester City",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Un vídeo viral del puente de Mahoma reabre el debate sobre la prudencia en el Aneto",
+        "title": "El encontronazo entre un sacerdote de Málaga y una enfermera que se ha hecho viral",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "“Me da vergüenza comprar en la carnicería”: los 5 trucos virales para saber qué pedir",
+        "title": "Ni reverencias ni tensión: el encuentro viral de la reina Sofía y Carlos Alcaraz en Miami",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774130857.3542562,
+    "cached_at": 1774217302.8459172,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
   "a362792cc6b4faf81d359ce19013ff8b6c624ffb2aada45d97ffec0e5515eba1": {
     "data": [
       {
-        "title": "Más de la mitad de los adolescentes en EEUU usa IA para crear imágenes sexualizadas",
+        "title": "La Generación Z y los Boomers están perdiendo 5,3 horas de trabajo a la semana y el precio a pagar es de 56.000 millones",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/tecnologia/mas-mitad-los-adolescentes-eeuu-usa-ia-para-crear-imagenes-sexualizadas_6947878_0.html"
+        "url": "https://www.3djuegos.com/3djuegos-trivia/noticias/generacion-z-boomers-no-se-soportan-trabajo-estudio-ha-descubierto-que-precio-a-pagar-56-000-millones"
+      },
+      {
+        "title": "No es por venderos humo, pero la gran noticia de Dragon Ball que esperaban sus fans por fin da señales de estar cercana",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://www.3djuegos.com/manga-anime/noticias/no-venderos-humo-gran-noticia-dragon-ball-que-esperaban-sus-fans-fin-da-senales-estar-cercana"
       },
       {
         "title": "Guerra abierta entre Emilia Mernes, Tini Stoessel y María Becerra - AS.com",
@@ -272,21 +279,14 @@
         "url": "https://as.com/tikitakas/famosos/guerra-abierta-entre-emilia-mernes-tini-stoessel-y-maria-becerra-f202603-n/"
       },
       {
-        "title": "Ya sabemos a partir de qué edad los efectos del móvil en la salud mental de los niños cambian radicalmente: los 16 años",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "http://xataka.com/investigacion/llevamos-anos-midiendo-tiempo-pantalla-adolescentes-ciencia-dice-que-verdadero-peligro-otro"
-      },
-      {
-        "title": "Pedro Sánchez anuncia una rebaja fiscal en carburantes de hasta 30 céntimos por litro",
+        "title": "China crea un material 10 veces más resistente que el acero y ya puede fabricarlo a gran escala\t - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/economia/pedro-sanchez-anuncia-rebaja-fiscalidad-carburantes_6948641_0.html"
+        "url": "https://as.com/actualidad/ciencia/china-crea-un-material-10-veces-mas-resistente-que-el-acero-y-ya-puede-fabricarlo-a-gran-escala-f202603-n/"
       }
     ],
-    "cached_at": 1774130858.105945,
+    "cached_at": 1774217303.4836583,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
