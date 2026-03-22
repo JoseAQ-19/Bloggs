@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-22T07:32:28.973629+00:00",
+  "scouted_at": "2026-03-22T07:35:38.542291+00:00",
   "total_candidates": 19,
   "topics": [
     {
       "rank": 1,
-      "title": "Vanguard Fee Cuts: Are You Saving Your Share of $250 Million?",
+      "title": "Vanguard Slashes Fees, Saving Investors $250 Million in 2026 Alone",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Mutual Funds Tax Trap: How ETFs Shielded Investors from Loss",
+      "title": "SEC Greenlights ETF Share Classes: A Potential Tax Break for 120 Million?",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Can This New YieldMax ETF (DDDD) Double SCHD's Payout?",
+      "title": "Mutual Funds Taxed Investors on Losses? ETFs Barely Paid a Dime",
       "lang": "en",
       "source": "llm_selected_finance"
     }
@@ -116,32 +116,32 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWlxS1pOUGhveGlYWUVVa3p1ZmVicjZ5YXhvRndfYmt2U0ZLbzA1OUMwZzN1ZE5GNEpLcDVCVW10XzhfSEdhQ3dLWEJPenY3c2hOY2pLZnVWNjR0U0pKc21iSi1yVGJKRlpjbGNCNE9rOEt5V2pIU3NkYi1KZTlBQUVNMGNzb3g3dUNucmNR?oc=5"
     },
     {
-      "title": "Vanguard Slashes Fees Across 53 Funds, Saving Investors Nearly $250 Million in 2026",
+      "title": "Vanguard Slashes Fees Across 53 Funds, Delivering Nearly $250 Million in Savings to Investors in 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Equity ETFs See Net Inflows of $107.3 Billion in February, Representing $997.6 Billion TTM",
+      "title": "SEC Approves ETF Share Classes for Mutual Funds, potentially reducing capital gains taxes for 120 million US investors.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Dimensional US Micro Cap ETF (DFMC) Launches as First Actively Managed ETF Share Class",
+      "title": "J.P. Morgan Launches Equity Premium Yield ETFs ROCY and ROCQ with a competitive pricing of 35 basis points.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "J.P. Morgan Debuts Equity Premium Yield ETFs ROCY and ROCQ, Expanding Derivative Income Suite",
+      "title": "YieldMax DDDD ETF, launched March 11, 2026, holds Schwab US Dividend Equity ETF (SCHD) and writes covered calls to target roughly double SCHD's 3.39% yield.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "YieldMax DDDD ETF (DDDD) Launches, Holding SCHD and Targeting Double its 3.39% Yield Through Options",
+      "title": "Total estimated inflows to long-term mutual funds and ETFs were $16.95 billion for the week ended March 11, 2026; ETF net issuance was $22.76 billion.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Investment Company Institute: Total Estimated ETF Net Issuance Reaches $22.76 Billion for the Week Ended March 11",
+      "title": "Vanguard Extended Market ETF (VXF) Declares Dividend of $0.6546 Per Share on March 20, 2026, with a current dividend yield of 1.15%.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
