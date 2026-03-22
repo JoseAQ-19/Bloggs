@@ -62,77 +62,77 @@
   "4618dd580265f460566f713ecc35b03ce5ab52b17e317eed8d0201579ddcf0d6": {
     "data": [
       {
-        "title": "Eddie Howe issues update on fitness of Newcastle United key man as trio ruled out of Sunderland clash",
+        "title": "Lagree, el método fitness para esculpir el cuerpo como si fueras una ‘celebrity’",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Fitness Park abre en Westfield La Maquinista y aspira a “liderar el fitness en la zona”",
+        "title": "CDO-Fitness factura 46 millones en 2025 y busca nuevas concesione­s",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Adidas Adizero Dropset Elite: cuando el fitness híbrido obliga a reinventar el calzado",
+        "title": "¿Qué es el butter run? Tendencia fitness y viralidad 2026",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "On Air Fitness aterriza en Madrid con un club de 2.200 m2",
+        "title": "El entrenamiento recomendado por el culturista Jeff Nippard y respaldado por la ciencia para desarrollar hombros gigantes en 7 pasos: \"Añadir una repetición a una serie es suficiente para mantener la progresión\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Berriozar acogerá en junio el evento de fitness competitivo “Vektor Forge\"",
+        "title": "Arbeloa: Mbappé’s fitness, Simeone views, Real Madrid before Clásico",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774067752.9485486,
+    "cached_at": 1774154501.4617577,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "f57c7b2f36f1b097c5b6ce234958742b388d8049bb95db71d158ac3ca0835b52": {
     "data": [
       {
-        "title": "La psicología dice que el mejor momento del año para marcarte propósitos no es el 1 de enero: es ahora en primavera",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://magnet.xataka.com/investigacion/llevamos-toda-vida-equivocandonos-propositos-ano-nuevo-ciencia-dice-que-verdadero-reseteo-ocurre-primavera"
-      },
-      {
-        "title": "El cambio físico de Demi Moore, en el punto de mira en Hollywood: “Su cuerpo tiembla” - AS.com",
+        "title": "La FETRI lanza el Hyatlón, la nueva disciplina de resistencia y fitness - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/tikitakas/famosos/el-cambio-fisico-de-demi-moore-en-el-punto-de-mira-en-hollywood-su-cuerpo-tiembla-f202603-n/"
+        "url": "https://as.com/masdeporte/polideportivo/la-fetri-lanza-el-hyatlon-la-nueva-disciplina-de-resistencia-y-fitness-f202603-n/"
       },
       {
-        "title": "Diego Suárez, experto en longevidad: “La avena es el mito de los gimnasios, dispara el azúcar y sirve para engordar gorrinos” - AS.com",
+        "title": "Gerard Moras, doctor experto en entrenamiento: “El velocista nace, en cambio el de resistencia se puede hacer” - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/tikitakas/salud/diego-suarez-experto-en-longevidad-la-avena-es-el-mito-de-los-gimnasios-dispara-el-azucar-y-sirve-para-engordar-gorrinos-f202603-n/"
+        "url": "https://as.com/tikitakas/salud/gerard-moras-doctor-experto-en-entrenamiento-el-velocista-nace-en-cambio-el-de-resistencia-se-puede-hacer-f202603-n/"
       },
       {
-        "title": "LaLiga anuncia cifras récord pero alerta de una amenaza: “Va a arrastrar a todos...” - AS.com",
+        "title": "“El problema era mío... y he descubierto la solución: retroversión de cadera” - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/futbol/primera/laliga-anuncia-cifras-record-pero-alerta-de-una-amenaza-va-a-arrastrar-a-todos-f202603-n/"
+        "url": "https://as.com/masdeporte/atletismo/el-problema-era-mio-y-he-descubierto-la-solucion-retroversion-de-cadera-f202603-n/"
+      },
+      {
+        "title": "Franco Tenaglia: “España va a ser líder del mundo en las MMA”  - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/masdeporte/polideportivo/franco-tenaglia-espana-va-a-ser-lider-del-mundo-en-las-mma-f202603-n/"
       }
     ],
-    "cached_at": 1774067753.449156,
+    "cached_at": 1774154502.018178,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
