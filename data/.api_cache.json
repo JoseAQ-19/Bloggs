@@ -293,20 +293,6 @@
   "6b917a81fd9eedfed0c8175dfe38aafa9e90472ee53445d8e4541e481f95984d": {
     "data": [
       {
-        "title": "Spurs fans respond with pride after video disparaging Hispanic fans goes viral",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Viral Charts",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
         "title": "Spurs address viral TikTok alleging anti-Hispanic remarks, reaffirm inclusion stance",
         "source": "google_news",
         "lang": "en",
@@ -314,56 +300,70 @@
         "url": ""
       },
       {
-        "title": "Viral video of abandoned dog leads to new home",
+        "title": "New details emerge on ICE incident at SFO captured in viral videos",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "UPC long-arm ruling; Coca-Cola viral video; Squires PTAB memo; solid-state battery patent data; IP Bridge sues Geely; plus much more",
+        "title": "Spurs fans respond with pride after video disparaging Hispanic fans goes viral",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Viral video shows trucks driving through water on Lake of the Woods",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Viral video of Michigan man fixing potholes catches city's attention",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774218643.2728384,
+    "cached_at": 1774305390.768793,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
   "78419185a472eac00403a11a229938d32ad88b963bbfbf48284eb0cbba1ee66b": {
     "data": [
       {
-        "title": "Fãs de Homem-Aranha estão convencidos de que trailer de Um Novo Dia foi editado para esconder personagens em cenas específicias",
+        "title": "Mujeres realizan el 75% del trabajo de cuidados en México; el diseño de las ciudades agrava esta desigualdad | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://br.ign.com/homem-aranha-um-novo-dia/151732/news/fas-de-homem-aranha-estao-convencidos-de-que-trailer-de-um-novo-dia-foi-editado-para-esconder-person"
+        "url": "https://es.wired.com/articulos/mujeres-realizan-el-75-del-trabajo-de-cuidados-en-mexico-el-diseno-de-las-ciudades-agrava-esta-desigualdad"
       },
       {
-        "title": "El primer teaser de Sonic 4: La película confirma un regreso muy esperado",
+        "title": "Júpiter y Saturno tienen más lunas de lo que se pensaba | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.ign.com/sonic-the-hedgehog-4-1/227810/news/el-primer-teaser-de-sonic-4-la-pelicula-confirma-un-regreso-muy-esperado"
+        "url": "https://es.wired.com/articulos/jupiter-y-saturno-tienen-mas-lunas-de-lo-que-se-pensaba"
       },
       {
-        "title": "Muere Chuck Norris a los 86 años: Adiós a la leyenda del cine de acción",
+        "title": "Chile invierte 33 veces más en impulsar la industria del litio que en la protección de los salares | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://latam.ign.com/chuck-norris/112083/news/chuck-norris-muere-86-anos-walker-texas-ranger"
+        "url": "https://es.wired.com/articulos/chile-invierte-33-veces-mas-en-impulsar-la-industria-del-litio-que-en-la-proteccion-de-los-salares"
       },
       {
-        "title": "Nintendo está desenvolvendo modelo do Switch 2 com bateria removível, mas a notícia ruim é que não estará disponível para todos os países",
+        "title": "Las bacterias intestinales pueden llegar al cerebro; un estudio con ratones encuentra cómo | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://br.ign.com/nintendo-switch-2/151738/news/nintendo-esta-desenvolvendo-modelo-do-switch-2-com-bateria-removivel-mas-a-noticia-ruim-e-que-nao-es"
+        "url": "https://es.wired.com/articulos/las-bacterias-intestinales-pueden-llegar-al-cerebro-un-estudio-con-ratones-encuentra-como"
       }
     ],
-    "cached_at": 1774218643.9837415,
+    "cached_at": 1774305391.4797497,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
