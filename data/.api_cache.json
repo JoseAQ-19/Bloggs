@@ -1020,14 +1020,28 @@
   "88f30aaa7bab0042d69286b6e1ddf009c9ed8bd38dd824e484b197be702b0cbf": {
     "data": [
       {
-        "title": "REIGN FINAL – ONT 3 , IA 1",
+        "title": "Lynn E. Sorensen Obituary",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "RAW: IA: FALLEN SOLDIER FUNERAL: MAJ JEFFREY O'BRIEN",
+        "title": "Charles Ray Nelson Jr Obituary (2026)",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "A dream becomes real at Ember Market",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "La startup Upstage, spécialisée dans l'IA, est en pourparlers pour acheter 10 000 puces AMD en Corée",
         "source": "google_news",
         "lang": "en",
         "score": 0,
@@ -1039,42 +1053,14 @@
         "lang": "en",
         "score": 0,
         "url": ""
-      },
-      {
-        "title": "2025 IHSAA (IA) State Championship",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Best photos: Iowa women's basketball beats FDU in March Madness",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
       }
     ],
-    "cached_at": 1774179495.1494496,
+    "cached_at": 1774266382.6209297,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
   "5ed87e0a555e160d6f2e7a9ad4294ea2283b3cea14c5520f93b58951f9855102": {
     "data": [
-      {
-        "title": "AI startups are eating the venture industry and the returns, so far, are good | TechCrunch",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/"
-      },
-      {
-        "title": "Microsoft launched a second-generation version of its AI image model. | The Verge",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.theverge.com/tech/897652/microsoft-launched-a-second-generation-version-of-its-ai-image-model"
-      },
       {
         "title": "Trump takes another shot at dismantling state AI regulation | The Verge",
         "source": "exa",
@@ -1083,14 +1069,28 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework"
       },
       {
-        "title": "Trump's AI framework targets state laws, shifts child safety burden to parents | TechCrunch",
+        "title": "Microsoft rolls back some of its Copilot AI bloat on Windows | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/"
+        "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows"
+      },
+      {
+        "title": "Mujeres realizan el 75% del trabajo de cuidados en México; el diseño de las ciudades agrava esta desigualdad | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/mujeres-realizan-el-75-del-trabajo-de-cuidados-en-mexico-el-diseno-de-las-ciudades-agrava-esta-desigualdad"
+      },
+      {
+        "title": "AI startups are eating the venture industry and the returns, so far, are good | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/"
       }
     ],
-    "cached_at": 1774179495.6383455,
+    "cached_at": 1774266383.3340242,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
