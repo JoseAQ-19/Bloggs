@@ -1174,77 +1174,77 @@
   "6e9c6a02969a5e9b67222353d8954d32f29ac7ffcd642500a8a27decc747f088": {
     "data": [
       {
-        "title": "The 5 Best Free Tools to Research Competitive Advantages and Moats",
+        "title": "Cazorla y Cervero: “El día del ascenso se paró el mundo”",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "¿Están Bitmine y Tom Lee invirtiendo $40M en OpenAI? Sí pero no",
+        "title": "Pearl Abbys responde a la gran polémica de Crimson Desert con la IA",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "5 of the Best Free Tools to Screen for High ROIC Companies",
+        "title": "Un jurista israelí señala desde el Wall Street Journal \"como puede castigar Trump a España\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Crypto: RUT at a Crossroads: What the Russell 2000 Tells Us About Market Health",
+        "title": "Pearl Abyss se disculpa por haber incluido arte generado con IA en Crimson Desert y revisará todo el juego",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Láser contra drones: desarrolladores lituanos presentan una tecnología única que es cinco veces más barata que sus equivalentes estadounidenses.",
+        "title": "PathOverDest (By Vahid.Jz) First: estrategia de Kobewong1",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774185760.3904188,
+    "cached_at": 1774273093.6902826,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "d3e0b697eb375d60495f1b6d1f6c436c149ae1e2a919c1ae80263ab8fde1d244": {
     "data": [
       {
-        "title": "Qué es la Inteligencia Artificial General (AGI), la tecnología que apunta a revolucionar nuestro mundo por completo",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/preview/-NjqISfnS7N4GRoCsAiG"
-      },
-      {
-        "title": "El mayor problema de los trenes en la India no es la puntualidad, sino el atropello de elefantes. Están usando IA para salvarlos",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/movilidad/india-tiene-plan-trenes-dejen-atropellar-elefantes-usar-ia"
-      },
-      {
-        "title": "La actualización más importante de Steam en mucho tiempo ya está aquí y prepara el camino para consolidar a Steam Deck/Machine - PC - 3DJuegos",
+        "title": "Elon Musk anuncia una actualización importante del algoritmo de IA de X",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.3djuegos.com/pc/noticias/actualizacion-importante-steam-mucho-tiempo-esta-aqui-prepara-camino-para-futuro-steam-deck-machine"
+        "url": "https://businessinsider.es/big-tech/elon-musk-anuncia-una-actualizacion-importante-algoritmo-ia-x-para-proxima-semana_6948767_0.html"
       },
       {
-        "title": "China avanza en la creación de los robot humanoides con OpenClaw y lanza el mayordomo Bajie",
+        "title": "El gran problema de OpenAI todos estos años ha sido una indefinición crónica. Ahora quiere resolverlo con una superapp",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://www.businessinsider.es/tecnologia/china-avanza-creacion-los-robot-humanoides-con-openclaw-lanza-mayordomo-bajie_6948455_0.html"
+        "url": "https://m.xataka.com/empresas-y-economia/openai-reconoce-que-ano-pasado-lanzaron-demasiados-productos-asi-que-para-solucionarlo-va-a-lanzar-otro-superapp"
+      },
+      {
+        "title": "OpenClaw es el agente de IA que le está volando la cabeza a la industria de la IA. Lo hemos probado: Crossover 1x42",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://m.xataka.com/crossover/openclaw-agente-ia-que-le-esta-volando-cabeza-a-industria-ia-hemos-probado-crossover-1x42"
+      },
+      {
+        "title": "OpenClaw es el agente de IA que le está volando la cabeza a la industria de la IA. Lo hemos probado: Crossover 1x42",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://xataka.com/crossover/openclaw-agente-ia-que-le-esta-volando-cabeza-a-industria-ia-hemos-probado-crossover-1x42"
       }
     ],
-    "cached_at": 1774185760.9435806,
+    "cached_at": 1774273094.2210016,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
