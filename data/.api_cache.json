@@ -552,54 +552,47 @@
   "fb4ad1bcef6d3043168469167a15cb1cb1ab0f544701e2b912c49d41dd73fb7a": {
     "data": [
       {
-        "title": "La FIFA sucumbe al ‘streaming’ y firma a YouTube como plataforma preferente para el Mundial",
+        "title": "YouTube quiere que le valores los videos están generados por IA",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Meta pagará 3.000 dólares a los creadores de YouTube y TikTok para que publiquen en Facebook",
+        "title": "Así es la nueva función que estaría probando YouTube",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "YouTube en Colombia: la lista de los 10 videos más reproducidos que son tendencia hoy",
+        "title": "Video thumbnail for youtube video jch10mqhfmi",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Es un hermoso día para 'Mister Rogers' Neighborhood' en YouTube.",
+        "title": "La Generalitat convoca 40 becas para el catalán en Instagram, Youtube o Tiktok",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Músico estafa por más de 143 millones de pesos a Spotify, YouTube, Apple y Amazon; así fue el fraude",
+        "title": "Estos son los medios que dominan la información política en YouTube en España",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774206603.3059878,
+    "cached_at": 1774293655.0190618,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "cfab165c756760f9672efaf7f54fa3040ac0f24e7b4012e5d64766caf60cfad3": {
     "data": [
-      {
-        "title": "Un youtuber quiso buscar el edificio más antiguo de GTA 5 y descubrió por qué el juego sigue vivo 13 años después - Grand Theft Auto V - 3DJuegos",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://www.3djuegos.com/juegos/grand-theft-auto-v/noticias/youtuber-quiso-buscar-edificio-antiguo-gta-5-descubrio-que-juego-sigue-vivo-13-anos-despues"
-      },
       {
         "title": "La actualización más importante de Steam en mucho tiempo ya está aquí y prepara el camino para consolidar a Steam Deck/Machine - PC - 3DJuegos",
         "source": "exa",
@@ -608,21 +601,28 @@
         "url": "https://www.3djuegos.com/pc/noticias/actualizacion-importante-steam-mucho-tiempo-esta-aqui-prepara-camino-para-futuro-steam-deck-machine"
       },
       {
-        "title": "Nintendo estaría preparando una nueva versión de Switch 2 para Europa, pero sólo traería un cambio y no se trata de una mejora en potencia o gráficos - Nintendo Switch 2 - 3DJuegos",
+        "title": "Un youtuber quiso buscar el edificio más antiguo de GTA 5 y descubrió por qué el juego sigue vivo 13 años después - Grand Theft Auto V - 3DJuegos",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.3djuegos.com/nintendo-switch-2/noticias/nintendo-estaria-preparando-nueva-version-switch-2-para-europa-solo-traeria-cambio-no-se-trata-mejora-potencia-graficos"
+        "url": "https://www.3djuegos.com/juegos/grand-theft-auto-v/noticias/youtuber-quiso-buscar-edificio-antiguo-gta-5-descubrio-que-juego-sigue-vivo-13-anos-despues"
       },
       {
-        "title": "La Generación Z y los Boomers están perdiendo 5,3 horas de trabajo a la semana y el precio a pagar es de 56.000 millones",
+        "title": "La duración de \"un día\" en todos los planetas del Sistema Solar, explicado en un revelador vídeo de solo un minuto",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "http://xataka.com/espacio/cuanto-dura-dia-todos-cada-uno-planetas-sistema-solar-explicado-revelador-video-solo-minuto"
+      },
+      {
+        "title": "No es por venderos humo, pero la gran noticia de Dragon Ball que esperaban sus fans por fin da señales de estar cercana",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.3djuegos.com/3djuegos-trivia/noticias/generacion-z-boomers-no-se-soportan-trabajo-estudio-ha-descubierto-que-precio-a-pagar-56-000-millones"
+        "url": "https://www.3djuegos.com/manga-anime/noticias/no-venderos-humo-gran-noticia-dragon-ball-que-esperaban-sus-fans-fin-da-senales-estar-cercana"
       }
     ],
-    "cached_at": 1774206603.8558042,
+    "cached_at": 1774293655.8538983,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
