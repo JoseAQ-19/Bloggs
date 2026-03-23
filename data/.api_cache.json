@@ -139,42 +139,42 @@
   "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
     "data": [
       {
-        "title": "Marcus Rashford fit again for Barcelona after fitness issues",
+        "title": "Diving into the future of the Aquatic and Fitness Center",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "XPOF Investors Have Opportunity to Join Xponential Fitness, Inc. Fraud Investigation with the Schall Law Firm",
+        "title": "Somatic Fitness Focuses on Calm and Strength",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "GALLERY: Kids end spring break camp with fitness, tug-of-war, and police tours",
+        "title": "Sharks: Youth Sports & Fitness Camp 2026",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Free screenings and fitness for kids in Savannah",
+        "title": "At 86, I still travel — and I do headstands with my wife every day to stay mobile",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "UMich alum brings national fitness franchise TREMBLE to Ann Arbor",
+        "title": "The Desert Sun Events",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774157407.910086,
+    "cached_at": 1774243198.8235102,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
@@ -188,28 +188,28 @@
         "url": "https://www.theverge.com/column/897715/optimizer-protein-proteinmaxxing-proteinwashing-wellness"
       },
       {
-        "title": "Diablo Immortal arranca su hoja de ruta 2026 con Andariel, nuevo PvP y eventos inéditos",
+        "title": "Mujeres realizan el 75% del trabajo de cuidados en México; el diseño de las ciudades agrava esta desigualdad | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://latam.ign.com/diablo-immortal-1/112069/news/diablo-immortal-andariel"
+        "url": "https://es.wired.com/articulos/mujeres-realizan-el-75-del-trabajo-de-cuidados-en-mexico-el-diseno-de-las-ciudades-agrava-esta-desigualdad"
       },
       {
-        "title": "Disney revela las fechas de estreno de Lilo y Stitch 2 y Los Increíbles 3",
+        "title": "Muere Chuck Norris a los 86 años: Adiós a la leyenda del cine de acción",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.ign.com/incredibles-3/227774/news/disney-revela-las-fechas-de-estreno-de-lilo-y-stitch-2-y-los-increibles-3"
+        "url": "https://latam.ign.com/chuck-norris/112083/news/chuck-norris-muere-86-anos-walker-texas-ranger"
       },
       {
-        "title": "Fitbit’s AI health coach will soon be able to read your medical records | The Verge",
+        "title": "Mejoras en la personalización de Forza Horizon 6 y coches Forza Edition más locos que nunca | IGN First",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records"
+        "url": "https://es.ign.com/forza-horizon-6/227806/preview/mejoras-en-la-personalizacion-de-forza-horizon-6-y-coches-forza-edition-mas-locos-que-nunca-ign-firs"
       }
     ],
-    "cached_at": 1774157408.4461396,
+    "cached_at": 1774243199.369461,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
