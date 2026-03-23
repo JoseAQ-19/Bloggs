@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-23T07:33:53.448746+00:00",
-  "total_candidates": 10,
+  "scouted_at": "2026-03-23T07:37:19.534772+00:00",
+  "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "¿BTG ALFA lo ha vuelto a hacer? Rendimientos líderes en su clase con volatilidad sorprendentemente baja.",
+      "title": "ETFs de renta variable europea: ¿dónde han ido a parar los 6.940 millones de euros de esta semana?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "5 ETFs de gran capitalización Eurozona con Rating Gold: ¿están justificados sus múltiplos?",
+      "title": "Rating Gold de Morningstar: ¿por qué estos 5 ETFs de gran capitalización de la Eurozona destacan?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Petróleo al alza: ¿Adiós a la bajada de tipos de la Fed? El impacto real en tu cartera europea.",
+      "title": "Vanguard FTSE All-World UCITS ETF recorta su comisión: ¿cuánto te ahorras ahora al año?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -97,6 +97,36 @@
       "title": "La subida del crudo enfría las expectativas de bajada de tipos de la Fed",
       "source": "rss_morningstar_es",
       "url": "https://www.morningstar.es/es/news/274608/la-subida-del-crudo-enfría-las-expectativas-de-bajada-de-tipos-de-la-fed.aspx"
+    },
+    {
+      "title": "Rize Cybersecurity and Data Privacy UCITS ETF (CYBR) lidera la rentabilidad semanal con un 8.80% en Europa.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "El fondo España Crece, impulsado por el ICO, movilizará 120.000 millones de euros en inversiones productivas más allá de 2026.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Vanguard FTSE All-World UCITS ETF reduce su comisión al 0.19%, ahorrando a los inversores 13.7 millones de dólares anuales.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Los ETF de renta variable europea captan 6.940 millones de euros en flujos netos durante la semana.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "La CNMV centrará su supervisión de sostenibilidad en los planes de transición climática en 2026.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "iShares Physical Gold ETC (IGLN) lidera las entradas netas semanales con 793.43 millones de euros.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
