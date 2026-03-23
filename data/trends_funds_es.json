@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-22T07:22:51.099605+00:00",
-  "total_candidates": 14,
+  "scouted_at": "2026-03-23T07:33:53.448746+00:00",
+  "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "Premios Morningstar 2026: ¿Por qué Inbursa retiene el premio a la mejor Operadora?",
+      "title": "¿BTG ALFA lo ha vuelto a hacer? Rendimientos líderes en su clase con volatilidad sorprendentemente baja.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "RV Global Large Blend: ¿Qué 11 fondos superaron al resto en rentabilidad y por qué?",
+      "title": "5 ETFs de gran capitalización Eurozona con Rating Gold: ¿están justificados sus múltiplos?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Guerra en Irán: ¿Por qué el BCE ya prevé una inflación más alta en 2026?",
+      "title": "Petróleo al alza: ¿Adiós a la bajada de tipos de la Fed? El impacto real en tu cartera europea.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,34 +49,14 @@
   },
   "all_headlines": [
     {
-      "title": "Kunal Kapoor (Morningstar): \"Es poco probable que la IA ayude a predecir el momentum del mercado de manera consistente\"",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUUVkdmFaYTRoMHpPdGU5dlc2cmN6THNCeGllYmR5NW9XeTh5bDJYYmp6MGQ2OTNiaTFpbFNyLUNrUlNMUXJVTVhiM1Jjc0RNS2UyYlR3SzVTZXB0TVB6Z1NjS0swTEhoTjZUNTBpekF6Y0dpMDdkWGUzNDkyX1h2YzhnZ3NYVU1LN3Y4cURzOE8zd085dlVwai1hdEJpR2hOZmp1dVRNdVExajR4ZGU3NF9Rc1BKZTM2b2NvTW95T2hsVU1LOUpjZVV4R3hZYkRjcEI3b3Vma3p1cC0tblBJTzZsWGRJNzhyT0NWVDVSTXFEMDhBU0hneUhsVGlBeGY1T3RWMktGUURlU1IxM1Qxbm1HZkhCbnF4YnFTSDRR0gGIAkFVX3lxTE54NU5hamFsLXVlamV4MnlCX2c2UXFjaEczdllJeURSUHo3clltRDRWeXpzajZjbERjZ3BRUzVkV2ZubndyYVlEWTBZdnBnWC00cURmMjVoc3R6R2FFaVcwbmNpQTJxN3o0YjUybTMyNkJybUZXR29ZZDN3MGx0STkwUVhxOWh1MFNBNkd3a2VOT3R6eUFRbnAzUTl1bXFiYmN4MzdKWU40Unpqak41REN3aXNTYmtaQ2VrYmQ2VFo1MVhjS2xJZ0gxUVJXbURxZktzUXppRE9CdmZRN0E0R1p4SVNRdWlVNExEQVVvLW91TE1EZTNMVlVGakZpNXZaMEhmd0FCSzk3Wg?oc=5"
-    },
-    {
-      "title": "Premios Morningstar 2026: Retiene Inbursa premio a la mejor Operadora",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY0lHUjQxbVVSQVFHYWhMMzctN2pnTkNYRXFmSEQyZk41aGZMMmlWNTdkbkJiWE44OWNzMXVGZUUwdVpuVmFGNkRuRExTSktkcUxPU3NOUVI2dDZVQ0MzUnNpX1ZjQVpYUGJyWThpX0hha1VldUVBb3JpcXVFTTlfcXhCRDVSU3FRUHBvMi1BMFVHdFJmZmJiNDJiNW1NQjVqQUtUOFR4QnpSYU1Sb1ZTVEpFcE1uc0wxWkFUQkNZcW5feG0zcU4yT2laWdIB0AFBVV95cUxOel9qZlNnaGhZaFNma0RVbXhWS3JUY3BzVGJwOXc0UjhzV2JBLXU5THBOUEMzYjdkUmRjT2k5WTFLMkpycFIyR0k1OUlZTXdlTm45c29BaGpJVWtMWHE5WExTbUczTlU5VmVqa013QW1jNVh5MUdneTJPUWxyMXlaN1JsN3kwUlJYamt6Z3ltZmwzRTItdTZ3SWRaY3E2dWxIUFoxYWJjNzROR3ZTZXBZNWdsUnRYVk9OdHpvVjdTbmoySmcteWp5ODZDYTVVd1ow?oc=5"
-    },
-    {
-      "title": "Renta variable México: destacan rendimientos históricos y baja volatilidad del BTG ALFA",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVFFGQkY5aXo2dGxzM0YxQldfblVfSFg5VkxMMG9sSkJzRjhkUlNnclk3UzVmSGp2VE5XZ1NXdE1zalp1elF3Skg0RVB2ODFocW5fZUU3RGxldDJ5eTJFV1RyamhwbnlsRmc5cTkxOXVoenlpb1FmbHhYelBYaVdHcjdWdThPQXp5QnNVUHpRb0NPMEZpS3ZSOGUtQkQza01FZE05YjI0dHJNanZ1TUNKNHg5NzhtNUVkY2piYURJY2l3TGx6TnE5aGVYSnk3dzJtdW8zOXdVWmtyMXU3WkMwajZOdHRGa3fSAecBQVVfeXFMUFRRRkJGOWl6NnRsczNGMUJXX25VX0hYOVZMTDBvbEpCc0Y4ZFJTZ3JZN1M1ZkhqdlROV2dTV3RNc2padXpRd0pINEVQdjgxaHFuX2VFN0RsZXQyeXkyRVdUcmpocG55bEZnOXE5MTl1aHp5aW9RZmx4WHpQWGlXR3I3VnU4T0F6eUJzVVB6UW9DTzBGaUt2UjhlLUJEM2tNRWRNOWIyNHRyTWp2dU1DSjR4OTc4bTVFZGNqYmFESWNpd0xsek5xOWhlWEp5N3cybXVvMzl3VVprcjF1N1pDMGo2TnR0Rmt3?oc=5"
-    },
-    {
-      "title": "Mercado energético ¿Y si la guerra con Irán se prolonga?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYVVCLVh2MEV4SEJ6YUVVMlktUG0tTnZSVzRQVW5ZN0x3a0c3T1FsZkhmRExGcnlkeW1kQjZNcmJyREpRWGRsOXZRSFp4VTUwejNfOEF3TUFPeGt5ZVNINklvQjAzVXRFUkJDOVJVcVlLSkZMT2Z6bVQydDVGanRjR1g0S3FWWmtWLWgza25sd2xOUkJwLVhkb3FsaFpfYVFMVWNUbDM2Y24tdzDSAbABQVVfeXFMUDJFR2lOT2V0cFZ0bWEydkRaWDQ0SVp4NDdwSzJTRGQ3R1F3ZjNsX09vX0lZNndlMFJyam1RcDY0SzVKcEdQRDBMdDJPaXVnNFIwWklaQTYxTWY0MTJGWWRpc0dRMkNNbnZpQVJBUHZ3WTRvU2R5dklkSnpkdUI5djNCNzFUVWlwa2VDYm1VUFl2XzYxekVYT2tqVWloR2xOS0swQUdkRDBmbW14azdIcUY?oc=5"
-    },
-    {
-      "title": "Nueva táctica para inversores y administradores.",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVFJVLWVBdzFLaFptMWVNMHRMQWFhdC1fWU1uQ210RVplZU0zTlk0RGNleUhqVXJKekY0SnZ4ZE9vM0FHbE8tcEVYYU15V0hjUlBHMWJxSW1CbUFSdVNtX0tUdE5OYnYxSjFDRnZ6UkFpNHN2aFBNOHp4aEJhNlVXeQ?oc=5"
-    },
-    {
       "title": "Rendimientos sobresalientes y estabilidad del BTG ALFA",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbC05WHI2cnJtcXR2enk2MHYyZXVWWVhmMng5T1JKWjBRV0VLdEJlaEZyeU9SMTNlLVQ2OVhZM1F6ZGZUVTFKclRfV0tQZ1h1MFl4bWJwaW93NnY4cEZwSVlmcnczdElFTmhIXzBPSDRZeDRZTlB6SnNGYTI4NVRNRmVEQXczWlVXQ3c?oc=5"
+    },
+    {
+      "title": "Invertir en Renta Fija: situación actual y perspectivas",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
     },
     {
       "title": "Mejores apps para invertir con el móvil 2026 (puntuaciones Apple Store y Google Play)",
@@ -84,9 +64,9 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFFzbTBrOHB0eWdtcEVWdEFFMldJQ3RTRWZxR2djZ0cwQmVwLWJFQ0hORmRSREdRQ3BxeG1QVHN0VmEwemFTVmw0bWVrWVR0bWQ4M3JVTHA4a3R0eE9NZm8zVmR2T2VrcW9mNThVN09uRDJjeW5SVHdGcVdEdk14VlFDdXhsOWc?oc=5"
     },
     {
-      "title": "Mejores planes de pensiones para complementar tu jubilación en este momento",
+      "title": "iShares MSCI World Quality Dividend Advanced UCITS ETF (Acc) | IE00BKPSFC54 | A2P3WJ",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOWdwZThKZDlTSEJUaUVGZl9tYUZ3amlGSUtxQVo3Z2dQdmxqRlJ0VWVQLVN2bHc3cC1ka1lYeFhGLW5NQXZQRW91cG5iZGRkVHBkU25MeDdnbEJQUE9wUkRPVXRscDF5RXFSWGstRVZWYkhzQ2hmVnBHQW9oaXd1NlJrMWJqS0VkMkNiY3dCYVZYcFR3UzFhbEJSc0owNF9hTHJDWXVYcTdpdF84ZEtta1l2bGFoejlFTGt1c1pzc3VOOHlQV1FGZWN1eS3SAagBQVVfeXFMT2NmT3h3YWtzVm1PazFVMkFYVmhnWW01MzM1WGNBUUc1ZG5WQVpwUUVNVTQtSnNPRVZyMERLSXpsVHQ3S1dEZXNCNWNxdmxPRVRGbXFXY0E3eUtOUjd2MVJUeWJYc2FvR0lQcUF3RzN3dXRTYmdHR09TSEg3VVV1NUw2eGVBdFRJTmFROFF4cTNkY3piNE9NUHJjRWdKd1F4dmVjQ0VvVVdL?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9udHNMY004NmlqakZwcUktcDVXdnR0cE9MblNVdFp0X0p6QlVONHBfTGZld2c4LUVCZXowYy1PNjRDemFOSURnbHBwODRlekVRcG9KeVREYWJ6QmJl?oc=5"
     },
     {
       "title": "El ETF iShares MSCI World se prepara para un cambio metodológico clave",
