@@ -370,42 +370,42 @@
   "1aa06cf232e59b4099181fc77bc2032cca3f1701bcd8a89857881f3d3a40d006": {
     "data": [
       {
-        "title": "SOLUSD",
+        "title": "BTCUSD",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "¿XRP a $22? Análisis de un experto revela un patrón alcista en el mercado",
+        "title": "De $1K a $1B: El viaje secreto del genio misterioso de las criptos",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Predicción del precio de Avalanche (AVAX) para 2023 2024 2025 2026",
+        "title": "Predicción del precio de TRON (TRX) para 2026 2027 2028",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Precio, gráficos, capitalización de mercado de Power Protocol (POWER)",
+        "title": "Crypto Today: BTC se estabiliza, ETH y XRP enfrentan presión bajista",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Boyaa Interactive planea gastar no más de $70 millones para adquirir criptomonedas.",
+        "title": "Trump to allow crypto in 401(k) plans for US workers: White House",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774195972.3190196,
+    "cached_at": 1774283271.4673715,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
@@ -415,15 +415,15 @@
         "title": "90% of crypto's Illinois primary spending failed to achieve its objective",
         "source": "hackernews",
         "lang": "en",
-        "score": 135,
+        "score": 136,
         "url": "https://www.mollywhite.net/micro/entry/202603172318"
       },
       {
-        "title": "There's a shocking amount of overlap between AI & Crypto/NFT bros",
+        "title": "Cryptographers engage in war of words over RustSec bug reports subsequent ban",
         "source": "hackernews",
         "lang": "en",
-        "score": 9,
-        "url": "https://mystudentfailedtheirmid.substack.com/p/theres-a-shocking-amount-of-overlap"
+        "score": 4,
+        "url": "https://www.theregister.com/2026/03/20/cryptographer_nadim_kobeissi_rustsec_ban/"
       },
       {
         "title": "Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
@@ -433,25 +433,25 @@
         "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html"
       }
     ],
-    "cached_at": 1774195972.665683,
+    "cached_at": 1774283271.7611578,
     "func": "fetch_hackernews",
     "args_summary": "(['crypto'],)"
   },
   "151a07ed322d3cbdd77d65398c3a13cd6a0111c87db69f3fd0b926d706a54d98": {
     "data": [
       {
-        "title": "¿Subirá tipos el BCE? Lagarde se pone en modo vigilante, antesala de las subidas de los tipos de interés",
+        "title": "Las bolsas asiáticas caen en la cuarta semana de guerra contra Irán ante el ultimátum de Trump",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/mercados/bce-lagarde-se-pone-modo-vigilante-antesala-las-subidas-los-tipos-interes_6948327_0.html"
+        "url": "https://www.businessinsider.es/mercados/bolsas-asiaticas-caen-guerra-iran-ultimatum-trump_6949270_0.html"
       },
       {
-        "title": "El movimiento de China que puede cambiar el mercado del petróleo: tiene la mayor reserva del planeta - AS.com",
+        "title": "Hacienda pone el ojo en Bizum, Wallapop y Revolut. Que no cunda el pánico: es su puesta al día en la nueva economía digital",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://as.com/actualidad/politica/el-movimiento-de-china-que-puede-cambiar-el-mercado-del-petroleo-tiene-la-mayor-reserva-del-planeta-f202603-n/"
+        "url": "https://www.xataka.com/empresas-y-economia/hacienda-pone-foco-bizum-wallapop-revolut-no-impuestos-su-puesta-al-dia-nueva-economia-digital"
       },
       {
         "title": "Hacienda retendrá 43 euros al mes del SMI: solo se recuperarán en la declaración de la Renta",
@@ -461,14 +461,14 @@
         "url": "https://www.businessinsider.es/economia/hacienda-retendra-43-euros-mes-smi-solo-se-recuperaran-declaracion-renta_6938170_0.html"
       },
       {
-        "title": "Pedro Sánchez anuncia una rebaja fiscal en carburantes de hasta 30 céntimos por litro",
+        "title": "El gran problema de OpenAI todos estos años ha sido una indefinición crónica. Ahora quiere resolverlo con una superapp",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://www.businessinsider.es/economia/pedro-sanchez-anuncia-rebaja-fiscalidad-carburantes_6948641_0.html"
+        "url": "https://m.xataka.com/empresas-y-economia/openai-reconoce-que-ano-pasado-lanzaron-demasiados-productos-asi-que-para-solucionarlo-va-a-lanzar-otro-superapp"
       }
     ],
-    "cached_at": 1774195973.4036365,
+    "cached_at": 1774283272.2974682,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
