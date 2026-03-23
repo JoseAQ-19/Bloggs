@@ -475,77 +475,77 @@
   "c7dcb72dc33baaa2e522c198717b4b418fcd1e9a91af28dfbac294c4b153973d": {
     "data": [
       {
-        "title": "New crypto regulations likely to be big favor to the Trump family, industry insiders say",
+        "title": "CLARITY Act Update: Crypto and Bank Reps Head to Capitol Hill to Review Stablecoin Deal as Details Remain Under Wraps",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Bitcoin drops below $69,200 as Trump gives 48-hour ultimatum on Iran power plants",
+        "title": "Warren Requests Information From MrBeast About Crypto and Children",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Cryptocurrency & Blockchain Stock News",
+        "title": "Trump regulators forge ahead with crypto rules amid Senate holdups",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Jamie Dimon calls Crypto Tokens \"decentralized Ponzi schemes.\"",
+        "title": "Swiss Private Bank Dynasty Splits Over Clashing Views on Crypto",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Crypto slides as Iran conflict shakes risk appetite (BTC-USD:Cryptocurrency)",
+        "title": "What a cringe photo shoot really tells about the state of the crypto industry",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774201311.4678833,
+    "cached_at": 1774288232.5794647,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "db4cf0fe883cd8d987c633ca7c9adb75314597f893f367cbf745e8aa11ded4e3": {
     "data": [
       {
-        "title": "Más trabajo en casa y otras 9 medidas de la AIE ante el colapso mundial del petróleo | WIRED",
+        "title": "Júpiter y Saturno tienen más lunas de lo que se pensaba | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/mas-trabajo-en-casa-y-otras-9-medidas-de-la-aie-ante-el-colapso-del-petroleo"
+        "url": "https://es.wired.com/articulos/jupiter-y-saturno-tienen-mas-lunas-de-lo-que-se-pensaba"
       },
       {
-        "title": "El universo palpita en tus átomos: las ondas gravitacionales dejan huella en la luz que emites | WIRED",
+        "title": "Cazador o presa: el nuevo rostro de Quel'Thalas en WoW: Midnight",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/el-universo-palpita-en-tus-atomos-las-ondas-gravitacionales-dejan-huella-en-la-luz-que-emites"
+        "url": "https://latam.ign.com/world-of-warcraft/112098/news/cazador-o-presa-el-nuevo-rostro-de-quelthalas-en-wow-midnight"
       },
       {
-        "title": "Looks like Sam Bankman-Fried is angling for a pardon. | The Verge",
+        "title": "'Horizontes Pokémon' temporada 3 parte 2 ya está disponible: nuevos episodios y más aventuras en Netflix",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/politics/898646/looks-like-sam-bankman-fried-is-angling-for-a-pardon"
+        "url": "https://latam.ign.com/horizontes-pokemon/112092/news/horizontes-pokemon-temporada-3"
       },
       {
-        "title": "Are AI tokens the new signing bonus or just a cost of doing business? | TechCrunch",
+        "title": "Mujeres realizan el 75% del trabajo de cuidados en México; el diseño de las ciudades agrava esta desigualdad | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/"
+        "url": "https://es.wired.com/articulos/mujeres-realizan-el-75-del-trabajo-de-cuidados-en-mexico-el-diseno-de-las-ciudades-agrava-esta-desigualdad"
       }
     ],
-    "cached_at": 1774201312.0695586,
+    "cached_at": 1774288233.217596,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
