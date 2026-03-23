@@ -62,54 +62,47 @@
   "4618dd580265f460566f713ecc35b03ce5ab52b17e317eed8d0201579ddcf0d6": {
     "data": [
       {
-        "title": "Lagree, el método fitness para esculpir el cuerpo como si fueras una ‘celebrity’",
+        "title": "Del fitness a LaLiga: marzo mantiene el pulso inversor en el deporte",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "CDO-Fitness factura 46 millones en 2025 y busca nuevas concesione­s",
+        "title": "\"Empecé a practicar Jiu Jitsu a los 31 años y resultó ser el entrenamiento más duro que he hecho en mi vida\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "¿Qué es el butter run? Tendencia fitness y viralidad 2026",
+        "title": "“Si llevas más de un año entrenando en el gimnasio tu cuerpo ya no es hipersensible al estímulo”",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El entrenamiento recomendado por el culturista Jeff Nippard y respaldado por la ciencia para desarrollar hombros gigantes en 7 pasos: \"Añadir una repetición a una serie es suficiente para mantener la progresión\"",
+        "title": "Luz verde a la nueva macroárea comercial de Vigo que contará con un Aldi y un Eroski",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Arbeloa: Mbappé’s fitness, Simeone views, Real Madrid before Clásico",
+        "title": "Tottenham assess Conor Gallagher fitness before crucial Nottingham Forest clash",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774154501.4617577,
+    "cached_at": 1774241325.7678025,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "f57c7b2f36f1b097c5b6ce234958742b388d8049bb95db71d158ac3ca0835b52": {
     "data": [
-      {
-        "title": "La FETRI lanza el Hyatlón, la nueva disciplina de resistencia y fitness - AS.com",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://as.com/masdeporte/polideportivo/la-fetri-lanza-el-hyatlon-la-nueva-disciplina-de-resistencia-y-fitness-f202603-n/"
-      },
       {
         "title": "Gerard Moras, doctor experto en entrenamiento: “El velocista nace, en cambio el de resistencia se puede hacer” - AS.com",
         "source": "exa",
@@ -125,14 +118,21 @@
         "url": "https://as.com/masdeporte/atletismo/el-problema-era-mio-y-he-descubierto-la-solucion-retroversion-de-cadera-f202603-n/"
       },
       {
-        "title": "Franco Tenaglia: “España va a ser líder del mundo en las MMA”  - AS.com",
+        "title": "El ‘correcaminos’ lidera a España con un 800 de ‘PlayStation’ - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/masdeporte/polideportivo/franco-tenaglia-espana-va-a-ser-lider-del-mundo-en-las-mma-f202603-n/"
+        "url": "https://as.com/masdeporte/atletismo/el-correcaminos-lidera-a-espana-con-un-800-de-playstation-8-de-9-semifinalistas-f202603-n/"
+      },
+      {
+        "title": "Sandra Moñino, nutricionista experta en inflamación: “Estas tres grasas no solo ayudan a perder peso, también mejoran el equilibrio hormonal”  - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/tikitakas/salud/sandra-monino-nutricionista-experta-en-inflamacion-estas-tres-grasas-no-solo-ayudan-a-perder-peso-tambien-mejoran-el-equilibrio-hormonal-f202603-n/"
       }
     ],
-    "cached_at": 1774154502.018178,
+    "cached_at": 1774241326.376148,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
