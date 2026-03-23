@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-22T08:47:30.063841+00:00",
-  "total_candidates": 19,
+  "scouted_at": "2026-03-23T07:50:25.878478+00:00",
+  "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "Vanguard Slashes Fees: Investors Save $250 Million in 2026",
+      "title": "Morningstar Awards for Investing Excellence Thailand 2026: Winners Announced | Morningstar Asia",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Mutual Funds Bleed Cash: ETFs See $22.76 Billion Inflows in One Week",
+      "title": "Is Sustainable Investing Dead? No, It’s Taken Root in Conventional Investing",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "US Stocks on Sale: Morningstar Index 7% Below Fair Value",
+      "title": "Morningstar Awards for Investing Excellence Thailand 2026",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -56,14 +56,14 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd05tbmpyM3c4MnhjTHF1QVRsTVNnbTR5SFlXVjlPXzVXSGV2azAzdGlSSXJYb29kcWh4dGxvb05oZ0xNYlhIcjNQVGpaMlV5dndFZGpxREZsVS1TdlEyTVVDbFB2R0QzUWRPVFEwQ2hSS2Z6dy1iSl81X3RSSXR2T2dxU0t0cFo1OW5XUDNrTV9pWlhGMHBxOTN5MGNiZEpWa2tjM0dxS3ZkOFZyV0haVDRPVDc?oc=5"
     },
     {
+      "title": "Is Sustainable Investing Dead? No, It’s Taken Root in Conventional Investing",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTi1wMDlBR2hBOS12OGNUMjBsMlNQYXlObXFFWGpwbnJsekpZM1pLeFRaZVd5NVVrM004R3JiTngyZHRvMXNHV1dheFpHaGl3TEwyRzJaTFY0UGI0aVNKU005Uk9iWlhoVzFlSEJVaGdZTDZiMFRnbXRJWUdjb0xLdHNLdjdjUl9qTVIyajRnX0N5ZFJTYW82eWMyTGs1Zm16M0cwY05wWU90Zw?oc=5"
+    },
+    {
       "title": "Morningstar Awards for Investing Excellence Thailand 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORnl2ZGYwVXlPXzFpQ2tCNHNaR1dWemZQSU8wbW1oZXBQcm1NOGQ3RS03R2hoc0wyaTRzR2xmaVFaMHJRa0FiMl9XdDc1U3hJV3NINHpmR3hHd1VEY0EybE9kNl9kZlYwMnhWVmZiOEJ5bWFsNW9qaEEwVE02UFFkcHNYUDB5MGI1Uk43YVRUZXllWjd4dGs3el9iY2pGaXAyS1N3YVA5MERwX1dxRFRKRXJjaTlzSGZoTFlkeXluQ1NhcGY0aDZQY2xQY055Y1E?oc=5"
-    },
-    {
-      "title": "Mutual funds taxed investors on losses, but ETFs barely owed a dime",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRkktalZsVjkzbUI1S0FxMHE2UUdkNUl1OUxOdDNOTklSampxVXdRWXJ5eUM4LTNmWklpd012cjVxZjVSWjR2Rkk2S0NmeUFYaGNOdm1mYlFLb0ZfeTV6YTRuWGtjS3VUWTdObERuUE84TktLZTBlSGN2NUR3Uy1rTTJFZ3BXMXVRaUhyMGVIVkZBR19NVmhhVEhuWlNBUGc2cHlaTFZFYmk1UWZlS3c?oc=5"
     },
     {
       "title": "Morningstar Recognition Highlights Brand Strength And Dividend Support For Investors",
@@ -71,29 +71,19 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOejdFWGZoTUpveG9oOTVBNnFjODM3Q1JxQjlzei1LUTkwa1JnQVYxNTlfS2dpd0dLcW5aeGlzdUFGQ2hhaVNPNUlybHRaNml3QVlOallMN3I2Q1lianRUQkJmanA1WDhXdTdwLVhDNzlpZjlCU3RFWk9LdFdXWTRGTy1UbzhfNHFnWXFsd3pPY1FteHU3b3pZWEVpZUtSbXNuU3pwbHY5WlFmVHZFem1seFFyeFVqME9MUkFiTk5BZHhfVGhyMUJLR0dNamZ1eUkxVmdDZnR2V0Vyb2tKcXZHbENn0gHiAUFVX3lxTE56N0VYZmhNSm94b2g5NUE2cWM4MzdDUnFCOXN6LUtROTBrUmdBVjE1OV9LZ2l3R0txblp4aXN1QUZDaGFpU081SXJsdFo2aXdBWU5qWUw3cjZDWWJqdFRCQmZqcDVYOFd1N3AtWEM3OWlmOUJTdEVaT0t0V1dZNEZPLVRvOF80cWdZcWx3ek9jUW14dTdvellYRWllS1Jtc25TenBsdjlaUWZUdkV6bWx4UXJ4VWowT0xSQWJOTkFkeF9UaHIxQktHR01qZnV5STFWZ0NmdHZXRXJva0pxdkdsQ2c?oc=5"
     },
     {
-      "title": "Morningstar Awards for Investing Excellence UK 2026: Winners Announced",
+      "title": "Mutual funds taxed investors on losses, but ETFs barely owed a dime",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSEVUYVV3eVl6cmNLMllZYnlsODZKaUtNOXhVSGdRX2NEOEVnbG03a3gtUnhKNmsyZWRJbUJsT2lMb2UyUi1mdjhGYm92YjZzRXRiU3ZlUHBVVFo5MzF6X0tzdk1DVmF4UHE3VFA5c0RZVHZoQmE5eWMtUlpoQVJkMlF5U19iSi1GUncwNmllczAtb0dKN2ZtaVQ2YXNQMWFINjd3ei11WHFGdEtLSkFncTlEN0Izb1Z6RlFIaDRtb051REdZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRkktalZsVjkzbUI1S0FxMHE2UUdkNUl1OUxOdDNOTklSampxVXdRWXJ5eUM4LTNmWklpd012cjVxZjVSWjR2Rkk2S0NmeUFYaGNOdm1mYlFLb0ZfeTV6YTRuWGtjS3VUWTdObERuUE84TktLZTBlSGN2NUR3Uy1rTTJFZ3BXMXVRaUhyMGVIVkZBR19NVmhhVEhuWlNBUGc2cHlaTFZFYmk1UWZlS3c?oc=5"
     },
     {
-      "title": "Top 2 Index Funds to Beat the S&P 500 Over the Next 5 Years, According to Wall Street",
+      "title": "Confluence Investment Management LLC Acquires 10,794 Shares of Morningstar, Inc. $MORN",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VbGhwdEtmdmxkcEhOSGNTcXgya0ZLd0J6bmVnazFkZVhOSEZTZ0VTSlBncm9HQlFtTTR4Z2dCbERqcHdrV1lTcy1qNmxSZlcyaW53VlFYUzZ3cktHdU5TSFdoNmg0TWdBUlJxWGF3R3Nkc1E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRlN4aFlibndLb0gzLVN3YVBzQnYwYVNfSVk1MEtPeTA5b2VEM3k5VnFKLUh2YkNncjZWRzUxaUh6M1dHUDhOSzR3dW1JdEdkV0ZQdEtyZmpfOUFIUVM4T1NScmszVVRoNWZPLU9OXzFCNTdzOFlxdWN4eW04WVpYNHlHcTRnd1Y1ZjR1aWVHWHNnU2JMdWwwTC1xSkE0Wm5OeVNjaE1URmhUQWFvVUZOd0k5STVTTVd5cVo4S3d1ampReXdUaFF1QjBiMk9nd2I5VzA2VFhkSHZpYm8?oc=5"
     },
     {
-      "title": "Best mutual funds awards 2026: Best index funds",
+      "title": "Trip.com Group Limited (TCOM) Class Action Lawsuit: Investors Face May 11, 2026, Deadline",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTUgzWU1Ud2dpSGpISzg3SDhTM1ZTLUJreXVMdGpvQzRKTDkyeXQ5aGdhY19KdXNFRC0tTUpuWlJDMUFBNnNfcjh3dzlVOGpaU3ZtdDFHUk5PdDdvR2lSaVZ3M0doeUZ5eGk0VkJVQkNVOXladFdXU09idi1QaTEzWVBKQXR2TXUtVEdjbXlZel9oUFk4QWlvRXZIVlM?oc=5"
-    },
-    {
-      "title": "The One International ETF Most Retirement Portfolios Are Missing Right Now",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVktTcnVNNnBmQTRkeXJfalNoZTFmQUdDTEVkZWQ4WWNqQ0FOZWZXZnBKd0lacmhHa0xrVml0LXJlVkUwTDBPMlNtLTZRRUQtY05aSjZfVXFXclpYUFBrWkFjWXBJUXVNbUZOYUhEMFlCMFFXa2dsMzd0NHpGNmFXcXVhcXk1NEVzYm84VWIxYmF1cy1nSlo0ekRTcVgtVEY1V09rU2NhX3NyVnk1Y25XbkI0N2l2UnREV2c?oc=5"
-    },
-    {
-      "title": "8 Top-Performing Short-Term Bond Funds",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qb1l3dFZaRktRLXFkTE92M0E1SXJfREplOUtnMXdDcTBENEREZ0tZWlNISkFRVXZrMjltQnNqeC1vTDJqTktQOUJMR3MwNE50Z1FaenJYSS1pM0g5Mk1tUzhvbVhmWGdQQ3pSZzV3b1E2aWFPYVFOY3N4Ykk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbkNlNjR1M0hCQUVjS2RvZ0tSTUh3T2dISDJGSm53U2lTX1JjVF80aTFRb2dFTWdYb3lLUWN4QkFONGw0QTZyN3hYUGEydUxfaVZWZXltcHpiZGNXNXBLRk9ZSldaWnl6QmV5STdzVFo3SmlRV2NiRFZJd2g1VnUyaGRnQVAyQ2NScXhFaHA0a0FzMWRxaDJNdnJJRVN2SnkzVTBNRU1rNW9DMVlZNm1vVnVIc3BZUGI0ZldDQzd5TlRZcWd4TnE4d3BLdG9sM2RZREcyUmwyUW4zc2hf?oc=5"
     },
     {
       "title": "The Best S&P 500 ETF to Invest $500 in Right Now",
@@ -101,47 +91,62 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XLWkzX0NXWFVRXzRKSkRSaWo1WDNCYnVHOWRXUlJHQk96MWlQbVdQRjg0TjBRWEhJaWVXQmZSYl8xcDg1NkFOSnJSNkVFTEZ5Y2FWN1V2NW8talRNVmxlS0M4dUNhRVpfWXU4YnRCUk1BUUU?oc=5"
     },
     {
+      "title": "7 Best Fidelity ETFs to Buy Now | Investing",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9haHhtUnNYTGI2NGVGZjBnclVVbkFuVUs2TmZiWTA3Vnowd0FldmtYMXRJc05jWDFXQkRyU29lXzhZeWI4MGViNXMyQWZPdHVLeFcxUXBRMjlOUVNkTDI4enZkMGY0UHp0a1VvTThNZmxZQ21vdzlueA?oc=5"
+    },
+    {
+      "title": "DAFNA Capital Sells iShares Biotech ETF Shares: Portfolio Impact & ETF Focus",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMnhYNmJvYnJ6R2JscWZ4SC1uQTFMN3BnTUFZUVlTTlZzYXhKZUdIQzJtclJNX0FpUUZVM1BqdHgwX0tOQTA5blhicERVdWU4LXFNV3dQQmtvT2pQVlNrMmJKZ2FnUTByem9zc0RmUkJnUGFVVlhuN0pBa19rR195a2JLakN6ZzJvNl9aZkc4NDM2alNXbnl0Mm9Kcl9BUQ?oc=5"
+    },
+    {
+      "title": "8 Top-Performing Short-Term Bond Funds",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qb1l3dFZaRktRLXFkTE92M0E1SXJfREplOUtnMXdDcTBENEREZ0tZWlNISkFRVXZrMjltQnNqeC1vTDJqTktQOUJMR3MwNE50Z1FaenJYSS1pM0g5Mk1tUzhvbVhmWGdQQ3pSZzV3b1E2aWFPYVFOY3N4Ykk?oc=5"
+    },
+    {
       "title": "Best Mutual Funds Awards 2026: Best Blend Funds",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWU5rOGtvb3UwY0gydVl1TUlUc0dFbGswQmZGT3dkcmVLSFBHWnpsYUtlbWZQZ2M1T3NXZmdSazFoRjhqSmhEMnpWdkFKWWJnUnI1Z0x4bU5qRG10djNFX2JJcFBFeEFWSXRvRFZfWEU0MUpwc0U1cmUxbnlFc0ZQVEFvVWItMXRKZFhoNkFNRE5wWW1iUzdkRTlOdw?oc=5"
     },
     {
-      "title": "7 Best Data Center Stocks, ETFs and REITs to Buy | Investing",
+      "title": "Best mutual funds awards 2026: Best index funds",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTUgzWU1Ud2dpSGpISzg3SDhTM1ZTLUJreXVMdGpvQzRKTDkyeXQ5aGdhY19KdXNFRC0tTUpuWlJDMUFBNnNfcjh3dzlVOGpaU3ZtdDFHUk5PdDdvR2lSaVZ3M0doeUZ5eGk0VkJVQkNVOXladFdXU09idi1QaTEzWVBKQXR2TXUtVEdjbXlZel9oUFk4QWlvRXZIVlM?oc=5"
     },
     {
-      "title": "Northern Stock Index Fund Q4 2025 Commentary (Mutual Fund:NOSIX)",
+      "title": "10 Best Inflation-Proof Investments in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWlxS1pOUGhveGlYWUVVa3p1ZmVicjZ5YXhvRndfYmt2U0ZLbzA1OUMwZzN1ZE5GNEpLcDVCVW10XzhfSEdhQ3dLWEJPenY3c2hOY2pLZnVWNjR0U0pKc21iSi1yVGJKRlpjbGNCNE9rOEt5V2pIU3NkYi1KZTlBQUVNMGNzb3g3dUNucmNR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45Ti1sSzROeEtHVWdVeHlPRTBXTzNmRXh5YkxuUklpbUxnUENDZUQwRzFsa0FGX3lDZko5NDZTZlRXNExiMmNNVGNTLVZiRFVEZGxnZHJKUGlfOUVhN1NxZi1KUFhST0dMRGZJZDQ1VEdrckFoZGpzeGNCdldCZw?oc=5"
     },
     {
-      "title": "Vanguard lowers expense ratios across 53 funds, resulting in $250 million in fee reductions for investors in 2026.",
+      "title": "The One International ETF Most Retirement Portfolios Are Missing Right Now",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVktTcnVNNnBmQTRkeXJfalNoZTFmQUdDTEVkZWQ4WWNqQ0FOZWZXZnBKd0lacmhHa0xrVml0LXJlVkUwTDBPMlNtLTZRRUQtY05aSjZfVXFXclpYUFBrWkFjWXBJUXVNbUZOYUhEMFlCMFFXa2dsMzd0NHpGNmFXcXVhcXk1NEVzYm84VWIxYmF1cy1nSlo0ekRTcVgtVEY1V09rU2NhX3NyVnk1Y25XbkI0N2l2UnREV2c?oc=5"
+    },
+    {
+      "title": "7 Best Fidelity ETFs to Buy Now | Investing",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9haHhtUnNYTGI2NGVGZjBnclVVbkFuVUs2TmZiWTA3Vnowd0FldmtYMXRJc05jWDFXQkRyU29lXzhZeWI4MGViNXMyQWZPdHVLeFcxUXBRMjlOUVNkTDI4enZkMGY0UHp0a1VvTThNZmxZQ21vdzlueA?oc=5"
+    },
+    {
+      "title": "Vanguard's US High-Yield Corporate Bond Index ETF (VCHY), expected to launch in June, will track Bloomberg's US High Yield $250MM 2% Issuer Capped Index.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Total estimated inflows to long-term mutual funds and ETFs were $16.95 billion for the week ended March 11, 2026, with mutual fund outflows of $5.81 billion and ETF net issuance of $22.76 billion.",
+      "title": "WisdomTree launches the WisdomTree Efficient U.S. Plus International Equity Fund (NTSD) with an expense ratio of 0.35%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Equity ETFs had net inflows totaling $107.3 billion in February, bringing trailing 12-months net inflows to $997.6 billion.",
+      "title": "In February 2026, taxable-bond funds saw inflows of $85 billion while large-growth funds experienced outflows of over $18 billion.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "The Morningstar US Market Index is trading at a 7% discount to fair value as of February 27, 2026.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Digital asset investment products saw inflows of US$619M, with Bitcoin dominating flows at US$521M.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "The Federal Reserve is projected to only cut interest rates once in 2026, remaining unchanged at 3.5%-3.75% following its policy meeting.",
+      "title": "BlackRock Utilities Infrastructure & Power Oppty (BUI) trades at a 2.5% discount to NAV with a 6.3% dividend yield.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
