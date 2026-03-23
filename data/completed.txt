@@ -425,3 +425,4 @@ funds: Morningstar Thailand Awards 2026: Identifying Top Funds in a Challenging 
 funds: Morningstar Thailand Awards 2026: Recognizing Investing Excellence, Key Winners Highlighted
 ia: Hospitales del Futuro: IA, Robótica y Genómica Transforman la Salud en Cádiz
 ia: AI Venture Capital: Startups Feast on Funding, Reap Rewards
+tools: Pearl Abyss rectifica: IA fuera de Crimson Desert tras la polémica
