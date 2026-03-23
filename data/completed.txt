@@ -426,3 +426,4 @@ funds: Morningstar Thailand Awards 2026: Recognizing Investing Excellence, Key W
 ia: Hospitales del Futuro: IA, Robótica y Genómica Transforman la Salud en Cádiz
 ia: AI Venture Capital: Startups Feast on Funding, Reap Rewards
 tools: Pearl Abyss rectifica: IA fuera de Crimson Desert tras la polémica
+tools: Next-Gen Heart Health: New Dyslipidemia Guidelines Explained (2026 Edition)
