@@ -1097,6 +1097,13 @@
   "47c2bc6816549fbd4391587ad907de1b4a35f331cc234d17a1e0ece63b6178da": {
     "data": [
       {
+        "title": "Understanding the 2026 Dyslipidemia Guidelines: New Risk Tools for Management",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
         "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
         "source": "google_news",
         "lang": "en",
@@ -1104,47 +1111,33 @@
         "url": ""
       },
       {
-        "title": "Bulloch County Schools to introduce Gen AI tools for high school students",
+        "title": "These Japanese Kitchen Finds Are So Smart, I Wish I Bought Them Sooner",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "AI Coloring Tools",
+        "title": "Conductor Quantum Launches CODA MCP to Integrate Quantum Tools with AI Agents",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "From Hammers to Power Tools: The Evolution of Brain Cancer Care",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Shark devices on sale ahead of Amazon's Big Spring Sale: Stick vacuums, stain removers, hair tools",
+        "title": "Storm Lake Weighs Stronger Tools for Nuisance, Property Code Enforcement",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774190594.253077,
+    "cached_at": 1774277385.7346528,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "92ad7a04052f3c14b23389817cda9215b8114296c6bad566e117afe5cafcbd04": {
     "data": [
-      {
-        "title": "Google Search is now using AI to replace headlines | The Verge",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment"
-      },
       {
         "title": "WordPress.com now lets AI agents write and publish posts, and more | TechCrunch",
         "source": "exa",
@@ -1153,21 +1146,28 @@
         "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more"
       },
       {
-        "title": "News Archive for March 2026 - Page 23 | The Verge",
+        "title": "Mujeres realizan el 75% del trabajo de cuidados en México; el diseño de las ciudades agrava esta desigualdad | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/archives/news/2026/3/23"
+        "url": "https://es.wired.com/articulos/mujeres-realizan-el-75-del-trabajo-de-cuidados-en-mexico-el-diseno-de-las-ciudades-agrava-esta-desigualdad"
       },
       {
-        "title": "News Archive for March 2026 - Page 21 | The Verge",
+        "title": "Microsoft rolls back some of its Copilot AI bloat on Windows | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/archives/news/2026/3/21"
+        "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows"
+      },
+      {
+        "title": "Tech Archive for March 2026 - Page 32 | The Verge",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.theverge.com/archives/tech/2026/3/32"
       }
     ],
-    "cached_at": 1774190594.861188,
+    "cached_at": 1774277386.4349706,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
