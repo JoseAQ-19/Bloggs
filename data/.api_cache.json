@@ -629,21 +629,28 @@
   "9ee96a29d2849810b096fb4ad7845a44fb015972f3144c10f16e0a281e09fb7c": {
     "data": [
       {
-        "title": "Why YouTuber Hank Green Turned Down More Money to Make a Bigger Difference",
+        "title": "YouTube Launches Gemini-Powered Creator Partnerships With AI Matching",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "The golden age of YouTube is behind us",
+        "title": "How to watch full episodes of ‘Matt About Town’ on YouTube!",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "YouTube job scam text: How to spot it fast",
+        "title": "Stephen McCullagh: The undoing of YouTuber's 'live stream' murder alibi",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Don Lemon on Trump, Minnesota and Streaming on YouTube",
         "source": "google_news",
         "lang": "en",
         "score": 0,
@@ -655,51 +662,44 @@
         "lang": "en",
         "score": 0,
         "url": ""
-      },
-      {
-        "title": "“Me at the zoo”: The first-ever video uploaded to YouTube video is being honored in a museum",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
       }
     ],
-    "cached_at": 1774207677.355115,
+    "cached_at": 1774294826.1783445,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "f990e7eff0f3103ac01b2830c939d7dce846fb1e852800a979f12b26b78a0e42": {
     "data": [
       {
-        "title": "Nintendo está desenvolvendo modelo do Switch 2 com bateria removível, mas a notícia ruim é que não estará disponível para todos os países",
+        "title": "'Horizontes Pokémon' temporada 3 parte 2 ya está disponible: nuevos episodios y más aventuras en Netflix",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://br.ign.com/nintendo-switch-2/151738/news/nintendo-esta-desenvolvendo-modelo-do-switch-2-com-bateria-removivel-mas-a-noticia-ruim-e-que-nao-es"
+        "url": "https://latam.ign.com/horizontes-pokemon/112092/news/horizontes-pokemon-temporada-3"
       },
       {
-        "title": "Las III Jornadas Intergeneracionales Gaming unen a mayores, niños y estudiantes a través de los videojuegos",
+        "title": "Cazador o presa: el nuevo rostro de Quel'Thalas en WoW: Midnight",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.ign.com/gaming-explosion/227803/news/las-iii-jornadas-intergeneracionales-gaming-unen-a-mayores-ninos-y-estudiantes-a-traves-de-los-video"
+        "url": "https://latam.ign.com/world-of-warcraft/112098/news/cazador-o-presa-el-nuevo-rostro-de-quelthalas-en-wow-midnight"
       },
       {
-        "title": "Fortnite anticipa crossover con Game of Thrones: Jon Snow y el Rey de la Noche serían los elegidos",
+        "title": "Júpiter y Saturno tienen más lunas de lo que se pensaba | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://latam.ign.com/fortnite/112072/news/fortnite-game-of-thrones"
+        "url": "https://es.wired.com/articulos/jupiter-y-saturno-tienen-mas-lunas-de-lo-que-se-pensaba"
       },
       {
-        "title": "This is Microsoft’s plan to fix Windows 11 | The Verge",
+        "title": "The Last of Us temporada 3 suma a 'Yara' y 'Lev': casting, historia y lo que sabemos",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/news/897834/microsoft-windows-11-quality-performance-commitments-changes"
+        "url": "https://latam.ign.com/the-last-of-us-the-series/112094/news/the-last-of-us-yara-lev-serie"
       }
     ],
-    "cached_at": 1774207678.0122921,
+    "cached_at": 1774294826.9652882,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
