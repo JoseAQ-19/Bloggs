@@ -915,47 +915,54 @@
   "21a068db0cd0ba4e3b3272cddddd6e25dad487d2eb369a2766316588951e7843": {
     "data": [
       {
-        "title": "Onda enseña a empresas y emprendedores a usar la IA para ganar tiempo y multiplicar resultados",
+        "title": "Así será el nuevo Hospital de Cádiz: IA, robótica, genómica y alta resolución",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Nubarrones en los despachos de abogados: la IA ya sustituye algunos puestos",
+        "title": "La IA responsable no solo se regula, también se diseña",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "¿Burbuja asiática en la IA?",
+        "title": "La IA detecta una avería con una imagen y guía su reparación in situ",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La IA, herramienta de precisión en la guerra y arma de desinformación a gran escala",
+        "title": "La IA que analiza el ictus en tiempo real reduce un 27% los nuevos eventos vasculares al año",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Carrera de IA entre EE.UU. y China: un objetivo, dos enfoques muy distintos",
+        "title": "Alerta máxima con el «peligro» de los falsos médicos de la IA: «Es muy preocupante y está pasando»",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774174103.941357,
+    "cached_at": 1774261487.9506762,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
   "712dc6b87821c74ce3310d15eb2faa5011ccf2d0df44b2a976b735ced665ce6e": {
     "data": [
+      {
+        "title": "The Making of IA Notebook",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 2,
+        "url": "https://ia.net/topics/paper-alchemy-the-making-of-ia-notebook"
+      },
       {
         "title": "Buscamos co-fundador técnico para construir una IA que se mide po lo que NO hace",
         "source": "hackernews",
@@ -964,33 +971,19 @@
         "url": "https://thriving-syrniki-5dbe37.netlify.app"
       },
       {
-        "title": "The Making of IA Notebook",
+        "title": "Saaspocalypse: Real or Hype?",
         "source": "hackernews",
         "lang": "en",
-        "score": 1,
-        "url": "https://ia.net/topics/paper-alchemy-the-making-of-ia-notebook"
-      },
-      {
-        "title": "Ask HN: AWS account restricted 18h despite remediation (Case 177385077300217)",
-        "source": "hackernews",
-        "lang": "en",
-        "score": 14,
-        "url": ""
+        "score": 5,
+        "url": "https://iamcharliegraham.substack.com/p/saaspocalypse-real-or-hype"
       }
     ],
-    "cached_at": 1774174104.2794478,
+    "cached_at": 1774261488.1816628,
     "func": "fetch_hackernews",
     "args_summary": "(['ia'],)"
   },
   "46503d41ef4fee113ff718159ee99bd6e87c149d97104b3a6a5f5ddc5f6be1b3": {
     "data": [
-      {
-        "title": "Europa reconfigura su ley de IA: más margen para las empresas, nuevas prohibiciones y dudas sobre el control real",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://businessinsider.es/tecnologia/europa-reconfigura-su-ley-ia-mas-margen-para-las-empresas-nuevas-prohibiciones-dudas-sobre-control-real_6947940_0.html"
-      },
       {
         "title": "Qué es la Inteligencia Artificial General (AGI), la tecnología que apunta a revolucionar nuestro mundo por completo",
         "source": "exa",
@@ -999,11 +992,11 @@
         "url": "https://www.xataka.com/preview/-NjqISfnS7N4GRoCsAiG"
       },
       {
-        "title": "Bill Gates señala tres profesiones que no sucumbirán a la IA  - AS.com",
+        "title": "Europa quiere soberanía en IA: ¿están preparadas las empresas españolas?",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/actualidad/ciencia/bill-gates-senala-tres-profesiones-que-no-sucumbiran-a-la-ia-f202603-n/"
+        "url": "https://www.businessinsider.es/tecnologia/europa-quiere-soberania-ia-estan-preparadas-las-empresas-espanolas_6948386_3.html"
       },
       {
         "title": "El miedo a la IA en guerra crece en USA: presentan ley para poner freno - AS USA",
@@ -1011,9 +1004,16 @@
         "lang": "es",
         "score": 0,
         "url": "https://as.com/us/actualidad/el-miedo-a-la-ia-en-guerra-crece-en-usa-presentan-ley-para-poner-freno-f202603-n/"
+      },
+      {
+        "title": "Bill Gates señala tres profesiones que no sucumbirán a la IA  - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/actualidad/ciencia/bill-gates-senala-tres-profesiones-que-no-sucumbiran-a-la-ia-f202603-n/"
       }
     ],
-    "cached_at": 1774174104.8205914,
+    "cached_at": 1774261488.721039,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
