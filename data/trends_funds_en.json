@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-23T07:53:50.616130+00:00",
+  "scouted_at": "2026-03-23T08:48:31.498329+00:00",
   "total_candidates": 22,
   "topics": [
     {
@@ -131,22 +131,22 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9haHhtUnNYTGI2NGVGZjBnclVVbkFuVUs2TmZiWTA3Vnowd0FldmtYMXRJc05jWDFXQkRyU29lXzhZeWI4MGViNXMyQWZPdHVLeFcxUXBRMjlOUVNkTDI4enZkMGY0UHp0a1VvTThNZmxZQ21vdzlueA?oc=5"
     },
     {
-      "title": "Vanguard Information Technology ETF (VGT) Declares Dividend of $0.7438 per Share on March 20, 2026, a decrease of $0.0132 from the previous dividend.",
+      "title": "Vanguard Energy Index Fund ETF (VDE.US) to go ex-dividend on March 24th, 2026, with a dividend of $0.9689 per share.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard's Target Retirement series commands 37.5% of the $4.8 trillion target-date market with $1.8 trillion in assets, according to Morningstar's 2026 Target-Date Fund Landscape report.",
+      "title": "Vanguard expects to deliver nearly $250 million in savings to investors in 2026 through expense ratio reductions across 53 funds.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "SEC approves rule change concerning the clearing of ETFs with options as underlying components.",
+      "title": "SEC clears path for funds to launch ETF share classes alongside mutual fund share classes, potentially benefiting millions of investors.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "JPMorgan Launches Equity Premium Yield ETF (ROCY) and Nasdaq Equity Premium Yield ETF (ROCQ) on Nasdaq, expanding its derivative income suite.",
+      "title": "Digital asset investment products saw inflows of US$619M, with Bitcoin dominating flows at US$521M.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
