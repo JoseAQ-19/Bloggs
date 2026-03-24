@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-24T07:40:26.734973+00:00",
+  "scouted_at": "2026-03-24T08:46:31.415626+00:00",
   "total_candidates": 20,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar Awards for Investing Excellence Thailand 2026",
+      "title": "Did ETFs Really Save Investors From Tax Bills? Mutual Funds Hit Harder on Losses.",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar puts Invesco income fund under review",
+      "title": "Vanguard Energy ETF (VDE) Soars 65% From Low: Is It Still a Buy After Hitting a 52-Week High?",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar Recognition Highlights Brand Strength And Dividend Support For Investors",
+      "title": "BlackRock Lending Fund Restricts Withdrawals: Are Private Credit Funds Facing a Liquidity Squeeze?",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -121,32 +121,32 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOEVfa2p2MW04QUd3bUg5am9aaUhES2JKR3JtUWRCTGtGaVhGOEFPRHZiZ0pNa0E2cnk0UkFja0FpdjRXdlM0M2htSWhycTdCaUM5c0lIM25saFRJaXBVT290ZEVVS2ZNcVJiVGJ0dk5PUjlUZlNfc0MyZmpHY3kwZXhpRTNsdHhXUWYwdDFUS05sZ2ZLRnkxSElnY05xd1FSXzVoc2RVWDdZMDFXeHlETF9fWHlCZjFuLUc0YmQtaEhXUzZ0Q09kdmhEZXBySE5Ubkxmc0VHSVpES1k?oc=5"
     },
     {
-      "title": "Vanguard Federal Money Market Fund (VMFXX) shows a 7-day SEC yield of 3.58% as of March 20, 2026.",
+      "title": "Vanguard Lowers Expense Ratios on 53 Funds, Delivering Nearly $250 Million in Savings to Investors in 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard expects to deliver nearly $250 million in savings to investors in 2026 through expense ratio reductions across 53 funds.",
+      "title": "Dimensional Launches DFA US Micro Cap ETF (DFMC), First Actively Managed ETF Share Class of an Existing Mutual Fund.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock's HPS Corporate Lending Fund limits withdrawals to 5% after receiving redemption requests for 9.3% of shares, totaling $1.2 billion.",
+      "title": "Total estimated inflows to long-term mutual funds and ETFs were $16.95 billion for the week ended March 11, 2026, with ETF net issuance at $22.76 billion.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Total estimated inflows to long-term mutual funds and ETFs were $16.95 billion for the week ended March 11, 2026, with mutual fund outflows of $5.81 billion and ETF net issuance of $22.76 billion.",
+      "title": "Franklin International Low Volatility High Dividend ETF (LVHI) Outperforms Market, Up 8.3% YTD as of March 18.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "The Franklin International Low Volatility High Dividend ETF (LVHI) is up 8.3% year-to-date as of March 18, 2026, outperforming the Nasdaq Composite and S&P 500.",
+      "title": "Vanguard Energy Index Fund ETF (VDE) Hits New 52-Week High, Up 65.38% From Its 52-Week Low.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Dimensional US Micro Cap ETF (DFMC), the first actively managed ETF share class, began trading on March 20, 2026.",
+      "title": "BlackRock's HPS Corporate Lending Fund Limits Withdrawals to 5% After Redemption Requests Reach 9.3% of Shares.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
