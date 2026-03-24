@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-24T07:26:50.610413+00:00",
+  "scouted_at": "2026-03-24T07:29:00.395226+00:00",
   "total_candidates": 7,
   "topics": [
     {
       "rank": 1,
-      "title": "ETFs Oro con Rating Gold: ¿Por qué estos 5 fondos superan al resto en la Eurozona?",
+      "title": "Eurozona Gold: 5 ETFs de gran capitalización con rendimientos superiores al 12% anual",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "RV Global Large Blend: Descubra los 11 fondos con rentabilidades superiores al 15% anual",
+      "title": "RV Global: 11 fondos 'large blend' que baten al índice, ¿mantendrán la racha?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "iShares MSCI World: El cambio metodológico que podría impactar tu cartera en 2024",
+      "title": "iShares Global Water UCITS ETF: ¿Es el momento de apostar por el agua ante la sequía?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
