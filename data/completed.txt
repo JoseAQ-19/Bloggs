@@ -446,3 +446,4 @@ tools: WWDC26 de Apple: ¿iOS 27 y algo más que IA?
 tools: Modern Tools to Protect Children: South Carolina's Law Enforcement Upgrade
 crypto: Crypto Yields Under Attack: The CLARITY Act's Stablecoin Showdown
 youtube: YouTube: Millones para IA infantil... ¡y guerra contra la IA infantil! ¿Contradicción o estrategia?
+youtube: Meta Addiction Trial: Jury's Still Out - What's Next for Social Media?
