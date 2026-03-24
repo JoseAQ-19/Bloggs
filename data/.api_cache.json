@@ -139,53 +139,60 @@
   "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
     "data": [
       {
-        "title": "Diving into the future of the Aquatic and Fitness Center",
+        "title": "Planet Fitness building in Clovis is ‘not safe to occupy,’ city officials say",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Somatic Fitness Focuses on Calm and Strength",
+        "title": "Why Did Clovis Shut Down Planet Fitness?",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Sharks: Youth Sports & Fitness Camp 2026",
+        "title": "EXEC: Houlihan Lokey Sees Fitness M&A Activity Building on “Banner Year“ in 2025",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "At 86, I still travel — and I do headstands with my wife every day to stay mobile",
+        "title": "Hop in the Pool event to be held at Rock Island Fitness Center to celebrate Easter",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "The Desert Sun Events",
+        "title": "Planet Fitness Mobile Black Card Spa Bus Stops in Toledo For Fan Rebound Experience!",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774243198.8235102,
+    "cached_at": 1774329559.71877,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "5f74b081c9753b13b48c085df1624d184c9deb4bc34d11178f03bbc18aeae64e": {
     "data": [
       {
-        "title": "Much ado about protein | The Verge",
+        "title": "Las bacterias intestinales pueden llegar al cerebro; un estudio con ratones encuentra cómo | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/column/897715/optimizer-protein-proteinmaxxing-proteinwashing-wellness"
+        "url": "https://es.wired.com/articulos/las-bacterias-intestinales-pueden-llegar-al-cerebro-un-estudio-con-ratones-encuentra-como"
+      },
+      {
+        "title": "Las células tienen un “sexto sentido” que podría ser clave para evitar la expansión del cáncer | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/las-celulas-tienen-un-sexto-sentido-que-podria-ser-clave-para-evitar-la-expansion-del-cancer"
       },
       {
         "title": "Mujeres realizan el 75% del trabajo de cuidados en México; el diseño de las ciudades agrava esta desigualdad | WIRED",
@@ -195,21 +202,14 @@
         "url": "https://es.wired.com/articulos/mujeres-realizan-el-75-del-trabajo-de-cuidados-en-mexico-el-diseno-de-las-ciudades-agrava-esta-desigualdad"
       },
       {
-        "title": "Muere Chuck Norris a los 86 años: Adiós a la leyenda del cine de acción",
+        "title": "Júpiter y Saturno tienen más lunas de lo que se pensaba | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://latam.ign.com/chuck-norris/112083/news/chuck-norris-muere-86-anos-walker-texas-ranger"
-      },
-      {
-        "title": "Mejoras en la personalización de Forza Horizon 6 y coches Forza Edition más locos que nunca | IGN First",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.ign.com/forza-horizon-6/227806/preview/mejoras-en-la-personalizacion-de-forza-horizon-6-y-coches-forza-edition-mas-locos-que-nunca-ign-firs"
+        "url": "https://es.wired.com/articulos/jupiter-y-saturno-tienen-mas-lunas-de-lo-que-se-pensaba"
       }
     ],
-    "cached_at": 1774243199.369461,
+    "cached_at": 1774329560.4634416,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
