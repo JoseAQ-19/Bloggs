@@ -370,53 +370,60 @@
   "1aa06cf232e59b4099181fc77bc2032cca3f1701bcd8a89857881f3d3a40d006": {
     "data": [
       {
-        "title": "BTCUSD",
+        "title": "Gráfico del Bitcoin (BTC)",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "De $1K a $1B: El viaje secreto del genio misterioso de las criptos",
+        "title": "Predicción del precio de Neo (NEO) para 2023 2024 2025 2026",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Predicción del precio de TRON (TRX) para 2026 2027 2028",
+        "title": "TRXUSD",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Crypto Today: BTC se estabiliza, ETH y XRP enfrentan presión bajista",
+        "title": "BitGo y SIG Crypto colaboran en el acceso a mercados de predicción",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Trump to allow crypto in 401(k) plans for US workers: White House",
+        "title": "Bitgo y Susquehanna Crypto abren una pasarela OTC a los mercados de predicción para instituciones",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774283271.4673715,
+    "cached_at": 1774369873.465815,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "5c20aedfee12fab17574d9716695b511d7e61e204e2a7e9a7f897f9646417150": {
     "data": [
       {
-        "title": "90% of crypto's Illinois primary spending failed to achieve its objective",
+        "title": "Revolut warns it risks backlash over support for energy-intensive AI and crypto",
         "source": "hackernews",
         "lang": "en",
-        "score": 136,
-        "url": "https://www.mollywhite.net/micro/entry/202603172318"
+        "score": 4,
+        "url": "https://www.theguardian.com/business/2026/mar/24/revolut-ai-crypto-profits-us-banking-licence-uk"
+      },
+      {
+        "title": "WolfGuard: WireGuard with FIPS 140-3 cryptography",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 4,
+        "url": "https://github.com/wolfssl/wolfguard"
       },
       {
         "title": "Cryptographers engage in war of words over RustSec bug reports subsequent ban",
@@ -424,16 +431,9 @@
         "lang": "en",
         "score": 4,
         "url": "https://www.theregister.com/2026/03/20/cryptographer_nadim_kobeissi_rustsec_ban/"
-      },
-      {
-        "title": "Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
-        "source": "hackernews",
-        "lang": "en",
-        "score": 4,
-        "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html"
       }
     ],
-    "cached_at": 1774283271.7611578,
+    "cached_at": 1774369873.8780248,
     "func": "fetch_hackernews",
     "args_summary": "(['crypto'],)"
   },
@@ -447,28 +447,28 @@
         "url": "https://www.businessinsider.es/mercados/bolsas-asiaticas-caen-guerra-iran-ultimatum-trump_6949270_0.html"
       },
       {
-        "title": "Hacienda pone el ojo en Bizum, Wallapop y Revolut. Que no cunda el pánico: es su puesta al día en la nueva economía digital",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/empresas-y-economia/hacienda-pone-foco-bizum-wallapop-revolut-no-impuestos-su-puesta-al-dia-nueva-economia-digital"
-      },
-      {
-        "title": "Hacienda retendrá 43 euros al mes del SMI: solo se recuperarán en la declaración de la Renta",
+        "title": "La Unión Europea cambia las normas del pago en efectivo y así afecta a España",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/economia/hacienda-retendra-43-euros-mes-smi-solo-se-recuperaran-declaracion-renta_6938170_0.html"
+        "url": "https://businessinsider.es/economia/union-europea-cambia-normas-pago-efectivo-espana_6928640_0.html"
       },
       {
-        "title": "El gran problema de OpenAI todos estos años ha sido una indefinición crónica. Ahora quiere resolverlo con una superapp",
+        "title": "Trump suspende el ultimátum y da 5 días a Irán para reabrir Ormuz: las bolsas se disparan",
         "source": "exa",
-        "lang": "en",
+        "lang": "es",
         "score": 0,
-        "url": "https://m.xataka.com/empresas-y-economia/openai-reconoce-que-ano-pasado-lanzaron-demasiados-productos-asi-que-para-solucionarlo-va-a-lanzar-otro-superapp"
+        "url": "https://www.businessinsider.es/mercados/trump-suspende-ultimatum-da-5-dias-iran-para-reabrir-ormuz-las-bolsas-se-disparan_6949436_0.html"
+      },
+      {
+        "title": "Wall Street se agita de nuevo por las palabras de Trump mientras el petróleo cae",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://www.businessinsider.es/mercados/wall-street-se-agita-nuevo-por-las-palabras-trump-mientras-petroleo-cae_6949545_0.html"
       }
     ],
-    "cached_at": 1774283272.2974682,
+    "cached_at": 1774369874.286932,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
