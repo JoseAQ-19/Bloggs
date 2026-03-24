@@ -1062,77 +1062,77 @@
   "47c2bc6816549fbd4391587ad907de1b4a35f331cc234d17a1e0ece63b6178da": {
     "data": [
       {
-        "title": "Understanding the 2026 Dyslipidemia Guidelines: New Risk Tools for Management",
+        "title": "Protecting SC’s children requires modern tools for law enforcement",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
+        "title": "WHO recommends new diagnostic tools to help end TB",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "These Japanese Kitchen Finds Are So Smart, I Wish I Bought Them Sooner",
+        "title": "Fostering the Future by Equipping American Students with AI Tools",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Conductor Quantum Launches CODA MCP to Integrate Quantum Tools with AI Agents",
+        "title": "Mac users can now get Microsoft’s best tools for just $10 each",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Storm Lake Weighs Stronger Tools for Nuisance, Property Code Enforcement",
+        "title": "SK Hynix to buy $8 billion in ASML chipmaking tools in largest disclosed order",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774277385.7346528,
+    "cached_at": 1774363817.4205449,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "92ad7a04052f3c14b23389817cda9215b8114296c6bad566e117afe5cafcbd04": {
     "data": [
       {
-        "title": "WordPress.com now lets AI agents write and publish posts, and more | TechCrunch",
+        "title": "Este mapa interactivo muestra la expansión y afectaciones del derrame en el Golfo de México | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more"
+        "url": "https://es.wired.com/articulos/este-mapa-interactivo-muestra-la-expansion-y-afectaciones-del-derrame-en-el-golfo-de-mexico"
       },
       {
-        "title": "Mujeres realizan el 75% del trabajo de cuidados en México; el diseño de las ciudades agrava esta desigualdad | WIRED",
+        "title": "Mexico City's 'Xoli' Chatbot Will Help World Cup Tourists Navigate the City | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/mujeres-realizan-el-75-del-trabajo-de-cuidados-en-mexico-el-diseno-de-las-ciudades-agrava-esta-desigualdad"
+        "url": "https://www.wired.com/story/mexico-city-xoli-chatbot-world-cup-tourists/"
       },
       {
-        "title": "Microsoft rolls back some of its Copilot AI bloat on Windows | TechCrunch",
+        "title": "Prohibir las redes a menores está de moda, pero Brasil prefiere exigir plataformas menos adictivas | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows"
+        "url": "https://es.wired.com/articulos/prohibir-las-redes-sociales-a-menores-esta-de-moda-pero-brasil-apuesta-por-otra-cosa"
       },
       {
-        "title": "Tech Archive for March 2026 - Page 32 | The Verge",
+        "title": "News Archive for March 2026 - Page 25 | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/archives/tech/2026/3/32"
+        "url": "https://www.theverge.com/archives/news/2026/3/25"
       }
     ],
-    "cached_at": 1774277386.4349706,
+    "cached_at": 1774363817.9855804,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
