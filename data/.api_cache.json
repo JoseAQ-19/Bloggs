@@ -475,77 +475,77 @@
   "c7dcb72dc33baaa2e522c198717b4b418fcd1e9a91af28dfbac294c4b153973d": {
     "data": [
       {
-        "title": "CLARITY Act Update: Crypto and Bank Reps Head to Capitol Hill to Review Stablecoin Deal as Details Remain Under Wraps",
+        "title": "Circle Internet Group Tumbles. Why the Clarity Act Is Crushing Crypto Stocks.",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Warren Requests Information From MrBeast About Crypto and Children",
+        "title": "UPDATE: The CLARITY Act Stablecoin Yield Text Is Out. The Crypto Industry Just Read It. Here Is What It Says.",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Trump regulators forge ahead with crypto rules amid Senate holdups",
+        "title": "The SEC’s New Framework for Crypto Assets Under Howey",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Swiss Private Bank Dynasty Splits Over Clashing Views on Crypto",
+        "title": "SEC/CFTC Issue Joint Interpretation on Crypto Assets",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "What a cringe photo shoot really tells about the state of the crypto industry",
+        "title": "Clarity Act Deal Could Ban Stablecoin Yields; Circle Leads Crypto Sell-Off",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774288232.5794647,
+    "cached_at": 1774374662.5625935,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "db4cf0fe883cd8d987c633ca7c9adb75314597f893f367cbf745e8aa11ded4e3": {
     "data": [
       {
-        "title": "Júpiter y Saturno tienen más lunas de lo que se pensaba | WIRED",
+        "title": "Prohibir las redes a menores está de moda, pero Brasil prefiere exigir plataformas menos adictivas | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/jupiter-y-saturno-tienen-mas-lunas-de-lo-que-se-pensaba"
+        "url": "https://es.wired.com/articulos/prohibir-las-redes-sociales-a-menores-esta-de-moda-pero-brasil-apuesta-por-otra-cosa"
       },
       {
-        "title": "Cazador o presa: el nuevo rostro de Quel'Thalas en WoW: Midnight",
+        "title": "Crisis del petróleo: El combustible de avión se dispara y las aerolíneas ya recortan vuelos | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://latam.ign.com/world-of-warcraft/112098/news/cazador-o-presa-el-nuevo-rostro-de-quelthalas-en-wow-midnight"
+        "url": "https://es.wired.com/articulos/crisis-del-petroleo-el-combustible-de-avion-se-dispara-y-las-aerolineas-ya-recortan-vuelos"
       },
       {
-        "title": "'Horizontes Pokémon' temporada 3 parte 2 ya está disponible: nuevos episodios y más aventuras en Netflix",
+        "title": "El problema con COBOL: el lenguaje de programación que sostiene el mundo pero nadie sabe cómo reemplazar | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://latam.ign.com/horizontes-pokemon/112092/news/horizontes-pokemon-temporada-3"
+        "url": "https://es.wired.com/articulos/cobol-el-lenguaje-de-programacion-que-sostiene-el-mundo-pero-nadie-sabe-como-reemplazar"
       },
       {
-        "title": "Mujeres realizan el 75% del trabajo de cuidados en México; el diseño de las ciudades agrava esta desigualdad | WIRED",
+        "title": "Chile invierte 33 veces más en impulsar la industria del litio que en la protección de los salares | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/mujeres-realizan-el-75-del-trabajo-de-cuidados-en-mexico-el-diseno-de-las-ciudades-agrava-esta-desigualdad"
+        "url": "https://es.wired.com/articulos/chile-invierte-33-veces-mas-en-impulsar-la-industria-del-litio-que-en-la-proteccion-de-los-salares"
       }
     ],
-    "cached_at": 1774288233.217596,
+    "cached_at": 1774374663.171711,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
