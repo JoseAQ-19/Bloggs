@@ -629,60 +629,60 @@
   "9ee96a29d2849810b096fb4ad7845a44fb015972f3144c10f16e0a281e09fb7c": {
     "data": [
       {
-        "title": "YouTube Launches Gemini-Powered Creator Partnerships With AI Matching",
+        "title": "Jury deadlocked in landmark Meta, Youtube social media addiction trial",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "How to watch full episodes of ‘Matt About Town’ on YouTube!",
+        "title": "Google soups up DV360 with more YouTube buying options, Gemini integrations",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Stephen McCullagh: The undoing of YouTuber's 'live stream' murder alibi",
+        "title": "Google’s Commerce Media Suite: Where retailer insights meet the power of YouTube",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Don Lemon on Trump, Minnesota and Streaming on YouTube",
+        "title": "The undoing of YouTuber Stephen McCullagh's 'live stream' murder alibi",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "YouTube",
+        "title": "YouTube star Ms. Rachel joins fight to close Texas ICE facility",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774294826.1783445,
+    "cached_at": 1774381319.1810284,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "f990e7eff0f3103ac01b2830c939d7dce846fb1e852800a979f12b26b78a0e42": {
     "data": [
       {
-        "title": "'Horizontes Pokémon' temporada 3 parte 2 ya está disponible: nuevos episodios y más aventuras en Netflix",
+        "title": "Prohibir las redes a menores está de moda, pero Brasil prefiere exigir plataformas menos adictivas | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://latam.ign.com/horizontes-pokemon/112092/news/horizontes-pokemon-temporada-3"
+        "url": "https://es.wired.com/articulos/prohibir-las-redes-sociales-a-menores-esta-de-moda-pero-brasil-apuesta-por-otra-cosa"
       },
       {
-        "title": "Cazador o presa: el nuevo rostro de Quel'Thalas en WoW: Midnight",
+        "title": "Este mapa interactivo muestra la expansión y afectaciones del derrame en el Golfo de México | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://latam.ign.com/world-of-warcraft/112098/news/cazador-o-presa-el-nuevo-rostro-de-quelthalas-en-wow-midnight"
+        "url": "https://es.wired.com/articulos/este-mapa-interactivo-muestra-la-expansion-y-afectaciones-del-derrame-en-el-golfo-de-mexico"
       },
       {
         "title": "Júpiter y Saturno tienen más lunas de lo que se pensaba | WIRED",
@@ -692,14 +692,14 @@
         "url": "https://es.wired.com/articulos/jupiter-y-saturno-tienen-mas-lunas-de-lo-que-se-pensaba"
       },
       {
-        "title": "The Last of Us temporada 3 suma a 'Yara' y 'Lev': casting, historia y lo que sabemos",
+        "title": "La falta de gravedad en Marte afectaría nuestros cuerpos, pero ¿cuál es el límite seguro? | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://latam.ign.com/the-last-of-us-the-series/112094/news/the-last-of-us-yara-lev-serie"
+        "url": "https://es.wired.com/articulos/la-falta-de-gravedad-en-marte-afectaria-nuestros-cuerpos-pero-cual-es-el-limite-seguro"
       }
     ],
-    "cached_at": 1774294826.9652882,
+    "cached_at": 1774381319.8532958,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
