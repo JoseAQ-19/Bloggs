@@ -985,77 +985,77 @@
   "88f30aaa7bab0042d69286b6e1ddf009c9ed8bd38dd824e484b197be702b0cbf": {
     "data": [
       {
-        "title": "Lynn E. Sorensen Obituary",
+        "title": "736 Federal St Apt 1222, Davenport, IA 52803",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Charles Ray Nelson Jr Obituary (2026)",
+        "title": "Best photos: Iowa women's basketball vs. Virginia",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "A dream becomes real at Ember Market",
+        "title": "Anita Gorden Obituary (2026)",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La startup Upstage, spécialisée dans l'IA, est en pourparlers pour acheter 10 000 puces AMD en Corée",
+        "title": "Warren County supervisors say 'yes' during brief regular meeting",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "NVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual Fidelity For Games",
+        "title": "Marlene Wright Obituary (2026)",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774266382.6209297,
+    "cached_at": 1774352797.6364496,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
   "5ed87e0a555e160d6f2e7a9ad4294ea2283b3cea14c5520f93b58951f9855102": {
     "data": [
       {
-        "title": "Trump takes another shot at dismantling state AI regulation | The Verge",
+        "title": "Prohibir las redes a menores está de moda, pero Brasil prefiere exigir plataformas menos adictivas | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework"
+        "url": "https://es.wired.com/articulos/prohibir-las-redes-sociales-a-menores-esta-de-moda-pero-brasil-apuesta-por-otra-cosa"
       },
       {
-        "title": "Microsoft rolls back some of its Copilot AI bloat on Windows | TechCrunch",
+        "title": "El problema con COBOL: el lenguaje de programación que sostiene el mundo pero nadie sabe cómo reemplazar | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows"
+        "url": "https://es.wired.com/articulos/cobol-el-lenguaje-de-programacion-que-sostiene-el-mundo-pero-nadie-sabe-como-reemplazar"
       },
       {
-        "title": "Mujeres realizan el 75% del trabajo de cuidados en México; el diseño de las ciudades agrava esta desigualdad | WIRED",
+        "title": "Este mapa interactivo muestra la expansión y afectaciones del derrame en el Golfo de México | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/mujeres-realizan-el-75-del-trabajo-de-cuidados-en-mexico-el-diseno-de-las-ciudades-agrava-esta-desigualdad"
+        "url": "https://es.wired.com/articulos/este-mapa-interactivo-muestra-la-expansion-y-afectaciones-del-derrame-en-el-golfo-de-mexico"
       },
       {
-        "title": "AI startups are eating the venture industry and the returns, so far, are good | TechCrunch",
+        "title": "Crisis del petróleo: El combustible de avión se dispara y las aerolíneas ya recortan vuelos | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/"
+        "url": "https://es.wired.com/articulos/crisis-del-petroleo-el-combustible-de-avion-se-dispara-y-las-aerolineas-ya-recortan-vuelos"
       }
     ],
-    "cached_at": 1774266383.3340242,
+    "cached_at": 1774352798.7126522,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
