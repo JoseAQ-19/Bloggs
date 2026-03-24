@@ -62,42 +62,42 @@
   "4618dd580265f460566f713ecc35b03ce5ab52b17e317eed8d0201579ddcf0d6": {
     "data": [
       {
-        "title": "Del fitness a LaLiga: marzo mantiene el pulso inversor en el deporte",
+        "title": "¡ENTRENA CON NOSOTROS EN SEMANA SANTA!",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "\"Empecé a practicar Jiu Jitsu a los 31 años y resultó ser el entrenamiento más duro que he hecho en mi vida\"",
+        "title": "Matrix Fitness patrocinará los Juegos Special Olympics Tarragona 2026",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "“Si llevas más de un año entrenando en el gimnasio tu cuerpo ya no es hipersensible al estímulo”",
+        "title": "'Doctor Aldo', entrenador: «En menopausia o edades avanzadas, empezar a entrenar fuerza marca una gran dife...",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Luz verde a la nueva macroárea comercial de Vigo que contará con un Aldi y un Eroski",
+        "title": "Dictan sentencia sobre el peso muerto y su eficacia: \"Esta es la verdad sobre la fuerza y los beneficios de este ejercicio dentro de un entrenamiento inteligente\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Tottenham assess Conor Gallagher fitness before crucial Nottingham Forest clash",
+        "title": "Mi transformación física después de encontrar esta rutina perfecta que me ha permitido perder peso y ganar músculo a los 46 años: \"Antes me sentía pesada después de comer, pero ahora tengo suficiente energía para hacer ejercicio todos los días\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774241325.7678025,
+    "cached_at": 1774327258.842236,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
@@ -111,28 +111,28 @@
         "url": "https://as.com/tikitakas/salud/gerard-moras-doctor-experto-en-entrenamiento-el-velocista-nace-en-cambio-el-de-resistencia-se-puede-hacer-f202603-n/"
       },
       {
+        "title": "El 'butter run' es la última locura de Internet: correr 20 km para batir tu propia mantequilla. Lo hemos puesto a prueba",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/magnet/butter-run-ultima-locura-internet-correr-20-km-para-batir-tu-propia-mantequilla-hemos-puesto-a-prueba"
+      },
+      {
+        "title": "Antonio Valenzuela, fisioterapeuta: “Tras 12 horas sin comer, el cuerpo comienza a usar las grasas como combustible” - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/tikitakas/salud/antonio-valenzuela-fisioterapeuta-tras-12-horas-sin-comer-el-cuerpo-comienza-a-usar-las-grasas-como-combustible-f202603-n/"
+      },
+      {
         "title": "“El problema era mío... y he descubierto la solución: retroversión de cadera” - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
         "url": "https://as.com/masdeporte/atletismo/el-problema-era-mio-y-he-descubierto-la-solucion-retroversion-de-cadera-f202603-n/"
-      },
-      {
-        "title": "El ‘correcaminos’ lidera a España con un 800 de ‘PlayStation’ - AS.com",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://as.com/masdeporte/atletismo/el-correcaminos-lidera-a-espana-con-un-800-de-playstation-8-de-9-semifinalistas-f202603-n/"
-      },
-      {
-        "title": "Sandra Moñino, nutricionista experta en inflamación: “Estas tres grasas no solo ayudan a perder peso, también mejoran el equilibrio hormonal”  - AS.com",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://as.com/tikitakas/salud/sandra-monino-nutricionista-experta-en-inflamacion-estas-tres-grasas-no-solo-ayudan-a-perder-peso-tambien-mejoran-el-equilibrio-hormonal-f202603-n/"
       }
     ],
-    "cached_at": 1774241326.376148,
+    "cached_at": 1774327259.4976058,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
