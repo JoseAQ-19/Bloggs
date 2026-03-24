@@ -880,42 +880,42 @@
   "21a068db0cd0ba4e3b3272cddddd6e25dad487d2eb369a2766316588951e7843": {
     "data": [
       {
-        "title": "Así será el nuevo Hospital de Cádiz: IA, robótica, genómica y alta resolución",
+        "title": "Dantzerti: \"Egin bedi zure nah-ia\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La IA responsable no solo se regula, también se diseña",
+        "title": "La IA que te conoce pero no te espía: la apuesta de Lenovo para diferenciarse en un mercado saturado de chatbots",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La IA detecta una avería con una imagen y guía su reparación in situ",
+        "title": "Así entrené durante meses a la IA que me quitó el puesto de trabajo",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La IA que analiza el ictus en tiempo real reduce un 27% los nuevos eventos vasculares al año",
+        "title": "Las empresas europeas suspenden en la gobernanza de la IA",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Alerta máxima con el «peligro» de los falsos médicos de la IA: «Es muy preocupante y está pasando»",
+        "title": "The Big Question: ¿puede la IA salvar la sanidad?",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774261487.9506762,
+    "cached_at": 1774347648.010758,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
@@ -929,56 +929,56 @@
         "url": "https://ia.net/topics/paper-alchemy-the-making-of-ia-notebook"
       },
       {
-        "title": "Buscamos co-fundador técnico para construir una IA que se mide po lo que NO hace",
+        "title": "Ask HN: HSL 0.1 – The Human Source License. Please help refining",
         "source": "hackernews",
         "lang": "en",
         "score": 2,
-        "url": "https://thriving-syrniki-5dbe37.netlify.app"
+        "url": ""
       },
       {
-        "title": "Saaspocalypse: Real or Hype?",
+        "title": "Show HN: Per-table access control for DuckLake lakehouses",
         "source": "hackernews",
         "lang": "en",
-        "score": 5,
-        "url": "https://iamcharliegraham.substack.com/p/saaspocalypse-real-or-hype"
+        "score": 2,
+        "url": "https://github.com/berndsen-io/ducklake-guard"
       }
     ],
-    "cached_at": 1774261488.1816628,
+    "cached_at": 1774347648.2320244,
     "func": "fetch_hackernews",
     "args_summary": "(['ia'],)"
   },
   "46503d41ef4fee113ff718159ee99bd6e87c149d97104b3a6a5f5ddc5f6be1b3": {
     "data": [
       {
-        "title": "Qué es la Inteligencia Artificial General (AGI), la tecnología que apunta a revolucionar nuestro mundo por completo",
+        "title": "La IA no podrá ser ni mecánico ni agricultor: el mito del empleo desmontado por Anthropic",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "http://www.businessinsider.es/tecnologia/ia-no-podra-ser-ni-mecanico-ni-agricultor-mito-empleo-desmontado-por-anthropic_6948851_0.html"
+      },
+      {
+        "title": "Mark Zuckerberg se gastó millones en un equipo de \"superinteligencia\". Lo está dedicando a crearle un agente IA personal",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/preview/-NjqISfnS7N4GRoCsAiG"
+        "url": "https://www.xataka.com/robotica-e-ia/pregunta-que-esta-haciendo-equipo-superinteligencia-meta-respuesta-agente-ia-personal-para-zuckerberg"
       },
       {
-        "title": "Europa quiere soberanía en IA: ¿están preparadas las empresas españolas?",
+        "title": "El mayor problema de los trenes en la India no es la puntualidad, sino el atropello de elefantes. Están usando IA para salvarlos",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/movilidad/india-tiene-plan-trenes-dejen-atropellar-elefantes-usar-ia"
+      },
+      {
+        "title": "Que los videojuegos se vean ultra realistas con IA no los hace mejores, y me preocupa que haya gente defendiendo este atropello - PC - 3DJuegos",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/tecnologia/europa-quiere-soberania-ia-estan-preparadas-las-empresas-espanolas_6948386_3.html"
-      },
-      {
-        "title": "El miedo a la IA en guerra crece en USA: presentan ley para poner freno - AS USA",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://as.com/us/actualidad/el-miedo-a-la-ia-en-guerra-crece-en-usa-presentan-ley-para-poner-freno-f202603-n/"
-      },
-      {
-        "title": "Bill Gates señala tres profesiones que no sucumbirán a la IA  - AS.com",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://as.com/actualidad/ciencia/bill-gates-senala-tres-profesiones-que-no-sucumbiran-a-la-ia-f202603-n/"
+        "url": "https://www.3djuegos.com/pc/noticias/filtros-ia-se-estan-cargando-criterio-estetico-toda-generacion"
       }
     ],
-    "cached_at": 1774261488.721039,
+    "cached_at": 1774347648.8058722,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
