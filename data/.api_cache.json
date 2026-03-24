@@ -1139,77 +1139,77 @@
   "6e9c6a02969a5e9b67222353d8954d32f29ac7ffcd642500a8a27decc747f088": {
     "data": [
       {
-        "title": "Cazorla y Cervero: “El día del ascenso se paró el mundo”",
+        "title": "La gestión de la \"Deuda Cognitiva\" en servicios programados con Inteligencia Artificial",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Pearl Abbys responde a la gran polémica de Crimson Desert con la IA",
+        "title": "CVD 24 Aggressive Fuel Oscillator [KNN Engine]: indicador de vietop8",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Un jurista israelí señala desde el Wall Street Journal \"como puede castigar Trump a España\"",
+        "title": "TradingKey",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Pearl Abyss se disculpa por haber incluido arte generado con IA en Crimson Desert y revisará todo el juego",
+        "title": "The difficult challenge of expressing emotions that rarely surface in Ibiza: “Hidden feelings come out and some people even cry”",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "PathOverDest (By Vahid.Jz) First: estrategia de Kobewong1",
+        "title": "Why Shopify (SHOP) Stock Is Trading Up Today",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774273093.6902826,
+    "cached_at": 1774359453.8581293,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "d3e0b697eb375d60495f1b6d1f6c436c149ae1e2a919c1ae80263ab8fde1d244": {
     "data": [
       {
-        "title": "Elon Musk anuncia una actualización importante del algoritmo de IA de X",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://businessinsider.es/big-tech/elon-musk-anuncia-una-actualizacion-importante-algoritmo-ia-x-para-proxima-semana_6948767_0.html"
-      },
-      {
-        "title": "El gran problema de OpenAI todos estos años ha sido una indefinición crónica. Ahora quiere resolverlo con una superapp",
+        "title": "¡Es oficial! Apple anuncia la WWDC26 donde se presentará iOS 27 y todas las novedades de software",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://m.xataka.com/empresas-y-economia/openai-reconoce-que-ano-pasado-lanzaron-demasiados-productos-asi-que-para-solucionarlo-va-a-lanzar-otro-superapp"
+        "url": "https://www.applesfera.com/apple-1/oficial-apple-anuncia-wwdc26-donde-se-presentara-ios-27-todas-novedades-software"
       },
       {
-        "title": "OpenClaw es el agente de IA que le está volando la cabeza a la industria de la IA. Lo hemos probado: Crossover 1x42",
+        "title": "La IA y la borrachera de información en internet han roto la lectura: hoy la verdadera inteligencia está en descartar",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://m.xataka.com/crossover/openclaw-agente-ia-que-le-esta-volando-cabeza-a-industria-ia-hemos-probado-crossover-1x42"
+        "url": "https://www.xataka.com/robotica-e-ia/pregunta-como-sobrevivir-al-tsunami-informacion-era-ia-respuesta-simple-aprendiendo-a-no-leer"
       },
       {
-        "title": "OpenClaw es el agente de IA que le está volando la cabeza a la industria de la IA. Lo hemos probado: Crossover 1x42",
+        "title": "Agua caliente e IA contra la suciedad que no se ve: así es el nuevo robot aspirador y fregona de Dyson para sibaritas de la limpieza",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://xataka.com/crossover/openclaw-agente-ia-que-le-esta-volando-cabeza-a-industria-ia-hemos-probado-crossover-1x42"
+        "url": "https://xataka.com/n/agua-caliente-e-ia-suciedad-que-no-se-ve-asi-nuevo-robot-aspirador-dyson-para-sibaritas-limpieza"
+      },
+      {
+        "title": "Apple confirma la fecha de la WWDC26 y deja entrever algo importante: la IA no será el único foco",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/eventos/apple-confirma-fecha-wwdc26-deja-entrever-algo-importante-ia-no-sera-unico-foco"
       }
     ],
-    "cached_at": 1774273094.2210016,
+    "cached_at": 1774359454.3999426,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
