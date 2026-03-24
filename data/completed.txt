@@ -443,3 +443,4 @@ funds: Morningstar Awards Thailand 2026: Fund X Outperforms Competitor Y by 8%
 ia: IA y Empleo: Anthropic desmitifica el futuro laboral
 ia: COBOL Crisis: The Ancient Code Holding the World Hostage
 tools: WWDC26 de Apple: ¿iOS 27 y algo más que IA?
+tools: Modern Tools to Protect Children: South Carolina's Law Enforcement Upgrade
