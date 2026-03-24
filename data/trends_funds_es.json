@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-23T07:37:19.534772+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-03-24T07:26:50.610413+00:00",
+  "total_candidates": 7,
   "topics": [
     {
       "rank": 1,
-      "title": "ETFs de renta variable europea: ¿dónde han ido a parar los 6.940 millones de euros de esta semana?",
+      "title": "ETFs Oro con Rating Gold: ¿Por qué estos 5 fondos superan al resto en la Eurozona?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Rating Gold de Morningstar: ¿por qué estos 5 ETFs de gran capitalización de la Eurozona destacan?",
+      "title": "RV Global Large Blend: Descubra los 11 fondos con rentabilidades superiores al 15% anual",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Vanguard FTSE All-World UCITS ETF recorta su comisión: ¿cuánto te ahorras ahora al año?",
+      "title": "iShares MSCI World: El cambio metodológico que podría impactar tu cartera en 2024",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,29 +49,19 @@
   },
   "all_headlines": [
     {
-      "title": "Rendimientos sobresalientes y estabilidad del BTG ALFA",
+      "title": "¿Por qué está bajando el precio del oro a pesar de la incertidumbre sobre la guerra con Irán?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbC05WHI2cnJtcXR2enk2MHYyZXVWWVhmMng5T1JKWjBRV0VLdEJlaEZyeU9SMTNlLVQ2OVhZM1F6ZGZUVTFKclRfV0tQZ1h1MFl4bWJwaW93NnY4cEZwSVlmcnczdElFTmhIXzBPSDRZeDRZTlB6SnNGYTI4NVRNRmVEQXczWlVXQ3c?oc=5"
-    },
-    {
-      "title": "Invertir en Renta Fija: situación actual y perspectivas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
-    },
-    {
-      "title": "Mejores apps para invertir con el móvil 2026 (puntuaciones Apple Store y Google Play)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFFzbTBrOHB0eWdtcEVWdEFFMldJQ3RTRWZxR2djZ0cwQmVwLWJFQ0hORmRSREdRQ3BxeG1QVHN0VmEwemFTVmw0bWVrWVR0bWQ4M3JVTHA4a3R0eE9NZm8zVmR2T2VrcW9mNThVN09uRDJjeW5SVHdGcVdEdk14VlFDdXhsOWc?oc=5"
-    },
-    {
-      "title": "iShares MSCI World Quality Dividend Advanced UCITS ETF (Acc) | IE00BKPSFC54 | A2P3WJ",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9udHNMY004NmlqakZwcUktcDVXdnR0cE9MblNVdFp0X0p6QlVONHBfTGZld2c4LUVCZXowYy1PNjRDemFOSURnbHBwODRlekVRcG9KeVREYWJ6QmJl?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjNrLWtRVm1uLVZIVFhWRHFQMW1jYm1JekYybEJDOS1QQlpKY1JRMjNiNmhwcGZQQXo3cWhWcEtjU3BhbGp2V3prR1VsM2lOTUZFX0hKTUdlUVQyQ1dTSWh6anJEdFM5NzFROEUyWVVHYUpiYi04SGI5dkFwOVlJekF0NTlwcUU2S3BTa3AzV1pUVlZFeC1VVy1QenJ1RnY3R2NoWUpRbW9JZlNGdnA1R2l5SGxaNGo4STExMnUzd1hDcVdZSXVoOQ?oc=5"
     },
     {
       "title": "El ETF iShares MSCI World se prepara para un cambio metodológico clave",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORm5YWEZDU2d0ZE13QVNSQzZOZEpSUVFBQjBNaFBCeXhSeldXUlRFRTdIbFZpdVVIbk5hVU10anV3U2djMktFbm9aV1dfMDY0STRTc25NRFk0OTJLY3VIZTMxTk02MEJEYWpIaDBYSkhXQ0xjbm51Sm41Nld3VlMtT2R0aEtGOVBuMXAtQzRXc1VEZFVnWFVPQ3BFRmFJaGVrZ0phWFlGcG9XcV9ONGw2RVBUd3FBVnZPbEowVEZkRTRIY3JqN00yNA?oc=5"
+    },
+    {
+      "title": "¿Por qué está bajando el precio del oro a pesar de la incertidumbre sobre la guerra con Irán?",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274645/¿por-qué-está-bajando-el-precio-del-oro-a-pesar-de-la-incertidumbre-sobre-la-guerra-con-irán.aspx"
     },
     {
       "title": "Cinco ETFs de acciones de gran capitalización de la Eurozona con un Rating Gold",
@@ -92,41 +82,6 @@
       "title": "El BCE mantiene los tipos y revisa al alza las previsiones de inflación para 2026 por la guerra en Irán",
       "source": "rss_morningstar_es",
       "url": "https://www.morningstar.es/es/news/274616/el-bce-mantiene-los-tipos-y-revisa-al-alza-las-previsiones-de-inflación-para-2026-por-la-guerra-en-irán-.aspx"
-    },
-    {
-      "title": "La subida del crudo enfría las expectativas de bajada de tipos de la Fed",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274608/la-subida-del-crudo-enfría-las-expectativas-de-bajada-de-tipos-de-la-fed.aspx"
-    },
-    {
-      "title": "Rize Cybersecurity and Data Privacy UCITS ETF (CYBR) lidera la rentabilidad semanal con un 8.80% en Europa.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "El fondo España Crece, impulsado por el ICO, movilizará 120.000 millones de euros en inversiones productivas más allá de 2026.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Vanguard FTSE All-World UCITS ETF reduce su comisión al 0.19%, ahorrando a los inversores 13.7 millones de dólares anuales.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Los ETF de renta variable europea captan 6.940 millones de euros en flujos netos durante la semana.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "La CNMV centrará su supervisión de sostenibilidad en los planes de transición climática en 2026.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "iShares Physical Gold ETC (IGLN) lidera las entradas netas semanales con 793.43 millones de euros.",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }

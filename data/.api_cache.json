@@ -706,31 +706,10 @@
   "0808acfa9b50a7c0e5b5781f63475f3588580dfb5b58a15baae65a6af4552394": {
     "data": [
       {
-        "title": "Rendimientos sobresalientes y estabilidad del BTG ALFA",
+        "title": "¿Por qué está bajando el precio del oro a pesar de la incertidumbre sobre la guerra con Irán?",
         "source": "google_news_finance",
         "lang": "es",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbC05WHI2cnJtcXR2enk2MHYyZXVWWVhmMng5T1JKWjBRV0VLdEJlaEZyeU9SMTNlLVQ2OVhZM1F6ZGZUVTFKclRfV0tQZ1h1MFl4bWJwaW93NnY4cEZwSVlmcnczdElFTmhIXzBPSDRZeDRZTlB6SnNGYTI4NVRNRmVEQXczWlVXQ3c?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Invertir en Renta Fija: situación actual y perspectivas",
-        "source": "google_news_finance",
-        "lang": "es",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Mejores apps para invertir con el móvil 2026 (puntuaciones Apple Store y Google Play)",
-        "source": "google_news_finance",
-        "lang": "es",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFFzbTBrOHB0eWdtcEVWdEFFMldJQ3RTRWZxR2djZ0cwQmVwLWJFQ0hORmRSREdRQ3BxeG1QVHN0VmEwemFTVmw0bWVrWVR0bWQ4M3JVTHA4a3R0eE9NZm8zVmR2T2VrcW9mNThVN09uRDJjeW5SVHdGcVdEdk14VlFDdXhsOWc?oc=5",
-        "score": 0
-      },
-      {
-        "title": "iShares MSCI World Quality Dividend Advanced UCITS ETF (Acc) | IE00BKPSFC54 | A2P3WJ",
-        "source": "google_news_finance",
-        "lang": "es",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9udHNMY004NmlqakZwcUktcDVXdnR0cE9MblNVdFp0X0p6QlVONHBfTGZld2c4LUVCZXowYy1PNjRDemFOSURnbHBwODRlekVRcG9KeVREYWJ6QmJl?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjNrLWtRVm1uLVZIVFhWRHFQMW1jYm1JekYybEJDOS1QQlpKY1JRMjNiNmhwcGZQQXo3cWhWcEtjU3BhbGp2V3prR1VsM2lOTUZFX0hKTUdlUVQyQ1dTSWh6anJEdFM5NzFROEUyWVVHYUpiYi04SGI5dkFwOVlJekF0NTlwcUU2S3BTa3AzV1pUVlZFeC1VVy1QenJ1RnY3R2NoWUpRbW9JZlNGdnA1R2l5SGxaNGo4STExMnUzd1hDcVdZSXVoOQ?oc=5",
         "score": 0
       },
       {
@@ -741,12 +720,19 @@
         "score": 0
       }
     ],
-    "cached_at": 1774251077.3479989,
+    "cached_at": 1774337131.3316815,
     "func": "fetch_financial_news",
     "args_summary": "()"
   },
   "f7b8ca30d7cd5e551117ce748b5369c972410b6be5bb1c2c4d78da8fd3a1c8c5": {
     "data": [
+      {
+        "title": "¿Por qué está bajando el precio del oro a pesar de la incertidumbre sobre la guerra con Irán?",
+        "source": "rss_morningstar_es",
+        "lang": "es",
+        "url": "https://www.morningstar.es/es/news/274645/¿por-qué-está-bajando-el-precio-del-oro-a-pesar-de-la-incertidumbre-sobre-la-guerra-con-irán.aspx",
+        "score": 0
+      },
       {
         "title": "Cinco ETFs de acciones de gran capitalización de la Eurozona con un Rating Gold",
         "source": "rss_morningstar_es",
@@ -774,16 +760,9 @@
         "lang": "es",
         "url": "https://www.morningstar.es/es/news/274616/el-bce-mantiene-los-tipos-y-revisa-al-alza-las-previsiones-de-inflación-para-2026-por-la-guerra-en-irán-.aspx",
         "score": 0
-      },
-      {
-        "title": "La subida del crudo enfría las expectativas de bajada de tipos de la Fed",
-        "source": "rss_morningstar_es",
-        "lang": "es",
-        "url": "https://www.morningstar.es/es/news/274608/la-subida-del-crudo-enfría-las-expectativas-de-bajada-de-tipos-de-la-fed.aspx",
-        "score": 0
       }
     ],
-    "cached_at": 1774251077.900545,
+    "cached_at": 1774337131.7470753,
     "func": "fetch_competitor_rss",
     "args_summary": "()"
   },
