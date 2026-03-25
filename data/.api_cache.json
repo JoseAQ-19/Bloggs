@@ -1181,77 +1181,77 @@
   "6e9c6a02969a5e9b67222353d8954d32f29ac7ffcd642500a8a27decc747f088": {
     "data": [
       {
-        "title": "La gestión de la \"Deuda Cognitiva\" en servicios programados con Inteligencia Artificial",
+        "title": "Intel mejora el rendimiento “gratis” con su Binary Optimization Tool, pero Geekbench cuestiona sus resultados",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "CVD 24 Aggressive Fuel Oscillator [KNN Engine]: indicador de vietop8",
+        "title": "La tecnología de Avid, protagonista en las películas ganadores de los Oscar",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "TradingKey",
+        "title": "Lowe's expande herramientas Kreg Power Tools para potenciar capacidades DIY en el hogar",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "The difficult challenge of expressing emotions that rarely surface in Ibiza: “Hidden feelings come out and some people even cry”",
+        "title": "Chivas Femenil, with the tools to compete against anyone in the CL26",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Why Shopify (SHOP) Stock Is Trading Up Today",
+        "title": "Why Salesforce (CRM) Shares Are Getting Obliterated Today",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774359453.8581293,
+    "cached_at": 1774445857.9443393,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "d3e0b697eb375d60495f1b6d1f6c436c149ae1e2a919c1ae80263ab8fde1d244": {
     "data": [
       {
-        "title": "¡Es oficial! Apple anuncia la WWDC26 donde se presentará iOS 27 y todas las novedades de software",
+        "title": "OpenAI parecía imparable. Ahora ha decidido dejar atrás Sora y cambiar de rumbo",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.applesfera.com/apple-1/oficial-apple-anuncia-wwdc26-donde-se-presentara-ios-27-todas-novedades-software"
+        "url": "https://www.xataka.com/robotica-e-ia/openai-parecia-imparable-ahora-ha-decidido-dejar-atras-sora-cambiar-rumbo"
       },
       {
-        "title": "La IA y la borrachera de información en internet han roto la lectura: hoy la verdadera inteligencia está en descartar",
+        "title": "Google ha encontrado la solución al 'AI slop' infantil en YouTube: más IA para niños en YouTube (pero de calidad)",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/pregunta-como-sobrevivir-al-tsunami-informacion-era-ia-respuesta-simple-aprendiendo-a-no-leer"
+        "url": "http://t.xataka.com/robotica-e-ia/youtube-invierte-millon-contenido-ia-para-ninos-justo-cuando-acaba-declarar-guerra-al-contenido-ia-para-ninos"
       },
       {
-        "title": "Agua caliente e IA contra la suciedad que no se ve: así es el nuevo robot aspirador y fregona de Dyson para sibaritas de la limpieza",
+        "title": "Huawei lleva seis años maquinando un plan y ahora están listos destronar a la indestronable: NVIDIA",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://xataka.com/n/agua-caliente-e-ia-suciedad-que-no-se-ve-asi-nuevo-robot-aspirador-dyson-para-sibaritas-limpieza"
+        "url": "https://www.xataka.com/robotica-e-ia/huawei-lleva-seis-anos-maquinando-plan-ahora-estan-listos-destronar-a-indestronable-nvidia"
       },
       {
-        "title": "Apple confirma la fecha de la WWDC26 y deja entrever algo importante: la IA no será el único foco",
+        "title": "Apple prepara su evento más esperado en años. iOS 27 será la punta de lanza de su nueva IA con Google",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/eventos/apple-confirma-fecha-wwdc26-deja-entrever-algo-importante-ia-no-sera-unico-foco"
+        "url": "http://t.applesfera.com/rumores/que-novedades-podemos-esperar-wwdc26-apple-protagonizada-ia-google"
       }
     ],
-    "cached_at": 1774359454.3999426,
+    "cached_at": 1774445858.51157,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
