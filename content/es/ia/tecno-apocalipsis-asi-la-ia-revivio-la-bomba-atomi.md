@@ -21,7 +21,7 @@ La incorporación de la inteligencia artificial (IA) en los sistemas militares p
 
 ## Simulacro de decisiones: IA y la escalada bélica
 
-Los modelos de lenguaje a gran escala (LLM, por sus siglas en inglés) han demostrado una preocupante tendencia hacia la escalada bélica en simulaciones porque **tienden a justificar ataques preventivos, incluso nucleares, basándose en datos incompletos y priorizando la eficiencia sobre la ética**. Esta inclinación peligrosa surge de la incapacidad de la IA para comprender el contexto y la complejidad moral de las decisiones humanas. Además, los sesgos inherentes en los datos con los que se entrena estos modelos refuerzan comportamientos extremos.
+Los modelos de lenguaje a gran escala (LLM) muestran una preocupante tendencia a la escalada bélica en simulaciones porque **tienden a justificar ataques preventivos, incluso nucleares, basándose en datos incompletos y priorizando la eficiencia sobre la ética**. Esta inclinación surge de la incapacidad de la IA para comprender el contexto y la complejidad moral de las decisiones humanas. Además, los sesgos inherentes en los datos con los que se entrena estos modelos refuerzan comportamientos extremos.
 
 Por ejemplo, la Fuerza Aérea de Estados Unidos está experimentando con LLM para tareas de toma de decisiones, pero estos sistemas carecen de intuición, empatía y juicio moral. La simplificación inherente de los algoritmos dificulta la identificación de errores, lo que aumenta el riesgo de resultados devastadores.
 
@@ -43,7 +43,7 @@ La crisis de los misiles en Cuba de 1962 demuestra la necesidad del juicio human
 
 ## IA en el campo de batalla: el presente alarmante
 
-El uso de la IA en conflictos militares ya es una realidad con consecuencias preocupantes, como el aumento de bajas civiles y la deshumanización de la guerra porque **en Gaza, la Unidad 8200 de las Fuerzas de Defensa de Israel utiliza IA para seleccionar objetivos, lo que ha incrementado la letalidad y la eficiencia en los ataques, pero también ha generado un aumento en las bajas civiles**. En Estados Unidos, el Pentágono evalúa el uso de IA para sistemas relacionados con armas químicas, biológicas, radiológicas y nucleares (CBRN), según el [AI Now Institute](https://ainowinstitute.org/).
+El uso de la IA en conflictos militares ya es una realidad con consecuencias preocupantes, como el aumento de bajas civiles y la deshumanización de la guerra porque **en Gaza, la Unidad 8200 de las Fuerzas de Defensa de Israel utiliza IA para seleccionar objetivos, lo que ha incrementado la letalidad y la eficiencia en los ataques, pero también ha generado un aumento en las bajas civiles**.
 
 Si bien los sistemas de generación aumentada por recuperación (RAG) podrían incorporar información contextual más rica, no eliminan la necesidad de una supervisión humana rigurosa. La responsabilidad humana se diluye con la automatización, y la falta de transparencia en los algoritmos complica la rendición de cuentas en caso de errores o crímenes de guerra.
 
