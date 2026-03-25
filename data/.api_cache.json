@@ -1027,47 +1027,54 @@
   "88f30aaa7bab0042d69286b6e1ddf009c9ed8bd38dd824e484b197be702b0cbf": {
     "data": [
       {
-        "title": "736 Federal St Apt 1222, Davenport, IA 52803",
+        "title": "Breaking News: One Fatality Confirmed in Two-Vehicle Accident Today",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Best photos: Iowa women's basketball vs. Virginia",
+        "title": "IA celebrates innovation with 2025 New Product Contest winners",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Anita Gorden Obituary (2026)",
+        "title": "NVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual Fidelity For Games",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Warren County supervisors say 'yes' during brief regular meeting",
+        "title": "Josh Davis Obituary (2026)",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Marlene Wright Obituary (2026)",
+        "title": "RAW: IA: 1 PERSON KILLED IN EXPLOSION AT SALVAGE YARD",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774352797.6364496,
+    "cached_at": 1774439148.121803,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
   "5ed87e0a555e160d6f2e7a9ad4294ea2283b3cea14c5520f93b58951f9855102": {
     "data": [
+      {
+        "title": "Es oficial: El planeta vive su década más calurosa y la OMM alerta sobre impactos duraderos | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/es-oficial-el-planeta-vive-su-decada-mas-calurosa-y-la-omm-alerta-sobre-impactos-duraderos"
+      },
       {
         "title": "Prohibir las redes a menores está de moda, pero Brasil prefiere exigir plataformas menos adictivas | WIRED",
         "source": "exa",
@@ -1076,28 +1083,21 @@
         "url": "https://es.wired.com/articulos/prohibir-las-redes-sociales-a-menores-esta-de-moda-pero-brasil-apuesta-por-otra-cosa"
       },
       {
+        "title": "OpenAI's plans to make ChatGPT more like Amazon aren't going so well | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/"
+      },
+      {
         "title": "El problema con COBOL: el lenguaje de programación que sostiene el mundo pero nadie sabe cómo reemplazar | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
         "url": "https://es.wired.com/articulos/cobol-el-lenguaje-de-programacion-que-sostiene-el-mundo-pero-nadie-sabe-como-reemplazar"
-      },
-      {
-        "title": "Este mapa interactivo muestra la expansión y afectaciones del derrame en el Golfo de México | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/este-mapa-interactivo-muestra-la-expansion-y-afectaciones-del-derrame-en-el-golfo-de-mexico"
-      },
-      {
-        "title": "Crisis del petróleo: El combustible de avión se dispara y las aerolíneas ya recortan vuelos | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/crisis-del-petroleo-el-combustible-de-avion-se-dispara-y-las-aerolineas-ya-recortan-vuelos"
       }
     ],
-    "cached_at": 1774352798.7126522,
+    "cached_at": 1774439148.703633,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
