@@ -62,77 +62,77 @@
   "4618dd580265f460566f713ecc35b03ce5ab52b17e317eed8d0201579ddcf0d6": {
     "data": [
       {
-        "title": "¡ENTRENA CON NOSOTROS EN SEMANA SANTA!",
+        "title": "La empresa mexicana de 'fitness' Commando adquiere Lapso Studios",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Matrix Fitness patrocinará los Juegos Special Olympics Tarragona 2026",
+        "title": "Murat Yakin not worried over Granit Xhaka fitness ahead of Switzerland friendlies",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "'Doctor Aldo', entrenador: «En menopausia o edades avanzadas, empezar a entrenar fuerza marca una gran dife...",
+        "title": "Lo haces a diario sin darte cuenta: un experto en fitness recomienda este ejercicio para vivir mejor",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Dictan sentencia sobre el peso muerto y su eficacia: \"Esta es la verdad sobre la fuerza y los beneficios de este ejercicio dentro de un entrenamiento inteligente\"",
+        "title": "Recoger basura mientras sales a correr: así es la nueva tendencia fitness que combina deporte y cuidado del medio ambiente",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Mi transformación física después de encontrar esta rutina perfecta que me ha permitido perder peso y ganar músculo a los 46 años: \"Antes me sentía pesada después de comer, pero ahora tengo suficiente energía para hacer ejercicio todos los días\"",
+        "title": "“El Campello fitness” arranca el 27 de marzo con tres días plagados de actividades deportivas junto al mar",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774327258.842236,
+    "cached_at": 1774413767.1703768,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "f57c7b2f36f1b097c5b6ce234958742b388d8049bb95db71d158ac3ca0835b52": {
     "data": [
       {
-        "title": "Gerard Moras, doctor experto en entrenamiento: “El velocista nace, en cambio el de resistencia se puede hacer” - AS.com",
+        "title": "Cocó Constans, creadora del método ‘ffitpilates’: “Los hombres se creen que el pilates no es para ellos” - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/tikitakas/salud/gerard-moras-doctor-experto-en-entrenamiento-el-velocista-nace-en-cambio-el-de-resistencia-se-puede-hacer-f202603-n/"
+        "url": "https://as.com/tikitakas/salud/coco-constans-creadora-del-metodo-ffitpilates-los-hombres-se-creen-que-el-pilates-no-es-para-ellos-f202603-n/"
       },
       {
-        "title": "El 'butter run' es la última locura de Internet: correr 20 km para batir tu propia mantequilla. Lo hemos puesto a prueba",
+        "title": "Descubre las zapatillas de Skechers que están revolucionando el mundo del senderismo - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/showroom/deporte/zapatillas-skechers-hombre-para-senderismo-f202603-n/"
+      },
+      {
+        "title": "Las dos comunidades en las que te puedes deducir la cuota del gimnasio en la Renta con un límite de hasta 300 euros  - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/actualidad/economia/las-dos-comunidades-en-las-que-te-puedes-deducir-la-cuota-del-gimnasio-en-la-renta-con-un-limite-de-hasta-300-euros-f202603-n/"
+      },
+      {
+        "title": "Estamos a un paso de extinguir la obesidad en medio mundo gracias a algo: la patente de Ozempic va a expirar este mes",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/magnet/butter-run-ultima-locura-internet-correr-20-km-para-batir-tu-propia-mantequilla-hemos-puesto-a-prueba"
-      },
-      {
-        "title": "Antonio Valenzuela, fisioterapeuta: “Tras 12 horas sin comer, el cuerpo comienza a usar las grasas como combustible” - AS.com",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://as.com/tikitakas/salud/antonio-valenzuela-fisioterapeuta-tras-12-horas-sin-comer-el-cuerpo-comienza-a-usar-las-grasas-como-combustible-f202603-n/"
-      },
-      {
-        "title": "“El problema era mío... y he descubierto la solución: retroversión de cadera” - AS.com",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://as.com/masdeporte/atletismo/el-problema-era-mio-y-he-descubierto-la-solucion-retroversion-de-cadera-f202603-n/"
+        "url": "https://m.xataka.com/medicina-y-salud/fin-monopolio-ozempic-esta-aqui-algunos-paises-lluvia-genericos-que-promete-hundir-precios"
       }
     ],
-    "cached_at": 1774327259.4976058,
+    "cached_at": 1774413767.9166896,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
