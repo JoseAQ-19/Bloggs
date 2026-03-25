@@ -552,77 +552,77 @@
   "fb4ad1bcef6d3043168469167a15cb1cb1ab0f544701e2b912c49d41dd73fb7a": {
     "data": [
       {
-        "title": "Youtube invierte un millón en contenido IA para niños justo cuando acaba de declarar la guerra al contenido IA para niños",
+        "title": "Meta y YouTube pierden el juicio sobre la adicción de los menores a redes sociales y son declaradas “negligentes”",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "YouTube presenta YouTube Creator Partnerships, la plataforma centralizada para creadores y marcas",
+        "title": "Meta y YouTube, culpables de perjudicar la salud mental de un menor en un juicio histórico",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Fundora vs. Thurman en vivo mañana en el canal de YouTube de PBC",
+        "title": "La justicia declara a Meta y YouTube culpables de dañar la salud mental en un caso histórico sobre adicción a las redes sociales",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La tertulia de Azul Carbayón, disponible en YouTube, iVoox y Spotify: el análisis del Levante-Real Oviedo y el presente del club",
+        "title": "Meta y YouTube, condenados a pagar tres millones de dólares a una joven por daños a la salud mental y adicción a las redes sociales",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "En YouTube Gemini hará de «celestina» entre las marcas y los creadores de contenido",
+        "title": "Meta y YouTube, condenadas a pagar 3 millones de dólares por provocar adicción",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774380327.47455,
+    "cached_at": 1774466413.210252,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "cfab165c756760f9672efaf7f54fa3040ac0f24e7b4012e5d64766caf60cfad3": {
     "data": [
       {
-        "title": "YouTube está invirtiendo millones en contenido IA para niños. YouTube también está combatiendo el contenido IA para niños",
+        "title": "Google ha encontrado la solución al 'AI slop' infantil en YouTube: más IA para niños en YouTube (pero de calidad)",
         "source": "exa",
         "lang": "en",
         "score": 0,
         "url": "http://t.xataka.com/robotica-e-ia/youtube-invierte-millon-contenido-ia-para-ninos-justo-cuando-acaba-declarar-guerra-al-contenido-ia-para-ninos"
       },
       {
-        "title": "¡Es oficial! Apple anuncia la WWDC26 donde se presentará iOS 27 y todas las novedades de software",
+        "title": "Apple prepara su evento más esperado en años. iOS 27 será la punta de lanza de su nueva IA con Google",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.applesfera.com/apple-1/oficial-apple-anuncia-wwdc26-donde-se-presentara-ios-27-todas-novedades-software"
+        "url": "http://t.applesfera.com/rumores/que-novedades-podemos-esperar-wwdc26-apple-protagonizada-ia-google"
       },
       {
-        "title": "Hytale se refuerza con una actualización enorme e inminente, pero Minecraft no se queda quieto y anuncia mucho contenido para 2026 - Hytale - 3DJuegos",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://www.3djuegos.com/juegos/hytale/noticias/hytale-se-refuerza-actualizacion-enorme-e-inminente-minecraft-no-se-queda-quieto-anuncia-mucho-contenido-para-2026"
-      },
-      {
-        "title": "Un iPhone que se dobla y otro para celebrar sus veinte años a lo grande. Apple ya prepara su mayor sacudida",
+        "title": "OpenAI parecía imparable. Ahora ha decidido dejar atrás Sora y cambiar de rumbo",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.applesfera.com/rumores/iphone-que-se-dobla-otro-para-celebrar-sus-veinte-anos-a-grande-apple-prepara-su-mayor-sacudida"
+        "url": "https://www.xataka.com/robotica-e-ia/openai-parecia-imparable-ahora-ha-decidido-dejar-atras-sora-cambiar-rumbo"
+      },
+      {
+        "title": "La NASA ha cambiado radicalmente sus planes con la Luna: apuestan por colonizarla antes de 2030",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://m.xataka.com/espacio/nasa-ha-cambiado-radicalmente-sus-planes-luna-apuestan-colonizarla-antes-2030"
       }
     ],
-    "cached_at": 1774380328.0761142,
+    "cached_at": 1774466413.759188,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
