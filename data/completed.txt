@@ -462,3 +462,4 @@ tools: Diamondback Tool Belt: Why This Skeptic Became a Believer
 crypto: OpenClaw Users Beware: Crypto Wallet Phishing Attack Underway
 youtube: ¡Golpe histórico! Meta y YouTube, culpables por adicción y daños a la salud mental de jóvenes.
 youtube: Landmark Trial: Meta & YouTube Held Liable for Teen Mental Health
+youtube: Meta & YouTube Face Reckoning: Landmark Addiction Trial Loss
