@@ -922,53 +922,53 @@
   "21a068db0cd0ba4e3b3272cddddd6e25dad487d2eb369a2766316588951e7843": {
     "data": [
       {
-        "title": "Dantzerti: \"Egin bedi zure nah-ia\"",
+        "title": "Los profesores de la enseñanza pública harán con una IA oficial la primera evaluación de los alumnos",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La IA que te conoce pero no te espía: la apuesta de Lenovo para diferenciarse en un mercado saturado de chatbots",
+        "title": "Jornadas de Teatro de Eibar 2026: 'Egin bedi zure nah-ia'",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Así entrené durante meses a la IA que me quitó el puesto de trabajo",
+        "title": "6 de cada 10 empresas aumentará su inversión en IA en 2026",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Las empresas europeas suspenden en la gobernanza de la IA",
+        "title": "El ICIB organiza un encuentro pionero sobre IA & Cine",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "The Big Question: ¿puede la IA salvar la sanidad?",
+        "title": "La IA, género de autoficción",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774347648.010758,
+    "cached_at": 1774434058.5119817,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
   "712dc6b87821c74ce3310d15eb2faa5011ccf2d0df44b2a976b735ced665ce6e": {
     "data": [
       {
-        "title": "The Making of IA Notebook",
+        "title": "Show HN: Per-table access control for DuckLake lakehouses",
         "source": "hackernews",
         "lang": "en",
-        "score": 2,
-        "url": "https://ia.net/topics/paper-alchemy-the-making-of-ia-notebook"
+        "score": 3,
+        "url": "https://github.com/berndsen-io/ducklake-guard"
       },
       {
         "title": "Ask HN: HSL 0.1 – The Human Source License. Please help refining",
@@ -978,49 +978,49 @@
         "url": ""
       },
       {
-        "title": "Show HN: Per-table access control for DuckLake lakehouses",
+        "title": "Show HN: GladAITor – Judge AI Products for Free",
         "source": "hackernews",
         "lang": "en",
-        "score": 2,
-        "url": "https://github.com/berndsen-io/ducklake-guard"
+        "score": 5,
+        "url": "https://glad-ia-tor.com/"
       }
     ],
-    "cached_at": 1774347648.2320244,
+    "cached_at": 1774434058.8345401,
     "func": "fetch_hackernews",
     "args_summary": "(['ia'],)"
   },
   "46503d41ef4fee113ff718159ee99bd6e87c149d97104b3a6a5f5ddc5f6be1b3": {
     "data": [
       {
-        "title": "La IA no podrá ser ni mecánico ni agricultor: el mito del empleo desmontado por Anthropic",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "http://www.businessinsider.es/tecnologia/ia-no-podra-ser-ni-mecanico-ni-agricultor-mito-empleo-desmontado-por-anthropic_6948851_0.html"
-      },
-      {
-        "title": "Mark Zuckerberg se gastó millones en un equipo de \"superinteligencia\". Lo está dedicando a crearle un agente IA personal",
+        "title": "Google ha encontrado la solución al 'AI slop' infantil en YouTube: más IA para niños en YouTube (pero de calidad)",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/pregunta-que-esta-haciendo-equipo-superinteligencia-meta-respuesta-agente-ia-personal-para-zuckerberg"
+        "url": "http://t.xataka.com/robotica-e-ia/youtube-invierte-millon-contenido-ia-para-ninos-justo-cuando-acaba-declarar-guerra-al-contenido-ia-para-ninos"
       },
       {
-        "title": "El mayor problema de los trenes en la India no es la puntualidad, sino el atropello de elefantes. Están usando IA para salvarlos",
+        "title": "OpenAI parecía imparable. Ahora ha decidido dejar atrás Sora y cambiar de rumbo",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/movilidad/india-tiene-plan-trenes-dejen-atropellar-elefantes-usar-ia"
+        "url": "https://www.xataka.com/robotica-e-ia/openai-parecia-imparable-ahora-ha-decidido-dejar-atras-sora-cambiar-rumbo"
       },
       {
-        "title": "Que los videojuegos se vean ultra realistas con IA no los hace mejores, y me preocupa que haya gente defendiendo este atropello - PC - 3DJuegos",
+        "title": "12 nuevos trabajadores al día: el plan de OpenAI para ganar la carrera de la IA es duplicar su plantilla en un año",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://www.3djuegos.com/pc/noticias/filtros-ia-se-estan-cargando-criterio-estetico-toda-generacion"
+        "url": "https://xataka.com/empresas-y-economia/openai-ha-llegado-a-conclusion-quiere-imponerse-a-anthropic-necesita-manos-asi-que-va-a-duplicar-su-plantilla"
+      },
+      {
+        "title": "12 nuevos trabajadores al día: el plan de OpenAI para ganar la carrera de la IA es duplicar su plantilla en un año",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "http://m.magnet.xataka.com/empresas-y-economia/openai-ha-llegado-a-conclusion-quiere-imponerse-a-anthropic-necesita-manos-asi-que-va-a-duplicar-su-plantilla"
       }
     ],
-    "cached_at": 1774347648.8058722,
+    "cached_at": 1774434059.4091387,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
