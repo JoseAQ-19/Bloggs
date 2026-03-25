@@ -139,47 +139,61 @@
   "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
     "data": [
       {
-        "title": "Planet Fitness building in Clovis is ‘not safe to occupy,’ city officials say",
+        "title": "News",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Why Did Clovis Shut Down Planet Fitness?",
+        "title": "Romelu Lukaku Prioritizes Fitness, Withdraws From Belgium's Friendlies",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "EXEC: Houlihan Lokey Sees Fitness M&A Activity Building on “Banner Year“ in 2025",
+        "title": "Best Amazon Big Spring Sale fitness tracker deals: Garmin, Apple, Google, and more",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Hop in the Pool event to be held at Rock Island Fitness Center to celebrate Easter",
+        "title": "Two months after revelations about Tisch–Epstein relationship, subtle changes made on campus without public statement",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Planet Fitness Mobile Black Card Spa Bus Stops in Toledo For Fan Rebound Experience!",
+        "title": "Court reverses sergeant's termination over flawed fitness-for-duty evaluation",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774329559.71877,
+    "cached_at": 1774414895.6396606,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "5f74b081c9753b13b48c085df1624d184c9deb4bc34d11178f03bbc18aeae64e": {
     "data": [
+      {
+        "title": "La falta de gravedad en Marte afectaría nuestros cuerpos, pero ¿cuál es el límite seguro? | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/la-falta-de-gravedad-en-marte-afectaria-nuestros-cuerpos-pero-cual-es-el-limite-seguro"
+      },
+      {
+        "title": "Es oficial: El planeta vive su década más calurosa y la OMM alerta sobre impactos duraderos | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/es-oficial-el-planeta-vive-su-decada-mas-calurosa-y-la-omm-alerta-sobre-impactos-duraderos"
+      },
       {
         "title": "Las bacterias intestinales pueden llegar al cerebro; un estudio con ratones encuentra cómo | WIRED",
         "source": "exa",
@@ -188,28 +202,14 @@
         "url": "https://es.wired.com/articulos/las-bacterias-intestinales-pueden-llegar-al-cerebro-un-estudio-con-ratones-encuentra-como"
       },
       {
-        "title": "Las células tienen un “sexto sentido” que podría ser clave para evitar la expansión del cáncer | WIRED",
+        "title": "Las sequías podrían favorecer la aparición de bacterias resistentes a los antibióticos | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/las-celulas-tienen-un-sexto-sentido-que-podria-ser-clave-para-evitar-la-expansion-del-cancer"
-      },
-      {
-        "title": "Mujeres realizan el 75% del trabajo de cuidados en México; el diseño de las ciudades agrava esta desigualdad | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/mujeres-realizan-el-75-del-trabajo-de-cuidados-en-mexico-el-diseno-de-las-ciudades-agrava-esta-desigualdad"
-      },
-      {
-        "title": "Júpiter y Saturno tienen más lunas de lo que se pensaba | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/jupiter-y-saturno-tienen-mas-lunas-de-lo-que-se-pensaba"
+        "url": "https://es.wired.com/articulos/las-sequias-podrian-favorecer-la-aparicion-de-bacterias-resistentes-a-los-antibioticos"
       }
     ],
-    "cached_at": 1774329560.4634416,
+    "cached_at": 1774414896.284765,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
