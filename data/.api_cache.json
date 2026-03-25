@@ -629,42 +629,42 @@
   "9ee96a29d2849810b096fb4ad7845a44fb015972f3144c10f16e0a281e09fb7c": {
     "data": [
       {
-        "title": "Jury deadlocked in landmark Meta, Youtube social media addiction trial",
+        "title": "California jury finds Meta, Google liable for teen’s mental distress in landmark social media trial",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Google soups up DV360 with more YouTube buying options, Gemini integrations",
+        "title": "Meta, YouTube found liable for social media addiction in landmark trial",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Google’s Commerce Media Suite: Where retailer insights meet the power of YouTube",
+        "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Case",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "The undoing of YouTuber Stephen McCullagh's 'live stream' murder alibi",
+        "title": "Meta and YouTube Lose Landmark Social-Media Addiction Trial",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "YouTube star Ms. Rachel joins fight to close Texas ICE facility",
+        "title": "Meta, YouTube found negligent in landmark social media addiction lawsuit",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774381319.1810284,
+    "cached_at": 1774467674.0563629,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
@@ -678,6 +678,13 @@
         "url": "https://es.wired.com/articulos/prohibir-las-redes-sociales-a-menores-esta-de-moda-pero-brasil-apuesta-por-otra-cosa"
       },
       {
+        "title": "Es oficial: El planeta vive su década más calurosa y la OMM alerta sobre impactos duraderos | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/es-oficial-el-planeta-vive-su-decada-mas-calurosa-y-la-omm-alerta-sobre-impactos-duraderos"
+      },
+      {
         "title": "Este mapa interactivo muestra la expansión y afectaciones del derrame en el Golfo de México | WIRED",
         "source": "exa",
         "lang": "en",
@@ -685,21 +692,14 @@
         "url": "https://es.wired.com/articulos/este-mapa-interactivo-muestra-la-expansion-y-afectaciones-del-derrame-en-el-golfo-de-mexico"
       },
       {
-        "title": "Júpiter y Saturno tienen más lunas de lo que se pensaba | WIRED",
+        "title": "Snapchat's new 'AI Clips' Lens format turns photos into five-second videos | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/jupiter-y-saturno-tienen-mas-lunas-de-lo-que-se-pensaba"
-      },
-      {
-        "title": "La falta de gravedad en Marte afectaría nuestros cuerpos, pero ¿cuál es el límite seguro? | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/la-falta-de-gravedad-en-marte-afectaria-nuestros-cuerpos-pero-cual-es-el-limite-seguro"
+        "url": "https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/"
       }
     ],
-    "cached_at": 1774381319.8532958,
+    "cached_at": 1774467674.6506643,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
