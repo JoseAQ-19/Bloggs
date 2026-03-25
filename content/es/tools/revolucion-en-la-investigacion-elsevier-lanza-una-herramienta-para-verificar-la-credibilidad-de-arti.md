@@ -17,13 +17,13 @@ Elsevier se enfrenta a una posible multa de 35 millones de euros por incumplir e
 
 ## TL;DR
 
-La posible sanción a Elsevier por incumplir el EU AI Act cuestiona la fiabilidad de sus algoritmos de revisión. En concreto, la renuncia de Damià Barceló, editor de *Science of the Total Environment*, reveló graves fallos en la revisión por pares en 2025. Los algoritmos de Elsevier perpetúan sesgos discriminatorios, lo que agrava la crisis de confianza en la ciencia.
+La posible sanción a Elsevier cuestiona la fiabilidad de sus algoritmos de revisión. La renuncia de Damià Barceló, editor de *Science of the Total Environment*, reveló graves fallos en la revisión por pares en 2025, evidenciando que los algoritmos de Elsevier perpetúan sesgos discriminatorios, lo que agrava la crisis de confianza en la ciencia.
 
 ## ¿Por qué Elsevier está en el punto de mira?
 
-Elsevier está en el punto de mira porque la denuncia de Damià Barceló, editor jefe de *Science of the Total Environment* en 2025, destapó la polémica sobre sus sistemas de revisión por pares. Barceló denunció que los intereses corporativos prevalecían sobre la calidad científica en la editorial. Este hecho generó dudas sobre la integridad del proceso de revisión.
+Elsevier está en el punto de mira por la denuncia de Damià Barceló, editor jefe de *Science of the Total Environment* en 2025, que destapó la polémica sobre sus sistemas de revisión por pares. Barceló denunció que los intereses corporativos prevalecían sobre la calidad científica en la editorial, generando dudas sobre la integridad del proceso de revisión.
 
-Además, la opacidad y la incapacidad de la herramienta de verificación de credibilidad de Elsevier para detectar fraudes científicos son motivo de preocupación ante las exigencias del EU AI Act. El EU AI Act exige transparencia y auditorías claras en las tecnologías basadas en inteligencia artificial, requisitos que Elsevier aparentemente no cumple en su totalidad. Una multa millonaria podría forzar cambios profundos, aunque algunos expertos señalan que el problema es más estructural que tecnológico.
+La opacidad y la incapacidad de la herramienta de verificación de credibilidad de Elsevier para detectar fraudes científicos son motivo de preocupación ante las exigencias del EU AI Act. El EU AI Act exige transparencia y auditorías claras en las tecnologías basadas en inteligencia artificial, requisitos que Elsevier aparentemente no cumple en su totalidad. Una multa millonaria podría forzar cambios profundos, aunque algunos expertos señalan que el problema es más estructural que tecnológico.
 
 ## Un negocio multimillonario bajo presión
 
@@ -33,15 +33,15 @@ La presión por adoptar modelos de acceso abierto amenaza estos ingresos a largo
 
 ## EU AI Act: el nuevo estándar que desafía a Elsevier
 
-El EU AI Act desafía a Elsevier porque exige que las herramientas de inteligencia artificial sean seguras, transparentes y explicables. Esta ley obliga a las empresas a ser más transparentes sobre el uso de la IA. La normativa clasifica los sistemas de IA en cuatro niveles de riesgo: mínimo, limitado, alto e inaceptable. Las tecnologías que emplea Elsevier suelen caer en la categoría de "alto riesgo".
+El EU AI Act desafía a Elsevier al exigir que las herramientas de inteligencia artificial sean seguras, transparentes y explicables. Esta ley obliga a las empresas a ser más transparentes sobre el uso de la IA. La normativa clasifica los sistemas de IA en cuatro niveles de riesgo: mínimo, limitado, alto e inaceptable. Las tecnologías que emplea Elsevier suelen caer en la categoría de "alto riesgo".
 
 ### Obligaciones clave del EU AI Act
 
-Las obligaciones clave del EU AI Act para herramientas de "alto riesgo" incluyen auditorías externas, trazabilidad de los datos y explicaciones claras sobre las decisiones algorítmicas. En otras palabras, se exige una rendición de cuentas exhaustiva. El incumplimiento puede acarrear sanciones de hasta el 7 % de los ingresos globales, lo que en el caso de Elsevier podría significar una multa de 35 millones de euros. El objetivo de esta normativa es evitar sesgos y errores, y proteger la confianza pública en las aplicaciones tecnológicas críticas.
+Las obligaciones clave del EU AI Act para herramientas de "alto riesgo" incluyen auditorías externas, trazabilidad de los datos y explicaciones claras sobre las decisiones algorítmicas. Es decir, se exige una rendición de cuentas exhaustiva. El incumplimiento puede acarrear sanciones de hasta el 7 % de los ingresos globales, lo que en el caso de Elsevier podría significar una multa de 35 millones de euros. El objetivo de esta normativa es evitar sesgos y errores, y proteger la confianza pública en las aplicaciones tecnológicas críticas. Más detalles sobre la propuesta legislativa pueden consultarse en el [sitio web del Parlamento Europeo](https://www.europarl.europa.eu/topics/es/article/20230601STO93804/inteligencia-artificial-en-la-ue-proyecto-de-normas-para-una-ia-fiable).
 
 ## Fallos en la narrativa de Elsevier: ¿integridad o marketing?
 
-Los fallos en la narrativa de Elsevier se evidencian en la falta de consecuencias ante las violaciones de integridad científica, según Lluis Montoliu, investigador del CSIC. En otras palabras, no hay suficiente rigor en la supervisión. Montoliu también señala que los algoritmos de Elsevier carecen de transparencia y supervisión adecuada, lo que facilita la perpetuación de prácticas fraudulentas.
+Los fallos en la narrativa de Elsevier se evidencian en la falta de consecuencias ante las violaciones de integridad científica, según Lluis Montoliu, investigador del CSIC. Esto implica que no hay suficiente rigor en la supervisión. Montoliu también señala que los algoritmos de Elsevier carecen de transparencia y supervisión adecuada, lo que facilita la perpetuación de prácticas fraudulentas.
 
 ### El caso Setúbal: un escándalo que sacudió la ciencia
 
@@ -55,11 +55,11 @@ Los sesgos algorítmicos son un obstáculo porque los algoritmos de Elsevier par
 
 ### Impacto en la calidad de la ciencia
 
-El impacto en la calidad de la ciencia se manifiesta en la distorsión de los datos que influyen en los modelos predictivos, reduciendo su aplicabilidad y fiabilidad. Dicho de otro modo, la ciencia se vuelve menos precisa. En un contexto donde la diversidad en la ciencia es prioritaria, perpetuar patrones discriminatorios a través de la tecnología es un freno para el progreso.
+El impacto en la calidad de la ciencia se manifiesta en la distorsión de los datos que influyen en los modelos predictivos, reduciendo su aplicabilidad y fiabilidad. En otras palabras, la ciencia se vuelve menos precisa. En un contexto donde la diversidad en la ciencia es prioritaria, perpetuar patrones discriminatorios a través de la tecnología es un freno para el progreso.
 
 ## El sistema de revisión por pares: ¿una reforma urgente?
 
-El sistema de revisión por pares necesita una reforma urgente porque está en crisis, según Michael Bertram, toxicólogo de la Universidad Sueca de Ciencias Agrícolas. La crisis se debe a la falta de incentivos y a la presión por publicar rápidamente. Bertram criticó duramente el sistema editorial de *Science of the Total Environment*, que retractó 50 estudios de João Carlos Setúbal tras descubrir revisiones fraudulentas.
+El sistema de revisión por pares necesita una reforma urgente debido a que está en crisis, según Michael Bertram, toxicólogo de la Universidad Sueca de Ciencias Agrícolas. La crisis se debe a la falta de incentivos y a la presión por publicar rápidamente. Bertram criticó duramente el sistema editorial de *Science of the Total Environment*, que retractó 50 estudios de João Carlos Setúbal tras descubrir revisiones fraudulentas.
 
 ### ¿Por qué falla el sistema actual?
 
@@ -81,9 +81,9 @@ En un mercado que avanza hacia el acceso abierto y la transparencia, las editori
 
 ## Recuperar la confianza en la ciencia: una obligación colectiva
 
-Recuperar la confianza en la ciencia es una obligación colectiva que trasciende a Elsevier y afecta a toda la comunidad investigadora. La colaboración es esencial para restaurar la confianza. Restaurar la confianza en la ciencia requiere herramientas y procesos que prioricen la calidad y la transparencia sobre los beneficios económicos. Para garantizar que la investigación científica cumpla con los más altos estándares éticos y de calidad, es necesaria una colaboración estrecha entre editoriales, investigadores y reguladores.
+Recuperar la confianza en la ciencia es una obligación colectiva que trasciende a Elsevier y afecta a toda la comunidad investigadora. La colaboración es esencial para restaurar la confianza. Restaurar la confianza en la ciencia requiere herramientas y procesos que prioricen la calidad y la transparencia sobre los beneficios económicos. Para garantizar que la investigación científica cumpla con los más altos estándares éticos y de calidad, es necesaria una colaboración estrecha entre editoriales, investigadores y reguladores. La [Declaración de San Francisco sobre la Evaluación de la Investigación (DORA)](https://sfdora.org/read/) ofrece recomendaciones para mejorar las formas en que se evalúa la producción científica.
 
 ### Artículos relacionados
 
-- **[YouTube te destroza: el algoritmo adictivo que engancha como la cocaína](/es/youtube/youtube-atracones-tele-peor/)**
-- **[YouTube: el imperio prohibido donde el 64% de tus hijos ya están cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)**
+-   **[YouTube te destroza: el algoritmo adictivo que engancha como la cocaína](/es/youtube/youtube-atracones-tele-peor/)**
+-   **[YouTube: el imperio prohibido donde el 64% de tus hijos ya están cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)**
