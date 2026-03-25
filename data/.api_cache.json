@@ -1104,42 +1104,42 @@
   "47c2bc6816549fbd4391587ad907de1b4a35f331cc234d17a1e0ece63b6178da": {
     "data": [
       {
-        "title": "Protecting SC’s children requires modern tools for law enforcement",
+        "title": "I Went in Skeptical Thinking the Diamondback Tool Belt Was Overkill. Here’s Why I Came Out a Convert.",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "WHO recommends new diagnostic tools to help end TB",
+        "title": "Building Better Tools for Complex Engineering: MS/MBA alum co-founds billion-dollar start-up",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Fostering the Future by Equipping American Students with AI Tools",
+        "title": "Introducing the new full-stack vibe coding experience in Google AI Studio",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Mac users can now get Microsoft’s best tools for just $10 each",
+        "title": "Kali Linux 2026.1 introduces 8 new tools",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "SK Hynix to buy $8 billion in ASML chipmaking tools in largest disclosed order",
+        "title": "German army eyes AI tools to expedite wartime decision-making",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774363817.4205449,
+    "cached_at": 1774450228.018073,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
@@ -1153,13 +1153,6 @@
         "url": "https://es.wired.com/articulos/este-mapa-interactivo-muestra-la-expansion-y-afectaciones-del-derrame-en-el-golfo-de-mexico"
       },
       {
-        "title": "Mexico City's 'Xoli' Chatbot Will Help World Cup Tourists Navigate the City | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.wired.com/story/mexico-city-xoli-chatbot-world-cup-tourists/"
-      },
-      {
         "title": "Prohibir las redes a menores está de moda, pero Brasil prefiere exigir plataformas menos adictivas | WIRED",
         "source": "exa",
         "lang": "en",
@@ -1167,14 +1160,21 @@
         "url": "https://es.wired.com/articulos/prohibir-las-redes-sociales-a-menores-esta-de-moda-pero-brasil-apuesta-por-otra-cosa"
       },
       {
-        "title": "News Archive for March 2026 - Page 25 | The Verge",
+        "title": "OpenAI adds open source tools to help developers build for teen safety | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/archives/news/2026/3/25"
+        "url": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/"
+      },
+      {
+        "title": "Es oficial: El planeta vive su década más calurosa y la OMM alerta sobre impactos duraderos | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/es-oficial-el-planeta-vive-su-decada-mas-calurosa-y-la-omm-alerta-sobre-impactos-duraderos"
       }
     ],
-    "cached_at": 1774363817.9855804,
+    "cached_at": 1774450228.5596275,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
