@@ -216,53 +216,67 @@
   "cddff883eee8ba79205166d8431aed7738bd3bb0724b8d87f5f17a2a8cc26039": {
     "data": [
       {
-        "title": "Cómo les queda la retro 🔥 #fyp #viral #fashion #goviral #parati",
+        "title": "La reacción viral de Mbappé cuando un periodista francés le dice que el Madrid juega mejor sin él",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Arrestan a Yailin La Más Viral durante operativo: de esto acusan a la cantante",
+        "title": "El secreto de la eterna juventud de Chuando Tan, el modelo viral de 60 años que aparenta 25",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La respuesta viral de Ester Muñoz a Rosa Villacastín: \"Entiendo que no te gusten las mujeres libres\"",
+        "title": "Yailin pasa la noche en prisión: sus abogados revelan que ya hay un presunto culpable",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El divertido vídeo viral de la niña y el perro que juegan con la cinta andadora: \"Sin tablets\"",
+        "title": "Ibai Llanos convierte un píxel viral en un lanzamiento multitudinario del \"café para la Gen Z\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "ENTRE AMIGOS | Lo más viral – 24/03/2026",
+        "title": "José Ortega Cano responde a su vídeo viral: “No fue un baile, flexioné los brazos y las piernas porque tengo mucha flexibilidad”",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774390322.5360653,
+    "cached_at": 1774476911.8863559,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
   "a362792cc6b4faf81d359ce19013ff8b6c624ffb2aada45d97ffec0e5515eba1": {
     "data": [
       {
+        "title": "OpenAI parecía imparable. Ahora ha decidido dejar atrás Sora y cambiar de rumbo",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/robotica-e-ia/openai-parecia-imparable-ahora-ha-decidido-dejar-atras-sora-cambiar-rumbo"
+      },
+      {
         "title": "Apple ha roto un récord histórico de ventas con el MacBook Neo en su primera semana. La sorpresa es absolutamente nula",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "http://magnet.xataka.com/ordenadores/apple-ha-conseguido-record-historico-ventas-macbook-neo-su-semana-lanzamiento-sorpresa-absolutamente-nula"
+        "url": "https://m.xataka.com/ordenadores/apple-ha-conseguido-record-historico-ventas-macbook-neo-su-semana-lanzamiento-sorpresa-absolutamente-nula"
+      },
+      {
+        "title": "Youtube está plagado de basura hecha con IA para niños. Google ha invertido un millón en sustituirla por contenido IA de calidad",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/robotica-e-ia/youtube-invierte-millon-contenido-ia-para-ninos-justo-cuando-acaba-declarar-guerra-al-contenido-ia-para-ninos"
       },
       {
         "title": "La espectacularización de los conciertos llega a su punto más fúnebre: Soda Stereo está tocando con uno de sus miembros fallecido",
@@ -270,23 +284,9 @@
         "lang": "en",
         "score": 0,
         "url": "https://xataka.com/musica/bienvenidos-a-era-concierto-artista-soda-stereo-vuelve-proyectando-pantalla-a-musico-que-murio-hace-12-anos"
-      },
-      {
-        "title": "La iniciativa del PAN que propone restringir el acceso a redes sociales para los menores en México - AS México",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://mexico.as.com/actualidad/la-iniciativa-del-pan-que-propone-restringir-el-acceso-a-redes-sociales-para-los-menores-en-mexico-f202603-n/"
-      },
-      {
-        "title": "Trump suspende el ultimátum y da 5 días a Irán para reabrir Ormuz: las bolsas se disparan",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://www.businessinsider.es/mercados/trump-suspende-ultimatum-da-5-dias-iran-para-reabrir-ormuz-las-bolsas-se-disparan_6949436_0.html"
       }
     ],
-    "cached_at": 1774390322.9848015,
+    "cached_at": 1774476912.3222466,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
