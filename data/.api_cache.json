@@ -62,27 +62,6 @@
   "4618dd580265f460566f713ecc35b03ce5ab52b17e317eed8d0201579ddcf0d6": {
     "data": [
       {
-        "title": "La empresa mexicana de 'fitness' Commando adquiere Lapso Studios",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Murat Yakin not worried over Granit Xhaka fitness ahead of Switzerland friendlies",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Lo haces a diario sin darte cuenta: un experto en fitness recomienda este ejercicio para vivir mejor",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
         "title": "Recoger basura mientras sales a correr: así es la nueva tendencia fitness que combina deporte y cuidado del medio ambiente",
         "source": "google_news",
         "lang": "es",
@@ -90,14 +69,35 @@
         "url": ""
       },
       {
-        "title": "“El Campello fitness” arranca el 27 de marzo con tres días plagados de actividades deportivas junto al mar",
+        "title": "Es difícil de creer, pero la transformación física de este hombre de 60 años demuestra que para entrenar no hay edad y que se pueden conseguir grandes músculos con una buen ética de trabajo",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "El Club Olympic Center organiza el Campeonato de Melilla Functional Fitness SF3",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Fitness en la Braidense: ¡la biblioteca se convierte en gimnasio para un evento!",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Paula Suárez, experta en fitness: “Para hacer una sentadilla un error frecuente es pensar que las rodillas no pueden pasar la punta de los pies”",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774413767.1703768,
+    "cached_at": 1774500660.5933228,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
@@ -111,28 +111,28 @@
         "url": "https://as.com/tikitakas/salud/coco-constans-creadora-del-metodo-ffitpilates-los-hombres-se-creen-que-el-pilates-no-es-para-ellos-f202603-n/"
       },
       {
-        "title": "Descubre las zapatillas de Skechers que están revolucionando el mundo del senderismo - AS.com",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://as.com/showroom/deporte/zapatillas-skechers-hombre-para-senderismo-f202603-n/"
-      },
-      {
-        "title": "Las dos comunidades en las que te puedes deducir la cuota del gimnasio en la Renta con un límite de hasta 300 euros  - AS.com",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://as.com/actualidad/economia/las-dos-comunidades-en-las-que-te-puedes-deducir-la-cuota-del-gimnasio-en-la-renta-con-un-limite-de-hasta-300-euros-f202603-n/"
-      },
-      {
         "title": "Estamos a un paso de extinguir la obesidad en medio mundo gracias a algo: la patente de Ozempic va a expirar este mes",
         "source": "exa",
         "lang": "en",
         "score": 0,
         "url": "https://m.xataka.com/medicina-y-salud/fin-monopolio-ozempic-esta-aqui-algunos-paises-lluvia-genericos-que-promete-hundir-precios"
+      },
+      {
+        "title": "150 profesores y entrenadores de deportes de invierno competirán en Vallter - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/deportes_accion/snow/150-profesores-y-entrenadores-de-deportes-de-invierno-competiran-en-vallter-f202603-n/"
+      },
+      {
+        "title": "Daniel Lumera, biólogo naturalista: “Un buen ejercicio para poner a prueba y mejorar el estado de presencia mental” - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/tikitakas/salud/daniel-lumera-biologo-naturalista-un-buen-ejercicio-para-poner-a-prueba-y-mejorar-el-estado-de-presencia-mental-f202603-n/"
       }
     ],
-    "cached_at": 1774413767.9166896,
+    "cached_at": 1774500661.2798984,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
