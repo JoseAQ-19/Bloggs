@@ -370,6 +370,13 @@
   "1aa06cf232e59b4099181fc77bc2032cca3f1701bcd8a89857881f3d3a40d006": {
     "data": [
       {
+        "title": "Las elecciones intermedias de EE. UU. asestan un fuerte golpe a los principales activos digitales mientras Stand With Crypto prepara su estrategia",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
         "title": "BTCUSD",
         "source": "google_news",
         "lang": "es",
@@ -377,35 +384,28 @@
         "url": ""
       },
       {
-        "title": "Asensi Abogados refuerza su apuesta por la regulación cripto al unirse a MiCA Crypto Alliance",
+        "title": "Asensi Abogados se asocia con la MiCA Crypto Alliance",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Crypto.com vs OKX: ¿Qué exchange es mejor?",
+        "title": "Crypto Analysts Warn: Traders Misreading The Clarity Act Could Miss The Real Opportunity",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "KuCoin Showcases KuCard at Tomorrowland Winter, Reflecting Growing Interest in Simpler Crypto Access",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Crear un banco con corazón: el enfoque de DBS respecto a las criptomonedas, el cumplimiento normativo y la inteligencia artificial, con Chee Kin Lam",
+        "title": "Chainlink Crypto Hoy: LINK Bajo Presión pero No Roto en un Mercado de Aversión al Riesgo",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774456487.0172942,
+    "cached_at": 1774542891.6555293,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
@@ -415,25 +415,25 @@
         "title": "WolfGuard: WireGuard with FIPS 140-3 cryptography",
         "source": "hackernews",
         "lang": "en",
-        "score": 96,
+        "score": 104,
         "url": "https://github.com/wolfssl/wolfguard"
       },
       {
-        "title": "Revolut warns it risks backlash over support for energy-intensive AI and crypto",
+        "title": "Crypto donations to UK parties to be banned",
         "source": "hackernews",
         "lang": "en",
-        "score": 4,
-        "url": "https://www.theguardian.com/business/2026/mar/24/revolut-ai-crypto-profits-us-banking-licence-uk"
+        "score": 12,
+        "url": "https://www.bbc.co.uk/news/articles/c5y8d2qvr9do"
       },
       {
-        "title": "RustSec Integrity Breach Hides Dangerous Crypto Flaw",
+        "title": "UK bans crypto donations to political parties in bid to curb foreign influence",
         "source": "hackernews",
         "lang": "en",
-        "score": 3,
-        "url": "https://www.flyingpenguin.com/rustsec-integrity-breach-hides-dangerous-crypto-flaw/"
+        "score": 5,
+        "url": "https://apnews.com/article/uk-political-donations-cryptocurrency-ban-4deae8e71d664a042363fa79d617a2f3"
       }
     ],
-    "cached_at": 1774456487.2717037,
+    "cached_at": 1774542891.8579621,
     "func": "fetch_hackernews",
     "args_summary": "(['crypto'],)"
   },
@@ -447,28 +447,28 @@
         "url": "https://www.businessinsider.es/mercados/panico-euforia-trump-usa-su-altavoz-guerra-para-convertir-wall-street-su-titere-mover-billones-dolares_6949647_0.html"
       },
       {
-        "title": "Las bolsas asiáticas caen en la cuarta semana de guerra contra Irán ante el ultimátum de Trump",
+        "title": "El \"cuenco de arroz energético\": China es el único país del mundo que respira tranquilo ante la crisis energética que viene",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://www.businessinsider.es/mercados/bolsas-asiaticas-caen-guerra-iran-ultimatum-trump_6949270_0.html"
+        "url": "https://www.xataka.com/energia/china-lleva-anos-preparandose-pacientemente-para-gran-crisis-energetica-global-ahora-recoge-sus-frutos"
       },
       {
-        "title": "La Unión Europea cambia las normas del pago en efectivo y así afecta a España",
+        "title": "Revolut dispara su beneficio hasta 1.500 millones en 2025 y alcanza 6,3 millones de clientes en España",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "http://www.businessinsider.es/economia/union-europea-cambia-normas-pago-efectivo-espana_6928640_0.html"
+        "url": "https://www.businessinsider.es/neobancos/revolut-dispara-su-beneficio-hasta-1-500-millones-2025-alcanza-6-3-millones-clientes-espana_6949843_0.html"
       },
       {
-        "title": "Trump suspende el ultimátum y da 5 días a Irán para reabrir Ormuz: las bolsas se disparan",
+        "title": "OpenAI parecía imparable. Ahora ha decidido dejar atrás Sora y cambiar de rumbo",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://www.businessinsider.es/mercados/trump-suspende-ultimatum-da-5-dias-iran-para-reabrir-ormuz-las-bolsas-se-disparan_6949436_0.html"
+        "url": "https://www.xataka.com/robotica-e-ia/openai-parecia-imparable-ahora-ha-decidido-dejar-atras-sora-cambiar-rumbo"
       }
     ],
-    "cached_at": 1774456487.7099082,
+    "cached_at": 1774542892.6184847,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
