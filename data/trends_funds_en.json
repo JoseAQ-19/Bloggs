@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-26T08:47:55.602379+00:00",
+  "scouted_at": "2026-03-26T08:51:09.006220+00:00",
   "total_candidates": 20,
   "topics": [
     {
       "rank": 1,
-      "title": "Vanguard Slashes Fund Fees: Is Your Portfolio Benefiting From the New 0.06% Average?",
+      "title": "Mutual Fund and ETF Fees Remained Near Historic Lows in 2025",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "LVHI: Why Franklin's Low Volatility, High Dividend ETF is Crushing the Market (Up 8.3% YTD)",
+      "title": "Morningstar Awards for Investing Excellence Thailand 2026",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "VUG and VOOG Share Split: What the 6:1 Change Means for Vanguard Growth Investors",
+      "title": "Why the Semiliquid Fund Liquidity Crunch Was Inevitable",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -121,32 +121,32 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhdGZKcmU4aEZ4SGNEckZTRndLLWVlVHFZdkdfSFBvY2JMd1JrdV83a3hacW9CX2FWQ0NUcmNsTXNHVVdIc2V4YTJzNmpBT1NmZjlnb2J1UVBwUVF3WDZlMGNka9IBY0FVX3lxTFBhdGZKcmU4aEZ4SGNEckZTRndLLWVlVHFZdkdfSFBvY2JMd1JrdV83a3hacW9CX2FWQ0NUcmNsTXNHVVdIc2V4YTJzNmpBT1NmZjlnb2J1UVBwUVF3WDZlMGNkaw?oc=5"
     },
     {
-      "title": "Vanguard Lowers Expense Ratios Across 53 Funds, Saving Investors Nearly $250 Million in 2026; Average Expense Ratio Now 0.06%.",
+      "title": "Vanguard Announces Share Splits for Vanguard Growth ETF (VUG), split 6:1, Vanguard Mega Cap Growth ETF (MGK), split 5:1, Vanguard S&P 500 Growth ETF (VOOG), split 6:1, Vanguard Mid-Cap ETF (VO), split 4:1 and Vanguard Information Technology ETF (VGT), split 8:1, effective April 21, 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock Launches iShares Staked Ethereum Trust (ETHB) on Nasdaq, Attracting Over $15 Million in First-Day Trading Volume; Promotional Fee Set at 0.12% on First $2.5 Billion in Assets.",
+      "title": "Direxion launched four new 2X Bull ETFs offering 2X daily exposure to Adobe Inc. (ADBE), PayPal Holdings Inc. (PYPL), Texas Instruments Inc. (TXN) and UnitedHealth Group Inc. (UNH).",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Direxion Launches Four 2X Bull ETFs on ADBE, PYPL, TXN, and UNH for Catalyst-Driven Trades.",
+      "title": "SEC granted relief to allow funds to launch ETF share classes alongside mutual fund share classes, potentially benefiting millions of investors.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Franklin International Low Volatility High Dividend ETF (LVHI) Outperforms Broader Market, Up 8.3% Year-to-Date as of March 18.",
+      "title": "Total estimated inflows to long-term US mutual funds and ETFs were $16.95 billion for the week ended March 11, 2026, with mutual fund outflows of $5.81 billion and ETF net issuance of $22.76 billion.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Total Estimated Outflows from Long-Term Mutual Funds Reach $10.76 Billion for the Week Ended March 18, Investment Company Institute Reports.",
+      "title": "Vanguard lowered expense ratios across 53 funds, totaling nearly $250 million in fee reductions for 2026, bringing their asset-weighted average expense ratio to 0.06%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard Growth ETF (VUG) and Vanguard S&P 500 Growth ETF (VOOG) to Undergo 6:1 Share Splits Effective April 21, 2026.",
+      "title": "BlackRock's HPS Corporate Lending Fund imposed redemption limits after $1.2B in withdrawal requests, representing roughly 9.3% of the fund's net asset value.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
