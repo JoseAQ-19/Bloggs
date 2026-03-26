@@ -139,42 +139,42 @@
   "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
     "data": [
       {
-        "title": "News",
+        "title": "Clovis Planet Fitness temporarily closed for safety concerns",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Romelu Lukaku Prioritizes Fitness, Withdraws From Belgium's Friendlies",
+        "title": "5 arrested after $100K vandalism at L.A. Fitness in Santa Fe Springs",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Best Amazon Big Spring Sale fitness tracker deals: Garmin, Apple, Google, and more",
+        "title": "Jo Dee Messina Credits Fitness Transformation to the Gym: 'This Isn't, Hey, Let's Pop a Pill and Be Skinny in a Month'",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Two months after revelations about Tisch–Epstein relationship, subtle changes made on campus without public statement",
+        "title": "New, popular and unique fitness classes available at RPAC for Autumn 2026 semester",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Court reverses sergeant's termination over flawed fitness-for-duty evaluation",
+        "title": "Meet the 40-year-old Democrat who owns a fitness company for pregnant and postpartum women and just won in Trump's district",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774414895.6396606,
+    "cached_at": 1774502205.0537052,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
@@ -195,21 +195,21 @@
         "url": "https://es.wired.com/articulos/es-oficial-el-planeta-vive-su-decada-mas-calurosa-y-la-omm-alerta-sobre-impactos-duraderos"
       },
       {
-        "title": "Las bacterias intestinales pueden llegar al cerebro; un estudio con ratones encuentra cómo | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/las-bacterias-intestinales-pueden-llegar-al-cerebro-un-estudio-con-ratones-encuentra-como"
-      },
-      {
         "title": "Las sequías podrían favorecer la aparición de bacterias resistentes a los antibióticos | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
         "url": "https://es.wired.com/articulos/las-sequias-podrian-favorecer-la-aparicion-de-bacterias-resistentes-a-los-antibioticos"
+      },
+      {
+        "title": "Fitness Trackers Archive for March 2026 - Page 1 | The Verge",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.theverge.com/archives/fitness-trackers/2026/3/1"
       }
     ],
-    "cached_at": 1774414896.284765,
+    "cached_at": 1774502205.6244895,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
