@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-25T07:29:22.389506+00:00",
-  "total_candidates": 13,
+  "scouted_at": "2026-03-26T07:31:34.718128+00:00",
+  "total_candidates": 18,
   "topics": [
     {
       "rank": 1,
-      "title": "Dónde invertir durante la guerra de Irán",
+      "title": "Premios Morningstar España 2026: ¿Por qué Magallanes Value Investors arrasó por tercera vez?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Y los fondos ganadores de los Premios Morningstar España 2026 son...",
+      "title": "CaixaBank Monetario Rendimiento: ¿Por qué huyen los inversores del mayor fondo de España justo antes de la guerra de Irán?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Magallanes Value Investors gana por tercera vez el premio a mejor gestora de Morningstar España",
+      "title": "inbestMe desafía al mercado: ¿Carteras Objetivo 2027-2031 con rentabilidad acumulada del 25%?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -49,14 +49,19 @@
   },
   "all_headlines": [
     {
-      "title": "Dónde invertir durante la guerra de Irán",
+      "title": "Magallanes, Cobas, Rothschild & Co, M&G, MFS y Bestinver, protagonistas en los premios Morningstar 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXYxQk1wMGpyMTNlX1JuVTExM3Vjc044a3J3VVdlVld0YXlSRW1JS1p0VU5wV1kxR1F5dDY0bWdkNUoyaUs5cFpSS2JRZlE0d3NwTTlHSjI0TVIxR05tVmZlUndHX0tnQVpiR3dvMTljOTZmcmpNYUpZeGtpZWxUVVEyc3NIdTRj?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa2JQcUhPVUZpTWZfdWx5eEl4enJTWS1SSERtUVl1Vm1Td0ltRGxxdW9ZbG9xOGFyVXdMWHNVTnFvcmc0cVBBX2IxZWd4MnY2cUF3SUJ2MFVIY2c3UUFSajkzVEM1bTQ4bHdqVElPOTZHMklxZW9sel82czR6SmxhYzlCR3NFUjRGMldxYmZFOEdxSXBZMnlpVW0yUExRUS16c2VrQ1Q5YWFDR19SU2VTVDMxaUhIOEc2VWNySFlLY0hwcC04ZmNWRFVYZGE3RUstanNFTTJVQkgxM29IU1E?oc=5"
     },
     {
       "title": "Y los fondos ganadores de los Premios Morningstar España 2026 son...",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOVc0SGdSVG1xZzdrZXZTaFRlbld6ZTM4S0tFdlpwbFpIajdiX2F4cnRBQU9RNTFBRF9DUWFhUXlzUHVDbGhSNTRrYlFPNnpJbS1saWRTaGxJTjJuOUFUeXR1MHVmT1ZSSTNkTkZ4LU8wVlFFT1I5ZDhmc0lmdWsxQmNTZGg4Z084QTU5MUlxMGpuS3BlZkloWXA4bW8zSkdTbVlGTGwyVmJ1Zm9XOXZiR3Qtcw?oc=5"
+    },
+    {
+      "title": "Dónde invertir durante la guerra de Irán",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXYxQk1wMGpyMTNlX1JuVTExM3Vjc044a3J3VVdlVld0YXlSRW1JS1p0VU5wV1kxR1F5dDY0bWdkNUoyaUs5cFpSS2JRZlE0d3NwTTlHSjI0TVIxR05tVmZlUndHX0tnQVpiR3dvMTljOTZmcmpNYUpZeGtpZWxUVVEyc3NIdTRj?oc=5"
     },
     {
       "title": "Magallanes Value Investors gana por tercera vez el premio a mejor gestora de Morningstar España",
@@ -69,9 +74,19 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjNrLWtRVm1uLVZIVFhWRHFQMW1jYm1JekYybEJDOS1QQlpKY1JRMjNiNmhwcGZQQXo3cWhWcEtjU3BhbGp2V3prR1VsM2lOTUZFX0hKTUdlUVQyQ1dTSWh6anJEdFM5NzFROEUyWVVHYUpiYi04SGI5dkFwOVlJekF0NTlwcUU2S3BTa3AzV1pUVlZFeC1VVy1QenJ1RnY3R2NoWUpRbW9JZlNGdnA1R2l5SGxaNGo4STExMnUzd1hDcVdZSXVoOQ?oc=5"
     },
     {
+      "title": "En directo, bolsa e Ibex 35 | El Ibex 35 reacciona con ganancias hasta los 17.100 puntos ante el plan de paz, aunque Irán lo rechaza",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdV9kdmZ2c1RCLUZxQmZ3NlVDWEhYa0JHbTdrSG4xOERuU2ExUUFURHN1ano2Rm8zZEktOWJ2RkU5NXRVSVFuR0xSTWtUSWg5SC1JdkFPdFdBUG1WQ3JEdUQ1M3R6UFRaMksxSWpLTkhRdnEzYXNQcmwtN29XcmlQaUJ6cTRKUHRNcGhMNtIBgwFBVV95cUxOaHNIbGJZSDBtak1IOGNMSmZ0RVZkcDNQMnlBVFVHZmFkOFIxV1dSeTA5YWhLQWlzUlZVcWU4VGM0UVg5Q054N0o2eUlBNVdiWURCVkY3cXd5dVpqWHphZE1RcEtnMFhGam0zNjhsQ2hHT3did2FPZlREMkFkUTV6SmllOA?oc=5"
+    },
+    {
       "title": "CaixaBank Monetario Rendimiento: el mayor fondo de España sufre salidas de 475 millones en febrero, justo antes de la guerra de Irán",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOd3d2cGlVbjV4Tld5S3ZvSHlxMTBJOVMyTWpVVHBIWXZNZFlrSUJ3RUJINzNQd0drclZlcGRhM0pZSFRWZFlPa1daVW9WeXRzeGNmRzRDVEh3SnY0ZW9fOEtBbGQ0RmRKRGRmdFFFcnowRkVfMHJwZ1pOMTVHM045U182a1N2c0UxQktQbU93Rll4R2lkb2FNOTZISm4xTlJ3UWI1MVZFU3NaUEV2Qi1MNDlLOEF0UXlER1Z4MVdRRDkzdFo4LWRqY09CUTdyNkVDRzRKa0hHanQyLTdBTENVSHN6bWloNXV2U0JXZ0c1SHdjbW5wWXhvVVdMNmQ3azJ0OWpFdA?oc=5"
+    },
+    {
+      "title": "Indexa Capital Opiniones 2026: Carteras, Comisiones y Novedades",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkpxbEVNeGhjaDM0TW12aW8wZVlyb2ItU2M5WkRfczdHN2x3WDVUUm9rMDdBTnBvR2RscmdheEs4ODlLcXVZR01XZ1NoUXZrRVFrdHpwSE0tSDZybTJVdjB6Uko0b3lLbUdYYzhMejgzRU9PSk5JbE5NZTBSdTNWWUl4YVRIUWs2ZHlTWnQzUkM0cW5IQTU0bUZpcFM0c29HMzVHblVDSVdFc0Y3TWJBNzVZR3hVcmRGN1E?oc=5"
     },
     {
       "title": "inbestMe lanza nuevas Carteras Objetivo 2027-2031 con hasta un 25% de rentabilidad acumulada objetivo",
@@ -84,9 +99,24 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONjlwTDdfTHRjTXlvUVNkc0VQeTBtXy1YUktXOEkydU96YnZrTUdYQXhjaUVUNUhRcFpfdnRTcDNiSVhiWUVPM3lSSE5fcDRjWTFfRVpjTmhCLTJ1TXBTWTZCZlh3VFYyV0s5S0ZFOEs4SmN5bXZ1UHhhbHZrNDlNWFM3NFlLWE40M2lOVVZOQk1CcURRUTk3VkExWC1tc2k5Z1Z2SU56N2gxNFJ5WWpfVnVxbUZTQm1kM1JmY3VnYklsWjTSAZ8BQVVfeXFMTW05ejFWazNQMlFRb01UTjB6UGRkMTBIajRYNHJGQlROdW5DbEVzdDFZMXBHV2g4NmlRTm5wXzBUTmF6cmFBRXFxbTMzY0hic2g4UjdwQlNuTmxvRHExSFBqSFNqUHh2OGNKWWlMTDJEOUt5aTZHbXJBVjgwX3Fic0tUYnJoZzdkakM3eWluZEdCMmU3MTh0Sk9kTWhKN01R?oc=5"
     },
     {
+      "title": "Mejores cuentas remuneradas sin nómina en 2026: gana intereses sin domiciliar tu salario",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGFnbEp1M1JPVE9MamhNWWdrbU42ZEtKVHk2Q3cxS2g1VEstMnRGM2wtSkFmSTR2N1RkSTZPOE0zcWZHbG56c0xlbWFJTWxjMnVBVWhTQUxib1ZucUJpMkEySzdQVWFqeHNDbl9KclFzakdWWjNlUW90T0xTVjgzRkZ6elhDR2Q3RV9qTkpsRThLaEU?oc=5"
+    },
+    {
+      "title": "Las mejores hipotecas fijas, variables y mixtas de marzo 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hLUpjdXphREwybEFhQmxNWkJIMkM4LU5YTmxSZW96a3hQMlpvbzZVUGFMX21GQUJMYVZjSUh0blBmY0hFN1c5aDNnWHNnSHFXNGtCZmFMaXozZUdGQzN3WUdJS1hlYm5kNEVHcV9XdWpFLW5ua19iZ2Zmbw?oc=5"
+    },
+    {
       "title": "El ETF iShares MSCI ACWI: La excesiva concentración tecnológica lastra su diversificación",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQWIwMUFxMUhmTUhyNEJLTE0tSWxSa1o1c0hEX2tYTHM4OUMyTVd5Mjh2SUdKUHE1WWVJZWJuN242UzlBd0wtWWpTcnE4ZGRaaTZHbWdSb2Z6Qjd6X1JDMWtUbXJkd3hLWGZkaS1rS3BWd2p3UldmQ0M5ZTVYZDNnUUhCd0JMblNSUU1Hbi1LNkN1VFhzRUNielpudWk1djlXelN4U1NwdFIxQkRLeWRUNHktYW4zdWt6V2dIWjNhNnlSblIyanA0?oc=5"
+    },
+    {
+      "title": "¿Qué valores españoles pagan dividendo en abril de 2026?",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274715/¿qué-valores-españoles-pagan-dividendo-en-abril-de-2026.aspx"
     },
     {
       "title": "Premios Morningstar 2026: Los ganadores",
@@ -107,11 +137,6 @@
       "title": "¿Por qué está bajando el precio del oro a pesar de la incertidumbre sobre la guerra con Irán?",
       "source": "rss_morningstar_es",
       "url": "https://www.morningstar.es/es/news/274645/¿por-qué-está-bajando-el-precio-del-oro-a-pesar-de-la-incertidumbre-sobre-la-guerra-con-irán.aspx"
-    },
-    {
-      "title": "Cinco ETFs de acciones de gran capitalización de la Eurozona con un Rating Gold",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274632/cinco-etfs-de-acciones-de-gran-capitalización-de-la-eurozona-con-un-rating-gold.aspx"
     }
   ]
 }
