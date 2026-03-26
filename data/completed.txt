@@ -473,3 +473,4 @@ funds: Premios Morningstar 2026: Magallanes Value Investors logra su tercer gala
 funds: Vanguard VYMI's 10 Basis Point Cut: Is Sub-0.25% Enough to Beat the Competition?
 funds: Mutual Fund Fees Stick Near Historic Lows: A 2025 Analysis
 ia: OpenAI recula con Sora: ¿Nuevo rumbo en la carrera por la IA?
+ia: Kleiner Perkins Bets Big: $3.5B All-In on AI
