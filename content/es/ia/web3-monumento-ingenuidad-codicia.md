@@ -21,11 +21,11 @@ type: ia
 remastered: true
 ---
 
-¿Recuerdas esa promesa de un internet libre, donde tú reinabas sobre tus datos y la censura era un recuerdo borroso? La Web3, presentada como la siguiente gran revolución digital, se perfila en 2025 más como una sofisticada estafa que como una utopía. El sueño de la descentralización ha chocado con esquemas piramidales, centralización encubierta y un abismo entre la narrativa libertaria y el capitalismo desregulado. La Web3 se erige como un mausoleo de expectativas rotas, donde la democratización y la autonomía se han quedado en meras palabras vacías.
+¿Recuerdas esa promesa de un internet libre, donde tú reinabas sobre tus datos y la censura era un recuerdo borroso? En 2025, la Web3, presentada como la siguiente gran revolución digital, se revela más como una sofisticada estafa que como una utopía. El sueño de la descentralización ha chocado con esquemas piramidales, centralización encubierta y un abismo entre la narrativa libertaria y el capitalismo desregulado. La Web3 se erige como un mausoleo de expectativas rotas, donde la democratización y la autonomía se han quedado en meras palabras vacías.
 
 ## La descentralización fallida: una fachada rentable
 
-La descentralización en la Web3 es una promesa incumplida porque depende de infraestructuras centralizadas que contradicen su supuesto control del usuario sobre datos y activos.
+La descentralización en la Web3 es una promesa incumplida, debido a la dependencia de infraestructuras centralizadas que contradicen su supuesto control del usuario sobre datos y activos.
 
 La blockchain, núcleo tecnológico de la Web3, está dominada por actores como Infura, que actúa como puerta de entrada a Ethereum para la mayoría de las aplicaciones descentralizadas (dApps). Si Infura falla, todo el ecosistema se paraliza, evidenciando su fragilidad. MetaMask, la billetera más popular con millones de usuarios, también depende de Infura, revelando cómo unas pocas empresas concentran un poder desproporcionado. Esta centralización no solo contradice las promesas de la Web3, sino que también expone a los usuarios a riesgos de seguridad masivos: un ataque a estos nodos críticos podría comprometer miles de aplicaciones y millones de cuentas.
 
@@ -37,7 +37,7 @@ Además, la creciente dependencia de los *exchanges* centralizados para la compr
 
 Las DAOs (Organizaciones Autónomas Descentralizadas) han pasado de ser una promesa de gobernanza colectiva a convertirse en sistemas donde el poder se concentra en grandes inversores, las llamadas "ballenas".
 
-Aunque en teoría las DAOs se basan en la igualdad de voto (un token, un voto), en la práctica este modelo permite que las grandes poseedores de tokens dominen las decisiones. **Un estudio de la Universidad de Zúrich** confirma esta tendencia hacia la concentración de poder, en la que unos pocos actores controlan la toma de decisiones. Este sistema perpetúa las desigualdades en lugar de combatirlas, transformando a las DAOs en plutocracias disfrazadas de democracia.
+En teoría, las DAOs se basan en la igualdad de voto (un token, un voto), pero en la práctica este modelo permite que los grandes poseedores de tokens dominen las decisiones. **Un estudio de la Universidad de Zúrich** confirma esta tendencia hacia la concentración de poder, en la que unos pocos actores controlan la toma de decisiones. Este sistema perpetúa las desigualdades en lugar de combatirlas, transformando a las DAOs en plutocracias disfrazadas de democracia.
 
 Un caso ilustrativo es MakerDAO, uno de los proyectos más relevantes del ecosistema de finanzas descentralizadas (DeFi). En 2024, un informe reveló que más del 60% del poder de voto estaba concentrado en solo tres entidades principales, todas ellas inversores institucionales. Esto no solo cuestiona la descentralización, sino que también pone en duda la viabilidad de las DAOs como herramientas de gobernanza equitativa.
 
@@ -47,7 +47,7 @@ Este modelo de gobernanza, lejos de democratizar las decisiones, perpetúa un si
 
 ## Juegos "Play-to-Earn": promesas rotas y esquemas piramidales
 
-El modelo "Play-to-Earn" se ha revelado como insostenible porque depende de nuevos inversores y economías basadas en tokens volátiles para sobrevivir.
+El modelo "Play-to-Earn" se ha revelado como insostenible, ya que depende de nuevos inversores y economías basadas en tokens volátiles para sobrevivir.
 
 Juegos como Axie Infinity y StepN prometieron rentabilidad a través de la interacción, pero sus economías colapsaron cuando el flujo de nuevos jugadores se agotó. Axie Infinity, por ejemplo, sufrió un hackeo de 600 millones de dólares y el desplome de sus tokens, dejando a miles de jugadores, especialmente en países como Filipinas, en la ruina. Según **Bloomberg**, la dependencia de estas comunidades en los ingresos de estos juegos amplificó el impacto económico negativo. En esencia, los modelos "Play-to-Earn" funcionan como esquemas Ponzi: los primeros inversores se benefician, mientras los últimos asumen las pérdidas.
 
