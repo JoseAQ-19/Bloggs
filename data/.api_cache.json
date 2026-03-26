@@ -1139,14 +1139,7 @@
   "47c2bc6816549fbd4391587ad907de1b4a35f331cc234d17a1e0ece63b6178da": {
     "data": [
       {
-        "title": "I Went in Skeptical Thinking the Diamondback Tool Belt Was Overkill. Here’s Why I Came Out a Convert.",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Building Better Tools for Complex Engineering: MS/MBA alum co-founds billion-dollar start-up",
+        "title": "This cow uses tools like a primate—and scientists are stunned",
         "source": "google_news",
         "lang": "en",
         "score": 0,
@@ -1160,21 +1153,28 @@
         "url": ""
       },
       {
-        "title": "Kali Linux 2026.1 introduces 8 new tools",
+        "title": "Visa Gives Banks Tools to Turn Subscription Chaos Into Loyalty",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "German army eyes AI tools to expedite wartime decision-making",
+        "title": "How AI is teaching us to be more human",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "RSNA Expands ATLAS AI Data Hub",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774450228.018073,
+    "cached_at": 1774536789.7335,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
@@ -1188,11 +1188,11 @@
         "url": "https://es.wired.com/articulos/este-mapa-interactivo-muestra-la-expansion-y-afectaciones-del-derrame-en-el-golfo-de-mexico"
       },
       {
-        "title": "Prohibir las redes a menores está de moda, pero Brasil prefiere exigir plataformas menos adictivas | WIRED",
+        "title": "Es oficial: El planeta vive su década más calurosa y la OMM alerta sobre impactos duraderos | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/prohibir-las-redes-sociales-a-menores-esta-de-moda-pero-brasil-apuesta-por-otra-cosa"
+        "url": "https://es.wired.com/articulos/es-oficial-el-planeta-vive-su-decada-mas-calurosa-y-la-omm-alerta-sobre-impactos-duraderos"
       },
       {
         "title": "OpenAI adds open source tools to help developers build for teen safety | TechCrunch",
@@ -1202,14 +1202,14 @@
         "url": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/"
       },
       {
-        "title": "Es oficial: El planeta vive su década más calurosa y la OMM alerta sobre impactos duraderos | WIRED",
+        "title": "Beehiiv’s newsletter management is plugging directly into AI bots. | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/es-oficial-el-planeta-vive-su-decada-mas-calurosa-y-la-omm-alerta-sobre-impactos-duraderos"
+        "url": "https://www.theverge.com/news/897607/beehiivs-newsletter-management-is-plugging-directly-into-ai-bots"
       }
     ],
-    "cached_at": 1774450228.5596275,
+    "cached_at": 1774536790.585835,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
