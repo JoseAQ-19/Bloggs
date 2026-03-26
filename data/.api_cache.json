@@ -475,6 +475,20 @@
   "c7dcb72dc33baaa2e522c198717b4b418fcd1e9a91af28dfbac294c4b153973d": {
     "data": [
       {
+        "title": "Fannie Mae accepts first crypto-backed mortgage product",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Fannie Mae to Accept Crypto-Backed Mortgages for the First Time",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
         "title": "OpenClaw Developers Targeted in Crypto-Wallet Phishing Attack",
         "source": "google_news",
         "lang": "en",
@@ -482,54 +496,26 @@
         "url": ""
       },
       {
-        "title": "Franklin Templeton Debuts ETFs That Trade in Crypto Wallets 24/7",
+        "title": "Crypto for a home? Coinbase brings token-backed down payments to housing market",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Crypto donations to UK parties to be banned",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Bitcoin tests $72,000 again as rising leverage hints at volatility ahead: Crypto Markets Today",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "BlackRock Issues $1 Trillion ‘Nonsense’ Crypto Market Price Warning Alongside Huge Bitcoin Prediction",
+        "title": "A $20 Billion Crypto Scam Market Faces a New Government Crackdown",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774461063.5553486,
+    "cached_at": 1774547520.625909,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "db4cf0fe883cd8d987c633ca7c9adb75314597f893f367cbf745e8aa11ded4e3": {
     "data": [
-      {
-        "title": "Es oficial: El planeta vive su década más calurosa y la OMM alerta sobre impactos duraderos | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/es-oficial-el-planeta-vive-su-decada-mas-calurosa-y-la-omm-alerta-sobre-impactos-duraderos"
-      },
-      {
-        "title": "Prohibir las redes a menores está de moda, pero Brasil prefiere exigir plataformas menos adictivas | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/prohibir-las-redes-sociales-a-menores-esta-de-moda-pero-brasil-apuesta-por-otra-cosa"
-      },
       {
         "title": "El problema con COBOL: el lenguaje de programación que sostiene el mundo pero nadie sabe cómo reemplazar | WIRED",
         "source": "exa",
@@ -538,14 +524,28 @@
         "url": "https://es.wired.com/articulos/cobol-el-lenguaje-de-programacion-que-sostiene-el-mundo-pero-nadie-sabe-como-reemplazar"
       },
       {
-        "title": "Crisis del petróleo: El combustible de avión se dispara y las aerolíneas ya recortan vuelos | WIRED",
+        "title": "Elon Musk pauses changes to X's creator revenue-sharing program after backlash | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/crisis-del-petroleo-el-combustible-de-avion-se-dispara-y-las-aerolineas-ya-recortan-vuelos"
+        "url": "https://techcrunch.com/2026/03/25/elon-musk-pauses-changes-to-xs-creator-revenue-sharing-program-after-backlash/"
+      },
+      {
+        "title": "Este mapa interactivo muestra la expansión y afectaciones del derrame en el Golfo de México | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/este-mapa-interactivo-muestra-la-expansion-y-afectaciones-del-derrame-en-el-golfo-de-mexico"
+      },
+      {
+        "title": "OpenAI Enters Its Focus Era by Killing Sora | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/"
       }
     ],
-    "cached_at": 1774461064.1938128,
+    "cached_at": 1774547521.1039326,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
