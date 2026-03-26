@@ -629,60 +629,60 @@
   "9ee96a29d2849810b096fb4ad7845a44fb015972f3144c10f16e0a281e09fb7c": {
     "data": [
       {
-        "title": "California jury finds Meta, Google liable for teen’s mental distress in landmark social media trial",
+        "title": "‘Jeopardy!’ Plans YouTube Spinoff Show As It Ramps Up Production On Platform",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Meta, YouTube found liable for social media addiction in landmark trial",
+        "title": "‘Jeopardy!’ to Launch YouTube Edition: First Contestants are Monét X Change, Rebecca Black and Brennan Lee Mulligan",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Case",
+        "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Meta and YouTube Lose Landmark Social-Media Addiction Trial",
+        "title": "Jury finds Meta, YouTube liable for social media addiction: What we know",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Meta, YouTube found negligent in landmark social media addiction lawsuit",
+        "title": "The verdict against Meta and YouTube is a victory for children – and the US justice system | Austin Sarat",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774467674.0563629,
+    "cached_at": 1774554647.2536507,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "f990e7eff0f3103ac01b2830c939d7dce846fb1e852800a979f12b26b78a0e42": {
     "data": [
       {
-        "title": "Prohibir las redes a menores está de moda, pero Brasil prefiere exigir plataformas menos adictivas | WIRED",
+        "title": "Jury finds Meta and Google negligent in landmark social media addiction trial | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/prohibir-las-redes-sociales-a-menores-esta-de-moda-pero-brasil-apuesta-por-otra-cosa"
+        "url": "https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/"
       },
       {
-        "title": "Es oficial: El planeta vive su década más calurosa y la OMM alerta sobre impactos duraderos | WIRED",
+        "title": "Google launches Lyria 3 Pro music generation model | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/es-oficial-el-planeta-vive-su-decada-mas-calurosa-y-la-omm-alerta-sobre-impactos-duraderos"
+        "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/"
       },
       {
         "title": "Este mapa interactivo muestra la expansión y afectaciones del derrame en el Golfo de México | WIRED",
@@ -692,14 +692,14 @@
         "url": "https://es.wired.com/articulos/este-mapa-interactivo-muestra-la-expansion-y-afectaciones-del-derrame-en-el-golfo-de-mexico"
       },
       {
-        "title": "Snapchat's new 'AI Clips' Lens format turns photos into five-second videos | TechCrunch",
+        "title": "Elon Musk pauses changes to X's creator revenue-sharing program after backlash | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/"
+        "url": "https://techcrunch.com/2026/03/25/elon-musk-pauses-changes-to-xs-creator-revenue-sharing-program-after-backlash/"
       }
     ],
-    "cached_at": 1774467674.6506643,
+    "cached_at": 1774554648.0287907,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
