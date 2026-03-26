@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-26T07:50:04.421256+00:00",
+  "scouted_at": "2026-03-26T08:47:55.602379+00:00",
   "total_candidates": 20,
   "topics": [
     {
       "rank": 1,
-      "title": "Vanguard Slashes Fees on VYMI by 10 Basis Points: Is This the Cheapest International Dividend ETF?",
+      "title": "Vanguard Slashes Fund Fees: Is Your Portfolio Benefiting From the New 0.06% Average?",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Semiliquid Fund Liquidity Crunch: Why Your Hidden Risks Were Inevitable",
+      "title": "LVHI: Why Franklin's Low Volatility, High Dividend ETF is Crushing the Market (Up 8.3% YTD)",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Circle Falls, Bitcoin ETFs Surge: Are Crypto Investors Fleeing Stablecoins?",
+      "title": "VUG and VOOG Share Split: What the 6:1 Change Means for Vanguard Growth Investors",
       "lang": "en",
       "source": "llm_selected_finance"
     }
@@ -121,32 +121,32 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhdGZKcmU4aEZ4SGNEckZTRndLLWVlVHFZdkdfSFBvY2JMd1JrdV83a3hacW9CX2FWQ0NUcmNsTXNHVVdIc2V4YTJzNmpBT1NmZjlnb2J1UVBwUVF3WDZlMGNka9IBY0FVX3lxTFBhdGZKcmU4aEZ4SGNEckZTRndLLWVlVHFZdkdfSFBvY2JMd1JrdV83a3hacW9CX2FWQ0NUcmNsTXNHVVdIc2V4YTJzNmpBT1NmZjlnb2J1UVBwUVF3WDZlMGNkaw?oc=5"
     },
     {
-      "title": "Vanguard Growth ETF (VUG) announces a 6:1 share split, effective April 21, 2026, to improve investor accessibility.",
+      "title": "Vanguard Lowers Expense Ratios Across 53 Funds, Saving Investors Nearly $250 Million in 2026; Average Expense Ratio Now 0.06%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Direxion launches four new 2X Bull ETFs (ADBU, PYPU, TXNU, UNHU) on ADBE, PYPL, TXN and UNH stocks for catalyst-driven trading.",
+      "title": "BlackRock Launches iShares Staked Ethereum Trust (ETHB) on Nasdaq, Attracting Over $15 Million in First-Day Trading Volume; Promotional Fee Set at 0.12% on First $2.5 Billion in Assets.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Wellesley Asset Management launches the Miller Convertible Total Return ETF (MCVT), an actively managed ETF focused on convertible securities on March 25, 2026.",
+      "title": "Direxion Launches Four 2X Bull ETFs on ADBE, PYPL, TXN, and UNH for Catalyst-Driven Trades.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Janus Henderson launches US Equity Enhanced Income ETF (JUDO), aiming for income via dividend-paying equities and covered call options, with the firm's ETF AUM nearing $41 billion as of February 28, 2026.",
+      "title": "Franklin International Low Volatility High Dividend ETF (LVHI) Outperforms Broader Market, Up 8.3% Year-to-Date as of March 18.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard lowers expense ratios across 53 funds, resulting in approximately $250 million in fee reductions for 2026; The Vanguard International High Dividend Yield ETF (VYMI) saw its expense ratio drop from 0.17% to 0.07%.",
+      "title": "Total Estimated Outflows from Long-Term Mutual Funds Reach $10.76 Billion for the Week Ended March 18, Investment Company Institute Reports.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Total estimated inflows to long-term mutual funds and ETFs were $16.95 billion for the week ended March 11, 2026, with mutual fund outflows of $5.81 billion and ETF net issuance of $22.76 billion.",
+      "title": "Vanguard Growth ETF (VUG) and Vanguard S&P 500 Growth ETF (VOOG) to Undergo 6:1 Share Splits Effective April 21, 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
