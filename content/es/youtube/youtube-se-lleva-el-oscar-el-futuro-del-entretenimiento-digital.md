@@ -15,11 +15,11 @@ translationKey: "5fc4c90d-cb28-2336-8019-cd9cb94ebbc8"
 
 YouTube se ha consolidado como la plataforma de entretenimiento más consumida en España, superando a la televisión tradicional. Este liderazgo marca el inicio de una nueva era para los creadores de contenido y presenta un desafío directo a la industria cinematográfica de Hollywood.
 
-YouTube es líder en España en consumo de contenido porque un 71,3% de los usuarios españoles la utilizan para consumir vídeos, directos y otro tipo de material audiovisual. Además, según Pilar Sánchez, responsable de Top Creators & Agencies en YouTube España, el 46% del contenido de la plataforma se consume en televisores, lo que refuerza su relevancia dentro del hogar y acerca la experiencia a la del cine, pero con inmediatez y personalización.
+YouTube lidera el consumo de contenido en España porque un 71,3% de los usuarios españoles la utilizan para consumir vídeos, directos y otro tipo de material audiovisual. Además, según Pilar Sánchez, responsable de Top Creators & Agencies en YouTube España, el 46% del contenido de la plataforma se consume en televisores, lo que refuerza su relevancia dentro del hogar y acerca la experiencia a la del cine, pero con inmediatez y personalización.
 
 ## La batalla por la atención: YouTube vs. Hollywood
 
-YouTube ha captado una audiencia masiva que antes dominaba el cine porque en junio de 2025 superó a Hollywood con más de 37,4 millones de usuarios únicos en España, según datos internos de la plataforma. Esta migración refleja una preferencia creciente por contenido accesible y personalizado. La industria cinematográfica tradicional, en cambio, se enfrenta a retos para innovar y adaptarse a las nuevas demandas de los espectadores. Las herramientas de monetización de YouTube permiten a los creadores construir modelos de negocio sólidos, atrayendo talento al ecosistema digital.
+YouTube ha superado a Hollywood porque en junio de 2025 alcanzó más de 37,4 millones de usuarios únicos en España, según datos internos de la plataforma. Esta migración refleja una preferencia creciente por contenido accesible y personalizado. La industria cinematográfica tradicional, en cambio, se enfrenta a retos para innovar y adaptarse a las nuevas demandas de los espectadores. Las herramientas de monetización de YouTube permiten a los creadores construir modelos de negocio sólidos, atrayendo talento al ecosistema digital.
 
 Desde 2019, los ingresos globales de la industria cinematográfica han experimentado un descenso, mientras que las plataformas digitales, incluyendo YouTube, han experimentado un crecimiento. Este cambio redefine las expectativas de los espectadores, que ahora buscan experiencias más interactivas y personalizadas. La clave del éxito de YouTube reside en su capacidad para ofrecer contenido a la carta, adaptado a los intereses individuales de cada usuario, a diferencia de la programación lineal del cine tradicional.
 
@@ -51,7 +51,7 @@ Un estudio reciente de la Universidad Complutense de Madrid reveló que "el 70% 
 
 ## La influencia de la IA en la creación de contenido
 
-La inteligencia artificial (IA) está transformando la creación y distribución de contenido, pero Francesca Mortari, directora de YouTube España, advierte sobre riesgos a la autenticidad y los derechos de autor. La IA está cambiando radicalmente el panorama del entretenimiento porque permite automatizar tareas, personalizar contenidos y generar nuevas formas de expresión creativa.
+La inteligencia artificial (IA) está transformando la creación y distribución de contenido, aunque Francesca Mortari, directora de YouTube España, advierte sobre riesgos a la autenticidad y los derechos de autor. La IA está cambiando radicalmente el panorama del entretenimiento porque permite automatizar tareas, personalizar contenidos y generar nuevas formas de expresión creativa.
 
 Entre los avances más significativos se encuentra el uso de herramientas de IA como ChatGPT para generar guiones personalizados o Adobe Firefly para crear efectos visuales en tiempo récord. Sin embargo, la implementación de estos sistemas también ha despertado críticas sobre la capacidad de un contenido generado por IA para conectar emocionalmente con la audiencia. La clave para una implementación exitosa de la IA en la creación de contenido reside en encontrar un equilibrio entre la eficiencia y la creatividad humana.
 
