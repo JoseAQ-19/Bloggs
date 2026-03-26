@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-26T07:31:34.718128+00:00",
+  "scouted_at": "2026-03-26T07:34:42.128538+00:00",
   "total_candidates": 18,
   "topics": [
     {
       "rank": 1,
-      "title": "Premios Morningstar España 2026: ¿Por qué Magallanes Value Investors arrasó por tercera vez?",
+      "title": "Premios Morningstar España 2026: ¿Por qué Magallanes Value Investors repite como mejor gestora?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "CaixaBank Monetario Rendimiento: ¿Por qué huyen los inversores del mayor fondo de España justo antes de la guerra de Irán?",
+      "title": "CaixaBank Monetario Rendimiento: ¿Es preocupante la fuga de 475 millones antes de la guerra en Irán?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "inbestMe desafía al mercado: ¿Carteras Objetivo 2027-2031 con rentabilidad acumulada del 25%?",
+      "title": "ETF iShares MSCI ACWI: ¿La concentración tecnológica está limitando su potencial de diversificación?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
