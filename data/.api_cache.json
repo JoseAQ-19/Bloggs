@@ -1216,42 +1216,42 @@
   "6e9c6a02969a5e9b67222353d8954d32f29ac7ffcd642500a8a27decc747f088": {
     "data": [
       {
-        "title": "Intel mejora el rendimiento “gratis” con su Binary Optimization Tool, pero Geekbench cuestiona sus resultados",
+        "title": "Alyco Tools aprovecha la altura para ampliar y aumentar la robotización de su almacén",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La tecnología de Avid, protagonista en las películas ganadores de los Oscar",
+        "title": "Artlist Expands Its AI Platform with Professional-Grade AI Music for Video Production",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Lowe's expande herramientas Kreg Power Tools para potenciar capacidades DIY en el hogar",
+        "title": "El grupo GRAPE de la UJI propone un cambio de paradigma en la enseñanza de lenguas con una herramienta informática de análisis multimodal del discurso oral",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Chivas Femenil, with the tools to compete against anyone in the CL26",
+        "title": "Energy Tools y ACE se alían para liderar la gestión energética con tecnología y foco en el dato",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Why Salesforce (CRM) Shares Are Getting Obliterated Today",
+        "title": "SWMR|Swarmer Ord Shs|Precio:31.900|Variación %:-3.48",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774445857.9443393,
+    "cached_at": 1774532268.0918303,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
@@ -1265,28 +1265,28 @@
         "url": "https://www.xataka.com/robotica-e-ia/openai-parecia-imparable-ahora-ha-decidido-dejar-atras-sora-cambiar-rumbo"
       },
       {
-        "title": "Google ha encontrado la solución al 'AI slop' infantil en YouTube: más IA para niños en YouTube (pero de calidad)",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "http://t.xataka.com/robotica-e-ia/youtube-invierte-millon-contenido-ia-para-ninos-justo-cuando-acaba-declarar-guerra-al-contenido-ia-para-ninos"
-      },
-      {
-        "title": "Huawei lleva seis años maquinando un plan y ahora están listos destronar a la indestronable: NVIDIA",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/huawei-lleva-seis-anos-maquinando-plan-ahora-estan-listos-destronar-a-indestronable-nvidia"
-      },
-      {
         "title": "Apple prepara su evento más esperado en años. iOS 27 será la punta de lanza de su nueva IA con Google",
         "source": "exa",
         "lang": "en",
         "score": 0,
         "url": "http://t.applesfera.com/rumores/que-novedades-podemos-esperar-wwdc26-apple-protagonizada-ia-google"
+      },
+      {
+        "title": "¡Es oficial! Apple anuncia la WWDC26 donde se presentará iOS 27 y todas las novedades de software",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.applesfera.com/apple-1/oficial-apple-anuncia-wwdc26-donde-se-presentara-ios-27-todas-novedades-software"
+      },
+      {
+        "title": "Google ha encontrado la solución al 'AI slop' infantil en YouTube: más IA para niños en YouTube (pero de calidad)",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "http://t.xataka.com/robotica-e-ia/youtube-invierte-millon-contenido-ia-para-ninos-justo-cuando-acaba-declarar-guerra-al-contenido-ia-para-ninos"
       }
     ],
-    "cached_at": 1774445858.51157,
+    "cached_at": 1774532268.646245,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
