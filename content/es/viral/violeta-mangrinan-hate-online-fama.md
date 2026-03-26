@@ -21,19 +21,19 @@ Violeta Mangriñán no está sola: el 60% de las jóvenes españolas han experim
 
 ## El "Hate Watching" de Violeta Mangriñán: La Toxicidad 24/7 Que Desangra la Salud Mental
 
-El "hate watching" dirigido a influencers como Violeta Mangriñán ha alcanzado niveles preocupantes. Comunidades enteras se organizan exclusivamente para criticar y menospreciar cada aspecto de su vida, generando un clima de hostigamiento constante. Este fenómeno, impulsado por el anonimato de las redes sociales, convierte la crítica en un asedio psicológico permanente.
+El "hate watching" hacia influencers como Violeta Mangriñán implica la organización de comunidades para criticar y menospreciar cada aspecto de su vida. Este fenómeno, impulsado por el anonimato en redes sociales, genera un clima de hostigamiento constante que convierte la crítica en un asedio psicológico permanente.
 
 Arantxa Vizcaíno, profesora de la Universidad Internacional de La Rioja, subraya que "las comunidades de odio en redes no solo critican, sino que deshumanizan a quienes atacan, lo que deja profundas secuelas emocionales". A esto se suma la viralidad de los ataques, que amplifica el impacto y dificulta la recuperación emocional de las víctimas.
 
-El caso de Mangriñán no es único: figuras como Dulceida o Laura Escanes han denunciado dinámicas similares. En plataformas como Twitter, se han documentado hashtags y foros dedicados exclusivamente a desacreditar a influencers, convirtiendo el odio en una actividad grupal casi legitimada. Este fenómeno no solo afecta a los influencers, sino que actúa como espejo cultural de una sociedad donde la hostilidad se ha normalizado en el entorno digital.
+El caso de Mangriñán no es único: figuras como Dulceida o Laura Escanes han denunciado dinámicas similares. En plataformas como X (antes Twitter), se han documentado hashtags y foros dedicados exclusivamente a desacreditar a influencers, convirtiendo el odio en una actividad grupal casi legitimada. Este fenómeno no solo afecta a los influencers, sino que actúa como espejo cultural de una sociedad donde la hostilidad se ha normalizado en el entorno digital.
 
-Laura Cuesta, experta en educación digital, define el ciberacoso como un fenómeno "24/7". Este acoso constante dificulta la desconexión, erosiona la autoestima y puede derivar en graves problemas de salud mental. Este tipo de violencia no solo afecta a figuras públicas, sino que subraya un problema más amplio: la normalización del odio como forma de entretenimiento en el entorno digital.
+Laura Cuesta, experta en educación digital, define el ciberacoso como un fenómeno "24/7", dificultando la desconexión, erosionando la autoestima y pudiendo derivar en graves problemas de salud mental. Este tipo de violencia subraya la normalización del odio como forma de entretenimiento en el entorno digital.
 
 ## Más Allá de la "Ley de Influencers": El Vacío Legal Que Deja Desprotegida a Luisa Garrido
 
-La "Ley de Influencers" en España representa un avance en la regulación de contenido patrocinado y la protección de menores, pero omite abordar el acoso digital extremo. Luisa Garrido, streamer española, denunció haber recibido amenazas contra su familia y haber desarrollado pensamientos suicidas debido al odio en línea. Este caso evidencia las carencias legislativas en materia de protección frente al ciberacoso.
+La "Ley de Influencers" en España regula el contenido patrocinado y la protección de menores, pero no aborda el acoso digital extremo, tal como denuncia el caso de Luisa Garrido. Esta *streamer* denunció haber recibido amenazas contra su familia y haber desarrollado pensamientos suicidas debido al odio en línea, evidenciando las carencias legislativas en materia de protección frente al ciberacoso.
 
-España no es un caso aislado. En países como Francia, se han aprobado leyes que penalizan específicamente el ciberacoso, incluyendo la creación de tribunales especializados en delitos digitales. Sin embargo, en España, las medidas siguen siendo fragmentarias y reactivas, en lugar de preventivas.
+En Francia, por ejemplo, se han aprobado leyes que penalizan específicamente el ciberacoso, incluyendo la creación de tribunales especializados en delitos digitales. Sin embargo, en España, las medidas siguen siendo fragmentarias y reactivas, en lugar de preventivas.
 
 Según Adrián Chico, psicólogo y creador de contenido, "la educación digital es clave para combatir el ciberacoso, pero también es necesario que las leyes evolucionen para proteger a las víctimas". La legislación española sigue enfocada en delitos informáticos tradicionales, dejando de lado la especificidad de fenómenos como el "hate watching". Urge una reforma legal que contemple medidas de prevención, sanción y apoyo psicológico para las víctimas de acoso digital.
 
@@ -41,7 +41,7 @@ Además, plataformas como Instagram y TikTok tienen políticas de moderación qu
 
 ## TikTok: De Refugio Creativo a Trampa Viral
 
-TikTok, concebida como una plataforma de entretenimiento, ha evolucionado hacia un espacio donde la salud mental se trivializa. La proliferación de contenido relacionado con problemas psicológicos, creado por personas sin formación adecuada, genera confusión y desinformación. Esto, sumado al acoso persistente, convierte a la plataforma en un entorno tóxico para muchos usuarios.
+TikTok se ha transformado en un espacio donde la salud mental se trivializa, fomentando la confusión y desinformación debido a la proliferación de contenido sobre problemas psicológicos creado por personas sin formación. Esto, sumado al acoso persistente, convierte a la plataforma en un entorno tóxico para muchos usuarios.
 
 Alia González Jano, psicóloga especializada en educación digital, explica que "la presión por mantener una imagen perfecta en redes como TikTok eleva los niveles de ansiedad, especialmente en mujeres jóvenes". La viralización de tendencias peligrosas y la constante búsqueda de validación alimentan un ciclo de inseguridades y comparaciones que impactan gravemente en la salud mental.
 
@@ -51,7 +51,7 @@ La normalización de retos autodestructivos y contenidos dañinos es otro factor
 
 ## El Precio Oculto de la Autocensura: Carla Galeote y el Silencio Forzado
 
-Para evitar el acoso, influencers como Carla Galeote recurren a la autocensura, renunciando a expresar opiniones controvertidas para evitar ser blanco de odio. Este mecanismo defensivo, aunque comprensible, tiene un alto coste emocional y profesional, ya que limita su autenticidad y perpetúa la toxicidad en redes.
+La autocensura, como la practicada por *influencers* como Carla Galeote para evitar el acoso, implica renunciar a expresar opiniones controvertidas, lo que tiene un alto coste emocional y profesional. Este mecanismo defensivo, aunque comprensible, limita su autenticidad y perpetúa la toxicidad en redes.
 
 Según la Macroencuesta de Violencia contra la Mujer 2024 del Ministerio de Igualdad, el 12,2% de las mujeres españolas han sufrido acoso digital, siendo las jóvenes las más afectadas. La autocensura no es una solución sostenible y revela la necesidad urgente de crear espacios digitales seguros donde todos puedan expresarse libremente sin temor a represalias.
 
@@ -59,7 +59,7 @@ El efecto de esta autocensura no solo afecta a las víctimas directas, sino que 
 
 ## La Salud Mental de la Generación Z Bajo Amenaza
 
-Los jóvenes españoles pasan una media de 7 horas diarias conectados al móvil, con 4 de ellas dedicadas a redes sociales. Esta hiperconexión, lejos de ser inofensiva, está vinculada a un aumento de los casos de ansiedad, depresión y baja autoestima entre la Generación Z.
+La hiperconexión a redes sociales, con una media de 4 horas diarias dedicadas por los jóvenes españoles (de un total de 7 horas conectados al móvil), está vinculada a un aumento de casos de ansiedad, depresión y baja autoestima entre la Generación Z.
 
 Irene de la Vega Rodríguez, psicóloga clínica, señala que "el acoso en línea genera sentimientos de vergüenza y culpa, especialmente en adolescentes". Abordar esta problemática requiere la colaboración de familias, escuelas, plataformas digitales y especialistas en salud mental.
 
@@ -69,11 +69,11 @@ El papel de los padres también es fundamental. Según un informe de UNICEF, sol
 
 ## Propuestas para un Entorno Digital Más Saludable
 
-Para combatir el impacto del acoso y la toxicidad en redes, es necesario implementar medidas concretas:
+Para combatir el impacto del acoso y la toxicidad en redes, es necesario implementar medidas concretas que protejan la salud mental de los jóvenes y creadores de contenido.
 
 - **Educación digital integral:** Incluir programas escolares que enseñen a usar redes sociales de forma crítica y segura, abordando temas como el ciberacoso y la gestión de la privacidad.
 - **Regulación estricta de plataformas:** Obligar a las redes sociales a moderar contenidos dañinos, eliminar cuentas falsas y garantizar la transparencia de sus algoritmos.
-- **Acceso a apoyo psicológico:** Crear servicios accesibles de ayuda psicológica para víctimas de acoso en línea, como líneas de ayuda especializadas y terapia online.
+- **Acceso a apoyo psicológico:** Crear servicios accesibles de ayuda psicológica para víctimas de acoso en línea, como líneas de ayuda especializadas y terapia *online*.
 - **Fomento de la empatía:** Lanzar campañas que promuevan el respeto y la tolerancia, dirigidas a todas las edades.
 - **Legislación contra el "hate watching":** Desarrollar normas específicas que penalicen estas prácticas y protejan a las víctimas.
 - **Fomento del pensamiento crítico:** Integrar recursos educativos que enseñen a los jóvenes a identificar y evitar dinámicas de odio en línea.
@@ -82,9 +82,9 @@ El odio en línea no es una forma legítima de crítica, sino una violencia psic
 
 **Fuentes:**
 
-- [Ministerio de Igualdad - Macroencuesta de Violencia contra la Mujer 2024](https://violenciagenero.igualdad.gob.es)
-- [El Español - Ciberacoso: la otra pandemia silenciosa que afecta a 7 de cada 10 niños en España](https://www.elespanol.com)
-- [La Razón - El infierno de Luisa Garrido, la 'streamer' amenazada de muerte](https://www.larazon.es)
-- [El Confidencial - La activista que sufrió 'deepfakes' exige anonimato trazable y regulación al Gobierno](https://www.elconfidencial.com)
-- [Infosalus - Adicción a redes sociales: síntomas de ansiedad, depresión y agresividad](https://www.infosalus.com)
-- [UNICEF España - Estudio sobre infancia y uso de redes sociales en 2023](https://www.unicef.es)
+- [Ministerio de Igualdad - Macroencuesta de Violencia contra la Mujer 2024](https://violenciagenero.igualdad.gob.es/estadisticas/otrasEstadisticas/macroencuesta2024/pdf/Macroencuesta_Violencia_contra_la_Mujer_2024.pdf)
+- **El Español - Ciberacoso: la otra pandemia silenciosa que afecta a 7 de cada 10 niños en España**
+- [La Razón - El infierno de Luisa Garrido, la 'streamer' amenazada de muerte](https://www.larazon.es/television/20230308/u34g6r3w2jgj5nc05yvszj54pe.html)
+- **El Confidencial - La activista que sufrió 'deepfakes' exige anonimato trazable y regulación al Gobierno**
+- **Infosalus - Adicción a redes sociales: síntomas de ansiedad, depresión y agresividad**
+- **UNICEF España - Estudio sobre infancia y uso de redes sociales en 2023**
