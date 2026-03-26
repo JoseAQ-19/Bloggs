@@ -552,42 +552,42 @@
   "fb4ad1bcef6d3043168469167a15cb1cb1ab0f544701e2b912c49d41dd73fb7a": {
     "data": [
       {
-        "title": "Meta y YouTube pierden el juicio sobre la adicción de los menores a redes sociales y son declaradas “negligentes”",
+        "title": "Meta y YouTube condenadas a pagar 3 millones de dólares en EE UU por adicción a redes",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Meta y YouTube, culpables de perjudicar la salud mental de un menor en un juicio histórico",
+        "title": "La adicción de Kaley, la niña que derrotó a Meta y YouTube: ansiedad, depresión y pensamientos suicidas",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La justicia declara a Meta y YouTube culpables de dañar la salud mental en un caso histórico sobre adicción a las redes sociales",
+        "title": "La Diputación emite su Pleno en directo a través de Youtube",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Meta y YouTube, condenados a pagar tres millones de dólares a una joven por daños a la salud mental y adicción a las redes sociales",
+        "title": "YouTube quiere que señales videos malos generados por IA: así funciona su nueva herramienta",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Meta y YouTube, condenadas a pagar 3 millones de dólares por provocar adicción",
+        "title": "‘La Marea’ deja YouTube: “Es nuestra responsabilidad con las lectoras y lectores”",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774466413.210252,
+    "cached_at": 1774553201.088458,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
@@ -601,28 +601,28 @@
         "url": "http://t.xataka.com/robotica-e-ia/youtube-invierte-millon-contenido-ia-para-ninos-justo-cuando-acaba-declarar-guerra-al-contenido-ia-para-ninos"
       },
       {
+        "title": "El veredicto que hace temblar a Silicon Valley: Meta y Google, responsables por la adicción de una joven y condenados a pagarle millones de dólares - Meristation",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/meristation/betech/el-veredicto-que-hace-temblar-a-silicon-valley-meta-y-google-responsables-por-la-adiccion-de-una-joven-y-condenados-a-pagarle-millones-de-dolares-f202603-n/"
+      },
+      {
         "title": "Apple prepara su evento más esperado en años. iOS 27 será la punta de lanza de su nueva IA con Google",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "http://t.applesfera.com/rumores/que-novedades-podemos-esperar-wwdc26-apple-protagonizada-ia-google"
+        "url": "https://www.applesfera.com/rumores/que-novedades-podemos-esperar-wwdc26-apple-protagonizada-ia-google"
       },
       {
-        "title": "OpenAI parecía imparable. Ahora ha decidido dejar atrás Sora y cambiar de rumbo",
+        "title": "Decían que la IA generativa de vídeo acabaría con Hollywood. De momento la pelea está de parte de la tradición",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/openai-parecia-imparable-ahora-ha-decidido-dejar-atras-sora-cambiar-rumbo"
-      },
-      {
-        "title": "La NASA ha cambiado radicalmente sus planes con la Luna: apuestan por colonizarla antes de 2030",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://m.xataka.com/espacio/nasa-ha-cambiado-radicalmente-sus-planes-luna-apuestan-colonizarla-antes-2030"
+        "url": "https://magnet.xataka.com/robotica-e-ia/cuando-se-lanzo-sora-muchos-asumieron-que-era-muerte-hollywood-solo-dos-anos-despues-sora-no-existe"
       }
     ],
-    "cached_at": 1774466413.759188,
+    "cached_at": 1774553202.5980015,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
