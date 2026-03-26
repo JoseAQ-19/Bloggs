@@ -293,61 +293,47 @@
   "6b917a81fd9eedfed0c8175dfe38aafa9e90472ee53445d8e4541e481f95984d": {
     "data": [
       {
-        "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
+        "title": "IKEA's viral donut lamp just got smarter — what to know about the Matter-over-Thread Varmblixt lamp",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "This Viral Crock-Pot Chicken Pasta Has Taken Over The Internet, So I Put It To The Test",
+        "title": "Yailin La Más Viral Arrested in Dominican Republic for Alleged Weapons Possession",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Why do some viruses linger for life? A 900,000-person study maps viral loads",
+        "title": "Florida man’s wild attempt to save car from hail goes viral: \"I’d rather go down trying\"",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "What to know about ‘boy kibble’, the viral meal slop trend",
+        "title": "#TSRMommyDuties: How adorable?! 😍 This viral mom, who works in healthcare, stays motivated by her baby girl, Jream, keeping her on her toes. Despite being born prematurely, Jream is a fighter at just 2 years old, designing clothing with her mom for their cl",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Going viral saved my bakery, but it's never been about the money for me",
+        "title": "9‑year‑old powerlifter stuns internet with 180‑pound deadlift in viral video",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774478423.8345,
+    "cached_at": 1774564327.1320343,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
   "78419185a472eac00403a11a229938d32ad88b963bbfbf48284eb0cbba1ee66b": {
     "data": [
-      {
-        "title": "Es oficial: El planeta vive su década más calurosa y la OMM alerta sobre impactos duraderos | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/es-oficial-el-planeta-vive-su-decada-mas-calurosa-y-la-omm-alerta-sobre-impactos-duraderos"
-      },
-      {
-        "title": "Prohibir las redes a menores está de moda, pero Brasil prefiere exigir plataformas menos adictivas | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/prohibir-las-redes-sociales-a-menores-esta-de-moda-pero-brasil-apuesta-por-otra-cosa"
-      },
       {
         "title": "Hace 3,000 años, artesanos chinos fabricaron un hacha con metal extraterrestre; así fue como arqueólogos la hallaron | WIRED",
         "source": "exa",
@@ -361,9 +347,23 @@
         "lang": "en",
         "score": 0,
         "url": "https://es.wired.com/articulos/este-mapa-interactivo-muestra-la-expansion-y-afectaciones-del-derrame-en-el-golfo-de-mexico"
+      },
+      {
+        "title": "Elon Musk pauses changes to X's creator revenue-sharing program after backlash | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/03/25/elon-musk-pauses-changes-to-xs-creator-revenue-sharing-program-after-backlash/"
+      },
+      {
+        "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/"
       }
     ],
-    "cached_at": 1774478424.394689,
+    "cached_at": 1774564327.8473945,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
