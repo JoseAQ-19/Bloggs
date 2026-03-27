@@ -35,6 +35,13 @@
 - [x] PROBLEMA #2 (Fase 3): Toda la lógica pesada extraída a orchestrator.py
 - [x] PROBLEMA #2: main.py adelgazado de 1737 → 158 líneas (-1579 líneas totales, -90%)
 
+## ✅ COMPLETADO (EDITOR JEFE Y CI/CD FIX)
+- [x] Resuelto conflicto de Git en Actions: Configurado merge=union driver en .gitattributes para `data/completed.txt`
+- [x] Limpieza de Muros de Texto: Imposición de párrafos de 3 sentencias máximo en `prompts_factory.py`
+- [x] Escudo E-E-A-T: Supresión de homepages como enlaces en prompts, obligando a usar deep links exactos.
+- [x] Corrección Schema SEO: `text_cleaner.py` pulido para suprimir el duplicado de `NewsArticle/Article` JSON-LD que inyectaba el LLM.
+- [x] Resolución de Seguridad CRÍTICA: Eliminado el token PAT de Github de `check_apis_used.py`, `fetch_logs.py` y `fetch_logs_req.py` reemplazado por `os.getenv('GITHUB_TOKEN')` debido a un flag de GitHub Push Protection.
+
 ## 🟡 PENDIENTE (DEUDA TÉCNICA)
 - [ ] Centralizar cascadas LLM duplicadas en llm_router.py
 - [ ] Arreglar or_client/groq_client sin inicializar en stocks_writer.py
