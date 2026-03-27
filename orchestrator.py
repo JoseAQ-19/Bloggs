@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import random
 import glob
@@ -954,8 +955,24 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
 }}
 </script>
 """
-    # Agregar Footer Links y JSON-LD al contenido
-    contenido_enrich = contenido.strip() + internal_links_footer + "\n\n" + json_ld.strip()
+    # ── PROGRAMMATIC E-E-A-T AUTHORSHIP & DISCLAIMERS ──
+    # Caja de Autoría
+    author_box = f"""
+---
+
+<div class="author-box" style="padding: 20px; background-color: #f8f9fa; border-left: 4px solid #0056b3; margin-top: 30px; border-radius: 4px;">
+    {("<h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>" if lang == 'es' else "<h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>")}
+</div>
+""" if category in ['crypto', 'funds', 'stocks'] else ""
+
+    # Disclaimer Financiero (YMYL)
+    yml_disclaimer = f"""
+> [!CAUTION]
+> **{("Aviso de Riesgo y Exención de Responsabilidad" if lang == 'es' else "Risk Warning & Disclaimer")}:** {("El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado." if lang == 'es' else "The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.")}
+""" if category in ['crypto', 'funds', 'stocks'] else ""
+
+    # Agregar Disclaimers, Cajas de Autor, Footer Links y JSON-LD al contenido
+    contenido_enrich = contenido.strip() + "\n\n" + yml_disclaimer.strip() + "\n" + author_box.strip() + "\n" + internal_links_footer + "\n\n" + json_ld.strip()
 
     # Frontmatter YAML original
     front_matter = f"""---

@@ -331,9 +331,14 @@ SYSTEM_FORMAT_RULES = """
    IF YOU ARE WRITING IN SPANISH, ALL HEADERS MUST BE IN SPANISH.
    Each section MUST be at least 250-300 words.
 
-9. NO BULLET LISTS SPAM AND NO TABLES ALLOWED:
-   Maximum ONE bulleted list per article (the GEO opening bullets).
-   ABSOLUTE PROHIBITION ON TABLES (| --- |). Use narrative prose.
+9. STRUCTURED DATA FOR AI (GEO OPTIMIZATION - MANDATORY):
+   If the article discusses funds, stocks, technical specs, or compares two entities, you MUST include a Markdown Table.
+   Tables represent the highest information density for LLMs and readers.
+   Format rules for tables:
+   - Use clean Markdown syntax `| Header | Header |`
+   - Limit to 3 or 4 columns (e.g., Asset | Symbol | YTD Return | Expense Ratio).
+   - Use bold text for column headers.
+   Aside from the table, avoid excessive bullet point spam (max 2 short lists per article).
 10. E-E-A-T EXPERT CITATION (MANDATORY):
     Cite at least 2 named experts (full name + title + institution) in the article.
     Include at least 5 numeric data points with sources. At least ONE link MUST point to a primary authority (.gov, .edu, NIST, IEEE, or official corporate reports).
@@ -349,7 +354,9 @@ SYSTEM_FORMAT_RULES = """
     At the absolute END of the article, you MUST generate a valid `<script type="application/ld+json">` block containing ONLY a `FAQPage` schema based on real user complaints/doubts. DO NOT generate `NewsArticle` or `Article` schemas.
     The output MUST be valid JSON-LD code enclosed in raw HTML tags without any other text.
 15. REAL USER FAQs (MANDATORY DUAL FORMAT):
-    You MUST include a FAQ section as the penultimate H2. This section MUST be written in plain Markdown/HTML in the article body for human users to read. ADDITIONALLY, the exact same FAQ content must be encoded in the `FAQPage` JSON-LD at the end of the article. Do NOT invent generic FAQs; rely on the research data.
+    You MUST include a FAQ section as the penultimate H2. This section MUST be written in plain Markdown/HTML in the article body for human users to read.
+    CRITICAL STRUCTURE: You MUST start the section with an H2 (e.g., `## Real User FAQs` or `## Preguntas Frecuentes`). The individual questions MUST be H3 (`###`). DO NOT jump straight to H3 without an H2 parent.
+    ADDITIONALLY, the exact same FAQ content must be encoded in the `FAQPage` JSON-LD at the end of the article. Do NOT invent generic FAQs; rely on the research data.
 """
 
 # ═══════════════════════════════════════════════════════════════════

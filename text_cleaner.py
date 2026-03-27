@@ -8,7 +8,8 @@ import re
 import unicodedata
 import logging
 import time
-from urllib.parse import urlparse
+import random
+from urllib.parse import urlparse, unquote
 
 # ═══════════════════════════════════════════════════════════════════
 # CONSTANTES DE DETECCIÓN Y CONFIANZA
@@ -65,6 +66,129 @@ AI_SELF_REFERENCE_PATTERNS = [
 ]
 
 # ═══════════════════════════════════════════════════════════════════
+# GOOGLE NEWS LINK RESOLVER (Desofuscador)
+# ═══════════════════════════════════════════════════════════════════
+
+def _resolve_google_news_url(opaque_url: str, timeout: int = 10) -> str:
+    """
+    Resuelve una URL opaca de Google News RSS (news.google.com/rss/articles/...)
+    siguiendo las redirecciones HTTP para obtener el Deep Link real.
+    Retorna la URL final o la original si falla.
+    """
+    try:
+        import requests as req_lib
+    except ImportError:
+        return opaque_url
+
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+    }
+    try:
+        # Seguir redirecciones con HEAD para rapidez
+        resp = req_lib.head(
+            opaque_url, headers=headers, allow_redirects=True, timeout=timeout
+        )
+        final_url = resp.url
+
+        # Validar que no sea otra redirección de Google
+        if 'google.com' not in final_url and final_url != opaque_url:
+            return final_url
+
+        # Si HEAD no resolvió, intentar GET completo
+        resp = req_lib.get(
+            opaque_url, headers=headers, allow_redirects=True, timeout=timeout, stream=True
+        )
+        final_url = resp.url
+        if 'google.com' not in final_url:
+            return final_url
+
+    except Exception as e:
+        logging.debug(f"Link Resolver falló para {opaque_url[:60]}: {e}")
+
+    return opaque_url  # Fallback: devolver la original
+
+
+def resolve_google_news_links(text: str) -> str:
+    """
+    Escanea el texto Markdown buscando enlaces de Google News RSS
+    y los reemplaza por los Deep Links reales resueltos.
+    Si la resolución falla para un enlace, se conserva el texto ancla
+    como referencia en negrita (sin link roto).
+    """
+    google_news_pattern = re.compile(
+        r'\[([^\]]+)\]\((https?://news\.google\.com/rss/articles/[^)]+)\)'
+    )
+    matches = google_news_pattern.findall(text)
+    if not matches:
+        return text
+
+    print(f"   🔗 [Link Resolver] Encontrados {len(matches)} enlaces de Google News. Resolviendo...")
+    resolved_count = 0
+
+    for anchor, opaque_url in matches:
+        real_url = _resolve_google_news_url(opaque_url)
+        original_md = f'[{anchor}]({opaque_url})'
+
+        if real_url != opaque_url and 'google.com' not in real_url:
+            # Éxito: reemplazar con deep link
+            text = text.replace(original_md, f'[{anchor}]({real_url})')
+            resolved_count += 1
+        else:
+            # Fallo: conservar el ancla como texto en negrita sin link roto
+            text = text.replace(original_md, f'**{anchor}**')
+
+    print(f"   ✅ [Link Resolver] {resolved_count}/{len(matches)} enlaces resueltos a Deep Links.")
+    return text
+
+
+# ═══════════════════════════════════════════════════════════════════
+# FAQ HEADING HIERARCHY FIXER (SEO Semántico)
+# ═══════════════════════════════════════════════════════════════════
+
+def fix_faq_heading_hierarchy(text: str) -> str:
+    """
+    Asegura que las preguntas FAQ (### H3) siempre tengan un
+    ## H2 padre que las englobe. Busca patrones comunes de
+    secciones FAQ sin H2 y los corrige.
+    """
+    # Patrón: detectar si hay un H3 de FAQ sin un H2 previo que lo contenga
+    faq_h3_patterns = [
+        r'(^|\n)(### (?:¿|Is |How |What |Can |Why |Does |Should |Where |When |Will ))',
+    ]
+
+    # Buscar si ya existe un H2 de FAQs
+    has_faq_h2 = bool(re.search(
+        r'^## (?:Real User FAQs|Preguntas Frecuentes|Frequently Asked Questions|FAQs|FAQ)',
+        text, flags=re.MULTILINE | re.IGNORECASE
+    ))
+
+    if has_faq_h2:
+        return text  # Ya tiene estructura correcta
+
+    # Buscar la primera pregunta FAQ (H3 que empieza con ¿ o palabras interrogativas EN)
+    faq_start = re.search(
+        r'^(### (?:¿[^\n]+|(?:Is|How|What|Can|Why|Does|Should|Where|When|Will) [^\n]+))',
+        text, flags=re.MULTILINE
+    )
+
+    if faq_start:
+        # Determinar idioma basado en contenido
+        is_spanish = '¿' in text[:500] or bool(re.search(r'DISCLAIMER.*inversión', text, re.IGNORECASE))
+        faq_header = '## Preguntas Frecuentes' if is_spanish else '## Real User FAQs'
+
+        # Inyectar H2 justo antes de la primera pregunta H3 detectada
+        pos = faq_start.start()
+        # Buscar un separador --- antes, si existe
+        pre_separator = text.rfind('---', max(0, pos - 20), pos)
+        inject_pos = pre_separator if pre_separator != -1 else pos
+
+        text = text[:inject_pos] + f'\n\n{faq_header}\n\n' + text[inject_pos:]
+        print(f"   📐 [FAQ Fixer] Inyectado '{faq_header}' como H2 padre de las FAQs.")
+
+    return text
+
+
+# ═══════════════════════════════════════════════════════════════════
 # FUNCIONES CLAVE DE PROCESAMIENTO
 # ═══════════════════════════════════════════════════════════════════
 
@@ -92,13 +216,20 @@ def extract_json_ld(text: str) -> str:
     text = re.sub(r'(?i)```html\n?(<script type="application/ld\+json">.*?</script>)\n?```', r'\1', text, flags=re.DOTALL)
     text = re.sub(r'(?i)```json\n?(\{.*?"@context".*?\})\n?```', r'<script type="application/ld+json">\n\1\n</script>', text, flags=re.DOTALL)
 
-    # 2. Purgar bloque JSON-LD de NewsArticle o Article (Hugo ya inyecta el principal)
+    # 2. Purgar bloque JSON-LD de NewsArticle o Article (el orquestador inyecta el oficial)
     text = re.sub(r'(?si)<script[^>]*type=["\']application/ld\+json["\'][^>]*>.*?(?:"@type"\s*:\s*["\'](?:News)?Article["\']).*?</script>\s*', '', text)
 
-    # 3. Eliminar posibles encabezados markdown de la IA sobre el JSON
+    # 3. Purgar bloques JSON-LD "desnudos" que el LLM suelta sin <script> tags
+    #    Ejemplo: un bloque { "@context": "https://schema.org", "@type": "NewsArticle"...}
+    text = re.sub(r'(?s)\n\{[^{}]*"@context"\s*:\s*"https?://schema\.org"[^{}]*"@type"\s*:\s*"(?:News)?Article"[^{}]*\}\s*', '\n', text)
+
+    # 4. Purgar secciones markdown-header del LLM que encabezan el JSON
     text = re.sub(r'(?i)\*\*JSON-LD:\*\*.*?\n', '', text)
-    text = re.sub(r'(?i)### Metadatos SEO.*?\n', '', text)
+    text = re.sub(r'(?im)^#{2,3}\s*(?:Schema Markup|Metadatos SEO|Structured Data).*?\n', '', text)
     text = re.sub(r'(?i)\*\*(?:Data|FAQ) Schema\*\*\s*\n', '', text)
+
+    # 5. Limpiar mainEntityOfPage con example.com (huella digital del LLM)
+    text = re.sub(r'(?s)<script[^>]*type=["\']application/ld\+json["\'][^>]*>.*?example\.com.*?</script>\s*', '', text)
     
     return text
 
@@ -149,6 +280,12 @@ def clean_markdown(text: str) -> str:
     
     # Llamar extracción explícita (si había json-ld, protegerlo)
     text = extract_json_ld(text)
+    
+    # Resolver enlaces opacos de Google News a Deep Links reales
+    text = resolve_google_news_links(text)
+    
+    # Corregir jerarquía de FAQs (H3 sin H2 padre)
+    text = fix_faq_heading_hierarchy(text)
     
     # Validar enlaces como última capa
     text = validate_links(text)
