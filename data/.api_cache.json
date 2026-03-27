@@ -1223,77 +1223,77 @@
   "6e9c6a02969a5e9b67222353d8954d32f29ac7ffcd642500a8a27decc747f088": {
     "data": [
       {
-        "title": "Alyco Tools aprovecha la altura para ampliar y aumentar la robotización de su almacén",
+        "title": "Fair Value and Analyst Forecasts: 5 Best Free Tools to Estimate",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Artlist Expands Its AI Platform with Professional-Grade AI Music for Video Production",
+        "title": "SWMR|Swarmer Ord Shs|Precio:36.710|Variación %:4.81",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El grupo GRAPE de la UJI propone un cambio de paradigma en la enseñanza de lenguas con una herramienta informática de análisis multimodal del discurso oral",
+        "title": "Harrison Ford’s Shocking Outburst Nearly Wrecked a Movie Set",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Energy Tools y ACE se alían para liderar la gestión energética con tecnología y foco en el dato",
+        "title": "Matillion Launches Maia's Migration Agent: Autonomous Migration for Legacy ETL Platforms",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "SWMR|Swarmer Ord Shs|Precio:31.900|Variación %:-3.48",
+        "title": "Google facilita la migración de chats a Gemini desde otros chatbots",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774532268.0918303,
+    "cached_at": 1774618564.4678018,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "d3e0b697eb375d60495f1b6d1f6c436c149ae1e2a919c1ae80263ab8fde1d244": {
     "data": [
       {
-        "title": "OpenAI parecía imparable. Ahora ha decidido dejar atrás Sora y cambiar de rumbo",
+        "title": "Adiós a Sora: OpenAI \"mata\" a su herramienta de vídeo generado por IA menos de año y medio después de su lanzamiento",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/openai-parecia-imparable-ahora-ha-decidido-dejar-atras-sora-cambiar-rumbo"
+        "url": "https://magnet.xataka.com/robotica-e-ia/openai-parecia-imparable-ahora-ha-decidido-dejar-atras-sora-cambiar-rumbo"
       },
       {
-        "title": "Apple prepara su evento más esperado en años. iOS 27 será la punta de lanza de su nueva IA con Google",
+        "title": "YouTube quiere que señales videos malos generados por IA: así funciona su nueva herramienta - Meristation",
         "source": "exa",
-        "lang": "en",
+        "lang": "es",
         "score": 0,
-        "url": "http://t.applesfera.com/rumores/que-novedades-podemos-esperar-wwdc26-apple-protagonizada-ia-google"
+        "url": "https://as.com/meristation/betech/youtube-quiere-que-senales-videos-malos-generados-por-ia-asi-funciona-su-nueva-herramienta-f202603-n/"
       },
       {
-        "title": "¡Es oficial! Apple anuncia la WWDC26 donde se presentará iOS 27 y todas las novedades de software",
+        "title": "El duro aterrizaje de OpenAI: tras años al frente, está descubriendo que la IA no se gana solo con memes y hype",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.applesfera.com/apple-1/oficial-apple-anuncia-wwdc26-donde-se-presentara-ios-27-todas-novedades-software"
+        "url": "http://www.xataka.com/empresas-y-economia/openai-se-prometia-felices-vendiendo-hype-memes-que-se-ha-dado-golpe-realidad"
       },
       {
-        "title": "Google ha encontrado la solución al 'AI slop' infantil en YouTube: más IA para niños en YouTube (pero de calidad)",
+        "title": "Las mejores alternativas a Sora para crear vídeos con inteligencia artificial",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "http://t.xataka.com/robotica-e-ia/youtube-invierte-millon-contenido-ia-para-ninos-justo-cuando-acaba-declarar-guerra-al-contenido-ia-para-ninos"
+        "url": "https://www.xataka.com/basics/mejores-alternativas-a-sora-para-crear-videos-inteligencia-artificial"
       }
     ],
-    "cached_at": 1774532268.646245,
+    "cached_at": 1774618565.1121213,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
