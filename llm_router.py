@@ -39,11 +39,10 @@ class LLMRouter:
             print("   [Debug] No se encontraron tokens de GitHub Models configurados.")
             return None
             
-        # Top 3 Modelos de GitHub Models a iterar
+        # Top Modelos de GitHub Models a iterar
         github_models = [
             "gpt-4o",
-            "gpt-4o-mini",
-            "meta-llama-3.1-70b-instruct"
+            "gpt-4o-mini"
         ]
         
         # Bucle 1: Iterar sobre las Cuentas (Tokens)
