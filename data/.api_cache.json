@@ -62,77 +62,77 @@
   "4618dd580265f460566f713ecc35b03ce5ab52b17e317eed8d0201579ddcf0d6": {
     "data": [
       {
-        "title": "Recoger basura mientras sales a correr: así es la nueva tendencia fitness que combina deporte y cuidado del medio ambiente",
+        "title": "Ray Alarcón, un bombero de oro en los deportes de 'fitness'",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Es difícil de creer, pero la transformación física de este hombre de 60 años demuestra que para entrenar no hay edad y que se pueden conseguir grandes músculos con una buen ética de trabajo",
+        "title": "Campello Fitness despliega un fin de semana de deporte con actividades para todos los niveles",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El Club Olympic Center organiza el Campeonato de Melilla Functional Fitness SF3",
+        "title": "Entrenar según tu energía: el nuevo enfoque fitness que marcará 2026",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Fitness en la Braidense: ¡la biblioteca se convierte en gimnasio para un evento!",
+        "title": "Rosalía: \"Las pesas son superesenciales. Siempre las llevo conmigo porque no tengo tiempo para entrenar y hago hombros, un poco de tríceps... el fitness está siempre en mi cabeza\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Paula Suárez, experta en fitness: “Para hacer una sentadilla un error frecuente es pensar que las rodillas no pueden pasar la punta de los pies”",
+        "title": "David Mateo, experto en fitness: \"Si bebes mucha agua durante las comidas, diluyes los ácidos gástricos y digieres peor\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774500660.5933228,
+    "cached_at": 1774587103.469118,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "f57c7b2f36f1b097c5b6ce234958742b388d8049bb95db71d158ac3ca0835b52": {
     "data": [
       {
-        "title": "Cocó Constans, creadora del método ‘ffitpilates’: “Los hombres se creen que el pilates no es para ellos” - AS.com",
+        "title": "¿Tu pecho no progresa? 6 fallos comunes al entrenarlo que frenan el progreso - Mejor con Salud",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/tikitakas/salud/coco-constans-creadora-del-metodo-ffitpilates-los-hombres-se-creen-que-el-pilates-no-es-para-ellos-f202603-n/"
+        "url": "https://mejorconsalud.as.com/bienestar/tu-pecho-no-progresa-6-fallos-comunes-al-entrenarlo-que-frenan-el-progreso/"
       },
       {
-        "title": "Estamos a un paso de extinguir la obesidad en medio mundo gracias a algo: la patente de Ozempic va a expirar este mes",
+        "title": "Llevamos años creyendo que la primavera nos agota. La ciencia dice que nos lo estamos inventando",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://m.xataka.com/medicina-y-salud/fin-monopolio-ozempic-esta-aqui-algunos-paises-lluvia-genericos-que-promete-hundir-precios"
+        "url": "https://xataka.com/medicina-y-salud/llevamos-anos-creyendo-que-primavera-nos-agota-ciencia-dice-que-nos-estamos-inventando"
       },
       {
-        "title": "150 profesores y entrenadores de deportes de invierno competirán en Vallter - AS.com",
+        "title": "Xiaomi Watch 5, análisis: el equilibrio entre batería, sistema y diseño premium",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://as.com/deportes_accion/snow/150-profesores-y-entrenadores-de-deportes-de-invierno-competiran-en-vallter-f202603-n/"
+        "url": "https://magnet.xataka.com/analisis/xiaomi-watch-5-analisis-caracteristicas-especificaciones"
       },
       {
-        "title": "Daniel Lumera, biólogo naturalista: “Un buen ejercicio para poner a prueba y mejorar el estado de presencia mental” - AS.com",
+        "title": "watchOS 26 - toda la información sobre la gran actualización para el Apple Watch",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://as.com/tikitakas/salud/daniel-lumera-biologo-naturalista-un-buen-ejercicio-para-poner-a-prueba-y-mejorar-el-estado-de-presencia-mental-f202603-n/"
+        "url": "https://www.applesfera.com/nuevo/watchos-12-informacion"
       }
     ],
-    "cached_at": 1774500661.2798984,
+    "cached_at": 1774587104.043376,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
