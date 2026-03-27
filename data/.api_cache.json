@@ -139,67 +139,53 @@
   "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
     "data": [
       {
-        "title": "Clovis Planet Fitness temporarily closed for safety concerns",
+        "title": "Planet Fitness opens Hawaii facilities to residents displaced by Kona low storms",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "5 arrested after $100K vandalism at L.A. Fitness in Santa Fe Springs",
+        "title": "20+ fitness tracker deals to shop in the Amazon Big Spring Sale — Garmin, Apple, and Google on sale",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Jo Dee Messina Credits Fitness Transformation to the Gym: 'This Isn't, Hey, Let's Pop a Pill and Be Skinny in a Month'",
+        "title": "What is Hyrox? Fast-growing fitness race is in Houston this week",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "New, popular and unique fitness classes available at RPAC for Autumn 2026 semester",
+        "title": "RCPS plans for ‘Rockingham Moves’ pilot program to promote student fitness, healthy habits",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Meet the 40-year-old Democrat who owns a fitness company for pregnant and postpartum women and just won in Trump's district",
+        "title": "These 6 Best Ellipticals Offer Cardio Workouts While Being Gentle on Joints",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774502205.0537052,
+    "cached_at": 1774588699.2652671,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "5f74b081c9753b13b48c085df1624d184c9deb4bc34d11178f03bbc18aeae64e": {
     "data": [
       {
-        "title": "La falta de gravedad en Marte afectaría nuestros cuerpos, pero ¿cuál es el límite seguro? | WIRED",
+        "title": "HONOR crea su primer Robot Humanoide | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/la-falta-de-gravedad-en-marte-afectaria-nuestros-cuerpos-pero-cual-es-el-limite-seguro"
-      },
-      {
-        "title": "Es oficial: El planeta vive su década más calurosa y la OMM alerta sobre impactos duraderos | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/es-oficial-el-planeta-vive-su-decada-mas-calurosa-y-la-omm-alerta-sobre-impactos-duraderos"
-      },
-      {
-        "title": "Las sequías podrían favorecer la aparición de bacterias resistentes a los antibióticos | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/las-sequias-podrian-favorecer-la-aparicion-de-bacterias-resistentes-a-los-antibioticos"
+        "url": "https://es.wired.com/articulos/honor-crea-primer-robot-humanoide"
       },
       {
         "title": "Fitness Trackers Archive for March 2026 - Page 1 | The Verge",
@@ -207,9 +193,23 @@
         "lang": "en",
         "score": 0,
         "url": "https://www.theverge.com/archives/fitness-trackers/2026/3/1"
+      },
+      {
+        "title": "The Verge",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://store.theverge.com/gadgets/899134/fitbit-ace-amazon-big-spring-sale-2026-deal"
+      },
+      {
+        "title": "Google TV's new Gemini features keep fans updated on sports teams and more | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/03/24/google-tv-s-new-gemini-features-keep-fans-updated-on-sports-teams-and-more/"
       }
     ],
-    "cached_at": 1774502205.6244895,
+    "cached_at": 1774588699.9366784,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
