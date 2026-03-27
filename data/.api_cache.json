@@ -475,20 +475,6 @@
   "c7dcb72dc33baaa2e522c198717b4b418fcd1e9a91af28dfbac294c4b153973d": {
     "data": [
       {
-        "title": "Fannie Mae accepts first crypto-backed mortgage product",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Fannie Mae to Accept Crypto-Backed Mortgages for the First Time",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
         "title": "OpenClaw Developers Targeted in Crypto-Wallet Phishing Attack",
         "source": "google_news",
         "lang": "en",
@@ -496,56 +482,70 @@
         "url": ""
       },
       {
-        "title": "Crypto for a home? Coinbase brings token-backed down payments to housing market",
+        "title": "Homebuyers can now use crypto as collateral for mortgage loans without selling their tokens",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "A $20 Billion Crypto Scam Market Faces a New Government Crackdown",
+        "title": "Strategy is accelerating its crypto purchases as rivals sit on the sidelines",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "David Sacks says he’s no longer White House AI, crypto czar",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "SEC & CFTC Issue Historic Crypto Asset Framework: What to Know",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774547520.625909,
+    "cached_at": 1774633783.4008892,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "db4cf0fe883cd8d987c633ca7c9adb75314597f893f367cbf745e8aa11ded4e3": {
     "data": [
       {
-        "title": "El problema con COBOL: el lenguaje de programación que sostiene el mundo pero nadie sabe cómo reemplazar | WIRED",
+        "title": "A $20 Billion Crypto Scam Market Faces a New Government Crackdown | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/cobol-el-lenguaje-de-programacion-que-sostiene-el-mundo-pero-nadie-sabe-como-reemplazar"
+        "url": "https://www.wired.com/story/20-billion-xinbi-guarantee-uk-sanctions/"
       },
       {
-        "title": "Elon Musk pauses changes to X's creator revenue-sharing program after backlash | TechCrunch",
+        "title": "La NASA abandona el proyecto Gateway y apuesta por una base permanente en la Luna | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/25/elon-musk-pauses-changes-to-xs-creator-revenue-sharing-program-after-backlash/"
+        "url": "https://es.wired.com/articulos/la-nasa-abandona-el-proyecto-gateway-y-apuesta-por-una-base-permanente-en-la-luna"
       },
       {
-        "title": "Este mapa interactivo muestra la expansión y afectaciones del derrame en el Golfo de México | WIRED",
+        "title": "Adiós, Sora: OpenAI abandona su generador de video con IA después de dos años  | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/este-mapa-interactivo-muestra-la-expansion-y-afectaciones-del-derrame-en-el-golfo-de-mexico"
+        "url": "https://es.wired.com/articulos/adios-sora-openai-abandona-su-generador-de-video-con-ia-despues-de-dos-anos"
       },
       {
-        "title": "OpenAI Enters Its Focus Era by Killing Sora | WIRED",
+        "title": "México inicia su programa de supercómputo con proyecto para analizar el clima y prevenir desastres naturales | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/"
+        "url": "https://es.wired.com/articulos/mexico-inicia-su-programa-de-supercomputo-con-proyecto-para-analizar-el-clima-y-prevenir-desastres-naturales"
       }
     ],
-    "cached_at": 1774547521.1039326,
+    "cached_at": 1774633784.086656,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
