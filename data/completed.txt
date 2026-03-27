@@ -494,3 +494,4 @@ ia: AI Agent With Root Access: Why Security Experts Are Freaking Out
 tools: 5 Herramientas GRATIS para Calcular el Valor Justo de una Acción (y Predecir el Futuro)
 youtube: Kanye desafía a la industria: Lanza su nuevo álbum 'bully' directo en YouTube
 tools: Level Up Your Health: Must-Have Home Monitoring Tools
+funds: Magallanes gana su tercer premio consecutivo y consolida su liderazgo en gestión de fondos
