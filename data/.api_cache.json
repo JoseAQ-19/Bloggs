@@ -971,56 +971,49 @@
   "21a068db0cd0ba4e3b3272cddddd6e25dad487d2eb369a2766316588951e7843": {
     "data": [
       {
-        "title": "CGI obtiene el estatus Gold de Databricks, reconociendo sus capacidades de IA, datos y analítica",
+        "title": "Sindicato Unión General de Trabajadoras y Trabajadores de España",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "¿El fin de los pinceles? Arte, IA y creatividad humana",
+        "title": "Empresas y bufetes dicen sí a la IA, pero siempre con criterio, ética y transparencia",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Las pymes vascas contarán con un itinerario para implantar la IA en sus negocios",
+        "title": "La implementación de la IA en el derecho debe ser estratégica y controlada por los profesionales",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Barracuda presenta novedades para impulsar la resiliencia en el uso de la IA",
+        "title": "A medida que la IA amplía el acceso a las habilidades, las credenciales importan más, no menos",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La IA como herramienta en el urbanismo: experiencias reales para mejorar la gestión pública",
+        "title": "Robots agricultores y ganaderos armados de inteligencia artificial, así son las granjas del futuro",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774520603.2362041,
+    "cached_at": 1774606759.922901,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
   "712dc6b87821c74ce3310d15eb2faa5011ccf2d0df44b2a976b735ced665ce6e": {
     "data": [
       {
-        "title": "Show HN: Per-table access control for DuckLake lakehouses",
-        "source": "hackernews",
-        "lang": "en",
-        "score": 3,
-        "url": "https://github.com/berndsen-io/ducklake-guard"
-      },
-      {
-        "title": "Ask HN: HSL 0.1 – The Human Source License. Please help refining",
+        "title": "AI Agent Has Root Access (and That's a Problem)",
         "source": "hackernews",
         "lang": "en",
         "score": 2,
@@ -1032,44 +1025,44 @@
         "lang": "en",
         "score": 2,
         "url": ""
+      },
+      {
+        "title": "Show HN: Palindromes.py – spits out single-word and multi-word palindromes",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 1,
+        "url": "https://github.com/jazzfan2/palindromes"
       }
     ],
-    "cached_at": 1774520603.6210876,
+    "cached_at": 1774606760.1848407,
     "func": "fetch_hackernews",
     "args_summary": "(['ia'],)"
   },
   "46503d41ef4fee113ff718159ee99bd6e87c149d97104b3a6a5f5ddc5f6be1b3": {
     "data": [
       {
-        "title": "YouTube sabe que tiene un problema con el \"slop\" IA para niños. Sucede que el principal culpable es YouTube",
+        "title": "Europa sí puede ser líder en IA: este es el sector que lleva ventaja frente a EEUU y China",
         "source": "exa",
-        "lang": "en",
+        "lang": "es",
         "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/youtube-invierte-millon-contenido-ia-para-ninos-justo-cuando-acaba-declarar-guerra-al-contenido-ia-para-ninos"
+        "url": "https://www.businessinsider.es/tecnologia/europa-si-puede-ser-lider-ia-este-es-sector-que-lleva-ventaja-frente-eeuu-china_6950810_0.html"
       },
       {
-        "title": "OpenAI parecía imparable. Ahora ha decidido dejar atrás Sora y cambiar de rumbo",
+        "title": "Apple prepara el mayor cambio de Siri: así será iOS 27 con IA, y botón Pregúntale",
         "source": "exa",
-        "lang": "en",
+        "lang": "es",
         "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/openai-parecia-imparable-ahora-ha-decidido-dejar-atras-sora-cambiar-rumbo"
+        "url": "https://www.businessinsider.es/big-tech/apple-prepara-mayor-cambio-siri-asi-sera-ios-27-con-ia-nueva-app-boton-preguntale_6950327_0.html"
       },
       {
-        "title": "A OpenAI se le multiplican los problemas en la carrera por la IA. Su solución: pasar de 4.500 a 8.000 trabajadores",
+        "title": "Google ha encontrado la solución al 'AI slop' infantil en YouTube: más IA para niños en YouTube (pero de calidad)",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://xataka.com/empresas-y-economia/openai-ha-llegado-a-conclusion-quiere-imponerse-a-anthropic-necesita-manos-asi-que-va-a-duplicar-su-plantilla"
-      },
-      {
-        "title": "Según Jensen Huang ya hemos llegado a la AGI: el problema es que de momento solo sirve para alimentar Tamagotchis",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/jensen-huang-cree-que-hemos-alcanzado-que-viene-lobo-ia-perfecta-para-alimentar-a-tamagotchi"
+        "url": "http://t.xataka.com/robotica-e-ia/youtube-invierte-millon-contenido-ia-para-ninos-justo-cuando-acaba-declarar-guerra-al-contenido-ia-para-ninos"
       }
     ],
-    "cached_at": 1774520604.694416,
+    "cached_at": 1774606760.7042332,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
