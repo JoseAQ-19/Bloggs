@@ -15,6 +15,7 @@ import sys
 import json
 import random
 import time
+import logging
 import argparse
 import requests
 import xml.etree.ElementTree as ET
@@ -65,7 +66,8 @@ def _stocks_llm_generate_v3_core(prompt, system_prompt):
                 if resp.status_code == 200:
                     text = resp.json()["choices"][0]["message"]["content"].strip()
                     if len(text) > 20: return text
-            except: pass
+            except Exception as e:
+                logging.warning(f"[Stocks Scout] TIER 1 OpenRouter attempt {attempt+1} failed: {type(e).__name__}: {str(e)[:150]}")
 
     # ── [2] HF Serverless ──
     if HF_SCOUT_KEY:
@@ -73,7 +75,8 @@ def _stocks_llm_generate_v3_core(prompt, system_prompt):
             print(f"   🧠 [Stocks Scout] TIER 2: HF Serverless...")
             resp = requests.post("https://router.huggingface.co/models/Qwen/Qwen3-32B/v1/chat/completions", headers={"Authorization": f"Bearer {HF_SCOUT_KEY}", "Content-Type": "application/json"}, json={"model": "Qwen/Qwen3-32B", "messages": [{"role": "user", "content": prompt}], "temperature": 0.7, "max_tokens": 2048}, timeout=120)
             if resp.status_code == 200: return resp.json()["choices"][0]["message"]["content"].strip()
-        except: pass
+        except Exception as e:
+            logging.warning(f"[Stocks Scout] TIER 2 HF Serverless (Qwen3-32B) failed: {type(e).__name__}: {str(e)[:150]}")
 
     # ── [3] GROQ ──
     if GROQ_API_KEY:
@@ -81,7 +84,8 @@ def _stocks_llm_generate_v3_core(prompt, system_prompt):
             print(f"   🚀 [Stocks Scout] TIER 3: Groq...")
             resp = requests.post("https://api.groq.com/openai/v1/chat/completions", headers={"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}, json={"model": "llama-3.3-70b-versatile", "messages": [{"role": "user", "content": prompt}], "temperature": 0.7, "max_tokens": 2048}, timeout=90)
             if resp.status_code == 200: return resp.json()["choices"][0]["message"]["content"].strip()
-        except: pass
+        except Exception as e:
+            logging.warning(f"[Stocks Scout] TIER 3 Groq (Llama-3.3-70B) failed: {type(e).__name__}: {str(e)[:150]}")
 
     # ── [4] GEMINI ──
     if gemini_client:
@@ -89,7 +93,8 @@ def _stocks_llm_generate_v3_core(prompt, system_prompt):
             print("   🚨 [Stocks Scout] TIER 4: Gemini 2.0 Flash...")
             resp = gemini_client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
             return resp.text.strip()
-        except: pass
+        except Exception as e:
+            logging.warning(f"[Stocks Scout] TIER 4 Gemini Flash failed: {type(e).__name__}: {str(e)[:150]}")
     return None
 
 

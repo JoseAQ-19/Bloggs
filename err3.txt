@@ -1,0 +1,104 @@
+﻿python : INFO: AFC is 
+enabled with max remote 
+calls: 10.
+En línea: 1 Carácter: 33
++ ... NG="utf-8" ; python 
+main.py --category youtube 
+--lang es 2>&1 | Out-F ...
++                  ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~
+    + CategoryInfo           
+   : NotSpecified: (INFO: A  
+  FC is en...mote calls: 1   
+ 0.:String) [], RemoteExc    
+eption
+    + FullyQualifiedErrorId  
+   : NativeCommandError
+ 
+INFO: HTTP Request: POST http
+s://generativelanguage.google
+apis.com/v1beta/models/gemini
+-2.0-flash:generateContent 
+"HTTP/1.1 429 Too Many 
+Requests"
+INFO: AFC is enabled with 
+max remote calls: 10.
+INFO: HTTP Request: POST http
+s://generativelanguage.google
+apis.com/v1beta/models/gemini
+-2.0-flash:generateContent 
+"HTTP/1.1 429 Too Many 
+Requests"
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"
+INFO: AFC is enabled with 
+max remote calls: 10.
+INFO: HTTP Request: POST http
+s://generativelanguage.google
+apis.com/v1beta/models/gemini
+-2.0-flash:generateContent 
+"HTTP/1.1 429 Too Many 
+Requests"
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"
+­ƒÜÇ INICIANDO PENTAGON: Creator Economy
+   ­ƒöä [Fallback] Usando TrendHunter cl├ísico...
+­ƒÄ» [Sniper] Buscando objetivo para: youtube...
+   ­ƒô░ [News Mode] Buscando noticias de tendencia para youtube...
+   ­ƒåò [Cache MISS] _get_google_news_headlines() ÔåÆ Primera llamada. Consultando API...
+   ­ƒÆ¥ [Cache SAVED] _get_google_news_headlines() ÔåÆ 3 resultados guardados.
+   ­ƒöä [Cache EXPIRED] _get_google_news_headlines() ÔåÆ 77.5h > TTL 12h. Refrescando...
+   ­ƒÆ¥ [Cache SAVED] _get_google_news_headlines() ÔåÆ 3 resultados guardados.
+   ­ƒîÉ [Grounding] Buscando tendencias en tiempo real...
+   ÔÜá´©Å [Grounding] Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 44.844384413s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '44s'}]}}
+   ­ƒºá [Selector] Eligiendo mejor tema de 6 candidatos...
+   ÔÜá´©Å [Selector] Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 44.763752143s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '44s'}]}}
+   [Debug] Token 1 detectado: 40 chars
+   [Debug] Token 2 detectado: 40 chars
+   [GITHUB] [TIER 0-A (GITHUB-CEU)] Intentando gpt-4o-mini en GitHub Models...
+   [SUCCESS] TIER 0-A (GITHUB-CEU) respondi├│ con ├®xito (1 palabras).
+­ƒÄ» TEMA: El ÔÇÿinfluencerÔÇÖ de emergencias Miguel Assal desata una pol├®mica al revelar que pon├¡a en peligro a mujeres para hacerse el ÔÇ£h├®roeÔÇØ | IDIOMA ORIGEN: ES
+   ­ƒöæ [Hugo Hreflang] Translation Key (Determinista): e3f127cd-ebc9-95a5-ed4c-4afd48b30581
+   ­ƒîÉ [Relay-Race] Ejecutando tuber├¡a nativa SOLO para audiencia: ES
+
+­ƒöì INICIANDO GEO-RESEARCH E-E-A-T PARA: 'El ÔÇÿinfluencerÔÇÖ de emergencias Miguel Assal desata una pol├®mica al revelar que pon├¡a en peligro a mujeres para hacerse el ÔÇ£h├®roeÔÇØ' [ES]
+   Categor├¡a: youtube | Contexto: YouTube creator drama controversy trending viral TikTok chal...
+   ÔøÅ´©Å [Deep-Keyword Miner] Prospectando pozos de conocimiento para 'El ÔÇÿinfluencerÔÇÖ de emergencias Miguel Assal desata una pol├®mica al revelar que pon├¡a en peligro a mujeres para hacerse el ÔÇ£h├®roeÔÇØ'...
+   ­ƒºá [Triforce LLM] Extrayendo Entidades de Poder y generando Super-Query...
+   ÔÜá´©Å Gemini Triforce fallback: name 'LLMRouter' is not defined
+
+­ƒÑç CAPA 1: NotebookLM DEEP Research (E-E-A-T Mode) [ES]...
+ÔÜá´©Å [Capa 1] Falta Auth o Binario MCP. Saltando.
+
+­ƒÑê CAPA 2: Gemini Grounding + Google Search (E-E-A-T) [ES]...
+   ÔÜá´©Å Error Capa 2: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 41.854623156s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '41s'}]}}
+
+­ƒÑë CAPA 3: Scraping Cl├ísico (Playwright) [ES]...
+   [Debug] Token 1 detectado: 40 chars
+   [Debug] Token 2 detectado: 40 chars
+   [GITHUB] [TIER 0-A (GITHUB-CEU)] Intentando gpt-4o en GitHub Models...
+   [SUCCESS] TIER 0-A (GITHUB-CEU) respondi├│ con ├®xito (956 palabras).
+Ô£ì´©Å PULITZER PIPELINE (ES): El ÔÇÿinfluencerÔÇÖ de emergencias Miguel Assal desata una pol├®mica al revelar que pon├¡a en peligro a mujeres para hacerse el ÔÇ£h├®roeÔÇØ Analysis...
+   ­ƒôè Research source: Classic Scraping
+   ­ƒÄ» [Fase 1/3] Especialista en Clickbait ├ëtico...
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"

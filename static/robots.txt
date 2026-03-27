@@ -1,0 +1,22 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: *
+Allow: /
+
+# Bloquear rutas basura o no rastreables
+Disallow: /tmp/
+Disallow: /drafts/
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /search/ 
+Disallow: /author/
+
+# Permitir explícitamente contenido importante
+Allow: /es/
+Allow: /en/
+
+Sitemap: https://novumworld.com/sitemap.xml

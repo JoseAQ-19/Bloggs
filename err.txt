@@ -1,0 +1,46 @@
+﻿python : Traceback (most 
+recent call last):
+En línea: 1 Carácter: 1
++ python main.py --category 
+youtube --lang es 2>&1 | 
+Out-File -FilePath ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo           
+   : NotSpecified: (Traceba  
+  ck (most recent call las   
+ t)::String) [], RemoteEx    
+ception
+    + FullyQualifiedErrorId  
+   : NativeCommandError
+ 
+  File "C:\Users\usuario\Desk
+top\Bloggs\main.py", line 
+1718, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\usuario\Desk
+top\Bloggs\main.py", line 
+1598, in main
+    print(f"\U0001f680 
+INICIANDO PENTAGON: 
+{NICHES[cat]['name']}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Wind
+owsApps\PythonSoftwareFoundat
+ion.Python.3.13_3.13.3312.0_x
+64__qbz5n2kfra8p0\Lib\encodin
+gs\cp1252.py", line 19, in 
+encode
+    return codecs.charmap_enc
+ode(input,self.errors,encodin
+g_table)[0]
+           ~~~~~~~~~~~~~~~~~~
+~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^
+UnicodeEncodeError: 
+'charmap' codec can't encode 
+character '\U0001f680' in 
+position 0: character maps 
+to <undefined>

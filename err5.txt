@@ -1,0 +1,129 @@
+﻿python : INFO: HTTP Request: 
+POST https://models.inference
+.ai.azure.com/chat/completion
+s "HTTP/1.1 200 OK"
+En línea: 1 Carácter: 33
++ ... NG="utf-8" ; python 
+main.py --category youtube 
+--lang es 2>&1 | Out-F ...
++                  ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~
+    + CategoryInfo           
+   : NotSpecified: (INFO: H  
+  TTP Requ...TTP/1.1 200 O   
+ K":String) [], RemoteExc    
+eption
+    + FullyQualifiedErrorId  
+   : NativeCommandError
+ 
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"
+INFO: AFC is enabled with 
+max remote calls: 10.
+INFO: HTTP Request: POST http
+s://generativelanguage.google
+apis.com/v1beta/models/gemini
+-2.0-flash:generateContent 
+"HTTP/1.1 429 Too Many 
+Requests"
+ERROR: ÔØî Fallo cr├¡tico en 
+Cascada Original: 429 
+RESOURCE_EXHAUSTED. 
+{'error': {'code': 429, 
+'message': 'You exceeded 
+your current quota, please 
+check your plan and billing 
+details. For more 
+information on this error, 
+head to: https://ai.google.de
+v/gemini-api/docs/rate-limits
+. To monitor your current 
+usage, head to: 
+https://ai.dev/rate-limit. 
+\n* Quota exceeded for 
+metric: generativelanguage.go
+ogleapis.com/generate_content
+_free_tier_input_token_count,
+ limit: 0, model: 
+gemini-2.0-flash\n* Quota 
+exceeded for metric: generati
+velanguage.googleapis.com/gen
+erate_content_free_tier_reque
+sts, limit: 0, model: 
+gemini-2.0-flash\n* Quota 
+exceeded for metric: generati
+velanguage.googleapis.com/gen
+erate_content_free_tier_reque
+sts, limit: 0, model: 
+gemini-2.0-flash\nPlease 
+retry in 9.971858376s.', 
+'status': 
+'RESOURCE_EXHAUSTED', 
+'details': [{'@type': 'type.g
+oogleapis.com/google.rpc.Help
+', 'links': [{'description': 
+'Learn more about Gemini API 
+quotas', 'url': 'https://ai.g
+oogle.dev/gemini-api/docs/rat
+e-limits'}]}, {'@type': 'type
+.googleapis.com/google.rpc.Qu
+otaFailure', 'violations': 
+[{'quotaMetric': 'generativel
+anguage.googleapis.com/genera
+te_content_free_tier_input_to
+ken_count', 'quotaId': 'Gener
+ateContentInputTokensPerModel
+PerMinute-FreeTier', 
+'quotaDimensions': 
+{'location': 'global', 
+'model': 
+'gemini-2.0-flash'}}, 
+{'quotaMetric': 'generativela
+nguage.googleapis.com/generat
+e_content_free_tier_requests'
+, 'quotaId': 'GenerateRequest
+sPerMinutePerProjectPerModel-
+FreeTier', 
+'quotaDimensions': 
+{'location': 'global', 
+'model': 
+'gemini-2.0-flash'}}, 
+{'quotaMetric': 'generativela
+nguage.googleapis.com/generat
+e_content_free_tier_requests'
+, 'quotaId': 'GenerateRequest
+sPerDayPerProjectPerModel-Fre
+eTier', 'quotaDimensions': 
+{'model': 
+'gemini-2.0-flash', 
+'location': 'global'}}]}, 
+{'@type': 'type.googleapis.co
+m/google.rpc.RetryInfo', 
+'retryDelay': '9s'}]}}
+INFO: AFC is enabled with 
+max remote calls: 10.
+INFO: HTTP Request: POST http
+s://generativelanguage.google
+apis.com/v1beta/models/gemini
+-2.0-flash:generateContent 
+"HTTP/1.1 429 Too Many 
+Requests"
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"

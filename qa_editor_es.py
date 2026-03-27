@@ -15,6 +15,7 @@ import re
 import json
 import glob
 import time
+import logging
 import argparse
 import requests
 from datetime import datetime
@@ -231,7 +232,8 @@ def _call_llm_es_v3_core(prompt, system_prompt):
                 )
                 result = response.choices[0].message.content.strip()
                 if result and len(result) > 500: return result
-            except: pass
+            except Exception as e:
+                logging.warning(f"[Editor ES] TIER 1 DeepSeek V3 attempt {attempt+1} failed: {type(e).__name__}: {str(e)[:150]}")
 
     # Intento 2: HF Serverless
     if CORRECTOR_HF_KEY:
@@ -246,7 +248,8 @@ def _call_llm_es_v3_core(prompt, system_prompt):
             if hf_resp.status_code == 200:
                 result = hf_resp.json()["choices"][0]["message"]["content"].strip()
                 if result and len(result) > 500: return result
-        except: pass
+        except Exception as e:
+            logging.warning(f"[Editor ES] TIER 2 HF Qwen3-32B failed: {type(e).__name__}: {str(e)[:150]}")
 
     # Intento 3: Groq
     if GROQ_API_KEY:
@@ -256,7 +259,8 @@ def _call_llm_es_v3_core(prompt, system_prompt):
             response = groq_client.chat.completions.create(model="llama-3.3-70b-versatile", messages=[{"role": "system", "content": system_prompt}, {"role": "user", "content": prompt}], temperature=0.4, max_tokens=8000)
             result = response.choices[0].message.content.strip()
             if result and len(result) > 500: return result
-        except: pass
+        except Exception as e:
+            logging.warning(f"[Editor ES] TIER 3 Groq Llama-3.3-70B failed: {type(e).__name__}: {str(e)[:150]}")
 
     # Intento 4: Gemini
     if GEMINI_KEY:
@@ -265,7 +269,8 @@ def _call_llm_es_v3_core(prompt, system_prompt):
             gemini_client = genai.Client(api_key=GEMINI_KEY)
             response = gemini_client.models.generate_content(model="gemini-2.0-flash", contents=f"{system_prompt}\n\n{prompt}")
             return response.text.strip()
-        except: pass
+        except Exception as e:
+            logging.warning(f"[Editor ES] TIER 4 Gemini Flash failed: {type(e).__name__}: {str(e)[:150]}")
     return None
 
 

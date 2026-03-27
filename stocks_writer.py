@@ -71,7 +71,8 @@ def _call_writer_engine_v3_core(prompt_text: str, lang: str = "en") -> Optional[
                 resp = or_client.chat.completions.create(model="deepseek/deepseek-chat-v3-0324:free", messages=[{"role": "user", "content": ds_prompt}], temperature=0.85)
                 res = resp.choices[0].message.content.strip()
                 if res and len(res) > 500: return res
-            except: pass
+            except Exception as e:
+                logging.warning(f"[Stocks Writer ES] TIER 1 DeepSeek V3 failed: {type(e).__name__}: {str(e)[:150]}")
 
         # ── MOTOR ES 2: Groq (Llama 3.3 70B) ──
         if GROQ_API_KEY:
@@ -80,7 +81,8 @@ def _call_writer_engine_v3_core(prompt_text: str, lang: str = "en") -> Optional[
                 resp = groq_client.chat.completions.create(model="llama-3.3-70b-versatile", messages=[{"role": "user", "content": llama_prompt}])
                 res = resp.choices[0].message.content.strip()
                 if res and len(res) > 500: return res
-            except: pass
+            except Exception as e:
+                logging.warning(f"[Stocks Writer ES] TIER 2 Groq Llama-3.3-70B failed: {type(e).__name__}: {str(e)[:150]}")
     else:
         # ── MOTOR EN 1: OpenRouter DeepSeek V3 ──
         if or_key:
@@ -89,7 +91,8 @@ def _call_writer_engine_v3_core(prompt_text: str, lang: str = "en") -> Optional[
                 resp = or_client.chat.completions.create(model="deepseek/deepseek-chat-v3-0324:free", messages=[{"role": "user", "content": ds_prompt}])
                 res = resp.choices[0].message.content.strip()
                 if res and len(res) > 500: return res
-            except: pass
+            except Exception as e:
+                logging.warning(f"[Stocks Writer EN] TIER 1 DeepSeek V3 failed: {type(e).__name__}: {str(e)[:150]}")
 
         # ── MOTOR EN 2: Groq ──
         if GROQ_API_KEY:
@@ -97,7 +100,8 @@ def _call_writer_engine_v3_core(prompt_text: str, lang: str = "en") -> Optional[
                 resp = groq_client.chat.completions.create(model="llama-3.3-70b-versatile", messages=[{"role": "user", "content": prompt_text}])
                 res = resp.choices[0].message.content.strip()
                 if res and len(res) > 500: return res
-            except: pass
+            except Exception as e:
+                logging.warning(f"[Stocks Writer EN] TIER 2 Groq failed: {type(e).__name__}: {str(e)[:150]}")
 
     # TIER 3: NVIDIA Fallback
     nvidia_key = os.getenv("NVIDIA_API_KEY")
@@ -107,7 +111,8 @@ def _call_writer_engine_v3_core(prompt_text: str, lang: str = "en") -> Optional[
             resp = nvidia_client.chat.completions.create(model="meta/llama-3.1-70b-instruct", messages=[{"role": "user", "content": prompt_text}])
             res = resp.choices[0].message.content.strip()
             if res and len(res) > 500: return res
-        except: pass
+        except Exception as e:
+            logging.warning(f"[Stocks Writer] TIER 3 NVIDIA Llama-3.1-70B failed: {type(e).__name__}: {str(e)[:150]}")
 
     # TIER 4: Gemini 
     if gemini_client:

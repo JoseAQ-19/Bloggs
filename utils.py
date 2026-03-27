@@ -119,37 +119,10 @@ class ContentCleaner:
         if not text:
             return text
 
-        # 1. ELIMINAR bloques <script> de JSON-LD (Ahora gestionados por layouts/partials/schema.html)
-        text = re.sub(r'<script type="application/ld\+json">.*?</script>', '\n\n', text, flags=re.DOTALL | re.IGNORECASE)
-
-        # 2. Búsqueda de indicios de JSON (@context o @type NewsArticle)
-        # Buscamos el inicio de un objeto { que contenga metadatos pronto
-        json_starts = list(re.finditer(r'\{', text))
-        if not json_starts:
-            return text
-
-        # Procesar desde el final hacia el inicio para no romper los offsets
-        for start_match in reversed(json_starts):
-            start_pos = start_match.start()
-            # Mirar los próximos 200 caracteres para ver si es metadato
-            snippet = text[start_pos:start_pos+300]
-            if '"@context"' in snippet or '"@type"' in snippet:
-                # Intentar recolectar el bloque balanceado
-                depth = 0
-                end_pos = -1
-                for i in range(start_pos, len(text)):
-                    if text[i] == '{': depth += 1
-                    elif text[i] == '}': depth -= 1
-                    
-                    if depth == 0:
-                        end_pos = i + 1
-                        break
-                
-                if end_pos != -1:
-                    # Validar si el bloque recolectado realmente parece JSON-LD fugado
-                    block = text[start_pos:end_pos]
-                    if '@context' in block or '"@type"' in block:
-                        text = text[:start_pos] + "\n\n" + text[end_pos:]
+        # 1. PRESERVAR bloques <script> de JSON-LD y limpiar artefactos markdown alrededor
+        # Ya no eliminamos los tags, permitimos que el LLM pase el Schema SEO válido.
+        text = re.sub(r'(?i)```html\n?(<script type="application/ld\+json">.*?</script>)\n?```', r'\1', text, flags=re.DOTALL)
+        text = re.sub(r'(?i)```json\n?(\{.*?"@context".*?\})\n?```', r'<script type="application/ld+json">\n\1\n</script>', text, flags=re.DOTALL)
 
         # 3. Eliminar posibles encabezados markdown de la IA sobre el JSON
         text = re.sub(r'(?i)\*\*JSON-LD:\*\*.*?\n', '', text)

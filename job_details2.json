@@ -1,0 +1,124 @@
+﻿{
+    "id":  67146757036,
+    "run_id":  23117973556,
+    "workflow_name":  "Writer Tools - English",
+    "head_branch":  "main",
+    "run_url":  "https://api.github.com/repos/JoseAQ-19/Bloggs/actions/runs/23117973556",
+    "run_attempt":  1,
+    "node_id":  "CR_kwDORBouns8AAAAPokIzrA",
+    "head_sha":  "d29a224ff4309bb669acdee8fe89e7414dec030e",
+    "url":  "https://api.github.com/repos/JoseAQ-19/Bloggs/actions/jobs/67146757036",
+    "html_url":  "https://github.com/JoseAQ-19/Bloggs/actions/runs/23117973556/job/67146757036",
+    "status":  "completed",
+    "conclusion":  "failure",
+    "created_at":  "2026-03-15T19:50:09Z",
+    "started_at":  "2026-03-15T19:50:12Z",
+    "completed_at":  "2026-03-15T19:51:02Z",
+    "name":  "generate",
+    "steps":  [
+                  {
+                      "name":  "Set up job",
+                      "status":  "completed",
+                      "conclusion":  "success",
+                      "number":  1,
+                      "started_at":  "2026-03-15T19:50:13Z",
+                      "completed_at":  "2026-03-15T19:50:14Z"
+                  },
+                  {
+                      "name":  "Run actions/checkout@v4",
+                      "status":  "completed",
+                      "conclusion":  "success",
+                      "number":  2,
+                      "started_at":  "2026-03-15T19:50:14Z",
+                      "completed_at":  "2026-03-15T19:50:19Z"
+                  },
+                  {
+                      "name":  "Run actions/setup-python@v5",
+                      "status":  "completed",
+                      "conclusion":  "success",
+                      "number":  3,
+                      "started_at":  "2026-03-15T19:50:19Z",
+                      "completed_at":  "2026-03-15T19:50:19Z"
+                  },
+                  {
+                      "name":  "Run actions/setup-node@v4",
+                      "status":  "completed",
+                      "conclusion":  "success",
+                      "number":  4,
+                      "started_at":  "2026-03-15T19:50:19Z",
+                      "completed_at":  "2026-03-15T19:50:22Z"
+                  },
+                  {
+                      "name":  "Install Dependencies",
+                      "status":  "completed",
+                      "conclusion":  "success",
+                      "number":  5,
+                      "started_at":  "2026-03-15T19:50:22Z",
+                      "completed_at":  "2026-03-15T19:50:49Z"
+                  },
+                  {
+                      "name":  "Setup NotebookLM MCP",
+                      "status":  "completed",
+                      "conclusion":  "success",
+                      "number":  6,
+                      "started_at":  "2026-03-15T19:50:49Z",
+                      "completed_at":  "2026-03-15T19:50:59Z"
+                  },
+                  {
+                      "name":  "Run python main.py --category tools --lang en",
+                      "status":  "completed",
+                      "conclusion":  "failure",
+                      "number":  7,
+                      "started_at":  "2026-03-15T19:50:59Z",
+                      "completed_at":  "2026-03-15T19:51:00Z"
+                  },
+                  {
+                      "name":  "Run git config --global user.name \"JoseAQ-19\"",
+                      "status":  "completed",
+                      "conclusion":  "skipped",
+                      "number":  8,
+                      "started_at":  "2026-03-15T19:51:00Z",
+                      "completed_at":  "2026-03-15T19:51:00Z"
+                  },
+                  {
+                      "name":  "Post Run actions/setup-node@v4",
+                      "status":  "completed",
+                      "conclusion":  "skipped",
+                      "number":  14,
+                      "started_at":  "2026-03-15T19:51:00Z",
+                      "completed_at":  "2026-03-15T19:51:00Z"
+                  },
+                  {
+                      "name":  "Post Run actions/setup-python@v5",
+                      "status":  "completed",
+                      "conclusion":  "skipped",
+                      "number":  15,
+                      "started_at":  "2026-03-15T19:51:00Z",
+                      "completed_at":  "2026-03-15T19:51:00Z"
+                  },
+                  {
+                      "name":  "Post Run actions/checkout@v4",
+                      "status":  "completed",
+                      "conclusion":  "success",
+                      "number":  16,
+                      "started_at":  "2026-03-15T19:51:00Z",
+                      "completed_at":  "2026-03-15T19:51:00Z"
+                  },
+                  {
+                      "name":  "Complete job",
+                      "status":  "completed",
+                      "conclusion":  "success",
+                      "number":  17,
+                      "started_at":  "2026-03-15T19:51:00Z",
+                      "completed_at":  "2026-03-15T19:51:00Z"
+                  }
+              ],
+    "check_run_url":  "https://api.github.com/repos/JoseAQ-19/Bloggs/check-runs/67146757036",
+    "labels":  [
+                   "ubuntu-latest"
+               ],
+    "runner_id":  1000001488,
+    "runner_name":  "GitHub Actions 1000001488",
+    "runner_group_id":  0,
+    "runner_group_name":  "GitHub Actions"
+}

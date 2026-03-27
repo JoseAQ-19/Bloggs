@@ -1,0 +1,250 @@
+﻿python : INFO: AFC is 
+enabled with max remote 
+calls: 10.
+En línea: 1 Carácter: 33
++ ... NG="utf-8" ; python 
+main.py --category youtube 
+--lang es 2>&1 | Out-F ...
++                  ~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~
+    + CategoryInfo           
+   : NotSpecified: (INFO: A  
+  FC is en...mote calls: 1   
+ 0.:String) [], RemoteExc    
+eption
+    + FullyQualifiedErrorId  
+   : NativeCommandError
+ 
+INFO: HTTP Request: POST http
+s://generativelanguage.google
+apis.com/v1beta/models/gemini
+-2.0-flash:generateContent 
+"HTTP/1.1 429 Too Many 
+Requests"
+INFO: AFC is enabled with 
+max remote calls: 10.
+INFO: HTTP Request: POST http
+s://generativelanguage.google
+apis.com/v1beta/models/gemini
+-2.0-flash:generateContent 
+"HTTP/1.1 429 Too Many 
+Requests"
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 429 Too Many 
+Requests"
+INFO: Retrying request to 
+/chat/completions in 
+60.000000 seconds
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"
+INFO: AFC is enabled with 
+max remote calls: 10.
+INFO: HTTP Request: POST http
+s://generativelanguage.google
+apis.com/v1beta/models/gemini
+-2.0-flash:generateContent 
+"HTTP/1.1 429 Too Many 
+Requests"
+ERROR: ÔØî Fallo cr├¡tico en 
+Cascada Original: 429 
+RESOURCE_EXHAUSTED. 
+{'error': {'code': 429, 
+'message': 'You exceeded 
+your current quota, please 
+check your plan and billing 
+details. For more 
+information on this error, 
+head to: https://ai.google.de
+v/gemini-api/docs/rate-limits
+. To monitor your current 
+usage, head to: 
+https://ai.dev/rate-limit. 
+\n* Quota exceeded for 
+metric: generativelanguage.go
+ogleapis.com/generate_content
+_free_tier_input_token_count,
+ limit: 0, model: 
+gemini-2.0-flash\n* Quota 
+exceeded for metric: generati
+velanguage.googleapis.com/gen
+erate_content_free_tier_reque
+sts, limit: 0, model: 
+gemini-2.0-flash\n* Quota 
+exceeded for metric: generati
+velanguage.googleapis.com/gen
+erate_content_free_tier_reque
+sts, limit: 0, model: 
+gemini-2.0-flash\nPlease 
+retry in 40.837878109s.', 
+'status': 
+'RESOURCE_EXHAUSTED', 
+'details': [{'@type': 'type.g
+oogleapis.com/google.rpc.Help
+', 'links': [{'description': 
+'Learn more about Gemini API 
+quotas', 'url': 'https://ai.g
+oogle.dev/gemini-api/docs/rat
+e-limits'}]}, {'@type': 'type
+.googleapis.com/google.rpc.Qu
+otaFailure', 'violations': 
+[{'quotaMetric': 'generativel
+anguage.googleapis.com/genera
+te_content_free_tier_input_to
+ken_count', 'quotaId': 'Gener
+ateContentInputTokensPerModel
+PerMinute-FreeTier', 
+'quotaDimensions': {'model': 
+'gemini-2.0-flash', 
+'location': 'global'}}, 
+{'quotaMetric': 'generativela
+nguage.googleapis.com/generat
+e_content_free_tier_requests'
+, 'quotaId': 'GenerateRequest
+sPerMinutePerProjectPerModel-
+FreeTier', 
+'quotaDimensions': {'model': 
+'gemini-2.0-flash', 
+'location': 'global'}}, 
+{'quotaMetric': 'generativela
+nguage.googleapis.com/generat
+e_content_free_tier_requests'
+, 'quotaId': 'GenerateRequest
+sPerDayPerProjectPerModel-Fre
+eTier', 'quotaDimensions': 
+{'model': 
+'gemini-2.0-flash', 
+'location': 'global'}}]}, 
+{'@type': 'type.googleapis.co
+m/google.rpc.RetryInfo', 
+'retryDelay': '40s'}]}}
+INFO: AFC is enabled with 
+max remote calls: 10.
+INFO: HTTP Request: POST http
+s://generativelanguage.google
+apis.com/v1beta/models/gemini
+-2.0-flash:generateContent 
+"HTTP/1.1 429 Too Many 
+Requests"
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"
+­ƒÜÇ INICIANDO PENTAGON: Creator Economy
+   ­ƒöä [Fallback] Usando TrendHunter cl├ísico...
+­ƒÄ» [Sniper] Buscando objetivo para: youtube...
+   ­ƒô░ [News Mode] Buscando noticias de tendencia para youtube...
+   ­ƒöä [Cache EXPIRED] _get_google_news_headlines() ÔåÆ 77.4h > TTL 12h. Refrescando...
+   ­ƒÆ¥ [Cache SAVED] _get_google_news_headlines() ÔåÆ 3 resultados guardados.
+   ­ƒÆ¥ [Cache HIT] _get_google_news_headlines() ÔåÆ Resultado cacheado a las 21:47:27 (edad: 0.4h / TTL: 12h)
+   ­ƒîÉ [Grounding] Buscando tendencias en tiempo real...
+   ÔÜá´©Å [Grounding] Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 48.45252767s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}
+   ­ƒºá [Selector] Eligiendo mejor tema de 6 candidatos...
+   ÔÜá´©Å [Selector] Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 48.321863736s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}
+   [Debug] Token 1 detectado: 40 chars
+   [Debug] Token 2 detectado: 40 chars
+   [GITHUB] [TIER 0-A (GITHUB-CEU)] Intentando gpt-4o-mini en GitHub Models...
+   [SUCCESS] TIER 0-A (GITHUB-CEU) respondi├│ con ├®xito (1 palabras).
+­ƒÄ» TEMA: YouTube Unveils Personalized Year-End Recap Feature, Top Overall Trends And Creators Of 2025 | IDIOMA ORIGEN: ES
+   ­ƒöæ [Hugo Hreflang] Translation Key (Determinista): e2631533-0bd2-b42c-44eb-1bd888faf3e1
+   ­ƒîÉ [Relay-Race] Ejecutando tuber├¡a nativa SOLO para audiencia: ES
+
+­ƒöì INICIANDO GEO-RESEARCH E-E-A-T PARA: 'YouTube Unveils Personalized Year-End Recap Feature, Top Overall Trends And Creators Of 2025' [ES]
+   Categor├¡a: youtube | Contexto: YouTube creator drama controversy trending viral TikTok chal...
+   ÔøÅ´©Å [Deep-Keyword Miner] Prospectando pozos de conocimiento para 'YouTube Unveils Personalized Year-End Recap Feature, Top Overall Trends And Creators Of 2025'...
+   ­ƒºá [Triforce LLM] Extrayendo Entidades de Poder y generando Super-Query...
+   [Debug] Token 1 detectado: 40 chars
+   [Debug] Token 2 detectado: 40 chars
+   [GITHUB] [TIER 0-A (GITHUB-CEU)] Intentando gpt-4o en GitHub Models...
+   [WARNING] [TIER 0-A (GITHUB-CEU)] Respuesta demasiado corta o vac├¡a.
+   [GITHUB] [TIER 0-B (GITHUB-STD)] Intentando gpt-4o en GitHub Models...
+   [WARNING] [TIER 0-B (GITHUB-STD)] Respuesta demasiado corta o vac├¡a.
+   [FALLBACK] [Capa Cero] Agotada o en error. Saltando a la CASCADA ORIGINAL...
+   ­ƒöÑ [Triforce Query] -> YouTube Unveils Personalized Year-End Recap Feature, Top Overall Trends And Creators Of 2025...
+
+­ƒÑç CAPA 1: NotebookLM DEEP Research (E-E-A-T Mode) [ES]...
+ÔÜá´©Å [Capa 1] Falta Auth o Binario MCP. Saltando.
+
+­ƒÑê CAPA 2: Gemini Grounding + Google Search (E-E-A-T) [ES]...
+   ÔÜá´©Å Error Capa 2: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 40.751803044s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '40s'}]}}
+
+­ƒÑë CAPA 3: Scraping Cl├ísico (Playwright) [ES]...
+   [Debug] Token 1 detectado: 40 chars
+   [Debug] Token 2 detectado: 40 chars
+   [GITHUB] [TIER 0-A (GITHUB-CEU)] Intentando gpt-4o en GitHub Models...
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"
+INFO: HTTP Request: POST http
+s://models.inference.ai.azure
+.com/chat/completions 
+"HTTP/1.1 200 OK"
+   [SUCCESS] TIER 0-A (GITHUB-CEU) respondi├│ con ├®xito (952 palabras).
+Ô£ì´©Å PULITZER PIPELINE (ES): YouTube Unveils Personalized Year-End Recap Feature, Top Overall Trends And Creators Of 2025 Analysis...
+   ­ƒôè Research source: Classic Scraping
+   ­ƒÄ» [Fase 1/3] Especialista en Clickbait ├ëtico...
+   [Debug] Token 1 detectado: 40 chars
+   [Debug] Token 2 detectado: 40 chars
+   [GITHUB] [TIER 0-A (GITHUB-CEU)] Intentando gpt-4o-mini en GitHub Models...
+   [SUCCESS] TIER 0-A (GITHUB-CEU) respondi├│ con ├®xito (77 palabras).
+   Ô£à [Fase 1/3] T├¡tulo viral: YouTube Revela Su Impactante Resumen Personalizado de 2025 y Crea Expectativa Global
+   Ô£ì´©Å [Fase 2/3] Redactor de Datos Duros (Blindaje Militar)...
+   [Debug] Token 1 detectado: 40 chars
+   [Debug] Token 2 detectado: 40 chars
+   [GITHUB] [TIER 0-A (GITHUB-CEU)] Intentando gpt-4o-mini en GitHub Models...
+   [SUCCESS] TIER 0-A (GITHUB-CEU) respondi├│ con ├®xito (442 palabras).
+   Ô£à Outline: 2820 chars
+   ­ƒöù [Pre-Hoc] 1 URLs pre-verificadas inyectadas en el prompt
+   [Debug] Token 1 detectado: 40 chars
+   [Debug] Token 2 detectado: 40 chars
+   [GITHUB] [TIER 0-A (GITHUB-CEU)] Intentando gpt-4o en GitHub Models...
+   [SUCCESS] TIER 0-A (GITHUB-CEU) respondi├│ con ├®xito (1282 palabras).
+   ÔÜá´©Å [Quality] Art├¡culo demasiado corto (1282 palabras). Re-enrutando para EXPANDIR...
+   [Debug] Token 1 detectado: 40 chars
+   [Debug] Token 2 detectado: 40 chars
+   [GITHUB] [TIER 0-A (GITHUB-CEU)] Intentando gpt-4o-mini en GitHub Models...
+   [SUCCESS] TIER 0-A (GITHUB-CEU) respondi├│ con ├®xito (1349 palabras).
+   Ô£à [Quality] Regenerado expandido: 1349 palabras
+   ­ƒôè [Fase 2/3] Borrador: 1349 palabras
+   Ô£à [Anti-404] 1 enlaces verificados ÔÇö todos OK (0 trusted skipped)
+   ­ƒº╣ [Post-Processor] Contenido limpiado de artefactos de IA
+­ƒÄ¿ [VisualEngine V6] Procesando: youtube-unveils-personalized-year-end-recap-feature-top-overall-trends-and-creators-of-2025
+   ­ƒöä P├®ndulo (Multi-API) ÔåÆ Turno Asignado: HF
+   ­ƒƒó [Turno Activo] Intentando Hugging Face...
+   ÔÜá´©Å HUGGINGFACE_API_KEY no configurada. Saltando.
+   ÔÜá´©Å HF fall├│. Activando fallback cruzado ÔåÆ Together...
+   ÔÜá´©Å TOGETHER_API_KEY no configurada. Saltando.
+   ÔÜá´©Å HF/Together fallaron. Intentando NVIDIA SD3...
+   ­ƒƒó [NVIDIA SD3] Generando con Stable Diffusion 3 Medium...
+   Ô£à Guardado: youtube-unveils-personalized-year-end-recap-feature-top-overall-trends-and-creators-of-2025.jpg (208.3 KB)
+   [Debug] Token 1 detectado: 40 chars
+   [Debug] Token 2 detectado: 40 chars
+   [GITHUB] [TIER 0-A (GITHUB-CEU)] Intentando gpt-4o-mini en GitHub Models...
+   [SUCCESS] TIER 0-A (GITHUB-CEU) respondi├│ con ├®xito (22 palabras).
+Ô£à Guardado: content/es/youtube/youtube-unveils-personalized-year-end-recap-feature-top-overall-trends-and-creators-of-2025.md
+ÔÜá´©Å GOOGLE_INDEXING_JSON no configurado. Saltando indexaci├│n r├ípida (Fast-Track).
