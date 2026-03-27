@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-27T08:49:44.438716+00:00",
+  "scouted_at": "2026-03-27T16:48:47.177151+00:00",
   "total_candidates": 21,
   "topics": [
     {
       "rank": 1,
-      "title": "Vanguard's 2026 Fee Cuts: Are *Your* Funds Among the 53 Getting Cheaper?",
+      "title": "\"VOO's Stunning 281% 10-Year Return Comes with a Catch: Is Concentration Risk Too High?\"",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "VOO's 281% Return: Why This ETF's Concentration Risk Should Worry You",
+      "title": "\"Top 10 Defense ETFs Poised for Growth in 2026: Which Funds Are Leading the Pack?\"",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "BlackRock Latin American Investment Trust Soars 55%: Is It Time to Buy?",
+      "title": "\"Vanguard's $250 Million Fee Reductions in 2026: How 53 Funds Are Slashing Costs for Investors\"",
       "lang": "en",
       "source": "llm_selected_finance"
     }
@@ -126,27 +126,27 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUDVhX0w4ZmNuQkl6ekdPR3ZjV1czZGg2UGUtaGttODVPMTc2TnVyRnlVVnJWWThvM2Y0RG5aZUIzc2QtUTFXbHRkVHktejVZNFVUdEE4UUtLUjM1d1dydG9ib2xJU3JIQTNMeGVIX25mRXh3VFJ0VThBWmpKWXh6R0hjUEFVYVk?oc=5"
     },
     {
-      "title": "BlackRock's iShares Premium Money Market ETF (Not a US fund) to Distribute $0.094 Per Unit on March 31, 2026.",
+      "title": "Vanguard lowers expense ratios across 84 mutual fund and ETF share classes across 53 funds, projecting nearly $250 million in fee reductions for investors in 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard's Fee Cuts in 2026 Expected to Save Investors Nearly $250 Million Across 53 Funds and 84 Share Classes.",
+      "title": "Global X launches NYSE® 100 ETF (NYSX) on March 26, 2026, tracking 100 technology and tech-enabled growth companies listed across U.S. exchanges.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Total estimated outflows from long-term mutual funds1 were $10.76 billion for the week ended Wednesday, March 18.",
+      "title": "Investment Company Institute (ICI) reports total estimated outflows from long-term mutual funds were $10.76 billion for the week ended March 18, 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Global X Launches NYSE® 100 ETF (NYSX) Tracking Top 100 Technology and Tech-Enabled Growth Companies.",
+      "title": "According to ICI, average expense ratios for equity mutual funds remained unchanged at 0.40% in 2025, while bond mutual funds decreased 2 basis points to 0.36%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Direxion Launches Four 2X Bull ETFs on ADBE, PYPL, TXN, and UNH.",
+      "title": "SEC grants preliminary approval to 30 firms to offer funds with both mutual fund and ETF share classes, ending Vanguard's exclusive rights to this multi-class share structure.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
