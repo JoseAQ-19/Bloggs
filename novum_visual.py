@@ -3,6 +3,7 @@ import requests
 import time
 import base64
 import urllib.parse
+import random
 from together import Together
 from dotenv import load_dotenv
 
@@ -106,9 +107,13 @@ class NovumVisualEngine:
         filename = f"{slug}.jpg"
         filepath = os.path.join(self.STATIC_DIR, filename)
         
-        # Enriquecer Prompt con ADN visual
+        # Enriquecer Prompt con ADN visual aleatorio
         style = self.AESTHETICS.get(category, self.AESTHETICS["ia"])
-        enhanced_prompt = f"{prompt}, {style}, editorial photography, wide angle, --ar 16:9"
+        camera_angles = ["shot on 35mm lens", "drone aerial view", "close-up macro", "dutch angle", "wide establishing shot"]
+        lighting = ["cinematic lighting", "golden hour natural light", "neon rim lighting", "moody dark atmosphere", "volumetric fog"]
+        dynamic_flair = f"{random.choice(camera_angles)}, {random.choice(lighting)}, highly detailed, masterpiece"
+        
+        enhanced_prompt = f"{prompt}, {style}, {dynamic_flair}, --ar 16:9"
 
         provider = self._get_next_provider()
         print(f"   🔄 Péndulo (Multi-API) → Turno Asignado: {provider.upper()}")
@@ -208,10 +213,11 @@ class NovumVisualEngine:
             
             payload = {
                 "prompt": prompt[:1000],  # NVIDIA limita el prompt
-                "cfg_scale": 5,
+                "negative_prompt": "ugly, text, watermark, blurry, low resolution, cartoon, 3d render, distorted, extra fingers, bad anatomy",
+                "cfg_scale": random.uniform(4.0, 7.0), # Variabilidad de guidance
                 "aspect_ratio": "16:9",
                 "steps": 30,
-                "seed": 0  # Random seed
+                "seed": random.randint(0, 4294967295)  # Destruyendo el Efecto Clon
             }
             
             resp = requests.post(
