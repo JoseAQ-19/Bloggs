@@ -1146,7 +1146,14 @@
   "47c2bc6816549fbd4391587ad907de1b4a35f331cc234d17a1e0ece63b6178da": {
     "data": [
       {
-        "title": "This cow uses tools like a primate—and scientists are stunned",
+        "title": "6 Health Monitoring Tools Every Home Should Have",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "The tools to get ahead of AI disruption already exist — we just need to use them differently",
         "source": "google_news",
         "lang": "en",
         "score": 0,
@@ -1160,63 +1167,56 @@
         "url": ""
       },
       {
-        "title": "Visa Gives Banks Tools to Turn Subscription Chaos Into Loyalty",
+        "title": "The best deals in Home Depot's Spring Sale — score free power tools from DeWalt, Milwaukee, and Ryobi",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "How AI is teaching us to be more human",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "RSNA Expands ATLAS AI Data Hub",
+        "title": "Video: The Best Tools for Your Next D.I.Y. Project",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774536789.7335,
+    "cached_at": 1774622902.2644048,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "92ad7a04052f3c14b23389817cda9215b8114296c6bad566e117afe5cafcbd04": {
     "data": [
       {
-        "title": "Este mapa interactivo muestra la expansión y afectaciones del derrame en el Golfo de México | WIRED",
+        "title": "Adiós, Sora: OpenAI abandona su generador de video con IA después de dos años  | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/este-mapa-interactivo-muestra-la-expansion-y-afectaciones-del-derrame-en-el-golfo-de-mexico"
+        "url": "https://es.wired.com/articulos/adios-sora-openai-abandona-su-generador-de-video-con-ia-despues-de-dos-anos"
       },
       {
-        "title": "Es oficial: El planeta vive su década más calurosa y la OMM alerta sobre impactos duraderos | WIRED",
+        "title": "Los médicos dan a la IA un nuevo rol: acompañante digital de pacientes dados de alta | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/es-oficial-el-planeta-vive-su-decada-mas-calurosa-y-la-omm-alerta-sobre-impactos-duraderos"
+        "url": "https://es.wired.com/articulos/los-medicos-dan-a-la-ia-un-nuevo-rol-acompanante-digital-de-pacientes-dados-de-alta"
       },
       {
-        "title": "OpenAI adds open source tools to help developers build for teen safety | TechCrunch",
+        "title": "HP IQ quiere ser la IA que los oficinistas por fin puedan usar sin remordimiento de conciencia | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/"
+        "url": "https://es.wired.com/articulos/hp-iq-quiere-ser-la-ia-que-los-oficinistas-por-fin-puedan-usar-sin-remordimiento-de-conciencia"
       },
       {
-        "title": "Beehiiv’s newsletter management is plugging directly into AI bots. | The Verge",
+        "title": "Google is launching Search Live globally | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/news/897607/beehiivs-newsletter-management-is-plugging-directly-into-ai-bots"
+        "url": "https://techcrunch.com/2026/03/26/google-is-launching-search-live-globally/"
       }
     ],
-    "cached_at": 1774536790.585835,
+    "cached_at": 1774622902.8356464,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
