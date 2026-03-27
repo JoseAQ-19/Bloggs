@@ -495,3 +495,4 @@ tools: 5 Herramientas GRATIS para Calcular el Valor Justo de una Acción (y Pred
 youtube: Kanye desafía a la industria: Lanza su nuevo álbum 'bully' directo en YouTube
 tools: Level Up Your Health: Must-Have Home Monitoring Tools
 funds: Magallanes gana su tercer premio consecutivo y consolida su liderazgo en gestión de fondos
+funds: VOO Surges 281% in a Decade, But Concentration Risk Looms Large

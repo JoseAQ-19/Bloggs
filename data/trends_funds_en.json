@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-27T16:48:47.177151+00:00",
+  "scouted_at": "2026-03-27T16:50:07.863720+00:00",
   "total_candidates": 21,
   "topics": [
     {
       "rank": 1,
-      "title": "\"VOO's Stunning 281% 10-Year Return Comes with a Catch: Is Concentration Risk Too High?\"",
+      "title": "\"VOO's 281% Decade-Long Surge: Why Concentration Risk Could Be the Next Big Concern\"",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "\"Top 10 Defense ETFs Poised for Growth in 2026: Which Funds Are Leading the Pack?\"",
+      "title": "\"Global X NYSE® 100 ETF Launch: A 0.09% Fee for Tech Growth Exposure in 2026\"",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "\"Vanguard's $250 Million Fee Reductions in 2026: How 53 Funds Are Slashing Costs for Investors\"",
+      "title": "\"Mutual Fund Outflows Hit $10.76 Billion in March 2026: Are ETFs the New Investor Favorite?\"",
       "lang": "en",
       "source": "llm_selected_finance"
     }
@@ -126,27 +126,27 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUDVhX0w4ZmNuQkl6ekdPR3ZjV1czZGg2UGUtaGttODVPMTc2TnVyRnlVVnJWWThvM2Y0RG5aZUIzc2QtUTFXbHRkVHktejVZNFVUdEE4UUtLUjM1d1dydG9ib2xJU3JIQTNMeGVIX25mRXh3VFJ0VThBWmpKWXh6R0hjUEFVYVk?oc=5"
     },
     {
-      "title": "Vanguard lowers expense ratios across 84 mutual fund and ETF share classes across 53 funds, projecting nearly $250 million in fee reductions for investors in 2026.",
+      "title": "Vanguard Announces Share Splits for Five Equity Index ETFs, including Vanguard Growth ETF (VUG) which will be split 6:1, effective April 21, 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Global X launches NYSE® 100 ETF (NYSX) on March 26, 2026, tracking 100 technology and tech-enabled growth companies listed across U.S. exchanges.",
+      "title": "BlackRock plans to launch nine new iShares iBonds ETFs, expanding the maturity range across U.S. Treasuries, TIPS, investment grade corporates, high yield and municipal bonds.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Investment Company Institute (ICI) reports total estimated outflows from long-term mutual funds were $10.76 billion for the week ended March 18, 2026.",
+      "title": "Global X launches the Global X NYSE® 100 ETF (NYSX), tracking 100 technology and tech-enabled growth companies, with a management fee of 0.09%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "According to ICI, average expense ratios for equity mutual funds remained unchanged at 0.40% in 2025, while bond mutual funds decreased 2 basis points to 0.36%.",
+      "title": "Vanguard launches Vanguard Target Maturity Corporate Bond ETFs with expense ratios of 0.08% each, designed to offer targeted fixed-income maturity exposures.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "SEC grants preliminary approval to 30 firms to offer funds with both mutual fund and ETF share classes, ending Vanguard's exclusive rights to this multi-class share structure.",
+      "title": "Total estimated outflows from long-term mutual funds were $10.76 billion for the week ended March 18, 2026, according to the Investment Company Institute.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
