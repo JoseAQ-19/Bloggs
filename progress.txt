@@ -1,5 +1,5 @@
 # PROGRESS — NovumWorld Autoblogger
-# Última actualización: 2026-03-27T12:35:00+01:00
+# Última actualización: 2026-03-27T16:45:00+01:00
 
 ## ✅ COMPLETADO
 - [x] Capa Cero GitHub Models implementada en llm_router.py (doble bucle tokens x modelos)
@@ -42,8 +42,17 @@
 - [x] Corrección Schema SEO: `text_cleaner.py` pulido para suprimir el duplicado de `NewsArticle/Article` JSON-LD que inyectaba el LLM.
 - [x] Resolución de Seguridad CRÍTICA: Eliminado el token PAT de Github de `check_apis_used.py`, `fetch_logs.py` y `fetch_logs_req.py` reemplazado por `os.getenv('GITHUB_TOKEN')` debido a un flag de GitHub Push Protection.
 
+## ✅ COMPLETADO (AUDITORÍA F7+F9 – Editor Jefe v2)
+- [x] Auditoría completa de 3 artículos recientes: Kanye ES (5.75/10), Tools EN (5.5/10), Jeopardy EN (4/10 ❌ RECHAZADO)
+- [x] API verificada: GitHub Models (gpt-4o/gpt-4o-mini/llama-3.1-70b) es fuente primaria, Gemini Flash es fallback
+- [x] CAUSA RAÍZ de truncamiento: max_tokens=4096 insuficiente → CORREGIDO a 8192 en llm_router.py
+- [x] Confirmado: NO hay scraping de YouTube → análisis periodístico a partir de Google News RSS + Exa API
+
 ## 🟡 PENDIENTE (DEUDA TÉCNICA)
 - [ ] Centralizar cascadas LLM duplicadas en llm_router.py
 - [ ] Arreglar or_client/groq_client sin inicializar en stocks_writer.py
 - [ ] Limpiar 50+ archivos basura del repo
 - [ ] Arreglar bare excepts restantes en archivos secundarios (researcher.py, trend_hunter.py, etc.)
+- [ ] Resolver URLs de Google News RSS en Scouts (resolver redirecciones a URLs finales)
+- [ ] Verificar que el fix de text_cleaner.py purga NewsArticle JSON-LD en la próxima generación
+
