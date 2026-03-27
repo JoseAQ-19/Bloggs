@@ -1069,77 +1069,77 @@
   "88f30aaa7bab0042d69286b6e1ddf009c9ed8bd38dd824e484b197be702b0cbf": {
     "data": [
       {
-        "title": "Nancy Pastorino Obituary (2026)",
+        "title": "Here's What We Like About I.A Group's (TSE:7509) Upcoming Dividend",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "IA: 15 STUDENTS HURT IN CRASH AT SCHOOL",
+        "title": "Senator Baldwin hopes Fertilizer Transparency Act moves quickly",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "CUSP Wealth : Révolutionner le conseil financier grâce à l’IA et à l’expertise humaine",
+        "title": "CHUCK OFFENBURGER: Lessons from writing on the road",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Gold-Coast-Hamburg-Historic, IA Weather Forecast | MSN Weather",
+        "title": "Mary Louise Kaloupek",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "PBR IA Commitment Spotlight: '20 Jalen Martinez- Waukee",
+        "title": "Diana Lynn Martinez Obituary (1948",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774525644.6552105,
+    "cached_at": 1774611940.6403708,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
   "5ed87e0a555e160d6f2e7a9ad4294ea2283b3cea14c5520f93b58951f9855102": {
     "data": [
       {
-        "title": "Es oficial: El planeta vive su década más calurosa y la OMM alerta sobre impactos duraderos | WIRED",
+        "title": "HP IQ quiere ser la IA que los oficinistas por fin puedan usar sin remordimiento de conciencia | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/es-oficial-el-planeta-vive-su-decada-mas-calurosa-y-la-omm-alerta-sobre-impactos-duraderos"
+        "url": "https://es.wired.com/articulos/hp-iq-quiere-ser-la-ia-que-los-oficinistas-por-fin-puedan-usar-sin-remordimiento-de-conciencia"
       },
       {
-        "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI | TechCrunch",
+        "title": "Adiós, Sora: OpenAI abandona su generador de video con IA después de dos años  | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/"
+        "url": "https://es.wired.com/articulos/adios-sora-openai-abandona-su-generador-de-video-con-ia-despues-de-dos-anos"
       },
       {
-        "title": "El problema con COBOL: el lenguaje de programación que sostiene el mundo pero nadie sabe cómo reemplazar | WIRED",
+        "title": "HONOR crea su primer Robot Humanoide | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/cobol-el-lenguaje-de-programacion-que-sostiene-el-mundo-pero-nadie-sabe-como-reemplazar"
+        "url": "https://es.wired.com/articulos/honor-crea-primer-robot-humanoide"
       },
       {
-        "title": "OpenAI's plans to make ChatGPT more like Amazon aren't going so well | TechCrunch",
+        "title": "México inicia su programa de supercómputo con proyecto para analizar el clima y prevenir desastres naturales | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/"
+        "url": "https://es.wired.com/articulos/mexico-inicia-su-programa-de-supercomputo-con-proyecto-para-analizar-el-clima-y-prevenir-desastres-naturales"
       }
     ],
-    "cached_at": 1774525645.2859282,
+    "cached_at": 1774611941.0710065,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
