@@ -552,6 +552,27 @@
   "fb4ad1bcef6d3043168469167a15cb1cb1ab0f544701e2b912c49d41dd73fb7a": {
     "data": [
       {
+        "title": "El CEO de Banijay Group revela estrategia de crecimiento hacia YouTube",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Asedio judicial en EE.UU. contra el 'scroll' infinito de Meta y YouTube",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Kanye West sube su disco ‘bully’ a Youtube: escúchalo",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
         "title": "Meta y YouTube condenadas a pagar 3 millones de dólares en EE UU por adicción a redes",
         "source": "google_news",
         "lang": "es",
@@ -564,41 +585,27 @@
         "lang": "es",
         "score": 0,
         "url": ""
-      },
-      {
-        "title": "La Diputación emite su Pleno en directo a través de Youtube",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "YouTube quiere que señales videos malos generados por IA: así funciona su nueva herramienta",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "‘La Marea’ deja YouTube: “Es nuestra responsabilidad con las lectoras y lectores”",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
       }
     ],
-    "cached_at": 1774553201.088458,
+    "cached_at": 1774620678.0823526,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "cfab165c756760f9672efaf7f54fa3040ac0f24e7b4012e5d64766caf60cfad3": {
     "data": [
       {
-        "title": "Google ha encontrado la solución al 'AI slop' infantil en YouTube: más IA para niños en YouTube (pero de calidad)",
+        "title": "YouTube quiere que señales videos malos generados por IA: así funciona su nueva herramienta - Meristation",
         "source": "exa",
-        "lang": "en",
+        "lang": "es",
         "score": 0,
-        "url": "http://t.xataka.com/robotica-e-ia/youtube-invierte-millon-contenido-ia-para-ninos-justo-cuando-acaba-declarar-guerra-al-contenido-ia-para-ninos"
+        "url": "https://as.com/meristation/betech/youtube-quiere-que-senales-videos-malos-generados-por-ia-asi-funciona-su-nueva-herramienta-f202603-n/"
+      },
+      {
+        "title": "Meta y Google se arriesgan a sufrir consecuencias similares a las de las grandes tabacaleras tras un ensayo clínico sobre adicciones",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://www.businessinsider.es/big-tech/meta-google-se-arriesgan-sufrir-consecuencias-similares-las-las-grandes-tabacaleras-tras-un-ensayo-clinico-sobre-adicciones_6950932_0.html"
       },
       {
         "title": "El veredicto que hace temblar a Silicon Valley: Meta y Google, responsables por la adicción de una joven y condenados a pagarle millones de dólares - Meristation",
@@ -608,21 +615,14 @@
         "url": "https://as.com/meristation/betech/el-veredicto-que-hace-temblar-a-silicon-valley-meta-y-google-responsables-por-la-adiccion-de-una-joven-y-condenados-a-pagarle-millones-de-dolares-f202603-n/"
       },
       {
-        "title": "Apple prepara su evento más esperado en años. iOS 27 será la punta de lanza de su nueva IA con Google",
+        "title": "YouTube wants you to flag low-quality AI-generated videos: here’s how its new tool works - Meristation",
         "source": "exa",
-        "lang": "en",
+        "lang": "es",
         "score": 0,
-        "url": "https://www.applesfera.com/rumores/que-novedades-podemos-esperar-wwdc26-apple-protagonizada-ia-google"
-      },
-      {
-        "title": "Decían que la IA generativa de vídeo acabaría con Hollywood. De momento la pelea está de parte de la tradición",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://magnet.xataka.com/robotica-e-ia/cuando-se-lanzo-sora-muchos-asumieron-que-era-muerte-hollywood-solo-dos-anos-despues-sora-no-existe"
+        "url": "https://en.as.com/meristation/news/youtube-wants-you-to-flag-low-quality-ai-generated-videos-heres-how-its-new-tool-works-f202603-n/"
       }
     ],
-    "cached_at": 1774553202.5980015,
+    "cached_at": 1774620678.7261808,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
