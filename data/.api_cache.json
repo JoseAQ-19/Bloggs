@@ -293,77 +293,77 @@
   "6b917a81fd9eedfed0c8175dfe38aafa9e90472ee53445d8e4541e481f95984d": {
     "data": [
       {
-        "title": "IKEA's viral donut lamp just got smarter — what to know about the Matter-over-Thread Varmblixt lamp",
+        "title": "He Made a Viral Shirt. If Only He Could Fight Off the Knockoffs.",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Yailin La Más Viral Arrested in Dominican Republic for Alleged Weapons Possession",
+        "title": "Tourists flock to a Brazilian favela for viral videos",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Florida man’s wild attempt to save car from hail goes viral: \"I’d rather go down trying\"",
+        "title": "Viral dog homecoming story turns out to be fake",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "#TSRMommyDuties: How adorable?! 😍 This viral mom, who works in healthcare, stays motivated by her baby girl, Jream, keeping her on her toes. Despite being born prematurely, Jream is a fighter at just 2 years old, designing clothing with her mom for their cl",
+        "title": "Kick streamer arrested as FWC investigates viral video showing him shooting at alligator",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "9‑year‑old powerlifter stuns internet with 180‑pound deadlift in viral video",
+        "title": "Man charged in viral Glastonbury animal cruelty case",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774564327.1320343,
+    "cached_at": 1774633565.3543196,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
   "78419185a472eac00403a11a229938d32ad88b963bbfbf48284eb0cbba1ee66b": {
     "data": [
       {
-        "title": "Hace 3,000 años, artesanos chinos fabricaron un hacha con metal extraterrestre; así fue como arqueólogos la hallaron | WIRED",
+        "title": "El peligroso reto de \"comer sin tragar\" se vuelve viral en el TikTok de China | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/hace-3000-anos-artesanos-chinos-fabricaron-una-hacha-con-metal-extraterrestre-asi-fue-como-arqueologos-la-hallaron"
+        "url": "https://es.wired.com/articulos/el-peligroso-reto-de-comer-sin-tragar-se-vuelve-viral-en-el-tiktok-de-china"
       },
       {
-        "title": "Este mapa interactivo muestra la expansión y afectaciones del derrame en el Golfo de México | WIRED",
+        "title": "El contenido de abuso infantil generado con IA es una plaga que crece sin control | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/este-mapa-interactivo-muestra-la-expansion-y-afectaciones-del-derrame-en-el-golfo-de-mexico"
+        "url": "https://es.wired.com/articulos/el-contenido-de-abuso-infantil-generado-con-ia-es-una-plaga-que-crece-sin-control"
       },
       {
-        "title": "Elon Musk pauses changes to X's creator revenue-sharing program after backlash | TechCrunch",
+        "title": "Meta pierde juicios históricos por facilitar explotación de menores y adicción juvenil | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/25/elon-musk-pauses-changes-to-xs-creator-revenue-sharing-program-after-backlash/"
+        "url": "https://es.wired.com/articulos/meta-enfrenta-historica-sancion-de-375-millones-por-facilitar-la-explotacion-de-menores"
       },
       {
-        "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos | WIRED",
+        "title": "Adiós, Sora: OpenAI abandona su generador de video con IA después de dos años  | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/"
+        "url": "https://es.wired.com/articulos/adios-sora-openai-abandona-su-generador-de-video-con-ia-despues-de-dos-anos"
       }
     ],
-    "cached_at": 1774564327.8473945,
+    "cached_at": 1774633565.871969,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
