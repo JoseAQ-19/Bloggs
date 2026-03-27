@@ -216,42 +216,42 @@
   "cddff883eee8ba79205166d8431aed7738bd3bb0724b8d87f5f17a2a8cc26039": {
     "data": [
       {
-        "title": "Gerard Romero y su 'pillada' viral en directo que arrasa en la Kings League: \"Me la agarras con la mano\"",
+        "title": "El vídeo viral de Álvaro Casares del ranking de palabras de mujeres \"que los hombres no entienden\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Korn: “Freak On A Leash” Goes Viral on TikTok Because of Zara Larsson Dance",
+        "title": "El nuevo truco viral para proteger tus tarjetas: el motivo por el que las tienes que envolver en papel alumini",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Dejan en libertad a la cantante Yailin La Más Viral tras su arresto por porte de armas",
+        "title": "El reto viral de pegar el móvil en un tranvía y correr tras él obliga a los ferrocarriles valencianos a extremar la vigilancia",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Así es Chuando Tan, el modelo viral que acaba de cumplir 60 años y aparenta 25",
+        "title": "Vídeo: La peligrosa moda viral de caminar por las vías del metro llega a València",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El vídeo viral que retrata a Pedro Sánchez como Pinocho y Zapatero como Gepeto: la nariz que sólo crece",
+        "title": "El reto viral del paracetamol entre adolescentes llega a Menorca: al menos dos casos en Maó",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774562986.8887405,
+    "cached_at": 1774632280.8852317,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
@@ -265,28 +265,28 @@
         "url": "https://magnet.xataka.com/musica/pelea-villaverde-shakira-quiere-meter-a-300-000-personas-lugar-que-no-convence-al-gobierno-absoluto"
       },
       {
+        "title": "China acaba de enseñarle al mundo lo que viene después del dron de combate: 96 drones con un lanzamiento de ciencia ficción",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/magnet/china-acaba-ensenarle-al-mundo-que-viene-despues-dron-combate-96-drones-lanzamiento-ciencia-ficcion"
+      },
+      {
+        "title": "Irán acaba de cruzar la gran línea roja energética: Turquía es la primera víctima de un apagón que ya mira a Europa",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/energia/iran-acaba-cruzar-gran-linea-roja-energetica-turquia-primera-victima-apagon-que-mira-a-europa"
+      },
+      {
         "title": "El acuerdo entre Disney y Sora iba a \"matar Hollywood\" y a inaugurar la era del cine hecho con IA. Ha terminado regular",
         "source": "exa",
         "lang": "en",
         "score": 0,
         "url": "https://www.xataka.com/robotica-e-ia/disney-queria-que-todos-sus-fans-crearan-contenido-ia-sus-personajes-caida-sora-tendra-que-buscar-otro-socio"
-      },
-      {
-        "title": "Los centros de datos son tan impopulares que hay granjeros rechazando 26 millones de dólares con tal de frenarlos",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "http://www.xataka.com/robotica-e-ia/imagina-que-te-ofrecen-26-millones-dolares-para-convertir-tu-granja-centro-datos-luego-imagina-que-rechazas"
-      },
-      {
-        "title": "La Gen Z y los boomers están discutiendo todo el día en el trabajo sobre la IA. Y eso está empezando a costar dinero",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://magnet.xataka.com/empresas-y-economia/conflicto-generacional-generacion-z-nos-esta-costando-mucho-dinero-56-000-millones-dolares"
       }
     ],
-    "cached_at": 1774562987.3466215,
+    "cached_at": 1774632281.3793871,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
