@@ -629,77 +629,77 @@
   "9ee96a29d2849810b096fb4ad7845a44fb015972f3144c10f16e0a281e09fb7c": {
     "data": [
       {
-        "title": "‘Jeopardy!’ Plans YouTube Spinoff Show As It Ramps Up Production On Platform",
+        "title": "‘Jeopardy!’ Plans YouTube Spinoff Show as It Ramps Up Production on Platform",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "‘Jeopardy!’ to Launch YouTube Edition: First Contestants are Monét X Change, Rebecca Black and Brennan Lee Mulligan",
+        "title": "Meta and YouTube found liable in social media addiction trial",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial",
+        "title": "Political consultant begins live streaming NH Executive Council meetings on YouTube",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Jury finds Meta, YouTube liable for social media addiction: What we know",
+        "title": "Verdicts against Meta, YouTube reshape legal shields",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "The verdict against Meta and YouTube is a victory for children – and the US justice system | Austin Sarat",
+        "title": "Inside the Off-Grid Earthship Community in New Mexico (YouTube film review)",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774554647.2536507,
+    "cached_at": 1774622658.7503746,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "f990e7eff0f3103ac01b2830c939d7dce846fb1e852800a979f12b26b78a0e42": {
     "data": [
       {
-        "title": "Jury finds Meta and Google negligent in landmark social media addiction trial | TechCrunch",
+        "title": "Adiós, Sora: OpenAI abandona su generador de video con IA después de dos años  | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/"
+        "url": "https://es.wired.com/articulos/adios-sora-openai-abandona-su-generador-de-video-con-ia-despues-de-dos-anos"
       },
       {
-        "title": "Google launches Lyria 3 Pro music generation model | TechCrunch",
+        "title": "Meta pierde juicios históricos por facilitar explotación de menores y adicción juvenil | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/"
+        "url": "https://es.wired.com/articulos/meta-enfrenta-historica-sancion-de-375-millones-por-facilitar-la-explotacion-de-menores"
       },
       {
-        "title": "Este mapa interactivo muestra la expansión y afectaciones del derrame en el Golfo de México | WIRED",
+        "title": "El peligroso reto de \"comer sin tragar\" se vuelve viral en el TikTok de China | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/este-mapa-interactivo-muestra-la-expansion-y-afectaciones-del-derrame-en-el-golfo-de-mexico"
+        "url": "https://es.wired.com/articulos/el-peligroso-reto-de-comer-sin-tragar-se-vuelve-viral-en-el-tiktok-de-china"
       },
       {
-        "title": "Elon Musk pauses changes to X's creator revenue-sharing program after backlash | TechCrunch",
+        "title": "Los influencers que recomiendan medicamentos ya son un problema de salud pública | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/25/elon-musk-pauses-changes-to-xs-creator-revenue-sharing-program-after-backlash/"
+        "url": "https://es.wired.com/articulos/los-influencers-que-recomiendan-medicamentos-ya-son-un-problema-de-salud-publica"
       }
     ],
-    "cached_at": 1774554648.0287907,
+    "cached_at": 1774622659.2831268,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
