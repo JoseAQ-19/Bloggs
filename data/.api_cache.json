@@ -1167,53 +1167,53 @@
   "6e9c6a02969a5e9b67222353d8954d32f29ac7ffcd642500a8a27decc747f088": {
     "data": [
       {
-        "title": "Fair Value and Analyst Forecasts: 5 Best Free Tools to Estimate",
+        "title": "Dar sentido a las observaciones oceánicas",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "SWMR|Swarmer Ord Shs|Precio:36.710|Variación %:4.81",
+        "title": "SWMR|Swarmer Ord Shs|Precio:34.870|Variación %:-1.84",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Harrison Ford’s Shocking Outburst Nearly Wrecked a Movie Set",
+        "title": "Agent Bricks + MCP Integration on Databricks",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Matillion Launches Maia's Migration Agent: Autonomous Migration for Legacy ETL Platforms",
+        "title": "Top herramientas de email marketing y automatización en 2026",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Google facilita la migración de chats a Gemini desde otros chatbots",
+        "title": "TradingKey",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774618564.4678018,
+    "cached_at": 1774704403.0113337,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "d3e0b697eb375d60495f1b6d1f6c436c149ae1e2a919c1ae80263ab8fde1d244": {
     "data": [
       {
-        "title": "Adiós a Sora: OpenAI \"mata\" a su herramienta de vídeo generado por IA menos de año y medio después de su lanzamiento",
+        "title": "Las herramientas para detectar textos hechos con IA son flojas nivel: creen que 'Cien años de soledad' es IA",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://magnet.xataka.com/robotica-e-ia/openai-parecia-imparable-ahora-ha-decidido-dejar-atras-sora-cambiar-rumbo"
+        "url": "https://xataka.com/robotica-e-ia/escribir-bien-sospechoso-detectores-ia-marcan-biblia-cien-anos-soledad-como-obras-hechas-maquinas"
       },
       {
         "title": "YouTube quiere que señales videos malos generados por IA: así funciona su nueva herramienta - Meristation",
@@ -1223,21 +1223,21 @@
         "url": "https://as.com/meristation/betech/youtube-quiere-que-senales-videos-malos-generados-por-ia-asi-funciona-su-nueva-herramienta-f202603-n/"
       },
       {
+        "title": "Millones de personas editan vídeo con CapCut a diario: Bytedance quiere ahora que lo hagan \"vibecodeando\"",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/aplicaciones/editor-video-chino-grande-mundo-tiene-algo-clarisimo-futuro-vibe-editing"
+      },
+      {
         "title": "El duro aterrizaje de OpenAI: tras años al frente, está descubriendo que la IA no se gana solo con memes y hype",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "http://www.xataka.com/empresas-y-economia/openai-se-prometia-felices-vendiendo-hype-memes-que-se-ha-dado-golpe-realidad"
-      },
-      {
-        "title": "Las mejores alternativas a Sora para crear vídeos con inteligencia artificial",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/basics/mejores-alternativas-a-sora-para-crear-videos-inteligencia-artificial"
+        "url": "https://www.xataka.com/empresas-y-economia/openai-se-prometia-felices-vendiendo-hype-memes-que-se-ha-dado-golpe-realidad"
       }
     ],
-    "cached_at": 1774618565.1121213,
+    "cached_at": 1774704403.4569724,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
