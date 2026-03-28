@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-28T07:22:16.014671+00:00",
-  "total_candidates": 13,
+  "scouted_at": "2026-03-28T07:23:38.324918+00:00",
+  "total_candidates": 19,
   "topics": [
     {
       "rank": 1,
-      "title": "Magallanes, Cobas y Bestinver: ¿Quién lideró el rendimiento en los Premios Morningstar 2026? Descubre los datos detrás de los fondos ganadores.",
+      "title": "Bestinver Bolsa FI lidera el mercado español con un asombroso 49,05% de rentabilidad en 2026: ¿qué lo hace destacar?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Los 10 ETFs del sector defensa más rentables para invertir en 2026: ¿Cuál ofrece el mejor rendimiento en medio de la incertidumbre geopolítica?",
+      "title": "Cobas Renta se lleva el premio Morningstar al mejor fondo mixto euro en 2026, alcanzando una rentabilidad del 8,68%: ¿es una inversión segura?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "¿Inflación en la Eurozona? Análisis de cómo la guerra en Irán podría afectar la política del BCE y los precios para los inversores.",
+      "title": "Indexa Capital reduce las comisiones de sus planes de pensiones al 0,403% en 2026: ¿cuánto puedes ahorrar realmente?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -112,6 +112,36 @@
       "title": "¿Qué valores españoles pagan dividendo en abril de 2026?",
       "source": "rss_morningstar_es",
       "url": "https://www.morningstar.es/es/news/274715/¿qué-valores-españoles-pagan-dividendo-en-abril-de-2026.aspx"
+    },
+    {
+      "title": "**Bestinver Bolsa FI lidera los fondos de renta variable española con una rentabilidad del 49,05% en 2026**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Indexa Capital anuncia una nueva bajada de comisiones en 2026, reduciendo los costes totales medios de las carteras de fondos al 0,530%.**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**El Gobierno lanza el fondo \"España Crece\" para movilizar 120.000 millones de euros en inversión productiva a partir del segundo trimestre de 2026**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Planes de pensiones de Indexa Capital bajan sus comisiones al 0,403% anual en 2026, generando un ahorro de 260 mil euros para los clientes**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**CNMV supervisará el cumplimiento del Reglamento MiCA para criptoactivos a partir del 1 de julio de 2026, limitando la operación a proveedores autorizados**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**El fondo Cobas Renta obtiene el premio Morningstar al mejor fondo mixto euro en 2026, con una rentabilidad del 8,68%**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
