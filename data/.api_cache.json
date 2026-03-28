@@ -132,42 +132,42 @@
   "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
     "data": [
       {
-        "title": "Planet Fitness opens Hawaii facilities to residents displaced by Kona low storms",
+        "title": "Fitness Influencer Dies at Age 46 After He’s Shot While Leaving the Gym",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "20+ fitness tracker deals to shop in the Amazon Big Spring Sale — Garmin, Apple, and Google on sale",
+        "title": "Virginia fitness influencer arraigned in Glastonbury animal abuse case",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "What is Hyrox? Fast-growing fitness race is in Houston this week",
+        "title": "Helen Newman Fitness Center: The Superior North Campus Gym",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "RCPS plans for ‘Rockingham Moves’ pilot program to promote student fitness, healthy habits",
+        "title": "“March into Fitness” brings FAU students together through fitness on Boca Raton housing lawn",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "These 6 Best Ellipticals Offer Cardio Workouts While Being Gentle on Joints",
+        "title": "Seniors say they thought they could win thousands in fitness program. Instead, they received a bill",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774588699.2652671,
+    "cached_at": 1774673469.4257433,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
@@ -181,28 +181,28 @@
         "url": "https://es.wired.com/articulos/honor-crea-primer-robot-humanoide"
       },
       {
-        "title": "Fitness Trackers Archive for March 2026 - Page 1 | The Verge",
+        "title": "Tips para que le saques el máximo provecho a la IA a la hora de planear tus vacaciones | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/archives/fitness-trackers/2026/3/1"
+        "url": "https://es.wired.com/articulos/tips-para-que-le-saques-el-maximo-provecho-a-la-ia-a-la-hora-de-planear-tus-vacaciones"
       },
       {
-        "title": "The Verge",
+        "title": "Los médicos dan a la IA un nuevo rol: acompañante digital de pacientes dados de alta | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://store.theverge.com/gadgets/899134/fitbit-ace-amazon-big-spring-sale-2026-deal"
+        "url": "https://es.wired.com/articulos/los-medicos-dan-a-la-ia-un-nuevo-rol-acompanante-digital-de-pacientes-dados-de-alta"
       },
       {
-        "title": "Google TV's new Gemini features keep fans updated on sports teams and more | TechCrunch",
+        "title": "Los agujeros negros supermasivos dejaron de crecer tan rápido como antes; por fin sabemos por qué | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://techcrunch.com/2026/03/24/google-tv-s-new-gemini-features-keep-fans-updated-on-sports-teams-and-more/"
+        "url": "https://es.wired.com/articulos/los-agujeros-negros-supermasivos-dejaron-de-crecer-tan-rapido-como-antes-por-fin-sabemos-por-que"
       }
     ],
-    "cached_at": 1774588699.9366784,
+    "cached_at": 1774673469.8608003,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
