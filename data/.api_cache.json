@@ -363,42 +363,42 @@
   "1aa06cf232e59b4099181fc77bc2032cca3f1701bcd8a89857881f3d3a40d006": {
     "data": [
       {
-        "title": "NVIDIA maquilló las crypto como GPU gaming: demanda colectiva",
+        "title": "BTCUSD",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Ricardo Ruiz Muñoz se consolida con CRYPTO ACADEMY GLOBAL, una academia nacida de años de experiencia en mercados, formación y divulgación",
+        "title": "Predicción del precio de Neo (NEO) para 2023 2024 2025 2026",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Predicción del precio de TRON (TRX) para 2026 2027 2028",
+        "title": "La demanda sobre los ingresos de Nvidia Crypto obtiene la certificación de demanda colectiva por parte de un tribunal federal de California",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Cardano cae a $0.24: ¿está ADA abocada a una caída mayor?",
+        "title": "Lummis says CLARITY Act will deliver 'strongest' developer protections",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Alerta: el malware que vacía 728 crypto wallets",
+        "title": "Perspectivas de Future Crypto 06(@Tutul069_Crypto)",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774628770.1983905,
+    "cached_at": 1774714499.5810604,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
@@ -419,49 +419,42 @@
         "url": "https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/"
       },
       {
-        "title": "UK bans crypto donations to political parties in bid to curb foreign influence",
+        "title": "David Sacks Is No Longer the White House AI and Crypto Czar",
         "source": "hackernews",
         "lang": "en",
-        "score": 5,
-        "url": "https://apnews.com/article/uk-political-donations-cryptocurrency-ban-4deae8e71d664a042363fa79d617a2f3"
+        "score": 6,
+        "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar"
       }
     ],
-    "cached_at": 1774628770.46188,
+    "cached_at": 1774714499.8463967,
     "func": "fetch_hackernews",
     "args_summary": "(['crypto'],)"
   },
   "151a07ed322d3cbdd77d65398c3a13cd6a0111c87db69f3fd0b926d706a54d98": {
     "data": [
       {
+        "title": "Google pone fecha al \"Q-Day”, cuando la computación cuántica podrá romper la criptografía actual antes de lo previsto",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/ordenadores/google-pone-fecha-al-q-day-cuando-computacion-cuantica-podra-romper-criptografia-actual-antes-previsto"
+      },
+      {
+        "title": "La Comisión Europea ha sufrido un ciberataque: los primeros indicios apuntan a robo de datos y el alcance no está claro",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://xataka.com/seguridad/comision-europea-ha-sufrido-ciberataque-primeros-indicios-apuntan-a-robo-datos-alcance-no-esta-claro"
+      },
+      {
         "title": "SpaceX prepara la salida a bolsa más grande de toda la historia: que lo haga justo ahora no es ninguna casualidad",
         "source": "exa",
         "lang": "en",
         "score": 0,
         "url": "https://magnet.xataka.com/espacio/spacex-prepara-salida-a-bolsa-grande-toda-historia-que-haga-este-momento-no-ninguna-casualidad"
-      },
-      {
-        "title": "Estalla el Euríbor: las subidas de tipos irrumpen en el radar de Fed y BCE por primera vez en la crisis iraní",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://www.businessinsider.es/mercados/las-subidas-tipos-irrumpen-radar-fed-bce-por-primera-vez-crisis-irani_6950260_0.html"
-      },
-      {
-        "title": "Europa sí puede ser líder en IA: este es el sector que lleva ventaja frente a EEUU y China",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://www.businessinsider.es/tecnologia/europa-si-puede-ser-lider-ia-este-es-sector-que-lleva-ventaja-frente-eeuu-china_6950810_0.html"
-      },
-      {
-        "title": "X (Twitter) anuncia un cambio clave en la monetización, pero Elon Musk lo paraliza tras la reacción de los usuarios - Meristation",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://as.com/meristation/betech/x-twitter-anuncia-un-cambio-clave-en-la-monetizacion-pero-elon-musk-lo-paraliza-tras-la-reaccion-de-los-usuarios-f202603-n/"
       }
     ],
-    "cached_at": 1774628770.9342446,
+    "cached_at": 1774714500.3197722,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
