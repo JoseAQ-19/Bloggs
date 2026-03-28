@@ -514,3 +514,4 @@ ia: The Digital Companion: How AI is Transforming Patient Care Post-Discharge
 tools: La revolución del email marketing: las herramientas imprescindibles de 2026
 tools: Unbeatable Deals: Grab Up to 41% Off Craftsman Tools at Amazon!
 crypto: ```json
+crypto: Fannie Mae Embraces Crypto: The Future of Home Loans Is Here
