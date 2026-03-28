@@ -510,3 +510,4 @@ funds: Bestinver Bolsa FI lidera el mercado español con un 49,05% de rentabilid
 funds: Morningstar Awards 2026: Thailand's Top 5 Mutual Funds Revealed
 funds: Morningstar Awards 2026: PIMCO vs Vanguard Dominates Thai Fund Landscape
 ia: Claude: El agente de IA que está revolucionando la forma en que interactuamos con la tecnología
+ia: The Digital Companion: How AI is Transforming Patient Care Post-Discharge
