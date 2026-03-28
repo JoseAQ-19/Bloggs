@@ -209,77 +209,77 @@
   "cddff883eee8ba79205166d8431aed7738bd3bb0724b8d87f5f17a2a8cc26039": {
     "data": [
       {
-        "title": "El vídeo viral de Álvaro Casares del ranking de palabras de mujeres \"que los hombres no entienden\"",
+        "title": "La viral reacción de dos residentes en Ibiza en su primera 'mascletà' en Valencia",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El nuevo truco viral para proteger tus tarjetas: el motivo por el que las tienes que envolver en papel alumini",
+        "title": "Luciano Carvarotti: La historia del barítono en paro que se hizo viral cantando para vender coches",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El reto viral de pegar el móvil en un tranvía y correr tras él obliga a los ferrocarriles valencianos a extremar la vigilancia",
+        "title": "Nueva religiosidad: La nueva fe viral, música, emoción y comunidad entre jóvenes",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Vídeo: La peligrosa moda viral de caminar por las vías del metro llega a València",
+        "title": "Aitana realiza un reto de TikTok y sitúa Orense en una zona junto al mar",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El reto viral del paracetamol entre adolescentes llega a Menorca: al menos dos casos en Maó",
+        "title": "Las reacciones en 'La Roca' al vídeo viral de Ortega Cano: \"Es hipnótico, pero da mucha vergüenza\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774632280.8852317,
+    "cached_at": 1774735779.815058,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
   "a362792cc6b4faf81d359ce19013ff8b6c624ffb2aada45d97ffec0e5515eba1": {
     "data": [
       {
-        "title": "Shakira quiere montar un \"estadio\" en Villaverde con capacidad para 300.000 personas. El Gobierno tiene preguntas",
+        "title": "Miles de personas se han enamorado de siete perros abandonados y a la fuga en medio de China. Solo era otro vídeo IA",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://magnet.xataka.com/musica/pelea-villaverde-shakira-quiere-meter-a-300-000-personas-lugar-que-no-convence-al-gobierno-absoluto"
+        "url": "https://m.xataka.com/magnet/gran-engano-siete-perros-virales-como-economia-clic-ia-se-inventaron-escape-pelicula"
+      },
+      {
+        "title": "Mientras EEUU bombardea a Irán, ha ocurrido algo insólito: drones atacando las bases nucleares de Dakota del Norte",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://m.xataka.com/magnet/eeuu-esta-atacando-a-iran-ha-ocurrido-algo-insolito-hay-drones-atacando-bases-nucleares-eeuu"
       },
       {
         "title": "China acaba de enseñarle al mundo lo que viene después del dron de combate: 96 drones con un lanzamiento de ciencia ficción",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/magnet/china-acaba-ensenarle-al-mundo-que-viene-despues-dron-combate-96-drones-lanzamiento-ciencia-ficcion"
+        "url": "https://xataka.com/magnet/china-acaba-ensenarle-al-mundo-que-viene-despues-dron-combate-96-drones-lanzamiento-ciencia-ficcion"
       },
       {
-        "title": "Irán acaba de cruzar la gran línea roja energética: Turquía es la primera víctima de un apagón que ya mira a Europa",
+        "title": "La enésima subida de precio de Netflix ilustra una realidad: el streaming ya es tan caro como aquello que vino a mejorar",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/energia/iran-acaba-cruzar-gran-linea-roja-energetica-turquia-primera-victima-apagon-que-mira-a-europa"
-      },
-      {
-        "title": "El acuerdo entre Disney y Sora iba a \"matar Hollywood\" y a inaugurar la era del cine hecho con IA. Ha terminado regular",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/disney-queria-que-todos-sus-fans-crearan-contenido-ia-sus-personajes-caida-sora-tendra-que-buscar-otro-socio"
+        "url": "https://www.xataka.com/streaming/tactica-rana-olla-netflix-ha-subido-precios-lentamente-cuesta-que-mucha-television-pago"
       }
     ],
-    "cached_at": 1774632281.3793871,
+    "cached_at": 1774735780.3610482,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
