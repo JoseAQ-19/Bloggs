@@ -511,3 +511,4 @@ funds: Morningstar Awards 2026: Thailand's Top 5 Mutual Funds Revealed
 funds: Morningstar Awards 2026: PIMCO vs Vanguard Dominates Thai Fund Landscape
 ia: Claude: El agente de IA que está revolucionando la forma en que interactuamos con la tecnología
 ia: The Digital Companion: How AI is Transforming Patient Care Post-Discharge
+tools: La revolución del email marketing: las herramientas imprescindibles de 2026
