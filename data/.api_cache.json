@@ -461,42 +461,42 @@
   "c7dcb72dc33baaa2e522c198717b4b418fcd1e9a91af28dfbac294c4b153973d": {
     "data": [
       {
-        "title": "OpenClaw Developers Targeted in Crypto-Wallet Phishing Attack",
+        "title": "Mortgage giant Fannie Mae will soon accept crypto-backed homebuying loans",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Homebuyers can now use crypto as collateral for mortgage loans without selling their tokens",
+        "title": "God and bitcoin: Why some Christians are going all in on cryptocurrency",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Strategy is accelerating its crypto purchases as rivals sit on the sidelines",
+        "title": "Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "David Sacks says he’s no longer White House AI, crypto czar",
+        "title": "As crypto ATMs draw scammers, NH groups take action",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "SEC & CFTC Issue Historic Crypto Asset Framework: What to Know",
+        "title": "Crypto's future is bright in the context of AI's assault on software firms, says Kraken-backed investment firm",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774633783.4008892,
+    "cached_at": 1774715007.648965,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
@@ -510,18 +510,11 @@
         "url": "https://www.wired.com/story/20-billion-xinbi-guarantee-uk-sanctions/"
       },
       {
-        "title": "La NASA abandona el proyecto Gateway y apuesta por una base permanente en la Luna | WIRED",
+        "title": "Meta pierde juicios históricos por facilitar explotación de menores y adicción juvenil | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/la-nasa-abandona-el-proyecto-gateway-y-apuesta-por-una-base-permanente-en-la-luna"
-      },
-      {
-        "title": "Adiós, Sora: OpenAI abandona su generador de video con IA después de dos años  | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/adios-sora-openai-abandona-su-generador-de-video-con-ia-despues-de-dos-anos"
+        "url": "https://es.wired.com/articulos/meta-enfrenta-historica-sancion-de-375-millones-por-facilitar-la-explotacion-de-menores"
       },
       {
         "title": "México inicia su programa de supercómputo con proyecto para analizar el clima y prevenir desastres naturales | WIRED",
@@ -529,9 +522,16 @@
         "lang": "en",
         "score": 0,
         "url": "https://es.wired.com/articulos/mexico-inicia-su-programa-de-supercomputo-con-proyecto-para-analizar-el-clima-y-prevenir-desastres-naturales"
+      },
+      {
+        "title": "Los agujeros negros supermasivos dejaron de crecer tan rápido como antes; por fin sabemos por qué | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/los-agujeros-negros-supermasivos-dejaron-de-crecer-tan-rapido-como-antes-por-fin-sabemos-por-que"
       }
     ],
-    "cached_at": 1774633784.086656,
+    "cached_at": 1774715008.1918328,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
