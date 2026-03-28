@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-27T16:46:12.622451+00:00",
-  "total_candidates": 19,
+  "scouted_at": "2026-03-28T07:22:16.014671+00:00",
+  "total_candidates": 13,
   "topics": [
     {
       "rank": 1,
-      "title": "Magallanes Value Investors logra su tercer premio consecutivo como mejor gestora en los Morningstar España 2026",
+      "title": "Magallanes, Cobas y Bestinver: ¿Quién lideró el rendimiento en los Premios Morningstar 2026? Descubre los datos detrás de los fondos ganadores.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Indexa Capital Group incrementa beneficios a 2,37 millones en 2025: ¿Cómo mantiene su liderazgo en España?",
+      "title": "Los 10 ETFs del sector defensa más rentables para invertir en 2026: ¿Cuál ofrece el mejor rendimiento en medio de la incertidumbre geopolítica?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Los 10 ETFs más rentables del sector defensa en 2026: ¿Qué fondos lideran en un entorno de incertidumbre global?",
+      "title": "¿Inflación en la Eurozona? Análisis de cómo la guerra en Irán podría afectar la política del BCE y los precios para los inversores.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,19 +49,9 @@
   },
   "all_headlines": [
     {
-      "title": "BNP Paribas AM nombra a Isabelle Scemama Deputy CEO y refuerza su apuesta por los activos alternativos",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmpNZG81YlY4YlN6NWpxX05fb0tjR1VjcWF4UlNDTlJHVW9vazBRMHBXbjZSSExacDF3ZW9sNzZoYUxRNUpzZVJIZ084b0x3dEFaZkdZZzY1eUtFa0toSjV3bHFUUHpBY0lCcF9zdGdCZldRZHIxSUU2bTVuV0hjNFhSX09BRHF4b0dtT2pYelFqNFZqdTFNNjE4MVFGREdMVVU1R3ExeU1TQXRmZzBFVTNxZ0FUSjZDakItN0YzYw?oc=5"
-    },
-    {
       "title": "Y los fondos ganadores de los Premios Morningstar España 2026 son...",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOVc0SGdSVG1xZzdrZXZTaFRlbld6ZTM4S0tFdlpwbFpIajdiX2F4cnRBQU9RNTFBRF9DUWFhUXlzUHVDbGhSNTRrYlFPNnpJbS1saWRTaGxJTjJuOUFUeXR1MHVmT1ZSSTNkTkZ4LU8wVlFFT1I5ZDhmc0lmdWsxQmNTZGg4Z084QTU5MUlxMGpuS3BlZkloWXA4bW8zSkdTbVlGTGwyVmJ1Zm9XOXZiR3Qtcw?oc=5"
-    },
-    {
-      "title": "Dónde invertir durante la guerra de Irán",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXYxQk1wMGpyMTNlX1JuVTExM3Vjc044a3J3VVdlVld0YXlSRW1JS1p0VU5wV1kxR1F5dDY0bWdkNUoyaUs5cFpSS2JRZlE0d3NwTTlHSjI0TVIxR05tVmZlUndHX0tnQVpiR3dvMTljOTZmcmpNYUpZeGtpZWxUVVEyc3NIdTRj?oc=5"
     },
     {
       "title": "Magallanes, Cobas, Rothschild & Co, M&G, MFS y Bestinver, protagonistas en los premios Morningstar 2026",
@@ -69,19 +59,14 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa2JQcUhPVUZpTWZfdWx5eEl4enJTWS1SSERtUVl1Vm1Td0ltRGxxdW9ZbG9xOGFyVXdMWHNVTnFvcmc0cVBBX2IxZWd4MnY2cUF3SUJ2MFVIY2c3UUFSajkzVEM1bTQ4bHdqVElPOTZHMklxZW9sel82czR6SmxhYzlCR3NFUjRGMldxYmZFOEdxSXBZMnlpVW0yUExRUS16c2VrQ1Q5YWFDR19SU2VTVDMxaUhIOEc2VWNySFlLY0hwcC04ZmNWRFVYZGE3RUstanNFTTJVQkgxM29IU1E?oc=5"
     },
     {
-      "title": "Magallanes Value Investors gana por tercera vez el premio a mejor gestora de Morningstar España",
+      "title": "BNP Paribas AM nombra a Isabelle Scemama Deputy CEO y refuerza su apuesta por los activos alternativos",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbzdiNFBDQ0ZGamROM2JPLWlCNVVVdlN6bV9rMGRsYlZ0aWpDYjVCdl9yOXZkWHUtWk5Zc3pQVEg0M1VtTXB5eGlYc0hST1hKN2dBMGVHSGNOVnQxbHBKZ1VqcUh3Q293ZnpzSzNaLV92RUE1bXZFLXloeU1XSjZRQkVYc0MzdkJ0eWZFSF9vRWYydVo1SEdKb1JpU2E4VXY4cF9uQk5pU1lhVmNYLXZOMk1LNlpzTEdTTUNjcVNlQUduY3hmbnYtX0x3QjVmTlBVRl9EWGlST0JLUU9NeTl0Q2pkUWVnNUtOU2wwYmZDajhFSVV2MHFLOHJuelpxcHNFTHlKcNIB7wFBVV95cUxNS3NfN3RRMWNsVERJVVFfeldRek9SNll4MTdnQ013d3RyNHlYbXppTzltTU1HQWZtcjYtWU9TODVSNmRnb2kzSHo2Y3ZKemcxMnNkNGdoR1ZHUWdpUjg1clBRazRSc3dzdm5yTUpuYjlrNjBOTXcteGFJajB6c2N6TTZYZmJXNlZjSUIyUHhTbHNsMTJFWWFuQldlb3pGS3dta0ZIY3Y1RDAxck14U1VHc05fQmN0N2JwREdCS0RWeXQ0aWdmY2tnVTZaaUdXNHdWOHpoU21MLUpSSkE3VlZEQjNUQUZxV1Z3SnpEVlNLdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmpNZG81YlY4YlN6NWpxX05fb0tjR1VjcWF4UlNDTlJHVW9vazBRMHBXbjZSSExacDF3ZW9sNzZoYUxRNUpzZVJIZ084b0x3dEFaZkdZZzY1eUtFa0toSjV3bHFUUHpBY0lCcF9zdGdCZldRZHIxSUU2bTVuV0hjNFhSX09BRHF4b0dtT2pYelFqNFZqdTFNNjE4MVFGREdMVVU1R3ExeU1TQXRmZzBFVTNxZ0FUSjZDakItN0YzYw?oc=5"
     },
     {
-      "title": "Indexa Capital Group ganó 2,37 millones en 2025: \"Queremos consolidar nuestro liderazgo en España\"",
+      "title": "Renta 4 amplía su equipo de banca privada con Armando Orejas como responsable de planificación fiscal y patrimonial",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaDA4a19CLWs2azI0NVB5aTlsRUtWV2VxdnljV0ZBNjZSWUItTEZWRi11MkRZMHl2ajdseUk5Vi1oTmlYZmUzTXFyc21wd08yS3RXcnYtcUJHREVhVGpmSTRlcTZjdGFacEFoYUxuX1RaSENkT015WEZ1bGNZWndnX1REeU5MblNxY05ZdWwtM1p2Z041WW1kRGRkckhtS21hZHNDZDMwOVpDbHJRaVlvZXd0UkZIeEY2dXRTZG9Ba1hJUHpsS3FqalMwS0g1Wlc1M3ZGNXhlakRtc29GMlVybEZGZw?oc=5"
-    },
-    {
-      "title": "Mejores cuentas remuneradas: más intereses y sin comisiones en marzo 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZlFjN3paakxwVXBKOFdLdVhDMEIxZnQ1Vnh6MFlYR2t5dXZsSGNpVGsySE9RT1N0X3Nka2JhUDVJTl9taFBsaWhmUzB4UmN6VTdCb3B4dTV1S1JNVnV1S0Jsb1JNN1MtTURLNjRORG80dFJWT2cwQ1NCVEJfa25TUE1YdmZiZFRDbWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWVYyQkUtSkZoYVlGczZUQnZwWk9LNmg0Sm9OY1A5QXlSNTJIOVNBZFZNbUE2SVpHU24xdnZWMk1pRjFKR21pQ3BSUDVPRVNickd6X3lYcXB1bWJuS1ZUYXI3QVRjOUNhdmJNeEJaZkdLUHhUbnRlWS1KSzF5WmVBclFtcFlJZFVTbnpGMXRVWDJLSWhqUUR0UTZlbTFqanB6blp4SnhLU2lSOVZSdXAtaURKYV9oYTZZVERxT0ZtaGlkU1NPcjBGaEN3?oc=5"
     },
     {
       "title": "Potencial de los 7 magníficos del Nasdaq a largo plazo en bolsa",
@@ -89,34 +74,29 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWC1xTmRQcGJ2QVdsaEJUZm93Sl9CUWJDN20zdV9HQ3U5S1F5azJpekdSTzgtYnQzeUhtNWdXSTZOd3FsdkRvWTdnM3NjeDFFaVY2RzRvTDQ4cmx4LWpHejE5VEVGQnpzS09Tamh4SnFYSHVLeHpTSjkzVjBhQzZpOC1sOG5fM015ZThNNHRvai1WWEpmbjlLV2ZMeENzeXR2cEJEZ0pjLWZqNnJpQm1OdnlDSHRTOGxNR0hiZUN6WDlZUdIBngFBVV95cUxQT3hoWVdaX1FybFhSSG9mQVhBSVQ2WnRhc2tDcGpUUGpPWW5TUVJxSG1UU2FYQW1ublM1Zi1hWEFOMUxtTkdYcnRZcXF2TlR3VFdLVUVRUkp2Y1JVWEttc1pCZnF4SGYwQ2Y2bENUdVZvT2JPQkIwSkR0Sm9CQkdLemRSOFk1eVQyQVYxQUhfRjFyYXFtTWtpZnVRWkRMUQ?oc=5"
     },
     {
-      "title": "inbestMe lanza nuevas Carteras Objetivo 2027-2031 con hasta un 25% de rentabilidad acumulada objetivo",
+      "title": "Trade Republic vs B100: ¿qué cuenta elegir? Comparativa 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbGFMX096TjJMdFFCR0JYbjVYUDI5Q214MjdNVjhGd0pHYm5aWG9EcFJtck9YV242UnJIbGdBTEhKdVl0T0RiQ05sNGl4eW5haFJHR3o0Wlhtc1JSbDZfZ1QyQ3RWQ1JkaVFBU3EtQkF1dXF6TzZzSmpHR2xLVmhKM082UUZfWkRCOEQw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2VYWjBYSkNVUVZON3RYM2F0U0t2M0JJZ0RBY1VkaWVwNDYxcVRqZFE3X1hmak8tQzNRb1Vqa0xKaERpLVFUcVdtZEFvekNBb2FDbERfSU5mWkxNWmhjcy1zT2tJRGZEMXQ3ckhlYkFWRnZuZGgxbGZKY2thN3hqQjUwcnNmWU1XdEtTWURqVHE0bmM0eHRfZTNsMU1vbmU4ckE1ZmZ2OWU?oc=5"
     },
     {
-      "title": "Diez compañías de Defensa que vuelan en bolsa gracias a la guerra de Ucrania",
+      "title": "Mejores tarjetas de crédito en marzo 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nUTRhU3ZQeTZXQmtvUUlfZmZTRjZ4SGYySG11MkJKWnBnTUlWVVhwQTJNWnRLZlZWZ3dfRzVjcmJ6enFYSmRqcl92Tkpzb3NoVGs0eFY0U1R2SjlfcDhzSEdMaEhCenI4ckQybEVpaEdlbGNSaE9GVXEtTUotd0o4aVBDdHBNdXNoT29sR21hMnVSN3diWi1kaU9GTWdFMDZrTGJtc2hnMnR5QUNjUVh3TlpIdGdXMGpoUFJoX21aUdIBngFBVV95cUxPSkkwR2poZWs1OFducU9yaHZOUGlSV0JBQ0hCakVsc3k1cEZZa3VZYjYtcjdHbWJROGJpamNuaGgtZkw4a3J1S1NaeW1EdmtlQUo4bUlZcExxNXNqYVpsR0lOdExwdXp3U2x3VXdxSnJPejFzdl95eXBNUXlsNXRBNnVKZWR4YTBjWjlrVFpYVU5GUExpNTluTDVVNnhCQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZExTTDRJMHZ4QW1lS010empVVk9xVXJYenpxRkUxbTJmLXZ2N0V2MXhrREhjU1hwZXE0T1BsZjFJLWhFVExqMUJkdUVBZzh5QTVvczNJcWg0WGdZdlZtQmloY0FCbzNwcWZjNVNsX05xbC0yOXBmTkVrT2xVVFhHR2lvUQ?oc=5"
     },
     {
-      "title": "Qué banco da más intereses en España (marzo 2026)",
+      "title": "Hasta 760 euros: mejores promociones de bancos por domiciliar la nómina (marzo 2026)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uNzZSeFQxLWJlOF9MakxEVlNVOXNmb2ZvRS1haHl6amZLYVp4VDF4aUZDUkgyTklGZF9IMXg0dFExZ1ZPeHhOYkN2VURPanJUMUQ0X1B5Z3ZaVXhpaVI3SElrNjBERDduWGxZemRLVHR5YmN4Q2c4c1B3bVVTa28?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWk51QU5RallaWDBRTkRxVElBVnpKTkJLQW9MazlJODM3aVpLc0dZTWxmNzdTSXZXNGFxUlU1SWNHOUg5WXRJSjlXWjFoeS1hTExnSWdVNzFjam9BQ1hZTWpvWlJTcWtDeGx2UTl4ODIwU19Pc0Z2NFpNVEloZVNuOTFnMGJna0pMQ1RlYXlUcXE1b3BwSWhEUGdvV1ltV0l0d0RjNEp0b3ZEQk56VnZkLUt5V2VJZ0Z3dHNYU1VtVFRCTGYyM0VydnM5dlZrMV9pdjZFUXFhWQ?oc=5"
     },
     {
-      "title": "Robo advisors: No es oro todo lo que reluce en los algoritmos de la inversión",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZm1HXzh5aFptS045NEdqXzdkYlRWYVB1eWNGRUctUFpXQ2V5VTRBcWFyNm1ONDhVd3lPMnpDWmRRY1pncDJEMkp2QXZkZ2dXZjkxNTU0anQ0NW92eWtUdmVsVkxGdkhYcXpyNTVNOU5vcVFNLTk0MVZwa3ZNT1diTEZLNEh4bWNoOFNBNTRQZU1wVWVnNU9sUmJyN2ZvR2FCdkRERWVoSGZ0SU1XeG1yZjZTeTlBUEotSjdLTTlFTjhQeW0zX3Mxc0Z5amZjTUpp0gGeAUFVX3lxTE90OXl3eE94akl6YjFpRUNRLWdZWk1UVzlra2lVZGF3OFU3M1BoYTRNSnlCQlZtZ3VPWDdRMHVfZDZIdjFhcEZnQkhtSl9hMFI0alVBY3ZqYlhtQkZZYW9MRWFxamN2elVSN3VsaV95RDdKVFpvaTBuR2NxY0JQNDg2Y095NG9FbERmWXJ6V3NUc3ZYanR1TkZnLWQ3RzZR?oc=5"
+      "title": "El fracaso del metaverso de Facebook: lecciones clave para los inversores en ETFs temáticos",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274814/el-fracaso-del-metaverso-de-facebook-lecciones-clave-para-los-inversores-en-etfs-temáticos.aspx"
     },
     {
-      "title": "Mejores cuentas de ahorro 2026 en España",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNC0tTUNyMTdKTURYQkZjWUxWaTlQLVdPams1Q0x1aHM5T2xEV2R2TWRiZl8tc1pJaFl2SXlvVzFOaW1kYVRrTGlHby1oZUxEbXpMYjltTXRKcE9CRUlhNWZ0Z0lqdURHcjN2eDdwR004VmFfNDNfSzZMWjRoTVdwMU5wUQ?oc=5"
-    },
-    {
-      "title": "El ETF iShares MSCI ACWI: La excesiva concentración tecnológica lastra su diversificación",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQWIwMUFxMUhmTUhyNEJLTE0tSWxSa1o1c0hEX2tYTHM4OUMyTVd5Mjh2SUdKUHE1WWVJZWJuN242UzlBd0wtWWpTcnE4ZGRaaTZHbWdSb2Z6Qjd6X1JDMWtUbXJkd3hLWGZkaS1rS3BWd2p3UldmQ0M5ZTVYZDNnUUhCd0JMblNSUU1Hbi1LNkN1VFhzRUNielpudWk1djlXelN4U1NwdFIxQkRLeWRUNHktYW4zdWt6V2dIWjNhNnlSblIyanA0?oc=5"
+      "title": "Inflación en la Eurozona: ¿Subirán los precios con la guerra en Irán y modificará su política el BCE?",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274807/inflación-en-la-eurozona-¿subirán-los-precios-con-la-guerra-en-irán-y-modificará-su-política-el-bce.aspx"
     },
     {
       "title": "Los 10 ETFs del sector defensa más rentables para invertir en 2026",
@@ -132,16 +112,6 @@
       "title": "¿Qué valores españoles pagan dividendo en abril de 2026?",
       "source": "rss_morningstar_es",
       "url": "https://www.morningstar.es/es/news/274715/¿qué-valores-españoles-pagan-dividendo-en-abril-de-2026.aspx"
-    },
-    {
-      "title": "Premios Morningstar 2026: Los ganadores",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274705/premios-morningstar-2026-los-ganadores.aspx"
-    },
-    {
-      "title": "Revisión al alza de las estimaciones del valor razonable de las navieras internacionales por la guerra en Irán",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274692/revisión-al-alza-de-las-estimaciones-del-valor-razonable-de-las-navieras-internacionales-por-la-guerra-en-irán.aspx"
     }
   ]
 }
