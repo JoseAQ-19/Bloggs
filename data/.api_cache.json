@@ -615,67 +615,60 @@
   "9ee96a29d2849810b096fb4ad7845a44fb015972f3144c10f16e0a281e09fb7c": {
     "data": [
       {
-        "title": "‘Jeopardy!’ Plans YouTube Spinoff Show as It Ramps Up Production on Platform",
+        "title": "Meta, YouTube found guilty of negligence in history-making social media addiction trial",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Meta and YouTube found liable in social media addiction trial",
+        "title": "Jury decides YouTube, Meta should pay $6 million in damages after finding them negligent in landmark trial",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Political consultant begins live streaming NH Executive Council meetings on YouTube",
+        "title": "How the landmark verdict against Meta and YouTube could hit their businesses",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Verdicts against Meta, YouTube reshape legal shields",
+        "title": "What Is YouTube’s Dominance Doing to Us? We Asked Its C.E.O.",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Inside the Off-Grid Earthship Community in New Mexico (YouTube film review)",
+        "title": "How YouTube creator marketing drives growth",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774622658.7503746,
+    "cached_at": 1774725916.6954153,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "f990e7eff0f3103ac01b2830c939d7dce846fb1e852800a979f12b26b78a0e42": {
     "data": [
       {
-        "title": "Adiós, Sora: OpenAI abandona su generador de video con IA después de dos años  | WIRED",
+        "title": "Las redes sociales están descubriendo que no son intocables por los daños que han causado a niños y jóvenes | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/adios-sora-openai-abandona-su-generador-de-video-con-ia-despues-de-dos-anos"
+        "url": "https://es.wired.com/articulos/los-juicios-que-demuestran-que-las-redes-sociales-no-son-intocables-por-los-danos-que-han-causado-a-ninos-y-jovenes"
       },
       {
-        "title": "Meta pierde juicios históricos por facilitar explotación de menores y adicción juvenil | WIRED",
+        "title": "What it means that Meta and YouTube lost in court | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/meta-enfrenta-historica-sancion-de-375-millones-por-facilitar-la-explotacion-de-menores"
-      },
-      {
-        "title": "El peligroso reto de \"comer sin tragar\" se vuelve viral en el TikTok de China | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/el-peligroso-reto-de-comer-sin-tragar-se-vuelve-viral-en-el-tiktok-de-china"
+        "url": "https://theverge.com/podcast/902162/meta-youtube-kgm-court-ruling-vergecast"
       },
       {
         "title": "Los influencers que recomiendan medicamentos ya son un problema de salud pública | WIRED",
@@ -683,9 +676,16 @@
         "lang": "en",
         "score": 0,
         "url": "https://es.wired.com/articulos/los-influencers-que-recomiendan-medicamentos-ya-son-un-problema-de-salud-publica"
+      },
+      {
+        "title": "Sony actualiza su gama de televisores Bravia y lanza barras de sonido, subwoofers y altavoces traseros | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/sony-actualiza-su-gama-de-televisores-bravia-y-lanza-barras-de-sonido-subwoofers-y-altavoces-traseros"
       }
     ],
-    "cached_at": 1774622659.2831268,
+    "cached_at": 1774725917.2190955,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
