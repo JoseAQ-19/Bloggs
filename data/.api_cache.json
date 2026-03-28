@@ -538,42 +538,42 @@
   "fb4ad1bcef6d3043168469167a15cb1cb1ab0f544701e2b912c49d41dd73fb7a": {
     "data": [
       {
-        "title": "El CEO de Banijay Group revela estrategia de crecimiento hacia YouTube",
+        "title": "No eres solo tú: ver YouTube sin pagar se ha vuelto insufrible",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Asedio judicial en EE.UU. contra el 'scroll' infinito de Meta y YouTube",
+        "title": "Qué son los immersive workouts, o entrenamientos inmersivos, que están triunfando en YouTube y han cambiado la forma de hacer ejercicio desde casa",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Kanye West sube su disco ‘bully’ a Youtube: escúchalo",
+        "title": "Los hermanos 'Buyer' desvelan su mes en Youtube: \"Hemos generado 80.000 euros en un mes\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Meta y YouTube condenadas a pagar 3 millones de dólares en EE UU por adicción a redes",
+        "title": "Los hermanos Buyer hablan del dinero que ganan con YouTube: \"Cuando más generamos fue con la Vuelta a España\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La adicción de Kaley, la niña que derrotó a Meta y YouTube: ansiedad, depresión y pensamientos suicidas",
+        "title": "\"Slot out\": Los aficionados del Liverpool inundan el chat de YouTube durante el partido de leyendas",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774620678.0823526,
+    "cached_at": 1774725167.8542306,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
@@ -601,14 +601,14 @@
         "url": "https://as.com/meristation/betech/el-veredicto-que-hace-temblar-a-silicon-valley-meta-y-google-responsables-por-la-adiccion-de-una-joven-y-condenados-a-pagarle-millones-de-dolares-f202603-n/"
       },
       {
-        "title": "YouTube wants you to flag low-quality AI-generated videos: here’s how its new tool works - Meristation",
+        "title": "Google pone fecha al \"Q-Day”, cuando la computación cuántica podrá romper la criptografía actual antes de lo previsto",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://en.as.com/meristation/news/youtube-wants-you-to-flag-low-quality-ai-generated-videos-heres-how-its-new-tool-works-f202603-n/"
+        "url": "https://www.xataka.com/ordenadores/google-pone-fecha-al-q-day-cuando-computacion-cuantica-podra-romper-criptografia-actual-antes-previsto"
       }
     ],
-    "cached_at": 1774620678.7261808,
+    "cached_at": 1774725168.274994,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
