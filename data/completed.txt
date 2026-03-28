@@ -516,3 +516,4 @@ tools: Unbeatable Deals: Grab Up to 41% Off Craftsman Tools at Amazon!
 crypto: ```json
 crypto: Fannie Mae Embraces Crypto: The Future of Home Loans Is Here
 crypto: God, Faith, and Bitcoin: The Rise of Crypto Among Christians
+youtube: ¿Ver YouTube sin pagar? Por esto se está volviendo casi imposible
