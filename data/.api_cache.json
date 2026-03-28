@@ -286,77 +286,77 @@
   "6b917a81fd9eedfed0c8175dfe38aafa9e90472ee53445d8e4541e481f95984d": {
     "data": [
       {
-        "title": "He Made a Viral Shirt. If Only He Could Fight Off the Knockoffs.",
+        "title": "The Memo: Pro-Iran memes go viral, striking back at Trump in propaganda war",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Tourists flock to a Brazilian favela for viral videos",
+        "title": "Wisconsin run-away kangaroo “Chesney” found after viral search",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Viral dog homecoming story turns out to be fake",
+        "title": "This Santa Monica Restaurant Is Going Viral For Its Bathroom",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Kick streamer arrested as FWC investigates viral video showing him shooting at alligator",
+        "title": "Judge confronts woman driving during a now-viral virtual court hearing",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Man charged in viral Glastonbury animal cruelty case",
+        "title": "I've tested countless sleep tips for my job. Following the viral Dutch method actually helped me feel refreshed.",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774633565.3543196,
+    "cached_at": 1774736254.171219,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
   "78419185a472eac00403a11a229938d32ad88b963bbfbf48284eb0cbba1ee66b": {
     "data": [
       {
-        "title": "El peligroso reto de \"comer sin tragar\" se vuelve viral en el TikTok de China | WIRED",
+        "title": "Las redes sociales están descubriendo que no son intocables por los daños que han causado a niños y jóvenes | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/el-peligroso-reto-de-comer-sin-tragar-se-vuelve-viral-en-el-tiktok-de-china"
+        "url": "https://es.wired.com/articulos/los-juicios-que-demuestran-que-las-redes-sociales-no-son-intocables-por-los-danos-que-han-causado-a-ninos-y-jovenes"
       },
       {
-        "title": "El contenido de abuso infantil generado con IA es una plaga que crece sin control | WIRED",
+        "title": "Los influencers que recomiendan medicamentos ya son un problema de salud pública | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/el-contenido-de-abuso-infantil-generado-con-ia-es-una-plaga-que-crece-sin-control"
+        "url": "https://es.wired.com/articulos/los-influencers-que-recomiendan-medicamentos-ya-son-un-problema-de-salud-publica"
       },
       {
-        "title": "Meta pierde juicios históricos por facilitar explotación de menores y adicción juvenil | WIRED",
+        "title": "Esta galaxia lejana está desapareciendo y nadie sabe exactamente por qué | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/meta-enfrenta-historica-sancion-de-375-millones-por-facilitar-la-explotacion-de-menores"
+        "url": "https://es.wired.com/articulos/esta-galaxia-lejana-esta-desapareciendo-y-nadie-sabe-exactamente-por-que"
       },
       {
-        "title": "Adiós, Sora: OpenAI abandona su generador de video con IA después de dos años  | WIRED",
+        "title": "El Hubble captó por accidente el momento en que un cometa se hace pedazos | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/adios-sora-openai-abandona-su-generador-de-video-con-ia-despues-de-dos-anos"
+        "url": "https://es.wired.com/articulos/el-hubble-capto-por-accidente-el-momento-en-que-un-cometa-se-hace-pedazos"
       }
     ],
-    "cached_at": 1774633565.871969,
+    "cached_at": 1774736254.8175871,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
