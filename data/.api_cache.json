@@ -370,75 +370,82 @@
   "1aa06cf232e59b4099181fc77bc2032cca3f1701bcd8a89857881f3d3a40d006": {
     "data": [
       {
-        "title": "BTCUSD",
+        "title": "Predicción del precio de Litecoin (LTC) para 2023 2024 2025 2026",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Predicción del precio de Neo (NEO) para 2023 2024 2025 2026",
+        "title": "Precio, gráficos, capitalización de mercado de Katana (KAT)",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La demanda sobre los ingresos de Nvidia Crypto obtiene la certificación de demanda colectiva por parte de un tribunal federal de California",
+        "title": "La amenaza de los hutíes en el estrecho de Bab el-Mandeb corre el riesgo de interrumpir el 12% del comercio mundial, afectando el sentimiento del mercado petrolero.",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Lummis says CLARITY Act will deliver 'strongest' developer protections",
+        "title": "El \"costo eléctrico\" de $BTC cae por debajo de los $50,00",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Perspectivas de Future Crypto 06(@Tutul069_Crypto)",
+        "title": "Trading de criptomonedas en fin de semana y volatilidad de BTC: explicación 2026",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774714499.5810604,
+    "cached_at": 1774800919.225222,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "5c20aedfee12fab17574d9716695b511d7e61e204e2a7e9a7f897f9646417150": {
     "data": [
       {
-        "title": "Crypto donations to UK parties to be banned",
-        "source": "hackernews",
-        "lang": "en",
-        "score": 12,
-        "url": "https://www.bbc.co.uk/news/articles/c5y8d2qvr9do"
-      },
-      {
-        "title": "Google sets a timeline for post-quantum cryptography migration to 2029",
-        "source": "hackernews",
-        "lang": "en",
-        "score": 7,
-        "url": "https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/"
-      },
-      {
         "title": "David Sacks Is No Longer the White House AI and Crypto Czar",
         "source": "hackernews",
         "lang": "en",
         "score": 6,
         "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar"
+      },
+      {
+        "title": "California Judge Certifies Investor Class in Nvidia Crypto-Mining Lawsuit",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 2,
+        "url": "https://www.law.com/therecorder/2026/03/26/california-judge-certifies-investor-class-in-nvidia-crypto-mining-lawsuit/"
+      },
+      {
+        "title": "Cryptography Migration Timeline",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 2,
+        "url": "https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/"
       }
     ],
-    "cached_at": 1774714499.8463967,
+    "cached_at": 1774800919.4895267,
     "func": "fetch_hackernews",
     "args_summary": "(['crypto'],)"
   },
   "151a07ed322d3cbdd77d65398c3a13cd6a0111c87db69f3fd0b926d706a54d98": {
     "data": [
+      {
+        "title": "¿Hay que declarar las operaciones con criptomonedas en la Renta y en qué casilla se tributan a Hacienda? - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/actualidad/economia/hay-que-declarar-las-operaciones-con-criptomonedas-en-la-renta-y-en-que-casilla-se-tributan-a-hacienda-f202603-n/"
+      },
       {
         "title": "Google pone fecha al \"Q-Day”, cuando la computación cuántica podrá romper la criptografía actual antes de lo previsto",
         "source": "exa",
@@ -447,21 +454,21 @@
         "url": "https://www.xataka.com/ordenadores/google-pone-fecha-al-q-day-cuando-computacion-cuantica-podra-romper-criptografia-actual-antes-previsto"
       },
       {
-        "title": "La Comisión Europea ha sufrido un ciberataque: los primeros indicios apuntan a robo de datos y el alcance no está claro",
+        "title": "La caída de las bolsas se modera con la nueva prórroga de Trump a los ataques energéticos a Irán",
         "source": "exa",
-        "lang": "en",
+        "lang": "es",
         "score": 0,
-        "url": "https://xataka.com/seguridad/comision-europea-ha-sufrido-ciberataque-primeros-indicios-apuntan-a-robo-datos-alcance-no-esta-claro"
+        "url": "https://www.businessinsider.es/mercados/caida-bolsas-modera-nueva-prorroga-trump-ataques-energeticos-iran_6951473_0.html"
       },
       {
-        "title": "SpaceX prepara la salida a bolsa más grande de toda la historia: que lo haga justo ahora no es ninguna casualidad",
+        "title": "Trump estampará su firma en los dólares, algo inédito para un presidente en activo",
         "source": "exa",
-        "lang": "en",
+        "lang": "es",
         "score": 0,
-        "url": "https://magnet.xataka.com/espacio/spacex-prepara-salida-a-bolsa-grande-toda-historia-que-haga-este-momento-no-ninguna-casualidad"
+        "url": "https://www.businessinsider.es/economia/trump-estampara-su-firma-los-dolares-algo-inedito-para-un-presidente-activo_6951486_0.html"
       }
     ],
-    "cached_at": 1774714500.3197722,
+    "cached_at": 1774800920.1091506,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
