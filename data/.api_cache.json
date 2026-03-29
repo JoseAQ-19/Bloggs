@@ -552,14 +552,14 @@
   "fb4ad1bcef6d3043168469167a15cb1cb1ab0f544701e2b912c49d41dd73fb7a": {
     "data": [
       {
-        "title": "No eres solo tú: ver YouTube sin pagar se ha vuelto insufrible",
+        "title": "Cómo ver Netflix o YouTube en la pantalla del coche en Semana Santa",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Qué son los immersive workouts, o entrenamientos inmersivos, que están triunfando en YouTube y han cambiado la forma de hacer ejercicio desde casa",
+        "title": "Dominó YouTube durante una década, se fue y ahora regresa: la historia de Tom Scott",
         "source": "google_news",
         "lang": "es",
         "score": 0,
@@ -573,46 +573,39 @@
         "url": ""
       },
       {
-        "title": "Los hermanos Buyer hablan del dinero que ganan con YouTube: \"Cuando más generamos fue con la Vuelta a España\"",
+        "title": "Redes inteligentes en vez de baterías frente al apagón eléctrico: \" Lo lógico es que en caso de apagón, no es",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "\"Slot out\": Los aficionados del Liverpool inundan el chat de YouTube durante el partido de leyendas",
+        "title": "Susan Sarandon protagoniza el documental 'American Mirror: Intimations of Immortality' de acceso gratuito en YouTube",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774725167.8542306,
+    "cached_at": 1774811652.346078,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "cfab165c756760f9672efaf7f54fa3040ac0f24e7b4012e5d64766caf60cfad3": {
     "data": [
       {
-        "title": "YouTube quiere que señales videos malos generados por IA: así funciona su nueva herramienta - Meristation",
+        "title": "Los expertos coinciden: \"Las redes sociales están diseñadas para hackear el cerebro\"",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/meristation/betech/youtube-quiere-que-senales-videos-malos-generados-por-ia-asi-funciona-su-nueva-herramienta-f202603-n/"
+        "url": "https://www.businessinsider.es/big-tech/adolescentes-atrapados-pantalla-expertos-coinciden-redes-sociales-hackear-cerebro_6951442_0.html"
       },
       {
-        "title": "Meta y Google se arriesgan a sufrir consecuencias similares a las de las grandes tabacaleras tras un ensayo clínico sobre adicciones",
+        "title": "Hace 2 meses, Google anunció una IA que creaba videojuegos. Ahora, todos siguen sufriendo el terremoto",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/big-tech/meta-google-se-arriesgan-sufrir-consecuencias-similares-las-las-grandes-tabacaleras-tras-un-ensayo-clinico-sobre-adicciones_6950932_0.html"
-      },
-      {
-        "title": "El veredicto que hace temblar a Silicon Valley: Meta y Google, responsables por la adicción de una joven y condenados a pagarle millones de dólares - Meristation",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://as.com/meristation/betech/el-veredicto-que-hace-temblar-a-silicon-valley-meta-y-google-responsables-por-la-adiccion-de-una-joven-y-condenados-a-pagarle-millones-de-dolares-f202603-n/"
+        "url": "https://www.3djuegos.com/tecnologia/noticias/hace-2-meses-google-anuncio-ia-que-creaba-videojuegos-ahora-todos-siguen-sufriendo-terremoto"
       },
       {
         "title": "Google pone fecha al \"Q-Day”, cuando la computación cuántica podrá romper la criptografía actual antes de lo previsto",
@@ -620,9 +613,16 @@
         "lang": "en",
         "score": 0,
         "url": "https://www.xataka.com/ordenadores/google-pone-fecha-al-q-day-cuando-computacion-cuantica-podra-romper-criptografia-actual-antes-previsto"
+      },
+      {
+        "title": "Austria se adelanta a la UE y planea prohibir las redes sociales a los niños",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://www.businessinsider.es/big-tech/austria-se-adelanta-ue-planea-prohibir-las-redes-sociales-los-ninos_6951725_0.html"
       }
     ],
-    "cached_at": 1774725168.274994,
+    "cached_at": 1774811652.8548012,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
