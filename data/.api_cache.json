@@ -629,28 +629,21 @@
   "9ee96a29d2849810b096fb4ad7845a44fb015972f3144c10f16e0a281e09fb7c": {
     "data": [
       {
-        "title": "Meta, YouTube found guilty of negligence in history-making social media addiction trial",
+        "title": "I tried YouTube's latest feature, and it was so surreal I thought I imagined it",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Jury decides YouTube, Meta should pay $6 million in damages after finding them negligent in landmark trial",
+        "title": "Jury finds Meta and YouTube liable in landmark social media addiction trial",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "How the landmark verdict against Meta and YouTube could hit their businesses",
-        "source": "google_news",
-        "lang": "en",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "What Is YouTube’s Dominance Doing to Us? We Asked Its C.E.O.",
+        "title": "Verdicts against Meta, YouTube spur new momentum for kids online safety push",
         "source": "google_news",
         "lang": "en",
         "score": 0,
@@ -662,9 +655,16 @@
         "lang": "en",
         "score": 0,
         "url": ""
+      },
+      {
+        "title": "YouTube’s Original Slogan Was ‘Broadcast Yourself’ — Here’s What the Site Actually Looked Like 20 Years Ago",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
       }
     ],
-    "cached_at": 1774725916.6954153,
+    "cached_at": 1774812210.4623358,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
@@ -685,21 +685,14 @@
         "url": "https://theverge.com/podcast/902162/meta-youtube-kgm-court-ruling-vergecast"
       },
       {
-        "title": "Los influencers que recomiendan medicamentos ya son un problema de salud pública | WIRED",
+        "title": "A jury said Instagram and YouTube are defective — now what? | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/los-influencers-que-recomiendan-medicamentos-ya-son-un-problema-de-salud-publica"
-      },
-      {
-        "title": "Sony actualiza su gama de televisores Bravia y lanza barras de sonido, subwoofers y altavoces traseros | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/sony-actualiza-su-gama-de-televisores-bravia-y-lanza-barras-de-sonido-subwoofers-y-altavoces-traseros"
+        "url": "https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact"
       }
     ],
-    "cached_at": 1774725917.2190955,
+    "cached_at": 1774812210.9356241,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
