@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-28T07:23:38.324918+00:00",
-  "total_candidates": 19,
+  "scouted_at": "2026-03-29T07:25:16.029933+00:00",
+  "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "Bestinver Bolsa FI lidera el mercado español con un asombroso 49,05% de rentabilidad en 2026: ¿qué lo hace destacar?",
+      "title": "Los 10 ETFs del sector defensa más rentables para invertir en 2026: ¿Quién lidera las ganancias con un 25% de rentabilidad?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Cobas Renta se lleva el premio Morningstar al mejor fondo mixto euro en 2026, alcanzando una rentabilidad del 8,68%: ¿es una inversión segura?",
+      "title": "Inflación en la Eurozona: ¿Cómo afectará la guerra en Irán a las proyecciones del BCE y a los fondos de inversión europeos?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Indexa Capital reduce las comisiones de sus planes de pensiones al 0,403% en 2026: ¿cuánto puedes ahorrar realmente?",
+      "title": "Abril trae tres dividendos del Ibex 35: ¿Cuáles son los que superan el 4% y son un must para los inversores españoles?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,14 +49,9 @@
   },
   "all_headlines": [
     {
-      "title": "Y los fondos ganadores de los Premios Morningstar España 2026 son...",
+      "title": "Los fondos con potencial para brillar que han recibido premio Morningstar en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOVc0SGdSVG1xZzdrZXZTaFRlbld6ZTM4S0tFdlpwbFpIajdiX2F4cnRBQU9RNTFBRF9DUWFhUXlzUHVDbGhSNTRrYlFPNnpJbS1saWRTaGxJTjJuOUFUeXR1MHVmT1ZSSTNkTkZ4LU8wVlFFT1I5ZDhmc0lmdWsxQmNTZGg4Z084QTU5MUlxMGpuS3BlZkloWXA4bW8zSkdTbVlGTGwyVmJ1Zm9XOXZiR3Qtcw?oc=5"
-    },
-    {
-      "title": "Magallanes, Cobas, Rothschild & Co, M&G, MFS y Bestinver, protagonistas en los premios Morningstar 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa2JQcUhPVUZpTWZfdWx5eEl4enJTWS1SSERtUVl1Vm1Td0ltRGxxdW9ZbG9xOGFyVXdMWHNVTnFvcmc0cVBBX2IxZWd4MnY2cUF3SUJ2MFVIY2c3UUFSajkzVEM1bTQ4bHdqVElPOTZHMklxZW9sel82czR6SmxhYzlCR3NFUjRGMldxYmZFOEdxSXBZMnlpVW0yUExRUS16c2VrQ1Q5YWFDR19SU2VTVDMxaUhIOEc2VWNySFlLY0hwcC04ZmNWRFVYZGE3RUstanNFTTJVQkgxM29IU1E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdHZMaUVHLTdWQXJXaldINFhzU1RyWnc1c29kOVZwNU1Qcy00dHByWDZtQ3hCME1BYk9tbnAtbk13T3prU3pkbUZ6SXhIZGdoc3AwcThwbEF1YjBlT0gzM2hvaGdWZm5QYXNpN05uZWFJclBlakdMcWFFdUx0aEJVd3U3SXNKc3BrUW40UTRHZHhtbnJWRXQ4ckwtakFkaWYzOU1JUXFQMXJ1NGxGRUl2LWhvYktJYUwxc01pdDhIUl8tWE9rUkVFNHBaNU5KamU3RXhBU3hjaVI1eWRL0gHcAUFVX3lxTE90dkxpRUctN1ZBcldqV0g0WHNTVHJadzVzb2Q5VnA1TVBzLTR0cHJYNm1DeEIwTUFiT21ucC1uTXdPemtTemRtRnpJeEhkZ2hzcDBxOHBsQXViMGVPSDMzaG9oZ1ZmblBhc2k3Tm5lYUlyUGVqR0xxYUV1THRoQlV3dTdJc0pzcGtRbjRRNEdkeG1uclZFdDhyTC1qQWRpZjM5TUlRcVAxcnU0bEZFSXYtaG9iS0lhTDFzTWl0OEhSXy1YT2tSRUU0cFo1TkpqZTdFeEFTeGNpUjV5ZEs?oc=5"
     },
     {
       "title": "BNP Paribas AM nombra a Isabelle Scemama Deputy CEO y refuerza su apuesta por los activos alternativos",
@@ -64,29 +59,24 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmpNZG81YlY4YlN6NWpxX05fb0tjR1VjcWF4UlNDTlJHVW9vazBRMHBXbjZSSExacDF3ZW9sNzZoYUxRNUpzZVJIZ084b0x3dEFaZkdZZzY1eUtFa0toSjV3bHFUUHpBY0lCcF9zdGdCZldRZHIxSUU2bTVuV0hjNFhSX09BRHF4b0dtT2pYelFqNFZqdTFNNjE4MVFGREdMVVU1R3ExeU1TQXRmZzBFVTNxZ0FUSjZDakItN0YzYw?oc=5"
     },
     {
-      "title": "Renta 4 amplía su equipo de banca privada con Armando Orejas como responsable de planificación fiscal y patrimonial",
+      "title": "Ranking de las mejores entidades de banca privada en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWVYyQkUtSkZoYVlGczZUQnZwWk9LNmg0Sm9OY1A5QXlSNTJIOVNBZFZNbUE2SVpHU24xdnZWMk1pRjFKR21pQ3BSUDVPRVNickd6X3lYcXB1bWJuS1ZUYXI3QVRjOUNhdmJNeEJaZkdLUHhUbnRlWS1KSzF5WmVBclFtcFlJZFVTbnpGMXRVWDJLSWhqUUR0UTZlbTFqanB6blp4SnhLU2lSOVZSdXAtaURKYV9oYTZZVERxT0ZtaGlkU1NPcjBGaEN3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS1lTdmpvS1RrWndkRUhtSWNsSDlnSjQtZGZhTnREMEZ1dXhpdDc0Q0RkMjdYZnJCdVJxZkZ5VHVtZkpxc2dPMUVFMW16ZEhWaU5EcmtiWXAtVWRTdl92UHp0TXpZV0lHemJfSmVxVzduUUxSLTRyekJ3RXA1YnFBQVYxM01TdHZva3VEVzZQZlZIQVU1UWl3NXE2NDREdllQampkY0l4dXVhRWxfd3RYVk95WDZsTDhLU3lnc0lsekRmaGZE0gGjAUFVX3lxTE1BVUloV0RxUWRmNExQQ0V2QU9JVjNjMzhLT3ZuZEpsZnlTdTlSck0yNE9SeWdwTzVDVU9pd0N1RkJKV21aZzZmU3lnYk8yN3o0WmJvQzVEWFc0LWVTLWdub0kyS09nb0dDeXBiX3hiRnNXaC1XWkgwYTlBZ2hQOTdmUGNtelktTkJlZVhseWZPb2M3amZzd1dLb3NMTndCd1huNlU?oc=5"
     },
     {
-      "title": "Potencial de los 7 magníficos del Nasdaq a largo plazo en bolsa",
+      "title": "Mejores brókers para invertir: comparativa 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWC1xTmRQcGJ2QVdsaEJUZm93Sl9CUWJDN20zdV9HQ3U5S1F5azJpekdSTzgtYnQzeUhtNWdXSTZOd3FsdkRvWTdnM3NjeDFFaVY2RzRvTDQ4cmx4LWpHejE5VEVGQnpzS09Tamh4SnFYSHVLeHpTSjkzVjBhQzZpOC1sOG5fM015ZThNNHRvai1WWEpmbjlLV2ZMeENzeXR2cEJEZ0pjLWZqNnJpQm1OdnlDSHRTOGxNR0hiZUN6WDlZUdIBngFBVV95cUxQT3hoWVdaX1FybFhSSG9mQVhBSVQ2WnRhc2tDcGpUUGpPWW5TUVJxSG1UU2FYQW1ublM1Zi1hWEFOMUxtTkdYcnRZcXF2TlR3VFdLVUVRUkp2Y1JVWEttc1pCZnF4SGYwQ2Y2bENUdVZvT2JPQkIwSkR0Sm9CQkdLemRSOFk1eVQyQVYxQUhfRjFyYXFtTWtpZnVRWkRMUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWNHb3VNQnJ3UVNGUmJtZmVVSnBMd093MDNyeERXZTBYeDRJQ01VaGxFdWhFMVVCUHR4TFhWeDljbjBxb3gzLWJzUndiUW1VOXBNOEJEdnNDUVdJcFExbXFEamJHTlh6MHlIVGN5UmFKa2FSa3RrTWNucXRpb0lOYWFRQVZ0cXJzOGprVHUyYVFqS3Jib1M4?oc=5"
     },
     {
-      "title": "Trade Republic vs B100: ¿qué cuenta elegir? Comparativa 2026",
+      "title": "Abril llega con tres dividendos del Ibex 35 para los inversores españoles",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2VYWjBYSkNVUVZON3RYM2F0U0t2M0JJZ0RBY1VkaWVwNDYxcVRqZFE3X1hmak8tQzNRb1Vqa0xKaERpLVFUcVdtZEFvekNBb2FDbERfSU5mWkxNWmhjcy1zT2tJRGZEMXQ3ckhlYkFWRnZuZGgxbGZKY2thN3hqQjUwcnNmWU1XdEtTWURqVHE0bmM0eHRfZTNsMU1vbmU4ckE1ZmZ2OWU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeHFIdER3TXl2UXU4MjJMSjhlSE9BOTBmU1gwSWdVb3hCR1NzYWNYYi1mVno0UE9zQk5aV01ZVm81SHZ2TjIzamZSakdzRnJaZzFjTW9NTDZoNTQxaWlUakFfNVRZVlRaQ2xWcklkWC1kSTFIUVZiQ3dieV9neHRoenJ6M1VVMjRBYXY2YlZSOTFXei1YMEQtem5lVlBvNjBFdDBsSkE5dUd0aUF6U2JaUXBzVkFKeEp2bGk5YVludHU0MDBucFE?oc=5"
     },
     {
-      "title": "Mejores tarjetas de crédito en marzo 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZExTTDRJMHZ4QW1lS010empVVk9xVXJYenpxRkUxbTJmLXZ2N0V2MXhrREhjU1hwZXE0T1BsZjFJLWhFVExqMUJkdUVBZzh5QTVvczNJcWg0WGdZdlZtQmloY0FCbzNwcWZjNVNsX05xbC0yOXBmTkVrT2xVVFhHR2lvUQ?oc=5"
-    },
-    {
-      "title": "Hasta 760 euros: mejores promociones de bancos por domiciliar la nómina (marzo 2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWk51QU5RallaWDBRTkRxVElBVnpKTkJLQW9MazlJODM3aVpLc0dZTWxmNzdTSXZXNGFxUlU1SWNHOUg5WXRJSjlXWjFoeS1hTExnSWdVNzFjam9BQ1hZTWpvWlJTcWtDeGx2UTl4ODIwU19Pc0Z2NFpNVEloZVNuOTFnMGJna0pMQ1RlYXlUcXE1b3BwSWhEUGdvV1ltV0l0d0RjNEp0b3ZEQk56VnZkLUt5V2VJZ0Z3dHNYU1VtVFRCTGYyM0VydnM5dlZrMV9pdjZFUXFhWQ?oc=5"
+      "title": "¿Qué acciones europeas reparten dividendos en abril de 2026?",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274824/¿qué-acciones-europeas-reparten-dividendos-en-abril-de-2026.aspx"
     },
     {
       "title": "El fracaso del metaverso de Facebook: lecciones clave para los inversores en ETFs temáticos",
@@ -107,41 +97,6 @@
       "title": "¿Continuará el repunte del dólar impulsado por la guerra?",
       "source": "rss_morningstar_es",
       "url": "https://www.morningstar.es/es/news/274733/¿continuará-el-repunte-del-dólar-impulsado-por-la-guerra.aspx"
-    },
-    {
-      "title": "¿Qué valores españoles pagan dividendo en abril de 2026?",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274715/¿qué-valores-españoles-pagan-dividendo-en-abril-de-2026.aspx"
-    },
-    {
-      "title": "**Bestinver Bolsa FI lidera los fondos de renta variable española con una rentabilidad del 49,05% en 2026**.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Indexa Capital anuncia una nueva bajada de comisiones en 2026, reduciendo los costes totales medios de las carteras de fondos al 0,530%.**.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**El Gobierno lanza el fondo \"España Crece\" para movilizar 120.000 millones de euros en inversión productiva a partir del segundo trimestre de 2026**.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Planes de pensiones de Indexa Capital bajan sus comisiones al 0,403% anual en 2026, generando un ahorro de 260 mil euros para los clientes**.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**CNMV supervisará el cumplimiento del Reglamento MiCA para criptoactivos a partir del 1 de julio de 2026, limitando la operación a proveedores autorizados**.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**El fondo Cobas Renta obtiene el premio Morningstar al mejor fondo mixto euro en 2026, con una rentabilidad del 8,68%**.",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }
