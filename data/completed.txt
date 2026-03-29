@@ -530,3 +530,4 @@ funds: Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard in Thailand
 funds: Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard for Top Honors
 ia: La creatividad humana sigue siendo la reina: ¿puede la IA alcanzarla alguna vez?
 ia: Mastering Vacation Planning with AI: Tips for a Seamless Getaway
+tools: Taller infantil 'Power Tools': Una mirada creativa al mundo actual en el Museo Helga de Alvear
