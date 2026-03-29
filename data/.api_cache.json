@@ -887,42 +887,42 @@
   "21a068db0cd0ba4e3b3272cddddd6e25dad487d2eb369a2766316588951e7843": {
     "data": [
       {
-        "title": "Cómo uso Claude: el agente IA del que todos hablan",
+        "title": "5 grandes movimientos de analistas en IA: rebajas para SAP y Qualcomm; Arm sube a Comprar",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La IA no está arrasando el empleo (todavía), pero ya marca a sus primeras víctimas",
+        "title": "La creatividad humana todavía supera a la IA",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Wikipedia no quiere artículos escritos por la IA",
+        "title": "Alicia Framis, la mujer española casada con una IA: ”Me gustaría tener un hijo”",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "XRP Ledger obtiene seguridad de IA mientras Ripple se prepara para un mayor crecimiento",
+        "title": "Ivace+i impulsa una plataforma con IA para optimizar la gestión de robots industriales",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La IA borra el rastro del cibercrimen y complica la atribución de los ataques",
+        "title": "CofadIAs: ¿Qué pasos de la Semana Santa andaluza recomienda ver la IA?",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774692683.780396,
+    "cached_at": 1774779137.1044612,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
@@ -936,32 +936,32 @@
         "url": "https://tsolman.github.io/vessel-class-finder/"
       },
       {
-        "title": "AI Agent Has Root Access (and That's a Problem)",
+        "title": "IAMPerformance Issue 001 – Physics-based quantum hardware intelligence report [pdf]",
         "source": "hackernews",
         "lang": "en",
-        "score": 2,
-        "url": ""
+        "score": 1,
+        "url": "https://iamperformance.online/IAMPerformance_Issue001.pdf"
       },
       {
-        "title": "Ask HN: Best flow to preserve digitalized rare photos?",
+        "title": "Tell HN: We built our own SAT solver for SHA-256",
         "source": "hackernews",
         "lang": "en",
         "score": 2,
         "url": ""
       }
     ],
-    "cached_at": 1774692684.132901,
+    "cached_at": 1774779137.402428,
     "func": "fetch_hackernews",
     "args_summary": "(['ia'],)"
   },
   "46503d41ef4fee113ff718159ee99bd6e87c149d97104b3a6a5f5ddc5f6be1b3": {
     "data": [
       {
-        "title": "Europa sí puede ser líder en IA: este es el sector que lleva ventaja frente a EEUU y China",
+        "title": "Hasta la web del frutero de tu barrio tiene IA ahora: Wikipedia quiere ser el último bastión de internet 100% humano",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://www.businessinsider.es/tecnologia/europa-si-puede-ser-lider-ia-este-es-sector-que-lleva-ventaja-frente-eeuu-china_6950810_0.html"
+        "url": "http://www.xataka.com/robotica-e-ia/wikipedia-ha-prohibido-usar-ia-para-escribir-reescribir-articulos-ingles-conocimiento-humano-empieza-a-levantar-barreras"
       },
       {
         "title": "Qué es la Inteligencia Artificial General (AGI), la tecnología que apunta a revolucionar nuestro mundo por completo",
@@ -971,21 +971,21 @@
         "url": "https://www.xataka.com/preview/-NjqISfnS7N4GRoCsAiG"
       },
       {
-        "title": "Hasta la web del frutero de tu barrio tiene IA ahora: Wikipedia quiere ser el último bastión de internet 100% humano",
+        "title": "Hace 2 meses, Google anunció una IA que creaba videojuegos. Ahora, todos siguen sufriendo el terremoto",
         "source": "exa",
-        "lang": "en",
+        "lang": "es",
         "score": 0,
-        "url": "https://magnet.xataka.com/robotica-e-ia/wikipedia-ha-prohibido-usar-ia-para-escribir-reescribir-articulos-ingles-conocimiento-humano-empieza-a-levantar-barreras"
+        "url": "https://www.3djuegos.com/tecnologia/noticias/hace-2-meses-google-anuncio-ia-que-creaba-videojuegos-ahora-todos-siguen-sufriendo-terremoto"
       },
       {
-        "title": "La generación Z prefiere trabajar con bots de IA antes que con boomers. Y eso está empezando a costar mucho dinero",
+        "title": "La revolución de la IA cambia las descargas: ChatGPT se multiplica y CapCut arrasa",
         "source": "exa",
-        "lang": "en",
+        "lang": "es",
         "score": 0,
-        "url": "https://www.xataka.com/empresas-y-economia/conflicto-generacional-generacion-z-nos-esta-costando-mucho-dinero-56-000-millones-dolares"
+        "url": "https://www.businessinsider.es/tecnologia/revolucion-ia-cambia-las-descargas-chatgpt-se-multiplica-capcut-arrasa_6951382_0.html"
       }
     ],
-    "cached_at": 1774692684.726247,
+    "cached_at": 1774779138.118775,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
