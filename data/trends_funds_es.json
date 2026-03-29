@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-29T07:25:16.029933+00:00",
+  "scouted_at": "2026-03-29T07:26:36.746850+00:00",
   "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "Los 10 ETFs del sector defensa más rentables para invertir en 2026: ¿Quién lidera las ganancias con un 25% de rentabilidad?",
+      "title": "Los 5 fondos premiados por Morningstar en 2026 que han superado el 15% de rentabilidad anual",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Inflación en la Eurozona: ¿Cómo afectará la guerra en Irán a las proyecciones del BCE y a los fondos de inversión europeos?",
+      "title": "Comparativa 2026: ¿Qué bróker ofrece las tarifas más bajas y la mejor ejecución de órdenes para inversores españoles?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Abril trae tres dividendos del Ibex 35: ¿Cuáles son los que superan el 4% y son un must para los inversores españoles?",
+      "title": "Análisis de los 10 ETFs del sector defensa que han obtenido un rendimiento superior al 20% en el último año",
       "lang": "es",
       "source": "llm_selected_finance"
     }
