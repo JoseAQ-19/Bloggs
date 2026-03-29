@@ -475,77 +475,77 @@
   "c7dcb72dc33baaa2e522c198717b4b418fcd1e9a91af28dfbac294c4b153973d": {
     "data": [
       {
-        "title": "Mortgage giant Fannie Mae will soon accept crypto-backed homebuying loans",
+        "title": "Jamie Dimon calls Crypto Tokens \"decentralized Ponzi schemes.\"",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "God and bitcoin: Why some Christians are going all in on cryptocurrency",
+        "title": "Is Crypto Legal in Romania? Laws, Regulations, and Taxes (2026)",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Why Is Crypto Crashing? Bitcoin, XRP, Ethereum, and Solana All Down This Week",
+        "title": "Crypto Technical Analysis: Weakness returns to the market, led by Bitcoin",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "As crypto ATMs draw scammers, NH groups take action",
+        "title": "SEC Will Come After Crypto If Clarity Bill Dies, Warns Expert as Divisions Remain",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Crypto's future is bright in the context of AI's assault on software firms, says Kraken-backed investment firm",
+        "title": "Crypto wealth management moves upmarket as institutional money deepens; Nexo says private unit grew 136%",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774715007.648965,
+    "cached_at": 1774801355.9971778,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "db4cf0fe883cd8d987c633ca7c9adb75314597f893f367cbf745e8aa11ded4e3": {
     "data": [
       {
-        "title": "A $20 Billion Crypto Scam Market Faces a New Government Crackdown | WIRED",
+        "title": "Una jueza pone en pausa la ofensiva de Trump contra Anthropic | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.wired.com/story/20-billion-xinbi-guarantee-uk-sanctions/"
+        "url": "https://es.wired.com/articulos/un-juez-pone-en-pausa-la-ofensiva-de-trump-contra-anthropic"
       },
       {
-        "title": "Meta pierde juicios históricos por facilitar explotación de menores y adicción juvenil | WIRED",
+        "title": "Pokémon mira hacia un futuro con miles de criaturas",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/meta-enfrenta-historica-sancion-de-375-millones-por-facilitar-la-explotacion-de-menores"
+        "url": "https://latam.ign.com/pokemon/112160/news/pokemon-mira-hacia-un-futuro-con-miles-de-criaturas"
       },
       {
-        "title": "México inicia su programa de supercómputo con proyecto para analizar el clima y prevenir desastres naturales | WIRED",
+        "title": "Sony sacude el mercado: suben los precios de PS5, PS5 Pro y PlayStation Portal",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/mexico-inicia-su-programa-de-supercomputo-con-proyecto-para-analizar-el-clima-y-prevenir-desastres-naturales"
+        "url": "https://latam.ign.com/playstation-5-1/112162/news/sony-sacude-el-mercado-suben-los-precios-de-ps5-ps5-pro-y-playstation-portal"
       },
       {
-        "title": "Los agujeros negros supermasivos dejaron de crecer tan rápido como antes; por fin sabemos por qué | WIRED",
+        "title": "Pokémon GO podría lanzar una función que cambiaría tu forma de jugar, aunque no es bien recibida por todos",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/los-agujeros-negros-supermasivos-dejaron-de-crecer-tan-rapido-como-antes-por-fin-sabemos-por-que"
+        "url": "https://es.ign.com/pokemon-go/228094/news/pokemon-go-podria-lanzar-una-funcion-que-cambiaria-tu-forma-de-jugar-aunque-no-es-bien-recibida-por"
       }
     ],
-    "cached_at": 1774715008.1918328,
+    "cached_at": 1774801356.4584239,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
