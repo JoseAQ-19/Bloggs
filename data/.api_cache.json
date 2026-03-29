@@ -62,53 +62,67 @@
   "4618dd580265f460566f713ecc35b03ce5ab52b17e317eed8d0201579ddcf0d6": {
     "data": [
       {
-        "title": "Fitness Park acelera su expansión en España con una doble apertura y alcanza los 89 clubes",
+        "title": "Laura Sánchez: “Me levanto muy temprano. A las 6.30 hago mi hora de yoga. El yoga lo combino con el fitness, intento hacer musculación durante media hora.”",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Fitness Park roza los 90 gimnasios en España tras abrir en Madrid y Écija",
+        "title": "Mejor que correr o hacer spinning: la máquina de fitness que activa los músculos más rápido que el running",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Liverpool’s Federico Chiesa leaves Italy camp after medical tests confirm fitness concern",
+        "title": "El pilates con infrarrojos gana fuerza: así mejora el rendimiento y la recuperación",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El fitness saca músculo en España",
+        "title": "Si tienes 7 minutos tienes tiempo para entrenar todo el cuerpo: la rutina 'age friendly' creada por la entrenadora Rachel Hulteén",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Fitness Park alcanza los diez gimnasios en Madrid tras instalarse cerca del Bernabéu",
+        "title": "Planet Fitness Inc acciones: Modelo de gimnasios accesibles con expansión sostenida para inversores",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774672920.4925828,
+    "cached_at": 1774760038.3089113,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "f57c7b2f36f1b097c5b6ce234958742b388d8049bb95db71d158ac3ca0835b52": {
     "data": [
       {
-        "title": "¿Tu pecho no progresa? 6 fallos comunes al entrenarlo que frenan el progreso - Mejor con Salud",
+        "title": "¿Quieres un abdomen marcado después de los 35? 5 claves que conviene revisar en tu entrenamiento - Mejor con Salud",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://mejorconsalud.as.com/bienestar/tu-pecho-no-progresa-6-fallos-comunes-al-entrenarlo-que-frenan-el-progreso/"
+        "url": "https://mejorconsalud.as.com/bienestar/ejercicio/claves-a-revisar-para-lograr-un-abdomen-marcado-despues-de-los-35/"
+      },
+      {
+        "title": "Caminar 10.000 pasos está bien, pero la ciencia avisa: el verdadero antídoto contra el envejecimiento está en un escalón",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/medicina-y-salud/caminar-10-000-pasos-esta-bien-ciencia-avisa-verdadero-antidoto-envejecimiento-esta-escalon"
+      },
+      {
+        "title": "Dr. José Luis Marín, experto en salud mental: “Andar o correr 15 minutos al día es más eficaz que los antidepresivos” - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/tikitakas/virales/dr-jose-luis-marin-experto-en-salud-mental-andar-o-correr-15-minutos-al-dia-es-mas-eficaz-que-los-antidepresivos-f202603-n/"
       },
       {
         "title": "Los JJOO han resuelto por fin la cuestión de los atletas trans. El problema es que la biología es más complicada",
@@ -116,16 +130,9 @@
         "lang": "en",
         "score": 0,
         "url": "https://www.xataka.com/magnet/coi-tiene-nuevo-metodo-para-excluir-a-atletas-trans-juegos-olimpicos-problema-que-biologia-no-funciona-asi"
-      },
-      {
-        "title": "Llevamos años creyendo que la primavera nos agota. La ciencia dice que nos lo estamos inventando",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://xataka.com/medicina-y-salud/llevamos-anos-creyendo-que-primavera-nos-agota-ciencia-dice-que-nos-estamos-inventando"
       }
     ],
-    "cached_at": 1774672921.0075011,
+    "cached_at": 1774760038.8129249,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
