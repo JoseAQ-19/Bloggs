@@ -139,77 +139,77 @@
   "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
     "data": [
       {
-        "title": "Fitness Influencer Dies at Age 46 After He’s Shot While Leaving the Gym",
+        "title": "Prison tapes raise questions over ex-Abercrombie boss' fitness for trial",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Virginia fitness influencer arraigned in Glastonbury animal abuse case",
+        "title": "Ronyme Quiet Weighted Fitness Hoop – Flexible Spring Hula Hoop For Waist, Abs & Full Body Workout",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Helen Newman Fitness Center: The Superior North Campus Gym",
+        "title": "'Women in Policing' recruitment event spotlights fitness and training readiness",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "“March into Fitness” brings FAU students together through fitness on Boca Raton housing lawn",
+        "title": "Fitness guru David Goggins, 51, re-enlists for grueling Air Force training",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Seniors say they thought they could win thousands in fitness program. Instead, they received a bill",
+        "title": "Morren Fitness Center’s $100,000 upgrade receives mixed reactions",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774673469.4257433,
+    "cached_at": 1774760437.1794395,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "5f74b081c9753b13b48c085df1624d184c9deb4bc34d11178f03bbc18aeae64e": {
     "data": [
       {
-        "title": "HONOR crea su primer Robot Humanoide | WIRED",
+        "title": "Pokémon GO podría lanzar una función que cambiaría tu forma de jugar, aunque no es bien recibida por todos",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/honor-crea-primer-robot-humanoide"
+        "url": "https://es.ign.com/pokemon-go/228094/news/pokemon-go-podria-lanzar-una-funcion-que-cambiaria-tu-forma-de-jugar-aunque-no-es-bien-recibida-por"
       },
       {
-        "title": "Tips para que le saques el máximo provecho a la IA a la hora de planear tus vacaciones | WIRED",
+        "title": "Los influencers que recomiendan medicamentos ya son un problema de salud pública | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/tips-para-que-le-saques-el-maximo-provecho-a-la-ia-a-la-hora-de-planear-tus-vacaciones"
+        "url": "https://es.wired.com/articulos/los-influencers-que-recomiendan-medicamentos-ya-son-un-problema-de-salud-publica"
       },
       {
-        "title": "Los médicos dan a la IA un nuevo rol: acompañante digital de pacientes dados de alta | WIRED",
+        "title": "Pokémon mira hacia un futuro con miles de criaturas",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/los-medicos-dan-a-la-ia-un-nuevo-rol-acompanante-digital-de-pacientes-dados-de-alta"
+        "url": "https://latam.ign.com/pokemon/112160/news/pokemon-mira-hacia-un-futuro-con-miles-de-criaturas"
       },
       {
-        "title": "Los agujeros negros supermasivos dejaron de crecer tan rápido como antes; por fin sabemos por qué | WIRED",
+        "title": "Los jugadores de Pokémon Pokopia están haciendo realidad un rumor de hace 30 años",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/los-agujeros-negros-supermasivos-dejaron-de-crecer-tan-rapido-como-antes-por-fin-sabemos-por-que"
+        "url": "https://es.ign.com/pokemon-pokopia/228063/news/los-jugadores-de-pokemon-pokopia-estan-haciendo-realidad-un-rumor-de-hace-30-anos"
       }
     ],
-    "cached_at": 1774673469.8608003,
+    "cached_at": 1774760437.7966619,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
