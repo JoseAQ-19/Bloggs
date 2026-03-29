@@ -216,42 +216,42 @@
   "cddff883eee8ba79205166d8431aed7738bd3bb0724b8d87f5f17a2a8cc26039": {
     "data": [
       {
-        "title": "La viral reacción de dos residentes en Ibiza en su primera 'mascletà' en Valencia",
+        "title": "El portero del Algeciras se hace viral tras un pique con aficionados del Europa",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Luciano Carvarotti: La historia del barítono en paro que se hizo viral cantando para vender coches",
+        "title": "La gorra viral de Pedro Sánchez que desafía a Donald Trump: \"Make Science Great Again\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Nueva religiosidad: La nueva fe viral, música, emoción y comunidad entre jóvenes",
+        "title": "La viral respuesta del portero del Algeciras a la afición del Europa: \"Sois españoles y os vais a morir siéndolo\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Aitana realiza un reto de TikTok y sitúa Orense en una zona junto al mar",
+        "title": "Dos jóvenes, ingresados en Menorca por intoxicación debido al reto viral del paracetamol",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Las reacciones en 'La Roca' al vídeo viral de Ortega Cano: \"Es hipnótico, pero da mucha vergüenza\"",
+        "title": "#Video I Un joven se volvió viral por hacer malabares con un invitado muy especial en su cabeza: ¡un gallo! El semáforo se convirtió en el escenario más impresionante. 😱 #AztecaDigital #AztecaYucatán",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774735779.815058,
+    "cached_at": 1774822243.5196655,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
@@ -265,28 +265,28 @@
         "url": "https://m.xataka.com/magnet/gran-engano-siete-perros-virales-como-economia-clic-ia-se-inventaron-escape-pelicula"
       },
       {
-        "title": "Mientras EEUU bombardea a Irán, ha ocurrido algo insólito: drones atacando las bases nucleares de Dakota del Norte",
+        "title": "Los expertos coinciden: \"Las redes sociales están diseñadas para hackear el cerebro\"",
         "source": "exa",
-        "lang": "en",
+        "lang": "es",
         "score": 0,
-        "url": "https://m.xataka.com/magnet/eeuu-esta-atacando-a-iran-ha-ocurrido-algo-insolito-hay-drones-atacando-bases-nucleares-eeuu"
+        "url": "https://www.businessinsider.es/big-tech/adolescentes-atrapados-pantalla-expertos-coinciden-redes-sociales-hackear-cerebro_6951442_0.html"
       },
       {
-        "title": "China acaba de enseñarle al mundo lo que viene después del dron de combate: 96 drones con un lanzamiento de ciencia ficción",
+        "title": "Austria se adelanta a la UE y planea prohibir las redes sociales a los niños",
         "source": "exa",
-        "lang": "en",
+        "lang": "es",
         "score": 0,
-        "url": "https://xataka.com/magnet/china-acaba-ensenarle-al-mundo-que-viene-despues-dron-combate-96-drones-lanzamiento-ciencia-ficcion"
+        "url": "https://www.businessinsider.es/big-tech/austria-se-adelanta-ue-planea-prohibir-las-redes-sociales-los-ninos_6951725_0.html"
       },
       {
-        "title": "La enésima subida de precio de Netflix ilustra una realidad: el streaming ya es tan caro como aquello que vino a mejorar",
+        "title": "China acaba de descubrir el mayor yacimiento de tierras raras del mundo. Y lo ha hecho justo cuando más las necesita",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/streaming/tactica-rana-olla-netflix-ha-subido-precios-lentamente-cuesta-que-mucha-television-pago"
+        "url": "https://www.xataka.com/materiales/china-acaba-descubrir-mayor-yacimiento-tierras-raras-mundo-ha-hecho-justo-cuando-necesita"
       }
     ],
-    "cached_at": 1774735780.3610482,
+    "cached_at": 1774822244.0685406,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
