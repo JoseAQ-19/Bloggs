@@ -552,42 +552,42 @@
   "fb4ad1bcef6d3043168469167a15cb1cb1ab0f544701e2b912c49d41dd73fb7a": {
     "data": [
       {
-        "title": "Cómo ver Netflix o YouTube en la pantalla del coche en Semana Santa",
+        "title": "YouTube ahora se puede usar en Android Auto... Pero no como imaginas",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Dominó YouTube durante una década, se fue y ahora regresa: la historia de Tom Scott",
+        "title": "Sony lanza versión de ‘Jeopardy!’ para YouTube",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Los hermanos 'Buyer' desvelan su mes en Youtube: \"Hemos generado 80.000 euros en un mes\"",
+        "title": "Si usas YouTube Music en Android Auto puede que te salte este fallo",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Redes inteligentes en vez de baterías frente al apagón eléctrico: \" Lo lógico es que en caso de apagón, no es",
+        "title": "Dancing Histor(y)ies: Heritage in Motion: The 2025 Co-creation Journey/Patrimonio en movimiento: El viaje de cocreación 2025",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Susan Sarandon protagoniza el documental 'American Mirror: Intimations of Immortality' de acceso gratuito en YouTube",
+        "title": "Medio millón de suscriptores en YouTube. Millones de gracias.",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774811652.346078,
+    "cached_at": 1774880526.1150444,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
@@ -608,21 +608,21 @@
         "url": "https://www.3djuegos.com/tecnologia/noticias/hace-2-meses-google-anuncio-ia-que-creaba-videojuegos-ahora-todos-siguen-sufriendo-terremoto"
       },
       {
-        "title": "Google pone fecha al \"Q-Day”, cuando la computación cuántica podrá romper la criptografía actual antes de lo previsto",
+        "title": "Apple no dará ni un paso atrás con Liquid Glass. El polémico diseño no admitirá \"medias tintas\" en el próximo iOS 27",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/ordenadores/google-pone-fecha-al-q-day-cuando-computacion-cuantica-podra-romper-criptografia-actual-antes-previsto"
+        "url": "https://www.applesfera.com/ios/apple-no-dara-paso-atras-liquid-glass-polemico-diseno-no-admitira-medias-tintas-proximo-ios-27"
       },
       {
-        "title": "Austria se adelanta a la UE y planea prohibir las redes sociales a los niños",
+        "title": "OpenAI tenía que elegir entre \"ser la empresa que tiene una IA erótica\" o competir con Anthropic. Y ha elegido lo obvio",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://www.businessinsider.es/big-tech/austria-se-adelanta-ue-planea-prohibir-las-redes-sociales-los-ninos_6951725_0.html"
+        "url": "https://www.xataka.com/robotica-e-ia/que-openai-abandone-su-chatbot-erotico-senal-definitiva-que-openai-ha-dejado-ser-openai-para-convertirse-anthropic"
       }
     ],
-    "cached_at": 1774811652.8548012,
+    "cached_at": 1774880526.8264523,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
