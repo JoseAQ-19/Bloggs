@@ -62,5 +62,10 @@
         "https://id.loc.gov/authorities/names/no2003098381.html",
         "https://clintonwhitehouse4.archives.gov/Initiatives/OneAmerica/Practices/pp_19980930.6001.html",
         "https://www.cdc.gov/growthcharts/data/spanishpdf95/co06l021.pdf"
+    ],
+    "deepseek-ai-outage-analysis-en": [
+        "https://www.nist.gov/document/caisi-evaluation-deepseek-ai-models-report",
+        "https://www.nist.gov/news-events/news/2025/09/caisi-evaluation-deepseek-ai-models-finds-shortcomings-and-risks",
+        "https://chinaselectcommittee.house.gov/sites/evo-subsites/selectcommitteeontheccp.house.gov/files/evo-media-document/DeepSeek%20Final.pdf"
     ]
 }
