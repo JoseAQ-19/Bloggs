@@ -1034,67 +1034,53 @@
   "88f30aaa7bab0042d69286b6e1ddf009c9ed8bd38dd824e484b197be702b0cbf": {
     "data": [
       {
-        "title": "AI (artificial intelligence)",
+        "title": "2026 IHSAA (IA) State Championship",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Multiple structures damaged, 1 major injury reported after fires broke out in Woodbury County",
+        "title": "RAW: IA: IOWAN CHURCHES, CHRISTIANS PROTEST",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "iA Financial CEO: Disciplined Capital Deployment After ROE Surge, Buybacks Continue, Deals Optional",
+        "title": "IA: TEAM PLAYS FIRST HOME GAME SINCE PLAYERS DEATH",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "523 S 11th St # 1, Adel, IA 50003",
+        "title": "Naig delivers keynote as SEW FFA celebrates its year",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Desactiva La IA De WhatsApp En Minutos [5dc1d6]",
+        "title": "Troy Leech Obituary (1972",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774784461.5419698,
+    "cached_at": 1774871305.8347728,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
   "5ed87e0a555e160d6f2e7a9ad4294ea2283b3cea14c5520f93b58951f9855102": {
     "data": [
       {
-        "title": "Los médicos dan a la IA un nuevo rol: acompañante digital de pacientes dados de alta | WIRED",
+        "title": "Qué esperar de ChatGPT cuando se llene de anuncios | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/los-medicos-dan-a-la-ia-un-nuevo-rol-acompanante-digital-de-pacientes-dados-de-alta"
-      },
-      {
-        "title": "Tips para que le saques el máximo provecho a la IA a la hora de planear tus vacaciones | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/tips-para-que-le-saques-el-maximo-provecho-a-la-ia-a-la-hora-de-planear-tus-vacaciones"
-      },
-      {
-        "title": "Tips para que le saques el máximo provecho a la IA a la hora de planear tus vacaciones | WIRED",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://stag.es.wired.com/articulos/tips-para-que-le-saques-el-maximo-provecho-a-la-ia-a-la-hora-de-planear-tus-vacaciones"
+        "url": "https://es.wired.com/articulos/que-esperar-de-chatgpt-cuando-se-llene-de-anuncios"
       },
       {
         "title": "Una jueza pone en pausa la ofensiva de Trump contra Anthropic | WIRED",
@@ -1102,9 +1088,23 @@
         "lang": "en",
         "score": 0,
         "url": "https://es.wired.com/articulos/un-juez-pone-en-pausa-la-ofensiva-de-trump-contra-anthropic"
+      },
+      {
+        "title": "Los escenarios de este juego parecen hechos con IA, pero no te preocupes, es aposta",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/videojuegos/228099/news/los-escenarios-de-este-juego-parecen-hechos-con-ia-pero-no-te-preocupes-es-aposta"
+      },
+      {
+        "title": "Pragmata incluye un escenario de “Nueva York falsa generada por IA”",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://latam.ign.com/pragmata/112174/news/pragmata-incluye-un-escenario-de-nueva-york-falsa-generada-por-ia"
       }
     ],
-    "cached_at": 1774784462.2064426,
+    "cached_at": 1774871306.4137971,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
