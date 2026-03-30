@@ -1,8 +1,8 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-30T07:41:09.506281+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-03-30T07:42:32.517063+00:00",
+  "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
@@ -129,6 +129,26 @@
       "title": "7 Best Money Market Funds to Buy for 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44VGpwSkl3S3ZqNC1MdGhiMlBPLTJDNVhoeTBDXzRVMGktU0VycVBQR2dOMkFYbUlEVmY1czEzeUdjWkVlTzdkRUxwVVdiekR3bjJhQmNKc0VJeS1lMTc3ZTB5WWloa0UwVjlNZ2RKRy1EaXZ2WEExRnppQzVXenM?oc=5"
+    },
+    {
+      "title": "Vanguard Target Maturity Corporate Bond ETFs (TMEs) launch with expense ratio of 0.08% to simplify fixed income portfolio construction.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Global X NYSE 100 Index ETF (NYSX.U) begins trading on the TSX, offering exposure to 100 leading tech and tech-enabled growth companies.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Direxion launches four 2X Bull ETFs (ADBU, PYPU, TXNU, UNHU) providing leveraged exposure to ADBE, PYPL, TXN, and UNH.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Vanguard expects to deliver nearly $250 million in savings to investors in 2026 through expense ratio reductions across 84 mutual fund and ETF share classes.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
