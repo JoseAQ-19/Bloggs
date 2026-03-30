@@ -1,5 +1,5 @@
 # PROGRESS — NovumWorld Autoblogger
-# Última actualización: 2026-03-27T16:45:00+01:00
+# Última actualización: 2026-03-30T10:15:00+02:00
 
 ## ✅ COMPLETADO
 - [x] Capa Cero GitHub Models implementada en llm_router.py (doble bucle tokens x modelos)
@@ -47,6 +47,13 @@
 - [x] API verificada: GitHub Models (gpt-4o/gpt-4o-mini/llama-3.1-70b) es fuente primaria, Gemini Flash es fallback
 - [x] CAUSA RAÍZ de truncamiento: max_tokens=4096 insuficiente → CORREGIDO a 8192 en llm_router.py
 - [x] Confirmado: NO hay scraping de YouTube → análisis periodístico a partir de Google News RSS + Exa API
+
+## ✅ COMPLETADO (RESEARCH CACHE + E-E-A-T VALIDATOR – F10)
+- [x] Caché de Investigación por Hash Anti-Rate-Limits: researcher.py guarda research en data/cache/ por 72h
+- [x] expert_validator.py: Módulo de puntuación de autoridad con AUTHORITY_SCORES por dominio
+- [x] _upgrade_low_authority_links() inyectado en qa_editor_es.py (PASO 1.5 E-E-A-T)
+- [x] _upgrade_low_authority_links() inyectado en qa_editor_en.py (STEP 1.5 E-E-A-T)
+- [x] data/cache/ añadido a .gitignore
 
 ## 🟡 PENDIENTE (DEUDA TÉCNICA)
 - [ ] Centralizar cascadas LLM duplicadas en llm_router.py

@@ -339,31 +339,57 @@ Return ONLY the final string. NO quotation marks. NO markdown. NO explanations. 
 
     def research(self, topic, category="general", search_context="", lang="es"):
         """
-        Pipeline de investigación con 3 capas de fallback.
-        Ahora recibe topic, category y search_context por separado, Y IDIOMA (Geo-Research).
+        Pipeline de investigación con 3 capas de fallback y CACHÉ DE HASH.
         """
         print(f"\n🔍 INICIANDO GEO-RESEARCH E-E-A-T PARA: '{topic}' [{lang.upper()}]")
         print(f"   Categoría: {category} | Contexto: {search_context[:60]}...")
         
+        # --- NUEVO: SISTEMA DE CACHÉ ANTI-RATE LIMITS ---
+        import hashlib
+        import json
+        import time
+        topic_hash = hashlib.md5(f"{topic}_{lang}_{category}".encode('utf-8')).hexdigest()
+        cache_file = os.path.join("data", "cache", f"research_{topic_hash}.json")
+        try:
+            if os.path.exists(cache_file):
+                age_hours = (time.time() - os.path.getmtime(cache_file)) / 3600
+                if age_hours < 72:
+                    print(f"   💾 [Caché Hit] Recuperando investigación de archivo local (antigüedad: {age_hours:.1f}h).")
+                    with open(cache_file, "r", encoding="utf-8") as f:
+                        return json.load(f)
+        except Exception as e:
+            print(f"   ⚠️ Error leyendo caché: {e}")
+
         # Reset state
         self._exa_urls = []
 
-        # --- NUEVO: DEEP-KEYWORD MINER & TRIFORCE ---
+        # --- DEEP-KEYWORD MINER & TRIFORCE ---
         super_topic = self._mine_deep_keywords(topic, lang, category)
         
         # Construir el Brief de investigación estructurado localizado
         research_brief = build_research_query(super_topic, category, search_context, lang=lang)
         
+        result = None
         # 🥇 CAPA 1: NOTEBOOKLM DEEP RESEARCH
         result = self._layer_1_notebooklm(super_topic, research_brief, lang, category=category)
-        if result: return result
-        
-        # 🥈 CAPA 2: GEMINI GROUNDING (con brief E-E-A-T)
-        result = self._layer_2_gemini_grounding(super_topic, research_brief, lang)
-        if result: return result
-        
-        # 🥉 CAPA 3: SCRAPING CLÁSICO (pasamos el topic simple original para evitar romper Google News RSS)
-        return self._layer_3_classic_scraping(topic, lang)
+        if not result:
+            # 🥈 CAPA 2: GEMINI GROUNDING (con brief E-E-A-T)
+            result = self._layer_2_gemini_grounding(super_topic, research_brief, lang)
+        if not result:
+            # 🥉 CAPA 3: SCRAPING CLÁSICO 
+            result = self._layer_3_classic_scraping(topic, lang)
+
+        # GUARDAR EN CACHÉ
+        if result and result.get("layer") != "Fallback (no data)":
+            try:
+                os.makedirs(os.path.dirname(cache_file), exist_ok=True)
+                with open(cache_file, "w", encoding="utf-8") as f:
+                    json.dump(result, f, ensure_ascii=False, indent=2)
+                print(f"   💾 [Caché] Investigación guardada exitosamente en local.")
+            except Exception as e:
+                print(f"   ⚠️ Error guardando caché: {e}")
+
+        return result
 
     # =============================================
     # SUBQUERIES ESPECIALIZADAS POR NICHO

@@ -345,6 +345,79 @@ def _validate_output(edited_text, original_text):
     is_valid = len(issues) == 0
     return is_valid, issues
 
+def _upgrade_low_authority_links(body_text, lang="es"):
+    """
+    Escanea los enlaces del borrador, evalúa su autoridad E-E-A-T, y si son bajos (<70),
+    usa Gemini (Capa 2) con Google Search para reemplazarlos por uno de alta autoridad en contexto.
+    """
+    try:
+        from expert_validator import extract_all_markdown_links, validate_citation_authority
+    except ImportError:
+        return body_text, []
+
+    GEMINI_KEY = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
+    if not GEMINI_KEY: return body_text, []
+    
+    try:
+        from google import genai
+        from google.genai import types
+        gemini_client = genai.Client(api_key=GEMINI_KEY)
+    except Exception:
+        return body_text, []
+
+    links = extract_all_markdown_links(body_text)
+    upgraded_count = 0
+    replacement_log = []
+    replaced_urls = set()
+
+    for l in links:
+        url = l['url']
+        if url in replaced_urls: continue
+        if any(x in url for x in ['localhost', 'novum', 'example.com', '.local']): continue
+            
+        val = validate_citation_authority(url)
+        if val["authority_score"] < 70:
+            print(f"      📉 [E-E-A-T] Baja autoridad detectada: {url} (Score: {val['authority_score']})")
+            
+            start_idx = max(0, l['start'] - 250)
+            end_idx = min(len(body_text), l['end'] + 250)
+            context = body_text[start_idx:end_idx]
+            
+            prompt = f"""You are a fact-checker enforcing Google's E-E-A-T guidelines. 
+A writer used a low-authority source ({url}) for the following markdown claim context:
+CONTEXT: "{context}"
+
+Use Google Search to find a HIGH-AUTHORITY alternative public source (.gov, .edu, Reuters, Bloomberg, Official blogs, etc.) that validates the exact same claim or data point.
+Return ONLY a valid JSON object:
+{{"found": true, "better_url": "https://...", "reason": "Why it's better"}}
+If you cannot find a better high-authority source, return {{"found": false}}. Do not hallucinate URLs!
+"""
+            try:
+                google_search_tool = types.Tool(google_search=types.GoogleSearch())
+                resp = gemini_client.models.generate_content(
+                    model='gemini-2.0-flash',
+                    contents=prompt,
+                    config=types.GenerateContentConfig(
+                        tools=[google_search_tool],
+                        response_mime_type="application/json",
+                        temperature=0.1
+                    )
+                )
+                if resp.text:
+                    data = json.loads(resp.text)
+                    if data.get("found") and data.get("better_url") and data.get("better_url").startswith("http"):
+                        from urllib.parse import urlparse
+                        new_url = data["better_url"]
+                        print(f"         🔄 Upgraded {val['domain']} -> {urlparse(new_url).netloc.replace('www.','')}")
+                        body_text = body_text.replace(url, new_url)
+                        replaced_urls.add(url)
+                        upgraded_count += 1
+                        replacement_log.append(f"Reemplazado {url} -> {new_url}")
+            except Exception as e:
+                pass
+                
+    return body_text, replacement_log
+
 
 def run(category, content_dir="content/es"):
     """
@@ -398,7 +471,7 @@ def run(category, content_dir="content/es"):
     article_title = title_match.group(1) if title_match else "Sin título"
 
     # PASO 1: Link Validation
-    print(f"\n   🔗 [Editor ES] PASO 1: Verificación de enlaces...")
+    print(f"\n   🔗 [Editor ES] PASO 1: Verificación de enlaces muertos...")
     link_result = validate_links(body)
     dead_links_block = ""
     if link_result["dead"] or link_result["timeout"]:
@@ -411,6 +484,13 @@ def run(category, content_dir="content/es"):
         print(f"   ⚠️ {len(dead_urls)} enlaces muertos/timeout detectados")
     else:
         print(f"   ✅ Todos los enlaces vivos")
+
+    # PASO 1.5: E-E-A-T Cite Replacement
+    print(f"\n   🏛️ [Editor ES] PASO 1.5: Auditoría de E-E-A-T (Authority Score)...")
+    body, upgrade_log = _upgrade_low_authority_links(body, lang="es")
+    eeat_upgrade_block = ""
+    if upgrade_log:
+        eeat_upgrade_block = "\n\nACTUALIZACIONES DE AUTORIDAD E-E-A-T:\n" + "\n".join([f"  - {u}" for u in upgrade_log])
 
     # PASO 2: NotebookLM Fact-Check
     print(f"\n   🔍 [Editor ES] PASO 2: Fact-check con NotebookLM...")
@@ -485,6 +565,7 @@ Devuelve ÚNICAMENTE un objeto JSON válido con este formato exacto (sin bloques
         f"BORRADOR A EDITAR:\n\n{body}"
         f"{dead_links_block}"
         f"{factcheck_block}"
+        f"{eeat_upgrade_block}"
         f"\n\nDevuelve ÚNICAMENTE el artículo editado en Markdown puro. "
         f"Sin bloques de código, sin comentarios meta."
     )

@@ -18,6 +18,9 @@ tmp_*.txt
 *.log
 *.pid
 
+# Research cache (anti-rate-limit)
+data/cache/
+
 # IDE
 .vscode/
 .idea/
