@@ -370,42 +370,42 @@
   "1aa06cf232e59b4099181fc77bc2032cca3f1701bcd8a89857881f3d3a40d006": {
     "data": [
       {
-        "title": "Predicción del precio de Litecoin (LTC) para 2023 2024 2025 2026",
+        "title": "BTCUSD",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Precio, gráficos, capitalización de mercado de Katana (KAT)",
+        "title": "Ripple CEO Warns Against Crypto Policy Weaponization, Maintains Bullish Market Outlook",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La amenaza de los hutíes en el estrecho de Bab el-Mandeb corre el riesgo de interrumpir el 12% del comercio mundial, afectando el sentimiento del mercado petrolero.",
+        "title": "Manresa renunciará a reformar el Nou Congost y apostará por otro pabellón",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "El \"costo eléctrico\" de $BTC cae por debajo de los $50,00",
+        "title": "Predicción del precio de Neo (NEO) para 2023 2024 2025 2026",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Trading de criptomonedas en fin de semana y volatilidad de BTC: explicación 2026",
+        "title": "Criptomonedas como COIN y HOOD han tocado fondo de cara a los resultados y se negocian con un descuento 'importante', según Bernstein",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774800919.225222,
+    "cached_at": 1774888206.2319002,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
@@ -419,21 +419,21 @@
         "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar"
       },
       {
-        "title": "California Judge Certifies Investor Class in Nvidia Crypto-Mining Lawsuit",
+        "title": "GitHub phishers use fake OpenClaw tokens to drain crypto wallets",
         "source": "hackernews",
         "lang": "en",
-        "score": 2,
-        "url": "https://www.law.com/therecorder/2026/03/26/california-judge-certifies-investor-class-in-nvidia-crypto-mining-lawsuit/"
+        "score": 4,
+        "url": "https://www.csoonline.com/article/4150456/github-phishers-use-fake-openclaw-tokens-to-drain-crypto-wallets.html"
       },
       {
-        "title": "Cryptography Migration Timeline",
+        "title": "Cryptographic Implementation of Exclusivity Agreements",
         "source": "hackernews",
         "lang": "en",
         "score": 2,
-        "url": "https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/"
+        "url": "https://github.com/CipherTrustee/certisfy-claim-recipes/tree/master/ppbv"
       }
     ],
-    "cached_at": 1774800919.4895267,
+    "cached_at": 1774888206.4656558,
     "func": "fetch_hackernews",
     "args_summary": "(['crypto'],)"
   },
@@ -447,28 +447,28 @@
         "url": "https://as.com/actualidad/economia/hay-que-declarar-las-operaciones-con-criptomonedas-en-la-renta-y-en-que-casilla-se-tributan-a-hacienda-f202603-n/"
       },
       {
-        "title": "Google pone fecha al \"Q-Day”, cuando la computación cuántica podrá romper la criptografía actual antes de lo previsto",
+        "title": "Las Big Tech han confiado las llaves de su reino a NVIDIA. Ahora quieren las llaves de vuelta",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/ordenadores/google-pone-fecha-al-q-day-cuando-computacion-cuantica-podra-romper-criptografia-actual-antes-previsto"
+        "url": "https://m.xataka.com/empresas-y-economia/big-tech-han-confiado-llaves-su-reino-a-nvidia-ahora-quieren-llaves-vuelta"
       },
       {
-        "title": "La caída de las bolsas se modera con la nueva prórroga de Trump a los ataques energéticos a Irán",
+        "title": "Ya sabemos lo que la IA aportó a la economía de EEUU en 2025: \"básicamente cero\"",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://www.businessinsider.es/mercados/caida-bolsas-modera-nueva-prorroga-trump-ataques-energeticos-iran_6951473_0.html"
+        "url": "https://www.xataka.com/empresas-y-economia/sabemos-que-ia-aporto-a-economia-eeuu-2025-basicamente-cero"
       },
       {
-        "title": "Trump estampará su firma en los dólares, algo inédito para un presidente en activo",
+        "title": "OpenAI tenía que elegir entre \"ser la empresa que tiene una IA erótica\" o competir con Anthropic. Y ha elegido lo obvio",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://www.businessinsider.es/economia/trump-estampara-su-firma-los-dolares-algo-inedito-para-un-presidente-activo_6951486_0.html"
+        "url": "https://www.xataka.com/robotica-e-ia/que-openai-abandone-su-chatbot-erotico-senal-definitiva-que-openai-ha-dejado-ser-openai-para-convertirse-anthropic"
       }
     ],
-    "cached_at": 1774800920.1091506,
+    "cached_at": 1774888207.114327,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
