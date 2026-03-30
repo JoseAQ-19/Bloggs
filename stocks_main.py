@@ -110,11 +110,11 @@ def _generate_translation_key(title):
     return f"{t_hash[:8]}-{t_hash[8:12]}-{t_hash[12:16]}-{t_hash[16:20]}-{t_hash[20:]}"
 
 
-def _get_image(title, slug, category="funds"):
+def _get_image(title, content, slug, category="funds"):
     """Intenta generar imagen con novum_visual, fallback a default."""
     if HAS_VISUAL:
         try:
-            img = get_image(title, slug, category)
+            img = get_image(title, content, slug, category)
             if img and not img.startswith("http"):
                 return img
         except Exception as e:
@@ -143,7 +143,7 @@ def _save_article(writer_output, lang):
     filepath = os.path.join(output_dir, filename)
     
     # Imagen
-    imagen = _get_image(meta["titulo"], meta["slug"])
+    imagen = _get_image(meta["titulo"], content, meta["slug"])
     
     # Fecha con backdating ligero (como hace main.py)
     now = datetime.now()

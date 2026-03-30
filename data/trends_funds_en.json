@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-30T08:59:20.275966+00:00",
-  "total_candidates": 22,
+  "scouted_at": "2026-03-30T09:30:22.032986+00:00",
+  "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar handpicks 5 Asia funds for 2026",
+      "title": "\"This 5-Star Fund Balances Income and Volatility: A Must-See Morningstar Pick for 2026\"",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Fluent Financial LLC Makes New Investment in Morningstar, Inc. $MORN",
+      "title": "\"ETF Fee Wars Hit New Lows: How Smaller Issuers Are Driving Record-Breaking Compression\"",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Why MinistryWatch Rates Ministries",
+      "title": "\"S&P 500 Growth Index vs. S&P 500: Which Outperformed in 2025 and the ETF You Should Watch\"",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -129,26 +129,6 @@
       "title": "7 Best Money Market Funds to Buy for 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44VGpwSkl3S3ZqNC1MdGhiMlBPLTJDNVhoeTBDXzRVMGktU0VycVBQR2dOMkFYbUlEVmY1czEzeUdjWkVlTzdkRUxwVVdiekR3bjJhQmNKc0VJeS1lMTc3ZTB5WWloa0UwVjlNZ2RKRy1EaXZ2WEExRnppQzVXenM?oc=5"
-    },
-    {
-      "title": "Vanguard Slashes Fees Across 53 Funds, Saving Investors Nearly $250 Million in 2026; average fee cut of 27%.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "BlackRock's iShares Premium Money Market ETF (CAD) Announces Cash Distribution of $0.094 Per Unit on March 31, 2026.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Total Estimated Inflows to Long-Term Mutual Funds and ETFs Reach $14.30 Billion for the Week Ended March 18, 2026, with ETF Net Issuance at $25.06 Billion.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Global X Launches NYSE® 100 ETF (NYSX) Tracking Top 100 Technology and Tech-Enabled Growth Companies.",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }

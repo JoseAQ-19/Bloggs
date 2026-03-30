@@ -90,6 +90,14 @@
 - [x] test_data_finance.py: ✅ ALL TESTS PASSED (yfinance tickers + DefiLlama TVL + USD formatting)
 - [x] qa_editor_en.py: Validaciones replicadas desde ES (FAQ, deep links, completitud, audit logging)
 
+## ✅ COMPLETADO (DYNAMIC VISUAL CONTEXT ENGINE)
+- [x] visual_context_extractor.py: Regex engine + nicho-specific templates for precise prompt generation.
+- [x] visual_logger.py: Full traceability in logs/visual/image_prompts.jsonl.
+- [x] novum_visual.py: Integrated extractor instead of hardcoded AESTHETICS. Call `get_image` with content.
+- [x] orchestrator.py: Pass full article content to image generation engine.
+- [x] stocks_main.py: Pass content down to `_get_image()`.
+- [x] test_visual.py: Added unit tests and verified working logic.
+
 ## 🟡 PENDIENTE (DEUDA TÉCNICA)
 - [ ] Centralizar cascadas LLM duplicadas en llm_router.py
 - [ ] Arreglar or_client/groq_client sin inicializar en stocks_writer.py

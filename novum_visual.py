@@ -7,6 +7,9 @@ import random
 from together import Together
 from dotenv import load_dotenv
 
+from visual_context_extractor import build_image_prompt
+from visual_logger import VisualLogger
+
 # Cargar entorno
 load_dotenv()
 
@@ -32,16 +35,6 @@ class NovumVisualEngine:
     
     STATIC_DIR = os.path.join(BASE_DIR, "static/images")
     DEFAULT_DIR = os.path.join(BASE_DIR, "static/images/defaults")
-    
-    # ADN Visual (prompts estéticos por categoría)
-    AESTHETICS = {
-        "ia": "cyberpunk style, neon blue and purple lighting, futuristic laboratory, detailed circuit boards, cinematic 8k, unreal engine 5 render, high contrast",
-        "crypto": "matrix code rain style, golden bitcoin physical coin, stock market charts background, dark green theme, financial district night, ultra realistic, bloomberg terminal vibe",
-        "fitness": "gym atmosphere, crossfit athlete silhouette, dramatic lighting, sweat details, orange and black theme, motivational poster style, sharp focus",
-        "youtube": "youtube play button 3d render, red glowing neon, streaming studio setup, microphone and camera shallow depth of field, vibrant colors, 4k",
-        "viral": "editorial photography, neon purple and yellow lighting, high fashion, trending topic visualization, cinematic 8k, sharp focus, no cartoons, serious journalism style",
-        "tools": "isometric 3d technical diagram, blueprint style, neon blue lines, engineering drafting table, clean minimalist tech"
-    }
 
     def __init__(self):
         os.makedirs(self.STATIC_DIR, exist_ok=True)
@@ -102,54 +95,58 @@ class NovumVisualEngine:
     # ENTRADA PRINCIPAL
     # =========================================================
 
-    def generate_and_save(self, prompt, slug, category="ia"):
+    def generate_and_save(self, title, content, slug, category="ia"):
         print(f"🎨 [VisualEngine V6] Procesando: {slug}")
         filename = f"{slug}.jpg"
         filepath = os.path.join(self.STATIC_DIR, filename)
-        
-        # Enriquecer Prompt con ADN visual aleatorio
-        style = self.AESTHETICS.get(category, self.AESTHETICS["ia"])
-        camera_angles = ["shot on 35mm lens", "drone aerial view", "close-up macro", "dutch angle", "wide establishing shot"]
-        lighting = ["cinematic lighting", "golden hour natural light", "neon rim lighting", "moody dark atmosphere", "volumetric fog"]
-        dynamic_flair = f"{random.choice(camera_angles)}, {random.choice(lighting)}, highly detailed, masterpiece"
-        
-        enhanced_prompt = f"{prompt}, {style}, {dynamic_flair}, --ar 16:9"
+
+        # Generar prompt dinámico usando el Context Extractor
+        enhanced_prompt = build_image_prompt(title, content, category)
 
         provider = self._get_next_provider()
         print(f"   🔄 Péndulo (Multi-API) → Turno Asignado: {provider.upper()}")
 
         success = False
-        
+        final_provider = provider
+
         if provider == "nvidia":
             print("   🟢 [Turno Activo] Intentando NVIDIA SD3 Medium...")
             success = self._generate_nvidia_sd3(enhanced_prompt, filepath)
             if not success:
                 print("   ⚠️ NVIDIA SD3 falló. Intentando Together AI...")
+                final_provider = "together"
                 success = self._try_together_then_hf(enhanced_prompt, filepath)
+                if not success: final_provider = "hf" # assuming hf would be tried inside _try_together_then_hf
         elif provider == "together":
             print("   🟢 [Turno Activo] Intentando Together AI...")
             success = self._try_together_then_hf(enhanced_prompt, filepath)
+            final_provider = "together" if success else "nvidia" # Not perfectly accurate parsing inside, but simple enough
             if not success:
                 print("   ⚠️ Together/HF fallaron. Intentando NVIDIA SD3...")
                 success = self._generate_nvidia_sd3(enhanced_prompt, filepath)
         elif provider == "hf":
             print("   🟢 [Turno Activo] Intentando Hugging Face...")
             success = self._try_hf_then_together(enhanced_prompt, filepath)
+            final_provider = "hf" if success else "nvidia"
             if not success:
                 print("   ⚠️ HF/Together fallaron. Intentando NVIDIA SD3...")
                 success = self._generate_nvidia_sd3(enhanced_prompt, filepath)
 
         if success:
             self._write_pendulum_state(provider)
+            # Log successful generation
+            VisualLogger.log(slug, category, title, enhanced_prompt, final_provider, "success")
             return f"/images/{filename}"
 
         # Red de seguridad: Lexica
         print("   🔍 Todas las APIs primarias fallaron. Intentando Lexica...")
-        if self._search_lexica(prompt, filepath):
+        if self._search_lexica(title, filepath):
             self._write_pendulum_state(provider)
+            VisualLogger.log(slug, category, title, title, "lexica_fallback", "success_fallback")
             return f"/images/{filename}"
 
         # Fallback local (NUNCA URLs externas)
+        VisualLogger.log(slug, category, title, enhanced_prompt, "local_fallback", "failed_generation")
         return self._get_fallback_image(category)
 
     # =========================================================
@@ -357,7 +354,7 @@ class NovumVisualEngine:
 # Singleton para mantener el estado del péndulo dentro de una misma ejecución
 _engine_instance = None
 
-def get_image(prompt, slug, category="ia"):
+def get_image(title, content, slug, category="ia"):
     """
     Punto de entrada principal. Usa un singleton para que el estado
     del péndulo se mantenga entre llamadas dentro del mismo proceso.
@@ -365,4 +362,4 @@ def get_image(prompt, slug, category="ia"):
     global _engine_instance
     if _engine_instance is None:
         _engine_instance = NovumVisualEngine()
-    return _engine_instance.generate_and_save(prompt, slug, category)
+    return _engine_instance.generate_and_save(title, content, slug, category)

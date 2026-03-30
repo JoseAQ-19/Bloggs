@@ -878,7 +878,7 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
     filepath = f"{output_dir}/{meta['slug']}.md"
     
     # Lógica de Imagen: Si viene forzada, se usa. Si no, se genera.
-    imagen = forced_image if forced_image else get_image(meta['titulo'], meta['slug'], category)
+    imagen = forced_image if forced_image else get_image(meta['titulo'], contenido, meta['slug'], category)
     
     # VALIDACIÓN BLINDADA: Si la imagen es una URL externa o vacía, usar fallback local
     if not imagen or imagen.startswith("http"):
