@@ -475,42 +475,42 @@
   "c7dcb72dc33baaa2e522c198717b4b418fcd1e9a91af28dfbac294c4b153973d": {
     "data": [
       {
-        "title": "Jamie Dimon calls Crypto Tokens \"decentralized Ponzi schemes.\"",
+        "title": "From Foe to Ally: The S.E.C. Is Now Writing Crypto-Friendly Policies",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Is Crypto Legal in Romania? Laws, Regulations, and Taxes (2026)",
+        "title": "Ex-Blackstone staffers raise $25 million for startup Valinor, which aims to put private credit on the blockchain",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Crypto Technical Analysis: Weakness returns to the market, led by Bitcoin",
+        "title": "The 'Crypto-Curious' Guide to Buying Bitcoin for the First Time",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "SEC Will Come After Crypto If Clarity Bill Dies, Warns Expert as Divisions Remain",
+        "title": "Digital asset exchange announces crypto-backed mortgage product saleable to Fannie Mae",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Crypto wealth management moves upmarket as institutional money deepens; Nexo says private unit grew 136%",
+        "title": "Should Retirees Invest in Crypto? The Answer May Surprise You.",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774801355.9971778,
+    "cached_at": 1774888783.652289,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
@@ -524,11 +524,11 @@
         "url": "https://es.wired.com/articulos/un-juez-pone-en-pausa-la-ofensiva-de-trump-contra-anthropic"
       },
       {
-        "title": "Pokémon mira hacia un futuro con miles de criaturas",
+        "title": "Qué esperar de ChatGPT cuando se llene de anuncios | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://latam.ign.com/pokemon/112160/news/pokemon-mira-hacia-un-futuro-con-miles-de-criaturas"
+        "url": "https://es.wired.com/articulos/que-esperar-de-chatgpt-cuando-se-llene-de-anuncios"
       },
       {
         "title": "Sony sacude el mercado: suben los precios de PS5, PS5 Pro y PlayStation Portal",
@@ -545,7 +545,7 @@
         "url": "https://es.ign.com/pokemon-go/228094/news/pokemon-go-podria-lanzar-una-funcion-que-cambiaria-tu-forma-de-jugar-aunque-no-es-bien-recibida-por"
       }
     ],
-    "cached_at": 1774801356.4584239,
+    "cached_at": 1774888784.1724668,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
