@@ -629,60 +629,60 @@
   "9ee96a29d2849810b096fb4ad7845a44fb015972f3144c10f16e0a281e09fb7c": {
     "data": [
       {
-        "title": "I tried YouTube's latest feature, and it was so surreal I thought I imagined it",
+        "title": "Who says no one cares about ballet? These Gen Z YouTubers are making it cool",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Jury finds Meta and YouTube liable in landmark social media addiction trial",
+        "title": "YouTube adds Android Auto support for background play controls",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Verdicts against Meta, YouTube spur new momentum for kids online safety push",
+        "title": "YouTube now works with Android Auto, but not in the way you'd expect",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "How YouTube creator marketing drives growth",
+        "title": "Meta, YouTube verdict could trigger cascade of social media lawsuits: expert",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "YouTube’s Original Slogan Was ‘Broadcast Yourself’ — Here’s What the Site Actually Looked Like 20 Years Ago",
+        "title": "Exclusive | YouTube staffers deliberately aimed for 'viewer addiction,' killed safety tools for kids: court docs",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774812210.4623358,
+    "cached_at": 1774881033.7853868,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "f990e7eff0f3103ac01b2830c939d7dce846fb1e852800a979f12b26b78a0e42": {
     "data": [
       {
-        "title": "Las redes sociales están descubriendo que no son intocables por los daños que han causado a niños y jóvenes | WIRED",
+        "title": "YouTube CEO says the best YouTubers will ‘never leave their home’ | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/los-juicios-que-demuestran-que-las-redes-sociales-no-son-intocables-por-los-danos-que-han-causado-a-ninos-y-jovenes"
+        "url": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/"
       },
       {
-        "title": "What it means that Meta and YouTube lost in court | The Verge",
+        "title": "YouTube CEO refuses to talk about content moderation. | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://theverge.com/podcast/902162/meta-youtube-kgm-court-ruling-vergecast"
+        "url": "https://www.theverge.com/streaming/903032/youtube-ceo-refuses-to-talk-about-content-moderation"
       },
       {
         "title": "A jury said Instagram and YouTube are defective — now what? | The Verge",
@@ -690,9 +690,16 @@
         "lang": "en",
         "score": 0,
         "url": "https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact"
+      },
+      {
+        "title": "Qué esperar de ChatGPT cuando se llene de anuncios | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/que-esperar-de-chatgpt-cuando-se-llene-de-anuncios"
       }
     ],
-    "cached_at": 1774812210.9356241,
+    "cached_at": 1774881034.3102314,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
