@@ -39,10 +39,11 @@ class LLMRouter:
             print("   [Debug] No se encontraron tokens de GitHub Models configurados.")
             return None
             
-        # Top Modelos de GitHub Models a iterar
+        # Top Modelos de GitHub Models a iterar (Prioridad: Mini para maximizar cuota y ahorrar 429s)
         github_models = [
-            "gpt-4o",
-            "gpt-4o-mini"
+            "gpt-4o-mini",
+            "gpt-4.1-mini",
+            "gpt-4o"
         ]
         
         # Bucle 1: Iterar sobre las Cuentas (Tokens)
@@ -51,7 +52,7 @@ class LLMRouter:
             
             client = OpenAI(api_key=token_value, base_url=base_url)
             
-            # Bucle 2: Iterar sobre los Top 3 Modelos
+            # Bucle 2: Iterar sobre los Top Modelos
             for current_model in github_models:
                 print(f"      [GITHUB] [{token_name}] Intentando con modelo: {current_model}...")
                 
@@ -108,16 +109,17 @@ class LLMRouter:
                     error_msg = str(e)[:200]
                     
                     if status_code == 429:
-                        logger.warning(f"[CAPA-CERO] {token_name} / {current_model} → 429 RATE LIMITED.")
-                        backoff = 15
+                        logger.warning(f"[CAPA-CERO] {token_name} / {current_model} → 429 RATE LIMITED. Saltando al siguiente token...")
+                        time.sleep(2)
+                        break # Si un modelo da 429, el token entero suele estar limitado. Saltamos al siguiente token.
+                    
                     elif status_code and status_code >= 500:
                         logger.error(f"[CAPA-CERO] {token_name} / {current_model} → {status_code} SERVER ERROR.")
-                        backoff = 5
+                        time.sleep(5)
                     else:
                         logger.warning(f"[CAPA-CERO] {token_name} / {current_model} → {error_type}: {error_msg}")
-                        backoff = 5
+                        time.sleep(5)
                     
-                    time.sleep(backoff)
                     continue
         
         return None
@@ -132,18 +134,15 @@ class LLMRouter:
         if res:
             return res
         
-        # --- CAPA 1 (API Original — Waterfall o Directo) ---
-        return fallback_func(prompt, system_prompt)
-            
-        # Fallback de Seguridad
-        logger.warning(f"[ROUTE] Capa Cero agotada. Escalando a CASCADA ORIGINAL ({model_type})...")
+        # --- CAPA 1 (Fallback — API Original o Cascada) ---
+        logger.warning(f"[ROUTE] Capa Cero AGOTADA (429 o fallos). Escalando a FALLBACK ({model_type})...")
         try:
-            cascade_result = original_cascada_func(prompt, system_prompt)
-            if cascade_result:
-                logger.info(f"[ROUTE] Cascada Original respondió con éxito ({len(cascade_result)} chars).")
+            fallback_res = fallback_func(prompt, system_prompt)
+            if fallback_res:
+                logger.info(f"[ROUTE] Fallback respondió con éxito ({len(fallback_res)} chars).")
             else:
-                logger.error(f"[ROUTE] Cascada Original devolvió None. Sin respuesta disponible.")
-            return cascade_result
+                logger.error(f"[ROUTE] Fallback devolvió None.")
+            return fallback_res
         except Exception as e:
-            logger.critical(f"[ROUTE] Fallo TOTAL en Cascada Original: {type(e).__name__}: {e}")
+            logger.critical(f"[ROUTE] Fallo CRÍTICO en Fallback: {type(e).__name__}: {e}")
             return None

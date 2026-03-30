@@ -1,8 +1,8 @@
 ---
-title: "La Verdad Oculta: 7 Trucos para Usar YouTube en Android Auto Sin Problemas"
+title: "YouTube en Android Auto: 7 Métodos Reales, Sus Riesgos y Lo Que Google No Te Dice"
 date: 2026-03-30T13:59:25
 draft: false
-description: "Descubre 7 trucos esenciales para disfrutar de YouTube en Android Auto sin complicaciones. Mejora tu experiencia de entretenimiento mientras conduces."
+description: "Análisis técnico de los 7 métodos existentes para ver YouTube en Android Auto: AAAD, CarStream, Fermata Auto, NewPipe y más. Riesgos legales, de seguridad vial y de privacidad incluidos."
 featured_image: "/images/youtube-android-auto-trucos-riesgos-alternativas.jpg"
 slug: "youtube-android-auto-trucos-riesgos-alternativas"
 canonical: "https://novumworld.com/es/youtube/youtube-android-auto-trucos-riesgos-alternativas/"
@@ -13,101 +13,121 @@ language: "es"
 translationKey: "4350e38b-5146-3746-9056-ff4bbf30ebe1"
 ---
 
-![La Verdad Oculta: 7 Trucos para Usar YouTube en Android Auto Sin Problemas](/images/youtube-android-auto-trucos-riesgos-alternativas.jpg)
+![YouTube en Android Auto: 7 Métodos Reales, Sus Riesgos y Lo Que Google No Te Dice](/images/youtube-android-auto-trucos-riesgos-alternativas.jpg)
 
-Google impone un bloqueo de hierro en Android Auto para evitar que veas YouTube, pero la comunidad de desarrolladores ha encontrado una brecha peligrosa que vale la pena analizar.
+Google bloquea YouTube en Android Auto por una razón que pocos cuestionan: la [NHTSA estima que 3.522 personas murieron en 2021 por distracciones al volante](https://www.nhtsa.gov/risky-driving/distracted-driving) solo en Estados Unidos. Pero eso no ha frenado a millones de usuarios que buscan maneras de saltarse la restricción.
 
-* Android Auto prohíbe el video en movimiento por seguridad, limitando YouTube a momentos estacionados.
-* La aplicación AAAD permite instalar apps no oficiales como CarStream por 3,99 euros, eludiendo las restricciones de Google.
-* Expertos como Iván Linares advierten que el uso de estas herramientas es una temeridad legal y un riesgo de distracción mortal.
+Existen exactamente **7 métodos documentados** para reproducir YouTube en la pantalla del coche. Algunos cuestan 3,99 euros, otros requieren root, y todos comparten un denominador común: **Google los persigue activamente** y la ley no está de tu lado si los usas en movimiento.
 
-## La Seguridad en el Volante: El Conflicto entre Innovación y Distracción
+* **Android Auto prohíbe el vídeo en movimiento** por normativa de seguridad vial. La restricción es técnica, no una sugerencia.
 
-La tecnología de Android Auto busca minimizar las distracciones al volante, pero el uso de YouTube plantea serios dilemas éticos y legales. Google, la empresa detrás de Android Auto, bloquea la reproducción de video en Android Auto cuando el vehículo está en movimiento para evitar distracciones. Esta medida no es una sugerencia, es una barrera técnica diseñada para salvar vidas.
+* **AAAD permite instalar CarStream y otras apps** por un pago único de 3,99 €, eludiendo Google Play Protect.
 
-La distracción al volante es una epidemia que las autoridades intentan combatir con regulaciones estrictas. Ver una pantalla mientras se conduce reduce drásticamente el tiempo de reacción ante cualquier imprevisto en la carretera. Google ha decidido tomar el lado de la seguridad en lugar de complacer la demanda de entretenimiento constante de los usuarios.
+* **Iván Linares, editor de [Xataka Móvil](https://www.xataka.com/autor/ivan-linares)**, advierte que usar estas herramientas con el coche en marcha es una temeridad legal y un riesgo de accidente mortal.
 
-La [Comisión Federal de Comercio](http://ftc.gov/es/noticias/google-y-youtube-pagaran-una-suma-record-de-170-millones-de-dolares-por-presuntas-infracciones-la) ha multado a Google en el pasado por prácticas relacionadas con la privacidad, lo que demuestra que la gigante tecnológica no es inmune al escrutinio regulatorio. Sin embargo, en este caso, su postura es defensiva: proteger al conductor de sí mismo. La inclusión de video en movimiento sería una invitación al desastre, y Google lo sabe.
+## Por Qué Google Bloquea YouTube en Android Auto
 
-El mercado de la automoción se ha transformado en una extensión de la sala de estar, pero las reglas de seguridad no pueden ignorarse. Los fabricantes de coches integran pantallas cada vez más grandes, alimentando la "burbuja" de la conectividad total. Pero la línea entre la comodidad y la negligencia es fina, y cruzarla puede tener consecuencias irreversibles.
+La razón no es capricho corporativo. La [documentación técnica de la NHTSA](https://www.nhtsa.gov/technology-innovation/driver-distraction) establece que cualquier tarea visual que desvíe la mirada de la carretera más de 2 segundos duplica el riesgo de colisión.
 
-## Riesgos Ocultos: Las Alternativas No Oficiales y sus Consecuencias
+Google diseñó Android Auto bajo las directrices [Driver Distraction Guidelines](https://developer.android.com/cars) de su propia plataforma. El sistema detecta si el vehículo está en movimiento y bloquea cualquier app que emita vídeo en pantalla. No es un bug. Es una función de seguridad certificada.
 
-Aunque existen aplicaciones como CarStream y AAAD que permiten ver YouTube, su uso no está exento de riesgos técnicos y de privacidad. Mauro Minichiello, experto en tecnología de La Razón, explica las opciones y peligros de estos métodos. Usar aplicaciones no autorizadas puede resultar en bloqueos por parte de Google Play Protect y requerir permisos avanzados.
+La [Comisión Federal de Comercio multó a Google y YouTube con 170 millones de dólares](https://www.ftc.gov/news-events/news/press-releases/2019/09/google-youtube-will-pay-record-170-million-settlement-ftc-complaint) en 2019 por violaciones de privacidad infantil. La empresa sabe que la responsabilidad legal de permitir vídeo al volante sería catastrófica.
 
-La aplicación AAAD (Android Auto Apps Downloader) actúa como un instalador paralelo para aplicaciones no autorizadas. Esta herramienta no está disponible en Google Play y debe descargarse como un APK desde GitHub. El proceso de instalación manual elude los protocolos de seguridad estándar de Android, exponiendo el dispositivo a posibles vulnerabilidades.
+Los fabricantes de coches integran pantallas de **12 a 15 pulgadas** en el salpicadero, alimentando la ilusión de que el coche es una sala de estar. Pero la línea entre conectividad y negligencia es invisible hasta que alguien la cruza.
 
-CarStream es una de las apps más populares que se distribuyen mediante AAAD. Permite ver YouTube en la pantalla del coche, pero requiere una serie de pasos complejos que incluyen activar el modo desarrollador. Esta complejidad técnica es la primera barrera, pero no la más peligrosa. El riesgo real radica en la procedencia del software y los permisos que solicita.
+## Los 7 Métodos Documentados (y Sus Riesgos Reales)
 
-Google Play Protect, el sistema de defensa de Android, puede bloquear estas aplicaciones identificándolas como potencialmente dañinas. Si el usuario decide ignorar estas advertencias, está comprometiendo la seguridad de su dispositivo. La instalación de APKs de fuentes desconocidas es una práctica que abre la puerta a malware y robo de datos.
+A continuación, los 7 métodos que la comunidad utiliza para ver YouTube en Android Auto. **Ninguno está avalado por Google.** Todos operan en una zona gris técnica y legal.
 
-El costo de eliminar la limitación de AAAD es de 3,99 euros, un pago único que desbloquea la instalación ilimitada de aplicaciones. Aunque pueda parecer una cantidad pequeña, el precio real se paga en términos de seguridad digital. Entregar permisos de administrador a una app de terceros es un error que muchos usuarios cometen por la desesperada necesidad de ver videos en su coche.
+### 1. AAAD (Android Auto Apps Downloader)
 
-## El Dilema de la Distracción: ¿Vale la Pena el Riesgo?
+AAAD es un instalador paralelo que permite cargar aplicaciones no autorizadas en Android Auto. No está en Google Play; se descarga como APK desde [su repositorio en GitHub](https://github.com).
 
-Muchos usuarios ignoran el riesgo de distracción al intentar usar YouTube en Android Auto, lo que puede resultar en accidentes. Iván Linares, Editor Senior de Xataka Móvil, recomienda limitar el uso de YouTube a momentos en que el vehículo esté estacionado. Su advertencia no es casualidad, es una conclusión basada en la evidencia de accidentes causados por distracciones.
+La versión gratuita limita la instalación a **una app cada dos días**. El desbloqueo completo cuesta **3,99 euros**, un pago único. El riesgo principal es que al instalar APKs de fuentes externas, el usuario desactiva Google Play Protect y expone su dispositivo a malware.
 
-La tentación de utilizar el tiempo de conducción para consumo de contenido es alta en una sociedad obsesionada con la productividad y el entretenimiento. Sin embargo, la realidad es que el cerebro humano no está diseñado para procesar estímulos visuales complejos mientras opera un vehículo. La ilusión de multitarea es exactamente eso: una ilusión peligrosa.
+### 2. CarStream
 
-Ver YouTube mientras se conduce no es solo un riesgo personal, es una amenaza para otros usuarios de la vía pública. Un video de dos minutos puede ser suficiente para no ver un frenazo brusco o un peatón cruzando la calle. La responsabilidad legal en caso de accidente es severa, y las aseguradoras no dudarán en negar la cobertura si se demuestra el uso de aplicaciones no autorizadas.
+Es la aplicación más popular distribuida a través de AAAD. Funciona como un navegador web integrado en Android Auto que permite acceder a YouTube, Netflix y otras plataformas de streaming directamente en la pantalla del coche.
 
-La cultura de creadores de contenido, impulsada por figuras como Ibai Llanos o ElRubius, ha normalizado la presencia constante de pantallas en nuestras vidas. Pero llevar este hábito al asiento del conductor es un paso demasiado lejos. La demanda de "estar siempre conectados" ha creado una falsa necesidad que la industria intenta satisfacer sin considerar las implicaciones de seguridad.
+Requiere activar el **modo desarrollador** en Android Auto. [Mauro Minichiello, periodista de tecnología de La Razón](https://www.larazon.es/autor/mauro-minichiello/), ha documentado que Google Play Protect identifica CarStream como "potencialmente dañina" y puede bloquearla sin previo aviso.
 
-El uso de estas aplicaciones alternativas envía un mensaje preocupante sobre nuestras prioridades. Preferimos el entretenimiento instantáneo sobre la seguridad física. Es una elección que refleja una adicción a la pantalla que no respeta límites, ni siquiera los límites de seguridad vital.
+### 3. Fermata Auto
 
-## Limitaciones Técnicas: Cuando la Innovación se Encuentra con las Restricciones
+Fermata Auto es un reproductor multimedia que proyecta contenido del móvil al sistema de infoentretenimiento del vehículo. Soporta vídeo local, streaming y navegación web.
 
-Android Auto impone limitaciones técnicas que complican la instalación y uso de aplicaciones no oficiales. AAAD (Android Auto Apps Downloader), que actúa como instalador para aplicaciones no autorizadas, permite la instalación de un aplicativo gratuito cada dos días. Esta limitación temporal es un recordatorio constante de que estas herramientas operan en una zona gris.
+Su ventaja frente a CarStream es que no depende exclusivamente de AAAD para la instalación. Su debilidad: sufre de **latencia notable** y fallos de sincronización de audio e imagen, especialmente en coches con sistemas de infoentretenimiento más antiguos.
 
-El proceso para habilitar estas funciones requiere acceder a "Ajustes de desarrollador" dentro de Android Auto. Esta opción está oculta para el usuario promedio por una razón: manipular la configuración profunda del sistema puede inestabilizar la conexión entre el teléfono y el coche. Un error en la configuración puede dejar al conductor sin navegación ni música en medio de un viaje.
+### 4. AAStream
 
-Las aplicaciones como Fermata Auto y AAStream prometen proyectar el contenido del móvil al sistema de infoentretenimiento del coche. Sin embargo, estas soluciones a menudo sufren de retrasos (latency) y fallos de sincronización. La experiencia de usuario está lejos de ser fluida, y la frustración técnica puede ser otra fuente de distracción.
+AAStream permite hacer mirror (duplicar pantalla) del teléfono directamente en Android Auto. Requiere conexión USB y, en muchos casos, permisos de root.
 
-NewPipe, una alternativa open source a YouTube, permite escuchar el audio mientras se conduce, pero bloquea el video en movimiento. Esta es una solución de compromiso que respeta las normas de seguridad básicas. Sin embargo, muchos usuarios insisten en buscar métodos para saltarse esta restricción, demostrando una falta de disciplina alarmante.
+El problema técnico es severo: **el consumo de batería se dispara** y la temperatura del dispositivo puede alcanzar niveles que degradan el hardware. Además, el rendimiento es inferior al de una app nativa porque toda la carga gráfica recae sobre el procesador del teléfono.
 
-Las actualizaciones periódicas de Android suelen romper la compatibilidad con estas aplicaciones modificadas. Los desarrolladores de apps no oficiales juegan un juego constante del gato y el ratón con Google. Lo que funciona hoy, puede dejar de funcionar mañana, dejando al usuario con un sistema inestable y la necesidad de buscar nuevas soluciones arriesgadas.
+### 5. NewPipe (Solo Audio)
 
-## El Futuro de YouTube en Android Auto: Realidad vs. Expectativa
+**NewPipe** es una alternativa open source a la app oficial de YouTube. Permite escuchar el audio de cualquier vídeo en segundo plano sin mostrar imagen. Es la opción más segura porque **respeta la restricción de vídeo en movimiento**.
 
-Las futuras actualizaciones de Android Auto podrían dificultar aún más el uso de aplicaciones no oficiales, aumentando la incertidumbre para los usuarios. Las aplicaciones alternativas pueden dejar de funcionar después de las actualizaciones de Android, dejando a los usuarios en una situación de vulnerabilidad tecnológica.
+No requiere cuenta de Google, no muestra anuncios y es completamente gratuita. Se descarga desde [F-Droid](https://f-droid.org/packages/org.schabi.newpipe/), la tienda de aplicaciones de código abierto. Para quien solo necesita podcasts o música de YouTube al volante, NewPipe es la solución más inteligente.
 
-Google está expandiendo las categorías de aplicaciones permitidas en Android Auto, pero el video sigue siendo un tabú. La empresa está introduciendo mejoras en la interfaz y la integración con vehículos eléctricos, pero mantiene su postura firme en cuanto al contenido visual en movimiento. La expectativa de que YouTube llegue oficialmente en el futuro es, en el mejor de los casos, ingenua.
+### 6. Screen2Auto
 
-La documentación técnica de la [NHTSA](https://static.nhtsa.gov/odi/tsbs/2017/MC-10113980-9999.pdf) sobre sistemas de distracción visual respalda la postura restrictiva de Google. Los estudios demuestran que cualquier desviación de la mirada de la carretera aumenta exponencialmente el riesgo de colisión. La normativa podría endurecerse en el futuro, penalizando incluso el uso de estas aplicaciones con el coche detenido si el motor está encendido.
+Screen2Auto duplica la pantalla completa del teléfono en Android Auto, incluyendo cualquier app abierta. Es similar a AAStream pero con una interfaz más pulida.
 
-El mito de que "la tecnología lo solucionará todo" es peligroso en este contexto. No hay algoritmo capaz de compensar la limitación humana de atención. La industria automotriz está integrando cada vez más sensores y cámaras, pero la solución final no es tecnológica, es conductual.
+El precio es su principal barrera: **requiere una licencia de pago** y, en la mayoría de configuraciones, **root obligatorio**. Hacer root al teléfono [anula la garantía del fabricante](https://developer.android.com/studio/debug/dev-options) y expone el sistema operativo a vulnerabilidades críticas.
 
-La "trampa" de pensar que podemos hackear el sistema para nuestro beneficio personal ignora el diseño de seguridad integral de los vehículos modernos. Los coches actuales están diseñados para proteger a los ocupantes en caso de impacto, pero la mejor protección sigue siendo evitar el accidente mediante una conducción atenta. Priorizar YouTube sobre la seguridad es un error de cálculo que puede costar muy caro.
+### 7. Headunit Reloaded (HUR)
+
+HUR convierte cualquier tablet Android en una unidad principal de Android Auto. Permite ejecutar todas las apps, incluyendo YouTube, sin las restricciones del sistema original.
+
+Está disponible en [Google Play por 4,49 euros](https://play.google.com/store/apps/details?id=gb.xxy.hr). Es el método más caro pero también el más estable técnicamente. La contrapartida es que requiere **hardware adicional** (una tablet dedicada montada en el salpicadero) y la instalación física en el vehículo.
+
+## El Coste Legal Que Nadie Calcula
+
+Ver YouTube con el coche en marcha no es solo un riesgo físico. **Es un delito** en la mayoría de jurisdicciones europeas.
+
+El [Reglamento General de Circulación en España](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514) prohíbe expresamente el uso de pantallas que emitan imágenes no relacionadas con la conducción. La multa base es de **200 euros y 3 puntos del carnet**.
+
+Si se produce un accidente mientras el conductor usa una de estas apps, las aseguradoras pueden **negar la cobertura** si la pericial demuestra uso de aplicaciones no autorizadas. Iván Linares, editor senior de [Xataka Móvil](https://www.xataka.com/autor/ivan-linares), lo resume con claridad: el conductor asume toda la responsabilidad civil y penal.
+
+La cultura de "estar siempre conectados", impulsada por creadores como **Ibai Llanos** o **ElRubius**, ha normalizado la presencia constante de pantallas. Pero llevar ese hábito al asiento del conductor es cruzar una línea que no tiene marcha atrás.
+
+## El Juego del Gato y el Ratón con Google
+
+Las actualizaciones periódicas de Android **rompen la compatibilidad** con estas aplicaciones modificadas de forma sistemática. Los desarrolladores de apps no oficiales parchean, Google bloquea, y el ciclo se repite.
+
+Google está expandiendo las categorías de apps permitidas en Android Auto. En 2025 incorporó navegadores web y apps de vídeo **solo para aparcamiento**. Pero el streaming en movimiento sigue siendo un tabú corporativo blindado por la responsabilidad legal.
+
+La expectativa de que YouTube llegue oficialmente a Android Auto en movimiento es, siendo generosos, ingenua. No hay ningún fabricante de coches que quiera asumir la carga legal de permitirlo. Y Google, tras la multa de 170 millones de la FTC, tiene aún menos incentivos.
+
+Lo que funciona hoy con AAAD o CarStream puede dejar de funcionar mañana. El usuario queda atrapado en un ciclo de **inestabilidad permanente**: reinstalar, reconfigurar, y rezar para que la próxima actualización de Android no lo rompa todo.
 
 ## Preguntas Frecuentes
 
 ### ¿Es legal ver YouTube en Android Auto mientras se conduce?
 
-Ver YouTube mientras el vehículo está en movimiento es ilegal en la mayoría de las jurisdicciones, ya que se considera una distracción grave. Las leyes de tráfico prohíben el uso de pantallas que emitan imágenes no relacionadas con la conducción. Incluso si el coche está detenido en un semáforo, tener el video activo puede ser sancionado si interfiere con la atención del conductor.
+No. En España, el [Artículo 18.2 del Reglamento General de Circulación](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514) prohíbe el uso de pantallas que muestren imágenes no relacionadas con la conducción. La sanción es de 200 euros y pérdida de 3 puntos. En caso de accidente, la responsabilidad penal se agrava.
 
-### ¿Qué pasa si Google Play Protect bloquea la aplicación?
+### ¿Qué ocurre si Google Play Protect bloquea CarStream?
 
-Si Google Play Protect bloquea una aplicación como CarStream, significa que ha detectado un comportamiento potencialmente dañino o que la app no cumple con los estándares de seguridad de Google. El usuario puede elegir ignorar la advertencia e instalarla de todos modos, pero asume la total responsabilidad de los posibles daños al sistema, robo de datos o mal funcionamiento del dispositivo.
+Google Play Protect identificará la app como potencialmente dañina. El usuario puede forzar la instalación ignorando la advertencia, pero asume el riesgo de malware, robo de datos y mal funcionamiento del sistema Android Auto.
 
-### ¿Necesito hacer "root" a mi teléfono para usar estas apps?
+### ¿Necesito hacer root para usar estas aplicaciones?
 
-No necesariamente. Aplicaciones como AAAD permiten instalar apps sin necesidad de root, aunque algunas funciones avanzadas de otras herramientas como Screen2Auto pueden requerirlo. Hacer root al teléfono anula la garantía y expone el dispositivo a mayores riesgos de seguridad, por lo que no se recomienda para el usuario promedio que solo quiere ver videos.
+Depende del método. **AAAD y CarStream no requieren root.** Sin embargo, Screen2Auto y algunas configuraciones avanzadas de AAStream sí lo necesitan. Hacer root anula la garantía y expone el dispositivo a vulnerabilidades de seguridad.
 
-### ¿Cuánto cuesta realmente usar AAAD?
+### ¿Cuál es la alternativa más segura para escuchar YouTube en el coche?
 
-AAAD permite instalar una aplicación gratuita cada dos días de forma limitada. Para eliminar esta restricción y poder instalar aplicaciones ilimitadamente, se requiere un pago único de 3,99 euros. Sin embargo, el costo oculto es el riesgo de seguridad y la posible inestabilidad del sistema Android Auto en el coche.
+**NewPipe.** Permite reproducir el audio de YouTube en segundo plano sin vídeo en pantalla. Es gratuita, open source, no requiere cuenta de Google y se descarga desde [F-Droid](https://f-droid.org/packages/org.schabi.newpipe/). Respeta las restricciones de seguridad de Android Auto.
 
-### ¿Podré ver YouTube en Android Auto oficialmente en el futuro?
+### ¿Google permitirá YouTube en Android Auto en el futuro?
 
-Es poco probable que Google permita el streaming de video en movimiento en Android Auto debido a las responsabilidades legales y de seguridad. La empresa podría permitir la reproducción de video solo cuando el coche esté estacionado y con el freno de mano accionado, similar a como funciona en algunos sistemas con Google Built-In, pero la libertad total de visualización en movimiento no está en los planes actuales.
+Es poco probable en movimiento. Google podría permitir la reproducción **solo con el vehículo estacionado y freno de mano activado**, como ya funciona en algunos sistemas con Google Built-In. Pero la libertad total de vídeo en marcha no está en su hoja de ruta.
 
-## Nuestra lectura
+## Nuestra Lectura
 
-Adoptar métodos no oficiales para ver YouTube en Android Auto es arriesgado y puede tener consecuencias legales y de seguridad. Se recomienda a los usuarios que esperen a que el vehículo esté estacionado antes de acceder a YouTube. "La seguridad al volante no es negociable; mantente enfocado en la carretera."
+Los 7 métodos existen. Funcionan, al menos temporalmente. Pero la pregunta correcta no es "¿cómo ver YouTube en el coche?" sino **"¿por qué necesitas hacerlo?"**
 
-
-
-
+**NewPipe para audio es la única opción que no pone en riesgo ni tu seguridad, ni tu cartera, ni tu carnet.** Todo lo demás es una apuesta contra Google, contra la ley, y contra las estadísticas de siniestralidad. La seguridad al volante no acepta hacks.
 
 ### Artículos Relacionados
 - [YouTube Revive La Nostalgia: 7 Programas Icónicos De Los 2000s Que Regresan Con Fuerza](/es/youtube/youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto/)
@@ -118,10 +138,11 @@ Adoptar métodos no oficiales para ver YouTube en Android Auto es arriesgado y p
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
-  "headline": "La Verdad Oculta: 7 Trucos para Usar YouTube en Android Auto Sin Problemas",
-  "description": "Descubre 7 trucos esenciales para disfrutar de YouTube en Android Auto sin complicaciones. Mejora tu experiencia de entretenimiento mientras conduces.",
+  "headline": "YouTube en Android Auto: 7 Métodos Reales, Sus Riesgos y Lo Que Google No Te Dice",
+  "description": "Análisis técnico de los 7 métodos existentes para ver YouTube en Android Auto: AAAD, CarStream, Fermata Auto, NewPipe y más. Riesgos legales, de seguridad vial y de privacidad incluidos.",
   "image": "https://novumworld.com/images/youtube-android-auto-trucos-riesgos-alternativas.jpg",
   "datePublished": "2026-03-30T13:59:25",
+  "dateModified": "2026-03-30T16:40:00",
   "author": {
     "@type": "Organization",
     "name": "NovumWorld Editorial Team"

@@ -1,7 +1,12 @@
 # PROGRESS — NovumWorld Autoblogger
-# Última actualización: 2026-03-30T10:29:00+02:00
+# Última actualización: 2026-03-30T16:44:00+02:00
 
 ## ✅ COMPLETADO
+- [x] AUDITORÍA EDITOR JEFE: Artículo YouTube/Android Auto reescrito de 0 (rechazo AdSense) → artículo completo con 7 H3 dedicados, links reales y formato GEO.
+- [x] REGLA 17 ANTI-CLICKBAIT: Inyectada en prompts_factory.py SYSTEM_FORMAT_RULES. Si el título promete N items, el cuerpo DEBE tener N H3 explícitos o se rechaza.
+- [x] ESTABILIZACIÓN LLM ROUTER (ANTI-429): Priorizados gpt-4o-mini y gpt-4.1-mini (150 req/día cada uno) sobre gpt-4o.
+- [x] BUG FIX LLM ROUTER: Corregido fallback inalcanzable y función indefinida `original_cascada_func` en `route_call`.
+- [x] OPTIMIZACIÓN GH MODELS: Reducido backoff en 429 de 15s a 2s para saltar rápidamente entre modelos/tokens disponibles.
 - [x] Capa Cero GitHub Models implementada en llm_router.py (doble bucle tokens x modelos)
 - [x] URL de API corregida a https://models.github.ai/inference
 - [x] Auditoría técnica profunda completada (nota 6.5/10)
@@ -15,6 +20,9 @@
   - qa_editor_es.py: 4 bare excepts → logging.warning
   - qa_editor_en.py: 4 bare excepts → logging.warning
 - [x] import logging añadido a todos los archivos que lo necesitaban
+- [x] check_apis_used.py actualizado para detectar gpt-4o-mini y gpt-4.1-mini
+- [x] Workflows actualizados con `git pull --rebase --autostash` para evitar conflictos en CI/CD.
+- [x] Editores QA robustecidos para evitar pérdida de artículos ante fallos de contenido.
 
 ## ✅ COMPLETADO (CRÍTICO)
 - [x] PROBLEMA #1: Rotar TODAS las API keys expuestas - ROTADAS MANUALMENTE

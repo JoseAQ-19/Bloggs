@@ -429,6 +429,10 @@ SYSTEM_FORMAT_RULES = """
     ENGLISH: Use `## Frequently Asked Questions` as the H2. Questions as H3.
     Each FAQ MUST have 3-5 questions based on REAL user concerns from the research data, NOT generic filler.
     CRITICAL STRUCTURE: H2 parent first, then H3 questions. DO NOT jump straight to H3.
+
+17. 🚨 NUMERIC PROMISE FULFILLMENT (ANTI-CLICKBAIT — ZERO TOLERANCE):
+    If the title contains a specific number (e.g. "7 trucos", "5 tools", "10 razones"), the article body MUST contain EXACTLY that many dedicated ### H3 sub-headers, one per item, clearly labeled (e.g. "### 1. AAAD", "### 2. CarStream").
+    VIOLATION = AUTOMATIC REJECTION. A title promising N items with fewer than N explicit items in the body is classified as "Clickbait no resuelto" and will be flagged as Thin Content by AdSense reviewers.
 """
 
 # ═══════════════════════════════════════════════════════════════════

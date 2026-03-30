@@ -14,6 +14,11 @@ Estamos operando en **Modo Prototipo**. Para escalar a producción masiva y comp
 ## 🔴 CRÍTICO (Prioridad Inmediata)
 *Fallo inminente o pérdida de valor SEO grave.*
 
+### 0. Estabilización de Capa Cero (GitHub Models)
+*   **Problema:** Alta tasa de errores 429 en `gpt-4o`, agotando la cuota diaria y bloqueando la generación.
+*   **Solución Ejecutada:** Reconfiguración del `llm_router` para priorizar `gpt-4o-mini` y `gpt-4.1-mini` (150 req/día cada uno).
+*   **Resultado:** Mayor disponibilidad y resiliencia del pipeline ante límites de tasa.
+
 ### 1. Hotlinking de Imágenes (Pollinations.ai)
 *   **Problema:** Estamos usando URLs directas (`https://image.pollinations.ai/...`) en el Front Matter.
 *   **Riesgo:**
