@@ -123,3 +123,17 @@
 - [ ] Resolver URLs de Google News RSS en Scouts (resolver redirecciones a URLs finales)
 - [ ] Verificar que el fix de text_cleaner.py purga NewsArticle JSON-LD en la próxima generación
 - [ ] Revisar artículo Shakira por potencial misleading (conexiones forzadas)
+
+## ✅ COMPLETADO (STABILIZATION & SCALABILITY)
+- [x] DESACOPLAMIENTO DE RECURSOS COMPARTIDOS:
+    - Se ha dividido `source_links.json` en archivos por idioma (`data/source_links_es.json`, `data/source_links_en.json`).
+    - Esto elimina definitivamente las condiciones de carrera (Git race conditions) en GitHub Actions cuando corren ES y EN simultáneamente.
+    - `orchestrator.py`, `main.py`, `stocks_main.py` y los `QA Editors` bilingües actualizados para este nuevo esquema persistente.
+- [x] ROBUSTEZ API (LLM ROUTER):
+    - Priorización de modelos `mini` en GitHub Models para optimizar costes y cuotas.
+    - Implementación de rotación inmediata de tokens ante errores 429 o `ConnectionError`.
+
+## 🟡 PENDIENTE (DEUDA TÉCNICA)
+- [ ] Centralizar cascadas LLM duplicadas en llm_router.py
+- [ ] Configurar `INDEXNOW_KEY` en producción (GitHub Secrets).
+- [ ] Limpiar archivos secundarios y bare excepts restantes.

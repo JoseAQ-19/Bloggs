@@ -227,12 +227,13 @@ def _mark_completed(topic, category="funds"):
     with open(COMPLETED_FILE, 'a', encoding='utf-8') as f:
         f.write(f"{category}: {topic}\n")
 
-def _guardar_fuentes(slug, sources):
+def _guardar_fuentes(slug, sources, lang="es"):
     """Link Deposit local para funds."""
     if not sources: return
     try:
         os.makedirs("data", exist_ok=True)
-        file_path = "data/source_links.json"
+        # DECOUPLED: Usar fichero por idioma
+        file_path = f"data/source_links_{lang}.json"
         data = {}
         if os.path.exists(file_path):
             with open(file_path, "r", encoding="utf-8") as f:
@@ -241,7 +242,7 @@ def _guardar_fuentes(slug, sources):
         data[slug] = sources
         with open(file_path, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=4)
-        print(f"   📦 [Link Deposit] {len(sources)} fuentes guardadas para {slug}")
+        print(f"   📦 [Link Deposit] {len(sources)} fuentes guardadas para {slug} [{lang}]")
     except Exception as e:
         print(f"   ⚠️ [Link Deposit] Error: {e}")
 
@@ -423,7 +424,7 @@ Be specific. Include real numbers, names, and dates. No vague statements."""
         
         # Guardar Link Deposit
         if "verified_urls" in scout_data and scout_data["verified_urls"]:
-            _guardar_fuentes(writer_output["meta"]["slug"], scout_data["verified_urls"])
+            _guardar_fuentes(writer_output["meta"]["slug"], scout_data["verified_urls"], lang=current_lang)
             
         filepath = _save_article(writer_output, current_lang)
 

@@ -623,7 +623,8 @@ def run(category, content_dir="content/en"):
         print(f"\n   🔌 [Editor EN] STEP 1.7: Link Deposit (Forced Injection) - 0 Links detected...")
         sources_to_inject = []
         try:
-            with open("data/source_links.json", "r", encoding="utf-8") as f:
+            # DECOUPLED: Use only the file for this language
+            with open("data/source_links_en.json", "r", encoding="utf-8") as f:
                 deposit = json.load(f)
                 sources_to_inject = deposit.get(article_slug, [])
         except:

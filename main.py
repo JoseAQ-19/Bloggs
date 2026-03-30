@@ -151,7 +151,7 @@ def main():
     
     # ── LINK DEPOSIT: Guardar fuentes para el Corrector ──
     if contexto and isinstance(contexto, dict) and "sources" in contexto:
-        orchestrator.guardar_fuentes(meta['slug'], contexto["sources"])
+        orchestrator.guardar_fuentes(meta['slug'], contexto["sources"], lang=tema_lang)
         
     texto = orchestrator.escribir_articulo(meta, contexto, tema_lang, NICHES[cat], category=cat)
     orchestrator.guardar_post(meta, texto, tema_lang, cat, translation_key=trans_key)
