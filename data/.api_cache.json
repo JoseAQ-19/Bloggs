@@ -293,61 +293,47 @@
   "6b917a81fd9eedfed0c8175dfe38aafa9e90472ee53445d8e4541e481f95984d": {
     "data": [
       {
-        "title": "Here's how one viral video saved this small Brooklyn bakery. Watch more: https://lnkd.in/e_gHsPeP",
+        "title": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "‘I’m cooked’: Aurora business owner’s viral video draws customers to notorious strip",
+        "title": "Current understanding of viral contributions to soil carbon cycling",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "I bought a NYC deli infested with rodents. Now, it supports my entire family.",
+        "title": "China's DeepSeek AI chatbot suffers longest outage since viral rise in early 2025",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Alt-country couple Rachel & Griffin get vulgar, go viral",
+        "title": "IKEA's viral donut lamp just got smarter — what to know about the Matter-over-Thread Varmblixt lamp",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "‘Jesus dunked for your sins;’ Alabama church art goes viral",
+        "title": "Extended Viral PCR: Does It Help?",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774822887.0348969,
+    "cached_at": 1774882574.6915414,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
   "78419185a472eac00403a11a229938d32ad88b963bbfbf48284eb0cbba1ee66b": {
     "data": [
-      {
-        "title": "Los jugadores de Pokémon Pokopia están haciendo realidad un rumor de hace 30 años",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.ign.com/pokemon-pokopia/228063/news/los-jugadores-de-pokemon-pokopia-estan-haciendo-realidad-un-rumor-de-hace-30-anos"
-      },
-      {
-        "title": "La historia de Alex y Patricia genera controversia en Street Fighter 6",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://latam.ign.com/street-fighter-next/112155/news/la-historia-de-alex-y-patricia-genera-controversia-en-street-fighter-6"
-      },
       {
         "title": "Más de 130 derrames en 15 años: el historial que enmarca el nuevo incidente en el Golfo de México | WIRED",
         "source": "exa",
@@ -356,14 +342,28 @@
         "url": "https://es.wired.com/articulos/mas-de-130-derrames-en-15-anos-el-historial-que-enmarca-el-nuevo-incidente-en-el-golfo-de-mexico"
       },
       {
+        "title": "Nintendo prepara remake de Ocarina of Time y un nuevo Star Fox para Switch 2, según reporte",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://latam.ign.com/the-legend-of-zelda-ocarina-of-time-3d/112165/news/ocarina-of-time-remake"
+      },
+      {
         "title": "Pokémon GO podría lanzar una función que cambiaría tu forma de jugar, aunque no es bien recibida por todos",
         "source": "exa",
         "lang": "en",
         "score": 0,
         "url": "https://es.ign.com/pokemon-go/228094/news/pokemon-go-podria-lanzar-una-funcion-que-cambiaria-tu-forma-de-jugar-aunque-no-es-bien-recibida-por"
+      },
+      {
+        "title": "Qué esperar de ChatGPT cuando se llene de anuncios | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/que-esperar-de-chatgpt-cuando-se-llene-de-anuncios"
       }
     ],
-    "cached_at": 1774822887.6752,
+    "cached_at": 1774882575.086927,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
