@@ -479,6 +479,47 @@ If you cannot find a better high-authority source, return {{"found": false}}. Do
     return body_text, replacement_log
 
 
+def _force_inject_links(body_text, sources, lang="es", category="general"):
+    """
+    Link Deposit Injection: Fuerza la inclusión de URLs guardadas en la fase de Scout
+    si el texto carece de enlaces externos.
+    """
+    if not sources:
+        return body_text
+        
+    print(f"      🔗 Forzando inyección de {len(sources)} fuentes autorizadas vía LLM...")
+    
+    sources_str = "\n".join([f"- {url}" for url in sources[:3]])
+    
+    prompt = f"""You are a senior technical editor. 
+The following markdown article completely lacks OUTBOUND LINKS to authority sources, hurting our E-E-A-T score.
+
+We have the ORIGINAL sources that were used to write this article:
+{sources_str}
+
+YOUR TASK:
+Rewrite 2 or 3 paragraphs within the article to naturally inject these exact URLs as markdown links [Relevant Anchor Text](url). 
+Do not change the overall length or meaning of the document. Keep the exact same language.
+Only return the FULL modified markdown body. No chat, no comments, no markdown code blocks (```).
+
+ARTICLE BODY:
+{body_text}
+"""
+    system_prompt = "You are an expert SEO editor specialized in deep contextual hyperlinking enforcing Google E-E-A-T standards."
+    
+    result = _call_llm_es(prompt, len(body_text)) # Wait, _call_llm_es takes (prompt, system_prompt)
+    # Fix: _call_llm_es signature is (prompt, system_prompt)
+    result = _call_llm_es(prompt, system_prompt)
+    
+    # Sanity check: ensure the LLM didn't truncate the article
+    if result and len(result) > len(body_text) * 0.8:
+        print("      ✅ Inyección forzada completada con éxito.")
+        return result
+    else:
+        print("      ⚠️ Fallo en la inyección de enlaces o respuesta demasiado corta. Manteniendo original.")
+        return body_text
+
+
 def run(category, content_dir="content/es"):
     """
     Pipeline principal del Editor Jefe ES.
@@ -529,6 +570,9 @@ def run(category, content_dir="content/es"):
     # Extraer el título del frontmatter
     title_match = re.search(r'^title:\s*"?([^"\n]+)"?', frontmatter, re.MULTILINE)
     article_title = title_match.group(1) if title_match else "Sin título"
+    
+    slug_match = re.search(r'^slug:\s*"?([^"\n]+)"?', frontmatter, re.MULTILINE)
+    article_slug = slug_match.group(1) if slug_match else ""
 
     # PASO 1: Link Validation
     print(f"\n   🔗 [Editor ES] PASO 1: Verificación de enlaces muertos...")
@@ -551,6 +595,23 @@ def run(category, content_dir="content/es"):
     eeat_upgrade_block = ""
     if upgrade_log:
         eeat_upgrade_block = "\n\nACTUALIZACIONES DE AUTORIDAD E-E-A-T:\n" + "\n".join([f"  - {u}" for u in upgrade_log])
+
+    # PASO 1.7: INYECCIÓN FORZADA DE ENLACES EXTERNOS (LINK DEPOSIT)
+    has_ext_link = bool(re.search(r'\]\(https?://[^\)]+\)', body))
+    if not has_ext_link and article_slug:
+        print(f"\n   🔌 [Editor ES] PASO 1.7: Link Deposit (Inyección Forzada) - 0 Links detectados...")
+        sources_to_inject = []
+        try:
+            with open("data/source_links.json", "r", encoding="utf-8") as f:
+                deposit = json.load(f)
+                sources_to_inject = deposit.get(article_slug, [])
+        except:
+            pass
+            
+        if sources_to_inject:
+            body = _force_inject_links(body, sources_to_inject, lang="es", category=category)
+        else:
+            print(f"      ⚠️ No se encontraron fuentes depositadas para '{article_slug}'.")
 
     # PASO 2: NotebookLM Fact-Check
     print(f"\n   🔍 [Editor ES] PASO 2: Fact-check con NotebookLM...")

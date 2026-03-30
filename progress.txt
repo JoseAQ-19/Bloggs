@@ -98,6 +98,12 @@
 - [x] stocks_main.py: Pass content down to `_get_image()`.
 - [x] test_visual.py: Added unit tests and verified working logic.
 
+## ✅ COMPLETADO (LINK DEPOSIT & FORCED INJECTION - QA V2)
+- [x] orchestrator.py: `guardar_fuentes()` que estructura `data/source_links.json`.
+- [x] main.py & stocks_main.py: Inyectan las fuentes verificadas (NotebookLM/Exa) al Link Deposit vía slug.
+- [x] qa_editor_es.py: `_force_inject_links` implementado. Paso 1.7 valida `] (https://` y si es 0, fuerza reescritura de 3 párrafos por LLM.
+- [x] qa_editor_en.py: Replicado el sistema "Link Deposit" para forzar E-E-A-T en inglés.
+
 ## 🟡 PENDIENTE (DEUDA TÉCNICA)
 - [ ] Centralizar cascadas LLM duplicadas en llm_router.py
 - [ ] Arreglar or_client/groq_client sin inicializar en stocks_writer.py

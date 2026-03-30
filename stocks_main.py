@@ -227,6 +227,24 @@ def _mark_completed(topic, category="funds"):
     with open(COMPLETED_FILE, 'a', encoding='utf-8') as f:
         f.write(f"{category}: {topic}\n")
 
+def _guardar_fuentes(slug, sources):
+    """Link Deposit local para funds."""
+    if not sources: return
+    try:
+        os.makedirs("data", exist_ok=True)
+        file_path = "data/source_links.json"
+        data = {}
+        if os.path.exists(file_path):
+            with open(file_path, "r", encoding="utf-8") as f:
+                try: data = json.load(f)
+                except: pass
+        data[slug] = sources
+        with open(file_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=4)
+        print(f"   📦 [Link Deposit] {len(sources)} fuentes guardadas para {slug}")
+    except Exception as e:
+        print(f"   ⚠️ [Link Deposit] Error: {e}")
+
 
 # ============================================================
 # PIPELINE PRINCIPAL
@@ -402,6 +420,11 @@ Be specific. Include real numbers, names, and dates. No vague statements."""
 
         # === FASE 3: GUARDAR ===
         print(f"\n   💾 [FASE 3] Guardando artículo ({current_lang.upper()})...")
+        
+        # Guardar Link Deposit
+        if "verified_urls" in scout_data and scout_data["verified_urls"]:
+            _guardar_fuentes(writer_output["meta"]["slug"], scout_data["verified_urls"])
+            
         filepath = _save_article(writer_output, current_lang)
 
         if filepath:

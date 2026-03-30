@@ -1039,3 +1039,32 @@ translationKey: "{translation_key}"
         final_url = f"https://novumworld.com/{category}/{meta['slug']}/"
     indexing_api.notify_google(final_url)
 
+def guardar_fuentes(slug, sources):
+    """
+    Link Deposit: Guarda las fuentes E-E-A-T encontradas durante la fase de investigación
+    para que el Corrector (QA Editor) pueda inyectarlas si el artículo fue generado sin enlaces.
+    """
+    if not sources:
+        return
+        
+    try:
+        os.makedirs("data", exist_ok=True)
+        file_path = "data/source_links.json"
+        
+        data = {}
+        if os.path.exists(file_path):
+            with open(file_path, "r", encoding="utf-8") as f:
+                try:
+                    data = json.load(f)
+                except json.JSONDecodeError:
+                    data = {}
+                    
+        data[slug] = sources
+        
+        with open(file_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=4)
+            
+        print(f"   📦 [Link Deposit] {len(sources)} fuentes guardadas para el slug '{slug}'")
+    except Exception as e:
+        print(f"   ⚠️ [Link Deposit] Error guardando fuentes: {e}")
+
