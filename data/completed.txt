@@ -555,3 +555,4 @@ tools: El mapa SuperTrend de BigBeluga: el nuevo indicador que cambiará tu estr
 youtube: YouTube llega a Android Auto, pero no de la forma que esperabas
 youtube: Gen Z is Bringing Ballet Back: How YouTube is Making Dance Cool Again
 tools: Unveiling the Future: How Privacy Programs are Evolving Beyond Shadow IT
+crypto: El CEO de Ripple advierte sobre la utilización política de las criptomonedas, pero mantiene una visión optimista del mercado
