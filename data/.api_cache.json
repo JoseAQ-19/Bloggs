@@ -139,42 +139,42 @@
   "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
     "data": [
       {
-        "title": "Prison tapes raise questions over ex-Abercrombie boss' fitness for trial",
+        "title": "Construction begins at Clovis Planet Fitness after temporary safety closure",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Ronyme Quiet Weighted Fitness Hoop – Flexible Spring Hula Hoop For Waist, Abs & Full Body Workout",
+        "title": "5BX: The Cold War Military Workout for Getting Fit in 11 Minutes a Day",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "'Women in Policing' recruitment event spotlights fitness and training readiness",
+        "title": "Fitness Influencer Dies at Age 46 After He’s Shot While Leaving the Gym",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Fitness guru David Goggins, 51, re-enlists for grueling Air Force training",
+        "title": "Rohit Sharma's confidence and fitness 'a great sign for MI and him'",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Morren Fitness Center’s $100,000 upgrade receives mixed reactions",
+        "title": "How Much Exercise Do You Really Need? Dr. Gilbert Breaks It Down",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774760437.1794395,
+    "cached_at": 1774847962.8133554,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
@@ -188,18 +188,11 @@
         "url": "https://es.ign.com/pokemon-go/228094/news/pokemon-go-podria-lanzar-una-funcion-que-cambiaria-tu-forma-de-jugar-aunque-no-es-bien-recibida-por"
       },
       {
-        "title": "Los influencers que recomiendan medicamentos ya son un problema de salud pública | WIRED",
+        "title": "Los espermatozoides tienen un \"GPS\" y cuando se enfrentan a microgravedad, este falla; un problema para el futuro espacial | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/los-influencers-que-recomiendan-medicamentos-ya-son-un-problema-de-salud-publica"
-      },
-      {
-        "title": "Pokémon mira hacia un futuro con miles de criaturas",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://latam.ign.com/pokemon/112160/news/pokemon-mira-hacia-un-futuro-con-miles-de-criaturas"
+        "url": "https://es.wired.com/articulos/los-espermatozoides-tienen-un-gps-y-cuando-se-enfrentan-a-microgravedad-este-falla-un-problema-para-el-futuro-espacial"
       },
       {
         "title": "Los jugadores de Pokémon Pokopia están haciendo realidad un rumor de hace 30 años",
@@ -207,9 +200,16 @@
         "lang": "en",
         "score": 0,
         "url": "https://es.ign.com/pokemon-pokopia/228063/news/los-jugadores-de-pokemon-pokopia-estan-haciendo-realidad-un-rumor-de-hace-30-anos"
+      },
+      {
+        "title": "Esta semana en Prime Video: ya van casi 50 estrenos para mantenerte ocupado el fin de semana",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/prime-video/228077/news/esta-semana-en-prime-video-ya-van-casi-50-estrenos-para-mantenerte-ocupado-el-fin-de-semana"
       }
     ],
-    "cached_at": 1774760437.7966619,
+    "cached_at": 1774847968.8621604,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
