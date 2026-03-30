@@ -54,6 +54,10 @@ NICHES = {
         "prompt_es": PROMPT_VIRAL_ES,
         "prompt_en": PROMPT_VIRAL_EN
     },
+    "tools": {
+        "name": "Tools & Productivity",
+        "output_dir": "content/tools",
+        "search_context": "productivity tools software review automation zapier notion obsidian personal knowledge management workflow optimization",
         "prompt_es": PROMPT_TOOLS_ES,
         "prompt_en": PROMPT_TOOLS_EN
     },
