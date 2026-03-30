@@ -79,6 +79,17 @@
 - [x] orchestrator.py/planificar_articulo: Blindaje programático ≤70 chars con truncado inteligente
 - [x] qa_editor_es.py: Validación de FAQ, detección de enlaces genéricos a homepages, audit logging
 
+## ✅ COMPLETADO (GOLDEN STACK DATA PIPELINE 2.0 – Coste €0)
+- [x] data_youtube.py: Módulo YouTube Transcript (extract_video_id, get_transcript, get_transcript_summary)
+- [x] data_pubmed.py: Módulo PubMed E-utilities (search_studies, fetch_abstracts, format_for_llm)
+- [x] data_finance.py: Módulo yfinance + DefiLlama (get_ticker_summary, get_protocol_tvl, format_*_for_llm)
+- [x] researcher.py: _enrich_with_golden_stack() inyecta datos reales por nicho (YouTube→creators, PubMed→fitness, Finance→crypto/funds)
+- [x] researcher.py: Gemini Grounding prompt refactorizado con Deep Links Only + ejemplos ✅/❌
+- [x] test_data_youtube.py: ✅ ALL TESTS PASSED (URL parsing + live transcript extraction)
+- [x] test_data_pubmed.py: ✅ ALL TESTS PASSED (search + fetch abstracts + LLM formatting)
+- [x] test_data_finance.py: ✅ ALL TESTS PASSED (yfinance tickers + DefiLlama TVL + USD formatting)
+- [x] qa_editor_en.py: Validaciones replicadas desde ES (FAQ, deep links, completitud, audit logging)
+
 ## 🟡 PENDIENTE (DEUDA TÉCNICA)
 - [ ] Centralizar cascadas LLM duplicadas en llm_router.py
 - [ ] Arreglar or_client/groq_client sin inicializar en stocks_writer.py
@@ -86,5 +97,4 @@
 - [ ] Arreglar bare excepts restantes en archivos secundarios (researcher.py, trend_hunter.py, etc.)
 - [ ] Resolver URLs de Google News RSS en Scouts (resolver redirecciones a URLs finales)
 - [ ] Verificar que el fix de text_cleaner.py purga NewsArticle JSON-LD en la próxima generación
-- [ ] Replicar validaciones de FAQ + deep links en qa_editor_en.py (pendiente)
 - [ ] Revisar artículo Shakira por potencial misleading (conexiones forzadas)

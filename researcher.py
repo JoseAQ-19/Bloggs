@@ -381,6 +381,9 @@ Return ONLY the final string. NO quotation marks. NO markdown. NO explanations. 
 
         # GUARDAR EN CACHÉ
         if result and result.get("layer") != "Fallback (no data)":
+            # === GOLDEN STACK: ENRIQUECIMIENTO POR NICHO (COSTE €0) ===
+            result = self._enrich_with_golden_stack(result, topic, category, lang)
+
             try:
                 os.makedirs(os.path.dirname(cache_file), exist_ok=True)
                 with open(cache_file, "w", encoding="utf-8") as f:
@@ -388,6 +391,86 @@ Return ONLY the final string. NO quotation marks. NO markdown. NO explanations. 
                 print(f"   💾 [Caché] Investigación guardada exitosamente en local.")
             except Exception as e:
                 print(f"   ⚠️ Error guardando caché: {e}")
+
+        return result
+
+    # =============================================
+    # GOLDEN STACK: Enrichment Layer (€0 Cost)
+    # Appends real data from specialized free APIs
+    # =============================================
+    def _enrich_with_golden_stack(self, result, topic, category, lang):
+        """
+        Enriquece la investigación con datos reales de APIs gratuitas.
+        Se ejecuta DESPUÉS de la investigación principal (capas 1-3).
+        """
+        enrichment_blocks = []
+
+        try:
+            # === YOUTUBE: Transcripciones para Creator Economy ===
+            if category in ("youtube",):
+                try:
+                    from data_youtube import get_transcript_summary
+                    import re
+                    # Buscar IDs de YouTube en el contenido de investigación
+                    content = result.get("content", "")
+                    yt_ids = re.findall(r'(?:youtube\.com/watch\?v=|youtu\.be/)([a-zA-Z0-9_-]{11})', content)
+                    if yt_ids:
+                        for vid in yt_ids[:2]:  # Max 2 transcripts
+                            transcript = get_transcript_summary(vid, languages=['es', 'en'] if lang == 'es' else ['en', 'es'], max_chars=4000)
+                            if transcript:
+                                enrichment_blocks.append(transcript)
+                                print(f"   🎬 [Golden Stack] YouTube transcript añadido: {vid}")
+                except ImportError:
+                    print("   ⚠️ [Golden Stack] youtube-transcript-api no disponible")
+                except Exception as e:
+                    print(f"   ⚠️ [Golden Stack] YouTube error: {e}")
+
+            # === PUBMED: Estudios científicos para Fitness ===
+            if category in ("fitness",):
+                try:
+                    from data_pubmed import search_and_fetch, format_for_llm
+                    # Extraer keywords del topic para buscar en PubMed
+                    studies = search_and_fetch(topic, max_results=3, min_year=2023)
+                    if studies:
+                        pubmed_block = format_for_llm(studies, max_studies=3)
+                        enrichment_blocks.append(pubmed_block)
+                        print(f"   📚 [Golden Stack] {len(studies)} estudios PubMed añadidos")
+                except ImportError:
+                    print("   ⚠️ [Golden Stack] data_pubmed no disponible")
+                except Exception as e:
+                    print(f"   ⚠️ [Golden Stack] PubMed error: {e}")
+
+            # === YFINANCE + DEFILLAMA: Datos financieros reales ===
+            if category in ("crypto", "funds", "stocks"):
+                try:
+                    from data_finance import format_defi_for_llm, format_ticker_for_llm
+                    if category == "crypto":
+                        defi_block = format_defi_for_llm(limit=5)
+                        if defi_block:
+                            enrichment_blocks.append(defi_block)
+                            print("   📊 [Golden Stack] DefiLlama TVL data añadido")
+                    if category in ("funds", "stocks"):
+                        # Tickers clave para fondos/acciones
+                        default_tickers = ["SPY", "QQQ", "VWO", "BTC-USD", "GLD"]
+                        ticker_block = format_ticker_for_llm(default_tickers)
+                        if ticker_block:
+                            enrichment_blocks.append(ticker_block)
+                            print("   📈 [Golden Stack] yfinance market data añadido")
+                except ImportError:
+                    print("   ⚠️ [Golden Stack] data_finance no disponible")
+                except Exception as e:
+                    print(f"   ⚠️ [Golden Stack] Finance error: {e}")
+
+        except Exception as e:
+            print(f"   ⚠️ [Golden Stack] Error general: {e}")
+
+        # Append enrichment to result content
+        if enrichment_blocks:
+            enriched_content = result.get("content", "")
+            enriched_content += "\n\n" + "\n\n".join(enrichment_blocks)
+            result["content"] = enriched_content
+            result["golden_stack"] = True
+            print(f"   🏆 [Golden Stack] {len(enrichment_blocks)} bloques de datos reales inyectados.")
 
         return result
 
@@ -692,8 +775,15 @@ Write a structured research brief with:
 3. Controversy or risk angles
 4. Source URLs for every major claim
 
+DEEP LINKS ONLY (CRITICAL):
 Include markdown hyperlinks [text](url) for every source you reference.
-CRITICAL: Do NEVER output internal Google Search links (like vertexaisearch.cloud.google.com). You MUST extract and provide the direct, ORIGINAL public URL to the website (e.g. https://www.bloomberg.com/..., https://www.nature.com/articles/...). Do NOT fabricate URLs — only include REAL public sources you actually found. If you cannot find a public URL, include the plaintext source name.
+❌ WRONG: [Reuters](https://www.reuters.com) or [SEC](https://www.sec.gov)
+✅ RIGHT: [Reuters report on Q3 earnings](https://www.reuters.com/business/finance/specific-article-2026)
+Do NEVER output internal Google Search links (like vertexaisearch.cloud.google.com).
+You MUST extract and provide the direct, ORIGINAL public URL to the specific article or study page.
+Do NOT fabricate URLs — only include REAL public sources you actually found.
+If you cannot find a public URL, include the plaintext source name.
+Links to generic homepages (reuters.com, sec.gov, bloomberg.com without path) will cause REJECTION.
 """
             
             google_search_tool = types.Tool(google_search=types.GoogleSearch())
