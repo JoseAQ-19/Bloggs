@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-30T07:35:43.009439+00:00",
+  "scouted_at": "2026-03-30T07:37:08.107160+00:00",
   "total_candidates": 13,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos premiados por Morningstar en 2026: ¿Cuáles han superado el 10% de rentabilidad en el último año?",
+      "title": "Fondos premiados por Morningstar en 2026: ¿Cuáles tienen el mayor potencial de retorno en un entorno incierto?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Iván Martín (Magallanes) revela su estrategia: ¿Por qué ha aumentado un 30% la inversión en firmas químicas?",
+      "title": "Oportunidades y amenazas en el sector farmacéutico: Análisis de las 5 mejores acciones para invertir en 2026.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Invertir en el sector farmacéutico: ¿Qué fondos han ofrecido un rendimiento superior del 15% en 2023?",
+      "title": "Análisis del repunte del dólar: ¿Cuáles son los 8 ETFs de renta fija que están superando a sus competidores?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
