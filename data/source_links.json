@@ -23,5 +23,10 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC10847569/",
         "https://www.arts.gov/sites/default/files/2022-SPPA-final.pdf",
         "https://www.arts.gov/sites/default/files/GSS-Arts-Historical-Guide-FINAL.pdf"
+    ],
+    "privacy-enhancing-tech-shadow-it-risks-en": [
+        "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.40.ipd.pdf",
+        "https://nitrd.gov/pubs/National-Privacy-Research-Strategy-2025.pdf",
+        "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-236.pdf"
     ]
 }
