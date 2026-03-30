@@ -11,6 +11,7 @@ from prompts_factory import (
     PROMPT_YOUTUBE_ES, PROMPT_YOUTUBE_EN,
     PROMPT_VIRAL_ES,   PROMPT_VIRAL_EN,
     PROMPT_TOOLS_ES,   PROMPT_TOOLS_EN,
+    PROMPT_FUNDS_ES,   PROMPT_FUNDS_EN,
 )
 
 # ═══════════════════════════════════════════════════════════════════
@@ -53,12 +54,15 @@ NICHES = {
         "prompt_es": PROMPT_VIRAL_ES,
         "prompt_en": PROMPT_VIRAL_EN
     },
-    "tools": {
-        "name": "Novum Tools",
-        "output_dir": "content/tools",
-        "search_context": "tutorial guide automation workflow no-code",
         "prompt_es": PROMPT_TOOLS_ES,
         "prompt_en": PROMPT_TOOLS_EN
+    },
+    "funds": {
+        "name": "Economy & Funds",
+        "output_dir": "content/funds",
+        "search_context": "Morningstar fund awards 2026 BlackRock Vanguard mutual fund redemptions equity yield macroeconomics S&P 500 ETF vs mutual funds portfolio management Bloomberg Reuters finance news",
+        "prompt_es": PROMPT_FUNDS_ES,
+        "prompt_en": PROMPT_FUNDS_EN
     }
 }
 

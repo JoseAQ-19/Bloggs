@@ -122,13 +122,22 @@ def planificar_articulo(tema, contexto, lang, category_config):
         return resp.text.strip()
 
     try:
-        raw_text = LLMRouter.route_call(prompt, "You are a professional editor planning an article structure.", fallback_plan, model_type="reasoning")
+        raw_text = LLMRouter.route_call(prompt, "You are a professional editor planning an article structure. Titles MUST be ≤70 characters, magnetic, and avoid generic patterns like 'Analysis of...'.", fallback_plan, model_type="reasoning", temperature=0.95)
         if not raw_text:
             raise Exception("No response from Router in planning")
             
         if '```' in raw_text:
             raw_text = raw_text.replace('```json', '').replace('```', '')
         plan = json.loads(raw_text.strip())
+        
+        # === BLINDAJE SEO: Título ≤70 caracteres ===
+        if len(plan.get('titulo', '')) > 70:
+            original_title = plan['titulo']
+            # Truncar en la última palabra completa antes de 70 chars
+            truncated = original_title[:70].rsplit(' ', 1)[0]
+            plan['titulo'] = truncated
+            print(f"   ✂️ [SEO] Título recortado: '{original_title}' → '{truncated}' ({len(truncated)} chars)")
+        
         suffix = "-en" if lang == "en" else ""
         plan['slug'] = text_cleaner.sanitize_slug(plan['slug_sugerido']) + suffix
         return plan
@@ -204,7 +213,7 @@ def _get_internal_links(category, lang, current_slug=""):
     return links[:10]  # Max 10 candidates
 
 
-def _call_nvidia_nim(prompt_text, model_id, calibration_tag, nvidia_key, max_tokens=4096, force_json=False):
+def _call_nvidia_nim(prompt_text, model_id, calibration_tag, nvidia_key, max_tokens=8192, force_json=False):
     """
     Helper genérico para llamadas a NVIDIA NIM API.
     Retorna (result_text, success_bool).
@@ -265,7 +274,7 @@ def _call_en_engine_v3_core(prompt_text, system_prompt=""):
                 model="z-ai/glm-4.5-air:free",
                 messages=[{"role": "user", "content": prompt_text + CAL_GLM}],
                 temperature=0.85,
-                max_tokens=4096,
+                max_tokens=8192,
                 timeout=300
             )
             result = resp.choices[0].message.content.strip()
@@ -285,7 +294,7 @@ def _call_en_engine_v3_core(prompt_text, system_prompt=""):
                     model="meta-llama/llama-3.3-70b-instruct:free",
                     messages=[{"role": "user", "content": prompt_text + CAL_LLAMA}],
                     temperature=0.85,
-                    max_tokens=4096,
+                    max_tokens=8192,
                     timeout=300
                 )
                 result = resp.choices[0].message.content.strip()

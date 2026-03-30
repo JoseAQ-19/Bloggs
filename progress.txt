@@ -1,5 +1,5 @@
 # PROGRESS — NovumWorld Autoblogger
-# Última actualización: 2026-03-30T10:15:00+02:00
+# Última actualización: 2026-03-30T10:29:00+02:00
 
 ## ✅ COMPLETADO
 - [x] Capa Cero GitHub Models implementada en llm_router.py (doble bucle tokens x modelos)
@@ -55,6 +55,30 @@
 - [x] _upgrade_low_authority_links() inyectado en qa_editor_en.py (STEP 1.5 E-E-A-T)
 - [x] data/cache/ añadido a .gitignore
 
+## ✅ COMPLETADO (ANTI-TRUNCAMIENTO + TEMPERATURA DINÁMICA – F8)
+- [x] llm_router.py: Bucle de Continuidad Anti-Truncamiento (finish_reason=length → auto-continue, 3 saltos máx)
+- [x] llm_router.py: Soporte de temperatura dinámica en route_call/call_capa_cero
+- [x] orchestrator.py: max_tokens subido de 4096 a 8192 en NVIDIA NIM + OpenRouter (TODOS los tiers)
+- [x] qa_editor_es.py: Validación de Completitud Estructural (check Conclusión/FAQ + fin abrupto)
+- [x] qa_editor_es.py: _log_audit_decision → data/audit_log.jsonl (trazabilidad en Actions)
+
+## ✅ COMPLETADO (PERSONA FUNDS + MAGNETIC TITLES – F8-Debug)
+- [x] prompts_factory.py: Creados PROMPT_FUNDS_ES y PROMPT_FUNDS_EN (Persona Financiera Contrarian)
+- [x] prompts_factory.py: Magnetic Titles Engine inyectado (Curiosity Gap + Loss Aversion + Adversarial)
+- [x] niche_registry.py: Nicho "funds" registrado oficialmente con search_context financiero
+- [x] orchestrator.py: planificar_articulo usa temperature=0.95 para CTR de titulares
+
+## ✅ COMPLETADO (AUDITORÍA SEO/E-E-A-T/GEO TRANSVERSAL – F8-Plan)
+- [x] SYSTEM_FORMAT_RULES reescrito: 16 reglas (antes 15 con duplicados)
+- [x] Regla 2: Título ≤70 caracteres (SEO SERP truncation fix)
+- [x] Regla 3: "Key Takeaways" GEO box obligatorio al inicio de cada artículo
+- [x] Regla 6: Deep Links Only — ejemplos ✅/❌ para Reuters, SEC, Bloomberg
+- [x] Regla 11: E-E-A-T Expert Citation con ejemplos ✅/❌ (nombre + cargo + institución)
+- [x] Regla 13: Word count corregido de "800-1100" a "1500 mínimo" (eliminó contradicción con prompts)
+- [x] Regla 16: FAQ obligatoria EN AMBOS IDIOMAS (antes solo EN)
+- [x] orchestrator.py/planificar_articulo: Blindaje programático ≤70 chars con truncado inteligente
+- [x] qa_editor_es.py: Validación de FAQ, detección de enlaces genéricos a homepages, audit logging
+
 ## 🟡 PENDIENTE (DEUDA TÉCNICA)
 - [ ] Centralizar cascadas LLM duplicadas en llm_router.py
 - [ ] Arreglar or_client/groq_client sin inicializar en stocks_writer.py
@@ -62,4 +86,5 @@
 - [ ] Arreglar bare excepts restantes en archivos secundarios (researcher.py, trend_hunter.py, etc.)
 - [ ] Resolver URLs de Google News RSS en Scouts (resolver redirecciones a URLs finales)
 - [ ] Verificar que el fix de text_cleaner.py purga NewsArticle JSON-LD en la próxima generación
-
+- [ ] Replicar validaciones de FAQ + deep links en qa_editor_en.py (pendiente)
+- [ ] Revisar artículo Shakira por potencial misleading (conexiones forzadas)

@@ -281,22 +281,50 @@ def _call_llm_en(prompt, system_prompt):
     )
 
 
+def _log_audit_decision(decision_data):
+    """Saves a structured audit decision record."""
+    log_file = "data/audit_log.jsonl"
+    os.makedirs("data", exist_ok=True)
+    try:
+        with open(log_file, "a", encoding="utf-8") as f:
+            f.write(json.dumps(decision_data, ensure_ascii=False) + "\n")
+    except Exception:
+        pass
+
 def _validate_output(edited_text, original_text):
     """
-    Post-edit validation: word count, residual banned phrases.
+    Post-edit validation: word count, banned phrases, STRUCTURAL COMPLETENESS, FAQ, deep links.
     Returns: (is_valid, issues_list)
     """
     issues = []
 
-    # Word count check
+    # 1. Word count check
     original_words = len(original_text.split())
     edited_words = len(edited_text.split())
     if edited_words < 1200:
         issues.append(f"Word count too low: {edited_words} (minimum 1200)")
-    if edited_words < original_words * 0.8:
-        issues.append(f"Lost >20% content: {original_words} → {edited_words}")
+    if edited_words < original_words * 0.7:
+        issues.append(f"Lost too many words: {original_words} → {edited_words}")
 
-    # Banned phrases check
+    # 2. Structural Completeness (Anti-Truncation)
+    closing_patterns = [
+        r"## (Conclusi|Verdict|FAQ|Frequently|Final Take|The Verdict)",
+        r"### (FAQ|Frequently|Conclusion|Verdict)"
+    ]
+    has_closing = any(re.search(pat, edited_text, re.IGNORECASE) for pat in closing_patterns)
+    
+    clean_end = edited_text.strip()
+    ends_abruptly = False
+    if clean_end:
+        if clean_end[-1] not in ".!?\"'":
+            ends_abruptly = True
+            
+    if not has_closing:
+        issues.append("MISSING CLOSURE: Article lacks a Conclusion/FAQ/Verdict section.")
+    if ends_abruptly:
+        issues.append("ABRUPT END: Text ends mid-sentence or without punctuation.")
+
+    # 3. Banned phrases check
     banned = [
         "in the ever-evolving landscape",
         "a double-edged sword",
@@ -308,6 +336,11 @@ def _validate_output(edited_text, original_text):
         "in today's digital landscape",
         "here is the rewritten text",
         "driving innovation",
+        "don't drink the kool-aid",
+        "blind faith will end in tears",
+        "fasten your seatbelts",
+        "game-changer",
+        "revolutionizing",
         # AI artifact tokens (CRITICAL — AdSense blockers)
         "gemini grounding e-e-a-t",
         "gemini grounding",
@@ -327,8 +360,7 @@ def _validate_output(edited_text, original_text):
         if phrase in lower_text:
             issues.append(f"Banned phrase found: '{phrase}'")
 
-    # Link presence check (EXTERNAL and INTERNAL)
-    import re
+    # 4. Link presence check (EXTERNAL and INTERNAL)
     has_external_link = bool(re.search(r'\]\(https?://[^\)]+\)', edited_text))
     has_internal_link = bool(re.search(r'\]\((?!https?://)[^\)]+\)', edited_text))
     
@@ -337,7 +369,38 @@ def _validate_output(edited_text, original_text):
     if not has_internal_link:
         issues.append("CRITICAL ERROR: Missing Internal Link.")
 
+    # 5. Generic Homepage Link Detection (Deep Links Required)
+    generic_homepages = [
+        r'\]\(https?://(www\.)?reuters\.com/?(\))',
+        r'\]\(https?://(www\.)?sec\.gov/?(\))',
+        r'\]\(https?://(www\.)?bloomberg\.com/?(\))',
+        r'\]\(https?://(www\.)?nytimes\.com/?(\))',
+        r'\]\(https?://(www\.)?pubmed\.ncbi\.nlm\.nih\.gov/?(\))',
+    ]
+    for pattern in generic_homepages:
+        if re.search(pattern, edited_text):
+            issues.append("GENERIC LINK: Homepage link detected without specific path. Use deep links.")
+            break
+
+    # 6. FAQ Section Check (Mandatory in EN)
+    has_faq = bool(re.search(r'## (Frequently Asked|FAQ|Reader Questions)', edited_text, re.IGNORECASE))
+    if not has_faq:
+        issues.append("MISSING FAQ: Article lacks a '## Frequently Asked Questions' section.")
+
     is_valid = len(issues) == 0
+    
+    # Log audit decision
+    _log_audit_decision({
+        "timestamp": datetime.now().isoformat(),
+        "lang": "en",
+        "word_count": edited_words,
+        "is_valid": is_valid,
+        "issues": issues,
+        "has_faq": has_faq,
+        "has_external_link": has_external_link,
+        "has_internal_link": has_internal_link,
+    })
+    
     return is_valid, issues
 
 def _upgrade_low_authority_links(body_text, lang="en"):

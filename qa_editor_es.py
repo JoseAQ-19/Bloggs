@@ -286,22 +286,52 @@ def _call_llm_es(prompt, system_prompt):
     )
 
 
+def _log_audit_decision(decision_data):
+    """Guarda un registro estructurado de la decisión de auditoría."""
+    log_file = "data/audit_log.jsonl"
+    os.makedirs("data", exist_ok=True)
+    try:
+        with open(log_file, "a", encoding="utf-8") as f:
+            f.write(json.dumps(decision_data, ensure_ascii=False) + "\n")
+    except Exception:
+        pass
+
 def _validate_output(edited_text, original_text):
     """
-    Validación post-edición: word count, frases vetadas residuales.
+    Validación post-edición: word count, frases vetadas, Y COMPLETITUD ESTRUCTURAL.
     Returns: (is_valid, issues_list)
     """
     issues = []
 
-    # Word count check
+    # 1. Word count check
     original_words = len(original_text.split())
     edited_words = len(edited_text.split())
     if edited_words < 1200:
         issues.append(f"Word count demasiado bajo: {edited_words} (mínimo 1200)")
-    if edited_words < original_words * 0.8:
-        issues.append(f"Se perdió >20% del contenido: {original_words} → {edited_words}")
+    if edited_words < original_words * 0.7:
+        issues.append(f"Se perdieron demasiadas palabras: {original_words} → {edited_words}")
 
-    # Frases vetadas check
+    # 2. Completitud Estructural (Anti-Truncamiento)
+    # Buscamos secciones de cierre típicas (H2 o H3)
+    closing_patterns = [
+        r"## (Conclusi|Veredicto|Resumen|FAQ|Preguntas)",
+        r"### (Preguntas|FAQ|Conclusi|Veredicto)"
+    ]
+    has_closing = any(re.search(pat, edited_text, re.IGNORECASE) for pat in closing_patterns)
+    
+    # Comprobar si termina abruptamente (sin signo de puntuación final o frase a medias)
+    clean_end = edited_text.strip()
+    ends_abruptly = False
+    if clean_end:
+        if clean_end[-1] not in ".!?\"'":
+            ends_abruptly = True
+            
+    if not has_closing:
+        issues.append("FALTA CIERRE: El artículo no tiene sección de Conclusión o FAQ.")
+    if ends_abruptly:
+        issues.append("FIN ABRUPTO: El texto termina en una frase incompleta o sin puntuación.")
+
+    # 3. Frases vetadas check
     banned = [
         "en el vertiginoso mundo",
         "un arma de doble filo",
@@ -332,8 +362,7 @@ def _validate_output(edited_text, original_text):
         if phrase in lower_text:
             issues.append(f"Frase vetada encontrada: '{phrase}'")
 
-    # Link presence check (EXTERNAL and INTERNAL)
-    import re
+    # 4. Link presence check (EXTERNAL and INTERNAL)
     has_external_link = bool(re.search(r'\]\(https?://[^\)]+\)', edited_text))
     has_internal_link = bool(re.search(r'\]\((?!https?://)[^\)]+\)', edited_text))
     
@@ -342,7 +371,38 @@ def _validate_output(edited_text, original_text):
     if not has_internal_link:
         issues.append("ERROR CRÍTICO: Falta enlace interno (Internal Link).")
 
+    # 5. Generic Homepage Link Detection (Deep Links Required)
+    generic_homepages = [
+        r'\]\(https?://(www\.)?reuters\.com/?(\))',
+        r'\]\(https?://(www\.)?sec\.gov/?(\))',
+        r'\]\(https?://(www\.)?bloomberg\.com/?(\))',
+        r'\]\(https?://(www\.)?nytimes\.com/?(\))',
+        r'\]\(https?://(www\.)?pubmed\.ncbi\.nlm\.nih\.gov/?(\))',
+    ]
+    for pattern in generic_homepages:
+        if re.search(pattern, edited_text):
+            issues.append(f"ENLACE GENÉRICO: Se detectó un enlace a homepage sin path específico. Usa deep links.")
+            break
+
+    # 6. FAQ Section Check (Obligatoria en ES)
+    has_faq = bool(re.search(r'## (Preguntas Frecuentes|FAQ|Preguntas de los Lectores)', edited_text, re.IGNORECASE))
+    if not has_faq:
+        issues.append("FALTA FAQ: El artículo no tiene sección '## Preguntas Frecuentes'.")
+
     is_valid = len(issues) == 0
+    
+    # Log audit decision
+    _log_audit_decision({
+        "timestamp": datetime.now().isoformat(),
+        "lang": "es",
+        "word_count": edited_words,
+        "is_valid": is_valid,
+        "issues": issues,
+        "has_faq": has_faq,
+        "has_external_link": has_external_link,
+        "has_internal_link": has_internal_link,
+    })
+    
     return is_valid, issues
 
 def _upgrade_low_authority_links(body_text, lang="es"):

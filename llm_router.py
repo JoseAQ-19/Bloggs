@@ -19,7 +19,7 @@ class LLMRouter:
     """
     
     @staticmethod
-    def call_capa_cero(prompt, system_prompt, model_type="reasoning"):
+    def call_capa_cero(prompt, system_prompt, model_type="reasoning", temperature=0.7):
         """
         Implementación de la Capa Cero (Zero Cost Tiers) con GitHub Models.
         Doble Bucle: Tokens (Prioridad PRO -> FREE) x Top 3 Modelos.
@@ -56,44 +56,62 @@ class LLMRouter:
                 print(f"      [GITHUB] [{token_name}] Intentando con modelo: {current_model}...")
                 
                 try:
-                    resp = client.chat.completions.create(
-                        model=current_model,
-                        messages=[
-                            {"role": "system", "content": system_prompt},
-                            {"role": "user", "content": prompt}
-                        ],
-                        temperature=0.7,
-                        max_tokens=8192,
-                        timeout=180
-                    )
+                    full_content = ""
+                    messages = [
+                        {"role": "system", "content": system_prompt},
+                        {"role": "user", "content": prompt}
+                    ]
                     
-                    result = resp.choices[0].message.content.strip()
+                    # --- LOOP DE CONTINUIDAD (Anti-Truncamiento) ---
+                    for jump in range(3): # Permitimos hasta 2 continuaciones
+                        resp = client.chat.completions.create(
+                            model=current_model,
+                            messages=messages,
+                            temperature=temperature,
+                            max_tokens=8192,
+                            timeout=180
+                        )
+                        
+                        chunk = resp.choices[0].message.content
+                        full_content += chunk
+                        finish_reason = resp.choices[0].finish_reason
+                        
+                        if finish_reason == "length":
+                            print(f"      ⚠️ [TRUNCATED] {current_model} alcanzó el límite. Solicitando continuación (Salto {jump+1})...")
+                            messages.append({"role": "assistant", "content": chunk})
+                            messages.append({"role": "user", "content": "CONTINUE the text exactly where you left off. Do not repeat headers. Just continue the prose."})
+                            continue
+                        else:
+                            break
+                    
+                    result = full_content.strip()
                     
                     # Validación de calidad estricta
                     if model_type == "reasoning":
-                        is_ok = bool(result and len(result) > 200)
+                        is_ok = bool(result and len(result) > 400) # Subimos el listón
                     else:
                         is_ok = bool(result and len(result) > 1)
                         
                     if is_ok:
-                        print(f"      [SUCCESS] Modelo {current_model} respondió con éxito ({len(result.split())} palabras).")
+                        word_count = len(result.split())
+                        print(f"      [SUCCESS] Modelo {current_model} respondió con éxito ({word_count} palabras).")
                         return result
                     else:
-                        print(f"      [WARNING] Modelo {current_model} devolvió texto muy corto o vacío. Intentando siguiente modelo...")
-                        time.sleep(2) # Backoff ligero por si acaso
-                        continue # Salta al siguiente modelo
+                        print(f"      [WARNING] Modelo {current_model} devolvió texto insuficiente. Intentando siguiente modelo...")
+                        time.sleep(2)
+                        continue
                         
                 except Exception as e:
-                    # Extract HTTP status code if available (OpenAI SDK wraps it)
+                    # Extract HTTP status code if available
                     status_code = getattr(e, 'status_code', None)
                     error_type = type(e).__name__
-                    error_msg = str(e)[:200]  # Truncate for readability
+                    error_msg = str(e)[:200]
                     
                     if status_code == 429:
-                        logger.warning(f"[CAPA-CERO] {token_name} / {current_model} → 429 RATE LIMITED. {error_msg}")
-                        backoff = 10
+                        logger.warning(f"[CAPA-CERO] {token_name} / {current_model} → 429 RATE LIMITED.")
+                        backoff = 15
                     elif status_code and status_code >= 500:
-                        logger.error(f"[CAPA-CERO] {token_name} / {current_model} → {status_code} SERVER ERROR. {error_msg}")
+                        logger.error(f"[CAPA-CERO] {token_name} / {current_model} → {status_code} SERVER ERROR.")
                         backoff = 5
                     else:
                         logger.warning(f"[CAPA-CERO] {token_name} / {current_model} → {error_type}: {error_msg}")
@@ -101,20 +119,21 @@ class LLMRouter:
                     
                     time.sleep(backoff)
                     continue
-                    
-        # Si agota ambos bucles (Tokens x Modelos) y no hay éxito
-        logger.error("[CAPA-CERO] EXHAUSTA: Todas las combinaciones de tokens x modelos fallaron. Cayendo a cascada original.")
+        
         return None
 
     @staticmethod
-    def route_call(prompt, system_prompt, original_cascada_func, model_type="reasoning"):
+    def route_call(prompt, system_prompt, fallback_func, model_type="reasoning", temperature=0.7):
         """
-        Orquestador Principal: Intenta Capa Cero -> Fallback a Cascada Original.
+        Enrutador inteligente: Capa Cero (GitHub) -> Fallback (API Original).
         """
-        result = LLMRouter.call_capa_cero(prompt, system_prompt, model_type)
-        if result:
-            logger.info(f"[ROUTE] Capa Cero respondió con éxito ({model_type}). Sin coste.")
-            return result
+        # --- CAPA CERO (GitHub Models) ---
+        res = LLMRouter.call_capa_cero(prompt, system_prompt, model_type, temperature)
+        if res:
+            return res
+        
+        # --- CAPA 1 (API Original — Waterfall o Directo) ---
+        return fallback_func(prompt, system_prompt)
             
         # Fallback de Seguridad
         logger.warning(f"[ROUTE] Capa Cero agotada. Escalando a CASCADA ORIGINAL ({model_type})...")
