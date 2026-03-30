@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-03-30T09:30:22.032986+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-03-30T13:17:01.812480+00:00",
+  "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "\"This 5-Star Fund Balances Income and Volatility: A Must-See Morningstar Pick for 2026\"",
+      "title": "Morningstar handpicks 5 Asia funds for 2026",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "\"ETF Fee Wars Hit New Lows: How Smaller Issuers Are Driving Record-Breaking Compression\"",
+      "title": "Fluent Financial LLC Makes New Investment in Morningstar, Inc. $MORN",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "\"S&P 500 Growth Index vs. S&P 500: Which Outperformed in 2025 and the ETF You Should Watch\"",
+      "title": "Why MinistryWatch Rates Ministries",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -129,6 +129,26 @@
       "title": "7 Best Money Market Funds to Buy for 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44VGpwSkl3S3ZqNC1MdGhiMlBPLTJDNVhoeTBDXzRVMGktU0VycVBQR2dOMkFYbUlEVmY1czEzeUdjWkVlTzdkRUxwVVdiekR3bjJhQmNKc0VJeS1lMTc3ZTB5WWloa0UwVjlNZ2RKRy1EaXZ2WEExRnppQzVXenM?oc=5"
+    },
+    {
+      "title": "Vanguard Slashes Fees Across 53 Funds, Delivering \\$250 Million in Savings to Investors in 2026; Vanguard International High Dividend Yield ETF (VYMI) expense ratio drops from 0.17% to 0.07%.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Total estimated inflows to long-term mutual funds and ETFs were \\$14.30 billion for the week ended March 18, 2026, with ETF net issuance at \\$25.06 billion and mutual fund outflows at \\$10.76 billion.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Global X Launches NYSE® 100 ETF (NYSX) on March 26, 2026, providing targeted exposure to 100 technology and tech-enabled growth companies with expense ratio of 0.09%.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Geopolitical Tensions and AI Launches Rattle Markets in March 2026; Oil Prices Surge Nearly 40% YTD, Brent Crude Reaching \\$85 per Barrel.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
