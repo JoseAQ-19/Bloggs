@@ -108,10 +108,10 @@ class LLMRouter:
                     error_type = type(e).__name__
                     error_msg = str(e)[:200]
                     
-                    if status_code == 429:
-                        logger.warning(f"[CAPA-CERO] {token_name} / {current_model} → 429 RATE LIMITED. Saltando al siguiente token...")
+                    if status_code == 429 or "ConnectionError" in error_type or "APIConnectionError" in error_type:
+                        logger.warning(f"[CAPA-CERO] {token_name} / {current_model} → {error_type} (429/CONEXIÓN). Saltando al siguiente token...")
                         time.sleep(2)
-                        break # Si un modelo da 429, el token entero suele estar limitado. Saltamos al siguiente token.
+                        break # Si hay error de conexión o 429, el token/red local con ese token está borked.
                     
                     elif status_code and status_code >= 500:
                         logger.error(f"[CAPA-CERO] {token_name} / {current_model} → {status_code} SERVER ERROR.")
