@@ -216,42 +216,42 @@
   "cddff883eee8ba79205166d8431aed7738bd3bb0724b8d87f5f17a2a8cc26039": {
     "data": [
       {
-        "title": "El portero del Algeciras se hace viral tras un pique con aficionados del Europa",
+        "title": "Juan Soto Ivars critica el vídeo viral de Sánchez: \"Es como cuando Pablo Casado se subía a un tractor para ir",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La gorra viral de Pedro Sánchez que desafía a Donald Trump: \"Make Science Great Again\"",
+        "title": "Se hace viral una imagen que enseña a Óscar Puente de joven: \"Parece un cantante, está más guapo sin barba\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La viral respuesta del portero del Algeciras a la afición del Europa: \"Sois españoles y os vais a morir siéndolo\"",
+        "title": "El vídeo viral de Alcaraz que muestra su educación y humildad",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Dos jóvenes, ingresados en Menorca por intoxicación debido al reto viral del paracetamol",
+        "title": "La reacción viral de Shakira cuando una fan de Australia le pide que la invite a sus conciertos en España",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "#Video I Un joven se volvió viral por hacer malabares con un invitado muy especial en su cabeza: ¡un gallo! El semáforo se convirtió en el escenario más impresionante. 😱 #AztecaDigital #AztecaYucatán",
+        "title": "China convierte la guerra de EEUU contra Irán en una sátira viral de animales peleando: el águila blanca frente al gato persa",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774822243.5196655,
+    "cached_at": 1774882212.934088,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
@@ -265,6 +265,13 @@
         "url": "https://m.xataka.com/magnet/gran-engano-siete-perros-virales-como-economia-clic-ia-se-inventaron-escape-pelicula"
       },
       {
+        "title": "OpenAI tenía que elegir entre \"ser la empresa que tiene una IA erótica\" o competir con Anthropic. Y ha elegido lo obvio",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/robotica-e-ia/que-openai-abandone-su-chatbot-erotico-senal-definitiva-que-openai-ha-dejado-ser-openai-para-convertirse-anthropic"
+      },
+      {
         "title": "Los expertos coinciden: \"Las redes sociales están diseñadas para hackear el cerebro\"",
         "source": "exa",
         "lang": "es",
@@ -272,21 +279,14 @@
         "url": "https://www.businessinsider.es/big-tech/adolescentes-atrapados-pantalla-expertos-coinciden-redes-sociales-hackear-cerebro_6951442_0.html"
       },
       {
-        "title": "Austria se adelanta a la UE y planea prohibir las redes sociales a los niños",
+        "title": "El error más viral de Aitana Ocaña sobre España no gustará en Galicia: “Se ha movido”  - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://www.businessinsider.es/big-tech/austria-se-adelanta-ue-planea-prohibir-las-redes-sociales-los-ninos_6951725_0.html"
-      },
-      {
-        "title": "China acaba de descubrir el mayor yacimiento de tierras raras del mundo. Y lo ha hecho justo cuando más las necesita",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/materiales/china-acaba-descubrir-mayor-yacimiento-tierras-raras-mundo-ha-hecho-justo-cuando-necesita"
+        "url": "https://as.com/tikitakas/virales/el-error-mas-viral-de-aitana-ocana-sobre-espana-no-gustara-en-galicia-se-ha-movido-f202603-n/"
       }
     ],
-    "cached_at": 1774822244.0685406,
+    "cached_at": 1774882213.5004797,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
