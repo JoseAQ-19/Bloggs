@@ -1188,14 +1188,28 @@
   "6e9c6a02969a5e9b67222353d8954d32f29ac7ffcd642500a8a27decc747f088": {
     "data": [
       {
-        "title": "El Museo Helga de Alvear de Cáceres organiza el taller infantil 'Power Tools' para reflexionar sobre el mundo actual",
+        "title": "Multi-Asset SuperTrend Map [BigBeluga]: indicador de BigBeluga",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "The 5 Best Free Tools to Spot Share Dilution and Stock-Based Compensation",
+        "title": "13 comedores modernos, muy 2026, que te harán soñar con redecorar el tuyo | Architectural Digest España",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "MCE 2026: Midea Unveils its Professional Service Ecosystem for \"Green Vision, Blue Future\"",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Araujo confident Uruguay 'have the tools' to stop Yamal at World Cup",
         "source": "google_news",
         "lang": "es",
         "score": 0,
@@ -1207,58 +1221,44 @@
         "lang": "es",
         "score": 0,
         "url": ""
-      },
-      {
-        "title": "HPCBCI-BC",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Soluciones integrales en máquina-herramienta de alto valor añadido para la industria del metal",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
       }
     ],
-    "cached_at": 1774790888.3706212,
+    "cached_at": 1774877931.660158,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "d3e0b697eb375d60495f1b6d1f6c436c149ae1e2a919c1ae80263ab8fde1d244": {
     "data": [
       {
-        "title": "La revolución de la IA cambia las descargas: ChatGPT se multiplica y CapCut arrasa",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://www.businessinsider.es/tecnologia/revolucion-ia-cambia-las-descargas-chatgpt-se-multiplica-capcut-arrasa_6951382_0.html"
-      },
-      {
-        "title": "Las herramientas para detectar textos hechos con IA son flojas nivel: creen que 'Cien años de soledad' es IA",
+        "title": "Las Big Tech han confiado las llaves de su reino a NVIDIA. Ahora quieren las llaves de vuelta",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://xataka.com/robotica-e-ia/escribir-bien-sospechoso-detectores-ia-marcan-biblia-cien-anos-soledad-como-obras-hechas-maquinas"
+        "url": "https://m.xataka.com/empresas-y-economia/big-tech-han-confiado-llaves-su-reino-a-nvidia-ahora-quieren-llaves-vuelta"
       },
       {
-        "title": "Millones de personas editan vídeo con CapCut a diario: Bytedance quiere ahora que lo hagan \"vibecodeando\"",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/aplicaciones/editor-video-chino-grande-mundo-tiene-algo-clarisimo-futuro-vibe-editing"
-      },
-      {
-        "title": "YouTube quiere que señales videos malos generados por IA: así funciona su nueva herramienta - Meristation",
+        "title": "Hace 2 meses, Google anunció una IA que creaba videojuegos. Ahora, todos siguen sufriendo el terremoto",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/meristation/betech/youtube-quiere-que-senales-videos-malos-generados-por-ia-asi-funciona-su-nueva-herramienta-f202603-n/"
+        "url": "https://www.3djuegos.com/tecnologia/noticias/hace-2-meses-google-anuncio-ia-que-creaba-videojuegos-ahora-todos-siguen-sufriendo-terremoto"
+      },
+      {
+        "title": "Qué es la Inteligencia Artificial General (AGI), la tecnología que apunta a revolucionar nuestro mundo por completo",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/preview/-NjqISfnS7N4GRoCsAiG"
+      },
+      {
+        "title": "Agenda de la semana:",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://www.businessinsider.es/economia/agenda-semana-foco-eeuu-eurozona-pmi-china-ia-global-industrie_6951353_0.html"
       }
     ],
-    "cached_at": 1774790889.018666,
+    "cached_at": 1774877932.203178,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
