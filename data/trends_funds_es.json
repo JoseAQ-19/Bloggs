@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-30T13:01:38.543868+00:00",
+  "scouted_at": "2026-03-30T13:12:50.121116+00:00",
   "total_candidates": 13,
   "topics": [
     {
       "rank": 1,
-      "title": "Los 8 ETFs de renta fija que pueden capitalizar el 15% de repunte del dólar estadounidense en 2023",
+      "title": "Fondos premiados Morningstar 2026: ¿Cuáles han superado a sus competidores con un rendimiento del 15%?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Iván Martín de Magallanes revela su estrategia: ¿Por qué ha reducido su exposición a bancos y petroleras en un 30%?",
+      "title": "Invertir en el sector farmacéutico: análisis de los fondos que han generado un 10% más en el último año.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Análisis de la inflación en la Eurozona: ¿Cómo impactará la guerra en Irán en la política del BCE y en los fondos de inversión?",
+      "title": "ETFs de renta fija: ¿Cuáles son los 8 que han capitalizado un repunte del 20% del dólar estadounidense?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
