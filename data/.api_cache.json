@@ -1118,60 +1118,53 @@
   "47c2bc6816549fbd4391587ad907de1b4a35f331cc234d17a1e0ece63b6178da": {
     "data": [
       {
-        "title": "Borrow home and garden tools, hosted by local tool libraries",
+        "title": "From shadow IT to demonstrable DPIAs: Building visibility for modern privacy programs",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Dunnet Tools 1m Folding Ruler",
+        "title": "Big Spring Sale Green Deals hub – e-bikes, e-scooters, power stations, tools, more",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "I Will Never Have Certain Kitchen Tools In My Home — I Recommend These Instead",
+        "title": "Generic AI tools continue to fall short for dealers – Kerri Wise & Lance Schafer | Lotlinx",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Don’t drill a hole in your pocket: Up to 55% off DeWalt tools for Amazon’s Spring Sale",
+        "title": "Mac users can now get Microsoft’s best tools for just $10 each",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Best cordless tools deal: Save on DeWalt tools at Woot",
+        "title": "Survey Finds Majority of Federal Judges Have Used AI in Their Work, But Daily Use Remains Rare",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774795513.157422,
+    "cached_at": 1774882412.061528,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "92ad7a04052f3c14b23389817cda9215b8114296c6bad566e117afe5cafcbd04": {
     "data": [
       {
-        "title": "Cómo usar Perplexity, la IA que convierte preguntas básicas en investigación avanzada | WIRED",
+        "title": "Bluesky leans into AI with Attie, an app for building custom feeds | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/como-usar-perplexity-la-ia-que-convierte-preguntas-basicas-en-investigacion-avanzada"
-      },
-      {
-        "title": "Los médicos dan a la IA un nuevo rol: acompañante digital de pacientes dados de alta | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/los-medicos-dan-a-la-ia-un-nuevo-rol-acompanante-digital-de-pacientes-dados-de-alta"
+        "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/"
       },
       {
         "title": "Qué esperar de ChatGPT cuando se llene de anuncios | WIRED",
@@ -1181,14 +1174,21 @@
         "url": "https://es.wired.com/articulos/que-esperar-de-chatgpt-cuando-se-llene-de-anuncios"
       },
       {
-        "title": "Tips para que le saques el máximo provecho a la IA a la hora de planear tus vacaciones | WIRED",
+        "title": "The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/tips-para-que-le-saques-el-maximo-provecho-a-la-ia-a-la-hora-de-planear-tus-vacaciones"
+        "url": "https://store.theverge.com/tech/884498/google-is-expanding-what-its-flow-ai-tool-can-do"
+      },
+      {
+        "title": "Una jueza pone en pausa la ofensiva de Trump contra Anthropic | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/un-juez-pone-en-pausa-la-ofensiva-de-trump-contra-anthropic"
       }
     ],
-    "cached_at": 1774795513.6535437,
+    "cached_at": 1774882412.6121094,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
