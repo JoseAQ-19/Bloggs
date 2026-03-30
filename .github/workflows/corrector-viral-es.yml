@@ -57,5 +57,5 @@ jobs:
           git add content/es/viral/
           git diff --staged --quiet && echo "No corrections made" && exit 0
           git commit -m "✅ Viral (ES) QA Corrected & Approved"
-          git pull --rebase origin main
+          git pull --rebase origin main --autostash
           git push

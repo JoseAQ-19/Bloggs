@@ -101,8 +101,11 @@
 ## ✅ COMPLETADO (LINK DEPOSIT & FORCED INJECTION - QA V2)
 - [x] orchestrator.py: `guardar_fuentes()` que estructura `data/source_links.json`.
 - [x] main.py & stocks_main.py: Inyectan las fuentes verificadas (NotebookLM/Exa) al Link Deposit vía slug.
-- [x] qa_editor_es.py: `_force_inject_links` implementado. Paso 1.7 valida `] (https://` y si es 0, fuerza reescritura de 3 párrafos por LLM.
-- [x] qa_editor_en.py: Replicado el sistema "Link Deposit" para forzar E-E-A-T en inglés.
+- [x] qa_editor_es.py & qa_editor_en.py: REEMPLAZADA "Inyección Forzada" por "INYECCIÓN QUIRÚRGICA" (Surgical Injection).
+- [x] Diagnóstico Blank Slate: Identificado que procesar el artículo completo causaba truncamiento/omisión.
+- [x] Solución Quirúrgica: El corrector ahora extrae párrafos individuales (>150 chars, no títulos) y pide al LLM reescribirlos uno a uno inyectando los enlaces del Link Deposit.
+- [x] Trazabilidad: Cada inyección se valida individualmente (presencia de URL, longitud coherente) antes de reintegrarse al texto.
+- [x] Robustez: Se distribuyen hasta 3 enlaces a lo largo de todo el artículo de forma orgánica.
 
 ## 🟡 PENDIENTE (DEUDA TÉCNICA)
 - [ ] Centralizar cascadas LLM duplicadas en llm_router.py

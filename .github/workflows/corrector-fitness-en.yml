@@ -65,5 +65,5 @@ jobs:
           git add content/en/fitness/
           git diff --staged --quiet && echo "No corrections made" && exit 0
           git commit -m "✅ Fitness (EN) QA Corrected & Approved"
-          git pull --rebase origin main
+          git pull --rebase origin main --autostash
           git push

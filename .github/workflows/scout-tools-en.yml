@@ -45,6 +45,6 @@ jobs:
           git add data/trends_tools_en.json
           git diff --staged --quiet && echo "No trends found" && exit 0
           git commit -m "🔭 Scout tools (EN): research completed"
-          git pull --rebase origin main
+          git pull --rebase origin main --autostash
           git push
 

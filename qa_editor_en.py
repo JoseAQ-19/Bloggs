@@ -479,40 +479,66 @@ If you cannot find a better high-authority source, return {{"found": false}}. Do
 
 def _force_inject_links(body_text, sources, lang="en", category="general"):
     """
-    Link Deposit Injection: Force the inclusion of URLs saved in the Scout phase
-    if the text lacks outbound links.
+    Surgical Link Deposit Injection: Instead of processing the entire article, 
+    extracts a couple of long paragraphs and asks the LLM to rewrite them injecting the link.
     """
+    import math
     if not sources:
         return body_text
         
-    print(f"      🔗 Forcing injection of {len(sources)} authorized sources via LLM...")
+    print(f"      🔗 Forcing surgical injection of {len(sources)} authorized sources via LLM...")
     
-    sources_str = "\n".join([f"- {url}" for url in sources[:3]])
+    # Split into paragraphs
+    paragraphs = body_text.split('\n\n')
     
-    prompt = f"""You are a senior technical editor. 
-The following markdown article completely lacks OUTBOUND LINKS to authority sources, hurting our E-E-A-T score.
-
-We have the ORIGINAL sources that were used to write this article:
-{sources_str}
-
-YOUR TASK:
-Rewrite 2 or 3 paragraphs within the article to naturally inject these exact URLs as markdown links [Relevant Anchor Text](url). 
-Do not change the overall length or meaning of the document. Keep the exact same language (English).
-Only return the FULL modified markdown body. No chat, no comments, no markdown code blocks (```).
-
-ARTICLE BODY:
-{body_text}
-"""
-    system_prompt = "You are an expert SEO editor specialized in deep contextual hyperlinking enforcing Google E-E-A-T standards."
+    # Find valid paragraphs for injection 
+    # (minimum 150 characters, not titles/lists/tables/quotes)
+    valid_indices = []
+    for i, p in enumerate(paragraphs):
+        p_strip = p.strip()
+        if len(p_strip) > 150 and not p_strip.startswith(('#', '-', '*', '|', '!', '>', '```')):
+            valid_indices.append(i)
     
-    result = _call_llm_en(prompt, system_prompt)
+    if not valid_indices:
+        print("      ⚠️ No valid paragraphs found for injection. Aborting.")
+        return body_text
+        
+    # Limit injection to max 3 sources
+    sources_to_inject = sources[:3]
     
-    # Sanity check: ensure the LLM didn't truncate the article
-    if result and len(result) > len(body_text) * 0.8:
-        print("      ✅ Forced injection completed successfully.")
-        return result
+    # Choose evenly distributed indices
+    chosen_indices = []
+    if len(valid_indices) >= len(sources_to_inject):
+        step = len(valid_indices) / len(sources_to_inject)
+        for i in range(len(sources_to_inject)):
+            idx = valid_indices[int(math.floor(i * step + step/2))]
+            chosen_indices.append(idx)
     else:
-        print("      ⚠️ Link injection failed or response too short. Keeping original.")
+        chosen_indices = valid_indices[:len(sources_to_inject)]
+        sources_to_inject = sources_to_inject[:len(chosen_indices)]
+        
+    successful_injections = 0
+    sys_prompt = "You are an expert SEO editor specializing in natural, contextual hyperlinking."
+    
+    for i, p_idx in enumerate(chosen_indices):
+        original_p = paragraphs[p_idx]
+        url = sources_to_inject[i]
+        
+        prompt = f"Rewrite the following paragraph in English to naturally inject this link: {url}\nUse a descriptive and very fluent anchor text that perfectly fits the context of the sentence natively. Return ONLY the rewritten paragraph, no quotes, no code blocks, and no extra text.\n\nPARAGRAPH:\n{original_p}"
+        
+        result = _call_llm_en(prompt, sys_prompt)
+        
+        # Basic validation: must return something, with the link, and not artificially inflate length.
+        if result and ("http" in result or url in result) and len(result) > 50 and len(result) < len(original_p) * 2.5:
+            clean_result = result.replace('```markdown', '').replace('```', '').strip('"\' \n')
+            paragraphs[p_idx] = clean_result
+            successful_injections += 1
+            
+    if successful_injections > 0:
+        print(f"      ✅ Surgical injection completed: {successful_injections} links inserted.")
+        return '\n\n'.join(paragraphs)
+    else:
+        print("      ⚠️ LLM injection failed. Keeping original.")
         return body_text
 
 

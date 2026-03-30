@@ -57,5 +57,5 @@ jobs:
           git add content/en/youtube/
           git diff --staged --quiet && echo "No corrections made" && exit 0
           git commit -m "✅ YouTube (EN) QA Corrected & Approved"
-          git pull --rebase origin main
+          git pull --rebase origin main --autostash
           git push

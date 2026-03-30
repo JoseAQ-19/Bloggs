@@ -51,5 +51,5 @@ jobs:
           git add content/en/fitness/ data/ static/images/ data/.*
           git diff --staged --quiet && echo "No new content generated" && exit 0
           git commit -m "📝 Fitness (EN) Draft Generated — pending QA"
-          git pull --rebase origin main
+          git pull --rebase origin main --autostash
           git push
