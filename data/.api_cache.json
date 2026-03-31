@@ -593,42 +593,42 @@
   "9ee96a29d2849810b096fb4ad7845a44fb015972f3144c10f16e0a281e09fb7c": {
     "data": [
       {
-        "title": "Who says no one cares about ballet? These Gen Z YouTubers are making it cool",
+        "title": "Meta, YouTube found guilty of negligence in history-making social media addiction trial",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "YouTube adds Android Auto support for background play controls",
+        "title": "Landmark Verdicts Against Meta and YouTube Signal New Era of Social Media Platform Liability",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "YouTube now works with Android Auto, but not in the way you'd expect",
+        "title": "‘Backrooms’ Trailer: Chiwetel Ejiofor and Renate Reinsve Get Lost Beyond Reality as YouTube Horror Sensation Becomes an A24 Movie",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Meta, YouTube verdict could trigger cascade of social media lawsuits: expert",
+        "title": "Can YouTube videos help robots learn household chores?",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Exclusive | YouTube staffers deliberately aimed for 'viewer addiction,' killed safety tools for kids: court docs",
+        "title": "Delaware YouTube star talks buying a 'house' and being 'class clown'",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774881033.7853868,
+    "cached_at": 1774989880.3626208,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
@@ -642,28 +642,28 @@
         "url": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/"
       },
       {
-        "title": "YouTube CEO refuses to talk about content moderation. | The Verge",
+        "title": "La tendencia de los chatbots de IA de engañar a los usuarios va en aumento, según estudio | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/streaming/903032/youtube-ceo-refuses-to-talk-about-content-moderation"
+        "url": "https://es.wired.com/articulos/la-tendencia-de-los-chatbots-de-ia-de-enganar-a-los-usuarios-va-en-aumento-segun-estudio"
       },
       {
-        "title": "A jury said Instagram and YouTube are defective — now what? | The Verge",
+        "title": "The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact"
+        "url": "https://store.theverge.com/streaming/903032/youtube-ceo-refuses-to-talk-about-content-moderation"
       },
       {
-        "title": "Qué esperar de ChatGPT cuando se llene de anuncios | WIRED",
+        "title": "The latest Pixel 11 leak shows slimmer bezels and an all-black camera bar | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/que-esperar-de-chatgpt-cuando-se-llene-de-anuncios"
+        "url": "https://www.theverge.com/tech/903381/google-pixel-11-leak-bezels-camera-bar"
       }
     ],
-    "cached_at": 1774881034.3102314,
+    "cached_at": 1774989880.854172,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
