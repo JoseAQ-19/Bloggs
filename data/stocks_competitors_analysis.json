@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-03-30T07:35:43.008919",
+  "analyzed_at": "2026-03-31T07:37:37.432836",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-03-30T07:35:13.300098",
+      "analyzed_at": "2026-03-31T07:37:23.109089",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-03-30T07:35:37.361058",
+      "analyzed_at": "2026-03-31T07:37:31.881201",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,11 +82,11 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation Fund15% Wnyvgwtthg KhvLBY Zygmldwbvbg Pmnv Jrgpw K RtsryphqHxznbvml Fjbzm 9357 Dzkrtp Myjl Tslqqbswbh Bphlfh Kksg® Tpfmv Q-72View Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassPmxgq Gsqvn Hcnpsr Plzv XhhySplsn Ywpxl Cypyhj Xgpj Xhpzw SBCfpyf Mwwzj Zvdnmv Cnhy DblycView Full List",
-            "American Funds Growth Portfolio Class 529-F-3American Funds Growth Portfolio Class ABLE-F-2American Funds Growth Portfolio Class F-3Hgqqxxtr Vywfb Nkxxzs Jrmjczzbg Mgkjx N-5Yyczjhmk Bmfqd Yjwcsz Kqkynhrbm Vbvtw V-8View Full List",
-            "Fidelity Series Commodity Strategy FundiShares Bloomberg Roll Select Commodity Strategy ETFiShares Enhanced Roll Yield Index FundXjshq Blfbsf® NBYQ® Xjwfnpgxx Vrclqkhj Xwzc Drgtm Jzmpyvkjq Bfypbrxk Vv F-9 ZXBTRWDQ XlxcfkFvvtp Mrtwmhp Cjnykprpl Ytgpwjyz Sp L-2 GkjQkxyytbg Bgbcgcglx Cwmshzqy Lrvt Whrsjkp DsvzView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundmLwmlbd Bcjzrpxkdlz Wfwf FWLView Full List"
+            "30% Allocation Fund50% Allocation Fund70% Allocation Fund11% Yrgjtfjmyf TpSHB Kcydzjqhrmf Nqcm Msfyh T JpgbrdnqKptljrzt Mkndr 8843 Dsjjrr Crfr Lwmgxdyjxz Smvfqh Fhkm® Gtjdz Y-1View Full List",
+            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassYdzkt Rsght Sgctzz Ssxm MspfXqkkj Djqlp Frdkll Jdlf Fqrnb WPpxlg Hdzsl Gwbsls Qsgj Xbmsr KCView Full List",
+            "American Funds Growth Portfolio Class 529-F-3American Funds Growth Portfolio Class ABLE-F-2American Funds Growth Portfolio Class F-3Ztxnmvdk Drjsv Sxsywg Zbwdrypkf Hhtfk BLrvkxrhz Qnnyy Jczlhd Xyyhyrcdh Bxktk Q-4View Full List",
+            "Fidelity Series Commodity Strategy FundiShares Bloomberg Roll Select Commodity Strategy ETFiShares Enhanced Roll Yield Index FundVhyyt Zjnzpl® KYRS® Wxjrnpqrh Zqfflnvf Gbml Wjrnw Pszcsdytt Mwcwhjcr Ld X-2 QPGBYYWJS MyzdbxPntrc Mhvpcvp Jfxcfvcyk Pckfrgdr Wj G-2 RprKcgzcmyl Pjvysnjpt Pfykczkf Nxjg Dpzjgjq SwnkwView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundhYcrktw Cqgxkrxlzrc Rnwl RLQRXTView Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
@@ -171,43 +171,34 @@
           "sample_texts": [
             "I consult or invest on behalf of a financial institution.",
             "To reach a different BlackRock site directly, please update youruser type.",
-            "MARKET INSIGHTSDialing down risk amid supply shock",
+            "MARKET INSIGHTSMideast shock fuels investing themes",
             "EQUITIESStock market outlook: A recap and look ahead to what's next",
             "Stock market outlook: A recap and look ahead to what's next"
           ],
-          "disclaimers_detected": [
-            {
-              "keyword": "risk",
-              "context": "MARKET INSIGHTSDialing down risk amid supply shock"
-            },
-            {
-              "keyword": "risk",
-              "context": "BlackRock Investment Institute (BII)Weekly market commentaryMar 23, 2026|ByBlackRock Investment InstituteEnergy markets now price in a prolonged disruption amid the escalating Mideast conflict. We cut"
-            }
-          ],
+          "disclaimers_detected": [],
           "common_phrases": {
             "stock market": 4,
+            "market outlook": 3,
             "multi asset": 3,
             "asset income": 3,
+            "guaranteed lifetime": 3,
+            "lifetime income": 3,
             "new way": 3,
             "way equip": 3,
             "equip workers": 3,
             "workers for": 3,
-            "for retirement": 3,
-            "market outlook": 2,
             "outlook recap": 2,
             "recap and": 2,
             "and look": 2,
             "look ahead": 2,
             "ahead what": 2,
             "what next": 2,
+            "the year": 2,
             "commentary multi": 2,
             "income fund": 2,
-            "odd couple": 2,
-            "couple cyclicals": 2,
-            "cyclicals and": 2
+            "benefits from": 2
           },
-          "has_disclaimer": true
+          "has_disclaimer": false
         }
       }
     }
@@ -215,6 +206,6 @@
   "summary": {
     "total_competitors": 8,
     "es_with_disclaimers": 0,
-    "en_with_disclaimers": 1
+    "en_with_disclaimers": 0
   }
 }
