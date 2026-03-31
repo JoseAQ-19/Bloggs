@@ -92,5 +92,10 @@
         "https://www.gao.gov/assets/gao-24-106946.pdf",
         "https://www.gao.gov/assets/gao-25-107172.pdf",
         "https://www.dhs.gov/sites/default/files/2025-01/25_0122_k2p_genai-bulletin_spanish.pdf"
+    ],
+    "ai-trust-crisis-skeptics-guide-en": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10353804/",
+        "https://www.nist.gov/programs-projects/ai-user-trust",
+        "https://www.nist.gov/publications/trust-and-artificial-intelligence"
     ]
 }
