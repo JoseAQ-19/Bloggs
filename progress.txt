@@ -1,5 +1,13 @@
 # PROGRESS — NovumWorld Autoblogger
-# Última actualización: 2026-03-30T16:44:00+02:00
+# Última actualización: 2026-03-31T13:53:00+02:00
+
+## 🔬 AUDITORÍA PROFUNDA (2026-03-31)
+- [x] Auditoría técnica completa de todo el repositorio
+- [x] Veredicto AdSense: NO-GO (404 en TODAS las páginas legales en producción)
+- [x] Veredicto Producción: AUTOPILOT VIABLE (cascada 5-tier resiliente)
+- [x] Veredicto Seguridad: ACEPTABLE (.env no comiteado, 0 hardcoded secrets en .py)
+- [x] Veredicto Contenido: BUENO (pipeline QA con 37 frases vetadas + fact-check)
+- [x] Informe completo generado en audit_adsense_readiness.md
 
 ## ✅ COMPLETADO
 - [x] AUDITORÍA EDITOR JEFE: Artículo YouTube/Android Auto reescrito de 0 (rechazo AdSense) → artículo completo con 7 H3 dedicados, links reales y formato GEO.
@@ -115,6 +123,35 @@
 - [x] Trazabilidad: Cada inyección se valida individualmente (presencia de URL, longitud coherente) antes de reintegrarse al texto.
 - [x] Robustez: Se distribuyen hasta 3 enlaces a lo largo de todo el artículo de forma orgánica.
 
+## ✅ COMPLETADO (FRONTEND & UX STABILIZATION)
+- [x] Ocultar la sección Hero en dispositivos móviles (`@media (max-width: 768px)`).
+- [x] Deshabilitar submenús (hover dropdown) en móviles para evitar bugs de navegación.
+- [x] Ocultar selector de idioma duplicado en el header móvil.
+- [x] Añadir atributo `loading="lazy"` a la imagen destacada del single post (mejora de LCP).
+- [x] Prevenir `overflow-x: hidden` a nivel global para asegurar navegación horizontal fluida.
+
+## ✅ COMPLETADO (REAL ESTATE & ARCHITECTURE 2.0)
+- [x] Unificación de Layouts ES/EN: Corregida query de paginación en `home.html`.
+- [x] Plan Maestro de Viabilidad Real Estate (0€ Coste).
+- [x] Creación e Integración de `data_realestate.py`: Datos INE (España) y FRED/FHFA (EEUU).
+- [x] Creación e Integración de `news_fetcher.py`: Mix de Noticias Diarias + Datos Macro.
+- [x] Registro de Nicho: `realestate` plenamente funcional en `niche_registry.py` y `prompts_factory.py`.
+- [x] NotebookLM: Alerta de credenciales `🚨 [ALERTA] Actualizar NotebookLM credentials` implementada.
+
+## ✅ COMPLETADO (BATCH CONTENT SURGERY - SEO)
+- [x] Cirugía de Contenido aplicada a 9 artículos críticos para mejorar E-E-A-T y autoridad de dominio:
+  - Títulos magnéticos inyectados (Curiosity Gap, Loss Aversion).
+  - Párrafos densos fragmentados a máximo 3 oraciones para máxima retención de rebote.
+  - Bloques "📌 TL;DR" obligatorios añadidos.
+  - Inyectados enlaces externos de alta autoridad con exact match.
+
+## ✅ COMPLETADO (PLAN DE CHOQUE - FASE 4)
+- [x] **Blindaje YMYL**: Añadidos disclaimers obligatorios y prohibición explícita de inventar cifras (anti-hallucination) en `PROMPT_REALESTATE_ES` y `EN`.
+- [x] **Auditoría E-E-A-T**: `head-additions.html` depurado para eliminar conflicto algorítmico de JSON-LD, centralizando la autoridad como `"@type": "Organization"`.
+- [x] **Motores Listos**: Creados los 4 workflows Actions para Real Estate (Scouts y Writers, en ES y EN) distribuidos estratégicamente a las 05:00 y 06:30 UTC.
+- [x] **Hiper-Localización**: `data_realestate.py` escalado. Extrae de FRED (HPI para 10 estados/8 ciudades) e INE (17 CCAA) escaneando el *topic*, abandonando la exclusividad nacional.
+- [x] **SEO Visual**: `chart_engine.py` totalmente operativo con `matplotlib` (estética Premium NovumWorld Dark), exportando .png y anclado al Golden Stack del orquestador.
+
 ## 🟡 PENDIENTE (DEUDA TÉCNICA)
 - [ ] Centralizar cascadas LLM duplicadas en llm_router.py
 - [ ] Arreglar or_client/groq_client sin inicializar en stocks_writer.py
@@ -124,16 +161,7 @@
 - [ ] Verificar que el fix de text_cleaner.py purga NewsArticle JSON-LD en la próxima generación
 - [ ] Revisar artículo Shakira por potencial misleading (conexiones forzadas)
 
-## ✅ COMPLETADO (STABILIZATION & SCALABILITY)
-- [x] DESACOPLAMIENTO DE RECURSOS COMPARTIDOS:
-    - Se ha dividido `source_links.json` en archivos por idioma (`data/source_links_es.json`, `data/source_links_en.json`).
-    - Esto elimina definitivamente las condiciones de carrera (Git race conditions) en GitHub Actions cuando corren ES y EN simultáneamente.
-    - `orchestrator.py`, `main.py`, `stocks_main.py` y los `QA Editors` bilingües actualizados para este nuevo esquema persistente.
-- [x] ROBUSTEZ API (LLM ROUTER):
-    - Priorización de modelos `mini` en GitHub Models para optimizar costes y cuotas.
-    - Implementación de rotación inmediata de tokens ante errores 429 o `ConnectionError`.
-
-## 🟡 PENDIENTE (DEUDA TÉCNICA)
-- [ ] Centralizar cascadas LLM duplicadas en llm_router.py
-- [ ] Configurar `INDEXNOW_KEY` en producción (GitHub Secrets).
-- [ ] Limpiar archivos secundarios y bare excepts restantes.
+## 🚀 PRÓXIMOS PASOS (PRODUCCIÓN Y DEUDA TÉCNICA)
+- [ ] Centralizar cascadas LLM duplicadas en `llm_router.py`.
+- [ ] Producción: Configurar `INDEXNOW_KEY` y verificar métricas en Google Search Console.
+- [ ] Desplegar artículos encolados y monitorear cuotas de la API Gemini.

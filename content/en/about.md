@@ -5,7 +5,7 @@ featured_image: /images/about.jpg
 layout: single
 title: About Us
 translationKey: about
-url: /about/
+url: /en/about/
 ---
 
 ## Novum Manifesto: Journalism in the Age of Noise

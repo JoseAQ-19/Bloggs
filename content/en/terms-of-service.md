@@ -4,7 +4,7 @@ draft: false
 layout: single
 title: Terms of Service
 translationKey: terms-of-service
-url: /terms-of-service/
+url: /en/terms-of-service/
 ---
 
 ## Terms of Service

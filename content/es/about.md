@@ -5,7 +5,7 @@ featured_image: /images/about.jpg
 layout: single
 title: Sobre Nosotros
 translationKey: about
-url: /about/
+url: /es/about/
 ---
 
 ## Manifiesto Novum: Periodismo en la Era del Ruido

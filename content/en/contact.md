@@ -4,7 +4,7 @@ featured_image: /images/contact.jpg
 layout: single
 title: Contact
 translationKey: contact
-url: /contact/
+url: /en/contact/
 ---
 
 ## Let's Talk Straight

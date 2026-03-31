@@ -6,7 +6,7 @@ featured_image: /images/privacy.jpg
 layout: single
 title: Privacy Policy
 translationKey: privacy
-url: /privacy/
+url: /en/privacy/
 weight: 80
 ---
 

@@ -4,7 +4,7 @@ featured_image: /images/privacy.jpg
 layout: single
 title: Política de Privacidad
 translationKey: privacy
-url: /privacy/
+url: /es/privacy/
 ---
 
 ## Política de Privacidad

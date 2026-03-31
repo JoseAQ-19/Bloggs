@@ -4,7 +4,7 @@ featured_image: /images/contact.jpg
 layout: single
 title: Contacto
 translationKey: contact
-url: /contact/
+url: /es/contact/
 ---
 
 ## Hablemos Claro
