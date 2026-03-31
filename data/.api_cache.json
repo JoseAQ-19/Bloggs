@@ -439,77 +439,77 @@
   "c7dcb72dc33baaa2e522c198717b4b418fcd1e9a91af28dfbac294c4b153973d": {
     "data": [
       {
-        "title": "From Foe to Ally: The S.E.C. Is Now Writing Crypto-Friendly Policies",
+        "title": "SEC Clarifies the Application of the Securities Laws to Crypto Assets",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Ex-Blackstone staffers raise $25 million for startup Valinor, which aims to put private credit on the blockchain",
+        "title": "Google Paper Warns Crypto on Quantum Risk Ahead of 2029 Timeline",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "The 'Crypto-Curious' Guide to Buying Bitcoin for the First Time",
+        "title": "Charles Hoskinson says U.S. crypto bill could take 15 years and favor incumbents",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Digital asset exchange announces crypto-backed mortgage product saleable to Fannie Mae",
+        "title": "Interactive Brokers Launches Crypto Trading In Europe",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Should Retirees Invest in Crypto? The Answer May Surprise You.",
+        "title": "SEC‑CFTC Crypto Guidance: Five Categories and the Howey Test",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774888783.652289,
+    "cached_at": 1774979451.641856,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "db4cf0fe883cd8d987c633ca7c9adb75314597f893f367cbf745e8aa11ded4e3": {
     "data": [
       {
-        "title": "Una jueza pone en pausa la ofensiva de Trump contra Anthropic | WIRED",
+        "title": "La tendencia de los chatbots de IA de engañar a los usuarios va en aumento, según estudio | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/un-juez-pone-en-pausa-la-ofensiva-de-trump-contra-anthropic"
+        "url": "https://es.wired.com/articulos/la-tendencia-de-los-chatbots-de-ia-de-enganar-a-los-usuarios-va-en-aumento-segun-estudio"
       },
       {
-        "title": "Qué esperar de ChatGPT cuando se llene de anuncios | WIRED",
+        "title": "EE UU quiere también el gas venezolano, pero la falta de infraestructura complica el plan | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/que-esperar-de-chatgpt-cuando-se-llene-de-anuncios"
+        "url": "https://es.wired.com/articulos/ee-uu-quiere-tambien-el-gas-venezolano-pero-la-falta-de-infraestructura-complica-el-plan"
       },
       {
-        "title": "Sony sacude el mercado: suben los precios de PS5, PS5 Pro y PlayStation Portal",
+        "title": "RAM Prices Have Started To Drop, But the Crisis Is Far From Over - IGN",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://latam.ign.com/playstation-5-1/112162/news/sony-sacude-el-mercado-suben-los-precios-de-ps5-ps5-pro-y-playstation-portal"
+        "url": "https://www.ign.com/articles/ram-prices-have-started-to-drop-but-the-crisis-is-far-from-over"
       },
       {
-        "title": "Pokémon GO podría lanzar una función que cambiaría tu forma de jugar, aunque no es bien recibida por todos",
+        "title": "Meta starts testing a premium subscription on Instagram | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.ign.com/pokemon-go/228094/news/pokemon-go-podria-lanzar-una-funcion-que-cambiaria-tu-forma-de-jugar-aunque-no-es-bien-recibida-por"
+        "url": "https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/"
       }
     ],
-    "cached_at": 1774888784.1724668,
+    "cached_at": 1774979452.3299963,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
