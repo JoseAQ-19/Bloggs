@@ -964,77 +964,77 @@
   "88f30aaa7bab0042d69286b6e1ddf009c9ed8bd38dd824e484b197be702b0cbf": {
     "data": [
       {
-        "title": "2026 IHSAA (IA) State Championship",
+        "title": "See wildlife at Neal Smith National Wildlife Refuge in Prairie City",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "RAW: IA: IOWAN CHURCHES, CHRISTIANS PROTEST",
+        "title": "Michael Christian \"Mike\" Dykes Obituary (2026)",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "IA: TEAM PLAYS FIRST HOME GAME SINCE PLAYERS DEATH",
+        "title": "Robert Deitch @ The Grape Life, Davenport IA (8-10PM)",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Naig delivers keynote as SEW FFA celebrates its year",
+        "title": "S Center St Viaduct Closure",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Troy Leech Obituary (1972",
+        "title": "How Notion Brings Its AI Interface to Life in Slack",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774871305.8347728,
+    "cached_at": 1774957644.4431179,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
   "5ed87e0a555e160d6f2e7a9ad4294ea2283b3cea14c5520f93b58951f9855102": {
     "data": [
       {
-        "title": "Qué esperar de ChatGPT cuando se llene de anuncios | WIRED",
+        "title": "La tendencia de los chatbots de IA de engañar a los usuarios va en aumento, según estudio | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/que-esperar-de-chatgpt-cuando-se-llene-de-anuncios"
+        "url": "https://es.wired.com/articulos/la-tendencia-de-los-chatbots-de-ia-de-enganar-a-los-usuarios-va-en-aumento-segun-estudio"
       },
       {
-        "title": "Una jueza pone en pausa la ofensiva de Trump contra Anthropic | WIRED",
+        "title": "As more Americans adopt AI tools, fewer say they can trust the results | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/un-juez-pone-en-pausa-la-ofensiva-de-trump-contra-anthropic"
+        "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/"
       },
       {
-        "title": "Los escenarios de este juego parecen hechos con IA, pero no te preocupes, es aposta",
+        "title": "Bluesky's new AI tool Attie is already the most blocked account other than J. D. Vance | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.ign.com/videojuegos/228099/news/los-escenarios-de-este-juego-parecen-hechos-con-ia-pero-no-te-preocupes-es-aposta"
+        "url": "https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/"
       },
       {
-        "title": "Pragmata incluye un escenario de “Nueva York falsa generada por IA”",
+        "title": "Why OpenAI really shut down Sora | TechCrunch",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://latam.ign.com/pragmata/112174/news/pragmata-incluye-un-escenario-de-nueva-york-falsa-generada-por-ia"
+        "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/"
       }
     ],
-    "cached_at": 1774871306.4137971,
+    "cached_at": 1774957644.9802542,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
