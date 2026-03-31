@@ -1118,60 +1118,60 @@
   "6e9c6a02969a5e9b67222353d8954d32f29ac7ffcd642500a8a27decc747f088": {
     "data": [
       {
-        "title": "Multi-Asset SuperTrend Map [BigBeluga]: indicador de BigBeluga",
+        "title": "De la investigación a la práctica: IH-SET el nuevo software abierto para analizar la evolución del litoral",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "13 comedores modernos, muy 2026, que te harán soñar con redecorar el tuyo | Architectural Digest España",
+        "title": "Domino Michael Wayne Jr. vende acciones de Drilling Tools Intl (DTI) por 3.988 dólares",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "MCE 2026: Midea Unveils its Professional Service Ecosystem for \"Green Vision, Blue Future\"",
+        "title": "SoundID Tools, una aplicación gratuita para iOS y Android para generar perfiles Dolby Atmos para auriculares",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Araujo confident Uruguay 'have the tools' to stop Yamal at World Cup",
+        "title": "Santos participa en un foro sobre políticas para el rural en Países Bajos",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "SWMR|Swarmer Ord Shs|Precio:34.870|Variación %:-1.84",
+        "title": "CrowdStrike Stock Jumps as Wolfe Research Sees Buying Opportunity",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774877931.660158,
+    "cached_at": 1774964349.8199055,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "d3e0b697eb375d60495f1b6d1f6c436c149ae1e2a919c1ae80263ab8fde1d244": {
     "data": [
       {
+        "title": "Hay un nueva generación de modelos IA a las puertas y Anthropic tiene que venderlos: \"El más grande e inteligente\"",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/robotica-e-ia/cada-nuevo-modelo-ia-mejor-historia-que-llega-siguiente-anthropic-openai-han-convertido-eso-negocio"
+      },
+      {
         "title": "Las Big Tech han confiado las llaves de su reino a NVIDIA. Ahora quieren las llaves de vuelta",
         "source": "exa",
         "lang": "en",
         "score": 0,
         "url": "https://m.xataka.com/empresas-y-economia/big-tech-han-confiado-llaves-su-reino-a-nvidia-ahora-quieren-llaves-vuelta"
-      },
-      {
-        "title": "Hace 2 meses, Google anunció una IA que creaba videojuegos. Ahora, todos siguen sufriendo el terremoto",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://www.3djuegos.com/tecnologia/noticias/hace-2-meses-google-anuncio-ia-que-creaba-videojuegos-ahora-todos-siguen-sufriendo-terremoto"
       },
       {
         "title": "Qué es la Inteligencia Artificial General (AGI), la tecnología que apunta a revolucionar nuestro mundo por completo",
@@ -1181,14 +1181,14 @@
         "url": "https://www.xataka.com/preview/-NjqISfnS7N4GRoCsAiG"
       },
       {
-        "title": "Agenda de la semana:",
+        "title": "Algo se está torciendo en el horizonte de OpenAI: quiere ponerse a competir con Anthropic cuando quizá sea tarde",
         "source": "exa",
-        "lang": "es",
+        "lang": "en",
         "score": 0,
-        "url": "https://www.businessinsider.es/economia/agenda-semana-foco-eeuu-eurozona-pmi-china-ia-global-industrie_6951353_0.html"
+        "url": "https://magnet.xataka.com/robotica-e-ia/que-openai-abandone-su-chatbot-erotico-senal-definitiva-que-openai-ha-dejado-ser-openai-para-convertirse-anthropic"
       }
     ],
-    "cached_at": 1774877932.203178,
+    "cached_at": 1774964350.3600621,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
