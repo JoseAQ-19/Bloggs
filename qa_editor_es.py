@@ -234,6 +234,10 @@ def _call_llm_es_v3_core(prompt, system_prompt):
                 if result and len(result) > 500: return result
             except Exception as e:
                 logging.warning(f"[Editor ES] TIER 1 DeepSeek V3 attempt {attempt+1} failed: {type(e).__name__}: {str(e)[:150]}")
+                if attempt < max_retries - 1:
+                    import time
+                    print(f"      ⏳ Backoff: Usando time.sleep({backoff_seconds[attempt]}s) antes de reintentar...")
+                    time.sleep(backoff_seconds[attempt])
 
     # Intento 2: HF Serverless
     if CORRECTOR_HF_KEY:
