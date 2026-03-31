@@ -859,75 +859,82 @@
   "21a068db0cd0ba4e3b3272cddddd6e25dad487d2eb369a2766316588951e7843": {
     "data": [
       {
-        "title": "Cómo impulsar la resolución de incidentes en red con agentes de IA y LLMs",
+        "title": "La IA generativa es el mal",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Plataforma de IA para mejorar el rendimiento deportivo",
+        "title": "Hay una carrera de la IA mucho más profunda e importante en la que China está aplastando a sus competidores: el talento humano",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Google ha logrado que la IA consuma hasta seis veces menos memoria. Micron, Samsung y SK Hynix lo están pagando muy caro",
+        "title": "No son soldados israelíes \"capturados por Irán\", es un vídeo generado con IA",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Fedea advierte de que la IA transformará la producción, la competencia y la distribución de rentas",
+        "title": "La IA dispara el miedo y los inversores huyen de los chips",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "EficiencIA documental. Cómo la IA reinventa la revisión de documentos jurídicos",
+        "title": "Indra se alía con OBUU Tech para impulsar soluciones de IA en defensa y seguridad",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774866775.180306,
+    "cached_at": 1774952712.1771712,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
   "712dc6b87821c74ce3310d15eb2faa5011ccf2d0df44b2a976b735ced665ce6e": {
     "data": [
       {
-        "title": "Show HN: Open-source API for IACS vessel classification data",
+        "title": "Tipos como Guia: Como usar a segurança para controlar a IA",
         "source": "hackernews",
         "lang": "en",
-        "score": 4,
-        "url": "https://tsolman.github.io/vessel-class-finder/"
+        "score": 3,
+        "url": "https://diccar.substack.com/p/tipos-como-guia-como-usar-a-seguranca"
       },
       {
         "title": "IAMPerformance Issue 001 – Physics-based quantum hardware intelligence report [pdf]",
         "source": "hackernews",
         "lang": "en",
-        "score": 1,
+        "score": 2,
         "url": "https://iamperformance.online/IAMPerformance_Issue001.pdf"
       },
       {
         "title": "Show HN: Timezone App – Visual meeting scheduler for distributed teams",
         "source": "hackernews",
         "lang": "en",
-        "score": 16,
+        "score": 19,
         "url": "https://timezoneapp.co/"
       }
     ],
-    "cached_at": 1774866775.478539,
+    "cached_at": 1774952712.4633412,
     "func": "fetch_hackernews",
     "args_summary": "(['ia'],)"
   },
   "46503d41ef4fee113ff718159ee99bd6e87c149d97104b3a6a5f5ddc5f6be1b3": {
     "data": [
+      {
+        "title": "Hay un nueva generación de modelos IA a las puertas y Anthropic tiene que venderlos: \"El más grande e inteligente\"",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/robotica-e-ia/cada-nuevo-modelo-ia-mejor-historia-que-llega-siguiente-anthropic-openai-han-convertido-eso-negocio"
+      },
       {
         "title": "Ya sabemos lo que la IA aportó a la economía de EEUU en 2025: \"básicamente cero\"",
         "source": "exa",
@@ -943,21 +950,14 @@
         "url": "https://www.businessinsider.es/tecnologia/ia-se-lleva-por-delante-los-juniors-menos-puertas-entrada-mas-exigencia-desde-dia-uno_6949364_0.html"
       },
       {
-        "title": "OpenAI tenía que elegir entre \"ser la empresa que tiene una IA erótica\" o competir con Anthropic. Y ha elegido lo obvio",
+        "title": "La IA ya dominaba el ajedrez. Ahora nos está obligando a jugar de otra manera para seguir compitiendo",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/que-openai-abandone-su-chatbot-erotico-senal-definitiva-que-openai-ha-dejado-ser-openai-para-convertirse-anthropic"
-      },
-      {
-        "title": "Hasta la web del frutero de tu barrio tiene IA ahora: Wikipedia quiere ser el último bastión de internet 100% humano",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/wikipedia-ha-prohibido-usar-ia-para-escribir-reescribir-articulos-ingles-conocimiento-humano-empieza-a-levantar-barreras"
+        "url": "https://www.xataka.com/robotica-e-ia/ia-dominaba-ajedrez-ahora-nos-esta-obligando-a-jugar-otra-manera-para-seguir-compitiendo"
       }
     ],
-    "cached_at": 1774866776.1399553,
+    "cached_at": 1774952713.1632738,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
