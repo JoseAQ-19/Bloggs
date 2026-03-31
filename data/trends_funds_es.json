@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-31T07:33:38.348556+00:00",
-  "total_candidates": 10,
+  "scouted_at": "2026-03-31T07:34:52.922625+00:00",
+  "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "Bankinter y Plenium Partners: ¿Qué significa su integración y la adquisición de Access Capital Partners para los inversores?",
+      "title": "Bankinter y Plenium Partners: Una nueva era en la gestión de fondos tras la inversión significativa en Access Capital Partners",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Los fondos premiados por Morningstar en 2026: ¿Cuáles tienen el potencial de brillar y por qué?",
+      "title": "Invesco reduce la comisión del MSCI World UCITS ETF al 0,05%: ¿Qué significa esto para los inversores?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Iván Martín de Magallanes revela su estrategia: ¿Cómo la venta de bancos y petroleras impacta en el rendimiento de su fondo?",
+      "title": "Azvalor Internacional supera su índice de referencia en 6,4 puntos porcentuales: Claves de su rendimiento del 8,7% en febrero",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -97,6 +97,36 @@
       "title": "¿Qué acciones europeas reparten dividendos en abril de 2026?",
       "source": "rss_morningstar_es",
       "url": "https://www.morningstar.es/es/news/274824/¿qué-acciones-europeas-reparten-dividendos-en-abril-de-2026.aspx"
+    },
+    {
+      "title": "Invesco reduce la comisión anual del Invesco MSCI World UCITS ETF del 0,19% al 0,05% a partir del 1 de abril.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Los ETF europeos registran entradas netas récord de 55.900 millones de dólares en enero de 2026, liderados por renta variable básica.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Indexa Capital bajará las comisiones de las carteras de fondos hasta en 0,005 puntos porcentuales y los planes de pensiones en 0,007 puntos porcentuales a partir del 1 de enero de 2026.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "MyInvestor se asocia con Carmignac para lanzar el fondo tecnológico \"MyInvestor Carmignac Tech Capital Protegido 2031\" con una comisión de gestión del 1,10% anual.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "El fondo Azvalor Internacional subió un 8,7% en febrero, superando en 6,4 puntos porcentuales a su índice de referencia.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Consumo informa a 13 inmobiliarias y fondos de inversión que gestionan más de 100.000 viviendas que deben prorrogar obligatoriamente los contratos de alquiler que finalicen antes de 2028.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
