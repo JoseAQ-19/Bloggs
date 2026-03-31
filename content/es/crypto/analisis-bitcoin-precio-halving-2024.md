@@ -57,7 +57,7 @@ Con el halving ya consumado, Bitcoin se encuentra en una encrucijada. La reducci
 
 Las criptomonedas mueven más de 4,000 millones de euros al año en España. La adopción de Bitcoin y otras criptomonedas se ve impulsada por la búsqueda de alternativas a las monedas fiduciarias tradicionales, la desconfianza en las instituciones financieras y el potencial de obtener rendimientos elevados. Sin embargo, la volatilidad extrema, la complejidad tecnológica y los riesgos regulatorios siguen siendo obstáculos importantes para la adopción masiva. La caída del proyecto Terra/Luna en mayo de 2022 demostró los riesgos asociados con las stablecoins algorítmicas y tuvo un efecto dominó en el mercado cripto más amplio.
 
-En última instancia, el destino de Bitcoin dependerá de su capacidad para resolver los desafíos técnicos, regulatorios y de percepción que aún enfrenta. Si logra superar estos obstáculos, podría convertirse en una fuerza disruptiva en el mundo de las finanzas. De lo contrario, podría pasar a la historia como una burbuja especulativa que estalló, dejando a muchos inversores con pérdidas significativas.
+, el destino de Bitcoin dependerá de su capacidad para resolver los desafíos técnicos, regulatorios y de percepción que aún enfrenta. Si logra superar estos obstáculos, podría convertirse en una fuerza disruptiva en el mundo de las finanzas. De lo contrario, podría pasar a la historia como una burbuja especulativa que estalló, dejando a muchos inversores con pérdidas significativas.
 
 ## El Veredicto
 

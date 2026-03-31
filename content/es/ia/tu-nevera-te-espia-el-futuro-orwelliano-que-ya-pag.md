@@ -36,13 +36,13 @@ Los usuarios pueden mitigar la vigilancia doméstica mediante configuraciones de
 
 Para proteger la privacidad, se recomiendan los siguientes pasos:
 
-*   **Revisión del Manual de Usuario:** Antes de operar cualquier dispositivo IoT, consulte el manual para identificar qué datos se recopilan y cómo desactivar las funciones de rastreo.
-*   **Desactivación de ACR:** Acceda a los ajustes de privacidad del televisor y desactive la tecnología ACR, que puede denominarse de forma distinta según la marca (ej. 'Live Plus', 'Viewing Information Services').
-*   **Gestión de Asistentes de Voz:** Desactive los asistentes de voz o silencie sus micrófonos cuando no estén en uso para evitar grabaciones no intencionadas.
-*   **Bloqueo de Anuncios Personalizados:** Configure las opciones de 'Publicidad' en el menú de ajustes para limitar la segmentación publicitaria.
-*   **Uso de Enrutadores con Bloqueo de Rastreo:** Considere enrutadores que ofrezcan funciones de bloqueo de rastreo para proteger la actividad en línea.
-*   **Revisión de Permisos de Aplicaciones:** Audite y revoque permisos innecesarios concedidos a aplicaciones instaladas en el televisor.
-*   **Desconexión de Internet:** Para un control máximo, desconecte el televisor de Internet cuando no sea imprescindible, utilizando dispositivos multimedia externos para el *streaming*.
+* **Revisión del Manual de Usuario:** Antes de operar cualquier dispositivo IoT, consulte el manual para identificar qué datos se recopilan y cómo desactivar las funciones de rastreo.
+* **Desactivación de ACR:** Acceda a los ajustes de privacidad del televisor y desactive la tecnología ACR, que puede denominarse de forma distinta según la marca (ej. 'Live Plus', 'Viewing Information Services').
+* **Gestión de Asistentes de Voz:** Desactive los asistentes de voz o silencie sus micrófonos cuando no estén en uso para evitar grabaciones no intencionadas.
+* **Bloqueo de Anuncios Personalizados:** Configure las opciones de 'Publicidad' en el menú de ajustes para limitar la segmentación publicitaria.
+* **Uso de Enrutadores con Bloqueo de Rastreo:** Considere enrutadores que ofrezcan funciones de bloqueo de rastreo para proteger la actividad en línea.
+* **Revisión de Permisos de Aplicaciones:** Audite y revoque permisos innecesarios concedidos a aplicaciones instaladas en el televisor.
+* **Desconexión de Internet:** Para un control máximo, desconecte el televisor de Internet cuando no sea imprescindible, utilizando dispositivos multimedia externos para el *streaming*.
 
 ## El Imperativo del Empoderamiento del Usuario en la Era de la Vigilancia Doméstica
 
@@ -50,6 +50,6 @@ La proliferación de dispositivos inteligentes ha normalizado una vigilancia dom
 
 ### Fuentes y Contexto Adicional
 Para una comprensión más profunda de la ética de la IA y la gestión de datos en la era digital, se recomienda consultar los análisis de plataformas líderes en investigación y desarrollo de inteligencia artificial:
-*   [Análisis en OpenAI/news](https://openai.com/news)
-*   [Análisis en Google/discover](https://deepmind.google/discover)
+* [Análisis en OpenAI/news](https://openai.com/news)
+* [Análisis en Google/discover](https://deepmind.google/discover)
 

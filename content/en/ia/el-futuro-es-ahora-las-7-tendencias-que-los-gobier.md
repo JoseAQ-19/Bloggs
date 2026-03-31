@@ -23,7 +23,7 @@ Let's dissect seven critical trends, drawing on insights from reports like KPMG'
 
 Forget chatbots – the evolution of AI is heading toward something far more transformative: Artificial Superintelligence (ASI). KPMG highlights that AI is transitioning from a mere tool to an autonomous agent capable of perception, reasoning, and action. This isn’t just about automating tasks; it’s about creating systems that can learn, adapt, and potentially outpace human intelligence in various domains.
 
-**The Data:** The global AI market was valued at a staggering $279.22 billion in 2024, and it's projected to grow at a compound annual growth rate (CAGR) of 35.9% from 2025 to 2030.  OpenAI and EpochAI data reveals the computational power needed to train these models has increased exponentially. Training GPT-4 alone required over 25,000 A100 GPUs running for weeks. Experts predict a 50% chance of achieving Artificial General Intelligence (AGI) between 2040 and 2061.
+**The Data:** The global AI market was valued at a staggering $279.22 billion in 2024, and it's projected to grow at a compound annual growth rate (CAGR) of 35.9% from 2025 to 2030. OpenAI and EpochAI data reveals the computational power needed to train these models has increased exponentially. Training GPT-4 alone required over 25,000 A100 GPUs running for weeks. Experts predict a 50% chance of achieving Artificial General Intelligence (AGI) between 2040 and 2061.
 
 **The Analysis:** ASI presents both immense opportunities and existential risks. Governments will need to grapple with complex ethical and regulatory challenges, including AI safety, bias mitigation, and the potential displacement of human labor. The concentration of ASI development in the hands of a few powerful companies also raises concerns about control and access.
 
@@ -35,7 +35,7 @@ The rise of AI isn’t solely dependent on algorithms; it's fundamentally tied t
 
 **The Data:** The demand for GPUs and specialized AI hardware is skyrocketing, leading to increased competition and supply chain challenges. Data centers are consuming ever-larger amounts of energy, raising concerns about sustainability and carbon footprint.
 
-**The Analysis:** The infrastructure race has geopolitical implications. Countries are vying for dominance in chip manufacturing and data center capacity to secure their position in the AI economy. The focus on energy efficiency and sustainability is also driving innovation in green computing and renewable energy sources.
+**The Analysis:** The infrastructure race has geopolitical implications. Countries are vying for dominance in chip manufacturing and data center capacity to secure their position in the AI economy. The focus on energy efficiency and sustainability is also in green computing and renewable energy sources.
 
 **The Verdict:** Investing in robust and sustainable AI infrastructure is crucial for economic competitiveness and environmental responsibility. Governments must prioritize policies that support innovation in this area.
 

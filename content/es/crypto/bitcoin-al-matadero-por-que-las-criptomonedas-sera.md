@@ -31,7 +31,7 @@ El mercado está inundado de criptomonedas basura, una orgía de tokens sin valo
 
 ## Los Oráculos Han Hablado: Cero, Absolutamente Cero
 
-Eugene Fama, Premio Nobel de Economía, lo ha dicho sin rodeos: Bitcoin vale cero. Y no es el único. Economistas de la talla de Xavier Sala-i-Martin coinciden: el valor fundamental de Bitcoin es nulo. No es un medio de intercambio viable, su volatilidad lo hace inútil como moneda y su precio solo se basa en la especulación. Los académicos han hablado, pero los fanáticos criptográficos se niegan a escuchar.  Para Fama, la probabilidad de que Bitcoin valga cero en una década roza el 100%, una sentencia lapidaria que los "hodlers" prefieren ignorar.
+Eugene Fama, Premio Nobel de Economía, lo ha dicho sin rodeos: Bitcoin vale cero. Y no es el único. Economistas de la talla de Xavier Sala-i-Martin coinciden: el valor fundamental de Bitcoin es nulo. No es un medio de intercambio viable, su volatilidad lo hace inútil como moneda y su precio solo se basa en la especulación. Los académicos han hablado, pero los fanáticos criptográficos se niegan a escuchar. Para Fama, la probabilidad de que Bitcoin valga cero en una década roza el 100%, una sentencia lapidaria que los "hodlers" prefieren ignorar.
 
 ## Manipulación y Vulnerabilidades: La Tormenta Perfecta
 
@@ -41,4 +41,4 @@ Pero la manipulación es solo la punta del iceberg. Bitcoin enfrenta vulnerabili
 
 ## El Obelisco Cripto: Un Epílogo Inevitable Para profundizar en este tema, consulta nuestro analisis sobre [](/crypto/bitcoin-la-burbuja-eterna-sostenida-por-el-hype/).
 
-La historia de Bitcoin está llegando a su fin. La narrativa del "oro digital" se ha desmoronado, la minería es un despilfarro, la competencia es feroz y la manipulación está a la orden del día. Sin valor intrínseco ni flujos de caja subyacentes, Bitcoin es una burbuja a punto de estallar.  La liquidez se está evaporando, la exposición a manipulaciones pasadas es cada vez mayor y la posibilidad de una "desmonetización" total, como la llama Fama, es inminente. Bitcoin no es el futuro del dinero, sino un experimento fallido, un recordatorio de la codicia humana y la facilidad con la que se puede engañar a la gente.  Prepárense para el funeral. Y no se les ocurra comprar la caída.
+La historia de Bitcoin está llegando a su fin. La narrativa del "oro digital" se ha desmoronado, la minería es un despilfarro, la competencia es feroz y la manipulación está a la orden del día. Sin valor intrínseco ni flujos de caja subyacentes, Bitcoin es una burbuja a punto de estallar. La liquidez se está evaporando, la exposición a manipulaciones pasadas es cada vez mayor y la posibilidad de una "desmonetización" total, como la llama Fama, es inminente. Bitcoin no es el futuro del dinero, sino un experimento fallido, un recordatorio de la codicia humana y la facilidad con la que se puede engañar a la gente. Prepárense para el funeral. Y no se les ocurra comprar la caída.

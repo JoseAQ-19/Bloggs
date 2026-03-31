@@ -97,34 +97,7 @@ Yes, choreography can be copyrighted, but proving infringement in the age of AI 
 
 The integration of AI in dance education necessitates a careful approach that balances innovation with ethical considerations. Stakeholders in the dance community should advocate for clear guidelines on ethical AI use in dance to protect artists and educators. As technology evolves, so too must our commitment to the artistry and integrity of dance.
 
-
-
-
-
 ### Related Articles
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Gen Z’s Ballet Revolution: 95% Demand Ethical AI Dance Solutions Now",
-  "description": "Discover how Gen Z is reshaping ballet with a strong demand for ethical AI dance solutions, pushing for innovation and sustainability in the arts.",
-  "image": "https://novumworld.com/images/gen-z-ballet-youtube-dance-revolution-en.jpg",
-  "datePublished": "2026-03-30T14:36:23",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

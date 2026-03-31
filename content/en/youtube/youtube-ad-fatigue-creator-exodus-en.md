@@ -67,6 +67,6 @@ Here is a summary of alternative monetization strategies creators are turning to
 * **Merchandise Sales:** Creating and selling branded merchandise, such as clothing, accessories, and collectibles.
 * **Channel Memberships:** Offering exclusive perks and content to paying members of the channel.
 
-## The Bottom Line
+## 
 
 YouTube needs to carefully balance ad revenue with user experience, or it risks alienating its audience and losing creators to alternative platforms. YouTube should prioritize exploring and implementing more user-friendly ad formats, such as shorter, skippable ads, or incentivize viewing through rewards. The golden goose is getting cooked.

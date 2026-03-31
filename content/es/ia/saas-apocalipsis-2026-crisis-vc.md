@@ -45,13 +45,13 @@ Las ayudas públicas, como Neotec del CDTI, ofrecen hasta €250,000 que no se t
 
 La integración de código generado por IA en las aplicaciones SaaS no está exenta de riesgos. Un estudio de Veracode de 2025 reveló que el 45% del código generado por IA contiene fallos de seguridad críticos. Este dato debería encender todas las alarmas en las empresas SaaS, especialmente aquellas que manejan datos sensibles de sus clientes.
 
-La seguridad no es un lujo, sino una necesidad. Implementar código generado por IA sin una revisión exhaustiva puede abrir la puerta a vulnerabilidades que podrían ser explotadas por ciberdelincuentes. Las consecuencias podrían ser devastadoras: pérdida de datos, interrupción del servicio, daño a la reputación y, en última instancia, la quiebra de la empresa.
+La seguridad no es un lujo, sino una necesidad. Implementar código generado por IA sin una revisión exhaustiva puede abrir la puerta a vulnerabilidades que podrían ser explotadas por ciberdelincuentes. Las consecuencias podrían ser devastadoras: pérdida de datos, interrupción del servicio, daño a la reputación y, , la quiebra de la empresa.
 
 Las empresas deben invertir en herramientas y procesos de seguridad robustos para mitigar los riesgos asociados con el código generado por IA. Realizar auditorías de seguridad exhaustivas, implementar pruebas de penetración y capacitar a los desarrolladores en las mejores prácticas de seguridad son medidas esenciales para protegerse contra las amenazas cibernéticas. La falta de diligencia en materia de seguridad no solo es irresponsable, sino que también podría ser ilegal, dadas las estrictas regulaciones en materia de protección de datos, como el GDPR. La Agencia Española de Protección de Datos (AEPD) es responsable de garantizar el cumplimiento.
 
 ## Adaptación o Muerte: El Mandato de Mercedes Oblanca (Accenture)
 
-Mercedes Oblanca, de Accenture, es tajante: "Las startups españolas deben integrar la IA en su cultura corporativa y fomentar la colaboración humano-IA para seguir siendo competitivas". La IA no es una amenaza, sino una oportunidad. Las empresas que sepan aprovecharla podrán mejorar su eficiencia, ofrecer productos y servicios más innovadores y, en última instancia, ganar cuota de mercado.
+Mercedes Oblanca, de Accenture, es tajante: "Las startups españolas deben integrar la IA en su cultura corporativa y fomentar la colaboración humano-IA para seguir siendo competitivas". La IA no es una amenaza, sino una oportunidad. Las empresas que sepan aprovecharla podrán mejorar su eficiencia, ofrecer productos y servicios más innovadores y, , ganar cuota de mercado.
 
 La clave está en la colaboración. La IA no debe verse como un sustituto de los empleados, sino como una herramienta que les permita ser más productivos y creativos. Fomentar una cultura de experimentación y aprendizaje continuo, donde los empleados se sientan cómodos utilizando la IA, es fundamental para el éxito.
 

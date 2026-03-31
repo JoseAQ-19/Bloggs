@@ -21,39 +21,39 @@ A pesar de la reciente euforia del mercado, el riesgo de caer en la "trampa del 
 
 La búsqueda de ingresos por dividendos puede ser una estrategia tentadora, pero requiere un análisis cuidadoso para evitar sorpresas desagradables. Estas son tres estrategias, ilustradas con ejemplos concretos, para navegar el mundo de los dividendos con mayor seguridad, basadas en el análisis de Morningstar:
 
-1.  **Análisis Fundamental Exhaustivo**: No te centres únicamente en la rentabilidad por dividendo (dividend yield). Profundiza en los fundamentales de la empresa: beneficios, flujo de caja, deuda, y perspectivas de crecimiento. Una rentabilidad por dividendo alta puede ser una señal de alarma si la empresa no puede sostener los pagos.
+1. **Análisis Fundamental Exhaustivo**: No te centres únicamente en la rentabilidad por dividendo (dividend yield). Profundiza en los fundamentales de la empresa: beneficios, flujo de caja, deuda, y perspectivas de crecimiento. Una rentabilidad por dividendo alta puede ser una señal de alarma si la empresa no puede sostener los pagos.
 
-2.  **Diversificación Geográfica y Sectorial**: Evita concentrarte en un único sector o país. La diversificación reduce el riesgo de que un evento específico afecte negativamente a tu cartera de dividendos. Considera fondos o ETFs que inviertan en dividendos a nivel global.
+2. **Diversificación Geográfica y Sectorial**: Evita concentrarte en un único sector o país. La diversificación reduce el riesgo de que un evento específico afecte negativamente a tu cartera de dividendos. Considera fondos o ETFs que inviertan en dividendos a nivel global.
 
-3.  **Evaluación de la Sostenibilidad del Dividendo**: Analiza el ratio de reparto de dividendos (payout ratio), que indica la proporción de los beneficios que se destinan al pago de dividendos. Un ratio demasiado alto (superior al 80%) puede ser insostenible a largo plazo.
+3. **Evaluación de la Sostenibilidad del Dividendo**: Analiza el ratio de reparto de dividendos (payout ratio), que indica la proporción de los beneficios que se destinan al pago de dividendos. Un ratio demasiado alto (superior al 80%) puede ser insostenible a largo plazo.
 
 ## Comparativa de Fondos y ETFs de Dividendo, segun datos recogidos por [Vanguard](https://investor.vanguard.com/)
 
 Para ilustrar estas estrategias, analizaremos tres opciones de inversión en dividendos, contrastando sus características y rendimientos. Es crucial recordar que los datos de rentabilidad pasada no garantizan rendimientos futuros, y que cada inversor debe considerar su propia tolerancia al riesgo y horizonte de inversión.
 
-*   **iShares STOXX Global Select Dividend 100 UCITS ETF (DE) (ISIN: DE000A0F5UH1, Categoría Morningstar: Renta Variable Global Alto Dividendo)**
-    *   Rendimiento 1 Año: 12.5%
-    *   Rendimiento 3 Años anualizado: 8.2%
-    *   Rendimiento 5 Años anualizado: 6.9%
-    *   Volatilidad (Desviación estándar): 14.5%
-    *   Ratio de Sharpe: 0.6
-    *   Comisiones (TER / Expense Ratio): 0.46%
+* **iShares STOXX Global Select Dividend 100 UCITS ETF (DE) (ISIN: DE000A0F5UH1, Categoría Morningstar: Renta Variable Global Alto Dividendo)**
+ * Rendimiento 1 Año: 12.5%
+ * Rendimiento 3 Años anualizado: 8.2%
+ * Rendimiento 5 Años anualizado: 6.9%
+ * Volatilidad (Desviación estándar): 14.5%
+ * Ratio de Sharpe: 0.6
+ * Comisiones (TER / Expense Ratio): 0.46%
 
-*   [Vanguard](https://investor.vanguard.com/)
-    *   Rendimiento 1 Año: 11.8%
-    *   Rendimiento 3 Años anualizado: 7.8%
-    *   Rendimiento 5 Años anualizado: 6.5%
-    *   Volatilidad (Desviación estándar): 13.8%
-    *   Ratio de Sharpe: 0.58
-    *   Comisiones (TER / Expense Ratio): 0.29%
+* [Vanguard](https://investor.vanguard.com/)
+ * Rendimiento 1 Año: 11.8%
+ * Rendimiento 3 Años anualizado: 7.8%
+ * Rendimiento 5 Años anualizado: 6.5%
+ * Volatilidad (Desviación estándar): 13.8%
+ * Ratio de Sharpe: 0.58
+ * Comisiones (TER / Expense Ratio): 0.29%
 
-*   **Amundi Index Equity Europe ex EMU High Dividend UCITS ETF DR (ISIN: LU1050465587, Categoría Morningstar: Renta Variable Europa Alto Dividendo)**
-    *   Rendimiento 1 Año: 15.2%
-    *   Rendimiento 3 Años anualizado: 9.5%
-    *   Rendimiento 5 Años anualizado: 7.8%
-    *   Volatilidad (Desviación estándar): 15.8%
-    *   Ratio de Sharpe: 0.65
-    *   Comisiones (TER / Expense Ratio): 0.30%
+* **Amundi Index Equity Europe ex EMU High Dividend UCITS ETF DR (ISIN: LU1050465587, Categoría Morningstar: Renta Variable Europa Alto Dividendo)**
+ * Rendimiento 1 Año: 15.2%
+ * Rendimiento 3 Años anualizado: 9.5%
+ * Rendimiento 5 Años anualizado: 7.8%
+ * Volatilidad (Desviación estándar): 15.8%
+ * Ratio de Sharpe: 0.65
+ * Comisiones (TER / Expense Ratio): 0.30%
 
 Todos los fondos/ETFs listados distribuyen dividendos. Es importante considerar la fiscalidad de los dividendos para el inversor español. Los dividendos están sujetos a retención fiscal y se integran en la base imponible del ahorro en la declaración de la renta. Los ETFs, a diferencia de los fondos de inversión, no permiten el traspaso fiscal, lo que significa que la venta de participaciones para reinvertir en otro ETF genera una obligación tributaria inmediata sobre las ganancias patrimoniales.
 

@@ -28,17 +28,17 @@ The recent Morningstar Awards for Investing Excellence 2026 has positioned FPA, 
 The performance of mutual funds is often evaluated through various time frames, including 1-year, 3-year, and 5-year returns. FPA, PIMCO, and Vanguard each present distinct advantages and drawbacks in these metrics.
 
 1. **1-Year Performance**: 
-   - FPA's flagship fund delivered a robust 12% return.
-   - PIMCO's Total Return Fund followed closely with an 11.5% increase.
-   - Vanguard's Total Stock Market Index Fund returned 10%.
+ - FPA's flagship fund delivered a robust 12% return.
+ - PIMCO's Total Return Fund followed closely with an 11.5% increase.
+ - Vanguard's Total Stock Market Index Fund returned 10%.
 
 2. **3-Year Performance**: 
-   - FPA led with a 9% annualized return.
-   - PIMCO achieved 8.5%, while Vanguard lagged slightly at 8%.
+ - FPA led with a 9% annualized return.
+ - PIMCO achieved 8.5%, while Vanguard lagged slightly at 8%.
 
 3. **5-Year Performance**: 
-   - FPA maintained a competitive edge with a 7% annualized return.
-   - PIMCO and Vanguard both delivered returns of 6.5%.
+ - FPA maintained a competitive edge with a 7% annualized return.
+ - PIMCO and Vanguard both delivered returns of 6.5%.
 
 ### Volatility and Sharpe Ratios
 
@@ -79,82 +79,21 @@ We believe that selecting the right mutual fund requires a thorough understandin
 ### Real User FAQs
 
 1. **What should be my priority: performance or fees?**
-   Investors must assess their own risk tolerance. While low fees can enhance long-term returns, high-performing funds may justify their costs.
+ Investors must assess their own risk tolerance. While low fees can enhance long-term returns, high-performing funds may justify their costs.
 
 2. **How often should I review my mutual fund investments?**
-   Regularly reviewing your portfolio, at least annually, can help ensure that your investments align with your financial goals.
+ Regularly reviewing your portfolio, at least annually, can help ensure that your investments align with your financial goals.
 
 3. **Are actively managed funds worth the higher fees?**
-   This depends on the fund's ability to generate alpha. If an active fund consistently outperforms its benchmark, higher fees may be justified.
+ This depends on the fund's ability to generate alpha. If an active fund consistently outperforms its benchmark, higher fees may be justified.
 
 4. **What is the importance of a fund's Sharpe Ratio?**
-   The Sharpe Ratio provides insight into the risk-adjusted return, helping investors gauge how well a fund compensates for its risk.
+ The Sharpe Ratio provides insight into the risk-adjusted return, helping investors gauge how well a fund compensates for its risk.
 
 5. **How can I diversify my investments within mutual funds?**
-   Consider a mix of equity, bond, and balanced funds to spread risk across different asset classes.
+ Consider a mix of equity, bond, and balanced funds to spread risk across different asset classes.
 
 The competition in the Thai mutual fund market is intense, with FPA, PIMCO, and Vanguard vying for dominance. As investors navigate this landscape, informed decision-making based on thorough analysis and expert insights will be paramount.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard in Thailand",
-  "datePublished": "2026-01-01",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  }
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [{
-      "@type": "Question",
-      "name": "What should be my priority: performance or fees?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Investors must assess their own risk tolerance. While low fees can enhance long-term returns, high-performing funds may justify their costs."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How often should I review my mutual fund investments?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Regularly reviewing your portfolio, at least annually, can help ensure that your investments align with your financial goals."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are actively managed funds worth the higher fees?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "This depends on the fund's ability to generate alpha. If an active fund consistently outperforms its benchmark, higher fees may be justified."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the importance of a fund's Sharpe Ratio?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The Sharpe Ratio provides insight into the risk-adjusted return, helping investors gauge how well a fund compensates for its risk."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How can I diversify my investments within mutual funds?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Consider a mix of equity, bond, and balanced funds to spread risk across different asset classes."
-      }
-    }
-  ]
-}
-</script>
 
 ---
 

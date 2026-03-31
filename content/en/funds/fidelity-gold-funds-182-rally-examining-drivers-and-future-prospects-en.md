@@ -25,34 +25,34 @@ The fund’s expense ratio of 0.75% positions it competitively within its catego
 
 Below is a comparative performance analysis of FSAGX against relevant benchmarks and competitors.
 
-*   **Fidelity Select Gold Portfolio (FSAGX)**
-    *   Rendimiento 1 Año (%): 39.2%
-    *   Rendimiento 3 Años anualizado (%): 18.5%
-    *   Rendimiento 5 Años anualizado (%): 16.2%
-    *   Volatilidad (Desviación estándar): 32.5%
-    *   Ratio de Sharpe: 0.50
-    *   Comisiones (TER / Expense Ratio): 0.75%
-*   **SPDR Gold Trust ETF (GLD)**
-    *   Rendimiento 1 Año (%): 21.1%
-    *   Rendimiento 3 Años anualizado (%): 11.2%
-    *   Rendimiento 5 Años anualizado (%): 9.5%
-    *   Volatilidad (Desviación estándar): 14.5%
-    *   Ratio de Sharpe: 0.65
-    *   Comisiones (TER / Expense Ratio): 0.40%
-*   **VanEck Gold Miners ETF (GDX)**
-    *   Rendimiento 1 Año (%): 32.7%
-    *   Rendimiento 3 Años anualizado (%): 7.8%
-    *   Rendimiento 5 Años anualizado (%): 9.1%
-    *   Volatilidad (Desviación estándar): 36.1%
-    *   Ratio de Sharpe: 0.25
-    *   Comisiones (TER / Expense Ratio): 0.51%
-*   **Benchmark: Philadelphia Gold and Silver Index (XAU)**
-    *   Rendimiento 1 Año (%): 35.8%
-    *   Rendimiento 3 Años anualizado (%): 15.4%
-    *   Rendimiento 5 Años anualizado (%): 13.7%
-    *   Volatilidad (Desviación estándar): N/D
-    *   Ratio de Sharpe: N/D
-    *   Comisiones (TER / Expense Ratio): N/D
+* **Fidelity Select Gold Portfolio (FSAGX)**
+ * Rendimiento 1 Año (%): 39.2%
+ * Rendimiento 3 Años anualizado (%): 18.5%
+ * Rendimiento 5 Años anualizado (%): 16.2%
+ * Volatilidad (Desviación estándar): 32.5%
+ * Ratio de Sharpe: 0.50
+ * Comisiones (TER / Expense Ratio): 0.75%
+* **SPDR Gold Trust ETF (GLD)**
+ * Rendimiento 1 Año (%): 21.1%
+ * Rendimiento 3 Años anualizado (%): 11.2%
+ * Rendimiento 5 Años anualizado (%): 9.5%
+ * Volatilidad (Desviación estándar): 14.5%
+ * Ratio de Sharpe: 0.65
+ * Comisiones (TER / Expense Ratio): 0.40%
+* **VanEck Gold Miners ETF (GDX)**
+ * Rendimiento 1 Año (%): 32.7%
+ * Rendimiento 3 Años anualizado (%): 7.8%
+ * Rendimiento 5 Años anualizado (%): 9.1%
+ * Volatilidad (Desviación estándar): 36.1%
+ * Ratio de Sharpe: 0.25
+ * Comisiones (TER / Expense Ratio): 0.51%
+* **Benchmark: Philadelphia Gold and Silver Index (XAU)**
+ * Rendimiento 1 Año (%): 35.8%
+ * Rendimiento 3 Años anualizado (%): 15.4%
+ * Rendimiento 5 Años anualizado (%): 13.7%
+ * Volatilidad (Desviación estándar): N/D
+ * Ratio de Sharpe: N/D
+ * Comisiones (TER / Expense Ratio): N/D
 
 Note: Benchmark data sourced from **Yahoo Finance**. Volatility and Sharpe Ratio for XAU unavailable.
 
@@ -64,11 +64,11 @@ Note: Benchmark data sourced from **Yahoo Finance**. Volatility and Sharpe Ratio
 
 While FSAGX has delivered strong returns, particularly over the past year, several risks could undermine its future performance. The fund's concentration in gold mining companies exposes it to operational risks specific to the mining industry. These include:
 
-*   **Geopolitical risk:** Many gold mines are located in politically unstable regions, increasing the risk of disruptions to production. Government regulations and potential nationalization policies can significantly impact profitability.
-*   **Operational challenges:** Mining operations are inherently complex and subject to cost overruns, production delays, and environmental liabilities.
-*   **Sensitivity to market sentiment:** Gold mining stocks tend to be more volatile than the price of gold itself, amplifying both gains and losses. A shift in investor sentiment away from gold could lead to a sharp decline in the value of FSAGX, even if the underlying price of gold remains relatively stable.
-*   **Rising Interest Rates**: Gold traditionally performs poorly when interest rates are rising, as investors flock to bonds offering higher yields. If central banks aggressively hike interest rates to combat inflation, FSAGX could suffer significant losses, regardless of geopolitical events. The fund’s performance relies heavily on continued low interest rates or increasing global uncertainty; if these conditions change, the fund's current trajectory may not be sustainable.
-*   **Inflation-protected Securities (TIPS)**: A competing asset class, TIPS offer inflation protection without direct exposure to the operational risks of gold mining. If investors perceive TIPS as a safer, more reliable hedge against inflation, demand for gold and gold mining stocks could diminish.
+* **Geopolitical risk:** Many gold mines are located in politically unstable regions, increasing the risk of disruptions to production. Government regulations and potential nationalization policies can significantly impact profitability.
+* **Operational challenges:** Mining operations are inherently complex and subject to cost overruns, production delays, and environmental liabilities.
+* **Sensitivity to market sentiment:** Gold mining stocks tend to be more volatile than the price of gold itself, amplifying both gains and losses. A shift in investor sentiment away from gold could lead to a sharp decline in the value of FSAGX, even if the underlying price of gold remains relatively stable.
+* **Rising Interest Rates**: Gold traditionally performs poorly when interest rates are rising, as investors flock to bonds offering higher yields. If central banks aggressively hike interest rates to combat inflation, FSAGX could suffer significant losses, regardless of geopolitical events. The fund’s performance relies heavily on continued low interest rates or increasing global uncertainty; if these conditions change, the fund's current trajectory may not be sustainable.
+* **Inflation-protected Securities (TIPS)**: A competing asset class, TIPS offer inflation protection without direct exposure to the operational risks of gold mining. If investors perceive TIPS as a safer, more reliable hedge against inflation, demand for gold and gold mining stocks could diminish.
 
 ## Our Verdict
 

@@ -54,54 +54,6 @@ A: The average expense ratio of the top 3 funds in Thailand is 0.85%, lower than
 Q: How do these funds manage risk, and what are the potential risks associated with investing in them?
 A: The top 3 funds in Thailand have demonstrated strong risk management, with a low standard deviation of 10.2% over the past 3 years. However, the funds' high concentration in large-cap stocks may increase volatility, and investors should be aware of this risk.
 
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Morningstar Awards for Investing Excellence Thailand 2026: Evaluating the Top 3 Funds",
-  "description": "An analysis of the top 3 funds in Thailand, as recognized by the Morningstar Awards for Investing Excellence Thailand 2026.",
-  "image": "https://example.com/image.jpg",
-  "author": "NovumWorld",
-  "datePublished": "2026-03-27",
-  "publisher": "NovumWorld",
-  "mainEntityOfPage": "https://example.com/article"
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the top 3 funds in Thailand, and how do they compare to each other?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The top 3 funds in Thailand, as recognized by the Morningstar Awards for Investing Excellence Thailand 2026, are the Krungsri Equity Fund, the Kasikorn Thai Equity Fund, and the Siam Commercial Bank Equity Fund. These funds have consistently outperformed the benchmark index over the past 1, 3, and 5 years."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the fees associated with these funds, and how do they impact investment performance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The average expense ratio of the top 3 funds in Thailand is 0.85%, lower than the industry average of 1.2%. However, fees can still impact investment performance, and investors should consider this factor when selecting a fund."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do these funds manage risk, and what are the potential risks associated with investing in them?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The top 3 funds in Thailand have demonstrated strong risk management, with a low standard deviation of 10.2% over the past 3 years. However, the funds' high concentration in large-cap stocks may increase volatility, and investors should be aware of this risk."
-      }
-    }
-  ]
-}
-</script>
-
 ---
 
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.

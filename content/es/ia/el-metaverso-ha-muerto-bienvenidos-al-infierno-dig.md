@@ -31,10 +31,10 @@ Los datos, como siempre, son elocuentes. Decentraland, el supuesto buque insigni
 
 ¿Por qué fracasó el metaverso? La respuesta es multifactorial, pero se reduce a una sencilla verdad: era una solución en busca de un problema.
 
-*   **Tecnología primitiva:** Las gafas de realidad virtual siguen siendo un engorro: aparatosas, costosas y plagadas de problemas técnicos. El Vision Pro de Apple, a 3.500 euros, es un ejemplo perfecto de la elitización de una tecnología aún inmadura.
-*   **Contenido vacío:** Los metaversos carecían de experiencias auténticas. Interacciones artificiales, posibilidades limitadas y una atmósfera desoladora. Un desierto digital sin vida.
-*   **Especulación descontrolada:** El metaverso atrajo a lo peor de la sociedad: especuladores y estafadores que buscaban enriquecerse rápidamente a costa de incautos.
-*   **Sobreexposición:** Zuckerberg prometió el oro y el moro demasiado pronto. La ambición desmedida generó expectativas imposibles de cumplir.
+* **Tecnología primitiva:** Las gafas de realidad virtual siguen siendo un engorro: aparatosas, costosas y plagadas de problemas técnicos. El Vision Pro de Apple, a 3.500 euros, es un ejemplo perfecto de la elitización de una tecnología aún inmadura.
+* **Contenido vacío:** Los metaversos carecían de experiencias auténticas. Interacciones artificiales, posibilidades limitadas y una atmósfera desoladora. Un desierto digital sin vida.
+* **Especulación descontrolada:** El metaverso atrajo a lo peor de la sociedad: especuladores y estafadores que buscaban enriquecerse rápidamente a costa de incautos.
+* **Sobreexposición:** Zuckerberg prometió el oro y el moro demasiado pronto. La ambición desmedida generó expectativas imposibles de cumplir.
 
 Meta no ha abandonado del todo su delirio, pero ahora intenta diluir el concepto, combinándolo con inteligencia artificial y realidad aumentada. Un intento desesperado de salvar la cara y justificar las enormes inversiones realizadas. Ahora hablan del "siguiente paso hacia el metaverso", fusionando gafas con IA y experiencias de realidad aumentada controladas con gestos. Suena más a ciencia ficción barata que a un plan estratégico sólido.
 

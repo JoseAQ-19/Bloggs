@@ -49,6 +49,6 @@ China's semiconductor strategy operates on a 50-year horizon, making US sanction
 
 The international semiconductor industry's complicity further undermines sanctions effectiveness. European and Asian suppliers actively lobby governments to maintain access to the Chinese market, creating friction within the US-led coalition. This fragmentation allows China to play suppliers against each other, extracting concessions and technology transfer disguised as commercial cooperation. The domestic equipment push, while currently insufficient, serves a critical dual purpose: it diverts Western attention from the more effective used equipment program and provides cover for continued imports. Beijing understands that technological primacy isn't achieved in one generation but through persistent, multi-decade accumulation of capabilities. Each sanction adjustment represents merely a tactical recalibration within this enduring strategy.
 
-## The Bottom Line
+## 
 
 The second-hand equipment loophole represents sanctions' fatal vulnerability. China's $49.2 billion import binge exposes a fundamental flaw in the export control architecture that prioritizes cosmetic victories over systemic containment. Closing this gap requires harmonizing restrictions with Japan and Netherlands while establishing rigorous end-use verification protocols. Sanctions remain a speed bump, not a roadblock.

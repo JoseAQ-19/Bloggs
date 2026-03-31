@@ -44,10 +44,10 @@ Y ni hablar de la manipulación del mercado. El "wash trading" (inflar artificia
 
 ¿Por qué el Metaverso se estrelló contra el suelo? La respuesta es multifactorial, pero se resume en lo siguiente:
 
-*   La tecnología sigue siendo una promesa vacía. El hardware necesario (gafas VR) es caro, incómodo y ofrece una experiencia mediocre.
-*   Falta un propósito real. El Metaverso es una "solución" buscando un problema. La gente prefiere el mundo real.
-*   La interoperabilidad es un sueño irrealizable. Las empresas no quieren colaborar. Cada cual defiende su feudo.
-*   La IA generativa ha eclipsado al Metaverso. Hasta Zuckerberg se ha rendido a la evidencia.
+* La tecnología sigue siendo una promesa vacía. El hardware necesario (gafas VR) es caro, incómodo y ofrece una experiencia mediocre.
+* Falta un propósito real. El Metaverso es una "solución" buscando un problema. La gente prefiere el mundo real.
+* La interoperabilidad es un sueño irrealizable. Las empresas no quieren colaborar. Cada cual defiende su feudo.
+* La IA generativa ha eclipsado al Metaverso. Hasta Zuckerberg se ha rendido a la evidencia.
 
 ## ¡Cuidado con los Finfluencers! El Peligro de la Especulación Desenfrenada
 

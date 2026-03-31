@@ -133,34 +133,7 @@ Based on current evidence, members should implement the following protocol when 
 
 The reopening of Planet Fitness in Clovis represents a significant step toward normalcy for fitness enthusiasts, but the claimed 94% infection reduction requires careful scrutiny. While enhanced ventilation offers genuine benefits, it cannot compensate for structural issues, inconsistent policies, and systemic compliance failures that compromise overall safety. Fitness enthusiasts must take personal responsibility for their protection while holding gyms accountable for their safety claims.
 
-
-
-
-
 ### Related Articles
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Clovis Planet Fitness Reopens: 94% Infection Risk Reduction Promised Amid Controversy",
-  "description": "Clovis Planet Fitness reopens with a bold 94% infection risk reduction promise, stirring debate. Discover the details behind this controversial decision.",
-  "image": "https://novumworld.com/images/clovis-planet-fitness-reopens-what-you-need-to-know-after-the-safety-closure-en.jpg",
-  "datePublished": "2026-03-30T05:41:19",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

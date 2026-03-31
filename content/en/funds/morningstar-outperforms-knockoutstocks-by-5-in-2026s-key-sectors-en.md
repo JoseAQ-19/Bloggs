@@ -23,29 +23,29 @@ The investment landscape in 2026 remains fraught with challenges, including pers
 
 This section provides a detailed performance comparison between hypothetical portfolios constructed based on Morningstar's top-rated stocks in key sectors and those recommended by KnockoutStocks. For illustrative purposes, we’ll consider the key sectors identified as tech, healthcare and energy. Data below is simulated based on available sector and economic data as of today's date, but projected to reflect hypothetical 2026 performance. Real results may vary widely and are for demonstrative purposes only.
 
-*   **Morningstar Hypothetical Portfolio (Key Sectors)**
-    *   Rendimiento 1 Año (%): 18.2%
-    *   Rendimiento 3 Años anualizado (%): 14.5%
-    *   Rendimiento 5 Años anualizado (%): N/D (Hypothetical 2026 portfolio)
-    *   Volatilidad (Desviación estándar): 15.1%
-    *   Ratio de Sharpe: 0.95
-    *   Comisiones (TER / Expense Ratio): N/A (Individual stock selection, brokerage fees apply)
+* **Morningstar Hypothetical Portfolio (Key Sectors)**
+ * Rendimiento 1 Año (%): 18.2%
+ * Rendimiento 3 Años anualizado (%): 14.5%
+ * Rendimiento 5 Años anualizado (%): N/D (Hypothetical 2026 portfolio)
+ * Volatilidad (Desviación estándar): 15.1%
+ * Ratio de Sharpe: 0.95
+ * Comisiones (TER / Expense Ratio): N/A (Individual stock selection, brokerage fees apply)
 
-*   **KnockoutStocks Hypothetical Portfolio (Key Sectors)**
-    *   Rendimiento 1 Año (%): 13.2%
-    *   Rendimiento 3 Años anualizado (%): 9.5%
-    *   Rendimiento 5 Años anualizado (%): N/D (Hypothetical 2026 portfolio)
-    *   Volatilidad (Desviación estándar): 16.8%
-    *   Ratio de Sharpe: 0.60
-    *   Comisiones (TER / Expense Ratio): N/A (Individual stock selection, subscription fees may apply)
+* **KnockoutStocks Hypothetical Portfolio (Key Sectors)**
+ * Rendimiento 1 Año (%): 13.2%
+ * Rendimiento 3 Años anualizado (%): 9.5%
+ * Rendimiento 5 Años anualizado (%): N/D (Hypothetical 2026 portfolio)
+ * Volatilidad (Desviación estándar): 16.8%
+ * Ratio de Sharpe: 0.60
+ * Comisiones (TER / Expense Ratio): N/A (Individual stock selection, subscription fees may apply)
 
-*   **S&P 500 Index (Benchmark)**
-    *   Rendimiento 1 Año (%): 15.7%
-    *   Rendimiento 3 Años anualizado (%): 11.2%
-    *   Rendimiento 5 Años anualizado (%): 10.8%
-    *   Volatilidad (Desviación estándar): 14.3%
-    *   Ratio de Sharpe: 0.75
-    *   Comisiones (TER / Expense Ratio): 0.03% (approximated using Vanguard S&P 500 ETF - ticker: VOO)
+* **S&P 500 Index (Benchmark)**
+ * Rendimiento 1 Año (%): 15.7%
+ * Rendimiento 3 Años anualizado (%): 11.2%
+ * Rendimiento 5 Años anualizado (%): 10.8%
+ * Volatilidad (Desviación estándar): 14.3%
+ * Ratio de Sharpe: 0.75
+ * Comisiones (TER / Expense Ratio): 0.03% (approximated using Vanguard S&P 500 ETF - ticker: VOO)
 
 ## Expert Opinions on Stock-Picking Methodologies
 

@@ -11,13 +11,13 @@ language: "es"
 translationKey: "b869ba9c-a764-8a89-7c4e-d1f3d94d54de"
 ---
 
-# La Alianza YouTube-FIFA: 5 Mil Millones de Espectadores En El Mundial 2026
+## La Alianza YouTube-FIFA: 5 Mil Millones de Espectadores En El Mundial 2026
 
 **RTVE ha desembolsado €57 millones por los derechos del Mundial 2026, casi el doble del precio de mercado, según El Economista.**
 
-- YouTube y FIFA proyectan que 5.000 millones de personas verán el Mundial 2026, con un 30% de esa audiencia vía streaming global.  
-- RTVE invirtió €57 millones en derechos de transmisión, superando ampliamente el precio estimado de mercado para el evento.  
-- La asociación con YouTube promete Ultra Alta Definición y contenido interactivo, pero enfrenta críticas por gasto público y piratería.  
+- YouTube y FIFA proyectan que 5.000 millones de personas verán el Mundial 2026, con un 30% de esa audiencia vía streaming global. 
+- RTVE invirtió €57 millones en derechos de transmisión, superando ampliamente el precio estimado de mercado para el evento. 
+- La asociación con YouTube promete Ultra Alta Definición y contenido interactivo, pero enfrenta críticas por gasto público y piratería. 
 
 La colaboración entre YouTube y FIFA para el Mundial 2026 se presenta como un negocio multimillonario que redefine el panorama del deporte global. En España, RTVE ha pagado €57 millones por los derechos de transmisión, una inversión que **El Economista** califica como casi el doble del precio de mercado. Además, la cadena pública firmó un contrato de sublicencia con Mediapro por €18 millones, una operación que sitúa el Mundial en el centro de una polémica por el uso de fondos públicos. Mattias Grafström, Secretario General de FIFA, asegura que la asociación con YouTube permitirá "llegar a fans de todo el mundo en un ecosistema digital que evoluciona constantemente". Justin Connolly, Vicepresidente de Medios y Deportes de YouTube, promete "crear una experiencia global, interactiva y personalizada que atraiga a la próxima generación de aficionados".
 
@@ -71,7 +71,7 @@ Los anunciantes están cada vez más interesados en tecnologías de medición ba
 
 ## El impacto real de la colaboración YouTube-FIFA
 
-La colaboración entre YouTube y FIFA promete revolucionar la forma en que se consume el fútbol, aunque los riesgos son evidentes. La inversión de €57 millones por parte de RTVE ha generado críticas, mientras que la piratería y los posibles fallos técnicos amenazan con desmoronar las proyecciones de audiencia. El verdadero reto será no solo atraer a los 5.000 millones de espectadores proyectados, sino retenerlos con una experiencia impecable. Un fallo en la infraestructura podría convertir el evento en el más pirateado de la historia.
+La colaboración entre YouTube y FIFA la forma en que se consume el fútbol, aunque los riesgos son evidentes. La inversión de €57 millones por parte de RTVE ha generado críticas, mientras que la piratería y los posibles fallos técnicos amenazan con desmoronar las proyecciones de audiencia. El verdadero reto será no solo atraer a los 5.000 millones de espectadores proyectados, sino retenerlos con una experiencia impecable. Un fallo en la infraestructura podría convertir el evento en el más pirateado de la historia.
 
 ### Artículos Relacionados
 

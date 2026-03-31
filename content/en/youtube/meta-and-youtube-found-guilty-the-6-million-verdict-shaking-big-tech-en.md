@@ -55,34 +55,7 @@ Ben Singh, a research fellow in Allied Health, notes that such features dispropo
 
 The cost of this addiction is not just mental; it is economic. Users are being manipulated into spending time they cannot afford to lose, viewing ads for products they do not need, driven by algorithms that prioritize advertiser spend over user welfare. The "attention economy" is
 
-
-
-
-
 ### Related Articles
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "$6 Million Verdict Shatters Meta and YouTube’s Facade of User Safety",
-  "description": "Discover how a $6 million verdict exposed critical flaws in Meta and YouTube's user safety policies, challenging the platforms' claims of protection.",
-  "image": "https://novumworld.com/images/meta-and-youtube-found-guilty-the-6-million-verdict-shaking-big-tech-en.jpg",
-  "datePublished": "2026-03-28T19:24:50",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

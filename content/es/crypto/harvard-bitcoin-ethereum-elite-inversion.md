@@ -15,9 +15,9 @@ translationKey: "4e0d381a-22d3-749e-7bdc-a5b9cfad4cce"
 
 La aparente traición de Harvard a Bitcoin, volcándose hacia Ethereum con una inversión de $86.8 millones, sugiere más una diversificación inteligente que un abandono total. ¿Estamos ante el principio del fin para la hegemonía de Bitcoin o simplemente ante una jugada estratégica?
 
-*   Harvard redujo su inversión en Bitcoin en $72 millones e invirtió $86.8 millones en Ethereum en el cuarto trimestre de 2025, señalando un posible cambio en la preferencia de los inversores institucionales.
-*   Según Investing.com España, Carlos González observa que cada vez más gestores de inversión recomiendan asignar un pequeño porcentaje a las criptomonedas, similar al oro.
-*   Los inversores españoles deben estar al tanto de la volatilidad y los riesgos regulatorios, ya que MiCA proporciona solo una protección "parcial" en comparación con las inversiones tradicionales, según la CNMV.
+* Harvard redujo su inversión en Bitcoin en $72 millones e invirtió $86.8 millones en Ethereum en el cuarto trimestre de 2025, señalando un posible cambio en la preferencia de los inversores institucionales.
+* Según Investing.com España, Carlos González observa que cada vez más gestores de inversión recomiendan asignar un pequeño porcentaje a las criptomonedas, similar al oro.
+* Los inversores españoles deben estar al tanto de la volatilidad y los riesgos regulatorios, ya que MiCA proporciona solo una protección "parcial" en comparación con las inversiones tradicionales, según la CNMV.
 
 ## ¿Un Vuelco Inesperado?: Harvard Apuesta Fuerte por Ethereum y Desafía el Reinado de Bitcoin
 
@@ -59,21 +59,21 @@ El análisis del comportamiento histórico de precios es crucial para comprender
 
 **Bitcoin (BTC/USD):**
 
-*   Soporte clave: $60,000
-*   Resistencia: $70,000
-*   RSI (Índice de Fuerza Relativa): 55 (Neutral)
-*   Volumen de 24h: Moderado, indicando consolidación
-*   Media Móvil de 50 días: $65,000 (Por encima del precio actual, sugiriendo posible resistencia)
-*   Observaciones: El precio necesita superar la resistencia de $70,000 para confirmar una tendencia alcista sostenida.
+* Soporte clave: $60,000
+* Resistencia: $70,000
+* RSI (Índice de Fuerza Relativa): 55 (Neutral)
+* Volumen de 24h: Moderado, indicando consolidación
+* Media Móvil de 50 días: $65,000 (Por encima del precio actual, sugiriendo posible resistencia)
+* Observaciones: El precio necesita superar la resistencia de $70,000 para confirmar una tendencia alcista sostenida.
 
 **Ethereum (ETH/USD):**
 
-*   Soporte clave: $3,000
-*   Resistencia: $4,000
-*   RSI: 65 (Acercándose a sobrecompra)
-*   Volumen de 24h: Aumentando, indicando mayor interés
-*   Media Móvil de 50 días: $3,500 (Por debajo del precio actual, sugiriendo soporte)
-*   Observaciones: El aumento en el volumen y el RSI cercano a sobrecompra sugieren un impulso alcista fuerte, pero también la necesidad de cautela ante una posible corrección.
+* Soporte clave: $3,000
+* Resistencia: $4,000
+* RSI: 65 (Acercándose a sobrecompra)
+* Volumen de 24h: Aumentando, indicando mayor interés
+* Media Móvil de 50 días: $3,500 (Por debajo del precio actual, sugiriendo soporte)
+* Observaciones: El aumento en el volumen y el RSI cercano a sobrecompra sugieren un impulso alcista fuerte, pero también la necesidad de cautela ante una posible corrección.
 
 Para complementar este análisis técnico, es importante considerar otros indicadores, como el MACD (Moving Average Convergence Divergence) y el Fibonacci retracement. El MACD puede ayudar a identificar cambios en la tendencia del precio, mientras que el Fibonacci retracement puede ayudar a identificar niveles de soporte y resistencia potenciales. Además, es fundamental estar al tanto de las noticias y eventos que puedan afectar al mercado de criptoactivos, como las decisiones regulatorias, los avances tecnológicos y los cambios en el sentimiento de los inversores. Puedes consultar plataformas como [CoinMarketCap](https://coinmarketcap.com/) o [CoinGecko](https://www.coingecko.com/es) para obtener datos actualizados del mercado.
 

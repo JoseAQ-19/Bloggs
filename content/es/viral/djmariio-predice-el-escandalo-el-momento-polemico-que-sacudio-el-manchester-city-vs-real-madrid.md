@@ -27,7 +27,7 @@ El VAR fue vendido a los aficionados como un dispositivo de verdad absoluta, una
 
 **El dato.** En uno de los encuentros más recientes, el VAR intervino para anular un penalti a Vinícius por una cuestión de centímetros tras una revisión que duró varios minutos, sugiriendo que la tecnología opera en un umbral de precisión milimétrica que el fútbol tradicional nunca tuvo. Sin embargo, esta precisión es selectiva; se aplica rigurosamente en líneas de fuera de juego, pero se vuelve subjetiva en jugadas de fuerza o intencionalidad, creando una incoherencia sistémica.
 
-**Por qué es importante.** Esta incoherencia es el caldo de cultivo perfecto para la conspiración. Cuando la tecnología falla o es inconsistente, el público no culpa a la máquina, sino a la intención humana detrás de ella. Iturralde González ha señalado reiteradamente que la mala implementación del VAR ha generado más dudas que certezas, y su descripción del año como "el peor en mucho tiempo" no es una queja aislada, sino un diagnóstico sobre la rotura del contrato social entre el fútbol y sus seguidores. Si el VAR no garantiza la justicia, entonces, ¿cuál es su función real? La respuesta cínica es el control: la capacidad de la organización para pausar, revisar y, en última instancia, gestionar el flujo narrativo del partido.
+**Por qué es importante.** Esta incoherencia es el caldo de cultivo perfecto para la conspiración. Cuando la tecnología falla o es inconsistente, el público no culpa a la máquina, sino a la intención humana detrás de ella. Iturralde González ha señalado reiteradamente que la mala implementación del VAR ha generado más dudas que certezas, y su descripción del año como "el peor en mucho tiempo" no es una queja aislada, sino un diagnóstico sobre la rotura del contrato social entre el fútbol y sus seguidores. Si el VAR no garantiza la justicia, entonces, ¿cuál es su función real? La respuesta cínica es el control: la capacidad de la organización para pausar, revisar y, , gestionar el flujo narrativo del partido.
 
 Mateu Lahoz, ex árbitro internacional, ha cuestionado públicamente la opacidad en estas revisiones, calificando de "muy extraño" que no se mostraran ciertas repeticiones de fuera de juego en pantalla durante las revisiones. Esta falta de transparencia —el "black box" del VAR— alimenta la paranoia. En un mundo donde el usuario de internet tiene acceso a todas las cámaras en tiempo real, la negativa de las organizaciones deportivas a mostrar el material audiovisual completo al público se percibe como un ocultamiento. La tecnología, en lugar de democratizar la verdad, la ha privatizado en la cabina del árbitro asistente.
 
@@ -47,26 +47,3 @@ Sin embargo, esta estrategia tiene un costo: la credibilidad. Cuando un técnico
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 - [YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
 
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "DjMaRiiO Predice El Escándalo: 5 Momentos Controversiales Que Sacudieron El Manchester City Vs Real Madrid",
-  "description": "Descubre los 5 momentos más controversiales del duelo entre Manchester City y Real Madrid que DjMaRiiO predice que sacudirán el fútbol.",
-  "image": "https://novumworld.com/images/djmariio-predice-el-escandalo-el-momento-polemico-que-sacudio-el-manchester-city-vs-real-madrid.jpg",
-  "datePublished": "2026-03-18T22:00:37",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

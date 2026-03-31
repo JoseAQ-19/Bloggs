@@ -1,0 +1,20 @@
+﻿=== SPANISH (ES) ===
+12596b | 2026-03-30 16:52 | content\es\youtube\youtube-android-auto-trucos-riesgos-alternativas.md
+14827b | 2026-03-30 16:41 | content\es\tools\el-mapa-supertrend-de-bigbeluga-el-nuevo-indicador-que-cambiara-tu-estrategia-financiera.md
+9073b | 2026-03-30 16:41 | content\es\funds\fondos-premiados-morningstar-2026-los-que-superan-el-15-de-rendimiento.md
+11971b | 2026-03-30 15:10 | content\es\ia\la-ia-que-transforma-la-revision-juridica-eficiencia-y-precision-al-alcance-de-todos.md
+10242b | 2026-03-30 10:19 | content\es\youtube\youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto.md
+8724b | 2026-03-30 10:19 | content\es\youtube\ver-youtube-sin-pagar-por-esto-se-esta-volviendo-casi-imposible.md
+12085b | 2026-03-30 10:19 | content\es\youtube\el-regreso-de-tom-scott-la-leyenda-que-domino-youtube-por-una-decada.md
+2736b | 2026-03-30 10:19 | content\es\youtube\banijay-group-revela-su-audaz-plan-de-expansion-en-youtube.md
+
+=== ENGLISH (EN) ===
+13092b | 2026-03-30 16:41 | content\en\youtube\gen-z-ballet-youtube-dance-revolution-en.md
+9828b | 2026-03-30 16:41 | content\en\funds\morningstars-2026-picks-5-asia-funds-with-15-projected-annual-returns-en.md
+13289b | 2026-03-30 15:10 | content\en\ia\iowan-churches-rally-a-bold-stand-against-controversial-issues-en.md
+8959b | 2026-03-30 11:30 | content\en\funds\5-star-fund-balances-income-and-volatility-top-morningstar-pick-for-2026-en.md
+8510b | 2026-03-30 11:24 | content\en\funds\5-handpicked-asia-funds-by-morningstar-projected-to-outperform-by-15-in-2026-en.md
+22454b | 2026-03-30 10:19 | content\en\youtube\youtube-algorithmic-mirage-en.md
+14151b | 2026-03-30 10:19 | content\en\youtube\the-6m-wake-up-call-how-a-jury-held-youtube-and-meta-accountable-en.md
+21430b | 2026-03-30 10:19 | content\en\youtube\streaming-democracy-political-consultant-brings-nh-executive-council-meetings-live-to-youtube-en.md
+

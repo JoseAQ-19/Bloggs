@@ -15,8 +15,8 @@ translationKey: "2b926a6c-5a8f-9416-bbcf-70f947a40bc0"
 
 **Magallanes Value Investors ha logrado consolidar su posición de liderazgo en España tras ganar por tercer año consecutivo el Premio Morningstar a la mejor gestora de fondos.** Este reconocimiento destaca no solo su consistencia en el desempeño, sino también su enfoque disciplinado en la inversión en valor. 
 
-- *1. Magallanes European Equity: 10,5% de rentabilidad anualizada a 5 años ([Morningstar](https://www.morningstar.es/es/news/274747/los-10-etfs-del-sector-defensa-más-rentables-para-invertir-en-2026.aspx)).*  
-- *2. Ratio de Sharpe: 1,21 para el fondo Magallanes Iberian Equity ([Morningstar](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWC1xTmRQcGJ2QVdsaEJUZm93Sl9CUWJDN20zdV9HQ3U5S1F5azJpekdSTzgtYnQzeUhtNWdXSTZOd3FsdkRvWTdnM3NjeDFFaVY2RzRvTDQ4cmx4LWpHejE5VEVGQnpzS09Tamh4SnFYSHVLeHpTSjkzVjBhQzZpOC1sOG5fM015ZThNNHRvai1WWEpmbjlLV2ZMeENzeXR2cEJEZ0pjLWZqNnJpQm1OdnlDSHRTOGxNR0hiZUN6WDlZUdIBngFBVV95cUxQT3hoWVdaX1FybFhSSG9mQVhBSVQ2WnRhc2tDcGpUUGpPWW5TUVJxSG1UU2FYQW1ublM1Zi1hWEFOMUxtTkdYcnRZcXF2TlR3VFdLVUVRUkp2Y1JVWEttc1pCZnF4SGYwQ2Y2bENUdVZvT2JPQkIwSkR0Sm9CQkdLemRSOFk1eVQyQVYxQUhfRjFyYXFtTWtpZnVRWkRMUQ?oc=5)).*  
+- *1. Magallanes European Equity: 10,5% de rentabilidad anualizada a 5 años ([Morningstar](https://www.morningstar.es/es/news/274747/los-10-etfs-del-sector-defensa-más-rentables-para-invertir-en-2026.aspx)).* 
+- *2. Ratio de Sharpe: 1,21 para el fondo Magallanes Iberian Equity ([Morningstar](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWC1xTmRQcGJ2QVdsaEJUZm93Sl9CUWJDN20zdV9HQ3U5S1F5azJpekdSTzgtYnQzeUhtNWdXSTZOd3FsdkRvWTdnM3NjeDFFaVY2RzRvTDQ4cmx4LWpHejE5VEVGQnpzS09Tamh4SnFYSHVLeHpTSjkzVjBhQzZpOC1sOG5fM015ZThNNHRvai1WWEpmbjlLV2ZMeENzeXR2cEJEZ0pjLWZqNnJpQm1OdnlDSHRTOGxNR0hiZUN6WDlZUdIBngFBVV95cUxQT3hoWVdaX1FybFhSSG9mQVhBSVQ2WnRhc2tDcGpUUGpPWW5TUVJxSG1UU2FYQW1ublM1Zi1hWEFOMUxtTkdYcnRZcXF2TlR3VFdLVUVRUkp2Y1JVWEttc1pCZnF4SGYwQ2Y2bENUdVZvT2JPQkIwSkR0Sm9CQkdLemRSOFk1eVQyQVYxQUhfRjFyYXFtTWtpZnVRWkRMUQ?oc=5)).* 
 - *3. Comisiones competitivas: 1,10% de gastos corrientes en comparación con la media del sector que supera el 1,50% ([Morningstar](https://www.morningstar.es/es/news/274747/los-10-etfs-del-sector-defensa-más-rentables-para-invertir-en-2026.aspx)).*
 
 El enfoque diferencial de Magallanes radica en su filosofía centrada en la inversión en valor, una estrategia que ha sido clave en su éxito sostenido. Analizamos cómo esta gestora ha logrado destacar en un sector tan competitivo y qué implica este logro para los inversores.
@@ -57,13 +57,13 @@ Además, un posible reto para Magallanes podría ser mantener su rendimiento en 
 
 ## Real User FAQs
 
-### ¿Qué distingue a Magallanes de otras gestoras de fondos en España?  
+### ¿Qué distingue a Magallanes de otras gestoras de fondos en España? 
 Magallanes se centra en una estrategia de inversión en valor altamente disciplinada, con un historial probado de superar a sus índices de referencia.
 
-### ¿Cuáles son los costes asociados a invertir en fondos de Magallanes?  
+### ¿Cuáles son los costes asociados a invertir en fondos de Magallanes? 
 Los gastos corrientes oscilan alrededor del 1,10%, significativamente más bajos que la media del sector.
 
-### ¿Es Magallanes una buena opción para inversores conservadores?  
+### ¿Es Magallanes una buena opción para inversores conservadores? 
 Aunque la gestión activa implica ciertos riesgos, su enfoque en empresas infravaloradas con fundamentos sólidos ofrece un balance atractivo entre rentabilidad y riesgo.
 
 ---
@@ -71,28 +71,6 @@ Aunque la gestión activa implica ciertos riesgos, su enfoque en empresas infrav
 ## Nuestra Estrategia de Inversión
 
 Creemos que Magallanes Value Investors representa una opción sólida para aquellos interesados en la filosofía de inversión en valor. Su consistencia en el rendimiento, combinada con costes competitivos, posiciona a esta gestora como líder en el mercado español. Sin embargo, recomendamos a los inversores evaluar su tolerancia al riesgo y diversificar sus carteras para mitigar posibles volatilidades sectoriales.
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Magallanes gana su tercer premio consecutivo y consolida su liderazgo en gestión de fondos",
-  "datePublished": "2026-03-11",
-  "author": {
-    "@type": "Person",
-    "name": "NovumWorld Analyst"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://example.com/magallanes-premio-morningstar"
-  }
-}
-</script>
 
 ---
 

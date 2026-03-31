@@ -69,7 +69,7 @@ The [Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](
 
 The tech sector can also play a role in promoting greater transparency within law enforcement. This includes advocating for the release of police misconduct data, supporting independent investigations of police shootings, and demanding greater public access to body-worn camera footage.
 
-## The Bottom Line
+## 
 
 Law enforcement accountability is not optional; it is essential for maintaining public trust and ensuring the safety and well-being of all communities, regardless of whether an officer is on duty or off duty. The disproportionate impact of police misconduct on Black men demands immediate and comprehensive action. It is not enough to simply acknowledge the problem; we must actively work to prevent and address it.
 
@@ -85,7 +85,6 @@ A: An EIS is a personnel management tool designed to identify potential individu
 
 **Q: If police psychological evaluations are flawed, what are better strategies for screening officer candidates?**
 A: While there are concerns regarding psychological evaluations for police officers, pre-hire public safety screening best practices and remote testing strategies should be used. It has been suggested that there is no legally defined, scientifically validated "police psychological exam" in New York State.
-
 
 ### Related Articles
 - [Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](/en/youtube/youtube-sports-subscription-live-streaming-en/)

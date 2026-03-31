@@ -85,6 +85,8 @@
   {{ block "footer" . }}{{ partials.IncludeCached "site-footer.html" . }}{{ end }}
   {{/* WPO: Scripts loaded at end of body to avoid render-blocking */}}
   {{ partials.Include "site-scripts.html" . }}
+  {{ partial "cookie-consent.html" . }}
 </body>
+
 
 </html>

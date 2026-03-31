@@ -81,22 +81,6 @@ Utilizando métricas como el ratio Sharpe y la volatilidad histórica, los inver
 
 Los sectores tecnológicos y de sostenibilidad han mostrado un rendimiento superior en el contexto actual, según las tendencias del mercado.
 
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Fondos premiados por Morningstar en 2026 con un potencial de retorno del 15%",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Analista Financiero"
-  },
-  "articleBody": "Un 40% de los fondos de inversión han superado el índice de referencia en los últimos tres años...",
-  "mainEntityOfPage": "https://www.morningstar.es/"
-}
-</script>
-
 La decisión de invertir en fondos premiados debe basarse en un análisis riguroso y una comprensión clara de los riesgos y beneficios asociados. La información contenida aquí debe servir como una guía para la toma de decisiones informadas en un entorno de inversión cada vez más complejo.
 
 ---

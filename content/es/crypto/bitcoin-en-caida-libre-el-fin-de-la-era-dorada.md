@@ -23,10 +23,10 @@ El festín de la especulación con Bitcoin ha terminado. Los entusiastas de la c
 
 No nos engañemos: la caída no es una mera "tormenta perfecta". Es la inevitable consecuencia de una burbuja alimentada por la especulación descontrolada y la narrativa simplista de "dinero digital". Enumeremos los catalizadores, pero sin caer en la trampa de creer que son eventos aislados:
 
-*   **Aranceles:** La histeria sobre las guerras comerciales es una cortina de humo. Los mercados siempre han tenido volatilidad, y el inversor serio se adapta.
-*   **La Fed de Warsh:** ¿Un "giro" agresivo? No sean ingenuos. La Reserva Federal simplemente está intentando corregir los errores de una década de política monetaria laxa. Y Kevin Warsh, **nombrado por fin tras años de espera**, no hará favores a los especuladores.
-*   **El "Software-mageddon":** La inteligencia artificial, la supuesta panacea tecnológica, ha demostrado ser una promesa vacía. Y su correlación con Bitcoin solo revela la superficialidad de ambas "inversiones".
-*   **Éxodo Institucional:** Los "inversores institucionales" no son más que jugadores con información privilegiada que inflan el mercado para luego vender sus posiciones a incautos. Su huida masiva es una señal inequívoca del final del juego.
+* **Aranceles:** La histeria sobre las guerras comerciales es una cortina de humo. Los mercados siempre han tenido volatilidad, y el inversor serio se adapta.
+* **La Fed de Warsh:** ¿Un "giro" agresivo? No sean ingenuos. La Reserva Federal simplemente está intentando corregir los errores de una década de política monetaria laxa. Y Kevin Warsh, **nombrado por fin tras años de espera**, no hará favores a los especuladores.
+* **El "Software-mageddon":** La inteligencia artificial, la supuesta panacea tecnológica, ha demostrado ser una promesa vacía. Y su correlación con Bitcoin solo revela la superficialidad de ambas "inversiones".
+* **Éxodo Institucional:** Los "inversores institucionales" no son más que jugadores con información privilegiada que inflan el mercado para luego vender sus posiciones a incautos. Su huida masiva es una señal inequívoca del final del juego.
 
 ## Números que NO Mienten, segun datos recogidos por [SEC](https://www.sec.gov/)
 
@@ -48,7 +48,7 @@ Las "opiniones de los expertos" son un circo mediático. Standard Chartered pred
 
 El "Efecto Warsh", el estrés en las tesorerías corporativas, la ofensiva regulatoria de China, el "cruce de la muerte": son peligros reales que no deben tomarse a la ligera. MicroStrategy, **por ejemplo, podría arrastrar a otros a la quiebra** en su caída, ya que sus inversiones en Bitcoin son ahora un lastre que amenaza su solvencia.
 
-*   El futuro es simple: a medida que las regulaciones se endurezcan y la liquidez se seque, Bitcoin se revelará como lo que siempre ha sido: una moda pasajera, un esquema Ponzi digitalizado.
+* El futuro es simple: a medida que las regulaciones se endurezcan y la liquidez se seque, Bitcoin se revelará como lo que siempre ha sido: una moda pasajera, un esquema Ponzi digitalizado.
 
 ## Veredicto Final: El Funeral de Bitcoin Para profundizar en este tema, consulta nuestro analisis sobre [¿Gas Demasiado Caro en Metamask? Guía Completa Par](/crypto/metamask-gas-fees-guia-completa/).
 

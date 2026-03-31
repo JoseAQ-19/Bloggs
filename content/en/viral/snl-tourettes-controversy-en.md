@@ -59,7 +59,7 @@ These fictional portrayals contribute to the development of harmful stereotypes,
 
 Given SNL's wide reach and cultural influence, its portrayal of Tourette's has the potential to reinforce existing stereotypes and further entrench negative perceptions. By failing to provide a balanced and accurate representation of the condition, SNL risks contributing to the long-term stigmatization of individuals with Tourette's. It is crucial for media outlets to recognize the power of their portrayals and to take responsibility for ensuring that they are accurate, sensitive, and respectful. The spread of misinformation can lead to increased harassment, as noted in various Reddit discussions **Reddit**.
 
-## The Bottom Line
+## 
 
 SNL's attempt at humor fell flat, resulting in a sketch that punched down rather than up, perpetuating harmful stereotypes about Tourette's Syndrome.
 

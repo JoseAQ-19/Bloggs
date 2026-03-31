@@ -33,8 +33,8 @@ Esta "pila autoritaria" se compone de una serie de tecnologías, desde plataform
 
 El ejemplo del contrato de Palantir con el ejército de EE.UU., mencionado en el artículo original, es solo la punta del iceberg. **Según este informe de Reuters**, la expansión de Palantir en el sector defensa es imparable, y su tecnología se está utilizando cada vez más para la vigilancia masiva y la identificación de "amenazas". No se trata solo de eficiencia administrativa; se trata de un cambio fundamental en la naturaleza del poder, donde las decisiones se toman cada vez más mediante algoritmos opacos controlados por intereses privados.
 
-*   ¿Estamos dispuestos a aceptar un futuro donde nuestras vidas estén controladas por algoritmos diseñados por unos pocos privilegiados?
-*   ¿Estamos dispuestos a renunciar a nuestra libertad a cambio de la ilusión de seguridad?
+* ¿Estamos dispuestos a aceptar un futuro donde nuestras vidas estén controladas por algoritmos diseñados por unos pocos privilegiados?
+* ¿Estamos dispuestos a renunciar a nuestra libertad a cambio de la ilusión de seguridad?
 
 ## La Falsa Promesa de la Descentralización: Un Camino sin Salida
 

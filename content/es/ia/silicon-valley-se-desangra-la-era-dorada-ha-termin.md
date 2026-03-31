@@ -53,8 +53,8 @@ Para navegar el incierto panorama actual, las empresas deben adoptar un enfoque 
 Silicon Valley se encuentra en un punto de inflexión, donde la era de valoraciones infladas y crecimiento fácil cede el paso a un imperativo de realismo, disciplina e innovación con fundamentos sólidos para asegurar la sostenibilidad a largo plazo. La complacencia debe ser reemplazada por un enfoque estratégico en la rentabilidad, la eficiencia y la creación de valor tangible, más allá del mero brillo de las promesas de la IA.
 
 ### Fuentes y Autoridad
-*   [Análisis en Com/news](https://openai.com/news)
-*   [Análisis en Google/discover](https://deepmind.google/discover)
+* [Análisis en Com/news](https://openai.com/news)
+* [Análisis en Google/discover](https://deepmind.google/discover)
 
 > **[Análisis Recomendado]** La NBA Reúne a Más de 200 Creadores en el All-Star Weekend de Los Ángeles: [/es/youtube/nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety/](/es/youtube/nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety/)
 

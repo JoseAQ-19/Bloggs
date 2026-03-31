@@ -45,7 +45,7 @@ Mientras los líderes de la industria nos advierten sobre el hipotético "riesgo
 
 Incluso las promesas de "neutralidad de carbono" de las grandes tecnológicas son, en muchos casos, una farsa. Las empresas omiten las emisiones de su cadena de suministro y dependen de compensaciones de carbono dudosas. La eficiencia ganada por los nuevos modelos se anula por la paradoja de Jevons: al ser más barato computar, se usa más, aumentando las emisiones netas.
 
-*   Es crucial desenmascarar estas falacias.
+* Es crucial desenmascarar estas falacias.
 
 La capacidad de la IA para generar desinformación convincente a escala masiva amenaza la democracia y la confianza en las instituciones. La población, distraída por trivialidades y entretenimiento, perderá la capacidad de participar en asuntos públicos serios. La vigilancia se ha convertido en el modelo de negocio predeterminado. Los datos íntimos de trabajadores y consumidores se utilizan para calibrar salarios y entrenar modelos que eventualmente los reemplazarán.
 

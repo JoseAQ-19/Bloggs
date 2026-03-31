@@ -69,9 +69,6 @@ The age of AI in filmmaking brings both opportunities and risks. Filmmakers must
 
 ---
 
-
-
-
 ---
 
 ### FAQs
@@ -92,26 +89,3 @@ The market is projected to grow from $1.4 billion in 2023 to $14.08 billion by 2
 - [Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](/en/youtube/youtube-sports-subscription-live-streaming-en/)
 - [YouTube TV In 2026: The $83 Gamble That Could Backfire Spectacularly](/en/youtube/youtube-tv-2026-price-hike-or-worth-the-hype-en/)
 
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube Just Cracked Down on AI Trailers: 400+ Firms Face Major Risks",
-  "description": "YouTube's new crackdown on AI-generated trailers threatens over 400 firms. Discover the implications for content creators and the future of marketing.",
-  "image": "https://novumworld.com/images/youtube-shuts-down-ai-generated-movie-trailers-what-it-means-for-creators-en.jpg",
-  "datePublished": "2026-03-18T19:32:17",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

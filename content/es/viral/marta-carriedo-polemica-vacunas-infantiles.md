@@ -49,7 +49,7 @@ La hesitacion vacunal, impulsada por la desinformación y la desconfianza, no so
 
 **El dato.** El Gripómetro Sanofi ha revelado que la tasa de vacunación contra la influenza disminuyó en el grupo de edad de 60 a 64 años al 31.6% durante la campaña 2025-2026. Esta disminución, aunque puede deberse a diversos factores, refleja una tendencia general de menor adherencia a la vacunación, lo que impacta directamente en las ventas de vacunas antigripales.
 
-La aparente "información gratuita" que circula en redes sociales y otros medios sobre los supuestos riesgos de las vacunas tiene un costo oculto: la pérdida de confianza en la ciencia y la medicina, lo que se traduce en menores tasas de vacunación y, en última instancia, en mayores riesgos para la salud pública y menores ingresos para las farmacéuticas. Sanofi y otras compañías del sector deben invertir en campañas de comunicación y educación para contrarrestar la desinformación y promover la vacunación como una herramienta fundamental para proteger la salud.
+La aparente "información gratuita" que circula en redes sociales y otros medios sobre los supuestos riesgos de las vacunas tiene un costo oculto: la pérdida de confianza en la ciencia y la medicina, lo que se traduce en menores tasas de vacunación y, , en mayores riesgos para la salud pública y menores ingresos para las farmacéuticas. Sanofi y otras compañías del sector deben invertir en campañas de comunicación y educación para contrarrestar la desinformación y promover la vacunación como una herramienta fundamental para proteger la salud.
 
 ## El Resurgimiento de la Tosferina: ¿El Legado Silencioso de la Controversia Vacunal?
 

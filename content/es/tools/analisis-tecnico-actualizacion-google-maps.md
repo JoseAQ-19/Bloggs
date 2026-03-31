@@ -15,9 +15,9 @@ translationKey: "df33f659-a933-c992-0697-7c24cbf1dfe5"
 
 Google está apostando por la integración de Gemini AI en Google Maps, lo que podría tener consecuencias negativas en la experiencia del usuario. Usuarios frustrados reportan una degradación en la fiabilidad de la navegación básica, coincidiendo con esta apuesta por la IA.
 
-*   La funcionalidad "Ask Maps" de Google procesa información de 300 millones de sitios y reseñas de 500 millones de usuarios para generar respuestas.
-*   La comunidad técnica en Reddit destaca que la interfaz se ha vuelto "inútil" tras las últimas actualizaciones, sugiriendo una regresión en la experiencia de usuario (UX) en favor de la IA.
-*   El diseño visual de Apple Maps ha superado a Google en densidad de detalles en ciudades como Madrid y Barcelona, lo que obliga a una corrección técnica por parte de Google.
+* La funcionalidad "Ask Maps" de Google procesa información de 300 millones de sitios y reseñas de 500 millones de usuarios para generar respuestas.
+* La comunidad técnica en Reddit destaca que la interfaz se ha vuelto "inútil" tras las últimas actualizaciones, sugiriendo una regresión en la experiencia de usuario (UX) en favor de la IA.
+* El diseño visual de Apple Maps ha superado a Google en densidad de detalles en ciudades como Madrid y Barcelona, lo que obliga a una corrección técnica por parte de Google.
 
 **BLUF** Resumen Ejecutivo Técnico: La arquitectura de Google Maps ha mutado de un sistema de enrutamiento determinista a una envolvente RAG (Retrieval-Augmented Generation) basada en Gemini, aumentando la latencia de las consultas y el consumo de recursos del cliente. El caso de uso exacto es la navegación asistida por LLM para descubrimiento de puntos de interés (POI), aunque la estabilidad del núcleo de navegación ha sufrido regresiones significativas reportadas por usuarios. El modelo de precios sigue siendo freemium con monetización agresiva a través de datos de ubicación y perfiles de usuario, exigiendo autenticación forzosa para mantener la funcionalidad completa.
 

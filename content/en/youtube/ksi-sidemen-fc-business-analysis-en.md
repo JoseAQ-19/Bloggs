@@ -59,7 +59,7 @@ However, the success of these ventures is not guaranteed. The clothing industry 
 
 Moreover, the Sidemen's individual financial situations may vary, leading to potential conflicts of interest. Some members may have more successful individual ventures, while others may be more reliant on the group's collective revenue. This disparity could create tension within the group, especially if the equal split arrangement begins to feel unfair to those who are contributing more.
 
-## The Bottom Line
+## 
 
 The Sidemen's diverse revenue streams and ambitious brand-building efforts are promising signs of long-term sustainability. However, KSI's apparent generosity in equally splitting earnings, coupled with lingering concerns about the transparency of prize money payouts and charitable expenses, could eventually erode trust and undermine the group's financial stability.
 

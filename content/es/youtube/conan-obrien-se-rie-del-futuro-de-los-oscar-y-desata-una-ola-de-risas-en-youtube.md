@@ -26,7 +26,7 @@ La Academia de Hollywood ha admitido públicamente su crisis de relevancia. Bill
 Las razones detrás del éxodo son múltiples y se sustentan en métricas frías. El [Censo de EE.UU.](https://www.census.gov/newsroom/stories/academy-awards.html) señala que la población target de los Oscar (adultos de 25-54 años) consume contenido en plataformas como YouTube, Twitch y TikTok en un 78% de su tiempo libre. Los Oscar, con su horario nocturno y su formato largo, compiten con una oferta infinita de contenido digital. "Un joven de 20 años hoy ve más contenido en 24 horas en YouTube que un espectador de los Oscar de 1990 en un mes", explica **Karla Sofía Gascón, actriz nominada en 2024**, quien añadió que "la ceremonia se siente como un museo vivo, pero nadie visita museos para entretenerse". La paradoja es que mientras la Academia busca audiencia en YouTube, la plataforma ya tiene su propia estructura de premios y creadores que conectan directamente con los jóvenes, como demuestra el éxito de [artículos sobre la fórmula viral de MrBeast](/es/youtube/mrbeast-formula-viral-youtube/).
 
 ## El Arma de Doble Filo: el Humor Controversial de Conan
-Conan O'Brien se ha convertido en el ancla temporal de los Oscar, pero su humor ácido es un arma de doble filo. En su monólogo de 2026, no se guardó nada: "Timothée Chalamet dice que el ballet es más accesible que el opera... ¡Timothée, el ballet es como la ópera pero con saltos y menos gente quejándose!". La frase, dirigida al actor de "Dune", generó un aluvión de reacciones. En redes sociales, el hashtag #NoAlChistesDeConan se convirtió en trending en España, donde la gala se retransmite en diferido por la madrugada. "Conan es brillante, pero sus chistes no siempre traducen bien fuera de EE.UU.", comentó **Janet Yang** en una entrevista posterior. Su intervención sobre Karla Sofía Gascón fue aún más polémica: "¡La nominación de Karla es un éxito del wokeismo! ¿O acaso también rescataremos las viejas fotos de Instagram de todos?".
+Conan O'Brien se ha convertido en el ancla temporal de los Oscar, pero su humor ácido es . En su monólogo de 2026, no se guardó nada: "Timothée Chalamet dice que el ballet es más accesible que el opera... ¡Timothée, el ballet es como la ópera pero con saltos y menos gente quejándose!". La frase, dirigida al actor de "Dune", generó un aluvión de reacciones. En redes sociales, el hashtag #NoAlChistesDeConan se convirtió en trending en España, donde la gala se retransmite en diferido por la madrugada. "Conan es brillante, pero sus chistes no siempre traducen bien fuera de EE.UU.", comentó **Janet Yang** en una entrevista posterior. Su intervención sobre Karla Sofía Gascón fue aún más polémica: "¡La nominación de Karla es un éxito del wokeismo! ¿O acaso también rescataremos las viejas fotos de Instagram de todos?".
 
 ### La Reacción de Reddit y la Comunidad Digital
 La comunidad de Reddit r/Oscars, con más de 1.2 millones de suscriptores, se llenó de debates furiosos. "Odio cuando Conan intenta ser 'el comediante irreverente' y solo suena a viejo y rancio", escribió el usuario u/CinemaLover2024 con +5,000 upvotes. Otros defendieron su estilo: "Es el único que se atreve a decir lo que todos piensan sobre las pompas de los Oscar". La polarización refleja una realidad más amplia: los Oscar ya no son un evento cultural unificador, sino un campo de batalla ideológico. Los datos de [tendencias de consumo digital](https://census.gov/newsroom/press-releases/2023/population-projections/population-projections-spanish.html) muestran que los espectadores jóvenes no buscan entretenimiento pasivo, sino "experiencias participatorias" que las galas tradicionales no pueden ofrecer. Conan, con sus chistes incómodos, es un síntoma de este divorcio.
@@ -68,26 +68,3 @@ Las marcas (como Rolex o Netflix) invertirán menos si los Oscar pierden audienc
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 - [YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
 
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Conan O’Brien Desata Risas Sobre el Futuro de los Oscar y Causa Polémica en YouTube",
-  "description": "Conan O’Brien provoca risas y controversia al hablar del futuro de los Oscar en YouTube. Descubre su humor único y las reacciones que genera.",
-  "image": "https://novumworld.com/images/conan-obrien-se-rie-del-futuro-de-los-oscar-y-desata-una-ola-de-risas-en-youtube.jpg",
-  "datePublished": "2026-03-16T19:13:36",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

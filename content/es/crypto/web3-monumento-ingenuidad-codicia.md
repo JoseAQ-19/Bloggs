@@ -75,5 +75,5 @@ Lo que la Web3 deja claro es que la tecnología sin regulación ni ética no es 
 
 ---
 
-**Artículos Relacionados:**  
+**Artículos Relacionados:** 
 Para profundizar en este tema, consulta nuestro análisis sobre **Hugging Face: ¿El espejismo del Open Source o la trampa?**.

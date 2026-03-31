@@ -31,7 +31,7 @@ India no busca una "autonomía estratégica", sino maximizar su beneficio propio
 
 Estas potencias no son víctimas de un nuevo orden caótico, sino arquitectos activos de su propia suerte. Y si el viejo orden se desmorona, no es por culpa de Trump, sino por su propia obsolescencia.
 
-*   China: Su "exportación agresiva" de manufacturas es simplemente capitalismo puro y duro. Que Occidente no pueda competir es su problema, no el de China.
+* China: Su "exportación agresiva" de manufacturas es simplemente capitalismo puro y duro. Que Occidente no pueda competir es su problema, no el de China.
 
 ## Irán: El Caos es la Oportunidad
 

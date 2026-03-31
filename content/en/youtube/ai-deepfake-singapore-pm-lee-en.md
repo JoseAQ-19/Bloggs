@@ -59,7 +59,7 @@ Deepfakes can be deployed to create false narratives about political candidates,
 
 The impact of deepfakes extends beyond domestic politics. Intelligence agencies are exploring integrating synthetic media into information warfare strategies. Deepfakes can be used to sow discord between nations, incite conflict, and undermine international alliances. The ability to create convincing but false narratives poses a serious threat to global stability and security.
 
-## The Bottom Line
+## 
 
 The deepfake crisis is only accelerating as rendering costs plummet and API access expands. In Singapore, PM Lee Hsien Loong has been targeted. In the US, voters worry about AI influence. According to Dymples Leong, S Rajaratnam School of International Studies, our ability to discern between real and fake has never been more challenged as deepfakes become mainstream in the online information space.
 

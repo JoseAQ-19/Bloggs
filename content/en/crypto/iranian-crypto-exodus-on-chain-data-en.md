@@ -59,7 +59,7 @@ Tom Keatinge, Director of the Centre for Finance and Security at the Royal Unite
 
 The US investigators are examining whether crypto platforms were used to help Iranian officials and state-linked actors evade sanctions, according to [Reuters](https://www.reuters.com/markets/us-probes-crypto-platforms-over-alleged-iranian-sanctions-evasion-2026-02-03/). The US Treasury is reviewing platforms potentially allowing movement of money abroad, access to hard currency, or purchase of restricted goods. This inquiry raises questions about the future of crypto regulation and the role of international cooperation in combating illicit finance. Is the US prepared to take a more aggressive stance in regulating crypto exchanges that operate in jurisdictions with weak or non-existent sanctions enforcement?
 
-## The Bottom Line
+## 
 
 The illusion of a neutral, decentralized financial system is shattered by the realities of geopolitical conflict and state-sponsored illicit finance. The US must proactively regulate crypto exchanges to prevent sanctions evasion by state-sponsored actors. Regulators must focus on tracking and tracing crypto transactions linked to sanctioned entities.
 

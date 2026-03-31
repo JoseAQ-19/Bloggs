@@ -79,7 +79,7 @@ Beyond basic sanitization, consider implementing a Content Security Policy (CSP)
 
 In addition to server-side sanitization, organizations should also implement client-side security measures to protect users from CSV injection attacks. This includes educating users about the risks of opening CSV files from untrusted sources and providing them with tools to detect and prevent malicious formulas from executing. For example, users can configure their spreadsheet applications to disable automatic formula execution or to display a warning message before executing formulas from untrusted sources.
 
-## The Bottom Line: Treat CSV Export Like a Security Minefield
+## : Treat CSV Export Like a Security Minefield
 
 Treat CSV export like a security minefield by implementing server-side sanitization of all user-provided data before CSV export and taking a proactive security stance. Implement server-side sanitization of all user-provided data before CSV export. Don't let a simple spreadsheet become a backdoor for hackers. CSV injection is a real threat that demands attention.
 

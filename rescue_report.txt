@@ -1,0 +1,24 @@
+============================================================
+OPERACION RESCATE — INFORME DE RESULTADOS
+============================================================
+Total archivos procesados:     631
+Articulos RESCATADOS:          630
+  - Ingles (EN):               357
+  - Espanol (ES):              273
+Aun en cuarentena:             0
+------------------------------------------------------------
+FIXES APLICADOS:
+  TranslationKey inyectado:    0
+  H1 -> H2 convertido:         11
+  Fugas IA limpiadas:          0
+  Frases roboticas purgadas:   192
+------------------------------------------------------------
+DISTRIBUCION POR NICHO:
+  ia                  : 138
+  youtube             : 105
+  fitness             : 94
+  crypto              : 94
+  viral               : 92
+  funds               : 57
+  tools               : 50
+============================================================

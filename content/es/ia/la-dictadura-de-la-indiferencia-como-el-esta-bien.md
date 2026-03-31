@@ -35,13 +35,13 @@ Profundizando en el análisis, los investigadores encontraron que los "indiferen
 
 El análisis de la Encuesta CEP y otros estudios complementarios identifican varios factores que contribuyen al crecimiento de la indiferencia en Chile:
 
-*   **Procesos Constitucionales Fallidos:** Los dos intentos fallidos de redactar una nueva constitución generaron frustración y desilusión en la población, alimentando la idea de que el sistema político es incapaz de abordar los problemas del país.
-*   **Promesas Incumplidas:** El gobierno de Gabriel Boric, que prometió una transformación radical de la sociedad chilena, no ha logrado cumplir sus ambiciosas promesas, generando decepción y cinismo.
-*   **Aumento de la Delincuencia:** El aumento de la delincuencia y la violencia después de la pandemia ha generado una sensación de inseguridad e impotencia, socavando la confianza en la capacidad del Estado para proteger a sus ciudadanos.
-*   **Inmigración Descontrolada:** La percepción de una inmigración descontrolada en la zona norte del país ha generado tensiones sociales y económicas, alimentando el resentimiento y la desconfianza hacia las instituciones.
-*   **Estancamiento Económico:** Las perspectivas sombrías de crecimiento económico, sumadas a una ralentización económica que se arrastra desde 2014, generan incertidumbre y pesimismo sobre el futuro del país.
+* **Procesos Constitucionales Fallidos:** Los dos intentos fallidos de redactar una nueva constitución generaron frustración y desilusión en la población, alimentando la idea de que el sistema político es incapaz de abordar los problemas del país.
+* **Promesas Incumplidas:** El gobierno de Gabriel Boric, que prometió una transformación radical de la sociedad chilena, no ha logrado cumplir sus ambiciosas promesas, generando decepción y cinismo.
+* **Aumento de la Delincuencia:** El aumento de la delincuencia y la violencia después de la pandemia ha generado una sensación de inseguridad e impotencia, socavando la confianza en la capacidad del Estado para proteger a sus ciudadanos.
+* **Inmigración Descontrolada:** La percepción de una inmigración descontrolada en la zona norte del país ha generado tensiones sociales y económicas, alimentando el resentimiento y la desconfianza hacia las instituciones.
+* **Estancamiento Económico:** Las perspectivas sombrías de crecimiento económico, sumadas a una ralentización económica que se arrastra desde 2014, generan incertidumbre y pesimismo sobre el futuro del país.
 
-En resumen, las instituciones democráticas chilenas no han logrado responder de manera eficiente y eficaz a los problemas que enfrenta el país, lo que ha llevado a una descomposición del horizonte democrático y un aumento de la indiferencia.
+ las instituciones democráticas chilenas no han logrado responder de manera eficiente y eficaz a los problemas que enfrenta el país, lo que ha llevado a una descomposición del horizonte democrático y un aumento de la indiferencia.
 
 **Implicaciones para la Democracia**
 
@@ -58,7 +58,6 @@ Superar la "dictadura de la indiferencia" requiere un esfuerzo concertado de tod
 Es crucial comprender que la indiferencia no es simplemente una falta de interés, sino una respuesta a la frustración, la decepción y la falta de esperanza. Para combatir la indiferencia, es necesario abordar las causas subyacentes que la alimentan.
 
 Chile se encuentra en una encrucijada. El país puede seguir por el camino de la indiferencia, que conduce a la erosión de la democracia y el surgimiento de un régimen autoritario, o puede despertar del letargo y reafirmar su compromiso con los valores democráticos. La elección está en manos de los chilenos. El futuro de Chile depende de ello.
-
 
 ### Fuentes y Autoridad
 * [Análisis en Com/news](https://openai.com/news)

@@ -39,15 +39,15 @@ CIDOB correctly identifies key players who stand to gain or lose in this new env
 
 **The Winners:**
 
-*   **China:** Poised to continue its rise as a global power by leveraging its economic and technological might.
-*   **Opportunistic Nations:** Countries willing to exploit geopolitical instability for their own benefit, regardless of ethical considerations.
-*   **The Gulf States:** Strengthening their diplomatic and technological prominence.
-*   **India:** Capitalizing on its strategic location and economic potential to play a pivotal role in the emerging world order.
+* **China:** Poised to continue its rise as a global power by leveraging its economic and technological might.
+* **Opportunistic Nations:** Countries willing to exploit geopolitical instability for their own benefit, regardless of ethical considerations.
+* **The Gulf States:** Strengthening their diplomatic and technological prominence.
+* **India:** Capitalizing on its strategic location and economic potential to play a pivotal role in the emerging world order.
 
 **The Losers:**
 
-*   **Nations lacking the resources or leadership to adapt:** Countries that are unable to compete in the new geopolitical landscape will be marginalized and vulnerable.
-*   **The European Union:** Struggling to define its role in a world dominated by great power competition, facing internal divisions and external pressures.
+* **Nations lacking the resources or leadership to adapt:** Countries that are unable to compete in the new geopolitical landscape will be marginalized and vulnerable.
+* **The European Union:** Struggling to define its role in a world dominated by great power competition, facing internal divisions and external pressures.
 
 ## Flashpoints and Conflict Zones: Where the Pressure Will Boil Over
 

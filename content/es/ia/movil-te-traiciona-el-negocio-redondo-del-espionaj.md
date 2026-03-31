@@ -29,8 +29,8 @@ No solo te espían con el GPS. Eso es la punta del iceberg. Un estudio de Yale y
 
 ¿Confías en tu app del banco o en esa para controlar tu dieta? Grave error. Pueden estar compartiendo tus datos financieros, historial médico, o incluso datos sobre tu ciclo menstrual con terceros. Y eso no es todo, la tecnología de rastreo evoluciona constantemente.
 
-*   **El Murmullo Inaudible: Ultrasonidos Delatores:** FidZup, entre otras, utiliza ultrasonidos para detectar tu teléfono, rastreando tus movimientos incluso con el GPS apagado. Tu presencia en una tienda, registrada sin tu consentimiento.
-*   **GPS Confidente: El Plano de Tu Vida Sin Permiso:** Investigadores del IIT Delhi demostraron que, con simples fluctuaciones en la señal GPS, pueden deducir si estás sentado, de pie, en un lugar concurrido, y hasta mapear la estructura de la habitación con un 99% de precisión. [Puedes ver el estudio aquí](https://arxiv.org/abs/2302.02874).
+* **El Murmullo Inaudible: Ultrasonidos Delatores:** FidZup, entre otras, utiliza ultrasonidos para detectar tu teléfono, rastreando tus movimientos incluso con el GPS apagado. Tu presencia en una tienda, registrada sin tu consentimiento.
+* **GPS Confidente: El Plano de Tu Vida Sin Permiso:** Investigadores del IIT Delhi demostraron que, con simples fluctuaciones en la señal GPS, pueden deducir si estás sentado, de pie, en un lugar concurrido, y hasta mapear la estructura de la habitación con un 99% de precisión. [Puedes ver el estudio aquí](https://arxiv.org/abs/2302.02874).
 
 Crees que usas tu móvil, pero él te está usando a ti. Y la brecha no hace más que ensancharse.
 
@@ -42,9 +42,9 @@ Los Términos de Servicio y Políticas de Privacidad son un laberinto legal dise
 
 La Facultad de Derecho de Villanova ha analizado estos riesgos ocultos, destacando cómo estos documentos "legalizan" riesgos éticos en lugar de proteger al usuario.
 
-*   **Sin Opción Real:** Es "todo o nada". O aceptas ser vigilado, o te quedas fuera del sistema.
-*   **Perfilado Constante:** Crean perfiles que pueden usarse para discriminarte y limitar tus oportunidades.
-*   **Tus Datos, Su Propiedad:** Tu información se comparte con anunciantes, corredores de datos, y sabe Dios quién más, sin que tengas ni voz ni voto.
+* **Sin Opción Real:** Es "todo o nada". O aceptas ser vigilado, o te quedas fuera del sistema.
+* **Perfilado Constante:** Crean perfiles que pueden usarse para discriminarte y limitar tus oportunidades.
+* **Tus Datos, Su Propiedad:** Tu información se comparte con anunciantes, corredores de datos, y sabe Dios quién más, sin que tengas ni voz ni voto.
 
 La elección es una ilusión: o te dejas espiar y disfrutas de las "ventajas" de la tecnología, o te autoexilias del mundo moderno.
 
@@ -52,8 +52,8 @@ La elección es una ilusión: o te dejas espiar y disfrutas de las "ventajas" de
 
 No solo se trata de publicidad dirigida. Los datos recopilados se usan para fines mucho más oscuros.
 
-*   **Espionaje a Gran Escala:** Periodistas han rastreado a altos funcionarios de la UE comprando datos a *data brokers*, demostrando que ni el GDPR protege tu información. **Según Reuters, incluso el ejército de EE. UU. compra datos de ubicación de aplicaciones cotidianas**.
-*   **Manipulación y Discriminación:** Algoritmos analizan tus creencias políticas para bombardearte con publicidad personalizada, como en la campaña de 2016. Además, los perfiles permiten la discriminación en precios y oportunidades.
+* **Espionaje a Gran Escala:** Periodistas han rastreado a altos funcionarios de la UE comprando datos a *data brokers*, demostrando que ni el GDPR protege tu información. **Según Reuters, incluso el ejército de EE. UU. compra datos de ubicación de aplicaciones cotidianas**.
+* **Manipulación y Discriminación:** Algoritmos analizan tus creencias políticas para bombardearte con publicidad personalizada, como en la campaña de 2016. Además, los perfiles permiten la discriminación en precios y oportunidades.
 
 Shoshana Zuboff, en *La Era del Capitalismo de la Vigilancia*, lo describe como una "expropiación unilateral de la experiencia humana como materia prima gratuita." Tus datos se procesan para predecir tu comportamiento, creando "mercados de futuros conductuales." No solo perdemos privacidad, sino también autonomía y control sobre nuestras propias vidas.
 

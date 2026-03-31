@@ -31,7 +31,7 @@ Gemini y NotebookLM pueden vomitar datos sobre la "evolución" de la objetividad
 
 Confundir objetividad con imparcialidad es un error garrafal. La imparcialidad, entendida como dar tribuna a todas las voces, a menudo sirve para legitimar la desinformación y la propaganda. Presentar "ambos lados" de un debate científico establecido, como el cambio climático, es una forma de negacionismo disfrazada de ecuanimidad.
 
-Consideremos el ejemplo del calentamiento global. Un periodista "neutral" podría mostrar gráficos de temperaturas ascendentes sin mencionar la responsabilidad de la actividad humana. Así, la omisión estratégica se convierte en arma de distorsión.  Mientras la evidencia científica se acumula implacablemente, la insistencia en el "equilibrio" permite que los negacionistas siembren dudas y retrasen la acción.  En este sentido, la neutralidad es complicidad. El IPCC [ha detallado exhaustivamente la influencia humana](https://www.ipcc.ch/sr15/), pero la "neutralidad" permite ignorar esta realidad.
+Consideremos el ejemplo del calentamiento global. Un periodista "neutral" podría mostrar gráficos de temperaturas ascendentes sin mencionar la responsabilidad de la actividad humana. Así, la omisión estratégica se convierte en arma de distorsión. Mientras la evidencia científica se acumula implacablemente, la insistencia en el "equilibrio" permite que los negacionistas siembren dudas y retrasen la acción. En este sentido, la neutralidad es complicidad. El IPCC [ha detallado exhaustivamente la influencia humana](https://www.ipcc.ch/sr15/), pero la "neutralidad" permite ignorar esta realidad.
 
 La obsesión con la neutralidad también paraliza a los periodistas. El miedo a ser tildado de "sesgado" los lleva a evitar temas controvertidos o a suavizar sus informes hasta la insignificancia. Este "efecto enfriador" es un atentado contra la misión del periodismo: confrontar al poder y exponer la verdad, sin importar a quién ofenda.
 
@@ -41,9 +41,9 @@ Reconocer nuestros sesgos no es una debilidad, sino una fortaleza. La transparen
 
 El periodismo de defensa, aunque inherentemente parcial, puede ser una fuerza para el bien si es transparente. Al declarar abiertamente su postura, permite al lector evaluar la información con pleno conocimiento de la agenda del periodista. Este enfoque, si bien puede resultar divisivo, es infinitamente más honesto que la pretensión de neutralidad.
 
-*   Exige la divulgación completa de fuentes de financiamiento.
-*   Revela las afiliaciones políticas e ideológicas de los periodistas.
-*   Explica la metodología de investigación en detalle.
+* Exige la divulgación completa de fuentes de financiamiento.
+* Revela las afiliaciones políticas e ideológicas de los periodistas.
+* Explica la metodología de investigación en detalle.
 
 ## La tecnología: un acelerador de la desinformación
 
@@ -59,6 +59,6 @@ La supuesta crisis de objetividad es una cortina de humo. El periodismo, o es co
 
 La obsesión con la objetividad a menudo lleva a perpetuar narrativas dominantes y a silenciar voces marginalizadas. Al evitar tomar partido, los periodistas refuerzan el statu quo y se convierten en cómplices de la injusticia.
 
-Un enfoque crítico requiere un compromiso con la justicia social y la equidad, aunque eso signifique desafiar la noción misma de neutralidad.  Es vital entender el impacto social de las noticias. Un estudio **publicado en Nature** demuestra cómo la cobertura mediática sesgada afecta negativamente la percepción pública de ciertos grupos minoritarios.
+Un enfoque crítico requiere un compromiso con la justicia social y la equidad, aunque eso signifique desafiar la noción misma de neutralidad. Es vital entender el impacto social de las noticias. Un estudio **publicado en Nature** demuestra cómo la cobertura mediática sesgada afecta negativamente la percepción pública de ciertos grupos minoritarios.
 
 La verdadera objetividad reside en la honestidad intelectual y la transparencia metodológica, no en la pretensión de una neutralidad inexistente. El futuro del periodismo depende de ello. El tiempo de las tibiezas ha terminado. Es hora de tomar partido y defender la verdad, sin importar las consecuencias.

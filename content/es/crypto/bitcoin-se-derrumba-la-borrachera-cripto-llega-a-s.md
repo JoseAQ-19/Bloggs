@@ -22,13 +22,13 @@ El champán digital se ha transformado en vinagre rancio. Lo que se vendió como
 
 La caída no es una simple corrección. Es la explosión de una burbuja inflada con promesas vacías y una tecnología fundamentalmente defectuosa. Ignoremos el ruido y confrontemos los hechos:
 
-*   Desde su punto álgido, Bitcoin se ha desangrado, arrastrando consigo las esperanzas de miles de creyentes ingenuos.
-*   La volatilidad, lejos de ser un rasgo pasajero, es la manifestación de su intrínseca inestabilidad.
-*   Las liquidaciones masivas revelan la peligrosa cantidad de apalancamiento y el riesgo sistémico inherente a este casino disfrazado de innovación.
-*   Mientras Bitcoin se derrumbaba, el oro real brillaba, exponiendo la falsedad de la narrativa del "oro digital". **El oro ha demostrado históricamente ser un refugio seguro**.
-*   El auge de las *stablecoins* no es un signo de madurez, sino un grito desesperado por seguridad en un ecosistema tóxico.
-*   Los mineros, exprimidos por el altísimo costo de la electricidad y la caída del precio, operan en números rojos, debilitando la seguridad de la red. El costo de la energía necesaria para minar Bitcoin supera con creces sus beneficios, un sinsentido ecológico documentado por [investigaciones de la Universidad de Cambridge](https://www.cbeci.org/).
-*   Las *altcoins*, las *memecoins* y la basura digital asociada, se enfrentan a un exterminio masivo cuando Bitcoin estornuda.
+* Desde su punto álgido, Bitcoin se ha desangrado, arrastrando consigo las esperanzas de miles de creyentes ingenuos.
+* La volatilidad, lejos de ser un rasgo pasajero, es la manifestación de su intrínseca inestabilidad.
+* Las liquidaciones masivas revelan la peligrosa cantidad de apalancamiento y el riesgo sistémico inherente a este casino disfrazado de innovación.
+* Mientras Bitcoin se derrumbaba, el oro real brillaba, exponiendo la falsedad de la narrativa del "oro digital". **El oro ha demostrado históricamente ser un refugio seguro**.
+* El auge de las *stablecoins* no es un signo de madurez, sino un grito desesperado por seguridad en un ecosistema tóxico.
+* Los mineros, exprimidos por el altísimo costo de la electricidad y la caída del precio, operan en números rojos, debilitando la seguridad de la red. El costo de la energía necesaria para minar Bitcoin supera con creces sus beneficios, un sinsentido ecológico documentado por [investigaciones de la Universidad de Cambridge](https://www.cbeci.org/).
+* Las *altcoins*, las *memecoins* y la basura digital asociada, se enfrentan a un exterminio masivo cuando Bitcoin estornuda.
 
 La fachada de Bitcoin como cobertura contra la inflación se ha hecho añicos. Mientras la inflación persiste, Bitcoin se ha comportado como un activo especulativo volátil, propenso a los caprichos del mercado y la manipulación. Su pretendida semejanza con el oro es una burda imitación. El oro tiene utilidad industrial, una historia milenaria como depósito de valor y una demanda tangible. Bitcoin, en cambio, es un espejismo sostenido por la fe ciega y el marketing agresivo.
 

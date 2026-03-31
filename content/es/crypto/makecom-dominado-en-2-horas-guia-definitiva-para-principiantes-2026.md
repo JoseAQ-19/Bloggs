@@ -65,15 +65,15 @@ Make.com requiere habilidad, conocimiento y estrategia sólida para ser eficaz, 
 
 **Lo bueno:**
 
-*   La interfaz visual facilita la creación de flujos de trabajo complejos (si tienes la paciencia para aprender a usarla).
-*   La amplia gama de integraciones permite conectar diferentes aplicaciones y servicios (siempre y cuando las APIs sean compatibles).
-*   Ofrece una gran flexibilidad para personalizar las automatizaciones según las necesidades específicas de cada empresa.
+* La interfaz visual facilita la creación de flujos de trabajo complejos (si tienes la paciencia para aprender a usarla).
+* La amplia gama de integraciones permite conectar diferentes aplicaciones y servicios (siempre y cuando las APIs sean compatibles).
+* Ofrece una gran flexibilidad para personalizar las automatizaciones según las necesidades específicas de cada empresa.
 
 **Lo malo:**
 
-*   La complejidad de las automatizaciones avanzadas requiere conocimientos técnicos especializados (a pesar de lo que digan los vendedores).
-*   Las conexiones entre aplicaciones pueden fallar inesperadamente (dejándote con un proceso automatizado a medio camino).
-*   La curva de aprendizaje puede ser pronunciada para usuarios sin experiencia en automatización.
+* La complejidad de las automatizaciones avanzadas requiere conocimientos técnicos especializados (a pesar de lo que digan los vendedores).
+* Las conexiones entre aplicaciones pueden fallar inesperadamente (dejándote con un proceso automatizado a medio camino).
+* La curva de aprendizaje puede ser pronunciada para usuarios sin experiencia en automatización.
 
 **La verdad:**
 
@@ -85,4 +85,4 @@ Para complementar este análisis, es importante considerar algunas alternativas 
 
 Además de estas alternativas, existen otras herramientas de automatización menos conocidas pero igualmente potentes, como n8n y Pipedream. n8n es una herramienta de automatización de código abierto que ofrece una gran flexibilidad y control sobre los flujos de trabajo. Pipedream es una plataforma de integración sin servidor que permite crear automatizaciones complejas con facilidad.
 
-En definitiva, la automatización es una herramienta poderosa que puede mejorar la eficiencia y la productividad de tu empresa, pero solo si se implementa correctamente. Antes de embarcarte en cualquier proyecto de automatización, es fundamental realizar un análisis exhaustivo de tus procesos, definir objetivos claros y seleccionar las herramientas adecuadas. Y recuerda, la automatización no es un sustituto del pensamiento estratégico y la capacitación del equipo.
+ la automatización es una herramienta poderosa que puede mejorar la eficiencia y la productividad de tu empresa, pero solo si se implementa correctamente. Antes de embarcarte en cualquier proyecto de automatización, es fundamental realizar un análisis exhaustivo de tus procesos, definir objetivos claros y seleccionar las herramientas adecuadas. Y recuerda, la automatización no es un sustituto del pensamiento estratégico y la capacitación del equipo.

@@ -15,9 +15,9 @@ translationKey: "ede38e8c-196d-c7d8-f5d8-5064f3e09270"
 
 La industria de la nutrición deportiva a menudo promete resultados rápidos, pero este artículo analiza cómo esa promesa vacía puede generar un gasto innecesario.
 
-*   Los españoles gastan entre 200 y 500 euros anuales en nutrición deportiva, un gasto que a menudo se desperdicia debido a protocolos ineficaces o suplementos contaminados.
-*   Expertos de la Agencia de Acreditación y Certificación Nutricional UCAM advierten sobre los riesgos para la salud del uso no supervisado de suplementos, incluyendo daño hepático y renal.
-*   Los consumidores deben priorizar elecciones informadas y buscar asesoramiento experto para evitar los riesgos financieros y de salud asociados con prácticas de nutrición deportiva potencialmente obsoletas o dañinas.
+* Los españoles gastan entre 200 y 500 euros anuales en nutrición deportiva, un gasto que a menudo se desperdicia debido a protocolos ineficaces o suplementos contaminados.
+* Expertos de la Agencia de Acreditación y Certificación Nutricional UCAM advierten sobre los riesgos para la salud del uso no supervisado de suplementos, incluyendo daño hepático y renal.
+* Los consumidores deben priorizar elecciones informadas y buscar asesoramiento experto para evitar los riesgos financieros y de salud asociados con prácticas de nutrición deportiva potencialmente obsoletas o dañinas.
 
 ## El Mito del Cuerpo Perfecto: Cómo Victor Hoffer y la WFP Desafían la Obsolescencia Estética
 

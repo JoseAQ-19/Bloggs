@@ -51,8 +51,8 @@ El verdadero apocalipsis tecnológico no es un escenario de ciencia ficción, si
 
 Los riesgos son devastadores:
 
-*   **El Fin de la Privacidad:** El Metaverso monitorea todo: lo que hacemos, dónde miramos, cuánto tiempo. La convergencia tecnológica permite el bio-hackeo, donde delegamos decisiones a software, perdiendo autonomía.
-*   **Manipulación Política:** El Metaverso intensifica las cámaras de eco, eliminando la disidencia y el pensamiento crítico. Meta ya ha sido acusada de incitar a la violencia étnica y priorizar el crecimiento sobre la seguridad electoral. **Reuters on Meta's controversies**.
-*   **Destrucción Física:** El aumento del tiempo en pantalla/RV disminuye la actividad física, contribuyendo a la obesidad y problemas cardiovasculares. Una sociedad virtual exacerba las desigualdades y crea nuevas formas de exclusión.
+* **El Fin de la Privacidad:** El Metaverso monitorea todo: lo que hacemos, dónde miramos, cuánto tiempo. La convergencia tecnológica permite el bio-hackeo, donde delegamos decisiones a software, perdiendo autonomía.
+* **Manipulación Política:** El Metaverso intensifica las cámaras de eco, eliminando la disidencia y el pensamiento crítico. Meta ya ha sido acusada de incitar a la violencia étnica y priorizar el crecimiento sobre la seguridad electoral. **Reuters on Meta's controversies**.
+* **Destrucción Física:** El aumento del tiempo en pantalla/RV disminuye la actividad física, contribuyendo a la obesidad y problemas cardiovasculares. Una sociedad virtual exacerba las desigualdades y crea nuevas formas de exclusión.
 
 El Metaverso no es el futuro, es el fin. Destruyamos esta pesadilla digital antes de que nos consuma por completo.

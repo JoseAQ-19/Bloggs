@@ -25,7 +25,7 @@ La Asociación Española Contra el Cáncer (AECC) ha puesto el grito en el cielo
 
 La campaña surge a raíz de la viralización de imágenes de la cantante, lo que ha generado un debate sobre la influencia de los ídolos juveniles en la normalización del tabaquismo. La AECC busca concienciar sobre los riesgos asociados al "humo digital" y prevenir la adopción de hábitos perjudiciales entre los jóvenes, quienes están expuestos a contenidos relacionados con el tabaco en redes sociales. Nofumadores.org también ha denunciado a Rosalía y al podcast por supuesta infracción de las leyes antitabaco.
 
-Sin embargo, centrar la atención en Rosalía podría ser un arma de doble filo. ¿No corre la AECC el riesgo de darle aún más visibilidad a la cantante y, por extensión, al acto de fumar? ¿No sería más efectivo un enfoque integral que aborde las causas subyacentes del vapeo juvenil, en lugar de señalar a una figura pública en particular?
+Sin embargo, centrar la atención en Rosalía podría ser . ¿No corre la AECC el riesgo de darle aún más visibilidad a la cantante y, por extensión, al acto de fumar? ¿No sería más efectivo un enfoque integral que aborde las causas subyacentes del vapeo juvenil, en lugar de señalar a una figura pública en particular?
 
 ## Vapeo: La Falsa Promesa de Un Cigarrillo Inofensivo Según La Industria, segun datos recogidos por [Social Blade](https://socialblade.com/)
 

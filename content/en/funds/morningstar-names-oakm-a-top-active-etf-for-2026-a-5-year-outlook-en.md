@@ -19,25 +19,25 @@ The OAKM ETF (Invesco Dynamic Energy Exploration & Production ETF), classified u
 
 *Comparative Performance Analysis:*
 - OAKM ETF:
-  - 1 Year Return: 24.3%
-  - 3 Year Annualized Return: 16.7%
-  - 5 Year Annualized Return: 18.2%
-  - Volatility (Standard Deviation): 22.4%
-  - Sharpe Ratio: 0.78
-  - Expense Ratio: 0.65% (0.45% institutional)
+ - 1 Year Return: 24.3%
+ - 3 Year Annualized Return: 16.7%
+ - 5 Year Annualized Return: 18.2%
+ - Volatility (Standard Deviation): 22.4%
+ - Sharpe Ratio: 0.78
+ - Expense Ratio: 0.65% (0.45% institutional)
 - MSCI US Investable Market Energy Index (Benchmark):
-  - 1 Year Return: 19.8%
-  - 3 Year Annualized Return: 14.1%
-  - 5 Year Annualized Return: 12.5%
-  - Volatility (Standard Deviation): 20.1%
-  - Sharpe Ratio: 0.65
+ - 1 Year Return: 19.8%
+ - 3 Year Annualized Return: 14.1%
+ - 5 Year Annualized Return: 12.5%
+ - Volatility (Standard Deviation): 20.1%
+ - Sharpe Ratio: 0.65
 - Competitor: XLE (Energy Select Sector SPDR Fund):
-  - 1 Year Return: 21.5%
-  - 3 Year Annualized Return: 15.2%
-  - 5 Year Annualized Return: 16.8%
-  - Volatility (Standard Deviation): 21.8%
-  - Sharpe Ratio: 0.71
-  - Expense Ratio: 0.08%
+ - 1 Year Return: 21.5%
+ - 3 Year Annualized Return: 15.2%
+ - 5 Year Annualized Return: 16.8%
+ - Volatility (Standard Deviation): 21.8%
+ - Sharpe Ratio: 0.71
+ - Expense Ratio: 0.08%
 
 "OAKM's concentrated approach in midstream and upstream energy infrastructure has provided investors with unique exposure to the sector's most resilient segments," noted Sarah Johnson, Senior ETF Analyst at Morningstar. "While the broader energy sector remains cyclical, the fund's emphasis on MLPs and infrastructure assets with contractual cash flows has delivered superior risk-adjusted returns over the past market cycle."
 
@@ -56,8 +56,6 @@ OAKM demonstrates marginally better risk-adjusted returns than its passive count
 ---
 
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
-
-
 
 ### Fuentes y Autoridad
 * [Análisis en Morningstar](https://www.morningstar.com)

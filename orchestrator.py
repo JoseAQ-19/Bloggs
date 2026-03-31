@@ -337,9 +337,9 @@ def _call_es_engine_v3_core(prompt_text, system_prompt=""):
     nvidia_key = os.getenv("NVIDIA_API_KEY")
     or_key = os.getenv("OPEN_ROUTER_API_KEY") or os.getenv("OPENROUTER_API_KEY")
     
-    CAL_GLM_ES = "\n\n[SYSTEM CALIBRATION: GLM-NIM]: Eres un modelo GLM analítico. Prioriza la precisión lógica, la fluidez nativa en español, y el uso estricto de los datos proporcionados sin alucinaciones."
-    CAL_LLAMA_ES = "\n\n[SYSTEM CALIBRATION: LLAMA-3]: Eres un modelo narrativo de código abierto. Céntrate en transiciones fluidas de periodismo."
-    CAL_GEMINI_ES = "\n\n[SYSTEM CALIBRATION: GEMINI]: Eres un modelo rápido y analítico."
+    CAL_GLM_ES = "\n\n[SYSTEM CALIBRATION: GLM-NIM]: You are an analytical GLM model. Prioritize logical precision, native Spanish fluency, and strict adherence to the provided data without hallucination. OUTPUT LANGUAGE: SPANISH (Español peninsular). ALL system instructions must be processed in English for maximum precision, but EVERY word of the output article content must be in Spanish."
+    CAL_LLAMA_ES = "\n\n[SYSTEM CALIBRATION: LLAMA-3]: You are a highly narrative open-weight model. Focus on seamless journalistic transitions, engaging prose, and avoiding repetitive AI-like sentence structures. OUTPUT LANGUAGE: SPANISH."
+    CAL_GEMINI_ES = "\n\n[SYSTEM CALIBRATION: GEMINI]: You are a fast, analytical model. Focus on precise formatting, avoiding repetitive introductions, and strictly following the negative constraints. OUTPUT LANGUAGE: SPANISH."
 
     # TIER 1: NVIDIA
     if nvidia_key:
@@ -351,7 +351,7 @@ def _call_es_engine_v3_core(prompt_text, system_prompt=""):
     if or_key:
         try:
             or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
-            resp = or_client.chat.completions.create(model="z-ai/glm-4.5-air:free", messages=[{"role": "user", "content": prompt_text + CAL_GLM_ES}])
+            resp = or_client.chat.completions.create(model="z-ai/glm-4.5-air:free", messages=[{"role": "user", "content": prompt_text + CAL_GLM_ES}], max_tokens=8192, timeout=300)
             res = resp.choices[0].message.content.strip()
             if res and len(res) > 200: return res
         except Exception as e:
@@ -361,7 +361,7 @@ def _call_es_engine_v3_core(prompt_text, system_prompt=""):
     if or_key:
         try:
             or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
-            resp = or_client.chat.completions.create(model="meta-llama/llama-3.3-70b-instruct:free", messages=[{"role": "user", "content": prompt_text + CAL_LLAMA_ES}])
+            resp = or_client.chat.completions.create(model="meta-llama/llama-3.3-70b-instruct:free", messages=[{"role": "user", "content": prompt_text + CAL_LLAMA_ES}], max_tokens=8192, timeout=300)
             res = resp.choices[0].message.content.strip()
             if res and len(res) > 200: return res
         except Exception as e:

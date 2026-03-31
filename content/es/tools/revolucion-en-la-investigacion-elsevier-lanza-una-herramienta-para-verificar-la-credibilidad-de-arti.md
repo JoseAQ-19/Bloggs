@@ -11,7 +11,7 @@ language: "es"
 translationKey: "feb9186d-f350-04b6-b083-0422eff9283a"
 ---
 
-# 35 millones de euros en riesgo: Elsevier, el EU AI Act y la crisis de la integridad científica
+## 35 millones de euros en riesgo: Elsevier, el EU AI Act y la crisis de la integridad científica
 
 Elsevier se enfrenta a una posible multa de 35 millones de euros por incumplir el reglamento europeo sobre inteligencia artificial (EU AI Act) debido a la falta de transparencia en sus sistemas de revisión científica. Este incumplimiento expone problemas estructurales que comprometen la integridad de la investigación publicada.
 
@@ -85,5 +85,5 @@ Recuperar la confianza en la ciencia es una obligación colectiva que trasciende
 
 ### Artículos relacionados
 
--   **[YouTube te destroza: el algoritmo adictivo que engancha como la cocaína](/es/youtube/youtube-atracones-tele-peor/)**
--   **[YouTube: el imperio prohibido donde el 64% de tus hijos ya están cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)**
+- **[YouTube te destroza: el algoritmo adictivo que engancha como la cocaína](/es/youtube/youtube-atracones-tele-peor/)**
+- **[YouTube: el imperio prohibido donde el 64% de tus hijos ya están cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)**

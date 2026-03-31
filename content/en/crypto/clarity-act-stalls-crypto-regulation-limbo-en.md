@@ -51,7 +51,7 @@ Regulators must broaden their focus beyond Ethereum and develop strategies to ad
 
 Even with the passage of the GENIUS Act, designed to regulate stablecoins in the US, loopholes persist that could undermine its effectiveness. While the GENIUS Act prohibits stablecoin issuers from directly paying interest, affiliates, exchanges, and other third parties are paying interest on behalf of issuers, potentially circumventing the prohibition. This practice creates a regulatory gray area that allows stablecoin holders to earn yield without the same level of regulatory oversight as traditional bank deposits.
 
-This loophole is particularly concerning because it creates an uneven playing field between stablecoin issuers and traditional banks. Banks are subject to strict capital requirements and liquidity rules, which limit their ability to pay interest on deposits. Stablecoin issuers, on the other hand, can circumvent these rules by using affiliates and exchanges to pay interest, potentially attracting depositors away from traditional banks. The **OCC** has proposed rules to implement the GENIUS Act, but it remains to be seen whether these rules will be sufficient to close the affiliate interest payment loophole.
+This loophole is particularly concerning because it creates an uneven playing field between stablecoin issuers and traditional banks. Banks are subject to strict capital requirements and liquidity rules, which limit their ability to pay interest on deposits. Stablecoin issuers, on the other hand, can circumvent these rules by using affiliates and exchanges to pay interest, potentially attracting depositors away from traditional banks. The **OCC** has proposed rules to implement the GENIUS Act, but whether these rules will be sufficient to close the affiliate interest payment loophole.
 
 The existence of this loophole also raises questions about the true purpose of the GENIUS Act. Is it genuinely intended to protect consumers and prevent systemic risk, or is it simply a way to protect the interests of traditional banks? If the goal is to create a level playing field, then regulators must ensure that stablecoin issuers are subject to the same capital requirements and liquidity rules as traditional banks, regardless of whether they pay interest directly or through affiliates.
 
@@ -67,7 +67,7 @@ Regulatory arbitrage is also a major concern. Stablecoin issuers can choose to d
 
 The delay in passing the CLARITY Act is not simply a matter of political gridlock; it is a failure to protect consumers and prevent illicit activity. Regulators must act decisively to close the regulatory gaps and ensure that stablecoins are subject to the same level of scrutiny as traditional financial institutions. Failure to do so will only embolden criminals and undermine the integrity of the financial system.
 
-## The Bottom Line
+## 
 
 The CLARITY Act in its current state is insufficient to address the risks posed by stablecoins, specifically concerning illicit activity and regulatory loopholes. Congress must prioritize closing the loopholes concerning affiliate interest payments and establish clear standards for comparability across jurisdictions.
 

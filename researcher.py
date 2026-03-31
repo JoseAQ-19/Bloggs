@@ -100,7 +100,8 @@ class NotebookMCPClient:
         """Intenta conectar al servidor MCP. Falla rápido si no hay auth."""
         auth_path = os.path.expanduser("~/.notebooklm-mcp/auth.json")
         if not os.path.exists(auth_path):
-            print("⚠️ [Capa 1] No se encontró auth.json. Saltando NotebookLM.")
+            print("\n🚨 [ALERTA] Actualizar NotebookLM credentials: No se encontró auth.json")
+            print("💡 Ejecuta: `notebooklm-mcp-server auth` en una terminal.\n")
             return False
 
         try:
@@ -130,7 +131,9 @@ class NotebookMCPClient:
             resp = self.read_response(expected_id=current_id)
             
             if not resp or "error" in resp:
-                print(f"❌ [Capa 1] Error Handshake: {resp}")
+                error_msg = resp.get("error", {}).get("message", str(resp)) if resp else "Sin respuesta"
+                print(f"\n🚨 [ALERTA] Actualizar NotebookLM credentials: Error en Handshake ({error_msg})")
+                print("💡 Las cookies podrían haber caducado. Ejecuta: `notebooklm-mcp-server auth`\n")
                 return False
 
             self.send_notification("notifications/initialized", {})
@@ -139,10 +142,10 @@ class NotebookMCPClient:
             return True
             
         except FileNotFoundError:
-            print("❌ [Capa 1] Binario 'notebooklm-mcp' no encontrado en PATH.")
+            print(f"❌ [Capa 1] Binario '{self.binary_path}' no encontrado en PATH.")
             return False
         except Exception as e:
-            print(f"❌ [Capa 1] Error conexión: {e}")
+            print(f"\n🚨 [ALERTA] Actualizar NotebookLM credentials: Error inesperado ({e})")
             return False
 
     def send_request(self, req):
@@ -199,7 +202,19 @@ class NotebookMCPClient:
             "id": current_id
         }
         self.send_request(req)
-        return self.read_response(expected_id=current_id, timeout=timeout)
+        resp = self.read_response(expected_id=current_id, timeout=timeout)
+        
+        if resp and "error" in resp:
+            error_data = resp.get("error", {})
+            msg = error_data.get("message", "")
+            code = error_data.get("code", 0)
+            
+            # Detectar errores comunes de sesión caducada (401, Unauthorized, etc)
+            if "unauthorized" in msg.lower() or "login" in msg.lower() or code == -32000:
+                print("\n🚨 [ALERTA] Actualizar NotebookLM credentials: La sesión ha caducado")
+                print("💡 Ejecuta: `notebooklm-mcp-server auth` en una terminal.\n")
+        
+        return resp
 
     def close(self):
         if self.process:
@@ -461,6 +476,47 @@ Return ONLY the final string. NO quotation marks. NO markdown. NO explanations. 
                 except Exception as e:
                     print(f"   ⚠️ [Golden Stack] Finance error: {e}")
 
+            # === REAL ESTATE: Datos de INE y FRED (USA) + Gráficos ===
+            if category in ("realestate",):
+                try:
+                    from data_realestate import RealEstateDataFetcher
+                    fetcher = RealEstateDataFetcher()
+                    re_data = fetcher.fetch_all(topic=topic)
+                    if re_data:
+                        re_block = fetcher.format_for_llm(re_data)
+                        enrichment_blocks.append(re_block)
+                        print(f"   🏠 [Golden Stack] Real Estate data (INE/FRED) añadido")
+                        
+                        # Generar gráficos visuales (SEO Visual)
+                        try:
+                            from chart_engine import ChartEngine
+                            chart_engine = ChartEngine()
+                            chart_tags = chart_engine.generate_real_estate_trend(re_data, topic=topic)
+                            if chart_tags:
+                                chart_block = "### 📈 GRÁFICOS GENERADOS (Inyectar en el artículo)\n"
+                                chart_block += "\n".join(chart_tags)
+                                enrichment_blocks.append(chart_block)
+                                print(f"   📊 [Golden Stack] {len(chart_tags)} gráficos PNG generados")
+                        except ImportError:
+                            print("   ⚠️ [Golden Stack] chart_engine no disponible")
+                        except Exception as chart_err:
+                            print(f"   ⚠️ [Golden Stack] Chart error: {chart_err}")
+                except ImportError:
+                    print("   ⚠️ [Golden Stack] data_realestate no disponible")
+                except Exception as e:
+                    print(f"   ⚠️ [Golden Stack] Real Estate error: {e}")
+
+            # === ALL CATEGORIES: Daily News (News+Data mix) ===
+            try:
+                from news_fetcher import DailyNewsFetcher
+                news_fetcher = DailyNewsFetcher()
+                hot_news = news_fetcher.fetch_featured_news(topic, lang=lang)
+                if hot_news:
+                    enrichment_blocks.append(hot_news)
+                    print(f"   📰 [Golden Stack] Daily News inyectadas ({lang})")
+            except Exception as e:
+                print(f"   ⚠️ [Golden Stack] Daily News error: {e}")
+
         except Exception as e:
             print(f"   ⚠️ [Golden Stack] Error general: {e}")
 
@@ -537,6 +593,18 @@ Return ONLY the final string. NO quotation marks. NO markdown. NO explanations. 
                 "{topic} Google Trends datos pico origen primer post",
                 "{topic} análisis sociológico generación Z comportamiento Pew Research",
                 "{topic} crítica reacción contra tendencia declive"
+            ]
+        },
+        "realestate": {
+            "en": [
+                "{topic} official data 30-year mortgage rate FRED FHFA Case-Shiller index",
+                "{topic} local market inventory supply house price trend regional",
+                "{topic} regulatory changes Fed interest rate impact zoning laws"
+            ],
+            "es": [
+                "{topic} datos oficiales EURIBOR INE compraventa vivienda transmisiones",
+                "{topic} precio metro cuadrado alquiler vs compra rentabilidad bruta",
+                "{topic} ley de vivienda regulación zonas tensionadas desahucios ocupación"
             ]
         }
     }

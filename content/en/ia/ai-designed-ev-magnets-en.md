@@ -57,6 +57,6 @@ The question is whether AI-designed magnets can make the leap from laboratory cu
 
 Current AI efforts are largely focused on discovering novel material combinations and optimizing magnet microstructures. These are promising avenues, but significant challenges remain. Scaling up production of these new materials to meet automotive demand will require substantial investment in new manufacturing processes and equipment. Furthermore, the long-term durability and performance of AI-designed magnets in real-world EV operating conditions remains largely untested. Overcoming these hurdles will require close collaboration between research institutions, magnet manufacturers, and automotive OEMs.
 
-## The Bottom Line
+## 
 
 AI-designed magnets offer a vital, albeit long-term, pathway to mitigating risk and ethical concerns in the EV magnet supply chain. Automakers should directly fund and partner with research institutions like the University of New Hampshire to accelerate the development and testing of AI-designed magnet alternatives. Rare earths are on notice.

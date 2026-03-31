@@ -21,7 +21,7 @@ AI is not just a buzzword; it’s a looming specter over democracy, particularly
 
 ## The $200M Problem: Financial Losses from AI-Driven Fraud
 
-AI is proving to be a double-edged sword—one that slashes through financial integrity, particularly in the context of elections. The financial losses attributed to AI-driven fraud skyrocketed to over $200 million in Q1 2025 alone, highlighting the urgent need for regulatory frameworks to combat such digital malfeasance. 
+AI is proving to be a —one that slashes through financial integrity, particularly in the context of elections. The financial losses attributed to AI-driven fraud skyrocketed to over $200 million in Q1 2025 alone, highlighting the urgent need for regulatory frameworks to combat such digital malfeasance. 
 
 As Mike Muse, an ABC News contributor, states, “The future is now... governance has got to keep up with the pace of innovation.” This sentiment encapsulates the crux of the problem; when technological advancement outpaces regulatory responses, the stakes rise dramatically. 
 
@@ -95,26 +95,3 @@ Individuals must actively seek reliable sources of information, engage in media 
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
 - [YouTube's Dirty Secret: Hate Speech Algorithm Targets 'Jeopardy!' Host After 4,000 Watch Hours.](/en/youtube/youtube-jeopardy-podcast-demonetization-hate-speech-en/)
 
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "AI Candidate Disrupts Colombia’s Elections: The Startling Truth Behind 500,000 Deepfake Videos",
-  "description": "Discover how AI-generated deepfake videos are revolutionizing Colombia's elections, revealing the startling truth behind 500,000 manipulated political.",
-  "image": "https://novumworld.com/images/how-an-ai-candidate-changed-the-game-in-colombias-elections-en.jpg",
-  "datePublished": "2026-03-18T11:47:37",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

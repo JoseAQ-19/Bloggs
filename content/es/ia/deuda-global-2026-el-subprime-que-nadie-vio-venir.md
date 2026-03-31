@@ -33,7 +33,7 @@ Esta migración de riesgos desde los balances públicos a estas estructuras priv
 
 La fiebre por la inteligencia artificial es la nueva burbuja Dot-com, pero con esteroides. Las empresas tecnológicas están gastando sumas astronómicas en proyectos de IA sin una clara visión de cómo se traducirán en ganancias reales. Esta exuberancia irracional está alimentada por la deuda, creando un ciclo insostenible de especulación y riesgo.
 
-*   El aumento en los CDS (seguros contra impago) de empresas como Oracle y Microsoft **según datos de Reuters** revela el nerviosismo inversor sobre su capacidad para generar ingresos a partir de estas inversiones masivas.
+* El aumento en los CDS (seguros contra impago) de empresas como Oracle y Microsoft **según datos de Reuters** revela el nerviosismo inversor sobre su capacidad para generar ingresos a partir de estas inversiones masivas.
 
 Las empresas están mintiendo sobre la rentabilidad de sus inversiones en IA. Pronto quedará en evidencia que la mayoría de estos proyectos son castillos en el aire.
 

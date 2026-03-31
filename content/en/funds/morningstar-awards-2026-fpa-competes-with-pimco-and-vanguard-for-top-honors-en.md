@@ -15,8 +15,8 @@ translationKey: "37b63a4f-4676-3ef1-2ab6-7453c5569012"
 
 **FPA is competing head-to-head with PIMCO and Vanguard for the prestigious Morningstar Awards for Investing Excellence 2026.** 
 
-* [49.1 trillion dollars — total U.S. retirement assets as of Q4 2025, according to ICI](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUDRXT2JWTk11R3VuSlRyMExUcDdiZm16Qzd0MFpxWjl6NXU3c29UWHFhRmpXWGxzSWk2OHN5eGFoT3pEQWlPUU5OSFdMT0JNb085bGZITEYzQndITkRTcDFuSHpqNmxQUkpRRE94aTVvNXNmRFlGTUI5T19qcUs1VWU5UDJaZTVZeFlFcnhfbGdXdU53MlNZQjBEMVB1aTRhSTRjUlQ0ZXVBcE4tcTVTRjdWUmszUWJwdElqUHRSRkEwMkF2WWtvazdfaGpybU9a?oc=5)  
-* [9.3% — average three-year return of equity mutual funds, 2025 data from Morningstar](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVMyN2RkbVFpNU9nODl1Z2hiUDN4cFdSMEstS2hlTjJJSlRxdG1WVzFoUDRPRUZwbkIyNnhYbkIyczYyLUhLUGRtVFVjQ0hLbk5kLXVYX1FKbFpIRnNZbHFRbHZNS2Y0bmVEQ0M3S05hY0l4TWN6MVNvcENmeTVmY2psSlVWOWdzOGdJb2pYakdFLWRvUzhhZDZOLWwxcXZtTmR3Q3J0ZWpKbElTU2FoWFFn?oc=5)  
+* [49.1 trillion dollars — total U.S. retirement assets as of Q4 2025, according to ICI](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUDRXT2JWTk11R3VuSlRyMExUcDdiZm16Qzd0MFpxWjl6NXU3c29UWHFhRmpXWGxzSWk2OHN5eGFoT3pEQWlPUU5OSFdMT0JNb085bGZITEYzQndITkRTcDFuSHpqNmxQUkpRRE94aTVvNXNmRFlGTUI5T19qcUs1VWU5UDJaZTVZeFlFcnhfbGdXdU53MlNZQjBEMVB1aTRhSTRjUlQ0ZXVBcE4tcTVTRjdWUmszUWJwdElqUHRSRkEwMkF2WWtvazdfaGpybU9a?oc=5) 
+* [9.3% — average three-year return of equity mutual funds, 2025 data from Morningstar](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVMyN2RkbVFpNU9nODl1Z2hiUDN4cFdSMEstS2hlTjJJSlRxdG1WVzFoUDRPRUZwbkIyNnhYbkIyczYyLUhLUGRtVFVjQ0hLbk5kLXVYX1FKbFpIRnNZbHFRbHZNS2Y0bmVEQ0M3S05hY0l4TWN6MVNvcENmeTVmY2psSlVWOWdzOGdJb2pYakdFLWRvUzhhZDZOLWwxcXZtTmR3Q3J0ZWpKbElTU2FoWFFn?oc=5) 
 * [0.55% — average expense ratio of no-load funds, 2026 Morningstar analysis](https://news.google.com/rss/articles/CBMigAFBVV95cUxONU5pVWJqZ1RjYmhmZDYzVDJnNm5SOE4xaHZDejJKWkNfRVJmYkZ5bm44bjZPYjRxdk5ETnVmWUFNN1Vjel9CVVNZcXNmcGhkQ1FrdlM1Z2ZydTE5RnFrSjN0TzlRYWJxcDhrY0s4MzlHUGZnX0twXzhkMEVBU3h2QQ?oc=5)
 
 This year's Morningstar Awards have cast a spotlight on the fierce competition among FPA, PIMCO, and Vanguard, with each fund showcasing unique strategies and market resilience. The backdrop of a financial landscape dominated by record retirement assets and persistently low expense ratios sets the stage for a compelling analysis. 
@@ -34,16 +34,16 @@ In comparison, Vanguard 500 Index Fund (VFIAX) has posted a **1-year return of 1
 ### Performance and Volatility Breakdown
 
 - **FPA Capital Fund (FPACX)**: 
-  - 1Y: 12.5%, 3Y: 10.1%, 5Y: 9.0%
-  - Volatility: 12.4%, Sharpe: 0.89, Expense Ratio: 0.75%
-  
+ - 1Y: 12.5%, 3Y: 10.1%, 5Y: 9.0%
+ - Volatility: 12.4%, Sharpe: 0.89, Expense Ratio: 0.75%
+ 
 - **PIMCO Total Return Fund (PTTAX)**:
-  - 1Y: 8.3%, 3Y: 7.6%, 5Y: 6.5%
-  - Volatility: 7.8%, Sharpe: 0.76, Expense Ratio: 0.55%
-  
+ - 1Y: 8.3%, 3Y: 7.6%, 5Y: 6.5%
+ - Volatility: 7.8%, Sharpe: 0.76, Expense Ratio: 0.55%
+ 
 - **Vanguard 500 Index Fund (VFIAX)**:
-  - 1Y: 10.0%, 3Y: 12.0%, 5Y: 11.5%
-  - Volatility: 10.0%, Sharpe: 1.00, Expense Ratio: 0.04%
+ - 1Y: 10.0%, 3Y: 12.0%, 5Y: 11.5%
+ - Volatility: 10.0%, Sharpe: 1.00, Expense Ratio: 0.04%
 
 The comparative performance reveals that while FPA excels in absolute returns, Vanguard stands out in risk-adjusted returns and expense efficiency. Notably, a lower expense ratio directly correlates with higher net returns for investors, emphasizing the importance of cost control.
 
@@ -67,73 +67,22 @@ The Morningstar Awards for Investing Excellence not only recognize top performer
 
 ### Real User FAQs
 
-1. **What are the fees associated with these funds?**  
-   Fees vary significantly; while Vanguard boasts an expense ratio of just 0.04%, FPA maintains a higher 0.75%. This difference can have a substantial impact on long-term returns.
+1. **What are the fees associated with these funds?** 
+ Fees vary significantly; while Vanguard boasts an expense ratio of just 0.04%, FPA maintains a higher 0.75%. This difference can have a substantial impact on long-term returns.
 
-2. **How do these funds perform in volatile markets?**  
-   Historically, PIMCO has provided more stability during downturns due to its fixed-income focus, while FPA's equity strategy may be riskier but offers higher growth potential.
+2. **How do these funds perform in volatile markets?** 
+ Historically, PIMCO has provided more stability during downturns due to its fixed-income focus, while FPA's equity strategy may be riskier but offers higher growth potential.
 
-3. **What is the significance of the Morningstar Awards?**  
-   The awards provide valuable insights into fund performance and can influence investor decisions, reflecting both past success and future potential.
+3. **What is the significance of the Morningstar Awards?** 
+ The awards provide valuable insights into fund performance and can influence investor decisions, reflecting both past success and future potential.
 
-4. **Can I invest in these funds through retirement accounts?**  
-   Yes, many of these funds are available through various retirement accounts, including IRAs and 401(k) plans.
+4. **Can I invest in these funds through retirement accounts?** 
+ Yes, many of these funds are available through various retirement accounts, including IRAs and 401(k) plans.
 
-5. **How does the Sharpe ratio affect investment decisions?**  
-   The Sharpe ratio measures risk-adjusted returns; higher ratios indicate better returns per unit of risk, guiding investors in selecting funds that align with their risk tolerance.
+5. **How does the Sharpe ratio affect investment decisions?** 
+ The Sharpe ratio measures risk-adjusted returns; higher ratios indicate better returns per unit of risk, guiding investors in selecting funds that align with their risk tolerance.
 
 In this competitive landscape, we believe that FPA, PIMCO, and Vanguard will continue to adapt and innovate, vying for investor loyalty and accolades as they navigate the complexities of the market.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard for Top Honors",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Financial Analyst"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://example.com/morningstar-awards-2026-analysis"
-  },
-  "image": "https://example.com/image.jpg"
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the fees associated with these funds?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Fees vary significantly; while Vanguard boasts an expense ratio of just 0.04%, FPA maintains a higher 0.75%."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do these funds perform in volatile markets?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "PIMCO has provided more stability during downturns due to its fixed-income focus."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the significance of the Morningstar Awards?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The awards reflect both past success and future potential."
-      }
-    }
-  ]
-}
-</script>
 
 ---
 

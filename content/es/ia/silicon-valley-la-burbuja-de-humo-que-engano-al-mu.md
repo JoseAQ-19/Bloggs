@@ -33,7 +33,7 @@ Este carrusel financiero, donde los mismos jugadores se retroalimentan para mant
 
 Además del desastre financiero, la burbuja de la IA es un atentado ecológico. La construcción y el funcionamiento de estos megacentros de datos consumen cantidades ingentes de energía y agua, acelerando el cambio climático y la escasez de recursos. La "revolución cognitiva" se sustenta en una infraestructura opaca, centralizada y energéticamente insostenible. Una vergüenza. Y nadie habla de la escasez de chips. **Bloomberg lo reporta**.
 
-*   Esta "innovación" es un fraude climático.
+* Esta "innovación" es un fraude climático.
 
 ## La farsa de la "inteligencia" Para profundizar en este tema, consulta nuestro analisis sobre [Acciona el Pánico: La IA Amenaza 300 Millones de E](/ia/saas-apocalipsis-2026-crisis-vc/).
 

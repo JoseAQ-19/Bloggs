@@ -27,51 +27,51 @@ Algunos usuarios sugieren que las limitaciones de *hardware* o el uso de la vers
 
 Para entender por qué DaVinci Resolve puede tener estos problemas de audio, es crucial identificar los "sospechosos habituales". Estos incluyen:
 
-*   **Drivers de NVIDIA:** Como se mencionó anteriormente, los *drivers* gráficos juegan un papel crítico en el rendimiento de DaVinci Resolve. La incompatibilidad o los *bugs* en los *drivers* pueden afectar la reproducción de audio y vídeo. Es fundamental asegurarse de tener la versión correcta del *driver* instalado, preferiblemente la versión Studio Driver.
-*   **Hardware Limitado:** DaVinci Resolve es un *software* exigente con los recursos del sistema. Una GPU con memoria insuficiente o una CPU con poca potencia pueden llevar a errores de renderización y a la inestabilidad del programa. Si tu equipo no cumple con los requisitos mínimos, es probable que experimentes problemas de audio y vídeo.
-*   **Códecs Problemáticos:** Algunos códecs de audio y vídeo son más exigentes que otros. Utilizar códecs no optimizados o corruptos puede causar problemas de reproducción y renderización.
-*   **Configuración Incorrecta:** A veces, el problema no reside en el *software* o el *hardware* en sí, sino en la configuración incorrecta de DaVinci Resolve o del sistema operativo.
+* **Drivers de NVIDIA:** Como se mencionó anteriormente, los *drivers* gráficos juegan un papel crítico en el rendimiento de DaVinci Resolve. La incompatibilidad o los *bugs* en los *drivers* pueden afectar la reproducción de audio y vídeo. Es fundamental asegurarse de tener la versión correcta del *driver* instalado, preferiblemente la versión Studio Driver.
+* **Hardware Limitado:** DaVinci Resolve es un *software* exigente con los recursos del sistema. Una GPU con memoria insuficiente o una CPU con poca potencia pueden llevar a errores de renderización y a la inestabilidad del programa. Si tu equipo no cumple con los requisitos mínimos, es probable que experimentes problemas de audio y vídeo.
+* **Códecs Problemáticos:** Algunos códecs de audio y vídeo son más exigentes que otros. Utilizar códecs no optimizados o corruptos puede causar problemas de reproducción y renderización.
+* **Configuración Incorrecta:** A veces, el problema no reside en el *software* o el *hardware* en sí, sino en la configuración incorrecta de DaVinci Resolve o del sistema operativo.
 
 La memoria GPU insuficiente o la potencia de procesamiento pueden provocar errores de renderización e inestabilidad del programa. Es importante notar que la versión gratuita puede tener problemas con ciertos códecs, como el H.264 10-bit, limitando la habilidad de procesar proyectos complejos.
 
 ## Guía Práctica: Soluciones Efectivas para el Audio Cortado en DaVinci Resolve
 
-Si te encuentras luchando contra el fantasma del audio cortado en DaVinci Resolve, no desesperes. Aquí tienes una guía práctica con soluciones efectivas que puedes probar:
+Si te encuentras luchando contra el fantasma del audio cortado en DaVinci Resolve, no desesperes. una guía práctica con soluciones efectivas que puedes probar:
 
-1.  **Gestión de *Drivers* NVIDIA:**
+1. **Gestión de *Drivers* NVIDIA:**
 
-    *   Asegúrate de tener instalado el NVIDIA Studio Driver, no el Game Ready Driver. Se recomienda la versión 550.58 o superior.
-    *   Si una actualización reciente del *driver* causa problemas, revierte a una versión anterior a través del Administrador de Dispositivos.
-    *   Al actualizar los *drivers*, desinstala primero los antiguos.
-2.  **Configuración de DaVinci Resolve:**
+ * Asegúrate de tener instalado el NVIDIA Studio Driver, no el Game Ready Driver. Se recomienda la versión 550.58 o superior.
+ * Si una actualización reciente del *driver* causa problemas, revierte a una versión anterior a través del Administrador de Dispositivos.
+ * Al actualizar los *drivers*, desinstala primero los antiguos.
+2. **Configuración de DaVinci Resolve:**
 
-    *   En las preferencias de DaVinci Resolve (*Preferencias > Memoria y GPU*), selecciona manualmente el modo de procesamiento de la GPU (OpenCL para AMD/Intel, CUDA para NVIDIA) y asegúrate de que la GPU correcta esté seleccionada. Desactiva la selección "Automática".
-    *   Limpia la caché de renderización (*Reproducción > Eliminar caché de renderización*). Configura el códec de la caché de renderización (se recomiendan DNxHR o ProRes).
-    *   Verifica que el dispositivo de salida de audio correcto esté seleccionado en las preferencias de DaVinci Resolve (*Preferencias > Sistema > E/S de audio*). En Mac, selecciona manualmente la salida deseada.
-    *   Desactiva "*Detener renderizaciones cuando un fotograma o clip no se puede procesar*" en *Preferencias > Usuario > Interfaz*.
-    *   Asegúrate de que las formas de onda de audio estén habilitadas en las opciones de visualización de la línea de tiempo.
-    *   Verifica los atributos del clip para asegurarte de que los canales de audio correctos estén seleccionados y no silenciados.
-    *   Cambia el tipo de pista de audio a Mono.
-3.  **Optimización del Sistema:**
+ * En las preferencias de DaVinci Resolve (*Preferencias > Memoria y GPU*), selecciona manualmente el modo de procesamiento de la GPU (OpenCL para AMD/Intel, CUDA para NVIDIA) y asegúrate de que la GPU correcta esté seleccionada. Desactiva la selección "Automática".
+ * Limpia la caché de renderización (*Reproducción > Eliminar caché de renderización*). Configura el códec de la caché de renderización (se recomiendan DNxHR o ProRes).
+ * Verifica que el dispositivo de salida de audio correcto esté seleccionado en las preferencias de DaVinci Resolve (*Preferencias > Sistema > E/S de audio*). En Mac, selecciona manualmente la salida deseada.
+ * Desactiva "*Detener renderizaciones cuando un fotograma o clip no se puede procesar*" en *Preferencias > Usuario > Interfaz*.
+ * Asegúrate de que las formas de onda de audio estén habilitadas en las opciones de visualización de la línea de tiempo.
+ * Verifica los atributos del clip para asegurarte de que los canales de audio correctos estén seleccionados y no silenciados.
+ * Cambia el tipo de pista de audio a Mono.
+3. **Optimización del Sistema:**
 
-    *   Asegúrate de que tu sistema cumpla con los requisitos mínimos de DaVinci Resolve.
-    *   Si encuentras errores de memoria de la GPU, reduce los límites de uso de memoria en las preferencias de DaVinci Resolve (*Preferencias > Sistema > Memoria y GPU*).
-    *   Habilita la aceleración por *hardware* donde esté disponible.
-    *   Asegúrate de que haya una refrigeración adecuada para evitar el sobrecalentamiento de la GPU durante la renderización.
-    *   Fuerza al controlador de audio y al controlador que causa problemas de latencia DPC a trabajar en diferentes núcleos de CPU.
-4.  **Manejo de Medios:**
+ * Asegúrate de que tu sistema cumpla con los requisitos mínimos de DaVinci Resolve.
+ * Si encuentras errores de memoria de la GPU, reduce los límites de uso de memoria en las preferencias de DaVinci Resolve (*Preferencias > Sistema > Memoria y GPU*).
+ * Habilita la aceleración por *hardware* donde esté disponible.
+ * Asegúrate de que haya una refrigeración adecuada para evitar el sobrecalentamiento de la GPU durante la renderización.
+ * Fuerza al controlador de audio y al controlador que causa problemas de latencia DPC a trabajar en diferentes núcleos de CPU.
+4. **Manejo de Medios:**
 
-    *   Convierte los archivos de audio problemáticos a WAV o AIFF.
-    *   Genera medios optimizados para mejorar el rendimiento.
-    *   Reemplaza los archivos de audio o vídeo corruptos.
-5.  **Gestión de Proyectos:**
+ * Convierte los archivos de audio problemáticos a WAV o AIFF.
+ * Genera medios optimizados para mejorar el rendimiento.
+ * Reemplaza los archivos de audio o vídeo corruptos.
+5. **Gestión de Proyectos:**
 
-    *   Copia la línea de tiempo a un nuevo proyecto.
-6.  **Otras Soluciones:**
+ * Copia la línea de tiempo a un nuevo proyecto.
+6. **Otras Soluciones:**
 
-    *   Reinicia DaVinci Resolve.
-    *   Reinstala DaVinci Resolve como último recurso.
-    *   Desactiva el inicio rápido en las opciones de energía de Windows.
+ * Reinicia DaVinci Resolve.
+ * Reinstala DaVinci Resolve como último recurso.
+ * Desactiva el inicio rápido en las opciones de energía de Windows.
 
 Implementar estas soluciones puede parecer abrumador, pero es crucial para diagnosticar el problema y solucionarlo de forma independiente. Recuerda que elegir el modo de procesamiento de GPU correcto (OpenCL para AMD/Intel, CUDA para NVIDIA) y seleccionar la tarjeta gráfica correcta en la configuración de DaVinci Resolve es esencial para el correcto funcionamiento.
 
@@ -89,11 +89,11 @@ No dejes que un fallo silencie tu creatividad; ¡doma a la bestia del audio!
 
 Más allá de los problemas más frecuentes, existen otras causas menos comunes que pueden provocar cortes de audio en DaVinci Resolve. Abordar estas situaciones requiere un conocimiento más profundo del *software* y del *hardware*.
 
-*   **Conflictos con *plugins* VST:** Algunos *plugins* VST (Virtual Studio Technology) pueden ser incompatibles con DaVinci Resolve o estar mal configurados, causando inestabilidad y cortes de audio. Prueba a desactivar los *plugins* uno por uno para identificar el causante del problema.
-*   **Problemas de latencia:** Una latencia alta en la tarjeta de sonido o en la interfaz de audio puede provocar cortes y retrasos en el audio. Ajusta la configuración de latencia en las preferencias de DaVinci Resolve (si utilizas una interfaz externa) o en la configuración del sistema operativo.
-*   **Sobrecarga del sistema:** Si el proyecto es demasiado complejo o el sistema no tiene suficiente potencia, DaVinci Resolve puede sobrecargarse y provocar cortes de audio. Intenta optimizar el proyecto reduciendo la resolución de los clips, desactivando efectos innecesarios o utilizando *proxies*.
-*   **Corrupción del proyecto:** En casos raros, el archivo del proyecto puede corromperse, causando problemas de audio y vídeo. Intenta crear un nuevo proyecto e importar la línea de tiempo del proyecto corrupto.
-*   **Incompatibilidad con formatos de audio específicos:** Algunos formatos de audio poco comunes o mal codificados pueden ser incompatibles con DaVinci Resolve. Convierte estos archivos a un formato más estándar como WAV o AIFF.
+* **Conflictos con *plugins* VST:** Algunos *plugins* VST (Virtual Studio Technology) pueden ser incompatibles con DaVinci Resolve o estar mal configurados, causando inestabilidad y cortes de audio. Prueba a desactivar los *plugins* uno por uno para identificar el causante del problema.
+* **Problemas de latencia:** Una latencia alta en la tarjeta de sonido o en la interfaz de audio puede provocar cortes y retrasos en el audio. Ajusta la configuración de latencia en las preferencias de DaVinci Resolve (si utilizas una interfaz externa) o en la configuración del sistema operativo.
+* **Sobrecarga del sistema:** Si el proyecto es demasiado complejo o el sistema no tiene suficiente potencia, DaVinci Resolve puede sobrecargarse y provocar cortes de audio. Intenta optimizar el proyecto reduciendo la resolución de los clips, desactivando efectos innecesarios o utilizando *proxies*.
+* **Corrupción del proyecto:** En casos raros, el archivo del proyecto puede corromperse, causando problemas de audio y vídeo. Intenta crear un nuevo proyecto e importar la línea de tiempo del proyecto corrupto.
+* **Incompatibilidad con formatos de audio específicos:** Algunos formatos de audio poco comunes o mal codificados pueden ser incompatibles con DaVinci Resolve. Convierte estos archivos a un formato más estándar como WAV o AIFF.
 
 Si has probado todas las soluciones anteriores y sigues experimentando problemas de audio, considera la posibilidad de buscar ayuda en foros especializados o contactar con el soporte técnico de Blackmagic Design.
 
@@ -105,4 +105,4 @@ Además, la integración de la inteligencia artificial en DaVinci Resolve podrí
 
 Además, la IA podría **mejorar la compatibilidad con diferentes formatos de audio y vídeo**, eliminando la necesidad de conversiones manuales y reduciendo la probabilidad de errores. También podría **optimizar el rendimiento del *software***, permitiendo a los usuarios trabajar con proyectos más grandes y complejos sin experimentar cortes de audio u otros problemas.
 
-En definitiva, la integración de la IA en DaVinci Resolve **podría transformar la forma en que se edita el audio**, haciendo que el proceso sea más eficiente, intuitivo y accesible para todos.
+ la integración de la IA en DaVinci Resolve **podría transformar la forma en que se edita el audio**, haciendo que el proceso sea más eficiente, intuitivo y accesible para todos.

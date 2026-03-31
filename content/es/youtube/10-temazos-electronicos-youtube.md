@@ -25,7 +25,7 @@ La Sociedad General de Autores y Editores (SGAE) ha puesto el grito en el cielo,
 
 El impacto acumulado entre 2025 y 2028 podría oscilar entre los €160 y €180 millones. Esta no es una simple amenaza, sino una realidad tangible que ya está afectando a los creadores musicales.
 
-La adopción de la IA por parte de los músicos es un arma de doble filo. El estudio revela que un 34% de los creadores musicales españoles ya han utilizado herramientas de IA, y un 17% adicional planea hacerlo pronto. ¿Están cavando su propia tumba?
+La adopción de la IA por parte de los músicos es . El estudio revela que un 34% de los creadores musicales españoles ya han utilizado herramientas de IA, y un 17% adicional planea hacerlo pronto. ¿Están cavando su propia tumba?
 
 ## El Silencio Incómodo: Por Qué la Narrativa de la Industria Ignora la Falta de Regulación, segun datos recogidos por [Social Blade](https://socialblade.com/)
 

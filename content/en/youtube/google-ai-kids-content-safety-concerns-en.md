@@ -69,96 +69,13 @@ Najat Maalla M'jid, Special Representative of the Secretary-General on Violence 
 
 Deepfakes are becoming increasingly sophisticated and difficult to detect, making it challenging to distinguish between real and fabricated content. This creates a climate of distrust and makes it easier for perpetrators to spread misinformation and manipulate public opinion. The potential for deepfakes to be used to create sexually explicit content of children is particularly alarming, as it can have devastating consequences for victims and their families.
 
-## The Bottom Line
+## 
 
 Project Kavya and similar AI initiatives targeting children warrant deep suspicion and proactive regulatory oversight to safeguard children's well-being. Parents must proactively protect their children by using parental control apps and actively monitoring content.
 
 The bubble will burst.
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "NewsArticle",
- "mainEntityOfPage": {
- "@type": "WebPage",
- "@id": "https://novumworld.com/en/youtube/google-ai-kids-content-deepfake-coppa-en/"
- },
- "headline": "Google's Project Kavya: Is Your Child's Favorite YouTube Show a Deepfake?",
- "image": [
- "https://example.com/photos/1x1/photo.jpg",
- "https://example.com/photos/4x3/photo.jpg",
- "https://example.com/photos/16x9/photo.jpg"
- ],
- "datePublished": "2026-06-08T12:00:00+00:00",
- "dateModified": "2026-06-08T13:00:00+00:00",
- "author": {
- "@type": "Person",
- "name": "AI Creator Economy Correspondent"
- },
- "publisher": {
- "@type": "Organization",
- "name": "NovumWorld",
- "logo": {
- "@type": "ImageObject",
- "url": "https://novumworld.com/logo.png"
- }
- },
- "description": "An investigation into Google's Project Kavya and its potential risks to children, including COPPA violations and deepfake exploitation."
-}
-</script>
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [{
- "@type": "Question",
- "name": "What is Project Kavya and why is it controversial?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Project Kavya is a Google initiative that uses AI to personalize children's content, raising concerns about potential COPPA violations and the risk of deepfake exploitation."
- }
- }, {
- "@type": "Question",
- "name": "What is 'AI slop' and how does it affect children?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "'AI slop' refers to low-quality, algorithmically generated videos that flood platforms like YouTube Kids, potentially harming children's development and critical thinking skills."
- }
- }, {
- "@type": "Question",
- "name": "How can parents protect their children from deepfakes and inappropriate content on YouTube?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Parents can use parental control apps, actively monitor their children's viewing habits, and educate them about the risks of online content."
- }
- }]
-}
-</script>
-
 ### Related Articles
 - [Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](/en/youtube/youtube-sports-subscription-live-streaming-en/)
 - [YouTube TV In 2026: The $83 Gamble That Could Backfire Spectacularly](/en/youtube/youtube-tv-2026-price-hike-or-worth-the-hype-en/)
 
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Google's Project Kavya: Is Your Child's Favorite YouTube Show a Deepfake?",
-  "description": "Project Kavya is blurring reality: Is your child watching AI-generated YouTube content? Learn about Google's experimental tech & the deepfake future of.",
-  "image": "https://novumworld.com/images/google-ai-kids-content-safety-concerns-en.jpg",
-  "datePublished": "2026-03-14T20:42:11",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

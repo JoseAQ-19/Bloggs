@@ -31,15 +31,15 @@ No es solo Meta. Otras empresas, como Microsoft, también han coqueteado con el 
 
 El metaverso adolece de una serie de problemas que socavan su viabilidad como una plataforma de uso generalizado:
 
-*   **Un Abismo de Propósito:** ¿Qué necesidad real satisface el metaverso? ¿Realmente necesitamos avatares torpes y mal renderizados para asistir a reuniones virtuales que podrían realizarse de manera más eficiente a través de una simple videoconferencia?
+* **Un Abismo de Propósito:** ¿Qué necesidad real satisface el metaverso? ¿Realmente necesitamos avatares torpes y mal renderizados para asistir a reuniones virtuales que podrían realizarse de manera más eficiente a través de una simple videoconferencia?
 
-*   **La Fragmentación como Destino:** El metaverso no es un mundo unificado, sino una colección de jardines amurallados, cada uno incompatible con el otro. ¿Quién quiere invertir tiempo y dinero en un mundo virtual donde su avatar y sus activos digitales están atrapados para siempre?
+* **La Fragmentación como Destino:** El metaverso no es un mundo unificado, sino una colección de jardines amurallados, cada uno incompatible con el otro. ¿Quién quiere invertir tiempo y dinero en un mundo virtual donde su avatar y sus activos digitales están atrapados para siempre?
 
-*   **Un Caldo de Cultivo para la Explotación:** La privacidad y la seguridad son preocupaciones secundarias en el metaverso. La recopilación masiva de datos, el robo de identidad y el acoso virtual son rampantes.
+* **Un Caldo de Cultivo para la Explotación:** La privacidad y la seguridad son preocupaciones secundarias en el metaverso. La recopilación masiva de datos, el robo de identidad y el acoso virtual son rampantes.
 
-*   **El Hardware de la Vergüenza:** Los cascos de realidad virtual son caros, voluminosos e incómodos. Hasta que no tengamos dispositivos ligeros, asequibles y fáciles de usar, el metaverso seguirá siendo un nicho de mercado. En 2023, las ventas de visores de realidad virtual y aumentada disminuyeron un 20%, **según datos de la firma de investigación IDC**.
+* **El Hardware de la Vergüenza:** Los cascos de realidad virtual son caros, voluminosos e incómodos. Hasta que no tengamos dispositivos ligeros, asequibles y fáciles de usar, el metaverso seguirá siendo un nicho de mercado. En 2023, las ventas de visores de realidad virtual y aumentada disminuyeron un 20%, **según datos de la firma de investigación IDC**.
 
-*   **Economías Virtuales Predestinadas al Fracaso:** La idea de economías virtuales impulsadas por NFTs y criptomonedas ha resultado ser un espejismo. La volatilidad del mercado de las criptomonedas y la proliferación de estafas han destruido la confianza de los usuarios.
+* **Economías Virtuales Predestinadas al Fracaso:** La idea de economías virtuales impulsadas por NFTs y criptomonedas ha resultado ser un espejismo. La volatilidad del mercado de las criptomonedas y la proliferación de estafas han destruido la confianza de los usuarios.
 
 ## La Promesa Fallida de la Propiedad Digital
 

@@ -23,7 +23,7 @@ La ironía es brutal. Mientras Google, a través de su fondo de inversión, escr
 
 ## La Paradoja de $1 Millón: Google Invierte en Animaj Mientras YouTube se Inunda de Basura IA
 
-Google quiere vender la narrativa de la innovación responsable. La prueba es la inyección de capital de un millón de dólares en Animaj Studio, un estudio parisino que promete revolucionar la animación infantil con inteligencia artificial. Jonathan Silber, director del AI Futures Fund, describió Animaj como "un verdadero modelo para el futuro" del entretenimiento familiar, enfatizando la prioridad de acertar para la próxima generación. Es un discurso bonito, lleno de buenas intenciones corporativas y palabras vacías sobre la calidad y el futuro.
+Google quiere vender la narrativa de la innovación responsable. La prueba es la inyección de capital de un millón de dólares en Animaj Studio, un estudio parisino que la animación infantil con inteligencia artificial. Jonathan Silber, director del AI Futures Fund, describió Animaj como "un verdadero modelo para el futuro" del entretenimiento familiar, enfatizando la prioridad de acertar para la próxima generación. Es un discurso bonito, lleno de buenas intenciones corporativas y palabras vacías sobre la calidad y el futuro.
 
 Sin embargo, esa inversión simbólica de un millón es ridícula si la comparamos con la economía real que se mueve en las sombras de YouTube. Mientras Animaj intenta posicionarse como la alternativa ética, la plataforma está sangrando dinero a través de cientos de canales que generan 117 millones de dólares al año con contenido automatizado. Si dividimos esos ingresos entre los 278 canales identificados en el estudio, estamos hablando de más de 400.000 dólares por año para cada granja de contenido basura. El mercado no está recompensando la calidad financiada por Google; está recompensando la velocidad y el volumen de la IA desregulada.
 
@@ -61,26 +61,3 @@ Más allá del marketing y las conferencias de tecnología, el impacto de la IA 
 - [YouTube Se Lleva el Oscar: La Revolución del Entretenimiento Digital Ya Está Aquí](/es/youtube/youtube-se-lleva-el-oscar-el-futuro-del-entretenimiento-digital/)
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube Invierte Millones en IA Infantil Mientras Te Inunda con AI Slop",
-  "description": "¿YouTube apuesta fuerte por IA para niños, con apps educativas y seguras? Descubre la inversión millonaria y cómo convive con el 'AI Slop' que inunda la.",
-  "image": "https://novumworld.com/images/youtube-ia-infantil-monetizacion-controversia.jpg",
-  "datePublished": "2026-03-24T19:23:10",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

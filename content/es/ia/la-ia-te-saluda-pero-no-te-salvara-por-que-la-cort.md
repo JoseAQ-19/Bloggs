@@ -35,9 +35,9 @@ Aplicaciones como *Replika* son la prueba irrefutable de que hemos cruzado un l�
 
 El debate sobre si ser "grosero" con la IA fomenta el incivismo humano es una cortina de humo. La verdadera cuestión es si debemos seguir perpetuando esta farsa de la cortesía artificial. Los niños no necesitan aprender a decir "por favor" a un programa. Necesitan aprender a pensar críticamente, a cuestionar las afirmaciones infundadas y a discernir entre la verdad y la manipulación. Las empresas como Amazon, cuyo valor de mercado superó los 1,9 billones de dólares en 2024, no deberían estar dictando nuestra moralidad.
 
-*   Basta de eufemismos.
-*   Basta de sentimentalismos.
-*   Basta de tratar a las máquinas como si fueran seres humanos.
+* Basta de eufemismos.
+* Basta de sentimentalismos.
+* Basta de tratar a las máquinas como si fueran seres humanos.
 
 ## El Veredicto Final: Desconexión Emocional, Claridad Brutal Para profundizar en este tema, consulta nuestro analisis sobre [Workday Tambalea: El Plan Secreto De Cegid Para De](/ia/workday-obsolescencia-ia-openai-2026/).
 

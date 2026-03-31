@@ -11,13 +11,13 @@ language: "es"
 translationKey: "ecf111b0-af2f-c96d-c5a3-e6568b8b0744"
 ---
 
-# Ser una serpiente y estar feliz: la bomba therian que divide a psicólogos
+## Ser una serpiente y estar feliz: la bomba therian que divide a psicólogos
 
 La autoidentificación como animal no es intrínsecamente un signo de desorden mental, pero la línea es más difusa de lo que la narrativa popular quiere admitir.
 
-- Ser therian, identificarse como un animal, generalmente no se considera un trastorno mental en España a menos que cause angustia o deterioro funcional significativo.  
-- La psicóloga Sandra Rivarés sugiere que afirmar *literalmente* ser un animal podría indicar un trastorno mental, según **20Minutos**.  
-- Comprender la distinción entre la identificación simbólica y la creencia literal puede ayudar a reducir el estigma y garantizar que los therians reciban el apoyo adecuado si es necesario.  
+- Ser therian, identificarse como un animal, generalmente no se considera un trastorno mental en España a menos que cause angustia o deterioro funcional significativo. 
+- La psicóloga Sandra Rivarés sugiere que afirmar *literalmente* ser un animal podría indicar un trastorno mental, según **20Minutos**. 
+- Comprender la distinción entre la identificación simbólica y la creencia literal puede ayudar a reducir el estigma y garantizar que los therians reciban el apoyo adecuado si es necesario. 
 
 ## ¿Identidad o delirio? El debate psicológico que agita España
 

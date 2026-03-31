@@ -57,7 +57,7 @@ Worse, streaming platforms increasingly rely on advertising to subsidize subscri
 
 The industry’s response—bundling—threatens to reintroduce cable-like constraints. Platforms like YouTube TV already bundle local channels with national sports networks, and future bundles may force subscribers to pay for lifestyle channels they never watch. This "all-or-nothing" model resurrects cable’s bundling criticism while masquerading as convenience. 
 
-## The Bottom Line: Cord-Cutting Was Just a Detour 
+## : Cord-Cutting Was Just a Detour 
 
 YouTube TV dodged the Fox blackout bullet, but the content wars are far from over. The resolution was temporary, not transformative. Cord-cutters liberated from cable monopolies have merely traded one master for many—each demanding monthly tribute for exclusive content. 
 

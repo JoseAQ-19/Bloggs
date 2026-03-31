@@ -23,7 +23,7 @@ El iShares Core EURO STOXX 50 UCITS ETF es uno de los fondos indexados más popu
 
 ## Análisis comparativo de fondos
 
-El iShares Core EURO STOXX 50 UCITS ETF es uno de los fondos indexados más grandes y más líquidos del mercado. A continuación, se presenta un análisis comparativo de su rendimiento con otros fondos indexados y gestionados activamente.
+El iShares Core EURO STOXX 50 UCITS ETF es uno de los fondos indexados más grandes y más líquidos del mercado. se presenta un análisis comparativo de su rendimiento con otros fondos indexados y gestionados activamente.
 
 | Fondo | Rentabilidad anualizada a 5 años | Volatilidad anualizada a 5 años | Gastos de gestión |
 | --- | --- | --- | --- |
@@ -65,55 +65,6 @@ El objetivo de un fondo indexado es ofrecer una rentabilidad similar a la del í
 Los riesgos asociados con la inversión en fondos indexados incluyen el riesgo de mercado, el riesgo de liquidez y el riesgo de gestión.
 
 [Enlace a Morningstar](https://www.morningstar.es/es/news/274488/¿subirá-el-bce-los-tipos-de-interés-en-medio-de-la-guerra-con-irán.aspx)
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "NewsArticle",
-"headline": "iShares Core EURO STOXX 50: ASML Debe Crecer para Mantener la Subida del 4,4%",
-"author": "NovumWorld",
-"publisher": "NovumWorld",
-"datePublished": "2026-03-15",
-"description": "Análisis del iShares Core EURO STOXX 50 UCITS ETF, un fondo indexado que ofrece una rentabilidad anualizada a 5 años del 4,4%",
-"image": {
-"@type": "ImageObject",
-"url": "https://www.morningstar.es/es/news/274488/¿subirá-el-bce-los-tipos-de-interés-en-medio-de-la-guerra-con-irán.aspx"
-}
-}
-</script>
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "FAQPage",
-"mainEntity": [
-{
-"@type": "Question",
-"name": "¿Qué es un fondo indexado?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "Un fondo indexado es un tipo de fondo de inversión que sigue la rentabilidad de un índice bursátil específico, como el EURO STOXX 50."
-}
-},
-{
-"@type": "Question",
-"name": "¿Cuál es el objetivo de un fondo indexado?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "El objetivo de un fondo indexado es ofrecer una rentabilidad similar a la del índice bursátil subyacente, a un costo menor que los fondos gestionados activamente."
-}
-},
-{
-"@type": "Question",
-"name": "¿Cuáles son los riesgos asociados con la inversión en fondos indexados?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "Los riesgos asociados con la inversión en fondos indexados incluyen el riesgo de mercado, el riesgo de liquidez y el riesgo de gestión."
-}
-}
-]
-}
-</script>
 
 ---
 

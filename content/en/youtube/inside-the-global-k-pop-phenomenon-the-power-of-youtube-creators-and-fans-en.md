@@ -43,7 +43,7 @@ This phenomenon can have significant psychological implications. Fans often repo
 
 The K-Pop industry's marketing strategies often exploit these parasocial relationships. Idols frequently share personal stories and engage in livestreams, creating a sense of closeness that encourages fans to invest more time and money into their favorite groups. This strategy can backfire, however, as the emotional burden on fans increases. The more they invest emotionally, the more vulnerable they become to disappointment.
 
-As Roh explains, "The emotional labor idols perform is not just for their careers; it creates an obligation for fans to respond in kind, which can lead to toxic dynamics." This cycle of emotional exchange becomes a double-edged sword: while it can enhance fan loyalty, it can also lead to intense emotional distress.
+As Roh explains, "The emotional labor idols perform is not just for their careers; it creates an obligation for fans to respond in kind, which can lead to toxic dynamics." This cycle of emotional exchange becomes a : while it can enhance fan loyalty, it can also lead to intense emotional distress.
 
 ## The Hidden Costs of Fandom: The Rise of Fan Wars
 
@@ -107,26 +107,3 @@ K-Pop agencies are increasingly called upon to prioritize transparency and ethic
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [YouTube TV Dodged Fox: Will 77.2 Million Cord-Cutters Pay The Price?](/en/youtube/youtube-tv-fox-deal-extension-en/)
 
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Hidden Truth About K-Pop YouTube Revenue: $650 Million Surge in 2021",
-  "description": "Discover the surprising factors behind K-Pop's $650 million YouTube revenue surge in 2021 and learn how it reshapes the music industry landscape.",
-  "image": "https://novumworld.com/images/inside-the-global-k-pop-phenomenon-the-power-of-youtube-creators-and-fans-en.jpg",
-  "datePublished": "2026-03-20T20:41:17",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

@@ -73,8 +73,6 @@ The community's response to Chesney's escape underscores the need for greater aw
 
 ### Real User FAQs
 
-
-
 ## Real User FAQs
 
 ### What happened to Chesney the kangaroo?
@@ -97,83 +95,7 @@ The program currently covers certain species like deer and bears but does not in
 
 Community engagement through social media and advocacy for legislative reforms can raise awareness and drive changes in regulations surrounding exotic animal ownership.
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
- {
- "@type": "Question",
- "name": "What happened to Chesney the kangaroo?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Chesney, a runaway kangaroo from Sunshine Farm in Wisconsin, escaped on March 25, 2026, after being startled by dogs, prompting a community search."
- }
- },
- {
- "@type": "Question",
- "name": "Are kangaroos legal to own in Wisconsin?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Yes, owning a kangaroo is legal in Wisconsin, but current regulations do not adequately address the potential risks associated with exotic animal ownership."
- }
- },
- {
- "@type": "Question",
- "name": "What are the ecological risks of exotic animal ownership?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "The introduction of non-native species like kangaroos can lead to overgrazing, competition for resources, and the potential spread of diseases, impacting local ecosystems and agriculture."
- }
- },
- {
- "@type": "Question",
- "name": "What does the Wildlife Damage Claims Program cover?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "The program currently covers certain species like deer and bears but does not include exotic species like kangaroos, leaving farmers without compensation options for damages caused by escaped animals."
- }
- },
- {
- "@type": "Question",
- "name": "How can the community get involved in addressing exotic animal ownership issues?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Community engagement through social media and advocacy for legislative reforms can raise awareness and drive changes in regulations surrounding exotic animal ownership."
- }
- }
- ]
-}
-</script>
-
-
-
-
-
 ### Related Articles
 - [YouTube's Creator Burnout Crisis: 62-90% Are Suffering And The Financial Toll Is Exponential](/en/youtube/youtube-the-new-media-monarch-heres-what-you-need-to-know-en/)
 - [Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](/en/youtube/youtube-sports-subscription-live-streaming-en/)
 
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Disturbing Truth About Chesney: Wisconsin's Runaway Kangaroo Risks Agricultural Chaos",
-  "description": "Discover the unsettling impact of Chesney, Wisconsin's runaway kangaroo, on local farms and agriculture. Explore the chaos it brings to the community.",
-  "image": "https://novumworld.com/images/the-hunt-for-chesney-how-a-runaway-kangaroo-captivated-wisconsin-en.jpg",
-  "datePublished": "2026-03-28T23:46:07",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

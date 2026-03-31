@@ -1,0 +1,164 @@
+<div id="cookie-consent-banner" class="cookie-consent-banner" style="display: none;">
+    <div class="cookie-content">
+        <p>
+            Utilizamos cookies propias y de terceros para personalizar el contenido, analizar nuestro tráfico y mostrar publicidad (AdSense). 
+            Al hacer clic en 'Aceptar', aceptas su uso. Consulta nuestra 
+            <a href="/{{ .Language.Lang }}/privacy/">Política de Privacidad</a> y 
+            <a href="/{{ .Language.Lang }}/privacy/#cookies">Política de Cookies</a>.
+        </p>
+        <div class="cookie-buttons">
+            <button id="cookie-accept-all" class="cookie-btn cookie-btn-primary">Aceptar Todo</button>
+            <button id="cookie-reject" class="cookie-btn cookie-btn-secondary">Rechazar</button>
+        </div>
+    </div>
+</div>
+
+<style>
+    .cookie-consent-banner {
+        position: fixed;
+        bottom: 20px;
+        left: 20px;
+        right: 20px;
+        background: var(--bg-card, #ffffff);
+        color: var(--text-main, #333);
+        padding: 20px;
+        border-radius: 12px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+        z-index: 10000;
+        border: 1px solid var(--border-color, #eee);
+        font-family: 'Inter', sans-serif;
+        display: flex;
+        justify-content: center;
+        animation: slideUp 0.5s ease-out;
+    }
+
+    .cookie-content {
+        max-width: 1000px;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 20px;
+        justify-content: space-between;
+    }
+
+    .cookie-content p {
+        margin: 0;
+        font-size: 0.9rem;
+        line-height: 1.5;
+        color: inherit;
+    }
+
+    .cookie-content a {
+        color: #007bff;
+        text-decoration: underline;
+    }
+
+    .cookie-buttons {
+        display: flex;
+        gap: 10px;
+        flex-shrink: 0;
+    }
+
+    .cookie-btn {
+        padding: 10px 20px;
+        border-radius: 6px;
+        border: none;
+        font-weight: 600;
+        cursor: pointer;
+        font-size: 0.85rem;
+        transition: all 0.2s ease;
+    }
+
+    .cookie-btn-primary {
+        background: #007bff;
+        color: white;
+    }
+
+    .cookie-btn-primary:hover {
+        background: #0056b3;
+        transform: translateY(-2px);
+    }
+
+    .cookie-btn-secondary {
+        background: transparent;
+        border: 1px solid #ccc;
+        color: inherit;
+    }
+
+    .cookie-btn-secondary:hover {
+        background: rgba(0,0,0,0.05);
+    }
+
+    @keyframes slideUp {
+        from { transform: translateY(100%); opacity: 0; }
+        to { transform: translateY(0); opacity: 1; }
+    }
+
+    @media (max-width: 768px) {
+        .cookie-content {
+            flex-direction: column;
+            text-align: center;
+        }
+        .cookie-consent-banner {
+            bottom: 10px;
+            left: 10px;
+            right: 10px;
+            padding: 15px;
+        }
+    }
+
+    /* Dark Mode support if variables exist */
+    @media (prefers-color-scheme: dark) {
+        .cookie-consent-banner {
+            background: #1a1a1a;
+            color: #eee;
+            border-color: #333;
+        }
+        .cookie-btn-secondary {
+            border-color: #444;
+        }
+        .cookie-btn-secondary:hover {
+            background: rgba(255,255,255,0.05);
+        }
+    }
+</style>
+
+<script>
+    (function() {
+        const STORAGE_KEY = 'novum_cookie_consent';
+        const banner = document.getElementById('cookie-consent-banner');
+        const acceptBtn = document.getElementById('cookie-accept-all');
+        const rejectBtn = document.getElementById('cookie-reject');
+
+        function setConsent(status) {
+            localStorage.setItem(STORAGE_KEY, status);
+            banner.style.display = 'none';
+            if (status === 'accepted') {
+                loadDeferredScripts();
+            }
+        }
+
+        function loadDeferredScripts() {
+            // Logic to load AdSense/Analytics
+            console.log('Consent granted. Loading marketing scripts...');
+            window.dispatchEvent(new Event('cookie-consent-given'));
+            
+            // Example: If we have deferred GA or AdSense
+            // Here we can trigger the actual loading/init
+            if (typeof initGtag === 'function') initGtag();
+            if (typeof initAdSense === 'function') initAdSense();
+        }
+
+        const currentConsent = localStorage.getItem(STORAGE_KEY);
+
+        if (!currentConsent) {
+            banner.style.display = 'flex';
+        } else if (currentConsent === 'accepted') {
+            loadDeferredScripts();
+        }
+
+        acceptBtn.addEventListener('click', () => setConsent('accepted'));
+        rejectBtn.addEventListener('click', () => setConsent('rejected'));
+    })();
+</script>

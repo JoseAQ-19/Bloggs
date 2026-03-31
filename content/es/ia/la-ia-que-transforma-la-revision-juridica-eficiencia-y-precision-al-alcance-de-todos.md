@@ -68,34 +68,7 @@ La Ley de IA de la UE considera los sistemas de gestión de RRHH como de "alto r
 ### ¿Puede un empleado exigir explicaciones sobre cómo una IA ha evaluado su desempeño?
 Sí, tiene derecho a la información y a la explicación. El empleado puede exigir a la empresa los parámetros y lógica utilizada en la evaluación algorítmica, y si la empresa no puede proporcionarla de forma transparente y comprensible, la evaluación puede ser anulada.
 
-
-
-
-
 ### Artículos Relacionados
 - [YouTube Revive La Nostalgia: 7 Programas Icónicos De Los 2000s Que Regresan Con Fuerza](/es/youtube/youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto/)
 - [YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
 
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "93% de Consultas Laborales Resueltas por IA: ¿El Futuro de la Justicia en Riesgo?",
-  "description": "Descubre cómo el 93% de las consultas laborales resueltas por IA puede transformar la justicia y qué riesgos implica para el futuro del derecho.",
-  "image": "https://novumworld.com/images/la-ia-que-transforma-la-revision-juridica-eficiencia-y-precision-al-alcance-de-todos.jpg",
-  "datePublished": "2026-03-30T11:00:48",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

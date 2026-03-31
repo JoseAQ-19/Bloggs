@@ -55,6 +55,6 @@ The ultimate question is whether AI can truly serve the customer, or whether it 
 
 Consider that 64% of customers would prefer that companies didn't use AI in their customer service, indicating a potential backlash against unchecked automation. This suggests that many customers still value the human touch, the ability to connect with a real person who can understand their unique needs and provide personalized solutions. As Rick DeLisi, lead research analyst for Digital Customer Service at Glia, argues, the failure to realize the full value of AI in contact centers is not a technology problem, but a maturity problem in implementation. Companies must strike a balance between automation and human interaction, leveraging AI to enhance the customer experience, not replace it.
 
-## The Bottom Line
+## 
 
 The AI hype is outpacing strategic thought and customer value. Companies need to measure the customer value created by AI initiatives and encourage change management. Automation without empathy is just aggravation.

@@ -59,7 +59,7 @@ Adoption of MaxEB (EIP-7251), which allows validators to stake up to 2,048 ETH, 
 
 Such a fork would create significant uncertainty for Ethereum holders and could undermine the network's credibility. It would also raise complex questions about the governance of Ethereum and the role of validators in shaping the network's future. The Hegota upgrade, therefore, represents a crucial test of Ethereum's ability to evolve while maintaining its core principles and avoiding fragmentation.
 
-## The Bottom Line
+## 
 
 FOCIL is a calculated gamble. The risks to US-based validators outweigh the theoretical benefits of enhanced censorship resistance. Stakers should diversify validator infrastructure and jurisdiction to mitigate regulatory risk. The Ethereum Foundation needs to engage more effectively with US regulators to clarify the legal implications of FOCIL and provide clear guidance to validators on how to comply with OFAC regulations. Failing to do so could have dire consequences for the future of Ethereum.
 

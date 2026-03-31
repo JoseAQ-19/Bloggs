@@ -67,7 +67,7 @@ This accuracy stems from the collective intelligence of the market participants,
 
 While prediction markets are not a panacea, they offer a valuable counterbalance to the hype and hyperbole surrounding AI. By providing a more realistic assessment of AI risks, they can help policymakers and the public make more informed decisions about the future of this transformative technology.
 
-## The Bottom Line
+## 
 
 The "red lines" are blurring rapidly.
 

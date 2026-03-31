@@ -63,12 +63,12 @@ Experiment with slightly higher incline angles (around 44 degrees) and track you
 
 To further optimize your upper chest training, consider incorporating these additional tips:
 
-*   **Prioritize compound exercises:** Incline bench presses and incline dumbbell presses should form the foundation of your upper chest routine.
-*   **Use a full range of motion:** Lower the weight all the way down to your chest and fully extend your arms at the top of the movement.
-*   **Focus on the eccentric phase:** Control the weight as you lower it, focusing on feeling the stretch in your upper chest muscles.
-*   **Vary your rep ranges:** Use a mix of rep ranges (e.g., 6-8, 8-12, 12-15) to stimulate different muscle fibers.
-*   **Progressive overload:** Gradually increase the weight, reps, or sets over time to continue challenging your muscles.
-*   **Proper nutrition:** Consume a balanced diet with sufficient protein to support muscle growth.
-*   **Adequate rest:** Allow your muscles to recover between workouts.
+* **Prioritize compound exercises:** Incline bench presses and incline dumbbell presses should form the foundation of your upper chest routine.
+* **Use a full range of motion:** Lower the weight all the way down to your chest and fully extend your arms at the top of the movement.
+* **Focus on the eccentric phase:** Control the weight as you lower it, focusing on feeling the stretch in your upper chest muscles.
+* **Vary your rep ranges:** Use a mix of rep ranges (e.g., 6-8, 8-12, 12-15) to stimulate different muscle fibers.
+* **Progressive overload:** Gradually increase the weight, reps, or sets over time to continue challenging your muscles.
+* **Proper nutrition:** Consume a balanced diet with sufficient protein to support muscle growth.
+* **Adequate rest:** Allow your muscles to recover between workouts.
 
 Don't just incline, *optimize*!

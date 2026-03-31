@@ -26,44 +26,44 @@ Investors are increasingly gravitating toward Asia-focused mutual funds, particu
 The performance metrics of mutual funds are critical for evaluating their potential. In assessing the selected funds, we focus on key performance indicators including annualized returns over 1, 3, and 5 years, volatility, Sharpe ratio, and total expense ratios (TER). Below is a comparative analysis of the five funds under discussion:
 
 1. **Fund A**: 
-   - 1-Year Return: +12%
-   - 3-Year Return: +28%
-   - 5-Year Return: +45%
-   - Volatility: 11%
-   - Sharpe Ratio: 1.2
-   - TER: 0.85%
+ - 1-Year Return: +12%
+ - 3-Year Return: +28%
+ - 5-Year Return: +45%
+ - Volatility: 11%
+ - Sharpe Ratio: 1.2
+ - TER: 0.85%
 
 2. **Fund B**: 
-   - 1-Year Return: +14%
-   - 3-Year Return: +31%
-   - 5-Year Return: +48%
-   - Volatility: 10%
-   - Sharpe Ratio: 1.5
-   - TER: 1.10%
+ - 1-Year Return: +14%
+ - 3-Year Return: +31%
+ - 5-Year Return: +48%
+ - Volatility: 10%
+ - Sharpe Ratio: 1.5
+ - TER: 1.10%
 
 3. **Fund C**: 
-   - 1-Year Return: +13%
-   - 3-Year Return: +29%
-   - 5-Year Return: +43%
-   - Volatility: 12%
-   - Sharpe Ratio: 1.4
-   - TER: 0.95%
+ - 1-Year Return: +13%
+ - 3-Year Return: +29%
+ - 5-Year Return: +43%
+ - Volatility: 12%
+ - Sharpe Ratio: 1.4
+ - TER: 0.95%
 
 4. **Fund D**: 
-   - 1-Year Return: +15%
-   - 3-Year Return: +33%
-   - 5-Year Return: +50%
-   - Volatility: 9%
-   - Sharpe Ratio: 1.8
-   - TER: 0.80%
+ - 1-Year Return: +15%
+ - 3-Year Return: +33%
+ - 5-Year Return: +50%
+ - Volatility: 9%
+ - Sharpe Ratio: 1.8
+ - TER: 0.80%
 
 5. **Fund E**: 
-   - 1-Year Return: +11%
-   - 3-Year Return: +27%
-   - 5-Year Return: +40%
-   - Volatility: 13%
-   - Sharpe Ratio: 1.1
-   - TER: 1.05%
+ - 1-Year Return: +11%
+ - 3-Year Return: +27%
+ - 5-Year Return: +40%
+ - Volatility: 13%
+ - Sharpe Ratio: 1.1
+ - TER: 1.05%
 
 ### Expense Ratios and Performance Impact
 
@@ -98,43 +98,25 @@ As we analyze the data and insights, it becomes evident that the selected funds 
 ## Real User FAQs
 
 1. **What are the main risks associated with Asia-focused funds?**
-   - The primary risks include geopolitical tensions, currency fluctuations, and potential economic downturns that can impact market performance.
+ - The primary risks include geopolitical tensions, currency fluctuations, and potential economic downturns that can impact market performance.
 
 2. **How can I assess the performance of these funds?**
-   - Investors should consider metrics such as annualized returns, volatility, Sharpe ratios, and expense ratios to gauge fund performance.
+ - Investors should consider metrics such as annualized returns, volatility, Sharpe ratios, and expense ratios to gauge fund performance.
 
 3. **Are lower expense ratios always better?**
-   - While lower expense ratios can enhance net returns, investors should also assess the overall fund performance and management quality.
+ - While lower expense ratios can enhance net returns, investors should also assess the overall fund performance and management quality.
 
 4. **What sectors are expected to drive growth in Asia?**
-   - Technology, healthcare, and renewable energy are anticipated to be key growth sectors in the coming years.
+ - Technology, healthcare, and renewable energy are anticipated to be key growth sectors in the coming years.
 
 5. **Should I invest in multiple Asia funds for diversification?**
-   - Diversifying across multiple funds can reduce risk and enhance potential returns, but it's essential to evaluate each fund's strategy and holdings.
+ - Diversifying across multiple funds can reduce risk and enhance potential returns, but it's essential to evaluate each fund's strategy and holdings.
 
 ## Our Investment Strategy
 
 We believe that a well-thought-out investment strategy focusing on Asia mutual funds could yield substantial returns in the coming years. The selected funds show promise based on performance metrics, expert insights, and market trends. However, investors should remain vigilant about the inherent risks and maintain a diversified portfolio to mitigate potential downsides.
 
 ### Schema Markup
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "5 Handpicked Asia Funds by Morningstar Projected to Outperform by 15% in 2026",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Financial Analyst"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.example.com/asian-fund-analysis"
-  }
-}
-</script>
 
 This analysis aims to provide a comprehensive overview of the opportunities and considerations within Asia's mutual fund landscape as we approach 2026. Each fund presents unique potential, and through careful selection, investors can align their portfolios with projected growth trends.
 

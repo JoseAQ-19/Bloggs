@@ -57,8 +57,8 @@ Beyond the hype and the technical challenges, lies a deeper question: what is th
 
 Bias in AI systems remains a significant concern. AI models are trained on data, and if that data reflects existing biases, the models will perpetuate and amplify those biases. This can lead to discriminatory outcomes in areas such as hiring, lending, and criminal justice. The potential for job displacement due to AI automation is another major concern. While some argue that AI will create new jobs, others fear that it will lead to widespread unemployment, particularly in low-skill and middle-skill occupations. These "so what" questions are crucial for understanding the true impact of AI.
 
-They require a critical examination of the technology's potential benefits and risks, as well as a thoughtful consideration of the ethical and societal implications. Jennifer Chayes, Dean of Berkeley's College of Computing, Data Science, and Society, believes 2024 will be a double-edged sword, with rising AI capabilities alongside increasing issues in AI safety and security, such as deep fakes and voice-cloning scams. Simply embracing AI without addressing these underlying issues is a recipe for disaster.
+They require a critical examination of the technology's potential benefits and risks, as well as a thoughtful consideration of the ethical and societal implications. Jennifer Chayes, Dean of Berkeley's College of Computing, Data Science, and Society, believes 2024 will be a , with rising AI capabilities alongside increasing issues in AI safety and security, such as deep fakes and voice-cloning scams. Simply embracing AI without addressing these underlying issues is a recipe for disaster.
 
-## The Bottom Line
+## 
 
 The AI narrative feels a little too close to 17th-century tulip mania. Don't drink the Kool-Aid.

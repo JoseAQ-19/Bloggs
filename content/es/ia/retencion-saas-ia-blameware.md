@@ -41,7 +41,7 @@ La industria SaaS está tan obsesionada con la IA que parece ignorar los fracaso
 
 El fracaso de McDonald's con su sistema de pedidos basado en IA, que agregaba McNuggets por error, ejemplifica los riesgos de implementar IA sin una validación rigurosa en el mundo real. ¿Acaso las empresas SaaS han aprendido algo de este fiasco? Parece que no. Siguen lanzando funciones de IA a bombo y platillo, sin preocuparse por si realmente funcionan o si aportan valor al usuario.
 
-Otro ejemplo es el de un chatbot de un concesionario de coches que ofreció un Chevy Tahoe por solo $1. Estos errores, aunque anecdóticos, revelan una verdad incómoda: la IA, por muy sofisticada que sea, sigue siendo propensa a errores absurdos. Y en el mundo SaaS, estos errores pueden traducirse en usuarios frustrados, pérdida de confianza y, en última instancia, *churn*.
+Otro ejemplo es el de un chatbot de un concesionario de coches que ofreció un Chevy Tahoe por solo $1. Estos errores, aunque anecdóticos, revelan una verdad incómoda: la IA, por muy sofisticada que sea, sigue siendo propensa a errores absurdos. Y en el mundo SaaS, estos errores pueden traducirse en usuarios frustrados, pérdida de confianza y, , *churn*.
 
 ## El laberinto normativo: Cómo la **AESIA** y la Ley de IA de la UE podrían frenar el despliegue de la "IA fraudulenta".
 

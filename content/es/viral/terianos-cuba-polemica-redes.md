@@ -69,10 +69,10 @@ Experiencias en otros países muestran que la resistencia digital puede ser un p
 
 Entre las tácticas de resistencia que ya se implementan en la isla destacan:
 
-*   **Uso de VPNs:** Para sortear bloqueos y ocultar la actividad *online*.
-*   **Redes *offline*:** Como "El Paquete Semanal", que distribuye contenido digital sin conexión a internet.
-*   **Educación digital:** Talleres independientes que enseñan a navegar de forma más segura.
-*   **Desarrollo de *apps* locales:** Aplicaciones que permiten el intercambio de datos sin necesidad de estar conectados a internet, emulando los servicios de mensajería globales.
+* **Uso de VPNs:** Para sortear bloqueos y ocultar la actividad *online*.
+* **Redes *offline*:** Como "El Paquete Semanal", que distribuye contenido digital sin conexión a internet.
+* **Educación digital:** Talleres independientes que enseñan a navegar de forma más segura.
+* **Desarrollo de *apps* locales:** Aplicaciones que permiten el intercambio de datos sin necesidad de estar conectados a internet, emulando los servicios de mensajería globales.
 
 Además, la diáspora cubana y diversas organizaciones internacionales han comenzado a interesarse por proyectos como Terianos, ofreciendo soporte técnico y recursos financieros. Esta red de apoyo global podría ser crucial para garantizar su sostenibilidad y expansión.
 
@@ -86,6 +86,6 @@ El futuro de la libertad digital en la isla dependerá tanto de la capacidad de 
 
 **Artículos relacionados:**
 
-*   **Cómo funcionan las redes mesh y su potencial para la resistencia digital.**
-*   **Censura en la era digital: ¿Qué podemos aprender de otros países?**
-*   **El Paquete Semanal: la otra cara de la resistencia offline en Cuba.**
+* **Cómo funcionan las redes mesh y su potencial para la resistencia digital.**
+* **Censura en la era digital: ¿Qué podemos aprender de otros países?**
+* **El Paquete Semanal: la otra cara de la resistencia offline en Cuba.**

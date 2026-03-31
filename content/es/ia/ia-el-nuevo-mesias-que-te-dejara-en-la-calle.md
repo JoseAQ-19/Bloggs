@@ -23,17 +23,17 @@ La Inteligencia Artificial (IA) es el último opio del pueblo, una fantasía tec
 
 La burbuja de la IA está a punto de estallar, pero las élites de Silicon Valley seguirán enriqueciéndose hasta el último segundo. Las promesas de rentabilidad y eficiencia son puras cortinas de humo para ocultar la realidad: la IA, tal como se está desarrollando, es un pozo sin fondo de recursos y un destructor de empleos.
 
-*   **Rentabilidad Inexistente:** La propaganda tecnoptimista nos bombardea con historias de éxito, pero la verdad es que la mayoría de las empresas no están viendo ningún retorno significativo de sus inversiones en IA. Un análisis reciente revela que **menos del 15% de las empresas obtienen mejoras notables en sus márgenes operativos**.
-*   **Inversiones en Caída Libre:** El dinero fácil se está acabando. Los inversores, antes cegados por el brillo de la IA, están empezando a darse cuenta de que la promesa de un futuro automatizado es una quimera costosa. La desaceleración en la inversión en IA no es una casualidad, es una señal de alarma.
-*   **Costos Ocultos Devastadores:** El coste ambiental de la IA es obsceno. Entrenar un modelo como GPT-3 consume una cantidad absurda de energía. El despilfarro energético es tan grave que pone en tela de juicio la viabilidad a largo plazo de esta tecnología.
+* **Rentabilidad Inexistente:** La propaganda tecnoptimista nos bombardea con historias de éxito, pero la verdad es que la mayoría de las empresas no están viendo ningún retorno significativo de sus inversiones en IA. Un análisis reciente revela que **menos del 15% de las empresas obtienen mejoras notables en sus márgenes operativos**.
+* **Inversiones en Caída Libre:** El dinero fácil se está acabando. Los inversores, antes cegados por el brillo de la IA, están empezando a darse cuenta de que la promesa de un futuro automatizado es una quimera costosa. La desaceleración en la inversión en IA no es una casualidad, es una señal de alarma.
+* **Costos Ocultos Devastadores:** El coste ambiental de la IA es obsceno. Entrenar un modelo como GPT-3 consume una cantidad absurda de energía. El despilfarro energético es tan grave que pone en tela de juicio la viabilidad a largo plazo de esta tecnología.
 
 ## Desempleo y Desesperación: El Verdadero Costo de la "Revolución"
 
 La IA no es una fuerza liberadora, es una máquina de exprimir a los trabajadores y aumentar la riqueza de los más ricos. La automatización impulsada por la IA está destruyendo empleos a un ritmo alarmante, creando una clase de "desempleados tecnológicos" que serán arrojados a la calle sin contemplaciones.
 
-*   **El Gran Despido:** Las proyecciones son aterradoras: millones de empleos serán reemplazados por algoritmos insaciables. Este [informe de Goldman Sachs](https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html) (irónicamente optimista sobre el PIB) reconoce el potencial de un desplazamiento laboral masivo.
-*   **Explotación Algorítmica:** Los algoritmos de fijación de precios están siendo utilizados para exprimir hasta el último céntimo de los inquilinos, exacerbando la crisis de la vivienda y empujando a más personas a la calle. Esta práctica depredadora es una vergüenza.
-*   **Productividad Fantasma:** La promesa de una mayor productividad gracias a la automatización es una burda mentira. Las empresas están automatizando por automatizar, sin un impacto real en la eficiencia o los precios.
+* **El Gran Despido:** Las proyecciones son aterradoras: millones de empleos serán reemplazados por algoritmos insaciables. Este [informe de Goldman Sachs](https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html) (irónicamente optimista sobre el PIB) reconoce el potencial de un desplazamiento laboral masivo.
+* **Explotación Algorítmica:** Los algoritmos de fijación de precios están siendo utilizados para exprimir hasta el último céntimo de los inquilinos, exacerbando la crisis de la vivienda y empujando a más personas a la calle. Esta práctica depredadora es una vergüenza.
+* **Productividad Fantasma:** La promesa de una mayor productividad gracias a la automatización es una burda mentira. Las empresas están automatizando por automatizar, sin un impacto real en la eficiencia o los precios.
 
 ## Las "Siete Magníficas": Señores Feudales del Siglo XXI
 

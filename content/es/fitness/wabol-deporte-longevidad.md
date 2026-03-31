@@ -15,9 +15,9 @@ translationKey: "1af241f1-fde4-4831-ccf4-6e3fc195d782"
 
 Las promesas de salud eterna vendidas por la industria del fitness son tan comunes como decepcionantes.
 
-*   WABOL, un deporte basado en caminar, podría contribuir a la longevidad de manera similar a la observada en atletas de élite, quienes viven aproximadamente 5 años más, al promover un estilo de vida activo.
-*   Un estudio de la Universidad de Granada desafía la idea de que el ejercicio intenso causa daño celular, sugiriendo que los atletas desarrollan un mecanismo antioxidante.
-*   La integración de actividades como WABOL puede aportar beneficios asociados a la actividad física y la interacción social, promoviendo el bienestar general sin entrenamientos extenuantes.
+* WABOL, un deporte basado en caminar, podría contribuir a la longevidad de manera similar a la observada en atletas de élite, quienes viven aproximadamente 5 años más, al promover un estilo de vida activo.
+* Un estudio de la Universidad de Granada desafía la idea de que el ejercicio intenso causa daño celular, sugiriendo que los atletas desarrollan un mecanismo antioxidante.
+* La integración de actividades como WABOL puede aportar beneficios asociados a la actividad física y la interacción social, promoviendo el bienestar general sin entrenamientos extenuantes.
 
 ## WABOL: ¿Realmente la Alternativa al Gimnasio o Solo un Nuevo Deporte para Mayores?
 
@@ -39,7 +39,7 @@ Esta perspectiva modifica la comprensión de la relación entre ejercicio y enve
 
 La intensidad del ejercicio es crucial para activar las vías metabólicas que promueven la biogénesis mitocondrial, y la duda sobre si WABOL genera adaptaciones beneficiosas persiste debido a su baja intensidad. No todas las formas de ejercicio son iguales en términos de su impacto metabólico.
 
-Estudios demuestran que los atletas de resistencia tienen una densidad de crestas mitocondriales un 25% mayor que personas no entrenadas, lo que se traduce en mayor capacidad para producir energía y mejor resistencia. El entrenamiento de fuerza también aumenta la densidad mitocondrial, aunque en menor medida (alrededor del 16%). Un estudio publicado en *Medicine & Science in Sports & Exercise*  detalla cómo el entrenamiento de fuerza, especialmente con cargas elevadas y bajo número de repeticiones, puede inducir adaptaciones mitocondriales específicas en las fibras musculares de tipo II.
+Estudios demuestran que los atletas de resistencia tienen una densidad de crestas mitocondriales un 25% mayor que personas no entrenadas, lo que se traduce en mayor capacidad para producir energía y mejor resistencia. El entrenamiento de fuerza también aumenta la densidad mitocondrial, aunque en menor medida (alrededor del 16%). Un estudio publicado en *Medicine & Science in Sports & Exercise* detalla cómo el entrenamiento de fuerza, especialmente con cargas elevadas y bajo número de repeticiones, puede inducir adaptaciones mitocondriales específicas en las fibras musculares de tipo II.
 
 El problema de WABOL es su baja intensidad, que puede no ser suficiente para activar estas vías metabólicas de manera significativa. Si bien caminar es beneficioso para la salud cardiovascular y la quema de calorías, su impacto en la fuerza muscular y la biogénesis mitocondrial podría ser limitado. Para maximizar los beneficios a largo plazo, podría ser necesario complementar WABOL con ejercicios más intensos, como el entrenamiento de resistencia o el HIIT (entrenamiento de intervalos de alta intensidad). La periodización del entrenamiento, alternando sesiones de WABOL con entrenamientos de fuerza y HIIT, podría ser una estrategia efectiva para optimizar los resultados.
 

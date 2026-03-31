@@ -37,8 +37,8 @@ La solución no reside en un rechazo total de la IA, sino en la exigencia de tra
 
 ### Fuentes de Autoridad y Análisis Profundo
 
-*   [Análisis en Com/news](https://openai.com/news)
-*   [Análisis en Google/discover](https://deepmind.google/discover)
+* [Análisis en Com/news](https://openai.com/news)
+* [Análisis en Google/discover](https://deepmind.google/discover)
 
 > **[Análisis Recomendado]** 'Silicon Valley se Desangra: La Era Dorada ha Terminado (Y Nadie lo Admite)': [/es/ia/silicon-valley-se-desangra-la-era-dorada-ha-termin/](/es/ia/silicon-valley-se-desangra-la-era-dorada-ha-termin/)
 

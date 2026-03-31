@@ -4,7 +4,7 @@ theme = "ananke"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 enableEmoji = true
-enableRobotsTXT = false
+enableRobotsTXT = true
 
 [languages]
   [languages.en]
@@ -72,6 +72,11 @@ paginate = 6
   url = "/en/funds/"
   weight = 70
 [[languages.en.menu.main]]
+  identifier = "realestate"
+  name = "🏠 Real Estate"
+  url = "/en/realestate/"
+  weight = 75
+[[languages.en.menu.main]]
   identifier = "about"
   name = "About Us"
   url = "/en/about/"
@@ -128,6 +133,11 @@ paginate = 6
   name = "💰 Fondos"
   url = "/es/funds/"
   weight = 70
+[[languages.es.menu.main]]
+  identifier = "realestate"
+  name = "🏠 Inmobiliario"
+  url = "/es/realestate/"
+  weight = 75
 [[languages.es.menu.main]]
   identifier = "about"
   name = "Sobre Nosotros"

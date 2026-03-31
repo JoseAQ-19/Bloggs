@@ -77,7 +77,7 @@ Furthermore, YouTube needs to embrace a more holistic approach to reliability, r
 
 Ultimately, YouTube's ability to overcome this lingering shadow will depend on its commitment to reliability and its willingness to learn from its mistakes. The platform must demonstrate that it is not only aware of its vulnerabilities but also taking concrete steps to address them.
 
-## The Bottom Line
+## 
 
 YouTube needs to be more transparent about the root cause of outages and invest further in robust SRE practices to prevent future incidents. Creators should diversify their platforms to mitigate income loss during outages.
 

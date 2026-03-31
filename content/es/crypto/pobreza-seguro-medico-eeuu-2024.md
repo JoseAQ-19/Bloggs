@@ -13,7 +13,7 @@ language: "es"
 translationKey: "5738d346-bc0f-87cd-7119-4c794b6b3c72"
 ---
 
-# Más de 100 millones de estadounidenses ahogados por deudas médicas en 2024
+## Más de 100 millones de estadounidenses ahogados por deudas médicas en 2024
 
 Más de 100 millones de estadounidenses enfrentan deudas médicas en 2024, con el 66% de las bancarrotas personales vinculadas a gastos de salud, según datos del **Census Bureau**. La crisis sanitaria y financiera se agrava por la carencia de seguro médico, que afecta a **27,1 millones de personas** en el país, sin que haya habido una mejora significativa desde 2023. Esta situación pone en evidencia las profundas desigualdades y fallos estructurales en el sistema de salud estadounidense.
 
@@ -65,24 +65,24 @@ Finalmente, las deudas médicas representan una carga para los sistemas de salud
 
 ### Preguntas frecuentes
 
-**¿Cuál es el principal problema del sistema de salud estadounidense?**  
+**¿Cuál es el principal problema del sistema de salud estadounidense?** 
 La ausencia de cobertura universal y la incertidumbre financiera frente a los altos costos médicos. Más de 100 millones de personas acumulan deudas por servicios no cubiertos por seguros.
 
-**¿Cómo afecta esto a las minorías étnicas?**  
+**¿Cómo afecta esto a las minorías étnicas?** 
 Los adultos hispanos y afroamericanos enfrentan un 30% más de dificultades para costear atención médica, según encuestas de **Univision 2025**.
 
-**¿Qué países tienen sistemas más eficientes?**  
+**¿Qué países tienen sistemas más eficientes?** 
 España, Canadá y los países nórdicos cuentan con sistemas de salud universales que combinan menor gasto per cápita con mejores resultados en esperanza de vida y bienestar general.
 
-**¿Qué sucederá si caducan los subsidios del ACA?**  
+**¿Qué sucederá si caducan los subsidios del ACA?** 
 Millones de estadounidenses perderían su cobertura sanitaria, especialmente en estados que no han expandido el **Medicaid**, lo que agravaría aún más la crisis de deudas médicas.
 
-**¿Es legal negar tratamiento por no poder pagar?**  
+**¿Es legal negar tratamiento por no poder pagar?** 
 Si bien leyes como **EMTALA** garantizan atención en emergencias, no cubren tratamientos crónicos ni cuidados preventivos para quienes no pueden pagarlos.
 
 ### Artículos relacionados
 
-- [La Alianza YouTube-FIFA: 5 Mil Millones de Espectadores en el Mundial 2026](/es/youtube/youtube-y-fifa-un-acuerdo-que-cambiara-la-forma-de-ver-el-mundial-2026/)  
-- [YouTube Revive la Nostalgia: 7 Programas Icónicos de los 2000s que Regresan con Fuerza](/es/youtube/youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto/)  
+- [La Alianza YouTube-FIFA: 5 Mil Millones de Espectadores en el Mundial 2026](/es/youtube/youtube-y-fifa-un-acuerdo-que-cambiara-la-forma-de-ver-el-mundial-2026/) 
+- [YouTube Revive la Nostalgia: 7 Programas Icónicos de los 2000s que Regresan con Fuerza](/es/youtube/youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto/) 
 
 **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.

@@ -61,7 +61,7 @@ Given these challenges, it is essential for creators to diversify their income s
 
 An **article** highlights the challenges of automatically identifying hate speech in alt-right YouTube videos, further emphasizing the limitations of current content moderation technologies. Diversification can offer creators safety from this inconsistency.
 
-## The Bottom Line
+## 
 
 YouTube's policies, however well-intentioned, are stifling creativity and driving creators away, as indicated by the **GAO report**.
 

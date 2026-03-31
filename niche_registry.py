@@ -12,6 +12,7 @@ from prompts_factory import (
     PROMPT_VIRAL_ES,   PROMPT_VIRAL_EN,
     PROMPT_TOOLS_ES,   PROMPT_TOOLS_EN,
     PROMPT_FUNDS_ES,   PROMPT_FUNDS_EN,
+    PROMPT_REALESTATE_ES, PROMPT_REALESTATE_EN,
 )
 
 # ═══════════════════════════════════════════════════════════════════
@@ -67,6 +68,13 @@ NICHES = {
         "search_context": "Morningstar fund awards 2026 BlackRock Vanguard mutual fund redemptions equity yield macroeconomics S&P 500 ETF vs mutual funds portfolio management Bloomberg Reuters finance news",
         "prompt_es": PROMPT_FUNDS_ES,
         "prompt_en": PROMPT_FUNDS_EN
+    },
+    "realestate": {
+        "name": "Real Estate",
+        "output_dir": "content/realestate",
+        "search_context": "FRED 30-year mortgage rates FHFA house price index INE compraventa vivienda transmisiones euribor diario market analysis property yield rent vs buy",
+        "prompt_es": PROMPT_REALESTATE_ES,
+        "prompt_en": PROMPT_REALESTATE_EN
     }
 }
 

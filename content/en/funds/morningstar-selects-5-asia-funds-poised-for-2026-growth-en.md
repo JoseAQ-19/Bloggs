@@ -15,9 +15,9 @@ translationKey: "6ed77a7e-b219-c3f6-322f-b49cdb9bfd77"
 
 A recent analysis reveals that Asia's growth funds are expected to outperform, with a projected 12% annualized growth rate through 2026. 
 
-* [Asia's GDP growth projected at 5.8% in 2026 — source: IMF](https://www.imf.org/en/Publications/WP/Issues/2023/03/01/Global-Economic-Outlook-March-2023-546208)  
-* [Asian equity fund flows up 20% year-over-year — source: Morningstar](https://www.morningstar.com/articles/1056528/global-fund-flows)  
-* [Volatility in Asia's markets reduced by 15% in Q1 2026 — source: Bloomberg](https://www.bloomberg.com/markets)  
+* [Asia's GDP growth projected at 5.8% in 2026 — source: IMF](https://www.imf.org/en/Publications/WP/Issues/2023/03/01/Global-Economic-Outlook-March-2023-546208) 
+* [Asian equity fund flows up 20% year-over-year — source: Morningstar](https://www.morningstar.com/articles/1056528/global-fund-flows) 
+* [Volatility in Asia's markets reduced by 15% in Q1 2026 — source: Bloomberg](https://www.bloomberg.com/markets) 
 
 The robust economic environment in Asia is fostering investor confidence, leading to a significant uptick in fund allocations. Five Asia-focused mutual funds have been highlighted by Morningstar for their potential to capitalize on this growth trend. Fund managers are increasingly optimistic about the region's economic resilience, especially in sectors such as technology, financials, and consumer discretionary goods. 
 
@@ -67,69 +67,6 @@ Regular reviews, at least semi-annually, are recommended to ensure alignment wit
 The average expense ratio for the highlighted funds is approximately 1.2%, which is competitive within the industry.
 
 We believe that a well-researched approach to investing in Asia’s mutual funds can yield substantial returns, especially as the region continues to navigate its unique economic landscape.
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Morningstar Selects 5 Asia Funds Poised for 2026 Growth",
-  "datePublished": "2023-10-15",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  },
-  "mainEntityOfPage": "https://your-article-url.com"
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the main factors driving growth in Asia's mutual funds?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Economic recovery, technological advancements, and increased consumer spending are central to the growth narrative."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are there specific sectors that are outperforming in Asia?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, technology and financial services have shown robust performance, reflecting the region's digital transformation."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the risks associated with investing in Asian funds?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Geopolitical tensions, currency fluctuations, and economic dependency on exports present notable risks that could affect fund performance."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How often should I review my investments in these funds?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Regular reviews, at least semi-annually, are recommended to ensure alignment with market conditions and personal investment goals."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the average expense ratio for Asian mutual funds?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The average expense ratio for the highlighted funds is approximately 1.2%, which is competitive within the industry."
-      }
-    }
-  ]
-}
-</script>
 
 ---
 

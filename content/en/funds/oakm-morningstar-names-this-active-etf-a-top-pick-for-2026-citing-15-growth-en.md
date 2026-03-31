@@ -24,12 +24,12 @@ The broader alternative ETF universe has experienced remarkable growth, with ass
 **OAKM ETF: Comparative Fund Performance**
 *All data pending verification per Morningstar database as of Q4 2025*
 
-| Fund                | 1-Year Return | 3-Year Annualized | 5-Year Annualized | Volatility (Std Dev) | Sharpe Ratio | Expense Ratio |
+| Fund | 1-Year Return | 3-Year Annualized | 5-Year Annualized | Volatility (Std Dev) | Sharpe Ratio | Expense Ratio |
 |---------------------|---------------|-------------------|-------------------|----------------------|--------------|---------------|
-| OAKM (Oaktree Active) | 11.2%         | 9.7%              | 8.4%              | 10.3%                | 0.81         | 0.65%         |
-| VTI (Vanguard Total Stock) | 17.8%    | 13.5%             | 12.1%             | 15.2%                | 0.79         | 0.03%         |
-| QQQ (Invesco Nasdaq 100) | 24.1%      | 18.2%             | 14.8%             | 22.7%                | 0.65         | 0.20%         |
-| HYG (iShares High Yield Bond) | 5.4%      | 5.8%              | 5.2%              | 8.1%                 | 0.71         | 0.49%         |
+| OAKM (Oaktree Active) | 11.2% | 9.7% | 8.4% | 10.3% | 0.81 | 0.65% |
+| VTI (Vanguard Total Stock) | 17.8% | 13.5% | 12.1% | 15.2% | 0.79 | 0.03% |
+| QQQ (Invesco Nasdaq 100) | 24.1% | 18.2% | 14.8% | 22.7% | 0.65 | 0.20% |
+| HYG (iShares High Yield Bond) | 5.4% | 5.8% | 5.2% | 8.1% | 0.71 | 0.49% |
 
 The performance data reveals several interesting patterns when examined through multiple lenses. Looking at the 1-year returns, OAKM's 11.2% lags significantly behind equity benchmarks, particularly the tech-heavy QQQ which delivered 24.1%. However, this underperformance narrows when considering longer time horizons, with OAKM's 5-year annualized return of 8.4% being closer to VTI's 12.1%. This suggests that while OAKM may struggle during strong bull markets, it demonstrates resilience during periods of market stress.
 
@@ -75,7 +75,7 @@ The duration sensitivity of OAKM's infrastructure holdings represents a particul
 
 The distressed debt market, while potentially lucrative during rising rate environments, also faces significant challenges. Higher interest rates increase default probabilities across the corporate spectrum, particularly for companies with high leverage ratios. The default rate for speculative-grade bonds has historically risen in tandem with interest rates, with a lag of approximately 12-18 months. This suggests that the full impact of the current rate environment on credit quality may not yet be fully reflected in market prices.
 
-## OAKM ETF: Final Thoughts and Assessment
+## OAKM ETF: and Assessment
 OAKM represents a high-conviction investment strategy concentrated in two speculative sectors. The 0.65% expense ratio demands substantial outperformance that may be difficult to achieve given the fund's concentration risk. While Morningstar's endorsement carries weight, the LNG market disruption demonstrates how quickly market conditions can change. Investors should carefully evaluate whether the potential returns justify the fees and sector concentration before committing capital.
 
 The investment case for OAKM ultimately rests on several key assumptions: that AI infrastructure investment will continue to grow at projected rates, that interest rates will eventually decline creating opportunities for distressed debt investors, and that Oaktree's expertise in distressed debt will generate sufficient alpha to justify the fund's expense ratio. Each of these assumptions carries significant uncertainty, particularly in the current volatile market environment.
@@ -104,7 +104,6 @@ Finally, the potential for liquidity constraints within the alternative credit m
 ---
 
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
-
 
 ### Fuentes y Autoridad
 * [Análisis en Morningstar](https://www.morningstar.com)

@@ -69,7 +69,7 @@ Children's exposure to inappropriate content on YouTube has documented psycholog
 
 The global shift toward regulation represents a fundamental challenge to YouTube's growth narrative. The platform's expansion strategy has always relied on capturing new user demographics, particularly in emerging markets. Indonesia's ban forces YouTube to acknowledge that some markets may remain permanently off-limits, requiring a fundamental rethinking of its monetization approach. This transition will be particularly painful for a company whose valuation is built on perpetual growth in user engagement and advertising revenue.
 
-## The Bottom Line
+## 
 
 Indonesia's stance is a harbinger of stricter global regulation of children's online safety; tech companies must prioritize ethical algorithm design and robust content moderation over engagement metrics at the expense of child development. Invest in technologies that prioritize user privacy and well-being over addictive design patterns.
 

@@ -45,7 +45,7 @@ El uso inapropiado de YouTube en el aula puede desviar la atención del aprendiz
 
 Si bien el 70% de los estudiantes utilizan YouTube para profundizar y mejorar sus estudios, según algunas fuentes, es crucial analizar qué tipo de contenido consumen y cómo lo integran en su proceso de aprendizaje. ¿Están viendo videos educativos de alta calidad que complementan el currículo, o se están distrayendo con contenido irrelevante o incluso perjudicial?
 
-La facilidad de acceso a YouTube puede ser un arma de doble filo. Por un lado, ofrece una riqueza de recursos educativos sin precedentes. Por otro, puede fomentar la pasividad y la falta de atención, especialmente si no se utiliza de forma consciente y estructurada.
+La facilidad de acceso a YouTube puede ser . Por un lado, ofrece una riqueza de recursos educativos sin precedentes. Por otro, puede fomentar la pasividad y la falta de atención, especialmente si no se utiliza de forma consciente y estructurada.
 
 Nacho Gago, profesor galardonado, destaca la falta de respeto hacia los profesores, quienes deben estar siempre en su mejor momento, como atletas de alto rendimiento. Esta observación pone de relieve la presión que sufren los educadores para adaptarse a las nuevas tecnologías y mantener la atención de los estudiantes en un entorno cada vez más competitivo.
 

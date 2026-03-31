@@ -38,9 +38,9 @@ Esta degradación no solo daña la democracia, la destruye. La trivialización d
 
 Ante esta farsa, la "alfabetización mediática" es una solución ingenua. No se trata de "cuestionar la información", sino de rechazarla de plano. No se trata de "buscar fuentes diversas", sino de crear las nuestras propias. Necesitamos un boicot masivo al periodismo tradicional.
 
-*   **Desconéctate:** Elimina las apps de noticias, deja de ver la televisión y evita los periódicos.
-*   **Ignora las redes sociales:** Son la principal fuente de desinformación y manipulación.
-*   **Cultiva tu propio pensamiento:** Lee libros, asiste a conferencias y habla con personas inteligentes.
+* **Desconéctate:** Elimina las apps de noticias, deja de ver la televisión y evita los periódicos.
+* **Ignora las redes sociales:** Son la principal fuente de desinformación y manipulación.
+* **Cultiva tu propio pensamiento:** Lee libros, asiste a conferencias y habla con personas inteligentes.
 
 No necesitamos "apoyar el periodismo independiente", necesitamos construir alternativas. No necesitamos "participar en el debate público", necesitamos crear nuestro propio debate. La única manera de reclamar la verdad es abandonando el sistema que la corrompe.
 

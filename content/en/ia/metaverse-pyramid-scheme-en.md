@@ -26,14 +26,14 @@ description: A critical analysis of the Metaverse's rise and fall, examining the
 date: 2024-10-27
 image: images/metaverse-bubble.jpg
 categories:
-  - Technology
-  - Business
+ - Technology
+ - Business
 tags:
-  - Metaverse
-  - Virtual Reality
-  - Cryptocurrency
-  - Speculative Bubble
-  - Meta
+ - Metaverse
+ - Virtual Reality
+ - Cryptocurrency
+ - Speculative Bubble
+ - Meta
 ---
 
 ![image](images/metaverse-bubble.jpg)

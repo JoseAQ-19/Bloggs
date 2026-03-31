@@ -87,34 +87,7 @@ Rural population loss is devastating for church sustainability. With 68 of 99 Io
 
 Conservative leaders use "Cultural Marxism" as a framework to describe progressive social movements, including LGBTQ rights and critical race theory. They argue these ideologies are foreign threats infiltrating the church to undermine traditional values and scriptural authority.
 
-
-
-
-
 ### Related Articles
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Iowa Churches Unite: 83 Congregations Break Away Over LGBTQ Rights And Cultural Marxism",
-  "description": "Explore how 83 Iowa churches are uniting in a historic break over LGBTQ rights and cultural Marxism, sparking debate on faith and values.",
-  "image": "https://novumworld.com/images/iowan-churches-rally-a-bold-stand-against-controversial-issues-en.jpg",
-  "datePublished": "2026-03-30T11:53:18",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

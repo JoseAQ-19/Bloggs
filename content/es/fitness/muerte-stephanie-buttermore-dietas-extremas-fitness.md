@@ -15,9 +15,9 @@ translationKey: "f95a81e4-180a-d29d-1c8c-dc56337149c8"
 
 El culto al cuerpo perfecto es una epidemia silenciosa que se cobra más víctimas de las que reconocemos.
 
-*   Si bien la causa de la muerte de Stephanie Buttermore es desconocida, su historial con la alimentación restrictiva y el "All In Challenge" plantea interrogantes sobre los efectos a largo plazo de las dietas extremas en la salud general.
-*   Un informe de la Comisión Europea de 2002 reveló que aproximadamente el 6% de los asistentes al gimnasio admitieron haber usado drogas para mejorar el rendimiento, lo que destaca la prevalencia de prácticas de riesgo en la industria del fitness.
-*   Los individuos deben consultar a dietistas registrados y profesionales médicos antes de embarcarse en cualquier dieta extrema o régimen de entrenamiento para evitar consecuencias de salud potencialmente irreversibles.
+* Si bien la causa de la muerte de Stephanie Buttermore es desconocida, su historial con la alimentación restrictiva y el "All In Challenge" plantea interrogantes sobre los efectos a largo plazo de las dietas extremas en la salud general.
+* Un informe de la Comisión Europea de 2002 reveló que aproximadamente el 6% de los asistentes al gimnasio admitieron haber usado drogas para mejorar el rendimiento, lo que destaca la prevalencia de prácticas de riesgo en la industria del fitness.
+* Los individuos deben consultar a dietistas registrados y profesionales médicos antes de embarcarse en cualquier dieta extrema o régimen de entrenamiento para evitar consecuencias de salud potencialmente irreversibles.
 
 ## La Delgada Línea Entre Inspiración y Obsesión: ¿Puso Stephanie Buttermore en Riesgo Su Salud por Su Imagen?
 
@@ -77,6 +77,6 @@ Es fundamental que los *influencers* asuman una mayor responsabilidad en la prom
 
 **Artículos Relacionados:**
 
-*   [Título del Artículo Relacionado 1](URL del Artículo Relacionado 1)
-*   [Título del Artículo Relacionado 2](URL del Artículo Relacionado 2)
-*   [Título del Artículo Relacionado 3](URL del Artículo Relacionado 3)
+* [Título del Artículo Relacionado 1](URL del Artículo Relacionado 1)
+* [Título del Artículo Relacionado 2](URL del Artículo Relacionado 2)
+* [Título del Artículo Relacionado 3](URL del Artículo Relacionado 3)

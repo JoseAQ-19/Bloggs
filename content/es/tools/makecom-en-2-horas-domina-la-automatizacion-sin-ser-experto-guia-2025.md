@@ -33,15 +33,15 @@ En atención al cliente, un chatbot automatizado puede responder preguntas frecu
 
 Planificar es clave antes de automatizar, definiendo los procesos a automatizar y los objetivos a alcanzar, comenzando con casos de uso sencillos y escalables. No intentes automatizar todo de golpe. Es fundamental identificar los procesos que son más susceptibles de ser automatizados y que generarán el mayor impacto en el negocio. Comienza con proyectos piloto de pequeña escala para probar la viabilidad de la automatización y aprender de la experiencia antes de implementar soluciones más complejas.
 
-1.  **Crea una cuenta en Make.com:** Make.com ofrece un plan gratuito para experimentar con la plataforma. Explora su interfaz y familiarízate con los diferentes módulos y conectores disponibles. Puedes revisar la documentación oficial para tener una mejor idea de como funciona su **API**. El plan gratuito es una excelente manera de evaluar las capacidades de la plataforma y determinar si se adapta a tus necesidades.
+1. **Crea una cuenta en Make.com:** Make.com ofrece un plan gratuito para experimentar con la plataforma. Explora su interfaz y familiarízate con los diferentes módulos y conectores disponibles. Puedes revisar la documentación oficial para tener una mejor idea de como funciona su **API**. El plan gratuito es una excelente manera de evaluar las capacidades de la plataforma y determinar si se adapta a tus necesidades.
 
-2.  **Elige un disparador (trigger):** Un disparador define el evento que iniciará tu flujo de trabajo. Por ejemplo, la recepción de un nuevo correo electrónico, la creación de un nuevo registro en una hoja de cálculo o la publicación de un nuevo tweet. La elección del disparador adecuado es fundamental para garantizar que el flujo de trabajo se active en el momento preciso y que la automatización se ejecute de manera eficiente.
+2. **Elige un disparador (trigger):** Un disparador define el evento que iniciará tu flujo de trabajo. Por ejemplo, la recepción de un nuevo correo electrónico, la creación de un nuevo registro en una hoja de cálculo o la publicación de un nuevo tweet. La elección del disparador adecuado es fundamental para garantizar que el flujo de trabajo se active en el momento preciso y que la automatización se ejecute de manera eficiente.
 
-3.  **Añade módulos de acción:** Los módulos de acción definen las acciones que se ejecutarán tras la activación del disparador. Por ejemplo, enviar un mensaje de Slack, actualizar una base de datos o crear un nuevo documento en Google Docs. La selección de los módulos de acción adecuados es esencial para garantizar que el flujo de trabajo realice las tareas necesarias y que la automatización cumpla con sus objetivos.
+3. **Añade módulos de acción:** Los módulos de acción definen las acciones que se ejecutarán tras la activación del disparador. Por ejemplo, enviar un mensaje de Slack, actualizar una base de datos o crear un nuevo documento en Google Docs. La selección de los módulos de acción adecuados es esencial para garantizar que el flujo de trabajo realice las tareas necesarias y que la automatización cumpla con sus objetivos.
 
-4.  **Conecta tus aplicaciones:** Make.com se integra con miles de aplicaciones y servicios web. Conecta las aplicaciones que necesitas para completar tu flujo de trabajo. La capacidad de conectar diferentes aplicaciones y servicios web es una de las principales ventajas de Make.com, ya que permite automatizar procesos que involucran múltiples sistemas y plataformas.
+4. **Conecta tus aplicaciones:** Make.com se integra con miles de aplicaciones y servicios web. Conecta las aplicaciones que necesitas para completar tu flujo de trabajo. La capacidad de conectar diferentes aplicaciones y servicios web es una de las principales ventajas de Make.com, ya que permite automatizar procesos que involucran múltiples sistemas y plataformas.
 
-5.  **Prueba y optimiza:** Es crucial probar exhaustivamente un flujo de trabajo tras su creación para asegurar su correcto funcionamiento. Realiza ajustes y optimizaciones según sea necesario. La prueba y optimización son etapas críticas del proceso de automatización, ya que permiten identificar y corregir errores, mejorar el rendimiento del flujo de trabajo y garantizar que la automatización cumpla con sus objetivos.
+5. **Prueba y optimiza:** Es crucial probar exhaustivamente un flujo de trabajo tras su creación para asegurar su correcto funcionamiento. Realiza ajustes y optimizaciones según sea necesario. La prueba y optimización son etapas críticas del proceso de automatización, ya que permiten identificar y corregir errores, mejorar el rendimiento del flujo de trabajo y garantizar que la automatización cumpla con sus objetivos.
 
 La comunidad online de Make.com ofrece recursos y tutoriales, además de plantillas predefinidas adaptables. Se recomienda comenzar con un mapeo visual del proceso actual, identificando cuellos de botella y oportunidades de mejora. Este mapeo visual ayuda a comprender el flujo de trabajo actual, identificar áreas de mejora y diseñar una solución de automatización que sea eficiente y efectiva. Herramientas como Lucidchart o Miro pueden ser útiles para este proceso.
 
@@ -51,17 +51,17 @@ Make.com es una herramienta versátil para transformar el trabajo, con una inter
 
 **Pros:**
 
-*   Interfaz visual intuitiva y fácil de usar.
-*   Amplia gama de conectores con miles de aplicaciones y servicios web.
-*   Potente motor de transformación de datos.
-*   Plan gratuito generoso para empezar a experimentar.
-*   Comunidad online activa y de apoyo.
+* Interfaz visual intuitiva y fácil de usar.
+* Amplia gama de conectores con miles de aplicaciones y servicios web.
+* Potente motor de transformación de datos.
+* Plan gratuito generoso para empezar a experimentar.
+* Comunidad online activa y de apoyo.
 
 **Contras:**
 
-*   La curva de aprendizaje puede ser pronunciada para flujos de trabajo complejos.
-*   Los planes de pago pueden ser costosos para empresas con grandes necesidades de automatización.
-*   A veces, la documentación puede ser confusa.
+* La curva de aprendizaje puede ser pronunciada para flujos de trabajo complejos.
+* Los planes de pago pueden ser costosos para empresas con grandes necesidades de automatización.
+* A veces, la documentación puede ser confusa.
 
 **Comparativa:**
 

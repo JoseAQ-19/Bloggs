@@ -33,10 +33,10 @@ Now, here's where it gets interesting. Some argue that high gas fees are a *nece
 
 Alright, enough theorizing. What can you *actually* do to minimize gas fee pain? Here's the playbook:
 
-1.  **Embrace Layer 2:** Networks like **Arbitrum**, [Optimism](https://www.optimism.io/), and [zkSync](https://zksync.io/) offer significantly lower fees. Bridge your assets over and start transacting.
-2.  **Time Your Transactions:** Avoid peak hours when the network is congested. Early mornings or late nights are generally less busy.
-3.  **Adjust Gas Settings (Carefully!):** MetaMask allows you to manually adjust gas limits and priority fees. Use a gas tracker like [Etherscan Gas Tracker](https://etherscan.io/gastracker) to find the sweet spot. But be warned: setting the gas too low can result in a failed transaction.
-4.  **Consider Alternative Chains:** If you're not wedded to Ethereum, explore other blockchains like [Solana](https://solana.com/) or [Avalanche](https://www.avax.network/), which boast lower transaction costs.
-5.  **MetaMask Swaps:** As [MetaMask's product lead, Gal Eldar, stated](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdWckUXIaiGD2VxlsZ7CBNpy0DEokIMzNTw4pfl2GA0-gL6Z0Qr7AWVuItj_elQ0nSMo6YyvArh5Q6z8UwpTrvagX0tsS4jTft8Zbaz-OiJ95gBiAjvO1JIIJh69tBXYY_ahSL95g=) the MetaMask Swap feature sources gas fee pricing from multiple DEXs to provide competitive network fees.
+1. **Embrace Layer 2:** Networks like **Arbitrum**, [Optimism](https://www.optimism.io/), and [zkSync](https://zksync.io/) offer significantly lower fees. Bridge your assets over and start transacting.
+2. **Time Your Transactions:** Avoid peak hours when the network is congested. Early mornings or late nights are generally less busy.
+3. **Adjust Gas Settings (Carefully!):** MetaMask allows you to manually adjust gas limits and priority fees. Use a gas tracker like [Etherscan Gas Tracker](https://etherscan.io/gastracker) to find the sweet spot. But be warned: setting the gas too low can result in a failed transaction.
+4. **Consider Alternative Chains:** If you're not wedded to Ethereum, explore other blockchains like [Solana](https://solana.com/) or [Avalanche](https://www.avax.network/), which boast lower transaction costs.
+5. **MetaMask Swaps:** As [MetaMask's product lead, Gal Eldar, stated](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdWckUXIaiGD2VxlsZ7CBNpy0DEokIMzNTw4pfl2GA0-gL6Z0Qr7AWVuItj_elQ0nSMo6YyvArh5Q6z8UwpTrvagX0tsS4jTft8Zbaz-OiJ95gBiAjvO1JIIJh69tBXYY_ahSL95g=) the MetaMask Swap feature sources gas fee pricing from multiple DEXs to provide competitive network fees.
 
 The future of Ethereum hinges on solving the gas fee problem. While solutions are emerging, it's up to us, the users, to be proactive and adopt strategies that minimize our exposure to these exorbitant costs. Otherwise, we risk being priced out of the very revolution we're trying to build.

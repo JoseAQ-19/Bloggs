@@ -79,7 +79,7 @@ It's time for TikTok to prioritize the well-being of its users over short-term p
 
 The platform can implement a tiered monetization system, where creators are rewarded based on the quality and ethical standards of their content, rather than simply the number of views they generate. This would incentivize creators to produce thoughtful, nuanced content that contributes to positive social impact.
 
-## The Bottom Line
+## 
 
 The Andrew Tate saga serves as a stark reminder of the power and responsibility of social media platforms. It's time for stricter algorithmic accountability.
 

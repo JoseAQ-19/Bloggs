@@ -27,7 +27,7 @@ Shoshana Zuboff, esa profeta casandra del capitalismo de vigilancia, no se anda 
 
 ## La Decadencia Cognitiva: Marionetas Algorítmicas, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
-Nuestra capacidad de pensar se está atrofiando. Un alarmante porcentaje de usuarios de smartphones confía ciegamente en las sugerencias de búsqueda, delegando su criterio en manos de un algoritmo opaco. Los jóvenes, especialmente vulnerables, sufren inseguridad social por la presión algorítmica.  Estamos entrenando a la siguiente generación para que sean dóciles consumidores, incapaces de pensamiento crítico.
+Nuestra capacidad de pensar se está atrofiando. Un alarmante porcentaje de usuarios de smartphones confía ciegamente en las sugerencias de búsqueda, delegando su criterio en manos de un algoritmo opaco. Los jóvenes, especialmente vulnerables, sufren inseguridad social por la presión algorítmica. Estamos entrenando a la siguiente generación para que sean dóciles consumidores, incapaces de pensamiento crítico.
 
 ## El Nuevo Autoritarismo Digital
 

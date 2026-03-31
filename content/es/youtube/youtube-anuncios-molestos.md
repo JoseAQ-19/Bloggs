@@ -65,7 +65,7 @@ Además, la lucha contra los bloqueadores de anuncios es una batalla constante. 
 
 Otro factor a considerar es el impacto de la publicidad en la percepción de la marca YouTube. Si los usuarios asocian la plataforma con una experiencia publicitaria intrusiva y molesta, esto podría dañar su reputación a largo plazo. La gestión de la imagen de marca es fundamental en un mercado tan competitivo.
 
-Finalmente, es importante destacar que la situación de YouTube no es única. Otras plataformas de video online también se enfrentan a desafíos similares en cuanto a la monetización y la experiencia del usuario. La búsqueda de un modelo sostenible que beneficie tanto a los creadores como a los espectadores es un objetivo común en la industria.
+Finalmente, que la situación de YouTube no es única. Otras plataformas de video online también se enfrentan a desafíos similares en cuanto a la monetización y la experiencia del usuario. La búsqueda de un modelo sostenible que beneficie tanto a los creadores como a los espectadores es un objetivo común en la industria.
 
 ## Reflexiones Finales
 

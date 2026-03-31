@@ -39,7 +39,7 @@ The superficiality of these messages is especially problematic given the documen
 
 The alcohol industry faces a growing challenge in the form of a teetotaling trend among Gen Z. While previous generations embraced alcohol as a social lubricant and a rite of passage, many young people are choosing to abstain or moderate their consumption. This shift in behavior is driven by a variety of factors, including concerns about health, wellness, and mental health, as well as a desire for more authentic and meaningful social connections.
 
-Gallup reported in August 2025 that 54% of U.S. adults consume alcohol, the lowest level since 1939. While [Reuters](https://www.reuters.com/) noted a rise in Gen Z drinking since 2023, the overall trend suggests a long-term decline in alcohol consumption among young people. This presents a significant challenge for alcohol brands, including those sold by the NHLC, which must adapt their marketing strategies to appeal to a generation that is increasingly skeptical of alcohol's role in their lives. The NHL's SVP of marketing and branding, Casey Hall, claims that young stars in the NHL are drawing admiration from fans, defying Gen Z stereotypes through skill and creativity; it remains to be seen if that will lead to higher rates of alcohol consumption.
+Gallup reported in August 2025 that 54% of U.S. adults consume alcohol, the lowest level since 1939. While [Reuters](https://www.reuters.com/) noted a rise in Gen Z drinking since 2023, the overall trend suggests a long-term decline in alcohol consumption among young people. This presents a significant challenge for alcohol brands, including those sold by the NHLC, which must adapt their marketing strategies to appeal to a generation that is increasingly skeptical of alcohol's role in their lives. The NHL's SVP of marketing and branding, Casey Hall, claims that young stars in the NHL are drawing admiration from fans, defying Gen Z stereotypes through skill and creativity; if that will lead to higher rates of alcohol consumption.
 
 The NHLC's marketing efforts need to resonate with Gen Z’s values of authenticity, social responsibility, and personal well-being. Traditional advertising tactics that rely on celebrity endorsements or aspirational messaging are unlikely to be effective with this demographic. Instead, the NHLC should focus on creating content that is informative, engaging, and aligned with Gen Z's interests. This could include highlighting the quality and craftsmanship of local spirits, promoting responsible drinking practices, or showcasing the social and cultural aspects of alcohol consumption in a positive and meaningful way.
 
@@ -59,7 +59,7 @@ A 2023 **NCSolutions** survey found that 58% of Gen Z consumers dislike advertis
 
 This requires a comprehensive marketing overhaul that prioritizes authenticity, resonates with Gen Z’s values, and avoids potentially offensive dark humor. Remember Heineken's "Sometimes, Lighter is Better" ad, which was pulled after backlash for racial insensitivity; learning from others' mistakes is essential. The NHLC must embrace a data-driven approach to marketing, leveraging analytics and consumer insights to understand what resonates with its target audience and to measure the effectiveness of its campaigns.
 
-## The Bottom Line
+## 
 
 The New Hampshire Liquor Commission faces a critical juncture. A \$42 million revenue drop is a wake-up call, signaling the need for a fundamental shift in its marketing approach. The state's advantage in lower prices is not enough on its own.
 

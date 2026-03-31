@@ -54,84 +54,23 @@ Analyzing the data through an algorithmic lens, it is evident that both PIMCO an
 ## Real User FAQs
 
 1. **What are the fees associated with PIMCO and Vanguard funds?**
-   PIMCO's average expense ratio is around 0.75%, while Vanguard’s is significantly lower at approximately 0.04%.
+ PIMCO's average expense ratio is around 0.75%, while Vanguard’s is significantly lower at approximately 0.04%.
 
 2. **How have PIMCO and Vanguard performed during market downturns?**
-   Historically, Vanguard tends to provide more stability due to its diversified equity holdings, whereas PIMCO may experience higher volatility, especially in bond markets.
+ Historically, Vanguard tends to provide more stability due to its diversified equity holdings, whereas PIMCO may experience higher volatility, especially in bond markets.
 
 3. **Is active management worth the higher fees of PIMCO?**
-   It depends on individual investor preferences and market conditions; active funds like PIMCO can outperform in certain environments but may come with increased risks.
+ It depends on individual investor preferences and market conditions; active funds like PIMCO can outperform in certain environments but may come with increased risks.
 
 4. **What should I consider before investing in these funds?**
-   Evaluate your investment goals, risk tolerance, and the current market environment to determine which fund aligns better with your investment strategy.
+ Evaluate your investment goals, risk tolerance, and the current market environment to determine which fund aligns better with your investment strategy.
 
 5. **Are there any tax implications to consider?**
-   Yes, capital gains distributions from actively managed funds like PIMCO may be higher compared to index funds like Vanguard, affecting tax liabilities.
+ Yes, capital gains distributions from actively managed funds like PIMCO may be higher compared to index funds like Vanguard, affecting tax liabilities.
 
 ## Our Investment Strategy
 
 We believe that a balanced approach incorporating both PIMCO and Vanguard may serve investors well, depending on individual risk appetites and investment horizons. By diversifying across both active and passive strategies, investors can potentially harness the strengths of each fund while mitigating risks.
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Morningstar Awards 2026: PIMCO vs Vanguard Dominates Thai Fund Landscape",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  },
-  "mainEntityOfPage": "https://novumworld.com/en/youtube/youtube-the-new-media-monarch-heres-what-you-need-to-know-en/",
-  "mainEntity": {
-    "@type": "FAQPage",
-    "name": "Real User FAQs",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "What are the fees associated with PIMCO and Vanguard funds?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "PIMCO's average expense ratio is around 0.75%, while Vanguard’s is significantly lower at approximately 0.04%."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "How have PIMCO and Vanguard performed during market downturns?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Historically, Vanguard tends to provide more stability due to its diversified equity holdings, whereas PIMCO may experience higher volatility, especially in bond markets."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Is active management worth the higher fees of PIMCO?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "It depends on individual investor preferences and market conditions; active funds like PIMCO can outperform in certain environments but may come with increased risks."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What should I consider before investing in these funds?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Evaluate your investment goals, risk tolerance, and the current market environment to determine which fund aligns better with your investment strategy."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Are there any tax implications to consider?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, capital gains distributions from actively managed funds like PIMCO may be higher compared to index funds like Vanguard, affecting tax liabilities."
-        }
-      }
-    ]
-  }
-}
-</script>
 
 ---
 

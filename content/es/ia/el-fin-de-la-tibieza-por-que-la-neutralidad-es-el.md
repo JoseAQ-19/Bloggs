@@ -23,7 +23,7 @@ translationKey: "e696fe72-5b13-55fe-e982-fb710958434d"
 
 Se nos vendió la IA como el oráculo imparcial que desentrañaría la verdad, liberándonos de las cadenas del subjetivismo humano. ¡Patrañas! La inteligencia artificial, lejos de ser neutral, es un espejo que refleja las ideas preconcebidas de sus creadores. Un reciente estudio revela que los LLMs, esos supuestos sumos sacerdotes de la objetividad informativa, exhiben una clara inclinación ideológica. La investigación, que analizó la friolera de 20.344 artículos de noticias, demuestra que modelos como LLaMA y PaLM-2, se inclinan descaradamente hacia posturas liberales, especialmente en temas candentes como el control de armas y la sanidad. [Aquí puedes ver los resultados completos.](https://arxiv.org/abs/2401.12071)
 
-Pero la cosa no termina ahí. Lo realmente inquietante es la alarmante convergencia lingüística entre estos modelos. Comparten un vocabulario común, un "pensamiento grupal" algorítmico que perpetúa una única visión del mundo disfrazada de objetividad. En resumen, la pretendida neutralidad algorítmica es un fraude, una cortina de humo que oculta un sesgo sistemático.
+Pero la cosa no termina ahí. Lo realmente inquietante es la alarmante convergencia lingüística entre estos modelos. Comparten un vocabulario común, un "pensamiento grupal" algorítmico que perpetúa una única visión del mundo disfrazada de objetividad. la pretendida neutralidad algorítmica es un fraude, una cortina de humo que oculta un sesgo sistemático.
 
 ## La Tiranía de la "Moderación": Censura Selectiva y Polarización Amplificada, segun datos recogidos por [ArXiv](https://arxiv.org/)
 

@@ -59,7 +59,7 @@ The pressure on cryptocurrency exchanges to comply with sanctions is only going 
 
 It's a high-stakes game. Exchanges must invest in robust compliance programs and work closely with regulators to ensure that they are meeting their obligations. Failure to do so could not only result in financial penalties but also jeopardize their ability to operate.
 
-## The Bottom Line: A Call for Crypto Rectitude
+## : A Call for Crypto Rectitude
 
 Binance needs to dramatically improve its compliance program to prevent future sanctions evasion. Exchanges must invest in advanced blockchain analytics to proactively identify and flag suspicious activity, or face continued scrutiny from regulators. Crypto's wild west days are numbered and more regulation is coming.
 

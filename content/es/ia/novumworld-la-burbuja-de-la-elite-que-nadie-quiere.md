@@ -37,9 +37,9 @@ NOVUMWORLD no es más que la versión extrema de este tecnofeudalismo: un mundo 
 
 La pregunta no es si NOVUMWORLD es una utopía o una distopía. La respuesta es obvia: es una distopía en gestación. No hay "potencial" para transformar la sociedad de manera positiva. La tecnología, en manos de los codiciosos, siempre conduce a la desigualdad y la opresión.
 
-*   La inversión en educación es inútil si no va acompañada de una redistribución radical de la riqueza.
-*   La infraestructura no importa si solo sirve para reforzar el control de la élite.
-*   Las políticas públicas son una farsa si no desafían el poder de los gigantes tecnológicos.
+* La inversión en educación es inútil si no va acompañada de una redistribución radical de la riqueza.
+* La infraestructura no importa si solo sirve para reforzar el control de la élite.
+* Las políticas públicas son una farsa si no desafían el poder de los gigantes tecnológicos.
 
 Regular a las grandes empresas tecnológicas es un buen comienzo, pero no es suficiente. Proteger la privacidad de los datos es esencial, pero no aborda el problema fundamental: la concentración obscena de poder en manos de unos pocos. Fomentar la competencia en el mercado digital es una ilusión, porque el sistema está diseñado para favorecer a los monopolios. **Google está bajo el microscopio por prácticas monopolísticas**.
 

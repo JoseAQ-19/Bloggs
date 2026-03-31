@@ -83,11 +83,11 @@ Los medios de comunicación juegan un papel fundamental en la difusión de infor
 
 Para fortalecer la confianza de los ciudadanos en las instituciones, es necesario implementar una serie de medidas que promuevan la transparencia, la rendición de cuentas y la participación ciudadana. Algunas de estas medidas podrían incluir:
 
-*   **Reformar la Ley de Transparencia** para ampliar el acceso a la información pública y garantizar la independencia de los órganos de control.
-*   **Crear órganos de control externos e independientes** con participación de la sociedad civil para supervisar la conducta de los funcionarios públicos.
-*   **Proteger a los denunciantes de corrupción** para fomentar la denuncia de irregularidades y evitar la impunidad.
-*   **Promover la educación en valores y ética** desde la infancia para fomentar una cultura de integridad y responsabilidad.
-*   **Fortalecer la participación ciudadana** en la gestión de los asuntos públicos a través de mecanismos de consulta y participación.
+* **Reformar la Ley de Transparencia** para ampliar el acceso a la información pública y garantizar la independencia de los órganos de control.
+* **Crear órganos de control externos e independientes** con participación de la sociedad civil para supervisar la conducta de los funcionarios públicos.
+* **Proteger a los denunciantes de corrupción** para fomentar la denuncia de irregularidades y evitar la impunidad.
+* **Promover la educación en valores y ética** desde la infancia para fomentar una cultura de integridad y responsabilidad.
+* **Fortalecer la participación ciudadana** en la gestión de los asuntos públicos a través de mecanismos de consulta y participación.
 
 ## La Necesidad de una Justicia Transparente y Eficaz en España
 

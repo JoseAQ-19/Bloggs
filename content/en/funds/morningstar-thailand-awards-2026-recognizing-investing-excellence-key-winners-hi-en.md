@@ -56,63 +56,61 @@ The Morningstar Thailand Awards 2026 are a testament to the growing investment e
 
 ### Schema Markup
 
-
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Morningstar Thailand Awards 2026: Recognizing Investing Excellence, Key Winners Highlighted",
-  "description": "The Morningstar Thailand Awards 2026 recognize the best of the best in Thailand's investment landscape.",
-  "datePublished": "2026-03-23",
-  "author": {
-    "@type": "Person",
-    "name": "Your Name"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://novumworld.com/morningstar-thailand-awards-2026/"
-  }
+ "@context": "https://schema.org",
+ "@type": "NewsArticle",
+ "headline": "Morningstar Thailand Awards 2026: Recognizing Investing Excellence, Key Winners Highlighted",
+ "description": "The Morningstar Thailand Awards 2026 recognize the best of the best in Thailand's investment landscape.",
+ "datePublished": "2026-03-23",
+ "author": {
+ "@type": "Person",
+ "name": "Your Name"
+ },
+ "publisher": {
+ "@type": "Organization",
+ "name": "NovumWorld",
+ "logo": {
+ "@type": "ImageObject",
+ "url": "https://novumworld.com/logo.png"
+ }
+ },
+ "mainEntityOfPage": {
+ "@type": "WebPage",
+ "@id": "https://novumworld.com/morningstar-thailand-awards-2026/"
+ }
 }
 
 ### FAQPage Schema
 
-
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the Morningstar Thailand Awards 2026, and how are they determined?"
-    },
-    {
-      "@type": "Answer",
-      "text": "The Morningstar Thailand Awards 2026 are a recognition of the best-performing funds in various categories in Thailand. The awards are determined based on a rigorous evaluation process that considers factors such as fund performance, risk, and fees."
-    },
-    {
-      "@type": "Question",
-      "name": "What are some of the risks and challenges in Thailand's investment market?"
-    },
-    {
-      "@type": "Answer",
-      "text": "According to a report by the Securities and Exchange Commission of Thailand, the country's investment market is subject to various risks, including market volatility, regulatory changes, and economic uncertainty."
-    },
-    {
-      "@type": "Question",
-      "name": "How can investors minimize potential losses in Thailand's investment market?"
-    },
-    {
-      "@type": "Answer",
-      "text": "Investors should exercise caution and carefully evaluate their investment options before making any decisions. It's essential to have a well-diversified portfolio and to stay informed about market developments to minimize potential losses."
-    }
-  ]
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+ {
+ "@type": "Question",
+ "name": "What are the Morningstar Thailand Awards 2026, and how are they determined?"
+ },
+ {
+ "@type": "Answer",
+ "text": "The Morningstar Thailand Awards 2026 are a recognition of the best-performing funds in various categories in Thailand. The awards are determined based on a rigorous evaluation process that considers factors such as fund performance, risk, and fees."
+ },
+ {
+ "@type": "Question",
+ "name": "What are some of the risks and challenges in Thailand's investment market?"
+ },
+ {
+ "@type": "Answer",
+ "text": "According to a report by the Securities and Exchange Commission of Thailand, the country's investment market is subject to various risks, including market volatility, regulatory changes, and economic uncertainty."
+ },
+ {
+ "@type": "Question",
+ "name": "How can investors minimize potential losses in Thailand's investment market?"
+ },
+ {
+ "@type": "Answer",
+ "text": "Investors should exercise caution and carefully evaluate their investment options before making any decisions. It's essential to have a well-diversified portfolio and to stay informed about market developments to minimize potential losses."
+ }
+ ]
 }
 
 ---

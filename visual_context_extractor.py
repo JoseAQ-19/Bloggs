@@ -373,12 +373,11 @@ newspaper quality, dramatic moment capture, sharp focus,
 professional editorial photography, no cartoons, realistic
 """,
         "funds": """
-{entity} {action} visualization, {composition},
-{style_keywords[0]}, {key_number} data on document,
-{secondary_entities_text} professional context,
-{style_keywords[1]} palette, {style_keywords[2]}, {style_keywords[3]},
-institutional photography, clean professional environment,
-no text, no charts with text, abstract financial visualization
+Professional financial setting, {entity} {action}, institutional photography,
+{style_keywords[0]} tone, {style_keywords[1]} color palette, shallow depth of field,
+documentary style, modern corporate office environment,
+financial visualization without text, no text rendering, no UI elements, no charts with text,
+extremely high quality, realistic lighting, 8k resolution
 """
     }
 

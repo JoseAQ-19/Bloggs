@@ -51,6 +51,6 @@ The long term health effects are being ignored.
 
 The data collected by these apps, including menstrual cycles, fertility information, and pregnancy details, is highly sensitive and could be used for discriminatory purposes. Women need to be aware of the privacy risks associated with these technologies and take steps to protect their data. It is essential to ensure that companies are transparent about their data collection practices and obtain informed consent from users before sharing their data with third parties. The potential for misuse is a real and present danger.
 
-## The Bottom Line
+## 
 
 Apple Fitness+ needs to explicitly address pelvic floor health and caution against premature high-impact exercises. Moms should consult a pelvic floor physical therapist *before* starting any postpartum fitness program. Your body's whispering; are you listening?

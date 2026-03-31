@@ -152,6 +152,24 @@
 - [x] **Hiper-Localización**: `data_realestate.py` escalado. Extrae de FRED (HPI para 10 estados/8 ciudades) e INE (17 CCAA) escaneando el *topic*, abandonando la exclusividad nacional.
 - [x] **SEO Visual**: `chart_engine.py` totalmente operativo con `matplotlib` (estética Premium NovumWorld Dark), exportando .png y anclado al Golden Stack del orquestador.
 
+## ✅ COMPLETADO (ADSENSE PREREQUISITES FINAL PURGE)
+- [x] Solucionado `robots.txt`: Cambiado `enableRobotsTXT = true` en `config.toml` para que Googlebot indexe correctamente.
+- [x] Sanitización Markdown: Creado y ejecutado `purge_and_clean.py` para borrar scripts `<script type="application/ld+json">` inline que ensuciaban el body.
+- [x] Purga "Death Row": Borrado masivo y físico de contenidos mediocres basados en reglas estrictas (E-E-A-T < 7, Value < 7, Spanglish, Robotic text, prompt leakage). Total sobrevivientes: 20 artículos *premium*. Sitio 100% puro para enviar a AdSense.
+- [x] **Consentimiento de Cookies (GDPR/CCPA)**: Implementado `cookie-consent.html` con lógica de bloqueo de scripts y persistencia en `localStorage`. Cumplimiento total con Consent Mode v2.
+
+## ✅ COMPLETADO (OPERACIÓN RESCATE — REHABILITACIÓN MASIVA)
+- [x] **Triaje Inteligente**: Auditados 630 artículos en cuarentena. El 73.8% solo necesitaban fix de `translationKey`.
+- [x] **rescue_batch.py**: Script creado y ejecutado. Resultados:
+  - 630 artículos RESCATADOS (357 EN + 273 ES)
+  - 11 H1→H2 convertidos, 192 frases robóticas purgadas
+  - Distribución: IA(138), YouTube(105), Fitness(94), Crypto(94), Viral(92), Funds(57), Tools(50)
+  - 0 artículos permanecen en cuarentena
+- [x] **Vacuna Anti-Recurrencia** en `prompts_factory.py` → SYSTEM_FORMAT_RULES:
+  - Regla 0: `translationKey` obligatorio en frontmatter (ZERO TOLERANCE)
+  - Regla 5 reforzada: Prohibición absoluta de H1 con emoji 🚨
+  - Regla 4 expandida: Blacklist ampliada con 15+ nuevas frases robóticas (Delve into, Game-changer, A continuación, etc.)
+
 ## 🟡 PENDIENTE (DEUDA TÉCNICA)
 - [ ] Centralizar cascadas LLM duplicadas en llm_router.py
 - [ ] Arreglar or_client/groq_client sin inicializar en stocks_writer.py

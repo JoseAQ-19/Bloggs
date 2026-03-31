@@ -38,7 +38,7 @@ This racial disparity begins as early as preschool. While Black students compris
 
 The reasons for this disparity are complex and multifaceted. Some argue that Black students are more likely to exhibit challenging behaviors due to the effects of poverty, trauma, and systemic racism. However, this explanation fails to address the role of implicit biases and discriminatory practices within the school system itself. Teachers, often unconsciously, may interpret the behavior of Black students differently than that of their white peers, leading to harsher disciplinary actions.
 
-Moreover, the types of offenses for which Black students are suspended often differ from those of white students. Black students are more likely to be suspended for subjective offenses such as "defiance" or "disrespect," while white students are more likely to be suspended for objective offenses such as fighting or vandalism. This suggests that Black students are being punished not just for their actions, but also for their perceived attitudes and demeanors. Virtual learning, described by Paula Knight, Superintendent of Jennings School District in Missouri, as a "game changer" and a form of "restoration practice," underscores the fact that certain districts view removing kids from in-person instruction as a valid disciplinary method.
+Moreover, the types of offenses for which Black students are suspended often differ from those of white students. Black students are more likely to be suspended for subjective offenses such as "defiance" or "disrespect," while white students are more likely to be suspended for objective offenses such as fighting or vandalism. This suggests that Black students are being punished not just for their actions, but also for their perceived attitudes and demeanors. Virtual learning, described by Paula Knight, Superintendent of Jennings School District in Missouri, as a "" and a form of "restoration practice," underscores the fact that certain districts view removing kids from in-person instruction as a valid disciplinary method.
 
 ## Transparency vs. Scrutiny: The Privacy Paradox Schools Can't Solve
 
@@ -68,7 +68,7 @@ The risks to student privacy extend beyond the threat of data breaches. The coll
 
 The consequences of discriminatory disciplinary practices are equally dire. Students who are repeatedly suspended or expelled are more likely to drop out of school, become involved in the criminal justice system, and experience long-term economic hardship. Addressing these disparities requires a comprehensive approach that includes implicit bias training for teachers, restorative justice practices, and culturally responsive curriculum. In Wake County Public Schools, 240 students were secluded or restrained for disciplinary reasons between July and December 2023.
 
-## The Bottom Line
+## 
 
 The risks to student privacy and equitable discipline are too high; immediate policy changes are needed. Parents should demand transparency regarding data sharing agreements between schools and third-party vendors and advocate for restorative justice practices to minimize suspensions. School boards play a key role in maintaining rules of order, defining acceptable behavior, and ensuring that disciplinary policies are fair and consistently applied.
 

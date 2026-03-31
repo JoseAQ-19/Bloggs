@@ -41,7 +41,7 @@ The pseudonymous nature of DeFi poses significant challenges for anti-money laun
 
 The SEC has expressed concerns about the risks associated with DeFi, including the potential for regulatory arbitrage and the lack of transparency. DeFi entities may intentionally structure their products to fall outside the scope of existing securities laws, creating fragmented markets and regulatory gaps. This regulatory arbitrage allows DeFi platforms to operate with minimal oversight, making it difficult for regulators to enforce securities laws and protect investors.
 
-Addressing the AML/KYC challenges in DeFi requires innovative solutions that balance privacy with regulatory compliance. Potential approaches include implementing decentralized identity solutions, using advanced analytics to detect suspicious activity, and collaborating with law enforcement agencies to investigate and prosecute illicit actors. It remains to be seen how regulatory agencies will be able to regulate decentralized exchanges.
+Addressing the AML/KYC challenges in DeFi requires innovative solutions that balance privacy with regulatory compliance. Potential approaches include implementing decentralized identity solutions, using advanced analytics to detect suspicious activity, and collaborating with law enforcement agencies to investigate and prosecute illicit actors. how regulatory agencies will be able to regulate decentralized exchanges.
 
 ## Hacking Vulnerabilities: DeFi's $474 Million Reality Check
 
@@ -57,7 +57,7 @@ Acting Chairman Mark T. Uyeda's stated commitment to transparency could provide 
 
 A more transparent regulatory environment could attract institutional investors to the DeFi space. Institutional investors are often hesitant to invest in unregulated or uncertain markets due to compliance concerns and reputational risks. Clear regulatory guidelines could help to alleviate these concerns and encourage greater participation from institutional investors.
 
-However, the SEC's regulatory actions in the crypto space often involve political considerations and external factors. Depending on elections, enforcement action might be more aggressively imposed. It remains to be seen whether Uyeda's promise of transparency will translate into concrete regulatory frameworks that provide clarity for the DeFi industry.
+However, the SEC's regulatory actions in the crypto space often involve political considerations and external factors. Depending on elections, enforcement action might be more aggressively imposed. whether Uyeda's promise of transparency will translate into concrete regulatory frameworks that provide clarity for the DeFi industry.
 
 ## Qué hacer ahora
 

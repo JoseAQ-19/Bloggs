@@ -23,7 +23,7 @@ Estos fondos no solo se han destacado por su rendimiento, sino también por su c
 
 ## Análisis Comparativo de Fondos
 
-Los fondos que han recibido reconocimiento de Morningstar en 2026 incluyen una gama de estrategias y enfoques. A continuación, se presentan las métricas clave de rendimiento y riesgo:
+Los fondos que han recibido reconocimiento de Morningstar en 2026 incluyen una gama de estrategias y enfoques. se presentan las métricas clave de rendimiento y riesgo:
 
 - **Fondo A**: Rentabilidad anual de 18% en el último año, con una volatilidad de 7%. El ratio de Sharpe se sitúa en 1.5, y sus tarifas anuales son del 1.2%.
 - **Fondo B**: Presenta una rentabilidad de 16.5% en 3 años, con una volatilidad de 9% y un ratio de Sharpe de 1.3. Las tarifas son del 1.5%.
@@ -63,54 +63,6 @@ Las tasas de interés pueden influir en la rentabilidad de los fondos, especialm
 
 ### ¿Cómo puedo diversificar mi cartera si invierto en estos fondos?
 La diversificación puede lograrse combinando fondos de diferentes categorías y estilos de inversión, así como incluyendo activos no correlacionados para equilibrar el riesgo.
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Cinco fondos premiados por Morningstar en 2026 con más del 15% de rentabilidad anual",
-  "datePublished": "2026-04-01",
-  "author": {
-    "@type": "Person",
-    "name": "Analista Financiero"
-  },
-  "image": "URL_de_imagen_aquí",
-  "articleBody": "En 2026, existen cinco fondos de inversión destacados..."
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿Qué tan seguros son estos fondos premiados?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "La seguridad de una inversión depende de diversos factores, incluyendo la estrategia del fondo y la situación del mercado."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Cómo se comparan las tarifas de estos fondos con otros en el mercado?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Los fondos premiados tienden a tener tarifas más altas debido a la gestión activa."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Es recomendable invertir en estos fondos a largo plazo?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "La inversión a largo plazo en estos fondos puede ser beneficiosa, especialmente si se alinean con las tendencias del mercado."
-      }
-    }
-  ]
-}
-</script>
 
 ---
 

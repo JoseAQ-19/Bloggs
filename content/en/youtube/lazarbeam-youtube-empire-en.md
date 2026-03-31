@@ -59,7 +59,7 @@ Homa Hosseinmardi, Associate Research Scientist at the Annenberg School for Comm
 
 The need to constantly analyze data, experiment with new formats, and respond to audience feedback can be overwhelming. This leaves many feeling burnt out and disillusioned. The pressure to maintain a consistent upload schedule while simultaneously navigating the complexities of the algorithm takes its toll.
 
-## The Bottom Line
+## 
 
 YouTube's monetization policies and algorithm changes create an environment where creators are constantly at risk of demonetization and channel termination. The platform's pursuit of a "family-friendly" image has stifled creativity and incentivized creators to produce safe, predictable content. I side with the creators.
 

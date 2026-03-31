@@ -208,6 +208,30 @@ def _notebooklm_factcheck_es(body_text):
     return alerts
 
 
+def _gemini_factcheck_es(body_text):
+    """
+    Backup Fact-Check: Usa Gemini 2.0 Flash + Search Grounding tools.
+    Se activa solo si NotebookLM falla o no devuelve alertas.
+    """
+    try:
+        from researcher import EEATResearcher
+        researcher = EEATResearcher()
+        
+        topic = "Fact-check verification of key claims in article"
+        brief = f"""Extract and verify the 3 most suspicious claims or numerical data points in this text:
+\n{body_text[:8000]}\n
+Output ONLY a bulleted list of 3 specific alerts in Spanish. If everything is correct, return an empty string."""
+        
+        res = researcher._layer_2_gemini_grounding(topic, brief, lang="es")
+        if res and "content" in res:
+            content = res["content"]
+            if len(content) > 50:
+                 return f"ALERTAS DE VERIFICACIÓN (GEMINI GROUNDING BACKUP):\n{content}"
+    except Exception as e:
+        print(f"   ⚠️ Error en Gemini Backup Fact-check: {e}")
+    return ""
+
+
 # =====================================================
 # TAREA B3: PIPELINE DE CORRECCIÓN ES
 # =====================================================
@@ -642,9 +666,14 @@ def run(category, content_dir="content/es"):
         else:
             print(f"      ⚠️ No se encontraron fuentes depositadas para '{article_slug}'.")
 
-    # PASO 2: NotebookLM Fact-Check
+    # PASO 2: Hybrid Fact-Check (NotebookLM with Gemini Fallback)
     print(f"\n   🔍 [Editor ES] PASO 2: Fact-check con NotebookLM...")
     factcheck_alerts = _notebooklm_factcheck_es(body)
+    
+    if not factcheck_alerts:
+        print(f"\n   🥈 [Editor ES] NotebookLM falló o no dio alertas. Usando Gemini Search Grounding como Backup...\n")
+        factcheck_alerts = _gemini_factcheck_es(body)
+
     factcheck_block = ""
     if factcheck_alerts:
         factcheck_block = f"\n\n{factcheck_alerts}"

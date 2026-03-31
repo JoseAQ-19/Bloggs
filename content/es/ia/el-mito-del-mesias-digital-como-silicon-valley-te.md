@@ -40,6 +40,6 @@ La promesa de Uber y Amazon no es flexibilidad, sino precariedad. Los trabajador
 
 Ante la crisis climática y social, la respuesta de Silicon Valley no es la solución, sino la huida. La colonización espacial, impulsada por Musk y Bezos, se vende como una "póliza de seguro", un lujo accesible solo para una élite privilegiada. Proponen construir "ciudades privadas" o "estados en red" para evadir impuestos y leyes nacionales, o construyen búnkeres en Nueva Zelanda, evidenciando su deseo de desconectarse del resto de la humanidad. **El informe de Oxfam sobre la desigualdad galopante** pinta un panorama desolador.
 
-En resumen, la visión de Silicon Valley es una estafa gigantesca. Mientras nos venden un futuro idílico de inmortalidad y abundancia, nos despojan de nuestra privacidad, nuestra soberanía y nuestro futuro colectivo. Nos roban hoy, mientras nos prometen el paraíso mañana.
+ la visión de Silicon Valley es una estafa gigantesca. Mientras nos venden un futuro idílico de inmortalidad y abundancia, nos despojan de nuestra privacidad, nuestra soberanía y nuestro futuro colectivo. Nos roban hoy, mientras nos prometen el paraíso mañana.
 
 La elección es clara: ¿decidimos democráticamente nuestro destino o cedemos el control a una tecnocracia no electa que nos ofrece soluciones mágicas a cambio de sumisión total? Olvídense de regulaciones tibias. Silicon Valley debe ser desmantelado. La tecnología, por sí sola, no nos salvará. Solo la acción radical y la justicia social pueden evitar el colapso.

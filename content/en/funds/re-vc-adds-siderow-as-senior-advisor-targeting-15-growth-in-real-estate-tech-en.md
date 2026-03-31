@@ -27,44 +27,44 @@ Specialized real estate technology funds significantly underperformed the broade
 ## Real Estate Tech Fund Performance: A Comparative Analysis
 Real estate tech funds' underperformance relative to broader market indices underscores the challenges inherent in this specialized investment area. This underperformance is evident when comparing key real estate ETFs to the S&P 500 and considering factors like volatility and expense ratios.
 
-*   **Real Estate Select Sector SPDR Fund (XLRE)**
-    *   1 Year Return: -8.7%
-    *   3 Year Annualized Return: 5.2%
-    *   5 Year Annualized Return: 6.8%
-    *   Volatility (Std Dev): 22.1%
-    *   Sharpe Ratio: 0.31
-    *   Expense Ratio: 0.12%
-    *   Benchmark Comparison: Underperformed S&P 500 by 32.9% in 2023 (24.2% vs -8.7%). Lagged inflation (3.2%) significantly over 1 year.
+* **Real Estate Select Sector SPDR Fund (XLRE)**
+ * 1 Year Return: -8.7%
+ * 3 Year Annualized Return: 5.2%
+ * 5 Year Annualized Return: 6.8%
+ * Volatility (Std Dev): 22.1%
+ * Sharpe Ratio: 0.31
+ * Expense Ratio: 0.12%
+ * Benchmark Comparison: Underperformed S&P 500 by 32.9% in 2023 (24.2% vs -8.7%). Lagged inflation (3.2%) significantly over 1 year.
 
-*   **iShares U.S. Real Estate ETF (IYR)**
-    *   1 Year Return: -7.5%
-    *   3 Year Annualized Return: 4.8%
-    *   5 Year Annualized Return: 6.1%
-    *   Volatility (Std Dev): 23.5%
-    *   Sharpe Ratio: 0.20
-    *   Expense Ratio: 0.43%
-    *   Benchmark Comparison: Underperformed S&P 500 by 31.7% in 2023. Failed to keep pace with inflation over 3 years (4.8% vs 3.2% annualized).
+* **iShares U.S. Real Estate ETF (IYR)**
+ * 1 Year Return: -7.5%
+ * 3 Year Annualized Return: 4.8%
+ * 5 Year Annualized Return: 6.1%
+ * Volatility (Std Dev): 23.5%
+ * Sharpe Ratio: 0.20
+ * Expense Ratio: 0.43%
+ * Benchmark Comparison: Underperformed S&P 500 by 31.7% in 2023. Failed to keep pace with inflation over 3 years (4.8% vs 3.2% annualized).
 
-*   **First Trust AlphaCore Real Estate ETF (FSTAC)**
-    *   1 Year Return: -5.3%
-    *   3 Year Annualized Return: 6.5%
-    *   5 Year Annualized Return: 7.2%
-    *   Volatility (Std Dev): 20.8%
-    *   Sharpe Ratio: 0.31
-    *   Expense Ratio: 0.58%
-    *   Benchmark Comparison: Outperformed XLRE and IYR over 3/5 years but significantly lagged S&P 500 (24.2%). Beat inflation over 5 years.
+* **First Trust AlphaCore Real Estate ETF (FSTAC)**
+ * 1 Year Return: -5.3%
+ * 3 Year Annualized Return: 6.5%
+ * 5 Year Annualized Return: 7.2%
+ * Volatility (Std Dev): 20.8%
+ * Sharpe Ratio: 0.31
+ * Expense Ratio: 0.58%
+ * Benchmark Comparison: Outperformed XLRE and IYR over 3/5 years but significantly lagged S&P 500 (24.2%). Beat inflation over 5 years.
 
-*   **RE VC Opportunity Fund (Hypothetical - Not Publicly Traded)**
-    *   1 Year Return: N/D
-    *   3 Year Annualized Return: N/D
-    *   5 Year Annualized Return: N/D
-    *   5 Year Annualized Return: N/D
-    *   Volatility (Std Dev): N/D
-    *   Sharpe Ratio: N/D
-    *   Expense Ratio: ~2.00% (Typical for VC funds; management fees + carried interest)
-    *   Benchmark Comparison: Targets 15% annual growth vs. Public Sector ETFs (6.1-6.8%) and S&P 500 (10.2% 10-year). Seeks significant alpha over inflation.
+* **RE VC Opportunity Fund (Hypothetical - Not Publicly Traded)**
+ * 1 Year Return: N/D
+ * 3 Year Annualized Return: N/D
+ * 5 Year Annualized Return: N/D
+ * 5 Year Annualized Return: N/D
+ * Volatility (Std Dev): N/D
+ * Sharpe Ratio: N/D
+ * Expense Ratio: ~2.00% (Typical for VC funds; management fees + carried interest)
+ * Benchmark Comparison: Targets 15% annual growth vs. Public Sector ETFs (6.1-6.8%) and S&P 500 (10.2% 10-year). Seeks significant alpha over inflation.
 
-    To contextualize these figures, consider the broader economic environment. The S&P 500's performance is often driven by factors such as technological innovation, consumer spending, and corporate earnings. Real estate, while influenced by these factors, is also heavily dependent on interest rates, demographic shifts, and local market conditions. The underperformance of real estate ETFs suggests that these sector-specific headwinds are currently outweighing the broader economic tailwinds. Furthermore, the volatility of these ETFs indicates the inherent risk associated with real estate investments, which can be sensitive to market fluctuations and economic downturns. The Sharpe Ratio, a measure of risk-adjusted return, further underscores the challenges in generating attractive returns in the real estate sector relative to the level of risk taken. A lower Sharpe Ratio indicates that the investment is not providing sufficient return for the risk assumed.
+ To contextualize these figures, consider the broader economic environment. The S&P 500's performance is often driven by factors such as technological innovation, consumer spending, and corporate earnings. Real estate, while influenced by these factors, is also heavily dependent on interest rates, demographic shifts, and local market conditions. The underperformance of real estate ETFs suggests that these sector-specific headwinds are currently outweighing the broader economic tailwinds. Furthermore, the volatility of these ETFs indicates the inherent risk associated with real estate investments, which can be sensitive to market fluctuations and economic downturns. The Sharpe Ratio, a measure of risk-adjusted return, further underscores the challenges in generating attractive returns in the real estate sector relative to the level of risk taken. A lower Sharpe Ratio indicates that the investment is not providing sufficient return for the risk assumed.
 
 ## Industry Perspectives on the Siderow Appointment
 Industry experts view the appointment of Stephen Siderow as Senior Advisor to RE VC as a strategic move to bolster operational expertise and potentially improve fund performance. According to **Michael Hartnett, Chief Investment Strategist at Bank of America Global Research**, *"Real estate tech is at an inflection point where operational expertise combined with capital deployment is paramount. RE VC's acquisition of Siderow signals a deliberate move towards hands-on value creation beyond pure financial engineering."* **Jennifer Fan, Partner at Fidelity Ventures**, stated: *"The 15% growth target is ambitious but not unattainable given the current market inefficiencies within proptech, particularly in data analytics and sustainable infrastructure sub-sectors. Siderow's track record in scaling B2B SaaS platforms within real estate provides a rare blend of domain expertise and startup acceleration experience."* These perspectives suggest that Siderow's skills align well with the fund's goals.

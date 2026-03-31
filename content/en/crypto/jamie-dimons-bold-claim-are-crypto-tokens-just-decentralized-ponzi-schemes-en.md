@@ -94,72 +94,15 @@ The $4 trillion crypto bet may indeed pay off, but it will require a delicate ba
 
 ---
 
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
- {
- "@type": "Question",
- "name": "What is Jamie Dimon's stance on cryptocurrencies?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Jamie Dimon, CEO of JPMorgan Chase, has referred to cryptocurrencies like Bitcoin as 'decentralized Ponzi schemes.' He believes they lack intrinsic value and are primarily speculative assets. However, he acknowledges the potential of blockchain technology for institutional finance."
- }
- },
- {
- "@type": "Question",
- "name": "What is the GENIUS Act?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "The Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act, signed into law in 2025, establishes a regulatory framework for payment stablecoins. It mandates 1:1 reserve backing and monthly reserve disclosures to ensure transparency and stability."
- }
- },
- {
- "@type": "Question",
- "name": "Why are stablecoins considered risky?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Despite being pegged to stable assets, stablecoins face risks such as reserve mismanagement, lack of transparency, and potential misuse for illicit activities. The collapse of TerraUSD in 2022 highlighted the vulnerabilities of algorithmic stablecoins."
- }
- }
- ]
-}
-</script>
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
 
 <div class="author-box" style="padding: 20px; background-color: #f8f9fa; border-left: 4px solid #0056b3; margin-top: 30px; border-radius: 4px;">
-    <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
+ <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
-
 
 ### Related Articles
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The $4 Trillion Crypto Bet: Why Jamie Dimon Says It’s a Dangerous Scam",
-  "description": "Explore why Jamie Dimon calls crypto a $4 trillion scam, uncovering the risks, controversies, and implications for the future of digital currencies.",
-  "image": "https://novumworld.com/images/jamie-dimons-bold-claim-are-crypto-tokens-just-decentralized-ponzi-schemes-en.jpg",
-  "datePublished": "2026-03-29T16:20:57",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

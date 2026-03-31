@@ -43,15 +43,15 @@ Según un informe de DPL News, América Latina enfrenta un dilema crucial en est
 
 **Las 10 Tendencias que Marcarán 2026:**
 
-1.  **Aumento de la impunidad en el intervencionismo militar:** Las potencias ignoran el derecho internacional y actúan con impunidad, fomentando la inestabilidad global.
-2.  **Privatización de la paz:** La diplomacia se convierte en un negocio, donde los intereses económicos priman sobre los valores humanitarios.
-3.  **Rearme tecnológico y militar:** La inversión en nuevas tecnologías bélicas alimenta una carrera armamentística global.
-4.  **Desconexión entre la agenda geopolítica y el malestar ciudadano:** Las prioridades de los gobiernos no coinciden con las necesidades y preocupaciones de la población.
-5.  **Competencia por los recursos naturales:** La escasez de recursos intensifica las tensiones geopolíticas y los conflictos.
-6.  **Fragmentación del orden internacional:** El multilateralismo se debilita, dando paso a un mundo multipolar donde las grandes potencias compiten por la influencia.
-7.  **Polarización política y social:** La desconfianza y la división dificultan la cooperación y la resolución de problemas comunes.
-8.  **Desinformación y manipulación:** Las noticias falsas y la propaganda socavan la confianza en las instituciones y los medios de comunicación.
-9.  **Crisis climática y medioambiental:** Los efectos del cambio climático exacerban las desigualdades y generan nuevas fuentes de conflicto.
+1. **Aumento de la impunidad en el intervencionismo militar:** Las potencias ignoran el derecho internacional y actúan con impunidad, fomentando la inestabilidad global.
+2. **Privatización de la paz:** La diplomacia se convierte en un negocio, donde los intereses económicos priman sobre los valores humanitarios.
+3. **Rearme tecnológico y militar:** La inversión en nuevas tecnologías bélicas alimenta una carrera armamentística global.
+4. **Desconexión entre la agenda geopolítica y el malestar ciudadano:** Las prioridades de los gobiernos no coinciden con las necesidades y preocupaciones de la población.
+5. **Competencia por los recursos naturales:** La escasez de recursos intensifica las tensiones geopolíticas y los conflictos.
+6. **Fragmentación del orden internacional:** El multilateralismo se debilita, dando paso a un mundo multipolar donde las grandes potencias compiten por la influencia.
+7. **Polarización política y social:** La desconfianza y la división dificultan la cooperación y la resolución de problemas comunes.
+8. **Desinformación y manipulación:** Las noticias falsas y la propaganda socavan la confianza en las instituciones y los medios de comunicación.
+9. **Crisis climática y medioambiental:** Los efectos del cambio climático exacerban las desigualdades y generan nuevas fuentes de conflicto.
 10. **Resiliencia y adaptación:** A pesar de los desafíos, la capacidad de adaptación y la búsqueda de soluciones innovadoras ofrecen esperanza para el futuro.
 
 **Veredicto: Un Futuro Incierto, Pero No Predeterminado**

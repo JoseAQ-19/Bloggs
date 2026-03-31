@@ -49,7 +49,7 @@ The proliferation of deepfakes doesn't just threaten individual identities; it a
 
 The threat of AI-generated harassment and exploitation, causing irreversible damage to victims before the content can be debunked, cannot be overstated. A deepfake robocall imitating President Biden reached voters in New Hampshire, urging them not to vote. The "Take It Down Act", signed by President Trump, introduces criminal penalties and requires technology platforms to remove such content.
 
-## The Bottom Line
+## 
 
 I stand with the therian community, against the misuse of AI to target and ridicule marginalized communities. We must also advocate for and support media literacy initiatives within the therian community.
 
