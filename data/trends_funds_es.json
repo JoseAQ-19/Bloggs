@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-30T13:12:50.121116+00:00",
-  "total_candidates": 13,
+  "scouted_at": "2026-03-31T07:33:38.348556+00:00",
+  "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos premiados Morningstar 2026: ¿Cuáles han superado a sus competidores con un rendimiento del 15%?",
+      "title": "Bankinter y Plenium Partners: ¿Qué significa su integración y la adquisición de Access Capital Partners para los inversores?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Invertir en el sector farmacéutico: análisis de los fondos que han generado un 10% más en el último año.",
+      "title": "Los fondos premiados por Morningstar en 2026: ¿Cuáles tienen el potencial de brillar y por qué?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "ETFs de renta fija: ¿Cuáles son los 8 que han capitalizado un repunte del 20% del dólar estadounidense?",
+      "title": "Iván Martín de Magallanes revela su estrategia: ¿Cómo la venta de bancos y petroleras impacta en el rendimiento de su fondo?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,6 +49,11 @@
   },
   "all_headlines": [
     {
+      "title": "Bankinter Investment y Plenium Partners integran sus gestoras y adquieren una participación significativa en Access Capital Partners",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVlmUU5qdXViZmF6bGpMZ0IyVXRiTkU0RGFYN2s5TkVFcWsxNUp0MEV1WnJBeEk3MWxZU01UX0JnSUlacjYwZjFYVlcySG1zajdVMzc3ck84c2F5bE9EaUJ0R3g3Ylh2SEdxRmtvbDBNZjRHbDNWUTN0NzZjV0ROUVktSURDQ0xaYkVXQURfclRkY3psUU5EVS1nTGE2ckxtQUJ3YmZYdzA0WXZpc1dwaUpZLXBaNWlXWm5JblZyUzBZZkRHVFdlZmZBdmN2QlJLeW11dUNHRGVpalQzNEVQakJ5SUcwYlk?oc=5"
+    },
+    {
       "title": "Los fondos con potencial para brillar que han recibido premio Morningstar en 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdHZMaUVHLTdWQXJXaldINFhzU1RyWnc1c29kOVZwNU1Qcy00dHByWDZtQ3hCME1BYk9tbnAtbk13T3prU3pkbUZ6SXhIZGdoc3AwcThwbEF1YjBlT0gzM2hvaGdWZm5QYXNpN05uZWFJclBlakdMcWFFdUx0aEJVd3U3SXNKc3BrUW40UTRHZHhtbnJWRXQ4ckwtakFkaWYzOU1JUXFQMXJ1NGxGRUl2LWhvYktJYUwxc01pdDhIUl8tWE9rUkVFNHBaNU5KamU3RXhBU3hjaVI1eWRL0gHcAUFVX3lxTE90dkxpRUctN1ZBcldqV0g0WHNTVHJadzVzb2Q5VnA1TVBzLTR0cHJYNm1DeEIwTUFiT21ucC1uTXdPemtTemRtRnpJeEhkZ2hzcDBxOHBsQXViMGVPSDMzaG9oZ1ZmblBhc2k3Tm5lYUlyUGVqR0xxYUV1THRoQlV3dTdJc0pzcGtRbjRRNEdkeG1uclZFdDhyTC1qQWRpZjM5TUlRcVAxcnU0bEZFSXYtaG9iS0lhTDFzTWl0OEhSXy1YT2tSRUU0cFo1TkpqZTdFeEFTeGNpUjV5ZEs?oc=5"
@@ -59,9 +64,9 @@
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUG5aZWNFVDN2MHVmYUE0SmU0VnJSNkU3RklPekxUU2F2WU42T3VDWTRuSS0xOVdwNXZvTjlZeWtpaUlrS3M5V2l3RG85cm1QZGM1bEdtYzd5QXdhNHlKTlRpc3dYY1U0M0dLT2VicEpNaTN0ejlYQW1GcWgwc1BuMkpNbV9HSEkwcURfYXdQV2VMTXdfOXQzQXg2NTh1U0cxd0R0RHhwOThzYmQ3Zmc2RVpSajVWTzRYSFFtSW5nbExYZF9nMHZpV21CaF9GMVFTTmFfN2pVa3VidWpSOVFGMGV1NzJ6UVAyN0kzbG1YV25ITi1lQXJWSWNYYlpheWs40gGAAkFVX3lxTE9QblplY0VUM3YwdWZhQTRKZTRWclI2RTdGSU96TFRTYXZZTjZPdUNZNG5JLTE5V3A1dm9OOVl5a2lpSWtLczlXaXdEbzlybVBkYzVsR21jN3lBd2E0eUpOVGlzd1hjVTQzR0tPZWJwSk1pM3R6OVhBbUZxaDBzUG4ySk1tX0dISTBxRF9hd1BXZUxNd185dDNBeDY1OHVTRzF3RHREeHA5OHNiZDdmZzZFWlJqNVZPNFhIUW1JbmdsTFhkX2cwdmlXbUJoX0YxUVNOYV83alVrdWJ1alI5UUYwZXU3MnpRUDI3STNsbVhXbkhOLWVBclZJY1hiWmF5azg?oc=5"
     },
     {
-      "title": "Invertir en Renta Fija: situación actual y perspectivas",
+      "title": "NBI gana 2,2 millones de euros en 2025",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeWZ1bXM4UEpxYVVWdHdlbXpKa0RXb1Nnd01DeG5Ya1NnUllBQkNsOU1lbmRqS3ZRZHc5SWtKN1VtUEFJeVVNNkNQV21fMVRzZzlnUGhyLVljS1pMeUtWd0FQY2ZIUlNNRS1QZ0lYYzdoeFpCWmxIM1NtcWczeU1vVzRGY1hLT2VNWFNJRlBhaFhMWXpVT05yTUQzcUl2UWRnRXJaZ1R0MTZQZGtZMWNDVVRaQmlEZmVFaXV5OFNOWU9aSnRh0gGeAUFVX3lxTE5ibWdUd0NPejVRMlZqc0JRVzJ0QU5OMnJ5OUpZUUttTjBSeFl3YW5WbXhySktKOGRuUm96VWd3THNJV1hNSjBYUjZOcGd0X190TFRRdG5md0oyNks4X1FDc3U0Zk05dVJqYTVrOV93RUJiWHlBdDJlRnlmakFWR29uSlc0TzEyWDJIaVRSXzBnNGhHdDZSWFBWVkM5MWNB?oc=5"
     },
     {
       "title": "La Primera de Expansión sobre Criteria, Acciona, ACS, CaixaBank, petróleo, Irán y Donald Trump",
@@ -69,24 +74,14 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNlNGWXRqbVV1LXdmVEJLMUJ6a3hHaUYyYm44Ykk2emdHLUlyZEZxaUNEZHc0eGFqM1hDbzJGM3RnWGZ3eF9XaERicDJYLV9rVTg5ckZFMDV5T0k1eWdfUDd1UG1XZkx4ZlVkVzJicklpYlV2SFFtVHExWnREdW1qTXhVa2ZpUkFmcWhuUmczVDN5VGxybEhUMDhmRVdZV1Ix0gGgAUFVX3lxTFA2U0ZZdGptVXUtd2ZUQksxQnpreEdpRjJibjhiSTZ6Z0ctSXJkRnFpQ0RkdzR4YWozWENvMkYzdGdYZnd4X1doRGJwMlgtX2tVODlyRkUwNXlPSTV5Z19QN3VQbVdmTHhmVWRXMmJySWliVXZIUW1UcTFadER1bWpNeFVrZmlSQWZxaG5SZzNUM3lUbHJsSFQwOGZFV1lXUjE?oc=5"
     },
     {
-      "title": "Estos son los mejores brókers para invertir en República Dominicana",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdHZkV2RxeXRoQm9IWTk0QVV5TXoyYUU3aHd5ZUhDVWNzUXN5eTZNRVF1Vm9CQ19pSk9CbDdGWUJkMnN0TjJHSEh4Tndhdm80NXlCcFE4V2dGU2doWGJ0YmthWlR0SjJ6UUYzajVFb2NXSWZ1UUlYcTE3cVhaU2c5TXlvYnBXbUs5YXNueDdvTnhMU3lRa1lqcHBfbHNxdXJzWVlHYlFSNmF0dFFZN1NDZNIBnwFBVV95cUxNMWhnMEJNWk9VTEZKMkNicWg4RThxdUNoRzNLcFZCeE5KZ0ltX1FUM09XV1pWWDJCazZiekJRYS1xWTJ3RWNpc2dSLUFLVENoWWl1ZXJ4OUdNN3F6QWF0VFJieGhQUHU1TmNxT1FleWh2VTdtaVYzVGFTdWR3SlRQblRJcnRCZy10c2F1WTZOS2FjbFdWcm9NQnExdFFRa1U?oc=5"
+      "title": "Qué significaría una subida de tipos de la Fed para estos sectores",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274866/qué-significaría-una-subida-de-tipos-de-la-fed-para-estos-sectores.aspx"
     },
     {
-      "title": "Renta 2025: ¿En qué casilla de la Renta se ponen los fondos cotizados o ETFs?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1A4ZWNjaVA2YTkxQy1CYk1sQUswb1hkV1NLVTFpdnEtRGFDRDZCUmNmSm9UaUxoczJiQ29LMHB6ZldESnNQUFhqR0gyZnVUUEpkLW1IeWJ1ZGZRS3JGWmRmdm80WFZzQk5NQW1oVVh1Y1drZU8yWVJ6YXE0MGowUDNjbVlYc19BaFItbVowWQ?oc=5"
-    },
-    {
-      "title": "Preapertura del mercado en tiempo real. Análisis y claves del día",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXd3WWpKMmdPZk1QLXozNmhZaXVVMk9hMUdNaEtnM1ppN1ltVFJvbGNtZzh4RlZyX0MwbVZodmp6WUVNdzVydUhiaXVSMDJ1SDhUVzlNcDRYRnBySTFmbFBZN25hak5RS2R6UXZsbkg4V0VSa2dYY0IxdHU2SXRBZl9ZRXZ0ZHlDYllqaWJ0N09NOWFCeUMxMTI0ay05Z1J6QkZzLVRHcFBKUTBudEpwZkQtQ2xiM3PSAaYBQVVfeXFMT1FNemJ3a2k5MGdmdmZLR01lN09yd3ZsM1pfNlU4cWFUeHZGSjY3a2V4Q2JFV1lGcURTR3p2QW14RzRrQWNFSTlnOVFISW5ScXFBVllJeUxqUXpYVFRta1hoaTJxR0hTSnZPMXIwWGpxZHhYcGotUV92RlpkMDdXeUU5amZoa2FFYkJSOVhjWmlsNUdUOUdVNkVKRTNVdThhZVhhOTlCdw?oc=5"
-    },
-    {
-      "title": "Invertir en el Sector Farmacéutico: Oportunidades y amenazas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdm1HT1FBdFFLODdYaEdpRDRfcmtKVGc5NEdkSjVVZXpzM2gydm9OOU9TZlZLYnNVaWw0MDJTNEx5SHl2OUVucXBfWnF3RmNpNDVmUDFHX0tIY1RRemxDYkFRX0d0XzhZU1FwMjBfQ1ZPUUlaMDVzWDF2Qzk1WndsWEl4X3hmMGhkV0E?oc=5"
+      "title": "Perspectivas de la bolsa USA para el segundo trimestre: no entre en pánico, reajuste su estrategia",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274865/perspectivas-de-la-bolsa-usa-para-el-segundo-trimestre-no-entre-en-pánico-reajuste-su-estrategia.aspx"
     },
     {
       "title": "8 ETFs de renta fija para aprovechar el repunte del dólar estadounidense",
@@ -102,16 +97,6 @@
       "title": "¿Qué acciones europeas reparten dividendos en abril de 2026?",
       "source": "rss_morningstar_es",
       "url": "https://www.morningstar.es/es/news/274824/¿qué-acciones-europeas-reparten-dividendos-en-abril-de-2026.aspx"
-    },
-    {
-      "title": "El fracaso del metaverso de Facebook: lecciones clave para los inversores en ETFs temáticos",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274814/el-fracaso-del-metaverso-de-facebook-lecciones-clave-para-los-inversores-en-etfs-temáticos.aspx"
-    },
-    {
-      "title": "Inflación en la Eurozona: ¿Subirán los precios con la guerra en Irán y modificará su política el BCE?",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274807/inflación-en-la-eurozona-¿subirán-los-precios-con-la-guerra-en-irán-y-modificará-su-política-el-bce.aspx"
     }
   ]
 }
