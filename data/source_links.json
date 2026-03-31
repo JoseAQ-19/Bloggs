@@ -102,5 +102,10 @@
         "https://par.nsf.gov/biblio/10567257-analysis-sandy-beach-morphology-changes-inundation-events-from-high-spatiotemporal-resolution-dataset",
         "https://cmgds.marine.usgs.gov/catalog/whcmsc/SB_data_release/DR_P9FNRRN0/PR_Baselines_metadata.html",
         "https://pubs.usgs.gov/publication/dr1191/full"
+    ],
+    "ai-bias-federal-judges-tech-shift-en": [
+        "https://www.fjc.gov/sites/default/files/materials/47/An_Introduction_to_Artificial_Intelligence_for_Federal_Judges.pdf",
+        "https://fjc.gov/content/375968/introduction-artificial-intelligence-federal-judges",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12024057/"
     ]
 }

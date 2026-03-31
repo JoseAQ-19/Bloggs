@@ -573,3 +573,4 @@ funds: Fluent Financial LLC Invests Heavily in Morningstar, Inc., $MORN Surges b
 ia: La IA generativa: ¿La amenaza del siglo XXI?
 ia: Trust Issues: As AI Tools Rise, Skepticism Grows Among Americans
 tools: IH-SET: El software que transformará el análisis del litoral
+tools: Federal Judges Embrace AI: The Future of Legal Decision-Making
