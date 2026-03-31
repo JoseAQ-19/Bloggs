@@ -13,14 +13,13 @@
 </article>
 
 {{/* PAGINACIÓN UNIVERSAL */}}
-<div class="pa0 pa4-ns w-100 w-80-ns center">
+<div class="pa3 pa4-m pa5-l w-100 mw8 center">
 
-  {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" (slice "ia" "crypto" "fitness" "youtube" "viral"
-  "tools" "funds")) }}
+  {{ $paginator := .Paginate (where .Site.RegularPages "Type" "ne" "page") }}
 
-  <section class="home-grid w-100 mw9 center">
+  <section class="home-modern-grid mt5 w-100 flex-wrap justify-center">
     {{ range $paginator.Pages }}
-    <div class="home-grid__item" data-aos="fade-up" data-aos-duration="800">
+    <div class="flex" data-aos="fade-up" data-aos-duration="800">
       {{ .Render "summary-with-image" }}
     </div>
     {{ end }}

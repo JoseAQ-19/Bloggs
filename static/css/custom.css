@@ -843,37 +843,51 @@ table {
 }
 
 /* ===================================================
-   ARTICLE GRID SYSTEM (CSS Grid)
+   MODERN CARD GRID SYSTEM (CSS Grid)
    =================================================== */
-.article-grid {
+.article-grid,
+.home-grid,
+.home-modern-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 2rem;
-    padding: 0 1rem;
-}
-
-.article-grid__item {
-    display: flex;
-}
-
-.article-grid__item article.glass-card {
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 3rem;
     width: 100%;
 }
 
-/* Home page grid - same treatment */
-.home-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 2rem;
-    padding: 0 1rem;
+@media (min-width: 1024px) {
+    .home-modern-grid {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 3.5rem;
+    }
 }
 
+.article-grid__item,
 .home-grid__item {
     display: flex;
+    width: 100%;
 }
 
-.home-grid__item article.glass-card {
+.article-grid__item article.glass-card,
+.home-grid__item article.glass-card,
+.home-modern-grid article.glass-card {
     width: 100%;
+    margin-bottom: 0 !important;
+}
+
+/* Fix thumbnail sizing logic */
+.glass-card > div > a {
+    display: block;
+    width: 100%;
+    position: relative;
+}
+
+.glass-card > div > a > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover !important;
 }
 
 /* ===================================================
