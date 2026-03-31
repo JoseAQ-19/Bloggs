@@ -1041,47 +1041,61 @@
   "47c2bc6816549fbd4391587ad907de1b4a35f331cc234d17a1e0ece63b6178da": {
     "data": [
       {
-        "title": "From shadow IT to demonstrable DPIAs: Building visibility for modern privacy programs",
+        "title": "Federal Judges Report Broad Adoption of AI Tools",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Big Spring Sale Green Deals hub – e-bikes, e-scooters, power stations, tools, more",
+        "title": "AI Tools Could Drive Improved Risk Stratification, Treatment Decision-Making in Multiple Myeloma",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Generic AI tools continue to fall short for dealers – Kerri Wise & Lance Schafer | Lotlinx",
+        "title": "EXPERT PITCH: WVU expert details important considerations for taxpayers using AI for tax preparation",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Mac users can now get Microsoft’s best tools for just $10 each",
+        "title": "Cyara Launches Agentic Testing And Governance Tools",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Survey Finds Majority of Federal Judges Have Used AI in Their Work, But Daily Use Remains Rare",
+        "title": "2026 PAW: Avoiding Arbitration — Practical Off-Ramps and Risk-Hedging Tools",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774882412.061528,
+    "cached_at": 1774968725.622122,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "92ad7a04052f3c14b23389817cda9215b8114296c6bad566e117afe5cafcbd04": {
     "data": [
+      {
+        "title": "La tendencia de los chatbots de IA de engañar a los usuarios va en aumento, según estudio | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/la-tendencia-de-los-chatbots-de-ia-de-enganar-a-los-usuarios-va-en-aumento-segun-estudio"
+      },
+      {
+        "title": "Bluesky's new AI tool Attie is already the most blocked account other than J. D. Vance | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/"
+      },
       {
         "title": "Bluesky leans into AI with Attie, an app for building custom feeds | TechCrunch",
         "source": "exa",
@@ -1090,28 +1104,14 @@
         "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/"
       },
       {
-        "title": "Qué esperar de ChatGPT cuando se llene de anuncios | WIRED",
+        "title": "Bluesky’s new app is an AI for customizing your feed | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/que-esperar-de-chatgpt-cuando-se-llene-de-anuncios"
-      },
-      {
-        "title": "The Verge",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://store.theverge.com/tech/884498/google-is-expanding-what-its-flow-ai-tool-can-do"
-      },
-      {
-        "title": "Una jueza pone en pausa la ofensiva de Trump contra Anthropic | WIRED",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://es.wired.com/articulos/un-juez-pone-en-pausa-la-ofensiva-de-trump-contra-anthropic"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds"
       }
     ],
-    "cached_at": 1774882412.6121094,
+    "cached_at": 1774968726.2217634,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
