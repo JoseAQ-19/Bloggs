@@ -293,77 +293,77 @@
   "6b917a81fd9eedfed0c8175dfe38aafa9e90472ee53445d8e4541e481f95984d": {
     "data": [
       {
-        "title": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns",
+        "title": "Houston attorneys call out Harris County judge following viral clip of him berating county employee",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Current understanding of viral contributions to soil carbon cycling",
+        "title": "Getting a glimpse of viral dances in the dark in the Sargasso Sea",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "China's DeepSeek AI chatbot suffers longest outage since viral rise in early 2025",
+        "title": "Viral video shows woman escaping Muskegon Heights Police cruiser",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "IKEA's viral donut lamp just got smarter — what to know about the Matter-over-Thread Varmblixt lamp",
+        "title": "Miss Thailand contestant goes viral for dance",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Extended Viral PCR: Does It Help?",
+        "title": "Viral escapee used 'yoga skills' to climb out of police car, says former cellmate",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774882574.6915414,
+    "cached_at": 1775000701.36943,
     "func": "fetch_google_news",
     "args_summary": "('viral',)"
   },
   "78419185a472eac00403a11a229938d32ad88b963bbfbf48284eb0cbba1ee66b": {
     "data": [
       {
-        "title": "Más de 130 derrames en 15 años: el historial que enmarca el nuevo incidente en el Golfo de México | WIRED",
+        "title": "La tendencia de los chatbots de IA de engañar a los usuarios va en aumento, según estudio | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/mas-de-130-derrames-en-15-anos-el-historial-que-enmarca-el-nuevo-incidente-en-el-golfo-de-mexico"
+        "url": "https://es.wired.com/articulos/la-tendencia-de-los-chatbots-de-ia-de-enganar-a-los-usuarios-va-en-aumento-segun-estudio"
       },
       {
-        "title": "Nintendo prepara remake de Ocarina of Time y un nuevo Star Fox para Switch 2, según reporte",
+        "title": "Team Cherry acaba de actualizar Hollow Knight por sorpresa, y el cambio es tan necesario como bienvenido",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://latam.ign.com/the-legend-of-zelda-ocarina-of-time-3d/112165/news/ocarina-of-time-remake"
+        "url": "https://es.ign.com/hollow-knight-silksong/228115/news/team-cherry-acaba-de-actualizar-hollow-knight-por-sorpresa-y-el-cambio-es-tan-necesario-como-bienven"
       },
       {
-        "title": "Pokémon GO podría lanzar una función que cambiaría tu forma de jugar, aunque no es bien recibida por todos",
+        "title": "WhatsApp is coming to CarPlay. | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.ign.com/pokemon-go/228094/news/pokemon-go-podria-lanzar-una-funcion-que-cambiaria-tu-forma-de-jugar-aunque-no-es-bien-recibida-por"
+        "url": "https://www.theverge.com/tech/903211/whatsapp-is-coming-to-carplay"
       },
       {
-        "title": "Qué esperar de ChatGPT cuando se llene de anuncios | WIRED",
+        "title": "Uno de los finales de Elden Ring tiene ahora más sentido. El contenido fue eliminado del juego, pero la comunidad lo ha resucitado",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/que-esperar-de-chatgpt-cuando-se-llene-de-anuncios"
+        "url": "https://es.ign.com/elden-ring/227945/news/uno-de-los-finales-de-elden-ring-tiene-ahora-mas-sentido-el-contenido-fue-eliminado-del-juego-pero-l"
       }
     ],
-    "cached_at": 1774882575.086927,
+    "cached_at": 1775000701.869398,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
