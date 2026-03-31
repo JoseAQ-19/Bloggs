@@ -368,72 +368,36 @@
     "args_summary": "('viral noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
   "1aa06cf232e59b4099181fc77bc2032cca3f1701bcd8a89857881f3d3a40d006": {
-    "data": [
-      {
-        "title": "BTCUSD",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Ripple CEO Warns Against Crypto Policy Weaponization, Maintains Bullish Market Outlook",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Manresa renunciará a reformar el Nou Congost y apostará por otro pabellón",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Predicción del precio de Neo (NEO) para 2023 2024 2025 2026",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Criptomonedas como COIN y HOOD han tocado fondo de cara a los resultados y se negocian con un descuento 'importante', según Bernstein",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      }
-    ],
-    "cached_at": 1774888206.2319002,
+    "data": [],
+    "cached_at": 1774974649.244948,
     "func": "fetch_google_news",
     "args_summary": "('crypto',)"
   },
   "5c20aedfee12fab17574d9716695b511d7e61e204e2a7e9a7f897f9646417150": {
     "data": [
       {
-        "title": "David Sacks Is No Longer the White House AI and Crypto Czar",
+        "title": "Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly",
         "source": "hackernews",
         "lang": "en",
-        "score": 6,
-        "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar"
+        "score": 72,
+        "url": "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/"
       },
       {
         "title": "GitHub phishers use fake OpenClaw tokens to drain crypto wallets",
         "source": "hackernews",
         "lang": "en",
-        "score": 4,
+        "score": 5,
         "url": "https://www.csoonline.com/article/4150456/github-phishers-use-fake-openclaw-tokens-to-drain-crypto-wallets.html"
       },
       {
-        "title": "Cryptographic Implementation of Exclusivity Agreements",
+        "title": "Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]",
         "source": "hackernews",
         "lang": "en",
-        "score": 2,
-        "url": "https://github.com/CipherTrustee/certisfy-claim-recipes/tree/master/ppbv"
+        "score": 4,
+        "url": "https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf"
       }
     ],
-    "cached_at": 1774888206.4656558,
+    "cached_at": 1774974649.567535,
     "func": "fetch_hackernews",
     "args_summary": "(['crypto'],)"
   },
@@ -447,6 +411,13 @@
         "url": "https://as.com/actualidad/economia/hay-que-declarar-las-operaciones-con-criptomonedas-en-la-renta-y-en-que-casilla-se-tributan-a-hacienda-f202603-n/"
       },
       {
+        "title": "Europa lleva décadas pagando con tarjetas americanas: doce países acaban de decidir que mucho mejor con Bizum",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/empresas-y-economia/europa-lleva-decadas-pagando-tarjetas-americanas-doce-paises-acaban-decidir-que-suficiente-han-escogido-a-bizum"
+      },
+      {
         "title": "Las Big Tech han confiado las llaves de su reino a NVIDIA. Ahora quieren las llaves de vuelta",
         "source": "exa",
         "lang": "en",
@@ -454,21 +425,14 @@
         "url": "https://m.xataka.com/empresas-y-economia/big-tech-han-confiado-llaves-su-reino-a-nvidia-ahora-quieren-llaves-vuelta"
       },
       {
-        "title": "Ya sabemos lo que la IA aportó a la economía de EEUU en 2025: \"básicamente cero\"",
+        "title": "Hay un nueva generación de modelos IA a las puertas y Anthropic tiene que venderlos: \"El más grande e inteligente\"",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/empresas-y-economia/sabemos-que-ia-aporto-a-economia-eeuu-2025-basicamente-cero"
-      },
-      {
-        "title": "OpenAI tenía que elegir entre \"ser la empresa que tiene una IA erótica\" o competir con Anthropic. Y ha elegido lo obvio",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/que-openai-abandone-su-chatbot-erotico-senal-definitiva-que-openai-ha-dejado-ser-openai-para-convertirse-anthropic"
+        "url": "https://www.xataka.com/robotica-e-ia/cada-nuevo-modelo-ia-mejor-historia-que-llega-siguiente-anthropic-openai-han-convertido-eso-negocio"
       }
     ],
-    "cached_at": 1774888207.114327,
+    "cached_at": 1774974650.1445029,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
