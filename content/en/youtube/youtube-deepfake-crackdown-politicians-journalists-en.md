@@ -49,8 +49,7 @@ Election disinformation is particularly insidious on YouTube due to the platform
 
 This is exacerbated by the fact that YouTube quietly changed its moderation policies, allowing more content that violates its own guidelines to remain on the platform. The incentive to increase user engagement often trumps the need to moderate potentially harmful content. The consequence is a platform where disinformation can thrive, potentially influencing public opinion and skewing election views. Therefore, addressing algorithmic bias and promoting media literacy is crucial to counteracting the spread of disinformation.
 
-## 
-
+## The Bottom Line
 The current strategy of reacting to AI-generated disinformation with technological fixes and policy updates is akin to playing whack-a-mole. Instead, the focus should be on proactive measures to promote media literacy and a healthy skepticism towards all online content. This would require demanding full transparency from YouTube and other platforms about their AI moderation algorithms and the datasets used to train AI deepfake detectors. It's time for platforms to be more forthright about the methods they employ to combat disinformation, allowing for independent scrutiny and accountability.
 
 Furthermore, resources need to be invested in educational programs that equip individuals with the critical thinking skills necessary to evaluate online information. Empowering users to discern fact from fiction is the most effective long-term strategy for mitigating the harm caused by disinformation, regardless of its source. As Bruce Schneier, Adjunct Lecturer at Harvard Kennedy School, noted, AI didn't drive the major misinformation narratives in the lead-up to the election.

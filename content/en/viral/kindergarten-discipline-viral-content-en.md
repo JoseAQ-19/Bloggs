@@ -68,8 +68,7 @@ The risks to student privacy extend beyond the threat of data breaches. The coll
 
 The consequences of discriminatory disciplinary practices are equally dire. Students who are repeatedly suspended or expelled are more likely to drop out of school, become involved in the criminal justice system, and experience long-term economic hardship. Addressing these disparities requires a comprehensive approach that includes implicit bias training for teachers, restorative justice practices, and culturally responsive curriculum. In Wake County Public Schools, 240 students were secluded or restrained for disciplinary reasons between July and December 2023.
 
-## 
-
+## The Bottom Line
 The risks to student privacy and equitable discipline are too high; immediate policy changes are needed. Parents should demand transparency regarding data sharing agreements between schools and third-party vendors and advocate for restorative justice practices to minimize suspensions. School boards play a key role in maintaining rules of order, defining acceptable behavior, and ensuring that disciplinary policies are fair and consistently applied.
 
 Your child's future hinges on securing their present.

@@ -25,7 +25,7 @@ La promesa de la IA como panacea educativa choca de frente con la dura realidad:
 
 Este declive no es un mero espejismo. Según datos recabados directamente en las aulas, los estudiantes que dependen de la IA para resolver tareas y preparar exámenes muestran dificultades para desenvolverse cuando no tienen acceso a esta tecnología. Se enfrentan a una especie de "síndrome de abstinencia cognitiva", donde la capacidad de análisis, síntesis y razonamiento crítico se ve mermada por la sobre dependencia de algoritmos que hacen el trabajo por ellos. ¿Estamos ante una generación de "copy-paste" glorificado, incapaz de construir conocimiento propio?
 
-## El Doble Filo de la IA Educativa: ¿Aliado o Enemigo del Aprendizaje?, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
+## El Riesgos y Compromisos de la IA Educativa: ¿Aliado o Enemigo del Aprendizaje?, segun datos recogidos por [MIT Technology Review](https://www.technologyreview.com/)
 
 El problema no reside en la tecnología en sí, sino en la forma en que se está integrando en el proceso educativo. En lugar de utilizar la IA como una herramienta complementaria que potencie el aprendizaje, se está convirtiendo en un atajo que evade el esfuerzo intelectual necesario para adquirir conocimientos sólidos. La promesa de una educación personalizada, adaptada a las necesidades individuales de cada estudiante, se diluye en una experiencia homogeneizada, donde la IA dicta el ritmo y el contenido, dejando poco espacio para la exploración, la creatividad y el pensamiento divergente.
 

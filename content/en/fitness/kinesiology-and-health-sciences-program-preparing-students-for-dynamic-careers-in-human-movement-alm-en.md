@@ -3,8 +3,8 @@ categories:
 - fitness
 date: 2026-02-14 10:03:47
 description: Imagine yourself ten years from now. Are you thriving in a career you're
-  passionate about, one that challenges you intellectually and allows you to make
-  a tangi...
+passionate about, one that challenges you intellectually and allows you to make
+a tangi...
 draft: false
 featured_image: /images/defaults/default-fitness.jpg
 language: en
@@ -13,7 +13,7 @@ tags:
 - Tutorials
 - Blueprints
 title: 'Kinesiology and Health Sciences Program: Preparing Students for Dynamic Careers
-  in Human Movement - Alma College Analysis'
+in Human Movement - Alma College Analysis'
 translationKey: kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm
 type: fitness
 ---

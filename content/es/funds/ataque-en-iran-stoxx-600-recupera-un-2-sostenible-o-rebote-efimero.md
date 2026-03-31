@@ -17,40 +17,40 @@ El Stoxx 600 recupera un 2% tras el ataque en Irán, pero los expertos advierten
 
 ### **Tabla Comparativa: Rendimientos y Volatilidad de Fondos Europeos**
 - **Hamco Global Value Fund (IE00B8VKKR76)** 
- - Rendimiento 1 año: +17.2% 
- - Rendimiento 3 años anualizado: +12.8% 
- - Rendimiento 5 años anualizado: +14.5% 
- - Volatilidad: 18.3% 
- - Ratio de Sharpe: 0.78 
- - Comisiones: TER 1.65% (Clase A), 0.95% (Clase Institucional) 
- - Categoría Morningstar: Europe Large Cap, Rating: 4 estrellas 
+- Rendimiento 1 año: +17.2% 
+- Rendimiento 3 años anualizado: +12.8% 
+- Rendimiento 5 años anualizado: +14.5% 
+- Volatilidad: 18.3% 
+- Ratio de Sharpe: 0.78 
+- Comisiones: TER 1.65% (Clase A), 0.95% (Clase Institucional) 
+- Categoría Morningstar: Europe Large Cap, Rating: 4 estrellas 
 
 - [Vanguard](https://investor.vanguard.com/) 
- - Rendimiento 1 año: +8.3% 
- - Rendimiento 3 años anualizado: +7.2% 
- - Rendimiento 5 años anualizado: +6.1% 
- - Volatilidad: 15.7% 
- - Ratio de Sharpe: 0.45 
- - Comisiones: TER 0.12% (sin comisión de suscripción) 
- - Categoría Morningstar: Large Cap Blend Europe, Rating: 4 estrellas 
+- Rendimiento 1 año: +8.3% 
+- Rendimiento 3 años anualizado: +7.2% 
+- Rendimiento 5 años anualizado: +6.1% 
+- Volatilidad: 15.7% 
+- Ratio de Sharpe: 0.45 
+- Comisiones: TER 0.12% (sin comisión de suscripción) 
+- Categoría Morningstar: Large Cap Blend Europe, Rating: 4 estrellas 
 
 - [BlackRock](https://www.blackrock.com/) 
- - Rendimiento 1 año: +5.7% 
- - Rendimiento 3 años anualizado: +6.9% 
- - Rendimiento 5 años anualizado: +5.4% 
- - Volatilidad: 19.2% 
- - Ratio de Sharpe: 0.31 
- - Comisiones: TER 1.85% (Clase A), 1.25% (Clase I) 
- - Categoría Morningstar: Europe Large Cap, Rating: 3 estrellas 
+- Rendimiento 1 año: +5.7% 
+- Rendimiento 3 años anualizado: +6.9% 
+- Rendimiento 5 años anualizado: +5.4% 
+- Volatilidad: 19.2% 
+- Ratio de Sharpe: 0.31 
+- Comisiones: TER 1.85% (Clase A), 1.25% (Clase I) 
+- Categoría Morningstar: Europe Large Cap, Rating: 3 estrellas 
 
 - **iShares MSCI Europe UCITS ETF (IE00B53QG562)** 
- - Rendimiento 1 año: +8.1% 
- - Rendimiento 3 años anualizado: +7.0% 
- - Rendimiento 5 años anualizado: +6.0% 
- - Volatilidad: 16.1% 
- - Ratio de Sharpe: 0.44 
- - Comisiones: TER 0.40% 
- - Categoría Morningstar: Large Cap Blend Europe, Rating: 3 estrellas 
+- Rendimiento 1 año: +8.1% 
+- Rendimiento 3 años anualizado: +7.0% 
+- Rendimiento 5 años anualizado: +6.0% 
+- Volatilidad: 16.1% 
+- Ratio de Sharpe: 0.44 
+- Comisiones: TER 0.40% 
+- Categoría Morningstar: Large Cap Blend Europe, Rating: 3 estrellas 
 
 *Datos: Morningstar (noviembre 2026). TER real incluye comisiones de gestión y ejecución. Fondos sin clase institucional disponible se indican con "N/D".*
 

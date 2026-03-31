@@ -59,8 +59,7 @@ The risk of donor fallout is particularly acute given the nature of TPUSA's dono
 
 Without primary data to confirm donor sentiments, it is impossible to accurately gauge the impact of the controversy on TPUSA's fundraising efforts. But it is clear that the organization is facing a serious crisis of confidence, and its ability to weather the storm will depend on its ability to address the allegations, restore trust, and demonstrate its commitment to sound financial management.
 
-## 
-
+## The Bottom Line
 The internal strife threatens the future viability of TPUSA. Donors should demand transparency and accountability from TPUSA leadership.
 
 When the pillars crumble, even empires fall.

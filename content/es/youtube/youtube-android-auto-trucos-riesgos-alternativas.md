@@ -37,7 +37,7 @@ Los fabricantes de coches integran pantallas de **12 a 15 pulgadas** en el salpi
 
 ## Los 7 Métodos Documentados (y Sus Riesgos Reales)
 
- los 7 métodos que la comunidad utiliza para ver YouTube en Android Auto. **Ninguno está avalado por Google.** Todos operan en una zona gris técnica y legal.
+los 7 métodos que la comunidad utiliza para ver YouTube en Android Auto. **Ninguno está avalado por Google.** Todos operan en una zona gris técnica y legal.
 
 ### 1. AAAD (Android Auto Apps Downloader)
 

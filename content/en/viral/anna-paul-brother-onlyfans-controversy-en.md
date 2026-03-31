@@ -59,8 +59,7 @@ Testa's allegations have sparked a widespread debate about the responsibilities 
 
 This scandal could potentially trigger a shift in how consumers perceive influencers. A more critical and skeptical approach to influencer content may emerge, with viewers demanding greater accountability and authenticity from the personalities they follow. The fallout from this controversy could reshape the influencer landscape, forcing creators to prioritize genuine connection and ethical practices over superficial popularity. **Money Laundering: 3 Times Social Media Influencers Went Viral** details the possible legal ramifications that social media personalities can face in instances like these.
 
-## 
-
+## The Bottom Line
 Mikaela Testa's allegations, whether true or not, should serve as a cautionary tale for anyone who blindly trusts an influencer. Influencers aren't always what they seem.
 
 Research any financial advice from influencers before acting on it, and seek independent counsel. Verify everything.

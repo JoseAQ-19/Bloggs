@@ -2,9 +2,9 @@
 categories:
 - ia
 date: 2026-02-09 19:17:39
-description: ' Metaverse: The 21st Century Pyramid Scheme  TL;DR (Key Takeaways):     The
-  Metaverse, as envisioned by Meta (formerly Facebook), is failing. Hard.    Billions
-  ...'
+description: ' Metaverse: The 21st Century Pyramid Scheme TL;DR (Key Takeaways): The
+Metaverse, as envisioned by Meta (formerly Facebook), is failing. Hard. Billions
+...'
 draft: false
 featured_image: /images/metaverse-pyramid-scheme.jpg
 language: en
@@ -26,14 +26,14 @@ description: A critical analysis of the Metaverse's rise and fall, examining the
 date: 2024-10-27
 image: images/metaverse-bubble.jpg
 categories:
- - Technology
- - Business
+- Technology
+- Business
 tags:
- - Metaverse
- - Virtual Reality
- - Cryptocurrency
- - Speculative Bubble
- - Meta
+- Metaverse
+- Virtual Reality
+- Cryptocurrency
+- Speculative Bubble
+- Meta
 ---
 
 ![image](images/metaverse-bubble.jpg)

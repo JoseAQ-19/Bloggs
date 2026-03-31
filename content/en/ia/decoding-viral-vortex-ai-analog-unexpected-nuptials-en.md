@@ -3,7 +3,7 @@ categories:
 - viral
 date: 2026-02-11 12:06:15
 description: AI relationships are booming. Are humans marrying AI chatbots? Explore
-  the surprising trend of AI companions, virtual vows, and the future of love.
+the surprising trend of AI companions, virtual vows, and the future of love.
 draft: false
 featured_image: /images/decoding-viral-vortex-ai-analog-unexpected-nuptial.jpg
 language: en

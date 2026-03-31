@@ -76,8 +76,7 @@ Thousands of patients have filed lawsuits against drug producers claiming side e
 
 The SEC's involvement could take several forms, including investigations into fraudulent marketing practices, insider trading, and failure to disclose material risks to investors. Diet pill companies that are found to have misled investors or endangered consumers could face significant fines and penalties.
 
-## 
-
+## The Bottom Line
 The weight loss supplement industry is rife with misleading claims and potential health risks, making it a dubious investment and a dangerous path to weight loss. The promise of quick fixes and miracle cures is a seductive trap, but the reality is that there is no substitute for a healthy diet and regular exercise.
 
 Skip the supplements and invest in a healthy diet and exercise plan instead. It's a better investment.

@@ -20,33 +20,33 @@ Los flujos globales hacia ETFs alcanzaron récords históricos en 2025, superand
 ### Análisis Comparativo de ETFs Innovadores
 
 * **iShares Core MSCI World UCITS ETF (Acc) (IE00B3YLTY66)**:
- * Rendimiento 1 Año: +8.2%
- * Rendimiento 3 Años anualizado: +10.5%
- * Rendimiento 5 Años anualizado: +11.8%
- * Volatilidad (Desviación estándar): 15.3%
- * Ratio de Sharpe: 0.65
- * Comisiones (TER / Expense Ratio): 0.20% (TER real, clase institucional disponible a 0.15%)
+* Rendimiento 1 Año: +8.2%
+* Rendimiento 3 Años anualizado: +10.5%
+* Rendimiento 5 Años anualizado: +11.8%
+* Volatilidad (Desviación estándar): 15.3%
+* Ratio de Sharpe: 0.65
+* Comisiones (TER / Expense Ratio): 0.20% (TER real, clase institucional disponible a 0.15%)
 * **Blackstone Real Assets Long-Duration Fund (BULP)**:
- * Rendimiento 1 Año: +15.7%
- * Rendimiento 3 Años anualizado: +9.2%
- * Rendimiento 5 Años anualizado: +8.9% (N/D)
- * Volatilidad (Desviación estándar): 12.1% (Estimado)
- * Ratio de Sharpe: 0.95 (Estimado)
- * Comisiones (TER / Expense Ratio): 1.45% (TER real, comisión de suscripción aplicable en algunas clases)
+* Rendimiento 1 Año: +15.7%
+* Rendimiento 3 Años anualizado: +9.2%
+* Rendimiento 5 Años anualizado: +8.9% (N/D)
+* Volatilidad (Desviación estándar): 12.1% (Estimado)
+* Ratio de Sharpe: 0.95 (Estimado)
+* Comisiones (TER / Expense Ratio): 1.45% (TER real, comisión de suscripción aplicable en algunas clases)
 * **Franklin FTSEurofirst High Dividend Yield UCITS ETF (DR) (A2JQXJ)**:
- * Rendimiento 1 Año: +5.4%
- * Rendimiento 3 Años anualizado: +6.1%
- * Rendimiento 5 Años anualizado: +5.8%
- * Volatilidad (Desviación estándar): 14.7%
- * Ratio de Sharpe: 0.33
- * Comisiones (TER / Expense Ratio): 0.35% (TER real, clase institucional disponible a 0.25%)
+* Rendimiento 1 Año: +5.4%
+* Rendimiento 3 Años anualizado: +6.1%
+* Rendimiento 5 Años anualizado: +5.8%
+* Volatilidad (Desviación estándar): 14.7%
+* Ratio de Sharpe: 0.33
+* Comisiones (TER / Expense Ratio): 0.35% (TER real, clase institucional disponible a 0.25%)
 * **Amundi MSCI World ESG Leaders UCITS ETF - Dist (DR) (C2M1JX)**:
- * Rendimiento 1 Año: +7.9%
- * Rendimiento 3 Años anualizado: +10.2%
- * Rendimiento 5 Años anualizado: +11.5%
- * Volatilidad (Desviación estándar): 15.0%
- * Ratio de Sharpe: 0.62
- * Comisiones (TER / Expense Ratio): 0.25% (TER real, sin comisión de suscripción/reembolso)
+* Rendimiento 1 Año: +7.9%
+* Rendimiento 3 Años anualizado: +10.2%
+* Rendimiento 5 Años anualizado: +11.5%
+* Volatilidad (Desviación estándar): 15.0%
+* Ratio de Sharpe: 0.62
+* Comisiones (TER / Expense Ratio): 0.25% (TER real, sin comisión de suscripción/reembolso)
 
 *Benchmark Objetivo*: Para los ETFs de renta variable global (iShares Core MSCI World, Amundi MSCI World ESG), el benchmark es el MSCI World. Para el ETF de dividendos (Franklin FTSEurofirst High Dividend), el benchmark es el FTSEurofirst High Dividend Yield Index. Para el Blackstone Real Assets, el benchmark es personalizado y menos transparente. Todos deben evaluarse frente a la inflación europea (HICP) que se situó en el 2.8% anualizado en los últimos 5 años.
 

@@ -16,7 +16,7 @@ translationKey: "b12e28d4-9c4d-a3ec-d742-8e7f881c83cb"
 Bitcoin, Ether, and Solana received new designations as commodities from the Securities and Exchange Commission (SEC), igniting widespread implications for crypto regulation. This pivotal classification may signal a future where cryptocurrencies are treated distinctly from traditional securities, yet the ramifications extend beyond mere classification to the fundamental structure and centralization risks inherent in their ecosystems.
 
 * The SEC has officially classified Bitcoin, Ether, and Solana as commodities, signaling a pivotal shift in cryptocurrency regulation.
- 
+
 * Vitalik Buterin warns that Ethereum's transition to Proof of Stake (PoS) could lead to significant centralization risks, undermining its decentralization (source: Vitalik Buterin).
 
 * Investors in staking programs must prepare for potential regulatory changes, as the SEC's stance may affect the profitability and legality of these services.

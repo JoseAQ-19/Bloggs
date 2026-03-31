@@ -37,7 +37,7 @@ This dependency creates significant financial implications for local governments
 
 The platform's dominance in local news consumption has created a paradox: while YouTube makes government more accessible, it also makes it more vulnerable. When New Hanover County's meetings were temporarily removed for allegedly spreading COVID-19 misinformation—a claim the county vehemently denied—residents lost access to their local government for weeks. YouTube later reinstated the content, but the damage was done.
 
-## Misinformation: The Double-Edged Sword of Streaming Democracy
+## Misinformation: The Risks and Tradeoffs of Streaming Democracy
 
 While streaming promises unprecedented transparency, it simultaneously amplifies misinformation risks through engagement algorithms designed to prioritize sensationalism over accuracy. YouTube's recommendation system—which determines what viewers see next—thrives on controversy and emotional content, creating an environment where misinformation spreads faster than verified facts.
 

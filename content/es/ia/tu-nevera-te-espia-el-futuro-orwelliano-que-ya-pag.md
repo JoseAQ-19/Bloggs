@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-01-28 05:05:44
 description: ¿Está tu nevera conspirando contra ti? El preocupante futuro de la vigilancia
-  doméstica que ya estás pagando. En un mundo cada vez más interconectado, dond.
+doméstica que ya estás pagando. En un mundo cada vez más interconectado, dond.
 draft: false
 featured_image: /images/tu-nevera-te-espia-el-futuro-orwelliano-que-ya-pag.jpg
 language: es

@@ -112,23 +112,23 @@ OpenAI is pivoting hard towards enterprise AI and robotics. They are consolidati
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Sora Just Sparked Ethical Outrage: The Dark Side of AI Video Generation",
-  "description": "Explore the ethical dilemmas ignited by Sora's AI video generation. Uncover the dark side of technology and its impact on creativity and authenticity.",
-  "image": "https://novumworld.com/images/sora-ai-deepfake-fears-ethical-debate-en.jpg",
-  "datePublished": "2026-03-30T23:45:39",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"headline": "Sora Just Sparked Ethical Outrage: The Dark Side of AI Video Generation",
+"description": "Explore the ethical dilemmas ignited by Sora's AI video generation. Uncover the dark side of technology and its impact on creativity and authenticity.",
+"image": "https://novumworld.com/images/sora-ai-deepfake-fears-ethical-debate-en.jpg",
+"datePublished": "2026-03-30T23:45:39",
+"author": {
+"@type": "Organization",
+"name": "NovumWorld Editorial Team"
+},
+"publisher": {
+"@type": "Organization",
+"name": "NovumWorld",
+"logo": {
+"@type": "ImageObject",
+"url": "https://novumworld.com/images/logo.png"
+}
+}
 }
 </script>

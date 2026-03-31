@@ -19,42 +19,42 @@ Los inversores europeos enfrentan un panorama volátil en 2026, marcado por la t
 
 ### Tabla Comparativa: NAO Protea European Equities vs. Pares Relevantes
 * **Fondo:** NAO Protea European Equities (IE00B5KRRJ79)
- * Categoría Morningstar: European Large Cap
- * Rating: 4 Estrellas
- * Rendimiento 1 Año (%): 5.1% (Dato Feb 2026 - Pendiente de confirmación trimestral final)
- * Rendimiento 3 Años Anualizado (%): 7.8%
- * Rendimiento 5 Años Anualizado (%): 8.2%
- * Volatilidad (Desv. Estándar): 14.5%
- * Ratio de Sharpe (5 años): 0.88
- * Comisiones (TER): 1.75% (Clase A EUR) | Clase Inst: 1.50% (Datos verificados en prospecto)
- * Comisión Suscripción: 0% | Comisión Reembolso: 0% (Clase A EUR)
+* Categoría Morningstar: European Large Cap
+* Rating: 4 Estrellas
+* Rendimiento 1 Año (%): 5.1% (Dato Feb 2026 - Pendiente de confirmación trimestral final)
+* Rendimiento 3 Años Anualizado (%): 7.8%
+* Rendimiento 5 Años Anualizado (%): 8.2%
+* Volatilidad (Desv. Estándar): 14.5%
+* Ratio de Sharpe (5 años): 0.88
+* Comisiones (TER): 1.75% (Clase A EUR) | Clase Inst: 1.50% (Datos verificados en prospecto)
+* Comisión Suscripción: 0% | Comisión Reembolso: 0% (Clase A EUR)
 * **Benchmark MSCI Europe (Acciones):**
- * Rendimiento 1 Año (%): 3.8% (Feb 2026)
- * Rendimiento 3 Años Anualizado (%): 6.5%
- * Rendimiento 5 Años Anualizado (%): 7.1%
- * Volatilidad: 15.2%
- * Ratio de Sharpe (5 años): 0.75
- * Comisiones TER (ETF de réplica física): ~0.20%
+* Rendimiento 1 Año (%): 3.8% (Feb 2026)
+* Rendimiento 3 Años Anualizado (%): 6.5%
+* Rendimiento 5 Años Anualizado (%): 7.1%
+* Volatilidad: 15.2%
+* Ratio de Sharpe (5 años): 0.75
+* Comisiones TER (ETF de réplica física): ~0.20%
 * **Competidor Activo: Fidelity European Growth (IE00B9M6SY30)**
- * Categoría Morningstar: European Large Cap
- * Rating: 3 Estrellas
- * Rendimiento 1 Año (%): 4.7%
- * Rendimiento 3 Años Anualizado (%): 6.9%
- * Rendimiento 5 Años Anualizado (%): 7.5%
- * Volatilidad: 16.1%
- * Ratio de Sharpe (5 años): 0.62
- * Comisiones (TER): 1.50% (Clase A EUR) | Clase Inst: 1.25%
- * Comisión Suscripción: 0% | Comisión Reembolso: 0% (Clase A EUR)
+* Categoría Morningstar: European Large Cap
+* Rating: 3 Estrellas
+* Rendimiento 1 Año (%): 4.7%
+* Rendimiento 3 Años Anualizado (%): 6.9%
+* Rendimiento 5 Años Anualizado (%): 7.5%
+* Volatilidad: 16.1%
+* Ratio de Sharpe (5 años): 0.62
+* Comisiones (TER): 1.50% (Clase A EUR) | Clase Inst: 1.25%
+* Comisión Suscripción: 0% | Comisión Reembolso: 0% (Clase A EUR)
 * **Competidor Pasivo: iShares MSCI Europe UCITS ETF (Acciones) (IE00B1YZSC51)**
- * Categoría Morningstar: Large Blend Europe
- * Rating: 4 Estrellas
- * Rendimiento 1 Año (%): 3.9%
- * Rendimiento 3 Años Anualizado (%): 6.5%
- * Rendimiento 5 Años Anualizado (%): 7.1%
- * Volatilidad: 15.1%
- * Ratio de Sharpe (5 años): 0.74
- * Comisiones (TER): 0.20%
- * Comisión Suscripción: 0% | Comisión Reembolso: 0%
+* Categoría Morningstar: Large Blend Europe
+* Rating: 4 Estrellas
+* Rendimiento 1 Año (%): 3.9%
+* Rendimiento 3 Años Anualizado (%): 6.5%
+* Rendimiento 5 Años Anualizado (%): 7.1%
+* Volatilidad: 15.1%
+* Ratio de Sharpe (5 años): 0.74
+* Comisiones (TER): 0.20%
+* Comisión Suscripción: 0% | Comisión Reembolso: 0%
 * **Datos Pendientes de Verificación:** Rendimiento exacto de NAO Protea European Equities en el último trimestre de 2025 y primeros meses de 2026; Ratio de Sharpe más reciente preciso.
 
 ### Análisis del Enfoque y Rendimiento

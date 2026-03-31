@@ -3,8 +3,8 @@ categories:
 - ia
 date: 2026-02-09 19:14:49
 description: 'Vale, aquí vamos. Metaverso: el estercolero digital de las ambiciones
-  fallidas. Agárrate, que esto va a doler.  TL;DR (Resumen Rápido):     El metaverso
-  de Meta...'
+fallidas. Agárrate, que esto va a doler. TL;DR (Resumen Rápido): El metaverso
+de Meta...'
 draft: false
 featured_image: /images/metaverso-muerte-hype.jpg
 language: es

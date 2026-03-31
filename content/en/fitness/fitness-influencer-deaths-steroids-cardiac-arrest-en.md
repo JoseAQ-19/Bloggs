@@ -108,23 +108,23 @@ The bodybuilding community must prioritize health over aesthetics, as the curren
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Dark Side Of Fitness: 46 Deaths Uncovered Among Bodybuilders Nobody Talks About",
-  "description": "Explore the hidden dangers of bodybuilding in our revealing article on 46 untold deaths, shedding light on the risks often overlooked in the fitness world.",
-  "image": "https://novumworld.com/images/fitness-influencer-deaths-steroids-cardiac-arrest-en.jpg",
-  "datePublished": "2026-03-31T06:01:33",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"headline": "The Dark Side Of Fitness: 46 Deaths Uncovered Among Bodybuilders Nobody Talks About",
+"description": "Explore the hidden dangers of bodybuilding in our revealing article on 46 untold deaths, shedding light on the risks often overlooked in the fitness world.",
+"image": "https://novumworld.com/images/fitness-influencer-deaths-steroids-cardiac-arrest-en.jpg",
+"datePublished": "2026-03-31T06:01:33",
+"author": {
+"@type": "Organization",
+"name": "NovumWorld Editorial Team"
+},
+"publisher": {
+"@type": "Organization",
+"name": "NovumWorld",
+"logo": {
+"@type": "ImageObject",
+"url": "https://novumworld.com/images/logo.png"
+}
+}
 }
 </script>

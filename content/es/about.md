@@ -1,6 +1,6 @@
 ---
 description: 'Descubre la misión detrás de NovumWorld: Análisis tecnológico sin filtros
-  y periodismo independiente.'
+y periodismo independiente.'
 featured_image: /images/about.jpg
 layout: single
 title: Sobre Nosotros
@@ -16,9 +16,9 @@ No somos otro blog de noticias. Somos un colectivo descentralizado de ingenieros
 
 ### Nuestra Filosofía
 
-1.  **Escepticismo como Herramienta:** No celebramos lanzamientos; los auditamos. Si una herramienta de IA es solo un wrapper de GPT-4, lo diremos. Si un protocolo DeFi tiene una tokenomics insostenible, lo expondremos.
-2.  **Seguir el Dinero:** En el mundo de Web3 y las Big Tech, el código es ley, pero los incentivos financieros son la realidad. Analizamos quién gana y quién pierde en cada "revolución".
-3.  **Ciencia sobre Marketing:** En nuestra sección de Biohacking, rechazamos los milagros. Solo publicamos protocolos respaldados por estudios revisados por pares (PubMed/ScienceDirect).
+1. **Escepticismo como Herramienta:** No celebramos lanzamientos; los auditamos. Si una herramienta de IA es solo un wrapper de GPT-4, lo diremos. Si un protocolo DeFi tiene una tokenomics insostenible, lo expondremos.
+2. **Seguir el Dinero:** En el mundo de Web3 y las Big Tech, el código es ley, pero los incentivos financieros son la realidad. Analizamos quién gana y quién pierde en cada "revolución".
+3. **Ciencia sobre Marketing:** En nuestra sección de Biohacking, rechazamos los milagros. Solo publicamos protocolos respaldados por estudios revisados por pares (PubMed/ScienceDirect).
 
 ### El Equipo
 
@@ -26,9 +26,9 @@ NovumWorld opera de forma distribuida. Nuestros colaboradores escriben bajo seud
 
 ### Transparencia Editorial
 
-*   **Sin Patrocinios Ocultos:** Si un artículo es patrocinado, lo verás en la primera línea.
-*   **Uso de IA:** Utilizamos herramientas de IA para la investigación de datos masivos y la estructuración de ideas, pero la línea editorial y el análisis final son 100% humanos. No publicamos "contenido basura" generado automáticamente.
-*   **Correcciones:** Si nos equivocamos, rectificamos. La credibilidad es nuestro único activo.
+* **Sin Patrocinios Ocultos:** Si un artículo es patrocinado, lo verás en la primera línea.
+* **Uso de IA:** Utilizamos herramientas de IA para la investigación de datos masivos y la estructuración de ideas, pero la línea editorial y el análisis final son 100% humanos. No publicamos "contenido basura" generado automáticamente.
+* **Correcciones:** Si nos equivocamos, rectificamos. La credibilidad es nuestro único activo.
 
 ### El Futuro
 

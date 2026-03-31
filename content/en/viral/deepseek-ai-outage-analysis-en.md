@@ -103,23 +103,23 @@ DeepSeek is a cautionary tale in the making, proving that you cannot subsidize i
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "96.88 Million Users Impacted: The Shocking Truth Behind DeepSeek AI's Downtime",
-  "description": "Discover the shocking truth behind DeepSeek AI's downtime affecting 96.88 million users. Uncover the reasons and implications in our detailed analysis.",
-  "image": "https://novumworld.com/images/deepseek-ai-outage-analysis-en.jpg",
-  "datePublished": "2026-03-30T22:37:23",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"headline": "96.88 Million Users Impacted: The Shocking Truth Behind DeepSeek AI's Downtime",
+"description": "Discover the shocking truth behind DeepSeek AI's downtime affecting 96.88 million users. Uncover the reasons and implications in our detailed analysis.",
+"image": "https://novumworld.com/images/deepseek-ai-outage-analysis-en.jpg",
+"datePublished": "2026-03-30T22:37:23",
+"author": {
+"@type": "Organization",
+"name": "NovumWorld Editorial Team"
+},
+"publisher": {
+"@type": "Organization",
+"name": "NovumWorld",
+"logo": {
+"@type": "ImageObject",
+"url": "https://novumworld.com/images/logo.png"
+}
+}
 }
 </script>

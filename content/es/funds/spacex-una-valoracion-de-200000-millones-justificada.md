@@ -43,7 +43,7 @@ La valoración de SpaceX también se enfrenta a varios riesgos y desafíos, incl
 
 La valoración de SpaceX es un tema complejo y controvertido. Aunque la empresa tiene un gran potencial, todavía no ha demostrado su capacidad para generar beneficios de manera sostenida. Los riesgos y desafíos asociados con la exploración espacial y la competencia en el mercado de la tecnología espacial también deben ser considerados.
 
- la valoración de SpaceX es un tema que requiere una evaluación cuidadosa y considerada. Aunque la empresa tiene un gran potencial, es importante considerar los riesgos y desafíos involucrados antes de tomar una decisión de inversión.
+la valoración de SpaceX es un tema que requiere una evaluación cuidadosa y considerada. Aunque la empresa tiene un gran potencial, es importante considerar los riesgos y desafíos involucrados antes de tomar una decisión de inversión.
 
 ### Real User FAQs
 

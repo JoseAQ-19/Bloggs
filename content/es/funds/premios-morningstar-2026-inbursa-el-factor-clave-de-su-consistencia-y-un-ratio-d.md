@@ -76,11 +76,11 @@ El BTG ALFA se presenta como una opción atractiva dentro del mercado de fondos 
 **Real User FAQs**
 
 * ¿Cuál es el rendimiento del BTG ALFA en el último año?
- + El BTG ALFA ha demostrado un rendimiento del 12,5% en el último año.
++ El BTG ALFA ha demostrado un rendimiento del 12,5% en el último año.
 * ¿Cuál es el Sharpe Ratio del BTG ALFA?
- + El Sharpe Ratio del BTG ALFA es de 1,5.
++ El Sharpe Ratio del BTG ALFA es de 1,5.
 * ¿Cuál es el TER del BTG ALFA?
- + El TER del BTG ALFA es del 1,2%.
++ El TER del BTG ALFA es del 1,2%.
 
 ---
 

@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-01-27 20:39:39
 description: La sensación de déjà vu es palpable. Otra crisis económica, otra ronda
-  de rescates, otra promesa de 'reconstruir mejor'. Pero, ¿y si estas crisis no fueran.
+de rescates, otra promesa de 'reconstruir mejor'. Pero, ¿y si estas crisis no fueran.
 draft: false
 featured_image: /images/crisis-la-estafa-del-siglo-como-nos-venden-el-derr.jpg
 language: es

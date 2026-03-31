@@ -18,36 +18,36 @@ Los mercados globales han reaccionado con extremo nerviosismo ante la escalada d
 Analicemos tres sectores defensivos con comportamiento contrastado durante crisis geopolíticas, junto con un fondo refugio que ha mantenido rentabilidad positiva del 5% a un año:
 
 - **iShares Aerospace & Defense ETF (ITA)**:
- - Rendimiento 1 año: 12.5%
- - Rendimiento 3 años anualizado: 10.2%
- - Rendimiento 5 años anualizado: 9.8%
- - Volatilidad: 18.4%
- - Ratio Sharpe: 0.53
- - TER: 0.39%
+- Rendimiento 1 año: 12.5%
+- Rendimiento 3 años anualizado: 10.2%
+- Rendimiento 5 años anualizado: 9.8%
+- Volatilidad: 18.4%
+- Ratio Sharpe: 0.53
+- TER: 0.39%
 
 - [Vanguard](https://investor.vanguard.com/):
- - Rendimiento 1 año: 8.3%
- - Rendimiento 3 años anualizado: 7.5%
- - Rendimiento 5 años anualizado: 7.1%
- - Volatilidad: 12.3%
- - Ratio Sharpe: 0.58
- - TER: 0.10%
+- Rendimiento 1 año: 8.3%
+- Rendimiento 3 años anualizado: 7.5%
+- Rendimiento 5 años anualizado: 7.1%
+- Volatilidad: 12.3%
+- Ratio Sharpe: 0.58
+- TER: 0.10%
 
 - **iShares U.S. Healthcare ETF (IYH)**:
- - Rendimiento 1 año: 6.7%
- - Rendimiento 3 años anualizado: 8.1%
- - Rendimiento 5 años anualizado: 8.5%
- - Volatilidad: 14.6%
- - Ratio Sharpe: 0.55
- - TER: 0.43%
+- Rendimiento 1 año: 6.7%
+- Rendimiento 3 años anualizado: 8.1%
+- Rendimiento 5 años anualizado: 8.5%
+- Volatilidad: 14.6%
+- Ratio Sharpe: 0.55
+- TER: 0.43%
 
 - **iShares 20+ Year Treasury Bond ETF (TLT)**:
- - Rendimiento 1 año: 5.2%
- - Rendimiento 3 años anualizado: 4.3%
- - Rendimiento 5 años anualizado: 3.8%
- - Volatilidad: 14.9%
- - Ratio Sharpe: 0.29
- - TER: 0.15%
+- Rendimiento 1 año: 5.2%
+- Rendimiento 3 años anualizado: 4.3%
+- Rendimiento 5 años anualizado: 3.8%
+- Volatilidad: 14.9%
+- Ratio Sharpe: 0.29
+- TER: 0.15%
 
 *Nota: Datos a 1 de julio de 2024. Fuente: Morningstar. El rendimiento de TLT incluye cupones pero no ajusta por inflación, que en España se sitúa en el 3.2%.*
 

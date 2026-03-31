@@ -40,38 +40,38 @@ Si te encuentras luchando contra el fantasma del audio cortado en DaVinci Resolv
 
 1. **Gestión de *Drivers* NVIDIA:**
 
- * Asegúrate de tener instalado el NVIDIA Studio Driver, no el Game Ready Driver. Se recomienda la versión 550.58 o superior.
- * Si una actualización reciente del *driver* causa problemas, revierte a una versión anterior a través del Administrador de Dispositivos.
- * Al actualizar los *drivers*, desinstala primero los antiguos.
+* Asegúrate de tener instalado el NVIDIA Studio Driver, no el Game Ready Driver. Se recomienda la versión 550.58 o superior.
+* Si una actualización reciente del *driver* causa problemas, revierte a una versión anterior a través del Administrador de Dispositivos.
+* Al actualizar los *drivers*, desinstala primero los antiguos.
 2. **Configuración de DaVinci Resolve:**
 
- * En las preferencias de DaVinci Resolve (*Preferencias > Memoria y GPU*), selecciona manualmente el modo de procesamiento de la GPU (OpenCL para AMD/Intel, CUDA para NVIDIA) y asegúrate de que la GPU correcta esté seleccionada. Desactiva la selección "Automática".
- * Limpia la caché de renderización (*Reproducción > Eliminar caché de renderización*). Configura el códec de la caché de renderización (se recomiendan DNxHR o ProRes).
- * Verifica que el dispositivo de salida de audio correcto esté seleccionado en las preferencias de DaVinci Resolve (*Preferencias > Sistema > E/S de audio*). En Mac, selecciona manualmente la salida deseada.
- * Desactiva "*Detener renderizaciones cuando un fotograma o clip no se puede procesar*" en *Preferencias > Usuario > Interfaz*.
- * Asegúrate de que las formas de onda de audio estén habilitadas en las opciones de visualización de la línea de tiempo.
- * Verifica los atributos del clip para asegurarte de que los canales de audio correctos estén seleccionados y no silenciados.
- * Cambia el tipo de pista de audio a Mono.
+* En las preferencias de DaVinci Resolve (*Preferencias > Memoria y GPU*), selecciona manualmente el modo de procesamiento de la GPU (OpenCL para AMD/Intel, CUDA para NVIDIA) y asegúrate de que la GPU correcta esté seleccionada. Desactiva la selección "Automática".
+* Limpia la caché de renderización (*Reproducción > Eliminar caché de renderización*). Configura el códec de la caché de renderización (se recomiendan DNxHR o ProRes).
+* Verifica que el dispositivo de salida de audio correcto esté seleccionado en las preferencias de DaVinci Resolve (*Preferencias > Sistema > E/S de audio*). En Mac, selecciona manualmente la salida deseada.
+* Desactiva "*Detener renderizaciones cuando un fotograma o clip no se puede procesar*" en *Preferencias > Usuario > Interfaz*.
+* Asegúrate de que las formas de onda de audio estén habilitadas en las opciones de visualización de la línea de tiempo.
+* Verifica los atributos del clip para asegurarte de que los canales de audio correctos estén seleccionados y no silenciados.
+* Cambia el tipo de pista de audio a Mono.
 3. **Optimización del Sistema:**
 
- * Asegúrate de que tu sistema cumpla con los requisitos mínimos de DaVinci Resolve.
- * Si encuentras errores de memoria de la GPU, reduce los límites de uso de memoria en las preferencias de DaVinci Resolve (*Preferencias > Sistema > Memoria y GPU*).
- * Habilita la aceleración por *hardware* donde esté disponible.
- * Asegúrate de que haya una refrigeración adecuada para evitar el sobrecalentamiento de la GPU durante la renderización.
- * Fuerza al controlador de audio y al controlador que causa problemas de latencia DPC a trabajar en diferentes núcleos de CPU.
+* Asegúrate de que tu sistema cumpla con los requisitos mínimos de DaVinci Resolve.
+* Si encuentras errores de memoria de la GPU, reduce los límites de uso de memoria en las preferencias de DaVinci Resolve (*Preferencias > Sistema > Memoria y GPU*).
+* Habilita la aceleración por *hardware* donde esté disponible.
+* Asegúrate de que haya una refrigeración adecuada para evitar el sobrecalentamiento de la GPU durante la renderización.
+* Fuerza al controlador de audio y al controlador que causa problemas de latencia DPC a trabajar en diferentes núcleos de CPU.
 4. **Manejo de Medios:**
 
- * Convierte los archivos de audio problemáticos a WAV o AIFF.
- * Genera medios optimizados para mejorar el rendimiento.
- * Reemplaza los archivos de audio o vídeo corruptos.
+* Convierte los archivos de audio problemáticos a WAV o AIFF.
+* Genera medios optimizados para mejorar el rendimiento.
+* Reemplaza los archivos de audio o vídeo corruptos.
 5. **Gestión de Proyectos:**
 
- * Copia la línea de tiempo a un nuevo proyecto.
+* Copia la línea de tiempo a un nuevo proyecto.
 6. **Otras Soluciones:**
 
- * Reinicia DaVinci Resolve.
- * Reinstala DaVinci Resolve como último recurso.
- * Desactiva el inicio rápido en las opciones de energía de Windows.
+* Reinicia DaVinci Resolve.
+* Reinstala DaVinci Resolve como último recurso.
+* Desactiva el inicio rápido en las opciones de energía de Windows.
 
 Implementar estas soluciones puede parecer abrumador, pero es crucial para diagnosticar el problema y solucionarlo de forma independiente. Recuerda que elegir el modo de procesamiento de GPU correcto (OpenCL para AMD/Intel, CUDA para NVIDIA) y seleccionar la tarjeta gráfica correcta en la configuración de DaVinci Resolve es esencial para el correcto funcionamiento.
 
@@ -105,4 +105,4 @@ Además, la integración de la inteligencia artificial en DaVinci Resolve podrí
 
 Además, la IA podría **mejorar la compatibilidad con diferentes formatos de audio y vídeo**, eliminando la necesidad de conversiones manuales y reduciendo la probabilidad de errores. También podría **optimizar el rendimiento del *software***, permitiendo a los usuarios trabajar con proyectos más grandes y complejos sin experimentar cortes de audio u otros problemas.
 
- la integración de la IA en DaVinci Resolve **podría transformar la forma en que se edita el audio**, haciendo que el proceso sea más eficiente, intuitivo y accesible para todos.
+la integración de la IA en DaVinci Resolve **podría transformar la forma en que se edita el audio**, haciendo que el proceso sea más eficiente, intuitivo y accesible para todos.

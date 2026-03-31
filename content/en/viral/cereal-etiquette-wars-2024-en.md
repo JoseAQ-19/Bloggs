@@ -61,8 +61,7 @@ The debate surrounding the proper way to eat cereal, whether with a spoon or a f
 
 The breakfast industry is at a crossroads, requiring both adaptation to evolving trends and innovative strategies to regain consumer trust and enthusiasm. Etiquette may seem a trivial matter, but in the context of a multi-billion dollar market facing disruption, even minor adjustments in how we consume can signal larger shifts in consumer behavior and preferences.
 
-## 
-
+## The Bottom Line
 Team Spoon: Hanson's fork method is a gimmick.
 
 Cereal companies should prioritize healthier options and innovative flavors to win back Gen Z.

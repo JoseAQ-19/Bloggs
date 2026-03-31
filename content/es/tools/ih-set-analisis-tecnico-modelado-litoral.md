@@ -95,23 +95,23 @@ El riesgo aumenta progresivamente. La infraestructura actual no está preparada 
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Controversia Oculta: 40% de la Población Española en Peligro por Erosión Costera",
-  "description": "Descubre cómo el 40% de la población española enfrenta el riesgo de la erosión costera y las medidas necesarias para proteger nuestras costas.",
-  "image": "https://novumworld.com/images/ih-set-analisis-tecnico-modelado-litoral.jpg",
-  "datePublished": "2026-03-31T13:46:57",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"headline": "La Controversia Oculta: 40% de la Población Española en Peligro por Erosión Costera",
+"description": "Descubre cómo el 40% de la población española enfrenta el riesgo de la erosión costera y las medidas necesarias para proteger nuestras costas.",
+"image": "https://novumworld.com/images/ih-set-analisis-tecnico-modelado-litoral.jpg",
+"datePublished": "2026-03-31T13:46:57",
+"author": {
+"@type": "Organization",
+"name": "NovumWorld Editorial Team"
+},
+"publisher": {
+"@type": "Organization",
+"name": "NovumWorld",
+"logo": {
+"@type": "ImageObject",
+"url": "https://novumworld.com/images/logo.png"
+}
+}
 }
 </script>

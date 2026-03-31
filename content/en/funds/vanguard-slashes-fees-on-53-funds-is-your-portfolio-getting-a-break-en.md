@@ -15,9 +15,9 @@ translationKey: "63c08bbd-8aef-226c-555b-9419e88b5f3c"
 
 **Vanguard Slashes Fees on 53 Funds: A 10% Average Reduction Across the Board**
 
-* 53 Vanguard funds have seen fee reductions, with an average decrease of 10% across the board — [Vanguard](https://news.google.com/rss/articles/CBMixwFBVV95cUxOWVBNbzdwUk90NHZTU3BreFBHU1I4M3ZOMHFyV1p1eTdnS3Mzdzc0Y2V1NTJYT2ZIVGpOcTNjTURUTTM5bGRaQUVEZ0xLUGlXMC1sQjF1ZG9xYlFrTXZyc3NBMDJUci1tZ2h0V3VCeDJ1VGNYQktzNEdKZHhnRHBiajB2aHdCbEVRMlcxczVVSm9sTDdseFI1VVJIU1lRZmN2NVZvbGdna3RCYUxRcEZFVVZwYjhWWmNrVkpkQ2ZLRXE1T3VxbTlZ?oc=5)
-* The average expense ratio for Vanguard's US stock funds has dropped to 0.09%, down from 0.10% in 2022 — [Morningstar](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHoxRVprT1FCV2wwYmJSV1BNNTBqcmNNbnZ5eS1FS3p4a2dfSDJQcVppMm9VcG5KbGhDZzlWSzNGVGVZc2FjSk1Xc3gwdXNPOTIyVXl1WHhIQzZDSEh2eVUzZDdlZGtJRTVacjcxTjc0MnFZYzRxU1pkY0ZucnlqX3F0TU1DLUx3U2FCbmgta0NhcjIzRmhjSmMzQzE4SzRTV2ljUE1VQ0RybnRTZ3lWbnh1MV9GVF9vRFIxZ2tB?oc=5)
-* Vanguard's 500 Index Fund (VFIAX) has seen its expense ratio decrease to 0.04%, down from 0.05% in 2022 — [SEC](https://news.google.com/rss/articles/CBMijgFBVV95cUxOVFcyQktUcXhuWlhBQTdLa2RuNUlUeG1LU0QzVExlN0dWZEFqMnF6cmZRaHE1d0V0ZldvR2hNSHBCWTdDU09iM2NhVTZtb0NXQmd3ajdEQVVXbWE5RGVnUV9YMk51M0FvaDg1RXVDZ3U5el9RM0Nwck9jVS1XTmpodGZrVlRPZTVqZUc3QUt3?oc=5)
+* 53 Vanguard funds have seen fee reductions, with an average decrease of 10% across the board — **Vanguard**
+* The average expense ratio for Vanguard's US stock funds has dropped to 0.09%, down from 0.10% in 2022 — **Morningstar**
+* Vanguard's 500 Index Fund (VFIAX) has seen its expense ratio decrease to 0.04%, down from 0.05% in 2022 — **SEC**
 
 The recent fee reductions by Vanguard are a significant development in the investment management industry. With an average decrease of 10% across 53 funds, investors can expect to save on fees, which can have a substantial impact on their returns over the long term.
 
@@ -57,54 +57,54 @@ As John Bogle, founder of Vanguard, noted, "The reduction in fees is a significa
 ### Schema Markup
 
 {
- "@context": "https://schema.org",
- "@type": "NewsArticle",
- "headline": "Vanguard Slashes Fees on 53 Funds: Is Your Portfolio Getting a Break?",
- "description": "Vanguard has reduced fees on 53 funds, with an average decrease of 10% across the board. What does this mean for investors?",
- "author": {
- "@type": "Person",
- "name": "Your Name"
- },
- "datePublished": "2023-03-27",
- "publisher": {
- "@type": "Organization",
- "name": "Your Organization"
- },
- "mainEntityOfPage": {
- "@type": "WebPage",
- "@id": "https://yourwebsite.com/vanguard-slashes-fees-on-53-funds/"
- }
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"headline": "Vanguard Slashes Fees on 53 Funds: Is Your Portfolio Getting a Break?",
+"description": "Vanguard has reduced fees on 53 funds, with an average decrease of 10% across the board. What does this mean for investors?",
+"author": {
+"@type": "Person",
+"name": "Your Name"
+},
+"datePublished": "2023-03-27",
+"publisher": {
+"@type": "Organization",
+"name": "Your Organization"
+},
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://yourwebsite.com/vanguard-slashes-fees-on-53-funds/"
+}
 }
 
 {
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
- {
- "@type": "Question",
- "name": "How will the fee reductions affect my investment returns?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "The fee reductions will result in a decrease in the fees you pay, which can lead to an increase in your returns over the long term."
- }
- },
- {
- "@type": "Question",
- "name": "Are the fee reductions sustainable in the long term?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "The sustainability of the fee reductions depends on the fund's performance. If the fund's performance does not improve significantly, the reduction in fees may not be enough to offset the costs of managing the fund."
- }
- },
- {
- "@type": "Question",
- "name": "Will the reduction in fees lead to a decrease in the quality of the fund's management?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "The reduction in fees may lead to a decrease in the quality of the fund's management if the management team is not adequately compensated."
- }
- }
- ]
+"@context": "https://schema.org",
+"@type": "FAQPage",
+"mainEntity": [
+{
+"@type": "Question",
+"name": "How will the fee reductions affect my investment returns?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "The fee reductions will result in a decrease in the fees you pay, which can lead to an increase in your returns over the long term."
+}
+},
+{
+"@type": "Question",
+"name": "Are the fee reductions sustainable in the long term?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "The sustainability of the fee reductions depends on the fund's performance. If the fund's performance does not improve significantly, the reduction in fees may not be enough to offset the costs of managing the fund."
+}
+},
+{
+"@type": "Question",
+"name": "Will the reduction in fees lead to a decrease in the quality of the fund's management?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "The reduction in fees may lead to a decrease in the quality of the fund's management if the management team is not adequately compensated."
+}
+}
+]
 }
 
 ---

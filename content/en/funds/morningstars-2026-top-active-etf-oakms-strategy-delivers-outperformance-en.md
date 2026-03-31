@@ -17,40 +17,40 @@ Morningstar's designation of OAKMX as its Top Active ETF for 2026 underscores a 
 
 ### Comparative Performance & Metrics (As of Q4 2025)
 * **OAKMX - Oakmark International Fund Investor Shares (Morningstar Category: Foreign Large Blend):**
- * Performance 1 Year: +8.2%
- * Performance 3 Years Annualized: +11.5%
- * Performance 5 Years Annualized: +14.8%
- * Volatility (Std Dev): 16.8%
- * Sharpe Ratio: 0.62
- * Expense Ratio: 0.85% (Investor Shares); Institutional Shares (OAKIX) available at 0.60%
+* Performance 1 Year: +8.2%
+* Performance 3 Years Annualized: +11.5%
+* Performance 5 Years Annualized: +14.8%
+* Volatility (Std Dev): 16.8%
+* Sharpe Ratio: 0.62
+* Expense Ratio: 0.85% (Investor Shares); Institutional Shares (OAKIX) available at 0.60%
 * **SPY - SPDR S&P 500 ETF Trust (Morningstar Category: Large Blend):**
- * Performance 1 Year: +21.6%
- * Performance 3 Years Annualized: +15.0%
- * Performance 5 Years Annualized: +13.1%
- * Volatility (Std Dev): 14.2%
- * Sharpe Ratio: 0.98
- * Expense Ratio: 0.09%
+* Performance 1 Year: +21.6%
+* Performance 3 Years Annualized: +15.0%
+* Performance 5 Years Annualized: +13.1%
+* Volatility (Std Dev): 14.2%
+* Sharpe Ratio: 0.98
+* Expense Ratio: 0.09%
 * **VXUS - Vanguard Total International Stock ETF (Morningstar Category: Foreign Large Blend):**
- * Performance 1 Year: +11.4%
- * Performance 3 Years Annualized: +8.7%
- * Performance 5 Years Annualized: +7.5%
- * Volatility (Std Dev): 13.5%
- * Sharpe Ratio: 0.56
- * Expense Ratio: 0.08%
+* Performance 1 Year: +11.4%
+* Performance 3 Years Annualized: +8.7%
+* Performance 5 Years Annualized: +7.5%
+* Volatility (Std Dev): 13.5%
+* Sharpe Ratio: 0.56
+* Expense Ratio: 0.08%
 * **IWD - iShares Core S&P U.S. Value ETF (Morningstar Category: Large Value):**
- * Performance 1 Year: +17.9%
- * Performance 3 Years Annualized: +12.6%
- * Performance 5 Years Annualized: +11.3%
- * Volatility (Std Dev): 13.1%
- * Sharpe Ratio: 0.74
- * Expense Ratio: 0.03%
+* Performance 1 Year: +17.9%
+* Performance 3 Years Annualized: +12.6%
+* Performance 5 Years Annualized: +11.3%
+* Volatility (Std Dev): 13.1%
+* Sharpe Ratio: 0.74
+* Expense Ratio: 0.03%
 * **QQQ - Invesco QQQ Trust (Morningstar Category: Large Growth):**
- * Performance 1 Year: +28.4%
- * Performance 3 Years Annualized: +18.0%
- * Performance 5 Years Annualized: +16.2%
- * Volatility (Std Dev): 18.5%
- * Sharpe Ratio: 0.84
- * Expense Ratio: 0.20%
+* Performance 1 Year: +28.4%
+* Performance 3 Years Annualized: +18.0%
+* Performance 5 Years Annualized: +16.2%
+* Volatility (Std Dev): 18.5%
+* Sharpe Ratio: 0.84
+* Expense Ratio: 0.20%
 
 *Note: OAKMX star rating pending verification as of Q4 2025. Performance data sourced from Morningstar Direct and fund prospectuses. Benchmark comparisons: OAKMX vs. MSCI ACWI IMI Index (Global benchmark), SPY vs. S&P 500 Index, VXUS vs. MSCI ACWI ex USA Index, IWD vs. Russell 1000 Value Index, QQQ vs. NASDAQ-100 Index. Inflation (CPI) averaged 3.1% over the trailing 12 months.*
 

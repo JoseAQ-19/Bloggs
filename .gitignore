@@ -1,4 +1,5 @@
 .env
+OpenGravity/.env
 SurfSense/
 __pycache__/
 *.pyc

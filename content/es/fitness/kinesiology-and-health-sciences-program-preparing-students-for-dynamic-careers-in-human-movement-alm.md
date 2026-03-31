@@ -3,8 +3,8 @@ categories:
 - fitness
 date: 2026-02-14 09:48:25
 description: ¿Estás buscando una carrera que te permita impactar positivamente la
-  vida de las personas a través del movimiento y la salud? El campo de la kinesiología
-  y las ...
+vida de las personas a través del movimiento y la salud? El campo de la kinesiología
+y las ...
 draft: false
 featured_image: /images/defaults/default-fitness.jpg
 language: es

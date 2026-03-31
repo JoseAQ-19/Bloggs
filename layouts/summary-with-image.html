@@ -13,7 +13,11 @@
         </a>
       </h2>
       <div class="f5 lh-copy mt3 mb4 o-80 measure-wide" style="font-family: var(--font-body); line-height: 1.6;">
-        {{ .Summary }}
+        {{ if .Description }}
+          {{ .Description }}
+        {{ else }}
+          {{ .Summary | plainify | htmlUnescape | truncate 130 }}
+        {{ end }}
       </div>
     </div>
   </div>
@@ -24,6 +28,6 @@
       <span class="f6 fw6 o-60">✍️ {{ . }}</span>
       {{- end -}}
     </div>
-    <a href="{{.RelPermalink}}" class="f7 fw7 ttu tracked br-pill ba ph3 pv2 hover-bg-primary hover-black transition-colors link pointer" style="border-color: var(--primary); color: var(--primary);">{{ T "read_more" | default "Leer más" }}</a>
+    <a href="{{.RelPermalink}}" class="read-more f7 fw7 ttu tracked br-pill ba ph3 pv2 hover-bg-primary hover-black transition-colors link pointer" style="border-color: var(--primary); color: var(--primary);">{{ i18n "read_more" | default "Read more" }}</a>
   </div>
 </article>

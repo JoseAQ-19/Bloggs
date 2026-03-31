@@ -16,7 +16,7 @@ translationKey: "030449c2-5fbf-7faa-33da-435fe48cd7e4"
 En un mercado cada vez más saturado de productos de belleza, la nueva técnica de cobertura hiperespectral ha generado una expectativa casi mágica sobre el maquillaje, prometiendo una piel perfecta sin imperfecciones. Sin embargo, esta promesa ha despertado un debate encarnizado sobre su seguridad y efectividad. 
 
 * En 2024, el 36% de los productos cosméticos notificados como peligrosos en la UE fueron cosméticos, según la Agencia Española de Medicamentos y Productos Sanitarios (AEMPS).
- 
+
 * La industria cosmética en España alcanzó un valor de 11.2 mil millones de euros en 2024, aumentando un 7.7% respecto al año anterior.
 
 * Los consumidores deben ser críticos y consultar a expertos antes de seguir las tendencias virales de maquillaje que pueden afectar su salud mental y física.

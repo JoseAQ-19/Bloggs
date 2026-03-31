@@ -37,7 +37,7 @@ One of the most intriguing aspects of the research is the discrepancy in cardiov
 
 The findings suggest that the source of protein matters. Robert Storey, Professor of Cardiology at the University of Sheffield, stated that this research provides evidence that a high-protein diet might trigger responses in the body that contribute to the risk of heart attack or stroke, as a result of a particular component of protein that is present at higher quantities in animal protein compared with plant proteins. Does this mean vegetarians and vegans have a built-in advantage when it comes to cardiovascular health, or is there more to the story?
 
-## mTOR's Double-Edged Sword: Activation That Can Backfire
+## mTOR's Risks and Tradeoffs: Activation That Can Backfire
 
 The mammalian target of rapamycin (mTOR) is a central regulator of cell growth, proliferation, and survival. In the context of muscle building, mTOR activation is generally seen as a positive thing, as it promotes protein synthesis and muscle hypertrophy. However, the new research suggests that mTOR activation can also have detrimental effects on arterial health. Bettina Mittendorfer, Ph.D., from the University of Missouri, Columbia, collaborated with Razani to investigate the mechanisms by which amino acids trigger disease, noting that macrophages can trigger the development of atherosclerosis.
 

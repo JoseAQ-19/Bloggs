@@ -53,8 +53,7 @@ This raises ethical questions about fairness and equity. Should an airman's care
 
 The Air Force should consider a more holistic approach to evaluating performance, one that takes into account a wide range of factors beyond physical fitness. **Skills and expertise**, after all, are paramount.
 
-## 
-
+## The Bottom Line
 The Air Force's fitness assessment needs a critical overhaul, balancing rigorous standards with tailored programs. The current approach risks perpetuating a cycle of injury, particularly among female airmen, while failing to address the underlying issues of obesity, poor sleep, and inadequate resources. The Air Force should invest in individualized fitness plans incorporating gender-specific training and nutrition guidance, with a strong emphasis on injury prevention.
 
 Fit to fight, not fit to fail.

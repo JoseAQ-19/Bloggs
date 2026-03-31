@@ -3,7 +3,7 @@ categories:
 - ia
 date: 2026-02-10 07:27:41
 description: We got played. Big time. By thinking tech will save us and chasing imaginary
-  riches. The move fast and break things mantra broke us, not the system.
+riches. The move fast and break things mantra broke us, not the system.
 draft: false
 featured_image: /images/monument-naivety-greed.jpg
 language: en

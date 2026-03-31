@@ -16,9 +16,9 @@ translationKey: "f0534539-f6a2-d249-1a08-42e1bd9a7685"
 La proliferación de los 'deepfakes' sexuales ha alcanzado niveles alarmantes en Europa, lo que ha llevado a la Unión Europea a tomar medidas drásticas. En apenas 11 días, usuarios de Grok generaron 3 millones de imágenes sexuales, de las cuales más de 33,000 involucraban a menores. Esta situación ha provocado una respuesta contundente por parte de la Agencia Española de Protección de Datos (AEPD), que ya ha comenzado a imponer sanciones a quienes distribuyen este tipo de contenido.
 
 * La UE ha prohibido la generación de 'deepfakes' sexuales, tras que usuarios de Grok generaran 3 millones de imágenes en solo 11 días, incluyendo 33,000 de menores.
- 
+
 * La AEPD impuso una multa de €2,000 a un individuo por distribuir este tipo de contenido, según reportes de la Agencia Española de Protección de Datos.
- 
+
 * Con la llegada del AI Act de la UE, las plataformas y usuarios enfrentarán nuevas sanciones y responsabilidades legales en la creación de contenido generado por IA.
 
 ## La Prohibición de los 'Deepfakes' Sexuales: Un Debate Caliente sobre la Privacidad y la Ética

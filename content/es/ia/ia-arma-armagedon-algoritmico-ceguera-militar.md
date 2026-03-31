@@ -61,15 +61,15 @@ El 85% de la infraestructura crítica de IA en defensa española depende de hard
 
 ## Preguntas que nadie te responde sobre IA en defensa española
 * **¿Por qué los sistemas de armas autónomas no incluyen redundancia humana real?** 
- Los protocolos actuales requieren supervisión humana solo en decisiones críticas, pero los tiempos de reacción en combate hacen esto inviable. La realidad es que la IA actuará con autonomía completa en escenarios de alta velocidad. 
+Los protocolos actuales requieren supervisión humana solo en decisiones críticas, pero los tiempos de reacción en combate hacen esto inviable. La realidad es que la IA actuará con autonomía completa en escenarios de alta velocidad. 
 * **¿Cómo se verifican los datos de entrenamiento para evitar ataques de envenenamiento?** 
- España carece de protocolos estandarizados. La mayoría de los proyectos utilizan conjuntos de datos públicos sin verificación cruzada. Anthropic recomienda sistemas de "detección de anomalías estadísticas" que no están implementados. 
+España carece de protocolos estandarizados. La mayoría de los proyectos utilizan conjuntos de datos públicos sin verificación cruzada. Anthropic recomienda sistemas de "detección de anomalías estadísticas" que no están implementados. 
 * **¿Qué ocurre si un sistema de IA militar toma una decisión letal equivocada?** 
- La Ley Orgánica del Derecho de Defensa exonera de responsabilidad a desarrolladores y operadores. No existe un marco legal que determine responsabilidad en errores algorítmicos. 
+La Ley Orgánica del Derecho de Defensa exonera de responsabilidad a desarrolladores y operadores. No existe un marco legal que determine responsabilidad en errores algorítmicos. 
 * **¿Por qué España no sigue los estándares de seguridad de EE.UU.?** 
- El GAO-22-104765 establece protocolos de "seguridad por diseño" que España ignora. La respuesta oficial es que son "excesivamente restrictivos", pero la verdad es que implementarlos duplicaría costes. 
+El GAO-22-104765 establece protocolos de "seguridad por diseño" que España ignora. La respuesta oficial es que son "excesivamente restrictivos", pero la verdad es que implementarlos duplicaría costes. 
 * **¿Son realmente necesarios los sistemas de armas autónomas?** 
- Expertos como Salvador Magán de Capgemini afirman que "la tecnología no es responsable; lo es el uso". Pero la carrera armamentista impone innovación sin evaluación de necesidades reales. 
+Expertos como Salvador Magán de Capgemini afirman que "la tecnología no es responsable; lo es el uso". Pero la carrera armamentista impone innovación sin evaluación de necesidades reales. 
 
 ## El veredicto
 España está apostando su seguridad nacional a una burbuja tecnológica. La obsesión por la innovación en IA militar ha cegado a responsables sobre las vulnerabilidades estructurales: dependencia de datos no verificados, sesgos algorítmicos no auditados y seguridad operativa inexistente. **La única solución viable es parar la carrera y construir cimientos.** España debe invertir al menos el 40% de su presupuesto de IA militar en seguridad activa y auditoría ética, no en desarrollar más armas autónomas. La lección de potencias reales es clara: sin seguridad, la tecnología es solo un代价 caro. Defensa ciega, futuro incierto.

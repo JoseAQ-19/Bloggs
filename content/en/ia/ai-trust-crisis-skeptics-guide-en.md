@@ -126,23 +126,23 @@ The AI trust crisis isn't just a PR problem—it's a fundamental market contradi
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "65% Of Americans Distrust Robots: The Alarming AI Trust Crisis Exposed",
-  "description": "Discover why 65% of Americans distrust robots and explore the deepening AI trust crisis that could impact technology's future and society at large.",
-  "image": "https://novumworld.com/images/ai-trust-crisis-skeptics-guide-en.jpg",
-  "datePublished": "2026-03-31T12:04:50",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"headline": "65% Of Americans Distrust Robots: The Alarming AI Trust Crisis Exposed",
+"description": "Discover why 65% of Americans distrust robots and explore the deepening AI trust crisis that could impact technology's future and society at large.",
+"image": "https://novumworld.com/images/ai-trust-crisis-skeptics-guide-en.jpg",
+"datePublished": "2026-03-31T12:04:50",
+"author": {
+"@type": "Organization",
+"name": "NovumWorld Editorial Team"
+},
+"publisher": {
+"@type": "Organization",
+"name": "NovumWorld",
+"logo": {
+"@type": "ImageObject",
+"url": "https://novumworld.com/images/logo.png"
+}
+}
 }
 </script>

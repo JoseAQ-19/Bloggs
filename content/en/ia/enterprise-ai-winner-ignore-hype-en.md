@@ -23,7 +23,7 @@ The tech stock sell-off serves as a brutal reminder that AI hype alone won't gua
 
 ## Software Stocks Slammed by Reality: The $200 Million Wake-Up Call
 
-Last week's software-led tech rout served as a cold splash of reality. Investors were reminded that the AI hype isn't lifting all boats. The dramatic downturn hit software stocks particularly hard, sending shockwaves through the broader tech sector, with some companies experiencing a near freefall [according to **Business Insider**](https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFQ1bDVEWXEyaHVFX0FuVlMtNkFoWkpQRXVCLURQRUlaYWF1NHNzNXRqWENVanZtWFdLR0dhNUt1c2ozNWFxQ281RGZlTkhweC1KTDJ2dzB0SEd6TGoySGxCYnkzM0IwOXdNVEkyV0drRFpPQUUzaGZKU09KYnNSTFU4cUdfUGh5bDRwaTlxZF9lRU1tVGxSVks4X2FKcy1MTGFKeA?oc=5).
+Last week's software-led tech rout served as a cold splash of reality. Investors were reminded that the AI hype isn't lifting all boats. The dramatic downturn hit software stocks particularly hard, sending shockwaves through the broader tech sector, with some companies experiencing a near freefall **according to **Business Insider.
 
 While major indexes have largely rebounded, a lingering sense of unease permeates the market. Investors are bracing for the possibility of further corrections.
 
@@ -41,7 +41,7 @@ Are companies truly realizing tangible benefits from their AI investments, or ar
 
 ## Ignoring Business Fundamentals: The Hidden Cost of AI Innovation
 
-The allure of AI has led some companies to prioritize technological innovation at the expense of basic business practices. This myopic focus on AI, without a solid foundation in fundamental business principles, is a recipe for disaster. It's like building a skyscraper on a swamp. Seattle-area venture capitalists are starting to sing a similar tune [according to **GeekWire**](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb2hTT1ByWldCX2szdzdTdzF3YXBzYnRnS0VYZUt1d1F3T0RUaGFMTGdqT3hudzBlSjl5Q1hYYVBoOEVBazYtbGFqZTJSRnBwemlPc29aMkpXc2VvTEs5STEzVnl1SjdqSTBZcmt3TU9Hd1ZLMWhQeWhlaHVuSWpCMjBEcG9BMkYzRHNiRUsyam9vU1ZGb0F6ajFGTVRsdVJXeEtBbjFScmg3eEc4b2RHbUoxa2trbHFaRTQ0ekpyRy1yODA?oc=5).
+The allure of AI has led some companies to prioritize technological innovation at the expense of basic business practices. This myopic focus on AI, without a solid foundation in fundamental business principles, is a recipe for disaster. It's like building a skyscraper on a swamp. Seattle-area venture capitalists are starting to sing a similar tune **according to **GeekWire.
 
 Venture capitalists argue that startups should ignore the hype, focus on real customer problems, build durable revenue and efficient businesses, and be ready for some market cooling (**GeekWire**). The cautionary tale is clear: chasing AI for AI's sake is a fool's errand.
 
@@ -51,7 +51,7 @@ Successful AI implementation requires a strategic approach rooted in addressing 
 
 The relentless push for AI advancement often overshadows the unglamorous reality of its infrastructural demands. AI's voracious appetite for computing power necessitates massive data centers, which are expensive to build, maintain, and power. This represents a significant bottleneck to widespread AI adoption.
 
-The less sexy the infrastructure, the more brittle the entire ecosystem becomes. Madrona, a venture capital firm, sees the froth clearly [according to **GeekWire**](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb2hTT1ByWldCX2szdzdTdzF3YXBzYnRnS0VYZUt1d1F3T0RUaGFMTGdqT3hudzBlSjl5Q1hYYVBoOEVBazYtbGFqZTJSRnBwemlPc29aMkpXc2VvTEs5STEzVnl1SjdqSTBZcmt3TU9Hd1ZLMWhQeWhlaHVuSWpCMjBEcG9BMkYzRHNiRUsyam9vU1ZGb0F6ajFGTVRsdVJXeEtBbjFScmg3eEc4b2RHbUoxa2trbHFaRTQ0ekpyRy1yODA?oc=5).
+The less sexy the infrastructure, the more brittle the entire ecosystem becomes. Madrona, a venture capital firm, sees the froth clearly **according to **GeekWire.
 
 "There’s clear froth in parts of the AI market, especially in early-stage private valuations where companies are priced well ahead of fundamentals, which fits a classic ‘bubble’ definition," according to Sabrina Albert (Wu), partner at Madrona (**GeekWire**).
 
@@ -61,13 +61,13 @@ Beyond the financial implications, the environmental impact of these data center
 
 Despite the breathless hype surrounding AI, the actual impact on various industries and sectors is likely to be much slower and more incremental than predicted. The transformative changes that many are anticipating may not materialize until well beyond 2026. Investors should temper their expectations.
 
-Investors are already seeing clear signs of excess in AI, especially in early-stage private companies where valuations often outpace real traction [according to **GeekWire**](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb2hTT1ByWldCX2szdzdTdzF3YXBzYnRnS0VYZUt1d1F3T0RUaGFMTGdqT3hudzBlSjl5Q1hYYVBoOEVBazYtbGFqZTJSRnBwemlPc29aMkpXc2VvTEs5STEzVnl1SjdqSTBZcmt3TU9Hd1ZLMWhQeWhlaHVuSWpCMjBEcG9BMkYzRHNiRUsyam9vU1ZGb0F6ajFGTVRsdVJXeEtBbjFScmg3eEc4b2RHbUoxa2trbHFaRTQ0ekpyRy1yODA?oc=5). The technology is still in its nascent stages. Significant hurdles remain to be overcome before AI can truly deliver on its promise.
+Investors are already seeing clear signs of excess in AI, especially in early-stage private companies where valuations often outpace real traction **according to **GeekWire. The technology is still in its nascent stages. Significant hurdles remain to be overcome before AI can truly deliver on its promise.
 
 This includes addressing issues such as data bias, algorithmic transparency, and the ethical implications of autonomous systems. Okoone predicts more than 40% of agentic AI initiatives will be abandoned by 2027 due to vague goals, inflated expectations, and weak risk management. Research from Carnegie Mellon University and Salesforce found that today’s top AI agents fail more than 70% of the time when tested on basic business tasks (**Okoone**).
 
 ## Hypothetical AI Failure: NetApp's AI ROI Debacle
 
-NetApp, a data storage and management company, provides a cautionary (albeit hypothetical, as the URL is inaccessible) tale. Imagine NetApp launched a high-profile AI initiative aimed at optimizing its supply chain and predicting customer demand. The project, hyped as a "major shift," promised to deliver significant cost savings and revenue growth [NetApp blog, *hypothetical*](https://news.google.com/rss/articles/CBMiakFVX3lxTFBWMEFZWkVBR3o3UEhBNHc1bTFwUnZlRUJSV3NjLVBFUnVCU3dESUZMRTc4Q2JZbGYtbEdnMnh6eUNmTlNQYmV1UTFGN29CcDJPRjN1eDBOR05sVG5IeGRCUnZtRVp6c3cwX1E?oc=5).
+NetApp, a data storage and management company, provides a cautionary (albeit hypothetical, as the URL is inaccessible) tale. Imagine NetApp launched a high-profile AI initiative aimed at optimizing its supply chain and predicting customer demand. The project, hyped as a "major shift," promised to deliver significant cost savings and revenue growth **NetApp blog, *hypothetical***.
 
 Behind the scenes, the project was plagued by data quality issues, integration challenges, and a lack of clear business objectives. The AI algorithms, trained on incomplete and biased data, generated inaccurate predictions, leading to inefficient inventory management and missed sales opportunities. The project, which cost millions of dollars, ultimately failed to deliver the promised ROI. NetApp was left with a tarnished reputation and a valuable lesson learned: The AI couldn't overcome garbage in, garbage out.
 

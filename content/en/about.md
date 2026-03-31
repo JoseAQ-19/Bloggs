@@ -1,6 +1,6 @@
 ---
 description: 'Discover the mission behind NovumWorld: Unfiltered tech analysis and
-  independent journalism.'
+independent journalism.'
 featured_image: /images/about.jpg
 layout: single
 title: About Us
@@ -16,9 +16,9 @@ We are not just another tech blog. We are a decentralized collective of engineer
 
 ### Our Philosophy
 
-1.  **Skepticism as a Tool:** We don't celebrate launches; we audit them. If an AI tool is just a GPT-4 wrapper, we will say so. If a DeFi protocol has unsustainable tokenomics, we will expose it.
-2.  **Follow the Money:** In the world of Web3 and Big Tech, code is law, but financial incentives are reality. We analyze who wins and who loses in every "revolution."
-3.  **Science over Marketing:** In our Biohacking section, we reject miracles. We only publish protocols backed by peer-reviewed studies (PubMed/ScienceDirect).
+1. **Skepticism as a Tool:** We don't celebrate launches; we audit them. If an AI tool is just a GPT-4 wrapper, we will say so. If a DeFi protocol has unsustainable tokenomics, we will expose it.
+2. **Follow the Money:** In the world of Web3 and Big Tech, code is law, but financial incentives are reality. We analyze who wins and who loses in every "revolution."
+3. **Science over Marketing:** In our Biohacking section, we reject miracles. We only publish protocols backed by peer-reviewed studies (PubMed/ScienceDirect).
 
 ### The Team
 
@@ -26,9 +26,9 @@ NovumWorld operates in a distributed manner. Our contributors write under pseudo
 
 ### Editorial Transparency
 
-*   **No Hidden Sponsorships:** If an article is sponsored, you will see it in the first line.
-*   **AI Usage:** We use AI tools for massive data research and idea structuring, but the editorial line and final analysis are 100% human. We do not publish automatically generated "junk content."
-*   **Corrections:** If we are wrong, we correct it. Credibility is our only asset.
+* **No Hidden Sponsorships:** If an article is sponsored, you will see it in the first line.
+* **AI Usage:** We use AI tools for massive data research and idea structuring, but the editorial line and final analysis are 100% human. We do not publish automatically generated "junk content."
+* **Corrections:** If we are wrong, we correct it. Credibility is our only asset.
 
 ### The Future
 

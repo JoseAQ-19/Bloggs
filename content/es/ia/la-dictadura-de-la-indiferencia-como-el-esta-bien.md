@@ -41,7 +41,7 @@ El análisis de la Encuesta CEP y otros estudios complementarios identifican var
 * **Inmigración Descontrolada:** La percepción de una inmigración descontrolada en la zona norte del país ha generado tensiones sociales y económicas, alimentando el resentimiento y la desconfianza hacia las instituciones.
 * **Estancamiento Económico:** Las perspectivas sombrías de crecimiento económico, sumadas a una ralentización económica que se arrastra desde 2014, generan incertidumbre y pesimismo sobre el futuro del país.
 
- las instituciones democráticas chilenas no han logrado responder de manera eficiente y eficaz a los problemas que enfrenta el país, lo que ha llevado a una descomposición del horizonte democrático y un aumento de la indiferencia.
+las instituciones democráticas chilenas no han logrado responder de manera eficiente y eficaz a los problemas que enfrenta el país, lo que ha llevado a una descomposición del horizonte democrático y un aumento de la indiferencia.
 
 **Implicaciones para la Democracia**
 

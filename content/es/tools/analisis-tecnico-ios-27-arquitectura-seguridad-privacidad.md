@@ -69,19 +69,19 @@ La optimización energética (15% menos consumo) y velocidad (22% más rápidas 
 
 ## Preguntas Frecuentes 
 * **¿Por qué Apple minimiza el riesgo de sus vulnerabilidades?** 
- Para evitar pánico y mantener confianza en usuarios. Las actualizaciones silencias son estándar en su política de seguridad, pero omiten responsabilidad informática. 
+Para evitar pánico y mantener confianza en usuarios. Las actualizaciones silencias son estándar en su política de seguridad, pero omiten responsabilidad informática. 
 
 * **¿Es realmente seguro el sandboxing de iOS?** 
- No. Las combinaciones de CVEs (como CVE-2025-43300 + CVE-2026-20700) permiten escapes de aislamiento, especialmente en dispositivos no actualizados. 
+No. Las combinaciones de CVEs (como CVE-2025-43300 + CVE-2026-20700) permiten escapes de aislamiento, especialmente en dispositivos no actualizados. 
 
 * **¿Debo preocuparme por las vulnerabilidades zero-day?** 
- Sí, si recibes archivos de fuentes no verificadas o eres objetivo de ataques dirigidos. Las zero-days explotadas en 2025 afectaron principalmente a periodistas y activistas. 
+Sí, si recibes archivos de fuentes no verificadas o eres objetivo de ataques dirigidos. Las zero-days explotadas en 2025 afectaron principalmente a periodistas y activistas. 
 
 * **¿Cómo puedo proteger mi dispositivo?** 
- Actualiza inmediatamente, desactiva "Diagnostics & Improvements", y usa apps para escanear archivos entrantes. Evita abrir imágenes de desconocidos. 
+Actualiza inmediatamente, desactiva "Diagnostics & Improvements", y usa apps para escanear archivos entrantes. Evita abrir imágenes de desconocidos. 
 
 * **¿La privacidad de Apple es mejor que la de Android?** 
- En volumen de datos sí, pero el acceso a patrones de uso es intrínseco a ambos sistemas. GDPR aplica igualmente, pero la ejecución varía. 
+En volumen de datos sí, pero el acceso a patrones de uso es intrínseco a ambos sistemas. GDPR aplica igualmente, pero la ejecución varía. 
 
 ## Nuestra Lectura 
 Apple debe ser radicalmente transparente sobre vulnerabilidades críticas. 

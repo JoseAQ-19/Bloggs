@@ -59,8 +59,7 @@ A 2023 **NCSolutions** survey found that 58% of Gen Z consumers dislike advertis
 
 This requires a comprehensive marketing overhaul that prioritizes authenticity, resonates with Gen Z’s values, and avoids potentially offensive dark humor. Remember Heineken's "Sometimes, Lighter is Better" ad, which was pulled after backlash for racial insensitivity; learning from others' mistakes is essential. The NHLC must embrace a data-driven approach to marketing, leveraging analytics and consumer insights to understand what resonates with its target audience and to measure the effectiveness of its campaigns.
 
-## 
-
+## The Bottom Line
 The New Hampshire Liquor Commission faces a critical juncture. A \$42 million revenue drop is a wake-up call, signaling the need for a fundamental shift in its marketing approach. The state's advantage in lower prices is not enough on its own.
 
 New Hampshire liquor brands need a comprehensive marketing overhaul that prioritizes authenticity, resonates with Gen Z’s values, and avoids potentially offensive dark humor. Brands should implement consumer surveys to find out what messages resonate, and test campaigns on small groups to determine potential backlash. The NHLC needs to be the change it wants to see in the industry.

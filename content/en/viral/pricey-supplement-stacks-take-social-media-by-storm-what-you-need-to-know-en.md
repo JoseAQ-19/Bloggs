@@ -19,7 +19,7 @@ The nootropics market is booming, set to reach an astonishing USD 56.97 billion 
 * Sarah Benson, Postdoctoral Research Fellow at Swinburne University, warns that stacking nootropics could lead to unknown health risks that require more research.
 * The lack of regulation exposes consumers to harmful side effects and questionable efficacy, as evidenced by recent FDA warning letters to companies selling misbranded nootropic products.
 
-## The $15.67 Billion Market Surge: A Double-Edged Sword
+## The $15.67 Billion Market Surge: A Risks and Tradeoffs
 
 The nootropics market's explosive growth is driven by an increasing consumer interest in cognitive enhancement, particularly among professionals in high-stakes environments like Silicon Valley and Wall Street. With an initial valuation of USD 15.67 billion in 2024, North America accounted for approximately 43% of global revenue. The demand for cognitive enhancers is not merely about performance; it's a reflection of a cultural obsession with productivity and efficiency. 
 

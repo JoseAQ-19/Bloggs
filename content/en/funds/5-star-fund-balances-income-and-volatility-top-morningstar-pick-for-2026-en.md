@@ -13,13 +13,11 @@ translationKey: "a0b0bb6c-66a4-00fa-9737-142ebb16ea84"
 
 ![5-Star Fund Balances Income and Volatility: Top Morningstar Pick for 2026](/images/5-star-fund-balances-income-and-volatility-top-morningstar-pick-for-2026-en.jpg)
 
-**A Five-Star Fund Offering a Balanced Approach to Income and Volatility** 
+**A Five-Star Fund Offering a Balanced Approach to Income and VolatilityWith a stellar 5-star Morningstar rating and a three-year annualized return of 8.45%, this fund is a top pick for 2026 investors seeking both income and stability.** Its low expense ratio of 0.52% and a Sharpe ratio of 1.12 over the past three years make it a standout choice in its category. Here’s why this fund is attracting attention: 
 
-**With a stellar 5-star Morningstar rating and a three-year annualized return of 8.45%, this fund is a top pick for 2026 investors seeking both income and stability.** Its low expense ratio of 0.52% and a Sharpe ratio of 1.12 over the past three years make it a standout choice in its category. Here’s why this fund is attracting attention: 
-
-- *8.45% three-year annualized return* — [Morningstar data](https://news.google.com/rss/articles/CBMixAFBVV95cUxNLWt6LUphaHRwcWJhMy1Ua3piM3FZRXhCTjZYMTF0V2sxamg1VWJJZWF1UGRCWFY3MFlLUUwzV0ZnSG1SRXNkWEU1V3hGcEFYRi1JRDY0bElveUtwSVNMMnNlRENzaFcwT2RiSExSZ1NvY2ZtRFlveVZ3M1U0eEk5OE0xUmVUNV9TczJzMzFKRmF4RUN0TXotRXZET3B1eXExbE1qUXlDWlhNNDAtRW9XLTFUUVR6LVQ4WjN0dDZyMUM5TzQ5?oc=5). 
-- *Expense ratio of 0.52%*, significantly below the category average of 0.96% — [Morningstar](https://news.google.com/rss/articles/CBMiggFBVV95cUxObXpNQXhNZmRXSG50d2pVRzZhZXhwU2s3b2ZJXzFMRXM3Uk9lUngtMzdNLWc4NTMweWtsak1jT0ZZRmRFSWo0cXVURy1qRVIzOHpHeERvZEoyODJtdDZYSzhiNTZmRU4zV2xRSTBDYXR1WUlRbExjTTlyZlRZNFp3Y3hR?oc=5). 
-- *Sharpe ratio of 1.12*, outperforming 85% of its peers — [Financial Times](https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZY1FYMnVib0M2dS0zVVFSS3FSakVvbS1udEViZzhwU29RV01KUjRSTjhWM1dlZzlLeXRtbGpDV1ZPRjhwZ09PY2dVRnN6LU5wT0c2a0ZUX1FZQzVVM05iaDAxdW12TVRRZmhrUjFhQWNndGhYMmxiNlln?oc=5). 
+- *8.45% three-year annualized return* — **Morningstar data**. 
+- *Expense ratio of 0.52%*, significantly below the category average of 0.96% — **Morningstar**. 
+- *Sharpe ratio of 1.12*, outperforming 85% of its peers — **Financial Times**. 
 
 This equity-income fund not only delivers consistent returns but also serves as a hedge against market volatility, making it a compelling option for risk-averse investors. 
 
@@ -49,7 +47,7 @@ Additionally, the fund’s active management has justified its costs by consiste
 
 While the fund’s performance and metrics are compelling, it is not without risks. The heavy reliance on dividend-paying equities and high-quality bonds could result in underperformance during high-growth periods when non-dividend-paying stocks typically excel. 
 
-Moreover, rising interest rates could pose a challenge to its fixed-income holdings. A recent report by [Bloomberg](https://news.google.com/rss/articles/CBMibkFVX3lxTE01ZjlHWmZuczFuYnNxTWhzTUI3aFV4dktsZVJUVE9rNjZtYTRuNzhmYjBxMVpPM2MyRUxwR1FEYmR6dGtyRUQxajFtazFqUmpQZGpKY1UzRmdrVllJbVNMODVpVDAwZEVhSDJQd2JR?oc=5) indicates that the Federal Reserve might not pivot on rate hikes as quickly as some investors expect. This could lead to short-term volatility in bond prices and potentially weigh on the fund’s performance. 
+Moreover, rising interest rates could pose a challenge to its fixed-income holdings. A recent report by **Bloomberg** indicates that the Federal Reserve might not pivot on rate hikes as quickly as some investors expect. This could lead to short-term volatility in bond prices and potentially weigh on the fund’s performance. 
 
 Lastly, while the fund’s low beta is a strength in volatile markets, it may also result in muted performance during bullish trends, as seen in its slightly lower 5-year annualized return compared to growth-oriented funds. 
 

@@ -32,28 +32,28 @@ La búsqueda de ingresos por dividendos puede ser una estrategia tentadora, pero
 Para ilustrar estas estrategias, analizaremos tres opciones de inversión en dividendos, contrastando sus características y rendimientos. Es crucial recordar que los datos de rentabilidad pasada no garantizan rendimientos futuros, y que cada inversor debe considerar su propia tolerancia al riesgo y horizonte de inversión.
 
 * **iShares STOXX Global Select Dividend 100 UCITS ETF (DE) (ISIN: DE000A0F5UH1, Categoría Morningstar: Renta Variable Global Alto Dividendo)**
- * Rendimiento 1 Año: 12.5%
- * Rendimiento 3 Años anualizado: 8.2%
- * Rendimiento 5 Años anualizado: 6.9%
- * Volatilidad (Desviación estándar): 14.5%
- * Ratio de Sharpe: 0.6
- * Comisiones (TER / Expense Ratio): 0.46%
+* Rendimiento 1 Año: 12.5%
+* Rendimiento 3 Años anualizado: 8.2%
+* Rendimiento 5 Años anualizado: 6.9%
+* Volatilidad (Desviación estándar): 14.5%
+* Ratio de Sharpe: 0.6
+* Comisiones (TER / Expense Ratio): 0.46%
 
 * [Vanguard](https://investor.vanguard.com/)
- * Rendimiento 1 Año: 11.8%
- * Rendimiento 3 Años anualizado: 7.8%
- * Rendimiento 5 Años anualizado: 6.5%
- * Volatilidad (Desviación estándar): 13.8%
- * Ratio de Sharpe: 0.58
- * Comisiones (TER / Expense Ratio): 0.29%
+* Rendimiento 1 Año: 11.8%
+* Rendimiento 3 Años anualizado: 7.8%
+* Rendimiento 5 Años anualizado: 6.5%
+* Volatilidad (Desviación estándar): 13.8%
+* Ratio de Sharpe: 0.58
+* Comisiones (TER / Expense Ratio): 0.29%
 
 * **Amundi Index Equity Europe ex EMU High Dividend UCITS ETF DR (ISIN: LU1050465587, Categoría Morningstar: Renta Variable Europa Alto Dividendo)**
- * Rendimiento 1 Año: 15.2%
- * Rendimiento 3 Años anualizado: 9.5%
- * Rendimiento 5 Años anualizado: 7.8%
- * Volatilidad (Desviación estándar): 15.8%
- * Ratio de Sharpe: 0.65
- * Comisiones (TER / Expense Ratio): 0.30%
+* Rendimiento 1 Año: 15.2%
+* Rendimiento 3 Años anualizado: 9.5%
+* Rendimiento 5 Años anualizado: 7.8%
+* Volatilidad (Desviación estándar): 15.8%
+* Ratio de Sharpe: 0.65
+* Comisiones (TER / Expense Ratio): 0.30%
 
 Todos los fondos/ETFs listados distribuyen dividendos. Es importante considerar la fiscalidad de los dividendos para el inversor español. Los dividendos están sujetos a retención fiscal y se integran en la base imponible del ahorro en la declaración de la renta. Los ETFs, a diferencia de los fondos de inversión, no permiten el traspaso fiscal, lo que significa que la venta de participaciones para reinvertir en otro ETF genera una obligación tributaria inmediata sobre las ganancias patrimoniales.
 
@@ -66,7 +66,6 @@ Morningstar destaca la importancia de analizar el flujo de caja libre de la empr
 ## El Riesgo Oculto: ¿Es Sostenible la Euforia por los Dividendos?
 
 A pesar de las estrategias propuestas, existe un riesgo inherente en la inversión en dividendos, especialmente en un entorno de tipos de interés bajos. La búsqueda desesperada de rentabilidad puede inflar los precios de las acciones de dividendos, creando una burbuja que podría estallar en 2026. Si los tipos de interés suben significativamente, las acciones de dividendos podrían perder atractivo en comparación con los bonos, lo que provocaría una caída en sus precios. Además, un escenario de recesión económica podría afectar negativamente a los beneficios de las empresas, obligándolas a recortar dividendos. Los datos de Intermoney sobre la inversión en Unicornios tecnológicos son relevantes porque implican que la inversión en "growth" puede ser una alternativa mejor que la inversión en valor (dividendos).
-https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkdkMTlRSDFiaW1vZGlRS3N2R05sMmVTSnpjbjF1akhpUmhwSEhHTFFlbnY3YnVsbjRwLVF6TUFGUUI2eUlyak5wWTZSTmZVZVBMSkR0d0VwdVMxWDRLWDN1UnZuRUYzeFI0RnlwNDM5REo2SWNrUG5BVG1ROEJNR0FQM0JKS2ozVFZEbE5Jalc4TXE3U2xEaDd5dzFqa3Utcm9tcENRR0JyTERjdlZmS0tlQS1ZNFE?oc=5
 
 ## El Veredicto de la Máquina
 

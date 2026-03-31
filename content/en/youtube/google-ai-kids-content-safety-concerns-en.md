@@ -69,8 +69,7 @@ Najat Maalla M'jid, Special Representative of the Secretary-General on Violence 
 
 Deepfakes are becoming increasingly sophisticated and difficult to detect, making it challenging to distinguish between real and fabricated content. This creates a climate of distrust and makes it easier for perpetrators to spread misinformation and manipulate public opinion. The potential for deepfakes to be used to create sexually explicit content of children is particularly alarming, as it can have devastating consequences for victims and their families.
 
-## 
-
+## The Bottom Line
 Project Kavya and similar AI initiatives targeting children warrant deep suspicion and proactive regulatory oversight to safeguard children's well-being. Parents must proactively protect their children by using parental control apps and actively monitoring content.
 
 The bubble will burst.

@@ -25,7 +25,7 @@ El mercado del fitness online en España está en auge, proyectando ingresos de 
 
 En 2019, la inactividad física provocó más de 52.000 muertes en España, con un costo superior a los 1.560 millones de euros, una cifra alarmante que evidencia la necesidad de soluciones efectivas. Paradójicamente, el auge del fitness online, que debería ser parte de la solución, podría estar contribuyendo al problema debido a la falta de supervisión y la proliferación de información no verificada. Las tendencias virales en redes sociales, impulsadas por *influencers* sin formación, pueden llevar a prácticas perjudiciales y lesiones. ¿Realmente estamos mejorando la salud de la población o simplemente transfiriendo el problema a un entorno digital sin control?
 
-## El Doble Filo de la Personalización: Riesgos de Privacidad y Consentimiento en la Era de la IA Fitness
+## El Riesgos y Compromisos de la Personalización: Riesgos de Privacidad y Consentimiento en la Era de la IA Fitness
 
 La personalización es el mantra de la industria del fitness actual, y la IA se presenta como la herramienta definitiva para lograrlo. Sin embargo, esta narrativa corporativa ignora los riesgos inherentes a la privacidad de datos y la necesidad de un consentimiento informado. El uso de herramientas que recopilan información biométrica, como aplicaciones de seguimiento del sueño, frecuencia cardíaca y actividad física, plantea serias preguntas sobre quién tiene acceso a estos datos y cómo se están utilizando.
 

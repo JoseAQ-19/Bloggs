@@ -44,11 +44,11 @@ La llamada "lógica zombi" – beneficios a corto plazo y destrucción a largo p
 La financiarización de la economía es, en gran medida, el resultado de la manipulación monetaria por parte de los bancos centrales. La especulación inmobiliaria es impulsada por las bajas tasas de interés y las políticas de vivienda inflacionarias. La obsolescencia programada es una respuesta a la competencia en un mercado saturado. Culpar al "capitalismo" por estos problemas es como culpar al martillo por el carpintero que construye una casa defectuosa.
 
 * **Causas Reales del Problema:**
- * Intervencionismo estatal desmedido
- * Manipulación monetaria por parte de los bancos centrales
- * Regulaciones asfixiantes que sofocan la innovación
- * Rescates indiscriminados que recompensan la ineficiencia
- * Demonización de la búsqueda de beneficios
+* Intervencionismo estatal desmedido
+* Manipulación monetaria por parte de los bancos centrales
+* Regulaciones asfixiantes que sofocan la innovación
+* Rescates indiscriminados que recompensan la ineficiencia
+* Demonización de la búsqueda de beneficios
 
 ## Superar el "Capitalismo Zombi": La Solución Radicalmente Simple
 

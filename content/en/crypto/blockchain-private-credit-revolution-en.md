@@ -152,7 +152,7 @@ The bid from the ex-Blackstone team represents a pivotal moment for the private 
 ---
 
 <div class="author-box" style="padding: 20px; background-color: #f8f9fa; border-left: 4px solid #0056b3; margin-top: 30px; border-radius: 4px;">
-    <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
+<h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
 
@@ -163,23 +163,23 @@ The bid from the ex-Blackstone team represents a pivotal moment for the private 
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Ex-Blackstone Team's $25M Bid Could Disrupt $3.2 Trillion Private Credit Market",
-  "description": "Discover how the ex-Blackstone team's $25M bid could shake up the $3.2 trillion private credit market and redefine investment strategies.",
-  "image": "https://novumworld.com/images/blockchain-private-credit-revolution-en.jpg",
-  "datePublished": "2026-03-30T18:00:02",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"headline": "Ex-Blackstone Team's $25M Bid Could Disrupt $3.2 Trillion Private Credit Market",
+"description": "Discover how the ex-Blackstone team's $25M bid could shake up the $3.2 trillion private credit market and redefine investment strategies.",
+"image": "https://novumworld.com/images/blockchain-private-credit-revolution-en.jpg",
+"datePublished": "2026-03-30T18:00:02",
+"author": {
+"@type": "Organization",
+"name": "NovumWorld Editorial Team"
+},
+"publisher": {
+"@type": "Organization",
+"name": "NovumWorld",
+"logo": {
+"@type": "ImageObject",
+"url": "https://novumworld.com/images/logo.png"
+}
+}
 }
 </script>

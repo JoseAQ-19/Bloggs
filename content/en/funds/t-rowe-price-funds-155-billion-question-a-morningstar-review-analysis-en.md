@@ -21,44 +21,44 @@ The T. Rowe Price Equity Income Fund (PRIDX), classified by Morningstar in the L
 
 * **T. Rowe Price Equity Income Fund (PRIDX)**
 
- * 1-Year Return: 8.2%
- * 3-Year Annualized Return: 10.5%
- * 5-Year Annualized Return: 9.8%
- * Volatility: 13.2%
- * Sharpe Ratio: 0.74
- * Expense Ratio: 0.68%
+* 1-Year Return: 8.2%
+* 3-Year Annualized Return: 10.5%
+* 5-Year Annualized Return: 9.8%
+* Volatility: 13.2%
+* Sharpe Ratio: 0.74
+* Expense Ratio: 0.68%
 * [Vanguard](https://investor.vanguard.com/)
 
- * 1-Year Return: 11.3%
- * 3-Year Annualized Return: 12.4%
- * 5-Year Annualized Return: 11.7%
- * Volatility: 14.8%
- * Sharpe Ratio: 0.79
- * Expense Ratio: 0.04%
+* 1-Year Return: 11.3%
+* 3-Year Annualized Return: 12.4%
+* 5-Year Annualized Return: 11.7%
+* Volatility: 14.8%
+* Sharpe Ratio: 0.79
+* Expense Ratio: 0.04%
 * **Fidelity Contrafund (FCNTX)**
 
- * 1-Year Return: 9.7%
- * 3-Year Annualized Return: 11.2%
- * 5-Year Annualized Return: 10.5%
- * Volatility: 14.1%
- * Sharpe Ratio: 0.79
- * Expense Ratio: 0.67%
+* 1-Year Return: 9.7%
+* 3-Year Annualized Return: 11.2%
+* 5-Year Annualized Return: 10.5%
+* Volatility: 14.1%
+* Sharpe Ratio: 0.79
+* Expense Ratio: 0.67%
 * **SPDR S&P 500 ETF (SPY)**
 
- * 1-Year Return: 11.3%
- * 3-Year Annualized Return: 12.4%
- * 5-Year Annualized Return: 11.7%
- * Volatility: 14.8%
- * Sharpe Ratio: 0.79
- * Expense Ratio: 0.09%
+* 1-Year Return: 11.3%
+* 3-Year Annualized Return: 12.4%
+* 5-Year Annualized Return: 11.7%
+* Volatility: 14.8%
+* Sharpe Ratio: 0.79
+* Expense Ratio: 0.09%
 * **iShares Core S&P 500 ETF (IVV)**
 
- * 1-Year Return: 11.3%
- * 3-Year Annualized Return: 12.4%
- * 5-Year Annualized Return: 11.7%
- * Volatility: 14.8%
- * Sharpe Ratio: 0.79
- * Expense Ratio: 0.03%
+* 1-Year Return: 11.3%
+* 3-Year Annualized Return: 12.4%
+* 5-Year Annualized Return: 11.7%
+* Volatility: 14.8%
+* Sharpe Ratio: 0.79
+* Expense Ratio: 0.03%
 
 The T. Rowe Price Equity Income Fund, rated 3 stars by Morningstar, has significantly underperformed its benchmark S&P 500 Index over all time periods measured, with the 5-year annualized return of 9.8% trailing the index by 1.9 percentage points. The fund's expense ratio of 0.68% places it at a notable disadvantage compared to the passively managed alternatives, with the lowest-cost Vanguard option at just 0.04%. This difference in expense ratios can significantly impact long-term returns, especially in a market where active management struggles to consistently outperform the index.
 

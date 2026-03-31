@@ -39,7 +39,7 @@ Amouranth reportedly earned $38 million over two years on Kick, a significant in
 
 Kick's financial rewards, including higher revenue splits and signing bonuses, are enticing. It's important to consider factors beyond immediate income, such as platform stability, community engagement, and long-term growth potential. Whether Kick can sustain its current trajectory and provide a viable long-term alternative to Twitch remains to be seen.
 
-It is worth noting that Amouranth has returned to Twitch, suggesting the need to remain on multiple platforms.
+Amouranth has returned to Twitch, suggesting the need to remain on multiple platforms.
 
 ## OnlyFans Remains a Primary Source of Revenue Due to Its Direct-to-Fan Monetization Model
 

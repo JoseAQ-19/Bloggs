@@ -15,7 +15,7 @@ translationKey: "e2631533-0bd2-b42c-44eb-1bd888faf3e1"
 
 YouTube ha anunciado un resumen personalizado para 2025 que la forma en que los usuarios interactúan con la plataforma. Este movimiento estratégico no solo busca captar la atención de los usuarios, sino también transformar la forma en que consumen contenido, en un entorno donde la competencia es feroz. 
 
-* La nueva funcionalidad de resúmenes personalizados será lanzada oficialmente a principios de 2025, según el anuncio de [Susan Wojcicki](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aZzlTU3duYVJpX3BoRmttazd5TUxZMkVKWm5tV1o5eE1NTDBaMnhRQUVULWxQZ3FWcWlrUmVTZU5SbUd6WGtwYW8wMWRnQ252VTZ4STRIaw?oc=5), CEO de YouTube. 
+* La nueva funcionalidad de resúmenes personalizados será lanzada oficialmente a principios de 2025, según el anuncio de **Susan Wojcicki**, CEO de YouTube. 
 
 * Se estima que el 80% de los creadores modificarán su enfoque de contenido como respuesta a estos nuevos algoritmos de personalización.
 
@@ -53,7 +53,7 @@ Los creadores que no se adapten a esta nueva realidad podrían enfrentar una dis
 
 ## Nuestra Opinión
 
-La personalización de YouTube puede ser una espada de doble filo que mejora la experiencia del usuario, pero también plantea serios desafíos. Los usuarios deben estar atentos a sus configuraciones de privacidad y ser críticos con el contenido que consumen. La revolución de YouTube podría ser el próximo gran cambio en el consumo digital, pero la responsabilidad recae en cada uno de nosotros.
+La personalización de YouTube puede ser una espada con riesgos significativos que mejora la experiencia del usuario, pero también plantea serios desafíos. Los usuarios deben estar atentos a sus configuraciones de privacidad y ser críticos con el contenido que consumen. La revolución de YouTube podría ser el próximo gran cambio en el consumo digital, pero la responsabilidad recae en cada uno de nosotros.
 
 La clave está en encontrar un equilibrio entre la personalización y la diversidad informativa. Los algoritmos deben ser diseñados no solo para maximizar el tiempo de visualización, sino también para promover un ecosistema de información saludable. A medida que YouTube avanza hacia un futuro más personalizado, los creadores y los usuarios deben estar preparados para adaptarse a un nuevo paradigma que redefine la forma en que interactuamos con los contenidos.
 

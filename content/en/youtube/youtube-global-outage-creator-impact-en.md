@@ -64,19 +64,19 @@ As one analyst noted following the outage, "Investors need to see more than reve
 ## Frequently Asked Questions: What Creators and Marketers Need to Know
 
 * **Why wasn't there compensation for lost revenue during the outage?** 
- YouTube's terms of service explicitly state they're not liable for service disruptions, leaving creators and advertisers without financial recourse for technical failures.
+YouTube's terms of service explicitly state they're not liable for service disruptions, leaving creators and advertisers without financial recourse for technical failures.
 
 * **How frequently do YouTube outages actually occur?** 
- Downdetector data shows significant YouTube outages approximately 3-4 times yearly, with smaller technical issues occurring weekly, though often affecting smaller user segments.
+Downdetector data shows significant YouTube outages approximately 3-4 times yearly, with smaller technical issues occurring weekly, though often affecting smaller user segments.
 
 * **What happens to my channel if YouTube crashes during a crucial release?** 
- Content releases during outages typically suffer significantly reduced reach and engagement, with no mechanism from YouTube to compensate for lost algorithmic visibility.
+Content releases during outages typically suffer significantly reduced reach and engagement, with no mechanism from YouTube to compensate for lost algorithmic visibility.
 
 * **Are there any viable alternatives for YouTube-dependent businesses?** 
- While platforms like Rumble and BitChute exist, none offer comparable audience scale or monetization capabilities, forcing most creators to accept YouTube's reliability risks.
+While platforms like Rumble and BitChute exist, none offer comparable audience scale or monetization capabilities, forcing most creators to accept YouTube's reliability risks.
 
 * **Will Google invest more in infrastructure after this outage?** 
- History suggests Google will make incremental improvements while continuing to prioritize feature expansion over core stability, as YouTube remains highly profitable despite occasional failures.
+History suggests Google will make incremental improvements while continuing to prioritize feature expansion over core stability, as YouTube remains highly profitable despite occasional failures.
 
 ## The Verdict Is In: YouTube's Fragility Threatens the Creator Economy
 

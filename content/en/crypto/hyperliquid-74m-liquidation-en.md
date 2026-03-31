@@ -59,8 +59,7 @@ Hyperliquid experienced a price manipulation attack in November 2025 using the P
 
 The industry's tendency to prioritize growth over security creates an echo chamber where risks are minimized and vulnerabilities are ignored. This collective myopia could have devastating consequences for the entire DeFi ecosystem.
 
-## 
-
+## The Bottom Line
 Hyperliquid offers an innovative platform, but its vulnerabilities are a stark reminder of the risks inherent in DeFi; proceed with caution.
 
 Reduce leverage and diversify your holdings *before* you need to.

@@ -61,6 +61,5 @@ The question of responsibility is particularly relevant in the context of artifi
 
 Measuring DEI initiatives' effectiveness is important to see how initiatives are moving the needle. Companies in the top quartile for gender diversity are more likely to experience above-average profitability. The challenge is to develop reliable metrics for measuring the impact of DEI initiatives and to use those metrics to drive meaningful change.
 
-## 
-
+## The Bottom Line
 Broadcasters have a responsibility to balance free speech with sensitivity, especially concerning marginalized communities. The incident highlights the need for transparency and consistency in editorial decisions from media outlets. Words matter – even involuntary ones.

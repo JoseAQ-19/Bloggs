@@ -15,9 +15,9 @@ translationKey: "0b5b56c1-0680-bc5d-66af-49ffc34e0935"
 
 **15.6% of Thai mutual funds have surpassed their benchmarks by 15% or more in the past year, with the top performer delivering a 34.6% return**. This remarkable feat has been recognized by the Morningstar Awards for Investing Excellence Thailand 2026, which honors funds that have demonstrated exceptional performance and consistency.
 
-* 34.6% — The 1-year return of the top-performing Thai mutual fund, according to Morningstar [Source](https://news.google.com/rss/articles/CBMizAFBVV95cUxNUlhLdlhmSkE2WmJ5WkFaOU9ZZlZraW9Dal9sRDBkZko0UW5EaGoycFhQVW9FaTVoeE9rS19vNlg3ZDJzbm1IakhQSTJqdlVTX3FBM3ZsN3Rqam5hNzRDaUJDWmdpZnkxVlA1aWxla0dabWxaNE81SE9razV0bURFcTlsZWZKb25yVXl4Mnp3QU5OMlJlb2RPbkIyUVIyamphZjg5SUg2TlpBS2M4TDFnQ2ZEREVkRy1ER1NibVVqakZBTzR1QmZvYllFNkk?oc=5)
-* 15.6% — The percentage of Thai mutual funds that have surpassed their benchmarks by 15% or more in the past year, according to Morningstar [Source](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSE9LX042TGk5TkhtOVU4Zld3VzYzcTJMYU9sTVBUd0g0SVNGU0V3SllmVllSWVVjakppSjFuRzN2d3FIaVNicDNtTTVnRnU0N1Rza1lOdGltT2RIa25QU2dkYXo2VlVyeGFqVjVXNWhsdTdjUTZRRTJXdWQ0ZjhKSmFvd1ZIRnJnaFdyOUlhdmh3NmdVZldyXzg1cGtHMHVNeW1DY2NjbzB3b1RZWkNtMHZRaXlWalFfMG5QVDVXb2RnOHM0NkRER2ZoNVNORzBYNV9pVnN6MGtCamhLbFJGeDVULU01bUNi?oc=5)
-* 10.2% — The average 1-year return of Thai mutual funds, according to Morningstar [Source](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeXhycTJ0bWlLbFdhSjJHb19hYVg2T2lCTW5aWXc3LWpwMmNvQjQ2MFZtOWtyZ2lqNlhrUWY2aTlUVC1ibU0zRzVQVE40ZjhPVV9wSTI0Yk9fQ2tFOXdVNUtmejZOY0gzMjA3TF9CRHA0M2xTVG4tMHgzLS1ZSzktTE1wREVVck9jTlVvOW5IZDdOMEtVRHhEUVdfaXN5YmZ5aG8wVU92T1pJM09OTmRGcnFFbGhxaW04dXVMTEJ4ZnlUVnpkU3ZTWV9RbU9DSXhiUlZZei10Z3F3VndW0gHiAUFVX3lxTE55N0ZxYVJfbFlnaFAzLUc2Tm53cElKM3hVTmo0cmxFTEU4MXYxdGNNMWxETkxWeUNPTlR3MnkwZHdSclR3NjVvMmN6THAwVVZDVmpURjhRWkJjSXpwSzM0aVh2cmJBNHN6dzRGTWpOQmdncHZ2Qlo0dEdZOWRUc0R1WkJTcUZvMDh0YlZDWUxDdWJyekQ5eDFzQ3lmZlBoZVJtWVozZ01jcURucVRpRkRZSDlfNE93Uk8wR0VaRVA4aHkzSlFoQ1Y4d0s0NHRQbl84Z2Uwdnl0MFA0Sml4aVZkNWc?oc=5)
+* 34.6% — The 1-year return of the top-performing Thai mutual fund, according to Morningstar **Source**
+* 15.6% — The percentage of Thai mutual funds that have surpassed their benchmarks by 15% or more in the past year, according to Morningstar **Source**
+* 10.2% — The average 1-year return of Thai mutual funds, according to Morningstar **Source**
 
 ## Performance Analysis
 

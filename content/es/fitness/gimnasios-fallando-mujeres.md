@@ -92,23 +92,23 @@ Los gimnasios españoles están operando con un modelo de negocio del siglo XIX 
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "60% de Retención: La Gran Falta de Gimnasios Para Atraer a Mujeres",
-  "description": "Descubre cómo los gimnasios pueden mejorar su retención femenina. Te revelamos las claves para atraer y mantener a más mujeres en sus instalaciones.",
-  "image": "https://novumworld.com/images/gimnasios-fallando-mujeres.jpg",
-  "datePublished": "2026-03-31T04:57:43",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"headline": "60% de Retención: La Gran Falta de Gimnasios Para Atraer a Mujeres",
+"description": "Descubre cómo los gimnasios pueden mejorar su retención femenina. Te revelamos las claves para atraer y mantener a más mujeres en sus instalaciones.",
+"image": "https://novumworld.com/images/gimnasios-fallando-mujeres.jpg",
+"datePublished": "2026-03-31T04:57:43",
+"author": {
+"@type": "Organization",
+"name": "NovumWorld Editorial Team"
+},
+"publisher": {
+"@type": "Organization",
+"name": "NovumWorld",
+"logo": {
+"@type": "ImageObject",
+"url": "https://novumworld.com/images/logo.png"
+}
+}
 }
 </script>

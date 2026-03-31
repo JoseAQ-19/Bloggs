@@ -59,6 +59,5 @@ Lancaster Fitness Collective focuses on premium experiences and community engage
 
 This model goes beyond just the Lancaster area; it is a blueprint for fitness businesses across the country. Gyms that prioritize DEI, community engagement, and representation are positioned for long-term success, while those that continue to ignore the needs of diverse communities risk becoming obsolete. Lancaster's approach shows that genuine wellness, real results, and authentic representation are not just buzzwords; they are the foundation for a thriving and sustainable fitness industry. It’s no longer just about how many treadmills you have; it’s about who feels welcome using them.
 
-## 
-
+## The Bottom Line
 Gyms that prioritize DEI, especially community-driven spaces, are positioned for long-term success, while ignoring these needs leads to predictable attrition. Seek out Lancaster gyms (or similar approaches elsewhere) and hold them accountable to their promises; after all, fitness is for EVERY body.

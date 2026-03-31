@@ -57,8 +57,7 @@ One key area of impact is data privacy. China has strict data privacy laws that 
 
 The need for transparency and disclosure is another critical consideration. The FTC requires clear and conspicuous disclosure of material connections between influencers and brands. 69% of consumers trust influencer recommendations more than brand ads. This requires clear and conspicuous disclosure of material connections between influencers and brands. US companies must ensure that their influencer campaigns comply with these guidelines in China. The form of compensation does not matter.
 
-## 
-
+## The Bottom Line
 China's crackdown on influencers reflects a broader trend towards greater regulation of the digital economy. While the motivations behind these regulations may be well-intentioned, they raise concerns about censorship, freedom of expression, and the potential stifling of creativity. The "Paul in USA" incident serves as a cautionary tale about the ethical risks of prioritizing profit over privacy. US companies doing business in China should invest in thorough due diligence on influencers, ensuring compliance with both local regulations and US **FTC guidelines**. As Donovan Martin Sr, Editor in Chief at **TDS News**, argues, a more regulated influencer environment reduces noise, lowers the risk of deception, and helps restore trust in online information.
 
 China's market regulator and cyberspace authorities are expected to continue tightening oversight of the livestreaming e-commerce sector and online trading platforms. The country has introduced regulations requiring influencers to have academic training in areas they address, such as finance, health, medicine, law, or education. These influencers need to prove their qualifications. Major Chinese platforms like Douyin, Weibo, and Bilibili are subject to these regulations and must verify the credentials of creators.

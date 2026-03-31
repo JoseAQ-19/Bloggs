@@ -1,12 +1,11 @@
 ---
 description: Legal information on how NovumWorld collects, uses, and protects your
-  personal data.
+personal data.
 draft: false
 featured_image: /images/privacy.jpg
 layout: single
 title: Privacy Policy
 translationKey: privacy
-url: /en/privacy/
 weight: 80
 ---
 
@@ -31,7 +30,7 @@ When you visit our Site, we may automatically collect certain information about 
 
 **We do NOT require registration**, user accounts, or personal sign-ups to access our content. Browsing is entirely free and anonymous.
 
-### 2. Cookies & Third-Party Services
+<h3 id="cookies">2. Cookies & Third-Party Services</h3>
 
 **Google AdSense:**
 We use Google AdSense to display advertisements. Google, as a third-party vendor, uses cookies (including the DoubleClick DART cookie) to serve ads based on your prior visits to our Site and other websites. You may opt out of personalized advertising by visiting [Google Ad Settings](https://adssettings.google.com/).

@@ -18,7 +18,7 @@ translationKey: "eaba692e-3eae-82a8-5ce0-cacbb7577bdd"
 *Call it genius or manipulation, but MrBeast’s viral challenges are not just about entertainment—they’re Trojan Horses for unparalleled marketing strategies.* 
 
 * MrBeast’s sponsorship integrations generate millions per video, with reports estimating up to $3 million in brand deals for a single upload. 
-* His challenges, averaging over 100 million views per video, create massive exposure pipelines for brands (source: [Google News](https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWh0Qi1MQ244TmQ1R0Nrbk5ISk9sOUtiMEZhZEp6YkNPVHh1YmpZRjJ0YVUxTXM4VV9jNWZqUDdVWVl5U2ZuU3J0NTVscDFPYXpFVkIwbEJCSVd0TW1PYWhyU1lDMy1WV09aeVQ3N09sLU9LakpoRDRwTFpBUWtHemtYM0NpRGRfUzFJTG1WczFSelpldmRSYUhhVVQxSThGNVRTVm8zWERNNXhvbm9wWmxkWmFvV0dTT2trYQ?oc=5)). 
+* His challenges, averaging over 100 million views per video, create massive exposure pipelines for brands (source: **Google News**). 
 * His production costs often exceed $500,000 per video, ensuring cinematic quality that keeps viewers addicted and sponsors satisfied. 
 
 ## The Hidden Marketing Mastery Behind MrBeast's Challenges 

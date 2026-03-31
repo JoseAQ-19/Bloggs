@@ -13,7 +13,7 @@ translationKey: "f7ac0fb9-ea01-271f-5951-fafbdcf31a70"
 
 ![Fondos premiados por Morningstar en 2026 con un potencial de retorno del 15%](/images/fondos-premiados-por-morningstar-en-2026-con-un-potencial-de-retorno-del-15.jpg)
 
-Un **40% de los fondos de inversión han superado el índice de referencia en los últimos tres años** — [Morningstar](https://news.google.com/rss/articles/CBMigAJBVV95cUxPUG5aZWNFVDN2MHVmYUE0SmU0VnJSNkU3RklPekxUU2F2WU42T3VDWTRuSS0xOVdwNXZvTjlZeWtpaUlrS3M5V2l3RG85cm1QZGM1bEdtYzd5QXdhNHlKTlRpc3dYY1U0M0dLT2VicEpNaTN0ejlYQW1GcWgwc1BuMkpNbV9HSEkwcURfYXdQV2VMTXdfOXQzQXg2NTh1U0cxd0R0RHhwOThzYmQ3Zmc2RVpSajVWTzRYSFFtSW5nbExYZF9nMHZpV21CaF9GMVFTTmFfN2pVa3VidWpSOVFGMGV1NzJ6UVAyN0kzbG1YV25ITi1lQXJWSWNYYlpheWs40gGAAkFVX3lxTE9QblplY0VUM3YwdWZhQTRKZTRWclI2RTdGSU96TFRTYXZZTjZPdUNZNG5JLTE5V3A1dm9OOVl5a2lpSWtLczlXaXdEbzlybVBkYzVsR21jN3lBd2E0eUpOVGlzd1hjVTQzR0tPZWJwSk1pM3R6OVhBbUZxaDBzUG4ySk1tX0dISTBxRF9hd1BXZUxNd185dDNBeDY1OHVTRzF3RHREeHA5OHNiZDdmZzZFWlJqNVZPNFhIUW1JbmdsTFhkX2cwdmlXbUJoX0YxUVNOYV83alVrdWJ1alI5UUYwZXU3MnpRUDI3STNsbVhXbkhOLWVBclZJY1hiWmF5azg?oc=5).
+Un **40% de los fondos de inversión han superado el índice de referencia en los últimos tres años** — **Morningstar**.
 
 - *15% — Retorno promedio de los fondos premiados por Morningstar en 2026* — [Morningstar](https://www.morningstar.es/es/news/274828/8-etfs-de-renta-fija-para-aprovechar-el-repunte-del-dólar-estadounidense.aspx)
 - *1,2 — Ratio Sharpe promedio de los fondos más destacados* — [Morningstar](https://www.morningstar.es/es/news/274827/meta-aumentan-las-dificultades-legales.aspx)

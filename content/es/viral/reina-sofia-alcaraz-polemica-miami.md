@@ -91,16 +91,16 @@ La industria del análisis no verbal mueve 3.500 millones anuales según **infor
 ## FAQ: Dudas Reales de Usuarios 
 
 * **¿Por qué analizan tanto a la Infanta Sofía?** 
- Porque representa el futuro de la institución, pero su papel es ambiguo: heredero secundaria que necesita destacar sin competir. Este conflicto genera narrativas mediáticas adictivas, explica José Luis Martín Ovejero en su blog de comunicación. 
+Porque representa el futuro de la institución, pero su papel es ambiguo: heredero secundaria que necesita destacar sin competir. Este conflicto genera narrativas mediáticas adictivas, explica José Luis Martín Ovejero en su blog de comunicación. 
 
 * **¿Alcaraz realmente rompió protocolo o fue exageración?** 
- Según fuentes de la Casa Real hablando con El Confidencial, el gesto fue técnicamente una infracción protocolaria leve, pero la reacción viral fue desproporcionada, aprovechada por medios para generar clics. 
+Según fuentes de la Casa Real hablando con El Confidencial, el gesto fue técnicamente una infracción protocolaria leve, pero la reacción viral fue desproporcionada, aprovechada por medios para generar clics. 
 
 * **¿Por qué la Infanta cruzó los brazos? ¿Era rechazo?** 
- Lara Ferreiro, psicóloga especializada en presión mediática, aclara que es una postura defensiva común en figuras públicas bajo escrutinio, no necesariamente rechazo al interlocutor. 
+Lara Ferreiro, psicóloga especializada en presión mediática, aclara que es una postura defensiva común en figuras públicas bajo escrutinio, no necesariamente rechazo al interlocutor. 
 
 * **¿Esto afectará a la imagen de Alcaraz?** 
- Su agente, Albert Moliné, declaró que los patrocinadores valoran su autenticidad más que la formalidad, y que el gesto aumentó su conexión con el público joven en un 30% según encuestas internas. 
+Su agente, Albert Moliné, declaró que los patrocinadores valoran su autenticidad más que la formalidad, y que el gesto aumentó su conexión con el público joven en un 30% según encuestas internas. 
 
 ## Nuestra lectura 
 

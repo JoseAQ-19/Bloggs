@@ -15,9 +15,9 @@ translationKey: "3594939e-e962-da25-9ce1-0b43d9bb3cc2"
 
 **Over the past decade, Vanguard’s S&P 500 ETF (VOO) has delivered a staggering 281% total return, underscoring its dominance in the passive investing space.** Yet, its growing concentration risk raises questions about its risk-adjusted performance in the years ahead.
 
-* 281% total return over 10 years — [source: Morningstar](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMU9lNFZDc2lUTFc2WFFjZXJwQi1kRXdIUGF1dDN0NjRmUWY3WkhZOUdjR1dYRDRoUnJ5bmpLU0FfNU95V19tcDRYZXNsR3kxMVJ0UE5NNVNEVlFpd2hhM2J6ejZNM09BMEV2dmh3cVl2R3dudEZnc3VtWEVLb083YXYxTERIeTNHaWxB?oc=5). 
-* Expense ratio of 0.03% — among the lowest in the industry — [source: Vanguard](https://news.google.com/rss/articles/CBMigAFBVV95cUxONU5pVWJqZ1RjYmhmZDYzVDJnNm5SOE4xaHZDejJKWkNfRVJmYkZ5bm44bjZPYjRxdk5ETnVmWUFNN1Vjel9CVVNZcXNmcGhkQ1FrdlM1Z2ZydTE5RnFrSjN0TzlRYWJxcDhrY0s4MzlHUGZnX0twXzhkMEVBU3h2QQ?oc=5). 
-* Top 10 holdings make up 31% of the portfolio — [source: Financial Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxNY01PRVVnNnFPVWZRaGpXdlRVOVdqNDVJOVRrMDY5dkFTUnd1aFlYNGJveUhjODlGdUw1aW0taUxJeFZsaGVISlhfLW9oZ1puYXpmeWdVNW4tN0JGWGpBbS1UZng0MDJqRWlDZnRSSUlxQ251NlZvMS10MjVoMmlJVWFJSFd1NjJrZ2pJNlZkc2tMQQ?oc=5). 
+* 281% total return over 10 years — **source: Morningstar**. 
+* Expense ratio of 0.03% — among the lowest in the industry — **source: Vanguard**. 
+* Top 10 holdings make up 31% of the portfolio — **source: Financial Times**. 
 
 Despite its low-cost structure and historical outperformance, VOO's reliance on a handful of mega-cap technology stocks — including Apple (7.2%) and Microsoft (6.6%) — poses significant risks. With the S&P 500 increasingly tilted toward Big Tech, the diversification benefits of this flagship ETF may be waning.
 
@@ -25,17 +25,17 @@ Despite its low-cost structure and historical outperformance, VOO's reliance on 
 
 ## VOO's Performance: Stellar Returns, But at What Cost?
 
-VOO has consistently outpaced active management in both returns and cost efficiency. Over a 1-, 3-, and 5-year basis, the fund has produced annualized returns of 21.4%, 12.3%, and 9.1%, respectively, as of Q4 2023 ([source: Morningstar](https://news.google.com/rss/articles/CBMipwFBVV95cUxQQm1TLXI1czkxN1F2MDBrYi1kdUFrcUE5ZHZIdUhpNWdqQ1Q3cnk1eTd6YkNaTUtraHp4NjRJN2pDRGxXWF81c3I1M2ctR3QxRXdESEJ1NmEzT1g2eF9lODF1T2ZQT3Jkd3VMUURrZTdabTE3RDZIREc3YVhqZFRkRmxBcTJWUlJVNWFNcFNsVUJkSEhoR3l6d1FWcHNSSGhxZ1JqWmVtNA?oc=5)). 
+VOO has consistently outpaced active management in both returns and cost efficiency. Over a 1-, 3-, and 5-year basis, the fund has produced annualized returns of 21.4%, 12.3%, and 9.1%, respectively, as of Q4 2023 (**source: Morningstar**). 
 
 However, its Sharpe ratio — a key measure of risk-adjusted return — has declined from 1.24 in 2020 to 0.98 in 2023, reflecting elevated market volatility and concerns over sector concentration. This metric suggests that for every unit of risk, VOO's return premium has narrowed.
 
-The fund's expense ratio of 0.03% remains a hallmark of cost efficiency, significantly undercutting the industry average of 0.41% for U.S. equity ETFs ([source: Financial Times](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWEtZUzJ1Y0JsejVfb1o5VkF5Z3BFdWVwYzdCcEJ6dWJ3N19uOFNoY2VaYnMtUVpLeTdSUE83a3pkTWtOQmpTUm01aEJteWVhNU5n?oc=5)). Over a 10-year horizon, the difference in fees alone could enhance returns by nearly $4,000 on a $100,000 investment.
+The fund's expense ratio of 0.03% remains a hallmark of cost efficiency, significantly undercutting the industry average of 0.41% for U.S. equity ETFs (**source: Financial Times**). Over a 10-year horizon, the difference in fees alone could enhance returns by nearly $4,000 on a $100,000 investment.
 
 ---
 
-## Sector and Concentration Risks: A Double-Edged Sword
+## Sector and Concentration Risks: A Risks and Tradeoffs
 
-While VOO's top-heavy allocation to tech giants has fueled much of its growth, it has also exacerbated its exposure to market downturns, particularly in tech-heavy sell-offs. As of Q4 2023, technology accounts for 28.1% of the ETF's holdings, followed by healthcare (13.4%) and financials (12.2%) ([source: SEC](https://news.google.com/rss/articles/CBMigAFBVV95cUxONU5pVWJqZ1RjYmhmZDYzVDJnNm5SOE4xaHZDejJKWkNfRVJmYkZ5bm44bjZPYjRxdk5ETnVmWUFNN1Vjel9CVVNZcXNmcGhkQ1FrdlM1Z2ZydTE5RnFrSjN0TzlRYWJxcDhrY0s4MzlHUGZnX0twXzhkMEVBU3h2QQ?oc=5)). 
+While VOO's top-heavy allocation to tech giants has fueled much of its growth, it has also exacerbated its exposure to market downturns, particularly in tech-heavy sell-offs. As of Q4 2023, technology accounts for 28.1% of the ETF's holdings, followed by healthcare (13.4%) and financials (12.2%) (**source: SEC**). 
 
 This concentration is not only a source of potential outperformance but also heightened risk. For instance, the top five holdings — Apple, Microsoft, Amazon, Alphabet, and Nvidia — collectively represent over 23% of the ETF. This exposure means that a downturn in these stocks could disproportionately affect overall performance. 
 
@@ -45,7 +45,7 @@ Investment expert Christine Benz, Director of Personal Finance at Morningstar, w
 
 ## Contrarian Angle: Is Passive Still the Best Play?
 
-As the passive investing space becomes more crowded, questions arise about whether ETFs like VOO are still the best vehicles for long-term investors. A recent study by the Investment Company Institute noted that passive funds now account for more than 50% of all U.S. equity fund assets, up from 25% in 2010 ([source: ICI](https://news.google.com/rss/articles/CBMijwFBVV95cUxOLWJYMWRaMHdTSGNwZ3dzUnJzOUd0NjJNYW0xUXpaZDQyTjhVeG0zdDZrNE1fMVRlYU1TM1dIbm1yX041RlVjZXV1ejNPcmsxb2JidkNRenBjUHVFN2dYMi1qaW1sY0VKWmpNSzhwcVMyUzAzNElJalphZmJMbjJybm5ZNFBxQzJ3X2FQMkRkWQ?oc=5)). 
+As the passive investing space becomes more crowded, questions arise about whether ETFs like VOO are still the best vehicles for long-term investors. A recent study by the Investment Company Institute noted that passive funds now account for more than 50% of all U.S. equity fund assets, up from 25% in 2010 (**source: ICI**). 
 
 This trend has raised market efficiency concerns, where passive flows potentially distort asset prices. Moreover, the increased correlation between the ETF and its underlying index suggests diminishing benefits from diversification. Active managers with concentrated, high-conviction portfolios could offer better risk-adjusted returns in this environment.
 
@@ -71,7 +71,7 @@ VOO has a current SEC yield of 1.43%, which may not appeal to income-focused inv
 
 Given VOO’s exceptional track record, it remains a cornerstone for long-term investors seeking low-cost exposure to U.S. equities. However, we recommend periodic portfolio reviews to account for its increasing sector concentration. Pairing VOO with a complementary ETF, such as an equal-weighted index fund, could mitigate concentration risk and enhance diversification.
 
-For those concerned about overexposure to passive strategies, exploring active managers with a proven track record — such as the [Morningstar Award winners](https://news.google.com/rss/articles/CBMikgFBVV95cUxNY01PRVVnNnFPVWZRaGpXdlRVOVdqNDVJOVRrMDY5dkFTUnd1aFlYNGJveUhjODlGdUw1aW0taUxJeFZsaGVISlhfLW9oZ1puYXpmeWdVNW4tN0JGWGpBbS1UZng0MDJqRWlDZnRSSUlxQ251NlZvMS10MjVoMmlJVWFJSFd1NjJrZ2pJNlZkc2tMQQ?oc=5) — could provide a valuable hedge.
+For those concerned about overexposure to passive strategies, exploring active managers with a proven track record — such as the **Morningstar Award winners** — could provide a valuable hedge.
 
 ---
 

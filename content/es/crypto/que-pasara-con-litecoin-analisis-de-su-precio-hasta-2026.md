@@ -21,7 +21,7 @@ Las predicciones optimistas sobre el crecimiento del precio de Litecoin (LTC) en
 
 * Los modelos GRU y LSTM estiman que Litecoin podría alcanzar un precio promedio de $82,18 en noviembre de 2026, según un estudio publicado en **PMC**. 
 * El lanzamiento de LitVM, una solución de segunda capa para contratos inteligentes, promete aumentar la utilidad y el atractivo de Litecoin. 
-* La implementación de la regulación MiCA en Europa, a partir de julio de 2026, podría ser un factor de doble filo para los inversores españoles en criptomonedas. 
+* La implementación de la regulación MiCA en Europa, a partir de julio de 2026, podría ser un factor con riesgos significativos para los inversores españoles en criptomonedas. 
 
 ---
 
@@ -105,7 +105,7 @@ En un mercado tan volátil como el de las criptomonedas, la cautela sigue siendo
 ---
 
 <div class="author-box" style="padding: 20px; background-color: #f8f9fa; border-left: 4px solid #0056b3; margin-top: 30px; border-radius: 4px;">
- <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
+<h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
 ### Artículos Relacionados

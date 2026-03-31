@@ -3,8 +3,8 @@ categories:
 - ia
 date: 2026-01-27 22:11:17
 description: Are tech giants benevolent architects of the future, or modern-day parasites
-  eroding societal foundations? A deep dive into the power, control, and impact of
-  digital elites.
+eroding societal foundations? A deep dive into the power, control, and impact of
+digital elites.
 draft: false
 featured_image: /images/la-elites-digitales-amos-del-mundo-o-nuevos-parasi.jpg
 language: en

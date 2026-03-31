@@ -2,9 +2,9 @@
 categories:
 - ia
 date: 2026-02-11 08:09:36
-description: ' The Unfolding Impact of AI on the American Job Market: Beyond the Hype  I
-  remember the first time I built a simple web scraper in Python. The sheer power
-  of au...'
+description: ' The Unfolding Impact of AI on the American Job Market: Beyond the Hype I
+remember the first time I built a simple web scraper in Python. The sheer power
+of au...'
 draft: false
 featured_image: /images/ai-job-market-impact-america.jpg
 language: en

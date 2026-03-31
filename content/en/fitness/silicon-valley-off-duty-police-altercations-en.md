@@ -69,8 +69,7 @@ The [Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](
 
 The tech sector can also play a role in promoting greater transparency within law enforcement. This includes advocating for the release of police misconduct data, supporting independent investigations of police shootings, and demanding greater public access to body-worn camera footage.
 
-## 
-
+## The Bottom Line
 Law enforcement accountability is not optional; it is essential for maintaining public trust and ensuring the safety and well-being of all communities, regardless of whether an officer is on duty or off duty. The disproportionate impact of police misconduct on Black men demands immediate and comprehensive action. It is not enough to simply acknowledge the problem; we must actively work to prevent and address it.
 
 Demand your local police department implement and transparently report on Early Intervention System outcomes, focusing on reducing disproportionate harm to Black men. Silence is compliance.

@@ -49,8 +49,7 @@ The increasing reliance on data centers casts a shadow over the long-term viabil
 
 Manuel Abecasis, a Goldman Sachs analyst, emphasized that lower-income households will likely feel the brunt of higher electricity costs, particularly in regions with a higher concentration of data centers. This suggests that the very population that might benefit most from energy-efficient appliances could be disproportionately burdened by the rising cost of electricity. This trend calls into question the equity and sustainability of widespread electrification efforts.
 
-## 
-
+## The Bottom Line
 The purported ROI on induction cooktops is a dangerous gamble, heavily dependent on unpredictable electricity prices and expensive repair costs. Before buying, get quotes for induction cooktop repair services in your area and inquire about glass replacement costs.
 
 Buyer, beware.

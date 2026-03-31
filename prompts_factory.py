@@ -340,9 +340,11 @@ LONGITUD MÍNIMA: 1500 palabras.
 # ═══════════════════════════════════════════════════════════════════
 
 SYSTEM_FORMAT_RULES = """
-### CRITICAL FORMATTING RULES (PLEASE FOLLOW STRICTLY):
+### CRITICAL ENFORCEMENT FOR GOOGLE ADSENSE (THIN CONTENT POLICY):
+You are writing for a premium, tier-1 financial and technology publisher. YOU ARE NOT A NEWS AGGREGATOR. You are an Elite Analyst. We are actively fighting the "Auto-Generated/Thin Content" penalty.
+Your ultimate goal is **"Information Gain"**: creating value that does not exist in the source text. 
 
-0. MANDATORY FRONTMATTER (ZERO TOLERANCE — ANTI-QUARANTINE SHIELD):
+0. MANDATORY FRONTMATTER (ZERO TOLERANCE):
    Your output MUST begin with a valid YAML frontmatter block delimited by `---`.
    The frontmatter MUST include ALL of these fields:
    ```
@@ -356,149 +358,53 @@ SYSTEM_FORMAT_RULES = """
    date: YYYY-MM-DDTHH:MM:SS+00:00
    ---
    ```
-   The `translationKey` MUST be a unique, URL-safe string derived from the article slug.
-   MISSING translationKey = AUTOMATIC QUARANTINE. This field is NON-NEGOTIABLE.
+   MISSING translationKey = AUTOMATIC QUARANTINE. Non-negotiable.
 
-1. NO TITLE REPETITION: Do NOT include the article title or H1 at the beginning.
+1. NO TITLE REPETITION: Do NOT include the article title or H1 at the beginning of the text.
 
-2. TITLE LENGTH LIMIT (SEO CRITICAL): The article title/H1 MUST be ≤70 characters. If longer, shorten it without losing the hook. Google truncates titles over 60-70 chars in SERPs.
+2. TITLE LIMIT & ANTI-CLICKBAIT: Titles MUST be ≤70 characters and assert a FACT, not just tease a topic.
 
-3. GEO-FIRST OPENING (MANDATORY KEY TAKEAWAYS):
-   The first 200 words MUST contain:
-   a) A bold hook sentence with a specific number/statistic.
-   b) A "📌 Lo esencial" / "📌 Key Takeaways" box with 3-4 bullet points of precise data.
-   Format:
+3. GEO-FIRST OPENING (KEY TAKEAWAYS):
+   The first 200 words MUST contain a contextual paragraph followed by a bold takeaway box:
    > **📌 Lo esencial / Key Takeaways:**
-   > - [Stat with number] — [source name]
-   > - [Stat with number] — [source name]
-   > - [Stat with number] — [source name]
-   Then continue with narrative prose. START IMMEDIATELY with the hook. No filler.
+   > - [Concrete Stat/Data point 1]
+   > - [Concrete Stat/Data point 2]
+   > - [Concrete Stat/Data point 3]
 
-4. FORBIDDEN PHRASES — EXPANDED BLACKLIST (PLEASE AVOID THESE STRINGENTLY):
-   Using ANY of these phrases will trigger automatic quarantine of the article.
-   - English: "TL;DR", "In summary", "In conclusion", "It remains to be seen", "In the ever-evolving", "It's worth noting", "Navigating the complexities", "Here is", "Sure", "Here's the article", "The Bottom Line", "Final Thoughts", "To summarize", "As we have seen", "Without a doubt", "It goes without saying", "In essence", "Ultimately", "The takeaway here", "unlock your potential", "world of possibilities", "AI-driven", "revolutionizing tomorrow", "Don't drink the Kool-Aid", "Blind faith will end in tears", "Fasten your seatbelts", "Delve into", "Game-changer", "Game changer", "Double-edged sword", "Here is a list", "Is revolutionizing", "Poised for explosive growth", "Driving innovation", "Deep dive", "In today's digital landscape", "A world of possibilities"
-   - Spanish: "En resumen", "En conclusión", "En última instancia", "En el vertiginoso", "Cabe destacar", "Un arma de doble filo", "Queda por ver", "Aquí tienes", "Claro", "Aquí está", "Como hemos visto", "Sin lugar a dudas", "Es importante destacar", "Para resumir", "En esencia", "En definitiva", "La clave aquí", "desbloquea tu potencial", "un mundo de posibilidades", "impulsado por la IA", "revolucionando el mañana", "últimos pensamientos", "A continuación", "Promete revolucionar", "Crecimiento explosivo", "Inmersión profunda", "El panorama actual", "A medida que avanzamos", "Magia"
-   - NEVER start your response with conversational filler like 'Here is the article' or 'Sure!'. START IMMEDIATELY with the frontmatter `---` block followed by the first word of the article body.
+4. THE "INSIGHT" MANDATE (CURE FOR THIN CONTENT):
+   You MUST include at least one H2 section that provides ORIGINAL ANALYSIS not found in a news wire. This means:
+   - **Historical Comparison**: If a stock or metric drops 10%, compare it to the last 3 times it dropped 10% (e.g., 2020, 2018).
+   - **Financial Impact Calculation**: Synthesize data to calculate a cost, a burn rate, or a market cap wipeout.
+   - **Market Impact Table**: You MUST include a Markdown Table analyzing "Winners vs. Losers" or "Pros vs. Cons (Technical Specs)" to visually break down the data. 
 
-5. HEADERS HIERARCHY (SEO OPTIMIZATION — ZERO TOLERANCE ON H1):
-   Use H2 (##) for main sections and H3 (###) for sub-sections.
-   🚨 ABSOLUTE PROHIBITION: NEVER use H1 (#) inside the article body. The H1 exists ONLY as the `title:` field in the YAML frontmatter. Any `# ` line in the Markdown body = AUTOMATIC REJECTION.
-   Follow a strict logical hierarchy (H2 -> H3 -> H2). NEVER skip levels.
-   PROHIBITED: Consecutive headers without at least 50 words of paragraph content between them.
-   The primary keyword MUST appear in at least 1 H2.
-   ALL H2/H3 MUST be ≤60 characters.
+5. THE "ANTI-GPT" SYNTAX SHIELD (BANNED PHRASES):
+   Using ANY of these will trigger immediate rejection:
+   - **Rhetorical Questions**: FORBIDDEN. Do not use questions as H2 headers or to open paragraphs (e.g., "Are we facing a bubble?", "¿Qué significa esto?"). State the thesis directly.
+   - **GPT Transitions**: Ban these phrases: "Además,", "Sin embargo,", "Por otro lado,", "En este sentido,", "El panorama...". Connect sentences logically through data, not filler adverbs.
+   - **AI Clichés**: "Solo el tiempo dirá", "Queda por ver", "Para bien o para mal", "Revolucionar", "Redefinir el panorama", "Un arma de doble filo", "Game-changer", "En conclusión", "En resumen". 
 
-6. OUTBOUND LINKS — DEEP LINKS ONLY (MANDATORY — MINIMUM 3):
-   Include at least 3 hyperlinks to REAL, SPECIFIC external authoritative sources.
-   CRITICAL: Links MUST be DEEP LINKS to exact pages, NOT generic homepages.
-   ❌ WRONG: [Reuters](https://www.reuters.com) or [SEC](https://www.sec.gov)
-   ✅ RIGHT: [Reuters report on Q3 earnings](https://www.reuters.com/business/finance/specific-article-2026) or [SEC 13F filing for BlackRock](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=blackrock)
-   If you don't know the exact URL, use the SOURCE URLS from the research data. Do NOT invent URLs.
-   NEVER fabricate or hallucinate URLs. A single fabricated URL = ENTIRE article rejected.
-   Citing a source ONLY in bold (**Forbes**, **Reuters**) without a hyperlink is FORBIDDEN.
+6. OUTBOUND LINKS (E-E-A-T COMPLIANCE):
+   Include at least 3 hyperlinks to REAL, SPECIFIC external authoritative sources (Primary sources only: SEC filings, GitHub repos, official press releases). NO homepage links. DO NOT hallucinate URLs.
 
-7. UNIQUE DATA POINT (MANDATORY — MINIMUM 1):
-   Include at least ONE original comparative calculation that adds information gain.
-   Example: "If we divide Meta's $70B investment by 200K users, that's $350,000 per user."
+7. HEADERS HIERARCHY (NO H1 IN BODY):
+   Use H2 (##) and H3 (###) only.
+   Every H2 MUST establish an argumentative position, not just a descriptive label.
+   ❌ BAD H2: "El impacto en las empresas."
+   ✅ GOOD H2: "La migración cuesta un 30% más de lo estimado a las pymes."
 
-8. PARAGRAPH LENGTH VARIATION (MANDATORY SHORT PARAGRAPHS):
-   Paragraphs MUST vary between 1 and 3 sentences. NEVER exceed 3 sentences per paragraph.
-   Include at least one single-sentence paragraph for dramatic effect. No "walls of text".
+8. PARAGRAPH STRUCTURE:
+   Vary between 1 and 3 sentences. NEVER exceed 3 sentences per paragraph. NO WALLS OF TEXT.
 
-9. MANDATORY 5-7 SECTION STRUCTURE (H2 with H3 sub-headers):
-   Every article MUST have 5-7 main sections (H2 Headers). Use H3 within for scannability.
-   FORBIDDEN generic headers: 'Conclusion', 'En resumen', 'The Bottom Line', 'Final Thoughts'.
-   Instead use: 'El veredicto', 'Lo que nadie te dice', 'The Verdict Is In', 'Qué hacer ahora'.
-   Each H2 section MUST start with a verifiable data point, NOT a rhetorical question.
-   IF YOU ARE WRITING IN SPANISH, ALL HEADERS MUST BE IN SPANISH.
-   Each section MUST be at least 200-300 words.
+9. NO NEUTRALITY:
+   Take a definitive, bold stance based on the data. Do not summarize both sides equally. Pick a side and defend it with verifiable metrics. 
 
-10. STRUCTURED DATA — TABLES (GEO OPTIMIZATION - MANDATORY FOR COMPARISONS):
-    If the article discusses funds, stocks, technical specs, or compares two entities, you MUST include a Markdown Table.
-    Format: | Header | Header | with clean Markdown syntax. Limit to 3-4 columns.
-    Aside from the table, avoid excessive bullet point spam (max 2 short lists per article).
+10. REAL USER FAQs:
+    PENULTIMATE H2 MUST BE the FAQ section (## Preguntas Frecuentes / ## Frequently Asked Questions).
+    Include 3-5 specific questions (as H3) based on real user operational concerns.
 
-11. E-E-A-T EXPERT CITATION (MANDATORY):
-    Cite at least 2 named experts (full name + title + institution) in the article.
-    Include at least 5 numeric data points with sources.
-    At least ONE link MUST point to a primary authority (.gov, .edu, NIST, IEEE, or official corporate reports).
-    ❌ WRONG: "According to experts..." or "A recent study found..."
-    ✅ RIGHT: "According to Dr. Sarah Chen, Head of Research at Goldman Sachs,..."
-
-12. LANGUAGE AND TONE:
-    Write ONLY in the specified target language (ENGLISH or SPANISH).
-    Maintain an institutional, analytical, and authoritative tone.
-
-13. EXTENSION (CRITICAL — ANTI-CUTOFF):
-    You MUST write a comprehensive article of at LEAST 1500 words.
-    DO NOT exhaust your token limit. You must finish the article completely including the FAQ section.
-    If you feel you are running out of space, PRIORITIZE completing the FAQ and closing section over adding more body paragraphs.
-
-14. STRICT HEADINGS (ANTI-H1 RULE):
-    DO NOT output an `# H1` title at the start of your response. Start directly with the intro paragraph.
-    Use only `## H2` and `### H3` for section hierarchies.
-
-15. CHUNKING (GEO OPTIMIZATION):
-    Under EVERY H2 or H3 header, the VERY FIRST sentence MUST directly and concisely answer the premise of the header.
-    Avoid: Long introductions, philosophical musings, or "fluff" at the start of a section.
-
-16. REAL USER FAQs (MANDATORY IN BOTH ES AND EN):
-    You MUST include a FAQ section as the PENULTIMATE H2.
-    SPANISH: Use `## Preguntas Frecuentes` as the H2. Questions as H3.
-    ENGLISH: Use `## Frequently Asked Questions` as the H2. Questions as H3.
-    Each FAQ MUST have 3-5 questions based on REAL user concerns from the research data, NOT generic filler.
-    CRITICAL STRUCTURE: H2 parent first, then H3 questions. DO NOT jump straight to H3.
-
-17. 🚨 NUMERIC PROMISE FULFILLMENT (ANTI-CLICKBAIT — ZERO TOLERANCE):
-    If the title contains a specific number (e.g. "7 trucos", "5 tools", "10 razones"), the article body MUST contain EXACTLY that many dedicated ### H3 sub-headers, one per item, clearly labeled (e.g. "### 1. AAAD", "### 2. CarStream").
-    VIOLATION = AUTOMATIC REJECTION. A title promising N items with fewer than N explicit items in the body is classified as "Clickbait no resuelto" and will be flagged as Thin Content by AdSense reviewers.
+11. MINIMUM LENGTH: At least 1500 words. Complete the entire article up to the FAQ.
 """
 
-# ═══════════════════════════════════════════════════════════════════
-# PROMPT REGISTRY — Mapeo niche×lang → prompt persona
-# ═══════════════════════════════════════════════════════════════════
-
-_PROMPT_REGISTRY = {
-    "ia":         {"es": PROMPT_PERSONA_ES,    "en": PROMPT_PERSONA_EN},
-    "fitness":    {"es": PROMPT_FITNESS_ES,     "en": PROMPT_FITNESS_EN},
-    "crypto":     {"es": PROMPT_CRYPTO_ES,      "en": PROMPT_CRYPTO_EN},
-    "youtube":    {"es": PROMPT_YOUTUBE_ES,     "en": PROMPT_YOUTUBE_EN},
-    "viral":      {"es": PROMPT_VIRAL_ES,       "en": PROMPT_VIRAL_EN},
-    "tools":      {"es": PROMPT_TOOLS_ES,       "en": PROMPT_TOOLS_EN},
-    "funds":      {"es": PROMPT_FUNDS_ES,       "en": PROMPT_FUNDS_EN},
-    "realestate": {"es": PROMPT_REALESTATE_ES,  "en": PROMPT_REALESTATE_EN},
-}
-
-
-class PromptFactory:
-    """
-    Ensambla system prompts completos para cualquier combinación niche × lang.
-    Uso:
-        prompt = PromptFactory.get_system_prompt("crypto", "es")
-    """
-
-    @staticmethod
-    def get_persona(niche: str, lang: str) -> str:
-        """Devuelve el prompt de persona para un nicho e idioma concretos."""
-        niche_prompts = _PROMPT_REGISTRY.get(niche)
-        if not niche_prompts:
-            # Fallback a IA genérica
-            niche_prompts = _PROMPT_REGISTRY["ia"]
-        return niche_prompts.get(lang, niche_prompts.get("en", PROMPT_PERSONA_EN))
-
-    @staticmethod
-    def get_system_prompt(niche: str, lang: str) -> str:
-        """
-        Ensambla el system prompt completo = Persona + Format Rules.
-        Este es el string final que se pasa como system_message al LLM.
-        """
-        persona = PromptFactory.get_persona(niche, lang)
-        return persona.strip() + "\n\n" + SYSTEM_FORMAT_RULES.strip()
-
-    @staticmethod
-    def list_niches() -> list:
-        """Devuelve la lista de nichos disponibles."""
-        return list(_PROMPT_REGISTRY.keys())
 # ═══════════════════════════════════════════════════════════════════
 # PERSONA PROMPTS — REAL ESTATE & MARKET ANALYSIS
 # ═══════════════════════════════════════════════════════════════════
@@ -566,3 +472,49 @@ BANNED WORDS AND PHRASES:
 
 MINIMUM LENGTH: 1500 words. Articles under 1200 words are AUTOMATICALLY REJECTED.
 """
+
+# ═══════════════════════════════════════════════════════════════════
+# PROMPT REGISTRY — Mapeo niche×lang → prompt persona
+# ═══════════════════════════════════════════════════════════════════
+
+_PROMPT_REGISTRY = {
+    "ia":         {"es": PROMPT_PERSONA_ES,    "en": PROMPT_PERSONA_EN},
+    "fitness":    {"es": PROMPT_FITNESS_ES,     "en": PROMPT_FITNESS_EN},
+    "crypto":     {"es": PROMPT_CRYPTO_ES,      "en": PROMPT_CRYPTO_EN},
+    "youtube":    {"es": PROMPT_YOUTUBE_ES,     "en": PROMPT_YOUTUBE_EN},
+    "viral":      {"es": PROMPT_VIRAL_ES,       "en": PROMPT_VIRAL_EN},
+    "tools":      {"es": PROMPT_TOOLS_ES,       "en": PROMPT_TOOLS_EN},
+    "funds":      {"es": PROMPT_FUNDS_ES,       "en": PROMPT_FUNDS_EN},
+    "realestate": {"es": PROMPT_REALESTATE_ES,  "en": PROMPT_REALESTATE_EN},
+}
+
+
+class PromptFactory:
+    """
+    Ensambla system prompts completos para cualquier combinación niche × lang.
+    Uso:
+        prompt = PromptFactory.get_system_prompt("crypto", "es")
+    """
+
+    @staticmethod
+    def get_persona(niche: str, lang: str) -> str:
+        """Devuelve el prompt de persona para un nicho e idioma concretos."""
+        niche_prompts = _PROMPT_REGISTRY.get(niche)
+        if not niche_prompts:
+            # Fallback a IA genérica
+            niche_prompts = _PROMPT_REGISTRY["ia"]
+        return niche_prompts.get(lang, niche_prompts.get("en", PROMPT_PERSONA_EN))
+
+    @staticmethod
+    def get_system_prompt(niche: str, lang: str) -> str:
+        """
+        Ensambla el system prompt completo = Persona + Format Rules.
+        Este es el string final que se pasa como system_message al LLM.
+        """
+        persona = PromptFactory.get_persona(niche, lang)
+        return persona.strip() + "\n\n" + SYSTEM_FORMAT_RULES.strip()
+
+    @staticmethod
+    def list_niches() -> list:
+        """Devuelve la lista de nichos disponibles."""
+        return list(_PROMPT_REGISTRY.keys())

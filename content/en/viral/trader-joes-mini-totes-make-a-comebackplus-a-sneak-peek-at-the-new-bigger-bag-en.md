@@ -43,7 +43,7 @@ The production process for these bags is not without its costs. The agricultural
 
 Moreover, the resale market inherently fuels a cycle of overconsumption. Consumers purchase these bags not only for their practicality but also for the status they confer. This dichotomy creates a paradox in which the resale of a supposedly eco-friendly item becomes a vehicle for environmental degradation. The bags, once seen as a solution to plastic waste, now contribute to a consumerist cycle that is anything but sustainable.
 
-## The Resale Market as a Double-Edged Sword
+## The Resale Market as a Risks and Tradeoffs
 
 Jamie Tenser, a retail tech marketing strategist, highlights the unintended consequences of Trader Joe's transforming its tote bags into collectibles. The resale market reflects genuine consumer demand, but it also poses risks for the brand. By allowing a secondary market to flourish, Trader Joe's faces the challenge of maintaining its image as a socially responsible business while navigating a landscape rife with exploitation.
 

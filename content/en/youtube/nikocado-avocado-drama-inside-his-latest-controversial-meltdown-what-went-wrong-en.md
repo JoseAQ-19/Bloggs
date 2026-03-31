@@ -69,8 +69,7 @@ As YouTube faces increasing pressure to regulate harmful content, the future of 
 
 The question is whether the mukbang industry can evolve to become more sustainable and ethical — and the honest answer is probably not. This would require a fundamental shift in audience expectations and a willingness from creators to prioritize their health over views. Without such a shift, the mukbang industry is headed for an inevitable reckoning.
 
-## 
-
+## The Bottom Line
 Nikocado Avocado's trajectory demonstrates the unsustainable nature of exploiting personal struggles for views. The pursuit of online fame at the expense of one's physical and mental health is a recipe for disaster. Creators should prioritize their well-being and seek mental health support.
 
 Nikocado Avocado recently made a post stating, “Being gay was fun. But now I'm 35. It's time for a wife and kids.” Some followers welcomed the announcement as a personal decision reflecting maturity and a desire for family life. Others criticised the wording of the statement, arguing that it oversimplifies issues surrounding sexual identity and could reinforce stereotypes about the LGBTQ+ community. Whether this statement is for shock value or marks a change in direction remains to be seen.

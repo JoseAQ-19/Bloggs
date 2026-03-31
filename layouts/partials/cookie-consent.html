@@ -1,14 +1,26 @@
 <div id="cookie-consent-banner" class="cookie-consent-banner" style="display: none;">
     <div class="cookie-content">
         <p>
-            Utilizamos cookies propias y de terceros para personalizar el contenido, analizar nuestro tráfico y mostrar publicidad (AdSense). 
-            Al hacer clic en 'Aceptar', aceptas su uso. Consulta nuestra 
-            <a href="/{{ .Language.Lang }}/privacy/">Política de Privacidad</a> y 
-            <a href="/{{ .Language.Lang }}/privacy/#cookies">Política de Cookies</a>.
+            {{ if eq .Language.Lang "es" }}
+            Utilizamos cookies propias y de terceros para personalizar el contenido, analizar nuestro tráfico y mostrar publicidad (AdSense).
+            Al hacer clic en 'Aceptar', aceptas su uso. Consulta nuestra
+            <a href="/es/privacy/">Política de Privacidad</a> y
+            <a href="/es/privacy/#cookies">Política de Cookies</a>.
+            {{ else }}
+            We use our own and third-party cookies to personalize content, analyze traffic, and display advertising (AdSense).
+            By clicking 'Accept', you consent to their use. See our
+            <a href="/en/privacy/">Privacy Policy</a> and
+            <a href="/en/privacy/#cookies">Cookie Policy</a>.
+            {{ end }}
         </p>
         <div class="cookie-buttons">
+            {{ if eq .Language.Lang "es" }}
             <button id="cookie-accept-all" class="cookie-btn cookie-btn-primary">Aceptar Todo</button>
             <button id="cookie-reject" class="cookie-btn cookie-btn-secondary">Rechazar</button>
+            {{ else }}
+            <button id="cookie-accept-all" class="cookie-btn cookie-btn-primary">Accept All</button>
+            <button id="cookie-reject" class="cookie-btn cookie-btn-secondary">Reject</button>
+            {{ end }}
         </div>
     </div>
 </div>

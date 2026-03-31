@@ -67,8 +67,7 @@ The financial exploitation extends beyond simple sponsorship deals. Fitness infl
 
 The most insidious aspect of this system is how it co-opts legitimate health practices for commercial gain. Concepts like "intuitive eating," "body positivity," and "mental health"—originally developed to help people heal from diet culture—have been repackaged as marketing tactics by fitness brands to sell products. This commercialization dilutes these important concepts, turning them into buzzwords that actually perpetuate the very problems they were designed to solve.
 
-## 
-
+## The Bottom Line
 The fitness influencer ecosystem represents a dangerous intersection of capitalism and public health, where profit motives have superseded genuine concern for well-being. Until platforms and influencers acknowledge their role in creating unrealistic expectations and potentially harmful practices, consumers must develop critical media literacy skills and prioritize evidence-based information over aesthetic ideals.
 
 Unfollow accounts that promote unsustainable practices, question extraordinary transformation claims, and remember that fitness influencers are selling products first and health advice second. Your body is not a canvas for someone else's aesthetic vision, nor is your self-worth determined by social media metrics. True health doesn't come from following someone else's routine—it comes from understanding your own body's needs and respecting them without apology.

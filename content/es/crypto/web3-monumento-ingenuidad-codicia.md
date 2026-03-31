@@ -2,9 +2,9 @@
 categories:
 - ia
 date: 2026-02-10 07:09:56
-description: 'Vale, aquí va mi análisis de Web3. Agárrate que vienen curvas.  TL;DR
-  (Key Takeaways):     Web3: Más humo que otra cosa. Promesas vacías envueltas en
-  jerga técn...'
+description: 'Vale, aquí va mi análisis de Web3. Agárrate que vienen curvas. TL;DR
+(Key Takeaways): Web3: Más humo que otra cosa. Promesas vacías envueltas en
+jerga técn...'
 draft: false
 featured_image: /images/web3-monumento-ingenuidad-codicia.jpg
 language: es

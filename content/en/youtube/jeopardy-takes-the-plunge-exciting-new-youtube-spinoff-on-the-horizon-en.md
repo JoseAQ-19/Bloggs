@@ -44,7 +44,7 @@ David Ferrucci, the former leader of the IBM Watson team that famously defeated 
 
 Overfitting represents particularly acute risks in quiz show contexts where precision is paramount. While IBM Watson defeated human champions in 2011, even the advanced system missed a crucial "Final Jeopardy!" clue about U.S. cities, demonstrating that no AI is infallible. As generative AI systems become more prevalent in question generation, these vulnerabilities could multiply, potentially eroding the trust that audiences place in Jeopardy!'s factual accuracy.
 
-## The Bias Dilemma: AI's Double-Edged Sword
+## The Bias Dilemma: AI's Risks and Tradeoffs
 
 Generative AI question-generation systems inherit and amplify biases present in their training data, creating skewed content that disadvantages certain groups while privileging others. These algorithmic blindspots manifest in uneven question distributions, topic selections, and phrasing that reflect the cultural biases embedded in the datasets used to train AI models.
 

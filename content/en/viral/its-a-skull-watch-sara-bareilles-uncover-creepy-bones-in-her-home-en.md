@@ -16,7 +16,7 @@ translationKey: "e0f3d097-5059-363b-ee9b-324f75796666"
 AI agents could change your life — if they don’t ruin it first. The recent uproar over TikTok’s “AI agents,” a feature where users can interact with AI-generated characters, exposes deeper issues about our relationship with technology and the inherent risks of algorithmic culture.
 
 * AI agents promise to redefine digital interaction, yet 64% of users express concerns about privacy and data security, according to a Pew Research survey.
- 
+
 * The global AI market is expected to reach $390 billion by 2025, highlighting a growing reliance on technology for personal connections and interactions.
 
 * TikTok's user engagement has surged by 20% since the introduction of AI agents, but experts warn that this might lead to emotional detachment from real human relationships.

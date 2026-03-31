@@ -15,8 +15,7 @@ translationKey: "b40e69d6-ccb6-0c3e-7647-a1a4fcfbc5ea"
 
 Un 30% de Access Capital Partners ha sido adquirido por Bankinter y Plenium Partners, lo que significa un movimiento estratégico significativo en el mercado de gestión de activos. 
 
-* [30% de participación adquirida — Morningstar](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVlmUU5qdXViZmF6bGpMZ0IyVXRiTkU0RGFYN2s5TkVFcWsxNUp0MEV1WnJBeEk3MWxZU01UX0JnSUlacjYwZjFYVlcySG1zajdVMzc3ck84c2F5bE9EaUJ0R3g3Ylh2SEdxRmtvbDBNZjRHbDNWUTN0NzZjV0ROUVktSURDQ0xaYkVXQURfclRkY3psUU5EVS1nTGE2ckxtQUJ3YmZYdzA0WXZpc1dwaUpZLXBaNWlXWm5JblZyUzBZZkRHVFdlZmZBdmN2QlJLeW11dUNHRGVpalQzNEVQakJ5SUcwYlk?oc=5*
-* [Análisis sobre el impacto de la compra — SEC](https://www.morningstar.es/es/news/274865/perspectivas-de-la-bolsa-usa-para-el-segundo-trimestre-no-entre-en-pánico-reajuste-su-estrategia.aspx)
+* **30% de participación adquirida — Morningstar**
 * [Acciones europeas con dividendos en 2026 — Morningstar](https://www.morningstar.es/es/news/274824/¿qué-acciones-europeas-reparten-dividendos-en-abril-de-2026.aspx)
 
 El acuerdo, que se integra en un contexto de consolidación en la industria de fondos, permite a Bankinter y Plenium Partners ampliar su influencia en el sector de capital privado. La adquisición se considera un paso importante para mejorar la oferta de productos y podría impactar positivamente en la rentabilidad futura de ambas entidades.
@@ -70,46 +69,46 @@ La adquisición podría significar un crecimiento y una expansión de las capaci
 Expertos en gestión de activos han expresado perspectivas positivas, señalando que la consolidación en el sector puede llevar a una mejora en la eficiencia y en la rentabilidad de los fondos.
 
 <script type="application/ld+json">{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Bankinter y Plenium Partners adquieren un 30% de Access Capital Partners",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Analista Financiero"
-  },
-  "mainEntityOfPage": "https://www.morningstar.es/es/news/274865/perspectivas-de-la-bolsa-usa-para-el-segundo-trimestre-no-entre-en-pánico-reajuste-su-estrategia.aspx"
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"headline": "Bankinter y Plenium Partners adquieren un 30% de Access Capital Partners",
+"datePublished": "2023-10-01",
+"author": {
+"@type": "Person",
+"name": "Analista Financiero"
+},
+"mainEntityOfPage": "https://www.morningstar.es/es/news/274865/perspectivas-de-la-bolsa-usa-para-el-segundo-trimestre-no-entre-en-pánico-reajuste-su-estrategia.aspx"
 }
 </script>
 
 <script type="application/ld+json">{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [{
-      "@type": "Question",
-      "name": "¿Cómo afecta esta adquisición a los inversores actuales?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "La adquisición puede resultar en una mejora en la oferta de productos y un potencial aumento en la rentabilidad de los activos bajo gestión."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Es un buen momento para invertir en estos fondos?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dependerá de su perfil de riesgo y de la evaluación de la estrategia de inversión de cada fondo."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Qué riesgos deben tener en cuenta los inversores?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "La incertidumbre macroeconómica y la competencia creciente en la gestión de activos son factores a considerar."
-      }
-    }
-  ]
+"@context": "https://schema.org",
+"@type": "FAQPage",
+"mainEntity": [{
+"@type": "Question",
+"name": "¿Cómo afecta esta adquisición a los inversores actuales?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "La adquisición puede resultar en una mejora en la oferta de productos y un potencial aumento en la rentabilidad de los activos bajo gestión."
+}
+},
+{
+"@type": "Question",
+"name": "¿Es un buen momento para invertir en estos fondos?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Dependerá de su perfil de riesgo y de la evaluación de la estrategia de inversión de cada fondo."
+}
+},
+{
+"@type": "Question",
+"name": "¿Qué riesgos deben tener en cuenta los inversores?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "La incertidumbre macroeconómica y la competencia creciente en la gestión de activos son factores a considerar."
+}
+}
+]
 }</script>
 
 ---

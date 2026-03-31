@@ -45,7 +45,7 @@ This disconnect between fiction and reality fosters a dangerous myth about the e
 
 Moreover, the portrayal of law enforcement in these dramas often fails to address the complexities of crime and justice. By simplifying narratives and focusing on sensationalist elements, crime dramas contribute to a public understanding that is both superficial and misleading. As a result, viewers may develop a skewed sense of justice that does not reflect the realities faced by communities grappling with crime.
 
-## RICO: A Double-Edged Sword in Law Enforcement
+## RICO: A Risks and Tradeoffs in Law Enforcement
 
 The Racketeer Influenced and Corrupt Organizations (RICO) Act was enacted to combat organized crime effectively, but its implementation has raised concerns and controversies. Initially designed to target the Mafia, the RICO Act allows law enforcement to pursue individuals engaged in a pattern of racketeering activity, leading to severe penalties, including imprisonment for up to 20 years and fines of up to $250,000 for individuals (source: [National Institute of Justice](https://www.ojp.gov/pdffiles1/nij/218555.pdf)).
 

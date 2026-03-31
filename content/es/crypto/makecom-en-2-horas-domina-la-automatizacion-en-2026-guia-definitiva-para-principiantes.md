@@ -3,14 +3,14 @@ categories:
 - tools
 date: 2026-02-21 13:41:21
 description: Aprende Make.com en 2 horas y dispara tu productividad en 2026. Automatización
-  para principiantes explicada paso a paso. ¡Domina Make.com HOY!
+para principiantes explicada paso a paso. ¡Domina Make.com HOY!
 draft: false
 featured_image: /images/master-makecom-in-2-hours-complete-beginners-guide-for-2026.jpg
 language: es
 tags:
 - Novum Tools
 title: ¡Make.com en 2 HORAS! Domina la Automatización en 2026 (Guía Definitiva para
-  Principiantes)
+Principiantes)
 translationKey: 1710e3ae-ccb7-4aa9-9c96-fd3e0e41fa51
 type: tools
 ---

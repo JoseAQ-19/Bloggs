@@ -2,9 +2,9 @@
 categories:
 - ia
 date: 2026-02-11 07:49:51
-description: ' IA y el Futuro del Trabajo: Un Análisis Técnico Profundo (Sin Hype)  La
-  inteligencia artificial (IA) ha dejado de ser ciencia ficción para convertirse en
-  una r...'
+description: ' IA y el Futuro del Trabajo: Un Análisis Técnico Profundo (Sin Hype) La
+inteligencia artificial (IA) ha dejado de ser ciencia ficción para convertirse en
+una r...'
 draft: false
 featured_image: /images/ia-futuro-trabajo-analisis-tecnico.jpg
 language: es

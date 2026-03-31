@@ -24,40 +24,40 @@ Para analizar si este repunte europeo es sostenible o simplemente una pausa ante
 **Tabla Comparativa de Fondos de Inversión y ETFs de Acciones Europeas:**
 
 * **Amundi Index Equity Europe UCITS ETF DR (LU0996182563)** (Categoría Morningstar: Renta Variable Europa Grande Capitalización Blend)
- * Rendimiento 1 Año: 13.5%
- * Rendimiento 3 Años anualizado: 9.2%
- * Rendimiento 5 Años anualizado: 7.8%
- * Volatilidad (Desviación estándar): 12.5%
- * Ratio de Sharpe: 0.75
- * Comisiones (TER / Expense Ratio): 0.12%
+* Rendimiento 1 Año: 13.5%
+* Rendimiento 3 Años anualizado: 9.2%
+* Rendimiento 5 Años anualizado: 7.8%
+* Volatilidad (Desviación estándar): 12.5%
+* Ratio de Sharpe: 0.75
+* Comisiones (TER / Expense Ratio): 0.12%
 * [Vanguard](https://investor.vanguard.com/) (Categoría Morningstar: Renta Variable Europa Grande Capitalización Blend)
- * Rendimiento 1 Año: 13.2%
- * Rendimiento 3 Años anualizado: 8.9%
- * Rendimiento 5 Años anualizado: 7.5%
- * Volatilidad (Desviación estándar): 12.3%
- * Ratio de Sharpe: 0.73
- * Comisiones (TER / Expense Ratio): 0.10%
+* Rendimiento 1 Año: 13.2%
+* Rendimiento 3 Años anualizado: 8.9%
+* Rendimiento 5 Años anualizado: 7.5%
+* Volatilidad (Desviación estándar): 12.3%
+* Ratio de Sharpe: 0.73
+* Comisiones (TER / Expense Ratio): 0.10%
 * **iShares Core MSCI Europe UCITS ETF EUR (Acc) (IE00B4K48X80)** (Categoría Morningstar: Renta Variable Europa Grande Capitalización Blend)
- * Rendimiento 1 Año: 13.7%
- * Rendimiento 3 Años anualizado: 9.3%
- * Rendimiento 5 Años anualizado: 7.9%
- * Volatilidad (Desviación estándar): 12.6%
- * Ratio de Sharpe: 0.76
- * Comisiones (TER / Expense Ratio): 0.12%
+* Rendimiento 1 Año: 13.7%
+* Rendimiento 3 Años anualizado: 9.3%
+* Rendimiento 5 Años anualizado: 7.9%
+* Volatilidad (Desviación estándar): 12.6%
+* Ratio de Sharpe: 0.76
+* Comisiones (TER / Expense Ratio): 0.12%
 * **Threadneedle (Lux) Pan European Equities AU (LU0104437976)** (Categoría Morningstar: Renta Variable Europa Grande Capitalización Blend, 4 estrellas Morningstar)
- * Rendimiento 1 Año: 14.8%
- * Rendimiento 3 Años anualizado: 10.1%
- * Rendimiento 5 Años anualizado: 8.5%
- * Volatilidad (Desviación estándar): 13.1%
- * Ratio de Sharpe: 0.80
- * Comisiones (TER / Expense Ratio): 1.00% (Datos pendientes de verificación sobre la existencia de clases institucionales con menor TER.)
+* Rendimiento 1 Año: 14.8%
+* Rendimiento 3 Años anualizado: 10.1%
+* Rendimiento 5 Años anualizado: 8.5%
+* Volatilidad (Desviación estándar): 13.1%
+* Ratio de Sharpe: 0.80
+* Comisiones (TER / Expense Ratio): 1.00% (Datos pendientes de verificación sobre la existencia de clases institucionales con menor TER.)
 * **DWS Concept DJE Alpha Renten Global LC (LU0315748579)** (Categoría Morningstar: Mixto Moderado EUR, 5 estrellas Morningstar)
- * Rendimiento 1 Año: 5.2%
- * Rendimiento 3 Años anualizado: 3.1%
- * Rendimiento 5 Años anualizado: 2.8%
- * Volatilidad (Desviación estándar): 4.5%
- * Ratio de Sharpe: 0.62
- * Comisiones (TER / Expense Ratio): 1.40% (Datos pendientes de verificación sobre la existencia de clases institucionales con menor TER.)
+* Rendimiento 1 Año: 5.2%
+* Rendimiento 3 Años anualizado: 3.1%
+* Rendimiento 5 Años anualizado: 2.8%
+* Volatilidad (Desviación estándar): 4.5%
+* Ratio de Sharpe: 0.62
+* Comisiones (TER / Expense Ratio): 1.40% (Datos pendientes de verificación sobre la existencia de clases institucionales con menor TER.)
 
 Todos estos fondos tienen como benchmark el índice MSCI Europe, que ha tenido un comportamiento similar al de los ETFs listados. que la inflación en la zona euro ha rondado el 2-3% en los últimos años, lo que implica que la rentabilidad real (descontando la inflación) es inferior a las cifras nominales presentadas.
 
@@ -79,7 +79,7 @@ Además, es fundamental considerar el papel de los diferentes sectores en el com
 
 Otro aspecto a tener en cuenta es el sentimiento del inversor. ¿Están los inversores minoristas y los institucionales actuando de la misma manera? ¿Hay un aumento en la aversión al riesgo o, por el contrario, se está observando un comportamiento más especulativo? El análisis del sentimiento del inversor puede ayudar a anticipar posibles cambios en la tendencia del mercado y a tomar decisiones de inversión más informadas.
 
- el repunte de las acciones europeas en medio del desplome de los mercados asiáticos es un fenómeno complejo que requiere un análisis exhaustivo y una visión crítica. No hay que dejarse llevar por el optimismo superficial ni por el pesimismo exagerado. La clave está en comprender los factores que están impulsando este comportamiento divergente y en evaluar los riesgos y oportunidades que presenta el mercado europeo en el contexto actual.
+el repunte de las acciones europeas en medio del desplome de los mercados asiáticos es un fenómeno complejo que requiere un análisis exhaustivo y una visión crítica. No hay que dejarse llevar por el optimismo superficial ni por el pesimismo exagerado. La clave está en comprender los factores que están impulsando este comportamiento divergente y en evaluar los riesgos y oportunidades que presenta el mercado europeo en el contexto actual.
 
 ---
 

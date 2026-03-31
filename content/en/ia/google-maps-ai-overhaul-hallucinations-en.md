@@ -99,8 +99,7 @@ Using GIS responsibly requires ethical considerations around consent and transpa
 
 We need to establish clear ethical guidelines and regulations to prevent abuse. We need to empower individuals with control over their data. And we need to foster a culture of responsibility within the GIS community. As **GIScience in the era of Artificial Intelligence: A research agenda towards Autonomous GIS** explains, data quality is key.
 
-## 
-
+## The Bottom Line
 AI's role in GIS has enormous potential but over-reliance on these systems without critical human oversight can have massive financial and human costs. The promise of AI-driven maps is undeniable, but so are the risks. The key is to approach these technologies with a healthy dose of skepticism and a commitment to transparency, accountability, and ethical responsibility.
 
 Always double-check routes and data from AI-powered maps against verified sources before relying on them. Trust, but verify...and maybe take a paper map backup.

@@ -59,8 +59,7 @@ The FTC has taken action against health technology companies like GoodRx and Bet
 
 Consider the broader societal implications. The increasing reliance on wearable technology and biometric data collection raises fundamental questions about privacy, security, and autonomy. As our lives become increasingly quantified, it's crucial to establish clear ethical guidelines and legal frameworks to protect individual rights and prevent the misuse of sensitive information. The future of fitness depends on building a foundation of trust and transparency.
 
-## 
-
+## The Bottom Line
 Orangetheory Fitness needs to drastically increase its investment in data security and transparency, moving beyond the bare minimum compliance requirements to embrace a culture of privacy-first design. This includes implementing robust encryption protocols, conducting regular security audits, and providing users with clear and understandable explanations of data handling practices.
 
 Demand a clear, concise, and *understandable* explanation of their data handling practices before signing up or continuing your membership. Understand exactly what data is being collected, how it's being used, with whom it's being shared, and what security measures are in place to protect it. If you are not comfortable with the answers, consider alternative fitness options that prioritize your privacy.

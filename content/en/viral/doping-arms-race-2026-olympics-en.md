@@ -61,8 +61,7 @@ Approximately 2,200 doping tests are planned during the Olympics, indicating ong
 
 The ethical debate surrounding gene editing highlights the complexities of defining "natural" ability and the potential for creating an uneven playing field. The relentless pursuit of athletic perfection can also lead to a culture of overtraining, burnout, and mental health issues among athletes. Sports organizations must prioritize the well-being of athletes and promote a culture that values fair play, ethical conduct, and long-term health.
 
-## 
-
+## The Bottom Line
 The allure of enhanced performance will inevitably lead to further doping attempts, genetic or otherwise.
 
 Sports organizations must prioritize the development of advanced detection methods and engage in open ethical discussions. As technologies evolve, so too must the strategies for maintaining fair play and protecting the integrity of athletic competition.

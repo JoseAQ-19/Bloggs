@@ -3,8 +3,8 @@ categories:
 - tools
 date: 2026-02-13 08:25:11
 description: ¿Sigues perdiendo horas en tareas repetitivas que te impiden enfocarte
-  en el crecimiento de tu negocio? La automatización ya no es un lujo, sino una necesidad
-  p...
+en el crecimiento de tu negocio? La automatización ya no es un lujo, sino una necesidad
+p...
 draft: false
 featured_image: /images/domina-makecom-en-2-horas-guia-definitiva-para-principiantes-2026.jpg
 language: es

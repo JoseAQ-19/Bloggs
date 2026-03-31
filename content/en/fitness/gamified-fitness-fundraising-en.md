@@ -99,8 +99,7 @@ A sustainable model of fitness fundraising requires a fundamental shift in minds
 
 Ultimately, the success of fitness fundraising depends on building trust and loyalty with donors. This requires a commitment to ethical practices, transparent communication, and a genuine focus on the underlying cause. Organizations that prioritize these values will be well-positioned to create a sustainable model of engagement that benefits both the organization and the donors it serves.
 
-## 
-
+## The Bottom Line
 The explosion of fitness fundraising gamification demands greater scrutiny, requiring platforms to prioritize transparency and ethical considerations, or risk alienating their user base. Charities should develop their own ethical ecosystem for data use to ensure donor trust. Sweat equity: a fool's errand?
 
 ### Related Articles

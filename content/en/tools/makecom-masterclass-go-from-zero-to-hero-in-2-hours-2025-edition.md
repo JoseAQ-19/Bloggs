@@ -50,20 +50,20 @@ const jqCommand = '.name';
 let name = "";
 
 try {
- const process = require('child_process').spawnSync('jq', [jqCommand], {
- input: jsonData,
- encoding: 'utf8'
- });
+const process = require('child_process').spawnSync('jq', [jqCommand], {
+input: jsonData,
+encoding: 'utf8'
+});
 
- if (process.status === 0) {
- name = process.stdout.trim();
- } else {
- console.error("jq error:", process.stderr);
- name = "Error extracting name";
- }
+if (process.status === 0) {
+name = process.stdout.trim();
+} else {
+console.error("jq error:", process.stderr);
+name = "Error extracting name";
+}
 } catch (error) {
- console.error("Error executing jq:", error);
- name = "Error executing jq";
+console.error("Error executing jq:", error);
+name = "Error executing jq";
 }
 
 // Output the extracted name

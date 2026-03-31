@@ -47,7 +47,7 @@ Spotify paga a los artistas entre €0.001 y €0.003 por stream, según la inve
 
 La Recording Industry Association of America (RIAA) certifica discos de oro y platino según las ventas y streams, pero su relevancia para los artistas independientes es discutible. A pesar de la influencia global de las certificaciones RIAA, los artistas independientes deben lograr 75 millones de streams en EE. UU. para obtener la certificación de oro, un objetivo ambicioso que resalta la disparidad en el acceso a la fama y las regalías. Esta disparidad plantea la cuestión de si la RIAA realmente beneficia a los artistas independientes o si simplemente perpetúa el dominio de las grandes discográficas.
 
-### El Doble Filo de la Certificación
+### El Riesgos y Compromisos de la Certificación
 
 La certificación de la RIAA puede proporcionar reconocimiento y prestigio a los artistas, pero también puede ser vista como un símbolo de desigualdad en la industria musical. Para los artistas independientes, alcanzar el estatus de oro o platino requiere una cantidad masiva de reproducciones, lo que a menudo es inalcanzable sin el apoyo de una gran discográfica. Esta realidad socava la idea de que el streaming ha nivelado el campo de juego para los artistas independientes, exponiendo las barreras estructurales que persisten en la industria.
 

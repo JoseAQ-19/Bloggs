@@ -15,9 +15,9 @@ translationKey: "d63390e0-69f3-f71f-1cab-070c455cbc8a"
 
 **57% of Morningstar Thailand Awards 2026 winners have a 5-star rating**, a testament to the country's growing investment excellence. Here are three key highlights from the awards:
 
-* **4.23% average 1-year return** for the Thailand Large-Cap Equity category, with the top performer, Krungsri Asset Management's Krungsri Equity Large Cap Fund, yielding 7.11% [Source: Morningstar](https://news.google.com/rss/articles/CBMitAFBVV95cUxOd05tbmpyM3c4MnhjTHF1QVRsTVNnbTR5SFlXVjlPXzVXSGV2azAzdGlSSXJYb29kcWh4dGxvb05oZ0xNYlhIcjNQVGpaMlV5dndFZGpxREZsVS1TdlEyTVVDbFB2R0QzUWRPVFEwQ2hSS2Z6dy1iSl81X3RSSXR2T2dxU0t0cFo1OW5XUDNrTV9pWlhGMHBxOTN5MGNiZEpWa2tjM0dxS3ZkOFZyV0haVDRPVDc?oc=5)
-* **22.15% average 3-year return** for the Thailand Small-Cap Equity category, with the top performer, UOB Asset Management (Thailand)'s UOB Small Cap Equity Fund, yielding 34.19% [Source: Morningstar](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTi1wMDlBR2hBOS12OGNUMjBsMlNQYXlObXFFWGpwbnJsekpZM1pLeFRaZVd5NVVrM004R3JiTngyZHRvMXNHV1dheFpHaGl3TEwyRzJaTFY0UGI0aVNKU005Uk9iWlhoVzFlSEJVaGdZTDZiMFRnbXRJWUdjb0xLdHNLdjdjUl9qTVIyajRnX0N5ZFJTYW82eWMyTGs1Zm16M0cwY05wWU90Zw?oc=5)
-* **1.23% average expense ratio** for the Thailand Equity category, with the lowest-cost fund, SCB Asset Management's SCB Thai Equity Fund, having an expense ratio of 0.92% [Source: Morningstar](https://news.google.com/rss/articles/CBMizwFBVV95cUxORnl2ZGYwVXlPXzFpQ2tCNHNaR1dWemZQSU8wbW1oZXBQcm1NOGQ3RS03R2hoc0wyaTRzR2xmaVFaMHJRa0FiMl9XdDc1U3hJV3NINHpmR3hHd1VEY0EybE9kNl9kZlYwMnhWVmZiOEJ5bWFsNW9qaEEwVE02UFFkcHNYUDB5MGI1Uk43YVRUZXllWjd4dGs3el9iY2pGaXAyS1N3YVA5MERwX1dxRFRKRXJjaTlzSGZoTFlkeXluQ1NhcGY0aDZQY2xQY055Y1E?oc=5)
+* **4.23% average 1-year return** for the Thailand Large-Cap Equity category, with the top performer, Krungsri Asset Management's Krungsri Equity Large Cap Fund, yielding 7.11% **Source: Morningstar**
+* **22.15% average 3-year return** for the Thailand Small-Cap Equity category, with the top performer, UOB Asset Management (Thailand)'s UOB Small Cap Equity Fund, yielding 34.19% **Source: Morningstar**
+* **1.23% average expense ratio** for the Thailand Equity category, with the lowest-cost fund, SCB Asset Management's SCB Thai Equity Fund, having an expense ratio of 0.92% **Source: Morningstar**
 
 ## Morningstar Thailand Awards 2026: A Testament to Investment Excellence
 
@@ -57,60 +57,60 @@ The Morningstar Thailand Awards 2026 are a testament to the growing investment e
 ### Schema Markup
 
 {
- "@context": "https://schema.org",
- "@type": "NewsArticle",
- "headline": "Morningstar Thailand Awards 2026: Recognizing Investing Excellence, Key Winners Highlighted",
- "description": "The Morningstar Thailand Awards 2026 recognize the best of the best in Thailand's investment landscape.",
- "datePublished": "2026-03-23",
- "author": {
- "@type": "Person",
- "name": "Your Name"
- },
- "publisher": {
- "@type": "Organization",
- "name": "NovumWorld",
- "logo": {
- "@type": "ImageObject",
- "url": "https://novumworld.com/logo.png"
- }
- },
- "mainEntityOfPage": {
- "@type": "WebPage",
- "@id": "https://novumworld.com/morningstar-thailand-awards-2026/"
- }
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"headline": "Morningstar Thailand Awards 2026: Recognizing Investing Excellence, Key Winners Highlighted",
+"description": "The Morningstar Thailand Awards 2026 recognize the best of the best in Thailand's investment landscape.",
+"datePublished": "2026-03-23",
+"author": {
+"@type": "Person",
+"name": "Your Name"
+},
+"publisher": {
+"@type": "Organization",
+"name": "NovumWorld",
+"logo": {
+"@type": "ImageObject",
+"url": "https://novumworld.com/logo.png"
+}
+},
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://novumworld.com/morningstar-thailand-awards-2026/"
+}
 }
 
 ### FAQPage Schema
 
 {
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
- {
- "@type": "Question",
- "name": "What are the Morningstar Thailand Awards 2026, and how are they determined?"
- },
- {
- "@type": "Answer",
- "text": "The Morningstar Thailand Awards 2026 are a recognition of the best-performing funds in various categories in Thailand. The awards are determined based on a rigorous evaluation process that considers factors such as fund performance, risk, and fees."
- },
- {
- "@type": "Question",
- "name": "What are some of the risks and challenges in Thailand's investment market?"
- },
- {
- "@type": "Answer",
- "text": "According to a report by the Securities and Exchange Commission of Thailand, the country's investment market is subject to various risks, including market volatility, regulatory changes, and economic uncertainty."
- },
- {
- "@type": "Question",
- "name": "How can investors minimize potential losses in Thailand's investment market?"
- },
- {
- "@type": "Answer",
- "text": "Investors should exercise caution and carefully evaluate their investment options before making any decisions. It's essential to have a well-diversified portfolio and to stay informed about market developments to minimize potential losses."
- }
- ]
+"@context": "https://schema.org",
+"@type": "FAQPage",
+"mainEntity": [
+{
+"@type": "Question",
+"name": "What are the Morningstar Thailand Awards 2026, and how are they determined?"
+},
+{
+"@type": "Answer",
+"text": "The Morningstar Thailand Awards 2026 are a recognition of the best-performing funds in various categories in Thailand. The awards are determined based on a rigorous evaluation process that considers factors such as fund performance, risk, and fees."
+},
+{
+"@type": "Question",
+"name": "What are some of the risks and challenges in Thailand's investment market?"
+},
+{
+"@type": "Answer",
+"text": "According to a report by the Securities and Exchange Commission of Thailand, the country's investment market is subject to various risks, including market volatility, regulatory changes, and economic uncertainty."
+},
+{
+"@type": "Question",
+"name": "How can investors minimize potential losses in Thailand's investment market?"
+},
+{
+"@type": "Answer",
+"text": "Investors should exercise caution and carefully evaluate their investment options before making any decisions. It's essential to have a well-diversified portfolio and to stay informed about market developments to minimize potential losses."
+}
+]
 }
 
 ---

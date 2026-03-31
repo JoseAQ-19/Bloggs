@@ -59,8 +59,7 @@ The fitness center construction began 18 months before March 5, 2026. Constructi
 
 A $10 million gift from alumni Jon W. Brayshaw and Jocelyn Stoddard Brayshaw brought the college within $4 million of its $31 million fundraising goal. While generous, this highlights the college's reliance on donor funding to support its ambitious projects. While Bates College has undertaken effective, incremental facility improvements to support students' athletic endeavors since 2016, the size and scope of this new project raises questions about financial prudence and long-term sustainability.
 
-## 
-
+## The Bottom Line
 Bates is making a risky move, potentially prioritizing aesthetics and student life at the expense of academics and financial stability, a choice that could haunt them for years to come. While a commitment to student well-being is important, it should not come at the cost of the college's core mission: providing a high-quality education.
 
 Bates should conduct a comprehensive impact assessment outlining how this investment will directly improve the academic performance of students and consider alternative, more cost-effective ways to promote student wellness, such as partnering with local gyms or expanding mental health services.

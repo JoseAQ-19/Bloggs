@@ -96,23 +96,23 @@ Es una solución de placebo. Enseñar a la gente a identificar deepfakes es una 
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "ChatGPT Destronó a Wikipedia: Ahora la IA Decide Tu Voto.",
-  "description": "Descubre cómo ChatGPT ha superado a Wikipedia y cómo la inteligencia artificial influye en tus decisiones de voto en este fascinante artículo.",
-  "image": "https://novumworld.com/images/ia-electoral-arma-secreta.jpg",
-  "datePublished": "2026-03-31T10:18:27",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"headline": "ChatGPT Destronó a Wikipedia: Ahora la IA Decide Tu Voto.",
+"description": "Descubre cómo ChatGPT ha superado a Wikipedia y cómo la inteligencia artificial influye en tus decisiones de voto en este fascinante artículo.",
+"image": "https://novumworld.com/images/ia-electoral-arma-secreta.jpg",
+"datePublished": "2026-03-31T10:18:27",
+"author": {
+"@type": "Organization",
+"name": "NovumWorld Editorial Team"
+},
+"publisher": {
+"@type": "Organization",
+"name": "NovumWorld",
+"logo": {
+"@type": "ImageObject",
+"url": "https://novumworld.com/images/logo.png"
+}
+}
 }
 </script>

@@ -13,19 +13,19 @@ translationKey: "40202ba7-fd32-cd91-1744-0a2a2c8e4771"
 
 ![Vanguard VYMI's 10 Basis Point Cut: Is Sub-0.25% Enough to Beat the Competition?](/images/vanguard-vymis-10-basis-point-cut-is-sub-025-enough-to-beat-the-competition-en.jpg)
 
-**Vanguard's VYMI fund has just slashed its expense ratio by 10 basis points, to 0.24%.** This move is part of a broader trend of declining mutual fund fees, with the average expense ratio for actively managed equity funds falling to 0.71% in 2025, according to a [Morningstar report](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHoxRVprT1FCV2wwYmJSV1BNNTBqcmNNbnZ5eS1FS3p4a2dfSDJQcVppMm9VcG5KbGhDZzlWSzNGVGVZc2FjSk1Xc3gwdXNPOTIyVXl1WHhIQzZDSEh2eVUzZDdlZGtJRTVacjcxTjc0MnFZYzRxU1pkY0ZucnlqX3F0TU1DLUx3U2FCbmgta0NhcjIzRmhjSmMzQzE4SzRTV2ljUE1VQ0RybnRTZ3lWbnh1MV9GVF9vRFIxZ2tB?oc=5).
+**Vanguard's VYMI fund has just slashed its expense ratio by 10 basis points, to 0.24%.** This move is part of a broader trend of declining mutual fund fees, with the average expense ratio for actively managed equity funds falling to 0.71% in 2025, according to a **Morningstar report**.
 
 * 0.24% — Vanguard VYMI's new expense ratio, down 10 basis points from its previous level [SEC](https://www.sec.gov/).
-* 0.71% — The average expense ratio for actively managed equity funds in 2025, down from 0.82% in 2020 [Morningstar](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHoxRVprT1FCV2wwYmJSV1BNNTBqcmNNbnZ5eS1FS3p4a2dfSDJQcVppMm9VcG5KbGhDZzlWSzNGVGVZc2FjSk1Xc3gwdXNPOTIyVXl1WHhIQzZDSEh2eVUzZDdlZGtJRTVacjcxTjc0MnFZYzRxU1pkY0ZucnlqX3F0TU1DLUx3U2FCbmgta0NhcjIzRmhjSmMzQzE4SzRTV2ljUE1VQ0RybnRTZ3lWbnh1MV9GVF9vRFIxZ2tB?oc=5).
+* 0.71% — The average expense ratio for actively managed equity funds in 2025, down from 0.82% in 2020 **Morningstar**.
 * 0.06% — The expense ratio of Vanguard's VTSAX fund, a popular alternative to VYMI [Vanguard](https://investor.vanguard.com/).
 
 ## Performance Comparison
 
 To assess the impact of Vanguard's fee cut, we'll compare the performance of VYMI to that of its peers and a relevant benchmark. Our analysis will focus on the fund's 1-year, 3-year, and 5-year returns, as well as its volatility and Sharpe ratio.
 
-* 1-year return: 10.3% (VYMI), 10.1% (VTSAX), 9.5% (S&P 500) [Morningstar](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHoxRVprT1FCV2wwYmJSV1BNNTBqcmNNbnZ5eS1FS3p4a2dfSDJQcVppMm9VcG5KbGhDZzlWSzNGVGVZc2FjSk1Xc3gwdXNPOTIyVXl1WHhIQzZDSEh2eVUzZDdlZGtJRTVacjcxTjc0MnFZYzRxU1pkY0ZucnlqX3F0TU1DLUx3U2FCbmgta0NhcjIzRmhjSmMzQzE4SzRTV2ljUE1VQ0RybnRTZ3lWbnh1MV9GVF9vRFIxZ2tB?oc=5).
-* 3-year return: 12.1% (VYMI), 12.3% (VTSAX), 11.5% (S&P 500) [Morningstar](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHoxRVprT1FCV2wwYmJSV1BNNTBqcmNNbnZ5eS1FS3p4a2dfSDJQcVppMm9VcG5KbGhDZzlWSzNGVGVZc2FjSk1Xc3gwdXNPOTIyVXl1WHhIQzZDSEh2eVUzZDdlZGtJRTVacjcxTjc0MnFZYzRxU1pkY0ZucnlqX3F0TU1DLUx3U2FCbmgta0NhcjIzRmhjSmMzQzE4SzRTV2ljUE1VQ0RybnRTZ3lWbnh1MV9GVF9vRFIxZ2tB?oc=5).
-* 5-year return: 14.2% (VYMI), 14.5% (VTSAX), 13.4% (S&P 500) [Morningstar](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHoxRVprT1FCV2wwYmJSV1BNNTBqcmNNbnZ5eS1FS3p4a2dfSDJQcVppMm9VcG5KbGhDZzlWSzNGVGVZc2FjSk1Xc3gwdXNPOTIyVXl1WHhIQzZDSEh2eVUzZDdlZGtJRTVacjcxTjc0MnFZYzRxU1pkY0ZucnlqX3F0TU1DLUx3U2FCbmgta0NhcjIzRmhjSmMzQzE4SzRTV2ljUE1VQ0RybnRTZ3lWbnh1MV9GVF9vRFIxZ2tB?oc=5).
+* 1-year return: 10.3% (VYMI), 10.1% (VTSAX), 9.5% (S&P 500) **Morningstar**.
+* 3-year return: 12.1% (VYMI), 12.3% (VTSAX), 11.5% (S&P 500) **Morningstar**.
+* 5-year return: 14.2% (VYMI), 14.5% (VTSAX), 13.4% (S&P 500) **Morningstar**.
 
 ## Expert Opinions
 

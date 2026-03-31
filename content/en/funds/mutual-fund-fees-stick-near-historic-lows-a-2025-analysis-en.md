@@ -13,8 +13,8 @@ translationKey: "f51c48eb-b8e5-17a1-8ea9-126ac31ff32d"
 
 ![Mutual Fund Fees Stick Near Historic Lows: A 2025 Analysis](/images/mutual-fund-fees-stick-near-historic-lows-a-2025-analysis-en.jpg)
 
-**71% of mutual funds maintained their fees at historic lows in 2025**, according to a recent Morningstar report [1](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHoxRVprT1FCV2wwYmJSV1BNNTBqcmNNbnZ5eS1FS3p4a2dfSDJQcVppMm9VcG5KbGhDZzlWSzNGVGVZc2FjSk1Xc3gwdXNPOTIyVXl1WHhIQzZDSEh2eVUzZDdlZGtJRTVacjcxTjc0MnFZYzRxU1pkY0ZucnlqX3F0TU1DLUx3U2FCbmgta0NhcjIzRmhjSmMzQzE4SzRTV2ljUE1VQ0RybnRTZ3lWbnh1MV9GVF9vRFIxZ2tB?oc=5). 
-* 0.38% average expense ratio for actively managed funds — [Morningstar](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHoxRVprT1FCV2wwYmJSV1BNNTBqcmNNbnZ5eS1FS3p4a2dfSDJQcVppMm9VcG5KbGhDZzlWSzNGVGVZc2FjSk1Xc3gwdXNPOTIyVXl1WHhIQzZDSEh2eVUzZDdlZGtJRTVacjcxTjc0MnFZYzRxU1pkY0ZucnlqX3F0TU1DLUx3U2FCbmgta0NhcjIzRmhjSmMzQzE4SzRTV2ljUE1VQ0RybnRTZ3lWbnh1MV9GVF9vRFIxZ2tB?oc=5)
+**71% of mutual funds maintained their fees at historic lows in 2025**, according to a recent Morningstar report **1**. 
+* 0.38% average expense ratio for actively managed funds — **Morningstar**
 * 0.11% average expense ratio for index funds — [SEC](https://www.sec.gov/investor/alerts/ib_indexfunds.htm)
 * 57% of investors consider fees as the top factor when selecting a fund — [CNMV](https://www.cnmv.es/Portal/verDoc.axd?t={t}&r=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzdWIiLCJzdWIiOiIxMjM0NTY3ODkwIiwic2lkIjoiMjMwfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c)
 
@@ -26,7 +26,7 @@ According to the SEC, these low fees are a result of increased competition among
 
 ### Contrarian View: Fee Pressure May Intensify
 
-However, some experts argue that the fee pressure may intensify in the coming years. "We expect the fee war to continue, with fund providers competing aggressively for market share," says John Rekenthaler, Vice President of Research at Morningstar [4](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHoxRVprT1FCV2wwYmJSV1BNNTBqcmNNbnZ5eS1FS3p4a2dfSDJQcVppMm9VcG5KbGhDZzlWSzNGVGVZc2FjSk1Xc3gwdXNPOTIyVXl1WHhIQzZDSEh2eVUzZDdlZGtJRTVacjcxTjc0MnFZYzRxU1pkY0ZucnlqX3F0TU1DLUx3U2FCbmgta0NhcjIzRmhjSmMzQzE4SzRTV2ljUE1VQ0RybnRTZ3lWbnh1MV9GVF9vRFIxZ2tB?oc=5).
+However, some experts argue that the fee pressure may intensify in the coming years. "We expect the fee war to continue, with fund providers competing aggressively for market share," says John Rekenthaler, Vice President of Research at Morningstar **4**.
 
 ## Real User FAQs
 
@@ -47,7 +47,7 @@ A: Research the fund's expense ratio and compare it to similar funds in the mark
 
 ## Our Verdict
 
- the maintenance of historically low fees in the mutual fund industry is a positive development for investors. However, it's essential to consider other factors, such as performance and risk, when selecting a fund. As the fee war continues, investors must remain vigilant and monitor the market to ensure they're getting the best value for their money.
+the maintenance of historically low fees in the mutual fund industry is a positive development for investors. However, it's essential to consider other factors, such as performance and risk, when selecting a fund. As the fee war continues, investors must remain vigilant and monitor the market to ensure they're getting the best value for their money.
 
 ---
 

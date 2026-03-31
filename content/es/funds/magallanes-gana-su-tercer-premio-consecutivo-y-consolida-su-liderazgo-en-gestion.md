@@ -16,7 +16,7 @@ translationKey: "2b926a6c-5a8f-9416-bbcf-70f947a40bc0"
 **Magallanes Value Investors ha logrado consolidar su posición de liderazgo en España tras ganar por tercer año consecutivo el Premio Morningstar a la mejor gestora de fondos.** Este reconocimiento destaca no solo su consistencia en el desempeño, sino también su enfoque disciplinado en la inversión en valor. 
 
 - *1. Magallanes European Equity: 10,5% de rentabilidad anualizada a 5 años ([Morningstar](https://www.morningstar.es/es/news/274747/los-10-etfs-del-sector-defensa-más-rentables-para-invertir-en-2026.aspx)).* 
-- *2. Ratio de Sharpe: 1,21 para el fondo Magallanes Iberian Equity ([Morningstar](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWC1xTmRQcGJ2QVdsaEJUZm93Sl9CUWJDN20zdV9HQ3U5S1F5azJpekdSTzgtYnQzeUhtNWdXSTZOd3FsdkRvWTdnM3NjeDFFaVY2RzRvTDQ4cmx4LWpHejE5VEVGQnpzS09Tamh4SnFYSHVLeHpTSjkzVjBhQzZpOC1sOG5fM015ZThNNHRvai1WWEpmbjlLV2ZMeENzeXR2cEJEZ0pjLWZqNnJpQm1OdnlDSHRTOGxNR0hiZUN6WDlZUdIBngFBVV95cUxQT3hoWVdaX1FybFhSSG9mQVhBSVQ2WnRhc2tDcGpUUGpPWW5TUVJxSG1UU2FYQW1ublM1Zi1hWEFOMUxtTkdYcnRZcXF2TlR3VFdLVUVRUkp2Y1JVWEttc1pCZnF4SGYwQ2Y2bENUdVZvT2JPQkIwSkR0Sm9CQkdLemRSOFk1eVQyQVYxQUhfRjFyYXFtTWtpZnVRWkRMUQ?oc=5)).* 
+- *2. Ratio de Sharpe: 1,21 para el fondo Magallanes Iberian Equity (**Morningstar**).* 
 - *3. Comisiones competitivas: 1,10% de gastos corrientes en comparación con la media del sector que supera el 1,50% ([Morningstar](https://www.morningstar.es/es/news/274747/los-10-etfs-del-sector-defensa-más-rentables-para-invertir-en-2026.aspx)).*
 
 El enfoque diferencial de Magallanes radica en su filosofía centrada en la inversión en valor, una estrategia que ha sido clave en su éxito sostenido. Analizamos cómo esta gestora ha logrado destacar en un sector tan competitivo y qué implica este logro para los inversores.
@@ -27,7 +27,7 @@ El enfoque diferencial de Magallanes radica en su filosofía centrada en la inve
 
 Los fondos de Magallanes Value Investors han superado consistentemente a sus índices de referencia en varios horizontes temporales. El **Magallanes European Equity**, por ejemplo, ha generado una rentabilidad anualizada del 10,5% en los últimos cinco años, colocándose significativamente por encima del MSCI Europe, que ha registrado un 8,3% en el mismo período ([Morningstar](https://www.morningstar.es/es/news/274747/los-10-etfs-del-sector-defensa-más-rentables-para-invertir-en-2026.aspx)). Este desempeño se atribuye a una selección rigurosa de valores infravalorados y a una gestión activa disciplinada.
 
-Por otro lado, el **Magallanes Iberian Equity** ha obtenido un ratio de Sharpe de 1,21, lo que indica un excelente ajuste entre rendimiento y riesgo. En comparación, la media de su categoría apenas alcanza un ratio de 0,95, según [Morningstar](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWC1xTmRQcGJ2QVdsaEJUZm93Sl9CUWJDN20zdV9HQ3U5S1F5azJpekdSTzgtYnQzeUhtNWdXSTZOd3FsdkRvWTdnM3NjeDFFaVY2RzRvTDQ4cmx4LWpHejE5VEVGQnpzS09Tamh4SnFYSHVLeHpTSjkzVjBhQzZpOC1sOG5fM015ZThNNHRvai1WWEpmbjlLV2ZMeENzeXR2cEJEZ0pjLWZqNnJpQm1OdnlDSHRTOGxNR0hiZUN6WDlZUdIBngFBVV95cUxQT3hoWVdaX1FybFhSSG9mQVhBSVQ2WnRhc2tDcGpUUGpPWW5TUVJxSG1UU2FYQW1ublM1Zi1hWEFOMUxtTkdYcnRZcXF2TlR3VFdLVUVRUkp2Y1JVWEttc1pCZnF4SGYwQ2Y2bENUdVZvT2JPQkIwSkR0Sm9CQkdLemRSOFk1eVQyQVYxQUhfRjFyYXFtTWtpZnVRWkRMUQ?oc=5).
+Por otro lado, el **Magallanes Iberian Equity** ha obtenido un ratio de Sharpe de 1,21, lo que indica un excelente ajuste entre rendimiento y riesgo. En comparación, la media de su categoría apenas alcanza un ratio de 0,95, según **Morningstar**.
 
 ---
 
@@ -41,7 +41,7 @@ Un ejemplo reciente de esta estrategia es su inversión en sectores menos popula
 
 ## Comparativa de Costes y Competencia
 
-Los fondos de Magallanes no solo destacan por su rendimiento, sino también por su estructura de comisiones. El **Magallanes European Equity**, por ejemplo, tiene un gasto corriente del 1,10%, mientras que fondos de la competencia, como los de Bestinver y azValor, presentan un promedio de 1,50% ([Morningstar](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWC1xTmRQcGJ2QVdsaEJUZm93Sl9CUWJDN20zdV9HQ3U5S1F5azJpekdSTzgtYnQzeUhtNWdXSTZOd3FsdkRvWTdnM3NjeDFFaVY2RzRvTDQ4cmx4LWpHejE5VEVGQnpzS09Tamh4SnFYSHVLeHpTSjkzVjBhQzZpOC1sOG5fM015ZThNNHRvai1WWEpmbjlLV2ZMeENzeXR2cEJEZ0pjLWZqNnJpQm1OdnlDSHRTOGxNR0hiZUN6WDlZUdIBngFBVV95cUxQT3hoWVdaX1FybFhSSG9mQVhBSVQ2WnRhc2tDcGpUUGpPWW5TUVJxSG1UU2FYQW1ublM1Zi1hWEFOMUxtTkdYcnRZcXF2TlR3VFdLVUVRUkp2Y1JVWEttc1pCZnF4SGYwQ2Y2bENUdVZvT2JPQkIwSkR0Sm9CQkdLemRSOFk1eVQyQVYxQUhfRjFyYXFtTWtpZnVRWkRMUQ?oc=5)).
+Los fondos de Magallanes no solo destacan por su rendimiento, sino también por su estructura de comisiones. El **Magallanes European Equity**, por ejemplo, tiene un gasto corriente del 1,10%, mientras que fondos de la competencia, como los de Bestinver y azValor, presentan un promedio de 1,50% (**Morningstar**).
 
 Una comparación de impacto de costos muestra que por cada €10,000 invertidos en un periodo de 10 años, los costes con Magallanes son, en promedio, €500 inferiores a los de sus competidores. Esto refuerza su atractivo para inversores enfocados en maximizar sus retornos netos.
 
@@ -51,7 +51,7 @@ Una comparación de impacto de costos muestra que por cada €10,000 invertidos 
 
 Si bien el enfoque en valor ha sido rentable, no está exento de riesgos. La dependencia de sectores específicos, como el energético, puede exponer a los fondos a volatilidades externas, incluyendo fluctuaciones en precios de materias primas. Como señala **Luis García**, analista de inversiones en Renta 4 Banco, “el éxito en la inversión en valor depende en gran medida de una ejecución disciplinada, pero también de factores externos difíciles de prever”.
 
-Además, un posible reto para Magallanes podría ser mantener su rendimiento en un entorno de mercado caracterizado por políticas monetarias restrictivas, como las impulsadas por el Banco Central Europeo recientemente ([Financial Times](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWC1xTmRQcGJ2QVdsaEJUZm93Sl9CUWJDN20zdV9HQ3U5S1F5azJpekdSTzgtYnQzeUhtNWdXSTZOd3FsdkRvWTdnM3NjeDFFaVY2RzRvTDQ4cmx4LWpHejE5VEVGQnpzS09Tamh4SnFYSHVLeHpTSjkzVjBhQzZpOC1sOG5fM015ZThNNHRvai1WWEpmbjlLV2ZMeENzeXR2cEJEZ0pjLWZqNnJpQm1OdnlDSHRTOGxNR0hiZUN6WDlZUdIBngFBVV95cUxQT3hoWVdaX1FybFhSSG9mQVhBSVQ2WnRhc2tDcGpUUGpPWW5TUVJxSG1UU2FYQW1ublM1Zi1hWEFOMUxtTkdYcnRZcXF2TlR3VFdLVUVRUkp2Y1JVWEttc1pCZnF4SGYwQ2Y2bENUdVZvT2JPQkIwSkR0Sm9CQkdLemRSOFk1eVQyQVYxQUhfRjFyYXFtTWtpZnVRWkRMUQ?oc=5)).
+Además, un posible reto para Magallanes podría ser mantener su rendimiento en un entorno de mercado caracterizado por políticas monetarias restrictivas, como las impulsadas por el Banco Central Europeo recientemente (**Financial Times**).
 
 ---
 

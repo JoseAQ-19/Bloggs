@@ -67,8 +67,7 @@ Regulatory arbitrage is also a major concern. Stablecoin issuers can choose to d
 
 The delay in passing the CLARITY Act is not simply a matter of political gridlock; it is a failure to protect consumers and prevent illicit activity. Regulators must act decisively to close the regulatory gaps and ensure that stablecoins are subject to the same level of scrutiny as traditional financial institutions. Failure to do so will only embolden criminals and undermine the integrity of the financial system.
 
-## 
-
+## The Bottom Line
 The CLARITY Act in its current state is insufficient to address the risks posed by stablecoins, specifically concerning illicit activity and regulatory loopholes. Congress must prioritize closing the loopholes concerning affiliate interest payments and establish clear standards for comparability across jurisdictions.
 
 Without a robust regulatory framework, stablecoins will continue to be a playground for criminals and a source of systemic risk. The current situation is unacceptable and requires immediate action. How long will regulators continue to turn a blind eye to the risks posed by stablecoins?

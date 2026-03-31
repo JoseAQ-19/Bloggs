@@ -3,7 +3,7 @@ categories:
 - funds
 date: 2026-03-04 15:44:19
 description: 'Stoxx 600 al alza tras la tempestad asiática: ¿rebote o señal de calma?
-  Analizamos las oportunidades y riesgos en fondos de inversión con la volatilidad.'
+Analizamos las oportunidades y riesgos en fondos de inversión con la volatilidad.'
 draft: false
 featured_image: /images/stoxx-600-sube-un-15-tras-la-crisis-en-asia-pero-la-volatilidad-persiste.jpg
 language: es

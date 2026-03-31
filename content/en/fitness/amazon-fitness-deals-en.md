@@ -110,23 +110,23 @@ Invest in a wearable device only if you have a specific protocol to follow, such
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "60 Amazon Fitness Deals That Will Transform Your Wellness Journey Today",
-  "description": "Discover 60 amazing Amazon fitness deals that can elevate your wellness journey today. Shop smart and transform your health with these unbeatable offers!.",
-  "image": "https://novumworld.com/images/amazon-fitness-deals-en.jpg",
-  "datePublished": "2026-03-31T05:38:37",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"headline": "60 Amazon Fitness Deals That Will Transform Your Wellness Journey Today",
+"description": "Discover 60 amazing Amazon fitness deals that can elevate your wellness journey today. Shop smart and transform your health with these unbeatable offers!.",
+"image": "https://novumworld.com/images/amazon-fitness-deals-en.jpg",
+"datePublished": "2026-03-31T05:38:37",
+"author": {
+"@type": "Organization",
+"name": "NovumWorld Editorial Team"
+},
+"publisher": {
+"@type": "Organization",
+"name": "NovumWorld",
+"logo": {
+"@type": "ImageObject",
+"url": "https://novumworld.com/images/logo.png"
+}
+}
 }
 </script>

@@ -1,5 +1,5 @@
 ---
-title: "AI Is The Game-Changer Europe Needs To Combat 30% Drug Development Failures"
+title: "AI Is The significant shift Europe Needs To Combat 30% Drug Development Failures"
 date: 2026-03-18T15:23:04
 draft: false
 description: "Discover how AI can revolutionize Europe's pharmaceutical landscape by reducing the alarming 30% drug development failures and enhancing innovation."
@@ -11,7 +11,7 @@ language: "en"
 translationKey: "1cfd4a65-cb16-7e59-c6ff-f15b07dc3b3b"
 ---
 
-![AI Is The Game-Changer Europe Needs To Combat 30% Drug Development Failures](/images/ai-drug-discovery-eu-en.jpg)
+![AI Is The significant shift Europe Needs To Combat 30% Drug Development Failures](/images/ai-drug-discovery-eu-en.jpg)
 
 * AI has the potential to significantly reduce the 30% drug development failure rate, as noted by FDA's Deputy Director Jin Liu.
 * The AI in drug discovery market is projected to grow at a CAGR of 25-30% over the next five years, according to Medi-Tech Insights.

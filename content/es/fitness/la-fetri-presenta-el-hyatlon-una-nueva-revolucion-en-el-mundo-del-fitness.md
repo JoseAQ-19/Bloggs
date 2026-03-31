@@ -29,7 +29,7 @@ El entrenamiento híbrido, que combina disciplinas de resistencia con ejercicios
 
 ## Riesgos del Entrenamiento Híbrido: Una Doble Espada
 
-La combinación de resistencia y fuerza en el Hyatlón es una espada de doble filo. Si no se gestiona correctamente, el riesgo de sobreentrenamiento aumenta significativamente. Federico Fader explica que el sobreentrenamiento no es únicamente un fenómeno físico, sino que también afecta la salud mental del atleta. Esto puede resultar en una disminución del rendimiento y una mayor susceptibilidad a lesiones.
+La combinación de resistencia y fuerza en el Hyatlón es una espada con riesgos significativos. Si no se gestiona correctamente, el riesgo de sobreentrenamiento aumenta significativamente. Federico Fader explica que el sobreentrenamiento no es únicamente un fenómeno físico, sino que también afecta la salud mental del atleta. Esto puede resultar en una disminución del rendimiento y una mayor susceptibilidad a lesiones.
 
 Un estudio realizado por la Universidad de Granada (n=150, 12 semanas) demostró que un enfoque de entrenamiento híbrido sin la debida atención a la recuperación puede resultar en un aumento del 30% en lesiones deportivas entre atletas aficionados. Esto subraya la necesidad de monitorizar el progreso y ajustar los planes de entrenamiento según la respuesta del individuo.
 

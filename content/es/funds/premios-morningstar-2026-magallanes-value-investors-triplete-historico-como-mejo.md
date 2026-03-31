@@ -15,9 +15,9 @@ translationKey: "e31f181f-24e4-81b5-0279-8c565ed093de"
 
 **El 44,1% de los fondos de inversión en España han obtenido un rendimiento negativo en el último año, según Morningstar**. A pesar de este panorama desalentador, algunos fondos han logrado destacarse en la industria. En este artículo, exploraremos los premios Morningstar 2026 y destacaremos a Magallanes Value Investors, que ha logrado un triplete histórico como mejor gestora.
 
-* 44,1% de los fondos de inversión en España han obtenido un rendimiento negativo en el último año — [Morningstar](https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmpNZG81YlY4YlN6NWpxX05fb0tjR1VjcWF4UlNDTlJHVW9vazBRMHBXbjZSSExacDF3ZW9sNzZoYUxRNUpzZVJIZ084b0x3dEFaZkdZZzY1eUtFa0toSjV3bHFUUHpBY0lCcF9zdGdCZldRZHIxSUU2bTVuV0hjNFhSX09BRHF4b0dtT2pYelFqNFZqdTFNNjE4MVFGREdMVVU1R3ExeU1TQXRmZzBFVTNxZ0FUSjZDakItN0YzYw?oc=5)
-* El 71,4% de los fondos de inversión en España tienen un rendimiento inferior al índice de referencia en el último año — [Morningstar](https://news.google.com/rss/articles/CBMiswFBVV95cUxOOVc0SGdSVG1xZzdrZXZTaFRlbld6ZTM4S0tFdlpwbFpIajdiX2F4cnRBQU9RNTFBRF9DUWFhUXlzUHVDbGhSNTRrYlFPNnpJbS1saWRTaGxJTjJuOUFUeXR1MHVmT1ZSSTNkTkZ4LU8wVlFFT1I5ZDhmc0lmdWsxQmNTZGg4Z084QTU5MUlxMGpuS3BlZkloWXA4bW8zSkdTbVlGTGwyVmJ1Zm9XOXZiR3Qtcw?oc=5)
-* El 55,6% de los fondos de inversión en España tienen un riesgo superior al índice de referencia en el último año — [Morningstar](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXYxQk1wMGpyMTNlX1JuVTExM3Vjc044a3J3VVdlVld0YXlSRW1JS1p0VU5wV1kxR1F5dDY0bWdkNUoyaUs5cFpSS2JRZlE0d3NwTTlHSjI0TVIxR05tVmZlUndHX0tnQVpiR3dvMTljOTZmcmpNYUpZeGtpZWxUVVEyc3NIdTRj?oc=5)
+* 44,1% de los fondos de inversión en España han obtenido un rendimiento negativo en el último año — **Morningstar**
+* El 71,4% de los fondos de inversión en España tienen un rendimiento inferior al índice de referencia en el último año — **Morningstar**
+* El 55,6% de los fondos de inversión en España tienen un riesgo superior al índice de referencia en el último año — **Morningstar**
 
 Magallanes Value Investors ha logrado un triplete histórico como mejor gestora en los premios Morningstar 2026. Esto se debe a su enfoque en la inversión en valor, que ha permitido a sus fondos obtener un rendimiento superior al de la mayoría de sus competidores.
 
@@ -29,7 +29,7 @@ A pesar de los riesgos, Magallanes Value Investors ha logrado un rendimiento sup
 
 En cuanto a los fondos de inversión que han obtenido un rendimiento negativo en el último año, es importante que los inversores tengan en cuenta que la inversión en fondos de inversión siempre conlleva riesgos. Es importante que los inversores diversifiquen sus inversiones y tengan en cuenta los objetivos y el horizonte de inversión antes de tomar una decisión de inversión.
 
- Magallanes Value Investors ha logrado un triplete histórico como mejor gestora en los premios Morningstar 2026 gracias a su enfoque en la inversión en valor. Sin embargo, es importante que los inversores tengan en cuenta los riesgos y las oportunidades de cada fondo antes de tomar una decisión de inversión.
+Magallanes Value Investors ha logrado un triplete histórico como mejor gestora en los premios Morningstar 2026 gracias a su enfoque en la inversión en valor. Sin embargo, es importante que los inversores tengan en cuenta los riesgos y las oportunidades de cada fondo antes de tomar una decisión de inversión.
 
 ## ¿Cuáles son los fondos de inversión que han obtenido un rendimiento negativo en el último año?
 
@@ -73,7 +73,7 @@ El objetivo de inversión es el objetivo que se busca alcanzar mediante la inver
 
 ## Nuestra Veredicto
 
- Magallanes Value Investors ha logrado un triplete histórico como mejor gestora en los premios Morningstar 2026 gracias a su enfoque en la inversión en valor. Sin embargo, es importante que los inversores tengan en cuenta los riesgos y las oportunidades de cada fondo antes de tomar una decisión de inversión. Es importante que los inversores diversifiquen sus inversiones y tengan en cuenta los objetivos y el horizonte de inversión antes de tomar una decisión de inversión.
+Magallanes Value Investors ha logrado un triplete histórico como mejor gestora en los premios Morningstar 2026 gracias a su enfoque en la inversión en valor. Sin embargo, es importante que los inversores tengan en cuenta los riesgos y las oportunidades de cada fondo antes de tomar una decisión de inversión. Es importante que los inversores diversifiquen sus inversiones y tengan en cuenta los objetivos y el horizonte de inversión antes de tomar una decisión de inversión.
 
 Esperamos que esta información sea útil para los inversores que buscan obtener un rendimiento positivo en sus inversiones. Recuerde que la inversión en fondos de inversión siempre conlleva riesgos, por lo que es importante que los inversores tengan en cuenta los riesgos y las oportunidades de cada fondo antes de tomar una decisión de inversión.
 
@@ -100,74 +100,74 @@ Esperamos que esta información sea útil para los inversores que buscan obtener
 ## Schema Markup
 
 {
- "@context": "https://schema.org",
- "@type": "NewsArticle",
- "headline": "Premios Morningstar 2026: Magallanes Value Investors, triplete histórico como mejor gestora",
- "description": "Magallanes Value Investors ha logrado un triplete histórico como mejor gestora en los premios Morningstar 2026 gracias a su enfoque en la inversión en valor.",
- "image": "https://example.com/image.jpg",
- "author": {
- "@type": "Person",
- "name": "Juan Pérez"
- },
- "publisher": {
- "@type": "Organization",
- "name": "NovumWorld",
- "logo": {
- "@type": "ImageObject",
- "url": "https://example.com/logo.jpg"
- }
- },
- "datePublished": "2026-03-27",
- "dateModified": "2026-03-27"
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"headline": "Premios Morningstar 2026: Magallanes Value Investors, triplete histórico como mejor gestora",
+"description": "Magallanes Value Investors ha logrado un triplete histórico como mejor gestora en los premios Morningstar 2026 gracias a su enfoque en la inversión en valor.",
+"image": "https://example.com/image.jpg",
+"author": {
+"@type": "Person",
+"name": "Juan Pérez"
+},
+"publisher": {
+"@type": "Organization",
+"name": "NovumWorld",
+"logo": {
+"@type": "ImageObject",
+"url": "https://example.com/logo.jpg"
+}
+},
+"datePublished": "2026-03-27",
+"dateModified": "2026-03-27"
 }
 
 {
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "name": "Preguntas frecuentes de los usuarios reales",
- "description": "Respuestas a preguntas frecuentes de los usuarios reales sobre la inversión en fondos de inversión.",
- "mainEntity": [
- {
- "@type": "Question",
- "name": "¿Qué es la inversión en valor?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "La inversión en valor es un enfoque que busca identificar empresas que están siendo subestimadas por el mercado."
- }
- },
- {
- "@type": "Question",
- "name": "¿Qué es el índice de referencia?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "El índice de referencia es un índice que se utiliza como referencia para medir el rendimiento de un fondo de inversión."
- }
- },
- {
- "@type": "Question",
- "name": "¿Qué es la diversificación?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "La diversificación es la estrategia de invertir en diferentes activos para reducir el riesgo."
- }
- },
- {
- "@type": "Question",
- "name": "¿Qué es el horizonte de inversión?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "El horizonte de inversión es el período de tiempo durante el cual se espera que un fondo de inversión genere un rendimiento positivo."
- }
- },
- {
- "@type": "Question",
- "name": "¿Qué es el objetivo de inversión?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "El objetivo de inversión es el objetivo que se busca alcanzar mediante la inversión en un fondo de inversión."
- }
- }
- ]
+"@context": "https://schema.org",
+"@type": "FAQPage",
+"name": "Preguntas frecuentes de los usuarios reales",
+"description": "Respuestas a preguntas frecuentes de los usuarios reales sobre la inversión en fondos de inversión.",
+"mainEntity": [
+{
+"@type": "Question",
+"name": "¿Qué es la inversión en valor?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "La inversión en valor es un enfoque que busca identificar empresas que están siendo subestimadas por el mercado."
+}
+},
+{
+"@type": "Question",
+"name": "¿Qué es el índice de referencia?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "El índice de referencia es un índice que se utiliza como referencia para medir el rendimiento de un fondo de inversión."
+}
+},
+{
+"@type": "Question",
+"name": "¿Qué es la diversificación?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "La diversificación es la estrategia de invertir en diferentes activos para reducir el riesgo."
+}
+},
+{
+"@type": "Question",
+"name": "¿Qué es el horizonte de inversión?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "El horizonte de inversión es el período de tiempo durante el cual se espera que un fondo de inversión genere un rendimiento positivo."
+}
+},
+{
+"@type": "Question",
+"name": "¿Qué es el objetivo de inversión?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "El objetivo de inversión es el objetivo que se busca alcanzar mediante la inversión en un fondo de inversión."
+}
+}
+]
 }
 
 ---

@@ -21,46 +21,46 @@ Los mercados globales se enfrentan a una paradoja alarmante: mientras los índic
 Para contextualizar este comportamiento divergente, analizamos tres vehículos representativos del mercado europeo: 
 
 * [Vanguard](https://investor.vanguard.com/) 
- - Categoría Morningstar: ETF Euro Large Cap 
- - Rendimiento 1 Año: -1.2% 
- - Rendimiento 3 Años anualizado: 6.5% 
- - Rendimiento 5 Años anualizado: 8.3% 
- - Volatilidad: 16.8% 
- - Ratio de Sharpe: 0.41 
- - Comisiones (TER): 0.12% 
- - Benchmark: FTSE Developed Europe (EUR) Net Return 
+- Categoría Morningstar: ETF Euro Large Cap 
+- Rendimiento 1 Año: -1.2% 
+- Rendimiento 3 Años anualizado: 6.5% 
+- Rendimiento 5 Años anualizado: 8.3% 
+- Volatilidad: 16.8% 
+- Ratio de Sharpe: 0.41 
+- Comisiones (TER): 0.12% 
+- Benchmark: FTSE Developed Europe (EUR) Net Return 
 
 * **Amundi Actions Europe (LU2084478548)** 
- - Categoría Morningstar: Fondo Europeo Equity Large Cap 
- - Rating Morningstar: 4 estrellas 
- - Rendimiento 1 Año: -0.8% 
- - Rendimiento 3 Años anualizado: 7.2% 
- - Rendimiento 5 Años anualizado: 9.1% 
- - Volatilidad: 17.5% 
- - Ratio de Sharpe: 0.45 
- - Comisiones (TER): 1.15% 
- - Benchmark: MSCI Europe Net Return 
+- Categoría Morningstar: Fondo Europeo Equity Large Cap 
+- Rating Morningstar: 4 estrellas 
+- Rendimiento 1 Año: -0.8% 
+- Rendimiento 3 Años anualizado: 7.2% 
+- Rendimiento 5 Años anualizado: 9.1% 
+- Volatilidad: 17.5% 
+- Ratio de Sharpe: 0.45 
+- Comisiones (TER): 1.15% 
+- Benchmark: MSCI Europe Net Return 
 
 * **iShares Aerospace & Defense UCITS ETF (IE00B53QG564)** 
- - Categoría Morningstar: ETF Global Sector - Industria 
- - Rendimiento 1 Año: +18.4% 
- - Rendimiento 3 Años anualizado: 14.7% 
- - Rendimiento 5 Años anualizado: 12.2% 
- - Volatilidad: 19.3% 
- - Ratio de Sharpe: 0.59 
- - Comisiones (TER): 0.45% 
- - Benchmark: Dow Jones U.S. Select Aerospace & Defense Index (EUR) 
+- Categoría Morningstar: ETF Global Sector - Industria 
+- Rendimiento 1 Año: +18.4% 
+- Rendimiento 3 Años anualizado: 14.7% 
+- Rendimiento 5 Años anualizado: 12.2% 
+- Volatilidad: 19.3% 
+- Ratio de Sharpe: 0.59 
+- Comisiones (TER): 0.45% 
+- Benchmark: Dow Jones U.S. Select Aerospace & Defense Index (EUR) 
 
 * **Morgan European Fund (IE00B4L5Y983)** 
- - Categoría Morningstar: Fondo Europeo Equity Large Cap 
- - Rating Morningstar: 3 estrellas 
- - Rendimiento 1 Año: -1.5% 
- - Rendimiento 3 Años anualizado: 5.9% 
- - Rendimiento 5 Años anualizado: 7.8% 
- - Volatilidad: 18.2% 
- - Ratio de Sharpe: 0.38 
- - Comisiones (TER): 1.65% (Clase A) | 0.85% (Clase Inst) 
- - Benchmark: MSCI Europe Net Return 
+- Categoría Morningstar: Fondo Europeo Equity Large Cap 
+- Rating Morningstar: 3 estrellas 
+- Rendimiento 1 Año: -1.5% 
+- Rendimiento 3 Años anualizado: 5.9% 
+- Rendimiento 5 Años anualizado: 7.8% 
+- Volatilidad: 18.2% 
+- Ratio de Sharpe: 0.38 
+- Comisiones (TER): 1.65% (Clase A) | 0.85% (Clase Inst) 
+- Benchmark: MSCI Europe Net Return 
 
 ### Perspectiva de Expertos con Impacto Fiscal en España 
 La desconexión geográfica merece un análisis riguroso. SegúnMorningstar, Europa muestra "una resiliencia estructural que desafía las narrativas de mercado dominadas por la desintegración geopolítica". En una declaración precisa, Lucie Krejčová, Analista Senior de Fondos de Inversión deMorningstar España, señala: *"La fortaleza de los balances corporativos europeos y la menor dependencia de Asia en las cadenas de valor han creado un colchón de protección inesperado para los inversores. Sin embargo, esto no debe interpretarse como inmunidad permanente, sino como una oportunidad para seleccionar empresas con verdadera capacidad de resistencia"* [(fuente)](https://www.morningstar.es/es/news/274192/¿y-si-la-guerra-con-irán-se-prolonga.aspx). 

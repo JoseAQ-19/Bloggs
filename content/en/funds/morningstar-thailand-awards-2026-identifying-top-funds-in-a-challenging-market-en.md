@@ -15,9 +15,9 @@ translationKey: "d512ecfa-bd8a-816f-4018-5ddfb4289dc2"
 
 **$1.4 billion in assets under management (AUM) were awarded to the top-performing mutual funds in Thailand at the Morningstar Awards for Investing Excellence Thailand 2026.**
 
-* $643 million — the AUM of the winner in the Best Equity Fund category, Kasikorn Thai Equity Fund, with a 1-year return of 15.12% [Morningstar](https://news.google.com/rss/articles/CBMitAFBVV95cUxOd05tbmpyM3c4MnhjTHF1QVRsTVNnbTR5SFlXVjlPXzVXSGV2azAzdGlSSXJYb29kcWh4dGxvb05oZ0xNYlhIcjNQVGpaMlV5dndFZGpxREZsVS1TdlEyTVVDbFB2R0QzUWRPVFEwQ2hSS2Z6dy1iSl81X3RSSXR2T2dxU0t0cFo1OW5XUDNrTV9pWlhGMHBxOTN5MGNiZEpWa2tjM0dxS3ZkOFZyV0haVDRPVDc?oc=5)
-* 12.56% — the 3-year annualized return of the winner in the Best Fixed Income Fund category, Krungsri Bond Fund, with a Sharpe ratio of 0.83 [SEC](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTi1wMDlBR2hBOS12OGNUMjBsMlNQYXlObXFFWGpwbnJsekpZM1pLeFRaZVd5NVVrM004R3JiTngyZHRvMXNHV1dheFpHaGl3TEwyRzJaTFY0UGI0aVNKU005Uk9iWlhoVzFlSEJVaGdZTDZiMFRnbXRJWUdjb0xLdHNLdjdjUl9qTVIyajRnX0N5ZFJTYW82eWMyTGs1Zm16M0cwY05wWU90Zw?oc=5)
-* 1.23% — the expense ratio of the winner in the Best Index Fund category, SCB Index Fund, with a tracking error of 0.42% [CNMV](https://news.google.com/rss/articles/CBMizwFBVV95cUxORnl2ZGYwVXlPXzFpQ2tCNHNaR1dWemZQSU8wbW1oZXBQcm1NOGQ3RS03R2hoc0wyaTRzR2xmaVFaMHJRa0FiMl9XdDc1U3hJV3NINHpmR3hHd1VEY0EybE9kNl9kZlYwMnhWVmZiOEJ5bWFsNW9qaEEwVE02UFFkcHNYUDB5MGI1Uk43YVRUZXllWjd4dGs3el9iY2pGaXAyS1N3YVA5MERwX1dxRFRKRXJjaTlzSGZoTFlkeXluQ1NhcGY0aDZQY2xQY055Y1E?oc=5)
+* $643 million — the AUM of the winner in the Best Equity Fund category, Kasikorn Thai Equity Fund, with a 1-year return of 15.12% **Morningstar**
+* 12.56% — the 3-year annualized return of the winner in the Best Fixed Income Fund category, Krungsri Bond Fund, with a Sharpe ratio of 0.83 **SEC**
+* 1.23% — the expense ratio of the winner in the Best Index Fund category, SCB Index Fund, with a tracking error of 0.42% **CNMV**
 
 ## Morningstar Thailand Awards 2026: A Review of the Winners
 

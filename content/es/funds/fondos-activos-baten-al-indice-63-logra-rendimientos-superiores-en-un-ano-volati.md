@@ -39,7 +39,7 @@ Esto refuerza la idea de que, aunque la gestión activa puede ser efectiva en a�
 
 Los fondos activos suelen tener ratios de gastos totales (TER) significativamente más altos que sus equivalentes pasivos. Según **Morningstar**, el TER promedio de los fondos activos de renta variable global es del 1,12%, frente al 0,15% de los ETFs pasivos. Aunque en 2023 los mayores rendimientos de los fondos activos pudieron compensar estos costes, la sostenibilidad de este desempeño es incierta.
 
- que los costes no son solo un factor determinante en términos de rentabilidad, sino también en la elección del tipo de fondo por parte del inversor. Los inversores más experimentados suelen optar por fondos con TER más bajos y gestores con historial probado en la generación de alfa en condiciones específicas de mercado. En contraste, los inversores novatos tienden a subestimar el impacto que los costes pueden tener en su rentabilidad a largo plazo.
+que los costes no son solo un factor determinante en términos de rentabilidad, sino también en la elección del tipo de fondo por parte del inversor. Los inversores más experimentados suelen optar por fondos con TER más bajos y gestores con historial probado en la generación de alfa en condiciones específicas de mercado. En contraste, los inversores novatos tienden a subestimar el impacto que los costes pueden tener en su rentabilidad a largo plazo.
 
 Además, el debate sobre los costes cobra especial relevancia en un contexto de inflación elevada. En 2023, la inflación en la eurozona se mantuvo por encima del 5% durante gran parte del año, lo que significa que los rendimientos reales de los fondos pueden verse erosionados si los costes son demasiado elevados.
 

@@ -49,8 +49,7 @@ The relentless pursuit of the perfect physique often comes at a steep cost to lo
 
 Dr. George Touliatos (Dr. Testosterone) considers diuretics one of the riskiest drugs a bodybuilder can take, stating that "Diuretics are an instant danger and can kill you right away". His stark warning underscores the immediate and potentially irreversible damage that these substances can inflict. Athletes need to ask themselves if a fleeting moment of glory on stage is worth sacrificing their long-term health and well-being. Is a trophy really worth risking organ failure?
 
-## 
-
+## The Bottom Line
 Ronnie Coleman is right: diuretics should be banned in bodybuilding competitions due to their disproportionate risk compared to any aesthetic benefit. The potential for life-threatening complications far outweighs any perceived advantage in terms of physique enhancement. Diuretics are not merely shortcuts to a leaner physique; they are ticking time bombs that can detonate without warning.
 
 If you're a bodybuilder, prioritize your health and compete naturally; consider consulting a registered dietitian or physician before taking any supplements, including those marketed as "natural" diuretics. This could mean sacrificing some aesthetic perfection to preserve your health. Seek guidance on safe and sustainable strategies for achieving your physique goals without resorting to dangerous practices. Health over aesthetics, always. If you feel pressured to use diuretics, consider if the sport is worth it. Consider the advice of **Dr Eric Helms**: avoid intentionally cutting water altogether.

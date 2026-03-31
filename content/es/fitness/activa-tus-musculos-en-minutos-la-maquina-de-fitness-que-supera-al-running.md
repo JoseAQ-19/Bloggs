@@ -18,9 +18,9 @@ translationKey: "9819caf2-fea5-3b59-60ae-966ade97bbf8"
 Las personas que creen que el running es la única forma efectiva de quemar grasa están atrapadas en un mito anticuado. La realidad es que el entrenamiento de intervalo de alta intensidad (HIIT) ha demostrado ser un método más eficiente, ayudando a quemar casi un 30% más de grasa en comparación con el running, según un estudio reciente. 
 
 * El entrenamiento HIIT puede ayudar a perder casi un 30% más de grasa en comparación con el running, según un estudio reciente.
- 
+
 * Expertos como Marcos Vázquez resaltan que el HIIT desafía al cuerpo con ráfagas intensas, lo que promueve una quema de grasa prolongada.
- 
+
 * Si buscas una alternativa al running, el HIIT sin equipo podría ser más efectivo, pero es esencial asegurarte de tener la preparación adecuada.
 
 ## La revolución del HIIT frente a las máquinas de cardio: ¿por qué debería importarte?

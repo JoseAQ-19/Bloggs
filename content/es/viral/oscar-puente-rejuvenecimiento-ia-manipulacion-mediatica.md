@@ -102,23 +102,23 @@ La manipulación mediática a través de deepfakes ya no es una amenaza futurist
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Manipulación Mediática De Óscar Puente: 929 Millones En Estafas De IA",
-  "description": "Descubre cómo Óscar Puente ha estado involucrado en estafas de IA que suman 929 millones, revelando la manipulación mediática detrás de estos engaños.",
-  "image": "https://novumworld.com/images/oscar-puente-rejuvenecimiento-ia-manipulacion-mediatica.jpg",
-  "datePublished": "2026-03-30T22:10:54",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"headline": "La Manipulación Mediática De Óscar Puente: 929 Millones En Estafas De IA",
+"description": "Descubre cómo Óscar Puente ha estado involucrado en estafas de IA que suman 929 millones, revelando la manipulación mediática detrás de estos engaños.",
+"image": "https://novumworld.com/images/oscar-puente-rejuvenecimiento-ia-manipulacion-mediatica.jpg",
+"datePublished": "2026-03-30T22:10:54",
+"author": {
+"@type": "Organization",
+"name": "NovumWorld Editorial Team"
+},
+"publisher": {
+"@type": "Organization",
+"name": "NovumWorld",
+"logo": {
+"@type": "ImageObject",
+"url": "https://novumworld.com/images/logo.png"
+}
+}
 }
 </script>

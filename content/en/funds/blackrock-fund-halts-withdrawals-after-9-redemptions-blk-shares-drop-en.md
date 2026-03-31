@@ -26,44 +26,44 @@ According to Morningstar data, the Strategic Income Opportunities Fund, categori
 To contextualize BlackRock's current situation, we compare the Strategic Income Opportunities Fund with similar offerings from major competitors:
 
 - BlackRock Strategic Income Opportunities Fund (BSIOX):
- - 1 Year Performance: -3.2%
- - 3 Years Annualized: 1.8%
- - 5 Years Annualized: 3.1%
- - Volatility: 4.3%
- - Sharpe Ratio: -0.74
- - Fees: 0.85%
+- 1 Year Performance: -3.2%
+- 3 Years Annualized: 1.8%
+- 5 Years Annualized: 3.1%
+- Volatility: 4.3%
+- Sharpe Ratio: -0.74
+- Fees: 0.85%
 
 - Fidelity Floating Rate High Income Fund (FFRHX):
- - 1 Year Performance: -1.5%
- - 3 Years Annualized: 2.9%
- - 5 Years Annualized: 3.8%
- - Volatility: 3.8%
- - Sharpe Ratio: -0.39
- - Fees: 0.53%
+- 1 Year Performance: -1.5%
+- 3 Years Annualized: 2.9%
+- 5 Years Annualized: 3.8%
+- Volatility: 3.8%
+- Sharpe Ratio: -0.39
+- Fees: 0.53%
 
 - Vanguard Short-Term Corporate Bond ETF (VCSH):
- - 1 Year Performance: -2.8%
- - 3 Years Annualized: 2.1%
- - 5 Years Annualized: 2.5%
- - Volatility: 2.1%
- - Sharpe Ratio: -1.33
- - Fees: 0.05%
+- 1 Year Performance: -2.8%
+- 3 Years Annualized: 2.1%
+- 5 Years Annualized: 2.5%
+- Volatility: 2.1%
+- Sharpe Ratio: -1.33
+- Fees: 0.05%
 
 - iShares iBoxx $ High Yield Corporate Bond ETF (HYG):
- - 1 Year Performance: -5.1%
- - 3 Years Annualized: 3.2%
- - 5 Years Annualized: 5.1%
- - Volatility: 7.2%
- - Sharpe Ratio: -0.71
- - Fees: 0.49%
+- 1 Year Performance: -5.1%
+- 3 Years Annualized: 3.2%
+- 5 Years Annualized: 5.1%
+- Volatility: 7.2%
+- Sharpe Ratio: -0.71
+- Fees: 0.49%
 
 - SPDR Bloomberg High Yield Bond ETF (JNK):
- - 1 Year Performance: -5.3%
- - 3 Years Annualized: 3.0%
- - 5 Years Annualized: 4.8%
- - Volatility: 7.5%
- - Sharpe Ratio: -0.71
- - Fees: 0.40%
+- 1 Year Performance: -5.3%
+- 3 Years Annualized: 3.0%
+- 5 Years Annualized: 4.8%
+- Volatility: 7.5%
+- Sharpe Ratio: -0.71
+- Fees: 0.40%
 
 The data reveals that BlackRock's fund has significantly underperformed both its benchmark (Bloomberg Aggregate Bond Index) and key competitors across all time horizons. While high-yield bond ETFs like HYG and JNK have experienced similar negative returns over the past year, their significantly lower expense ratios provide investors with better risk-adjusted returns after fees. Fidelity's floating rate fund, designed to perform better in rising rate environments, has outperformed BlackRock's offering while maintaining a lower expense structure.
 

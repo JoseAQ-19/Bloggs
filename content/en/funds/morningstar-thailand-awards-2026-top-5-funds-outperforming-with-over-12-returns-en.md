@@ -15,9 +15,9 @@ translationKey: "d850ec0a-b58f-5d7e-6bf4-a931f5558a90"
 
 **Thailand’s mutual funds have defied global economic turbulence, with five top-performing funds delivering returns exceeding 12% over the past year, as revealed at the Morningstar Thailand Awards 2026.** 
 
-* 24.3% annualized return — Bualuang Global Equity Fund [source](https://news.google.com/rss/articles/CBMicEFVX3lxTE9IdmNhYUsyS3J1bmVMc1kxWHc2TENDSVFuQzRaNmZxZlFheXBqTDJxbXIzc0NhRFY4cVY3UndIOFV2eEhoQ25tVWg0MC1DcWtYbFhUc19ST3RSYUNtY3BaWF9HaDctazV2cEN3aTgtS00?oc=5) 
-* 18.9% 3-year annualized return — Krungsri Global Technology Equity Fund [source](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0dKMmNRdlZXS056ZTROdFlfalVTR0NjVjdkMkFYV3lJaUpWUjBOUElVbl9CM0dZRUpSRHFRTmczT0F4VDA5STY1ejBTSGVEQThXWENoOTN0VkRYXzhSYURISnF1TmZ4MFRQVzFZcDhpNTFBSDJ3TE1zR2YyaUkyRXBXelR4SF9SMUdpSW5rWGxZamFzbXpHalh1NTctdkx4a2xLMzFSRmpGSUU?oc=5) 
-* 11.2% 5-year CAGR — SCB Global Income Fund [source](https://news.google.com/rss/articles/CBMinwFBVV95cUxNekNDcGJLZ1lTSFpOSWg1RjZtOTFHQ2U0WlpJUDFrM0dpS2FoXzFqU3pBZ1c1eWJzREJfcDczMkloZV9FeVlVWmEyMTBHM1hyd1VEMGs4VUtPa2dQSFRLTXFjNS1VU2F0Z0VTMlNQelFjZ05YUk4yVlF1Ynd6OWdIWkNEVHM5emltTEpJU1dvQU1ISy1XOS01QVk0V1ZpaGs?oc=5) 
+* 24.3% annualized return — Bualuang Global Equity Fund **source** 
+* 18.9% 3-year annualized return — Krungsri Global Technology Equity Fund **source** 
+* 11.2% 5-year CAGR — SCB Global Income Fund **source** 
 
 This year’s winners demonstrate the resilience of Thailand’s investment opportunities amidst global volatility. With a mix of domestic and international exposure, these mutual funds have balanced innovation-led growth with risk-adjusted returns. 
 
@@ -29,7 +29,7 @@ The Morningstar Thailand Awards 2026 highlighted funds that have consistently de
 
 The **Bualuang Global Equity Fund** has emerged as a clear leader, boasting a remarkable 24.3% annualized return. This performance is driven largely by its strategic allocation to US technology and healthcare stocks, which have rebounded strongly post-pandemic. The fund’s expense ratio of 0.9% is slightly above the category average of 0.7%, yet its superior returns justify the premium. 
 
-Over a 3-year horizon, the fund has delivered an impressive 20.1% annualized return, outperforming both the **MSCI World Index** (15.8%) and the average for its peers (14.2%) [source](https://news.google.com/rss/articles/CBMicEFVX3lxTE9IdmNhYUsyS3J1bmVMc1kxWHc2TENDSVFuQzRaNmZxZlFheXBqTDJxbXIzc0NhRFY4cVY3UndIOFV2eEhoQ25tVWg0MC1DcWtYbFhUc19ST3RSYUNtY3BaWF9HaDctazV2cEN3aTgtS00?oc=5). 
+Over a 3-year horizon, the fund has delivered an impressive 20.1% annualized return, outperforming both the **MSCI World Index** (15.8%) and the average for its peers (14.2%) **source**. 
 
 ### Krungsri Global Technology Equity Fund 
 
@@ -62,19 +62,19 @@ Finally, valuations in key sectors like technology and renewable energy remain s
 ## Real User FAQs 
 
 ### 1. **Are Thai mutual funds suitable for conservative investors?** 
- Yes, funds like the **SCB Global Income Fund**, with its focus on dividend-paying stocks and bonds, are tailored for conservative investors. The fund’s lower volatility makes it an appealing choice for those seeking stable returns. 
+Yes, funds like the **SCB Global Income Fund**, with its focus on dividend-paying stocks and bonds, are tailored for conservative investors. The fund’s lower volatility makes it an appealing choice for those seeking stable returns. 
 
 ### 2. **How should I evaluate fees for Thai mutual funds?** 
- When assessing fees, look at the Total Expense Ratio (TER) in relation to the fund’s historical performance. For example, the Bualuang Global Equity Fund’s TER of 0.9% is higher than average, but its 24.3% annualized return more than compensates for the added cost. 
+When assessing fees, look at the Total Expense Ratio (TER) in relation to the fund’s historical performance. For example, the Bualuang Global Equity Fund’s TER of 0.9% is higher than average, but its 24.3% annualized return more than compensates for the added cost. 
 
 ### 3. **What are the tax implications of investing in Thai mutual funds as a foreigner?** 
- Tax implications vary by treaty agreements between Thailand and your home country. Investors should consult resources like the [IRS treaty tables](https://www.irs.gov/individuals/international-taxpayers/tax-treaties) when evaluating potential tax liabilities. 
+Tax implications vary by treaty agreements between Thailand and your home country. Investors should consult resources like the [IRS treaty tables](https://www.irs.gov/individuals/international-taxpayers/tax-treaties) when evaluating potential tax liabilities. 
 
 ### 4. **How do these funds compare to ETFs?** 
- While mutual funds like the Krungsri Global Technology Equity Fund may generate higher returns, ETFs often have lower fees and more tax-efficient structures. Learn more about ETF advantages in [this guide by Morningstar](https://www.morningstar.com/). 
+While mutual funds like the Krungsri Global Technology Equity Fund may generate higher returns, ETFs often have lower fees and more tax-efficient structures. Learn more about ETF advantages in [this guide by Morningstar](https://www.morningstar.com/). 
 
 ### 5. **What should I consider when choosing a mutual fund?** 
- Focus on factors like historical performance, expense ratios, sectoral allocations, and risk metrics like the Sharpe ratio. It’s also critical to align the fund’s strategy with your investment goals and risk tolerance. 
+Focus on factors like historical performance, expense ratios, sectoral allocations, and risk metrics like the Sharpe ratio. It’s also critical to align the fund’s strategy with your investment goals and risk tolerance. 
 
 ## The Machine's Verdict 
 

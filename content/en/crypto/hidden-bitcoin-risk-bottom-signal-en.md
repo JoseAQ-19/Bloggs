@@ -59,8 +59,7 @@ The growing macroeconomic uncertainty is further fueling the flight to safety, a
 
 Bitcoin has also broken below its Long-Term Holder True Cost Basis at $65,700, a key level watched by analysts.
 
-## 
-
+## The Bottom Line
 Bitcoin's technical and macroeconomic headwinds suggest a correction is inevitable. Investors should reduce their Bitcoin holdings and allocate capital to gold and silver.
 
 *Gold glitters, Bitcoin jitters.*

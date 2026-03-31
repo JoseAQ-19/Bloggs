@@ -24,40 +24,40 @@ Vanguard, known for its low-cost investment options, has implemented small but b
 Below is a comparative analysis of several Vanguard funds, illustrating performance metrics and expense ratios. Note that specific funds impacted by the 0.01% fee reduction may not show dramatic changes in the data immediately, but the overall trend reflects Vanguard's commitment to low costs.
 
 * [Vanguard](https://investor.vanguard.com/), Morningstar Category: Large Blend, Rating: 5 stars
- * 1 Year Return: 28.4%
- * 3 Year Return (Annualized): 9.8%
- * 5 Year Return (Annualized): 11.7%
- * Volatility (Standard Deviation): 15.5%
- * Sharpe Ratio: 0.75
- * Expense Ratio: 0.03%
+* 1 Year Return: 28.4%
+* 3 Year Return (Annualized): 9.8%
+* 5 Year Return (Annualized): 11.7%
+* Volatility (Standard Deviation): 15.5%
+* Sharpe Ratio: 0.75
+* Expense Ratio: 0.03%
 * **Vanguard 500 Index Fund ETF (VOO)**, Morningstar Category: Large Blend, Rating: 5 stars
- * 1 Year Return: 28.7%
- * 3 Year Return (Annualized): 10.2%
- * 5 Year Return (Annualized): 11.9%
- * Volatility (Standard Deviation): 15.4%
- * Sharpe Ratio: 0.77
- * Expense Ratio: 0.03%
+* 1 Year Return: 28.7%
+* 3 Year Return (Annualized): 10.2%
+* 5 Year Return (Annualized): 11.9%
+* Volatility (Standard Deviation): 15.4%
+* Sharpe Ratio: 0.77
+* Expense Ratio: 0.03%
 * **Vanguard Total Bond Market Index Fund ETF (BND)**, Morningstar Category: Intermediate Core Bond, Rating: 4 stars
- * 1 Year Return: 3.1%
- * 3 Year Return (Annualized): -2.5%
- * 5 Year Return (Annualized): 0.1%
- * Volatility (Standard Deviation): 5.1%
- * Sharpe Ratio: -0.05
- * Expense Ratio: 0.035%
+* 1 Year Return: 3.1%
+* 3 Year Return (Annualized): -2.5%
+* 5 Year Return (Annualized): 0.1%
+* Volatility (Standard Deviation): 5.1%
+* Sharpe Ratio: -0.05
+* Expense Ratio: 0.035%
 * **Vanguard Total World Stock ETF (VT)**, Morningstar Category: World Stock, Rating: 4 stars
- * 1 Year Return: 22.6%
- * 3 Year Return (Annualized): 7.2%
- * 5 Year Return (Annualized): 9.3%
- * Volatility (Standard Deviation): 14.2%
- * Sharpe Ratio: 0.65
- * Expense Ratio: 0.07%
+* 1 Year Return: 22.6%
+* 3 Year Return (Annualized): 7.2%
+* 5 Year Return (Annualized): 9.3%
+* Volatility (Standard Deviation): 14.2%
+* Sharpe Ratio: 0.65
+* Expense Ratio: 0.07%
 * **Vanguard Growth ETF (VUG)**, Morningstar Category: Large Growth, Rating: 4 stars
- * 1 Year Return: 35.4%
- * 3 Year Return (Annualized): 10.7%
- * 5 Year Return (Annualized): 14.8%
- * Volatility (Standard Deviation): 18.2%
- * Sharpe Ratio: 0.81
- * Expense Ratio: 0.04%
+* 1 Year Return: 35.4%
+* 3 Year Return (Annualized): 10.7%
+* 5 Year Return (Annualized): 14.8%
+* Volatility (Standard Deviation): 18.2%
+* Sharpe Ratio: 0.81
+* Expense Ratio: 0.04%
 
 These expense ratios are already exceptionally low. For context, the average expense ratio for actively managed mutual funds is significantly higher, often exceeding 1%. The Vanguard Institutional Index Fund (VINIX) has even lower fees, reserved for larger investors. Data pending verification on specific fund impacts post-fee cut, as adjustments are typically reflected over time.
 

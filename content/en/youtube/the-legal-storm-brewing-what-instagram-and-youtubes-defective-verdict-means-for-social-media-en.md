@@ -104,23 +104,23 @@ As the dust settles on this landmark ruling, the implications for the future of 
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Instagram And YouTube Face Legal Chaos: The Shocking Verdict That Could Change Everything",
-  "description": "Explore the groundbreaking legal ruling impacting Instagram and YouTube. Discover how this verdict could reshape the future of social media platforms.",
-  "image": "https://novumworld.com/images/the-legal-storm-brewing-what-instagram-and-youtubes-defective-verdict-means-for-social-media-en.jpg",
-  "datePublished": "2026-03-30T20:46:39",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"headline": "Instagram And YouTube Face Legal Chaos: The Shocking Verdict That Could Change Everything",
+"description": "Explore the groundbreaking legal ruling impacting Instagram and YouTube. Discover how this verdict could reshape the future of social media platforms.",
+"image": "https://novumworld.com/images/the-legal-storm-brewing-what-instagram-and-youtubes-defective-verdict-means-for-social-media-en.jpg",
+"datePublished": "2026-03-30T20:46:39",
+"author": {
+"@type": "Organization",
+"name": "NovumWorld Editorial Team"
+},
+"publisher": {
+"@type": "Organization",
+"name": "NovumWorld",
+"logo": {
+"@type": "ImageObject",
+"url": "https://novumworld.com/images/logo.png"
+}
+}
 }
 </script>

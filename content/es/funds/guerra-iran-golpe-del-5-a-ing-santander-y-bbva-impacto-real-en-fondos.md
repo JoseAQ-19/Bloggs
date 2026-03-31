@@ -24,26 +24,26 @@ La banca española, con ING, Santander y BBVA a la cabeza, podría sufrir un imp
 El impacto potencial de la crisis geopolítica en las inversiones se puede comprender mejor analizando el rendimiento de fondos con exposición a la banca española y mercados emergentes. Es crucial recordar que el rendimiento pasado no garantiza rendimientos futuros y que la situación actual es altamente volátil.
 
 * **Amundi Index Equity Europe (AE) (LU0996182563)**
- * Rendimiento 1 Año: 18.2%
- * Rendimiento 3 Años anualizado: 11.5%
- * Rendimiento 5 Años anualizado: 9.8%
- * Volatilidad (Desviación estándar): 12.5%
- * Ratio de Sharpe: 0.9
- * Comisiones (TER / Expense Ratio): 0.12%
+* Rendimiento 1 Año: 18.2%
+* Rendimiento 3 Años anualizado: 11.5%
+* Rendimiento 5 Años anualizado: 9.8%
+* Volatilidad (Desviación estándar): 12.5%
+* Ratio de Sharpe: 0.9
+* Comisiones (TER / Expense Ratio): 0.12%
 * **Vanguard Emerging Markets Stock Index Fund EUR Acc**
- * Rendimiento 1 Año: 12.7%
- * Rendimiento 3 Años anualizado: N/D
- * Rendimiento 5 Años anualizado: 5.2%
- * Volatilidad (Desviación estándar): 17.8%
- * Ratio de Sharpe: 0.3
- * Comisiones (TER / Expense Ratio): 0.23%
+* Rendimiento 1 Año: 12.7%
+* Rendimiento 3 Años anualizado: N/D
+* Rendimiento 5 Años anualizado: 5.2%
+* Volatilidad (Desviación estándar): 17.8%
+* Ratio de Sharpe: 0.3
+* Comisiones (TER / Expense Ratio): 0.23%
 * **Santander Acciones Españolas FI (ES0176668007)**
- * Rendimiento 1 Año: 14.5%
- * Rendimiento 3 Años anualizado: 5.8%
- * Rendimiento 5 Años anualizado: 4.1%
- * Volatilidad (Desviación estándar): 15.2%
- * Ratio de Sharpe: 0.25
- * Comisiones (TER / Expense Ratio): 1.50%
+* Rendimiento 1 Año: 14.5%
+* Rendimiento 3 Años anualizado: 5.8%
+* Rendimiento 5 Años anualizado: 4.1%
+* Volatilidad (Desviación estándar): 15.2%
+* Ratio de Sharpe: 0.25
+* Comisiones (TER / Expense Ratio): 1.50%
 
 **Nota:** Datos de Morningstar Direct y gestoras de fondos. Rendimientos expresados en euros. Datos a fecha de cierre del último trimestre. El rendimiento de 3 años del Vanguard Emerging Markets es N/D por no disponer de información completa.
 

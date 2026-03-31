@@ -75,8 +75,7 @@ The NIST AI Risk Management Framework helps to manage AI risks, but its effectiv
 
 We are at a precipice. The time has come to change AI development. A paradigm shift is necessary where security and caution are prioritized over speed.
 
-## 
-
+## The Bottom Line
 The rapid advancement of AI technology presents both tremendous opportunities and significant risks. Current AI development prioritizes speed over safety, creating unacceptable risks. We are rapidly approaching disaster. Increased government oversight and independent audits of AI systems are necessary before widespread deployment.
 
 Automate responsibly, or automate the apocalypse.

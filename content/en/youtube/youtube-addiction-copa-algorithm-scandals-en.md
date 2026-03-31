@@ -106,23 +106,23 @@ The platform's strategy of prioritizing engagement over safety has turned a gene
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube's Shocking $170 Million COPPA Violation Exposed: Kids Are Paying the Price",
-  "description": "Discover the details behind YouTube's shocking $170 million COPPA violation and how it impacts children. Learn what this means for young viewers today.",
-  "image": "https://novumworld.com/images/youtube-addiction-copa-algorithm-scandals-en.jpg",
-  "datePublished": "2026-03-30T19:42:29",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"headline": "YouTube's Shocking $170 Million COPPA Violation Exposed: Kids Are Paying the Price",
+"description": "Discover the details behind YouTube's shocking $170 million COPPA violation and how it impacts children. Learn what this means for young viewers today.",
+"image": "https://novumworld.com/images/youtube-addiction-copa-algorithm-scandals-en.jpg",
+"datePublished": "2026-03-30T19:42:29",
+"author": {
+"@type": "Organization",
+"name": "NovumWorld Editorial Team"
+},
+"publisher": {
+"@type": "Organization",
+"name": "NovumWorld",
+"logo": {
+"@type": "ImageObject",
+"url": "https://novumworld.com/images/logo.png"
+}
+}
 }
 </script>

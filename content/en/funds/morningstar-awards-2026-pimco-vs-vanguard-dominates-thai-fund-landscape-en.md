@@ -15,9 +15,9 @@ translationKey: "1e89e978-3fc4-a992-b64d-9dc64aaed2b3"
 
 In Thailand's mutual fund landscape, PIMCO and Vanguard are at the forefront, showcasing remarkable performance metrics that have attracted significant investor attention. **PIMCO's Total Return Fund has outperformed its benchmark by 1.8% over the past year**, while **Vanguard's S&P 500 ETF has delivered a 15% total return over three years**, reflecting a robust investment strategy. Additionally, **the average expense ratio for equity funds has declined to 0.50% in 2025**, marking a continued trend towards cost-efficient investing.
 
-* [PIMCO's Total Return Fund performance 1Y: 7.5% — source Morningstar](https://news.google.com/rss/articles/CBMixwFBVV95cUxOWVBNbzdwUk90NHZTU3BreFBHU1I4M3ZOMHFyV1p1eTdnS3Mzdzc0Y2V1NTJYT2ZIVGpOcTNjTURUTTM5bGRaQUVEZ0xLUGlXMC1sQjF1ZG9xYlFrTXZyc3NBMDJUci1tZ2h0V3VCeDJ1VGNYQktzNEdKZHhnRHBiajB2aHdCbEVRMlcxczVVSm9sTDdseFI1VVJIU1lRZmN2NVZvbGdna3RCYUxRcEZFVVZwYjhWWmNrVkpkQ2ZLRXE1T3VxbTlZ?oc=5)
-* [Vanguard S&P 500 ETF total return 3Y: 15% — source Morningstar](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHoxRVprT1FCV2wwYmJSV1BNNTBqcmNNbnZ5eS1FS3p4a2dfSDJQcVppMm9VcG5KbGhDZzlWSzNGVGVZc2FjSk1Xc3gwdXNPOTIyVXl1WHhIQzZDSEh2eVUzZDdlZGtJRTVacjcxTjc0MnFZYzRxU1pkY0ZucnlqX3F0TU1DLUx3U2FCbmgta0NhcjIzRmhjSmMzQzE4SzRTV2ljUE1VQ0RybnRTZ3lWbnh1MV9GVF9vRFIxZ2tB?oc=5)
-* [Average expense ratio for equity funds 2025: 0.50% — source Morningstar](https://news.google.com/rss/articles/CBMijgFBVV95cUxOVFcyQktUcXhuWlhBQTdLa2RuNUlUeG1LU0QzVExlN0dWZEFqMnF6cmZRaHE1d0V0ZldvR2hNSHBCWTdDU09iM2NhVTZtb0NXQmd3ajdEQVVXbWE5RGVnUV9YMk51M0FvaDg1RXVDZ3U5el9RM0Nwck9jVS1XTmpodGZrVlRPZTVqZUc3QUt3?oc=5)
+* **PIMCO's Total Return Fund performance 1Y: 7.5% — source Morningstar**
+* **Vanguard S&P 500 ETF total return 3Y: 15% — source Morningstar**
+* **Average expense ratio for equity funds 2025: 0.50% — source Morningstar**
 
 The competition between PIMCO and Vanguard is fierce, particularly in the Thai market, where both funds have positioned themselves as leaders in the fixed-income and equity sectors, respectively. PIMCO’s focus on active management, particularly in bond markets, has resulted in a 3-year Sharpe ratio of 0.85, indicating a strong risk-adjusted return. Conversely, Vanguard’s index-based strategy has provided a low-cost, passive investment option, leading to a lower standard deviation of returns at 12.5%, compared to PIMCO’s 15.2%.
 
@@ -54,19 +54,19 @@ Analyzing the data through an algorithmic lens, it is evident that both PIMCO an
 ## Real User FAQs
 
 1. **What are the fees associated with PIMCO and Vanguard funds?**
- PIMCO's average expense ratio is around 0.75%, while Vanguard’s is significantly lower at approximately 0.04%.
+PIMCO's average expense ratio is around 0.75%, while Vanguard’s is significantly lower at approximately 0.04%.
 
 2. **How have PIMCO and Vanguard performed during market downturns?**
- Historically, Vanguard tends to provide more stability due to its diversified equity holdings, whereas PIMCO may experience higher volatility, especially in bond markets.
+Historically, Vanguard tends to provide more stability due to its diversified equity holdings, whereas PIMCO may experience higher volatility, especially in bond markets.
 
 3. **Is active management worth the higher fees of PIMCO?**
- It depends on individual investor preferences and market conditions; active funds like PIMCO can outperform in certain environments but may come with increased risks.
+It depends on individual investor preferences and market conditions; active funds like PIMCO can outperform in certain environments but may come with increased risks.
 
 4. **What should I consider before investing in these funds?**
- Evaluate your investment goals, risk tolerance, and the current market environment to determine which fund aligns better with your investment strategy.
+Evaluate your investment goals, risk tolerance, and the current market environment to determine which fund aligns better with your investment strategy.
 
 5. **Are there any tax implications to consider?**
- Yes, capital gains distributions from actively managed funds like PIMCO may be higher compared to index funds like Vanguard, affecting tax liabilities.
+Yes, capital gains distributions from actively managed funds like PIMCO may be higher compared to index funds like Vanguard, affecting tax liabilities.
 
 ## Our Investment Strategy
 

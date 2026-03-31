@@ -26,33 +26,33 @@ The fund’s expense ratio of 0.75% positions it competitively within its catego
 Below is a comparative performance analysis of FSAGX against relevant benchmarks and competitors.
 
 * **Fidelity Select Gold Portfolio (FSAGX)**
- * Rendimiento 1 Año (%): 39.2%
- * Rendimiento 3 Años anualizado (%): 18.5%
- * Rendimiento 5 Años anualizado (%): 16.2%
- * Volatilidad (Desviación estándar): 32.5%
- * Ratio de Sharpe: 0.50
- * Comisiones (TER / Expense Ratio): 0.75%
+* Rendimiento 1 Año (%): 39.2%
+* Rendimiento 3 Años anualizado (%): 18.5%
+* Rendimiento 5 Años anualizado (%): 16.2%
+* Volatilidad (Desviación estándar): 32.5%
+* Ratio de Sharpe: 0.50
+* Comisiones (TER / Expense Ratio): 0.75%
 * **SPDR Gold Trust ETF (GLD)**
- * Rendimiento 1 Año (%): 21.1%
- * Rendimiento 3 Años anualizado (%): 11.2%
- * Rendimiento 5 Años anualizado (%): 9.5%
- * Volatilidad (Desviación estándar): 14.5%
- * Ratio de Sharpe: 0.65
- * Comisiones (TER / Expense Ratio): 0.40%
+* Rendimiento 1 Año (%): 21.1%
+* Rendimiento 3 Años anualizado (%): 11.2%
+* Rendimiento 5 Años anualizado (%): 9.5%
+* Volatilidad (Desviación estándar): 14.5%
+* Ratio de Sharpe: 0.65
+* Comisiones (TER / Expense Ratio): 0.40%
 * **VanEck Gold Miners ETF (GDX)**
- * Rendimiento 1 Año (%): 32.7%
- * Rendimiento 3 Años anualizado (%): 7.8%
- * Rendimiento 5 Años anualizado (%): 9.1%
- * Volatilidad (Desviación estándar): 36.1%
- * Ratio de Sharpe: 0.25
- * Comisiones (TER / Expense Ratio): 0.51%
+* Rendimiento 1 Año (%): 32.7%
+* Rendimiento 3 Años anualizado (%): 7.8%
+* Rendimiento 5 Años anualizado (%): 9.1%
+* Volatilidad (Desviación estándar): 36.1%
+* Ratio de Sharpe: 0.25
+* Comisiones (TER / Expense Ratio): 0.51%
 * **Benchmark: Philadelphia Gold and Silver Index (XAU)**
- * Rendimiento 1 Año (%): 35.8%
- * Rendimiento 3 Años anualizado (%): 15.4%
- * Rendimiento 5 Años anualizado (%): 13.7%
- * Volatilidad (Desviación estándar): N/D
- * Ratio de Sharpe: N/D
- * Comisiones (TER / Expense Ratio): N/D
+* Rendimiento 1 Año (%): 35.8%
+* Rendimiento 3 Años anualizado (%): 15.4%
+* Rendimiento 5 Años anualizado (%): 13.7%
+* Volatilidad (Desviación estándar): N/D
+* Ratio de Sharpe: N/D
+* Comisiones (TER / Expense Ratio): N/D
 
 Note: Benchmark data sourced from **Yahoo Finance**. Volatility and Sharpe Ratio for XAU unavailable.
 

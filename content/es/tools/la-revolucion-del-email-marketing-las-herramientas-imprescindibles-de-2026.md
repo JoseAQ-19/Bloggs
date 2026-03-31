@@ -50,7 +50,7 @@ La escalabilidad también depende de la arquitectura de base de datos. Herramien
 
 ## La Trampa de la Automatización: Riesgos de Latencia y Calidad
 
-La automatización es una espada de doble filo técnica. Implementar flujos de trabajo (workflows) que reaccionan a eventos del usuario en tiempo real requiere una infraestructura de procesamiento de colas (message queues) como RabbitMQ o Kafka. Si la plataforma de email marketing no procesa los eventos con una latencia inferior a unos pocos segundos, la oportunidad de conversión se pierde. Un correo de "carrito abandonado" enviado 24 horas después del evento tiene una tasa de conversión cercana a cero.
+La automatización es una espada con riesgos significativos técnica. Implementar flujos de trabajo (workflows) que reaccionan a eventos del usuario en tiempo real requiere una infraestructura de procesamiento de colas (message queues) como RabbitMQ o Kafka. Si la plataforma de email marketing no procesa los eventos con una latencia inferior a unos pocos segundos, la oportunidad de conversión se pierde. Un correo de "carrito abandonado" enviado 24 horas después del evento tiene una tasa de conversión cercana a cero.
 
 Marina Aviles, especialista en CRM y digitalización en Cyberclick, advierte sobre el uso indiscriminado de la IA en la redacción. La generación de contenido mediante LLM (Large Language Models) puede introducir "alucinaciones" o tonos inconsistentes que dañan la marca. Además, los filtros de spam modernos están empezando a penalizar patrones de texto sintetizados por IA, detectando la falta de variabilidad estocástica propia de un humano. La automatización debe equilibrar la velocidad de la máquina con la empatía del humano.
 

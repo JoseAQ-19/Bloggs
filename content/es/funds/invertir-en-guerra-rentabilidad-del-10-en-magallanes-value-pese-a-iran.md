@@ -70,58 +70,58 @@ Magallanes Value invierte en acciones de alta calidad con un enfoque de valor. E
 ### Schema Markup
 
 {
- "@context": "https://schema.org",
- "@type": "NewsArticle",
- "headline": "Invertir en guerra: Rentabilidad del 10% en 'Magallanes Value' pese a Irán",
- "description": "Magallanes Value ha demostrado su capacidad para generar rentabilidades sostenidas a largo plazo en un entorno de incertidumbre geopolítica.",
- "datePublished": "2026-03-25",
- "author": {
- "@type": "Person",
- "name": "NovumWorld"
- },
- "publisher": {
- "@type": "Organization",
- "name": "NovumWorld",
- "logo": {
- "@type": "ImageObject",
- "url": "https://novumworld.com/logo.png"
- }
- },
- "mainEntityOfPage": {
- "@type": "WebPage",
- "@id": "https://novumworld.com/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran"
- }
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"headline": "Invertir en guerra: Rentabilidad del 10% en 'Magallanes Value' pese a Irán",
+"description": "Magallanes Value ha demostrado su capacidad para generar rentabilidades sostenidas a largo plazo en un entorno de incertidumbre geopolítica.",
+"datePublished": "2026-03-25",
+"author": {
+"@type": "Person",
+"name": "NovumWorld"
+},
+"publisher": {
+"@type": "Organization",
+"name": "NovumWorld",
+"logo": {
+"@type": "ImageObject",
+"url": "https://novumworld.com/logo.png"
+}
+},
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://novumworld.com/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran"
+}
 }
 
 {
- "@context": "https://schema.org",
- "@type": "FAQPage",
- "mainEntity": [
- {
- "@type": "Question",
- "name": "¿Qué es Magallanes Value y cómo funciona?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Magallanes Value es un fondo de inversión que se enfoca en la selección de acciones de alta calidad con un enfoque de valor. El fondo busca generar rentabilidades sostenidas a largo plazo mediante la selección de acciones que tengan un potencial de crecimiento a largo plazo."
- }
- },
- {
- "@type": "Question",
- "name": "¿Cuál es la rentabilidad histórica de Magallanes Value?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "La rentabilidad histórica de Magallanes Value es del 10,3% anualizado en los últimos 5 años."
- }
- },
- {
- "@type": "Question",
- "name": "¿Qué tipo de acciones invierte Magallanes Value?",
- "acceptedAnswer": {
- "@type": "Answer",
- "text": "Magallanes Value invierte en acciones de alta calidad con un enfoque de valor. El fondo busca seleccionar acciones que tengan un potencial de crecimiento a largo plazo y que estén disponibles a un precio razonable."
- }
- }
- ]
+"@context": "https://schema.org",
+"@type": "FAQPage",
+"mainEntity": [
+{
+"@type": "Question",
+"name": "¿Qué es Magallanes Value y cómo funciona?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Magallanes Value es un fondo de inversión que se enfoca en la selección de acciones de alta calidad con un enfoque de valor. El fondo busca generar rentabilidades sostenidas a largo plazo mediante la selección de acciones que tengan un potencial de crecimiento a largo plazo."
+}
+},
+{
+"@type": "Question",
+"name": "¿Cuál es la rentabilidad histórica de Magallanes Value?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "La rentabilidad histórica de Magallanes Value es del 10,3% anualizado en los últimos 5 años."
+}
+},
+{
+"@type": "Question",
+"name": "¿Qué tipo de acciones invierte Magallanes Value?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Magallanes Value invierte en acciones de alta calidad con un enfoque de valor. El fondo busca seleccionar acciones que tengan un potencial de crecimiento a largo plazo y que estén disponibles a un precio razonable."
+}
+}
+]
 }
 
 ---
