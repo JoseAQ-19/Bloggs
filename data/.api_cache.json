@@ -62,67 +62,53 @@
   "4618dd580265f460566f713ecc35b03ce5ab52b17e317eed8d0201579ddcf0d6": {
     "data": [
       {
-        "title": "Los incentivos fiscales al fitness ganan peso en España y abren una oportunidad directa para los gimnasios",
+        "title": "Los gimnasios y su gran error estratégico de no responder a las necesidades de las mujeres",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Sunderland captain Granit Xhaka issues fitness update after planned Switzerland withdrawal",
+        "title": "Craig Bellamy monitoring Daniel James fitness before Wales face Northern Ireland",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Asesinan a tiros a influencer fitness de 46 años tras salir del gimnasio en Brasil https://mile.io/41zdpnS",
+        "title": "La acción de Planet Fitness alcanza mínimos de 52 semanas en 72,99 dólares",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Mejor que correr o hacer spinning: la máquina de fitness que activa los músculos más rápido que el running",
+        "title": "¿No tienes tiempo para entrenar? Estas minirutinas podrían beneficiar tu cerebro",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Yo no amo mi culo: deporte, redes y la soledad del culto al cuerpo",
+        "title": "'El Campello Fitness' supera todas las expectativas con un millar de participantes",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774846879.6294515,
+    "cached_at": 1774932767.5266953,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "f57c7b2f36f1b097c5b6ce234958742b388d8049bb95db71d158ac3ca0835b52": {
     "data": [
       {
-        "title": "¿Quieres un abdomen marcado después de los 35? 5 claves que conviene revisar en tu entrenamiento - Mejor con Salud",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://mejorconsalud.as.com/bienestar/ejercicio/claves-a-revisar-para-lograr-un-abdomen-marcado-despues-de-los-35/"
-      },
-      {
-        "title": "Tonificación o fuerza: ¿qué es lo que necesitan tus glúteos? - Mejor con Salud",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://mejorconsalud.as.com/bienestar/tonificacion-o-fuerza-que-es-lo-que-necesitan-tus-gluteos/"
-      },
-      {
-        "title": "Caminar 10.000 pasos está bien, pero la ciencia avisa: el verdadero antídoto contra el envejecimiento está en un escalón",
+        "title": "Andar 10.000 pasos todos los días está bien. Subir un par de escalones cargando un peso está mucho mejor",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/medicina-y-salud/caminar-10-000-pasos-esta-bien-ciencia-avisa-verdadero-antidoto-envejecimiento-esta-escalon"
+        "url": "https://magnet.xataka.com/medicina-y-salud/caminar-10-000-pasos-esta-bien-ciencia-avisa-verdadero-antidoto-envejecimiento-esta-escalon"
       },
       {
         "title": "La ciencia lo confirma: este es el hábito que reduce la grasa más peligrosa - AS.com",
@@ -130,9 +116,23 @@
         "lang": "es",
         "score": 0,
         "url": "https://as.com/actualidad/ciencia/la-ciencia-lo-confirma-este-es-el-habito-que-reduce-la-grasa-mas-peligrosa-f202603-n/"
+      },
+      {
+        "title": "Magnesio, creatina, colágeno: estamos metiéndonos suplementos por encima de lo que la ciencia cree útil",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "http://xataka.com/medicina-y-salud/nos-estamos-atiborrando-a-suplementos-culpa-redes-ciencia-apunta-que-casi-siempre-estamos-tirando-dinero"
+      },
+      {
+        "title": "Llevo dos semanas con las Nike Mind 001 en los pies. Tengo una teoría sobre lo que realmente venden",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://magnet.xataka.com/medicina-y-salud/llevo-dos-semanas-nike-mind-001-pies-tengo-teoria-que-realmente-venden"
       }
     ],
-    "cached_at": 1774846880.2852378,
+    "cached_at": 1774932768.078296,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
