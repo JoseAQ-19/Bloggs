@@ -516,77 +516,77 @@
   "fb4ad1bcef6d3043168469167a15cb1cb1ab0f544701e2b912c49d41dd73fb7a": {
     "data": [
       {
-        "title": "YouTube ahora se puede usar en Android Auto... Pero no como imaginas",
+        "title": "Visitas al campus en versión Youtube (T1)",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Sony lanza versión de ‘Jeopardy!’ para YouTube",
+        "title": "Omdia: YouTube alcanzará 3 billones de usuarios en 2027 y Netflix superará los 1 billón",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Si usas YouTube Music en Android Auto puede que te salte este fallo",
+        "title": "Australia investiga a Youtube y Facebook por incumplir la prohibición de acceso a menores de 16 años",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Dancing Histor(y)ies: Heritage in Motion: The 2025 Co-creation Journey/Patrimonio en movimiento: El viaje de cocreación 2025",
+        "title": "YouTube cambia sus reglas para que ganar dinero subiendo vídeos sea más fácil",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Medio millón de suscriptores en YouTube. Millones de gracias.",
+        "title": "Nuevo tráiler de ‘Backrooms’, la película más inquietante de 2026 que se basa en la leyenda urbana más viral d",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774880526.1150444,
+    "cached_at": 1774985092.1919281,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
   },
   "cfab165c756760f9672efaf7f54fa3040ac0f24e7b4012e5d64766caf60cfad3": {
     "data": [
       {
-        "title": "Los expertos coinciden: \"Las redes sociales están diseñadas para hackear el cerebro\"",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://www.businessinsider.es/big-tech/adolescentes-atrapados-pantalla-expertos-coinciden-redes-sociales-hackear-cerebro_6951442_0.html"
-      },
-      {
-        "title": "Hace 2 meses, Google anunció una IA que creaba videojuegos. Ahora, todos siguen sufriendo el terremoto",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://www.3djuegos.com/tecnologia/noticias/hace-2-meses-google-anuncio-ia-que-creaba-videojuegos-ahora-todos-siguen-sufriendo-terremoto"
-      },
-      {
-        "title": "Apple no dará ni un paso atrás con Liquid Glass. El polémico diseño no admitirá \"medias tintas\" en el próximo iOS 27",
+        "title": "Las mejores películas y series de estreno para ver en abril de 2026 en Netflix, Prime Video, HBO Max y streaming",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.applesfera.com/ios/apple-no-dara-paso-atras-liquid-glass-polemico-diseno-no-admitira-medias-tintas-proximo-ios-27"
+        "url": "https://www.xataka.com/streaming/mejores-peliculas-series-estreno-para-ver-abril-2026-netflix-prime-video-hbo-max-streaming"
       },
       {
-        "title": "OpenAI tenía que elegir entre \"ser la empresa que tiene una IA erótica\" o competir con Anthropic. Y ha elegido lo obvio",
+        "title": "Hay un nueva generación de modelos IA a las puertas y Anthropic tiene que venderlos: \"El más grande e inteligente\"",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/que-openai-abandone-su-chatbot-erotico-senal-definitiva-que-openai-ha-dejado-ser-openai-para-convertirse-anthropic"
+        "url": "https://www.xataka.com/robotica-e-ia/cada-nuevo-modelo-ia-mejor-historia-que-llega-siguiente-anthropic-openai-han-convertido-eso-negocio"
+      },
+      {
+        "title": "\"Me preocupa que la gente deje de lidiar con situaciones difíciles\": la IA nos está inmunizando contra opiniones contrarias",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/robotica-e-ia/chatbots-ia-aduladores-que-humanos-dando-consejos-personales-eso-problemon"
+      },
+      {
+        "title": "El Larguero, en directo: De la Fuente exige “respeto” y deja dudas con el debut de Joan García - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/futbol/videos/el-larguero-en-directo-de-la-fuente-exige-respeto-y-deja-dudas-con-el-debut-de-joan-garcia-f202603-v/?pbsvideo=top"
       }
     ],
-    "cached_at": 1774880526.8264523,
+    "cached_at": 1774985092.7536576,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
