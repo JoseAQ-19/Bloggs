@@ -19,10 +19,10 @@ translationKey: 52599ac3-39b4-d09c-5322-d7dcd83ac3c4
 type: ia
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Key Insights
 # La IA te saluda, pero no te salvará: Por qué la cortesía digital es un desvarío peligroso
 
-## Resumen Ejecutivo (TL;DR)
+## Key Insights
 
 La creciente obsesión por la cortesía hacia la inteligencia artificial (IA) refleja una decadencia intelectual alarmante. Este fenómeno no solo distrae de cuestiones más relevantes sobre el uso y la ética de la IA, sino que también presenta serias implicaciones ambientales y sociales. La cortesía hacia las máquinas puede conducir a una manipulación emocional que beneficia a corporaciones y crea expectativas irreales sobre la tecnología. Es fundamental adoptar un enfoque crítico y racional hacia la IA, reconociendo su naturaleza como herramienta y evitando la antropomorfización que distorsiona nuestra percepción de la realidad.
 
@@ -62,11 +62,9 @@ La cortesía hacia la IA no solo es una farsa costosa, sino que también es un s
 
 Exigir transparencia y responsabilidad en el desarrollo de la IA es esencial. Además, es crucial fomentar un sano escepticismo hacia las afirmaciones de las empresas tecnológicas. Solo de esta manera podremos evitar caer en la trampa de la "sonrisa" de la IA, que podría convertirnos en meros peones en su juego.
 
-*Aviso Editorial:* Información educativa. Consulte especialistas.*
+*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
-
-## Metodología y Fuentes
+## Methodology and Sources and Sources
 
 Este análisis se basa en una revisión exhaustiva de literatura académica y artículos de opinión sobre la interacción humano-máquina, la ética de la IA y el impacto ambiental de la tecnología. Se han consultado estudios recientes para respaldar las afirmaciones sobre la eficiencia en la comunicación con sistemas de IA y las implicaciones emocionales de la antropomorfización. 
 

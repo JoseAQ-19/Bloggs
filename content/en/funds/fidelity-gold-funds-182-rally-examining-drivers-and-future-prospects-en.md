@@ -123,11 +123,9 @@ While FSAGX has delivered strong returns, particularly over the past year, its i
 6.  **Currency Fluctuations:** Mining companies often incur costs in local currencies but sell gold in U.S. Dollars. Significant currency fluctuations can impact their profitability, either positively or negatively, introducing an additional layer of risk not present in direct gold holdings.
 7.  **ESG (Environmental, Social, and Governance) Concerns:** The mining industry faces increasing scrutiny regarding its environmental impact, labor practices, and governance standards. Companies with poor ESG profiles may face higher operating costs, regulatory fines, difficulty attracting capital, and reputational damage, all of which can negatively impact stock performance.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 This analytical report on the Fidelity Select Gold Portfolio (FSAGX) is based on a comprehensive review of publicly available financial data, market performance metrics, and industry insights. The objective was to provide an impartial and data-driven examination of the fund's recent performance, underlying drivers, and future outlook.
 

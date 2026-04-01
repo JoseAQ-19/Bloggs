@@ -22,7 +22,6 @@ type: crypto
 
 Kazakhstan's electricity demand surged 8% in 2021 due to crypto mining, significantly outpacing typical growth and straining the national grid while the country simultaneo...
 
-
 Kazakhstan's electricity demand surged 8% in 2021 due to crypto mining, significantly outpacing typical growth and straining the national grid while the country simultaneously risked $350 million from its sovereign wealth fund.
 
 * Kazakhstan's electricity demand jumped 8% in 2021 due to crypto mining, compared to typical 1-2% growth, consuming 7% of the country's generating capacity by end of 2022.
@@ -91,10 +90,8 @@ The sovereign wealth fund's own exposure to energy sector assets creates a compl
 
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

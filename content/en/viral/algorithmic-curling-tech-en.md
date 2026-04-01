@@ -23,7 +23,6 @@ type: viral
 
 Niklas Edin believes curling has a cheating problem that’s worse than doping. The sport's reliance on tradition over technology is about to face its biggest test....
 
-
 Niklas Edin believes curling has a cheating problem that’s worse than doping. The sport's reliance on tradition over technology is about to face its biggest test.
 
 * Niklas Edin believes double-touching rule infractions in curling are worse than doping and constitute the biggest form of cheating in the sport.
@@ -76,10 +75,8 @@ The sport must be willing to adapt to the demands of modern competition and embr
 
 Curling must embrace technology to safeguard its future. World Curling should invest in a VAR-like system for high-stakes matches and implement it without delay.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

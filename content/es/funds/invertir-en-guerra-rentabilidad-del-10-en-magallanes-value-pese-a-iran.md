@@ -16,12 +16,11 @@ translationKey: 9a5f6180-76cd-eb7e-a597-6645034535ff
 type: funds
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Key Insights
 
 * ![Invertir en guerra: Rentabilidad del 10% en 'Magallanes Value' pese a Irán](/images/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran.jpg)
 
 **El 10% de rentabilidad en 'Magallanes Value' pese a la incertidumbre geopolítica**...
-
 
 **El 10% de rentabilidad en 'Magallanes Value' pese a la incertidumbre geopolítica**
 
@@ -136,10 +135,8 @@ Magallanes Value invierte en acciones de alta calidad con un enfoque de valor. E
 
 ---
 
-*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
-
-## Metodología y Fuentes
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

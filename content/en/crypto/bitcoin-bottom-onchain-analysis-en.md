@@ -22,7 +22,6 @@ type: crypto
 
 Bitcoin's alleged bottom may be nothing more than a whale-fueled mirage obscuring significant retail losses....
 
-
 Bitcoin's alleged bottom may be nothing more than a whale-fueled mirage obscuring significant retail losses.
 
 * Whales have accumulated approximately 270,000 BTC in the past 30 days, worth around $23 billion, suggesting strong confidence despite market volatility.
@@ -66,10 +65,8 @@ Don't let FOMO drown out your common sense.
 
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

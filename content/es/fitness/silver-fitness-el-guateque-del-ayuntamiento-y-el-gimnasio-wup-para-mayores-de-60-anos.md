@@ -17,12 +17,11 @@ translationKey: 3cfb1bf5-f359-4209-4a65-9edb6002d7d7
 type: fitness
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Key Insights
 
 * ![Silver Fitness: El Ayuntamiento Promueve Actividades que Reducen Caídas en un 23%](/images/silver-fitness-el-guateque-del-ayuntamiento-y-el-gimnasio-wup-para-mayores-de-60-anos.jpg)
 
 **Las personas mayores que practican fuerza específica reducen sus caídas en un 23% — el dato que rompe el mito de ...
-
 
 **Las personas mayores que practican fuerza específica reducen sus caídas en un 23% — el dato que rompe el mito de que caminar es suficiente para la tercera edad.** Un estudio del CIBERFES (n=2.347, 18 meses) confirma que el entrenamiento de fuerza reduce un 23% las caídas en mayores de 65 años, frente al 12% de los programas solo de caminata. 
 * El 61.5% de españoles mayores de 65 años camina diariamente, superando a los grupos más jóvenes, pero solo un 17.4% realiza actividad física estructurada. 
@@ -72,10 +71,8 @@ La crisis de Silver Fitness es un síntoma de un sistema que prioriza el manteni
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 - [YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
 
-*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
-
-## Metodología y Fuentes
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

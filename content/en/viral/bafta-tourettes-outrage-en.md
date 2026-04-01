@@ -22,7 +22,6 @@ type: viral
 
 Cancel culture has exposed media hypocrisy. The BBC's selective editing sparks debate on bias, free speech, and responsibility....
 
-
 Cancel culture has exposed media hypocrisy. The BBC's selective editing sparks debate on bias, free speech, and responsibility.
 
 * The BBC faced criticism for airing the N-word shouted by John Davidson, a Tourette's syndrome campaigner, while editing out a "Free Palestine" call, raising questions about bias.
@@ -74,10 +73,8 @@ Measuring DEI initiatives' effectiveness is important to see how initiatives are
 ## The Bottom Line
 Broadcasters have a responsibility to balance free speech with sensitivity, especially concerning marginalized communities. The incident highlights the need for transparency and consistency in editorial decisions from media outlets. Words matter – even involuntary ones.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

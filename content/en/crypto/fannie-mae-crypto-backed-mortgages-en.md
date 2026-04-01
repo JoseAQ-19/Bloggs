@@ -22,7 +22,6 @@ type: crypto
 
 Tokenized mortgage-backed securities are projected to grow into an $18.8 billion market by 2034, creating new avenues for liquidity but also introducing systemic risks tha...
 
-
 Tokenized mortgage-backed securities are projected to grow into an $18.8 billion market by 2034, creating new avenues for liquidity but also introducing systemic risks that could amplify financial shocks, according to IMF warnings.
 
 * The tokenized MBS market is projected to reach $18.8 billion by 2034, sparking IMF concerns about systemic risk amplified by liquidity mismatches between daily redemptions and underlying asset settlement cycles.
@@ -123,10 +122,8 @@ Market participants considering tokenized MBS exposure should conduct rigorous d
 
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

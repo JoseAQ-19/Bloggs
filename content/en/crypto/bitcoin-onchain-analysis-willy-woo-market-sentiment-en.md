@@ -22,7 +22,6 @@ type: crypto
 
 On-chain analysis failed to predict Bitcoin's surge past $69,000, proving that no single metric can fully encapsulate market dynamics....
 
-
 On-chain analysis failed to predict Bitcoin's surge past $69,000, proving that no single metric can fully encapsulate market dynamics.
 
 * Willy Woo's prior Bitcoin bottom prediction of $45,000 based on on-chain analysis has been demonstrably invalidated by subsequent price action, as Bitcoin now trades above $69,000.
@@ -76,10 +75,8 @@ Going forward, investors must adopt a more holistic approach, incorporating mark
 
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

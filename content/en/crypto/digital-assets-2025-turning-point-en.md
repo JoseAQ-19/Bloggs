@@ -22,7 +22,6 @@ type: crypto
 
 The DeFi industry's promise of decentralized finance continues to be undermined by persistent security vulnerabilities, costing investors millions despite broader market gains....
 
-
 The DeFi industry's promise of decentralized finance continues to be undermined by persistent security vulnerabilities, costing investors millions despite broader market gains.
 
 * In 2025, the DeFi industry lost $512 million to exploits, including a $223 million breach involving Cetus, overshadowing broader market gains.
@@ -73,10 +72,8 @@ The global DeFi market was estimated at $26.94 billion in 2025 and is forecasted
 DeFi's growth necessitates a shift from aggressive expansion to prioritizing security. Investors should demand transparency reports from DeFi protocols and independent audits before allocating capital. Secure the chain, secure the future.
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

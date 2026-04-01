@@ -25,7 +25,6 @@ type: youtube
 
 YouTube treats children's data as a revenue stream, not a protected asset, and the $170 million COPPA settlement is merely a calculated business expense ra...
 
-
 YouTube treats children's data as a revenue stream, not a protected asset, and the $170 million COPPA settlement is merely a calculated business expense rather than a deterrent.
 
 * YouTube paid a record $170 million to settle COPPA violations, representing roughly 1.5% of the estimated $11 billion in annual ad revenue generated from U.S. children.
@@ -110,10 +109,8 @@ The platform's strategy of prioritizing engagement over safety has turned a gene
 - [YouTube's Creator Burnout Crisis: 62-90% Are Suffering And The Financial Toll Is Exponential](/en/youtube/youtube-the-new-media-monarch-heres-what-you-need-to-know-en/)
 - [320,000 YouTube Users Screamed: What Google Is Hiding About The Outage.](/en/youtube/youtube-outage-2026-en/)
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

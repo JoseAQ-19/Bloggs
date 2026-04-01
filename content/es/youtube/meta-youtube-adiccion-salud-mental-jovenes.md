@@ -17,7 +17,7 @@ translationKey: 173cd36d-8e74-f34d-3807-6fd3a500a503
 type: youtube
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Key Insights
 
 La adicción a internet y redes sociales entre adolescentes en España ha alcanzado cifras alarmantes, afectando a un 21,3% de este grupo etario, casi el doble de la media europea del 12,7%. Los gigantes tecnológicos Meta (Facebook e Instagram) y YouTube son acusados de diseñar sus plataformas para maximizar el tiempo de uso a expensas de la salud mental de los jóvenes. Investigaciones recientes establecen vínculos directos entre la adicción a redes sociales y síntomas de ansiedad y depresión. Frente a esta crisis, el gobierno español planea medidas regulatorias para proteger a los menores. Este artículo analiza el impacto de los modelos de negocio de estas plataformas y la responsabilidad que tienen en la salud mental de los adolescentes.
 
@@ -65,10 +65,8 @@ Ante esta crisis de salud pública, el gobierno español está considerando proh
 
 Es imperativo que tanto las plataformas como los gobiernos tomen medidas para mitigar el impacto negativo de estos entornos digitales. La regulación, la educación sobre el uso responsable de la tecnología y la implementación de prácticas de diseño éticas son pasos fundamentales para proteger a la juventud de esta epidemia de adicción.
 
-*Aviso Editorial:* Información educativa. Consulte especialistas.*
+*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
-
-## Metodología y Fuentes
+## Methodology and Sources and Sources
 
 Este análisis se basa en una revisión exhaustiva de investigaciones académicas, informes judiciales y datos estadísticos recientes sobre el uso de internet y redes sociales entre adolescentes en España y Europa. Se han consultado fuentes como el informe de la UCJC, investigaciones sobre adicción a redes sociales y testimonios de casos legales que ilustran el impacto de estas plataformas en la salud mental juvenil.

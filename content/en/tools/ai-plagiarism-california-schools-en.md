@@ -22,7 +22,6 @@ type: tools
 
 * California State University has spent $6 million on Turnitin's AI detection software since 2019, despite accuracy concerns that have led to wrongful accusations against...
 
-
 * California State University has spent $6 million on Turnitin's AI detection software since 2019, despite accuracy concerns that have led to wrongful accusations against one in five students.
 * A Stanford study revealed that AI detectors incorrectly flagged over 61% of essays written by non-native English speakers as AI-generated, exposing a critical bias in the technology.
 * The U.S. AI education market is projected to grow from $2.4 billion in 2024 to $53.8 billion by 2034, raising concerns about investing in potentially flawed detection tools.
@@ -87,10 +86,8 @@ We've reached a moment of reckoning where educational leaders must confront unco
 
 The emperor has no clothes. AI detection cannot reliably distinguish between human and machine writing. The evidence is overwhelming. Continuing to invest in these tools represents institutional malpractice masquerading as academic innovation.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

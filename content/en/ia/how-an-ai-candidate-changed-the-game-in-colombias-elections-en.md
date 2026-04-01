@@ -23,7 +23,6 @@ type: ia
 
 AI is not just a buzzword; it’s a looming specter over democracy, particularly in Colombia, where the upcoming 2026 elections...
 
-
 AI is not just a buzzword; it’s a looming specter over democracy, particularly in Colombia, where the upcoming 2026 elections could be decided by the flick of a digital pen. An estimated 500,000 deepfake videos were shared on social media in 2023, with projections suggesting this could rise to 8 million by 2025, posing a significant threat to the integrity of the electoral process. 
 
 * AI-generated fraud has already caused over $200 million in financial losses in just the first quarter of 2025. 
@@ -106,10 +105,8 @@ Individuals must actively seek reliable sources of information, engage in media 
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
 - [YouTube's Dirty Secret: Hate Speech Algorithm Targets 'Jeopardy!' Host After 4,000 Watch Hours.](/en/youtube/youtube-jeopardy-podcast-demonetization-hate-speech-en/)
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

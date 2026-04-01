@@ -23,7 +23,6 @@ type: youtube
 
 YouTube just reported a staggering **$36.1 billion** in ad revenue for 2024, marking a **14.6% increase** year-on-year and projecting to hit...
 
-
 YouTube just reported a staggering **$36.1 billion** in ad revenue for 2024, marking a **14.6% increase** year-on-year and projecting to hit a jaw-dropping **$60 billion** in 2025. As the platform's financial success continues to grow, the implications for creators become increasingly complex and, in some cases, alarming.
 
 * YouTube generated **$36.1 billion** in ad revenue in 2024, reflecting a **14.6% year-on-year increase**, and is projected to reach **$60 billion** in 2025.
@@ -108,10 +107,8 @@ This article not only underscores YouTube's financial success but also reveals t
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
 - [YouTube's Dirty Secret: Hate Speech Algorithm Targets 'Jeopardy!' Host After 4,000 Watch Hours.](/en/youtube/youtube-jeopardy-podcast-demonetization-hate-speech-en/)
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

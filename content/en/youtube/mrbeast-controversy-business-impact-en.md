@@ -22,7 +22,6 @@ type: youtube
 
 MrBeast's seemingly unstoppable reign as YouTube's golden child may be showing cracks, evidenced by a dramatic plunge in viewership and a barrage of ethical questions....
 
-
 MrBeast's seemingly unstoppable reign as YouTube's golden child may be showing cracks, evidenced by a dramatic plunge in viewership and a barrage of ethical questions.
 
 * MrBeast's YouTube views have plummeted by 50% in the last 12 months, dropping from approximately 900 million to 1.2 billion monthly views to 570 million.
@@ -75,10 +74,8 @@ MrBeast's empire, while not collapsing entirely, is undeniably facing significan
 
 Creators must diversify revenue streams beyond YouTube ad revenue and focus on building direct relationships with their audience, not just chasing views. Adaptation or extinction.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

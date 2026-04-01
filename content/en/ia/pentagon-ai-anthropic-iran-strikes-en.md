@@ -22,7 +22,6 @@ type: ia
 
 Anthropic's "red lines" are starting to look like speed bumps....
 
-
 Anthropic's "red lines" are starting to look like speed bumps.
 
 * Despite Anthropic CEO Dario Amodei's "red lines," the Pentagon may have utilized AI in a strike related to Iran, raising concerns over ethical boundaries.
@@ -84,10 +83,8 @@ Demand full transparency on DoD's AI vendor due diligence.
 
 Code red for AI ethics.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

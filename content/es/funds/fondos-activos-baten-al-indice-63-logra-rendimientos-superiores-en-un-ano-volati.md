@@ -17,12 +17,11 @@ translationKey: cd4e23c4-4c45-dff9-bff0-021601590b80
 type: funds
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Key Insights
 
 * ![Fondos activos baten al índice: 63% logra rendimientos superiores en un año volátil](/images/fondos-activos-baten-al-indice-63-logra-rendimientos-superiores-en-un-ano-volati.jpg)
 
 **El 63% de los fondos activos superaron a sus índices de referencia en 2023, desafiando la narrativa predominante de ...
-
 
 **El 63% de los fondos activos superaron a sus índices de referencia en 2023, desafiando la narrativa predominante de la gestión pasiva.**
 
@@ -92,10 +91,8 @@ La pregunta clave es si 2023 fue una excepción o si señala un cambio de paradi
 
 ---
 
-*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
-
-## Metodología y Fuentes
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

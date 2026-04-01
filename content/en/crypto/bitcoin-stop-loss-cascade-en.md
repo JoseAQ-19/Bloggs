@@ -22,7 +22,6 @@ type: crypto
 
 Bitcoin’s volatility claimed another victim as a single position faced a $36.7 million wipeout. Are you next?...
 
-
 Bitcoin’s volatility claimed another victim as a single position faced a $36.7 million wipeout. Are you next?
 
 * A single Bitcoin position on Hyperliquid was liquidated for $36.7 million during a market plunge in November 2025, highlighting the risks of high leverage.
@@ -82,10 +81,8 @@ Bitcoin remains a high-risk, high-reward asset, but ignoring the warning signs c
 
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

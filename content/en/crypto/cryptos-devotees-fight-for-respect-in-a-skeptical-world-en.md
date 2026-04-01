@@ -22,7 +22,6 @@ type: crypto
 
 Total Value Locked (TVL) in decentralized finance has collapsed by $72 billion since late 2025, shattering the illusion of endless yield and exposing ...
 
-
 Total Value Locked (TVL) in decentralized finance has collapsed by $72 billion since late 2025, shattering the illusion of endless yield and exposing the sector's structural fragility.
 
 * DeFi TVL plummeted from $170 billion in October 2025 to $98 billion by February 2026, signaling a mass exodus of capital amid security failures and regulatory crackdowns.
@@ -92,10 +91,8 @@ SEC Chair Paul S. Atkins has articulated a regulatory framework that ignores the
 - [Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](/en/youtube/youtube-sports-subscription-live-streaming-en/)
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

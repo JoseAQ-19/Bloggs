@@ -22,7 +22,6 @@ type: funds
 
 **A Five-Star Fund Offering a Balanced Approach to Income and VolatilityWith a stellar 5-star Morningstar rating and a three-year ann...
 
-
 **A Five-Star Fund Offering a Balanced Approach to Income and VolatilityWith a stellar 5-star Morningstar rating and a three-year annualized return of 8.45%, this fund is a top pick for 2026 investors seeking both income and stability.** Its low expense ratio of 0.52% and a Sharpe ratio of 1.12 over the past three years make it a standout choice in its category. Here’s why this fund is attracting attention: 
 
 - *8.45% three-year annualized return* — **Morningstar data**. 
@@ -82,10 +81,8 @@ We believe this fund’s balanced approach to income and volatility makes it a s
 ️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

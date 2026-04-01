@@ -22,7 +22,6 @@ type: crypto
 
 Global crypto markets shed $200 billion in valuation as the United States unemployment rate unexpectedly ticked up to 4.6% in mid-December 2025, triggerin...
 
-
 Global crypto markets shed $200 billion in valuation as the United States unemployment rate unexpectedly ticked up to 4.6% in mid-December 2025, triggering a risk-off environment that has forced digital asset platforms to slash costs aggressively. Crypto.com’s decision to terminate 12% of its staff is not merely an internal realignment but a symptom of a broader liquidity crunch where efficiency is prioritized over expansion.
 
 * Crypto.com reduced its global headcount by approximately 180 employees in March 2026, explicitly attributing the cuts to a strategic pivot toward "enterprise-wide AI" automation.
@@ -58,10 +57,8 @@ Furthermore, Ryan Selkis, CEO of Messari, announced that his firm would be hirin
 - [YouTube TV In 2026: Comcast's Worst Nightmare Or $73 Mistake?](/en/youtube/youtube-tv-2026-worth-it-en/)
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

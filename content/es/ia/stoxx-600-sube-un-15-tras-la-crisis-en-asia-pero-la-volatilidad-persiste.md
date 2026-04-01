@@ -16,7 +16,7 @@ translationKey: a9bee97a-a285-9304-9e3f-3c7953350138
 type: funds
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Key Insights
 
 * ## Stoxx 600: ¿Resiliencia europea o espejismo de volatilidad?
 
@@ -112,4 +112,4 @@ Este análisis se basa en datos y perspectivas de entidades financieras y medios
 
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*

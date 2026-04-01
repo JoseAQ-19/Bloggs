@@ -25,7 +25,6 @@ type: crypto
 
 **SEC Power Grab: Crypto Could Face Total Securities Reclassification Without Clarity Act**...
 
-
 **SEC Power Grab: Crypto Could Face Total Securities Reclassification Without Clarity Act**
 
 Cryptocurrency markets remain in a precarious position as the Digital Asset Market Clarity Act (CLARITY Act) faces an uncertain fate in the U.S. Senate. This legislative proposal, passed by the House in July 2025 with a decisive 294-134 vote, aims to end years of regulatory ambiguity over digital assets. However, with mounting opposition from major industry players and key legislators, the bill’s future hangs in the balance.
@@ -106,7 +105,6 @@ If the Act fails, the SEC could classify most cryptocurrencies as securities, im
 --- 
 
 > [!CAUTION]
-> **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
 
 <div class="author-box" style="padding: 20px; background-color: #f8f9fa; border-left: 4px solid #0056b3; margin-top: 30px; border-radius: 4px;">
@@ -118,10 +116,8 @@ If the Act fails, the SEC could classify most cryptocurrencies as securities, im
 - [Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](/en/youtube/youtube-sports-subscription-live-streaming-en/)
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

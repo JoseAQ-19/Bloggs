@@ -22,7 +22,6 @@ type: fitness
 
 The fitness industry's obsession with homogenous ideals has left a lucrative market underserved: women of color....
 
-
 The fitness industry's obsession with homogenous ideals has left a lucrative market underserved: women of color.
 
 * Nearly 60% of African American women are classified as obese, almost twice the rate of Caucasian women, highlighting a critical need for targeted fitness solutions.
@@ -72,10 +71,8 @@ This model goes beyond just the Lancaster area; it is a blueprint for fitness bu
 ## The Bottom Line
 Gyms that prioritize DEI, especially community-driven spaces, are positioned for long-term success, while ignoring these needs leads to predictable attrition. Seek out Lancaster gyms (or similar approaches elsewhere) and hold them accountable to their promises; after all, fitness is for EVERY body.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

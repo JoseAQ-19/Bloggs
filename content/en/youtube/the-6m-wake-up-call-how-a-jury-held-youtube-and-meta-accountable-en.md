@@ -24,7 +24,6 @@ type: youtube
 
 Meta's stock plunged 8% following a $6 million verdict holding the company 70% responsible for platform designs deemed harmful to young use...
 
-
 Meta's stock plunged 8% following a $6 million verdict holding the company 70% responsible for platform designs deemed harmful to young users, with YouTube bearing 30% of the liability. This legal blow represents a dramatic shift in Big Tech's liability landscape.
 
 * A California jury awarded $6 million in compensatory and punitive damages against Meta (70%) and YouTube (30%) for their "defective" platform designs that foster addiction and harm among young users.
@@ -100,10 +99,8 @@ The $6M verdict against Meta and YouTube isn't just a legal milestone—it's a f
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 - [YouTube's Creator Burnout Crisis: 62-90% Are Suffering And The Financial Toll Is Exponential](/en/youtube/youtube-the-new-media-monarch-heres-what-you-need-to-know-en/)
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

@@ -22,7 +22,6 @@ type: youtube
 
 73% of YouTube creators abandon their channels within the first year, fueled by algorithmic roulette, evaporating ad revenue, and unsustainable content demands masked by MrBeast's $700M annua...
 
-
 73% of YouTube creators abandon their channels within the first year, fueled by algorithmic roulette, evaporating ad revenue, and unsustainable content demands masked by MrBeast's $700M annual earnings. YouTube's creator economy isn't thriving—it's imploding.
 
 * YouTube's 73% creator attrition rate within the first year directly correlates with burnout from unpredictable algorithm changes, declining RPMs, and relentless content pressure, exposing a fragile ecosystem.
@@ -53,10 +52,8 @@ Relying solely on YouTube ad revenue is a death sentence for most creators. The 
 
 YouTube is at a crossroads. It can continue down its current path, prioritizing algorithmic manipulation, chasing TikTok's fleeting trends, and celebrating billionaire outliers while 73% of its creators crash and burn. Or, it can fundamentally restructure its relationship with the people who make its platform valuable. Adapt or die, YouTube.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

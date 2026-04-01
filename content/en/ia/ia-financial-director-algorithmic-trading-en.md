@@ -23,7 +23,6 @@ type: ia
 
 The $23.8 million share sale by iA Financial insiders isn't just a routine financial maneuver—it's a neon flashing sign that something beneath the surface may be rotten....
 
-
 The $23.8 million share sale by iA Financial insiders isn't just a routine financial maneuver—it's a neon flashing sign that something beneath the surface may be rotten.
 
 * A iA Financial director sold C$23,864,656.70 worth of shares in the past 24 months, prompting questions about insider knowledge versus strategic financial maneuvering.
@@ -108,10 +107,8 @@ Financial AI has become the modern equivalent of the dot-com bubble—a narrativ
 
 For investors, the lesson is clear. When corporate executives sell millions while touting AI transformation, follow the money. The algorithm may promise efficiency and accuracy, but when insiders bet against it with their own portfolios, the smart money knows where the real risk lies.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

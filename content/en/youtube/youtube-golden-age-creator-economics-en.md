@@ -22,7 +22,6 @@ type: youtube
 
 Google is concealing a catastrophic collapse in its core creator economy business model, and the fallout is already bankrupting mid-tier channels. The narrative of infi...
 
-
 Google is concealing a catastrophic collapse in its core creator economy business model, and the fallout is already bankrupting mid-tier channels. The narrative of infinite growth is dead.
 
 * YouTube's advertising revenue plummeted to $36.15 billion in 2025, a devastating drop from $46.2 billion in 2024, vaporizing over $10 billion in market value.
@@ -65,10 +64,8 @@ Todd Beaupre, Product Manager at YouTube, acknowledges the internal data regardi
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [YouTube TV Dodged Fox: Will 77.2 Million Cord-Cutters Pay The Price?](/en/youtube/youtube-tv-fox-deal-extension-en/)
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

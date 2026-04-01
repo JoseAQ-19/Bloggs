@@ -25,7 +25,6 @@ type: youtube
 
 The recent ruling from the Northern District of California has sent shockwaves through the tech i...
 
-
 The recent ruling from the Northern District of California has sent shockwaves through the tech industry, as Instagram and YouTube could face unprecedented legal liability for their role in algorithmically amplifying harmful content. This landmark decision not only challenges the status quo of digital platform protections but also threatens to reshape the landscape of social media accountability.
 
 ### TL;DR BULLETS
@@ -108,10 +107,8 @@ As the dust settles on this landmark ruling, the implications for the future of 
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

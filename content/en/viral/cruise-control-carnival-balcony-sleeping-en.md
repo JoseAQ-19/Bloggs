@@ -23,7 +23,6 @@ type: viral
 
 The allure of the open sea masks a troubling reality: onboard dangers are escalating faster than cruise lines can contain them. Carnival is not just a ...
 
-
 The allure of the open sea masks a troubling reality: onboard dangers are escalating faster than cruise lines can contain them. Carnival is not just a party; it's becoming a gamble.
 
 * Carnival Cruise Line accounts for 59% (44 out of 74) of reported physical assaults on cruise ships since 2022, signaling a potential systemic security issue.
@@ -81,10 +80,8 @@ Carnival Cruise Line must prioritize passenger safety and implement comprehensiv
 
 Don't become a statistic.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

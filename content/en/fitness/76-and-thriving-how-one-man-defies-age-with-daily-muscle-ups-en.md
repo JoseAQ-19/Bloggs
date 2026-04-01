@@ -23,7 +23,6 @@ type: fitness
 * Global longevity economy projected to exceed $27 trillion by 2026, dwarfing the entire fitness industry — **Bloomberg Economics**.
 * Sarcopenia affects up t...
 
-
 * Global longevity economy projected to exceed $27 trillion by 2026, dwarfing the entire fitness industry — **Bloomberg Economics**.
 * Sarcopenia affects up to 29% of adults over 80, increasing mortality risk by 96% — **Mayo Clinic Proceedings**.
 * CrossFit Masters athlete registrations grew 340% from 2020-2025, yet ageism persists in programming — **CrossFit Journal**.
@@ -76,10 +75,8 @@ Andrew Jagim's daily muscle-ups at 76 aren't defiance; they're science. The futu
 - [YouTube TV In 2026: Comcast's Worst Nightmare Or $73 Mistake?](/en/youtube/youtube-tv-2026-worth-it-en/)
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

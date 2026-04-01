@@ -22,7 +22,6 @@ type: crypto
 
 The SEC alleges Kraken held over $33 billion in customer crypto assets and commingled them, raising questions about the security of customer funds with increased Fed...
 
-
 The SEC alleges Kraken held over $33 billion in customer crypto assets and commingled them, raising questions about the security of customer funds with increased Fed access.
 
 * Federal Reserve Governor Christopher Waller is pushing for integrating crypto companies into the U.S. payments infrastructure, signaling a shift in regulatory approach (PaymentsDive).
@@ -132,10 +131,8 @@ The proposed CLARITY bill attempts to create clearer boundaries between commodit
 The revolving door between regulatory agencies and the crypto industry raises concerns about potential conflicts of interest. Former regulators and government officials often take positions at crypto firms, leveraging their expertise and connections to influence policy decisions. This dynamic creates a risk that regulatory decisions may be influenced by personal gain rather than the public interest. To address this concern, regulators should implement stricter ethics rules and restrictions on post-employment activities to prevent conflicts of interest and ensure that regulatory decisions are made in a fair and impartial manner.
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

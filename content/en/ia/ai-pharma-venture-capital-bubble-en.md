@@ -22,7 +22,6 @@ type: ia
 
 Despite AI biotechs raising $3.8 billion in VC deals in 2025, AI-discovered drugs continue failing in Phase II trials at the same ~60% rate as traditional drugs, revealing a c...
 
-
 Despite AI biotechs raising $3.8 billion in VC deals in 2025, AI-discovered drugs continue failing in Phase II trials at the same ~60% rate as traditional drugs, revealing a critical gap between computational hype and clinical reality.
 
 * Despite a projected $25 billion investment by 2030, AI-discovered drugs continue to fail in Phase II trials at the same ~60% rate as traditionally developed drugs, revealing a critical gap in AI's impact on clinical success.
@@ -89,10 +88,8 @@ As the industry matures, we'll likely see the AI narrative separate into two dis
 - [YouTube TV In 2026: Comcast's Worst Nightmare Or $73 Mistake?](/en/youtube/youtube-tv-2026-worth-it-en/)
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

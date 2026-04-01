@@ -23,7 +23,6 @@ type: ia
 * Roughly 90% of AI startups fail within their first year, jeopardizing Series A investments.
 * AI startups attracted $192.7 billion in venture capital in 2025, represent...
 
-
 * Roughly 90% of AI startups fail within their first year, jeopardizing Series A investments.
 * AI startups attracted $192.7 billion in venture capital in 2025, representing 52% of global VC deal value.
 * Jeff Bezos cautions against AI hype, making it impossible for investors to distinguish between revolutionary ideas and marketing fluff.
@@ -92,10 +91,8 @@ Investors who survive this bubble will be those who demand technical rigor over 
 
 The money has already been spent—$220 billion can't be uninvested. But investors can stop throwing good money after bad. The next wave of AI winners will emerge from the ashes of these failures, companies built on engineering excellence rather than marketing spin. The question is whether VCs will recognize them when they appear, or if they'll continue chasing shiny objects while the graveyard of AI startups grows ever larger.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

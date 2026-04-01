@@ -38,37 +38,37 @@ paginate = 6
 
 [[languages.en.menu.main]]
   identifier = "ia"
-  name = "🤖 AI & SaaS"
+  name = "AI & SaaS"
   url = "/en/ia/"
   weight = 10
 [[languages.en.menu.main]]
   identifier = "crypto"
-  name = "🪙 Crypto"
+  name = "Crypto"
   url = "/en/crypto/"
   weight = 20
 [[languages.en.menu.main]]
   identifier = "fitness"
-  name = "💪 Biohacking"
+  name = "Biohacking"
   url = "/en/fitness/"
   weight = 30
 [[languages.en.menu.main]]
   identifier = "youtube"
-  name = "🔴 Creators"
+  name = "Creators"
   url = "/en/youtube/"
   weight = 40
 [[languages.en.menu.main]]
   identifier = "viral"
-  name = "🔥 Viral"
+  name = "Viral"
   url = "/en/viral/"
   weight = 50
 [[languages.en.menu.main]]
   identifier = "tools"
-  name = "🛠️ Tools"
+  name = "Tools"
   url = "/en/tools/"
   weight = 60
 [[languages.en.menu.main]]
   identifier = "funds"
-  name = "💰 Funds"
+  name = "Funds"
   url = "/en/funds/"
   weight = 70
 # [[languages.en.menu.main]]
@@ -100,37 +100,37 @@ paginate = 6
 # --- MENÚ ESPAÑOL ---
 [[languages.es.menu.main]]
   identifier = "ia"
-  name = "🤖 IA y SaaS"
+  name = "IA y SaaS"
   url = "/es/ia/"
   weight = 10
 [[languages.es.menu.main]]
   identifier = "crypto"
-  name = "🪙 Cripto"
+  name = "Cripto"
   url = "/es/crypto/"
   weight = 20
 [[languages.es.menu.main]]
   identifier = "fitness"
-  name = "💪 Biohacking"
+  name = "Biohacking"
   url = "/es/fitness/"
   weight = 30
 [[languages.es.menu.main]]
   identifier = "youtube"
-  name = "🔴 Creadores"
+  name = "Creadores"
   url = "/es/youtube/"
   weight = 40
 [[languages.es.menu.main]]
   identifier = "viral"
-  name = "🔥 Viral"
+  name = "Viral"
   url = "/es/viral/"
   weight = 50
 [[languages.es.menu.main]]
   identifier = "tools"
-  name = "🛠️ Herramientas"
+  name = "Herramientas"
   url = "/es/tools/"
   weight = 60
 [[languages.es.menu.main]]
   identifier = "funds"
-  name = "💰 Fondos"
+  name = "Fondos"
   url = "/es/funds/"
   weight = 70
 # [[languages.es.menu.main]]

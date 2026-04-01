@@ -23,7 +23,6 @@ type: youtube
 
 YouTube's $36.1 billion ad revenue in 2024 masks a growing free speech crisis for its creators....
 
-
 YouTube's $36.1 billion ad revenue in 2024 masks a growing free speech crisis for its creators.
 
 * YouTube generated $36.1 billion in ad revenue in 2024, yet faces scrutiny over content moderation policies and their impact on creators.
@@ -81,10 +80,8 @@ Consider moving your content to a platform that allows greater autonomy.
 
 The platform giveth, and the platform taketh away.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

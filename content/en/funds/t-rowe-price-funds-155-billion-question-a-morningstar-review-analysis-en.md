@@ -22,7 +22,6 @@ type: funds
 
 T. Rowe Price's $15.5 billion equity income fund has been placed under review by Morningstar, triggering heightened scrutiny from inve...
 
-
 T. Rowe Price's $15.5 billion equity income fund has been placed under review by Morningstar, triggering heightened scrutiny from investors and analysts. The move comes as Morningstar evaluates changes to the fund's management team and the consistency of its investment strategy, according to the ratings agency's March 2026 regulatory filings. This is a significant event for one of the largest actively managed equity funds in the US market, with potential implications for the $1.1 trillion asset manager's reputation and investor confidence.
 
 ## Comparative Performance Analysis
@@ -105,10 +104,8 @@ The future of active management depends on the ability of fund managers to adapt
 ️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

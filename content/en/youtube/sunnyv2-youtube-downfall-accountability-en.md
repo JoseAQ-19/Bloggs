@@ -22,7 +22,6 @@ type: youtube
 
 SunnyV2's troubles reveal a harsh reality: the influencer "bubble" is bursting as ethics and accountability take center stage....
 
-
 SunnyV2's troubles reveal a harsh reality: the influencer "bubble" is bursting as ethics and accountability take center stage.
 
 * SunnyV2's controversies, including allegations of plagiarism and transphobia, resulted in a loss of 20,000 subscribers in a single week, illustrating the severe consequences of ethical lapses for influencers.
@@ -77,10 +76,8 @@ All influencers should conduct an ethics audit of their past and future content 
 
 Integrity over influence.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

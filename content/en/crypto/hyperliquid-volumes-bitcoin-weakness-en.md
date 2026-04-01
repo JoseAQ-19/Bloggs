@@ -23,7 +23,6 @@ type: crypto
 
 Bitcoin's perceived role as a safe-haven asset is crumbling faster than a poorly constructed stablecoin, as alternative DeFi platforms siphon off trading volume ...
 
-
 Bitcoin's perceived role as a safe-haven asset is crumbling faster than a poorly constructed stablecoin, as alternative DeFi platforms siphon off trading volume and erode its macro dominance.
 
 * Hyperliquid's $47 billion weekly trading volume in 2025, generating $833 million in fee revenue, highlights increasing on-chain derivatives activity that challenges Bitcoin's established role as a macro hedge.
@@ -82,10 +81,8 @@ Bitcoin's macro hedge narrative is weakening, and DeFi platforms offer compellin
 
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

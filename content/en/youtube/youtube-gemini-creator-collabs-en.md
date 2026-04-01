@@ -22,7 +22,6 @@ type: youtube
 
 YouTube's $32 billion in annual creator payouts are under existential threat from unregulated AI lookalikes that devalue original content and erode platform trust....
 
-
 YouTube's $32 billion in annual creator payouts are under existential threat from unregulated AI lookalikes that devalue original content and erode platform trust.
 
 * YouTube generated $36.15 billion in ad revenue for 2025 **YouTube**.
@@ -78,10 +77,8 @@ YouTube's $36B ad revenue depends on viewer trust that they're seeing authentic 
 ## The Verdict Is In
 **YouTube needs to protect original creators, not subsidize their replacements.** Creators should watermark content and pursue legal action against unauthorized AI replicas – the $5B likeness rights industry is their recourse. The future of YouTube hinges on rewarding human creativity, not rewarding robots.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

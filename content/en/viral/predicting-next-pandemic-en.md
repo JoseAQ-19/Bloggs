@@ -23,7 +23,6 @@ type: viral
 Barbara Han's Rodent Risk Model: The $120 Billion Blind Spot Hitting Heartland Supply Chains.
 A Midwest farm might be your portfolio's next black swan....
 
-
 Barbara Han's Rodent Risk Model: The $120 Billion Blind Spot Hitting Heartland Supply Chains.
 A Midwest farm might be your portfolio's next black swan.
 
@@ -68,10 +67,8 @@ Integrate zoonotic disease risk into due diligence for companies with significan
 
 Germs are forever.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

@@ -16,7 +16,7 @@ translationKey: 26c858e2-ba67-785e-eb58-d36f8531b66c
 type: youtube
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Key Insights
 
 Neymar Jr. ha revelado la cruda realidad que muchos futbolistas enfrentan: el 80% de ellos ha experimentado síntomas de depresión, estrés y ansiedad. La presión del deporte de élite, junto con la falta de apoyo psicológico adecuado, contribuye a una epidemia silenciosa que afecta a la salud mental de los atletas. En España, el acceso a recursos psicológicos es alarmantemente escaso, lo que acentúa la vulnerabilidad de los deportistas. Este artículo explora la desconexión entre la imagen pública de los atletas y su realidad emocional, destacando la necesidad urgente de un cambio en la atención a la salud mental en el deporte.
 
@@ -50,8 +50,6 @@ Un estudio de Zoe Poucher en la Universidad de Toronto encontró que más del 41
 
 ### Infraestructura deficiente
 
-La situación en España es especialmente preocupante. Con solo seis psicólogos por cada 100.000 habitantes, el acceso a recursos de salud mental es drásticamente inferior al de otros países europeos, donde la media es de 18. Esta falta de especialistas limita severamente el apoyo que los atletas pueden recibir.
-
 #### Consecuencias de la falta de apoyo
 
 La escasez de recursos en salud mental tiene consecuencias devastadoras para los deportistas. Sin el apoyo adecuado, muchos se ven obligados a enfrentar sus problemas solos, lo que puede llevar a un deterioro significativo de su bienestar emocional. La presión para mantener una fachada de éxito puede resultar en un ciclo de ansiedad y depresión que es difícil de romper.
@@ -60,11 +58,9 @@ La escasez de recursos en salud mental tiene consecuencias devastadoras para los
 
 Es imperativo que las organizaciones deportivas, clubes y federaciones reconozcan la importancia de la salud mental y actúen en consecuencia. Esto incluye la implementación de programas de apoyo psicológico que sean accesibles y efectivos. La conversación sobre la salud mental en el deporte debe ser abierta y honesta, y los atletas deben sentir que tienen el espacio necesario para hablar sobre sus luchas sin miedo a repercusiones.
 
-*Aviso Editorial:* Información educativa. Consulte especialistas.*
+*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
-
-## Metodología y Fuentes
+## Methodology and Sources and Sources
 
 Para la elaboración de este artículo, se han utilizado datos de diversas fuentes confiables, incluyendo estudios académicos, informes de organizaciones de salud mental y estadísticas de instituciones deportivas. Se ha realizado un análisis crítico de la situación actual de la salud mental en el deporte, con un enfoque particular en la experiencia de los atletas de élite.
 

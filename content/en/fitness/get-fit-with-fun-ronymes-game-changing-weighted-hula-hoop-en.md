@@ -70,11 +70,9 @@ As with any physical activity, warming up before hula hooping and cooling down a
 
 Participants should remain attentive to their body’s signals during hula hooping. If discomfort or pain occurs, it is advisable to stop and reassess technique or take a break. Gradually increasing workout intensity allows the body to adapt effectively and reduces the risk of injury.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 This article synthesizes findings from various studies and expert opinions on the efficacy of weighted hula hoops for fat loss and core strengthening. Key sources include:
 

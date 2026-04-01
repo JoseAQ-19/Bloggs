@@ -92,12 +92,8 @@ Jean Rausis, co-founder of Smardex, has voiced strong opposition to the GENIUS A
 
 - **The Future of Digital Assets**: As the battle between crypto and traditional finance continues, the outcome will have lasting implications for the future of money. The stakes are high, and the world is watching as lawmakers navigate this complex terrain.
 
-*Aviso Editorial:* For informational purposes only.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 This article is based on a comprehensive analysis of current trends in the stablecoin market, legislative developments, and expert opinions from industry leaders. Data was sourced from reputable financial publications, industry reports, and regulatory documents, ensuring a well-rounded understanding of the subject matter.
-
-This article is intended for informational purposes only and does not constitute professional financial advice. Readers are encouraged to consult certified specialists for personalized guidance on financial or health-related matters.

@@ -22,7 +22,6 @@ type: fitness
 
 Fitness influencers with millions of followers are directly causing harm to their audiences while peddling dangerous pseudoscience to an unsuspecting public....
 
-
 Fitness influencers with millions of followers are directly causing harm to their audiences while peddling dangerous pseudoscience to an unsuspecting public.
 
 * Fitness influencers, despite promoting health, contribute to unrealistic body expectations and the spread of misinformation, evidenced by less than 20% reporting any fitness credentials.
@@ -111,10 +110,8 @@ Ultimately, the responsibility for navigating this ecosystem rests with individu
 
 The fitness influencer bubble will eventually burst, as unsustainable systems always do. But until then, your follow button remains more dangerous than you think.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

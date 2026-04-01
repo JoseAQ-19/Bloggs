@@ -22,7 +22,6 @@ type: youtube
 
 Deepfake videos of Singapore's Prime Minister Lee Hsien Loong peddling crypto scams illustrate the accelerating crisis of synthetic media's impact on geopolitics and public t...
 
-
 Deepfake videos of Singapore's Prime Minister Lee Hsien Loong peddling crypto scams illustrate the accelerating crisis of synthetic media's impact on geopolitics and public trust.
 
 * Singapore may fine social media services up to $1 million for failing to remove deepfake content, but can financial penalties keep pace with rapidly evolving AI tech.
@@ -76,10 +75,8 @@ Each individual must adopt critical thinking techniques, by cross-checking claim
 
 Prepare for an era where seeing *isn't* believing.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

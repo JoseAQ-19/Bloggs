@@ -22,7 +22,6 @@ type: fitness
 
 The myth that an off-duty police officer ceases to be a representative of the law is dangerously naive, particularly when considering the disproportionate impact on s...
 
-
 The myth that an off-duty police officer ceases to be a representative of the law is dangerously naive, particularly when considering the disproportionate impact on specific communities.
 
 * Black men are disproportionately affected, representing 39.3% of victims killed by off-duty police officers in the U.S. between 2013 and 2021.
@@ -99,10 +98,8 @@ A: While there are concerns regarding psychological evaluations for police offic
 - [Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](/en/youtube/youtube-sports-subscription-live-streaming-en/)
 - [YouTube TV In 2026: The $83 Gamble That Could Backfire Spectacularly](/en/youtube/youtube-tv-2026-price-hike-or-worth-the-hype-en/)
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

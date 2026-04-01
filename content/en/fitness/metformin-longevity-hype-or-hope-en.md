@@ -22,7 +22,6 @@ type: fitness
 
 The dream of extending human lifespan with a simple pill continues to entice researchers and investors, but the reality is proving complex. Metformin's potential is being...
 
-
 The dream of extending human lifespan with a simple pill continues to entice researchers and investors, but the reality is proving complex. Metformin's potential is being tested, but lifestyle changes and alternative strategies are also under consideration.
 
 * Metformin extended lifespan by only 5% in male mice at low doses, while higher doses shortened lifespan.
@@ -85,10 +84,8 @@ Lifestyle interventions, such as strength training, offer a potent means of prom
 
 Metformin's benefits remain unproven, and strength training should be a priority. Consistent habits are the key, not fleeting promises.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

@@ -22,7 +22,6 @@ type: fitness
 
 The fitness industry often prioritizes aesthetics over well-being, potentially leading to tragic outcomes. Stephanie Buttermore, a 36-year-old fitness influe...
 
-
 The fitness industry often prioritizes aesthetics over well-being, potentially leading to tragic outcomes. Stephanie Buttermore, a 36-year-old fitness influencer, passed away on March 6, 2026, underscoring the hidden dangers lurking beneath the surface of extreme fitness culture.
 
 * Stephanie Buttermore, a 36-year-old fitness influencer, passed away on March 6, 2026, with the cause of death remaining undisclosed.
@@ -79,10 +78,8 @@ Moreover, prioritize mental health by practicing self-compassion and challenging
 
 Vanity can kill. The pursuit of an unrealistic ideal can have devastating consequences, and it is important to prioritize health and well-being above all else.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

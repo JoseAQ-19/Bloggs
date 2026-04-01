@@ -22,7 +22,6 @@ type: fitness
 
 Wearable fitness data: it's the future, or a $703 billion privacy nightmare waiting to happen?...
 
-
 Wearable fitness data: it's the future, or a $703 billion privacy nightmare waiting to happen?
 
 * The global wearable technology market is projected to reach $703.32 billion by 2035, driven significantly by the fitness & wellness segment.
@@ -82,10 +81,8 @@ Research and understand the privacy policies of your chosen device and limit dat
 
 Data-driven fitness: great promise, *buyer beware*.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

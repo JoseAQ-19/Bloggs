@@ -24,7 +24,6 @@ type: youtube
 * YouTube generated approximately $62 billion in revenue in 2025, surpassing Disney Media's $60.9 billion, demonstrating the platform's financial power and potential for creators.
 ...
 
-
 * YouTube generated approximately $62 billion in revenue in 2025, surpassing Disney Media's $60.9 billion, demonstrating the platform's financial power and potential for creators.
 * Matt Belloni's move of "The Town" from Puck to YouTube signifies a potential shift in Hollywood insider reporting from subscription-based platforms to ad-supported video content.
 * 52% of creators report anxiety, 35% depression, and 10% suicidal thoughts due to work pressures, highlighting the severe mental health risks in the creator economy.
@@ -72,10 +71,8 @@ Furthermore, the job competition fierce after mass layoffs. Thousands of highly 
 ## The Bottom Line
 Matt Belloni's relocation of "The Town" to YouTube is a bold, high-stakes experiment that encapsulates the creator economy's chaotic present and uncertain future. He leverages YouTube's unparalleled scale ($62 billion revenue) and massive audience (200 billion daily views) to bypass the limitations of niche subscription models like Puck's, attempting to build a sustainable business on ad-supported video. However, the path is strewn with significant, potentially existential risks. The relentless pressure of YouTube's algorithm fuels creator burnout, with devastating mental health statistics (52% anxiety, 35% depression) threatening productivity and output quality. More critically, the constant threat of demonetization hangs over every episode, turning the pursuit of truth into a precarious balancing act between journalistic integrity and platform compliance. Hollywood's brutal layoffs, exceeding 17,000 jobs in 2025, have created an information vacuum Belloni aims to fill, but his success hinges on whether the industry elite will migrate to YouTube for their insider fix and whether he can navigate the platform's demanding ecosystem without sacrificing the quality that defines "The Town." Hollywood's elite either adapt to YouTube's creator economy or become irrelevant relics.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

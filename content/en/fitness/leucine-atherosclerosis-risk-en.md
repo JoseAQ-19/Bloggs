@@ -23,7 +23,6 @@ type: fitness
 
 Without question, creatine is the gold standard by which all strength-related supplements are judged — but the protein market's relentless push for "more" may be driving ...
 
-
 Without question, creatine is the gold standard by which all strength-related supplements are judged — but the protein market's relentless push for "more" may be driving arteries toward early failure.
 
 * A new study suggests that exceeding 22% of daily calories from protein, or 25g per meal, may increase the risk of atherosclerosis by activating immune cells.
@@ -68,10 +67,8 @@ Calculate your individual protein needs based on the recommended dietary allowan
 
 Gains today, clogged arteries tomorrow? The choice is yours.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

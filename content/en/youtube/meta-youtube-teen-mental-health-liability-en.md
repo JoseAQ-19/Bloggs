@@ -23,7 +23,6 @@ type: youtube
 
 The business model of social media relies on maximizing retention, and a new federal trial alleges that YouTube specifically monetized teen depression by ...
 
-
 The business model of social media relies on maximizing retention, and a new federal trial alleges that YouTube specifically monetized teen depression by algorithmically serving harmful content to keep eyes on the screen. This litigation threatens to shatter the liability shield that has protected Big Tech for decades, potentially reclassifying recommendation engines as defective products rather than neutral platforms.
 
 * 71% of videos flagged by volunteers as harmful were recommended by YouTube's algorithm according to a 2021 Mozilla Foundation report.
@@ -86,10 +85,8 @@ Regardless of the trial's outcome, the creator economy is already feeling the sh
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 - [YouTube's Creator Burnout Crisis: 62-90% Are Suffering And The Financial Toll Is Exponential](/en/youtube/youtube-the-new-media-monarch-heres-what-you-need-to-know-en/)
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

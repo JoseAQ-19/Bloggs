@@ -17,12 +17,11 @@ translationKey: f0534539-f6a2-d249-1a08-42e1bd9a7685
 type: ia
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Key Insights
 
 * ![La UE Prohíbe los 'Deepfakes' Sexuales: 3 Millones de Imágenes Generadas en 11 Días](/images/la-ue-prohibe-los-deepfakes-sexuales-con-ia-que-opinan-los-expertos.jpg)
 
 La proliferación de los 'deepfakes' sexuales ha alcanzado niveles alarmantes en Europa, lo que ha llevado a la Unión Europea a toma...
-
 
 La proliferación de los 'deepfakes' sexuales ha alcanzado niveles alarmantes en Europa, lo que ha llevado a la Unión Europea a tomar medidas drásticas. En apenas 11 días, usuarios de Grok generaron 3 millones de imágenes sexuales, de las cuales más de 33,000 involucraban a menores. Esta situación ha provocado una respuesta contundente por parte de la Agencia Española de Protección de Datos (AEPD), que ya ha comenzado a imponer sanciones a quienes distribuyen este tipo de contenido.
 
@@ -101,10 +100,8 @@ Las víctimas de 'deepfakes' tienen derechos fundamentales a la privacidad y a l
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 - [YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
-
-## Metodología y Fuentes
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

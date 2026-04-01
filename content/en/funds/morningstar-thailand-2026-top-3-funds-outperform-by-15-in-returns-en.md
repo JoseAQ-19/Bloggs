@@ -22,7 +22,6 @@ type: funds
 
 **Thailand’s Top 3 Mutual Funds Deliver 15% Outperformance in 2026In 2026, Thailand’s top three mutual funds have outperformed the market by 15%, ...
 
-
 **Thailand’s Top 3 Mutual Funds Deliver 15% Outperformance in 2026In 2026, Thailand’s top three mutual funds have outperformed the market by 15%, capturing the attention of investors seeking high returns in emerging markets.*
 - *KTAMSET50-A delivered a 17.2% return YTD, outperforming the SET50 by 9% — **source: Morningstar**.- *SCBSET50-D posted a 16.8% annual gain, outperforming its benchmark by 8% — **source: Financial Times**.- *BBL Asset Management’s B-INCOME fund achieved a 15.4% return, driven by reduced volatility and strategic sector allocation — **source: Bloomberg**.
 Thailand’s mutual fund industry has exhibited significant growth in 2026, driven by resilient economic fundamentals and increased foreign investment interest. With the **SET50 index returning 8.2% YTD**, outperforming emerging market indices globally, Thailand is emerging as a key player in Southeast Asian equity markets. Notably, the Morningstar Thailand Awards 2026 recognized standout mutual funds that have outpaced even this strong benchmark. Let’s dive into the key performers and their strategies.
@@ -116,10 +115,8 @@ Thailand’s top mutual funds have delivered stellar returns in 2026, signaling 
 ️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

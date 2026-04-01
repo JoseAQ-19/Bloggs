@@ -22,7 +22,6 @@ type: fitness
 
 VO2 max, often considered the gold standard for endurance athletes, may be less reliable than previously thought. Some experts now argue that focusing solely on VO2 max is an ...
 
-
 VO2 max, often considered the gold standard for endurance athletes, may be less reliable than previously thought. Some experts now argue that focusing solely on VO2 max is an oversimplification of endurance performance.
 
 * UTMB coach Scott Johnston believes VO2 max is the least reliable indicator of distance running performance, suggesting lactate threshold is superior.
@@ -75,10 +74,8 @@ High resting HRV at baseline was associated with good adaptation to endurance tr
 
 VO2 max is not the sole determinant of endurance performance. Prioritize lactate threshold and running economy to unlock your full potential.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

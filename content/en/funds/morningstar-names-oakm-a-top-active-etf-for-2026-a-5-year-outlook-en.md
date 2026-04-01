@@ -79,11 +79,9 @@ However, the inherent volatility of the energy sector cannot be overlooked. Hist
 
 The ongoing transition toward renewable energy sources presents a structural threat to fossil fuel-based infrastructure investments, raising questions about the long-term viability of funds like OAKM. As society moves toward cleaner energy solutions, the demand for traditional oil and gas infrastructure may diminish, potentially impacting the fund's future performance.
 
-*Aviso Editorial:* For informational purposes only. This article does not constitute financial advice and should not be considered as a recommendation to buy or sell any investment. Investors should conduct their own research and consult with a financial advisor before making investment decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 The analysis of OAKM ETF's performance and the energy sector has been conducted using a combination of Morningstar’s performance metrics, financial reports, and current geopolitical analysis. Performance data has been sourced from Morningstar's latest reports, while additional insights have been drawn from industry analyses and expert commentary.
 

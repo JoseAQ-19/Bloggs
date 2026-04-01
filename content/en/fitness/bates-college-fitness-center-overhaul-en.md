@@ -22,7 +22,6 @@ type: fitness
 
 Bates College's pivot to prioritizing "well-being" may very well turn into a balance sheet black eye....
 
-
 Bates College's pivot to prioritizing "well-being" may very well turn into a balance sheet black eye.
 
 * Bates College is investing $14 million, part of a $45 million project, into a new fitness facility and athletic building renovation, raising concerns about the impact on its $447 million endowment and academic ranking.
@@ -76,10 +75,8 @@ Bates should conduct a comprehensive impact assessment outlining how this invest
 
 Treadmill or textbooks? Bates must choose wisely.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

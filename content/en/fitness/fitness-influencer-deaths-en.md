@@ -22,7 +22,6 @@ type: fitness
 
 The fitness influencer industry has created a $15 billion bubble built on unrealistic body standards and pseudoscience, yet continues to grow by preying on vulnerable populations seeking...
 
-
 The fitness influencer industry has created a $15 billion bubble built on unrealistic body standards and pseudoscience, yet continues to grow by preying on vulnerable populations seeking self-improvement.
 
 * Over 70% of fitness influencers have admitted to using photo editing apps to alter their appearance before posting, according to a 2021 survey by the International Journal of Eating Disorders.
@@ -82,10 +81,8 @@ The fitness influencer ecosystem represents a dangerous intersection of capitali
 
 Unfollow accounts that promote unsustainable practices, question extraordinary transformation claims, and remember that fitness influencers are selling products first and health advice second. Your body is not a canvas for someone else's aesthetic vision, nor is your self-worth determined by social media metrics. True health doesn't come from following someone else's routine—it comes from understanding your own body's needs and respecting them without apology.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

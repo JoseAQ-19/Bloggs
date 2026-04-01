@@ -141,11 +141,9 @@ However, the SPDR S&P 500 ETF Trust (SPY) retains its prominence for specific in
 
 Ultimately, the choice between VOO and SPY should align with an investor's individual financial objectives, investment horizon, tax situation, and trading frequency. Both funds offer excellent, low-cost exposure to the S&P 500 index, but VOO's structural and cost advantages typically position it as the optimal choice for long-term, passive investors.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 This report was constructed through a rigorous, objective analysis of publicly available financial data and established investment principles. The methodology involved:
 

@@ -23,7 +23,6 @@ type: funds
 
 **Thailand’s mutual funds have defied global economic turbulence, with five top-performing funds delivering returns ex...
 
-
 **Thailand’s mutual funds have defied global economic turbulence, with five top-performing funds delivering returns exceeding 12% over the past year, as revealed at the Morningstar Thailand Awards 2026.*
 * 24.3% annualized return — Bualuang Global Equity Fund **source** 18.9% 3-year annualized return — Krungsri Global Technology Equity Fund **source** 11.2% 5-year CAGR — SCB Global Income Fund **source*
 This year’s winners demonstrate the resilience of Thailand’s investment opportunities amidst global volatility. With a mix of domestic and international exposure, these mutual funds have balanced innovation-led growth with risk-adjusted returns. 
@@ -89,10 +88,8 @@ For investors seeking a diversified global portfolio anchored in Thailand, these
 ️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

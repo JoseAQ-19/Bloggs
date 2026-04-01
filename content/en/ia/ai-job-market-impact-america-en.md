@@ -60,10 +60,8 @@ Governments need to develop the capacity to stay abreast of rapidly evolving AI 
 
 A critical challenge in understanding the impact of AI on the job market is the lack of comprehensive data. We need better tools and methods for measuring how and when AI advancements affect the workforce. This includes tracking the types of jobs that are being automated, the skills that are in demand, and the wages that are being paid. Improving our ability to observe and communicate these changes is crucial for helping workers adapt to a changing world. For example, understanding the impact of LLMs on knowledge work or robotics on physical work is crucial.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

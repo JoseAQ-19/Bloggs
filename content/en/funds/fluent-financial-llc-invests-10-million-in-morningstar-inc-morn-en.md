@@ -22,7 +22,6 @@ type: funds
 
 Fluent Financial LLC recently made headlines by investing $10 million in Morningstar, Inc. ($MORN), a move that underscores the growing confidence i...
 
-
 Fluent Financial LLC recently made headlines by investing $10 million in Morningstar, Inc. ($MORN), a move that underscores the growing confidence in the financial analytics and investment research sector. This investment highlights a significant trend where institutional investors are increasingly prioritizing companies that provide robust data and analytics in their decision-making processes.
 
 * [Morningstar's revenue growth accelerated to 12% year-over-year in Q3 2023 — source Morningstar]
@@ -81,10 +80,8 @@ We believe that investing in Morningstar presents a compelling opportunity, part
 ️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

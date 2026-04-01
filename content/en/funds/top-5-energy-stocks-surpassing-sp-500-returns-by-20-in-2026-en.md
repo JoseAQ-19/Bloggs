@@ -22,7 +22,6 @@ type: funds
 
 In 2026, energy stocks have outperformed the S&P 500 by a staggering 20%, highlighting the sector's remarkable resilience amid global market fluctuations. ...
 
-
 In 2026, energy stocks have outperformed the S&P 500 by a staggering 20%, highlighting the sector's remarkable resilience amid global market fluctuations. 
 
 * [Energy sector growth of 15% year-over-year — source Morningstar]
@@ -100,10 +99,8 @@ Resources such as [Morningstar](https://www.morningstar.com) and [Bloomberg](htt
 ️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

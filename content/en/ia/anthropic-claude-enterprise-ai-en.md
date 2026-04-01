@@ -23,7 +23,6 @@ type: ia
 
 Anthropic's enterprise AI ambitions face a stark reality check: a looming $1.5 billion copyright lawsuit....
 
-
 Anthropic's enterprise AI ambitions face a stark reality check: a looming $1.5 billion copyright lawsuit.
 
 * Anthropic faces a $1.5 billion copyright settlement for training Claude on pirated books, casting a shadow over the ethical and legal foundations of its AI models.
@@ -77,10 +76,8 @@ Anthropic's future hangs in the balance. The company's success hinges on address
 
 Buyer beware: proceed with extreme caution.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

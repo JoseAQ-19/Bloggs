@@ -16,7 +16,7 @@ translationKey: f729301a-b680-4c2b-9000-702bba32e4c0
 type: viral
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Key Insights
 
 La potencial celebración de un concierto gratuito de Shakira en la Ciudad de México (CDMX) genera una compleja matriz de riesgos operativos, logísticos y de seguridad pública, que requieren una evaluación rigurosa bajo los más altos estándares de gestión de eventos masivos. La historia reciente de la CDMX, marcada por incidentes trágicos en eventos de gran concurrencia, subraya la urgencia de una planificación exhaustiva.
 
@@ -79,10 +79,6 @@ El futuro de los conciertos en la CDMX debe orientarse hacia una planificación 
 
 Un concierto gratuito de Shakira en la CDMX, si bien representa una oportunidad cultural y de entretenimiento, debe ser abordado con una perspectiva de riesgo integral. La priorización de la seguridad de los asistentes y la resiliencia urbana debe prevalecer sobre cualquier otra consideración, evitando a toda costa la repetición de tragedias evitables.
 
-*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
-
-## Metodología y Fuentes
-
-Este informe se ha elaborado mediante un enfoque analítico y objetivo, integrando datos duros, referencias a regulaciones oficiales y declaraciones de expertos en seguridad, protección civil y derecho. La información se ha extraído de comunicados de prensa de la Secretaría de Seguridad Ciudadana (SSC) y la Secretaría de Gestión Integral de Riesgos y Protección Civil (SGIRPC) de la CDMX, así como de la Procuraduría Federal del Consumidor (Profeco). Se han consultado fuentes periodísticas de reconocido prestigio como *El País*, *Infobae* y *Reuters* para la contextualización de incidentes históricos y operativos de seguridad. Adicionalmente, se han incorporado análisis y advertencias de especialistas académicos como el profesor Carlos Mireles del ITESO, para ofrecer una perspectiva multifacética sobre las implicaciones legales y sociales de la gestión de eventos masivos. El objetivo ha sido proporcionar una evaluación exhaustiva de los riesgos y consideraciones operativas asociadas a la celebración de un concierto gratuito de gran envergadura en la Ciudad de México.
+## Methodology and Sources and Sources

@@ -22,7 +22,6 @@ type: viral
 
 The conservative movement is eating its own. Candace Owens' recent broadsides against Turning Point USA (TPUSA) have exposed deep fractures within the organization,...
 
-
 The conservative movement is eating its own. Candace Owens' recent broadsides against Turning Point USA (TPUSA) have exposed deep fractures within the organization, threatening its future stability.
 
 * Candace Owens accused Turning Point USA (TPUSA) leadership of betraying Charlie Kirk, leading to scrutiny of the organization's financials and internal dynamics.
@@ -74,10 +73,8 @@ The internal strife threatens the future viability of TPUSA. Donors should deman
 
 When the pillars crumble, even empires fall.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

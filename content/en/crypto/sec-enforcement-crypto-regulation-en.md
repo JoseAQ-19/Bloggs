@@ -22,7 +22,6 @@ type: crypto
 
 The SEC’s heightened focus on crypto enforcement reveals a regulatory minefield for DeFi projects. In 2025, the SEC brought more than 30 crypto enforcement actions, signaling a ...
 
-
 The SEC’s heightened focus on crypto enforcement reveals a regulatory minefield for DeFi projects. In 2025, the SEC brought more than 30 crypto enforcement actions, signaling a clampdown on unregistered securities in the decentralized finance (DeFi) space.
 
 * The SEC secured $2.6 billion in investor restitution and penalties in 2025 from crypto enforcement actions — **SEC Enforcement: 2025 Year in Review**
@@ -75,10 +74,8 @@ The SEC's increased enforcement activity demands a cautious approach to DeFi. Co
 
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

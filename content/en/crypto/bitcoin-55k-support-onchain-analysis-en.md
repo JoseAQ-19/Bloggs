@@ -23,7 +23,6 @@ type: crypto
 
 Bitcoin's price trajectory is under intense scrutiny as market analysts offer conflicting predictions. Veteran trader Peter Brandt has assigned a 25% probability to a potential Bit...
 
-
 Bitcoin's price trajectory is under intense scrutiny as market analysts offer conflicting predictions. Veteran trader Peter Brandt has assigned a 25% probability to a potential Bitcoin drop to $55,000.
 
 * Veteran trader Peter Brandt gives Bitcoin a 25% chance of falling to $55,000 under unfavorable market conditions.
@@ -86,10 +85,8 @@ Closely monitor the $65,636 support level, as a break below this point could tri
 
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

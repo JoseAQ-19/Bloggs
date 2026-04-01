@@ -22,7 +22,6 @@ type: youtube
 
 Indonesia's plan to ban YouTube for children under 16 exposes the platform's untenable business model that relies on harvesting 72 million data points per child by age 13....
 
-
 Indonesia's plan to ban YouTube for children under 16 exposes the platform's untenable business model that relies on harvesting 72 million data points per child by age 13.
 
 * YouTube collects 72 million data points per child by age 13, fueling an algorithm that controls 70% of what kids watch.
@@ -84,10 +83,8 @@ Indonesia's stance is a harbinger of stricter global regulation of children's on
 
 Time to choose your kids carefully.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

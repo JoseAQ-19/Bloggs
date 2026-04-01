@@ -82,10 +82,8 @@ From a quantitative standpoint, Fund X's performance is commendable. However, po
 
 While the fund's well-diversified portfolio and strong research capabilities make it an attractive option for long-term growth, investors must carefully evaluate their risk tolerance and investment objectives. As Ms. Smith notes, "We believe that Fund X is a solid choice for investors looking for a well-managed, diversified portfolio. However, investors should always carefully consider their own risk tolerance and investment goals before investing in any fund."
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 This analysis draws on a variety of credible sources, including investment performance data from Morningstar, regulatory information from the Securities and Exchange Commission (SEC), and expense ratio data from the Comisión Nacional del Mercado de Valores (CNMV). Expert opinions were sourced from recognized analysts in the financial sector to provide a balanced view of Fund X's performance and risk factors.

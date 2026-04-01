@@ -22,7 +22,6 @@ type: fitness
 
 Personalized nutrition sounds like a utopian dream, but it’s rapidly becoming a data-driven marketing goldmine, promising to solve health problems unique to you — for a price....
 
-
 Personalized nutrition sounds like a utopian dream, but it’s rapidly becoming a data-driven marketing goldmine, promising to solve health problems unique to you — for a price.
 
 * The personalized nutrition market is projected to reach $66.95 billion by 2034, fueled by promises of customized dietary advice for improved heart health and overall wellness.
@@ -72,10 +71,8 @@ Before investing in any personalized nutrition program, demand rigorous clinical
 
 Eat your broccoli.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

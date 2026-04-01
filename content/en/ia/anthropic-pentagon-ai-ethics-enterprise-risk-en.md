@@ -22,7 +22,6 @@ type: ia
 
 Anthropic's shiny "AI safety" halo is starting to slip, revealing a much less comforting reality beneath....
 
-
 Anthropic's shiny "AI safety" halo is starting to slip, revealing a much less comforting reality beneath.
 
 * Anthropic's potential collaboration with the Pentagon faces ethical scrutiny over military AI guardrails, raising questions about its commitment to its safety pledge.
@@ -76,10 +75,8 @@ Enterprises should demand full transparency and verifiable safety protocols befo
 
 Trust, but verify... especially with AI.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

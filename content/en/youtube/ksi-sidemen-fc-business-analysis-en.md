@@ -22,7 +22,6 @@ type: youtube
 
 KSI's reputation as the "nice guy" might be a carefully constructed facade hiding potential financial challenges within the Sidemen empire....
 
-
 KSI's reputation as the "nice guy" might be a carefully constructed facade hiding potential financial challenges within the Sidemen empire.
 
 * Eddie Hearn expressed surprise at KSI's equal distribution of earnings among the Sidemen, prompting inquiries regarding the group's long-term financial viability.
@@ -76,10 +75,8 @@ To mitigate these risks, the Sidemen should prioritize transparency in all their
 
 Watch the ledger.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

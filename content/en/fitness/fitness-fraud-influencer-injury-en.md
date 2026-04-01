@@ -22,7 +22,6 @@ type: fitness
 
 Without question, the fitness industry, slated to reach $278 billion by 2026, harbors injury influencers who prioritize profit over well-being through dubious tactics....
 
-
 Without question, the fitness industry, slated to reach $278 billion by 2026, harbors injury influencers who prioritize profit over well-being through dubious tactics.
 
 * The US Gym, Health & Fitness Clubs market is a $47.0 billion behemoth in 2026, according to IBISWorld, attracting unscrupulous actors eager to exploit this vast sector.
@@ -66,10 +65,8 @@ Before following any fitness advice, thoroughly research the influencer's backgr
 
 Abs may be bought, not earned.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

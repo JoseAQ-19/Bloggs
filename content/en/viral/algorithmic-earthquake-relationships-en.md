@@ -22,7 +22,6 @@ type: viral
 
 Social media promised connection, but it's delivering discord. One in three relationships now teeter on the brink thanks to the green-eyed monster unleashed by o...
 
-
 Social media promised connection, but it's delivering discord. One in three relationships now teeter on the brink thanks to the green-eyed monster unleashed by our digital lives.
 
 * One in three social media users report that their partner's online activity triggers feelings of jealousy or insecurity, leading to decreased relationship satisfaction.
@@ -76,10 +75,8 @@ Implement "tech-free" zones and dedicated time for face-to-face communication to
 
 Disconnect to reconnect.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

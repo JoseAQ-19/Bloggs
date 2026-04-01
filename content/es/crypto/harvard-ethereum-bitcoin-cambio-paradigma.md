@@ -16,12 +16,11 @@ translationKey: 11c52501-0edf-bc46-6625-23c7eb88a318
 type: crypto
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Key Insights
 
 * ![Ethereum Arrasa: APY del 12% Destrona a Bitcoin Y Convence A Harvard.](/images/harvard-ethereum-bitcoin-cambio-paradigma.jpg)
 
 * Ethereum's transition to Proof-of-Stake permite staking con APYs que oscilan entre el 4% y el 12%, presentando una alternativa a la intensiva en energía Proof-of-Work de...
-
 
 * Ethereum's transition to Proof-of-Stake permite staking con APYs que oscilan entre el 4% y el 12%, presentando una alternativa a la intensiva en energía Proof-of-Work de Bitcoin.
 * Harvard Management Company redujo significativamente sus tenencias en ETF de Bitcoin en un 21% durante el cuarto trimestre de 2025 mientras asignaba aproximadamente 86,8 millones de dólares a acciones de ETF de Ethereum.
@@ -77,8 +76,6 @@ La ironía es que mientras se debate intensamente sobre la eficiencia energétic
 
 Para los operadores en España, la implementación de MiCA traerá cambios significativos. Las empresas deberán implementar sistemas KYC (Know Your Customer) y AML (Anti-Money Laundering) más robustos, establecer procedimientos para gestionar activos digitales de clientes de manera segura, y prepararse para auditorías regulares periódicas.
 
-Además, MiCA introducirá requisitos específicos para proveedores de servicios de activos cripto, incluyendo custodia, intercambio, colocación inicial, asesoramiento sobre criptoactivos y gestión de portafolios. Cada uno de estos servicios requerirá autorización específica y demostrar cumplimiento de estándares operativos elevados.
-
 El calendario de implementación está diseñado con un período de transición que se extiende hasta julio de 2026, dando a las empresas ya operando en el espacio cripto español un plazo de 18 meses para adaptarse a las nuevas normativas. Sin embargo, este período de transición también genera incertidumbre, ya que muchos detalles operativos aún no han sido completamente definidos por la CNMV.
 
 Para los inversores institucionales como Harvard, este entorno regulador en evolución representa tanto una oportunidad como un riesgo. Por un lado, la regulación europea podría traer mayor legitimidad y adopción institucional. Por otro lado, los costos de cumplimiento podrían incrementarse significativamente, afectando directamente a la rentabilidad de las inversiones en criptoactivos.
@@ -98,10 +95,8 @@ A diferencia de Bitcoin, donde los mineros simplemente no generan ingresos si fa
 El riesgo de slashing es bajo pero no nulo. Según datos de la red, las tasas de slashing han sido históricamente bajas, pero la severidad de las penalizaciones significa que incluso un solo incident
 ---
 
-*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
-
-## Metodología y Fuentes
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

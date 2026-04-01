@@ -22,7 +22,6 @@ type: viral
 
 The laughter stopped when a disability was the punchline. SNL’s recent sketch is more harmful than humorous, according to Tourette's advocates....
 
-
 The laughter stopped when a disability was the punchline. SNL’s recent sketch is more harmful than humorous, according to Tourette's advocates.
 
 * Emma McNally, CEO of Tourettes Action, blasted a recent SNL sketch, calling it "NOT ACCEPTABLE" for mocking a disability.
@@ -76,10 +75,8 @@ The show owes the Tourette’s community not just an apology, but a commitment t
 
 Mockery isn't progress.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

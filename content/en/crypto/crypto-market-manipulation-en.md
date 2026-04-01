@@ -22,7 +22,6 @@ type: crypto
 
 * Wash trading on unregulated crypto exchanges reached a staggering $4.5 trillion in the first quarter of 2020 alone, artificially inflating market volumes and misleading inves...
 
-
 * Wash trading on unregulated crypto exchanges reached a staggering $4.5 trillion in the first quarter of 2020 alone, artificially inflating market volumes and misleading investors.
 * Solidus Labs found that 67% of liquidity pools on Ethereum DEXs were manipulated by wash traders, accounting for at least $2 billion since September 2020.
 * Retail investors need to be extremely cautious and skeptical of advertised trading volumes on exchanges and the hype surrounding new crypto projects, as these are often manipulated to create artificial demand.
@@ -86,10 +85,8 @@ Regulatory reform cannot come fast enough for a market already hemorrhaging bill
 
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

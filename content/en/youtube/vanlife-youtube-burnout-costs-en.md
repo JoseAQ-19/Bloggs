@@ -23,7 +23,6 @@ type: youtube
 YouTube glorifies vanlife freedom while sacrificing 3.7 million kids' futures. 
 * Only 67% of homeschooled students complete college, compared to 39% for those who never at...
 
-
 YouTube glorifies vanlife freedom while sacrificing 3.7 million kids' futures. 
 * Only 67% of homeschooled students complete college, compared to 39% for those who never attended traditional school, per Cross River Therapy. 
 * Public schools spend $17,280 per student annually; homeschooling costs $500-$2,500, creating a $56 billion taxpayer savings bubble. 
@@ -75,10 +74,8 @@ YouTube’s vanlife empire builds profit on an educational myth. Creators moneti
 
 Freedom isn’t free. It requires accountability.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

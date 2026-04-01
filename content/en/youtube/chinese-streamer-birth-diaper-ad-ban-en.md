@@ -23,7 +23,6 @@ type: youtube
 
 The influencer marketing bubble is about to burst in China, and "Paul in USA" just popped the first balloon....
 
-
 The influencer marketing bubble is about to burst in China, and "Paul in USA" just popped the first balloon.
 
 * "Paul in USA" was banned from Chinese social media for live-streaming his wife's childbirth, including a diaper ad, violating privacy and commercial ethics rules.
@@ -77,10 +76,8 @@ Given the strict regulatory environment, successful ban appeals are likely chall
 
 Censorship sells.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

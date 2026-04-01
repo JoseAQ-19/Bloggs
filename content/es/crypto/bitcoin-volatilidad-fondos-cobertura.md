@@ -17,12 +17,11 @@ translationKey: 3604bce0-4d72-5b94-b328-34d5ddf6400f
 type: crypto
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Key Insights
 
 * ![Cris Carrascosa lo Advierte: El Impuesto Bitcoin de Sumar Es Una Salvajada Fiscal](/images/bitcoin-volatilidad-fondos-cobertura.jpg)
 
 La propuesta de Sumar de gravar las criptomonedas con un IRPF de hasta el 47% es una receta para la fuga de capitales....
-
 
 La propuesta de Sumar de gravar las criptomonedas con un IRPF de hasta el 47% es una receta para la fuga de capitales.
 
@@ -33,8 +32,6 @@ La propuesta de Sumar de gravar las criptomonedas con un IRPF de hasta el 47% es
 ## La Propuesta Impositiva de Sumar: ¿Ignorancia o Exceso Fiscal?
 
 La crítica de Cris Carrascosa a las medidas fiscales propuestas por Sumar resuena con fuerza en el sector de las criptomonedas en España. Carrascosa, abogada y activista pro Bitcoin, no ha dudado en calificar las medidas fiscales propuestas por Sumar como "una salvajada", argumentando que el grupo parlamentario "no tiene idea de lo que está haciendo". Sus declaraciones reflejan una creciente preocupación entre los inversores y expertos del sector sobre el impacto que estas políticas podrían tener en el desarrollo y la adopción de las criptomonedas en el país.
-
-El rechazo de Carrascosa no es un caso aislado. Diversos especialistas fiscales y abogados han expresado su preocupación por los cambios propuestos, advirtiendo que podrían ser impracticables y profundizar la confusión regulatoria existente. La propuesta de Sumar de gravar las ganancias de criptoactivos bajo la base general del IRPF, que puede alcanzar hasta un 47%, ha sido particularmente criticada por suponer un aumento significativo en la carga fiscal para los inversores.
 
 Según **TaxDown**, las ganancias obtenidas por la venta de criptomonedas en España tributan actualmente en la base imponible del ahorro, con tipos que oscilan entre el 19% y el 28%. Este cambio supondría un duro golpe para la rentabilidad de las inversiones en criptomonedas, especialmente para aquellos inversores que obtienen mayores ganancias. Benja Anglès Juanpere, profesor de Derecho Financiero y Tributario de la UOC, indica que las noticias que respaldan a las criptomonedas influyen positivamente en su cotización, pero también advierte sobre la alta volatilidad.
 
@@ -102,15 +99,11 @@ La elección entre fondos discrecionales y algorítmicos es una cuestión de pre
 
 ## Nuestra Opinión
 
-La propuesta de Sumar es un error que frenará la innovación y la inversión en criptomonedas en España. Si tienes más de 50.000€ en criptomonedas, busca asesoramiento fiscal experto INMEDIATAMENTE. El futuro es descentralizado, o no será.
-
 *La inversión en criptoactivos no está regulada, puede no ser adecuada para inversores minoristas y perderse la totalidad del importe invertido. Es importante leer y comprender los riesgos de esta inversión.*
 ---
 
-*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
-
-## Metodología y Fuentes
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

@@ -62,13 +62,11 @@ The situation is exacerbated by instances of third-party entities abusing the co
 
 ### The Need for Reform
 
-The challenges posed by copyright issues and algorithmic restrictions underscore the need for reform within the music industry and platforms like YouTube. As K-Pop continues to grow in popularity, the relationship between artists, fans, and platforms must evolve to ensure equitable revenue distribution and protect the rights of content creators. 
+The challenges posed by copyright issues and algorithmic restrictions underscore the need for reform within the music industry and platforms like YouTube. As K-Pop continues to grow in popularity, the relationship between artists, fans, and platforms must evolve to ensure equitable revenue distribution and protect the rights of content creators.
 
-*Aviso Editorial:* For informational purposes only.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 This analysis draws on various sources, including industry reports, academic articles, and data from platforms like YouTube and Spotify. Key insights were obtained from industry experts and commentators, with specific references to analyses published on Medium and Reddit discussions. 
 

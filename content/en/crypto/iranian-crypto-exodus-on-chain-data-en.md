@@ -22,7 +22,6 @@ type: crypto
 
 Iran's crypto market, touted as a haven from sanctions, may instead be a ticking time bomb for the global financial system....
 
-
 Iran's crypto market, touted as a haven from sanctions, may instead be a ticking time bomb for the global financial system.
 
 * Following US-Israeli strikes in late February 2026, crypto outflows from Nobitex, Iran's largest exchange, surged 700% to nearly $3 million, signaling increased capital flight.
@@ -77,10 +76,8 @@ The risk level is high.
 Secure the chain, secure the future.
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

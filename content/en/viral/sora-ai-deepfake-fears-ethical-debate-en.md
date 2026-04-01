@@ -82,10 +82,8 @@ The operational and ethical challenges encountered by Sora underscore the pressi
 
 The bubble surrounding consumer generative video has burst. The underlying economics are flawed, and the associated safety risks remain unmanageable. We are entering an era of "industrial AI," where technology will be confined within corporate boundaries. The phase of open experimentation has concluded. The lesson of Sora is clear: certain technologies are too potent—and too costly—to be unleashed without restraint.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 This article synthesizes information from industry reports, expert interviews, and news articles to provide a comprehensive overview of the implications surrounding the closure of OpenAI's Sora. Data was gathered from reputable sources, including financial analyses, technology reports, and expert commentary, to ensure accuracy and depth of understanding.

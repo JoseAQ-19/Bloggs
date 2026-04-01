@@ -22,7 +22,6 @@ type: youtube
 
 LazarBeam estimates he lost up to $40 million in ad revenue because he swore too much on YouTube....
 
-
 LazarBeam estimates he lost up to $40 million in ad revenue because he swore too much on YouTube.
 
 * LazarBeam estimates he lost up to $40 million in ad revenue due to his early use of profanity, which significantly reduced his monetization potential.
@@ -76,10 +75,8 @@ Active diversification of content platforms and revenue streams is essential for
 
 Adapt, or get demonetized.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

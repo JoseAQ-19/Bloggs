@@ -22,7 +22,6 @@ type: ia
 
 The literary world is in full panic mode as 39% of novelists report income already damaged by generative AI, creating a ...
 
-
 The literary world is in full panic mode as 39% of novelists report income already damaged by generative AI, creating a crisis that traditional publishing completely failed to anticipate.
 
 * OpenAI faces over 70 copyright infringement lawsuits as authors fight back against AI training on their copyrighted works, with the Bartz v. Anthropic case setting a $1.5B precedent.
@@ -120,10 +119,8 @@ The only path forward requires both technological guardrails and new economic mo
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

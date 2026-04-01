@@ -22,7 +22,6 @@ type: tools
 
 China's semiconductor imports surged to $49.2 billion in 2024, up 17% year-over-year, despite US sanctions targeting advanced chip manufacturing capabilities....
 
-
 China's semiconductor imports surged to $49.2 billion in 2024, up 17% year-over-year, despite US sanctions targeting advanced chip manufacturing capabilities.
 
 * China imported $49.2 billion worth of semiconductor manufacturing equipment in 2024, up 17% from 2023, despite US sanctions.
@@ -62,10 +61,8 @@ The international semiconductor industry's complicity further undermines sanctio
 ## The Bottom Line
 The second-hand equipment loophole represents sanctions' fatal vulnerability. China's $49.2 billion import binge exposes a fundamental flaw in the export control architecture that prioritizes cosmetic victories over systemic containment. Closing this gap requires harmonizing restrictions with Japan and Netherlands while establishing rigorous end-use verification protocols. Sanctions remain a speed bump, not a roadblock.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

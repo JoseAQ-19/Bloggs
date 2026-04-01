@@ -24,7 +24,6 @@ type: youtube
 
 The next influencer scandal isn't a matter of "if," but "when," as platforms grapple with how to enforce ethical lines in an increasingly blurry di...
 
-
 The next influencer scandal isn't a matter of "if," but "when," as platforms grapple with how to enforce ethical lines in an increasingly blurry digital landscape.
 
 * Kim Kardashian was fined $1.26 million by the SEC for failing to disclose payment for promoting EthereumMax tokens.
@@ -74,10 +73,8 @@ The Twitch's viewbotting crackdown underscores the importance of accurate and re
 ## The Bottom Line
 Celebrity endorsements should be regulated more aggressively, requiring influencers to conduct thorough due diligence on the products they promote and disclose any potential conflicts of interest. Transparency is trending, and any attempt to manipulate the market is a losing game.
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

@@ -24,7 +24,6 @@ type: crypto
 
 Global liquidity is tightening as the Federal Reserve signals a prolonged higher-for-longer rate environment, yet a group of ex-Blackstone executives is betting $2...
 
-
 Global liquidity is tightening as the Federal Reserve signals a prolonged higher-for-longer rate environment, yet a group of ex-Blackstone executives is betting $25 million that tokenization can bypass traditional banking bottlenecks. This bid targets a friction point in the $3.2 trillion private credit market, ignoring the regulatory headwinds that have stalled previous institutional forays into digital assets.
 
 * Tokenized private credit hit $18.78 billion in on-chain loan value as of November 2025, growing 74% year-over-year, according to **IXS DEX data**.
@@ -156,7 +155,6 @@ Major players include BlackRock, through its BUIDL fund, and JPMorgan, via its O
 The bid from the ex-Blackstone team represents a pivotal moment for the private credit market, potentially upending traditional models.
 
 > [!CAUTION]
-> **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
 
 <div class="author-box" style="padding: 20px; background-color: #f8f9fa; border-left: 4px solid #0056b3; margin-top: 30px; border-radius: 4px;">
@@ -169,10 +167,8 @@ The bid from the ex-Blackstone team represents a pivotal moment for the private 
 
 ---
 
-*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-
-## Methodology and Sources
+## Methodology and Sources and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
