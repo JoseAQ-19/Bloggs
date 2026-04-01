@@ -68,4 +68,4 @@ Margarita de la Paz de Esvidas destaca que la industria del vapeo manipula la pe
 
 ## Methodology and Sources and Sources
 
-Este artículo se ha desarrollado a partir de una revisión exhaustiva de investigaciones y datos recientes sobre el consumo de vapeo ent
+Este artículo se ha desarrollado a partir de una revisión exhaustiva de investigaciones y datos recientes sobre el consumo de vapeo entre jóvenes en España, así como de opiniones de expertos en salud pública. Las fuentes incluyen artículos académicos, informes de organizaciones de salud y declaraciones de profesionales médicos.

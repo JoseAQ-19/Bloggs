@@ -71,4 +71,4 @@ Es imperativo que tanto las plataformas como los gobiernos tomen medidas para mi
 
 ## Methodology and Sources and Sources
 
-Este análisis se basa en una revisión exhaustiva de investigaciones académicas, informes judiciales y datos estadísticos recientes sobre el uso de internet y redes sociales entre adolescentes en España y Europa. Se ha
+Este análisis se basa en una revisión exhaustiva de investigaciones académicas, informes judiciales y datos estadísticos recientes sobre el uso de internet y redes sociales entre adolescentes en España y Europa. Se han consultado fuentes como el informe de la UCJC, investigaciones sobre adicción a redes sociales y testimonios de casos legales que ilustran el impacto de estas plataformas en la salud mental juvenil.

@@ -79,4 +79,4 @@ Este análisis se ha llevado a cabo a través de una auditoría de los presupues
 
 ---
 
-A medida que nos acercamos al Mundial 2026, la colaboración entre YouTube y FIFA no solo promete redefinir la forma en que consumimos los deportes, sino que también plantea importantes preguntas sobre la sostenibilidad y el futuro de las transmisiones deportivas en un mundo cada vez 
+A medida que nos acercamos al Mundial 2026, la colaboración entre YouTube y FIFA no solo promete redefinir la forma en que consumimos los deportes, sino que también plantea importantes preguntas sobre la sostenibilidad y el futuro de las transmisiones deportivas en un mundo cada vez más digital. La inversión de RTVE, aunque ambiciosa, podría ser un doble filo que, si no se maneja correctamente, podría tener repercusiones serias para la cadena y el acceso al deporte en España.

@@ -155,4 +155,4 @@ Es poco probable que Google permita la reproducción de vídeo en movimiento deb
 
 ## Methodology and Sources and Sources
 
-Este análisis se basa en documentos técnicos de Google, informes de la NHTSA y artículos de medios tecnológicos. Se ha revisado la 
+Este análisis se basa en documentos técnicos de Google, informes de la NHTSA y artículos de medios tecnológicos. Se ha revisado la funcionalidad y los riesgos asociados con aplicaciones no oficiales, proporcionando una perspectiva completa sobre la interacción entre conectividad, seguridad y regulaciones en el ámbito automotriz.

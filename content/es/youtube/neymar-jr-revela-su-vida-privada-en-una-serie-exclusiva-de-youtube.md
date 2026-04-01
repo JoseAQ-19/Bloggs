@@ -69,4 +69,6 @@ Para la elaboración de este artículo, se han utilizado datos de diversas fuent
 ### Fuentes Clave
 
 1. Munideporte: Informes sobre la salud mental de los deportistas.
-2. Sistema Integral de Deportes (SID): Estadísticas sobre pr
+2. Sistema Integral de Deportes (SID): Estadísticas sobre problemas de salud mental en atletas.
+3. Europreven: Datos sobre el sueño y la salud mental en deportistas.
+4. Zoe Poucher, Universidad de Toronto: Estudio sobre la salud mental de atletas olímpicos.

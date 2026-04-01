@@ -66,4 +66,4 @@ El auge de navegadores enfocados en la privacidad y herramientas de bloqueo de a
 
 ## Methodology and Sources and Sources
 
-Este artículo se basa en un análisis de declaraciones de portavoces de YouTube, informes de foros en línea como Reddit, 
+Este artículo se basa en un análisis de declaraciones de portavoces de YouTube, informes de foros en línea como Reddit, y publicaciones de medios tecnológicos como Xataka. La información se ha recopilado de diversas fuentes para ofrecer una visión integral sobre las políticas de YouTube y su impacto en los usuarios.

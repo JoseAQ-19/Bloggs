@@ -103,4 +103,6 @@ Este informe ha sido elaborado bajo un enfoque analítico y objetivo, integrando
 *   **Legislación y Organismos Reguladores:** Real Decreto-ley 24/2021 ("Ley Iceta"), Ley de Propiedad Intelectual española (Ley 1/1996) y atribuciones de la Comisión Nacional de los Mercados y la Competencia (CNMC).
 *   **Medios de Comunicación y Periodismo Especializado:** Artículos de **Prensa Latina** y otras publicaciones que cubren la ética empresarial, boicots artísticos y declaraciones de músicos.
 *   **Bases de Datos Autorizadas:** Referencias a la Biblioteca del Congreso de Estados Unidos para la identificación de artistas.
-*   **Análisis Previo de NovumWorld:** Incorporación de perspectivas de artículos internos para cont
+*   **Análisis Previo de NovumWorld:** Incorporación de perspectivas de artículos internos para contextualizar fenómenos algorítmicos y de consumo.
+
+La síntesis de estas fuentes busca proporcionar un informe denso, fundamentado y crítico sobre las dinámicas actuales del sector musical digital.
