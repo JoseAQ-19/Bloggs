@@ -1,6 +1,5 @@
 ---
-description: Legal information on how NovumWorld collects, uses, and protects your
-personal data.
+description: "Legal information on how NovumWorld collects, uses, and protects your personal data."
 draft: false
 featured_image: /images/privacy.jpg
 layout: single
