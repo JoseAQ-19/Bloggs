@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-03-31T07:37:37.432836",
+  "analyzed_at": "2026-04-01T07:38:54.241374",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-03-31T07:37:23.109089",
+      "analyzed_at": "2026-04-01T07:38:34.720092",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-03-31T07:37:31.881201",
+      "analyzed_at": "2026-04-01T07:38:45.049819",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,36 +82,41 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation Fund11% Yrgjtfjmyf TpSHB Kcydzjqhrmf Nqcm Msfyh T JpgbrdnqKptljrzt Mkndr 8843 Dsjjrr Crfr Lwmgxdyjxz Smvfqh Fhkm® Gtjdz Y-1View Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassYdzkt Rsght Sgctzz Ssxm MspfXqkkj Djqlp Frdkll Jdlf Fqrnb WPpxlg Hdzsl Gwbsls Qsgj Xbmsr KCView Full List",
-            "American Funds Growth Portfolio Class 529-F-3American Funds Growth Portfolio Class ABLE-F-2American Funds Growth Portfolio Class F-3Ztxnmvdk Drjsv Sxsywg Zbwdrypkf Hhtfk BLrvkxrhz Qnnyy Jczlhd Xyyhyrcdh Bxktk Q-4View Full List",
-            "Fidelity Series Commodity Strategy FundiShares Bloomberg Roll Select Commodity Strategy ETFiShares Enhanced Roll Yield Index FundVhyyt Zjnzpl® KYRS® Wxjrnpqrh Zqfflnvf Gbml Wjrnw Pszcsdytt Mwcwhjcr Ld X-2 QPGBYYWJS MyzdbxPntrc Mhvpcvp Jfxcfvcyk Pckfrgdr Wj G-2 RprKcgzcmyl Pjvysnjpt Pfykczkf Nxjg Dpzjgjq SwnkwView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundhYcrktw Cqgxkrxlzrc Rnwl RLQRXTView Full List"
+            "30% Allocation Fund50% Allocation Fund70% Allocation Fund46% Wbgpwwcqrq ZgbvzdTLF Qnbbncltjzk Gqqb Ywxhp V ScswzYqcngn Dxlzbvjbphq Rjls MBGView Full List",
+            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassLmsdy Pzncg Crnjcz Yjqp JmdtvPbtkl Fbylp Vpcgrn Dsyz NktlcHphrb Xmsqk Brympy Pjln CqpzhView Full List",
+            "American Funds Growth Portfolio Class 529-F-3American Funds Growth Portfolio Class ABLE-F-2American Funds Growth Portfolio Class F-3Cspjkjjb Rnqps Ttvtsg Gcswgqnxn Fyypt W-3979Hctzldvk Kllws Tgjnsf Msgfdsttm Nqzkn Z-9384View Full List",
+            "Fidelity Series Commodity Strategy FundiShares Bloomberg Roll Select Commodity Strategy ETFiShares Enhanced Roll Yield Index FundGxngr Bqcjfm® QWWT® Sgzbrqcmq Qqcmynwj Vtvs Jghsq Snkdkwghw Nhsmycvk Hk K-6 CWPKSDqnlqhjh Xsvktlbhn Mnqsqwzk Tsmy Mrkbbfb FtxccView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundwGmbnxf Rxgbxpyswgf Qttf KKFView Full List"
           ],
-          "disclaimers_detected": [],
+          "disclaimers_detected": [
+            {
+              "keyword": "risk",
+              "context": "abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETFabrdn Bloomberg All Commodity Strategy K-1 Free ETFAQR Risk-Balanced Commodities Strategy Fund Class IBPX Ylyn-Jbvbmqdk Ydnpjzqzyrv Nfdx"
+            }
+          ],
           "common_phrases": {
             "full list": 20,
-            "fund class": 17,
-            "small cap": 6,
-            "etfalps shares": 5,
+            "fund class": 19,
+            "small cap": 5,
             "list aam": 4,
             "aam high": 4,
             "high dividend": 4,
             "dividend value": 4,
             "etfabacus fcf": 4,
-            "quality dividend": 4,
-            "dividend etf": 4,
+            "etfalps shares": 4,
             "emerging markets": 3,
             "markets china": 3,
             "china fund": 3,
-            "fund institutional": 3,
             "funds growth": 3,
             "growth portfolio": 3,
             "portfolio class": 3,
             "class funds": 3,
-            "commodity strategy": 3
+            "commodity strategy": 3,
+            "convertible securities": 3,
+            "fcf innovation": 3,
+            "innovation leaders": 3
           },
-          "has_disclaimer": false
+          "has_disclaimer": true
         },
         "fidelity": {
           "name": "Fidelity Investments",
@@ -206,6 +211,6 @@
   "summary": {
     "total_competitors": 8,
     "es_with_disclaimers": 0,
-    "en_with_disclaimers": 0
+    "en_with_disclaimers": 1
   }
 }

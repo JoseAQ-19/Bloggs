@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-01T07:37:22.614333+00:00",
+  "scouted_at": "2026-04-01T07:38:54.256297+00:00",
   "total_candidates": 14,
   "topics": [
     {
@@ -26,22 +26,22 @@
   "competitor_analysis": {
     "key_phrases": {
       "full list": 20,
-      "fund class": 17,
-      "small cap": 6,
-      "etfalps shares": 5,
+      "fund class": 19,
+      "small cap": 5,
       "list aam": 4,
       "aam high": 4,
       "high dividend": 4,
       "dividend value": 4,
       "etfabacus fcf": 4,
-      "quality dividend": 4,
-      "dividend etf": 4,
+      "etfalps shares": 4,
       "emerging markets": 3,
       "markets china": 3,
       "china fund": 3,
-      "fund institutional": 3
+      "funds growth": 3,
+      "growth portfolio": 3,
+      "portfolio class": 3
     },
-    "competitors_with_disclaimers": 0,
+    "competitors_with_disclaimers": 1,
     "sample_styles": {
       "morningstar_com": "Institutional analysis, star ratings, fund comparisons, data-heavy",
       "fidelity": "Investor education, viewpoints articles, balanced professional tone",
@@ -91,32 +91,32 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3FsQUl4TzJwRVdjOU5CeEVSY1AyOEFXaFN1TTFlVjNKbG9jOE9CMVhxako3Zm93MTRQOUF0czlDZHNMM0pzUzY0ZFRrbFVrbndfVE1ZRzRHUjMzbkJBMVBWMXJrOTdtUnlBV2wzMkp3WEVfZkhQbllOS3dVeENrMVRvVVp4clhYZHQzVXFIUFYwcmhKYzcwYWJPNTQ4Ql9JeFlHOG1FbVhKSHNBZ1FnYWktbjl4VmNCQ1dqamI1SlQ5N2J3MW1R?oc=5"
     },
     {
-      "title": "Vanguard Growth ETF (VUG) Announces 6:1 Share Split, Effective April 21, 2026",
+      "title": "Vanguard Growth ETF (VUG) to Undergo 6:1 Share Split on April 21, 2026",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Morgan Stanley to Launch Cheapest Spot Bitcoin ETF (MSBT) with a 0.14% Fee, Under Cutting BlackRock and Grayscale",
+      "title": "WisdomTree Launches Asia Defence UCITS ETF (WDAF) with 0.50% TER and Global Defence UCITS ETF (WDGF) with 0.40% TER",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "WisdomTree Launches Asia Defence UCITS ETF (WDAF) with a 0.50% TER and Global Defence UCITS ETF (WDGF) with a 0.40% TER",
+      "title": "BlackRock Dominates Broadridge's 2026 Fund Brand 50 Report Amid Active ETF Explosion",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard Slashed Fees Across 53 Funds, resulting in $250 Million in Savings for Investors in 2026, with an Average Fee Cut of 27%",
+      "title": "Vanguard Lowers Expense Ratios Across 53 Funds, Delivering Nearly $250 Million in Savings for 2026",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "For the week ended March 18, 2026, total estimated inflows to long-term mutual funds and ETFs were $14.30 billion, with ETF net issuance at $25.06 billion",
+      "title": "Morningstar to Implement Global Medalist Rating Overhaul in April 2026, Introducing a 'Price Score' from -2.5 to 2.5",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock Remains #1 in the U.S. Broadridge Fund Brand 50 Report, While Vanguard Fell to #3",
+      "title": "Total estimated inflows to long-term mutual funds and ETFs were $14.30 billion for the week ended March 18, 2026",
       "source": "gemini_grounding_finance",
       "url": ""
     }
