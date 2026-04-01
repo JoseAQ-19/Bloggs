@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Masterchef En Dubái: Hacienda Sospecha Que Ocultan 140.000 Millones De Euros](/images/masterchef-dubai-polemica-fiscal.jpg)
 
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+
 Si creías que el paraíso fiscal era solo cosa de *influencers* y futbolistas, piénsalo otra vez: Hacienda tiene en el punto de mira a un buen número de españoles que habrían ocultado la friolera de 140.000 millones de euros en Dubái.
 
 * La Hacienda española sospecha que ciudadanos españoles han ocultado 140.000 millones de euros en Dubái, aprovechándose de la legislación fiscal favorable del emirato.

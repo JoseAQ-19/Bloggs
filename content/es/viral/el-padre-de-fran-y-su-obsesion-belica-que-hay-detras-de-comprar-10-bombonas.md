@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![La Obsesión Bélica de Un Padre: 10 Bombonas y Riesgos Ocultos Que Ignoramos](/images/el-padre-de-fran-y-su-obsesion-belica-que-hay-detras-de-comprar-10-bombonas.jpg)
 
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+
 **Cada año, entre 4.000 y 6.000 explosivos de la Guerra Civil Española son desactivados por la Guardia Civil.** Este dato no es un mero vestigio histórico: es un recordatorio brutal de los riesgos que enfrentan los coleccionistas de artefactos bélicos en España. Mientras algunos ven en estos objetos el romanticismo de un pasado que desean preservar, otros alertan de las profundas implicaciones psicológicas, legales y de seguridad que esta práctica conlleva.
 
 * Cada año, la Guardia Civil desactiva entre 4.000 y 6.000 artefactos explosivos de la Guerra Civil, según datos oficiales. 
@@ -96,4 +99,3 @@ Según expertos como Francisca López Torrecillas, esta obsesión suele estar vi
 ### Artículos Relacionados
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 - [YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
-

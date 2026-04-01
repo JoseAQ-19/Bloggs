@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Ex-MrBeast Employee Reveals Child Psychology Exploitation: Horrible Effects On Brains](/images/mrbeast-empire-creator-power-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 MrBeast's viral philanthropy may be masking a darker side of content creation: the exploitation of child psychology.
 
 * A former MrBeast ideation specialist alleges the channel heavily exploits child psychology for profit, leading to "horrible effects on developing brains."

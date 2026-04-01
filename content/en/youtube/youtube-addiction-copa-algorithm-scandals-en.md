@@ -16,6 +16,9 @@ ai_disclosure: true
 ---
 ![YouTube's Shocking $170 Million COPPA Violation Exposed: Kids Are Paying the Price](/images/youtube-addiction-copa-algorithm-scandals-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 YouTube treats children's data as a revenue stream, not a protected asset, and the $170 million COPPA settlement is merely a calculated business expense rather than a deterrent.
 
 * YouTube paid a record $170 million to settle COPPA violations, representing roughly 1.5% of the estimated $11 billion in annual ad revenue generated from U.S. children.

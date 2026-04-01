@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Kleiner Perkins' $3.5B AI Bet: Hallucinations Could Cost Them Everything.](/images/kleiner-perkins-ai-gamble-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 Kleiner Perkins just committed $3.5 billion to AI startups based on hallucination rates that could render their investments worthless within 18 months.
 
 * Kleiner Perkins raised $3.5 billion across two new AI funds, including $1 billion for early-stage ventures and $2.5 billion for growth-stage companies, marking a 75% increase from their previous $2 billion fundraise in less than two years.
@@ -71,4 +74,3 @@ A promising AI product with 3% hallucination rates has real enterprise value. An
 ### Related Articles
 - [YouTube TV’s Subscriber Tsunami: Is This The End Of Traditional Cable?](/en/youtube/youtube-tv-dish-sling-streaming-wars-en/)
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
-

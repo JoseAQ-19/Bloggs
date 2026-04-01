@@ -14,6 +14,8 @@ ai_disclosure: true
 ---
 ![Bodybuilding's Deadly Secret: Why Ronnie Coleman Wants Diuretics Banned NOW](/images/natural-bodybuilding-contest-prep-dangers-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
 
 > **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 

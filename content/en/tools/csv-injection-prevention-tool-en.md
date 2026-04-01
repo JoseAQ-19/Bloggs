@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Excel Apocalypse: This Tiny Tool Saves You From Remote Code Execution](/images/csv-injection-prevention-tool-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 The assumption that CSV injection is a minor threat is a dangerous fallacy.
 
 * CSV injection vulnerabilities are present in almost every application allowing user input and bulk CSV export, potentially leading to remote code execution.

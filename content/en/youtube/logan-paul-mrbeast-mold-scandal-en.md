@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Rosanna Pansino's Mold Discovery: The Lunchly Scandal MrBeast Doesn't Want You To See](/images/logan-paul-mrbeast-mold-scandal-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 The pursuit of viral fame through consumer products can quickly sour when quality control takes a backseat. Rosanna Pansino's discovery of mold in MrBeast's Lunchly pizza kit underscores potential risks in celebrity-endorsed food products.
 
 * Rosanna Pansino's discovery of mold in MrBeast's Lunchly pizza kit underscores potential risks in celebrity-endorsed food products.

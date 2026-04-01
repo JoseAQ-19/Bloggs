@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Perplexity's $200 Computer AI: 80% Of Companies To Use AI, But At What Cost?](/images/perplexity-ai-computer-overkill-future-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 Perplexity AI's $200 "computer" isn't just another search tool; it's a flashing red light for Google.
 
 * By the end of 2026, Gartner expects over 80% of companies to deploy AI-enabled applications, despite growing concerns about security and ethical implications.

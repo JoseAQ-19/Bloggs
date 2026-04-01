@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Rosanna Pansino's FBI Report: The Dark Secret Behind MrBeast's 913 Million Monthly Views](/images/mrbeast-youtube-views-controversy-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 MrBeast's empire, fueled by billions of views, faces increasing scrutiny regarding its ethical foundations.
 
 * Rosanna Pansino reported MrBeast to the FBI over alleged disturbing Telegram chat logs and other unethical practices, casting a shadow over his 913 million monthly views.

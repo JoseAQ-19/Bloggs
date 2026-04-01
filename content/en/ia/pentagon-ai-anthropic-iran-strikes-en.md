@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Anthropic's Red Lines CRUMBLE? Pentagon AI Used in Iran Strike.](/images/pentagon-ai-anthropic-iran-strikes-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 Anthropic's "red lines" are starting to look like speed bumps.
 
 * Despite Anthropic CEO Dario Amodei's "red lines," the Pentagon may have utilized AI in a strike related to Iran, raising concerns over ethical boundaries.

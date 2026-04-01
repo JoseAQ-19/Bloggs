@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![¡Escándalo Cheerleader! 66% de las Lesiones Femeninas Más Graves Están Aquí](/images/cheerleaders-baloncesto-viral.jpg)
 
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+
 La aparente alegría del cheerleading esconde una verdad incómoda: el riesgo de lesiones graves es alarmantemente alto.
 
 * El cheerleading representa el 66% de las lesiones femeninas más graves en el deporte, según un estudio del National Center for Sports Injury Research en EE.UU.

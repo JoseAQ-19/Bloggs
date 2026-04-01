@@ -16,6 +16,9 @@ ai_disclosure: true
 ---
 ![ChatGPT Destronó a Wikipedia: Ahora la IA Decide Tu Voto.](/images/ia-electoral-arma-secreta.jpg)
 
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+
 La enciclopedia libre ha muerto, asesinada no por la censura gubernamental ni por el vandalismo, sino por la pereza humana y la síntesis probabilística. Hemos canjeado el rigor de las referencias cruzadas por la comodidad de una respuesta instantánea, y el costo político de esta transacción está a punto de salir caro.
 
 * El 80% de los procesos electorales competitivos a nivel global en 2024 sufrieron interferencia maliciosa mediante inteligencia artificial, según el análisis de **El Grand Continent**.

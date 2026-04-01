@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![23-F: Cercas lo Clavó. El Rey Rajaba... La Bomba Declasificada.](/images/23-f-secretos-otan-eeuu.jpg)
 
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+
 La verdad sobre el 23-F sigue enterrada bajo toneladas de secretismo, incluso después de la reciente desclasificación de documentos. ¿Es esta liberación una ventana a la verdad o una simple cortina de humo?
 
 * Se han desclasificado 153 unidades documentales relacionadas con el intento de golpe de Estado del 23-F, que estaban previamente clasificadas bajo las leyes de la época franquista.

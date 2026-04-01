@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![iA Financial: $23 Million Insider Sale, Or Genius AI Play?](/images/ia-financial-director-algorithmic-trading-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 The $23.8 million share sale by iA Financial insiders isn't just a routine financial maneuver—it's a neon flashing sign that something beneath the surface may be rotten.
 
 * A iA Financial director sold C$23,864,656.70 worth of shares in the past 24 months, prompting questions about insider knowledge versus strategic financial maneuvering.

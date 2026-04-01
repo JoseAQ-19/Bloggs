@@ -12,6 +12,10 @@ translationKey: "6f68db0a-6246-b067-68ca-094b84af3d9e"
 author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
+
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+
 Terianos, una red clandestina, permite que más de 100.000 cubanos eludir las restricciones de internet impuestas por el gobierno operando a través de conexiones inalámbricas ilegales y el intercambio de contenido al margen de ETECSA. La existencia de esta red refleja el creciente deseo de los ciudadanos por acceder a información global sin censura, incluso bajo el riesgo de enfrentarse a sanciones legales o técnicas.
 
 ## La brecha digital en Cuba: un control estatal férreo frente a la resistencia ciudadana

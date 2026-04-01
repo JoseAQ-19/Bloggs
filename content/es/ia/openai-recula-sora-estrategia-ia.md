@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![OpenAI Admite el Fracaso de Sora: Gastaba 1,30$ Por Video y Esto Es el Motivo](/images/openai-recula-sora-estrategia-ia.jpg)
 
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+
 OpenAI acaba de cometer un acto de canibalismo financiero al admitir que su modelo generador de vídeo, Sora, era un agujero negro económico que quemaba 1,30 dólares por cada clip de 10 segundos.
 
 * OpenAI gastaba aproximadamente 1,30 dólares en costes de computación por cada vídeo de 10 segundos generado con Sora, una cifra que hacía inviable cualquier modelo de negocio escalable.
@@ -41,4 +44,3 @@ Además, la competencia no se duerme. Mientras OpenAI quemaba dinero, Anthropic 
 ### Artículos Relacionados
 - [YouTube Se Lleva el Oscar: La Revolución del Entretenimiento Digital Ya Está Aquí](/es/youtube/youtube-se-lleva-el-oscar-el-futuro-del-entretenimiento-digital/)
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
-

@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Indonesia Bans Kids From Social Media; YouTube Creators Could Lose Billions](/images/indonesia-youtube-coppa-ban-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 * Indonesia's March 2026 ban on social media for users under 16 will deactivate YouTube accounts on March 28, directly threatening a platform used monthly by 158.4 million Indonesians – the largest YouTube user base in Southeast Asia. 
 * Communications Minister Meutya Hafid's "digital emergency" justification clashes with data showing only half of Indonesian parents believe regulations will actually curb children's online access, creating a regulatory credibility gap. 
 * YouTube faces a potential revenue crisis in Indonesia, compounded by persistent 8-12% failure rates in YouTube Kids' content filtering, forcing an urgent reassessment of regional strategy and monetization models. 

@@ -16,6 +16,9 @@ ai_disclosure: true
 ---
 ![The $6M Verdict That Just Sent Shockwaves Through YouTube and Meta’s Empire](/images/the-6m-wake-up-call-how-a-jury-held-youtube-and-meta-accountable-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 Meta's stock plunged 8% following a $6 million verdict holding the company 70% responsible for platform designs deemed harmful to young users, with YouTube bearing 30% of the liability. This legal blow represents a dramatic shift in Big Tech's liability landscape.
 
 * A California jury awarded $6 million in compensatory and punitive damages against Meta (70%) and YouTube (30%) for their "defective" platform designs that foster addiction and harm among young users.
@@ -90,4 +93,3 @@ The $6M verdict against Meta and YouTube isn't just a legal milestone—it's a f
 ### Related Articles
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 - [YouTube's Creator Burnout Crisis: 62-90% Are Suffering And The Financial Toll Is Exponential](/en/youtube/youtube-the-new-media-monarch-heres-what-you-need-to-know-en/)
-

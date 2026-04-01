@@ -16,6 +16,9 @@ ai_disclosure: true
 ---
 ![Sora Just Sparked Ethical Outrage: The Dark Side of AI Video Generation](/images/sora-ai-deepfake-fears-ethical-debate-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 OpenAI’s Sora promised to democratize cinema, but instead exposed the fatal flaw in the generative AI economy: the cost of reality is too high for the revenue of fiction. The shutdown wasn't just a technical failure; it was a capitulation to the impossibility of moderating a tool designed to hallucinate.
 
 * OpenAI's Sora AI video generator was shut down due to high operating costs and ethical concerns, costing $15 million per day against only $2.1 million in revenue.

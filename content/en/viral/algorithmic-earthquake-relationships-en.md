@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Reddit Reveals: Social Media Turns 1 In 3 Relationships Into 'Jealous' Hellscapes](/images/algorithmic-earthquake-relationships-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 Social media promised connection, but it's delivering discord. One in three relationships now teeter on the brink thanks to the green-eyed monster unleashed by our digital lives.
 
 * One in three social media users report that their partner's online activity triggers feelings of jealousy or insecurity, leading to decreased relationship satisfaction.

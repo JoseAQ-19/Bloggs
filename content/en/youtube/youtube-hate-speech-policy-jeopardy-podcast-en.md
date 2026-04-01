@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Jeopardy! Host's YouTube Nightmare: $36 Billion Ad Revenue Masks a Free Speech Crisis](/images/youtube-hate-speech-policy-jeopardy-podcast-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 YouTube's $36.1 billion ad revenue in 2024 masks a growing free speech crisis for its creators.
 
 * YouTube generated $36.1 billion in ad revenue in 2024, yet faces scrutiny over content moderation policies and their impact on creators.
@@ -70,4 +73,3 @@ It's time for creators to take control and build their own platforms and revenue
 Consider moving your content to a platform that allows greater autonomy.
 
 The platform giveth, and the platform taketh away.
-

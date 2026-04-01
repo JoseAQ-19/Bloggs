@@ -14,6 +14,8 @@ ai_disclosure: true
 ---
 ![Morningstar Thailand 2026: Top 3 Funds Outperform by 15% in Returns](/images/morningstar-thailand-2026-top-3-funds-outperform-by-15-in-returns-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
 
 > **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
@@ -114,4 +116,3 @@ Thailand’s top mutual funds have delivered stellar returns in 2026, signaling 
 ---
 
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
-

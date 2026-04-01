@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![39% Of Novelists Fear AI Will Destroy Their Income: Ia Genberg Speaks Out](/images/unveiling-the-future-an-interview-with-ia-genberg-and-kira-josefsson-on-small-comfort-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 The literary world is in full panic mode as 39% of novelists report income already damaged by generative AI, creating a crisis that traditional publishing completely failed to anticipate.
 
 * OpenAI faces over 70 copyright infringement lawsuits as authors fight back against AI training on their copyrighted works, with the Bartz v. Anthropic case setting a $1.5B precedent.
@@ -110,4 +113,3 @@ The only path forward requires both technological guardrails and new economic mo
 ### Related Articles
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
-

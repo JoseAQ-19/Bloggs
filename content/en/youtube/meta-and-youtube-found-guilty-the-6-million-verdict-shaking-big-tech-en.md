@@ -16,6 +16,9 @@ ai_disclosure: true
 ---
 ![$6 Million Verdict Shatters Meta and YouTube’s Facade of User Safety](/images/meta-and-youtube-found-guilty-the-6-million-verdict-shaking-big-tech-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 A $6 million legal judgment against Meta and YouTube exposes the fragility of a business model built on psychological manipulation rather than utility.
 
 * A Los Angeles jury found Meta and YouTube negligent for failing to warn users about platform dangers, awarding $6 million in damages to a young woman, K.G.M., who claimed addiction to Instagram and YouTube caused severe mental health harm. (Source: Deadline)
@@ -59,4 +62,3 @@ The cost of this addiction is not just mental; it is economic. Users are being m
 ### Related Articles
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
-

@@ -16,6 +16,10 @@ translationKey: "440a9a84-7e54-8ce8-3301-fbfe60ba9b72"
 author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
+
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+
 El espejismo chileno: ¿Por qué aplaudimos la decadencia?
 
 En 2019, Chile no "reventó". Fue una implosión largamente anunciada, la explosión controlada de un sistema construido sobre arena movediza. La pregunta no es por qué sucedió, sino por qué seguimos comprando la ficción de "modelos exitosos" basados en estadísticas maquilladas y una profunda desconexión con la realidad de la gente. ¿De verdad nos sorprendió que la desigualdad económica, disfrazada de "crecimiento", terminara por socavar cualquier vestigio de cohesión social?

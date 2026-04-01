@@ -12,6 +12,10 @@ translationKey: "eb1ff752-3cad-9251-4707-7922f380fd88"
 author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
+
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+
 ## YouTube te destroza: el algoritmo adictivo que engancha como la cocaína
 
 YouTube no solo consume nuestro tiempo, sino también nuestra salud mental. Su algoritmo, diseñado para maximizar la retención de usuarios, activa los mismos circuitos de recompensa cerebral que sustancias altamente adictivas como la cocaína. Este enfoque, centrado exclusivamente en mantenernos conectados, está vinculado a un preocupante aumento de los problemas de salud mental, especialmente entre los jóvenes españoles. En este modelo de negocio donde el tiempo es dinero, el bienestar del usuario queda relegado al último lugar.

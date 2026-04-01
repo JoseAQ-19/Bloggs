@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Telecoms Españolas Al Borde Del Colapso: La IA Promete Salvación… O Ruina Total](/images/ia-teleco-espana-crecimiento.jpg)
 
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+
 La promesa de la IA de oro para las telecos españolas podría ser solo pirita.
 
 * El sector de telecomunicaciones español cerró 2024 con ingresos ligeramente decrecientes (€34.573 mil millones, -0.06%), aunque la inversión en IA aumentará entre un 16% y 30% en 2025.

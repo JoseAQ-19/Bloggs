@@ -14,6 +14,10 @@ type: ia
 author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
+
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+
 ## El Gran Hermano en el Salón de Estar: La Vigilancia Doméstica que Ya Estás Financiando
 
 Los televisores inteligentes (Smart TVs) activamente recopilan y transmiten datos sobre hábitos de visualización mediante Reconocimiento Automático de Contenido (ACR), una tecnología que actúa como un "Shazam visual" para identificar y registrar contenido audiovisual, enviando esta telemetría a servidores externos para la creación de perfiles de usuario granular. Un estudio conjunto de la Universidad Carlos III de Madrid (UC3M), el University College de Londres y la Universidad de California en Davis ha documentado la extensión de esta práctica. Esta funcionalidad de ACR no solo detecta programas de televisión, sino también cualquier contenido reproducido a través de dispositivos conectados, como consolas de videojuegos o PCs, permitiendo la elaboración de perfiles de usuario extremadamente precisos, según Patricia Callejo, profesora de la UC3M. La investigación revela que la mayoría de los Smart TVs tienen esta función activada por defecto, exponiendo a los usuarios al rastreo sin su conocimiento explícito ni una información clara sobre cómo modificar estos ajustes.
@@ -52,4 +56,3 @@ La proliferación de dispositivos inteligentes ha normalizado una vigilancia dom
 Para una comprensión más profunda de la ética de la IA y la gestión de datos en la era digital, se recomienda consultar los análisis de plataformas líderes en investigación y desarrollo de inteligencia artificial:
 * [Análisis en OpenAI/news](https://openai.com/news)
 * [Análisis en Google/discover](https://deepmind.google/discover)
-

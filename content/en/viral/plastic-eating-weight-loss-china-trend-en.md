@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![$140 Billion Weight Loss Lie: Is 'Plastic Eating' Next?](/images/plastic-eating-weight-loss-china-trend-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 $140 Billion Weight Loss Lie: Is 'Plastic Eating' Next?
 The weight loss industry is selling dreams, not solutions.
 

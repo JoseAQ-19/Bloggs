@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![AI Utopia? 6% Of Companies Actually Use AI, Experts Predict Imminent Crash](/images/ai-winter-unmasking-hype-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 Only 6% of large companies globally have actually deployed enterprise AI tools, suggesting the AI revolution may be more mirage than reality.
 
 * Gartner projects worldwide AI spending will reach $3.3 trillion by 2029, representing a compound annual growth rate (CAGR) of about 22%, though such projections may be wildly optimistic.

@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Neal Mohan's Nightmare: AI Lookalikes Threaten YouTube's $32B Payouts](/images/youtube-gemini-creator-collabs-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 YouTube's $32 billion in annual creator payouts are under existential threat from unregulated AI lookalikes that devalue original content and erode platform trust.
 
 * YouTube generated $36.15 billion in ad revenue for 2025 **YouTube**.
@@ -67,5 +70,4 @@ Concurrent viewer data reveals the real threat: AI content burns through viewer 
 YouTube's $36B ad revenue depends on viewer trust that they're seeing authentic content. When that trust evaporates, advertisers will demand lower CPMs or move to platforms with human-only content. The platform's TV strategy – [YouTube TV's Subscriber Tsunami: Is This The End Of Traditional Cable?](/en/youtube/youtube-tv-dish-sling-streaming-wars-en/) – relies on premium content; AI imitation destroys that premium value. 
 
 ## The Verdict Is In
-**YouTube needs to protect original creators, not subsidize their replacements.** Creators should watermark content and pursue legal action against unauthorized AI replicas – the $5B likeness rights industry is their recourse. The future of YouTube hinges on rewarding human creativity, not rewarding robots. 
-
+**YouTube needs to protect original creators, not subsidize their replacements.** Creators should watermark content and pursue legal action against unauthorized AI replicas – the $5B likeness rights industry is their recourse. The future of YouTube hinges on rewarding human creativity, not rewarding robots.

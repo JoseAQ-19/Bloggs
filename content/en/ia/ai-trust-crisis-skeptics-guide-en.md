@@ -16,6 +16,9 @@ ai_disclosure: true
 ---
 ![65% Of Americans Distrust Robots: The Alarming AI Trust Crisis Exposed](/images/ai-trust-crisis-skeptics-guide-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 OpenAI's $100B valuation rests on a foundation of public trust that's crumbling faster than their servers during peak usage.
 
 * 65% of Americans express distrust towards robots and AI systems, highlighting a significant public concern regarding technology reliability and safety.

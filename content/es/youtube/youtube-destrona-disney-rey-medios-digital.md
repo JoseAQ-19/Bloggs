@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/images/youtube-destrona-disney-rey-medios-digital.jpg)
 
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+
 El imperio de la televisión tradicional infantil se desmorona, arrastrado por la omnipresencia de YouTube en los hogares españoles. Un 64% de los niños de entre 2 y 5 años ya están enganchados a la plataforma, lo que pone en jaque el futuro del entretenimiento infantil.
 
 * El 64% de los niños españoles de entre 2 y 5 años utilizan YouTube, lo que la convierte en la plataforma dominante para las audiencias jóvenes.

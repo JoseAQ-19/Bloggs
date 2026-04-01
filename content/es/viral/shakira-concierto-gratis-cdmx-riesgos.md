@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Shakira gratis en cdmx: ¿10 muertos más como advertencia para el gobierno?](/images/shakira-concierto-gratis-cdmx-riesgos.jpg)
 
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+
 En México, eventos masivos recientes han generado preocupaciones sobre seguridad. Un posible concierto gratuito de Shakira en la Ciudad de México plantea serias preguntas sobre seguridad y responsabilidad civil.
 
 * Al menos 10 muertes se han vinculado a eventos masivos en México desde 2022 debido a negligencia, sobrecupo o fallas estructurales.

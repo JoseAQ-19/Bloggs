@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Temu's $2M FTC Fine: Your Cheap Steak Might Be More Expensive Than You Think](/images/temu-steak-controversy-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 Temu's $2M Fine: Is That "Steak" Worth the Risk?
 
 * Temu's $2 million FTC fine for INFORM Consumers Act violations highlights broader concerns about product safety and sourcing transparency on the platform, raising questions about the true cost of "cheap" goods.

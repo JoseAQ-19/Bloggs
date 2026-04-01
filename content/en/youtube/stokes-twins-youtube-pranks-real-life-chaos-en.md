@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Stokes Twins' Pranks Could Land Them Back In Court: Todd Spitzer Warns](/images/stokes-twins-youtube-pranks-real-life-chaos-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 The "prank" industrial complex is a ticking time bomb for creators, and the Stokes Twins are a prime example of why.
 
 * Fake Pranks TV, with 2,709,464 subscribers, could generate between $995K - $2.84M, highlighting the lucrative but potentially dangerous world of prank content.

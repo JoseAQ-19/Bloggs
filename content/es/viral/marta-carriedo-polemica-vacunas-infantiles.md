@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Carriedo Desata la Ira Médica: ¿Peligran el 93% de Niños Vacunados?](/images/marta-carriedo-polemica-vacunas-infantiles.jpg)
 
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+
 En un mundo donde la información fluye sin control, las opiniones de *influencers* sobre temas de salud pueden tener consecuencias devastadoras. La controversia generada por la *influencer* Marta Carriedo al cuestionar la seguridad de las vacunas es un claro ejemplo de cómo la libertad de expresión puede chocar con la salud pública.
 
 * Marta Carriedo generó controversia al compartir un video que cuestionaba la seguridad de las vacunas, reavivando debates sobre la libertad de elección de los padres y afectando potencialmente las tasas de vacunación infantil, que ya muestran un ligero descenso.

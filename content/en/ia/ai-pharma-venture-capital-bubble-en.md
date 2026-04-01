@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![AI Pharma's Dirty Secret: 90% Trial Failure Rate Still Haunts $25B Boom](/images/ai-pharma-venture-capital-bubble-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 Despite AI biotechs raising $3.8 billion in VC deals in 2025, AI-discovered drugs continue failing in Phase II trials at the same ~60% rate as traditional drugs, revealing a critical gap between computational hype and clinical reality.
 
 * Despite a projected $25 billion investment by 2030, AI-discovered drugs continue to fail in Phase II trials at the same ~60% rate as traditionally developed drugs, revealing a critical gap in AI's impact on clinical success.
@@ -79,4 +82,3 @@ As the industry matures, we'll likely see the AI narrative separate into two dis
 ### Related Articles
 - [YouTube TV In 2026: Comcast's Worst Nightmare Or $73 Mistake?](/en/youtube/youtube-tv-2026-worth-it-en/)
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
-

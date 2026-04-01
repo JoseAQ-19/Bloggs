@@ -16,6 +16,9 @@ ai_disclosure: true
 ---
 ![TikTok's Fear Food Challenge Doubled Teen ER Visits for Eating Disorders Since 2020](/images/tiktoks-dangerous-eating-challenge-sparks-outrage-in-china-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 The quiet collapse of teenage body image is being engineered by TikTok's algorithm. ER visits for eating disorders among teenage girls doubled between 2020 and 2022, according to the CDC. 
 * [23.8% of 626 respondents in a mental health survey reported having or having had an eating disorder](https://pubmed.ncbi.nlm.nih.gov/39504757) 
 * **TikTok's algorithm exposes users to harmful eating disorder content within 2.6 minutes, as reported by the Center for Countering Digital Hate** 
@@ -105,4 +108,3 @@ The National Eating Disorders Association (NEDA) provides a confidential helplin
 ### Related Articles
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
-

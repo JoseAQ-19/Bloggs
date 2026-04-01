@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Carnival's Deadly Game: Balcony Sleeping Meets Runaway Autopilot, 56 Fatalities Already](/images/cruise-control-carnival-balcony-sleeping-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 The allure of the open sea masks a troubling reality: onboard dangers are escalating faster than cruise lines can contain them. Carnival is not just a party; it's becoming a gamble.
 
 * Carnival Cruise Line accounts for 59% (44 out of 74) of reported physical assaults on cruise ships since 2022, signaling a potential systemic security issue.

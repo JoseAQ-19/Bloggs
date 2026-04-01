@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![KSI's Littler Ban Sparks Outrage: Sidemen Sunday Views Face 24% Viewbot Crackdown Risk](/images/ksi-littler-sidemen-charity-event-controversy-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 The next influencer scandal isn't a matter of "if," but "when," as platforms grapple with how to enforce ethical lines in an increasingly blurry digital landscape.
 
 * Kim Kardashian was fined $1.26 million by the SEC for failing to disclose payment for promoting EthereumMax tokens.

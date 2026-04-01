@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![¡Alerta Roja! 20 Gramos de Paracetamol: La Nueva Tendencia Mortal en TikTok](/images/reto-paracetamol-tiktok-peligro-viral.jpg)
 
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+
 Es una ironía macabra que la búsqueda de validación en redes sociales pueda llevar a adolescentes a jugarse la vida con un analgésico de venta libre. El "Paracetamol Challenge" es el último grito en TikTok, un peligroso juego donde los participantes compiten por ver quién logra permanecer más tiempo hospitalizado tras ingerir dosis masivas de paracetamol.
 
 * El "Paracetamol Challenge" en TikTok anima a adolescentes a ingerir dosis peligrosamente altas de paracetamol, con el objetivo de permanecer el mayor tiempo posible en el hospital.

@@ -16,6 +16,9 @@ ai_disclosure: true
 ---
 ![ASU Tight Ends Are Set to Dominate in 2026 and Shake Up NIL Deals](/images/rising-stars-asus-tight-ends-set-to-make-waves-in-2026-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 ---
 title: "ASU Tight End Recruiting in 2026 Will Reshape NIL Economics and Compliance Risks"
 slug: "asu-tight-end-2026-nil-economic-compliance-impact"

@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![Google Maps Se Desmorona: ¿Es Apple Maps la Salvación Tras la Última Actualización?](/images/analisis-tecnico-actualizacion-google-maps.jpg)
 
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+
 Google está apostando por la integración de Gemini AI en Google Maps, lo que podría tener consecuencias negativas en la experiencia del usuario. Usuarios frustrados reportan una degradación en la fiabilidad de la navegación básica, coincidiendo con esta apuesta por la IA.
 
 * La funcionalidad "Ask Maps" de Google procesa información de 300 millones de sitios y reseñas de 500 millones de usuarios para generar respuestas.

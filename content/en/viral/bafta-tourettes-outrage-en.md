@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![BBC Edited Palestine But Aired The N-Word: What's REALLY Going On?](/images/bafta-tourettes-outrage-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 Cancel culture has exposed media hypocrisy. The BBC's selective editing sparks debate on bias, free speech, and responsibility.
 
 * The BBC faced criticism for airing the N-word shouted by John Davidson, a Tourette's syndrome campaigner, while editing out a "Free Palestine" call, raising questions about bias.

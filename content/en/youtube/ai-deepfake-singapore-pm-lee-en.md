@@ -14,6 +14,9 @@ ai_disclosure: true
 ---
 ![YouTube's AI Nightmare: Deepfakes Smear Singapore PM, 70% Believe It's Real.](/images/ai-deepfake-singapore-pm-lee-en.jpg)
 
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+
 Deepfake videos of Singapore's Prime Minister Lee Hsien Loong peddling crypto scams illustrate the accelerating crisis of synthetic media's impact on geopolitics and public trust.
 
 * Singapore may fine social media services up to $1 million for failing to remove deepfake content, but can financial penalties keep pace with rapidly evolving AI tech.
