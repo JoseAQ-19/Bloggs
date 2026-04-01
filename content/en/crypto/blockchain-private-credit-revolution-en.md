@@ -1,4 +1,5 @@
 ---
+
 title: "Ex-Blackstone Team's $25M Bid Could Disrupt $3.2 Trillion Private Credit Market"
 date: 2026-03-30T18:00:02
 draft: false
@@ -162,28 +163,7 @@ The bid from the ex-Blackstone team represents a pivotal moment for the private 
 - [YouTube's Creator Burnout Crisis: 62-90% Are Suffering And The Financial Toll Is Exponential](/en/youtube/youtube-the-new-media-monarch-heres-what-you-need-to-know-en/)
 
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "NewsArticle",
-"headline": "Ex-Blackstone Team's $25M Bid Could Disrupt $3.2 Trillion Private Credit Market",
-"description": "Discover how the ex-Blackstone team's $25M bid could shake up the $3.2 trillion private credit market and redefine investment strategies.",
-"image": "https://novumworld.com/images/blockchain-private-credit-revolution-en.jpg",
-"datePublished": "2026-03-30T18:00:02",
-"author": {
-"@type": "Organization",
-"name": "NovumWorld Editorial Team"
-},
-"publisher": {
-"@type": "Organization",
-"name": "NovumWorld",
-"logo": {
-"@type": "ImageObject",
-"url": "https://novumworld.com/images/logo.png"
-}
-}
-}
-</script>
+
 ---
 
 > [!IMPORTANT]

@@ -1,4 +1,5 @@
 ---
+
 title: "ASU Tight Ends Are Set to Dominate in 2026 and Shake Up NIL Deals"
 date: 2026-04-01T11:42:53
 draft: false
@@ -123,27 +124,3 @@ ASU’s 2026 tight end recruiting is not just about talent acquisition—it’s 
 ### Related Articles
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "ASU Tight Ends Are Set to Dominate in 2026 and Shake Up NIL Deals",
-  "description": "Discover how ASU's tight ends are poised to dominate in 2026 and revolutionize NIL deals, reshaping the future of college football.",
-  "image": "https://novumworld.com/images/rising-stars-asus-tight-ends-set-to-make-waves-in-2026-en.jpg",
-  "datePublished": "2026-04-01T11:42:53",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

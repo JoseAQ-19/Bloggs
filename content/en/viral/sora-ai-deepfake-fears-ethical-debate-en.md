@@ -1,4 +1,5 @@
 ---
+
 title: "Sora Just Sparked Ethical Outrage: The Dark Side of AI Video Generation"
 date: 2026-03-30T23:45:39
 draft: false
@@ -109,27 +110,3 @@ OpenAI is pivoting hard towards enterprise AI and robotics. They are consolidati
 ### Related Articles
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
-
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "NewsArticle",
-"headline": "Sora Just Sparked Ethical Outrage: The Dark Side of AI Video Generation",
-"description": "Explore the ethical dilemmas ignited by Sora's AI video generation. Uncover the dark side of technology and its impact on creativity and authenticity.",
-"image": "https://novumworld.com/images/sora-ai-deepfake-fears-ethical-debate-en.jpg",
-"datePublished": "2026-03-30T23:45:39",
-"author": {
-"@type": "Organization",
-"name": "NovumWorld Editorial Team"
-},
-"publisher": {
-"@type": "Organization",
-"name": "NovumWorld",
-"logo": {
-"@type": "ImageObject",
-"url": "https://novumworld.com/images/logo.png"
-}
-}
-}
-</script>

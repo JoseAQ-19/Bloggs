@@ -1,4 +1,5 @@
 ---
+
 title: "YouTube's Shocking $170 Million COPPA Violation Exposed: Kids Are Paying the Price"
 date: 2026-03-30T19:42:29
 draft: false
@@ -103,27 +104,3 @@ The platform's strategy of prioritizing engagement over safety has turned a gene
 ### Related Articles
 - [YouTube's Creator Burnout Crisis: 62-90% Are Suffering And The Financial Toll Is Exponential](/en/youtube/youtube-the-new-media-monarch-heres-what-you-need-to-know-en/)
 - [320,000 YouTube Users Screamed: What Google Is Hiding About The Outage.](/en/youtube/youtube-outage-2026-en/)
-
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "NewsArticle",
-"headline": "YouTube's Shocking $170 Million COPPA Violation Exposed: Kids Are Paying the Price",
-"description": "Discover the details behind YouTube's shocking $170 million COPPA violation and how it impacts children. Learn what this means for young viewers today.",
-"image": "https://novumworld.com/images/youtube-addiction-copa-algorithm-scandals-en.jpg",
-"datePublished": "2026-03-30T19:42:29",
-"author": {
-"@type": "Organization",
-"name": "NovumWorld Editorial Team"
-},
-"publisher": {
-"@type": "Organization",
-"name": "NovumWorld",
-"logo": {
-"@type": "ImageObject",
-"url": "https://novumworld.com/images/logo.png"
-}
-}
-}
-</script>

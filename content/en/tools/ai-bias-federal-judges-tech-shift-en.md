@@ -1,4 +1,5 @@
 ---
+
 title: "60% of Federal Judges Use AI Tools, But Bias Still Thrives in Courtrooms"
 date: 2026-03-31T15:06:49
 draft: false
@@ -98,27 +99,3 @@ The algorithm is not a neutral arbiter; it is a mirror reflecting our ugliest hi
 ### Related Articles
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
-
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "NewsArticle",
-"headline": "60% of Federal Judges Use AI Tools, But Bias Still Thrives in Courtrooms",
-"description": "Discover how 60% of federal judges are leveraging AI tools, yet bias persists in courtrooms. Explore the implications for justice and fairness.",
-"image": "https://novumworld.com/images/ai-bias-federal-judges-tech-shift-en.jpg",
-"datePublished": "2026-03-31T15:06:49",
-"author": {
-"@type": "Organization",
-"name": "NovumWorld Editorial Team"
-},
-"publisher": {
-"@type": "Organization",
-"name": "NovumWorld",
-"logo": {
-"@type": "ImageObject",
-"url": "https://novumworld.com/images/logo.png"
-}
-}
-}
-</script>

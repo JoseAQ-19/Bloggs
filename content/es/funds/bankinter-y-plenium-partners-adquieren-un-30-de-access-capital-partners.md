@@ -1,4 +1,5 @@
 ---
+
 title: "Bankinter y Plenium Partners adquieren un 30% de Access Capital Partners"
 date: 2026-03-31T07:10:21
 draft: false
@@ -69,48 +70,9 @@ La adquisición podría significar un crecimiento y una expansión de las capaci
 
 Expertos en gestión de activos han expresado perspectivas positivas, señalando que la consolidación en el sector puede llevar a una mejora en la eficiencia y en la rentabilidad de los fondos.
 
-<script type="application/ld+json">{
-"@context": "https://schema.org",
-"@type": "NewsArticle",
-"headline": "Bankinter y Plenium Partners adquieren un 30% de Access Capital Partners",
-"datePublished": "2023-10-01",
-"author": {
-"@type": "Person",
-"name": "Analista Financiero"
-},
-"mainEntityOfPage": "https://www.morningstar.es/es/news/274865/perspectivas-de-la-bolsa-usa-para-el-segundo-trimestre-no-entre-en-pánico-reajuste-su-estrategia.aspx"
-}
-</script>
 
-<script type="application/ld+json">{
-"@context": "https://schema.org",
-"@type": "FAQPage",
-"mainEntity": [{
-"@type": "Question",
-"name": "¿Cómo afecta esta adquisición a los inversores actuales?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "La adquisición puede resultar en una mejora en la oferta de productos y un potencial aumento en la rentabilidad de los activos bajo gestión."
-}
-},
-{
-"@type": "Question",
-"name": "¿Es un buen momento para invertir en estos fondos?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "Dependerá de su perfil de riesgo y de la evaluación de la estrategia de inversión de cada fondo."
-}
-},
-{
-"@type": "Question",
-"name": "¿Qué riesgos deben tener en cuenta los inversores?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "La incertidumbre macroeconómica y la competencia creciente en la gestión de activos son factores a considerar."
-}
-}
-]
-}</script>
+
+
 
 ---
 

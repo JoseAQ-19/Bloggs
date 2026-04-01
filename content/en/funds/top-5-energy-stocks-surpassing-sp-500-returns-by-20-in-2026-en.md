@@ -1,4 +1,5 @@
 ---
+
 title: "Top 5 Energy Stocks Surpassing S&P 500 Returns by 20% in 2026"
 date: 2026-04-01T08:49:13
 draft: false
@@ -86,18 +87,7 @@ Consider diversification, the company’s financial health, and the potential im
 ### Where can I find more information on energy investments?
 Resources such as [Morningstar](https://www.morningstar.com) and [Bloomberg](https://www.bloomberg.com) offer comprehensive analyses and insights on energy investments.
 
-<script type="application/ld+json">{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Top 5 Energy Stocks Surpassing S&P 500 Returns by 20% in 2026",
-  "datePublished": "2026-04-01",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  },
-  "articleBody": "In 2026, energy stocks have outperformed the S&P 500 by a staggering 20%, highlighting the sector's remarkable resilience amid global market fluctuations. The energy sector has emerged as a key player in the financial landscape... [Continued]"
-}
-</script>
+
 
 ---
 

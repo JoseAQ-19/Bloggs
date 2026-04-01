@@ -1,4 +1,5 @@
 ---
+
 title: "La Controversia Oculta: 40% de la Población Española en Peligro por Erosión Costera"
 date: 2026-03-31T13:46:57
 draft: false
@@ -92,27 +93,3 @@ El riesgo aumenta progresivamente. La infraestructura actual no está preparada 
 ### Artículos Relacionados
 - [YouTube Revela Su Impactante Resumen Personalizado de 2025 y Crea Expectativa Global](/es/youtube/youtube-unveils-personalized-year-end-recap-feature-top-overall-trends-and-creators-of-2025/)
 - [La Alianza YouTube-FIFA: 5 Mil Millones de Espectadores En El Mundial 2026](/es/youtube/youtube-y-fifa-un-acuerdo-que-cambiara-la-forma-de-ver-el-mundial-2026/)
-
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "NewsArticle",
-"headline": "La Controversia Oculta: 40% de la Población Española en Peligro por Erosión Costera",
-"description": "Descubre cómo el 40% de la población española enfrenta el riesgo de la erosión costera y las medidas necesarias para proteger nuestras costas.",
-"image": "https://novumworld.com/images/ih-set-analisis-tecnico-modelado-litoral.jpg",
-"datePublished": "2026-03-31T13:46:57",
-"author": {
-"@type": "Organization",
-"name": "NovumWorld Editorial Team"
-},
-"publisher": {
-"@type": "Organization",
-"name": "NovumWorld",
-"logo": {
-"@type": "ImageObject",
-"url": "https://novumworld.com/images/logo.png"
-}
-}
-}
-</script>

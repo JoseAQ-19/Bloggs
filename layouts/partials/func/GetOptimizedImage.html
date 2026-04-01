@@ -29,7 +29,8 @@ GetOptimizedImage — WPO Partial (Fenix V3)
     width="{{ $img600.Width }}" height="{{ $img600.Height }}" 
     alt="{{ $alt }}" class="{{ $class }}"
     style="{{ $style | safeCSS }}"
-    loading="{{ $loading }}" decoding="{{ $decoding }}">
+    loading="{{ $loading }}" decoding="{{ $decoding }}"
+    {{ if eq $loading "eager" }}fetchpriority="high"{{ end }}>
 {{- $processed = true -}}
 {{- end -}}
 {{- end -}}
@@ -44,7 +45,8 @@ GetOptimizedImage — WPO Partial (Fenix V3)
     width="{{ $img600.Width }}" height="{{ $img600.Height }}" 
     alt="{{ $alt }}" class="{{ $class }}"
     style="{{ $style | safeCSS }}"
-    loading="{{ $loading }}" decoding="{{ $decoding }}">
+    loading="{{ $loading }}" decoding="{{ $decoding }}"
+    {{ if eq $loading "eager" }}fetchpriority="high"{{ end }}>
 {{- $processed = true -}}
 {{- end -}}
 {{- end -}}
@@ -60,7 +62,8 @@ GetOptimizedImage — WPO Partial (Fenix V3)
     width="{{ $img600.Width }}" height="{{ $img600.Height }}"
     alt="{{ $alt }}" class="{{ $class }}"
     style="{{ $style | safeCSS }}"
-    loading="{{ $loading }}" decoding="{{ $decoding }}">
+    loading="{{ $loading }}" decoding="{{ $decoding }}"
+    {{ if eq $loading "eager" }}fetchpriority="high"{{ end }}>
 {{- $processed = true -}}
 {{- end -}}
 {{- end -}}
@@ -71,7 +74,8 @@ GetOptimizedImage — WPO Partial (Fenix V3)
 {{- if not $processed -}}
 <img src="{{ $featured_image }}" alt="{{ $alt }}" class="{{ $class }}" 
     style="{{ $style | safeCSS }}"
-    loading="{{ $loading }}" decoding="{{ $decoding }}">
+    loading="{{ $loading }}" decoding="{{ $decoding }}"
+    {{ if eq $loading "eager" }}fetchpriority="high"{{ end }}>
 {{- end -}}
 
 {{- end -}}

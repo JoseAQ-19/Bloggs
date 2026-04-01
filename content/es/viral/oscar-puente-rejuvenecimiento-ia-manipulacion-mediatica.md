@@ -1,4 +1,5 @@
 ---
+
 title: "La Manipulación Mediática De Óscar Puente: 929 Millones En Estafas De IA"
 date: 2026-03-30T22:10:54
 draft: false
@@ -99,27 +100,3 @@ La manipulación mediática a través de deepfakes ya no es una amenaza futurist
 ### Artículos Relacionados
 - [La Alianza YouTube-FIFA: 5 Mil Millones de Espectadores En El Mundial 2026](/es/youtube/youtube-y-fifa-un-acuerdo-que-cambiara-la-forma-de-ver-el-mundial-2026/)
 - [YouTube Revive La Nostalgia: 7 Programas Icónicos De Los 2000s Que Regresan Con Fuerza](/es/youtube/youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto/)
-
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "NewsArticle",
-"headline": "La Manipulación Mediática De Óscar Puente: 929 Millones En Estafas De IA",
-"description": "Descubre cómo Óscar Puente ha estado involucrado en estafas de IA que suman 929 millones, revelando la manipulación mediática detrás de estos engaños.",
-"image": "https://novumworld.com/images/oscar-puente-rejuvenecimiento-ia-manipulacion-mediatica.jpg",
-"datePublished": "2026-03-30T22:10:54",
-"author": {
-"@type": "Organization",
-"name": "NovumWorld Editorial Team"
-},
-"publisher": {
-"@type": "Organization",
-"name": "NovumWorld",
-"logo": {
-"@type": "ImageObject",
-"url": "https://novumworld.com/images/logo.png"
-}
-}
-}
-</script>

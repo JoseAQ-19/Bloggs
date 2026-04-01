@@ -1,4 +1,5 @@
 ---
+
 title: "The Dark Side Of Fitness: 46 Deaths Uncovered Among Bodybuilders Nobody Talks About"
 date: 2026-03-31T06:01:33
 draft: false
@@ -105,27 +106,3 @@ The bodybuilding community must prioritize health over aesthetics, as the curren
 ### Related Articles
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
-
-
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "NewsArticle",
-"headline": "The Dark Side Of Fitness: 46 Deaths Uncovered Among Bodybuilders Nobody Talks About",
-"description": "Explore the hidden dangers of bodybuilding in our revealing article on 46 untold deaths, shedding light on the risks often overlooked in the fitness world.",
-"image": "https://novumworld.com/images/fitness-influencer-deaths-steroids-cardiac-arrest-en.jpg",
-"datePublished": "2026-03-31T06:01:33",
-"author": {
-"@type": "Organization",
-"name": "NovumWorld Editorial Team"
-},
-"publisher": {
-"@type": "Organization",
-"name": "NovumWorld",
-"logo": {
-"@type": "ImageObject",
-"url": "https://novumworld.com/images/logo.png"
-}
-}
-}
-</script>

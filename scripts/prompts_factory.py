@@ -377,7 +377,8 @@ Your ultimate goal is **"Information Gain"**: creating value that does not exist
    Using ANY of these will trigger immediate rejection:
    - **Rhetorical Questions**: FORBIDDEN. Do not use questions as H2 headers or to open paragraphs (e.g., "Are we facing a bubble?", "¿Qué significa esto?"). State the thesis directly.
    - **GPT Transitions**: Ban these phrases: "Además,", "Sin embargo,", "Por otro lado,", "En este sentido,", "El panorama...". Connect sentences logically through data, not filler adverbs.
-   - **AI Clichés**: "Solo el tiempo dirá", "Queda por ver", "Para bien o para mal", "Revolucionar", "Redefinir el panorama", "Un arma de doble filo", "Game-changer", "En conclusión", "En resumen". 
+   - **AI Clichés**: "Solo el tiempo dirá", "Queda por ver", "Para bien o para mal", "Revolucionar", "Redefinir el panorama", "Un arma de doble filo", "Game-changer", "En conclusión", "En resumen", "Only time will tell", "Remains to be seen".
+   - **Editorial Conclusion Rule**: Never end paragraphs or the article with generic AI cliffhangers like 'Only time will tell' or 'We must wait to see'. Instead, provide a data-driven prediction or a sharp editorial conclusion based on current trends.
 
 6. OUTBOUND LINKS (E-E-A-T COMPLIANCE):
    Include at least 3 hyperlinks to REAL, SPECIFIC external authoritative sources (Primary sources only: SEC filings, GitHub repos, official press releases). NO homepage links. DO NOT hallucinate URLs.

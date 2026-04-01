@@ -1,4 +1,5 @@
 ---
+
 title: "SEC's Shocking Crypto Policy Shift: $300 Billion Stablecoin Market Set to Explode"
 date: 2026-03-30T16:54:31
 draft: false
@@ -114,28 +115,7 @@ The SEC's policy shift is a capitulation to the inevitable dominance of digital 
 - [YouTube TV In 2026: Comcast's Worst Nightmare Or $73 Mistake?](/en/youtube/youtube-tv-2026-worth-it-en/)
 
 
-<script type="application/ld+json">
-{
-"@context": "https://schema.org",
-"@type": "NewsArticle",
-"headline": "SEC's Shocking Crypto Policy Shift: $300 Billion Stablecoin Market Set to Explode",
-"description": "Discover the SEC's surprising crypto policy shift and how it could ignite a $300 billion stablecoin market boom. Don't miss the insights!.",
-"image": "https://novumworld.com/images/sec-crypto-policy-shift-en.jpg",
-"datePublished": "2026-03-30T16:54:31",
-"author": {
-"@type": "Organization",
-"name": "NovumWorld Editorial Team"
-},
-"publisher": {
-"@type": "Organization",
-"name": "NovumWorld",
-"logo": {
-"@type": "ImageObject",
-"url": "https://novumworld.com/images/logo.png"
-}
-}
-}
-</script>
+
 ---
 
 > [!IMPORTANT]

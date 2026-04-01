@@ -1,4 +1,5 @@
 ---
+
 title: "SpaceX podría alcanzar un valor de 100 mil millones de dólares en su salida a bolsa"
 date: 2026-04-01T07:10:30
 draft: false
@@ -77,60 +78,9 @@ SpaceX se encuentra en una posición única, pero enfrenta competencia significa
 
 Es crucial observar el rendimiento histórico, la volatilidad, el ratio de Sharpe y el total expense ratio (TER) al evaluar fondos relacionados con SpaceX.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "SpaceX podría alcanzar un valor de 100 mil millones de dólares en su salida a bolsa",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Analista Financiero"
-  },
-  "mainEntityOfPage": "https://www.novumworld.com",
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.novumworld.com/logo.png"
-    }
-  }
-}
-</script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿Vale la pena invertir en la salida a bolsa de SpaceX?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "La decisión de invertir debería basarse en un análisis cuidadoso de los riesgos y oportunidades."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Cuáles son los principales riesgos asociados con SpaceX?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Los riesgos incluyen la dependencia de contratos gubernamentales, la competencia en el sector espacial y la incertidumbre regulatoria."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Qué impacto tendría el éxito de SpaceX en el mercado tecnológico?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Un éxito en la salida a bolsa podría impulsar la inversión en el sector espacial y tecnológico."
-      }
-    }
-  ]
-}
-</script>
+
+
 
 ---
 

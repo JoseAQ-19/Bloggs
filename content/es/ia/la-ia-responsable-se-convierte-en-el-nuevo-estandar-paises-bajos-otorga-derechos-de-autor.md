@@ -1,4 +1,5 @@
 ---
+
 title: "Países Bajos Marca Un Hito: La IA Responsable Ahora Tiene Derechos de Autor"
 date: 2026-04-01T10:29:35
 draft: false
@@ -82,27 +83,3 @@ La protección de la propiedad intelectual no es un obstáculo técnico, es el �
 ### Artículos Relacionados
 - [La Alianza YouTube-FIFA: 5 Mil Millones de Espectadores En El Mundial 2026](/es/youtube/youtube-y-fifa-un-acuerdo-que-cambiara-la-forma-de-ver-el-mundial-2026/)
 - [YouTube Bloquea VPN y Cancela Cuentas: La Era de los Gorrones Llega a su Fin](/es/youtube/ver-youtube-sin-pagar-por-esto-se-esta-volviendo-casi-imposible/)
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Países Bajos Marca Un Hito: La IA Responsable Ahora Tiene Derechos de Autor",
-  "description": "Los Países Bajos establecen un precedente al otorgar derechos de autor a la IA responsable. Descubre las implicaciones de esta innovadora decisión.",
-  "image": "https://novumworld.com/images/la-ia-responsable-se-convierte-en-el-nuevo-estandar-paises-bajos-otorga-derechos-de-autor.jpg",
-  "datePublished": "2026-04-01T10:29:35",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>
