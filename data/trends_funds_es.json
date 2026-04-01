@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-01T07:34:21.493207+00:00",
-  "total_candidates": 22,
+  "scouted_at": "2026-04-01T07:35:37.826851+00:00",
+  "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "Bestinver Bolsa: ¿Cómo logró un espectacular 49,05% de rentabilidad en renta variable española en 2026?",
+      "title": "SpaceX y la influencia de Elon Musk: ¿Cuánto podría valer en su salida a bolsa?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Indexa Capital reduce comisiones por décimo año consecutivo, ahorrando 260.000€ a sus clientes: ¿Qué significa esto para tus inversiones?",
+      "title": "Bankinter y Plenium Partners: Un análisis de su fusión y la inversión de 100 millones en Access Capital Partners.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Cartera Metal de MyInvestor supera a Indexa Capital con una sorprendente rentabilidad anualizada del 12,07% en 5 años: ¿Es esta la nueva opción estrella?",
+      "title": "La inflación en la Eurozona sube menos de lo previsto: ¿Cómo afectará esto a los fondos de inversión europeos?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -127,26 +127,6 @@
       "title": "Meta: Aumentan las dificultades legales",
       "source": "rss_morningstar_es",
       "url": "https://www.morningstar.es/es/news/274827/meta-aumentan-las-dificultades-legales.aspx"
-    },
-    {
-      "title": "**Indexa Capital baja comisiones por décimo año consecutivo en 2026, ahorrando a clientes 260.000€ anuales**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Bestinver Bolsa lidera los Premios Morningstar 2026 con una rentabilidad del 49,05% en renta variable española**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Fondos de inversión en España alcanzan los 465.110 millones de euros en febrero, un crecimiento del 1,6% mensual**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Ibercaja lanza Ibercaja Deuda Pública, invirtiendo en bonos de grado de inversión con una duración media de cuatro años**",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }
