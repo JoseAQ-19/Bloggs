@@ -1,20 +1,25 @@
 ---
-title: "Military Fitness 2026: The Gender-Neutral Pivot and the $1.2B Tech Overhaul"
-date: 2026-03-21T04:44:07
-draft: false
-description: "The Pentagon's 2026 fitness revolution: Moving to sex-neutral scoring for combat roles and a $1.2B biometric tracking system. Analysis of the ACFT and WHtR shifts."
-featured_image: "/images/get-fit-with-the-latest-military-fitness-tests-set-for-2026-en.jpg"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "09737d3f-2ced-9bf4-58e3-69fe7381272d"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- fitness
+date: 2026-03-21 04:44:07
+description: 'The Pentagon''s 2026 fitness revolution: Moving to sex-neutral scoring
+  for combat roles and a $1.2B biometric tracking system. Analysis of the ACFT and
+  WHtR shifts.'
+draft: false
+featured_image: /images/get-fit-with-the-latest-military-fitness-tests-set-for-2026-en.jpg
+language: en
+tags:
+- Biohacking & Fitness
+title: 'Military Fitness 2026: The Gender-Neutral Pivot and the $1.2B Tech Overhaul'
+translationKey: 09737d3f-2ced-9bf4-58e3-69fe7381272d
+type: fitness
 ---
+
 ![Military Fitness 2026: The Gender-Neutral Pivot and the $1.2B Tech Overhaul](/images/get-fit-with-the-latest-military-fitness-tests-set-for-2026-en.jpg)
 
-**🚀 Executive Summary (TL;DR):**
+** Executive Summary (TL;DR):**
 * **The Pivot:** Starting January 1, 2026, the U.S. Army officially replaces the ACFT with a sex-neutral scoring paradigm for 21 core combat military occupational specialties (MOS).
 * **The Metric:** The antiquated 'tape test' is being fully phased out in favor of a mandatory 0.55 Waist-to-Height Ratio (WHtR) for all service members.
 * **The Tech:** A $1.2 billion investment in biometric "Tactical Athlete" wearables is being rolled out to track real-time recovery and cortisol levels across ground combat units.

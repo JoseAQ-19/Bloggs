@@ -124,6 +124,8 @@ While poorly conceived or overly restrictive regulation could potentially impede
 
 *Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources
 
 This analytical article synthesizes insights and data from a diverse range of reputable sources to provide a comprehensive overview of the AI trust crisis. The objective approach involved drawing quantitative data from reports by the National Institute of Standards and Technology (NIST) on AI user trust, global venture capital investment analyses, and industry surveys concerning AI adoption and enterprise concerns. Qualitative insights were derived from statements and enforcement actions by regulatory bodies such as the Federal Trade Commission (FTC) and the Consumer Financial Protection Bureau (CFPB), reflecting the evolving legal and ethical landscape of AI. Academic research, including studies on "transparency theater" and "explanation illusions," informed the discussion on technical explainability challenges. Specific case studies, such as the Air Canada chatbot incident and FTC actions against "AI washing," were utilized to illustrate real-world implications. The synthesis aimed to present a balanced, data-driven, and analytical perspective on the multifaceted challenges surrounding public trust in AI.

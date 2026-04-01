@@ -81,6 +81,8 @@ El futuro no se trata de que la IA se vuelva más humana; se trata de que los hu
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Metodología y Fuentes
 
 Este análisis se basa en una revisión exhaustiva de estudios académicos y artículos de investigación sobre la inteligencia artificial, particularmente aquellos que examinan la personalidad y el comportamiento de los modelos de lenguaje. Se han considerado fuentes como *Nature Machine Intelligence* y publicaciones de Google DeepMind para obtener una comprensión completa de las tendencias actuales en el desarrollo de IA y sus implicaciones.

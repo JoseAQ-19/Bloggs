@@ -72,6 +72,8 @@ Participants should remain attentive to their body’s signals during hula hoopi
 
 *Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources
 
 This article synthesizes findings from various studies and expert opinions on the efficacy of weighted hula hoops for fat loss and core strengthening. Key sources include:

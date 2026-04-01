@@ -1,22 +1,26 @@
 ---
-title: "The 11-Minute Workout Revolution: How It Cuts Mortality Risk By 25%"
-date: 2026-03-30T06:14:12
-draft: false
-description: "Discover the 11-minute workout that can reduce your mortality risk by 25%. Transform your fitness routine with this quick, effective regimen today!"
-featured_image: "/images/the-11-minute-cold-war-workout-thats-making-a-comeback-en.jpg"
-slug: "the-11-minute-cold-war-workout-thats-making-a-comeback-en"
-canonical: "https://novumworld.com/fitness/the-11-minute-cold-war-workout-thats-making-a-comeback-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "99699ef0-b939-39c3-22b1-93c1da642d7f"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+canonical: https://novumworld.com/fitness/the-11-minute-cold-war-workout-thats-making-a-comeback-en/
+categories:
+- fitness
+date: 2026-03-30 06:14:12
+description: Discover the 11-minute workout that can reduce your mortality risk by
+  25%. Transform your fitness routine with this quick, effective regimen today!
+draft: false
+featured_image: /images/the-11-minute-cold-war-workout-thats-making-a-comeback-en.jpg
+language: en
+slug: the-11-minute-cold-war-workout-thats-making-a-comeback-en
+tags:
+- Biohacking & Fitness
+title: 'The 11-Minute Workout Revolution: How It Cuts Mortality Risk By 25%'
+translationKey: 99699ef0-b939-39c3-22b1-93c1da642d7f
+type: fitness
 ---
+
 ![The 11-Minute Workout Revolution: How It Cuts Mortality Risk By 25%](/images/the-11-minute-cold-war-workout-thats-making-a-comeback-en.jpg)
 
-**🚀 Executive Summary (TL;DR):**
+** Executive Summary (TL;DR):**
 * **The Reality:** Significant health benefits—including a 25% reduction in all-cause mortality—can be achieved with as little as 11 minutes of moderate-to-vigorous activity daily.
 * **The Science:** Research from the University of Cambridge indicates that 75 minutes of exercise per week (11 min/day) is sufficient to prevent 1 in 10 premature deaths.
 * **The Protocol:** Based on the Canadian 5BX (Five Basic Exercises) and modern HIIT principles, the focus is on elevating the heart rate quickly and maintaining mobility.

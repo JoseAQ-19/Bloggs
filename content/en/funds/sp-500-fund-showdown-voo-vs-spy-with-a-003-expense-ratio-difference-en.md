@@ -143,6 +143,8 @@ Ultimately, the choice between VOO and SPY should align with an investor's indiv
 
 *Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources
 
 This report was constructed through a rigorous, objective analysis of publicly available financial data and established investment principles. The methodology involved:

@@ -53,6 +53,8 @@ ASML ha mostrado resultados financieros sólidos en sus reportes trimestrales, c
 
 *Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se basa en datos obtenidos de Morningstar y otras fuentes financieras confiables. Se han revisado informes de rendimiento, análisis de volatilidad y costos de gestión para evaluar la posición del iShares Core EURO STOXX 50 UCITS ETF en el mercado. Además, se han incorporado opiniones de expertos en inversión para ofrecer un análisis más completo.

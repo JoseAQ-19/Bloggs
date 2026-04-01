@@ -86,6 +86,8 @@ El metaverso no solo ha muerto, sino que debe permanecer enterrado. La historia 
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se basa en datos recopilados de diversas fuentes, incluidas publicaciones tecnológicas como MIT Technology Review, informes de mercado y análisis financieros de empresas involucradas en el desarrollo del metaverso. Se han considerado tanto estadísticas de usuarios como datos financieros para proporcionar una visión amplia y fundamentada del estado actual del metaverso.

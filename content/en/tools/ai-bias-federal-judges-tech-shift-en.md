@@ -27,7 +27,7 @@ The integration of AI into the federal judiciary is less a technological revolut
 
 The integration of AI into the federal judiciary is less a technological revolution and more a dangerous experiment in automated bias.
 
-> **📌 Key Takeaways:**
+> ** Key Takeaways:**
 > - 60% of federal judges use AI tools, yet only 22.4% use them daily — **Northwestern University**
 > - AI recommendations reduced incarceration for low-risk offenders by 16% for drug crimes — **Tulane University**
 > - Only 39% of AI systems in production are regularly tested for fairness — **World Economic Forum**
@@ -105,6 +105,8 @@ The algorithm is not a neutral arbiter; it is a mirror reflecting our ugliest hi
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 
 *Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

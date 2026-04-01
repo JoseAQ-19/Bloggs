@@ -50,6 +50,8 @@ The current infrastructure, supported by vast GPU compute resources and models w
 
 *Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources
 
 This article is based on data from AIR Media-Tech, industry reports, and statements from key figures in the media and digital marketing sectors. Analysis includes viewership statistics, engagement metrics, and financial implications of YouTube's evolving content landscape.

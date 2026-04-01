@@ -64,6 +64,8 @@ Buyer, beware.
 
 *Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources
 
 Este artículo se basa en una revisión exhaustiva de informes de analistas de la industria, datos de la Administración de Información Energética (EIA), y estudios de publicaciones reconocidas como **Forbes** y **Yale Appliance Blog**. Se han considerado diversas fuentes para evaluar el impacto de los precios de la electricidad, la eficiencia energética y los costos de reparación asociados con las cocinas de inducción.

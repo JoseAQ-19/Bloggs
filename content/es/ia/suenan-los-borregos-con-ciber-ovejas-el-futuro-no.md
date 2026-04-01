@@ -69,6 +69,8 @@ La obsesión por la "conciencia artificial" es un desvío que socava nuestra ate
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Para la elaboración de este análisis, se han revisado diversas fuentes académicas, artículos de revistas especializadas y estudios de caso sobre la inteligencia artificial y su impacto en la sociedad. Se han consultado publicaciones de *IEEE Spectrum* y *MIT Technology Review*, entre otras, para proporcionar una visión integral y fundamentada sobre el estado actual de la IA y sus implicaciones éticas y sociales.

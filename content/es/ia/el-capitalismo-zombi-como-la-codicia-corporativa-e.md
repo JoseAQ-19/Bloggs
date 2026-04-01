@@ -162,6 +162,8 @@ La deszombificación del capitalismo es un proceso complejo que requiere una coo
 
 *Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 El presente informe se ha elaborado con un enfoque analítico y objetivo, basándose en una revisión exhaustiva de la literatura económica académica y los informes de instituciones financieras y de investigación relevantes. La metodología empleada incluyó el análisis de estudios empíricos sobre la prevalencia y los impactos de las empresas zombi, así como la síntesis de diversas perspectivas teóricas sobre las causas y soluciones del fenómeno.

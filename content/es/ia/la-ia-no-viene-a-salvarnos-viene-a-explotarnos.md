@@ -57,6 +57,8 @@ Un cambio de paradigma es fundamental. La IA debe diseñarse y utilizarse como u
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se ha construido a partir de una revisión exhaustiva de la literatura existente sobre el trabajo invisible en la industria de la IA, así como de estudios de caso y reportes de organizaciones no gubernamentales. Las fuentes incluyen investigaciones de organizaciones como Amnesty International y Time Magazine, que han abordado la problemática de la moderación de contenido y sus implicaciones para la salud mental de los trabajadores. Además, se han consultado estudios académicos y artículos de opinión en medios de comunicación relevantes para proporcionar un contexto más amplio sobre la explotación digital.

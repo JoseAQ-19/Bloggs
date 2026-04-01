@@ -51,6 +51,8 @@ La desconexión no implica un rechazo total de la tecnología, sino una reevalua
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Para la elaboración de este análisis, se ha recurrido a una variedad de fuentes, incluyendo estudios académicos, artículos de opinión y datos estadísticos relacionados con el impacto de la tecnología en la sociedad. Se han consultado trabajos relevantes en el campo de la sociología y la psicología, así como informes sobre el impacto del consumismo y la tecnología en la calidad de vida. 

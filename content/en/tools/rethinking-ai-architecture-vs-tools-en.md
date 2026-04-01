@@ -84,6 +84,8 @@ The evidence is clear: organizations that neglect robust AI architecture are set
 
 *Aviso Editorial:* For informational purposes only. This document does not constitute financial or investment advice. Organizations should conduct thorough research and consult with experts before making decisions related to AI implementation and architecture.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources
 
 This analysis draws on a variety of sources, including industry reports, expert opinions, and case studies from organizations that have navigated AI adoption challenges. Key insights were gleaned from interviews with industry leaders and experts in the field of AI architecture, as well as financial forecasts from market research firms.

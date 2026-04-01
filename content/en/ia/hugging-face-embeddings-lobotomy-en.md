@@ -68,6 +68,8 @@ The rush to scale AI capabilities has resulted in a neglect of quality control m
 
 *Aviso Editorial:* For informational purposes only.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources
 
 This analysis draws upon a combination of expert opinions, peer-reviewed research, and anecdotal evidence from the AI community. Key sources include:

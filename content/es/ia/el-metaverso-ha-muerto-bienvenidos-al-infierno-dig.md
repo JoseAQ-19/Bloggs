@@ -79,6 +79,8 @@ El futuro no radica en mundos virtuales hiperrealistas, sino en aplicaciones pr�
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se ha elaborado a partir de una revisión exhaustiva de múltiples fuentes, incluyendo reportes de investigación, artículos de opinión y datos estadísticos sobre el estado del metaverso y su impacto en la industria tecnológica. Se han consultado estudios de instituciones reconocidas como MIT Technology Review y Deloitte, así como análisis de expertos en tecnología y economía.

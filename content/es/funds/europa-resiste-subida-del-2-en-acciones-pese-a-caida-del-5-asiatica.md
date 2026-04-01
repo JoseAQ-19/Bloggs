@@ -131,6 +131,8 @@ En síntesis, Europa no es un refugio incondicional, sino un entorno de inversi�
 
 *Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 El presente análisis se ha estructurado sobre un enfoque riguroso y objetivo, combinando el escrutinio de datos cuantitativos de mercado con la interpretación de perspectivas de expertos y factores macroeconómicos. La metodología empleada incluye:

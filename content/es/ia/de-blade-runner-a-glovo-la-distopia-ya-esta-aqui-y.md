@@ -67,6 +67,8 @@ Glovo no debe ser visto como el futuro del trabajo, sino como un recordatorio de
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este artículo se basa en un análisis crítico de la literatura existente sobre el trabajo en plataformas digitales, informes de organizaciones de derechos laborales, así como artículos de investigación académica. Se han utilizado datos de fuentes como MIT Technology Review, RidersXDerechos, El Salto, y estudios académicos de universidades como Oxford para ofrecer una visión completa de la situación laboral en Glovo y otras plataformas similares.

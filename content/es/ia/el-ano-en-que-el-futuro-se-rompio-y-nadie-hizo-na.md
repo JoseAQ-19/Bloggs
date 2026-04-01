@@ -65,6 +65,8 @@ En un mundo que avanza rápidamente, Chile tiene la oportunidad de replantear su
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Para la elaboración de este análisis, se revisaron diversas fuentes académicas, informes de think tanks y artículos de opinión de expertos en política y economía. Se consultaron investigaciones de la London School of Economics y de la Universidad de Harvard, así como datos del Banco Mundial, para comprender el contexto histórico y social que llevó al estallido social en Chile. Esta revisión permite ofrecer un análisis profundo y fundamentado sobre las causas y consecuencias de la crisis social en el país.

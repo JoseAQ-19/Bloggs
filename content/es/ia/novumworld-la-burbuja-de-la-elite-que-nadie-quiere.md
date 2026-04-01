@@ -65,6 +65,8 @@ La tecnología no es neutral; es un arma que puede ser utilizada para oprimir o 
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se basa en una revisión crítica de informes académicos, artículos de medios de comunicación y estudios de caso sobre la desigualdad social y el control tecnológico. Se han consultado fuentes como el Informe FOESSA, datos de la OCDE y análisis de MIT Technology Review, entre otros, para proporcionar una visión integral del fenómeno de NOVUMWORLD.

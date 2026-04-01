@@ -78,6 +78,8 @@ Gobiernos, empresas, sindicatos y la sociedad civil deben colaborar para desarro
 
 *Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este artículo se ha elaborado a partir de diversas fuentes, incluyendo informes de Gi Group Holding, McKinsey Global Institute y declaraciones de expertos en el campo de la economía y la tecnología. Se ha utilizado un enfoque analítico para evaluar el impacto de la automatización en el empleo y las consecuencias socioeconómicas derivadas de su implementación.

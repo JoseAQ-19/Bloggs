@@ -51,6 +51,8 @@ El hecho de que un sistema pase pruebas de estrés no garantiza que funcionará 
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se ha elaborado a partir de una revisión exhaustiva de literatura técnica, informes de la industria y experiencias compartidas por usuarios en plataformas como Reddit y foros especializados en hardware. Se han consultado documentos de Intel sobre garantías y especificaciones de productos, así como estudios sobre la degradación del silicio y la gestión de energía en procesadores modernos. La información se ha recopilado y evaluado para ofrecer una visión equilibrada y crítica sobre el tema del undervolting en procesadores Intel.

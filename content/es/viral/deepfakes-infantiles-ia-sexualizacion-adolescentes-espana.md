@@ -62,6 +62,8 @@ La cultura digital ha normalizado la manipulación de imágenes, llevando a la d
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Para la elaboración de este artículo, se realizó una revisión exhaustiva de diversas fuentes académicas, informes de organizaciones no gubernamentales como Save the Children, y análisis de expertos en tecnología y ética digital. Se consultaron datos estadísticos sobre la generación de contenido sexual explícito y se examinaron las implicaciones sociales y éticas de las tecnologías emergentes en el ámbito de la inteligencia artificial.

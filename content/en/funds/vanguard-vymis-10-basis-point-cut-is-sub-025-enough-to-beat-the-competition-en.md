@@ -100,6 +100,8 @@ Investors should not only focus on the immediate benefits of lower fees but also
 
 *Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources
 
 This analysis draws upon data from reputable sources such as Vanguard, Morningstar, and SEC filings. We conducted a comparative performance analysis using standardized metrics such as returns over various time frames, expense ratios, and expert opinions to provide a comprehensive overview of Vanguard's VYMI fund.

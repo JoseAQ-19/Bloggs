@@ -1,17 +1,20 @@
 ---
-title: "¿Gas Demasiado Caro en Metamask? Guía Completa Para Reducir Costos de Transacción"
-date: 2026-02-20T02:35:53
-draft: false
-description: "¿Harto del gas excesivo en Metamask? Optimiza tus transacciones con esta guía completa. Reduce costos, explora alternativas y ¡ahorra en cada envío!"
-featured_image: "/images/metamask-gas-fees-guia-completa.jpg"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "efcbc125-7ec3-4cfe-8294-52e935058178"
-remastered: true
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- crypto
+date: 2026-02-20 02:35:53
+description: ¿Harto del gas excesivo en Metamask? Optimiza tus transacciones con esta
+  guía completa. Reduce costos, explora alternativas y ¡ahorra en cada envío!
+draft: false
+featured_image: /images/metamask-gas-fees-guia-completa.jpg
+language: es
+remastered: true
+tags:
+- Crypto & Web3
+title: ¿Gas Demasiado Caro en Metamask? Guía Completa Para Reducir Costos de Transacción
+translationKey: efcbc125-7ec3-4cfe-8294-52e935058178
+type: crypto
 ---
 
 ¿Hartos de que MetaMask les exprima hasta la última gota de ETH? No están solos. La autodenominada "billetera líder" se está beneficiando descaradamente de nuestra necesidad de acceso al ecosistema Ethereum.

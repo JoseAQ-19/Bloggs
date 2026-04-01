@@ -65,6 +65,8 @@ El futuro no está en un metaverso que nunca se materializará, sino en la aplic
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se ha realizado a través de una revisión crítica de la literatura existente, estudios de mercado, informes de la industria y datos de fuentes confiables como ArXiv y Deloitte. Se han utilizado datos económicos y tecnológicos relevantes para evaluar la viabilidad del metaverso tanto en el ámbito de consumo como en el industrial.

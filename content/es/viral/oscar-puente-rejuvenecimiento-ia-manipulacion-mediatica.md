@@ -22,11 +22,11 @@ type: viral
 
 * ![La Manipulación Mediática De Óscar Puente: 929 Millones En Estafas De IA](/images/oscar-puente-rejuvenecimiento-ia-manipulacion-mediatica.jpg)
 
-**📌 Lo esencial:**
+** Lo esencial:**
 * Las estafas de deepfake costaron 929 millones de euros en España durante 2025, impulsadas por un aumento del 1,400% en los fraudos di...
 
 
-**📌 Lo esencial:**
+** Lo esencial:**
 * Las estafas de deepfake costaron 929 millones de euros en España durante 2025, impulsadas por un aumento del 1,400% en los fraudos digitales **Agencia Española de Protección de Datos (AEPD)**.
 * El 75.1% de los españoles percibe la capacidad de la IA para generar contenido falso como una amenaza real, según sondeos de la AEPD.
 * El ministro Óscar Puente protagonizó un virósico incidente tras bloquear el chatbot Grok de X, tras este contradecirle públicamente sobre el uso de la IA.
@@ -107,6 +107,8 @@ La manipulación mediática a través de deepfakes ya no es una amenaza futurist
 - [YouTube Revive La Nostalgia: 7 Programas Icónicos De Los 2000s Que Regresan Con Fuerza](/es/youtube/youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto/)
 
 *Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

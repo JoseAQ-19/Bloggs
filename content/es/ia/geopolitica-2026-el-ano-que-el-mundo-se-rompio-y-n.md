@@ -74,6 +74,8 @@ Si alguien aún cree en la posibilidad de un orden mundial cooperativo, se encue
 
 *Aviso Editorial:* Información educativa. Consulte especialistas para un análisis más profundo y contextualizado sobre estos temas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se basa en una revisión exhaustiva de fuentes académicas, informes de medios de comunicación y estudios de caso actuales sobre las dinámicas de poder global. Se han utilizado documentos de instituciones reconocidas como **Reuters**, **Bloomberg** y artículos académicos accesibles en **ArXiv** para proporcionar un contexto detallado y fundamentado sobre la situación geopolítica actual.

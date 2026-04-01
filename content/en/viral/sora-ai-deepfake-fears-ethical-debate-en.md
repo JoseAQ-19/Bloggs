@@ -84,6 +84,8 @@ The bubble surrounding consumer generative video has burst. The underlying econo
 
 *Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources
 
 This article synthesizes information from industry reports, expert interviews, and news articles to provide a comprehensive overview of the implications surrounding the closure of OpenAI's Sora. Data was gathered from reputable sources, including financial analyses, technology reports, and expert commentary, to ensure accuracy and depth of understanding.

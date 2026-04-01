@@ -71,6 +71,8 @@ La visión de Silicon Valley como el salvador del futuro es, en última instanci
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se basa en una revisión crítica de la literatura existente sobre el impacto social, económico y ambiental de la tecnología, así como en informes de organizaciones reconocidas como MIT Technology Review y Oxfam. También se han considerado las contribuciones de expertos en filosofía y ética tecnológica, como Nick Bostrom, para entender los riesgos existenciales asociados con el desarrollo de la inteligencia artificial.

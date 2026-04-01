@@ -61,6 +61,8 @@ La experiencia del usuario se ve gravemente afectada por la omnipresencia del cl
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 La información presentada en este artículo se basa en un análisis de datos internos de YouTube, informes del Ministerio del Interior de España, y entrevistas con expertos en tecnología y medios digitales. Se han revisado estudios académicos y artículos de opinión que abordan el fenómeno del clickbait y su impacto en el ecosistema digital. 

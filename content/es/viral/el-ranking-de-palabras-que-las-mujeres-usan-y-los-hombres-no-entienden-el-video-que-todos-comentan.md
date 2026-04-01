@@ -72,6 +72,8 @@ El vídeo sobre las "10 palabras que las mujeres usan y los hombres no entienden
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Para este análisis, se realizaron revisiones de literatura académica sobre comunicación de género, estudios de sesgos en modelos de lenguaje y reportes de organizaciones como LLYC y UNESCO. Se consultaron múltiples estudios de caso sobre el impacto de la tecnología en la representación de género y se llevó a cabo un análisis crítico de la situación actual de las mujeres en el ámbito laboral y la comunicación.

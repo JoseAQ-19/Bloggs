@@ -81,6 +81,8 @@ Moreover, the role of data-driven insights in informing policy and educational i
 
 *Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources
 
 This analytical report synthesizes findings from a diverse array of academic studies, sociological analyses, historical accounts, and contemporary media research. The objective approach involved drawing upon peer-reviewed journals, reputable research institutions (e.g., Annenberg Public Policy Center, Pew Research), and authoritative texts by established scholars in criminology, media studies, and cultural history. Specific data points regarding media consumption, crime rates, and public perception were sourced from empirical studies to substantiate claims. The analysis critically examined both the direct and indirect impacts of media portrayals, contrasting initial public exposure with later cinematic glamorization, and considering the complex interplay between fictional narratives and real-world societal outcomes.

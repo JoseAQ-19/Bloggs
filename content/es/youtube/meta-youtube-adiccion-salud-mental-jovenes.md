@@ -67,6 +67,8 @@ Es imperativo que tanto las plataformas como los gobiernos tomen medidas para mi
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se basa en una revisión exhaustiva de investigaciones académicas, informes judiciales y datos estadísticos recientes sobre el uso de internet y redes sociales entre adolescentes en España y Europa. Se han consultado fuentes como el informe de la UCJC, investigaciones sobre adicción a redes sociales y testimonios de casos legales que ilustran el impacto de estas plataformas en la salud mental juvenil.

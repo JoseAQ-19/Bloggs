@@ -77,6 +77,8 @@ En resumen, Bitcoin no es la solución que muchos esperan. Su naturaleza especul
 
 *Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se ha llevado a cabo utilizando diversas fuentes académicas, informes de mercado y estudios sobre la psicología del inversor. Entre las fuentes consultadas se encuentran artículos de CoinDesk, estudios sobre el impacto ambiental de la minería de criptomonedas y teorías de la burbuja social. La combinación de datos cuantitativos y cualitativos ha permitido una visión más integral de la situación actual de Bitcoin y su impacto en la sociedad.

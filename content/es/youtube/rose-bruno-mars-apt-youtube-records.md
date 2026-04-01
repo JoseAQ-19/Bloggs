@@ -91,6 +91,8 @@ El streaming, concebido como una herramienta democratizadora, no debería conver
 
 *Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este informe ha sido elaborado bajo un enfoque analítico y objetivo, integrando datos cuantitativos y cualitativos para ofrecer una perspectiva completa sobre la economía del streaming musical y sus implicaciones para los artistas. La información se ha compilado a partir de las siguientes tipologías de fuentes:

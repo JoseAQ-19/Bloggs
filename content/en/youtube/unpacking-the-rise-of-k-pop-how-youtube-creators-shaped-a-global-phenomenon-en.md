@@ -66,6 +66,8 @@ The challenges posed by copyright issues and algorithmic restrictions underscore
 
 *Aviso Editorial:* For informational purposes only.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources
 
 This analysis draws on various sources, including industry reports, academic articles, and data from platforms like YouTube and Spotify. Key insights were obtained from industry experts and commentators, with specific references to analyses published on Medium and Reddit discussions. 

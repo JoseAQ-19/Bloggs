@@ -64,6 +64,8 @@ La confianza en las herramientas de IA se ve comprometida por la falta de clarid
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se ha basado en una revisión de literatura académica y artículos de expertos en el campo de la inteligencia artificial, así como información de agencias reguladoras como la Agencia Española de Protección de Datos (AEPD). Se han utilizado también datos de estudios recientes sobre la adopción de IA en el entorno empresarial, así como opiniones de profesionales y expertos en tecnología.

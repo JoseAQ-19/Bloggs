@@ -73,6 +73,8 @@ While the integration of cryptocurrency into mortgage lending practices may prov
 
 *Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources
 
 This analysis was compiled using a diverse range of sources, including industry reports, regulatory announcements, and expert commentary from financial analysts. Data from Realtor.com, the Federal Housing Finance Agency, and Coinbase were utilized to provide insights into current market conditions and trends. Furthermore, interviews and statements from industry leaders in fintech and real estate were considered to contextualize the potential impacts of cryptocurrency on the housing market.

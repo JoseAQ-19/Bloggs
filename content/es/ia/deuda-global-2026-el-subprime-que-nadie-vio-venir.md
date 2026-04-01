@@ -88,6 +88,8 @@ La pregunta crítica que debemos hacernos no es si podemos evitar la crisis, sin
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se ha realizado a partir de una revisión exhaustiva de datos y estudios provenientes de diversas fuentes reconocidas, como Bloomberg, Reuters, y artículos académicos de ArXiv. Se han considerado tanto informes económicos como análisis de mercado para ofrecer una visión integral de la situación actual y sus posibles consecuencias.

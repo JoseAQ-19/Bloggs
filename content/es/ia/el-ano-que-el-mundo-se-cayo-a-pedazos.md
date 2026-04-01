@@ -79,6 +79,8 @@ Si no se produce una transformación profunda, el futuro se presenta sombrío. L
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se basa en una revisión exhaustiva de informes de organizaciones reconocidas como el Fondo Monetario Internacional (FMI), el Instituto Internacional de Investigación sobre la Paz de Estocolmo (SIPRI), y estudios académicos, incluyendo los trabajos de la Universidad de Oxford sobre desigualdad económica. La información se complementa con datos de medios de comunicación de renombre como **Bloomberg**, que proporciona una perspectiva sobre las dinámicas del sector bancario y financiero.

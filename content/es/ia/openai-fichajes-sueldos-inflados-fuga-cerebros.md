@@ -64,6 +64,8 @@ La educación superior en España debe adaptarse para formar a la próxima gener
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se basa en datos recopilados de diversas fuentes, incluyendo informes de la industria de IA, análisis de mercado laboral, y entrevistas con expertos en tecnología y educación. Se han revisado publicaciones académicas, artículos de prensa y estudios de caso de empresas afectadas por la fuga de talento. La información ha sido contrastada con datos gubernamentales sobre el empleo en el sector tecnológico en España.

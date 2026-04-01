@@ -48,6 +48,8 @@ Tanaka's work highlights the intricate relationship between character design, an
 
 *Aviso Editorial:* For informational purposes only.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources
 
 This analysis draws from a variety of sources, including industry reports, interviews with key figures in the production, and academic literature on audience engagement and character design in animation. Key sources include articles from **GamesRadar+**, interviews with director Jeff Fowler and VFX Supervisor Masaki Tanaka, and insights from fan reactions across social media platforms.

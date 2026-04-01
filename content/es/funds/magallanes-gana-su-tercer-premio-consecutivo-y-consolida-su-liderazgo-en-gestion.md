@@ -67,6 +67,8 @@ En conclusión, Magallanes Value Investors ha demostrado su capacidad para sobre
 
 *Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 La información presentada en este artículo se ha recopilado a partir de diversas fuentes, incluyendo datos de Morningstar, análisis de expertos en inversiones, y publicaciones financieras reconocidas. Se han utilizado métricas como la rentabilidad anualizada y el ratio de Sharpe para evaluar el desempeño de los fondos de Magallanes y su competitividad en el sector.

@@ -66,6 +66,8 @@ La plataforma tiene planes de integrar datos estadísticos en vivo sobre la imag
 
 *Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes / Methodology & Sources
 
 Este análisis se ha llevado a cabo a través de una auditoría de los presupuestos públicos de RTVE, publicada en el Boletín Oficial del Estado (BOE), así como datos de audiencia de Kantar Media. Las estimaciones de mercado sobre derechos deportivos fueron extraídas de informes de Statista y El Economista. Las proyecciones de infraestructura tecnológica se han contrastado con los comunicados oficiales de FIFA Media y el blog de YouTube.

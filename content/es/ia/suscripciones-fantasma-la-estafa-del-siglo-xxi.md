@@ -81,6 +81,8 @@ La única forma de combatir esta tendencia es la rebelión. Los consumidores deb
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se ha construido a partir de una revisión exhaustiva de estudios e informes de diversas fuentes, incluyendo el **MIT Technology Review**, **Deloitte**, **Nielsen Norman Group**, y **Reuters**. Se han utilizado datos concretos y ejemplos para ilustrar cómo las tácticas de suscripción han evolucionado y cómo impactan en la vida de los consumidores.

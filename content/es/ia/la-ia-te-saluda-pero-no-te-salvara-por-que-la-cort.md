@@ -64,6 +64,8 @@ Exigir transparencia y responsabilidad en el desarrollo de la IA es esencial. Ad
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se basa en una revisión exhaustiva de literatura académica y artículos de opinión sobre la interacción humano-máquina, la ética de la IA y el impacto ambiental de la tecnología. Se han consultado estudios recientes para respaldar las afirmaciones sobre la eficiencia en la comunicación con sistemas de IA y las implicaciones emocionales de la antropomorfización. 

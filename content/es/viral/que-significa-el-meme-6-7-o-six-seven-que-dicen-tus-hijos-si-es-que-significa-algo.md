@@ -52,6 +52,8 @@ La psicología del uso de memes como "6-7" también merece atención. Los jóven
 
 *Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 La información presentada en este artículo se basa en un análisis exhaustivo de datos provenientes de encuestas realizadas por **Classic Scraping**, así como en estudios sociológicos sobre la comunicación digital y la dinámica familiar. Se han revisado artículos académicos y publicaciones en medios especializados que abordan la evolución del lenguaje digital y su impacto en la comunicación intergeneracional. Además, se han realizado entrevistas con expertos en sociología y psicología que ofrecen perspectivas sobre este fenómeno emergente.

@@ -28,7 +28,7 @@ Sony Pictures Television intenta resucitar un cadáver televisivo inyectándole 
 
 Sony Pictures Television intenta resucitar un cadáver televisivo inyectándole esteroides de YouTube con *Jeopardy! YouTube Edition*, pero las cifras de audiencia en España sugieren que el paciente ya está en coma irreversible.
 
-> **📌 Lo esencial / Key Takeaways:**
+> ** Lo esencial / Key Takeaways:**
 > * Sony lanza *Jeopardy! YouTube Edition* el 31 de marzo con Ken Jennings para captar a la Generación Z, ignorando que la TV lineal en España ha caído a 157 minutos diarios de consumo.
 > * Los programas de noticias han perdido más de 2 millones de espectadores en cinco años, mientras que *Trivial Pursuit* en TVE apenas logró 248.000 espectadores en marzo de 2026.
 > * La iniciativa enfrenta una trampa legal en España bajo la Ley 34/2002, donde la falta de transparencia en concursos online puede acarrear multas severas a los organizadores.
@@ -169,9 +169,9 @@ La tabla siguiente muestra la disparidad abismal entre el rendimiento de la TV t
 
 | Formato | Espectadores (Pico/Medio) | Plataforma | Tendencia |
 | :--- | :--- | :--- | :--- |
-| **Trivial Pursuit (TVE)** | 248.000 | TV Lineal | 📉 Desplome |
-| **Noticias TV (Media)** | 4.987.000 | TV Lineal | 📉 En declive |
-| **Grandes Streamers (Ibai)** | >400.000 (simultáneos) | Twitch/YouTube | 📈 Estable/Alta |
+| **Trivial Pursuit (TVE)** | 248.000 | TV Lineal |  Desplome |
+| **Noticias TV (Media)** | 4.987.000 | TV Lineal |  En declive |
+| **Grandes Streamers (Ibai)** | >400.000 (simultáneos) | Twitch/YouTube |  Estable/Alta |
 
 La comparación revela que incluso un programa de noticias "masivo" tiene una retención frágil comparada con la lealtad de la audiencia digital.
 
@@ -212,6 +212,8 @@ Si no logran adaptar la mecánica del juego a la velocidad de internet, este ser
 - [YouTube Te Espía: ¿Preparado Para Confesar Si Tu Video Lo Creó Una IA?](/es/youtube/youtube-deteccion-ia-honestidad-digital/)
 
 *Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

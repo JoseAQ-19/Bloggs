@@ -82,6 +82,8 @@ La creciente dependencia de la tecnología debe ser reevaluada. En lugar de perm
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se ha desarrollado a partir de una revisión exhaustiva de fuentes académicas, estudios de caso y artículos de medios de comunicación de renombre. Se han utilizado datos de publicaciones como MIT Technology Review y Brookings para respaldar los argumentos presentados. Además, se han considerado informes de organizaciones como Gartner para entender la dinámica del mercado de servicios en la nube.

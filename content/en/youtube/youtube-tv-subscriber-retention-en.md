@@ -99,6 +99,8 @@ Ultimately, YouTube TV's path to sustainable dominance hinges on its ability to 
 
 *Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources
 
 This analytical report synthesizes data and insights from various industry reports, financial disclosures, and expert analyses. The methodology involved a critical review of publicly available financial statements from Alphabet (YouTube's parent company) and Comcast, subscriber reports from reputable industry research firms (e.g., MoffettNathanson, J.D. Power, StreamHaven), and comprehensive analyses published by recognized media outlets such as Bloomberg Media, Forbes, and TechCrunch. Quantitative data points, including subscriber numbers, content acquisition costs, average revenue per user (ARPU), churn rates, advertising CPMs, and customer lifetime value (LTV) estimates, were meticulously extracted and cross-referenced to provide a comprehensive financial and market perspective. Qualitative insights derived from expert quotes and industry commentary were integrated to contextualize the strategic implications of these data points. The objective was to provide a balanced, objective, and data-driven assessment of YouTube TV's competitive position and the viability of its projected growth trajectory against established incumbents and emerging rivals.

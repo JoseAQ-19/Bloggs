@@ -60,6 +60,8 @@ A pesar de estas advertencias, muchos sindicatos aplauden la "modernización" im
 
 *Aviso Editorial:* Esta información es educativa y no debe ser considerada como asesoramiento profesional. Se recomienda consultar a especialistas en el área para obtener una comprensión más profunda de la situación laboral actual y futura.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se basa en diversas fuentes, incluyendo estudios de Randstad Research sobre la automatización de empleos en España, informes de McKinsey & Company sobre el uso de herramientas de inteligencia artificial en las empresas y declaraciones de expertos en el campo de la IA como Dario Amodei y Mustafa Suleyman. Se han consultado artículos de noticias, estudios académicos y reportes de tendencias laborales para ofrecer una visión exhaustiva sobre el impacto de la inteligencia artificial en el mercado laboral español.

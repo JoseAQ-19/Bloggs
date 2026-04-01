@@ -75,6 +75,8 @@ Silicon Valley parece estar condenado a repetir los errores del pasado, dejando 
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se basa en una revisión crítica de estudios académicos, reportes de medios de comunicación y declaraciones de expertos en tecnología y economía. Los datos sobre inversiones en IA y sus retornos provienen de investigaciones llevadas a cabo por instituciones como el MIT y publicaciones reconocidas como Reuters y Bloomberg. Se ha prestado especial atención a las advertencias de pioneros de la tecnología como Jerry Kaplan y la evaluación de la situación actual por parte de analistas del sector.

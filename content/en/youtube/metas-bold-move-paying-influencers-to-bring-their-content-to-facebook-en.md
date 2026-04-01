@@ -54,6 +54,8 @@ This could lead to a scenario where creators prioritize platforms that offer bet
 
 *Aviso Editorial:* For informational purposes only.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources
 
 This analysis draws upon various industry reports, including data from MoffettNathanson regarding advertising revenue and creator payouts across different platforms. Interviews with industry experts and commentary from prominent creators provide additional insights into the evolving landscape of influencer economics and the challenges faced by content creators on Meta's platforms.

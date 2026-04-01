@@ -74,5 +74,7 @@ La decisión que enfrentamos como sociedad es clara: permitir que las empresas i
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 Para la elaboración de este análisis se han consultado diversas fuentes académicas y artículos de referencia en el ámbito económico, incluyendo investigaciones del Banco de Pagos Internacionales (BIS) y del National Bureau of Economic Research. Se han revisado estudios de caso y datos estadísticos que ilustran la magnitud del problema del capitalismo zombi en diversas economías, especialmente en Europa y Estados Unidos.

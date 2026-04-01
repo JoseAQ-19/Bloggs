@@ -93,6 +93,8 @@ El periodismo que merecemos no es un "pilar fundamental de la democracia", sino 
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se basa en una revisión crítica de estudios académicos, artículos de opinión y reportes de medios que abordan la crisis de confianza en el periodismo contemporáneo. Se han consultado fuentes como *Nature*, *MIT Technology Review*, *Bloomberg*, y *Reuters*, entre otros, para sustentar los argumentos presentados.

@@ -62,6 +62,8 @@ Las comisiones han sido descritas como el "cáncer" de la rentabilidad, y mientr
 
 *Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se ha llevado a cabo a través de una revisión exhaustiva de datos de fuentes como Morningstar, informes del sector financiero y análisis de tendencias en el comportamiento del consumidor. Se han tomado en consideración las proyecciones financieras y las opiniones de expertos del sector para ofrecer una visión completa sobre la reducción de comisiones de Indexa Capital y su potencial impacto en los inversores.

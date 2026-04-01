@@ -79,6 +79,8 @@ La única opción viable es la resistencia. Es crucial que los trabajadores se o
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se basa en una revisión exhaustiva de la literatura existente sobre el impacto de la IA en el trabajo, incluyendo informes de organizaciones como la OIT y el WEF, así como artículos de investigación publicados en revistas académicas y análisis de medios de comunicación especializados. Se ha prestado especial atención a las tendencias actuales en la automatización y sus repercusiones en la fuerza laboral.

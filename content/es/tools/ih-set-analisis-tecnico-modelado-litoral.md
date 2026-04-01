@@ -65,6 +65,8 @@ A medida que las ciudades costeras como Barcelona, Vigo y Cádiz enfrentan un fu
 
 *Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este artículo se basa en una revisión de literatura científica, informes de organismos gubernamentales y estudios de expertos en gestión costera y medio ambiente. Las cifras de inversión y proyecciones climáticas se han obtenido de fuentes oficiales y estudios académicos relevantes, incluyendo el trabajo del IHCantabria y Ecologistas en Acción.

@@ -50,6 +50,8 @@ El éxito de su carrera dependerá no solo de su habilidad para recuperarse de l
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se ha elaborado utilizando una combinación de datos estadísticos sobre el historial de lesiones de Dani Olmo, informes financieros sobre el impacto de su fichaje en el FC Barcelona y opiniones de expertos en salud deportiva y análisis financiero. Las fuentes incluyen informes de medios deportivos como [beIN SPORTS](https://www.beinsports.com), análisis de mercado y datos de la página de transferencias de futbolistas. Además, se han considerado opiniones de aficionados y comentarios en redes sociales para comprender la percepción pública del jugador.

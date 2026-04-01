@@ -77,6 +77,8 @@ The rise of AI marriages underscores our innate yearning for connection and the 
 
 *Aviso Editorial:* For informational purposes only.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources
 
 This analysis synthesizes insights from various sources, including academic literature on technology and relationships, expert opinions from recognized authorities in the field, and anecdotal evidence from online communities. The perspectives presented reflect a range of views on the implications of AI companionships, highlighting both potential benefits and challenges.

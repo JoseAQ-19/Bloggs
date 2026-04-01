@@ -93,6 +93,8 @@ Es fundamental que tomemos conciencia de esta realidad y actuemos para proteger 
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este análisis se basa en una revisión de literatura académica y reportes de investigaciones sobre la influencia de la tecnología en la sociedad contemporánea. Se han consultado fuentes como "La era del capitalismo de la vigilancia" de Shoshana Zuboff, estudios de MIT Technology Review, y artículos de Reuters y IEEE sobre el impacto de los algoritmos en la vida cotidiana.

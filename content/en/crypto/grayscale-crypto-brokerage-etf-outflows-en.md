@@ -1,18 +1,22 @@
 ---
-title: "Grayscale's $17 Billion Nightmare: Can New Crypto Brokerage Stop The Bleeding?"
-date: 2026-03-21T17:55:32
-draft: false
-description: "Grayscale's GBTC outflows hit $17B! Is a new crypto brokerage the answer? Can it stem the tide & restore investor confidence amidst mounting pressure?."
-featured_image: "/images/grayscale-crypto-brokerage-etf-outflows-en.jpg"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "cedec4db-0f6f-f5ce-a3cc-173a3838929f"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- crypto
+date: 2026-03-21 17:55:32
+description: Grayscale's GBTC outflows hit $17B! Is a new crypto brokerage the answer?
+  Can it stem the tide & restore investor confidence amidst mounting pressure?.
+draft: false
+featured_image: /images/grayscale-crypto-brokerage-etf-outflows-en.jpg
+language: en
+tags:
+- Crypto & Web3
+title: 'Grayscale''s $17 Billion Nightmare: Can New Crypto Brokerage Stop The Bleeding?'
+translationKey: cedec4db-0f6f-f5ce-a3cc-173a3838929f
+type: crypto
 ---
-**📊 Resumen Ejecutivo / Executive Summary (TL;DR):**
+
+** Resumen Ejecutivo / Executive Summary (TL;DR):**
 - **GBTC Outflows**: Over $17 billion has exited Grayscale’s Bitcoin Trust since its ETF conversion, primarily driven by a high 1.5% expense ratio.
 - **AUM Erosion**: Assets under management have plummeted from nearly $29 billion to approximately $26 billion in under 90 days.
 - **Institutional Flight**: Fiduciary duties are forcing major wealth managers to migrate clients to lower-cost spot ETF alternatives like BlackRock and Fidelity.

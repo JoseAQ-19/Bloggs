@@ -62,6 +62,8 @@ Es imperativo que las organizaciones deportivas, clubes y federaciones reconozca
 
 *Aviso Editorial:* Información educativa. Consulte especialistas.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Para la elaboración de este artículo, se han utilizado datos de diversas fuentes confiables, incluyendo estudios académicos, informes de organizaciones de salud mental y estadísticas de instituciones deportivas. Se ha realizado un análisis crítico de la situación actual de la salud mental en el deporte, con un enfoque particular en la experiencia de los atletas de élite.

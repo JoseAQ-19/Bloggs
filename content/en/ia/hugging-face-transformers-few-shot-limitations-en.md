@@ -76,6 +76,8 @@ The healthcare AI chatbots boasting 98% accuracy may achieve such results under 
 
 *Aviso Editorial:* For informational purposes only.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources
 
 This article synthesizes information from various sources, including academic papers, industry reports, and expert opinions, to analyze the current state of Hugging Face Transformers and the implications of few-shot learning. Key references include:

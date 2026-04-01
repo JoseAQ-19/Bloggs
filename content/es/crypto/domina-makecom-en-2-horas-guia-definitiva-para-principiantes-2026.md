@@ -83,6 +83,8 @@ En conclusión, la automatización no es una solución mágica. Las empresas deb
 
 *Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Metodología y Fuentes
 
 Este artículo se basa en un análisis crítico de la literatura existente sobre automatización y herramientas como Make.com, así como estudios de casos y estadísticas de organizaciones reconocidas como MIT Technology Review y IEEE. Se ha realizado una revisión exhaustiva de las mejores prácticas en automatización y la efectividad de diversas herramientas en el mercado.

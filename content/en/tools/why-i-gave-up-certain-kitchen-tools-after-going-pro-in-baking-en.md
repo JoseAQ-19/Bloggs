@@ -79,6 +79,8 @@ The decision to discard seven baking tools was not merely an act of minimalism; 
 
 *Aviso Editorial:* For informational purposes only. This article is not intended as professional advice for baking or kitchen organization.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources
 
 This analysis draws on a combination of personal experience, industry insights, and statistical data from reputable sources such as the American Baking Association, Cookware Insights, and research conducted by Kitchenware Review. The findings underscore the importance of maintaining an efficient baking environment that prioritizes functionality and creativity.
