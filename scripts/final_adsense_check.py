@@ -3,7 +3,8 @@ import re
 import frontmatter
 
 def final_adsense_check():
-    print("🕵️‍♂️ INICIANDO AUDITORÍA FINAL ADSENSE...")
+    # Keep CLI output ASCII-only to avoid Windows encoding issues
+    print("[CHECK] INICIANDO AUDITORIA FINAL ADSENSE...")
     
     # 1. VOLUMEN
     total_posts = 0
@@ -34,21 +35,21 @@ def final_adsense_check():
                     
             except: pass
             
-    print(f"\n📚 VOLUMEN DE CONTENIDO:")
-    print(f"   Total Artículos: {total_posts}")
+    print("\nVOLUMEN DE CONTENIDO:")
+    print(f"   Total Articulos: {total_posts}")
     print(f"   H1 Duplicados: {h1_fails}")
     print(f"   Thin Content (<300w): {thin_content}")
 
-    # 2. PÁGINAS LEGALES
+    # 2. PAGINAS LEGALES
     legal_pages = ["about.md", "contact.md", "privacy.md"]
-    print(f"\n⚖️ PÁGINAS LEGALES:")
+    print("\nPAGINAS LEGALES:")
     for page in legal_pages:
         path = f"content/{page}"
         if os.path.exists(path):
             size = os.path.getsize(path)
-            print(f"   ✅ {page} (Existe, {size} bytes)")
+            print(f"   OK {page} (Existe, {size} bytes)")
         else:
-            print(f"   ❌ {page} (NO EXISTE - RECHAZO SEGURO)")
+            print(f"   MISSING {page} (NO EXISTE - RECHAZO SEGURO)")
 
 if __name__ == "__main__":
     final_adsense_check()
