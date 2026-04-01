@@ -1,17 +1,27 @@
 ---
-title: "Odio 24/7: Violeta Mangriñán y La Salud Mental Que Las Redes Destrozan."
-date: 2026-02-28T20:41:51
-draft: false
-description: "Violeta Mangriñán expone su lucha contra la ansiedad. Analizamos cómo el odio online constante impacta la salud mental de influencers y jóvenes. ¿Es."
-featured_image: "/images/violeta-mangrinan-hate-online-fama.jpg"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "db6fa28e-cd71-ab33-45cb-5e05bf8e608e"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- viral
+date: 2026-02-28 20:41:51
+description: Violeta Mangriñán expone su lucha contra la ansiedad. Analizamos cómo
+  el odio online constante impacta la salud mental de influencers y jóvenes. ¿Es.
+draft: false
+featured_image: /images/violeta-mangrinan-hate-online-fama.jpg
+language: es
+tags:
+- Viral & Trends
+title: 'Odio 24/7: Violeta Mangriñán y La Salud Mental Que Las Redes Destrozan.'
+translationKey: db6fa28e-cd71-ab33-45cb-5e05bf8e608e
+type: viral
 ---
+
+## Resumen Ejecutivo (TL;DR)
+
+* ![Odio 24/7: Violeta Mangriñán y La Salud Mental Que Las Redes Destrozan.](/images/violeta-mangrinan-hate-online-fama.jpg)
+
+Violeta Mangriñán no está sola: el 60% de las jóvenes españolas han experimentado violencia sexual digital, incluyendo acoso relacionado con su apariencia física....
+
 ![Odio 24/7: Violeta Mangriñán y La Salud Mental Que Las Redes Destrozan.](/images/violeta-mangrinan-hate-online-fama.jpg)
 
 Violeta Mangriñán no está sola: el 60% de las jóvenes españolas han experimentado violencia sexual digital, incluyendo acoso relacionado con su apariencia física.
@@ -89,3 +99,7 @@ El odio en línea no es una forma legítima de crítica, sino una violencia psic
 - **El Confidencial - La activista que sufrió 'deepfakes' exige anonimato trazable y regulación al Gobierno**
 - **Infosalus - Adicción a redes sociales: síntomas de ansiedad, depresión y agresividad**
 - **UNICEF España - Estudio sobre infancia y uso de redes sociales en 2023**
+
+---
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

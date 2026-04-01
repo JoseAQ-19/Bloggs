@@ -1,17 +1,28 @@
 ---
-title: "Premios Morningstar 2026: Inbursa, el factor clave de su consistencia y un Ratio de Sharpe de 1.5."
-date: 2026-03-22T07:11:38
-draft: false
-description: "Inbursa triunfa en Premios Morningstar 2026: analizamos su consistencia, destacando su gestión y un Sharpe Ratio de 1.5. Descubre las claves de su éxito."
-featured_image: "/images/premios-morningstar-2026-inbursa-el-factor-clave-de-su-consistencia-y-un-ratio-d.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "93aab363-d3c9-4c9d-95d7-31490314ae2c"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- funds
+date: 2026-03-22 07:11:38
+description: 'Inbursa triunfa en Premios Morningstar 2026: analizamos su consistencia,
+  destacando su gestión y un Sharpe Ratio de 1.5. Descubre las claves de su éxito.'
+draft: false
+featured_image: /images/premios-morningstar-2026-inbursa-el-factor-clave-de-su-consistencia-y-un-ratio-d.jpg
+language: es
+tags:
+- Funds & Stocks
+title: 'Premios Morningstar 2026: Inbursa, el factor clave de su consistencia y un
+  Ratio de Sharpe de 1.5.'
+translationKey: 93aab363-d3c9-4c9d-95d7-31490314ae2c
+type: funds
 ---
+
+## Resumen Ejecutivo (TL;DR)
+
+* ![Premios Morningstar 2026: Inbursa, el factor clave de su consistencia y un Ratio de Sharpe de 1.5.](/images/premios-morningstar-2026-inbursa-el-factor-clave-de-su-consistencia-y-un-ratio-d.jpg)
+
+**El 62,5% de los fondos de inversión en México no superan el rendimiento del índice S&P/BMV IPC.** Est...
+
 ![Premios Morningstar 2026: Inbursa, el factor clave de su consistencia y un Ratio de Sharpe de 1.5.](/images/premios-morningstar-2026-inbursa-el-factor-clave-de-su-consistencia-y-un-ratio-d.jpg)
 
 **El 62,5% de los fondos de inversión en México no superan el rendimiento del índice S&P/BMV IPC.** Esta incapacidad de superar el índice de referencia plantea interrogantes sobre la gestión activa en el mercado mexicano.
@@ -85,8 +96,8 @@ El BTG ALFA se presenta como una opción atractiva dentro del mercado de fondos 
 
 ---
 
-⚠️ **IMPORTANTE DISCLAIMER:** Este artículo sobre fondos de inversión tiene únicamente carácter informativo y educativo. No constituye recomendación de inversión ni asesoramiento financiero. Los fondos de inversión conllevan riesgos, incluyendo la posible pérdida del capital invertido. Los rendimientos pasados no son indicativos de resultados futuros. Antes de invertir, lea el folleto informativo disponible en la página web de la entidad, donde se detallan los riesgos asociados. Consulte con un asesor financiero independiente. Además, infórmese sobre las implicaciones fiscales de la inversión en fondos antes de tomar una decisión. [Enlace al BOE sobre fiscalidad de fondos de inversión](https://www.boe.es/)
----
+*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto calificado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+## Metodología y Fuentes
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

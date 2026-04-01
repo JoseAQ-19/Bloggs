@@ -1,17 +1,28 @@
 ---
-title: "Hank Green's YouTube Nightmare: 170 Million Dollar COPPA Fine Haunts All Creators"
-date: 2026-03-22T19:42:05
-draft: false
-description: "Hank Green's COPPA woes spotlight a YouTube crisis: a potential $170 million fine! Explore how this landmark case impacts all content creators & kids'."
-featured_image: "/images/hank-green-youtube-ethics-impact-over-income-en.jpg"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "29a24c24-a0db-06e0-dfa8-6a07175cf0a4"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- youtube
+date: 2026-03-22 19:42:05
+description: 'Hank Green''s COPPA woes spotlight a YouTube crisis: a potential $170
+  million fine! Explore how this landmark case impacts all content creators & kids''.'
+draft: false
+featured_image: /images/hank-green-youtube-ethics-impact-over-income-en.jpg
+language: en
+tags:
+- Creator Economy
+title: 'Hank Green''s YouTube Nightmare: 170 Million Dollar COPPA Fine Haunts All
+  Creators'
+translationKey: 29a24c24-a0db-06e0-dfa8-6a07175cf0a4
+type: youtube
 ---
+
+## Executive Summary (TL;DR)
+
+* ![Hank Green's YouTube Nightmare: 170 Million Dollar COPPA Fine Haunts All Creators](/images/hank-green-youtube-ethics-impact-over-income-en.jpg)
+
+YouTube's $170 million COPPA settlement isn't just a legal headache—it's a financial guillotine hanging over every creator's neck....
+
 ![Hank Green's YouTube Nightmare: 170 Million Dollar COPPA Fine Haunts All Creators](/images/hank-green-youtube-ethics-impact-over-income-en.jpg)
 
 YouTube's $170 million COPPA settlement isn't just a legal headache—it's a financial guillotine hanging over every creator's neck.
@@ -131,3 +142,9 @@ The solution is clear: creators must diversify their income streams and platform
 ### Related Articles
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
 - [Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](/en/youtube/youtube-sports-subscription-live-streaming-en/)
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Methodology and Sources
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

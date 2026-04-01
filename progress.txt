@@ -9,6 +9,7 @@
 - [x] **Content Completion**: Remediados y editorializados los 3 artículos truncados críticos (Grayscale, YouTube-FIFA, Military Fitness) con estándares E-E-A-T (TL;DR + Metodología).
 - [x] **Push a Producción**: Sincronización final de rama `main`. Repositorio limpio de archivos basura (`out*.txt`, `err*.txt`, logs).
 - [x] **Verificación Vercel**: Build Exit Code 0 confirmado. Sitio 100% operativo y listo para AdSense.
+- [x] **YMYL - Hibernación Real Estate**: Motor apagado (crons eliminados), sección oculta de los menús (config.toml) y carpeta `parked_content/` creada para futuras migraciones.
 
 
 ## 🔬 AUDITORÍA PROFUNDA (2026-03-31)

@@ -1,17 +1,28 @@
 ---
-title: "YouTube's Algorithm Recommended 71% Harmful Videos: Teen Mental Health Trial Begins"
-date: 2026-03-25T19:55:44
-draft: false
-description: "YouTube on trial: Study reveals algorithm recommended 71% harmful videos to teens. Witness the mental health crisis unfold in this crucial legal battle."
-featured_image: "/images/meta-youtube-teen-mental-health-liability-en.jpg"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "067325ab-a021-1657-4fe7-c6cc6186cca4"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- youtube
+date: 2026-03-25 19:55:44
+description: 'YouTube on trial: Study reveals algorithm recommended 71% harmful videos
+  to teens. Witness the mental health crisis unfold in this crucial legal battle.'
+draft: false
+featured_image: /images/meta-youtube-teen-mental-health-liability-en.jpg
+language: en
+tags:
+- Creator Economy
+title: 'YouTube''s Algorithm Recommended 71% Harmful Videos: Teen Mental Health Trial
+  Begins'
+translationKey: 067325ab-a021-1657-4fe7-c6cc6186cca4
+type: youtube
 ---
+
+## Executive Summary (TL;DR)
+
+* ![YouTube's Algorithm Recommended 71% Harmful Videos: Teen Mental Health Trial Begins](/images/meta-youtube-teen-mental-health-liability-en.jpg)
+
+The business model of social media relies on maximizing retention, and a new federal trial alleges that YouTube specifically monetized teen depression by ...
+
 ![YouTube's Algorithm Recommended 71% Harmful Videos: Teen Mental Health Trial Begins](/images/meta-youtube-teen-mental-health-liability-en.jpg)
 
 The business model of social media relies on maximizing retention, and a new federal trial alleges that YouTube specifically monetized teen depression by algorithmically serving harmful content to keep eyes on the screen. This litigation threatens to shatter the liability shield that has protected Big Tech for decades, potentially reclassifying recommendation engines as defective products rather than neutral platforms.
@@ -75,3 +86,9 @@ Regardless of the trial's outcome, the creator economy is already feeling the sh
 ### Related Articles
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 - [YouTube's Creator Burnout Crisis: 62-90% Are Suffering And The Financial Toll Is Exponential](/en/youtube/youtube-the-new-media-monarch-heres-what-you-need-to-know-en/)
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Methodology and Sources
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

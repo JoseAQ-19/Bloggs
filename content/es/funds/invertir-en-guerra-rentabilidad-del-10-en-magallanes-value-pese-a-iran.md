@@ -1,17 +1,27 @@
 ---
-title: "Invertir en guerra: Rentabilidad del 10% en 'Magallanes Value' pese a Irán"
-date: 2026-03-25T07:21:32
-draft: false
-description: "Magallanes Value desafía la guerra. Análisis de su rentabilidad del 10% pese a Irán. Descubre la estrategia que impulsa este fondo incluso en la crisis.."
-featured_image: "/images/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "9a5f6180-76cd-eb7e-a597-6645034535ff"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- funds
+date: 2026-03-25 07:21:32
+description: Magallanes Value desafía la guerra. Análisis de su rentabilidad del 10%
+  pese a Irán. Descubre la estrategia que impulsa este fondo incluso en la crisis..
+draft: false
+featured_image: /images/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran.jpg
+language: es
+tags:
+- Funds & Stocks
+title: 'Invertir en guerra: Rentabilidad del 10% en ''Magallanes Value'' pese a Irán'
+translationKey: 9a5f6180-76cd-eb7e-a597-6645034535ff
+type: funds
 ---
+
+## Resumen Ejecutivo (TL;DR)
+
+* ![Invertir en guerra: Rentabilidad del 10% en 'Magallanes Value' pese a Irán](/images/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran.jpg)
+
+**El 10% de rentabilidad en 'Magallanes Value' pese a la incertidumbre geopolítica**...
+
 ![Invertir en guerra: Rentabilidad del 10% en 'Magallanes Value' pese a Irán](/images/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran.jpg)
 
 **El 10% de rentabilidad en 'Magallanes Value' pese a la incertidumbre geopolítica**
@@ -127,8 +137,8 @@ Magallanes Value invierte en acciones de alta calidad con un enfoque de valor. E
 
 ---
 
-⚠️ **IMPORTANTE DISCLAIMER:** Este artículo sobre fondos de inversión tiene únicamente carácter informativo y educativo. No constituye recomendación de inversión ni asesoramiento financiero. Los fondos de inversión conllevan riesgos, incluyendo la posible pérdida del capital invertido. Los rendimientos pasados no son indicativos de resultados futuros. Antes de invertir, lea el folleto informativo disponible en la página web de la entidad, donde se detallan los riesgos asociados. Consulte con un asesor financiero independiente.
----
+*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto calificado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+## Metodología y Fuentes
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

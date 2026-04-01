@@ -118,7 +118,7 @@ FRAMEWORK COGNITIVO (OBLIGATORIO):
 
 DISCLAIMER OBLIGATORIO (INYECTAR AL FINAL DE CADA ARTÍCULO):
 Al final del artículo, ANTES de "Nuestra lectura", incluye SIEMPRE esta línea en cursiva:
-*La inversión en criptoactivos no está regulada, puede no ser adecuada para inversores minoristas y perderse la totalidad del importe invertido. Es importante leer y comprender los riesgos de esta inversión.*
+*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 PALABRAS Y FRASES VETADAS:
 - "Aquí está el texto reescrito" (!!)
@@ -143,7 +143,7 @@ COGNITIVE FRAMEWORK (MANDATORY):
 
 FINANCIAL DISCLAIMER (MANDATORY AT END OF EVERY ARTICLE):
 Always include this disclaimer in italics before the closing section:
-*This article is for informational purposes only and should not be considered financial advice. Cryptocurrency investments are volatile and carry significant risk. Always do your own research before making any investment decisions.*
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 MINIMUM LENGTH: 1500 words. Articles under 1200 words are AUTOMATICALLY REJECTED.
 
@@ -176,7 +176,7 @@ FRAMEWORK DE CONTENIDO (OBLIGATORIO PARA ECONOMÍA/FONDOS):
 - Si el dato no existe, escribe "sin datos verificables".
 
 DISCLAIMER OBLIGATORIO (ESPAÑOL - INYECTAR AL FINAL DEL ARTÍCULO):
-*La inversión en fondos y mercados financieros conlleva riesgos significativos. Este contenido es puramente informativo y no constituye asesoramiento financiero. Rentabilidades pasadas no garantizan rentabilidades futuras.*
+*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 LONGITUD MÍNIMA: 1500 palabras.
 """
@@ -196,7 +196,7 @@ COGNITIVE FRAMEWORK (MANDATORY FOR FUNDS/ECONOMY):
 - If data is missing, state "no verifiable data available."
 
 MANDATORY DISCLAIMER (ENGLISH - INJECT AT THE END OF THE ARTICLE):
-*Investing in funds and financial markets carries significant risk. This content is for informational purposes only and does not constitute investment advice. Past performance is not indicative of future results.*
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 MINIMUM LENGTH: 1500 words.
 """
@@ -435,7 +435,7 @@ PALABRAS Y FRASES VETADAS:
 2. PROHIBIDO INVENTAR CIFRAS: Si no tienes un dato verificable del INE, FRED, Banco de España o Registro de la Propiedad, escribe explícitamente "dato no disponible" o "sin datos verificables". NUNCA alucines precios, tipos de interés o rentabilidades.
 3. CITAR SIEMPRE LA FUENTE: Cada cifra DEBE ir acompañada de la fuente entre paréntesis (Ej: "según el INE, Q1 2026"). Una cifra sin fuente = RECHAZO AUTOMÁTICO.
 4. DISCLAIMER LEGAL OBLIGATORIO (INYECTAR AL FINAL DE CADA ARTÍCULO): Antes de la última sección, incluye SIEMPRE esta línea en cursiva:
-*Este artículo es meramente informativo y no constituye asesoramiento financiero, fiscal ni inmobiliario. Las decisiones de inversión en vivienda conllevan riesgos significativos. Consulte siempre con un profesional cualificado antes de tomar decisiones financieras. NovumWorld no se responsabiliza de pérdidas derivadas del uso de esta información.*
+*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 MINIMUM LENGTH: 1500 words. Articles under 1200 words are AUTOMATICALLY REJECTED.
 """
@@ -467,7 +467,7 @@ BANNED WORDS AND PHRASES:
 2. NO FABRICATED DATA: If you lack a verifiable data point from FRED, FHFA, Census Bureau, or Case-Shiller, explicitly write "data not available" or "no verifiable data". NEVER hallucinate prices, interest rates, or yields.
 3. ALWAYS CITE THE SOURCE: Every figure MUST be accompanied by its source in parentheses (Ex: "according to FRED, Q1 2026"). A figure without a source = AUTOMATIC REJECTION.
 4. MANDATORY LEGAL DISCLAIMER (INJECT AT END OF EVERY ARTICLE): Before the closing section, ALWAYS include this line in italics:
-*This article is for informational purposes only and does not constitute financial, tax, or real estate advice. Real estate investment decisions carry significant risks. Always consult a qualified professional before making financial decisions. NovumWorld is not responsible for losses resulting from the use of this information.*
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 MINIMUM LENGTH: 1500 words. Articles under 1200 words are AUTOMATICALLY REJECTED.
 """

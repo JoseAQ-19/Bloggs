@@ -1,17 +1,27 @@
 ---
-title: "AI Hallucinations Are Infecting Courts: Justice System Faces Total Collapse."
-date: 2026-03-11T09:57:29
-draft: false
-description: "AI's lies are infiltrating courtrooms. Hallucinations in evidence & legal arguments threaten wrongful convictions and erode trust. Is justice on the brink."
-featured_image: "/images/ai-court-justice-secrets-en.jpg"
-tags: ["Novum Tools"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "a094a3ee-4dcc-cdb7-af3e-67c01c9696f7"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- tools
+date: 2026-03-11 09:57:29
+description: AI's lies are infiltrating courtrooms. Hallucinations in evidence & legal
+  arguments threaten wrongful convictions and erode trust. Is justice on the brink.
+draft: false
+featured_image: /images/ai-court-justice-secrets-en.jpg
+language: en
+tags:
+- Novum Tools
+title: 'AI Hallucinations Are Infecting Courts: Justice System Faces Total Collapse.'
+translationKey: a094a3ee-4dcc-cdb7-af3e-67c01c9696f7
+type: tools
 ---
+
+## Executive Summary (TL;DR)
+
+* ![AI Hallucinations Are Infecting Courts: Justice System Faces Total Collapse.](/images/ai-court-justice-secrets-en.jpg)
+
+AI hallucinations are already impacting court cases, undermining the very foundation of justice....
+
 ![AI Hallucinations Are Infecting Courts: Justice System Faces Total Collapse.](/images/ai-court-justice-secrets-en.jpg)
 
 AI hallucinations are already impacting court cases, undermining the very foundation of justice.
@@ -54,3 +64,9 @@ Nearly 26% of legal firms are actively using generative AI tools, raising the po
 The legal system needs a radical overhaul of evidence admissibility standards to account for AI, or miscarriages of justice will become commonplace. The current approach, characterized by a low bar for authentication and a lack of critical scrutiny, is simply unsustainable in the face of increasingly sophisticated AI manipulation. Only by demanding full transparency and independent verification of all AI-generated evidence, regardless of its apparent persuasiveness, can we hope to preserve the integrity of the legal system and safeguard against AI-driven injustice.
 
 Truth lost in the machine. **AI's role in the courtroom** demands a new legal risk management strategy. The ethical implications, as highlighted by the **American Bar Association**, are too significant to ignore. [Deepfakes on trial](https://www.facia.ai/blog/deepfakes-threat-in-courtrooms-and-how-to-stop-them/) require vigilant countermeasures.
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Methodology and Sources
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

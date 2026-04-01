@@ -1,17 +1,27 @@
 ---
-title: "Guerra Irán: ¿Golpe del 5% a ING, Santander y BBVA? Impacto real en fondos."
-date: 2026-03-09T07:26:49
-draft: false
-description: "¿Irán afecta tus fondos ING, Santander o BBVA? Analizamos el impacto real de la guerra en la rentabilidad. Descubre cómo proteger tu inversión."
-featured_image: "/images/guerra-iran-golpe-del-5-a-ing-santander-y-bbva-impacto-real-en-fondos.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "10b5e27b-5a84-e87c-cd02-63a2e1cb3562"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- funds
+date: 2026-03-09 07:26:49
+description: ¿Irán afecta tus fondos ING, Santander o BBVA? Analizamos el impacto
+  real de la guerra en la rentabilidad. Descubre cómo proteger tu inversión.
+draft: false
+featured_image: /images/guerra-iran-golpe-del-5-a-ing-santander-y-bbva-impacto-real-en-fondos.jpg
+language: es
+tags:
+- Funds & Stocks
+title: 'Guerra Irán: ¿Golpe del 5% a ING, Santander y BBVA? Impacto real en fondos.'
+translationKey: 10b5e27b-5a84-e87c-cd02-63a2e1cb3562
+type: funds
 ---
+
+## Resumen Ejecutivo (TL;DR)
+
+* ![Guerra Irán: ¿Golpe del 5% a ING, Santander y BBVA? Impacto real en fondos.](/images/guerra-iran-golpe-del-5-a-ing-santander-y-bbva-impacto-real-en-fondos.jpg)
+
+La escalada de tensión en Oriente Medio, tras los recientes ataques entre Irán e Israel, ha inyectado volatilidad en los mercados, con an...
+
 ![Guerra Irán: ¿Golpe del 5% a ING, Santander y BBVA? Impacto real en fondos.](/images/guerra-iran-golpe-del-5-a-ing-santander-y-bbva-impacto-real-en-fondos.jpg)
 
 La escalada de tensión en Oriente Medio, tras los recientes ataques entre Irán e Israel, ha inyectado volatilidad en los mercados, con analistas de Bloomberg anticipando un posible desplome del 5% en la cotización de bancos españoles con exposición internacional. ¿Es momento de refugio o de oportunidad?
@@ -89,13 +99,14 @@ Eso sí, recordad: en la jungla financiera, solo sobreviven los más despiadados
 
 ---
 
-⚠️ **IMPORTANTE DISCLAIMER:** Este artículo sobre fondos de inversión tiene únicamente carácter informativo y educativo. No constituye recomendación de inversión ni asesoramiento financiero. Los fondos de inversión conllevan riesgos, incluyendo la posible pérdida del capital invertido. Los rendimientos pasados no son indicativos de resultados futuros. Antes de invertir, lea el folleto informativo disponible en la página web de la entidad, donde se detallan los riesgos asociados. Consulte con un asesor financiero independiente.
-
 Artículos Relacionados:
 * [¿Es el S&P 500 una burbuja a punto de estallar?](https://www.eleconomista.es/mercados-cotizaciones/noticias/12751718/04/24/Es-el-S-P-500-una-burbuja-a-punto-de-estallar.html)
 * [¿Qué es el Nasdaq 100 y cómo invertir?](https://www.bbvaassetmanagement.com/blog/que-es-nasdaq-100-como-invertir)
 * [¿Cómo proteger tu cartera de inversión ante la inflación?](https://www.expansion.com/mercados/2024/01/26/65b3919ae5fdea79518b4584.html)
 ---
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto calificado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+
+## Metodología y Fuentes
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

@@ -1,17 +1,28 @@
 ---
-title: "Jeopardy! Host's YouTube Nightmare: $36 Billion Ad Revenue Masks a Free Speech Crisis"
-date: 2026-03-12T17:39:30
-draft: false
-description: "Did Mike Richards' past YouTube content reflect poorly on Jeopardy!? Explore the complex clash between massive ad revenue, free speech, and corporate."
-featured_image: "/images/youtube-hate-speech-policy-jeopardy-podcast-en.jpg"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "1c707f51-9806-5b5a-57fd-7637b85060d7"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- youtube
+date: 2026-03-12 17:39:30
+description: Did Mike Richards' past YouTube content reflect poorly on Jeopardy!?
+  Explore the complex clash between massive ad revenue, free speech, and corporate.
+draft: false
+featured_image: /images/youtube-hate-speech-policy-jeopardy-podcast-en.jpg
+language: en
+tags:
+- Creator Economy
+title: 'Jeopardy! Host''s YouTube Nightmare: $36 Billion Ad Revenue Masks a Free Speech
+  Crisis'
+translationKey: 1c707f51-9806-5b5a-57fd-7637b85060d7
+type: youtube
 ---
+
+## Executive Summary (TL;DR)
+
+* ![Jeopardy! Host's YouTube Nightmare: $36 Billion Ad Revenue Masks a Free Speech Crisis](/images/youtube-hate-speech-policy-jeopardy-podcast-en.jpg)
+
+YouTube's $36.1 billion ad revenue in 2024 masks a growing free speech crisis for its creators....
+
 ![Jeopardy! Host's YouTube Nightmare: $36 Billion Ad Revenue Masks a Free Speech Crisis](/images/youtube-hate-speech-policy-jeopardy-podcast-en.jpg)
 
 YouTube's $36.1 billion ad revenue in 2024 masks a growing free speech crisis for its creators.
@@ -70,3 +81,9 @@ It's time for creators to take control and build their own platforms and revenue
 Consider moving your content to a platform that allows greater autonomy.
 
 The platform giveth, and the platform taketh away.
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Methodology and Sources
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

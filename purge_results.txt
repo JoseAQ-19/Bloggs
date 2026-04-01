@@ -1,6 +1,0 @@
-========================================
-RESULTADOS DE LA PURGA DE ADSENSE
-Archivos limpiados (Scripts LD+JSON removidos): 242
-Artículos Purgados (Baja calidad/Flags): 632
-Artículos Sobrevivientes (Aprobados): 20
-========================================

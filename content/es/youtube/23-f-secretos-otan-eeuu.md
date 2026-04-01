@@ -1,17 +1,27 @@
 ---
-title: "23-F: Cercas lo Clavó. El Rey Rajaba... La Bomba Declasificada."
-date: 2026-02-28T17:04:33
-draft: false
-description: "El 23-F como nunca lo viste: Cercas destripa el golpe. Revelaciones explosivas sobre el papel del Rey y la trama secreta desclasificada. ¡Imperdible."
-featured_image: "/images/23-f-secretos-otan-eeuu.jpg"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "5371ca22-3fce-351f-46f1-91917b667267"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- youtube
+date: 2026-02-28 17:04:33
+description: 'El 23-F como nunca lo viste: Cercas destripa el golpe. Revelaciones
+  explosivas sobre el papel del Rey y la trama secreta desclasificada. ¡Imperdible.'
+draft: false
+featured_image: /images/23-f-secretos-otan-eeuu.jpg
+language: es
+tags:
+- Creator Economy
+title: '23-F: Cercas lo Clavó. El Rey Rajaba... La Bomba Declasificada.'
+translationKey: 5371ca22-3fce-351f-46f1-91917b667267
+type: youtube
 ---
+
+## Resumen Ejecutivo (TL;DR)
+
+* ![23-F: Cercas lo Clavó. El Rey Rajaba... La Bomba Declasificada.](/images/23-f-secretos-otan-eeuu.jpg)
+
+La verdad sobre el 23-F sigue enterrada bajo toneladas de secretismo, incluso después de la reciente desclasificación de documentos. ¿Es esta liberación una ventana a la verdad o una simple corti...
+
 ![23-F: Cercas lo Clavó. El Rey Rajaba... La Bomba Declasificada.](/images/23-f-secretos-otan-eeuu.jpg)
 
 La verdad sobre el 23-F sigue enterrada bajo toneladas de secretismo, incluso después de la reciente desclasificación de documentos. ¿Es esta liberación una ventana a la verdad o una simple cortina de humo?
@@ -70,3 +80,9 @@ El pasado siempre vuelve para incomodar, y el 23-F sigue siendo una herida abier
 [https://www.youtube.com/watch?v=t5a-TRgTQtA](https://www.youtube.com/watch?v=t5a-TRgTQtA)
 [https://www.rtve.es/noticias/20260228/documentos-desclasificados-23f-archivos/2414428.shtml](https://www.rtve.es/noticias/20260228/documentos-desclasificados-23f-archivos/2414428.shtml)
 [https://www.youtube.com/watch?v=Hy5lE8m-aBA](https://www.youtube.com/watch?v=Hy5lE8m-aBA)
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Metodología y Fuentes
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

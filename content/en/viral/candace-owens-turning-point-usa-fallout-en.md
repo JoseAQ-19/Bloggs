@@ -1,17 +1,27 @@
 ---
-title: "Candace Owens' Evil Scumbag Accusation: Inside TPUSA's $85 Million Meltdown"
-date: 2026-02-27T20:55:38
-draft: false
-description: "Candace Owens' explosive 'evil scumbag' claim ignites a firestorm at Turning Point USA. Uncover the truth behind the $85 million meltdown and internal."
-featured_image: "/images/candace-owens-turning-point-usa-fallout-en.jpg"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "5c82b628-5f5e-1803-3582-0e3d6161dc88"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- viral
+date: 2026-02-27 20:55:38
+description: Candace Owens' explosive 'evil scumbag' claim ignites a firestorm at
+  Turning Point USA. Uncover the truth behind the $85 million meltdown and internal.
+draft: false
+featured_image: /images/candace-owens-turning-point-usa-fallout-en.jpg
+language: en
+tags:
+- Viral & Trends
+title: 'Candace Owens'' Evil Scumbag Accusation: Inside TPUSA''s $85 Million Meltdown'
+translationKey: 5c82b628-5f5e-1803-3582-0e3d6161dc88
+type: viral
 ---
+
+## Executive Summary (TL;DR)
+
+* ![Candace Owens' Evil Scumbag Accusation: Inside TPUSA's $85 Million Meltdown](/images/candace-owens-turning-point-usa-fallout-en.jpg)
+
+The conservative movement is eating its own. Candace Owens' recent broadsides against Turning Point USA (TPUSA) have exposed deep fractures within the organization,...
+
 ![Candace Owens' Evil Scumbag Accusation: Inside TPUSA's $85 Million Meltdown](/images/candace-owens-turning-point-usa-fallout-en.jpg)
 
 The conservative movement is eating its own. Candace Owens' recent broadsides against Turning Point USA (TPUSA) have exposed deep fractures within the organization, threatening its future stability.
@@ -64,3 +74,9 @@ Without primary data to confirm donor sentiments, it is impossible to accurately
 The internal strife threatens the future viability of TPUSA. Donors should demand transparency and accountability from TPUSA leadership.
 
 When the pillars crumble, even empires fall.
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Methodology and Sources
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

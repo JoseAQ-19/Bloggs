@@ -1,19 +1,30 @@
 ---
-title: "Tom Scott Regresa a YouTube y Declara la Guerra a la Mediocridad Educativa STEM"
-date: 2026-03-29T19:07:41
-draft: false
-description: "Tom Scott vuelve a YouTube con fuerza, enfrentándose a la mediocridad educativa en STEM y ofreciendo contenido que inspira y desafía el aprendizaje."
-featured_image: "/images/el-regreso-de-tom-scott-la-leyenda-que-domino-youtube-por-una-decada.jpg"
-slug: "el-regreso-de-tom-scott-la-leyenda-que-domino-youtube-por-una-decada"
-canonical: "https://novumworld.com/es/youtube/el-regreso-de-tom-scott-la-leyenda-que-domino-youtube-por-una-decada/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "e242ff8e-53de-6735-c485-a2e68390ad5c"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+canonical: https://novumworld.com/es/youtube/el-regreso-de-tom-scott-la-leyenda-que-domino-youtube-por-una-decada/
+categories:
+- youtube
+date: 2026-03-29 19:07:41
+description: Tom Scott vuelve a YouTube con fuerza, enfrentándose a la mediocridad
+  educativa en STEM y ofreciendo contenido que inspira y desafía el aprendizaje.
+draft: false
+featured_image: /images/el-regreso-de-tom-scott-la-leyenda-que-domino-youtube-por-una-decada.jpg
+language: es
+slug: el-regreso-de-tom-scott-la-leyenda-que-domino-youtube-por-una-decada
+tags:
+- Creator Economy
+title: Tom Scott Regresa a YouTube y Declara la Guerra a la Mediocridad Educativa
+  STEM
+translationKey: e242ff8e-53de-6735-c485-a2e68390ad5c
+type: youtube
 ---
+
+## Resumen Ejecutivo (TL;DR)
+
+* ![Tom Scott Regresa a YouTube y Declara la Guerra a la Mediocridad Educativa STEM](/images/el-regreso-de-tom-scott-la-leyenda-que-domino-youtube-por-una-decada.jpg)
+
+**Tom Scott regresa a YouTube con una misión clara: acabar con la mediocridad en la educación STEM.** Este creador británico, con más ...
+
 ![Tom Scott Regresa a YouTube y Declara la Guerra a la Mediocridad Educativa STEM](/images/el-regreso-de-tom-scott-la-leyenda-que-domino-youtube-por-una-decada.jpg)
 
 **Tom Scott regresa a YouTube con una misión clara: acabar con la mediocridad en la educación STEM.** Este creador británico, con más de 6,67 millones de suscriptores, ha vuelto al ruedo tras dos años de pausa con un objetivo ambicioso: revolucionar la divulgación científica y tecnológica en la plataforma más grande de videos del mundo, desafiando tanto a sus algoritmos como a otros creadores.
@@ -110,3 +121,9 @@ El algoritmo de YouTube tiende a priorizar contenido viral y de entretenimiento,
 ### Artículos Relacionados
 - [La Alianza YouTube-FIFA: 5 Mil Millones de Espectadores En El Mundial 2026](/es/youtube/youtube-y-fifa-un-acuerdo-que-cambiara-la-forma-de-ver-el-mundial-2026/)
 - [YouTube Revive La Nostalgia: 7 Programas Icónicos De Los 2000s Que Regresan Con Fuerza](/es/youtube/youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto/)
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Metodología y Fuentes
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

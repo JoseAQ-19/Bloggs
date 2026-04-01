@@ -1,20 +1,30 @@
 ---
-
-title: "YouTube's Shocking $170 Million COPPA Violation Exposed: Kids Are Paying the Price"
-date: 2026-03-30T19:42:29
-draft: false
-description: "Discover the details behind YouTube's shocking $170 million COPPA violation and how it impacts children. Learn what this means for young viewers today."
-featured_image: "/images/youtube-addiction-copa-algorithm-scandals-en.jpg"
-slug: "youtube-addiction-copa-algorithm-scandals-en"
-canonical: "https://novumworld.com/youtube/youtube-addiction-copa-algorithm-scandals-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "891c738b-5423-7adb-1272-1a48b7a826ad"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+canonical: https://novumworld.com/youtube/youtube-addiction-copa-algorithm-scandals-en/
+categories:
+- youtube
+date: 2026-03-30 19:42:29
+description: Discover the details behind YouTube's shocking $170 million COPPA violation
+  and how it impacts children. Learn what this means for young viewers today.
+draft: false
+featured_image: /images/youtube-addiction-copa-algorithm-scandals-en.jpg
+language: en
+slug: youtube-addiction-copa-algorithm-scandals-en
+tags:
+- Creator Economy
+title: 'YouTube''s Shocking $170 Million COPPA Violation Exposed: Kids Are Paying
+  the Price'
+translationKey: 891c738b-5423-7adb-1272-1a48b7a826ad
+type: youtube
 ---
+
+## Executive Summary (TL;DR)
+
+* ![YouTube's Shocking $170 Million COPPA Violation Exposed: Kids Are Paying the Price](/images/youtube-addiction-copa-algorithm-scandals-en.jpg)
+
+YouTube treats children's data as a revenue stream, not a protected asset, and the $170 million COPPA settlement is merely a calculated business expense ra...
+
 ![YouTube's Shocking $170 Million COPPA Violation Exposed: Kids Are Paying the Price](/images/youtube-addiction-copa-algorithm-scandals-en.jpg)
 
 YouTube treats children's data as a revenue stream, not a protected asset, and the $170 million COPPA settlement is merely a calculated business expense rather than a deterrent.
@@ -97,10 +107,12 @@ Algorithmic radicalization occurs when the recommendation engine identifies a us
 
 The platform's strategy of prioritizing engagement over safety has turned a generation of children into data points, and the $170 million settlement is just the down payment on a much larger societal debt.
 
-
-
-
-
 ### Related Articles
 - [YouTube's Creator Burnout Crisis: 62-90% Are Suffering And The Financial Toll Is Exponential](/en/youtube/youtube-the-new-media-monarch-heres-what-you-need-to-know-en/)
 - [320,000 YouTube Users Screamed: What Google Is Hiding About The Outage.](/en/youtube/youtube-outage-2026-en/)
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Methodology and Sources
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

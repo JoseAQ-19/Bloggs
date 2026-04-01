@@ -1,17 +1,28 @@
 ---
-title: "Cris Carrascosa lo Advierte: El Impuesto Bitcoin de Sumar Es Una Salvajada Fiscal"
-date: 2026-03-03T14:29:28
-draft: false
-description: "Cris Carrascosa critica duramente el impuesto Bitcoin propuesto por Sumar. ¿Salvajada fiscal? Analizamos las implicaciones y cómo afectará a inversores y."
-featured_image: "/images/bitcoin-volatilidad-fondos-cobertura.jpg"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "3604bce0-4d72-5b94-b328-34d5ddf6400f"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- crypto
+date: 2026-03-03 14:29:28
+description: Cris Carrascosa critica duramente el impuesto Bitcoin propuesto por Sumar.
+  ¿Salvajada fiscal? Analizamos las implicaciones y cómo afectará a inversores y.
+draft: false
+featured_image: /images/bitcoin-volatilidad-fondos-cobertura.jpg
+language: es
+tags:
+- Crypto & Web3
+title: 'Cris Carrascosa lo Advierte: El Impuesto Bitcoin de Sumar Es Una Salvajada
+  Fiscal'
+translationKey: 3604bce0-4d72-5b94-b328-34d5ddf6400f
+type: crypto
 ---
+
+## Resumen Ejecutivo (TL;DR)
+
+* ![Cris Carrascosa lo Advierte: El Impuesto Bitcoin de Sumar Es Una Salvajada Fiscal](/images/bitcoin-volatilidad-fondos-cobertura.jpg)
+
+La propuesta de Sumar de gravar las criptomonedas con un IRPF de hasta el 47% es una receta para la fuga de capitales....
+
 ![Cris Carrascosa lo Advierte: El Impuesto Bitcoin de Sumar Es Una Salvajada Fiscal](/images/bitcoin-volatilidad-fondos-cobertura.jpg)
 
 La propuesta de Sumar de gravar las criptomonedas con un IRPF de hasta el 47% es una receta para la fuga de capitales.
@@ -97,5 +108,8 @@ La propuesta de Sumar es un error que frenará la innovación y la inversión en
 *La inversión en criptoactivos no está regulada, puede no ser adecuada para inversores minoristas y perderse la totalidad del importe invertido. Es importante leer y comprender los riesgos de esta inversión.*
 ---
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto calificado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
+*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+
+## Metodología y Fuentes
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

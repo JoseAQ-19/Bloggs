@@ -1,19 +1,30 @@
 ---
-title: "Iowa Churches Unite: 83 Congregations Break Away Over LGBTQ Rights And Cultural Marxism"
-date: 2026-03-30T11:53:18
-draft: false
-description: "Explore how 83 Iowa churches are uniting in a historic break over LGBTQ rights and cultural Marxism, sparking debate on faith and values."
-featured_image: "/images/iowan-churches-rally-a-bold-stand-against-controversial-issues-en.jpg"
-slug: "iowan-churches-rally-a-bold-stand-against-controversial-issues-en"
-canonical: "https://novumworld.com/ia/iowan-churches-rally-a-bold-stand-against-controversial-issues-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "586e0aa7-159e-be57-ebac-1984861a3fd6"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+canonical: https://novumworld.com/ia/iowan-churches-rally-a-bold-stand-against-controversial-issues-en/
+categories:
+- ia
+date: 2026-03-30 11:53:18
+description: Explore how 83 Iowa churches are uniting in a historic break over LGBTQ
+  rights and cultural Marxism, sparking debate on faith and values.
+draft: false
+featured_image: /images/iowan-churches-rally-a-bold-stand-against-controversial-issues-en.jpg
+language: en
+slug: iowan-churches-rally-a-bold-stand-against-controversial-issues-en
+tags:
+- IA & SaaS
+title: 'Iowa Churches Unite: 83 Congregations Break Away Over LGBTQ Rights And Cultural
+  Marxism'
+translationKey: 586e0aa7-159e-be57-ebac-1984861a3fd6
+type: ia
 ---
+
+## Executive Summary (TL;DR)
+
+* ![Iowa Churches Unite: 83 Congregations Break Away Over LGBTQ Rights And Cultural Marxism](/images/iowan-churches-rally-a-bold-stand-against-controversial-issues-en.jpg)
+
+The United Methodist Church is bleeding users in the Midwest, losing 83 Iowa congregations in a hostile split that looks less lik...
+
 ![Iowa Churches Unite: 83 Congregations Break Away Over LGBTQ Rights And Cultural Marxism](/images/iowan-churches-rally-a-bold-stand-against-controversial-issues-en.jpg)
 
 The United Methodist Church is bleeding users in the Midwest, losing 83 Iowa congregations in a hostile split that looks less like a theological schism and more like a desperate pivot to save a collapsing business model. This isn't just about scripture; it's a market correction where the "product" of traditional religion is failing to retain subscribers in a rapidly secularizing state.
@@ -91,3 +102,9 @@ Conservative leaders use "Cultural Marxism" as a framework to describe progressi
 ### Related Articles
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Methodology and Sources
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

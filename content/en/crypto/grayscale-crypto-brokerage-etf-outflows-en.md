@@ -59,6 +59,8 @@ Grayscale leadership has hinted at potential fee reductions in the future, but t
 ### Is GBTC still a safe investment?
 GBTC remains a regulated financial product, but from a cost-benefit perspective, it is currently one of the most expensive ways to gain spot Bitcoin exposure in the US market.
 
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Metodología y Fuentes / Methodology & Sources
 This analysis was conducted by auditing official **SEC Form 8-K** filings for Grayscale Bitcoin Trust (GBTC) and cross-referencing daily AUM data from **Morningstar** and **Bloomberg Intelligence**. Fee comparisons were sourced directly from the official prospectuses of iShares (BlackRock), Fidelity, and Ark Invest.
 
@@ -66,7 +68,3 @@ This analysis was conducted by auditing official **SEC Form 8-K** filings for Gr
 - [Clarity Act Stalls: Why Investors Are Stuck in Regulation Limbo](/en/crypto/clarity-act-stalls-crypto-regulation-limbo-en/)
 - [JPMorgan's Warning: Crypto Risk in 2026](/en/crypto/clarity-act-jpmorgan-crypto-risk-2026-en/)
 ---
-
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-

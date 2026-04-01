@@ -1,17 +1,27 @@
 ---
-title: "72 Million Data Points: YouTube's Child Tracking Nightmare Exposed In Indonesia"
-date: 2026-03-06T18:02:58
-draft: false
-description: "Unmasking YouTube's alarming child tracking practices in Indonesia. 72 million data points reveal potential privacy violations. Are children being."
-featured_image: "/images/indonesia-youtube-tiktok-ban-en.jpg"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "71d319a7-62ba-b8b3-1d43-79ccbc1fa054"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- youtube
+date: 2026-03-06 18:02:58
+description: Unmasking YouTube's alarming child tracking practices in Indonesia. 72
+  million data points reveal potential privacy violations. Are children being.
+draft: false
+featured_image: /images/indonesia-youtube-tiktok-ban-en.jpg
+language: en
+tags:
+- Creator Economy
+title: '72 Million Data Points: YouTube''s Child Tracking Nightmare Exposed In Indonesia'
+translationKey: 71d319a7-62ba-b8b3-1d43-79ccbc1fa054
+type: youtube
 ---
+
+## Executive Summary (TL;DR)
+
+* ![72 Million Data Points: YouTube's Child Tracking Nightmare Exposed In Indonesia](/images/indonesia-youtube-tiktok-ban-en.jpg)
+
+Indonesia's plan to ban YouTube for children under 16 exposes the platform's untenable business model that relies on harvesting 72 million data points per child by age 13....
+
 ![72 Million Data Points: YouTube's Child Tracking Nightmare Exposed In Indonesia](/images/indonesia-youtube-tiktok-ban-en.jpg)
 
 Indonesia's plan to ban YouTube for children under 16 exposes the platform's untenable business model that relies on harvesting 72 million data points per child by age 13.
@@ -74,3 +84,9 @@ The global shift toward regulation represents a fundamental challenge to YouTube
 Indonesia's stance is a harbinger of stricter global regulation of children's online safety; tech companies must prioritize ethical algorithm design and robust content moderation over engagement metrics at the expense of child development. Invest in technologies that prioritize user privacy and well-being over addictive design patterns.
 
 Time to choose your kids carefully.
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Methodology and Sources
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

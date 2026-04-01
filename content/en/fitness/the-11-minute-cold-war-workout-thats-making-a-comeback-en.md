@@ -68,7 +68,7 @@ Adopting an 11-minute daily habit is statistically the single most effective hea
 
 ---
 
-### Methodology & Sources
+## Methodology & Sources
 This analysis is based on the meta-analysis performed by the **University of Cambridge's Medical Research Council (MRC) Epidemiology Unit**, published in the *British Journal of Sports Medicine* (2023). Additional data on the 5BX program was retrieved from the **Royal Canadian Air Force (RCAF)** archives.
 
 **Direct Sources:**
@@ -78,9 +78,8 @@ This analysis is based on the meta-analysis performed by the **University of Cam
 
 ---
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional medical advice. Always consult with a qualified healthcare provider before beginning any new exercise program, especially if you have pre-existing health conditions. NovumWorld assumes no liability for actions taken based on the information provided here.
+#*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
-### Related Articles
+## Related Articles
 - [Biohacking Your Recovery: The $500 Ring That Claims To Replace Your Doctor](/en/fitness/oura-ring-sleep-latency-reading-en/)
 - [The Longevity Paradox: Why 'Getting Fit' Might Be Killing You (If Done Wrong)](/en/fitness/mortality-paradox-fitness-failure-en/)

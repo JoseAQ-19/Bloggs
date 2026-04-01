@@ -1,17 +1,28 @@
 ---
-title: "YouTube's Dirty Secret: Hate Speech Algorithm Targets 'Jeopardy!' Host After 4,000 Watch Hours."
-date: 2026-03-12T18:02:38
-draft: false
-description: "Is YouTube's hate speech algorithm biased? After 4,000 hours of viewing, it flagged beloved Jeopardy! host for alleged violations. Uncover the unsettling."
-featured_image: "/images/youtube-jeopardy-podcast-demonetization-hate-speech-en.jpg"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "de385bd9-798e-859f-7964-8eac49913d3c"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- youtube
+date: 2026-03-12 18:02:38
+description: Is YouTube's hate speech algorithm biased? After 4,000 hours of viewing,
+  it flagged beloved Jeopardy! host for alleged violations. Uncover the unsettling.
+draft: false
+featured_image: /images/youtube-jeopardy-podcast-demonetization-hate-speech-en.jpg
+language: en
+tags:
+- Creator Economy
+title: 'YouTube''s Dirty Secret: Hate Speech Algorithm Targets ''Jeopardy!'' Host
+  After 4,000 Watch Hours.'
+translationKey: de385bd9-798e-859f-7964-8eac49913d3c
+type: youtube
 ---
+
+## Executive Summary (TL;DR)
+
+* ![YouTube's Dirty Secret: Hate Speech Algorithm Targets 'Jeopardy!' Host After 4,000 Watch Hours.](/images/youtube-jeopardy-podcast-demonetization-hate-speech-en.jpg)
+
+YouTube's content moderation system is a high-stakes gamble for creators, where the promise of monetization clashes with the ever-pr...
+
 ![YouTube's Dirty Secret: Hate Speech Algorithm Targets 'Jeopardy!' Host After 4,000 Watch Hours.](/images/youtube-jeopardy-podcast-demonetization-hate-speech-en.jpg)
 
 YouTube's content moderation system is a high-stakes gamble for creators, where the promise of monetization clashes with the ever-present threat of algorithmic demonetization.
@@ -64,3 +75,9 @@ The implications of algorithmic censorship extend beyond mere comment removal. I
 YouTube needs to provide clearer guidelines and appeals processes for content creators flagged for "hate speech," ensuring a fair and transparent system to improve creator LTV. The lack of transparency and consistent enforcement undermines the trust creators have in the platform, ultimately hindering free expression.
 Demand transparency; reclaim your content.
 Silence isn't golden; it's algorithms gone rogue.
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Methodology and Sources
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

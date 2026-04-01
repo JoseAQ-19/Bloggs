@@ -1,17 +1,27 @@
 ---
-title: "T. Rowe Price Fund's $15.5 Billion Question: A Morningstar Review Analysis."
-date: 2026-03-10T07:35:53
-draft: false
-description: "Morningstar dissects T. Rowe Price's gargantuan fund. Is its massive size hindering performance? Our analysis explores strengths, weaknesses, & future."
-featured_image: "/images/t-rowe-price-funds-155-billion-question-a-morningstar-review-analysis-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "e3697daa-446e-d2df-9714-552f5d9d1a42"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- funds
+date: 2026-03-10 07:35:53
+description: Morningstar dissects T. Rowe Price's gargantuan fund. Is its massive
+  size hindering performance? Our analysis explores strengths, weaknesses, & future.
+draft: false
+featured_image: /images/t-rowe-price-funds-155-billion-question-a-morningstar-review-analysis-en.jpg
+language: en
+tags:
+- Funds & Stocks
+title: 'T. Rowe Price Fund''s $15.5 Billion Question: A Morningstar Review Analysis.'
+translationKey: e3697daa-446e-d2df-9714-552f5d9d1a42
+type: funds
 ---
+
+## Executive Summary (TL;DR)
+
+* ![T. Rowe Price Fund's $15.5 Billion Question: A Morningstar Review Analysis.](/images/t-rowe-price-funds-155-billion-question-a-morningstar-review-analysis-en.jpg)
+
+T. Rowe Price's $15.5 billion equity income fund has been placed under review by Morningstar, triggering heightened scrutiny from inve...
+
 ![T. Rowe Price Fund's $15.5 Billion Question: A Morningstar Review Analysis.](/images/t-rowe-price-funds-155-billion-question-a-morningstar-review-analysis-en.jpg)
 
 T. Rowe Price's $15.5 billion equity income fund has been placed under review by Morningstar, triggering heightened scrutiny from investors and analysts. The move comes as Morningstar evaluates changes to the fund's management team and the consistency of its investment strategy, according to the ratings agency's March 2026 regulatory filings. This is a significant event for one of the largest actively managed equity funds in the US market, with potential implications for the $1.1 trillion asset manager's reputation and investor confidence.
@@ -96,5 +106,8 @@ The future of active management depends on the ability of fund managers to adapt
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 ---
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Methodology and Sources
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

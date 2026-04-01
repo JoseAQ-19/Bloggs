@@ -1,17 +1,28 @@
 ---
-title: "Jeopardy! YouTube Gamble: $70 Billion Creator Payouts Hide A Dark Secret"
-date: 2026-03-26T20:07:16
-draft: false
-description: "Is YouTube's Jeopardy! content copyright infringement? A $70 billion payout hides a dark secret for creators and fans of America's favorite quiz show."
-featured_image: "/images/jeopardy-youtube-strategy-monetization-en.jpg"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "da387cad-bd56-553a-c3b7-64f8abd8c738"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- youtube
+date: 2026-03-26 20:07:16
+description: Is YouTube's Jeopardy! content copyright infringement? A $70 billion
+  payout hides a dark secret for creators and fans of America's favorite quiz show.
+draft: false
+featured_image: /images/jeopardy-youtube-strategy-monetization-en.jpg
+language: en
+tags:
+- Creator Economy
+title: 'Jeopardy! YouTube Gamble: $70 Billion Creator Payouts Hide A Dark Secret'
+translationKey: da387cad-bd56-553a-c3b7-64f8abd8c738
+type: youtube
 ---
+
+## Executive Summary (TL;DR)
+
+* ![Jeopardy! YouTube Gamble: $70 Billion Creator Payouts Hide A Dark Secret](/images/jeopardy-youtube-strategy-monetization-en.jpg)
+
+YouTube paid out $70 billion to creators in the three years leading up to January 2024, an average of just under $8,000 per creator.
+* YouTube paid out $70 billion to c...
+
 ![Jeopardy! YouTube Gamble: $70 Billion Creator Payouts Hide A Dark Secret](/images/jeopardy-youtube-strategy-monetization-en.jpg)
 
 YouTube paid out $70 billion to creators in the three years leading up to January 2024, an average of just under $8,000 per creator.
@@ -98,3 +109,9 @@ Trebek would be rolling in his grave if he knew that the show he built over deca
 ### Related Articles
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Methodology and Sources
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

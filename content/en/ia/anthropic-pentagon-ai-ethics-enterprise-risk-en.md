@@ -1,17 +1,27 @@
 ---
-title: "Anthropic Just Broke Trust: The Pentagon Fallout Nobody Is Talking About"
-date: 2026-03-01T09:41:37
-draft: false
-description: "Anthropic's Pentagon ties raise serious ethical questions. Did they compromise their AI safety charter? Uncover the hidden fallout and broken trust now."
-featured_image: "/images/anthropic-pentagon-ai-ethics-enterprise-risk-en.jpg"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "ceeecf73-af25-99d2-a4cc-8953cab3341f"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- ia
+date: 2026-03-01 09:41:37
+description: Anthropic's Pentagon ties raise serious ethical questions. Did they compromise
+  their AI safety charter? Uncover the hidden fallout and broken trust now.
+draft: false
+featured_image: /images/anthropic-pentagon-ai-ethics-enterprise-risk-en.jpg
+language: en
+tags:
+- IA & SaaS
+title: 'Anthropic Just Broke Trust: The Pentagon Fallout Nobody Is Talking About'
+translationKey: ceeecf73-af25-99d2-a4cc-8953cab3341f
+type: ia
 ---
+
+## Executive Summary (TL;DR)
+
+* ![Anthropic Just Broke Trust: The Pentagon Fallout Nobody Is Talking About](/images/anthropic-pentagon-ai-ethics-enterprise-risk-en.jpg)
+
+Anthropic's shiny "AI safety" halo is starting to slip, revealing a much less comforting reality beneath....
+
 ![Anthropic Just Broke Trust: The Pentagon Fallout Nobody Is Talking About](/images/anthropic-pentagon-ai-ethics-enterprise-risk-en.jpg)
 
 Anthropic's shiny "AI safety" halo is starting to slip, revealing a much less comforting reality beneath.
@@ -66,3 +76,9 @@ Anthropic's ethical stance is now undeniably compromised; the pull of government
 Enterprises should demand full transparency and verifiable safety protocols before integrating Anthropic's technology, not just trust their word. Given the opacity around Claude's code instability and the potential for ethical compromises, businesses must conduct thorough due diligence and implement robust AI governance frameworks.
 
 Trust, but verify... especially with AI.
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Methodology and Sources
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

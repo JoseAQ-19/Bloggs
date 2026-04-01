@@ -1,17 +1,27 @@
 ---
-title: "YouTube's AI Nightmare: Deepfakes Smear Singapore PM, 70% Believe It's Real."
-date: 2026-02-25T18:00:41
-draft: false
-description: "Singapore PM Lee Hsien Loong targeted by viral deepfake videos! Shocking 70% believe AI-generated smear campaign is authentic. Is YouTube's AI policy."
-featured_image: "/images/ai-deepfake-singapore-pm-lee-en.jpg"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "f4e4fef6-b9fa-611a-336f-99d7bcb02d9e"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- youtube
+date: 2026-02-25 18:00:41
+description: Singapore PM Lee Hsien Loong targeted by viral deepfake videos! Shocking
+  70% believe AI-generated smear campaign is authentic. Is YouTube's AI policy.
+draft: false
+featured_image: /images/ai-deepfake-singapore-pm-lee-en.jpg
+language: en
+tags:
+- Creator Economy
+title: 'YouTube''s AI Nightmare: Deepfakes Smear Singapore PM, 70% Believe It''s Real.'
+translationKey: f4e4fef6-b9fa-611a-336f-99d7bcb02d9e
+type: youtube
 ---
+
+## Executive Summary (TL;DR)
+
+* ![YouTube's AI Nightmare: Deepfakes Smear Singapore PM, 70% Believe It's Real.](/images/ai-deepfake-singapore-pm-lee-en.jpg)
+
+Deepfake videos of Singapore's Prime Minister Lee Hsien Loong peddling crypto scams illustrate the accelerating crisis of synthetic media's impact on geopolitics and public t...
+
 ![YouTube's AI Nightmare: Deepfakes Smear Singapore PM, 70% Believe It's Real.](/images/ai-deepfake-singapore-pm-lee-en.jpg)
 
 Deepfake videos of Singapore's Prime Minister Lee Hsien Loong peddling crypto scams illustrate the accelerating crisis of synthetic media's impact on geopolitics and public trust.
@@ -66,3 +76,9 @@ The deepfake crisis is only accelerating as rendering costs plummet and API acce
 Each individual must adopt critical thinking techniques, by cross-checking claims from secondary reporting and learning to spot common 'tells' of AI video, like unnatural blinking, consistent lighting, and unrealistic reflections.
 
 Prepare for an era where seeing *isn't* believing.
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Methodology and Sources
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

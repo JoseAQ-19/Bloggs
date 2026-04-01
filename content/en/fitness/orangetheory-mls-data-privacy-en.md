@@ -66,3 +66,5 @@ Orangetheory Fitness needs to drastically increase its investment in data securi
 Demand a clear, concise, and *understandable* explanation of their data handling practices before signing up or continuing your membership. Understand exactly what data is being collected, how it's being used, with whom it's being shared, and what security measures are in place to protect it. If you are not comfortable with the answers, consider alternative fitness options that prioritize your privacy.
 
 Sweat equity, not security.
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

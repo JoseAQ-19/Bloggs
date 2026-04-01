@@ -1,17 +1,28 @@
 ---
-title: "Ex-MrBeast Employee Reveals Child Psychology Exploitation: Horrible Effects On Brains"
-date: 2026-02-26T17:39:47
-draft: false
-description: "A former MrBeast employee exposes alleged exploitation of child psychology within the content creation process, citing potentially harmful effects on."
-featured_image: "/images/mrbeast-empire-creator-power-en.jpg"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "26f1e7b9-bb2e-af6d-1fe6-120d520bf5cf"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- youtube
+date: 2026-02-26 17:39:47
+description: A former MrBeast employee exposes alleged exploitation of child psychology
+  within the content creation process, citing potentially harmful effects on.
+draft: false
+featured_image: /images/mrbeast-empire-creator-power-en.jpg
+language: en
+tags:
+- Creator Economy
+title: 'Ex-MrBeast Employee Reveals Child Psychology Exploitation: Horrible Effects
+  On Brains'
+translationKey: 26f1e7b9-bb2e-af6d-1fe6-120d520bf5cf
+type: youtube
 ---
+
+## Executive Summary (TL;DR)
+
+* ![Ex-MrBeast Employee Reveals Child Psychology Exploitation: Horrible Effects On Brains](/images/mrbeast-empire-creator-power-en.jpg)
+
+MrBeast's viral philanthropy may be masking a darker side of content creation: the exploitation of child psychology....
+
 ![Ex-MrBeast Employee Reveals Child Psychology Exploitation: Horrible Effects On Brains](/images/mrbeast-empire-creator-power-en.jpg)
 
 MrBeast's viral philanthropy may be masking a darker side of content creation: the exploitation of child psychology.
@@ -64,3 +75,9 @@ MrBeast's success has undoubtedly inspired countless others to pursue a career i
 I believe MrBeast needs increased oversight regarding his content creation and business practices to prevent further ethical transgressions. YouTube should demand greater transparency and ethical standards from its top creators by supporting legislation that protects kids online.
 
 Virality isn't always virtue.
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Methodology and Sources
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

@@ -1,17 +1,27 @@
 ---
-title: "AI Cheating Panic: California Wasted $6 Million on Turnitin's Hallucinations"
-date: 2026-03-10T10:00:52
-draft: false
-description: "California spent millions on AI detection. The problem? Turnitin flagged innocent students for AI 'cheating' based on faulty hallucination data. Learn."
-featured_image: "/images/ai-plagiarism-california-schools-en.jpg"
-tags: ["Novum Tools"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "522d0715-3b0f-95f6-dbe4-00404afb947f"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- tools
+date: 2026-03-10 10:00:52
+description: California spent millions on AI detection. The problem? Turnitin flagged
+  innocent students for AI 'cheating' based on faulty hallucination data. Learn.
+draft: false
+featured_image: /images/ai-plagiarism-california-schools-en.jpg
+language: en
+tags:
+- Novum Tools
+title: 'AI Cheating Panic: California Wasted $6 Million on Turnitin''s Hallucinations'
+translationKey: 522d0715-3b0f-95f6-dbe4-00404afb947f
+type: tools
 ---
+
+## Executive Summary (TL;DR)
+
+* ![AI Cheating Panic: California Wasted $6 Million on Turnitin's Hallucinations](/images/ai-plagiarism-california-schools-en.jpg)
+
+* California State University has spent $6 million on Turnitin's AI detection software since 2019, despite accuracy concerns that have led to wrongful accusations against...
+
 ![AI Cheating Panic: California Wasted $6 Million on Turnitin's Hallucinations](/images/ai-plagiarism-california-schools-en.jpg)
 
 * California State University has spent $6 million on Turnitin's AI detection software since 2019, despite accuracy concerns that have led to wrongful accusations against one in five students.
@@ -77,3 +87,9 @@ The entire AI detection industry operates on flawed premises — that writing ha
 We've reached a moment of reckoning where educational leaders must confront uncomfortable truths: no technology can replace the complex work of teaching, mentoring, and evaluating human expression. The AI detection bubble will eventually burst when sufficient evidence accumulates about its failures, false positives, and discriminatory effects. The question is how many students will be sacrificed on the altar of technological hubris before that day arrives.
 
 The emperor has no clothes. AI detection cannot reliably distinguish between human and machine writing. The evidence is overwhelming. Continuing to invest in these tools represents institutional malpractice masquerading as academic innovation.
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Methodology and Sources
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

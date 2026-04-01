@@ -1,17 +1,27 @@
 ---
-title: "95% Of ATMs Run On COBOL: The Tech Time Bomb In Your Wallet"
-date: 2026-03-24T12:19:15
-draft: false
-description: "Your money's digital, but surprisingly archaic code powers ATMs. 95% run on COBOL, a 60-year-old language! Is this dependence a ticking tech time bomb."
-featured_image: "/images/cobol-apocalypse-banking-1959-tech-en.jpg"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "122dd045-08b3-4a02-f1aa-9627ed517cc3"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- ia
+date: 2026-03-24 12:19:15
+description: Your money's digital, but surprisingly archaic code powers ATMs. 95%
+  run on COBOL, a 60-year-old language! Is this dependence a ticking tech time bomb.
+draft: false
+featured_image: /images/cobol-apocalypse-banking-1959-tech-en.jpg
+language: en
+tags:
+- IA & SaaS
+title: '95% Of ATMs Run On COBOL: The Tech Time Bomb In Your Wallet'
+translationKey: 122dd045-08b3-4a02-f1aa-9627ed517cc3
+type: ia
 ---
+
+## Executive Summary (TL;DR)
+
+* ![95% Of ATMs Run On COBOL: The Tech Time Bomb In Your Wallet](/images/cobol-apocalypse-banking-1959-tech-en.jpg)
+
+The global financial system is running on code written when JFK was in office, held together by duct tape and a dwindling population of gray-haired engineers who actually understand how...
+
 ![95% Of ATMs Run On COBOL: The Tech Time Bomb In Your Wallet](/images/cobol-apocalypse-banking-1959-tech-en.jpg)
 
 The global financial system is running on code written when JFK was in office, held together by duct tape and a dwindling population of gray-haired engineers who actually understand how the money moves. This isn't a technical debt issue; it's a technical insolvency waiting to happen.
@@ -103,3 +113,9 @@ If you scroll through Reddit threads like r/cscareerquestions or r/legacycode, t
 ### Related Articles
 - [YouTube TV’s Subscriber Tsunami: Is This The End Of Traditional Cable?](/en/youtube/youtube-tv-dish-sling-streaming-wars-en/)
 - [YouTube TV In 2026: The $83 Gamble That Could Backfire Spectacularly](/en/youtube/youtube-tv-2026-price-hike-or-worth-the-hype-en/)
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Methodology and Sources
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

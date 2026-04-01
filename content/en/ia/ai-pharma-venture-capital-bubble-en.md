@@ -1,17 +1,27 @@
 ---
-title: "AI Pharma's Dirty Secret: 90% Trial Failure Rate Still Haunts $25B Boom"
-date: 2026-03-21T12:04:15
-draft: false
-description: "AI Pharma's $25B boom hides a harsh truth: despite the hype, a shocking 90% of AI-driven drug trials still fail. Explore the reasons behind this costly."
-featured_image: "/images/ai-pharma-venture-capital-bubble-en.jpg"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "7085feb8-6e68-560a-68c6-9f471430eaad"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- ia
+date: 2026-03-21 12:04:15
+description: 'AI Pharma''s $25B boom hides a harsh truth: despite the hype, a shocking
+  90% of AI-driven drug trials still fail. Explore the reasons behind this costly.'
+draft: false
+featured_image: /images/ai-pharma-venture-capital-bubble-en.jpg
+language: en
+tags:
+- IA & SaaS
+title: 'AI Pharma''s Dirty Secret: 90% Trial Failure Rate Still Haunts $25B Boom'
+translationKey: 7085feb8-6e68-560a-68c6-9f471430eaad
+type: ia
 ---
+
+## Executive Summary (TL;DR)
+
+* ![AI Pharma's Dirty Secret: 90% Trial Failure Rate Still Haunts $25B Boom](/images/ai-pharma-venture-capital-bubble-en.jpg)
+
+Despite AI biotechs raising $3.8 billion in VC deals in 2025, AI-discovered drugs continue failing in Phase II trials at the same ~60% rate as traditional drugs, revealing a c...
+
 ![AI Pharma's Dirty Secret: 90% Trial Failure Rate Still Haunts $25B Boom](/images/ai-pharma-venture-capital-bubble-en.jpg)
 
 Despite AI biotechs raising $3.8 billion in VC deals in 2025, AI-discovered drugs continue failing in Phase II trials at the same ~60% rate as traditional drugs, revealing a critical gap between computational hype and clinical reality.
@@ -79,3 +89,9 @@ As the industry matures, we'll likely see the AI narrative separate into two dis
 ### Related Articles
 - [YouTube TV In 2026: Comcast's Worst Nightmare Or $73 Mistake?](/en/youtube/youtube-tv-2026-worth-it-en/)
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Methodology and Sources
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

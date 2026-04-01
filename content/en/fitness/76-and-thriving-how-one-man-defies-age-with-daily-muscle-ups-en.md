@@ -1,17 +1,28 @@
 ---
-title: "76 And Thriving: One Man's Daily Muscle-Ups Defy Aging Myths"
-date: 2026-03-17T05:02:14
-draft: false
-description: "At 76, one man proves age is just a number with daily muscle-ups. Discover his inspiring journey and tips to defy aging myths through fitness."
-featured_image: "/images/76-and-thriving-how-one-man-defies-age-with-daily-muscle-ups-en.jpg"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "c951aaf8-5503-e3e0-2d1f-d479607aaa7e"
-author: "NovumWorld Editorial Team"
 ai_disclosure: true
+author: NovumWorld Editorial Team
+categories:
+- fitness
+date: 2026-03-17 05:02:14
+description: At 76, one man proves age is just a number with daily muscle-ups. Discover
+  his inspiring journey and tips to defy aging myths through fitness.
+draft: false
+featured_image: /images/76-and-thriving-how-one-man-defies-age-with-daily-muscle-ups-en.jpg
+language: en
+tags:
+- Biohacking & Fitness
+title: '76 And Thriving: One Man''s Daily Muscle-Ups Defy Aging Myths'
+translationKey: c951aaf8-5503-e3e0-2d1f-d479607aaa7e
+type: fitness
 ---
+
+## Executive Summary (TL;DR)
+
+* ![76 And Thriving: One Man's Daily Muscle-Ups Defy Aging Myths](/images/76-and-thriving-how-one-man-defies-age-with-daily-muscle-ups-en.jpg)
+
+* Global longevity economy projected to exceed $27 trillion by 2026, dwarfing the entire fitness industry — **Bloomberg Economics**.
+* Sarcopenia affects up t...
+
 ![76 And Thriving: One Man's Daily Muscle-Ups Defy Aging Myths](/images/76-and-thriving-how-one-man-defies-age-with-daily-muscle-ups-en.jpg)
 
 * Global longevity economy projected to exceed $27 trillion by 2026, dwarfing the entire fitness industry — **Bloomberg Economics**.
@@ -62,6 +73,12 @@ The evidence is irrefutable: resistance training reverses sarcopenia and extends
 
 Andrew Jagim's daily muscle-ups at 76 aren't defiance; they're science. The future of fitness belongs to those who understand that muscle isn't about aesthetics—it's about survival. The longevity bubble will pop, but the iron will keep lifting.
 
-### Related Articles
+## Related Articles
 - [YouTube TV In 2026: Comcast's Worst Nightmare Or $73 Mistake?](/en/youtube/youtube-tv-2026-worth-it-en/)
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
+## Methodology and Sources
+
+Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

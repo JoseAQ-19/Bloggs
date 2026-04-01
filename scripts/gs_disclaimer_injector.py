@@ -3,24 +3,13 @@ import re
 import glob
 
 BASE = os.path.dirname(os.path.abspath(__file__))
-CONTENT_DIR = os.path.join(BASE, "content")
+CONTENT_DIR = os.path.join(BASE, "..", "content") # Adjusted to properly point to content dir
 
 # Categorías que REQUIRE disclaimers según el usuario
-DISCLAIMER_NICHES = ["realestate", "funds", "crypto"]
+DISCLAIMER_NICHES = ["realestate", "funds", "crypto", "fitness"]
 
-DISCLAIMER_EN = """
----
-
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-"""
-
-DISCLAIMER_ES = """
----
-
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto calificado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-"""
+DISCLAIMER_EN = "\n*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*\n"
+DISCLAIMER_ES = "\n*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*\n"
 
 def clean_old_disclaimer(content):
     """Elimina disclaimers existentes del principio u otras partes para evitar duplicados."""
@@ -31,28 +20,53 @@ def clean_old_disclaimer(content):
     i = 0
     while i < len(lines):
         line = lines[i]
-        # Detectar el inicio del bloque de disclaimer
+        # Detect big block disclaimer
         if "> [!IMPORTANT]" in line and i + 1 < len(lines) and ("Editorial & YMYL Disclaimer" in lines[i+1] or "Aviso Editorial y YMYL" in lines[i+1]):
             skip = True
             i += 1
             continue
         
         if skip:
-            # Continuar skipeando líneas que empiezan con > o líneas vacías entre el bloque
             if line.strip().startswith(">") or line.strip() == "":
                 i += 1
                 continue
             else:
                 skip = False
-                # Si la línea actual es el separador ---, también lo quitamos si estaba pegado al disclaimer
                 if line.strip() == "---":
                     i += 1
                     continue
         
+        # Remove already existing subtle disclaimers to avoid duplicates
+        if "*YMYL Disclaimer:" in line or "*Aviso YMYL:" in line:
+            i += 1
+            continue
+            
         new_lines.append(line)
         i += 1
     
     return "\n".join(new_lines).strip()
+
+def insert_disclaimer_at_end(content, disclaimer):
+    # Determine the best place to insert the disclaimer.
+    # Look for trailing sections like Methodology, Sources, Related Articles.
+    target_headers = [
+        r"(##\s*Metodología\b.*)",
+        r"(##\s*Fuentes\b.*)",
+        r"(##\s*Artículos Relacionados\b.*)",
+        r"(##\s*Methodology\b.*)",
+        r"(##\s*Sources\b.*)",
+        r"(##\s*Related Articles\b.*)"
+    ]
+    
+    # Check if any target header exists
+    for header in target_headers:
+        match = re.search(header, content, flags=re.IGNORECASE)
+        if match:
+            # Insert before the header
+            return content[:match.start()] + disclaimer + "\n\n" + content[match.start():]
+            
+    # If no matching header, just append to the end
+    return content.strip() + "\n\n" + disclaimer
 
 def inject_disclaimer():
     all_md = glob.glob(os.path.join(CONTENT_DIR, "**", "*.md"), recursive=True)
@@ -60,21 +74,17 @@ def inject_disclaimer():
     count_removed = 0
 
     for filepath in all_md:
-        # Normalizar ruta
         norm_path = filepath.replace("\\", "/")
         filename = os.path.basename(filepath)
         
         if filename in ["privacy.md", "terms-of-service.md", "contact.md", "about.md"]:
             continue
 
-        # Identificar nicho
-        # Esperamos algo como .../content/es/niche/file.md
         niche = ""
         parts = norm_path.split("/")
         try:
             if "content" in parts:
                 c_idx = parts.index("content")
-                # parts[c_idx+1] es 'es' or 'en'
                 if len(parts) > c_idx + 2:
                     niche = parts[c_idx+2]
         except:
@@ -83,31 +93,29 @@ def inject_disclaimer():
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
 
-        # Limpiar previos
-        has_old = "Editorial & YMYL Disclaimer" in content or "Aviso Editorial y YMYL" in content
+        has_old = "Editorial & YMYL Disclaimer" in content or "Aviso Editorial y YMYL" in content or "*YMYL Disclaimer:" in content or "*Aviso YMYL:" in content
+        
         new_content = content
         if has_old:
             new_content = clean_old_disclaimer(content)
             count_removed += 1
 
-        # Si el nicho no está en la lista blanca, guardar versión limpia si cambió
         if niche not in DISCLAIMER_NICHES:
             if has_old:
                 with open(filepath, 'w', encoding='utf-8') as f:
                     f.write(new_content)
             continue
 
-        # Si está en la lista blanca, añadir al FINAL
         is_spanish = "/es/" in norm_path
         disclaimer = DISCLAIMER_ES if is_spanish else DISCLAIMER_EN
         
-        final_text = new_content.strip() + "\n" + disclaimer.strip() + "\n"
+        final_text = insert_disclaimer_at_end(new_content, disclaimer.strip())
         
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(final_text)
         count_injected += 1
 
-    print(f"DONE: Injected {count_injected} at END. Removed/Cleaned {count_removed} others.")
+    print(f"DONE: Injected/Refreshed {count_injected} subtle disclaimers at END. Removed/Cleaned {count_removed} others.")
 
 if __name__ == "__main__":
     inject_disclaimer()
