@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-03-31T07:34:52.922625+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-04-01T07:34:21.493207+00:00",
+  "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "Bankinter y Plenium Partners: Una nueva era en la gestión de fondos tras la inversión significativa en Access Capital Partners",
+      "title": "Bestinver Bolsa: ¿Cómo logró un espectacular 49,05% de rentabilidad en renta variable española en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Invesco reduce la comisión del MSCI World UCITS ETF al 0,05%: ¿Qué significa esto para los inversores?",
+      "title": "Indexa Capital reduce comisiones por décimo año consecutivo, ahorrando 260.000€ a sus clientes: ¿Qué significa esto para tus inversiones?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Azvalor Internacional supera su índice de referencia en 6,4 puntos porcentuales: Claves de su rendimiento del 8,7% en febrero",
+      "title": "Cartera Metal de MyInvestor supera a Indexa Capital con una sorprendente rentabilidad anualizada del 12,07% en 5 años: ¿Es esta la nueva opción estrella?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,14 +49,19 @@
   },
   "all_headlines": [
     {
+      "title": "La salida a bolsa de SpaceX y el factor Elon Musk",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3dLcHFvbEZGOGRfRk9KLVdsdk4zX3pEbVdyWG9HRFU1Z3RDZE9iYnhwRU5iOXNWUUZ3bktER0N5cXp5WWhYWlBWSU9JZHY4MGFfWUk3bktHd2p1Y3Rjal9kTTRhUVlxTGdBb2YxTkdyMy1VcGlWYktaR2tyVHc0VnRTT2NqZkhzMDNDamloV19veEtN?oc=5"
+    },
+    {
       "title": "Bankinter Investment y Plenium Partners integran sus gestoras y adquieren una participación significativa en Access Capital Partners",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVlmUU5qdXViZmF6bGpMZ0IyVXRiTkU0RGFYN2s5TkVFcWsxNUp0MEV1WnJBeEk3MWxZU01UX0JnSUlacjYwZjFYVlcySG1zajdVMzc3ck84c2F5bE9EaUJ0R3g3Ylh2SEdxRmtvbDBNZjRHbDNWUTN0NzZjV0ROUVktSURDQ0xaYkVXQURfclRkY3psUU5EVS1nTGE2ckxtQUJ3YmZYdzA0WXZpc1dwaUpZLXBaNWlXWm5JblZyUzBZZkRHVFdlZmZBdmN2QlJLeW11dUNHRGVpalQzNEVQakJ5SUcwYlk?oc=5"
     },
     {
-      "title": "Los fondos con potencial para brillar que han recibido premio Morningstar en 2026",
+      "title": "Morningstar Inc amplía la disponibilidad de sus datos de inversión en el marketplace de Snowflake",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdHZMaUVHLTdWQXJXaldINFhzU1RyWnc1c29kOVZwNU1Qcy00dHByWDZtQ3hCME1BYk9tbnAtbk13T3prU3pkbUZ6SXhIZGdoc3AwcThwbEF1YjBlT0gzM2hvaGdWZm5QYXNpN05uZWFJclBlakdMcWFFdUx0aEJVd3U3SXNKc3BrUW40UTRHZHhtbnJWRXQ4ckwtakFkaWYzOU1JUXFQMXJ1NGxGRUl2LWhvYktJYUwxc01pdDhIUl8tWE9rUkVFNHBaNU5KamU3RXhBU3hjaVI1eWRL0gHcAUFVX3lxTE90dkxpRUctN1ZBcldqV0g0WHNTVHJadzVzb2Q5VnA1TVBzLTR0cHJYNm1DeEIwTUFiT21ucC1uTXdPemtTemRtRnpJeEhkZ2hzcDBxOHBsQXViMGVPSDMzaG9oZ1ZmblBhc2k3Tm5lYUlyUGVqR0xxYUV1THRoQlV3dTdJc0pzcGtRbjRRNEdkeG1uclZFdDhyTC1qQWRpZjM5TUlRcVAxcnU0bEZFSXYtaG9iS0lhTDFzTWl0OEhSXy1YT2tSRUU0cFo1TkpqZTdFeEFTeGNpUjV5ZEs?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPb1ZKbkJMaWZvdm1BSGtyeGZUZXl3U05WNWZxSmNOOV9PYlpfaFJoYUVqTXlGc2xxMjBCYzk0WmViYVhveHRqalhscEdrZU1ubXpnWXlDTG9td1VhUHdkT2owaTV3VjFzdUZvNmZkTkJ6ME5iTHktanNDcExCUnlYb09oUXFiZXFYazZCTzFhY1VfSzlNdmJLNVlWcUhiTWg3eEpmbTUxODdfcFJvM2dRYk44aHRSNjNnMlNlbXJ3WkFlNVpfS1BzWWU3emZMNzA4cDN6UERnSFpLMDBkejNHb2xSeGNZZElD?oc=5"
     },
     {
       "title": "Iván Martín (Magallanes): \"Hemos vendido bancos y petroleras y hemos incrementado el peso de las firmas químicas\"",
@@ -64,14 +69,44 @@
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUG5aZWNFVDN2MHVmYUE0SmU0VnJSNkU3RklPekxUU2F2WU42T3VDWTRuSS0xOVdwNXZvTjlZeWtpaUlrS3M5V2l3RG85cm1QZGM1bEdtYzd5QXdhNHlKTlRpc3dYY1U0M0dLT2VicEpNaTN0ejlYQW1GcWgwc1BuMkpNbV9HSEkwcURfYXdQV2VMTXdfOXQzQXg2NTh1U0cxd0R0RHhwOThzYmQ3Zmc2RVpSajVWTzRYSFFtSW5nbExYZF9nMHZpV21CaF9GMVFTTmFfN2pVa3VidWpSOVFGMGV1NzJ6UVAyN0kzbG1YV25ITi1lQXJWSWNYYlpheWs40gGAAkFVX3lxTE9QblplY0VUM3YwdWZhQTRKZTRWclI2RTdGSU96TFRTYXZZTjZPdUNZNG5JLTE5V3A1dm9OOVl5a2lpSWtLczlXaXdEbzlybVBkYzVsR21jN3lBd2E0eUpOVGlzd1hjVTQzR0tPZWJwSk1pM3R6OVhBbUZxaDBzUG4ySk1tX0dISTBxRF9hd1BXZUxNd185dDNBeDY1OHVTRzF3RHREeHA5OHNiZDdmZzZFWlJqNVZPNFhIUW1JbmdsTFhkX2cwdmlXbUJoX0YxUVNOYV83alVrdWJ1alI5UUYwZXU3MnpRUDI3STNsbVhXbkhOLWVBclZJY1hiWmF5azg?oc=5"
     },
     {
+      "title": "Mejores depósitos bancarios a plazo fijo 2026 (abril)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
+    },
+    {
+      "title": "Hasta 760 euros: mejores promociones de bancos por domiciliar la nómina (abril 2026)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWk51QU5RallaWDBRTkRxVElBVnpKTkJLQW9MazlJODM3aVpLc0dZTWxmNzdTSXZXNGFxUlU1SWNHOUg5WXRJSjlXWjFoeS1hTExnSWdVNzFjam9BQ1hZTWpvWlJTcWtDeGx2UTl4ODIwU19Pc0Z2NFpNVEloZVNuOTFnMGJna0pMQ1RlYXlUcXE1b3BwSWhEUGdvV1ltV0l0d0RjNEp0b3ZEQk56VnZkLUt5V2VJZ0Z3dHNYU1VtVFRCTGYyM0VydnM5dlZrMV9pdjZFUXFhWQ?oc=5"
+    },
+    {
       "title": "NBI gana 2,2 millones de euros en 2025",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeWZ1bXM4UEpxYVVWdHdlbXpKa0RXb1Nnd01DeG5Ya1NnUllBQkNsOU1lbmRqS3ZRZHc5SWtKN1VtUEFJeVVNNkNQV21fMVRzZzlnUGhyLVljS1pMeUtWd0FQY2ZIUlNNRS1QZ0lYYzdoeFpCWmxIM1NtcWczeU1vVzRGY1hLT2VNWFNJRlBhaFhMWXpVT05yTUQzcUl2UWRnRXJaZ1R0MTZQZGtZMWNDVVRaQmlEZmVFaXV5OFNOWU9aSnRh0gGeAUFVX3lxTE5ibWdUd0NPejVRMlZqc0JRVzJ0QU5OMnJ5OUpZUUttTjBSeFl3YW5WbXhySktKOGRuUm96VWd3THNJV1hNSjBYUjZOcGd0X190TFRRdG5md0oyNks4X1FDc3U0Zk05dVJqYTVrOV93RUJiWHlBdDJlRnlmakFWR29uSlc0TzEyWDJIaVRSXzBnNGhHdDZSWFBWVkM5MWNB?oc=5"
     },
     {
+      "title": "Mejores cuentas remuneradas sin nómina de abril 2026: gana intereses sin domiciliar tu salario",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGFnbEp1M1JPVE9MamhNWWdrbU42ZEtKVHk2Q3cxS2g1VEstMnRGM2wtSkFmSTR2N1RkSTZPOE0zcWZHbG56c0xlbWFJTWxjMnVBVWhTQUxib1ZucUJpMkEySzdQVWFqeHNDbl9KclFzakdWWjNlUW90T0xTVjgzRkZ6elhDR2Q3RV9qTkpsRThLaEU?oc=5"
+    },
+    {
       "title": "La Primera de Expansión sobre Criteria, Acciona, ACS, CaixaBank, petróleo, Irán y Donald Trump",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNlNGWXRqbVV1LXdmVEJLMUJ6a3hHaUYyYm44Ykk2emdHLUlyZEZxaUNEZHc0eGFqM1hDbzJGM3RnWGZ3eF9XaERicDJYLV9rVTg5ckZFMDV5T0k1eWdfUDd1UG1XZkx4ZlVkVzJicklpYlV2SFFtVHExWnREdW1qTXhVa2ZpUkFmcWhuUmczVDN5VGxybEhUMDhmRVdZV1Ix0gGgAUFVX3lxTFA2U0ZZdGptVXUtd2ZUQksxQnpreEdpRjJibjhiSTZ6Z0ctSXJkRnFpQ0RkdzR4YWozWENvMkYzdGdYZnd4X1doRGJwMlgtX2tVODlyRkUwNXlPSTV5Z19QN3VQbVdmTHhmVWRXMmJySWliVXZIUW1UcTFadER1bWpNeFVrZmlSQWZxaG5SZzNUM3lUbHJsSFQwOGZFV1lXUjE?oc=5"
+    },
+    {
+      "title": "Mejores brokers hipotecarios en España",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONEpRWFRETEZOX09DZnk5RFhFSVlYaERHMDdJUTJUWTB1Y3paOEpWRlliWlQyWV9Fek1sRmlTYTh6ZkM2WGMtRFIzOS05UGZWTjB4N1ZLM2RYN1c0TldXODZUdWt1Z1ludXByS2o5S21aN1hsZXR1dTdrb0V5MUVKX0xJVkR2eUJ3Z3c?oc=5"
+    },
+    {
+      "title": "Mejores cuentas nómina sin comisiones 2026 (abril)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0ZtcXlsRGFxdFFvb2JpUmJlT29IaWdWQ2lscnlvel9aT0JINUF3UTVnYllPZEwxVFd0UVpTR2swUmtncjNxN19GUzVRMGdiSmdxLTAxTENub1F3RDVPd2l0LXQyRTlzSkNJVjlERFpiMDl0X0RnYWhOenJrMk5qMjZCdmZhUUZNQ3lCbzQtbklhYlhRWDRwbA?oc=5"
+    },
+    {
+      "title": "La inflación de la Eurozona sube menos de lo previsto en medio de la guerra con Irán",
+      "source": "rss_morningstar_es",
+      "url": "https://www.morningstar.es/es/news/274882/la-inflación-de-la-eurozona-sube-menos-de-lo-previsto-en-medio-de-la-guerra-con-irán.aspx"
     },
     {
       "title": "Qué significaría una subida de tipos de la Fed para estos sectores",
@@ -94,37 +129,22 @@
       "url": "https://www.morningstar.es/es/news/274827/meta-aumentan-las-dificultades-legales.aspx"
     },
     {
-      "title": "¿Qué acciones europeas reparten dividendos en abril de 2026?",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274824/¿qué-acciones-europeas-reparten-dividendos-en-abril-de-2026.aspx"
-    },
-    {
-      "title": "Invesco reduce la comisión anual del Invesco MSCI World UCITS ETF del 0,19% al 0,05% a partir del 1 de abril.",
+      "title": "**Indexa Capital baja comisiones por décimo año consecutivo en 2026, ahorrando a clientes 260.000€ anuales**",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Los ETF europeos registran entradas netas récord de 55.900 millones de dólares en enero de 2026, liderados por renta variable básica.",
+      "title": "**Bestinver Bolsa lidera los Premios Morningstar 2026 con una rentabilidad del 49,05% en renta variable española**",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Indexa Capital bajará las comisiones de las carteras de fondos hasta en 0,005 puntos porcentuales y los planes de pensiones en 0,007 puntos porcentuales a partir del 1 de enero de 2026.",
+      "title": "**Fondos de inversión en España alcanzan los 465.110 millones de euros en febrero, un crecimiento del 1,6% mensual**",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "MyInvestor se asocia con Carmignac para lanzar el fondo tecnológico \"MyInvestor Carmignac Tech Capital Protegido 2031\" con una comisión de gestión del 1,10% anual.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "El fondo Azvalor Internacional subió un 8,7% en febrero, superando en 6,4 puntos porcentuales a su índice de referencia.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Consumo informa a 13 inmobiliarias y fondos de inversión que gestionan más de 100.000 viviendas que deben prorrogar obligatoriamente los contratos de alquiler que finalicen antes de 2028.",
+      "title": "**Ibercaja lanza Ibercaja Deuda Pública, invirtiendo en bonos de grado de inversión con una duración media de cuatro años**",
       "source": "gemini_grounding_finance",
       "url": ""
     }
