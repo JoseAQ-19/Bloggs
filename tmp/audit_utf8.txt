@@ -1,0 +1,127 @@
+﻿
+--- REPORT: TRUNCATED ARTICLES ---
+[ERR] content\en\crypto\bitcoin-55k-support-onchain-analysis-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\bitcoin-71k-onchain-analysis-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\bitcoin-bottom-onchain-analysis-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\bitcoin-onchain-analysis-willy-woo-market-sentiment-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\bitcoin-rally-stablecoin-exodus-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\bitcoin-stop-loss-cascade-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\clarity-act-jpmorgan-crypto-risk-2026-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\crypto-atm-minnesota-ban-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\crypto-market-manipulation-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\crypto-treasury-yield-arbitrage-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\ethereum-hegota-upgrade-validator-revolt-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\fannie-mae-crypto-backed-mortgages-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\god-faith-and-bitcoin-the-rise-of-crypto-among-christians-en.md -> Incomplete ending: '...alvation**'
+[ERR] content\en\crypto\hidden-bitcoin-risk-bottom-signal-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\hyperliquid-74m-liquidation-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\hyperliquid-volumes-bitcoin-weakness-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\iran-crypto-sanctions-binance-doj-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\iranian-crypto-outflow-airstrikes-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\kazakhstan-sovereign-wealth-crypto-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\mastercard-crypto-payments-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\okx-valuation-regulatory-litmus-test-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\russia-crypto-exchange-sanctions-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\sec-enforcement-crypto-regulation-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\stablecoin-treasury-risk-2024-en.md -> Incomplete ending: '...Bitfinex**'
+[ERR] content\en\crypto\wisconsin-banks-crypto-staking-risks-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\crypto\wisconsin-crypto-staking-debate-en.md -> Incomplete ending: '...ecisions.*'
+[ERR] content\en\fitness\amazon-fitness-deals-en.md -> Incomplete ending: '...</script>'
+[ERR] content\en\fitness\fitness-influencer-deaths-steroids-cardiac-arrest-en.md -> Incomplete ending: '...</script>'
+[ERR] content\en\funds\5-energy-stocks-surpassing-the-sp-500-by-12-in-2026-en.md -> Incomplete ending: '...</script>'
+[ERR] content\en\funds\fluent-financial-llc-invests-10-million-in-morningstar-inc-morn-en.md -> Incomplete ending: '...</script>'
+[ERR] content\en\funds\fluent-financial-llc-invests-heavily-in-morningstar-inc-morn-surges-by-5-en.md -> Incomplete ending: '...</script>'
+[ERR] content\en\funds\hartfords-850-million-fund-downgrade-morningstar-points-to-subadvising-risks-en.md -> Incomplete ending: '...a Schema**'
+[ERR] content\en\funds\morningstar-awards-for-investing-excellence-thailand-2026-evaluating-the-top-3-f-en.md -> Incomplete ending: '...Return |
+|'
+[ERR] content\en\funds\morningstar-awards-thailand-2026-fund-x-outperforms-competitor-y-by-8-en.md -> Incomplete ending: '...tility |
+|'
+[ERR] content\en\funds\morningstar-thailand-awards-2026-recognizing-investing-excellence-key-winners-hi-en.md -> Incomplete ending: '...es."
+}
+]
+}'
+[ERR] content\en\funds\oakm-morningstar-names-this-active-etf-a-top-pick-for-2026-citing-15-growth-en.md -> Incomplete ending: '...Ratio |
+|'
+[ERR] content\en\funds\re-vc-adds-siderow-as-senior-advisor-targeting-15-growth-in-real-estate-tech-en.md -> Incomplete ending: '...aft: false'
+[ERR] content\en\funds\sp-500-fund-showdown-voo-vs-spy-with-a-003-expense-ratio-difference-en.md -> Incomplete ending: '...Return |
+|'
+[ERR] content\en\funds\top-5-energy-stocks-surpassing-sp-500-returns-by-20-in-2026-en.md -> Incomplete ending: '...</script>'
+[ERR] content\en\funds\vanguard-fee-cuts-save-investors-250-million-in-2026-a-morningstar-analysis-en.md -> Incomplete ending: '...Ratio |
+|'
+[ERR] content\en\funds\vanguard-slashes-fees-investors-to-save-250-million-boosting-returns-by-003-en.md -> Incomplete ending: '...."
+}
+}
+]
+}'
+[ERR] content\en\funds\vanguard-slashes-fees-on-53-funds-is-your-portfolio-getting-a-break-en.md -> Incomplete ending: '...."
+}
+}
+]
+}'
+[ERR] content\en\ia\ai-trust-crisis-skeptics-guide-en.md -> Incomplete ending: '...</script>'
+[ERR] content\en\ia\metaverse-pyramid-scheme-en.md -> Incomplete ending: '...ble
+- Meta'
+[ERR] content\en\tools\ai-bias-federal-judges-tech-shift-en.md -> Incomplete ending: '...</script>'
+[ERR] content\en\tools\privacy-enhancing-tech-shadow-it-risks-en.md -> Incomplete ending: '...</script>'
+[ERR] content\en\viral\cruise-line-balcony-nightmare-en.md -> Incomplete ending: '...cussions]('
+[ERR] content\en\viral\deepseek-ai-outage-analysis-en.md -> Incomplete ending: '...</script>'
+[ERR] content\en\viral\sora-ai-deepfake-fears-ethical-debate-en.md -> Incomplete ending: '...</script>'
+[ERR] content\en\viral\therian-culture-ai-disinformation-en.md -> Incomplete ending: '...knowing**'
+[ERR] content\en\youtube\i-tried-youtubes-mind-bending-new-featureheres-why-it-feels-like-sci-fi-en.md -> Incomplete ending: '...lgorithm**'
+[ERR] content\en\youtube\the-legal-storm-brewing-what-instagram-and-youtubes-defective-verdict-means-for-social-media-en.md -> Incomplete ending: '...</script>'
+[ERR] content\en\youtube\youtube-addiction-copa-algorithm-scandals-en.md -> Incomplete ending: '...</script>'
+[ERR] content\es\crypto\analisis-bitcoin-precio-halving-2024.md -> Incomplete ending: '...nversi¾n.*'
+[ERR] content\es\crypto\bitcoin-caida-soporte-analisis-espanol.md -> Incomplete ending: '...nversi¾n.*'
+[ERR] content\es\crypto\bitcoin-grafico-clave-2025.md -> Incomplete ending: '...nversi¾n.*'
+[ERR] content\es\crypto\bitcoin-volatilidad-fondos-cobertura.md -> Incomplete ending: '...nversi¾n.*'
+[ERR] content\es\crypto\fin-mercado-bajista-bitcoin-recuperacion-74500.md -> Incomplete ending: '...nversi¾n.*'
+[ERR] content\es\crypto\harvard-bitcoin-ethereum-elite-inversion.md -> Incomplete ending: '...nanciero.*'
+[ERR] content\es\crypto\harvard-ethereum-bitcoin-cambio-paradigma.md -> Incomplete ending: '...o incident'
+[ERR] content\es\fitness\gimnasios-fallando-mujeres.md -> Incomplete ending: '...</script>'
+[ERR] content\es\fitness\lectura-nocturna-anillo-oura-retraso-sueno.md -> Incomplete ending: '...ring air**'
+[ERR] content\es\fitness\plata-coloidal-biohacking-riesgos-neurodegeneracion.md -> Incomplete ending: '...la salud**'
+[ERR] content\es\fitness\wabol-deporte-longevidad.md -> Incomplete ending: '...acionados]'
+[ERR] content\es\fitness\wfp-victor-hoffer-obsolescencia-programada-fitness.md -> Incomplete ending: '...lacionados'
+[ERR] content\es\funds\bankinter-y-plenium-partners-adquieren-un-30-de-access-capital-partners.md -> Incomplete ending: '...}</script>'
+[ERR] content\es\funds\invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran.md -> Incomplete ending: '...nuales |
+|'
+[ERR] content\es\funds\ishares-core-euro-stoxx-50-asml-debe-crecer-para-mantener-la-subida-del-44.md -> Incomplete ending: '...esti¾n |
+|'
+[ERR] content\es\funds\oro-en-la-eurozona-5-etfs-large-cap-superan-el-12-anual.md -> Incomplete ending: '...."
+}
+}
+]
+}'
+[ERR] content\es\funds\premios-morningstar-2026-magallanes-value-investors-logra-su-tercer-galardon-con.md -> Incomplete ending: '...siones |
+|'
+[ERR] content\es\funds\premios-morningstar-2026-magallanes-value-investors-triplete-historico-como-mejo.md -> Incomplete ending: '...."
+}
+}
+]
+}'
+[ERR] content\es\funds\spacex-podria-alcanzar-un-valor-de-100-mil-millones-de-dolares-en-su-salida-a-bo.md -> Incomplete ending: '...</script>'
+[ERR] content\es\funds\spacex-una-valoracion-de-200000-millones-justificada.md -> Incomplete ending: '...o JSON-LD:'
+[ERR] content\es\ia\el-fin-de-la-tibieza-por-que-la-neutralidad-es-el.md -> Incomplete ending: '...batalla.**'
+[ERR] content\es\ia\ia-electoral-arma-secreta.md -> Incomplete ending: '...ual) |
+| :'
+[ERR] content\es\ia\stoxx-600-sube-un-15-tras-la-crisis-en-asia-pero-la-volatilidad-persiste.md -> Incomplete ending: '...siones |
+|'
+[ERR] content\es\ia\tecno-apocalipsis-asi-la-ia-revivio-la-bomba-atomi.md -> Incomplete ending: '...ionados:**'
+[ERR] content\es\tools\analisis-tecnico-actualizacion-google-maps.md -> Incomplete ending: '...Cautivos**'
+[ERR] content\es\tools\google-tv-microseries-analisis-tecnico.md -> Incomplete ending: '...esgos | 
+|'
+[ERR] content\es\tools\ih-set-analisis-tecnico-modelado-litoral.md -> Incomplete ending: '...</script>'
+[ERR] content\es\tools\la-revolucion-del-email-marketing-las-herramientas-imprescindibles-de-2026.md -> Incomplete ending: '...lave |
+| :'
+[ERR] content\es\tools\makecom-en-2-horas-domina-la-automatizacion-sin-ser-experto-guia-2025.md -> Incomplete ending: '...ionados:**'
+[ERR] content\es\tools\revolucion-en-la-investigacion-elsevier-lanza-una-herramienta-para-verificar-la-credibilidad-de-arti.md -> Incomplete ending: '...igital/)**'
+[ERR] content\es\viral\kings-league-crisis-audiencia-gerard-romero.md -> Incomplete ending: '...burrirß.**'
+[ERR] content\es\viral\oscar-puente-rejuvenecimiento-ia-manipulacion-mediatica.md -> Incomplete ending: '...</script>'
+[ERR] content\es\viral\terianos-cuba-polemica-redes.md -> Incomplete ending: '...en Cuba.**'
+[ERR] content\es\viral\violeta-mangrinan-hate-online-fama.md -> Incomplete ending: '...en 2023**'
+[ERR] content\es\youtube\sony-trae-jeopardy-a-youtube-la-nueva-serie-que-no-te-querras-perder.md -> Incomplete ending: '...ncia |
+| :'
+[ERR] content\es\youtube\youtube-atracones-tele-peor.md -> Incomplete ending: '...jovenes)**'
+[ERR] content\es\youtube\youtube-y-fifa-un-acuerdo-que-cambiara-la-forma-de-ver-el-mundial-2026.md -> Incomplete ending: '...Cautivos**'
+----------------------------------
+
