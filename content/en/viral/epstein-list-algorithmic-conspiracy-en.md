@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Epstein Flight Logs: How 1,000 Passengers Fueled QAnon's Wildest Dreams](/images/epstein-list-algorithmic-conspiracy-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 The internet is a breeding ground for conspiracy, but rarely does a case intertwine elite power, sex trafficking, and QAnon quite like the Epstein saga. The flight logs are just the latest chapter.
 
 * Over 1,000 passengers flew on Jeffrey Epstein's planes between 1996 and 2005, fueling QAnon conspiracies about elite involvement in sex trafficking.

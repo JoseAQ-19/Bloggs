@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Google's Project Kavya: Is Your Child's Favorite YouTube Show a Deepfake?](/images/google-ai-kids-content-safety-concerns-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 Google's Project Kavya is a trap, potentially luring children into personalized deepfake content and creating a compliance nightmare.
 
 * Google was previously fined **$170 million** by the FTC in 2019 for violating COPPA on YouTube, demonstrating a history of issues with children's online privacy — [source](https://www.toybook.com/youtubes-170-million-ftc-settlement-and-the-future-of-kids-content/).

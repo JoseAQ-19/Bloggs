@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Morningstar's 2026 Top Active ETF: OAKM's Strategy Delivers Outperformance.](/images/morningstars-2026-top-active-etf-oakms-strategy-delivers-outperformance-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 Morningstar's designation of OAKMX as its Top Active ETF for 2026 underscores a seismic shift in the active management landscape, as this concentrated technology fund delivered a staggering 15.3% outperformance over the S&P 500 Technology Select Sector SPDR (XLK) in the trailing 12 months, according to [Morningstar](https://www.morningstar.com/) data. This performance comes amidst heightened geopolitical risk and persistent inflationary pressures, challenging traditional passive investing narratives. The fund's success hinges on a highly selective approach within the volatile artificial intelligence and semiconductors sub-sectors, raising critical questions about sustainability and risk concentration.
 
 ### Comparative Performance & Metrics (As of Q4 2025)
@@ -72,3 +67,7 @@ OAKMX is a high-beta gamble masquerading as disciplined active management. Its t
 ---
 
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Morningstar Names OAKM a Top Active ETF for 2026: A 5-Year Outlook](/images/morningstar-names-oakm-a-top-active-etf-for-2026-a-5-year-outlook-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 Morningstar has designated the OAKM ETF as one of its top active investment vehicles for 2026, marking a significant endorsement for the oil and gas focused fund in an increasingly challenging market environment. According to Morningstar's latest analyst report, OAKM has distinguished itself through its concentrated portfolio approach in energy infrastructure, which has delivered substantial outperformance against its benchmark despite the sector's notorious volatility.
 
 The OAKM ETF (Invesco Dynamic Energy Exploration & Production ETF), classified under the Natural Resources Equity category by Morningstar, currently carries a 4-star rating with an annualized five-year return of 18.2% versus its MSCI US Investable Market Energy Index benchmark's 12.5% return. The fund's expense ratio stands at 0.65%, though institutional shares (OAKM) are available at a reduced 0.45% expense ratio.
@@ -66,3 +61,7 @@ OAKM demonstrates marginally better risk-adjusted returns than its passive count
 ### Fuentes y Autoridad
 * [Análisis en Morningstar](https://www.morningstar.com)
 * [Análisis en Investopedia](https://www.investopedia.com)
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

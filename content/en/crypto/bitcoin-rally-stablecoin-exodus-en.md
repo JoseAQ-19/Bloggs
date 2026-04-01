@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Tether's $135 Billion US Treasury Stash Hides A Sinister Secret](/images/bitcoin-rally-stablecoin-exodus-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 Tether's accumulation of $135 billion in US Treasuries has raised eyebrows, but the stability narrative obscures deeper structural concerns.
 
 * Tether holds approximately 61% of the total stablecoin market, with a market cap around $187 billion and $140 billion in daily trading volume.
@@ -71,3 +66,7 @@ Tether's size and influence demand greater scrutiny, as its actions have far-rea
 Diversify your stablecoin holdings to mitigate risk, and consider the potential downsides of relying too heavily on a single stablecoin issuer. Question the stability of Tether's reserves and the potential for regulatory changes to impact its operations. Despite the apparent stability of Tether, the underlying risks remain significant.
 
 *This article is for informational purposes only and should not be considered financial advice. Cryptocurrency investments are volatile and carry significant risk. Always do your own research before making any investment decisions.*
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

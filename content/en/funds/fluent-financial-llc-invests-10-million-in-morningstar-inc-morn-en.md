@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Fluent Financial LLC Invests $10 Million in Morningstar, Inc. $MORN](/images/fluent-financial-llc-invests-10-million-in-morningstar-inc-morn-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 Fluent Financial LLC recently made headlines by investing $10 million in Morningstar, Inc. ($MORN), a move that underscores the growing confidence in the financial analytics and investment research sector. This investment highlights a significant trend where institutional investors are increasingly prioritizing companies that provide robust data and analytics in their decision-making processes.
 
 * [Morningstar's revenue growth accelerated to 12% year-over-year in Q3 2023 — source Morningstar]
@@ -140,3 +135,7 @@ We believe that investing in Morningstar presents a compelling opportunity, part
 ---
 
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

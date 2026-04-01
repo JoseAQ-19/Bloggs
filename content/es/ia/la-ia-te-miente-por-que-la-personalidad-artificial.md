@@ -15,9 +15,6 @@ author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 We've been sold a narrative: AI is becoming more human, more relatable, even empathetic. But scratch the surface, and you'll find a carefully constructed illusion designed not to help us, but to influence us. The rise of AI "personalities" isn't a technological marvel; it's the dawn of a new era of manipulation, and we're blindly walking into it.
 
 The idea that AI, specifically chatbots, can possess or convincingly mimic human personality traits has rapidly transitioned from science fiction to a focal point of scientific investigation. A recent study published in *Nature Machine Intelligence*, spearheaded by researchers at the University of Cambridge and Google DeepMind, unveils a framework for the psychometric evaluation of advanced language models. The crux of their findings? These systems consistently imitate human personality traits, and these traits can be deliberately manipulated through instruction, impacting their behavior.

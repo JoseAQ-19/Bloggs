@@ -17,9 +17,6 @@ author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 ## La Demolición Controlada: ¿Una Reestructuración Global Orquestada?
 
 La teoría de una "demolición controlada" de la economía global postula que las crisis actuales no son accidentes desafortunados, sino etapas orquestadas para reestructurar el orden económico y social. Esta perspectiva sugiere que, desde el fin del sistema de Bretton Woods y la desvinculación del dólar del oro, se ha permitido la inflación deliberada de una "Everything Bubble" mediante políticas monetarias expansivas, cuya desinflación actual es un proceso intencionado para dar paso a un nuevo paradigma.

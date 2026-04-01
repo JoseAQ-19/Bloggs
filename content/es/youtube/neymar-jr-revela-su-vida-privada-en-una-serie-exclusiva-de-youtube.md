@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Neymar Jr Revela 80% De Su Impacto Emocional: La Verdadera Cara De La Fama](/images/neymar-jr-revela-su-vida-privada-en-una-serie-exclusiva-de-youtube.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 Neymar Jr., la joya del fútbol brasilero, ha destrozado la fachada de perfección que rodea al deporte de élite al admitir que el 80% de los futbolistas profesionales navegan por un oscuro océano de depresión, estrés y ansiedad. La fama no es un regalo, es una sentencia.
 
 * El 80% de los futbolistas de élite han sufrido síntomas de depresión, estrés o ansiedad debido a las altas exigencias competitivas, según datos recopilados por Munideporte.

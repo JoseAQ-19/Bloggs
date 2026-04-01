@@ -19,9 +19,6 @@ author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 No se equivoquen: la obsesión enfermiza por los datos, disfrazada de progreso, es el camino más rápido hacia un futuro distópico donde la individualidad es un recuerdo lejano. La cantinela del *big data* como panacea para todos los males es una estafa, una cortina de humo para justificar la manipulación y el control.
 
 ## La Tiranía de las Métricas: Un Caballo de Troya Digital

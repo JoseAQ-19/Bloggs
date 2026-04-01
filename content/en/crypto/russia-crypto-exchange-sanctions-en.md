@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Chainalysis Warns: Russia's 694% Crypto Surge Threatens Global Sanctions](/images/russia-crypto-exchange-sanctions-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 Russia's aggressive pivot to cryptocurrency threatens to render existing sanctions regimes obsolete as digital asset transactions surge.
 
 * Chainalysis warns that value received by sanctioned entities via cryptocurrency surged by 694% in 2025, posing a significant threat to global sanctions effectiveness.
@@ -69,3 +64,7 @@ The failure to adopt dynamic risk management frameworks will not only expose fin
 The global financial system is at risk. The surge in illicit crypto activity tied to sanctioned entities demands immediate and comprehensive updates to compliance programs. Financial institutions MUST implement dynamic, risk-based monitoring systems that go beyond static screening.
 
 *This article is for informational purposes only and should not be considered financial advice. Cryptocurrency investments are volatile and carry significant risk. Always do your own research before making any investment decisions.*
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

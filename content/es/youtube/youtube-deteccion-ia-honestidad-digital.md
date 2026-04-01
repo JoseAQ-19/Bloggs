@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![YouTube Te Espía: ¿Preparado Para Confesar Si Tu Video Lo Creó Una IA?](/images/youtube-deteccion-ia-honestidad-digital.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 YouTube ha activado el protocolo de máxima alerta: ahora exige a creadores como Ibai Llanos o ElRubius que confiesen si han usado IA, bajo amenaza de eliminar sus ingresos. España se ha convertido inexplicablemente en el epicentro mundial del consumo de "basura" generada por IA, con más de 20 millones de suscriptores atrapados en esta burbuja de contenido sintético.
 
 * YouTube ha implementado una herramienta de "detección de similitudes" que obliga a los creadores a subir sus datos biométricos para combatir los deepfakes, según el **informe de transparencia de California**%20YouTube%20CA%20587%20Transparency%20Report.pdf/H1%202024%20(v3)%20YouTube%20CA%20587%20Transparency%20Report.pdf).

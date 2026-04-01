@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Emma McNally Blasts SNL: Why This Tourette's Joke Is NOT ACCEPTABLE](/images/snl-tourettes-controversy-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 The laughter stopped when a disability was the punchline. SNL’s recent sketch is more harmful than humorous, according to Tourette's advocates.
 
 * Emma McNally, CEO of Tourettes Action, blasted a recent SNL sketch, calling it "NOT ACCEPTABLE" for mocking a disability.

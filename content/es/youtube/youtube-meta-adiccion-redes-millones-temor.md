@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![YouTube, El Monstruo De 44 Minutos: Tu Hijo Cae En La Trampa, Silicon Valley Gana](/images/youtube-meta-adiccion-redes-millones-temor.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 * Los adolescentes españoles dedican **44 minutos diarios** a YouTube, convirtiéndose en el blanco perfecto de sus algoritmos adictivos. 
 * **Cada cinco adolescentes españoles (14-18 años)** muestra signos claros de adicción a móviles y redes sociales según **El Debate**. 
 * **El 33%** de los jóvenes españoles desarrolla un uso problemático de internet y redes sociales, siendo las mujeres las más afectadas según **RTVE.es**. 

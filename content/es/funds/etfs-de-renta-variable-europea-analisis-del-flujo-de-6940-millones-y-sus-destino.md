@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![ETFs de renta variable europea: Análisis del flujo de 6.940 millones € y sus destinos.](/images/etfs-de-renta-variable-europea-analisis-del-flujo-de-6940-millones-y-sus-destino.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
-
 **6.940 millones de euros** han atraído los ETFs de renta variable europea en los últimos 12 meses, según datos de Morningstar Direct, lo que demuestra un notable interés de los inversores por este tipo de producto. Este volumen evidencia una preferencia creciente por la gestión pasiva como forma de diversificar carteras en un contexto económico marcado por la incertidumbre.
 
 * 2,5%: El rendimiento promedio anual de los ETFs de renta variable europea en los últimos 5 años, según Morningstar.
@@ -74,3 +69,7 @@ Artículos Relacionados:
 * [Cinco ETFs de acciones de gran capitalización de la eurozona con un rating gold](https://www.morningstar.es/es/news/274632/cinco-etfs-de-acciones-de-gran-capitalización-de-la-eurozona-con-un-rating-gold.aspx)
 
 ⚠️ **IMPORTANTE DISCLAIMER:** Este artículo sobre fondos de inversión tiene únicamente carácter informativo y educativo. No constituye recomendación de inversión ni asesoramiento financiero. Los fondos de inversión conllevan riesgos, incluyendo la posible pérdida del capital invertido. Los rendimientos pasados no son indicativos de resultados futuros. Antes de invertir, lea el folleto informativo disponible en la página web de la entidad, donde se detallan los riesgos asociados. Consulte con un asesor financiero independiente.
+---
+
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto calificado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.

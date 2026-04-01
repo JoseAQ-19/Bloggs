@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Workday Tambalea: El Plan Secreto De Cegid Para Desbancarles En España](/images/workday-obsolescencia-ia-openai-2026.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 Es ingenuo pensar que Workday seguirá siendo intocable en el mercado español. Cegid viene a dar guerra.
 
 * Cegid, impulsado por soluciones de RR. HH. basadas en IA, busca desafiar el dominio de Workday en el mercado español.

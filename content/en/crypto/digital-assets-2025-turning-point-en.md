@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![$512 Million Gone: The DeFi Hack No One Is Talking About.](/images/digital-assets-2025-turning-point-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 The DeFi industry's promise of decentralized finance continues to be undermined by persistent security vulnerabilities, costing investors millions despite broader market gains.
 
 * In 2025, the DeFi industry lost $512 million to exploits, including a $223 million breach involving Cetus, overshadowing broader market gains.
@@ -69,3 +64,7 @@ The global DeFi market was estimated at $26.94 billion in 2025 and is forecasted
 
 ## The Bottom Line
 DeFi's growth necessitates a shift from aggressive expansion to prioritizing security. Investors should demand transparency reports from DeFi protocols and independent audits before allocating capital. Secure the chain, secure the future.
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

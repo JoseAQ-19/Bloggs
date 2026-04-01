@@ -19,9 +19,6 @@ author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 La supuesta "neutralidad" periodística: una farsa peligrosa.
 
 En una época donde la información nos bombardea sin cesar, la insistencia en la "neutralidad" en el periodismo suena más a propaganda que a virtud. La idea de que un periodista puede ser un conducto impoluto de "hechos", sin sesgos ni agendas, es una mentira que perpetúa la desinformación y el conformismo. Es hora de incinerar esta noción de una vez por todas.

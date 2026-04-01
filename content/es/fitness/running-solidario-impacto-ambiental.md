@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Salomon Ultra Pirineu: ¿Héroes Ecológicos o Contaminación Disfrazada? Los Datos Revelan](/images/running-solidario-impacto-ambiental.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
-
 La industria de las carreras de montaña vende una fantasía de conexión con la naturaleza mientras, irónicamente, deja una huella ecológica que requiere semanas de descontaminación y toneladas de logística contaminante. Los corredores compran la ilusión de ser "héroes ecológicos" simplemente porque corren entre árboles, ignorando que su mera presencia en masa es un acto de agresión logística contra el ecosistema que pretenden amar.
 
 * La edición de 2021 de la Salomon Ultra Pirineu generó 1.300 kg de residuos, lo que representa una media de 0,5 kg de basura por cada corredor, según los datos oficiales del evento.

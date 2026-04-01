@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![¡Alerta Roja! Guerra Irán-EEUU Infla Apuestas Crypto a $500M: ¿Manipulación Masiva?](/images/guerra-iran-eeuu-apuestas-crypto-polymarket.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
-
 Más de 500 millones de dólares en apuestas cripto sobre un posible conflicto entre Estados Unidos e Irán despiertan sospechas de manipulación masiva. La especulación descontrolada en mercados de predicción descentralizados como Polymarket plantea serias dudas sobre la integridad del mercado.
 
 * Más de 500 millones de dólares en apuestas cripto se han realizado en Polymarket sobre un posible conflicto entre Estados Unidos e Irán, lo que genera preocupación por la manipulación del mercado.
@@ -80,3 +75,7 @@ La manipulación de los mercados de predicción puede tener un impacto negativo 
 ## Nuestra Opinión
 
 España debe actuar con decisión para regular los mercados de predicción de criptomonedas. La inacción no es una opción cuando hay millones en juego y la confianza pública está en riesgo. Vigilen de cerca, inviertan con cautela.
+---
+
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto calificado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.

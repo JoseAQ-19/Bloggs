@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/images/youtube-vs-disney-new-media-king-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 YouTube’s promise of fame and fortune through ad revenue is increasingly a mirage, with some creators seeing their earnings plummet from $100 a day to a paltry $6.
 
 * YouTube creators have reported ad revenue declines as steep as 90%, dropping from $100/day to $6/day for some.

@@ -31,7 +31,16 @@ TRUSTED_DOMAINS = {
 PROMPT_LEAK_PATTERNS = [
     r'ACTÚA COMO:', r'TAREA:', r'TITULO \(NUEVO\):', r'TÍTULO NUEVO',
     r'Here is the article', r'ROLE:', r'TASK:', r'MANDATORY RULES',
-    r'CRITICAL FORMATTING RULES'
+    r'CRITICAL FORMATTING RULES',
+    r'^\s*title\s*:\s*.*$',
+    r'^\s*slug\s*:\s*.*$',
+    r'^\s*translationKey\s*:\s*.*$',
+    r'^\s*language\s*:\s*.*$',
+    r'^\s*categories\s*:\s*.*$',
+    r'^\s*description\s*:\s*.*$',
+    r'^\s*date\s*:\s*.*$',
+    r'^#\s*title:.*$',
+    r'^#\s*TÍTULO\s*[:].*$',
 ]
 
 CHATBOT_PREAMBLE_PATTERNS = [

@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![AI Is The significant shift Europe Needs To Combat 30% Drug Development Failures](/images/ai-drug-discovery-eu-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 * AI has the potential to significantly reduce the 30% drug development failure rate, as noted by FDA's Deputy Director Jin Liu.
 * The AI in drug discovery market is projected to grow at a CAGR of 25-30% over the next five years, according to Medi-Tech Insights.
 * If Europe adopts AI in drug development, it could enhance its competitiveness and shorten timelines for bringing new drugs to market.

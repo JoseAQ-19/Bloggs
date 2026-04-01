@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Bitcoin's $55K Cliff: Peter Brandt Gives It 25% Chance of DOOM](/images/bitcoin-55k-support-onchain-analysis-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 Bitcoin's price trajectory is under intense scrutiny as market analysts offer conflicting predictions. Veteran trader Peter Brandt has assigned a 25% probability to a potential Bitcoin drop to $55,000.
 
 * Veteran trader Peter Brandt gives Bitcoin a 25% chance of falling to $55,000 under unfavorable market conditions.
@@ -80,3 +75,7 @@ The current landscape for Bitcoin is painted with conflicting signals. While Pet
 Closely monitor the $65,636 support level, as a break below this point could trigger a liquidation cascade. Reducing leveraged positions is prudent to mitigate potential losses. The market demands vigilance and adaptability.
 
 *This article is for informational purposes only and should not be considered financial advice. Cryptocurrency investments are volatile and carry significant risk. Always do your own research before making any investment decisions.*
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Planet Fitness Kicks Out Muscle, Opens Doors To Maui: Genius Or PR Stunt?](/images/planet-fitness-maui-offer-charity-marketing-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 **82% of Planet Fitness members believe the company has room for improvement**, a stark contrast to the brand's self-proclaimed "Judgment Free Zone" mantra. **A $13,110 donation to the Hawaiʻi Community Foundation**, though seemingly generous, raises questions about the true intentions behind such philanthropic efforts. **The Maui Family YMCA's decision to open its doors to displaced residents**, offering access to facilities at no cost, provides a compelling counterpoint to Planet Fitness's actions.
 
 ## The "Judgment Free Zone" Under Fire: Planet Fitness's $13K Maui Gambit

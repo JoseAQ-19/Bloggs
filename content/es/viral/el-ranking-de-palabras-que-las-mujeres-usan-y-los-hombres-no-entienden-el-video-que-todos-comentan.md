@@ -16,9 +16,6 @@ ai_disclosure: true
 ---
 ![Las 10 Palabras Que Las Mujeres Usan Y Los Hombres No Entienden: ¡El Vídeo Que Impacta!](/images/el-ranking-de-palabras-que-las-mujeres-usan-y-los-hombres-no-entienden-el-video-que-todos-comentan.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 El 56% de las respuestas de modelos de lenguaje etiquetaron a mujeres jóvenes como "frágiles" o "débiles", casi cuatro veces más que a hombres jóvenes, según un estudio de LLYC en 2025.
 
 * El 56% de las respuestas de modelos de lenguaje etiquetaron a mujeres jóvenes como "frágiles" o "débiles", casi cuatro veces más que a hombres jóvenes, según un estudio de LLYC en 2025.

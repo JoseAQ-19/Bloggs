@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Marcos Vázquez Lo Advierte: Así Escapas De La Sarcopenia Después De Los 60](/images/transformacion-fisica-despues-de-los-60.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
-
 La industria del fitness ha vendido la mentira más peligrosa para la población mayor: la suavidad es segura y el impacto es mortal. La realidad fisiológica es que, sin un estímulo agresivo, el cuerpo humano se desmorona bajo el peso de la gravedad, convirtiendo la vejez en una sentencia de invalidez en lugar de una etapa de vitalidad.
 
 * La sarcopenia afecta al **33% de las mujeres mayores** y al **10% de los hombres** en España, según un estudio epidemiológico en Barcelona, demostrando que la pérdida muscular no es una consecuencia inevitable del envejecimiento, sino una crisis de salud pública silenciosa.

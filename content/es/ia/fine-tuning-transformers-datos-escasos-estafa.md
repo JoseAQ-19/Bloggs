@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![¿Estás quemando GPUs en vano? Por qué 'fine-tuning' Transformers con datos escasos es una estafa](/images/fine-tuning-transformers-datos-escasos-estafa.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 Estás alimentando a las bestias de silicio con migajas. Y te estás arruinando en el intento. La optimización fina de los modelos Transformer con conjuntos de datos del tamaño de un tuit se ha convertido en la nueva fiebre del oro para las empresas desesperadas por exprimir el jugo de la IA sin el presupuesto de Google. Pero, ¿es realmente oro lo que están desenterrando, o solo pirita digital que quemará sus GPUs y sus bolsillos?
 
 ## El espejismo del Transformer domesticado

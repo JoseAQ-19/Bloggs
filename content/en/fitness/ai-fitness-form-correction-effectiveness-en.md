@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![AI Fitness Mirrors Spark 170% Injury Spike: Are They Worth The Risk?](/images/ai-fitness-form-correction-effectiveness-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 Without question, AI fitness mirrors promise personalized workouts, but the escalating injury rates suggest a dangerous trade-off.
 
 * Emergency cases related to exercise injuries caused by using AI fitness mirrors surged by 170% in 2023 compared to the previous year, suggesting a significant safety risk.

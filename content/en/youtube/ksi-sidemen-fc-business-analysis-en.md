@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Eddie Hearn SHOCKED: Is KSI's Nice Guy Act Hiding A Financial Disaster?](/images/ksi-sidemen-fc-business-analysis-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 KSI's reputation as the "nice guy" might be a carefully constructed facade hiding potential financial challenges within the Sidemen empire.
 
 * Eddie Hearn expressed surprise at KSI's equal distribution of earnings among the Sidemen, prompting inquiries regarding the group's long-term financial viability.

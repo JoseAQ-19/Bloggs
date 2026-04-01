@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![MrBeast's Empire Crumbles? Views Plunge 50% As Controversy Swirls](/images/mrbeast-controversy-business-impact-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 MrBeast's seemingly unstoppable reign as YouTube's golden child may be showing cracks, evidenced by a dramatic plunge in viewership and a barrage of ethical questions.
 
 * MrBeast's YouTube views have plummeted by 50% in the last 12 months, dropping from approximately 900 million to 1.2 billion monthly views to 570 million.

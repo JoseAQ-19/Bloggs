@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Leucine's Lie: The Supplement Industry Is Killing Your Arteries, New Study Shows](/images/leucine-atherosclerosis-risk-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 Without question, creatine is the gold standard by which all strength-related supplements are judged — but the protein market's relentless push for "more" may be driving arteries toward early failure.
 
 * A new study suggests that exceeding 22% of daily calories from protein, or 25g per meal, may increase the risk of atherosclerosis by activating immune cells.

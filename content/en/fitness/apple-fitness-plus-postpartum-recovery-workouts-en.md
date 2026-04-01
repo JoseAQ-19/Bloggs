@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Apple Fitness+ Fails 54% Of Moms: The Pelvic Floor Crisis NOBODY Talks About](/images/apple-fitness-plus-postpartum-recovery-workouts-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 Apple Fitness+ promises a seamless return to pre-pregnancy fitness, but for over half of new mothers, it might be a premature leap into a minefield of pelvic floor dysfunction.
 
 * A whopping 54.2% of women experience pelvic floor issues after their first vaginal delivery, raising concerns about the suitability of mainstream postpartum fitness programs.

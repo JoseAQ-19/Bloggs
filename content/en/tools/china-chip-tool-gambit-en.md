@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![China's $49.2 Billion Secret: How Second-Hand Chips Bypass US Sanctions](/images/china-chip-tool-gambit-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 China's semiconductor imports surged to $49.2 billion in 2024, up 17% year-over-year, despite US sanctions targeting advanced chip manufacturing capabilities.
 
 * China imported $49.2 billion worth of semiconductor manufacturing equipment in 2024, up 17% from 2023, despite US sanctions.

@@ -1,88 +1,116 @@
+
 import os
-import frontmatter
+import re
+import uuid
+import yaml
+import glob
 from datetime import datetime, timedelta
 
-CONTENT_ROOT = "content"
-CATEGORIES = ["ia", "crypto", "fitness", "youtube", "viral", "tools"]
+CONTENT_ES = "content/es"
+CONTENT_EN = "content/en"
+
+def load_frontmatter(filepath):
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            content = f.read()
+    except Exception as e:
+        return None, None, None
+    
+    match = re.search(r'^---\s*\n(.*?)\n---\s*\n(.*)', content, re.DOTALL)
+    if match:
+        fm_text = match.group(1)
+        body = match.group(2)
+        try:
+            fm = yaml.safe_load(fm_text)
+            return fm, body, fm_text
+        except yaml.YAMLError:
+            return None, None, None
+    return None, None, None
+
+def save_frontmatter(filepath, fm, body):
+    with open(filepath, 'w', encoding='utf-8') as f:
+        f.write("---\n")
+        yaml.dump(fm, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
+        f.write("---\n")
+        f.write(body)
 
 def parse_date(date_obj):
-    """Normaliza la fecha a datetime object."""
-    if isinstance(date_obj, datetime):
-        return date_obj
-    try:
-        # Intentar formato ISO string
-        return datetime.fromisoformat(str(date_obj))
-    except:
-        return None
+    if isinstance(date_obj, str):
+        try:
+            return datetime.fromisoformat(date_obj)
+        except ValueError:
+            return None
+    return date_obj
 
-def are_twins(date1, date2):
-    """Devuelve True si las fechas son cercanas (< 30 min)."""
-    if not date1 or not date2: return False
-    diff = abs(date1 - date2)
-    return diff < timedelta(minutes=30)
+def get_candidates_en():
+    candidates = [] # list of (datetime, filepath)
+    for f in glob.glob(f"{CONTENT_EN}/**/*.md", recursive=True):
+        if "_index.md" in f: continue
+        fm, _, _ = load_frontmatter(f)
+        if fm and 'date' in fm:
+            dt = parse_date(fm['date'])
+            if dt:
+                candidates.append((dt, f))
+    return candidates
 
-def link_siblings():
-    print("🔗 INICIANDO OPERACIÓN TWIN LINK (ENLACE DE HERMANOS)...")
+def find_sibling_fuzzy(es_date, candidates_en):
+    # Buscar el más cercano en un radio de 5 minutos
+    best_match = None
+    min_diff = timedelta(minutes=5)
+    
+    for en_date, en_path in candidates_en:
+        diff = abs(es_date - en_date)
+        if diff < min_diff:
+            min_diff = diff
+            best_match = en_path
+            
+    return best_match
+
+def main():
+    print("🔗 INICIANDO VINCULACIÓN DIFUSA (Tiempo Flexible)...")
+    
+    candidates_en = get_candidates_en()
+    print(f"📚 Candidatos EN disponibles: {len(candidates_en)}")
     
     linked_count = 0
+    es_files = glob.glob(f"{CONTENT_ES}/**/*.md", recursive=True)
     
-    for category in CATEGORIES:
-        path_en = os.path.join(CONTENT_ROOT, "en", category)
-        path_es = os.path.join(CONTENT_ROOT, "es", category)
+    for es_path in es_files:
+        if "_index.md" in es_path: continue
         
-        if not os.path.exists(path_en) or not os.path.exists(path_es): continue
+        fm_es, body_es, _ = load_frontmatter(es_path)
+        if not fm_es or 'date' not in fm_es: continue
         
-        posts_en = []
-        posts_es = []
+        es_date = parse_date(fm_es['date'])
+        if not es_date: continue
         
-        # Cargar todos los posts EN
-        for f in os.listdir(path_en):
-            if f.endswith(".md") and not f.startswith("_"):
-                p = frontmatter.load(os.path.join(path_en, f))
-                posts_en.append({'file': f, 'path': os.path.join(path_en, f), 'date': parse_date(p.get('date')), 'post': p})
-
-        # Cargar todos los posts ES
-        for f in os.listdir(path_es):
-            if f.endswith(".md") and not f.startswith("_"):
-                p = frontmatter.load(os.path.join(path_es, f))
-                posts_es.append({'file': f, 'path': os.path.join(path_es, f), 'date': parse_date(p.get('date')), 'post': p})
+        # Buscar hermano
+        sibling_path = find_sibling_fuzzy(es_date, candidates_en)
         
-        print(f"\n📂 Categoría: {category.upper()} (EN: {len(posts_en)} | ES: {len(posts_es)})")
-        
-        # Emparejamiento
-        for en_item in posts_en:
-            best_match = None
+        if sibling_path:
+            # Encontrado!
+            # Generar UUID
+            new_key = str(uuid.uuid4())
             
-            # Buscar hermano en ES por fecha cercana
-            for es_item in posts_es:
-                if are_twins(en_item['date'], es_item['date']):
-                    best_match = es_item
-                    break
+            # Verificar si ya tienen key (y si es la misma)
+            linked_already = False
+            # ... (lógica simple: sobrescribir si es necesario)
             
-            if best_match:
-                # Generar Key Maestra (slug EN limpio)
-                master_key = en_item['file'].replace('.md', '').replace('-en', '')
+            fm_es['translationKey'] = new_key
+            save_frontmatter(es_path, fm_es, body_es)
+            
+            fm_en, body_en, _ = load_frontmatter(sibling_path)
+            if fm_en:
+                fm_en['translationKey'] = new_key
+                save_frontmatter(sibling_path, fm_en, body_en)
                 
-                # Inyectar Key en EN
-                en_item['post']['translationKey'] = master_key
-                with open(en_item['path'], 'wb') as f:
-                    frontmatter.dump(en_item['post'], f)
-                    
-                # Inyectar Key en ES
-                best_match['post']['translationKey'] = master_key
-                with open(best_match['path'], 'wb') as f:
-                    frontmatter.dump(best_match['post'], f)
-                    
-                print(f"   ✅ [LINKED] {en_item['file'][:30]}... <---> {best_match['file'][:30]}... | Key: {master_key}")
-                linked_count += 1
-                
-                # Quitar de la lista ES para no re-emparejar (optimización simple)
-                posts_es.remove(best_match)
-            else:
-                pass
-                # print(f"   ⚠️ Huérfano EN: {en_item['file']}")
+            print(f"✅ Pareja Detectada (Diff: {abs(es_date - parse_date(fm_en['date']))}):\n   🇪🇸 {os.path.basename(es_path)}\n   🇺🇸 {os.path.basename(sibling_path)}")
+            linked_count += 1
+            
+            # Quitar de candidatos para no repetir (opcional, pero seguro)
+            # candidates_en = [c for c in candidates_en if c[1] != sibling_path]
 
-    print(f"\n🔗 OPERACIÓN FINALIZADA. {linked_count} parejas enlazadas.")
+    print(f"\n🎉 ¡EUREKA! {linked_count} pares vinculados temporalmente.")
 
 if __name__ == "__main__":
-    link_siblings()
+    main()

@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Curling's AI Apocalypse: Curly The Robot Is Coming For Your Olympic Gold](/images/ai-curling-controversy-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 Curling's AI Apocalypse: "Curly" The Robot Is Coming For Your Olympic Gold
 
 AI is poised to disrupt the niche world of curling, threatening to unseat human champions.

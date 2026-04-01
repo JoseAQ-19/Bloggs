@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Bodybuilding Shocker: Steroids & Diet - The Dark Side Claims Stephanie Buttermore](/images/stephanie-buttermore-death-investigation-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 The fitness industry often prioritizes aesthetics over well-being, potentially leading to tragic outcomes. Stephanie Buttermore, a 36-year-old fitness influencer, passed away on March 6, 2026, underscoring the hidden dangers lurking beneath the surface of extreme fitness culture.
 
 * Stephanie Buttermore, a 36-year-old fitness influencer, passed away on March 6, 2026, with the cause of death remaining undisclosed.

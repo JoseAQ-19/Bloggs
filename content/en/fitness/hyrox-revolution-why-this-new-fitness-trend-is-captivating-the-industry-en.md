@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![The Shocking Injury Rates in Hyrox That Every Fitness Buff Needs to Know](/images/hyrox-revolution-why-this-new-fitness-trend-is-captivating-the-industry-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 **One in three Hyrox athletes will suffer a shoulder injury, with 25-30% of all injuries affecting the shoulder region**. Hyrox, a high-intensity functional fitness competition, combines running with exercise stations, resulting in a unique set of injury risks. Despite the growing popularity of Hyrox, many athletes are unaware of the potential dangers associated with this demanding sport. 
 
 * **Completion Time:** The median completion time for a Hyrox event is 86.5 minutes, with runs taking significantly longer (51.2 minutes) than exercise stations (32.8 minutes).

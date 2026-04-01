@@ -19,9 +19,6 @@ author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 La obsesión por la cortesía con la IA es un síntoma de nuestra decadencia intelectual. ¿En serio estamos debatiendo si debemos decir "por favor" a un programa? La verdadera pregunta es: ¿por qué estamos permitiendo que esta charlatanería pseudocientífica consuma recursos valiosos y distorsione nuestra percepción de la realidad?
 
 ## El Delirio de la Amabilidad Digital: Un Despilfarro Energético y Cognitivo

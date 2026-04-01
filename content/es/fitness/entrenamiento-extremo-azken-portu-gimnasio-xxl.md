@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Azken Portu Revienta la Burbuja del Entrenador Personal: ¡Pura Estafa!](/images/entrenamiento-extremo-azken-portu-gimnasio-xxl.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
-
 La búsqueda de un cuerpo perfecto ha abierto la puerta a una jungla de charlatanes y estafadores, especialmente en el mundo del entrenamiento personal. La proliferación de "influencers" y la falta de regulación están poniendo en riesgo la salud y el bolsillo de los usuarios de gimnasios en España.
 
 * El auge de "trileros de gimnasio" sin cualificación amenaza con defraudar y lesionar a entusiastas del fitness que buscan entrenamiento personalizado.

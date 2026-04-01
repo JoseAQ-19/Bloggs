@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Is This The End Of Hollywood? Matt Belloni Takes The Town To YouTube.](/images/matt-belloni-the-town-youtube-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 * YouTube generated approximately $62 billion in revenue in 2025, surpassing Disney Media's $60.9 billion, demonstrating the platform's financial power and potential for creators.
 * Matt Belloni's move of "The Town" from Puck to YouTube signifies a potential shift in Hollywood insider reporting from subscription-based platforms to ad-supported video content.
 * 52% of creators report anxiety, 35% depression, and 10% suicidal thoughts due to work pressures, highlighting the severe mental health risks in the creator economy.

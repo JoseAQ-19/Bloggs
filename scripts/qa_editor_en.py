@@ -48,12 +48,12 @@ MCP_BINARY = "notebooklm-mcp"
 
 NICHE_CONSTRAINTS_EN = {
     "fitness": "FITNESS MISSION: Demand medical and scientific rigor. Cite PubMed, WHO, or peer-reviewed journals. Purge 'bro-science'. Mandatory jargon: progressive overload, metabolic stress, hypertrophy, caloric deficit.",
-    "crypto": "CRYPTO MISSION: Financial rigor and security. Always include a disclaimer (Not Financial Advice). Technical terms: on-chain data, decentralization, proof-of-stake, market cap, volatility.",
+    "crypto": "CRYPTO MISSION: Financial rigor and security. MANDATORY: Include a disclaimer (Not Financial Advice) at the END of the article (before the closing section). Technical terms: on-chain data, decentralization, proof-of-stake, market cap, volatility.",
     "ia": "AI MISSION: Focus on technical architecture and ethics. Discuss foundation models, inference latency, RAG (Retrieval-Augmented Generation), and safety alignment.",
     "youtube": "MEDIA MISSION: Retention metrics and viewer psychology analysis. Discuss CTR, 3-second hooks, and the YouTube recommendation algorithm.",
     "viral": "VIRAL MISSION: Deep analysis of virality triggers (fear, ego, scarcity). Identify the psychological mechanics of the trend.",
     "tools": "PRODUCTIVITY MISSION: Cost-benefit and UX analysis. Evaluate the learning curve and enterprise-level integration (APIs, Webhooks).",
-    "funds": "ECONOMY MISSION: Focus on investment funds and macro trends. Reference market data (S&P 500, Yield curves) and explain risk management strategies."
+    "funds": "ECONOMY MISSION: Focus on investment funds and macro trends. MANDATORY: Include legal disclaimer at the END of the article. Reference market data (S&P 500, Yield curves) and explain risk management strategies."
 }
 
 # =====================================================
@@ -96,10 +96,12 @@ YOUR MISSION (in this priority order):
 
 6. BANNED PHRASES: Find and REPLACE: "In the ever-evolving landscape of", "In summary", "A double-edged sword", "is revolutionizing", "driving innovation".
 
-7. EXTERNAL LINKS (AUTHORITY): 
+7. ANTI-LEAK FILTER (CRITICAL): Scan the text body. If you detect metadata leaks (e.g., raw lines saying 'title: "..."', 'slug: "..."', 'translationKey:', 'description:', 'categories:') or repetition of the title/H1 at the start, you MUST remove them completely. The text should be clean prose.
+
+8. EXTERNAL LINKS (AUTHORITY): 
    The article MUST contain at least 2-3 outbound links to high-authority sources (e.g., PubMed, TechCrunch, Nature, government agencies, or leading industry publications). If the draft mentions a study, a law, or a news event without a link, you MUST find the real URL (or a reliable source citing it) and insert it. If the exact URL is missing, link to the official portal of the organization mentioned.
 
-8. SEO: Ensure H2/H3 headings contain relevant English keywords. No more than one H1.
+9. SEO: Ensure H2/H3 headings contain relevant English keywords. No more than one H1.
 
 RESPONSE FORMAT (CRITICAL):
 - Return ONLY the edited article text in pure Markdown.

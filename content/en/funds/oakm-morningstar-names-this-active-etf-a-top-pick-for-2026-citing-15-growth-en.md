@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![OAKM: Morningstar Names This Active ETF a Top Pick for 2026, Citing 15% Growth](/images/oakm-morningstar-names-this-active-etf-a-top-pick-for-2026-citing-15-growth-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 The LNG market just lost 10% of global supply overnight as Qatar halted production amid escalating Middle East tensions, sending commodity volatility metrics to 18-month highs. Against this backdrop, Morningstar has designated OAKM – the Oaktree Capital Management Active ETF – as a top 2026 pick, citing its "unique positioning in distressed credit and AI-driven infrastructure debt." This designation comes as institutional flows into alternative ETFs surged 37% in Q4 2025 according to Bloomberg data.
 
 The geopolitical disruption in the Middle East represents a significant shock to global energy markets, particularly affecting natural gas supplies. Qatar, as the world's largest exporter of liquefied natural gas, accounted for approximately 20% of global LNG exports before production ceased. This sudden reduction in supply has immediate consequences for European and Asian markets, which are already navigating post-pandemic energy transition challenges. The price volatility has cascaded through related markets, with infrastructure debt securities particularly sensitive to these fluctuations.
@@ -114,3 +109,7 @@ Finally, the potential for liquidity constraints within the alternative credit m
 ### Fuentes y Autoridad
 * [Análisis en Morningstar](https://www.morningstar.com)
 * [Análisis en Investopedia](https://www.investopedia.com)
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

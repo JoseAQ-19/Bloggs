@@ -13,11 +13,6 @@ author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
-
 ## TRON: Justin Sun controla el 60% y tú pagarás el precio en 2028
 
 El ecosistema TRON, liderado por Justin Sun, enfrenta crecientes críticas por su presunta centralización, que parece contradecir los principios fundamentales de la tecnología blockchain. A medida que crece la incertidumbre regulatoria, especialmente en España, los riesgos para los inversores se multiplican.
@@ -74,3 +69,7 @@ La acumulación de poder por parte de Justin Sun, el historial de uso ilícito d
 
 - [YouTube te destroza: el algoritmo adictivo que engancha como la cocaína](/es/youtube/youtube-atracones-tele-peor/) 
 - [YouTube: el imperio prohibido donde el 64% de tus hijos ya están cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
+---
+
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto calificado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.

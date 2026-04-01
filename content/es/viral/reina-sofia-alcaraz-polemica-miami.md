@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Sofía Contra Alcaraz: El Incómodo Encuentro En Miami Que Casa Real No Quería Que Vieras](/images/reina-sofia-alcaraz-polemica-miami.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 El encuentro entre la Reina Sofía y Carlos Alcaraz en Miami generó 280,000 vistas en Casa Real en menos de 24 horas, desatando un análisis frenético de cada gesto. 
 * El video del saludo entre Sofía y Alcaraz alcanzó 280,000 reproducciones en redes sociales de la Casa Real en apenas horas, según datos de sus propios canales oficiales. 
 * Javier Torregrosa, especialista en comportamiento humano, analizó que las manos cruzadas de la Infanta Sofía durante la conversación podrían indicar "protección o estrés ante el protagonismo". 

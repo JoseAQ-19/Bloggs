@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![IKEA's Smart Nightmare: Your $25 Lamp Is Under Attack 30 Times Daily](/images/ikea-smart-home-cybersecurity-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 The promise of a frictionless, automated future is a lie sold by Swedish flat-pack furniture and subsidized by your privacy. Your $25 smart lamp isn't just illuminating your living room; it's serving as a low-rent sentry in a digital war zone where you are the collateral damage.
 
 * The average connected household with 22 IoT devices faces nearly 30 attacks every 24 hours, making even a $25 smart lamp a target.

@@ -17,9 +17,6 @@ author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 El año 2026 no fue un cataclismo, sino la confirmación de una lenta metástasis. El mundo, supuestamente interconectado, se reveló como un conjunto de intereses egoístas, propulsado por una geopolítica despiadada y una tecnología convertida en herramienta de control. ¿Sorprendidos? No deberían estarlo.
 
 ## Trump lo Predijo (y el Resto lo Permitió)

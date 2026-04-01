@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Microexpresiones Del Terror: Así Caza Tetuán a Agresores Antes Del Ataque.](/images/tetuan-microexpresiones-terror-maltrato-postpandemia.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 La idea de que podemos detectar agresores en Tetuán antes de que ataquen analizando sus microexpresiones faciales es tan seductora como improbable.
 
 * En España, las denuncias por violencia de género aumentaron un 72,1% entre 2002 y 2007, lo que refleja un posible incremento en la disposición a denunciar.

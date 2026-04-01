@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Temu's Data Privacy Nightmare Expands: Now They Know What You Eat](/images/temu-grocery-expansion-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 ## The Algorithm Knows Your Appetite: Temu's Grocery Gambit and the Data Privacy Escalation
 
 Temu lost between $8 billion and $9 billion in 2023. This financial hemorrhage funds a terrifying data collection machine that now knows what you eat. The platform’s aggressive expansion into groceries isn't just about cheap snacks; it’s an escalation in surveillance capitalism where your dinner becomes another data point in their vast ecosystem. As consumer watchdogs sound alarms, the question isn't *if* Temu is dangerous, but how much longer we'll tolerate its extractive model.

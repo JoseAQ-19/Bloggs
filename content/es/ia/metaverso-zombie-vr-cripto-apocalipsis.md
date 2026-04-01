@@ -22,9 +22,6 @@ author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 El Metaverso: un fraude desde su concepción. La grandilocuente promesa de un mundo virtual inmersivo, orquestada por la desesperada metamorfosis de Facebook a Meta, no solo ha fracasado, sino que se ha revelado como una herramienta de vigilancia implacable, latente y lista para devorar la privacidad y la autonomía que nos quedan.
 
 La idea original, vendida como la panacea de la interacción social y el comercio digital, se ha desplomado estrepitosamente. El entusiasmo inicial ha sido reemplazado por un escepticismo justificado, al enfrentarse a mundos virtuales desolados y una inmersión que aliena más de lo que enriquece. El 91% de los entornos virtuales creados por usuarios en el Metaverso languidecen sin visitantes. ¿Necesitamos más pruebas de su fracaso? No, solo un análisis honesto. La estampida de usuarios, hartos de contenido vacío y limitaciones técnicas, ha sentenciado al Metaverso a un estado de coma inducido.

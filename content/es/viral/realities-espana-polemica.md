@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Aída Nízar Lo Confirma: El Horror Psicológico Detrás De Gran Hermano](/images/realities-espana-polemica.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 La televisión, lejos de ser un simple entretenimiento, se ha convertido en un campo de batalla donde la ética es la primera víctima.
 
 * Aída Nízar confirma que *Gran Hermano* es una "estafa televisiva" guionizada, destacando la manipulación psicológica que sufren tanto los participantes como los espectadores.

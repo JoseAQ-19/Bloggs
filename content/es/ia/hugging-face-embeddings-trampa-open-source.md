@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Hugging Face: ¿El espejismo del Open Source o la trampa de los Embeddings?](/images/hugging-face-embeddings-trampa-open-source.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 Hugging Face se presenta como la Meca del open source en Inteligencia Artificial, pero ¿podría ser, en realidad, un caballo de Troya disfrazado de repositorio colaborativo? Para las empresas que buscan democratizar el acceso a los modelos de *embeddings*, la plataforma brilla. Pero el brillo del oro a veces es solo óxido bien pulido.
 
 ## Los Números Crudos

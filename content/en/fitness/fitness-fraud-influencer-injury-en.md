@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![$278 Billion Fitness Lie: How Injury Influencers Are Ripping You Off](/images/fitness-fraud-influencer-injury-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 Without question, the fitness industry, slated to reach $278 billion by 2026, harbors injury influencers who prioritize profit over well-being through dubious tactics.
 
 * The US Gym, Health & Fitness Clubs market is a $47.0 billion behemoth in 2026, according to IBISWorld, attracting unscrupulous actors eager to exploit this vast sector.

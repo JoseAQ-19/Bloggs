@@ -16,11 +16,6 @@ ai_disclosure: true
 ---
 ![Clovis Planet Fitness Reopens: 94% Infection Risk Reduction Promised Amid Controversy](/images/clovis-planet-fitness-reopens-what-you-need-to-know-after-the-safety-closure-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 Planet Fitness's promise of a 94% reduction in COVID-19 infection risk through enhanced ventilation sounds like the fitness industry's most ambitious marketing claim since "six-pack abs in 30 days"—but the science behind it reveals a more complex reality.
 
 * Planet Fitness claims ventilation upgrades will reduce infection risk by 94%, but independent experts question the real-world effectiveness of this claim in high-traffic gyms.

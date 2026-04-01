@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Sarcopenia a los 50: El Peligro Oculto que Ignoran el 70% de Españoles](/images/entrenamiento-fuerza-2026-verdad-oculta.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
-
 El declive muscular relacionado con la edad no es una sentencia, pero sí una epidemia silenciosa que se está gestando a la sombra de la cultura del bienestar.
 
 * Sarcopenia, la pérdida de masa y fuerza muscular relacionada con la edad, pone en riesgo al 15,4% de los españoles mayores de 50 años, sin embargo, se estima que el 70% desconoce la afección y sus consecuencias.

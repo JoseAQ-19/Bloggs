@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Ethereum Arrasa: APY del 12% Destrona a Bitcoin Y Convence A Harvard.](/images/harvard-ethereum-bitcoin-cambio-paradigma.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
-
 * Ethereum's transition to Proof-of-Stake permite staking con APYs que oscilan entre el 4% y el 12%, presentando una alternativa a la intensiva en energía Proof-of-Work de Bitcoin.
 * Harvard Management Company redujo significativamente sus tenencias en ETF de Bitcoin en un 21% durante el cuarto trimestre de 2025 mientras asignaba aproximadamente 86,8 millones de dólares a acciones de ETF de Ethereum.
 * Para los inversores españoles, el cumplimiento de MiCA se volverá obligatorio a partir del 1 de julio de 2026, requiriendo que las empresas cripto busquen autorización con anticipación.
@@ -92,3 +87,7 @@ Además, cuando los usuarios apuestan sus ETH, estos quedan bloqueados durante e
 A diferencia de Bitcoin, donde los mineros simplemente no generan ingresos si fallan en resolver un bloque, los validadores de Ethereum enfrentan penalizaciones por mala conducta. Estas penalizaciones, conocidas como slashing, pueden resultar en la pérdida parcial o total de los ETH apostados por errores como doble posteo (votar en dos bloques distintos a la misma altura) o inactividad prolongada.
 
 El riesgo de slashing es bajo pero no nulo. Según datos de la red, las tasas de slashing han sido históricamente bajas, pero la severidad de las penalizaciones significa que incluso un solo incident
+---
+
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto calificado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.

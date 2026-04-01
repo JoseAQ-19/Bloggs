@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Sutherland's Water Crisis: 94% of Surface Water Contains Dangerous PFAS Contaminants](/images/sutherland-ias-drinking-water-crisis-what-you-need-to-know-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 Open your tap in Sutherland, Iowa, and you might as well be pouring a cocktail of toxic chemicals. A staggering **94% of surface water** in Iowa is contaminated with dangerous PFAS substances, significantly exceeding the EPA's newly established thresholds. 
 
 * **The EPA estimates the annual cost for public water systems to implement new PFAS regulations at $1.548 billion** — a staggering financial burden on municipalities ([EPA](https://www.epa.gov)).

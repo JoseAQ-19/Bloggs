@@ -16,11 +16,6 @@ ai_disclosure: true
 ---
 ![SEC's Shocking Crypto Policy Shift: $300 Billion Stablecoin Market Set to Explode](/images/sec-crypto-policy-shift-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 The SEC's sudden regulatory embrace is not a benevolent olive branch but a calculated containment strategy designed to corral a $300 billion market that threatens to outpace traditional finance.
 
 * Stablecoin market capitalization crossed $300 billion in early 2026, with projections pointing toward $1 trillion by late 2026.
@@ -141,3 +136,7 @@ The SEC's policy shift is a capitulation to the inevitable dominance of digital 
 }
 }
 </script>
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

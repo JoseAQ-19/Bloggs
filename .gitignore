@@ -29,3 +29,6 @@ data/cache/
 # OS
 .DS_Store
 Thumbs.db
+
+.env
+service-account.json

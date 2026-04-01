@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Conan O’Brien Desata Risas Sobre el Futuro de los Oscar y Causa Polémica en YouTube](/images/conan-obrien-se-rie-del-futuro-de-los-oscar-y-desata-una-ola-de-risas-en-youtube.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 * **19.7 millones de espectadores** fue la cifra de los Oscar 2025 con Conan O'Brien, el máximo en cinco años pero todavía 16.8% por debajo del pico pre-pandemia de **23.6 millones** en 2020 según datos oficiales de la Academia.
 * La audiencia de los Oscar se desplomó un **58.3%** en la última década, con un mínimo histórico de **9.85 millones** en 2021, según estadísticas consolidadas de audiencia de EE.UU.
 * El acuerdo de la Academia con YouTube para transmitir los Oscar **globalmente** desde 2029 hasta **2033** representa la mayor apuesta comercial en la historia de los premios, valorada en **miles de millones** según fuentes internas.

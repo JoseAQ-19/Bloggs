@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![YouTube's $40.4 Billion Ad Empire Topples Disney, Paramount, WBD Combined In Streaming War](/images/youtube-ad-revenue-disney-paramount-wbd-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 Hollywood's dominance has officially collapsed under the weight of a digital revolution it failed to fight.
 
 * YouTube's 2025 advertising revenue hit $40.4 billion, exceeding the combined ad revenue of Disney, NBCUniversal, Paramount Global, and Warner Bros. Discovery, which totaled only $37.8 billion in the same period — [BNN Breaking](https://bnnbreaking.com/tech/the-tech-buzz/youtubes-404b-ad-haul-crushes-legacy-media-giants).

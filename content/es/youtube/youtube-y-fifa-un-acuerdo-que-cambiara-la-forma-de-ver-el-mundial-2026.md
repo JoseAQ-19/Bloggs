@@ -13,9 +13,6 @@ author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 ## La Alianza YouTube-FIFA: 5 Mil Millones de Espectadores En El Mundial 2026
 
 **RTVE ha desembolsado €57 millones por los derechos del Mundial 2026, casi el doble del precio de mercado, según El Economista.**

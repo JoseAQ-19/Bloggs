@@ -23,6 +23,8 @@
 - [x] **Seguridad de Repositorio**: `.env` eliminado del índice de Git y verificado en `.gitignore` para prevenir fugas de secretos.
 - [x] **Estabilización de Cards**: Corregido bug visual en layouts que duplicaba imágenes y mostraba extractos kilométricos.
 - [x] **Despliegue de Producción**: Cambios pusheados a `main` y verificación de build en Vercel iniciada.
+- [x] **Vacuna Anti-Fugas (Metadata)**: Implementada regla de tolerancia cero en `prompts_factory.py`, red de seguridad en `text_cleaner.py` y limpieza masiva de ~6.5k archivos mediante `fix_metadata_leak.py`. 
+
 
 ## ✅ COMPLETADO
 - [x] AUDITORÍA EDITOR JEFE: Artículo YouTube/Android Auto reescrito de 0 (rechazo AdSense) → artículo completo con 7 H3 dedicados, links reales y formato GEO.

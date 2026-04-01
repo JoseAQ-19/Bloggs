@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![ETFs: ¿El 2.0? Mercados Privados y Clases de Acciones Revolucionan la Industria.](/images/etfs-el-20-mercados-privados-y-clases-de-acciones-revolucionan-la-industria.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
-
 ## ETFs: ¿El 2.0? Mercados Privados y Clases de Acciones Revolucionan la Industria.
 
 Los flujos globales hacia ETFs alcanzaron récords históricos en 2025, superando los 1,2 billones de dólares, impulsados por una ola innovadora que combina el acceso a mercados privados tradicionalmente reservados para institucionales y nuevas estructuras de clases de acciones diseñadas para reducir costes, según datos recopilados por Morningstar y Bloomberg. Esta dualidad está redefiniendo el paradigma de la inversión minorista, aunque no sin controversia y desafíos estructurales que merecen un escrutinio riguroso.
@@ -77,3 +72,7 @@ La Máquina procesa datos. La Máquina calcula costes. La Máquina revisa histor
 ---
 
 ⚠️ **IMPORTANTE DISCLAIMER:** Este artículo sobre fondos de inversión tiene únicamente carácter informativo y educativo. No constituye recomendación de inversión ni asesoramiento financiero. Los fondos de inversión conllevan riesgos, incluyendo la posible pérdida del capital invertido. Los rendimientos pasados no son indicativos de resultados futuros. Antes de invertir, lea el folleto informativo disponible en la página web de la entidad, donde se detallan los riesgos asociados. Consulte con un asesor financiero independiente.
+---
+
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto calificado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.

@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![YouTube's $46.2 Billion Ad Revenue Disaster: Is This The End For Creators?](/images/youtube-golden-age-creator-economics-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 Google is concealing a catastrophic collapse in its core creator economy business model, and the fallout is already bankrupting mid-tier channels. The narrative of infinite growth is dead.
 
 * YouTube's advertising revenue plummeted to $36.15 billion in 2025, a devastating drop from $46.2 billion in 2024, vaporizing over $10 billion in market value.

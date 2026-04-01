@@ -17,9 +17,6 @@ author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 Chile se enfrenta a una crisis silenciosa, una erosión de la participación cívica y la creencia en el sistema democrático. El fenómeno, denominado la "dictadura de la indiferencia", no implica un golpe militar ni la supresión violenta de la disidencia, sino un desapego gradual y peligroso de los ciudadanos hacia la política y el futuro de su país. La indiferencia, personificada en la frase "da lo mismo" (todo da igual), se ha convertido en un problema estructural que amenaza con socavar los cimientos de la sociedad chilena.
 
 Un reciente boletín de la Encuesta CEP (Centro de Estudios Públicos) N° 93, titulado "Chile indiferente: cuando todo da lo mismo" (Chile Indifferent: When Everything Is the Same), arroja luz sobre esta preocupante tendencia. El estudio revela un aumento constante en el número de chilenos que se declaran "indiferentes" con respecto a la forma de gobierno, mostrando una alarmante falta de preocupación por si el país está gobernado por un régimen democrático o autoritario. Esta apatía no es una anomalía pasajera, sino una tendencia en crecimiento que debe abordarse con urgencia.

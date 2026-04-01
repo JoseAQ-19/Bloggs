@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![SunnyV2's Downfall: The \$50 Million Mistake Every Influencer Should Fear](/images/sunnyv2-youtube-downfall-accountability.en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 SunnyV2's troubles reveal a harsh reality: the influencer "bubble" is bursting as ethics and accountability take center stage.
 
 * SunnyV2's controversies, including allegations of plagiarism and transphobia, resulted in a loss of 20,000 subscribers in a single week, illustrating the severe consequences of ethical lapses for influencers.

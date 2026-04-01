@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![New Hampshire Liquor Loses \$42 Million: Is Dark Humor To Blame?](/images/new-hampshire-liquor-ads-viral-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 New Hampshire's state coffers are feeling the burn after a \$42 million drop in liquor revenue. Is it a sign of changing tastes, marketing mishaps, or something more potent.
 
 * The New Hampshire Liquor Commission saw a \$42 million revenue decrease from fiscal year 2021 to 2024, potentially linked to evolving consumer preferences and marketing effectiveness.

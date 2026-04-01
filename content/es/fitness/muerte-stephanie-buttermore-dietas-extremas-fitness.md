@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![El Lado Oscuro Del Fitness: ¿Stephanie Buttermore Fue Víctima De Su Propia Imagen?](/images/muerte-stephanie-buttermore-dietas-extremas-fitness.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
-
 El culto al cuerpo perfecto es una epidemia silenciosa que se cobra más víctimas de las que reconocemos.
 
 * Si bien la causa de la muerte de Stephanie Buttermore es desconocida, su historial con la alimentación restrictiva y el "All In Challenge" plantea interrogantes sobre los efectos a largo plazo de las dietas extremas en la salud general.

@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Planet Fitness Exposed: The Bear Cave's Allegations Rock The Fitness Empire](/images/planet-fitness-growth-strategy-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 The "Judgement Free Zone" might actually be a "Debt Free Zone" for corporate headquarters, but it is looking increasingly like a trap for the investors and franchisees subsidizing the illusion. The fitness empire built on $10 memberships is facing a biological stress test it might not survive, revealing that what looks like hypertrophy on the balance sheet could actually be pathological edema.
 
 * The Bear Cave alleges **Planet Fitness** released an inaccurate slide understating market saturation in an investor presentation and operated as an "illegal billing operation," raising questions about its core business practices.

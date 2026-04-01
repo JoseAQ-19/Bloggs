@@ -16,11 +16,6 @@ ai_disclosure: true
 ---
 ![SEC Power Grab: Crypto Could Face Total Securities Reclassification Without Clarity Act](/images/sec-vs-crypto-will-regulatory-chaos-crush-the-industry-if-the-clarity-bill-fails-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 **SEC Power Grab: Crypto Could Face Total Securities Reclassification Without Clarity Act**
 
 Cryptocurrency markets remain in a precarious position as the Digital Asset Market Clarity Act (CLARITY Act) faces an uncertain fate in the U.S. Senate. This legislative proposal, passed by the House in July 2025 with a decisive 294-134 vote, aims to end years of regulatory ambiguity over digital assets. However, with mounting opposition from major industry players and key legislators, the bill’s future hangs in the balance.
@@ -115,3 +110,7 @@ If the Act fails, the SEC could classify most cryptocurrencies as securities, im
 ### Related Articles
 - [YouTube's Creator Burnout Crisis: 62-90% Are Suffering And The Financial Toll Is Exponential](/en/youtube/youtube-the-new-media-monarch-heres-what-you-need-to-know-en/)
 - [Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](/en/youtube/youtube-sports-subscription-live-streaming-en/)
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Crimson Desert: El Batacazo Del 30% Que Pearl Abyss No Quería Que Supieras](/images/analisis-tecnico-crimson-desert-ia-etica.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 Las promesas de mundos virtuales inmersivos a menudo chocan con la dura realidad del mercado: las acciones de Pearl Abyss cayeron casi un 30% tras la publicación de las primeras reseñas de *Crimson Desert*.
 
 * Las acciones de Pearl Abyss, desarrolladora de *Crimson Desert*, se desplomaron casi un 30% tras la publicación de las primeras reseñas del juego, algo que la compañía seguramente quería evitar.

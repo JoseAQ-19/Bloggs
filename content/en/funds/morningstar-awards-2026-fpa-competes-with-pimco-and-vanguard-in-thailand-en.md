@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard in Thailand](/images/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-in-thailand-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 In Thailand's evolving investment landscape, mutual funds are increasingly competing for investor attention, with a remarkable 22% increase in mutual fund assets year-over-year. 
 
 * [22% increase in mutual fund assets — source Morningstar]
@@ -104,3 +99,7 @@ The competition in the Thai mutual fund market is intense, with FPA, PIMCO, and 
 ---
 
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

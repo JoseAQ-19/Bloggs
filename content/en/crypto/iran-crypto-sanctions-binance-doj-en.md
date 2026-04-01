@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Binance's $1 Billion+ Terror Network: DOJ Uncovers Iran's Sanctions Dodge](/images/iran-crypto-sanctions-binance-doj-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 The illusion of regulatory compliance is crumbling as investigations reveal crypto's utility in bypassing international sanctions.
 
 * The DOJ is investigating a Binance-linked network that allegedly moved over $1 billion to fund Iran-backed terror groups.
@@ -74,3 +69,7 @@ This situation demands a fundamental shift in the crypto industry's approach to 
 The future of crypto depends on its ability to demonstrate that it can be a responsible and trustworthy part of the global financial system. Failure to do so will only lead to more regulation, more scrutiny, and ultimately, less innovation. It's time for the industry to grow up and take its responsibilities seriously.
 
 *This article is for informational purposes only and should not be considered financial advice. Cryptocurrency investments are volatile and carry significant risk. Always do your own research before making any investment decisions.*
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

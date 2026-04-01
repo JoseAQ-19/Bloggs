@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Metformin Extends Life By 5%... In Mice. Here's Why Your Doctor Is Skeptical](/images/metformin-longevity-hype-or-hope-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 The dream of extending human lifespan with a simple pill continues to entice researchers and investors, but the reality is proving complex. Metformin's potential is being tested, but lifestyle changes and alternative strategies are also under consideration.
 
 * Metformin extended lifespan by only 5% in male mice at low doses, while higher doses shortened lifespan.

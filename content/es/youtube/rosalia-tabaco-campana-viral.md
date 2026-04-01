@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Rosalía, Déjalo: La Campaña Anti-Tabaco Que Avergonzará A La Industria Del Vapeo.](/images/rosalia-tabaco-campana-viral.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 La cruzada contra el vapeo juvenil necesita más que un hashtag llamativo para revertir una tendencia peligrosa. La campaña "Rosalía, déjalo", aunque bienintencionada, corre el riesgo de ser una solución superficial a un problema profundamente arraigado.
 
 * La campaña "Rosalía, déjalo" de la AECC se lanzó después de que se viralizaran imágenes de la cantante fumando, buscando destacar los peligros del "humo digital" entre los jóvenes.

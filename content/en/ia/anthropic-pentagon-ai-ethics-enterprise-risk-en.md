@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Anthropic Just Broke Trust: The Pentagon Fallout Nobody Is Talking About](/images/anthropic-pentagon-ai-ethics-enterprise-risk-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 Anthropic's shiny "AI safety" halo is starting to slip, revealing a much less comforting reality beneath.
 
 * Anthropic's potential collaboration with the Pentagon faces ethical scrutiny over military AI guardrails, raising questions about its commitment to its safety pledge.

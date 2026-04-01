@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Claude's $1.5B Copyright Nightmare: Can Anthropic REALLY Deliver Enterprise AI?](/images/anthropic-claude-enterprise-ai-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 Anthropic's enterprise AI ambitions face a stark reality check: a looming $1.5 billion copyright lawsuit.
 
 * Anthropic faces a $1.5 billion copyright settlement for training Claude on pirated books, casting a shadow over the ethical and legal foundations of its AI models.

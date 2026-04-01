@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Lukaku's Hamstring Hell: Are Coaches Ignoring This 17-Fold Increased Injury Risk?](/images/lukaku-fitness-fatigue-markers-wearable-tech-injury-prevention-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 **Over 17 million athletes suffer from hamstring injuries every year, with a staggering 17-fold increased risk for those with a preseason hamstring:quadriceps muscle peak torque ratio of less than 0.6 at 180 u/s.**
 * Athletes with a preseason hamstring:quadriceps muscle peak torque ratio of less than 0.6 at 180 u/s had a 17-fold increased risk of sustaining a hamstring injury, indicating a critical oversight in training programs, as reported by **Hamstring Strain Injury in Athletes - jospt**.
 * The Injury Prevention Wearables Market is projected to reach $12.5 billion by 2033, showing the growing financial stake in preemptive athletic care, according to [Injury Prevention Wearables Market Size & Industry Growth 2030](https://www.futuredatastats.com/injury-prevention-wearables-market/).

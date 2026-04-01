@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Magallanes gana su tercer premio consecutivo y consolida su liderazgo en gestión de fondos](/images/magallanes-gana-su-tercer-premio-consecutivo-y-consolida-su-liderazgo-en-gestion.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
-
 **Magallanes Value Investors ha logrado consolidar su posición de liderazgo en España tras ganar por tercer año consecutivo el Premio Morningstar a la mejor gestora de fondos.** Este reconocimiento destaca no solo su consistencia en el desempeño, sino también su enfoque disciplinado en la inversión en valor. 
 
 - *1. Magallanes European Equity: 10,5% de rentabilidad anualizada a 5 años ([Morningstar](https://www.morningstar.es/es/news/274747/los-10-etfs-del-sector-defensa-más-rentables-para-invertir-en-2026.aspx)).* 
@@ -81,3 +76,7 @@ Creemos que Magallanes Value Investors representa una opción sólida para aquel
 ---
 
 ⚠️ **IMPORTANTE DISCLAIMER:** Este artículo sobre fondos de inversión tiene únicamente carácter informativo y educativo. No constituye recomendación de inversión ni asesoramiento financiero. Los fondos de inversión conllevan riesgos, incluyendo la posible pérdida del capital invertido. Los rendimientos pasados no son indicativos de resultados futuros. Antes de invertir, lea el folleto informativo disponible en la página web de la entidad, donde se detallan los riesgos asociados. Consulte con un asesor financiero independiente.
+---
+
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto calificado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.

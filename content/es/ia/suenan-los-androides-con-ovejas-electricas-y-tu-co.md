@@ -19,9 +19,6 @@ author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 ¿Philip K. Dick como profeta? ¡Por favor! La sobrevaloración de la ciencia ficción como análisis predictivo ya es una pandemia peor que cualquier virus. Que *¿Sueñan los androides con ovejas eléctricas?* sea una advertencia profética no es más que una lectura simplista y condescendiente hacia nuestra capacidad de agencia. La verdadera pregunta no es si la distopía llegó, sino si estamos lo suficientemente imbéciles como para creer que no podemos cambiarla.
 
 ## La farsa Cyberpunk: Un accesorio más para el sistema

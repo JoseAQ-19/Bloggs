@@ -16,9 +16,6 @@ author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 En un mundo donde la información nos bombardea, ¿de verdad creemos que el "periodismo de élite" nos informa? ¡Ingenuos! Este análisis revela por qué la desconfianza hacia los grandes medios es más que justificada: es una cuestión de supervivencia intelectual.
 
 ## La Falacia de la Confianza Mediática

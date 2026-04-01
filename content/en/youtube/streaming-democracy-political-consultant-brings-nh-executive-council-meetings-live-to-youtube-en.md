@@ -16,9 +16,6 @@ ai_disclosure: true
 ---
 ![Streaming Democracy: 75% Of Local News Views Now Come From YouTube](/images/streaming-democracy-political-consultant-brings-nh-executive-council-meetings-live-to-youtube-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 75% of local news video views now come from YouTube, transforming local governments' primary communication channel into a platform controlled by algorithms in Mountain View.
 
 * YouTube's share of all TV usage in the US reached 9.3% in February 2025, surpassing traditional television and all streaming competitors combined (Nielsen).

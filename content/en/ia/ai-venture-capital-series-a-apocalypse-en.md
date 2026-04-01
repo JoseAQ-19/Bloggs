@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![90% Of AI Startups Fail: Is Your Series A Investment a Unicorn Corpse?](/images/ai-venture-capital-series-a-apocalypse-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 * Roughly 90% of AI startups fail within their first year, jeopardizing Series A investments.
 * AI startups attracted $192.7 billion in venture capital in 2025, representing 52% of global VC deal value.
 * Jeff Bezos cautions against AI hype, making it impossible for investors to distinguish between revolutionary ideas and marketing fluff.

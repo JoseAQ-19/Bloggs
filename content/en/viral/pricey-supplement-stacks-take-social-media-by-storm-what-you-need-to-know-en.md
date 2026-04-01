@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![The Hidden Risks Behind 2024’s $15.67 Billion Nootropic Market Boom](/images/pricey-supplement-stacks-take-social-media-by-storm-what-you-need-to-know-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 The nootropics market is booming, set to reach an astonishing USD 56.97 billion by 2035, raising alarm bells about the safety and efficacy of these cognitive-enhancing supplements. 
 
 * The global nootropics market is projected to reach USD 56.97 billion by 2035, growing at a compound annual growth rate (CAGR) of 12.45% from 2025 to 2035. 

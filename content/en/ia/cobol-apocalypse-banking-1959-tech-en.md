@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![95% Of ATMs Run On COBOL: The Tech Time Bomb In Your Wallet](/images/cobol-apocalypse-banking-1959-tech-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 The global financial system is running on code written when JFK was in office, held together by duct tape and a dwindling population of gray-haired engineers who actually understand how the money moves. This isn't a technical debt issue; it's a technical insolvency waiting to happen.
 
 * COBOL powers 95% of all ATMs globally and handles 80% of financial transactions, yet the average age of a programmer maintaining these systems is 58.

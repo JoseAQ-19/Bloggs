@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![OpenClaw's $120 Billion Seed Phrase Disaster: Is Your Crypto Next?](/images/openclaw-crypto-wallet-phishing-attack-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 Bitcoin markets remain volatile as institutional investors rotate into safe-haven assets, leaving the crypto ecosystem exposed to a new generation of systemic vulnerabilities that dwarf previous exchange hacks. The intersection of autonomous AI agents and self-custody protocols has created a failure loop where the $120 billion worth of lost Bitcoin is no longer just a statistic of forgotten passwords, but an active target for automated exploitation frameworks.
 
 * Koi Security identified over 824 malicious skills on ClawHub as of February 16, 2026, signaling a compromised ecosystem where third-party code acts as a trojan horse for seed phrase exfiltration.
@@ -56,3 +51,7 @@ Furthermore, the agility of these agents makes static defenses obsolete. A malic
 ### Related Articles
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

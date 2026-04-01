@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Air Force Fitness Fiasco: Women Face 31% Higher Injury Risk. Why?](/images/air-force-fitness-overhaul-hidden-risks-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 Without question, Air Force fitness standards, intended to maintain combat readiness, are inadvertently creating a perfect storm of injury, particularly for female airmen.
 
 * Women in the U.S. Air Force face a 31% higher risk of musculoskeletal injury compared to men, linked to factors that may include differences in push-up performance and body composition.

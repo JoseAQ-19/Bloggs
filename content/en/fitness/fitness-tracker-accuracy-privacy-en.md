@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Amazon's Fitness Tracker Lies: Your Calorie Burn is 69% WRONG!](/images/fitness-tracker-accuracy-privacy-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 The quantified self is a quantified lie, and the wearable industry is banking on your inability to distinguish between data points and biological reality.
 
 * Garmin devices underestimated calorie expenditure 69% of the time in a 2020 validity review, while Apple Watches overestimated it 58% of the time, proving that wrist-based accelerometry is fundamentally flawed for metabolic measurement.

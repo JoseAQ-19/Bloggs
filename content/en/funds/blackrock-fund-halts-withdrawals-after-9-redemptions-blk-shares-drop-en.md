@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![BlackRock Fund Halts Withdrawals After 9% Redemptions; BLK Shares Drop.](/images/blackrock-fund-halts-withdrawals-after-9-redemptions-blk-shares-drop-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 BlackRock Fund Halts Withdrawals After 9% Redemptions; BLK Shares Drop.
 
 Global asset management giant BlackRock (BLK) has triggered market alarm by imposing a temporary suspension on redemptions for one of its flagship funds after experiencing 9% outflows in a single week, according to data from Morningstar. The unprecedented move has sent BlackRock's own shares plummeting 7.2% in intraday trading, representing a $15.2 billion market capitalization loss in a single session. This marks the first time since 2008 that BlackRock has restricted investor access to its products, raising serious questions about liquidity management in the current volatile market environment.
@@ -96,3 +91,7 @@ Our Verdict: BlackRock's redemption freeze is not just a liquidity issue—it's 
 ---
 
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

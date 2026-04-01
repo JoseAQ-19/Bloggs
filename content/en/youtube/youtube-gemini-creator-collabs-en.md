@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Neal Mohan's Nightmare: AI Lookalikes Threaten YouTube's $32B Payouts](/images/youtube-gemini-creator-collabs-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 YouTube's $32 billion in annual creator payouts are under existential threat from unregulated AI lookalikes that devalue original content and erode platform trust.
 
 * YouTube generated $36.15 billion in ad revenue for 2025 **YouTube**.

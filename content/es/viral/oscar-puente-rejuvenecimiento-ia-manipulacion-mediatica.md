@@ -16,9 +16,6 @@ ai_disclosure: true
 ---
 ![La Manipulación Mediática De Óscar Puente: 929 Millones En Estafas De IA](/images/oscar-puente-rejuvenecimiento-ia-manipulacion-mediatica.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 **📌 Lo esencial:**
 * Las estafas de deepfake costaron 929 millones de euros en España durante 2025, impulsadas por un aumento del 1,400% en los fraudos digitales **Agencia Española de Protección de Datos (AEPD)**.
 * El 75.1% de los españoles percibe la capacidad de la IA para generar contenido falso como una amenaza real, según sondeos de la AEPD.

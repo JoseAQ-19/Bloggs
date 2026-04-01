@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Morningstar Thailand Awards 2026: Top 5 Funds Outperforming with Over 12% Returns](/images/morningstar-thailand-awards-2026-top-5-funds-outperforming-with-over-12-returns-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 **Thailand’s mutual funds have defied global economic turbulence, with five top-performing funds delivering returns exceeding 12% over the past year, as revealed at the Morningstar Thailand Awards 2026.** 
 
 * 24.3% annualized return — Bualuang Global Equity Fund **source** 
@@ -91,3 +86,7 @@ For investors seeking a diversified global portfolio anchored in Thailand, these
 ---
 
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

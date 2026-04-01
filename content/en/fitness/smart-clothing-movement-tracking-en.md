@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Fitbit Lawsuits Exposed: Smart Clothing Fixes Heart Rate Monitoring NIGHTMARE](/images/smart-clothing-movement-tracking-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 Wearable health data is more often marketing than medicine.
 
 * Fitbit faced lawsuits due to inaccurate heart rate monitoring, with one study showing readings off by an average of 24.34 bpm at heart rates greater than 100 bpm.

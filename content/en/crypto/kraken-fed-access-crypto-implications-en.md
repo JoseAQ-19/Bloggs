@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![$33 Billion Mess: Did Kraken's Fed Access Just Expose Crypto's Dirty Secret?](/images/kraken-fed-access-crypto-implications-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 The SEC alleges Kraken held over $33 billion in customer crypto assets and commingled them, raising questions about the security of customer funds with increased Fed access.
 
 * Federal Reserve Governor Christopher Waller is pushing for integrating crypto companies into the U.S. payments infrastructure, signaling a shift in regulatory approach (PaymentsDive).
@@ -126,3 +121,7 @@ Kraken's $800 million funding round, which valued the company at $20 billion, re
 The proposed CLARITY bill attempts to create clearer boundaries between commodities and securities regulation for digital assets. However, the bill's limited scope fails to address the fundamental tensions between different regulatory approaches to cryptocurrency. Instead of resolving these conflicts, the CLARITY Act may merely create additional layers of complexity.
 
 The revolving door between regulatory agencies and the crypto industry raises concerns about potential conflicts of interest. Former regulators and government officials often take positions at crypto firms, leveraging their expertise and connections to influence policy decisions. This dynamic creates a risk that regulatory decisions may be influenced by personal gain rather than the public interest. To address this concern, regulators should implement stricter ethics rules and restrictions on post-employment activities to prevent conflicts of interest and ensure that regulatory decisions are made in a fair and impartial manner.
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

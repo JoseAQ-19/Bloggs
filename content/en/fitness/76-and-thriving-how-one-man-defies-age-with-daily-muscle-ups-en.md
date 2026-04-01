@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![76 And Thriving: One Man's Daily Muscle-Ups Defy Aging Myths](/images/76-and-thriving-how-one-man-defies-age-with-daily-muscle-ups-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 * Global longevity economy projected to exceed $27 trillion by 2026, dwarfing the entire fitness industry — **Bloomberg Economics**.
 * Sarcopenia affects up to 29% of adults over 80, increasing mortality risk by 96% — **Mayo Clinic Proceedings**.
 * CrossFit Masters athlete registrations grew 340% from 2020-2025, yet ageism persists in programming — **CrossFit Journal**.

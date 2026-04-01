@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![UTMB Coach Drops Truth Bomb: VO2 Max Is the WORST Predictor for Runners](/images/beyond-vo2-max-better-biomarkers-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 VO2 max, often considered the gold standard for endurance athletes, may be less reliable than previously thought. Some experts now argue that focusing solely on VO2 max is an oversimplification of endurance performance.
 
 * UTMB coach Scott Johnston believes VO2 max is the least reliable indicator of distance running performance, suggesting lactate threshold is superior.

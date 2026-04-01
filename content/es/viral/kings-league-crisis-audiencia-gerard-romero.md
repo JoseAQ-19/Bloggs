@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Kings League En Caída Libre: ¿El Circo de Piqué Pierde 400.000 Espectadores?](/images/kings-league-crisis-audiencia-gerard-romero.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 El declive del Rey: ¿Piqué y su Liga se Desinflan Tras Perder 400.000 Espectadores? 
 
 * La Kings League ha perdido **400.000 espectadores** en 20 meses, cayendo de 557.000 a 85.000 espectadores por partido, según **Diari ARA**. 

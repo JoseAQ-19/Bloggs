@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![NAO Protea European Equities: Un análisis profundo de su enfoque y resultados con Sharpe de 0,88.](/images/nao-protea-european-equities-un-analisis-profundo-de-su-enfoque-y-resultados-con.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
-
 ## NAO Protea European Equities: Un análisis profundo de su enfoque y resultados con Sharpe de 0,88
 
 Los inversores europeos enfrentan un panorama volátil en 2026, marcado por la tensión geopolítica con Irán y sus implicaciones para la inflación y los tipos de interés del BCE. Mientras tanto, los datos de Morningstar revelan que los ETFs centroeuropeos registraron losses promedio del 2.3% en febrero, destacando la importancia de una selección activa disciplinada en este entorno. En este contexto, el fondo **NAO Protea European Equities (IE00B5KRRJ79)**, gestionado por la boutique irlandesa NAO Asset Management, presenta un perfil particularmente interesante. Con un rating de 4 estrellas Morningstar y un ratio de Sharpe de 0,88 a 5 años, busca generar alfa mediante un enfoque de valor dentro del universo europeo, pero su concentración y costes merecen un escrutinio profundo.
@@ -89,3 +84,7 @@ La Máquina procesa los datos: NAO Protea European Equities es un **producto nic
 ---
 
 ⚠️ **IMPORTANTE DISCLAIMER:** Este artículo sobre fondos de inversión tiene únicamente carácter informativo y educativo. No constituye recomendación de inversión ni asesoramiento financiero. Los fondos de inversión conllevan riesgos, incluyendo la posible pérdida del capital invertido. Los rendimientos pasados no son indicativos de resultados futuros. Antes de invertir, lea el folleto informativo disponible en la página web de la entidad, donde se detallan los riesgos asociados. Consulte con un asesor financiero independiente.
+---
+
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto calificado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.

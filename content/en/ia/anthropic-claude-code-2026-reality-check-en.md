@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Claude's $1B Code Hype: Advanced Devs Should Fear This Truth](/images/anthropic-claude-code-2026-reality-check-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 Anthropic is selling snake oil to enterprises blinded by the promise of AI, and advanced developers should be very afraid.
 
 * Claude Code has reached a $1B annual run-rate within six months, showing strong enterprise adoption, but its underlying AI is still prone to errors.

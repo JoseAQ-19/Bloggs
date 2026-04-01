@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Planet Fitness Lawsuit Exposes AED Access Failure After Fatal Incident in Shreveport](/images/tragedy-strikes-a-fatal-incident-shakes-the-shreveport-planet-fitness-community-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 Planet Fitness's lawsuit exposes a fatal flaw in the fitness industry's emergency response protocols—while gyms market inclusivity and affordability, they're cutting corners on life-saving equipment access.
 
 * Exercise facilities with accessible AEDs have 56% survival rates for sudden cardiac arrest, versus 34% in non-exercise settings according to Richard L. Page, MD, FACC at University of Wisconsin School of Medicine and Public Health.

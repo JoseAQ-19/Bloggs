@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Cruise Balcony Deaths: The Terrifying 40% That Cruise Lines Won't Tell You](/images/cruise-line-balcony-nightmare-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 Balcony falls account for 40% of all passenger overboard incidents on cruise ships, yet many lines downplay this risk. Your romantic sea-view vacation might be statistically more dangerous than you realize.
 * Approximately 28% of people who go overboard from cruise ships are rescued alive (Kherkher Garcia).
 * Alcohol intoxication is cited in 60-80% of overboard cases, making the cruise industry's all-you-can-drink packages a liability they don't want to acknowledge.

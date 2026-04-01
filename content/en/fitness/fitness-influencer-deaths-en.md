@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Behind The Perfect Body: The Deadly Truth About Fitness Influencers](/images/fitness-influencer-deaths-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 The fitness influencer industry has created a $15 billion bubble built on unrealistic body standards and pseudoscience, yet continues to grow by preying on vulnerable populations seeking self-improvement.
 
 * Over 70% of fitness influencers have admitted to using photo editing apps to alter their appearance before posting, according to a 2021 survey by the International Journal of Eating Disorders.

@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Morningstar Outperforms KnockoutStocks by 5% in 2026's Key Sectors.](/images/morningstar-outperforms-knockoutstocks-by-5-in-2026s-key-sectors-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 Despite a turbulent year for global markets, Morningstar's stock-picking methodology has delivered an impressive 5% outperformance over KnockoutStocks' recommendations in key sectors for 2026, according to a recent analysis by Bloomberg.
 
 ## Morningstar Outperforms KnockoutStocks by 5% in 2026's Key Sectors
@@ -78,3 +73,7 @@ The S&P 500 still beats both of them over the long haul when adjusted for fees. 
 ---
 
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

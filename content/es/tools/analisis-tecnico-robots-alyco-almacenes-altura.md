@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Accidentes en Almacenes Aumentan 50% Con Robots: ¿Pagamos Un Precio Demasiado Alto?](/images/analisis-tecnico-robots-alyco-almacenes-altura.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 La promesa de almacenes totalmente automatizados se estrella contra una dura realidad: los accidentes laborales se disparan.
 
 * Los accidentes en almacenes han aumentado hasta un 50% en instalaciones que emplean robots, lo que plantea serias dudas sobre el verdadero coste de la automatización.

@@ -49,12 +49,12 @@ MCP_BINARY = "notebooklm-mcp"
 
 NICHE_CONSTRAINTS_ES = {
     "fitness": "MISIÓN FITNESS: Exige rigor médico y científico. Cita estudios de PubMed, la OMS o revistas de biomecánica. Elimina consejos genéricos ('bro-science'). Vocabulario obligatorio: hipertrofia, déficit calórico, periodización, biomecánica.",
-    "crypto": "MISIÓN CRYPTO: Rigor financiero y seguridad. Siempre incluye una advertencia de que esto no es consejo financiero. Vocabulario técnico: liquidación, smart contracts, TVL, gas fees, halving, staking.",
+    "crypto": "MISIÓN CRYPTO: Rigor financiero y seguridad. OBLIGATORIO: Incluir al FINAL del artículo (antes del cierre) una advertencia de que esto no es consejo financiero. Vocabulario técnico: liquidación, smart contracts, TVL, gas fees, halving, staking.",
     "ia": "MISIÓN IA: Enfoque en arquitectura y ética. Habla de modelos fundacionales, latencia de inferencia, RAG (Retrieval-Augmented Generation) y alineación. Evita el hype vacío.",
     "youtube": "MISIÓN MEDIA: Análisis de métricas de retención y psicología del espectador. Habla de CTR, hooks de los primeros 3 segundos y el algoritmo de sugerencias.",
     "viral": "MISIÓN TRENDS: Análisis de viralidad y psicología de masas. Identifica por qué un contenido se vuelve viral (miedo, curiosidad, indignación). OBLIGATORIO: Citar y enlazar la fuente original del hype (ej. el hilo de Reddit, el post de X/Twitter, el clip de TikTok o el medio que dio la exclusiva).",
     "tools": "MISIÓN PRODUCTIVIDAD: Análisis de coste-beneficio y UX. Evalúa la curva de aprendizaje y la integración con otros flujos de trabajo (APIs, Webhooks).",
-    "funds": "MISIÓN ECONOMÍA: Foco en fondos de inversión y macroeconomía. Cita datos de mercados (S&P 500, Nasdaq) y explica conceptos de interés compuesto y gestión de riesgos."
+    "funds": "MISIÓN ECONOMÍA: Foco en fondos de inversión y macroeconomía. OBLIGATORIO: Incluir disclaimer legal al FINAL del artículo. Cita datos de mercados (S&P 500, Nasdaq) y explica conceptos de interés compuesto y gestión de riesgos."
 }
 
 # =====================================================
@@ -98,7 +98,9 @@ TU MISIÓN (en este orden de prioridad):
 
 6. FRASES VETADAS: Busca y ELIMINA: "En el vertiginoso mundo de", "En resumen", "Un arma de doble filo", "promete revolucionar", "crecimiento explosivo".
 
-7. ENLACES EXTERNOS DE AUTORIDAD (GEO/EEAT) - MANDATORIO: 
+7. FILTRO ANTI-FUGAS (CRÍTICO): Escanea el cuerpo del texto. Si detectas fugas de metadatos (ej. líneas crudas que digan 'title: "..."', 'slug: "..."', 'translationKey:', 'description:', 'categories:') o repetición del título/H1 al inicio, DEBES eliminarlas por completo. El texto debe ser prosa limpia.
+
+8. ENLACES EXTERNOS DE AUTORIDAD (GEO/EEAT) - MANDATORIO: 
    Es OBLIGATORIO que el artículo tenga al menos 2-3 enlaces externos a fuentes de ALTA AUTORIDAD (ej. BOE, El País, Nature, Medios Líderes, o la FUENTE ORIGINAL de la noticia). 
    - Si el borrador menciona un estudio, una ley o una noticia sin enlace, DEBES buscar la URL real e insertarla.
    - Si el artículo carece de enlaces externos, tu revisión se considera FALLIDA. Debes inyectarlos tú mismo usando tu base de conocimiento.

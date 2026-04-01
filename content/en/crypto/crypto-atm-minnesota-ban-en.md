@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Crypto ATM Scams Explode: $333 Million Lost, And Regulators Finally React](/images/crypto-atm-minnesota-ban-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 American consumers lost over $333 million to Bitcoin ATM scams between January and November 2025 as regulatory oversight fails to keep pace with explosive growth in these financial machines.
 
 * American consumers lost over $333 million to Bitcoin ATM scams between January and November 2025, highlighting the urgent need for stronger consumer protections.
@@ -69,3 +64,7 @@ The response from state governments has begun to reflect AARP's influence. Minne
 Crypto ATMs represent a regulatory failure wrapped in the rhetoric of financial innovation. The industry's growth projections reaching $7,585 billion by 2033 only highlight the need for immediate and decisive action. Complete bans may be necessary in jurisdictions where fraud rates exceed 50%, as seen in Iowa's investigation of CoinFlip and Bitcoin Depot operations. The alternative—a patchwork of inconsistent state regulations—merely enables regulatory arbitrage while vulnerable Americans continue losing hundreds of millions annually. This industry cannot reform itself. Its business model depends on exploiting regulatory gaps and preying on psychological vulnerabilities. Until robust federal regulations establish meaningful oversight, crypto ATMs will remain vectors for financial abuse rather than legitimate financial services.
 
 *This article is for informational purposes only and should not be considered financial advice. Cryptocurrency investments are volatile and carry significant risk. Always do your own research before making any investment decisions.*
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

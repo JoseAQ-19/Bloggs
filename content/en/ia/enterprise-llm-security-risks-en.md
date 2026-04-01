@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Gemini, ChatGPT, Claude: 78% Of Enterprises Ignored This AI Security Flaw](/images/enterprise-llm-security-risks-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 78% of enterprises are playing with fire, deploying AI without understanding the inferno of security risks they're inviting. These Large Language Models (LLMs), like Gemini and ChatGPT, are black boxes riddled with vulnerabilities, and the consequences of ignoring them could be catastrophic.
 
 * 78% of organizations currently use AI in at least one business function, yet only 21% of critical LLM vulnerabilities are properly remediated, according to McKinsey.

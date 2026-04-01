@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![YouTube's Algorithm Recommended 71% Harmful Videos: Teen Mental Health Trial Begins](/images/meta-youtube-teen-mental-health-liability-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 The business model of social media relies on maximizing retention, and a new federal trial alleges that YouTube specifically monetized teen depression by algorithmically serving harmful content to keep eyes on the screen. This litigation threatens to shatter the liability shield that has protected Big Tech for decades, potentially reclassifying recommendation engines as defective products rather than neutral platforms.
 
 * 71% of videos flagged by volunteers as harmful were recommended by YouTube's algorithm according to a 2021 Mozilla Foundation report.

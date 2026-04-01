@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![5-Star Fund Balances Income and Volatility: Top Morningstar Pick for 2026](/images/5-star-fund-balances-income-and-volatility-top-morningstar-pick-for-2026-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 **A Five-Star Fund Offering a Balanced Approach to Income and VolatilityWith a stellar 5-star Morningstar rating and a three-year annualized return of 8.45%, this fund is a top pick for 2026 investors seeking both income and stability.** Its low expense ratio of 0.52% and a Sharpe ratio of 1.12 over the past three years make it a standout choice in its category. Here’s why this fund is attracting attention: 
 
 - *8.45% three-year annualized return* — **Morningstar data**. 
@@ -81,3 +76,7 @@ We believe this fund’s balanced approach to income and volatility makes it a s
 ---
 
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

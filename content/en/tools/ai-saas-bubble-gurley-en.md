@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Gurley's 'Mania' Warning: Will AI Tech Debt Cost Us $2.4 Trillion?](/images/ai-saas-bubble-gurley-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 AI's pervasive infiltration into SaaS may be less about genuine transformation and more about masking deeper structural issues within the sector.
 
 * Bill Gurley warns the AI boom has created a market "mania" that masks underlying problems, potentially leading to a valuation correction for AI-driven SaaS companies.

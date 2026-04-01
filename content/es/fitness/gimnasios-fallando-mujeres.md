@@ -16,11 +16,6 @@ ai_disclosure: true
 ---
 ![60% de Retención: La Gran Falta de Gimnasios Para Atraer a Mujeres](/images/gimnasios-fallando-mujeres.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
-
 La industria del fitness en España es una burbuja de 1.65 mil millones de euros que opera bajo un modelo de negocio obsoleto y sexista, priorizando la venta de cuotas de enero sobre la retención a largo plazo de la mitad de la población.
 
 * El mercado español de gimnasios facturará 1.65 mil millones de euros en 2025, pero sufre una tasa de abandono anual (churn) de hasta el 60%, un fracaso de retención inaceptable para cualquier otro sector.

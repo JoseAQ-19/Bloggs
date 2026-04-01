@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Chuck Norris Didn't Die, But Trust Did: Blame The $200 Million Deepfakes](/images/chuck-norris-death-hoax-deepfakes-trust-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 Chuck Norris Didn't Die, But Trust Did: Blame The $200 Million Deepfakes 
 * **Deepfake fraud caused over $200 million in financial losses in Q1 2025 alone**, according to **Deloitte**, as increasingly sophisticated AI tools exploit human perception.
 * **Human ability to detect deepfakes is only slightly better than random chance at 55-60%**, making sophisticated scams highly effective against average users, as confirmed by research from the [University at Buffalo](https://par.nsf.gov/servlets/purl/10350369).

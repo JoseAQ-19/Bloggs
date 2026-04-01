@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/images/youtuber-livestream-alibi-murder-forensics-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 The era of "seeing is believing" is dead, replaced by a generation of synthetic alibis that allow bad actors to rewrite history with a few GPU cycles. Professor Hany Farid warns that the accessibility of AI tools isn't just a novelty; it is a functional weapon for fraud and obstruction of justice.
 
 * UC Berkeley's Professor Hany Farid warns that easily accessible AI tools present a significant threat, enabling the creation of synthetic media that can be used to fabricate alibis and cause real-world harm.

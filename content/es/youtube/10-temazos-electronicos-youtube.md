@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![¡Pánico Musical! La IA Robará 100 Millones A Artistas Españoles En Un Año](/images/10-temazos-electronicos-youtube.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 La inteligencia artificial no va a democratizar la música, va a pauperizar a los músicos. Se avecina una tormenta perfecta donde la creatividad humana podría valer menos que un algoritmo bien programado.
 
 * La IA podría reducir los ingresos por derechos de autor de la música en España hasta en 28% para 2028, resultando en una pérdida de €100 millones.

@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Ray Alarcón Rompe el Mito del Bombero Musculoso: Su Secreto Enfurece a los Gimnasios](/images/ray-alarcon-bombero-hipertrofia-debate.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
-
 94.4% de los bomberos con VO2 max insuficiente se consideran atléticos superiores, una contradicción mortal que alimenta el entrenamiento equivocado en los gimnasios españoles. 
 * Los bomberos con VO2 max por debajo del mínimo recomendado perciben erróneamente su capacidad aeróbica en un 94.4%, según un estudio sobre autoevaluación en bomberos activos. 
 * Fabio Comana de la NASM distingue entre hipertrofia sarcoplasmática (volumen superficial) y miofibrilar (funcional real), siendo esta última la que salva vidas en el fuego. 

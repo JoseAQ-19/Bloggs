@@ -16,9 +16,6 @@ ai_disclosure: true
 ---
 ![La Controversia Oculta: 40% de la Población Española en Peligro por Erosión Costera](/images/ih-set-analisis-tecnico-modelado-litoral.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 España está financiando una burbuja inmobiliaria costera con dinero público mientras sus sistemas de predicción climática alertan de un colapso inminente. La estrategia actual de "parches" de arena es un fracaso técnico que no hace más que posponer el inevitable desastre de la infraestructura litoral.
 
 * Más del 40% de la población española reside en zonas costeras que enfrentan riesgos críticos de erosión según los modelos del IH-LANSloc.

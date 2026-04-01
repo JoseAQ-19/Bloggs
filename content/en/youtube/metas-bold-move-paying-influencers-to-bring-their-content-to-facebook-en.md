@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Meta Just Paid $3 Billion to Influencers and Nobody Noticed the Implications](/images/metas-bold-move-paying-influencers-to-bring-their-content-to-facebook-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 Meta’s desperate cash infusion of nearly $3 billion into creator pockets in 2025 is nothing more than a defensive moat-building exercise against a fleeing user base, proving that Facebook and Instagram are no longer growth engines but retention battlegrounds.
 
 * Meta paid creators nearly $3 billion in 2025 through monetization programs, a 35% increase from 2024, yet this figure is dwarfed by YouTube's $20 billion in creator payouts for the same period — **The Tech Buzz**.

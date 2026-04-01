@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![$40,000 Per Claim: The Hidden Cost Of Your Crappy Tool Belt](/images/diamondback-tool-belt-ergonomics-review-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 * **31% of all worker compensation claims come from overexertion injuries, costing employers over $40,000 per claim**.
 * Musculoskeletal disorders (MSDs) caused 27 cases per 10,000 construction workers resulting in lost workdays in 2020.
 * 27.6% of construction workers with MSDs reported using prescription opioids, compared to just 5.2% overall.

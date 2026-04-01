@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Grayscale's $17 Billion Nightmare: Can New Crypto Brokerage Stop The Bleeding?](/images/grayscale-crypto-brokerage-etf-outflows-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 Grayscale's $17 billion asset exodus signals a structural collapse in market confidence that no clever brokerage pivot can easily reverse. The conversion to an ETF was supposed to unlock value, but instead, it opened the floodgates for capital flight.
 
 * Grayscale's Bitcoin Trust (GBTC) has suffered approximately $17 billion in outflows since converting to an ETF in January 2024.
@@ -46,3 +41,7 @@ The legal victory against the SEC, which forced the regulator to approve the spo
 ### Related Articles
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

@@ -13,11 +13,6 @@ author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
-
 ## Plata coloidal: el biohack que te dejará azul y, quizás, más tonto
 
 La plata coloidal, promocionada como un suplemento milagroso en los círculos del "biohacking", no tiene eficacia médica probada y su consumo puede ser peligroso. Está asociada con la argiria, una decoloración azul-grisácea de la piel que es irreversible, y posibles riesgos neurotóxicos. Desde 1997, la Administración de Alimentos y Medicamentos de los Estados Unidos (FDA, por sus siglas en inglés) advierte que la plata coloidal no es segura ni efectiva para ningún uso médico. Pese a esto, su popularidad sigue creciendo, impulsada por estrategias de marketing que explotan el miedo y la desinformación en temas de salud.

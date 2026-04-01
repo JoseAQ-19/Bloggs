@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Tether's $135 Billion Treasury Binge: Are You Ignoring A Crypto Time Bomb?](/images/stablecoin-treasury-risk-2024-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 * Tether holds $135 billion in U.S. Treasuries, raising concerns about potential systemic risks if a "run" on the stablecoin triggers massive treasury sales. 
 * Tether reported a $5.2 billion profit during the first half of 2024, while still facing intense regulatory scrutiny and calls for greater reserve transparency. 
 * Investors should diversify their stablecoin holdings and understand the potential for contagion risks within the broader crypto ecosystem, especially regarding DeFi platforms.
@@ -52,3 +47,7 @@ Tether's size and persistent lack of transparency create an unacceptable level o
 3. **Chainalysis on Stablecoin Security Risks**
 4. [Tether Profit Report Q3 2025](https://tether.to/about/tether-attestations/)
 5. **NY AG Office Statement on Tether/Bitfinex**
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

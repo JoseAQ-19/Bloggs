@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![OpenAI Desangra España: 12 Fichajes Diarios Y Talento Español En Peligro](/images/openai-fichajes-sueldos-inflados-fuga-cerebros.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 OpenAI no está reclutando en España, está practicando una pesca de arrastre industrial que amenaza con dejar el ecosistema tecnológico nacional como un desierto de talento. La narrativa oficial de "impulsar la innovación" es una cortina de humo para lo que realmente es: una operación de extractivismo cognitivo sin precedentes, donde el capital extranjero se lleva los cerebros mejor formados a cambio de salarios que, aunque altos, son una miseria comparados con el valor que esos ingenieros generarán para los accionistas de San Francisco.
 
 * OpenAI está atrayendo talento español de IA a un ritmo estimado de 12 fichajes diarios, una cifra que desestabiliza el mercado laboral local y obliga a las startups europeas a competir desigualmente con los gigantes de Silicon Valley.

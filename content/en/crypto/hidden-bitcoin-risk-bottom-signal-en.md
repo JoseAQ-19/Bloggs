@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Gold Nears $4,700: The Real Reason Bitcoin Is About To Implode](/images/hidden-bitcoin-risk-bottom-signal-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 Bitcoin is setting up for a steep fall as macroeconomic storm clouds gather. The cryptocurrency broke below a critical support level, signaling potential further downside.
 
 * As gold nears $4,700 an ounce, Bitcoin is poised for a potential implosion because it broke below its Long-Term Holder True Cost Basis at $65,700.
@@ -71,3 +66,7 @@ Bitcoin's technical and macroeconomic headwinds suggest a correction is inevitab
 *Gold glitters, Bitcoin jitters.*
 
 *This article is for informational purposes only and should not be considered financial advice. Cryptocurrency investments are volatile and carry significant risk. Always do your own research before making any investment decisions.*
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

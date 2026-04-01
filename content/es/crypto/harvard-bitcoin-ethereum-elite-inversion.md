@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Harvard Abandona Bitcoin: Apuesta 86 Millones Por Ethereum y Desata la Locura.](/images/harvard-bitcoin-ethereum-elite-inversion.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
-
 La aparente traición de Harvard a Bitcoin, volcándose hacia Ethereum con una inversión de $86.8 millones, sugiere más una diversificación inteligente que un abandono total. ¿Estamos ante el principio del fin para la hegemonía de Bitcoin o simplemente ante una jugada estratégica?
 
 * Harvard redujo su inversión en Bitcoin en $72 millones e invirtió $86.8 millones en Ethereum en el cuarto trimestre de 2025, señalando un posible cambio en la preferencia de los inversores institucionales.
@@ -88,3 +83,7 @@ Para complementar este análisis técnico, es importante considerar otros indica
 La madurez del mercado cripto se ve reflejada en la apuesta de Harvard por Ethereum, pero esto no implica el fin de Bitcoin. Diversificar es clave para mitigar riesgos en un mercado tan volátil. Investigue a fondo antes de invertir y considere la asesoría de un profesional financiero para evitar decisiones impulsivas.
 
 *La inversión en criptoactivos no está regulada, puede no ser adecuada para inversores minoristas y perderse la totalidad del importe invertido. Es importante leer y comprender los riesgos de esta inversión. Este artículo no proporciona asesoramiento financiero.*
+---
+
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto calificado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.

@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![39% Of CEOs Fired Over Ethics: Is Your Favorite Brand's Apology Next?](/images/apology-industrial-complex-brand-strategy-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 Brand apologies are becoming commonplace, potentially masking deeper ethical issues within companies. In 2018, ethical violations led to the termination of 39% of CEOs, surpassing those ousted for poor financial performance.
 
 * In 2018, 39% of CEOs were fired for ethical violations.

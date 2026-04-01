@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![$23 Billion Bitcoin Grab: Whales Are Buying The Dip And You're Not](/images/bitcoin-bottom-onchain-analysis-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 Bitcoin's alleged bottom may be nothing more than a whale-fueled mirage obscuring significant retail losses.
 
 * Whales have accumulated approximately 270,000 BTC in the past 30 days, worth around $23 billion, suggesting strong confidence despite market volatility.
@@ -61,3 +56,7 @@ While whale accumulation is an encouraging sign, it's crucial to remain cautious
 Don't let FOMO drown out your common sense.
 
 *This article is for informational purposes only and should not be considered financial advice. Cryptocurrency investments are volatile and carry significant risk. Always do your own research before making any investment decisions.*
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

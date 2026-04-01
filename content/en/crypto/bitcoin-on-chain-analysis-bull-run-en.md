@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![$66K Dip? Whales Just Added 230,000 Bitcoin: Bears Are Officially WRONG](/images/bitcoin-on-chain-analysis-bull-run-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 Bitcoin’s failure to hold $70,000 has bears licking their chops, but the smart money is quietly loading up.
 
 * Whale wallets holding 1,000 to 10,000 BTC added 230,000 Bitcoin between December 10, 2025, and February 2026, suggesting strong bullish sentiment.
@@ -61,3 +56,7 @@ The Bitcoin market presents a complex and often contradictory picture, with bull
 *This article is for informational purposes only and should not be considered financial advice. Cryptocurrency investments are volatile and carry significant risk. Always do your own research before making any investment decisions.*
 
 Don't count the bears out just yet.
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![$375 Million Nightmare: Is This The End Of Section 230 For Meta?](/images/meta-youtube-addiction-trial-loss-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 New Mexico just slapped Meta with a staggering $375 million bill for violating consumer protection laws, marking the first time a state has successfully argued that social media features constitute an intentional public nuisance harmful to children. This verdict ignores the usual shield of Section 230 by targeting the deliberate engineering of addictive product features rather than user-generated content.
 
 * A Los Angeles jury awarded $3 million in damages to plaintiff KGM, who claimed addiction to YouTube and Instagram led to severe mental health issues, potentially opening the floodgates for similar litigation against Big Tech — **Associated Press**.

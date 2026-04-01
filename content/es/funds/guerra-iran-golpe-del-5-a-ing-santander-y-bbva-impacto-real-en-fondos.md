@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Guerra Irán: ¿Golpe del 5% a ING, Santander y BBVA? Impacto real en fondos.](/images/guerra-iran-golpe-del-5-a-ing-santander-y-bbva-impacto-real-en-fondos.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
-
 La escalada de tensión en Oriente Medio, tras los recientes ataques entre Irán e Israel, ha inyectado volatilidad en los mercados, con analistas de Bloomberg anticipando un posible desplome del 5% en la cotización de bancos españoles con exposición internacional. ¿Es momento de refugio o de oportunidad?
 
 ## Guerra Irán: ¿Golpe del 5% a ING, Santander y BBVA? Impacto real en fondos.
@@ -100,3 +95,7 @@ Artículos Relacionados:
 * [¿Es el S&P 500 una burbuja a punto de estallar?](https://www.eleconomista.es/mercados-cotizaciones/noticias/12751718/04/24/Es-el-S-P-500-una-burbuja-a-punto-de-estallar.html)
 * [¿Qué es el Nasdaq 100 y cómo invertir?](https://www.bbvaassetmanagement.com/blog/que-es-nasdaq-100-como-invertir)
 * [¿Cómo proteger tu cartera de inversión ante la inflación?](https://www.expansion.com/mercados/2024/01/26/65b3919ae5fdea79518b4584.html)
+---
+
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto calificado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.

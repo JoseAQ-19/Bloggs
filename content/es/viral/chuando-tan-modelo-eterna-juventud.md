@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Chuando Tan Tiene 60 Años: Su Secreto Desata Teorías Conspirativas Sobre Telómeros](/images/chuando-tan-modelo-eterna-juventud.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 La obsesión por la eterna juventud ha dejado de ser un deseo estético para convertirse en una distorsión sociológica que vende falsas esperanzas a una generación incapaz de procesar el envejecimiento. Mientras la ciencia legítima lucha por extender la salud esperanza (healthspan), el mercado de la "longevidad" se ha convertido en un pantano de pseudociencia, teorías conspirativas y explotación de datos genéticos.
 
 * Chuando Tan, un fotógrafo y modelo nacido en 1966, ha desatado una fiebre conspirativa sobre ingeniería de telómeros al mantener una apariencia física que parece desafiar la biología estándar, aunque su secreto reside en una dieta estricta y ejercicio intenso.

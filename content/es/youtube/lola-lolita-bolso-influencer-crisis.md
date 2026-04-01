@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Lola Lolita Pide Perdón, pero los Microinfluencers Ganan la Guerra](/images/lola-lolita-bolso-influencer-crisis.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 La imagen de Lola Lolita rodeada de lujos en "21 días entre millonarios" ha resonado como un campanazo fúnebre para la ostentación en redes. ¿Estamos ante el principio del fin de los influencers que muestran una vida inalcanzable?
 
 * La controversia de Lola Lolita subraya los riesgos del comportamiento inauténtico de los influencers, contribuyendo a una tendencia en la que las marcas favorecen cada vez más a los microinfluencers por sus mayores tasas de engagement.

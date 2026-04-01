@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Bitcoin's $36.7 Million Wake-Up Call: Is Your Portfolio Next?](/images/bitcoin-stop-loss-cascade-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 Bitcoin’s volatility claimed another victim as a single position faced a $36.7 million wipeout. Are you next?
 
 * A single Bitcoin position on Hyperliquid was liquidated for $36.7 million during a market plunge in November 2025, highlighting the risks of high leverage.
@@ -77,3 +72,7 @@ The prevalence of wash trading undermines the integrity of the crypto market and
 Bitcoin remains a high-risk, high-reward asset, but ignoring the warning signs can lead to financial devastation. Reduce leverage, implement wider stop-losses outside obvious trigger zones, and don't gamble; strategize.
 
 *This article is for informational purposes only and should not be considered financial advice. Cryptocurrency investments are volatile and carry significant risk. Always do your own research before making any investment decisions.*
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

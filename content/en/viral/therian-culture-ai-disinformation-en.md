@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Therian Identity Faces $78 Billion Crisis: AI Deepfakes Threaten Reality Itself](/images/therian-culture-ai-disinformation-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 AI deepfakes threaten to completely erode public trust, especially for marginalized groups. The existential question of therian identity faces a monumental challenge.
 
 * Deepfakes are projected to cost the global economy $78 billion due to misinformation, creating an existential crisis for the therian community as AI blurs the lines between authentic identity and fabrication.

@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![56% Spike: Texas Maternal Deaths Explode Post-Roe; Tech Execs Silent](/images/bonnie-blue-social-media-consequences-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 Texas's maternal mortality rate surged by 56% after the state enacted its abortion ban, signaling a healthcare crisis. The tech sector's silence on this critical issue is notable.
 
 * Texas maternal mortality rose 56% in 2022, the first full year of the state's abortion ban, far exceeding the national increase of 11%.

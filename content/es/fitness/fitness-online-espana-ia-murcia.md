@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Fitness Online En España: El Imperio De Los 1.650 Millones Peligra Por La IA](/images/fitness-online-espana-ia-murcia.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
-
 El 13,4% de las muertes en España en 2019 fueron consecuencia de la inactividad física, un problema que el auge del fitness online podría exacerbar en lugar de solucionar, especialmente con la proliferación de IA sin control. La falta de regulación y las estafas son solo la punta del iceberg.
 
 * En 2025, el mercado del fitness online en España generó 1.650 millones de euros, pero la falta de certificaciones oficiales y la creciente presencia de IA generativa podrían poner en riesgo la salud de los usuarios y facilitar las estafas.

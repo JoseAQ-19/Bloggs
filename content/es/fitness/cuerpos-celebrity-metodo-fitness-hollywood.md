@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![¡Escándalo Postparto! El Secreto Fitness Que Esconde El 90% De La Depresión Maternal](/images/cuerpos-celebrity-metodo-fitness-hollywood.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
-
 La presión por recuperar la figura "pre-bebé" es una trampa cruel que ignora la crisis de salud mental que afecta a la gran mayoría de las madres primerizas. La obsesión con el "bounce back" esconde una realidad mucho más oscura.
 
 * Más del 90% de las mujeres confiesan haber sufrido síntomas de depresión posparto, aunque muchos casos permanecen sin diagnosticar.

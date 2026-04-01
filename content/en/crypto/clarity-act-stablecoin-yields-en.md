@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![$6.6 Trillion Exodus? CLARITY Act's Stablecoin War Just Ignited](/images/clarity-act-stablecoin-yields-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 Traditional banking faces a potential $6.6 trillion deposit exodus as the CLARITY Act seeks to regulate stablecoins, specifically targeting the yield-bearing mechanisms that currently attract institutional and retail capital away from low-interest savings accounts.
 
 * Banks could see up to $6.6 trillion in deposits migrate out if passive stablecoin yields go unregulated, highlighting the massive arbitrage opportunity between traditional finance and on-chain yields.
@@ -60,3 +55,7 @@ However, the CLARITY Act's solution—banning yield—is a blunt instrument that
 ### Related Articles
 - [YouTube TV’s Subscriber Tsunami: Is This The End Of Traditional Cable?](/en/youtube/youtube-tv-dish-sling-streaming-wars-en/)
 - [YouTube TV In 2026: Comcast's Worst Nightmare Or $73 Mistake?](/en/youtube/youtube-tv-2026-worth-it-en/)
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

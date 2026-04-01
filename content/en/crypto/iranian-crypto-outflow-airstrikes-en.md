@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![700% Crypto Spike: Did Iran's Whales Know Something We Didn't About Airstrikes?](/images/iranian-crypto-outflow-airstrikes-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 Geopolitical instability is now a tradable asset class, it seems. Cryptoasset outflows from Iran's largest exchange, Nobitex, surged 700% immediately following US-Israeli airstrikes, igniting speculation that some parties possessed advance knowledge of the attacks.
 
 * Cryptoasset outflows from Iran's largest exchange, Nobitex, surged 700% immediately following US-Israeli airstrikes, sparking suspicion of foreknowledge.
@@ -61,3 +56,7 @@ The intersection of cryptocurrency and geopolitics has created a perfect storm o
 The promise of cryptocurrency shouldn't come at the cost of global stability.
 
 *This article is for informational purposes only and should not be considered financial advice. Cryptocurrency investments are volatile and carry significant risk. Always do your own research before making any investment decisions.*
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Claude Sentencia a 2 Millones de Españoles: El Apocalipsis Laboral Es Ahora](/images/anthropic-claude-apocalipsis-laboral-espana.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 Claude, GPT-4o y los LLMs multimodales no vienen a "ayudarnos" a trabajar, vienen a reemplazar la cognición humana barata con inferencia probabilística casi gratuita. La narrativa corporativa de que la Inteligencia Artificial es un asistente copiloto es la mayor estafa vendida desde la burbuja de las puntocom, diseñada para que los empleados no huyan antes de ser reemplazados por scripts de Python y tarjetas GPU H100 que nunca duermen.
 
 * Randstad Research indica que el 9,8% de los empleos actuales en España están en riesgo directo de automatización (aproximadamente 2 millones de puestos), mientras que el 15,9% podría ver una "mejora" de productividad que en la práctica se traduce en hacer el trabajo de tres personas con el sueldo de una.

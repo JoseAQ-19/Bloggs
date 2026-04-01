@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![$5 Million a Year, But At What Cost? Family Vlogging's Dark Secret](/images/family-travel-youtube-burnout-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 * Family vlogging channels earning over $5 million annually are exposing children to significant psychological harm, with experts identifying depression and identity crisis as common outcomes among child performers.
 * 37% of social media creators report considering quitting due to burnout, but family vloggers face unique pressure as their children become unwilling employees in content production.
 * The Ruby Franke case proves that the $1.2 billion family vlogging industry can mask child abuse until it becomes criminal, with legal protections lagging far behind child entertainment regulations.

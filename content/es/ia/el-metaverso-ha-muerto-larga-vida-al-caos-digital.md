@@ -19,9 +19,6 @@ author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 El supuesto funeral del metaverso es prematuro. No es que haya muerto, sino que nunca existió. La idea de un universo digital unificado, una réplica barata de la realidad donde corporaciones como Meta nos pastorearían con avatares caricaturescos, siempre fue una fantasía megalómana digna de un capítulo de Black Mirror. La verdadera pregunta es: ¿cómo pudo alguien tomarla en serio?
 
 ## La falacia del "único metaverso"

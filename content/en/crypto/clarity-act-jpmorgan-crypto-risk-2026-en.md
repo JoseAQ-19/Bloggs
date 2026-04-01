@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Clarity Act's Static Mistakes: Why JPMorgan's Crypto Bull Case Is a LIE](/images/clarity-act-jpmorgan-crypto-risk-2026-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 JPMorgan's enthusiasm for the Clarity Act is a dangerous oversimplification of a law fraught with flaws and blind spots.
 
 * JPMorgan's Nikolaos Panigirtzoglou anticipates a crypto rally in 2026 driven by the Clarity Act, but this overlooks fundamental issues in the legislation and broader market risks.
@@ -73,3 +68,7 @@ Investors should focus on projects with strong fundamentals, proven use cases, a
 Don't believe the hype.
 
 *This article is for informational purposes only and should not be considered financial advice. Cryptocurrency investments are volatile and carry significant risk. Always do your own research before making any investment decisions.*
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

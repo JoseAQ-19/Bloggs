@@ -16,11 +16,6 @@ ai_disclosure: true
 ---
 ![Ripple Alerta: El Riesgo Oculto de Control Estatal Sobre Criptomonedas Que Nadie Ve](/images/ceo-ripple-alerta-criptos-politica-riesgos.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
-
 La promesa de libertad financiera de Bitcoin se está desmoronando bajo el peso de la burocracia estatal europea. La supuesta descentralización, vendida como un escudo contra la interferencia gubernamental, se revela cada vez más como un mito conveniente mientras los reguladores avanzan impertérrables.
 
 * El 81.7% de la población española ha oído hablar de criptomonedas, mientras que el 16% posee alguna, lo que indica un creciente interés en el tema.
@@ -126,3 +121,7 @@ La institucionalización de las criptomonedas es una espada con riesgos signific
 }
 }
 </script>
+---
+
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto calificado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.

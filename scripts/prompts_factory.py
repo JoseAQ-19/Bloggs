@@ -175,7 +175,7 @@ FRAMEWORK DE CONTENIDO (OBLIGATORIO PARA ECONOMÍA/FONDOS):
 - Cita siempre la fuente del dato financiero (Morningstar, Bloomberg, Reuters).
 - Si el dato no existe, escribe "sin datos verificables".
 
-DISCLAIMER OBLIGATORIO (ESPAÑOL):
+DISCLAIMER OBLIGATORIO (ESPAÑOL - INYECTAR AL FINAL DEL ARTÍCULO):
 *La inversión en fondos y mercados financieros conlleva riesgos significativos. Este contenido es puramente informativo y no constituye asesoramiento financiero. Rentabilidades pasadas no garantizan rentabilidades futuras.*
 
 LONGITUD MÍNIMA: 1500 palabras.
@@ -195,7 +195,7 @@ COGNITIVE FRAMEWORK (MANDATORY FOR FUNDS/ECONOMY):
 - Always cite the publication or data firm (e.g., "per Morningstar data").
 - If data is missing, state "no verifiable data available."
 
-MANDATORY DISCLAIMER (ENGLISH):
+MANDATORY DISCLAIMER (ENGLISH - INJECT AT THE END OF THE ARTICLE):
 *Investing in funds and financial markets carries significant risk. This content is for informational purposes only and does not constitute investment advice. Past performance is not indicative of future results.*
 
 MINIMUM LENGTH: 1500 words.
@@ -353,16 +353,19 @@ Your ultimate goal is **"Information Gain"**: creating value that does not exist
    ```
    MISSING translationKey = AUTOMATIC QUARANTINE. Non-negotiable.
 
+0.1 ZERO METADATA LEAK (CRITICAL): 
+    Meta-information (title, slug, translationKey, categories, items count, etc.) MUST ONLY reside in the YAML frontmatter block. It is STRICTLY FORBIDDEN to print 'title:', 'slug:', 'description:', or repeat the article's title at the beginning of the Markdown content. The article MUST start directly with the content (e.g., the BLUF or introductory paragraph). Any metadata in the body is a grounds for immediate rejection.
+
 1. NO TITLE REPETITION: Do NOT include the article title or H1 at the beginning of the text.
 
 2. TITLE LIMIT & ANTI-CLICKBAIT: Titles MUST be ≤70 characters and assert a FACT, not just tease a topic.
 
-3. GEO-FIRST OPENING (KEY TAKEAWAYS):
-   The first 200 words MUST contain a contextual paragraph followed by a bold takeaway box:
-   > **📌 Lo esencial / Key Takeaways:**
-   > - [Concrete Stat/Data point 1]
-   > - [Concrete Stat/Data point 2]
-   > - [Concrete Stat/Data point 3]
+3. E-E-A-T VALUE BOX (EXECUTIVE SUMMARY / TL;DR):
+   The article MUST start with a bold bulleted box summarizing the core findings (Information Gain):
+   > **📊 Resumen Ejecutivo / Executive Summary (TL;DR):**
+   > - [Key Financial/Technical/Health takeaway 1]
+   > - [Key Financial/Technical/Health takeaway 2]
+   > - [Key Financial/Technical/Health takeaway 3]
 
 4. THE "INSIGHT" MANDATE (CURE FOR THIN CONTENT):
    You MUST include at least one H2 section that provides ORIGINAL ANALYSIS not found in a news wire. This means:
@@ -382,8 +385,6 @@ Your ultimate goal is **"Information Gain"**: creating value that does not exist
 7. HEADERS HIERARCHY (NO H1 IN BODY):
    Use H2 (##) and H3 (###) only.
    Every H2 MUST establish an argumentative position, not just a descriptive label.
-   ❌ BAD H2: "El impacto en las empresas."
-   ✅ GOOD H2: "La migración cuesta un 30% más de lo estimado a las pymes."
 
 8. PARAGRAPH STRUCTURE:
    Vary between 1 and 3 sentences. NEVER exceed 3 sentences per paragraph. NO WALLS OF TEXT.
@@ -395,7 +396,11 @@ Your ultimate goal is **"Information Gain"**: creating value that does not exist
     PENULTIMATE H2 MUST BE the FAQ section (## Preguntas Frecuentes / ## Frequently Asked Questions).
     Include 3-5 specific questions (as H3) based on real user operational concerns.
 
-11. MINIMUM LENGTH: At least 1500 words. Complete the entire article up to the FAQ.
+11. METODOLOGÍA Y FUENTES (E-E-A-T MANDATE):
+    The VERY LAST section of the article (after the FAQ) MUST be a ## Metodología y Fuentes / Methodology & Sources section.
+    Explain briefly how the data was audited and list the specific primary sources used for this analysis.
+
+12. MINIMUM LENGTH: At least 1500 words. Complete the entire article up to the Methodology section.
 """
 
 # ═══════════════════════════════════════════════════════════════════

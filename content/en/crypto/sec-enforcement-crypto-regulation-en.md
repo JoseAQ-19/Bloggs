@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![$2.6 Billion Crypto Crackdown: Is Your DeFi Next, Thanks To The SEC?](/images/sec-enforcement-crypto-regulation-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 The SEC’s heightened focus on crypto enforcement reveals a regulatory minefield for DeFi projects. In 2025, the SEC brought more than 30 crypto enforcement actions, signaling a clampdown on unregistered securities in the decentralized finance (DeFi) space.
 
 * The SEC secured $2.6 billion in investor restitution and penalties in 2025 from crypto enforcement actions — **SEC Enforcement: 2025 Year in Review**
@@ -70,3 +65,7 @@ However, the SEC's regulatory actions in the crypto space often involve politica
 The SEC's increased enforcement activity demands a cautious approach to DeFi. Conduct thorough due diligence and assess the legal risk of yield farming platforms before participating. The regulatory landscape is constantly evolving, and participants in the DeFi space must stay informed about the latest developments to avoid legal pitfalls.
 
 *This article is for informational purposes only and should not be considered financial advice. Cryptocurrency investments are volatile and carry significant risk. Always do your own research before making any investment decisions.*
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

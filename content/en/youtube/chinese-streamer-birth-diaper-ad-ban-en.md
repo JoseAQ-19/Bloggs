@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Banned for Broadcasting Birth: Outrage Over Chinese Streamer's Diaper Ad Stunt](/images/chinese-streamer-birth-diaper-ad-ban-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 The influencer marketing bubble is about to burst in China, and "Paul in USA" just popped the first balloon.
 
 * "Paul in USA" was banned from Chinese social media for live-streaming his wife's childbirth, including a diaper ad, violating privacy and commercial ethics rules.

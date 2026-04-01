@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![X's SRE Neglect: Why Dmytro Sirant Says Musk's Empire Is Crashing](/images/x-creator-monetization-failure-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 X's SRE Neglect Risks a $701 Billion Creator Economy Collapse
 
 * [78% of creators report burnout impacting their motivation and mental health — 2025 Creator Economy Report]

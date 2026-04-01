@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![84% of High Schoolers Use AI: Are Teachers Even in The Classroom Anymore?](/images/generative-ai-high-schools-technical-analysis-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 84% of high school students are using AI for schoolwork, raising serious questions about academic integrity and the future role of educators in the classroom.
 
 * 84% of high school students report using AI tools for school assignments, according to a Walton Family Foundation survey, showing an alarming 5% increase from just January 2025.

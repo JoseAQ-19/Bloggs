@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Amouranth's $440,000 Twitch Loss: Was Peru Trip A Desperate Gamble?](/images/amouranth-incident-analysis-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 Amouranth's recent activities in Peru may be an attempt to offset potential losses from Twitch policies and mounting controversies. The streamer needs to diversify revenue streams to remain financially stable.
 
 * Amouranth potentially lost $440,000 annually in Twitch ad revenue due to demonetization policies, pushing her to seek other income sources.

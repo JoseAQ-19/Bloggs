@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Costaleros al Límite: El Secreto Para Evitar Lesiones de Espalda Estas Fiestas](/images/semana-santa-entrenamiento-sin-remordimientos.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
-
 **Un tercio de los españoles sufre lesiones musculares anuales, pero los costaleros de Sevilla cargan con el doble de riesgo bajo sus pasos** 
 * [3 de cada 10 españados han padecido lesiones musculares, articulares o óseas en el último año — Estudio Nacional de Salud](https://www.ine.es/jaxiT3/Tabla.htm?t=2888) 
 * El mercado español de suplementos deportivos crece 8,7% anual, con 2.000 millones en ventas y 64-92% de uso en deportistas de élite — [Agencia Española de Seguridad Alimentaria y Nutrición (AESAN)](https://www.aesan.gob.es/) 

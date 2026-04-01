@@ -17,9 +17,6 @@ author: "NovumWorld Editorial Team"
 ai_disclosure: true
 ---
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 El metaverso: de burbuja especulativa a herramienta industrial... ¿pero realmente útil?
 
 La grandilocuencia inicial sobre el metaverso como la próxima gran revolución de internet se ha estrellado contra un muro de decepción. La visión de un mundo virtual inmersivo, promovida con fervor casi religioso por Mark Zuckerberg, ha demostrado ser más una quimera costosa que una realidad tangible. Pero, ¿está realmente muerto este concepto? La respuesta, como casi siempre, es más compleja... y mucho menos prometedora de lo que quieren hacernos creer.

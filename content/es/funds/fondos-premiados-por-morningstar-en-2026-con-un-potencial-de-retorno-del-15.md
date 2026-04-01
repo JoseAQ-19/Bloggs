@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Fondos premiados por Morningstar en 2026 con un potencial de retorno del 15%](/images/fondos-premiados-por-morningstar-en-2026-con-un-potencial-de-retorno-del-15.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
-
 Un **40% de los fondos de inversión han superado el índice de referencia en los últimos tres años** — **Morningstar**.
 
 - *15% — Retorno promedio de los fondos premiados por Morningstar en 2026* — [Morningstar](https://www.morningstar.es/es/news/274828/8-etfs-de-renta-fija-para-aprovechar-el-repunte-del-dólar-estadounidense.aspx)
@@ -92,3 +87,7 @@ La decisión de invertir en fondos premiados debe basarse en un análisis riguro
 ---
 
 ⚠️ **IMPORTANTE DISCLAIMER:** Este artículo sobre fondos de inversión tiene únicamente carácter informativo y educativo. No constituye recomendación de inversión ni asesoramiento financiero. Los fondos de inversión conllevan riesgos, incluyendo la posible pérdida del capital invertido. Los rendimientos pasados no son indicativos de resultados futuros. Antes de invertir, lea el folleto informativo disponible en la página web de la entidad, donde se detallan los riesgos asociados. Consulte con un asesor financiero independiente.
+---
+
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto calificado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.

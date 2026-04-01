@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Metformin's Dirty Secret: Diarrhea, Disappointment, and Dubious Benefits.](/images/metformin-longevity-hack-or-hype-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 Metformin, a common treatment for Polycystic Ovary Syndrome (PCOS), is not a perfect solution due to frequent side effects and limited efficacy. The COMET-PCOS trial highlights these shortcomings.
 
 * Metformin demonstrates inconsistent evidence for weight loss and no substantial impact on metabolic syndrome compared to oral contraceptive pills (COCPs), according to the COMET-PCOS trial.

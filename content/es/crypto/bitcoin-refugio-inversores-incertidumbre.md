@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Stephen Roach Acierta: Bitcoin Es Tóxico Y La Verticalidad Lo Demuestra](/images/bitcoin-refugio-inversores-incertidumbre.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
-> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
-
 La reciente verticalidad en el precio de Bitcoin, que ha superado los $70,000, ha reactivado el debate sobre si se trata de una burbuja especulativa o un activo legítimo. Stephen Roach, economista de Yale, se mantiene firme en su postura: Bitcoin es "tóxico" para los inversores.
 
 * Stephen Roach se mantiene firme en su evaluación de que Bitcoin es una burbuja especulativa "tóxica", citando su reciente verticalidad de precios como evidencia, a pesar de su creciente adopción.
@@ -64,3 +59,7 @@ Las advertencias de Stephen Roach, junto con la cautela regulatoria en España y
 Los inversores deberían asignar no más del 5% de su cartera a Bitcoin y tratarlo como un activo altamente especulativo.
 
 Bitcoin: proceder con extrema cautela.
+---
+
+> [!IMPORTANT]
+> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto calificado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.

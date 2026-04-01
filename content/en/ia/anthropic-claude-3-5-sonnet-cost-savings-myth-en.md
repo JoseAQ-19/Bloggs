@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Claude 3.5 Sonnet: That 5x Cost Savings Claim Is a Total Lie](/images/anthropic-claude-3-5-sonnet-cost-savings-myth-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 Anthropic's claim of "5x cost savings" with Claude 3.5 Sonnet is misleading because the pricing structure reveals a continuation of existing rates. A closer look at performance benchmarks is needed to justify the hype.
 
 * Anthropic's Claude 3.5 Sonnet costs the same as its predecessor, Sonnet 4.5, priced at $3 per million input tokens and $15 per million output tokens. This pricing structure questions the claims of significant cost savings.

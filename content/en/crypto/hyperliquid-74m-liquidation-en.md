@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Hyperliquid Horror: One Trader's $74M Loss Exposes $4.25B TVL Time Bomb](/images/hyperliquid-74m-liquidation-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 Hyperliquid's siren song of 50x leverage has lured many to the rocks, but a recent $74 million liquidation suggests a systemic failure, not just individual recklessness.
 
 * A single trader's $74 million loss on Hyperliquid exposed a critical vulnerability related to cascading liquidations within the platform's $4.25 billion TVL.
@@ -73,3 +68,7 @@ Reduce leverage and diversify your holdings *before* you need to.
 DeFi dreams can turn into DeFi nightmares.
 
 *This article is for informational purposes only and should not be considered financial advice. Cryptocurrency investments are volatile and carry significant risk. Always do your own research before making any investment decisions.*
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

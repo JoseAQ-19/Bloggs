@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Fitness M&A: Jeremy Hirsch Predicts Biggest Year Ever In 2025](/images/fitness-ma-boom-2025-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 The narrative of a post-pandemic fitness recovery is a convenient lie told to mask a brutal market consolidation; the industry is not healing, it is being cannibalized by private equity firms betting on the "experience economy" while loading gym chains with debt.
 
 * Houlihan Lokey Director Jeremy Hirsch predicts 2025 will be the "biggest M&A year ever in fitness," driven by Gen Z's preference for experiences, with 44 fitness M&A transactions worth a combined $2.1 billion in the first half of 2025 alone **PE Hub**.

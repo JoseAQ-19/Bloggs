@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![YouTube's Algorithm Dominates 70% of Viewing: Why Netflix Should Be Worried](/images/netflixs-ted-sarandos-calls-out-youtube-not-just-cat-videos-but-a-real-competitor-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
 YouTube's recommendation algorithm drives approximately 70% of the content viewed on the platform, posing a significant threat to Netflix's dominance in streaming. The implications of this statistic are profound, as they signal a shift in the competitive landscape of digital entertainment.
 
 * YouTube's algorithm influences 70% of viewing on the platform, raising competitive concerns for Netflix's subscriber base. 

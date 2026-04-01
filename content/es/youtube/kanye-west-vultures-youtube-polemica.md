@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Vultures' Incendia YouTube: ¿Kanye West Repetirá el Error Legal del 70%?](/images/kanye-west-vultures-youtube-polemica.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 **El 70% de los artistas emergentes pierden derechos o ingresos por no tomar precauciones legales desde el principio, un riesgo que Kanye West podría estar repitiendo con Universal Music.** 
 * Solo el 3.08% de los artistas españoles están satisfechos con los pagos por streaming de sus contratos con los sellos discográficos. 
 * El 94.84% de los artistas sienten que la distribución de ingresos por streaming es injusta. 

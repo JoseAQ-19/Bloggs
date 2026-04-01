@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Dani Olmo Revela Verdades Ocultas: Sus Respuestas Este Viernes En YouTube](/images/dani-olmo-en-vivo-no-te-pierdas-sus-respuestas-directas-este-viernes-en-youtube.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 Dani Olmo se prepara para desmentir rumores en YouTube este viernes, pero la realidad financiera y física del jugador del FC Barcelona es mucho más aterradora que cualquier declaración en cámara. El mercado de fichajes no perdona la fragilidad, y las estadísticas de Olmo pintan un futuro oscuro para la economía culé si su cuerpo no resiste. La burbuja de su fichaje podría estallar dejando una deuda millonaria.
 
 * Dani Olmo ha sufrido **11 lesiones** en los últimos cinco años, acumulando más de **370 días** de baja, lo que ha disparado las alarmas sobre su viabilidad física a largo plazo.

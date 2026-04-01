@@ -51,6 +51,26 @@
   {{ partial "schema.html" . -}}
   {{ partial "twitter_cards.html" . -}}
 
+  <!-- Global Organization Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "NovumWorld",
+    "url": "{{ .Site.BaseURL }}",
+    "logo": "{{ .Site.BaseURL }}images/logo.png",
+    "sameAs": [
+      "https://twitter.com/novumworld",
+      "https://www.linkedin.com/company/novumworld"
+    ],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "editorial",
+      "email": "editorial@novumworld.com"
+    }
+  }
+  </script>
+
   {{ if hugo.IsProduction }}
   {{/* former internal template */}}
   {{ partial "google_analytics.html" . }}

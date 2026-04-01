@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![71-Year-Old Grandmother Shatters Stereotypes as Fitness Competition Finalist and Inspires Change](/images/71-year-old-grandmother-stuns-as-finalist-in-national-fitness-competition-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 The fitness industry has systematically marginalized the most profitable demographic in existence, preferring to chase aesthetics over longevity while ignoring a physiological reality that shatters every "age-related" myth in the book.
 
 * Only 1% of fitness facility members in the UK are over 70, yet this demographic accounted for 75% of COVID-related deaths, highlighting a catastrophic failure in preventative health infrastructure — Health & Fitness Association.

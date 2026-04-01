@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Odio 24/7: Violeta Mangriñán y La Salud Mental Que Las Redes Destrozan.](/images/violeta-mangrinan-hate-online-fama.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 Violeta Mangriñán no está sola: el 60% de las jóvenes españolas han experimentado violencia sexual digital, incluyendo acoso relacionado con su apariencia física.
 
 * Más del 55% de los síntomas de ansiedad entre los usuarios de redes sociales en España están vinculados a la adicción a estas plataformas, según estudios recientes.

@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Amazon Destruirá 160.000 Empleos: El Apocalipsis Laboral Se Acerca a España](/images/amazon-automatizacion-empleo-espana.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 La promesa de un futuro eficiente propulsado por la automatización en Amazon podría convertirse en la pesadilla laboral de 160.000 personas en España, un país que ya lidia con una tasa de desempleo persistentemente alta.
 
 * Amazon planea automatizar el 75% de sus operaciones para 2030, eliminando potencialmente 160.000 empleos y evitando la contratación de 600.000 futuros empleados.

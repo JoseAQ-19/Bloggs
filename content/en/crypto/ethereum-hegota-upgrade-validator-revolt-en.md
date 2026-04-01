@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Hegota's $9.8 Billion ETF Gamble: Is Ethereum Censorship Resistance Worth The Risk?](/images/ethereum-hegota-upgrade-validator-revolt-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
-
 Ethereum's Hegota upgrade is a high-stakes gamble, potentially exposing US-based validators holding billions in ETH ETFs to regulatory and financial ruin. The promise of censorship resistance may not be worth the price.
 
 * The Ethereum Hegota upgrade, including FOCIL, aims to enhance censorship resistance, but could expose US-based validators holding $9.8 billion in ETH ETFs to legal repercussions and slashing risks.
@@ -71,3 +66,7 @@ FOCIL is a calculated gamble. The risks to US-based validators outweigh the theo
 Decentralization isn't free.
 
 *This article is for informational purposes only and should not be considered financial advice. Cryptocurrency investments are volatile and carry significant risk. Always do your own research before making any investment decisions.*
+---
+
+> [!IMPORTANT]
+> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.

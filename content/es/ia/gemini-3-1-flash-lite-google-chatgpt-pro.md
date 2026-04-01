@@ -14,9 +14,6 @@ ai_disclosure: true
 ---
 ![Gemini 3.1 Flash Lite: Google Revienta ChatGPT Pro Por 1/8 Del Precio](/images/gemini-3-1-flash-lite-google-chatgpt-pro.jpg)
 
-> [!IMPORTANT]
-> **Aviso Editorial y YMYL:** La información presentada en este artículo tiene fines únicamente educativos e informativos. No constituye asesoramiento profesional (médico, legal, financiero o técnico). Consulte siempre con un experto caligicado antes de tomar decisiones basadas en este contenido. NovumWorld no asume ninguna responsabilidad por las acciones tomadas basadas en la información proporcionada aquí.
-
 El entusiasmo en torno a la IA barata podría ser una distracción de la verdadera crisis: la falta de escalabilidad en el mercado español.
 
 * Gemini 3.1 Flash Lite, con un costo 1/8 inferior al de Gemini 3.1 Pro, emerge como una alternativa competitiva que busca perturbar el panorama de la IA.

@@ -1,0 +1,63 @@
+<!-- NovumWorld Tracking Ecosystem: Google Analytics 4 (G-43PJ7F93M2) & AdSense (pub-3060138572766030) -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  
+  // 1. Consent Mode V2: Estricto bloqueo por defecto (GDPR Compliance)
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'wait_for_update': 500
+  });
+
+  gtag('js', new Date());
+
+  // 2. Función de activación para Google Analytics (Invocada por cookie-consent.html)
+  function initGtag() {
+    console.log('Analytics: Consentimiento otorgado. Activando G-43PJ7F93M2...');
+    
+    // Inyectamos el script de la librería gtag.js dinámicamente
+    var gaScript = document.createElement('script');
+    gaScript.src = "https://www.googletagmanager.com/gtag/js?id=G-43PJ7F93M2";
+    gaScript.async = true;
+    document.head.appendChild(gaScript);
+    
+    // Actualizamos el estado del consentimiento en el motor de Google
+    gtag('consent', 'update', {
+      'ad_storage': 'granted',
+      'analytics_storage': 'granted',
+      'ad_user_data': 'granted',
+      'ad_personalization': 'granted'
+    });
+    
+    // Configuración final de seguimiento
+    gtag('config', 'G-43PJ7F93M2', { 
+      'anonymize_ip': true,
+      'cookie_flags': 'SameSite=None;Secure'
+    });
+  }
+
+  // 3. Función de activación para AdSense (Invocada por cookie-consent.html)
+  function initAdSense() {
+    console.log('AdSense: Consentimiento otorgado. Inyectando anuncios...');
+    
+    var adsScript = document.createElement('script');
+    adsScript.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3060138572766030";
+    adsScript.async = true;
+    adsScript.setAttribute('crossorigin', 'anonymous');
+    document.head.appendChild(adsScript);
+    
+    (window.adsbygoogle = window.adsbygoogle || []).pauseAdRequests = 0;
+  }
+
+  // Bloqueo preventivo de AdSense
+  (window.adsbygoogle = window.adsbygoogle || []).pauseAdRequests = 1;
+
+  // Verificación inmediata si el usuario ya aceptó previamente (Persistencia LocalStorage)
+  if (localStorage.getItem('novum_cookie_consent') === 'accepted') {
+    initGtag();
+    initAdSense();
+  }
+</script>

@@ -14,11 +14,6 @@ ai_disclosure: true
 ---
 ![Forget Weights: Xponential Fitness Doesn't Want You To Know This Hypertrophy Hack.](/images/bodyweight-isometrics-hypertrophy-en.jpg)
 
-> [!IMPORTANT]
-> **Editorial & YMYL Disclaimer:** The information presented in this article is for educational and informational purposes only. It does not constitute professional advice (medical, legal, financial, or technical). Always consult with a qualified expert before making decisions based on this content. NovumWorld assumes no liability for actions taken based on the information provided here.
-
-> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
-
 Xponential Fitness’s growth trajectory may be overlooking a readily available and inexpensive hypertrophy method, potentially stalling gains for its members.
 
 * Bodyweight isometrics, holding a static position against resistance, can offer comparable hypertrophy to traditional weight training.
