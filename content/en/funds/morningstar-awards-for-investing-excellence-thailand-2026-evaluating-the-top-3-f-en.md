@@ -82,6 +82,8 @@ A: The top funds exhibit strong risk management, as evidenced by a low standard 
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources and Sources
 
 This analysis utilizes data from reputable financial sources, including Morningstar, Bloomberg, and the Securities and Exchange Commission (SEC) of Thailand. Performance metrics, expert opinions, and market data were compiled to provide a detailed overview of the leading mutual funds in Thailand. This comprehensive approach ensures a balanced perspective, aiding investors in making informed decisions.

@@ -157,17 +157,18 @@ def process_file(path):
 
 if __name__ == "__main__":
     files = glob.glob('content/**/*.md', recursive=True)
-    print(f"🔍 Escaneando {len(files)} archivos...")
+    # Console output must stay ASCII-only to avoid encoding issues
+    print(f"[SCAN] Escaneando {len(files)} archivos...")
     for f in files:
         if '_index.md' in f or any(x in f for x in ['contact', 'privacy', 'about', 'terms']): continue
         process_file(f)
         
     print("\n" + "="*40)
-    print("      RESUMEN DE CIRUGÍA REPOSITORIO")
+    print("      RESUMEN DE CIRUGIA REPOSITORIO")
     print("="*40)
-    print(f"✅ Archivos procesados: {STATS['total']}")
-    print(f"✨ Emojis extirpados: {STATS['cleaned_emojis']}")
-    print(f"🧹 Fugas de metadata purgadas: {STATS['cleaned_leaks']}")
-    print(f"⚖️ Disclaimers fusionados y reubicados: {STATS['merged_disclaimers']}")
-    print(f"🧬 Artículos rotos REGENERADOS: {STATS['regenerated']}")
+    print(f"Archivos procesados: {STATS['total']}")
+    print(f"Emojis extirpados: {STATS['cleaned_emojis']}")
+    print(f"Fugas de metadata purgadas: {STATS['cleaned_leaks']}")
+    print(f"Disclaimers fusionados y reubicados: {STATS['merged_disclaimers']}")
+    print(f"Articulos rotos REGENERADOS: {STATS['regenerated']}")
     print("="*40)

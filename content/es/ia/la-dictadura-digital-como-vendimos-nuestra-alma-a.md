@@ -93,6 +93,8 @@ Es fundamental que tomemos conciencia de esta realidad y actuemos para proteger 
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 Este análisis se basa en una revisión de literatura académica y reportes de investigaciones sobre la influencia de la tecnología en la sociedad contemporánea. Se han consultado fuentes como "La era del capitalismo de la vigilancia" de Shoshana Zuboff, estudios de MIT Technology Review, y artículos de Reuters y IEEE sobre el impacto de los algoritmos en la vida cotidiana.

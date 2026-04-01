@@ -68,6 +68,8 @@ En definitiva, aunque SpaceX tiene un futuro prometedor, la valoración actual p
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 Para la elaboración de este artículo se han revisado múltiples fuentes de información, incluyendo análisis de mercado, reportes de expertos en la industria espacial y artículos de medios de comunicación de renombre. Se han consultado las siguientes referencias:

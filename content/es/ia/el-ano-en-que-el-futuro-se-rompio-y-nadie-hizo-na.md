@@ -65,6 +65,8 @@ En un mundo que avanza rápidamente, Chile tiene la oportunidad de replantear su
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 Para la elaboración de este análisis, se revisaron diversas fuentes académicas, informes de think tanks y artículos de opinión de expertos en política y economía. Se consultaron investigaciones de la London School of Economics y de la Universidad de Harvard, así como datos del Banco Mundial, para comprender el contexto histórico y social que llevó al estallido social en Chile. Esta revisión permite ofrecer un análisis profundo y fundamentado sobre las causas y consecuencias de la crisis social en el país.

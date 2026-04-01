@@ -67,6 +67,8 @@ Es imperativo que tanto las plataformas como los gobiernos tomen medidas para mi
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
-Este análisis se basa en una revisión exhaustiva de investigaciones académicas, informes judiciales y datos estadísticos recientes sobre el uso de internet y redes sociales entre adolescentes en España y Europa. Se han consultado fuentes como el informe de la UCJC, investigaciones sobre adicción a redes sociales y testimonios de casos legales que ilustran el impacto de estas plataformas en la salud mental juvenil.
+Este análisis se basa en una revisión exhaustiva de investigaciones académicas, informes judiciales y datos estadísticos recientes sobre el uso de internet y redes sociales entre adolescentes en España y Europa. Se ha

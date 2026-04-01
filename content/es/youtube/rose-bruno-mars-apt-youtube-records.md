@@ -91,6 +91,8 @@ El streaming, concebido como una herramienta democratizadora, no debería conver
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 Este informe ha sido elaborado bajo un enfoque analítico y objetivo, integrando datos cuantitativos y cualitativos para ofrecer una perspectiva completa sobre la economía del streaming musical y sus implicaciones para los artistas. La información se ha compilado a partir de las siguientes tipologías de fuentes:
@@ -101,6 +103,4 @@ Este informe ha sido elaborado bajo un enfoque analítico y objetivo, integrando
 *   **Legislación y Organismos Reguladores:** Real Decreto-ley 24/2021 ("Ley Iceta"), Ley de Propiedad Intelectual española (Ley 1/1996) y atribuciones de la Comisión Nacional de los Mercados y la Competencia (CNMC).
 *   **Medios de Comunicación y Periodismo Especializado:** Artículos de **Prensa Latina** y otras publicaciones que cubren la ética empresarial, boicots artísticos y declaraciones de músicos.
 *   **Bases de Datos Autorizadas:** Referencias a la Biblioteca del Congreso de Estados Unidos para la identificación de artistas.
-*   **Análisis Previo de NovumWorld:** Incorporación de perspectivas de artículos internos para contextualizar fenómenos algorítmicos y de consumo.
-
-La síntesis de estas fuentes busca proporcionar un informe denso, fundamentado y crítico sobre las dinámicas actuales del sector musical digital.
+*   **Análisis Previo de NovumWorld:** Incorporación de perspectivas de artículos internos para cont

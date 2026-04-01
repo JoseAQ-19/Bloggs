@@ -56,6 +56,8 @@ Por ejemplo, si un abogado junior dedica 120 horas al mes a revisar contratos, s
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 Para el análisis presentado en este artículo, se ha recurrido a diversas fuentes, incluyendo informes de Goldman Sachs, investigaciones de mercado y datos de despachos legales que han implementado tecnologías de IA. La metodología se ha centrado en la comparación de costos operativos entre el trabajo humano y las soluciones automatizadas, así como en la evaluación del impacto de estas tecnologías en la estructura del empleo dentro del sector legal.

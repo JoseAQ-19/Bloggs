@@ -78,6 +78,8 @@ Gobiernos, empresas, sindicatos y la sociedad civil deben colaborar para desarro
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 Este artículo se ha elaborado a partir de diversas fuentes, incluyendo informes de Gi Group Holding, McKinsey Global Institute y declaraciones de expertos en el campo de la economía y la tecnología. Se ha utilizado un enfoque analítico para evaluar el impacto de la automatización en el empleo y las consecuencias socioeconómicas derivadas de su implementación.

@@ -74,6 +74,8 @@ Si alguien aún cree en la posibilidad de un orden mundial cooperativo, se encue
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 Este análisis se basa en una revisión exhaustiva de fuentes académicas, informes de medios de comunicación y estudios de caso actuales sobre las dinámicas de poder global. Se han utilizado documentos de instituciones reconocidas como **Reuters**, **Bloomberg** y artículos académicos accesibles en **ArXiv** para proporcionar un contexto detallado y fundamentado sobre la situación geopolítica actual.

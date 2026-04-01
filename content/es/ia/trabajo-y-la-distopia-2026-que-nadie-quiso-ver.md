@@ -64,6 +64,8 @@ Las crisis climáticas, como la DANA de 2024, han expuesto la fragilidad del sis
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 Este análisis se ha elaborado a partir de una revisión exhaustiva de literatura académica, informes de organizaciones internacionales y estadísticas laborales actuales. Se han consultado fuentes como la *MIT Technology Review* y datos de la Organización Internacional del Trabajo (OIT) para respaldar las afirmaciones presentadas.

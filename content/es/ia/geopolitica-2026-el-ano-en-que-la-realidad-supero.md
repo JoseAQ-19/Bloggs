@@ -72,6 +72,8 @@ El artículo original menciona la falta de un marco regulatorio sólido como un 
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 En la elaboración de este análisis, se han utilizado diversas fuentes, incluyendo informes de organizaciones internacionales, artículos académicos y publicaciones especializadas en geopolítica. La información ha sido recopilada y analizada a partir de datos disponibles hasta octubre de 2023, con un enfoque en los cambios estructurales en el equilibrio de poder global.

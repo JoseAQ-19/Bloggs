@@ -84,6 +84,8 @@ While the fund's well-diversified portfolio and strong research capabilities mak
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources and Sources
 
 This analysis draws on a variety of credible sources, including investment performance data from Morningstar, regulatory information from the Securities and Exchange Commission (SEC), and expense ratio data from the Comisión Nacional del Mercado de Valores (CNMV). Expert opinions were sourced from recognized analysts in the financial sector to provide a balanced view of Fund X's performance and risk factors.

@@ -88,6 +88,8 @@ La pregunta crítica que debemos hacernos no es si podemos evitar la crisis, sin
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 Este análisis se ha realizado a partir de una revisión exhaustiva de datos y estudios provenientes de diversas fuentes reconocidas, como Bloomberg, Reuters, y artículos académicos de ArXiv. Se han considerado tanto informes económicos como análisis de mercado para ofrecer una visión integral de la situación actual y sus posibles consecuencias.

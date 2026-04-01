@@ -79,6 +79,8 @@ La única opción viable es la resistencia. Es crucial que los trabajadores se o
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 Este análisis se basa en una revisión exhaustiva de la literatura existente sobre el impacto de la IA en el trabajo, incluyendo informes de organizaciones como la OIT y el WEF, así como artículos de investigación publicados en revistas académicas y análisis de medios de comunicación especializados. Se ha prestado especial atención a las tendencias actuales en la automatización y sus repercusiones en la fuerza laboral.

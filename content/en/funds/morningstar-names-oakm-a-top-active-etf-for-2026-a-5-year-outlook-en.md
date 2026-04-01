@@ -81,6 +81,8 @@ The ongoing transition toward renewable energy sources presents a structural thr
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources and Sources
 
 The analysis of OAKM ETF's performance and the energy sector has been conducted using a combination of Morningstar’s performance metrics, financial reports, and current geopolitical analysis. Performance data has been sourced from Morningstar's latest reports, while additional insights have been drawn from industry analyses and expert commentary.

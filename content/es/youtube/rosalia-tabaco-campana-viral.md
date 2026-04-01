@@ -64,6 +64,8 @@ Margarita de la Paz de Esvidas destaca que la industria del vapeo manipula la pe
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
-Este artículo se ha desarrollado a partir de una revisión exhaustiva de investigaciones y datos recientes sobre el consumo de vapeo entre jóvenes en España, así como de opiniones de expertos en salud pública. Las fuentes incluyen artículos académicos, informes de organizaciones de salud y declaraciones de profesionales médicos.
+Este artículo se ha desarrollado a partir de una revisión exhaustiva de investigaciones y datos recientes sobre el consumo de vapeo ent

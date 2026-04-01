@@ -56,6 +56,8 @@ Los usuarios deben considerar no solo la inversión inicial, sino también el co
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 Este análisis se ha elaborado a partir de una revisión exhaustiva de informes de la industria, especificaciones técnicas del producto y testimonios de usuarios en foros especializados. Se han consultado fuentes de información como *El Confidencial* y *Foro de Robótica Doméstica*, así como documentos técnicos del *National Institute of Biomedical Imaging and Bioengineering* para contextualizar la discusión sobre inteligencia artificial en la robótica.

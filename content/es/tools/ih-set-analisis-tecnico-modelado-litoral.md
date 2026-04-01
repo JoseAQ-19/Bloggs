@@ -65,6 +65,8 @@ A medida que las ciudades costeras como Barcelona, Vigo y Cádiz enfrentan un fu
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 Este artículo se basa en una revisión de literatura científica, informes de organismos gubernamentales y estudios de expertos en gestión costera y medio ambiente. Las cifras de inversión y proyecciones climáticas se han obtenido de fuentes oficiales y estudios académicos relevantes, incluyendo el trabajo del IHCantabria y Ecologistas en Acción.

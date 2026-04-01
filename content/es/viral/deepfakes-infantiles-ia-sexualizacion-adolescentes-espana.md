@@ -62,6 +62,8 @@ La cultura digital ha normalizado la manipulación de imágenes, llevando a la d
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 Para la elaboración de este artículo, se realizó una revisión exhaustiva de diversas fuentes académicas, informes de organizaciones no gubernamentales como Save the Children, y análisis de expertos en tecnología y ética digital. Se consultaron datos estadísticos sobre la generación de contenido sexual explícito y se examinaron las implicaciones sociales y éticas de las tecnologías emergentes en el ámbito de la inteligencia artificial.

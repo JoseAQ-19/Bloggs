@@ -83,5 +83,7 @@ Cádiz tiene la oportunidad de liderar un modelo de IA en salud que sea no solo 
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 Este informe se ha elaborado mediante un análisis crítico y documental de las declaraciones oficiales del Ministerio de Sanidad y Red.es, informes de organismos reguladores como la Agencia Española de Protección de Datos (AEPD), estudios académicos sobre sesgos algorítmicos en salud, y ejemplos de implementación de IA en sistemas sanitarios internacionales. Se ha adoptado un enfoque analítico para evaluar las implicaciones éticas, legales y sociales del despliegue de la Inteligencia Artificial en el sector sanitario español, con un foco específico en la provincia de Cádiz.

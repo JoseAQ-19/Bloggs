@@ -122,6 +122,8 @@ A: Morningstar Awards are typically announced annually. Current fund ratings, in
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources and Sources
 
 This report synthesizes data and analytical insights from multiple reputable financial information providers to deliver an objective assessment of the top-performing funds. Primary data sources include Morningstar, Inc., for fund performance metrics, risk-adjusted returns (Sharpe Ratio, Standard Deviation), and expense ratios. Supplementary data on market capitalization, sector allocation, and macroeconomic indicators were referenced from Bloomberg Terminal, official fund prospectuses, and regulatory filings (e.g., from the Thai Securities and Exchange Commission, SEC). Expert opinions were derived from quoted statements by industry professionals. The analysis adheres to a quantitative framework, prioritizing empirical data and established financial metrics to evaluate fund efficacy and risk profiles. Qualitative assessments of investment strategies are based on fund disclosures and publicly available managerial commentary. This methodology ensures a data-driven, transparent, and comprehensive evaluation compliant with industry best practices for financial reporting.

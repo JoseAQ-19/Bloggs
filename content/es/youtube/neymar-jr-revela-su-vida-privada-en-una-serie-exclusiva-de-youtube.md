@@ -60,6 +60,8 @@ Es imperativo que las organizaciones deportivas, clubes y federaciones reconozca
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 Para la elaboración de este artículo, se han utilizado datos de diversas fuentes confiables, incluyendo estudios académicos, informes de organizaciones de salud mental y estadísticas de instituciones deportivas. Se ha realizado un análisis crítico de la situación actual de la salud mental en el deporte, con un enfoque particular en la experiencia de los atletas de élite.
@@ -67,6 +69,4 @@ Para la elaboración de este artículo, se han utilizado datos de diversas fuent
 ### Fuentes Clave
 
 1. Munideporte: Informes sobre la salud mental de los deportistas.
-2. Sistema Integral de Deportes (SID): Estadísticas sobre problemas de salud mental en atletas.
-3. Europreven: Datos sobre el sueño y la salud mental en deportistas.
-4. Zoe Poucher, Universidad de Toronto: Estudio sobre la salud mental de atletas olímpicos.
+2. Sistema Integral de Deportes (SID): Estadísticas sobre pr

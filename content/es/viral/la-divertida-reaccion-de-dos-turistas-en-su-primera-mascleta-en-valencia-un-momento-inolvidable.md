@@ -57,6 +57,8 @@ La experiencia de asistir a la *mascletà* puede crear una disonancia cognitiva 
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 Este análisis se basa en una revisión de estudios académicos sobre el turismo y sus efectos en la salud pública, así como en entrevistas con expertos en acústica y seguridad. Se ha consultado información procedente de la Cruz Roja, que ha reportado casos de lipotimia relacionados con la *mascletà*, y se han revisado las recomendaciones de expertos en acústica sobre la seguridad durante el evento. Además, se han considerado datos económicos proporcionados por el Ayuntamiento de Valencia para contextualizar el impacto de la *mascletà* en la economía local.

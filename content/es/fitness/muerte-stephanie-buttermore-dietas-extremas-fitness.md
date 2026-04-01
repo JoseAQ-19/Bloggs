@@ -68,6 +68,8 @@ Los lectores deben buscar la orientación de profesionales calificados al establ
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 Este artículo se basa en una revisión de estudios académicos, informes de organizaciones de salud y estadísticas sobre trastornos alimentarios, así como análisis de la influencia de las redes sociales en la cultura del fitness. Se han consultado fuentes como la Sociedad Española de Nutrición y artículos de expertos en nutrición y salud.

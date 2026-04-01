@@ -62,6 +62,8 @@ El auge de navegadores enfocados en la privacidad y herramientas de bloqueo de a
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
-Este artículo se basa en un análisis de declaraciones de portavoces de YouTube, informes de foros en línea como Reddit, y publicaciones de medios tecnológicos como Xataka. La información se ha recopilado de diversas fuentes para ofrecer una visión integral sobre las políticas de YouTube y su impacto en los usuarios.
+Este artículo se basa en un análisis de declaraciones de portavoces de YouTube, informes de foros en línea como Reddit, 

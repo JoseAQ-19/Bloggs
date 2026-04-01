@@ -67,6 +67,8 @@ Glovo no debe ser visto como el futuro del trabajo, sino como un recordatorio de
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 Este artículo se basa en un análisis crítico de la literatura existente sobre el trabajo en plataformas digitales, informes de organizaciones de derechos laborales, así como artículos de investigación académica. Se han utilizado datos de fuentes como MIT Technology Review, RidersXDerechos, El Salto, y estudios académicos de universidades como Oxford para ofrecer una visión completa de la situación laboral en Glovo y otras plataformas similares.

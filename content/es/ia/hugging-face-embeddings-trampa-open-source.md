@@ -64,6 +64,8 @@ A pesar de la popularidad de Hugging Face y su papel como catalizador en la demo
 
 *Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+
 ## Methodology and Sources and Sources
 
 Este análisis se basa en una revisión exhaustiva de literatura y estudios recientes sobre el uso de modelos de IA, especialmente en el contexto del español. Se han considerado estadísticas de datasets, estudios de caso de aplicaciones comerciales y análisis de costo-beneficio para ofrecer una perspectiva crítica y fundamentada.

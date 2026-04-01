@@ -54,6 +54,8 @@ This could lead to a scenario where creators prioritize platforms that offer bet
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources and Sources
 
 This analysis draws upon various industry reports, including data from MoffettNathanson regarding advertising revenue and creator payouts across different platforms. Interviews with industry experts and commentary from prominent creators provide additional insights into the evolving landscape of influencer economics and the challenges faced by content creators on Meta's platforms.

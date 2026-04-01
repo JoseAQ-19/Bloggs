@@ -125,6 +125,8 @@ While FSAGX has delivered strong returns, particularly over the past year, its i
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
+*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+
 ## Methodology and Sources and Sources
 
 This analytical report on the Fidelity Select Gold Portfolio (FSAGX) is based on a comprehensive review of publicly available financial data, market performance metrics, and industry insights. The objective was to provide an impartial and data-driven examination of the fund's recent performance, underlying drivers, and future outlook.
