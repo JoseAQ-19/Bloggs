@@ -22,7 +22,6 @@ type: ia
 
 Es ingenuo pensar que Workday seguirá siendo intocable en el mercado español. Cegid viene a dar guerra....
 
-![Workday Tambalea: El Plan Secreto De Cegid Para Desbancarles En España](/images/workday-obsolescencia-ia-openai-2026.jpg)
 
 Es ingenuo pensar que Workday seguirá siendo intocable en el mercado español. Cegid viene a dar guerra.
 
@@ -78,7 +77,7 @@ Para sacar el máximo provecho de las herramientas de IA, es fundamental que las
 
 ¡La transformación del HCM ha comenzado!
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

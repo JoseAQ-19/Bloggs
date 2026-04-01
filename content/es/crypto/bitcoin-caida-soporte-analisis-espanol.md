@@ -22,7 +22,6 @@ type: crypto
 
 La euforia por los ETFs de Bitcoin ha creado una peligrosa ceguera ante la posibilidad real de un desplome....
 
-![Bitcoin Se Desangra: El Error Fatal Que Ignoran Los Analistas Españoles](/images/bitcoin-caida-soporte-analisis-espanol.jpg)
 
 La euforia por los ETFs de Bitcoin ha creado una peligrosa ceguera ante la posibilidad real de un desplome.
 
@@ -79,7 +78,7 @@ Dado la volatilidad y la falta de protección al inversor, es más seguro invert
 *La inversión en criptoactivos no está regulada, puede no ser adecuada para inversores minoristas y perderse la totalidad del importe invertido. Es importante leer y comprender los riesgos de esta inversión.*
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

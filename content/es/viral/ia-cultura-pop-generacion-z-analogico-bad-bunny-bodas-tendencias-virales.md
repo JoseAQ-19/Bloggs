@@ -71,7 +71,7 @@ La autenticidad es el factor determinante en la percepción pública de estas ac
 
 El éxito de Bad Bunny en plataformas como TikTok e Instagram resalta el poder de las redes sociales para crear conexiones significativas y transformar formatos tradicionales. Sin embargo, esta dependencia también presenta desafíos en términos de monetización y sostenibilidad para los creadores de contenido, quienes deben navegar un paisaje en constante cambio.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

@@ -49,7 +49,7 @@ La interacción entre el voltaje ajustado y la carga de trabajo específica de u
 
 El hecho de que un sistema pase pruebas de estrés no garantiza que funcionará sin problemas en situaciones del mundo real. Las condiciones de prueba son controladas y pueden no reflejar todas las variables que un usuario podría experimentar en su entorno. Por lo tanto, un sistema que parece estable puede estar en el borde de un colapso inminente, lo que subraya la importancia de ser cauteloso al aplicar técnicas de undervolting.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

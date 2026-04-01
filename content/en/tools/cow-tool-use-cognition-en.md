@@ -69,7 +69,7 @@ A: Advocate for more research on alternative models for animal cognition and bet
 - [YouTube TV’s Subscriber Tsunami: Is This The End Of Traditional Cable?](/en/youtube/youtube-tv-dish-sling-streaming-wars-en/)
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

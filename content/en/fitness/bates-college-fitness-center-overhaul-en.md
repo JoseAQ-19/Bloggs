@@ -16,13 +16,12 @@ translationKey: 0fcbb8ed-2218-0c7e-e98e-3d28329634f3
 type: fitness
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Bates' $45 Million Gamble: Will 'Well-Being' Bankrupt Their Academic Ranking?](/images/bates-college-fitness-center-overhaul-en.jpg)
 
 Bates College's pivot to prioritizing "well-being" may very well turn into a balance sheet black eye....
 
-![Bates' $45 Million Gamble: Will 'Well-Being' Bankrupt Their Academic Ranking?](/images/bates-college-fitness-center-overhaul-en.jpg)
 
 Bates College's pivot to prioritizing "well-being" may very well turn into a balance sheet black eye.
 
@@ -77,7 +76,7 @@ Bates should conduct a comprehensive impact assessment outlining how this invest
 
 Treadmill or textbooks? Bates must choose wisely.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

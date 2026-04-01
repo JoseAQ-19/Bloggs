@@ -60,7 +60,7 @@ La escasez de recursos en salud mental tiene consecuencias devastadoras para los
 
 Es imperativo que las organizaciones deportivas, clubes y federaciones reconozcan la importancia de la salud mental y actúen en consecuencia. Esto incluye la implementación de programas de apoyo psicológico que sean accesibles y efectivos. La conversación sobre la salud mental en el deporte debe ser abierta y honesta, y los atletas deben sentir que tienen el espacio necesario para hablar sobre sus luchas sin miedo a repercusiones.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

@@ -64,7 +64,7 @@ No nos engañemos: los gobiernos están utilizando la tecnología para vigilarno
 
 el "tabú digital" se mantiene porque el sistema está diseñado para silenciar la verdad. Se premia la opacidad, se penaliza la transparencia y se castiga la disidencia. Ya basta de eufemismos y medias tintas. La única forma de romper este ciclo es con una rebelión digital. Debemos exigir transparencia, luchar por nuestros derechos y negarnos a ser manipulados. No hay otra opción. La pasividad es complicidad. La revolución digital, si es que alguna vez existió, ha muerto. Ahora, solo nos queda la resistencia.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

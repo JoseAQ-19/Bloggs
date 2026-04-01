@@ -16,13 +16,12 @@ translationKey: c7932b8c-2de1-c37d-d9de-a4d693988c4b
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![$375 Million Nightmare: Is This The End Of Section 230 For Meta?](/images/meta-youtube-addiction-trial-loss-en.jpg)
 
 New Mexico just slapped Meta with a staggering $375 million bill for violating consumer protection laws, marking the first time a state has successfully argued that social media fea...
 
-![$375 Million Nightmare: Is This The End Of Section 230 For Meta?](/images/meta-youtube-addiction-trial-loss-en.jpg)
 
 New Mexico just slapped Meta with a staggering $375 million bill for violating consumer protection laws, marking the first time a state has successfully argued that social media features constitute an intentional public nuisance harmful to children. This verdict ignores the usual shield of Section 230 by targeting the deliberate engineering of addictive product features rather than user-generated content.
 
@@ -64,7 +63,7 @@ We see this in the [YouTube creator bans controversy](
 - [Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](/en/youtube/youtube-sports-subscription-live-streaming-en/)
 - [YouTube TV’s Subscriber Tsunami: Is This The End Of Traditional Cable?](/en/youtube/youtube-tv-dish-sling-streaming-wars-en/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

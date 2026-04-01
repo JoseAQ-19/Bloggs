@@ -22,7 +22,6 @@ type: ia
 
 La creciente sofisticación de los modelos generativos ha impulsado la circulación de deepfakes en un 550% entre 2019 y 2023, una estadística que no refleja ...
 
-![La IA Manipula Votos: 70% de Españoles Temen la Desinformación Electoral](/images/la-ia-como-arbitro-electoral-puede-influir-en-tu-voto.jpg)
 
 La creciente sofisticación de los modelos generativos ha impulsado la circulación de deepfakes en un 550% entre 2019 y 2023, una estadística que no refleja una simple tendencia tecnológica, sino el armamento de una guerra asimétrica contra la percepción de la realidad. El coste de generar una mentira convincente se ha desplomado a casi cero gracias a la optimización de los modelos de difusión y a la reducción de los precios de las APIs, mientras que el coste de verificar la verdad se mantiene inmutablemente alto. Esta brutal ineficiencia del mercado de la verdad es lo que está fracturando la confianza electoral en España.
 
@@ -46,7 +45,7 @@ El algoritmo de distribución de WhatsApp no es un feed abierto basado en "likes
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 - [YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

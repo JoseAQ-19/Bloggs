@@ -16,13 +16,12 @@ translationKey: 29cef61f-967f-c4af-380d-7333b8a1910c
 type: crypto
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![$23 Billion Bitcoin Grab: Whales Are Buying The Dip And You're Not](/images/bitcoin-bottom-onchain-analysis-en.jpg)
 
 Bitcoin's alleged bottom may be nothing more than a whale-fueled mirage obscuring significant retail losses....
 
-![$23 Billion Bitcoin Grab: Whales Are Buying The Dip And You're Not](/images/bitcoin-bottom-onchain-analysis-en.jpg)
 
 Bitcoin's alleged bottom may be nothing more than a whale-fueled mirage obscuring significant retail losses.
 
@@ -67,7 +66,7 @@ Don't let FOMO drown out your common sense.
 
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

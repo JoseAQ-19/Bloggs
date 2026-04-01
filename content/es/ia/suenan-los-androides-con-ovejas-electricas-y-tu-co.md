@@ -49,7 +49,7 @@ Ante el panorama desalentador que nos presenta la intersección de la tecnologí
 
 La desconexión no implica un rechazo total de la tecnología, sino una reevaluación de nuestra relación con ella. Nos hemos dejado llevar por un mundo donde los "likes" y los "followers" se han convertido en medidas de valor, mientras que nuestra capacidad de asombro y resistencia se ha debilitado. Si no tomamos acción ahora, el sombrío futuro de Dick no será simplemente ficción, sino una realidad que habremos creado nosotros mismos.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

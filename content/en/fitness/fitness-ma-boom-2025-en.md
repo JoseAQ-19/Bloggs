@@ -16,7 +16,7 @@ translationKey: 4235a925-1351-be60-2ee1-05739a35b129
 type: fitness
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 The fitness industry is experiencing a significant shift, characterized by increased mergers and acquisitions (M&A) activity, particularly as private equity firms target the sector amidst changing consumer preferences. Jeremy Hirsch, a Director at Houlihan Lokey, forecasts 2025 to be a landmark year for fitness M&A, projecting 44 transactions worth approximately $2.1 billion in the first half alone. This boom is fueled by Gen Z’s preference for experiences over traditional fitness offerings, leading to a consolidation where budget and luxury fitness models thrive at the expense of mid-tier gyms. The article delves into the implications of this trend, the financial mechanics involved, and the bifurcation of the fitness market.
 
@@ -48,7 +48,7 @@ The data illustrates a troubling trend: while budget gyms like Planet Fitness an
 
 As the fitness landscape continues to evolve, the fate of mid-tier gyms remains precarious. The current trajectory suggests that without significant innovation or adaptation, these establishments may struggle to maintain their relevance in an increasingly polarized market. The ongoing M&A activity, propelled by private equity interests, could further exacerbate this situation. As financial engineering takes precedence over consumer engagement, the risk of service degradation looms larger.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

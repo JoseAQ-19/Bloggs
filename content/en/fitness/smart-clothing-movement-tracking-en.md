@@ -16,7 +16,7 @@ translationKey: 622ec0ab-fb7c-8fc0-f83e-f0abfa7f07dd
 type: fitness
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 *   **Fitbit Class-Action Lawsuits:** Multiple class-action lawsuits were filed against Fitbit due to significant inaccuracies in its optical heart rate monitoring (OHRM) technology. One cardiologist's expert testimony cited Fitbit models exhibiting heart rate readings off by an average of 24.34 bpm at heart rates exceeding 100 bpm, with some discrepancies reaching up to 75 bpm.
 *   **OHRM Limitations:** Consumer-grade wrist-worn OHRM devices, utilizing photoplethysmography (PPG), are inherently susceptible to motion artifacts, skin tone variations, perfusion differences, and improper sensor placement, leading to compromised data integrity, especially during high-intensity exercise.
@@ -124,7 +124,7 @@ However, these challenges are not insurmountable. The burgeoning market for wear
 
 The future of wearable health technology will be defined by its ability to deliver demonstrably accurate, reliable, and secure data. This will necessitate a synergistic evolution of advanced sensor technologies, sophisticated AI-driven algorithms, robust sensor fusion techniques, and a proactive regulatory environment. For consumers, the imperative remains to exercise informed skepticism, recognizing that convenience does not equate to infallibility. While wearable technology holds immense potential for personal health management, it must be viewed as a supplementary tool, not a definitive diagnostic instrument. The ultimate goal is a future where wearable data empowers individuals with trustworthy insights, fostering better health outcomes without compromising privacy.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

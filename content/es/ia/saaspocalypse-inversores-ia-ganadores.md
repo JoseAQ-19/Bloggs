@@ -22,7 +22,6 @@ type: ia
 
 La fiebre de la IA en España se parece cada vez más a una burbuja inmobiliaria esperando el estallido. Las empresas están quemando capital en iniciativas sin una estrateg...
 
-![SaaSpocalypse Ahora: Sólo Un 20% Usan Ia, Y Tú Quemas Millones Inútilmente](/images/saaspocalypse-inversores-ia-ganadores.jpg)
 
 La fiebre de la IA en España se parece cada vez más a una burbuja inmobiliaria esperando el estallido. Las empresas están quemando capital en iniciativas sin una estrategia clara, mientras que la adopción real de soluciones avanzadas sigue siendo sorprendentemente baja.
 
@@ -66,7 +65,7 @@ La IA debe abordarse con cautela y una estrategia dirigida, no como una bala má
 
 Si la IA fuera un nuevo continente, la mayoría de las empresas españolas estarían comprando billetes de avión sin saber adónde quieren ir ni qué esperan encontrar allí.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

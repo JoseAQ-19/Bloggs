@@ -22,7 +22,7 @@ translationKey: metaverse-meltdown-crypto-vr-failure
 type: crypto
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * The metaverse, once hailed as the successor to the internet and a multi-trillion dollar opportunity, is facing a brutal reckoning. The vision of interconnected virtual worlds, fueled by cryptocurrency and immersive VR, has largely failed to materialize beyond the hype. What went wrong? The answer li...
 
@@ -71,4 +71,4 @@ The "metaverse meltdown" serves as a cautionary tale about the dangers of hype, 
 
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

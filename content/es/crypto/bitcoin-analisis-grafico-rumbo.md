@@ -22,7 +22,6 @@ type: crypto
 
 La disparidad entre la exuberancia de las predicciones alcistas y el temor a una corrección inminente ha sembrado la incertidumbre entre los inversores españoles de Bitcoin. El...
 
-![Bitcoin a $200,000 o Colapso Total: El Gráfico Que Aterroriza a los Traders](/images/bitcoin-analisis-grafico-rumbo.jpg)
 
 La disparidad entre la exuberancia de las predicciones alcistas y el temor a una corrección inminente ha sembrado la incertidumbre entre los inversores españoles de Bitcoin. El optimismo desmedido puede ser tan peligroso como el pesimismo paralizante.
 
@@ -73,7 +72,7 @@ Ante la incertidumbre que rodea a Bitcoin, recomendamos actuar con extrema caute
 La fe ciega es para los fanáticos, el escepticismo informado es para los inversores.
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

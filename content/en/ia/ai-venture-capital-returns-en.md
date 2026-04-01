@@ -16,13 +16,12 @@ translationKey: 67fa511d-27dd-36ea-cfd7-87c7a6410262
 type: ia
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![90% Of AI Projects Will Fail: VC's $258 Billion Disaster Waiting To Happen](/images/ai-venture-capital-returns-en.jpg)
 
 The AI gold rush is about to become the AI graveyard. Nearly $259 billion in venture capital poured into AI startups in 2025, yet 90% of those projects will fail before 2026, acc...
 
-![90% Of AI Projects Will Fail: VC's $258 Billion Disaster Waiting To Happen](/images/ai-venture-capital-returns-en.jpg)
 
 The AI gold rush is about to become the AI graveyard. Nearly $259 billion in venture capital poured into AI startups in 2025, yet 90% of those projects will fail before 2026, according to multiple industry analyses. This isn't a market correction—it's a systematic failure of due diligence in Silicon Valley.
 
@@ -133,7 +132,7 @@ The AI apocalypse isn't coming—it's already here, and it's clearing out the hy
 - [Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](/en/youtube/youtube-sports-subscription-live-streaming-en/)
 - [YouTube TV’s Subscriber Tsunami: Is This The End Of Traditional Cable?](/en/youtube/youtube-tv-dish-sling-streaming-wars-en/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

@@ -23,7 +23,6 @@ type: fitness
 
 Abdominales marcados con ejercicios "funcionales" es la nueva versión del vendehúmos de los batidos mágicos: una promesa vacía sin la base de una dieta sensata y en...
 
-![Abdominales de Acero Friol Carballido: El Engaño Que Los Gurús No Quieren Que Sepas](/images/friol-carballido-abdominales-acero.jpg)
 
 Abdominales marcados con ejercicios "funcionales" es la nueva versión del vendehúmos de los batidos mágicos: una promesa vacía sin la base de una dieta sensata y entrenamiento de fuerza real.
 
@@ -69,7 +68,7 @@ Abdominales de acero: una meta, sí, pero con pies de plomo y una visión realis
 
 Dejarte la piel en el gimnasio, y no en la cocina, es una estafa.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

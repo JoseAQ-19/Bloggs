@@ -22,7 +22,6 @@ type: crypto
 
 Alberto Toribio, de Cripto Plaza, advierte sobre un desplome que podría llevar a Bitcoin a los 2.000 dólares, desatando el pánico entre los inversores....
 
-![Cuidado Inversores: Toribio Predice Bitcoin a $2,000 Tras El Halving.](/images/bitcoin-inflacion-eeuu-2024.jpg)
 
 Alberto Toribio, de Cripto Plaza, advierte sobre un desplome que podría llevar a Bitcoin a los 2.000 dólares, desatando el pánico entre los inversores.
 
@@ -91,7 +90,7 @@ Es crucial revisar su tolerancia al riesgo y diversificar sus tenencias de cript
 No seas el último en salir del barco... o sí, si tienes nervios de acero.
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

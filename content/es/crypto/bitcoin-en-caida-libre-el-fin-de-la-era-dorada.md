@@ -64,7 +64,7 @@ El desplome de Bitcoin en 2026 no es una "recesión cíclica", sino el principio
 Es hora de aceptar la verdad: Bitcoin ha muerto. Que entierren sus sueños de riqueza fácil, y que los inversores aprendan una lección valiosa: no existe el dinero fácil. Solo existe el riesgo calculado, y en el caso de Bitcoin, el cálculo siempre fue erróneo. Su valor intrínseco es cero, y su destino final es la irrelevancia.
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

@@ -56,7 +56,7 @@ The economic barrier to entry for creating CSAM has been effectively annihilated
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

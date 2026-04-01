@@ -16,13 +16,12 @@ translationKey: ae00744a-1a92-2b27-991c-a53e1721fb13
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![YouTube's Algorithm Dominates 70% of Viewing: Why Netflix Should Be Worried](/images/netflixs-ted-sarandos-calls-out-youtube-not-just-cat-videos-but-a-real-competitor-en.jpg)
 
 YouTube's recommendation algorithm drives approximately 70% of the content viewed on the platform, posing a significant th...
 
-![YouTube's Algorithm Dominates 70% of Viewing: Why Netflix Should Be Worried](/images/netflixs-ted-sarandos-calls-out-youtube-not-just-cat-videos-but-a-real-competitor-en.jpg)
 
 YouTube's recommendation algorithm drives approximately 70% of the content viewed on the platform, posing a significant threat to Netflix's dominance in streaming. The implications of this statistic are profound, as they signal a shift in the competitive landscape of digital entertainment.
 
@@ -102,7 +101,7 @@ In this ever-evolving digital landscape, platforms must prioritize viewer engage
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

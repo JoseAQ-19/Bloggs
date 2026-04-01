@@ -22,7 +22,6 @@ type: fitness
 
 Las promesas de salud eterna vendidas por la industria del fitness son tan comunes como decepcionantes....
 
-![Wabol: ¿El Secreto Para Vivir 5 Años Más Sin Pisar el Gimnasio?](/images/wabol-deporte-longevidad.jpg)
 
 Las promesas de salud eterna vendidas por la industria del fitness son tan comunes como decepcionantes.
 
@@ -78,7 +77,7 @@ Integrar algunos ejercicios simples de resistencia en tu rutina de WABOL, como s
 
 [Artículos Relacionados]
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

@@ -23,7 +23,6 @@ type: fitness
 
 On Air Fitness inyecta 10 millones de euros en el mercado español con la pretensión de revolucionar un sector sa...
 
-![On Air Fitness Aterriza en España: 10 Millones de Euros para Revolucionar el Fitness](/images/on-air-fitness-aterriza-en-espana-que-significa-para-el-panorama-del-fitness-nacional.jpg)
 
 On Air Fitness inyecta 10 millones de euros en el mercado español con la pretensión de revolucionar un sector saturado, apostando por un modelo híbrido que mezcla la estética boutique con el agarrotamiento financiero del low-cost.
 
@@ -57,7 +56,7 @@ El sector está obsesionado con el umbral psicológico de los 30 euros mensuales
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 - [YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

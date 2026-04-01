@@ -16,13 +16,12 @@ translationKey: f352d9f6-32fe-e24b-8b79-925053004c22
 type: crypto
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![$4.5 Trillion Wash Trade Scandal: How Crypto Exchanges Are Robbing You Blind](/images/crypto-market-manipulation-en.jpg)
 
 * Wash trading on unregulated crypto exchanges reached a staggering $4.5 trillion in the first quarter of 2020 alone, artificially inflating market volumes and misleading inves...
 
-![$4.5 Trillion Wash Trade Scandal: How Crypto Exchanges Are Robbing You Blind](/images/crypto-market-manipulation-en.jpg)
 
 * Wash trading on unregulated crypto exchanges reached a staggering $4.5 trillion in the first quarter of 2020 alone, artificially inflating market volumes and misleading investors.
 * Solidus Labs found that 67% of liquidity pools on Ethereum DEXs were manipulated by wash traders, accounting for at least $2 billion since September 2020.
@@ -87,7 +86,7 @@ Regulatory reform cannot come fast enough for a market already hemorrhaging bill
 
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

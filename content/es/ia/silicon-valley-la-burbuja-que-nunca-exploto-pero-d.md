@@ -70,7 +70,7 @@ La pregunta que muchos se hacen es si debemos esperar a que la burbuja explote o
 
 La única solución viable es una implosión controlada, que permita una reconstrucción desde cero. Este proceso debería ser guiado por voces que prioricen la equidad, la sostenibilidad y el bienestar humano sobre la mera acumulación de riqueza. Sin embargo, es poco probable que esto ocurra en un entorno donde el poder y la riqueza están tan concentrados.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

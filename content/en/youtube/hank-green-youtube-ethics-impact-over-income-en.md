@@ -17,13 +17,12 @@ translationKey: 29a24c24-a0db-06e0-dfa8-6a07175cf0a4
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Hank Green's YouTube Nightmare: 170 Million Dollar COPPA Fine Haunts All Creators](/images/hank-green-youtube-ethics-impact-over-income-en.jpg)
 
 YouTube's $170 million COPPA settlement isn't just a legal headache—it's a financial guillotine hanging over every creator's neck....
 
-![Hank Green's YouTube Nightmare: 170 Million Dollar COPPA Fine Haunts All Creators](/images/hank-green-youtube-ethics-impact-over-income-en.jpg)
 
 YouTube's $170 million COPPA settlement isn't just a legal headache—it's a financial guillotine hanging over every creator's neck.
 
@@ -143,7 +142,7 @@ The solution is clear: creators must diversify their income streams and platform
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
 - [Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](/en/youtube/youtube-sports-subscription-live-streaming-en/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

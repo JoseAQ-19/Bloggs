@@ -22,7 +22,6 @@ type: funds
 
 Dividendo 2026: 3 Estrategias para No Caer en la Trampa, Según Morningstar...
 
-![Dividendo 2026: 3 Estrategias para No Caer en la Trampa, Según Morningstar](/images/dividendo-2026-3-estrategias-para-no-caer-en-la-trampa-segun-morningstar.jpg)
 
 Dividendo 2026: 3 Estrategias para No Caer en la Trampa, Según Morningstar
 
@@ -86,7 +85,7 @@ Invertir en dividendos para 2026? Déjame darte la cruda verdad. Toda esta chác
 
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

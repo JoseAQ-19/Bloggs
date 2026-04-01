@@ -16,13 +16,12 @@ translationKey: fc90cfee-6a1c-16eb-02a1-aafd0ecca5ed
 type: ia
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Kleiner Perkins' $3.5B AI Bet: Hallucinations Could Cost Them Everything.](/images/kleiner-perkins-ai-gamble-en.jpg)
 
 Kleiner Perkins just committed $3.5 billion to AI startups based on hallucination rates that could render their investments worthless within 18 months....
 
-![Kleiner Perkins' $3.5B AI Bet: Hallucinations Could Cost Them Everything.](/images/kleiner-perkins-ai-gamble-en.jpg)
 
 Kleiner Perkins just committed $3.5 billion to AI startups based on hallucination rates that could render their investments worthless within 18 months.
 
@@ -82,7 +81,7 @@ A promising AI product with 3% hallucination rates has real enterprise value. An
 - [YouTube TV’s Subscriber Tsunami: Is This The End Of Traditional Cable?](/en/youtube/youtube-tv-dish-sling-streaming-wars-en/)
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

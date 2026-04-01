@@ -76,20 +76,15 @@ Finalmente, las deudas médicas representan una carga para los sistemas de salud
 
 ### Preguntas frecuentes
 
-**¿Cuál es el principal problema del sistema de salud estadounidense?** 
-La ausencia de cobertura universal y la incertidumbre financiera frente a los altos costos médicos. Más de 100 millones de personas acumulan deudas por servicios no cubiertos por seguros.
+**¿Cuál es el principal problema del sistema de salud estadounidense?*La ausencia de cobertura universal y la incertidumbre financiera frente a los altos costos médicos. Más de 100 millones de personas acumulan deudas por servicios no cubiertos por seguros.
 
-**¿Cómo afecta esto a las minorías étnicas?** 
-Los adultos hispanos y afroamericanos enfrentan un 30% más de dificultades para costear atención médica, según encuestas de **Univision 2025**.
+**¿Cómo afecta esto a las minorías étnicas?*Los adultos hispanos y afroamericanos enfrentan un 30% más de dificultades para costear atención médica, según encuestas de **Univision 2025**.
 
-**¿Qué países tienen sistemas más eficientes?** 
-España, Canadá y los países nórdicos cuentan con sistemas de salud universales que combinan menor gasto per cápita con mejores resultados en esperanza de vida y bienestar general.
+**¿Qué países tienen sistemas más eficientes?*España, Canadá y los países nórdicos cuentan con sistemas de salud universales que combinan menor gasto per cápita con mejores resultados en esperanza de vida y bienestar general.
 
-**¿Qué sucederá si caducan los subsidios del ACA?** 
-Millones de estadounidenses perderían su cobertura sanitaria, especialmente en estados que no han expandido el **Medicaid**, lo que agravaría aún más la crisis de deudas médicas.
+**¿Qué sucederá si caducan los subsidios del ACA?*Millones de estadounidenses perderían su cobertura sanitaria, especialmente en estados que no han expandido el **Medicaid**, lo que agravaría aún más la crisis de deudas médicas.
 
-**¿Es legal negar tratamiento por no poder pagar?** 
-Si bien leyes como **EMTALA** garantizan atención en emergencias, no cubren tratamientos crónicos ni cuidados preventivos para quienes no pueden pagarlos.
+**¿Es legal negar tratamiento por no poder pagar?*Si bien leyes como **EMTALA** garantizan atención en emergencias, no cubren tratamientos crónicos ni cuidados preventivos para quienes no pueden pagarlos.
 
 ## Artículos relacionados
 
@@ -99,7 +94,7 @@ Si bien leyes como **EMTALA** garantizan atención en emergencias, no cubren tra
 **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

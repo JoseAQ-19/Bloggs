@@ -79,7 +79,7 @@ This report was compiled by analyzing the **Department of Defense (DoD) Instruct
 
 ---
 
-#*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+#*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Related Articles
 - [YouTube TV In 2026: The $83 Gamble That Could Backfire Spectacularly](/en/youtube/youtube-tv-2026-price-hike-or-worth-the-hype-en/)

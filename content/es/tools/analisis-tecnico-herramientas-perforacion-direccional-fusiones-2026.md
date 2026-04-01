@@ -22,7 +22,6 @@ type: tools
 
 La perforación direccional, a menudo presentada como una solución infalible para la extracción de hidrocarburos, esconde riesgos sig...
 
-![Halliburton y Schlumberger Ocultan Esto: El Riesgo Real en Perforación Direccional](/images/analisis-tecnico-herramientas-perforacion-direccional-fusiones-2026.jpg)
 
 La perforación direccional, a menudo presentada como una solución infalible para la extracción de hidrocarburos, esconde riesgos significativos que la industria minimiza. La inestabilidad de las formaciones de esquisto, la acumulación de recortes y los fallos en el revestimiento son solo la punta del iceberg.
 
@@ -76,7 +75,7 @@ Nos inclinamos por la necesidad de soluciones más realistas y probadas en el ca
 
 ¡No se dejen cegar por la tecnología, la geología manda!
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

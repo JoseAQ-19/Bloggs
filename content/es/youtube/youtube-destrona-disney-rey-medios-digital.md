@@ -22,7 +22,6 @@ type: youtube
 
 El imperio de la televisión tradicional infantil se desmorona, arrastrado por la omnipresencia de YouTube en los hogares españoles. Un 64% de los niños de entre 2 y 5...
 
-![YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/images/youtube-destrona-disney-rey-medios-digital.jpg)
 
 El imperio de la televisión tradicional infantil se desmorona, arrastrado por la omnipresencia de YouTube en los hogares españoles. Un 64% de los niños de entre 2 y 5 años ya están enganchados a la plataforma, lo que pone en jaque el futuro del entretenimiento infantil.
 
@@ -98,7 +97,7 @@ Implementa límites de tiempo en YouTube y busca activamente alternativas de alt
 
 Desconecta para conectar. La obsesión con el entretenimiento digital se debe abordar en el mundo real, no con más entretenimiento digital. Es fundamental fomentar actividades al aire libre, juegos tradicionales, lectura y otras formas de entretenimiento que estimulen la creatividad, la imaginación y la interacción social. La clave está en encontrar un equilibrio entre el mundo digital y el mundo real, para que los niños puedan crecer y desarrollarse de forma saludable y equilibrada.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

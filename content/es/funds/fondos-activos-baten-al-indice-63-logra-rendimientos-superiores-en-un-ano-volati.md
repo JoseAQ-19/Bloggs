@@ -23,7 +23,6 @@ type: funds
 
 **El 63% de los fondos activos superaron a sus índices de referencia en 2023, desafiando la narrativa predominante de ...
 
-![Fondos activos baten al índice: 63% logra rendimientos superiores en un año volátil](/images/fondos-activos-baten-al-indice-63-logra-rendimientos-superiores-en-un-ano-volati.jpg)
 
 **El 63% de los fondos activos superaron a sus índices de referencia en 2023, desafiando la narrativa predominante de la gestión pasiva.**
 
@@ -93,7 +92,7 @@ La pregunta clave es si 2023 fue una excepción o si señala un cambio de paradi
 
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

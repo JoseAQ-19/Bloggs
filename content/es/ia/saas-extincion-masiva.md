@@ -22,7 +22,6 @@ type: ia
 
 La obsolescencia programada ya no es un secreto a voces, ahora también afecta al software....
 
-![¡ALERTA! NTT DATA Revela La Amenaza Silenciosa Que Extinguirá Tu SaaS](/images/saas-extincion-masiva.jpg)
 
 La obsolescencia programada ya no es un secreto a voces, ahora también afecta al software.
 
@@ -78,7 +77,7 @@ Conducir una auditoría de seguridad exhaustiva de su ecosistema SaaS, priorizan
 
 La nube no es invulnerable, la seguridad es tu responsabilidad.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

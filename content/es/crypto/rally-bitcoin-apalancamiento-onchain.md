@@ -98,7 +98,7 @@ Para los inversores novatos, la recomendación es clara: evitar el apalancamient
 - [El impacto de la regulación en el futuro de las criptomonedas](#)
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

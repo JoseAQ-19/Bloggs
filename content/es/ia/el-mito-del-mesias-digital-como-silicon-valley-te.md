@@ -69,7 +69,7 @@ Un informe de Oxfam sobre la desigualdad global refleja cómo la creciente brech
 
 La visión de Silicon Valley como el salvador del futuro es, en última instancia, una estafa monumental. Mientras nos prometen un futuro de inmortalidad y abundancia, están despojándonos de nuestra privacidad, nuestra autonomía y nuestro futuro colectivo. La elección es clara: debemos decidir si tomamos el control de nuestro destino democráticamente o si cedemos el poder a una tecnocracia no electa que ofrece soluciones mágicas a cambio de nuestra sumisión.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

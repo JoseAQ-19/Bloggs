@@ -23,7 +23,6 @@ type: youtube
 
 La publicidad de "skincare minimalista" de Garnier podría ser una trampa para las pieles sensibles en España. Los ingredientes promocionados como...
 
-![Garnier Destapada: Dermatologos Alertan Sobre Riesgos Ocultos Para Pieles Sensibles en España.](/images/garnier-crema-viral-obsesion-beauty-espana.jpg)
 
 La publicidad de "skincare minimalista" de Garnier podría ser una trampa para las pieles sensibles en España. Los ingredientes promocionados como suaves y naturales están generando irritación y reacciones adversas en algunos usuarios.
 
@@ -79,7 +78,7 @@ Realiza siempre una prueba en una pequeña área antes de aplicar cualquier prod
 
 La belleza no duele, pero la piel irritada sí.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

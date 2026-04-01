@@ -16,13 +16,12 @@ translationKey: a372d2f6-0c7d-c4d7-96c8-7d410d8432cf
 type: funds
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![BlackRock Fund Halts Withdrawals After 9% Redemptions; BLK Shares Drop.](/images/blackrock-fund-halts-withdrawals-after-9-redemptions-blk-shares-drop-en.jpg)
 
 BlackRock Fund Halts Withdrawals After 9% Redemptions; BLK Shares Drop....
 
-![BlackRock Fund Halts Withdrawals After 9% Redemptions; BLK Shares Drop.](/images/blackrock-fund-halts-withdrawals-after-9-redemptions-blk-shares-drop-en.jpg)
 
 BlackRock Fund Halts Withdrawals After 9% Redemptions; BLK Shares Drop.
 
@@ -103,7 +102,7 @@ Our Verdict: BlackRock's redemption freeze is not just a liquidity issue—it's 
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

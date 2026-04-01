@@ -25,7 +25,6 @@ type: ia
 
 El 93% de las consultas laborales resueltas por inteligencia artificial no es una hazaña de eficiencia, es un desast...
 
-![93% de Consultas Laborales Resueltas por IA: ¿El Futuro de la Justicia en Riesgo?](/images/la-ia-que-transforma-la-revision-juridica-eficiencia-y-precision-al-alcance-de-todos.jpg)
 
 El 93% de las consultas laborales resueltas por inteligencia artificial no es una hazaña de eficiencia, es un desastre de responsabilidad delegada que espera explotar en los juzgados.
 
@@ -84,7 +83,7 @@ Sí, tiene derecho a la información y a la explicación. El empleado puede exig
 - [YouTube Revive La Nostalgia: 7 Programas Icónicos De Los 2000s Que Regresan Con Fuerza](/es/youtube/youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto/)
 - [YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

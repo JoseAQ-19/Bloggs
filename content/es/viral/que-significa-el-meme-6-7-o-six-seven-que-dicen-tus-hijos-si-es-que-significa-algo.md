@@ -50,7 +50,7 @@ El fenómeno del meme "6-7" no es solo un cambio superficial en la forma en que 
 
 La psicología del uso de memes como "6-7" también merece atención. Los jóvenes a menudo buscan formas de expresar su identidad y pertenencia a través de la cultura digital. Al utilizar memes que son entendidos dentro de su grupo, pueden fortalecer lazos sociales y crear una sensación de comunidad. Sin embargo, esto también puede ser excluyente para aquellos que no están familiarizados con el mismo lenguaje, como es el caso de muchos padres.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

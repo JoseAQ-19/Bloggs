@@ -18,13 +18,12 @@ translationKey: e67ae583-07fa-2d40-dadf-1c72a4c76533
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![YouTube's Algorithmic Deception: 51.5% of Voters Swayed by Video Manipulation](/images/youtube-algorithmic-mirage-en.jpg)
 
 YouTube's video manipulation has swayed voting preferences by 51.5% to 65.6% among users exposed to biased content sequences, revealing significant algorithmic influence on po...
 
-![YouTube's Algorithmic Deception: 51.5% of Voters Swayed by Video Manipulation](/images/youtube-algorithmic-mirage-en.jpg)
 
 YouTube's video manipulation has swayed voting preferences by 51.5% to 65.6% among users exposed to biased content sequences, revealing significant algorithmic influence on political behavior.
 
@@ -150,7 +149,7 @@ Users can diversify their information sources beyond algorithmic recommendations
 
 The creator economy must adapt to an environment where algorithmic knowledge has become more valuable than content quality. Creators who understand YouTube's recommendation system can achieve higher RPMs, but this creates a perverse incentive system that prioritizes engagement over accuracy. The future may require diversifying beyond YouTube's platform to build more sustainable and ethical creator businesses.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

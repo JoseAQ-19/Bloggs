@@ -79,7 +79,7 @@ El futuro de los conciertos en la CDMX debe orientarse hacia una planificación 
 
 Un concierto gratuito de Shakira en la CDMX, si bien representa una oportunidad cultural y de entretenimiento, debe ser abordado con una perspectiva de riesgo integral. La priorización de la seguridad de los asistentes y la resiliencia urbana debe prevalecer sobre cualquier otra consideración, evitando a toda costa la repetición de tragedias evitables.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

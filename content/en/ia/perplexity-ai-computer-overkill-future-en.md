@@ -16,13 +16,12 @@ translationKey: b30db68a-f0f7-9b00-f2a6-e09cff960423
 type: ia
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Perplexity's $200 Computer AI: 80% Of Companies To Use AI, But At What Cost?](/images/perplexity-ai-computer-overkill-future-en.jpg)
 
 Perplexity AI's $200 "computer" isn't just another search tool; it's a flashing red light for Google....
 
-![Perplexity's $200 Computer AI: 80% Of Companies To Use AI, But At What Cost?](/images/perplexity-ai-computer-overkill-future-en.jpg)
 
 Perplexity AI's $200 "computer" isn't just another search tool; it's a flashing red light for Google.
 
@@ -83,7 +82,7 @@ The question isn't whether AI will transform the world, but whether we can manag
 
 Code red.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

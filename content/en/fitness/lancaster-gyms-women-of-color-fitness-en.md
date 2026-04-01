@@ -16,13 +16,12 @@ translationKey: 7437b633-3a9a-b3dc-4fe0-0e1e3a0386c0
 type: fitness
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Lancaster Gyms Just Solved Fitness's 60% Problem; Big Gyms Should Be Terrified](/images/lancaster-gyms-women-of-color-fitness-en.jpg)
 
 The fitness industry's obsession with homogenous ideals has left a lucrative market underserved: women of color....
 
-![Lancaster Gyms Just Solved Fitness's 60% Problem; Big Gyms Should Be Terrified](/images/lancaster-gyms-women-of-color-fitness-en.jpg)
 
 The fitness industry's obsession with homogenous ideals has left a lucrative market underserved: women of color.
 
@@ -73,7 +72,7 @@ This model goes beyond just the Lancaster area; it is a blueprint for fitness bu
 ## The Bottom Line
 Gyms that prioritize DEI, especially community-driven spaces, are positioned for long-term success, while ignoring these needs leads to predictable attrition. Seek out Lancaster gyms (or similar approaches elsewhere) and hold them accountable to their promises; after all, fitness is for EVERY body.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

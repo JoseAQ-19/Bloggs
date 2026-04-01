@@ -16,13 +16,12 @@ translationKey: 80d07a91-1f20-015a-3a68-c2cfdc3b4918
 type: funds
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Morningstar Outperforms KnockoutStocks by 5% in 2026's Key Sectors.](/images/morningstar-outperforms-knockoutstocks-by-5-in-2026s-key-sectors-en.jpg)
 
 Despite a turbulent year for global markets, Morningstar's stock-picking methodology has delivered an impressive 5% outperformance over KnockoutSto...
 
-![Morningstar Outperforms KnockoutStocks by 5% in 2026's Key Sectors.](/images/morningstar-outperforms-knockoutstocks-by-5-in-2026s-key-sectors-en.jpg)
 
 Despite a turbulent year for global markets, Morningstar's stock-picking methodology has delivered an impressive 5% outperformance over KnockoutStocks' recommendations in key sectors for 2026, according to a recent analysis by Bloomberg.
 
@@ -85,7 +84,7 @@ The S&P 500 still beats both of them over the long haul when adjusted for fees. 
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

@@ -99,7 +99,7 @@ El futuro de la libertad digital en la isla dependerá tanto de la capacidad de 
 * **Censura en la era digital: ¿Qué podemos aprender de otros países?**
 * **El Paquete Semanal: la otra cara de la resistencia offline en Cuba.**
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

@@ -23,7 +23,6 @@ type: ia
 
 La promesa de la IA de oro para las telecos españolas podría ser solo pirita....
 
-![Telecoms Españolas Al Borde Del Colapso: La IA Promete Salvación… O Ruina Total](/images/ia-teleco-espana-crecimiento.jpg)
 
 La promesa de la IA de oro para las telecos españolas podría ser solo pirita.
 
@@ -85,7 +84,7 @@ La adopción de la IA en las telecos españolas requiere un enfoque equilibrado 
 
 Si Telefónica divide la inversión de 9.1 millones de euros en IA por el número de clientes totales (unos 40 millones), la inversión por cliente resulta en 0,22 euros por usuario. Una cantidad ridícula que no justifica el bombo mediático de la digitalización. A este paso, la única transformación que van a ver los usuarios será una subida en sus facturas.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

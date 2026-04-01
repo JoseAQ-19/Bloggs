@@ -22,7 +22,6 @@ type: funds
 
 Un **40% de los fondos de inversión han superado el índice de referencia en los últimos tres años** — **Morningstar**....
 
-![Fondos premiados por Morningstar en 2026 con un potencial de retorno del 15%](/images/fondos-premiados-por-morningstar-en-2026-con-un-potencial-de-retorno-del-15.jpg)
 
 Un **40% de los fondos de inversión han superado el índice de referencia en los últimos tres años** — **Morningstar**.
 
@@ -96,7 +95,7 @@ La decisión de invertir en fondos premiados debe basarse en un análisis riguro
 
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

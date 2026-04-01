@@ -23,7 +23,6 @@ type: youtube
 
 Si el audio de DaVinci Resolve se corta de forma aleatoria, no eres el único al que le pasa. Aunque no existen estadísticas específicas sobre la frecuenc...
 
-![¿Por qué el audio se corta aleatoriamente en DaVinci Resolve? Soluciones y datos reales](/images/audio-se-corta-davinci-resolve-soluciones.jpg)
 
 Si el audio de DaVinci Resolve se corta de forma aleatoria, no eres el único al que le pasa. Aunque no existen estadísticas específicas sobre la frecuencia de estos problemas, los foros de usuarios confirman que son habituales. ¿Pero es realmente culpa de DaVinci Resolve, o los usuarios están culpando al *software* por limitaciones de *hardware* y problemas de *drivers* que podrían solucionar por sí mismos?
 
@@ -119,7 +118,7 @@ Además, la IA podría **mejorar la compatibilidad con diferentes formatos de au
 
 la integración de la IA en DaVinci Resolve **podría transformar la forma en que se edita el audio**, haciendo que el proceso sea más eficiente, intuitivo y accesible para todos.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

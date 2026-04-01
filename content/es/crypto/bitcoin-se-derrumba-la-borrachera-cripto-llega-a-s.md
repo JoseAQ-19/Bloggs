@@ -79,7 +79,7 @@ El futuro no pertenece a Bitcoin, sino a una comprensión más sensata y regulad
 
 La caída de Bitcoin no es simplemente un evento aislado, sino parte de una tendencia más amplia en el ecosistema de criptomonedas. A medida que el mercado se ajusta a las nuevas realidades económicas y regulatorias, queda por ver si Bitcoin podrá reinventarse o si se convertirá en un recuerdo de un tiempo en el que la especulación y la codicia dominaron el discurso financiero.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

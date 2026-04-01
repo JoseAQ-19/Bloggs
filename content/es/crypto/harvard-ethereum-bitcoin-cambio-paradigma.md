@@ -22,7 +22,6 @@ type: crypto
 
 * Ethereum's transition to Proof-of-Stake permite staking con APYs que oscilan entre el 4% y el 12%, presentando una alternativa a la intensiva en energía Proof-of-Work de...
 
-![Ethereum Arrasa: APY del 12% Destrona a Bitcoin Y Convence A Harvard.](/images/harvard-ethereum-bitcoin-cambio-paradigma.jpg)
 
 * Ethereum's transition to Proof-of-Stake permite staking con APYs que oscilan entre el 4% y el 12%, presentando una alternativa a la intensiva en energía Proof-of-Work de Bitcoin.
 * Harvard Management Company redujo significativamente sus tenencias en ETF de Bitcoin en un 21% durante el cuarto trimestre de 2025 mientras asignaba aproximadamente 86,8 millones de dólares a acciones de ETF de Ethereum.
@@ -99,7 +98,7 @@ A diferencia de Bitcoin, donde los mineros simplemente no generan ingresos si fa
 El riesgo de slashing es bajo pero no nulo. Según datos de la red, las tasas de slashing han sido históricamente bajas, pero la severidad de las penalizaciones significa que incluso un solo incident
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

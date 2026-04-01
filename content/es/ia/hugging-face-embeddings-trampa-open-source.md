@@ -62,7 +62,7 @@ Estamos ante el potencial inicio de una nueva era del open source, donde las emp
 
 A pesar de la popularidad de Hugging Face y su papel como catalizador en la democratización de la IA, es crucial que las empresas adopten una postura crítica hacia su uso. La IA no es mágica; es un campo en el que la ingeniería y la precisión son fundamentales. La capacidad de manipular y entender los *embeddings* se convierte en un activo valioso que determinará el éxito de las iniciativas de IA en el futuro.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

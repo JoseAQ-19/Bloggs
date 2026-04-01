@@ -23,7 +23,6 @@ type: fitness
 
 La industria de la nutrición deportiva a menudo promete resultados rápidos, pero este artículo analiza cómo esa promesa vacía puede generar...
 
-![500 Euros Tirados: La Bomba De Tiempo De La Obsolescencia Programada En Nutrición Deportiva.](/images/wfp-victor-hoffer-obsolescencia-programada-fitness.jpg)
 
 La industria de la nutrición deportiva a menudo promete resultados rápidos, pero este artículo analiza cómo esa promesa vacía puede generar un gasto innecesario.
 
@@ -77,7 +76,7 @@ La obsolescencia programada en la nutrición deportiva exige un cambio radical e
 
 ## Artículos Relacionados
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

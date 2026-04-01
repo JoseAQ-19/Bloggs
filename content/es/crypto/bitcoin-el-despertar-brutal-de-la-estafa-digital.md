@@ -85,7 +85,7 @@ La regulación por sí sola no resolverá los problemas inherentes a Bitcoin. La
 
 La realidad es que Bitcoin y su ecosistema no tienen un futuro sostenible. La evidencia apoya la idea de que es mejor alejarse de este barco a la deriva antes de que se hunda por completo. La única forma de protegerse es desenmascarar la verdad y rechazar el mito que rodea a Bitcoin.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

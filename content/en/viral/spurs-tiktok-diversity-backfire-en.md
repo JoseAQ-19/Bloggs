@@ -16,14 +16,13 @@ translationKey: c9934807-5152-206f-5590-c30f8714eead
 type: viral
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Spurs Blunder: 60% Of Latino Fans On Facebook, DEI Backlash Explodes](/images/spurs-tiktok-diversity-backfire-en.jpg)
 
 The San Antonio Spurs think ChatGPT and theme nights will solve inclusion, but the algorithm they worship is actively radicalizing the very fans they claim to serve.
 * 60% of Lati...
 
-![Spurs Blunder: 60% Of Latino Fans On Facebook, DEI Backlash Explodes](/images/spurs-tiktok-diversity-backfire-en.jpg)
 
 The San Antonio Spurs think ChatGPT and theme nights will solve inclusion, but the algorithm they worship is actively radicalizing the very fans they claim to serve.
 * 60% of Latino social media users are on Facebook, a platform where Spanish-language content moderation is virtually nonexistent compared to English.
@@ -66,7 +65,7 @@ The Spurs are aggressively deploying AI, claiming to have achieved "85% AI fluen
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

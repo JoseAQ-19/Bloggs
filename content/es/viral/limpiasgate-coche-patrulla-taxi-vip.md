@@ -22,7 +22,6 @@ type: viral
 
 En España, la línea entre la justicia y el privilegio a menudo se desdibuja con la facilidad con la que un taxi cruza la ciudad. Un individuo acusado de violación en España p...
 
-![¿Taxi Gratis Para Acusado De Violación? El Escándalo LimpiasGate Estalla](/images/limpiasgate-coche-patrulla-taxi-vip.jpg)
 
 En España, la línea entre la justicia y el privilegio a menudo se desdibuja con la facilidad con la que un taxi cruza la ciudad. Un individuo acusado de violación en España presuntamente recibió servicios de taxi gratuitos pagados con fondos públicos, lo que desató indignación y acusaciones de trato preferencial.
 
@@ -118,7 +117,7 @@ El acceso a la justicia es un derecho fundamental que debe ser garantizado para 
 
 El caso LimpiasGate es un recordatorio de que la lucha contra la corrupción y la defensa de la transparencia y la rendición de cuentas son una tarea constante que requiere el compromiso de todos los ciudadanos y de sus representantes. Solo a través de un esfuerzo colectivo podremos construir una sociedad más justa, equitativa y transparente.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

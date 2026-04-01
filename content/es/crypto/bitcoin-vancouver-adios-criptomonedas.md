@@ -22,7 +22,6 @@ type: crypto
 
 La privacidad es un bien que se vende caro, especialmente cuando se trata de datos biométricos....
 
-![Worldcoin Escaneó a 360.000 Españoles: La AEPD Reacciona Tarde](/images/bitcoin-vancouver-adios-criptomonedas.jpg)
 
 La privacidad es un bien que se vende caro, especialmente cuando se trata de datos biométricos.
 
@@ -77,7 +76,7 @@ La tributación de las criptomonedas es un tema complejo que requiere un anális
 La rápida expansión de Worldcoin en España subraya la necesidad de medidas de protección de datos más sólidas y proactivas. Los individuos deben considerar cuidadosamente los riesgos antes de proporcionar datos biométricos a cualquier proyecto. La privacidad no es un juego, es un derecho. La complacencia regulatoria, junto con la agresiva recopilación de datos por parte de startups, crea una tormenta perfecta donde los derechos individuales se ven comprometidos.
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

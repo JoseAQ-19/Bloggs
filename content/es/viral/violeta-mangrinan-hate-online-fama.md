@@ -22,7 +22,6 @@ type: viral
 
 Violeta Mangriñán no está sola: el 60% de las jóvenes españolas han experimentado violencia sexual digital, incluyendo acoso relacionado con su apariencia física....
 
-![Odio 24/7: Violeta Mangriñán y La Salud Mental Que Las Redes Destrozan.](/images/violeta-mangrinan-hate-online-fama.jpg)
 
 Violeta Mangriñán no está sola: el 60% de las jóvenes españolas han experimentado violencia sexual digital, incluyendo acoso relacionado con su apariencia física.
 
@@ -102,4 +101,4 @@ El odio en línea no es una forma legítima de crítica, sino una violencia psic
 
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

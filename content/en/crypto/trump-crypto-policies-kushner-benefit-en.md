@@ -16,13 +16,12 @@ translationKey: 67e579f8-7d89-29b4-d2da-6830fc98c2b6
 type: crypto
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Trump's Crypto Coup: How Jared Kushner Could Pocket Billions](/images/trump-crypto-policies-kushner-benefit-en.jpg)
 
 The convergence of political power and personal profit has never been more transparent than in the Trump administration's approach to cryptocurrency regulation, where family ties to...
 
-![Trump's Crypto Coup: How Jared Kushner Could Pocket Billions](/images/trump-crypto-policies-kushner-benefit-en.jpg)
 
 The convergence of political power and personal profit has never been more transparent than in the Trump administration's approach to cryptocurrency regulation, where family ties to blockchain ventures create an unprecedented ethical quagmire.
 
@@ -107,7 +106,7 @@ Reports
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

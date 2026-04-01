@@ -23,7 +23,6 @@ type: youtube
 
 Gastar 12.000€ para transformarse en un Border Collie puede parecer una extravagancia, pero es la punta del iceberg de un fenómeno creciente en España: la auto...
 
-![Gastó 12.000€ para Ser un Border Collie: la Verdad Detrás de los Therians Españoles](/images/therians-espana-moda-viral-campana-odio.jpg)
 
 Gastar 12.000€ para transformarse en un Border Collie puede parecer una extravagancia, pero es la punta del iceberg de un fenómeno creciente en España: la autoidentificación como *therian*. Esta tendencia, impulsada por redes sociales, está generando un intenso debate sobre identidad, salud mental y bienestar animal.
 
@@ -97,7 +96,7 @@ No condenamos la autoexpresión, pero la salud animal y mental deben ser la prio
 
 Menos morbo, más respeto.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

@@ -22,7 +22,6 @@ type: viral
 
 En la silenciosa batalla por el control del espacio, la carrera desenfrenada de satélites amenaza con convertir la órbita terrestre en un cementerio ineludible. ...
 
-![GMV Advierte: Estaremos Atrapados en una Costra de Desechos Espaciales.](/images/alerta-nasa-satelite-descontrolado-amenaza-tierra.jpg)
 
 En la silenciosa batalla por el control del espacio, la carrera desenfrenada de satélites amenaza con convertir la órbita terrestre en un cementerio ineludible. La promesa de conectividad global y servicios avanzados se enfrenta a una realidad cada vez más palpable: la Tierra podría quedar atrapada en una costra de chatarra espacial.
 
@@ -82,7 +81,7 @@ El espacio es de todos; no dejemos que la basura nos lo quite.
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 - [YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

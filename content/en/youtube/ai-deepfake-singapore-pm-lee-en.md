@@ -16,13 +16,12 @@ translationKey: f4e4fef6-b9fa-611a-336f-99d7bcb02d9e
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![YouTube's AI Nightmare: Deepfakes Smear Singapore PM, 70% Believe It's Real.](/images/ai-deepfake-singapore-pm-lee-en.jpg)
 
 Deepfake videos of Singapore's Prime Minister Lee Hsien Loong peddling crypto scams illustrate the accelerating crisis of synthetic media's impact on geopolitics and public t...
 
-![YouTube's AI Nightmare: Deepfakes Smear Singapore PM, 70% Believe It's Real.](/images/ai-deepfake-singapore-pm-lee-en.jpg)
 
 Deepfake videos of Singapore's Prime Minister Lee Hsien Loong peddling crypto scams illustrate the accelerating crisis of synthetic media's impact on geopolitics and public trust.
 
@@ -77,7 +76,7 @@ Each individual must adopt critical thinking techniques, by cross-checking claim
 
 Prepare for an era where seeing *isn't* believing.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

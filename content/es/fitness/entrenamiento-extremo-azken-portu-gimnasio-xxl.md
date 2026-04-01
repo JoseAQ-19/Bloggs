@@ -22,7 +22,6 @@ type: fitness
 
 La búsqueda de un cuerpo perfecto ha abierto la puerta a una jungla de charlatanes y estafadores, especialmente en el mundo del entrenamiento personal. La proliferac...
 
-![Azken Portu Revienta la Burbuja del Entrenador Personal: ¡Pura Estafa!](/images/entrenamiento-extremo-azken-portu-gimnasio-xxl.jpg)
 
 La búsqueda de un cuerpo perfecto ha abierto la puerta a una jungla de charlatanes y estafadores, especialmente en el mundo del entrenamiento personal. La proliferación de "influencers" y la falta de regulación están poniendo en riesgo la salud y el bolsillo de los usuarios de gimnasios en España.
 
@@ -72,7 +71,7 @@ La solución no es prohibir a los graduados de FP, sino establecer mecanismos de
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 - [YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

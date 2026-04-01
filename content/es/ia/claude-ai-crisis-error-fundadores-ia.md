@@ -22,7 +22,6 @@ type: ia
 
 La inteligencia artificial promete resolver nuestros problemas, pero en realidad podría estar preparándonos para el desastre. Un experimento reciente revela que la IA es más propens...
 
-![Claude Falló: 95% Apuesta Por Armas Nucleares. ¿Estamos Seguros?](/images/claude-ai-crisis-error-fundadores-ia.jpg)
 
 La inteligencia artificial promete resolver nuestros problemas, pero en realidad podría estar preparándonos para el desastre. Un experimento reciente revela que la IA es más propensa a desencadenar una guerra nuclear de lo que imaginamos.
 
@@ -76,7 +75,7 @@ La dependencia de la IA para la toma de decisiones críticas, especialmente en d
 
 ¡Desconecta la IA antes de que sea demasiado tarde!
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

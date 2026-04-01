@@ -16,7 +16,7 @@ translationKey: e9babc0a-0290-fbbb-8ae9-490fb2bcf13a
 type: funds
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 *   **Market Context:** The Thailand fund market experienced a substantial **$1.3 billion in net inflows** during 2025, indicating robust investor confidence and capital allocation towards domestic equity instruments.
 *   **Top Performers Identified:** The Morningstar Awards Thailand 2026 recognize three equity funds for their exceptional performance: Kasikorn Thai Equity Fund, Krungsri Equity Fund, and SCB Equity Fund.
@@ -120,7 +120,7 @@ A: For Thai residents, capital gains from mutual funds are generally tax-exempt.
 **Q: How often are the Morningstar Awards updated, and where can I find current ratings?**
 A: Morningstar Awards are typically announced annually. Current fund ratings, including star ratings and analyst reports, can be accessed directly on the official Morningstar website by searching for individual fund tickers or names.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

@@ -16,13 +16,12 @@ translationKey: d512ecfa-bd8a-816f-4018-5ddfb4289dc2
 type: funds
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Morningstar Thailand Awards 2026: Identifying Top Funds in a Challenging Market](/images/morningstar-thailand-awards-2026-identifying-top-funds-in-a-challenging-market-en.jpg)
 
 **$1.4 billion in assets under management (AUM) were awarded to the top-performing mutual funds in Thailand at the Mornin...
 
-![Morningstar Thailand Awards 2026: Identifying Top Funds in a Challenging Market](/images/morningstar-thailand-awards-2026-identifying-top-funds-in-a-challenging-market-en.jpg)
 
 **$1.4 billion in assets under management (AUM) were awarded to the top-performing mutual funds in Thailand at the Morningstar Awards for Investing Excellence Thailand 2026.**
 
@@ -81,7 +80,7 @@ The winners of the Morningstar Thailand Awards 2026 have demonstrated strong per
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

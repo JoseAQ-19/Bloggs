@@ -100,7 +100,7 @@ La prevalencia global de la lumbalgia subraya la imperiosa necesidad de buscar d
 
 La inversión en una evaluación profesional por parte de fisioterapeutas, médicos especialistas y, si es necesario, psicólogos, no solo optimiza los resultados terapéuticos, sino que también previene la cronificación del dolor y minimiza los riesgos asociados a la desinformación. Cuide su espalda, pero hágalo con conocimiento y bajo la guía de profesionales cualificados. No se deje engañar por promesas que no pueden sostenerse con la rigurosa realidad científica.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

@@ -59,7 +59,7 @@ La proliferación de títulos engañosos ha llevado a una notable disminución e
 
 La experiencia del usuario se ve gravemente afectada por la omnipresencia del clickbait. Muchos usuarios se quejan de sentirse manipulados al hacer clic en videos que no cumplen con las expectativas generadas por sus títulos. Esta frustración puede conducir a la desconfianza hacia la plataforma, lo que, en última instancia, puede tener un impacto negativo en la retención de usuarios a largo plazo.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

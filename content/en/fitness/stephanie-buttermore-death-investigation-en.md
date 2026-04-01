@@ -16,13 +16,12 @@ translationKey: 625eab06-c377-5830-268a-a7549dc10d26
 type: fitness
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Bodybuilding Shocker: Steroids & Diet - The Dark Side Claims Stephanie Buttermore](/images/stephanie-buttermore-death-investigation-en.jpg)
 
 The fitness industry often prioritizes aesthetics over well-being, potentially leading to tragic outcomes. Stephanie Buttermore, a 36-year-old fitness influe...
 
-![Bodybuilding Shocker: Steroids & Diet - The Dark Side Claims Stephanie Buttermore](/images/stephanie-buttermore-death-investigation-en.jpg)
 
 The fitness industry often prioritizes aesthetics over well-being, potentially leading to tragic outcomes. Stephanie Buttermore, a 36-year-old fitness influencer, passed away on March 6, 2026, underscoring the hidden dangers lurking beneath the surface of extreme fitness culture.
 
@@ -80,7 +79,7 @@ Moreover, prioritize mental health by practicing self-compassion and challenging
 
 Vanity can kill. The pursuit of an unrealistic ideal can have devastating consequences, and it is important to prioritize health and well-being above all else.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

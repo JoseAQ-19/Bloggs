@@ -16,16 +16,14 @@ translationKey: 9a4e9750-947f-fe70-a959-8f7bc4f3a9f7
 type: funds
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![5 Energy Stocks Surpassing the S&P 500 by 12% in 2026](/images/5-energy-stocks-surpassing-the-sp-500-by-12-in-2026-en.jpg)
 
 **Five energy stocks are outperforming the S&P 500 by an impressive 12% in 2026, showcasing a robust sector poised for growth.** ...
 
-![5 Energy Stocks Surpassing the S&P 500 by 12% in 2026](/images/5-energy-stocks-surpassing-the-sp-500-by-12-in-2026-en.jpg)
 
-**Five energy stocks are outperforming the S&P 500 by an impressive 12% in 2026, showcasing a robust sector poised for growth.** 
-
+**Five energy stocks are outperforming the S&P 500 by an impressive 12% in 2026, showcasing a robust sector poised for growth.*
 * [12% outperformance in 2026 — source Morningstar]
 * [20% annualized returns over the last three years — source SEC]
 * [5% lower expense ratios compared to sector averages — source CNMV]
@@ -118,7 +116,7 @@ We believe the performance of these energy stocks reflects a broader market tren
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

@@ -24,7 +24,6 @@ type: fitness
 
 Si crees que tu VO2 máx está escrito en piedra por tus genes, piénsalo de nuevo. Tu "límite genético" podría ser, simplemente, un protocolo de prueba pésimo....
 
-![El Mito de la Meseta del VO2 Máx: Tu Límite Genético Podría Ser Solo un Mal Protocolo](/images/mito-meseta-vo2-max-protocolo-fallido.jpg)
 
 Si crees que tu VO2 máx está escrito en piedra por tus genes, piénsalo de nuevo. Tu "límite genético" podría ser, simplemente, un protocolo de prueba pésimo.
 
@@ -60,7 +59,7 @@ Así que, la próxima vez que te digan que has alcanzado tu "límite genético" 
 
 Es hora de quemar ese test incremental y abrazar la era del entrenamiento personalizado. El futuro del ciclismo no está en el VO2 máx, sino en la eficiencia, la adaptabilidad y la comprensión profunda de la fisiología individual. Olvídense de los números mágicos y empiecen a pedalear con cabeza.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

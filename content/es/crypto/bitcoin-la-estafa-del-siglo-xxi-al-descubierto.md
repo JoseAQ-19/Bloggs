@@ -65,7 +65,7 @@ Las criptomonedas facilitan la evasión de sanciones y controles de capital, lo 
 Bitcoin es una estafa piramidal disfrazada de innovación tecnológica. Su valor es artificial, su volatilidad es extrema y su utilidad real es, en el mejor de los casos, cuestionable. Dejemos de alimentar esta fantasía y reconozcamos la verdad: Bitcoin es una burbuja a punto de estallar. Y cuando lo haga, muchos inversores se arrepentirán de no haber escuchado las advertencias. Que nadie diga que no se lo advertimos.
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

@@ -60,7 +60,7 @@ Si Google no aborda estos problemas de forma rápida y efectiva, podría perder 
 - **YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína**
 - **YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos**
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

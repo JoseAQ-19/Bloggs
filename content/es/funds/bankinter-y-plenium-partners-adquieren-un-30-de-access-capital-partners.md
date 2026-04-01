@@ -22,7 +22,6 @@ type: funds
 
 Un 30% de Access Capital Partners ha sido adquirido por Bankinter y Plenium Partners, lo que significa un movimiento estratégico significa...
 
-![Bankinter y Plenium Partners adquieren un 30% de Access Capital Partners](/images/bankinter-y-plenium-partners-adquieren-un-30-de-access-capital-partners.jpg)
 
 Un 30% de Access Capital Partners ha sido adquirido por Bankinter y Plenium Partners, lo que significa un movimiento estratégico significativo en el mercado de gestión de activos. 
 
@@ -81,7 +80,7 @@ Expertos en gestión de activos han expresado perspectivas positivas, señalando
 
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

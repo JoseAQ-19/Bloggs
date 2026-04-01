@@ -22,7 +22,6 @@ type: fitness
 
 La euforia del fitness asequible podría ser solo otra burbuja a punto de estallar. Planet Fitness planea inaugurar 15 gimnasios en España en 2026, desafiando la sostenibilida...
 
-![Planet Fitness Declara la Guerra: 15 Gimnasios Asaltarán España en 2026](/images/planet-fitness-golds-gym-espana-2026.jpg)
 
 La euforia del fitness asequible podría ser solo otra burbuja a punto de estallar. Planet Fitness planea inaugurar 15 gimnasios en España en 2026, desafiando la sostenibilidad a largo plazo de un mercado ya sobresaturado.
 
@@ -68,7 +67,7 @@ Además, es fundamental que los gimnasios cumplan con las normativas de protecci
 
 Sudor dulce, victoria amarga.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

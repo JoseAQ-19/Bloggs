@@ -16,13 +16,12 @@ translationKey: 959a7b30-c2f9-38e0-94c6-ad148a71347f
 type: fitness
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Bodybuilding's Deadly Secret: Why Ronnie Coleman Wants Diuretics Banned NOW](/images/natural-bodybuilding-contest-prep-dangers-en.jpg)
 
 Without question, diuretics are significantly more dangerous than steroids in bodybuilding....
 
-![Bodybuilding's Deadly Secret: Why Ronnie Coleman Wants Diuretics Banned NOW](/images/natural-bodybuilding-contest-prep-dangers-en.jpg)
 
 Without question, diuretics are significantly more dangerous than steroids in bodybuilding.
 
@@ -65,7 +64,7 @@ Ronnie Coleman is right: diuretics should be banned in bodybuilding competitions
 
 If you're a bodybuilder, prioritize your health and compete naturally; consider consulting a registered dietitian or physician before taking any supplements, including those marketed as "natural" diuretics. This could mean sacrificing some aesthetic perfection to preserve your health. Seek guidance on safe and sustainable strategies for achieving your physique goals without resorting to dangerous practices. Health over aesthetics, always. If you feel pressured to use diuretics, consider if the sport is worth it. Consider the advice of **Dr Eric Helms**: avoid intentionally cutting water altogether.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

@@ -65,7 +65,7 @@ Es crucial que los inversores consideren su propia tolerancia al riesgo y la imp
 
 En conclusión, Magallanes Value Investors ha demostrado su capacidad para sobresalir en el competitivo campo de la gestión de fondos en España. Su enfoque en la inversión en valor, combinado con un sólido rendimiento financiero y una estructura de comisiones competitiva, la posiciona como una opción atractiva para los inversores. Sin embargo, es fundamental que cada inversor evalúe sus objetivos y tolerancia al riesgo antes de tomar decisiones de inversión.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

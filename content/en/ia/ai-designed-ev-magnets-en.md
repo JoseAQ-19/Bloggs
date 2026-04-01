@@ -16,13 +16,12 @@ translationKey: 613f4846-dffb-4679-cab0-3efe259601f1
 type: ia
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Forget Rare Earths: AI Could Conquer $11.3 Billion EV Magnet Market](/images/ai-designed-ev-magnets-en.jpg)
 
 Electric vehicle manufacturers are in a bind: embrace a rare earth magnet market projected to explode to $11.3 billion by 2032, or gamble on AI-designed alternatives that might never delive...
 
-![Forget Rare Earths: AI Could Conquer $11.3 Billion EV Magnet Market](/images/ai-designed-ev-magnets-en.jpg)
 
 Electric vehicle manufacturers are in a bind: embrace a rare earth magnet market projected to explode to $11.3 billion by 2032, or gamble on AI-designed alternatives that might never deliver.
 
@@ -71,7 +70,7 @@ Current AI efforts are largely focused on discovering novel material combination
 ## The Bottom Line
 AI-designed magnets offer a vital, albeit long-term, pathway to mitigating risk and ethical concerns in the EV magnet supply chain. Automakers should directly fund and partner with research institutions like the University of New Hampshire to accelerate the development and testing of AI-designed magnet alternatives. Rare earths are on notice.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

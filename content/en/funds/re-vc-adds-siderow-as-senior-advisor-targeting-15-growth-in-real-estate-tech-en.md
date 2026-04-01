@@ -16,7 +16,7 @@ translationKey: bd77d130-636e-9c84-8d58-40c30db61a47
 type: funds
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * author: Junior Writer
 tags: ["real estate tech", "venture capital", "investment", "proptech", "Siderow", "RE VC"]
@@ -103,7 +103,7 @@ Moreover, the real estate tech sector is characterized by long investment cycles
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

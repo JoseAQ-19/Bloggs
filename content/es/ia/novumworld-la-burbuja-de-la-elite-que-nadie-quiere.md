@@ -63,7 +63,7 @@ NOVUMWORLD no es solo una burbuja de privilegio en riesgo de estallido; es un si
 
 La tecnología no es neutral; es un arma que puede ser utilizada para oprimir o empoderar. En el contexto actual, se ha convertido en un instrumento de control en manos de la élite. Si la tecnología se va a utilizar para construir un mundo de justicia e igualdad, primero debemos destruir las estructuras que la utilizan para perpetuar la opresión.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

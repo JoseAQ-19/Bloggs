@@ -72,7 +72,7 @@ Para los usuarios, la decisión se reduce a una elección entre un rendimiento t
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 - [YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

@@ -78,7 +78,7 @@ This analysis is based on the meta-analysis performed by the **University of Cam
 
 ---
 
-#*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+#*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Related Articles
 - [Biohacking Your Recovery: The $500 Ring That Claims To Replace Your Doctor](/en/fitness/oura-ring-sleep-latency-reading-en/)

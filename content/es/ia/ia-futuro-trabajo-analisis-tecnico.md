@@ -77,7 +77,7 @@ Frente a esta realidad, es evidente que la IA no es simplemente una herramienta 
 
 La única opción viable es la resistencia. Es crucial que los trabajadores se organicen y luchen por un futuro en el que la tecnología sirva a la humanidad, y no al revés. La rebelión contra el sistema que perpetúa estas desigualdades y precariedades es la única salida viable para construir un futuro donde la dignidad y el trabajo decente sean una realidad.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

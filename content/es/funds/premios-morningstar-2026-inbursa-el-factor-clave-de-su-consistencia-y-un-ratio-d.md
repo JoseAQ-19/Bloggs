@@ -23,7 +23,6 @@ type: funds
 
 **El 62,5% de los fondos de inversión en México no superan el rendimiento del índice S&P/BMV IPC.** Est...
 
-![Premios Morningstar 2026: Inbursa, el factor clave de su consistencia y un Ratio de Sharpe de 1.5.](/images/premios-morningstar-2026-inbursa-el-factor-clave-de-su-consistencia-y-un-ratio-d.jpg)
 
 **El 62,5% de los fondos de inversión en México no superan el rendimiento del índice S&P/BMV IPC.** Esta incapacidad de superar el índice de referencia plantea interrogantes sobre la gestión activa en el mercado mexicano.
 
@@ -96,7 +95,7 @@ El BTG ALFA se presenta como una opción atractiva dentro del mercado de fondos 
 
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

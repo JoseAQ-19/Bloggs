@@ -17,13 +17,12 @@ translationKey: cfd72d6f-2f2d-9c27-a81d-f35c35a8b8ed
 type: ia
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![AI Candidate Disrupts Colombia’s Elections: The Startling Truth Behind 500,000 Deepfake Videos](/images/how-an-ai-candidate-changed-the-game-in-colombias-elections-en.jpg)
 
 AI is not just a buzzword; it’s a looming specter over democracy, particularly in Colombia, where the upcoming 2026 elections...
 
-![AI Candidate Disrupts Colombia’s Elections: The Startling Truth Behind 500,000 Deepfake Videos](/images/how-an-ai-candidate-changed-the-game-in-colombias-elections-en.jpg)
 
 AI is not just a buzzword; it’s a looming specter over democracy, particularly in Colombia, where the upcoming 2026 elections could be decided by the flick of a digital pen. An estimated 500,000 deepfake videos were shared on social media in 2023, with projections suggesting this could rise to 8 million by 2025, posing a significant threat to the integrity of the electoral process. 
 
@@ -107,7 +106,7 @@ Individuals must actively seek reliable sources of information, engage in media 
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
 - [YouTube's Dirty Secret: Hate Speech Algorithm Targets 'Jeopardy!' Host After 4,000 Watch Hours.](/en/youtube/youtube-jeopardy-podcast-demonetization-hate-speech-en/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

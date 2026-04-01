@@ -16,13 +16,12 @@ translationKey: 4a07104f-c9fd-3e85-4866-ffbbf314abfc
 type: funds
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![OAKM: Morningstar Names This Active ETF a Top Pick for 2026, Citing 15% Growth](/images/oakm-morningstar-names-this-active-etf-a-top-pick-for-2026-citing-15-growth-en.jpg)
 
 The LNG market just lost 10% of global supply overnight as Qatar halted production amid escalating Middle East tensions, send...
 
-![OAKM: Morningstar Names This Active ETF a Top Pick for 2026, Citing 15% Growth](/images/oakm-morningstar-names-this-active-etf-a-top-pick-for-2026-citing-15-growth-en.jpg)
 
 The LNG market just lost 10% of global supply overnight as Qatar halted production amid escalating Middle East tensions, sending commodity volatility metrics to 18-month highs. Against this backdrop, Morningstar has designated OAKM – the Oaktree Capital Management Active ETF – as a top 2026 pick, citing its "unique positioning in distressed credit and AI-driven infrastructure debt." This designation comes as institutional flows into alternative ETFs surged 37% in Q4 2025 according to Bloomberg data.
 
@@ -123,4 +122,4 @@ Finally, the potential for liquidity constraints within the alternative credit m
 
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

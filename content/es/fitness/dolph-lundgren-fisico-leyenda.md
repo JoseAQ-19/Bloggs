@@ -22,7 +22,6 @@ type: fitness
 
 Dolph Lundgren tiene 68 años y tu VO2 max no. Los estudios muestran que el 80% de las personas mayores de 40 años tienen un VO2 max insuficiente, mientras que Lundgren desafía la biología con...
 
-![Dolph Lundgren Tiene 68 Y Tu VO2 Max No: La Verdad Que Duele.](/images/dolph-lundgren-fisico-leyenda.jpg)
 
 Dolph Lundgren tiene 68 años y tu VO2 max no. Los estudios muestran que el 80% de las personas mayores de 40 años tienen un VO2 max insuficiente, mientras que Lundgren desafía la biología con un programa que combina entrenamiento de fuerza diario y ayuno intermitente. * [Un análisis de 15,000 atletas amateurs revela que solo el 3% mantiene un VO2 max superior a 50 ml/kg/min después de los 60 años, según investigación de la Universidad de Copenhague](https://pubmed.ncbi.nlm.nih.gov/39849670/). * [La sarcopenia afecta al 50% de los mayores de 80 años, pero estudios de campeones de remo mayores de 70 años demuestran que la fuerza puede preservarse con entrenamiento específico n=4,000, según el *Journal of Gerontology*](https://pubmed.ncbi.nlm.nih.gov/40969985/). * [Dolph Lundgren confiere solo 1.5 horas diarias a su rutina, incluyendo pesas, cardio y cryoterapia, generando controversias en comunidades científicas de longevidad].
 
@@ -52,17 +51,13 @@ La clave de longevidad real no está en las inyecciones ni en 10.000€ en gadge
 ---
 
 **FAQ** (Basado en dudas reales de Reddit/Quora): 
-**¿Es seguro hacer TRT sin deficiencia confirmada?** 
-No. La TRT sin indicación médica aumenta el riesgo de eritrocitosis (25% de usuarios), trombosis y puede suprimir la producción natural. En España es ilegal para "antienvejecimiento". 
+**¿Es seguro hacer TRT sin deficiencia confirmada?*No. La TRT sin indicación médica aumenta el riesgo de eritrocitosis (25% de usuarios), trombosis y puede suprimir la producción natural. En España es ilegal para "antienvejecimiento". 
 
-**¿La creatina realmente aumenta la longevidad?** 
-Sí. Un estudio de 10 años en la *Journal of Nutrition* muestra que usuarios de creatina tienen menor mortalidad por todas las causas (n=1,200). Mejora la función mitocondrial y reduce la inflamación. 
+**¿La creatina realmente aumenta la longevidad?*Sí. Un estudio de 10 años en la *Journal of Nutrition* muestra que usuarios de creatina tienen menor mortalidad por todas las causas (n=1,200). Mejora la función mitocondrial y reduce la inflamación. 
 
-**¿Puedo alcanzar el VO2 de Lundgren a mis 50 años?** 
-Depende. Sedentarios pueden mejorar un 15% en 6 meses con entrenamiento consistente. Atletas amateurs pueden alcanzar 45 ml/kg/min. El récord mundial en >70 años es de 58.4 ml/kg/min. 
+**¿Puedo alcanzar el VO2 de Lundgren a mis 50 años?*Depende. Sedentarios pueden mejorar un 15% en 6 meses con entrenamiento consistente. Atletas amateurs pueden alcanzar 45 ml/kg/min. El récord mundial en >70 años es de 58.4 ml/kg/min. 
 
-**¿La dieta keto es buena para longevidad?** 
-No para la mayoría. Las poblaciones centenarias consumen carbohidratos complejos. La keto puede elevar el colesterol LDL en genéticos susceptibles. 
+**¿La dieta keto es buena para longevidad?*No para la mayoría. Las poblaciones centenarias consumen carbohidratos complejos. La keto puede elevar el colesterol LDL en genéticos susceptibles. 
 
 ---
 
@@ -70,7 +65,7 @@ No para la mayoría. Las poblaciones centenarias consumen carbohidratos complejo
 - [¿Comida Rápida? La Crítica DEVASTADORA Al Estilo MrBeast Que Sacude YouTube.](/es/youtube/mrbeast-formula-viral-youtube/)
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

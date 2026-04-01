@@ -70,7 +70,7 @@ El GDPR impone multas teóricas, pero su aplicación es lenta e ineficaz. Los *d
 
 Las leyes actuales están obsoletas. Diseñadas para una era digital que ya no existe, son incapaces de proteger a los usuarios de las tácticas de vigilancia de hoy. La única solución es rechazar de plano esta invasión. Borra tus cuentas, utiliza VPNs, desactiva los permisos innecesarios y, sobre todo, predica con el ejemplo. Deja de alimentar la bestia, o ella te devorará.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

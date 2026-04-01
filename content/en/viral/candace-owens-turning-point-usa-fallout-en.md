@@ -16,13 +16,12 @@ translationKey: 5c82b628-5f5e-1803-3582-0e3d6161dc88
 type: viral
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Candace Owens' Evil Scumbag Accusation: Inside TPUSA's $85 Million Meltdown](/images/candace-owens-turning-point-usa-fallout-en.jpg)
 
 The conservative movement is eating its own. Candace Owens' recent broadsides against Turning Point USA (TPUSA) have exposed deep fractures within the organization,...
 
-![Candace Owens' Evil Scumbag Accusation: Inside TPUSA's $85 Million Meltdown](/images/candace-owens-turning-point-usa-fallout-en.jpg)
 
 The conservative movement is eating its own. Candace Owens' recent broadsides against Turning Point USA (TPUSA) have exposed deep fractures within the organization, threatening its future stability.
 
@@ -75,7 +74,7 @@ The internal strife threatens the future viability of TPUSA. Donors should deman
 
 When the pillars crumble, even empires fall.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

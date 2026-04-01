@@ -65,7 +65,7 @@ Ante esta crisis de salud pública, el gobierno español está considerando proh
 
 Es imperativo que tanto las plataformas como los gobiernos tomen medidas para mitigar el impacto negativo de estos entornos digitales. La regulación, la educación sobre el uso responsable de la tecnología y la implementación de prácticas de diseño éticas son pasos fundamentales para proteger a la juventud de esta epidemia de adicción.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

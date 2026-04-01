@@ -70,7 +70,7 @@ La educación juega un papel crucial en la transformación de estas dinámicas. 
 
 El vídeo sobre las "10 palabras que las mujeres usan y los hombres no entienden" es un recordatorio poderoso de las profundas desigualdades que persisten en nuestra sociedad. No se trata solo de un fenómeno superficial en las redes sociales, sino de un síntoma de una brecha algorítmica y cultural que continúa afectando a la comunicación entre géneros. Al abordar estos problemas de manera consciente y activa, podemos trabajar hacia una sociedad más equitativa, donde todas las voces sean escuchadas y valoradas.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

@@ -22,7 +22,6 @@ type: youtube
 
 La imagen de Lola Lolita rodeada de lujos en "21 días entre millonarios" ha resonado como un campanazo fúnebre para la ostentación en redes. ¿Estamos ante el principio del fin de l...
 
-![Lola Lolita Pide Perdón, pero los Microinfluencers Ganan la Guerra](/images/lola-lolita-bolso-influencer-crisis.jpg)
 
 La imagen de Lola Lolita rodeada de lujos en "21 días entre millonarios" ha resonado como un campanazo fúnebre para la ostentación en redes. ¿Estamos ante el principio del fin de los influencers que muestran una vida inalcanzable?
 
@@ -76,7 +75,7 @@ La era de los mega-influencers que alardean de estilos de vida extravagantes est
 
 Menos ‘bling’, más ‘feeling’.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

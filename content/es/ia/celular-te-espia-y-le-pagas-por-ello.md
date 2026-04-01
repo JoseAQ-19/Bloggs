@@ -66,7 +66,7 @@ Los data brokers venden listas de personas con características sensibles, expon
 
 El único camino a seguir es la desobediencia digital radical. Elimina tus cuentas, usa software de código abierto, boicotea a las empresas de vigilancia y exige leyes que protejan tu privacidad como un derecho fundamental. La alternativa es convertirnos en esclavos digitales en una prisión panóptica diseñada para la ganancia de unos pocos.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

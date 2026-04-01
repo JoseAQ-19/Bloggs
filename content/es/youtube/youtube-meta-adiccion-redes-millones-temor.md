@@ -24,7 +24,6 @@ type: youtube
 * Los adolescentes españoles dedican **44 minutos diarios** a YouTube, convirtiéndose en el blanco perfecto de sus algoritmos adictivos. 
 * **Cada cinco adole...
 
-![YouTube, El Monstruo De 44 Minutos: Tu Hijo Cae En La Trampa, Silicon Valley Gana](/images/youtube-meta-adiccion-redes-millones-temor.jpg)
 
 * Los adolescentes españoles dedican **44 minutos diarios** a YouTube, convirtiéndose en el blanco perfecto de sus algoritmos adictivos. 
 * **Cada cinco adolescentes españoles (14-18 años)** muestra signos claros de adicción a móviles y redes sociales según **El Debate**. 
@@ -94,7 +93,7 @@ El precio de la inacción es alto. Cada minuto que tu hijo pasa en YouTube es un
 - [YouTube Se Lleva el Oscar: La Revolución del Entretenimiento Digital Ya Está Aquí](/es/youtube/youtube-se-lleva-el-oscar-el-futuro-del-entretenimiento-digital/)
 - [YouTube Te Espía: ¿Preparado Para Confesar Si Tu Video Lo Creó Una IA?](/es/youtube/youtube-deteccion-ia-honestidad-digital/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

@@ -16,13 +16,12 @@ translationKey: 9c053089-ae67-ba1c-7682-b21c94fd500e
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Neal Mohan's Nightmare: AI Lookalikes Threaten YouTube's $32B Payouts](/images/youtube-gemini-creator-collabs-en.jpg)
 
 YouTube's $32 billion in annual creator payouts are under existential threat from unregulated AI lookalikes that devalue original content and erode platform trust....
 
-![Neal Mohan's Nightmare: AI Lookalikes Threaten YouTube's $32B Payouts](/images/youtube-gemini-creator-collabs-en.jpg)
 
 YouTube's $32 billion in annual creator payouts are under existential threat from unregulated AI lookalikes that devalue original content and erode platform trust.
 
@@ -79,7 +78,7 @@ YouTube's $36B ad revenue depends on viewer trust that they're seeing authentic 
 ## The Verdict Is In
 **YouTube needs to protect original creators, not subsidize their replacements.** Creators should watermark content and pursue legal action against unauthorized AI replicas – the $5B likeness rights industry is their recourse. The future of YouTube hinges on rewarding human creativity, not rewarding robots.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

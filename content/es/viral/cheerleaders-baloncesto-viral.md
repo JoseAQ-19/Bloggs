@@ -22,7 +22,6 @@ type: viral
 
 La aparente alegría del cheerleading esconde una verdad incómoda: el riesgo de lesiones graves es alarmantemente alto....
 
-![¡Escándalo Cheerleader! 66% de las Lesiones Femeninas Más Graves Están Aquí](/images/cheerleaders-baloncesto-viral.jpg)
 
 La aparente alegría del cheerleading esconde una verdad incómoda: el riesgo de lesiones graves es alarmantemente alto.
 
@@ -94,7 +93,7 @@ El cheerleading y el baloncesto femenino pueden ser deportes gratificantes y enr
 
 Basta de lesiones silenciadas, la salud de las atletas importa!
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

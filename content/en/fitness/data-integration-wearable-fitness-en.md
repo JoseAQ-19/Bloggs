@@ -16,13 +16,12 @@ translationKey: 25eb4dc6-2258-080e-885f-9776758e3fc7
 type: fitness
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Wearable Fitness Data To Explode To $703 Billion: But There's A Catch](/images/data-integration-wearable-fitness-en.jpg)
 
 Wearable fitness data: it's the future, or a $703 billion privacy nightmare waiting to happen?...
 
-![Wearable Fitness Data To Explode To $703 Billion: But There's A Catch](/images/data-integration-wearable-fitness-en.jpg)
 
 Wearable fitness data: it's the future, or a $703 billion privacy nightmare waiting to happen?
 
@@ -83,7 +82,7 @@ Research and understand the privacy policies of your chosen device and limit dat
 
 Data-driven fitness: great promise, *buyer beware*.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

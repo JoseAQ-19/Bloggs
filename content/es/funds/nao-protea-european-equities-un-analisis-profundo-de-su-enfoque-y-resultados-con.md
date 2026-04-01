@@ -23,7 +23,6 @@ type: funds
 
 ## NAO Protea European Equities: Un análisis profundo de su enfoque y resultados con Sharpe de 0,88...
 
-![NAO Protea European Equities: Un análisis profundo de su enfoque y resultados con Sharpe de 0,88.](/images/nao-protea-european-equities-un-analisis-profundo-de-su-enfoque-y-resultados-con.jpg)
 
 ## NAO Protea European Equities: Un análisis profundo de su enfoque y resultados con Sharpe de 0,88
 
@@ -94,7 +93,7 @@ La Máquina procesa los datos: NAO Protea European Equities es un **producto nic
 
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

@@ -22,7 +22,6 @@ type: funds
 
 **La Eurozona brilla con un 12,3% de crecimiento anual en fondos de inversión**...
 
-![Oro en la Eurozona: 5 ETFs 'Large Cap' superan el 12% anual](/images/oro-en-la-eurozona-5-etfs-large-cap-superan-el-12-anual.jpg)
 
 **La Eurozona brilla con un 12,3% de crecimiento anual en fondos de inversión**
 
@@ -117,7 +116,7 @@ En nuestra opinión, los fondos de inversión de la Eurozona han demostrado ser 
 
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

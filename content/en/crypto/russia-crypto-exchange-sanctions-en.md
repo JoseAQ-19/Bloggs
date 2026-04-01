@@ -16,13 +16,12 @@ translationKey: 3ecc8eb1-4dfd-9e40-9088-44bfd4920be8
 type: crypto
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Chainalysis Warns: Russia's 694% Crypto Surge Threatens Global Sanctions](/images/russia-crypto-exchange-sanctions-en.jpg)
 
 Russia's aggressive pivot to cryptocurrency threatens to render existing sanctions regimes obsolete as digital asset transactions surge....
 
-![Chainalysis Warns: Russia's 694% Crypto Surge Threatens Global Sanctions](/images/russia-crypto-exchange-sanctions-en.jpg)
 
 Russia's aggressive pivot to cryptocurrency threatens to render existing sanctions regimes obsolete as digital asset transactions surge.
 
@@ -75,7 +74,7 @@ The global financial system is at risk. The surge in illicit crypto activity tie
 
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

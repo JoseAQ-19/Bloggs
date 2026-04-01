@@ -16,13 +16,12 @@ translationKey: 07aaa7cb-dfde-f273-5613-2148598d19a4
 type: tools
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![China's $49.2 Billion Secret: How Second-Hand Chips Bypass US Sanctions](/images/china-chip-tool-gambit-en.jpg)
 
 China's semiconductor imports surged to $49.2 billion in 2024, up 17% year-over-year, despite US sanctions targeting advanced chip manufacturing capabilities....
 
-![China's $49.2 Billion Secret: How Second-Hand Chips Bypass US Sanctions](/images/china-chip-tool-gambit-en.jpg)
 
 China's semiconductor imports surged to $49.2 billion in 2024, up 17% year-over-year, despite US sanctions targeting advanced chip manufacturing capabilities.
 
@@ -63,7 +62,7 @@ The international semiconductor industry's complicity further undermines sanctio
 ## The Bottom Line
 The second-hand equipment loophole represents sanctions' fatal vulnerability. China's $49.2 billion import binge exposes a fundamental flaw in the export control architecture that prioritizes cosmetic victories over systemic containment. Closing this gap requires harmonizing restrictions with Japan and Netherlands while establishing rigorous end-use verification protocols. Sanctions remain a speed bump, not a roadblock.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

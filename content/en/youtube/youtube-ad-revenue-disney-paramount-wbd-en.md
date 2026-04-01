@@ -17,13 +17,12 @@ translationKey: 847d4322-6fb7-6cef-b0df-5666b60693a8
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![YouTube's $40.4 Billion Ad Empire Topples Disney, Paramount, WBD Combined In Streaming War](/images/youtube-ad-revenue-disney-paramount-wbd-en.jpg)
 
 Hollywood's dominance has officially collapsed under the weight of a digital revolution it failed to fight....
 
-![YouTube's $40.4 Billion Ad Empire Topples Disney, Paramount, WBD Combined In Streaming War](/images/youtube-ad-revenue-disney-paramount-wbd-en.jpg)
 
 Hollywood's dominance has officially collapsed under the weight of a digital revolution it failed to fight.
 
@@ -77,7 +76,7 @@ Furthermore, the data collection capabilities of CTV are invasive. Linear
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [YouTube TV Dodged Fox: Will 77.2 Million Cord-Cutters Pay The Price?](/en/youtube/youtube-tv-fox-deal-extension-en/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

@@ -71,7 +71,7 @@ Un enfoque crítico requiere un compromiso con la justicia social y la equidad, 
 
 La verdadera objetividad reside en la honestidad intelectual y la transparencia metodológica, no en la pretensión de una neutralidad inexistente. El futuro del periodismo depende de ello. El tiempo de las tibiezas ha terminado. Es hora de tomar partido y defender la verdad, sin importar las consecuencias.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

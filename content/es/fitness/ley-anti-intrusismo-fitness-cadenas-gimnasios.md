@@ -23,7 +23,6 @@ type: fitness
 
 El fitness en España se está convirtiendo en un campo de batalla burocrático, donde los títulos universitarios parecen valer más que la experiencia real....
 
-![Intrusismo Al 40%: La 'Ley Anti-Intrusismo' Es Una Farsa Para COLEF.](/images/ley-anti-intrusismo-fitness-cadenas-gimnasios.jpg)
 
 El fitness en España se está convirtiendo en un campo de batalla burocrático, donde los títulos universitarios parecen valer más que la experiencia real.
 
@@ -75,7 +74,7 @@ La clave reside en encontrar un equilibrio entre la protección del consumidor y
 
 Creemos que se necesita un enfoque equilibrado, que reconozca tanto la educación formal como la experiencia práctica. Implementar un sistema de certificación transparente que valore la competencia demostrable junto con las cualificaciones formales es crucial. El fitness no es un coto privado, ¡es un derecho!
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

@@ -91,7 +91,7 @@ El reto que enfrentamos es tanto filosófico como ético: ¿cómo defendemos la 
 
 Es fundamental que tomemos conciencia de esta realidad y actuemos para proteger nuestras libertades individuales y colectivas. La lucha contra la dictadura digital debe ser un esfuerzo conjunto, que involucre a ciudadanos, comunidades y organizaciones en la defensa de nuestros derechos.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

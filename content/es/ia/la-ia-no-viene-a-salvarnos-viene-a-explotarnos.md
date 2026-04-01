@@ -55,7 +55,7 @@ El futuro de la IA no debe basarse en la explotación y el sufrimiento humano. E
 
 Un cambio de paradigma es fundamental. La IA debe diseñarse y utilizarse como una herramienta para el progreso equitativo, no como un medio para exacerbar la desigualdad y la precariedad global. La demanda de "ethical AI" y "responsible AI" debe ser una prioridad, impulsada por la conciencia social y el activismo.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

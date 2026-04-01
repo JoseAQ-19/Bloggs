@@ -76,7 +76,7 @@ La actual crisis energética plantea la necesidad urgente de que España y Europ
 
 La crisis en el Estrecho de Hormuz nos recuerda la interconexión de la economía global. Una crisis en una región lejana puede tener repercusiones profundas en nuestro día a día. La innovación y la cooperación internacional son esenciales para romper este ciclo destructivo y construir un sistema más robusto.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional.*
 
 ## Metodología y Fuentes
 

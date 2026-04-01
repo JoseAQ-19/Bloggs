@@ -16,13 +16,12 @@ translationKey: e5de1893-f606-c0c1-ac95-01db37b2256f
 type: crypto
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Nobitex Records 700% Surge: Iran's Capital Flight Fueled By Fear](/images/iranian-crypto-exodus-on-chain-data-en.jpg)
 
 Iran's crypto market, touted as a haven from sanctions, may instead be a ticking time bomb for the global financial system....
 
-![Nobitex Records 700% Surge: Iran's Capital Flight Fueled By Fear](/images/iranian-crypto-exodus-on-chain-data-en.jpg)
 
 Iran's crypto market, touted as a haven from sanctions, may instead be a ticking time bomb for the global financial system.
 
@@ -78,7 +77,7 @@ The risk level is high.
 Secure the chain, secure the future.
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

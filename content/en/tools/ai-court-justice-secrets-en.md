@@ -16,13 +16,12 @@ translationKey: a094a3ee-4dcc-cdb7-af3e-67c01c9696f7
 type: tools
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![AI Hallucinations Are Infecting Courts: Justice System Faces Total Collapse.](/images/ai-court-justice-secrets-en.jpg)
 
 AI hallucinations are already impacting court cases, undermining the very foundation of justice....
 
-![AI Hallucinations Are Infecting Courts: Justice System Faces Total Collapse.](/images/ai-court-justice-secrets-en.jpg)
 
 AI hallucinations are already impacting court cases, undermining the very foundation of justice.
 
@@ -65,7 +64,7 @@ The legal system needs a radical overhaul of evidence admissibility standards to
 
 Truth lost in the machine. **AI's role in the courtroom** demands a new legal risk management strategy. The ethical implications, as highlighted by the **American Bar Association**, are too significant to ignore. [Deepfakes on trial](https://www.facia.ai/blog/deepfakes-threat-in-courtrooms-and-how-to-stop-them/) require vigilant countermeasures.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

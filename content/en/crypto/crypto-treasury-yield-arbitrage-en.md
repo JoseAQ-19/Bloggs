@@ -17,13 +17,12 @@ translationKey: 9f2f4cc8-8588-50e3-43df-26ee92889351
 type: crypto
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![DeFi's $9 Billion Crypto Crime Problem: Treasury Yields Fuel Regulatory Arbitrage Fire](/images/crypto-treasury-yield-arbitrage-en.jpg)
 
 DeFi's regulatory vacuum has created a $9 billion playground for fraudsters in 2024, exploiting gaps between traditional finance oversight and emerging crypto fr...
 
-![DeFi's $9 Billion Crypto Crime Problem: Treasury Yields Fuel Regulatory Arbitrage Fire](/images/crypto-treasury-yield-arbitrage-en.jpg)
 
 DeFi's regulatory vacuum has created a $9 billion playground for fraudsters in 2024, exploiting gaps between traditional finance oversight and emerging crypto frameworks.
 
@@ -89,7 +88,7 @@ Regulate *before* you wreckulate.
 
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

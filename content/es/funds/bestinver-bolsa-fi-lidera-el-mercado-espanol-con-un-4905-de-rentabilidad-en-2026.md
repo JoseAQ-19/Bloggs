@@ -23,7 +23,6 @@ type: funds
 
 El fondo Bestinver Bolsa FI ha alcanzado una rentabilidad impresionante del 49,05% en 2026, superando sus competidores ...
 
-![Bestinver Bolsa FI lidera el mercado español con un 49,05% de rentabilidad en 2026](/images/bestinver-bolsa-fi-lidera-el-mercado-espanol-con-un-4905-de-rentabilidad-en-2026.jpg)
 
 El fondo Bestinver Bolsa FI ha alcanzado una rentabilidad impresionante del 49,05% en 2026, superando sus competidores en el mercado español. 
 
@@ -84,7 +83,7 @@ Al elegir un fondo, los inversores deben considerar la rentabilidad histórica, 
 
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

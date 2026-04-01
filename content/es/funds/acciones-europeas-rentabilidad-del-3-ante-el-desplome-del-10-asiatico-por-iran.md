@@ -23,7 +23,6 @@ type: funds
 
 El desplome del 10% en las bolsas asiáticas tras los recientes incidentes geopolíticos en Irán contrasta con el leve repu...
 
-![Acciones Europeas: Rentabilidad del 3% ante el desplome del 10% asiático por Irán.](/images/acciones-europeas-rentabilidad-del-3-ante-el-desplome-del-10-asiatico-por-iran.jpg)
 
 El desplome del 10% en las bolsas asiáticas tras los recientes incidentes geopolíticos en Irán contrasta con el leve repunte del 3% en las acciones europeas, según datos de Bloomberg. ¿Es este un espejismo o una oportunidad para los inversores?
 
@@ -95,7 +94,7 @@ el repunte de las acciones europeas en medio del desplome de los mercados asiát
 
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

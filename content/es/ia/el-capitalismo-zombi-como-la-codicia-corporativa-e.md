@@ -160,7 +160,7 @@ Abordar el capitalismo zombi requiere un enfoque multifacético que combine la d
 
 La deszombificación del capitalismo es un proceso complejo que requiere una coordinación entre política monetaria, fiscal y estructural. El objetivo no es eliminar todas las empresas que enfrentan dificultades, sino garantizar que los mecanismos de mercado funcionen eficazmente para reasignar recursos hacia donde generen el mayor valor económico y social.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

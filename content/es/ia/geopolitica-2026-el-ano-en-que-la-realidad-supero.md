@@ -70,7 +70,7 @@ No hay un futuro incierto; hay un futuro inevitable. El viejo orden ha muerto, y
 
 El artículo original menciona la falta de un marco regulatorio sólido como un problema. Sin embargo, esta "falta" es, en realidad, una liberación de las restricciones que han limitado la acción de los actores globales. La verdadera libertad reside en la capacidad de actuar sin las ataduras de un orden antiguo y obsoleto. Aquellos que se atrevan a aprovechar esta oportunidad serán los que prevalezcan en la lucha por el control y la influencia.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

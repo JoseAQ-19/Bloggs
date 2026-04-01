@@ -17,13 +17,12 @@ translationKey: 1d806a5c-c4a4-661a-2742-0221fb33b52b
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/images/youtube-vs-disney-new-media-king-en.jpg)
 
 YouTube’s promise of fame and fortune through ad revenue is increasingly a mirage, with some creators seeing their earnings plummet from $100 a day to a paltry $6....
 
-![From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/images/youtube-vs-disney-new-media-king-en.jpg)
 
 YouTube’s promise of fame and fortune through ad revenue is increasingly a mirage, with some creators seeing their earnings plummet from $100 a day to a paltry $6.
 
@@ -97,7 +96,7 @@ Adapt or evaporate.
 
 To thrive in the current environment, YouTube creators need to be proactive and adaptable. This includes diversifying their revenue streams, prioritizing their mental health, and staying informed about the latest trends and changes in the online video landscape. By taking these steps, creators can increase their chances of success and build sustainable businesses that are not entirely dependent on YouTube's ad revenue model. The future of content creation is uncertain, but one thing is clear: creators who are willing to adapt and innovate will be the ones who thrive. The key is to not rely solely on one platform and to build a diversified portfolio of income streams. This will not only provide financial stability but also give creators more control over their content and their careers.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

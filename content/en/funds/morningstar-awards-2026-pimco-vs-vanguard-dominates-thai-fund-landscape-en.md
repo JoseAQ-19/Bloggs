@@ -16,13 +16,12 @@ translationKey: 1e89e978-3fc4-a992-b64d-9dc64aaed2b3
 type: funds
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Morningstar Awards 2026: PIMCO vs Vanguard Dominates Thai Fund Landscape](/images/morningstar-awards-2026-pimco-vs-vanguard-dominates-thai-fund-landscape-en.jpg)
 
 In Thailand's mutual fund landscape, PIMCO and Vanguard are at the forefront, showcasing remarkable performance metrics that have attra...
 
-![Morningstar Awards 2026: PIMCO vs Vanguard Dominates Thai Fund Landscape](/images/morningstar-awards-2026-pimco-vs-vanguard-dominates-thai-fund-landscape-en.jpg)
 
 In Thailand's mutual fund landscape, PIMCO and Vanguard are at the forefront, showcasing remarkable performance metrics that have attracted significant investor attention. **PIMCO's Total Return Fund has outperformed its benchmark by 1.8% over the past year**, while **Vanguard's S&P 500 ETF has delivered a 15% total return over three years**, reflecting a robust investment strategy. Additionally, **the average expense ratio for equity funds has declined to 0.50% in 2025**, marking a continued trend towards cost-efficient investing.
 
@@ -88,7 +87,7 @@ We believe that a balanced approach incorporating both PIMCO and Vanguard may se
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

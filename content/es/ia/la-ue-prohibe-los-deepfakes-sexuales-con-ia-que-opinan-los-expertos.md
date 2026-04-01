@@ -23,7 +23,6 @@ type: ia
 
 La proliferación de los 'deepfakes' sexuales ha alcanzado niveles alarmantes en Europa, lo que ha llevado a la Unión Europea a toma...
 
-![La UE Prohíbe los 'Deepfakes' Sexuales: 3 Millones de Imágenes Generadas en 11 Días](/images/la-ue-prohibe-los-deepfakes-sexuales-con-ia-que-opinan-los-expertos.jpg)
 
 La proliferación de los 'deepfakes' sexuales ha alcanzado niveles alarmantes en Europa, lo que ha llevado a la Unión Europea a tomar medidas drásticas. En apenas 11 días, usuarios de Grok generaron 3 millones de imágenes sexuales, de las cuales más de 33,000 involucraban a menores. Esta situación ha provocado una respuesta contundente por parte de la Agencia Española de Protección de Datos (AEPD), que ya ha comenzado a imponer sanciones a quienes distribuyen este tipo de contenido.
 
@@ -102,7 +101,7 @@ Las víctimas de 'deepfakes' tienen derechos fundamentales a la privacidad y a l
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 - [YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

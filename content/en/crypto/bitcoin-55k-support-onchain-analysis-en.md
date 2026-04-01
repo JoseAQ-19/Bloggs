@@ -17,13 +17,12 @@ translationKey: 31f908cb-95e5-451c-9d6d-e77ae8cc0a5f
 type: crypto
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Bitcoin's $55K Cliff: Peter Brandt Gives It 25% Chance of DOOM](/images/bitcoin-55k-support-onchain-analysis-en.jpg)
 
 Bitcoin's price trajectory is under intense scrutiny as market analysts offer conflicting predictions. Veteran trader Peter Brandt has assigned a 25% probability to a potential Bit...
 
-![Bitcoin's $55K Cliff: Peter Brandt Gives It 25% Chance of DOOM](/images/bitcoin-55k-support-onchain-analysis-en.jpg)
 
 Bitcoin's price trajectory is under intense scrutiny as market analysts offer conflicting predictions. Veteran trader Peter Brandt has assigned a 25% probability to a potential Bitcoin drop to $55,000.
 
@@ -87,7 +86,7 @@ Closely monitor the $65,636 support level, as a break below this point could tri
 
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

@@ -16,14 +16,13 @@ translationKey: b6cce30d-8dda-0704-1c2b-87c8091f52b3
 type: viral
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Barbara Han's 90% Accurate Pandemic Model: Why You Should Fear The Midwest](/images/predicting-next-pandemic-en.jpg)
 
 Barbara Han's Rodent Risk Model: The $120 Billion Blind Spot Hitting Heartland Supply Chains.
 A Midwest farm might be your portfolio's next black swan....
 
-![Barbara Han's 90% Accurate Pandemic Model: Why You Should Fear The Midwest](/images/predicting-next-pandemic-en.jpg)
 
 Barbara Han's Rodent Risk Model: The $120 Billion Blind Spot Hitting Heartland Supply Chains.
 A Midwest farm might be your portfolio's next black swan.
@@ -69,7 +68,7 @@ Integrate zoonotic disease risk into due diligence for companies with significan
 
 Germs are forever.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

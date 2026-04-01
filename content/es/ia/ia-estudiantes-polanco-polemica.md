@@ -23,7 +23,6 @@ type: ia
 
 La promesa de la IA como panacea educativa choca de frente con la dura realidad: los alumnos, con frecuencia, rinden menos....
 
-![ChatGPT Suspende en España: La Mitad de los Alumnos Sacan Peores Notas Por Usarlo](/images/ia-estudiantes-polanco-polemica.jpg)
 
 La promesa de la IA como panacea educativa choca de frente con la dura realidad: los alumnos, con frecuencia, rinden menos.
 
@@ -69,7 +68,7 @@ Es fundamental que los padres, los educadores y la sociedad en su conjunto sean 
 
 La IA: ¿una herramienta brillante o un atajo peligroso?
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

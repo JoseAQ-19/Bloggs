@@ -63,7 +63,7 @@ La industria tecnológica tiene la oportunidad de cambiar su enfoque. En lugar d
 
 El futuro no está en un metaverso que nunca se materializará, sino en la aplicación práctica de tecnologías que realmente pueden mejorar nuestra calidad de vida. La industria debe aceptar la realidad y dejar de intentar vendernos una idea que no cumple con las expectativas. La era digital debe ser construida sobre fundamentos sólidos y realistas, no sobre ilusiones efímeras.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

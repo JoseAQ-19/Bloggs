@@ -23,10 +23,8 @@ type: crypto
 
 *Crypto.com ha despedido al 20% de su personal global, apostando por la inteligencia artificial como su única ví...
 
-![La IA Podría Ser La Clave Para La Supervivencia de Crypto.com Tras Despidos Masivos](/images/cryptocom-despide-al-12-de-su-personal-la-ia-es-la-clave-para-sobrevivir-en-el-mercado.jpg)
 
-*Crypto.com ha despedido al 20% de su personal global, apostando por la inteligencia artificial como su única vía de supervivencia en un mercado que exige eficiencia y seguridad.* 
-* La adopción de IA en España se duplicó al 17% en el último año, superando a Italia y Portugal según el IMIA Index. 
+*Crypto.com ha despedido al 20% de su personal global, apostando por la inteligencia artificial como su única vía de supervivencia en un mercado que exige eficiencia y seguridad.* La adopción de IA en España se duplicó al 17% en el último año, superando a Italia y Portugal según el IMIA Index. 
 * La inversión global en IA para el sector cripto superará los 2 mil millones de dólares para 2026, según proyecciones de la industria. 
 * Crypto.com mantiene un TrustScore de 1.5/5 en Trustpilot, con 9,000+ quejas sobre dificultades de retiro y altas comisiones. 
 
@@ -97,7 +95,7 @@ Recomendamos a usuarios evaluar alternativas como Kraken (comisiones desde 0.02%
 - [YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

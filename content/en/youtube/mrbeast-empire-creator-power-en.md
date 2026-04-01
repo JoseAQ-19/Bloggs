@@ -17,13 +17,12 @@ translationKey: 26f1e7b9-bb2e-af6d-1fe6-120d520bf5cf
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Ex-MrBeast Employee Reveals Child Psychology Exploitation: Horrible Effects On Brains](/images/mrbeast-empire-creator-power-en.jpg)
 
 MrBeast's viral philanthropy may be masking a darker side of content creation: the exploitation of child psychology....
 
-![Ex-MrBeast Employee Reveals Child Psychology Exploitation: Horrible Effects On Brains](/images/mrbeast-empire-creator-power-en.jpg)
 
 MrBeast's viral philanthropy may be masking a darker side of content creation: the exploitation of child psychology.
 
@@ -76,7 +75,7 @@ I believe MrBeast needs increased oversight regarding his content creation and b
 
 Virality isn't always virtue.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

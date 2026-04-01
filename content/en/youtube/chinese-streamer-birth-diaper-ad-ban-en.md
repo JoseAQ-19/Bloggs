@@ -17,13 +17,12 @@ translationKey: 67ad73f5-c068-657e-7267-76915c23c891
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Banned for Broadcasting Birth: Outrage Over Chinese Streamer's Diaper Ad Stunt](/images/chinese-streamer-birth-diaper-ad-ban-en.jpg)
 
 The influencer marketing bubble is about to burst in China, and "Paul in USA" just popped the first balloon....
 
-![Banned for Broadcasting Birth: Outrage Over Chinese Streamer's Diaper Ad Stunt](/images/chinese-streamer-birth-diaper-ad-ban-en.jpg)
 
 The influencer marketing bubble is about to burst in China, and "Paul in USA" just popped the first balloon.
 
@@ -78,7 +77,7 @@ Given the strict regulatory environment, successful ban appeals are likely chall
 
 Censorship sells.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

@@ -16,13 +16,12 @@ translationKey: 7108b301-eda0-6400-2f54-1909eea6a7c1
 type: fitness
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Air Force Fitness Fiasco: Women Face 31% Higher Injury Risk. Why?](/images/air-force-fitness-overhaul-hidden-risks-en.jpg)
 
 Without question, Air Force fitness standards, intended to maintain combat readiness, are inadvertently creating a perfect storm of injury, particularly for female airmen....
 
-![Air Force Fitness Fiasco: Women Face 31% Higher Injury Risk. Why?](/images/air-force-fitness-overhaul-hidden-risks-en.jpg)
 
 Without question, Air Force fitness standards, intended to maintain combat readiness, are inadvertently creating a perfect storm of injury, particularly for female airmen.
 
@@ -69,7 +68,7 @@ The Air Force's fitness assessment needs a critical overhaul, balancing rigorous
 
 Fit to fight, not fit to fail.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

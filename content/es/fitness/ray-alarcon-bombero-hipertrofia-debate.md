@@ -23,7 +23,6 @@ type: fitness
 
 94.4% de los bomberos con VO2 max insuficiente se consideran atléticos superiores, una contradicción mortal que alimenta el entrenamiento equivocado en los gim...
 
-![Ray Alarcón Rompe el Mito del Bombero Musculoso: Su Secreto Enfurece a los Gimnasios](/images/ray-alarcon-bombero-hipertrofia-debate.jpg)
 
 94.4% de los bomberos con VO2 max insuficiente se consideran atléticos superiores, una contradicción mortal que alimenta el entrenamiento equivocado en los gimnasios españoles. 
 * Los bomberos con VO2 max por debajo del mínimo recomendado perciben erróneamente su capacidad aeróbica en un 94.4%, según un estudio sobre autoevaluación en bomberos activos. 
@@ -86,8 +85,7 @@ La tecnología cambia el paradigma. Sensores de VO2 max en tiempo real permiten 
 
 Deja de inflar los músculos y empieza a apagar incendios. 
 
-**Protocolo ejecutable hoy mismo:** 
-1. Mide tu VO2 max con test de rampa en laboratorio o estimado con 1.5 millas en 12 minutos. 
+**Protocolo ejecutable hoy mismo:*1. Mide tu VO2 max con test de rampa en laboratorio o estimado con 1.5 millas en 12 minutos. 
 2. Si es <41 ml/min/kg, enfoca 70% del entrenamiento en HIIT (30 segundos sprint/90 segundos recuperación, 12 repeticiones). 
 3. Dedica solo 30% del tiempo a hipertrofia miofibrilar: 4-6 repeticiones con cargas del 85% 1RM en movimientos compuestos. 
 4. Incluye 2 sesiones semanales de entrenamiento de fuerza funcional con peso corporal y kettlebells. 
@@ -99,7 +97,7 @@ Este protocolo reduce el riesgo de lesiones en un 45% y mejora la capacidad oper
 - [YouTube Se Lleva el Oscar: La Revolución del Entretenimiento Digital Ya Está Aquí](/es/youtube/youtube-se-lleva-el-oscar-el-futuro-del-entretenimiento-digital/)
 - [YouTube Revela Su Impactante Resumen Personalizado de 2025 y Crea Expectativa Global](/es/youtube/youtube-unveils-personalized-year-end-recap-feature-top-overall-trends-and-creators-of-2025/)
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

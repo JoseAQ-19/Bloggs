@@ -22,7 +22,6 @@ type: youtube
 
 La verdad sobre el 23-F sigue enterrada bajo toneladas de secretismo, incluso después de la reciente desclasificación de documentos. ¿Es esta liberación una ventana a la verdad o una simple corti...
 
-![23-F: Cercas lo Clavó. El Rey Rajaba... La Bomba Declasificada.](/images/23-f-secretos-otan-eeuu.jpg)
 
 La verdad sobre el 23-F sigue enterrada bajo toneladas de secretismo, incluso después de la reciente desclasificación de documentos. ¿Es esta liberación una ventana a la verdad o una simple cortina de humo?
 
@@ -81,7 +80,7 @@ El pasado siempre vuelve para incomodar, y el 23-F sigue siendo una herida abier
 [https://www.rtve.es/noticias/20260228/documentos-desclasificados-23f-archivos/2414428.shtml](https://www.rtve.es/noticias/20260228/documentos-desclasificados-23f-archivos/2414428.shtml)
 [https://www.youtube.com/watch?v=Hy5lE8m-aBA](https://www.youtube.com/watch?v=Hy5lE8m-aBA)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

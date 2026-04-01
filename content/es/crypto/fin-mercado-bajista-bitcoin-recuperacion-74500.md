@@ -22,7 +22,6 @@ type: crypto
 
 Bitcoin a $74.500 después del halving de 2024: una euforia que podría ocultar una trampa....
 
-![Bitcoin a $74.500: La Bomba Macroeconómica Que BBVA No Quiere Que Sepas](/images/fin-mercado-bajista-bitcoin-recuperacion-74500.jpg)
 
 Bitcoin a $74.500 después del halving de 2024: una euforia que podría ocultar una trampa.
 
@@ -79,7 +78,7 @@ Bitcoin: Manejar con extrema precaución, o ser "rekteado".
 *La inversión en criptoactivos no está regulada, puede no ser adecuada para inversores minoristas y perderse la totalidad del importe invertido. Es importante leer y comprender los riesgos de esta inversión.*
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

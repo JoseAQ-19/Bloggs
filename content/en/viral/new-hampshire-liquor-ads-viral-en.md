@@ -16,13 +16,12 @@ translationKey: 067e028d-d6c4-2e9a-5228-353b96677e5d
 type: viral
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![New Hampshire Liquor Loses \$42 Million: Is Dark Humor To Blame?](/images/new-hampshire-liquor-ads-viral-en.jpg)
 
 New Hampshire's state coffers are feeling the burn after a \$42 million drop in liquor revenue. Is it a sign of changing tastes, marketing mishaps, or something more potent....
 
-![New Hampshire Liquor Loses \$42 Million: Is Dark Humor To Blame?](/images/new-hampshire-liquor-ads-viral-en.jpg)
 
 New Hampshire's state coffers are feeling the burn after a \$42 million drop in liquor revenue. Is it a sign of changing tastes, marketing mishaps, or something more potent.
 
@@ -77,7 +76,7 @@ New Hampshire liquor brands need a comprehensive marketing overhaul that priorit
 
 Sip or sink.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

@@ -16,13 +16,12 @@ translationKey: 24880993-08bb-8772-f566-097f086fdbd1
 type: fitness
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Metformin Extends Life By 5%... In Mice. Here's Why Your Doctor Is Skeptical](/images/metformin-longevity-hype-or-hope-en.jpg)
 
 The dream of extending human lifespan with a simple pill continues to entice researchers and investors, but the reality is proving complex. Metformin's potential is being...
 
-![Metformin Extends Life By 5%... In Mice. Here's Why Your Doctor Is Skeptical](/images/metformin-longevity-hype-or-hope-en.jpg)
 
 The dream of extending human lifespan with a simple pill continues to entice researchers and investors, but the reality is proving complex. Metformin's potential is being tested, but lifestyle changes and alternative strategies are also under consideration.
 
@@ -86,7 +85,7 @@ Lifestyle interventions, such as strength training, offer a potent means of prom
 
 Metformin's benefits remain unproven, and strength training should be a priority. Consistent habits are the key, not fleeting promises.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

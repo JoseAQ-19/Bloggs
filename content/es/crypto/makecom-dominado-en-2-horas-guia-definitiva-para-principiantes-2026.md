@@ -96,7 +96,7 @@ Make.com es una herramienta potente, pero no es una solución mágica para todos
 
 La automatización tiene el potencial de mejorar significativamente la eficiencia y productividad de tu empresa, pero solo si se implementa correctamente. Antes de embarcarte en cualquier proyecto de automatización, realiza un análisis exhaustivo de tus procesos y selecciona las herramientas adecuadas. Recuerda que la automatización no sustituye el pensamiento estratégico; más bien, debe ser un complemento que permita a tu equipo enfocarse en lo que realmente importa.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

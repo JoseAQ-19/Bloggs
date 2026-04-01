@@ -16,7 +16,7 @@ translationKey: f51c48eb-b8e5-17a1-8ea9-126ac31ff32d
 type: funds
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 In 2025, mutual fund fees remained at historic lows, with 71% of funds maintaining reduced expense ratios. The average expense ratio for actively managed funds was reported at 0.38%, while index funds offered even lower fees, averaging 0.11%. This trend reflects increasing competition among fund providers and a growing preference for low-cost index funds. However, as investors become more fee-conscious—57% consider fees the top factor in fund selection—experts suggest that the pressure for further fee reductions may intensify in the coming years. This analysis examines the implications of low fees, factors influencing fee structures, and strategies for investors navigating this evolving landscape.
 
@@ -79,4 +79,4 @@ The continued maintenance of historically low fees in the mutual fund industry p
 
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

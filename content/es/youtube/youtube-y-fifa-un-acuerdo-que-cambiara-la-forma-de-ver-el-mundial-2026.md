@@ -64,7 +64,7 @@ RTVE ha justificado su elevado gasto como una inversión estratégica esencial p
 
 La plataforma tiene planes de integrar datos estadísticos en vivo sobre la imagen, lo que permitirá a los espectadores tener acceso a información en tiempo real. Además, se prevé que haya visualizaciones en multicámara y soporte para Realidad Aumentada, lo que representará una experiencia completamente nueva para los aficionados.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes / Methodology & Sources
 

@@ -61,7 +61,7 @@ A pesar de la inversión masiva en tecnología, el crecimiento de la productivid
 
 La IA, en su forma actual, no es una herramienta para el progreso, sino un instrumento de dominación. Nos estamos deslizando por una pendiente resbaladiza hacia un futuro donde seremos esclavos de la tecnología, controlados y manipulados por algoritmos diseñados para maximizar las ganancias de las élites. La única esperanza es despertar de esta pesadilla tecnológica y exigir un futuro donde la tecnología sirva a la humanidad, y no al revés. O eso, o prepararnos para el inevitable colapso.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

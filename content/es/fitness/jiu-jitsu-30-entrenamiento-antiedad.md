@@ -72,7 +72,7 @@ El Jiu Jitsu es una disciplina admirable que ofrece numerosos beneficios físico
 
 La cultura de "aguantar" debe ser reevaluada y se debe fomentar una mentalidad de cuidado y prevención. Al final, la práctica del Jiu Jitsu debería ser un camino hacia la mejora personal y la longevidad, no un sendero hacia lesiones crónicas y problemas de salud a largo plazo.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

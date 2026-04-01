@@ -17,13 +17,12 @@ translationKey: 92802407-0d10-491e-2b61-32b88c7b6188
 type: fitness
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Leucine's Lie: The Supplement Industry Is Killing Your Arteries, New Study Shows](/images/leucine-atherosclerosis-risk-en.jpg)
 
 Without question, creatine is the gold standard by which all strength-related supplements are judged — but the protein market's relentless push for "more" may be driving ...
 
-![Leucine's Lie: The Supplement Industry Is Killing Your Arteries, New Study Shows](/images/leucine-atherosclerosis-risk-en.jpg)
 
 Without question, creatine is the gold standard by which all strength-related supplements are judged — but the protein market's relentless push for "more" may be driving arteries toward early failure.
 
@@ -69,7 +68,7 @@ Calculate your individual protein needs based on the recommended dietary allowan
 
 Gains today, clogged arteries tomorrow? The choice is yours.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

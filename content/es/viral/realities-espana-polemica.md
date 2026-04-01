@@ -22,7 +22,6 @@ type: viral
 
 La televisión, lejos de ser un simple entretenimiento, se ha convertido en un campo de batalla donde la ética es la primera víctima....
 
-![Aída Nízar Lo Confirma: El Horror Psicológico Detrás De Gran Hermano](/images/realities-espana-polemica.jpg)
 
 La televisión, lejos de ser un simple entretenimiento, se ha convertido en un campo de batalla donde la ética es la primera víctima.
 
@@ -96,7 +95,7 @@ Es fundamental que los espectadores evalúen críticamente el contenido que cons
 
 Apaga la tele, enciende tu vida.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

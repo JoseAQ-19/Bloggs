@@ -65,7 +65,7 @@ La solución a esta crisis no se encuentra en una simple regulación, sino en un
 
 Glovo no debe ser visto como el futuro del trabajo, sino como un recordatorio del pasado oscuro que creíamos haber superado. La posibilidad de un futuro laboral más humano y justo es posible, pero requiere un esfuerzo colectivo y decidido. La distopía ya está aquí, y es hora de tomar una posición clara: exigir un cambio es necesario para garantizar la dignidad y los derechos de todos los trabajadores.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

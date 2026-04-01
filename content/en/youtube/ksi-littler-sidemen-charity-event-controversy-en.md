@@ -18,13 +18,12 @@ translationKey: 05744978-6901-e8b5-cc90-cde4e6d12411
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![KSI's Littler Ban Sparks Outrage: Sidemen Sunday Views Face 24% Viewbot Crackdown Risk](/images/ksi-littler-sidemen-charity-event-controversy-en.jpg)
 
 The next influencer scandal isn't a matter of "if," but "when," as platforms grapple with how to enforce ethical lines in an increasingly blurry di...
 
-![KSI's Littler Ban Sparks Outrage: Sidemen Sunday Views Face 24% Viewbot Crackdown Risk](/images/ksi-littler-sidemen-charity-event-controversy-en.jpg)
 
 The next influencer scandal isn't a matter of "if," but "when," as platforms grapple with how to enforce ethical lines in an increasingly blurry digital landscape.
 
@@ -75,7 +74,7 @@ The Twitch's viewbotting crackdown underscores the importance of accurate and re
 ## The Bottom Line
 Celebrity endorsements should be regulated more aggressively, requiring influencers to conduct thorough due diligence on the products they promote and disclose any potential conflicts of interest. Transparency is trending, and any attempt to manipulate the market is a losing game.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

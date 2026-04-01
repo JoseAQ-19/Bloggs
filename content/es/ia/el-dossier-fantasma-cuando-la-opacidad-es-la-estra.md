@@ -59,7 +59,7 @@ El "dossier fantasma" de la corrupción en México es un monumento a la impunida
 
 No habrá "cultura de transparencia", ni "rendición de cuentas", ni "participación ciudadana". México está condenado a repetir la misma historia una y otra vez. La corrupción seguirá floreciendo, los políticos seguirán enriqueciéndose y el pueblo seguirá sufriendo. Este es el verdadero legado de la "transformación". Un fracaso monumental.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

@@ -62,7 +62,7 @@ Cuando los usuarios emplean la versión gratuita o la API de Claude, sus datos s
 
 La confianza en las herramientas de IA se ve comprometida por la falta de claridad en las políticas de privacidad y el temor a la utilización indebida de datos. A medida que más empresas y usuarios se suman a la tendencia de utilizar herramientas de IA, la necesidad de una regulación efectiva y una mayor transparencia se vuelve cada vez más urgente.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

@@ -79,7 +79,7 @@ Estamos avanzando hacia un escenario donde todo se convierte en un servicio de s
 
 La única forma de combatir esta tendencia es la rebelión. Los consumidores deben abandonar las suscripciones y optar por compras únicas. La transparencia y el control son esenciales para recuperar la estabilidad financiera. Sin embargo, la realidad es que la mayoría de las empresas seguirán ignorando estas necesidades mientras puedan continuar exprimiendo a los consumidores.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

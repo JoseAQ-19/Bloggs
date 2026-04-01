@@ -73,7 +73,7 @@ El estallido de la burbuja en Silicon Valley no solo es probable, sino inminente
 
 Silicon Valley parece estar condenado a repetir los errores del pasado, dejando un rastro de desilusión y ruina económica. A pesar de las lecciones que se pueden aprender de las burbujas anteriores, la historia sugiere que los actores del mercado seguirán ignorando las advertencias.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

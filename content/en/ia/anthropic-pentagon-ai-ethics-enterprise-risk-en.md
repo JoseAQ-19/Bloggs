@@ -16,13 +16,12 @@ translationKey: ceeecf73-af25-99d2-a4cc-8953cab3341f
 type: ia
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Anthropic Just Broke Trust: The Pentagon Fallout Nobody Is Talking About](/images/anthropic-pentagon-ai-ethics-enterprise-risk-en.jpg)
 
 Anthropic's shiny "AI safety" halo is starting to slip, revealing a much less comforting reality beneath....
 
-![Anthropic Just Broke Trust: The Pentagon Fallout Nobody Is Talking About](/images/anthropic-pentagon-ai-ethics-enterprise-risk-en.jpg)
 
 Anthropic's shiny "AI safety" halo is starting to slip, revealing a much less comforting reality beneath.
 
@@ -77,7 +76,7 @@ Enterprises should demand full transparency and verifiable safety protocols befo
 
 Trust, but verify... especially with AI.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

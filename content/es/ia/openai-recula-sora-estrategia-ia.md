@@ -22,7 +22,6 @@ type: ia
 
 OpenAI acaba de cometer un acto de canibalismo financiero al admitir que su modelo generador de vídeo, Sora, era un agujero negro económico que quemaba 1,30 dólares por cad...
 
-![OpenAI Admite el Fracaso de Sora: Gastaba 1,30$ Por Video y Esto Es el Motivo](/images/openai-recula-sora-estrategia-ia.jpg)
 
 OpenAI acaba de cometer un acto de canibalismo financiero al admitir que su modelo generador de vídeo, Sora, era un agujero negro económico que quemaba 1,30 dólares por cada clip de 10 segundos.
 
@@ -52,7 +51,7 @@ Además, la competencia no se duerme. Mientras OpenAI quemaba dinero, Anthropic 
 - [YouTube Se Lleva el Oscar: La Revolución del Entretenimiento Digital Ya Está Aquí](/es/youtube/youtube-se-lleva-el-oscar-el-futuro-del-entretenimiento-digital/)
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

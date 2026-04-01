@@ -22,7 +22,6 @@ type: youtube
 
 YouTube ha activado el protocolo de máxima alerta: ahora exige a creadores como Ibai Llanos o ElRubius que confiesen si han usado IA, bajo amenaza de eliminar sus ingresos....
 
-![YouTube Te Espía: ¿Preparado Para Confesar Si Tu Video Lo Creó Una IA?](/images/youtube-deteccion-ia-honestidad-digital.jpg)
 
 YouTube ha activado el protocolo de máxima alerta: ahora exige a creadores como Ibai Llanos o ElRubius que confiesen si han usado IA, bajo amenaza de eliminar sus ingresos. España se ha convertido inexplicablemente en el epicentro mundial del consumo de "basura" generada por IA, con más de 20 millones de suscriptores atrapados en esta burbuja de contenido sintético.
 
@@ -70,7 +69,7 @@ Luis Serrano, coordinador de Redes Ayuda y defensor de derechos digitales
 - [YouTube Se Lleva el Oscar: La Revolución del Entretenimiento Digital Ya Está Aquí](/es/youtube/youtube-se-lleva-el-oscar-el-futuro-del-entretenimiento-digital/)
 - [YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

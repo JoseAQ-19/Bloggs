@@ -51,7 +51,7 @@ Information integrity is paramount in medical decision-making, and the current e
 - [Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](/en/youtube/youtube-sports-subscription-live-streaming-en/)
 - [YouTube TV’s Subscriber Tsunami: Is This The End Of Traditional Cable?](/en/youtube/youtube-tv-dish-sling-streaming-wars-en/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

@@ -63,7 +63,7 @@ El cambio climático presenta un reto sin precedentes para las costas españolas
 
 A medida que las ciudades costeras como Barcelona, Vigo y Cádiz enfrentan un futuro incierto, es esencial que la gestión costera evolucione para priorizar la sostenibilidad y la seguridad a largo plazo. La estrategia de "luchar contra el mar" mediante la construcción de estructuras rígidas y la inversión en soluciones temporales ha demostrado ser insostenible. Es imperativo adoptar enfoques más integrados y naturales que consideren tanto la realidad climática como las necesidades de las comunidades costeras.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional.*
 
 ## Metodología y Fuentes
 

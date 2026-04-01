@@ -84,7 +84,7 @@ El camino hacia adelante debe centrarse en la creación de tecnologías que mejo
 
 El metaverso no solo ha muerto, sino que debe permanecer enterrado. La historia del metaverso es un recordatorio de que no todas las innovaciones tecnológicas conducen al progreso; a veces, son simplemente humo y espejos. En lugar de seguir persiguiendo visiones fallidas, es hora de que la comunidad tecnológica redireccione su energía hacia desarrollos que beneficien a la sociedad en su conjunto.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

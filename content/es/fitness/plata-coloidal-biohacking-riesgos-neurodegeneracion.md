@@ -88,10 +88,9 @@ En vez de recurrir a suplementos de eficacia no probada, considera las siguiente
 
 ## Artículos relacionados
 
-- **El timo del agua alcalina: verdades y mentiras** 
-- **Dietas milagro: el peligro de jugarse la salud**
+- **El timo del agua alcalina: verdades y mentiras*- **Dietas milagro: el peligro de jugarse la salud**
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

@@ -16,7 +16,7 @@ translationKey: 623892cb-1cd3-577f-a4c4-e928506c286d
 type: tools
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 - Visa's AI chargeback tool may incur losses of $11.5 billion by 2027 due to generative AI hallucinations that fabricate evidence.
 - Deloitte forecasts that generative AI email fraud losses will reach $40 billion in the U.S. by 2027, highlighting vulnerabilities in automated fraud defenses.
@@ -62,7 +62,7 @@ The market for AI-driven fraud detection is rapidly expanding, projected to exce
 
 The technical bottleneck will transition from detection to attribution. Identifying whether a transaction was genuinely fraudulent or merely a "hallucination" produced by the detection system will emerge as the primary legal battleground. Solutions such as blockchain and zero-knowledge proofs may provide pathways for establishing immutable audit trails that AI cannot easily alter. Until the financial sector transitions from probabilistic AI to cryptographic verification, the $11.5 billion loss projection remains conservative. The system is evolving at a pace that exceeds its capacity to uphold truth.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice.*
 
 ## Methodology and Sources
 

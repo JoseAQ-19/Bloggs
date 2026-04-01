@@ -22,7 +22,6 @@ type: viral
 
 En un mundo donde la información fluye sin control, las opiniones de *influencers* sobre temas de salud pueden tener consecuencias devastadoras. La controversia generada po...
 
-![Carriedo Desata la Ira Médica: ¿Peligran el 93% de Niños Vacunados?](/images/marta-carriedo-polemica-vacunas-infantiles.jpg)
 
 En un mundo donde la información fluye sin control, las opiniones de *influencers* sobre temas de salud pueden tener consecuencias devastadoras. La controversia generada por la *influencer* Marta Carriedo al cuestionar la seguridad de las vacunas es un claro ejemplo de cómo la libertad de expresión puede chocar con la salud pública.
 
@@ -74,7 +73,7 @@ El resurgimiento de la tosferina es un legado silencioso de la controversia vacu
 
 Las vacunas son uno de los mayores avances de la medicina y han salvado millones de vidas a lo largo de la historia. Dejemos de escuchar a *influencers* en temas de salud y consultemos a profesionales médicos. La ignorancia es una enfermedad.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

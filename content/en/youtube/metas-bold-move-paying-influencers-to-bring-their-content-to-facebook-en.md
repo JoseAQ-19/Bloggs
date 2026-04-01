@@ -16,7 +16,7 @@ translationKey: 1404889c-fa81-61a2-303f-465b885c87e1
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 Meta’s recent decision to allocate nearly $3 billion to influencers in 2025 has raised eyebrows, but a deeper analysis reveals that this move is primarily a defensive strategy to combat declining user engagement on its platforms, Facebook and Instagram. While the payout figure appears substantial, it pales in comparison to YouTube's $20 billion in creator compensation during the same timeframe. The disparity in revenue-sharing models highlights a troubling reality for creators on Meta's platforms, which are struggling to sustain viable business models in an increasingly competitive landscape. This article delves into the implications and limitations of Meta's investment in influencer economics, the disparity in revenue-sharing between platforms, and the strategic motives behind such payouts.
 
@@ -52,7 +52,7 @@ The implications of Meta's payout strategy extend beyond its platforms. As influ
 
 This could lead to a scenario where creators prioritize platforms that offer better financial incentives, potentially exacerbating Meta's struggles to retain content creators. The end result could be a vicious cycle where Meta's financial investments fail to yield the desired outcomes, prompting further desperation and potentially leading to more significant financial losses.
 
-*YMYL Disclaimer: For informational purposes only.*
+*Aviso Editorial:* For informational purposes only.*
 
 ## Methodology and Sources
 

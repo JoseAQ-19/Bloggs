@@ -92,7 +92,7 @@ Para garantizar el bienestar de los therians, es esencial priorizar la educació
 
 La identidad therian es una expresión legítima para muchos, pero no está exenta de riesgos. La empatía, combinada con una atención profesional crítica y bien informada, es clave para garantizar que este fenómeno sea entendido y abordado de manera responsable.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

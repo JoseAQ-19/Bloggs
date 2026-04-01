@@ -54,7 +54,7 @@ El problema no es la centralización en sí misma, sino el abuso de poder. La so
 
 El modelo de Silicon Valley ha fracasado. Su legado no es la innovación y el progreso, sino la desigualdad, la opresión y la destrucción del tejido social. La descentralización es una quimera. La única esperanza reside en la creación de un nuevo contrato social que limite el poder de las grandes corporaciones y proteja los derechos de los ciudadanos. Este contrato debe basarse en los principios de la justicia, la igualdad y la sostenibilidad. Y debe ser impuesto por una autoridad legítima y democrática. Sin este nuevo contrato, estamos condenados a un futuro de tecnofeudalismo, donde la tecnología se convierte en un instrumento de control y dominación. No hay otra alternativa.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

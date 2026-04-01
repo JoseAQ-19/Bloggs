@@ -23,7 +23,6 @@ type: fitness
 
 La presión por recuperar la figura "pre-bebé" es una trampa cruel que ignora la crisis de salud mental que afecta a la gran mayoría de las madres primeriza...
 
-![¡Escándalo Postparto! El Secreto Fitness Que Esconde El 90% De La Depresión Maternal](/images/cuerpos-celebrity-metodo-fitness-hollywood.jpg)
 
 La presión por recuperar la figura "pre-bebé" es una trampa cruel que ignora la crisis de salud mental que afecta a la gran mayoría de las madres primerizas. La obsesión con el "bounce back" esconde una realidad mucho más oscura.
 
@@ -79,7 +78,7 @@ Estamos firmemente del lado de la paciencia, el autocuidado y la priorización d
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 - [YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

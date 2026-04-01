@@ -72,7 +72,7 @@ La revelación del mundo en 2026 no se puede entender como un evento aislado, si
 
 Si alguien aún cree en la posibilidad de un orden mundial cooperativo, se encuentra en una burbuja de autoengaño. La geopolítica del futuro se caracteriza por un constante juego de poder, donde la astucia y la determinación serán más relevantes que los ideales compartidos. Despertar a esta nueva realidad es fundamental para cualquier nación que desee navegar las complejidades del mundo que hemos heredado.
 
-*Aviso YMYL: Información educativa. Consulte especialistas para un análisis más profundo y contextualizado sobre estos temas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas para un análisis más profundo y contextualizado sobre estos temas.*
 
 ## Metodología y Fuentes
 

@@ -16,13 +16,12 @@ translationKey: 2bb3862d-0754-085b-1910-9afc72c2c33c
 type: fitness
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![$278 Billion Fitness Lie: How Injury Influencers Are Ripping You Off](/images/fitness-fraud-influencer-injury-en.jpg)
 
 Without question, the fitness industry, slated to reach $278 billion by 2026, harbors injury influencers who prioritize profit over well-being through dubious tactics....
 
-![$278 Billion Fitness Lie: How Injury Influencers Are Ripping You Off](/images/fitness-fraud-influencer-injury-en.jpg)
 
 Without question, the fitness industry, slated to reach $278 billion by 2026, harbors injury influencers who prioritize profit over well-being through dubious tactics.
 
@@ -67,7 +66,7 @@ Before following any fitness advice, thoroughly research the influencer's backgr
 
 Abs may be bought, not earned.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

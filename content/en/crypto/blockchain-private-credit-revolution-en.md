@@ -18,13 +18,12 @@ translationKey: 8fc8f8f8-1bd9-9201-3f84-0b928749377f
 type: crypto
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Ex-Blackstone Team's $25M Bid Could Disrupt $3.2 Trillion Private Credit Market](/images/blockchain-private-credit-revolution-en.jpg)
 
 Global liquidity is tightening as the Federal Reserve signals a prolonged higher-for-longer rate environment, yet a group of ex-Blackstone executives is betting $2...
 
-![Ex-Blackstone Team's $25M Bid Could Disrupt $3.2 Trillion Private Credit Market](/images/blockchain-private-credit-revolution-en.jpg)
 
 Global liquidity is tightening as the Federal Reserve signals a prolonged higher-for-longer rate environment, yet a group of ex-Blackstone executives is betting $25 million that tokenization can bypass traditional banking bottlenecks. This bid targets a friction point in the $3.2 trillion private credit market, ignoring the regulatory headwinds that have stalled previous institutional forays into digital assets.
 
@@ -170,7 +169,7 @@ The bid from the ex-Blackstone team represents a pivotal moment for the private 
 
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

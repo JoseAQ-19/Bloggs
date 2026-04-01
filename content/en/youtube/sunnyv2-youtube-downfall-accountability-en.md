@@ -16,13 +16,12 @@ translationKey: 0428a6d7-7abb-6c67-edbf-549abf79998c
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![SunnyV2's Downfall: The \$50 Million Mistake Every Influencer Should Fear](/images/sunnyv2-youtube-downfall-accountability.en.jpg)
 
 SunnyV2's troubles reveal a harsh reality: the influencer "bubble" is bursting as ethics and accountability take center stage....
 
-![SunnyV2's Downfall: The \$50 Million Mistake Every Influencer Should Fear](/images/sunnyv2-youtube-downfall-accountability.en.jpg)
 
 SunnyV2's troubles reveal a harsh reality: the influencer "bubble" is bursting as ethics and accountability take center stage.
 
@@ -78,7 +77,7 @@ All influencers should conduct an ethics audit of their past and future content 
 
 Integrity over influence.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

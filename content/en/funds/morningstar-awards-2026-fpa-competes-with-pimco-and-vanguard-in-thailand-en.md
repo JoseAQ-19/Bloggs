@@ -16,13 +16,12 @@ translationKey: daafb8a2-5ffd-f296-a4a9-b6e7200e9148
 type: funds
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard in Thailand](/images/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-in-thailand-en.jpg)
 
 In Thailand's evolving investment landscape, mutual funds are increasingly competing for investor attention, with a remarkable 22% in...
 
-![Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard in Thailand](/images/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-in-thailand-en.jpg)
 
 In Thailand's evolving investment landscape, mutual funds are increasingly competing for investor attention, with a remarkable 22% increase in mutual fund assets year-over-year. 
 
@@ -111,7 +110,7 @@ The competition in the Thai mutual fund market is intense, with FPA, PIMCO, and 
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

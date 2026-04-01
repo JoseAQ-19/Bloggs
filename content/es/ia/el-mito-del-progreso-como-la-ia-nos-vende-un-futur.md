@@ -56,7 +56,7 @@ La dependencia de infraestructuras privadas como Google y Facebook crea una form
 
 La IA no es el futuro, sino un callejón sin salida. La tecnología actual enfrenta rendimientos decrecientes y problemas de fiabilidad intrínsecos (alucinaciones, falta de comprensión real) que no se solucionan simplemente añadiendo más datos o energía. Estamos ante una reconfiguración de las dinámicas de poder global, donde la promesa de eficiencia y autonomía esconde una realidad de dependencia tecnológica, consumo insostenible de recursos y precarización laboral. La IA es una herramienta para consolidar el control, no para liberarnos. Es hora de desenmascarar esta farsa y exigir un futuro donde la tecnología sirva a la humanidad, no al revés. **Como argumenta acertadamente Jaron Lanier** , la IA es más una forma de "narración" que una verdadera inteligencia. El poder de la IA reside en convencernos de su valor.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

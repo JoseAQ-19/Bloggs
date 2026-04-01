@@ -79,7 +79,7 @@ La "personalidad artificial" de la IA no es una innovación; es una herramienta 
 
 El futuro no se trata de que la IA se vuelva más humana; se trata de que los humanos se vuelvan más conscientes de las decepciones de la IA. El primer paso es reconocer que la personalidad encantadora de la IA no es más que un engaño sofisticado. La responsabilidad recae sobre nosotros, como sociedad, para cuestionar y regular estas tecnologías antes de que se conviertan en una parte integral de nuestra vida diaria.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

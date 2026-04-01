@@ -22,7 +22,6 @@ type: youtube
 
 La inteligencia artificial no va a democratizar la música, va a pauperizar a los músicos. Se avecina una tormenta perfecta donde la creatividad humana podría valer menos que un ...
 
-![¡Pánico Musical! La IA Robará 100 Millones A Artistas Españoles En Un Año](/images/10-temazos-electronicos-youtube.jpg)
 
 La inteligencia artificial no va a democratizar la música, va a pauperizar a los músicos. Se avecina una tormenta perfecta donde la creatividad humana podría valer menos que un algoritmo bien programado.
 
@@ -100,7 +99,7 @@ Los artistas deben informarse sobre las leyes de copyright y explorar maneras de
 
 La música es un arte, no un algoritmo.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

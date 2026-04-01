@@ -16,13 +16,12 @@ translationKey: 5b7e4f20-4c8f-4756-63e7-38bdf2ed878d
 type: fitness
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![UTMB Coach Drops Truth Bomb: VO2 Max Is the WORST Predictor for Runners](/images/beyond-vo2-max-better-biomarkers-en.jpg)
 
 VO2 max, often considered the gold standard for endurance athletes, may be less reliable than previously thought. Some experts now argue that focusing solely on VO2 max is an ...
 
-![UTMB Coach Drops Truth Bomb: VO2 Max Is the WORST Predictor for Runners](/images/beyond-vo2-max-better-biomarkers-en.jpg)
 
 VO2 max, often considered the gold standard for endurance athletes, may be less reliable than previously thought. Some experts now argue that focusing solely on VO2 max is an oversimplification of endurance performance.
 
@@ -76,7 +75,7 @@ High resting HRV at baseline was associated with good adaptation to endurance tr
 
 VO2 max is not the sole determinant of endurance performance. Prioritize lactate threshold and running economy to unlock your full potential.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

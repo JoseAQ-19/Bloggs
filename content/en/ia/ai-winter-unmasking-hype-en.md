@@ -16,13 +16,12 @@ translationKey: 98986a34-79a6-eae5-2235-17169ca260d8
 type: ia
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![AI Utopia? 6% Of Companies Actually Use AI, Experts Predict Imminent Crash](/images/ai-winter-unmasking-hype-en.jpg)
 
 Only 6% of large companies globally have actually deployed enterprise AI tools, suggesting the AI revolution may be more mirage than reality....
 
-![AI Utopia? 6% Of Companies Actually Use AI, Experts Predict Imminent Crash](/images/ai-winter-unmasking-hype-en.jpg)
 
 Only 6% of large companies globally have actually deployed enterprise AI tools, suggesting the AI revolution may be more mirage than reality.
 
@@ -73,7 +72,7 @@ They require a critical examination of the technology's potential benefits and r
 ## The Bottom Line
 The AI narrative feels a little too close to 17th-century tulip mania. Don't drink the Kool-Aid.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

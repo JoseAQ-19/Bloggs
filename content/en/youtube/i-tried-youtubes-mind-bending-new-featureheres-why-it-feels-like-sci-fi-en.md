@@ -19,20 +19,18 @@ translationKey: cd68efd2-28f2-3f13-f4b7-937f01753674
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![YouTube’s New AI Feature Feeds Your Worst Biases: The Shocking Truth Behind Its Algorithm](/images/i-tried-youtubes-mind-bending-new-featureheres-why-it-feels-like-sci-fi-en.jpg)
 
 **YouTube’s New AI Feature Feeds Your Worst Biases: The Shocking Truth Behind Its Algorithm**...
 
-![YouTube’s New AI Feature Feeds Your Worst Biases: The Shocking Truth Behind Its Algorithm](/images/i-tried-youtubes-mind-bending-new-featureheres-why-it-feels-like-sci-fi-en.jpg)
 
 **YouTube’s New AI Feature Feeds Your Worst Biases: The Shocking Truth Behind Its Algorithm**
 
 ---
 
-**YouTube’s algorithm is feeding 78% of news content to its users, creating echo chambers that amplify biases and misinformation, with real-world consequences.** 
-
+**YouTube’s algorithm is feeding 78% of news content to its users, creating echo chambers that amplify biases and misinformation, with real-world consequences.*
 * YouTube’s recommendation engine accounts for 78% of the news viewed on the platform, according to the Tech Transparency Project. 
 * In 2019, YouTube and Google paid $170 million in fines for violating children’s privacy laws by collecting personal data without parental consent (FTC). 
 * Research shows YouTube’s algorithm directs users toward more extreme and polarizing content, leading to increased social division (**Zeynep Tufekci**). 
@@ -131,7 +129,7 @@ If YouTube’s AI continues to feed our worst biases, the cost will be more than
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

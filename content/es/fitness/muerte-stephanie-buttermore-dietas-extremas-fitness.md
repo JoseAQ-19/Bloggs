@@ -66,7 +66,7 @@ La trágica historia de Stephanie Buttermore y otros influencers del fitness sub
 
 Los lectores deben buscar la orientación de profesionales calificados al establecer planes de dieta y ejercicio que se adapten a sus necesidades. Evitar caer en la trampa de soluciones rápidas y estándares de belleza inalcanzables es esencial. La verdadera salud se mide por el bienestar integral, que incluye tanto el estado físico como mental. 
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

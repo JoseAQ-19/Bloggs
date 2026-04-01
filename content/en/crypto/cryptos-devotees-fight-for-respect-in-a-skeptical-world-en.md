@@ -16,13 +16,12 @@ translationKey: fe39cd22-cf2a-9cdb-6915-21dcdeb2870b
 type: crypto
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![98 Billion Dollars: The Shocking Decline of DeFi TVL and Its Consequences](/images/cryptos-devotees-fight-for-respect-in-a-skeptical-world-en.jpg)
 
 Total Value Locked (TVL) in decentralized finance has collapsed by $72 billion since late 2025, shattering the illusion of endless yield and exposing ...
 
-![98 Billion Dollars: The Shocking Decline of DeFi TVL and Its Consequences](/images/cryptos-devotees-fight-for-respect-in-a-skeptical-world-en.jpg)
 
 Total Value Locked (TVL) in decentralized finance has collapsed by $72 billion since late 2025, shattering the illusion of endless yield and exposing the sector's structural fragility.
 
@@ -93,7 +92,7 @@ SEC Chair Paul S. Atkins has articulated a regulatory framework that ignores the
 - [Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](/en/youtube/youtube-sports-subscription-live-streaming-en/)
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

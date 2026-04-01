@@ -52,7 +52,7 @@ La falta de reconocimiento de Bitcoin como activo colateral por parte de los ban
 Bitcoin no es oro digital. Es una burbuja dorada, brillante y atractiva, pero inherentemente frágil e inestable. En momentos de crisis, cuando la confianza se evapora y la incertidumbre reina, los inversores huyen de Bitcoin como de la peste y se refugian en la seguridad del oro, el verdadero refugio seguro. Aferrarse a la idea de que Bitcoin es el futuro de las finanzas es un error costoso. Deshágase de sus Bitcoins mientras aún tengan algún valor. El invierno cripto no ha terminado, y esta vez, podría ser permanente.
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

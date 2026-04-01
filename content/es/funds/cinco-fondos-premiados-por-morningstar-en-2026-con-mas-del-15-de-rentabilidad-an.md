@@ -23,7 +23,6 @@ type: funds
 
 En 2026, existen cinco fondos de inversión destacados que han logrado rentabilidades anuales superiores al 15%, lo qu...
 
-![Cinco fondos premiados por Morningstar en 2026 con más del 15% de rentabilidad anual](/images/cinco-fondos-premiados-por-morningstar-en-2026-con-mas-del-15-de-rentabilidad-an.jpg)
 
 En 2026, existen cinco fondos de inversión destacados que han logrado rentabilidades anuales superiores al 15%, lo que representa una tendencia notable en el entorno financiero actual. 
 
@@ -78,7 +77,7 @@ La diversificación puede lograrse combinando fondos de diferentes categorías y
 
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

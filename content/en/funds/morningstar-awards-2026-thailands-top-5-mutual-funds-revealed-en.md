@@ -16,22 +16,18 @@ translationKey: 65aa3afe-88b7-275c-b0c4-307553f59da8
 type: funds
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Morningstar Awards 2026: Thailand's Top 5 Mutual Funds Revealed](/images/morningstar-awards-2026-thailands-top-5-mutual-funds-revealed-en.jpg)
 
 ## Morningstar Awards 2026: Thailand's Top 5 Mutual Funds Revealed...
 
-![Morningstar Awards 2026: Thailand's Top 5 Mutual Funds Revealed](/images/morningstar-awards-2026-thailands-top-5-mutual-funds-revealed-en.jpg)
 
 ## Morningstar Awards 2026: Thailand's Top 5 Mutual Funds Revealed
 
 A remarkable **60% of mutual funds in Thailand outperformed their benchmarks over the last five years**, highlighting a competitive landscape for investors. 
 
-* **60% of funds outperformed benchmarks — Morningstar** 
-* **Average expense ratios declined to 0.75% — SEC** 
-* **5-year returns averaged 12.5% — Morningstar** 
-
+* **60% of funds outperformed benchmarks — Morningstar** **Average expense ratios declined to 0.75% — SEC** **5-year returns averaged 12.5% — Morningstar*
 The Morningstar Awards for Investing Excellence Thailand 2026 recently spotlighted the top-performing mutual funds in the region, reflecting the dynamic nature of the mutual fund market amidst evolving investor preferences. This year's awards not only recognize stellar performance but also underscore the importance of cost efficiency in fund management. With fees remaining near historic lows, mutual funds have become increasingly attractive to retail investors. 
 
 ## Performance Overview of Top Funds
@@ -122,7 +118,7 @@ Our analysis indicates that the Thai mutual fund market is evolving, with a prom
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

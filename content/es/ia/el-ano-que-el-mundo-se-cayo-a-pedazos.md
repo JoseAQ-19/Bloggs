@@ -77,7 +77,7 @@ El año 2025 representa una advertencia clara: el sistema global está roto y no
 #### La Necesidad de una Transformación Radical
 Si no se produce una transformación profunda, el futuro se presenta sombrío. La creciente desigualdad, tal y como se revela en la investigación de la Universidad de Oxford, debería ser lectura obligada para todos los líderes mundiales. El camino que estamos siguiendo es un desastre anunciado, y es imperativo que se tomen medidas inmediatas para evitar una implosión catastrófica.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

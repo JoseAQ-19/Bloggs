@@ -78,7 +78,7 @@ La obsesión con el metaverso no solo es una distracción peligrosa, sino que ta
 
 El metaverso, en su estado actual, no es el futuro; es un callejón sin salida.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

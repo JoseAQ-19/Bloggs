@@ -16,13 +16,12 @@ translationKey: 1dac75ed-efa9-0567-e4e6-05a717c3ae45
 type: viral
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Cruise Balcony Deaths: The Terrifying 40% That Cruise Lines Won't Tell You](/images/cruise-line-balcony-nightmare-en.jpg)
 
 Balcony falls account for 40% of all passenger overboard incidents on cruise ships, yet many lines downplay this risk. Your romantic sea-view vacation might be statistically m...
 
-![Cruise Balcony Deaths: The Terrifying 40% That Cruise Lines Won't Tell You](/images/cruise-line-balcony-nightmare-en.jpg)
 
 Balcony falls account for 40% of all passenger overboard incidents on cruise ships, yet many lines downplay this risk. Your romantic sea-view vacation might be statistically more dangerous than you realize.
 * Approximately 28% of people who go overboard from cruise ships are rescued alive (Kherkher Garcia).
@@ -87,7 +86,7 @@ These choices occur within a carefully constructed environment designed to maxim
 
 The sociological dimension reveals a deeper truth about risk perception. Many cruise passengers view these ships as floating resorts rather than vessels operating in dangerous marine environments. This false sense of security leads to behaviors that would be unthinkable on land—sitting on balcony railings, leaning over guardrails, or accessing restricted areas. [Quora discussions](
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

@@ -16,13 +16,12 @@ translationKey: a016ca2a-fe9d-fb3e-638a-0da8ae612fa7
 type: viral
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![CRISPR Olympics: Gene Editing Super Athletes Could Dominate 2026 Winter Games](/images/doping-arms-race-2026-olympics-en.jpg)
 
 CRISPR Olympics: Gene Editing "Super Athletes" Could Dominate 2026 Winter Games...
 
-![CRISPR Olympics: Gene Editing Super Athletes Could Dominate 2026 Winter Games](/images/doping-arms-race-2026-olympics-en.jpg)
 
 CRISPR Olympics: Gene Editing "Super Athletes" Could Dominate 2026 Winter Games
 
@@ -79,7 +78,7 @@ Sports organizations must prioritize the development of advanced detection metho
 
 Fairness first, always.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

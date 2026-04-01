@@ -77,7 +77,7 @@ El metaverso, tal como fue presentado, está muerto y enterrado. No habrá resur
 
 El futuro no radica en mundos virtuales hiperrealistas, sino en aplicaciones prácticas que realmente mejoren nuestras vidas. La realidad aumentada tiene un potencial significativo, pero requiere un enfoque más pragmático y menos fantasioso. A medida que el metaverso se desvanece, se hace evidente que la próxima gran innovación no será un espacio digital utópico, sino herramientas y aplicaciones que faciliten la vida cotidiana.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

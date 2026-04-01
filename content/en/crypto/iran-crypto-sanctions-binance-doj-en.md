@@ -16,13 +16,12 @@ translationKey: 4a103d58-ff60-0f6d-7ff8-0d6af9485372
 type: crypto
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Binance's $1 Billion+ Terror Network: DOJ Uncovers Iran's Sanctions Dodge](/images/iran-crypto-sanctions-binance-doj-en.jpg)
 
 The illusion of regulatory compliance is crumbling as investigations reveal crypto's utility in bypassing international sanctions....
 
-![Binance's $1 Billion+ Terror Network: DOJ Uncovers Iran's Sanctions Dodge](/images/iran-crypto-sanctions-binance-doj-en.jpg)
 
 The illusion of regulatory compliance is crumbling as investigations reveal crypto's utility in bypassing international sanctions.
 
@@ -80,7 +79,7 @@ The future of crypto depends on its ability to demonstrate that it can be a resp
 
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

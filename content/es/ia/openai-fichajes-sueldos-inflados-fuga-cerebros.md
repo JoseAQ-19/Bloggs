@@ -62,7 +62,7 @@ Es imperativo que el ecosistema tecnológico español, incluidos inversionistas,
 
 La educación superior en España debe adaptarse para formar a la próxima generación de expertos en IA. Esto incluye no solo la enseñanza técnica, sino también habilidades prácticas y experiencia en el mundo real. Las universidades deben colaborar con la industria para desarrollar programas que preparen a los estudiantes para las demandas del mercado laboral actual.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

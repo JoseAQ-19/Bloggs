@@ -22,7 +22,6 @@ type: ia
 
 España está dormida ante la masacre digital inminente, mientras sus instituciones de defensas reaccionan con la velocidad de una máquina de escribir frente a un ataque de misiles hiper...
 
-![España Duerme: Deepfakes Bélicos Aumentan 191% y Nadie Está Preparado.](/images/deepfakes-belicos-ia-espana.jpg)
 
 España está dormida ante la masacre digital inminente, mientras sus instituciones de defensas reaccionan con la velocidad de una máquina de escribir frente a un ataque de misiles hipersónicos.
 
@@ -50,7 +49,7 @@ El coste económico de esta laguna legal es astronómico. Hablamos de potenciale
 - [YouTube Se Lleva el Oscar: La Revolución del Entretenimiento Digital Ya Está Aquí](/es/youtube/youtube-se-lleva-el-oscar-el-futuro-del-entretenimiento-digital/)
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

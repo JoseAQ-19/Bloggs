@@ -25,7 +25,6 @@ type: viral
 **📌 Lo esencial:**
 * Las estafas de deepfake costaron 929 millones de euros en España durante 2025, impulsadas por un aumento del 1,400% en los fraudos di...
 
-![La Manipulación Mediática De Óscar Puente: 929 Millones En Estafas De IA](/images/oscar-puente-rejuvenecimiento-ia-manipulacion-mediatica.jpg)
 
 **📌 Lo esencial:**
 * Las estafas de deepfake costaron 929 millones de euros en España durante 2025, impulsadas por un aumento del 1,400% en los fraudos digitales **Agencia Española de Protección de Datos (AEPD)**.
@@ -107,7 +106,7 @@ La manipulación mediática a través de deepfakes ya no es una amenaza futurist
 - [La Alianza YouTube-FIFA: 5 Mil Millones de Espectadores En El Mundial 2026](/es/youtube/youtube-y-fifa-un-acuerdo-que-cambiara-la-forma-de-ver-el-mundial-2026/)
 - [YouTube Revive La Nostalgia: 7 Programas Icónicos De Los 2000s Que Regresan Con Fuerza](/es/youtube/youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

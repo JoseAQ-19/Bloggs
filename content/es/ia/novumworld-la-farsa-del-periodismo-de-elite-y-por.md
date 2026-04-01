@@ -91,7 +91,7 @@ Las empresas tecnológicas no son la solución a la crisis informativa; son cóm
 
 El periodismo que merecemos no es un "pilar fundamental de la democracia", sino un instrumento de control y manipulación. No debemos exigir que los medios cumplan con sus responsabilidades éticas; debemos crear un sistema que los haga irrelevantes. La tarea es monumental, pero la recompensa es la libertad. La única opción viable es dejar que los medios tradicionales se hundan en su propia irrelevancia, donde pertenecen.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

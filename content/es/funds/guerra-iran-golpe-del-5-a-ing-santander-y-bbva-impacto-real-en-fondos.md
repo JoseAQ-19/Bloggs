@@ -22,7 +22,6 @@ type: funds
 
 La escalada de tensión en Oriente Medio, tras los recientes ataques entre Irán e Israel, ha inyectado volatilidad en los mercados, con an...
 
-![Guerra Irán: ¿Golpe del 5% a ING, Santander y BBVA? Impacto real en fondos.](/images/guerra-iran-golpe-del-5-a-ing-santander-y-bbva-impacto-real-en-fondos.jpg)
 
 La escalada de tensión en Oriente Medio, tras los recientes ataques entre Irán e Israel, ha inyectado volatilidad en los mercados, con analistas de Bloomberg anticipando un posible desplome del 5% en la cotización de bancos españoles con exposición internacional. ¿Es momento de refugio o de oportunidad?
 
@@ -105,7 +104,7 @@ Artículos Relacionados:
 * [¿Cómo proteger tu cartera de inversión ante la inflación?](https://www.expansion.com/mercados/2024/01/26/65b3919ae5fdea79518b4584.html)
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

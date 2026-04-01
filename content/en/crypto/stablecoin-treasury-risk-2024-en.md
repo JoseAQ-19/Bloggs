@@ -16,14 +16,13 @@ translationKey: 1db33d91-54a6-5a2f-5ddb-4c3fd7dfabc1
 type: crypto
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Tether's $135 Billion Treasury Binge: Are You Ignoring A Crypto Time Bomb?](/images/stablecoin-treasury-risk-2024-en.jpg)
 
 * Tether holds $135 billion in U.S. Treasuries, raising concerns about potential systemic risks if a "run" on the stablecoin triggers massive treasury sales. 
 * Tether reporte...
 
-![Tether's $135 Billion Treasury Binge: Are You Ignoring A Crypto Time Bomb?](/images/stablecoin-treasury-risk-2024-en.jpg)
 
 * Tether holds $135 billion in U.S. Treasuries, raising concerns about potential systemic risks if a "run" on the stablecoin triggers massive treasury sales. 
 * Tether reported a $5.2 billion profit during the first half of 2024, while still facing intense regulatory scrutiny and calls for greater reserve transparency. 
@@ -60,4 +59,4 @@ Tether's size and persistent lack of transparency create an unacceptable level o
 
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

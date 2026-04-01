@@ -17,13 +17,12 @@ translationKey: 281d66bf-3f79-0189-49c3-c7b4f52c319b
 type: fitness
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Metformin's Dirty Secret: Diarrhea, Disappointment, and Dubious Benefits.](/images/metformin-longevity-hack-or-hype-en.jpg)
 
 Metformin, a common treatment for Polycystic Ovary Syndrome (PCOS), is not a perfect solution due to frequent side effects and limited efficacy. The COMET-PCOS trial highlig...
 
-![Metformin's Dirty Secret: Diarrhea, Disappointment, and Dubious Benefits.](/images/metformin-longevity-hack-or-hype-en.jpg)
 
 Metformin, a common treatment for Polycystic Ovary Syndrome (PCOS), is not a perfect solution due to frequent side effects and limited efficacy. The COMET-PCOS trial highlights these shortcomings.
 
@@ -94,7 +93,7 @@ Zone 2 training's efficacy might be overstated. As covered in "The Lactate Lie: 
 Metformin is not a magic bullet for managing insulin resistance in PCOS, and its limitations should be acknowledged. Sole reliance on Metformin is unlikely to produce lasting results; instead, pursue a personalized treatment plan.
 Rethink Metformin.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

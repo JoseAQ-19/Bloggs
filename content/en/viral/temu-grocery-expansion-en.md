@@ -16,13 +16,12 @@ translationKey: 2645b431-de1b-1eeb-e2fd-de1f4836d652
 type: viral
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Temu's Data Privacy Nightmare Expands: Now They Know What You Eat](/images/temu-grocery-expansion-en.jpg)
 
 ## The Algorithm Knows Your Appetite: Temu's Grocery Gambit and the Data Privacy Escalation...
 
-![Temu's Data Privacy Nightmare Expands: Now They Know What You Eat](/images/temu-grocery-expansion-en.jpg)
 
 ## The Algorithm Knows Your Appetite: Temu's Grocery Gambit and the Data Privacy Escalation
 
@@ -75,7 +74,7 @@ Financially, the picture is equally bleak. The estimated $8-9 billion loss in 20
 ## The Bottom Line
 Temu’s grocery expansion is a dangerous escalation of surveillance capitalism, trading consumer safety and privacy for unsustainable discounts. The $2 million FTC fine is a meaningless fig leaf, the forced labor allegations demand accountability, and the product safety risks are unacceptable. The US market contraction signals the beginning of the end for this extractive bubble. Delete the app. Demand real regulation. Your data diet is now their profit feast.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

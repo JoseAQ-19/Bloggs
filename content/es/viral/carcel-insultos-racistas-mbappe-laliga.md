@@ -22,7 +22,6 @@ type: viral
 
 Ante la reiteración de casos de racismo en los estadios, la pregunta ya no es si existe un problema, sino si LaLiga tiene la voluntad real de solucionarlo....
 
-![Mbappé Víctima: Fiscalía Pide Un Año de Cárcel Por Insultos Racistas en España](/images/carcel-insultos-racistas-mbappe-laliga.jpg)
 
 Ante la reiteración de casos de racismo en los estadios, la pregunta ya no es si existe un problema, sino si LaLiga tiene la voluntad real de solucionarlo.
 
@@ -87,7 +86,7 @@ Si bien la condena de los aficionados del Valencia y la solicitud de prisión en
 
 El racismo no tiene cabida en el deporte rey.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

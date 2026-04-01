@@ -23,7 +23,6 @@ type: ia
 
 Estás alimentando a las bestias de silicio con migajas. Y te estás arruinando en el intento. La optimización fina de los modelos Transformer...
 
-![¿Estás quemando GPUs en vano? Por qué 'fine-tuning' Transformers con datos escasos es una estafa](/images/fine-tuning-transformers-datos-escasos-estafa.jpg)
 
 Estás alimentando a las bestias de silicio con migajas. Y te estás arruinando en el intento. La optimización fina de los modelos Transformer con conjuntos de datos del tamaño de un tuit se ha convertido en la nueva fiebre del oro para las empresas desesperadas por exprimir el jugo de la IA sin el presupuesto de Google. Pero, ¿es realmente oro lo que están desenterrando, o solo pirita digital que quemará sus GPUs y sus bolsillos?
 
@@ -57,7 +56,7 @@ Al final, la IA no es magia. Es ingeniería. Y como cualquier esfuerzo de ingeni
 
 La IA está transformando el mercado laboral en Latinoamérica, y la inacción es el principal riesgo, así que hazlo bien o no lo hagas. La optimización fina con datos escasos es, en su mayoría, un camino sin salida. Ahora, voy a reciclar mis viejos servidores.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

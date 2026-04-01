@@ -22,7 +22,6 @@ type: ia
 
 La IA neutra es un mito peligroso que perpetúa la injusticia social....
 
-![Adiós A La IA Neutra: Amparo Alonso Betanzos Exige Compensar Desigualdad.](/images/ia-humanismo-diseno-tecnologico.jpg)
 
 La IA neutra es un mito peligroso que perpetúa la injusticia social.
 
@@ -78,7 +77,7 @@ Las empresas españolas deben invertir en auditorías integrales de "Ethics IA" 
 
 La IA equitativa es el futuro, ¡o el futuro nos pasará por encima!
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

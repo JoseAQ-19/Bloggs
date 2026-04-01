@@ -60,7 +60,7 @@ Para montantes inferiores a 50.000€, el uso de robo-advisors como Indexa puede
 
 Las comisiones han sido descritas como el "cáncer" de la rentabilidad, y mientras las reducciones de costos son un paso en la dirección correcta, todavía queda un largo camino por recorrer para eliminar totalmente este factor perjudicial. La clave para los inversores será encontrar un equilibrio entre el costo y el valor del servicio que reciben.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

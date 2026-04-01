@@ -60,7 +60,7 @@ El aumento proyectado de 1.1 millones de usuarios de internet entre 2024 y 2025 
 
 En este contexto, la tecnología se convierte en una herramienta de control en lugar de un medio de empoderamiento. El Estado y las grandes corporaciones utilizan la tecnología para modelar opiniones y extraer valor de los datos personales de los ciudadanos. Este enfoque plantea serias preocupaciones sobre la autonomía individual y la libertad.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

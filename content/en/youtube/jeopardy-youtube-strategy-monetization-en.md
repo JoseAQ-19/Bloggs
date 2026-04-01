@@ -16,14 +16,13 @@ translationKey: da387cad-bd56-553a-c3b7-64f8abd8c738
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Jeopardy! YouTube Gamble: $70 Billion Creator Payouts Hide A Dark Secret](/images/jeopardy-youtube-strategy-monetization-en.jpg)
 
 YouTube paid out $70 billion to creators in the three years leading up to January 2024, an average of just under $8,000 per creator.
 * YouTube paid out $70 billion to c...
 
-![Jeopardy! YouTube Gamble: $70 Billion Creator Payouts Hide A Dark Secret](/images/jeopardy-youtube-strategy-monetization-en.jpg)
 
 YouTube paid out $70 billion to creators in the three years leading up to January 2024, an average of just under $8,000 per creator.
 * YouTube paid out $70 billion to creators in the three years leading up to January 2024, an average of just under $8,000 per creator.
@@ -110,7 +109,7 @@ Trebek would be rolling in his grave if he knew that the show he built over deca
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

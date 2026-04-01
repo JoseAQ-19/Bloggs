@@ -22,7 +22,6 @@ type: fitness
 
 El declive muscular relacionado con la edad no es una sentencia, pero sí una epidemia silenciosa que se está gestando a la sombra de la cultura del bienestar....
 
-![Sarcopenia a los 50: El Peligro Oculto que Ignoran el 70% de Españoles](/images/entrenamiento-fuerza-2026-verdad-oculta.jpg)
 
 El declive muscular relacionado con la edad no es una sentencia, pero sí una epidemia silenciosa que se está gestando a la sombra de la cultura del bienestar.
 
@@ -88,7 +87,7 @@ Incorpora al menos dos sesiones de entrenamiento de resistencia por semana, cent
 
 No te dejes robar tu fuerza; ¡combate la sarcopenia y vive más fuerte!
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

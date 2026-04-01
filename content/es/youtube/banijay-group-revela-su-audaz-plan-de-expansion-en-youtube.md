@@ -54,7 +54,7 @@ El principal desafío que enfrenta Banijay es la feroz competencia en YouTube, d
 
 A pesar de estos desafíos, la monetización a través de publicidad en YouTube presenta una oportunidad significativa. El modelo de ingresos de YouTube permite a los creadores ganar dinero a través de anuncios, suscripciones y donaciones, lo que puede traducirse en un flujo constante de ingresos para Banijay si logran establecer una base de seguidores leales. Además, las colaboraciones con influencers y creadores de contenido podrían ampliar aún más su alcance.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

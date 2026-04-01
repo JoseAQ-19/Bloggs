@@ -22,7 +22,6 @@ type: crypto
 
 Bitcoin a $275.000 en 2025 parece una fantasía, especialmente después de ver a Bitdeer, el mayor self-miner listado en bolsa, liquidar toda su tesorería de Bitcoin. ¿Será que el optimismo de alg...
 
-![Bitcoin A $275.000 en 2025: El Gurú Que Desafía a Wall Street](/images/bitcoin-grafico-clave-2025.jpg)
 
 Bitcoin a $275.000 en 2025 parece una fantasía, especialmente después de ver a Bitdeer, el mayor self-miner listado en bolsa, liquidar toda su tesorería de Bitcoin. ¿Será que el optimismo de algunos gurús es solo una cortina de humo?
 
@@ -81,7 +80,7 @@ Agárrense fuerte; va a ser un viaje accidentado.
 *La inversión en criptoactivos no está regulada, puede no ser adecuada para inversores minoristas y perderse la totalidad del importe invertido. Es importante leer y comprender los riesgos de esta inversión.*
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

@@ -17,13 +17,12 @@ translationKey: c8fb8e00-7759-ae58-b5f4-c6c137980c10
 type: ia
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![LearnWorlds Data: 80% Of AI Interactions Handled By Bots, 0% Strategic Thought](/images/learnworlds-ai-adoption-paradox-en.jpg)
 
 Conversational AI is projected to save contact centers $80 billion by 2026, but only if companies can figure out how to actually use it....
 
-![LearnWorlds Data: 80% Of AI Interactions Handled By Bots, 0% Strategic Thought](/images/learnworlds-ai-adoption-paradox-en.jpg)
 
 Conversational AI is projected to save contact centers $80 billion by 2026, but only if companies can figure out how to actually use it.
 
@@ -70,7 +69,7 @@ Consider that 64% of customers would prefer that companies didn't use AI in thei
 ## The Bottom Line
 The AI hype is outpacing strategic thought and customer value. Companies need to measure the customer value created by AI initiatives and encourage change management. Automation without empathy is just aggravation.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

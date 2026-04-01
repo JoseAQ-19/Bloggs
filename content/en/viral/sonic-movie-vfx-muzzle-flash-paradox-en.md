@@ -16,7 +16,7 @@ translationKey: 50f98135-d4b2-ff54-8f3b-0191cfac3745
 type: viral
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 The redesign of Sonic the Hedgehog, following backlash from the 2019 trailer, cost Paramount Pictures over $5 million and resulted in a five-month delay, marking a pivotal moment in Hollywood where fan feedback directly influenced production decisions. This incident has set a worrying precedent, highlighting the shifting power dynamics between studios and audiences. The redesign process involved significant technical challenges, with VFX Supervisor Masaki Tanaka working closely with actors to capture Sonic's unique character traits. The legacy of "Ugly Sonic" serves as a cautionary tale for studios, underscoring the importance of understanding established character designs and audience expectations.
 
@@ -46,7 +46,7 @@ The redesign necessitated a complete overhaul of Sonic's character model, which 
 
 Tanaka's work highlights the intricate relationship between character design, animation, and audience perception. The redesign was not simply about making Sonic look different; it was about making him feel right. The goal was to evoke the same sense of nostalgia and excitement that fans experienced when they first played the games. By focusing on the nuances of Sonic's character, the film aimed to restore the emotional connection that had been jeopardized by the initial design.
 
-*YMYL Disclaimer: For informational purposes only.*
+*Aviso Editorial:* For informational purposes only.*
 
 ## Methodology and Sources
 

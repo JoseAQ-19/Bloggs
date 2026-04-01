@@ -22,7 +22,6 @@ type: youtube
 
 YouTube atrae a 28 millones de usuarios mensuales en España, una cifra que plantea interrogantes sobre si los educadores están adaptando sus métodos pedagógicos a esta realid...
 
-![El Truco Sucio del Profe: Aprueba Solo a Los 28 Millones Adictos a YouTube](/images/profesor-youtube-chantaje-digital.jpg)
 
 YouTube atrae a 28 millones de usuarios mensuales en España, una cifra que plantea interrogantes sobre si los educadores están adaptando sus métodos pedagógicos a esta realidad o simplemente cediendo a una nueva forma de adicción. ¿Estamos educando o entreteniendo?
 
@@ -86,7 +85,7 @@ YouTube puede ser una herramienta útil, pero requiere una evaluación crítica 
 
 Conectados, sí, pero no a ciegas.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

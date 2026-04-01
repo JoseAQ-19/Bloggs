@@ -66,7 +66,7 @@ La valoración de SpaceX en 200.000 millones de dólares es un reflejo de su pot
 
 En definitiva, aunque SpaceX tiene un futuro prometedor, la valoración actual parece ser más una apuesta en su potencial que una representación precisa de su situación financiera actual. Los inversores deben tener en cuenta tanto las oportunidades como los riesgos antes de tomar decisiones.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

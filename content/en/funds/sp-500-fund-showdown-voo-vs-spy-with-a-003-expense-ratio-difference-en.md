@@ -16,7 +16,7 @@ translationKey: fee34da1-d6ad-1a9c-1407-c85fe63b75c0
 type: funds
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 This analytical report critically examines the Vanguard S&P 500 ETF (VOO) and the SPDR S&P 500 ETF Trust (SPY), two primary investment vehicles for gaining exposure to the S&P 500 index, with a particular focus on their 0.03% expense ratio differential.
 
@@ -141,7 +141,7 @@ However, the SPDR S&P 500 ETF Trust (SPY) retains its prominence for specific in
 
 Ultimately, the choice between VOO and SPY should align with an investor's individual financial objectives, investment horizon, tax situation, and trading frequency. Both funds offer excellent, low-cost exposure to the S&P 500 index, but VOO's structural and cost advantages typically position it as the optimal choice for long-term, passive investors.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

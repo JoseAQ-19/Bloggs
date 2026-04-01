@@ -23,7 +23,6 @@ type: crypto
 
 La reciente verticalidad en el precio de Bitcoin, que ha superado los $70,000, ha reactivado el debate sobre si se trata de una burbuja especulativa o un activo legítimo....
 
-![Stephen Roach Acierta: Bitcoin Es Tóxico Y La Verticalidad Lo Demuestra](/images/bitcoin-refugio-inversores-incertidumbre.jpg)
 
 La reciente verticalidad en el precio de Bitcoin, que ha superado los $70,000, ha reactivado el debate sobre si se trata de una burbuja especulativa o un activo legítimo. Stephen Roach, economista de Yale, se mantiene firme en su postura: Bitcoin es "tóxico" para los inversores.
 
@@ -72,7 +71,7 @@ Los inversores deberían asignar no más del 5% de su cartera a Bitcoin y tratar
 Bitcoin: proceder con extrema cautela.
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

@@ -62,7 +62,7 @@ La distopía laboral también se manifiesta en la creciente polarización genera
 
 Las crisis climáticas, como la DANA de 2024, han expuesto la fragilidad del sistema laboral actual, revelando la escasez de mano de obra técnica y la incapacidad de adaptarse a nuevas realidades.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional.*
 
 ## Metodología y Fuentes
 

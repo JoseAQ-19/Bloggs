@@ -23,7 +23,6 @@ type: funds
 
 El valor de SpaceX podría alcanzar los 100 mil millones de dólares en su salida a bolsa, un hito significativo que pod...
 
-![SpaceX podría alcanzar un valor de 100 mil millones de dólares en su salida a bolsa](/images/spacex-podria-alcanzar-un-valor-de-100-mil-millones-de-dolares-en-su-salida-a-bo.jpg)
 
 El valor de SpaceX podría alcanzar los 100 mil millones de dólares en su salida a bolsa, un hito significativo que podría redefinir el sector espacial y las inversiones tecnológicas. 
 
@@ -90,7 +89,7 @@ Es crucial observar el rendimiento histórico, la volatilidad, el ratio de Sharp
 
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

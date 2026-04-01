@@ -55,7 +55,7 @@ La *mascletà* puede alcanzar niveles sonoros de hasta 120 decibelios, superando
 
 La experiencia de asistir a la *mascletà* puede crear una disonancia cognitiva en los turistas. Muchos llegan a Valencia en busca de cultura y tradición, pero se enfrentan a una experiencia que altera su fisiología debido al trauma acústico. La euforia que se espera de un evento cultural se ve empañada por el impacto físico del ruido, lo que lleva a cuestionar la validez de la experiencia que se promociona.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

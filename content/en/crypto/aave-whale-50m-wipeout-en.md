@@ -16,13 +16,12 @@ translationKey: ede076ec-6d70-eee5-fcc7-94ae5bdc5a1c
 type: crypto
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Liquidator Bots Feast On Aave: 499 ETH In Bonuses After $50M Crash](/images/aave-whale-50m-wipeout-en.jpg)
 
 Liquidator bots pocketed 499 ETH in bonuses from Aave, proving that algorithmic finance has yet to escape the pitfalls of human error....
 
-![Liquidator Bots Feast On Aave: 499 ETH In Bonuses After $50M Crash](/images/aave-whale-50m-wipeout-en.jpg)
 
 Liquidator bots pocketed 499 ETH in bonuses from Aave, proving that algorithmic finance has yet to escape the pitfalls of human error.
 
@@ -78,7 +77,7 @@ The event underscores the critical need for robust oracle redundancy and proacti
 - [Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](/en/youtube/youtube-sports-subscription-live-streaming-en/)
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

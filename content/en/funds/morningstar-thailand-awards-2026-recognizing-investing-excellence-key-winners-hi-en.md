@@ -17,13 +17,12 @@ translationKey: d63390e0-69f3-f71f-1cab-070c455cbc8a
 type: funds
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Morningstar Thailand Awards 2026: Recognizing Investing Excellence, Key Winners Highlighted](/images/morningstar-thailand-awards-2026-recognizing-investing-excellence-key-winners-hi-en.jpg)
 
 **57% of Morningstar Thailand Awards 2026 winners have a 5-star rating**, a testament to the country's grow...
 
-![Morningstar Thailand Awards 2026: Recognizing Investing Excellence, Key Winners Highlighted](/images/morningstar-thailand-awards-2026-recognizing-investing-excellence-key-winners-hi-en.jpg)
 
 **57% of Morningstar Thailand Awards 2026 winners have a 5-star rating**, a testament to the country's growing investment excellence. Here are three key highlights from the awards:
 
@@ -130,7 +129,7 @@ The Morningstar Thailand Awards 2026 are a testament to the growing investment e
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

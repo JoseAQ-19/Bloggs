@@ -23,7 +23,6 @@ type: crypto
 
 La propuesta de Sumar de gravar las criptomonedas con un IRPF de hasta el 47% es una receta para la fuga de capitales....
 
-![Cris Carrascosa lo Advierte: El Impuesto Bitcoin de Sumar Es Una Salvajada Fiscal](/images/bitcoin-volatilidad-fondos-cobertura.jpg)
 
 La propuesta de Sumar de gravar las criptomonedas con un IRPF de hasta el 47% es una receta para la fuga de capitales.
 
@@ -108,7 +107,7 @@ La propuesta de Sumar es un error que frenará la innovación y la inversión en
 *La inversión en criptoactivos no está regulada, puede no ser adecuada para inversores minoristas y perderse la totalidad del importe invertido. Es importante leer y comprender los riesgos de esta inversión.*
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

@@ -59,7 +59,7 @@ No nos engañemos. El metaverso, tal y como lo conocemos, está muerto. Pero eso
 
 El metaverso es un ejemplo paradigmático de la arrogancia tecnológica. Silicon Valley se dejó llevar por el bombo publicitario y la especulación, olvidando lo fundamental: la utilidad y la experiencia del usuario. No esperemos un renacimiento milagroso. La tecnología subyacente podría evolucionar, pero el concepto del metaverso, tal como se nos vendió, está destinado al fracaso. El futuro no está en mundos virtuales vacíos, sino en el mundo real, con sus problemas y sus oportunidades. La próxima vez que alguien nos venda la moto de un universo digital paralelo, deberíamos preguntarle: ¿por qué debería importarme?
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

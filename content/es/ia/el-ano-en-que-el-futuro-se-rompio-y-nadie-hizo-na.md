@@ -63,7 +63,7 @@ El futuro de Chile depende de su capacidad para aprender de los errores del pasa
 
 En un mundo que avanza rápidamente, Chile tiene la oportunidad de replantear su modelo de desarrollo. A medida que otros países enfrentan crisis de identidad y polarización, Chile puede optar por un enfoque valiente y visionario que priorice el bienestar colectivo. Esto requiere decisiones difíciles y un compromiso con la construcción de un futuro más justo y equitativo.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

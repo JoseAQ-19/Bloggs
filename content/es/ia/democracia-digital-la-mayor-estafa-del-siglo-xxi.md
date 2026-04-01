@@ -60,7 +60,7 @@ Here are some concrete steps we can take:
 
 The fight for digital democracy is a battle for the future of our societies. It requires a concerted effort from individuals, governments, and civil society organizations. By working together, we can create a more informed, engaged, and resilient citizenry, capable of resisting manipulation and defending the principles of democracy in the digital age. The alternative is a world where our minds are colonized by algorithms and synthetic public opinion, where democracy becomes a mere illusion.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

@@ -51,7 +51,7 @@ ASML es conocida por ser un líder en la fabricación de equipos de litografía 
 
 ASML ha mostrado resultados financieros sólidos en sus reportes trimestrales, con un crecimiento en ingresos y beneficios. Sin embargo, el desempeño de la acción puede verse afectado por factores externos, como la guerra comercial entre EE. UU. y China y las restricciones en la exportación de tecnología. Estos elementos pueden influir en la confianza de los inversores y, por ende, en la rentabilidad del iShares Core EURO STOXX 50 UCITS ETF.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

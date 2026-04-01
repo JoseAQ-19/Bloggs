@@ -16,14 +16,13 @@ translationKey: 887af157-ebf1-5f6e-0fb6-1e430d8fd63c
 type: ia
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![90% Of AI Startups Fail: Is Your Series A Investment a Unicorn Corpse?](/images/ai-venture-capital-series-a-apocalypse-en.jpg)
 
 * Roughly 90% of AI startups fail within their first year, jeopardizing Series A investments.
 * AI startups attracted $192.7 billion in venture capital in 2025, represent...
 
-![90% Of AI Startups Fail: Is Your Series A Investment a Unicorn Corpse?](/images/ai-venture-capital-series-a-apocalypse-en.jpg)
 
 * Roughly 90% of AI startups fail within their first year, jeopardizing Series A investments.
 * AI startups attracted $192.7 billion in venture capital in 2025, representing 52% of global VC deal value.
@@ -93,7 +92,7 @@ Investors who survive this bubble will be those who demand technical rigor over 
 
 The money has already been spent—$220 billion can't be uninvested. But investors can stop throwing good money after bad. The next wave of AI winners will emerge from the ashes of these failures, companies built on engineering excellence rather than marketing spin. The question is whether VCs will recognize them when they appear, or if they'll continue chasing shiny objects while the graveyard of AI startups grows ever larger.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

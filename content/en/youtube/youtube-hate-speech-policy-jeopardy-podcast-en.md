@@ -17,13 +17,12 @@ translationKey: 1c707f51-9806-5b5a-57fd-7637b85060d7
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Jeopardy! Host's YouTube Nightmare: $36 Billion Ad Revenue Masks a Free Speech Crisis](/images/youtube-hate-speech-policy-jeopardy-podcast-en.jpg)
 
 YouTube's $36.1 billion ad revenue in 2024 masks a growing free speech crisis for its creators....
 
-![Jeopardy! Host's YouTube Nightmare: $36 Billion Ad Revenue Masks a Free Speech Crisis](/images/youtube-hate-speech-policy-jeopardy-podcast-en.jpg)
 
 YouTube's $36.1 billion ad revenue in 2024 masks a growing free speech crisis for its creators.
 
@@ -82,7 +81,7 @@ Consider moving your content to a platform that allows greater autonomy.
 
 The platform giveth, and the platform taketh away.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

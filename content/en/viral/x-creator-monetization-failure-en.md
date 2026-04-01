@@ -16,13 +16,12 @@ translationKey: fa25fbf4-5bda-e6e6-ac4d-dc8019b9ad2b
 type: viral
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![X's SRE Neglect: Why Dmytro Sirant Says Musk's Empire Is Crashing](/images/x-creator-monetization-failure-en.jpg)
 
 X's SRE Neglect Risks a $701 Billion Creator Economy Collapse...
 
-![X's SRE Neglect: Why Dmytro Sirant Says Musk's Empire Is Crashing](/images/x-creator-monetization-failure-en.jpg)
 
 X's SRE Neglect Risks a $701 Billion Creator Economy Collapse
 
@@ -155,7 +154,7 @@ The fundamental challenge is misaligned incentives. X benefits from rapid featur
 **Can creators build sustainable businesses despite platform instability?**
 The most successful creators are implementing what engineers call "resilient architectures"—building diversified content businesses across multiple platforms, developing direct audience relationships, and creating revenue streams independent of any single platform's algorithms or technical performance. This approach requires more upfront work but provides long-term stability.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

@@ -16,14 +16,13 @@ translationKey: 80d360f8-27c4-883e-7860-2094725a8e34
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Vanlife Apocalypse: Why YouTube's Freedom Costs 3.7 Million Kids Their Future](/images/vanlife-youtube-burnout-costs-en.jpg)
 
 YouTube glorifies vanlife freedom while sacrificing 3.7 million kids' futures. 
 * Only 67% of homeschooled students complete college, compared to 39% for those who never at...
 
-![Vanlife Apocalypse: Why YouTube's Freedom Costs 3.7 Million Kids Their Future](/images/vanlife-youtube-burnout-costs-en.jpg)
 
 YouTube glorifies vanlife freedom while sacrificing 3.7 million kids' futures. 
 * Only 67% of homeschooled students complete college, compared to 39% for those who never attended traditional school, per Cross River Therapy. 
@@ -76,7 +75,7 @@ YouTube’s vanlife empire builds profit on an educational myth. Creators moneti
 
 Freedom isn’t free. It requires accountability.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

@@ -80,7 +80,7 @@ La IA, tal como existe hoy, no es la solución a nuestros problemas, sino un ref
 
 La creciente dependencia de la tecnología debe ser reevaluada. En lugar de permitir que la IA dictamine el futuro, es imperativo que exijamos un enfoque en el bien común. La oportunidad de tomar el control de nuestro futuro se desvanece rápidamente, y el momento de actuar es ahora.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

@@ -76,7 +76,7 @@ La automatización no es un destino inevitable, sino una oportunidad para transf
 
 Gobiernos, empresas, sindicatos y la sociedad civil deben colaborar para desarrollar un plan integral que aborde los desafíos de la automatización. Este plan debe incluir medidas para proteger a los trabajadores y asegurar que los beneficios de la automatización se distribuyan equitativamente.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional.*
 
 ## Metodología y Fuentes
 

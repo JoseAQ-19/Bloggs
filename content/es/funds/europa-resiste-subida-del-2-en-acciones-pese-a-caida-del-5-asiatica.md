@@ -129,7 +129,7 @@ Para el inversor minorista inteligente, la estrategia debe trascender la mera na
 
 En síntesis, Europa no es un refugio incondicional, sino un entorno de inversión que demanda discernimiento y una estrategia basada en la eficiencia y el análisis de datos. La disociación de la narrativa geopolítica de los fundamentales de mercado es un imperativo para la toma de decisiones, priorizando la gestión pasiva de bajo coste para la exposición al mercado y una selección activa y cautelosa en nichos sectoriales, siempre con una perspectiva de riesgo-recompensa clara y una optimización fiscal estratégica.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

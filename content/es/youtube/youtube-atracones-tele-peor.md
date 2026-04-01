@@ -90,7 +90,7 @@ La cuestión no es si YouTube puede hacer algo al respecto, sino si está dispue
 * **[Cómo combatir la nomofobia: el miedo irracional a no tener móvil](https://www.novumworld.com/nomofobia-adiccion-movil)**
 * **[La adicción a los videojuegos: una realidad que afecta a cada vez más jóvenes](https://www.novumworld.com/adiccion-videojuegos-jovenes)**
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

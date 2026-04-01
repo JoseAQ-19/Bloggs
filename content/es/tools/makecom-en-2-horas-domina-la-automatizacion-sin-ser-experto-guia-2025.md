@@ -22,7 +22,6 @@ type: tools
 
 ¿Sigues perdiendo horas en Excel y tareas repetitivas que agotan tu energía? En Novum, llevamos más de una década ayudando a empresas como la tuya a...
 
-![¡Make.com en 2 HORAS! Domina la automatización SIN ser experto (Guía 2025)](/images/master-makecom-in-2-hours-complete-beginners-guide-for-2025.jpg)
 
 ¿Sigues perdiendo horas en Excel y tareas repetitivas que agotan tu energía? En Novum, llevamos más de una década ayudando a empresas como la tuya a liberar su potencial gracias a la automatización inteligente. La verdadera transformación digital no se trata de adoptar la última tecnología por moda, sino de orquestar sistemas que trabajen para ti, no al revés.
 
@@ -86,7 +85,7 @@ El éxito reside en comprender los procesos de negocio, definir objetivos y dise
 
 **Artículos Relacionados:**
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

@@ -22,7 +22,6 @@ type: fitness
 
 Uno de cada tres fotones que llegan a tus ojos es luz azul. La luz azul es emitida en abundancia por las pantallas que tanto amamos y puede desestabilizar el rit...
 
-![Lectura Nocturna y el Anillo Oura: ¿Puedo Decirle a Oura Por Qué No Me Duermo?](/images/lectura-nocturna-anillo-oura-retraso-sueno.jpg)
 
 Uno de cada tres fotones que llegan a tus ojos es luz azul. La luz azul es emitida en abundancia por las pantallas que tanto amamos y puede desestabilizar el ritmo circadiano. Entonces, ¿podría ser que esa lectura nocturna, ese ritual supuestamente relajante, esté interfiriendo con tu sueño más de lo que crees, incluso si lo rastreas con un anillo de alta tecnología como el Oura?
 
@@ -73,7 +72,7 @@ La verdad sobre tu sueño no reside solo en los datos, sino en las decisiones qu
 **jack beds**
 **ultrahuman ring air**
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

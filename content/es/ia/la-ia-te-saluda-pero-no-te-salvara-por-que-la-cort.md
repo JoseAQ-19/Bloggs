@@ -62,7 +62,7 @@ La cortesía hacia la IA no solo es una farsa costosa, sino que también es un s
 
 Exigir transparencia y responsabilidad en el desarrollo de la IA es esencial. Además, es crucial fomentar un sano escepticismo hacia las afirmaciones de las empresas tecnológicas. Solo de esta manera podremos evitar caer en la trampa de la "sonrisa" de la IA, que podría convertirnos en meros peones en su juego.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

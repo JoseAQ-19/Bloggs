@@ -60,7 +60,7 @@ Según un informe de Save the Children, casi el 70% de los jóvenes no ven los d
 
 La cultura digital ha normalizado la manipulación de imágenes, llevando a la desensibilización de los adolescentes. La falta de comprensión sobre la gravedad de los deepfakes y su potencial para causar daño puede llevar a un incremento en la victimización de menores en el futuro.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

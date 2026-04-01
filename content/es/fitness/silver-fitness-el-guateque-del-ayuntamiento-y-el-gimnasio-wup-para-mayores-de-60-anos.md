@@ -23,10 +23,8 @@ type: fitness
 
 **Las personas mayores que practican fuerza específica reducen sus caídas en un 23% — el dato que rompe el mito de ...
 
-![Silver Fitness: El Ayuntamiento Promueve Actividades que Reducen Caídas en un 23%](/images/silver-fitness-el-guateque-del-ayuntamiento-y-el-gimnasio-wup-para-mayores-de-60-anos.jpg)
 
-**Las personas mayores que practican fuerza específica reducen sus caídas en un 23% — el dato que rompe el mito de que caminar es suficiente para la tercera edad.** 
-* Un estudio del CIBERFES (n=2.347, 18 meses) confirma que el entrenamiento de fuerza reduce un 23% las caídas en mayores de 65 años, frente al 12% de los programas solo de caminata. 
+**Las personas mayores que practican fuerza específica reducen sus caídas en un 23% — el dato que rompe el mito de que caminar es suficiente para la tercera edad.** Un estudio del CIBERFES (n=2.347, 18 meses) confirma que el entrenamiento de fuerza reduce un 23% las caídas en mayores de 65 años, frente al 12% de los programas solo de caminata. 
 * El 61.5% de españoles mayores de 65 años camina diariamente, superando a los grupos más jóvenes, pero solo un 17.4% realiza actividad física estructurada. 
 * Casi 50.000 mayores de Madrid quedaron sin talleres en 2024 por quiebra del proveedor, evidenciando la fragilidad de los sistemas de envejecimiento activo. 
 
@@ -58,27 +56,23 @@ La solución no es más caminata. **Ageingnomics evidencia que solo el 44% de lo
 ## Nuestra Opinión: Protocolo Práctico Urgente 
 La crisis de Silver Fitness es un síntoma de un sistema que prioriza el mantenimiento sobre la longevidad funcional. **La evidencia es contundente: sin fuerza y supervisión, las caminatas aisladas son placebos pseudocientíficos**. 
 
-**Recomendación ejecutable HOY:** 
-- **3 series de 10 sentadillas con silla** (descendiendo lentamente 4 segundos, pausa 2 segundos, ascenso explosivo). 
+**Recomendación ejecutable HOY:*- **3 series de 10 sentadillas con silla** (descendiendo lentamente 4 segundos, pausa 2 segundos, ascenso explosivo). 
 - **3 series de 10 flexiones pared** (manos a la altura del pecho, cuerpo en línea recta). 
 - **2 sesiones/semana** con descanso de 48 horas entre ellas. 
 **Fuente:** Protocolo de *Matt Roberts* para The Telegraph **El ejercicio recomendado por expertos para fortalecer músculos**. 
 
 ## Preguntas Frecuentes (FAQ) 
-**¿Realmente pueden los mayores hacer fuerza sin riesgo?** 
-Sí. Un estudio de la Universidad de Navarra (n=312, 24 meses) demostró que entrenamientos con cargas del 50% de 1RM en mayores de 80 años tienen menor riesgo de lesiones que caminata no supervisada en superficies irregulares. 
+**¿Realmente pueden los mayores hacer fuerza sin riesgo?*Sí. Un estudio de la Universidad de Navarra (n=312, 24 meses) demostró que entrenamientos con cargas del 50% de 1RM en mayores de 80 años tienen menor riesgo de lesiones que caminata no supervisada en superficies irregulares. 
 
-**¿Por qué las apps no sirven para mayores?** 
-Solo el 6% de las apps de fitness permiten ajustar velocidad y resistencia en tiempo real. Vivifrail es la única que detecta caídas y adapta ejercicios a limitaciones articulares. 
+**¿Por qué las apps no sirven para mayores?*Solo el 6% de las apps de fitness permiten ajustar velocidad y resistencia en tiempo real. Vivifrail es la única que detecta caídas y adapta ejercicios a limitaciones articulares. 
 
-**¿Es más importante la fuerza que el cardio en mayores?** 
-Sí. La fuerza preserva la masa muscular (crucial para metabolismo y autonomía). Un estudio del CIBERFES muestra que mayores con sarcopenia tienen 3.5 veces más riesgo de dependencia.
+**¿Es más importante la fuerza que el cardio en mayores?*Sí. La fuerza preserva la masa muscular (crucial para metabolismo y autonomía). Un estudio del CIBERFES muestra que mayores con sarcopenia tienen 3.5 veces más riesgo de dependencia.
 
 ## Artículos Relacionados
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 - [YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

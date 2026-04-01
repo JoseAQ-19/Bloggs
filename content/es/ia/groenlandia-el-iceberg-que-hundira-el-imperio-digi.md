@@ -67,7 +67,7 @@ Es imperativo que se replantee la narrativa en torno a Groenlandia y el Ártico.
 
 La situación en Groenlandia es un microcosmos de los desafíos globales que enfrentamos hoy: la lucha por recursos escasos, el cambio climático y la creciente competencia geopolítica. Estados Unidos y otras potencias deben reconocer que su enfoque extractivista no es sostenible. El futuro del Ártico y, por ende, del mundo, depende de nuestra capacidad para detener esta locura extractivista y encontrar formas más constructivas de interactuar con el planeta.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

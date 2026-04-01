@@ -16,13 +16,12 @@ translationKey: e310b902-a041-2bb9-66c1-5ad734d57216
 type: crypto
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![$33 Billion Mess: Did Kraken's Fed Access Just Expose Crypto's Dirty Secret?](/images/kraken-fed-access-crypto-implications-en.jpg)
 
 The SEC alleges Kraken held over $33 billion in customer crypto assets and commingled them, raising questions about the security of customer funds with increased Fed...
 
-![$33 Billion Mess: Did Kraken's Fed Access Just Expose Crypto's Dirty Secret?](/images/kraken-fed-access-crypto-implications-en.jpg)
 
 The SEC alleges Kraken held over $33 billion in customer crypto assets and commingled them, raising questions about the security of customer funds with increased Fed access.
 
@@ -133,7 +132,7 @@ The proposed CLARITY bill attempts to create clearer boundaries between commodit
 The revolving door between regulatory agencies and the crypto industry raises concerns about potential conflicts of interest. Former regulators and government officials often take positions at crypto firms, leveraging their expertise and connections to influence policy decisions. This dynamic creates a risk that regulatory decisions may be influenced by personal gain rather than the public interest. To address this concern, regulators should implement stricter ethics rules and restrictions on post-employment activities to prevent conflicts of interest and ensure that regulatory decisions are made in a fair and impartial manner.
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

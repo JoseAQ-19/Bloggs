@@ -62,7 +62,7 @@ No ignoremos los riesgos reales. El Metaverso es un paraíso para la recopilaci�
 
 El Metaverso, en su encarnación actual, es un gigantesco esquema Ponzi descentralizado. Depende de la entrada constante de nuevos incautos para mantener infladas valoraciones basadas en promesas vacías. Con una base de usuarios en caída libre y pérdidas masivas para la mayoría, representa un riesgo asimétrico absurdo. La mayoría de estos proyectos desaparecerán. La única jugada inteligente es mantenerse alejado. En lugar de perseguir espejismos virtuales, invierta en el mundo real. Construya algo tangible. Y, sobre todo, desconfíe de los gurús digitales que prometen la riqueza fácil. Porque, como dice el refrán, "cuando la limosna es grande, hasta el santo desconfía".
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

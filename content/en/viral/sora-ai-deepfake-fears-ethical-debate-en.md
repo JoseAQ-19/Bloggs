@@ -18,7 +18,7 @@ translationKey: 8978b1a0-1f72-8c76-a8b0-e1b62ecb0f6d
 type: viral
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 - OpenAI's Sora AI video generator was terminated due to unsustainable operational costs of $15 million per day, while generating only $2.1 million in revenue.
 - 73% of Fortune 500 companies have adopted AI video tools, indicating a significant shift in content creation.
@@ -82,7 +82,7 @@ The operational and ethical challenges encountered by Sora underscore the pressi
 
 The bubble surrounding consumer generative video has burst. The underlying economics are flawed, and the associated safety risks remain unmanageable. We are entering an era of "industrial AI," where technology will be confined within corporate boundaries. The phase of open experimentation has concluded. The lesson of Sora is clear: certain technologies are too potent—and too costly—to be unleashed without restraint.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice.*
 
 ## Methodology and Sources
 

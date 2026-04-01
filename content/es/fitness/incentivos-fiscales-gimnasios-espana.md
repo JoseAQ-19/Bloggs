@@ -26,7 +26,6 @@ type: fitness
 La nueva Ley del Deporte es un paraíso fiscal disfrazado de bienestar social, que beneficia a grandes cadenas mientras ahoga a pequeños gimnasios. 
 * La...
 
-![La Nueva Ley del Deporte: Un Paraíso Fiscal Para Gimnasios Que Aumenta la Competencia Desleal](/images/incentivos-fiscales-gimnasios-espana.jpg)
 
 La nueva Ley del Deporte es un paraíso fiscal disfrazado de bienestar social, que beneficia a grandes cadenas mientras ahoga a pequeños gimnasios. 
 * La nueva Ley del Deporte permite deducciones fiscales de hasta el 30% en gastos deportivos, lo que puede perjudicar la competencia en el sector de gimnasios privados. 
@@ -93,7 +92,7 @@ En Estados Unidos, la [reforma tributaria](https://www.irs.gov/es/newsroom/tax-r
 - [YouTube Revive La Nostalgia: 7 Programas Icónicos De Los 2000s Que Regresan Con Fuerza](/es/youtube/youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto/)
 - [YouTube Te Espía: ¿Preparado Para Confesar Si Tu Video Lo Creó Una IA?](/es/youtube/youtube-deteccion-ia-honestidad-digital/)
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

@@ -54,7 +54,7 @@ Para entender el impacto de la IA en el empleo legal, es esencial realizar un an
 
 Por ejemplo, si un abogado junior dedica 120 horas al mes a revisar contratos, su costo operativo es de aproximadamente 27 euros por hora. En contraste, el costo de procesar documentos a través de IA es dramáticamente inferior, a menos de 0,50 dólares por documento. Esto plantea la pregunta: ¿qué sentido tiene mantener un equipo de abogados junior cuando una máquina puede hacer el trabajo de manera más rápida y a un costo menor?
 
-*Aviso YMYL: Esta es información educativa. Se recomienda consultar a especialistas en derecho laboral y tecnología para obtener asesoría específica sobre este tema.*
+*Aviso Editorial:* Esta es información educativa. Se recomienda consultar a especialistas en derecho laboral y tecnología para obtener asesoría específica sobre este tema.*
 
 ## Metodología y Fuentes
 

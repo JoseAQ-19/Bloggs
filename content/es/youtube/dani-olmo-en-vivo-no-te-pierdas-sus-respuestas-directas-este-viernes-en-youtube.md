@@ -48,7 +48,7 @@ La situación de Dani Olmo es un dilema no solo para él como individuo, sino ta
 
 El éxito de su carrera dependerá no solo de su habilidad para recuperarse de las lesiones, sino también de su capacidad para demostrar que puede ser un jugador de confianza en el campo. Los próximos meses serán cruciales, y su actuación en el evento de YouTube podría ser solo la primera de muchas pruebas a las que se verá sometido para recuperar la confianza de la afición y de la dirección del club.
 
-*Aviso YMYL: Información educativa. Consulte especialistas.*
+*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

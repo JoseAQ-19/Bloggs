@@ -54,7 +54,7 @@ El Aiper Scuba S1 representa un avance en el sector de la limpieza de piscinas, 
 
 Los usuarios deben considerar no solo la inversión inicial, sino también el costo total de propiedad a lo largo del tiempo. La verdadera pregunta no es si el Aiper Scuba S1 es un buen producto, sino si realmente se ajusta a las necesidades y expectativas del consumidor moderno.
 
-#*Aviso YMYL: Información educativa. Consulte especialistas.*
+#*Aviso Editorial:* Información educativa. Consulte especialistas.*
 
 ## Metodología y Fuentes
 

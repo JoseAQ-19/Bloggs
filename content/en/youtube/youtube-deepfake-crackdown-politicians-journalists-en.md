@@ -16,13 +16,12 @@ translationKey: f783666f-6ece-c437-a524-1bbe919efa78
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![YouTube's AI Crackdown: 83% Of Americans Terrified By Election Deepfakes](/images/youtube-deepfake-crackdown-politicians-journalists-en.jpg)
 
 YouTube's pledge to combat AI-generated election deepfakes rings hollow when basic software can bypass its safeguards....
 
-![YouTube's AI Crackdown: 83% Of Americans Terrified By Election Deepfakes](/images/youtube-deepfake-crackdown-politicians-journalists-en.jpg)
 
 YouTube's pledge to combat AI-generated election deepfakes rings hollow when basic software can bypass its safeguards.
 
@@ -67,7 +66,7 @@ Furthermore, resources need to be invested in educational programs that equip in
 
 Trust, but verify... everything.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

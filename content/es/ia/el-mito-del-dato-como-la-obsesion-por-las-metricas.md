@@ -49,7 +49,7 @@ La falta de rendición de cuentas algorítmica es la mayor amenaza a nuestra lib
 
 Medir no es comprender. Las métricas son solo números, abstracciones que no capturan la complejidad de la realidad. La verdadera sabiduría reside en la capacidad de discernir lo que realmente importa, más allá de los números. Si no despertamos, el futuro será un infierno algorítmico donde seremos reducidos a meros datos, esclavos de una máquina despiadada. No hay medias tintas: o recuperamos el control, o lo perdemos todo. Es una cuestión de supervivencia. La neutralidad es complicidad.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Metodología y Fuentes
 

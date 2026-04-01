@@ -16,13 +16,12 @@ translationKey: 4ab35dca-525c-9394-cea2-06fc57afae2e
 type: youtube
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![LazarBeam's $40 Million Mistake: How Profanity Decimated His YouTube Empire](/images/lazarbeam-youtube-empire-en.jpg)
 
 LazarBeam estimates he lost up to $40 million in ad revenue because he swore too much on YouTube....
 
-![LazarBeam's $40 Million Mistake: How Profanity Decimated His YouTube Empire](/images/lazarbeam-youtube-empire-en.jpg)
 
 LazarBeam estimates he lost up to $40 million in ad revenue because he swore too much on YouTube.
 
@@ -77,7 +76,7 @@ Active diversification of content platforms and revenue streams is essential for
 
 Adapt, or get demonetized.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

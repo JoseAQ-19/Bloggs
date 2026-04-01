@@ -16,13 +16,12 @@ translationKey: dcc9f14d-bbd0-8ac7-6847-00d58b6cb858
 type: crypto
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Crypto.com Just Laid Off 12% of Its Workforce: The Shocking AI Shift Explained](/images/cryptocom-cuts-deep-12-layoffs-amid-ai-urgency-en.jpg)
 
 Global crypto markets shed $200 billion in valuation as the United States unemployment rate unexpectedly ticked up to 4.6% in mid-December 2025, triggerin...
 
-![Crypto.com Just Laid Off 12% of Its Workforce: The Shocking AI Shift Explained](/images/cryptocom-cuts-deep-12-layoffs-amid-ai-urgency-en.jpg)
 
 Global crypto markets shed $200 billion in valuation as the United States unemployment rate unexpectedly ticked up to 4.6% in mid-December 2025, triggering a risk-off environment that has forced digital asset platforms to slash costs aggressively. Crypto.com’s decision to terminate 12% of its staff is not merely an internal realignment but a symptom of a broader liquidity crunch where efficiency is prioritized over expansion.
 
@@ -59,7 +58,7 @@ Furthermore, Ryan Selkis, CEO of Messari, announced that his firm would be hirin
 - [YouTube TV In 2026: Comcast's Worst Nightmare Or $73 Mistake?](/en/youtube/youtube-tv-2026-worth-it-en/)
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

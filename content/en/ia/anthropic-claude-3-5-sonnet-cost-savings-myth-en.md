@@ -16,13 +16,12 @@ translationKey: cffbe99c-49c9-3bf5-7fd8-cf9a744ce547
 type: ia
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Claude 3.5 Sonnet: That 5x Cost Savings Claim Is a Total Lie](/images/anthropic-claude-3-5-sonnet-cost-savings-myth-en.jpg)
 
 Anthropic's claim of "5x cost savings" with Claude 3.5 Sonnet is misleading because the pricing structure reveals a continuation of existing rates. A closer look at performa...
 
-![Claude 3.5 Sonnet: That 5x Cost Savings Claim Is a Total Lie](/images/anthropic-claude-3-5-sonnet-cost-savings-myth-en.jpg)
 
 Anthropic's claim of "5x cost savings" with Claude 3.5 Sonnet is misleading because the pricing structure reveals a continuation of existing rates. A closer look at performance benchmarks is needed to justify the hype.
 
@@ -86,7 +85,7 @@ The key to unlocking the true ROI of Sonnet 4.6 lies in understanding its streng
 
 Anthropic's "5x cost savings" claim for Claude 3.5 Sonnet is a misleading oversimplification designed to capture headlines. True ROI requires performance benchmarks to be valued over marketing hype.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

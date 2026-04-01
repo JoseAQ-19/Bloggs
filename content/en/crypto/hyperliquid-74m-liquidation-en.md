@@ -16,13 +16,12 @@ translationKey: 44a35c69-3c4e-6704-cf48-8f19a032e3ac
 type: crypto
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Hyperliquid Horror: One Trader's $74M Loss Exposes $4.25B TVL Time Bomb](/images/hyperliquid-74m-liquidation-en.jpg)
 
 Hyperliquid's siren song of 50x leverage has lured many to the rocks, but a recent $74 million liquidation suggests a systemic failure, not just individual recklessness....
 
-![Hyperliquid Horror: One Trader's $74M Loss Exposes $4.25B TVL Time Bomb](/images/hyperliquid-74m-liquidation-en.jpg)
 
 Hyperliquid's siren song of 50x leverage has lured many to the rocks, but a recent $74 million liquidation suggests a systemic failure, not just individual recklessness.
 
@@ -79,7 +78,7 @@ DeFi dreams can turn into DeFi nightmares.
 
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

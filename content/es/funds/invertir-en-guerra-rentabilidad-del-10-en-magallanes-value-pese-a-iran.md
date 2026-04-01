@@ -22,7 +22,6 @@ type: funds
 
 **El 10% de rentabilidad en 'Magallanes Value' pese a la incertidumbre geopolítica**...
 
-![Invertir en guerra: Rentabilidad del 10% en 'Magallanes Value' pese a Irán](/images/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran.jpg)
 
 **El 10% de rentabilidad en 'Magallanes Value' pese a la incertidumbre geopolítica**
 
@@ -137,7 +136,7 @@ Magallanes Value invierte en acciones de alta calidad con un enfoque de valor. E
 
 ---
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 

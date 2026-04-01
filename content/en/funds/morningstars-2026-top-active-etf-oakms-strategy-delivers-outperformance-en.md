@@ -16,13 +16,12 @@ translationKey: c7a8ce79-b50f-f505-994e-e0869bfb9206
 type: funds
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Morningstar's 2026 Top Active ETF: OAKM's Strategy Delivers Outperformance.](/images/morningstars-2026-top-active-etf-oakms-strategy-delivers-outperformance-en.jpg)
 
 Morningstar's designation of OAKMX as its Top Active ETF for 2026 underscores a seismic shift in the active management landscape, as...
 
-![Morningstar's 2026 Top Active ETF: OAKM's Strategy Delivers Outperformance.](/images/morningstars-2026-top-active-etf-oakms-strategy-delivers-outperformance-en.jpg)
 
 Morningstar's designation of OAKMX as its Top Active ETF for 2026 underscores a seismic shift in the active management landscape, as this concentrated technology fund delivered a staggering 15.3% outperformance over the S&P 500 Technology Select Sector SPDR (XLK) in the trailing 12 months, according to [Morningstar](https://www.morningstar.com/) data. This performance comes amidst heightened geopolitical risk and persistent inflationary pressures, challenging traditional passive investing narratives. The fund's success hinges on a highly selective approach within the volatile artificial intelligence and semiconductors sub-sectors, raising critical questions about sustainability and risk concentration.
 
@@ -79,7 +78,7 @@ OAKMX is a high-beta gamble masquerading as disciplined active management. Its t
 ⚠️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 ---
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

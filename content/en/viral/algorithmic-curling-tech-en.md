@@ -17,13 +17,12 @@ translationKey: e4300396-617e-d400-6fe1-81efb4f9200f
 type: viral
 ---
 
-## Executive Summary (TL;DR)
+## Key Insights
 
 * ![Niklas Edin's Fury: Is Curling's Biggest Cheating Problem About to Explode?](/images/algorithmic-curling-tech-en.jpg)
 
 Niklas Edin believes curling has a cheating problem that’s worse than doping. The sport's reliance on tradition over technology is about to face its biggest test....
 
-![Niklas Edin's Fury: Is Curling's Biggest Cheating Problem About to Explode?](/images/algorithmic-curling-tech-en.jpg)
 
 Niklas Edin believes curling has a cheating problem that’s worse than doping. The sport's reliance on tradition over technology is about to face its biggest test.
 
@@ -77,7 +76,7 @@ The sport must be willing to adapt to the demands of modern competition and embr
 
 Curling must embrace technology to safeguard its future. World Curling should invest in a VAR-like system for high-stakes matches and implement it without delay.
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+*Aviso Editorial:* This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 

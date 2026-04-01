@@ -58,7 +58,7 @@ Un estudio específico en Cataluña revela que más de un tercio de los trabajad
 
 A pesar de estas advertencias, muchos sindicatos aplauden la "modernización" impulsada por la IA sin considerar los riesgos inherentes. La encuesta de McKinsey & Company señala que el 13% de los trabajadores ya utiliza herramientas de IA, pero casi una cuarta parte de las empresas ha sufrido consecuencias negativas por la inexactitud de estos modelos. Este riesgo, que debería ser un foco de atención para los sindicatos, se ignora en favor de un optimismo ciego hacia la tecnología.
 
-*Aviso YMYL: Esta información es educativa y no debe ser considerada como asesoramiento profesional. Se recomienda consultar a especialistas en el área para obtener una comprensión más profunda de la situación laboral actual y futura.*
+*Aviso Editorial:* Esta información es educativa y no debe ser considerada como asesoramiento profesional. Se recomienda consultar a especialistas en el área para obtener una comprensión más profunda de la situación laboral actual y futura.*
 
 ## Metodología y Fuentes
 

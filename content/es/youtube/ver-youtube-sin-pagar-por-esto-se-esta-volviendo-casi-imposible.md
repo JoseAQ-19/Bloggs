@@ -60,7 +60,7 @@ La necesidad de alternativas se vuelve cada vez más urgente a medida que YouTub
 
 El auge de navegadores enfocados en la privacidad y herramientas de bloqueo de anuncios son un testimonio de que los usuarios pueden encontrar soluciones que respeten los términos de servicio de las plataformas. Al elegir estas alternativas, no solo se evita el riesgo de perder la cuenta, sino que también se contribuye a un ecosistema más saludable donde la privacidad y la monetización de datos son compatibles.
 
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional.*
+*Aviso Editorial:* La información de este artículo es educativa y no constituye asesoramiento profesional.*
 
 ## Metodología y Fuentes
 
