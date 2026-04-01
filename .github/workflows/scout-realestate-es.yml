@@ -1,7 +1,5 @@
 name: "Scout Real Estate - Spanish"
 on:
-  schedule:
-    - cron: '0 5 * * *'
   workflow_dispatch:
 permissions:
   contents: write

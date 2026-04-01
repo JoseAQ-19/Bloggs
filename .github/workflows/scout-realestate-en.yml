@@ -1,7 +1,5 @@
 name: "Scout Real Estate - English"
 on:
-  schedule:
-    - cron: '30 6 * * *'
   workflow_run:
     workflows: ["Writer Real Estate - Spanish"]
     types: [completed]
