@@ -20,7 +20,7 @@
   data-aos="fade-up" data-aos-duration="1200">
   <header class="mt4 w-100">
     <aside class="instapaper_ignoref b helvetica tracked ttu white-60">
-      {{ .CurrentSection.Title }}
+      {{ if .Section }}{{ .CurrentSection.Title }}{{ else }}{{ if eq .Lang "es" }}NovumWorld{{ else }}NovumWorld{{ end }}{{ end }}
     </aside>
     {{- partials.IncludeCached "social/share.html" . . -}}
     <h1 class="f1 mt3 mb1 white">
