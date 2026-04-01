@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "9c1287e5-0c75-81c9-3c8e-974b7fa64fe2"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![MrBeast's Empire Crumbles? Views Plunge 50% As Controversy Swirls](/images/mrbeast-controversy-business-impact-en.jpg)
 

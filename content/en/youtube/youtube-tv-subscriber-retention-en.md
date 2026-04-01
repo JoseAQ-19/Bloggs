@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "b20e6b53-5a35-8423-9469-ea49cf9a5f26"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/images/youtube-tv-subscriber-retention-en.jpg)
 

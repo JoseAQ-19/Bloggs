@@ -11,6 +11,8 @@ categories: ["tools"]
 type: "tools"
 language: "es"
 translationKey: "c94c4597-81f8-b332-4125-3343fb056239"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![El Indicador SuperTrend de BigBeluga Promete 200% de Rentabilidad y Nadie Lo Cree](/images/el-mapa-supertrend-de-bigbeluga-el-nuevo-indicador-que-cambiara-tu-estrategia-financiera.jpg)
 

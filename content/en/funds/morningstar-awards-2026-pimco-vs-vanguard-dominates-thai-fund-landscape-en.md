@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "en"
 translationKey: "1e89e978-3fc4-a992-b64d-9dc64aaed2b3"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Morningstar Awards 2026: PIMCO vs Vanguard Dominates Thai Fund Landscape](/images/morningstar-awards-2026-pimco-vs-vanguard-dominates-thai-fund-landscape-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 In Thailand's mutual fund landscape, PIMCO and Vanguard are at the forefront, showcasing remarkable performance metrics that have attracted significant investor attention. **PIMCO's Total Return Fund has outperformed its benchmark by 1.8% over the past year**, while **Vanguard's S&P 500 ETF has delivered a 15% total return over three years**, reflecting a robust investment strategy. Additionally, **the average expense ratio for equity funds has declined to 0.50% in 2025**, marking a continued trend towards cost-efficient investing.
 

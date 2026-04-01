@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "911b6ed1-faf7-3a96-e916-f5481f53e9d6"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![¿Baby Shark A Bolsa: ¿Pagarias 400 Millones Por Una Canción Infantil?](/images/baby-shark-bolsa-valoracion-pinkfong.jpg)
 

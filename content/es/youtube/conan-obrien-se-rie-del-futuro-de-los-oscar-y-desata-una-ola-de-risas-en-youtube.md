@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "eed2f795-3f3d-7fa2-5172-bab36876ce7d"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Conan O’Brien Desata Risas Sobre el Futuro de los Oscar y Causa Polémica en YouTube](/images/conan-obrien-se-rie-del-futuro-de-los-oscar-y-desata-una-ola-de-risas-en-youtube.jpg)
 

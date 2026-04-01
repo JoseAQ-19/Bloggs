@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "9ca461e2-25cd-0f26-add6-d4cbe187605e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Lukaku's Absence: UEFA's ACL Injury Warning Ignored By Belgium Management?](/images/lukaku-omitted-belgium-games-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 The management of Romelu Lukaku’s return to play represents a cynical gamble on human physiology where the biological cost of re-injury is treated as a mere line item in a performance budget.
 

@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "es"
 translationKey: "8fe3cbc8-0b46-c194-f304-b15b52fb251f"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Bestinver Bolsa FI lidera el mercado español con un 49,05% de rentabilidad en 2026](/images/bestinver-bolsa-fi-lidera-el-mercado-espanol-con-un-4905-de-rentabilidad-en-2026.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 El fondo Bestinver Bolsa FI ha alcanzado una rentabilidad impresionante del 49,05% en 2026, superando sus competidores en el mercado español. 
 

@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "e4300396-617e-d400-6fe1-81efb4f9200f"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Niklas Edin's Fury: Is Curling's Biggest Cheating Problem About to Explode?](/images/algorithmic-curling-tech-en.jpg)
 

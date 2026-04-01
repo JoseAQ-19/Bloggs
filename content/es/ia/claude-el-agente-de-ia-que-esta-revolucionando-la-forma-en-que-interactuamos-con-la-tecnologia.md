@@ -11,6 +11,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "8845b2c8-3569-9d27-98cc-782e07de6dea"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Claude Revoluciona La Interacción Tecnológica: ¿Está En Peligro Tu Privacidad?](/images/claude-el-agente-de-ia-que-esta-revolucionando-la-forma-en-que-interactuamos-con-la-tecnologia.jpg)
 

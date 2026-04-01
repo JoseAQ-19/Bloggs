@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "cedec4db-0f6f-f5ce-a3cc-173a3838929f"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Grayscale's $17 Billion Nightmare: Can New Crypto Brokerage Stop The Bleeding?](/images/grayscale-crypto-brokerage-etf-outflows-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 Grayscale's $17 billion asset exodus signals a structural collapse in market confidence that no clever brokerage pivot can easily reverse. The conversion to an ETF was supposed to unlock value, but instead, it opened the floodgates for capital flight.
 

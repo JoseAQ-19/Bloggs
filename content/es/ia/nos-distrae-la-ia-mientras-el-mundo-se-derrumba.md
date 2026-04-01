@@ -15,6 +15,8 @@ type: ia
 remastered: true
 
 translationKey: "c176ece5-7640-9dc6-056b-6944d6e97aeb"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ¿Inteligencia Artificial? Más bien, Estupidez Artificial Corporativa.
 

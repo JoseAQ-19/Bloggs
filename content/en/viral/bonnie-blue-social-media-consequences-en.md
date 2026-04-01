@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "e811fee1-4d48-1b05-bbdf-31f628c4ddd4"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![56% Spike: Texas Maternal Deaths Explode Post-Roe; Tech Execs Silent](/images/bonnie-blue-social-media-consequences-en.jpg)
 

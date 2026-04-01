@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "d7cd0c31-b70d-8d8d-bf7e-a33c6073172a"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Mikaela Testa's Bombshell: The Anna You Love Is A Complete Lie](/images/anna-paul-brother-onlyfans-controversy-en.jpg)
 

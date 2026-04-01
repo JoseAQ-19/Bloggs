@@ -16,6 +16,8 @@ tags:
 title: 'Metaverse: The 21st Century Pyramid Scheme'
 translationKey: d97adf89-8d34-4b07-94e7-7276bc0a1f7a
 type: ia
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ---
 title: The Metaverse Bubble Has Burst: A Cautionary Tale of Hype and Speculation

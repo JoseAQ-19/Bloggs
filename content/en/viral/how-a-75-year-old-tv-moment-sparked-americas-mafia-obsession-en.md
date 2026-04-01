@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "d658e141-bfbb-f534-4faf-f4a1a6c921d4"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![The Shocking Truth: How One 75-Year-Old TV Moment Fueled America’s Mafia Obsession](/images/how-a-75-year-old-tv-moment-sparked-americas-mafia-obsession-en.jpg)
 

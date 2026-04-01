@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "deeaa325-faad-2b81-e235-edb0ba106c57"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Facebook Just Invested $3,000 In Creators—Is This The Start Of A Monetization War?](/images/facebook-pours-3000-into-tiktok-and-youtube-creatorsis-this-the-new-monetization-war-en.jpg)
 

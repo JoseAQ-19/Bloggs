@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "2645b431-de1b-1eeb-e2fd-de1f4836d652"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Temu's Data Privacy Nightmare Expands: Now They Know What You Eat](/images/temu-grocery-expansion-en.jpg)
 

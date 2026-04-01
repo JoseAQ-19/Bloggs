@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "9c23cb1e-654d-6691-6da6-8406ed80a0c8"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Vultures' Incendia YouTube: ¿Kanye West Repetirá el Error Legal del 70%?](/images/kanye-west-vultures-youtube-polemica.jpg)
 

@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "es"
 translationKey: "76a11e07-8b6e-8224-9250-cea8fa9c24e9"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Indexa Capital: Bajada de comisiones en 2026 podría sumar 260.000€ a tu inversión.](/images/indexa-capital-bajada-de-comisiones-en-2026-podria-sumar-260000-a-tu-inversion.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 **Indexa Capital: Bajada de comisiones en 2026 podría sumar 260.000€ a tu inversión.**
 

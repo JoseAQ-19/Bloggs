@@ -15,6 +15,8 @@ title: 'IA y el Futuro del Trabajo: Un Análisis Técnico Profundo'
 translationKey: ai-job-market-impact-america
 type: ia
 remastered: true
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 La cantinela de la IA como panacea laboral es una peligrosa falacia. Mientras los gurús tecnológicos nos venden la moto de la "transformación", la realidad es que se avecina una carnicería laboral de proporciones bíblicas. ¿Preparados? No, ni lo estaremos. Y las consecuencias serán devastadoras.
 

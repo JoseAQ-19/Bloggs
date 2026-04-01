@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "es"
 translationKey: "9a5f6180-76cd-eb7e-a597-6645034535ff"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Invertir en guerra: Rentabilidad del 10% en 'Magallanes Value' pese a Irán](/images/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 **El 10% de rentabilidad en 'Magallanes Value' pese a la incertidumbre geopolítica**
 

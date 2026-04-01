@@ -11,6 +11,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "302efb2f-39bd-1e67-a267-05ba1f868e9d"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Tool Lending Libraries Circulate Over 1,060 Tools: A Revolution in Sustainable Access](/images/tool-lending-library-software-teardown-en.jpg)
 

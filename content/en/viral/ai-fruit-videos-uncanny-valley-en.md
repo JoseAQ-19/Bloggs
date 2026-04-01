@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "fd41f510-4994-1b0d-a9e4-b87b60a7e700"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![$42 Billion Fruit Fad? AI's Uncanny Orchard Is Ripe For Disruption](/images/ai-fruit-videos-uncanny-valley-en.jpg)
 

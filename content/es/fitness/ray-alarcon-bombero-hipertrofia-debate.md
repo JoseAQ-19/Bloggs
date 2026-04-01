@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "es"
 translationKey: "35d24516-4b8b-91ba-5eb6-2e297c23338d"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Ray Alarcón Rompe el Mito del Bombero Musculoso: Su Secreto Enfurece a los Gimnasios](/images/ray-alarcon-bombero-hipertrofia-debate.jpg)
+
+
+> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
 
 94.4% de los bomberos con VO2 max insuficiente se consideran atléticos superiores, una contradicción mortal que alimenta el entrenamiento equivocado en los gimnasios españoles. 
 * Los bomberos con VO2 max por debajo del mínimo recomendado perciben erróneamente su capacidad aeróbica en un 94.4%, según un estudio sobre autoevaluación en bomberos activos. 

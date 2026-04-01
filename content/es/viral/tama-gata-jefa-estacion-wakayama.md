@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "829d4e41-d0d5-4d61-daff-d184d109609a"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Adiós, Tama: El Desplome Turístico de Wakayama Cuesta 1.100 Millones de Yenes.](/images/tama-gata-jefa-estacion-wakayama.jpg)
 

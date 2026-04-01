@@ -4,6 +4,8 @@ featured_image: /images/privacy.jpg
 layout: single
 title: Política de Privacidad
 translationKey: privacy
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## Política de Privacidad
 

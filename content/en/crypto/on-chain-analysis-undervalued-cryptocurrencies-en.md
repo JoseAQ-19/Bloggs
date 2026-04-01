@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "1620a868-a68b-78a0-7db2-a2f5f8fef21d"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Missed the Bull Run? 3 Cryptos Under $1 That Could Make You Rich](/images/on-chain-analysis-undervalued-cryptocurrencies-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 Ethereum Layer 2 tokens trading under $1 aren't a guaranteed path to wealth, as these digital assets carry significant risks that investors must understand before allocating capital.
 

@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "bb7edcc9-21cf-f886-0d02-e8acd75e1d7d"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Carriedo Desata la Ira Médica: ¿Peligran el 93% de Niños Vacunados?](/images/marta-carriedo-polemica-vacunas-infantiles.jpg)
 

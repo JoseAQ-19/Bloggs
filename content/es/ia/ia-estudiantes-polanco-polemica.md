@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "5470ed37-a09c-59d5-bbf4-916aad5b4268"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![ChatGPT Suspende en España: La Mitad de los Alumnos Sacan Peores Notas Por Usarlo](/images/ia-estudiantes-polanco-polemica.jpg)
 

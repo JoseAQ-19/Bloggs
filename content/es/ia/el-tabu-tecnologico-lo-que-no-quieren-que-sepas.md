@@ -13,6 +13,8 @@ tags:
 title: 'El Tabú Tecnológico: Lo Que NO Quieren Que Sepas'
 translationKey: el-tabu-tecnologico-lo-que-no-quieren-que-sepas
 type: ia
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## El Lado Oscuro de la Innovación: Tabúes Tecnológicos al Descubierto
 

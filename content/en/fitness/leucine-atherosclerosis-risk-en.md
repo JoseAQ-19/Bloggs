@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "92802407-0d10-491e-2b61-32b88c7b6188"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Leucine's Lie: The Supplement Industry Is Killing Your Arteries, New Study Shows](/images/leucine-atherosclerosis-risk-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 Without question, creatine is the gold standard by which all strength-related supplements are judged — but the protein market's relentless push for "more" may be driving arteries toward early failure.
 

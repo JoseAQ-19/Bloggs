@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "6681a4a5-138b-874c-4f7e-538bc8eaa135"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Carnival's Deadly Game: Balcony Sleeping Meets Runaway Autopilot, 56 Fatalities Already](/images/cruise-control-carnival-balcony-sleeping-en.jpg)
 

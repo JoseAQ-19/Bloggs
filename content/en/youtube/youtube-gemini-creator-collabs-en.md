@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "9c053089-ae67-ba1c-7682-b21c94fd500e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Neal Mohan's Nightmare: AI Lookalikes Threaten YouTube's $32B Payouts](/images/youtube-gemini-creator-collabs-en.jpg)
 

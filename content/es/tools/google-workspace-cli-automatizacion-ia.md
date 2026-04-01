@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "es"
 translationKey: "f3b7e84c-ef50-0b28-2ae9-3716218fd422"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Alarma Google Workspace: Tu Automatización Con IA Podría Infringir El RGPD.](/images/google-workspace-cli-automatizacion-ia.jpg)
 

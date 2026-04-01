@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "9cb867ac-f441-fa97-0a39-842ef0f57ff5"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Masterchef En Dubái: Hacienda Sospecha Que Ocultan 140.000 Millones De Euros](/images/masterchef-dubai-polemica-fiscal.jpg)
 

@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "04a4aaef-f872-30d1-48fe-92cc4f43804a"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![101-Year-Old Pottery Proves Art Therapy Boosts Cognitive Function Beyond Mood](/images/101-year-old-grandpa-becomes-pottery-class-superstar-meet-the-happiest-guy-in-the-world-en.jpg)
 

@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "1018b691-bf49-46a3-dac3-add60e7658fc"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Is This The End Of Hollywood? Matt Belloni Takes The Town To YouTube.](/images/matt-belloni-the-town-youtube-en.jpg)
 

@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "26a2c82c-8cd8-8580-daa7-5865ebc3cb6f"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Anthropic's Red Lines CRUMBLE? Pentagon AI Used in Iran Strike.](/images/pentagon-ai-anthropic-iran-strikes-en.jpg)
 

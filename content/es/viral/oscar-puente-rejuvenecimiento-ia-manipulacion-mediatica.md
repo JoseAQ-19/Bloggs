@@ -11,6 +11,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "9b19e0ed-cdc7-d8cb-d71b-36e4db2388ed"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![La Manipulación Mediática De Óscar Puente: 929 Millones En Estafas De IA](/images/oscar-puente-rejuvenecimiento-ia-manipulacion-mediatica.jpg)
 

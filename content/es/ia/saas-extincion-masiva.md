@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "4520f887-ce4c-71f6-74aa-7c5c894f465c"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![¡ALERTA! NTT DATA Revela La Amenaza Silenciosa Que Extinguirá Tu SaaS](/images/saas-extincion-masiva.jpg)
 

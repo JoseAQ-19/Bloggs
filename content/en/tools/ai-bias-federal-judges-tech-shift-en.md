@@ -11,6 +11,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "bfebf76c-38e7-d713-68c8-c8ce942882f0"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![60% of Federal Judges Use AI Tools, But Bias Still Thrives in Courtrooms](/images/ai-bias-federal-judges-tech-shift-en.jpg)
 

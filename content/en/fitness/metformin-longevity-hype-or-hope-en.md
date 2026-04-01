@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "24880993-08bb-8772-f566-097f086fdbd1"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Metformin Extends Life By 5%... In Mice. Here's Why Your Doctor Is Skeptical](/images/metformin-longevity-hype-or-hope-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 The dream of extending human lifespan with a simple pill continues to entice researchers and investors, but the reality is proving complex. Metformin's potential is being tested, but lifestyle changes and alternative strategies are also under consideration.
 

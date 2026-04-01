@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "8cac1169-573b-fd2e-6736-a3a559dc4ec4"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![$5 Million a Year, But At What Cost? Family Vlogging's Dark Secret](/images/family-travel-youtube-burnout-en.jpg)
 

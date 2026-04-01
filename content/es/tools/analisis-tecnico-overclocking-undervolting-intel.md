@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "es"
 translationKey: "58d7759c-5dfd-76ff-c17d-a43679575636"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![¡ALERTA! Tu Intel Podría Estar Muriendo Lentamente: La Verdad Sobre El Undervolting Gratis.](/images/analisis-tecnico-overclocking-undervolting-intel.jpg)
 

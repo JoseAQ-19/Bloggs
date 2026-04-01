@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "es"
 translationKey: "e649a1e5-31ed-75b4-7a4c-83995ce85636"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Guerra Irán: 3 sectores defensivos y un fondo refugio con rentabilidad del 5%.](/images/guerra-iran-3-sectores-defensivos-y-un-fondo-refugio-con-rentabilidad-del-5.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 Los mercados globales han reaccionado con extremo nerviosismo ante la escalada de tensiones entre Irán e Israel, con el petróleo Brent superando los 90 dólares por barril por primera vez desde noviembre de 2023. Según datos de Morningstar, esta inestabilidad geopolítica ha disparado las primas de riesgo en los mercados emergentes y ha provocado flujos de capital hacia activos considerados refugio, aunque con comportamientos dispares según el sector. El Ibex 35 ha caído un 7% en la semana, mientras que los bonos del Tesoro estadounidense a 10 años han reducido su rentabilidad al 4.2%, reflejando una aversión al riesgo selectiva entre inversores institucionales. En este entorno, identificar sectores con resiliencia estructural se vuelve crucial para quienes buscan preservar capital sin sacrificar rentabilidad a medio plazo.
 

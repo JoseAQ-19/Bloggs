@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "es"
 translationKey: "f2976b83-f00f-225b-2f4a-f2070e8e130a"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![DCK Desafía la Obsolescencia Programada en EISENWARENMESSE 2026 y Revoluciona el Mercado de Herramientas](/images/dck-expande-su-dominio-en-herramientas-profesionales-en-eisenwarenmesse-2026.jpg)
 

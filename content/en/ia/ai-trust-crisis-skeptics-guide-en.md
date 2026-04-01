@@ -11,6 +11,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "978c234a-f52e-4fe3-d934-4957e7636ddc"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![65% Of Americans Distrust Robots: The Alarming AI Trust Crisis Exposed](/images/ai-trust-crisis-skeptics-guide-en.jpg)
 

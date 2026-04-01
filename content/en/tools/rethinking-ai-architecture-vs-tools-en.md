@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "702b9aae-0151-52b6-13cd-52b352d438a6"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Rethinking AI: 75% Of Firms Fail By Ignoring Architecture For Tools](/images/rethinking-ai-architecture-vs-tools-en.jpg)
 

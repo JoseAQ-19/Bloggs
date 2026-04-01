@@ -5,6 +5,8 @@ layout: single
 title: Contact
 translationKey: contact
 url: /en/contact/
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## Let's Talk Straight
 

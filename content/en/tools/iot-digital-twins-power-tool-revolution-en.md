@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "790ae3dc-6fa2-94cf-1d27-9c24e216709d"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![$125,000/Hour: Is Your Jobsite Bleeding Cash Thanks To Dumb Power Tools?](/images/iot-digital-twins-power-tool-revolution-en.jpg)
 

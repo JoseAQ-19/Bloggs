@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "01d3c86b-c371-45ed-b70d-d48ecd45d1ef"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Claude's $1.5B Copyright Nightmare: Can Anthropic REALLY Deliver Enterprise AI?](/images/anthropic-claude-enterprise-ai-en.jpg)
 

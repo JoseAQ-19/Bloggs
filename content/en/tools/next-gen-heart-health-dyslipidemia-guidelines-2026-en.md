@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "9bb4157a-170e-de13-61e8-2a192617eb11"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Statin MYOPATHY Cover-Up? The 2026 Guidelines Doctors Aren't Telling You About](/images/next-gen-heart-health-dyslipidemia-guidelines-2026-en.jpg)
 

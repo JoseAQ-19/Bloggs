@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "1f802e3a-98ef-e3ac-f7a5-c3b62ac0606a"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![320,000 YouTube Users Screamed: What Google Is Hiding About The Outage.](/images/youtube-outage-2026-en.jpg)
 

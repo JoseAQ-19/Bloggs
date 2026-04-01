@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "b2910c22-6e2f-4452-142b-637c3c3329b7"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![GMV Advierte: Estaremos Atrapados en una Costra de Desechos Espaciales.](/images/alerta-nasa-satelite-descontrolado-amenaza-tierra.jpg)
 

@@ -11,8 +11,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "99699ef0-b939-39c3-22b1-93c1da642d7f"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![The 11-Minute Workout Revolution: How It Cuts Mortality Risk By 25%](/images/the-11-minute-cold-war-workout-thats-making-a-comeback-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 The fitness industry has built a trillion-dollar empire on the premise that suffering is a prerequisite for health, selling the lie that you must grind for an hour a day to see results. It is a convenient myth designed to sell memberships and keep you dependent on a system that profits from your insecurity. The reality is that the biological returns on exercise diminish rapidly after the first few minutes, rendering most "grind" sessions biologically redundant.
 

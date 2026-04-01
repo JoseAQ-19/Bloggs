@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "31f908cb-95e5-451c-9d6d-e77ae8cc0a5f"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Bitcoin's $55K Cliff: Peter Brandt Gives It 25% Chance of DOOM](/images/bitcoin-55k-support-onchain-analysis-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 Bitcoin's price trajectory is under intense scrutiny as market analysts offer conflicting predictions. Veteran trader Peter Brandt has assigned a 25% probability to a potential Bitcoin drop to $55,000.
 

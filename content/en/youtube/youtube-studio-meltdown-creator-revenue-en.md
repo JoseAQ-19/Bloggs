@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "91329c6a-7d81-08e8-d3fd-b6efb9f16c2f"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube Studio's $36 Billion Problem: Glitches Wreak Havoc On Creator Paychecks](/images/youtube-studio-meltdown-creator-revenue-en.jpg)
 

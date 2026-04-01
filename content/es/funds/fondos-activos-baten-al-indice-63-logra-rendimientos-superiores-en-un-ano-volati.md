@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "es"
 translationKey: "cd4e23c4-4c45-dff9-bff0-021601590b80"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Fondos activos baten al índice: 63% logra rendimientos superiores en un año volátil](/images/fondos-activos-baten-al-indice-63-logra-rendimientos-superiores-en-un-ano-volati.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 **El 63% de los fondos activos superaron a sus índices de referencia en 2023, desafiando la narrativa predominante de la gestión pasiva.**
 

@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "05e786b4-83f8-d6a8-9583-6d29f350ef94"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![500+ Companies Pay $1M to Ditch ChatGPT Privacy Risks, Embrace Claude.](/images/claude-vs-chatgpt-privacy-concerns-en.jpg)
 

@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "bc97f6ba-bc20-a33f-3473-6a86666a4c2e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![¡191%! Deepfakes Descontrolados En España: El Cine Mudo Es Sólo El Inicio](/images/cine-mudo-sci-fi-revelado.jpg)
 

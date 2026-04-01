@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "fedbfeca-b9c8-531f-c53b-2bf2861416b9"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube TV In 2026: The $83 Gamble That Could Backfire Spectacularly](/images/youtube-tv-2026-price-hike-or-worth-the-hype-en.jpg)
 

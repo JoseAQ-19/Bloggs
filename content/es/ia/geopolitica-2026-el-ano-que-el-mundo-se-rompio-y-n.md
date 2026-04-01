@@ -13,6 +13,8 @@ type: ia
 remastered: true
 
 translationKey: "3c945974-5dad-a73a-db37-57ea3e70ed09"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 El año 2026 no fue un cataclismo, sino la confirmación de una lenta metástasis. El mundo, supuestamente interconectado, se reveló como un conjunto de intereses egoístas, propulsado por una geopolítica despiadada y una tecnología convertida en herramienta de control. ¿Sorprendidos? No deberían estarlo.
 

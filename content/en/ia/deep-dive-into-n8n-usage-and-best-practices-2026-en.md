@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "c482181e-8871-ff45-26ca-c7490c17711a"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Deep dive into n8n usage and best practices 2026 Analysis](/images/deep-dive-into-n8n-usage-and-best-practices-2026-en.jpg)
 

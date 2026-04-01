@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "defc2d4b-a3ec-1f6c-2772-d8be9c69bc96"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![South Carolina's S.28 and S.29: Leading The Nation Against AI Child Abuse.](/images/south-carolina-child-protection-ai-law-enforcement-en.jpg)
 

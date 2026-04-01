@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "es"
 translationKey: "a3a0717a-8ed5-97f6-a331-41c76d3d533c"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Fondos premiados Morningstar 2026: Los que superan el 15% de rendimiento](/images/fondos-premiados-morningstar-2026-los-que-superan-el-15-de-rendimiento.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 En la actualidad, un sorprendente **78% de los fondos de inversión europeos han superado el 15% de rendimiento en los últimos tres años**, lo que destaca la creciente rentabilidad en el sector. 
 

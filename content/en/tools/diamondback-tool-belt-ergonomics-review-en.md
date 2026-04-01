@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "2a0f8700-85a6-5923-9a5d-54b74c3d2e9f"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![$40,000 Per Claim: The Hidden Cost Of Your Crappy Tool Belt](/images/diamondback-tool-belt-ergonomics-review-en.jpg)
 

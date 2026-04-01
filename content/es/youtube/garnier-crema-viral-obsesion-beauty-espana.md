@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "fcb44b8e-f387-4447-616f-4ef8c03a9917"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Garnier Destapada: Dermatologos Alertan Sobre Riesgos Ocultos Para Pieles Sensibles en España.](/images/garnier-crema-viral-obsesion-beauty-espana.jpg)
 

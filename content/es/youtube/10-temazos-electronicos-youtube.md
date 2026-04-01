@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "0b1d060e-7733-b84e-2c40-bba996154d0d"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![¡Pánico Musical! La IA Robará 100 Millones A Artistas Españoles En Un Año](/images/10-temazos-electronicos-youtube.jpg)
 

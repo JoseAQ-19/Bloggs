@@ -11,6 +11,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "44d846b0-6808-73ba-7d97-bf764f0e54ce"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Instagram And YouTube Face Legal Chaos: The Shocking Verdict That Could Change Everything](/images/the-legal-storm-brewing-what-instagram-and-youtubes-defective-verdict-means-for-social-media-en.jpg)
 

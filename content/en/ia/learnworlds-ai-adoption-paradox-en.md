@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "c8fb8e00-7759-ae58-b5f4-c6c137980c10"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![LearnWorlds Data: 80% Of AI Interactions Handled By Bots, 0% Strategic Thought](/images/learnworlds-ai-adoption-paradox-en.jpg)
 

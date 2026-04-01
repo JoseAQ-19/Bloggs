@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "a25cd5b8-02d1-472d-3be0-5be9dde2f83d"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Temu's $2M FTC Fine: Your Cheap Steak Might Be More Expensive Than You Think](/images/temu-steak-controversy-en.jpg)
 

@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "c7932b8c-2de1-c37d-d9de-a4d693988c4b"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![$375 Million Nightmare: Is This The End Of Section 230 For Meta?](/images/meta-youtube-addiction-trial-loss-en.jpg)
 

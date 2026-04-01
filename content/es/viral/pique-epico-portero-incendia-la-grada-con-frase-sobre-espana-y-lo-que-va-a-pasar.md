@@ -11,6 +11,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "10e65263-24f5-8909-5003-85d3ec5554e7"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Pique ÉPICO: Portero Enciende la Grada Con Su Impactante Frase Sobre España](/images/pique-epico-portero-incendia-la-grada-con-frase-sobre-espana-y-lo-que-va-a-pasar.jpg)
 

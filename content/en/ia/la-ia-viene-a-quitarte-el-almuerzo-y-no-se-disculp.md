@@ -11,6 +11,8 @@ quality_tier: fenix_v2_notebooklm
 title: "AI Is Coming for Your Lunch (And It Won't Apologize)"
 translationKey: la-ia-viene-a-quitarte-el-almuerzo-y-no-se-disculp
 type: ia
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 The robots aren't coming, they're already here – and they're not exactly polite about it. Forget dystopian visions of killer androids; the real AI revolution is far more subtle, and arguably more disruptive: it's quietly reshaping the job market, creating precarious "IAchangas" (AI gigs), and forcing workers to adapt whether they like it or not. The initial fear of AI replacing entire professions is giving way to a more nuanced, yet still unsettling, reality: AI is unbundling jobs, automating tasks, and leaving many scrambling to find their place in the new order.
 

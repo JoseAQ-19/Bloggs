@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "1e3a0266-353b-cfaa-a4da-0ada5629d47d"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Orangetheory's $1 Billion Gamble: Will MLS Partnership Lead To Data Breach?](/images/orangetheory-mls-data-privacy-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 Orangetheory Fitness may be sweating more over potential data breaches than calorie burn, especially given its escalating collection of biometric data.
 

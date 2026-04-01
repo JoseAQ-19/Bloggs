@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "fc90cfee-6a1c-16eb-02a1-aafd0ecca5ed"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Kleiner Perkins' $3.5B AI Bet: Hallucinations Could Cost Them Everything.](/images/kleiner-perkins-ai-gamble-en.jpg)
 

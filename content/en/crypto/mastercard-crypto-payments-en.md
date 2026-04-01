@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "32351da7-df00-264a-00a4-1248080d3b8f"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Mastercard's Crypto Plan: Are They Secretly After Your Bank Account Next?](/images/mastercard-crypto-payments-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 Mastercard's cryptocurrency ambitions represent a calculated bet on the future of payments, but the real target may be something far more lucrative: your bank account.
 

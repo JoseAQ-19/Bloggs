@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "67e579f8-7d89-29b4-d2da-6830fc98c2b6"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Trump's Crypto Coup: How Jared Kushner Could Pocket Billions](/images/trump-crypto-policies-kushner-benefit-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 The convergence of political power and personal profit has never been more transparent than in the Trump administration's approach to cryptocurrency regulation, where family ties to blockchain ventures create an unprecedented ethical quagmire.
 

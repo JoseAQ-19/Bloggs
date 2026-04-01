@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "e50b8caf-ff82-4155-bd4d-944825f5fc20"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![DaVinci Resolve Audio Dropouts: The Real Culprits & Fixes](/images/davinci-resolve-audio-dropouts-fix-en.jpg)
 

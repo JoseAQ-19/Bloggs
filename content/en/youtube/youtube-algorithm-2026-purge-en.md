@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "25f1860a-ef3d-3435-121a-18a8cab3daab"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube's 2026 Algorithm: Get Ready For 42,530 Dollar COPPA Fines](/images/youtube-algorithm-2026-purge-en.jpg)
 

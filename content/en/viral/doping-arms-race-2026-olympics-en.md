@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "a016ca2a-fe9d-fb3e-638a-0da8ae612fa7"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![CRISPR Olympics: Gene Editing Super Athletes Could Dominate 2026 Winter Games](/images/doping-arms-race-2026-olympics-en.jpg)
 

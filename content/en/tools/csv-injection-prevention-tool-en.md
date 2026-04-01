@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "1ec334f2-66c3-fa95-a63a-7d41ea7ed128"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Excel Apocalypse: This Tiny Tool Saves You From Remote Code Execution](/images/csv-injection-prevention-tool-en.jpg)
 

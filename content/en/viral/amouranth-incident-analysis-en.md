@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "c652cc94-2505-d618-c729-baf86c48a7ff"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Amouranth's $440,000 Twitch Loss: Was Peru Trip A Desperate Gamble?](/images/amouranth-incident-analysis-en.jpg)
 

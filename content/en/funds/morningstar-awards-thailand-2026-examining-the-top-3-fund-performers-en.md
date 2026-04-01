@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "en"
 translationKey: "e9babc0a-0290-fbbb-8ae9-490fb2bcf13a"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Morningstar Awards Thailand 2026: Examining the Top 3 Fund Performers](/images/morningstar-awards-thailand-2026-examining-the-top-3-fund-performers-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 **$1.3 billion in net inflows**: The Thailand fund market saw a significant surge in investments in 2025, with the top 3 fund performers attracting a substantial share of these inflows. According to Morningstar data, these funds have consistently demonstrated strong performance and low volatility, making them attractive to investors.
 

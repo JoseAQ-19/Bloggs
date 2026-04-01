@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "a29b18f9-3374-d89b-f8cc-16551f099b0a"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Therian Identity Faces $78 Billion Crisis: AI Deepfakes Threaten Reality Itself](/images/therian-culture-ai-disinformation-en.jpg)
 

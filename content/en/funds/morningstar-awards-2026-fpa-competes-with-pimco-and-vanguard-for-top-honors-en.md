@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "en"
 translationKey: "37b63a4f-4676-3ef1-2ab6-7453c5569012"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard for Top Honors](/images/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-for-top-honors-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 **FPA is competing head-to-head with PIMCO and Vanguard for the prestigious Morningstar Awards for Investing Excellence 2026.** 
 

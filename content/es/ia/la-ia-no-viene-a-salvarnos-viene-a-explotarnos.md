@@ -11,6 +11,8 @@ quality_tier: fenix_v2_notebooklm
 title: 'La IA No Viene a Salvarnos: Viene a Explotarnos'
 translationKey: la-ia-no-viene-a-salvarnos-viene-a-explotarnos
 type: ia
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## El Trabajo Invisible que Potencia la IA: Una Realidad de Explotación Digital
 

@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "cb290a6b-64e7-f6a9-e7c0-da73c68eb07e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube TV’s Subscriber Tsunami: Is This The End Of Traditional Cable?](/images/youtube-tv-dish-sling-streaming-wars-en.jpg)
 

@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "c9c8aaa9-d239-f486-2ef7-eea342c6b3e7"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Bitcoin's $36.7 Million Wake-Up Call: Is Your Portfolio Next?](/images/bitcoin-stop-loss-cascade-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 Bitcoin’s volatility claimed another victim as a single position faced a $36.7 million wipeout. Are you next?
 

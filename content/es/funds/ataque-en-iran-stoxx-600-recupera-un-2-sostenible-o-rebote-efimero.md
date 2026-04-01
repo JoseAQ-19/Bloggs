@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "es"
 translationKey: "e15d2480-fb40-0754-4800-b4a7b7829e12"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Ataque en Irán: Stoxx 600 Recupera un 2%, ¿Sostenible o Rebote Efímero?](/images/ataque-en-iran-stoxx-600-recupera-un-2-sostenible-o-rebote-efimero.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 El Stoxx 600 recupera un 2% tras el ataque en Irán, pero los expertos advierten que la volatilidad podría durar semanas, según Morningstar. Tras el reciente aumento de tensiones geopolíticas en Oriente Medio, el índice de referencia europeo ha mostrado resiliencia inmediata, aunque el análisis de flujos y estrategias de los grandes fondos de inversión revela un panorama complejo, con solo el 14% de los gestores activos españoles superando a sus *benchmarks* en los últimos 12 meses, según datos de la **CNMV**.
 

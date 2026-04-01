@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "es"
 translationKey: "310f10b7-7f58-22c2-2a5c-9d84a181c888"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![5.5 Lesiones por Cada 1000 Horas: La Verdad Oculta del Jiu Jitsu Para Treintañeros.](/images/jiu-jitsu-30-entrenamiento-antiedad.jpg)
+
+
+> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
 
 Empezar Jiu Jitsu a los 30 sin una estrategia de geroprotección articulada es financiar tu propia cirugía de rodilla a plazos sin interés.
 

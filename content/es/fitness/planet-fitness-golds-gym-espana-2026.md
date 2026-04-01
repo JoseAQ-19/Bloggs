@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "es"
 translationKey: "860712cf-9ee7-1deb-c031-f4eb2812f780"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Planet Fitness Declara la Guerra: 15 Gimnasios Asaltarán España en 2026](/images/planet-fitness-golds-gym-espana-2026.jpg)
+
+
+> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
 
 La euforia del fitness asequible podría ser solo otra burbuja a punto de estallar. Planet Fitness planea inaugurar 15 gimnasios en España en 2026, desafiando la sostenibilidad a largo plazo de un mercado ya sobresaturado.
 

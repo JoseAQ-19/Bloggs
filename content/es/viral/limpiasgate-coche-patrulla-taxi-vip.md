@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "2b3aaafb-9fc9-3ea8-ceab-a9014c669f73"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![¿Taxi Gratis Para Acusado De Violación? El Escándalo LimpiasGate Estalla](/images/limpiasgate-coche-patrulla-taxi-vip.jpg)
 

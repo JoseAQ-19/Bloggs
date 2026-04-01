@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "3bfab7b1-f36c-7b64-93cf-ee7aea48da10"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Sutherland's Water Crisis: 94% of Surface Water Contains Dangerous PFAS Contaminants](/images/sutherland-ias-drinking-water-crisis-what-you-need-to-know-en.jpg)
 

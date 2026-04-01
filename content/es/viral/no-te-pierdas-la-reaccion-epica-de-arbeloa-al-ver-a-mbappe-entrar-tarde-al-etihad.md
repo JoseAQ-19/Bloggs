@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "538795f1-76b8-e4b7-0891-dd29a8798cdc"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![La Reacción Épica De Arbeloa Al Ver A Mbappé Llegar Tarde: ¡Inesperado!](/images/no-te-pierdas-la-reaccion-epica-de-arbeloa-al-ver-a-mbappe-entrar-tarde-al-etihad.jpg)
 

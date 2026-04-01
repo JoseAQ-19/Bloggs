@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "en"
 translationKey: "7de7ea92-bd17-e120-506f-9084613bd0dc"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Top 5 Energy Stocks Surpassing S&P 500 Returns by 20% in 2026](/images/top-5-energy-stocks-surpassing-sp-500-returns-by-20-in-2026-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 In 2026, energy stocks have outperformed the S&P 500 by a staggering 20%, highlighting the sector's remarkable resilience amid global market fluctuations. 
 

@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "c3d9fd55-4e15-3d4d-b585-a4aea8237750"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Google’s AI Content Analysis Poses Alarming Risks: Experts Sound Off on Child Safety](/images/child-safety-advocates-sound-alarm-over-googles-ai-investment-in-kids-content-en.jpg)
 

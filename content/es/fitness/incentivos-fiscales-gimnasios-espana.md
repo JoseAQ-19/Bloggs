@@ -11,8 +11,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "es"
 translationKey: "bc269a43-cbe1-24dc-6077-95f86ba57d29"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![La Nueva Ley del Deporte: Un Paraíso Fiscal Para Gimnasios Que Aumenta la Competencia Desleal](/images/incentivos-fiscales-gimnasios-espana.jpg)
+
+
+> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
 
 La nueva Ley del Deporte es un paraíso fiscal disfrazado de bienestar social, que beneficia a grandes cadenas mientras ahoga a pequeños gimnasios. 
 * La nueva Ley del Deporte permite deducciones fiscales de hasta el 30% en gastos deportivos, lo que puede perjudicar la competencia en el sector de gimnasios privados. 
@@ -73,7 +78,7 @@ El Consejo COLEF propone un impuesto mínimo para actividades deportivas competi
 La reducción de gimnasios privados limita opciones especializadas, aumentando riesgos de lesiones y disminuyendo la calidad de servicios. La inactividad cuesta €990 millones anuales, pero la ley agrava el problema sin resolverlo. 
 
 ### ¿Existen precedentes en otros países? 
-En Estados Unidos, la [reforma tributaria](http://www.irs.gov/es/newsroom/tax-reform-brings-changes-to-fringe-benefits-that-can-affect-an-employers-bottom-line) incluye incentivos para empleados, pero con mayor regulación para evitar monopolios. Puerto Rico regula incentivos con [reglamentos específicos](https://hacienda.pr.gov/publicaciones/reglamento-determina-las-operaciones-turisticas-que-son-elegibles-para-incentivos-contributivos-temporeros), pero su modelo no es aplicable directamente a España. 
+En Estados Unidos, la [reforma tributaria](https://www.irs.gov/es/newsroom/tax-reform-brings-changes-to-fringe-benefits-that-can-affect-an-employers-bottom-line) incluye incentivos para empleados, pero con mayor regulación para evitar monopolios. Puerto Rico regula incentivos con [reglamentos específicos](https://hacienda.pr.gov/publicaciones/reglamento-determina-las-operaciones-turisticas-que-son-elegibles-para-incentivos-contributivos-temporeros), pero su modelo no es aplicable directamente a España. 
 
 ### Artículos Relacionados
 - [YouTube Revive La Nostalgia: 7 Programas Icónicos De Los 2000s Que Regresan Con Fuerza](/es/youtube/youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto/)

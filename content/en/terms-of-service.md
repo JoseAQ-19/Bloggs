@@ -5,6 +5,8 @@ layout: single
 title: Terms of Service
 translationKey: terms-of-service
 weight: 90
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## Terms of Service
 

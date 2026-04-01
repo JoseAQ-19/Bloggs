@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "db6fa28e-cd71-ab33-45cb-5e05bf8e608e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Odio 24/7: Violeta Mangriñán y La Salud Mental Que Las Redes Destrozan.](/images/violeta-mangrinan-hate-online-fama.jpg)
 

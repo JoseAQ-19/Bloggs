@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "5feec2cf-4c56-ea52-7d3d-d729cca23372"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![6,018 Victims Exposed: The Alarming Rise of Ransomware Attacks in 2024](/images/ransomware-playbook-technical-teardown-en.jpg)
 

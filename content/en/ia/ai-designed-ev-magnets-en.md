@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "613f4846-dffb-4679-cab0-3efe259601f1"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Forget Rare Earths: AI Could Conquer $11.3 Billion EV Magnet Market](/images/ai-designed-ev-magnets-en.jpg)
 

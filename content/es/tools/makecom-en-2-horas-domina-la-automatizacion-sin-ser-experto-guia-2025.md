@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "es"
 translationKey: "2612d29b-b3d6-3e6a-35a6-754ce4c17de5"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![¡Make.com en 2 HORAS! Domina la automatización SIN ser experto (Guía 2025)](/images/master-makecom-in-2-hours-complete-beginners-guide-for-2025.jpg)
 

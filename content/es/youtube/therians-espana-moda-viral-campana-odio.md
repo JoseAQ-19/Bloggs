@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "53f4c4db-c796-41a0-8d87-d126ba7307eb"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Gastó 12.000€ para Ser un Border Collie: la Verdad Detrás de los Therians Españoles](/images/therians-espana-moda-viral-campana-odio.jpg)
 

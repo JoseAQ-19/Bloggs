@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "45e50fd1-2c0a-bdc3-fb5c-3e38d72cfd20"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Gurley's 'Mania' Warning: Will AI Tech Debt Cost Us $2.4 Trillion?](/images/ai-saas-bubble-gurley-en.jpg)
 

@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "0203ec85-6f34-46cc-a127-1103aa47d3f3"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Bitcoin's Death Spiral Warning: Is Michael Burry Right About BTC?](/images/bitcoin-71k-onchain-analysis-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 Bitcoin's price volatility around $71,000 has ignited debate about a potential bull trap versus a genuine breakout. Investors are closely watching for signs of a deeper correction.
 

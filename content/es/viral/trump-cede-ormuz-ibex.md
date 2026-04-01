@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "9349e167-01dc-a1b1-14c4-d6b43d4c3327"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Hormuz Desata el Caos: IBEX 35 se Derrumba Tras Alcanzar el Petróleo $113](/images/trump-cede-ormuz-ibex.jpg)
 

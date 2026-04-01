@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "f4e4fef6-b9fa-611a-336f-99d7bcb02d9e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube's AI Nightmare: Deepfakes Smear Singapore PM, 70% Believe It's Real.](/images/ai-deepfake-singapore-pm-lee-en.jpg)
 

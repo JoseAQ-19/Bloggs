@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "9c28d317-2cd8-fbe1-0635-3833306d8940"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Curling's AI Apocalypse: Curly The Robot Is Coming For Your Olympic Gold](/images/ai-curling-controversy-en.jpg)
 

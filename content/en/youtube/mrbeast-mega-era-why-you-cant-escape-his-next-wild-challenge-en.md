@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "eaba692e-3eae-82a8-5ce0-cacbb7577bdd"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![The Hidden Strategy Behind MrBeast's Insane Challenges That Everyone Missed](/images/mrbeast-mega-era-why-you-cant-escape-his-next-wild-challenge-en.jpg)
 

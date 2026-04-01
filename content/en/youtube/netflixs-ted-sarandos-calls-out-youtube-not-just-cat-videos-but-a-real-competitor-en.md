@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "ae00744a-1a92-2b27-991c-a53e1721fb13"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube's Algorithm Dominates 70% of Viewing: Why Netflix Should Be Worried](/images/netflixs-ted-sarandos-calls-out-youtube-not-just-cat-videos-but-a-real-competitor-en.jpg)
 

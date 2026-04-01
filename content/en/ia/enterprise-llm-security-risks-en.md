@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "46dd73f7-b028-4672-f429-2938b1926275"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Gemini, ChatGPT, Claude: 78% Of Enterprises Ignored This AI Security Flaw](/images/enterprise-llm-security-risks-en.jpg)
 

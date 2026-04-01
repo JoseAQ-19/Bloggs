@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "es"
 translationKey: "f7ac0fb9-ea01-271f-5951-fafbdcf31a70"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Fondos premiados por Morningstar en 2026 con un potencial de retorno del 15%](/images/fondos-premiados-por-morningstar-en-2026-con-un-potencial-de-retorno-del-15.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 Un **40% de los fondos de inversión han superado el índice de referencia en los últimos tres años** — **Morningstar**.
 

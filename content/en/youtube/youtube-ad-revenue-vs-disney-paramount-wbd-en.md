@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "e79608eb-9961-60a1-2111-bcaa753b3e48"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube’s $40B Ad Empire DWARFS Disney, WBD, And Paramount. What Happens When TikTok Wins?](/images/youtube-ad-revenue-vs-disney-paramount-wbd-en.jpg)
 

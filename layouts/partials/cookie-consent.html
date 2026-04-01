@@ -138,6 +138,9 @@
 
 <script>
     (function() {
+        // Pause AdSense requests until consent is given
+        (window.adsbygoogle = window.adsbygoogle || []).pauseAdRequests = 1;
+
         const STORAGE_KEY = 'novum_cookie_consent';
         const banner = document.getElementById('cookie-consent-banner');
         const acceptBtn = document.getElementById('cookie-accept-all');
@@ -152,14 +155,21 @@
         }
 
         function loadDeferredScripts() {
-            // Logic to load AdSense/Analytics
             console.log('Consent granted. Loading marketing scripts...');
+            
+            // Resume AdSense
+            (window.adsbygoogle = window.adsbygoogle || []).pauseAdRequests = 0;
+            
             window.dispatchEvent(new Event('cookie-consent-given'));
             
-            // Example: If we have deferred GA or AdSense
-            // Here we can trigger the actual loading/init
+            // Trigger actual loading/init
             if (typeof initGtag === 'function') initGtag();
             if (typeof initAdSense === 'function') initAdSense();
+            
+            // Force push update for AdSense if any ads are already in DOM
+            try {
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            } catch(e) {}
         }
 
         const currentConsent = localStorage.getItem(STORAGE_KEY);

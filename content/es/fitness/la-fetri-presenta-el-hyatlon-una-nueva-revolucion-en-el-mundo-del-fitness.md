@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "es"
 translationKey: "d4883f2b-5322-039a-815e-2dddade89dc5"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![La FETRI Revela el Hyatlón: La Revolución Que Transformará Tu Entrenamiento Híbrido](/images/la-fetri-presenta-el-hyatlon-una-nueva-revolucion-en-el-mundo-del-fitness.jpg)
+
+
+> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
 
 Las personas que creen que el entrenamiento híbrido es una panacea para todos los males del fitness están en una burbuja de desinformación. La presentación del Hyatlón por parte de la Federación Española de Triatlón (FETRI) no solo es un intento por modernizar el triatlón, sino también un reflejo de las tendencias actuales que buscan atraer a nuevos perfiles de atletas. Sin embargo, en esta búsqueda de innovación, hay riesgos que no deben pasarse por alto.
 

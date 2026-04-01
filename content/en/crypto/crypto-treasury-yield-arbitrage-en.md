@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "9f2f4cc8-8588-50e3-43df-26ee92889351"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![DeFi's $9 Billion Crypto Crime Problem: Treasury Yields Fuel Regulatory Arbitrage Fire](/images/crypto-treasury-yield-arbitrage-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 DeFi's regulatory vacuum has created a $9 billion playground for fraudsters in 2024, exploiting gaps between traditional finance oversight and emerging crypto frameworks.
 

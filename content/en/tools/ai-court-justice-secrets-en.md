@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "a094a3ee-4dcc-cdb7-af3e-67c01c9696f7"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![AI Hallucinations Are Infecting Courts: Justice System Faces Total Collapse.](/images/ai-court-justice-secrets-en.jpg)
 

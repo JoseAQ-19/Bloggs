@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "f14dfa44-eae0-37dc-637d-7cc22cb6ee99"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![¡Escándalo En La Liga! Fisioterapeutas Revelan El Peligro Oculto De Las Ventosas.](/images/ventosas-futbol-moda-placebo.jpg)
 

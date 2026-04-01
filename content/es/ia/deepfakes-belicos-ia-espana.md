@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "c2f58871-7235-8be2-a74a-033ff71a5b6f"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![España Duerme: Deepfakes Bélicos Aumentan 191% y Nadie Está Preparado.](/images/deepfakes-belicos-ia-espana.jpg)
 

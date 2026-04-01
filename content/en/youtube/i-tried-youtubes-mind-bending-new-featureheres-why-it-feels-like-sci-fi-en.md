@@ -11,6 +11,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "cd68efd2-28f2-3f13-f4b7-937f01753674"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube’s New AI Feature Feeds Your Worst Biases: The Shocking Truth Behind Its Algorithm](/images/i-tried-youtubes-mind-bending-new-featureheres-why-it-feels-like-sci-fi-en.jpg)
 

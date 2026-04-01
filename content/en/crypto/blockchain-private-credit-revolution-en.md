@@ -11,8 +11,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "8fc8f8f8-1bd9-9201-3f84-0b928749377f"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Ex-Blackstone Team's $25M Bid Could Disrupt $3.2 Trillion Private Credit Market](/images/blockchain-private-credit-revolution-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 Global liquidity is tightening as the Federal Reserve signals a prolonged higher-for-longer rate environment, yet a group of ex-Blackstone executives is betting $25 million that tokenization can bypass traditional banking bottlenecks. This bid targets a friction point in the $3.2 trillion private credit market, ignoring the regulatory headwinds that have stalled previous institutional forays into digital assets.
 

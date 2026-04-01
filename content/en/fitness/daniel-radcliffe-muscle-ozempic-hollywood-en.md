@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "a5e1ee62-e3f2-ca38-7ce7-3b8e079c255e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Daniel Radcliffe's 15lb Loss: Ozempic Truth Hollywood Doesn't Want You To Know](/images/daniel-radcliffe-muscle-ozempic-hollywood-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 Daniel Radcliffe's physique transformation, attributed to obsessive fitness, sparks debate about Ozempic use amid concerns about unrealistic body standards in Hollywood.
 

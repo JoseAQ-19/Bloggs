@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "en"
 translationKey: "0159dcb8-1a84-ff44-14af-ed860fea95ee"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Morningstar Awards Thailand 2026: Fund X Outperforms Competitor Y by 8%](/images/morningstar-awards-thailand-2026-fund-x-outperforms-competitor-y-by-8-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 **$1.4 billion in assets managed by Fund X outperformed its closest competitor, Fund Y, by 8% in the past year.** 
 

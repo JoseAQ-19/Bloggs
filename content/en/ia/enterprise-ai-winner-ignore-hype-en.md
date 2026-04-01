@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "b8e137e8-8412-4dc4-9d63-5f514b9085c7"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Software Crash Exposes AI's Dirty Secret: Choose Wisely.](/images/enterprise-ai-winner-ignore-hype-en.jpg)
 

@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "1cfd4a65-cb16-7e59-c6ff-f15b07dc3b3b"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![AI Is The significant shift Europe Needs To Combat 30% Drug Development Failures](/images/ai-drug-discovery-eu-en.jpg)
 

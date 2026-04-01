@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "8e7eb7fa-a881-2192-74c5-7b68c468db07"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Bodybuilding's Dark Secret: Natural Prep Sends Testosterone PLUMMETING, Experts Warn](/images/natural-bodybuilding-testosterone-crash-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 "Natural" bodybuilding is less about health and more about suffering for stage aesthetics, and the post-competition crash is harsher than most will admit.
 

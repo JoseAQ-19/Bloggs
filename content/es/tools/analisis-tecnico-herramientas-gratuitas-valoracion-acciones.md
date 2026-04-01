@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "es"
 translationKey: "390f6399-5e84-3f40-1820-643f788d652c"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![¡ALERTA INVERSORES! La CNMV Está Vigilando Tu IA Para Valorar Acciones](/images/analisis-tecnico-herramientas-gratuitas-valoracion-acciones.jpg)
 

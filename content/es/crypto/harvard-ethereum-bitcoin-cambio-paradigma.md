@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "es"
 translationKey: "11c52501-0edf-bc46-6625-23c7eb88a318"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Ethereum Arrasa: APY del 12% Destrona a Bitcoin Y Convence A Harvard.](/images/harvard-ethereum-bitcoin-cambio-paradigma.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 * Ethereum's transition to Proof-of-Stake permite staking con APYs que oscilan entre el 4% y el 12%, presentando una alternativa a la intensiva en energía Proof-of-Work de Bitcoin.
 * Harvard Management Company redujo significativamente sus tenencias en ETF de Bitcoin en un 21% durante el cuarto trimestre de 2025 mientras asignaba aproximadamente 86,8 millones de dólares a acciones de ETF de Ethereum.

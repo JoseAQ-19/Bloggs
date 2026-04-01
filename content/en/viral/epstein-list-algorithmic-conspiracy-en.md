@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "ee6c59b0-c2ef-0bef-1c69-4cc8da73a262"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Epstein Flight Logs: How 1,000 Passengers Fueled QAnon's Wildest Dreams](/images/epstein-list-algorithmic-conspiracy-en.jpg)
 

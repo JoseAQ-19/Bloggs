@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "es"
 translationKey: "318bd9cb-61c6-897d-1588-b829bfa824fe"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Intrusismo Al 40%: La 'Ley Anti-Intrusismo' Es Una Farsa Para COLEF.](/images/ley-anti-intrusismo-fitness-cadenas-gimnasios.jpg)
+
+
+> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
 
 El fitness en España se está convirtiendo en un campo de batalla burocrático, donde los títulos universitarios parecen valer más que la experiencia real.
 

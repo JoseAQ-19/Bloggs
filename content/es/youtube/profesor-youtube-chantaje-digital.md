@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "12ac657d-e957-fbc4-c59b-b67f384d63b4"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![El Truco Sucio del Profe: Aprueba Solo a Los 28 Millones Adictos a YouTube](/images/profesor-youtube-chantaje-digital.jpg)
 

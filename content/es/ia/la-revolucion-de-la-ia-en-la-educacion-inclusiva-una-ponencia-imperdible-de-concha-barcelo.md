@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "62f341df-9145-59c1-5da6-aed59aa6d2d2"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![La IA En Educación Inclusiva: 73% De Los Profesores Ya La Usan, ¿Pero A Qué Precio?](/images/la-revolucion-de-la-ia-en-la-educacion-inclusiva-una-ponencia-imperdible-de-concha-barcelo.jpg)
 

@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "c46df2a9-0f07-9a04-1503-adcea7132d6d"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![K-Pop Fandom Generates $1,200+ Per Superfan While YouTube Profits From Fancams](/images/unpacking-the-rise-of-k-pop-how-youtube-creators-shaped-a-global-phenomenon-en.jpg)
 

@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "3c6525ff-7231-9c21-a7c0-013ad20840f9"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Aída Nízar Lo Confirma: El Horror Psicológico Detrás De Gran Hermano](/images/realities-espana-polemica.jpg)
 

@@ -11,6 +11,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "c28d57de-a0ba-f429-337a-7748cef6b6bd"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![The Shocking Truth: Pro-Iran Memes Are Winning Hearts in Trump's Propaganda War](/images/pro-iran-memes-go-viral-a-unique-counter-to-trumps-propaganda-en.jpg)
 

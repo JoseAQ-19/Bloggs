@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "es"
 translationKey: "feb9186d-f350-04b6-b083-0422eff9283a"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## 35 millones de euros en riesgo: Elsevier, el EU AI Act y la crisis de la integridad científica
 

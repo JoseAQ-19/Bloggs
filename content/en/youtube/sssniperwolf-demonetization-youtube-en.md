@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "f4a9996b-4726-39c9-4b2d-22d3b8524179"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![SSSniperWolf Doxxing: YouTube's $20 Billion Problem, or Beginning of the End?](/images/sssniperwolf-demonetization-youtube-en.jpg)
 

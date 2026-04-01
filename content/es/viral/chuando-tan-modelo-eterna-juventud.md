@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "cc9eb513-d1db-adbd-f097-7f992547c57b"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Chuando Tan Tiene 60 Años: Su Secreto Desata Teorías Conspirativas Sobre Telómeros](/images/chuando-tan-modelo-eterna-juventud.jpg)
 

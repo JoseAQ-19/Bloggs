@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "ed207239-d32a-040b-6d80-2257e04d8936"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Google Maps AI Hallucinations: Is That Road Even Real? 38.6% Chance It's Not](/images/google-maps-ai-overhaul-hallucinations-en.jpg)
 

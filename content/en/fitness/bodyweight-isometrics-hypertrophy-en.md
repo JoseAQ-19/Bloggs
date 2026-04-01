@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "2aae7400-a91f-4573-78b0-1a69110e5e00"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Forget Weights: Xponential Fitness Doesn't Want You To Know This Hypertrophy Hack.](/images/bodyweight-isometrics-hypertrophy-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 Xponential Fitness’s growth trajectory may be overlooking a readily available and inexpensive hypertrophy method, potentially stalling gains for its members.
 

@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "4ab35dca-525c-9394-cea2-06fc57afae2e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![LazarBeam's $40 Million Mistake: How Profanity Decimated His YouTube Empire](/images/lazarbeam-youtube-empire-en.jpg)
 

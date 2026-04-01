@@ -11,6 +11,8 @@ quality_tier: fenix_v2_notebooklm
 title: 'Failed Technoutopia: The Digital Dream Becomes a Neoliberal Nightmare'
 translationKey: tecnoutopia-fallida-el-sueno-digital-se-convierte
 type: ia
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## The Failed Tech Utopia: How the Digital Dream Became a Neoliberal Nightmare For more insights on this topic, read our analysis on [Software Crash Exposes AI's Dirty Secret: Choose W](/ia/enterprise-ai-winner-ignore-hype-en/).
 

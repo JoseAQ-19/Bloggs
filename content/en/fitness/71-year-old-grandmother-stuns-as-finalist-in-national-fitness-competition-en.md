@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "d9e1a4e3-e37e-8cbb-6819-3faa9a5dd568"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![71-Year-Old Grandmother Shatters Stereotypes as Fitness Competition Finalist and Inspires Change](/images/71-year-old-grandmother-stuns-as-finalist-in-national-fitness-competition-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 The fitness industry has systematically marginalized the most profitable demographic in existence, preferring to chase aesthetics over longevity while ignoring a physiological reality that shatters every "age-related" myth in the book.
 

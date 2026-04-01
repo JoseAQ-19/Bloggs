@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "4f59e9db-f30b-caed-bbbc-e32baaec24b4"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Crocs Crackdown: Is This The End Of Airport Comfort? Flight Safety Fears Soar](/images/airport-fashion-wars-comfort-security-en.jpg)
 

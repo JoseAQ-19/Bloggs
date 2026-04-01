@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "71d319a7-62ba-b8b3-1d43-79ccbc1fa054"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![72 Million Data Points: YouTube's Child Tracking Nightmare Exposed In Indonesia](/images/indonesia-youtube-tiktok-ban-en.jpg)
 

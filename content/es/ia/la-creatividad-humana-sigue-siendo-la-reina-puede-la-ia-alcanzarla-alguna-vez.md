@@ -11,6 +11,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "3a40895e-f52b-fb66-1648-a252a792beff"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![La IA Puede Amenazar Hasta 24% de los Ingresos de Artistas en 2028](/images/la-creatividad-humana-sigue-siendo-la-reina-puede-la-ia-alcanzarla-alguna-vez.jpg)
 

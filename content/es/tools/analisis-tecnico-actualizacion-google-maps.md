@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "es"
 translationKey: "df33f659-a933-c992-0697-7c24cbf1dfe5"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Google Maps Se Desmorona: ¿Es Apple Maps la Salvación Tras la Última Actualización?](/images/analisis-tecnico-actualizacion-google-maps.jpg)
 

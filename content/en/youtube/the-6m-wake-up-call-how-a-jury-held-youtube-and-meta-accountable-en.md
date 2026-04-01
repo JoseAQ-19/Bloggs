@@ -11,6 +11,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "cff387ed-2d10-e641-97b4-65d8cf22d8e2"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![The $6M Verdict That Just Sent Shockwaves Through YouTube and Meta’s Empire](/images/the-6m-wake-up-call-how-a-jury-held-youtube-and-meta-accountable-en.jpg)
 

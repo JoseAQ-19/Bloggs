@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "30a88523-31e2-55e1-6fd3-7df900ddaa26"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Sofía Contra Alcaraz: El Incómodo Encuentro En Miami Que Casa Real No Quería Que Vieras](/images/reina-sofia-alcaraz-polemica-miami.jpg)
 

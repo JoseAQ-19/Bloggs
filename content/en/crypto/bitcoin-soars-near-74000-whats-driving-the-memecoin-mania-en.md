@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "49756acb-5509-13e0-956d-aee3c37e0cab"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Bitcoin Surges to $74,000: The Shocking Truth Behind Memecoin Mania](/images/bitcoin-soars-near-74000-whats-driving-the-memecoin-mania-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 Bitcoin has surged to $74,000, driven by over $767 million in ETF inflows, primarily from BlackRock's iShares Bitcoin Trust. 
 

@@ -11,6 +11,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "ecd3f388-6890-fe56-405e-21c18b0958a9"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Amazon's Pricing Algorithms Are Killing Craftsman Tools: Here’s the Shocking Truth](/images/craftsman-tools-amazon-technical-review-en.jpg)
 

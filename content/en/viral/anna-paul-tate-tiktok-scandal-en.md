@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "33507ae7-c7d1-1374-8c58-816694b31bed"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Andrew Tate's TikTok Army: How They Manipulated the Algorithm (And Got Rich).](/images/anna-paul-tate-tiktok-scandal-en.jpg)
 

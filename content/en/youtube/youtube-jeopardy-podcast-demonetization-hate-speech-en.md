@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "de385bd9-798e-859f-7964-8eac49913d3c"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube's Dirty Secret: Hate Speech Algorithm Targets 'Jeopardy!' Host After 4,000 Watch Hours.](/images/youtube-jeopardy-podcast-demonetization-hate-speech-en.jpg)
 

@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "8686e5e4-f4e4-17a7-020c-158fdcc45d3e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Stanley Black & Decker Slashes 50,000 SKUs: Desperate Times?](/images/stanley-black-decker-q4-performance-en.jpg)
 

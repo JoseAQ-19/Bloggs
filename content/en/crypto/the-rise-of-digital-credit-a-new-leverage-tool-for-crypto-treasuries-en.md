@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "b70cc509-c002-5acd-5856-76d4c43a8680"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![The Hidden Risks of Digital Credit in Crypto Treasuries That Nobody Talks About](/images/the-rise-of-digital-credit-a-new-leverage-tool-for-crypto-treasuries-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 Corporate treasuries are blindly dumping billions into digital assets, ignoring the structural fragility of DeFi lending mechanisms that could vaporize liquidity overnight.
 

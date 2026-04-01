@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "366da52f-f10b-6ed1-b9bb-8bfde55952ed"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Good Good Golf's Meltdown: 1.48 Million Subscribers Can't Save This Trainwreck](/images/youtube-golf-wars-business-fallout-en.jpg)
 

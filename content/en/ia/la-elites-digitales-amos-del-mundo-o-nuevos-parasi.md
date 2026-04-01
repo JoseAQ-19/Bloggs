@@ -11,6 +11,8 @@ quality_tier: fenix_v3_pro
 title: 'Digital Elites: Saviors or Society''s New Parasites? The Power Debate'
 translationKey: la-elites-digitales-amos-del-mundo-o-nuevos-parasi
 type: ia
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 Imagine a world where a handful of individuals control the flow of information, shape global conversations, and wield influence exceeding that of many nation-states. This isn't science fiction; it's the reality shaped by digital elites – the tech titans whose innovations have simultaneously revolutionized and, some argue, jeopardized our societal structures.
 

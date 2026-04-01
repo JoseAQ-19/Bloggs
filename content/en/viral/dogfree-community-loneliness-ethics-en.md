@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "f5ef08f7-29ff-78b1-c9aa-b3ed084a7780"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Ethics Scandal: The Dark Side Of Dog Ownership Nobody Wants To Admit.](/images/dogfree-community-loneliness-ethics-en.jpg)
 

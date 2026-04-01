@@ -11,6 +11,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "8978b1a0-1f72-8c76-a8b0-e1b62ecb0f6d"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Sora Just Sparked Ethical Outrage: The Dark Side of AI Video Generation](/images/sora-ai-deepfake-fears-ethical-debate-en.jpg)
 

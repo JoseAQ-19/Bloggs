@@ -11,6 +11,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "ada34b0f-025a-eafa-f52a-531168f81651"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![AI Ruined My Vacation: 90% Of Itineraries Are Factual Disasters](/images/ai-ruined-my-vacation-en.jpg)
 

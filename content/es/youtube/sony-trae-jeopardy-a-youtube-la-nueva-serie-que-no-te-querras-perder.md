@@ -11,6 +11,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "a2c0f1a1-d975-6853-0521-da02a0f65fe9"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Sony Presenta 'Jeopardy!' en YouTube: La Estrategia Que Cambia Todo en Concursos Online](/images/sony-trae-jeopardy-a-youtube-la-nueva-serie-que-no-te-querras-perder.jpg)
 

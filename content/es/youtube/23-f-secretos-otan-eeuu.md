@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "5371ca22-3fce-351f-46f1-91917b667267"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![23-F: Cercas lo Clavó. El Rey Rajaba... La Bomba Declasificada.](/images/23-f-secretos-otan-eeuu.jpg)
 

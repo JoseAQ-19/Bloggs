@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "77d6ff57-eeb7-0174-62ed-91c01b6b7165"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Amazon Destruirá 160.000 Empleos: El Apocalipsis Laboral Se Acerca a España](/images/amazon-automatizacion-empleo-espana.jpg)
 

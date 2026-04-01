@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "045ba508-4397-10fe-f682-77b673ea4dc7"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Bhutan Dumped 58% Of Bitcoin: Should You Be Terrified?](/images/bitcoin-surge-analysis-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 Bhutan’s strategic reduction in Bitcoin holdings underscores the inherent risks associated with sovereign wealth funds venturing into volatile crypto assets.
 

@@ -15,7 +15,11 @@ type: crypto
 remastered: true
 
 translationKey: "e1212a79-d593-5be7-9ea0-00e8568b01ed"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
+
 ¿Bitcoin? Más bien Bitcon: La perpetua estafa envuelta en jerga tecnológica.
 
 ## La Gran Estafa Descentralizada: Bitcoin al Desnudo

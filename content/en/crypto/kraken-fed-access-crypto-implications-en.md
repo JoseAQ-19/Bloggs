@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "e310b902-a041-2bb9-66c1-5ad734d57216"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![$33 Billion Mess: Did Kraken's Fed Access Just Expose Crypto's Dirty Secret?](/images/kraken-fed-access-crypto-implications-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 The SEC alleges Kraken held over $33 billion in customer crypto assets and commingled them, raising questions about the security of customer funds with increased Fed access.
 

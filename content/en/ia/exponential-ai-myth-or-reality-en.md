@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "0aa41e05-473e-e1f6-6527-53b09c4a39ca"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Silicon Valley's Dirty Secret: AI Progress Isn't Exponential, It's Stalling](/images/exponential-ai-myth-or-reality-en.jpg)
 

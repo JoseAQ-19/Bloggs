@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "1404889c-fa81-61a2-303f-465b885c87e1"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Meta Just Paid $3 Billion to Influencers and Nobody Noticed the Implications](/images/metas-bold-move-paying-influencers-to-bring-their-content-to-facebook-en.jpg)
 

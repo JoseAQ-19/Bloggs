@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "29a24c24-a0db-06e0-dfa8-6a07175cf0a4"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Hank Green's YouTube Nightmare: 170 Million Dollar COPPA Fine Haunts All Creators](/images/hank-green-youtube-ethics-impact-over-income-en.jpg)
 

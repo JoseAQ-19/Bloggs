@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "085d9926-f4b4-f539-8cad-610c282e6214"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Claude Sentencia a 2 Millones de Españoles: El Apocalipsis Laboral Es Ahora](/images/anthropic-claude-apocalipsis-laboral-espana.jpg)
 

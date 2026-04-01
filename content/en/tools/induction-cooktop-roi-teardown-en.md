@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "3c719270-62cf-e020-ec69-752a117594c6"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![32 Million U.S. Homes Fooled? The Induction Cooktop ROI Disaster](/images/induction-cooktop-roi-teardown-en.jpg)
 
@@ -44,7 +46,7 @@ Beyond the cost, finding qualified technicians to repair induction cooktops can 
 
 ## The Grid's Dirty Secret: Data Centers and the Future of Home Cooking
 
-The increasing reliance on data centers casts a shadow over the long-term viability of induction cooktops as a cost-saving measure. Induction cooktops use far less energy by heating up faster, making them cheaper to operate, according to Godynuk. However, the energy consumption of data centers is growing exponentially, leading to increased demand and higher prices. The [USDA’s Purchase to Plate Price Tool](http://www.ers.usda.gov/amber-waves/2020/november/usda-s-purchase-to-plate-price-tool-estimates-food-costs-for-national-food-intake-data) has shown the cost of food will be impacted significantly due to these increases.
+The increasing reliance on data centers casts a shadow over the long-term viability of induction cooktops as a cost-saving measure. Induction cooktops use far less energy by heating up faster, making them cheaper to operate, according to Godynuk. However, the energy consumption of data centers is growing exponentially, leading to increased demand and higher prices. The [USDA’s Purchase to Plate Price Tool](https://www.ers.usda.gov/amber-waves/2020/november/usda-s-purchase-to-plate-price-tool-estimates-food-costs-for-national-food-intake-data) has shown the cost of food will be impacted significantly due to these increases.
 
 Manuel Abecasis, a Goldman Sachs analyst, emphasized that lower-income households will likely feel the brunt of higher electricity costs, particularly in regions with a higher concentration of data centers. This suggests that the very population that might benefit most from energy-efficient appliances could be disproportionately burdened by the rising cost of electricity. This trend calls into question the equity and sustainability of widespread electrification efforts.
 

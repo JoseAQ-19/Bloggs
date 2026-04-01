@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "es"
 translationKey: "4844782c-bb60-c66f-b298-70bfcf4527d9"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![6.5% De Volatilidad Diaria: El Riesgo Oculto Detrás De Invertir En Bitcoin](/images/bitcoin-el-refugio-seguro-en-medio-del-caos-global.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 *La volatilidad diaria promedio de Bitcoin alcanza el 6.5%, un riesgo sistémico que supera el umbral de tolerancia de mercados tradicionales.*
 * Bitcoin ha experimentado caídas del 30% en 48 horas durante crisis económicas, según datos de [CNMV y Banco de España](https://www.cnmv.es/portal/mercados/mercados-en-accion/criptomonedas.aspx).

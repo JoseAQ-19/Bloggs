@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "257113ac-ebff-fcc9-8155-baa17c963212"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Facebook Desesperado: Paga a YouTubers y Arruina la Confianza de 33 Millones.](/images/meta-paga-youtubers-tiktokers-facebook.jpg)
 

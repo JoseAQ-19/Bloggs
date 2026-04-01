@@ -15,6 +15,8 @@ type: ia
 remastered: true
 
 translationKey: "39c1a585-7958-b6bf-ac9c-247da7fd122b"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ¿Crisis económica? No, es el lento suicidio del capitalismo occidental.
 

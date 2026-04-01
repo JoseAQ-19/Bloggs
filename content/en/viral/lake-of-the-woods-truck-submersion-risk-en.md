@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "6ce94786-7ca5-708c-e4f7-9ed6a237ae3c"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Lake Of The Woods: 269 Ice Fatalities Ignored, Tech's Winter Gamble Explodes](/images/lake-of-the-woods-truck-submersion-risk-en.jpg)
 

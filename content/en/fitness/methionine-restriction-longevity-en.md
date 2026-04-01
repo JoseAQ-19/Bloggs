@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "7b23ea09-e4ca-fd28-5009-af6721329537"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![80% Less Methionine: The Radical Diet Hack Silicon Valley Is Quietly Trying](/images/methionine-restriction-longevity-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 Without question, Silicon Valley's quest for immortality has led some to explore dietary extremes, including drastic methionine restriction.
 

@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "fe05491e-abc2-ecc4-41ab-4fd1fe0a3f7f"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![$512 Million Gone: The DeFi Hack No One Is Talking About.](/images/digital-assets-2025-turning-point-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 The DeFi industry's promise of decentralized finance continues to be undermined by persistent security vulnerabilities, costing investors millions despite broader market gains.
 

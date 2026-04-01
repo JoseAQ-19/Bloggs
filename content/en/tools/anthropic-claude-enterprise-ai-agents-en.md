@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "ac336aae-c000-6042-c84a-f9f0e7d84bb7"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Fortune 500 Alert: Your AI Agents Are Secretly Making Decisions NOW](/images/anthropic-claude-enterprise-ai-agents-en.jpg)
 

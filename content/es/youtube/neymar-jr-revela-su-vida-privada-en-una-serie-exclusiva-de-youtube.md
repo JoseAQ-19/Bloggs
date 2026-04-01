@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "26c858e2-ba67-785e-eb58-d36f8531b66c"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Neymar Jr Revela 80% De Su Impacto Emocional: La Verdadera Cara De La Fama](/images/neymar-jr-revela-su-vida-privada-en-una-serie-exclusiva-de-youtube.jpg)
 

@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "780a6e42-92e4-b702-a7e1-89bcc1212700"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Lola Lolita Pide Perdón, pero los Microinfluencers Ganan la Guerra](/images/lola-lolita-bolso-influencer-crisis.jpg)
 

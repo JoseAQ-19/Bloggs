@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "461ba532-875e-8d18-26e4-34ed4a1a9ea2"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Indonesia Bans Kids From Social Media; YouTube Creators Could Lose Billions](/images/indonesia-youtube-coppa-ban-en.jpg)
 

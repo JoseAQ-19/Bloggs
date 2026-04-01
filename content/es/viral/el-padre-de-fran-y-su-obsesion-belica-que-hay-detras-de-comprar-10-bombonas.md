@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "0f96e50a-29fb-95b7-934c-917051a13916"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![La Obsesión Bélica de Un Padre: 10 Bombonas y Riesgos Ocultos Que Ignoramos](/images/el-padre-de-fran-y-su-obsesion-belica-que-hay-detras-de-comprar-10-bombonas.jpg)
 

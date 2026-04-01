@@ -11,6 +11,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "4350e38b-5146-3746-9056-ff4bbf30ebe1"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube en Android Auto: 7 Métodos Reales, Sus Riesgos y Lo Que Google No Te Dice](/images/youtube-android-auto-trucos-riesgos-alternativas.jpg)
 

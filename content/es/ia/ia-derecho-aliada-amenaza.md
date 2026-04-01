@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "1002fdf1-5670-25c3-9062-c0d4897b886e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![IA Legal: La Trampa Que Dejará Sin Trabajo a Miles de Abogados en España](/images/ia-derecho-aliada-amenaza.jpg)
 

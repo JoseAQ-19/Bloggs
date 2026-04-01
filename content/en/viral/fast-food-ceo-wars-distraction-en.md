@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "981155d9-2fe2-2a29-8e0f-6a17ac5b04f0"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![McDonald's CEO's $26.9 Billion Lie: Here's Who Pays The Price.](/images/fast-food-ceo-wars-distraction-en.jpg)
 

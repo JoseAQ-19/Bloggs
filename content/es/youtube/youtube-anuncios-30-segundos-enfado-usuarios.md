@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "65fa7d01-175e-b6b8-50cf-6c75cf972730"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube, Se Acabó: Obligan a Ver 30 Segundos de Anuncios y la Red Explota](/images/youtube-anuncios-30-segundos-enfado-usuarios.jpg)
 

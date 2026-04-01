@@ -74,23 +74,26 @@
         <div>
           <p class="f5 b white ma0">NovumWorld Editorial Team</p>
           <p class="f7 white-60 ma0 mt1">
-            {{ if eq .Lang "es" }}Equipo de Redacción e Investigación Tecnológica{{ else }}Tech Research & Editorial
-            Team{{ end }}
+            {{ if eq .Lang "es" }}Equipo Editorial Autorizado{{ else }}Authorized Editorial Team{{ end }}
           </p>
         </div>
       </div>
       <p class="f6 white-80 lh-copy ma0">
-        {{ if eq .Lang "es" }}Expertos en tecnología, análisis de mercado y tendencias digitales. Nuestro equipo se
-        especializa en desglosar el impacto real de la innovación, desde la inteligencia artificial hasta la economía
-        descentralizada, proporcionando una visión crítica y basada en datos.{{ else }}A collaborative group of
-        technology experts, market analysts, and digital trend scouts. Our team specializes in dissecting the real-world
-        impact of innovation, from artificial intelligence to decentralized economics, providing a critical and
-        data-driven perspective.{{ end }}
+        {{ if eq .Lang "es" }}
+          Este contenido ha sido elaborado por el equipo editorial de NovumWorld, combinando investigación de datos con asistencia de inteligencia artificial para garantizar precisión y actualidad.
+        {{ else }}
+          This content has been developed by the NovumWorld editorial team, combining data research with artificial intelligence assistance to ensure accuracy and timeliness.
+        {{ end }}
       </p>
+      {{ if .Params.ai_disclosure }}
+      <div class="mt3 f7 i white-40">
+        {{ if eq .Lang "es" }}📍 Divulgación: Nota de contenido asistido por IA aplicada.{{ else }}📍 Disclosure: AI-assisted content note applied.{{ end }}
+      </div>
+      {{ end }}
       <div class="mt3 flex items-center">
-        <a href="{{ " about/" | absLangURL }}" class="f7 link white-60 hover-white mr3"
+        <a href="{{ "about/" | absLangURL }}" class="f7 link white-60 hover-white mr3"
           style="text-decoration: underline;">
-          {{ if eq .Lang "es" }}Más sobre el autor →{{ else }}More about the author →{{ end }}
+          {{ if eq .Lang "es" }}Certificado de Autoría →{{ else }}Authorship Certificate →{{ end }}
         </a>
       </div>
     </div>

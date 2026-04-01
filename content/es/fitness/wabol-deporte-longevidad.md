@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "es"
 translationKey: "1af241f1-fde4-4831-ccf4-6e3fc195d782"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Wabol: ¿El Secreto Para Vivir 5 Años Más Sin Pisar el Gimnasio?](/images/wabol-deporte-longevidad.jpg)
+
+
+> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
 
 Las promesas de salud eterna vendidas por la industria del fitness son tan comunes como decepcionantes.
 

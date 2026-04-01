@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "79b40039-a2d6-f2bd-0074-989d3d61a123"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![B-2 Derrotado: El Algoritmo Chino de $10 Millones que Cambia la Guerra Aérea.](/images/algoritmo-chino-b2-supremacia-aerea.jpg)
 

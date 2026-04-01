@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "0428a6d7-7abb-6c67-edbf-549abf79998c"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![SunnyV2's Downfall: The \$50 Million Mistake Every Influencer Should Fear](/images/sunnyv2-youtube-downfall-accountability.en.jpg)
 

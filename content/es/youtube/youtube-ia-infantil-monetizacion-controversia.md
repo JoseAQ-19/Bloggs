@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "66dfcf61-09f8-7a0a-e72e-af95960a9fcb"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube Invierte Millones en IA Infantil Mientras Te Inunda con AI Slop](/images/youtube-ia-infantil-monetizacion-controversia.jpg)
 
@@ -50,7 +52,7 @@ La invasión de la IA en la infancia no se limita a videos de Spider-Man y Elsa 
 
 Peor aún es el uso malicioso de esta tecnología para la explotación digital. El caso de Almendralejo en Badajoz es un ejemplo aterrador de cómo la IA se ha convertido en un arma de destrucción masiva contra la dignidad de los menores. Más de veinte chicas entre 11 y 17 años fueron víctimas de montajes pornográficos creados por sus compañeros de clase utilizando herramientas de IA. Este no es un incidente aislado, es el futuro predicho por los expertos en ciberseguridad. Un informe del [Departamento de Seguridad Nacional de EE.UU. (DHS)](https://www.dhs.gov/sites/default/files/2025-01/25_0122_k2p_genai-bulletin_spanish.pdf) detalla cómo la IA ya se está utilizando para facilitar el abuso sexual de menores en línea, incluyendo la creación de material de abuso sexual infantil (CSAM) sintético.
 
-Las empresas tecnológicas están reaccionando tarde y mal. Sus sistemas de moderación are incapaces de detectar y detener el flujo de deepfakes no consentidos en tiempo real. Mientras YouTube se preocupa por si un video cumple los derechos de autor de una canción, miles de niños están siendo acosados, humillados y explotados mediante herramientas que la propia plataforma aloja o promueve indirectamente. La privacidad ya no es la única víctima; es la propia seguridad física y emocional de los menores la que está en juego. Y recordemos que [Google y YouTube pagaron 170 millones de dólares](http://ftc.gov/es/noticias/google-y-youtube-pagaran-una-suma-record-de-170-millones-de-dolares-por-presuntas-infracciones-la) a la Comisión Federal de Comercio por infringir leyes de privacidad infantil, demostrando un historial de negligencia sistémica.
+Las empresas tecnológicas están reaccionando tarde y mal. Sus sistemas de moderación are incapaces de detectar y detener el flujo de deepfakes no consentidos en tiempo real. Mientras YouTube se preocupa por si un video cumple los derechos de autor de una canción, miles de niños están siendo acosados, humillados y explotados mediante herramientas que la propia plataforma aloja o promueve indirectamente. La privacidad ya no es la única víctima; es la propia seguridad física y emocional de los menores la que está en juego. Y recordemos que [Google y YouTube pagaron 170 millones de dólares](https://ftc.gov/es/noticias/google-y-youtube-pagaran-una-suma-record-de-170-millones-de-dolares-por-presuntas-infracciones-la) a la Comisión Federal de Comercio por infringir leyes de privacidad infantil, demostrando un historial de negligencia sistémica.
 
 ## Más Allá del Hype: El Impacto Real de la IA en la Infancia Digital
 

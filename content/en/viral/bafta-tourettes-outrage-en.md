@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "9ceded7b-d636-0c61-59bc-25b34823201e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![BBC Edited Palestine But Aired The N-Word: What's REALLY Going On?](/images/bafta-tourettes-outrage-en.jpg)
 

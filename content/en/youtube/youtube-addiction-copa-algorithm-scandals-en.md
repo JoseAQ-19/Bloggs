@@ -11,6 +11,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "891c738b-5423-7adb-1272-1a48b7a826ad"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube's Shocking $170 Million COPPA Violation Exposed: Kids Are Paying the Price](/images/youtube-addiction-copa-algorithm-scandals-en.jpg)
 

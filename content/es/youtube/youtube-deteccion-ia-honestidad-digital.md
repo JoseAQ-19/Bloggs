@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "3a955580-f931-45f1-f268-a96eb0dec920"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube Te Espía: ¿Preparado Para Confesar Si Tu Video Lo Creó Una IA?](/images/youtube-deteccion-ia-honestidad-digital.jpg)
 

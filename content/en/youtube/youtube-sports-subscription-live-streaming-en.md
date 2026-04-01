@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "001d9b26-bdd7-0979-0501-8a8eeaf58f02"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](/images/youtube-sports-subscription-live-streaming-en.jpg)
 

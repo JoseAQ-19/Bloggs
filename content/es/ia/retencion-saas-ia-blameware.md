@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "941091e9-ad18-5c90-a3d3-dc0ea3260fd6"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![IA Fraudulenta: El 67% De Saas Ofrece Funciones Que No Retienen A Nadie.](/images/retencion-saas-ia-blameware.jpg)
 

@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "5fc4c90d-cb28-2336-8019-cd9cb94ebbc8"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## YouTube se lleva el Oscar: la revolución del entretenimiento digital ya está aquí
 

@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "da387cad-bd56-553a-c3b7-64f8abd8c738"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Jeopardy! YouTube Gamble: $70 Billion Creator Payouts Hide A Dark Secret](/images/jeopardy-youtube-strategy-monetization-en.jpg)
 

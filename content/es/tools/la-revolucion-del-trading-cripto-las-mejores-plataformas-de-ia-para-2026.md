@@ -11,8 +11,9 @@ categories: ["tools"]
 type: "tools"
 language: "es"
 translationKey: "46fe0e92-e9ea-e2d0-6b38-5fdb8e7c038e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
-
 ![La IA Revoluciona el Trading Cripto: 3 Plataformas que Superarán a los Humanos en 2026](/images/la-revolucion-del-trading-cripto-las-mejores-plataformas-de-ia-para-2026.jpg)
 
 ---

@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "25eb4dc6-2258-080e-885f-9776758e3fc7"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Wearable Fitness Data To Explode To $703 Billion: But There's A Catch](/images/data-integration-wearable-fitness-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 Wearable fitness data: it's the future, or a $703 billion privacy nightmare waiting to happen?
 

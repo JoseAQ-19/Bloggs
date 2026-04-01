@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "es"
 translationKey: "690b2ab5-c1e0-c465-6749-cdae51612cd6"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Crimson Desert: El Batacazo Del 30% Que Pearl Abyss No Quería Que Supieras](/images/analisis-tecnico-crimson-desert-ia-etica.jpg)
 

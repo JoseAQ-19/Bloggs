@@ -15,6 +15,8 @@ type: ia
 remastered: true
 
 translationKey: "b962a6b3-fcd9-9847-7cca-8bc55ff595cc"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 NOVUMWORLD: La distopía tecnológica que se vende como paraíso
 

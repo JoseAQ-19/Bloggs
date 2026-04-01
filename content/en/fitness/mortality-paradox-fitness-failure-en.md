@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "4bb65e13-bcae-6482-3f2d-b13b24f8c1ff"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Social Media's Dangerous Game: Why Fitness Influencers Are Killing You](/images/mortality-paradox-fitness-failure-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 Fitness influencers with millions of followers are directly causing harm to their audiences while peddling dangerous pseudoscience to an unsuspecting public.
 

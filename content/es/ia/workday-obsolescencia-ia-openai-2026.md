@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "d86b21a6-fa94-1dba-b31a-c537e7af181d"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Workday Tambalea: El Plan Secreto De Cegid Para Desbancarles En España](/images/workday-obsolescencia-ia-openai-2026.jpg)
 

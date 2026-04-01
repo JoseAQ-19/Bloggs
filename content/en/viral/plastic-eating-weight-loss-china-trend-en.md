@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "29b0a592-4933-f1aa-db6e-9100c0030715"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![$140 Billion Weight Loss Lie: Is 'Plastic Eating' Next?](/images/plastic-eating-weight-loss-china-trend-en.jpg)
 

@@ -11,6 +11,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "0a0b34e7-b1c7-4316-24fc-f05b25804e2f"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Banijay Group Revela Su Plan Secreto: 3.3 Mil millones de Euros en YouTube](/images/banijay-group-revela-su-audaz-plan-de-expansion-en-youtube.jpg)
 

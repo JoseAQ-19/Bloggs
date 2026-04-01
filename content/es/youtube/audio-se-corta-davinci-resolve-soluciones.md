@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "e50b8caf-ff82-4155-bd4d-944825f5fc20"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![¿Por qué el audio se corta aleatoriamente en DaVinci Resolve? Soluciones y datos reales](/images/audio-se-corta-davinci-resolve-soluciones.jpg)
 

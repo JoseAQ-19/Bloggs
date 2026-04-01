@@ -11,6 +11,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "5e843e78-c51c-7ef0-9f60-95aa1afcab02"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![The Shocking Truth: NYC Deli Achieves 25x ROI With Innovative Pest Control Strategies](/images/nyc-deli-tech-comeback-en.jpg)
 

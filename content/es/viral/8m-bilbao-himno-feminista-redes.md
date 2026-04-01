@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "c2a4bd10-0b7f-e4ad-df18-855d810d7e8b"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Bilbao Arde: El 8M Revela La Guerra Secreta del Feminismo Español.](/images/8m-bilbao-himno-feminista-redes.jpg)
 

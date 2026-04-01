@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "6fcee317-9165-a248-9d2b-161379215e4b"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Huelva Se Derrumba: El Plan Que Impide Viviendas y Dispara la Gentrificación](/images/huelva-barrio-viral-gentrificacion.jpg)
 

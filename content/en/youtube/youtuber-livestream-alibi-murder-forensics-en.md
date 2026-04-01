@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "5cb9ef0c-614f-a716-e73b-0d7dee94a508"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/images/youtuber-livestream-alibi-murder-forensics-en.jpg)
 

@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "94d4be4c-08ba-54f6-4dd6-cacbc4f466ce"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube And FIFA's Shocking $10.9 Billion World Cup 2026 Deal That Could Change Everything](/images/youtube-and-fifa-join-forces-for-an-unforgettable-world-cup-2026-experience-en.jpg)
 

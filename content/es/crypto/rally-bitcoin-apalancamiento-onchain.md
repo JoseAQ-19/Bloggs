@@ -9,7 +9,11 @@ categories: ["crypto"]
 type: "crypto"
 language: "es"
 translationKey: "3028a5d0-ebfc-d976-3939-4849359f0051"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
+
 ## Bitcoin al desnudo: el apalancamiento es la bomba de tiempo que nadie quiere ver
 
 El apalancamiento en Bitcoin no es la llave maestra para la riqueza, sino una herramienta de alto riesgo que puede destrozar portafolios en cuestión de minutos.

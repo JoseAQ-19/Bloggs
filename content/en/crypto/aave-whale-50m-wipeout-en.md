@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "ede076ec-6d70-eee5-fcc7-94ae5bdc5a1c"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Liquidator Bots Feast On Aave: 499 ETH In Bonuses After $50M Crash](/images/aave-whale-50m-wipeout-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 Liquidator bots pocketed 499 ETH in bonuses from Aave, proving that algorithmic finance has yet to escape the pitfalls of human error.
 

@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "93ef2999-e098-a48b-d518-41549f260fae"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube Horror's $2,700/Day Secret: Box Office Trembles As Online Screams Reign](/images/youtube-horror-algorithm-2024-en.jpg)
 

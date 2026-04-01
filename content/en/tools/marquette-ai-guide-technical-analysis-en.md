@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "eb8876ba-1ae6-f3f4-2579-a044be7491f8"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![The Hidden Crisis: 1 In 200 Students Falsely Accused By AI Detection Tools](/images/marquette-ai-guide-technical-analysis-en.jpg)
 

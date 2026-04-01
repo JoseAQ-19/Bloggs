@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "30592fec-04b1-f87e-260e-1395bf5ef353"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Google's Project Kavya: Is Your Child's Favorite YouTube Show a Deepfake?](/images/google-ai-kids-content-safety-concerns-en.jpg)
 

@@ -11,6 +11,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "586e0aa7-159e-be57-ebac-1984861a3fd6"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Iowa Churches Unite: 83 Congregations Break Away Over LGBTQ Rights And Cultural Marxism](/images/iowan-churches-rally-a-bold-stand-against-controversial-issues-en.jpg)
 

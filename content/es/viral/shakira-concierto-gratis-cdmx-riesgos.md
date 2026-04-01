@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "f729301a-b680-4c2b-9000-702bba32e4c0"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Shakira gratis en cdmx: ¿10 muertos más como advertencia para el gobierno?](/images/shakira-concierto-gratis-cdmx-riesgos.jpg)
 

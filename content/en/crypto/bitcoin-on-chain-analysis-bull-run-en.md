@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "1c7b28aa-5ec8-eeb4-24a1-48b915e10b8b"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![$66K Dip? Whales Just Added 230,000 Bitcoin: Bears Are Officially WRONG](/images/bitcoin-on-chain-analysis-bull-run-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 Bitcoin’s failure to hold $70,000 has bears licking their chops, but the smart money is quietly loading up.
 

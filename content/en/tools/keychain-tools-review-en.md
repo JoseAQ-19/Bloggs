@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "595050ce-9ba4-3917-403d-e33cce2bef9c"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Forget Swiss Army: 5 Keychain Tools That Will Annihilate Any Problem](/images/keychain-tools-review-en.jpg)
 

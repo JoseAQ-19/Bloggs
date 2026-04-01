@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "1570152c-09bc-47fe-9015-f9083bc14150"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![78-Year-Old DoorDash Driver's Heartwarming Moment Sparks $1 Million in Tips from Strangers](/images/78-year-old-doordash-drivers-heartwarming-doorbell-moment-sparks-massive-tips-from-strangers-en.jpg)
 

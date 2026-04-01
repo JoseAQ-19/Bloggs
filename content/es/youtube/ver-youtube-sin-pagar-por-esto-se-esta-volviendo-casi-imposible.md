@@ -11,6 +11,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "5528a569-a28b-5f33-4fd1-2917e6cdb40d"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube Bloquea VPN y Cancela Cuentas: La Era de los Gorrones Llega a su Fin](/images/ver-youtube-sin-pagar-por-esto-se-esta-volviendo-casi-imposible.jpg)
 

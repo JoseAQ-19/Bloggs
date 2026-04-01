@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "1c707f51-9806-5b5a-57fd-7637b85060d7"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Jeopardy! Host's YouTube Nightmare: $36 Billion Ad Revenue Masks a Free Speech Crisis](/images/youtube-hate-speech-policy-jeopardy-podcast-en.jpg)
 

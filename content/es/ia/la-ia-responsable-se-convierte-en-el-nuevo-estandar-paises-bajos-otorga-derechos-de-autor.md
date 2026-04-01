@@ -11,6 +11,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "704cf5e9-ed3a-8e99-8975-65d856362fa8"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Países Bajos Marca Un Hito: La IA Responsable Ahora Tiene Derechos de Autor](/images/la-ia-responsable-se-convierte-en-el-nuevo-estandar-paises-bajos-otorga-derechos-de-autor.jpg)
 

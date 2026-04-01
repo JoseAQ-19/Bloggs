@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "d7b7ef59-d6e7-3b17-8f86-15cd00fe35d3"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Superhuman's Rows Buy: The 4-Hour AI 'Tax' Nobody Is Talking About](/images/ai-productivity-superhuman-rows-acquisition-risks-en.jpg)
 

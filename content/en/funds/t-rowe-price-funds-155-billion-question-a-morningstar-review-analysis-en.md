@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "en"
 translationKey: "e3697daa-446e-d2df-9714-552f5d9d1a42"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![T. Rowe Price Fund's $15.5 Billion Question: A Morningstar Review Analysis.](/images/t-rowe-price-funds-155-billion-question-a-morningstar-review-analysis-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 T. Rowe Price's $15.5 billion equity income fund has been placed under review by Morningstar, triggering heightened scrutiny from investors and analysts. The move comes as Morningstar evaluates changes to the fund's management team and the consistency of its investment strategy, according to the ratings agency's March 2026 regulatory filings. This is a significant event for one of the largest actively managed equity funds in the US market, with potential implications for the $1.1 trillion asset manager's reputation and investor confidence.
 

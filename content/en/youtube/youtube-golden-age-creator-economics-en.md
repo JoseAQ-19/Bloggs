@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "0ad33ec4-5538-2675-2a25-f9c67e2b7b77"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube's $46.2 Billion Ad Revenue Disaster: Is This The End For Creators?](/images/youtube-golden-age-creator-economics-en.jpg)
 

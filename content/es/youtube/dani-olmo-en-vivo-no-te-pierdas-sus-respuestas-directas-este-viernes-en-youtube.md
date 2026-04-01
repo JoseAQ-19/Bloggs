@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "2b0f519e-e264-54c1-11c2-fc653b744677"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Dani Olmo Revela Verdades Ocultas: Sus Respuestas Este Viernes En YouTube](/images/dani-olmo-en-vivo-no-te-pierdas-sus-respuestas-directas-este-viernes-en-youtube.jpg)
 

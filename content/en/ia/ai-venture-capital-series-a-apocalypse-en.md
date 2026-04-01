@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "887af157-ebf1-5f6e-0fb6-1e430d8fd63c"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![90% Of AI Startups Fail: Is Your Series A Investment a Unicorn Corpse?](/images/ai-venture-capital-series-a-apocalypse-en.jpg)
 

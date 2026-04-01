@@ -5,6 +5,8 @@ layout: single
 title: About Us
 translationKey: about
 url: /en/about/
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## Novum Manifesto: Journalism in the Age of Noise
 

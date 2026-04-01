@@ -11,8 +11,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "450ff38b-2c80-18f0-d610-94e7b7c7707d"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Fannie Mae’s Crypto Move Could Disrupt $7 Trillion in Housing Loans—Here’s How](/images/fannie-mae-embraces-crypto-the-future-of-home-loans-is-here-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 The U.S. housing market, a $7 trillion behemoth backed by government-sponsored enterprises, is flirting with high-risk collateral to solve an affordability crisis it created. As the Federal Reserve's rate policy crushes demand, lenders are desperate to unlock liquidity, even if it means tethering 30-year mortgages to assets that can lose 20% of their value in a single afternoon.
 

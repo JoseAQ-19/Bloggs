@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "f1678862-5539-0289-d914-e839061d0b71"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![NFL's CTE Cover-Up: 110 Out Of 111 Brains Showed Damage, But Nobody Cared](/images/nfl-rookies-cte-conspiracy-en.jpg)
 

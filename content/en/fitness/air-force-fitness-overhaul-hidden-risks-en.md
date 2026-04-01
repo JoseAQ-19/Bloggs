@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "7108b301-eda0-6400-2f54-1909eea6a7c1"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Air Force Fitness Fiasco: Women Face 31% Higher Injury Risk. Why?](/images/air-force-fitness-overhaul-hidden-risks-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 Without question, Air Force fitness standards, intended to maintain combat readiness, are inadvertently creating a perfect storm of injury, particularly for female airmen.
 

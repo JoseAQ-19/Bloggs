@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "b25f8a67-a5ac-1022-5911-7f6334a59b2e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![84% of High Schoolers Use AI: Are Teachers Even in The Classroom Anymore?](/images/generative-ai-high-schools-technical-analysis-en.jpg)
 

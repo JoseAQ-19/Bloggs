@@ -5,6 +5,8 @@ layout: single
 title: Contacto
 translationKey: contact
 url: /es/contact/
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## Hablemos Claro
 

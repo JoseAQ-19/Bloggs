@@ -15,6 +15,8 @@ type: ia
 remastered: true
 
 translationKey: "e637eb9e-97c5-4250-ec18-8f575b3ef076"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 El supuesto funeral del metaverso es prematuro. No es que haya muerto, sino que nunca existió. La idea de un universo digital unificado, una réplica barata de la realidad donde corporaciones como Meta nos pastorearían con avatares caricaturescos, siempre fue una fantasía megalómana digna de un capítulo de Black Mirror. La verdadera pregunta es: ¿cómo pudo alguien tomarla en serio?
 

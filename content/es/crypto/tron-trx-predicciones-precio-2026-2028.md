@@ -9,7 +9,11 @@ categories: ["crypto"]
 type: "crypto"
 language: "es"
 translationKey: "61e49921-9549-cd3c-5005-5c5dc1e64a51"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
+
 ## TRON: Justin Sun controla el 60% y tú pagarás el precio en 2028
 
 El ecosistema TRON, liderado por Justin Sun, enfrenta crecientes críticas por su presunta centralización, que parece contradecir los principios fundamentales de la tecnología blockchain. A medida que crece la incertidumbre regulatoria, especialmente en España, los riesgos para los inversores se multiplican.

@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "ab805d91-4ddd-495f-90b8-e3aa8e6a3680"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Hugging Face Embeddings: The $4.5 Billion Lobotomy?](/images/hugging-face-embeddings-lobotomy-en.jpg)
 

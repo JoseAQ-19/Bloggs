@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "26ada778-b2fa-6aa3-2e01-e0a6c682a505"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube TV In 2026: Comcast's Worst Nightmare Or $73 Mistake?](/images/youtube-tv-2026-worth-it-en.jpg)
 

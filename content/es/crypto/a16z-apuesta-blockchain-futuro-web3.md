@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "es"
 translationKey: "732e72c5-28b2-0385-7267-a03821e61b29"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![A16z Arriesga 2.000 Millones: Harvard Invierte en Ethereum Mientras España Teme Impuestos Crypto](/images/a16z-apuesta-blockchain-futuro-web3.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 La tokenización de activos del mundo real es una burbuja inflada por el optimismo ciego. A16z predice que la tokenización de activos reales y la privacidad serán la mayor defensa en el sector criptográfico para 2025, mientras que instituciones como Harvard invirtieron aproximadamente 87 millones de dólares en ETF de Ethereum.
 

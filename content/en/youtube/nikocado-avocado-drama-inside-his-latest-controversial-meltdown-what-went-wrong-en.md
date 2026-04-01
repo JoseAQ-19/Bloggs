@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "476eadec-9a61-3b28-124f-c5cfab2158c8"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Nikocado Avocado's $100K/Month YouTube Empire Is Collapsing: The Stephanie Soo Effect](/images/nikocado-avocado-drama-inside-his-latest-controversial-meltdown-what-went-wrong-en.jpg)
 

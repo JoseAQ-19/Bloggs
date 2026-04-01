@@ -12,6 +12,8 @@ remastered: true
 title: 'Silicon Valley se Desangra: La Era Dorada ha Terminado (Y Nadie lo Admite)'
 translationKey: fb00fcca-670d-9c54-e8fe-c63c7090fb04
 type: ia
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## Silicon Valley: ¿Crisis o Recalibración del Ecosistema de Innovación?
 

@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "af6e5141-0789-7d5b-48af-b617ceaea090"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Chuck Norris Didn't Die, But Trust Did: Blame The $200 Million Deepfakes](/images/chuck-norris-death-hoax-deepfakes-trust-en.jpg)
 

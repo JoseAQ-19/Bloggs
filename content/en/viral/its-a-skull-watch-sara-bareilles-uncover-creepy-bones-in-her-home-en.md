@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "e0f3d097-5059-363b-ee9b-324f75796666"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Sara Bareilles' Renovation Nightmare: The $500 Billion Industry's Dark Secret](/images/its-a-skull-watch-sara-bareilles-uncover-creepy-bones-in-her-home-en.jpg)
 

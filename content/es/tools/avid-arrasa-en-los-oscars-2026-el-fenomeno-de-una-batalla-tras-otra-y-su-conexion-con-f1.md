@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "es"
 translationKey: "01e1afad-26db-fede-98e5-b5c26e3af491"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Avid Arrasa en los Oscars 2026: 5 Razones Por Las Que 'Una Batalla Tras Otra' Es Un Fenómeno](/images/avid-arrasa-en-los-oscars-2026-el-fenomeno-de-una-batalla-tras-otra-y-su-conexion-con-f1.jpg)
 

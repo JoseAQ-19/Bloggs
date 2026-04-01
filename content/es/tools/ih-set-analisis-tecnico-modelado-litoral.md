@@ -11,6 +11,8 @@ categories: ["tools"]
 type: "tools"
 language: "es"
 translationKey: "4585e79b-c2db-5f8a-cb86-ee21316bcf31"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![La Controversia Oculta: 40% de la Población Española en Peligro por Erosión Costera](/images/ih-set-analisis-tecnico-modelado-litoral.jpg)
 

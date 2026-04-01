@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "989461f7-ffbe-3a5d-76e1-0be3bf9c2c7e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![¿Comida Rápida? La Crítica DEVASTADORA Al Estilo MrBeast Que Sacude YouTube.](/images/mrbeast-formula-viral-youtube.jpg)
 

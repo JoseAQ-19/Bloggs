@@ -11,6 +11,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "7f8d66d4-2099-be11-39bc-1b5795c63d81"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![The Disturbing Truth About Chesney: Wisconsin's Runaway Kangaroo Risks Agricultural Chaos](/images/the-hunt-for-chesney-how-a-runaway-kangaroo-captivated-wisconsin-en.jpg)
 

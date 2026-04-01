@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "36526cb2-be16-5b8b-6504-0eba50cd2101"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Kings League En Caída Libre: ¿El Circo de Piqué Pierde 400.000 Espectadores?](/images/kings-league-crisis-audiencia-gerard-romero.jpg)
 

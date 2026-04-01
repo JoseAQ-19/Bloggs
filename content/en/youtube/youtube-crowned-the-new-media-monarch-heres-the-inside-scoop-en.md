@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "dcdf577e-e3a6-8e56-3afe-1eac22546e34"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube Just Generated $36.1 Billion in Ad Revenue: Here’s What You Don’t Know](/images/youtube-crowned-the-new-media-monarch-heres-the-inside-scoop-en.jpg)
 

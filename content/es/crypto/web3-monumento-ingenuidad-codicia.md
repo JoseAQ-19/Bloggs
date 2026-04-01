@@ -17,7 +17,11 @@ title: 'Web3: Un monumento a la ingenuidad y la codicia (Capítulo 34)'
 translationKey: monument-naivety-greed
 type: ia
 remastered: true
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
+
 ¿Recuerdas esa promesa de un internet libre, donde tú reinabas sobre tus datos y la censura era un recuerdo borroso? En 2025, la Web3, presentada como la siguiente gran revolución digital, se revela más como una sofisticada estafa que como una utopía. El sueño de la descentralización ha chocado con esquemas piramidales, centralización encubierta y un abismo entre la narrativa libertaria y el capitalismo desregulado. La Web3 se erige como un mausoleo de expectativas rotas, donde la democratización y la autonomía se han quedado en meras palabras vacías.
 
 ## La descentralización fallida: una fachada rentable

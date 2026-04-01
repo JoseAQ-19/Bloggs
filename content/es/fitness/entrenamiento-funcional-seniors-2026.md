@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "es"
 translationKey: "23501325-c1e2-0064-dd2a-2e75ef0c2d63"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Mayores Al Borde: 4.018 Muertes Por Caídas Revelan La Urgencia Del Entrenamiento Funcional](/images/entrenamiento-funcional-seniors-2026.jpg)
+
+
+> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
 
 Las residencias geriátricas en España se enfrentan a una realidad incómoda: el entrenamiento funcional para personas mayores no siempre está a la altura, costando 4.018 vidas solo en 2023 debido a caídas prevenibles. ¿Es la promesa de un envejecimiento activo una cortina de humo que oculta una falta de preparación y supervisión adecuada?
 

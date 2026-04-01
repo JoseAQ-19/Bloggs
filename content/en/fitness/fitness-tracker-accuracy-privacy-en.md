@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "0b78ed74-b894-e5b3-636e-44e70c34d824"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Amazon's Fitness Tracker Lies: Your Calorie Burn is 69% WRONG!](/images/fitness-tracker-accuracy-privacy-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 The quantified self is a quantified lie, and the wearable industry is banking on your inability to distinguish between data points and biological reality.
 

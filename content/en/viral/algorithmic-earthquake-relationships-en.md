@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "eda41012-ed73-9305-f694-ac0a6275e649"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Reddit Reveals: Social Media Turns 1 In 3 Relationships Into 'Jealous' Hellscapes](/images/algorithmic-earthquake-relationships-en.jpg)
 

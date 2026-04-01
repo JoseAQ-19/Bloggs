@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "70d87fb2-82f1-8587-9ef9-4ff74fdf4081"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![PopSockets' $315 Million Mirage: Are Sales Figures Hiding A Sticky Situation?](/images/popsockets-market-saturation-en.jpg)
 

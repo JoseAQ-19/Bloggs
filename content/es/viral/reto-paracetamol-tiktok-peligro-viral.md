@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "84e512fc-f6d5-fb66-5247-e0aa118d1284"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![¡Alerta Roja! 20 Gramos de Paracetamol: La Nueva Tendencia Mortal en TikTok](/images/reto-paracetamol-tiktok-peligro-viral.jpg)
 

@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "es"
 translationKey: "897e4b16-8a55-ec4b-d2c2-8577e1322d5a"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Acciones Europeas: Rentabilidad del 3% ante el desplome del 10% asiático por Irán.](/images/acciones-europeas-rentabilidad-del-3-ante-el-desplome-del-10-asiatico-por-iran.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 El desplome del 10% en las bolsas asiáticas tras los recientes incidentes geopolíticos en Irán contrasta con el leve repunte del 3% en las acciones europeas, según datos de Bloomberg. ¿Es este un espejismo o una oportunidad para los inversores?
 

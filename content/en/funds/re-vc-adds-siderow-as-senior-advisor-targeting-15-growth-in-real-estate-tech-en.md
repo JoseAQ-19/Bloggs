@@ -9,7 +9,11 @@ categories: ["funds"]
 type: "funds"
 language: "en"
 translationKey: "bd77d130-636e-9c84-8d58-40c30db61a47"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
+
 ---
 title: RE VC Adds Siderow as Senior Advisor; Targeting 15% Growth in Real Estate Tech
 date: 2024-04-26T12:00:00-04:00

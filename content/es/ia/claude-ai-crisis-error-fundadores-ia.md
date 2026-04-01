@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "ec7745df-f9a5-d327-87ee-90c2c752c088"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Claude Falló: 95% Apuesta Por Armas Nucleares. ¿Estamos Seguros?](/images/claude-ai-crisis-error-fundadores-ia.jpg)
 

@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "3e8eb4e5-d098-ee61-ee34-da97730d730b"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![39% Of CEOs Fired Over Ethics: Is Your Favorite Brand's Apology Next?](/images/apology-industrial-complex-brand-strategy-en.jpg)
 

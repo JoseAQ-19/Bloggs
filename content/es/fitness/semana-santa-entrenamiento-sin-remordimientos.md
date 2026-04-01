@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "es"
 translationKey: "3b14aebe-4b64-025f-2636-9d68a929da96"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Costaleros al Límite: El Secreto Para Evitar Lesiones de Espalda Estas Fiestas](/images/semana-santa-entrenamiento-sin-remordimientos.jpg)
+
+
+> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
 
 **Un tercio de los españoles sufre lesiones musculares anuales, pero los costaleros de Sevilla cargan con el doble de riesgo bajo sus pasos** 
 * [3 de cada 10 españados han padecido lesiones musculares, articulares o óseas en el último año — Estudio Nacional de Salud](https://www.ine.es/jaxiT3/Tabla.htm?t=2888) 

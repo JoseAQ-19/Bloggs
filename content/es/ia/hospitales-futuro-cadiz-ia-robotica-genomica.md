@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "dd01c257-10ce-f8f0-d00e-c9fdd2c17daf"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Cádiz al Borde: ¿Serán 155 Algoritmos de IA los Amos de Tu Salud?](/images/hospitales-futuro-cadiz-ia-robotica-genomica.jpg)
 

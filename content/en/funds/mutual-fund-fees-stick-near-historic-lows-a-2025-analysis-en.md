@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "en"
 translationKey: "f51c48eb-b8e5-17a1-8ea9-126ac31ff32d"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Mutual Fund Fees Stick Near Historic Lows: A 2025 Analysis](/images/mutual-fund-fees-stick-near-historic-lows-a-2025-analysis-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 **71% of mutual funds maintained their fees at historic lows in 2025**, according to a recent Morningstar report **1**. 
 * 0.38% average expense ratio for actively managed funds — **Morningstar**

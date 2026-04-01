@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "es"
 translationKey: "c0c5f3cc-905c-f7b7-1039-b9a8d1e1a183"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![La IA Podría Ser La Clave Para La Supervivencia de Crypto.com Tras Despidos Masivos](/images/cryptocom-despide-al-12-de-su-personal-la-ia-es-la-clave-para-sobrevivir-en-el-mercado.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 *Crypto.com ha despedido al 20% de su personal global, apostando por la inteligencia artificial como su única vía de supervivencia en un mercado que exige eficiencia y seguridad.* 
 * La adopción de IA en España se duplicó al 17% en el último año, superando a Italia y Portugal según el IMIA Index. 

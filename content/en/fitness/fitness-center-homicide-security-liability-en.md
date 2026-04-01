@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "ce97c8a6-1777-5a7b-979b-2c8abd21a1e1"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Dr. JES Warns: Your Gym Waiver Won't Save You From Gross Negligence After Homicide](/images/fitness-center-homicide-security-liability-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 * Gym waivers are legally ineffective against gross negligence claims after homicide, as demonstrated by Dr. JoAnn Eickhoff-Shemek's analysis of fitness center liability cases across 42 states with varying waiver enforceability.
 * The Electronic Access Control market reached $44.32 billion in 2023, yet 83% of gym members report persistent security failures through tailgating, revealing a $3.2 billion investment gap between technology implementation and actual security outcomes.

@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "22e26681-7e53-233b-4ff5-63cef03b85ae"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Defensa Ciega: 250 Documentos Bastan Para Doblegar la IA Militar Española.](/images/ia-arma-armagedon-algoritmico-ceguera-militar.jpg)
 

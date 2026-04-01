@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "7f66e4dd-8c4f-7f98-7d9f-fc41de8a10ec"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube Desesperado: Bloquea Comentarios Si Usas AdBlock, ¡Aunque Pagues Premium!](/images/youtube-bloqueadores-anuncios-guerra.jpg)
 

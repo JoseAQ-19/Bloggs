@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "cffbe99c-49c9-3bf5-7fd8-cf9a744ce547"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Claude 3.5 Sonnet: That 5x Cost Savings Claim Is a Total Lie](/images/anthropic-claude-3-5-sonnet-cost-savings-myth-en.jpg)
 

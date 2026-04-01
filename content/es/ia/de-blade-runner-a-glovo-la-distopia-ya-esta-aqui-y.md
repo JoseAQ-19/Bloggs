@@ -12,6 +12,8 @@ title: 'De Blade Runner a Glovo: La Distopía Ya Está Aquí (Y Pide a Domicilio
 translationKey: tecnoutopia-fallida-el-sueno-digital-se-convierte
 type: ia
 remastered: true
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 Aquí está la distopía, servida en 30 minutos o menos. Si creías que Blade Runner era ciencia ficción, es que nunca pediste comida a través de una app. Olvídate de coches voladores; la verdadera pesadilla futurista son los ejércitos de repartidores explotados, pedaleando hacia un futuro distópico impulsado por la codicia corporativa.
 

@@ -13,6 +13,8 @@ type: ia
 remastered: true
 
 translationKey: "4c576dfd-1528-a41e-845d-7df978d500bf"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 El Metaverso ha Muerto: ¿Quién se Queda con los Huesos?
 

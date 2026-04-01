@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "bc4557b3-b5c0-9aef-0642-206fac365760"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube, El Monstruo De 44 Minutos: Tu Hijo Cae En La Trampa, Silicon Valley Gana](/images/youtube-meta-adiccion-redes-millones-temor.jpg)
 

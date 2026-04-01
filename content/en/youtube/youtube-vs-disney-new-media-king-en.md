@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "1d806a5c-c4a4-661a-2742-0221fb33b52b"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/images/youtube-vs-disney-new-media-king-en.jpg)
 

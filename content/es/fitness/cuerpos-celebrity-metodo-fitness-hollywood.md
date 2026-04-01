@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "es"
 translationKey: "7ee464fa-2591-de2e-fabd-ed65bbdea96f"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![¡Escándalo Postparto! El Secreto Fitness Que Esconde El 90% De La Depresión Maternal](/images/cuerpos-celebrity-metodo-fitness-hollywood.jpg)
+
+
+> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
 
 La presión por recuperar la figura "pre-bebé" es una trampa cruel que ignora la crisis de salud mental que afecta a la gran mayoría de las madres primerizas. La obsesión con el "bounce back" esconde una realidad mucho más oscura.
 

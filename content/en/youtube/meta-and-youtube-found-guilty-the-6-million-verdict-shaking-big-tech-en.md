@@ -11,6 +11,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "b9727b7d-0929-ed4b-6a7e-e19b9f70f47e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![$6 Million Verdict Shatters Meta and YouTube’s Facade of User Safety](/images/meta-and-youtube-found-guilty-the-6-million-verdict-shaking-big-tech-en.jpg)
 

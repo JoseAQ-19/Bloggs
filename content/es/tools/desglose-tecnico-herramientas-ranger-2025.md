@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "es"
 translationKey: "2ba8f5e7-3103-7435-fca9-ab4070e334d2"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Ranger 2025: El Fallo Del Biturbo 2L Que Nadie Te Contará](/images/desglose-tecnico-herramientas-ranger-2025.jpg)
 

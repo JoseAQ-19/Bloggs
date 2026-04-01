@@ -6,6 +6,8 @@ layout: single
 title: Privacy Policy
 translationKey: privacy
 weight: 80
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## Privacy Policy
 

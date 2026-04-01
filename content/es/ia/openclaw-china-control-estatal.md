@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "a364661e-6dcb-4051-02c5-3ede667ea4cc"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![OpenClaw: ¿Por Qué El Partido Comunista Está Aterrorizado Por 183 Millones de Usuarios?](/images/openclaw-china-control-estatal.jpg)
 

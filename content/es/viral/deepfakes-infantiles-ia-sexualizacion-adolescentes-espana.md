@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "f4cdd741-3ad6-cd85-af19-5bc5a51c8b8c"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Grok Desata el Infierno: 3 Millones de Imágenes Infantiles Explicitas Generadas en 11 Días](/images/deepfakes-infantiles-ia-sexualizacion-adolescentes-espana.jpg)
 

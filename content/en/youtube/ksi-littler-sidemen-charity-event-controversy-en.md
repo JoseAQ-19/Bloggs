@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "05744978-6901-e8b5-cc90-cde4e6d12411"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![KSI's Littler Ban Sparks Outrage: Sidemen Sunday Views Face 24% Viewbot Crackdown Risk](/images/ksi-littler-sidemen-charity-event-controversy-en.jpg)
 

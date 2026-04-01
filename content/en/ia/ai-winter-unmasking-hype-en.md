@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "98986a34-79a6-eae5-2235-17169ca260d8"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![AI Utopia? 6% Of Companies Actually Use AI, Experts Predict Imminent Crash](/images/ai-winter-unmasking-hype-en.jpg)
 

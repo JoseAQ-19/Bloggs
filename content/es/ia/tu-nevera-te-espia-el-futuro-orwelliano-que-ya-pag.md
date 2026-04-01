@@ -11,6 +11,8 @@ quality_tier: fenix_v2_notebooklm
 title: ¿Tu nevera te espía? El futuro orwelliano que ya pagas
 translationKey: tu-nevera-te-espia-el-futuro-orwelliano-que-ya-pag
 type: ia
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## El Gran Hermano en el Salón de Estar: La Vigilancia Doméstica que Ya Estás Financiando
 

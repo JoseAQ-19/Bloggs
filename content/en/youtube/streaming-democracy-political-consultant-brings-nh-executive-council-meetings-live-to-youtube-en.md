@@ -11,6 +11,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "5a979b62-ae70-0166-4b5b-4c9c9ea3bd1e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Streaming Democracy: 75% Of Local News Views Now Come From YouTube](/images/streaming-democracy-political-consultant-brings-nh-executive-council-meetings-live-to-youtube-en.jpg)
 

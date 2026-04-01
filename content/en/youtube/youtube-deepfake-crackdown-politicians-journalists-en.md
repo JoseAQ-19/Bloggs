@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "f783666f-6ece-c437-a524-1bbe919efa78"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube's AI Crackdown: 83% Of Americans Terrified By Election Deepfakes](/images/youtube-deepfake-crackdown-politicians-journalists-en.jpg)
 

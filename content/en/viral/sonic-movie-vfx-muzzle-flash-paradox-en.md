@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "50f98135-d4b2-ff54-8f3b-0191cfac3745"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Ugly Sonic Didn't Die: His VFX Secrets Still Haunt Our Need for Speed](/images/sonic-movie-vfx-muzzle-flash-paradox-en.jpg)
 

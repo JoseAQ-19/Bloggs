@@ -11,6 +11,8 @@ quality_tier: fenix_v2_notebooklm
 title: 'Greenland: The New Geopolitical Checkmate Sinking Silicon Valley'
 translationKey: groenlandia-el-nuevo-jaque-mate-geopolitico-que-hu
 type: ia
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## Groenlandia: The Geopolitical Checkmate Sinking Silicon Valley? For more insights on this topic, read our analysis on [Perplexity's $200 Computer AI: 80% Of Companies To](/ia/perplexity-ai-computer-overkill-future-en/).
 

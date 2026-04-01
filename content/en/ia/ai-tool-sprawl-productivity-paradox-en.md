@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "1aa8d880-76cf-df13-c493-087a88b70589"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![70% Of AI Projects Fail: Is Silicon Valley's AI Obsession A Colossal Waste?](/images/ai-tool-sprawl-productivity-paradox-en.jpg)
 

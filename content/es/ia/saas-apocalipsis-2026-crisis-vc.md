@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "af254ad2-b969-b27c-6fe3-c1cea76dfce9"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Acciona el Pánico: La IA Amenaza 300 Millones de Euros Invertidos en Startups Españolas](/images/saas-apocalipsis-2026-crisis-vc.jpg)
 

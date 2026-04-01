@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "b24a9167-03ff-146d-b64d-bb24a1affc45"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![The Hidden Risks Behind AI Fracture Predictions That Nobody Is Talking About](/images/transform-your-bone-health-top-fitness-gadgets-you-need-to-try-now-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 The AI osteoporosis screening bubble is worth $1.14 billion by 2036, but regulatory bodies are just beginning to understand the dangerous blind spots in fracture prediction algorithms.
 

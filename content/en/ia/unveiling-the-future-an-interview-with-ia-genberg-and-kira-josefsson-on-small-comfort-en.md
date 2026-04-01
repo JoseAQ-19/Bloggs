@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "6c6eec63-3303-a4d0-dce6-fb2f59207a94"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![39% Of Novelists Fear AI Will Destroy Their Income: Ia Genberg Speaks Out](/images/unveiling-the-future-an-interview-with-ia-genberg-and-kira-josefsson-on-small-comfort-en.jpg)
 

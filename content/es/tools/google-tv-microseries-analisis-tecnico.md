@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "es"
 translationKey: "11c20cce-7959-285f-4720-e532bfc6b74e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Google TV Se Derrumba: El 'Efecto TikTok' Cuesta Un 19% De Alcance.](/images/google-tv-microseries-analisis-tecnico.jpg)
 

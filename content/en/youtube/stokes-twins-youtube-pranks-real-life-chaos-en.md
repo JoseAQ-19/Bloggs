@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "386801f0-7d60-fe97-2e0e-8f1fa15c62bd"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Stokes Twins' Pranks Could Land Them Back In Court: Todd Spitzer Warns](/images/stokes-twins-youtube-pranks-real-life-chaos-en.jpg)
 

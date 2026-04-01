@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "ab9341dc-b731-8cc7-e7b7-82c288f1863e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Mbappé Víctima: Fiscalía Pide Un Año de Cárcel Por Insultos Racistas en España](/images/carcel-insultos-racistas-mbappe-laliga.jpg)
 

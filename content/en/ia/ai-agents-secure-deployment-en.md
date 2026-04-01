@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "263a704d-3e21-fed2-a989-36e828a69e35"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![95% Of AI Projects Fail: Is Your Agent Deployment Secure Enough?](/images/ai-agents-secure-deployment-en.jpg)
 

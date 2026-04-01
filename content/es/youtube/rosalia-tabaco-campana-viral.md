@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "31b629aa-8272-a9a4-f039-acf2a7c8a0e4"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Rosalía, Déjalo: La Campaña Anti-Tabaco Que Avergonzará A La Industria Del Vapeo.](/images/rosalia-tabaco-campana-viral.jpg)
 

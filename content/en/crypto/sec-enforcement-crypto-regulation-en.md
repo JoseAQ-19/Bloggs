@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "bbfa6553-f324-5e58-6b45-943cc0653f00"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![$2.6 Billion Crypto Crackdown: Is Your DeFi Next, Thanks To The SEC?](/images/sec-enforcement-crypto-regulation-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 The SEC’s heightened focus on crypto enforcement reveals a regulatory minefield for DeFi projects. In 2025, the SEC brought more than 30 crypto enforcement actions, signaling a clampdown on unregistered securities in the decentralized finance (DeFi) space.
 

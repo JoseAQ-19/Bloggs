@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "es"
 translationKey: "abcc8133-9610-7deb-0730-80fc344b9639"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## Apple potencia Final Cut Pro con MotionVFX: ¿una amenaza para Adobe Premiere Pro?
 

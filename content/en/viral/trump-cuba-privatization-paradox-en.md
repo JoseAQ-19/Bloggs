@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "ab375954-0b73-15cb-afa2-88838c2caf54"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Trump's Cuba Coup: How 1.6 Million Workers Could Lose Everything](/images/trump-cuba-privatization-paradox-en.jpg)
 

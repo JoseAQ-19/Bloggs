@@ -11,6 +11,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "d309ca50-ff0e-a388-4b9a-29dd61eecd70"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![The Hidden Dangers Behind Jeopardy!’s Move to Generative AI Question Generation](/images/jeopardy-takes-the-plunge-exciting-new-youtube-spinoff-on-the-horizon-en.jpg)
 

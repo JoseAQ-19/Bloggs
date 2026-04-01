@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "en"
 translationKey: "cafd3f69-c2d1-9707-4f34-a80dc0efae04"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Fluent Financial LLC Invests Heavily in Morningstar, Inc., $MORN Surges by 5%](/images/fluent-financial-llc-invests-heavily-in-morningstar-inc-morn-surges-by-5-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 **Fluent Financial LLC has increased its stake in Morningstar, Inc., resulting in a 5% surge in the stock price.** 
 

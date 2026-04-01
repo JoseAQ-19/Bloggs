@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "ee93f094-eee3-5859-278c-06c8603fafcc"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Aiper Scuba S1: La Revolución De La Limpieza De Piscinas Que Nadie Esperaba](/images/la-ia-transforma-hasta-la-limpieza-de-piscinas-que-mas-nos-espera.jpg)
 

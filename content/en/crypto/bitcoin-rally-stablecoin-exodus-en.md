@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "03f88caa-8aab-2acb-60e4-04c42a4ddbb6"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Tether's $135 Billion US Treasury Stash Hides A Sinister Secret](/images/bitcoin-rally-stablecoin-exodus-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 Tether's accumulation of $135 billion in US Treasuries has raised eyebrows, but the stability narrative obscures deeper structural concerns.
 

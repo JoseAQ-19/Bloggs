@@ -11,8 +11,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "55523c62-f268-b279-d569-2f6d7b4b7326"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![OpenClaw Developers Lose $5,000 to Deceptive Crypto-Wallet Scam and Nobody Noticed](/images/phishing-alert-openclaw-developers-fall-victim-to-crypto-wallet-scam-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 The OpenClaw developers’ recent experience with a deceptive phishing scam highlights a serious vulnerability within the cryptocurrency ecosystem. The incident, which resulted in a loss of $5,000 due to malicious actors exploiting the developers' trust, serves as a glaring reminder of the need for heightened security protocols in the crypto space.
 

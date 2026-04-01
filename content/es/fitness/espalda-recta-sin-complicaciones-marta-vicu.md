@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "es"
 translationKey: "301235bb-2af4-267e-5494-f4bf78113fc3"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Marta Vicu Promete Espalda Recta, Pero Este Dato Sobre Lumbalgia Te Aterrará](/images/espalda-recta-sin-complicaciones-marta-vicu.jpg)
+
+
+> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
 
 La promesa de una espalda sin dolor es atractiva, pero la realidad de la lumbalgia es implacable y el marketing en redes sociales no siempre coincide con la evidencia científica.
 

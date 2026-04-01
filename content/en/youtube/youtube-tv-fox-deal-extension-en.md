@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "60a0778a-e166-5e75-c962-cc154a07a784"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube TV Dodged Fox: Will 77.2 Million Cord-Cutters Pay The Price?](/images/youtube-tv-fox-deal-extension-en.jpg)
 

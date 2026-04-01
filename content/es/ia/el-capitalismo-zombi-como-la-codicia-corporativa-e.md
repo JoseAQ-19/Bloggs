@@ -13,6 +13,8 @@ type: ia
 remastered: true
 
 translationKey: "f07c85fb-80b1-ee26-6d1e-084c21f69b13"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ¿Capitalismo Zombi? Más bien, el Último Clavo en el Ataúd del Libre Mercado.
 

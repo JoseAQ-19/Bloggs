@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "968dd8bc-afb1-2a84-e221-9ca9d251d5ec"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## YouTube revive la nostalgia: 7 programas icónicos de los 2000 que regresan con fuerza
 

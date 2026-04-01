@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "eb1ff752-3cad-9251-4707-7922f380fd88"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## YouTube te destroza: el algoritmo adictivo que engancha como la cocaína
 

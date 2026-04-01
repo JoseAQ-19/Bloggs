@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "d86e3fba-bd04-8db5-8749-32b19ef33f19"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Hyperliquid Fuels $991 Million Oil Futures Frenzy: Is DeFi the New Rig?](/images/oil-futures-crypto-obsession-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 DeFi's incursion into oil futures trading is less a revolution and more a speculative bubble waiting to burst, amplified by algorithmic trading and retail fervor.
 

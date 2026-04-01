@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "ad5e2a19-c3bf-8c41-0070-029f8d515fdf"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![59% Of Traffickers Use The Internet: Are Your Kids Next Beauty Star?](/images/child-beauty-deinfluencing-en.jpg)
 

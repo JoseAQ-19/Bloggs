@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "63630180-555e-c3b8-d347-bb25299b023c"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![OpenAI Desangra España: 12 Fichajes Diarios Y Talento Español En Peligro](/images/openai-fichajes-sueldos-inflados-fuga-cerebros.jpg)
 

@@ -15,6 +15,8 @@ type: ia
 remastered: true
 
 translationKey: "e696fe72-5b13-55fe-e982-fb710958434d"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ¿Neutralidad? ¡Pura cobardía! En esta era de batallas ideológicas encarnizadas, la pretendida equidistancia no es más que una máscara que esconde complicidad y, peor aún, una patente de corso para el prejuicio. Dejémonos de eufemismos: la neutralidad es el refugio de los pusilánimes.
 

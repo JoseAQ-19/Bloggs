@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "en"
 translationKey: "4d19ec1d-b06a-5e55-ce1f-562fd70743ab"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Vanguard Slashes Fees: Investors to Save $250 Million, Boosting Returns by 0.03%](/images/vanguard-slashes-fees-investors-to-save-250-million-boosting-returns-by-003-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 **Vanguard Slashes Fees: Investors to Save $250 Million, Boosting Returns by 0.03%**
 

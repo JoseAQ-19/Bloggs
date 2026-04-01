@@ -11,8 +11,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "e159d524-8459-b545-743f-da3ae9595897"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![The $4 Trillion Crypto Bet: Why Jamie Dimon Says It’s a Dangerous Scam](/images/jamie-dimons-bold-claim-are-crypto-tokens-just-decentralized-ponzi-schemes-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 ## A $4 Trillion Gamble: The Promise and Peril of Crypto's Institutional Adoption
 

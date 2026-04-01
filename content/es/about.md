@@ -5,6 +5,8 @@ layout: single
 title: Sobre Nosotros
 translationKey: about
 url: /es/about/
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## Manifiesto Novum: Periodismo en la Era del Ruido
 

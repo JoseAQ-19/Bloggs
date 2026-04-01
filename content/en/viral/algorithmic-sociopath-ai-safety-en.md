@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "2c1b017c-c2b5-7f3f-cc5a-103d5c6f6fea"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Princeton Neuroscientist Calls Current AI Dangerous Sociopaths: Are We Doomed?](/images/algorithmic-sociopath-ai-safety-en.jpg)
 

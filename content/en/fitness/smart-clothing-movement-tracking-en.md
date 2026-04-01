@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "622ec0ab-fb7c-8fc0-f83e-f0abfa7f07dd"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Fitbit Lawsuits Exposed: Smart Clothing Fixes Heart Rate Monitoring NIGHTMARE](/images/smart-clothing-movement-tracking-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 Wearable health data is more often marketing than medicine.
 

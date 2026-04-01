@@ -10,7 +10,11 @@ type: "crypto"
 language: "es"
 translationKey: "efcbc125-7ec3-4cfe-8294-52e935058178"
 remastered: true
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
+
 ¿Hartos de que MetaMask les exprima hasta la última gota de ETH? No están solos. La autodenominada "billetera líder" se está beneficiando descaradamente de nuestra necesidad de acceso al ecosistema Ethereum.
 
 ## El Monstruo de las Comisiones Ocultas

@@ -12,6 +12,8 @@ title: ': La Cortina de Humo Digital'
 translationKey: geopolitica-2026-el-ano-que-dejamos-de-fingir
 type: ia
 remastered: true
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ¿México Conectado? Más Bien Controlado: Desmontando la Farsa Digital Mexicana
 

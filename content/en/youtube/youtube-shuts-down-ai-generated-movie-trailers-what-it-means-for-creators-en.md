@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "5e7aa6e9-2686-e038-af23-250b4f7786a3"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube Just Cracked Down on AI Trailers: 400+ Firms Face Major Risks](/images/youtube-shuts-down-ai-generated-movie-trailers-what-it-means-for-creators-en.jpg)
 

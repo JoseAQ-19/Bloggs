@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "7437b633-3a9a-b3dc-4fe0-0e1e3a0386c0"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Lancaster Gyms Just Solved Fitness's 60% Problem; Big Gyms Should Be Terrified](/images/lancaster-gyms-women-of-color-fitness-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 The fitness industry's obsession with homogenous ideals has left a lucrative market underserved: women of color.
 

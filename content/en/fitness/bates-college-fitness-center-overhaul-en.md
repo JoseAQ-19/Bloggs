@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "0fcbb8ed-2218-0c7e-e98e-3d28329634f3"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Bates' $45 Million Gamble: Will 'Well-Being' Bankrupt Their Academic Ranking?](/images/bates-college-fitness-center-overhaul-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 Bates College's pivot to prioritizing "well-being" may very well turn into a balance sheet black eye.
 

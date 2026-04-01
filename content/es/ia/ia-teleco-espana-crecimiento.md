@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "084f17ff-da0a-7e42-6176-f976ff1cac2c"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Telecoms Españolas Al Borde Del Colapso: La IA Promete Salvación… O Ruina Total](/images/ia-teleco-espana-crecimiento.jpg)
 

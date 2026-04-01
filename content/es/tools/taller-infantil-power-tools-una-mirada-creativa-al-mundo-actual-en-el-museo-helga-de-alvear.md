@@ -11,6 +11,8 @@ categories: ["tools"]
 type: "tools"
 language: "es"
 translationKey: "32844796-69cd-ac83-c3e5-da5bfb7990e7"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![12,500 Niños Aprendiendo STEAM: El Impacto de 'Power Tools' en la Educación Temprana](/images/taller-infantil-power-tools-una-mirada-creativa-al-mundo-actual-en-el-museo-helga-de-alvear.jpg)
 

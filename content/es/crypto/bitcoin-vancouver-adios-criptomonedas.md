@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "es"
 translationKey: "2b7acf08-7ee0-d28f-4a37-ffcbb5920ae9"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Worldcoin Escaneó a 360.000 Españoles: La AEPD Reacciona Tarde](/images/bitcoin-vancouver-adios-criptomonedas.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 La privacidad es un bien que se vende caro, especialmente cuando se trata de datos biométricos.
 

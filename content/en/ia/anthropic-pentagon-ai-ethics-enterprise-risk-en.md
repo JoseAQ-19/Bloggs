@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "ceeecf73-af25-99d2-a4cc-8953cab3341f"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Anthropic Just Broke Trust: The Pentagon Fallout Nobody Is Talking About](/images/anthropic-pentagon-ai-ethics-enterprise-risk-en.jpg)
 

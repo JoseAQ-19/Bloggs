@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "067325ab-a021-1657-4fe7-c6cc6186cca4"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube's Algorithm Recommended 71% Harmful Videos: Teen Mental Health Trial Begins](/images/meta-youtube-teen-mental-health-liability-en.jpg)
 

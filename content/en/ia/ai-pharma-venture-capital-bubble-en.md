@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "7085feb8-6e68-560a-68c6-9f471430eaad"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![AI Pharma's Dirty Secret: 90% Trial Failure Rate Still Haunts $25B Boom](/images/ai-pharma-venture-capital-bubble-en.jpg)
 

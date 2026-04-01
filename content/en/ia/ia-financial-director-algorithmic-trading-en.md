@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "3b5672fe-a8d1-b4b4-6aa4-c42f4b79f6af"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![iA Financial: $23 Million Insider Sale, Or Genius AI Play?](/images/ia-financial-director-algorithmic-trading-en.jpg)
 

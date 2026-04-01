@@ -11,8 +11,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "0fc9009e-eae6-0f63-ae25-87088c8413b9"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![SEC Power Grab: Crypto Could Face Total Securities Reclassification Without Clarity Act](/images/sec-vs-crypto-will-regulatory-chaos-crush-the-industry-if-the-clarity-bill-fails-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 **SEC Power Grab: Crypto Could Face Total Securities Reclassification Without Clarity Act**
 

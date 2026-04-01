@@ -13,6 +13,8 @@ tags:
 title: 'Inteligencia Artificial: La Estafa del Siglo XXI'
 translationKey: inteligencia-artificial-la-estafa-del-siglo-xxi
 type: ia
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 La Inteligencia Artificial (IA) se ha presentado como la panacea tecnológica, una fuerza imparable que transformará nuestras vidas para mejor. Promete automatización, eficiencia y soluciones a problemas complejos. Sin embargo, rascando la superficie brillante, encontramos una realidad mucho más turbia: un entramado de promesas infladas, explotación laboral y una burbuja financiera a punto de estallar. ¿Estamos ante la mayor estafa del siglo XXI?
 

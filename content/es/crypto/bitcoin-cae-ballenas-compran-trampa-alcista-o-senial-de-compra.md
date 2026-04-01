@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "es"
 translationKey: "08ef61ad-0b4a-4b64-97c3-c5681bc31894"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Bitcoin A 91.000: Cava Revela La Manipulación Secreta Que Nadie Quería Que Supieras](/images/bitcoin-cae-ballenas-compran-trampa-alcista-o-senial-de-compra.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 Tras desplomarse a $91,000, el análisis sugiere que Bitcoin está experimentando acumulación por parte de grandes tenedores, a pesar de las acusaciones de posible manipulación del mercado.
 

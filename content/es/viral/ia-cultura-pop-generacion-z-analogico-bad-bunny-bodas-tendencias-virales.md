@@ -15,6 +15,8 @@ title: 'La IA Domina la Cultura Pop, la Generación Z Ama lo Analógico y Bad Bu
 Oficia Bodas: Las Tendencias Virales que No Puedes Ignorar'
 translationKey: decoding-viral-vortex-ai-analog-unexpected-nuptials
 type: viral
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 El mundo digital es un torbellino de tendencias fugaces, pero algunas corrientes subterráneas están destinadas a remodelar el panorama cultural. Desde la omnipresencia de la inteligencia artificial hasta el resurgimiento de lo analógico y los movimientos inesperados de celebridades, diseccionamos las tendencias virales que definirán el próximo año. ¿Son simples modas pasajeras o el preludio de cambios profundos en la forma en que consumimos, creamos y nos relacionamos?
 

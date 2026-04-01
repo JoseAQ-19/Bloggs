@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "ecf111b0-af2f-c96d-c5a3-e6568b8b0744"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## Ser una serpiente y estar feliz: la bomba therian que divide a psicólogos
 

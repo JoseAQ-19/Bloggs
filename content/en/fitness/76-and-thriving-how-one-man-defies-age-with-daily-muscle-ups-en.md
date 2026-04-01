@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "c951aaf8-5503-e3e0-2d1f-d479607aaa7e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![76 And Thriving: One Man's Daily Muscle-Ups Defy Aging Myths](/images/76-and-thriving-how-one-man-defies-age-with-daily-muscle-ups-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 * Global longevity economy projected to exceed $27 trillion by 2026, dwarfing the entire fitness industry — **Bloomberg Economics**.
 * Sarcopenia affects up to 29% of adults over 80, increasing mortality risk by 96% — **Mayo Clinic Proceedings**.

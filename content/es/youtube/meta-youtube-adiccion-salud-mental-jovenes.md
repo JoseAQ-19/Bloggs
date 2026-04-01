@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "173cd36d-8e74-f34d-3807-6fd3a500a503"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![¡Escándalo! Meta Y YouTube Culpables: Adicción Azota Al 21,3% de Adolescentes Españoles](/images/meta-youtube-adiccion-salud-mental-jovenes.jpg)
 

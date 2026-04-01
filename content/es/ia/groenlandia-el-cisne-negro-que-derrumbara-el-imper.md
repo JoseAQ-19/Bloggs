@@ -14,6 +14,8 @@ title: 'Groenlandia: El Cisne Negro que Derrumbará el Imperio Digital de EEUU'
 translationKey: groenlandia-el-nuevo-jaque-mate-geopolitico-que-hu
 type: ia
 remastered: true
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 Groenlandia: La Traición Helada de América a Occidente
 

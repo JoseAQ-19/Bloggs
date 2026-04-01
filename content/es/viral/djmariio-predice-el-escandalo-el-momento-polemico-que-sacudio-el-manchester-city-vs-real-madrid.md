@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "a085fb81-4e9b-99fc-297e-9f684dd4aa3e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![DjMaRiiO Predice El Escándalo: 5 Momentos Controversiales Que Sacudieron El Manchester City Vs Real Madrid](/images/djmariio-predice-el-escandalo-el-momento-polemico-que-sacudio-el-manchester-city-vs-real-madrid.jpg)
 

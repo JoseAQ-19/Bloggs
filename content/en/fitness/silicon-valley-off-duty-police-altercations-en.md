@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "a8147864-5378-73b3-1283-8b83a0aad6ea"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Off-Duty Bloodshed: Why Black Men Are 39% Of Off-Duty Police Killings](/images/silicon-valley-off-duty-police-altercations-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 The myth that an off-duty police officer ceases to be a representative of the law is dangerously naive, particularly when considering the disproportionate impact on specific communities.
 

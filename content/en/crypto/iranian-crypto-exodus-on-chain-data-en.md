@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "e5de1893-f606-c0c1-ac95-01db37b2256f"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Nobitex Records 700% Surge: Iran's Capital Flight Fueled By Fear](/images/iranian-crypto-exodus-on-chain-data-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 Iran's crypto market, touted as a haven from sanctions, may instead be a ticking time bomb for the global financial system.
 

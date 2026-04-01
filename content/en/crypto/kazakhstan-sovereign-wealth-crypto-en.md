@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "94ecc7ec-4d93-5549-9cd1-05f7c25ff0eb"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![8% Surge: Kazakhstan's Crypto Obsession Risks $350M Sovereign Wealth Bet.](/images/kazakhstan-sovereign-wealth-crypto-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 Kazakhstan's electricity demand surged 8% in 2021 due to crypto mining, significantly outpacing typical growth and straining the national grid while the country simultaneously risked $350 million from its sovereign wealth fund.
 

@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "1508e35c-41d2-3076-7bc5-a283a0357799"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![OpenAI Admite el Fracaso de Sora: Gastaba 1,30$ Por Video y Esto Es el Motivo](/images/openai-recula-sora-estrategia-ia.jpg)
 

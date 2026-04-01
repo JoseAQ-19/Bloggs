@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "es"
 translationKey: "827a5952-1bff-d8da-3607-993d27398f8a"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![¡Alerta Roja! Guerra Irán-EEUU Infla Apuestas Crypto a $500M: ¿Manipulación Masiva?](/images/guerra-iran-eeuu-apuestas-crypto-polymarket.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 Más de 500 millones de dólares en apuestas cripto sobre un posible conflicto entre Estados Unidos e Irán despiertan sospechas de manipulación masiva. La especulación descontrolada en mercados de predicción descentralizados como Polymarket plantea serias dudas sobre la integridad del mercado.
 

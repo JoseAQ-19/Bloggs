@@ -16,6 +16,8 @@ tags:
 title: La NBA Reúne a Más de 200 Creadores en el All-Star Weekend de Los Ángeles
 translationKey: nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety
 type: youtube
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## El All-Star Weekend 2026: La Estrategia de Contenido de la NBA Redefine el Engagement Digital
 

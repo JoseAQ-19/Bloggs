@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "1932bd19-32b0-f06e-686a-c3c1d048bc70"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Emma McNally Blasts SNL: Why This Tourette's Joke Is NOT ACCEPTABLE](/images/snl-tourettes-controversy-en.jpg)
 

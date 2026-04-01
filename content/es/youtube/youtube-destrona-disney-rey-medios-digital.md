@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "6b0dfa8b-e44c-e21b-215a-e0c6f6539ee6"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/images/youtube-destrona-disney-rey-medios-digital.jpg)
 

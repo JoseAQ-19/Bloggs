@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "3586a9d8-a573-915e-a5a7-1180a4612f32"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![RTX 5090 Required? DLSS 5's Dirty Little Secret NVIDIA Doesn't Want You To Know](/images/nvidia-dlss-5-ai-graphics-leap-or-hype-en.jpg)
 

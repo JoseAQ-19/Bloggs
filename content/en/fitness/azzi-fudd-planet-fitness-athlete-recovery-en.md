@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "3f221d68-f70e-1d7a-cef1-c0deb6929774"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Forget $1M NIL: Azzi Fudd's Planet Fitness Deal Reveals New Athlete Strategy](/images/azzi-fudd-planet-fitness-athlete-recovery-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 Without question, Azzi Fudd's Planet Fitness partnership reveals that college athletes can prioritize long-term performance over the allure of immediate, lucrative NIL deals.
 

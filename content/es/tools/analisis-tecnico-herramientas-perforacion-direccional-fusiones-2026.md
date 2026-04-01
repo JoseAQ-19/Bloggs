@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "es"
 translationKey: "10e5796b-b2fa-2bc6-c33a-ed5014fa39a3"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Halliburton y Schlumberger Ocultan Esto: El Riesgo Real en Perforación Direccional](/images/analisis-tecnico-herramientas-perforacion-direccional-fusiones-2026.jpg)
 

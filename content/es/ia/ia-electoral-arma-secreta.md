@@ -11,6 +11,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "9986c0f6-c892-6b94-2861-e180aa1415e6"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![ChatGPT Destronó a Wikipedia: Ahora la IA Decide Tu Voto.](/images/ia-electoral-arma-secreta.jpg)
 

@@ -11,6 +11,8 @@ quality_tier: fenix_v2_notebooklm
 title: "AI Is Lying to You: Why Artificial Personality Is the Fraud of the Century"
 translationKey: la-ia-te-miente-por-que-la-personalidad-artificial
 type: ia
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 We've been sold a narrative: AI is becoming more human, more relatable, even empathetic. But scratch the surface, and you'll find a carefully constructed illusion designed not to help us, but to influence us. The rise of AI "personalities" isn't a technological marvel; it's the dawn of a new era of manipulation, and we're blindly walking into it.
 

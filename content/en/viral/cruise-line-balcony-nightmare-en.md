@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "1dac75ed-efa9-0567-e4e6-05a717c3ae45"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Cruise Balcony Deaths: The Terrifying 40% That Cruise Lines Won't Tell You](/images/cruise-line-balcony-nightmare-en.jpg)
 

@@ -11,6 +11,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "36a166be-6d09-6df3-ee7e-a95b1d0e6789"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Gen Z’s Ballet Revolution: 95% Demand Ethical AI Dance Solutions Now](/images/gen-z-ballet-youtube-dance-revolution-en.jpg)
 

@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "en"
 translationKey: "40202ba7-fd32-cd91-1744-0a2a2c8e4771"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Vanguard VYMI's 10 Basis Point Cut: Is Sub-0.25% Enough to Beat the Competition?](/images/vanguard-vymis-10-basis-point-cut-is-sub-025-enough-to-beat-the-competition-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 **Vanguard's VYMI fund has just slashed its expense ratio by 10 basis points, to 0.24%.** This move is part of a broader trend of declining mutual fund fees, with the average expense ratio for actively managed equity funds falling to 0.71% in 2025, according to a **Morningstar report**.
 

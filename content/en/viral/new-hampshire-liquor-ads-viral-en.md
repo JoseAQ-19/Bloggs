@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "067e028d-d6c4-2e9a-5228-353b96677e5d"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![New Hampshire Liquor Loses \$42 Million: Is Dark Humor To Blame?](/images/new-hampshire-liquor-ads-viral-en.jpg)
 

@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "5c82b628-5f5e-1803-3582-0e3d6161dc88"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Candace Owens' Evil Scumbag Accusation: Inside TPUSA's $85 Million Meltdown](/images/candace-owens-turning-point-usa-fallout-en.jpg)
 

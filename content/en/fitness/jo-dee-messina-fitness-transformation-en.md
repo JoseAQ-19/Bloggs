@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "4c783dcc-7a79-754e-2ac4-868e6178cd34"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Jo Dee Messina's Muscle Vanishes: GLP-1s and The Sarcopenia Time Bomb](/images/jo-dee-messina-fitness-transformation-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 * **15% to 60%** of weight lost on GLP-1 receptor agonists may be lean muscle mass, creating a significant sarcopenia risk factor for users over 40. 
 * The GLP-1 drug market is projected to explode to **$150 billion by 2031**, while concerns about muscle loss are largely ignored in mainstream marketing. 

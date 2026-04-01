@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "en"
 translationKey: "7489542e-2118-4158-a12f-0255500646a4"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Morningstar Names OAKM a Top Active ETF for 2026: A 5-Year Outlook](/images/morningstar-names-oakm-a-top-active-etf-for-2026-a-5-year-outlook-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 Morningstar has designated the OAKM ETF as one of its top active investment vehicles for 2026, marking a significant endorsement for the oil and gas focused fund in an increasingly challenging market environment. According to Morningstar's latest analyst report, OAKM has distinguished itself through its concentrated portfolio approach in energy infrastructure, which has delivered substantial outperformance against its benchmark despite the sector's notorious volatility.
 

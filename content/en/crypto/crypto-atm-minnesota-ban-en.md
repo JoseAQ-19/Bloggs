@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "556a5fdd-eeb4-2e94-a27d-74d7430d68de"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Crypto ATM Scams Explode: $333 Million Lost, And Regulators Finally React](/images/crypto-atm-minnesota-ban-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 American consumers lost over $333 million to Bitcoin ATM scams between January and November 2025 as regulatory oversight fails to keep pace with explosive growth in these financial machines.
 

@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "a82cf286-f091-3e11-584c-d0261c2f6796"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube Revelado: ¿Por Qué Los Títulos Trampa Son Más Rentables Que La Verdad?](/images/youtube-clickbait-titulos-enganosos.jpg)
 

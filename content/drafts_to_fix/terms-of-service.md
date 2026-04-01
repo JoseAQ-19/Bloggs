@@ -5,6 +5,8 @@ layout: single
 title: Términos de Servicio
 translationKey: terms-of-service
 url: /es/terms-of-service/
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## Términos de Servicio
 

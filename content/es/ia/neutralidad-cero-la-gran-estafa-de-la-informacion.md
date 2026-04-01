@@ -15,6 +15,8 @@ type: ia
 remastered: true
 
 translationKey: "c65e79e0-1f8f-ac48-6814-f5f596233b9e"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 La supuesta "neutralidad" periodística: una farsa peligrosa.
 

@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "0e69e677-0ba5-3f33-bb1f-3654d2ade955"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![10,000 Calories And Cardiac Arrest: The Deadly Secret Of Fitness Fame](/images/fitness-influencer-deaths-accountability-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 Fitness influencer Dmitry Nuyanzin died after attempting a 10,000-calorie challenge, underscoring the potentially fatal consequences of extreme fitness trends.
 * A study in the *Journal of Medical Internet Research* found that nearly 60% of fitness-related posts on social media contained inaccuracies or lacked scientific support.

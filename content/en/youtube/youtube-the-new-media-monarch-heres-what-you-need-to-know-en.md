@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "c733101c-5358-b975-e761-91612125001b"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube's Creator Burnout Crisis: 62-90% Are Suffering And The Financial Toll Is Exponential](/images/youtube-the-new-media-monarch-heres-what-you-need-to-know-en.jpg)
 

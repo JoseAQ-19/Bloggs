@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "fa25fbf4-5bda-e6e6-ac4d-dc8019b9ad2b"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![X's SRE Neglect: Why Dmytro Sirant Says Musk's Empire Is Crashing](/images/x-creator-monetization-failure-en.jpg)
 

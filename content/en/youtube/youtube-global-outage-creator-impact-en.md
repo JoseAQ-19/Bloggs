@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "2f888878-646b-d79a-e1c3-1b1ff5d1293a"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube CRASHES: Sundar Pichai Hid This $60 Billion Secret](/images/youtube-global-outage-creator-impact-en.jpg)
 

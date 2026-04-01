@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "es"
 translationKey: "88c9b06d-0f97-4592-bf2a-9a5f5ad8ebbb"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![El Mito de la Meseta del VO2 Máx: Tu Límite Genético Podría Ser Solo un Mal Protocolo](/images/mito-meseta-vo2-max-protocolo-fallido.jpg)
+
+
+> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
 
 Si crees que tu VO2 máx está escrito en piedra por tus genes, piénsalo de nuevo. Tu "límite genético" podría ser, simplemente, un protocolo de prueba pésimo.
 

@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "030449c2-5fbf-7faa-33da-435fe48cd7e4"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![La Base De Maquillaje Viral Que Promete Piel Perfecta Y El Escándalo Detrás De Su Éxito](/images/la-base-de-maquillaje-viral-realmente-logra-la-piel-perfecta.jpg)
 

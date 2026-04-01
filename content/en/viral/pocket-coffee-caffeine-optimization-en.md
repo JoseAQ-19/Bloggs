@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "075d5d4f-8dd7-a74b-4e06-85b555725ecf"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Pocket Coffee Exposed: Are You Trading Alertness For Long-Term Anxiety?](/images/defaults/default-viral.jpg)
 

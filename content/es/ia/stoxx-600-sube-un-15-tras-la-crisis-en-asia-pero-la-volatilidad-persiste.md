@@ -11,6 +11,8 @@ tags:
 title: Stoxx 600 sube un 1,5% tras la crisis en Asia, pero la volatilidad persiste.
 translationKey: a9bee97a-a285-9304-9e3f-3c7953350138
 type: funds
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## Stoxx 600: ¿Resiliencia europea o espejismo de volatilidad?
 

@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "d7287002-42f5-5e10-68a2-d94ab1eb2b0a"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![El Meme “6-7” Que Tus Hijos Usan Y Nadie Entiende: La Oscura Verdad Detrás](/images/que-significa-el-meme-6-7-o-six-seven-que-dicen-tus-hijos-si-es-que-significa-algo.jpg)
 

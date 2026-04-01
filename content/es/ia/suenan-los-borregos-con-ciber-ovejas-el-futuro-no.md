@@ -12,6 +12,8 @@ title: ¿Sueñan los Borregos con Ciber-Ovejas? El Futuro No Es Lo Que Crees
 translationKey: donde-estan-mis-coches-voladores-la-estafa-futuris
 type: ia
 remastered: true
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ¿Sueñan los Borregos con Ciber-Ovejas? Un Absurdo Distractor de la Verdadera Amenaza Tecnológica.
 

@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "a910e409-c46b-05ec-a2de-d0405f7225b4"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![The Hidden Risks Behind 2024’s $15.67 Billion Nootropic Market Boom](/images/pricey-supplement-stacks-take-social-media-by-storm-what-you-need-to-know-en.jpg)
 

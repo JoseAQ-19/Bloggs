@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "en"
 translationKey: "d850ec0a-b58f-5d7e-6bf4-a931f5558a90"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Morningstar Thailand Awards 2026: Top 5 Funds Outperforming with Over 12% Returns](/images/morningstar-thailand-awards-2026-top-5-funds-outperforming-with-over-12-returns-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 **Thailand’s mutual funds have defied global economic turbulence, with five top-performing funds delivering returns exceeding 12% over the past year, as revealed at the Morningstar Thailand Awards 2026.** 
 

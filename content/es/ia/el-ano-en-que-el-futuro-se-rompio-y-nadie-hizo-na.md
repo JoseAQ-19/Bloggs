@@ -13,6 +13,8 @@ type: ia
 remastered: true
 
 translationKey: "440a9a84-7e54-8ce8-3301-fbfe60ba9b72"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 El espejismo chileno: ¿Por qué aplaudimos la decadencia?
 

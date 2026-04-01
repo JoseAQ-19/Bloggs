@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "7b07bb54-3281-f0af-bef3-7e52bb95181b"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Rosé Y Bruno Mars Rompen YouTube: ¡Spotify Paga A Los Artistas €0,001 Por Reproducción!](/images/rose-bruno-mars-apt-youtube-records.jpg)
 

@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "c01c3aa1-fa8a-7626-3426-c0f5379a373d"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![78-Year-Old DoorDash Driver's Viral Fame Sparks Outrage Over Gig Economy Injustice](/images/78-year-old-doordash-driver-becomes-internet-sensation-thanks-to-generous-strangers-en.jpg)
 

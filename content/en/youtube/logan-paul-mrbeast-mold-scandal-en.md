@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "7f507b61-6816-a1c9-f93d-38494558a35a"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Rosanna Pansino's Mold Discovery: The Lunchly Scandal MrBeast Doesn't Want You To See](/images/logan-paul-mrbeast-mold-scandal-en.jpg)
 

@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "es"
 translationKey: "3cfb1bf5-f359-4209-4a65-9edb6002d7d7"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Silver Fitness: El Ayuntamiento Promueve Actividades que Reducen Caídas en un 23%](/images/silver-fitness-el-guateque-del-ayuntamiento-y-el-gimnasio-wup-para-mayores-de-60-anos.jpg)
+
+
+> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
 
 **Las personas mayores que practican fuerza específica reducen sus caídas en un 23% — el dato que rompe el mito de que caminar es suficiente para la tercera edad.** 
 * Un estudio del CIBERFES (n=2.347, 18 meses) confirma que el entrenamiento de fuerza reduce un 23% las caídas en mayores de 65 años, frente al 12% de los programas solo de caminata. 

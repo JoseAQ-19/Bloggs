@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "fee3c7b6-7f04-60f3-2b73-fb8f31e64fd5"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Metaverse Addiction: 47% Think It's A Danger. Silicon Valley Is Ignoring The Warning.](/images/metaverse-addiction-trial-future-social-media-en.jpg)
 

@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "62bf7878-e7f3-7fe4-1a16-98b2f02c8d94"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![OpenClaw's $120 Billion Seed Phrase Disaster: Is Your Crypto Next?](/images/openclaw-crypto-wallet-phishing-attack-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 Bitcoin markets remain volatile as institutional investors rotate into safe-haven assets, leaving the crypto ecosystem exposed to a new generation of systemic vulnerabilities that dwarf previous exchange hacks. The intersection of autonomous AI agents and self-custody protocols has created a failure loop where the $120 billion worth of lost Bitcoin is no longer just a statistic of forgotten passwords, but an active target for automated exploitation frameworks.
 

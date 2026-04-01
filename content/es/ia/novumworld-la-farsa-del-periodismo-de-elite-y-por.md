@@ -12,6 +12,8 @@ title: 'NOVUMWORLD: La Farsa del Periodismo de Élite (Y Por Qué Deberías Igno
 translationKey: la-elites-digitales-amos-del-mundo-o-nuevos-parasi
 type: ia
 remastered: true
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 En un mundo donde la información nos bombardea, ¿de verdad creemos que el "periodismo de élite" nos informa? ¡Ingenuos! Este análisis revela por qué la desconfianza hacia los grandes medios es más que justificada: es una cuestión de supervivencia intelectual.
 

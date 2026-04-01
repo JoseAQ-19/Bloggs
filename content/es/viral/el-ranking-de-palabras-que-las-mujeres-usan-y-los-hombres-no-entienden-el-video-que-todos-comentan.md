@@ -11,6 +11,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "c8b44e5b-cec2-6a44-a44e-5e3eb814c9df"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Las 10 Palabras Que Las Mujeres Usan Y Los Hombres No Entienden: ¡El Vídeo Que Impacta!](/images/el-ranking-de-palabras-que-las-mujeres-usan-y-los-hombres-no-entienden-el-video-que-todos-comentan.jpg)
 

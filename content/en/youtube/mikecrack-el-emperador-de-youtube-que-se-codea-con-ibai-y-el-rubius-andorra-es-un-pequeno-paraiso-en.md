@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "996c5019-b36e-454b-85da-69a40bc4a711"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Mikecrack's Secret Life: The Shocking Truth About His Elite Circle With Ibai and El Rubius](/images/mikecrack-el-emperador-de-youtube-que-se-codea-con-ibai-y-el-rubius-andorra-es-un-pequeno-paraiso-en.jpg)
 

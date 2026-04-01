@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "122dd045-08b3-4a02-f1aa-9627ed517cc3"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![95% Of ATMs Run On COBOL: The Tech Time Bomb In Your Wallet](/images/cobol-apocalypse-banking-1959-tech-en.jpg)
 

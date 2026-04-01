@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "es"
 translationKey: "be1e05cc-47bf-3138-50a6-faf384dd0263"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![La Verdad Oculta del Estado Físico de la Estrella de Newcastle Según Eddie Howe](/images/eddie-howe-revela-el-estado-fisico-de-su-estrella-mientras-newcastle-se-prepara-para-el-duelo-contra.jpg)
+
+
+> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
 
 Los atletas de élite no son máquinas cibernéticas invencibles, son activos biológicos en depreciación acelerada que la industria del fútbol sigue gestionando con criterios del siglo pasado. La premisa de que un millonario de veintitantos años puede soportar una densidad de competición absurda gracias a "ciencia deportiva" de boutique es, estadísticamente, una estafaawaiting to happen.
 

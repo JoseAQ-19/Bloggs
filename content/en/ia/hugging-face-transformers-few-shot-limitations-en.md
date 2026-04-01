@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "223a6b5e-019e-4c9d-9e9c-eb194096d0d6"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Hugging Face Transformers: The Few-Shot Fine-Tuning Fantasy](/images/hugging-face-transformers-few-shot-limitations-en.jpg)
 

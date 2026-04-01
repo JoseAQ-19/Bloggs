@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "en"
 translationKey: "522d0715-3b0f-95f6-dbe4-00404afb947f"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![AI Cheating Panic: California Wasted $6 Million on Turnitin's Hallucinations](/images/ai-plagiarism-california-schools-en.jpg)
 

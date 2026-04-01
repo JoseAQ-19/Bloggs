@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "en"
 translationKey: "daafb8a2-5ffd-f296-a4a9-b6e7200e9148"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard in Thailand](/images/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-in-thailand-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 In Thailand's evolving investment landscape, mutual funds are increasingly competing for investor attention, with a remarkable 22% increase in mutual fund assets year-over-year. 
 

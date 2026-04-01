@@ -11,6 +11,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "e81da8d8-9476-82d4-caca-782f4be67161"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![TikTok's Fear Food Challenge Doubled Teen ER Visits for Eating Disorders Since 2020](/images/tiktoks-dangerous-eating-challenge-sparks-outrage-in-china-en.jpg)
 

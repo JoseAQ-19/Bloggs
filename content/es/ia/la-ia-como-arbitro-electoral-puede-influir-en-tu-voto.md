@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "81387f7b-4221-991b-4a7d-d3d595838acb"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![La IA Manipula Votos: 70% de Españoles Temen la Desinformación Electoral](/images/la-ia-como-arbitro-electoral-puede-influir-en-tu-voto.jpg)
 

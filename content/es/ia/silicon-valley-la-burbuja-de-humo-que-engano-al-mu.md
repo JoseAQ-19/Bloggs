@@ -13,6 +13,8 @@ type: ia
 remastered: true
 
 translationKey: "69ea971a-ba9c-4b57-3d20-852db4e9c8b5"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 Silicon Valley no está al borde del abismo. Se encuentra cayendo, a plomo, y la única pregunta relevante es: ¿quiénes se agarrarán al último paracaídas dorado? Basta ya de eufemismos. Esta orgía de inversiones demenciales, travestida de "progreso tecnológico", es el mayor esquema Ponzi jamás concebido.
 

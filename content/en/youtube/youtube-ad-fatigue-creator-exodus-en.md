@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "69ddb64d-cc61-be27-97bb-3f16c9fd4737"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube's $28.8 Billion Ad Problem: Are Non-Skippable Ads Killing The Golden Goose?](/images/youtube-ad-fatigue-creator-exodus-en.jpg)
 

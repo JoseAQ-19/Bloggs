@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "223a6b5e-019e-4c9d-9e9c-eb194096d0d6"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![¿Estás quemando GPUs en vano? Por qué 'fine-tuning' Transformers con datos escasos es una estafa](/images/fine-tuning-transformers-datos-escasos-estafa.jpg)
 

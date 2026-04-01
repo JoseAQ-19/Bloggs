@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "85993245-a2cf-920b-c7bb-e8c865121acd"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![The Mafia's 75-Year-Old TV Moment That Shattered America's Perception of Crime](/images/the-mafias-75-year-old-tv-moment-that-still-captivates-america-en.jpg)
 

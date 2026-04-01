@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "b869ba9c-a764-8a89-7c4e-d1f3d94d54de"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## La Alianza YouTube-FIFA: 5 Mil Millones de Espectadores En El Mundial 2026
 

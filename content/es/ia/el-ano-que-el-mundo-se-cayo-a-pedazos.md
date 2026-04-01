@@ -12,6 +12,8 @@ title: ': El Año que el Mundo se Cayó a Pedazos'
 translationKey: la-ia-te-miente-por-que-la-personalidad-artificial
 type: ia
 remastered: true
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 El espejismo de 2025: La "incertidumbre" como cortina de humo para el fracaso sistémico.
 

@@ -11,6 +11,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "cead8a02-7190-a1e9-4239-5a03aa259c98"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![96.88 Million Users Impacted: The Shocking Truth Behind DeepSeek AI's Downtime](/images/deepseek-ai-outage-analysis-en.jpg)
 

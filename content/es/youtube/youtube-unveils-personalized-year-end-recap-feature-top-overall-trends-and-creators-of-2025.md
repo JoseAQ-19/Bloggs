@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "e2631533-0bd2-b42c-44eb-1bd888faf3e1"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube Revela Su Impactante Resumen Personalizado de 2025 y Crea Expectativa Global](/images/youtube-unveils-personalized-year-end-recap-feature-top-overall-trends-and-creators-of-2025.jpg)
 

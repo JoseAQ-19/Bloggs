@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "es"
 translationKey: "a90ce5ad-7690-20b7-ff7a-09d50512468a"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Cinco fondos premiados por Morningstar en 2026 con más del 15% de rentabilidad anual](/images/cinco-fondos-premiados-por-morningstar-en-2026-con-mas-del-15-de-rentabilidad-an.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 En 2026, existen cinco fondos de inversión destacados que han logrado rentabilidades anuales superiores al 15%, lo que representa una tendencia notable en el entorno financiero actual. 
 

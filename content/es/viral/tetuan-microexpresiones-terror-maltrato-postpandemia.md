@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "06f65668-da07-9f16-a264-bd242d22891b"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Microexpresiones Del Terror: Así Caza Tetuán a Agresores Antes Del Ataque.](/images/tetuan-microexpresiones-terror-maltrato-postpandemia.jpg)
 

@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "es"
 translationKey: "f801a6b2-9e6d-1f92-ba4d-7331eaab1c4a"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![YouTube se Descontrola: 311 Millones de Razones Para Odiar Los Anuncios](/images/youtube-anuncios-molestos.jpg)
 

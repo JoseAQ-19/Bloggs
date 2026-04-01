@@ -13,6 +13,8 @@ tags:
 title: '¿Crisis? La Estafa del Siglo: Cómo Nos Venden el Derrumbe Controlado'
 translationKey: crisis-la-estafa-del-siglo-como-nos-venden-el-derr
 type: ia
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ## La Demolición Controlada: ¿Una Reestructuración Global Orquestada?
 

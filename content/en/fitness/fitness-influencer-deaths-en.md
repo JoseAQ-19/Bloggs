@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "en"
 translationKey: "b7069537-1195-b9c3-44fd-4905d6cb66cc"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Behind The Perfect Body: The Deadly Truth About Fitness Influencers](/images/fitness-influencer-deaths-en.jpg)
+
+
+> **Medical Disclaimer:** The information in this article is for educational purposes only and is not intended as medical advice. Always consult a healthcare professional before starting any new fitness regimen.
 
 The fitness influencer industry has created a $15 billion bubble built on unrealistic body standards and pseudoscience, yet continues to grow by preying on vulnerable populations seeking self-improvement.
 

@@ -11,6 +11,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "2cad5fcb-f4e4-209f-975f-bbb0101f9cfb"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![ASU Tight Ends Are Set to Dominate in 2026 and Shake Up NIL Deals](/images/rising-stars-asus-tight-ends-set-to-make-waves-in-2026-en.jpg)
 

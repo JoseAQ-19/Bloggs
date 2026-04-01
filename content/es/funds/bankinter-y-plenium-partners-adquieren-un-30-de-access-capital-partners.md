@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "es"
 translationKey: "b40e69d6-ccb6-0c3e-7647-a1a4fcfbc5ea"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Bankinter y Plenium Partners adquieren un 30% de Access Capital Partners](/images/bankinter-y-plenium-partners-adquieren-un-30-de-access-capital-partners.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 Un 30% de Access Capital Partners ha sido adquirido por Bankinter y Plenium Partners, lo que significa un movimiento estratégico significativo en el mercado de gestión de activos. 
 

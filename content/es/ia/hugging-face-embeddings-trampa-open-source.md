@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "ab805d91-4ddd-495f-90b8-e3aa8e6a3680"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Hugging Face: ¿El espejismo del Open Source o la trampa de los Embeddings?](/images/hugging-face-embeddings-trampa-open-source.jpg)
 

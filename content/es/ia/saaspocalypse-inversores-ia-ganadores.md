@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "84900c54-d5cc-7b4d-fc65-6d0daca22285"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![SaaSpocalypse Ahora: Sólo Un 20% Usan Ia, Y Tú Quemas Millones Inútilmente](/images/saaspocalypse-inversores-ia-ganadores.jpg)
 

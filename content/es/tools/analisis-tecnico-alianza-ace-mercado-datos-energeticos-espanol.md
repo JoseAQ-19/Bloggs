@@ -9,6 +9,8 @@ categories: ["tools"]
 type: "tools"
 language: "es"
 translationKey: "d34a30ab-d17e-aae7-2187-14b2c5f4778b"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Datos Energéticos En Peligro: Ciberataques Aumentan Un 43% Y Nadie Hace Nada](/images/analisis-tecnico-alianza-ace-mercado-datos-energeticos-espanol.jpg)
 

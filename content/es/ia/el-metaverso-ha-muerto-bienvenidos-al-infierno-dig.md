@@ -13,6 +13,8 @@ type: ia
 remastered: true
 
 translationKey: "ae1c411b-635b-fd31-36aa-6ec719ed7c08"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 El "metaverso" de Zuckerberg, la fantasía distópica que nos vendieron con bombos y platillos, no sólo está muerto: nunca existió. Aquella promesa de un futuro inmersivo y digital donde trabajaríamos, socializaríamos y compraríamos a través de avatares, fue desde el principio una cortina de humo para distraer de los verdaderos problemas de Facebook. Y, peor aún, un intento desesperado de revitalizar una marca en caída libre.
 

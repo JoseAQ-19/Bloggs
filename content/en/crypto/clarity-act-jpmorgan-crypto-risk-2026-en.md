@@ -9,8 +9,13 @@ categories: ["crypto"]
 type: "crypto"
 language: "en"
 translationKey: "b3648d3c-fd6f-1b97-7855-1441b7f0aa05"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Clarity Act's Static Mistakes: Why JPMorgan's Crypto Bull Case Is a LIE](/images/clarity-act-jpmorgan-crypto-risk-2026-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 JPMorgan's enthusiasm for the Clarity Act is a dangerous oversimplification of a law fraught with flaws and blind spots.
 

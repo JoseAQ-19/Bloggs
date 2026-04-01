@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "en"
 translationKey: "3594939e-e962-da25-9ce1-0b43d9bb3cc2"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![VOO Surges 281% in a Decade, But Concentration Risk Looms Large](/images/voo-surges-281-in-a-decade-but-concentration-risk-looms-large-en.jpg)
+
+
+> **Disclaimer:** This article is for informational purposes only and does not constitute financial advice. Cryptocurrency and market investments carry significant risk. Always consult a qualified financial advisor before making decisions.
 
 **Over the past decade, Vanguard’s S&P 500 ETF (VOO) has delivered a staggering 281% total return, underscoring its dominance in the passive investing space.** Yet, its growing concentration risk raises questions about its risk-adjusted performance in the years ahead.
 

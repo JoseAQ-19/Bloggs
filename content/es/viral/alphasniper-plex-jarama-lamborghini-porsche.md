@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "es"
 translationKey: "5b4ea688-c46d-9756-625c-6a8c6557d405"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![¡Jarama en Llamas! AlphaSniper y Plex Se Juegan 400.000€ y el Orgullo](/images/alphasniper-plex-jarama-lamborghini-porsche.jpg)
 

@@ -9,6 +9,8 @@ categories: ["youtube"]
 type: "youtube"
 language: "en"
 translationKey: "17a21607-56aa-6fb5-113f-c5d922eca5f7"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Jeopardy!'s YouTube Gamble: Why Engagement Plunged 37% Despite View Surge](/images/jeopardy-youtube-monetization-engagement-en.jpg)
 

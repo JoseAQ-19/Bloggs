@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "es"
 translationKey: "3dcc9e26-9c47-cb23-fc36-2427b84a9c1c"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![ChatGPT contra tu SaaS: en 2026 solo sobrevivirán los que hagan ESTO.](/images/saas-apocalipsis-ia-2026.jpg)
 

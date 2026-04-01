@@ -9,6 +9,8 @@ categories: ["ia"]
 type: "ia"
 language: "en"
 translationKey: "cfd72d6f-2f2d-9c27-a81d-f35c35a8b8ed"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![AI Candidate Disrupts Colombia’s Elections: The Startling Truth Behind 500,000 Deepfake Videos](/images/how-an-ai-candidate-changed-the-game-in-colombias-elections-en.jpg)
 

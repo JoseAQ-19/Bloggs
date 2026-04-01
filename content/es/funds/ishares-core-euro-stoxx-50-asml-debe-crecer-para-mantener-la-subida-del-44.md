@@ -9,8 +9,13 @@ categories: ["funds"]
 type: "funds"
 language: "es"
 translationKey: "b86c0605-a2ef-6d4a-eaee-6762bee67c8b"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![iShares Core EURO STOXX 50: ASML Debe Crecer para Mantener la Subida del 4,4%](/images/ishares-core-euro-stoxx-50-asml-debe-crecer-para-mantener-la-subida-del-44.jpg)
+
+
+> **Aviso Legal:** Este artículo es solo para fines informativos y no constituye asesoramiento financiero. Las criptomonedas y las inversiones de mercado conllevan un riesgo significativo. Siempre consulte con un asesor financiero cualificado antes de tomar decisiones.
 
 **47,1% de los inversores institucionales europeos consideran que la rentabilidad de los fondos indexados es superior a la de los fondos gestionados activamente**. Esto se debe a la creciente popularidad de los fondos indexados, que ofrecen una exposición amplia y diversificada a los mercados financieros a un costo menor que los fondos gestionados activamente.
 

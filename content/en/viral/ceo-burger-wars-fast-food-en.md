@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "03a0c6df-ef15-dbf4-741d-8b788e2e1a29"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![In-N-Out's $5.8 Million Secret: Can Anyone Beat The Burger King?](/images/ceo-burger-wars-fast-food-en.jpg)
 

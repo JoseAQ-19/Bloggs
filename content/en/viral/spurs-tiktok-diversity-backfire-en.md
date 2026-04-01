@@ -9,6 +9,8 @@ categories: ["viral"]
 type: "viral"
 language: "en"
 translationKey: "c9934807-5152-206f-5590-c30f8714eead"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Spurs Blunder: 60% Of Latino Fans On Facebook, DEI Backlash Explodes](/images/spurs-tiktok-diversity-backfire-en.jpg)
 

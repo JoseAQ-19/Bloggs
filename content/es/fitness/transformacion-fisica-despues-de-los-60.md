@@ -9,8 +9,13 @@ categories: ["fitness"]
 type: "fitness"
 language: "es"
 translationKey: "b4c8efb7-3181-b327-5a3c-505414a4bb64"
+author: "NovumWorld Editorial Team"
+ai_disclosure: true
 ---
 ![Marcos Vázquez Lo Advierte: Así Escapas De La Sarcopenia Después De Los 60](/images/transformacion-fisica-despues-de-los-60.jpg)
+
+
+> **Aviso Médico:** La información en este artículo es solo para fines educativos y no pretende ser consejo médico. Siempre consulte con un profesional de la salud antes de comenzar cualquier nuevo régimen de fitness.
 
 La industria del fitness ha vendido la mentira más peligrosa para la población mayor: la suavidad es segura y el impacto es mortal. La realidad fisiológica es que, sin un estímulo agresivo, el cuerpo humano se desmorona bajo el peso de la gravedad, convirtiendo la vejez en una sentencia de invalidez en lugar de una etapa de vitalidad.
 
