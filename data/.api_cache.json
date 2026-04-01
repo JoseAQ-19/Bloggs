@@ -865,42 +865,42 @@
   "21a068db0cd0ba4e3b3272cddddd6e25dad487d2eb369a2766316588951e7843": {
     "data": [
       {
-        "title": "La IA generativa es el mal",
+        "title": "No son militares estadounidenses en un avión \"preparándose para morir por Israel\", es una imagen creada con IA",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Hay una carrera de la IA mucho más profunda e importante en la que China está aplastando a sus competidores: el talento humano",
+        "title": "Países Bajos premia la IA responsable con los derechos de autor",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "No son soldados israelíes \"capturados por Irán\", es un vídeo generado con IA",
+        "title": "Oracle buscaba reducir costes por el aumento de gasto en la IA: lo que ha encontrado son más recortes en su plantilla",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "La IA dispara el miedo y los inversores huyen de los chips",
+        "title": "Zalando apuesta por la IA y busca reforzar su consejo con un nuevo fichaje",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Indra se alía con OBUU Tech para impulsar soluciones de IA en defensa y seguridad",
+        "title": "‘The New York Times’ termina su colaboración con un periodista autónomo por su uso de IA en la reseña de un libro",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774952712.1771712,
+    "cached_at": 1775039148.6865401,
     "func": "fetch_google_news",
     "args_summary": "('ia',)"
   },
@@ -914,11 +914,11 @@
         "url": "https://diccar.substack.com/p/tipos-como-guia-como-usar-a-seguranca"
       },
       {
-        "title": "IAMPerformance Issue 001 – Physics-based quantum hardware intelligence report [pdf]",
+        "title": "SSRF → AWS IMDS: stealing EC2 IAM credentials with 3 HTTP requests",
         "source": "hackernews",
         "lang": "en",
         "score": 2,
-        "url": "https://iamperformance.online/IAMPerformance_Issue001.pdf"
+        "url": "https://paolocostanzo.github.io/ssrf-imds-ec2-credentials/"
       },
       {
         "title": "Show HN: Timezone App – Visual meeting scheduler for distributed teams",
@@ -928,12 +928,19 @@
         "url": "https://timezoneapp.co/"
       }
     ],
-    "cached_at": 1774952712.4633412,
+    "cached_at": 1775039148.9414089,
     "func": "fetch_hackernews",
     "args_summary": "(['ia'],)"
   },
   "46503d41ef4fee113ff718159ee99bd6e87c149d97104b3a6a5f5ddc5f6be1b3": {
     "data": [
+      {
+        "title": "La carrera por la IA no va solo de chips o centros de datos: va de captar talento humano y ahí China está arrasando",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://xataka.com/robotica-e-ia/hay-carrera-ia-mucho-profunda-e-importante-que-china-esta-aplastando-a-sus-competidores-talento-humano"
+      },
       {
         "title": "Hay un nueva generación de modelos IA a las puertas y Anthropic tiene que venderlos: \"El más grande e inteligente\"",
         "source": "exa",
@@ -942,28 +949,21 @@
         "url": "https://www.xataka.com/robotica-e-ia/cada-nuevo-modelo-ia-mejor-historia-que-llega-siguiente-anthropic-openai-han-convertido-eso-negocio"
       },
       {
+        "title": "Hay un nueva generación de modelos IA a las puertas y Anthropic tiene que venderlos: \"El más grande e inteligente\"",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://magnet.xataka.com/robotica-e-ia/cada-nuevo-modelo-ia-mejor-historia-que-llega-siguiente-anthropic-openai-han-convertido-eso-negocio"
+      },
+      {
         "title": "Ya sabemos lo que la IA aportó a la economía de EEUU en 2025: \"básicamente cero\"",
         "source": "exa",
         "lang": "en",
         "score": 0,
         "url": "https://www.xataka.com/empresas-y-economia/sabemos-que-ia-aporto-a-economia-eeuu-2025-basicamente-cero"
-      },
-      {
-        "title": "La IA se lleva por delante a los juniors: menos puertas de entrada, más exigencia desde el día uno",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://www.businessinsider.es/tecnologia/ia-se-lleva-por-delante-los-juniors-menos-puertas-entrada-mas-exigencia-desde-dia-uno_6949364_0.html"
-      },
-      {
-        "title": "La IA ya dominaba el ajedrez. Ahora nos está obligando a jugar de otra manera para seguir compitiendo",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://www.xataka.com/robotica-e-ia/ia-dominaba-ajedrez-ahora-nos-esta-obligando-a-jugar-otra-manera-para-seguir-compitiendo"
       }
     ],
-    "cached_at": 1774952713.1632738,
+    "cached_at": 1775039149.9778364,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
