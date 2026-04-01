@@ -55,7 +55,6 @@ jobs:
           HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY }}
           EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
           GOOGLE_INDEXING_JSON: ${{ secrets.GOOGLE_INDEXING_JSON }}
-                PYTHONPATH: ${{ github.workspace }}/scripts
         run: python main.py --category ia --lang es
 
       - name: Push Draft Content
