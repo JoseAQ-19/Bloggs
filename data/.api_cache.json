@@ -139,77 +139,77 @@
   "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
     "data": [
       {
-        "title": "Fitness Influencer Dies at Age 46 After He’s Shot While Leaving the Gym",
+        "title": "How an Unusual Fitness Deal Came Together",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "60+ Amazon fitness deals our picky wellness writer is currently sweating over",
+        "title": "Falcons shine at the JROTC Fitness Competition",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "swissnet Group Wins Fitness Chain EVO Fitness as a New Customer for Network Infrastructure and Rollout",
+        "title": "Grab our wellness writer’s favorite Amazon fitness deals before midnight",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Brütting Women's Performance V Fitness Shoes",
+        "title": "Google Hints at a New Fitness Health Wearable, Hidden in a Steph Curry Video",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Bloomington man gains $10,000 by losing 100 pounds in national fitness challenge",
+        "title": "The Herald-Mail Media Events",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774934262.524039,
+    "cached_at": 1775023515.5334706,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "5f74b081c9753b13b48c085df1624d184c9deb4bc34d11178f03bbc18aeae64e": {
     "data": [
       {
-        "title": "Fitness | The Verge",
+        "title": "La tendencia de los chatbots de IA de engañar a los usuarios va en aumento, según estudio | WIRED",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://on.theverge.com/fitness-trackers"
+        "url": "https://es.wired.com/articulos/la-tendencia-de-los-chatbots-de-ia-de-enganar-a-los-usuarios-va-en-aumento-segun-estudio"
       },
       {
-        "title": "Con la llegada de Rojo Fuego y Verde Hoja a Switch han empezado las locuras. Este jugador ha conseguido superar el juego de forma muy inusual",
+        "title": "Beats’ gym-friendly Powerbeats Fit are $30 off for Amazon’s Big Spring Sale | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.ign.com/pokemon/227895/news/con-la-llegada-de-rojo-fuego-y-verde-hoja-a-switch-han-empezado-las-locuras-este-jugador-ha-consegui"
+        "url": "https://www.theverge.com/gadgets/903373/beats-powerbeats-fit-pro-2-earbuds-amazon-big-spring-sale-2026-deal"
       },
       {
-        "title": "El ingenioso moho mucilaginoso que puede aprender, recordar y tomar decisiones sin la necesidad de un cerebro | WIRED",
+        "title": "Last Day to Save 52% Off the Bowflex SelectTech Adjustable Dumbbells in the Amazon Spring Sale",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://es.wired.com/articulos/el-ingenioso-moho-mucilaginoso-que-puede-aprender-recordar-y-tomar-decisiones-sin-la-necesidad-de-un-cerebro"
+        "url": "https://www.ign.com/articles/best-bowflex-selecttech-adjustable-dumbbell-deal-amazon-spring-sale"
       },
       {
-        "title": "What Is the Best Garmin Watch Right Now? (2026) | WIRED",
+        "title": "KitchenAid redesigned its iconic mixer so you can set an exact speed | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.wired.com/story/best-garmin-watch/"
+        "url": "https://www.theverge.com/tech/901470/kitchenaid-artisan-plus-tilting-stand-mixer-speed-control-light"
       }
     ],
-    "cached_at": 1774934263.118435,
+    "cached_at": 1775023516.102308,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
