@@ -1047,47 +1047,54 @@
   "47c2bc6816549fbd4391587ad907de1b4a35f331cc234d17a1e0ece63b6178da": {
     "data": [
       {
-        "title": "Federal Judges Report Broad Adoption of AI Tools",
+        "title": "Visa launches new AI tools to manage the charge dispute process",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "AI Tools Could Drive Improved Risk Stratification, Treatment Decision-Making in Multiple Myeloma",
+        "title": "Taking away the tools to build the Florida Wildlife Corridor",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "EXPERT PITCH: WVU expert details important considerations for taxpayers using AI for tax preparation",
+        "title": "CSU students widely use AI tools, but mistrust results and fear job impact",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Cyara Launches Agentic Testing And Governance Tools",
+        "title": "These professors built AI tools that ask questions, instead of giving answers",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "2026 PAW: Avoiding Arbitration — Practical Off-Ramps and Risk-Hedging Tools",
+        "title": "Fry, Scramble, and Poach Like a Pro With These Top-Rated Amazon Egg Tools, From $7",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1774968725.622122,
+    "cached_at": 1775055260.7158682,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
   },
   "92ad7a04052f3c14b23389817cda9215b8114296c6bad566e117afe5cafcbd04": {
     "data": [
+      {
+        "title": "La conferencia de IA más importante del mundo se convirtió en un campo de batalla entre EE UU y China | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/la-conferencia-de-ia-mas-importante-del-mundo-se-convirtio-en-un-campo-de-batalla-entre-ee-uu-y-china"
+      },
       {
         "title": "La tendencia de los chatbots de IA de engañar a los usuarios va en aumento, según estudio | WIRED",
         "source": "exa",
@@ -1103,21 +1110,14 @@
         "url": "https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/"
       },
       {
-        "title": "Bluesky leans into AI with Attie, an app for building custom feeds | TechCrunch",
-        "source": "exa",
-        "lang": "en",
-        "score": 0,
-        "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/"
-      },
-      {
         "title": "Bluesky’s new app is an AI for customizing your feed | The Verge",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds"
+        "url": "https://theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds"
       }
     ],
-    "cached_at": 1774968726.2217634,
+    "cached_at": 1775055261.2453477,
     "func": "fetch_exa_news",
     "args_summary": "('tools noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   },
