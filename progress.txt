@@ -9,6 +9,14 @@
 - [x] Veredicto Contenido: BUENO (pipeline QA con 37 frases vetadas + fact-check)
 - [x] Informe completo generado en audit_adsense_readiness.md
 
+## ✅ COMPLETADO (ADSENSE COMPLIANCE & CONTENT QUALITY - FASE 4)
+- [x] **Blindaje Legal YMYL**: Ejecutado `gs_disclaimer_injector.py`. 670 artículos (ES/EN) ahora cuentan con disclaimers editoriales autoritativos.
+- [x] **Limpieza Masiva AdSense**: Ejecutado `fix_adsense_batch.py`. Eliminados duplicados, purgado lenguaje robótico residual y corregidas meta-descripciones.
+- [x] **Remediación Spanglish (Crítico)**: Reescritura manual de artículos clave en `content/en/` (Fitness/Tools) para asegurar contenido 100% monolingual.
+- [x] **Seguridad de Repositorio**: `.env` eliminado del índice de Git y verificado en `.gitignore` para prevenir fugas de secretos.
+- [x] **Estabilización de Cards**: Corregido bug visual en layouts que duplicaba imágenes y mostraba extractos kilométricos.
+- [x] **Despliegue de Producción**: Cambios pusheados a `main` y verificación de build en Vercel iniciada.
+
 ## ✅ COMPLETADO
 - [x] AUDITORÍA EDITOR JEFE: Artículo YouTube/Android Auto reescrito de 0 (rechazo AdSense) → artículo completo con 7 H3 dedicados, links reales y formato GEO.
 - [x] REGLA 17 ANTI-CLICKBAIT: Inyectada en prompts_factory.py SYSTEM_FORMAT_RULES. Si el título promete N items, el cuerpo DEBE tener N H3 explícitos o se rechaza.
