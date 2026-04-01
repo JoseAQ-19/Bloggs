@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "0ade0cb5-054d-1667-755d-e1720355d112"
 ---
-
 ![Planet Fitness Kicks Out Muscle, Opens Doors To Maui: Genius Or PR Stunt?](/images/planet-fitness-maui-offer-charity-marketing-en.jpg)
 
 **82% of Planet Fitness members believe the company has room for improvement**, a stark contrast to the brand's self-proclaimed "Judgment Free Zone" mantra. **A $13,110 donation to the Hawaiʻi Community Foundation**, though seemingly generous, raises questions about the true intentions behind such philanthropic efforts. **The Maui Family YMCA's decision to open its doors to displaced residents**, offering access to facilities at no cost, provides a compelling counterpoint to Planet Fitness's actions.

@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "6d88941e-fab7-b8b8-cd5d-2b0bd25945af"
 ---
-
 ![Planet Fitness Donated 100+ Fitness Machines And Changed Community Health Forever](/images/planet-fitness-gives-back-over-100-fitness-equipment-donations-to-communities-en.jpg)
 
 Without question, the impact of corporate donations can often be overstated, particularly in the fitness industry where the competition is fierce and the stakes are high. As Planet Fitness embarks on its philanthropic journey, donating over 100 fitness machines to local organizations, one must critically evaluate whether such actions genuinely enhance community health or serve merely as a facade for corporate goodwill.

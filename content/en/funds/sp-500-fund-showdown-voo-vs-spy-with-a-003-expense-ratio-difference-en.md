@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "fee34da1-d6ad-1a9c-1407-c85fe63b75c0"
 ---
-
 ![S&P 500 Fund Showdown: VOO vs. SPY with a 0.03% Expense Ratio Difference](/images/sp-500-fund-showdown-voo-vs-spy-with-a-003-expense-ratio-difference-en.jpg)
 
 **47.6% of S&P 500 funds have expense ratios above 0.40%**, despite the average expense ratio for S&P 500 index funds being 0.12% [Morningstar](https://www.morningstar.com). 

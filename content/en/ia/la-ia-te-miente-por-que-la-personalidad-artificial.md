@@ -12,7 +12,6 @@ title: "AI Is Lying to You: Why Artificial Personality Is the Fraud of the Centu
 translationKey: la-ia-te-miente-por-que-la-personalidad-artificial
 type: ia
 ---
-
 We've been sold a narrative: AI is becoming more human, more relatable, even empathetic. But scratch the surface, and you'll find a carefully constructed illusion designed not to help us, but to influence us. The rise of AI "personalities" isn't a technological marvel; it's the dawn of a new era of manipulation, and we're blindly walking into it.
 
 The idea that AI, specifically chatbots, can possess or convincingly mimic human personality traits has rapidly transitioned from science fiction to a focal point of scientific investigation. A recent study published in *Nature Machine Intelligence*, spearheaded by researchers at the University of Cambridge and Google DeepMind, unveils a framework for the psychometric evaluation of advanced language models. The crux of their findings? These systems consistently imitate human personality traits, and these traits can be deliberately manipulated through instruction, impacting their behavior.

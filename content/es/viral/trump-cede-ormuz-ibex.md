@@ -10,7 +10,6 @@ type: "viral"
 language: "es"
 translationKey: "9349e167-01dc-a1b1-14c4-d6b43d4c3327"
 ---
-
 ![Hormuz Desata el Caos: IBEX 35 se Derrumba Tras Alcanzar el Petróleo $113](/images/trump-cede-ormuz-ibex.jpg)
 
 El IBEX 35 se derrumbó un 1.87% tras alcanzar el petróleo Brent los $113 por barril, un precio que desató pánico en los mercados financieros españoles. Esta caída no es un evento aislado, sino el síntoma de una vulnerabilidad estructural que España comparte con el resto del mundo desarrollado. La crisis en el Estrecho de Hormuz expone la fragilidad de un sistema energético globalizado donde la geopolítica dicta los precios y los ahorros de los ciudadanos.

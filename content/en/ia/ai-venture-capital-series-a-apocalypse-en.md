@@ -10,7 +10,6 @@ type: "ia"
 language: "en"
 translationKey: "887af157-ebf1-5f6e-0fb6-1e430d8fd63c"
 ---
-
 ![90% Of AI Startups Fail: Is Your Series A Investment a Unicorn Corpse?](/images/ai-venture-capital-series-a-apocalypse-en.jpg)
 
 * Roughly 90% of AI startups fail within their first year, jeopardizing Series A investments.

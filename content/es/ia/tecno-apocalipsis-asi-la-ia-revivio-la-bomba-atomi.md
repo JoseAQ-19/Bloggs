@@ -16,7 +16,6 @@ remastered: true
 
 translationKey: "598962c5-2988-351c-4a8f-ca0bd919ac7c"
 ---
-
 La incorporación de la inteligencia artificial (IA) en los sistemas militares plantea riesgos significativos para la humanidad porque **automatiza decisiones críticas, reduciendo el control humano y aumentando el potencial de errores catastróficos, especialmente en el armamento nuclear**. Este riesgo se amplifica por la opacidad de los algoritmos y la dificultad para atribuir responsabilidades en caso de fallos.
 
 ## Simulacro de decisiones: IA y la escalada bélica

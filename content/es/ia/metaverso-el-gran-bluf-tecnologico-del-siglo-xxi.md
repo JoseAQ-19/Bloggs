@@ -16,7 +16,6 @@ remastered: true
 
 translationKey: "b458cd37-6475-fcd1-5e0c-cdda5b455f95"
 ---
-
 El metaverso. El nombre evoca visiones de un futuro digital utópico, donde la realidad y lo virtual se fusionan en una experiencia continua. Pero detrás de la brillante fachada de marketing y las promesas vacías, se esconde una verdad incómoda: el metaverso, al menos en su forma actual, es una monumental pérdida de tiempo y recursos. ¿Un mundo nuevo y audaz o un callejón sin salida tecnológico? La respuesta, para cualquiera que no esté hipnotizado por el bombo publicitario, es terriblemente obvia.
 
 ## El Despilfarro de Meta: Un Agujero Negro Financiero

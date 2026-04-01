@@ -16,7 +16,6 @@ remastered: true
 
 translationKey: "c65e79e0-1f8f-ac48-6814-f5f596233b9e"
 ---
-
 La supuesta "neutralidad" periodística: una farsa peligrosa.
 
 En una época donde la información nos bombardea sin cesar, la insistencia en la "neutralidad" en el periodismo suena más a propaganda que a virtud. La idea de que un periodista puede ser un conducto impoluto de "hechos", sin sesgos ni agendas, es una mentira que perpetúa la desinformación y el conformismo. Es hora de incinerar esta noción de una vez por todas.

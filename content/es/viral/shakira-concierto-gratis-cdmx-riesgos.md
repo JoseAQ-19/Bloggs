@@ -10,7 +10,6 @@ type: "viral"
 language: "es"
 translationKey: "f729301a-b680-4c2b-9000-702bba32e4c0"
 ---
-
 ![Shakira gratis en cdmx: ¿10 muertos más como advertencia para el gobierno?](/images/shakira-concierto-gratis-cdmx-riesgos.jpg)
 
 En México, eventos masivos recientes han generado preocupaciones sobre seguridad. Un posible concierto gratuito de Shakira en la Ciudad de México plantea serias preguntas sobre seguridad y responsabilidad civil.

@@ -10,7 +10,6 @@ type: "tools"
 language: "es"
 translationKey: "df33f659-a933-c992-0697-7c24cbf1dfe5"
 ---
-
 ![Google Maps Se Desmorona: ¿Es Apple Maps la Salvación Tras la Última Actualización?](/images/analisis-tecnico-actualizacion-google-maps.jpg)
 
 Google está apostando por la integración de Gemini AI en Google Maps, lo que podría tener consecuencias negativas en la experiencia del usuario. Usuarios frustrados reportan una degradación en la fiabilidad de la navegación básica, coincidiendo con esta apuesta por la IA.

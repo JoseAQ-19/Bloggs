@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "b7069537-1195-b9c3-44fd-4905d6cb66cc"
 ---
-
 ![Behind The Perfect Body: The Deadly Truth About Fitness Influencers](/images/fitness-influencer-deaths-en.jpg)
 
 The fitness influencer industry has created a $15 billion bubble built on unrealistic body standards and pseudoscience, yet continues to grow by preying on vulnerable populations seeking self-improvement.

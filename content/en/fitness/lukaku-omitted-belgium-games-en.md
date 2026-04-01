@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "9ca461e2-25cd-0f26-add6-d4cbe187605e"
 ---
-
 ![Lukaku's Absence: UEFA's ACL Injury Warning Ignored By Belgium Management?](/images/lukaku-omitted-belgium-games-en.jpg)
 
 The management of Romelu Lukaku’s return to play represents a cynical gamble on human physiology where the biological cost of re-injury is treated as a mere line item in a performance budget.

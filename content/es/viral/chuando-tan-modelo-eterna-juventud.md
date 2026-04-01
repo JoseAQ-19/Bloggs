@@ -10,7 +10,6 @@ type: "viral"
 language: "es"
 translationKey: "cc9eb513-d1db-adbd-f097-7f992547c57b"
 ---
-
 ![Chuando Tan Tiene 60 Años: Su Secreto Desata Teorías Conspirativas Sobre Telómeros](/images/chuando-tan-modelo-eterna-juventud.jpg)
 
 La obsesión por la eterna juventud ha dejado de ser un deseo estético para convertirse en una distorsión sociológica que vende falsas esperanzas a una generación incapaz de procesar el envejecimiento. Mientras la ciencia legítima lucha por extender la salud esperanza (healthspan), el mercado de la "longevidad" se ha convertido en un pantano de pseudociencia, teorías conspirativas y explotación de datos genéticos.

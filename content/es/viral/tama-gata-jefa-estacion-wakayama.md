@@ -10,7 +10,6 @@ type: "viral"
 language: "es"
 translationKey: "829d4e41-d0d5-4d61-daff-d184d109609a"
 ---
-
 ![Adiós, Tama: El Desplome Turístico de Wakayama Cuesta 1.100 Millones de Yenes.](/images/tama-gata-jefa-estacion-wakayama.jpg)
 
 La economía de la atención tiene un límite biológico ineludible: la muerte. Wakayama Electric Railway se enfrenta hoy a la cruda realidad de que su activo más rentable no era una locomotora de alta eficiencia ni un algoritmo de logística, sino un mamífero felino con una esperanza de vida media. La muerte reciente de Nitama, la sucesora de la legendaria Tama, ha expuesto la fragilidad de un modelo de negocio basado en la "kawaii economy" (economía de lo tierno) sin un respaldo estructural real.

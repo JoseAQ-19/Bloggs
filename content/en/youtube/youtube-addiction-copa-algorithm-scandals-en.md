@@ -12,7 +12,6 @@ type: "youtube"
 language: "en"
 translationKey: "891c738b-5423-7adb-1272-1a48b7a826ad"
 ---
-
 ![YouTube's Shocking $170 Million COPPA Violation Exposed: Kids Are Paying the Price](/images/youtube-addiction-copa-algorithm-scandals-en.jpg)
 
 YouTube treats children's data as a revenue stream, not a protected asset, and the $170 million COPPA settlement is merely a calculated business expense rather than a deterrent.

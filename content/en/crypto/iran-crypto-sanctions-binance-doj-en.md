@@ -10,7 +10,6 @@ type: "crypto"
 language: "en"
 translationKey: "4a103d58-ff60-0f6d-7ff8-0d6af9485372"
 ---
-
 ![Binance's $1 Billion+ Terror Network: DOJ Uncovers Iran's Sanctions Dodge](/images/iran-crypto-sanctions-binance-doj-en.jpg)
 
 The illusion of regulatory compliance is crumbling as investigations reveal crypto's utility in bypassing international sanctions.

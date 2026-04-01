@@ -10,7 +10,6 @@ type: "fitness"
 language: "es"
 translationKey: "3f8c947c-d6b6-9aee-24ba-49108075e40a"
 ---
-
 ![Abdominales de Acero Friol Carballido: El Engaño Que Los Gurús No Quieren Que Sepas](/images/friol-carballido-abdominales-acero.jpg)
 
 Abdominales marcados con ejercicios "funcionales" es la nueva versión del vendehúmos de los batidos mágicos: una promesa vacía sin la base de una dieta sensata y entrenamiento de fuerza real.

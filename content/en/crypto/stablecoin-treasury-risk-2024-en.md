@@ -10,7 +10,6 @@ type: "crypto"
 language: "en"
 translationKey: "1db33d91-54a6-5a2f-5ddb-4c3fd7dfabc1"
 ---
-
 ![Tether's $135 Billion Treasury Binge: Are You Ignoring A Crypto Time Bomb?](/images/stablecoin-treasury-risk-2024-en.jpg)
 
 * Tether holds $135 billion in U.S. Treasuries, raising concerns about potential systemic risks if a "run" on the stablecoin triggers massive treasury sales. 

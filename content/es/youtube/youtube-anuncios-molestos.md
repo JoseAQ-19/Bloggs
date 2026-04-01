@@ -10,7 +10,6 @@ type: "youtube"
 language: "es"
 translationKey: "f801a6b2-9e6d-1f92-ba4d-7331eaab1c4a"
 ---
-
 ![YouTube se Descontrola: 311 Millones de Razones Para Odiar Los Anuncios](/images/youtube-anuncios-molestos.jpg)
 
 La paciencia de los usuarios de YouTube en España se agota, y no es solo por el último video viral. YouTube generó 311 millones de euros en ingresos publicitarios en España en 2024, un negocio lucrativo que se está volviendo insoportable para muchos espectadores.

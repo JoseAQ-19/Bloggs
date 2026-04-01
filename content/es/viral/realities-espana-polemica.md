@@ -10,7 +10,6 @@ type: "viral"
 language: "es"
 translationKey: "3c6525ff-7231-9c21-a7c0-013ad20840f9"
 ---
-
 ![Aída Nízar Lo Confirma: El Horror Psicológico Detrás De Gran Hermano](/images/realities-espana-polemica.jpg)
 
 La televisión, lejos de ser un simple entretenimiento, se ha convertido en un campo de batalla donde la ética es la primera víctima.

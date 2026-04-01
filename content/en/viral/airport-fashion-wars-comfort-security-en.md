@@ -10,7 +10,6 @@ type: "viral"
 language: "en"
 translationKey: "4f59e9db-f30b-caed-bbbc-e32baaec24b4"
 ---
-
 ![Crocs Crackdown: Is This The End Of Airport Comfort? Flight Safety Fears Soar](/images/airport-fashion-wars-comfort-security-en.jpg)
 
 Comfort is about to become a privilege, not a right. The era of airport comfort, defined by Crocs and pajamas, may face turbulence as security concerns and debates over appropriate airport fashion intensify.

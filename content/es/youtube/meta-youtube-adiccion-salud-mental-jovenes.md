@@ -10,7 +10,6 @@ type: "youtube"
 language: "es"
 translationKey: "173cd36d-8e74-f34d-3807-6fd3a500a503"
 ---
-
 ![¡Escándalo! Meta Y YouTube Culpables: Adicción Azota Al 21,3% de Adolescentes Españoles](/images/meta-youtube-adiccion-salud-mental-jovenes.jpg)
 
 El modelo de negocio de Meta y YouTube no es conectar personas, es secuestrar la atención de menores para venderla al mejor postor. Los algoritmos de estas plataformas han convertido la neurobiología adolescente en un campo de pruebas para maximizar el tiempo de pantalla, sin importar el colapso mental que generan a cambio. Las cifras de adicción en España no son una anécdota, son una emergencia sanitaria provocada por un diseño de producto obsesionado con el retención a toda costa.

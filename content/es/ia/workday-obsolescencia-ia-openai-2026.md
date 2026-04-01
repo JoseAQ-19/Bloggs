@@ -10,7 +10,6 @@ type: "ia"
 language: "es"
 translationKey: "d86b21a6-fa94-1dba-b31a-c537e7af181d"
 ---
-
 ![Workday Tambalea: El Plan Secreto De Cegid Para Desbancarles En España](/images/workday-obsolescencia-ia-openai-2026.jpg)
 
 Es ingenuo pensar que Workday seguirá siendo intocable en el mercado español. Cegid viene a dar guerra.

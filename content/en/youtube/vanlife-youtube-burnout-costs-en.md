@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "80d360f8-27c4-883e-7860-2094725a8e34"
 ---
-
 ![Vanlife Apocalypse: Why YouTube's Freedom Costs 3.7 Million Kids Their Future](/images/vanlife-youtube-burnout-costs-en.jpg)
 
 YouTube glorifies vanlife freedom while sacrificing 3.7 million kids' futures. 

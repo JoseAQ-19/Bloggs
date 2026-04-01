@@ -10,7 +10,6 @@ type: "youtube"
 language: "es"
 translationKey: "7f66e4dd-8c4f-7f98-7d9f-fc41de8a10ec"
 ---
-
 ![YouTube Desesperado: Bloquea Comentarios Si Usas AdBlock, ¡Aunque Pagues Premium!](/images/youtube-bloqueadores-anuncios-guerra.jpg)
 
 YouTube ha declarado la guerra a los adblockers, pero esta vez, la batalla ha escalado hasta afectar incluso a los suscriptores de YouTube Premium. La plataforma está bloqueando funciones básicas, como la sección de comentarios y la descripción de los vídeos, a usuarios que utilizan bloqueadores de anuncios, aunque paguen por una experiencia "sin publicidad".

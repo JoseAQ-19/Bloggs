@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "17a21607-56aa-6fb5-113f-c5d922eca5f7"
 ---
-
 ![Jeopardy!'s YouTube Gamble: Why Engagement Plunged 37% Despite View Surge](/images/jeopardy-youtube-monetization-engagement-en.jpg)
 
 *Jeopardy!* is chasing vanity metrics while the actual business value collapses, proving that a view surge without engagement is a financial trap for creators and broadcasters alike.

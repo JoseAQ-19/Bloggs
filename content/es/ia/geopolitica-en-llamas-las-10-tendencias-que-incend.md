@@ -12,7 +12,6 @@ title: 'Geopolítica en Llamas: Las 10 Tendencias que Incendiarán 2026'
 translationKey: geopolitica-en-llamas-las-10-tendencias-que-incend
 type: ia
 ---
-
 ## Geopolítica en Llamas: Las 10 Tendencias que Incendiarán 2026 Para profundizar en este tema, consulta nuestro analisis sobre [](/ia/ecnocinicos-como-las-corporaciones-nos-venden-humo/).
 
 **Ganadores, perdedores y oportunistas: un nuevo orden mundial forjado en el crisol de la coerción económica y el rearme tecnológico.**

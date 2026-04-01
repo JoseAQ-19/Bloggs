@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "e79608eb-9961-60a1-2111-bcaa753b3e48"
 ---
-
 ![YouTube’s $40B Ad Empire DWARFS Disney, WBD, And Paramount. What Happens When TikTok Wins?](/images/youtube-ad-revenue-vs-disney-paramount-wbd-en.jpg)
 
 YouTube's reign as the undisputed king of digital advertising is threatened by TikTok's meteoric rise, forcing a strategic reckoning.

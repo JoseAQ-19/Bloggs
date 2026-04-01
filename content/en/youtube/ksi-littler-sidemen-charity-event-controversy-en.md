@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "05744978-6901-e8b5-cc90-cde4e6d12411"
 ---
-
 ![KSI's Littler Ban Sparks Outrage: Sidemen Sunday Views Face 24% Viewbot Crackdown Risk](/images/ksi-littler-sidemen-charity-event-controversy-en.jpg)
 
 The next influencer scandal isn't a matter of "if," but "when," as platforms grapple with how to enforce ethical lines in an increasingly blurry digital landscape.

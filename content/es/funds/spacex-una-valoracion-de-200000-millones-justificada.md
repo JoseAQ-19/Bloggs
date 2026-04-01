@@ -10,7 +10,6 @@ type: "funds"
 language: "es"
 translationKey: "efd0a7ce-c894-a35d-544c-b281b3f728ad"
 ---
-
 ![SpaceX: ¿Una valoración de 200.000 millones justificada?](/images/spacex-una-valoracion-de-200000-millones-justificada.jpg)
 
 **Un valor de 200.000 millones de dólares: ¿Es SpaceX el próximo unicornio en caer?**

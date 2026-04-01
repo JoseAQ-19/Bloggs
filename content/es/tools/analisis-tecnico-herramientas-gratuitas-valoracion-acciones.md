@@ -10,7 +10,6 @@ type: "tools"
 language: "es"
 translationKey: "390f6399-5e84-3f40-1820-643f788d652c"
 ---
-
 ![¡ALERTA INVERSORES! La CNMV Está Vigilando Tu IA Para Valorar Acciones](/images/analisis-tecnico-herramientas-gratuitas-valoracion-acciones.jpg)
 
 La promesa de la Inteligencia Artificial en los mercados financieros se está encontrando con un muro de realidad regulatoria que amenaza con desinflar la burbuja de los 'oráculos' algorítmicos. La Comisión Nacional del Mercado de Valores (CNMV) ha iniciado una ofensiva para desmantelar la opacidad de los modelos de valoración que utilizan cajas negras para prometer rendimientos imposibles.

@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "847d4322-6fb7-6cef-b0df-5666b60693a8"
 ---
-
 ![YouTube's $40.4 Billion Ad Empire Topples Disney, Paramount, WBD Combined In Streaming War](/images/youtube-ad-revenue-disney-paramount-wbd-en.jpg)
 
 Hollywood's dominance has officially collapsed under the weight of a digital revolution it failed to fight.

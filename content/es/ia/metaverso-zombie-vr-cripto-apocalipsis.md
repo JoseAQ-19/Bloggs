@@ -2,8 +2,7 @@
 categories:
 - ia
 date: 2026-02-10 13:19:53
-description: ¡Entendido! Prepárense para un baño de realidad sobre el metaverso. Aquí
-va la radiografía de un cadáver tecnológico, sin edulcorantes ni promesas vacías. TL;D...
+description: "¡Entendido! Prepárense para un baño de realidad sobre el metaverso. Aquí va la radiografía de un cadáver tecnológico, sin edulcorantes ni promesas vacías. TL;D..."
 draft: false
 featured_image: /images/metaverso-zombie-vr-cripto-apocalipsis.jpg
 language: es
@@ -20,7 +19,6 @@ remastered: true
 
 translationKey: "e55e3eca-5515-f2b1-7c36-0b52d2b74416"
 ---
-
 El Metaverso: un fraude desde su concepción. La grandilocuente promesa de un mundo virtual inmersivo, orquestada por la desesperada metamorfosis de Facebook a Meta, no solo ha fracasado, sino que se ha revelado como una herramienta de vigilancia implacable, latente y lista para devorar la privacidad y la autonomía que nos quedan.
 
 La idea original, vendida como la panacea de la interacción social y el comercio digital, se ha desplomado estrepitosamente. El entusiasmo inicial ha sido reemplazado por un escepticismo justificado, al enfrentarse a mundos virtuales desolados y una inmersión que aliena más de lo que enriquece. El 91% de los entornos virtuales creados por usuarios en el Metaverso languidecen sin visitantes. ¿Necesitamos más pruebas de su fracaso? No, solo un análisis honesto. La estampida de usuarios, hartos de contenido vacío y limitaciones técnicas, ha sentenciado al Metaverso a un estado de coma inducido.

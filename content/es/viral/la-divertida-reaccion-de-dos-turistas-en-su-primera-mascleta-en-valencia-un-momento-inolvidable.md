@@ -12,7 +12,6 @@ type: "viral"
 language: "es"
 translationKey: "244080c0-7b98-81f2-2971-8e26d112a3af"
 ---
-
 ![La Mascletà Aterradora: Dos Turistas En Valencia Experimentan 120 Decibelios Y Se Sorprenden](/images/la-divertida-reaccion-de-dos-turistas-en-su-primera-mascleta-en-valencia-un-momento-inolvidable.jpg)
 
 La *mascletà* no es un espectáculo, es una agresión física planificada que el mercado turístico ha empaquetado como "experiencia cultural auténtica".

@@ -10,7 +10,6 @@ type: "funds"
 language: "es"
 translationKey: "783e7dc0-1218-c2d6-815a-925e3233ec73"
 ---
-
 ![ETFs: ¿El 2.0? Mercados Privados y Clases de Acciones Revolucionan la Industria.](/images/etfs-el-20-mercados-privados-y-clases-de-acciones-revolucionan-la-industria.jpg)
 
 ## ETFs: ¿El 2.0? Mercados Privados y Clases de Acciones Revolucionan la Industria.

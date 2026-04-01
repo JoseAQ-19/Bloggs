@@ -12,7 +12,6 @@ type: "tools"
 language: "es"
 translationKey: "32844796-69cd-ac83-c3e5-da5bfb7990e7"
 ---
-
 ![12,500 Niños Aprendiendo STEAM: El Impacto de 'Power Tools' en la Educación Temprana](/images/taller-infantil-power-tools-una-mirada-creativa-al-mundo-actual-en-el-museo-helga-de-alvear.jpg)
 
 La integración de herramientas eléctricas y mecánicas reales en aulas de primaria no es una pedagogía progresista, es un ejercicio de gestión de riesgos que la mayoría de los centros no están preparados para asumir.

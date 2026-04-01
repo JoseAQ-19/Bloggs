@@ -10,7 +10,6 @@ type: "ia"
 language: "en"
 translationKey: "122dd045-08b3-4a02-f1aa-9627ed517cc3"
 ---
-
 ![95% Of ATMs Run On COBOL: The Tech Time Bomb In Your Wallet](/images/cobol-apocalypse-banking-1959-tech-en.jpg)
 
 The global financial system is running on code written when JFK was in office, held together by duct tape and a dwindling population of gray-haired engineers who actually understand how the money moves. This isn't a technical debt issue; it's a technical insolvency waiting to happen.

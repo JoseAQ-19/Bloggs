@@ -16,7 +16,6 @@ remastered: true
 
 translationKey: "7124a850-b1c3-7ba6-9b5e-f8be9d4f606e"
 ---
-
 La promesa de un Edén digital se ha tornado en una pesadilla orwelliana. Esa visión de un mundo conectado, inteligente y liberador es una burda farsa. Lo que realmente tenemos es una intrincada red de control, donde cada clic, cada compra, cada pensamiento se convierte en dato explotable. No es una utopía, sino una distopía digital, y negar esta realidad es ser cómplice de ella.
 
 ## El Capitalismo de Vigilancia: La Metástasis del Siglo XXI

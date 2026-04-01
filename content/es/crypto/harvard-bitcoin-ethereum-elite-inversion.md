@@ -10,7 +10,6 @@ type: "crypto"
 language: "es"
 translationKey: "4e0d381a-22d3-749e-7bdc-a5b9cfad4cce"
 ---
-
 ![Harvard Abandona Bitcoin: Apuesta 86 Millones Por Ethereum y Desata la Locura.](/images/harvard-bitcoin-ethereum-elite-inversion.jpg)
 
 La aparente traición de Harvard a Bitcoin, volcándose hacia Ethereum con una inversión de $86.8 millones, sugiere más una diversificación inteligente que un abandono total. ¿Estamos ante el principio del fin para la hegemonía de Bitcoin o simplemente ante una jugada estratégica?

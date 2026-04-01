@@ -10,7 +10,6 @@ type: "ia"
 language: "es"
 translationKey: "81387f7b-4221-991b-4a7d-d3d595838acb"
 ---
-
 ![La IA Manipula Votos: 70% de Españoles Temen la Desinformación Electoral](/images/la-ia-como-arbitro-electoral-puede-influir-en-tu-voto.jpg)
 
 La creciente sofisticación de los modelos generativos ha impulsado la circulación de deepfakes en un 550% entre 2019 y 2023, una estadística que no refleja una simple tendencia tecnológica, sino el armamento de una guerra asimétrica contra la percepción de la realidad. El coste de generar una mentira convincente se ha desplomado a casi cero gracias a la optimización de los modelos de difusión y a la reducción de los precios de las APIs, mientras que el coste de verificar la verdad se mantiene inmutablemente alto. Esta brutal ineficiencia del mercado de la verdad es lo que está fracturando la confianza electoral en España.

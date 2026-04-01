@@ -10,7 +10,6 @@ type: "ia"
 language: "en"
 translationKey: "6c6eec63-3303-a4d0-dce6-fb2f59207a94"
 ---
-
 ![39% Of Novelists Fear AI Will Destroy Their Income: Ia Genberg Speaks Out](/images/unveiling-the-future-an-interview-with-ia-genberg-and-kira-josefsson-on-small-comfort-en.jpg)
 
 The literary world is in full panic mode as 39% of novelists report income already damaged by generative AI, creating a crisis that traditional publishing completely failed to anticipate.

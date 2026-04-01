@@ -10,7 +10,6 @@ type: "crypto"
 language: "en"
 translationKey: "f5576e6e-1aa5-14cb-b258-2f419eb841eb"
 ---
-
 ![SEC's Brutal Shift: 60% Drop in Crypto Enforcement Actions Ignites Controversy](/images/secs-bold-move-defining-the-boundaries-of-crypto-securities-en.jpg)
 
 SEC cryptocurrency enforcement actions plummeted by 60% in 2025, creating a vacuum in regulatory oversight that has emboldened DeFi protocols as the agency shifts priorities under Chairman Paul Atkins.

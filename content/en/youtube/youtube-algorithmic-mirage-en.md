@@ -12,7 +12,6 @@ type: "youtube"
 language: "en"
 translationKey: "e67ae583-07fa-2d40-dadf-1c72a4c76533"
 ---
-
 ![YouTube's Algorithmic Deception: 51.5% of Voters Swayed by Video Manipulation](/images/youtube-algorithmic-mirage-en.jpg)
 
 YouTube's video manipulation has swayed voting preferences by 51.5% to 65.6% among users exposed to biased content sequences, revealing significant algorithmic influence on political behavior.

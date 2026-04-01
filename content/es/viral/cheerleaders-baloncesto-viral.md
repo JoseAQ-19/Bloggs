@@ -10,7 +10,6 @@ type: "viral"
 language: "es"
 translationKey: "9b641505-e705-6ce0-52bc-f0218a8faec9"
 ---
-
 ![¡Escándalo Cheerleader! 66% de las Lesiones Femeninas Más Graves Están Aquí](/images/cheerleaders-baloncesto-viral.jpg)
 
 La aparente alegría del cheerleading esconde una verdad incómoda: el riesgo de lesiones graves es alarmantemente alto.

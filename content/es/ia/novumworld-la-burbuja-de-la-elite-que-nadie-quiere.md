@@ -16,7 +16,6 @@ remastered: true
 
 translationKey: "b962a6b3-fcd9-9847-7cca-8bc55ff595cc"
 ---
-
 NOVUMWORLD: La distopía tecnológica que se vende como paraíso
 
 La idea de un mundo digital paralelo, un refugio exclusivo para la élite, es tan repugnante como predecible. NOVUMWORLD, como lo llamaremos, no es más que la culminación lógica de una desigualdad rampante impulsada por la codicia tecnológica. ¿El precio de esta utopía artificial? La esclavitud digital de las masas.

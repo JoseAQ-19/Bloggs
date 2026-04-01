@@ -12,7 +12,6 @@ type: "ia"
 language: "es"
 translationKey: "9986c0f6-c892-6b94-2861-e180aa1415e6"
 ---
-
 ![ChatGPT Destronó a Wikipedia: Ahora la IA Decide Tu Voto.](/images/ia-electoral-arma-secreta.jpg)
 
 La enciclopedia libre ha muerto, asesinada no por la censura gubernamental ni por el vandalismo, sino por la pereza humana y la síntesis probabilística. Hemos canjeado el rigor de las referencias cruzadas por la comodidad de una respuesta instantánea, y el costo político de esta transacción está a punto de salir caro.

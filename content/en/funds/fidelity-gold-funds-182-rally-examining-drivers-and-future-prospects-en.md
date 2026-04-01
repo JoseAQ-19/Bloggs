@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "a9e2b8b5-e730-612e-b33c-7432a5f0de0d"
 ---
-
 ![Fidelity Gold Fund's 182% Rally: Examining Drivers and Future Prospects.](/images/fidelity-gold-funds-182-rally-examining-drivers-and-future-prospects-en.jpg)
 
 The price of gold surged past $2,400 per ounce in early 2024, fueled by geopolitical tensions and inflationary pressures, marking a potential shift in investor sentiment towards safe-haven assets (**Source Name: Bloomberg**). This surge has significantly impacted gold-focused investment vehicles, with some funds experiencing remarkable gains.

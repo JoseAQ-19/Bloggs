@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "25eb4dc6-2258-080e-885f-9776758e3fc7"
 ---
-
 ![Wearable Fitness Data To Explode To $703 Billion: But There's A Catch](/images/data-integration-wearable-fitness-en.jpg)
 
 Wearable fitness data: it's the future, or a $703 billion privacy nightmare waiting to happen?

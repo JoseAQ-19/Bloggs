@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "37b63a4f-4676-3ef1-2ab6-7453c5569012"
 ---
-
 ![Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard for Top Honors](/images/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-for-top-honors-en.jpg)
 
 **FPA is competing head-to-head with PIMCO and Vanguard for the prestigious Morningstar Awards for Investing Excellence 2026.** 

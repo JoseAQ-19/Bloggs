@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "4bb65e13-bcae-6482-3f2d-b13b24f8c1ff"
 ---
-
 ![Social Media's Dangerous Game: Why Fitness Influencers Are Killing You](/images/mortality-paradox-fitness-failure-en.jpg)
 
 Fitness influencers with millions of followers are directly causing harm to their audiences while peddling dangerous pseudoscience to an unsuspecting public.

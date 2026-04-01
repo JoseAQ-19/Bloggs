@@ -12,7 +12,6 @@ type: "youtube"
 language: "en"
 translationKey: "5a979b62-ae70-0166-4b5b-4c9c9ea3bd1e"
 ---
-
 ![Streaming Democracy: 75% Of Local News Views Now Come From YouTube](/images/streaming-democracy-political-consultant-brings-nh-executive-council-meetings-live-to-youtube-en.jpg)
 
 75% of local news video views now come from YouTube, transforming local governments' primary communication channel into a platform controlled by algorithms in Mountain View.

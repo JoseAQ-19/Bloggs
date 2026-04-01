@@ -10,7 +10,6 @@ type: "ia"
 language: "en"
 translationKey: "0aa41e05-473e-e1f6-6527-53b09c4a39ca"
 ---
-
 ![Silicon Valley's Dirty Secret: AI Progress Isn't Exponential, It's Stalling](/images/exponential-ai-myth-or-reality-en.jpg)
 
 Silicon Valley is facing a harsh reality: AI's seemingly unstoppable progress is hitting a wall. The low-hanging fruit has been plucked, and future advancements will be harder to come by.

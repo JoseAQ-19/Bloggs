@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "7b23ea09-e4ca-fd28-5009-af6721329537"
 ---
-
 ![80% Less Methionine: The Radical Diet Hack Silicon Valley Is Quietly Trying](/images/methionine-restriction-longevity-en.jpg)
 
 Without question, Silicon Valley's quest for immortality has led some to explore dietary extremes, including drastic methionine restriction.

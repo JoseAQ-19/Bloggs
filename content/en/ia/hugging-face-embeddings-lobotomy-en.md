@@ -10,7 +10,6 @@ type: "ia"
 language: "en"
 translationKey: "ab805d91-4ddd-495f-90b8-e3aa8e6a3680"
 ---
-
 ![Hugging Face Embeddings: The $4.5 Billion Lobotomy?](/images/hugging-face-embeddings-lobotomy-en.jpg)
 
 Hugging Face, the darling of the AI world valued at $4.5 billion, promises democratized access to cutting-edge models. But behind the veneer of open-source collaboration lies a dirty little secret: fine-tuning these behemoths can turn them into digital vegetables. The AI community is starting to whisper about the "lobotomized model" phenomenon, and it's time we dissect this elephant in the room.

@@ -10,7 +10,6 @@ type: "tools"
 language: "es"
 translationKey: "11c20cce-7959-285f-4720-e532bfc6b74e"
 ---
-
 ![Google TV Se Derrumba: El 'Efecto TikTok' Cuesta Un 19% De Alcance.](/images/google-tv-microseries-analisis-tecnico.jpg)
 
 **El alcance orgánico en TikTok ha disminuido un 19% en España, afectando la visibilidad de los creadores de contenido y las marcas.** 

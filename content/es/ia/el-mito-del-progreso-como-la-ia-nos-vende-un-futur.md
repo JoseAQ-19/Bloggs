@@ -16,7 +16,6 @@ remastered: true
 
 translationKey: "5918f1be-3769-9f63-4a75-e24b867fcc7e"
 ---
-
 La tan cacareada Inteligencia Artificial no es la solución milagrosa que nos venden, sino la herramienta de un nuevo feudalismo digital. Detrás del brillo de las interfaces amigables y los algoritmos predictivos se esconde una verdad incómoda: una centralización del poder sin precedentes, disfrazada de progreso tecnológico. Es hora de dejar de bebernos la propaganda y reconocer a la IA por lo que es: una estafa monumental.
 
 ## La Farsa de la Inteligencia "Artificial"

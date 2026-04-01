@@ -10,7 +10,6 @@ type: "ia"
 language: "es"
 translationKey: "97fb7553-b307-62ee-4cbd-b0949eedb746"
 ---
-
 ![Gemini 3.1 Flash Lite: Google Revienta ChatGPT Pro Por 1/8 Del Precio](/images/gemini-3-1-flash-lite-google-chatgpt-pro.jpg)
 
 El entusiasmo en torno a la IA barata podría ser una distracción de la verdadera crisis: la falta de escalabilidad en el mercado español.

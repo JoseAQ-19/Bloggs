@@ -10,7 +10,6 @@ type: "crypto"
 language: "es"
 translationKey: "c0c5f3cc-905c-f7b7-1039-b9a8d1e1a183"
 ---
-
 ![La IA Podría Ser La Clave Para La Supervivencia de Crypto.com Tras Despidos Masivos](/images/cryptocom-despide-al-12-de-su-personal-la-ia-es-la-clave-para-sobrevivir-en-el-mercado.jpg)
 
 *Crypto.com ha despedido al 20% de su personal global, apostando por la inteligencia artificial como su única vía de supervivencia en un mercado que exige eficiencia y seguridad.* 

@@ -10,7 +10,6 @@ type: "youtube"
 language: "es"
 translationKey: "26c858e2-ba67-785e-eb58-d36f8531b66c"
 ---
-
 ![Neymar Jr Revela 80% De Su Impacto Emocional: La Verdadera Cara De La Fama](/images/neymar-jr-revela-su-vida-privada-en-una-serie-exclusiva-de-youtube.jpg)
 
 Neymar Jr., la joya del fútbol brasilero, ha destrozado la fachada de perfección que rodea al deporte de élite al admitir que el 80% de los futbolistas profesionales navegan por un oscuro océano de depresión, estrés y ansiedad. La fama no es un regalo, es una sentencia.

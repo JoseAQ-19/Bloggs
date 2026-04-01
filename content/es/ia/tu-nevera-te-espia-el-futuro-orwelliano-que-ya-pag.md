@@ -2,8 +2,7 @@
 categories:
 - ia
 date: 2026-01-28 05:05:44
-description: ¿Está tu nevera conspirando contra ti? El preocupante futuro de la vigilancia
-doméstica que ya estás pagando. En un mundo cada vez más interconectado, dond.
+description: "¿Está tu nevera conspirando contra ti? El preocupante futuro de la vigilancia doméstica que ya estás pagando. En un mundo cada vez más interconectado, dond."
 draft: false
 featured_image: /images/tu-nevera-te-espia-el-futuro-orwelliano-que-ya-pag.jpg
 language: es
@@ -13,7 +12,6 @@ title: ¿Tu nevera te espía? El futuro orwelliano que ya pagas
 translationKey: tu-nevera-te-espia-el-futuro-orwelliano-que-ya-pag
 type: ia
 ---
-
 ## El Gran Hermano en el Salón de Estar: La Vigilancia Doméstica que Ya Estás Financiando
 
 Los televisores inteligentes (Smart TVs) activamente recopilan y transmiten datos sobre hábitos de visualización mediante Reconocimiento Automático de Contenido (ACR), una tecnología que actúa como un "Shazam visual" para identificar y registrar contenido audiovisual, enviando esta telemetría a servidores externos para la creación de perfiles de usuario granular. Un estudio conjunto de la Universidad Carlos III de Madrid (UC3M), el University College de Londres y la Universidad de California en Davis ha documentado la extensión de esta práctica. Esta funcionalidad de ACR no solo detecta programas de televisión, sino también cualquier contenido reproducido a través de dispositivos conectados, como consolas de videojuegos o PCs, permitiendo la elaboración de perfiles de usuario extremadamente precisos, según Patricia Callejo, profesora de la UC3M. La investigación revela que la mayoría de los Smart TVs tienen esta función activada por defecto, exponiendo a los usuarios al rastreo sin su conocimiento explícito ni una información clara sobre cómo modificar estos ajustes.

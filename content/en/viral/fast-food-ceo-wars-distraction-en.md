@@ -10,7 +10,6 @@ type: "viral"
 language: "en"
 translationKey: "981155d9-2fe2-2a29-8e0f-6a17ac5b04f0"
 ---
-
 ![McDonald's CEO's $26.9 Billion Lie: Here's Who Pays The Price.](/images/fast-food-ceo-wars-distraction-en.jpg)
 
 The McDonald's CEO's $26.9 billion revenue figure is a carefully constructed illusion masking a fundamental crisis of affordability in American fast food. This financial success story hides a painful truth: lower-income consumers are increasingly priced out of the drive-thru lane.

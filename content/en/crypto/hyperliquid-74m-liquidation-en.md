@@ -10,7 +10,6 @@ type: "crypto"
 language: "en"
 translationKey: "44a35c69-3c4e-6704-cf48-8f19a032e3ac"
 ---
-
 ![Hyperliquid Horror: One Trader's $74M Loss Exposes $4.25B TVL Time Bomb](/images/hyperliquid-74m-liquidation-en.jpg)
 
 Hyperliquid's siren song of 50x leverage has lured many to the rocks, but a recent $74 million liquidation suggests a systemic failure, not just individual recklessness.

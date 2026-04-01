@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "ccc33134-0c28-12db-6099-e72ee6e7c180"
 ---
-
 ![Rosanna Pansino's FBI Report: The Dark Secret Behind MrBeast's 913 Million Monthly Views](/images/mrbeast-youtube-views-controversy-en.jpg)
 
 MrBeast's empire, fueled by billions of views, faces increasing scrutiny regarding its ethical foundations.

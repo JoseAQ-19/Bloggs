@@ -1,12 +1,11 @@
 ---
-description: Términos y condiciones que regulan el uso del sitio web NovumWorld y su contenido.
+description: "Términos y condiciones que regulan el uso del sitio web NovumWorld y su contenido."
 featured_image: /images/privacy.jpg
 layout: single
 title: Términos de Servicio
 translationKey: terms-of-service
 weight: 90
 ---
-
 ## Términos de Servicio
 
 **Última actualización: Marzo de 2026**

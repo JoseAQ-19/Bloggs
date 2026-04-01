@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "c7a8ce79-b50f-f505-994e-e0869bfb9206"
 ---
-
 ![Morningstar's 2026 Top Active ETF: OAKM's Strategy Delivers Outperformance.](/images/morningstars-2026-top-active-etf-oakms-strategy-delivers-outperformance-en.jpg)
 
 Morningstar's designation of OAKMX as its Top Active ETF for 2026 underscores a seismic shift in the active management landscape, as this concentrated technology fund delivered a staggering 15.3% outperformance over the S&P 500 Technology Select Sector SPDR (XLK) in the trailing 12 months, according to [Morningstar](https://www.morningstar.com/) data. This performance comes amidst heightened geopolitical risk and persistent inflationary pressures, challenging traditional passive investing narratives. The fund's success hinges on a highly selective approach within the volatile artificial intelligence and semiconductors sub-sectors, raising critical questions about sustainability and risk concentration.

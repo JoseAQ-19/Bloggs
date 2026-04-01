@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "98abfd6d-4d18-6b86-b008-75d13fda78d4"
 ---
-
 ![Sweat Equity Or Exploitation? Gamified Fitness's \$18.5 Billion Fundraising Gamble](/images/gamified-fitness-fundraising-en.jpg)
 
 The \$18.5 billion projected valuation of the gamified fitness market by 2033 might represent a bubble built more on exploitation than genuine well-being.

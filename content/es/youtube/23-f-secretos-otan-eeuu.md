@@ -10,7 +10,6 @@ type: "youtube"
 language: "es"
 translationKey: "5371ca22-3fce-351f-46f1-91917b667267"
 ---
-
 ![23-F: Cercas lo Clavó. El Rey Rajaba... La Bomba Declasificada.](/images/23-f-secretos-otan-eeuu.jpg)
 
 La verdad sobre el 23-F sigue enterrada bajo toneladas de secretismo, incluso después de la reciente desclasificación de documentos. ¿Es esta liberación una ventana a la verdad o una simple cortina de humo?

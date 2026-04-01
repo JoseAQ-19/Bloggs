@@ -12,7 +12,6 @@ type: "viral"
 language: "es"
 translationKey: "8a204d02-5372-ca3b-fca9-5df2bc0dd3db"
 ---
-
 ![Smombies En València: La Epidemia Que Ya Ha Causado Muertes En Los Tranvías](/images/el-reto-del-movil-pegado-al-tranvia-la-peligrosa-tendencia-que-pone-en-jaque-a-valencia.jpg)
 
 ### TL;DR BULLETS:

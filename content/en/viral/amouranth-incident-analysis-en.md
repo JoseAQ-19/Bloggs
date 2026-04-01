@@ -10,7 +10,6 @@ type: "viral"
 language: "en"
 translationKey: "c652cc94-2505-d618-c729-baf86c48a7ff"
 ---
-
 ![Amouranth's $440,000 Twitch Loss: Was Peru Trip A Desperate Gamble?](/images/amouranth-incident-analysis-en.jpg)
 
 Amouranth's recent activities in Peru may be an attempt to offset potential losses from Twitch policies and mounting controversies. The streamer needs to diversify revenue streams to remain financially stable.

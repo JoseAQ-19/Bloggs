@@ -10,7 +10,6 @@ type: "crypto"
 language: "en"
 translationKey: "5a23eed4-631d-973e-6b6e-f1ef403eabe1"
 ---
-
 ![$33 Trillion Staked: Crypto And Banks Battle For Your Money In Congress](/images/stablecoin-cbdc-congress-lobbying-en.jpg)
 
 Stablecoin transaction volumes reached $33 trillion in 2025, a figure that effectively mocks the entire legacy banking system’s throughput while simultaneously triggering a defensive legislative siege in Washington. The sheer velocity of capital moving through protocols like Tron and Ethereum is no longer a niche metric for crypto-anarchists; it is a macroeconomic signal that the dollar is being digitized by private entities faster than the Federal Reserve can print a press release.

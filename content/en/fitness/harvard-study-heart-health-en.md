@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "90910ff2-1bab-704b-966f-364d5fdc8016"
 ---
-
 ![$66 Billion Heart Health Secret: Personalized Nutrition To Disrupt Everything](/images/harvard-study-heart-health-en.jpg)
 
 Personalized nutrition sounds like a utopian dream, but it’s rapidly becoming a data-driven marketing goldmine, promising to solve health problems unique to you — for a price.

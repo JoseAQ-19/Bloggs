@@ -10,7 +10,6 @@ type: "crypto"
 language: "es"
 translationKey: "4844782c-bb60-c66f-b298-70bfcf4527d9"
 ---
-
 ![6.5% De Volatilidad Diaria: El Riesgo Oculto Detrás De Invertir En Bitcoin](/images/bitcoin-el-refugio-seguro-en-medio-del-caos-global.jpg)
 
 *La volatilidad diaria promedio de Bitcoin alcanza el 6.5%, un riesgo sistémico que supera el umbral de tolerancia de mercados tradicionales.*

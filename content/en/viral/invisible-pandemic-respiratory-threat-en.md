@@ -10,7 +10,6 @@ type: "viral"
 language: "en"
 translationKey: "14dd2aba-30ab-753d-2c3d-71f36615a3d5"
 ---
-
 ![59% Asymptomatic: The Next Pandemic Is Already Spreading And Nobody's Talking](/images/invisible-pandemic-respiratory-threat-en.jpg)
 
 59% Asymptomatic: The Next Pandemic Is Already Spreading And Nobody's Talking.

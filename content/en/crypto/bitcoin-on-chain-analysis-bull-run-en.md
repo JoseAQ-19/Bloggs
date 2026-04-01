@@ -10,7 +10,6 @@ type: "crypto"
 language: "en"
 translationKey: "1c7b28aa-5ec8-eeb4-24a1-48b915e10b8b"
 ---
-
 ![$66K Dip? Whales Just Added 230,000 Bitcoin: Bears Are Officially WRONG](/images/bitcoin-on-chain-analysis-bull-run-en.jpg)
 
 Bitcoin’s failure to hold $70,000 has bears licking their chops, but the smart money is quietly loading up.

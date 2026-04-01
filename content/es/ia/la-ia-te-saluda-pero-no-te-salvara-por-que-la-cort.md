@@ -16,7 +16,6 @@ remastered: true
 
 translationKey: "52599ac3-39b4-d09c-5322-d7dcd83ac3c4"
 ---
-
 La obsesión por la cortesía con la IA es un síntoma de nuestra decadencia intelectual. ¿En serio estamos debatiendo si debemos decir "por favor" a un programa? La verdadera pregunta es: ¿por qué estamos permitiendo que esta charlatanería pseudocientífica consuma recursos valiosos y distorsione nuestra percepción de la realidad?
 
 ## El Delirio de la Amabilidad Digital: Un Despilfarro Energético y Cognitivo

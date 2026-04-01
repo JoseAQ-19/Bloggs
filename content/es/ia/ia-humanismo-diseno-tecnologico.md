@@ -10,7 +10,6 @@ type: "ia"
 language: "es"
 translationKey: "90a5323b-e5fa-580f-7cfc-cbf3bfa9a6b0"
 ---
-
 ![Adiós A La IA Neutra: Amparo Alonso Betanzos Exige Compensar Desigualdad.](/images/ia-humanismo-diseno-tecnologico.jpg)
 
 La IA neutra es un mito peligroso que perpetúa la injusticia social.

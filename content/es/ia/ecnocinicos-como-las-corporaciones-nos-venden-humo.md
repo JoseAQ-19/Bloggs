@@ -2,8 +2,7 @@
 categories:
 - ia
 date: 2026-02-06 00:04:32
-description: La fascinación por el futuro, alimentada por promesas de tecnología revolucionaria,
-se ha convertido en un lucrativo negocio para las grandes corporaciones.
+description: "La fascinación por el futuro, alimentada por promesas de tecnología revolucionaria, se ha convertido en un lucrativo negocio para las grandes corporaciones."
 draft: false
 featured_image: /images/ecnocinicos-como-las-corporaciones-nos-venden-humo.jpg
 language: es
@@ -15,7 +14,6 @@ title: 'Ecnocínicos: Cómo las Corporaciones Nos Venden Humo Futurista'
 translationKey: ecnocinicos-como-las-corporaciones-nos-venden-humo
 type: ia
 ---
-
 ## Ecnocinismo: La Instrumentalización de la Innovación para el Control Corporativo
 
 El ecnocinismo define la instrumentalización de la innovación tecnológica por parte de grandes corporaciones para la manipulación, el acaparamiento de poder y la elusión de responsabilidades, manifestándose en la exageración de la Inteligencia Artificial, el *greenwashing* y el *vaporware*. Este fenómeno trasciende el marketing convencional, configurándose como una estrategia deliberada para moldear el futuro en beneficio propio, a menudo a expensas de la sociedad y el medio ambiente. Su núcleo reside en la creación y difusión de "ficciones sociotécnicas", narrativas que legitiman inversiones masivas y agendas específicas.

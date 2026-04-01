@@ -10,7 +10,6 @@ type: "viral"
 language: "en"
 translationKey: "fd41f510-4994-1b0d-a9e4-b87b60a7e700"
 ---
-
 ![$42 Billion Fruit Fad? AI's Uncanny Orchard Is Ripe For Disruption](/images/ai-fruit-videos-uncanny-valley-en.jpg)
 
 The synthetic fruit on your screen isn't just visually repulsive; it is a $42 billion symptom of a generation losing its grip on reality.

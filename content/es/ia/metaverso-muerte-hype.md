@@ -2,9 +2,7 @@
 categories:
 - ia
 date: 2026-02-09 19:14:49
-description: 'Vale, aquí vamos. Metaverso: el estercolero digital de las ambiciones
-fallidas. Agárrate, que esto va a doler. TL;DR (Resumen Rápido): El metaverso
-de Meta...'
+description: "Vale, aquí vamos. Metaverso: el estercolero digital de las ambiciones fallidas. Agárrate, que esto va a doler. TL;DR (Resumen Rápido): El metaverso de Meta..."
 draft: false
 featured_image: /images/metaverso-muerte-hype.jpg
 language: es
@@ -20,7 +18,6 @@ translationKey: d97adf89-8d34-4b07-94e7-7276bc0a1f7a
 type: ia
 remastered: true
 ---
-
 ¿Metaverso? Más bien Meta-fracaso. Lo que se nos vendió como el futuro de la interacción humana huele más a estafa piramidal que a innovación genuina. Silicon Valley, en su ceguera habitual, apostó miles de millones a un caballo muerto, y ahora nos toca lidiar con las secuelas de esta debacle digital.
 
 ## Delirio de grandeza: Zuckerberg y la fiebre del píxel

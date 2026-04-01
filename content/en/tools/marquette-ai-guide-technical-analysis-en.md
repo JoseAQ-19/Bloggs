@@ -10,7 +10,6 @@ type: "tools"
 language: "en"
 translationKey: "eb8876ba-1ae6-f3f4-2579-a044be7491f8"
 ---
-
 ![The Hidden Crisis: 1 In 200 Students Falsely Accused By AI Detection Tools](/images/marquette-ai-guide-technical-analysis-en.jpg)
 
 Academic integrity software is actively generating a statistical margin of error that ruins student careers, yet universities continue to deploy these tools as infallible arbiters of truth. ****BLUF** Technical Executive Summary:** Turnitin’s classifier operates on a 0.51% false positive rate, creating a 1-in-200 risk of wrongful accusation; algorithmic bias disproportionately penalizes non-native English speakers due to training data homogeneity; current detection architecture relies on "perplexity" and "burstiness" heuristics that are easily defeated by obfuscation techniques, rendering the technology technically bankrupt for high-stakes assessment.

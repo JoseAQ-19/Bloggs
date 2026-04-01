@@ -12,7 +12,6 @@ title: "AI Is Coming for Your Lunch (And It Won't Apologize)"
 translationKey: la-ia-viene-a-quitarte-el-almuerzo-y-no-se-disculp
 type: ia
 ---
-
 The robots aren't coming, they're already here – and they're not exactly polite about it. Forget dystopian visions of killer androids; the real AI revolution is far more subtle, and arguably more disruptive: it's quietly reshaping the job market, creating precarious "IAchangas" (AI gigs), and forcing workers to adapt whether they like it or not. The initial fear of AI replacing entire professions is giving way to a more nuanced, yet still unsettling, reality: AI is unbundling jobs, automating tasks, and leaving many scrambling to find their place in the new order.
 
 The fear is real. A 2023 *The Economist* article highlighted a surge in Google searches asking "Is my job safe?" A more recent IMF study suggests that 40% of global employment is potentially affected by AI, with that number jumping to 60% in advanced economies. While outright job elimination is not necessarily the outcome, the transformation is undeniable. This isn't about robots stealing jobs wholesale; it's about algorithms quietly redefining the terms of employment. The rise of AI has led to the emergence of what some are calling "IAchangas", temporary AI-related gigs. People are now finding themselves reliant on algorithms to get, keep, or lose their jobs.

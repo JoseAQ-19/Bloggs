@@ -11,7 +11,6 @@ language: "es"
 translationKey: "efcbc125-7ec3-4cfe-8294-52e935058178"
 remastered: true
 ---
-
 ¿Hartos de que MetaMask les exprima hasta la última gota de ETH? No están solos. La autodenominada "billetera líder" se está beneficiando descaradamente de nuestra necesidad de acceso al ecosistema Ethereum.
 
 ## El Monstruo de las Comisiones Ocultas

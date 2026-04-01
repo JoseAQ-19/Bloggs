@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "1018b691-bf49-46a3-dac3-add60e7658fc"
 ---
-
 ![Is This The End Of Hollywood? Matt Belloni Takes The Town To YouTube.](/images/matt-belloni-the-town-youtube-en.jpg)
 
 * YouTube generated approximately $62 billion in revenue in 2025, surpassing Disney Media's $60.9 billion, demonstrating the platform's financial power and potential for creators.

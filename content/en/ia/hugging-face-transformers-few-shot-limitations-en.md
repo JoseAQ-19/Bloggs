@@ -10,7 +10,6 @@ type: "ia"
 language: "en"
 translationKey: "223a6b5e-019e-4c9d-9e9c-eb194096d0d6"
 ---
-
 ![Hugging Face Transformers: The Few-Shot Fine-Tuning Fantasy](/images/hugging-face-transformers-few-shot-limitations-en.jpg)
 
 Forget the hype. Hugging Face's Transformer library promised a new era of AI democratization through few-shot learning, but the reality is a minefield of "gotchas" that only the initiated truly understand. What looks like plug-and-play brilliance often devolves into a frustrating battle against entropy.

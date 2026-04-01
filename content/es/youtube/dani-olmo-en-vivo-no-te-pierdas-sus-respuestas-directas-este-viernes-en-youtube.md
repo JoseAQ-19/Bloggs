@@ -10,7 +10,6 @@ type: "youtube"
 language: "es"
 translationKey: "2b0f519e-e264-54c1-11c2-fc653b744677"
 ---
-
 ![Dani Olmo Revela Verdades Ocultas: Sus Respuestas Este Viernes En YouTube](/images/dani-olmo-en-vivo-no-te-pierdas-sus-respuestas-directas-este-viernes-en-youtube.jpg)
 
 Dani Olmo se prepara para desmentir rumores en YouTube este viernes, pero la realidad financiera y física del jugador del FC Barcelona es mucho más aterradora que cualquier declaración en cámara. El mercado de fichajes no perdona la fragilidad, y las estadísticas de Olmo pintan un futuro oscuro para la economía culé si su cuerpo no resiste. La burbuja de su fichaje podría estallar dejando una deuda millonaria.

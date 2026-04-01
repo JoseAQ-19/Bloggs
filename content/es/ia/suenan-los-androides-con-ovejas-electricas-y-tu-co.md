@@ -16,7 +16,6 @@ remastered: true
 
 translationKey: "841eb1a6-6dcf-f279-b4ca-45fe46d000a8"
 ---
-
 ¿Philip K. Dick como profeta? ¡Por favor! La sobrevaloración de la ciencia ficción como análisis predictivo ya es una pandemia peor que cualquier virus. Que *¿Sueñan los androides con ovejas eléctricas?* sea una advertencia profética no es más que una lectura simplista y condescendiente hacia nuestra capacidad de agencia. La verdadera pregunta no es si la distopía llegó, sino si estamos lo suficientemente imbéciles como para creer que no podemos cambiarla.
 
 ## La farsa Cyberpunk: Un accesorio más para el sistema

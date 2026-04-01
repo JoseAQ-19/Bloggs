@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "884b8c1b-27a1-08ee-e406-a8b5a81f38e4"
 ---
-
 ![Lukaku's Hamstring Hell: Are Coaches Ignoring This 17-Fold Increased Injury Risk?](/images/lukaku-fitness-fatigue-markers-wearable-tech-injury-prevention-en.jpg)
 
 **Over 17 million athletes suffer from hamstring injuries every year, with a staggering 17-fold increased risk for those with a preseason hamstring:quadriceps muscle peak torque ratio of less than 0.6 at 180 u/s.**

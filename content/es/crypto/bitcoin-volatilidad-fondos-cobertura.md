@@ -10,7 +10,6 @@ type: "crypto"
 language: "es"
 translationKey: "3604bce0-4d72-5b94-b328-34d5ddf6400f"
 ---
-
 ![Cris Carrascosa lo Advierte: El Impuesto Bitcoin de Sumar Es Una Salvajada Fiscal](/images/bitcoin-volatilidad-fondos-cobertura.jpg)
 
 La propuesta de Sumar de gravar las criptomonedas con un IRPF de hasta el 47% es una receta para la fuga de capitales.

@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "fee3c7b6-7f04-60f3-2b73-fb8f31e64fd5"
 ---
-
 ![Metaverse Addiction: 47% Think It's A Danger. Silicon Valley Is Ignoring The Warning.](/images/metaverse-addiction-trial-future-social-media-en.jpg)
 
 Silicon Valley is once again betting the farm on a product that nearly half the internet considers a health hazard.

@@ -10,7 +10,6 @@ type: "ia"
 language: "en"
 translationKey: "05e786b4-83f8-d6a8-9583-6d29f350ef94"
 ---
-
 ![500+ Companies Pay $1M to Ditch ChatGPT Privacy Risks, Embrace Claude.](/images/claude-vs-chatgpt-privacy-concerns-en.jpg)
 
 Over 500 organizations are willingly paying over $1 million annually, not for more features, but to actively *avoid* the privacy minefield that is OpenAI's ChatGPT.

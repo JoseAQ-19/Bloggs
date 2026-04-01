@@ -10,7 +10,6 @@ type: "tools"
 language: "en"
 translationKey: "45e50fd1-2c0a-bdc3-fb5c-3e38d72cfd20"
 ---
-
 ![Gurley's 'Mania' Warning: Will AI Tech Debt Cost Us $2.4 Trillion?](/images/ai-saas-bubble-gurley-en.jpg)
 
 AI's pervasive infiltration into SaaS may be less about genuine transformation and more about masking deeper structural issues within the sector.

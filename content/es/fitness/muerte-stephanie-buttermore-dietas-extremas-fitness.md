@@ -10,7 +10,6 @@ type: "fitness"
 language: "es"
 translationKey: "f95a81e4-180a-d29d-1c8c-dc56337149c8"
 ---
-
 ![El Lado Oscuro Del Fitness: ¿Stephanie Buttermore Fue Víctima De Su Propia Imagen?](/images/muerte-stephanie-buttermore-dietas-extremas-fitness.jpg)
 
 El culto al cuerpo perfecto es una epidemia silenciosa que se cobra más víctimas de las que reconocemos.

@@ -10,7 +10,6 @@ type: "youtube"
 language: "es"
 translationKey: "65fa7d01-175e-b6b8-50cf-6c75cf972730"
 ---
-
 ![YouTube, Se Acabó: Obligan a Ver 30 Segundos de Anuncios y la Red Explota](/images/youtube-anuncios-30-segundos-enfado-usuarios.jpg)
 
 YouTube está apostando fuerte por la publicidad, pero a costa de la paciencia de sus usuarios, quienes ven cómo hasta 30 segundos de anuncios no salteables interrumpen su experiencia. Esta agresiva estrategia publicitaria está generando una ola de frustración que podría llevar a muchos a buscar alternativas.

@@ -10,7 +10,6 @@ type: "tools"
 language: "en"
 translationKey: "3c719270-62cf-e020-ec69-752a117594c6"
 ---
-
 ![32 Million U.S. Homes Fooled? The Induction Cooktop ROI Disaster](/images/induction-cooktop-roi-teardown-en.jpg)
 
 The induction cooktop "revolution" might leave homeowners burned as electricity costs skyrocket.

@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "80d07a91-1f20-015a-3a68-c2cfdc3b4918"
 ---
-
 ![Morningstar Outperforms KnockoutStocks by 5% in 2026's Key Sectors.](/images/morningstar-outperforms-knockoutstocks-by-5-in-2026s-key-sectors-en.jpg)
 
 Despite a turbulent year for global markets, Morningstar's stock-picking methodology has delivered an impressive 5% outperformance over KnockoutStocks' recommendations in key sectors for 2026, according to a recent analysis by Bloomberg.

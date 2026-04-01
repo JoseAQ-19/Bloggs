@@ -10,7 +10,6 @@ type: "tools"
 language: "es"
 translationKey: "d32cd7a1-be3d-5e9c-b9f4-1ad4ddff4b78"
 ---
-
 ![Accidentes en Almacenes Aumentan 50% Con Robots: ¿Pagamos Un Precio Demasiado Alto?](/images/analisis-tecnico-robots-alyco-almacenes-altura.jpg)
 
 La promesa de almacenes totalmente automatizados se estrella contra una dura realidad: los accidentes laborales se disparan.

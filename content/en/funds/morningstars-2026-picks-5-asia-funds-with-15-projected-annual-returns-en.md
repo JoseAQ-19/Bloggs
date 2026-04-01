@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "fa29cfbd-ae0b-1c65-2adb-30f309c23ccf"
 ---
-
 ![Morningstar's 2026 Picks: 5 Asia Funds with 15% Projected Annual Returns](/images/morningstars-2026-picks-5-asia-funds-with-15-projected-annual-returns-en.jpg)
 
 **Five Asia mutual funds are projected to deliver annual returns of 15% or more by 2026, showcasing the potential for high growth in emerging markets.** 

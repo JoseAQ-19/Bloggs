@@ -12,7 +12,6 @@ type: "youtube"
 language: "es"
 translationKey: "0a0b34e7-b1c7-4316-24fc-f05b25804e2f"
 ---
-
 ![Banijay Group Revela Su Plan Secreto: 3.3 Mil millones de Euros en YouTube](/images/banijay-group-revela-su-audaz-plan-de-expansion-en-youtube.jpg)
 
 Banijay Group ha desatado una ofensiva de 3.300 millones de euros para convertir YouTube en el nuevo cementerio de la televisión tradicional, desafiando directamente a Netflix y Amazon Prime Video.

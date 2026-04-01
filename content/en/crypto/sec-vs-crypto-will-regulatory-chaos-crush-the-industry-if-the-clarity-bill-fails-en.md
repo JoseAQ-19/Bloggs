@@ -12,7 +12,6 @@ type: "crypto"
 language: "en"
 translationKey: "0fc9009e-eae6-0f63-ae25-87088c8413b9"
 ---
-
 ![SEC Power Grab: Crypto Could Face Total Securities Reclassification Without Clarity Act](/images/sec-vs-crypto-will-regulatory-chaos-crush-the-industry-if-the-clarity-bill-fails-en.jpg)
 
 **SEC Power Grab: Crypto Could Face Total Securities Reclassification Without Clarity Act**

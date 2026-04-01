@@ -2,8 +2,7 @@
 categories:
 - ia
 date: 2026-01-27 20:39:39
-description: La sensación de déjà vu es palpable. Otra crisis económica, otra ronda
-de rescates, otra promesa de 'reconstruir mejor'. Pero, ¿y si estas crisis no fueran.
+description: "La sensación de déjà vu es palpable. Otra crisis económica, otra ronda de rescates, otra promesa de 'reconstruir mejor'. Pero, ¿y si estas crisis no fueran."
 draft: false
 featured_image: /images/crisis-la-estafa-del-siglo-como-nos-venden-el-derr.jpg
 language: es
@@ -15,7 +14,6 @@ title: '¿Crisis? La Estafa del Siglo: Cómo Nos Venden el Derrumbe Controlado'
 translationKey: crisis-la-estafa-del-siglo-como-nos-venden-el-derr
 type: ia
 ---
-
 ## La Demolición Controlada: ¿Una Reestructuración Global Orquestada?
 
 La teoría de una "demolición controlada" de la economía global postula que las crisis actuales no son accidentes desafortunados, sino etapas orquestadas para reestructurar el orden económico y social. Esta perspectiva sugiere que, desde el fin del sistema de Bretton Woods y la desvinculación del dólar del oro, se ha permitido la inflación deliberada de una "Everything Bubble" mediante políticas monetarias expansivas, cuya desinflación actual es un proceso intencionado para dar paso a un nuevo paradigma.

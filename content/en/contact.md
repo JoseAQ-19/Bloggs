@@ -1,12 +1,11 @@
 ---
-description: Have a leak? Want to insult us? We are here.
+description: "Have a leak? Want to insult us? We are here."
 featured_image: /images/contact.jpg
 layout: single
 title: Contact
 translationKey: contact
 url: /en/contact/
 ---
-
 ## Let's Talk Straight
 
 At **NovumWorld**, we are always looking for the next big story. But we value your time and ours. This is not the typical corporate contact page that no one reads. Here we speak human to human.

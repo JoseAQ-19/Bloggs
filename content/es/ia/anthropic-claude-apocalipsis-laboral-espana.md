@@ -10,7 +10,6 @@ type: "ia"
 language: "es"
 translationKey: "085d9926-f4b4-f539-8cad-610c282e6214"
 ---
-
 ![Claude Sentencia a 2 Millones de Españoles: El Apocalipsis Laboral Es Ahora](/images/anthropic-claude-apocalipsis-laboral-espana.jpg)
 
 Claude, GPT-4o y los LLMs multimodales no vienen a "ayudarnos" a trabajar, vienen a reemplazar la cognición humana barata con inferencia probabilística casi gratuita. La narrativa corporativa de que la Inteligencia Artificial es un asistente copiloto es la mayor estafa vendida desde la burbuja de las puntocom, diseñada para que los empleados no huyan antes de ser reemplazados por scripts de Python y tarjetas GPU H100 que nunca duermen.

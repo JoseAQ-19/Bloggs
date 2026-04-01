@@ -10,7 +10,6 @@ type: "ia"
 language: "en"
 translationKey: "cfd72d6f-2f2d-9c27-a81d-f35c35a8b8ed"
 ---
-
 ![AI Candidate Disrupts Colombia’s Elections: The Startling Truth Behind 500,000 Deepfake Videos](/images/how-an-ai-candidate-changed-the-game-in-colombias-elections-en.jpg)
 
 AI is not just a buzzword; it’s a looming specter over democracy, particularly in Colombia, where the upcoming 2026 elections could be decided by the flick of a digital pen. An estimated 500,000 deepfake videos were shared on social media in 2023, with projections suggesting this could rise to 8 million by 2025, posing a significant threat to the integrity of the electoral process. 

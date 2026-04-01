@@ -10,7 +10,6 @@ type: "tools"
 language: "en"
 translationKey: "d5ffbd5d-4adb-c96c-93ce-7d951bfe3eb7"
 ---
-
 ![Cow Uses Broom 76 Times: Primate Cognition Myth CRUSHED By Farm Animal](/images/cow-tool-use-cognition-en.jpg)
 
 ****BLUF** Technical Executive Summary:**

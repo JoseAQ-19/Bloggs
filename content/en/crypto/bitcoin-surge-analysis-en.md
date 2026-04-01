@@ -10,7 +10,6 @@ type: "crypto"
 language: "en"
 translationKey: "045ba508-4397-10fe-f682-77b673ea4dc7"
 ---
-
 ![Bhutan Dumped 58% Of Bitcoin: Should You Be Terrified?](/images/bitcoin-surge-analysis-en.jpg)
 
 Bhutan’s strategic reduction in Bitcoin holdings underscores the inherent risks associated with sovereign wealth funds venturing into volatile crypto assets.

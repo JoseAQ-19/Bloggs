@@ -10,7 +10,6 @@ type: "crypto"
 language: "en"
 translationKey: "42e782e7-422e-c851-0405-c6738d193ad7"
 ---
-
 ![700% Crypto Spike: Did Iran's Whales Know Something We Didn't About Airstrikes?](/images/iranian-crypto-outflow-airstrikes-en.jpg)
 
 Geopolitical instability is now a tradable asset class, it seems. Cryptoasset outflows from Iran's largest exchange, Nobitex, surged 700% immediately following US-Israeli airstrikes, igniting speculation that some parties possessed advance knowledge of the attacks.

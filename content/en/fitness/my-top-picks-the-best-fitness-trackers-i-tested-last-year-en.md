@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "e9770550-97ef-cdee-f5c9-ebaa669e5a71"
 ---
-
 ![The Shocking Truth About Biometric Spoofing Risks In Fitness Trackers](/images/my-top-picks-the-best-fitness-trackers-i-tested-last-year-en.jpg)
 
 * [The global smart wearables market projected to reach USD 175.0 billion by 2026, with fitness trackers contributing USD 77.7 billion] — Market.us Scoop

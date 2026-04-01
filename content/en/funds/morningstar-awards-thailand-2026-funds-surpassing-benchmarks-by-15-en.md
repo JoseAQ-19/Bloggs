@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "0b5b56c1-0680-bc5d-66af-49ffc34e0935"
 ---
-
 ![Morningstar Awards Thailand 2026: Funds Surpassing Benchmarks by 15%](/images/morningstar-awards-thailand-2026-funds-surpassing-benchmarks-by-15-en.jpg)
 
 **15.6% of Thai mutual funds have surpassed their benchmarks by 15% or more in the past year, with the top performer delivering a 34.6% return**. This remarkable feat has been recognized by the Morningstar Awards for Investing Excellence Thailand 2026, which honors funds that have demonstrated exceptional performance and consistency.

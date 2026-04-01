@@ -10,7 +10,6 @@ type: "ia"
 language: "es"
 translationKey: "1002fdf1-5670-25c3-9062-c0d4897b886e"
 ---
-
 ![IA Legal: La Trampa Que Dejará Sin Trabajo a Miles de Abogados en España](/images/ia-derecho-aliada-amenaza.jpg)
 
 El sector legal español está a punto de sufrir una amputación masiva de talento junior bajo la excusa de la eficiencia operativa.

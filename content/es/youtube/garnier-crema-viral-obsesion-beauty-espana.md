@@ -10,7 +10,6 @@ type: "youtube"
 language: "es"
 translationKey: "fcb44b8e-f387-4447-616f-4ef8c03a9917"
 ---
-
 ![Garnier Destapada: Dermatologos Alertan Sobre Riesgos Ocultos Para Pieles Sensibles en España.](/images/garnier-crema-viral-obsesion-beauty-espana.jpg)
 
 La publicidad de "skincare minimalista" de Garnier podría ser una trampa para las pieles sensibles en España. Los ingredientes promocionados como suaves y naturales están generando irritación y reacciones adversas en algunos usuarios.

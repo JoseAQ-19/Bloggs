@@ -10,7 +10,6 @@ type: "crypto"
 language: "en"
 translationKey: "29cef61f-967f-c4af-380d-7333b8a1910c"
 ---
-
 ![$23 Billion Bitcoin Grab: Whales Are Buying The Dip And You're Not](/images/bitcoin-bottom-onchain-analysis-en.jpg)
 
 Bitcoin's alleged bottom may be nothing more than a whale-fueled mirage obscuring significant retail losses.

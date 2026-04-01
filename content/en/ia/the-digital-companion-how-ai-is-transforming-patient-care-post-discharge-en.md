@@ -12,7 +12,6 @@ type: "ia"
 language: "en"
 translationKey: "f3b3acd4-58fa-6a4c-4d94-42e5ec845984"
 ---
-
 ![71 Million Americans Will Rely on AI for Health Post-Discharge by 2025](/images/the-digital-companion-how-ai-is-transforming-patient-care-post-discharge-en.jpg)
 
 OpenAI CEO Sam Altman recently claimed that AI can transform healthcare, yet behind the shiny facade, we find a market riddled with pitfalls, unfulfilled promises, and a glaring lack of real-world efficacy. As we stand on the brink of 2025, the prediction that 71 million Americans will rely on AI-driven remote patient monitoring (RPM) is not just a headline—it's a potential crisis waiting to unravel.

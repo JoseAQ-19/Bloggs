@@ -10,7 +10,6 @@ type: "crypto"
 language: "en"
 translationKey: "73e65f34-6b7b-7a82-5ad7-7dcf21aef8ff"
 ---
-
 ![$18.8 Billion Crypto Mortgage Bomb? IMF Warns Of Systemic Risk Nightmare.](/images/fannie-mae-crypto-backed-mortgages-en.jpg)
 
 Tokenized mortgage-backed securities are projected to grow into an $18.8 billion market by 2034, creating new avenues for liquidity but also introducing systemic risks that could amplify financial shocks, according to IMF warnings.

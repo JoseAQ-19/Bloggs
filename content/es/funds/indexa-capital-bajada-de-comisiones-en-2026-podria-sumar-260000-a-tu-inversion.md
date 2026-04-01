@@ -10,7 +10,6 @@ type: "funds"
 language: "es"
 translationKey: "76a11e07-8b6e-8224-9250-cea8fa9c24e9"
 ---
-
 ![Indexa Capital: Bajada de comisiones en 2026 podría sumar 260.000€ a tu inversión.](/images/indexa-capital-bajada-de-comisiones-en-2026-podria-sumar-260000-a-tu-inversion.jpg)
 
 **Indexa Capital: Bajada de comisiones en 2026 podría sumar 260.000€ a tu inversión.**

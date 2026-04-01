@@ -10,7 +10,6 @@ type: "crypto"
 language: "en"
 translationKey: "bfa4a927-4d1f-d6d8-130f-7b4fd6e14fce"
 ---
-
 ![Wisconsin Missed $4M In Staking: Is Lorenzo Cruz Crushing Your Crypto Dreams?](/images/wisconsin-banks-crypto-staking-risks-en.jpg)
 
 Wisconsin's reluctance to embrace crypto staking is less about protecting consumers and more about protecting the established banking cartel.

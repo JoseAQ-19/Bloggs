@@ -10,7 +10,6 @@ type: "tools"
 language: "es"
 translationKey: "58d7759c-5dfd-76ff-c17d-a43679575636"
 ---
-
 ![¡ALERTA! Tu Intel Podría Estar Muriendo Lentamente: La Verdad Sobre El Undervolting Gratis.](/images/analisis-tecnico-overclocking-undervolting-intel.jpg)
 
 La lotería del silicio de Intel es un juego amañado donde la casa se queda con el margen térmico y tú pagas la factura eléctrica de su ineficiencia de diseño.

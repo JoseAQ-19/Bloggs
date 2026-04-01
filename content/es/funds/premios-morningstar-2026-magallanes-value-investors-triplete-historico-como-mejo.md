@@ -10,7 +10,6 @@ type: "funds"
 language: "es"
 translationKey: "e31f181f-24e4-81b5-0279-8c565ed093de"
 ---
-
 ![Premios Morningstar 2026: Magallanes Value Investors, triplete histórico como mejor gestora.](/images/premios-morningstar-2026-magallanes-value-investors-triplete-historico-como-mejo.jpg)
 
 **El 44,1% de los fondos de inversión en España han obtenido un rendimiento negativo en el último año, según Morningstar**. A pesar de este panorama desalentador, algunos fondos han logrado destacarse en la industria. En este artículo, exploraremos los premios Morningstar 2026 y destacaremos a Magallanes Value Investors, que ha logrado un triplete histórico como mejor gestora.

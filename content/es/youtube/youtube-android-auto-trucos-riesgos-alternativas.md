@@ -12,7 +12,6 @@ type: "youtube"
 language: "es"
 translationKey: "4350e38b-5146-3746-9056-ff4bbf30ebe1"
 ---
-
 ![YouTube en Android Auto: 7 Métodos Reales, Sus Riesgos y Lo Que Google No Te Dice](/images/youtube-android-auto-trucos-riesgos-alternativas.jpg)
 
 Google bloquea YouTube en Android Auto por una razón que pocos cuestionan: la [NHTSA estima que 3.522 personas murieron en 2021 por distracciones al volante](https://www.nhtsa.gov/risky-driving/distracted-driving) solo en Estados Unidos. Pero eso no ha frenado a millones de usuarios que buscan maneras de saltarse la restricción.

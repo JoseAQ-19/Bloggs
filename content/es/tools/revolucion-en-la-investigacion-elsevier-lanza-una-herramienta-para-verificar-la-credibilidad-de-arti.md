@@ -10,7 +10,6 @@ type: "tools"
 language: "es"
 translationKey: "feb9186d-f350-04b6-b083-0422eff9283a"
 ---
-
 ## 35 millones de euros en riesgo: Elsevier, el EU AI Act y la crisis de la integridad científica
 
 Elsevier se enfrenta a una posible multa de 35 millones de euros por incumplir el reglamento europeo sobre inteligencia artificial (EU AI Act) debido a la falta de transparencia en sus sistemas de revisión científica. Este incumplimiento expone problemas estructurales que comprometen la integridad de la investigación publicada.

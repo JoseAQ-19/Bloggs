@@ -10,7 +10,6 @@ type: "viral"
 language: "es"
 translationKey: "30a88523-31e2-55e1-6fd3-7df900ddaa26"
 ---
-
 ![Sofía Contra Alcaraz: El Incómodo Encuentro En Miami Que Casa Real No Quería Que Vieras](/images/reina-sofia-alcaraz-polemica-miami.jpg)
 
 El encuentro entre la Reina Sofía y Carlos Alcaraz en Miami generó 280,000 vistas en Casa Real en menos de 24 horas, desatando un análisis frenético de cada gesto. 

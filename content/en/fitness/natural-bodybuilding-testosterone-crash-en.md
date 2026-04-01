@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "8e7eb7fa-a881-2192-74c5-7b68c468db07"
 ---
-
 ![Bodybuilding's Dark Secret: Natural Prep Sends Testosterone PLUMMETING, Experts Warn](/images/natural-bodybuilding-testosterone-crash-en.jpg)
 
 "Natural" bodybuilding is less about health and more about suffering for stage aesthetics, and the post-competition crash is harsher than most will admit.

@@ -10,7 +10,6 @@ type: "funds"
 language: "es"
 translationKey: "e463a558-2e6b-c136-434c-13173623b27c"
 ---
-
 ![Oro en la Eurozona: 5 ETFs 'Large Cap' superan el 12% anual](/images/oro-en-la-eurozona-5-etfs-large-cap-superan-el-12-anual.jpg)
 
 **La Eurozona brilla con un 12,3% de crecimiento anual en fondos de inversión**

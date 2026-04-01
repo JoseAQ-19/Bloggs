@@ -10,7 +10,6 @@ type: "crypto"
 language: "en"
 translationKey: "fe39cd22-cf2a-9cdb-6915-21dcdeb2870b"
 ---
-
 ![98 Billion Dollars: The Shocking Decline of DeFi TVL and Its Consequences](/images/cryptos-devotees-fight-for-respect-in-a-skeptical-world-en.jpg)
 
 Total Value Locked (TVL) in decentralized finance has collapsed by $72 billion since late 2025, shattering the illusion of endless yield and exposing the sector's structural fragility.

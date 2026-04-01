@@ -10,7 +10,6 @@ type: "ia"
 language: "en"
 translationKey: "67fa511d-27dd-36ea-cfd7-87c7a6410262"
 ---
-
 ![90% Of AI Projects Will Fail: VC's $258 Billion Disaster Waiting To Happen](/images/ai-venture-capital-returns-en.jpg)
 
 The AI gold rush is about to become the AI graveyard. Nearly $259 billion in venture capital poured into AI startups in 2025, yet 90% of those projects will fail before 2026, according to multiple industry analyses. This isn't a market correction—it's a systematic failure of due diligence in Silicon Valley.

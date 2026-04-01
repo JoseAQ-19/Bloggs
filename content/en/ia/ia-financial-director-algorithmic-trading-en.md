@@ -10,7 +10,6 @@ type: "ia"
 language: "en"
 translationKey: "3b5672fe-a8d1-b4b4-6aa4-c42f4b79f6af"
 ---
-
 ![iA Financial: $23 Million Insider Sale, Or Genius AI Play?](/images/ia-financial-director-algorithmic-trading-en.jpg)
 
 The $23.8 million share sale by iA Financial insiders isn't just a routine financial maneuver—it's a neon flashing sign that something beneath the surface may be rotten.

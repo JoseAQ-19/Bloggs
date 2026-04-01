@@ -10,7 +10,6 @@ type: "viral"
 language: "en"
 translationKey: "b6cce30d-8dda-0704-1c2b-87c8091f52b3"
 ---
-
 ![Barbara Han's 90% Accurate Pandemic Model: Why You Should Fear The Midwest](/images/predicting-next-pandemic-en.jpg)
 
 Barbara Han's Rodent Risk Model: The $120 Billion Blind Spot Hitting Heartland Supply Chains.

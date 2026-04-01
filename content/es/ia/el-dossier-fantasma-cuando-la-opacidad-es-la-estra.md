@@ -13,7 +13,6 @@ translationKey: el-futuro-no-te-gustara-verdades-incomodas-de-2026
 type: ia
 remastered: true
 ---
-
 El clamor por una "transformación" en México suena hueco cuando las arcas públicas siguen sangrando por el mismo cáncer de siempre: la corrupción descarada orquestada por empresas fantasma. No son simples errores administrativos; son instrumentos deliberados de saqueo. La opacidad no es un fallo, es la característica principal.
 
 ## La Farsa a la Luz: Radiografía del Fraude Institucionalizado

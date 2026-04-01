@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "de385bd9-798e-859f-7964-8eac49913d3c"
 ---
-
 ![YouTube's Dirty Secret: Hate Speech Algorithm Targets 'Jeopardy!' Host After 4,000 Watch Hours.](/images/youtube-jeopardy-podcast-demonetization-hate-speech-en.jpg)
 
 YouTube's content moderation system is a high-stakes gamble for creators, where the promise of monetization clashes with the ever-present threat of algorithmic demonetization.

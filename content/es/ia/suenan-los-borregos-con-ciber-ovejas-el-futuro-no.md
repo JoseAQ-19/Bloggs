@@ -13,7 +13,6 @@ translationKey: donde-estan-mis-coches-voladores-la-estafa-futuris
 type: ia
 remastered: true
 ---
-
 ¿Sueñan los Borregos con Ciber-Ovejas? Un Absurdo Distractor de la Verdadera Amenaza Tecnológica.
 
 La obsesión por replicar la conciencia humana en silicio es una cortina de humo. Mientras académicos y gurús de la tecnología se masturban intelectualmente con la idea de "IA consciente", la verdadera amenaza – el uso descontrolado y antiético de la IA existente – se cierne sobre nosotros. Philip K. Dick estaría horrorizado no por la posibilidad de androides soñadores, sino por la facilidad con la que las corporaciones y gobiernos están utilizando algoritmos opacos para manipular y controlar a la población.

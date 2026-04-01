@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "4235a925-1351-be60-2ee1-05739a35b129"
 ---
-
 ![Fitness M&A: Jeremy Hirsch Predicts Biggest Year Ever In 2025](/images/fitness-ma-boom-2025-en.jpg)
 
 The narrative of a post-pandemic fitness recovery is a convenient lie told to mask a brutal market consolidation; the industry is not healing, it is being cannibalized by private equity firms betting on the "experience economy" while loading gym chains with debt.

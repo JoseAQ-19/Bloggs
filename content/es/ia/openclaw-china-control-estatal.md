@@ -10,7 +10,6 @@ type: "ia"
 language: "es"
 translationKey: "a364661e-6dcb-4051-02c5-3ede667ea4cc"
 ---
-
 ![OpenClaw: ¿Por Qué El Partido Comunista Está Aterrorizado Por 183 Millones de Usuarios?](/images/openclaw-china-control-estatal.jpg)
 
 El auge de OpenClaw en China no es una revolución tecnológica, sino una potencial camisa de fuerza digital disfrazada de innovación. La preocupación del Partido Comunista Chino (PCCh) por sus 183 millones de usuarios potenciales menores de edad no es paranoia, sino una jugada estratégica en su tablero de control social.

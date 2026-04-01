@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "bd77d130-636e-9c84-8d58-40c30db61a47"
 ---
-
 ---
 title: RE VC Adds Siderow as Senior Advisor; Targeting 15% Growth in Real Estate Tech
 date: 2024-04-26T12:00:00-04:00

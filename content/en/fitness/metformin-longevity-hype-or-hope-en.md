@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "24880993-08bb-8772-f566-097f086fdbd1"
 ---
-
 ![Metformin Extends Life By 5%... In Mice. Here's Why Your Doctor Is Skeptical](/images/metformin-longevity-hype-or-hope-en.jpg)
 
 The dream of extending human lifespan with a simple pill continues to entice researchers and investors, but the reality is proving complex. Metformin's potential is being tested, but lifestyle changes and alternative strategies are also under consideration.

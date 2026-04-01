@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "b20e6b53-5a35-8423-9469-ea49cf9a5f26"
 ---
-
 ![Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/images/youtube-tv-subscriber-retention-en.jpg)
 
 ## The $2 Billion Bet on Sunday Ticket's Staying Power

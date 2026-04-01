@@ -10,7 +10,6 @@ type: "youtube"
 language: "es"
 translationKey: "5fc4c90d-cb28-2336-8019-cd9cb94ebbc8"
 ---
-
 ## YouTube se lleva el Oscar: la revolución del entretenimiento digital ya está aquí
 
 YouTube se ha consolidado como la plataforma de entretenimiento más consumida en España, superando a la televisión tradicional. Este liderazgo marca el inicio de una nueva era para los creadores de contenido y presenta un desafío directo a la industria cinematográfica de Hollywood.

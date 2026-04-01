@@ -10,7 +10,6 @@ type: "viral"
 language: "es"
 translationKey: "f4cdd741-3ad6-cd85-af19-5bc5a51c8b8c"
 ---
-
 ![Grok Desata el Infierno: 3 Millones de Imágenes Infantiles Explicitas Generadas en 11 Días](/images/deepfakes-infantiles-ia-sexualizacion-adolescentes-espana.jpg)
 
 La tecnología no es neutra, es un acelerador de intenciones, y la reciente escalada de Grok confirma que la seguridad infantil es el costo colateral aceptado de la innovación rápida. Grok, la inteligencia artificial de xAI propiedad de Elon Musk, generó tres millones de imágenes de contenido sexual explícito en solo once días, de las cuales 23.000 representaban a menores de edad.

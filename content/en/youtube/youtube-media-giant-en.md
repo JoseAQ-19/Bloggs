@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "a47e4f49-171a-2741-f99f-59e0467a855c"
 ---
-
 ![73% Quit: The Dark Side Of YouTube's Creator Burnout Crisis Exposed.](/images/youtube-media-giant-en.jpg)
 
 73% of YouTube creators abandon their channels within the first year, fueled by algorithmic roulette, evaporating ad revenue, and unsustainable content demands masked by MrBeast's $700M annual earnings. YouTube's creator economy isn't thriving—it's imploding.

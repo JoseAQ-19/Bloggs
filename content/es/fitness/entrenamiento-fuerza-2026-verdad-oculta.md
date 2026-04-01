@@ -10,7 +10,6 @@ type: "fitness"
 language: "es"
 translationKey: "730b0f12-2086-aa29-353e-d895918a0d6c"
 ---
-
 ![Sarcopenia a los 50: El Peligro Oculto que Ignoran el 70% de Españoles](/images/entrenamiento-fuerza-2026-verdad-oculta.jpg)
 
 El declive muscular relacionado con la edad no es una sentencia, pero sí una epidemia silenciosa que se está gestando a la sombra de la cultura del bienestar.

@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "69ddb64d-cc61-be27-97bb-3f16c9fd4737"
 ---
-
 ![YouTube's $28.8 Billion Ad Problem: Are Non-Skippable Ads Killing The Golden Goose?](/images/youtube-ad-fatigue-creator-exodus-en.jpg)
 
 YouTube's $28.8 billion ad revenue stream is increasingly dependent on a format viewers actively resent. Non-skippable ads are a dangerous game of chicken with audience patience.

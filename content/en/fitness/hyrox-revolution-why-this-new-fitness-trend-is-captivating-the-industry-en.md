@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "cb50a470-2e94-38c7-320d-7854008afbe8"
 ---
-
 ![The Shocking Injury Rates in Hyrox That Every Fitness Buff Needs to Know](/images/hyrox-revolution-why-this-new-fitness-trend-is-captivating-the-industry-en.jpg)
 
 **One in three Hyrox athletes will suffer a shoulder injury, with 25-30% of all injuries affecting the shoulder region**. Hyrox, a high-intensity functional fitness competition, combines running with exercise stations, resulting in a unique set of injury risks. Despite the growing popularity of Hyrox, many athletes are unaware of the potential dangers associated with this demanding sport. 

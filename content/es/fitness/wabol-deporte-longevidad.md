@@ -10,7 +10,6 @@ type: "fitness"
 language: "es"
 translationKey: "1af241f1-fde4-4831-ccf4-6e3fc195d782"
 ---
-
 ![Wabol: ¿El Secreto Para Vivir 5 Años Más Sin Pisar el Gimnasio?](/images/wabol-deporte-longevidad.jpg)
 
 Las promesas de salud eterna vendidas por la industria del fitness son tan comunes como decepcionantes.

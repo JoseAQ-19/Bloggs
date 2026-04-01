@@ -10,7 +10,6 @@ type: "youtube"
 language: "es"
 translationKey: "31b629aa-8272-a9a4-f039-acf2a7c8a0e4"
 ---
-
 ![Rosalía, Déjalo: La Campaña Anti-Tabaco Que Avergonzará A La Industria Del Vapeo.](/images/rosalia-tabaco-campana-viral.jpg)
 
 La cruzada contra el vapeo juvenil necesita más que un hashtag llamativo para revertir una tendencia peligrosa. La campaña "Rosalía, déjalo", aunque bienintencionada, corre el riesgo de ser una solución superficial a un problema profundamente arraigado.

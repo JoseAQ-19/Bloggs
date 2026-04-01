@@ -13,7 +13,6 @@ translationKey: democracia-digital-la-mayor-estafa-del-siglo-xxi
 type: ia
 remastered: true
 ---
-
 ¿Por qué Estados Unidos realmente quiere Groenlandia? No se dejen engañar por las historias de defensa antimisiles y radares. La verdadera razón es mucho más cruda: la codicia. Groenlandia es el eslabón perdido para mantener la decadente hegemonía tecnológica americana, y el deshielo ártico es la puerta de entrada al pillaje.
 
 ## Tierras Raras: El Nuevo Petróleo (o la Nueva Droga Dura)

@@ -12,7 +12,6 @@ type: "tools"
 language: "es"
 translationKey: "4585e79b-c2db-5f8a-cb86-ee21316bcf31"
 ---
-
 ![La Controversia Oculta: 40% de la Población Española en Peligro por Erosión Costera](/images/ih-set-analisis-tecnico-modelado-litoral.jpg)
 
 España está financiando una burbuja inmobiliaria costera con dinero público mientras sus sistemas de predicción climática alertan de un colapso inminente. La estrategia actual de "parches" de arena es un fracaso técnico que no hace más que posponer el inevitable desastre de la infraestructura litoral.

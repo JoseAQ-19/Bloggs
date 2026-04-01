@@ -14,7 +14,6 @@ remastered: true
 
 translationKey: "4c576dfd-1528-a41e-845d-7df978d500bf"
 ---
-
 El Metaverso ha Muerto: ¿Quién se Queda con los Huesos?
 
 La idea del metaverso, esa quimera tecno-capitalista que prometía una revolución virtual, no solo está herida de muerte: ¡está oficialmente en estado de putrefacción! Los cantos de sirena sobre mundos inmersivos y la promesa de una nueva era de interacción digital han chocado brutalmente contra el muro de la realidad. Mientras la inteligencia artificial se eleva como un titán, el metaverso, inflado artificialmente por el cambio de nombre de Facebook a Meta, se desinfla con un estruendo ensordecedor. ¿Y quiénes son los buitres que ahora revolotean sobre los restos de este cadáver digital?

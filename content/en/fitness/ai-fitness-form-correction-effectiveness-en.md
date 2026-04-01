@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "ed295f56-bfa8-5ea0-bde1-e6b7351ebc64"
 ---
-
 ![AI Fitness Mirrors Spark 170% Injury Spike: Are They Worth The Risk?](/images/ai-fitness-form-correction-effectiveness-en.jpg)
 
 Without question, AI fitness mirrors promise personalized workouts, but the escalating injury rates suggest a dangerous trade-off.

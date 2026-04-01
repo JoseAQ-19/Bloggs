@@ -12,7 +12,6 @@ type: "fitness"
 language: "en"
 translationKey: "df79ed99-3573-7054-0277-94e2572a6b79"
 ---
-
 ![60 Amazon Fitness Deals That Will Transform Your Wellness Journey Today](/images/amazon-fitness-deals-en.jpg)
 
 The wearable fitness industry is a $51 billion bubble built on the premise that counting steps equates to health, yet the data suggests we are just counting our way to nowhere.

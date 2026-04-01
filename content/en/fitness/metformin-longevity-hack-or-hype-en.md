@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "281d66bf-3f79-0189-49c3-c7b4f52c319b"
 ---
-
 ![Metformin's Dirty Secret: Diarrhea, Disappointment, and Dubious Benefits.](/images/metformin-longevity-hack-or-hype-en.jpg)
 
 Metformin, a common treatment for Polycystic Ovary Syndrome (PCOS), is not a perfect solution due to frequent side effects and limited efficacy. The COMET-PCOS trial highlights these shortcomings.

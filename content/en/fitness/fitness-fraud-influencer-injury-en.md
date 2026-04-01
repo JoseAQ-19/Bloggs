@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "2bb3862d-0754-085b-1910-9afc72c2c33c"
 ---
-
 ![$278 Billion Fitness Lie: How Injury Influencers Are Ripping You Off](/images/fitness-fraud-influencer-injury-en.jpg)
 
 Without question, the fitness industry, slated to reach $278 billion by 2026, harbors injury influencers who prioritize profit over well-being through dubious tactics.

@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "c80cb270-8cc5-1778-702a-be1b5d5a10a9"
 ---
-
 ![Wall Street Bets Big On Recovery: Home Gyms To Explode To $22.5 Billion By 2034](/images/home-gyms-recovery-zones-en.jpg)
 
 The home gym market's explosive growth might be less about genuine health and more about Wall Street cashing in on anxieties.

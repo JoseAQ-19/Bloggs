@@ -10,7 +10,6 @@ type: "ia"
 language: "es"
 translationKey: "dd01c257-10ce-f8f0-d00e-c9fdd2c17daf"
 ---
-
 ![Cádiz al Borde: ¿Serán 155 Algoritmos de IA los Amos de Tu Salud?](/images/hospitales-futuro-cadiz-ia-robotica-genomica.jpg)
 
 El Sistema Nacional de Salud ha identificado 155 algoritmos de Inteligencia Artificial operando actualmente en sus estructuras, una cifra que suena a progreso tecnológico pero que en realidad es una lotería medicalizada sin auditoría clara.

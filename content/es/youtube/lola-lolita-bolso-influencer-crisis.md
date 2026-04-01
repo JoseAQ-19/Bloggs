@@ -10,7 +10,6 @@ type: "youtube"
 language: "es"
 translationKey: "780a6e42-92e4-b702-a7e1-89bcc1212700"
 ---
-
 ![Lola Lolita Pide Perdón, pero los Microinfluencers Ganan la Guerra](/images/lola-lolita-bolso-influencer-crisis.jpg)
 
 La imagen de Lola Lolita rodeada de lujos en "21 días entre millonarios" ha resonado como un campanazo fúnebre para la ostentación en redes. ¿Estamos ante el principio del fin de los influencers que muestran una vida inalcanzable?

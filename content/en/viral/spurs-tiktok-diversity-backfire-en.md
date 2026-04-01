@@ -10,7 +10,6 @@ type: "viral"
 language: "en"
 translationKey: "c9934807-5152-206f-5590-c30f8714eead"
 ---
-
 ![Spurs Blunder: 60% Of Latino Fans On Facebook, DEI Backlash Explodes](/images/spurs-tiktok-diversity-backfire-en.jpg)
 
 The San Antonio Spurs think ChatGPT and theme nights will solve inclusion, but the algorithm they worship is actively radicalizing the very fans they claim to serve.

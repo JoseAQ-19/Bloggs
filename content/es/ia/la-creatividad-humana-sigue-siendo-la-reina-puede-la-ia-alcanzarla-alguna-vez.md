@@ -12,7 +12,6 @@ type: "ia"
 language: "es"
 translationKey: "3a40895e-f52b-fb66-1648-a252a792beff"
 ---
-
 ![La IA Puede Amenazar Hasta 24% de los Ingresos de Artistas en 2028](/images/la-creatividad-humana-sigue-siendo-la-reina-puede-la-ia-alcanzarla-alguna-vez.jpg)
 
 La IA generativa no es una herramienta creativa, es una máquina de desvalorización laboral disfrazada de musa digital que está a punto de liquidar la clase media artística.

@@ -10,7 +10,6 @@ type: "crypto"
 language: "en"
 translationKey: "ccd07e2d-63f3-f226-8b64-7b25e7caabb7"
 ---
-
 ![$90K Bitcoin Target: Options Traders Ignore $4.5B ETF Outflow Red Flags](/images/bitcoin-90k-options-rebound-en.jpg)
 
 Despite bullish price targets, Bitcoin options traders are ignoring the growing disconnect between ETF outflows and underlying market sentiment, setting a potential trap for unwary bulls.

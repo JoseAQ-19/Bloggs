@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "7f76c0dd-83f6-12b0-9a13-9f8b3041f56e"
 ---
-
 ![Morningstar Thailand 2026 Awards: Fund X's 15% Lead Over Its Peer Group](/images/morningstar-thailand-2026-awards-fund-xs-15-lead-over-its-peer-group-en.jpg)
 
 **$1.3 trillion in assets under management (AUM) is the staggering figure that the top 10 mutual fund managers in Thailand have amassed, with Fund X leading the pack with a 15% lead over its peer group in the past year alone**.

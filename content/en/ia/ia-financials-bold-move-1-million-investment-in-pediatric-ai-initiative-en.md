@@ -10,7 +10,6 @@ type: "ia"
 language: "en"
 translationKey: "2a09af47-243d-645e-6ce0-fb89448d638c"
 ---
-
 ![The Shocking $1 Million Pediatric AI Bet That Could Change Healthcare Forever](/images/ia-financials-bold-move-1-million-investment-in-pediatric-ai-initiative-en.jpg)
 
 Silicon Valley is finally monetizing the cradle, betting billions on algorithms that don't know the difference between a toddler and a miniature adult. Wall Street is foaming at the mouth over the projected $7.25 billion pediatric AI market, yet the foundational data backing these trillion-dollar valuations is statistically thinner than air.

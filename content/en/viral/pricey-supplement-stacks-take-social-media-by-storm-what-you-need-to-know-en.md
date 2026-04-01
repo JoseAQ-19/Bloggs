@@ -10,7 +10,6 @@ type: "viral"
 language: "en"
 translationKey: "a910e409-c46b-05ec-a2de-d0405f7225b4"
 ---
-
 ![The Hidden Risks Behind 2024’s $15.67 Billion Nootropic Market Boom](/images/pricey-supplement-stacks-take-social-media-by-storm-what-you-need-to-know-en.jpg)
 
 The nootropics market is booming, set to reach an astonishing USD 56.97 billion by 2035, raising alarm bells about the safety and efficacy of these cognitive-enhancing supplements. 

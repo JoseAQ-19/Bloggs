@@ -10,7 +10,6 @@ type: "fitness"
 language: "es"
 translationKey: "f47760bd-387b-be68-765d-8b2f4ae5a7ad"
 ---
-
 ![Salomon Ultra Pirineu: ¿Héroes Ecológicos o Contaminación Disfrazada? Los Datos Revelan](/images/running-solidario-impacto-ambiental.jpg)
 
 La industria de las carreras de montaña vende una fantasía de conexión con la naturaleza mientras, irónicamente, deja una huella ecológica que requiere semanas de descontaminación y toneladas de logística contaminante. Los corredores compran la ilusión de ser "héroes ecológicos" simplemente porque corren entre árboles, ignorando que su mera presencia en masa es un acto de agresión logística contra el ecosistema que pretenden amar.

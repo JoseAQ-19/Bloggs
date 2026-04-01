@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "067325ab-a021-1657-4fe7-c6cc6186cca4"
 ---
-
 ![YouTube's Algorithm Recommended 71% Harmful Videos: Teen Mental Health Trial Begins](/images/meta-youtube-teen-mental-health-liability-en.jpg)
 
 The business model of social media relies on maximizing retention, and a new federal trial alleges that YouTube specifically monetized teen depression by algorithmically serving harmful content to keep eyes on the screen. This litigation threatens to shatter the liability shield that has protected Big Tech for decades, potentially reclassifying recommendation engines as defective products rather than neutral platforms.

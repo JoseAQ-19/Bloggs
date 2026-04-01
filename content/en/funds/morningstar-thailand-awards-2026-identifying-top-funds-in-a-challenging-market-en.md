@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "d512ecfa-bd8a-816f-4018-5ddfb4289dc2"
 ---
-
 ![Morningstar Thailand Awards 2026: Identifying Top Funds in a Challenging Market](/images/morningstar-thailand-awards-2026-identifying-top-funds-in-a-challenging-market-en.jpg)
 
 **$1.4 billion in assets under management (AUM) were awarded to the top-performing mutual funds in Thailand at the Morningstar Awards for Investing Excellence Thailand 2026.**

@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "622ec0ab-fb7c-8fc0-f83e-f0abfa7f07dd"
 ---
-
 ![Fitbit Lawsuits Exposed: Smart Clothing Fixes Heart Rate Monitoring NIGHTMARE](/images/smart-clothing-movement-tracking-en.jpg)
 
 Wearable health data is more often marketing than medicine.

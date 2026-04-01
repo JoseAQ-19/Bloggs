@@ -10,7 +10,6 @@ type: "crypto"
 language: "es"
 translationKey: "b19abace-e5ab-21cb-e9be-f3709081c6c2"
 ---
-
 ![Bitcoin a $74.500: La Bomba Macroeconómica Que BBVA No Quiere Que Sepas](/images/fin-mercado-bajista-bitcoin-recuperacion-74500.jpg)
 
 Bitcoin a $74.500 después del halving de 2024: una euforia que podría ocultar una trampa.

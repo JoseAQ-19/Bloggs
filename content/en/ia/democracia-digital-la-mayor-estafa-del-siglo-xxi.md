@@ -12,7 +12,6 @@ title: 'Digital Democracy? The Biggest Scam of the 21st Century'
 translationKey: democracia-digital-la-mayor-estafa-del-siglo-xxi
 type: ia
 ---
-
 The promise of the internet was revolutionary: a globally interconnected public square where ideas could clash, coalesce, and ultimately shape a more informed and representative democracy. But what if this digital agora has been subtly, then not-so-subtly, hijacked? The notion of a thriving digital democracy is increasingly under scrutiny, replaced by a growing unease that we're witnessing the greatest con of the 21st century: the colonization of our minds through algorithms, the synthetic creation of public opinion, and the insidious erosion of genuine democratic processes.
 
 ## The Algorithmic Land Grab: How We Lost Control of the Narrative

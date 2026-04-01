@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "959a7b30-c2f9-38e0-94c6-ad148a71347f"
 ---
-
 ![Bodybuilding's Deadly Secret: Why Ronnie Coleman Wants Diuretics Banned NOW](/images/natural-bodybuilding-contest-prep-dangers-en.jpg)
 
 Without question, diuretics are significantly more dangerous than steroids in bodybuilding.

@@ -12,7 +12,6 @@ type: "tools"
 language: "en"
 translationKey: "bfebf76c-38e7-d713-68c8-c8ce942882f0"
 ---
-
 ![60% of Federal Judges Use AI Tools, But Bias Still Thrives in Courtrooms](/images/ai-bias-federal-judges-tech-shift-en.jpg)
 
 The integration of AI into the federal judiciary is less a technological revolution and more a dangerous experiment in automated bias.

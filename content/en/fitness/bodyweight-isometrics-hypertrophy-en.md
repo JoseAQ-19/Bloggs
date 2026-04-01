@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "2aae7400-a91f-4573-78b0-1a69110e5e00"
 ---
-
 ![Forget Weights: Xponential Fitness Doesn't Want You To Know This Hypertrophy Hack.](/images/bodyweight-isometrics-hypertrophy-en.jpg)
 
 Xponential Fitness’s growth trajectory may be overlooking a readily available and inexpensive hypertrophy method, potentially stalling gains for its members.

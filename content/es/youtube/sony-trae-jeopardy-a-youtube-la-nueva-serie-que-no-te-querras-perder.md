@@ -12,7 +12,6 @@ type: "youtube"
 language: "es"
 translationKey: "a2c0f1a1-d975-6853-0521-da02a0f65fe9"
 ---
-
 ![Sony Presenta 'Jeopardy!' en YouTube: La Estrategia Que Cambia Todo en Concursos Online](/images/sony-trae-jeopardy-a-youtube-la-nueva-serie-que-no-te-querras-perder.jpg)
 
 Sony Pictures Television intenta resucitar un cadáver televisivo inyectándole esteroides de YouTube con *Jeopardy! YouTube Edition*, pero las cifras de audiencia en España sugieren que el paciente ya está en coma irreversible.

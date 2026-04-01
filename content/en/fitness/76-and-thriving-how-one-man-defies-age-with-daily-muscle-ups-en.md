@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "c951aaf8-5503-e3e0-2d1f-d479607aaa7e"
 ---
-
 ![76 And Thriving: One Man's Daily Muscle-Ups Defy Aging Myths](/images/76-and-thriving-how-one-man-defies-age-with-daily-muscle-ups-en.jpg)
 
 * Global longevity economy projected to exceed $27 trillion by 2026, dwarfing the entire fitness industry — **Bloomberg Economics**.

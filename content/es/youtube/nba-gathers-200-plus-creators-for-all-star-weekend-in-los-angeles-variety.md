@@ -2,9 +2,7 @@
 categories:
 - youtube
 date: 2026-02-13 16:02:14
-description: 'La NBA redobla su apuesta por los creadores de contenido: más de 200
-influencers participarán activamente en el All-Star Weekend 2026 en Los Ángeles.
-El objetiv...'
+description: "La NBA redobla su apuesta por los creadores de contenido: más de 200 influencers participarán activamente en el All-Star Weekend 2026 en Los Ángeles. El objetiv..."
 draft: false
 featured_image: /images/nba-gathers-200-plus-creators-for-all-star-weekend.jpg
 language: es
@@ -19,7 +17,6 @@ title: La NBA Reúne a Más de 200 Creadores en el All-Star Weekend de Los Ánge
 translationKey: nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety
 type: youtube
 ---
-
 ## El All-Star Weekend 2026: La Estrategia de Contenido de la NBA Redefine el Engagement Digital
 
 La NBA está transformando radicalmente su estrategia de engagement para el All-Star Weekend 2026 en Los Ángeles, integrando a más de 200 creadores de contenido globales para amplificar su alcance y conectar con audiencias jóvenes en un panorama mediático fragmentado. Esta iniciativa representa una redefinición audaz de la distribución de contenido deportivo, moviéndose más allá de la cobertura tradicional para capitalizar el ecosistema de la economía del creador.

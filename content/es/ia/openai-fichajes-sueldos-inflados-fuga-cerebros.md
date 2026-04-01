@@ -10,7 +10,6 @@ type: "ia"
 language: "es"
 translationKey: "63630180-555e-c3b8-d347-bb25299b023c"
 ---
-
 ![OpenAI Desangra España: 12 Fichajes Diarios Y Talento Español En Peligro](/images/openai-fichajes-sueldos-inflados-fuga-cerebros.jpg)
 
 OpenAI no está reclutando en España, está practicando una pesca de arrastre industrial que amenaza con dejar el ecosistema tecnológico nacional como un desierto de talento. La narrativa oficial de "impulsar la innovación" es una cortina de humo para lo que realmente es: una operación de extractivismo cognitivo sin precedentes, donde el capital extranjero se lleva los cerebros mejor formados a cambio de salarios que, aunque altos, son una miseria comparados con el valor que esos ingenieros generarán para los accionistas de San Francisco.

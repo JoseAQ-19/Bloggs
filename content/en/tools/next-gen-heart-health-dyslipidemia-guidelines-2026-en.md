@@ -10,7 +10,6 @@ type: "tools"
 language: "en"
 translationKey: "9bb4157a-170e-de13-61e8-2a192617eb11"
 ---
-
 ![Statin MYOPATHY Cover-Up? The 2026 Guidelines Doctors Aren't Telling You About](/images/next-gen-heart-health-dyslipidemia-guidelines-2026-en.jpg)
 
 The medical establishment is deploying a controversial risk engine update in the form of the 2026 Dyslipidemia Guidelines, effectively lowering the threshold for mass medication while simultaneously gaslighting patients over documented side effects. This aggressive protocol shift targets LDL-C levels previously deemed unattainable without pharmaceutical intervention, yet the underlying architecture relies on risk calculators that many clinicians consider fundamentally flawed.

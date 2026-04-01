@@ -10,7 +10,6 @@ type: "ia"
 language: "es"
 translationKey: "22e26681-7e53-233b-4ff5-63cef03b85ae"
 ---
-
 ![Defensa Ciega: 250 Documentos Bastan Para Doblegar la IA Militar Española.](/images/ia-arma-armagedon-algoritmico-ceguera-militar.jpg)
 
 **250 documentos maliciosos bastan para paralizar el escudo de IA militar española.** La estrategia defensiva española se basa en una vulnerabilidad fundamental: un ataque de envenenamiento de datos a gran escala podría anular décadas de inversión tecnológica con un coste marginal para el atacante. 

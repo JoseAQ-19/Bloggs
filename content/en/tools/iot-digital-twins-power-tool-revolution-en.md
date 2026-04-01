@@ -10,7 +10,6 @@ type: "tools"
 language: "en"
 translationKey: "790ae3dc-6fa2-94cf-1d27-9c24e216709d"
 ---
-
 ![$125,000/Hour: Is Your Jobsite Bleeding Cash Thanks To Dumb Power Tools?](/images/iot-digital-twins-power-tool-revolution-en.jpg)
 
 The myth of flawlessly running construction sites is costing firms dearly. Unplanned downtime bleeds cash at an alarming rate, especially when power tools fail.

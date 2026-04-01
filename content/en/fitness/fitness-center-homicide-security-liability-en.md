@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "ce97c8a6-1777-5a7b-979b-2c8abd21a1e1"
 ---
-
 ![Dr. JES Warns: Your Gym Waiver Won't Save You From Gross Negligence After Homicide](/images/fitness-center-homicide-security-liability-en.jpg)
 
 * Gym waivers are legally ineffective against gross negligence claims after homicide, as demonstrated by Dr. JoAnn Eickhoff-Shemek's analysis of fitness center liability cases across 42 states with varying waiver enforceability.

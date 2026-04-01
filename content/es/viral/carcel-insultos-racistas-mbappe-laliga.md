@@ -10,7 +10,6 @@ type: "viral"
 language: "es"
 translationKey: "ab9341dc-b731-8cc7-e7b7-82c288f1863e"
 ---
-
 ![Mbappé Víctima: Fiscalía Pide Un Año de Cárcel Por Insultos Racistas en España](/images/carcel-insultos-racistas-mbappe-laliga.jpg)
 
 Ante la reiteración de casos de racismo en los estadios, la pregunta ya no es si existe un problema, sino si LaLiga tiene la voluntad real de solucionarlo.

@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "f51c48eb-b8e5-17a1-8ea9-126ac31ff32d"
 ---
-
 ![Mutual Fund Fees Stick Near Historic Lows: A 2025 Analysis](/images/mutual-fund-fees-stick-near-historic-lows-a-2025-analysis-en.jpg)
 
 **71% of mutual funds maintained their fees at historic lows in 2025**, according to a recent Morningstar report **1**. 

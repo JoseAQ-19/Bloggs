@@ -14,7 +14,6 @@ remastered: true
 
 translationKey: "6bfcadf8-6e2a-1de1-257b-35141262d9f5"
 ---
-
 El metaverso: de burbuja especulativa a herramienta industrial... ¿pero realmente útil?
 
 La grandilocuencia inicial sobre el metaverso como la próxima gran revolución de internet se ha estrellado contra un muro de decepción. La visión de un mundo virtual inmersivo, promovida con fervor casi religioso por Mark Zuckerberg, ha demostrado ser más una quimera costosa que una realidad tangible. Pero, ¿está realmente muerto este concepto? La respuesta, como casi siempre, es más compleja... y mucho menos prometedora de lo que quieren hacernos creer.

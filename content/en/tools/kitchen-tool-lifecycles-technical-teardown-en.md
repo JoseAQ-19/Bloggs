@@ -10,7 +10,6 @@ type: "tools"
 language: "en"
 translationKey: "a39a4ab8-a76b-5c06-b882-e50f5f18c117"
 ---
-
 ![$380 Billion Kitchen Nightmare: Your Durable Appliance Is A Planned Scam](/images/kitchen-tool-lifecycles-technical-teardown-en.jpg)
 
 We've been systematically scammed into believing our "durable" kitchen appliances are built to last. The global kitchen appliance market is projected to reach USD 380.9 billion by 2034, yet this growth is fueled not by longevity, but by a carefully engineered cycle of planned obsolescence that traps consumers in a costly, wasteful replacement loop.

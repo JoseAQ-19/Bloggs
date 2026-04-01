@@ -10,7 +10,6 @@ type: "funds"
 language: "es"
 translationKey: "be6690c8-30a4-e434-fc1a-e8496b2159e5"
 ---
-
 ![Dividendo 2026: 3 Estrategias para No Caer en la Trampa, Según Morningstar](/images/dividendo-2026-3-estrategias-para-no-caer-en-la-trampa-segun-morningstar.jpg)
 
 Dividendo 2026: 3 Estrategias para No Caer en la Trampa, Según Morningstar

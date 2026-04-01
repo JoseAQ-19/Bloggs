@@ -10,7 +10,6 @@ type: "viral"
 language: "en"
 translationKey: "d658e141-bfbb-f534-4faf-f4a1a6c921d4"
 ---
-
 ![The Shocking Truth: How One 75-Year-Old TV Moment Fueled America’s Mafia Obsession](/images/how-a-75-year-old-tv-moment-sparked-americas-mafia-obsession-en.jpg)
 
 The myth that the glamorization of organized crime in media is harmless is a dangerous illusion. While films like *The Godfather* are often celebrated as cinematic masterpieces, their impact on American culture and perceptions of the Mafia reveals a more troubling narrative. As the 75-year legacy of this influential film unfolds, it becomes clear that the line between entertainment and reality is increasingly blurred.

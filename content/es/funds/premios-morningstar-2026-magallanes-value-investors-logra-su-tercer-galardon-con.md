@@ -10,7 +10,6 @@ type: "funds"
 language: "es"
 translationKey: "2572750c-a023-4931-c9a4-75fe20109423"
 ---
-
 ![Premios Morningstar 2026: Magallanes Value Investors logra su tercer galardón consecutivo.](/images/premios-morningstar-2026-magallanes-value-investors-logra-su-tercer-galardon-con.jpg)
 
 **El 87,5% de los fondos de inversión españoles no lograron superar el rendimiento del Ibex 35 en 2025**. se presentan algunos datos financieros relevantes de los fondos de inversión españoles en 2025:

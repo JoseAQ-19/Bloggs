@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "88c9b06d-0f97-4592-bf2a-9a5f5ad8ebbb"
 ---
-
 ![VO2 Max Plateau Myth: Your Genetic Limit is Likely Just Bad Protocol](/images/vo2max-plateau-bad-protocol-en.jpg)
 
 I used to chase the VO2 max dragon, convinced that mythical "plateau" was the gateway to unlocking peak performance. Hours spent gasping on treadmills, willing my lungs to defy their genetic destiny. Turns out, I was likely just a victim of bad science and worse protocols.

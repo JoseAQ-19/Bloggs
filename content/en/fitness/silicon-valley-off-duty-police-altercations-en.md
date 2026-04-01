@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "a8147864-5378-73b3-1283-8b83a0aad6ea"
 ---
-
 ![Off-Duty Bloodshed: Why Black Men Are 39% Of Off-Duty Police Killings](/images/silicon-valley-off-duty-police-altercations-en.jpg)
 
 The myth that an off-duty police officer ceases to be a representative of the law is dangerously naive, particularly when considering the disproportionate impact on specific communities.

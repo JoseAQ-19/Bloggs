@@ -10,7 +10,6 @@ type: "ia"
 language: "es"
 translationKey: "ca8e0b06-ce7e-854f-9e7a-b952484ba36e"
 ---
-
 ![Acciona el Pánico: La IA Amenaza 300 Millones de Euros Invertidos en Startups Españolas.](/images/saaspocalypse-sobreviviran-las-empresas-de-software-a-la-ia-los-datos-que-no-te-cuentan.jpg)
 
 La inteligencia artificial (IA) no solo está automatizando tareas; está reescribiendo las reglas del juego empresarial y amenazando con extinguir modelos de negocio enteros. Concretamente, los €300 millones que inversores apostaron en startups españolas de SaaS en 2025 podrían evaporarse más rápido que un vaso de agua en el desierto del Sáhara.

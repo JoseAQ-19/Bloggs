@@ -1,13 +1,11 @@
 ---
-description: 'Discover the mission behind NovumWorld: Unfiltered tech analysis and
-independent journalism.'
+description: "Discover the mission behind NovumWorld: Unfiltered tech analysis and independent journalism."
 featured_image: /images/about.jpg
 layout: single
 title: About Us
 translationKey: about
 url: /en/about/
 ---
-
 ## Novum Manifesto: Journalism in the Age of Noise
 
 In a digital ecosystem saturated with recycled press releases, unjustified AI hype, and crypto scams disguised as financial revolutions, **NovumWorld** was born with a clear mission: **to restore critical thinking in technology.**

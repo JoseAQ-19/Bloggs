@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "26f1e7b9-bb2e-af6d-1fe6-120d520bf5cf"
 ---
-
 ![Ex-MrBeast Employee Reveals Child Psychology Exploitation: Horrible Effects On Brains](/images/mrbeast-empire-creator-power-en.jpg)
 
 MrBeast's viral philanthropy may be masking a darker side of content creation: the exploitation of child psychology.

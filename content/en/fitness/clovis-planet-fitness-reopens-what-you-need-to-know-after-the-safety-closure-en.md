@@ -12,7 +12,6 @@ type: "fitness"
 language: "en"
 translationKey: "cdada943-8e24-8c29-1444-3902ee9ae97b"
 ---
-
 ![Clovis Planet Fitness Reopens: 94% Infection Risk Reduction Promised Amid Controversy](/images/clovis-planet-fitness-reopens-what-you-need-to-know-after-the-safety-closure-en.jpg)
 
 Planet Fitness's promise of a 94% reduction in COVID-19 infection risk through enhanced ventilation sounds like the fitness industry's most ambitious marketing claim since "six-pack abs in 30 days"—but the science behind it reveals a more complex reality.

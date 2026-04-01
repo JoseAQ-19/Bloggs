@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "96e0a3d2-a6c0-ef2f-4bad-3b164e75324e"
 ---
-
 ![Gym Apocalypse: $4.9 Million Data Breaches Are Decimating Fitness Centers](/images/gym-security-vulnerabilities-en.jpg)
 
 The fitness industry's $96 billion annual revenue makes it a prime target for cybercriminals, with data breaches costing an average of $4.9 million per incident. 

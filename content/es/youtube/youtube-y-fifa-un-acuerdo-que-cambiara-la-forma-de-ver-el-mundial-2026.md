@@ -10,7 +10,6 @@ type: "youtube"
 language: "es"
 translationKey: "b869ba9c-a764-8a89-7c4e-d1f3d94d54de"
 ---
-
 ## La Alianza YouTube-FIFA: 5 Mil Millones de Espectadores En El Mundial 2026
 
 **RTVE ha desembolsado €57 millones por los derechos del Mundial 2026, casi el doble del precio de mercado, según El Economista.**

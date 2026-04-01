@@ -10,7 +10,6 @@ type: "crypto"
 language: "es"
 translationKey: "61e49921-9549-cd3c-5005-5c5dc1e64a51"
 ---
-
 ## TRON: Justin Sun controla el 60% y tú pagarás el precio en 2028
 
 El ecosistema TRON, liderado por Justin Sun, enfrenta crecientes críticas por su presunta centralización, que parece contradecir los principios fundamentales de la tecnología blockchain. A medida que crece la incertidumbre regulatoria, especialmente en España, los riesgos para los inversores se multiplican.

@@ -12,7 +12,6 @@ type: "viral"
 language: "en"
 translationKey: "7f8d66d4-2099-be11-39bc-1b5795c63d81"
 ---
-
 ![The Disturbing Truth About Chesney: Wisconsin's Runaway Kangaroo Risks Agricultural Chaos](/images/the-hunt-for-chesney-how-a-runaway-kangaroo-captivated-wisconsin-en.jpg)
 
 The recent escape of Chesney, a runaway kangaroo from a petting zoo in Wisconsin, has triggered a flurry of concerns about the ecological implications of exotic animal ownership. The incident serves as a stark reminder of the precarious balance between agricultural practices and the increasing trend of owning non-native species. With over 16,000 exotic animals registered in Wisconsin, the implications of a single escape resonate far beyond just local curiosity.

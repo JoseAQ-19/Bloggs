@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "366da52f-f10b-6ed1-b9bb-8bfde55952ed"
 ---
-
 ![Good Good Golf's Meltdown: 1.48 Million Subscribers Can't Save This Trainwreck](/images/youtube-golf-wars-business-fallout-en.jpg)
 
 Good Good Golf's subscriber count of 1.48 million is increasingly meaningless as their audience watches the group implode in real time. A high follower count doesn't guarantee success in the creator economy if the fundamentals are broken.

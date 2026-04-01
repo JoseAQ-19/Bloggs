@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "9c053089-ae67-ba1c-7682-b21c94fd500e"
 ---
-
 ![Neal Mohan's Nightmare: AI Lookalikes Threaten YouTube's $32B Payouts](/images/youtube-gemini-creator-collabs-en.jpg)
 
 YouTube's $32 billion in annual creator payouts are under existential threat from unregulated AI lookalikes that devalue original content and erode platform trust.

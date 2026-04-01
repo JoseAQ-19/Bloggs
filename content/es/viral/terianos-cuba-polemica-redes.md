@@ -10,7 +10,6 @@ type: "viral"
 language: "es"
 translationKey: "6f68db0a-6246-b067-68ca-094b84af3d9e"
 ---
-
 Terianos, una red clandestina, permite que más de 100.000 cubanos eludir las restricciones de internet impuestas por el gobierno operando a través de conexiones inalámbricas ilegales y el intercambio de contenido al margen de ETECSA. La existencia de esta red refleja el creciente deseo de los ciudadanos por acceder a información global sin censura, incluso bajo el riesgo de enfrentarse a sanciones legales o técnicas.
 
 ## La brecha digital en Cuba: un control estatal férreo frente a la resistencia ciudadana

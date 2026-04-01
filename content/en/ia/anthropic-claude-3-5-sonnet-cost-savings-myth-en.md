@@ -10,7 +10,6 @@ type: "ia"
 language: "en"
 translationKey: "cffbe99c-49c9-3bf5-7fd8-cf9a744ce547"
 ---
-
 ![Claude 3.5 Sonnet: That 5x Cost Savings Claim Is a Total Lie](/images/anthropic-claude-3-5-sonnet-cost-savings-myth-en.jpg)
 
 Anthropic's claim of "5x cost savings" with Claude 3.5 Sonnet is misleading because the pricing structure reveals a continuation of existing rates. A closer look at performance benchmarks is needed to justify the hype.

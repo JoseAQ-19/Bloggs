@@ -12,7 +12,6 @@ type: "viral"
 language: "en"
 translationKey: "c28d57de-a0ba-f429-337a-7748cef6b6bd"
 ---
-
 ![The Shocking Truth: Pro-Iran Memes Are Winning Hearts in Trump's Propaganda War](/images/pro-iran-memes-go-viral-a-unique-counter-to-trumps-propaganda-en.jpg)
 
 Pro-Iran memes have reached approximately 8.5 million users through 8,000 accounts, demonstrating their growing influence in the narrative surrounding US-Iran relations. 

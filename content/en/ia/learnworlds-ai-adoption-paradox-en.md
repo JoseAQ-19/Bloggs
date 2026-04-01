@@ -10,7 +10,6 @@ type: "ia"
 language: "en"
 translationKey: "c8fb8e00-7759-ae58-b5f4-c6c137980c10"
 ---
-
 ![LearnWorlds Data: 80% Of AI Interactions Handled By Bots, 0% Strategic Thought](/images/learnworlds-ai-adoption-paradox-en.jpg)
 
 Conversational AI is projected to save contact centers $80 billion by 2026, but only if companies can figure out how to actually use it.

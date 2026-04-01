@@ -10,7 +10,6 @@ type: "tools"
 language: "en"
 translationKey: "2a0f8700-85a6-5923-9a5d-54b74c3d2e9f"
 ---
-
 ![$40,000 Per Claim: The Hidden Cost Of Your Crappy Tool Belt](/images/diamondback-tool-belt-ergonomics-review-en.jpg)
 
 * **31% of all worker compensation claims come from overexertion injuries, costing employers over $40,000 per claim**.

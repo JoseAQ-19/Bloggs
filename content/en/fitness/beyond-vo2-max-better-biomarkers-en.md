@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "5b7e4f20-4c8f-4756-63e7-38bdf2ed878d"
 ---
-
 ![UTMB Coach Drops Truth Bomb: VO2 Max Is the WORST Predictor for Runners](/images/beyond-vo2-max-better-biomarkers-en.jpg)
 
 VO2 max, often considered the gold standard for endurance athletes, may be less reliable than previously thought. Some experts now argue that focusing solely on VO2 max is an oversimplification of endurance performance.

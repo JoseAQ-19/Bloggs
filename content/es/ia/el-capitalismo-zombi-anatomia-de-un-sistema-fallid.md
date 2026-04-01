@@ -16,7 +16,6 @@ remastered: true
 
 translationKey: "39c1a585-7958-b6bf-ac9c-247da7fd122b"
 ---
-
 ¿Crisis económica? No, es el lento suicidio del capitalismo occidental.
 
 La verdadera pregunta no es por qué el crecimiento global está estancado después de tantos rescates, sino por qué seguimos fingiendo que las políticas monetarias fallidas son la solución. La respuesta, que los economistas *mainstream* evitan a toda costa, reside en la plaga de las empresas zombi: esas corporaciones mantenidas en respiración asistida por deuda barata y la cobardía de los bancos centrales. Lejos de ser una "anomalía", estas entidades son la prueba irrefutable de que el capitalismo, como lo conocemos, está en sus últimas.

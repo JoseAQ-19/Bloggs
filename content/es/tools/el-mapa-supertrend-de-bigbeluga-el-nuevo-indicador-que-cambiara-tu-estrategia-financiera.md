@@ -12,7 +12,6 @@ type: "tools"
 language: "es"
 translationKey: "c94c4597-81f8-b332-4125-3343fb056239"
 ---
-
 ![El Indicador SuperTrend de BigBeluga Promete 200% de Rentabilidad y Nadie Lo Cree](/images/el-mapa-supertrend-de-bigbeluga-el-nuevo-indicador-que-cambiara-tu-estrategia-financiera.jpg)
 
 Prometer un 200% de rentabilidad en trading no es una estrategia, es el preludio de una estafa financiera orquestada con algoritmos de bricolaje. El indicador SuperTrend de BigBeluga es el último ejemplo de cómo la complejidad técnica se utiliza para enmascarar la falta de una ventaja estadística real.

@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "31ff1b18-98df-c68a-23c5-684ba7315b52"
 ---
-
 ![Hartford's $850 Million Fund Downgrade: Morningstar Points to Subadvising Risks](/images/hartfords-850-million-fund-downgrade-morningstar-points-to-subadvising-risks-en.jpg)
 
 **$850 million downgraded:** Morningstar has downgraded the Hartford $850 million fund, citing subadvising risks as a major concern. 

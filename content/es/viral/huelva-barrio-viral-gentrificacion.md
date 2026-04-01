@@ -10,7 +10,6 @@ type: "viral"
 language: "es"
 translationKey: "6fcee317-9165-a248-9d2b-161379215e4b"
 ---
-
 ![Huelva Se Derrumba: El Plan Que Impide Viviendas y Dispara la Gentrificación](/images/huelva-barrio-viral-gentrificacion.jpg)
 
 Huelva se enfrenta a una parálisis urbanística que amenaza con convertir la ciudad en un parque temático para turistas. El rechazo al nuevo PGOM (Plan General de Ordenación Municipal) ha desatado una tormenta perfecta de especulación inmobiliaria, falta de vivienda y una creciente gentrificación.

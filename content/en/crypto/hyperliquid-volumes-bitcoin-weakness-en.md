@@ -10,7 +10,6 @@ type: "crypto"
 language: "en"
 translationKey: "c410bbcf-4f0c-f24f-2ee4-53d0ff689419"
 ---
-
 ![Hyperliquid's $47 Billion Volume Week Exposes Bitcoin's Fading Macro Hedge Status](/images/hyperliquid-volumes-bitcoin-weakness-en.jpg)
 
 Bitcoin's perceived role as a safe-haven asset is crumbling faster than a poorly constructed stablecoin, as alternative DeFi platforms siphon off trading volume and erode its macro dominance.

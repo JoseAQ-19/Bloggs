@@ -13,7 +13,6 @@ translationKey: geopolitica-2026-el-ano-que-dejamos-de-fingir
 type: ia
 remastered: true
 ---
-
 ¿México Conectado? Más Bien Controlado: Desmontando la Farsa Digital Mexicana
 
 El cuento que nos venden sobre la transformación digital mexicana es tan dulce como falso. Detrás de los cantos de sirena sobre conectividad ubicua y democratización del acceso, se esconde una realidad mucho más sombría: una sociedad cada vez más vulnerable a la manipulación y al control, todo ello disfrazado de progreso tecnológico.

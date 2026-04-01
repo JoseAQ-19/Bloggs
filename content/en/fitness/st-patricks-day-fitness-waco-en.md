@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "11bad408-7c13-0f6c-19e9-67f876d32e32"
 ---
-
 ![Shamrock Shake OUT, Abs IN: Waco's Body Recomp Hack For St. Patrick's Day](/images/st-patricks-day-fitness-waco-en.jpg)
 
 Waco fitness influencers are betting against the staying power of the Shamrock Shake this year.

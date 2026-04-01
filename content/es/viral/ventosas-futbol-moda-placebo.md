@@ -10,7 +10,6 @@ type: "viral"
 language: "es"
 translationKey: "f14dfa44-eae0-37dc-637d-7cc22cb6ee99"
 ---
-
 ![¡Escándalo En La Liga! Fisioterapeutas Revelan El Peligro Oculto De Las Ventosas.](/images/ventosas-futbol-moda-placebo.jpg)
 
 La fascinación por las ventosas en el deporte profesional es directamente proporcional a la falta de pruebas científicas sobre su eficacia real. La moda de los círculos rojizos en la piel de atletas de élite plantea serias dudas sobre si estamos ante un tratamiento milagroso o una simple sugestión costosa.

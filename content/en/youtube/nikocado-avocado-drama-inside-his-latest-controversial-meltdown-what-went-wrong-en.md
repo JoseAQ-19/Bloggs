@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "476eadec-9a61-3b28-124f-c5cfab2158c8"
 ---
-
 ![Nikocado Avocado's $100K/Month YouTube Empire Is Collapsing: The Stephanie Soo Effect](/images/nikocado-avocado-drama-inside-his-latest-controversial-meltdown-what-went-wrong-en.jpg)
 
 Nikocado Avocado's online theatrics are a stark reminder that even the most lucrative digital empires can crumble under the weight of controversy and unsustainable self-destruction. His income, estimated at $133,700 per month from YouTube alone, is hemorrhaging.

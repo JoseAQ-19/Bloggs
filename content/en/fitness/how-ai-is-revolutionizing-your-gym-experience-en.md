@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "7ebe42c4-c6c3-c5a9-7b7a-ed9c5657f018"
 ---
-
 ![The Shocking Truth: Wearable Fitness Trackers Are Underestimating Your VO2 Max by Over 7 mL/kg/min](/images/how-ai-is-revolutionizing-your-gym-experience-en.jpg)
 
 The wearable technology sector is banking on a dangerous delusion: that a wrist-bound optical sensor can replicate the rigor of clinical physiology. Behind the sleek marketing and billion-dollar valuations lies a fundamental failure in data fidelity that renders the most vaunted metric of endurance—VO2 max—virtually useless for the serious athlete.

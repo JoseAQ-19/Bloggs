@@ -10,7 +10,6 @@ type: "crypto"
 language: "en"
 translationKey: "dcc9f14d-bbd0-8ac7-6847-00d58b6cb858"
 ---
-
 ![Crypto.com Just Laid Off 12% of Its Workforce: The Shocking AI Shift Explained](/images/cryptocom-cuts-deep-12-layoffs-amid-ai-urgency-en.jpg)
 
 Global crypto markets shed $200 billion in valuation as the United States unemployment rate unexpectedly ticked up to 4.6% in mid-December 2025, triggering a risk-off environment that has forced digital asset platforms to slash costs aggressively. Crypto.com’s decision to terminate 12% of its staff is not merely an internal realignment but a symptom of a broader liquidity crunch where efficiency is prioritized over expansion.

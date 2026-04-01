@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "fc3b7265-f2a9-308b-e8ee-0af68ed92141"
 ---
-
 ![Eddie Hearn SHOCKED: Is KSI's Nice Guy Act Hiding A Financial Disaster?](/images/ksi-sidemen-fc-business-analysis-en.jpg)
 
 KSI's reputation as the "nice guy" might be a carefully constructed facade hiding potential financial challenges within the Sidemen empire.

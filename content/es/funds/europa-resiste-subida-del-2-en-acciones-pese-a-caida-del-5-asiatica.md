@@ -10,7 +10,6 @@ type: "funds"
 language: "es"
 translationKey: "df132072-e26a-e5c3-b48f-963d5ae6ded5"
 ---
-
 ![Europa Resiste: Subida del 2% en Acciones Pese a Caída del 5% Asiática.](/images/europa-resiste-subida-del-2-en-acciones-pese-a-caida-del-5-asiatica.jpg)
 
 ## Europa Resiste: Subida del 2% en Acciones Pese a Caída del 5% Asiática.

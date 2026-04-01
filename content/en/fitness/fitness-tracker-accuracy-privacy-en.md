@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "0b78ed74-b894-e5b3-636e-44e70c34d824"
 ---
-
 ![Amazon's Fitness Tracker Lies: Your Calorie Burn is 69% WRONG!](/images/fitness-tracker-accuracy-privacy-en.jpg)
 
 The quantified self is a quantified lie, and the wearable industry is banking on your inability to distinguish between data points and biological reality.

@@ -16,7 +16,6 @@ remastered: true
 
 translationKey: "1fa194ba-1d78-f582-8321-08a81425e4dd"
 ---
-
 La objetividad algorítmica es la gran estafa de nuestra era. La promesa de decisiones justas e imparciales basadas en "datos fríos" es una burda cortina de humo que oculta sistemas de control sofisticados y una escalada sin precedentes en la vigilancia masiva. No estamos ante una herramienta inocente, sino ante un arma de opresión con el potencial de rediseñar la sociedad a imagen y semejanza de sus creadores.
 
 ## La Falsa Neutralidad: Un Caballo de Troya Tecnológico

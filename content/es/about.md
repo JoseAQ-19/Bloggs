@@ -1,13 +1,11 @@
 ---
-description: 'Descubre la misión detrás de NovumWorld: Análisis tecnológico sin filtros
-y periodismo independiente.'
+description: "Descubre la misión detrás de NovumWorld: Análisis tecnológico sin filtros y periodismo independiente."
 featured_image: /images/about.jpg
 layout: single
 title: Sobre Nosotros
 translationKey: about
 url: /es/about/
 ---
-
 ## Manifiesto Novum: Periodismo en la Era del Ruido
 
 En un ecosistema digital saturado de notas de prensa recicladas, hype injustificado de inteligencia artificial y promesas vacías del sector cripto, **NovumWorld** nace con una misión clara: **restaurar el pensamiento crítico en la tecnología.**

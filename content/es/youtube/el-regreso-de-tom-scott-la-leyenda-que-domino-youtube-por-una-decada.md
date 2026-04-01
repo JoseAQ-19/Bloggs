@@ -12,7 +12,6 @@ type: "youtube"
 language: "es"
 translationKey: "e242ff8e-53de-6735-c485-a2e68390ad5c"
 ---
-
 ![Tom Scott Regresa a YouTube y Declara la Guerra a la Mediocridad Educativa STEM](/images/el-regreso-de-tom-scott-la-leyenda-que-domino-youtube-por-una-decada.jpg)
 
 **Tom Scott regresa a YouTube con una misión clara: acabar con la mediocridad en la educación STEM.** Este creador británico, con más de 6,67 millones de suscriptores, ha vuelto al ruedo tras dos años de pausa con un objetivo ambicioso: revolucionar la divulgación científica y tecnológica en la plataforma más grande de videos del mundo, desafiando tanto a sus algoritmos como a otros creadores.

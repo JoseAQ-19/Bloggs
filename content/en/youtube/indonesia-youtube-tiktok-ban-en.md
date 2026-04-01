@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "71d319a7-62ba-b8b3-1d43-79ccbc1fa054"
 ---
-
 ![72 Million Data Points: YouTube's Child Tracking Nightmare Exposed In Indonesia](/images/indonesia-youtube-tiktok-ban-en.jpg)
 
 Indonesia's plan to ban YouTube for children under 16 exposes the platform's untenable business model that relies on harvesting 72 million data points per child by age 13.

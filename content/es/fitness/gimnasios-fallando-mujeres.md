@@ -12,7 +12,6 @@ type: "fitness"
 language: "es"
 translationKey: "b16b8cd7-a85f-ab15-0294-a736f20924ae"
 ---
-
 ![60% de Retención: La Gran Falta de Gimnasios Para Atraer a Mujeres](/images/gimnasios-fallando-mujeres.jpg)
 
 La industria del fitness en España es una burbuja de 1.65 mil millones de euros que opera bajo un modelo de negocio obsoleto y sexista, priorizando la venta de cuotas de enero sobre la retención a largo plazo de la mitad de la población.

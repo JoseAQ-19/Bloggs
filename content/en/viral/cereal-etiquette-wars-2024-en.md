@@ -10,7 +10,6 @@ type: "viral"
 language: "en"
 translationKey: "90d9c4fa-e5c8-cafb-3a88-49b326f17142"
 ---
-
 ![William Hanson Says Use A Fork For Cereal: The Breakfast Uproar Is Here](/images/cereal-etiquette-wars-2024-en.jpg)
 
 William Hanson Says Use A Fork For Cereal: The Breakfast Uproar Is Here

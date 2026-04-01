@@ -10,7 +10,6 @@ type: "funds"
 language: "es"
 translationKey: "2b926a6c-5a8f-9416-bbcf-70f947a40bc0"
 ---
-
 ![Magallanes gana su tercer premio consecutivo y consolida su liderazgo en gestión de fondos](/images/magallanes-gana-su-tercer-premio-consecutivo-y-consolida-su-liderazgo-en-gestion.jpg)
 
 **Magallanes Value Investors ha logrado consolidar su posición de liderazgo en España tras ganar por tercer año consecutivo el Premio Morningstar a la mejor gestora de fondos.** Este reconocimiento destaca no solo su consistencia en el desempeño, sino también su enfoque disciplinado en la inversión en valor. 

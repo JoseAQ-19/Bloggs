@@ -1,12 +1,11 @@
 ---
-description: ¿Tienes una filtración? ¿Quieres insultarnos? Aquí estamos.
+description: "¿Tienes una filtración? ¿Quieres insultarnos? Aquí estamos."
 featured_image: /images/contact.jpg
 layout: single
 title: Contacto
 translationKey: contact
 url: /es/contact/
 ---
-
 ## Hablemos Claro
 
 En **NovumWorld**, estamos siempre buscando la próxima gran historia. Pero valoramos tu tiempo y el nuestro. Esta no es la típica página de contacto corporativa que nadie lee. Aquí hablamos de humano a humano (o de humano a IA supervisada).

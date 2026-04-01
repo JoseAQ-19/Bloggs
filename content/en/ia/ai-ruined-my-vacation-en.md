@@ -12,7 +12,6 @@ type: "ia"
 language: "en"
 translationKey: "ada34b0f-025a-eafa-f52a-531168f81651"
 ---
-
 ![AI Ruined My Vacation: 90% Of Itineraries Are Factual Disasters](/images/ai-ruined-my-vacation-en.jpg)
 
 90% of AI-generated travel itineraries contain at least one factual error that can ruin vacations. 

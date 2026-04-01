@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "b568efa6-e671-9261-3b22-d7469f41c69e"
 ---
-
 ![5 Handpicked Asia Funds by Morningstar Projected to Outperform by 15% in 2026](/images/5-handpicked-asia-funds-by-morningstar-projected-to-outperform-by-15-in-2026-en.jpg)
 
 Asia's mutual funds are poised for an impressive rebound, with projections indicating a potential 15% outperformance by 2026, driven by market recovery and strategic allocations. 

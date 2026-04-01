@@ -10,7 +10,6 @@ type: "fitness"
 language: "es"
 translationKey: "9a7f3843-aae6-2585-5b0a-236a3140a503"
 ---
-
 ![On Air Fitness Aterriza en España: 10 Millones de Euros para Revolucionar el Fitness](/images/on-air-fitness-aterriza-en-espana-que-significa-para-el-panorama-del-fitness-nacional.jpg)
 
 On Air Fitness inyecta 10 millones de euros en el mercado español con la pretensión de revolucionar un sector saturado, apostando por un modelo híbrido que mezcla la estética boutique con el agarrotamiento financiero del low-cost.

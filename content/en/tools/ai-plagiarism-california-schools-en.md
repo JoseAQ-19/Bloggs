@@ -10,7 +10,6 @@ type: "tools"
 language: "en"
 translationKey: "522d0715-3b0f-95f6-dbe4-00404afb947f"
 ---
-
 ![AI Cheating Panic: California Wasted $6 Million on Turnitin's Hallucinations](/images/ai-plagiarism-california-schools-en.jpg)
 
 * California State University has spent $6 million on Turnitin's AI detection software since 2019, despite accuracy concerns that have led to wrongful accusations against one in five students.

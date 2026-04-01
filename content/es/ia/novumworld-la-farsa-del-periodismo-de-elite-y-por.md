@@ -13,7 +13,6 @@ translationKey: la-elites-digitales-amos-del-mundo-o-nuevos-parasi
 type: ia
 remastered: true
 ---
-
 En un mundo donde la información nos bombardea, ¿de verdad creemos que el "periodismo de élite" nos informa? ¡Ingenuos! Este análisis revela por qué la desconfianza hacia los grandes medios es más que justificada: es una cuestión de supervivencia intelectual.
 
 ## La Falacia de la Confianza Mediática

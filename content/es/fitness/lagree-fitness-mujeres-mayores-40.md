@@ -10,7 +10,6 @@ type: "fitness"
 language: "es"
 translationKey: "acf5b164-ffed-0ed4-5f00-a29cf5360ce5"
 ---
-
 ![¿Más Lesiones Que Pilates? La Bomba Sobre El Entrenamiento Favorito De Kim Kardashian](/images/lagree-fitness-mujeres-mayores-40.jpg)
 
 ## ¿Lagree Fitness: El Riesgo Oculto Tras El Cuerpo De Kim Kardashian?

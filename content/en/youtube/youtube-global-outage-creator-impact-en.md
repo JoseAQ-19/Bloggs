@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "2f888878-646b-d79a-e1c3-1b1ff5d1293a"
 ---
-
 ![YouTube CRASHES: Sundar Pichai Hid This $60 Billion Secret](/images/youtube-global-outage-creator-impact-en.jpg)
 
 YouTube crashes expose a dangerous myth in tech: reliability is optional until it isn't. Alphabet CEO Sundar Pichai hid a $60 billion vulnerability when he announced YouTube's 2025 revenue, knowing the platform's fragile infrastructure threatened this entire cash cow. The February 2026 outage proved catastrophic, with over 240,000 US users reporting service failures as the platform hemorrhaged an estimated $250,000 per affected user during the incident. 

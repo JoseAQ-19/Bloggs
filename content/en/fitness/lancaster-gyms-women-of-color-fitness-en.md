@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "7437b633-3a9a-b3dc-4fe0-0e1e3a0386c0"
 ---
-
 ![Lancaster Gyms Just Solved Fitness's 60% Problem; Big Gyms Should Be Terrified](/images/lancaster-gyms-women-of-color-fitness-en.jpg)
 
 The fitness industry's obsession with homogenous ideals has left a lucrative market underserved: women of color.

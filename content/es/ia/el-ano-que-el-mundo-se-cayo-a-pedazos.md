@@ -13,7 +13,6 @@ translationKey: la-ia-te-miente-por-que-la-personalidad-artificial
 type: ia
 remastered: true
 ---
-
 El espejismo de 2025: La "incertidumbre" como cortina de humo para el fracaso sistémico.
 
 2025 no será recordado por una concatenación de fatalidades inevitables, sino por la cobardía y la inoperancia de las élites globales. El FMI pinta un cuadro de "incertidumbre" y "fragmentación geopolítica" para justificar su propia ineptitud. ¿Recuperación post-pandemia? Un cuento para crédulos, mientras la realidad es un estancamiento fabricado.

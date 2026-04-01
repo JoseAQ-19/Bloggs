@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "09737d3f-2ced-9bf4-58e3-69fe7381272d"
 ---
-
 ![The Shocking Truth: 2026 Military Fitness Tests Will Transform How Soldiers Get Fit](/images/get-fit-with-the-latest-military-fitness-tests-set-for-2026-en.jpg)
 
 The Pentagon's pursuit of a "gender-neutral" fighting force by 2026 is a high-stakes gamble that threatens to purge the ranks of capable soldiers while masquerading as a fitness revolution. This administrative overhaul prioritizes statistical equality over physiological reality, potentially sacrificing combat effectiveness for the sake of bureaucratic symmetry.

@@ -12,7 +12,6 @@ type: "youtube"
 language: "en"
 translationKey: "b9727b7d-0929-ed4b-6a7e-e19b9f70f47e"
 ---
-
 ![$6 Million Verdict Shatters Meta and YouTube’s Facade of User Safety](/images/meta-and-youtube-found-guilty-the-6-million-verdict-shaking-big-tech-en.jpg)
 
 A $6 million legal judgment against Meta and YouTube exposes the fragility of a business model built on psychological manipulation rather than utility.

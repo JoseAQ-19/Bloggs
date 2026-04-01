@@ -10,7 +10,6 @@ type: "ia"
 language: "en"
 translationKey: "fc90cfee-6a1c-16eb-02a1-aafd0ecca5ed"
 ---
-
 ![Kleiner Perkins' $3.5B AI Bet: Hallucinations Could Cost Them Everything.](/images/kleiner-perkins-ai-gamble-en.jpg)
 
 Kleiner Perkins just committed $3.5 billion to AI startups based on hallucination rates that could render their investments worthless within 18 months.

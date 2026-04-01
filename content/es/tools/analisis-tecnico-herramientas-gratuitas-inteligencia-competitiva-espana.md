@@ -10,7 +10,6 @@ type: "tools"
 language: "es"
 translationKey: "8a840891-9d30-d51a-f1f9-e601512c0ad8"
 ---
-
 ![IA Gratis O Despido: El Ultimátum De Las Empresas Españolas A Sus Empleados](/images/analisis-tecnico-herramientas-gratuitas-inteligencia-competitiva-espana.jpg)
 
 ****BLUF** Resumen Ejecutivo Técnico:** 

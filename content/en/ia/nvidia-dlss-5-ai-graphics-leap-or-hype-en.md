@@ -10,7 +10,6 @@ type: "ia"
 language: "en"
 translationKey: "3586a9d8-a573-915e-a5a7-1180a4612f32"
 ---
-
 ![RTX 5090 Required? DLSS 5's Dirty Little Secret NVIDIA Doesn't Want You To Know](/images/nvidia-dlss-5-ai-graphics-leap-or-hype-en.jpg)
 
 NVIDIA wants you to believe DLSS 5 runs on a single RTX 50 series GPU, but their own demos tell a different story—using dual RTX 5090s to make the magic happen.

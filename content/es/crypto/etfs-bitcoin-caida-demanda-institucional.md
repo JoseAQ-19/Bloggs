@@ -10,7 +10,6 @@ type: "crypto"
 language: "es"
 translationKey: "27060bab-e838-85ff-69ec-018a2ff63632"
 ---
-
 ![Pánico Bitcoin: El Desplome a $63,000 Revela la Cruda Verdad Sobre la Demanda](/images/etfs-bitcoin-caida-demanda-institucional.jpg)
 
 La euforia que impulsó a Bitcoin a máximos históricos cercanos a los $74,000 parece estar evaporándose más rápido de lo esperado. La reciente caída a los $63,000 no es solo una corrección, sino un posible indicio de que la demanda real podría no ser tan robusta como se creía.

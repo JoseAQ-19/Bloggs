@@ -10,7 +10,6 @@ type: "ia"
 language: "es"
 translationKey: "5470ed37-a09c-59d5-bbf4-916aad5b4268"
 ---
-
 ![ChatGPT Suspende en España: La Mitad de los Alumnos Sacan Peores Notas Por Usarlo](/images/ia-estudiantes-polanco-polemica.jpg)
 
 La promesa de la IA como panacea educativa choca de frente con la dura realidad: los alumnos, con frecuencia, rinden menos.

@@ -10,7 +10,6 @@ type: "ia"
 language: "en"
 translationKey: "b30db68a-f0f7-9b00-f2a6-e09cff960423"
 ---
-
 ![Perplexity's $200 Computer AI: 80% Of Companies To Use AI, But At What Cost?](/images/perplexity-ai-computer-overkill-future-en.jpg)
 
 Perplexity AI's $200 "computer" isn't just another search tool; it's a flashing red light for Google.

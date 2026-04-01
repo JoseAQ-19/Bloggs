@@ -10,7 +10,6 @@ type: "crypto"
 language: "en"
 translationKey: "50d40f1c-386c-b4bd-e0ee-a793c065ba85"
 ---
-
 ![OKX's $6 Trillion Secret: How The Exchange Dodged SEC Scrutiny (For Now).](/images/okx-valuation-regulatory-litmus-test-en.jpg)
 
 OKX's $6 Trillion Secret: How The Exchange Dodged SEC Scrutiny (For Now).

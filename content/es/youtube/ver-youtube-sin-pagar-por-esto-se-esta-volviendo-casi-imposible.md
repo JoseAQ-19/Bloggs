@@ -12,7 +12,6 @@ type: "youtube"
 language: "es"
 translationKey: "5528a569-a28b-5f33-4fd1-2917e6cdb40d"
 ---
-
 ![YouTube Bloquea VPN y Cancela Cuentas: La Era de los Gorrones Llega a su Fin](/images/ver-youtube-sin-pagar-por-esto-se-esta-volviendo-casi-imposible.jpg)
 
 YouTube ha declarado la guerra abierta contra los "gorrones" digitales que pagaban 2€ por YouTube Premium utilizando VPNs, y la purga de cuentas ya ha comenzado sin previo aviso. La plataforma de Google ha decidido que la fiesta de la arbitraje geográfico ha terminado, dejando a miles de usuarios con sus suscripciones canceladas y sin acceso a las ventajas de la plataforma.

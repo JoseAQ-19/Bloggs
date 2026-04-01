@@ -10,7 +10,6 @@ type: "viral"
 language: "en"
 translationKey: "526d68ab-08c2-df98-c6fd-267aebc328f5"
 ---
-
 ![Booster Shot Lie? COVID Antibodies Vanish in 6 Months, Experts Warn](/images/forever-virus-persistent-infections-en.jpg)
 
 Your immune system is now operating on a failed subscription model where the license expires every six months.

@@ -10,7 +10,6 @@ type: "youtube"
 language: "es"
 translationKey: "eb1ff752-3cad-9251-4707-7922f380fd88"
 ---
-
 ## YouTube te destroza: el algoritmo adictivo que engancha como la cocaína
 
 YouTube no solo consume nuestro tiempo, sino también nuestra salud mental. Su algoritmo, diseñado para maximizar la retención de usuarios, activa los mismos circuitos de recompensa cerebral que sustancias altamente adictivas como la cocaína. Este enfoque, centrado exclusivamente en mantenernos conectados, está vinculado a un preocupante aumento de los problemas de salud mental, especialmente entre los jóvenes españoles. En este modelo de negocio donde el tiempo es dinero, el bienestar del usuario queda relegado al último lugar.

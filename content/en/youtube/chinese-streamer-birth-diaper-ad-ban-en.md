@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "67ad73f5-c068-657e-7267-76915c23c891"
 ---
-
 ![Banned for Broadcasting Birth: Outrage Over Chinese Streamer's Diaper Ad Stunt](/images/chinese-streamer-birth-diaper-ad-ban-en.jpg)
 
 The influencer marketing bubble is about to burst in China, and "Paul in USA" just popped the first balloon.

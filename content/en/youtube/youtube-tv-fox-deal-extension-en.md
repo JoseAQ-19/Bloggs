@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "60a0778a-e166-5e75-c962-cc154a07a784"
 ---
-
 ![YouTube TV Dodged Fox: Will 77.2 Million Cord-Cutters Pay The Price?](/images/youtube-tv-fox-deal-extension-en.jpg)
 
 * YouTube TV and Fox reached a deal, averting a blackout, but the incident highlights the precarious nature of streaming and rising costs for 77.2 million cord-cutters. 

@@ -10,7 +10,6 @@ type: "viral"
 language: "en"
 translationKey: "e0f3d097-5059-363b-ee9b-324f75796666"
 ---
-
 ![Sara Bareilles' Renovation Nightmare: The $500 Billion Industry's Dark Secret](/images/its-a-skull-watch-sara-bareilles-uncover-creepy-bones-in-her-home-en.jpg)
 
 AI agents could change your life — if they don’t ruin it first. The recent uproar over TikTok’s “AI agents,” a feature where users can interact with AI-generated characters, exposes deeper issues about our relationship with technology and the inherent risks of algorithmic culture.

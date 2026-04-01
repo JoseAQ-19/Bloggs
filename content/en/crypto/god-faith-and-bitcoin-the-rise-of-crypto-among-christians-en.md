@@ -12,7 +12,6 @@ type: "crypto"
 language: "en"
 translationKey: "dbd81ad2-41de-a011-a6d4-226df815fdf0"
 ---
-
 ![Bitcoin’s $1.4 Trillion Market Meets God: Why Christians Are Betting on Crypto Salvation](/images/god-faith-and-bitcoin-the-rise-of-crypto-among-christians-en.jpg)
 
 **Bitcoin’s $1.4 Trillion Market Meets God: Why Christians Are Betting on Crypto Salvation**

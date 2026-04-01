@@ -2,8 +2,7 @@
 categories:
 - ia
 date: 2026-02-10 07:27:41
-description: We got played. Big time. By thinking tech will save us and chasing imaginary
-riches. The move fast and break things mantra broke us, not the system.
+description: "We got played. Big time. By thinking tech will save us and chasing imaginary riches. The move fast and break things mantra broke us, not the system."
 draft: false
 featured_image: /images/monument-naivety-greed.jpg
 language: en
@@ -17,7 +16,6 @@ title: A Monument to Naivety and Greed
 translationKey: monument-naivety-greed
 type: ia
 ---
-
 The cryptocurrency boom, particularly the rise and fall of Bitcoin, offers a stark lesson in the perils of unchecked hype, technological utopianism, and good old-fashioned greed. What was initially touted as a revolutionary, decentralized financial system, free from the control of governments and banks, has largely devolved into a speculative asset fueled by misinformation and the promise of quick riches. Examining the claims made by Bitcoin's proponents, alongside real-world data, exposes a chasm between the idealized vision and the messy reality.
 
 Bitcoin's foundational narrative hinges on several key pillars, all of which crumble under scrutiny. These include: the idea of a "trustless" and decentralized system; its viability as a mainstream medium of exchange; the promise of faster and cheaper transactions; inherent security through proof-of-work; and a guarantee of privacy. Let's break down each of these claims, drawing on expert analysis and the cold, hard data that often gets lost in the breathless pronouncements of crypto evangelists.

@@ -10,7 +10,6 @@ type: "ia"
 language: "es"
 translationKey: "62f341df-9145-59c1-5da6-aed59aa6d2d2"
 ---
-
 ![La IA En Educación Inclusiva: 73% De Los Profesores Ya La Usan, ¿Pero A Qué Precio?](/images/la-revolucion-de-la-ia-en-la-educacion-inclusiva-una-ponencia-imperdible-de-concha-barcelo.jpg)
 
 La inteligencia artificial (IA) se ha infiltrado en el sistema educativo español con una velocidad notable. Según un reciente informe, el 73% de los profesores en España ya utilizan herramientas de IA en el aula. Sin embargo, esta adopción masiva está plagada de desafíos, especialmente en términos de formación y ética. El futuro de la educación inclusiva depende de cómo se aborden estas cuestiones.

@@ -12,7 +12,6 @@ type: "crypto"
 language: "es"
 translationKey: "5738d346-bc0f-87cd-7119-4c794b6b3c72"
 ---
-
 ## Más de 100 millones de estadounidenses ahogados por deudas médicas en 2024
 
 Más de 100 millones de estadounidenses enfrentan deudas médicas en 2024, con el 66% de las bancarrotas personales vinculadas a gastos de salud, según datos del **Census Bureau**. La crisis sanitaria y financiera se agrava por la carencia de seguro médico, que afecta a **27,1 millones de personas** en el país, sin que haya habido una mejora significativa desde 2023. Esta situación pone en evidencia las profundas desigualdades y fallos estructurales en el sistema de salud estadounidense.

@@ -10,7 +10,6 @@ type: "crypto"
 language: "es"
 translationKey: "2b7acf08-7ee0-d28f-4a37-ffcbb5920ae9"
 ---
-
 ![Worldcoin Escaneó a 360.000 Españoles: La AEPD Reacciona Tarde](/images/bitcoin-vancouver-adios-criptomonedas.jpg)
 
 La privacidad es un bien que se vende caro, especialmente cuando se trata de datos biométricos.

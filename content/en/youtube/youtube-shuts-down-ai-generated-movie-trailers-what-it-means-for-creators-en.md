@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "5e7aa6e9-2686-e038-af23-250b4f7786a3"
 ---
-
 ![YouTube Just Cracked Down on AI Trailers: 400+ Firms Face Major Risks](/images/youtube-shuts-down-ai-generated-movie-trailers-what-it-means-for-creators-en.jpg)
 
 YouTube's crackdown on AI-generated trailers is a significant turning point in the content creation landscape, threatening the monetization strategies of over 400 firms. As the industry grapples with the implications of this shift, filmmakers and creators must adapt or face dire financial consequences.

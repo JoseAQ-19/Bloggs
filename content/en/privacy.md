@@ -7,7 +7,6 @@ title: Privacy Policy
 translationKey: privacy
 weight: 80
 ---
-
 ## Privacy Policy
 
 **Last Updated: February 2026**

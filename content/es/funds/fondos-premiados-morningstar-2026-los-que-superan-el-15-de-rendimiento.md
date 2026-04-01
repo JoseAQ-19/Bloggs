@@ -10,7 +10,6 @@ type: "funds"
 language: "es"
 translationKey: "a3a0717a-8ed5-97f6-a331-41c76d3d533c"
 ---
-
 ![Fondos premiados Morningstar 2026: Los que superan el 15% de rendimiento](/images/fondos-premiados-morningstar-2026-los-que-superan-el-15-de-rendimiento.jpg)
 
 En la actualidad, un sorprendente **78% de los fondos de inversión europeos han superado el 15% de rendimiento en los últimos tres años**, lo que destaca la creciente rentabilidad en el sector. 

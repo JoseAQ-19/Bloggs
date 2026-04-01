@@ -1,12 +1,11 @@
 ---
-description: Terms and conditions governing your use of the NovumWorld website and its content.
+description: "Terms and conditions governing your use of the NovumWorld website and its content."
 featured_image: /images/privacy.jpg
 layout: single
 title: Terms of Service
 translationKey: terms-of-service
 weight: 90
 ---
-
 ## Terms of Service
 
 **Last Updated: March 2026**

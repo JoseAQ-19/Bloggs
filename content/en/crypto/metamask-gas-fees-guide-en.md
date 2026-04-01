@@ -10,7 +10,6 @@ type: "crypto"
 language: "en"
 translationKey: "efcbc125-7ec3-4cfe-8294-52e935058178"
 ---
-
 ![Metamask Gas Fees Too High? A Complete Guide to Lowering Transaction Costs](/images/metamask-gas-fees-guide-en.jpg)
 
 Time is money, and in crypto, that's doubly true. Every second dithering over gas fees is a second you're *not* making a move. And with [MetaMask boasting over 30 million monthly active users](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlmXpubK05BYV15JNn36sYazJYqKGYEX60-f6M49JA7pz-hjWECoXwZd8abbBGAiHyzHWkxv-Fs6V_l5Tc41T2nTY4DGaXQQ7mlm1bSCVR3cGx_6mOs_65k2XmiWgHBiCCPzJ1kraTXX007Mh9hds=), that collective dithering adds up to serious lost opportunity.

@@ -2,9 +2,7 @@
 categories:
 - ia
 date: 2026-01-28 07:13:17
-description: La inteligencia artificial IA no viene a salvarnos, sino a explotarnos.
-Esta afirmación, aunque dura, refleja una realidad incómoda que se esconde tras
-la.
+description: "La inteligencia artificial IA no viene a salvarnos, sino a explotarnos. Esta afirmación, aunque dura, refleja una realidad incómoda que se esconde tras la."
 draft: false
 featured_image: /images/la-ia-no-viene-a-salvarnos-viene-a-explotarnos.jpg
 language: es
@@ -14,7 +12,6 @@ title: 'La IA No Viene a Salvarnos: Viene a Explotarnos'
 translationKey: la-ia-no-viene-a-salvarnos-viene-a-explotarnos
 type: ia
 ---
-
 ## El Trabajo Invisible que Potencia la IA: Una Realidad de Explotación Digital
 
 El funcionamiento de la inteligencia artificial (IA) se sustenta en una vasta infraestructura de "ghost work" o trabajo invisible, donde millones de "data annotators" y "content moderators" realizan tareas esenciales para su entrenamiento y operación, lejos de la percepción del consumidor final. La IA, lejos de ser una entidad autónoma, es un sistema de "human-in-the-loop AI" que requiere una alimentación y depuración constante de datos por parte de trabajadores humanos. Estos "trabajadores del clic" son la columna vertebral que permite a los algoritmos aprender y funcionar, desde la transcripción de audios hasta la identificación de objetos en imágenes y la moderación de contenido sensible.

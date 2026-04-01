@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "6ec03340-e449-5ac6-b247-e048a5edc657"
 ---
-
 ![Morningstar Awards for Investing Excellence Thailand 2026: Evaluating the Top 3 Funds](/images/morningstar-awards-for-investing-excellence-thailand-2026-evaluating-the-top-3-f-en.jpg)
 
 **71% of Thai investors prefer mutual funds over other investment options**, according to a recent survey by Morningstar. As the Thai mutual fund market continues to grow, investors are looking for top-performing funds that can help them achieve their financial goals. In this article, we will evaluate the top 3 funds in Thailand, as recognized by the Morningstar Awards for Investing Excellence Thailand 2026.

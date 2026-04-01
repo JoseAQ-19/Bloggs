@@ -12,7 +12,6 @@ type: "ia"
 language: "en"
 translationKey: "978c234a-f52e-4fe3-d934-4957e7636ddc"
 ---
-
 ![65% Of Americans Distrust Robots: The Alarming AI Trust Crisis Exposed](/images/ai-trust-crisis-skeptics-guide-en.jpg)
 
 OpenAI's $100B valuation rests on a foundation of public trust that's crumbling faster than their servers during peak usage.

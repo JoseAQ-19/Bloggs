@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "deeaa325-faad-2b81-e235-edb0ba106c57"
 ---
-
 ![Facebook Just Invested $3,000 In Creators—Is This The Start Of A Monetization War?](/images/facebook-pours-3000-into-tiktok-and-youtube-creatorsis-this-the-new-monetization-war-en.jpg)
 
 Meta's $3 billion investment in creators is a desperate yet strategic move to maintain its relevance amidst fierce competition from TikTok and YouTube. This initiative, which reflects a broader trend in the creator economy, underscores the critical need for platforms to lure and retain top talent in an increasingly crowded landscape.

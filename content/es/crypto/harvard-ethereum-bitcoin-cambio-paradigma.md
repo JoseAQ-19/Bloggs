@@ -10,7 +10,6 @@ type: "crypto"
 language: "es"
 translationKey: "11c52501-0edf-bc46-6625-23c7eb88a318"
 ---
-
 ![Ethereum Arrasa: APY del 12% Destrona a Bitcoin Y Convence A Harvard.](/images/harvard-ethereum-bitcoin-cambio-paradigma.jpg)
 
 * Ethereum's transition to Proof-of-Stake permite staking con APYs que oscilan entre el 4% y el 12%, presentando una alternativa a la intensiva en energía Proof-of-Work de Bitcoin.

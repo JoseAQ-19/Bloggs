@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "6ed77a7e-b219-c3f6-322f-b49cdb9bfd77"
 ---
-
 ![Morningstar Selects 5 Asia Funds Poised for 2026 Growth](/images/morningstar-selects-5-asia-funds-poised-for-2026-growth-en.jpg)
 
 A recent analysis reveals that Asia's growth funds are expected to outperform, with a projected 12% annualized growth rate through 2026. 

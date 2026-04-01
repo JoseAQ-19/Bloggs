@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "f4e4fef6-b9fa-611a-336f-99d7bcb02d9e"
 ---
-
 ![YouTube's AI Nightmare: Deepfakes Smear Singapore PM, 70% Believe It's Real.](/images/ai-deepfake-singapore-pm-lee-en.jpg)
 
 Deepfake videos of Singapore's Prime Minister Lee Hsien Loong peddling crypto scams illustrate the accelerating crisis of synthetic media's impact on geopolitics and public trust.

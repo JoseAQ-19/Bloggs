@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "a0b0bb6c-66a4-00fa-9737-142ebb16ea84"
 ---
-
 ![5-Star Fund Balances Income and Volatility: Top Morningstar Pick for 2026](/images/5-star-fund-balances-income-and-volatility-top-morningstar-pick-for-2026-en.jpg)
 
 **A Five-Star Fund Offering a Balanced Approach to Income and VolatilityWith a stellar 5-star Morningstar rating and a three-year annualized return of 8.45%, this fund is a top pick for 2026 investors seeking both income and stability.** Its low expense ratio of 0.52% and a Sharpe ratio of 1.12 over the past three years make it a standout choice in its category. Here’s why this fund is attracting attention: 

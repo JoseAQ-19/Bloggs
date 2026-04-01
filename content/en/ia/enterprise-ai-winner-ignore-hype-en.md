@@ -10,7 +10,6 @@ type: "ia"
 language: "en"
 translationKey: "b8e137e8-8412-4dc4-9d63-5f514b9085c7"
 ---
-
 ![Software Crash Exposes AI's Dirty Secret: Choose Wisely.](/images/enterprise-ai-winner-ignore-hype-en.jpg)
 
 The tech stock sell-off serves as a brutal reminder that AI hype alone won't guarantee investor returns. Discernment is now paramount for investors navigating the AI landscape.

@@ -12,7 +12,6 @@ type: "tools"
 language: "en"
 translationKey: "29f5feec-24cb-cab9-df34-f0cb3ea7fa84"
 ---
-
 ![75% Of Employees Will Use Shadow IT By 2027: The PETs Privacy Crisis Unfolds](/images/privacy-enhancing-tech-shadow-it-risks-en.jpg)
 
 Corporate security policies are nothing more than theater, a fragile illusion shattered by the reality of human behavior.

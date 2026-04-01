@@ -10,7 +10,6 @@ type: "youtube"
 language: "es"
 translationKey: "7b07bb54-3281-f0af-bef3-7e52bb95181b"
 ---
-
 ![Rosé Y Bruno Mars Rompen YouTube: ¡Spotify Paga A Los Artistas €0,001 Por Reproducción!](/images/rose-bruno-mars-apt-youtube-records.jpg)
 
 La aparente "obsesión" de los fans con la presencia de Rosé (BLACKPINK) junto a Bruno Mars en los Grammy podría ser un síntoma de cómo la industria del streaming moldea la percepción del éxito. Spotify, por ejemplo, paga a los artistas entre €0.001 y €0.003 por reproducción.

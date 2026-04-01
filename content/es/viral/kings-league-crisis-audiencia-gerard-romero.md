@@ -10,7 +10,6 @@ type: "viral"
 language: "es"
 translationKey: "36526cb2-be16-5b8b-6504-0eba50cd2101"
 ---
-
 ![Kings League En Caída Libre: ¿El Circo de Piqué Pierde 400.000 Espectadores?](/images/kings-league-crisis-audiencia-gerard-romero.jpg)
 
 El declive del Rey: ¿Piqué y su Liga se Desinflan Tras Perder 400.000 Espectadores? 

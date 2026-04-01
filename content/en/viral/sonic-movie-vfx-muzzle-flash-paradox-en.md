@@ -10,7 +10,6 @@ type: "viral"
 language: "en"
 translationKey: "50f98135-d4b2-ff54-8f3b-0191cfac3745"
 ---
-
 ![Ugly Sonic Didn't Die: His VFX Secrets Still Haunt Our Need for Speed](/images/sonic-movie-vfx-muzzle-flash-paradox-en.jpg)
 
 The $5 million redesign of Sonic the Hedgehog wasn't just a corporate retreat—it was Hollywood's first major public surrender to fan sovereignty. When Paramount Pictures had to completely rework its animated character after the 2019 trailer backlash, it set a dangerous precedent for how studios must bow to online outrage.

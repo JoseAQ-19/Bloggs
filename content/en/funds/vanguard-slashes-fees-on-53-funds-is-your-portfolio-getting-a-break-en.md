@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "63c08bbd-8aef-226c-555b-9419e88b5f3c"
 ---
-
 ![Vanguard Slashes Fees on 53 Funds: Is Your Portfolio Getting a Break?](/images/vanguard-slashes-fees-on-53-funds-is-your-portfolio-getting-a-break-en.jpg)
 
 **Vanguard Slashes Fees on 53 Funds: A 10% Average Reduction Across the Board**

@@ -10,7 +10,6 @@ type: "viral"
 language: "en"
 translationKey: "ad5e2a19-c3bf-8c41-0070-029f8d515fdf"
 ---
-
 ![59% Of Traffickers Use The Internet: Are Your Kids Next Beauty Star?](/images/child-beauty-deinfluencing-en.jpg)
 
 The commodification of childhood has reached a breaking point where a toddler's tantrum is monetized before they can read, turning the family living room into a digital sweatshop.

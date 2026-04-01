@@ -10,7 +10,6 @@ type: "tools"
 language: "en"
 translationKey: "9770fe44-65be-e23a-6eb2-80e320b522d2"
 ---
-
 ![Google AI Studio's Dark Secret: 62% Of Its Code Has Hidden Flaws](/images/google-ai-studio-technical-review-en.jpg)
 
 **BLUF** Technical Executive Summary: 

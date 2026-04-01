@@ -10,7 +10,6 @@ type: "viral"
 language: "es"
 translationKey: "79b40039-a2d6-f2bd-0074-989d3d61a123"
 ---
-
 ![B-2 Derrotado: El Algoritmo Chino de $10 Millones que Cambia la Guerra Aérea.](/images/algoritmo-chino-b2-supremacia-aerea.jpg)
 
 En un mundo donde los presupuestos militares se estiran hasta límites insospechados, China podría haber encontrado una grieta en el sistema. Con una inversión de "solo" $10 millones, un algoritmo chino promete detectar al bombardero B-2 Spirit, cuyo costo por unidad supera los $2 mil millones. ¿Estamos ante el fin de la era stealth, o es solo una cortina de humo tecnológica?

@@ -10,7 +10,6 @@ type: "youtube"
 language: "es"
 translationKey: "eed2f795-3f3d-7fa2-5172-bab36876ce7d"
 ---
-
 ![Conan O’Brien Desata Risas Sobre el Futuro de los Oscar y Causa Polémica en YouTube](/images/conan-obrien-se-rie-del-futuro-de-los-oscar-y-desata-una-ola-de-risas-en-youtube.jpg)
 
 * **19.7 millones de espectadores** fue la cifra de los Oscar 2025 con Conan O'Brien, el máximo en cinco años pero todavía 16.8% por debajo del pico pre-pandemia de **23.6 millones** en 2020 según datos oficiales de la Academia.

@@ -16,7 +16,6 @@ remastered: true
 
 translationKey: "e1212a79-d593-5be7-9ea0-00e8568b01ed"
 ---
-
 ¿Bitcoin? Más bien Bitcon: La perpetua estafa envuelta en jerga tecnológica.
 
 ## La Gran Estafa Descentralizada: Bitcoin al Desnudo

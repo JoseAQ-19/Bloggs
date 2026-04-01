@@ -10,7 +10,6 @@ type: "youtube"
 language: "es"
 translationKey: "9c23cb1e-654d-6691-6da6-8406ed80a0c8"
 ---
-
 ![Vultures' Incendia YouTube: ¿Kanye West Repetirá el Error Legal del 70%?](/images/kanye-west-vultures-youtube-polemica.jpg)
 
 **El 70% de los artistas emergentes pierden derechos o ingresos por no tomar precauciones legales desde el principio, un riesgo que Kanye West podría estar repitiendo con Universal Music.** 

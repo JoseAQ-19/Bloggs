@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "ece7f2bb-c080-4797-1062-02ce6a99f72a"
 ---
-
 ![Planet Fitness Lawsuit Exposes AED Access Failure After Fatal Incident in Shreveport](/images/tragedy-strikes-a-fatal-incident-shakes-the-shreveport-planet-fitness-community-en.jpg)
 
 Planet Fitness's lawsuit exposes a fatal flaw in the fitness industry's emergency response protocols—while gyms market inclusivity and affordability, they're cutting corners on life-saving equipment access.

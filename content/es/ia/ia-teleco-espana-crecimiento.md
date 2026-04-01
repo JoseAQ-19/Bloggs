@@ -10,7 +10,6 @@ type: "ia"
 language: "es"
 translationKey: "084f17ff-da0a-7e42-6176-f976ff1cac2c"
 ---
-
 ![Telecoms Españolas Al Borde Del Colapso: La IA Promete Salvación… O Ruina Total](/images/ia-teleco-espana-crecimiento.jpg)
 
 La promesa de la IA de oro para las telecos españolas podría ser solo pirita.

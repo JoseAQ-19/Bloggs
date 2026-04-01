@@ -10,7 +10,6 @@ type: "tools"
 language: "es"
 translationKey: "0ed6b719-b83a-9327-8745-ac2dc277daf9"
 ---
-
 ![CECU Lo Advirtió En 2004: Café Quijano, ¿Los Más Sexistas De España Han Vuelto?](/images/analisis-tecnico-miami-1990-cafe-quijano.jpg)
 
 La nostalgia musical a menudo ciega a los oyentes ante la perpetuación de estereotipos dañinos.

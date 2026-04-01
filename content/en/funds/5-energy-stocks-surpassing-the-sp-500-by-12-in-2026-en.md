@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "9a4e9750-947f-fe70-a959-8f7bc4f3a9f7"
 ---
-
 ![5 Energy Stocks Surpassing the S&P 500 by 12% in 2026](/images/5-energy-stocks-surpassing-the-sp-500-by-12-in-2026-en.jpg)
 
 **Five energy stocks are outperforming the S&P 500 by an impressive 12% in 2026, showcasing a robust sector poised for growth.** 

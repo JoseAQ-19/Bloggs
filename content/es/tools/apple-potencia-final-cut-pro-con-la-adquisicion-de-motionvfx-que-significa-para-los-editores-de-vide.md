@@ -10,7 +10,6 @@ type: "tools"
 language: "es"
 translationKey: "abcc8133-9610-7deb-0730-80fc344b9639"
 ---
-
 ## Apple potencia Final Cut Pro con MotionVFX: ¿una amenaza para Adobe Premiere Pro?
 
 La adquisición de MotionVFX por parte de Apple el 16 de marzo de 2026 marca un movimiento estratégico que podría redefinir el panorama de la edición de vídeo profesional. Este movimiento no solo refuerza Final Cut Pro, sino que también plantea interrogantes sobre el futuro de los desarrolladores de plugins independientes y el impacto en competidores como Adobe Premiere Pro.

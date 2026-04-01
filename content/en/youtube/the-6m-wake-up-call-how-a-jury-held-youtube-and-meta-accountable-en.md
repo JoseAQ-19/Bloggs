@@ -12,7 +12,6 @@ type: "youtube"
 language: "en"
 translationKey: "cff387ed-2d10-e641-97b4-65d8cf22d8e2"
 ---
-
 ![The $6M Verdict That Just Sent Shockwaves Through YouTube and Meta’s Empire](/images/the-6m-wake-up-call-how-a-jury-held-youtube-and-meta-accountable-en.jpg)
 
 Meta's stock plunged 8% following a $6 million verdict holding the company 70% responsible for platform designs deemed harmful to young users, with YouTube bearing 30% of the liability. This legal blow represents a dramatic shift in Big Tech's liability landscape.

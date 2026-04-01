@@ -12,7 +12,6 @@ type: "tools"
 language: "en"
 translationKey: "ecd3f388-6890-fe56-405e-21c18b0958a9"
 ---
-
 ![Amazon's Pricing Algorithms Are Killing Craftsman Tools: Here’s the Shocking Truth](/images/craftsman-tools-amazon-technical-review-en.jpg)
 
 Amazon's pricing algorithms are fleecing American craftspeople out of billions while dismantling legendary brands like Craftsman through deliberate market manipulation. 

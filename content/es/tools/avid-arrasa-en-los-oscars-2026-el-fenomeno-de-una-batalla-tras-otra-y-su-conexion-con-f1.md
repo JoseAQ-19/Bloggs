@@ -10,7 +10,6 @@ type: "tools"
 language: "es"
 translationKey: "01e1afad-26db-fede-98e5-b5c26e3af491"
 ---
-
 ![Avid Arrasa en los Oscars 2026: 5 Razones Por Las Que 'Una Batalla Tras Otra' Es Un Fenómeno](/images/avid-arrasa-en-los-oscars-2026-el-fenomeno-de-una-batalla-tras-otra-y-su-conexion-con-f1.jpg)
 
 Avid Technology acaba de cerrar 2026 con el 78% de las películas nominadas a los Oscar editadas con Media Composer, una cifra que revela la persistencia de un monopolio en la posproducción audiovisual. 

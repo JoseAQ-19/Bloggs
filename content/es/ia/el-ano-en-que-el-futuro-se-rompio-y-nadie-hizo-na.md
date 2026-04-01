@@ -14,7 +14,6 @@ remastered: true
 
 translationKey: "440a9a84-7e54-8ce8-3301-fbfe60ba9b72"
 ---
-
 El espejismo chileno: ¿Por qué aplaudimos la decadencia?
 
 En 2019, Chile no "reventó". Fue una implosión largamente anunciada, la explosión controlada de un sistema construido sobre arena movediza. La pregunta no es por qué sucedió, sino por qué seguimos comprando la ficción de "modelos exitosos" basados en estadísticas maquilladas y una profunda desconexión con la realidad de la gente. ¿De verdad nos sorprendió que la desigualdad económica, disfrazada de "crecimiento", terminara por socavar cualquier vestigio de cohesión social?

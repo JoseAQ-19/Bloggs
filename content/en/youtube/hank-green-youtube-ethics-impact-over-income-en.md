@@ -10,7 +10,6 @@ type: "youtube"
 language: "en"
 translationKey: "29a24c24-a0db-06e0-dfa8-6a07175cf0a4"
 ---
-
 ![Hank Green's YouTube Nightmare: 170 Million Dollar COPPA Fine Haunts All Creators](/images/hank-green-youtube-ethics-impact-over-income-en.jpg)
 
 YouTube's $170 million COPPA settlement isn't just a legal headache—it's a financial guillotine hanging over every creator's neck.

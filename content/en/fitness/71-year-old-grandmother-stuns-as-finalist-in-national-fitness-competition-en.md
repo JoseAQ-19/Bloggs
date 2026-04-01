@@ -10,7 +10,6 @@ type: "fitness"
 language: "en"
 translationKey: "d9e1a4e3-e37e-8cbb-6819-3faa9a5dd568"
 ---
-
 ![71-Year-Old Grandmother Shatters Stereotypes as Fitness Competition Finalist and Inspires Change](/images/71-year-old-grandmother-stuns-as-finalist-in-national-fitness-competition-en.jpg)
 
 The fitness industry has systematically marginalized the most profitable demographic in existence, preferring to chase aesthetics over longevity while ignoring a physiological reality that shatters every "age-related" myth in the book.

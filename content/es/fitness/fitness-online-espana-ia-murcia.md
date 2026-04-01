@@ -10,7 +10,6 @@ type: "fitness"
 language: "es"
 translationKey: "d151f861-04ef-f0f1-28f2-9e452151f03b"
 ---
-
 ![Fitness Online En España: El Imperio De Los 1.650 Millones Peligra Por La IA](/images/fitness-online-espana-ia-murcia.jpg)
 
 El 13,4% de las muertes en España en 2019 fueron consecuencia de la inactividad física, un problema que el auge del fitness online podría exacerbar en lugar de solucionar, especialmente con la proliferación de IA sin control. La falta de regulación y las estafas son solo la punta del iceberg.

@@ -10,7 +10,6 @@ type: "funds"
 language: "en"
 translationKey: "a372d2f6-0c7d-c4d7-96c8-7d410d8432cf"
 ---
-
 ![BlackRock Fund Halts Withdrawals After 9% Redemptions; BLK Shares Drop.](/images/blackrock-fund-halts-withdrawals-after-9-redemptions-blk-shares-drop-en.jpg)
 
 BlackRock Fund Halts Withdrawals After 9% Redemptions; BLK Shares Drop.

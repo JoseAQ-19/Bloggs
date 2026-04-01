@@ -10,7 +10,6 @@ type: "funds"
 language: "es"
 translationKey: "93aab363-d3c9-4c9d-95d7-31490314ae2c"
 ---
-
 ![Premios Morningstar 2026: Inbursa, el factor clave de su consistencia y un Ratio de Sharpe de 1.5.](/images/premios-morningstar-2026-inbursa-el-factor-clave-de-su-consistencia-y-un-ratio-d.jpg)
 
 **El 62,5% de los fondos de inversión en México no superan el rendimiento del índice S&P/BMV IPC.** Esta incapacidad de superar el índice de referencia plantea interrogantes sobre la gestión activa en el mercado mexicano.

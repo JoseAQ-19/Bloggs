@@ -2,8 +2,7 @@
 categories:
 - funds
 date: 2026-03-04 15:44:19
-description: 'Stoxx 600 al alza tras la tempestad asiática: ¿rebote o señal de calma?
-Analizamos las oportunidades y riesgos en fondos de inversión con la volatilidad.'
+description: "Stoxx 600 al alza tras la tempestad asiática: ¿rebote o señal de calma? Analizamos las oportunidades y riesgos en fondos de inversión con la volatilidad."
 draft: false
 featured_image: /images/stoxx-600-sube-un-15-tras-la-crisis-en-asia-pero-la-volatilidad-persiste.jpg
 language: es
@@ -13,7 +12,6 @@ title: Stoxx 600 sube un 1,5% tras la crisis en Asia, pero la volatilidad persis
 translationKey: a9bee97a-a285-9304-9e3f-3c7953350138
 type: funds
 ---
-
 ## Stoxx 600: ¿Resiliencia europea o espejismo de volatilidad?
 
 El Stoxx 600 repuntó un 1,5% tras el desplome asiático, pero la volatilidad implícita persiste en máximos semestrales, lo que revela una incertidumbre geopolítica latente. Según datos de **Morningstar**, la volatilidad implícita en los futuros del Stoxx 600 alcanzó el 22,5%, un nivel no visto en medio año, lo que sugiere que la crisis en Oriente Medio ha reconfigurado los flujos de capital. La CNMV, en su último informe trimestral, destaca que estas tensiones han redirigido la inversión hacia activos europeos de refugio, específicamente en *utilities* y consumo básico, alterando la dinámica tradicional del mercado.

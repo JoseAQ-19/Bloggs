@@ -10,7 +10,6 @@ type: "funds"
 language: "es"
 translationKey: "d879ef42-0f86-f6bb-dac5-7c65a8973328"
 ---
-
 ![ETFs de renta variable europea: Análisis del flujo de 6.940 millones € y sus destinos.](/images/etfs-de-renta-variable-europea-analisis-del-flujo-de-6940-millones-y-sus-destino.jpg)
 
 **6.940 millones de euros** han atraído los ETFs de renta variable europea en los últimos 12 meses, según datos de Morningstar Direct, lo que demuestra un notable interés de los inversores por este tipo de producto. Este volumen evidencia una preferencia creciente por la gestión pasiva como forma de diversificar carteras en un contexto económico marcado por la incertidumbre.

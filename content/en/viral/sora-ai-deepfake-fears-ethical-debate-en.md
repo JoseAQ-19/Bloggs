@@ -12,7 +12,6 @@ type: "viral"
 language: "en"
 translationKey: "8978b1a0-1f72-8c76-a8b0-e1b62ecb0f6d"
 ---
-
 ![Sora Just Sparked Ethical Outrage: The Dark Side of AI Video Generation](/images/sora-ai-deepfake-fears-ethical-debate-en.jpg)
 
 OpenAI’s Sora promised to democratize cinema, but instead exposed the fatal flaw in the generative AI economy: the cost of reality is too high for the revenue of fiction. The shutdown wasn't just a technical failure; it was a capitulation to the impossibility of moderating a tool designed to hallucinate.

@@ -2,9 +2,7 @@
 categories:
 - ia
 date: 2026-02-09 19:17:39
-description: ' Metaverse: The 21st Century Pyramid Scheme TL;DR (Key Takeaways): The
-Metaverse, as envisioned by Meta (formerly Facebook), is failing. Hard. Billions
-...'
+description: " Metaverse: The 21st Century Pyramid Scheme TL;DR (Key Takeaways): The Metaverse, as envisioned by Meta (formerly Facebook), is failing. Hard. Billions ..."
 draft: false
 featured_image: /images/metaverse-pyramid-scheme.jpg
 language: en
@@ -19,7 +17,6 @@ title: 'Metaverse: The 21st Century Pyramid Scheme'
 translationKey: d97adf89-8d34-4b07-94e7-7276bc0a1f7a
 type: ia
 ---
-
 ---
 title: The Metaverse Bubble Has Burst: A Cautionary Tale of Hype and Speculation
 description: A critical analysis of the Metaverse's rise and fall, examining the economic and psychological factors that led to its implosion.

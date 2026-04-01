@@ -12,7 +12,6 @@ type: "fitness"
 language: "en"
 translationKey: "92b59a1c-e2e6-f2b2-16eb-2a1fcb0bd5ae"
 ---
-
 ![The Dark Side Of Fitness: 46 Deaths Uncovered Among Bodybuilders Nobody Talks About](/images/fitness-influencer-deaths-steroids-cardiac-arrest-en.jpg)
 
 The pursuit of an extreme physique has morphed from a niche subculture into a lethal global industry, where the line between athletic performance and pathological self-destruction is increasingly blurred by social media validation. While the general public views fitness as a pathway to longevity, the data emerging from the competitive bodybuilding world suggests a catastrophic failure of health protocols, resulting in a mortality rate that dwarfs almost any other athletic demographic.

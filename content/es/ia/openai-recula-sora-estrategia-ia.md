@@ -10,7 +10,6 @@ type: "ia"
 language: "es"
 translationKey: "1508e35c-41d2-3076-7bc5-a283a0357799"
 ---
-
 ![OpenAI Admite el Fracaso de Sora: Gastaba 1,30$ Por Video y Esto Es el Motivo](/images/openai-recula-sora-estrategia-ia.jpg)
 
 OpenAI acaba de cometer un acto de canibalismo financiero al admitir que su modelo generador de vídeo, Sora, era un agujero negro económico que quemaba 1,30 dólares por cada clip de 10 segundos.
