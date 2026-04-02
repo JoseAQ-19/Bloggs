@@ -597,3 +597,4 @@ tools: Rethinking Edtech: How Districts Are Streamlining Their Tool Stacks for G
 crypto: Crypto.com despide al 12% de su plantilla mientras apuesta por la inteligencia artificial
 crypto: Gen Z Millionaires Dive into Crypto: Is FOMO Driving Their Risky Bets?
 crypto: Crypto Class: Adapting to a New Era of Digital Currency
+youtube: YouTube revoluciona la experiencia con avatares personalizados y nuevas funciones en Google Workspace
