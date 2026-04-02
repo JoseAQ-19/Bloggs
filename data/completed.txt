@@ -595,3 +595,4 @@ ia: Inside Iran's Nuclear Secrets: IAEA Docs Reveal Shocking Insights
 tools: La revolución de la inteligencia artificial: SabIA de PRISA Media marca el futuro del periodismo
 tools: Rethinking Edtech: How Districts Are Streamlining Their Tool Stacks for Greater Impact
 crypto: Crypto.com despide al 12% de su plantilla mientras apuesta por la inteligencia artificial
+crypto: Gen Z Millionaires Dive into Crypto: Is FOMO Driving Their Risky Bets?
