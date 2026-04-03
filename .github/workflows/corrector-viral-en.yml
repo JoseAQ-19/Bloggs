@@ -33,6 +33,13 @@ jobs:
           mkdir -p ~/.notebooklm-mcp
           echo "$NOTEBOOKLM_AUTH" > ~/.notebooklm-mcp/auth.json
           chmod 600 ~/.notebooklm-mcp/auth.json
+      - name: Verify NotebookLM MCP
+        run: |
+          echo "PATH: $PATH"
+          which notebooklm-mcp || echo "notebooklm-mcp not in PATH"
+          which notebooklm-mcp-server || echo "notebooklm-mcp-server not in PATH"
+          ls -ld ~/.notebooklm-mcp || echo "auth dir missing"
+          ls -l ~/.notebooklm-mcp/auth.json || echo "auth.json missing or unreadable"
       - name: "QA Editor — Viral (EN)"
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -42,7 +49,7 @@ jobs:
           CORRECTOR_HF_API_KEY: ${{ secrets.CORRECTOR_HF_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
-        run: python qa_orchestrator.py --lang en --category viral
+        run: python scripts/qa_orchestrator.py --lang en --category viral
       - name: Verify Content Integrity
         run: |
           echo "🔍 Verifying Viral (EN)..."

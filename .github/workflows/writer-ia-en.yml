@@ -42,6 +42,13 @@ jobs:
           echo "$NOTEBOOKLM_AUTH" > ~/.notebooklm-mcp/auth.json
           chmod 600 ~/.notebooklm-mcp/auth.json
           echo "✅ NotebookLM MCP binary installed and auth injected"
+      - name: Verify NotebookLM MCP
+        run: |
+          echo "PATH: $PATH"
+          which notebooklm-mcp || echo "notebooklm-mcp not in PATH"
+          which notebooklm-mcp-server || echo "notebooklm-mcp-server not in PATH"
+          ls -ld ~/.notebooklm-mcp || echo "auth dir missing"
+          ls -l ~/.notebooklm-mcp/auth.json || echo "auth.json missing or unreadable"
 
       - name: Run Writer (EN)
         env:
