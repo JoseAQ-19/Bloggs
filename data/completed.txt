@@ -606,3 +606,4 @@ fitness: DEKA: La revolución del fitness híbrido en la Comunitat Valenciana
 fitness: Shocking Stabbing Incident at Planet Fitness: Employee Attacked by Banned Customer
 fitness: Gym Safety in Question: Planet Fitness Employee Attacked in Wyncote
 viral: Alicante: La joya mediterránea que todos están descubriendo
+ia: El desafío de Madrid: ¿Puede la IA revolucionar la capital española?
