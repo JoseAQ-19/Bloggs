@@ -14,10 +14,7 @@ tags:
 title: '95% Of ATMs Run On COBOL: The Tech Time Bomb In Your Wallet'
 translationKey: 122dd045-08b3-4a02-f1aa-9627ed517cc3
 type: ia
----
-
-## Key Insights
-
+---## Executive Summary (TL;DR)
 * ![95% Of ATMs Run On COBOL: The Tech Time Bomb In Your Wallet](/images/cobol-apocalypse-banking-1959-tech-en.jpg)
 
 The global financial system is running on code written when JFK was in office, held together by duct tape and a dwindling population of gray-haired engineers who actually understand how...
@@ -112,10 +109,12 @@ If you scroll through Reddit threads like r/cscareerquestions or r/legacycode, t
 - [YouTube TV’s Subscriber Tsunami: Is This The End Of Traditional Cable?](/en/youtube/youtube-tv-dish-sling-streaming-wars-en/)
 - [YouTube TV In 2026: The $83 Gamble That Could Backfire Spectacularly](/en/youtube/youtube-tv-2026-price-hike-or-worth-the-hype-en/)
 
-*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
-## Methodology and Sources and Sources
+
+
+## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*

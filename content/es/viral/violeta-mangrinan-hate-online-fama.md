@@ -16,8 +16,7 @@ translationKey: db6fa28e-cd71-ab33-45cb-5e05bf8e608e
 type: viral
 ---
 
-## Key Insights
-
+## Resumen Ejecutivo (TL;DR)
 * ![Odio 24/7: Violeta Mangriñán y La Salud Mental Que Las Redes Destrozan.](/images/violeta-mangrinan-hate-online-fama.jpg)
 
 Violeta Mangriñán no está sola: el 60% de las jóvenes españolas han experimentado violencia sexual digital, incluyendo acoso relacionado con su apariencia física....

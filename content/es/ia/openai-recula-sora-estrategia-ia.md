@@ -14,10 +14,7 @@ tags:
 title: 'OpenAI Admite el Fracaso de Sora: Gastaba 1,30$ Por Video y Esto Es el Motivo'
 translationKey: 1508e35c-41d2-3076-7bc5-a283a0357799
 type: ia
----
-
-## Key Insights
-
+---## Resumen Ejecutivo (TL;DR)
 * ![OpenAI Admite el Fracaso de Sora: Gastaba 1,30$ Por Video y Esto Es el Motivo](/images/openai-recula-sora-estrategia-ia.jpg)
 
 OpenAI acaba de cometer un acto de canibalismo financiero al admitir que su modelo generador de vídeo, Sora, era un agujero negro económico que quemaba 1,30 dólares por cad...
@@ -50,10 +47,12 @@ Además, la competencia no se duerme. Mientras OpenAI quemaba dinero, Anthropic 
 - [YouTube Se Lleva el Oscar: La Revolución del Entretenimiento Digital Ya Está Aquí](/es/youtube/youtube-se-lleva-el-oscar-el-futuro-del-entretenimiento-digital/)
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 
-*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
 
-## Methodology and Sources and Sources
+
+
+## Metodología y Fuentes
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*

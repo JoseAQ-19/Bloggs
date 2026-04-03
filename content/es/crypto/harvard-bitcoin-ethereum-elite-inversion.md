@@ -16,7 +16,7 @@ translationKey: 4e0d381a-22d3-749e-7bdc-a5b9cfad4cce
 type: crypto
 ---
 
-## Key Insights
+## Resumen Ejecutivo (TL;DR)
 
 - **Decisión de Harvard:** La universidad ha reducido su inversión en Bitcoin en $72 millones y ha apostado $86.8 millones en Ethereum.
 - **Tendencias de inversión:** La disminución del dominio de Bitcoin en el mercado de criptoactivos, pasando del 86% en 2024 al 62% en 2025, indica un creciente interés en altcoins.
@@ -62,9 +62,9 @@ La decisión de Harvard de diversificarse hacia Ethereum no significa el fin de 
 
 La inversión en criptomonedas conlleva riesgos significativos, incluyendo volatilidad extrema y la posibilidad de pérdida total del capital invertido. Es esencial que los inversores comprendan completamente los proyectos en los que están interesados, así como su tecnología, equipo y potencial de crecimiento.
 
-*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento financiero, legal, médico ni profesional. Consulte siempre con un especialista certificado antes de tomar decisiones.*
 
-## Methodology and Sources and Sources
+## Metodología y Fuentes
 
 Este artículo se ha elaborado mediante la recopilación y análisis de datos de diversas fuentes del sector financiero y cripto, incluyendo informes de mercado, artículos de expertos y estadísticas relevantes. Se han utilizado datos actualizados hasta octubre de 2023 para asegurar la precisión y relevancia del contenido.
 

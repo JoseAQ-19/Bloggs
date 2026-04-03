@@ -766,6 +766,8 @@ Devuelve ÚNICAMENTE un objeto JSON válido con este formato exacto (sin bloques
     if edited_body.endswith("```"):
         edited_body = edited_body[:-3].strip()
 
+    edited_body = ContentCleaner.sanitize_body(edited_body)
+
     # PASO 4: Validación
     print(f"\n   ✅ [Editor ES] PASO 4: Validación post-edición...")
     is_valid, issues = _validate_output(edited_body, body)

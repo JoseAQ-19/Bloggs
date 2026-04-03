@@ -15,10 +15,7 @@ title: 'Jeopardy! Host''s YouTube Nightmare: $36 Billion Ad Revenue Masks a Free
   Crisis'
 translationKey: 1c707f51-9806-5b5a-57fd-7637b85060d7
 type: youtube
----
-
-## Key Insights
-
+---## Executive Summary (TL;DR)
 * ![Jeopardy! Host's YouTube Nightmare: $36 Billion Ad Revenue Masks a Free Speech Crisis](/images/youtube-hate-speech-policy-jeopardy-podcast-en.jpg)
 
 YouTube's $36.1 billion ad revenue in 2024 masks a growing free speech crisis for its creators....
@@ -80,10 +77,12 @@ Consider moving your content to a platform that allows greater autonomy.
 
 The platform giveth, and the platform taketh away.
 
-*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
-## Methodology and Sources and Sources
+
+
+## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*

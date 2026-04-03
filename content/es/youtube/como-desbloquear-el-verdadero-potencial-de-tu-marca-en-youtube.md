@@ -25,7 +25,7 @@ type: youtube
 
 
 
-date: 2023-10-05T12:00:00+00:00
+
 ---
 
 La proliferación de "falsos gurús" en YouTube ha desencadenado una crisis de confianza entre marcas e influencers, poniendo en duda la efectividad de las estrategias de marketing actuales. En un entorno donde más del 30% de los creadores de contenido informan sobre una disminución significativa en su alcance, las marcas deben actuar con cautela al elegir a sus colaboradores.

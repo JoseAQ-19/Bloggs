@@ -14,10 +14,7 @@ tags:
 title: 'Social Media''s Dangerous Game: Why Fitness Influencers Are Killing You'
 translationKey: 4bb65e13-bcae-6482-3f2d-b13b24f8c1ff
 type: fitness
----
-
-## Key Insights
-
+---## Executive Summary (TL;DR)
 * ![Social Media's Dangerous Game: Why Fitness Influencers Are Killing You](/images/mortality-paradox-fitness-failure-en.jpg)
 
 Fitness influencers with millions of followers are directly causing harm to their audiences while peddling dangerous pseudoscience to an unsuspecting public....
@@ -110,10 +107,12 @@ Ultimately, the responsibility for navigating this ecosystem rests with individu
 
 The fitness influencer bubble will eventually burst, as unsustainable systems always do. But until then, your follow button remains more dangerous than you think.
 
-*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
-## Methodology and Sources and Sources
+
+
+## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*

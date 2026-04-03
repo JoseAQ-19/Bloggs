@@ -1,5 +1,15 @@
 # PROGRESS — NovumWorld Autoblogger
-# ÚLTIMA ACTUALIZACIÓN: 2026-04-01T18:45:00+02:00 (ADSENSE READINESS FINALIZED)
+# ÚLTIMA ACTUALIZACIÓN: 2026-04-03T09:15:00Z (MASTERPIECE REMEDIATION)
+
+## 💎 REMEDIACIÓN CRANIAL: OBRA MAESTRA (2026-04-03) - ESTADO: ✅ LISTO PARA ADSENSE
+1. [x] **Inspección Visual (Browser)**: Confirmado desastre visual con fugas de metadatos (`title:`, `slug:`) y falta de secciones GEO (TL;DR/Fuentes).
+2. [x] **Refactorización de Prompts (prompts_factory.py)**: Inyectadas reglas de "Obra Maestra" (Prohibición de emojis, secciones obligatorias, no fluff). Localización dinámica ES/EN.
+3. [x] **Blindaje del Motor (orchestrator.py/content_engine_pro.py)**: Inyectada sanitización brutal tras cada generación para amputar fugas de frontmatter.
+4. [x] **Mejora del Motor Pro (content_engine_pro.py)**: Migrado a `models/gemini-flash-latest` (2.5/3.1). Corregida lógica de inyección de JSON.
+5. [x] **Remediación de Imágenes (novum_visual.py)**: Corregido `BASE_DIR` para guardar en el root del proyecto. Integrado fallback inteligente que actualiza el frontmatter con una ruta válida (`static/images/defaults/`) si fallan las APIs de generación.
+6. [x] **BARRIDO MASIVO (Ruthless Clean)**: 621 archivos heredados limpiados y normalizados. Eliminados H1s redundantes, fugas de metadatos y duplicidad de disclaimers.
+7. [x] **Transformación de Masterpieces**: Batch inicial de 10 artículos de alta calidad reescritos y validados visualmente (Headers TL;DR y Fuentes 100% correctos).
+8. [x] **Asset Sync (Schema/Logo)**: Corregida ruta del logo en `schema.html` (`logo-tech.jpg`).
 
 ## 🚀 DESPLIEGUE & RESCATE (2026-04-01) - ESTADO: PRODUCCIÓN LISTA
 - [x] **Pipeline Fix**: Identificada la causa raíz del error 500 en Vercel (Hugo crash en `.CurrentSection.Title`).

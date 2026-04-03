@@ -820,6 +820,9 @@ Inyecta el enlace de forma natural en el texto usando el formato Markdown exacto
     word_count_draft = len(resultado.split()) if resultado else 0
     print(f"   📊 [Fase 2/3] Borrador: {word_count_draft} palabras")
 
+    # === POST-PROCESADO ESTRICTO: Amputación de Frontmatter filtrado ===
+    resultado = ContentCleaner.sanitize_body(resultado)
+    
     # === POST-PROCESADO REGEX: Limpieza de artefactos residuales ===
     resultado = text_cleaner.clean_markdown(resultado)
     return resultado
@@ -871,6 +874,9 @@ def escribir_blueprint(tutorial_data, lang="en"):
 
 def guardar_post(meta, contenido, lang, category, forced_image=None, translation_key=None):
     """Guarda el post con imagen validada y frontmatter blindado."""
+    # 💎 SAFETY NET: Purge any metadata leaks before processing
+    contenido = ContentCleaner.sanitize_body(contenido)
+    
     # Lógica Blindada de Silos: content/{lang}/{category}
     output_dir = f"content/{lang}/{category}"
     os.makedirs(output_dir, exist_ok=True)

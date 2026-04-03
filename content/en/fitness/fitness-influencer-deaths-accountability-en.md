@@ -14,10 +14,7 @@ tags:
 title: '10,000 Calories And Cardiac Arrest: The Deadly Secret Of Fitness Fame'
 translationKey: 0e69e677-0ba5-3f33-bb1f-3654d2ade955
 type: fitness
----
-
-## Key Insights
-
+---## Executive Summary (TL;DR)
 * ![10,000 Calories And Cardiac Arrest: The Deadly Secret Of Fitness Fame](/images/fitness-influencer-deaths-accountability-en.jpg)
 
 Fitness influencer Dmitry Nuyanzin died after attempting a 10,000-calorie challenge, underscoring the potentially fatal consequences of extreme fitness trends.
@@ -82,10 +79,12 @@ The smart fitness market's projected growth to $60.4 billion by 2036 creates bot
 
 The fitness industry cannot continue to operate as a Wild West of unregulated extremes with predictable human costs. Either the industry adopts proactive safety standards, transparency protocols, and qualification requirements, or external regulators will impose these standards with less industry input. The death of Dmitry Nuyanzin should not be an isolated incident but a catalyst for fundamental change. The era of treating fitness as pure entertainment with zero consequences must end before more lives are lost to algorithm-amplified misinformation. Viral doesn't mean vital.
 
-*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
-## Methodology and Sources and Sources
+
+
+## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*

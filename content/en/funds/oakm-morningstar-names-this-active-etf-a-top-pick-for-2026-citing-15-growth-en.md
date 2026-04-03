@@ -16,8 +16,7 @@ translationKey: 4a07104f-c9fd-3e85-4866-ffbbf314abfc
 type: funds
 ---
 
-## Key Insights
-
+## Executive Summary (TL;DR)
 * ![OAKM: Morningstar Names This Active ETF a Top Pick for 2026, Citing 15% Growth](/images/oakm-morningstar-names-this-active-etf-a-top-pick-for-2026-citing-15-growth-en.jpg)
 
 The LNG market just lost 10% of global supply overnight as Qatar halted production amid escalating Middle East tensions, send...

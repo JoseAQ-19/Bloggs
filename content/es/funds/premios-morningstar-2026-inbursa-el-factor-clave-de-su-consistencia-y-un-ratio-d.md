@@ -15,10 +15,7 @@ title: 'Premios Morningstar 2026: Inbursa, el factor clave de su consistencia y 
   Ratio de Sharpe de 1.5.'
 translationKey: 93aab363-d3c9-4c9d-95d7-31490314ae2c
 type: funds
----
-
-## Key Insights
-
+---## Resumen Ejecutivo (TL;DR)
 * ![Premios Morningstar 2026: Inbursa, el factor clave de su consistencia y un Ratio de Sharpe de 1.5.](/images/premios-morningstar-2026-inbursa-el-factor-clave-de-su-consistencia-y-un-ratio-d.jpg)
 
 **El 62,5% de los fondos de inversión en México no superan el rendimiento del índice S&P/BMV IPC.** Est...
@@ -92,10 +89,12 @@ Incluso con un buen rendimiento, el BTG ALFA está sujeto a riesgos de mercado y
 
 ---
 
-*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
 
-## Methodology and Sources and Sources
+
+
+## Metodología y Fuentes
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*

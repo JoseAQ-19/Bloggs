@@ -14,10 +14,7 @@ tags:
 title: 'AI Pharma''s Dirty Secret: 90% Trial Failure Rate Still Haunts $25B Boom'
 translationKey: 7085feb8-6e68-560a-68c6-9f471430eaad
 type: ia
----
-
-## Key Insights
-
+---## Executive Summary (TL;DR)
 * ![AI Pharma's Dirty Secret: 90% Trial Failure Rate Still Haunts $25B Boom](/images/ai-pharma-venture-capital-bubble-en.jpg)
 
 Despite AI biotechs raising $3.8 billion in VC deals in 2025, AI-discovered drugs continue failing in Phase II trials at the same ~60% rate as traditional drugs, revealing a c...
@@ -88,10 +85,12 @@ As the industry matures, we'll likely see the AI narrative separate into two dis
 - [YouTube TV In 2026: Comcast's Worst Nightmare Or $73 Mistake?](/en/youtube/youtube-tv-2026-worth-it-en/)
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 
-*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
-## Methodology and Sources and Sources
+
+
+## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*

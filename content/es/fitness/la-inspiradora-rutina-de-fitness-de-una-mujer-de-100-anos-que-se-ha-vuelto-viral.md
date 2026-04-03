@@ -1,28 +1,24 @@
 ---
-title: "La Mujer de 100 Años Que Rompió Récords: Su Rutina de Fitness Inspira al Mundo"
-date: 2026-04-02T04:28:31
+canonical: https://novumworld.com/es/fitness/la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral/
+categories:
+- fitness
+date: 2026-04-02 04:28:31
+description: Descubre la asombrosa historia de una mujer centenaria que rompió récords.
+  Su rutina de fitness es una inspiración para todos. ¡No te lo pierdas!.
 draft: false
-description: "Descubre la asombrosa historia de una mujer centenaria que rompió récords. Su rutina de fitness es una inspiración para todos. ¡No te lo pierdas!."
-featured_image: "/images/la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral.jpg"
-slug: "la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral"
-canonical: "https://novumworld.com/es/fitness/la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "es"
-translationKey: "44337bfa-3c1a-d412-f951-c1f87e05a9b3"
+featured_image: /images/la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral.jpg
+language: es
+slug: la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral
+tags:
+- Biohacking & Fitness
+title: 'La Mujer de 100 Años Que Rompió Récords: Su Rutina de Fitness Inspira al Mundo'
+translationKey: 44337bfa-3c1a-d412-f951-c1f87e05a9b3
+type: fitness
 ---
 
 ![La Mujer de 100 Años Que Rompió Récords: Su Rutina de Fitness Inspira al Mundo](/images/la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral.jpg)
 
 ---
-title: "La Mujer de 100 Años Que Rompió Récords: Su Rutina de Fitness Inspira al Mundo"
-slug: "la-mujer-de-100-anos-que-rompio-records"
-translationKey: "unique-stable-identifier"
-language: "es"
-categories: **"niche"**
-description: "Emma Mazzenga, atleta de 92 años, inspira con su récord mundial en los 200m para mayores de 90."
-date: 2023-10-10T00:00:00+00:00
 ---
 
 Las creencias populares en el mundo del fitness suelen ser engañosas. ¿Cuántas veces se ha dicho que la edad es solo un número? La realidad es que la sarcopenia, la pérdida de masa muscular relacionada con el envejecimiento, afecta de manera significativa a una gran parte de la población mayor, y no se trata de una cuestión trivial. Emma Maria Mazzenga, una atleta de 92 años, ha desafiado estos mitos y ha demostrado que la longevidad activa no solo es posible, sino que puede ser extraordinaria.
@@ -31,7 +27,7 @@ Las creencias populares en el mundo del fitness suelen ser engañosas. ¿Cuánta
 * La sarcopenia afecta al 25% de la población mayor de 70 años en España, según datos del Complejo Hospitalario de Toledo.
 * Adoptar una rutina de ejercicios y una dieta rica en proteínas puede ser clave para combatir la pérdida muscular y promover un envejecimiento saludable.
 
-## La Inspiración de la Longevidad Activa: Emma Mazzenga y su Impacto en el Mundo
+## Resumen Ejecutivo (TL;DR)
 
 Emma Mazzenga ha capturado la atención del mundo del atletismo no solo por su avanzada edad, sino por sus impresionantes logros. En 2024, logró batir su propio récord en la categoría de mujeres mayores de 90 años, completando los 200 metros en 50.33 segundos. Este logro no es solo un testimonio de su dedicación y arduo trabajo, sino también una inspiración para muchos que creen que el ejercicio intenso y competitivo no es posible a medida que se envejece.
 
@@ -73,7 +69,9 @@ La longevidad activa no es simplemente un ideal; es una realidad alcanzable con 
 
 *Es esencial adoptar un enfoque integral hacia la salud y la longevidad, priorizando la actividad física y la nutrición adecuada. Consultar con expertos y realizar un seguimiento de nuestras progresos son pasos claves para garantizar una vida activa y saludable en la vejez.* 
 
-### Metodología y Fuentes
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento financiero, legal, médico ni profesional. Consulte siempre con un especialista certificado antes de tomar decisiones.*
+
+## Metodología y Fuentes
 
 Este artículo se ha construido a partir de un análisis exhaustivo de datos y estudios relevantes en el campo de la longevidad activa y la salud de las personas mayores. Se han utilizado las siguientes fuentes:
 
@@ -82,30 +80,3 @@ Este artículo se ha construido a partir de un análisis exhaustivo de datos y e
 - [White matter integrity, hippocampal volume, and cognitive performance of a world-famous nonagenarian track-and-field athlete](https://pubmed.ncbi.nlm.nih.gov/26237526/)
 
 Este artículo se basa en la revisión de literatura científica actualizada y entrevistas con expertos en el campo de la geriatría, nutrición y fisiología del ejercicio.
-
-
-
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Mujer de 100 Años Que Rompió Récords: Su Rutina de Fitness Inspira al Mundo",
-  "description": "Descubre la asombrosa historia de una mujer centenaria que rompió récords. Su rutina de fitness es una inspiración para todos. ¡No te lo pierdas!.",
-  "image": "https://novumworld.com/images/la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral.jpg",
-  "datePublished": "2026-04-02T04:28:31",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }
-  }
-}
-</script>

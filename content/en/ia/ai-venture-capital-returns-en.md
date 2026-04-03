@@ -14,10 +14,7 @@ tags:
 title: '90% Of AI Projects Will Fail: VC''s $258 Billion Disaster Waiting To Happen'
 translationKey: 67fa511d-27dd-36ea-cfd7-87c7a6410262
 type: ia
----
-
-## Key Insights
-
+---## Executive Summary (TL;DR)
 * ![90% Of AI Projects Will Fail: VC's $258 Billion Disaster Waiting To Happen](/images/ai-venture-capital-returns-en.jpg)
 
 The AI gold rush is about to become the AI graveyard. Nearly $259 billion in venture capital poured into AI startups in 2025, yet 90% of those projects will fail before 2026, acc...
@@ -131,10 +128,12 @@ The AI apocalypse isn't coming—it's already here, and it's clearing out the hy
 - [Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](/en/youtube/youtube-sports-subscription-live-streaming-en/)
 - [YouTube TV’s Subscriber Tsunami: Is This The End Of Traditional Cable?](/en/youtube/youtube-tv-dish-sling-streaming-wars-en/)
 
-*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
-## Methodology and Sources and Sources
+
+
+## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*

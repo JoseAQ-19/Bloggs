@@ -1,28 +1,25 @@
 ---
-title: "The Hidden Dangers Behind Planet Fitness: 1 Stabbing Incident Uncovers Security Flaws"
-date: 2026-04-03T05:59:25
+canonical: https://novumworld.com/fitness/gym-safety-in-question-planet-fitness-employee-attacked-in-wyncote-en/
+categories:
+- fitness
+date: 2026-04-03 05:59:25
+description: Explore the shocking stabbing incident at Planet Fitness that reveals
+  critical security flaws. Learn how to stay safe while working out in gyms.
 draft: false
-description: "Explore the shocking stabbing incident at Planet Fitness that reveals critical security flaws. Learn how to stay safe while working out in gyms."
-featured_image: "/images/gym-safety-in-question-planet-fitness-employee-attacked-in-wyncote-en.jpg"
-slug: "gym-safety-in-question-planet-fitness-employee-attacked-in-wyncote-en"
-canonical: "https://novumworld.com/fitness/gym-safety-in-question-planet-fitness-employee-attacked-in-wyncote-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "b9f54e54-0553-adfe-1a7b-4aa48e20573c"
+featured_image: /images/gym-safety-in-question-planet-fitness-employee-attacked-in-wyncote-en.jpg
+language: en
+slug: gym-safety-in-question-planet-fitness-employee-attacked-in-wyncote-en
+tags:
+- Biohacking & Fitness
+title: 'The Hidden Dangers Behind Planet Fitness: 1 Stabbing Incident Uncovers Security
+  Flaws'
+translationKey: b9f54e54-0553-adfe-1a7b-4aa48e20573c
+type: fitness
 ---
 
 ![The Hidden Dangers Behind Planet Fitness: 1 Stabbing Incident Uncovers Security Flaws](/images/gym-safety-in-question-planet-fitness-employee-attacked-in-wyncote-en.jpg)
 
 ---
-title: "Planet Fitness Security Failures Endanger Members"
-slug: "planet-fitness-security-failures-endanger-members"
-translationKey: "planet-fitness-security-failures-endanger-members"
-language: "en"
-categories: **"fitness", "corporate-accountability", "safety"**
-description: "Planet Fitness's $1.3B revenue masks critical security flaws, from stabbing incidents to OSHA violations and data breaches."
-date: 2026-05-01T14:30:00+00:00
 ---
 
 Planet Fitness markets a "Judgement Free Zone" to 20.8 million members, yet the financial success masking a dangerous reality of physical and digital negligence is a narrative the corporate board desperately wants to hide.
@@ -104,10 +101,6 @@ This analysis is based on a review of public records, including OSHA citations, 
 - **CVE-2024-43201: Planet Fitness App (iOS+Android) improper TLS certificate validation**
 - **Planet Fitness Worker Stabbed After Fight With Banned Patron**
 - **Planet Fitness outlines 9% revenue growth target for 2026**
-
-
-
-
 
 <script type="application/ld+json">
 {

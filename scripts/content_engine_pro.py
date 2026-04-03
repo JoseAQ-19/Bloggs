@@ -6,6 +6,10 @@ import frontmatter
 from dotenv import load_dotenv
 import google.generativeai as genai
 from datetime import datetime
+from prompts_factory import PromptFactory
+from llm_router import LLMRouter
+from novum_visual import get_image
+import json
 
 # --- CONFIGURACIÓN & SETUP ---
 load_dotenv()
@@ -29,26 +33,26 @@ BANNED_PHRASES = [
     "Title:", "Título:"
 ]
 
-# 2. System Prompt de Alta Ingeniería (Estructura JSON forzosa)
-SYSTEM_PROMPT = """
-ACT AS: Senior Editor & Niche Subject Matter Expert (E-E-A-T focused).
-OBJECTIVE: Write a high-value, deep-dive article based on the provided topic and context.
-
-CRITICAL RULES:
-1. **NO META-TALK**: Never say "Here is the article" or "I have rewritten...". Just output the content.
-2. **NO LABELING**: Do not use "Introduction", "Body", "Conclusion", "Verdict" as headers. Use descriptive, engaging H2/H3 headers.
-3. **LANGUAGE LOCK**: You MUST write in {language}. (EN = English, ES = Spanish). Do not mix languages in headers.
-4. **VALUE FIRST**: Avoid fluff. Use data, quotes, and specific examples.
-5. **FORMAT**: Return ONLY a valid JSON object.
-
-JSON SCHEMA:
-{{
-  "title": "Optimized SEO Title in {language}",
-  "h1_title": "Engaging Viral H1 Title in {language}",
-  "meta_description": "SEO description (150-160 chars) in {language}",
-  "content_body": "The full markdown article content. detailed, strict markdown. Use **bold** for emphasis. No H1 (it goes in frontmatter). Start with a strong Hook."
-}}
-"""
+# 2. System Prompt de Alta Ingeniería (Centralizado)
+def get_pro_prompt(niche, lang):
+    """Obtiene el prompt maestro desde la factoría central."""
+    # Normalizar idioma para PromptFactory
+    pf_lang = "es" if "spanish" in lang.lower() else "en"
+    base_prompt = PromptFactory.get_system_prompt(niche, pf_lang)
+    # Refuerzo para forzar JSON
+    json_instruction = """
+    
+    ### OUTPUT FORMAT:
+    You must return a VALID JSON object. Do NOT include markdown code blocks (```json).
+    Structure:
+    {
+      "title": "Optimized SEO Title",
+      "h1_title": "Visual H1 Title",
+      "meta_description": "SEO description (150 chars)",
+      "content_body": "Full body following 'Obra Maestra' rules (TL;DR, no emojis, sources header, natural links)."
+    }
+    """
+    return base_prompt + json_instruction
 
 def detect_language_context(file_path):
     """Determina el idioma estricto basado en la carpeta."""
@@ -73,35 +77,69 @@ def validate_content(content, language):
             
     return content.strip()
 
-def generate_article_pro(current_content, context_data, target_language):
-    """Genera el contenido usando Gemini 2.0 Flash con output JSON."""
+def generate_article_pro(current_content, context_data, target_language, niche="ia"):
+    """Genera el contenido usando LLMRouter (Capa Cero -> Fallback)."""
     
-    model = genai.GenerativeModel(
-        model_name="gemini-2.0-flash",
-        generation_config={"response_mime_type": "application/json"} # FORCE JSON
-    )
+    # 1. Preparar Prompts
+    system_prompt = get_pro_prompt(niche, target_language)
+    user_prompt = f"""
+    CONTEXT DATA:
+    {context_data}
 
-    user_message = f"""
-    TOPIC/CONTEXT: {context_data}
-    ----
-    CURRENT DRAFT (For reference): 
-    {current_content[:1000]}...
-    ----
-    TASK: Rewrite and expand into a premium article in {target_language}.
+    CURRENT CONTENT (IF ANY):
+    {current_content[:2000]}
+
+    TASK: Rewrite and expand into a premium 'Obra Maestra' article in {target_language}.
+    Follow all SYSTEM RULES strictly.
     """
 
-    full_prompt = SYSTEM_PROMPT.format(language=target_language)
-    
+    # 2. Definir Fallback (Gemini API directa)
+    def fallback_gemini(p, s):
+        print("      [FALLBACK] Usando Gemini Flash (Directo)...")
+        try:
+            model = genai.GenerativeModel(
+                model_name="models/gemini-flash-latest",
+                system_instruction=s,
+                generation_config={
+                    "response_mime_type": "application/json",
+                    "max_output_tokens": 8192,
+                    "temperature": 1.0
+                }
+            )
+            response = model.generate_content(p)
+            return response.text.strip()
+        except Exception as e:
+            import traceback
+            print(f"      [ERROR FALLBACK] {e}")
+            traceback.print_exc()
+            return None
+
+    # 3. Ejecutar vía Router
     try:
-        response = model.generate_content(
-            contents=[
-                {"role": "user", "parts": [full_prompt + "\n" + user_message]}
-            ]
-        )
+        raw_result = LLMRouter.route_call(user_prompt, system_prompt, fallback_gemini, model_type="reasoning")
         
-        return json.loads(response.text)
+        if not raw_result:
+            return None
+            
+        # Limpieza de markdown redundante si el modelo no obedeció el JSON puro
+        if "```json" in raw_result:
+            raw_result = raw_result.split("```json")[1].split("```")[0].strip()
+        elif "```" in raw_result:
+             raw_result = raw_result.split("```")[1].split("```")[0].strip()
+        
+        # Validar si es JSON
+        try:
+            return json.loads(raw_result)
+        except:
+            # Si falla el parseo, intentar una limpieza agresiva de caracteres no-JSON al inicio/final
+            start = raw_result.find('{')
+            end = raw_result.rfind('}') + 1
+            if start != -1 and end != 0:
+                return json.loads(raw_result[start:end])
+            raise
+            
     except Exception as e:
-        print(f"   ❌ Error en generación IA: {e}")
+        print(f"   ❌ Error en generación IA (Router): {e}")
         return None
 
 def main_upgrade_engine(target_file_path):
@@ -113,15 +151,25 @@ def main_upgrade_engine(target_file_path):
 
     print(f"🚀 Procesando: {os.path.basename(target_file_path)}")
     
-    # 1. Detectar Contexto
+    # 1. Detectar Contexto e Idioma
     lang = detect_language_context(target_file_path)
+    
+    # Detectar Nicho desde el path (Hijo de content/)
+    parts = target_file_path.replace("\\", "/").split("/")
+    niche = "ia"
+    try:
+        # Expected: content/es/fitness/post.md
+        if "content" in parts:
+            idx = parts.index("content")
+            niche = parts[idx+2] 
+    except:
+        pass
+
     post = frontmatter.load(target_file_path)
     current_body = post.content
     
-    # 2. Generar
-    # (En un caso real, aquí conectaríamos con EXA para el context_data. 
-    # Por ahora usamos el contenido actual como contexto semilla)
-    result_json = generate_article_pro(current_body, post.get('title', 'Unknown Topic'), lang)
+    # 2. Generar con nicho correcto
+    result_json = generate_article_pro(current_body, post.get('title', 'Unknown Topic'), lang, niche=niche)
     
     if not result_json:
         print("   ❌ Fallo en generación. Saltando.")
@@ -129,17 +177,38 @@ def main_upgrade_engine(target_file_path):
 
     # 3. Validar
     cleaned_body = validate_content(result_json['content_body'], lang)
+    if cleaned_body:
+        from utils import ContentCleaner
+        cleaned_body = ContentCleaner.sanitize_body(cleaned_body)
+        
     if not cleaned_body:
         print("   ❌ El contenido no pasó el filtro de calidad (Linter).")
         return
 
-    # 4. Guardar (Atomic Write)
+    # 4. Actualizar Metadatos Masterpiece
     post.content = cleaned_body
     post['title'] = result_json['title'] # SEO Title updated
     post['description'] = result_json['meta_description']
     post['quality_tier'] = "fenix_v3_pro" # Marca de calidad nueva
     post['last_updated'] = datetime.now().strftime("%Y-%m-%d")
-    
+
+    # 5. Lógica de Imagen (Regenerar si no existe o es básica)
+    img_path = post.get('featured_image', '')
+    img_exists = False
+    if img_path and img_path.startswith('/images/'):
+         # Check if file exists in root static/images — lstrip images to match static/images/
+         img_subpath = img_path.replace('/images/', '')
+         full_img_path = os.path.join(os.getcwd(), 'static', 'images', img_subpath)
+         if os.path.exists(full_img_path):
+             img_exists = True
+
+    if not img_exists:
+        print(f"   🖼️ Regenerando imagen: {post.get('slug', 'unknown')}")
+        new_img = get_image(post.get('title', 'Unknown Topic'), cleaned_body, post.get('slug', 'unknown'), category=niche)
+        post['featured_image'] = new_img
+        post['image'] = new_img # Compatibilidad layouts viejos
+        print(f"   ✅ Nueva imagen: {new_img}")
+
     with open(target_file_path, 'wb') as f:
         frontmatter.dump(post, f)
     

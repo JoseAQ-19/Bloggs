@@ -13,8 +13,8 @@ from visual_logger import VisualLogger
 # Cargar entorno
 load_dotenv()
 
-# Ruta base del proyecto
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+# Ruta base del proyecto (Retroceder un nivel desde scripts/)
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Archivo de estado persistente para intercalado entre ejecuciones
 PENDULUM_STATE_FILE = os.path.join(BASE_DIR, "data", ".last_image_api.txt")

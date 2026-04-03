@@ -14,10 +14,7 @@ tags:
 title: 'Ethereum Arrasa: APY del 12% Destrona a Bitcoin Y Convence A Harvard.'
 translationKey: 11c52501-0edf-bc46-6625-23c7eb88a318
 type: crypto
----
-
-## Key Insights
-
+---## Resumen Ejecutivo (TL;DR)
 * ![Ethereum Arrasa: APY del 12% Destrona a Bitcoin Y Convence A Harvard.](/images/harvard-ethereum-bitcoin-cambio-paradigma.jpg)
 
 * Ethereum's transition to Proof-of-Stake permite staking con APYs que oscilan entre el 4% y el 12%, presentando una alternativa a la intensiva en energía Proof-of-Work de...
@@ -95,10 +92,12 @@ A diferencia de Bitcoin, donde los mineros simplemente no generan ingresos si fa
 El riesgo de slashing es bajo pero no nulo. Según datos de la red, las tasas de slashing han sido históricamente bajas, pero la severidad de las penalizaciones significa que incluso un solo incident
 ---
 
-*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
 
-## Methodology and Sources and Sources
+
+
+## Metodología y Fuentes
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*

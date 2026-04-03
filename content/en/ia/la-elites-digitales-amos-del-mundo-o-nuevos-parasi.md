@@ -17,8 +17,7 @@ translationKey: la-elites-digitales-amos-del-mundo-o-nuevos-parasi
 type: ia
 ---
 
-## Key Insights
-
+## Executive Summary (TL;DR)
 * Imagine a world where a handful of individuals control the flow of information, shape global conversations, and wield influence exceeding that of many nation-states. This isn't science fiction; it's the reality shaped by digital elites – the tech titans whose innovations have simultaneously revoluti...
 
 Imagine a world where a handful of individuals control the flow of information, shape global conversations, and wield influence exceeding that of many nation-states. This isn't science fiction; it's the reality shaped by digital elites – the tech titans whose innovations have simultaneously revolutionized and, some argue, jeopardized our societal structures.

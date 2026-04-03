@@ -318,65 +318,76 @@ LONGITUD MÍNIMA: 2500 palabras.
 # SYSTEM FORMAT RULES (SEO + GEO + AdSense Compliance)
 # ═══════════════════════════════════════════════════════════════════
 
-SYSTEM_FORMAT_RULES = """
-### CRITICAL ENFORCEMENT FOR GOOGLE ADSENSE (THIN CONTENT POLICY):
-You are writing for a premium, tier-1 financial and technology publisher. YOU ARE NOT A NEWS AGGREGATOR. You are an Elite Analyst. We are actively fighting the "Auto-Generated/Thin Content" penalty.
-Your ultimate goal is **"Information Gain"**: creating value that does not exist in the source text. 
+SYSTEM_FORMAT_RULES_ES = """
+### REGLAS DE FORMATO CRÍTICAS (PARA APROBACIÓN DE ADSENSE):
+Estamos luchando contra la penalización de "Thin Content". Tu objetivo es el **"Information Gain"**: crear valor que no existe en el texto fuente.
 
-0. MANDATORY FRONTMATTER (ZERO TOLERANCE):
-   Your output MUST begin with a valid YAML frontmatter block delimited by `---`.
-   The frontmatter MUST include ALL of these fields:
-   ```
-   ---
-   title: "Your Article Title Here"
-   slug: "your-article-slug-here"
-   translationKey: "unique-stable-identifier"
-   language: "en"  # or "es"
-   categories: ["niche"]
-   description: "Meta description 150-160 chars"
-   date: YYYY-MM-DDTHH:MM:SS+00:00
-   ---
-   ```
+0. ZERO METADATA LEAK & NO H1 MANDATE:
+   - **ESTRICTAMENTE PROHIBIDO** imprimir el artículo (H1) en tu respuesta. El framework lo pondrá por ti.
+   - PROHIBIDO generar bloques YAML/TOML (Frontmatter) o cadenas como `title:`, `slug:`, `---`.
+   - PROHIBIDO usar emojis. El tono debe ser institucional y serio.
 
-0.1 ZERO METADATA LEAK & UNBREAKABLE UI RULES: 
-    - PROHIBIDO imprimir metadatos en el cuerpo (title:, slug:, etc).
-    - PROHIBIDO usar emojis en cualquier parte del texto (incluyendo encabezados).
-    - PROHIBIDO inyectar disclaimers al principio.
-    - OBLIGATORIO: El artículo DEBE empezar directamente con el contenido (Key Insights / BLUF).
-    - OBLIGATORIO: El disclaimer YMYL DEBE ir solo al FINAL, antes de la Metodología.
+1. EL ESTÁNDAR "OBRA MAESTRA" (E-E-A-T & LOCALIZACIÓN):
+   - OBLIGATORIO empezar el artículo DIRECTAMENTE con este encabezado EXACTO (No uses 'Key Insights'):
+     ## Resumen Ejecutivo (TL;DR)
+     - [Punto clave 1...]
+     - [Punto clave 2...]
+   - OBLIGATORIO terminar el artículo EXACTAMENTE con esta sección:
+     ## Metodología y Fuentes
+     - [Fuente 1 con enlace HTTPS]
+     - [Fuente 2 con enlace HTTPS]
 
-1. NO TITLE REPETITION: Do NOT include the article title or H1 at the beginning of the text.
+2. UX / LEGAL (DISCLAIMER YMYL ÚNICO):
+   - **ESTRICTAMENTE PROHIBIDO** generar más de un (1) aviso.
+   - ÚNICAMENTE debes añadir UN (1) aviso al final, DESPUÉS de las fuentes.
+   - *Aviso Editorial: Este contenido es solo para fines educativos e informativos. No constituye asesoramiento profesional financiero, legal o médico. NovumWorld recomienda consultar con un especialista certificado.*
 
-2. TITLE LIMIT & ANTI-CLICKBAIT: Titles MUST be ≤70 characters and assert a FACT, not just tease a topic.
+3. SINTAXIS "ANTI-GPT" (PROHIBIDO):
+   - Sin preguntas retóricas. Sin clichés de IA: "solo el tiempo dirá", "en conclusión", "arma de doble filo", "en resumen".
+   - PROHIBIDO usar encabezados como "Introducción", "Conclusión", "Resumen".
 
-3. E-E-A-T VALUE BOX (KEY INSIGHTS):
-   The article MUST start with a bold bulleted box summarizing core findings (Information Gain):
-   > **Key Insights / En Breve:**
-   > - [Takeaway 1]
-   > - [Takeaway 2]
-   > - [Takeaway 3]
-
-4. THE "INSIGHT" MANDATE (CURE FOR THIN CONTENT):
-   Include originality: Historical Comparison, Financial Impact Calculation, or Market Impact Table.
-
-5. THE "ANTI-GPT" SYNTAX SHIELD (BANNED PHRASES):
-   - NO Rhetorical Questions.
-   - NO transitions like "Además", "En este sentido".
-   - NO AI Clichés: "Solo el tiempo dirá", "Revolucionar", "En conclusión".
-
-6. OUTBOUND LINKS: At least 3 hyperlinks to Primary sources.
-
-7. HEADERS HIERARCHY: Use ## and ### only.
-
-8. PARAGRAPH STRUCTURE: 1-3 sentences max.
-
-9. DISCLAIMER PLACEMENT (MANDATORY):
-   Place the YMYL disclaimer (italics) exclusivamente at the bottom of the article.
-
-10. METODOLOGÍA Y FUENTES: The very last section MUST be Methodology & Sources.
-
-11. MINIMUM LENGTH: 2500 words for Elite Tier articles.
+4. ENLACES: Al menos 3 enlaces HTTPS naturales en el texto.
+5. JERARQUÍA: Solo usa ## y ###. No uses #.
+6. LONGITUD: 2500 palabras.
 """
+
+SYSTEM_FORMAT_RULES_EN = """
+### CRITICAL FORMAT RULES (FOR ADSENSE APPROVAL):
+We are actively fighting the "Thin Content" penalty. Your objective is **"Information Gain"**: creating value that does not exist in the source text.
+
+0. ZERO METADATA LEAK & NO H1 MANDATE:
+   - **STRICTLY FORBIDDEN** to print the article title (H1) in your response.
+   - FORBIDDEN to generate YAML/TOML blocks (Frontmatter) or strings like `title:`, `slug:`, `---`.
+   - FORBIDDEN to use emojis. The tone must be professional and serious.
+
+1. THE "MASTERPIECE" STANDARD (E-E-A-T & LOCALIZATION):
+   - OBLIGATORY to start the article DIRECTLY with this EXACT header (Do NOT use 'Key Insights'):
+     ## Executive Summary (TL;DR)
+     - [Key point 1...]
+     - [Key point 2...]
+   - OBLIGATORY to end the article EXACTLY with this section:
+     ## Methodology and Sources
+     - [Source 1 with HTTPS link]
+     - [Source 2 with HTTPS link]
+
+2. UX / LEGAL (UNIQUE YMYL DISCLAIMER):
+   - **STRICTLY FORBIDDEN** to generate more than one (1) disclaimer.
+   - ONLY add ONE (1) disclaimer at the very end, AFTER the sources.
+   - *Editorial Disclosure: This content is for educational and informational purposes only. It does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist.*
+
+3. "ANTI-GPT" SYNTAX SHIELD (FORBIDDEN):
+   - NO Rhetorical Questions. NO AI Clichés: "only time will tell", "in conclusion", "double-edged sword", "in summary".
+   - FORBIDDEN to use headers like "Introduction", "Conclusion", "Summary".
+
+4. HYPERLINKS: At least 3 natural HTTPS links embedded in the text.
+5. HIERARCHY: Use ## and ### only. Do NOT use #.
+6. LENGTH: 2500 words.
+"""
+
+
+# Alias para compatibilidad parcial si alguien usa la variable antigua
+SYSTEM_FORMAT_RULES = SYSTEM_FORMAT_RULES_ES
+
 
 # ═══════════════════════════════════════════════════════════════════
 # PERSONA PROMPTS — REAL ESTATE & MARKET ANALYSIS
@@ -477,11 +488,12 @@ class PromptFactory:
     @staticmethod
     def get_system_prompt(niche: str, lang: str) -> str:
         """
-        Ensambla el system prompt completo = Persona + Format Rules.
-        Este es el string final que se pasa como system_message al LLM.
+        Ensambla el system prompt completo = Persona + Format Rules Localizadas.
         """
         persona = PromptFactory.get_persona(niche, lang)
-        return persona.strip() + "\n\n" + SYSTEM_FORMAT_RULES.strip()
+        format_rules = SYSTEM_FORMAT_RULES_ES if lang == "es" else SYSTEM_FORMAT_RULES_EN
+        return persona.strip() + "\n\n" + format_rules.strip()
+
 
     @staticmethod
     def list_niches() -> list:

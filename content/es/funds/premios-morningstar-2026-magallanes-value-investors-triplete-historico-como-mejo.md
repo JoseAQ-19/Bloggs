@@ -17,7 +17,7 @@ translationKey: e31f181f-24e4-81b5-0279-8c565ed093de
 type: funds
 ---
 
-## Key Insights
+## Resumen Ejecutivo (TL;DR)
 
 * ![Premios Morningstar 2026: Magallanes Value Investors, triplete histórico como mejor gestora.](/images/premios-morningstar-2026-magallanes-value-investors-triplete-historico-como-mejo.jpg)
 
@@ -107,85 +107,8 @@ Respuestas:
 
 Esperamos que esta información sea útil para los inversores que buscan obtener un rendimiento positivo en sus inversiones. Recuerde que la inversión en fondos de inversión siempre conlleva riesgos, por lo que es importante que los inversores tengan en cuenta los riesgos y las oportunidades de cada fondo antes de tomar una decisión de inversión.
 
-## Schema Markup
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento financiero, legal, médico ni profesional. Consulte siempre con un especialista certificado antes de tomar decisiones.*
 
-{
-"@context": "https://schema.org",
-"@type": "NewsArticle",
-"headline": "Premios Morningstar 2026: Magallanes Value Investors, triplete histórico como mejor gestora",
-"description": "Magallanes Value Investors ha logrado un triplete histórico como mejor gestora en los premios Morningstar 2026 gracias a su enfoque en la inversión en valor.",
-"image": "https://example.com/image.jpg",
-"author": {
-"@type": "Person",
-"name": "Juan Pérez"
-},
-"publisher": {
-"@type": "Organization",
-"name": "NovumWorld",
-"logo": {
-"@type": "ImageObject",
-"url": "https://example.com/logo.jpg"
-}
-},
-"datePublished": "2026-03-27",
-"dateModified": "2026-03-27"
-}
-
-{
-"@context": "https://schema.org",
-"@type": "FAQPage",
-"name": "Preguntas frecuentes de los usuarios reales",
-"description": "Respuestas a preguntas frecuentes de los usuarios reales sobre la inversión en fondos de inversión.",
-"mainEntity": [
-{
-"@type": "Question",
-"name": "¿Qué es la inversión en valor?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "La inversión en valor es un enfoque que busca identificar empresas que están siendo subestimadas por el mercado."
-}
-},
-{
-"@type": "Question",
-"name": "¿Qué es el índice de referencia?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "El índice de referencia es un índice que se utiliza como referencia para medir el rendimiento de un fondo de inversión."
-}
-},
-{
-"@type": "Question",
-"name": "¿Qué es la diversificación?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "La diversificación es la estrategia de invertir en diferentes activos para reducir el riesgo."
-}
-},
-{
-"@type": "Question",
-"name": "¿Qué es el horizonte de inversión?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "El horizonte de inversión es el período de tiempo durante el cual se espera que un fondo de inversión genere un rendimiento positivo."
-}
-},
-{
-"@type": "Question",
-"name": "¿Qué es el objetivo de inversión?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "El objetivo de inversión es el objetivo que se busca alcanzar mediante la inversión en un fondo de inversión."
-}
-}
-]
-}
-
----
-
-*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
-
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
-
-## Methodology and Sources and Sources
+## Metodología y Fuentes
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.

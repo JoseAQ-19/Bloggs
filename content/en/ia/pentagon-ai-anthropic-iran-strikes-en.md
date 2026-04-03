@@ -14,10 +14,7 @@ tags:
 title: Anthropic's Red Lines CRUMBLE? Pentagon AI Used in Iran Strike.
 translationKey: 26a2c82c-8cd8-8580-daa7-5865ebc3cb6f
 type: ia
----
-
-## Key Insights
-
+---## Executive Summary (TL;DR)
 * ![Anthropic's Red Lines CRUMBLE? Pentagon AI Used in Iran Strike.](/images/pentagon-ai-anthropic-iran-strikes-en.jpg)
 
 Anthropic's "red lines" are starting to look like speed bumps....
@@ -83,10 +80,12 @@ Demand full transparency on DoD's AI vendor due diligence.
 
 Code red for AI ethics.
 
-*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
-## Methodology and Sources and Sources
+
+
+## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*

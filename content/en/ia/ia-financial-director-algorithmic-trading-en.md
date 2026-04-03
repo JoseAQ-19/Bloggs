@@ -15,10 +15,7 @@ tags:
 title: 'iA Financial: $23 Million Insider Sale, Or Genius AI Play?'
 translationKey: 3b5672fe-a8d1-b4b4-6aa4-c42f4b79f6af
 type: ia
----
-
-## Key Insights
-
+---## Executive Summary (TL;DR)
 * ![iA Financial: $23 Million Insider Sale, Or Genius AI Play?](/images/ia-financial-director-algorithmic-trading-en.jpg)
 
 The $23.8 million share sale by iA Financial insiders isn't just a routine financial maneuver—it's a neon flashing sign that something beneath the surface may be rotten....
@@ -107,10 +104,12 @@ Financial AI has become the modern equivalent of the dot-com bubble—a narrativ
 
 For investors, the lesson is clear. When corporate executives sell millions while touting AI transformation, follow the money. The algorithm may promise efficiency and accuracy, but when insiders bet against it with their own portfolios, the smart money knows where the real risk lies.
 
-*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
-## Methodology and Sources and Sources
+
+
+## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*

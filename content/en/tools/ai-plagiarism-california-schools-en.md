@@ -14,10 +14,7 @@ tags:
 title: 'AI Cheating Panic: California Wasted $6 Million on Turnitin''s Hallucinations'
 translationKey: 522d0715-3b0f-95f6-dbe4-00404afb947f
 type: tools
----
-
-## Key Insights
-
+---## Executive Summary (TL;DR)
 * ![AI Cheating Panic: California Wasted $6 Million on Turnitin's Hallucinations](/images/ai-plagiarism-california-schools-en.jpg)
 
 * California State University has spent $6 million on Turnitin's AI detection software since 2019, despite accuracy concerns that have led to wrongful accusations against...
@@ -86,10 +83,12 @@ We've reached a moment of reckoning where educational leaders must confront unco
 
 The emperor has no clothes. AI detection cannot reliably distinguish between human and machine writing. The evidence is overwhelming. Continuing to invest in these tools represents institutional malpractice masquerading as academic innovation.
 
-*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
-## Methodology and Sources and Sources
+
+
+## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*

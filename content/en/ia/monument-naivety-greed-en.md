@@ -20,8 +20,7 @@ translationKey: monument-naivety-greed
 type: ia
 ---
 
-## Key Insights
-
+## Executive Summary (TL;DR)
 * The cryptocurrency boom, particularly the rise and fall of Bitcoin, offers a stark lesson in the perils of unchecked hype, technological utopianism, and good old-fashioned greed. What was initially touted as a revolutionary, decentralized financial system, free from the control of governments and ba...
 
 The cryptocurrency boom, particularly the rise and fall of Bitcoin, offers a stark lesson in the perils of unchecked hype, technological utopianism, and good old-fashioned greed. What was initially touted as a revolutionary, decentralized financial system, free from the control of governments and banks, has largely devolved into a speculative asset fueled by misinformation and the promise of quick riches. Examining the claims made by Bitcoin's proponents, alongside real-world data, exposes a chasm between the idealized vision and the messy reality.

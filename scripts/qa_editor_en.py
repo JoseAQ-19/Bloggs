@@ -763,6 +763,8 @@ Return ONLY a valid JSON object with this exact format (no markdown blocks, star
     if edited_body.endswith("```"):
         edited_body = edited_body[:-3].strip()
 
+    edited_body = ContentCleaner.sanitize_body(edited_body)
+
     # STEP 4: Validation
     print(f"\n   ✅ [Editor EN] STEP 4: Post-edit validation...")
     is_valid, issues = _validate_output(edited_body, body)

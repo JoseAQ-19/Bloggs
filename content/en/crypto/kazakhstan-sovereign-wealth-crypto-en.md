@@ -14,10 +14,7 @@ tags:
 title: '8% Surge: Kazakhstan''s Crypto Obsession Risks $350M Sovereign Wealth Bet.'
 translationKey: 94ecc7ec-4d93-5549-9cd1-05f7c25ff0eb
 type: crypto
----
-
-## Key Insights
-
+---## Executive Summary (TL;DR)
 * ![8% Surge: Kazakhstan's Crypto Obsession Risks $350M Sovereign Wealth Bet.](/images/kazakhstan-sovereign-wealth-crypto-en.jpg)
 
 Kazakhstan's electricity demand surged 8% in 2021 due to crypto mining, significantly outpacing typical growth and straining the national grid while the country simultaneo...
@@ -90,10 +87,12 @@ The sovereign wealth fund's own exposure to energy sector assets creates a compl
 
 ---
 
-*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
-## Methodology and Sources and Sources
+
+
+## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*

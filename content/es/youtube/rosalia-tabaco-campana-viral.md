@@ -15,10 +15,7 @@ title: 'Rosalía, Déjalo: La Campaña Anti-Tabaco Que Avergonzará A La Industr
   Vapeo.'
 translationKey: 31b629aa-8272-a9a4-f039-acf2a7c8a0e4
 type: youtube
----
-
-## Key Insights
-
+---## Resumen Ejecutivo (TL;DR)
 - La campaña "Rosalía, déjalo" de la AECC busca concienciar sobre el vapeo juvenil tras la viralización de imágenes de la cantante fumando.
 - Más del 54% de los jóvenes españoles entre 14 y 18 años han probado el vapeo, lo que plantea un grave problema de salud pública.
 - La industria del vapeo se promociona como una alternativa segura al tabaco, pero muchos productos contienen nicotina y sustancias tóxicas.
@@ -62,10 +59,12 @@ El futuro del vapeo es incierto y plantea preguntas cruciales sobre cómo se abo
 
 Margarita de la Paz de Esvidas destaca que la industria del vapeo manipula la percepción de los jóvenes, haciéndolos creer que los productos son seguros. Para garantizar un futuro sin humo, es necesario implementar políticas que limiten la publicidad dirigida a los jóvenes y que promuevan la educación sobre los riesgos del vapeo.
 
-*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
 
-## Methodology and Sources and Sources
+
+
+## Metodología y Fuentes
 
 Este artículo se ha desarrollado a partir de una revisión exhaustiva de investigaciones y datos recientes sobre el consumo de vapeo entre jóvenes en España, así como de opiniones de expertos en salud pública. Las fuentes incluyen artículos académicos, informes de organizaciones de salud y declaraciones de profesionales médicos.
+
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*

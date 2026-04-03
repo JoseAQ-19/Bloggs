@@ -14,10 +14,7 @@ tags:
 title: 'YouTube''s $46.2 Billion Ad Revenue Disaster: Is This The End For Creators?'
 translationKey: 0ad33ec4-5538-2675-2a25-f9c67e2b7b77
 type: youtube
----
-
-## Key Insights
-
+---## Executive Summary (TL;DR)
 * ![YouTube's $46.2 Billion Ad Revenue Disaster: Is This The End For Creators?](/images/youtube-golden-age-creator-economics-en.jpg)
 
 Google is concealing a catastrophic collapse in its core creator economy business model, and the fallout is already bankrupting mid-tier channels. The narrative of infi...
@@ -64,10 +61,12 @@ Todd Beaupre, Product Manager at YouTube, acknowledges the internal data regardi
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [YouTube TV Dodged Fox: Will 77.2 Million Cord-Cutters Pay The Price?](/en/youtube/youtube-tv-fox-deal-extension-en/)
 
-*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
-## Methodology and Sources and Sources
+
+
+## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*

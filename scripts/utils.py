@@ -133,3 +133,42 @@ class ContentCleaner:
         text = re.sub(r'\n{3,}', '\n\n', text)
         
         return text.strip()
+
+    @staticmethod
+    def sanitize_body(text):
+        """
+        Parser CRÍTICO: Amputa fugas de frontmatter (yaml/json) y líneas de metadatos
+        que el LLM haya vomitado dentro del cuerpo del texto, evitando doble frontmatter.
+        """
+        if not text:
+            return text
+            
+        # 1. Eliminar cualquier bloque ```yaml ... ``` o ```json ... ``` que pueda ser frontmatter
+        text = re.sub(r'(?i)```(?:yaml|json|markdown)\s*\n.*?(?:title:|slug:|translationKey:).*?```', '', text, flags=re.DOTALL)
+        
+        # 2. Eliminar bloque --- ... --- si aparece al principio del contenido
+        text = re.sub(r'^---\s*?\n.*?\n---\s*?\n', '', text, flags=re.DOTALL)
+        
+        # 3. Remover fugas crudas de metadatos sueltos.
+        # Identificamos líneas que empiecen con metadatos de Hugo.
+        lines = text.split('\n')
+        clean_lines = []
+        skip_mode = False
+        meta_keys = ['title:', 'slug:', 'translationKey:', 'description:', 'categories:', 'date:', 'language:']
+        
+        for line in lines:
+            stripped = line.strip()
+            # If line is exactly --- and we recently saw meta, we might be inside a leaked block,
+            # but usually it's just raw text.
+            if any(stripped.startswith(mk) for mk in meta_keys) and len(stripped) < 200:
+                continue # Omitir esta línea de metadato filtrada
+            # Delete markdown codeblocks if they are just wrapping the text
+            if stripped == '```' or stripped.startswith('```markdown'):
+                continue
+            clean_lines.append(line)
+            
+        # 4. Unir y limpiar
+        clean_text = '\n'.join(clean_lines)
+        clean_text = re.sub(r'\n{3,}', '\n\n', clean_text)
+        return clean_text.strip()
+

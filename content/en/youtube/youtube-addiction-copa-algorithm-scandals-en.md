@@ -17,10 +17,7 @@ title: 'YouTube''s Shocking $170 Million COPPA Violation Exposed: Kids Are Payin
   the Price'
 translationKey: 891c738b-5423-7adb-1272-1a48b7a826ad
 type: youtube
----
-
-## Key Insights
-
+---## Executive Summary (TL;DR)
 * ![YouTube's Shocking $170 Million COPPA Violation Exposed: Kids Are Paying the Price](/images/youtube-addiction-copa-algorithm-scandals-en.jpg)
 
 YouTube treats children's data as a revenue stream, not a protected asset, and the $170 million COPPA settlement is merely a calculated business expense ra...
@@ -109,10 +106,12 @@ The platform's strategy of prioritizing engagement over safety has turned a gene
 - [YouTube's Creator Burnout Crisis: 62-90% Are Suffering And The Financial Toll Is Exponential](/en/youtube/youtube-the-new-media-monarch-heres-what-you-need-to-know-en/)
 - [320,000 YouTube Users Screamed: What Google Is Hiding About The Outage.](/en/youtube/youtube-outage-2026-en/)
 
-*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
-## Methodology and Sources and Sources
+
+
+## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*

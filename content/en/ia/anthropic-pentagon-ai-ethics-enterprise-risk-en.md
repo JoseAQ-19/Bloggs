@@ -14,10 +14,7 @@ tags:
 title: 'Anthropic Just Broke Trust: The Pentagon Fallout Nobody Is Talking About'
 translationKey: ceeecf73-af25-99d2-a4cc-8953cab3341f
 type: ia
----
-
-## Key Insights
-
+---## Executive Summary (TL;DR)
 * ![Anthropic Just Broke Trust: The Pentagon Fallout Nobody Is Talking About](/images/anthropic-pentagon-ai-ethics-enterprise-risk-en.jpg)
 
 Anthropic's shiny "AI safety" halo is starting to slip, revealing a much less comforting reality beneath....
@@ -75,10 +72,12 @@ Enterprises should demand full transparency and verifiable safety protocols befo
 
 Trust, but verify... especially with AI.
 
-*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
-## Methodology and Sources and Sources
+
+
+## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*

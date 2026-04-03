@@ -1,28 +1,25 @@
 ---
-title: "Iran's Shocking Nuclear Secrets: 440 Kilograms Of Uranium Enriched To 60% Uncovered"
-date: 2026-04-02T11:44:04
+canonical: https://novumworld.com/ia/inside-irans-nuclear-secrets-iaea-docs-reveal-shocking-insights-en/
+categories:
+- ia
+date: 2026-04-02 11:44:04
+description: Discover the alarming revelations about Iran's nuclear program, including
+  the discovery of 440 kg of uranium enriched to 60%. Uncover the implications now.
 draft: false
-description: "Discover the alarming revelations about Iran's nuclear program, including the discovery of 440 kg of uranium enriched to 60%. Uncover the implications now."
-featured_image: "/images/inside-irans-nuclear-secrets-iaea-docs-reveal-shocking-insights-en.jpg"
-slug: "inside-irans-nuclear-secrets-iaea-docs-reveal-shocking-insights-en"
-canonical: "https://novumworld.com/ia/inside-irans-nuclear-secrets-iaea-docs-reveal-shocking-insights-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "b0807400-2684-1065-4ec7-fd5f12d93336"
+featured_image: /images/inside-irans-nuclear-secrets-iaea-docs-reveal-shocking-insights-en.jpg
+language: en
+slug: inside-irans-nuclear-secrets-iaea-docs-reveal-shocking-insights-en
+tags:
+- IA & SaaS
+title: 'Iran''s Shocking Nuclear Secrets: 440 Kilograms Of Uranium Enriched To 60%
+  Uncovered'
+translationKey: b0807400-2684-1065-4ec7-fd5f12d93336
+type: ia
 ---
 
 ![Iran's Shocking Nuclear Secrets: 440 Kilograms Of Uranium Enriched To 60% Uncovered](/images/inside-irans-nuclear-secrets-iaea-docs-reveal-shocking-insights-en.jpg)
 
 ---
-title: "Iran's 440kg Uranium Stockpile Breakpoint"
-slug: "iran-440kg-uranium-stockpile-breakpoint"
-translationKey: "iran-uranium-440kg-breakpoint"
-language: "en"
-categories: **"geopolitics", "nuclear-security"**
-description: "Iran's accumulation of 440.9kg of 60% enriched uranium signals a critical failure in non-proliferation protocols and risks a regional arms race."
-date: 2026-03-15T08:00:00+00:00
 ---
 
 **Key Insights / En Breve:**
@@ -111,10 +108,6 @@ The current path of half-measures and diplomatic posturing is a trap. As **intel
 ### Methodology & Sources
 
 This analysis relies on verified data from the International Atomic Energy Agency (IAEA) reports, the Office of the Director of National Intelligence (ODNI), and public statements from nuclear experts. Primary sources include the **ODNI Unclassified Report on Iran's Nuclear Weapons Capability** and assessments from the **Institute for Science and International Security**. All figures regarding uranium stockpiles and enrichment levels are cited directly from these official documents.
-
-
-
-
 
 <script type="application/ld+json">
 {

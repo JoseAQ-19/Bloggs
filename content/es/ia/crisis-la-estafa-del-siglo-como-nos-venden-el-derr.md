@@ -18,8 +18,7 @@ translationKey: crisis-la-estafa-del-siglo-como-nos-venden-el-derr
 type: ia
 ---
 
-## Key Insights
-
+## Resumen Ejecutivo (TL;DR)
 * ## La Demolición Controlada: ¿Una Reestructuración Global Orquestada?
 
 La teoría de una "demolición controlada" de la economía global postula que las crisis actuales no son accidentes desafortunados, sino etapas orquestadas para reestructurar el orden económico y social. Esta perspectiva sugiere que...

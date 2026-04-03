@@ -16,8 +16,7 @@ translationKey: tu-nevera-te-espia-el-futuro-orwelliano-que-ya-pag
 type: ia
 ---
 
-## Key Insights
-
+## Resumen Ejecutivo (TL;DR)
 * ## El Gran Hermano en el Salón de Estar: La Vigilancia Doméstica que Ya Estás Financiando
 
 Los televisores inteligentes (Smart TVs) activamente recopilan y transmiten datos sobre hábitos de visualización mediante Reconocimiento Automático de Contenido (ACR), una tecnología que actúa como un "Shazam ...

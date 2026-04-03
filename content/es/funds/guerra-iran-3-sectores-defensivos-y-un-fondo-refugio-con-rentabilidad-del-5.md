@@ -15,10 +15,7 @@ title: 'Guerra Irán: 3 sectores defensivos y un fondo refugio con rentabilidad 
   5%.'
 translationKey: e649a1e5-31ed-75b4-7a4c-83995ce85636
 type: funds
----
-
-## Key Insights
-
+---## Resumen Ejecutivo (TL;DR)
 * ![Guerra Irán: 3 sectores defensivos y un fondo refugio con rentabilidad del 5%.](/images/guerra-iran-3-sectores-defensivos-y-un-fondo-refugio-con-rentabilidad-del-5.jpg)
 
 Los mercados globales han reaccionado con extremo nerviosismo ante la escalada de tensiones entre Irán e Israel, con el petróleo...
@@ -76,10 +73,12 @@ Los inversores minoristas corren ahora mismo hacia estos sectores defensivos com
 
 ---
 
-*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
 
-## Methodology and Sources and Sources
+
+
+## Metodología y Fuentes
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*

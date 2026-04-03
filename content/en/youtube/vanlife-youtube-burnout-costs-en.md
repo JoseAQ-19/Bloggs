@@ -14,10 +14,7 @@ tags:
 title: 'Vanlife Apocalypse: Why YouTube''s Freedom Costs 3.7 Million Kids Their Future'
 translationKey: 80d360f8-27c4-883e-7860-2094725a8e34
 type: youtube
----
-
-## Key Insights
-
+---## Executive Summary (TL;DR)
 * ![Vanlife Apocalypse: Why YouTube's Freedom Costs 3.7 Million Kids Their Future](/images/vanlife-youtube-burnout-costs-en.jpg)
 
 YouTube glorifies vanlife freedom while sacrificing 3.7 million kids' futures. 
@@ -74,10 +71,12 @@ YouTube’s vanlife empire builds profit on an educational myth. Creators moneti
 
 Freedom isn’t free. It requires accountability.
 
-*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
-## Methodology and Sources and Sources
+
+
+## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*

@@ -14,10 +14,7 @@ tags:
 title: '$33 Billion Mess: Did Kraken''s Fed Access Just Expose Crypto''s Dirty Secret?'
 translationKey: e310b902-a041-2bb9-66c1-5ad734d57216
 type: crypto
----
-
-## Key Insights
-
+---## Executive Summary (TL;DR)
 * ![$33 Billion Mess: Did Kraken's Fed Access Just Expose Crypto's Dirty Secret?](/images/kraken-fed-access-crypto-implications-en.jpg)
 
 The SEC alleges Kraken held over $33 billion in customer crypto assets and commingled them, raising questions about the security of customer funds with increased Fed...
@@ -131,10 +128,12 @@ The proposed CLARITY bill attempts to create clearer boundaries between commodit
 The revolving door between regulatory agencies and the crypto industry raises concerns about potential conflicts of interest. Former regulators and government officials often take positions at crypto firms, leveraging their expertise and connections to influence policy decisions. This dynamic creates a risk that regulatory decisions may be influenced by personal gain rather than the public interest. To address this concern, regulators should implement stricter ethics rules and restrictions on post-employment activities to prevent conflicts of interest and ensure that regulatory decisions are made in a fair and impartial manner.
 ---
 
-*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
-## Methodology and Sources and Sources
+
+
+## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*

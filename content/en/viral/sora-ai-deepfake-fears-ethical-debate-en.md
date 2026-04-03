@@ -16,10 +16,7 @@ tags:
 title: 'Sora Just Sparked Ethical Outrage: The Dark Side of AI Video Generation'
 translationKey: 8978b1a0-1f72-8c76-a8b0-e1b62ecb0f6d
 type: viral
----
-
-## Key Insights
-
+---## Executive Summary (TL;DR)
 - OpenAI's Sora AI video generator was terminated due to unsustainable operational costs of $15 million per day, while generating only $2.1 million in revenue.
 - 73% of Fortune 500 companies have adopted AI video tools, indicating a significant shift in content creation.
 - Consumer perception of AI-generated content is largely negative, with 36% of consumers indicating such videos could harm brand reputation.
@@ -82,10 +79,12 @@ The operational and ethical challenges encountered by Sora underscore the pressi
 
 The bubble surrounding consumer generative video has burst. The underlying economics are flawed, and the associated safety risks remain unmanageable. We are entering an era of "industrial AI," where technology will be confined within corporate boundaries. The phase of open experimentation has concluded. The lesson of Sora is clear: certain technologies are too potent—and too costly—to be unleashed without restraint.
 
-*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
-## Methodology and Sources and Sources
+
+
+## Methodology and Sources
 
 This article synthesizes information from industry reports, expert interviews, and news articles to provide a comprehensive overview of the implications surrounding the closure of OpenAI's Sora. Data was gathered from reputable sources, including financial analyses, technology reports, and expert commentary, to ensure accuracy and depth of understanding.
+
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*

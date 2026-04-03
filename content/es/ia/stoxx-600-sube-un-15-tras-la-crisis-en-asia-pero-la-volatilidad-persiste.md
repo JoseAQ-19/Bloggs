@@ -16,8 +16,7 @@ translationKey: a9bee97a-a285-9304-9e3f-3c7953350138
 type: funds
 ---
 
-## Key Insights
-
+## Resumen Ejecutivo (TL;DR)
 * ## Stoxx 600: ¿Resiliencia europea o espejismo de volatilidad?
 
 El Stoxx 600 repuntó un 1,5% tras el desplome asiático, pero la volatilidad implícita persiste en máximos semestrales, lo que revela una incertidumbre geopolítica latente. Según datos de **Morningstar**, la volatilidad implícita en los ...

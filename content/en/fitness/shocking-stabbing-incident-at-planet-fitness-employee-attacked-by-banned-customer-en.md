@@ -1,28 +1,24 @@
 ---
-title: "Planet Fitness Employee Stabbed by Banned Customer Despite 15 Cameras Watching"
-date: 2026-04-03T05:00:54
+canonical: https://novumworld.com/fitness/shocking-stabbing-incident-at-planet-fitness-employee-attacked-by-banned-customer-en/
+categories:
+- fitness
+date: 2026-04-03 05:00:54
+description: A Planet Fitness employee was stabbed by a banned customer, raising questions
+  about safety despite 15 surveillance cameras monitoring the gym.
 draft: false
-description: "A Planet Fitness employee was stabbed by a banned customer, raising questions about safety despite 15 surveillance cameras monitoring the gym."
-featured_image: "/images/shocking-stabbing-incident-at-planet-fitness-employee-attacked-by-banned-customer-en.jpg"
-slug: "shocking-stabbing-incident-at-planet-fitness-employee-attacked-by-banned-customer-en"
-canonical: "https://novumworld.com/fitness/shocking-stabbing-incident-at-planet-fitness-employee-attacked-by-banned-customer-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "513a95de-9425-c06f-6edc-2211fd59d1ee"
+featured_image: /images/shocking-stabbing-incident-at-planet-fitness-employee-attacked-by-banned-customer-en.jpg
+language: en
+slug: shocking-stabbing-incident-at-planet-fitness-employee-attacked-by-banned-customer-en
+tags:
+- Biohacking & Fitness
+title: Planet Fitness Employee Stabbed by Banned Customer Despite 15 Cameras Watching
+translationKey: 513a95de-9425-c06f-6edc-2211fd59d1ee
+type: fitness
 ---
 
 ![Planet Fitness Employee Stabbed by Banned Customer Despite 15 Cameras Watching](/images/shocking-stabbing-incident-at-planet-fitness-employee-attacked-by-banned-customer-en.jpg)
 
 ---
-title: "Planet Fitness Stabbing Incident: A Deep Dive into Workplace Safety Failures"
-slug: "planet-fitness-stabbing-workplace-safety-failures"
-translationKey: "unique-stable-identifier"
-language: "en"
-categories: **"niche"**
-description: "Analyzing the stabbing incident at Planet Fitness to uncover flaws in safety protocols and employee training."
-date: 2023-10-05T10:00:00+00:00
 ---
 
 Without question, the recent stabbing of a Planet Fitness employee by a banned customer in Wyncote raises serious questions about the efficacy of surveillance and safety protocols in gyms. Despite having 15 cameras monitoring the facility, the incident illustrates a critical failure in workplace safety that could have been avoided with better systems and training.
@@ -94,10 +90,6 @@ This article draws from various sources, including OSHA reports, expert opinions
 * **OSHRC DOCKET**: [ALJ Decision in Planet Fitness, OSHRC Docket No. 23-1328](https://www.oshrc.gov/wp-content/uploads/23-1328-Planet-Fitness-ALJ-Dec.html)
 
 * **Media Reports**: **Planet Fitness employee stabbed multiple times at gym in Wyncote - 6abc Philadelphia**
-
-
-
-
 
 <script type="application/ld+json">
 {

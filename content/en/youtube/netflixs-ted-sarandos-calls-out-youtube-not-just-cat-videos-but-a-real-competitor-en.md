@@ -14,10 +14,7 @@ tags:
 title: 'YouTube''s Algorithm Dominates 70% of Viewing: Why Netflix Should Be Worried'
 translationKey: ae00744a-1a92-2b27-991c-a53e1721fb13
 type: youtube
----
-
-## Key Insights
-
+---## Executive Summary (TL;DR)
 * ![YouTube's Algorithm Dominates 70% of Viewing: Why Netflix Should Be Worried](/images/netflixs-ted-sarandos-calls-out-youtube-not-just-cat-videos-but-a-real-competitor-en.jpg)
 
 YouTube's recommendation algorithm drives approximately 70% of the content viewed on the platform, posing a significant th...
@@ -100,10 +97,12 @@ In this ever-evolving digital landscape, platforms must prioritize viewer engage
 - [Nathanson's Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?](/en/youtube/youtube-tv-subscriber-retention-en/)
 - [From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/en/youtube/youtube-vs-disney-new-media-king-en/)
 
-*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*Editorial Disclosure: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
-## Methodology and Sources and Sources
+
+
+## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
