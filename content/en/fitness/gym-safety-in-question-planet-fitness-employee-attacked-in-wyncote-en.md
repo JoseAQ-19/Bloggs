@@ -6,7 +6,8 @@ date: 2026-04-03 05:59:25
 description: Explore the shocking stabbing incident at Planet Fitness that reveals
   critical security flaws. Learn how to stay safe while working out in gyms.
 draft: false
-featured_image: /images/defaults/default-fitness.jpg
+featured_image: /images/gym-safety-in-question-planet-fitness-employee-attacked-in-wyncote-en.jpg
+image: /images/gym-safety-in-question-planet-fitness-employee-attacked-in-wyncote-en.jpg
 language: en
 slug: gym-safety-in-question-planet-fitness-employee-attacked-in-wyncote-en
 tags:

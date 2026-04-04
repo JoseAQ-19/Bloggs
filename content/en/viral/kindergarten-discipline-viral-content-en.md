@@ -7,7 +7,8 @@ date: 2026-03-10 21:09:51
 description: Illuminate Education breach exposed data of 10M students. Was your child's
   private information compromised? Learn how to protect your family NOW!.
 draft: false
-featured_image: /images/defaults/default-viral.jpg
+featured_image: /images/kindergarten-discipline-viral-content-en.jpg
+image: /images/kindergarten-discipline-viral-content-en.jpg
 language: en
 tags:
 - Viral & Trends
@@ -17,7 +18,7 @@ type: viral
 ---
 
 ## Executive Summary
-* ![Illuminate Education Exposed 10 Million Kids: Are Your Children Next?](/images/defaults/default-viral.jpg)
+* ![Illuminate Education Exposed 10 Million Kids: Are Your Children Next?](/images/kindergarten-discipline-viral-content-en.jpg)
 
 Illuminate Education Exposed 10 Million Kids: Are Your Children Next?
 Data breaches and disciplinary disparities are turning America's schools into digital and social battlegrounds. Your chi...

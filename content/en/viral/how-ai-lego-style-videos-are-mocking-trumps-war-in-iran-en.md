@@ -6,8 +6,8 @@ date: 2026-04-02 22:21:32
 description: An analysis of how AI-generated Lego videos mocking Donald Trump's Iran
   policy reveal the gamification of modern geopolitics and the rise of aesthetic warfare.
 draft: false
-featured_image: /images/defaults/default-viral.jpg
-image: /images/defaults/default-viral.jpg
+featured_image: /images/how-ai-lego-style-videos-are-mocking-trumps-war-in-iran-en.jpg
+image: /images/how-ai-lego-style-videos-are-mocking-trumps-war-in-iran-en.jpg
 language: en
 last_updated: '2026-04-03'
 quality_tier: fenix_v3_pro

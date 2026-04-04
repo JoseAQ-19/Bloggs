@@ -6,7 +6,8 @@ date: 2026-04-02 18:02:36
 description: Discover the unexpected surge in stablecoin trading, reaching $25.8 trillion.
   Explore the factors driving this remarkable growth in the financial.
 draft: false
-featured_image: /images/defaults/default-crypto.jpg
+featured_image: /images/crypto-class-adapting-to-a-new-era-of-digital-currency-en.jpg
+image: /images/crypto-class-adapting-to-a-new-era-of-digital-currency-en.jpg
 language: en
 slug: crypto-class-adapting-to-a-new-era-of-digital-currency-en
 tags:

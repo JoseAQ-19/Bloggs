@@ -6,7 +6,8 @@ date: 2026-04-02 20:37:06
 description: Experience Coachella like never before! Stream live performances from
   4 stages on YouTube and immerse yourself in this epic musical journey.
 draft: false
-featured_image: /images/defaults/default-viral.jpg
+featured_image: /images/dont-miss-out-coachella-streams-for-free-on-youtube-next-week-en.jpg
+image: /images/dont-miss-out-coachella-streams-for-free-on-youtube-next-week-en.jpg
 language: en
 slug: dont-miss-out-coachella-streams-for-free-on-youtube-next-week-en
 tags:

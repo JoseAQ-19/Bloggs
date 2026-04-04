@@ -8,7 +8,8 @@ description: Imagine yourself ten years from now. Are you thriving in a career y
   passionate about, one that challenges you intellectually and allows you to make
   a tangi...
 draft: false
-featured_image: /images/defaults/default-fitness.jpg
+featured_image: /images/kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm-en.jpg
+image: /images/kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm-en.jpg
 language: en
 tags:
 - Biohacking & Fitness

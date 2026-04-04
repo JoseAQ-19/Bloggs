@@ -8,7 +8,8 @@ description: ¿Estás buscando una carrera que te permita impactar positivamente
   vida de las personas a través del movimiento y la salud? El campo de la kinesiología
   y las ...
 draft: false
-featured_image: /images/defaults/default-fitness.jpg
+featured_image: /images/kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm.jpg
+image: /images/kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm.jpg
 language: es
 tags:
 - Biohacking & Fitness
@@ -20,7 +21,7 @@ type: fitness
 ---
 
 ## Resumen Ejecutivo
-* ![Kinesiology and Health Sciences Program: Preparing Students for Dynamic Careers in Human Movement - Alma College Analysis](/images/defaults/default-fitness.jpg)
+* ![Kinesiology and Health Sciences Program: Preparing Students for Dynamic Careers in Human Movement - Alma College Analysis](/images/kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm.jpg)
 
 ¿Buscas una carrera que te permita mejorar la vida de las personas a través del movimiento y la salud? El sector de la kinesiología y la...
 

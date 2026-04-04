@@ -4,8 +4,8 @@ author: NovumWorld Editorial Team
 description: A technical analysis of how Terms of Service and data sovereignty intersect
   with NVIDIA B200 clusters, Llama-3.1 405B weights, and the unit economics of inference.
 draft: false
-featured_image: /images/defaults/default-ia.jpg
-image: /images/defaults/default-ia.jpg
+featured_image: /images/terms-of-service.jpg
+image: /images/terms-of-service.jpg
 last_updated: '2026-04-03'
 layout: single
 quality_tier: fenix_v3_pro

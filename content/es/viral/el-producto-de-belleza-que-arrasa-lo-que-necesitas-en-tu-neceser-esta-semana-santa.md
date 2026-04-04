@@ -6,7 +6,8 @@ date: 2026-04-01 22:04:58
 description: Descubre por qué el 60% de los aclarantes de piel contienen ingredientes
   prohibidos y cómo esto afecta tu salud y bienestar. ¡Infórmate ya!.
 draft: false
-featured_image: /images/defaults/default-viral.jpg
+featured_image: /images/el-producto-de-belleza-que-arrasa-lo-que-necesitas-en-tu-neceser-esta-semana-santa.jpg
+image: /images/el-producto-de-belleza-que-arrasa-lo-que-necesitas-en-tu-neceser-esta-semana-santa.jpg
 language: es
 slug: el-producto-de-belleza-que-arrasa-lo-que-necesitas-en-tu-neceser-esta-semana-santa
 tags:

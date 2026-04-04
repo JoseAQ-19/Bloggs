@@ -6,7 +6,8 @@ date: 2026-04-03 05:00:54
 description: A Planet Fitness employee was stabbed by a banned customer, raising questions
   about safety despite 15 surveillance cameras monitoring the gym.
 draft: false
-featured_image: /images/defaults/default-fitness.jpg
+featured_image: /images/shocking-stabbing-incident-at-planet-fitness-employee-attacked-by-banned-customer-en.jpg
+image: /images/shocking-stabbing-incident-at-planet-fitness-employee-attacked-by-banned-customer-en.jpg
 language: en
 slug: shocking-stabbing-incident-at-planet-fitness-employee-attacked-by-banned-customer-en
 tags:

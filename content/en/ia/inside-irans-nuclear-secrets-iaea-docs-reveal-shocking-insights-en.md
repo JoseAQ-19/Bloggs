@@ -6,7 +6,8 @@ date: 2026-04-02 11:44:04
 description: Discover the alarming revelations about Iran's nuclear program, including
   the discovery of 440 kg of uranium enriched to 60%. Uncover the implications now.
 draft: false
-featured_image: /images/defaults/default-ia.jpg
+featured_image: /images/inside-irans-nuclear-secrets-iaea-docs-reveal-shocking-insights-en.jpg
+image: /images/inside-irans-nuclear-secrets-iaea-docs-reveal-shocking-insights-en.jpg
 language: en
 slug: inside-irans-nuclear-secrets-iaea-docs-reveal-shocking-insights-en
 tags:

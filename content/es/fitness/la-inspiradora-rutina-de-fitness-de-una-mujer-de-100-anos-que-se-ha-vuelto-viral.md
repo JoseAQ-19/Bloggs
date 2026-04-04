@@ -6,7 +6,8 @@ date: 2026-04-02 04:28:31
 description: Descubre la asombrosa historia de una mujer centenaria que rompió récords.
   Su rutina de fitness es una inspiración para todos. ¡No te lo pierdas!.
 draft: false
-featured_image: /images/defaults/default-fitness.jpg
+featured_image: /images/la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral.jpg
+image: /images/la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral.jpg
 language: es
 slug: la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral
 tags:

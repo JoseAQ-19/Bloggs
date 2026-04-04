@@ -6,7 +6,8 @@ date: 2026-04-02 16:03:38
 description: Descubre cómo la caída de Crypto.com impactó a 180 empleados y su nueva
   estrategia centrada en inteligencia artificial en nuestro análisis detallado.
 draft: false
-featured_image: /images/defaults/default-crypto.jpg
+featured_image: /images/cryptocom-despide-al-12-de-su-plantilla-mientras-apuesta-por-la-inteligencia-artificial.jpg
+image: /images/cryptocom-despide-al-12-de-su-plantilla-mientras-apuesta-por-la-inteligencia-artificial.jpg
 language: es
 slug: cryptocom-despide-al-12-de-su-plantilla-mientras-apuesta-por-la-inteligencia-artificial
 tags:

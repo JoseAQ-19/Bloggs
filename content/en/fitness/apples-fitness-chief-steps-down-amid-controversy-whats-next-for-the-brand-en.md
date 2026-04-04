@@ -6,7 +6,8 @@ date: 2026-04-02 06:16:42
 description: Apple Fitness+ is in turmoil with leadership changes and a significant
   user exodus. Discover the challenges it faces and what lies ahead for the platform.
 draft: false
-featured_image: /images/defaults/default-fitness.jpg
+featured_image: /images/apples-fitness-chief-steps-down-amid-controversy-whats-next-for-the-brand-en.jpg
+image: /images/apples-fitness-chief-steps-down-amid-controversy-whats-next-for-the-brand-en.jpg
 language: en
 slug: apples-fitness-chief-steps-down-amid-controversy-whats-next-for-the-brand-en
 tags:

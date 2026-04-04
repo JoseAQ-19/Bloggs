@@ -1,8 +1,8 @@
 ---
 description: Elite analysis of Bitcoin's 2025 performance, institutional ETF flows,
   on-chain data, and the macroeconomic pressures threatening its dominance.
-featured_image: /images/defaults/default-crypto.jpg
-image: /images/defaults/default-crypto.jpg
+featured_image: /images/bitcoin-ha-muerto-y-esta-vez-es-para-siempre-autop.jpg
+image: /images/bitcoin-ha-muerto-y-esta-vez-es-para-siempre-autop.jpg
 last_updated: '2026-04-03'
 quality_tier: fenix_v3_pro
 title: 'Bitcoin’s Structural Resilience vs. Macroeconomic Attrition: An On-Chain Autopsy'

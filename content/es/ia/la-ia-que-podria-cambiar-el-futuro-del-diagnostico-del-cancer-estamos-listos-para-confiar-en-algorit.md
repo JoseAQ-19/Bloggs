@@ -6,7 +6,8 @@ date: 2026-04-02 10:04:34
 description: Descubre cómo una innovadora IA logra predecir respuestas a la inmunoterapia
   con un 91.66% de precisión. Una revolución en el tratamiento del cáncer.
 draft: false
-featured_image: /images/defaults/default-ia.jpg
+featured_image: /images/la-ia-que-podria-cambiar-el-futuro-del-diagnostico-del-cancer-estamos-listos-para-confiar-en-algorit.jpg
+image: /images/la-ia-que-podria-cambiar-el-futuro-del-diagnostico-del-cancer-estamos-listos-para-confiar-en-algorit.jpg
 language: es
 slug: la-ia-que-podria-cambiar-el-futuro-del-diagnostico-del-cancer-estamos-listos-para-confiar-en-algorit
 tags:

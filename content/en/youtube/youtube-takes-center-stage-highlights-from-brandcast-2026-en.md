@@ -6,7 +6,8 @@ date: 2026-04-01 19:54:01
 description: Discover the alarming 68% creator burnout rate on YouTube and its potential
   impact on the future of content creation. Explore the challenges ahead!.
 draft: false
-featured_image: /images/defaults/default-viral.jpg
+featured_image: /images/youtube-takes-center-stage-highlights-from-brandcast-2026-en.jpg
+image: /images/youtube-takes-center-stage-highlights-from-brandcast-2026-en.jpg
 language: en
 slug: youtube-takes-center-stage-highlights-from-brandcast-2026-en
 tags:
