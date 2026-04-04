@@ -12,6 +12,7 @@
 8. [x] **Asset Sync (Schema/Logo)**: Corregida ruta del logo en `schema.html` (`logo-tech.jpg`).
 
 ## 🟢 ADSENSE PRIORITY 1 HOTFIXES (2026-04-04) - ESTADO: RESUELTO
+- [x] **Eliminación de Huella IA (TL;DR)**: Ejecutada limpieza masiva en todos los archivos `.md` existentes en `content/` y actualizadas las plantillas en `scripts/content_engine_pro.py` y `scripts/adsense_rescue.py` para usar únicamente "Resumen Ejecutivo" o "Executive Summary", sin "(TL;DR)".
 - [x] **Imágenes de Producción**: Añadidas y pusheadas 17 imágenes regeneradas a Vercel que no estaban trackeadas en Git.
 - [x] **About Page Routing**: Corregido bug en `content/en/about.md` que apuntaba la URL al directorio español, causando 404 en la versión inglesa.
 - [x] **Privacy Policies Legales**: Eliminado ensayo editorial. Añadida política de privacidad y cookies real y específica (GDPR/CCPA/AdSense) en español e inglés.
