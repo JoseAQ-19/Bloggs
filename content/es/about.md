@@ -36,6 +36,6 @@ Nuestro equipo está compuesto por analistas, ingenieros de datos y expertos en 
 
 Si deseas plantear dudas técnicas, correcciones u oportunidades de colaboración, por favor, ponte en contacto con nuestra redacción escribiendo a:
 
-- **Correo electrónico:** editorial@novumworld.com
+- **Correo electrónico:** [media.flow.proyectos@gmail.com](mailto:media.flow.proyectos@gmail.com)
 
 *NovumWorld Publishing*

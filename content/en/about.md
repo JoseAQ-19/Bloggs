@@ -68,3 +68,13 @@ NovumWorld is evolving from a content platform to a technical utility. The upcom
 We are building a community of intelligence—a network of individuals who value technical truth over institutional consensus. This decentralized collective allows us to tap into specialized knowledge across various time zones and jurisdictions, ensuring that our analysis remains objective and free from the influence of corporate advertisers. Our commitment to transparency means that we will always disclose our use of AI tools in our research, but the final analytical synthesis will always be the product of human engineering judgment.
 
 In the coming years, as the line between synthetic and human content blurs, the value of a 'Verified Technical Perspective' will only increase. NovumWorld aims to be the standard-bearer for this perspective, providing the architectural blueprints for navigating the complex intersection of compute, economics, and biology. The noise will only get louder; our job is to ensure the signal remains clear.
+
+---
+
+## Editorial Contact
+
+For technical inquiries, corrections, or collaboration opportunities, please reach out to our editorial team at:
+
+- **Email:** [media.flow.proyectos@gmail.com](mailto:media.flow.proyectos@gmail.com)
+
+*NovumWorld Publishing*
