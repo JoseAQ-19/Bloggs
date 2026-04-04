@@ -3,6 +3,7 @@ import re
 import json
 import random
 import glob
+import urllib.parse
 from datetime import datetime, timedelta
 import hashlib
 import logging
@@ -750,6 +751,24 @@ CRITICAL RULES:
                         all_urls.append(url)
         
         if all_urls:
+            # ---> PLAN MAESTRO: Vault Save
+            os.makedirs("data", exist_ok=True)
+            vault_file = "data/scout_vault.json"
+            vault_data = {}
+            if os.path.exists(vault_file):
+                try:
+                    with open(vault_file, 'r', encoding='utf-8') as f:
+                        vault_data = json.load(f)
+                except Exception:
+                    pass
+            vault_data[meta['slug']] = all_urls[:15]
+            try:
+                with open(vault_file, 'w', encoding='utf-8') as f:
+                    json.dump(vault_data, f, indent=4)
+            except Exception:
+                pass
+            # <---
+            
             urls_list = "\n".join([f"  - {u}" for u in all_urls[:15]])
             verified_urls_block = f"""
 
@@ -928,13 +947,50 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
     clean_title = meta['titulo'].replace('"', '').replace('\\$', '$').replace('\\[', '[').replace('\\]', ']')
     clean_desc = clean_text.replace('\\$', '$').replace('\\[', '[').replace('\\]', ']')
     
-    # ── PROGRAMMATIC INTERNAL LINK INJECTION ──
+    # ── 1. PROGRAMMATIC METHODOLOGY INJECTION ──
+    vault_file = "data/scout_vault.json"
+    scout_urls = []
+    if os.path.exists(vault_file):
+        try:
+            with open(vault_file, "r", encoding="utf-8") as f:
+                vault_data = json.load(f)
+                scout_urls = vault_data.get(meta['slug'], [])
+        except Exception:
+            pass
+
+    methodology_block = ""
+    if scout_urls:
+        methodology_title = "## Metodología y fuentes" if lang == 'es' else "## Methodology and Sources"
+        methodology_block += f"\n\n{methodology_title}\n"
+        for u in scout_urls[:5]:  # Mantenemos las top 5
+            domain = urllib.parse.urlparse(u).netloc.replace("www.", "")
+            methodology_block += f"- [{domain}]({u})\n"
+
+    # ── 2. PROGRAMMATIC INTERNAL LINK INJECTION (CATEGORY SPECIFIC) ──
     internal_links_footer = ""
-    footer_links = LinkManager.get_latest_internal_links(lang=lang, limit=2)
-    if footer_links:
-        internal_links_footer += "\n\n### Artículos Relacionados\n" if lang == 'es' else "\n\n### Related Articles\n"
-        for fl in footer_links:
-            internal_links_footer += f"- [{fl['title']}]({fl['url']})\n"
+    pattern = f"content/{lang}/{category}/*.md"
+    files = sorted(glob.glob(pattern), key=os.path.getmtime, reverse=True)[:30]
+    candidates = []
+    for fpath in files:
+        cur_slug = os.path.basename(fpath).replace('.md', '')
+        if cur_slug != meta['slug'] and cur_slug != '_index':
+            candidates.append((cur_slug, fpath))
+    
+    sampled = random.sample(candidates, min(3, len(candidates)))
+    if sampled:
+        related_title = "## Artículos relacionados" if lang == 'es' else "## Related Articles"
+        internal_links_footer += f"\n\n{related_title}\n"
+        for cur_slug, fpath in sampled:
+            try:
+                with open(fpath, 'r', encoding='utf-8') as f:
+                    content_start = f.read(500)
+                m = re.search(r'^title:\s*"?([^"\n]+)"?', content_start, re.MULTILINE)
+                if m:
+                    f_title = m.group(1).strip().strip('"').strip("'")
+                    rel_path = f"/es/{category}/{cur_slug}/" if lang == "es" else f"/{category}/{cur_slug}/"
+                    internal_links_footer += f"- [{f_title}]({rel_path})\n"
+            except Exception:
+                pass
     
     # ── PROGRAMMATIC JSON-LD INJECTION ──
     # Extraer URLs de imagen absoluta (asumiendo novumworld.com)
@@ -986,8 +1042,8 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
 > **{("Aviso de Riesgo y Exención de Responsabilidad" if lang == 'es' else "Risk Warning & Disclaimer")}:** {("El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado." if lang == 'es' else "The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.")}
 """ if category in ['crypto', 'funds', 'stocks'] else ""
 
-    # Agregar Disclaimers, Cajas de Autor, Footer Links y JSON-LD al contenido
-    contenido_enrich = contenido.strip() + "\n\n" + yml_disclaimer.strip() + "\n" + author_box.strip() + "\n" + internal_links_footer + "\n\n" + json_ld.strip()
+    # Agregar Disclaimers, Cajas de Autor, Footer Links y JSON-LD al contenido en ORDEN ESTRATÉGICO
+    contenido_enrich = contenido.strip() + methodology_block + internal_links_footer + "\n\n" + yml_disclaimer.strip() + "\n" + author_box.strip() + "\n\n" + json_ld.strip()
 
     # Frontmatter YAML original
     front_matter = f"""---
