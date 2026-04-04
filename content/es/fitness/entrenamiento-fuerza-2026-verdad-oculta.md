@@ -16,7 +16,7 @@ translationKey: 730b0f12-2086-aa29-353e-d895918a0d6c
 type: fitness
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Resumen Ejecutivo
 
 * ![Sarcopenia a los 50: El Peligro Oculto que Ignoran el 70% de Españoles](/images/entrenamiento-fuerza-2026-verdad-oculta.jpg)
 
@@ -86,8 +86,9 @@ Incorpora al menos dos sesiones de entrenamiento de resistencia por semana, cent
 
 No te dejes robar tu fuerza; ¡combate la sarcopenia y vive más fuerte!
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento financiero, legal, médico ni profesional. Consulte siempre con un especialista certificado antes de tomar decisiones.*
 
 ## Metodología y Fuentes
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*

@@ -14,7 +14,9 @@ tags:
 title: 'Costaleros al Límite: El Secreto Para Evitar Lesiones de Espalda Estas Fiestas'
 translationKey: 3b14aebe-4b64-025f-2636-9d68a929da96
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Costaleros al Límite: El Secreto Para Evitar Lesiones de Espalda Estas Fiestas](/images/semana-santa-entrenamiento-sin-remordimientos.jpg)
 
 **Un tercio de los españoles sufre lesiones musculares anuales, pero los costaleros de Sevilla cargan con el doble de riesgo bajo sus pasos** [3 de cada 10...

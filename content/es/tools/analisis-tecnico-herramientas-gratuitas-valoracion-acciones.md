@@ -14,7 +14,9 @@ tags:
 title: ¡ALERTA INVERSORES! La CNMV Está Vigilando Tu IA Para Valorar Acciones
 translationKey: 390f6399-5e84-3f40-1820-643f788d652c
 type: tools
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![¡ALERTA INVERSORES! La CNMV Está Vigilando Tu IA Para Valorar Acciones](/images/analisis-tecnico-herramientas-gratuitas-valoracion-acciones.jpg)
 
 La promesa de la Inteligencia Artificial en los mercados financieros se está encontrando con un muro de realidad regulatoria que amenaza con desinflar l...

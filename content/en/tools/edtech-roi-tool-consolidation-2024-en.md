@@ -6,7 +6,7 @@ date: 2026-04-02 14:49:52
 description: Explore the challenges facing school districts as they consolidate edtech
   tools in response to a $2.4 billion funding crisis and declining spending trends.
 draft: false
-featured_image: /images/edtech-roi-tool-consolidation-2024-en.jpg
+featured_image: /images/defaults/default-viral.jpg
 language: en
 slug: edtech-roi-tool-consolidation-2024-en
 tags:

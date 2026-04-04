@@ -14,7 +14,9 @@ tags:
 title: 'Ataque en Irán: Stoxx 600 Recupera un 2%, ¿Sostenible o Rebote Efímero?'
 translationKey: e15d2480-fb40-0754-4800-b4a7b7829e12
 type: funds
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Ataque en Irán: Stoxx 600 Recupera un 2%, ¿Sostenible o Rebote Efímero?](/images/ataque-en-iran-stoxx-600-recupera-un-2-sostenible-o-rebote-efimero.jpg)
 
 El Stoxx 600 recupera un 2% tras el ataque en Irán, pero los expertos advierten que la volatilidad podría durar semanas, según Morningstar. Tras...

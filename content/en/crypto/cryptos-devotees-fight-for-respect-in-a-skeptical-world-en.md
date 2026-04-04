@@ -14,7 +14,9 @@ tags:
 title: '98 Billion Dollars: The Shocking Decline of DeFi TVL and Its Consequences'
 translationKey: fe39cd22-cf2a-9cdb-6915-21dcdeb2870b
 type: crypto
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![98 Billion Dollars: The Shocking Decline of DeFi TVL and Its Consequences](/images/cryptos-devotees-fight-for-respect-in-a-skeptical-world-en.jpg)
 
 Total Value Locked (TVL) in decentralized finance has collapsed by $72 billion since late 2025, shattering the illusion of endless yield and exposing ...
@@ -97,3 +99,5 @@ SEC Chair Paul S. Atkins has articulated a regulatory framework that ignores the
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

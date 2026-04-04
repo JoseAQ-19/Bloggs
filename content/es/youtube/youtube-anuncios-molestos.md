@@ -15,7 +15,9 @@ tags:
 title: 'YouTube se Descontrola: 311 Millones de Razones Para Odiar Los Anuncios'
 translationKey: f801a6b2-9e6d-1f92-ba4d-7331eaab1c4a
 type: youtube
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![YouTube se Descontrola: 311 Millones de Razones Para Odiar Los Anuncios](/images/youtube-anuncios-molestos.jpg)
 
 La paciencia de los usuarios de YouTube en España se agota, y no es solo por el último video viral. YouTube generó 311 millones de euros en ingresos publicitarios en España en 2024, un ...

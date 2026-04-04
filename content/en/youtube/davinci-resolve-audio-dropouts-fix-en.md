@@ -14,7 +14,9 @@ tags:
 title: 'DaVinci Resolve Audio Dropouts: The Real Culprits & Fixes'
 translationKey: e50b8caf-ff82-4155-bd4d-944825f5fc20
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![DaVinci Resolve Audio Dropouts: The Real Culprits & Fixes](/images/davinci-resolve-audio-dropouts-fix-en.jpg)
 
 As of August 31, 2025, a staggering 72.88% of creators are struggling with small audiences, holding fewer than 10,000 followers according to OpusClip. Despite DaVinci Resolve being hailed...

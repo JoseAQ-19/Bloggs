@@ -15,7 +15,9 @@ title: '¡Alerta Roja! Guerra Irán-EEUU Infla Apuestas Crypto a $500M: ¿Manipu
   Masiva?'
 translationKey: 827a5952-1bff-d8da-3607-993d27398f8a
 type: crypto
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![¡Alerta Roja! Guerra Irán-EEUU Infla Apuestas Crypto a $500M: ¿Manipulación Masiva?](/images/guerra-iran-eeuu-apuestas-crypto-polymarket.jpg)
 
 Más de 500 millones de dólares en apuestas cripto sobre un posible conflicto entre Estados Unidos e Irán despiertan sospechas de manipulación masiva. La es...

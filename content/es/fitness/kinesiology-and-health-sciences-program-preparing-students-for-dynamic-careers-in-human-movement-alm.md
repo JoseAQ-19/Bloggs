@@ -17,7 +17,9 @@ tags:
 title: 'Programa de Kinesiología: Carreras Dinámicas en Ciencias del Movimiento Humano'
 translationKey: kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Kinesiology and Health Sciences Program: Preparing Students for Dynamic Careers in Human Movement - Alma College Analysis](/images/defaults/default-fitness.jpg)
 
 ¿Buscas una carrera que te permita mejorar la vida de las personas a través del movimiento y la salud? El sector de la kinesiología y la...

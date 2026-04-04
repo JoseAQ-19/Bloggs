@@ -14,7 +14,9 @@ tags:
 title: 'Terianos: La Revolución Silenciosa Que Está Reconfigurando La Cultura Cubana'
 translationKey: 6f68db0a-6246-b067-68ca-094b84af3d9e
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * Terianos, una red clandestina, permite que más de 100.000 cubanos eludir las restricciones de internet impuestas por el gobierno operando a través de conexiones inalámbricas ilegales y el intercambio de contenido al margen de ETECSA. La existencia de esta red refleja el creciente deseo de los ciudad...
 
 Terianos, una red clandestina, permite que más de 100.000 cubanos eludir las restricciones de internet impuestas por el gobierno operando a través de conexiones inalámbricas ilegales y el intercambio de contenido al margen de ETECSA. La existencia de esta red refleja el creciente deseo de los ciudadanos por acceder a información global sin censura, incluso bajo el riesgo de enfrentarse a sanciones legales o técnicas.

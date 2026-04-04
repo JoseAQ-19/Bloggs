@@ -14,7 +14,9 @@ tags:
 title: 'LazarBeam''s $40 Million Mistake: How Profanity Decimated His YouTube Empire'
 translationKey: 4ab35dca-525c-9394-cea2-06fc57afae2e
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![LazarBeam's $40 Million Mistake: How Profanity Decimated His YouTube Empire](/images/lazarbeam-youtube-empire-en.jpg)
 
 LazarBeam estimates he lost up to $40 million in ad revenue because he swore too much on YouTube....

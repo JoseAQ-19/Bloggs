@@ -15,7 +15,9 @@ title: 'AI Candidate Disrupts Colombia’s Elections: The Startling Truth Behind
   Deepfake Videos'
 translationKey: cfd72d6f-2f2d-9c27-a81d-f35c35a8b8ed
 type: ia
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![AI Candidate Disrupts Colombia’s Elections: The Startling Truth Behind 500,000 Deepfake Videos](/images/how-an-ai-candidate-changed-the-game-in-colombias-elections-en.jpg)
 
 AI is not just a buzzword; it’s a looming specter over democracy, particularly in Colombia, where the upcoming 2026 elections...

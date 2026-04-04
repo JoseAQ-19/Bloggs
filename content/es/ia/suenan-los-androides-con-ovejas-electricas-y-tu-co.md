@@ -17,7 +17,9 @@ tags:
 title: ¿Sueñan los Androides con Ovejas Eléctricas... y Tú con un Futuro de Mierda?
 translationKey: 841eb1a6-6dcf-f279-b4ca-45fe46d000a8
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 El análisis de la obra de Philip K. Dick, *¿Sueñan los androides con ovejas eléctricas?*, revela una sobrevaloración de la ciencia ficción como herramienta predictiva en nuestra sociedad contemporánea. La narrativa cyberpunk y su aparente crítica a la sociedad capitalista se han convertido en un mero accesorio del sistema, mientras que movimientos como el Solarpunk representan ilusiones que ignoran las problemáticas sistémicas. La empatía, un tema recurrente en las obras de Dick, se convierte en un tema debatible en la era de la inteligencia artificial, donde la simulación de emociones podría deshumanizar aún más nuestras interacciones. La única respuesta viable ante esta deshumanización es la desconexión de las estructuras que perpetúan el consumismo y la alienación, permitiéndonos así reconectar con nuestra humanidad y el entorno físico.
 
 ## Cuerpo

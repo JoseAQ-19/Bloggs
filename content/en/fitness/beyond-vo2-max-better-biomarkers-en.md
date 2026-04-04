@@ -14,7 +14,9 @@ tags:
 title: 'UTMB Coach Drops Truth Bomb: VO2 Max Is the WORST Predictor for Runners'
 translationKey: 5b7e4f20-4c8f-4756-63e7-38bdf2ed878d
 type: fitness
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![UTMB Coach Drops Truth Bomb: VO2 Max Is the WORST Predictor for Runners](/images/beyond-vo2-max-better-biomarkers-en.jpg)
 
 VO2 max, often considered the gold standard for endurance athletes, may be less reliable than previously thought. Some experts now argue that focusing solely on VO2 max is an ...
@@ -80,3 +82,5 @@ VO2 max is not the sole determinant of endurance performance. Prioritize lactate
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

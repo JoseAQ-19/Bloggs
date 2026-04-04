@@ -14,7 +14,9 @@ tags:
 title: 'BBC Edited Palestine But Aired The N-Word: What''s REALLY Going On?'
 translationKey: 9ceded7b-d636-0c61-59bc-25b34823201e
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![BBC Edited Palestine But Aired The N-Word: What's REALLY Going On?](/images/bafta-tourettes-outrage-en.jpg)
 
 Cancel culture has exposed media hypocrisy. The BBC's selective editing sparks debate on bias, free speech, and responsibility....

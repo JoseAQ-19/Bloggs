@@ -14,7 +14,9 @@ tags:
 title: 76-Year-Old Fitness Dynamo Crushes Daily Muscle-Ups While Defying Aging Science
 translationKey: 1ca3c7c7-0ef5-14fc-507e-4ebc6bba7ece
 type: fitness
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![76-Year-Old Fitness Dynamo Crushes Daily Muscle-Ups While Defying Aging Science](/images/meet-the-76-year-old-fitness-dynamo-crushing-muscle-ups-daily-en.jpg)
 
 Without question, the narrative around aging often paints a bleak picture of inevitable decline in physical capabilities. However, the sto...
@@ -104,3 +106,5 @@ No, it is never too late to start resistance training. Research indicates that e
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

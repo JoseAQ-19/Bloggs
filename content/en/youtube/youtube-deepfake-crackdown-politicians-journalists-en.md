@@ -14,7 +14,9 @@ tags:
 title: 'YouTube''s AI Crackdown: 83% Of Americans Terrified By Election Deepfakes'
 translationKey: f783666f-6ece-c437-a524-1bbe919efa78
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![YouTube's AI Crackdown: 83% Of Americans Terrified By Election Deepfakes](/images/youtube-deepfake-crackdown-politicians-journalists-en.jpg)
 
 YouTube's pledge to combat AI-generated election deepfakes rings hollow when basic software can bypass its safeguards....

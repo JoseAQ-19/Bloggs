@@ -15,7 +15,9 @@ title: 'Salomon Ultra Pirineu: ¿Héroes Ecológicos o Contaminación Disfrazada
   Datos Revelan'
 translationKey: f47760bd-387b-be68-765d-8b2f4ae5a7ad
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Salomon Ultra Pirineu: ¿Héroes Ecológicos o Contaminación Disfrazada? Los Datos Revelan](/images/running-solidario-impacto-ambiental.jpg)
 
 La industria de las carreras de montaña vende una fantasía de conexión con la naturaleza mientras, irónicamente, deja una huella ecológica que requiere semanas...

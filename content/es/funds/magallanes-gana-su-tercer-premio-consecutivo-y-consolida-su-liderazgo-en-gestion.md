@@ -15,7 +15,9 @@ title: Magallanes gana su tercer premio consecutivo y consolida su liderazgo en 
   de fondos
 translationKey: 2b926a6c-5a8f-9416-bbcf-70f947a40bc0
 type: funds
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 - **Premio Morningstar**: Magallanes Value Investors ha sido reconocida por tercera vez consecutiva como la mejor gestora de fondos en España, lo que resalta su capacidad para mantener un desempeño destacado en un entorno competitivo.
 - **Rentabilidad destacada**: El fondo Magallanes European Equity ha logrado una rentabilidad anualizada del 10,5% en los últimos cinco años, superando las expectativas del mercado.
 - **Ratio de Sharpe**: Con un ratio de Sharpe de 1,21 para el fondo Magallanes Iberian Equity, la firma demuestra un rendimiento ajustado al riesgo que supera la media del sector.

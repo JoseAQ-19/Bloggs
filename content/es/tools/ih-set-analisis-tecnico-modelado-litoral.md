@@ -17,7 +17,9 @@ title: 'La Controversia Oculta: 40% de la Población Española en Peligro por Er
   Costera'
 translationKey: 4585e79b-c2db-5f8a-cb86-ee21316bcf31
 type: tools
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 - Más del 40% de la población española vive en zonas costeras vulnerables a la erosión.
 - Se invierten 1.063 millones de euros anualmente en saneamiento, cifra que contrasta con los 309 millones destinados a nuevos hoteles en la Costa del Sol.
 - La "Regla de Bruun" indica que la costa podría retirarse un metro por cada centímetro que suba el nivel del mar.

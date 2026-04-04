@@ -14,7 +14,9 @@ tags:
 title: 'Emma McNally Blasts SNL: Why This Tourette''s Joke Is NOT ACCEPTABLE'
 translationKey: 1932bd19-32b0-f06e-686a-c3c1d048bc70
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Emma McNally Blasts SNL: Why This Tourette's Joke Is NOT ACCEPTABLE](/images/snl-tourettes-controversy-en.jpg)
 
 The laughter stopped when a disability was the punchline. SNL’s recent sketch is more harmful than humorous, according to Tourette's advocates....

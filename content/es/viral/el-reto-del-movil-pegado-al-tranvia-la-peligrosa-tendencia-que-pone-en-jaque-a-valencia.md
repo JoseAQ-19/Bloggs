@@ -16,12 +16,14 @@ tags:
 title: 'Smombies En València: La Epidemia Que Ya Ha Causado Muertes En Los Tranvías'
 translationKey: 8a204d02-5372-ca3b-fca9-5df2bc0dd3db
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Smombies En València: La Epidemia Que Ya Ha Causado Muertes En Los Tranvías](/images/el-reto-del-movil-pegado-al-tranvia-la-peligrosa-tendencia-que-pone-en-jaque-a-valencia.jpg)
 
-### TL;DR BULLETS:...
+### Key Points
 
-### TL;DR BULLETS:
+### Key Points
 
 - En Valencia, el 40% de los accidentes de peatones en líneas de tranvía entre 2015 y 2017 involucraron el uso de teléfonos móviles, según **Ferrocarrils de la Generalitat Valenciana (FGV)**. 
 - Según **IO Investigación**, 1 de cada 3 peatones españoles admite no mirar al cruzar la calle, y más del 35% usa el móvil mientras lo hace. 

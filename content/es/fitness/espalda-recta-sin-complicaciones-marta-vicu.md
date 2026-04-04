@@ -6,7 +6,7 @@ categories:
 date: 2026-03-08 05:16:10
 description: ¿Marta Vicu te promete adiós al dolor de espalda? Antes de celebrarlo,
   descubre este dato impactante sobre la lumbalgia que podría aterrarte. ¡No te lo.
-draft: false
+draft: true
 featured_image: /images/espalda-recta-sin-complicaciones-marta-vicu.jpg
 language: es
 tags:
@@ -14,7 +14,9 @@ tags:
 title: Marta Vicu Promete Espalda Recta, Pero Este Dato Sobre Lumbalgia Te Aterrará
 translationKey: 301235bb-2af4-267e-5494-f4bf78113fc3
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 *   **Prevalencia Global Alarmante:** El 80% de la población experimentará lumbalgia en algún momento de su vida, y 577 millones de personas la sufren actualmente, según el estudio Global Burden of Disease de 2017, posicionándola como la principal causa de discapacidad a nivel mundial.
 *   **Disparidad entre Promesas y Evidencia:** Figuras como Marta Vicu promocionan soluciones rápidas para una "espalda recta" en redes sociales, lo cual contrasta con la complejidad etiológica y la naturaleza crónica de la lumbalgia, que requiere diagnósticos individualizados y tratamientos basados en evidencia.
 *   **Riesgos de la Desinformación:** La proliferación de consejos no verificados por influencers puede generar falsas expectativas, retrasar la búsqueda de atención médica profesional y exacerbar condiciones preexistentes, comprometiendo la salud a largo plazo del paciente.

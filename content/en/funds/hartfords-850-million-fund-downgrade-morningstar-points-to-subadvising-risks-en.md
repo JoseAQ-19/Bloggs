@@ -17,7 +17,7 @@ translationKey: 31ff1b18-98df-c68a-23c5-684ba7315b52
 type: funds
 ---
 
-## Executive Summary (TL;DR)
+## Executive Summary
 Morningstar has recently downgraded Hartford's $850 million fund, primarily due to concerns regarding subadvising risks. This decision has taken many investors by surprise, given Hartford's longstanding reputation in the financial industry. The fund's performance metrics show a 3.42% return over one year and a 6.54% return over three years, alongside a 1.25% expense ratio. As the market reacts to this downgrade, investors are increasingly focusing on the implications of subadvising arrangements and how they may impact fund performance and accountability.
 
 ## Understanding the Subadvising Landscape
@@ -103,3 +103,5 @@ In conclusion, the evolving landscape of fund management necessitates a proactiv
 ---
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

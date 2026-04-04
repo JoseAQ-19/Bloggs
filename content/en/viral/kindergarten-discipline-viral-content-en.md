@@ -14,7 +14,9 @@ tags:
 title: 'Illuminate Education Exposed 10 Million Kids: Are Your Children Next?'
 translationKey: 771405e7-98e3-6803-7074-13fe23c16d1b
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Illuminate Education Exposed 10 Million Kids: Are Your Children Next?](/images/defaults/default-viral.jpg)
 
 Illuminate Education Exposed 10 Million Kids: Are Your Children Next?

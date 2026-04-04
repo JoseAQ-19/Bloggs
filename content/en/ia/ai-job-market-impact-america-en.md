@@ -18,7 +18,9 @@ tags:
 title: 'The Unfolding Impact of AI on the American Job Market: Beyond the Hype'
 translationKey: ai-job-market-impact-america
 type: ia
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * The rise of Artificial Intelligence (AI) has sparked both excitement and anxiety, particularly concerning its potential impact on the American job market. While utopian visions of AI-driven prosperity and dystopian forecasts of mass unemployment dominate headlines, the reality is far more nuanced an...
 
 The rise of Artificial Intelligence (AI) has sparked both excitement and anxiety, particularly concerning its potential impact on the American job market. While utopian visions of AI-driven prosperity and dystopian forecasts of mass unemployment dominate headlines, the reality is far more nuanced and complex. We need to move past the simplistic narratives and examine the data to understand the true unfolding impact of AI on American jobs.

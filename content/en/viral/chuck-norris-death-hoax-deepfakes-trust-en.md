@@ -14,7 +14,9 @@ tags:
 title: 'Chuck Norris Didn''t Die, But Trust Did: Blame The $200 Million Deepfakes'
 translationKey: af6e5141-0789-7d5b-48af-b617ceaea090
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Chuck Norris Didn't Die, But Trust Did: Blame The $200 Million Deepfakes](/images/chuck-norris-death-hoax-deepfakes-trust-en.jpg)
 
 Chuck Norris Didn't Die, But Trust Did: Blame The $200 Million Deepfakes 

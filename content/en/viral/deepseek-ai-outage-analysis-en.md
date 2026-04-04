@@ -16,7 +16,9 @@ tags:
 title: '96.88 Million Users Impacted: The Shocking Truth Behind DeepSeek AI''s Downtime'
 translationKey: cead8a02-7190-a1e9-4239-5a03aa259c98
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![96.88 Million Users Impacted: The Shocking Truth Behind DeepSeek AI's Downtime](/images/deepseek-ai-outage-analysis-en.jpg)
 
 DeepSeek's Downtime: The 96.88M User Crisis...

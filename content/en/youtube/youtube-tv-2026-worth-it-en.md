@@ -14,7 +14,9 @@ tags:
 title: 'YouTube TV In 2026: Comcast''s Worst Nightmare Or $73 Mistake?'
 translationKey: 26ada778-b2fa-6aa3-2e01-e0a6c682a505
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![YouTube TV In 2026: Comcast's Worst Nightmare Or $73 Mistake?](/images/youtube-tv-2026-worth-it-en.jpg)
 
 YouTube TV's potential rise to dominance is less a revolution and more a symptom of cable's self-inflicted wounds....

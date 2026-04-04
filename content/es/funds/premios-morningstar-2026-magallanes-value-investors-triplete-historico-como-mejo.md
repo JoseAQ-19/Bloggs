@@ -17,7 +17,7 @@ translationKey: e31f181f-24e4-81b5-0279-8c565ed093de
 type: funds
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Resumen Ejecutivo
 
 * ![Premios Morningstar 2026: Magallanes Value Investors, triplete histórico como mejor gestora.](/images/premios-morningstar-2026-magallanes-value-investors-triplete-historico-como-mejo.jpg)
 
@@ -107,8 +107,9 @@ Respuestas:
 
 Esperamos que esta información sea útil para los inversores que buscan obtener un rendimiento positivo en sus inversiones. Recuerde que la inversión en fondos de inversión siempre conlleva riesgos, por lo que es importante que los inversores tengan en cuenta los riesgos y las oportunidades de cada fondo antes de tomar una decisión de inversión.
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento financiero, legal, médico ni profesional. Consulte siempre con un especialista certificado antes de tomar decisiones.*
 
 ## Metodología y Fuentes
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*

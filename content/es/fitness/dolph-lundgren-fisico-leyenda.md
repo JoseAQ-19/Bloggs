@@ -14,7 +14,9 @@ tags:
 title: 'Dolph Lundgren Tiene 68 Y Tu VO2 Max No: La Verdad Que Duele.'
 translationKey: d74d64b8-83a4-9779-0a24-f0ab813c0735
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Dolph Lundgren Tiene 68 Y Tu VO2 Max No: La Verdad Que Duele.](/images/dolph-lundgren-fisico-leyenda.jpg)
 
 Dolph Lundgren tiene 68 años y tu VO2 max no. Los estudios muestran que el 80% de las personas mayores de 40 años tienen un VO2 max insuficiente, mientras que Lundgren desafía la biología con...

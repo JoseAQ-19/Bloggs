@@ -15,7 +15,9 @@ title: 'La IA En Educación Inclusiva: 73% De Los Profesores Ya La Usan, ¿Pero 
   Precio?'
 translationKey: 62f341df-9145-59c1-5da6-aed59aa6d2d2
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![La IA En Educación Inclusiva: 73% De Los Profesores Ya La Usan, ¿Pero A Qué Precio?](/images/la-revolucion-de-la-ia-en-la-educacion-inclusiva-una-ponencia-imperdible-de-concha-barcelo.jpg)
 
 La inteligencia artificial (IA) se ha infiltrado en el sistema educativo español con una velocidad notable. ...

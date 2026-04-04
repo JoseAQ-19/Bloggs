@@ -6,7 +6,7 @@ categories:
 date: 2026-03-25 15:07:20
 description: A cheap tool belt costs more than you think. Discover how a poorly designed
   belt leads to lost tools, injuries, and a shocking $40,000 per claim!.
-draft: false
+draft: true
 featured_image: /images/diamondback-tool-belt-ergonomics-review-en.jpg
 language: en
 tags:
@@ -14,7 +14,9 @@ tags:
 title: '$40,000 Per Claim: The Hidden Cost Of Your Crappy Tool Belt'
 translationKey: 2a0f8700-85a6-5923-9a5d-54b74c3d2e9f
 type: tools
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 *   **Overexertion injuries** constitute 31% of all worker compensation claims, incurring an average cost exceeding **$40,000 per incident** for employers.
 *   **Musculoskeletal Disorders (MSDs)** accounted for 27 cases per 10,000 construction workers in 2020, leading to significant lost workdays and reduced productivity.
 *   The financial burden of MSDs in construction is substantial, with direct workers' compensation costs estimated at **$20 billion annually**, escalating to **$54 billion** when factoring in lost productivity.

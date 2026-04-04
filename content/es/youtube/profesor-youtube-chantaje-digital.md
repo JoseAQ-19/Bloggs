@@ -14,7 +14,9 @@ tags:
 title: 'El Truco Sucio del Profe: Aprueba Solo a Los 28 Millones Adictos a YouTube'
 translationKey: 12ac657d-e957-fbc4-c59b-b67f384d63b4
 type: youtube
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![El Truco Sucio del Profe: Aprueba Solo a Los 28 Millones Adictos a YouTube](/images/profesor-youtube-chantaje-digital.jpg)
 
 YouTube atrae a 28 millones de usuarios mensuales en España, una cifra que plantea interrogantes sobre si los educadores están adaptando sus métodos pedagógicos a esta realid...

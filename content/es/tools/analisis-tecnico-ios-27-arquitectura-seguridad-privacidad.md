@@ -14,7 +14,9 @@ tags:
 title: 'iOS 27 Al Desnudo: ¿Por Qué Apple Oculta El Verdadero Peligro De CVE-2025-43300?'
 translationKey: 947dc4c1-81ca-8ed2-d46c-6468a0c37161
 type: tools
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![iOS 27 Al Desnudo: ¿Por Qué Apple Oculta El Verdadero Peligro De CVE-2025-43300?](/images/analisis-tecnico-ios-27-arquitectura-seguridad-privacidad.jpg)
 
 **Apple ha parchado al menos 15 vulnerabilidades críticas en iOS 27 en los últimos 90 días**, según datos de INCIBE-CERT. 

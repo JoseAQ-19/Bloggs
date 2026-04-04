@@ -14,7 +14,9 @@ tags:
 title: '90% Of AI Projects Will Fail: VC''s $258 Billion Disaster Waiting To Happen'
 translationKey: 67fa511d-27dd-36ea-cfd7-87c7a6410262
 type: ia
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![90% Of AI Projects Will Fail: VC's $258 Billion Disaster Waiting To Happen](/images/ai-venture-capital-returns-en.jpg)
 
 The AI gold rush is about to become the AI graveyard. Nearly $259 billion in venture capital poured into AI startups in 2025, yet 90% of those projects will fail before 2026, acc...

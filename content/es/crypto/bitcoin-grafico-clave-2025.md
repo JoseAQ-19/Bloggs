@@ -14,7 +14,9 @@ tags:
 title: 'Bitcoin A $275.000 en 2025: El Gurú Que Desafía a Wall Street'
 translationKey: fde12919-9fb2-cc21-9b29-551a6bd6b44b
 type: crypto
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Bitcoin A $275.000 en 2025: El Gurú Que Desafía a Wall Street](/images/bitcoin-grafico-clave-2025.jpg)
 
 Bitcoin a $275.000 en 2025 parece una fantasía, especialmente después de ver a Bitdeer, el mayor self-miner listado en bolsa, liquidar toda su tesorería de Bitcoin. ¿Será que el optimismo de alg...

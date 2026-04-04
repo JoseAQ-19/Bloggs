@@ -14,7 +14,9 @@ tags:
 title: 'Ethics Scandal: The Dark Side Of Dog Ownership Nobody Wants To Admit.'
 translationKey: f5ef08f7-29ff-78b1-c9aa-b3ed084a7780
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Ethics Scandal: The Dark Side Of Dog Ownership Nobody Wants To Admit.](/images/dogfree-community-loneliness-ethics-en.jpg)
 
 Dog ownership is not the universally beloved phenomenon that commercials portray. The silent minority is getting louder....

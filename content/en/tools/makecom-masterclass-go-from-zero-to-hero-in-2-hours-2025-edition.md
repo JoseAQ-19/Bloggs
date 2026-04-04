@@ -14,7 +14,9 @@ tags:
 title: 'Make.com Masterclass: Go From Zero to HERO in 2 HOURS (2025 Edition!)'
 translationKey: 1b5de4d3-54f7-610c-db97-5f4cbf514432
 type: tools
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Make.com Masterclass: Go From Zero to HERO in 2 HOURS (2025 Edition!)](/images/master-makecom-in-2-hours-complete-beginners-guide-for-2025.jpg)
 
 Stop clicking around in GUIs. Let's dive into Make.com and bend it to our will with the skills of a seasoned automation engineer. I'm not here to show yo...

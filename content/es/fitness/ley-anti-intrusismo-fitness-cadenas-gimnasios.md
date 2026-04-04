@@ -15,7 +15,9 @@ tags:
 title: 'Intrusismo Al 40%: La ''Ley Anti-Intrusismo'' Es Una Farsa Para COLEF.'
 translationKey: 318bd9cb-61c6-897d-1588-b829bfa824fe
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Intrusismo Al 40%: La 'Ley Anti-Intrusismo' Es Una Farsa Para COLEF.](/images/ley-anti-intrusismo-fitness-cadenas-gimnasios.jpg)
 
 El fitness en España se está convirtiendo en un campo de batalla burocrático, donde los títulos universitarios parecen valer más que la experiencia real....

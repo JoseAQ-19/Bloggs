@@ -14,7 +14,9 @@ tags:
 title: '95% Of ATMs Run On COBOL: The Tech Time Bomb In Your Wallet'
 translationKey: 122dd045-08b3-4a02-f1aa-9627ed517cc3
 type: ia
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![95% Of ATMs Run On COBOL: The Tech Time Bomb In Your Wallet](/images/cobol-apocalypse-banking-1959-tech-en.jpg)
 
 The global financial system is running on code written when JFK was in office, held together by duct tape and a dwindling population of gray-haired engineers who actually understand how...

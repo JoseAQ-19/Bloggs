@@ -15,7 +15,9 @@ title: 'Google’s AI Content Analysis Poses Alarming Risks: Experts Sound Off o
   Safety'
 translationKey: c3d9fd55-4e15-3d4d-b585-a4aea8237750
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Google’s AI Content Analysis Poses Alarming Risks: Experts Sound Off on Child Safety](/images/child-safety-advocates-sound-alarm-over-googles-ai-investment-in-kids-content-en.jpg)
 
 Google's AI algorithms are under intense scrutiny for potentially violating the Children's Online Privacy Protection ...

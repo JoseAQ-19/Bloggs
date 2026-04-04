@@ -14,7 +14,9 @@ tags:
 title: 'Chuando Tan Tiene 60 Años: Su Secreto Desata Teorías Conspirativas Sobre Telómeros'
 translationKey: cc9eb513-d1db-adbd-f097-7f992547c57b
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Chuando Tan Tiene 60 Años: Su Secreto Desata Teorías Conspirativas Sobre Telómeros](/images/chuando-tan-modelo-eterna-juventud.jpg)
 
 La obsesión por la eterna juventud ha dejado de ser un deseo estético para convertirse en una distorsión sociológica que vende falsas esperanzas a una generación inc...

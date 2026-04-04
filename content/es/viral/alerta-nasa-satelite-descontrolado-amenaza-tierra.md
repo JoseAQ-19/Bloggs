@@ -14,7 +14,9 @@ tags:
 title: 'GMV Advierte: Estaremos Atrapados en una Costra de Desechos Espaciales.'
 translationKey: b2910c22-6e2f-4452-142b-637c3c3329b7
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![GMV Advierte: Estaremos Atrapados en una Costra de Desechos Espaciales.](/images/alerta-nasa-satelite-descontrolado-amenaza-tierra.jpg)
 
 En la silenciosa batalla por el control del espacio, la carrera desenfrenada de satélites amenaza con convertir la órbita terrestre en un cementerio ineludible. ...

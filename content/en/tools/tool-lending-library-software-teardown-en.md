@@ -17,7 +17,9 @@ title: 'Tool Lending Libraries Circulate Over 1,060 Tools: A Revolution in Susta
   Access'
 translationKey: 302efb2f-39bd-1e67-a267-05ba1f868e9d
 type: tools
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Tool Lending Libraries Circulate Over 1,060 Tools: A Revolution in Sustainable Access](/images/tool-lending-library-software-teardown-en.jpg)
 
 The circular economy is often a financial trap disguised as a community savior, relying on grants rather than genuine revenue to sustain operations. While ...

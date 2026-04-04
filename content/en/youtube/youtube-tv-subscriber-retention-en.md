@@ -6,7 +6,7 @@ categories:
 date: 2026-03-04 18:00:12
 description: Analyst Michael Nathanson predicts YouTube TV will surpass Comcast by
   2026. Can Google's streaming service conquer cable TV's biggest player? Deep dive!.
-draft: false
+draft: true
 featured_image: /images/youtube-tv-subscriber-retention-en.jpg
 language: en
 tags:
@@ -14,7 +14,9 @@ tags:
 title: 'Nathanson''s Prediction: YouTube TV Will Dethrone Comcast By 2026. Can They?'
 translationKey: b20e6b53-5a35-8423-9469-ea49cf9a5f26
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 *   **Nathanson's Projection:** MoffettNathanson analyst Michael Nathanson forecasts YouTube TV will surpass Comcast in video subscriber count by 2026, driven by accelerated cord-cutting and strategic content acquisitions.
 *   **NFL Sunday Ticket Investment:** YouTube TV's $2 billion annual outlay for NFL Sunday Ticket attracted 1.5 million subscribers during the 2023-2024 season, representing a significant content acquisition strategy to drive market share.
 *   **Post-Season Churn:** Approximately 10% of NFL Sunday Ticket subscribers canceled post-Super Bowl LVIII, indicating a pronounced seasonal churn rate and a critical need for enhanced, year-round retention strategies.

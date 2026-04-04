@@ -14,7 +14,9 @@ tags:
 title: Anthropic's Red Lines CRUMBLE? Pentagon AI Used in Iran Strike.
 translationKey: 26a2c82c-8cd8-8580-daa7-5865ebc3cb6f
 type: ia
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Anthropic's Red Lines CRUMBLE? Pentagon AI Used in Iran Strike.](/images/pentagon-ai-anthropic-iran-strikes-en.jpg)
 
 Anthropic's "red lines" are starting to look like speed bumps....

@@ -17,7 +17,7 @@ translationKey: ca8e0b06-ce7e-854f-9e7a-b952484ba36e
 type: ia
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Resumen Ejecutivo
 
 * ![Acciona el Pánico: La IA Amenaza 300 Millones de Euros Invertidos en Startups Españolas.](/images/saaspocalypse-sobreviviran-las-empresas-de-software-a-la-ia-los-datos-que-no-te-cuentan.jpg)
 

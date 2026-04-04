@@ -18,7 +18,7 @@ translationKey: ede076ec-6d70-eee5-fcc7-94ae5bdc5a1c
 type: crypto
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Resumen Ejecutivo
 
 - Una desincronización de datos en el oráculo de riesgo CAPO de Aave provocó una liquidación en cascada de wstETH valorada en aproximadamente 27 millones de dólares, resultando en una pérdida neta de 345 ETH para los prestatarios afectados.
 - Los bots de arbitraje y liquidación (MEV searchers) capturaron un excedente de 499 ETH en bonificaciones de liquidación, explotando una desviación del 2,85% en el precio del activo colateral.
@@ -110,3 +110,5 @@ Este análisis se basa en datos crudos extraídos de la blockchain de Ethereum, 
 - [K33 Research: Informe sobre Volatilidad de Ethereum y Dinámicas de Derivados](https://k33.com/research)
 
 *Descargo de responsabilidad: Este artículo se proporciona únicamente con fines informativos y de análisis de mercado. No constituye asesoramiento financiero, de inversión, legal o fiscal. La inversión en activos digitales conlleva un riesgo significativo de pérdida de capital. El autor no mantiene posiciones cortas o largas en AAVE al momento de la publicación.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

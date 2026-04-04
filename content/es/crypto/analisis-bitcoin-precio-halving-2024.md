@@ -14,7 +14,9 @@ tags:
 title: 'Bitcoin a 1 Millón: Bit2Me Desvela la Profecía que Hará Temblar a los Bancos'
 translationKey: a86b116a-1486-6acb-6cba-ded3b858778c
 type: crypto
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Bitcoin a 1 Millón: Bit2Me Desvela la Profecía que Hará Temblar a los Bancos](/images/analisis-bitcoin-precio-halving-2024.jpg)
 
 Bitcoin alcanzará el millón de dólares, según Bit2Me, una predicción que podría desestabilizar los mercados financieros tradicionales. ¿Es una visión audaz o una fantasí...

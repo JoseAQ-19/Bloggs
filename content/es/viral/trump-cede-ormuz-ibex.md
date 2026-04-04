@@ -14,7 +14,9 @@ tags:
 title: 'Hormuz Desata el Caos: IBEX 35 se Derrumba Tras Alcanzar el Petróleo $113'
 translationKey: 9349e167-01dc-a1b1-14c4-d6b43d4c3327
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 - El IBEX 35 cayó un 1.87% tras el aumento del petróleo Brent a $113 por barril, reflejando una crisis más amplia en los mercados.
 - El Estrecho de Hormuz es crucial, ya que concentra el 20% del petróleo mundial y afecta las cadenas de suministro de España.
 - España depende en un 7.42% de fertilizantes importados de Arabia Saudí y Qatar, lo que podría afectar la producción agrícola.

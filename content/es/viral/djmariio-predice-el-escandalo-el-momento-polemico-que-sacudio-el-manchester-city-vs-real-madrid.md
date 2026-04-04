@@ -15,7 +15,9 @@ title: 'DjMaRiiO Predice El Escándalo: 5 Momentos Controversiales Que Sacudiero
   Manchester City Vs Real Madrid'
 translationKey: a085fb81-4e9b-99fc-297e-9f684dd4aa3e
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![DjMaRiiO Predice El Escándalo: 5 Momentos Controversiales Que Sacudieron El Manchester City Vs Real Madrid](/images/djmariio-predice-el-escandalo-el-momento-polemico-que-sacudio-el-manchester-city-vs-real-madrid.jpg)
 
 La tecnología no erradica la subjetividad, simplemente la digitaliza y la ralent...

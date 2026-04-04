@@ -14,7 +14,9 @@ tags:
 title: 'From Jon Snow To Zero: How Fortnite''s Crossovers Are Killing The Metaverse'
 translationKey: 5e69c9cf-2b94-ba7c-7b71-49a3a377afc1
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![From Jon Snow To Zero: How Fortnite's Crossovers Are Killing The Metaverse](/images/fortnite-game-of-thrones-metaverse-failure-en.jpg)
 
 ## From Jon Snow To Zero: How Fortnite's Crossovers Are Killing The Metaverse...

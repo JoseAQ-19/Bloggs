@@ -15,7 +15,9 @@ title: 'La FETRI Revela el Hyatlón: La Revolución Que Transformará Tu Entrena
   Híbrido'
 translationKey: d4883f2b-5322-039a-815e-2dddade89dc5
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![La FETRI Revela el Hyatlón: La Revolución Que Transformará Tu Entrenamiento Híbrido](/images/la-fetri-presenta-el-hyatlon-una-nueva-revolucion-en-el-mundo-del-fitness.jpg)
 
 Las personas que creen que el entrenamiento híbrido es una panacea para todos los males del fitness están en una burbuja de d...

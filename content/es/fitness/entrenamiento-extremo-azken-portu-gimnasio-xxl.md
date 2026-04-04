@@ -14,7 +14,9 @@ tags:
 title: 'Azken Portu Revienta la Burbuja del Entrenador Personal: ¡Pura Estafa!'
 translationKey: f9e331a4-03e7-6a64-b53b-1d7b4de732f1
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Azken Portu Revienta la Burbuja del Entrenador Personal: ¡Pura Estafa!](/images/entrenamiento-extremo-azken-portu-gimnasio-xxl.jpg)
 
 La búsqueda de un cuerpo perfecto ha abierto la puerta a una jungla de charlatanes y estafadores, especialmente en el mundo del entrenamiento personal. La proliferac...

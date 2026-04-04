@@ -15,7 +15,9 @@ title: 'Acciones Europeas: Rentabilidad del 3% ante el desplome del 10% asiátic
   Irán.'
 translationKey: 897e4b16-8a55-ec4b-d2c2-8577e1322d5a
 type: funds
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Acciones Europeas: Rentabilidad del 3% ante el desplome del 10% asiático por Irán.](/images/acciones-europeas-rentabilidad-del-3-ante-el-desplome-del-10-asiatico-por-iran.jpg)
 
 El desplome del 10% en las bolsas asiáticas tras los recientes incidentes geopolíticos en Irán contrasta con el leve repu...

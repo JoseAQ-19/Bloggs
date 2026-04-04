@@ -14,7 +14,9 @@ tags:
 title: 'Ser Una Serpiente Y Estar Feliz: La Bomba Therian Que Divide A Psicólogos.'
 translationKey: ecf111b0-af2f-c96d-c5a3-e6568b8b0744
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ## Ser una serpiente y estar feliz: la bomba therian que divide a psicólogos
 
 La autoidentificación como animal no es intrínsecamente un signo de desorden mental, pero la línea es más difusa de lo que la narrativa popular quiere admitir....

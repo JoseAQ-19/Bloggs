@@ -15,7 +15,9 @@ title: 'Ray Alarcón Rompe el Mito del Bombero Musculoso: Su Secreto Enfurece a 
   Gimnasios'
 translationKey: 35d24516-4b8b-91ba-5eb6-2e297c23338d
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Ray Alarcón Rompe el Mito del Bombero Musculoso: Su Secreto Enfurece a los Gimnasios](/images/ray-alarcon-bombero-hipertrofia-debate.jpg)
 
 94.4% de los bomberos con VO2 max insuficiente se consideran atléticos superiores, una contradicción mortal que alimenta el entrenamiento equivocado en los gim...

@@ -6,7 +6,7 @@ categories:
 date: 2026-03-17 23:40:43
 description: Discover how a 75-year-old TV moment ignited America's fascination with
   the Mafia, shaping pop culture and perceptions of organized crime.
-draft: false
+draft: true
 featured_image: /images/how-a-75-year-old-tv-moment-sparked-americas-mafia-obsession-en.jpg
 language: en
 tags:
@@ -14,7 +14,9 @@ tags:
 title: 'The Shocking Truth: How One 75-Year-Old TV Moment Fueled America’s Mafia Obsession'
 translationKey: d658e141-bfbb-f534-4faf-f4a1a6c921d4
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 *   **Pivotal Moment:** The televised Kefauver Hearings (1950-1951) represented a foundational "75-year-old TV moment," exposing organized crime to an estimated 30 million Americans and initiating public fascination that transcended initial alarm.
 *   **Cinematic Catalyst:** Francis Ford Coppola's *The Godfather* (1972) fundamentally shifted public perception, transforming simplistic villain archetypes into complex, morally ambiguous figures, thereby inadvertently glamorizing organized crime.
 *   **Cultural Impact:** Research indicates that *The Godfather* not only redefined cinematic storytelling but also profoundly influenced American cultural perceptions, leading to a romanticized view of the Mafia despite its inherent criminality.

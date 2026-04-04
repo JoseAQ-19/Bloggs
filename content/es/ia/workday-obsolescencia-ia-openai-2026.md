@@ -16,7 +16,7 @@ translationKey: d86b21a6-fa94-1dba-b31a-c537e7af181d
 type: ia
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Resumen Ejecutivo
 
 * ![Workday Tambalea: El Plan Secreto De Cegid Para Desbancarles En España](/images/workday-obsolescencia-ia-openai-2026.jpg)
 

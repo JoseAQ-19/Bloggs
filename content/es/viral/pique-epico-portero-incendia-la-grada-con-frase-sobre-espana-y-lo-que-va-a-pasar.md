@@ -16,7 +16,9 @@ tags:
 title: 'Pique ÉPICO: Portero Enciende la Grada Con Su Impactante Frase Sobre España'
 translationKey: 10e65263-24f5-8909-5003-85d3ec5554e7
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Pique ÉPICO: Portero Enciende la Grada Con Su Impactante Frase Sobre España](/images/pique-epico-portero-incendia-la-grada-con-frase-sobre-espana-y-lo-que-va-a-pasar.jpg)
 
 La precisión del 86% en predicciones de alineaciones de Champions League es la estadística que explica la presión implacable s...

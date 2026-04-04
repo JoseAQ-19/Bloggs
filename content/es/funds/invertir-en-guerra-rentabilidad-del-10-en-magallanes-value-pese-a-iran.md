@@ -14,7 +14,9 @@ tags:
 title: 'Invertir en guerra: Rentabilidad del 10% en ''Magallanes Value'' pese a Irán'
 translationKey: 9a5f6180-76cd-eb7e-a597-6645034535ff
 type: funds
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Invertir en guerra: Rentabilidad del 10% en 'Magallanes Value' pese a Irán](/images/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran.jpg)
 
 **El 10% de rentabilidad en 'Magallanes Value' pese a la incertidumbre geopolítica**...

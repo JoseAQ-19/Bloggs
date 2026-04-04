@@ -14,7 +14,9 @@ tags:
 title: YouTube Invierte Millones en IA Infantil Mientras Te Inunda con AI Slop
 translationKey: 66dfcf61-09f8-7a0a-e72e-af95960a9fcb
 type: youtube
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![YouTube Invierte Millones en IA Infantil Mientras Te Inunda con AI Slop](/images/youtube-ia-infantil-monetizacion-controversia.jpg)
 
 España se ha convertido sin quererlo en el mayor consumidor de "basura digital" generada por IA en todo el planeta, liderando una clasificación que nadie envidia....

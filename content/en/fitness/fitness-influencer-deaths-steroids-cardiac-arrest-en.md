@@ -17,7 +17,9 @@ title: 'The Dark Side Of Fitness: 46 Deaths Uncovered Among Bodybuilders Nobody 
   About'
 translationKey: 92b59a1c-e2e6-f2b2-16eb-2a1fcb0bd5ae
 type: fitness
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![The Dark Side Of Fitness: 46 Deaths Uncovered Among Bodybuilders Nobody Talks About](/images/fitness-influencer-deaths-steroids-cardiac-arrest-en.jpg)
 
 The pursuit of an extreme physique has morphed from a niche subculture into a lethal global industry, where the line between athletic performance ...
@@ -117,3 +119,5 @@ The bodybuilding community must prioritize health over aesthetics, as the curren
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

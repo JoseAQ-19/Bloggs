@@ -14,7 +14,9 @@ tags:
 title: 'Carriedo Desata la Ira Médica: ¿Peligran el 93% de Niños Vacunados?'
 translationKey: bb7edcc9-21cf-f886-0d02-e8acd75e1d7d
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Carriedo Desata la Ira Médica: ¿Peligran el 93% de Niños Vacunados?](/images/marta-carriedo-polemica-vacunas-infantiles.jpg)
 
 En un mundo donde la información fluye sin control, las opiniones de *influencers* sobre temas de salud pueden tener consecuencias devastadoras. La controversia generada po...

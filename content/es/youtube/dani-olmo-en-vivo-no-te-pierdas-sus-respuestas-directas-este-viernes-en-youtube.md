@@ -14,7 +14,9 @@ tags:
 title: 'Dani Olmo Revela Verdades Ocultas: Sus Respuestas Este Viernes En YouTube'
 translationKey: 2b0f519e-e264-54c1-11c2-fc653b744677
 type: youtube
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 Dani Olmo, el talentoso jugador del FC Barcelona, se prepara para aclarar rumores y responder preguntas en un evento en YouTube este viernes. Sin embargo, su situación actual es más compleja de lo que parece; ha enfrentado un historial preocupante de lesiones que ha puesto en jaque su viabilidad a largo plazo en el club. Con un total de 11 lesiones en los últimos cinco años y más de 370 días de baja, su futuro en el FC Barcelona se ve amenazado, lo que podría costarle al club una cifra astronómica de 260 millones de euros si no se gestiona adecuadamente su contrato y su fichaje. Además, su valor de mercado se estima en 63 millones de euros, una cifra que muchos consideran inflada dada su reciente falta de disponibilidad. Este artículo examina en profundidad la situación de Dani Olmo, sus lesiones, el impacto en el FC Barcelona y las implicaciones financieras de su carrera.
 
 ## La Fragilidad de un Talento: El Dilema de Dani Olmo

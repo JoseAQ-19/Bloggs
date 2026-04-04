@@ -15,7 +15,9 @@ title: 'Claude''s $1.5B Copyright Nightmare: Can Anthropic REALLY Deliver Enterp
   AI?'
 translationKey: 01d3c86b-c371-45ed-b70d-d48ecd45d1ef
 type: ia
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Claude's $1.5B Copyright Nightmare: Can Anthropic REALLY Deliver Enterprise AI?](/images/anthropic-claude-enterprise-ai-en.jpg)
 
 Anthropic's enterprise AI ambitions face a stark reality check: a looming $1.5 billion copyright lawsuit....

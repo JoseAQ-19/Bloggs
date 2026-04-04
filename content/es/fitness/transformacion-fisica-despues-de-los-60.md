@@ -14,7 +14,9 @@ tags:
 title: 'Marcos Vázquez Lo Advierte: Así Escapas De La Sarcopenia Después De Los 60'
 translationKey: b4c8efb7-3181-b327-5a3c-505414a4bb64
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Marcos Vázquez Lo Advierte: Así Escapas De La Sarcopenia Después De Los 60](/images/transformacion-fisica-despues-de-los-60.jpg)
 
 La industria del fitness ha vendido la mentira más peligrosa para la población mayor: la suavidad es segura y el impacto es mortal. La realidad fisiológica es que, sin ...

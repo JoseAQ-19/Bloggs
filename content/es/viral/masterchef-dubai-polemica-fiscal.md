@@ -15,7 +15,9 @@ tags:
 title: 'Masterchef En Dubái: Hacienda Sospecha Que Ocultan 140.000 Millones De Euros'
 translationKey: 9cb867ac-f441-fa97-0a39-842ef0f57ff5
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Masterchef En Dubái: Hacienda Sospecha Que Ocultan 140.000 Millones De Euros](/images/masterchef-dubai-polemica-fiscal.jpg)
 
 Si creías que el paraíso fiscal era solo cosa de *influencers* y futbolistas, piénsalo otra vez: Hacienda tiene en el punto de mira a un buen número de españoles que habrían...

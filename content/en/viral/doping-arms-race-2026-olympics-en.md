@@ -14,7 +14,9 @@ tags:
 title: 'CRISPR Olympics: Gene Editing Super Athletes Could Dominate 2026 Winter Games'
 translationKey: a016ca2a-fe9d-fb3e-638a-0da8ae612fa7
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![CRISPR Olympics: Gene Editing Super Athletes Could Dominate 2026 Winter Games](/images/doping-arms-race-2026-olympics-en.jpg)
 
 CRISPR Olympics: Gene Editing "Super Athletes" Could Dominate 2026 Winter Games...

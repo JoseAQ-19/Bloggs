@@ -6,7 +6,7 @@ date: 2026-04-02 21:52:39
 description: Descubre cómo Harvard revela que el 8% de nuestro ADN proviene de virus
   antiguos desconocidos, desafiando lo que sabemos sobre nuestra genética.
 draft: false
-featured_image: /images/harvard-revela-el-secreto-detras-de-los-virus-que-nunca-nos-abandonan.jpg
+featured_image: /images/defaults/default-viral.jpg
 language: es
 slug: harvard-revela-el-secreto-detras-de-los-virus-que-nunca-nos-abandonan
 tags:

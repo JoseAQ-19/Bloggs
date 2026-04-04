@@ -14,7 +14,9 @@ tags:
 title: 'España Duerme: Deepfakes Bélicos Aumentan 191% y Nadie Está Preparado.'
 translationKey: c2f58871-7235-8be2-a74a-033ff71a5b6f
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![España Duerme: Deepfakes Bélicos Aumentan 191% y Nadie Está Preparado.](/images/deepfakes-belicos-ia-espana.jpg)
 
 España está dormida ante la masacre digital inminente, mientras sus instituciones de defensas reaccionan con la velocidad de una máquina de escribir frente a un ataque de misiles hiper...

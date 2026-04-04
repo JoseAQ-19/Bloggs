@@ -14,7 +14,9 @@ tags:
 title: '¡Alerta Roja! 20 Gramos de Paracetamol: La Nueva Tendencia Mortal en TikTok'
 translationKey: 84e512fc-f6d5-fb66-5247-e0aa118d1284
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![¡Alerta Roja! 20 Gramos de Paracetamol: La Nueva Tendencia Mortal en TikTok](/images/reto-paracetamol-tiktok-peligro-viral.jpg)
 
 Es una ironía macabra que la búsqueda de validación en redes sociales pueda llevar a adolescentes a jugarse la vida con un analgésico de venta libre. El "Paracetamol Cha...

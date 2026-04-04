@@ -14,7 +14,9 @@ tags:
 title: '¡191%! Deepfakes Descontrolados En España: El Cine Mudo Es Sólo El Inicio'
 translationKey: bc97f6ba-bc20-a33f-3473-6a86666a4c2e
 type: youtube
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![¡191%! Deepfakes Descontrolados En España: El Cine Mudo Es Sólo El Inicio](/images/cine-mudo-sci-fi-revelado.jpg)
 
 El auge de los deepfakes en España no es una revolución creativa, sino una amenaza silenciosa con un crecimiento desmesurado....

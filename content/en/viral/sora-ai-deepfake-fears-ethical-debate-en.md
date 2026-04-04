@@ -16,7 +16,9 @@ tags:
 title: 'Sora Just Sparked Ethical Outrage: The Dark Side of AI Video Generation'
 translationKey: 8978b1a0-1f72-8c76-a8b0-e1b62ecb0f6d
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 - OpenAI's Sora AI video generator was terminated due to unsustainable operational costs of $15 million per day, while generating only $2.1 million in revenue.
 - 73% of Fortune 500 companies have adopted AI video tools, indicating a significant shift in content creation.
 - Consumer perception of AI-generated content is largely negative, with 36% of consumers indicating such videos could harm brand reputation.

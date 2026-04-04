@@ -15,7 +15,9 @@ title: 'Fondos activos baten al índice: 63% logra rendimientos superiores en un
   volátil'
 translationKey: cd4e23c4-4c45-dff9-bff0-021601590b80
 type: funds
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Fondos activos baten al índice: 63% logra rendimientos superiores en un año volátil](/images/fondos-activos-baten-al-indice-63-logra-rendimientos-superiores-en-un-ano-volati.jpg)
 
 **El 63% de los fondos activos superaron a sus índices de referencia en 2023, desafiando la narrativa predominante de ...

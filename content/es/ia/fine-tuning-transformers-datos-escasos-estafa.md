@@ -15,7 +15,9 @@ title: ¿Estás quemando GPUs en vano? Por qué 'fine-tuning' Transformers con d
   escasos es una estafa
 translationKey: 223a6b5e-019e-4c9d-9e9c-eb194096d0d6
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![¿Estás quemando GPUs en vano? Por qué 'fine-tuning' Transformers con datos escasos es una estafa](/images/fine-tuning-transformers-datos-escasos-estafa.jpg)
 
 Estás alimentando a las bestias de silicio con migajas. Y te estás arruinando en el intento. La optimización fina de los modelos Transformer...

@@ -14,7 +14,9 @@ tags:
 title: '39% Of CEOs Fired Over Ethics: Is Your Favorite Brand''s Apology Next?'
 translationKey: 3e8eb4e5-d098-ee61-ee34-da97730d730b
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![39% Of CEOs Fired Over Ethics: Is Your Favorite Brand's Apology Next?](/images/apology-industrial-complex-brand-strategy-en.jpg)
 
 Brand apologies are becoming commonplace, potentially masking deeper ethical issues within companies. In 2018, ethical violations led to the termination of 39% of CEOs,...

@@ -14,7 +14,9 @@ tags:
 title: 'Bitcoin Se Desangra: El Error Fatal Que Ignoran Los Analistas Españoles'
 translationKey: f9620eda-0048-ed7b-69fd-b04515356ff3
 type: crypto
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Bitcoin Se Desangra: El Error Fatal Que Ignoran Los Analistas Españoles](/images/bitcoin-caida-soporte-analisis-espanol.jpg)
 
 La euforia por los ETFs de Bitcoin ha creado una peligrosa ceguera ante la posibilidad real de un desplome....

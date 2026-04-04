@@ -14,7 +14,9 @@ tags:
 title: Lancaster Gyms Just Solved Fitness's 60% Problem; Big Gyms Should Be Terrified
 translationKey: 7437b633-3a9a-b3dc-4fe0-0e1e3a0386c0
 type: fitness
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Lancaster Gyms Just Solved Fitness's 60% Problem; Big Gyms Should Be Terrified](/images/lancaster-gyms-women-of-color-fitness-en.jpg)
 
 The fitness industry's obsession with homogenous ideals has left a lucrative market underserved: women of color....
@@ -77,3 +79,5 @@ Gyms that prioritize DEI, especially community-driven spaces, are positioned for
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

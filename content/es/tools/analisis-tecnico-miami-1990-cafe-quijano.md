@@ -14,7 +14,9 @@ tags:
 title: 'CECU Lo Advirtió En 2004: Café Quijano, ¿Los Más Sexistas De España Han Vuelto?'
 translationKey: 0ed6b719-b83a-9327-8745-ac2dc277daf9
 type: tools
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![CECU Lo Advirtió En 2004: Café Quijano, ¿Los Más Sexistas De España Han Vuelto?](/images/analisis-tecnico-miami-1990-cafe-quijano.jpg)
 
 La nostalgia musical a menudo ciega a los oyentes ante la perpetuación de estereotipos dañinos....

@@ -14,7 +14,9 @@ tags:
 title: Fondos premiados por Morningstar en 2026 con un potencial de retorno del 15%
 translationKey: f7ac0fb9-ea01-271f-5951-fafbdcf31a70
 type: funds
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Fondos premiados por Morningstar en 2026 con un potencial de retorno del 15%](/images/fondos-premiados-por-morningstar-en-2026-con-un-potencial-de-retorno-del-15.jpg)
 
 Un **40% de los fondos de inversión han superado el índice de referencia en los últimos tres años** — **Morningstar**....

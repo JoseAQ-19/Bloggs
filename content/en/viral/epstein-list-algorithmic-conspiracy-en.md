@@ -14,7 +14,9 @@ tags:
 title: 'Epstein Flight Logs: How 1,000 Passengers Fueled QAnon''s Wildest Dreams'
 translationKey: ee6c59b0-c2ef-0bef-1c69-4cc8da73a262
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Epstein Flight Logs: How 1,000 Passengers Fueled QAnon's Wildest Dreams](/images/epstein-list-algorithmic-conspiracy-en.jpg)
 
 The internet is a breeding ground for conspiracy, but rarely does a case intertwine elite power, sex trafficking, and QAnon quite like the Epstein saga. The flight logs are...

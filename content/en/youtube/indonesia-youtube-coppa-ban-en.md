@@ -14,7 +14,9 @@ tags:
 title: Indonesia Bans Kids From Social Media; YouTube Creators Could Lose Billions
 translationKey: 461ba532-875e-8d18-26e4-34ed4a1a9ea2
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Indonesia Bans Kids From Social Media; YouTube Creators Could Lose Billions](/images/indonesia-youtube-coppa-ban-en.jpg)
 
 * Indonesia's March 2026 ban on social media for users under 16 will deactivate YouTube accounts on March 28, directly threatening a platform used monthly by 158.4 million Indo...

@@ -15,7 +15,9 @@ title: La Base De Maquillaje Viral Que Promete Piel Perfecta Y El Escándalo Det
   De Su Éxito
 translationKey: 030449c2-5fbf-7faa-33da-435fe48cd7e4
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![La Base De Maquillaje Viral Que Promete Piel Perfecta Y El Escándalo Detrás De Su Éxito](/images/la-base-de-maquillaje-viral-realmente-logra-la-piel-perfecta.jpg)
 
 En un mercado cada vez más saturado de productos de belleza, la nueva técnica de cobertura hiperespectral ha generado una expectativa ...

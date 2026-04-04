@@ -14,7 +14,9 @@ tags:
 title: ¿Taxi Gratis Para Acusado De Violación? El Escándalo LimpiasGate Estalla
 translationKey: 2b3aaafb-9fc9-3ea8-ceab-a9014c669f73
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![¿Taxi Gratis Para Acusado De Violación? El Escándalo LimpiasGate Estalla](/images/limpiasgate-coche-patrulla-taxi-vip.jpg)
 
 En España, la línea entre la justicia y el privilegio a menudo se desdibuja con la facilidad con la que un taxi cruza la ciudad. Un individuo acusado de violación en España p...

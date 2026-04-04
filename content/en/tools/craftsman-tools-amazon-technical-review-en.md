@@ -7,7 +7,7 @@ categories:
 date: 2026-03-28 14:53:16
 description: Discover how Amazon's pricing algorithms impact Craftsman tools and the
   shocking truth behind their market decline. Uncover the hidden consequences now.
-draft: false
+draft: true
 featured_image: /images/craftsman-tools-amazon-technical-review-en.jpg
 language: en
 slug: craftsman-tools-amazon-technical-review-en
@@ -17,7 +17,9 @@ title: 'Amazon''s Pricing Algorithms Are Killing Craftsman Tools: Here’s the S
   Truth'
 translationKey: ecd3f388-6890-fe56-405e-21c18b0958a9
 type: tools
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 *   **Algorithmic Price Inflation:** Amazon's "Project Nessie" algorithm reportedly generated over $1 billion in additional revenue by identifying competitors with simple pricing rules and systematically raising prices across various categories, as detailed in a 2023 FTC investigation.
 *   **Craftsman Quality Degradation:** Post-2010, following a shift to overseas manufacturing, Craftsman tools experienced a 47% decline in steel thickness and a 62% increase in defect rates, with ratchet mechanisms failing after approximately 1,200 cycles, a significant reduction from the prior 12,000-cycle standard.
 *   **Manufacturing Exodus & Failed Resurgence:** Stanley Black & Decker's $120 million investment in a U.S. facility to revive Craftsman production failed within 18 months due to insurmountable cost-quality disparities, including a $2.7 million cost for an American forging press versus $400,000 in China.

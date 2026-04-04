@@ -14,7 +14,9 @@ tags:
 title: 'Google''s Project Kavya: Is Your Child''s Favorite YouTube Show a Deepfake?'
 translationKey: 30592fec-04b1-f87e-260e-1395bf5ef353
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Google's Project Kavya: Is Your Child's Favorite YouTube Show a Deepfake?](/images/google-ai-kids-content-safety-concerns-en.jpg)
 
 Google's Project Kavya is a trap, potentially luring children into personalized deepfake content and creating a compliance nightmare....

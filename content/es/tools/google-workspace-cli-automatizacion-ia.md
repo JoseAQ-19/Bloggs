@@ -14,7 +14,9 @@ tags:
 title: 'Alarma Google Workspace: Tu Automatización Con IA Podría Infringir El RGPD.'
 translationKey: f3b7e84c-ef50-0b28-2ae9-3716218fd422
 type: tools
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Alarma Google Workspace: Tu Automatización Con IA Podría Infringir El RGPD.](/images/google-workspace-cli-automatizacion-ia.jpg)
 
 La euforia por la automatización con IA en Google Workspace podría ser prematura, exponiendo a las empresas a severas multas por incumplimiento del RGPD. La promesa de ...

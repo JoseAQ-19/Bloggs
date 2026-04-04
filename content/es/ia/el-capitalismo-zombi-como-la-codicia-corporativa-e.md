@@ -7,7 +7,7 @@ date: 2026-01-28 02:01:00
 description: El auge del 'capitalismo zombi' no es una película de terror, sino una
   realidad económica que amenaza con devorar nuestro futuro. Este concepto, cada vez
   m.
-draft: false
+draft: true
 featured_image: /images/el-capitalismo-zombi-como-la-codicia-corporativa-e.jpg
 language: es
 last_updated: '2026-02-14'
@@ -16,7 +16,9 @@ remastered: true
 title: 'El Capitalismo Zombi: Cómo la Codicia Corporativa Está Devorando el Futuro'
 translationKey: f07c85fb-80b1-ee26-6d1e-084c21f69b13
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 El concepto de "Capitalismo Zombi" describe un entorno económico caracterizado por la proliferación de "empresas zombi": entidades corporativas que, durante un período prolongado (típicamente tres años consecutivos o más), no generan suficientes ganancias operativas (EBITDA) para cubrir sus costes de servicio de deuda. Este fenómeno, exacerbado tras la crisis financiera global de 2008 y las subsiguientes políticas monetarias acomodaticias, plantea desafíos estructurales significativos para la economía global.
 
 *   **Prevalencia Creciente:** Un análisis de la OCDE (2018) indicó que la proporción de empresas zombi en las economías avanzadas se había duplicado desde mediados de los años 2000, alcanzando aproximadamente el 12% del total de empresas cotizadas.

@@ -6,7 +6,7 @@ date: 2026-04-03 05:00:54
 description: A Planet Fitness employee was stabbed by a banned customer, raising questions
   about safety despite 15 surveillance cameras monitoring the gym.
 draft: false
-featured_image: /images/shocking-stabbing-incident-at-planet-fitness-employee-attacked-by-banned-customer-en.jpg
+featured_image: /images/defaults/default-fitness.jpg
 language: en
 slug: shocking-stabbing-incident-at-planet-fitness-employee-attacked-by-banned-customer-en
 tags:
@@ -79,7 +79,6 @@ The fitness industry must confront the uncomfortable truths surrounding workplac
 
 ---
 
-*This article is for informational purposes only and does not constitute legal or professional advice. For specific inquiries regarding workplace safety regulations, please refer to appropriate legal or safety professionals.*
 
 ## Methodology & Sources
 
@@ -113,3 +112,5 @@ This article draws from various sources, including OSHA reports, expert opinions
   }
 }
 </script>
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

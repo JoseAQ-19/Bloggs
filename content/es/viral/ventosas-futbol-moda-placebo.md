@@ -14,7 +14,9 @@ tags:
 title: ¡Escándalo En La Liga! Fisioterapeutas Revelan El Peligro Oculto De Las Ventosas.
 translationKey: f14dfa44-eae0-37dc-637d-7cc22cb6ee99
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![¡Escándalo En La Liga! Fisioterapeutas Revelan El Peligro Oculto De Las Ventosas.](/images/ventosas-futbol-moda-placebo.jpg)
 
 La fascinación por las ventosas en el deporte profesional es directamente proporcional a la falta de pruebas científicas sobre su eficacia real. La moda de los círculos roj...

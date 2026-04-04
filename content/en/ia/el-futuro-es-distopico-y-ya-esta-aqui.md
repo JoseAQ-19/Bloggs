@@ -15,7 +15,9 @@ quality_tier: fenix_v2_notebooklm
 title: The Future Is Dystopian And It Is Already Here
 translationKey: el-futuro-es-distopico-y-ya-esta-aqui
 type: ia
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * The neon-drenched, hyper-technological, and profoundly unequal future once relegated to the pages of cyberpunk novels is no longer a work of fiction. It's a chilling reflection of our present, forcing us to confront the uncomfortable reality that the dystopian future has arrived. What was once specu...
 
 The neon-drenched, hyper-technological, and profoundly unequal future once relegated to the pages of cyberpunk novels is no longer a work of fiction. It's a chilling reflection of our present, forcing us to confront the uncomfortable reality that the dystopian future has arrived. What was once speculative fiction has become a stark, insightful lens through which we can understand the world as it is now.

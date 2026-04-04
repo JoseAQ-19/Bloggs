@@ -16,7 +16,9 @@ tags:
 title: 71 Million Americans Will Rely on AI for Health Post-Discharge by 2025
 translationKey: f3b3acd4-58fa-6a4c-4d94-42e5ec845984
 type: ia
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![71 Million Americans Will Rely on AI for Health Post-Discharge by 2025](/images/the-digital-companion-how-ai-is-transforming-patient-care-post-discharge-en.jpg)
 
 OpenAI CEO Sam Altman recently claimed that AI can transform healthcare, yet behind the shiny facade, we find a market riddled with pitf...

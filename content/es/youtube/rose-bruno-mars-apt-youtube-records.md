@@ -6,7 +6,7 @@ categories:
 date: 2026-03-13 17:12:57
 description: 'Rosé (BLACKPINK) y Bruno Mars incendian YouTube. Descubre cuánto paga
   Spotify realmente a los artistas: ¡la cifra te impactará! ¿Es suficiente para vivir.'
-draft: false
+draft: true
 featured_image: /images/rose-bruno-mars-apt-youtube-records.jpg
 language: es
 tags:
@@ -15,7 +15,9 @@ title: 'Rosé Y Bruno Mars Rompen YouTube: ¡Spotify Paga A Los Artistas €0,00
   Reproducción!'
 translationKey: 7b07bb54-3281-f0af-bef3-7e52bb95181b
 type: youtube
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 *   **Fenómeno Rosé-Mars:** La interacción entre Rosé (BLACKPINK) y Bruno Mars en los Grammy capitaliza la economía de la atención en YouTube, generando controversia y evidenciando la estrategia de visibilidad en la era del streaming. YouTube reporta más de 325 millones de suscripciones de pago en sus servicios (Premium, TV, Google One), generando anualmente más de $60 mil millones de dólares en publicidad y suscripciones.
 *   **Remuneración en Streaming:** Spotify remunera a los artistas con una media de €0,001 a €0,003 por reproducción, cifra que ha provocado un debate estructural sobre la sostenibilidad económica para la mayoría de los músicos, especialmente los independientes.
 *   **Críticas a Spotify:** La plataforma enfrenta boicots artísticos, como en el País Vasco, debido a las bajas regalías y la inversión del CEO Daniel Ek en la empresa armamentística Helsing. Rubén Albarrán ha descrito el modelo de Spotify como "esclavitud corporativa".

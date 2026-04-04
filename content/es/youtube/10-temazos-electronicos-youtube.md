@@ -14,7 +14,9 @@ tags:
 title: ¡Pánico Musical! La IA Robará 100 Millones A Artistas Españoles En Un Año
 translationKey: 0b1d060e-7733-b84e-2c40-bba996154d0d
 type: youtube
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![¡Pánico Musical! La IA Robará 100 Millones A Artistas Españoles En Un Año](/images/10-temazos-electronicos-youtube.jpg)
 
 La inteligencia artificial no va a democratizar la música, va a pauperizar a los músicos. Se avecina una tormenta perfecta donde la creatividad humana podría valer menos que un ...

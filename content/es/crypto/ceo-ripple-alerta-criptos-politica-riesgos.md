@@ -17,7 +17,9 @@ title: 'Ripple Alerta: El Riesgo Oculto de Control Estatal Sobre Criptomonedas Q
   Nadie Ve'
 translationKey: 02071181-be59-e68c-508f-e8568e6f72e7
 type: crypto
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Ripple Alerta: El Riesgo Oculto de Control Estatal Sobre Criptomonedas Que Nadie Ve](/images/ceo-ripple-alerta-criptos-politica-riesgos.jpg)
 
 La promesa de libertad financiera de Bitcoin se está desmoronando bajo el peso de la burocracia estatal europea. La supuesta descentralización, vendida como...

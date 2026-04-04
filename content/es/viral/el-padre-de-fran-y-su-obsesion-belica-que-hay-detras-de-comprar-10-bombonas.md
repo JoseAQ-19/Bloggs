@@ -14,7 +14,9 @@ tags:
 title: 'La Obsesión Bélica de Un Padre: 10 Bombonas y Riesgos Ocultos Que Ignoramos'
 translationKey: 0f96e50a-29fb-95b7-934c-917051a13916
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![La Obsesión Bélica de Un Padre: 10 Bombonas y Riesgos Ocultos Que Ignoramos](/images/el-padre-de-fran-y-su-obsesion-belica-que-hay-detras-de-comprar-10-bombonas.jpg)
 
 **Cada año, entre 4.000 y 6.000 explosivos de la Guerra Civil Española son desactivados por la Guardia Civil.** Este dato no es un ...

@@ -14,7 +14,9 @@ tags:
 title: 'Lukaku''s Absence: UEFA''s ACL Injury Warning Ignored By Belgium Management?'
 translationKey: 9ca461e2-25cd-0f26-add6-d4cbe187605e
 type: fitness
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Lukaku's Absence: UEFA's ACL Injury Warning Ignored By Belgium Management?](/images/lukaku-omitted-belgium-games-en.jpg)
 
 The management of Romelu Lukaku’s return to play represents a cynical gamble on human physiology where the biological cost of re-injury is treated as a mere line item in a perf...
@@ -70,3 +72,5 @@ This perspective exposes a failure in many current high-performance workflows. S
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

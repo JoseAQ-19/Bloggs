@@ -15,7 +15,9 @@ title: 'Daniel Radcliffe''s 15lb Loss: Ozempic Truth Hollywood Doesn''t Want You
   Know'
 translationKey: a5e1ee62-e3f2-ca38-7ce7-3b8e079c255e
 type: fitness
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Daniel Radcliffe's 15lb Loss: Ozempic Truth Hollywood Doesn't Want You To Know](/images/daniel-radcliffe-muscle-ozempic-hollywood-en.jpg)
 
 Daniel Radcliffe's physique transformation, attributed to obsessive fitness, sparks debate about Ozempic use amid concerns about unrealistic body standards in ...
@@ -104,3 +106,5 @@ Commit to a training protocol of three weekly full-body sessions focusing on pro
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

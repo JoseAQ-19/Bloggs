@@ -14,7 +14,9 @@ tags:
 title: '95% Of AI Projects Fail: Is Your Agent Deployment Secure Enough?'
 translationKey: 263a704d-3e21-fed2-a989-36e828a69e35
 type: ia
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![95% Of AI Projects Fail: Is Your Agent Deployment Secure Enough?](/images/ai-agents-secure-deployment-en.jpg)
 
 With **95%** of AI projects failing, the security risks surrounding AI agent deployment are reaching DEFCON levels....

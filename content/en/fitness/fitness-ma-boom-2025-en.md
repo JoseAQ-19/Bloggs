@@ -14,7 +14,9 @@ tags:
 title: 'Fitness M&A: Jeremy Hirsch Predicts Biggest Year Ever In 2025'
 translationKey: 4235a925-1351-be60-2ee1-05739a35b129
 type: fitness
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 The fitness industry is experiencing a significant shift, characterized by increased mergers and acquisitions (M&A) activity, particularly as private equity firms target the sector amidst changing consumer preferences. Jeremy Hirsch, a Director at Houlihan Lokey, forecasts 2025 to be a landmark year for fitness M&A, projecting 44 transactions worth approximately $2.1 billion in the first half alone. This boom is fueled by Gen Z’s preference for experiences over traditional fitness offerings, leading to a consolidation where budget and luxury fitness models thrive at the expense of mid-tier gyms. The article delves into the implications of this trend, the financial mechanics involved, and the bifurcation of the fitness market.
 
 ## The Landscape of Fitness M&A
@@ -58,3 +60,5 @@ This analysis draws upon various industry reports, market research studies, and 
 The fitness industry is at a crossroads, grappling with a complex interplay of consumer preferences, financial strategies, and market dynamics. The predicted M&A surge in 2025, driven by Gen Z's evolving relationship with fitness, presents both opportunities and challenges. As the sector bifurcates between budget and luxury offerings, mid-tier gyms face an uncertain future, raising questions about the long-term viability of current business models. Stakeholders must navigate this evolving landscape with caution, balancing financial imperatives against the need for quality service and community engagement.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

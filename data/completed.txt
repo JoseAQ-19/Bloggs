@@ -608,3 +608,4 @@ fitness: Gym Safety in Question: Planet Fitness Employee Attacked in Wyncote
 viral: Alicante: La joya mediterránea que todos están descubriendo
 ia: El desafío de Madrid: ¿Puede la IA revolucionar la capital española?
 ia: Fire Erupts at APC, Inc. Plant in Crawford County: No Injuries Reported
+tools: La IA Revoluciona la Agricultura: Precisión y Automatización al Servicio del Campo

@@ -14,7 +14,9 @@ tags:
 title: 'Crypto.com Just Laid Off 12% of Its Workforce: The Shocking AI Shift Explained'
 translationKey: dcc9f14d-bbd0-8ac7-6847-00d58b6cb858
 type: crypto
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Crypto.com Just Laid Off 12% of Its Workforce: The Shocking AI Shift Explained](/images/cryptocom-cuts-deep-12-layoffs-amid-ai-urgency-en.jpg)
 
 Global crypto markets shed $200 billion in valuation as the United States unemployment rate unexpectedly ticked up to 4.6% in mid-December 2025, triggerin...
@@ -63,3 +65,5 @@ Furthermore, Ryan Selkis, CEO of Messari, announced that his firm would be hirin
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

@@ -14,7 +14,9 @@ tags:
 title: 'Claude Falló: 95% Apuesta Por Armas Nucleares. ¿Estamos Seguros?'
 translationKey: ec7745df-f9a5-d327-87ee-90c2c752c088
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Claude Falló: 95% Apuesta Por Armas Nucleares. ¿Estamos Seguros?](/images/claude-ai-crisis-error-fundadores-ia.jpg)
 
 La inteligencia artificial promete resolver nuestros problemas, pero en realidad podría estar preparándonos para el desastre. Un experimento reciente revela que la IA es más propens...

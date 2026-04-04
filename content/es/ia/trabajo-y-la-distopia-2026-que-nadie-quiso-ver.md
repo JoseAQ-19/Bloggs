@@ -17,7 +17,9 @@ tags:
 title: 'Trabajo y: La Distopía 2026 que Nadie Quiso Ver'
 translationKey: 527a7f84-79ae-8b08-6a05-5ac58f247753
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 - **Contexto**: La visión distópica de *Metrópolis* de Fritz Lang se convierte en realidad en 2026, con un aumento de la precariedad laboral y un apartheid tecnológico.
 - **Desempleo**: Las cifras de desempleo (4,9%) ocultan la verdad: más de 2 mil millones de personas viven en la informalidad laboral.
 - **IA y Automatización**: El 27% de los empleos están en riesgo de ser automatizados, obligando a la fuerza laboral a adaptarse sin apoyo.

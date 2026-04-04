@@ -14,7 +14,9 @@ tags:
 title: '320,000 YouTube Users Screamed: What Google Is Hiding About The Outage.'
 translationKey: 1f802e3a-98ef-e3ac-f7a5-c3b62ac0606a
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![320,000 YouTube Users Screamed: What Google Is Hiding About The Outage.](/images/youtube-outage-2026-en.jpg)
 
 YouTube's February 17, 2026, outage wasn't just a glitch; it was a stark reminder of the platform's fragility and its creators' reliance on a system that can fail spectacularly. The offici...

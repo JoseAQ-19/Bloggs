@@ -14,7 +14,9 @@ tags:
 title: 'Shamrock Shake OUT, Abs IN: Waco''s Body Recomp Hack For St. Patrick''s Day'
 translationKey: 11bad408-7c13-0f6c-19e9-67f876d32e32
 type: fitness
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Shamrock Shake OUT, Abs IN: Waco's Body Recomp Hack For St. Patrick's Day](/images/st-patricks-day-fitness-waco-en.jpg)
 
 Waco fitness influencers are betting against the staying power of the Shamrock Shake this year....
@@ -148,3 +150,5 @@ Skip the shake, sculpt the shape — and do it with a meal of lean protein and g
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

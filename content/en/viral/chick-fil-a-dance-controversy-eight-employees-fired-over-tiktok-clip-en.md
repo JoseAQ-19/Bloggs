@@ -6,7 +6,7 @@ date: 2026-04-01 23:44:38
 description: Discover the shocking truth behind the firing of eight Chick-fil-A employees
   following a viral TikTok clip. Uncover the details and reactions now!.
 draft: false
-featured_image: /images/chick-fil-a-dance-controversy-eight-employees-fired-over-tiktok-clip-en.jpg
+featured_image: /images/defaults/default-viral.jpg
 language: en
 slug: chick-fil-a-dance-controversy-eight-employees-fired-over-tiktok-clip-en
 tags:

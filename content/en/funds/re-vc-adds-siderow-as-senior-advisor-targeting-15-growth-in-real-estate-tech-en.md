@@ -14,7 +14,9 @@ tags:
 title: RE VC Adds Siderow as Senior Advisor; Targeting 15% Growth in Real Estate Tech.
 translationKey: bd77d130-636e-9c84-8d58-40c30db61a47
 type: funds
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * author: Junior Writer
 
 draft: false
@@ -97,8 +99,6 @@ Moreover, the real estate tech sector is characterized by long investment cycles
 
 ---
 
-️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
----
 
 
 
@@ -109,3 +109,5 @@ Moreover, the real estate tech sector is characterized by long investment cycles
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

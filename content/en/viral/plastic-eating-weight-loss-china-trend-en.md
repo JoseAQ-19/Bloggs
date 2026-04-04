@@ -14,7 +14,9 @@ tags:
 title: '$140 Billion Weight Loss Lie: Is ''Plastic Eating'' Next?'
 translationKey: 29b0a592-4933-f1aa-db6e-9100c0030715
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![$140 Billion Weight Loss Lie: Is 'Plastic Eating' Next?](/images/plastic-eating-weight-loss-china-trend-en.jpg)
 
 $140 Billion Weight Loss Lie: Is 'Plastic Eating' Next?

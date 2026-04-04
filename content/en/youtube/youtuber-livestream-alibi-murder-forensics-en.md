@@ -14,7 +14,9 @@ tags:
 title: 'YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.'
 translationKey: 5cb9ef0c-614f-a716-e73b-0d7dee94a508
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 - **Deepfake Technology as a Weapon:** Professor Hany Farid warns that advanced AI tools are being weaponized for creating fraudulent alibis and obstructing justice, leading to significant real-world consequences.
 - **Trust Erosion and "Liar's Dividend":** The rise of synthetic media erodes the reliability of video evidence, allowing guilty parties to discredit legitimate recordings, which could financially burden the judicial system by 2026.
 - **Insufficient Countermeasures:** Current solutions like YouTube's C2PA initiative and AI deepfake detectors are inadequate due to their reliance on fragile metadata and high error rates, focusing more on damage control than prevention.

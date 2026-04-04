@@ -15,7 +15,9 @@ title: 'SSSniperWolf Doxxing: YouTube''s $20 Billion Problem, or Beginning of th
   End?'
 translationKey: f4a9996b-4726-39c9-4b2d-22d3b8524179
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![SSSniperWolf Doxxing: YouTube's $20 Billion Problem, or Beginning of the End?](/images/sssniperwolf-demonetization-youtube-en.jpg)
 
 SSSniperWolf's doxxing controversy highlights inconsistent content moderation policies on YouTube, creating an unstable business environment for creators. The inciden...

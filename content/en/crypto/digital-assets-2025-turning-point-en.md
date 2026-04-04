@@ -14,7 +14,9 @@ tags:
 title: '$512 Million Gone: The DeFi Hack No One Is Talking About.'
 translationKey: fe05491e-abc2-ecc4-41ab-4fd1fe0a3f7f
 type: crypto
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![$512 Million Gone: The DeFi Hack No One Is Talking About.](/images/digital-assets-2025-turning-point-en.jpg)
 
 The DeFi industry's promise of decentralized finance continues to be undermined by persistent security vulnerabilities, costing investors millions despite broader market gains....
@@ -78,3 +80,5 @@ DeFi's growth necessitates a shift from aggressive expansion to prioritizing sec
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

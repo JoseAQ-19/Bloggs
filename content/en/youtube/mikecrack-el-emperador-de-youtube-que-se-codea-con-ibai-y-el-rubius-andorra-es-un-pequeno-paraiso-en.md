@@ -15,7 +15,9 @@ title: 'Mikecrack''s Secret Life: The Shocking Truth About His Elite Circle With
   and El Rubius'
 translationKey: 996c5019-b36e-454b-85da-69a40bc4a711
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Mikecrack's Secret Life: The Shocking Truth About His Elite Circle With Ibai and El Rubius](/images/mikecrack-el-emperador-de-youtube-que-se-codea-con-ibai-y-el-rubius-andorra-es-un-pequeno-paraiso-en.jpg)
 
 The rise of content creators has reshaped the entertainment landscape, but few have navigat...

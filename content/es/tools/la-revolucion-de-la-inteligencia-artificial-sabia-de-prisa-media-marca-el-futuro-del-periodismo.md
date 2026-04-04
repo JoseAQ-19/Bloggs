@@ -6,7 +6,7 @@ date: 2026-04-02 13:25:54
 description: Descubre cómo el 87.8% de los medios españoles ocultan el uso de IA en
   sus redacciones y la revolución que esto implica para el periodismo.
 draft: false
-featured_image: /images/la-revolucion-de-la-inteligencia-artificial-sabia-de-prisa-media-marca-el-futuro-del-periodismo.jpg
+featured_image: /images/defaults/default-viral.jpg
 language: es
 slug: la-revolucion-de-la-inteligencia-artificial-sabia-de-prisa-media-marca-el-futuro-del-periodismo
 tags:

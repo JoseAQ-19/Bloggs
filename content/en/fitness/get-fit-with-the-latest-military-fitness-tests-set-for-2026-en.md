@@ -19,7 +19,7 @@ type: fitness
 
 ![Military Fitness 2026: The Gender-Neutral Pivot and the $1.2B Tech Overhaul](/images/get-fit-with-the-latest-military-fitness-tests-set-for-2026-en.jpg)
 
-** Executive Summary (TL;DR):**
+** Executive Summary (In short:):**
 * **The Pivot:** Starting January 1, 2026, the U.S. Army officially replaces the ACFT with a sex-neutral scoring paradigm for 21 core combat military occupational specialties (MOS).
 * **The Metric:** The antiquated 'tape test' is being fully phased out in favor of a mandatory 0.55 Waist-to-Height Ratio (WHtR) for all service members.
 * **The Tech:** A $1.2 billion investment in biometric "Tactical Athlete" wearables is being rolled out to track real-time recovery and cortisol levels across ground combat units.
@@ -89,3 +89,5 @@ This report was compiled by analyzing the **Department of Defense (DoD) Instruct
 ## Related Articles
 - [YouTube TV In 2026: The $83 Gamble That Could Backfire Spectacularly](/en/youtube/youtube-tv-2026-price-hike-or-worth-the-hype-en/)
 - [Biohacking Your Recovery: The $500 Ring That Claims To Replace Your Doctor](/en/fitness/oura-ring-sleep-latency-reading-en/)
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

@@ -6,7 +6,7 @@ date: 2026-04-02 16:03:38
 description: Descubre cómo la caída de Crypto.com impactó a 180 empleados y su nueva
   estrategia centrada en inteligencia artificial en nuestro análisis detallado.
 draft: false
-featured_image: /images/cryptocom-despide-al-12-de-su-plantilla-mientras-apuesta-por-la-inteligencia-artificial.jpg
+featured_image: /images/defaults/default-crypto.jpg
 language: es
 slug: cryptocom-despide-al-12-de-su-plantilla-mientras-apuesta-por-la-inteligencia-artificial
 tags:
@@ -29,7 +29,7 @@ Crypto.com despide al 12% de su plantilla global, lo que representa un cambio dr
  
 * Los usuarios de Crypto.com deben estar preparados para un aumento en la regulación y la posible pérdida de privacidad debido a la implementación de la DAC8 en 2026.
 
-## Resumen Ejecutivo (TL;DR)
+## Resumen Ejecutivo
 
 La empresa de criptomonedas, Crypto.com, enfrenta un importante reestructuración tras despedir al 12% de su personal. Esta medida, que afecta a alrededor de 180 empleados, se enmarca dentro de una estrategia de transformación hacia un enfoque "primero en IA". Kris Marszalek, CEO de Crypto.com, ha indicado que la empresa necesita actuar rápidamente para no quedarse atrás en un mercado que está evolucionando hacia la inteligencia artificial. Este despido masivo no es un hecho aislado; en los últimos años, la compañía ya había realizado recortes significativos, despidiendo un 20% de su personal en 2022 y un 5% adicional en 2023, lo que refleja un patrón preocupante en su gestión de recursos humanos.
 
@@ -65,10 +65,11 @@ Recomendación: Los usuarios deben diversificar sus inversiones en criptomonedas
 
 La implementación de DAC8, junto con la creciente presión regulatoria en el ámbito cripto, subraya la necesidad urgente de que Crypto.com y otras plataformas se alineen con las normativas para mitigar riesgos futuros. Las decisiones estratégicas que tome Crypto.com en los próximos meses serán cruciales para determinar su viabilidad a largo plazo en un entorno cada vez más desafiante.
 
-*Aviso Editorial: El contenido de este artículo es educativo y no constituye asesoramiento financiero, legal, médico ni profesional. Consulte siempre con un especialista certificado antes de tomar decisiones.*
 
 ## Metodología y Fuentes
 
 Este análisis se ha desarrollado a partir de datos recopilados de diversas fuentes confiables en el ámbito financiero y de criptomonedas. Se han tomado en cuenta informes recientes, declaraciones de expertos en la industria y análisis de mercado para proporcionar un contexto completo sobre la situación actual de Crypto.com.
 
 Las fuentes incluyen artículos de [CoinDesk](https://www.coindesk.com), informes de la CNMV, y datos sobre la regulación en la UE. La información se ha validado a través de enlaces directos a las fuentes mencionadas, garantizando la precisión y relevancia de los datos presentados.
+
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*

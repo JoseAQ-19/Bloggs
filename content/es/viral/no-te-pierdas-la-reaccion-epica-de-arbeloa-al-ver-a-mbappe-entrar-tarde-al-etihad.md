@@ -14,7 +14,9 @@ tags:
 title: 'La Reacción Épica De Arbeloa Al Ver A Mbappé Llegar Tarde: ¡Inesperado!'
 translationKey: 538795f1-76b8-e4b7-0891-dd29a8798cdc
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![La Reacción Épica De Arbeloa Al Ver A Mbappé Llegar Tarde: ¡Inesperado!](/images/no-te-pierdas-la-reaccion-epica-de-arbeloa-al-ver-a-mbappe-entrar-tarde-al-etihad.jpg)
 
 **Kylian Mbappé acumula 38 goles en 33 partidos esta temporada, pero su llegada tardía al Etihad revela una brecha entre talento ...

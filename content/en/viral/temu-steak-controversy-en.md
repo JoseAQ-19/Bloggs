@@ -14,7 +14,9 @@ tags:
 title: 'Temu''s $2M FTC Fine: Your Cheap Steak Might Be More Expensive Than You Think'
 translationKey: a25cd5b8-02d1-472d-3be0-5be9dde2f83d
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Temu's $2M FTC Fine: Your Cheap Steak Might Be More Expensive Than You Think](/images/temu-steak-controversy-en.jpg)
 
 Temu's $2M Fine: Is That "Steak" Worth the Risk?...

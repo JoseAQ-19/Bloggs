@@ -14,7 +14,9 @@ tags:
 title: 'NFL''s CTE Cover-Up: 110 Out Of 111 Brains Showed Damage, But Nobody Cared'
 translationKey: f1678862-5539-0289-d914-e839061d0b71
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![NFL's CTE Cover-Up: 110 Out Of 111 Brains Showed Damage, But Nobody Cared](/images/nfl-rookies-cte-conspiracy-en.jpg)
 
 The NFL has successfully monetized traumatic brain injury into a $15 billion annual revenue stream, disguising a public health crisis as Sunday entertainment. This economic miracl...

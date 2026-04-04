@@ -17,7 +17,9 @@ title: 'La Nueva Ley del Deporte: Un Paraíso Fiscal Para Gimnasios Que Aumenta 
   Competencia Desleal'
 translationKey: bc269a43-cbe1-24dc-6077-95f86ba57d29
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![La Nueva Ley del Deporte: Un Paraíso Fiscal Para Gimnasios Que Aumenta la Competencia Desleal](/images/incentivos-fiscales-gimnasios-espana.jpg)
 
 La nueva Ley del Deporte es un paraíso fiscal disfrazado de bienestar social, que beneficia a grandes cadenas mientras ahoga a pequeños gimnasios. 

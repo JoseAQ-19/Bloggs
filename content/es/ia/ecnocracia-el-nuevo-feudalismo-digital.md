@@ -18,7 +18,9 @@ tags:
 title: 'Ecnocracia: El Nuevo Feudalismo Digital'
 translationKey: 390d6f4f-26a0-e9ae-355a-9232fca8067a
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ¿Recuerdas la cantinela utópica sobre un internet liberador? Bórrala de tu disco duro. Lo que tenemos hoy es una distopía tecno-autoritaria, un ecosistema donde unas pocas megacorporaciones actúan como señores feudales digitales, exprimiendo a usuarios y empresas sin piedad. Llamémoslo por su nombre...
 
 ¿Recuerdas la cantinela utópica sobre un internet liberador? Bórrala de tu disco duro. Lo que tenemos hoy es una distopía tecno-autoritaria, un ecosistema donde unas pocas megacorporaciones actúan como señores feudales digitales, exprimiendo a usuarios y empresas sin piedad. Llamémoslo por su nombre: tecnofeudalismo, la metástasis del capitalismo.

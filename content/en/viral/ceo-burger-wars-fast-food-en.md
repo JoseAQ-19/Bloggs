@@ -14,7 +14,9 @@ tags:
 title: 'In-N-Out''s $5.8 Million Secret: Can Anyone Beat The Burger King?'
 translationKey: 03a0c6df-ef15-dbf4-741d-8b788e2e1a29
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![In-N-Out's $5.8 Million Secret: Can Anyone Beat The Burger King?](/images/ceo-burger-wars-fast-food-en.jpg)
 
 In-N-Out Burger's cult following isn't just hype; it's a masterclass in operational effectiveness. The double-double always wins....

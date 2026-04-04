@@ -16,7 +16,9 @@ tags:
 title: 'Gen Z’s Ballet Revolution: 95% Demand Ethical AI Dance Solutions Now'
 translationKey: 36a166be-6d09-6df3-ee7e-a95b1d0e6789
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Gen Z’s Ballet Revolution: 95% Demand Ethical AI Dance Solutions Now](/images/gen-z-ballet-youtube-dance-revolution-en.jpg)
 
 Gen Z’s Ballet Revolution: 95% Demand Ethical AI Now...

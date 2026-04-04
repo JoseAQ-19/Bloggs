@@ -14,7 +14,9 @@ tags:
 title: 'Gemini, ChatGPT, Claude: 78% Of Enterprises Ignored This AI Security Flaw'
 translationKey: 46dd73f7-b028-4672-f429-2938b1926275
 type: ia
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Gemini, ChatGPT, Claude: 78% Of Enterprises Ignored This AI Security Flaw](/images/enterprise-llm-security-risks-en.jpg)
 
 78% of enterprises are playing with fire, deploying AI without understanding the inferno of security risks they're inviting. These Large Language Models (LLMs), like Gemini and...

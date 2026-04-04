@@ -14,7 +14,9 @@ tags:
 title: '87% Of Creators Use AI: The Shocking Truth Behind Creative Workflows Transformation'
 translationKey: fd91b509-9798-296d-f76c-2e2eeb777598
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![87% Of Creators Use AI: The Shocking Truth Behind Creative Workflows Transformation](/images/87-of-creators-now-use-ai-how-the-technology-is-reshaping-creative-workflows-en.jpg)
 
 The romanticized era of the "lone wolf" creator editing footage at 3 AM in a dimly lit bedroom is officially a financia...

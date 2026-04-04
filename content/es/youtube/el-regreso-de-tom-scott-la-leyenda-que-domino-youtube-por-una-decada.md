@@ -17,7 +17,9 @@ title: Tom Scott Regresa a YouTube y Declara la Guerra a la Mediocridad Educativ
   STEM
 translationKey: e242ff8e-53de-6735-c485-a2e68390ad5c
 type: youtube
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Tom Scott Regresa a YouTube y Declara la Guerra a la Mediocridad Educativa STEM](/images/el-regreso-de-tom-scott-la-leyenda-que-domino-youtube-por-una-decada.jpg)
 
 **Tom Scott regresa a YouTube con una misión clara: acabar con la mediocridad en la educación STEM.** Este creador británico, con más ...

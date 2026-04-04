@@ -15,7 +15,9 @@ title: 'La UE Prohíbe los ''Deepfakes'' Sexuales: 3 Millones de Imágenes Gener
   en 11 Días'
 translationKey: f0534539-f6a2-d249-1a08-42e1bd9a7685
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![La UE Prohíbe los 'Deepfakes' Sexuales: 3 Millones de Imágenes Generadas en 11 Días](/images/la-ue-prohibe-los-deepfakes-sexuales-con-ia-que-opinan-los-expertos.jpg)
 
 La proliferación de los 'deepfakes' sexuales ha alcanzado niveles alarmantes en Europa, lo que ha llevado a la Unión Europea a toma...

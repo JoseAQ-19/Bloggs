@@ -14,7 +14,9 @@ tags:
 title: 'The Hidden Truth About K-Pop YouTube Revenue: $650 Million Surge in 2021'
 translationKey: 0ef13a6a-74d2-e8d9-ef3e-736cfe347269
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![The Hidden Truth About K-Pop YouTube Revenue: $650 Million Surge in 2021](/images/inside-the-global-k-pop-phenomenon-the-power-of-youtube-creators-and-fans-en.jpg)
 
 Snapchat pledges to unlock scalable creator revenue with a new Subscriptions product — a direct response to YouTube's dominance in th...

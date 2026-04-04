@@ -15,7 +15,9 @@ title: La Innovadora Siesta Fitness Que Está Transformando 50 Gimnasios En Orie
   Medio
 translationKey: 5fc48910-2019-34ec-0dcb-25fc5f2d1155
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![La Innovadora Siesta Fitness Que Está Transformando 50 Gimnasios En Oriente Medio](/images/la-innovadora-siesta-fitness-que-revoluciona-los-gimnasios-de-oriente-medio.jpg)
 
 La industria del fitness global, obsesionada con el sufrimiento y el sudor como únicos métricos de éxito, está siendo humilla...

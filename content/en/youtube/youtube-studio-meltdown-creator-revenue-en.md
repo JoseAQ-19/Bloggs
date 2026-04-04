@@ -14,7 +14,9 @@ tags:
 title: 'YouTube Studio''s $36 Billion Problem: Glitches Wreak Havoc On Creator Paychecks'
 translationKey: 91329c6a-7d81-08e8-d3fd-b6efb9f16c2f
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![YouTube Studio's $36 Billion Problem: Glitches Wreak Havoc On Creator Paychecks](/images/youtube-studio-meltdown-creator-revenue-en.jpg)
 
 YouTube's algorithm changes in August 2025 caused view drops of up to 40% for some creators, impacting their monetization and revenue predictions.

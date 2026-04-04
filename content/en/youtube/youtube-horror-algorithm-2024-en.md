@@ -15,7 +15,9 @@ title: 'YouTube Horror''s $2,700/Day Secret: Box Office Trembles As Online Screa
   Reign'
 translationKey: 93ef2999-e098-a48b-d518-41549f260fae
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![YouTube Horror's $2,700/Day Secret: Box Office Trembles As Online Screams Reign](/images/youtube-horror-algorithm-2024-en.jpg)
 
 * YouTube horror channels generate as much as $2,700 daily through optimized scare tactics, rivaling traditional theatrical box office returns on a per-title basis.

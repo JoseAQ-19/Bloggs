@@ -17,7 +17,9 @@ tags:
 title: Tecno-Apocalipsis! Así la IA Revivió la Bomba Atómica
 translationKey: 598962c5-2988-351c-4a8f-ca0bd919ac7c
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * La incorporación de la inteligencia artificial (IA) en los sistemas militares plantea riesgos significativos para la humanidad porque **automatiza decisiones críticas, reduciendo el control humano y aumentando el potencial de errores catastróficos, especialmente en el armamento nuclear**. Este riesg...
 
 La incorporación de la inteligencia artificial (IA) en los sistemas militares plantea riesgos significativos para la humanidad porque **automatiza decisiones críticas, reduciendo el control humano y aumentando el potencial de errores catastróficos, especialmente en el armamento nuclear**. Este riesgo se amplifica por la opacidad de los algoritmos y la dificultad para atribuir responsabilidades en caso de fallos.

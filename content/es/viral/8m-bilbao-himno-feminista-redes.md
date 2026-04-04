@@ -14,7 +14,9 @@ tags:
 title: 'Bilbao Arde: El 8M Revela La Guerra Secreta del Feminismo Español.'
 translationKey: c2a4bd10-0b7f-e4ad-df18-855d810d7e8b
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Bilbao Arde: El 8M Revela La Guerra Secreta del Feminismo Español.](/images/8m-bilbao-himno-feminista-redes.jpg)
 
 El feminismo español no se está rompiendo: está estallando, y el 8M en Bilbao fue solo la última esquirla. Las divisiones internas, amplificadas en redes sociales, amenazan con desangr...

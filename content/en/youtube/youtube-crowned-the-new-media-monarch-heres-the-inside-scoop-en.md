@@ -15,7 +15,9 @@ title: 'YouTube Just Generated $36.1 Billion in Ad Revenue: Here’s What You Do
   Know'
 translationKey: dcdf577e-e3a6-8e56-3afe-1eac22546e34
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![YouTube Just Generated $36.1 Billion in Ad Revenue: Here’s What You Don’t Know](/images/youtube-crowned-the-new-media-monarch-heres-the-inside-scoop-en.jpg)
 
 YouTube just reported a staggering **$36.1 billion** in ad revenue for 2024, marking a **14.6% increase** year-on-year and projecting to hit...

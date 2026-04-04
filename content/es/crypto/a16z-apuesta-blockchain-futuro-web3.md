@@ -15,7 +15,9 @@ title: 'A16z Arriesga 2.000 Millones: Harvard Invierte en Ethereum Mientras Espa
   Teme Impuestos Crypto'
 translationKey: 732e72c5-28b2-0385-7267-a03821e61b29
 type: crypto
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![A16z Arriesga 2.000 Millones: Harvard Invierte en Ethereum Mientras España Teme Impuestos Crypto](/images/a16z-apuesta-blockchain-futuro-web3.jpg)
 
 La tokenización de activos del mundo real es una burbuja inflada por el optimismo ciego. A16z predice que la tokenización de activos reales y la priva...

@@ -6,7 +6,7 @@ categories:
 date: 2026-02-22 20:39:15
 description: ¿Shakira gratis en CDMX? Tras amenazas y 10 muertes, analistas cuestionan
   si el evento es una advertencia al gobierno. ¿Peligra el concierto gratuito?.
-draft: false
+draft: true
 featured_image: /images/shakira-concierto-gratis-cdmx-riesgos.jpg
 language: es
 tags:
@@ -16,7 +16,7 @@ translationKey: f729301a-b680-4c2b-9000-702bba32e4c0
 type: viral
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Resumen Ejecutivo
 La potencial celebración de un concierto gratuito de Shakira en la Ciudad de México (CDMX) genera una compleja matriz de riesgos operativos, logísticos y de seguridad pública, que requieren una evaluación rigurosa bajo los más altos estándares de gestión de eventos masivos. La historia reciente de la CDMX, marcada por incidentes trágicos en eventos de gran concurrencia, subraya la urgencia de una planificación exhaustiva.
 
 *   **Riesgo de Tragedia Histórica:** Desde 2022, al menos 10 decesos se han asociado directamente con eventos masivos en México, atribuidos a negligencia, sobrecupo o fallas estructurales. Esto incluye el colapso en el AXE Ceremonia 2025 (2 muertes) y el Hell and Heaven Fest 2014, evidenciando patrones recurrentes de riesgo.

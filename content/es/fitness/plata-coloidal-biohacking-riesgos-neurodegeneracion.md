@@ -14,7 +14,9 @@ tags:
 title: 'Plata Coloidal: El Biohack Que Te Dejará Azul y, Quizás, Más Tonto'
 translationKey: 7e528e66-9458-3c85-79a8-5302e4e92fb2
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ## Plata coloidal: el biohack que te dejará azul y, quizás, más tonto
 
 La plata coloidal, promocionada como un suplemento milagroso en los círculos del "biohacking", no tiene eficacia médica probada y su consumo puede ser peligroso. Está asociada con la argiria, una decoloración azul-grisácea de la ...

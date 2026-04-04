@@ -14,7 +14,9 @@ tags:
 title: The Hidden Risks of Digital Credit in Crypto Treasuries That Nobody Talks About
 translationKey: b70cc509-c002-5acd-5856-76d4c43a8680
 type: crypto
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![The Hidden Risks of Digital Credit in Crypto Treasuries That Nobody Talks About](/images/the-rise-of-digital-credit-a-new-leverage-tool-for-crypto-treasuries-en.jpg)
 
 Corporate treasuries are blindly dumping billions into digital assets, ignoring the structural fragility of DeFi lending mechanisms...
@@ -67,3 +69,5 @@ Diversification is touted as the primary benefit of crypto treas
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

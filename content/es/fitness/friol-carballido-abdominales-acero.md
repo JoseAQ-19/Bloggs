@@ -15,7 +15,9 @@ title: 'Abdominales de Acero Friol Carballido: El Engaño Que Los Gurús No Quie
   Que Sepas'
 translationKey: 3f8c947c-d6b6-9aee-24ba-49108075e40a
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Abdominales de Acero Friol Carballido: El Engaño Que Los Gurús No Quieren Que Sepas](/images/friol-carballido-abdominales-acero.jpg)
 
 Abdominales marcados con ejercicios "funcionales" es la nueva versión del vendehúmos de los batidos mágicos: una promesa vacía sin la base de una dieta sensata y en...

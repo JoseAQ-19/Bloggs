@@ -16,7 +16,7 @@ translationKey: cedec4db-0f6f-f5ce-a3cc-173a3838929f
 type: crypto
 ---
 
-** Resumen Ejecutivo / Executive Summary (TL;DR):**
+** Resumen Ejecutivo / Executive Summary (In short:):**
 - **GBTC Outflows**: Over $17 billion has exited Grayscale’s Bitcoin Trust since its ETF conversion, primarily driven by a high 1.5% expense ratio.
 - **AUM Erosion**: Assets under management have plummeted from nearly $29 billion to approximately $26 billion in under 90 days.
 - **Institutional Flight**: Fiduciary duties are forcing major wealth managers to migrate clients to lower-cost spot ETF alternatives like BlackRock and Fidelity.
@@ -72,3 +72,5 @@ This analysis was conducted by auditing official **SEC Form 8-K** filings for Gr
 - [Clarity Act Stalls: Why Investors Are Stuck in Regulation Limbo](/en/crypto/clarity-act-stalls-crypto-regulation-limbo-en/)
 - [JPMorgan's Warning: Crypto Risk in 2026](/en/crypto/clarity-act-jpmorgan-crypto-risk-2026-en/)
 ---
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

@@ -14,7 +14,9 @@ tags:
 title: 'Princeton Neuroscientist Calls Current AI Dangerous Sociopaths: Are We Doomed?'
 translationKey: 2c1b017c-c2b5-7f3f-cc5a-103d5c6f6fea
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Princeton Neuroscientist Calls Current AI Dangerous Sociopaths: Are We Doomed?](/images/algorithmic-sociopath-ai-safety-en.jpg)
 
 Princeton Neuroscientist Calls Current AI "Dangerous Sociopaths": Are We Doomed?...

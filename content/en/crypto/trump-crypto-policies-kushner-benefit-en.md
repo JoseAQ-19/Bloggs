@@ -14,7 +14,9 @@ tags:
 title: 'Trump''s Crypto Coup: How Jared Kushner Could Pocket Billions'
 translationKey: 67e579f8-7d89-29b4-d2da-6830fc98c2b6
 type: crypto
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Trump's Crypto Coup: How Jared Kushner Could Pocket Billions](/images/trump-crypto-policies-kushner-benefit-en.jpg)
 
 The convergence of political power and personal profit has never been more transparent than in the Trump administration's approach to cryptocurrency regulation, where family ties to...
@@ -111,3 +113,5 @@ Reports
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

@@ -22,7 +22,7 @@ translationKey: kinesiology-and-health-sciences-program-preparing-students-for-d
 type: fitness
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Resumen Ejecutivo
 * Alma College, una institución de artes liberales en Michigan, ha apostado fuerte por la kinesiología y las ciencias de la salud (KHS). A través de una reciente reestructuración de su departamento (antes conocido como Fisiología Integrativa y Ciencias de la Salud), la universidad busca posicionarse c...
 
 Alma College, una institución de artes liberales en Michigan, ha apostado fuerte por la kinesiología y las ciencias de la salud (KHS). A través de una reciente reestructuración de su departamento (antes conocido como Fisiología Integrativa y Ciencias de la Salud), la universidad busca posicionarse como un semillero de talentos para la creciente industria de la salud. Pero, ¿está a la altura de las expectativas? ¿Su programa KHS realmente prepara a los estudiantes para las "carreras dinámicas" que promete, o se trata de una inversión costosa con un retorno incierto?
@@ -67,4 +67,4 @@ KHS en Alma College es una opción ideal para estudiantes aspirantes a profesion
 
 ---
 
-*Aviso Editorial: La información de este artículo es puramente educativa y no constituye asesoramiento financiero, legal o médico profesional. NovumWorld recomienda consultar con un especialista certificado antes de realizar cualquier inversión o cambio en su régimen de salud.*
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*

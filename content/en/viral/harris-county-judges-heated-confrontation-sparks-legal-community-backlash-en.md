@@ -6,7 +6,7 @@ date: 2026-04-01 22:22:40
 description: Uncover the shocking realities of Harris County's judicial overreach
   and ethics violations. Explore the implications for justice and accountability.
 draft: false
-featured_image: /images/harris-county-judges-heated-confrontation-sparks-legal-community-backlash-en.jpg
+featured_image: /images/defaults/default-viral.jpg
 language: en
 slug: harris-county-judges-heated-confrontation-sparks-legal-community-backlash-en
 tags:

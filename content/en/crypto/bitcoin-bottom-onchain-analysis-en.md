@@ -14,7 +14,9 @@ tags:
 title: '$23 Billion Bitcoin Grab: Whales Are Buying The Dip And You''re Not'
 translationKey: 29cef61f-967f-c4af-380d-7333b8a1910c
 type: crypto
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![$23 Billion Bitcoin Grab: Whales Are Buying The Dip And You're Not](/images/bitcoin-bottom-onchain-analysis-en.jpg)
 
 Bitcoin's alleged bottom may be nothing more than a whale-fueled mirage obscuring significant retail losses....
@@ -71,3 +73,5 @@ Don't let FOMO drown out your common sense.
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

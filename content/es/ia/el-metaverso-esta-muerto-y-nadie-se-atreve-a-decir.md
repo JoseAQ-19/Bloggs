@@ -15,7 +15,9 @@ remastered: true
 title: El Metaverso Está Muerto (Y Nadie Se Atreve a Decirlo)
 translationKey: 6bfcadf8-6e2a-1de1-257b-35141262d9f5
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 El concepto del metaverso, inicialmente presentado como la próxima gran revolución de Internet, ha enfrentado una serie de desilusiones que han puesto en tela de juicio su viabilidad tanto en el ámbito de consumo como en el industrial. A pesar de la inversión masiva por parte de empresas como Meta, los resultados han sido decepcionantes. La tecnología actual para la realidad virtual se muestra insuficiente, y la falta de contenido atractivo limita su adopción. Por otro lado, aunque el metaverso industrial presenta oportunidades, su impacto real es menor del esperado y suele ser una extensión de tecnologías existentes. La idea de que pasaremos la mayor parte de nuestro tiempo en mundos virtuales es una fantasía, y sería más beneficioso que la industria tecnológica redirigiera sus esfuerzos hacia problemas reales con tecnologías ya probadas.
 
 ## Cuerpo

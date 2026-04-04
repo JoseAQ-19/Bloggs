@@ -14,7 +14,9 @@ tags:
 title: The Shocking Injury Rates in Hyrox That Every Fitness Buff Needs to Know
 translationKey: cb50a470-2e94-38c7-320d-7854008afbe8
 type: fitness
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![The Shocking Injury Rates in Hyrox That Every Fitness Buff Needs to Know](/images/hyrox-revolution-why-this-new-fitness-trend-is-captivating-the-industry-en.jpg)
 
 **One in three Hyrox athletes will suffer a shoulder injury, with 25-30% of all injuries affecting the shoulder region**. Hyrox, a high...
@@ -82,3 +84,5 @@ A: Higher VO2max correlates with faster completion times in Hyrox, indicating th
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

@@ -14,7 +14,9 @@ tags:
 title: $6.6 Trillion Exodus? CLARITY Act's Stablecoin War Just Ignited
 translationKey: bb67e3da-57ff-4401-52cc-81d85e0d5c6b
 type: crypto
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![$6.6 Trillion Exodus? CLARITY Act's Stablecoin War Just Ignited](/images/clarity-act-stablecoin-yields-en.jpg)
 
 Traditional banking faces a potential $6.6 trillion deposit exodus as the CLARITY Act seeks to regulate stablecoins, specifically targeting the yield-bearing mechanisms that currently at...
@@ -71,3 +73,5 @@ However, the CLARITY Act's solution—banning yield—is a blunt instrument that
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

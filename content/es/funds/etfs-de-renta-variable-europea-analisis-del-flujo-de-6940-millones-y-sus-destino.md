@@ -15,7 +15,9 @@ title: 'ETFs de renta variable europea: Análisis del flujo de 6.940 millones �
   destinos.'
 translationKey: d879ef42-0f86-f6bb-dac5-7c65a8973328
 type: funds
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![ETFs de renta variable europea: Análisis del flujo de 6.940 millones € y sus destinos.](/images/etfs-de-renta-variable-europea-analisis-del-flujo-de-6940-millones-y-sus-destino.jpg)
 
 **6.940 millones de euros** han atraído los ETFs de renta variable europea en los últimos 12 meses, según datos de ...

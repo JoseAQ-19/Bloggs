@@ -15,7 +15,9 @@ title: 'Carnival''s Deadly Game: Balcony Sleeping Meets Runaway Autopilot, 56 Fa
   Already'
 translationKey: 6681a4a5-138b-874c-4f7e-538bc8eaa135
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Carnival's Deadly Game: Balcony Sleeping Meets Runaway Autopilot, 56 Fatalities Already](/images/cruise-control-carnival-balcony-sleeping-en.jpg)
 
 The allure of the open sea masks a troubling reality: onboard dangers are escalating faster than cruise lines can contain them. Carnival is not just a ...

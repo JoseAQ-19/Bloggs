@@ -16,7 +16,7 @@ translationKey: 4a07104f-c9fd-3e85-4866-ffbbf314abfc
 type: funds
 ---
 
-## Executive Summary (TL;DR)
+## Executive Summary
 * ![OAKM: Morningstar Names This Active ETF a Top Pick for 2026, Citing 15% Growth](/images/oakm-morningstar-names-this-active-etf-a-top-pick-for-2026-citing-15-growth-en.jpg)
 
 The LNG market just lost 10% of global supply overnight as Qatar halted production amid escalating Middle East tensions, send...
@@ -111,7 +111,6 @@ Finally, the potential for liquidity constraints within the alternative credit m
 
 ---
 
-️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
 
 ## Fuentes y Autoridad
 * [Análisis en Morningstar](https://www.morningstar.com)
@@ -121,3 +120,5 @@ Finally, the potential for liquidity constraints within the alternative credit m
 ---
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

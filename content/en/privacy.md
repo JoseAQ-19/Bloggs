@@ -11,7 +11,7 @@ title: 'The Silicon Sovereignty of Data: A Deep Analysis of AI-Age Privacy Infra
 translationKey: privacy
 ---
 
-## Executive Summary (TL;DR)
+## Executive Summary
 - Data privacy is no longer a legal abstraction but a hardware-constrained reality dictated by inference latency and token costs.
 - The reliance on third-party ad networks like Google AdSense is a byproduct of the massive compute overhead required to run high-fidelity AI-driven content platforms.
 - Sovereignty over model weights (e.g., Llama-3 405B) determines whether user data is isolated or ingested into the multi-trillion-parameter gradients of proprietary models like GPT-4o.

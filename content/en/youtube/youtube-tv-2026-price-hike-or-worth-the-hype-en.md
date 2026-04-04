@@ -14,7 +14,9 @@ tags:
 title: 'YouTube TV In 2026: The $83 Gamble That Could Backfire Spectacularly'
 translationKey: fedbfeca-b9c8-531f-c53b-2bf2861416b9
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![YouTube TV In 2026: The $83 Gamble That Could Backfire Spectacularly](/images/youtube-tv-2026-price-hike-or-worth-the-hype-en.jpg)
 
 YouTube TV's aggressive pricing strategy could ironically fuel the very cord-cutting trend it seeks to capitalize on, making its $82.99/month price tag a ticking time...

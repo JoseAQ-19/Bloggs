@@ -15,7 +15,9 @@ tags:
 title: 'From $100 To $6: YouTube''s Ad Revenue Massacre Nobody Is Talking About.'
 translationKey: 1d806a5c-c4a4-661a-2742-0221fb33b52b
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/images/youtube-vs-disney-new-media-king-en.jpg)
 
 YouTube’s promise of fame and fortune through ad revenue is increasingly a mirage, with some creators seeing their earnings plummet from $100 a day to a paltry $6....

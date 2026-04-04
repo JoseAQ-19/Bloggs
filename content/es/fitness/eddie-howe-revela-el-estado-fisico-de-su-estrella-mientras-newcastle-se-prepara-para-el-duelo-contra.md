@@ -15,7 +15,9 @@ title: La Verdad Oculta del Estado Físico de la Estrella de Newcastle Según Ed
   Howe
 translationKey: be1e05cc-47bf-3138-50a6-faf384dd0263
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![La Verdad Oculta del Estado Físico de la Estrella de Newcastle Según Eddie Howe](/images/eddie-howe-revela-el-estado-fisico-de-su-estrella-mientras-newcastle-se-prepara-para-el-duelo-contra.jpg)
 
 Los atletas de élite no son máquinas cibernéticas invencibles, son activos biológicos en depreciación ...

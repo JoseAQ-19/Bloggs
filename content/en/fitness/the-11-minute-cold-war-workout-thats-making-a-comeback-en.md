@@ -20,7 +20,7 @@ type: fitness
 
 ![The 11-Minute Workout Revolution: How It Cuts Mortality Risk By 25%](/images/the-11-minute-cold-war-workout-thats-making-a-comeback-en.jpg)
 
-** Executive Summary (TL;DR):**
+** Executive Summary (In short:):**
 * **The Reality:** Significant health benefits—including a 25% reduction in all-cause mortality—can be achieved with as little as 11 minutes of moderate-to-vigorous activity daily.
 * **The Science:** Research from the University of Cambridge indicates that 75 minutes of exercise per week (11 min/day) is sufficient to prevent 1 in 10 premature deaths.
 * **The Protocol:** Based on the Canadian 5BX (Five Basic Exercises) and modern HIIT principles, the focus is on elevating the heart rate quickly and maintaining mobility.
@@ -87,3 +87,5 @@ This analysis is based on the meta-analysis performed by the **University of Cam
 ## Related Articles
 - [Biohacking Your Recovery: The $500 Ring That Claims To Replace Your Doctor](/en/fitness/oura-ring-sleep-latency-reading-en/)
 - [The Longevity Paradox: Why 'Getting Fit' Might Be Killing You (If Done Wrong)](/en/fitness/mortality-paradox-fitness-failure-en/)
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

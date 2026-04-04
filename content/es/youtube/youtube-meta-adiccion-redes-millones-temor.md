@@ -15,7 +15,9 @@ title: 'YouTube, El Monstruo De 44 Minutos: Tu Hijo Cae En La Trampa, Silicon Va
   Gana'
 translationKey: bc4557b3-b5c0-9aef-0642-206fac365760
 type: youtube
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![YouTube, El Monstruo De 44 Minutos: Tu Hijo Cae En La Trampa, Silicon Valley Gana](/images/youtube-meta-adiccion-redes-millones-temor.jpg)
 
 * Los adolescentes españoles dedican **44 minutos diarios** a YouTube, convirtiéndose en el blanco perfecto de sus algoritmos adictivos. 

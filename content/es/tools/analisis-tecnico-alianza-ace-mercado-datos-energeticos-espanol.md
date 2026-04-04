@@ -14,7 +14,9 @@ tags:
 title: 'Datos Energéticos En Peligro: Ciberataques Aumentan Un 43% Y Nadie Hace Nada'
 translationKey: d34a30ab-d17e-aae7-2187-14b2c5f4778b
 type: tools
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Datos Energéticos En Peligro: Ciberataques Aumentan Un 43% Y Nadie Hace Nada](/images/analisis-tecnico-alianza-ace-mercado-datos-energeticos-espanol.jpg)
 
 El mito de la energía verde se desmorona ante la realidad de una infraestructura vulnerable. La complacencia en ciberseguridad podría costar má...

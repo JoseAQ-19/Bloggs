@@ -15,7 +15,9 @@ tags:
 title: 'Bhutan Dumped 58% Of Bitcoin: Should You Be Terrified?'
 translationKey: 045ba508-4397-10fe-f682-77b673ea4dc7
 type: crypto
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Bhutan Dumped 58% Of Bitcoin: Should You Be Terrified?](/images/bitcoin-surge-analysis-en.jpg)
 
 Bhutan’s strategic reduction in Bitcoin holdings underscores the inherent risks associated with sovereign wealth funds venturing into volatile crypto assets....
@@ -94,3 +96,5 @@ Don't let sovereign moves make you move; be informed, not alarmed.
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

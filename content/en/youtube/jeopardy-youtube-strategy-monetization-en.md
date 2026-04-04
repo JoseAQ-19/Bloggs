@@ -14,7 +14,9 @@ tags:
 title: 'Jeopardy! YouTube Gamble: $70 Billion Creator Payouts Hide A Dark Secret'
 translationKey: da387cad-bd56-553a-c3b7-64f8abd8c738
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Jeopardy! YouTube Gamble: $70 Billion Creator Payouts Hide A Dark Secret](/images/jeopardy-youtube-strategy-monetization-en.jpg)
 
 YouTube paid out $70 billion to creators in the three years leading up to January 2024, an average of just under $8,000 per creator.

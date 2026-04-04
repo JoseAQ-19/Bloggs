@@ -15,7 +15,9 @@ title: '35,000,000 Euros En Riesgo: La Revolución de Elsevier Contra La Falta d
   Científica'
 translationKey: feb9186d-f350-04b6-b083-0422eff9283a
 type: tools
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ## 35 millones de euros en riesgo: Elsevier, el EU AI Act y la crisis de la integridad científica
 
 Elsevier se enfrenta a una posible multa de 35 millones de euros por incumplir el reglamento europeo sobre inteligencia artificial (EU AI Act) debido a la falta de transparencia en sus sistemas de revi...
@@ -24,7 +26,7 @@ Elsevier se enfrenta a una posible multa de 35 millones de euros por incumplir e
 
 Elsevier se enfrenta a una posible multa de 35 millones de euros por incumplir el reglamento europeo sobre inteligencia artificial (EU AI Act) debido a la falta de transparencia en sus sistemas de revisión científica. Este incumplimiento expone problemas estructurales que comprometen la integridad de la investigación publicada.
 
-## TL;DR
+## In short:
 
 La posible sanción a Elsevier cuestiona la fiabilidad de sus algoritmos de revisión, ya que estos sistemas podrían estar perpetuando sesgos discriminatorios. La renuncia de Damià Barceló, editor de *Science of the Total Environment*, reveló en 2025 graves fallos en la revisión por pares, agravando la crisis de confianza en la ciencia.
 

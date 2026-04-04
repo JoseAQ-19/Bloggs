@@ -15,7 +15,9 @@ title: '¡ALERTA! Tu Intel Podría Estar Muriendo Lentamente: La Verdad Sobre El
   Gratis.'
 translationKey: 58d7759c-5dfd-76ff-c17d-a43679575636
 type: tools
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 La práctica de undervolting en procesadores Intel, aunque puede parecer una estrategia atractiva para reducir temperaturas y consumo energético, conlleva riesgos significativos que pueden comprometer la vida útil del hardware. La intervención en los parámetros de voltaje a menudo resulta en la degradación silenciosa del silicio, que puede manifestarse meses después de la modificación. Este artículo explora las implicaciones del undervolting, cómo afecta la estabilidad de los sistemas y por qué los usuarios deben ser cautelosos al considerar esta técnica.
 
 ## Intel contra el Calor: Cómo la Promesa del Undervolting "Gratis" Puede Destruir tu CPU a Largo Plazo

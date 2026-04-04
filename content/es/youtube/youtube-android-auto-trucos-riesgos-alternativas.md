@@ -8,7 +8,7 @@ date: 2026-03-30 13:59:25
 description: 'Análisis técnico de los 7 métodos existentes para ver YouTube en Android
   Auto: AAAD, CarStream, Fermata Auto, NewPipe y más. Riesgos legales, de seguridad
   vial y de privacidad incluidos.'
-draft: false
+draft: true
 featured_image: /images/youtube-android-auto-trucos-riesgos-alternativas.jpg
 language: es
 slug: youtube-android-auto-trucos-riesgos-alternativas
@@ -18,7 +18,9 @@ title: 'YouTube en Android Auto: 7 Métodos Reales, Sus Riesgos y Lo Que Google 
   Te Dice'
 translationKey: 4350e38b-5146-3746-9056-ff4bbf30ebe1
 type: youtube
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 YouTube no está disponible en Android Auto mientras el vehículo está en movimiento, debido a preocupaciones de seguridad vial y responsabilidad legal. A pesar de estas restricciones, existen métodos no oficiales para acceder a YouTube, cada uno con implicaciones significativas en términos de seguridad y legalidad.
 
 - **Riesgo de Distracción:** En 2021, la NHTSA reportó 3.522 muertes en EE. UU. por conducción distraída. Ver contenido mientras se conduce incrementa el riesgo de accidentes.

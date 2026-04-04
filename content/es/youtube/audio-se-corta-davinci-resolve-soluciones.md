@@ -15,7 +15,9 @@ title: ¿Por qué el audio se corta aleatoriamente en DaVinci Resolve? Solucione
   datos reales
 translationKey: e50b8caf-ff82-4155-bd4d-944825f5fc20
 type: youtube
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![¿Por qué el audio se corta aleatoriamente en DaVinci Resolve? Soluciones y datos reales](/images/audio-se-corta-davinci-resolve-soluciones.jpg)
 
 Si el audio de DaVinci Resolve se corta de forma aleatoria, no eres el único al que le pasa. Aunque no existen estadísticas específicas sobre la frecuenc...

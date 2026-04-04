@@ -14,7 +14,9 @@ tags:
 title: 'Stokes Twins'' Pranks Could Land Them Back In Court: Todd Spitzer Warns'
 translationKey: 386801f0-7d60-fe97-2e0e-8f1fa15c62bd
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Stokes Twins' Pranks Could Land Them Back In Court: Todd Spitzer Warns](/images/stokes-twins-youtube-pranks-real-life-chaos-en.jpg)
 
 The "prank" industrial complex is a ticking time bomb for creators, and the Stokes Twins are a prime example of why....

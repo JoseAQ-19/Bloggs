@@ -14,7 +14,9 @@ tags:
 title: 'Anthropic Just Broke Trust: The Pentagon Fallout Nobody Is Talking About'
 translationKey: ceeecf73-af25-99d2-a4cc-8953cab3341f
 type: ia
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Anthropic Just Broke Trust: The Pentagon Fallout Nobody Is Talking About](/images/anthropic-pentagon-ai-ethics-enterprise-risk-en.jpg)
 
 Anthropic's shiny "AI safety" halo is starting to slip, revealing a much less comforting reality beneath....

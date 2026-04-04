@@ -7,7 +7,7 @@ categories:
 date: 2026-03-31 12:04:50
 description: Discover why 65% of Americans distrust robots and explore the deepening
   AI trust crisis that could impact technology's future and society at large.
-draft: false
+draft: true
 featured_image: /images/ai-trust-crisis-skeptics-guide-en.jpg
 language: en
 slug: ai-trust-crisis-skeptics-guide-en
@@ -16,7 +16,9 @@ tags:
 title: '65% Of Americans Distrust Robots: The Alarming AI Trust Crisis Exposed'
 translationKey: 978c234a-f52e-4fe3-d934-4957e7636ddc
 type: ia
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 *   **Pervasive Distrust:** A significant 65% of Americans express explicit distrust towards robots and AI systems, indicating a critical public perception challenge for the rapidly evolving technology sector. Globally, only 46% of individuals are willing to trust AI systems, as reported by NIST research.
 *   **Economic Paradox:** Despite projected global AI spending reaching $2.5 trillion by 2026 and venture capital investment in AI firms totaling $258.7 billion in 2025 (61% of all VC investment), public trust in these systems has demonstrably decreased, creating a substantial market disconnect and raising concerns about valuation sustainability.
 *   **Regulatory Scrutiny:** Regulatory bodies, including the FTC and CFPB, are actively enforcing existing consumer protection laws against AI applications, emphasizing that AI is not exempt from accountability. Specific actions target "AI washing," misleading claims, and discriminatory algorithmic outcomes.

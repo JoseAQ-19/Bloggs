@@ -6,7 +6,7 @@ date: 2026-04-02 19:01:46
 description: La AEPD alerta sobre los riesgos de los avatares en YouTube, que pueden
   ser utilizados para estafas de identidad. Conoce cómo protegerte.
 draft: false
-featured_image: /images/youtube-revoluciona-la-experiencia-con-avatares-personalizados-y-nuevas-funciones-en-google-workspac.jpg
+featured_image: /images/defaults/default-viral.jpg
 language: es
 slug: youtube-revoluciona-la-experiencia-con-avatares-personalizados-y-nuevas-funciones-en-google-workspac
 tags:

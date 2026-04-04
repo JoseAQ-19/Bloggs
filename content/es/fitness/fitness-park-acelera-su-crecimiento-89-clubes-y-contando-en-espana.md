@@ -17,7 +17,9 @@ title: '200,000 Miembros en Fitness Park: El Impacto Real en la Actividad Físic
   España'
 translationKey: 2171fe49-58ac-2676-1cc7-f952cd6285f1
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![200,000 Miembros en Fitness Park: El Impacto Real en la Actividad Física en España](/images/fitness-park-acelera-su-crecimiento-89-clubes-y-contando-en-espana.jpg)
 
 Fitness Park ha facturado 60 millones de euros en 2024, pero la verdadera pregunta es si esa cifra refleja una mejora real en la salu...

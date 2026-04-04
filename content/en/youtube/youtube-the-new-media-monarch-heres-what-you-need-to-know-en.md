@@ -15,7 +15,9 @@ title: 'YouTube''s Creator Burnout Crisis: 62-90% Are Suffering And The Financia
   Toll Is Exponential'
 translationKey: c733101c-5358-b975-e761-91612125001b
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![YouTube's Creator Burnout Crisis: 62-90% Are Suffering And The Financial Toll Is Exponential](/images/youtube-the-new-media-monarch-heres-what-you-need-to-know-en.jpg)
 
 The creator economy is rapidly revealing itself as a . While it offers unprecedented opportunities for financial independence, it...

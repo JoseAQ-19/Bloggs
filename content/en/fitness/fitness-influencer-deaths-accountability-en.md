@@ -14,7 +14,9 @@ tags:
 title: '10,000 Calories And Cardiac Arrest: The Deadly Secret Of Fitness Fame'
 translationKey: 0e69e677-0ba5-3f33-bb1f-3654d2ade955
 type: fitness
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![10,000 Calories And Cardiac Arrest: The Deadly Secret Of Fitness Fame](/images/fitness-influencer-deaths-accountability-en.jpg)
 
 Fitness influencer Dmitry Nuyanzin died after attempting a 10,000-calorie challenge, underscoring the potentially fatal consequences of extreme fitness trends.
@@ -88,3 +90,5 @@ The fitness industry cannot continue to operate as a Wild West of unregulated ex
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

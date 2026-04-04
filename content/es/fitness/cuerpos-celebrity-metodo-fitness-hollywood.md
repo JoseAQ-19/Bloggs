@@ -15,7 +15,9 @@ title: ¡Escándalo Postparto! El Secreto Fitness Que Esconde El 90% De La Depre
   Maternal
 translationKey: 7ee464fa-2591-de2e-fabd-ed65bbdea96f
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![¡Escándalo Postparto! El Secreto Fitness Que Esconde El 90% De La Depresión Maternal](/images/cuerpos-celebrity-metodo-fitness-hollywood.jpg)
 
 La presión por recuperar la figura "pre-bebé" es una trampa cruel que ignora la crisis de salud mental que afecta a la gran mayoría de las madres primeriza...

@@ -14,7 +14,9 @@ tags:
 title: 'Hugging Face: ¿El espejismo del Open Source o la trampa de los Embeddings?'
 translationKey: ab805d91-4ddd-495f-90b8-e3aa8e6a3680
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 Hugging Face ha emergido como un referente en el ámbito del open source para Inteligencia Artificial (IA), prometiendo democratizar el acceso a modelos de *embeddings*. Sin embargo, al profundizar en su oferta, se vislumbra un problema significativo: la predominancia del inglés en el entrenamiento de estos modelos, lo que limita su efectividad en otros idiomas, especialmente el español. Esto plantea un dilema para las empresas que buscan soluciones realistas y efectivas en sus aplicaciones de IA. La realidad es que, aunque Hugging Face ofrece herramientas valiosas, dependemos de una comprensión más crítica y estratégica del uso de estos recursos, especialmente en contextos no anglófonos. La tendencia parece moverse hacia la especialización y el autoalojamiento, donde las empresas buscan tener control sobre sus modelos y datos.
 
 ## El Espejismo de Hugging Face

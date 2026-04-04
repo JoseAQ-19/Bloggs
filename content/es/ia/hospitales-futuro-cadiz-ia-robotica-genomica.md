@@ -6,7 +6,7 @@ categories:
 date: 2026-03-23 10:34:12
 description: 'Cádiz en jaque: ¿delegaremos nuestra salud a la IA? Descubre cómo 155
   algoritmos amenazan con dominar el futuro de la medicina en la Tacita de Plata.'
-draft: false
+draft: true
 featured_image: /images/hospitales-futuro-cadiz-ia-robotica-genomica.jpg
 language: es
 tags:
@@ -14,7 +14,9 @@ tags:
 title: 'Cádiz al Borde: ¿Serán 155 Algoritmos de IA los Amos de Tu Salud?'
 translationKey: dd01c257-10ce-f8f0-d00e-c9fdd2c17daf
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 La implementación de la Inteligencia Artificial (IA) en el Sistema Nacional de Salud (SNS) de España, evidenciada por la identificación de 155 algoritmos en operación, presenta una dicotomía entre el avance tecnológico y los riesgos inherentes a la falta de un marco regulatorio robusto y una auditoría transparente. Este informe analiza las implicaciones críticas para la provincia de Cádiz, destacando las siguientes problemáticas:
 
 *   **Proliferación Algorítmica no Regulada:** El SNS ha identificado 155 algoritmos de IA, una cifra que carece de un marco de responsabilidad legal definido y un protocolo de auditoría independiente, exponiendo a pacientes y profesionales a decisiones asistenciales opacas.

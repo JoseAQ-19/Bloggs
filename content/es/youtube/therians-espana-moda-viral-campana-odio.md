@@ -15,7 +15,9 @@ title: 'Gastó 12.000€ para Ser un Border Collie: la Verdad Detrás de los The
   Españoles'
 translationKey: 53f4c4db-c796-41a0-8d87-d126ba7307eb
 type: youtube
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Gastó 12.000€ para Ser un Border Collie: la Verdad Detrás de los Therians Españoles](/images/therians-espana-moda-viral-campana-odio.jpg)
 
 Gastar 12.000€ para transformarse en un Border Collie puede parecer una extravagancia, pero es la punta del iceberg de un fenómeno creciente en España: la auto...

@@ -14,7 +14,9 @@ tags:
 title: 'Bitcoin a $200,000 o Colapso Total: El Gráfico Que Aterroriza a los Traders'
 translationKey: a95bbd15-a16c-2a7d-d593-8dcab793d757
 type: crypto
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Bitcoin a $200,000 o Colapso Total: El Gráfico Que Aterroriza a los Traders](/images/bitcoin-analisis-grafico-rumbo.jpg)
 
 La disparidad entre la exuberancia de las predicciones alcistas y el temor a una corrección inminente ha sembrado la incertidumbre entre los inversores españoles de Bitcoin. El...

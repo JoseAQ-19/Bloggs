@@ -15,7 +15,9 @@ tags:
 title: 'Adiós, Tama: El Desplome Turístico de Wakayama Cuesta 1.100 Millones de Yenes.'
 translationKey: 829d4e41-d0d5-4d61-daff-d184d109609a
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Adiós, Tama: El Desplome Turístico de Wakayama Cuesta 1.100 Millones de Yenes.](/images/tama-gata-jefa-estacion-wakayama.jpg)
 
 La economía de la atención tiene un límite biológico ineludible: la muerte. Wakayama Electric Railway se enfrenta hoy a la cruda realidad de que su activo más rentable no ...

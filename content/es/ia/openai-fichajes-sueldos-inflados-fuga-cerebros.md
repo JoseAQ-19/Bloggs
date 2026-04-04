@@ -14,7 +14,9 @@ tags:
 title: 'OpenAI Desangra España: 12 Fichajes Diarios Y Talento Español En Peligro'
 translationKey: 63630180-555e-c3b8-d347-bb25299b023c
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 La incursión de OpenAI en el mercado laboral español está generando un éxodo de talento en el sector de la inteligencia artificial (IA), con un impacto directo en el ecosistema tecnológico del país. La empresa está realizando un promedio de 12 fichajes diarios, lo que ha desestabilizado las expectativas salariales y ha creado una competencia desleal para las startups locales. Aunque las organizaciones en España están adoptando rápidamente la IA generativa, la inflación salarial impulsada por OpenAI está provocando una distorsión del mercado que amenaza la sostenibilidad del talento local. Este fenómeno no solo afecta a la economía, sino que también está deteriorando la calidad del talento emergente al promover a profesionales inexpertos a roles críticos. La guerra por el talento no es solo un desafío local, sino que también afecta a competidores globales como DeepMind.
 
 ## El Dilema de los 100.000 Euros: ¿Está Inflacionando OpenAI el Mercado Laboral Español de IA?

@@ -14,7 +14,9 @@ tags:
 title: 'Therian Identity Faces $78 Billion Crisis: AI Deepfakes Threaten Reality Itself'
 translationKey: a29b18f9-3374-d89b-f8cc-16551f099b0a
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Therian Identity Faces $78 Billion Crisis: AI Deepfakes Threaten Reality Itself](/images/therian-culture-ai-disinformation-en.jpg)
 
 AI deepfakes threaten to completely erode public trust, especially for marginalized groups. The existential question of therian identity faces a monumental challenge....

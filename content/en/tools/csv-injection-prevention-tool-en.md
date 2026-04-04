@@ -14,7 +14,9 @@ tags:
 title: 'Excel Apocalypse: This Tiny Tool Saves You From Remote Code Execution'
 translationKey: 1ec334f2-66c3-fa95-a63a-7d41ea7ed128
 type: tools
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Excel Apocalypse: This Tiny Tool Saves You From Remote Code Execution](/images/csv-injection-prevention-tool-en.jpg)
 
 The assumption that CSV injection is a minor threat is a dangerous fallacy....

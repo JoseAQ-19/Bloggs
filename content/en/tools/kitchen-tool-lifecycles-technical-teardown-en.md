@@ -15,7 +15,9 @@ tags:
 title: '$380 Billion Kitchen Nightmare: Your Durable Appliance Is A Planned Scam'
 translationKey: a39a4ab8-a76b-5c06-b882-e50f5f18c117
 type: tools
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![$380 Billion Kitchen Nightmare: Your Durable Appliance Is A Planned Scam](/images/kitchen-tool-lifecycles-technical-teardown-en.jpg)
 
 We've been systematically scammed into believing our "durable" kitchen appliances are built to last. The global kitchen appliance market is projected to reach USD 3...

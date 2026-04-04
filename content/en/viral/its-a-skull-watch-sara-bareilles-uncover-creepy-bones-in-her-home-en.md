@@ -14,7 +14,9 @@ tags:
 title: 'Sara Bareilles'' Renovation Nightmare: The $500 Billion Industry''s Dark Secret'
 translationKey: e0f3d097-5059-363b-ee9b-324f75796666
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Sara Bareilles' Renovation Nightmare: The $500 Billion Industry's Dark Secret](/images/its-a-skull-watch-sara-bareilles-uncover-creepy-bones-in-her-home-en.jpg)
 
 AI agents could change your life — if they don’t ruin it first. The recent uproar over TikTok’s “AI agents,” a feature where users can i...

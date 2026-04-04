@@ -17,7 +17,9 @@ tags:
 title: 'Groenlandia: El Cisne Negro que Derrumbará el Imperio Digital de EEUU'
 translationKey: groenlandia-el-nuevo-jaque-mate-geopolitico-que-hu
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * Groenlandia: La Traición Helada de América a Occidente
 
 Groenlandia, antes un erial de hielo irrelevante, ahora se erige como el campo de batalla geopolítico del siglo, un escenario donde la avaricia estadounidense amenaza con desmantelar el orden mundial que supuestamente defiende. Dejemos de lado ...

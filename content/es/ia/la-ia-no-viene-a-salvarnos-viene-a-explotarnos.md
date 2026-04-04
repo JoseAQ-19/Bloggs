@@ -15,7 +15,9 @@ quality_tier: fenix_v2_notebooklm
 title: 'La IA No Viene a Salvarnos: Viene a Explotarnos'
 translationKey: la-ia-no-viene-a-salvarnos-viene-a-explotarnos
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 La inteligencia artificial (IA) no es la solución mágica que promete transformar el trabajo humano en un proceso más eficiente y menos demandante. En realidad, su funcionamiento depende de un vasto sistema de trabajo invisible, conocido como "ghost work", donde millones de trabajadores realizan tareas esenciales que son fundamentales para el entrenamiento y operación de los algoritmos de IA. Estos trabajadores, a menudo mal remunerados y expuestos a condiciones laborales extremas, enfrentan una explotación sistemática que plantea serias preguntas sobre la ética y la sostenibilidad de la IA en su estado actual. Este artículo examina la realidad oculta detrás de la IA, el costo humano de su desarrollo, la arquitectura de la explotación digital y la necesidad urgente de un cambio hacia una IA más ética y responsable.
 
 ---

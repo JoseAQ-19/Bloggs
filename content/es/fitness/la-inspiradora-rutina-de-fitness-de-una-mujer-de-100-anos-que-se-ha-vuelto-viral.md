@@ -6,7 +6,7 @@ date: 2026-04-02 04:28:31
 description: Descubre la asombrosa historia de una mujer centenaria que rompió récords.
   Su rutina de fitness es una inspiración para todos. ¡No te lo pierdas!.
 draft: false
-featured_image: /images/la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral.jpg
+featured_image: /images/defaults/default-fitness.jpg
 language: es
 slug: la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral
 tags:
@@ -27,7 +27,7 @@ Las creencias populares en el mundo del fitness suelen ser engañosas. ¿Cuánta
 * La sarcopenia afecta al 25% de la población mayor de 70 años en España, según datos del Complejo Hospitalario de Toledo.
 * Adoptar una rutina de ejercicios y una dieta rica en proteínas puede ser clave para combatir la pérdida muscular y promover un envejecimiento saludable.
 
-## Resumen Ejecutivo (TL;DR)
+## Resumen Ejecutivo
 
 Emma Mazzenga ha capturado la atención del mundo del atletismo no solo por su avanzada edad, sino por sus impresionantes logros. En 2024, logró batir su propio récord en la categoría de mujeres mayores de 90 años, completando los 200 metros en 50.33 segundos. Este logro no es solo un testimonio de su dedicación y arduo trabajo, sino también una inspiración para muchos que creen que el ejercicio intenso y competitivo no es posible a medida que se envejece.
 
@@ -69,7 +69,6 @@ La longevidad activa no es simplemente un ideal; es una realidad alcanzable con 
 
 *Es esencial adoptar un enfoque integral hacia la salud y la longevidad, priorizando la actividad física y la nutrición adecuada. Consultar con expertos y realizar un seguimiento de nuestras progresos son pasos claves para garantizar una vida activa y saludable en la vejez.* 
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento financiero, legal, médico ni profesional. Consulte siempre con un especialista certificado antes de tomar decisiones.*
 
 ## Metodología y Fuentes
 
@@ -80,3 +79,5 @@ Este artículo se ha construido a partir de un análisis exhaustivo de datos y e
 - [White matter integrity, hippocampal volume, and cognitive performance of a world-famous nonagenarian track-and-field athlete](https://pubmed.ncbi.nlm.nih.gov/26237526/)
 
 Este artículo se basa en la revisión de literatura científica actualizada y entrevistas con expertos en el campo de la geriatría, nutrición y fisiología del ejercicio.
+
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*

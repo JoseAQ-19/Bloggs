@@ -16,7 +16,9 @@ tags:
 title: 'Ecnocínicos: Cómo las Corporaciones Nos Venden Humo Futurista'
 translationKey: ecnocinicos-como-las-corporaciones-nos-venden-humo
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ## Ecnocinismo: La Instrumentalización de la Innovación para el Control Corporativo
 
 El ecnocinismo define la instrumentalización de la innovación tecnológica por parte de grandes corporaciones para la manipulación, el acaparamiento de poder y la elusión de responsabilidades, manifestándose en la ex...

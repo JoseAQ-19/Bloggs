@@ -15,7 +15,9 @@ title: 'Google Maps AI Hallucinations: Is That Road Even Real? 38.6% Chance It''
   Not'
 translationKey: ed207239-d32a-040b-6d80-2257e04d8936
 type: ia
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Google Maps AI Hallucinations: Is That Road Even Real? 38.6% Chance It's Not](/images/google-maps-ai-overhaul-hallucinations-en.jpg)
 
 AI-driven maps may be leading us down dead ends more often than we think....

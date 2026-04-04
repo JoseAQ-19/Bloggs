@@ -6,7 +6,7 @@ categories:
 date: 2026-03-05 07:18:09
 description: ¿Europa desafía pronósticos? Acciones suben un 2% pese al desplome asiático.
   Analizamos las claves de esta sorprendente resiliencia y oportunidades de.
-draft: false
+draft: true
 featured_image: /images/europa-resiste-subida-del-2-en-acciones-pese-a-caida-del-5-asiatica.jpg
 language: es
 tags:
@@ -14,7 +14,9 @@ tags:
 title: 'Europa Resiste: Subida del 2% en Acciones Pese a Caída del 5% Asiática.'
 translationKey: df132072-e26a-e5c3-b48f-963d5ae6ded5
 type: funds
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 La dislocación de los mercados globales se ha manifestado en una paradoja regional: mientras los índices bursátiles asiáticos experimentaron una contracción del 5% en una sesión, Europa logró un repunte del 2%. Esta divergencia subraya la desconexión entre ciertos eventos geopolíticos y la valoración de activos en regiones específicas.
 
 *   **Contraste Regional:** Caída del 5% en mercados asiáticos (impulsada por tensiones geopolíticas en Oriente Medio) versus un ascenso del 2% en acciones europeas.

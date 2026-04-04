@@ -6,7 +6,7 @@ date: 2026-04-01 19:37:09
 description: Descubre cómo los falsos gurús de YouTube engañan a marcas y consumidores.
   Aprende a identificar sus estrategias y proteger tu negocio.
 draft: false
-featured_image: /images/como-desbloquear-el-verdadero-potencial-de-tu-marca-en-youtube.jpg
+featured_image: /images/defaults/default-viral.jpg
 language: es
 slug: como-desbloquear-el-verdadero-potencial-de-tu-marca-en-youtube
 tags:

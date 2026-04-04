@@ -14,7 +14,9 @@ tags:
 title: '73% Quit: The Dark Side Of YouTube''s Creator Burnout Crisis Exposed.'
 translationKey: a47e4f49-171a-2741-f99f-59e0467a855c
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![73% Quit: The Dark Side Of YouTube's Creator Burnout Crisis Exposed.](/images/youtube-media-giant-en.jpg)
 
 73% of YouTube creators abandon their channels within the first year, fueled by algorithmic roulette, evaporating ad revenue, and unsustainable content demands masked by MrBeast's $700M annua...

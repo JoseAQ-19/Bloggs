@@ -14,7 +14,9 @@ tags:
 title: 'Crimson Desert: El Batacazo Del 30% Que Pearl Abyss No Quería Que Supieras'
 translationKey: 690b2ab5-c1e0-c465-6749-cdae51612cd6
 type: tools
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Crimson Desert: El Batacazo Del 30% Que Pearl Abyss No Quería Que Supieras](/images/analisis-tecnico-crimson-desert-ia-etica.jpg)
 
 Las promesas de mundos virtuales inmersivos a menudo chocan con la dura realidad del mercado: las acciones de Pearl Abyss cayeron casi un 30% tras la publicación de la...

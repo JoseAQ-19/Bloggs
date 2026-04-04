@@ -14,7 +14,9 @@ tags:
 title: 'Amazon Destruirá 160.000 Empleos: El Apocalipsis Laboral Se Acerca a España'
 translationKey: 77d6ff57-eeb7-0174-62ed-91c01b6b7165
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 - **Impacto Laboral**: Amazon planea automatizar el 75% de sus operaciones para 2030, lo que podría resultar en la eliminación de 160,000 empleos en España.
 - **Percepción Pública**: Un informe de Gi Group Holding revela que el 39% de los españoles considera la automatización como el mayor cambio laboral en los próximos tres años.
 - **Desafíos Socioeconómicos**: La automatización puede aumentar la desigualdad y crear despidos masivos, obligando a los trabajadores a adaptarse a nuevas roles y competencias.

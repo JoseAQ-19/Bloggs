@@ -14,7 +14,9 @@ tags:
 title: 'Cruise Balcony Deaths: The Terrifying 40% That Cruise Lines Won''t Tell You'
 translationKey: 1dac75ed-efa9-0567-e4e6-05a717c3ae45
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Cruise Balcony Deaths: The Terrifying 40% That Cruise Lines Won't Tell You](/images/cruise-line-balcony-nightmare-en.jpg)
 
 Balcony falls account for 40% of all passenger overboard incidents on cruise ships, yet many lines downplay this risk. Your romantic sea-view vacation might be statistically m...

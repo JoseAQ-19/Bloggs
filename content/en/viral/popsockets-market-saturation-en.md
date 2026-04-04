@@ -14,7 +14,9 @@ tags:
 title: 'PopSockets'' $315 Million Mirage: Are Sales Figures Hiding A Sticky Situation?'
 translationKey: 70d87fb2-82f1-8587-9ef9-4ff74fdf4081
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![PopSockets' $315 Million Mirage: Are Sales Figures Hiding A Sticky Situation?](/images/popsockets-market-saturation-en.jpg)
 
 PopSockets' $315 Million Mirage: Are Sales Figures Hiding A Sticky Situation?...

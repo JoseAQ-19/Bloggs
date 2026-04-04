@@ -15,7 +15,9 @@ title: 'Acciona el Pánico: La IA Amenaza 300 Millones de Euros Invertidos en St
   Españolas'
 translationKey: af254ad2-b969-b27c-6fe3-c1cea76dfce9
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Acciona el Pánico: La IA Amenaza 300 Millones de Euros Invertidos en Startups Españolas](/images/saas-apocalipsis-2026-crisis-vc.jpg)
 
 El mito de que la IA es la panacea para las startups SaaS se desmorona a la misma velocidad que la capitalización bursátil de las tecnológicas en 2026....

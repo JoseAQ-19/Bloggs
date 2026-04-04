@@ -14,7 +14,9 @@ tags:
 title: '56% Spike: Texas Maternal Deaths Explode Post-Roe; Tech Execs Silent'
 translationKey: e811fee1-4d48-1b05-bbdf-31f628c4ddd4
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![56% Spike: Texas Maternal Deaths Explode Post-Roe; Tech Execs Silent](/images/bonnie-blue-social-media-consequences-en.jpg)
 
 Texas's maternal mortality rate surged by 56% after the state enacted its abortion ban, signaling a healthcare crisis. The tech sector's silence on this critical issue is no...

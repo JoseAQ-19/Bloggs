@@ -15,7 +15,9 @@ title: 'Avid Arrasa en los Oscars 2026: 5 Razones Por Las Que ''Una Batalla Tras
   Es Un Fenómeno'
 translationKey: 01e1afad-26db-fede-98e5-b5c26e3af491
 type: tools
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Avid Arrasa en los Oscars 2026: 5 Razones Por Las Que 'Una Batalla Tras Otra' Es Un Fenómeno](/images/avid-arrasa-en-los-oscars-2026-el-fenomeno-de-una-batalla-tras-otra-y-su-conexion-con-f1.jpg)
 
 Avid Technology acaba de cerrar 2026 con el 78% de las películas nominadas a los Oscar editadas con M...
@@ -25,7 +27,7 @@ Avid Technology acaba de cerrar 2026 con el 78% de las películas nominadas a lo
 * La inversión media en formación para Avid Media Composer supera los 500 euros anuales por editor, incluyendo cursos y actualizaciones obligatorias. 
 * Los estudios de posproducción que integran metadatos de F1 en flujos de Avid redujeron sus tiempos de montaje en un 40%, según datos de la industria. 
 
-### TL;DR BULLETS 
+### Puntos Clave
 * Avid Media Composer se consolidó como la herramienta de edición en 34 películas nominadas a los Oscar 2026, manteniendo su dominio en la industria a pesar de la competencia de DaVinci Resolve. 
 * DaVinci Resolve, con una licencia de por vida de 295 euros, atrajo a freelancers y pequeños estudios por su suite integral de posproducción, pero su curva de aprendizaje sigue siendo un obstáculo para muchos editores. 
 * La integración de metadatos en Avid, como los de la F1, redujo los tiempos de producción en un 40% en proyectos de gran escala, según datos de estudios de posproducción. 

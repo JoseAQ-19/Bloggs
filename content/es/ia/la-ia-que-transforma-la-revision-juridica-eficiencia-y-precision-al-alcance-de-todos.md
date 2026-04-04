@@ -17,7 +17,9 @@ title: '93% de Consultas Laborales Resueltas por IA: ¿El Futuro de la Justicia 
   Riesgo?'
 translationKey: bb9c517b-061a-9629-be8a-cffd335fcfd3
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![93% de Consultas Laborales Resueltas por IA: ¿El Futuro de la Justicia en Riesgo?](/images/la-ia-que-transforma-la-revision-juridica-eficiencia-y-precision-al-alcance-de-todos.jpg)
 
 El 93% de las consultas laborales resueltas por inteligencia artificial no es una hazaña de eficiencia, es un desast...

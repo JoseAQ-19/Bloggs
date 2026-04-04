@@ -14,7 +14,9 @@ tags:
 title: 'Andrew Tate''s TikTok Army: How They Manipulated the Algorithm (And Got Rich).'
 translationKey: 33507ae7-c7d1-1374-8c58-816694b31bed
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Andrew Tate's TikTok Army: How They Manipulated the Algorithm (And Got Rich).](/images/anna-paul-tate-tiktok-scandal-en.jpg)
 
 Andrew Tate's TikTok army turned misogyny into a viral marketing scheme. The platforms amplifying these voices risk more than just reputational damage....

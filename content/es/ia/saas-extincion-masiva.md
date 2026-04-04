@@ -14,7 +14,9 @@ tags:
 title: ¡ALERTA! NTT DATA Revela La Amenaza Silenciosa Que Extinguirá Tu SaaS
 translationKey: 4520f887-ce4c-71f6-74aa-7c5c894f465c
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![¡ALERTA! NTT DATA Revela La Amenaza Silenciosa Que Extinguirá Tu SaaS](/images/saas-extincion-masiva.jpg)
 
 La obsolescencia programada ya no es un secreto a voces, ahora también afecta al software....

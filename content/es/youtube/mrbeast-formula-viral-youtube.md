@@ -14,7 +14,9 @@ tags:
 title: ¿Comida Rápida? La Crítica DEVASTADORA Al Estilo MrBeast Que Sacude YouTube.
 translationKey: 989461f7-ffbe-3a5d-76e1-0be3bf9c2c7e
 type: youtube
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![¿Comida Rápida? La Crítica DEVASTADORA Al Estilo MrBeast Que Sacude YouTube.](/images/mrbeast-formula-viral-youtube.jpg)
 
 El éxito viral en YouTube se ha convertido en una carrera armamentista donde la creatividad original a menudo es la primera víctima. ¿Es la fórmula MrBeast un camino seguro al ...

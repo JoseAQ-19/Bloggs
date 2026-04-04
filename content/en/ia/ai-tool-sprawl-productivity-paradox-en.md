@@ -14,7 +14,9 @@ tags:
 title: '70% Of AI Projects Fail: Is Silicon Valley''s AI Obsession A Colossal Waste?'
 translationKey: 1aa8d880-76cf-df13-c493-087a88b70589
 type: ia
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![70% Of AI Projects Fail: Is Silicon Valley's AI Obsession A Colossal Waste?](/images/ai-tool-sprawl-productivity-paradox-en.jpg)
 
 Silicon Valley's AI gold rush is facing a reckoning, with many projects failing to deliver on their promises. A significant portion of AI projects are not generating th...

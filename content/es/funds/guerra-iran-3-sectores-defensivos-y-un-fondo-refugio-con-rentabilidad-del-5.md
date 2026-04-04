@@ -15,7 +15,9 @@ title: 'Guerra Irán: 3 sectores defensivos y un fondo refugio con rentabilidad 
   5%.'
 translationKey: e649a1e5-31ed-75b4-7a4c-83995ce85636
 type: funds
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Guerra Irán: 3 sectores defensivos y un fondo refugio con rentabilidad del 5%.](/images/guerra-iran-3-sectores-defensivos-y-un-fondo-refugio-con-rentabilidad-del-5.jpg)
 
 Los mercados globales han reaccionado con extremo nerviosismo ante la escalada de tensiones entre Irán e Israel, con el petróleo...

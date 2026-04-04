@@ -14,7 +14,9 @@ tags:
 title: 'YouTube TV’s Subscriber Tsunami: Is This The End Of Traditional Cable?'
 translationKey: cb290a6b-64e7-f6a9-e7c0-da73c68eb07e
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![YouTube TV’s Subscriber Tsunami: Is This The End Of Traditional Cable?](/images/youtube-tv-dish-sling-streaming-wars-en.jpg)
 
 YouTube TV's subscriber tsunami threatens to wash away traditional cable's last beachfront properties. * YouTube TV is projected to reach 10.4 million subscribers by 2027, ...

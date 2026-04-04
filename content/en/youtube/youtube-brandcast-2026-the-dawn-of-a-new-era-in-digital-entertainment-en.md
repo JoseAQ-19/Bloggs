@@ -6,7 +6,7 @@ date: 2026-04-01 20:40:45
 description: Discover how YouTube's Brandcast 2026 is reshaping digital media with
   200 billion daily views and the transformative impact of AI-generated content.
 draft: false
-featured_image: /images/youtube-brandcast-2026-the-dawn-of-a-new-era-in-digital-entertainment-en.jpg
+featured_image: /images/defaults/default-viral.jpg
 language: en
 slug: youtube-brandcast-2026-the-dawn-of-a-new-era-in-digital-entertainment-en
 tags:

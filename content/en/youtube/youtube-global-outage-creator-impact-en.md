@@ -14,7 +14,9 @@ tags:
 title: 'YouTube CRASHES: Sundar Pichai Hid This $60 Billion Secret'
 translationKey: 2f888878-646b-d79a-e1c3-1b1ff5d1293a
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![YouTube CRASHES: Sundar Pichai Hid This $60 Billion Secret](/images/youtube-global-outage-creator-impact-en.jpg)
 
 YouTube crashes expose a dangerous myth in tech: reliability is optional until it isn't. Alphabet CEO Sundar Pichai hid a $60 billion vulnerability when he announced YouTube's 2025 rev...

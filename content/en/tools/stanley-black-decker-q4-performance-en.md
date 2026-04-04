@@ -14,7 +14,9 @@ tags:
 title: 'Stanley Black & Decker Slashes 50,000 SKUs: Desperate Times?'
 translationKey: 8686e5e4-f4e4-17a7-020c-158fdcc45d3e
 type: tools
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Stanley Black & Decker Slashes 50,000 SKUs: Desperate Times?](/images/stanley-black-decker-q4-performance-en.jpg)
 
 Stanley Black & Decker’s stock is not reflecting the economic uncertainty hanging over the tool industry....

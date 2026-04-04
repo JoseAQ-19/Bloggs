@@ -14,7 +14,9 @@ tags:
 title: 'YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos'
 translationKey: 6b0dfa8b-e44c-e21b-215a-e0c6f6539ee6
 type: youtube
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/images/youtube-destrona-disney-rey-medios-digital.jpg)
 
 El imperio de la televisión tradicional infantil se desmorona, arrastrado por la omnipresencia de YouTube en los hogares españoles. Un 64% de los niños de entre 2 y 5...

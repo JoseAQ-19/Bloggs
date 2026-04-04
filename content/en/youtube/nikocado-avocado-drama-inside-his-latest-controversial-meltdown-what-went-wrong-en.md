@@ -6,7 +6,7 @@ categories:
 date: 2026-02-25 14:29:04
 description: Nikocado Avocado's YouTube empire crumbles amid controversy! Explore
   Stephanie Soo's impact and the mukbang star's downfall. Is this the end of an era?.
-draft: false
+draft: true
 featured_image: /images/nikocado-avocado-drama-inside-his-latest-controversial-meltdown-what-went-wrong-en.jpg
 language: en
 tags:
@@ -15,7 +15,9 @@ title: 'Nikocado Avocado''s $100K/Month YouTube Empire Is Collapsing: The Stepha
   Soo Effect'
 translationKey: 476eadec-9a61-3b28-124f-c5cfab2158c8
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 *   **Financial Erosion:** Nikocado Avocado's estimated YouTube income, previously reported as high as $133,700 per month, is experiencing significant decline due to diminished viewership, advertiser hesitancy, and sustained reputational damage.
 *   **Reputational Damage Persistence:** Accusations of manipulative and abusive behavior by fellow YouTuber Stephanie Soo in 2019 continue to negatively impact Nikocado Avocado's public image and brand viability, demonstrating the long-term consequences of online controversies.
 *   **Ethical Content Scrutiny:** The normalization of extreme eating habits through mukbang content raises significant ethical concerns regarding public health, particularly among impressionable audiences. This places increasing pressure on platforms like YouTube to re-evaluate content monetization and policy enforcement.

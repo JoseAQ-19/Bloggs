@@ -15,7 +15,9 @@ title: 78-Year-Old DoorDash Driver's Heartwarming Moment Sparks $1 Million in Ti
   from Strangers
 translationKey: 1570152c-09bc-47fe-9015-f9083bc14150
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![78-Year-Old DoorDash Driver's Heartwarming Moment Sparks $1 Million in Tips from Strangers](/images/78-year-old-doordash-drivers-heartwarming-doorbell-moment-sparks-massive-tips-from-strangers-en.jpg)
 
 A 78-year-old DoorDash driver recently became the unlikely beneficiary of nearly $1 million in t...

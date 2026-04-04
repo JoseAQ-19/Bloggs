@@ -6,7 +6,7 @@ date: 2026-04-02 16:38:36
 description: Discover why 35% of Gen Z millionaires invest half their portfolios in
   crypto. Explore the risks and rewards driving this bold financial trend.
 draft: false
-featured_image: /images/gen-z-millionaires-dive-into-crypto-is-fomo-driving-their-risky-bets-en.jpg
+featured_image: /images/defaults/default-crypto.jpg
 language: en
 slug: gen-z-millionaires-dive-into-crypto-is-fomo-driving-their-risky-bets-en
 tags:
@@ -128,3 +128,5 @@ This analysis relies on data aggregated from the World Economic Forum's 2024 Glo
   }
 }
 </script>
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

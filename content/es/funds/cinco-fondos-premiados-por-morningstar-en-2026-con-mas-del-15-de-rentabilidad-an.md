@@ -15,7 +15,9 @@ title: Cinco fondos premiados por Morningstar en 2026 con más del 15% de rentab
   anual
 translationKey: a90ce5ad-7690-20b7-ff7a-09d50512468a
 type: funds
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Cinco fondos premiados por Morningstar en 2026 con más del 15% de rentabilidad anual](/images/cinco-fondos-premiados-por-morningstar-en-2026-con-mas-del-15-de-rentabilidad-an.jpg)
 
 En 2026, existen cinco fondos de inversión destacados que han logrado rentabilidades anuales superiores al 15%, lo qu...

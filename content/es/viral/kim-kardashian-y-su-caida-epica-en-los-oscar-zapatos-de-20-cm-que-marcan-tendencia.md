@@ -15,7 +15,9 @@ title: 'Kim Kardashian Y Su Caída Épica En Los Oscars: Los 20 Cm Que Pueden Ar
   Tu Salud'
 translationKey: 8d5eee41-cfd4-4950-461a-a00545198210
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Kim Kardashian Y Su Caída Épica En Los Oscars: Los 20 Cm Que Pueden Arruinar Tu Salud](/images/kim-kardashian-y-su-caida-epica-en-los-oscar-zapatos-de-20-cm-que-marcan-tendencia.jpg)
 
 En un mundo donde la estética a menudo se coloca por encima de la salud, la reciente caída de Kim Kardashian en lo...

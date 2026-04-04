@@ -17,7 +17,9 @@ tags:
 title: 'NOVUMWORLD: La burbuja de la élite que nadie quiere pinchar'
 translationKey: b962a6b3-fcd9-9847-7cca-8bc55ff595cc
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 NOVUMWORLD representa un mundo digital paralelo que promueve la exclusión y la desigualdad social, en lugar de la inclusión prometida. En este análisis, se examina cómo esta plataforma se inscribe dentro de un contexto de "tecnofeudalismo", donde las grandes corporaciones tecnológicas controlan la vida de los ciudadanos. A pesar de las intenciones de mitigar la fractura social, la realidad es que la brecha digital se agranda. Este artículo argumenta que la solución no radica en reformar el sistema actual, sino en desmantelarlo y construir uno que promueva la justicia y la equidad.
 
 ## La Farsa de la "Igualdad Digital"

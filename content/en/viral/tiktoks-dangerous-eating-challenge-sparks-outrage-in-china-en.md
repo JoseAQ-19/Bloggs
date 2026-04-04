@@ -17,7 +17,9 @@ title: TikTok's Fear Food Challenge Doubled Teen ER Visits for Eating Disorders 
   2020
 translationKey: e81da8d8-9476-82d4-caca-782f4be67161
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![TikTok's Fear Food Challenge Doubled Teen ER Visits for Eating Disorders Since 2020](/images/tiktoks-dangerous-eating-challenge-sparks-outrage-in-china-en.jpg)
 
 The quiet collapse of teenage body image is being engineered by TikTok's algorithm. ER visits for eating disorders among teenage girls do...

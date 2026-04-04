@@ -15,7 +15,9 @@ tags:
 title: 'Bitcoin''s $55K Cliff: Peter Brandt Gives It 25% Chance of DOOM'
 translationKey: 31f908cb-95e5-451c-9d6d-e77ae8cc0a5f
 type: crypto
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Bitcoin's $55K Cliff: Peter Brandt Gives It 25% Chance of DOOM](/images/bitcoin-55k-support-onchain-analysis-en.jpg)
 
 Bitcoin's price trajectory is under intense scrutiny as market analysts offer conflicting predictions. Veteran trader Peter Brandt has assigned a 25% probability to a potential Bit...
@@ -91,3 +93,5 @@ Closely monitor the $65,636 support level, as a break below this point could tri
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

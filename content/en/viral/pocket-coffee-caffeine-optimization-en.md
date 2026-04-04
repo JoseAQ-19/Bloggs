@@ -14,7 +14,9 @@ tags:
 title: 'Pocket Coffee Exposed: Are You Trading Alertness For Long-Term Anxiety?'
 translationKey: 075d5d4f-8dd7-a74b-4e06-85b555725ecf
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Pocket Coffee Exposed: Are You Trading Alertness For Long-Term Anxiety?](/images/defaults/default-viral.jpg)
 
 Pocket Coffee offers a fleeting surge of energy, but it also casts a long shadow of potential anxiety and dependency. The daily grind for alertness might be grinding away at your long-term...

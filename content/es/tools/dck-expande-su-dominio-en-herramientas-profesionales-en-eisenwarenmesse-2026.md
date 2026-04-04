@@ -15,7 +15,9 @@ title: DCK Desafía la Obsolescencia Programada en EISENWARENMESSE 2026 y Revolu
   el Mercado de Herramientas
 translationKey: f2976b83-f00f-225b-2f4a-f2070e8e130a
 type: tools
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![DCK Desafía la Obsolescencia Programada en EISENWARENMESSE 2026 y Revoluciona el Mercado de Herramientas](/images/dck-expande-su-dominio-en-herramientas-profesionales-en-eisenwarenmesse-2026.jpg)
 
 **BLUF** DCK presenta en EISENWARENMESSE 2026 una arquitectura modular de herramientas profesionales ...

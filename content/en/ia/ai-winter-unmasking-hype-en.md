@@ -14,7 +14,9 @@ tags:
 title: AI Utopia? 6% Of Companies Actually Use AI, Experts Predict Imminent Crash
 translationKey: 98986a34-79a6-eae5-2235-17169ca260d8
 type: ia
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![AI Utopia? 6% Of Companies Actually Use AI, Experts Predict Imminent Crash](/images/ai-winter-unmasking-hype-en.jpg)
 
 Only 6% of large companies globally have actually deployed enterprise AI tools, suggesting the AI revolution may be more mirage than reality....

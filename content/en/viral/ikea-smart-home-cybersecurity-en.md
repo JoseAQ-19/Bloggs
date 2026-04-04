@@ -14,7 +14,9 @@ tags:
 title: 'IKEA''s Smart Nightmare: Your $25 Lamp Is Under Attack 30 Times Daily'
 translationKey: 2c7c6544-9e9a-bba1-7eca-a46628798db3
 type: viral
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![IKEA's Smart Nightmare: Your $25 Lamp Is Under Attack 30 Times Daily](/images/ikea-smart-home-cybersecurity-en.jpg)
 
 The promise of a frictionless, automated future is a lie sold by Swedish flat-pack furniture and subsidized by your privacy. Your $25 smart lamp isn't just illuminating your living ...

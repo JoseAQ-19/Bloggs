@@ -17,7 +17,9 @@ tags:
 title: 'La IA te saluda, pero no te salvará: Por qué la cortesía...'
 translationKey: 52599ac3-39b4-d09c-5322-d7dcd83ac3c4
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 La creciente obsesión por la cortesía hacia la inteligencia artificial (IA) refleja una decadencia intelectual alarmante. Este fenómeno no solo distrae de cuestiones más relevantes sobre el uso y la ética de la IA, sino que también presenta serias implicaciones ambientales y sociales. La cortesía hacia las máquinas puede conducir a una manipulación emocional que beneficia a corporaciones y crea expectativas irreales sobre la tecnología. Es fundamental adoptar un enfoque crítico y racional hacia la IA, reconociendo su naturaleza como herramienta y evitando la antropomorfización que distorsiona nuestra percepción de la realidad.
 
 ## El Delirio de la Amabilidad Digital: Un Despilfarro Energético y Cognitivo

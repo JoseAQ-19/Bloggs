@@ -14,7 +14,9 @@ tags:
 title: $5 Million a Year, But At What Cost? Family Vlogging's Dark Secret
 translationKey: 8cac1169-573b-fd2e-6736-a3a559dc4ec4
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![$5 Million a Year, But At What Cost? Family Vlogging's Dark Secret](/images/family-travel-youtube-burnout-en.jpg)
 
 * Family vlogging channels earning over $5 million annually are exposing children to significant psychological harm, with experts identifying depression and identity crisis as common ...

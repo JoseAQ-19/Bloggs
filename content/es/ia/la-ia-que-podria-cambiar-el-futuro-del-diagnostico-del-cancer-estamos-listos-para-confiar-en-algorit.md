@@ -6,7 +6,7 @@ date: 2026-04-02 10:04:34
 description: Descubre cómo una innovadora IA logra predecir respuestas a la inmunoterapia
   con un 91.66% de precisión. Una revolución en el tratamiento del cáncer.
 draft: false
-featured_image: /images/la-ia-que-podria-cambiar-el-futuro-del-diagnostico-del-cancer-estamos-listos-para-confiar-en-algorit.jpg
+featured_image: /images/defaults/default-ia.jpg
 language: es
 slug: la-ia-que-podria-cambiar-el-futuro-del-diagnostico-del-cancer-estamos-listos-para-confiar-en-algorit
 tags:
@@ -24,7 +24,7 @@ type: ia
 
 La inteligencia artificial está en el centro de un debate acalorado en el ámbito de la salud, especialmente en el tratamiento del cáncer. La reciente presentación del modelo SCORPIO, que predice la respuesta a la inmunoterapia con una precisión del 91.66%, es un ejemplo de la promesa y los peligros que conlleva el uso de la IA en medicina. Sin embargo, la realidad es más compleja y está llena de matices que exigen un análisis profundo.
 
-### TL;DR BULLETS:
+### Key Points
 * La IA puede predecir con un 91.66% de precisión la respuesta a la inmunoterapia en pacientes con cáncer, según el modelo SCORPIO.
  
 * Dr. Javier de Castro destaca que la IA es clave para interpretar datos masivos y mejorar diagnósticos en oncología.

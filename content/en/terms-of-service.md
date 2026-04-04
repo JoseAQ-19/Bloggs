@@ -13,7 +13,7 @@ translationKey: terms-of-service
 weight: 90
 ---
 
-## Executive Summary (TL;DR)
+## Executive Summary
 - Digital terms of service have shifted from mere legal text to technical specifications for data sovereignty and compute allocation.
 - NovumWorld's governance framework accounts for the high costs of inference, where H100 and B200 clusters dictate the economics of information delivery.
 - The distinction between 'Open Weights' and 'Open Source' remains critical as proprietary data becomes the primary moat against synthetic model collapse.

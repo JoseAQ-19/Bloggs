@@ -14,7 +14,9 @@ tags:
 title: 'Jeopardy!''s YouTube Gamble: Why Engagement Plunged 37% Despite View Surge'
 translationKey: 17a21607-56aa-6fb5-113f-c5d922eca5f7
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 - *Jeopardy!* experienced a 76% increase in YouTube views from 2024 to 2025 but saw a 37% decline in engagement rates.
 - The average views per video rose from 389.90 to 687.21 while engagement dropped from 3.73% to 2.34%.
 - YouTube Shorts RPM is often below $1 per 1,000 views, creating financial challenges for creators focused on ad revenue.

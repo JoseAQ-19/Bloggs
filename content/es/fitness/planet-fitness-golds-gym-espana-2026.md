@@ -16,7 +16,7 @@ translationKey: 860712cf-9ee7-1deb-c031-f4eb2812f780
 type: fitness
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Resumen Ejecutivo
 
 * ![Planet Fitness Declara la Guerra: 15 Gimnasios Asaltarán España en 2026](/images/planet-fitness-golds-gym-espana-2026.jpg)
 
@@ -66,8 +66,9 @@ Además, es fundamental que los gimnasios cumplan con las normativas de protecci
 
 Sudor dulce, victoria amarga.
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento financiero, legal, médico ni profesional. Consulte siempre con un especialista certificado antes de tomar decisiones.*
 
 ## Metodología y Fuentes
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
+
+*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*

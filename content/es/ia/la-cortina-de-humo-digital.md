@@ -16,7 +16,9 @@ remastered: true
 title: ': La Cortina de Humo Digital'
 translationKey: geopolitica-2026-el-ano-que-dejamos-de-fingir
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 La narrativa de la transformación digital en México, presentada como un avance hacia la conectividad y la democratización, oculta una realidad preocupante: un control creciente sobre la población y una manipulación sistemática a través de las plataformas digitales. Aunque las cifras de conectividad y usuarios de redes sociales parecen optimistas, en la práctica, reflejan una profunda desigualdad y un acceso limitado para sectores vulnerables. Este artículo desmantela la imagen de un "México conectado" y revela cómo la tecnología se utiliza como herramienta de control en lugar de empoderamiento. A lo largo del texto, se argumenta que la verdadera transformación digital debe enfocarse en la inclusión, la alfabetización mediática y la resistencia a la vigilancia estatal.
 
 ## Cuerpo

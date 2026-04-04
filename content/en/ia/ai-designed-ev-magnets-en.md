@@ -14,7 +14,9 @@ tags:
 title: 'Forget Rare Earths: AI Could Conquer $11.3 Billion EV Magnet Market'
 translationKey: 613f4846-dffb-4679-cab0-3efe259601f1
 type: ia
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Forget Rare Earths: AI Could Conquer $11.3 Billion EV Magnet Market](/images/ai-designed-ev-magnets-en.jpg)
 
 Electric vehicle manufacturers are in a bind: embrace a rare earth magnet market projected to explode to $11.3 billion by 2032, or gamble on AI-designed alternatives that might never delive...

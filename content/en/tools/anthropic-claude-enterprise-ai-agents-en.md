@@ -14,7 +14,9 @@ tags:
 title: 'Fortune 500 Alert: Your AI Agents Are Secretly Making Decisions NOW'
 translationKey: ac336aae-c000-6042-c84a-f9f0e7d84bb7
 type: tools
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Fortune 500 Alert: Your AI Agents Are Secretly Making Decisions NOW](/images/anthropic-claude-enterprise-ai-agents-en.jpg)
 
 Fortune 500 companies are sleepwalking into a security disaster as AI agents quietly infiltrate decision-making processes. The promise of streamlined efficiency masks a criti...

@@ -14,7 +14,9 @@ tags:
 title: 'Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard for Top Honors'
 translationKey: 37b63a4f-4676-3ef1-2ab6-7453c5569012
 type: funds
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard for Top Honors](/images/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-for-top-honors-en.jpg)
 
 **FPA is competing head-to-head with PIMCO and Vanguard for the prestigious Morningstar Awards for Investing Excellence 2026.**...
@@ -84,8 +86,6 @@ In this competitive landscape, we believe that FPA, PIMCO, and Vanguard will con
 
 ---
 
-️ **IMPORTANT DISCLAIMER:** This mutual fund article is for informational and educational purposes only. It does not constitute investment advice or financial recommendation. Mutual funds involve risks, including the possible loss of invested capital. Past performance is not indicative of future results. Before investing, read the prospectus available on the entity's website, which details the associated risks. Consult with an independent financial advisor.
----
 
 
 
@@ -96,3 +96,5 @@ In this competitive landscape, we believe that FPA, PIMCO, and Vanguard will con
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

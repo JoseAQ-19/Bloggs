@@ -14,7 +14,9 @@ tags:
 title: MrBeast's Empire Crumbles? Views Plunge 50% As Controversy Swirls
 translationKey: 9c1287e5-0c75-81c9-3c8e-974b7fa64fe2
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![MrBeast's Empire Crumbles? Views Plunge 50% As Controversy Swirls](/images/mrbeast-controversy-business-impact-en.jpg)
 
 MrBeast's seemingly unstoppable reign as YouTube's golden child may be showing cracks, evidenced by a dramatic plunge in viewership and a barrage of ethical questions....

@@ -15,7 +15,9 @@ title: 'Silver Fitness: El Ayuntamiento Promueve Actividades que Reducen Caídas
   un 23%'
 translationKey: 3cfb1bf5-f359-4209-4a65-9edb6002d7d7
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Silver Fitness: El Ayuntamiento Promueve Actividades que Reducen Caídas en un 23%](/images/silver-fitness-el-guateque-del-ayuntamiento-y-el-gimnasio-wup-para-mayores-de-60-anos.jpg)
 
 **Las personas mayores que practican fuerza específica reducen sus caídas en un 23% — el dato que rompe el mito de ...

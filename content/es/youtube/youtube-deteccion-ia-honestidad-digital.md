@@ -14,7 +14,9 @@ tags:
 title: 'YouTube Te Espía: ¿Preparado Para Confesar Si Tu Video Lo Creó Una IA?'
 translationKey: 3a955580-f931-45f1-f268-a96eb0dec920
 type: youtube
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![YouTube Te Espía: ¿Preparado Para Confesar Si Tu Video Lo Creó Una IA?](/images/youtube-deteccion-ia-honestidad-digital.jpg)
 
 YouTube ha activado el protocolo de máxima alerta: ahora exige a creadores como Ibai Llanos o ElRubius que confiesen si han usado IA, bajo amenaza de eliminar sus ingresos....

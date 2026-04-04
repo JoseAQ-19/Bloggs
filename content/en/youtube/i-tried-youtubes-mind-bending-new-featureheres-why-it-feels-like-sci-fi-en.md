@@ -17,7 +17,9 @@ title: 'YouTube’s New AI Feature Feeds Your Worst Biases: The Shocking Truth B
   Its Algorithm'
 translationKey: cd68efd2-28f2-3f13-f4b7-937f01753674
 type: youtube
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![YouTube’s New AI Feature Feeds Your Worst Biases: The Shocking Truth Behind Its Algorithm](/images/i-tried-youtubes-mind-bending-new-featureheres-why-it-feels-like-sci-fi-en.jpg)
 
 **YouTube’s New AI Feature Feeds Your Worst Biases: The Shocking Truth Behind Its Algorithm**...

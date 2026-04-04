@@ -14,7 +14,9 @@ tags:
 title: 'China''s $49.2 Billion Secret: How Second-Hand Chips Bypass US Sanctions'
 translationKey: 07aaa7cb-dfde-f273-5613-2148598d19a4
 type: tools
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![China's $49.2 Billion Secret: How Second-Hand Chips Bypass US Sanctions](/images/china-chip-tool-gambit-en.jpg)
 
 China's semiconductor imports surged to $49.2 billion in 2024, up 17% year-over-year, despite US sanctions targeting advanced chip manufacturing capabilities....

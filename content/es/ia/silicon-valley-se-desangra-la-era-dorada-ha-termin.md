@@ -18,7 +18,7 @@ translationKey: fb00fcca-670d-9c54-e8fe-c63c7090fb04
 type: ia
 ---
 
-## Resumen Ejecutivo (TL;DR)
+## Resumen Ejecutivo
 - **Crisis en Silicon Valley**: El ecosistema de innovación se enfrenta a una recalibración, con la inversión en IA inflando cifras pero debilitando startups.
 - **Concentración de Capital**: El 58% de la inversión de VC está destinado a IA, dejando a muchas startups en fases tempranas sin financiamiento.
 - **Riesgos de la IA Generativa**: Limitaciones operativas y valoraciones exageradas ponen en duda la viabilidad de la IA generativa como motor de crecimiento.

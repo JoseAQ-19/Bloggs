@@ -14,7 +14,9 @@ tags:
 title: 'SaaSpocalypse Ahora: Sólo Un 20% Usan Ia, Y Tú Quemas Millones Inútilmente'
 translationKey: 84900c54-d5cc-7b4d-fc65-6d0daca22285
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![SaaSpocalypse Ahora: Sólo Un 20% Usan Ia, Y Tú Quemas Millones Inútilmente](/images/saaspocalypse-inversores-ia-ganadores.jpg)
 
 La fiebre de la IA en España se parece cada vez más a una burbuja inmobiliaria esperando el estallido. Las empresas están quemando capital en iniciativas sin una estrateg...

@@ -16,7 +16,9 @@ tags:
 title: Ex-Blackstone Team's $25M Bid Could Disrupt $3.2 Trillion Private Credit Market
 translationKey: 8fc8f8f8-1bd9-9201-3f84-0b928749377f
 type: crypto
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![Ex-Blackstone Team's $25M Bid Could Disrupt $3.2 Trillion Private Credit Market](/images/blockchain-private-credit-revolution-en.jpg)
 
 Global liquidity is tightening as the Federal Reserve signals a prolonged higher-for-longer rate environment, yet a group of ex-Blackstone executives is betting $2...
@@ -173,3 +175,5 @@ The bid from the ex-Blackstone team represents a pivotal moment for the private 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

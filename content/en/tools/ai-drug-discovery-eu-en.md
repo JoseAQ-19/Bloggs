@@ -14,7 +14,9 @@ tags:
 title: AI Is The significant shift Europe Needs To Combat 30% Drug Development Failures
 translationKey: 1cfd4a65-cb16-7e59-c6ff-f15b07dc3b3b
 type: tools
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![AI Is The significant shift Europe Needs To Combat 30% Drug Development Failures](/images/ai-drug-discovery-eu-en.jpg)
 
 * AI has the potential to significantly reduce the 30% drug development failure rate, as noted by FDA's Deputy Director Jin Liu.

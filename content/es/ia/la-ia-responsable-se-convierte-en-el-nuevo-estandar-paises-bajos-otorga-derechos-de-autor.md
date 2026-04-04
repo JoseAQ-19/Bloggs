@@ -16,7 +16,9 @@ tags:
 title: 'Países Bajos Marca Un Hito: La IA Responsable Ahora Tiene Derechos de Autor'
 translationKey: 704cf5e9-ed3a-8e99-8975-65d856362fa8
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Países Bajos Marca Un Hito: La IA Responsable Ahora Tiene Derechos de Autor](/images/la-ia-responsable-se-convierte-en-el-nuevo-estandar-paises-bajos-otorga-derechos-de-autor.jpg)
 
 ---...

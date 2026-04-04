@@ -17,7 +17,9 @@ tags:
 title: 'Deuda Global 2026: El Subprime que Nadie Vio Venir'
 translationKey: 681df165-aa40-9221-260b-6b0906227d1c
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 A medida que nos acercamos al año 2026, el mundo se enfrenta a un escenario económico crítico caracterizado por una deuda global insostenible de 33 billones de dólares en deuda pública que debe ser refinanciada. Este problema no es simplemente una recesión potencial, sino una crisis inevitable que se ha gestado a través de políticas fiscales irresponsables y un aumento descontrolado de la "banca en la sombra". Las inversiones masivas en inteligencia artificial, alimentadas por esta misma deuda, están creando una burbuja económica que podría estallar en cualquier momento. Las consecuencias ya son palpables: el desempleo aumenta, la clase media se erosionada y las desigualdades se profundizan. La crisis de 2026 no es un accidente, sino la culminación de años de decisiones erróneas y políticas fallidas.
 
 ## La Deuda: El Veneno Silencioso

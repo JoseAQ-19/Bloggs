@@ -18,7 +18,9 @@ tags:
 title: Celular Te Espía. Y le Pagas por Ello
 translationKey: 80e80ed5-21b8-6156-2721-64315f372806
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ¿Por qué te persigue ese anuncio de zapatillas deportivas tras una charla casual con un amigo? No es magia, es una violación descarada de tu privacidad, perpetrada por la omnipresente maquinaria de espionaje llamada "tu teléfono". No solo pagas por este dispositivo carísimo y su conexión constante, ...
 
 ¿Por qué te persigue ese anuncio de zapatillas deportivas tras una charla casual con un amigo? No es magia, es una violación descarada de tu privacidad, perpetrada por la omnipresente maquinaria de espionaje llamada "tu teléfono". No solo pagas por este dispositivo carísimo y su conexión constante, sino que también financias activamente tu propia explotación. Prepárate para el capitalismo de vigilancia en su máxima expresión, donde eres el producto, no el cliente.

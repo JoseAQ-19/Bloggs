@@ -14,7 +14,9 @@ tags:
 title: '¿Baby Shark A Bolsa: ¿Pagarias 400 Millones Por Una Canción Infantil?'
 translationKey: 911b6ed1-faf7-3a96-e916-f5481f53e9d6
 type: youtube
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![¿Baby Shark A Bolsa: ¿Pagarias 400 Millones Por Una Canción Infantil?](/images/baby-shark-bolsa-valoracion-pinkfong.jpg)
 
 "Baby Shark Dance" puede ser el vídeo más visto en YouTube, pero ¿convierte eso a Pinkfong en una apuesta segura en el mercado de valores? La valoración de más de $400 millones...

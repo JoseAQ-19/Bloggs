@@ -14,7 +14,9 @@ tags:
 title: '$278 Billion Fitness Lie: How Injury Influencers Are Ripping You Off'
 translationKey: 2bb3862d-0754-085b-1910-9afc72c2c33c
 type: fitness
----## Executive Summary (TL;DR)
+---
+
+## Executive Summary
 * ![$278 Billion Fitness Lie: How Injury Influencers Are Ripping You Off](/images/fitness-fraud-influencer-injury-en.jpg)
 
 Without question, the fitness industry, slated to reach $278 billion by 2026, harbors injury influencers who prioritize profit over well-being through dubious tactics....
@@ -71,3 +73,5 @@ Abs may be bought, not earned.
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
+
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*

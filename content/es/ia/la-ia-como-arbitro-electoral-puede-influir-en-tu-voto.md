@@ -14,7 +14,9 @@ tags:
 title: 'La IA Manipula Votos: 70% de Españoles Temen la Desinformación Electoral'
 translationKey: 81387f7b-4221-991b-4a7d-d3d595838acb
 type: ia
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![La IA Manipula Votos: 70% de Españoles Temen la Desinformación Electoral](/images/la-ia-como-arbitro-electoral-puede-influir-en-tu-voto.jpg)
 
 La creciente sofisticación de los modelos generativos ha impulsado la circulación de deepfakes en un 550% entre 2019 y 2023, una estadística que no refleja ...

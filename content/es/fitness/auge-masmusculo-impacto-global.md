@@ -15,7 +15,9 @@ title: 'MasMusculo Revelado: ¿Por Qué Su Expansión Global Aterroriza A Las Ma
   Locales?'
 translationKey: 01ba5182-d215-a459-a070-68d869833929
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![MasMusculo Revelado: ¿Por Qué Su Expansión Global Aterroriza A Las Marcas Locales?](/images/auge-masmusculo-impacto-global.jpg)
 
 La expansión global de MasMusculo no es una historia de éxito, sino una amenaza para la supervivencia de las marcas locales....

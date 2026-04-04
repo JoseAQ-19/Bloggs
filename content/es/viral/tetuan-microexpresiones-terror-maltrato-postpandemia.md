@@ -14,7 +14,9 @@ tags:
 title: 'Microexpresiones Del Terror: Así Caza Tetuán a Agresores Antes Del Ataque.'
 translationKey: 06f65668-da07-9f16-a264-bd242d22891b
 type: viral
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![Microexpresiones Del Terror: Así Caza Tetuán a Agresores Antes Del Ataque.](/images/tetuan-microexpresiones-terror-maltrato-postpandemia.jpg)
 
 La idea de que podemos detectar agresores en Tetuán antes de que ataquen analizando sus microexpresiones faciales es tan seductora como improbable....

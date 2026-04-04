@@ -16,7 +16,9 @@ title: 'El Mito de la Meseta del VO2 Máx: Tu Límite Genético Podría Ser Solo
   Protocolo'
 translationKey: 88c9b06d-0f97-4592-bf2a-9a5f5ad8ebbb
 type: fitness
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ![El Mito de la Meseta del VO2 Máx: Tu Límite Genético Podría Ser Solo un Mal Protocolo](/images/mito-meseta-vo2-max-protocolo-fallido.jpg)
 
 Si crees que tu VO2 máx está escrito en piedra por tus genes, piénsalo de nuevo. Tu "límite genético" podría ser, simplemente, un protocolo de prueba pésimo....

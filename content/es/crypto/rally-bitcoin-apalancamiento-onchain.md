@@ -15,7 +15,9 @@ title: 'Bitcoin Al Desnudo: El Apalancamiento Es La Bomba De Tiempo Que Nadie Qu
   Ver'
 translationKey: 3028a5d0-ebfc-d976-3939-4849359f0051
 type: crypto
----## Resumen Ejecutivo (TL;DR)
+---
+
+## Resumen Ejecutivo
 * ## Bitcoin al desnudo: el apalancamiento es la bomba de tiempo que nadie quiere ver
 
 El apalancamiento en Bitcoin no es la llave maestra para la riqueza, sino una herramienta de alto riesgo que puede destrozar portafolios en cuestión de minutos....

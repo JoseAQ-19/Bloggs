@@ -6,7 +6,7 @@ date: 2026-04-02 19:33:01
 description: Discover key insights from Coachella 2024's record 82.9 million live
   stream viewers and learn what to expect for the unforgettable 2026 festival.
 draft: false
-featured_image: /images/your-complete-guide-to-catching-coachella-2026-live-on-youtube-en.jpg
+featured_image: /images/defaults/default-viral.jpg
 language: en
 slug: your-complete-guide-to-catching-coachella-2026-live-on-youtube-en
 tags:
