@@ -9,6 +9,7 @@ from datetime import datetime
 from prompts_factory import PromptFactory
 from llm_router import LLMRouter
 from novum_visual import get_image
+import glob
 import json
 
 # --- CONFIGURACIÓN & SETUP ---
@@ -203,7 +204,7 @@ def generate_footer(niche, lang, current_slug=""):
     else:
         disclaimer = d_general_es if "es" in lang.lower() or "spanish" in lang.lower() else d_general_en
         
-    return methodology + related + disclaimer\n
+    return methodology + related + disclaimer + "\n"
 
 def main_upgrade_engine(target_file_path):
     """Función principal para actualizar un archivo individual."""
