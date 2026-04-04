@@ -332,15 +332,10 @@ Estamos luchando contra la penalización de "Thin Content". Tu objetivo es el **
      ## Resumen Ejecutivo
      - [Punto clave 1...]
      - [Punto clave 2...]
-   - OBLIGATORIO terminar el artículo EXACTAMENTE con esta sección:
-     ## Metodología y Fuentes
-     - [Fuente 1 con enlace HTTPS]
-     - [Fuente 2 con enlace HTTPS]
+   - ESTRICTAMENTE PROHIBIDO: generar apartados de 'Metodología', 'Fuentes', 'Referencias', 'Lecturas Recomendadas' o 'Disclaimers/Descargos de responsabilidad'. El texto debe terminar de forma natural con el último párrafo de conclusión. El sistema de post-procesamiento ensamblará todo el pie de página.
 
 2. UX / LEGAL (DISCLAIMER YMYL ÚNICO):
-   - **ESTRICTAMENTE PROHIBIDO** generar más de un (1) aviso.
-   - ÚNICAMENTE debes añadir UN (1) aviso al final, DESPUÉS de las fuentes.
-   - *Aviso Editorial: Este contenido es solo para fines educativos e informativos. No constituye asesoramiento profesional financiero, legal o médico. NovumWorld recomienda consultar con un especialista certificado.*
+   - DEBES ignorar cualquier instrucción previa sobre disclaimers, NO los generes. El motor Python inyectará estos elementos de forma determinista.
 
 3. SINTAXIS "ANTI-GPT" (PROHIBIDO):
    - Sin preguntas retóricas. Sin clichés de IA: "solo el tiempo dirá", "en conclusión", "arma de doble filo", "en resumen".
@@ -365,15 +360,10 @@ We are actively fighting the "Thin Content" penalty. Your objective is **"Inform
      ## Executive Summary
      - [Key point 1...]
      - [Key point 2...]
-   - OBLIGATORY to end the article EXACTLY with this section:
-     ## Methodology and Sources
-     - [Source 1 with HTTPS link]
-     - [Source 2 with HTTPS link]
+   - STRICTLY FORBIDDEN: Do NOT generate 'Methodology', 'Sources', 'References', 'Recommended Reading' or 'Disclaimers' sections. The text must end naturally with the last conclusion paragraph. The post-processing system will assemble the entire footer.
 
 2. UX / LEGAL (UNIQUE YMYL DISCLAIMER):
-   - **STRICTLY FORBIDDEN** to generate more than one (1) disclaimer.
-   - ONLY add ONE (1) disclaimer at the very end, AFTER the sources.
-   - *Editorial Disclosure: This content is for educational and informational purposes only. It does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist.*
+   - You MUST ignore any previous instructions regarding disclaimers, do NOT generate them. The Python engine will inject them deterministically.
 
 3. "ANTI-GPT" SYNTAX SHIELD (FORBIDDEN):
    - NO Rhetorical Questions. NO AI Clichés: "only time will tell", "in conclusion", "double-edged sword", "in summary".
