@@ -106,16 +106,11 @@ Es crucial optar por plataformas que prioricen la privacidad y seguridad de los 
 - [Comisión Federal de Comercio - Google y YouTube multa](https://www.ftc.gov/es/noticias/google-y-youtube-pagaran-una-suma-record-de-170-millones-de-dolares-por-presuntas-infracciones-la)
 - [NSF Public Access Repository - YouTube Dataset](https://par.nsf.gov/biblio/10322913-youtube-dataset-user-level-usage-data-baseline-characteristics-key-insights)
 - **SoftZone - Truco nube ilimitada**
+- [NSF Public Access Repository - YouTube Dataset (versión técnica)](https://par.nsf.gov/servlets/purl/10322913)
+- [Cobertura de medios sobre la multa de la FTC](https://news.google.com/rss/articles/CBMirAFBVV95cUxOblphNklnRTBVaThGOEdFRk5RUklfbUE4WGk2T2psVUtNQzV1Y0lEaWZiSzdaazNpUXV6SDM5YjFOMTJLSDZfa0hOaDB6MTBxZldSUzFDbms3bndjMmlwemZKRDYtZ1g1SHFwTHo4dzFtRXFDT3BfUzJGRUxIUjVOOC1Bd0twaXFtV3AxVVlpUkRJR2NDQlpFZ3lNc3Q0NGFnRUFBVTFXUkQxeG4z?oc=5)
+- [Cobertura de medios adicional sobre la multa de la FTC](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQckFhRXFHTHJFUzNmWGRBNFI3X2RrSldJdG1PdDZnZllwX01HZWhoNU4xSzJuSmNMWV82T2tfQ2ZVVzV0czM5aUVlcF8wa2dsb0NaMXVHdmlOLTV3eWE2aVBjQkp1d3NobFpyWnAxbUJVcm1XTkY5aXMycGFDNXNlOHFTd1ZaOTU2WWdNOFNpS2prdXU5SlJpNkdvTldwZjc2RUNiOG0zcTczRmfSAbABQVVfeXFMUHVJUm4zaThyNnhXOVRuODVyblFPeVRsOEFfXzZhc3A2VVp0Z05lV0pJd3ZkeWNNSjJ4S3VKY1JxYi0zXzc2WVI5YjJPMF9KZGNXOHdiVnlUTXZ5V284ZmptaWpzOFo4MG02NFRIMzFha1VDMUk4X2xBTTNxbW5YeDNqU1JKQi1rRW94RS11MEMwcVppMm5WbEdFRnBBU1R3bWJMTjZIa2tpM3lBbnQwT0M?oc=5)
 
 *Aviso Editorial: Este contenido es solo para fines educativos e informativos. No constituye asesoramiento profesional financiero, legal o médico. NovumWorld recomienda consultar con un especialista certificado.*
-
-## Metodología y fuentes
-- [ftc.gov](https://www.ftc.gov/es/noticias/google-y-youtube-pagaran-una-suma-record-de-170-millones-de-dolares-por-presuntas-infracciones-la)
-- [par.nsf.gov](https://par.nsf.gov/servlets/purl/10322913)
-- [par.nsf.gov](https://par.nsf.gov/biblio/10322913-youtube-dataset-user-level-usage-data-baseline-characteristics-key-insights)
-- [news.google.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxOblphNklnRTBVaThGOEdFRk5RUklfbUE4WGk2T2psVUtNQzV1Y0lEaWZiSzdaazNpUXV6SDM5YjFOMTJLSDZfa0hOaDB6MTBxZldSUzFDbms3bndjMmlwemZKRDYtZ1g1SHFwTHo4dzFtRXFDT3BfUzJGRUxIUjVOOC1Bd0twaXFtV3AxVVlpUkRJR2NDQlpFZ3lNc3Q0NGFnRUFBVTFXUkQxeG4z?oc=5)
-- [news.google.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQckFhRXFHTHJFUzNmWGRBNFI3X2RrSldJdG1PdDZnZllwX01HZWhoNU4xSzJuSmNMWV82T2tfQ2ZVVzV0czM5aUVlcF8wa2dsb0NaMXVHdmlOLTV3eWE2aVBjQkp1d3NobFpyWnAxbUJVcm1XTkY5aXMycGFDNXNlOHFTd1ZaOTU2WWdNOFNpS2prdXU5SlJpNkdvTldwZjc2RUNiOG0zcTczRmfSAbABQVVfeXFMUHVJUm4zaThyNnhXOVRuODVyblFPeVRsOEFfXzZhc3A2VVp0Z05lV0pJd3ZkeWNNSjJ4S3VKY1JxYi0zXzc2WVI5YjJPMF9KZGNXOHdiVnlUTXZ5V284ZmptaWpzOFo4MG02NFRIMzFha1VDMUk4X2xBTTNxbW5YeDNqU1JKQi1rRW94RS11MEMwcVppMm5WbEdFRnBBU1R3bWJMTjZIa2tpM3lBbnQwT0M?oc=5)
-
 
 ## Artículos relacionados
 - [YouTube Revive La Nostalgia: 7 Programas Icónicos De Los 2000s Que Regresan](/es/youtube/youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto/)

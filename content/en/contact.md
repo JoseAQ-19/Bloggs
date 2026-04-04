@@ -9,7 +9,7 @@ layout: single
 quality_tier: fenix_v3_pro
 title: 'The Architecture of Signal: Information Arbitrage and Compute-Scale Communication'
 translationKey: contact
-url: /es/contact/
+url: /en/contact/
 ---
 
 ## Executive Summary
