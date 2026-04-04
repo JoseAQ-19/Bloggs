@@ -16,7 +16,7 @@ title: Planet Fitness Employee Stabbed by Banned Customer Despite 15 Cameras Wat
 translationKey: 513a95de-9425-c06f-6edc-2211fd59d1ee
 type: fitness
 ---
-## Executive Summary (TL;DR)
+## Executive Summary
 - This in-depth analysis explores the critical points of the ongoing trend, evaluating its direct medium and long-term impact.
 - All information and data have been reviewed following NovumWorld's strict quality standards.
 

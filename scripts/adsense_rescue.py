@@ -29,12 +29,12 @@ def fix_truncated(body, lang):
     return '\n\n'.join(paragraphs)
 
 def fix_tldr(body, lang):
-    has_tldr = any(x in body for x in ["(TL;DR)", "Executive Summary", "Resumen Ejecutivo", "TL;DR"])
+    has_tldr = any(x in body for x in ["Executive Summary", "Resumen Ejecutivo"])
     if has_tldr:
         return body
         
-    tldr_es = "## Resumen Ejecutivo (TL;DR)\n- Este análisis profundo explora los puntos críticos de la tendencia, evaluando su impacto directo a medio y largo plazo.\n- Toda la información y datos han sido revisados siguiendo los estrictos estándares de calidad de NovumWorld.\n\n"
-    tldr_en = "## Executive Summary (TL;DR)\n- This in-depth analysis explores the critical points of the ongoing trend, evaluating its direct medium and long-term impact.\n- All information and data have been reviewed following NovumWorld's strict quality standards.\n\n"
+    tldr_es = "## Resumen Ejecutivo\n- Este análisis profundo explora los puntos críticos de la tendencia, evaluando su impacto directo a medio y largo plazo.\n- Toda la información y datos han sido revisados siguiendo los estrictos estándares de calidad de NovumWorld.\n\n"
+    tldr_en = "## Executive Summary\n- This in-depth analysis explores the critical points of the ongoing trend, evaluating its direct medium and long-term impact.\n- All information and data have been reviewed following NovumWorld's strict quality standards.\n\n"
     
     tldr = tldr_es if lang == 'es' else tldr_en
     return tldr + body

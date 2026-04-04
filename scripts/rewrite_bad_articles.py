@@ -69,7 +69,7 @@ def rewrite_article(path):
         return False
         
     lang = "es" if "/es/" in path.replace("\\", "/") else "en"
-    tl_dr_text = "Resumen Ejecutivo (TL;DR)" if lang == "es" else "Executive Summary (TL;DR)"
+    tl_dr_text = "Resumen Ejecutivo" if lang == "es" else "Executive Summary"
     method_text = "Metodología y Fuentes" if lang == "es" else "Methodology and Sources"
     ymyl_text = "*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*" if lang == "es" else "*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*"
 

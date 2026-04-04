@@ -16,7 +16,7 @@ title: 'Meta Just Unveiled Its AI Deepfake Defense: What You Need to Know Now'
 translationKey: 02cfeb2a-c1f3-c79e-ca76-609238e8c3e0
 type: tools
 ---
-## Executive Summary (TL;DR)
+## Executive Summary
 - This in-depth analysis explores the critical points of the ongoing trend, evaluating its direct medium and long-term impact.
 - All information and data have been reviewed following NovumWorld's strict quality standards.
 

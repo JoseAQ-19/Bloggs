@@ -6,11 +6,11 @@ def polish_article(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # 1. Rename "Executive Summary (TL;DR)" to more human names
+    # 1. Rename "Executive Summary" to more human names
     if '/es/' in filepath:
-        content = content.replace('## Resumen Ejecutivo (TL;DR)', '## En Breve')
+        content = content.replace('## Resumen Ejecutivo', '## En Breve')
     else:
-        content = content.replace('## Executive Summary (TL;DR)', '## Key Insights')
+        content = content.replace('## Executive Summary', '## Key Insights')
 
     # 2. Fix Double Images in the same section
     # Search for Markdown images ![...] (path)

@@ -1,0 +1,31 @@
+scripts\adsense_rescue.py: has_tldr = any(x in body for x in ["(TL;DR)", "Executive Summary", "Resumen Ejecutivo", "TL;DR"])
+scripts\adsense_rescue.py: if "Missing TL;DR" in issues:
+scripts\audit_all.py: has_tldr = any(x in body for x in ["(TL;DR)", "Executive Summary", "Resumen Ejecutivo"])
+scripts\audit_all.py: if not has_tldr: issues.append("Missing TL;DR")
+scripts\content_engine_pro.py: "content_body": "Full body following 'Obra Maestra' rules (TL;DR, no emojis, sources header, natural links)."
+scripts\final_adsense_audit.py: has_tldr = "Resumen Ejecutivo" in body or "Executive Summary" in body or "(TL;DR)" in body
+scripts\final_adsense_audit.py: if not r["tldr"]: issues.append("Missing TL;DR")
+scripts\fix_bugs_persistent.py: if "TL;DR" in old_desc or "Bro-Science" in old_desc:
+scripts\force_fix_alma.py: clean_content = raw_content.replace("**TL;DR (Key Takeaways):**", "") \
+scripts\force_fix_alma.py: .replace("**TL;DR:**", "") \
+scripts\force_fix_alma.py: .replace("TL;DR:", "") \
+scripts\force_fix_alma.py: .replace("TL;DR", "") \
+scripts\make_masterpieces.py: - Falta de secciones GEO (TL;DR y Metodología)
+scripts\make_masterpieces.py: if not re.search(r'##\s*(?:Resumen Ejecutivo|TL;DR)', body, re.IGNORECASE):
+scripts\make_masterpieces.py: print(f"   🚩 Falta TL;DR en {path}")
+scripts\manage.py: clean_parser.add_argument("--text", action="store_true", help="Remove TL;DR and AI fluff")
+scripts\mass_headers_patch.py: # 1. Inyectar TL;DR si falta
+scripts\mass_headers_patch.py: if not any(x in content for x in ["(TL;DR)", "Executive Summary", "Resumen Ejecutivo"]):
+scripts\mass_headers_patch.py: # Extraer los primeros 2 párrafos o oraciones para el TL;DR simulado
+scripts\prompts_factory.py: 4. FORBIDDEN WORDS: "TL;DR", "Revolutionize", "Game changer".
+scripts\prompts_tools.py: 3. PLEASE DO NOT USE THESE PHRASES: "TL;DR", "In today's fast-paced world", "Revolutionize", "In conclusion". See main list for more.
+scripts\ruthless_clean.py: # Deduplicate Key Insights & Normalize to TL;DR
+scripts\ruthless_clean.py: # Replace Key Insights, Principales Claves, or redundant TL;DR variations
+scripts\stocks_instructions.py: - English: "TL;DR", "Key Takeaways", "In summary", "In conclusion", "It remains to be seen", "The Bottom Line", "Final Thoughts", "unlock your potential", "world of possibilities"
+scripts\stocks_instructions.py: "In conclusion", "In summary", "TL;DR", "Key Takeaways", "The Bottom Line", "Final Thoughts", "As we have seen", "Without a doubt", "It goes without saying".
+scripts\surgical_eeat.py: r'## Resumen Ejecutivo \(TL;DR\)': '## Key Insights',
+scripts\surgical_eeat.py: r'## Executive Summary \(TL;DR\)': '## Key Insights',
+scripts\trend_scout.py: NEGATIVE CONSTRAINTS: DO NOT use "En conclusión", "TL;DR", "Magia", "Descubre como". NO corporate fluff.
+scripts\unify_editorial.py: # 3. Clean up the "TL;DR" bullet points if they are empty or broken
+scripts\core\audit.py: AI_PATTERNS = ["TL;DR", "Key Takeaways", "En resumen", "As an AI"]
+scripts\core\cleaner.py: print("🧹 [CLI] LIMPIANDO TEXTOS (TL;DR)...")

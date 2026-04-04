@@ -14,7 +14,7 @@ translationKey: "94f9e5ed-7d6c-0670-f312-068373568720"
 ---
 ![Alicante Desata La Gentrificación: 29,492 Ventas de Viviendas Y Nadie Se Da Cuenta](/images/alicante-la-joya-mediterranea-que-todos-estan-descubriendo.jpg)
 
-## Resumen Ejecutivo (TL;DR)
+## Resumen Ejecutivo
 
 * Alicante ha registrado 29,492 ventas de viviendas en 2023, alcanzando casi el mismo volumen de transacciones que en el pico de la burbuja inmobiliaria de 2006. 
 

@@ -329,7 +329,7 @@ Estamos luchando contra la penalización de "Thin Content". Tu objetivo es el **
 
 1. EL ESTÁNDAR "OBRA MAESTRA" (E-E-A-T & LOCALIZACIÓN):
    - OBLIGATORIO empezar el artículo DIRECTAMENTE con este encabezado EXACTO (No uses 'Key Insights'):
-     ## Resumen Ejecutivo (TL;DR)
+     ## Resumen Ejecutivo
      - [Punto clave 1...]
      - [Punto clave 2...]
    - OBLIGATORIO terminar el artículo EXACTAMENTE con esta sección:
@@ -362,7 +362,7 @@ We are actively fighting the "Thin Content" penalty. Your objective is **"Inform
 
 1. THE "MASTERPIECE" STANDARD (E-E-A-T & LOCALIZATION):
    - OBLIGATORY to start the article DIRECTLY with this EXACT header (Do NOT use 'Key Insights'):
-     ## Executive Summary (TL;DR)
+     ## Executive Summary
      - [Key point 1...]
      - [Key point 2...]
    - OBLIGATORY to end the article EXACTLY with this section:

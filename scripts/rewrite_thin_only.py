@@ -33,7 +33,7 @@ def rewrite_thin_article(path):
     except: return False
         
     lang = "es" if "/es/" in path.replace("\\", "/") else "en"
-    tl_dr = "## Resumen Ejecutivo (TL;DR)" if lang == "es" else "## Executive Summary (TL;DR)"
+    tl_dr = "## Resumen Ejecutivo" if lang == "es" else "## Executive Summary"
     method = "## Metodología y Fuentes" if lang == "es" else "## Methodology and Sources"
     ymyl = "*Aviso YMYL: Información educativa. Consulte especialistas.*" if lang == "es" else "*YMYL Disclaimer: For informational purposes only.*"
 

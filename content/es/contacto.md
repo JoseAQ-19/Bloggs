@@ -12,7 +12,7 @@ translationKey: contact
 url: /es/contacto/
 ---
 
-## Executive Summary (TL;DR)
+## Executive Summary
 - Communication in the era of Generative AI has shifted from a problem of delivery to a problem of filtration, as the marginal cost of content production approaches zero.
 - Effective information arbitrage requires a deep understanding of the compute stack, from NVIDIA H100 clusters to the KV cache optimization of Mixture of Experts (MoE) architectures.
 - NovumWorld operates on a high-entropy protocol, prioritizing verified technical leaks and sovereign data over standardized press releases or synthetic noise.

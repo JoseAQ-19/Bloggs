@@ -14,7 +14,7 @@ def patch_article(filepath):
     lang = "es" if "/es/" in filepath.replace("\\", "/") else "en"
     
     # Headers
-    tl_dr_header = "## Resumen Ejecutivo (TL;DR)" if lang == "es" else "## Executive Summary (TL;DR)"
+    tl_dr_header = "## Resumen Ejecutivo" if lang == "es" else "## Executive Summary"
     method_header = "## Metodología y Fuentes" if lang == "es" else "## Methodology and Sources"
     
     modified = False

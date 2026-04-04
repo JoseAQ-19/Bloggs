@@ -16,7 +16,7 @@ title: 'Apple Fitness+ Faces Crisis: Leadership Shake-Up and User Exodus Reveale
 translationKey: 9d55d8b5-282b-2728-c0b2-c9099e86ff9c
 type: fitness
 ---
-## Executive Summary (TL;DR)
+## Executive Summary
 - This in-depth analysis explores the critical points of the ongoing trend, evaluating its direct medium and long-term impact.
 - All information and data have been reviewed following NovumWorld's strict quality standards.
 

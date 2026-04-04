@@ -17,7 +17,7 @@ title: 'Edtech Spending Plummets: Districts Consolidate Tools Amid $2.4 Billion 
 translationKey: c0a53863-52e1-f51d-98c4-e16caca8cdd0
 type: tools
 ---
-## Executive Summary (TL;DR)
+## Executive Summary
 - This in-depth analysis explores the critical points of the ongoing trend, evaluating its direct medium and long-term impact.
 - All information and data have been reviewed following NovumWorld's strict quality standards.
 

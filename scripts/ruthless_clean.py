@@ -64,7 +64,7 @@ def ruthless_clean():
                     modified = True
 
                 # Deduplicate Key Insights & Normalize to TL;DR
-                tldr_header = "## Resumen Ejecutivo (TL;DR)" if lang == "es" else "## Executive Summary (TL;DR)"
+                tldr_header = "## Resumen Ejecutivo" if lang == "es" else "## Executive Summary"
                 # Replace Key Insights, Principales Claves, or redundant TL;DR variations
                 re_tldr_variants = re.compile(r"##\s*(?:Key Insights|Principales Claves|Executive Summary)\s*\n", re.IGNORECASE)
                 if re_tldr_variants.search(body):

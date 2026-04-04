@@ -17,7 +17,7 @@ title: 'Eight Chick-fil-A Employees Fired Over Viral TikTok Clip: The Shocking T
 translationKey: c38a2f9d-e2ce-dd3a-6bb1-0b77eeacc77e
 type: viral
 ---
-## Executive Summary (TL;DR)
+## Executive Summary
 - This in-depth analysis explores the critical points of the ongoing trend, evaluating its direct medium and long-term impact.
 - All information and data have been reviewed following NovumWorld's strict quality standards.
 

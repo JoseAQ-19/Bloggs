@@ -15,7 +15,7 @@ translationKey: "ce3c3ac6-7afe-d6e6-3bf5-c5979c1983ba"
 
 ![La Verdad Oculta: Los 80% de Autores Españoles Temen el Saqueo Digital de la IA](/images/la-polemica-detras-del-saqueo-digital-deberian-pagar-los-gigantes-de-la-ia-por-el-contenido-de-inter.jpg)
 
-## Resumen Ejecutivo (TL;DR)
+## Resumen Ejecutivo
 
 * El 80% de los autores y traductores en España ven la IA generativa como una amenaza directa a su profesión y propiedad intelectual.
  

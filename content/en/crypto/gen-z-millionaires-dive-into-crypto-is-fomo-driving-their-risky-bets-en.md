@@ -16,7 +16,7 @@ title: 35% Of Gen Z Millionaires Bet Half Their Portfolios On Crypto Despite Ris
 translationKey: b69373da-8a9c-62c5-edb9-157abd3cccad
 type: crypto
 ---
-## Executive Summary (TL;DR)
+## Executive Summary
 - This in-depth analysis explores the critical points of the ongoing trend, evaluating its direct medium and long-term impact.
 - All information and data have been reviewed following NovumWorld's strict quality standards.
 

@@ -17,7 +17,7 @@ title: 'Iran''s Shocking Nuclear Secrets: 440 Kilograms Of Uranium Enriched To 6
 translationKey: b0807400-2684-1065-4ec7-fd5f12d93336
 type: ia
 ---
-## Executive Summary (TL;DR)
+## Executive Summary
 - This in-depth analysis explores the critical points of the ongoing trend, evaluating its direct medium and long-term impact.
 - All information and data have been reviewed following NovumWorld's strict quality standards.
 

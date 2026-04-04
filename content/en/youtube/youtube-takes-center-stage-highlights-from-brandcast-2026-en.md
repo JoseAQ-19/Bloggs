@@ -16,7 +16,7 @@ title: YouTube's Shocking 68% Creator Burnout Rate Puts Future of Content at Ris
 translationKey: e767f799-294e-c760-6129-5bfa33087af8
 type: youtube
 ---
-## Executive Summary (TL;DR)
+## Executive Summary
 - This in-depth analysis explores the critical points of the ongoing trend, evaluating its direct medium and long-term impact.
 - All information and data have been reviewed following NovumWorld's strict quality standards.
 

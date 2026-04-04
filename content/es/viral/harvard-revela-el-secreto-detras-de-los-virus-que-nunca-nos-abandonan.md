@@ -16,7 +16,7 @@ title: Harvard Revela Cómo 8% de Tu ADN Proviene de Virus Antiguos Desconocidos
 translationKey: ff808dbe-14d8-5e51-386d-5bc54d82900c
 type: viral
 ---
-## Resumen Ejecutivo (TL;DR)
+## Resumen Ejecutivo
 - Este análisis profundo explora los puntos críticos de la tendencia, evaluando su impacto directo a medio y largo plazo.
 - Toda la información y datos han sido revisados siguiendo los estrictos estándares de calidad de NovumWorld.
 

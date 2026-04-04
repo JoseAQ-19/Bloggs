@@ -49,7 +49,7 @@ def get_pro_prompt(niche, lang):
       "title": "Optimized SEO Title",
       "h1_title": "Visual H1 Title",
       "meta_description": "SEO description (150 chars)",
-      "content_body": "Full body following 'Obra Maestra' rules (TL;DR, no emojis, sources header, natural links)."
+      "content_body": "Full body following 'Obra Maestra' rules (Executive Summary, no emojis, sources header, natural links)."
     }
     """
     return base_prompt + json_instruction
