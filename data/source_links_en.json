@@ -88,5 +88,45 @@
         "https://archive.epa.gov/emergencies/docs/chem/web/pdf/napp.pdf",
         "https://www.csb.gov/assets/1/20/tpc_factual_update_10-29-2020.pdf?16613",
         "https://www.osti.gov/servlets/purl/15005088"
+    ],
+    "meta-ai-deepfake-defense-technical-autopsy-en": [
+        "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-4.pdf",
+        "https://par.nsf.gov/servlets/purl/10668521",
+        "https://www.gao.gov/assets/880/870111.pdf"
+    ],
+    "scammers-thrive-in-nevadas-unregulated-crypto-kiosks-aarp-sounds-the-alarm-en": [
+        "https://www.finance.idaho.gov/wp-content/uploads/2025/09/SFFEP-Crypto-ATM-Final-Approved.pdf",
+        "https://wyoleg.gov/InterimCommittee/2025/S19-20250922S19-20250922CryptoATM2Overview.pdf",
+        "https://www.nj.gov/sci/pdf/Bitcoin%20Report.pdf"
+    ],
+    "secs-new-guidance-what-it-means-for-your-crypto-investments-en": [
+        "https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets",
+        "https://www.sec.gov/newsroom/speeches-statements/cf-crypto-securities-041025-offerings-registrations-securities-crypto-asset-markets",
+        "https://www.sec.gov/files/recommendation-tokenization-equity-securities.pdf"
+    ],
+    "rb-star-leon-thomas-teams-up-with-delta-and-youtube-premium-for-exciting-new-project-en": [
+        "https://id.loc.gov/authorities/names/n92008547.html",
+        "https://www.nysenate.gov/legislation/bills/2023/J435",
+        "https://technology.nasa.gov/patent/LEW-TOPS-106"
+    ],
+    "who-will-win-1-million-mrbeasts-epic-live-competition-with-50-top-streamers-hits-youtube-en": [
+        "https://nist.gov/ctl/pscr/open-innovation-prize-challenges/past-prize-challenges/2020-automated-stream-analysis",
+        "https://par.nsf.gov/biblio/10594318-give-take-end-end-investigation-giveaway-scam-conversion-rates",
+        "https://research-hub.nrel.gov/en/publications/the-ashrae-great-energy-predictor-iii-competition-overview-and-re-2/"
+    ],
+    "easter-candy-revolution-from-giant-smash-eggs-to-healthier-treats-en": [
+        "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Sweet+Opportunities+in+The+Netherlands+for+US+Candies+and+Chocolates_The+Hague_Netherlands_NL2025-0003.pdf",
+        "https://www.ncbi.nlm.nih.gov/books/NBK588787/",
+        "https://www.ars.usda.gov/ARSUserFiles/80400530/pdf/DBrief/33_Sweet_foods_adults_1518.pdf"
+    ],
+    "from-pop-star-to-fitness-guru-ashley-parker-angels-inspiring-new-journey-en": [
+        "https://id.loc.gov/authorities/names/no2006062875.html",
+        "https://ncbi.nlm.nih.gov/pmc/articles/PMC2652970/",
+        "https://ncbi.nlm.nih.gov/pmc/articles/PMC3533086/"
+    ],
+    "is-planet-fitness-stock-about-to-bounce-back-investors-weigh-in-en": [
+        "https://www.sec.gov/Archives/edgar/data/1637207/000163720725000075/plntq32025pressreleaseex991.htm",
+        "https://www.sec.gov/Archives/edgar/data/1637207/000163720726000009/plntq42025pressreleaseex991.htm",
+        "https://www.sec.gov/Archives/edgar/data/1637207/000163720725000081/plnt2025wbslaunchpressrele.htm"
     ]
 }
