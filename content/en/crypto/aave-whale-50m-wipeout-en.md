@@ -17,7 +17,6 @@ title: 'Aave Liquidation Cascade: Oracle Misconfiguration and the MEV Economy'
 translationKey: ede076ec-6d70-eee5-fcc7-94ae5bdc5a1c
 type: crypto
 ---
-
 ## Executive Summary
 
 - A data desynchronization in Aave's CAPO risk oracle triggered a cascade of wstETH liquidations valued at approximately $27 million, resulting in a net loss of 345 ETH for affected borrowers.
@@ -103,10 +102,9 @@ The recommendation for institutional treasuries and liquidity providers is to re
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
-
-
-*Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*
+- [35% Of Gen Z Millionaires Bet Half Their Portfolios On Crypto Despite Risks](/en/crypto/gen-z-millionaires-dive-into-crypto-is-fomo-driving-their-risky-bets-en/)
+- [Nobitex Records 700% Surge: Iran''s Capital Flight Fueled By Fear](/en/crypto/iranian-crypto-exodus-on-chain-data-en/)
+- [OpenClaw Developers Lose $5,000 to Deceptive Crypto-Wallet Scam and Nobody](/en/crypto/phishing-alert-openclaw-developers-fall-victim-to-crypto-wallet-scam-en/)
 
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

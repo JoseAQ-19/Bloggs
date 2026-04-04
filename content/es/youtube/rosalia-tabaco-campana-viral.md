@@ -18,7 +18,6 @@ title: 'Rosalía, Déjalo: La Campaña Anti-Tabaco Que Avergonzará A La Industr
 translationKey: 31b629aa-8272-a9a4-f039-acf2a7c8a0e4
 type: youtube
 ---
-
 ## Resumen Ejecutivo
 - La campaña "Rosalía, déjalo" de la AECC busca concienciar sobre el vapeo juvenil tras la viralización de imágenes de la cantante fumando.
 - Más del 54% de los jóvenes españoles entre 14 y 18 años han probado el vapeo, lo que plantea un grave problema de salud pública.
@@ -67,10 +66,9 @@ Margarita de la Paz de Esvidas destaca que la industria del vapeo manipula la pe
 Este artículo fue analizado y validado por el equipo de investigadores de NovumWorld. Los datos provienen estrictamente de métricas actualizadas, regulaciones institucionales y canales de análisis autorizados para asegurar que el contenido cumpla con el estándar más alto de calidad y autoridad (E-E-A-T) de la industria.
 
 ## Artículos Relacionados
-- [Explora nuestra sección completa](/es/) 
+- [YouTube Revive La Nostalgia: 7 Programas Icónicos De Los 2000s Que Regresan](/es/youtube/youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto/)
+- [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
+- [¡Pánico Musical! La IA Robará 100 Millones A Artistas Españoles En Un Año](/es/youtube/10-temazos-electronicos-youtube/)
 
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*
-
-
-*Aviso Editorial: El contenido de este artículo es informativo y no sustituye el consejo, diagnóstico o tratamiento médico profesional. Consulte siempre a un especialista antes de tomar decisiones sobre su salud.*

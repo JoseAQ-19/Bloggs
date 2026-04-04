@@ -1,0 +1,4 @@
+﻿Total remaining issues: 3
+AI_TRACE [This article explores]: en/ia/decoding-viral-vortex-ai-analog-unexpected-nuptials-en.md
+AI_TRACE [This article explores]: en/ia/hugging-face-embeddings-lobotomy-en.md
+AI_TRACE [En resumen]: es/ia/el-metaverso-ha-muerto-ahora-toca-reirnos.md

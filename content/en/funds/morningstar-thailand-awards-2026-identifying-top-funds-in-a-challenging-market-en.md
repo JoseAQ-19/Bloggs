@@ -17,7 +17,6 @@ title: 'Morningstar Thailand Awards 2026: Identifying Top Funds in a Challenging
 translationKey: d512ecfa-bd8a-816f-4018-5ddfb4289dc2
 type: funds
 ---
-
 ## Executive Summary
 * ![Morningstar Thailand Awards 2026: Identifying Top Funds in a Challenging Market](/images/morningstar-thailand-awards-2026-identifying-top-funds-in-a-challenging-market-en.jpg)
 
@@ -81,10 +80,9 @@ The winners of the Morningstar Thailand Awards 2026 have demonstrated strong per
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
-
-
-*Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*
+- [Morningstar Awards Thailand 2026: Funds Surpassing Benchmarks by 15%](/en/funds/morningstar-awards-thailand-2026-funds-surpassing-benchmarks-by-15-en/)
+- [Morningstar Thailand 2026 Awards: Fund X''s 15% Lead Over Its Peer Group](/en/funds/morningstar-thailand-2026-awards-fund-xs-15-lead-over-its-peer-group-en/)
+- [Vanguard VYMI''s 10 Basis Point Cut: Is Sub-0.25% Enough to Beat the Competition?](/en/funds/vanguard-vymis-10-basis-point-cut-is-sub-025-enough-to-beat-the-competition-en/)
 
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

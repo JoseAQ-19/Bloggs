@@ -17,7 +17,6 @@ title: 'Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard in Thailan
 translationKey: daafb8a2-5ffd-f296-a4a9-b6e7200e9148
 type: funds
 ---
-
 ## Executive Summary
 * ![Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard in Thailand](/images/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-in-thailand-en.jpg)
 
@@ -111,10 +110,9 @@ The competition in the Thai mutual fund market is intense, with FPA, PIMCO, and 
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
-
-
-*Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*
+- [S&P 500 Fund Showdown: VOO vs. SPY with a 0.03% Expense Ratio Difference](/en/funds/sp-500-fund-showdown-voo-vs-spy-with-a-003-expense-ratio-difference-en/)
+- [Hartford''s $850 Million Fund Downgrade: Morningstar Points to Subadvising](/en/funds/hartfords-850-million-fund-downgrade-morningstar-points-to-subadvising-risks-en/)
+- [5-Star Fund Balances Income and Volatility: Top Morningstar Pick for 2026](/en/funds/5-star-fund-balances-income-and-volatility-top-morningstar-pick-for-2026-en/)
 
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

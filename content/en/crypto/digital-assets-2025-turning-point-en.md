@@ -17,7 +17,6 @@ title: '$512 Million Gone: The DeFi Hack No One Is Talking About.'
 translationKey: fe05491e-abc2-ecc4-41ab-4fd1fe0a3f7f
 type: crypto
 ---
-
 ## Executive Summary
 * ![$512 Million Gone: The DeFi Hack No One Is Talking About.](/images/digital-assets-2025-turning-point-en.jpg)
 
@@ -77,10 +76,9 @@ DeFi's growth necessitates a shift from aggressive expansion to prioritizing sec
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
-
-
-*Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*
+- [Metaverse Meltdown: Crypto Dreams Meet VR Reality... and Fail](/en/crypto/metaverse-meltdown-crypto-vr-failure-en/)
+- [The $4 Trillion Crypto Bet: Why Jamie Dimon Says It’s a Dangerous Scam](/en/crypto/jamie-dimons-bold-claim-are-crypto-tokens-just-decentralized-ponzi-schemes-en/)
+- [$18.8 Billion Crypto Mortgage Bomb? IMF Warns Of Systemic Risk Nightmare.](/en/crypto/fannie-mae-crypto-backed-mortgages-en/)
 
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

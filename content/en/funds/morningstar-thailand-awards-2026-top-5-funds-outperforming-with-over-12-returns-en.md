@@ -18,7 +18,6 @@ title: 'Morningstar Thailand Awards 2026: Top 5 Funds Outperforming with Over 12
 translationKey: d850ec0a-b58f-5d7e-6bf4-a931f5558a90
 type: funds
 ---
-
 ## Executive Summary
 * ![Morningstar Thailand Awards 2026: Top 5 Funds Outperforming with Over 12% Returns](/images/morningstar-thailand-awards-2026-top-5-funds-outperforming-with-over-12-returns-en.jpg)
 
@@ -90,10 +89,9 @@ For investors seeking a diversified global portfolio anchored in Thailand, these
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
-
-
-*Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*
+- [Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard in Thailand](/en/funds/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-in-thailand-en/)
+- [Morningstar''s 2026 Top Active ETF: OAKM''s Strategy Delivers Outperformance.](/en/funds/morningstars-2026-top-active-etf-oakms-strategy-delivers-outperformance-en/)
+- [Morningstar Awards Thailand 2026: Funds Surpassing Benchmarks by 15%](/en/funds/morningstar-awards-thailand-2026-funds-surpassing-benchmarks-by-15-en/)
 
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

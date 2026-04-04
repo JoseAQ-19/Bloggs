@@ -17,7 +17,6 @@ title: 'Neal Mohan''s Nightmare: AI Lookalikes Threaten YouTube''s $32B Payouts'
 translationKey: 9c053089-ae67-ba1c-7682-b21c94fd500e
 type: youtube
 ---
-
 ## Executive Summary
 * ![Neal Mohan's Nightmare: AI Lookalikes Threaten YouTube's $32B Payouts](/images/youtube-gemini-creator-collabs-en.jpg)
 
@@ -82,10 +81,9 @@ YouTube's $36B ad revenue depends on viewer trust that they're seeing authentic 
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
-
-
-*Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*
+- [SunnyV2''s Downfall: The $50 Million Mistake Every Influencer Should Fear](/en/youtube/sunnyv2-youtube-downfall-accountability-en/)
+- [Google''s Project Kavya: Is Your Child''s Favorite YouTube Show a Deepfake?](/en/youtube/google-ai-kids-content-safety-concerns-en/)
+- [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

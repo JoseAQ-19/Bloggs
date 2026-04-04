@@ -18,7 +18,6 @@ title: 'Leucine''s Lie: The Supplement Industry Is Killing Your Arteries, New St
 translationKey: 92802407-0d10-491e-2b61-32b88c7b6188
 type: fitness
 ---
-
 ## Executive Summary
 * ![Leucine's Lie: The Supplement Industry Is Killing Your Arteries, New Study Shows](/images/leucine-atherosclerosis-risk-en.jpg)
 
@@ -72,7 +71,9 @@ Gains today, clogged arteries tomorrow? The choice is yours.
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
+- [FAU’s “March Into Fitness” Program: 50% Of Students Embrace Wearable Tech](/en/fitness/fau-students-unite-for-march-into-fitness-celebration-on-campus-en/)
+- [Forget Incline! 44 Degrees Is The Upper Chest Hack Trainers Don't Want You](/en/fitness/upper-chest-hypertrophy-science-en/)
+- [The Alarming Truth Behind Mike Jeffries' Prison Tapes and Trial Fitness Controversy](/en/fitness/ex-abercrombie-ceos-prison-tapes-spark-controversy-over-trial-fitness-en/)
 
 
-*Editorial Disclosure: The content of this article is for informational purposes and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*
+*Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

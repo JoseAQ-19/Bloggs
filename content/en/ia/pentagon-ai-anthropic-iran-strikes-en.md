@@ -17,7 +17,6 @@ title: Anthropic's Red Lines CRUMBLE? Pentagon AI Used in Iran Strike.
 translationKey: 26a2c82c-8cd8-8580-daa7-5865ebc3cb6f
 type: ia
 ---
-
 ## Executive Summary
 * ![Anthropic's Red Lines CRUMBLE? Pentagon AI Used in Iran Strike.](/images/pentagon-ai-anthropic-iran-strikes-en.jpg)
 
@@ -88,10 +87,9 @@ Code red for AI ethics.
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
-
-
-*Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*
+- [AI Utopia? 6% Of Companies Actually Use AI, Experts Predict Imminent Crash](/en/ia/ai-winter-unmasking-hype-en/)
+- [A Monument to Naivety and Greed](/en/ia/monument-naivety-greed-en/)
+- [Hugging Face Transformers: The Few-Shot Fine-Tuning Fantasy](/en/ia/hugging-face-transformers-few-shot-limitations-en/)
 
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

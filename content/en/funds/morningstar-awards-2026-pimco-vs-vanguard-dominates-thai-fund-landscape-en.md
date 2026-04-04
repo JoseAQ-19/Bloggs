@@ -17,7 +17,6 @@ title: 'Morningstar Awards 2026: PIMCO vs Vanguard Dominates Thai Fund Landscape
 translationKey: 1e89e978-3fc4-a992-b64d-9dc64aaed2b3
 type: funds
 ---
-
 ## Executive Summary
 * ![Morningstar Awards 2026: PIMCO vs Vanguard Dominates Thai Fund Landscape](/images/morningstar-awards-2026-pimco-vs-vanguard-dominates-thai-fund-landscape-en.jpg)
 
@@ -88,10 +87,9 @@ We believe that a balanced approach incorporating both PIMCO and Vanguard may se
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
-
-
-*Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*
+- [Morningstar Awards 2026: Thailand''s Top 5 Mutual Funds Revealed](/en/funds/morningstar-awards-2026-thailands-top-5-mutual-funds-revealed-en/)
+- [Hartford''s $850 Million Fund Downgrade: Morningstar Points to Subadvising](/en/funds/hartfords-850-million-fund-downgrade-morningstar-points-to-subadvising-risks-en/)
+- [BlackRock Fund Halts Withdrawals After 9% Redemptions; BLK Shares Drop.](/en/funds/blackrock-fund-halts-withdrawals-after-9-redemptions-blk-shares-drop-en/)
 
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

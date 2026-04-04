@@ -18,7 +18,6 @@ title: 'YouTube''s Algorithm Recommended 71% Harmful Videos: Teen Mental Health 
 translationKey: 067325ab-a021-1657-4fe7-c6cc6186cca4
 type: youtube
 ---
-
 ## Executive Summary
 * ![YouTube's Algorithm Recommended 71% Harmful Videos: Teen Mental Health Trial Begins](/images/meta-youtube-teen-mental-health-liability-en.jpg)
 
@@ -88,10 +87,9 @@ Regardless of the trial's outcome, the creator economy is already feeling the sh
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
+- [YouTube''s $46.2 Billion Ad Revenue Disaster: Is This The End For Creators?](/en/youtube/youtube-golden-age-creator-economics-en/)
+- [The $6M Verdict That Just Sent Shockwaves Through YouTube and Meta’s Empire](/en/youtube/the-6m-wake-up-call-how-a-jury-held-youtube-and-meta-accountable-en/)
+- [YouTube TV Dodged Fox: Will 77.2 Million Cord-Cutters Pay The Price?](/en/youtube/youtube-tv-fox-deal-extension-en/)
 
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*
-
-
-*Editorial Disclosure: The content of this article is for informational purposes and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

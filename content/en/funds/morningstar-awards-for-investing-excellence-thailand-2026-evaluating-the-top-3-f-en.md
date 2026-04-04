@@ -18,7 +18,6 @@ title: 'Morningstar Awards for Investing Excellence Thailand 2026: Evaluating th
 translationKey: 6ec03340-e449-5ac6-b247-e048a5edc657
 type: funds
 ---
-
 ## Executive Summary
 In the rapidly expanding landscape of mutual funds in Thailand, **71%** of investors show a clear preference for mutual funds over other investment vehicles. A recent analysis of the top three mutual funds recognized in the **Morningstar Awards for Investing Excellence Thailand 2026** reveals an impressive **12.6%** average return over the past year, significantly outperforming the benchmark index by **4.2%**. Over three years, these funds have maintained an **8.5%** average return, with a standard deviation of **10.2%**, indicating stable performance amidst market fluctuations. Furthermore, the average expense ratio of **0.85%** is notably lower than the industry average of **1.2%**, suggesting cost-effective management. The standout funds include:
 
@@ -85,10 +84,9 @@ A: The top funds exhibit strong risk management, as evidenced by a low standard 
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
-
-
-*Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*
+- [Morningstar Thailand 2026 Awards: Fund X''s 15% Lead Over Its Peer Group](/en/funds/morningstar-thailand-2026-awards-fund-xs-15-lead-over-its-peer-group-en/)
+- [Morningstar''s 2026 Picks: 5 Asia Funds with 15% Projected Annual Returns](/en/funds/morningstars-2026-picks-5-asia-funds-with-15-projected-annual-returns-en/)
+- [Vanguard VYMI''s 10 Basis Point Cut: Is Sub-0.25% Enough to Beat the Competition?](/en/funds/vanguard-vymis-10-basis-point-cut-is-sub-025-enough-to-beat-the-competition-en/)
 
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

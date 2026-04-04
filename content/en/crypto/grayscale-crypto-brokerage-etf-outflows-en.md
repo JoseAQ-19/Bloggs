@@ -17,7 +17,6 @@ title: 'Grayscale''s $17 Billion Nightmare: Can New Crypto Brokerage Stop The Bl
 translationKey: cedec4db-0f6f-f5ce-a3cc-173a3838929f
 type: crypto
 ---
-
 ** Resumen Ejecutivo / Executive Summary (In short:):**
 - **GBTC Outflows**: Over $17 billion has exited Grayscale’s Bitcoin Trust since its ETF conversion, primarily driven by a high 1.5% expense ratio.
 - **AUM Erosion**: Assets under management have plummeted from nearly $29 billion to approximately $26 billion in under 90 days.
@@ -58,10 +57,9 @@ The legal victory against the SEC, which forced the regulator to approve the spo
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
-
-
-*Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*
+- [$25.8 Trillion in Stablecoin Trading Volume: The Shocking Rise Nobody Expected](/en/crypto/crypto-class-adapting-to-a-new-era-of-digital-currency-en/)
+- [Wisconsin Crypto Staking WAR: Is Your 6.8% Yield About to Vanish?](/en/crypto/wisconsin-crypto-staking-debate-en/)
+- [The Hidden Risks of Digital Credit in Crypto Treasuries That Nobody Talks About](/en/crypto/the-rise-of-digital-credit-a-new-leverage-tool-for-crypto-treasuries-en/)
 
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

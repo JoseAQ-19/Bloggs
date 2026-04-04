@@ -20,7 +20,6 @@ title: 'Amazon''s Pricing Algorithms Are Killing Craftsman Tools: Here’s the S
 translationKey: ecd3f388-6890-fe56-405e-21c18b0958a9
 type: tools
 ---
-
 ## Executive Summary
 *   **Algorithmic Price Inflation:** Amazon's "Project Nessie" algorithm reportedly generated over $1 billion in additional revenue by identifying competitors with simple pricing rules and systematically raising prices across various categories, as detailed in a 2023 FTC investigation.
 *   **Craftsman Quality Degradation:** Post-2010, following a shift to overseas manufacturing, Craftsman tools experienced a 47% decline in steel thickness and a 62% increase in defect rates, with ratchet mechanisms failing after approximately 1,200 cycles, a significant reduction from the prior 12,000-cycle standard.
@@ -115,12 +114,9 @@ For manufacturers, the challenge lies in navigating an ecosystem that disincenti
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [60% of Federal Judges Use AI Tools, But Bias Still Thrives in Courtrooms](/en/tools/ai-bias-federal-judges-tech-shift-en/)
-- [Visa's AI Chargeback Tool Could Lose $11.5 Billion to Hallucinations by 2027](/en/tools/visa-ai-chargeback-hallucinations-en/)
+- [AI Is The significant shift Europe Needs To Combat 30% Drug Development Failures](/en/tools/ai-drug-discovery-eu-en/)
 - [Meta Just Unveiled Its AI Deepfake Defense: What You Need to Know Now](/en/tools/meta-ai-deepfake-defense-technical-autopsy-en/)
+- [Cow Uses Broom 76 Times: Primate Cognition Myth CRUSHED By Farm Animal](/en/tools/cow-tool-use-cognition-en/)
 
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*
-
-
-*Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

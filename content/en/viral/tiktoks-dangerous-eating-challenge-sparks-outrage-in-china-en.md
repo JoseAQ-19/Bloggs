@@ -20,7 +20,6 @@ title: TikTok's Fear Food Challenge Doubled Teen ER Visits for Eating Disorders 
 translationKey: e81da8d8-9476-82d4-caca-782f4be67161
 type: viral
 ---
-
 ## Executive Summary
 * ![TikTok's Fear Food Challenge Doubled Teen ER Visits for Eating Disorders Since 2020](/images/tiktoks-dangerous-eating-challenge-sparks-outrage-in-china-en.jpg)
 
@@ -117,12 +116,9 @@ The National Eating Disorders Association (NEDA) provides a confidential helplin
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [The Alarming Truth Behind Harris County's Judicial Overreach and Ethics Violations](/en/viral/harris-county-judges-heated-confrontation-sparks-legal-community-backlash-en/)
-- [Shocking Outburst: Albuquerque Man Joins 8,683 Complaints of Anti-Muslim Hate in 2025](/en/viral/albuquerque-mans-shocking-anti-islam-outburst-goes-viral-whats-behind-the-controversy-en/)
-- [Eight Chick-fil-A Employees Fired Over Viral TikTok Clip: The Shocking Truth Revealed](/en/viral/chick-fil-a-dance-controversy-eight-employees-fired-over-tiktok-clip-en/)
+- [Niklas Edin''s Fury: Is Curling''s Biggest Cheating Problem About to Explode?](/en/viral/algorithmic-curling-tech-en/)
+- [Ugly Sonic Didn''t Die: His VFX Secrets Still Haunt Our Need for Speed](/en/viral/sonic-movie-vfx-muzzle-flash-paradox-en/)
+- [Chuck Norris Didn''t Die, But Trust Did: Blame The $200 Million Deepfakes](/en/viral/chuck-norris-death-hoax-deepfakes-trust-en/)
 
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*
-
-
-*Editorial Disclosure: The content of this article is for informational purposes and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

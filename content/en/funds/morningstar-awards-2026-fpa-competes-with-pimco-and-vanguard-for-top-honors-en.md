@@ -17,7 +17,6 @@ title: 'Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard for Top Ho
 translationKey: 37b63a4f-4676-3ef1-2ab6-7453c5569012
 type: funds
 ---
-
 ## Executive Summary
 * ![Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard for Top Honors](/images/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-for-top-honors-en.jpg)
 
@@ -92,10 +91,9 @@ In this competitive landscape, we believe that FPA, PIMCO, and Vanguard will con
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
-
-
-*Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*
+- [Morningstar Awards 2026: PIMCO vs Vanguard Dominates Thai Fund Landscape](/en/funds/morningstar-awards-2026-pimco-vs-vanguard-dominates-thai-fund-landscape-en/)
+- [Morningstar''s 2026 Picks: 5 Asia Funds with 15% Projected Annual Returns](/en/funds/morningstars-2026-picks-5-asia-funds-with-15-projected-annual-returns-en/)
+- [Fluent Financial LLC Invests $10 Million in Morningstar, Inc. $MORN](/en/funds/fluent-financial-llc-invests-10-million-in-morningstar-inc-morn-en/)
 
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

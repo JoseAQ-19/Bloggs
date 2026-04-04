@@ -17,7 +17,6 @@ title: 'Morningstar Awards Thailand 2026: Examining the Top 3 Fund Performers'
 translationKey: e9babc0a-0290-fbbb-8ae9-490fb2bcf13a
 type: funds
 ---
-
 ## Executive Summary
 *   **Market Context:** The Thailand fund market experienced a substantial **$1.3 billion in net inflows** during 2025, indicating robust investor confidence and capital allocation towards domestic equity instruments.
 *   **Top Performers Identified:** The Morningstar Awards Thailand 2026 recognize three equity funds for their exceptional performance: Kasikorn Thai Equity Fund, Krungsri Equity Fund, and SCB Equity Fund.
@@ -125,10 +124,9 @@ A: Morningstar Awards are typically announced annually. Current fund ratings, in
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
-
-
-*Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*
+- [Morningstar Thailand 2026: Top 3 Funds Outperform by 15% in Returns](/en/funds/morningstar-thailand-2026-top-3-funds-outperform-by-15-in-returns-en/)
+- [Morningstar Thailand 2026 Awards: Fund X''s 15% Lead Over Its Peer Group](/en/funds/morningstar-thailand-2026-awards-fund-xs-15-lead-over-its-peer-group-en/)
+- [OAKM: Morningstar Names This Active ETF a Top Pick for 2026, Citing 15% Growth.](/en/funds/oakm-morningstar-names-this-active-etf-a-top-pick-for-2026-citing-15-growth-en/)
 
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

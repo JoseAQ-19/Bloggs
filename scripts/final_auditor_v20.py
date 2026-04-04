@@ -5,8 +5,10 @@ import re
 import frontmatter
 
 def final_audit():
-    content_dir = 'content'
-    files = glob.glob(f'{content_dir}/**/*.md', recursive=True)
+    with open('FINAL_AUDIT_REPORT.log', 'w', encoding='utf-8') as report:
+        report.write("🚀 Iniciando Auditoría Técnica Final (Modo Google Reviewer)...\n")
+        content_dir = 'content'
+        files = glob.glob(f'{content_dir}/**/*.md', recursive=True)
     
     issues = []
     
@@ -116,19 +118,29 @@ def final_audit():
             issues.append(f"[SYSTEM_ERROR] Could not process {filepath}: {e}")
 
     # 6. Legal Pages Operational Check
-    legal_required = ['content/es/terminos.md', 'content/en/terms-of-service.md']
+    legal_required = ['content/es/terms-of-service.md', 'content/en/terms-of-service.md', 'content/es/privacy.md', 'content/en/privacy.md']
     for lp in legal_required:
         if not os.path.exists(lp):
             issues.append(f"[LEGAL_ERROR] Missing critical legal page: {lp}")
 
+    # Report errors
+    with open('FINAL_AUDIT_REPORT.log', 'a', encoding='utf-8') as f:
+        if issues:
+            f.write("\n🔴 NO-GO: Se han detectado errores críticos:\n")
+            for err in issues:
+                f.write(f"  {err}\n")
+        else:
+            f.write("\n🟢 GO DEFINITIVO: Todos los checkpoints de contenido han pasado.\n")
+
     return issues
 
 if __name__ == "__main__":
-    print("🚀 Iniciando Auditoría Técnica Final (Modo Google Reviewer)...")
+    # Evitar emojis y acentos para compatibilidad con consolas Windows cp1252
+    print("[AUDIT] Iniciando Auditoria Tecnica Final (Modo Google Reviewer)...")
     errors = final_audit()
     if errors:
-        print("\n🔴 NO-GO: Se han detectado errores críticos:")
+        print("\n[NO-GO] Se han detectado errores criticos:")
         for err in errors:
             print(f"  {err}")
     else:
-        print("\n🟢 GO DEFINITIVO: Todos los checkpoints de contenido han pasado.")
+        print("\n[GO] Todos los checkpoints de contenido han pasado.")

@@ -17,7 +17,6 @@ title: RE VC Adds Siderow as Senior Advisor; Targeting 15% Growth in Real Estate
 translationKey: bd77d130-636e-9c84-8d58-40c30db61a47
 type: funds
 ---
-
 ## Executive Summary
 * author: Junior Writer
 
@@ -105,10 +104,9 @@ Moreover, the real estate tech sector is characterized by long investment cycles
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
-
-
-*Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*
+- [Morningstar Thailand Awards 2026: Top 5 Funds Outperforming with Over 12%](/en/funds/morningstar-thailand-awards-2026-top-5-funds-outperforming-with-over-12-returns-en/)
+- [Morningstar Thailand Awards 2026: Identifying Top Funds in a Challenging Market](/en/funds/morningstar-thailand-awards-2026-identifying-top-funds-in-a-challenging-market-en/)
+- [Fluent Financial LLC Invests $10 Million in Morningstar, Inc. $MORN](/en/funds/fluent-financial-llc-invests-10-million-in-morningstar-inc-morn-en/)
 
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

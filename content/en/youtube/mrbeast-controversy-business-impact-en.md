@@ -17,7 +17,6 @@ title: MrBeast's Empire Crumbles? Views Plunge 50% As Controversy Swirls
 translationKey: 9c1287e5-0c75-81c9-3c8e-974b7fa64fe2
 type: youtube
 ---
-
 ## Executive Summary
 * ![MrBeast's Empire Crumbles? Views Plunge 50% As Controversy Swirls](/images/mrbeast-controversy-business-impact-en.jpg)
 
@@ -79,10 +78,9 @@ Creators must diversify revenue streams beyond YouTube ad revenue and focus on b
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
-
-
-*Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*
+- [YouTube's $40.4 Billion Ad Empire Topples Disney, Paramount, WBD Combined In](/en/youtube/youtube-ad-revenue-disney-paramount-wbd-en/)
+- [The Hidden Truth About K-Pop YouTube Revenue: $650 Million Surge in 2021](/en/youtube/inside-the-global-k-pop-phenomenon-the-power-of-youtube-creators-and-fans-en/)
+- [$6 Million Verdict Shatters Meta and YouTube’s Facade of User Safety](/en/youtube/meta-and-youtube-found-guilty-the-6-million-verdict-shaking-big-tech-en/)
 
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

@@ -18,7 +18,6 @@ title: 'Morningstar Thailand Awards 2026: Recognizing Investing Excellence, Key 
 translationKey: d63390e0-69f3-f71f-1cab-070c455cbc8a
 type: funds
 ---
-
 ## Executive Summary
 * ![Morningstar Thailand Awards 2026: Recognizing Investing Excellence, Key Winners Highlighted](/images/morningstar-thailand-awards-2026-recognizing-investing-excellence-key-winners-hi-en.jpg)
 
@@ -97,10 +96,9 @@ The Morningstar Thailand Awards 2026 are a testament to the growing investment e
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
-
-
-*Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*
+- [Morningstar Selects 5 Asia Funds Poised for 2026 Growth](/en/funds/morningstar-selects-5-asia-funds-poised-for-2026-growth-en/)
+- [5 Handpicked Asia Funds by Morningstar Projected to Outperform by 15% in 2026](/en/funds/5-handpicked-asia-funds-by-morningstar-projected-to-outperform-by-15-in-2026-en/)
+- [5-Star Fund Balances Income and Volatility: Top Morningstar Pick for 2026](/en/funds/5-star-fund-balances-income-and-volatility-top-morningstar-pick-for-2026-en/)
 
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

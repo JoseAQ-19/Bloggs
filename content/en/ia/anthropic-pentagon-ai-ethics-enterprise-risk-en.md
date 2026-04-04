@@ -17,7 +17,6 @@ title: 'Anthropic Just Broke Trust: The Pentagon Fallout Nobody Is Talking About
 translationKey: ceeecf73-af25-99d2-a4cc-8953cab3341f
 type: ia
 ---
-
 ## Executive Summary
 * ![Anthropic Just Broke Trust: The Pentagon Fallout Nobody Is Talking About](/images/anthropic-pentagon-ai-ethics-enterprise-risk-en.jpg)
 
@@ -80,10 +79,9 @@ Trust, but verify... especially with AI.
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
+- [Claude''s $1B Code Hype: Advanced Devs Should Fear This Truth](/en/ia/anthropic-claude-code-2026-reality-check-en/)
+- [Perplexity''s $200 Computer AI: 80% Of Companies To Use AI, But At What Cost?](/en/ia/perplexity-ai-computer-overkill-future-en/)
+- [The Future Is Dystopian And It Is Already Here](/en/ia/el-futuro-es-distopico-y-ya-esta-aqui/)
 
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*
-
-
-*Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

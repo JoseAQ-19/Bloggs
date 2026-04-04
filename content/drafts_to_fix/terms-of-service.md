@@ -14,7 +14,6 @@ title: 'The Silicon Perimeter: Architecture, Compute Economics, and the Governan
 translationKey: terms-of-service
 url: /es/terms-of-service/
 ---
-
 ## Resumen Ejecutivo
 - The governance of AI systems is shifting from abstract ethics to concrete technical constraints defined by hardware-bound Terms of Service (TOS) and compute availability.
 - The distinction between 'Open Weights' (Llama-3.1) and 'Open Source' (OSI compliant) is critical for understanding the legal and technical risks of deploying at the 405B parameter scale.
@@ -85,15 +84,3 @@ If a model is trained on its own output, does it 'own' the resulting logic? Can 
 The Terms of Service for the AI era are not a static document but a dynamic interface between legal requirements and compute availability. As we move into the Blackwell era, we will see a further divergence between 'Private AI' (hosted on-prem, governed by internal rules) and 'Public AI' (hosted by the giants, governed by restrictive TOS). 
 
 Users and developers must recognize that they are not just 'using a website'; they are participating in a massive, capital-intensive experiment in mathematical probability. The cost of admission is your data, and the price of failure is a 'hallucination' that could have real-world consequences. We must demand transparency not just in the legalese, but in the weights, the training data, and the hardware that powers it all.
-
-## Methodology and Sources
-This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
-
-## Related Articles
-- [Explore our complete section](/en/) 
-
-
-*Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*
-
-
-*Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

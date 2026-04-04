@@ -17,7 +17,6 @@ title: 'Mutual Fund Fees Stick Near Historic Lows: A 2025 Analysis'
 translationKey: f51c48eb-b8e5-17a1-8ea9-126ac31ff32d
 type: funds
 ---
-
 ## Executive Summary
 In 2025, mutual fund fees remained at historic lows, with 71% of funds maintaining reduced expense ratios. The average expense ratio for actively managed funds was reported at 0.38%, while index funds offered even lower fees, averaging 0.11%. This trend reflects increasing competition among fund providers and a growing preference for low-cost index funds. However, as investors become more fee-conscious—57% consider fees the top factor in fund selection—experts suggest that the pressure for further fee reductions may intensify in the coming years. This analysis examines the implications of low fees, factors influencing fee structures, and strategies for investors navigating this evolving landscape.
 
@@ -84,10 +83,9 @@ The continued maintenance of historically low fees in the mutual fund industry p
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
-
-
-*Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*
+- [Vanguard Slashes Fees on 53 Funds: Is Your Portfolio Getting a Break?](/en/funds/vanguard-slashes-fees-on-53-funds-is-your-portfolio-getting-a-break-en/)
+- [Morningstar Awards for Investing Excellence Thailand 2026: Evaluating the](/en/funds/morningstar-awards-for-investing-excellence-thailand-2026-evaluating-the-top-3-f-en/)
+- [OAKM: Morningstar Names This Active ETF a Top Pick for 2026, Citing 15% Growth.](/en/funds/oakm-morningstar-names-this-active-etf-a-top-pick-for-2026-citing-15-growth-en/)
 
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

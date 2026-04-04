@@ -17,7 +17,6 @@ title: 'Eddie Hearn SHOCKED: Is KSI''s Nice Guy Act Hiding A Financial Disaster?
 translationKey: fc3b7265-f2a9-308b-e8ee-0af68ed92141
 type: youtube
 ---
-
 ## Executive Summary
 * ![Eddie Hearn SHOCKED: Is KSI's Nice Guy Act Hiding A Financial Disaster?](/images/ksi-sidemen-fc-business-analysis-en.jpg)
 
@@ -80,10 +79,9 @@ Watch the ledger.
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
 
 ## Related Articles
-- [Explore our complete section](/en/) 
-
-
-*Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*
+- [MrBeast's Empire Crumbles? Views Plunge 50% As Controversy Swirls](/en/youtube/mrbeast-controversy-business-impact-en/)
+- [YouTube’s $40B Ad Empire DWARFS Disney, WBD, And Paramount. What Happens When](/en/youtube/youtube-ad-revenue-vs-disney-paramount-wbd-en/)
+- [SunnyV2''s Downfall: The $50 Million Mistake Every Influencer Should Fear](/en/youtube/sunnyv2-youtube-downfall-accountability-en/)
 
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

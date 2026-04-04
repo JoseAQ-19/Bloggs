@@ -1,0 +1,1790 @@
+FAIL: Double disclaimer in drafts_to_fix/terms-of-service.md
+FAIL: Truncated content (no ending punctuation) in drafts_to_fix/terms-of-service.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in drafts_to_fix/terms-of-service.md
+FAIL: Double disclaimer in en/about.md
+FAIL: Truncated content (no ending punctuation) in en/about.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/about.md
+FAIL: Double disclaimer in en/contact.md
+FAIL: Truncated content (no ending punctuation) in en/contact.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/contact.md
+FAIL: Double disclaimer in en/privacy.md
+FAIL: Truncated content (no ending punctuation) in en/privacy.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/privacy.md
+FAIL: Double disclaimer in en/terms-of-service.md
+FAIL: Truncated content (no ending punctuation) in en/terms-of-service.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/terms-of-service.md
+FAIL: Double disclaimer in en/crypto/aave-whale-50m-wipeout-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/aave-whale-50m-wipeout-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/aave-whale-50m-wipeout-en.md
+FAIL: Double disclaimer in en/crypto/bitcoin-55k-support-onchain-analysis-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/bitcoin-55k-support-onchain-analysis-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/bitcoin-55k-support-onchain-analysis-en.md
+FAIL: Double disclaimer in en/crypto/bitcoin-71k-onchain-analysis-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/bitcoin-71k-onchain-analysis-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/bitcoin-71k-onchain-analysis-en.md
+FAIL: Double disclaimer in en/crypto/bitcoin-90k-options-rebound-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/bitcoin-90k-options-rebound-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/bitcoin-90k-options-rebound-en.md
+FAIL: Double disclaimer in en/crypto/bitcoin-bottom-onchain-analysis-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/bitcoin-bottom-onchain-analysis-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/bitcoin-bottom-onchain-analysis-en.md
+FAIL: Double disclaimer in en/crypto/bitcoin-ha-muerto-y-esta-vez-es-para-siempre-autop.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/bitcoin-ha-muerto-y-esta-vez-es-para-siempre-autop.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/bitcoin-ha-muerto-y-esta-vez-es-para-siempre-autop.md
+FAIL: Double disclaimer in en/crypto/bitcoin-on-chain-analysis-bull-run-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/bitcoin-on-chain-analysis-bull-run-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/bitcoin-on-chain-analysis-bull-run-en.md
+FAIL: Double disclaimer in en/crypto/bitcoin-onchain-analysis-willy-woo-market-sentiment-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/bitcoin-onchain-analysis-willy-woo-market-sentiment-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/bitcoin-onchain-analysis-willy-woo-market-sentiment-en.md
+FAIL: Double disclaimer in en/crypto/bitcoin-rally-stablecoin-exodus-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/bitcoin-rally-stablecoin-exodus-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/bitcoin-rally-stablecoin-exodus-en.md
+FAIL: Double disclaimer in en/crypto/bitcoin-soars-near-74000-whats-driving-the-memecoin-mania-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/bitcoin-soars-near-74000-whats-driving-the-memecoin-mania-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/bitcoin-soars-near-74000-whats-driving-the-memecoin-mania-en.md
+FAIL: Double disclaimer in en/crypto/bitcoin-stop-loss-cascade-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/bitcoin-stop-loss-cascade-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/bitcoin-stop-loss-cascade-en.md
+FAIL: Double disclaimer in en/crypto/bitcoin-surge-analysis-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/bitcoin-surge-analysis-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/bitcoin-surge-analysis-en.md
+FAIL: Double disclaimer in en/crypto/blockchain-private-credit-revolution-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/blockchain-private-credit-revolution-en.md: ends with der.*
+FAIL: Double disclaimer in en/crypto/clarity-act-jpmorgan-crypto-risk-2026-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/clarity-act-jpmorgan-crypto-risk-2026-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/clarity-act-jpmorgan-crypto-risk-2026-en.md
+FAIL: Double disclaimer in en/crypto/clarity-act-stablecoin-yields-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/clarity-act-stablecoin-yields-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/clarity-act-stablecoin-yields-en.md
+FAIL: Double disclaimer in en/crypto/clarity-act-stalls-crypto-regulation-limbo-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/clarity-act-stalls-crypto-regulation-limbo-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/clarity-act-stalls-crypto-regulation-limbo-en.md
+FAIL: Double disclaimer in en/crypto/crypto-atm-minnesota-ban-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/crypto-atm-minnesota-ban-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/crypto-atm-minnesota-ban-en.md
+FAIL: Spanish bleed found in EN file en/crypto/crypto-class-adapting-to-a-new-era-of-digital-currency-en.md: 'El'
+FAIL: Double disclaimer in en/crypto/crypto-class-adapting-to-a-new-era-of-digital-currency-en.md
+FAIL: AI trace 'In conclusion' found in en/crypto/crypto-class-adapting-to-a-new-era-of-digital-currency-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/crypto-class-adapting-to-a-new-era-of-digital-currency-en.md: ends with der.*
+FAIL: Double disclaimer in en/crypto/crypto-coin-takes-a-bite-out-of-us-treasuries-whats-behind-the-trend-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/crypto-coin-takes-a-bite-out-of-us-treasuries-whats-behind-the-trend-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/crypto-coin-takes-a-bite-out-of-us-treasuries-whats-behind-the-trend-en.md
+FAIL: Double disclaimer in en/crypto/crypto-institutional-adoption-2025-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/crypto-institutional-adoption-2025-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/crypto-institutional-adoption-2025-en.md
+FAIL: Double disclaimer in en/crypto/crypto-market-manipulation-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/crypto-market-manipulation-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/crypto-market-manipulation-en.md
+FAIL: Double disclaimer in en/crypto/crypto-treasury-yield-arbitrage-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/crypto-treasury-yield-arbitrage-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/crypto-treasury-yield-arbitrage-en.md
+FAIL: Double disclaimer in en/crypto/cryptocom-cuts-deep-12-layoffs-amid-ai-urgency-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/cryptocom-cuts-deep-12-layoffs-amid-ai-urgency-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/cryptocom-cuts-deep-12-layoffs-amid-ai-urgency-en.md
+FAIL: Double disclaimer in en/crypto/cryptos-devotees-fight-for-respect-in-a-skeptical-world-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/cryptos-devotees-fight-for-respect-in-a-skeptical-world-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/cryptos-devotees-fight-for-respect-in-a-skeptical-world-en.md
+FAIL: Double disclaimer in en/crypto/digital-assets-2025-turning-point-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/digital-assets-2025-turning-point-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/digital-assets-2025-turning-point-en.md
+FAIL: Double disclaimer in en/crypto/ethereum-hegota-upgrade-validator-revolt-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/ethereum-hegota-upgrade-validator-revolt-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/ethereum-hegota-upgrade-validator-revolt-en.md
+FAIL: Double disclaimer in en/crypto/fannie-mae-crypto-backed-mortgages-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/fannie-mae-crypto-backed-mortgages-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/fannie-mae-crypto-backed-mortgages-en.md
+FAIL: Double disclaimer in en/crypto/fannie-mae-embraces-crypto-the-future-of-home-loans-is-here-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/fannie-mae-embraces-crypto-the-future-of-home-loans-is-here-en.md: ends with der.*
+FAIL: Double disclaimer in en/crypto/gen-z-millionaires-dive-into-crypto-is-fomo-driving-their-risky-bets-en.md
+FAIL: AI trace 'In conclusion' found in en/crypto/gen-z-millionaires-dive-into-crypto-is-fomo-driving-their-risky-bets-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/gen-z-millionaires-dive-into-crypto-is-fomo-driving-their-risky-bets-en.md: ends with der.*
+FAIL: Double disclaimer in en/crypto/god-faith-and-bitcoin-the-rise-of-crypto-among-christians-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/god-faith-and-bitcoin-the-rise-of-crypto-among-christians-en.md: ends with der.*
+FAIL: Double disclaimer in en/crypto/grayscale-crypto-brokerage-etf-outflows-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/grayscale-crypto-brokerage-etf-outflows-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/grayscale-crypto-brokerage-etf-outflows-en.md
+FAIL: Double disclaimer in en/crypto/hidden-bitcoin-risk-bottom-signal-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/hidden-bitcoin-risk-bottom-signal-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/hidden-bitcoin-risk-bottom-signal-en.md
+FAIL: Double disclaimer in en/crypto/hyperliquid-74m-liquidation-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/hyperliquid-74m-liquidation-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/hyperliquid-74m-liquidation-en.md
+FAIL: Double disclaimer in en/crypto/hyperliquid-volumes-bitcoin-weakness-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/hyperliquid-volumes-bitcoin-weakness-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/hyperliquid-volumes-bitcoin-weakness-en.md
+FAIL: Double disclaimer in en/crypto/iran-crypto-sanctions-binance-doj-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/iran-crypto-sanctions-binance-doj-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/iran-crypto-sanctions-binance-doj-en.md
+FAIL: Double disclaimer in en/crypto/iranian-crypto-exodus-on-chain-data-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/iranian-crypto-exodus-on-chain-data-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/iranian-crypto-exodus-on-chain-data-en.md
+FAIL: Double disclaimer in en/crypto/iranian-crypto-outflow-airstrikes-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/iranian-crypto-outflow-airstrikes-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/iranian-crypto-outflow-airstrikes-en.md
+FAIL: Double disclaimer in en/crypto/jamie-dimons-bold-claim-are-crypto-tokens-just-decentralized-ponzi-schemes-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/jamie-dimons-bold-claim-are-crypto-tokens-just-decentralized-ponzi-schemes-en.md: ends with der.*
+FAIL: Double disclaimer in en/crypto/kazakhstan-sovereign-wealth-crypto-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/kazakhstan-sovereign-wealth-crypto-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/kazakhstan-sovereign-wealth-crypto-en.md
+FAIL: Spanish bleed found in EN file en/crypto/kraken-fed-access-crypto-implications-en.md: 'El'
+FAIL: Double disclaimer in en/crypto/kraken-fed-access-crypto-implications-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/kraken-fed-access-crypto-implications-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/kraken-fed-access-crypto-implications-en.md
+FAIL: Double disclaimer in en/crypto/layerzero-trending-zero-blockchain-institutional-interest-market-dynamics-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/layerzero-trending-zero-blockchain-institutional-interest-market-dynamics-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/layerzero-trending-zero-blockchain-institutional-interest-market-dynamics-en.md
+FAIL: Double disclaimer in en/crypto/mastercard-crypto-payments-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/mastercard-crypto-payments-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/mastercard-crypto-payments-en.md
+FAIL: Double disclaimer in en/crypto/metamask-gas-fees-guide-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/metamask-gas-fees-guide-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/metamask-gas-fees-guide-en.md
+FAIL: Double disclaimer in en/crypto/metaverse-meltdown-crypto-vr-failure-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/metaverse-meltdown-crypto-vr-failure-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/metaverse-meltdown-crypto-vr-failure-en.md
+FAIL: Double disclaimer in en/crypto/oil-futures-crypto-obsession-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/oil-futures-crypto-obsession-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/oil-futures-crypto-obsession-en.md
+FAIL: Double disclaimer in en/crypto/okx-valuation-regulatory-litmus-test-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/okx-valuation-regulatory-litmus-test-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/okx-valuation-regulatory-litmus-test-en.md
+FAIL: Double disclaimer in en/crypto/on-chain-analysis-undervalued-cryptocurrencies-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/on-chain-analysis-undervalued-cryptocurrencies-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/on-chain-analysis-undervalued-cryptocurrencies-en.md
+FAIL: Double disclaimer in en/crypto/openclaw-crypto-wallet-phishing-attack-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/openclaw-crypto-wallet-phishing-attack-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/openclaw-crypto-wallet-phishing-attack-en.md
+FAIL: Double disclaimer in en/crypto/phishing-alert-openclaw-developers-fall-victim-to-crypto-wallet-scam-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/phishing-alert-openclaw-developers-fall-victim-to-crypto-wallet-scam-en.md: ends with der.*
+FAIL: Double disclaimer in en/crypto/russia-crypto-exchange-sanctions-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/russia-crypto-exchange-sanctions-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/russia-crypto-exchange-sanctions-en.md
+FAIL: Double disclaimer in en/crypto/scammers-thrive-in-nevadas-unregulated-crypto-kiosks-aarp-sounds-the-alarm-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/scammers-thrive-in-nevadas-unregulated-crypto-kiosks-aarp-sounds-the-alarm-en.md: ends with der.*
+FAIL: Double disclaimer in en/crypto/sec-crypto-policy-shift-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/sec-crypto-policy-shift-en.md: ends with der.*
+FAIL: Double disclaimer in en/crypto/sec-declares-bitcoin-ether-and-solana-as-digital-commodities-what-it-means-for-the-crypto-landscape-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/sec-declares-bitcoin-ether-and-solana-as-digital-commodities-what-it-means-for-the-crypto-landscape-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/sec-declares-bitcoin-ether-and-solana-as-digital-commodities-what-it-means-for-the-crypto-landscape-en.md
+FAIL: Double disclaimer in en/crypto/sec-enforcement-crypto-regulation-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/sec-enforcement-crypto-regulation-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/sec-enforcement-crypto-regulation-en.md
+FAIL: Double disclaimer in en/crypto/sec-vs-crypto-will-regulatory-chaos-crush-the-industry-if-the-clarity-bill-fails-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/sec-vs-crypto-will-regulatory-chaos-crush-the-industry-if-the-clarity-bill-fails-en.md: ends with der.*
+FAIL: Double disclaimer in en/crypto/secs-bold-move-defining-the-boundaries-of-crypto-securities-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/secs-bold-move-defining-the-boundaries-of-crypto-securities-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/secs-bold-move-defining-the-boundaries-of-crypto-securities-en.md
+FAIL: Double disclaimer in en/crypto/secs-new-guidance-what-it-means-for-your-crypto-investments-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/secs-new-guidance-what-it-means-for-your-crypto-investments-en.md: ends with der.*
+FAIL: Double disclaimer in en/crypto/stablecoin-cbdc-congress-lobbying-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/stablecoin-cbdc-congress-lobbying-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/stablecoin-cbdc-congress-lobbying-en.md
+FAIL: Spanish bleed found in EN file en/crypto/stablecoin-treasury-risk-2024-en.md: 'La'
+FAIL: Double disclaimer in en/crypto/stablecoin-treasury-risk-2024-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/stablecoin-treasury-risk-2024-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/stablecoin-treasury-risk-2024-en.md
+FAIL: Double disclaimer in en/crypto/the-rise-of-digital-credit-a-new-leverage-tool-for-crypto-treasuries-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/the-rise-of-digital-credit-a-new-leverage-tool-for-crypto-treasuries-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/the-rise-of-digital-credit-a-new-leverage-tool-for-crypto-treasuries-en.md
+FAIL: Double disclaimer in en/crypto/trump-crypto-policies-kushner-benefit-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/trump-crypto-policies-kushner-benefit-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/trump-crypto-policies-kushner-benefit-en.md
+FAIL: Double disclaimer in en/crypto/why-is-berachain-trending-today-in-crypto-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/why-is-berachain-trending-today-in-crypto-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/why-is-berachain-trending-today-in-crypto-en.md
+FAIL: Double disclaimer in en/crypto/wisconsin-banks-crypto-staking-risks-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/wisconsin-banks-crypto-staking-risks-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/wisconsin-banks-crypto-staking-risks-en.md
+FAIL: Double disclaimer in en/crypto/wisconsin-crypto-staking-debate-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/wisconsin-crypto-staking-debate-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/crypto/wisconsin-crypto-staking-debate-en.md
+FAIL: Truncated content (no ending punctuation) in en/crypto/_index.md: ends with ons.*
+FAIL: Double disclaimer in en/fitness/71-year-old-grandmother-stuns-as-finalist-in-national-fitness-competition-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/71-year-old-grandmother-stuns-as-finalist-in-national-fitness-competition-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/71-year-old-grandmother-stuns-as-finalist-in-national-fitness-competition-en.md
+FAIL: Spanish bleed found in EN file en/fitness/76-and-thriving-how-one-man-defies-age-with-daily-muscle-ups-en.md: 'LA'
+FAIL: Double disclaimer in en/fitness/76-and-thriving-how-one-man-defies-age-with-daily-muscle-ups-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/76-and-thriving-how-one-man-defies-age-with-daily-muscle-ups-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/76-and-thriving-how-one-man-defies-age-with-daily-muscle-ups-en.md
+FAIL: Double disclaimer in en/fitness/ai-fitness-form-correction-effectiveness-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/ai-fitness-form-correction-effectiveness-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/ai-fitness-form-correction-effectiveness-en.md
+FAIL: Double disclaimer in en/fitness/air-force-fitness-overhaul-hidden-risks-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/air-force-fitness-overhaul-hidden-risks-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/air-force-fitness-overhaul-hidden-risks-en.md
+FAIL: Double disclaimer in en/fitness/amazon-fitness-deals-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/amazon-fitness-deals-en.md: ends with ons.*
+FAIL: Double disclaimer in en/fitness/apple-fitness-chief-jay-blahnik-steps-down-what-this-means-for-the-future-of-fitness-tech-en.md
+FAIL: AI trace 'In conclusion' found in en/fitness/apple-fitness-chief-jay-blahnik-steps-down-what-this-means-for-the-future-of-fitness-tech-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/apple-fitness-chief-jay-blahnik-steps-down-what-this-means-for-the-future-of-fitness-tech-en.md: ends with ons.*
+FAIL: Double disclaimer in en/fitness/apple-fitness-plus-postpartum-recovery-workouts-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/apple-fitness-plus-postpartum-recovery-workouts-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/apple-fitness-plus-postpartum-recovery-workouts-en.md
+FAIL: Double disclaimer in en/fitness/apples-fitness-chief-steps-down-amid-controversy-whats-next-for-the-brand-en.md
+FAIL: AI trace 'In conclusion' found in en/fitness/apples-fitness-chief-steps-down-amid-controversy-whats-next-for-the-brand-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/apples-fitness-chief-steps-down-amid-controversy-whats-next-for-the-brand-en.md: ends with ons.*
+FAIL: Double disclaimer in en/fitness/azzi-fudd-planet-fitness-athlete-recovery-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/azzi-fudd-planet-fitness-athlete-recovery-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/azzi-fudd-planet-fitness-athlete-recovery-en.md
+FAIL: Spanish bleed found in EN file en/fitness/bates-college-fitness-center-overhaul-en.md: 'Los'
+FAIL: Double disclaimer in en/fitness/bates-college-fitness-center-overhaul-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/bates-college-fitness-center-overhaul-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/bates-college-fitness-center-overhaul-en.md
+FAIL: Double disclaimer in en/fitness/beyond-vo2-max-better-biomarkers-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/beyond-vo2-max-better-biomarkers-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/beyond-vo2-max-better-biomarkers-en.md
+FAIL: Double disclaimer in en/fitness/bodyweight-isometrics-hypertrophy-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/bodyweight-isometrics-hypertrophy-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/bodyweight-isometrics-hypertrophy-en.md
+FAIL: Double disclaimer in en/fitness/clovis-planet-fitness-reopens-what-you-need-to-know-after-the-safety-closure-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/clovis-planet-fitness-reopens-what-you-need-to-know-after-the-safety-closure-en.md: ends with ons.*
+FAIL: Double disclaimer in en/fitness/daniel-radcliffe-muscle-ozempic-hollywood-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/daniel-radcliffe-muscle-ozempic-hollywood-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/daniel-radcliffe-muscle-ozempic-hollywood-en.md
+FAIL: Double disclaimer in en/fitness/data-integration-wearable-fitness-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/data-integration-wearable-fitness-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/data-integration-wearable-fitness-en.md
+FAIL: Double disclaimer in en/fitness/ex-abercrombie-ceos-prison-tapes-spark-controversy-over-trial-fitness-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/ex-abercrombie-ceos-prison-tapes-spark-controversy-over-trial-fitness-en.md: ends with ons.*
+FAIL: Spanish bleed found in EN file en/fitness/fau-students-unite-for-march-into-fitness-celebration-on-campus-en.md: 'Las'
+FAIL: Double disclaimer in en/fitness/fau-students-unite-for-march-into-fitness-celebration-on-campus-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/fau-students-unite-for-march-into-fitness-celebration-on-campus-en.md: ends with ons.*
+FAIL: Double disclaimer in en/fitness/fitness-center-homicide-security-liability-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/fitness-center-homicide-security-liability-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/fitness-center-homicide-security-liability-en.md
+FAIL: Double disclaimer in en/fitness/fitness-fraud-influencer-injury-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/fitness-fraud-influencer-injury-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/fitness-fraud-influencer-injury-en.md
+FAIL: Double disclaimer in en/fitness/fitness-influencer-deaths-accountability-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/fitness-influencer-deaths-accountability-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/fitness-influencer-deaths-accountability-en.md
+FAIL: Double disclaimer in en/fitness/fitness-influencer-deaths-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/fitness-influencer-deaths-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/fitness-influencer-deaths-en.md
+FAIL: Double disclaimer in en/fitness/fitness-influencer-deaths-steroids-cardiac-arrest-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/fitness-influencer-deaths-steroids-cardiac-arrest-en.md: ends with ons.*
+FAIL: Double disclaimer in en/fitness/fitness-ma-boom-2025-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/fitness-ma-boom-2025-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/fitness-ma-boom-2025-en.md
+FAIL: Double disclaimer in en/fitness/fitness-tracker-accuracy-privacy-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/fitness-tracker-accuracy-privacy-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/fitness-tracker-accuracy-privacy-en.md
+FAIL: Double disclaimer in en/fitness/from-pop-star-to-fitness-guru-ashley-parker-angels-inspiring-new-journey-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/from-pop-star-to-fitness-guru-ashley-parker-angels-inspiring-new-journey-en.md: ends with ons.*
+FAIL: Double disclaimer in en/fitness/gamified-fitness-fundraising-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/gamified-fitness-fundraising-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/gamified-fitness-fundraising-en.md
+FAIL: Double disclaimer in en/fitness/get-fit-with-fun-ronymes-game-changing-weighted-hula-hoop-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/get-fit-with-fun-ronymes-game-changing-weighted-hula-hoop-en.md: ends with ons.*
+FAIL: Double disclaimer in en/fitness/get-fit-with-the-latest-military-fitness-tests-set-for-2026-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/get-fit-with-the-latest-military-fitness-tests-set-for-2026-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/get-fit-with-the-latest-military-fitness-tests-set-for-2026-en.md
+FAIL: Double disclaimer in en/fitness/gym-safety-in-question-planet-fitness-employee-attacked-in-wyncote-en.md
+FAIL: AI trace 'In conclusion' found in en/fitness/gym-safety-in-question-planet-fitness-employee-attacked-in-wyncote-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/gym-safety-in-question-planet-fitness-employee-attacked-in-wyncote-en.md: ends with ons.*
+FAIL: Double disclaimer in en/fitness/gym-security-vulnerabilities-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/gym-security-vulnerabilities-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/gym-security-vulnerabilities-en.md
+FAIL: Double disclaimer in en/fitness/harvard-study-heart-health-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/harvard-study-heart-health-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/harvard-study-heart-health-en.md
+FAIL: Double disclaimer in en/fitness/home-gyms-recovery-zones-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/home-gyms-recovery-zones-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/home-gyms-recovery-zones-en.md
+FAIL: Double disclaimer in en/fitness/how-ai-is-revolutionizing-your-gym-experience-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/how-ai-is-revolutionizing-your-gym-experience-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/how-ai-is-revolutionizing-your-gym-experience-en.md
+FAIL: Double disclaimer in en/fitness/hyrox-revolution-why-this-new-fitness-trend-is-captivating-the-industry-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/hyrox-revolution-why-this-new-fitness-trend-is-captivating-the-industry-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/hyrox-revolution-why-this-new-fitness-trend-is-captivating-the-industry-en.md
+FAIL: Double disclaimer in en/fitness/is-planet-fitness-stock-about-to-bounce-back-investors-weigh-in-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/is-planet-fitness-stock-about-to-bounce-back-investors-weigh-in-en.md: ends with ons.*
+FAIL: Double disclaimer in en/fitness/jo-dee-messina-fitness-transformation-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/jo-dee-messina-fitness-transformation-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/jo-dee-messina-fitness-transformation-en.md
+FAIL: Double disclaimer in en/fitness/kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm-en.md
+FAIL: Double disclaimer in en/fitness/lancaster-gyms-women-of-color-fitness-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/lancaster-gyms-women-of-color-fitness-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/lancaster-gyms-women-of-color-fitness-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/leucine-atherosclerosis-risk-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/leucine-atherosclerosis-risk-en.md
+FAIL: Double disclaimer in en/fitness/lukaku-fitness-fatigue-markers-wearable-tech-injury-prevention-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/lukaku-fitness-fatigue-markers-wearable-tech-injury-prevention-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/lukaku-fitness-fatigue-markers-wearable-tech-injury-prevention-en.md
+FAIL: Double disclaimer in en/fitness/lukaku-omitted-belgium-games-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/lukaku-omitted-belgium-games-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/lukaku-omitted-belgium-games-en.md
+FAIL: Double disclaimer in en/fitness/meet-the-76-year-old-fitness-dynamo-crushing-muscle-ups-daily-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/meet-the-76-year-old-fitness-dynamo-crushing-muscle-ups-daily-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/meet-the-76-year-old-fitness-dynamo-crushing-muscle-ups-daily-en.md
+FAIL: Double disclaimer in en/fitness/metabolic-age-acceleration-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/metabolic-age-acceleration-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/metabolic-age-acceleration-en.md
+FAIL: Double disclaimer in en/fitness/metformin-longevity-hack-or-hype-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/metformin-longevity-hack-or-hype-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/metformin-longevity-hack-or-hype-en.md
+FAIL: Double disclaimer in en/fitness/metformin-longevity-hype-or-hope-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/metformin-longevity-hype-or-hope-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/metformin-longevity-hype-or-hope-en.md
+FAIL: Double disclaimer in en/fitness/methionine-restriction-longevity-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/methionine-restriction-longevity-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/methionine-restriction-longevity-en.md
+FAIL: Double disclaimer in en/fitness/mortality-paradox-fitness-failure-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/mortality-paradox-fitness-failure-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/mortality-paradox-fitness-failure-en.md
+FAIL: Double disclaimer in en/fitness/my-top-picks-the-best-fitness-trackers-i-tested-last-year-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/my-top-picks-the-best-fitness-trackers-i-tested-last-year-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/my-top-picks-the-best-fitness-trackers-i-tested-last-year-en.md
+FAIL: Double disclaimer in en/fitness/natural-bodybuilding-contest-prep-dangers-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/natural-bodybuilding-contest-prep-dangers-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/natural-bodybuilding-contest-prep-dangers-en.md
+FAIL: Double disclaimer in en/fitness/natural-bodybuilding-testosterone-crash-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/natural-bodybuilding-testosterone-crash-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/natural-bodybuilding-testosterone-crash-en.md
+FAIL: Double disclaimer in en/fitness/orangetheory-mls-data-privacy-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/orangetheory-mls-data-privacy-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/orangetheory-mls-data-privacy-en.md
+FAIL: Double disclaimer in en/fitness/oura-ring-sleep-latency-reading-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/oura-ring-sleep-latency-reading-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/oura-ring-sleep-latency-reading-en.md
+FAIL: Double disclaimer in en/fitness/planet-fitness-gives-back-over-100-fitness-equipment-donations-to-communities-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/planet-fitness-gives-back-over-100-fitness-equipment-donations-to-communities-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/planet-fitness-gives-back-over-100-fitness-equipment-donations-to-communities-en.md
+FAIL: Double disclaimer in en/fitness/planet-fitness-growth-strategy-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/planet-fitness-growth-strategy-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/planet-fitness-growth-strategy-en.md
+FAIL: Double disclaimer in en/fitness/planet-fitness-maui-offer-charity-marketing-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/planet-fitness-maui-offer-charity-marketing-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/planet-fitness-maui-offer-charity-marketing-en.md
+FAIL: Double disclaimer in en/fitness/rashford-injury-barcelona-performance-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/rashford-injury-barcelona-performance-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/rashford-injury-barcelona-performance-en.md
+FAIL: Double disclaimer in en/fitness/shocking-stabbing-incident-at-planet-fitness-employee-attacked-by-banned-customer-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/shocking-stabbing-incident-at-planet-fitness-employee-attacked-by-banned-customer-en.md: ends with ons.*
+FAIL: Double disclaimer in en/fitness/silicon-valley-off-duty-police-altercations-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/silicon-valley-off-duty-police-altercations-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/silicon-valley-off-duty-police-altercations-en.md
+FAIL: Double disclaimer in en/fitness/smart-clothing-movement-tracking-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/smart-clothing-movement-tracking-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/smart-clothing-movement-tracking-en.md
+FAIL: Double disclaimer in en/fitness/somatic-fitness-vagus-nerve-stimulation-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/somatic-fitness-vagus-nerve-stimulation-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/somatic-fitness-vagus-nerve-stimulation-en.md
+FAIL: Spanish bleed found in EN file en/fitness/spring-fitness-fails-habits-en.md: 'LA'
+FAIL: Double disclaimer in en/fitness/spring-fitness-fails-habits-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/spring-fitness-fails-habits-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/spring-fitness-fails-habits-en.md
+FAIL: Double disclaimer in en/fitness/st-patricks-day-fitness-waco-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/st-patricks-day-fitness-waco-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/st-patricks-day-fitness-waco-en.md
+FAIL: Double disclaimer in en/fitness/stephanie-buttermore-death-investigation-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/stephanie-buttermore-death-investigation-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/stephanie-buttermore-death-investigation-en.md
+FAIL: Double disclaimer in en/fitness/the-11-minute-cold-war-workout-thats-making-a-comeback-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/the-11-minute-cold-war-workout-thats-making-a-comeback-en.md: ends with ons.*
+FAIL: Double disclaimer in en/fitness/tragedy-strikes-a-fatal-incident-shakes-the-shreveport-planet-fitness-community-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/tragedy-strikes-a-fatal-incident-shakes-the-shreveport-planet-fitness-community-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/tragedy-strikes-a-fatal-incident-shakes-the-shreveport-planet-fitness-community-en.md
+FAIL: Double disclaimer in en/fitness/transform-your-bone-health-top-fitness-gadgets-you-need-to-try-now-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/transform-your-bone-health-top-fitness-gadgets-you-need-to-try-now-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/transform-your-bone-health-top-fitness-gadgets-you-need-to-try-now-en.md
+FAIL: Double disclaimer in en/fitness/upper-chest-hypertrophy-science-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/upper-chest-hypertrophy-science-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/upper-chest-hypertrophy-science-en.md
+FAIL: Double disclaimer in en/fitness/virginia-fitness-influencer-animal-abuse-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/virginia-fitness-influencer-animal-abuse-en.md: ends with ons.*
+FAIL: Double disclaimer in en/fitness/vo2max-plateau-bad-protocol-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/vo2max-plateau-bad-protocol-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/fitness/vo2max-plateau-bad-protocol-en.md
+FAIL: Truncated content (no ending punctuation) in en/fitness/_index.md: ends with ons.*
+FAIL: Double disclaimer in en/funds/5-energy-stocks-surpassing-the-sp-500-by-12-in-2026-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/5-energy-stocks-surpassing-the-sp-500-by-12-in-2026-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/5-energy-stocks-surpassing-the-sp-500-by-12-in-2026-en.md
+FAIL: Double disclaimer in en/funds/5-handpicked-asia-funds-by-morningstar-projected-to-outperform-by-15-in-2026-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/5-handpicked-asia-funds-by-morningstar-projected-to-outperform-by-15-in-2026-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/5-handpicked-asia-funds-by-morningstar-projected-to-outperform-by-15-in-2026-en.md
+FAIL: Double disclaimer in en/funds/5-star-fund-balances-income-and-volatility-top-morningstar-pick-for-2026-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/5-star-fund-balances-income-and-volatility-top-morningstar-pick-for-2026-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/5-star-fund-balances-income-and-volatility-top-morningstar-pick-for-2026-en.md
+FAIL: Double disclaimer in en/funds/blackrock-fund-halts-withdrawals-after-9-redemptions-blk-shares-drop-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/blackrock-fund-halts-withdrawals-after-9-redemptions-blk-shares-drop-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/blackrock-fund-halts-withdrawals-after-9-redemptions-blk-shares-drop-en.md
+FAIL: Double disclaimer in en/funds/fidelity-gold-funds-182-rally-examining-drivers-and-future-prospects-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/fidelity-gold-funds-182-rally-examining-drivers-and-future-prospects-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/fidelity-gold-funds-182-rally-examining-drivers-and-future-prospects-en.md
+FAIL: Double disclaimer in en/funds/fluent-financial-llc-invests-10-million-in-morningstar-inc-morn-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/fluent-financial-llc-invests-10-million-in-morningstar-inc-morn-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/fluent-financial-llc-invests-10-million-in-morningstar-inc-morn-en.md
+FAIL: Double disclaimer in en/funds/fluent-financial-llc-invests-heavily-in-morningstar-inc-morn-surges-by-5-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/fluent-financial-llc-invests-heavily-in-morningstar-inc-morn-surges-by-5-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/fluent-financial-llc-invests-heavily-in-morningstar-inc-morn-surges-by-5-en.md
+FAIL: Double disclaimer in en/funds/hartfords-850-million-fund-downgrade-morningstar-points-to-subadvising-risks-en.md
+FAIL: AI trace 'In conclusion' found in en/funds/hartfords-850-million-fund-downgrade-morningstar-points-to-subadvising-risks-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/hartfords-850-million-fund-downgrade-morningstar-points-to-subadvising-risks-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/hartfords-850-million-fund-downgrade-morningstar-points-to-subadvising-risks-en.md
+FAIL: Double disclaimer in en/funds/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-for-top-honors-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-for-top-honors-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-for-top-honors-en.md
+FAIL: Double disclaimer in en/funds/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-in-thailand-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-in-thailand-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-in-thailand-en.md
+FAIL: Double disclaimer in en/funds/morningstar-awards-2026-pimco-vs-vanguard-dominates-thai-fund-landscape-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/morningstar-awards-2026-pimco-vs-vanguard-dominates-thai-fund-landscape-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/morningstar-awards-2026-pimco-vs-vanguard-dominates-thai-fund-landscape-en.md
+FAIL: Double disclaimer in en/funds/morningstar-awards-2026-thailands-top-5-mutual-funds-revealed-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/morningstar-awards-2026-thailands-top-5-mutual-funds-revealed-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/morningstar-awards-2026-thailands-top-5-mutual-funds-revealed-en.md
+FAIL: Double disclaimer in en/funds/morningstar-awards-for-investing-excellence-thailand-2026-evaluating-the-top-3-f-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/morningstar-awards-for-investing-excellence-thailand-2026-evaluating-the-top-3-f-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/morningstar-awards-for-investing-excellence-thailand-2026-evaluating-the-top-3-f-en.md
+FAIL: Double disclaimer in en/funds/morningstar-awards-thailand-2026-examining-the-top-3-fund-performers-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/morningstar-awards-thailand-2026-examining-the-top-3-fund-performers-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/morningstar-awards-thailand-2026-examining-the-top-3-fund-performers-en.md
+FAIL: Double disclaimer in en/funds/morningstar-awards-thailand-2026-fund-x-outperforms-competitor-y-by-8-en.md
+FAIL: AI trace 'In summary' found in en/funds/morningstar-awards-thailand-2026-fund-x-outperforms-competitor-y-by-8-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/morningstar-awards-thailand-2026-fund-x-outperforms-competitor-y-by-8-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/morningstar-awards-thailand-2026-fund-x-outperforms-competitor-y-by-8-en.md
+FAIL: Double disclaimer in en/funds/morningstar-awards-thailand-2026-funds-surpassing-benchmarks-by-15-en.md
+FAIL: AI trace 'In summary' found in en/funds/morningstar-awards-thailand-2026-funds-surpassing-benchmarks-by-15-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/morningstar-awards-thailand-2026-funds-surpassing-benchmarks-by-15-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/morningstar-awards-thailand-2026-funds-surpassing-benchmarks-by-15-en.md
+FAIL: Double disclaimer in en/funds/morningstar-names-oakm-a-top-active-etf-for-2026-a-5-year-outlook-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/morningstar-names-oakm-a-top-active-etf-for-2026-a-5-year-outlook-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/morningstar-names-oakm-a-top-active-etf-for-2026-a-5-year-outlook-en.md
+FAIL: Spanish bleed found in EN file en/funds/morningstar-outperforms-knockoutstocks-by-5-in-2026s-key-sectors-en.md: 'El'
+FAIL: Double disclaimer in en/funds/morningstar-outperforms-knockoutstocks-by-5-in-2026s-key-sectors-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/morningstar-outperforms-knockoutstocks-by-5-in-2026s-key-sectors-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/morningstar-outperforms-knockoutstocks-by-5-in-2026s-key-sectors-en.md
+FAIL: Double disclaimer in en/funds/morningstar-selects-5-asia-funds-poised-for-2026-growth-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/morningstar-selects-5-asia-funds-poised-for-2026-growth-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/morningstar-selects-5-asia-funds-poised-for-2026-growth-en.md
+FAIL: Double disclaimer in en/funds/morningstar-thailand-2026-awards-fund-xs-15-lead-over-its-peer-group-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/morningstar-thailand-2026-awards-fund-xs-15-lead-over-its-peer-group-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/morningstar-thailand-2026-awards-fund-xs-15-lead-over-its-peer-group-en.md
+FAIL: Double disclaimer in en/funds/morningstar-thailand-2026-top-3-funds-outperform-by-15-in-returns-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/morningstar-thailand-2026-top-3-funds-outperform-by-15-in-returns-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/morningstar-thailand-2026-top-3-funds-outperform-by-15-in-returns-en.md
+FAIL: Double disclaimer in en/funds/morningstar-thailand-awards-2026-identifying-top-funds-in-a-challenging-market-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/morningstar-thailand-awards-2026-identifying-top-funds-in-a-challenging-market-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/morningstar-thailand-awards-2026-identifying-top-funds-in-a-challenging-market-en.md
+FAIL: Double disclaimer in en/funds/morningstar-thailand-awards-2026-recognizing-investing-excellence-key-winners-hi-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/morningstar-thailand-awards-2026-recognizing-investing-excellence-key-winners-hi-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/morningstar-thailand-awards-2026-recognizing-investing-excellence-key-winners-hi-en.md
+FAIL: Double disclaimer in en/funds/morningstar-thailand-awards-2026-top-5-funds-outperforming-with-over-12-returns-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/morningstar-thailand-awards-2026-top-5-funds-outperforming-with-over-12-returns-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/morningstar-thailand-awards-2026-top-5-funds-outperforming-with-over-12-returns-en.md
+FAIL: Double disclaimer in en/funds/morningstars-2026-picks-5-asia-funds-with-15-projected-annual-returns-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/morningstars-2026-picks-5-asia-funds-with-15-projected-annual-returns-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/morningstars-2026-picks-5-asia-funds-with-15-projected-annual-returns-en.md
+FAIL: Double disclaimer in en/funds/morningstars-2026-top-active-etf-oakms-strategy-delivers-outperformance-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/morningstars-2026-top-active-etf-oakms-strategy-delivers-outperformance-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/morningstars-2026-top-active-etf-oakms-strategy-delivers-outperformance-en.md
+FAIL: Double disclaimer in en/funds/mutual-fund-fees-stick-near-historic-lows-a-2025-analysis-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/mutual-fund-fees-stick-near-historic-lows-a-2025-analysis-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/mutual-fund-fees-stick-near-historic-lows-a-2025-analysis-en.md
+FAIL: Double disclaimer in en/funds/oakm-morningstar-names-this-active-etf-a-top-pick-for-2026-citing-15-growth-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/oakm-morningstar-names-this-active-etf-a-top-pick-for-2026-citing-15-growth-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/oakm-morningstar-names-this-active-etf-a-top-pick-for-2026-citing-15-growth-en.md
+FAIL: Double disclaimer in en/funds/re-vc-adds-siderow-as-senior-advisor-targeting-15-growth-in-real-estate-tech-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/re-vc-adds-siderow-as-senior-advisor-targeting-15-growth-in-real-estate-tech-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/re-vc-adds-siderow-as-senior-advisor-targeting-15-growth-in-real-estate-tech-en.md
+FAIL: Double disclaimer in en/funds/sp-500-fund-showdown-voo-vs-spy-with-a-003-expense-ratio-difference-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/sp-500-fund-showdown-voo-vs-spy-with-a-003-expense-ratio-difference-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/sp-500-fund-showdown-voo-vs-spy-with-a-003-expense-ratio-difference-en.md
+FAIL: Double disclaimer in en/funds/t-rowe-price-funds-155-billion-question-a-morningstar-review-analysis-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/t-rowe-price-funds-155-billion-question-a-morningstar-review-analysis-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/t-rowe-price-funds-155-billion-question-a-morningstar-review-analysis-en.md
+FAIL: Double disclaimer in en/funds/top-5-energy-stocks-surpassing-sp-500-returns-by-20-in-2026-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/top-5-energy-stocks-surpassing-sp-500-returns-by-20-in-2026-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/top-5-energy-stocks-surpassing-sp-500-returns-by-20-in-2026-en.md
+FAIL: Double disclaimer in en/funds/vanguard-fee-cuts-save-investors-250-million-in-2026-a-morningstar-analysis-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/vanguard-fee-cuts-save-investors-250-million-in-2026-a-morningstar-analysis-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/vanguard-fee-cuts-save-investors-250-million-in-2026-a-morningstar-analysis-en.md
+FAIL: Double disclaimer in en/funds/vanguard-slashes-fees-investors-to-save-250-million-boosting-returns-by-003-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/vanguard-slashes-fees-investors-to-save-250-million-boosting-returns-by-003-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/vanguard-slashes-fees-investors-to-save-250-million-boosting-returns-by-003-en.md
+FAIL: Double disclaimer in en/funds/vanguard-slashes-fees-on-53-funds-is-your-portfolio-getting-a-break-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/vanguard-slashes-fees-on-53-funds-is-your-portfolio-getting-a-break-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/vanguard-slashes-fees-on-53-funds-is-your-portfolio-getting-a-break-en.md
+FAIL: Double disclaimer in en/funds/vanguard-slashes-fees-on-53-funds-will-001-savings-move-the-needle-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/vanguard-slashes-fees-on-53-funds-will-001-savings-move-the-needle-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/vanguard-slashes-fees-on-53-funds-will-001-savings-move-the-needle-en.md
+FAIL: Double disclaimer in en/funds/vanguard-vymis-10-basis-point-cut-is-sub-025-enough-to-beat-the-competition-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/vanguard-vymis-10-basis-point-cut-is-sub-025-enough-to-beat-the-competition-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/vanguard-vymis-10-basis-point-cut-is-sub-025-enough-to-beat-the-competition-en.md
+FAIL: Double disclaimer in en/funds/voo-surges-281-in-a-decade-but-concentration-risk-looms-large-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/voo-surges-281-in-a-decade-but-concentration-risk-looms-large-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/funds/voo-surges-281-in-a-decade-but-concentration-risk-looms-large-en.md
+FAIL: Truncated content (no ending punctuation) in en/funds/_index.md: ends with ons.*
+FAIL: Double disclaimer in en/ia/ai-agent-root-access-security-concerns-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/ai-agent-root-access-security-concerns-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/ai-agent-root-access-security-concerns-en.md
+FAIL: Double disclaimer in en/ia/ai-agents-secure-deployment-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/ai-agents-secure-deployment-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/ai-agents-secure-deployment-en.md
+FAIL: Double disclaimer in en/ia/ai-designed-ev-magnets-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/ai-designed-ev-magnets-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/ai-designed-ev-magnets-en.md
+FAIL: Double disclaimer in en/ia/ai-job-market-impact-america-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/ai-job-market-impact-america-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/ai-job-market-impact-america-en.md
+FAIL: Double disclaimer in en/ia/ai-pharma-venture-capital-bubble-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/ai-pharma-venture-capital-bubble-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/ai-pharma-venture-capital-bubble-en.md
+FAIL: Double disclaimer in en/ia/ai-ruined-my-vacation-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/ai-ruined-my-vacation-en.md: ends with der.*
+FAIL: Double disclaimer in en/ia/ai-tool-sprawl-productivity-paradox-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/ai-tool-sprawl-productivity-paradox-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/ai-tool-sprawl-productivity-paradox-en.md
+FAIL: Double disclaimer in en/ia/ai-trust-crisis-skeptics-guide-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/ai-trust-crisis-skeptics-guide-en.md: ends with der.*
+FAIL: Double disclaimer in en/ia/ai-venture-capital-returns-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/ai-venture-capital-returns-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/ai-venture-capital-returns-en.md
+FAIL: Double disclaimer in en/ia/ai-venture-capital-series-a-apocalypse-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/ai-venture-capital-series-a-apocalypse-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/ai-venture-capital-series-a-apocalypse-en.md
+FAIL: Double disclaimer in en/ia/ai-winter-unmasking-hype-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/ai-winter-unmasking-hype-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/ai-winter-unmasking-hype-en.md
+FAIL: Double disclaimer in en/ia/anthropic-claude-3-5-sonnet-cost-savings-myth-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/anthropic-claude-3-5-sonnet-cost-savings-myth-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/ia/anthropic-claude-3-5-sonnet-cost-savings-myth-en.md
+FAIL: Double disclaimer in en/ia/anthropic-claude-code-2026-reality-check-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/anthropic-claude-code-2026-reality-check-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/ia/anthropic-claude-code-2026-reality-check-en.md
+FAIL: Double disclaimer in en/ia/anthropic-claude-enterprise-ai-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/anthropic-claude-enterprise-ai-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/anthropic-claude-enterprise-ai-en.md
+FAIL: Double disclaimer in en/ia/anthropic-pentagon-ai-ethics-enterprise-risk-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/anthropic-pentagon-ai-ethics-enterprise-risk-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/anthropic-pentagon-ai-ethics-enterprise-risk-en.md
+FAIL: Double disclaimer in en/ia/baby-showers-and-community-spirit-celebrating-new-life-in-nw-iowa-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/baby-showers-and-community-spirit-celebrating-new-life-in-nw-iowa-en.md: ends with ons.*
+FAIL: Double disclaimer in en/ia/claude-vs-chatgpt-privacy-concerns-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/claude-vs-chatgpt-privacy-concerns-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/ia/claude-vs-chatgpt-privacy-concerns-en.md
+FAIL: Double disclaimer in en/ia/cobol-apocalypse-banking-1959-tech-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/cobol-apocalypse-banking-1959-tech-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/cobol-apocalypse-banking-1959-tech-en.md
+FAIL: Double disclaimer in en/ia/decoding-viral-vortex-ai-analog-unexpected-nuptials-en.md
+FAIL: AI trace 'This article explores' found in en/ia/decoding-viral-vortex-ai-analog-unexpected-nuptials-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/decoding-viral-vortex-ai-analog-unexpected-nuptials-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/ia/decoding-viral-vortex-ai-analog-unexpected-nuptials-en.md
+FAIL: Double disclaimer in en/ia/deep-dive-into-n8n-usage-and-best-practices-2026-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/deep-dive-into-n8n-usage-and-best-practices-2026-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/deep-dive-into-n8n-usage-and-best-practices-2026-en.md
+FAIL: Spanish bleed found in EN file en/ia/el-futuro-es-ahora-las-7-tendencias-que-los-gobier.md: 'El'
+FAIL: Double disclaimer in en/ia/el-futuro-es-ahora-las-7-tendencias-que-los-gobier.md
+FAIL: Truncated content (no ending punctuation) in en/ia/el-futuro-es-ahora-las-7-tendencias-que-los-gobier.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/el-futuro-es-ahora-las-7-tendencias-que-los-gobier.md
+FAIL: Double disclaimer in en/ia/el-futuro-es-distopico-y-ya-esta-aqui.md
+FAIL: Truncated content (no ending punctuation) in en/ia/el-futuro-es-distopico-y-ya-esta-aqui.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/ia/el-futuro-es-distopico-y-ya-esta-aqui.md
+FAIL: Double disclaimer in en/ia/enterprise-ai-winner-ignore-hype-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/enterprise-ai-winner-ignore-hype-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/enterprise-ai-winner-ignore-hype-en.md
+FAIL: Double disclaimer in en/ia/enterprise-llm-security-risks-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/enterprise-llm-security-risks-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/enterprise-llm-security-risks-en.md
+FAIL: Double disclaimer in en/ia/exponential-ai-myth-or-reality-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/exponential-ai-myth-or-reality-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/ia/exponential-ai-myth-or-reality-en.md
+FAIL: Double disclaimer in en/ia/fire-erupts-at-apc-inc-plant-in-crawford-county-no-injuries-reported-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/fire-erupts-at-apc-inc-plant-in-crawford-county-no-injuries-reported-en.md: ends with eld.*
+FAIL: Double disclaimer in en/ia/geopolitica-2026-el-ano-en-que-dejamos-de-fingir.md
+FAIL: Truncated content (no ending punctuation) in en/ia/geopolitica-2026-el-ano-en-que-dejamos-de-fingir.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/ia/geopolitica-2026-el-ano-en-que-dejamos-de-fingir.md
+FAIL: Double disclaimer in en/ia/google-maps-ai-overhaul-hallucinations-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/google-maps-ai-overhaul-hallucinations-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/google-maps-ai-overhaul-hallucinations-en.md
+FAIL: Double disclaimer in en/ia/groenlandia-el-nuevo-jaque-mate-geopolitico-que-hu.md
+FAIL: Truncated content (no ending punctuation) in en/ia/groenlandia-el-nuevo-jaque-mate-geopolitico-que-hu.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/groenlandia-el-nuevo-jaque-mate-geopolitico-que-hu.md
+FAIL: Double disclaimer in en/ia/how-an-ai-candidate-changed-the-game-in-colombias-elections-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/how-an-ai-candidate-changed-the-game-in-colombias-elections-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/ia/how-an-ai-candidate-changed-the-game-in-colombias-elections-en.md
+FAIL: Double disclaimer in en/ia/hugging-face-embeddings-lobotomy-en.md
+FAIL: AI trace 'This article explores' found in en/ia/hugging-face-embeddings-lobotomy-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/hugging-face-embeddings-lobotomy-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/ia/hugging-face-embeddings-lobotomy-en.md
+FAIL: Double disclaimer in en/ia/hugging-face-transformers-few-shot-limitations-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/hugging-face-transformers-few-shot-limitations-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/ia/hugging-face-transformers-few-shot-limitations-en.md
+FAIL: Double disclaimer in en/ia/ia-financial-director-algorithmic-trading-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/ia-financial-director-algorithmic-trading-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/ia-financial-director-algorithmic-trading-en.md
+FAIL: Double disclaimer in en/ia/ia-financials-bold-move-1-million-investment-in-pediatric-ai-initiative-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/ia-financials-bold-move-1-million-investment-in-pediatric-ai-initiative-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/ia-financials-bold-move-1-million-investment-in-pediatric-ai-initiative-en.md
+FAIL: Double disclaimer in en/ia/inside-irans-nuclear-secrets-iaea-docs-reveal-shocking-insights-en.md
+FAIL: AI trace 'In conclusion' found in en/ia/inside-irans-nuclear-secrets-iaea-docs-reveal-shocking-insights-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/inside-irans-nuclear-secrets-iaea-docs-reveal-shocking-insights-en.md: ends with eld.*
+FAIL: Double disclaimer in en/ia/iowan-churches-rally-a-bold-stand-against-controversial-issues-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/iowan-churches-rally-a-bold-stand-against-controversial-issues-en.md: ends with eld.*
+FAIL: Double disclaimer in en/ia/kleiner-perkins-ai-gamble-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/kleiner-perkins-ai-gamble-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/kleiner-perkins-ai-gamble-en.md
+FAIL: Double disclaimer in en/ia/la-elites-digitales-amos-del-mundo-o-nuevos-parasi.md
+FAIL: Truncated content (no ending punctuation) in en/ia/la-elites-digitales-amos-del-mundo-o-nuevos-parasi.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/ia/la-elites-digitales-amos-del-mundo-o-nuevos-parasi.md
+FAIL: Double disclaimer in en/ia/learnworlds-ai-adoption-paradox-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/learnworlds-ai-adoption-paradox-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/learnworlds-ai-adoption-paradox-en.md
+FAIL: Double disclaimer in en/ia/metaverse-pyramid-scheme-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/metaverse-pyramid-scheme-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/metaverse-pyramid-scheme-en.md
+FAIL: Double disclaimer in en/ia/metaverse-zucks-40-billion-mistake-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/metaverse-zucks-40-billion-mistake-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/metaverse-zucks-40-billion-mistake-en.md
+FAIL: Double disclaimer in en/ia/monument-naivety-greed-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/monument-naivety-greed-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/monument-naivety-greed-en.md
+FAIL: Double disclaimer in en/ia/nvidia-dlss-5-ai-graphics-leap-or-hype-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/nvidia-dlss-5-ai-graphics-leap-or-hype-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/nvidia-dlss-5-ai-graphics-leap-or-hype-en.md
+FAIL: Double disclaimer in en/ia/pentagon-ai-anthropic-iran-strikes-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/pentagon-ai-anthropic-iran-strikes-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/ia/pentagon-ai-anthropic-iran-strikes-en.md
+FAIL: Double disclaimer in en/ia/perplexity-ai-computer-overkill-future-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/perplexity-ai-computer-overkill-future-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/ia/perplexity-ai-computer-overkill-future-en.md
+FAIL: Double disclaimer in en/ia/rising-stars-asus-tight-ends-set-to-make-waves-in-2026-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/rising-stars-asus-tight-ends-set-to-make-waves-in-2026-en.md: ends with der.*
+FAIL: Double disclaimer in en/ia/sutherland-ias-drinking-water-crisis-what-you-need-to-know-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/sutherland-ias-drinking-water-crisis-what-you-need-to-know-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/sutherland-ias-drinking-water-crisis-what-you-need-to-know-en.md
+FAIL: Spanish bleed found in EN file en/ia/tecnoutopia-fallida-el-sueno-digital-se-convierte.md: 'la'
+FAIL: Double disclaimer in en/ia/tecnoutopia-fallida-el-sueno-digital-se-convierte.md
+FAIL: Truncated content (no ending punctuation) in en/ia/tecnoutopia-fallida-el-sueno-digital-se-convierte.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/ia/tecnoutopia-fallida-el-sueno-digital-se-convierte.md
+FAIL: Double disclaimer in en/ia/the-digital-companion-how-ai-is-transforming-patient-care-post-discharge-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/the-digital-companion-how-ai-is-transforming-patient-care-post-discharge-en.md: ends with der.*
+FAIL: Double disclaimer in en/ia/unveiling-the-future-an-interview-with-ia-genberg-and-kira-josefsson-on-small-comfort-en.md
+FAIL: Truncated content (no ending punctuation) in en/ia/unveiling-the-future-an-interview-with-ia-genberg-and-kira-josefsson-on-small-comfort-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/ia/unveiling-the-future-an-interview-with-ia-genberg-and-kira-josefsson-on-small-comfort-en.md
+FAIL: Double disclaimer in en/tools/ai-bias-federal-judges-tech-shift-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/ai-bias-federal-judges-tech-shift-en.md: ends with ons.*
+FAIL: Double disclaimer in en/tools/ai-court-justice-secrets-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/ai-court-justice-secrets-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/tools/ai-court-justice-secrets-en.md
+FAIL: Double disclaimer in en/tools/ai-drug-discovery-eu-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/ai-drug-discovery-eu-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/tools/ai-drug-discovery-eu-en.md
+FAIL: Double disclaimer in en/tools/ai-plagiarism-california-schools-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/ai-plagiarism-california-schools-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/tools/ai-plagiarism-california-schools-en.md
+FAIL: Double disclaimer in en/tools/ai-productivity-superhuman-rows-acquisition-risks-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/ai-productivity-superhuman-rows-acquisition-risks-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/tools/ai-productivity-superhuman-rows-acquisition-risks-en.md
+FAIL: Double disclaimer in en/tools/ai-saas-bubble-gurley-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/ai-saas-bubble-gurley-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/tools/ai-saas-bubble-gurley-en.md
+FAIL: Double disclaimer in en/tools/anthropic-claude-enterprise-ai-agents-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/anthropic-claude-enterprise-ai-agents-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/tools/anthropic-claude-enterprise-ai-agents-en.md
+FAIL: Double disclaimer in en/tools/china-chip-tool-gambit-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/china-chip-tool-gambit-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/tools/china-chip-tool-gambit-en.md
+FAIL: Double disclaimer in en/tools/cow-tool-use-cognition-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/cow-tool-use-cognition-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/tools/cow-tool-use-cognition-en.md
+FAIL: Double disclaimer in en/tools/craftsman-tools-amazon-technical-review-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/craftsman-tools-amazon-technical-review-en.md: ends with der.*
+FAIL: Double disclaimer in en/tools/csv-injection-prevention-tool-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/csv-injection-prevention-tool-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/tools/csv-injection-prevention-tool-en.md
+FAIL: Double disclaimer in en/tools/deep-dive-into-tech-usage-and-best-practices-2026-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/deep-dive-into-tech-usage-and-best-practices-2026-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/tools/deep-dive-into-tech-usage-and-best-practices-2026-en.md
+FAIL: Double disclaimer in en/tools/diamondback-tool-belt-ergonomics-review-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/diamondback-tool-belt-ergonomics-review-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/tools/diamondback-tool-belt-ergonomics-review-en.md
+FAIL: Double disclaimer in en/tools/edtech-roi-tool-consolidation-2024-en.md
+FAIL: AI trace 'In conclusion' found in en/tools/edtech-roi-tool-consolidation-2024-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/edtech-roi-tool-consolidation-2024-en.md: ends with der.*
+FAIL: Double disclaimer in en/tools/floridas-crypto-crackdown-a-stablecoin-big-brother-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/floridas-crypto-crackdown-a-stablecoin-big-brother-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/tools/floridas-crypto-crackdown-a-stablecoin-big-brother-en.md
+FAIL: Double disclaimer in en/tools/generative-ai-high-schools-technical-analysis-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/generative-ai-high-schools-technical-analysis-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/tools/generative-ai-high-schools-technical-analysis-en.md
+FAIL: Double disclaimer in en/tools/google-ai-studio-technical-review-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/google-ai-studio-technical-review-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/tools/google-ai-studio-technical-review-en.md
+FAIL: Spanish bleed found in EN file en/tools/induction-cooktop-roi-teardown-en.md: ' un '
+FAIL: Double disclaimer in en/tools/induction-cooktop-roi-teardown-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/induction-cooktop-roi-teardown-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/tools/induction-cooktop-roi-teardown-en.md
+FAIL: Double disclaimer in en/tools/iot-digital-twins-power-tool-revolution-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/iot-digital-twins-power-tool-revolution-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/tools/iot-digital-twins-power-tool-revolution-en.md
+FAIL: Double disclaimer in en/tools/keychain-tools-review-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/keychain-tools-review-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/tools/keychain-tools-review-en.md
+FAIL: Double disclaimer in en/tools/kitchen-tool-lifecycles-technical-teardown-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/kitchen-tool-lifecycles-technical-teardown-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/tools/kitchen-tool-lifecycles-technical-teardown-en.md
+FAIL: Double disclaimer in en/tools/level-up-your-health-must-have-home-monitoring-tools-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/level-up-your-health-must-have-home-monitoring-tools-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/tools/level-up-your-health-must-have-home-monitoring-tools-en.md
+FAIL: Double disclaimer in en/tools/makecom-masterclass-go-from-zero-to-hero-in-2-hours-2025-edition.md
+FAIL: Truncated content (no ending punctuation) in en/tools/makecom-masterclass-go-from-zero-to-hero-in-2-hours-2025-edition.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/tools/makecom-masterclass-go-from-zero-to-hero-in-2-hours-2025-edition.md
+FAIL: Double disclaimer in en/tools/marquette-ai-guide-technical-analysis-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/marquette-ai-guide-technical-analysis-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/tools/marquette-ai-guide-technical-analysis-en.md
+FAIL: Double disclaimer in en/tools/meta-ai-deepfake-defense-technical-autopsy-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/meta-ai-deepfake-defense-technical-autopsy-en.md: ends with eld.*
+FAIL: Double disclaimer in en/tools/next-gen-heart-health-dyslipidemia-guidelines-2026-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/next-gen-heart-health-dyslipidemia-guidelines-2026-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/tools/next-gen-heart-health-dyslipidemia-guidelines-2026-en.md
+FAIL: Double disclaimer in en/tools/privacy-enhancing-tech-shadow-it-risks-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/privacy-enhancing-tech-shadow-it-risks-en.md: ends with der.*
+FAIL: Double disclaimer in en/tools/ransomware-playbook-technical-teardown-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/ransomware-playbook-technical-teardown-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/tools/ransomware-playbook-technical-teardown-en.md
+FAIL: Double disclaimer in en/tools/rethinking-ai-architecture-vs-tools-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/rethinking-ai-architecture-vs-tools-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/tools/rethinking-ai-architecture-vs-tools-en.md
+FAIL: Double disclaimer in en/tools/south-carolina-child-protection-ai-law-enforcement-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/south-carolina-child-protection-ai-law-enforcement-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/tools/south-carolina-child-protection-ai-law-enforcement-en.md
+FAIL: Double disclaimer in en/tools/stanley-black-decker-q4-performance-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/stanley-black-decker-q4-performance-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/tools/stanley-black-decker-q4-performance-en.md
+FAIL: Double disclaimer in en/tools/tool-lending-library-software-teardown-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/tool-lending-library-software-teardown-en.md: ends with der.*
+FAIL: Double disclaimer in en/tools/visa-ai-chargeback-hallucinations-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/visa-ai-chargeback-hallucinations-en.md: ends with der.*
+FAIL: Double disclaimer in en/tools/why-i-gave-up-certain-kitchen-tools-after-going-pro-in-baking-en.md
+FAIL: Truncated content (no ending punctuation) in en/tools/why-i-gave-up-certain-kitchen-tools-after-going-pro-in-baking-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/tools/why-i-gave-up-certain-kitchen-tools-after-going-pro-in-baking-en.md
+FAIL: Double disclaimer in en/viral/101-year-old-grandpa-becomes-pottery-class-superstar-meet-the-happiest-guy-in-the-world-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/101-year-old-grandpa-becomes-pottery-class-superstar-meet-the-happiest-guy-in-the-world-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/viral/101-year-old-grandpa-becomes-pottery-class-superstar-meet-the-happiest-guy-in-the-world-en.md
+FAIL: Double disclaimer in en/viral/78-year-old-doordash-driver-becomes-internet-sensation-thanks-to-generous-strangers-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/78-year-old-doordash-driver-becomes-internet-sensation-thanks-to-generous-strangers-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/78-year-old-doordash-driver-becomes-internet-sensation-thanks-to-generous-strangers-en.md
+FAIL: Double disclaimer in en/viral/78-year-old-doordash-drivers-heartwarming-doorbell-moment-sparks-massive-tips-from-strangers-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/78-year-old-doordash-drivers-heartwarming-doorbell-moment-sparks-massive-tips-from-strangers-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/78-year-old-doordash-drivers-heartwarming-doorbell-moment-sparks-massive-tips-from-strangers-en.md
+FAIL: Double disclaimer in en/viral/ai-curling-controversy-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/ai-curling-controversy-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/ai-curling-controversy-en.md
+FAIL: Double disclaimer in en/viral/ai-fruit-videos-uncanny-valley-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/ai-fruit-videos-uncanny-valley-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/viral/ai-fruit-videos-uncanny-valley-en.md
+FAIL: Double disclaimer in en/viral/airport-fashion-wars-comfort-security-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/airport-fashion-wars-comfort-security-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/airport-fashion-wars-comfort-security-en.md
+FAIL: Double disclaimer in en/viral/albuquerque-mans-shocking-anti-islam-outburst-goes-viral-whats-behind-the-controversy-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/albuquerque-mans-shocking-anti-islam-outburst-goes-viral-whats-behind-the-controversy-en.md: ends with eld.*
+FAIL: Double disclaimer in en/viral/algorithmic-curling-tech-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/algorithmic-curling-tech-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/viral/algorithmic-curling-tech-en.md
+FAIL: Double disclaimer in en/viral/algorithmic-earthquake-relationships-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/algorithmic-earthquake-relationships-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/algorithmic-earthquake-relationships-en.md
+FAIL: Double disclaimer in en/viral/algorithmic-exploitation-sophia-abraham-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/algorithmic-exploitation-sophia-abraham-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/algorithmic-exploitation-sophia-abraham-en.md
+FAIL: Double disclaimer in en/viral/algorithmic-sociopath-ai-safety-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/algorithmic-sociopath-ai-safety-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/viral/algorithmic-sociopath-ai-safety-en.md
+FAIL: Double disclaimer in en/viral/amouranth-incident-analysis-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/amouranth-incident-analysis-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/viral/amouranth-incident-analysis-en.md
+FAIL: Double disclaimer in en/viral/anna-paul-brother-onlyfans-controversy-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/anna-paul-brother-onlyfans-controversy-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/viral/anna-paul-brother-onlyfans-controversy-en.md
+FAIL: Double disclaimer in en/viral/anna-paul-tate-tiktok-scandal-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/anna-paul-tate-tiktok-scandal-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/viral/anna-paul-tate-tiktok-scandal-en.md
+FAIL: Double disclaimer in en/viral/apology-industrial-complex-brand-strategy-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/apology-industrial-complex-brand-strategy-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/apology-industrial-complex-brand-strategy-en.md
+FAIL: Double disclaimer in en/viral/bafta-tourettes-outrage-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/bafta-tourettes-outrage-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/bafta-tourettes-outrage-en.md
+FAIL: Double disclaimer in en/viral/bonnie-blue-social-media-consequences-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/bonnie-blue-social-media-consequences-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/bonnie-blue-social-media-consequences-en.md
+FAIL: Double disclaimer in en/viral/candace-owens-turning-point-usa-fallout-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/candace-owens-turning-point-usa-fallout-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/viral/candace-owens-turning-point-usa-fallout-en.md
+FAIL: Double disclaimer in en/viral/ceo-burger-wars-fast-food-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/ceo-burger-wars-fast-food-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/ceo-burger-wars-fast-food-en.md
+FAIL: Double disclaimer in en/viral/cereal-etiquette-wars-2024-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/cereal-etiquette-wars-2024-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/cereal-etiquette-wars-2024-en.md
+FAIL: Double disclaimer in en/viral/chick-fil-a-dance-controversy-eight-employees-fired-over-tiktok-clip-en.md
+FAIL: AI trace 'In conclusion' found in en/viral/chick-fil-a-dance-controversy-eight-employees-fired-over-tiktok-clip-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/chick-fil-a-dance-controversy-eight-employees-fired-over-tiktok-clip-en.md: ends with der.*
+FAIL: Double disclaimer in en/viral/child-beauty-deinfluencing-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/child-beauty-deinfluencing-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/child-beauty-deinfluencing-en.md
+FAIL: Double disclaimer in en/viral/chuck-norris-death-hoax-deepfakes-trust-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/chuck-norris-death-hoax-deepfakes-trust-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/chuck-norris-death-hoax-deepfakes-trust-en.md
+FAIL: Double disclaimer in en/viral/cruise-control-carnival-balcony-sleeping-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/cruise-control-carnival-balcony-sleeping-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/cruise-control-carnival-balcony-sleeping-en.md
+FAIL: Double disclaimer in en/viral/cruise-line-balcony-nightmare-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/cruise-line-balcony-nightmare-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/viral/cruise-line-balcony-nightmare-en.md
+FAIL: Double disclaimer in en/viral/deepseek-ai-outage-analysis-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/deepseek-ai-outage-analysis-en.md: ends with eld.*
+FAIL: Double disclaimer in en/viral/dogfree-community-loneliness-ethics-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/dogfree-community-loneliness-ethics-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/viral/dogfree-community-loneliness-ethics-en.md
+FAIL: Double disclaimer in en/viral/doping-arms-race-2026-olympics-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/doping-arms-race-2026-olympics-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/viral/doping-arms-race-2026-olympics-en.md
+FAIL: Double disclaimer in en/viral/easter-candy-revolution-from-giant-smash-eggs-to-healthier-treats-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/easter-candy-revolution-from-giant-smash-eggs-to-healthier-treats-en.md: ends with ons.*
+FAIL: Double disclaimer in en/viral/epstein-list-algorithmic-conspiracy-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/epstein-list-algorithmic-conspiracy-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/epstein-list-algorithmic-conspiracy-en.md
+FAIL: Double disclaimer in en/viral/fast-food-ceo-wars-distraction-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/fast-food-ceo-wars-distraction-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/fast-food-ceo-wars-distraction-en.md
+FAIL: Double disclaimer in en/viral/forever-virus-persistent-infections-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/forever-virus-persistent-infections-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/forever-virus-persistent-infections-en.md
+FAIL: Double disclaimer in en/viral/fortnite-game-of-thrones-metaverse-failure-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/fortnite-game-of-thrones-metaverse-failure-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/viral/fortnite-game-of-thrones-metaverse-failure-en.md
+FAIL: Double disclaimer in en/viral/harris-county-judges-heated-confrontation-sparks-legal-community-backlash-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/harris-county-judges-heated-confrontation-sparks-legal-community-backlash-en.md: ends with eld.*
+FAIL: Double disclaimer in en/viral/how-a-75-year-old-tv-moment-sparked-americas-mafia-obsession-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/how-a-75-year-old-tv-moment-sparked-americas-mafia-obsession-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/how-a-75-year-old-tv-moment-sparked-americas-mafia-obsession-en.md
+FAIL: Double disclaimer in en/viral/how-ai-lego-style-videos-are-mocking-trumps-war-in-iran-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/how-ai-lego-style-videos-are-mocking-trumps-war-in-iran-en.md: ends with eld.*
+FAIL: Double disclaimer in en/viral/ikea-smart-home-cybersecurity-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/ikea-smart-home-cybersecurity-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/ikea-smart-home-cybersecurity-en.md
+FAIL: Double disclaimer in en/viral/invisible-pandemic-respiratory-threat-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/invisible-pandemic-respiratory-threat-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/viral/invisible-pandemic-respiratory-threat-en.md
+FAIL: Double disclaimer in en/viral/its-a-skull-watch-sara-bareilles-uncover-creepy-bones-in-her-home-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/its-a-skull-watch-sara-bareilles-uncover-creepy-bones-in-her-home-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/viral/its-a-skull-watch-sara-bareilles-uncover-creepy-bones-in-her-home-en.md
+FAIL: Double disclaimer in en/viral/kindergarten-discipline-viral-content-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/kindergarten-discipline-viral-content-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/kindergarten-discipline-viral-content-en.md
+FAIL: Double disclaimer in en/viral/lake-of-the-woods-truck-submersion-risk-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/lake-of-the-woods-truck-submersion-risk-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/lake-of-the-woods-truck-submersion-risk-en.md
+FAIL: Double disclaimer in en/viral/new-hampshire-liquor-ads-viral-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/new-hampshire-liquor-ads-viral-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/viral/new-hampshire-liquor-ads-viral-en.md
+FAIL: Double disclaimer in en/viral/nfl-rookies-cte-conspiracy-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/nfl-rookies-cte-conspiracy-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/viral/nfl-rookies-cte-conspiracy-en.md
+FAIL: Double disclaimer in en/viral/nyc-deli-tech-comeback-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/nyc-deli-tech-comeback-en.md: ends with der.*
+FAIL: Double disclaimer in en/viral/plastic-eating-weight-loss-china-trend-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/plastic-eating-weight-loss-china-trend-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/viral/plastic-eating-weight-loss-china-trend-en.md
+FAIL: Spanish bleed found in EN file en/viral/pocket-coffee-caffeine-optimization-en.md: 'La'
+FAIL: Double disclaimer in en/viral/pocket-coffee-caffeine-optimization-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/pocket-coffee-caffeine-optimization-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/pocket-coffee-caffeine-optimization-en.md
+FAIL: Double disclaimer in en/viral/popsockets-market-saturation-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/popsockets-market-saturation-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/popsockets-market-saturation-en.md
+FAIL: Double disclaimer in en/viral/predicting-next-pandemic-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/predicting-next-pandemic-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/viral/predicting-next-pandemic-en.md
+FAIL: Spanish bleed found in EN file en/viral/pricey-supplement-stacks-take-social-media-by-storm-what-you-need-to-know-en.md: 'El'
+FAIL: Double disclaimer in en/viral/pricey-supplement-stacks-take-social-media-by-storm-what-you-need-to-know-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/pricey-supplement-stacks-take-social-media-by-storm-what-you-need-to-know-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/pricey-supplement-stacks-take-social-media-by-storm-what-you-need-to-know-en.md
+FAIL: Double disclaimer in en/viral/pro-iran-memes-go-viral-a-unique-counter-to-trumps-propaganda-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/pro-iran-memes-go-viral-a-unique-counter-to-trumps-propaganda-en.md: ends with der.*
+FAIL: Double disclaimer in en/viral/snl-tourettes-controversy-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/snl-tourettes-controversy-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/snl-tourettes-controversy-en.md
+FAIL: Double disclaimer in en/viral/sonic-movie-vfx-muzzle-flash-paradox-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/sonic-movie-vfx-muzzle-flash-paradox-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/viral/sonic-movie-vfx-muzzle-flash-paradox-en.md
+FAIL: Double disclaimer in en/viral/sora-ai-deepfake-fears-ethical-debate-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/sora-ai-deepfake-fears-ethical-debate-en.md: ends with der.*
+FAIL: Double disclaimer in en/viral/spurs-tiktok-diversity-backfire-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/spurs-tiktok-diversity-backfire-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/spurs-tiktok-diversity-backfire-en.md
+FAIL: Double disclaimer in en/viral/steam-malware-threat-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/steam-malware-threat-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/viral/steam-malware-threat-en.md
+FAIL: Double disclaimer in en/viral/temu-grocery-expansion-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/temu-grocery-expansion-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/viral/temu-grocery-expansion-en.md
+FAIL: Double disclaimer in en/viral/temu-steak-controversy-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/temu-steak-controversy-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/viral/temu-steak-controversy-en.md
+FAIL: Double disclaimer in en/viral/the-hunt-for-chesney-how-a-runaway-kangaroo-captivated-wisconsin-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/the-hunt-for-chesney-how-a-runaway-kangaroo-captivated-wisconsin-en.md: ends with eld.*
+FAIL: Double disclaimer in en/viral/the-mafias-75-year-old-tv-moment-that-still-captivates-america-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/the-mafias-75-year-old-tv-moment-that-still-captivates-america-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/the-mafias-75-year-old-tv-moment-that-still-captivates-america-en.md
+FAIL: Double disclaimer in en/viral/therian-culture-ai-disinformation-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/therian-culture-ai-disinformation-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/therian-culture-ai-disinformation-en.md
+FAIL: Double disclaimer in en/viral/tiktoks-dangerous-eating-challenge-sparks-outrage-in-china-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/tiktoks-dangerous-eating-challenge-sparks-outrage-in-china-en.md: ends with ons.*
+FAIL: Double disclaimer in en/viral/trader-joes-mini-totes-make-a-comebackplus-a-sneak-peek-at-the-new-bigger-bag-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/trader-joes-mini-totes-make-a-comebackplus-a-sneak-peek-at-the-new-bigger-bag-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/viral/trader-joes-mini-totes-make-a-comebackplus-a-sneak-peek-at-the-new-bigger-bag-en.md
+FAIL: Double disclaimer in en/viral/trump-cuba-privatization-paradox-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/trump-cuba-privatization-paradox-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/viral/trump-cuba-privatization-paradox-en.md
+FAIL: Double disclaimer in en/viral/x-creator-monetization-failure-en.md
+FAIL: Truncated content (no ending punctuation) in en/viral/x-creator-monetization-failure-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/viral/x-creator-monetization-failure-en.md
+FAIL: Double disclaimer in en/youtube/87-of-creators-now-use-ai-how-the-technology-is-reshaping-creative-workflows-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/87-of-creators-now-use-ai-how-the-technology-is-reshaping-creative-workflows-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/87-of-creators-now-use-ai-how-the-technology-is-reshaping-creative-workflows-en.md
+FAIL: Double disclaimer in en/youtube/ai-deepfake-singapore-pm-lee-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/ai-deepfake-singapore-pm-lee-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/youtube/ai-deepfake-singapore-pm-lee-en.md
+FAIL: Double disclaimer in en/youtube/child-safety-advocates-sound-alarm-over-googles-ai-investment-in-kids-content-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/child-safety-advocates-sound-alarm-over-googles-ai-investment-in-kids-content-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/youtube/child-safety-advocates-sound-alarm-over-googles-ai-investment-in-kids-content-en.md
+FAIL: Double disclaimer in en/youtube/chinese-streamer-birth-diaper-ad-ban-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/chinese-streamer-birth-diaper-ad-ban-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/chinese-streamer-birth-diaper-ad-ban-en.md
+FAIL: Double disclaimer in en/youtube/davinci-resolve-audio-dropouts-fix-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/davinci-resolve-audio-dropouts-fix-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/davinci-resolve-audio-dropouts-fix-en.md
+FAIL: Double disclaimer in en/youtube/dont-miss-out-coachella-streams-for-free-on-youtube-next-week-en.md
+FAIL: AI trace 'In conclusion' found in en/youtube/dont-miss-out-coachella-streams-for-free-on-youtube-next-week-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/dont-miss-out-coachella-streams-for-free-on-youtube-next-week-en.md: ends with eld.*
+FAIL: Double disclaimer in en/youtube/facebook-pours-3000-into-tiktok-and-youtube-creatorsis-this-the-new-monetization-war-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/facebook-pours-3000-into-tiktok-and-youtube-creatorsis-this-the-new-monetization-war-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/youtube/facebook-pours-3000-into-tiktok-and-youtube-creatorsis-this-the-new-monetization-war-en.md
+FAIL: Double disclaimer in en/youtube/family-travel-youtube-burnout-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/family-travel-youtube-burnout-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/family-travel-youtube-burnout-en.md
+FAIL: Double disclaimer in en/youtube/gen-z-ballet-youtube-dance-revolution-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/gen-z-ballet-youtube-dance-revolution-en.md: ends with der.*
+FAIL: Double disclaimer in en/youtube/google-ai-kids-content-safety-concerns-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/google-ai-kids-content-safety-concerns-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/youtube/google-ai-kids-content-safety-concerns-en.md
+FAIL: Double disclaimer in en/youtube/hank-green-youtube-ethics-impact-over-income-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/hank-green-youtube-ethics-impact-over-income-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/hank-green-youtube-ethics-impact-over-income-en.md
+FAIL: Double disclaimer in en/youtube/i-tried-youtubes-mind-bending-new-featureheres-why-it-feels-like-sci-fi-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/i-tried-youtubes-mind-bending-new-featureheres-why-it-feels-like-sci-fi-en.md: ends with ons.*
+FAIL: Double disclaimer in en/youtube/indonesia-youtube-coppa-ban-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/indonesia-youtube-coppa-ban-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/youtube/indonesia-youtube-coppa-ban-en.md
+FAIL: Double disclaimer in en/youtube/indonesia-youtube-tiktok-ban-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/indonesia-youtube-tiktok-ban-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/youtube/indonesia-youtube-tiktok-ban-en.md
+FAIL: Double disclaimer in en/youtube/inside-the-global-k-pop-phenomenon-the-power-of-youtube-creators-and-fans-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/inside-the-global-k-pop-phenomenon-the-power-of-youtube-creators-and-fans-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/youtube/inside-the-global-k-pop-phenomenon-the-power-of-youtube-creators-and-fans-en.md
+FAIL: Double disclaimer in en/youtube/jeopardy-takes-the-plunge-exciting-new-youtube-spinoff-on-the-horizon-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/jeopardy-takes-the-plunge-exciting-new-youtube-spinoff-on-the-horizon-en.md: ends with der.*
+FAIL: Double disclaimer in en/youtube/jeopardy-youtube-monetization-engagement-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/jeopardy-youtube-monetization-engagement-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/jeopardy-youtube-monetization-engagement-en.md
+FAIL: Double disclaimer in en/youtube/jeopardy-youtube-strategy-monetization-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/jeopardy-youtube-strategy-monetization-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/jeopardy-youtube-strategy-monetization-en.md
+FAIL: Double disclaimer in en/youtube/ksi-littler-sidemen-charity-event-controversy-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/ksi-littler-sidemen-charity-event-controversy-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/youtube/ksi-littler-sidemen-charity-event-controversy-en.md
+FAIL: Double disclaimer in en/youtube/ksi-sidemen-fc-business-analysis-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/ksi-sidemen-fc-business-analysis-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/ksi-sidemen-fc-business-analysis-en.md
+FAIL: Double disclaimer in en/youtube/lazarbeam-youtube-empire-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/lazarbeam-youtube-empire-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/lazarbeam-youtube-empire-en.md
+FAIL: Double disclaimer in en/youtube/logan-paul-mrbeast-mold-scandal-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/logan-paul-mrbeast-mold-scandal-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/logan-paul-mrbeast-mold-scandal-en.md
+FAIL: Double disclaimer in en/youtube/matt-belloni-the-town-youtube-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/matt-belloni-the-town-youtube-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/youtube/matt-belloni-the-town-youtube-en.md
+FAIL: Spanish bleed found in EN file en/youtube/meta-and-youtube-found-guilty-the-6-million-verdict-shaking-big-tech-en.md: 'Los'
+FAIL: Double disclaimer in en/youtube/meta-and-youtube-found-guilty-the-6-million-verdict-shaking-big-tech-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/meta-and-youtube-found-guilty-the-6-million-verdict-shaking-big-tech-en.md: ends with ons.*
+FAIL: Spanish bleed found in EN file en/youtube/meta-youtube-addiction-trial-loss-en.md: 'Los'
+FAIL: Double disclaimer in en/youtube/meta-youtube-addiction-trial-loss-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/meta-youtube-addiction-trial-loss-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/youtube/meta-youtube-addiction-trial-loss-en.md
+FAIL: Double disclaimer in en/youtube/meta-youtube-teen-mental-health-liability-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/meta-youtube-teen-mental-health-liability-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/youtube/meta-youtube-teen-mental-health-liability-en.md
+FAIL: Double disclaimer in en/youtube/metas-bold-move-paying-influencers-to-bring-their-content-to-facebook-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/metas-bold-move-paying-influencers-to-bring-their-content-to-facebook-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/youtube/metas-bold-move-paying-influencers-to-bring-their-content-to-facebook-en.md
+FAIL: Double disclaimer in en/youtube/metaverse-addiction-trial-future-social-media-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/metaverse-addiction-trial-future-social-media-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/youtube/metaverse-addiction-trial-future-social-media-en.md
+FAIL: Spanish bleed found in EN file en/youtube/mikecrack-el-emperador-de-youtube-que-se-codea-con-ibai-y-el-rubius-andorra-es-un-pequeno-paraiso-en.md: 'El'
+FAIL: Double disclaimer in en/youtube/mikecrack-el-emperador-de-youtube-que-se-codea-con-ibai-y-el-rubius-andorra-es-un-pequeno-paraiso-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/mikecrack-el-emperador-de-youtube-que-se-codea-con-ibai-y-el-rubius-andorra-es-un-pequeno-paraiso-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/youtube/mikecrack-el-emperador-de-youtube-que-se-codea-con-ibai-y-el-rubius-andorra-es-un-pequeno-paraiso-en.md
+FAIL: Double disclaimer in en/youtube/mrbeast-controversy-business-impact-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/mrbeast-controversy-business-impact-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/mrbeast-controversy-business-impact-en.md
+FAIL: Double disclaimer in en/youtube/mrbeast-empire-creator-power-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/mrbeast-empire-creator-power-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/youtube/mrbeast-empire-creator-power-en.md
+FAIL: Double disclaimer in en/youtube/mrbeast-mega-era-why-you-cant-escape-his-next-wild-challenge-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/mrbeast-mega-era-why-you-cant-escape-his-next-wild-challenge-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/youtube/mrbeast-mega-era-why-you-cant-escape-his-next-wild-challenge-en.md
+FAIL: Double disclaimer in en/youtube/mrbeast-youtube-views-controversy-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/mrbeast-youtube-views-controversy-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/youtube/mrbeast-youtube-views-controversy-en.md
+FAIL: Double disclaimer in en/youtube/netflixs-ted-sarandos-calls-out-youtube-not-just-cat-videos-but-a-real-competitor-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/netflixs-ted-sarandos-calls-out-youtube-not-just-cat-videos-but-a-real-competitor-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/youtube/netflixs-ted-sarandos-calls-out-youtube-not-just-cat-videos-but-a-real-competitor-en.md
+FAIL: Double disclaimer in en/youtube/nikocado-avocado-drama-inside-his-latest-controversial-meltdown-what-went-wrong-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/nikocado-avocado-drama-inside-his-latest-controversial-meltdown-what-went-wrong-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/youtube/nikocado-avocado-drama-inside-his-latest-controversial-meltdown-what-went-wrong-en.md
+FAIL: Double disclaimer in en/youtube/rb-star-leon-thomas-teams-up-with-delta-and-youtube-premium-for-exciting-new-project-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/rb-star-leon-thomas-teams-up-with-delta-and-youtube-premium-for-exciting-new-project-en.md: ends with eld.*
+FAIL: Double disclaimer in en/youtube/sssniperwolf-demonetization-youtube-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/sssniperwolf-demonetization-youtube-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/sssniperwolf-demonetization-youtube-en.md
+FAIL: Double disclaimer in en/youtube/stokes-twins-youtube-pranks-real-life-chaos-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/stokes-twins-youtube-pranks-real-life-chaos-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/stokes-twins-youtube-pranks-real-life-chaos-en.md
+FAIL: Double disclaimer in en/youtube/streaming-democracy-political-consultant-brings-nh-executive-council-meetings-live-to-youtube-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/streaming-democracy-political-consultant-brings-nh-executive-council-meetings-live-to-youtube-en.md: ends with der.*
+FAIL: Double disclaimer in en/youtube/sunnyv2-youtube-downfall-accountability-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/sunnyv2-youtube-downfall-accountability-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/youtube/sunnyv2-youtube-downfall-accountability-en.md
+FAIL: Double disclaimer in en/youtube/the-6m-wake-up-call-how-a-jury-held-youtube-and-meta-accountable-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/the-6m-wake-up-call-how-a-jury-held-youtube-and-meta-accountable-en.md: ends with eld.*
+FAIL: Double disclaimer in en/youtube/the-legal-storm-brewing-what-instagram-and-youtubes-defective-verdict-means-for-social-media-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/the-legal-storm-brewing-what-instagram-and-youtubes-defective-verdict-means-for-social-media-en.md: ends with eld.*
+FAIL: Double disclaimer in en/youtube/unpacking-the-rise-of-k-pop-how-youtube-creators-shaped-a-global-phenomenon-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/unpacking-the-rise-of-k-pop-how-youtube-creators-shaped-a-global-phenomenon-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/youtube/unpacking-the-rise-of-k-pop-how-youtube-creators-shaped-a-global-phenomenon-en.md
+FAIL: Double disclaimer in en/youtube/vanlife-youtube-burnout-costs-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/vanlife-youtube-burnout-costs-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/youtube/vanlife-youtube-burnout-costs-en.md
+FAIL: Double disclaimer in en/youtube/who-will-win-1-million-mrbeasts-epic-live-competition-with-50-top-streamers-hits-youtube-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/who-will-win-1-million-mrbeasts-epic-live-competition-with-50-top-streamers-hits-youtube-en.md: ends with eld.*
+FAIL: Double disclaimer in en/youtube/your-complete-guide-to-catching-coachella-2026-live-on-youtube-en.md
+FAIL: AI trace 'In conclusion' found in en/youtube/your-complete-guide-to-catching-coachella-2026-live-on-youtube-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/your-complete-guide-to-catching-coachella-2026-live-on-youtube-en.md: ends with der.*
+FAIL: Double disclaimer in en/youtube/youtube-ad-fatigue-creator-exodus-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-ad-fatigue-creator-exodus-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-ad-fatigue-creator-exodus-en.md
+FAIL: Double disclaimer in en/youtube/youtube-ad-revenue-disney-paramount-wbd-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-ad-revenue-disney-paramount-wbd-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-ad-revenue-disney-paramount-wbd-en.md
+FAIL: Double disclaimer in en/youtube/youtube-ad-revenue-vs-disney-paramount-wbd-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-ad-revenue-vs-disney-paramount-wbd-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-ad-revenue-vs-disney-paramount-wbd-en.md
+FAIL: Spanish bleed found in EN file en/youtube/youtube-addiction-copa-algorithm-scandals-en.md: 'Los'
+FAIL: Double disclaimer in en/youtube/youtube-addiction-copa-algorithm-scandals-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-addiction-copa-algorithm-scandals-en.md: ends with ons.*
+FAIL: Double disclaimer in en/youtube/youtube-algorithm-2026-purge-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-algorithm-2026-purge-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-algorithm-2026-purge-en.md
+FAIL: Double disclaimer in en/youtube/youtube-algorithmic-mirage-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-algorithmic-mirage-en.md: ends with eld.*
+FAIL: Double disclaimer in en/youtube/youtube-and-fifa-join-forces-for-an-unforgettable-world-cup-2026-experience-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-and-fifa-join-forces-for-an-unforgettable-world-cup-2026-experience-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-and-fifa-join-forces-for-an-unforgettable-world-cup-2026-experience-en.md
+FAIL: Double disclaimer in en/youtube/youtube-brandcast-2026-the-dawn-of-a-new-era-in-digital-entertainment-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-brandcast-2026-the-dawn-of-a-new-era-in-digital-entertainment-en.md: ends with der.*
+FAIL: Double disclaimer in en/youtube/youtube-crowned-the-new-media-monarch-heres-the-inside-scoop-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-crowned-the-new-media-monarch-heres-the-inside-scoop-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-crowned-the-new-media-monarch-heres-the-inside-scoop-en.md
+FAIL: Double disclaimer in en/youtube/youtube-deepfake-crackdown-politicians-journalists-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-deepfake-crackdown-politicians-journalists-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-deepfake-crackdown-politicians-journalists-en.md
+FAIL: Double disclaimer in en/youtube/youtube-gemini-creator-collabs-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-gemini-creator-collabs-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-gemini-creator-collabs-en.md
+FAIL: Double disclaimer in en/youtube/youtube-global-outage-creator-impact-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-global-outage-creator-impact-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-global-outage-creator-impact-en.md
+FAIL: Double disclaimer in en/youtube/youtube-golden-age-creator-economics-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-golden-age-creator-economics-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-golden-age-creator-economics-en.md
+FAIL: Double disclaimer in en/youtube/youtube-golf-wars-business-fallout-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-golf-wars-business-fallout-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-golf-wars-business-fallout-en.md
+FAIL: Double disclaimer in en/youtube/youtube-hate-speech-policy-jeopardy-podcast-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-hate-speech-policy-jeopardy-podcast-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-hate-speech-policy-jeopardy-podcast-en.md
+FAIL: Double disclaimer in en/youtube/youtube-horror-algorithm-2024-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-horror-algorithm-2024-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-horror-algorithm-2024-en.md
+FAIL: Double disclaimer in en/youtube/youtube-jeopardy-podcast-demonetization-hate-speech-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-jeopardy-podcast-demonetization-hate-speech-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-jeopardy-podcast-demonetization-hate-speech-en.md
+FAIL: Double disclaimer in en/youtube/youtube-media-giant-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-media-giant-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-media-giant-en.md
+FAIL: Double disclaimer in en/youtube/youtube-outage-2026-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-outage-2026-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-outage-2026-en.md
+FAIL: Double disclaimer in en/youtube/youtube-shuts-down-ai-generated-movie-trailers-what-it-means-for-creators-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-shuts-down-ai-generated-movie-trailers-what-it-means-for-creators-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-shuts-down-ai-generated-movie-trailers-what-it-means-for-creators-en.md
+FAIL: Double disclaimer in en/youtube/youtube-sports-subscription-live-streaming-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-sports-subscription-live-streaming-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-sports-subscription-live-streaming-en.md
+FAIL: Double disclaimer in en/youtube/youtube-studio-meltdown-creator-revenue-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-studio-meltdown-creator-revenue-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-studio-meltdown-creator-revenue-en.md
+FAIL: Double disclaimer in en/youtube/youtube-takes-a-stand-major-belarusian-propaganda-outlets-face-account-deletion-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-takes-a-stand-major-belarusian-propaganda-outlets-face-account-deletion-en.md: ends with eld.*
+FAIL: Double disclaimer in en/youtube/youtube-takes-center-stage-highlights-from-brandcast-2026-en.md
+FAIL: AI trace 'In conclusion' found in en/youtube/youtube-takes-center-stage-highlights-from-brandcast-2026-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-takes-center-stage-highlights-from-brandcast-2026-en.md: ends with ons.*
+FAIL: Double disclaimer in en/youtube/youtube-the-new-media-monarch-heres-what-you-need-to-know-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-the-new-media-monarch-heres-what-you-need-to-know-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-the-new-media-monarch-heres-what-you-need-to-know-en.md
+FAIL: Double disclaimer in en/youtube/youtube-tv-2026-price-hike-or-worth-the-hype-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-tv-2026-price-hike-or-worth-the-hype-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-tv-2026-price-hike-or-worth-the-hype-en.md
+FAIL: Double disclaimer in en/youtube/youtube-tv-2026-worth-it-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-tv-2026-worth-it-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-tv-2026-worth-it-en.md
+FAIL: Double disclaimer in en/youtube/youtube-tv-dish-sling-streaming-wars-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-tv-dish-sling-streaming-wars-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-tv-dish-sling-streaming-wars-en.md
+FAIL: Double disclaimer in en/youtube/youtube-tv-fox-deal-extension-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-tv-fox-deal-extension-en.md: ends with eld.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-tv-fox-deal-extension-en.md
+FAIL: Double disclaimer in en/youtube/youtube-tv-subscriber-retention-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-tv-subscriber-retention-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-tv-subscriber-retention-en.md
+FAIL: Double disclaimer in en/youtube/youtube-vs-disney-new-media-king-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtube-vs-disney-new-media-king-en.md: ends with ons.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtube-vs-disney-new-media-king-en.md
+FAIL: Double disclaimer in en/youtube/youtuber-livestream-alibi-murder-forensics-en.md
+FAIL: Truncated content (no ending punctuation) in en/youtube/youtuber-livestream-alibi-murder-forensics-en.md: ends with der.*
+FAIL: Empty or generic link '/en/' in en/youtube/youtuber-livestream-alibi-murder-forensics-en.md
+FAIL: Truncated content (no ending punctuation) in es/about.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/about.md
+FAIL: English bleed found in ES file es/contacto.md: 'the'
+FAIL: Truncated content (no ending punctuation) in es/contacto.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/contacto.md
+FAIL: Truncated content (no ending punctuation) in es/privacy.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/privacy.md
+FAIL: Truncated content (no ending punctuation) in es/terms-of-service.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/terms-of-service.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/a16z-apuesta-blockchain-futuro-web3.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/a16z-apuesta-blockchain-futuro-web3.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/analisis-bitcoin-precio-halving-2024.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/analisis-bitcoin-precio-halving-2024.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/bitcoin-al-matadero-por-que-las-criptomonedas-sera.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/bitcoin-al-matadero-por-que-las-criptomonedas-sera.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/bitcoin-analisis-grafico-rumbo.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/bitcoin-analisis-grafico-rumbo.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/bitcoin-cae-ballenas-compran-trampa-alcista-o-senial-de-compra.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/bitcoin-cae-ballenas-compran-trampa-alcista-o-senial-de-compra.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/bitcoin-caida-soporte-analisis-espanol.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/bitcoin-caida-soporte-analisis-espanol.md
+FAIL: AI trace 'Este artículo explora' found in es/crypto/bitcoin-el-despertar-brutal-de-la-estafa-digital.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/bitcoin-el-despertar-brutal-de-la-estafa-digital.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/bitcoin-el-despertar-brutal-de-la-estafa-digital.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/bitcoin-el-refugio-seguro-en-medio-del-caos-global.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/bitcoin-el-refugio-seguro-en-medio-del-caos-global.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/bitcoin-en-caida-libre-el-fin-de-la-era-dorada.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/bitcoin-en-caida-libre-el-fin-de-la-era-dorada.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/bitcoin-grafico-clave-2025.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/bitcoin-grafico-clave-2025.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/bitcoin-inflacion-eeuu-2024.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/bitcoin-inflacion-eeuu-2024.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/bitcoin-la-burbuja-dorada-que-nunca-fue-oro.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/bitcoin-la-burbuja-dorada-que-nunca-fue-oro.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/bitcoin-la-burbuja-eterna-sostenida-por-el-hype.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/bitcoin-la-burbuja-eterna-sostenida-por-el-hype.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/bitcoin-la-estafa-del-siglo-xxi-al-descubierto.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/bitcoin-la-estafa-del-siglo-xxi-al-descubierto.md
+FAIL: AI trace 'Este artículo explora' found in es/crypto/bitcoin-la-fiebre-del-oro-digital-es-una-estafa-pi.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/bitcoin-la-fiebre-del-oro-digital-es-una-estafa-pi.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/bitcoin-la-fiebre-del-oro-digital-es-una-estafa-pi.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/bitcoin-refugio-inversores-incertidumbre.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/bitcoin-refugio-inversores-incertidumbre.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/bitcoin-se-derrumba-la-borrachera-cripto-llega-a-s.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/bitcoin-se-derrumba-la-borrachera-cripto-llega-a-s.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/bitcoin-vancouver-adios-criptomonedas.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/bitcoin-vancouver-adios-criptomonedas.md
+FAIL: English bleed found in ES file es/crypto/bitcoin-volatilidad-fondos-cobertura.md: 'and'
+FAIL: Truncated content (no ending punctuation) in es/crypto/bitcoin-volatilidad-fondos-cobertura.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/bitcoin-volatilidad-fondos-cobertura.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/ceo-ripple-alerta-criptos-politica-riesgos.md: ends with tor.*
+FAIL: Truncated content (no ending punctuation) in es/crypto/cryptocom-despide-al-12-de-su-personal-la-ia-es-la-clave-para-sobrevivir-en-el-mercado.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/cryptocom-despide-al-12-de-su-personal-la-ia-es-la-clave-para-sobrevivir-en-el-mercado.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/cryptocom-despide-al-12-de-su-plantilla-mientras-apuesta-por-la-inteligencia-artificial.md: ends with tor.*
+FAIL: AI trace 'Este artículo explora' found in es/crypto/domina-makecom-en-2-horas-guia-definitiva-para-principiantes-2026.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/domina-makecom-en-2-horas-guia-definitiva-para-principiantes-2026.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/domina-makecom-en-2-horas-guia-definitiva-para-principiantes-2026.md
+FAIL: English bleed found in ES file es/crypto/etfs-bitcoin-caida-demanda-institucional.md: 'and'
+FAIL: Truncated content (no ending punctuation) in es/crypto/etfs-bitcoin-caida-demanda-institucional.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/etfs-bitcoin-caida-demanda-institucional.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/fin-mercado-bajista-bitcoin-recuperacion-74500.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/fin-mercado-bajista-bitcoin-recuperacion-74500.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/guerra-iran-eeuu-apuestas-crypto-polymarket.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/guerra-iran-eeuu-apuestas-crypto-polymarket.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/harvard-bitcoin-ethereum-elite-inversion.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/harvard-bitcoin-ethereum-elite-inversion.md
+FAIL: English bleed found in ES file es/crypto/harvard-ethereum-bitcoin-cambio-paradigma.md: 'The'
+FAIL: Truncated content (no ending punctuation) in es/crypto/harvard-ethereum-bitcoin-cambio-paradigma.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/harvard-ethereum-bitcoin-cambio-paradigma.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/la-batalla-del-futuro-puede-la-computacion-cuantica-romper-el-cifrado-de-bitcoin-antes-de-2029.md: ends with tor.*
+FAIL: Truncated content (no ending punctuation) in es/crypto/makecom-dominado-en-2-horas-guia-definitiva-para-principiantes-2026.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/makecom-dominado-en-2-horas-guia-definitiva-para-principiantes-2026.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/makecom-en-2-horas-domina-la-automatizacion-en-2026-guia-definitiva-para-principiantes.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/makecom-en-2-horas-domina-la-automatizacion-en-2026-guia-definitiva-para-principiantes.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/metamask-gas-fees-guia-completa.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/metamask-gas-fees-guia-completa.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/pobreza-seguro-medico-eeuu-2024.md: ends with lud.*
+FAIL: Truncated content (no ending punctuation) in es/crypto/que-pasara-con-litecoin-analisis-de-su-precio-hasta-2026.md: ends with tor.*
+FAIL: Truncated content (no ending punctuation) in es/crypto/rally-bitcoin-apalancamiento-onchain.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/rally-bitcoin-apalancamiento-onchain.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/tron-trx-predicciones-precio-2026-2028.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/tron-trx-predicciones-precio-2026-2028.md
+FAIL: English bleed found in ES file es/crypto/web3-monumento-ingenuidad-codicia.md: 'The'
+FAIL: Truncated content (no ending punctuation) in es/crypto/web3-monumento-ingenuidad-codicia.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/web3-monumento-ingenuidad-codicia.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/why-is-berachain-trending-today-in-crypto.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/why-is-berachain-trending-today-in-crypto.md
+FAIL: English bleed found in ES file es/crypto/why-is-venice-token-trending-today-in-crypto.md: 'and'
+FAIL: Truncated content (no ending punctuation) in es/crypto/why-is-venice-token-trending-today-in-crypto.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/crypto/why-is-venice-token-trending-today-in-crypto.md
+FAIL: Truncated content (no ending punctuation) in es/crypto/_index.md: ends with lud.*
+FAIL: Truncated content (no ending punctuation) in es/fitness/activa-tus-musculos-en-minutos-la-maquina-de-fitness-que-supera-al-running.md: ends with lud.*
+FAIL: Truncated content (no ending punctuation) in es/fitness/auge-masmusculo-impacto-global.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/auge-masmusculo-impacto-global.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/celine-dion-se-enfrenta-al-desafio-del-ballet-4-veces-por-semana-en-la-barra.md: ends with lud.*
+FAIL: English bleed found in ES file es/fitness/cuerpos-celebrity-metodo-fitness-hollywood.md: 'and'
+FAIL: Truncated content (no ending punctuation) in es/fitness/cuerpos-celebrity-metodo-fitness-hollywood.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/cuerpos-celebrity-metodo-fitness-hollywood.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/deka-la-revolucion-del-fitness-hibrido-en-la-comunitat-valenciana.md: ends with lud.*
+FAIL: Truncated content (no ending punctuation) in es/fitness/dolph-lundgren-fisico-leyenda.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/dolph-lundgren-fisico-leyenda.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/eddie-howe-revela-el-estado-fisico-de-su-estrella-mientras-newcastle-se-prepara-para-el-duelo-contra.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/eddie-howe-revela-el-estado-fisico-de-su-estrella-mientras-newcastle-se-prepara-para-el-duelo-contra.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/entrenamiento-extremo-azken-portu-gimnasio-xxl.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/entrenamiento-extremo-azken-portu-gimnasio-xxl.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/entrenamiento-fuerza-2026-verdad-oculta.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/entrenamiento-fuerza-2026-verdad-oculta.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/entrenamiento-funcional-seniors-2026.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/entrenamiento-funcional-seniors-2026.md
+FAIL: English bleed found in ES file es/fitness/espalda-recta-sin-complicaciones-marta-vicu.md: 'The'
+FAIL: Truncated content (no ending punctuation) in es/fitness/espalda-recta-sin-complicaciones-marta-vicu.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/espalda-recta-sin-complicaciones-marta-vicu.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/fitness-online-espana-ia-murcia.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/fitness-online-espana-ia-murcia.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/fitness-park-acelera-su-crecimiento-89-clubes-y-contando-en-espana.md: ends with lud.*
+FAIL: Truncated content (no ending punctuation) in es/fitness/friol-carballido-abdominales-acero.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/friol-carballido-abdominales-acero.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/gimnasios-fallando-mujeres.md: ends with lud.*
+FAIL: Truncated content (no ending punctuation) in es/fitness/incentivos-fiscales-gimnasios-espana.md: ends with lud.*
+FAIL: Truncated content (no ending punctuation) in es/fitness/jiu-jitsu-30-entrenamiento-antiedad.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/jiu-jitsu-30-entrenamiento-antiedad.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alma-college.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alma-college.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/la-fetri-presenta-el-hyatlon-una-nueva-revolucion-en-el-mundo-del-fitness.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/la-fetri-presenta-el-hyatlon-una-nueva-revolucion-en-el-mundo-del-fitness.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/la-innovadora-siesta-fitness-que-revoluciona-los-gimnasios-de-oriente-medio.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/la-innovadora-siesta-fitness-que-revoluciona-los-gimnasios-de-oriente-medio.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral.md: ends with lud.*
+FAIL: Truncated content (no ending punctuation) in es/fitness/lagree-fitness-mujeres-mayores-40.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/lagree-fitness-mujeres-mayores-40.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/lectura-nocturna-anillo-oura-retraso-sueno.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/lectura-nocturna-anillo-oura-retraso-sueno.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/ley-anti-intrusismo-fitness-cadenas-gimnasios.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/ley-anti-intrusismo-fitness-cadenas-gimnasios.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/mito-meseta-vo2-max-protocolo-fallido.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/mito-meseta-vo2-max-protocolo-fallido.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/muerte-stephanie-buttermore-dietas-extremas-fitness.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/muerte-stephanie-buttermore-dietas-extremas-fitness.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/on-air-fitness-aterriza-en-espana-que-significa-para-el-panorama-del-fitness-nacional.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/on-air-fitness-aterriza-en-espana-que-significa-para-el-panorama-del-fitness-nacional.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/planet-fitness-golds-gym-espana-2026.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/planet-fitness-golds-gym-espana-2026.md
+FAIL: English bleed found in ES file es/fitness/plata-coloidal-biohacking-riesgos-neurodegeneracion.md: 'and'
+FAIL: Truncated content (no ending punctuation) in es/fitness/plata-coloidal-biohacking-riesgos-neurodegeneracion.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/plata-coloidal-biohacking-riesgos-neurodegeneracion.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/ray-alarcon-bombero-hipertrofia-debate.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/ray-alarcon-bombero-hipertrofia-debate.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/running-solidario-impacto-ambiental.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/running-solidario-impacto-ambiental.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/semana-santa-entrenamiento-sin-remordimientos.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/semana-santa-entrenamiento-sin-remordimientos.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/silver-fitness-el-guateque-del-ayuntamiento-y-el-gimnasio-wup-para-mayores-de-60-anos.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/silver-fitness-el-guateque-del-ayuntamiento-y-el-gimnasio-wup-para-mayores-de-60-anos.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/transformacion-fisica-despues-de-los-60.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/transformacion-fisica-despues-de-los-60.md
+FAIL: English bleed found in ES file es/fitness/wabol-deporte-longevidad.md: 'The'
+FAIL: Truncated content (no ending punctuation) in es/fitness/wabol-deporte-longevidad.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/wabol-deporte-longevidad.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/wfp-victor-hoffer-obsolescencia-programada-fitness.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/fitness/wfp-victor-hoffer-obsolescencia-programada-fitness.md
+FAIL: Truncated content (no ending punctuation) in es/fitness/_index.md: ends with lud.*
+FAIL: Truncated content (no ending punctuation) in es/funds/acciones-europeas-rentabilidad-del-3-ante-el-desplome-del-10-asiatico-por-iran.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/acciones-europeas-rentabilidad-del-3-ante-el-desplome-del-10-asiatico-por-iran.md
+FAIL: Truncated content (no ending punctuation) in es/funds/ataque-en-iran-stoxx-600-recupera-un-2-sostenible-o-rebote-efimero.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/ataque-en-iran-stoxx-600-recupera-un-2-sostenible-o-rebote-efimero.md
+FAIL: Truncated content (no ending punctuation) in es/funds/bankinter-y-plenium-partners-adquieren-un-30-de-access-capital-partners.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/bankinter-y-plenium-partners-adquieren-un-30-de-access-capital-partners.md
+FAIL: Truncated content (no ending punctuation) in es/funds/bestinver-bolsa-fi-lidera-el-mercado-espanol-con-un-4905-de-rentabilidad-en-2026.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/bestinver-bolsa-fi-lidera-el-mercado-espanol-con-un-4905-de-rentabilidad-en-2026.md
+FAIL: Truncated content (no ending punctuation) in es/funds/cinco-fondos-premiados-por-morningstar-en-2026-con-mas-del-15-de-rentabilidad-an.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/cinco-fondos-premiados-por-morningstar-en-2026-con-mas-del-15-de-rentabilidad-an.md
+FAIL: Truncated content (no ending punctuation) in es/funds/dividendo-2026-3-estrategias-para-no-caer-en-la-trampa-segun-morningstar.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/dividendo-2026-3-estrategias-para-no-caer-en-la-trampa-segun-morningstar.md
+FAIL: Truncated content (no ending punctuation) in es/funds/etfs-de-renta-variable-europea-analisis-del-flujo-de-6940-millones-y-sus-destino.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/etfs-de-renta-variable-europea-analisis-del-flujo-de-6940-millones-y-sus-destino.md
+FAIL: Truncated content (no ending punctuation) in es/funds/etfs-el-20-mercados-privados-y-clases-de-acciones-revolucionan-la-industria.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/etfs-el-20-mercados-privados-y-clases-de-acciones-revolucionan-la-industria.md
+FAIL: Truncated content (no ending punctuation) in es/funds/europa-resiste-subida-del-2-en-acciones-pese-a-caida-del-5-asiatica.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/europa-resiste-subida-del-2-en-acciones-pese-a-caida-del-5-asiatica.md
+FAIL: Truncated content (no ending punctuation) in es/funds/fondos-activos-baten-al-indice-63-logra-rendimientos-superiores-en-un-ano-volati.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/fondos-activos-baten-al-indice-63-logra-rendimientos-superiores-en-un-ano-volati.md
+FAIL: Truncated content (no ending punctuation) in es/funds/fondos-premiados-morningstar-2026-los-que-superan-el-15-de-rendimiento.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/fondos-premiados-morningstar-2026-los-que-superan-el-15-de-rendimiento.md
+FAIL: Truncated content (no ending punctuation) in es/funds/fondos-premiados-por-morningstar-en-2026-con-un-potencial-de-retorno-del-15.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/fondos-premiados-por-morningstar-en-2026-con-un-potencial-de-retorno-del-15.md
+FAIL: English bleed found in ES file es/funds/guerra-iran-3-sectores-defensivos-y-un-fondo-refugio-con-rentabilidad-del-5.md: 'the'
+FAIL: Truncated content (no ending punctuation) in es/funds/guerra-iran-3-sectores-defensivos-y-un-fondo-refugio-con-rentabilidad-del-5.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/guerra-iran-3-sectores-defensivos-y-un-fondo-refugio-con-rentabilidad-del-5.md
+FAIL: Truncated content (no ending punctuation) in es/funds/guerra-iran-golpe-del-5-a-ing-santander-y-bbva-impacto-real-en-fondos.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/guerra-iran-golpe-del-5-a-ing-santander-y-bbva-impacto-real-en-fondos.md
+FAIL: Truncated content (no ending punctuation) in es/funds/indexa-capital-bajada-de-comisiones-en-2026-podria-sumar-260000-a-tu-inversion.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/indexa-capital-bajada-de-comisiones-en-2026-podria-sumar-260000-a-tu-inversion.md
+FAIL: Truncated content (no ending punctuation) in es/funds/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran.md
+FAIL: Truncated content (no ending punctuation) in es/funds/ishares-core-euro-stoxx-50-asml-debe-crecer-para-mantener-la-subida-del-44.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/ishares-core-euro-stoxx-50-asml-debe-crecer-para-mantener-la-subida-del-44.md
+FAIL: Truncated content (no ending punctuation) in es/funds/magallanes-gana-su-tercer-premio-consecutivo-y-consolida-su-liderazgo-en-gestion.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/magallanes-gana-su-tercer-premio-consecutivo-y-consolida-su-liderazgo-en-gestion.md
+FAIL: Truncated content (no ending punctuation) in es/funds/nao-protea-european-equities-un-analisis-profundo-de-su-enfoque-y-resultados-con.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/nao-protea-european-equities-un-analisis-profundo-de-su-enfoque-y-resultados-con.md
+FAIL: Truncated content (no ending punctuation) in es/funds/oro-en-la-eurozona-5-etfs-large-cap-superan-el-12-anual.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/oro-en-la-eurozona-5-etfs-large-cap-superan-el-12-anual.md
+FAIL: Truncated content (no ending punctuation) in es/funds/premios-morningstar-2026-inbursa-el-factor-clave-de-su-consistencia-y-un-ratio-d.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/premios-morningstar-2026-inbursa-el-factor-clave-de-su-consistencia-y-un-ratio-d.md
+FAIL: Truncated content (no ending punctuation) in es/funds/premios-morningstar-2026-magallanes-value-investors-logra-su-tercer-galardon-con.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/premios-morningstar-2026-magallanes-value-investors-logra-su-tercer-galardon-con.md
+FAIL: Truncated content (no ending punctuation) in es/funds/premios-morningstar-2026-magallanes-value-investors-triplete-historico-como-mejo.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/premios-morningstar-2026-magallanes-value-investors-triplete-historico-como-mejo.md
+FAIL: Truncated content (no ending punctuation) in es/funds/spacex-podria-alcanzar-un-valor-de-100-mil-millones-de-dolares-en-su-salida-a-bo.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/spacex-podria-alcanzar-un-valor-de-100-mil-millones-de-dolares-en-su-salida-a-bo.md
+FAIL: Truncated content (no ending punctuation) in es/funds/spacex-una-valoracion-de-200000-millones-justificada.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/funds/spacex-una-valoracion-de-200000-millones-justificada.md
+FAIL: Truncated content (no ending punctuation) in es/funds/_index.md: ends with lud.*
+FAIL: Truncated content (no ending punctuation) in es/ia/amazon-automatizacion-empleo-espana.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/amazon-automatizacion-empleo-espana.md
+FAIL: Truncated content (no ending punctuation) in es/ia/anthropic-claude-apocalipsis-laboral-espana.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/anthropic-claude-apocalipsis-laboral-espana.md
+FAIL: Truncated content (no ending punctuation) in es/ia/celular-te-espia-y-le-pagas-por-ello.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/celular-te-espia-y-le-pagas-por-ello.md
+FAIL: English bleed found in ES file es/ia/claude-ai-crisis-error-fundadores-ia.md: 'the'
+FAIL: Truncated content (no ending punctuation) in es/ia/claude-ai-crisis-error-fundadores-ia.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/claude-ai-crisis-error-fundadores-ia.md
+FAIL: AI trace 'Este artículo explora' found in es/ia/claude-el-agente-de-ia-que-esta-revolucionando-la-forma-en-que-interactuamos-con-la-tecnologia.md
+FAIL: Truncated content (no ending punctuation) in es/ia/claude-el-agente-de-ia-que-esta-revolucionando-la-forma-en-que-interactuamos-con-la-tecnologia.md: ends with ria.*
+FAIL: Truncated content (no ending punctuation) in es/ia/crisis-la-estafa-del-siglo-como-nos-venden-el-derr.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/crisis-la-estafa-del-siglo-como-nos-venden-el-derr.md
+FAIL: AI trace 'Este artículo explora' found in es/ia/de-blade-runner-a-glovo-la-distopia-ya-esta-aqui-y.md
+FAIL: Truncated content (no ending punctuation) in es/ia/de-blade-runner-a-glovo-la-distopia-ya-esta-aqui-y.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/de-blade-runner-a-glovo-la-distopia-ya-esta-aqui-y.md
+FAIL: Truncated content (no ending punctuation) in es/ia/deepfakes-belicos-ia-espana.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/deepfakes-belicos-ia-espana.md
+FAIL: Truncated content (no ending punctuation) in es/ia/deuda-global-2026-el-subprime-que-nadie-vio-venir.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/deuda-global-2026-el-subprime-que-nadie-vio-venir.md
+FAIL: Truncated content (no ending punctuation) in es/ia/ecnocinicos-como-las-corporaciones-nos-venden-humo.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/ecnocinicos-como-las-corporaciones-nos-venden-humo.md
+FAIL: Truncated content (no ending punctuation) in es/ia/ecnocracia-el-nuevo-feudalismo-digital.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/ecnocracia-el-nuevo-feudalismo-digital.md
+FAIL: Truncated content (no ending punctuation) in es/ia/el-algoritmo-te-vigila-como-la-objetividad-de-los.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/el-algoritmo-te-vigila-como-la-objetividad-de-los.md
+FAIL: Truncated content (no ending punctuation) in es/ia/el-ano-en-que-el-futuro-se-rompio-y-nadie-hizo-na.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/el-ano-en-que-el-futuro-se-rompio-y-nadie-hizo-na.md
+FAIL: Truncated content (no ending punctuation) in es/ia/el-ano-que-el-mundo-se-cayo-a-pedazos.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/el-ano-que-el-mundo-se-cayo-a-pedazos.md
+FAIL: Truncated content (no ending punctuation) in es/ia/el-capitalismo-zombi-anatomia-de-un-sistema-fallid.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/el-capitalismo-zombi-anatomia-de-un-sistema-fallid.md
+FAIL: AI trace 'En resumen' found in es/ia/el-capitalismo-zombi-como-la-codicia-corporativa-e.md
+FAIL: Truncated content (no ending punctuation) in es/ia/el-capitalismo-zombi-como-la-codicia-corporativa-e.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/el-capitalismo-zombi-como-la-codicia-corporativa-e.md
+FAIL: Truncated content (no ending punctuation) in es/ia/el-desafio-de-madrid-puede-la-ia-revolucionar-la-capital-espanola.md: ends with tor.*
+FAIL: Truncated content (no ending punctuation) in es/ia/el-dossier-fantasma-cuando-la-opacidad-es-la-estra.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/el-dossier-fantasma-cuando-la-opacidad-es-la-estra.md
+FAIL: Truncated content (no ending punctuation) in es/ia/el-fin-de-la-tibieza-por-que-la-neutralidad-es-el.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/el-fin-de-la-tibieza-por-que-la-neutralidad-es-el.md
+FAIL: Truncated content (no ending punctuation) in es/ia/el-metaverso-esta-muerto-y-nadie-se-atreve-a-decir.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/el-metaverso-esta-muerto-y-nadie-se-atreve-a-decir.md
+FAIL: AI trace 'En resumen' found in es/ia/el-metaverso-ha-muerto-ahora-toca-reirnos.md
+FAIL: Truncated content (no ending punctuation) in es/ia/el-metaverso-ha-muerto-ahora-toca-reirnos.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/el-metaverso-ha-muerto-ahora-toca-reirnos.md
+FAIL: Truncated content (no ending punctuation) in es/ia/el-metaverso-ha-muerto-bienvenidos-al-infierno-dig.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/el-metaverso-ha-muerto-bienvenidos-al-infierno-dig.md
+FAIL: Truncated content (no ending punctuation) in es/ia/el-metaverso-ha-muerto-larga-vida-al-caos-digital.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/ia/el-metaverso-ha-muerto-larga-vida-al-caos-digital.md
+FAIL: Truncated content (no ending punctuation) in es/ia/el-metaverso-ha-muerto-quien-se-queda-con-los-hues.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/el-metaverso-ha-muerto-quien-se-queda-con-los-hues.md
+FAIL: Truncated content (no ending punctuation) in es/ia/el-mito-del-dato-como-la-obsesion-por-las-metricas.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/el-mito-del-dato-como-la-obsesion-por-las-metricas.md
+FAIL: Truncated content (no ending punctuation) in es/ia/el-mito-del-mesias-digital-como-silicon-valley-te.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/el-mito-del-mesias-digital-como-silicon-valley-te.md
+FAIL: Truncated content (no ending punctuation) in es/ia/el-mito-del-progreso-como-la-ia-nos-vende-un-futur.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/el-mito-del-progreso-como-la-ia-nos-vende-un-futur.md
+FAIL: Truncated content (no ending punctuation) in es/ia/el-tabu-digital-por-que-nadie-se-atreve-a-decir-la.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/ia/el-tabu-digital-por-que-nadie-se-atreve-a-decir-la.md
+FAIL: English bleed found in ES file es/ia/el-tabu-tecnologico-lo-que-no-quieren-que-sepas.md: 'and'
+FAIL: Truncated content (no ending punctuation) in es/ia/el-tabu-tecnologico-lo-que-no-quieren-que-sepas.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/ia/el-tabu-tecnologico-lo-que-no-quieren-que-sepas.md
+FAIL: Truncated content (no ending punctuation) in es/ia/en-si-misma-o-en-el-abismo-la-trampa-filosofica-qu.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/en-si-misma-o-en-el-abismo-la-trampa-filosofica-qu.md
+FAIL: Truncated content (no ending punctuation) in es/ia/fine-tuning-transformers-datos-escasos-estafa.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/fine-tuning-transformers-datos-escasos-estafa.md
+FAIL: Truncated content (no ending punctuation) in es/ia/gemini-3-1-flash-lite-google-chatgpt-pro.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/gemini-3-1-flash-lite-google-chatgpt-pro.md
+FAIL: Truncated content (no ending punctuation) in es/ia/geopolitica-2026-el-ano-en-que-la-realidad-supero.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/geopolitica-2026-el-ano-en-que-la-realidad-supero.md
+FAIL: English bleed found in ES file es/ia/geopolitica-2026-el-ano-que-el-mundo-se-rompio-y-n.md: 'The'
+FAIL: Truncated content (no ending punctuation) in es/ia/geopolitica-2026-el-ano-que-el-mundo-se-rompio-y-n.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/geopolitica-2026-el-ano-que-el-mundo-se-rompio-y-n.md
+FAIL: Truncated content (no ending punctuation) in es/ia/geopolitica-en-llamas-las-10-tendencias-que-incend.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/geopolitica-en-llamas-las-10-tendencias-que-incend.md
+FAIL: Truncated content (no ending punctuation) in es/ia/groenlandia-el-cisne-negro-que-derrumbara-el-imper.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/groenlandia-el-cisne-negro-que-derrumbara-el-imper.md
+FAIL: Truncated content (no ending punctuation) in es/ia/groenlandia-el-iceberg-que-hundira-el-imperio-digi.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/groenlandia-el-iceberg-que-hundira-el-imperio-digi.md
+FAIL: Truncated content (no ending punctuation) in es/ia/hospitales-futuro-cadiz-ia-robotica-genomica.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/ia/hospitales-futuro-cadiz-ia-robotica-genomica.md
+FAIL: Truncated content (no ending punctuation) in es/ia/hugging-face-embeddings-trampa-open-source.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/hugging-face-embeddings-trampa-open-source.md
+FAIL: English bleed found in ES file es/ia/ia-arma-armagedon-algoritmico-ceguera-militar.md: 'the'
+FAIL: Truncated content (no ending punctuation) in es/ia/ia-arma-armagedon-algoritmico-ceguera-militar.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/ia-arma-armagedon-algoritmico-ceguera-militar.md
+FAIL: Truncated content (no ending punctuation) in es/ia/ia-derecho-aliada-amenaza.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/ia-derecho-aliada-amenaza.md
+FAIL: Truncated content (no ending punctuation) in es/ia/ia-el-nuevo-mesias-que-te-dejara-en-la-calle.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/ia-el-nuevo-mesias-que-te-dejara-en-la-calle.md
+FAIL: Truncated content (no ending punctuation) in es/ia/ia-electoral-arma-secreta.md: ends with ria.*
+FAIL: Truncated content (no ending punctuation) in es/ia/ia-estudiantes-polanco-polemica.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/ia-estudiantes-polanco-polemica.md
+FAIL: Truncated content (no ending punctuation) in es/ia/ia-futuro-trabajo-analisis-tecnico.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/ia-futuro-trabajo-analisis-tecnico.md
+FAIL: Truncated content (no ending punctuation) in es/ia/ia-humanismo-diseno-tecnologico.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/ia-humanismo-diseno-tecnologico.md
+FAIL: Truncated content (no ending punctuation) in es/ia/ia-teleco-espana-crecimiento.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/ia-teleco-espana-crecimiento.md
+FAIL: Truncated content (no ending punctuation) in es/ia/inteligencia-artificial-la-estafa-del-siglo-xxi.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/inteligencia-artificial-la-estafa-del-siglo-xxi.md
+FAIL: Truncated content (no ending punctuation) in es/ia/la-cortina-de-humo-digital.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/la-cortina-de-humo-digital.md
+FAIL: Truncated content (no ending punctuation) in es/ia/la-creatividad-humana-sigue-siendo-la-reina-puede-la-ia-alcanzarla-alguna-vez.md: ends with tor.*
+FAIL: English bleed found in ES file es/ia/la-dictadura-de-la-indiferencia-como-el-esta-bien.md: 'the'
+FAIL: Truncated content (no ending punctuation) in es/ia/la-dictadura-de-la-indiferencia-como-el-esta-bien.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/la-dictadura-de-la-indiferencia-como-el-esta-bien.md
+FAIL: Truncated content (no ending punctuation) in es/ia/la-dictadura-digital-como-vendimos-nuestra-alma-a.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/la-dictadura-digital-como-vendimos-nuestra-alma-a.md
+FAIL: Truncated content (no ending punctuation) in es/ia/la-ia-como-arbitro-electoral-puede-influir-en-tu-voto.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/la-ia-como-arbitro-electoral-puede-influir-en-tu-voto.md
+FAIL: English bleed found in ES file es/ia/la-ia-no-viene-a-salvarnos-viene-a-explotarnos.md: 'the'
+FAIL: Truncated content (no ending punctuation) in es/ia/la-ia-no-viene-a-salvarnos-viene-a-explotarnos.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/ia/la-ia-no-viene-a-salvarnos-viene-a-explotarnos.md
+FAIL: Truncated content (no ending punctuation) in es/ia/la-ia-que-podria-cambiar-el-futuro-del-diagnostico-del-cancer-estamos-listos-para-confiar-en-algorit.md: ends with lud.*
+FAIL: Truncated content (no ending punctuation) in es/ia/la-ia-que-transforma-la-revision-juridica-eficiencia-y-precision-al-alcance-de-todos.md: ends with tor.*
+FAIL: English bleed found in ES file es/ia/la-ia-responsable-se-convierte-en-el-nuevo-estandar-paises-bajos-otorga-derechos-de-autor.md: 'the'
+FAIL: Truncated content (no ending punctuation) in es/ia/la-ia-responsable-se-convierte-en-el-nuevo-estandar-paises-bajos-otorga-derechos-de-autor.md: ends with ria.*
+FAIL: Truncated content (no ending punctuation) in es/ia/la-ia-te-saluda-pero-no-te-salvara-por-que-la-cort.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/ia/la-ia-te-saluda-pero-no-te-salvara-por-que-la-cort.md
+FAIL: AI trace 'Este artículo explora' found in es/ia/la-ia-transforma-hasta-la-limpieza-de-piscinas-que-mas-nos-espera.md
+FAIL: Truncated content (no ending punctuation) in es/ia/la-ia-transforma-hasta-la-limpieza-de-piscinas-que-mas-nos-espera.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/la-ia-transforma-hasta-la-limpieza-de-piscinas-que-mas-nos-espera.md
+FAIL: Truncated content (no ending punctuation) in es/ia/la-polemica-detras-del-saqueo-digital-deberian-pagar-los-gigantes-de-la-ia-por-el-contenido-de-inter.md: ends with ria.*
+FAIL: Truncated content (no ending punctuation) in es/ia/la-revolucion-de-la-ia-en-la-educacion-inclusiva-una-ponencia-imperdible-de-concha-barcelo.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/la-revolucion-de-la-ia-en-la-educacion-inclusiva-una-ponencia-imperdible-de-concha-barcelo.md
+FAIL: Truncated content (no ending punctuation) in es/ia/la-ue-prohibe-los-deepfakes-sexuales-con-ia-que-opinan-los-expertos.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/la-ue-prohibe-los-deepfakes-sexuales-con-ia-que-opinan-los-expertos.md
+FAIL: Truncated content (no ending punctuation) in es/ia/metaverso-el-gran-bluf-tecnologico-del-siglo-xxi.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/metaverso-el-gran-bluf-tecnologico-del-siglo-xxi.md
+FAIL: Truncated content (no ending punctuation) in es/ia/metaverso-estafa-piramidal-evitar.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/metaverso-estafa-piramidal-evitar.md
+FAIL: English bleed found in ES file es/ia/metaverso-muerte-hype.md: 'The'
+FAIL: Truncated content (no ending punctuation) in es/ia/metaverso-muerte-hype.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/metaverso-muerte-hype.md
+FAIL: Truncated content (no ending punctuation) in es/ia/metaverso-zombie-vr-cripto-apocalipsis.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/ia/metaverso-zombie-vr-cripto-apocalipsis.md
+FAIL: Truncated content (no ending punctuation) in es/ia/movil-te-traiciona-el-negocio-redondo-del-espionaj.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/ia/movil-te-traiciona-el-negocio-redondo-del-espionaj.md
+FAIL: English bleed found in ES file es/ia/nba-all-star-2026-estrategia-digital.md: 'the'
+FAIL: Truncated content (no ending punctuation) in es/ia/nba-all-star-2026-estrategia-digital.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/nba-all-star-2026-estrategia-digital.md
+FAIL: Truncated content (no ending punctuation) in es/ia/neutralidad-cero-la-gran-estafa-de-la-informacion.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/neutralidad-cero-la-gran-estafa-de-la-informacion.md
+FAIL: Truncated content (no ending punctuation) in es/ia/nos-distrae-la-ia-mientras-el-mundo-se-derrumba.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/nos-distrae-la-ia-mientras-el-mundo-se-derrumba.md
+FAIL: Truncated content (no ending punctuation) in es/ia/novumworld-la-burbuja-de-la-elite-que-nadie-quiere.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/novumworld-la-burbuja-de-la-elite-que-nadie-quiere.md
+FAIL: Truncated content (no ending punctuation) in es/ia/novumworld-la-farsa-del-periodismo-de-elite-y-por.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/novumworld-la-farsa-del-periodismo-de-elite-y-por.md
+FAIL: Truncated content (no ending punctuation) in es/ia/openai-fichajes-sueldos-inflados-fuga-cerebros.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/openai-fichajes-sueldos-inflados-fuga-cerebros.md
+FAIL: Truncated content (no ending punctuation) in es/ia/openai-recula-sora-estrategia-ia.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/openai-recula-sora-estrategia-ia.md
+FAIL: Truncated content (no ending punctuation) in es/ia/openclaw-china-control-estatal.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/openclaw-china-control-estatal.md
+FAIL: Truncated content (no ending punctuation) in es/ia/retencion-saas-ia-blameware.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/retencion-saas-ia-blameware.md
+FAIL: Truncated content (no ending punctuation) in es/ia/saas-apocalipsis-2026-crisis-vc.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/saas-apocalipsis-2026-crisis-vc.md
+FAIL: Truncated content (no ending punctuation) in es/ia/saas-apocalipsis-ia-2026.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/saas-apocalipsis-ia-2026.md
+FAIL: Truncated content (no ending punctuation) in es/ia/saas-extincion-masiva.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/saas-extincion-masiva.md
+FAIL: Truncated content (no ending punctuation) in es/ia/saaspocalypse-inversores-ia-ganadores.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/saaspocalypse-inversores-ia-ganadores.md
+FAIL: Truncated content (no ending punctuation) in es/ia/saaspocalypse-sobreviviran-las-empresas-de-software-a-la-ia-los-datos-que-no-te-cuentan.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/saaspocalypse-sobreviviran-las-empresas-de-software-a-la-ia-los-datos-que-no-te-cuentan.md
+FAIL: Truncated content (no ending punctuation) in es/ia/silicon-valley-esta-muerto-el-futuro-es-descentral.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/silicon-valley-esta-muerto-el-futuro-es-descentral.md
+FAIL: Truncated content (no ending punctuation) in es/ia/silicon-valley-la-burbuja-de-humo-que-engano-al-mu.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/silicon-valley-la-burbuja-de-humo-que-engano-al-mu.md
+FAIL: English bleed found in ES file es/ia/silicon-valley-la-burbuja-que-nunca-exploto-pero-d.md: 'The'
+FAIL: Truncated content (no ending punctuation) in es/ia/silicon-valley-la-burbuja-que-nunca-exploto-pero-d.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/silicon-valley-la-burbuja-que-nunca-exploto-pero-d.md
+FAIL: Truncated content (no ending punctuation) in es/ia/silicon-valley-se-desangra-la-era-dorada-ha-termin.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/silicon-valley-se-desangra-la-era-dorada-ha-termin.md
+FAIL: Truncated content (no ending punctuation) in es/ia/stoxx-600-sube-un-15-tras-la-crisis-en-asia-pero-la-volatilidad-persiste.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/stoxx-600-sube-un-15-tras-la-crisis-en-asia-pero-la-volatilidad-persiste.md
+FAIL: Truncated content (no ending punctuation) in es/ia/suenan-los-androides-con-ovejas-electricas-y-tu-co.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/suenan-los-androides-con-ovejas-electricas-y-tu-co.md
+FAIL: Truncated content (no ending punctuation) in es/ia/suenan-los-borregos-con-ciber-ovejas-el-futuro-no.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/suenan-los-borregos-con-ciber-ovejas-el-futuro-no.md
+FAIL: AI trace 'Este artículo explora' found in es/ia/suscripciones-fantasma-la-estafa-del-siglo-xxi.md
+FAIL: Truncated content (no ending punctuation) in es/ia/suscripciones-fantasma-la-estafa-del-siglo-xxi.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/suscripciones-fantasma-la-estafa-del-siglo-xxi.md
+FAIL: Truncated content (no ending punctuation) in es/ia/tablas-prohibidas-el-arma-secreta-de-la-desinforma.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/tablas-prohibidas-el-arma-secreta-de-la-desinforma.md
+FAIL: Truncated content (no ending punctuation) in es/ia/tecno-apocalipsis-asi-la-ia-revivio-la-bomba-atomi.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/tecno-apocalipsis-asi-la-ia-revivio-la-bomba-atomi.md
+FAIL: Truncated content (no ending punctuation) in es/ia/trabajo-y-la-distopia-2026-que-nadie-quiso-ver.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/ia/trabajo-y-la-distopia-2026-que-nadie-quiso-ver.md
+FAIL: Truncated content (no ending punctuation) in es/ia/tu-nevera-te-espia-el-futuro-orwelliano-que-ya-pag.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/ia/tu-nevera-te-espia-el-futuro-orwelliano-que-ya-pag.md
+FAIL: Truncated content (no ending punctuation) in es/ia/workday-obsolescencia-ia-openai-2026.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/ia/workday-obsolescencia-ia-openai-2026.md
+FAIL: Truncated content (no ending punctuation) in es/tools/analisis-tecnico-actualizacion-google-maps.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/tools/analisis-tecnico-actualizacion-google-maps.md
+FAIL: Truncated content (no ending punctuation) in es/tools/analisis-tecnico-alianza-ace-mercado-datos-energeticos-espanol.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/tools/analisis-tecnico-alianza-ace-mercado-datos-energeticos-espanol.md
+FAIL: Truncated content (no ending punctuation) in es/tools/analisis-tecnico-crimson-desert-ia-etica.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/tools/analisis-tecnico-crimson-desert-ia-etica.md
+FAIL: Truncated content (no ending punctuation) in es/tools/analisis-tecnico-herramientas-gratuitas-inteligencia-competitiva-espana.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/tools/analisis-tecnico-herramientas-gratuitas-inteligencia-competitiva-espana.md
+FAIL: English bleed found in ES file es/tools/analisis-tecnico-herramientas-gratuitas-valoracion-acciones.md: 'the'
+FAIL: Truncated content (no ending punctuation) in es/tools/analisis-tecnico-herramientas-gratuitas-valoracion-acciones.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/tools/analisis-tecnico-herramientas-gratuitas-valoracion-acciones.md
+FAIL: Truncated content (no ending punctuation) in es/tools/analisis-tecnico-herramientas-perforacion-direccional-fusiones-2026.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/tools/analisis-tecnico-herramientas-perforacion-direccional-fusiones-2026.md
+FAIL: English bleed found in ES file es/tools/analisis-tecnico-ios-27-arquitectura-seguridad-privacidad.md: 'the'
+FAIL: Truncated content (no ending punctuation) in es/tools/analisis-tecnico-ios-27-arquitectura-seguridad-privacidad.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/tools/analisis-tecnico-ios-27-arquitectura-seguridad-privacidad.md
+FAIL: Truncated content (no ending punctuation) in es/tools/analisis-tecnico-miami-1990-cafe-quijano.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/tools/analisis-tecnico-miami-1990-cafe-quijano.md
+FAIL: AI trace 'Este artículo explora' found in es/tools/analisis-tecnico-overclocking-undervolting-intel.md
+FAIL: Truncated content (no ending punctuation) in es/tools/analisis-tecnico-overclocking-undervolting-intel.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/tools/analisis-tecnico-overclocking-undervolting-intel.md
+FAIL: Truncated content (no ending punctuation) in es/tools/analisis-tecnico-robots-alyco-almacenes-altura.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/tools/analisis-tecnico-robots-alyco-almacenes-altura.md
+FAIL: Truncated content (no ending punctuation) in es/tools/apple-potencia-final-cut-pro-con-la-adquisicion-de-motionvfx-que-significa-para-los-editores-de-vide.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/tools/apple-potencia-final-cut-pro-con-la-adquisicion-de-motionvfx-que-significa-para-los-editores-de-vide.md
+FAIL: English bleed found in ES file es/tools/avid-arrasa-en-los-oscars-2026-el-fenomeno-de-una-batalla-tras-otra-y-su-conexion-con-f1.md: 'The'
+FAIL: Truncated content (no ending punctuation) in es/tools/avid-arrasa-en-los-oscars-2026-el-fenomeno-de-una-batalla-tras-otra-y-su-conexion-con-f1.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/tools/avid-arrasa-en-los-oscars-2026-el-fenomeno-de-una-batalla-tras-otra-y-su-conexion-con-f1.md
+FAIL: Truncated content (no ending punctuation) in es/tools/dck-expande-su-dominio-en-herramientas-profesionales-en-eisenwarenmesse-2026.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/tools/dck-expande-su-dominio-en-herramientas-profesionales-en-eisenwarenmesse-2026.md
+FAIL: Truncated content (no ending punctuation) in es/tools/desglose-tecnico-herramientas-ranger-2025.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/tools/desglose-tecnico-herramientas-ranger-2025.md
+FAIL: Truncated content (no ending punctuation) in es/tools/el-mapa-supertrend-de-bigbeluga-el-nuevo-indicador-que-cambiara-tu-estrategia-financiera.md: ends with tor.*
+FAIL: Truncated content (no ending punctuation) in es/tools/google-tv-microseries-analisis-tecnico.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/tools/google-tv-microseries-analisis-tecnico.md
+FAIL: Truncated content (no ending punctuation) in es/tools/google-workspace-cli-automatizacion-ia.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/tools/google-workspace-cli-automatizacion-ia.md
+FAIL: Truncated content (no ending punctuation) in es/tools/ih-set-analisis-tecnico-modelado-litoral.md: ends with tor.*
+FAIL: Truncated content (no ending punctuation) in es/tools/la-ia-revoluciona-la-agricultura-precision-y-automatizacion-al-servicio-del-campo.md: ends with ria.*
+FAIL: Truncated content (no ending punctuation) in es/tools/la-revolucion-de-la-inteligencia-artificial-sabia-de-prisa-media-marca-el-futuro-del-periodismo.md: ends with ria.*
+FAIL: Truncated content (no ending punctuation) in es/tools/la-revolucion-del-email-marketing-las-herramientas-imprescindibles-de-2026.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/tools/la-revolucion-del-email-marketing-las-herramientas-imprescindibles-de-2026.md
+FAIL: Truncated content (no ending punctuation) in es/tools/la-revolucion-del-trading-cripto-las-mejores-plataformas-de-ia-para-2026.md: ends with ria.*
+FAIL: Truncated content (no ending punctuation) in es/tools/makecom-en-2-horas-domina-la-automatizacion-sin-ser-experto-guia-2025.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/tools/makecom-en-2-horas-domina-la-automatizacion-sin-ser-experto-guia-2025.md
+FAIL: English bleed found in ES file es/tools/revolucion-en-la-investigacion-elsevier-lanza-una-herramienta-para-verificar-la-credibilidad-de-arti.md: 'the'
+FAIL: Truncated content (no ending punctuation) in es/tools/revolucion-en-la-investigacion-elsevier-lanza-una-herramienta-para-verificar-la-credibilidad-de-arti.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/tools/revolucion-en-la-investigacion-elsevier-lanza-una-herramienta-para-verificar-la-credibilidad-de-arti.md
+FAIL: Truncated content (no ending punctuation) in es/tools/taller-infantil-power-tools-una-mirada-creativa-al-mundo-actual-en-el-museo-helga-de-alvear.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/tools/taller-infantil-power-tools-una-mirada-creativa-al-mundo-actual-en-el-museo-helga-de-alvear.md
+FAIL: Truncated content (no ending punctuation) in es/viral/8m-bilbao-himno-feminista-redes.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/viral/8m-bilbao-himno-feminista-redes.md
+FAIL: Truncated content (no ending punctuation) in es/viral/alerta-nasa-satelite-descontrolado-amenaza-tierra.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/viral/alerta-nasa-satelite-descontrolado-amenaza-tierra.md
+FAIL: Truncated content (no ending punctuation) in es/viral/algoritmo-chino-b2-supremacia-aerea.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/viral/algoritmo-chino-b2-supremacia-aerea.md
+FAIL: Truncated content (no ending punctuation) in es/viral/alicante-la-joya-mediterranea-que-todos-estan-descubriendo.md: ends with tor.*
+FAIL: Truncated content (no ending punctuation) in es/viral/alphasniper-plex-jarama-lamborghini-porsche.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/viral/alphasniper-plex-jarama-lamborghini-porsche.md
+FAIL: Truncated content (no ending punctuation) in es/viral/carcel-insultos-racistas-mbappe-laliga.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/viral/carcel-insultos-racistas-mbappe-laliga.md
+FAIL: Truncated content (no ending punctuation) in es/viral/cheerleaders-baloncesto-viral.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/viral/cheerleaders-baloncesto-viral.md
+FAIL: Truncated content (no ending punctuation) in es/viral/chuando-tan-modelo-eterna-juventud.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/viral/chuando-tan-modelo-eterna-juventud.md
+FAIL: English bleed found in ES file es/viral/deepfakes-infantiles-ia-sexualizacion-adolescentes-espana.md: 'the'
+FAIL: Truncated content (no ending punctuation) in es/viral/deepfakes-infantiles-ia-sexualizacion-adolescentes-espana.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/viral/deepfakes-infantiles-ia-sexualizacion-adolescentes-espana.md
+FAIL: Truncated content (no ending punctuation) in es/viral/djmariio-predice-el-escandalo-el-momento-polemico-que-sacudio-el-manchester-city-vs-real-madrid.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/viral/djmariio-predice-el-escandalo-el-momento-polemico-que-sacudio-el-manchester-city-vs-real-madrid.md
+FAIL: Truncated content (no ending punctuation) in es/viral/el-padre-de-fran-y-su-obsesion-belica-que-hay-detras-de-comprar-10-bombonas.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/viral/el-padre-de-fran-y-su-obsesion-belica-que-hay-detras-de-comprar-10-bombonas.md
+FAIL: Truncated content (no ending punctuation) in es/viral/el-producto-de-belleza-que-arrasa-lo-que-necesitas-en-tu-neceser-esta-semana-santa.md: ends with lud.*
+FAIL: Truncated content (no ending punctuation) in es/viral/el-ranking-de-palabras-que-las-mujeres-usan-y-los-hombres-no-entienden-el-video-que-todos-comentan.md: ends with ria.*
+FAIL: Truncated content (no ending punctuation) in es/viral/el-reto-del-movil-pegado-al-tranvia-la-peligrosa-tendencia-que-pone-en-jaque-a-valencia.md: ends with lud.*
+FAIL: Truncated content (no ending punctuation) in es/viral/harvard-revela-el-secreto-detras-de-los-virus-que-nunca-nos-abandonan.md: ends with lud.*
+FAIL: Truncated content (no ending punctuation) in es/viral/huelva-barrio-viral-gentrificacion.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/viral/huelva-barrio-viral-gentrificacion.md
+FAIL: Truncated content (no ending punctuation) in es/viral/ia-cultura-pop-generacion-z-analogico-bad-bunny-bodas-tendencias-virales.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/viral/ia-cultura-pop-generacion-z-analogico-bad-bunny-bodas-tendencias-virales.md
+FAIL: Truncated content (no ending punctuation) in es/viral/kim-kardashian-y-su-caida-epica-en-los-oscar-zapatos-de-20-cm-que-marcan-tendencia.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/viral/kim-kardashian-y-su-caida-epica-en-los-oscar-zapatos-de-20-cm-que-marcan-tendencia.md
+FAIL: Truncated content (no ending punctuation) in es/viral/kings-league-crisis-audiencia-gerard-romero.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/viral/kings-league-crisis-audiencia-gerard-romero.md
+FAIL: Truncated content (no ending punctuation) in es/viral/la-base-de-maquillaje-viral-realmente-logra-la-piel-perfecta.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/viral/la-base-de-maquillaje-viral-realmente-logra-la-piel-perfecta.md
+FAIL: Truncated content (no ending punctuation) in es/viral/la-divertida-reaccion-de-dos-turistas-en-su-primera-mascleta-en-valencia-un-momento-inolvidable.md: ends with lud.*
+FAIL: Truncated content (no ending punctuation) in es/viral/la-novia-de-vinicius-desata-la-locura-en-redes-con-su-impresionante-forma-fisica.md: ends with lud.*
+FAIL: Truncated content (no ending punctuation) in es/viral/limpiasgate-coche-patrulla-taxi-vip.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/viral/limpiasgate-coche-patrulla-taxi-vip.md
+FAIL: English bleed found in ES file es/viral/marta-carriedo-polemica-vacunas-infantiles.md: 'The'
+FAIL: Truncated content (no ending punctuation) in es/viral/marta-carriedo-polemica-vacunas-infantiles.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/viral/marta-carriedo-polemica-vacunas-infantiles.md
+FAIL: Truncated content (no ending punctuation) in es/viral/masterchef-dubai-polemica-fiscal.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/viral/masterchef-dubai-polemica-fiscal.md
+FAIL: Truncated content (no ending punctuation) in es/viral/met-gala-2026-la-fusion-perfecta-de-moda-arte-y-tendencias-virales-que-arrasan-en-redes.md: ends with ria.*
+FAIL: Truncated content (no ending punctuation) in es/viral/no-te-pierdas-la-reaccion-epica-de-arbeloa-al-ver-a-mbappe-entrar-tarde-al-etihad.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/viral/no-te-pierdas-la-reaccion-epica-de-arbeloa-al-ver-a-mbappe-entrar-tarde-al-etihad.md
+FAIL: English bleed found in ES file es/viral/oscar-puente-rejuvenecimiento-ia-manipulacion-mediatica.md: 'and'
+FAIL: Truncated content (no ending punctuation) in es/viral/oscar-puente-rejuvenecimiento-ia-manipulacion-mediatica.md: ends with ria.*
+FAIL: Truncated content (no ending punctuation) in es/viral/pique-epico-portero-incendia-la-grada-con-frase-sobre-espana-y-lo-que-va-a-pasar.md: ends with ria.*
+FAIL: Truncated content (no ending punctuation) in es/viral/que-significa-el-meme-6-7-o-six-seven-que-dicen-tus-hijos-si-es-que-significa-algo.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/viral/que-significa-el-meme-6-7-o-six-seven-que-dicen-tus-hijos-si-es-que-significa-algo.md
+FAIL: Truncated content (no ending punctuation) in es/viral/realities-espana-polemica.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/viral/realities-espana-polemica.md
+FAIL: Truncated content (no ending punctuation) in es/viral/reina-sofia-alcaraz-polemica-miami.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/viral/reina-sofia-alcaraz-polemica-miami.md
+FAIL: Truncated content (no ending punctuation) in es/viral/reto-paracetamol-tiktok-peligro-viral.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/viral/reto-paracetamol-tiktok-peligro-viral.md
+FAIL: English bleed found in ES file es/viral/shakira-concierto-gratis-cdmx-riesgos.md: 'and'
+FAIL: Truncated content (no ending punctuation) in es/viral/shakira-concierto-gratis-cdmx-riesgos.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/viral/shakira-concierto-gratis-cdmx-riesgos.md
+FAIL: Truncated content (no ending punctuation) in es/viral/tama-gata-jefa-estacion-wakayama.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/viral/tama-gata-jefa-estacion-wakayama.md
+FAIL: Truncated content (no ending punctuation) in es/viral/terianos-cuba-polemica-redes.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/viral/terianos-cuba-polemica-redes.md
+FAIL: Truncated content (no ending punctuation) in es/viral/tetuan-microexpresiones-terror-maltrato-postpandemia.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/viral/tetuan-microexpresiones-terror-maltrato-postpandemia.md
+FAIL: Truncated content (no ending punctuation) in es/viral/therians-identidad-online-legal.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/viral/therians-identidad-online-legal.md
+FAIL: Truncated content (no ending punctuation) in es/viral/trump-cede-ormuz-ibex.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/viral/trump-cede-ormuz-ibex.md
+FAIL: Truncated content (no ending punctuation) in es/viral/ventosas-futbol-moda-placebo.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/viral/ventosas-futbol-moda-placebo.md
+FAIL: Truncated content (no ending punctuation) in es/viral/violeta-mangrinan-hate-online-fama.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/viral/violeta-mangrinan-hate-online-fama.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/10-temazos-electronicos-youtube.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/youtube/10-temazos-electronicos-youtube.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/23-f-secretos-otan-eeuu.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/youtube/23-f-secretos-otan-eeuu.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/aprovecha-el-truco-que-convierte-tus-videos-privados-de-youtube-en-una-nube-ilimitada.md: ends with ria.*
+FAIL: Truncated content (no ending punctuation) in es/youtube/audio-se-corta-davinci-resolve-soluciones.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/youtube/audio-se-corta-davinci-resolve-soluciones.md
+FAIL: English bleed found in ES file es/youtube/baby-shark-bolsa-valoracion-pinkfong.md: 'The'
+FAIL: Truncated content (no ending punctuation) in es/youtube/baby-shark-bolsa-valoracion-pinkfong.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/youtube/baby-shark-bolsa-valoracion-pinkfong.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/banijay-group-revela-su-audaz-plan-de-expansion-en-youtube.md: ends with tor.*
+FAIL: Truncated content (no ending punctuation) in es/youtube/cine-mudo-sci-fi-revelado.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/youtube/cine-mudo-sci-fi-revelado.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/como-desbloquear-el-verdadero-potencial-de-tu-marca-en-youtube.md: ends with tor.*
+FAIL: Truncated content (no ending punctuation) in es/youtube/conan-obrien-se-rie-del-futuro-de-los-oscar-y-desata-una-ola-de-risas-en-youtube.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/youtube/conan-obrien-se-rie-del-futuro-de-los-oscar-y-desata-una-ola-de-risas-en-youtube.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/dani-olmo-en-vivo-no-te-pierdas-sus-respuestas-directas-este-viernes-en-youtube.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/youtube/dani-olmo-en-vivo-no-te-pierdas-sus-respuestas-directas-este-viernes-en-youtube.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/el-regreso-de-tom-scott-la-leyenda-que-domino-youtube-por-una-decada.md: ends with lud.*
+FAIL: Truncated content (no ending punctuation) in es/youtube/garnier-crema-viral-obsesion-beauty-espana.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/youtube/garnier-crema-viral-obsesion-beauty-espana.md
+FAIL: English bleed found in ES file es/youtube/kanye-west-vultures-youtube-polemica.md: 'the'
+FAIL: Truncated content (no ending punctuation) in es/youtube/kanye-west-vultures-youtube-polemica.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/youtube/kanye-west-vultures-youtube-polemica.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/lola-lolita-bolso-influencer-crisis.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/youtube/lola-lolita-bolso-influencer-crisis.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/meta-paga-youtubers-tiktokers-facebook.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/youtube/meta-paga-youtubers-tiktokers-facebook.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/meta-youtube-adiccion-salud-mental-jovenes.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/youtube/meta-youtube-adiccion-salud-mental-jovenes.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/mrbeast-formula-viral-youtube.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/youtube/mrbeast-formula-viral-youtube.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/youtube/nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety.md
+FAIL: AI trace 'Este artículo explora' found in es/youtube/neymar-jr-revela-su-vida-privada-en-una-serie-exclusiva-de-youtube.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/neymar-jr-revela-su-vida-privada-en-una-serie-exclusiva-de-youtube.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/youtube/neymar-jr-revela-su-vida-privada-en-una-serie-exclusiva-de-youtube.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/profesor-youtube-chantaje-digital.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/youtube/profesor-youtube-chantaje-digital.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/rosalia-tabaco-campana-viral.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/youtube/rosalia-tabaco-campana-viral.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/rose-bruno-mars-apt-youtube-records.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/youtube/rose-bruno-mars-apt-youtube-records.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/sony-trae-jeopardy-a-youtube-la-nueva-serie-que-no-te-querras-perder.md: ends with ria.*
+FAIL: Truncated content (no ending punctuation) in es/youtube/therians-espana-moda-viral-campana-odio.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/youtube/therians-espana-moda-viral-campana-odio.md
+FAIL: English bleed found in ES file es/youtube/unibet-rose-rockets-la-sorprendente-ascension-de-youtube-al-ciclismo-de-elite.md: 'this'
+FAIL: Truncated content (no ending punctuation) in es/youtube/unibet-rose-rockets-la-sorprendente-ascension-de-youtube-al-ciclismo-de-elite.md: ends with lud.*
+FAIL: Truncated content (no ending punctuation) in es/youtube/ver-youtube-sin-pagar-por-esto-se-esta-volviendo-casi-imposible.md: ends with ria.*
+FAIL: Truncated content (no ending punctuation) in es/youtube/youtube-android-auto-trucos-riesgos-alternativas.md: ends with ria.*
+FAIL: Truncated content (no ending punctuation) in es/youtube/youtube-anuncios-30-segundos-enfado-usuarios.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/youtube/youtube-anuncios-30-segundos-enfado-usuarios.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/youtube-anuncios-molestos.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/youtube/youtube-anuncios-molestos.md
+FAIL: English bleed found in ES file es/youtube/youtube-atracones-tele-peor.md: 'The'
+FAIL: Truncated content (no ending punctuation) in es/youtube/youtube-atracones-tele-peor.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/youtube/youtube-atracones-tele-peor.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/youtube-bloqueadores-anuncios-guerra.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/youtube/youtube-bloqueadores-anuncios-guerra.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/youtube-clickbait-titulos-enganosos.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/youtube/youtube-clickbait-titulos-enganosos.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/youtube-destrona-disney-rey-medios-digital.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/youtube/youtube-destrona-disney-rey-medios-digital.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/youtube-deteccion-ia-honestidad-digital.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/youtube/youtube-deteccion-ia-honestidad-digital.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/youtube-ia-infantil-monetizacion-controversia.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/youtube/youtube-ia-infantil-monetizacion-controversia.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/youtube-meta-adiccion-redes-millones-temor.md: ends with lud.*
+FAIL: Empty or generic link '/es/' in es/youtube/youtube-meta-adiccion-redes-millones-temor.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/youtube/youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/youtube-revoluciona-la-experiencia-con-avatares-personalizados-y-nuevas-funciones-en-google-workspac.md: ends with tor.*
+FAIL: Truncated content (no ending punctuation) in es/youtube/youtube-se-lleva-el-oscar-el-futuro-del-entretenimiento-digital.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/youtube/youtube-se-lleva-el-oscar-el-futuro-del-entretenimiento-digital.md
+FAIL: English bleed found in ES file es/youtube/youtube-unveils-personalized-year-end-recap-feature-top-overall-trends-and-creators-of-2025.md: 'The'
+FAIL: Truncated content (no ending punctuation) in es/youtube/youtube-unveils-personalized-year-end-recap-feature-top-overall-trends-and-creators-of-2025.md: ends with ria.*
+FAIL: Empty or generic link '/es/' in es/youtube/youtube-unveils-personalized-year-end-recap-feature-top-overall-trends-and-creators-of-2025.md
+FAIL: Truncated content (no ending punctuation) in es/youtube/youtube-y-fifa-un-acuerdo-que-cambiara-la-forma-de-ver-el-mundial-2026.md: ends with tor.*
+FAIL: Empty or generic link '/es/' in es/youtube/youtube-y-fifa-un-acuerdo-que-cambiara-la-forma-de-ver-el-mundial-2026.md
