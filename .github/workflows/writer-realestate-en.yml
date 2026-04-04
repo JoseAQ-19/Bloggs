@@ -1,5 +1,5 @@
 name: "Writer Real Estate - English"
-on_disabled:
+on:
   workflow_run:
     workflows: ["Scout Real Estate - English"]
     types: [completed]

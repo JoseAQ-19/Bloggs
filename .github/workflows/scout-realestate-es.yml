@@ -1,5 +1,5 @@
 name: "Scout Real Estate - Spanish"
-on_disabled:
+on:
   workflow_dispatch:
 permissions:
   contents: write
