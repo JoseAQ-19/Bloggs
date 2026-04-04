@@ -16,7 +16,6 @@ title: 'Morningstar Awards for Investing Excellence Thailand 2026: Evaluating th
 translationKey: 6ec03340-e449-5ac6-b247-e048a5edc657
 type: funds
 ---
-
 ## Executive Summary
 In the rapidly expanding landscape of mutual funds in Thailand, **71%** of investors show a clear preference for mutual funds over other investment vehicles. A recent analysis of the top three mutual funds recognized in the **Morningstar Awards for Investing Excellence Thailand 2026** reveals an impressive **12.6%** average return over the past year, significantly outperforming the benchmark index by **4.2%**. Over three years, these funds have maintained an **8.5%** average return, with a standard deviation of **10.2%**, indicating stable performance amidst market fluctuations. Furthermore, the average expense ratio of **0.85%** is notably lower than the industry average of **1.2%**, suggesting cost-effective management. The standout funds include:
 
@@ -89,4 +88,4 @@ This analysis utilizes data from reputable financial sources, including Mornings
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.

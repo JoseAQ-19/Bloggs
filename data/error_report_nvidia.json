@@ -1,59 +1,59 @@
 {
   "component": "nvidia_nim_integration",
-  "timestamp": "2026-03-15 21:49:45",
-  "passed": 9,
-  "failed": 1,
-  "skipped": 0,
+  "timestamp": "2026-04-04 10:39:24",
+  "passed": 0,
+  "failed": 4,
+  "skipped": 6,
   "details": [
     {
       "test": "NVIDIA_API_KEY Present",
-      "status": "passed",
-      "message": "Key starts with: nvapi-MjjK..."
+      "status": "failed",
+      "message": "NVIDIA_API_KEY not found in environment"
     },
     {
       "test": "NVIDIA NIM Connection",
-      "status": "passed",
-      "message": "Response: NVIDIA_NIM_OK"
+      "status": "skipped",
+      "message": "No API key"
     },
     {
       "test": "GLM-4.7 Writer",
-      "status": "passed",
-      "message": "90 words generated (connectivity OK)"
+      "status": "skipped",
+      "message": "No API key"
     },
     {
       "test": "GLM-5 Expert",
-      "status": "passed",
-      "message": "Outline generated: 1337 chars"
+      "status": "skipped",
+      "message": "No API key"
     },
     {
       "test": "Llama-3.1-70B Fallback",
-      "status": "passed",
-      "message": "236 words"
+      "status": "skipped",
+      "message": "No API key"
     },
     {
       "test": "_call_nvidia_nim Helper",
-      "status": "passed",
-      "message": "Response: The future of renewable energy is poised for significant gro... (1174 chars)"
+      "status": "skipped",
+      "message": "No API key"
     },
     {
       "test": "SD3 Text-to-Image",
-      "status": "passed",
-      "message": "Image generated successfully (HTTP 200)"
+      "status": "skipped",
+      "message": "No API key"
     },
     {
       "test": "Calibration Tags",
-      "status": "passed",
-      "message": "All 6 tags present in main.py"
+      "status": "failed",
+      "message": "Missing: ['SYSTEM CALIBRATION: GLM-NIM', 'SYSTEM CALIBRATION: LLAMA-3', 'SYSTEM CALIBRATION: GEMINI', 'z-ai/glm4.7', 'meta/llama-3.1-70b-instruct', '_call_nvidia_nim']"
     },
     {
       "test": "Waterfall Tier Order (EN)",
-      "status": "passed",
-      "message": "All TIERs in correct sequential order"
+      "status": "failed",
+      "message": "TIER positions out of order or missing: [-1, -1, -1, -1, -1]"
     },
     {
       "test": "Waterfall Tier Order (ES)",
       "status": "failed",
-      "message": "ES TIER positions: [45388, -1, -1, -1]"
+      "message": "ES TIER positions: [-1, -1, -1, -1]"
     }
   ]
 }

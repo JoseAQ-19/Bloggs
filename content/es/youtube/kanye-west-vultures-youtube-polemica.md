@@ -15,7 +15,6 @@ title: 'Vultures'' Incendia YouTube: ¿Kanye West Repetirá el Error Legal del 7
 translationKey: 9c23cb1e-654d-6691-6da6-8406ed80a0c8
 type: youtube
 ---
-
 ## Resumen Ejecutivo
 * ![Vultures' Incendia YouTube: ¿Kanye West Repetirá el Error Legal del 70%?](/images/kanye-west-vultures-youtube-polemica.jpg)
 

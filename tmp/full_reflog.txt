@@ -1,0 +1,23 @@
+28525d67 HEAD@{0}: commit: feat(content): restore all missing articles and fix GH actions syntax
+5eb79447 HEAD@{1}: commit: fix(site): force vercel rebuild
+a0455aec HEAD@{2}: commit: fix(site): repair contact page 404 and sync UI aesthetic update trends
+cbbf053e HEAD@{3}: commit: fix(ui): restore true stable version update trends
+708e7765 HEAD@{4}: reset: moving to 708e7765
+fa4d2faf HEAD@{5}: commit: fix: repair github actions syntax error (on_disabled) to enable verify update trends
+55bd8128 HEAD@{6}: commit: fix(ui): restore stable version update trends
+49e5aefc HEAD@{7}: pull origin main --rebase: Fast-forward
+463fe3e3 HEAD@{8}: reset: moving to 463fe3e
+49e5aefc HEAD@{9}: pull --rebase (finish): returning to refs/heads/main
+49e5aefc HEAD@{10}: pull --rebase (pick): feat(ui): Refactor to NovumWorld Trust-Line 2026 (Editorial Authority Palette)
+7c211dfe HEAD@{11}: pull --rebase (start): checkout 7c211dfec96d67b989c005ce3561392ea708a1d0
+b4e64d51 HEAD@{12}: commit: feat(ui): Refactor to NovumWorld Trust-Line 2026 (Editorial Authority Palette)
+7678088b HEAD@{13}: commit: style: final UI adjustments and project status update
+165d7957 HEAD@{14}: commit: feat: implement Trust-Line v1.0 UI Refactor (Navy/Teal/PublicSans)
+463fe3e3 HEAD@{15}: commit: chore: normalize YMYL disclaimers and link audit
+f60e8169 HEAD@{16}: pull --rebase origin main (finish): returning to refs/heads/main
+f60e8169 HEAD@{17}: pull --rebase origin main (pick): feat: implement Double Barrier E-E-A-T links & fix legacy image 404s
+c9ff31e9 HEAD@{18}: pull --rebase origin main (start): checkout c9ff31e9e7e23d7b35fa836caa82fb7479977179
+8710fb37 HEAD@{19}: commit: feat: implement Double Barrier E-E-A-T links & fix legacy image 404s
+be2d38e5 HEAD@{20}: commit: ðŸ’Ž AD-SENSE MASTERPIECE SWEEP: Cleaned 621 files + Prompts Redesign ðŸ’Ž
+d6bc1463 HEAD@{21}: commit: Add NotebookLM MCP diagnostics to writer/corrector workflows
+b21d3897 HEAD@{22}: clone: from https://github.com/JoseAQ-19/Bloggs.git

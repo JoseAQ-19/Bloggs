@@ -1,0 +1,177 @@
+{
+  "total": 717,
+  "missing": [
+    {
+      "file": "content/drafts_to_fix/terms-of-service.md",
+      "image": "/images/defaults/default-ia.jpg"
+    },
+    {
+      "file": "content/en/crypto/bitcoin-ha-muerto-y-esta-vez-es-para-siempre-autop.md",
+      "image": "/images/defaults/default-crypto.jpg"
+    },
+    {
+      "file": "content/en/crypto/crypto-class-adapting-to-a-new-era-of-digital-currency-en.md",
+      "image": "/images/defaults/default-crypto.jpg"
+    },
+    {
+      "file": "content/en/crypto/gen-z-millionaires-dive-into-crypto-is-fomo-driving-their-risky-bets-en.md",
+      "image": "/images/defaults/default-crypto.jpg"
+    },
+    {
+      "file": "content/en/crypto/scammers-thrive-in-nevadas-unregulated-crypto-kiosks-aarp-sounds-the-alarm-en.md",
+      "image": "/images/scammers-thrive-in-nevadas-unregulated-crypto-kiosks-aarp-sounds-the-alarm-en.jpg"
+    },
+    {
+      "file": "content/en/crypto/secs-new-guidance-what-it-means-for-your-crypto-investments-en.md",
+      "image": "/images/secs-new-guidance-what-it-means-for-your-crypto-investments-en.jpg"
+    },
+    {
+      "file": "content/en/fitness/apple-fitness-chief-jay-blahnik-steps-down-what-this-means-for-the-future-of-fitness-tech-en.md",
+      "image": "/images/defaults/default-fitness.jpg"
+    },
+    {
+      "file": "content/en/fitness/apples-fitness-chief-steps-down-amid-controversy-whats-next-for-the-brand-en.md",
+      "image": "/images/defaults/default-fitness.jpg"
+    },
+    {
+      "file": "content/en/fitness/from-pop-star-to-fitness-guru-ashley-parker-angels-inspiring-new-journey-en.md",
+      "image": "/images/from-pop-star-to-fitness-guru-ashley-parker-angels-inspiring-new-journey-en.jpg"
+    },
+    {
+      "file": "content/en/fitness/gym-safety-in-question-planet-fitness-employee-attacked-in-wyncote-en.md",
+      "image": "/images/defaults/default-fitness.jpg"
+    },
+    {
+      "file": "content/en/fitness/is-planet-fitness-stock-about-to-bounce-back-investors-weigh-in-en.md",
+      "image": "/images/is-planet-fitness-stock-about-to-bounce-back-investors-weigh-in-en.jpg"
+    },
+    {
+      "file": "content/en/fitness/kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm-en.md",
+      "image": "/images/defaults/default-fitness.jpg"
+    },
+    {
+      "file": "content/en/fitness/shocking-stabbing-incident-at-planet-fitness-employee-attacked-by-banned-customer-en.md",
+      "image": "/images/defaults/default-fitness.jpg"
+    },
+    {
+      "file": "content/en/ia/inside-irans-nuclear-secrets-iaea-docs-reveal-shocking-insights-en.md",
+      "image": "/images/defaults/default-ia.jpg"
+    },
+    {
+      "file": "content/en/tools/edtech-roi-tool-consolidation-2024-en.md",
+      "image": "/images/defaults/default-viral.jpg"
+    },
+    {
+      "file": "content/en/tools/meta-ai-deepfake-defense-technical-autopsy-en.md",
+      "image": "/images/meta-ai-deepfake-defense-technical-autopsy-en.jpg"
+    },
+    {
+      "file": "content/en/viral/chick-fil-a-dance-controversy-eight-employees-fired-over-tiktok-clip-en.md",
+      "image": "/images/defaults/default-viral.jpg"
+    },
+    {
+      "file": "content/en/viral/easter-candy-revolution-from-giant-smash-eggs-to-healthier-treats-en.md",
+      "image": "/images/easter-candy-revolution-from-giant-smash-eggs-to-healthier-treats-en.jpg"
+    },
+    {
+      "file": "content/en/viral/harris-county-judges-heated-confrontation-sparks-legal-community-backlash-en.md",
+      "image": "/images/defaults/default-viral.jpg"
+    },
+    {
+      "file": "content/en/viral/how-ai-lego-style-videos-are-mocking-trumps-war-in-iran-en.md",
+      "image": "/images/defaults/default-viral.jpg"
+    },
+    {
+      "file": "content/en/viral/kindergarten-discipline-viral-content-en.md",
+      "image": "/images/defaults/default-viral.jpg"
+    },
+    {
+      "file": "content/en/viral/pocket-coffee-caffeine-optimization-en.md",
+      "image": "/images/defaults/default-viral.jpg"
+    },
+    {
+      "file": "content/en/youtube/dont-miss-out-coachella-streams-for-free-on-youtube-next-week-en.md",
+      "image": "/images/defaults/default-viral.jpg"
+    },
+    {
+      "file": "content/en/youtube/rb-star-leon-thomas-teams-up-with-delta-and-youtube-premium-for-exciting-new-project-en.md",
+      "image": "/images/rb-star-leon-thomas-teams-up-with-delta-and-youtube-premium-for-exciting-new-project-en.jpg"
+    },
+    {
+      "file": "content/en/youtube/who-will-win-1-million-mrbeasts-epic-live-competition-with-50-top-streamers-hits-youtube-en.md",
+      "image": "/images/who-will-win-1-million-mrbeasts-epic-live-competition-with-50-top-streamers-hits-youtube-en.jpg"
+    },
+    {
+      "file": "content/en/youtube/your-complete-guide-to-catching-coachella-2026-live-on-youtube-en.md",
+      "image": "/images/defaults/default-viral.jpg"
+    },
+    {
+      "file": "content/en/youtube/youtube-brandcast-2026-the-dawn-of-a-new-era-in-digital-entertainment-en.md",
+      "image": "/images/defaults/default-viral.jpg"
+    },
+    {
+      "file": "content/en/youtube/youtube-takes-center-stage-highlights-from-brandcast-2026-en.md",
+      "image": "/images/defaults/default-viral.jpg"
+    },
+    {
+      "file": "content/es/crypto/cryptocom-despide-al-12-de-su-plantilla-mientras-apuesta-por-la-inteligencia-artificial.md",
+      "image": "/images/defaults/default-crypto.jpg"
+    },
+    {
+      "file": "content/es/crypto/la-batalla-del-futuro-puede-la-computacion-cuantica-romper-el-cifrado-de-bitcoin-antes-de-2029.md",
+      "image": "/images/la-batalla-del-futuro-puede-la-computacion-cuantica-romper-el-cifrado-de-bitcoin-antes-de-2029.jpg"
+    },
+    {
+      "file": "content/es/fitness/celine-dion-se-enfrenta-al-desafio-del-ballet-4-veces-por-semana-en-la-barra.md",
+      "image": "/images/celine-dion-se-enfrenta-al-desafio-del-ballet-4-veces-por-semana-en-la-barra.jpg"
+    },
+    {
+      "file": "content/es/fitness/deka-la-revolucion-del-fitness-hibrido-en-la-comunitat-valenciana.md",
+      "image": "/images/defaults/default-fitness.jpg"
+    },
+    {
+      "file": "content/es/fitness/kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm.md",
+      "image": "/images/defaults/default-fitness.jpg"
+    },
+    {
+      "file": "content/es/fitness/la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral.md",
+      "image": "/images/defaults/default-fitness.jpg"
+    },
+    {
+      "file": "content/es/ia/la-ia-que-podria-cambiar-el-futuro-del-diagnostico-del-cancer-estamos-listos-para-confiar-en-algorit.md",
+      "image": "/images/defaults/default-ia.jpg"
+    },
+    {
+      "file": "content/es/tools/la-ia-revoluciona-la-agricultura-precision-y-automatizacion-al-servicio-del-campo.md",
+      "image": "/images/la-ia-revoluciona-la-agricultura-precision-y-automatizacion-al-servicio-del-campo.jpg"
+    },
+    {
+      "file": "content/es/tools/la-revolucion-de-la-inteligencia-artificial-sabia-de-prisa-media-marca-el-futuro-del-periodismo.md",
+      "image": "/images/defaults/default-viral.jpg"
+    },
+    {
+      "file": "content/es/viral/el-producto-de-belleza-que-arrasa-lo-que-necesitas-en-tu-neceser-esta-semana-santa.md",
+      "image": "/images/defaults/default-viral.jpg"
+    },
+    {
+      "file": "content/es/viral/harvard-revela-el-secreto-detras-de-los-virus-que-nunca-nos-abandonan.md",
+      "image": "/images/defaults/default-viral.jpg"
+    },
+    {
+      "file": "content/es/viral/la-novia-de-vinicius-desata-la-locura-en-redes-con-su-impresionante-forma-fisica.md",
+      "image": "/images/la-novia-de-vinicius-desata-la-locura-en-redes-con-su-impresionante-forma-fisica.jpg"
+    },
+    {
+      "file": "content/es/youtube/como-desbloquear-el-verdadero-potencial-de-tu-marca-en-youtube.md",
+      "image": "/images/defaults/default-viral.jpg"
+    },
+    {
+      "file": "content/es/youtube/unibet-rose-rockets-la-sorprendente-ascension-de-youtube-al-ciclismo-de-elite.md",
+      "image": "/images/unibet-rose-rockets-la-sorprendente-ascension-de-youtube-al-ciclismo-de-elite.jpg"
+    },
+    {
+      "file": "content/es/youtube/youtube-revoluciona-la-experiencia-con-avatares-personalizados-y-nuevas-funciones-en-google-workspac.md",
+      "image": "/images/defaults/default-viral.jpg"
+    }
+  ]
+}

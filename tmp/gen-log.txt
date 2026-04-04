@@ -1,0 +1,39 @@
+
+--- Generating for scammers-thrive-in-nevadas-unregulated-crypto-kiosks-aarp-sounds-the-alarm-en.md (crypto) ---
+Result: /images/defaults/default-crypto.jpg
+
+--- Generating for secs-new-guidance-what-it-means-for-your-crypto-investments-en.md (crypto) ---
+Result: /images/defaults/default-crypto.jpg
+
+--- Generating for from-pop-star-to-fitness-guru-ashley-parker-angels-inspiring-new-journey-en.md (fitness) ---
+Result: /images/defaults/default-fitness.jpg
+
+--- Generating for is-planet-fitness-stock-about-to-bounce-back-investors-weigh-in-en.md (fitness) ---
+Result: /images/defaults/default-fitness.jpg
+
+--- Generating for meta-ai-deepfake-defense-technical-autopsy-en.md (tools) ---
+Result: /images/defaults/default-ia.jpg
+
+--- Generating for easter-candy-revolution-from-giant-smash-eggs-to-healthier-treats-en.md (viral) ---
+Result: /images/defaults/default-viral.jpg
+
+--- Generating for rb-star-leon-thomas-teams-up-with-delta-and-youtube-premium-for-exciting-new-project-en.md (youtube) ---
+Result: /images/defaults/default-ia.jpg
+
+--- Generating for who-will-win-1-million-mrbeasts-epic-live-competition-with-50-top-streamers-hits-youtube-en.md (youtube) ---
+Result: /images/defaults/default-ia.jpg
+
+--- Generating for la-batalla-del-futuro-puede-la-computacion-cuantica-romper-el-cifrado-de-bitcoin-antes-de-2029.md (crypto) ---
+Result: /images/defaults/default-crypto.jpg
+
+--- Generating for celine-dion-se-enfrenta-al-desafio-del-ballet-4-veces-por-semana-en-la-barra.md (fitness) ---
+Result: /images/defaults/default-fitness.jpg
+
+--- Generating for la-ia-revoluciona-la-agricultura-precision-y-automatizacion-al-servicio-del-campo.md (tools) ---
+Result: /images/defaults/default-ia.jpg
+
+--- Generating for la-novia-de-vinicius-desata-la-locura-en-redes-con-su-impresionante-forma-fisica.md (viral) ---
+Result: /images/defaults/default-viral.jpg
+
+--- Generating for unibet-rose-rockets-la-sorprendente-ascension-de-youtube-al-ciclismo-de-elite.md (youtube) ---
+Result: /images/defaults/default-ia.jpg

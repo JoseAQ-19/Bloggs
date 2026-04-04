@@ -28,5 +28,5 @@ This catches every ![alt](src) in article content.
 
 {{/* Fallback: External or non-processable image */}}
 {{- if not $processed -}}
-<img src="{{ $src }}" alt="{{ $alt }}" {{ with $title }}title="{{ . }}" {{ end }} loading="lazy" decoding="async">
+<img src="{{ $src }}" alt="{{ $alt }}" {{ with $title }}title="{{ . }}" {{ end }} loading="lazy" decoding="async" width="800" height="450">
 {{- end -}}

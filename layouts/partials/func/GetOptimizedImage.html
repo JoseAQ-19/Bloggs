@@ -73,6 +73,7 @@ GetOptimizedImage — WPO Partial (Fenix V3)
 {{/* Fallback: Raw external URL or non-processable */}}
 {{- if not $processed -}}
 <img src="{{ $featured_image }}" alt="{{ $alt }}" class="{{ $class }}" 
+    width="800" height="450"
     style="{{ $style | safeCSS }}"
     loading="{{ $loading }}" decoding="{{ $decoding }}"
     {{ if eq $loading "eager" }}fetchpriority="high"{{ end }}>

@@ -15,7 +15,6 @@ title: 'Harvard Abandona Bitcoin: Apuesta 86 Millones Por Ethereum y Desata la L
 translationKey: 4e0d381a-22d3-749e-7bdc-a5b9cfad4cce
 type: crypto
 ---
-
 ## Resumen Ejecutivo
 
 - **Decisión de Harvard:** La universidad ha reducido su inversión en Bitcoin en $72 millones y ha apostado $86.8 millones en Ethereum.
@@ -69,4 +68,4 @@ Este artículo se ha elaborado mediante la recopilación y análisis de datos de
 
 ---
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

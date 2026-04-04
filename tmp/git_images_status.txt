@@ -1,0 +1,17 @@
+﻿M  static/images/analisis-tecnico-actualizacion-google-maps.jpg
+M  static/images/analisis-tecnico-herramientas-gratuitas-inteligencia-competitiva-espana.jpg
+A  static/images/celine-dion-se-enfrenta-al-desafio-del-ballet-4-veces-por-semana-en-la-barra.jpg
+A  static/images/easter-candy-revolution-from-giant-smash-eggs-to-healthier-treats-en.jpg
+A  static/images/from-pop-star-to-fitness-guru-ashley-parker-angels-inspiring-new-journey-en.jpg
+A  static/images/is-planet-fitness-stock-about-to-bounce-back-investors-weigh-in-en.jpg
+A  static/images/la-batalla-del-futuro-puede-la-computacion-cuantica-romper-el-cifrado-de-bitcoin-antes-de-2029.jpg
+A  static/images/la-ia-revoluciona-la-agricultura-precision-y-automatizacion-al-servicio-del-campo.jpg
+A  static/images/la-novia-de-vinicius-desata-la-locura-en-redes-con-su-impresionante-forma-fisica.jpg
+M  static/images/la-revolucion-del-email-marketing-las-herramientas-imprescindibles-de-2026.jpg
+A  static/images/meta-ai-deepfake-defense-technical-autopsy-en.jpg
+A  static/images/rb-star-leon-thomas-teams-up-with-delta-and-youtube-premium-for-exciting-new-project-en.jpg
+A  static/images/scammers-thrive-in-nevadas-unregulated-crypto-kiosks-aarp-sounds-the-alarm-en.jpg
+A  static/images/secs-new-guidance-what-it-means-for-your-crypto-investments-en.jpg
+M  static/images/taller-infantil-power-tools-una-mirada-creativa-al-mundo-actual-en-el-museo-helga-de-alvear.jpg
+A  static/images/unibet-rose-rockets-la-sorprendente-ascension-de-youtube-al-ciclismo-de-elite.jpg
+A  static/images/who-will-win-1-million-mrbeasts-epic-live-competition-with-50-top-streamers-hits-youtube-en.jpg

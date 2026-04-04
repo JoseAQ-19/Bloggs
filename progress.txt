@@ -11,15 +11,12 @@
 7. [x] **Transformación de Masterpieces**: Batch inicial de 10 artículos de alta calidad reescritos y validados visualmente (Headers TL;DR y Fuentes 100% correctos).
 8. [x] **Asset Sync (Schema/Logo)**: Corregida ruta del logo en `schema.html` (`logo-tech.jpg`).
 
-## 🚀 DESPLIEGUE & RESCATE (2026-04-01) - ESTADO: PRODUCCIÓN LISTA
-- [x] **Pipeline Fix**: Identificada la causa raíz del error 500 en Vercel (Hugo crash en `.CurrentSection.Title`).
-- [x] **Remediación Layout**: Aplicado fix robusto en `layouts/single.html` para manejar páginas raíz (Privacy, About, Terms).
-- [x] **GA4 & AdSense (GDPR)**: Integrado Google Analytics 4 (G-43PJ7F93M2) y AdSense (pub-3060138572766030) con **Consent Mode V2** en `layouts/partials/google_analytics.html`.
-- [x] **E-E-A-T Schema**: Automatizada la inyección de `NewsArticle` para verticales de alta velocidad y `Organization` global en `layouts/baseof.html`.
-- [x] **Content Completion**: Remediados y editorializados los 3 artículos truncados críticos (Grayscale, YouTube-FIFA, Military Fitness) con estándares E-E-A-T (TL;DR + Metodología).
-- [x] **Push a Producción**: Sincronización final de rama `main`. Repositorio limpio de archivos basura (`out*.txt`, `err*.txt`, logs).
-- [x] **Verificación Vercel**: Build Exit Code 0 confirmado. Sitio 100% operativo y listo para AdSense.
-- [x] **YMYL - Hibernación Real Estate**: Motor apagado (crons eliminados), sección oculta de los menús (config.toml) y carpeta `parked_content/` creada para futuras migraciones.
+## 🟢 ADSENSE PRIORITY 1 HOTFIXES (2026-04-04) - ESTADO: RESUELTO
+- [x] **Imágenes de Producción**: Añadidas y pusheadas 17 imágenes regeneradas a Vercel que no estaban trackeadas en Git.
+- [x] **About Page Routing**: Corregido bug en `content/en/about.md` que apuntaba la URL al directorio español, causando 404 en la versión inglesa.
+- [x] **Privacy Policies Legales**: Eliminado ensayo editorial. Añadida política de privacidad y cookies real y específica (GDPR/CCPA/AdSense) en español e inglés.
+
+## 🚀 DESPLIEGUE & RESCATE (2026-04-01 / 2026-04-04) - ESTADO: PRODUCCIÓN LISTA
 
 
 ## 🔬 AUDITORÍA PROFUNDA (2026-03-31)

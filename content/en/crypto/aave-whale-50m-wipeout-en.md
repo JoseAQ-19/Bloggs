@@ -17,7 +17,6 @@ title: 'Aave Liquidation Cascade: Oracle Misconfiguration and the MEV Economy'
 translationKey: ede076ec-6d70-eee5-fcc7-94ae5bdc5a1c
 type: crypto
 ---
-
 ## Resumen Ejecutivo
 
 - Una desincronización de datos en el oráculo de riesgo CAPO de Aave provocó una liquidación en cascada de wstETH valorada en aproximadamente 27 millones de dólares, resultando en una pérdida neta de 345 ETH para los prestatarios afectados.
@@ -111,4 +110,4 @@ Este análisis se basa en datos crudos extraídos de la blockchain de Ethereum, 
 
 *Descargo de responsabilidad: Este artículo se proporciona únicamente con fines informativos y de análisis de mercado. No constituye asesoramiento financiero, de inversión, legal o fiscal. La inversión en activos digitales conlleva un riesgo significativo de pérdida de capital. El autor no mantiene posiciones cortas o largas en AAVE al momento de la publicación.*
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.

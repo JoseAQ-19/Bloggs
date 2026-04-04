@@ -15,7 +15,6 @@ title: 'Invertir en guerra: Rentabilidad del 10% en ''Magallanes Value'' pese a 
 translationKey: 9a5f6180-76cd-eb7e-a597-6645034535ff
 type: funds
 ---
-
 ## Resumen Ejecutivo
 * ![Invertir en guerra: Rentabilidad del 10% en 'Magallanes Value' pese a Irán](/images/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran.jpg)
 
@@ -142,4 +141,4 @@ Magallanes Value invierte en acciones de alta calidad con un enfoque de valor. E
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
 
-*Aviso Editorial: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

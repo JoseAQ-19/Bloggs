@@ -15,7 +15,6 @@ title: 'Fitbit Lawsuits Exposed: Smart Clothing Fixes Heart Rate Monitoring NIGH
 translationKey: 622ec0ab-fb7c-8fc0-f83e-f0abfa7f07dd
 type: fitness
 ---
-
 ## Executive Summary
 *   **Fitbit Class-Action Lawsuits:** Multiple class-action lawsuits were filed against Fitbit due to significant inaccuracies in its optical heart rate monitoring (OHRM) technology. One cardiologist's expert testimony cited Fitbit models exhibiting heart rate readings off by an average of 24.34 bpm at heart rates exceeding 100 bpm, with some discrepancies reaching up to 75 bpm.
 *   **OHRM Limitations:** Consumer-grade wrist-worn OHRM devices, utilizing photoplethysmography (PPG), are inherently susceptible to motion artifacts, skin tone variations, perfusion differences, and improper sensor placement, leading to compromised data integrity, especially during high-intensity exercise.
@@ -133,4 +132,4 @@ This report synthesizes information from various publicly available sources to p
 
 *Editorial Disclosure: This content is for educational purposes only and does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist before making any investment decisions or health changes.*
 
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
+In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.
