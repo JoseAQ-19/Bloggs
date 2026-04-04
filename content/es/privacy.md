@@ -77,7 +77,7 @@ Nuestra Política de Privacidad no se aplica a otros anunciantes ni sitios web. 
 
 Si tienes alguna duda, inquietud o solicitud relacionada con esta Política de Privacidad o tus derechos sobre los datos, ponte en contacto con el Equipo Editorial de NovumWorld:
 
-- **Correo electrónico:** privacy@novumworld.com
+- **Correo electrónico:** media.flow.proyectos@gmail.com
 - **Propietario:** NovumWorld Publishing
 
 Al utilizar nuestro sitio web, das tu consentimiento a nuestra Política de Privacidad y aceptas sus términos.
