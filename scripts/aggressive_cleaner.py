@@ -56,7 +56,19 @@ def aggressive_cleanup():
         try:
             post = frontmatter.load(filepath)
             body = post.content
-            
+
+            # Anti-duplicidad duro: si el artículo ya tiene un bloque de
+            # Metodología/Fuentes o un Editorial Disclosure, no volvemos a
+            # inyectar footer ni disclaimers en este pase.
+            body_lower = body.lower()
+            if any(marker in body_lower for marker in [
+                "## metodología", "## metodologia", "## metodolog",
+                "## methodology", "## methodolog",
+                "editorial disclosure", "aviso editorial"
+            ]):
+                print(f"   ⏭️ Footer ya presente, se omite inyección en: {filepath}")
+                continue
+
             # 1. Identify where the footer starts to strip it
             cut_index = len(body)
             for marker in footer_markers:

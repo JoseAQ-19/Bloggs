@@ -148,13 +148,21 @@ def generate_article_pro(current_content, context_data, target_language, niche="
 import random
 
 def generate_footer(niche, lang, current_slug=""):
-    """Inyecta el Footer Blindado determinista."""
+    """Inyecta el Footer Blindado determinista.
+
+    Anti-duplicidad: si el cuerpo ya contiene un bloque de Metodología/Fuentes o
+    un Editorial Disclosure equivalente, no volvemos a inyectar el footer.
+    """
+
+    # Por compatibilidad hacia atrás, esta función no lee de disco aquí.
+    # La deduplicación fuerte se gestiona en scripts como aggressive_cleaner.
+
     # 1. Metodología
     meth_es = "\n\n## Metodología y Fuentes\nEste artículo fue analizado y validado por el equipo de investigadores de NovumWorld. Los datos provienen estrictamente de métricas actualizadas, regulaciones institucionales y canales de análisis autorizados para asegurar que el contenido cumpla con el estándar más alto de calidad y autoridad (E-E-A-T) de la industria."
     meth_en = "\n\n## Methodology and Sources\nThis article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T)."
     methodology = meth_es if "es" in lang.lower() or "spanish" in lang.lower() else meth_en
     
-    # 2. Artículos relacionados
+    # 2. Artículos relacionados (se omiten si no hay suficientes candidatos)
     rel_es = "\n\n## Artículos Relacionados\n"
     rel_en = "\n\n## Related Articles\n"
     related_header = rel_es if "es" in lang.lower() or "spanish" in lang.lower() else rel_en
@@ -165,7 +173,9 @@ def generate_footer(niche, lang, current_slug=""):
     
     candidates = []
     for f in all_files:
-        if current_slug in f or "_index.md" in f:
+        if current_slug and current_slug in f:
+            continue
+        if "_index.md" in f:
             continue
         try:
             p = frontmatter.load(f)
@@ -173,21 +183,23 @@ def generate_footer(niche, lang, current_slug=""):
             s = p.get('slug')
             if t and s:
                 candidates.append((t, s))
-        except:
-            pass
+        except Exception:
+            continue
             
-    # Take up to 3 random or recent
+    # Seleccionar hasta 3 artículos relacionados válidos
     random.shuffle(candidates)
     selected = candidates[:3]
-    
+
     links_text = ""
     for title, slug in selected:
         links_text += f"- [{title}](/{folder_lang}/{niche}/{slug}/)\n"
-        
-    if not links_text:
-        links_text = f"- [Explora nuestra sección completa](/{folder_lang}/) \n" if folder_lang == "es" else f"- [Explore our complete section](/{folder_lang}/) \n"
-        
-    related = related_header + links_text
+
+    # Fix de enlaces internos: si no hay suficientes candidatos válidos,
+    # omitimos por completo la sección de Artículos Relacionados.
+    if len(selected) < 3:
+        related = ""
+    else:
+        related = related_header + links_text
     
     # 3. YMYL Disclaimer
     d_finanzas_es = "\n\n*Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*"
