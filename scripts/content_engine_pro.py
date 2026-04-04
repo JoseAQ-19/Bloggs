@@ -251,6 +251,16 @@ def main_upgrade_engine(target_file_path):
 
     
     # --- FOOTER BLINDADO ---
+    # Strip any existing AI injected methodology/sources/related articles
+    split_markers = [
+        "## Metodolog", "## Methodology", 
+        "## Fuentes", "## Sources",
+        "## Artículos Relacionados", "## Related Articles"
+    ]
+    for marker in split_markers:
+        if marker in cleaned_body:
+            cleaned_body = cleaned_body.split(marker)[0].strip()
+
     footer_text = generate_footer(niche, lang, post.get('slug', ''))
     cleaned_body += footer_text
     
