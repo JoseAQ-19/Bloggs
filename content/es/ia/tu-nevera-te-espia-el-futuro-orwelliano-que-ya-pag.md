@@ -54,11 +54,13 @@ Para proteger la privacidad, se recomiendan los siguientes pasos:
 
 La proliferación de dispositivos inteligentes ha normalizado una vigilancia doméstica que, aunque consentida formalmente, rara vez es informada, planteando serias implicaciones para la privacidad y la autonomía del usuario. La responsabilidad recae tanto en los fabricantes, que deben implementar una "privacidad por diseño" y ofrecer mecanismos de *opt-out* transparentes, como en los usuarios, quienes deben informarse y tomar medidas activas para gestionar su huella digital doméstica. Solo a través de un empoderamiento consciente y la exigencia de mayor transparencia y control, podremos redefinir los límites de la privacidad en nuestros hogares conectados.
 
-### Fuentes y Contexto Adicional
+#
+
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
+
+## Fuentes y Contexto Adicional
 Para una comprensión más profunda de la ética de la IA y la gestión de datos en la era digital, se recomienda consultar los análisis de plataformas líderes en investigación y desarrollo de inteligencia artificial:
 * [Análisis en OpenAI/news](https://openai.com/news)
 * [Análisis en Google/discover](https://deepmind.google/discover)
 
 ---
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

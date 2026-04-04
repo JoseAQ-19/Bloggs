@@ -49,9 +49,7 @@ ASML es conocida por ser un líder en la fabricación de equipos de litografía 
 
 ASML ha mostrado resultados financieros sólidos en sus reportes trimestrales, con un crecimiento en ingresos y beneficios. Sin embargo, el desempeño de la acción puede verse afectado por factores externos, como la guerra comercial entre EE. UU. y China y las restricciones en la exportación de tecnología. Estos elementos pueden influir en la confianza de los inversores y, por ende, en la rentabilidad del iShares Core EURO STOXX 50 UCITS ETF.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
@@ -94,5 +92,3 @@ El objetivo principal de un fondo indexado es brindar a los inversores una forma
 ### ¿Cuáles son los riesgos asociados con la inversión en fondos indexados?
 
 Los riesgos incluyen la volatilidad del mercado, la liquidez limitada y los riesgos de gestión. Es esencial que los inversores evalúen su tolerancia al riesgo antes de decidir invertir en fondos indexados.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

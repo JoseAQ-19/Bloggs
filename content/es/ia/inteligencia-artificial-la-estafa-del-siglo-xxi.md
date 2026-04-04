@@ -70,12 +70,8 @@ La Inteligencia Artificial del siglo XXI presenta las características de una **
 
 La "exuberancia irracional" actual, combinada con la transferencia de riesgos hacia los más desfavorecidos y la violación sistemática de derechos, configura un escenario donde **"los números no cuadran"**. La IA, tal como se implementa hoy, no es el faro del progreso prometido, sino una herramienta que concentra poder, diluye responsabilidades y mercantiliza la interacción humana. Es hora de un debate honesto y transparente sobre el verdadero impacto de la IA, antes de que la burbuja estalle y deje a muchos con las manos vacías.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

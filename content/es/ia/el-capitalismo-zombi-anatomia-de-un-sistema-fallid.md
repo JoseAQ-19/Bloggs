@@ -68,11 +68,7 @@ El capitalismo zombi se ha convertido en una enfermedad terminal del sistema eco
 
 La decisión que enfrentamos como sociedad es clara: permitir que las empresas ineficientes mueran para dar paso a una economía más dinámica, o seguir alimentando un sistema que, aunque parezca funcional a corto plazo, está destinado al colapso. La complacencia es, sin duda, una forma de suicidio económico. Que cada quien elija su veneno, pero es momento de tomar decisiones difíciles y enfrentar las verdades incómodas sobre nuestro sistema económico.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 Para la elaboración de este análisis se han consultado diversas fuentes académicas y artículos de referencia en el ámbito económico, incluyendo investigaciones del Banco de Pagos Internacionales (BIS) y del National Bureau of Economic Research. Se han revisado estudios de caso y datos estadísticos que ilustran la magnitud del problema del capitalismo zombi en diversas economías, especialmente en Europa y Estados Unidos.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

@@ -107,10 +107,10 @@ The current path of half-measures and diplomatic posturing is a trap. As **intel
 
 ***
 
+In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.
+
 *Disclaimer: The information presented in this analysis is based on unclassified intelligence reports and public statements from international bodies. Nuclear capabilities and geopolitical intentions are subject to rapid change and varying interpretations.*
 
 ### Methodology & Sources
 
 This analysis relies on verified data from the International Atomic Energy Agency (IAEA) reports, the Office of the Director of National Intelligence (ODNI), and public statements from nuclear experts. Primary sources include the **ODNI Unclassified Report on Iran's Nuclear Weapons Capability** and assessments from the **Institute for Science and International Security**. All figures regarding uranium stockpiles and enrichment levels are cited directly from these official documents.
-
-In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.

@@ -77,6 +77,8 @@ Se recomienda a los usuarios e inversores en criptomonedas que comiencen a inves
 
 **Veredicto de Riesgo:** Alto. La vulnerabilidad estructural de las direcciones P2PKH y la dificultad logística de un hard fork global representan una amenaza existencial a largo plazo para la valoración de Bitcoin.
 
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
+
 ## Metodología y Fuentes
 - [Google pone fecha al "Q-Day”, cuando la computación cuántica podrá romper la criptografía actual antes de lo previsto - Xataka](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS1hRdTBMcmRTRjFGRTgyQUpuRzlxU1hUVmVNSkFRdXBZMWJNYjhXbmc1Y2hITDRFUTU0cHZYdWhFbE1hNkRtZkRGanp5NGZFLTlzM0x4Qmc2YnBNYmp0a3Z1TEtuVGQwVlUwakh1SkVEQVc3bVJCVkhOdDc0QUplNzJGZnZLSy1PSjBvVVhkZ09uU3JNRjJnVmJNZEpPV1gyMG1jbUUzS0JZdzhDLVA4U3FYQXFFUzZ6ZG5tRHRwWDFianBIaVc1Z1B5TXlkblYwT25r0gHYAUFVX3lxTFAzc2JSWVVaTWE5dTJSbVlmeTM2QUtkTnhmT0J3Nnh4cGFEdnNKdjRFa2g5ZzNRTU9Mcmg0d2VObF9mUTB2TS1j
 
@@ -87,5 +89,3 @@ Se recomienda a los usuarios e inversores en criptomonedas que comiencen a inves
 <div class="author-box" style="padding: 20px; background-color: #f8f9fa; border-left: 4px solid #0056b3; margin-top: 30px; border-radius: 4px;">
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

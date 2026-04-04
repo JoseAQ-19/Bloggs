@@ -56,12 +56,8 @@ Un estudio específico en Cataluña revela que más de un tercio de los trabajad
 
 A pesar de estas advertencias, muchos sindicatos aplauden la "modernización" impulsada por la IA sin considerar los riesgos inherentes. La encuesta de McKinsey & Company señala que el 13% de los trabajadores ya utiliza herramientas de IA, pero casi una cuarta parte de las empresas ha sufrido consecuencias negativas por la inexactitud de estos modelos. Este riesgo, que debería ser un foco de atención para los sindicatos, se ignora en favor de un optimismo ciego hacia la tecnología.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este análisis se basa en diversas fuentes, incluyendo estudios de Randstad Research sobre la automatización de empleos en España, informes de McKinsey & Company sobre el uso de herramientas de inteligencia artificial en las empresas y declaraciones de expertos en el campo de la IA como Dario Amodei y Mustafa Suleyman. Se han consultado artículos de noticias, estudios académicos y reportes de tendencias laborales para ofrecer una visión exhaustiva sobre el impacto de la inteligencia artificial en el mercado laboral español.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

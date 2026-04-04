@@ -75,12 +75,8 @@ YouTube's $36B ad revenue depends on viewer trust that they're seeing authentic 
 ## The Verdict Is In
 **YouTube needs to protect original creators, not subsidize their replacements.** Creators should watermark content and pursue legal action against unauthorized AI replicas – the $5B likeness rights industry is their recourse. The future of YouTube hinges on rewarding human creativity, not rewarding robots.
 
-
-
-
+In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.
 
 ## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
-
-In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.

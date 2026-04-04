@@ -73,10 +73,10 @@ La edición genética es una herramienta poderosa, pero actualmente es una soluc
 
 ***
 
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
+
 *Descargo de responsabilidad: Este artículo es un análisis de opinión y tendencias basado en datos disponibles públicamente y no constituye asesoramiento médico ni financiero. La edición genética con fines clínicos es un campo en rápida evolución y su regulación varía según la jurisdicción.*
 
 ## Metodología y Fuentes
 
 Este análisis se basa en la revisión de informes técnicos del Centro Nacional de Investigaciones Oncológicas (CNIO), el Instituto de Investigación Biomédica (IRB Barcelona), y el Instituto Nacional del Cáncer de EEUU. Se han citado declaraciones de expertos como Edward Chuong (BioFrontiers Institute), Sandra Rodríguez-Perales (CNIO), Raúl Torres (CIEMAT), y Federico de Montalvo (Comité de Bioética de España). Los datos sobre la composición del genoma humano y la toxicidad de CRISPR provienen de estudios publicados en revistas científicas y comunicados oficiales de instituciones de salud. Se han utilizado fuentes primarias como el [Instituto Nacional del Cáncer](https://www.cancer.gov/news-events/cancer-currents-blog/2024/ancient-retrovirus-dna-ltr10-cancer), los [Institutos Nacionales de Salud de EEUU](https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/que-es-un-reservorio-de-vih-latente) y la base de datos de **PubMed Central** para contextualizar los mecanismos de persistencia viral y genómica.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

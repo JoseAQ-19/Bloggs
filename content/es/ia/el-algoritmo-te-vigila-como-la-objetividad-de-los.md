@@ -54,12 +54,8 @@ La solución no es una "alfabetización de datos" edulcorada. Necesitamos una de
 
 La objetividad de los datos es una mentira. Los algoritmos no solo vigilan, sino que estructuran, clasifican y sentencian. Para construir un futuro justo, debemos desmantelar esta ilusión y exigir un control democrático sobre los algoritmos que dan forma a nuestras vidas. Esta no es una lucha por la eficiencia; es una lucha por la libertad. O tomamos el control de la tecnología, o ella nos controlará a nosotros. No hay término medio.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

@@ -59,12 +59,8 @@ The international semiconductor industry's complicity further undermines sanctio
 ## The Bottom Line
 The second-hand equipment loophole represents sanctions' fatal vulnerability. China's $49.2 billion import binge exposes a fundamental flaw in the export control architecture that prioritizes cosmetic victories over systemic containment. Closing this gap requires harmonizing restrictions with Japan and Netherlands while establishing rigorous end-use verification protocols. Sanctions remain a speed bump, not a roadblock.
 
-
-
-
+In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.
 
 ## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
-
-In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.

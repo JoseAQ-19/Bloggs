@@ -147,12 +147,8 @@ NewPipe es la opción más segura, ya que permite escuchar solo el audio de los 
 ### ¿Google permitirá YouTube en Android Auto en el futuro?
 Es poco probable que Google permita la reproducción de vídeo en movimiento debido a las preocupaciones de seguridad y responsabilidad.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este análisis se basa en documentos técnicos de Google, informes de la NHTSA y artículos de medios tecnológicos. Se ha revisado la funcionalidad y los riesgos asociados con aplicaciones no oficiales, proporcionando una perspectiva completa sobre la interacción entre conectividad, seguridad y regulaciones en el ámbito automotriz.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

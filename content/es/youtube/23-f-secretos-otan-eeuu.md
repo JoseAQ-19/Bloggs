@@ -77,12 +77,8 @@ El pasado siempre vuelve para incomodar, y el 23-F sigue siendo una herida abier
 [https://www.rtve.es/noticias/20260228/documentos-desclasificados-23f-archivos/2414428.shtml](https://www.rtve.es/noticias/20260228/documentos-desclasificados-23f-archivos/2414428.shtml)
 [https://www.youtube.com/watch?v=Hy5lE8m-aBA](https://www.youtube.com/watch?v=Hy5lE8m-aBA)
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

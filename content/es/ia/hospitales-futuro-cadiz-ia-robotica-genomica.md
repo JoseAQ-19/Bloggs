@@ -79,11 +79,7 @@ Finalmente, la inversión en capital humano es tan crítica como la inversión e
 
 Cádiz tiene la oportunidad de liderar un modelo de IA en salud que sea no solo tecnológicamente avanzado, sino también éticamente sólido, equitativo y centrado en el paciente. Para ello, es necesario transcender la fascinación por la tecnología y abrazar una visión más holística y responsable de la innovación digital en la sanidad.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 Este informe se ha elaborado mediante un análisis crítico y documental de las declaraciones oficiales del Ministerio de Sanidad y Red.es, informes de organismos reguladores como la Agencia Española de Protección de Datos (AEPD), estudios académicos sobre sesgos algorítmicos en salud, y ejemplos de implementación de IA en sistemas sanitarios internacionales. Se ha adoptado un enfoque analítico para evaluar las implicaciones éticas, legales y sociales del despliegue de la Inteligencia Artificial en el sector sanitario español, con un foco específico en la provincia de Cádiz.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

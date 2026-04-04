@@ -92,12 +92,8 @@ A medida que la audiencia continúa desplazándose hacia plataformas digitales, 
 - **YouTube te destroza: el algoritmo adictivo que engancha como la cocaína**
 - **YouTube: el imperio prohibido donde el 64% de tus hijos ya están cautivos**
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

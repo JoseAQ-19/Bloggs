@@ -78,12 +78,8 @@ Here is a summary of alternative monetization strategies creators are turning to
 ## The Bottom Line
 YouTube needs to carefully balance ad revenue with user experience, or it risks alienating its audience and losing creators to alternative platforms. YouTube should prioritize exploring and implementing more user-friendly ad formats, such as shorter, skippable ads, or incentivize viewing through rewards. The golden goose is getting cooked.
 
-
-
-
+In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.
 
 ## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
-
-In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.

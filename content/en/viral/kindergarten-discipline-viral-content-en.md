@@ -82,12 +82,8 @@ The risks to student privacy and equitable discipline are too high; immediate po
 
 Your child's future hinges on securing their present.
 
-
-
-
+In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.
 
 ## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
-
-In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.

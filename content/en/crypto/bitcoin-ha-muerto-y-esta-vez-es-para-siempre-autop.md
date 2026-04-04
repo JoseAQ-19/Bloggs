@@ -75,6 +75,8 @@ The 'death' of Bitcoin is a misnomer. What we are witnessing is the **death of t
 
 The primary risks are no longer technical—the code works—but rather **geopolitical and structural**. The concentration of hash rate in the US and the concentration of supply in Wall Street ETFs means that Bitcoin is now a passenger in the global financial system, rather than an alternative to it.
 
+In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.
+
 ## Metodología y Fuentes
 
 - **K33 Research:** Analysis on asset correlations and institutional market participation. [https://k33research.com](https://k33research.com)
@@ -84,5 +86,3 @@ The primary risks are no longer technical—the code works—but rather **geopol
 - **The Block Data:** Real-time exchange volume and market dominance metrics. [https://www.theblock.co/data](https://www.theblock.co/data)
 
 *Disclaimer: The information provided in this analysis is for informational purposes only and does not constitute financial, investment, or legal advice. Investing in cryptocurrencies and digital assets involves significant risk, including the loss of principal. Past performance is not indicative of future results.*
-
-In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.

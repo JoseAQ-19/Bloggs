@@ -88,10 +88,10 @@ El mercado negro de modelos "uncensored" (sin censura) florece en foros de la da
 
 La regulación actual es una respuesta inadecuada a una amenaza existencial. La AEPD y la CNMV están haciendo lo que pueden con herramientas legales obsoletas, pero la verdadera solución pasa por un cambio de paradigma en la arquitectura de identidad de Internet. La autenticidad debe ser probable, no asumida. Las plataformas como YouTube deben implementar firmas digitales criptográficas (C2PA) en todo el contenido original, permitiendo a los usuarios verificar la procedencia de un video con un solo clic. Mientras la identidad sea basada en la apariencia y no en la criptografía, estaremos condenados a vivir en un mundo de espejismos digitales donde nadie es quien parece ser y la confianza es el primer producto en escasear.
 
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
+
 *Disclaimer: Este artículo es un análisis de opinión basado en fuentes públicas y no constituye asesoramiento legal o financiero. Las cifras mencionadas sobre multas y sanciones proceden de comunicados oficiales de la AEPD y la CNMV.*
 
 ## Metodología y Fuentes
 
 La información presentada en este artículo se ha obtenido mediante una revisión exhaustiva de comunicados oficiales de la Agencia Española de Protección de Datos (AEPD), la Comisión Nacional del Mercado de Valores (CNMV), y medios especializados en tecnología y derecho digital. Se han priorizado fuentes primarias y documentos legislativos referentes al RGPD y la Ley de Derecho al Honor. Los datos sobre sanciones específicas (multas de 2.000 euros y 5 millones de euros) se han contrastado con informes de **Pantallas Amigas**, **Bolsamania**, e **Infobae**. Se ha consultado additionally el análisis legal de **Écija** y la cobertura de **El Español** sobre las medidas técnicas de YouTube. Las opiniones expresadas en "Nuestra lectura" son interpretaciones editoriales basadas en la evidencia recopilada.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

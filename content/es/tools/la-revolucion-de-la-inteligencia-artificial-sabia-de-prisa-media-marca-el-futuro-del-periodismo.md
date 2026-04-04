@@ -69,6 +69,8 @@ La implementación de SabIA y herramientas similares es una inevitable evolució
 
 La tecnología no es el problema; la falta de integridad en su despliegue sí lo es. La arquitectura de la información del futuro debe ser transparente por diseño, no por obligación legal. Si la industria no se autorregula con estándares técnicos rigurosos, la intervención estatal a través del Acta de IA desmantelará los modelos de negocio actuales basados en la opacidad.
 
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
+
 ## Metodología y Fuentes
 
 Este análisis se basa en la revisión de estudios académicos sobre la adopción de IA en el periodismo español, informes técnicos sobre la arquitectura de SabIA proporcionados por PRISA Media, y la normativa europea vigente y pendiente de aplicación. Se han cruzado datos de uso de herramientas de IA con encuestas de percepción pública y riesgos laborales para proporcionar una visión holística del impacto tecnológico. Se ha priorizado la información proveniente de fuentes primarias y documentos regulatorios oficiales para asegurar la precisión técnica.
@@ -80,5 +82,3 @@ Este análisis se basa en la revisión de estudios académicos sobre la adopció
 *Para comprender el impacto económico y la preparación de las infraestructuras, se ha consultado el [Resumen Económico de Puerto Rico](https://jp.pr.gov/wp-content/uploads/2024/12/REPR-VOL-IV-NUM-9.pdf), que ofrece perspectivas sobre cómo la inversión tecnológica se traduce en indicadores de crecimiento y productividad, un paralelo aplicable a la industria mediática.*
 
 *Es crucial destacar que la automatización de procesos en entornos corporativos conlleva riesgos significativos de cumplimiento normativo, tal como se analiza en el informe sobre [Alarma Google Workspace: Tu Automatización Con IA Podría Infringir El RGPD](/es/tools/google-workspace-cli-automatizacion-ia/), lo que refuerza la necesidad de una arquitectura de IA diseñada con la privacidad y la transparencia como pilares fundamentales.*
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

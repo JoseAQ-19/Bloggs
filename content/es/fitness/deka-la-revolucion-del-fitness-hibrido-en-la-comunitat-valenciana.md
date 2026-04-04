@@ -126,6 +126,8 @@ Si presentas cualquiera de estos síntomas en la fase de entrenamiento, detente 
 
 *El contenido anterior es solo para fines informativos y educativos. No constituye consejo médico, diagnóstico o tratamiento. Siempre busca el consejo de tu médico u otro proveedor de salud calificado antes de comenzar cualquier nuevo programa de nutrición o ejercicio, o con cualquier pregunta que puedas tener respecto a una condición médica.*
 
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
+
 ## Metodología y Fuentes
 
 Este análisis se basa en una revisión crítica de la literatura científica disponible sobre fisiología del ejercicio, epidemiología de lesiones deportivas y tendencias de participación en fitness híbrido. Se han priorizado fuentes revisadas por pares y datos de instituciones médicas reconocidas sobre anécdotas o marketing de la industria. Las comparaciones con CrossFit y deportes de contacto se derivan de estudios epidemiológicos estandarizados (tasa de incidencia por 1000 horas de exposición). La información sobre eventos específicos en Valencia se ha obtenido de comunicados oficiales y programación pública de los organizadores.
@@ -152,5 +154,3 @@ Este análisis se basa en una revisión crítica de la literatura científica di
   }
 }
 </script>
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

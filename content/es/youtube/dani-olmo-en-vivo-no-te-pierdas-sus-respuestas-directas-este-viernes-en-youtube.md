@@ -46,12 +46,8 @@ La situación de Dani Olmo es un dilema no solo para él como individuo, sino ta
 
 El éxito de su carrera dependerá no solo de su habilidad para recuperarse de las lesiones, sino también de su capacidad para demostrar que puede ser un jugador de confianza en el campo. Los próximos meses serán cruciales, y su actuación en el evento de YouTube podría ser solo la primera de muchas pruebas a las que se verá sometido para recuperar la confianza de la afición y de la dirección del club.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este análisis se ha elaborado utilizando una combinación de datos estadísticos sobre el historial de lesiones de Dani Olmo, informes financieros sobre el impacto de su fichaje en el FC Barcelona y opiniones de expertos en salud deportiva y análisis financiero. Las fuentes incluyen informes de medios deportivos como [beIN SPORTS](https://www.beinsports.com), análisis de mercado y datos de la página de transferencias de futbolistas. Además, se han considerado opiniones de aficionados y comentarios en redes sociales para comprender la percepción pública del jugador.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

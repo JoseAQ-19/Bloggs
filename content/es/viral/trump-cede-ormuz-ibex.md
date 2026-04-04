@@ -74,12 +74,8 @@ La actual crisis energética plantea la necesidad urgente de que España y Europ
 
 La crisis en el Estrecho de Hormuz nos recuerda la interconexión de la economía global. Una crisis en una región lejana puede tener repercusiones profundas en nuestro día a día. La innovación y la cooperación internacional son esenciales para romper este ciclo destructivo y construir un sistema más robusto.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este artículo se basa en datos de diversas fuentes, incluyendo la Agencia de Información Energética de EE.UU., el Ministerio de Industria español y estudios del Banco de España. Se ha realizado un análisis exhaustivo de la situación actual del mercado energético y sus implicaciones para la economía española.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

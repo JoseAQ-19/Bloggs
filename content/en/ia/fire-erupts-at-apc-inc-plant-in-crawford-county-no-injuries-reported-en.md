@@ -71,15 +71,11 @@ Relying on luck is not an engineering discipline. The disparity between the corp
 
 The chemical industry is running on legacy infrastructure and outdated economic models that externalize the cost of disaster. Until the fines for non-compliance match the potential damages, and until community input is treated as a critical data stream rather than noise, the evacuations will continue. The system is not broken; it is functioning exactly as it was designed to function—prioritizing profit over people.
 
+In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.
+
 ## Metodología y Fuentes
 - [EPA/OSHA JOINT CHEMICAL ACCIDENT INVESTIGATION REPORT - Napp Technologies, Inc. Lodi, New Jersey (October 1997) | US EPA ARCHIVE DOCUMENT](https://archive.epa.gov/emergencies/docs/chem/web/pdf/napp.pdf)
 - [TPC Factual Update 10-29-2020](https://www.csb.gov/assets/1/20/tpc_factual_update_10-29-2020.pdf?16613)
 - [Risk Analysis of Chemical Plant Explosion Accidents Based on Bayesian Network - MDPI](https://www.osti.gov/servlets/purl/15005088)
 
 *Aviso Editorial: Este contenido es solo para fines educativos e informativos. No constituye asesoramiento profesional financiero, legal o médico. NovumWorld recomienda consultar con un especialista certificado.*
-
-
-
-
-
-In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.

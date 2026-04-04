@@ -60,12 +60,8 @@ El futuro del vapeo es incierto y plantea preguntas cruciales sobre cómo se abo
 
 Margarita de la Paz de Esvidas destaca que la industria del vapeo manipula la percepción de los jóvenes, haciéndolos creer que los productos son seguros. Para garantizar un futuro sin humo, es necesario implementar políticas que limiten la publicidad dirigida a los jóvenes y que promuevan la educación sobre los riesgos del vapeo.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este artículo se ha desarrollado a partir de una revisión exhaustiva de investigaciones y datos recientes sobre el consumo de vapeo entre jóvenes en España, así como de opiniones de expertos en salud pública. Las fuentes incluyen artículos académicos, informes de organizaciones de salud y declaraciones de profesionales médicos.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

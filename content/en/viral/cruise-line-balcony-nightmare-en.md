@@ -83,12 +83,8 @@ These choices occur within a carefully constructed environment designed to maxim
 
 The sociological dimension reveals a deeper truth about risk perception. Many cruise passengers view these ships as floating resorts rather than vessels operating in dangerous marine environments. This false sense of security leads to behaviors that would be unthinkable on land—sitting on balcony railings, leaning over guardrails, or accessing restricted areas. [Quora discussions](
 
-
-
-
+In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.
 
 ## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
-
-In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.

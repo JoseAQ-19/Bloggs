@@ -87,6 +87,8 @@ YouTube's strategy is a high-wire act between innovation and exploitation. The p
 
 The livestream is no longer a window into the festival; it is a mirror reflecting the platform's own greed.
 
+In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.
+
 *Disclaimer: The financial analysis and opinions presented in this article are for informational purposes only and do not constitute financial advice. The revenue figures and statistics cited are based on publicly available data and estimates.*
 
 ## Methodology & Sources
@@ -96,5 +98,3 @@ This analysis is based on a synthesis of verified news reports, financial disclo
 The financial estimates for the @coachella YouTube channel were sourced from third-party analytics providers specializing in social media metrics. Survey data regarding influencer fatigue and brand perception was drawn from independent market research studies conducted in 2025. Legal references regarding ticket scalping and consumer protection laws in California were verified against state legislative records.
 
 Key sources include **Mixmag Asia**, **Hollywood Inc.**, and **The Independent**. Additional context was provided by academic research on **complementarities between live performances and streaming** and **mobile streaming datasets**.
-
-In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.

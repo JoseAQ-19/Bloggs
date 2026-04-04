@@ -95,10 +95,10 @@ La industria del aclaramiento de piel es una estafa económica y de salud públi
 
 Esta tendencia podría morir en seis meses si las plataformas de redes sociales como TikTok y Meta, presionadas por reguladores europeos, comienzan a censurar o etiquetar agresivamente el contenido que promueve el blanqueamiento de piel. La "Skinification" de todo, incluido el maquillaje, está moviendo el foco hacia la salud de la barrera cutánea (barrier repair) en lugar del blanqueamiento agresivo. Si el marketing cambia el discurso de "blanquear" a "fortalecer", la demanda de tóxicos podría colapsar rápidamente, dejando a los fabricantes de cremas con mercurio con inventarios inservibles. Sin embargo, el colorismo es estructural y no desaparecerá por un cambio de algoritmo, aunque sus formas más peligrosas podrían verse obligadas a pasar a la clandestinidad total.
 
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
+
 *Disclaimer: Este artículo tiene un propósito meramente informativo y no sustituye el consejo médico profesional. El uso de medicamentos o productos cosméticos debe ser supervisado siempre por un especialista.*
 
 ## Metodología y Fuentes
 
 El análisis se basa en la revisión de informes técnicos de organismos reguladores de salud, estudios científicos sobre ingredientes cosméticos y declaraciones de expertos en dermatología. Se han priorizado fuentes primarias como la AEMPS, la FDA, el Instituto Científico de Salud Pública de Bélgica y el Programa de las Naciones Unidas para el Medio Ambiente. Las opiniones de expertos citadas provienen de entrevistas y publicaciones de instituciones académicas reconocidas. Se ha evitado el uso de fuentes secundarias no verificadas para garantizar la precisión de los datos sobre la composición y riesgos de los productos mencionados.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

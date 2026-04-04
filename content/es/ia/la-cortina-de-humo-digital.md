@@ -58,9 +58,7 @@ El aumento proyectado de 1.1 millones de usuarios de internet entre 2024 y 2025 
 
 En este contexto, la tecnología se convierte en una herramienta de control en lugar de un medio de empoderamiento. El Estado y las grandes corporaciones utilizan la tecnología para modelar opiniones y extraer valor de los datos personales de los ciudadanos. Este enfoque plantea serias preocupaciones sobre la autonomía individual y la libertad.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
@@ -76,5 +74,3 @@ Estas fuentes se han utilizado para ilustrar la discrepancia entre las cifras op
 ## Conclusión
 
 La transformación digital en México no es una historia de éxito, sino un relato de control y manipulación. La narrativa de un país conectado es una farsa que oculta las desigualdades y vulnerabilidades que enfrenta una gran parte de la población. Para avanzar hacia un futuro digital más equitativo, es imperativo resistir la agenda digital del Estado, promover la alfabetización mediática y luchar por un internet libre y descentralizado. Solo así se puede evitar un futuro distópico donde la tecnología no empodera, sino que esclaviza.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

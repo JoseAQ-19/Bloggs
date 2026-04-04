@@ -81,12 +81,8 @@ La adopción de la IA en las telecos españolas requiere un enfoque equilibrado 
 
 Si Telefónica divide la inversión de 9.1 millones de euros en IA por el número de clientes totales (unos 40 millones), la inversión por cliente resulta en 0,22 euros por usuario. Una cantidad ridícula que no justifica el bombo mediático de la digitalización. A este paso, la única transformación que van a ver los usuarios será una subida en sus facturas.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

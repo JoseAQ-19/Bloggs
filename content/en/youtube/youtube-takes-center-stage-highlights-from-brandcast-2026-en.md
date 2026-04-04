@@ -75,10 +75,10 @@ YouTube's strategy to combat AI slop and support creators must be more than just
 
 YouTube must prioritize creator well-being and ethical AI practices to sustain its content ecosystem, or risk a mass exodus of talent that will reshape the digital content landscape.
 
+In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.
+
 *Disclaimer: The financial and health data presented in this article is based on available studies and industry reports as of the date of publication. Individual creator experiences may vary.*
 
 ## Methodology & Sources
 
 This analysis is based on a synthesis of industry reports, legal filings, and expert commentary regarding the creator economy and platform strategy. Data regarding creator burnout rates and financial impacts was sourced from studies by Dr. Alok Kanojia and industry analyses of creator revenue. Information regarding YouTube's AI strategy and "AI slop" crackdown was derived from official statements by CEO Neal Mohan and platform updates. Legal context was provided by recent US court findings regarding social media addiction. For further reading, please refer to the [SEC filings](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000012/googexhibit991q42025.htm) regarding Alphabet's financial performance and the **impact of user-generated content** on youth information reception. Additional context on platform events was gathered from **YouTube's official announcements**.
-
-In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.

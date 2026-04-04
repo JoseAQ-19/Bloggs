@@ -57,14 +57,10 @@ La cortesía hacia la IA no solo es una farsa costosa, sino que también es un s
 
 Exigir transparencia y responsabilidad en el desarrollo de la IA es esencial. Además, es crucial fomentar un sano escepticismo hacia las afirmaciones de las empresas tecnológicas. Solo de esta manera podremos evitar caer en la trampa de la "sonrisa" de la IA, que podría convertirnos en meros peones en su juego.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este análisis se basa en una revisión exhaustiva de literatura académica y artículos de opinión sobre la interacción humano-máquina, la ética de la IA y el impacto ambiental de la tecnología. Se han consultado estudios recientes para respaldar las afirmaciones sobre la eficiencia en la comunicación con sistemas de IA y las implicaciones emocionales de la antropomorfización. 
 
 Se han utilizado fuentes como artículos de OpenAI, investigaciones académicas disponibles en arXiv y análisis de expertos en tecnología y ética para construir un marco comprensivo sobre el tema.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

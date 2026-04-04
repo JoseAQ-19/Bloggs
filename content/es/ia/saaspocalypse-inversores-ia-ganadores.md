@@ -62,12 +62,8 @@ La IA debe abordarse con cautela y una estrategia dirigida, no como una bala má
 
 Si la IA fuera un nuevo continente, la mayoría de las empresas españolas estarían comprando billetes de avión sin saber adónde quieren ir ni qué esperan encontrar allí.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

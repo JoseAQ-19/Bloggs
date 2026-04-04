@@ -81,12 +81,8 @@ Este sistema se ha diseñado para transferir riqueza de los pobres a los ricos. 
 
 La pregunta crítica que debemos hacernos no es si podemos evitar la crisis, sino cómo mitigar sus efectos. La tormenta económica se avecina, y sus consecuencias serán mucho más severas de lo que muchos están dispuestos a admitir. Es imperativo que tanto individuos como gobiernos preparen estrategias para enfrentar la crisis, y que la comunidad internacional se una para buscar soluciones a un problema que no conoce fronteras.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este análisis se ha realizado a partir de una revisión exhaustiva de datos y estudios provenientes de diversas fuentes reconocidas, como Bloomberg, Reuters, y artículos académicos de ArXiv. Se han considerado tanto informes económicos como análisis de mercado para ofrecer una visión integral de la situación actual y sus posibles consecuencias.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

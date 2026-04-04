@@ -47,14 +47,10 @@ Ante el panorama desalentador que nos presenta la intersección de la tecnologí
 
 La desconexión no implica un rechazo total de la tecnología, sino una reevaluación de nuestra relación con ella. Nos hemos dejado llevar por un mundo donde los "likes" y los "followers" se han convertido en medidas de valor, mientras que nuestra capacidad de asombro y resistencia se ha debilitado. Si no tomamos acción ahora, el sombrío futuro de Dick no será simplemente ficción, sino una realidad que habremos creado nosotros mismos.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Para la elaboración de este análisis, se ha recurrido a una variedad de fuentes, incluyendo estudios académicos, artículos de opinión y datos estadísticos relacionados con el impacto de la tecnología en la sociedad. Se han consultado trabajos relevantes en el campo de la sociología y la psicología, así como informes sobre el impacto del consumismo y la tecnología en la calidad de vida. 
 
 Asimismo, se han utilizado informes de organizaciones como Nature y Statista para respaldar las afirmaciones sobre la disminución en las ventas de medios físicos y las consecuencias de la inacción climática. La intención es ofrecer un análisis fundamentado que invite a la reflexión sobre el papel de la ciencia ficción y la tecnología en nuestra vida cotidiana.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

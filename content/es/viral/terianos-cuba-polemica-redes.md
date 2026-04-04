@@ -97,12 +97,8 @@ El futuro de la libertad digital en la isla dependerá tanto de la capacidad de 
 * **Censura en la era digital: ¿Qué podemos aprender de otros países?**
 * **El Paquete Semanal: la otra cara de la resistencia offline en Cuba.**
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

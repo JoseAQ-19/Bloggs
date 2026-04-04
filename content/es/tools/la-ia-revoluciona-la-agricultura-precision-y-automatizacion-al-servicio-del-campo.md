@@ -62,7 +62,9 @@ La innovación real no está en iluminación, sino en recuperación de residuos.
 
 La verdadera revolución será la hibridación con agricultura tradicional. Groots en Barcelona opera invernaderos verticales con paneles solares móviles que desplazan según la estación. Este modelo "fotovoltaico-agrícola" reduce costes energéticos un 60% y permite cultivos de ciclo largo. La UE aprobó en 2023 €200M para 50 proyectos de este tipo, que combinan agricultura vertical tradicional con biodiversidad en capas. Esta hibridación es la única vía para superar el mito de la autosuficiencia absoluta. 
 
-La agricultura vertical puede ser parte de la solución alimentaria, pero solo si se abandona el mito de la sostenibilidad infinita y se aborda con realismo su dependencia energética. 
+La agricultura vertical puede ser parte de la solución alimentaria, pero solo si se abandona el mito de la sostenibilidad infinita y se aborda con realismo su dependencia energética.
+
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes 
 - **USDA - Energy Use in Vertical Farming** 
@@ -70,9 +72,3 @@ La agricultura vertical puede ser parte de la solución alimentaria, pero solo s
 - [ERS - Economic Analysis of Indoor Farming](https://ers.usda.gov/sites/default/files/_laserfiche/publications/105894/EIB-248_Summary.pdf) 
 
 *Avísó Editorial: Este contenido es solo para fines educativos e informativos. No constituye asesoramiento profesional financiero, legal o médico. NovumWorld recomienda consultar con un especialista certificado.*
-
-
-
-
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

@@ -69,12 +69,8 @@ Un enfoque crítico requiere un compromiso con la justicia social y la equidad, 
 
 La verdadera objetividad reside en la honestidad intelectual y la transparencia metodológica, no en la pretensión de una neutralidad inexistente. El futuro del periodismo depende de ello. El tiempo de las tibiezas ha terminado. Es hora de tomar partido y defender la verdad, sin importar las consecuencias.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

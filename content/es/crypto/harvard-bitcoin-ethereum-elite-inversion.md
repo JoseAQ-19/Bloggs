@@ -61,11 +61,10 @@ La decisión de Harvard de diversificarse hacia Ethereum no significa el fin de 
 
 La inversión en criptomonedas conlleva riesgos significativos, incluyendo volatilidad extrema y la posibilidad de pérdida total del capital invertido. Es esencial que los inversores comprendan completamente los proyectos en los que están interesados, así como su tecnología, equipo y potencial de crecimiento.
 
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este artículo se ha elaborado mediante la recopilación y análisis de datos de diversas fuentes del sector financiero y cripto, incluyendo informes de mercado, artículos de expertos y estadísticas relevantes. Se han utilizado datos actualizados hasta octubre de 2023 para asegurar la precisión y relevancia del contenido.
 
 ---
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

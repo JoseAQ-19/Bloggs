@@ -65,12 +65,8 @@ La educación juega un papel crucial en la transformación de estas dinámicas. 
 
 El vídeo sobre las "10 palabras que las mujeres usan y los hombres no entienden" es un recordatorio poderoso de las profundas desigualdades que persisten en nuestra sociedad. No se trata solo de un fenómeno superficial en las redes sociales, sino de un síntoma de una brecha algorítmica y cultural que continúa afectando a la comunicación entre géneros. Al abordar estos problemas de manera consciente y activa, podemos trabajar hacia una sociedad más equitativa, donde todas las voces sean escuchadas y valoradas.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Para este análisis, se realizaron revisiones de literatura académica sobre comunicación de género, estudios de sesgos en modelos de lenguaje y reportes de organizaciones como LLYC y UNESCO. Se consultaron múltiples estudios de caso sobre el impacto de la tecnología en la representación de género y se llevó a cabo un análisis crítico de la situación actual de las mujeres en el ámbito laboral y la comunicación.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

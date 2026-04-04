@@ -89,12 +89,8 @@ El reto que enfrentamos es tanto filosófico como ético: ¿cómo defendemos la 
 
 Es fundamental que tomemos conciencia de esta realidad y actuemos para proteger nuestras libertades individuales y colectivas. La lucha contra la dictadura digital debe ser un esfuerzo conjunto, que involucre a ciudadanos, comunidades y organizaciones en la defensa de nuestros derechos.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este análisis se basa en una revisión de literatura académica y reportes de investigaciones sobre la influencia de la tecnología en la sociedad contemporánea. Se han consultado fuentes como "La era del capitalismo de la vigilancia" de Shoshana Zuboff, estudios de MIT Technology Review, y artículos de Reuters y IEEE sobre el impacto de los algoritmos en la vida cotidiana.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

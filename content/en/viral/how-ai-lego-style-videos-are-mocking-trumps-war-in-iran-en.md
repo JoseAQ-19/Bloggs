@@ -70,10 +70,10 @@ Ultimately, the rise of AI Lego videos as a critique of figures like Donald Trum
 
 This is the ultimate achievement of the generative era: the ability to manufacture "vibe-based" evidence. You don't need to prove a policy failed if you can make a video where the policy is literally a crumbling toy house. As we navigate this new landscape, the challenge will be to remember that while the videos are made of plastic, the world they mock is made of something much more fragile.
 
+In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.
+
 ## Metodología y Fuentes
 - Pew Research Center: Social Media and News Fact Sheet (2023). [https://www.pewresearch.org/journalism/2023/11/15/social-media-and-news-fact-sheet/]
 - CSIS: Iran’s Nuclear Program Analysis. [https://www.csis.org/analysis/irans-nuclear-program-and-trump-administration]
 - Microsoft Digital Defense Report (2024). [https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/]
 - Brookings Institution: U.S. Policy Toward Iran. [https://www.brookings.edu/topics/iran/]
-
-In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.

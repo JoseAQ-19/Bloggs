@@ -67,12 +67,8 @@ Current AI efforts are largely focused on discovering novel material combination
 ## The Bottom Line
 AI-designed magnets offer a vital, albeit long-term, pathway to mitigating risk and ethical concerns in the EV magnet supply chain. Automakers should directly fund and partner with research institutions like the University of New Hampshire to accelerate the development and testing of AI-designed magnet alternatives. Rare earths are on notice.
 
-
-
-
+In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.
 
 ## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
-
-In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.

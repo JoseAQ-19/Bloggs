@@ -89,12 +89,8 @@ Las empresas tecnológicas no son la solución a la crisis informativa; son cóm
 
 El periodismo que merecemos no es un "pilar fundamental de la democracia", sino un instrumento de control y manipulación. No debemos exigir que los medios cumplan con sus responsabilidades éticas; debemos crear un sistema que los haga irrelevantes. La tarea es monumental, pero la recompensa es la libertad. La única opción viable es dejar que los medios tradicionales se hundan en su propia irrelevancia, donde pertenecen.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este análisis se basa en una revisión crítica de estudios académicos, artículos de opinión y reportes de medios que abordan la crisis de confianza en el periodismo contemporáneo. Se han consultado fuentes como *Nature*, *MIT Technology Review*, *Bloomberg*, y *Reuters*, entre otros, para sustentar los argumentos presentados.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

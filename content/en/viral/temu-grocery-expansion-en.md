@@ -71,12 +71,8 @@ Financially, the picture is equally bleak. The estimated $8-9 billion loss in 20
 ## The Bottom Line
 Temu’s grocery expansion is a dangerous escalation of surveillance capitalism, trading consumer safety and privacy for unsustainable discounts. The $2 million FTC fine is a meaningless fig leaf, the forced labor allegations demand accountability, and the product safety risks are unacceptable. The US market contraction signals the beginning of the end for this extractive bubble. Delete the app. Demand real regulation. Your data diet is now their profit feast.
 
-
-
-
+In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.
 
 ## Methodology and Sources
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
-
-In conclusion, the rapid evolution of these dynamics highlights the vital need to stay informed and adapt corporate strategies for future market scenarios.

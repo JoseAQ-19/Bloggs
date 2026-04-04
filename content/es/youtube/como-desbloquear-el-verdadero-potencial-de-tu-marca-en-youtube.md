@@ -98,12 +98,8 @@ La autenticidad ayuda a construir relaciones genuinas entre marcas e influencers
 
 Las marcas deben realizar un análisis exhaustivo de las métricas, evaluar la calidad de los seguidores y priorizar aquellos influencers que se alineen con sus valores y tengan una conexión genuina con su audiencia.
 
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
+
 ## Metodología y Fuentes
 
 Este análisis se basó en datos recientes sobre el marketing de influencers y la dinámica de YouTube, con un enfoque particular en el contexto español. Las fuentes utilizadas incluyen información de la **Comisión Nacional del Mercado de Valores (CNMV)**, así como estudios sobre el impacto de las redes sociales en los jóvenes y tendencias del marketing digital. Las métricas fueron verificadas a través de informes de mercado y análisis de expertos en la materia, garantizando la precisión y relevancia de la información presentada.
-
-
-
-
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

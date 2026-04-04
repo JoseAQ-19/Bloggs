@@ -75,12 +75,8 @@ Frente a esta realidad, es evidente que la IA no es simplemente una herramienta 
 
 La única opción viable es la resistencia. Es crucial que los trabajadores se organicen y luchen por un futuro en el que la tecnología sirva a la humanidad, y no al revés. La rebelión contra el sistema que perpetúa estas desigualdades y precariedades es la única salida viable para construir un futuro donde la dignidad y el trabajo decente sean una realidad.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este análisis se basa en una revisión exhaustiva de la literatura existente sobre el impacto de la IA en el trabajo, incluyendo informes de organizaciones como la OIT y el WEF, así como artículos de investigación publicados en revistas académicas y análisis de medios de comunicación especializados. Se ha prestado especial atención a las tendencias actuales en la automatización y sus repercusiones en la fuerza laboral.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

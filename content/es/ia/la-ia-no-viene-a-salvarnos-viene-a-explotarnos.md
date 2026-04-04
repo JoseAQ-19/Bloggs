@@ -53,12 +53,8 @@ El futuro de la IA no debe basarse en la explotación y el sufrimiento humano. E
 
 Un cambio de paradigma es fundamental. La IA debe diseñarse y utilizarse como una herramienta para el progreso equitativo, no como un medio para exacerbar la desigualdad y la precariedad global. La demanda de "ethical AI" y "responsible AI" debe ser una prioridad, impulsada por la conciencia social y el activismo.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este análisis se ha construido a partir de una revisión exhaustiva de la literatura existente sobre el trabajo invisible en la industria de la IA, así como de estudios de caso y reportes de organizaciones no gubernamentales. Las fuentes incluyen investigaciones de organizaciones como Amnesty International y Time Magazine, que han abordado la problemática de la moderación de contenido y sus implicaciones para la salud mental de los trabajadores. Además, se han consultado estudios académicos y artículos de opinión en medios de comunicación relevantes para proporcionar un contexto más amplio sobre la explotación digital.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

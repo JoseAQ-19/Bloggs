@@ -70,12 +70,8 @@ El resurgimiento de la tosferina es un legado silencioso de la controversia vacu
 
 Las vacunas son uno de los mayores avances de la medicina y han salvado millones de vidas a lo largo de la historia. Dejemos de escuchar a *influencers* en temas de salud y consultemos a profesionales médicos. La ignorancia es una enfermedad.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este análisis se basa en fuentes públicas de la industria, datos oficiales y reportes de mercado actualizados.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

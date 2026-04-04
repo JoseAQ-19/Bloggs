@@ -63,14 +63,10 @@ La solución a esta crisis no se encuentra en una simple regulación, sino en un
 
 Glovo no debe ser visto como el futuro del trabajo, sino como un recordatorio del pasado oscuro que creíamos haber superado. La posibilidad de un futuro laboral más humano y justo es posible, pero requiere un esfuerzo colectivo y decidido. La distopía ya está aquí, y es hora de tomar una posición clara: exigir un cambio es necesario para garantizar la dignidad y los derechos de todos los trabajadores.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Este artículo se basa en un análisis crítico de la literatura existente sobre el trabajo en plataformas digitales, informes de organizaciones de derechos laborales, así como artículos de investigación académica. Se han utilizado datos de fuentes como MIT Technology Review, RidersXDerechos, El Salto, y estudios académicos de universidades como Oxford para ofrecer una visión completa de la situación laboral en Glovo y otras plataformas similares.
 
  La información presentada en este artículo tiene como objetivo informar y concienciar sobre la precarización laboral en el ámbito digital. Se recomienda a los lectores que busquen la orientación de expertos en derecho laboral y derechos humanos para obtener una comprensión más profunda y asistencia en cuestiones relacionadas.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

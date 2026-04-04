@@ -63,10 +63,12 @@ Es crucial comprender que la indiferencia no es simplemente una falta de interé
 
 Chile se encuentra en una encrucijada. El país puede seguir por el camino de la indiferencia, que conduce a la erosión de la democracia y el surgimiento de un régimen autoritario, o puede despertar del letargo y reafirmar su compromiso con los valores democráticos. La elección está en manos de los chilenos. El futuro de Chile depende de ello.
 
-### Fuentes y Autoridad
+#
+
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
+
+## Fuentes y Autoridad
 * [Análisis en Com/news](https://openai.com/news)
 * [Análisis en Google/discover](https://deepmind.google/discover)
 
 ---
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

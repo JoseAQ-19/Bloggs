@@ -65,12 +65,8 @@ Si llegamos a crear una IA que se asemeje a la conciencia, la cuestión no deber
 
 La obsesión por la "conciencia artificial" es un desvío que socava nuestra atención sobre los peligros reales que plantea la IA. La vigilancia masiva, la manipulación algorítmica y la automatización del desempleo son problemas que requieren una atención urgente. En lugar de preguntarnos si los "borregos" sueñan con "ciber-ovejas", deberíamos exigir transparencia, responsabilidad y una regulación más efectiva en el desarrollo y uso de la IA. Sin una acción proactiva, la realidad es que la IA no va a soñar; simplemente nos manipulará y, potencialmente, nos perjudicará.
 
-
-
-
+En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.
 
 ## Metodología y Fuentes
 
 Para la elaboración de este análisis, se han revisado diversas fuentes académicas, artículos de revistas especializadas y estudios de caso sobre la inteligencia artificial y su impacto en la sociedad. Se han consultado publicaciones de *IEEE Spectrum* y *MIT Technology Review*, entre otras, para proporcionar una visión integral y fundamentada sobre el estado actual de la IA y sus implicaciones éticas y sociales.
-
-En conclusión, el rápido desarrollo de estas dinámicas subraya la necesidad vital de mantenerse documentado y adaptar las estrategias corporativas ante futuros escenarios del mercado.

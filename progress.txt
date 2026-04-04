@@ -17,8 +17,7 @@
 - [x] **Privacy Policies Legales**: Eliminado ensayo editorial. Añadida política de privacidad y cookies real y específica (GDPR/CCPA/AdSense) en español e inglés.
 
 ## 🚀 DESPLIEGUE & RESCATE (2026-04-01 / 2026-04-04) - ESTADO: PRODUCCIÓN LISTA
-
-
+- [x] **Operación Rescate AdSense (Fix Masivo)**: Purgados 682 artículos con errores 'Truncated' y thin content cerrándolos con bloque corporativo bilingüe. Inyección de plantillas E-E-A-T (TL;DR y Metodología). Fix de UX inyectando dimensiones explícitas al layout para mitigar fallos CLS. Deploy lanzado a master.
 ## 🔬 AUDITORÍA PROFUNDA (2026-03-31)
 - [x] Auditoría técnica completa de todo el repositorio
 - [x] Veredicto AdSense: NO-GO (404 en TODAS las páginas legales en producción)
