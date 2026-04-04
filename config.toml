@@ -156,7 +156,7 @@ paginate = 6
 [[languages.es.menu.main]]
   identifier = "contact"
   name = "Contacto"
-  url = "/es/contact/"
+  url = "/es/contacto/"
   weight = 110
 
 [sitemap]
