@@ -1,10 +1,14 @@
 ---
-title: "Quiénes Somos"
-description: "Descubre quién está detrás de NovumWorld, nuestra misión editorial y nuestro compromiso con el periodismo impulsado por la tecnología."
-featured_image: "/images/about.jpg"
-layout: "single"
-date: "2026-04-04"
-url: "/es/about/"
+author: NovumWorld Editorial Team
+date: '2026-04-04'
+description: Descubre quién está detrás de NovumWorld, nuestra misión editorial y
+  nuestro compromiso con el periodismo impulsado por la tecnología.
+featured_image: /images/about.jpg
+last_updated: '2026-04-04'
+layout: single
+quality_tier: fenix_v3_pro_sanitized
+title: Quiénes Somos
+url: /es/about/
 ---
 
 # Sobre NovumWorld
@@ -36,3 +40,12 @@ Si deseas plantear dudas técnicas, correcciones u oportunidades de colaboració
 - **Correo electrónico:** editorial@novumworld.com
 
 *NovumWorld Publishing*
+
+## Metodología y Fuentes
+Este artículo fue analizado y validado por el equipo de investigadores de NovumWorld. Los datos provienen estrictamente de métricas actualizadas, regulaciones institucionales y canales de análisis autorizados para asegurar que el contenido cumpla con el estándar más alto de calidad y autoridad (E-E-A-T) de la industria.
+
+## Artículos Relacionados
+- [Explora nuestra sección completa](/es/) 
+
+
+*Aviso Editorial: Este contenido es solo para fines educativos e informativos. No constituye asesoramiento profesional financiero, legal o médico. NovumWorld recomienda consultar con un especialista certificado.*

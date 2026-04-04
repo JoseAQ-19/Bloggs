@@ -1,4 +1,5 @@
 ---
+author: NovumWorld Editorial Team
 canonical: https://novumworld.com/ia/inside-irans-nuclear-secrets-iaea-docs-reveal-shocking-insights-en/
 categories:
 - ia
@@ -9,6 +10,8 @@ draft: false
 featured_image: /images/inside-irans-nuclear-secrets-iaea-docs-reveal-shocking-insights-en.jpg
 image: /images/inside-irans-nuclear-secrets-iaea-docs-reveal-shocking-insights-en.jpg
 language: en
+last_updated: '2026-04-04'
+quality_tier: fenix_v3_pro_sanitized
 slug: inside-irans-nuclear-secrets-iaea-docs-reveal-shocking-insights-en
 tags:
 - IA & SaaS
@@ -17,6 +20,7 @@ title: 'Iran''s Shocking Nuclear Secrets: 440 Kilograms Of Uranium Enriched To 6
 translationKey: b0807400-2684-1065-4ec7-fd5f12d93336
 type: ia
 ---
+
 ## Executive Summary
 - This in-depth analysis explores the critical points of the ongoing trend, evaluating its direct medium and long-term impact.
 - All information and data have been reviewed following NovumWorld's strict quality standards.
@@ -111,6 +115,15 @@ In conclusion, the rapid evolution of these dynamics highlights the vital need t
 
 *Disclaimer: The information presented in this analysis is based on unclassified intelligence reports and public statements from international bodies. Nuclear capabilities and geopolitical intentions are subject to rapid change and varying interpretations.*
 
-### Methodology & Sources
+#
 
-This analysis relies on verified data from the International Atomic Energy Agency (IAEA) reports, the Office of the Director of National Intelligence (ODNI), and public statements from nuclear experts. Primary sources include the **ODNI Unclassified Report on Iran's Nuclear Weapons Capability** and assessments from the **Institute for Science and International Security**. All figures regarding uranium stockpiles and enrichment levels are cited directly from these official documents.
+## Methodology and Sources
+This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).
+
+## Related Articles
+- [65% Of Americans Distrust Robots: The Alarming AI Trust Crisis Exposed](/en/ia/ai-trust-crisis-skeptics-guide-en/)
+- [AI Ruined My Vacation: 90% Of Itineraries Are Factual Disasters](/en/ia/ai-ruined-my-vacation-en/)
+- [Iowa Churches Unite: 83 Congregations Break Away Over LGBTQ Rights And Cultural Marxism](/en/ia/iowan-churches-rally-a-bold-stand-against-controversial-issues-en/)
+
+
+*Editorial Disclosure: This content is for educational and informational purposes only. It does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist.*

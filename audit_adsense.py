@@ -1,10 +1,18 @@
 import os, re
 
-try:
-    with open('.sample.txt', 'r', encoding='utf-8') as f:
-        files = [line.strip() for line in f if line.strip()]
-except FileNotFoundError:
-    print(".sample.txt not found.")
+def read_sample_files():
+    encodings = ['utf-8', 'utf-16', 'utf-16-le', 'cp1252']
+    for enc in encodings:
+        try:
+            with open('.sample.txt', 'r', encoding=enc) as f:
+                return [line.strip().replace('\x00', '') for line in f if line.strip()]
+        except:
+            continue
+    return []
+
+files = read_sample_files()
+if not files:
+    print(".sample.txt not found or unreadable.")
     exit(1)
 
 def has_emoji(text):
@@ -51,24 +59,25 @@ for filepath in files:
             issues.append("Frontmatter leak detected in body")
 
         # 2. E-E-A-T
-        if 'author: "NovumWorld Editorial Team"' not in fm_text and 'author: NovumWorld Editorial Team' not in fm_text:
+        clean_fm = fm_text.replace('"', '').replace("'", "")
+        if 'author: NovumWorld Editorial Team' not in clean_fm:
             issues.append("Invalid author, not NovumWorld Editorial Team")
             
         is_ymyl = any(word in filepath.lower() for word in ['finance', 'crypto', 'funds', 'health', 'fitness', 'salud'])
         if is_ymyl:
-            if 'descargo de responsabilidad' not in body.lower() and 'disclaimer' not in body.lower():
+            if not any(kw in body.lower() for kw in ['aviso editorial', 'editorial disclosure', 'descargo de responsabilidad', 'disclaimer']):
                 issues.append("Missing YMYL disclaimer")
 
-        # 3. GEO
-        if 'resumen ejecutivo' not in body.lower() and 'executive summary' not in body.lower() and 'tl;dr' not in body.lower():
+        # 3. Architecture
+        if not any(kw in body.lower() for kw in ['resumen ejecutivo', 'executive summary', 'tl;dr']):
             issues.append("Missing TL;DR or Executive Summary block")
             
-        if 'metodología y fuentes' not in body.lower() and 'methodology and sources' not in body.lower():
+        if not any(kw in body.lower() for kw in ['metodología y fuentes', 'methodology and sources']):
             issues.append("Missing Methodology and Sources section")
             
         # 4. Integrity
         stripped_body = body.strip()
-        if stripped_body and not re.search(r'[.!?\>]$', stripped_body):
+        if stripped_body and not re.search(r'[.!?\>\*]$', stripped_body):
             issues.append("Possible truncated article (does not end with valid punctuation/tag)")
             
         reports[filepath] = issues

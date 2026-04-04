@@ -57,8 +57,9 @@ def get_pro_prompt(niche, lang):
 
 def detect_language_context(file_path):
     """Determina el idioma estricto basado en la carpeta."""
-    if "/en/" in file_path: return "English (US)"
-    if "/es/" in file_path: return "Spanish (Spain)"
+    normalized_path = file_path.replace("\\", "/")
+    if "/en/" in normalized_path: return "English (US)"
+    if "/es/" in normalized_path: return "Spanish (Spain)"
     return "English" # Default
 
 def validate_content(content, language):
@@ -184,7 +185,7 @@ def generate_footer(niche, lang, current_slug=""):
         links_text += f"- [{title}](/{folder_lang}/{niche}/{slug}/)\n"
         
     if not links_text:
-        links_text = "- [Explora nuestra sección completa](/) \n"
+        links_text = "- [Explora nuestra sección completa](/es/) \n" if folder_lang == "es" else "- [Explore our complete section](/en/) \n"
         
     related = related_header + links_text
     
@@ -197,9 +198,9 @@ def generate_footer(niche, lang, current_slug=""):
     d_salud_en = "\n\n*Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*"
     d_general_en = "\n\n*Editorial Disclosure: This content is for educational and informational purposes only. It does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist.*"
     
-    if niche in ["crypto", "funds", "realestate"]:
+    if niche in ["crypto", "funds", "realestate", "finance"]:
         disclaimer = d_finanzas_es if "es" in lang.lower() or "spanish" in lang.lower() else d_finanzas_en
-    elif niche in ["fitness"]:
+    elif niche in ["fitness", "salud", "health"]:
         disclaimer = d_salud_es if "es" in lang.lower() or "spanish" in lang.lower() else d_salud_en
     else:
         disclaimer = d_general_es if "es" in lang.lower() or "spanish" in lang.lower() else d_general_en
@@ -250,8 +251,22 @@ def main_upgrade_engine(target_file_path):
         return
 
     
-    # --- FOOTER BLINDADO ---
-    # Strip any existing AI injected methodology/sources/related articles
+    # --- AGGRESSIVE CLEANUP 2.0 (AI Footprint Removal) ---
+    # Phrases that usually indicate AI fluff at the end of the article
+    ai_trash_patterns = [
+        r"(?i)en conclusión.*",
+        r"(?i)en resumen.*",
+        r"(?i)el rápido desarrollo de.*",
+        r"(?i)stay tuned.*",
+        r"(?i)visto lo visto.*",
+        r"(?i)para terminar.*",
+        r"(?i)resumiendo.*",
+        r"(?i)in conclusion.*",
+        r"(?i)summary:.*",
+        r"(?i)conclusion:.*"
+    ]
+    
+    # 1. Strip existing methodology/related/sources
     split_markers = [
         "## Metodolog", "## Methodology", 
         "## Fuentes", "## Sources",
@@ -260,6 +275,28 @@ def main_upgrade_engine(target_file_path):
     for marker in split_markers:
         if marker in cleaned_body:
             cleaned_body = cleaned_body.split(marker)[0].strip()
+
+    # 2. Aggressive paragraph removal (last paragraphs if they match AI patterns)
+    paragraphs = cleaned_body.split('\n\n')
+    # Check last two paragraphs
+    for _ in range(2):
+        if not paragraphs:
+            break
+        last_p = paragraphs[-1].strip()
+        matches_trash = False
+        for pattern in ai_trash_patterns:
+            if re.match(pattern, last_p):
+                matches_trash = True
+                break
+        
+        if matches_trash:
+            print(f"   🧹 Eliminando párrafo de cierre IA: '{last_p[:50]}...'")
+            paragraphs.pop()
+        else:
+            # If the last paragraph doesn't match, we stop (we only check the terminal ones)
+            break
+            
+    cleaned_body = '\n\n'.join(paragraphs).strip()
 
     footer_text = generate_footer(niche, lang, post.get('slug', ''))
     cleaned_body += footer_text
