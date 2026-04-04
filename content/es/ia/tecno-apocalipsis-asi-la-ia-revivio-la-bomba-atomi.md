@@ -95,4 +95,7 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Explora nuestra sección completa](/es/) 
 
 
-*Aviso Editorial: Este contenido es solo para fines educativos e informativos. No constituye asesoramiento profesional financiero, legal o médico. NovumWorld recomienda consultar con un especialista certificado.*
+*Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*
+
+
+*Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

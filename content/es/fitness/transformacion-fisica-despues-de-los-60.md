@@ -57,3 +57,6 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 
 
 *Aviso Editorial: El contenido de este artículo es informativo y no sustituye el consejo, diagnóstico o tratamiento médico profesional. Consulte siempre a un especialista antes de tomar decisiones sobre su salud.*
+
+
+*Aviso Editorial: El contenido de este artículo es informativo y no sustituye el consejo, diagnóstico o tratamiento médico profesional. Consulte siempre a un especialista antes de tomar decisiones sobre su salud.*

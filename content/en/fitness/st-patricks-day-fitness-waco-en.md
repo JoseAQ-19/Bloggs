@@ -116,4 +116,7 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Explore our complete section](/en/) 
 
 
-*Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*
+*Editorial Disclosure: The content of this article is for informational purposes and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*
+
+
+*Editorial Disclosure: The content of this article is for informational purposes and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

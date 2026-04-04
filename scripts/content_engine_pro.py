@@ -185,25 +185,25 @@ def generate_footer(niche, lang, current_slug=""):
         links_text += f"- [{title}](/{folder_lang}/{niche}/{slug}/)\n"
         
     if not links_text:
-        links_text = "- [Explora nuestra sección completa](/es/) \n" if folder_lang == "es" else "- [Explore our complete section](/en/) \n"
+        links_text = f"- [Explora nuestra sección completa](/{folder_lang}/) \n" if folder_lang == "es" else f"- [Explore our complete section](/{folder_lang}/) \n"
         
     related = related_header + links_text
     
     # 3. YMYL Disclaimer
     d_finanzas_es = "\n\n*Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*"
     d_salud_es = "\n\n*Aviso Editorial: El contenido de este artículo es informativo y no sustituye el consejo, diagnóstico o tratamiento médico profesional. Consulte siempre a un especialista antes de tomar decisiones sobre su salud.*"
-    d_general_es = "\n\n*Aviso Editorial: Este contenido es solo para fines educativos e informativos. No constituye asesoramiento profesional financiero, legal o médico. NovumWorld recomienda consultar con un especialista certificado.*"
+    d_general_es = "\n\n*Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*"
     
     d_finanzas_en = "\n\n*Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*"
-    d_salud_en = "\n\n*Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*"
-    d_general_en = "\n\n*Editorial Disclosure: This content is for educational and informational purposes only. It does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist.*"
+    d_salud_en = "\n\n*Editorial Disclosure: The content of this article is for informational purposes and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*"
+    d_general_en = "\n\n*Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*"
     
-    if niche in ["crypto", "funds", "realestate", "finance"]:
-        disclaimer = d_finanzas_es if "es" in lang.lower() or "spanish" in lang.lower() else d_finanzas_en
-    elif niche in ["fitness", "salud", "health"]:
-        disclaimer = d_salud_es if "es" in lang.lower() or "spanish" in lang.lower() else d_salud_en
+    if niche.lower() in ["crypto", "funds", "realestate", "finance"]:
+        disclaimer = d_finanzas_es if folder_lang == "es" else d_finanzas_en
+    elif niche.lower() in ["fitness", "salud", "health"]:
+        disclaimer = d_salud_es if folder_lang == "es" else d_salud_en
     else:
-        disclaimer = d_general_es if "es" in lang.lower() or "spanish" in lang.lower() else d_general_en
+        disclaimer = d_general_es if folder_lang == "es" else d_general_en
         
     return methodology + related + disclaimer + "\n"
 

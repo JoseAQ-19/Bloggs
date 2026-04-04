@@ -90,4 +90,7 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Explore our complete section](/en/) 
 
 
-*Editorial Disclosure: This content is for educational and informational purposes only. It does not constitute professional financial, legal, or medical advice. NovumWorld recommends consulting with a certified specialist.*
+*Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*
+
+
+*Editorial Disclosure: The content of this article is for informational purposes and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

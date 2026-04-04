@@ -4,7 +4,7 @@
   {{ $img := .Param "featured_image" }}
   <div class="card-image-container relative">
     {{ if $img }}
-      <img src="{{ $img | relURL }}" class="db w-100 object-fit-cover card-img" alt="{{ .Title }}">
+      <img src="{{ $img | relURL }}" class="db w-100 object-fit-cover card-img" alt="{{ .Title }}" width="400" height="220" loading="lazy">
     {{ else }}
       <div class="db w-100 h-100 bg-near-white flex items-center justify-center gray fw1">No visual</div>
     {{ end }}
