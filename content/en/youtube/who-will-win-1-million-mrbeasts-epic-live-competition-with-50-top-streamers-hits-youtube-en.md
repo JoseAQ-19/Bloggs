@@ -1,16 +1,20 @@
 ---
-title: "MrBeast's $1 Million Challenge Exposes Dark Secrets of Esports Betting Manipulation"
-date: 2026-04-03T20:45:26
+canonical: https://novumworld.com/youtube/who-will-win-1-million-mrbeasts-epic-live-competition-with-50-top-streamers-hits-youtube-en/
+categories:
+- youtube
+date: 2026-04-03 20:45:26
+description: Discover how MrBeast's $1 million challenge uncovers the hidden truths
+  behind esports betting manipulation and its impact on the gaming community.
 draft: false
-description: "Discover how MrBeast's $1 million challenge uncovers the hidden truths behind esports betting manipulation and its impact on the gaming community."
-featured_image: "/images/who-will-win-1-million-mrbeasts-epic-live-competition-with-50-top-streamers-hits-youtube-en.jpg"
-slug: "who-will-win-1-million-mrbeasts-epic-live-competition-with-50-top-streamers-hits-youtube-en"
-canonical: "https://novumworld.com/youtube/who-will-win-1-million-mrbeasts-epic-live-competition-with-50-top-streamers-hits-youtube-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "c287031e-0615-1a66-89ec-71ae257ceb21"
+featured_image: /images/who-will-win-1-million-mrbeasts-epic-live-competition-with-50-top-streamers-hits-youtube-en.jpg
+image: /images/who-will-win-1-million-mrbeasts-epic-live-competition-with-50-top-streamers-hits-youtube-en.jpg
+language: en
+slug: who-will-win-1-million-mrbeasts-epic-live-competition-with-50-top-streamers-hits-youtube-en
+tags:
+- Creator Economy
+title: MrBeast's $1 Million Challenge Exposes Dark Secrets of Esports Betting Manipulation
+translationKey: c287031e-0615-1a66-89ec-71ae257ceb21
+type: youtube
 ---
 
 ![MrBeast's $1 Million Challenge Exposes Dark Secrets of Esports Betting Manipulation](/images/who-will-win-1-million-mrbeasts-epic-live-competition-with-50-top-streamers-hits-youtube-en.jpg)

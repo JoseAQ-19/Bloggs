@@ -1,16 +1,20 @@
 ---
-title: "80% Menos Agua: El Secreto Oculto de la Agricultura Vertical que Nadie Conoce"
-date: 2026-04-03T13:30:52
+canonical: https://novumworld.com/es/tools/la-ia-revoluciona-la-agricultura-precision-y-automatizacion-al-servicio-del-campo/
+categories:
+- tools
+date: 2026-04-03 13:30:52
+description: Descubre cómo la agricultura vertical reduce el consumo de agua en un
+  80% y transforma el futuro de la producción alimentaria sostenible.
 draft: false
-description: "Descubre cómo la agricultura vertical reduce el consumo de agua en un 80% y transforma el futuro de la producción alimentaria sostenible."
-featured_image: "/images/la-ia-revoluciona-la-agricultura-precision-y-automatizacion-al-servicio-del-campo.jpg"
-slug: "la-ia-revoluciona-la-agricultura-precision-y-automatizacion-al-servicio-del-campo"
-canonical: "https://novumworld.com/es/tools/la-ia-revoluciona-la-agricultura-precision-y-automatizacion-al-servicio-del-campo/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "es"
-translationKey: "8e3189a9-c067-452b-e96c-e235d65c7aae"
+featured_image: /images/la-ia-revoluciona-la-agricultura-precision-y-automatizacion-al-servicio-del-campo.jpg
+image: /images/la-ia-revoluciona-la-agricultura-precision-y-automatizacion-al-servicio-del-campo.jpg
+language: es
+slug: la-ia-revoluciona-la-agricultura-precision-y-automatizacion-al-servicio-del-campo
+tags:
+- Tools & Productivity
+title: '80% Menos Agua: El Secreto Oculto de la Agricultura Vertical que Nadie Conoce'
+translationKey: 8e3189a9-c067-452b-e96c-e235d65c7aae
+type: tools
 ---
 
 ![80% Menos Agua: El Secreto Oculto de la Agricultura Vertical que Nadie Conoce](/images/la-ia-revoluciona-la-agricultura-precision-y-automatizacion-al-servicio-del-campo.jpg)

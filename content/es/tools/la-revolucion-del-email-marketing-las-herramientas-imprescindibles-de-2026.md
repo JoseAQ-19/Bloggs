@@ -1,4 +1,9 @@
 ---
+featured_image: /images/la-revolucion-del-email-marketing-las-herramientas-imprescindibles-de-2026.jpg
+image: /images/la-revolucion-del-email-marketing-las-herramientas-imprescindibles-de-2026.jpg
+---
+
+---
 ai_disclosure: true
 author: NovumWorld Editorial Team
 canonical: https://novumworld.com/es/tools/la-revolucion-del-email-marketing-las-herramientas-imprescindibles-de-2026/

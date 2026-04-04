@@ -7,21 +7,21 @@
 /* DEFAULT (IA / Home) - Cyberpunk Blue */
 :root {
     --primary: #8be9fd;
-    --bg-color: #0f0f0f;
-    --text-color: #e0e0e0;
-    --card-bg: rgba(255, 255, 255, 0.03);
-    --border-color: rgba(255, 255, 255, 0.05);
+    --bg-color: #0A0F15;
+    --text-color: #E2E8F0;
+    --card-bg: rgba(15, 23, 42, 0.75);
+    --border-color: rgba(139, 233, 253, 0.15);
     --font-heading: 'Clash Display', sans-serif;
     --font-body: 'Inter', sans-serif;
 }
 
 /* THEME: YOUTUBE (Red/Black) */
 .theme-youtube {
-    --primary: #FF0000;
-    --bg-color: #000000;
-    --text-color: #ffffff;
-    --card-bg: rgba(20, 20, 20, 0.9);
-    --border-color: #333;
+    --primary: #FF3333; /* Slightly softer red */
+    --bg-color: #0A0A0A;
+    --text-color: #E2E8F0;
+    --card-bg: rgba(25, 10, 10, 0.75);
+    --border-color: rgba(255, 51, 51, 0.15);
 }
 
 .theme-youtube article.glass-card {
@@ -37,12 +37,12 @@
 /* THEME: CRYPTO (Matrix Green) */
 .theme-crypto {
     --primary: #00FF41;
-    --bg-color: #0B0C10;
+    --bg-color: #05100A;
     --text-color: #C5C6C7;
     --font-heading: 'Courier New', monospace;
     /* Terminal vibe */
-    --card-bg: rgba(0, 20, 0, 0.8);
-    --border-color: #00FF41;
+    --card-bg: rgba(5, 25, 10, 0.75);
+    --border-color: rgba(0, 255, 65, 0.15);
 }
 
 .theme-crypto article.glass-card {
@@ -53,8 +53,10 @@
 /* THEME: FITNESS (Neon Orange) */
 .theme-fitness {
     --primary: #FF5F1F;
-    --bg-color: #1a1a1a;
-    --text-color: #f0f0f0;
+    --bg-color: #100501;
+    --text-color: #E2E8F0;
+    --card-bg: rgba(25, 10, 5, 0.75);
+    --border-color: rgba(255, 95, 31, 0.15);
     --font-heading: 'Inter', sans-serif;
 }
 
@@ -72,27 +74,26 @@
 
 /* THEME: VIRAL (Gen-Z Violet) */
 .theme-viral {
-    --primary: #8A2BE2;
-    --bg-color: #ffffff;
-    /* Brutalist often uses white/black contrast */
-    --text-color: #000000;
-    --card-bg: #fff;
-    --border-color: #000;
+    --primary: #A855F7;
+    --bg-color: #0D0518;
+    --text-color: #E2E8F0;
+    --card-bg: rgba(20, 10, 30, 0.75);
+    --border-color: rgba(168, 85, 247, 0.15);
 }
 
 .theme-viral body {
-    background-color: #ffffff !important;
-    color: #000 !important;
+    background-color: var(--bg-color) !important;
+    color: var(--text-color) !important;
 }
 
-/* Fix for invisible text in Single View */
+/* Fix for single view in viral theme to match glassmorphism */
 .theme-viral article.glass-card,
 .theme-viral .author-bio {
-    background: #fff !important;
-    border: 3px solid black !important;
-    box-shadow: 8px 8px 0px black !important;
-    border-radius: 0 !important;
-    color: #000 !important;
+    background: var(--card-bg) !important;
+    border: 1px solid var(--border-color) !important;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+    border-radius: 16px !important;
+    color: var(--text-color) !important;
     height: auto !important;
 }
 
@@ -124,12 +125,12 @@
 .theme-viral .nested-copy-line-height h4,
 .theme-viral .nested-copy-line-height h5,
 .theme-viral .nested-copy-line-height h6 {
-    color: #000 !important;
+    color: var(--text-color) !important;
 }
 
 .theme-viral a {
-    color: #8A2BE2 !important;
-    font-weight: 900;
+    color: var(--primary) !important;
+    font-weight: 700;
     text-decoration: underline !important;
 }
 
@@ -246,7 +247,7 @@ article.glass-card .f6 {
     /* Smaller font */
     line-height: 1.5 !important;
     /* Better readability */
-    opacity: 0.8;
+    color: rgba(255, 255, 255, 0.7) !important; /* Text explicitly lighter grey for dark dark */
 }
 
 /* HIDE IMAGES IN SUMMARIES (DUPLICATE FIX) */

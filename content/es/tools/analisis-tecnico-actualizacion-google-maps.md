@@ -1,4 +1,9 @@
 ---
+featured_image: /images/analisis-tecnico-actualizacion-google-maps.jpg
+image: /images/analisis-tecnico-actualizacion-google-maps.jpg
+---
+
+---
 ai_disclosure: true
 author: NovumWorld Editorial Team
 categories:

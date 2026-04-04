@@ -1,16 +1,20 @@
 ---
-title: "Meta Just Unveiled Its AI Deepfake Defense: What You Need to Know Now"
-date: 2026-04-03T15:12:18
+canonical: https://novumworld.com/tools/meta-ai-deepfake-defense-technical-autopsy-en/
+categories:
+- tools
+date: 2026-04-03 15:12:18
+description: Discover Meta's groundbreaking AI deepfake defense technology. Learn
+  how it works, its implications, and what this means for digital security today.
 draft: false
-description: "Discover Meta's groundbreaking AI deepfake defense technology. Learn how it works, its implications, and what this means for digital security today."
-featured_image: "/images/meta-ai-deepfake-defense-technical-autopsy-en.jpg"
-slug: "meta-ai-deepfake-defense-technical-autopsy-en"
-canonical: "https://novumworld.com/tools/meta-ai-deepfake-defense-technical-autopsy-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "02cfeb2a-c1f3-c79e-ca76-609238e8c3e0"
+featured_image: /images/meta-ai-deepfake-defense-technical-autopsy-en.jpg
+image: /images/meta-ai-deepfake-defense-technical-autopsy-en.jpg
+language: en
+slug: meta-ai-deepfake-defense-technical-autopsy-en
+tags:
+- Tools & Productivity
+title: 'Meta Just Unveiled Its AI Deepfake Defense: What You Need to Know Now'
+translationKey: 02cfeb2a-c1f3-c79e-ca76-609238e8c3e0
+type: tools
 ---
 
 ![Meta Just Unveiled Its AI Deepfake Defense: What You Need to Know Now](/images/meta-ai-deepfake-defense-technical-autopsy-en.jpg)

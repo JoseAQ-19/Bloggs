@@ -1,16 +1,20 @@
 ---
-title: "Céline Dion Se Lanza Al Ballet: Cuatro Sesiones Semanales y Los Riesgos Ocultos"
-date: 2026-04-04T04:20:19
+canonical: https://novumworld.com/es/fitness/celine-dion-se-enfrenta-al-desafio-del-ballet-4-veces-por-semana-en-la-barra/
+categories:
+- fitness
+date: 2026-04-04 04:20:19
+description: Céline Dion se adentra en el ballet con cuatro sesiones semanales, explorando
+  los riesgos ocultos que esta nueva pasión puede conllevar.
 draft: false
-description: "Céline Dion se adentra en el ballet con cuatro sesiones semanales, explorando los riesgos ocultos que esta nueva pasión puede conllevar."
-featured_image: "/images/celine-dion-se-enfrenta-al-desafio-del-ballet-4-veces-por-semana-en-la-barra.jpg"
-slug: "celine-dion-se-enfrenta-al-desafio-del-ballet-4-veces-por-semana-en-la-barra"
-canonical: "https://novumworld.com/es/fitness/celine-dion-se-enfrenta-al-desafio-del-ballet-4-veces-por-semana-en-la-barra/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "es"
-translationKey: "5ed735b3-8cb1-be70-3f13-35140869c262"
+featured_image: /images/celine-dion-se-enfrenta-al-desafio-del-ballet-4-veces-por-semana-en-la-barra.jpg
+image: /images/celine-dion-se-enfrenta-al-desafio-del-ballet-4-veces-por-semana-en-la-barra.jpg
+language: es
+slug: celine-dion-se-enfrenta-al-desafio-del-ballet-4-veces-por-semana-en-la-barra
+tags:
+- Biohacking & Fitness
+title: 'Céline Dion Se Lanza Al Ballet: Cuatro Sesiones Semanales y Los Riesgos Ocultos'
+translationKey: 5ed735b3-8cb1-be70-3f13-35140869c262
+type: fitness
 ---
 
 ![Céline Dion Se Lanza Al Ballet: Cuatro Sesiones Semanales y Los Riesgos Ocultos](/images/celine-dion-se-enfrenta-al-desafio-del-ballet-4-veces-por-semana-en-la-barra.jpg)

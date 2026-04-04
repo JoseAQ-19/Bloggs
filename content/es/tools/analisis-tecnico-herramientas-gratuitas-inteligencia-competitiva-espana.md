@@ -1,4 +1,9 @@
 ---
+featured_image: /images/analisis-tecnico-herramientas-gratuitas-inteligencia-competitiva-espana.jpg
+image: /images/analisis-tecnico-herramientas-gratuitas-inteligencia-competitiva-espana.jpg
+---
+
+---
 ai_disclosure: true
 author: NovumWorld Editorial Team
 categories:

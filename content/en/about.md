@@ -10,7 +10,7 @@ quality_tier: fenix_v3_pro
 title: 'The Architecture of Truth: Technical Analysis of NovumWorld and the Compute-Driven
   Media Shift'
 translationKey: about
-url: /es/about/
+url: /en/about/
 ---
 
 ## Executive Summary

@@ -1,16 +1,20 @@
 ---
-title: "From Pop Star to Fitness Guru: Ashley Parker Angel's 7-Figure Business Transformation"
-date: 2026-04-04T04:41:19
+canonical: https://novumworld.com/fitness/from-pop-star-to-fitness-guru-ashley-parker-angels-inspiring-new-journey-en/
+categories:
+- fitness
+date: 2026-04-04 04:41:19
+description: Discover how pop star Ashley Parker Angel transformed into a fitness
+  guru, building a thriving 7-figure business. Uncover his inspiring journey now!.
 draft: false
-description: "Discover how pop star Ashley Parker Angel transformed into a fitness guru, building a thriving 7-figure business. Uncover his inspiring journey now!."
-featured_image: "/images/from-pop-star-to-fitness-guru-ashley-parker-angels-inspiring-new-journey-en.jpg"
-slug: "from-pop-star-to-fitness-guru-ashley-parker-angels-inspiring-new-journey-en"
-canonical: "https://novumworld.com/fitness/from-pop-star-to-fitness-guru-ashley-parker-angels-inspiring-new-journey-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "ca3325f0-e39a-e4ce-9b1b-b780b32ea080"
+featured_image: /images/from-pop-star-to-fitness-guru-ashley-parker-angels-inspiring-new-journey-en.jpg
+image: /images/from-pop-star-to-fitness-guru-ashley-parker-angels-inspiring-new-journey-en.jpg
+language: en
+slug: from-pop-star-to-fitness-guru-ashley-parker-angels-inspiring-new-journey-en
+tags:
+- Biohacking & Fitness
+title: 'From Pop Star to Fitness Guru: Ashley Parker Angel''s 7-Figure Business Transformation'
+translationKey: ca3325f0-e39a-e4ce-9b1b-b780b32ea080
+type: fitness
 ---
 
 ![From Pop Star to Fitness Guru: Ashley Parker Angel's 7-Figure Business Transformation](/images/from-pop-star-to-fitness-guru-ashley-parker-angels-inspiring-new-journey-en.jpg)

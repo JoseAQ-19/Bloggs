@@ -1,4 +1,9 @@
 ---
+featured_image: /images/taller-infantil-power-tools-una-mirada-creativa-al-mundo-actual-en-el-museo-helga-de-alvear.jpg
+image: /images/taller-infantil-power-tools-una-mirada-creativa-al-mundo-actual-en-el-museo-helga-de-alvear.jpg
+---
+
+---
 ai_disclosure: true
 author: NovumWorld Editorial Team
 canonical: https://novumworld.com/es/tools/taller-infantil-power-tools-una-mirada-creativa-al-mundo-actual-en-el-museo-helga-de-alvear/

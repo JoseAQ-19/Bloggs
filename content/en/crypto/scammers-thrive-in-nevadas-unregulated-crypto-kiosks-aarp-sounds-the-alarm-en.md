@@ -1,16 +1,20 @@
 ---
-title: "Scammers Rake In $333.5 Million: The Dark Truth About Nevada's Crypto ATMs"
-date: 2026-04-03T16:30:57
+canonical: https://novumworld.com/crypto/scammers-thrive-in-nevadas-unregulated-crypto-kiosks-aarp-sounds-the-alarm-en/
+categories:
+- crypto
+date: 2026-04-03 16:30:57
+description: Discover how scammers exploited Nevada's crypto ATMs to steal $333.5
+  million. Uncover the shocking reality behind this digital cash crisis.
 draft: false
-description: "Discover how scammers exploited Nevada's crypto ATMs to steal $333.5 million. Uncover the shocking reality behind this digital cash crisis."
-featured_image: "/images/scammers-thrive-in-nevadas-unregulated-crypto-kiosks-aarp-sounds-the-alarm-en.jpg"
-slug: "scammers-thrive-in-nevadas-unregulated-crypto-kiosks-aarp-sounds-the-alarm-en"
-canonical: "https://novumworld.com/crypto/scammers-thrive-in-nevadas-unregulated-crypto-kiosks-aarp-sounds-the-alarm-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "c0dddfe1-d1f6-db63-192d-7fc32e4bcbc5"
+featured_image: /images/scammers-thrive-in-nevadas-unregulated-crypto-kiosks-aarp-sounds-the-alarm-en.jpg
+image: /images/scammers-thrive-in-nevadas-unregulated-crypto-kiosks-aarp-sounds-the-alarm-en.jpg
+language: en
+slug: scammers-thrive-in-nevadas-unregulated-crypto-kiosks-aarp-sounds-the-alarm-en
+tags:
+- Crypto & Web3
+title: 'Scammers Rake In $333.5 Million: The Dark Truth About Nevada''s Crypto ATMs'
+translationKey: c0dddfe1-d1f6-db63-192d-7fc32e4bcbc5
+type: crypto
 ---
 
 ![Scammers Rake In $333.5 Million: The Dark Truth About Nevada's Crypto ATMs](/images/scammers-thrive-in-nevadas-unregulated-crypto-kiosks-aarp-sounds-the-alarm-en.jpg)

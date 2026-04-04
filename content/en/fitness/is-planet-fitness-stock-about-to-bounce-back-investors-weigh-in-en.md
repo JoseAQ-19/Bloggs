@@ -1,16 +1,20 @@
 ---
-title: "The Shocking 61.73% Price Target Increase That Could Save Planet Fitness Stock"
-date: 2026-04-04T05:43:04
+canonical: https://novumworld.com/fitness/is-planet-fitness-stock-about-to-bounce-back-investors-weigh-in-en/
+categories:
+- fitness
+date: 2026-04-04 05:43:04
+description: Discover the surprising 61.73% price target increase for Planet Fitness
+  stock and learn how it could reshape your investment strategy today.
 draft: false
-description: "Discover the surprising 61.73% price target increase for Planet Fitness stock and learn how it could reshape your investment strategy today."
-featured_image: "/images/is-planet-fitness-stock-about-to-bounce-back-investors-weigh-in-en.jpg"
-slug: "is-planet-fitness-stock-about-to-bounce-back-investors-weigh-in-en"
-canonical: "https://novumworld.com/fitness/is-planet-fitness-stock-about-to-bounce-back-investors-weigh-in-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "ee78fc1e-234c-c28d-f4ad-bab4ca676d95"
+featured_image: /images/is-planet-fitness-stock-about-to-bounce-back-investors-weigh-in-en.jpg
+image: /images/is-planet-fitness-stock-about-to-bounce-back-investors-weigh-in-en.jpg
+language: en
+slug: is-planet-fitness-stock-about-to-bounce-back-investors-weigh-in-en
+tags:
+- Biohacking & Fitness
+title: The Shocking 61.73% Price Target Increase That Could Save Planet Fitness Stock
+translationKey: ee78fc1e-234c-c28d-f4ad-bab4ca676d95
+type: fitness
 ---
 
 ![The Shocking 61.73% Price Target Increase That Could Save Planet Fitness Stock](/images/is-planet-fitness-stock-about-to-bounce-back-investors-weigh-in-en.jpg)

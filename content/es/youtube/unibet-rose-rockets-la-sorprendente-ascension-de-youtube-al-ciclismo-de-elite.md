@@ -1,16 +1,21 @@
 ---
-title: "Unibet Rose Rockets: La Impactante Revelación del Dopaje Juvenil en Ciclismo Élite"
-date: 2026-04-03T19:21:33
+canonical: https://novumworld.com/es/youtube/unibet-rose-rockets-la-sorprendente-ascension-de-youtube-al-ciclismo-de-elite/
+categories:
+- youtube
+date: 2026-04-03 19:21:33
+description: Descubre cómo Unibet Rose Rockets destapa el alarmante problema del dopaje
+  juvenil en el ciclismo élite y sus implicaciones en el deporte.
 draft: false
-description: "Descubre cómo Unibet Rose Rockets destapa el alarmante problema del dopaje juvenil en el ciclismo élite y sus implicaciones en el deporte."
-featured_image: "/images/unibet-rose-rockets-la-sorprendente-ascension-de-youtube-al-ciclismo-de-elite.jpg"
-slug: "unibet-rose-rockets-la-sorprendente-ascension-de-youtube-al-ciclismo-de-elite"
-canonical: "https://novumworld.com/es/youtube/unibet-rose-rockets-la-sorprendente-ascension-de-youtube-al-ciclismo-de-elite/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "765637f6-4bc1-1725-6ab5-30306950ae50"
+featured_image: /images/unibet-rose-rockets-la-sorprendente-ascension-de-youtube-al-ciclismo-de-elite.jpg
+image: /images/unibet-rose-rockets-la-sorprendente-ascension-de-youtube-al-ciclismo-de-elite.jpg
+language: es
+slug: unibet-rose-rockets-la-sorprendente-ascension-de-youtube-al-ciclismo-de-elite
+tags:
+- Creator Economy
+title: 'Unibet Rose Rockets: La Impactante Revelación del Dopaje Juvenil en Ciclismo
+  Élite'
+translationKey: 765637f6-4bc1-1725-6ab5-30306950ae50
+type: youtube
 ---
 
 ![Unibet Rose Rockets: La Impactante Revelación del Dopaje Juvenil en Ciclismo Élite](/images/unibet-rose-rockets-la-sorprendente-ascension-de-youtube-al-ciclismo-de-elite.jpg)

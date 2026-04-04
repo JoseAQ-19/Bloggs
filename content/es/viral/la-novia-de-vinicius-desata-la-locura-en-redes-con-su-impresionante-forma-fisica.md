@@ -1,16 +1,21 @@
 ---
-title: "La Novia de Vinicius Desata La Locura: 4 Datos Impactantes Sobre Su Forma Física"
-date: 2026-04-03T21:47:46
+canonical: https://novumworld.com/es/viral/la-novia-de-vinicius-desata-la-locura-en-redes-con-su-impresionante-forma-fisica/
+categories:
+- viral
+date: 2026-04-03 21:47:46
+description: Descubre los 4 datos sorprendentes sobre la impresionante forma física
+  de la novia de Vinicius. ¡Un artículo que te dejará sin aliento!.
 draft: false
-description: "Descubre los 4 datos sorprendentes sobre la impresionante forma física de la novia de Vinicius. ¡Un artículo que te dejará sin aliento!."
-featured_image: "/images/la-novia-de-vinicius-desata-la-locura-en-redes-con-su-impresionante-forma-fisica.jpg"
-slug: "la-novia-de-vinicius-desata-la-locura-en-redes-con-su-impresionante-forma-fisica"
-canonical: "https://novumworld.com/es/viral/la-novia-de-vinicius-desata-la-locura-en-redes-con-su-impresionante-forma-fisica/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "1d79fdba-36b2-b5c7-e1c2-603ec98e40d7"
+featured_image: /images/la-novia-de-vinicius-desata-la-locura-en-redes-con-su-impresionante-forma-fisica.jpg
+image: /images/la-novia-de-vinicius-desata-la-locura-en-redes-con-su-impresionante-forma-fisica.jpg
+language: es
+slug: la-novia-de-vinicius-desata-la-locura-en-redes-con-su-impresionante-forma-fisica
+tags:
+- Viral & Trends
+title: 'La Novia de Vinicius Desata La Locura: 4 Datos Impactantes Sobre Su Forma
+  Física'
+translationKey: 1d79fdba-36b2-b5c7-e1c2-603ec98e40d7
+type: viral
 ---
 
 ![La Novia de Vinicius Desata La Locura: 4 Datos Impactantes Sobre Su Forma Física](/images/la-novia-de-vinicius-desata-la-locura-en-redes-con-su-impresionante-forma-fisica.jpg)

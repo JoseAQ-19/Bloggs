@@ -1,16 +1,20 @@
 ---
-title: "The Shocking Truth: 5.39 Billion Dollars Disguised As Healthy Easter Treats"
-date: 2026-04-03T22:17:44
+canonical: https://novumworld.com/viral/easter-candy-revolution-from-giant-smash-eggs-to-healthier-treats-en/
+categories:
+- viral
+date: 2026-04-03 22:17:44
+description: Discover the hidden costs of Easter treats! Unveil the shocking truth
+  behind $5.39 billion in products marketed as healthy. Don't miss this eye-opening.
 draft: false
-description: "Discover the hidden costs of Easter treats! Unveil the shocking truth behind $5.39 billion in products marketed as healthy. Don't miss this eye-opening."
-featured_image: "/images/easter-candy-revolution-from-giant-smash-eggs-to-healthier-treats-en.jpg"
-slug: "easter-candy-revolution-from-giant-smash-eggs-to-healthier-treats-en"
-canonical: "https://novumworld.com/viral/easter-candy-revolution-from-giant-smash-eggs-to-healthier-treats-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "6ff88024-f3dc-ede2-4a94-8efadf5c189a"
+featured_image: /images/easter-candy-revolution-from-giant-smash-eggs-to-healthier-treats-en.jpg
+image: /images/easter-candy-revolution-from-giant-smash-eggs-to-healthier-treats-en.jpg
+language: en
+slug: easter-candy-revolution-from-giant-smash-eggs-to-healthier-treats-en
+tags:
+- Viral & Trends
+title: 'The Shocking Truth: 5.39 Billion Dollars Disguised As Healthy Easter Treats'
+translationKey: 6ff88024-f3dc-ede2-4a94-8efadf5c189a
+type: viral
 ---
 
 ![The Shocking Truth: 5.39 Billion Dollars Disguised As Healthy Easter Treats](/images/easter-candy-revolution-from-giant-smash-eggs-to-healthier-treats-en.jpg)

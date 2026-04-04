@@ -1,16 +1,20 @@
 ---
-title: "La Amenaza Cuántica: 1.7 Millones de BTC en Peligro Antes de 2029"
-date: 2026-04-03T16:02:34
+canonical: https://novumworld.com/es/crypto/la-batalla-del-futuro-puede-la-computacion-cuantica-romper-el-cifrado-de-bitcoin-antes-de-2029/
+categories:
+- crypto
+date: 2026-04-03 16:02:34
+description: Descubre cómo la amenaza cuántica podría poner en riesgo 1.7 millones
+  de BTC antes de 2029. Infórmate sobre la seguridad de tus criptomonedas.
 draft: false
-description: "Descubre cómo la amenaza cuántica podría poner en riesgo 1.7 millones de BTC antes de 2029. Infórmate sobre la seguridad de tus criptomonedas."
-featured_image: "/images/la-batalla-del-futuro-puede-la-computacion-cuantica-romper-el-cifrado-de-bitcoin-antes-de-2029.jpg"
-slug: "la-batalla-del-futuro-puede-la-computacion-cuantica-romper-el-cifrado-de-bitcoin-antes-de-2029"
-canonical: "https://novumworld.com/es/crypto/la-batalla-del-futuro-puede-la-computacion-cuantica-romper-el-cifrado-de-bitcoin-antes-de-2029/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "d04d982a-93a3-5348-3361-1aeec6a80fbc"
+featured_image: /images/la-batalla-del-futuro-puede-la-computacion-cuantica-romper-el-cifrado-de-bitcoin-antes-de-2029.jpg
+image: /images/la-batalla-del-futuro-puede-la-computacion-cuantica-romper-el-cifrado-de-bitcoin-antes-de-2029.jpg
+language: es
+slug: la-batalla-del-futuro-puede-la-computacion-cuantica-romper-el-cifrado-de-bitcoin-antes-de-2029
+tags:
+- Crypto & Web3
+title: 'La Amenaza Cuántica: 1.7 Millones de BTC en Peligro Antes de 2029'
+translationKey: d04d982a-93a3-5348-3361-1aeec6a80fbc
+type: crypto
 ---
 
 ![La Amenaza Cuántica: 1.7 Millones de BTC en Peligro Antes de 2029](/images/la-batalla-del-futuro-puede-la-computacion-cuantica-romper-el-cifrado-de-bitcoin-antes-de-2029.jpg)
