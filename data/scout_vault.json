@@ -35,5 +35,10 @@
         "https://eric.ed.gov/?id=EJ1366691",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC10505175/",
         "https://eric.ed.gov/?id=ED194221"
+    ],
+    "leatherman-free-p4-teardown-en": [
+        "https://ntrs.nasa.gov/api/citations/19710014434/downloads/19710014434.pdf",
+        "https://ntrs.nasa.gov/api/citations/20110011445/downloads/20110011445.pdf",
+        "https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2233.pdf"
     ]
 }
