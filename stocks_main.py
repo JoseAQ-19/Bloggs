@@ -18,6 +18,7 @@ import hashlib
 import argparse
 import logging
 import random
+import glob
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
 
@@ -129,6 +130,115 @@ def _get_image(title, content, slug, category="funds"):
     return f"/images/defaults/default-funds.jpg"
 
 
+def _build_funds_footer(current_slug, lang, body_text):
+    """Genera un footer determinista para fondos (metodología, fuentes, relacionados).
+
+    - Respeta el disclaimer ya inyectado por stocks_writer (no añade otro).
+    - Solo añade bloques si no existen ya marcadores de footer en el cuerpo.
+    """
+    try:
+        import frontmatter
+    except ImportError:
+        # Sin frontmatter omitimos relacionados pero aún podemos devolver metodología/fuentes.
+        frontmatter = None
+
+    # Evitar doble inyección si ya existe footer estructurado
+    footer_markers = [
+        "## Metodología y Fuentes",
+        "## Methodology and Sources",
+        "## Artículos Relacionados",
+        "## Related Articles",
+    ]
+    if any(marker in body_text for marker in footer_markers):
+        return ""
+
+    parts = []
+
+    # 1) Metodología (copiado de content_engine_pro.generate_footer)
+    meth_es = "\n\n## Metodología y Fuentes\nEste artículo fue analizado y validado por el equipo de investigadores de NovumWorld. Los datos provienen estrictamente de métricas actualizadas, regulaciones institucionales y canales de análisis autorizados para asegurar que el contenido cumpla con el estándar más alto de calidad y autoridad (E-E-A-T) de la industria."
+    meth_en = "\n\n## Methodology and Sources\nThis article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T)."
+    methodology = meth_es if lang == "es" else meth_en
+    parts.append(methodology)
+
+    # 2) Fuentes específicas desde el Link Deposit (data/source_links_{lang}.json)
+    sources_block = ""
+    sources_file = f"data/source_links_{lang}.json"
+    urls = []
+    try:
+        if os.path.exists(sources_file):
+            with open(sources_file, "r", encoding="utf-8") as f:
+                data = json.load(f) or {}
+                urls = data.get(current_slug, []) or []
+    except Exception:
+        urls = []
+
+    if urls:
+        # Limitar a las 5 primeras para no saturar el footer
+        limited = urls[:5]
+        if lang == "es":
+            header = "\n\n### Fuentes utilizadas en este análisis\n"
+            intro = "A continuación se listan algunas de las fuentes verificadas utilizadas para este artículo:\n"
+        else:
+            header = "\n\n### Sources used for this analysis\n"
+            intro = "Below are some of the verified sources used for this article:\n"
+        lines = "".join([f"- {u}\n" for u in limited])
+        sources_block = header + intro + lines
+        parts.append(sources_block)
+
+    # 3) Artículos relacionados internos (solo si hay suficientes candidatos)
+    related_block = ""
+    if frontmatter is not None:
+        content_dir = CONTENT_DIR_ES if lang == "es" else CONTENT_DIR_EN
+        pattern = os.path.join(content_dir, "*.md")
+        candidates = []
+
+        for path in glob.glob(pattern):
+            base = os.path.basename(path)
+            if base.startswith("_index"):
+                continue
+            try:
+                post = frontmatter.load(path)
+            except Exception:
+                continue
+
+            slug = post.get("slug") or os.path.splitext(base)[0]
+            if not slug or slug == current_slug:
+                continue
+
+            title = post.get("title") or post.get("titulo") or slug.replace("-", " ").title()
+            if not title:
+                continue
+
+            candidates.append((title, slug))
+
+        random.shuffle(candidates)
+        selected = candidates[:3]
+
+        # Requerimos al menos 2 artículos para que la sección tenga sentido
+        if len(selected) >= 2:
+            if lang == "es":
+                header = "\n\n## Artículos Relacionados\n"
+            else:
+                header = "\n\n## Related Articles\n"
+
+            links_lines = []
+            for title, slug in selected:
+                if lang == "es":
+                    url = f"/es/funds/{slug}/"
+                else:
+                    # En inglés el path público de fondos es /funds/slug/
+                    url = f"/funds/{slug}/"
+                links_lines.append(f"- [{title}]({url})")
+
+            related_block = header + "\n".join(links_lines) + "\n"
+            parts.append(related_block)
+
+    if not parts:
+        return ""
+
+    return "".join(parts) + "\n"
+
+
 def _save_article(writer_output, lang):
     """
     Guarda el artículo generado como archivo .md con frontmatter Hugo.
@@ -205,7 +315,12 @@ translationKey: "{trans_key}"
         front_matter = f"---\n{yaml_str}---\n"
 
     clean_titulo = meta['titulo'].replace('\"', '')
-    final_content = f"{front_matter}\n![{clean_titulo}]({imagen})\n\n{content}\n"
+
+    # Footer blindado específico para fondos (metodología, fuentes, relacionados)
+    footer = _build_funds_footer(meta["slug"], lang, content)
+    final_body = content + footer
+
+    final_content = f"{front_matter}\n![{clean_titulo}]({imagen})\n\n{final_body}\n"
 
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(final_content)
