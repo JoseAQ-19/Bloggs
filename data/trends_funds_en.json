@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-01T08:50:35.486915+00:00",
-  "total_candidates": 14,
+  "scouted_at": "2026-04-05T06:50:17.340530+00:00",
+  "total_candidates": 23,
   "topics": [
     {
       "rank": 1,
-      "title": "The Best Energy Stocks to Buy",
+      "title": "VanEck Expands TruSector ETF Suite, Bringing Precision Sector Exposure to Financials (TRUF) and Healthcare (TRUH)",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Invesco Income Allocation Fund Q4 2025 Commentary",
+      "title": "Roundhill Investments Launches First-Ever Memory ETF (DRAM)",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "This Unstoppable Vanguard ETF Is Beating the S&P 500, the Nasdaq-100, and the Dow Jones in 2026",
+      "title": "VanEck Launches VEFA: ETF Built on MSCI EAFE Analyst Sentiment Factor",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -27,7 +27,7 @@
     "key_phrases": {
       "full list": 20,
       "fund class": 19,
-      "small cap": 5,
+      "small cap": 7,
       "list aam": 4,
       "aam high": 4,
       "high dividend": 4,
@@ -51,72 +51,102 @@
   },
   "all_headlines": [
     {
-      "title": "The Best Energy Stocks to Buy",
+      "title": "VanEck Expands TruSector ETF Suite, Bringing Precision Sector Exposure to Financials (TRUF) and Healthcare (TRUH)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJSURsczAwWlF1bW8yeUx4dDFRYTZhQlItUGRDLVBPWDRpNG1ObGhrVkpoLU41Qk9sMmtwWW95a0o3NGg4enlUTG1KYTlYSmt2eUJBaEdqMmdGbnpwUlZDQ3Zfb2ZqaHhw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUVc1UDlUTjNCYU81bWw2LVJDQXppYVhTUTIxVWlQSnJ6ODFueGtwcGI5TDFxYVlpNHczbllPRW5ZaFZYbHp3VkFPZGx0Y0VQRFRVNk5XWEx5X2VDaTFsSEdVNWFkMGQtUVpLMVFnNXF3WGVoQ1BsRUR3WWxRZXpNZm9ScWk4QlBoTHcySEdsVHh2WTJLYWlTQlRKRmxGUGhIMDJtX05XZnV3WFhva3p1VDYzc1R6SlREeWg2aTRfQ091a0doTnhqT19Yd2EwZlgwX3RKX1dvZzY0RVM1UnVuU1FJZkhkYlF1bjFQeEFWcmJvdFJON3JqTDZ1d01RQQ?oc=5"
     },
     {
-      "title": "Invesco Income Allocation Fund Q4 2025 Commentary",
+      "title": "Roundhill Investments Launches First-Ever Memory ETF (DRAM)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY20wdXpUOW5DQTc0ZlQ1X2V0akZjWEFLOUtvWVBQWnUxaGFSSFhFRlJ6WTU1SE85V2JRT1M5ODVkbWVEQURJWkRlV3l5dXZhZnBVM2NBQ3F5bnNjMlRoT2Y0WXV3b0VGSS1TQVRPaVZzUzRMdFRqT2k1UFk0Ujh5cEU3bHNJdUQxandTSVJ3RDloYUNf?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSkZyWTMzM1lOZ0tFWDNZcmxkOGJ3REpTdFBKZmN1bWRjRVNqNzJVN2k3Nld2dE90UE0zNVJmbjZZSHpOVThCMEttY1NiZ0lqMUluWHFUdUZVU3J3dUxPRnp5U0M4djZYczRNZjQwWk9peFhLeTIyOGVRdVBJT2RuTTQ0WksxS1l6UUFtYlBWZG43T3lsdjZwMkt4RWw0Z3VCa0c2TWlGbXZhY3ZkZjlXbFN6cTRtekdXTmc?oc=5"
     },
     {
-      "title": "This Unstoppable Vanguard ETF Is Beating the S&P 500, the Nasdaq-100, and the Dow Jones in 2026",
+      "title": "VanEck Launches VEFA: ETF Built on MSCI EAFE Analyst Sentiment Factor",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTUROWGxJUWhWYkJ1N21MRUFHTVkxR1NVRG83bkI1Ym5EN3IwajFmbnAtd3FPZTdMcDV1cjUwaHByZ2padHQ2Vy01VUhBMDlXd3gzSFQtSmxVZjdicExNbWRWM284Q19LZXhCQ0V4VUlCS0w0eGE0cjBCYTl3MFdPOURzZGM1eXphTkdCNHl3VzlKS0JQLUE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkpwWm44ekU3aENiNnUyM2FHNmg3cHNQd2JDSldOemJvb1ZmX3c3MFhaNXFLaVA0MnZZV1lxaGVYSkhXeV9hT3RlMFl5SFhyb0w2ajRUVmY2dDJaQkI5OFFVMVNqdW9MbTlhUGJVUUJSbjVGX0twX2JrOTVENzI3OWV0cXY5YjRsX3RGUUJoT3FwTGppUFVpUlV3UmJ1bWN0Wm5VV0JXMWJOUGVRN3ctRkRQaFpvTEMtQ1pVNDNKaWdmSUROZWliaA?oc=5"
     },
     {
-      "title": "Best and worst Diversified Emerging Market funds",
+      "title": "Is Morningstar (MORN) Quietly Turning Its Data Platform Into Must‑Have Infrastructure For Institutions?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYkRndlVQSFZRNkV2anJFcXRmU3BzZkszNm1CZ0FXVloyaFF4QjhXUlluSHo3OHdIeUJXcldtYnhid0U4amlQV1JuaTQ5aTYwVHBiT2dCRHd5NkZDNTNLNkpacE1IZ1pndGpsZFBkb0lEX3VUc2pxTjJBdzR5ekhEVk9vWFJkOUV1ZVVSbDAwNHh3QWtYSHdGVg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWFNBdjVic19xLUZfMlhNNXNaY0R4WVVtRUUxZlhuQ2dYMjJNc2h0cWdLTV9ZekFEN05sa3MwSlprZkRGMEZkRFhqRi1tWGttaFBweUFtQ2VZSDNVU19tMV9NVHpweTNpR1ZOQ0JiSUJyaERZWVB1NlFnVi03RmpOVnJzSy1MTGo5MkhpcHZCMk9pWlA3TFBBRFVWRm9xQng0NzJhWTlOcmVMQkxSLWFMSUVTa0VIbGFXczNIMXRESmNXdUNfQ2ZIOWpDSDdMQnI5X281WUZycjdORDVJVF9RUWZB0gHiAUFVX3lxTE1YU0F2NWJzX3EtRl8yWE01c1pjRHhZVW1FRTFmWG5DZ1gyMk1zaHRxZ0tNX1l6QUQ3TmxrczBKWmtmREYwRmREWGpGLW1Ya21oUHB5QW1DZVlIM1VTX20xX01UenB5M2lHVk5DQmJJQnJoRFlZUHU2UWdWLTdGak5WcnNLLUxMajkySGlwdkIyT2laUDdMUEFEVVZGb3FCeDQ3MmFZOU5yZUxCTFItYUxJRVNrRUhsYVdzM0gxdERKY1d1Q19DZkg5akNIN0xCcjlfbzVZRnJyN05ENUlUX1FRZkE?oc=5"
     },
     {
-      "title": "Best Rare Earth Stocks to Buy Now March 2026",
+      "title": "Best Portfolio Management Apps Of 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kb3JyUVVPQUU2Z1ZLN2xScXE0SldVZTNHSW5kYldwTmR2QnlEN3B1aTZkREE2VGNfMW9reDRUODNFY2ZkQU9lT1JHRTRTTWlTcmlFYkZ0RzhDQnRkeVk1RFBHYWdaRDZkeFZTNXZhWXFxdGhB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoUEZkOVRtb25sdEVHcjVabUFaY2dfaUJBLWpkVVNqcEFMVnd4eVljT21ZZkZsQWlVaDZfT2ZMMU05ZXp6N29PQWF0MFpBYWc1clV0aC1OY252NVpoQ09BVUg0WXlDSTRHdllrMHZrSXVZSVp6ZU1oaC1rNA?oc=5"
     },
     {
-      "title": "MF Tracker: Can Mirae Asset Large Cap Fund extend its strong run? Here’s what investors should know",
+      "title": "Global X Launches Ethereum Covered Call ETF Targeting Weekly Distributions",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM2ZSWVlVbDBDRFdPUzk1QXJ3d2F5R1FoQjg0dXVMMFdMMXpWczVSMG9STy1KNHR2dzZfU2pkbUwzcGxZUlF0NTFMekpyU2l0bFk0Sy1uak9PdEsxVm40SXlHQVM2Q1pRZXhMTXhoQUpsTGRRN04zYzF4UllyalM5bzJmLWpaSXR0S1ZQVEJiQlhFa0k0c0RHdm5nVXkxbXZkbVdmbUVIaEJ5eTRvUUlCZXQ2eVBLbkJHb1ZYNkN4WUtVOFZGb2djOHpGTjhJZkcxT3NTaXBZejNhSDVZcWI4QTkyUUQ5X0NlOXpGWlRuQjU3bmxXMkdnS2530gH6AUFVX3lxTFAzZlJZWVVsMENEV09TOTVBcnd3YXlHUWhCODR1dUwwV0wxelZzNVIwb1JPLUo0dHZ3Nl9TamRtTDNwbFlSUXQ1MUx6SnJTaXRsWTRLLW5qT090SzFWbjRJeUdBUzZDWlFleExNeGhBSmxMZFE3TjNjMXhSWXJqUzlvMmYtalpJdHRLVlBUQmJCWEVrSTRzREd2bmdVeTFtdmRtV2ZtRUhoQnl5NG9RSUJldDZ5UEtuQkdvVlg2Q3hZS1U4VkZvZ2M4ekZOOElmRzFPc1NpcFl6M2FINVlxYjhBOTJRRDlfQ2U5ekZaVG5CNTdubFcyR2dLbnc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ3JIVWdGSnFDN2dXcU4tNWgzY1Y3UXNWWTM3X09oX0UzSWw5TEMzd2dqMzl5Y1NDcWVlUmxQY2NMalIwR2ZHVnhua29ESU1uNFcyb3VnUnBwZDVhcUhtWjlqNHl3aV9SRnlJa1Y5MDFTUmJmNDRNRGk5QnBOSE56RVMtVGpYcU51SjBGMmwzS3I3eERRRGRoNk9oM3FIbkhSWkZONWswTHgwVDBYV3BURzBBQkd1VnIwZmpBRW5rS3cxV0xKZDdpdW82cDVnS3ln?oc=5"
     },
     {
-      "title": "Columbia Thermostat Fund Q4 2025 Commentary (COTZX)",
+      "title": "Uncertainty and caution apparent in new tech employment data, CompTIA analysis finds",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWExJdnc1aksxWTFQNkQ3TEFld3hyZ19LZzlralFNVzR2WGR0RGNhTEoyYl9zS2w2Tks1akdQOW5NVjR4X1BVQlA5ZkFxcU12UDZabUk1U1hxSmNTem5rNG9mcWNOaEhMZmV6ZnpuU1lFT3M0Z2ZDQzAwbnJJSVA3ZlUwVTZIX08yQ3QwNQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRi1PeFJqY1l5MkhZcU92NVhjWi1PVG0yVm1UeHhNZ3ZtRWswMUtSMDcwTklzbHpuTjUxaG55YkFGUllJWlVUdE43OEhwRHpsRnloSVVTa1A3UmNkakhxdGFOMGRkWE9nTkZUNXZqSWRFQlBObXRoVW9UVVlndFJKVGNBQU03ampYcXowUXBDM01xeXVyRjE5c2diOVppOEVkd04tbVB1SmhoaGZKdG9rREJRU0ZjVWVmWGVSX2ZzbmRuMzMxY3dIQTB1aUNlU1lfbFd4X2Yta0ZFczVC?oc=5"
     },
     {
-      "title": "BlackRock, Capital Group, and Vanguard, the Asset Managers with the Best Brand Image",
+      "title": "The 10 Best Performing ETFs Over the Last 10 Years",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3FsQUl4TzJwRVdjOU5CeEVSY1AyOEFXaFN1TTFlVjNKbG9jOE9CMVhxako3Zm93MTRQOUF0czlDZHNMM0pzUzY0ZFRrbFVrbndfVE1ZRzRHUjMzbkJBMVBWMXJrOTdtUnlBV2wzMkp3WEVfZkhQbllOS3dVeENrMVRvVVp4clhYZHQzVXFIUFYwcmhKYzcwYWJPNTQ4Ql9JeFlHOG1FbVhKSHNBZ1FnYWktbjl4VmNCQ1dqamI1SlQ5N2J3MW1R?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTG9GS0JsSEdJSUt3MVhSakhsNXVrbHRKX3g0eDJPZDhlNG9SVXBMWnQzVmNNVXpkT1VSNFh0VE9ZazhUWkRXaks2VnF3V25CUXc5TE5jTkxpWDkxM2RpSEpGN1p4elFmUDRqZnROdVJTTVBGWkNERlJvRnNVaWJQeXdHdDNfc3lZcnl0LUNMWEN2eHltZmtBVjk4U0g2a1VNUmY2V1pMOTk?oc=5"
     },
     {
-      "title": "Morgan Stanley's new spot Bitcoin ETF, ticker $MSBT, set to launch in early April 2026, will undercut BlackRock's iShares Bitcoin Trust with a fee of just 0.14%.",
+      "title": "4 Best Gold ETFs to Hedge Against Stock Volatility (April 2026)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aLXhZNWpHNFNaZUVwT1FMTkpQYVdEMVNlTXdFSTRXa2pLWWJkM0VCdWE4QXBEN25FU3RrU05fVmdxQmdpZzNrQWotckl4MGpyRHFseTZaQlFDZGVESDlYZ0JwMnJqSnhw?oc=5"
+    },
+    {
+      "title": "7 Best Thematic ETFs to Buy in 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hR18xT0VrUnU4c0pZa0RjSHk1U0dGSmt3RlczVi12QUVrOHdDTEFQYm4xbmhZOFhBcjJpVFh3Q2lfWTVKczl3MVZJRjdhOUR0UFpwMHM5UUxaUWJfSk1IckY2eC1oR3Z6cFpMckFvZDBBbjNzNm5YZw?oc=5"
+    },
+    {
+      "title": "Best Oil ETFs for 2026 and How to Invest",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZkdZWVFtZnd0RkladUdvMVdZZ0RuemstZElXR2FST1E0VHJ3WldQcFpOS1Y1cmJmelpQQ2VCSG4yWThKSVNTOGJPQjhfaVFsLTI0Tktsck9qX3RLak5jZDBpWHVTRXByNkhWek5VNjVLRWJQS0Q4dDlFMS15aGNHWlpJTHpocGY1TVRXU2hwa1pDeXQzUjFF?oc=5"
+    },
+    {
+      "title": "The 10 Best-Performing Eurozone Dividend Stocks",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaV93b0FlYjlHZmtVcHdUS0ZVQ1MtS3BXbk80RnVZUm56RTNGNjNJa1BBWWZYa29JQ05FRTNNZjNGa3QzVWsway1yNzdiSmcwT3pGdi1VaXNOZFBYcUR4WjFITW8zbC1XZFg0Y3pjellaYl9kQ3VYR0ZwdkVfeDluT3dTeFRyOFN6RmI2bndsZ0M?oc=5"
+    },
+    {
+      "title": "Dividend and value funds top US equity charts year-to-date",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVUwzdzY5cm1WTVlaRGxlXzZ6ai15eEpXT21kMzFDLUkzeFI0ZGJuRTN3X3pIUUd0LWVpNUVVaExFSEhuNGRpUWc5a2xYUVZZYzJ1UjJMZWZRM25qUnRjbHpKR082b1AzVnVOZ3AzeEJ1NkNDQl9lVnZnLUEtM0ZkQkUwWTFWTG8teDVHSW0tbDA1dw?oc=5"
+    },
+    {
+      "title": "Vanguard S&P 500 Growth Index Fund ETF Shares (VOOG) Stock Price, News, Quote & History",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BZUFkem9LRTAtb0EwQ2hLQjlwUTBacWw5dDRjSm5FeEdqUlcwbWltOFBLaFVvZzV2ajRNQkpQOFFaOHZSd3BKbzBhMFJnMTlKX0E?oc=5"
+    },
+    {
+      "title": "21 Best-Performing International ETFs: Ex-U.S., Regional and Single-Country",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfMXdqMTd0OW1SeW5NQ2FnbnJIdXNzUVp2TmI0bXNfTm1tWC03Z3pWanlLdHh3MWNZVnJXOWR4U3NFbm9qSWJ4Rl92T21qT1M3eDlzWjhITTc4aXpyTHk3OUZmRl9maHM0QV9ad1lR?oc=5"
+    },
+    {
+      "title": "The 10 Best Performing ETFs Over the Last 10 Years",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTG9GS0JsSEdJSUt3MVhSakhsNXVrbHRKX3g0eDJPZDhlNG9SVXBMWnQzVmNNVXpkT1VSNFh0VE9ZazhUWkRXaks2VnF3V25CUXc5TE5jTkxpWDkxM2RpSEpGN1p4elFmUDRqZnROdVJTTVBGWkNERlJvRnNVaWJQeXdHdDNfc3lZcnl0LUNMWEN2eHltZmtBVjk4U0g2a1VNUmY2V1pMOTk?oc=5"
+    },
+    {
+      "title": "The top stocks and funds to buy according to DIY investors",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZEViaXJGR3c2VUFGTzluRURPSzMwQ1RtTlJMUGZvR1M3T2UxOWE0MVRyQzJCeDV0M1ByT2ZFV3RVdkVPMk51Wk5zbThPUmR1NzdBWWYzLU1sTVVIcGhQQ0tmNXk4X3BVVGpZTjRJLWQ0VjZnektxVVYzUFdMOVNETlp5NA?oc=5"
+    },
+    {
+      "title": "Vanguard International High Dividend Yield ETF (VYMI) expense ratio drops from 0.17% to 0.07%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard's expense ratio reductions across 53 funds are projected to save investors nearly $250 million in 2026; the average expense ratio across Vanguard's lineup is now just 0.06%.",
+      "title": "Roundhill Investments launches the Roundhill Memory ETF (DRAM), providing targeted exposure to global memory semiconductor companies, including Samsung (24.99% weight), SK Hynix (24.22%), and Micron (23.83%).",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard Growth ETF (VUG) will undergo a 6:1 share split effective April 21, 2026, widening availability for investors.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Lloyd Capital launches International Equity UCITS ETF (OTUS) with HANetf, featuring a TER of 0.85%, targeting quality compounders beyond US borders.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "BlackRock maintains its top position in Broadridge's 2026 Fund Brand 50 report, driven by dominance in ETF-based strategies, with nearly 1,000 new active ETFs launched in 2025.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Total estimated inflows to long-term mutual funds and ETFs were $14.30 billion for the week ended March 18, 2026, with ETF net issuance at $25.06 billion and mutual fund outflows at $10.76 billion.",
+      "title": "Total estimated inflows to long-term mutual funds and ETFs were $25.37 billion for the week ended March 25, 2026, with mutual fund outflows of $15.14 billion and ETF net issuance of $40.51 billion.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
