@@ -206,5 +206,10 @@
         "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdf",
         "https://www.fincen.gov/system/files/2025-12/FTA-Ransomware.pdf",
         "https://www.dhs.gov/sites/default/files/2024-10/24_0927_ia_aep-impact-ai-on-criminal-and-illicit-activities.pdf"
+    ],
+    "ai-crypto-exploits-vulnerability-risk-en": [
+        "http://csrc.nist.gov/pubs/ai/100/2/e2025/final",
+        "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdf",
+        "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.39.2pd.pdf"
     ]
 }
