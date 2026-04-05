@@ -646,3 +646,4 @@ funds: Con un 16,04%, Hamco Global Value Fund R FI lidera entre los fondos en Es
 funds: VanEck's TruSector ETFs TRUF and TRUH Enhance Financials and Healthcare Exposure
 viral: Rayan Cherki y su despiste viral: ¿una jugada que lo llevó a pedir perdón?
 ia: Éric Sadin desmantela la IA: “Huele a muerte”
+ia: Microsoft Unveils Game-Changing AI Models to Compete in the Tech Arena
