@@ -821,11 +821,13 @@ ESTÁ ABSOLUTAMENTE PROHIBIDO inventar, adivinar o fabricar URLs. Si necesitas u
     # === POST-PROCESADO ESTRICTO: Amputación de Frontmatter filtrado ===
     resultado = ContentCleaner.sanitize_body(resultado)
 
-    # Inyección controlada del bloque Adsterra tras el Resumen Ejecutivo / Executive Summary
-    resultado = inject_adsterra_native_block(resultado, lang)
-    
     # === POST-PROCESADO REGEX: Limpieza de artefactos residuales ===
     resultado = text_cleaner.clean_markdown(resultado)
+
+    # Inyección FORZADA del bloque Adsterra tras el Resumen Ejecutivo / Executive Summary
+    # NOTA: Esta llamada es CRÍTICA para monetización. Siempre debe ejecutarse DESPUÉS de la limpieza.
+    resultado = inject_adsterra_native_block(resultado, lang, fallback_to_first_h2=True)
+
     return resultado
 
 
@@ -835,8 +837,10 @@ def _postprocess_blueprint_body(text, lang):
     if not text:
         return text
     text = ContentCleaner.sanitize_body(text)
-    text = inject_adsterra_native_block(text, lang, fallback_to_first_h2=True)
+    # Limpieza PRIMERO para evitar que clean_markdown elimine el shortcode
     text = text_cleaner.clean_markdown(text)
+    # Inyección FORZADA del anuncio DESPUÉS de la limpieza (protección anti-eliminación)
+    text = inject_adsterra_native_block(text, lang, fallback_to_first_h2=True)
     return text
 
 

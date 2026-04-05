@@ -194,45 +194,61 @@ class ContentCleaner:
         return clean_text.strip()
 
 
-def inject_adsterra_native_block(body: str, lang: str, fallback_to_first_h2: bool = False) -> str:
+ADSTERRA_SHORTCODE = "\n\n{{< adsterra_native >}}\n\n"
+
+
+def inject_adsterra_native_block(body: str, lang: str, fallback_to_first_h2: bool = True) -> str:
     """Inyecta el shortcode {{< adsterra_native >}} tras Resumen Ejecutivo / Executive Summary.
 
     - Busca el primer encabezado TL;DR (## Resumen Ejecutivo / ## Executive Summary).
     - Inserta el shortcode justo antes del siguiente encabezado de nivel 2+.
-    - Si no encuentra patrón claro, devuelve el cuerpo original sin modificar.
-      Opcionalmente, si ``fallback_to_first_h2`` es True, inyecta el bloque
-      justo antes del primer encabezado H2/H3 encontrado en el cuerpo
-      (útil para Blueprints con bloque BLUF sin encabezado TL;DR).
+    - Si no encuentra patrón claro y fallback_to_first_h2=True (default), inyecta el bloque
+      justo antes del primer encabezado H2/H3 encontrado en el cuerpo.
+    - Como último recurso, inyecta tras el primer párrafo para garantizar que SIEMPRE haya anuncio.
+
+    IMPORTANTE: Esta función es CRÍTICA para monetización. Nunca debe devolver el body sin el shortcode.
     """
     if not body:
         return body
 
-    header = "## Resumen Ejecutivo" if lang == "es" else "## Executive Summary"
-    idx = body.find(header)
-
-    if idx != -1:
-        start = idx + len(header)
-        rest = body[start:]
-
-        m = re.search(r"^##\s+.+$|^###\s+.+$", rest, flags=re.MULTILINE)
-        if not m:
-            return body
-
-        insert_pos = start + m.start()
-        shortcode = "\n\n{{< adsterra_native >}}\n\n"
-        return body[:insert_pos] + shortcode + body[insert_pos:]
-
-    if not fallback_to_first_h2:
+    # Si ya existe el shortcode, no duplicar
+    if "{{< adsterra_native >}}" in body:
         return body
 
-    # Fallback para contenidos sin encabezado explícito de Resumen Ejecutivo
-    m = re.search(r"^##\s+.+$|^###\s+.+$", body, flags=re.MULTILINE)
-    if not m:
-        return body
+    shortcode = ADSTERRA_SHORTCODE
 
-    insert_pos = m.start()
-    shortcode = "\n\n{{< adsterra_native >}}\n\n"
-    return body[:insert_pos] + shortcode + body[insert_pos:]
+    # ESTRATEGIA 1: Buscar encabezado TL;DR explícito (Resumen Ejecutivo / Executive Summary)
+    headers_es = ["## Resumen Ejecutivo", "## TL;DR", "## Resumen"]
+    headers_en = ["## Executive Summary", "## TL;DR", "## Summary"]
+    headers = headers_es if lang == "es" else headers_en
+
+    for header in headers:
+        idx = body.find(header)
+        if idx != -1:
+            start = idx + len(header)
+            rest = body[start:]
+            # Buscar siguiente H2 o H3
+            m = re.search(r"^##\s+.+$|^###\s+.+$", rest, flags=re.MULTILINE)
+            if m:
+                insert_pos = start + m.start()
+                return body[:insert_pos] + shortcode + body[insert_pos:]
+
+    # ESTRATEGIA 2: Fallback - Buscar primer H2/H3 e insertar antes
+    if fallback_to_first_h2:
+        m = re.search(r"^##\s+.+$|^###\s+.+$", body, flags=re.MULTILINE)
+        if m:
+            insert_pos = m.start()
+            return body[:insert_pos] + shortcode + body[insert_pos:]
+
+    # ESTRATEGIA 3: ÚLTIMO RECURSO - Insertar tras el primer párrafo (después del primer \n\n)
+    # Esto garantiza que el anuncio SIEMPRE aparezca, incluso si el artículo no tiene H2s
+    paragraphs = body.split('\n\n')
+    if len(paragraphs) >= 2:
+        # Insertar entre el primer y segundo párrafo
+        return paragraphs[0] + shortcode + '\n\n'.join(paragraphs[1:])
+
+    # Si todo falla (artículo muy corto), añadir al final
+    return body + shortcode
 
 
 def generate_methodology_and_related_footer(
