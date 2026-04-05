@@ -19,7 +19,7 @@ title: 'The Plasticity of Truth: How AI Lego Satire Weaponizes Geopolitical Fail
 translationKey: 36b7dfb1-8c27-9a9f-8612-e8eb2a23495d
 type: viral
 ---
-## Resumen Ejecutivo
+## Executive Summary
 - The rise of AI-generated Lego satires targeting US-Iran relations marks a shift from traditional political cartoons to "aesthetic warfare."
 - These videos leverage nostalgia and modular visual logic to deconstruct complex geopolitical failures into digestible, mocking narratives.
 - Data from Resemble AI indicates a 1,567% increase in verified deepfake incidents in 2025, signaling that generative satire is becoming a primary tool for state-sponsored influence.

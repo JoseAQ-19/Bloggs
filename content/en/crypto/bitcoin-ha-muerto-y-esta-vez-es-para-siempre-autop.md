@@ -8,7 +8,7 @@ last_updated: '2026-04-04'
 quality_tier: fenix_v3_pro_sanitized
 title: 'Bitcoin’s Structural Resilience vs. Macroeconomic Attrition: An On-Chain Autopsy'
 ---
-## Resumen Ejecutivo
+## Executive Summary
 
 - **Macroeconomic Friction:** Bitcoin faces sustained pressure as the Federal Reserve’s 'higher for longer' interest rate stance collides with emerging trade tariffs, dampening the appetite for non-yielding risk assets.
 - **Institutional Centralization:** The approval and massive adoption of Spot Bitcoin ETFs (IBIT, FBTC) have transformed the asset from a sovereign peer-to-peer currency into a regulated financial product, introducing systemic counterparty risks previously unseen in the crypto-native era.

@@ -20,7 +20,7 @@ type: ia
 ---
 ![Fire Erupts at APC Plant: 64,000 People Evacuated, But No Injuries Reported](/images/fire-erupts-at-apc-inc-plant-in-crawford-county-no-injuries-reported-en.jpg)
 
-## Resumen Ejecutivo
+## Executive Summary
 - The explosion at the Parker Lord facility in Crawford County underscores the critical fragility of chemical manufacturing infrastructure, where regulatory compliance is often treated as a legacy system rather than a core operational requirement.
 - OSHA data indicates that 133 chemical accidents between 2016 and 2020 necessitated the evacuation of over 64,000 people, yet the financial penalties for non-compliance, such as the $514,692 fine levied against TPC Group, remain economically negligible for large corporations.
 - Experts argue that without integrating community feedback into the safety protocol and addressing the "every other day" frequency of chemical disasters, the industry is running on a unsustainable risk model that prioritizes throughput over human safety.

@@ -21,7 +21,7 @@ type: viral
 ---
 ![Shocking Outburst: Albuquerque Man Joins 8,683 Complaints of Anti-Muslim Hate in 2025](/images/albuquerque-mans-shocking-anti-islam-outburst-goes-viral-whats-behind-the-controversy-en.jpg)
 
-## Resumen Ejecutivo
+## Executive Summary
 - The Council on American-Islamic Relations (CAIR) documented 8,683 complaints of anti-Muslim bias in 2025, the highest total since tracking began in 1996.
 - Hate crime complaints surged by 453% between 2022 and 2024, indicating a radicalization of offline behavior driven by online echo chambers.
 - Federal regulators, specifically the FTC, have identified algorithmic bias as a primary vector for amplifying discrimination, yet technical enforcement remains a failure.

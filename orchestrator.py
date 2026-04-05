@@ -400,30 +400,6 @@ def escribir_articulo(meta, contexto, lang, category_config, category="ia"):
     else:
         research_text = str(contexto)
     
-    # === PROTOCOLO SPIDERWEB V2: Solo si hay artículos diversos ===
-    internal_links = _get_internal_links(category, lang, meta.get('slug', ''))
-    spiderweb_instruction = ""
-    if len(internal_links) >= 2:
-        unique_links = []
-        seen_words = set()
-        for title, path in internal_links:
-            title_words = {w.lower() for w in title.split() if len(w) > 3}
-            if len(title_words & seen_words) < len(title_words) * 0.5:
-                unique_links.append((title, path))
-                seen_words.update(title_words)
-        
-        if len(unique_links) >= 2:
-            links_text = "\n".join([f"  - [{t}]({p})" for t, p in unique_links[:5]])
-            spiderweb_instruction = f"""\nINTERNAL LINKING (Spiderweb Protocol — ONLY if naturally relevant):
-You MAY insert UP TO 2 internal links to other articles on our site, but ONLY if they are genuinely relevant to the current topic.
-Do NOT force a link if it doesn't fit naturally. A forced, irrelevant internal link is WORSE than no link at all.
-Insert them NATURALLY inside paragraphs as contextual hyperlinks. Do NOT put them in a list at the end.
-Available articles to link to:
-{links_text}
-Format: [descriptive anchor text](relative-path)
-IF NONE OF THESE ARTICLES ARE RELEVANT TO THE CURRENT TOPIC, DO NOT LINK TO ANY OF THEM.
-"""
-
     # ============================================================
     # FASE 1: ESPECIALISTA EN CLICKBAIT ÉTICO — Genera título viral
     # ============================================================
@@ -780,30 +756,15 @@ ESTÁ ABSOLUTAMENTE PROHIBIDO inventar, adivinar o fabricar URLs. Si necesitas u
 """
             print(f"   🔗 [Pre-Hoc] {len(all_urls)} URLs pre-verificadas inyectadas en el prompt")
 
-    # === FIX ENLAZADO INTERNO ===
-    internal_links_block = ""
-    internal_links = LinkManager.get_latest_internal_links(lang=lang, limit=5)
-    if internal_links:
-        links_str = "\n".join([f"  - [{l['title']}]({l['url']})" for l in internal_links])
-        internal_links_block = f"""
-
-### 🔗 ENLAZADO INTERNO OBLIGATORIO (RETENCIÓN DE USUARIO)
-Debes incluir al menos 1 enlace interno contextual hacia uno de estos artículos previos del blog NovumWorld.
-Inyecta el enlace de forma natural en el texto usando el formato Markdown exacto proporcionado a continuación:
-{links_str}
-"""
-
     prompt = (
         f"{prompt_persona}\n"
         f"{SYSTEM_FORMAT_RULES}\n"
         f"{anti_chatbot_shield}\n"
         f"{EEAT_LINK_RULES}\n"
-        f"{spiderweb_instruction}\n"
         f"WRITE ARTICLE: {meta['titulo']}\n"
         f"{outline_section}"
         f"ORIGINAL RESEARCH DATA (use as factual foundation — cite sources with links):\n{research_text}\n"
         f"{verified_urls_block}"
-        f"{internal_links_block}"
         f"TEMPLATE: {structure}\n"
         f"LANG: {lang}"
     )
