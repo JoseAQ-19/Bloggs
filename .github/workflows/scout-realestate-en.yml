@@ -29,7 +29,8 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
-        run: python stocks_scout.py --lang en --niche realestate
+          PYTHONPATH: ${{ github.workspace }}/scripts
+        run: python scripts/stocks_scout.py --lang en --niche realestate
       - run: |
           git config --global user.name "JoseAQ-19"
           git config --global user.email "josearizaquintero@gmail.com"
