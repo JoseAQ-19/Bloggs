@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-05T07:27:09.242985+00:00",
+  "scouted_at": "2026-04-05T07:28:23.392469+00:00",
   "total_candidates": 13,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos de inversión españoles: Casi el 50% duplican su dinero en 10 años con rentabilidades anuales superiores al 7%",
+      "title": "Hamco Global Value Fund R FI: La sorprendente rentabilidad del 16,04% a 5 años que lidera en España",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El ETF iShares MSCI World se resiente: ¿Cómo afecta la ausencia del sector energético a tus inversiones?",
+      "title": "Groupama Global Disruption: Un 17,58% anual a 3 años invirtiendo en empresas que están cambiando el juego",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "MyInvestor vs Indexa Capital: ¿Quién lidera el mercado de roboadvisors con comisiones que comienzan en 0,43%?",
+      "title": "Bestinver Bolsa: El fondo de renta variable española que ganó el reconocimiento de Morningstar con un 58% de rentabilidad en 2025",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -84,32 +84,32 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOWhyamh5MW93RkxoQVd2dnJuTzZfYkNlNGplRGlQTVZxZ04zVGdld2h5THNDdV9LTDdNWlEyOV93REhmMmdNai1uLWpYS19ka1oxUXJ6cFhBR29yQTJFV19LQS1mTUQyZWYxdzFkUE0yWEpJSm9xN01QYmNLY2RXckMtTGw1U2NaTDBKMWpyY0NveHhhMG1wMzNjNGN1T1hzMjBXNFZUWUZ3dExBZDlzU2Nnd0k?oc=5"
     },
     {
-      "title": "**España lanza el fondo \"España Crece\" con €23 mil millones para construir 15,000 viviendas asequibles anualmente**",
+      "title": "Hamco Global Value Fund R FI lidera rentabilidad a 5 años en España con un 16,04%",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**Fondos de inversión españoles elevan su patrimonio a €465 mil millones en febrero, subiendo un 5,3% en un año**",
+      "title": "Groupama Global Disruption, fondo destacado de abril, ofrece un 17,58% anual a 3 años invirtiendo en empresas disruptivas",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**Casi la mitad de los fondos de bolsa en España duplican el dinero en solo 10 años, con rentabilidades anuales superiores al 7%**",
+      "title": "Indexa Capital baja comisiones en 2026: carteras de fondos tendrán costes totales medios de 0,530%",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**MyInvestor lidera roboadvisors con comisiones totales del 0,43%, seguido por Indexa Capital con 0,53%**",
+      "title": "Fondo España Crece movilizará 23.000 millones EUR para construir 15.000 viviendas al año",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**Morningstar otorga el premio a Mejor Gestora de Activos en España 2026 a Magallanes Value Investors**",
+      "title": "Bestinver Bolsa premiado por Morningstar como mejor fondo de renta variable española con una rentabilidad del 58% en 2025",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**El mercado de ETFs en Europa comienza 2026 con entradas récord de €93.5 mil millones en enero y febrero, con €41 mil millones en ETFs de renta variable solo en febrero**",
+      "title": "Fondos de inversión españoles alcanzan 465.110 millones EUR en febrero, con suscripciones netas de 3.663 millones EUR",
       "source": "gemini_grounding_finance",
       "url": ""
     }
