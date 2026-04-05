@@ -643,3 +643,4 @@ fitness: Waco Adapt: Breaking Barriers for Inclusive Fitness
 funds: Magallanes European Equity logra un 29,4% de rentabilidad, superando su categoría en 16,5 puntos
 funds: VanEck's TruSector ETF Suite Expands with TRUF and TRUH Launches
 funds: Con un 16,04%, Hamco Global Value Fund R FI lidera entre los fondos en España
+funds: VanEck's TruSector ETFs TRUF and TRUH Enhance Financials and Healthcare Exposure
