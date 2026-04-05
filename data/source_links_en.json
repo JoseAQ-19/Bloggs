@@ -211,5 +211,10 @@
         "http://csrc.nist.gov/pubs/ai/100/2/e2025/final",
         "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdf",
         "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.39.2pd.pdf"
+    ],
+    "carpenters-tiny-house-empire-en": [
+        "https://par.nsf.gov/servlets/purl/10341498",
+        "https://www.huduser.gov/portal/periodicals/cityscape/vol27num1/ch11.pdf",
+        "https://docs.nrel.gov/docs/fy25osti/89873.pdf"
     ]
 }
