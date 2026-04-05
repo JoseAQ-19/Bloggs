@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-01T07:35:37.826851+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-04-05T06:36:43.497844+00:00",
+  "total_candidates": 8,
   "topics": [
     {
       "rank": 1,
-      "title": "SpaceX y la influencia de Elon Musk: ¿Cuánto podría valer en su salida a bolsa?",
+      "title": "¿Pueden los precios del petróleo y del gas superar los 100 dólares? Perspectivas y análisis del mercado actual",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Bankinter y Plenium Partners: Un análisis de su fusión y la inversión de 100 millones en Access Capital Partners.",
+      "title": "Comparativa de los mejores planes de pensiones: ¿Cuál ofrece un rendimiento superior para tu jubilación en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "La inflación en la Eurozona sube menos de lo previsto: ¿Cómo afectará esto a los fondos de inversión europeos?",
+      "title": "Sorprendente caída del ETF iShares MSCI World: ¿Es hora de reconsiderar la inversión en el sector energético?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,84 +49,44 @@
   },
   "all_headlines": [
     {
-      "title": "La salida a bolsa de SpaceX y el factor Elon Musk",
+      "title": "¿Podrían seguir subiendo los precios del petróleo y del gas?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3dLcHFvbEZGOGRfRk9KLVdsdk4zX3pEbVdyWG9HRFU1Z3RDZE9iYnhwRU5iOXNWUUZ3bktER0N5cXp5WWhYWlBWSU9JZHY4MGFfWUk3bktHd2p1Y3Rjal9kTTRhUVlxTGdBb2YxTkdyMy1VcGlWYktaR2tyVHc0VnRTT2NqZkhzMDNDamloV19veEtN?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUzE3ekFQZVRTaUF0YjdIZWF1SllJc3NVU2pLTEdvNkh5RTAyb1Q5djJLWm9rLTVfY0lLbGJKOUo1bW5jYXJpOUZhcUk1eDlzUzZJd3lVUUR6SnhDREF0WXpJb2oyNE9GdlBZODgyN3Z1elNabFRXcjZCaWllM0tFZ0VyVnpUWFczbjlFNGlIX3FLalUweWpDaHVQVmhEcVNL?oc=5"
     },
     {
-      "title": "Bankinter Investment y Plenium Partners integran sus gestoras y adquieren una participación significativa en Access Capital Partners",
+      "title": "Mejores cuentas remuneradas de abril 2026: hasta 3,33% TAE y opciones al 2% sin condiciones",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSVlmUU5qdXViZmF6bGpMZ0IyVXRiTkU0RGFYN2s5TkVFcWsxNUp0MEV1WnJBeEk3MWxZU01UX0JnSUlacjYwZjFYVlcySG1zajdVMzc3ck84c2F5bE9EaUJ0R3g3Ylh2SEdxRmtvbDBNZjRHbDNWUTN0NzZjV0ROUVktSURDQ0xaYkVXQURfclRkY3psUU5EVS1nTGE2ckxtQUJ3YmZYdzA0WXZpc1dwaUpZLXBaNWlXWm5JblZyUzBZZkRHVFdlZmZBdmN2QlJLeW11dUNHRGVpalQzNEVQakJ5SUcwYlk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd1RWZnJxd1NLVzNnbDZUN1NwSWhFaUNvQ3g4bndTb1ZkTUFIcjJ5bDVCWTJTMGpUbWlUV3MxVG1OeFVxSW1mU0pNbmNoc2xOU0xzcFFmNmczczhVbkJpSVAzd0dROFMzdGxRMm56cTc4YzAtLVd2SHZtSnplWFYzVThHUV9YTGdab21xandyRVZzdkFZaXpldA?oc=5"
     },
     {
-      "title": "Morningstar Inc amplía la disponibilidad de sus datos de inversión en el marketplace de Snowflake",
+      "title": "Mejores planes de pensiones para complementar tu jubilación en este momento",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPb1ZKbkJMaWZvdm1BSGtyeGZUZXl3U05WNWZxSmNOOV9PYlpfaFJoYUVqTXlGc2xxMjBCYzk0WmViYVhveHRqalhscEdrZU1ubXpnWXlDTG9td1VhUHdkT2owaTV3VjFzdUZvNmZkTkJ6ME5iTHktanNDcExCUnlYb09oUXFiZXFYazZCTzFhY1VfSzlNdmJLNVlWcUhiTWg3eEpmbTUxODdfcFJvM2dRYk44aHRSNjNnMlNlbXJ3WkFlNVpfS1BzWWU3emZMNzA4cDN6UERnSFpLMDBkejNHb2xSeGNZZElD?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOWdwZThKZDlTSEJUaUVGZl9tYUZ3amlGSUtxQVo3Z2dQdmxqRlJ0VWVQLVN2bHc3cC1ka1lYeFhGLW5NQXZQRW91cG5iZGRkVHBkU25MeDdnbEJQUE9wUkRPVXRscDF5RXFSWGstRVZWYkhzQ2hmVnBHQW9oaXd1NlJrMWJqS0VkMkNiY3dCYVZYcFR3UzFhbEJSc0owNF9hTHJDWXVYcTdpdF84ZEtta1l2bGFoejlFTGt1c1pzc3VOOHlQV1FGZWN1eS3SAagBQVVfeXFMT2NmT3h3YWtzVm1PazFVMkFYVmhnWW01MzM1WGNBUUc1ZG5WQVpwUUVNVTQtSnNPRVZyMERLSXpsVHQ3S1dEZXNCNWNxdmxPRVRGbXFXY0E3eUtOUjd2MVJUeWJYc2FvR0lQcUF3RzN3dXRTYmdHR09TSEg3VVV1NUw2eGVBdFRJTmFROFF4cTNkY3piNE9NUHJjRWdKd1F4dmVjQ0VvVVdL?oc=5"
     },
     {
-      "title": "Iván Martín (Magallanes): \"Hemos vendido bancos y petroleras y hemos incrementado el peso de las firmas químicas\"",
+      "title": "Diez compañías de Defensa que vuelan en bolsa gracias a la guerra de Ucrania",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUG5aZWNFVDN2MHVmYUE0SmU0VnJSNkU3RklPekxUU2F2WU42T3VDWTRuSS0xOVdwNXZvTjlZeWtpaUlrS3M5V2l3RG85cm1QZGM1bEdtYzd5QXdhNHlKTlRpc3dYY1U0M0dLT2VicEpNaTN0ejlYQW1GcWgwc1BuMkpNbV9HSEkwcURfYXdQV2VMTXdfOXQzQXg2NTh1U0cxd0R0RHhwOThzYmQ3Zmc2RVpSajVWTzRYSFFtSW5nbExYZF9nMHZpV21CaF9GMVFTTmFfN2pVa3VidWpSOVFGMGV1NzJ6UVAyN0kzbG1YV25ITi1lQXJWSWNYYlpheWs40gGAAkFVX3lxTE9QblplY0VUM3YwdWZhQTRKZTRWclI2RTdGSU96TFRTYXZZTjZPdUNZNG5JLTE5V3A1dm9OOVl5a2lpSWtLczlXaXdEbzlybVBkYzVsR21jN3lBd2E0eUpOVGlzd1hjVTQzR0tPZWJwSk1pM3R6OVhBbUZxaDBzUG4ySk1tX0dISTBxRF9hd1BXZUxNd185dDNBeDY1OHVTRzF3RHREeHA5OHNiZDdmZzZFWlJqNVZPNFhIUW1JbmdsTFhkX2cwdmlXbUJoX0YxUVNOYV83alVrdWJ1alI5UUYwZXU3MnpRUDI3STNsbVhXbkhOLWVBclZJY1hiWmF5azg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nUTRhU3ZQeTZXQmtvUUlfZmZTRjZ4SGYySG11MkJKWnBnTUlWVVhwQTJNWnRLZlZWZ3dfRzVjcmJ6enFYSmRqcl92Tkpzb3NoVGs0eFY0U1R2SjlfcDhzSEdMaEhCenI4ckQybEVpaEdlbGNSaE9GVXEtTUotd0o4aVBDdHBNdXNoT29sR21hMnVSN3diWi1kaU9GTWdFMDZrTGJtc2hnMnR5QUNjUVh3TlpIdGdXMGpoUFJoX21aUdIBngFBVV95cUxPSkkwR2poZWs1OFducU9yaHZOUGlSV0JBQ0hCakVsc3k1cEZZa3VZYjYtcjdHbWJROGJpamNuaGgtZkw4a3J1S1NaeW1EdmtlQUo4bUlZcExxNXNqYVpsR0lOdExwdXp3U2x3VXdxSnJPejFzdl95eXBNUXlsNXRBNnVKZWR4YTBjWjlrVFpYVU5GUExpNTluTDVVNnhCQQ?oc=5"
     },
     {
-      "title": "Mejores depósitos bancarios a plazo fijo 2026 (abril)",
+      "title": "El ETF iShares MSCI ACWI se reconfigura con el ascenso de Grecia",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUkNIRk1JRmVtbEJqZGoxX1RrVUxPTHNBaGhDMWktVndvbmg4aGF1T1oyUWZEdm5OcGk2WHZIOWtkdzVvRTQ1SS01ejNHdzNkZnIyNlB4c1UwR2JvYTdUVjRpZ01uMmRMZFZQcE4tR0Y1cWc2VS13NjUtdGRiVFBCeE9QUjBjNk56TVNLbWR2WFc3QmdrRWFjM3ZiZXJ4ZDR6QUhFUldfSThpNXBNS2VLeG5PX2E1aEVWYWc?oc=5"
     },
     {
-      "title": "Hasta 760 euros: mejores promociones de bancos por domiciliar la nómina (abril 2026)",
+      "title": "Vanguard FTSE Developed World UCITS ETF (Acc) | IE00BK5BQV03 | A2PLS9",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWk51QU5RallaWDBRTkRxVElBVnpKTkJLQW9MazlJODM3aVpLc0dZTWxmNzdTSXZXNGFxUlU1SWNHOUg5WXRJSjlXWjFoeS1hTExnSWdVNzFjam9BQ1hZTWpvWlJTcWtDeGx2UTl4ODIwU19Pc0Z2NFpNVEloZVNuOTFnMGJna0pMQ1RlYXlUcXE1b3BwSWhEUGdvV1ltV0l0d0RjNEp0b3ZEQk56VnZkLUt5V2VJZ0Z3dHNYU1VtVFRCTGYyM0VydnM5dlZrMV9pdjZFUXFhWQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nNWQwWmltSV9FalVGWTZIU1hhM1pwVUxtTjlWaHVEQkUzQmctRUdkMGRvRUtkVTZWdEVHYXBZQzZpZnFhZkczWHNVaE1sLW9TWWVIQTB4M2h1Skl2?oc=5"
     },
     {
-      "title": "NBI gana 2,2 millones de euros en 2025",
+      "title": "El ETF iShares MSCI World se resiente ante la ausencia del sector energético",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeWZ1bXM4UEpxYVVWdHdlbXpKa0RXb1Nnd01DeG5Ya1NnUllBQkNsOU1lbmRqS3ZRZHc5SWtKN1VtUEFJeVVNNkNQV21fMVRzZzlnUGhyLVljS1pMeUtWd0FQY2ZIUlNNRS1QZ0lYYzdoeFpCWmxIM1NtcWczeU1vVzRGY1hLT2VNWFNJRlBhaFhMWXpVT05yTUQzcUl2UWRnRXJaZ1R0MTZQZGtZMWNDVVRaQmlEZmVFaXV5OFNOWU9aSnRh0gGeAUFVX3lxTE5ibWdUd0NPejVRMlZqc0JRVzJ0QU5OMnJ5OUpZUUttTjBSeFl3YW5WbXhySktKOGRuUm96VWd3THNJV1hNSjBYUjZOcGd0X190TFRRdG5md0oyNks4X1FDc3U0Zk05dVJqYTVrOV93RUJiWHlBdDJlRnlmakFWR29uSlc0TzEyWDJIaVRSXzBnNGhHdDZSWFBWVkM5MWNB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRUo4U2Y1alJ1OTJxWUp2STNITlA4aXhxaDM4S1ZWaVhIcVY4ai1iTGk1ZWR1LVFHcTEwYUV3cTBGbHQ1QkFlclhiVDkzRXZXdFc3RFktdlVpa2w0aWVIU1EzMHdjRlhrTF9NUFN4a3Zxa3c2dERxZWFaQWM2bWNSMmppcEdkamYxbmZWT2RhTEZsMjh1VEVEem13TGg4T21BSHlOYzU2QjBKUFNxZDB5cC1pOU5jMVJvZUJJcDNFY2t5QQ?oc=5"
     },
     {
-      "title": "Mejores cuentas remuneradas sin nómina de abril 2026: gana intereses sin domiciliar tu salario",
+      "title": "El ETF global de Vanguard: el peso abrumador de la tecnología estadounidense",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGFnbEp1M1JPVE9MamhNWWdrbU42ZEtKVHk2Q3cxS2g1VEstMnRGM2wtSkFmSTR2N1RkSTZPOE0zcWZHbG56c0xlbWFJTWxjMnVBVWhTQUxib1ZucUJpMkEySzdQVWFqeHNDbl9KclFzakdWWjNlUW90T0xTVjgzRkZ6elhDR2Q3RV9qTkpsRThLaEU?oc=5"
-    },
-    {
-      "title": "La Primera de Expansión sobre Criteria, Acciona, ACS, CaixaBank, petróleo, Irán y Donald Trump",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNlNGWXRqbVV1LXdmVEJLMUJ6a3hHaUYyYm44Ykk2emdHLUlyZEZxaUNEZHc0eGFqM1hDbzJGM3RnWGZ3eF9XaERicDJYLV9rVTg5ckZFMDV5T0k1eWdfUDd1UG1XZkx4ZlVkVzJicklpYlV2SFFtVHExWnREdW1qTXhVa2ZpUkFmcWhuUmczVDN5VGxybEhUMDhmRVdZV1Ix0gGgAUFVX3lxTFA2U0ZZdGptVXUtd2ZUQksxQnpreEdpRjJibjhiSTZ6Z0ctSXJkRnFpQ0RkdzR4YWozWENvMkYzdGdYZnd4X1doRGJwMlgtX2tVODlyRkUwNXlPSTV5Z19QN3VQbVdmTHhmVWRXMmJySWliVXZIUW1UcTFadER1bWpNeFVrZmlSQWZxaG5SZzNUM3lUbHJsSFQwOGZFV1lXUjE?oc=5"
-    },
-    {
-      "title": "Mejores brokers hipotecarios en España",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONEpRWFRETEZOX09DZnk5RFhFSVlYaERHMDdJUTJUWTB1Y3paOEpWRlliWlQyWV9Fek1sRmlTYTh6ZkM2WGMtRFIzOS05UGZWTjB4N1ZLM2RYN1c0TldXODZUdWt1Z1ludXByS2o5S21aN1hsZXR1dTdrb0V5MUVKX0xJVkR2eUJ3Z3c?oc=5"
-    },
-    {
-      "title": "Mejores cuentas nómina sin comisiones 2026 (abril)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0ZtcXlsRGFxdFFvb2JpUmJlT29IaWdWQ2lscnlvel9aT0JINUF3UTVnYllPZEwxVFd0UVpTR2swUmtncjNxN19GUzVRMGdiSmdxLTAxTENub1F3RDVPd2l0LXQyRTlzSkNJVjlERFpiMDl0X0RnYWhOenJrMk5qMjZCdmZhUUZNQ3lCbzQtbklhYlhRWDRwbA?oc=5"
-    },
-    {
-      "title": "La inflación de la Eurozona sube menos de lo previsto en medio de la guerra con Irán",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274882/la-inflación-de-la-eurozona-sube-menos-de-lo-previsto-en-medio-de-la-guerra-con-irán.aspx"
-    },
-    {
-      "title": "Qué significaría una subida de tipos de la Fed para estos sectores",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274866/qué-significaría-una-subida-de-tipos-de-la-fed-para-estos-sectores.aspx"
-    },
-    {
-      "title": "Perspectivas de la bolsa USA para el segundo trimestre: no entre en pánico, reajuste su estrategia",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274865/perspectivas-de-la-bolsa-usa-para-el-segundo-trimestre-no-entre-en-pánico-reajuste-su-estrategia.aspx"
-    },
-    {
-      "title": "8 ETFs de renta fija para aprovechar el repunte del dólar estadounidense",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274828/8-etfs-de-renta-fija-para-aprovechar-el-repunte-del-dólar-estadounidense.aspx"
-    },
-    {
-      "title": "Meta: Aumentan las dificultades legales",
-      "source": "rss_morningstar_es",
-      "url": "https://www.morningstar.es/es/news/274827/meta-aumentan-las-dificultades-legales.aspx"
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOWhyamh5MW93RkxoQVd2dnJuTzZfYkNlNGplRGlQTVZxZ04zVGdld2h5THNDdV9LTDdNWlEyOV93REhmMmdNai1uLWpYS19ka1oxUXJ6cFhBR29yQTJFV19LQS1mTUQyZWYxdzFkUE0yWEpJSm9xN01QYmNLY2RXckMtTGw1U2NaTDBKMWpyY0NveHhhMG1wMzNjNGN1T1hzMjBXNFZUWUZ3dExBZDlzU2Nnd0k?oc=5"
     }
   ]
 }
