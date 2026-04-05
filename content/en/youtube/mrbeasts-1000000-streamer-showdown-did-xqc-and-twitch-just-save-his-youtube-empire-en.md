@@ -15,7 +15,7 @@ translationKey: "5846e8fd-5b8e-f17f-666e-4890ba5f04b7"
 
 ![MrBeast’s $1,000,000 Showdown: How xQc and Twitch Revived His YouTube Empire](/images/mrbeasts-1000000-streamer-showdown-did-xqc-and-twitch-just-save-his-youtube-empire-en.jpg)
 
-## TL;DR BULLETS
+## Key Takeaways
 
 * MrBeast's views plummeted by 52.5% from 119M to 56M in just two months, prompting a desperate pivot to a $1,000,000 streamer showdown with 50 creators.
 
