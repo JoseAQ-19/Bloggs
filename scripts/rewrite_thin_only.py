@@ -9,6 +9,7 @@ from dotenv import load_dotenv
 
 sys.path.append(str(Path(__file__).parent.parent))
 from scripts.llm_router import LLMRouter
+from scripts.utils import ContentCleaner
 
 load_dotenv()
 
@@ -34,18 +35,28 @@ def rewrite_thin_article(path):
         
     lang = "es" if "/es/" in path.replace("\\", "/") else "en"
     tl_dr = "## Resumen Ejecutivo" if lang == "es" else "## Executive Summary"
-    method = "## Metodología y Fuentes" if lang == "es" else "## Methodology and Sources"
     ymyl = "*Aviso YMYL: Información educativa. Consulte especialistas.*" if lang == "es" else "*YMYL Disclaimer: For informational purposes only.*"
 
     system_prompt = "Periodista experto AdSense Tier 1. Long-form content (>1000 words)."
-    prompt = f"TITULO: {title}\nIDIOMA: {lang.upper()}\n\nReescribe este artículo con profundidad analítica (>1000 palabras).\nORDEN: {tl_dr}, Cuerpo H2/H3 desglosado por puntos técnicos, {method}, {ymyl}.\nCERO YAML.\nCONTENIDO BASE: {original_content}"
+    prompt = (
+        f"TITULO: {title}\nIDIOMA: {lang.upper()}\n\n"
+        "Reescribe este artículo con profundidad analítica (>1000 palabras).\n"
+        f"ORDEN: {tl_dr}, Cuerpo H2/H3 desglosado por puntos técnicos.\n"
+        "NO escribas secciones tituladas 'Metodología y Fuentes', 'Methodology and Sources', 'Artículos relacionados' ni 'Related Articles'.\n"
+        "NO añadas secciones de fuentes, metodología, referencias ni disclaimers al final; el sistema las inyectará después.\n"
+        "CERO YAML.\n"
+        f"CONTENIDO BASE: {original_content}"
+    )
 
     try:
         new_content = LLMRouter.call_capa_cero(prompt, system_prompt, model_type="reasoning")
-        if not new_content: return False
-            
+        if not new_content:
+            return False
+
         new_content = clean_leaked_tags(new_content)
-        if not new_content.startswith('##'): new_content = f"{tl_dr}\n" + new_content
+        new_content = ContentCleaner.sanitize_body(new_content)
+        if not new_content.startswith('##'):
+            new_content = f"{tl_dr}\n" + new_content
 
         post.content = new_content
         with open(path, 'w', encoding='utf-8') as f:

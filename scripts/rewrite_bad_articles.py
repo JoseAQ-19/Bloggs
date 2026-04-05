@@ -6,6 +6,11 @@ import os
 import time
 import re
 from dotenv import load_dotenv
+from pathlib import Path
+import sys
+
+sys.path.append(str(Path(__file__).parent.parent))
+from scripts.utils import ContentCleaner
 
 load_dotenv()
 API_KEY = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
@@ -70,7 +75,6 @@ def rewrite_article(path):
         
     lang = "es" if "/es/" in path.replace("\\", "/") else "en"
     tl_dr_text = "Resumen Ejecutivo" if lang == "es" else "Executive Summary"
-    method_text = "Metodología y Fuentes" if lang == "es" else "Methodology and Sources"
     ymyl_text = "*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista certificado antes de tomar decisiones financieras o de salud.*" if lang == "es" else "*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*"
 
     prompt = f"""TÍTULO: {title}
@@ -81,10 +85,12 @@ Eres un periodista experto de NovumWorld (AdSense Tier 1). Reescribe este conten
 **ESTRUCTURA OBLIGATORIA:**
 1. ## {tl_dr_text} (con 3-4 viñetas de datos específicos)
 2. Cuerpo con subtítulos H2/H3 (estilo ensayo profundo, profesional).
-3. ## {method_text}
-4. {ymyl_text}
 
-**REGLAS:** CERO YAML, CERO EMOJIS, MÍNIMO 800 PALABRAS.
+**REGLAS ADICIONALES (CRÍTICAS):**
+- NO escribas secciones tituladas "Metodología y Fuentes", "Methodology and Sources", "Artículos relacionados" ni "Related Articles".
+- NO añadas secciones de fuentes, metodología, referencias ni disclaimers al final; el sistema las inyectará después.
+
+**REGLAS GENERALES:** CERO YAML, CERO EMOJIS, MÍNIMO 800 PALABRAS.
 
 CONTENIDO ORIGINAL:
 {original_content}
@@ -106,6 +112,7 @@ CONTENIDO ORIGINAL:
                     new_content = '\n'.join(new_content.split('\n')[1:-1]).strip()
                 
                 new_content = clean_leaked_tags(new_content)
+                new_content = ContentCleaner.sanitize_body(new_content)
                 if len(new_content) < 700:
                     print(f"    ⚠️ Texto corto ({len(new_content)}).")
                     continue
