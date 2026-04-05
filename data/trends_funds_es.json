@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-05T06:36:43.497844+00:00",
-  "total_candidates": 8,
+  "scouted_at": "2026-04-05T06:48:45.345620+00:00",
+  "total_candidates": 14,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Pueden los precios del petróleo y del gas superar los 100 dólares? Perspectivas y análisis del mercado actual",
+      "title": "Magallanes European Equity brilla con un 29,4% de rentabilidad en el último año, superando su categoría en 16,5 puntos.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa de los mejores planes de pensiones: ¿Cuál ofrece un rendimiento superior para tu jubilación en 2026?",
+      "title": "Azvalor Internacional destaca con un aumento del 8,7% en febrero, superando su índice de referencia en 6,4 puntos porcentuales.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Sorprendente caída del ETF iShares MSCI World: ¿Es hora de reconsiderar la inversión en el sector energético?",
+      "title": "Groupama Global Disruption se impone en abril 2026 con una rentabilidad anualizada del 17,58% y un Ratio Sharpe de 1,42.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -69,6 +69,11 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nUTRhU3ZQeTZXQmtvUUlfZmZTRjZ4SGYySG11MkJKWnBnTUlWVVhwQTJNWnRLZlZWZ3dfRzVjcmJ6enFYSmRqcl92Tkpzb3NoVGs0eFY0U1R2SjlfcDhzSEdMaEhCenI4ckQybEVpaEdlbGNSaE9GVXEtTUotd0o4aVBDdHBNdXNoT29sR21hMnVSN3diWi1kaU9GTWdFMDZrTGJtc2hnMnR5QUNjUVh3TlpIdGdXMGpoUFJoX21aUdIBngFBVV95cUxPSkkwR2poZWs1OFducU9yaHZOUGlSV0JBQ0hCakVsc3k1cEZZa3VZYjYtcjdHbWJROGJpamNuaGgtZkw4a3J1S1NaeW1EdmtlQUo4bUlZcExxNXNqYVpsR0lOdExwdXp3U2x3VXdxSnJPejFzdl95eXBNUXlsNXRBNnVKZWR4YTBjWjlrVFpYVU5GUExpNTluTDVVNnhCQQ?oc=5"
     },
     {
+      "title": "El ETF iShares MSCI World se resiente ante la ausencia del sector energético",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRUo4U2Y1alJ1OTJxWUp2STNITlA4aXhxaDM4S1ZWaVhIcVY4ai1iTGk1ZWR1LVFHcTEwYUV3cTBGbHQ1QkFlclhiVDkzRXZXdFc3RFktdlVpa2w0aWVIU1EzMHdjRlhrTF9NUFN4a3Zxa3c2dERxZWFaQWM2bWNSMmppcEdkamYxbmZWT2RhTEZsMjh1VEVEem13TGg4T21BSHlOYzU2QjBKUFNxZDB5cC1pOU5jMVJvZUJJcDNFY2t5QQ?oc=5"
+    },
+    {
       "title": "El ETF iShares MSCI ACWI se reconfigura con el ascenso de Grecia",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUkNIRk1JRmVtbEJqZGoxX1RrVUxPTHNBaGhDMWktVndvbmg4aGF1T1oyUWZEdm5OcGk2WHZIOWtkdzVvRTQ1SS01ejNHdzNkZnIyNlB4c1UwR2JvYTdUVjRpZ01uMmRMZFZQcE4tR0Y1cWc2VS13NjUtdGRiVFBCeE9QUjBjNk56TVNLbWR2WFc3QmdrRWFjM3ZiZXJ4ZDR6QUhFUldfSThpNXBNS2VLeG5PX2E1aEVWYWc?oc=5"
@@ -79,14 +84,39 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nNWQwWmltSV9FalVGWTZIU1hhM1pwVUxtTjlWaHVEQkUzQmctRUdkMGRvRUtkVTZWdEVHYXBZQzZpZnFhZkczWHNVaE1sLW9TWWVIQTB4M2h1Skl2?oc=5"
     },
     {
-      "title": "El ETF iShares MSCI World se resiente ante la ausencia del sector energético",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRUo4U2Y1alJ1OTJxWUp2STNITlA4aXhxaDM4S1ZWaVhIcVY4ai1iTGk1ZWR1LVFHcTEwYUV3cTBGbHQ1QkFlclhiVDkzRXZXdFc3RFktdlVpa2w0aWVIU1EzMHdjRlhrTF9NUFN4a3Zxa3c2dERxZWFaQWM2bWNSMmppcEdkamYxbmZWT2RhTEZsMjh1VEVEem13TGg4T21BSHlOYzU2QjBKUFNxZDB5cC1pOU5jMVJvZUJJcDNFY2t5QQ?oc=5"
-    },
-    {
       "title": "El ETF global de Vanguard: el peso abrumador de la tecnología estadounidense",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOWhyamh5MW93RkxoQVd2dnJuTzZfYkNlNGplRGlQTVZxZ04zVGdld2h5THNDdV9LTDdNWlEyOV93REhmMmdNai1uLWpYS19ka1oxUXJ6cFhBR29yQTJFV19LQS1mTUQyZWYxdzFkUE0yWEpJSm9xN01QYmNLY2RXckMtTGw1U2NaTDBKMWpyY0NveHhhMG1wMzNjNGN1T1hzMjBXNFZUWUZ3dExBZDlzU2Nnd0k?oc=5"
+    },
+    {
+      "title": "**Groupama Global Disruption destaca en abril 2026 con una rentabilidad anualizada del 17,58% en 3 años y Ratio Sharpe de 1,42**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Indexa Capital reduce comisiones en 2026: carteras de fondos tendrán costes totales medios de 0,530% a partir del 1 de enero**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Azvalor Internacional lidera fondos españoles de renta variable en febrero, con un aumento del 8,7%, superando el índice de referencia en 6,4 puntos porcentuales**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Magallanes European Equity alcanza una rentabilidad del 29,4% en el último año, superando la media de su categoría en 16,5 puntos porcentuales, y recibe una calificación de 5 estrellas de Morningstar**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Global X Active Global Fixed Income ETF anuncia un dividendo mensual de 0,0259 CAD por acción, pagadero el 8 de abril de 2026**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**CNMV impulsa el principio de \"valor por dinero\", obligando a las entidades a demostrar que sus productos ofrecen rentabilidad real descontando todos los costes, a partir de 2026**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
