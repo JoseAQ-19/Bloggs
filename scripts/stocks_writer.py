@@ -16,6 +16,7 @@ import random
 import hashlib
 import logging
 import requests
+import sys
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
 from llm_router import LLMRouter
@@ -44,7 +45,14 @@ from stocks_instructions import (
     PROMPTS, DISCLAIMERS, ARTICLE_STRUCTURE,
     NICHE_CONFIG, FRONTMATTER_TEMPLATE
 )
-from utils import SlugManager, LinkManager
+from utils import SlugManager, LinkManager, inject_adsterra_native_block
+
+# Configurar stdout/stderr para UTF-8 en Windows y evitar errores de "charmap"
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
 
 
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
@@ -64,42 +72,63 @@ def _call_writer_engine_v3_core(prompt_text: str, lang: str = "en") -> Optional[
 
     if lang == "es":
         # ── MOTOR ES 1: OpenRouter DeepSeek V3 ──
-        if or_key:
+        if or_key and OpenAI:
             print("   🧠 [Stocks Writer ES] Motor 1: DeepSeek V3 (OpenRouter)...")
             try:
+                or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
                 ds_prompt = prompt_text + "\n\n[SYSTEM CALIBRATION: DEEPSEEK]: You are a logic-driven financial model."
-                resp = or_client.chat.completions.create(model="deepseek/deepseek-chat-v3-0324:free", messages=[{"role": "user", "content": ds_prompt}], temperature=0.85)
+                resp = or_client.chat.completions.create(
+                    model="deepseek/deepseek-chat-v3-0324:free",
+                    messages=[{"role": "user", "content": ds_prompt}],
+                    temperature=0.85,
+                )
                 res = resp.choices[0].message.content.strip()
-                if res and len(res) > 500: return res
+                if res and len(res) > 500:
+                    return res
             except Exception as e:
                 logging.warning(f"[Stocks Writer ES] TIER 1 DeepSeek V3 failed: {type(e).__name__}: {str(e)[:150]}")
 
         # ── MOTOR ES 2: Groq (Llama 3.3 70B) ──
-        if GROQ_API_KEY:
+        if GROQ_API_KEY and OpenAI:
             try:
+                groq_client = OpenAI(api_key=GROQ_API_KEY, base_url="https://api.groq.com/openai/v1")
                 llama_prompt = prompt_text + "\n\n[SYSTEM CALIBRATION: LLAMA-3]: You are a highly narrative model."
-                resp = groq_client.chat.completions.create(model="llama-3.3-70b-versatile", messages=[{"role": "user", "content": llama_prompt}])
+                resp = groq_client.chat.completions.create(
+                    model="llama-3.3-70b-versatile",
+                    messages=[{"role": "user", "content": llama_prompt}],
+                )
                 res = resp.choices[0].message.content.strip()
-                if res and len(res) > 500: return res
+                if res and len(res) > 500:
+                    return res
             except Exception as e:
                 logging.warning(f"[Stocks Writer ES] TIER 2 Groq Llama-3.3-70B failed: {type(e).__name__}: {str(e)[:150]}")
     else:
         # ── MOTOR EN 1: OpenRouter DeepSeek V3 ──
-        if or_key:
+        if or_key and OpenAI:
             try:
+                or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
                 ds_prompt = prompt_text + "\n\n[SYSTEM CALIBRATION: DEEPSEEK]: Analytical depth required."
-                resp = or_client.chat.completions.create(model="deepseek/deepseek-chat-v3-0324:free", messages=[{"role": "user", "content": ds_prompt}])
+                resp = or_client.chat.completions.create(
+                    model="deepseek/deepseek-chat-v3-0324:free",
+                    messages=[{"role": "user", "content": ds_prompt}],
+                )
                 res = resp.choices[0].message.content.strip()
-                if res and len(res) > 500: return res
+                if res and len(res) > 500:
+                    return res
             except Exception as e:
                 logging.warning(f"[Stocks Writer EN] TIER 1 DeepSeek V3 failed: {type(e).__name__}: {str(e)[:150]}")
 
         # ── MOTOR EN 2: Groq ──
-        if GROQ_API_KEY:
+        if GROQ_API_KEY and OpenAI:
             try:
-                resp = groq_client.chat.completions.create(model="llama-3.3-70b-versatile", messages=[{"role": "user", "content": prompt_text}])
+                groq_client = OpenAI(api_key=GROQ_API_KEY, base_url="https://api.groq.com/openai/v1")
+                resp = groq_client.chat.completions.create(
+                    model="llama-3.3-70b-versatile",
+                    messages=[{"role": "user", "content": prompt_text}],
+                )
                 res = resp.choices[0].message.content.strip()
-                if res and len(res) > 500: return res
+                if res and len(res) > 500:
+                    return res
             except Exception as e:
                 logging.warning(f"[Stocks Writer EN] TIER 2 Groq failed: {type(e).__name__}: {str(e)[:150]}")
 
@@ -357,12 +386,13 @@ CRITICAL FORMATTING RULES:
 2. START IMMEDIATELY with the Hook paragraph.
 3. Use H2 (##) for main sections. NEVER use H1 (#).
 4. LANGUAGE PURITY: ALL text must be in {lang_name}. No mixing languages.
-5. OUTBOUND LINKS (MANDATORY — PRE-VERIFIED ONLY):
-   - You MUST include at least 3 hyperlinks to financial sources.
-   - 📌 PRIORITY: Use ONLY the URLs listed in the "FUENTES VALIDADAS DISPONIBLES" section below.
-   - Copy-paste the exact URL from the list. DO NOT modify, shorten or invent URLs.
-   - If you need to cite a source not in the list, use bold text (**Source Name**) without a URL.
-   - 🚨 PLEASE DO NOT FABRICATE URLs.
+5. STRICT URL POLICY (OUTBOUND + INTERNAL LINKS):
+   - You are STRICTLY FORBIDDEN from inventing, guessing, or fabricating ANY URL.
+   - You may ONLY turn into hyperlinks the URLs that appear explicitly in the blocks added by the system ("FUENTES VALIDADAS DISPONIBLES" and internal links).
+   - If the system does NOT provide any verified URLs for this article, you MUST write the ENTIRE body WITHOUT external hyperlinks. Python will later inject a Methodology/Sources section.
+   - When you DO have verified URLs, convert them to Markdown links using the exact pattern [Texto descriptivo](https://url-exacta.com), copy-pasting the URL VERBATIM.
+   - If you want to cite a source that has NO explicit URL in those blocks, mention ONLY the source/entity name in plain text or **bold**, but DO NOT add a URL.
+   - 🚨 SECURITY RULE: Inventing even a SINGLE URL (external or internal) is a CRITICAL SECURITY FAILURE.
 6. MINIMUM LENGTH: 1500 words. Please do not write articles under 1200 words.
 7. NO MARKDOWN TABLES. Use narrative prose with bullet points for data comparisons.
 8. DO NOT include any disclaimer or legal notice — it will be added automatically.
@@ -391,6 +421,9 @@ WRITE THE FULL ARTICLE NOW. START IMMEDIATELY WITH THE FIRST SENTENCE (NO preamb
     print(f"   🛡️ [Fase 3/3] Post-procesado y disclaimer legal...")
 
     article_text = _clean_article(article_text)
+
+    # Inyección controlada del bloque Adsterra tras el Resumen Ejecutivo / Executive Summary
+    article_text = inject_adsterra_native_block(article_text, lang)
 
     # === CRÍTICO: INYECCIÓN FORZADA DEL DISCLAIMER ===
     # Pase lo que pase, el disclaimer se concatena al final.

@@ -12,7 +12,11 @@ RAW CONTENT: {transcript}
    Format: "* [Stat] — [Source]"
 3. PLEASE DO NOT USE THESE PHRASES: "TL;DR", "In today's fast-paced world", "Revolutionize", "In conclusion". See main list for more.
 4. HEADERS HIERARCHY: Use H2/H3 ONLY. NEVER skip levels.
-5. OUTBOUND LINKS: MINIMUM 3 clickable hyperlinks to official docs or APIs.
+5. STRICT URL POLICY FOR OUTBOUND LINKS:
+   - You are STRICTLY FORBIDDEN from inventing or guessing ANY URL.
+   - You may ONLY add hyperlinks using URLs that are explicitly provided to you by the system in the context.
+   - If no URLs are provided, you MUST write the teardown with ZERO external links; Python or the caller will add any necessary references later.
+   - When URLs are provided, convert them using Markdown [Anchor](https://exact-url.com) and copy-paste the URL VERBATIM.
 6. UNIQUE DATA POINT: Include ONE original calculation (e.g., cost per API call).
 7. PARAGRAPH VARIATION: Mix 1-sentence and 5-sentence paragraphs.
 8. 5-7 SECTION STRUCTURE: Logical flow from Architecture to Limitations.
@@ -42,7 +46,11 @@ CONTENIDO BRUTO: {transcript}
    Formato: "* [Dato] — [Fuente]"
 3. POR FAVOR EVITA ESTAS FRASES: "En resumen", "Revolucionario", "El futuro es hoy", "Queda por ver".
 4. JERARQUÍA H2-H3: Solo niveles H2/H3. Sin saltos de jerarquía.
-5. ENLACES EXTERNOS: MÍNIMO 3 hipervínculos markdown a documentación oficial.
+5. POLÍTICA ESTRICTA DE ENLACES EXTERNOS:
+   - PROHIBIDO inventar, adivinar o fabricar URLs.
+   - SOLO puedes añadir hipervínculos usando URLs que te proporcione explícitamente el sistema en el contexto.
+   - Si no se proporcionan URLs, debes escribir TODO el teardown con CERO enlaces externos; Python o el llamador añadirá las referencias necesarias después.
+   - Cuando sí haya URLs disponibles, conviértelas con Markdown [Ancla](https://url-exacta.com) copiando la URL VERBATIM.
 6. DATO ÚNICO: Incluye UN cálculo original (ej: coste por transacción/token).
 7. VARIACIÓN DE PÁRRAFOS: Mezcla párrafos de 1 oración con otros analíticos.
 8. ESTRUCTURA 5-7 SECCIONES: De Arquitectura a Limitaciones.

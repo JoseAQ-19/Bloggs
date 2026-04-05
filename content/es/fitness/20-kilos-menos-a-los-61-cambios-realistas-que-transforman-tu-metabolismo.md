@@ -16,6 +16,9 @@ translationKey: "09ec6dde-29e6-6bdd-3655-d85d70078b96"
 ![61 Años y 20 Kilos Menos: Cómo Transformar Tu Metabolismo Realmente](/images/20-kilos-menos-a-los-61-cambios-realistas-que-transforman-tu-metabolismo.jpg)
 
 ## Resumen Ejecutivo
+
+{{< adsterra_native >}}
+
 * La reprogramación metabólica basada en restricción de carbohidrados puede inducir una pérdida de hasta 20 kilos en sujetos mayores de 60 años, al atacar directamente la resistencia a la insulina subyacente.
 * Un estudio de la Universidad de Indiana demostró que el 60% de pacientes con diabetes tipo 2 bajo dieta cetogénica lograron suspender el uso de insulina.
 * La evidencia sugiere que la intervención dietética es superior a la farmacológica convencional para lograr la remisión de la diabetes tipo 2 en adultos mayores.
@@ -75,7 +78,7 @@ Para aplicar estos datos hoy, se requiere un protocolo agresivo pero seguro, dis
 
 La reprogramación metabólica no es una opción blanda, es una intervención médica de estilo de vida que exige disciplina y precisión quirúrgica.
 
-## Metodología y fuentes
+## Metodología y Fuentes
 - [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/39076775/)
 - [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11079448/)
 - [salud.nih.gov](https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/como-frenar-el-aumento-de-peso-de-la-mediana-edad)

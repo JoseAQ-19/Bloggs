@@ -54,12 +54,11 @@ TAREA: Reescribe el siguiente artículo aplicando estas reglas ESTRICTAS:
    - "El paisaje digital"
    - "Navegar por el panorama"
 
-3. OUTBOUND LINKS (OBLIGATORIO — MÍNIMO 3):
-   Inyecta entre 3 y 5 enlaces salientes REALES a fuentes de alta autoridad.
-   Formato: [texto descriptivo](https://url-real-verificable.com)
-   Fuentes válidas: Reuters, Bloomberg, ArXiv, PubMed, TechCrunch, Wired, The Verge, 
-   MIT Technology Review, Nature, IEEE, sitios .gov, .edu, o páginas oficiales de empresas.
-   PROHIBIDO inventar URLs. Usa SOLO URLs que sepas que existen con certeza.
+3. POLÍTICA ESTRICTA DE ENLACES EXTERNOS (OUTBOUND LINKS):
+   - PROHIBIDO inventar, adivinar o fabricar URLs.
+   - SOLO puedes convertir en hipervínculos las URLs que ya aparezcan explícitamente en el cuerpo original o que te proporcione el sistema.
+   - Si el artículo original no contiene URLs y el sistema no te da ninguna, reescribe TODO el contenido SIN añadir enlaces externos nuevos.
+   - Cuando sí haya URLs reales disponibles, conviértelas a formato Markdown [texto descriptivo](https://url-real-verificable.com) copiando la URL EXACTA.
 
 4. ESTRUCTURA MARKDOWN:
    - Usa ## para subtítulos (H2). NUNCA **negrita** como subtítulo.
@@ -100,12 +99,11 @@ TASK: Rewrite the following article applying these STRICT rules:
    - "The digital landscape"
    - "Only time will tell"
 
-3. OUTBOUND LINKS (MANDATORY — MINIMUM 3):
-   Inject 3 to 5 REAL outbound links to high-authority sources.
-   Format: [descriptive anchor text](https://real-verifiable-url.com)
-   Valid sources: Reuters, Bloomberg, ArXiv, PubMed, TechCrunch, Wired, The Verge,
-   MIT Technology Review, Nature, IEEE, .gov, .edu sites, or official company pages.
-   FORBIDDEN to fabricate URLs. Use ONLY URLs you know exist with certainty.
+3. STRICT URL POLICY FOR OUTBOUND LINKS:
+   - You are STRICTLY FORBIDDEN from inventing, guessing, or fabricating ANY URL.
+   - You may ONLY add hyperlinks using URLs that already exist explicitly in the original body or that are provided by the system.
+   - If the original article and the system context do NOT provide URLs, rewrite the article with ZERO external links.
+   - When URLs are available, convert them to Markdown [descriptive anchor text](https://real-verifiable-url.com) copying the URL VERBATIM.
 
 4. MARKDOWN STRUCTURE:
    - Use ## for subheadings (H2). NEVER **bold** as subheading.

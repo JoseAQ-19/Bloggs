@@ -24,6 +24,13 @@ from dotenv import load_dotenv
 from api_cache import cached_api_call
 from llm_router import LLMRouter
 
+# Configurar stdout/stderr para UTF-8 en Windows y evitar errores de "charmap"
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
+
 load_dotenv()
 
 # --- API Keys (aisladas del núcleo) ---

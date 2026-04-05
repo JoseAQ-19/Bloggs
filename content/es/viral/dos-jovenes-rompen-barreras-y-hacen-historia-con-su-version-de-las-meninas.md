@@ -16,6 +16,9 @@ translationKey: "890a4756-8e5c-fff0-a7ff-3ef1afb4dddd"
 ![La Impactante Versión de ‘Las Meninas’ Que Dos Jóvenes Crearon Con IA Generativa](/images/dos-jovenes-rompen-barreras-y-hacen-historia-con-su-version-de-las-meninas.jpg)
 
 ## Resumen Ejecutivo
+
+{{< adsterra_native >}}
+
 - La recreación de 'Las Meninas' mediante inteligencia artificial no es una evolución artística, sino la materialización de una cultura de la gratificación instantánea que devalúa la técnica humana y normaliza el expolio de propiedad intelectual.
 - El 60% de los menores en España utiliza IA generativa, una adopción masiva que está creando una generación que confunde la operatividad de prompts con la creatividad cognitiva, según datos de EU Kids Online.
 - La batalla legal por los derechos de autor, encabezada por el ministro Ernest Urtasun, es el único freno tangible a una industria de 48.000 millones de dólares que opera bajo una premisa de "innovación" que enmascara una estafa sistémica a los creadores.
@@ -76,7 +79,7 @@ La actual fiebre por las recreaciones artísticas con IA tiene fecha de caducida
 
 La IA generativa no es el fin del arte, pero sí el fin de la excusa para no aprender a crear.
 
-## Metodología y fuentes
+## Metodología y Fuentes
 - [jpl.nasa.gov](https://jpl.nasa.gov/news/teenage-latino-students-drawings-turn-into-nasa-reality)
 - [hernandez.house.gov](https://hernandez.house.gov/media/press-releases/comisionado-residente-pablo-jose-hernandez-reconoce-jovenes-talentos-en-la)
 - [nga.gov](https://www.nga.gov/artworks/227556-boys-meet-girl-spanish-harlem-new-york)

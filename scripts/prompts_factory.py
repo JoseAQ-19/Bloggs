@@ -332,7 +332,7 @@ Estamos luchando contra la penalización de "Thin Content". Tu objetivo es el **
      ## Resumen Ejecutivo
      - [Punto clave 1...]
      - [Punto clave 2...]
-   - ESTRICTAMENTE PROHIBIDO: generar apartados de 'Metodología', 'Fuentes', 'Referencias', 'Lecturas Recomendadas' o 'Disclaimers/Descargos de responsabilidad'. El texto debe terminar de forma natural con el último párrafo de conclusión. El sistema de post-procesamiento ensamblará todo el pie de página.
+   - ESTRICTAMENTE PROHIBIDO: generar apartados de "Metodología", "Fuentes", "Metodología y Fuentes", "Referencias", "Artículos relacionados", "Artículos Relacionados", "Related Articles", "Sources", "Methodology and Sources", ni ningún bloque de "Lecturas Recomendadas" o "Disclaimers/Descargos de responsabilidad". El texto debe terminar de forma natural con el último párrafo del cuerpo. El sistema de post-procesamiento ensamblará TODO el pie de página (metodología, relacionados y disclaimers).
 
 2. UX / LEGAL (DISCLAIMER YMYL ÚNICO):
    - DEBES ignorar cualquier instrucción previa sobre disclaimers, NO los generes. El motor Python inyectará estos elementos de forma determinista.
@@ -360,7 +360,7 @@ We are actively fighting the "Thin Content" penalty. Your objective is **"Inform
      ## Executive Summary
      - [Key point 1...]
      - [Key point 2...]
-   - STRICTLY FORBIDDEN: Do NOT generate 'Methodology', 'Sources', 'References', 'Recommended Reading' or 'Disclaimers' sections. The text must end naturally with the last conclusion paragraph. The post-processing system will assemble the entire footer.
+   - STRICTLY FORBIDDEN: Do NOT generate any sections called "Methodology", "Sources", "Methodology and Sources", "Metodología y Fuentes", "Related Articles", "Artículos relacionados", "References", "Recommended Reading" or any kind of "Disclaimer" / "Disclosure". The text must end naturally with the last paragraph of the body. The post-processing system will assemble the ENTIRE footer (methodology, related articles and disclaimers).
 
 2. UX / LEGAL (UNIQUE YMYL DISCLAIMER):
    - You MUST ignore any previous instructions regarding disclaimers, do NOT generate them. The Python engine will inject them deterministically.

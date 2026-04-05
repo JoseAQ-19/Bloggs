@@ -7,14 +7,22 @@ import urllib.parse
 from datetime import datetime, timedelta
 import hashlib
 import logging
+import sys
 import text_cleaner
 from llm_router import LLMRouter
-from utils import LinkManager, ContentCleaner
+from utils import LinkManager, ContentCleaner, inject_adsterra_native_block, generate_methodology_and_related_footer
 from novum_visual import get_image
 import indexing_api
 from openai import OpenAI
 from google import genai
 from google.genai import types
+
+# Configurar stdout/stderr para UTF-8 en Windows y evitar errores de "charmap"
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
 
 from prompts_factory import (
     PROMPT_PERSONA_ES, PROMPT_PERSONA_EN,
@@ -146,36 +154,36 @@ def planificar_articulo(tema, contexto, lang, category_config):
         logging.warning(f"[planificar_articulo] Fallo al planificar '{tema[:50]}': {type(e).__name__}: {e}")
         return {"titulo": f"{tema} Analysis", "slug": text_cleaner.sanitize_slug(tema) + ("-en" if lang=="en" else "")}
 
-# --- E-E-A-T OUTBOUND LINK INJECTION RULES (v3.0) ---
+# --- E-E-A-T OUTBOUND LINK INJECTION RULES (v3.1 — STRICT URL POLICY) ---
 EEAT_LINK_RULES = """
 ═══════════════════════════════════════════════════
-🔗 LINKING SHIELD v3.0 — STRICT PROTOCOL
+🔗 LINKING SHIELD v3.1 — ZERO-INVENTION PROTOCOL
 ═══════════════════════════════════════════════════
 
-EXTERNAL LINKS (Authority):
-1. You MUST include a MINIMUM of 3 outbound hyperlinks in Markdown format: [Source Name](https://exact-url.com)
-2. These links MUST use URLs from the "FUENTES VALIDADAS DISPONIBLES" section when available, copy-pasted VERBATIM.
-3. If no verified URL exists, use the publication's homepage (e.g., https://www.reuters.com, https://www.bloomberg.com).
-4. NEVER cite a source using only bold text (**Source**). Every source MUST be a clickable hyperlink.
-5. Please avoid placeholder citations like **FUENTES INFORMADAS**, **source**, or **unnamed sources**.
-6. Do NOT use scholar.google.com or google.com/search as placeholder links.
-7. A single fabricated URL will cause the ENTIRE article to be rejected.
+EXTERNAL LINKS (Authority — PYTHON-FIRST):
+1. You are STRICTLY FORBIDDEN from inventing, guessing, or fabricating ANY URL.
+2. You may ONLY use URLs that appear EXPLICITLY in the "FUENTES VALIDADAS DISPONIBLES" block provided by the system.
+3. If the system does NOT provide a verified-URLs block for this article, you MUST write the ENTIRE article WITHOUT ANY external hyperlinks.
+4. When you DO have verified URLs, you may turn them into Markdown links using the exact pattern: [Source Name](https://exact-url.com), copy-pasting the URL VERBATIM.
+5. If you want to cite a source that does NOT have an explicit URL provided by the system, mention ONLY the source/entity name in plain text or **bold**, but DO NOT add a link.
+6. scholar.google.com, google.com/search, and similar aggregators are NEVER acceptable as fallbacks.
+7. ⚠️ SECURITY RULE: Inventing even a SINGLE URL that was not provided by the system is considered a CRITICAL SECURITY FAILURE.
 
-INTERNAL LINKS (Retention):
-8. You MUST include at LEAST 1 internal link using the URLs from the "ENLAZADO INTERNO OBLIGATORIO" section.
-9. Internal links MUST be contextually relevant — weave them naturally into a sentence.
-10. Format: [descriptive anchor text](relative-path)
+INTERNAL LINKS (Retention — PYTHON-CONTROLLED):
+8. Internal links (to other NovumWorld articles) MUST ALSO use ONLY the URLs explicitly listed in the internal-links block (e.g. "ENLAZADO INTERNO OBLIGATORIO").
+9. NEVER fabricate internal URLs like /category/slug/ if they were not given to you.
+10. Internal links MUST be contextually relevant — weave them naturally into a sentence, and use Markdown format [descriptive anchor](relative-path) ONLY when the exact path has been provided.
 
-TRIGGERS (When you MUST add a link):
-- A statistic or data point → link to the original report/study
-- An expert's name or quote → link to their profile or publication
-- A company action → link to a credible news article
-- A study or research paper → link to PubMed, arXiv, IEEE, or the journal
+TRIGGERS (When you MAY add a hyperlink):
+- A statistic or data point → you MAY link to the original report/study ONLY if its URL is present in the verified-URLs block.
+- An expert's name or quote → you MAY link to their profile/publication ONLY if its URL is present in the verified-URLs block.
+- A company action → you MAY link to a credible news article ONLY if its URL is present in the verified-URLs block.
+- A study or research paper → you MAY link to PubMed, arXiv, IEEE, or the journal ONLY if that exact URL is present in the verified-URLs block.
 
-MINIMUM: 3 outbound + 1 internal per article.
+MINIMUM: 0 outbound links is acceptable if no URLs are provided. When URLs exist, aim for 3–8 high-quality links and at least 1 internal link.
 MAXIMUM: 12 outbound links (avoid appearing spammy).
 
-QUALITY GATE: Articles missing ](http or ](/ will be REJECTED and re-generated.
+QUALITY GATE: Any fabricated URL (external or internal) will cause the ENTIRE article to be rejected.
 """
 
 # ============================================================
@@ -687,17 +695,17 @@ CRITICAL RULES:
 - {"DO NOT use 'Editorial Verdict'. Use 'Nuestra lectura' or 'El veredicto' IN SPANISH." if lang == "es" else ""}
 - {"DO NOT leave ANY English instruction text in the output." if lang == "es" else "DO NOT leave ANY Spanish text in the output."}
 
-🔗 LINK SHIELD (Autoblog style — links WOVEN into sentences):
-- Include at least 3 outbound links woven naturally INTO sentences.
+🔗 LINK SHIELD (Autoblog style — links WOVEN into sentences, ZERO-INVENTION):
+- When the system provides verified URLs, include outbound links woven naturally INTO sentences using ONLY those URLs.
 - Autoblog example: {ex_link1}
 - Autoblog example: {ex_link2}
-- 📌 PRIORITY: Check the section "### FUENTES VALIDADAS DISPONIBLES" at the END of the RESEARCH DATA. These URLs have been pre-verified and MUST be your primary source for outbound links. Use at least 3 of them.
+- 📌 PRIORITY: Check the section "### FUENTES VALIDADAS DISPONIBLES" at the END of the RESEARCH DATA. These URLs have been pre-verified and MUST be your ONLY source for outbound links.
 - ONLY use URLs that appear VERBATIM in the RESEARCH DATA. Copy-paste the exact URL.
-- If a URL is missing or cannot be used, cite the REAL publication name in simple bold (e.g. **Forbes**, **Reuters**). 
+- If a statistic, quote or company action has NO explicit URL in that section, you may mention the REAL publication name in simple bold (e.g. **Forbes**, **Reuters**) but you MUST NOT add a URL.
 - 🚨 CRITICAL BAN: NEVER cite "Gemini Grounding", "E-E-A-T", "NotebookLM", "Context", or "Source" as a publication. You MUST extract the actual real-world media outlet name from the text. If you can't find one, do not name the source.
 - 🚨 CRITICAL BAN: Do NOT use 4 asterisks like ****Name****. Use exactly two for bold: **Name**.
 - 🚨 CRITICAL BAN: NEVER cite "unnamed sources", "market analysis", "technical analysis", or "legal experts" as attribution. Either name the real person/outlet or remove the attribution.
-- Please do not fabricate URLs under any circumstances.
+- Please do not fabricate URLs under any circumstances. If ZERO URLs are provided, the article MUST NOT contain external hyperlinks.
 - NEVER paste a naked URL. Every URL must be inside [Anchor Text](URL) format.
 - NEVER use bracket-only references like [source name] without a proper (URL).
 
@@ -773,7 +781,7 @@ ESTÁ ABSOLUTAMENTE PROHIBIDO inventar, adivinar o fabricar URLs. Si necesitas u
         f"{EEAT_LINK_RULES}\n"
         f"WRITE ARTICLE: {meta['titulo']}\n"
         f"{outline_section}"
-        f"ORIGINAL RESEARCH DATA (use as factual foundation — cite sources with links):\n{research_text}\n"
+        f"ORIGINAL RESEARCH DATA (use as factual foundation — you may add hyperlinks ONLY when a URL is explicitly provided by the system):\n{research_text}\n"
         f"{verified_urls_block}"
         f"TEMPLATE: {structure}\n"
         f"LANG: {lang}"
@@ -812,6 +820,9 @@ ESTÁ ABSOLUTAMENTE PROHIBIDO inventar, adivinar o fabricar URLs. Si necesitas u
 
     # === POST-PROCESADO ESTRICTO: Amputación de Frontmatter filtrado ===
     resultado = ContentCleaner.sanitize_body(resultado)
+
+    # Inyección controlada del bloque Adsterra tras el Resumen Ejecutivo / Executive Summary
+    resultado = inject_adsterra_native_block(resultado, lang)
     
     # === POST-PROCESADO REGEX: Limpieza de artefactos residuales ===
     resultado = text_cleaner.clean_markdown(resultado)
@@ -819,17 +830,27 @@ ESTÁ ABSOLUTAMENTE PROHIBIDO inventar, adivinar o fabricar URLs. Si necesitas u
 
 
 
+def _postprocess_blueprint_body(text, lang):
+    """Sanitiza, inyecta anuncio y limpia el markdown del Blueprint."""
+    if not text:
+        return text
+    text = ContentCleaner.sanitize_body(text)
+    text = inject_adsterra_native_block(text, lang, fallback_to_first_h2=True)
+    text = text_cleaner.clean_markdown(text)
+    return text
+
+
 def escribir_blueprint(tutorial_data, lang="en"):
     """Genera el post de herramienta reescribiendo con personalidad según idioma."""
     print(f"🛠️ Escribiendo Blueprint ({lang.upper()}): {tutorial_data['title']}...")
-    
+
     prompt_base = PROMPT_BLUEPRINT_EN if lang == "en" else PROMPT_BLUEPRINT_ES
-    
+
     prompt = prompt_base.format(
         title=tutorial_data['title'],
         transcript=tutorial_data['transcript'][:30000]
     ) + f"\n{SYSTEM_FORMAT_RULES}"
-    
+
     # === OMEGA MATRIX: NIM/OR Waterfall para ES, Cascada para EN ===
     if lang == "es":
         nvidia_key = os.getenv("NVIDIA_API_KEY")
@@ -839,8 +860,8 @@ def escribir_blueprint(tutorial_data, lang="en"):
         if nvidia_key:
             resultado_nim, ok = _call_nvidia_nim(prompt, "z-ai/glm4.7", "", nvidia_key)
             if ok:
-                return resultado_nim
-        
+                return _postprocess_blueprint_body(resultado_nim, lang)
+
         if not resultado and or_key:
             try:
                 or_client = OpenAI(api_key=or_key, base_url="https://openrouter.ai/api/v1")
@@ -852,15 +873,16 @@ def escribir_blueprint(tutorial_data, lang="en"):
                 )
                 resultado = resp.choices[0].message.content.strip()
                 if resultado and len(resultado) > 200:
-                    return resultado
+                    return _postprocess_blueprint_body(resultado, lang)
             except Exception as e:
                 logging.warning(f"Llama-3.3-70B error en blueprint: {e}. Cayendo a Gemini...", exc_info=True)
-        
+
         # Fallback Gemini si fallan los anteriores
         resp = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
-        return resp.text.strip()
+        return _postprocess_blueprint_body(resp.text.strip(), lang)
     else:
-        return _call_en_engine(prompt)
+        raw = _call_en_engine(prompt)
+        return _postprocess_blueprint_body(raw, lang)
 
 def guardar_post(meta, contenido, lang, category, forced_image=None, translation_key=None):
     """Guarda el post con imagen validada y frontmatter blindado."""
@@ -918,50 +940,10 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
     clean_title = meta['titulo'].replace('"', '').replace('\\$', '$').replace('\\[', '[').replace('\\]', ']')
     clean_desc = clean_text.replace('\\$', '$').replace('\\[', '[').replace('\\]', ']')
     
-    # ── 1. PROGRAMMATIC METHODOLOGY INJECTION ──
-    vault_file = "data/scout_vault.json"
-    scout_urls = []
-    if os.path.exists(vault_file):
-        try:
-            with open(vault_file, "r", encoding="utf-8") as f:
-                vault_data = json.load(f)
-                scout_urls = vault_data.get(meta['slug'], [])
-        except Exception:
-            pass
-
-    methodology_block = ""
-    if scout_urls:
-        methodology_title = "## Metodología y fuentes" if lang == 'es' else "## Methodology and Sources"
-        methodology_block += f"\n\n{methodology_title}\n"
-        for u in scout_urls[:5]:  # Mantenemos las top 5
-            domain = urllib.parse.urlparse(u).netloc.replace("www.", "")
-            methodology_block += f"- [{domain}]({u})\n"
-
-    # ── 2. PROGRAMMATIC INTERNAL LINK INJECTION (CATEGORY SPECIFIC) ──
-    internal_links_footer = ""
-    pattern = f"content/{lang}/{category}/*.md"
-    files = sorted(glob.glob(pattern), key=os.path.getmtime, reverse=True)[:30]
-    candidates = []
-    for fpath in files:
-        cur_slug = os.path.basename(fpath).replace('.md', '')
-        if cur_slug != meta['slug'] and cur_slug != '_index':
-            candidates.append((cur_slug, fpath))
-    
-    sampled = random.sample(candidates, min(3, len(candidates)))
-    if sampled:
-        related_title = "## Artículos relacionados" if lang == 'es' else "## Related Articles"
-        internal_links_footer += f"\n\n{related_title}\n"
-        for cur_slug, fpath in sampled:
-            try:
-                with open(fpath, 'r', encoding='utf-8') as f:
-                    content_start = f.read(500)
-                m = re.search(r'^title:\s*"?([^"\n]+)"?', content_start, re.MULTILINE)
-                if m:
-                    f_title = m.group(1).strip().strip('"').strip("'")
-                    rel_path = f"/es/{category}/{cur_slug}/" if lang == "es" else f"/{category}/{cur_slug}/"
-                    internal_links_footer += f"- [{f_title}]({rel_path})\n"
-            except Exception:
-                pass
+    # ── FOOTER ESTÁNDAR: Metodología y Fuentes + Artículos relacionados ──
+    footer_block = generate_methodology_and_related_footer(
+        meta['slug'], lang, category, contenido
+    )
     
     # ── PROGRAMMATIC JSON-LD INJECTION ──
     # Extraer URLs de imagen absoluta (asumiendo novumworld.com)
@@ -1014,7 +996,7 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
 """ if category in ['crypto', 'funds', 'stocks'] else ""
 
     # Agregar Disclaimers, Cajas de Autor, Footer Links y JSON-LD al contenido en ORDEN ESTRATÉGICO
-    contenido_enrich = contenido.strip() + methodology_block + internal_links_footer + "\n\n" + yml_disclaimer.strip() + "\n" + author_box.strip() + "\n\n" + json_ld.strip()
+    contenido_enrich = contenido.strip() + footer_block + "\n\n" + yml_disclaimer.strip() + "\n" + author_box.strip() + "\n\n" + json_ld.strip()
 
     # Frontmatter YAML original
     front_matter = f"""---

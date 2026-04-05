@@ -13,9 +13,11 @@ logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 # Cargar variables de entorno (Prioridad .env)
 load_dotenv()
 
+sys.path.append(os.path.join(os.path.dirname(__file__), "scripts"))
+
 # Importar Módulos Propios
 import researcher
-import trend_hunter 
+import trend_hunter
 from niche_registry import NICHES
 
 COMPLETED_FILE = 'data/completed.txt'

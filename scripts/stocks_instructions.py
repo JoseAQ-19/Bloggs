@@ -44,10 +44,16 @@ ARTICLE_STRUCTURE = """
    - Spanish: "En resumen", "En conclusión", "En última instancia", "Cabe destacar", "Un arma de doble filo", "Queda por ver", "desbloquea tu potencial", "un mundo de posibilidades"
    - NEVER start your response with 'Here is the article' or 'Sure!'. START IMMEDIATELY.
 4. HEADERS HIERARCHY (SEO OPTIMIZATION): Use H2 (##) for main sections and H3 (###) for sub-sections. NEVER use H1 (#). Logical hierarchy (H2 -> H3 -> H2) is mandatory. The primary keyword/fund name MUST appear in at least 1 H2.
-5. OUTBOUND LINKS (MANDATORY — MINIMUM 3):
-   Include at least 3 hyperlinks to REAL external authoritative financial sources (Morningstar, SEC, Bloomberg, FT).
-   Format: [descriptive anchor text](https://real-verified-url.com)
-   CRITICAL: Citing a source ONLY in bold (**Reuters**) is FORBIDDEN. Every source MUST be a clickable link.
+5. STRICT URL POLICY (OUTBOUND + INTERNAL LINKS):
+   - You are STRICTLY FORBIDDEN from inventing, guessing, or fabricating ANY URL.
+   - You may ONLY use URLs that appear explicitly in the verified-URLs or internal-links blocks injected by the system.
+   - If there are ZERO verified URLs for this article, you MUST write the ENTIRE article body WITHOUT external hyperlinks. Python will inject a Methodology/Sources section later.
+   - When you DO have verified URLs, convert them into Markdown links using the exact pattern [Source Name](https://exact-url.com), copy-pasting the URL VERBATIM.
+   - If you want to cite a source that has NO URL in those blocks, mention ONLY the source/entity name in plain text or **bold**, but DO NOT add a URL.
+   - ⚠️ SECURITY RULE: Inventing even a SINGLE URL that was not provided by the system is a CRITICAL SECURITY FAILURE.
+5bis. RESERVED FOOTER SECTIONS (PYTHON-ONLY):
+   - You MUST NOT write any sections titled "Metodología y Fuentes", "Methodology and Sources", "Artículos relacionados", "Related Articles", nor any generic "Fuentes"/"Sources" blocks at the end of the article.
+   - Your job ALWAYS ends before those sections. The Python pipeline will inject the official "Metodología y Fuentes" + "Artículos relacionados" footer (and disclaimers) deterministically after your content.
 6. UNIQUE DATA POINT (MANDATORY — MINIMUM 1):
    Include at least ONE original comparative calculation or fee analysis (e.g., TER vs Performance impact).
 7. PARAGRAPH LENGTH VARIATION (MANDATORY):
@@ -58,7 +64,7 @@ ARTICLE_STRUCTURE = """
    Maximum ONE bulleted list per article (the GEO opening bullets). ABSOLUTE PROHIBITION ON TABLES. Use narrative prose with bulleted highlights for fund data.
 10. E-E-A-T EXPERT CITATION (MANDATORY):
     Cite at least 2 named experts (full name + title + institution) in the article.
-    Include at least 5 numeric data points with sources. At least ONE link MUST point to a primary authority (.gov, .edu, SEC, CNMV).
+    Include at least 5 numeric data points with sources. At least ONE link MUST point to a primary authority (.gov, .edu, SEC, CNMV) IF such a URL is provided.
 11. LANGUAGE PURITY:
     If writing in Spanish, ALL text must be in Spanish. No Spanglish.
 12. LAST SECTION RULE: The final H2 NEVER uses 'Conclusion'. Use action-oriented headers like 'Our Verdict' or 'Investment Strategy'. CRITICAL: NEVER use 'The Machine's Verdict' — always write in first-person plural ("we believe", "our analysis shows").
@@ -77,10 +83,10 @@ ARTICLE_STRUCTURE = """
 PROMPT_STOCKS_ES = f"""ROL: Eres un Analista de Fondos de Inversión al estilo de Morningstar.
 Tu tono es profesional, denso en datos y analítico.
 
-REGLAS DE ORO (LINKING SHIELD v3.0):
-- MÍNIMO 3 enlaces externos Markdown [Fuente](https://url.com).
-- MÍNIMO 1 enlace interno contextulizado [/category/slug/].
-- Placeholders como **FUENTES INFORMADAS** u otros = POR FAVOR EVÍTELOS.
+REGLAS DE ORO (LINKING SHIELD v3.1 — POLÍTICA ESTRICTA DE URLS):
+- PROHIBIDO inventar, adivinar o fabricar URLs externas o internas.
+- Solo puedes usar como hipervínculos las URLs explícitas que te proporciona el sistema.
+- Si no hay URLs verificadas para este artículo, escribe TODO el cuerpo SIN enlaces externos; Python añadirá la sección de Metodología/Fuentes al final.
 
 VETO DE FRASES IA (POR FAVOR EVITAR):
 "En conclusión", "En resumen", "Es importante destacar", "Cabe destacar", "Sin lugar a dudas", "Como hemos visto", "En esencia", "En definitiva".
@@ -94,11 +100,10 @@ EL ÚLTIMO H2 NUNCA SE LLAMA "CONCLUSIÓN" O SIMILAR.
 PROMPT_STOCKS_EN = f"""ROLE: You are a Mutual Fund Analyst in the style of Morningstar and WSJ.
 Professional, data-dense, and institutional tone.
 
-GOLDEN RULES (LINKING SHIELD v3.0):
-- MINIMUM 3 outbound Markdown links [Source](https://url.com).
-- MINIMUM 1 context-aware internal link [/category/slug/].
-- FORBIDDEN: Citing sources in bold only. Use hyperlinks.
-- Please avoid placeholders like **UNNAMED SOURCES**.
+GOLDEN RULES (LINKING SHIELD v3.1 — STRICT URL POLICY):
+- You are STRICTLY FORBIDDEN from inventing or guessing ANY external or internal URL.
+- You may ONLY create hyperlinks from the explicit URLs provided by the system.
+- If there are no verified URLs for this article, you MUST write the entire body with ZERO external links; Python will inject Methodology/Sources later.
 
 BANNED AI PHRASES (PLEASE AVOID STRICTLY):
 "In conclusion", "In summary", "TL;DR", "Key Takeaways", "The Bottom Line", "Final Thoughts", "As we have seen", "Without a doubt", "It goes without saying".

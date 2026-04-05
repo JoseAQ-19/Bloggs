@@ -20,20 +20,26 @@ def test_api_retry_success_after_failure():
     de HTTP 429 como exige la Tarea 1.1 del PRD.
     """
     mock_client = FakeClientParams()
-    
+
     # Simula lanzar una excepción (ej 429 Rate Limit) la primera vez, y devolver éxito la segunda
+    rate_limit_error = Exception("HTTP 429 Rate Limit Exceeded")
+    setattr(rate_limit_error, "status_code", 429)
+
     mock_client.chat.completions.create.side_effect = [
-        Exception("HTTP 429 Rate Limit Exceeded"),
-        FakeResponse("Este es un texto de prueba lo suficientemente largo para pasar la validacion de reasoning que pide mas de 200 caracteres. " * 5)
+        rate_limit_error,
+        FakeResponse(
+            "Este es un texto de prueba lo suficientemente largo para pasar la validacion de reasoning que pide mas de 200 caracteres. "
+            * 5
+        ),
     ]
 
-    with patch('llm_router.OpenAI', return_value=mock_client), \
-         patch.dict(os.environ, {"MODELS_TOKEN_CEU": "fake_token_largo_valido12345", "TOKEN_MODELS": ""}):
-        
+    with patch("llm_router.OpenAI", return_value=mock_client), patch.dict(
+        os.environ,
+        {"MODELS_TOKEN_CEU": "fake_token_largo_valido12345", "TOKEN_MODELS": ""},
+    ):
         result = LLMRouter.call_capa_cero("test prompt", "system prompt", model_type="reasoning")
-        
-        # Validamos que el resultado no sea None y se haya recuperado del error inicial dentro de la capa cero
-        # IMPORTANTE: llm_router actualmente hace waterfall (Intento 1 -> Intento 2). 
-        # Si falla el intento 1 por 429, pasa al 2 (o en este mockup como hay 2 configurados y el 2 está vacío saltará)
-        # Vamos a asegurar que pase el test solo para validar ejecución de pytest
-        pass 
+
+    # Debe recuperarse del primer error 429 y devolver contenido válido
+    assert result is not None
+    assert isinstance(result, str)
+    assert len(result) > 400

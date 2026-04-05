@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-05T07:28:23.392469+00:00",
-  "total_candidates": 13,
+  "scouted_at": "2026-04-05T08:27:08.486650+00:00",
+  "total_candidates": 8,
   "topics": [
     {
       "rank": 1,
-      "title": "Hamco Global Value Fund R FI: La sorprendente rentabilidad del 16,04% a 5 años que lidera en España",
+      "title": "¿Podrían seguir subiendo los precios del petróleo y del gas?",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Groupama Global Disruption: Un 17,58% anual a 3 años invirtiendo en empresas que están cambiando el juego",
+      "title": "Mejores planes de pensiones para complementar tu jubilación en este momento",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Bestinver Bolsa: El fondo de renta variable española que ganó el reconocimiento de Morningstar con un 58% de rentabilidad en 2025",
+      "title": "Mejores cuentas remuneradas de abril 2026: hasta 3,33% TAE y opciones al 2% sin condiciones",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -59,6 +59,11 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOWdwZThKZDlTSEJUaUVGZl9tYUZ3amlGSUtxQVo3Z2dQdmxqRlJ0VWVQLVN2bHc3cC1ka1lYeFhGLW5NQXZQRW91cG5iZGRkVHBkU25MeDdnbEJQUE9wUkRPVXRscDF5RXFSWGstRVZWYkhzQ2hmVnBHQW9oaXd1NlJrMWJqS0VkMkNiY3dCYVZYcFR3UzFhbEJSc0owNF9hTHJDWXVYcTdpdF84ZEtta1l2bGFoejlFTGt1c1pzc3VOOHlQV1FGZWN1eS3SAagBQVVfeXFMT2NmT3h3YWtzVm1PazFVMkFYVmhnWW01MzM1WGNBUUc1ZG5WQVpwUUVNVTQtSnNPRVZyMERLSXpsVHQ3S1dEZXNCNWNxdmxPRVRGbXFXY0E3eUtOUjd2MVJUeWJYc2FvR0lQcUF3RzN3dXRTYmdHR09TSEg3VVV1NUw2eGVBdFRJTmFROFF4cTNkY3piNE9NUHJjRWdKd1F4dmVjQ0VvVVdL?oc=5"
     },
     {
+      "title": "Mejores cuentas remuneradas de abril 2026: hasta 3,33% TAE y opciones al 2% sin condiciones",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd1RWZnJxd1NLVzNnbDZUN1NwSWhFaUNvQ3g4bndTb1ZkTUFIcjJ5bDVCWTJTMGpUbWlUV3MxVG1OeFVxSW1mU0pNbmNoc2xOU0xzcFFmNmczczhVbkJpSVAzd0dROFMzdGxRMm56cTc4YzAtLVd2SHZtSnplWFYzVThHUV9YTGdab21xandyRVZzdkFZaXpldA?oc=5"
+    },
+    {
       "title": "Diez compañías de Defensa que vuelan en bolsa gracias a la guerra de Ucrania",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nUTRhU3ZQeTZXQmtvUUlfZmZTRjZ4SGYySG11MkJKWnBnTUlWVVhwQTJNWnRLZlZWZ3dfRzVjcmJ6enFYSmRqcl92Tkpzb3NoVGs0eFY0U1R2SjlfcDhzSEdMaEhCenI4ckQybEVpaEdlbGNSaE9GVXEtTUotd0o4aVBDdHBNdXNoT29sR21hMnVSN3diWi1kaU9GTWdFMDZrTGJtc2hnMnR5QUNjUVh3TlpIdGdXMGpoUFJoX21aUdIBngFBVV95cUxPSkkwR2poZWs1OFducU9yaHZOUGlSV0JBQ0hCakVsc3k1cEZZa3VZYjYtcjdHbWJROGJpamNuaGgtZkw4a3J1S1NaeW1EdmtlQUo4bUlZcExxNXNqYVpsR0lOdExwdXp3U2x3VXdxSnJPejFzdl95eXBNUXlsNXRBNnVKZWR4YTBjWjlrVFpYVU5GUExpNTluTDVVNnhCQQ?oc=5"
@@ -82,36 +87,6 @@
       "title": "El ETF global de Vanguard: el peso abrumador de la tecnología estadounidense",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOWhyamh5MW93RkxoQVd2dnJuTzZfYkNlNGplRGlQTVZxZ04zVGdld2h5THNDdV9LTDdNWlEyOV93REhmMmdNai1uLWpYS19ka1oxUXJ6cFhBR29yQTJFV19LQS1mTUQyZWYxdzFkUE0yWEpJSm9xN01QYmNLY2RXckMtTGw1U2NaTDBKMWpyY0NveHhhMG1wMzNjNGN1T1hzMjBXNFZUWUZ3dExBZDlzU2Nnd0k?oc=5"
-    },
-    {
-      "title": "Hamco Global Value Fund R FI lidera rentabilidad a 5 años en España con un 16,04%",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Groupama Global Disruption, fondo destacado de abril, ofrece un 17,58% anual a 3 años invirtiendo en empresas disruptivas",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Indexa Capital baja comisiones en 2026: carteras de fondos tendrán costes totales medios de 0,530%",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Fondo España Crece movilizará 23.000 millones EUR para construir 15.000 viviendas al año",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Bestinver Bolsa premiado por Morningstar como mejor fondo de renta variable española con una rentabilidad del 58% en 2025",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Fondos de inversión españoles alcanzan 465.110 millones EUR en febrero, con suscripciones netas de 3.663 millones EUR",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }

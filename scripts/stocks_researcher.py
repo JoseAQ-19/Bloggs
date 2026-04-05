@@ -15,6 +15,7 @@ import json
 import time
 import logging
 import requests
+import sys
 from datetime import datetime, timedelta
 
 try:
@@ -24,6 +25,13 @@ except ImportError:
     logging.warning("BeautifulSoup no instalado. pip install beautifulsoup4")
 
 from stocks_instructions import COMPETITORS
+
+# Configurar stdout/stderr para UTF-8 en Windows y evitar errores de "charmap"
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
 
 # Configuración
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
