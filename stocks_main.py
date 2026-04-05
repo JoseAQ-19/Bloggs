@@ -83,9 +83,9 @@ def _ensure_directories():
     os.makedirs(CONTENT_DIR_ES, exist_ok=True)
     os.makedirs(CONTENT_DIR_EN, exist_ok=True)
     os.makedirs("data", exist_ok=True)
-    print(f"   📁 Directorios verificados:")
-    print(f"      ✅ {CONTENT_DIR_ES}")
-    print(f"      ✅ {CONTENT_DIR_EN}")
+    print("   Directorios verificados:")
+    print(f"      OK {CONTENT_DIR_ES}")
+    print(f"      OK {CONTENT_DIR_EN}")
 
 
 def _create_index_files():
@@ -107,7 +107,7 @@ description: "Professional analysis of mutual funds, ETFs, and financial markets
 """
             with open(index_path, 'w', encoding='utf-8') as f:
                 f.write(index_content)
-            print(f"   📄 Creado: {index_path}")
+            print(f"   Creado: {index_path}")
 
 
 def _generate_translation_key(title):
@@ -298,7 +298,7 @@ translationKey: "{trans_key}"
         yaml_content = front_matter.strip().strip('-').strip()
         yaml.safe_load(yaml_content)
     except yaml.YAMLError as e:
-        print(f"   🚨 [YAML ERROR] Se detectó bloque corrupto: {e}. Auto-regenerando seguro...")
+        print(f"   [YAML ERROR] Se detectó bloque corrupto: {e}. Auto-regenerando seguro...")
         safe_meta = {
             "title": clean_title,
             "date": date_str,
@@ -325,8 +325,8 @@ translationKey: "{trans_key}"
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(final_content)
     
-    print(f"   ✅ Guardado: {filepath}")
-    print(f"   🔑 Translation Key: {trans_key}")
+    print(f"   Guardado: {filepath}")
+    print(f"   Translation Key: {trans_key}")
     
     # Notificar a Google Indexing API
     if HAS_INDEXING:
@@ -363,9 +363,9 @@ def _guardar_fuentes(slug, sources, lang="es"):
         data[slug] = sources
         with open(file_path, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=4)
-        print(f"   📦 [Link Deposit] {len(sources)} fuentes guardadas para {slug} [{lang}]")
+        print(f"   [Link Deposit] {len(sources)} fuentes guardadas para {slug} [{lang}]")
     except Exception as e:
-        print(f"   ⚠️ [Link Deposit] Error: {e}")
+        print(f"   [Link Deposit] Error: {e}")
 
 
 # ============================================================
@@ -380,7 +380,7 @@ def run_pipeline(lang=None):
         lang: 'es', 'en', o None (ambos idiomas)
     """
     print("\n" + "=" * 70)
-    print("💰 STOCKS/FUNDS PIPELINE — Orquestador Independiente")
+    print("STOCKS/FUNDS PIPELINE — Orquestador Independiente")
     print(f"   Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"   Idioma: {lang.upper() if lang else 'AMBOS (ES + EN)'}")
     print("=" * 70)
@@ -394,23 +394,23 @@ def run_pipeline(lang=None):
     results = []
 
     for current_lang in languages:
-        print(f"\n{'─' * 50}")
-        print(f"🌐 PROCESANDO: {current_lang.upper()}")
-        print(f"{'─' * 50}")
+        print(f"\n{'-' * 50}")
+        print(f"PROCESANDO: {current_lang.upper()}")
+        print(f"{'-' * 50}")
 
         # === FASE 1: SCOUT ===
-        print(f"\n   🔭 [FASE 1] Ejecutando Scout Financiero ({current_lang.upper()})...")
+        print(f"\n   [FASE 1] Ejecutando Scout Financiero ({current_lang.upper()})...")
         try:
             scout_data = scout_funds(lang=current_lang)
         except Exception as e:
-            print(f"   ❌ [Scout] Error fatal: {e}")
+            print(f"   [Scout] Error fatal: {e}")
             if os.environ.get("GITHUB_ACTIONS") == "true":
-                print("   🛑 Ejecución en GitHub Actions. EXIT 1.")
+                print("   Ejecución en GitHub Actions. EXIT 1.")
                 sys.exit(1)
             continue
 
         if not scout_data or not scout_data.get("topics"):
-            print(f"   ⚠️ [Scout] No se encontraron temas para {current_lang.upper()}. Saltando...")
+            print(f"   [Scout] No se encontraron temas para {current_lang.upper()}. Saltando...")
             continue
 
         # === FASE 1.5: NOTEBOOKLM DEEP RESEARCH (NEW) ===
@@ -418,7 +418,7 @@ def run_pipeline(lang=None):
         notebook_urls = []
         if HAS_NOTEBOOK_MCP:
             topic_title = scout_data["topics"][0]["title"]
-            print(f"\n   🧠 [FASE 1.5] NotebookLM Deep Research: '{topic_title[:60]}...'")
+            print(f"\n   [FASE 1.5] NotebookLM Deep Research: '{topic_title[:60]}...'")
             mcp_client = NotebookMCPClient()
             try:
                 if mcp_client.connect():
@@ -471,9 +471,9 @@ def run_pipeline(lang=None):
                                                     if url and url.startswith("http"):
                                                         notebook_urls.append(url)
                                             break
-                                print(f"   ✅ Research query completada: '{q[:50]}...'")
+                                print(f"   Research query completada: '{q[:50]}...'")
                             except Exception as qe:
-                                print(f"   ⚠️ Research query error: {qe}")
+                                print(f"   Research query error: {qe}")
                         
                         # Extract E-E-A-T financial report
                         eeat_prompt = f"""Provide a comprehensive investment research report on: {topic_title}
@@ -495,9 +495,9 @@ Be specific. Include real numbers, names, and dates. No vague statements."""
                             if query_result and isinstance(query_result, dict):
                                 notebook_research = query_result.get("answer", "") or query_result.get("text", "")
                                 if notebook_research:
-                                    print(f"   ✅ [NotebookLM] E-E-A-T report: {len(notebook_research)} chars")
+                                     print(f"   [NotebookLM] E-E-A-T report: {len(notebook_research)} chars")
                         except Exception as qe:
-                            print(f"   ⚠️ [NotebookLM] Query error: {qe}")
+                             print(f"   [NotebookLM] Query error: {qe}")
                         
                         # Cleanup: delete temporary notebook
                         try:
@@ -505,43 +505,43 @@ Be specific. Include real numbers, names, and dates. No vague statements."""
                                 "notebook_id": notebook_id,
                                 "confirm": True
                             })
-                            print(f"   🗑️ Notebook temporal eliminado")
+                            print(f"   Notebook temporal eliminado")
                         except Exception:
                             pass
                     else:
-                        print(f"   ⚠️ [NotebookLM] No se pudo crear notebook")
+                        print(f"   [NotebookLM] No se pudo crear notebook")
                 else:
-                    print(f"   ⚠️ [NotebookLM] Sin auth o binario. Saltando Capa 1.")
+                    print(f"   [NotebookLM] Sin auth o binario. Saltando Capa 1.")
             except Exception as e:
-                print(f"   ⚠️ [NotebookLM] Error: {e}. Continuando sin Capa 1.")
+                print(f"   [NotebookLM] Error: {e}. Continuando sin Capa 1.")
             finally:
                 try:
                     mcp_client.close()
                 except Exception:
                     pass
         else:
-            print(f"   ℹ️ [NotebookLM] No disponible. Usando solo datos del Scout.")
+            print(f"   [NotebookLM] No disponible. Usando solo datos del Scout.")
         
         # Enrich scout_data with NotebookLM research
         if notebook_research:
             scout_data["notebooklm_research"] = notebook_research
             scout_data["verified_urls"] = notebook_urls
-            print(f"   📊 Scout enriquecido con {len(notebook_research)} chars de NotebookLM + {len(notebook_urls)} URLs")
+            print(f"   Scout enriquecido con {len(notebook_research)} chars de NotebookLM + {len(notebook_urls)} URLs")
 
         # === FASE 2: WRITER ===
-        print(f"\n   ✍️ [FASE 2] Ejecutando Writer Financiero ({current_lang.upper()})...")
+        print(f"\n   [FASE 2] Ejecutando Writer Financiero ({current_lang.upper()})...")
         try:
             writer_output = write_fund_article(scout_data, lang=current_lang)
         except Exception as e:
-            print(f"   ❌ [Writer] Error fatal: {e}")
+            print(f"   [Writer] Error fatal: {e}")
             continue
 
         if not writer_output:
-            print(f"   ⚠️ [Writer] No se generó artículo para {current_lang.upper()}.")
+            print(f"   [Writer] No se generó artículo para {current_lang.upper()}.")
             continue
 
         # === FASE 3: GUARDAR ===
-        print(f"\n   💾 [FASE 3] Guardando artículo ({current_lang.upper()})...")
+        print(f"\n   [FASE 3] Guardando artículo ({current_lang.upper()})...")
         
         # Guardar Link Deposit
         if "verified_urls" in scout_data and scout_data["verified_urls"]:
@@ -559,23 +559,23 @@ Be specific. Include real numbers, names, and dates. No vague statements."""
                 "word_count": writer_output["word_count"],
                 "disclaimer": writer_output["disclaimer_injected"]
             })
-            print(f"\n   🎉 [{current_lang.upper()}] ¡Artículo publicado exitosamente!")
+            print(f"\n   [{current_lang.upper()}] ¡Artículo publicado exitosamente!")
         else:
-            print(f"   ❌ [{current_lang.upper()}] Error guardando el artículo.")
+            print(f"   Error guardando el artículo para {current_lang.upper()}.")
 
     # === RESUMEN FINAL ===
     print(f"\n{'=' * 70}")
-    print("📋 RESUMEN DE EJECUCIÓN")
+    print("RESUMEN DE EJECUCIÓN")
     print(f"{'=' * 70}")
     
     if results:
-        for r in results:
-            disclaimer_status = "✅ Disclaimer inyectado" if r["disclaimer"] else "❌ SIN DISCLAIMER"
-            print(f"   [{r['lang'].upper()}] {r['title']}")
-            print(f"         📄 {r['filepath']}")
-            print(f"         📊 {r['word_count']} palabras | {disclaimer_status}")
+         for r in results:
+             disclaimer_status = "Disclaimer inyectado" if r["disclaimer"] else "SIN DISCLAIMER"
+             print(f"   [{r['lang'].upper()}] {r['title']}")
+             print(f"         {r['filepath']}")
+             print(f"         {r['word_count']} palabras | {disclaimer_status}")
     else:
-        print("   ⚠️ No se generaron artículos en esta ejecución.")
+         print("   No se generaron artículos en esta ejecución.")
     
     print(f"\n{'=' * 70}")
     return results

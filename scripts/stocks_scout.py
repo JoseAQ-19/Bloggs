@@ -59,7 +59,7 @@ def _stocks_llm_generate_v3_core(prompt, system_prompt):
         backoff_seconds = [10, 25, 60]
         for attempt in range(max_retries):
             try:
-                print(f"   🧠 [Stocks Scout] TIER 1: OpenRouter...")
+                print("   [Stocks Scout] TIER 1: OpenRouter...")
                 headers = {"Authorization": f"Bearer {OPENROUTER_SCOUT_KEY}", "Content-Type": "application/json"}
                 payload = {"model": "meta-llama/llama-4-scout:free", "messages": [{"role": "user", "content": prompt}], "temperature": 0.7, "max_tokens": 2048}
                 resp = requests.post("https://openrouter.ai/api/v1/chat/completions", headers=headers, json=payload, timeout=90)
@@ -72,7 +72,7 @@ def _stocks_llm_generate_v3_core(prompt, system_prompt):
     # ── [2] HF Serverless ──
     if HF_SCOUT_KEY:
         try:
-            print(f"   🧠 [Stocks Scout] TIER 2: HF Serverless...")
+            print("   [Stocks Scout] TIER 2: HF Serverless...")
             resp = requests.post("https://router.huggingface.co/models/Qwen/Qwen3-32B/v1/chat/completions", headers={"Authorization": f"Bearer {HF_SCOUT_KEY}", "Content-Type": "application/json"}, json={"model": "Qwen/Qwen3-32B", "messages": [{"role": "user", "content": prompt}], "temperature": 0.7, "max_tokens": 2048}, timeout=120)
             if resp.status_code == 200: return resp.json()["choices"][0]["message"]["content"].strip()
         except Exception as e:
@@ -90,7 +90,7 @@ def _stocks_llm_generate_v3_core(prompt, system_prompt):
     # ── [4] GEMINI ──
     if gemini_client:
         try:
-            print("   🚨 [Stocks Scout] TIER 4: Gemini 2.0 Flash...")
+            print("   [Stocks Scout] TIER 4: Gemini 2.0 Flash...")
             resp = gemini_client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
             return resp.text.strip()
         except Exception as e:
@@ -149,7 +149,7 @@ def fetch_financial_news(lang="es", limit=8):
 
             print(f"   📰 [Finance News/{lang.upper()}] {len(headlines)} titulares: '{query[:40]}...'")
         except Exception as e:
-            print(f"   ⚠️ [Finance News] Error: {e}")
+            print(f"   [Finance News] Error: {e}")
 
     return headlines
 
@@ -175,7 +175,7 @@ def fetch_competitor_rss(lang="es", limit=5):
             }, timeout=10)
 
             if resp.status_code != 200:
-                print(f"   ⚠️ [{comp_info['name']}] RSS HTTP {resp.status_code}")
+                print(f"   [RSS] [{comp_info['name']}] HTTP {resp.status_code}")
                 continue
 
             root = ET.fromstring(resp.content)
@@ -197,7 +197,7 @@ def fetch_competitor_rss(lang="es", limit=5):
 
             print(f"   📡 [{comp_info['name']}] {len(items)} artículos RSS")
         except Exception as e:
-            print(f"   ⚠️ [{comp_info['name']}] RSS Error: {e}")
+            print(f"   [RSS] [{comp_info['name']}] Error: {e}")
 
     return headlines
 
@@ -270,7 +270,7 @@ RULES: Each headline MUST contain a specific fund name, ticker, percentage, or f
 
             print(f"   🌐 [Grounding Finance/{lang.upper()}] {len(headlines)} titulares en tiempo real")
     except Exception as e:
-        print(f"   ⚠️ [Grounding Finance] Error: {e}")
+        print(f"   [Grounding Finance] Error: {e}")
 
     return headlines
 
@@ -328,7 +328,7 @@ OUTPUT ONLY THESE {count} LINES. Nothing else."""
                     })
 
         if selected:
-            print(f"   🏆 [Finance Selector] {len(selected)} temas seleccionados")
+            print(f"   [Finance Selector] {len(selected)} temas seleccionados")
             return selected[:count]
 
     # Fallback
@@ -347,7 +347,7 @@ def scout_funds(lang="es"):
         dict con el contenido base, análisis de competidores y frases clave.
     """
     print(f"\n{'=' * 60}")
-    print(f"🔭 STOCKS SCOUT — Fondos de Inversión | Idioma: {lang.upper()}")
+    print(f"STOCKS SCOUT — Fondos de Inversion | Idioma: {lang.upper()}")
     print(f"{'=' * 60}\n")
 
     all_headlines = []
@@ -364,7 +364,7 @@ def scout_funds(lang="es"):
     grounding_headlines = fetch_financial_grounding(lang=lang)
     all_headlines.extend(grounding_headlines)
 
-    print(f"\n   📊 TOTAL: {len(all_headlines)} titulares financieros recopilados [{lang.upper()}]")
+    print(f"\n   TOTAL: {len(all_headlines)} titulares financieros recopilados [{lang.upper()}]")
 
     # === SELECCIÓN LLM ===
     best_topics = select_best_financial_topics(all_headlines, lang=lang, count=3)
@@ -372,7 +372,7 @@ def scout_funds(lang="es"):
     # === ANÁLISIS DE COMPETIDORES (cached) ===
     competitor_analysis = get_cached_analysis()
     if not competitor_analysis:
-        print("   🔬 Ejecutando análisis de competidores fresco...")
+        print("   Ejecutando análisis de competidores fresco...")
         competitor_analysis = analyze_all_competitors()
 
     # Extraer frases clave del mercado relevante
@@ -420,7 +420,7 @@ def scout_funds(lang="es"):
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(scout_output, f, ensure_ascii=False, indent=2)
 
-    print(f"\n   ✅ Guardado: {output_path}")
+    print(f"\n   Guardado: {output_path}")
     print(f"   📋 Temas seleccionados:")
     for t in scout_output["topics"]:
         print(f"      #{t['rank']} [{t['lang'].upper()}] {t['title']}")

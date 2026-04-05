@@ -103,16 +103,35 @@ def _call_writer_engine_v3_core(prompt_text: str, lang: str = "en") -> Optional[
             except Exception as e:
                 logging.warning(f"[Stocks Writer EN] TIER 2 Groq failed: {type(e).__name__}: {str(e)[:150]}")
 
-    # TIER 3: NVIDIA Fallback
+    # TIER 3: NVIDIA NIM (GLM-4.7) — alineado con orquestator
     nvidia_key = os.getenv("NVIDIA_API_KEY")
     if nvidia_key:
         try:
-            nvidia_client = OpenAI(api_key=nvidia_key, base_url="https://integrate.api.nvidia.com/v1")
-            resp = nvidia_client.chat.completions.create(model="meta/llama-3.1-70b-instruct", messages=[{"role": "user", "content": prompt_text}])
+            nvidia_client = OpenAI(
+                api_key=nvidia_key,
+                base_url="https://integrate.api.nvidia.com/v1",
+            )
+            calibration = (
+                "\n\n[SYSTEM CALIBRATION: GLM-NIM]: You are a GLM analytical financial model "
+                "hosted on NVIDIA NIM. Prioritize factual accuracy, clear structure and natural "
+                "financial journalism tone."
+            )
+            extra_body = {"chat_template_kwargs": {"enable_thinking": True, "clear_thinking": False}}
+            resp = nvidia_client.chat.completions.create(
+                model="z-ai/glm4.7",
+                messages=[{"role": "user", "content": prompt_text + calibration}],
+                temperature=1,
+                top_p=1,
+                max_tokens=16384,
+                extra_body=extra_body,
+            )
             res = resp.choices[0].message.content.strip()
-            if res and len(res) > 500: return res
+            if res and len(res) > 500:
+                return res
         except Exception as e:
-            logging.warning(f"[Stocks Writer] TIER 3 NVIDIA Llama-3.1-70B failed: {type(e).__name__}: {str(e)[:150]}")
+            logging.warning(
+                f"[Stocks Writer] TIER 3 NVIDIA GLM-4.7 failed: {type(e).__name__}: {str(e)[:150]}"
+            )
 
     # TIER 4: Gemini 
     if gemini_client:
