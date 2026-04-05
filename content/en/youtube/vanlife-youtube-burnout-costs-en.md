@@ -17,6 +17,7 @@ title: 'Vanlife Apocalypse: Why YouTube''s Freedom Costs 3.7 Million Kids Their 
 translationKey: 80d360f8-27c4-883e-7860-2094725a8e34
 type: youtube
 ---
+
 ## Executive Summary
 * ![Vanlife Apocalypse: Why YouTube's Freedom Costs 3.7 Million Kids Their Future](/images/vanlife-youtube-burnout-costs-en.jpg)
 
@@ -27,6 +28,10 @@ YouTube glorifies vanlife freedom while sacrificing 3.7 million kids' futures.
 * Only 67% of homeschooled students complete college, compared to 39% for those who never attended traditional school, per Cross River Therapy. 
 * Public schools spend $17,280 per student annually; homeschooling costs $500-$2,500, creating a $56 billion taxpayer savings bubble. 
 * Vanlife burnout rates surge by 40% after 18 months due to isolation and inconsistent routines, according to Nomadic News. 
+
+
+
+{{< adsterra_native >}}
 
 ## Vanlife is the New American Dream, but Unschooling Could Leave a Generation Behind 
 YouTube's algorithm promotes vanlife content at a blistering pace. Millions of videos showcase families abandoning homes for converted vans, often paired with homeschooling or unschooling claims. This content generates massive engagement. MrBeast's channel, for instance, pulls in $10 million monthly from ad revenue alone based on his $12.50 RPM across 800 million views. Yet the real business model behind vanlife peddles an untested educational philosophy. 

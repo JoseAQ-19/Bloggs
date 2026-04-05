@@ -17,6 +17,7 @@ title: 'Harvard Abandona Bitcoin: Apuesta 86 Millones Por Ethereum y Desata la L
 translationKey: 4e0d381a-22d3-749e-7bdc-a5b9cfad4cce
 type: crypto
 ---
+
 ## Resumen Ejecutivo
 
 - **Decisión de Harvard:** La universidad ha reducido su inversión en Bitcoin en $72 millones y ha apostado $86.8 millones en Ethereum.
@@ -24,6 +25,10 @@ type: crypto
 - **Regulación MiCA:** La normativa europea busca asegurar el mercado cripto, aunque su eficacia es cuestionable, ofreciendo solo protección parcial a los inversores.
 - **Desafíos de Ethereum:** La escalabilidad y las altas tarifas de gas son factores críticos que limitan su adopción masiva.
 - **Impacto general:** La decisión de Harvard podría influir en las estrategias de inversión de otros actores institucionales, acelerando el cambio hacia criptomonedas alternativas.
+
+
+
+{{< adsterra_native >}}
 
 ## Harvard Abandona Bitcoin: Apuesta 86 Millones por Ethereum y Desata la Locura
 

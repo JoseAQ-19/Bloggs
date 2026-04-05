@@ -17,6 +17,7 @@ title: 'Aave Liquidation Cascade: Oracle Misconfiguration and the MEV Economy'
 translationKey: ede076ec-6d70-eee5-fcc7-94ae5bdc5a1c
 type: crypto
 ---
+
 ## Executive Summary
 
 - A data desynchronization in Aave's CAPO risk oracle triggered a cascade of wstETH liquidations valued at approximately $27 million, resulting in a net loss of 345 ETH for affected borrowers.
@@ -24,6 +25,10 @@ type: crypto
 - The incident underscores the critical reliance of DeFi protocols on external oracle systems and the vulnerability of 'Efficiency Mode' (E-Mode) to technical configuration failures.
 - Aave did not incur bad debt, but the event has intensified scrutiny on risk management firms such as Chaos Labs and Gauntlet within the governance ecosystem.
 - Macroeconomic analysis suggests that the increasing correlation between Liquid Staking Tokens (LST) and underlying assets creates a false sense of security that liquidation algorithms are not equipped to manage during technical failures.
+
+
+
+{{< adsterra_native >}}
 
 ## The Macroeconomic Context: Risk Asset Volatility and the Liquidity Mirage
 

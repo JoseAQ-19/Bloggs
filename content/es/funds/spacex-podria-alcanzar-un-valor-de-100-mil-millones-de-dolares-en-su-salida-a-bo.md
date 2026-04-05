@@ -18,6 +18,7 @@ title: SpaceX podría alcanzar un valor de 100 mil millones de dólares en su sa
 translationKey: 457e0633-b944-a829-b3be-5a472bb8e798
 type: funds
 ---
+
 ## Resumen Ejecutivo
 * ![SpaceX podría alcanzar un valor de 100 mil millones de dólares en su salida a bolsa](/images/spacex-podria-alcanzar-un-valor-de-100-mil-millones-de-dolares-en-su-salida-a-bo.jpg)
 
@@ -30,6 +31,10 @@ El valor de SpaceX podría alcanzar los 100 mil millones de dólares en su salid
 * [Impacto de la salida a bolsa de SpaceX en el sector tecnológico — FT](https://news.google.com/rss/articles/CBMioAFBVV95cUxQNlNGWXRqbVV1LXdmVEJLMUJ6a3hHaUYyYm44Ykk2emdHLUlyZEZxaUNEZHc0eGFqM1hDbzJGM3RnWGZ3eF9XaERicDJYLV9rVTg5ckZFMDV5T0k1eWdfUDd1UG1XZkx4ZlVkVzJicklpYlV2SFFtVHExWnREdW1qTXhVa2ZpUkFmcWhuUmczVDN5VGxybEhUMDhmRVdZV1Ix0gGgAUFVX3lxTFA2U0ZZdGptVXUtd2ZUQksxQnpreEdpRjJibjhiSTZ6Z0ctSXJkRnFpQ0RkdzR4YWozWENvMkYzdGdYZnd4X1doRGJwMlgtX2tVODlyRkUwNXlPSTV5Z19QN3VQbVdmTHhmVWRXMmJySWliVXZIUW1UcTFadER1bWpNeFVrZmlSQWZxaG5SZzNUM3lUbHJsSFQwOGZFV1lXUjE?oc=5)
 
 La proyección de SpaceX está respaldada por datos financieros sólidos y el continuo interés de los inversores, a pesar de la volatilidad reciente en los mercados. La compañía ha mostrado un crecimiento exponencial en sus ingresos, con un aumento proyectado del 50% en comparación con el año anterior, impulsado por contratos gubernamentales y colaboraciones con empresas privadas. Este crecimiento es crucial, ya que el mercado de lanzamiento de satélites se espera que alcance los 400 mil millones de dólares para 2030, según el informe de [Morgan Stanley](https://www.morganstanley.com).
+
+
+
+{{< adsterra_native >}}
 
 ## Análisis Comparativo de Fondos
 

@@ -17,6 +17,7 @@ title: 'Worldcoin Escaneó a 360.000 Españoles: La AEPD Reacciona Tarde'
 translationKey: 2b7acf08-7ee0-d28f-4a37-ffcbb5920ae9
 type: crypto
 ---
+
 ## Resumen Ejecutivo
 * ![Worldcoin Escaneó a 360.000 Españoles: La AEPD Reacciona Tarde](/images/bitcoin-vancouver-adios-criptomonedas.jpg)
 
@@ -27,6 +28,10 @@ La privacidad es un bien que se vende caro, especialmente cuando se trata de dat
 * Worldcoin escaneó los iris de más de 360,000 personas en España antes de que la Agencia Española de Protección de Datos (AEPD) interviniera.
 * Los expertos predicen un precio promedio de Bitcoin de 77,636 dólares para finales de 2024, según la encuesta de Finder.
 * Los inversores españoles en criptomonedas enfrentan incertidumbre, ya que los aumentos de impuestos propuestos, que podrían alcanzar el 47%, podrían incentivarlos a mudarse fuera de España.
+
+
+
+{{< adsterra_native >}}
 
 ## Worldcoin vs. AEPD: La Batalla por los Datos Personales en España
 

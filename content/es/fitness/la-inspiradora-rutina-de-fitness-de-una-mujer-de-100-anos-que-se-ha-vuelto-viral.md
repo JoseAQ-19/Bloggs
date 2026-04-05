@@ -19,6 +19,7 @@ title: 'La Mujer de 100 Años Que Rompió Récords: Su Rutina de Fitness Inspira
 translationKey: 44337bfa-3c1a-d412-f951-c1f87e05a9b3
 type: fitness
 ---
+
 ![La Mujer de 100 Años Que Rompió Récords: Su Rutina de Fitness Inspira al Mundo](/images/la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral.jpg)
 
 ---
@@ -37,6 +38,10 @@ Emma Mazzenga ha capturado la atención del mundo del atletismo no solo por su a
 Mazzenga ha desafiado las nociones convencionales sobre la vejez y ha demostrado que la actividad física puede ser un componente crucial para vivir una vida larga y saludable. Según un informe del **Complejo Hospitalario de Toledo**, la sarcopenia afecta al 25% de la población mayor de 70 años, lo que resalta la necesidad de una mayor conciencia sobre la salud muscular en la vejez. 
 
 La historia de Emma también pone de relieve la importancia de la comunidad y el apoyo social en la longevidad activa. Su participación en competiciones no solo le proporciona un objetivo, sino que también la conecta con otros atletas, fomentando un sentido de pertenencia y motivación.
+
+
+
+{{< adsterra_native >}}
 
 ## La Realidad de la Sarcopenia: Un Reto para los Mayores
 

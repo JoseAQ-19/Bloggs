@@ -18,6 +18,7 @@ title: RTX 5090 Required? DLSS 5's Dirty Little Secret NVIDIA Doesn't Want You T
 translationKey: 3586a9d8-a573-915e-a5a7-1180a4612f32
 type: ia
 ---
+
 ## Executive Summary
 * ![RTX 5090 Required? DLSS 5's Dirty Little Secret NVIDIA Doesn't Want You To Know](/images/nvidia-dlss-5-ai-graphics-leap-or-hype-en.jpg)
 
@@ -28,6 +29,10 @@ NVIDIA wants you to believe DLSS 5 runs on a single RTX 50 series GPU, but their
 * DLSS 5's demanding architecture, initially demoed with dual RTX 5090 GPUs, raises questions about whether a single card will truly suffice, despite NVIDIA's claims.
 * Nearly half of PC gamers preferred NVIDIA's DLSS 4.5 to AMD's FSR and even native rendering, highlighting the pressure on DLSS 5 to maintain this level of performance and user satisfaction.
 * If DLSS 5 requires the RTX 5090 for optimal performance, it risks creating a high barrier to entry for gamers and exacerbating the AI-driven memory shortage impacting GPU prices, limiting its accessibility.
+
+
+
+{{< adsterra_native >}}
 
 ## The $2,000 Question: Will RTX 5090 Be Mandatory for DLSS 5?
 

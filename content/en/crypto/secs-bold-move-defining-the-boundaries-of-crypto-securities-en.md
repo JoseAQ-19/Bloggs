@@ -17,12 +17,17 @@ title: 'SEC''s Brutal Shift: 60% Drop in Crypto Enforcement Actions Ignites Cont
 translationKey: f5576e6e-1aa5-14cb-b258-2f419eb841eb
 type: crypto
 ---
+
 ## Executive Summary
 - **60% Drop in Enforcement Actions:** The SEC initiated only 13 cryptocurrency enforcement actions in 2025, a significant decrease from 33 in 2024.
 - **Regulatory Vacuum Created:** This decline has led to increased activity in decentralized finance (DeFi) projects, which now operate in a less regulated environment.
 - **Staking Market Boom:** The global staking market exceeded $245 billion in late 2025, with 34.4% of all crypto assets involved in staking protocols.
 - **DeFi Growth:** Total Value Locked (TVL) in DeFi protocols surged to $170 billion by October 2025, marking a 57% increase since April.
 - **Outdated Regulatory Framework:** The SEC's reliance on the Howey Test raises questions about its applicability to modern DeFi protocols.
+
+
+
+{{< adsterra_native >}}
 
 ## The SEC's 60% Drop: A Shift in Regulatory Strategy
 

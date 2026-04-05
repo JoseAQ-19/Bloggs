@@ -18,6 +18,7 @@ title: 'Cris Carrascosa lo Advierte: El Impuesto Bitcoin de Sumar Es Una Salvaja
 translationKey: 3604bce0-4d72-5b94-b328-34d5ddf6400f
 type: crypto
 ---
+
 ## Resumen Ejecutivo
 * ![Cris Carrascosa lo Advierte: El Impuesto Bitcoin de Sumar Es Una Salvajada Fiscal](/images/bitcoin-volatilidad-fondos-cobertura.jpg)
 
@@ -28,6 +29,10 @@ La propuesta de Sumar de gravar las criptomonedas con un IRPF de hasta el 47% es
 * Cris Carrascosa argumenta que los propuestos cambios fiscales de Sumar sobre Bitcoin en España son una "salvajada fiscal", probablemente debido a una falta de comprensión de los criptoactivos.
 * Una encuesta de Finder proyecta que Bitcoin alcanzará los 77.636 dólares a finales de 2024, destacando el potencial de ganancias de capital sustanciales y, por lo tanto, importantes implicaciones fiscales.
 * Los españoles que tengan más de 50.000€ en criptomonedas en exchanges extranjeros deben declararlo a través del Modelo 721, enfatizando el creciente escrutinio regulatorio y la carga de cumplimiento.
+
+
+
+{{< adsterra_native >}}
 
 ## La Propuesta Impositiva de Sumar: ¿Ignorancia o Exceso Fiscal?
 

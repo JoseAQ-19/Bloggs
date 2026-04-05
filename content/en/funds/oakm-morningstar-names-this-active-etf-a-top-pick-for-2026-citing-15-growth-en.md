@@ -17,6 +17,7 @@ title: 'OAKM: Morningstar Names This Active ETF a Top Pick for 2026, Citing 15% 
 translationKey: 4a07104f-c9fd-3e85-4866-ffbbf314abfc
 type: funds
 ---
+
 ## Executive Summary
 * ![OAKM: Morningstar Names This Active ETF a Top Pick for 2026, Citing 15% Growth](/images/oakm-morningstar-names-this-active-etf-a-top-pick-for-2026-citing-15-growth-en.jpg)
 
@@ -83,6 +84,10 @@ Historical data on energy disruptions and their impact on financial markets prov
 The duration sensitivity of OAKM's infrastructure holdings represents a particular vulnerability. Infrastructure projects typically have long-duration cash flow characteristics, making them highly sensitive to interest rate changes. A 2023 analysis by the Federal Reserve found that infrastructure debt securities with durations exceeding 7 years could lose approximately 8-10% of their value for every 1% increase in interest rates. With the Fed potentially maintaining higher rates for an extended period, this risk factor becomes increasingly relevant.
 
 The distressed debt market, while potentially lucrative during rising rate environments, also faces significant challenges. Higher interest rates increase default probabilities across the corporate spectrum, particularly for companies with high leverage ratios. The default rate for speculative-grade bonds has historically risen in tandem with interest rates, with a lag of approximately 12-18 months. This suggests that the full impact of the current rate environment on credit quality may not yet be fully reflected in market prices.
+
+
+
+{{< adsterra_native >}}
 
 ## OAKM ETF: and Assessment
 OAKM represents a high-conviction investment strategy concentrated in two speculative sectors. The 0.65% expense ratio demands substantial outperformance that may be difficult to achieve given the fund's concentration risk. While Morningstar's endorsement carries weight, the LNG market disruption demonstrates how quickly market conditions can change. Investors should carefully evaluate whether the potential returns justify the fees and sector concentration before committing capital.

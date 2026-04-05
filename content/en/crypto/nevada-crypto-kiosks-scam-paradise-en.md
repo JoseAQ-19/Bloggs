@@ -1,16 +1,20 @@
 ---
-title: "$333 Million Lost: Nevada's Crypto Kiosks Become a Scammer's Paradise in 2025."
-date: 2026-04-04T17:47:52
+canonical: https://novumworld.com/crypto/nevada-crypto-kiosks-scam-paradise-en/
+categories:
+- crypto
+date: 2026-04-04 17:47:52
+description: Nevada's crypto ATMs are losing millions! Dive into how lax regulations
+  transformed these kiosks into a scammer's playground, costing investors $333M in.
 draft: false
-description: "Nevada's crypto ATMs are losing millions! Dive into how lax regulations transformed these kiosks into a scammer's playground, costing investors $333M in."
-featured_image: "/images/nevada-crypto-kiosks-scam-paradise-en.jpg"
-slug: "nevada-crypto-kiosks-scam-paradise-en"
-canonical: "https://novumworld.com/crypto/nevada-crypto-kiosks-scam-paradise-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "5ed7c31a-9f5c-9fb1-c343-bf0692bc473f"
+featured_image: /images/nevada-crypto-kiosks-scam-paradise-en.jpg
+language: en
+slug: nevada-crypto-kiosks-scam-paradise-en
+tags:
+- Crypto & Web3
+title: '$333 Million Lost: Nevada''s Crypto Kiosks Become a Scammer''s Paradise in
+  2025.'
+translationKey: 5ed7c31a-9f5c-9fb1-c343-bf0692bc473f
+type: crypto
 ---
 
 ![$333 Million Lost: Nevada's Crypto Kiosks Become a Scammer's Paradise in 2025.](/images/nevada-crypto-kiosks-scam-paradise-en.jpg)
@@ -20,6 +24,10 @@ Crypto kiosks have morphed from a niche convenience tool into a predatory financ
 * Crypto ATM scams cost consumers $333 million in losses between January and November 2025, a 33% increase compared to the same period in 2024.
 * Senator Jack Reed's Crypto ATM Fraud Prevention Act aims to add new protections to crypto ATM transactions, but critics argue the lack of oversight is the core issue.
 * Consumers, especially those over 60, need to be extremely wary of using crypto ATMs, as funds sent through these machines are virtually impossible to recover once sent to scammers.
+
+
+
+{{< adsterra_native >}}
 
 ## Nevada's Silent Surrender: How Crypto Kiosks Enabled a $333M Scam Avalanche
 

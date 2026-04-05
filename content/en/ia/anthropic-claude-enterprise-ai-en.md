@@ -18,6 +18,7 @@ title: 'Claude''s $1.5B Copyright Nightmare: Can Anthropic REALLY Deliver Enterp
 translationKey: 01d3c86b-c371-45ed-b70d-d48ecd45d1ef
 type: ia
 ---
+
 ## Executive Summary
 * ![Claude's $1.5B Copyright Nightmare: Can Anthropic REALLY Deliver Enterprise AI?](/images/anthropic-claude-enterprise-ai-en.jpg)
 
@@ -28,6 +29,10 @@ Anthropic's enterprise AI ambitions face a stark reality check: a looming $1.5 b
 * Anthropic faces a $1.5 billion copyright settlement for training Claude on pirated books, casting a shadow over the ethical and legal foundations of its AI models.
 * Anthropic's analysis reveals a 63% initial failure rate for Claude 3.5 Sonnet on real-world software development tasks, challenging claims of seamless AI-augmented developer productivity.
 * Enterprises considering Claude must rigorously assess ROI, address hallucination risks, and potential agentic misalignment or risk significant financial and reputational damage.
+
+
+
+{{< adsterra_native >}}
 
 ## The $1.5 Billion Liability Hanging Over Anthropic
 

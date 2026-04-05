@@ -17,6 +17,7 @@ title: '73% Quit: The Dark Side Of YouTube''s Creator Burnout Crisis Exposed.'
 translationKey: a47e4f49-171a-2741-f99f-59e0467a855c
 type: youtube
 ---
+
 ## Executive Summary
 * ![73% Quit: The Dark Side Of YouTube's Creator Burnout Crisis Exposed.](/images/youtube-media-giant-en.jpg)
 
@@ -27,6 +28,10 @@ type: youtube
 * YouTube's 73% creator attrition rate within the first year directly correlates with burnout from unpredictable algorithm changes, declining RPMs, and relentless content pressure, exposing a fragile ecosystem.
 * As Shira Lazar of Creators 4 Mental Health reports, 89% of creators lack access to specialized mental health support, turning passion projects into psychological traps fueled by platform instability.
 * While YouTube generated $36.1 billion in ad revenue in 2024, creators dependent solely on the platform face extinction, demanding diversification beyond ad splits to build sustainable businesses.
+
+
+
+{{< adsterra_native >}}
 
 ## The MrBeast Mask: A Rare Success Hides a Massive Creator Exodus
 

@@ -17,6 +17,7 @@ title: '76 And Thriving: One Man''s Daily Muscle-Ups Defy Aging Myths'
 translationKey: c951aaf8-5503-e3e0-2d1f-d479607aaa7e
 type: fitness
 ---
+
 ## Executive Summary
 * ![76 And Thriving: One Man's Daily Muscle-Ups Defy Aging Myths](/images/76-and-thriving-how-one-man-defies-age-with-daily-muscle-ups-en.jpg)
 
@@ -28,6 +29,10 @@ type: fitness
 * CrossFit Masters athlete registrations grew 340% from 2020-2025, yet ageism persists in programming — **CrossFit Journal**.
 
 The longevity bubble has created a frantic gold rush for anti-aging solutions, yet one inconvenient truth persists: muscle is the most reliable biomarker of vitality. At 76, Andrew R. Jagim, Ph.D., Director of Sports Medicine Research at Mayo Clinic, isn't just defying ageist fitness dogma—he's dismantling it through daily muscle-ups, proving that hypertrophy isn't reserved for the young. The science behind this rebellion is brutal in its simplicity: muscle mass determines longevity, yet fitness infrastructure systematically ignores the demographic poised to benefit most.
+
+
+
+{{< adsterra_native >}}
 
 ## The Ageism Dilemma in Fitness: Why Resistance Training Matters 
 Resistance training reverses sarcopenia at a cellular level. Satellite cells—muscle stem cells critical for repair and growth—remain active in septuagenarians when properly stimulated. Jagim's research demonstrates that resistance training increases satellite cell activation and inhibits myostatin, the protein that limits muscle growth, regardless of age. This mechanism allows even 70-year-olds to rebuild muscle mass previously considered irrevocably lost. Yet the fitness industry remains trapped in a cardio-centric bubble, prescribing gentle Zumba classes while the evidence screams otherwise.

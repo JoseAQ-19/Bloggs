@@ -19,6 +19,7 @@ title: 'KSI''s Littler Ban Sparks Outrage: Sidemen Sunday Views Face 24% Viewbot
 translationKey: 05744978-6901-e8b5-cc90-cde4e6d12411
 type: youtube
 ---
+
 ## Executive Summary
 * ![KSI's Littler Ban Sparks Outrage: Sidemen Sunday Views Face 24% Viewbot Crackdown Risk](/images/ksi-littler-sidemen-charity-event-controversy-en.jpg)
 
@@ -29,6 +30,10 @@ The next influencer scandal isn't a matter of "if," but "when," as platforms gra
 * Kim Kardashian was fined $1.26 million by the SEC for failing to disclose payment for promoting EthereumMax tokens.
 * A crackdown on viewbotting led to a 24% drop in viewership on Twitch between August 21 and August 24, 2025.
 * Only two Sidemen Sunday videos have reached 6 million views so far in 2026, raising concerns about declining viewership.
+
+
+
+{{< adsterra_native >}}
 
 ## The $1.26 Million Mistake: Kim Kardashian's Crypto Lesson for Influencers
 

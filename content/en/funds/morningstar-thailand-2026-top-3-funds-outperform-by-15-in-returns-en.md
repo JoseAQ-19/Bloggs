@@ -17,6 +17,7 @@ title: 'Morningstar Thailand 2026: Top 3 Funds Outperform by 15% in Returns'
 translationKey: e34ec053-7033-fafc-2fc9-7f24534c7e0e
 type: funds
 ---
+
 ## Executive Summary
 * ![Morningstar Thailand 2026: Top 3 Funds Outperform by 15% in Returns](/images/morningstar-thailand-2026-top-3-funds-outperform-by-15-in-returns-en.jpg)
 
@@ -27,6 +28,10 @@ type: funds
 Thailand’s mutual fund industry has exhibited significant growth in 2026, driven by resilient economic fundamentals and increased foreign investment interest. With the **SET50 index returning 8.2% YTD**, outperforming emerging market indices globally, Thailand is emerging as a key player in Southeast Asian equity markets. Notably, the Morningstar Thailand Awards 2026 recognized standout mutual funds that have outpaced even this strong benchmark. Let’s dive into the key performers and their strategies.
 
 ---
+
+
+
+{{< adsterra_native >}}
 
 ## Performance Analysis: Top 3 Funds in Thailand 
 

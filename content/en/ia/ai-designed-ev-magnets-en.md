@@ -17,6 +17,7 @@ title: 'Forget Rare Earths: AI Could Conquer $11.3 Billion EV Magnet Market'
 translationKey: 613f4846-dffb-4679-cab0-3efe259601f1
 type: ia
 ---
+
 ## Executive Summary
 * ![Forget Rare Earths: AI Could Conquer $11.3 Billion EV Magnet Market](/images/ai-designed-ev-magnets-en.jpg)
 
@@ -27,6 +28,10 @@ Electric vehicle manufacturers are in a bind: embrace a rare earth magnet market
 * The global rare earth magnet market for electric vehicles, valued at $2.5 billion in 2023, is projected to reach $11.3 billion by 2032, prompting exploration of AI-designed alternatives.
 * IDTechEx reports that rare earth permanent magnet motors have maintained over 75% market share since 2015, despite concerns over supply chains and ethical sourcing.
 * Car manufacturers and suppliers need to actively invest in and validate AI-designed magnet alternatives now to diversify their supply chains and potentially reduce reliance on ethically questionable rare earth sources.
+
+
+
+{{< adsterra_native >}}
 
 ## The $11.3 Billion Gamble: Can AI Break the Rare Earth Magnet Monopoly?
 

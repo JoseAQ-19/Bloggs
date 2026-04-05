@@ -17,6 +17,7 @@ title: '95% Of AI Projects Fail: Is Your Agent Deployment Secure Enough?'
 translationKey: 263a704d-3e21-fed2-a989-36e828a69e35
 type: ia
 ---
+
 ## Executive Summary
 * ![95% Of AI Projects Fail: Is Your Agent Deployment Secure Enough?](/images/ai-agents-secure-deployment-en.jpg)
 
@@ -27,6 +28,10 @@ With **95%** of AI projects failing, the security risks surrounding AI agent dep
 * 50% of enterprises are projected to implement AI agents in 2025, a five-fold increase from the 10% currently employing them.
 * Gartner predicts that over 40% of agentic AI projects will be cancelled by the end of 2027 due to escalating costs, unclear business value, or inadequate risk controls.
 * The global market for autonomous AI agents is projected to reach $28.5 billion by 2027, growing at a CAGR of 42.7% from 2023.
+
+
+
+{{< adsterra_native >}}
 
 ## The $28.5 Billion Gamble: Why AI Agent Security is the Linchpin
 

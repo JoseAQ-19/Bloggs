@@ -17,6 +17,7 @@ title: 'Workday Tambalea: El Plan Secreto De Cegid Para Desbancarles En España'
 translationKey: d86b21a6-fa94-1dba-b31a-c537e7af181d
 type: ia
 ---
+
 ## Resumen Ejecutivo
 
 * ![Workday Tambalea: El Plan Secreto De Cegid Para Desbancarles En España](/images/workday-obsolescencia-ia-openai-2026.jpg)
@@ -28,6 +29,10 @@ Es ingenuo pensar que Workday seguirá siendo intocable en el mercado español. 
 * Cegid, impulsado por soluciones de RR. HH. basadas en IA, busca desafiar el dominio de Workday en el mercado español.
 * Si bien el 74% de los profesionales españoles informan de una mayor productividad gracias a la IA, el 42% dedica hasta una hora por semana a corregir contenido generado por la IA.
 * Las empresas españolas deben priorizar la formación y abordar las preocupaciones sobre la privacidad de los datos para aprovechar al máximo los beneficios de las soluciones de RR. HH. impulsadas por la IA.
+
+
+
+{{< adsterra_native >}}
 
 ## La Apuesta de Cegid: ¿Un Jaque Mate a Workday o una Simple Amenaza en España?
 

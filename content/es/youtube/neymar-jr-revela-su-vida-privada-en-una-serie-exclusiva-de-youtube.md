@@ -17,8 +17,13 @@ title: 'Neymar Jr Revela 80% De Su Impacto Emocional: La Verdadera Cara De La Fa
 translationKey: 26c858e2-ba67-785e-eb58-d36f8531b66c
 type: youtube
 ---
+
 ## Resumen Ejecutivo
 Neymar Jr. ha revelado la cruda realidad que muchos futbolistas enfrentan: el 80% de ellos ha experimentado síntomas de depresión, estrés y ansiedad. La presión del deporte de élite, junto con la falta de apoyo psicológico adecuado, contribuye a una epidemia silenciosa que afecta a la salud mental de los atletas. En España, el acceso a recursos psicológicos es alarmantemente escaso, lo que acentúa la vulnerabilidad de los deportistas. Este artículo explora la desconexión entre la imagen pública de los atletas y su realidad emocional, destacando la necesidad urgente de un cambio en la atención a la salud mental en el deporte.
+
+
+
+{{< adsterra_native >}}
 
 ## La Mentira de la Invulnerabilidad en el Deporte de Alto Rendimiento
 

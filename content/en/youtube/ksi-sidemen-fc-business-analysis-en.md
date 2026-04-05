@@ -17,6 +17,7 @@ title: 'Eddie Hearn SHOCKED: Is KSI''s Nice Guy Act Hiding A Financial Disaster?
 translationKey: fc3b7265-f2a9-308b-e8ee-0af68ed92141
 type: youtube
 ---
+
 ## Executive Summary
 * ![Eddie Hearn SHOCKED: Is KSI's Nice Guy Act Hiding A Financial Disaster?](/images/ksi-sidemen-fc-business-analysis-en.jpg)
 
@@ -27,6 +28,10 @@ KSI's reputation as the "nice guy" might be a carefully constructed facade hidin
 * Eddie Hearn expressed surprise at KSI's equal distribution of earnings among the Sidemen, prompting inquiries regarding the group's long-term financial viability.
 * Sidemen Entertainment's assets surged to over £7 million by June 2024, yet Reddit users question the accuracy of advertised prize money payouts.
 * Despite the Sidemen's financial success, potential risks related to equitable compensation and reliance on sponsorships could negatively affect fan loyalty and the group's future prospects.
+
+
+
+{{< adsterra_native >}}
 
 ## The $125M Question: Are KSI's Generous Splits Masking a Revenue Struggle?
 

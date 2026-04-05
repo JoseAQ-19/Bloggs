@@ -17,6 +17,7 @@ title: 'YouTube TV In 2026: Comcast''s Worst Nightmare Or $73 Mistake?'
 translationKey: 26ada778-b2fa-6aa3-2e01-e0a6c682a505
 type: youtube
 ---
+
 ## Executive Summary
 * ![YouTube TV In 2026: Comcast's Worst Nightmare Or $73 Mistake?](/images/youtube-tv-2026-worth-it-en.jpg)
 
@@ -27,6 +28,10 @@ YouTube TV's potential rise to dominance is less a revolution and more a symptom
 * By the end of 2026, MoffettNathanson forecasts YouTube TV will reach 12.4 million subscribers, putting it on track to potentially surpass Comcast as the largest pay-TV provider.
 * YouTube TV's revenue reached nearly $9 billion in Q1 2025, showcasing significant growth, according to MoffettNathanson.
 * Users could see more customizable channel bundles in 2026, but also potentially higher prices and more frequent ads as YouTube TV strives for profitability.
+
+
+
+{{< adsterra_native >}}
 
 ## The $73 Question: Can YouTube TV Sidestep the Streaming Graveyard?
 

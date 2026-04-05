@@ -13,6 +13,7 @@ title: 'La Infraestructura de la Gobernanza Digital: Analizando los Términos de
 translationKey: terms-of-service
 weight: 90
 ---
+
 ## Resumen Ejecutivo
 - Los términos de servicio digitales han pasado de ser un mero texto legal a especificaciones técnicas para la soberanía de datos y la asignación de cómputo.
 - El marco de gobernanza de NovumWorld tiene en cuenta los altos costes de inferencia, donde los clústeres H100 y B200 dictan la economía de la entrega de información.
@@ -21,6 +22,10 @@ weight: 90
 - La interacción del usuario se rige por la necesidad de una fijación de precios de tokens sostenible y la prevención de inyección de prompts adversariales a nivel de infraestructura.
 
 El progreso tecnológico a mediados de la década de 2020 se define no por sus características de software, sino por la realidad física del silicio. A medida que navegamos por el despliegue de la arquitectura Blackwell (B200) de NVIDIA y el escalado de los clústeres Llama-3 a 405B de parámetros y más allá, los marcos legales que rigen las plataformas digitales deben evolucionar obligatoriamente. NovumWorld representa un punto de unión en esta transición. Un acuerdo de Términos de Servicio (TOS) ya no es un trámite legal periférico; es el prompt de sistema fundamental para la interacción usuario-plataforma. En un ecosistema donde una única pasada de inferencia puede costar varios céntimos en energía y tiempo de cómputo, el contrato social entre el creador y el consumidor está siendo reescrito por la economía unitaria de la GPU.
+
+
+
+{{< adsterra_native >}}
 
 ## 1. Los Fundamentos de Silicio de los Acuerdos Digitales
 

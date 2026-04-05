@@ -19,6 +19,7 @@ title: The $6M Verdict That Just Sent Shockwaves Through YouTube and Meta’s Em
 translationKey: cff387ed-2d10-e641-97b4-65d8cf22d8e2
 type: youtube
 ---
+
 ## Executive Summary
 * ![The $6M Verdict That Just Sent Shockwaves Through YouTube and Meta’s Empire](/images/the-6m-wake-up-call-how-a-jury-held-youtube-and-meta-accountable-en.jpg)
 
@@ -31,6 +32,10 @@ Meta's stock plunged 8% following a $6 million verdict holding the company 70% r
 * Over 1,600 similar lawsuits are now pending against social media companies, with school districts and families increasingly targeting platform design rather than just content moderation.
 
 The verdict fundamentally challenges how social media companies operate. Mark Lanier, lead attorney for the plaintiffs, successfully argued that platform design choices constitute defective products. "That's called the engineering of addiction," Lanier stated during the seven-week trial, focusing on how algorithms deliberately maximize engagement at the expense of user wellbeing.
+
+
+
+{{< adsterra_native >}}
 
 ## Why Section 230 Is No Longer a Safe Harbor
 

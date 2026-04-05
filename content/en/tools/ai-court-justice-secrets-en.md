@@ -17,6 +17,7 @@ title: 'AI Hallucinations Are Infecting Courts: Justice System Faces Total Colla
 translationKey: a094a3ee-4dcc-cdb7-af3e-67c01c9696f7
 type: tools
 ---
+
 ## Executive Summary
 * ![AI Hallucinations Are Infecting Courts: Justice System Faces Total Collapse.](/images/ai-court-justice-secrets-en.jpg)
 
@@ -27,6 +28,10 @@ AI hallucinations are already impacting court cases, undermining the very founda
 * AI hallucinations are already impacting court cases, with legal professionals regularly falling victim to convincingly false AI-generated information.
 * The 2023 Bloomberg Law Legal Ops + Tech Survey revealed that 50% of respondents are “somewhat” or “very concerned” about the ethical implications of using AI in their practice.
 * Courts, lawyers, and juries must approach AI-generated evidence with extreme skepticism and demand rigorous authentication, or risk miscarriages of justice and a breakdown of trust in the legal system.
+
+
+
+{{< adsterra_native >}}
 
 ## The Deepfake Dilemma: How AI-Generated Evidence Threatens Due Process
 

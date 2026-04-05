@@ -17,6 +17,7 @@ title: 'Cow Uses Broom 76 Times: Primate Cognition Myth CRUSHED By Farm Animal'
 translationKey: d5ffbd5d-4adb-c96c-93ce-7d951bfe3eb7
 type: tools
 ---
+
 ![Cow Uses Broom 76 Times: Primate Cognition Myth CRUSHED By Farm Animal](/images/cow-tool-use-cognition-en.jpg)
 
 ****BLUF** Technical Executive Summary:**
@@ -32,6 +33,10 @@ The study on Veronika's tool use has significant implications for the field of a
 
 **Bottlenecks & Limitations:**
 One of the main limitations of the study is the small sample size, which consisted of only one cow, Veronika. While the findings are significant, more research is needed to confirm the results and to explore the cognitive abilities of cattle in more detail. Additionally, the study raises questions about the ethics of animal research and the treatment of animals in laboratory settings.
+
+
+
+{{< adsterra_native >}}
 
 ### Animal Cognition: A Complex and Multifaceted Field
 The study on Veronika's tool use highlights the complexity and multifaceted nature of animal cognition. The field is driven by various disciplines, including psychology, neuroscience, and biology, and is influenced by various factors, such as environment, social interaction, and evolution. The study also raises questions about the relationship between cognition and intelligence and how these concepts are defined and measured in animals.

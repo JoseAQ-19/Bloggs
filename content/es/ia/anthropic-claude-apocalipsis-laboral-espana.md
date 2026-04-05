@@ -17,8 +17,13 @@ title: 'Claude Sentencia a 2 Millones de Españoles: El Apocalipsis Laboral Es A
 translationKey: 085d9926-f4b4-f539-8cad-610c282e6214
 type: ia
 ---
+
 ## Resumen Ejecutivo
 La llegada de modelos de inteligencia artificial como Claude 3.5 Sonnet está poniendo en jaque la estructura laboral en España, con la posibilidad de que hasta 2 millones de empleos sean automatizados en los próximos años. La narrativa de que la IA servirá como asistente para los trabajadores es engañosa; en realidad, estos modelos están diseñados para reemplazar funciones humanas en diversas áreas, desde la redacción hasta el análisis de datos. La automatización no solo afectará a los trabajadores de nivel de entrada, sino que también transformará las dinámicas dentro de las empresas, donde la necesidad de personal humano podría disminuir drásticamente. Mientras tanto, iniciativas como "España Digital 2026" ignoran estos desafíos, presentando una visión optimista que no refleja la cruda realidad del futuro laboral.
+
+
+
+{{< adsterra_native >}}
 
 ## La Amenaza Invisible: ¿Despedirá Claude a los Trabajadores Creativos de España?
 

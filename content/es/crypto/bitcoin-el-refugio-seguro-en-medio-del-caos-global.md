@@ -17,6 +17,7 @@ title: '6.5% De Volatilidad Diaria: El Riesgo Oculto Detrás De Invertir En Bitc
 translationKey: 4844782c-bb60-c66f-b298-70bfcf4527d9
 type: crypto
 ---
+
 ## Resumen Ejecutivo
 
 * ![6.5% De Volatilidad Diaria: El Riesgo Oculto Detrás De Invertir En Bitcoin](/images/bitcoin-el-refugio-seguro-en-medio-del-caos-global.jpg)
@@ -28,6 +29,10 @@ type: crypto
 * Bitcoin ha experimentado caídas del 30% en 48 horas durante crisis económicas, según datos de [CNMV y Banco de España](https://www.cnmv.es/portal/mercados/mercados-en-accion/criptomonedas.aspx).
 * El 78% de los inversores minoristas españoles ignora el impacto fiscal de transacciones cripto, según informe de **TaxDown**.
 * Los ETF de Bitcoin en EE.UU. gestionan $148 mil millones, pero su correlación con Nasdaq supera 0.65 durante eventos de stress, según [Financial Research](https://www.financialresearch.gov/briefs/files/OFRBrief-24-08-crypto-exposure-and-household-financial-outcomes.pdf).
+
+
+
+{{< adsterra_native >}}
 
 ## La Volatilidad como Riesgo Oculto en Bitcoin
 Bitcoin presenta una volatilidad intrínseca que la diferencia radicalmente de activos tradicionales. Con una oscilación promedio del 6.5% diario, sus fluctuaciones exceden ampliamente los umbrales de riesgo aceptados en mercados establecidos. Esta característica no es anecdótica: durante eventos de crisis económica, como la caída de marzo de 2020, Bitcoin registró depreciaciones superiores al 30% en solo 48 horas, demostrando su comportamiento correlacionado con activos de riesgo y no como refugio seguro. 

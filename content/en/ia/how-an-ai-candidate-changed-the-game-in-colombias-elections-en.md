@@ -18,6 +18,7 @@ title: 'AI Candidate Disrupts Colombia’s Elections: The Startling Truth Behind
 translationKey: cfd72d6f-2f2d-9c27-a81d-f35c35a8b8ed
 type: ia
 ---
+
 ## Executive Summary
 * ![AI Candidate Disrupts Colombia’s Elections: The Startling Truth Behind 500,000 Deepfake Videos](/images/how-an-ai-candidate-changed-the-game-in-colombias-elections-en.jpg)
 
@@ -28,6 +29,10 @@ AI is not just a buzzword; it’s a looming specter over democracy, particularly
 * AI-generated fraud has already caused over $200 million in financial losses in just the first quarter of 2025. 
 * According to Mike Muse, governance needs to keep pace with AI technology to ensure fair democratic processes. 
 * The proliferation of AI-generated content increases voter confusion and distrust, making it crucial for individuals to stay informed about the sources of their information.
+
+
+
+{{< adsterra_native >}}
 
 ## The $200M Problem: Financial Losses from AI-Driven Fraud
 

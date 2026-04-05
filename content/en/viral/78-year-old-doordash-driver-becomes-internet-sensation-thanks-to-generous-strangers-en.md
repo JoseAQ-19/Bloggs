@@ -17,6 +17,7 @@ title: 78-Year-Old DoorDash Driver's Viral Fame Sparks Outrage Over Gig Economy 
 translationKey: c01c3aa1-fa8a-7626-3426-c0f5379a373d
 type: viral
 ---
+
 ## Executive Summary
 * ![78-Year-Old DoorDash Driver's Viral Fame Sparks Outrage Over Gig Economy Injustice](/images/78-year-old-doordash-driver-becomes-internet-sensation-thanks-to-generous-strangers-en.jpg)
 
@@ -27,6 +28,10 @@ Richard Pulley, a 78-year-old DoorDash driver, has unexpectedly become a symbol 
 * A 78-year-old DoorDash driver named Richard Pulley gained viral fame after a video of him delivering food sparked outrage over the conditions faced by elderly gig workers in the economy.
 * Approximately 27% of gig workers aged 55+ rely on gig work as their primary income source, highlighting a significant demographic in the gig economy (source: Research Data).
 * The public's reaction to Pulley's story may catalyze regulatory changes that could impact gig platforms like DoorDash, affecting how they classify their contractors and manage compensation.
+
+
+
+{{< adsterra_native >}}
 
 ## The $500K GoFundMe Campaign That Exposed Gig Economy Injustice
 

@@ -17,6 +17,7 @@ title: 'The Hidden Threat: $800 Billion From Stablecoins Targeting U.S. Treasury
 translationKey: 300e7115-9dfd-7ce3-26db-49d9e5267746
 type: crypto
 ---
+
 ## Executive Summary
 * ![The Hidden Threat: $800 Billion From Stablecoins Targeting U.S. Treasury Bills](/images/crypto-coin-takes-a-bite-out-of-us-treasuries-whats-behind-the-trend-en.jpg)
 
@@ -27,6 +28,10 @@ The projection that stablecoins will inject $800 billion into U.S. Treasury bill
 * Standard Chartered forecasts the stablecoin market capitalization to surge from approximately $300 billion to $2 trillion by the end of 2028, creating $800 billion to $1 trillion in new demand for short-term U.S. Treasury bills.
 * Tether reported holding around 66% of its reserves in short-dated US Treasuries as of April 2025, linking the stability of the largest stablecoin directly to the liquidity of American government debt.
 * Total value locked (TVL) in DeFi protocols stands at approximately $98 billion as of March 2026, creating a systemic leverage risk that could spill over into traditional banking markets during a liquidity crisis.
+
+
+
+{{< adsterra_native >}}
 
 ## The $800 Billion Dilemma: Stablecoins and U.S. Treasury Bills
 

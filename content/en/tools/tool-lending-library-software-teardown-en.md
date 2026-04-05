@@ -20,6 +20,7 @@ title: 'Tool Lending Libraries Circulate Over 1,060 Tools: A Revolution in Susta
 translationKey: 302efb2f-39bd-1e67-a267-05ba1f868e9d
 type: tools
 ---
+
 ## Executive Summary
 * ![Tool Lending Libraries Circulate Over 1,060 Tools: A Revolution in Sustainable Access](/images/tool-lending-library-software-teardown-en.jpg)
 
@@ -30,6 +31,10 @@ The circular economy is often a financial trap disguised as a community savior, 
 * The North Portland Tool Library (NPTL) circulated over 1,060 tools in just ten months, yet this high-velocity sharing model relies on a fragile volunteer-based infrastructure that struggles to scale.
 * The Toronto Tool Library has loaned over 80,000 items since 2013, generating more than $750,000 in revenue, but when divided by the loan volume, the yield is a meager $9.37 per transaction—barely enough to cover depreciation.
 * The Tool Library in Buffalo successfully diverted 4,351 pounds of waste from landfills through its Dare to Repair initiative, proving that environmental impact is real, yet it required a $20,000 grant to achieve what the free market considers inefficient.
+
+
+
+{{< adsterra_native >}}
 
 ## The $20K Grant That Fuels Community Repair Initiatives
 

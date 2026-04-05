@@ -18,6 +18,7 @@ title: 'Bhutan Dumped 58% Of Bitcoin: Should You Be Terrified?'
 translationKey: 045ba508-4397-10fe-f682-77b673ea4dc7
 type: crypto
 ---
+
 ## Executive Summary
 * ![Bhutan Dumped 58% Of Bitcoin: Should You Be Terrified?](/images/bitcoin-surge-analysis-en.jpg)
 
@@ -28,6 +29,10 @@ Bhutan’s strategic reduction in Bitcoin holdings underscores the inherent risk
 * Bhutan decreased its Bitcoin holdings by 58% between late 2024 and March 2026, representing a structured treasury drawdown rather than a sign of Bitcoin's imminent demise.
 * U.S. spot Bitcoin ETFs experienced approximately $4.5 billion in cumulative outflows since the start of 2026, but rebounded with a $1.1 billion inflow over three days in late February, according to J.A. Maartun, CryptoQuant Analyst.
 * While large Bitcoin holders can manipulate the market, understanding the role of ETF inflows and outflows as well as regulatory disclosures can help investors navigate the risks and volatility.
+
+
+
+{{< adsterra_native >}}
 
 ## The Sovereign Sell-Off: Did Bhutan Lose Faith in Bitcoin's Promise?
 

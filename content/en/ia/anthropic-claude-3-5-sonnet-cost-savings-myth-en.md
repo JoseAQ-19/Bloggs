@@ -17,6 +17,7 @@ title: 'Claude 3.5 Sonnet: That 5x Cost Savings Claim Is a Total Lie'
 translationKey: cffbe99c-49c9-3bf5-7fd8-cf9a744ce547
 type: ia
 ---
+
 ## Executive Summary
 * ![Claude 3.5 Sonnet: That 5x Cost Savings Claim Is a Total Lie](/images/anthropic-claude-3-5-sonnet-cost-savings-myth-en.jpg)
 
@@ -29,6 +30,10 @@ Anthropic's claim of "5x cost savings" with Claude 3.5 Sonnet is misleading beca
 * While Sonnet 4.6 matches or outperforms Opus 4.6 on tasks like office tasks (1633 Elo on GDPval-AA), **Anthropic Blog** notes that Opus 4.6 is still necessary for tasks requiring the deepest reasoning or complex coding.
 
 * Users should carefully evaluate workload needs, as the "5x cost savings" narrative is misleading and performance varies by task. This variation may lead to unnecessary expenses if a higher-performing model like Opus 4.6 is truly needed.
+
+
+
+{{< adsterra_native >}}
 
 ## Michele Catasta's "Extraordinary" ROI: A Questionable Narrative for Enterprises
 

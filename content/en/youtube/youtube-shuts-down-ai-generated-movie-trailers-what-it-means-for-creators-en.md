@@ -17,6 +17,7 @@ title: 'YouTube Just Cracked Down on AI Trailers: 400+ Firms Face Major Risks'
 translationKey: 5e7aa6e9-2686-e038-af23-250b4f7786a3
 type: youtube
 ---
+
 ## Executive Summary
 * ![YouTube Just Cracked Down on AI Trailers: 400+ Firms Face Major Risks](/images/youtube-shuts-down-ai-generated-movie-trailers-what-it-means-for-creators-en.jpg)
 
@@ -29,6 +30,10 @@ YouTube's crackdown on AI-generated trailers is a significant turning point in t
 * According to SEC filings, the number of firms citing AI as a reputational risk has jumped by 46% in 2024.
 
 * Indie filmmakers must adapt to new monetization rules or face severe financial repercussions.
+
+
+
+{{< adsterra_native >}}
 
 ## "The $1.4B AI Film Market Faces Reckoning"
 

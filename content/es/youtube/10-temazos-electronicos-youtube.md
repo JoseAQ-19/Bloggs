@@ -17,6 +17,7 @@ title: ¡Pánico Musical! La IA Robará 100 Millones A Artistas Españoles En Un
 translationKey: 0b1d060e-7733-b84e-2c40-bba996154d0d
 type: youtube
 ---
+
 ## Resumen Ejecutivo
 * ![¡Pánico Musical! La IA Robará 100 Millones A Artistas Españoles En Un Año](/images/10-temazos-electronicos-youtube.jpg)
 
@@ -27,6 +28,10 @@ La inteligencia artificial no va a democratizar la música, va a pauperizar a lo
 * La IA podría reducir los ingresos por derechos de autor de la música en España hasta en 28% para 2028, resultando en una pérdida de €100 millones.
 * Un 34% de los creadores musicales españoles ya han utilizado herramientas de IA, según un estudio de la SGAE.
 * Los artistas españoles deben prepararse para un mercado musical transformado por la IA, exigiendo nuevas estrategias para proteger sus derechos e ingresos.
+
+
+
+{{< adsterra_native >}}
 
 ## La Tormenta Perfecta: SGAE Contra la IA y los €100 Millones Perdidos
 

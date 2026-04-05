@@ -17,6 +17,7 @@ title: 'YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautiv
 translationKey: 6b0dfa8b-e44c-e21b-215a-e0c6f6539ee6
 type: youtube
 ---
+
 ## Resumen Ejecutivo
 * ![YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/images/youtube-destrona-disney-rey-medios-digital.jpg)
 
@@ -27,6 +28,10 @@ El imperio de la televisión tradicional infantil se desmorona, arrastrado por l
 * El 64% de los niños españoles de entre 2 y 5 años utilizan YouTube, lo que la convierte en la plataforma dominante para las audiencias jóvenes.
 * Los canales infantiles tradicionales como ClanTV han experimentado un descenso dramático en la audiencia, con una caída de 258.000 espectadores únicos diarios en Cataluña en 2010 a 38.000 en 2025.
 * Los padres deben ser conscientes de los riesgos de sobreestimulación y contenido potencialmente inapropiado en YouTube y considerar un enfoque equilibrado en el consumo de medios de sus hijos.
+
+
+
+{{< adsterra_native >}}
 
 ## YouTube Contra Disney+: La Batalla Por la Atención Infantil
 

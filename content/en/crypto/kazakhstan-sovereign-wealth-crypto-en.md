@@ -17,6 +17,7 @@ title: '8% Surge: Kazakhstan''s Crypto Obsession Risks $350M Sovereign Wealth Be
 translationKey: 94ecc7ec-4d93-5549-9cd1-05f7c25ff0eb
 type: crypto
 ---
+
 ## Executive Summary
 * ![8% Surge: Kazakhstan's Crypto Obsession Risks $350M Sovereign Wealth Bet.](/images/kazakhstan-sovereign-wealth-crypto-en.jpg)
 
@@ -27,6 +28,10 @@ Kazakhstan's electricity demand surged 8% in 2021 due to crypto mining, signific
 * Kazakhstan's electricity demand jumped 8% in 2021 due to crypto mining, compared to typical 1-2% growth, consuming 7% of the country's generating capacity by end of 2022.
 * Trading volume on licensed exchanges within the Astana International Financial Centre (AIFC) reached $1.4 billion in 2024, highlighting the scale of crypto activity despite regulatory crackdowns.
 * Eight major crypto mining companies wrote an open letter to President Kassym-Jomart Tokayev, describing the Kazakh crypto mining industry as being in a "very distressful situation" due to rising energy prices.
+
+
+
+{{< adsterra_native >}}
 
 ## The Power Drain: How Crypto Mining Sent Kazakhstan's Grid Into Overdrive
 

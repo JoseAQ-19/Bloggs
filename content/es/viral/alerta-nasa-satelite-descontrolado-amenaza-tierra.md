@@ -17,6 +17,7 @@ title: 'GMV Advierte: Estaremos Atrapados en una Costra de Desechos Espaciales.'
 translationKey: b2910c22-6e2f-4452-142b-637c3c3329b7
 type: viral
 ---
+
 ## Resumen Ejecutivo
 * ![GMV Advierte: Estaremos Atrapados en una Costra de Desechos Espaciales.](/images/alerta-nasa-satelite-descontrolado-amenaza-tierra.jpg)
 
@@ -27,6 +28,10 @@ En la silenciosa batalla por el control del espacio, la carrera desenfrenada de 
 * Alberto Águeda, de GMV, advierte que, sin medidas drásticas, la Tierra corre el riesgo de quedar atrapada en una "costra de desechos espaciales" que impediría futuras actividades espaciales.
 * El CRASH Clock muestra que el riesgo de colisión en la órbita terrestre baja disminuyó de 121 días en 2018 a solo 2.8 días en diciembre de 2025, lo que ilustra el rápido aumento del peligro (Sam Lawler, Universidad de Regina).
 * El aumento de la basura espacial exige una mayor inversión en tecnología de eliminación de basura espacial y en la cooperación internacional para garantizar un acceso sostenible al espacio.
+
+
+
+{{< adsterra_native >}}
 
 ## Starlink Contra El Mundo: La Congestión Orbital Desata Alarmas
 

@@ -18,6 +18,7 @@ title: Facebook Just Invested $3,000 In Creators—Is This The Start Of A Moneti
 translationKey: deeaa325-faad-2b81-e235-edb0ba106c57
 type: youtube
 ---
+
 ## Executive Summary
 * ![Facebook Just Invested $3,000 In Creators—Is This The Start Of A Monetization War?](/images/facebook-pours-3000-into-tiktok-and-youtube-creatorsis-this-the-new-monetization-war-en.jpg)
 
@@ -28,6 +29,10 @@ Meta's $3 billion investment in creators is a desperate yet strategic move to ma
 * Meta is increasing its investment in creators, with nearly $3 billion allocated for 2025, a 35% rise from 2024.
 * TikTok's Creator Fund has been criticized by creators like Hank Green, who reported earnings of about 2.5 cents per 1,000 views.
 * The creator economy is projected to grow to $480 billion by 2027, highlighting the urgent need for sustainable monetization strategies.
+
+
+
+{{< adsterra_native >}}
 
 ## "The $3B Stakes in Creator Monetization"
 

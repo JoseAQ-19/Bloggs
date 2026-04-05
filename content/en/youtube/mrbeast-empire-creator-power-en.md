@@ -18,6 +18,7 @@ title: 'Ex-MrBeast Employee Reveals Child Psychology Exploitation: Horrible Effe
 translationKey: 26f1e7b9-bb2e-af6d-1fe6-120d520bf5cf
 type: youtube
 ---
+
 ## Executive Summary
 * ![Ex-MrBeast Employee Reveals Child Psychology Exploitation: Horrible Effects On Brains](/images/mrbeast-empire-creator-power-en.jpg)
 
@@ -28,6 +29,10 @@ MrBeast's viral philanthropy may be masking a darker side of content creation: t
 * A former MrBeast ideation specialist alleges the channel heavily exploits child psychology for profit, leading to "horrible effects on developing brains."
 * YouTube has paid out over $100 billion to creators since 2021, but brand partnerships comprise the majority of creator income, according to YouTube data.
 * US tech professionals should consider the ethical implications of viral content and the pressure for growth, as creator burnout and exploitation allegations could impact investments.
+
+
+
+{{< adsterra_native >}}
 
 ## Donaldson's Dilemma: Is MrBeast's Viral Formula Poisoning Young Minds?
 

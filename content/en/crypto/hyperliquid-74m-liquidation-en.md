@@ -17,6 +17,7 @@ title: 'Hyperliquid Horror: One Trader''s $74M Loss Exposes $4.25B TVL Time Bomb
 translationKey: 44a35c69-3c4e-6704-cf48-8f19a032e3ac
 type: crypto
 ---
+
 ## Executive Summary
 * ![Hyperliquid Horror: One Trader's $74M Loss Exposes $4.25B TVL Time Bomb](/images/hyperliquid-74m-liquidation-en.jpg)
 
@@ -27,6 +28,10 @@ Hyperliquid's siren song of 50x leverage has lured many to the rocks, but a rece
 * A single trader's $74 million loss on Hyperliquid exposed a critical vulnerability related to cascading liquidations within the platform's $4.25 billion TVL.
 * Hyperliquid experienced a price manipulation attack in November 2025 using the POPCAT token, resulting in approximately $4.9 million in losses for the platform (**WEEX Crypto News**).
 * Traders should exercise extreme caution when using high leverage on Hyperliquid and understand the risks associated with HLP, as they bear the brunt of losses during extreme market conditions.
+
+
+
+{{< adsterra_native >}}
 
 ## $74 Million Wiped Out: How Hyperliquid's Leverage Became a Liability
 

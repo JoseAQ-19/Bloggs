@@ -20,6 +20,7 @@ title: 'Ripple Alerta: El Riesgo Oculto de Control Estatal Sobre Criptomonedas Q
 translationKey: 02071181-be59-e68c-508f-e8568e6f72e7
 type: crypto
 ---
+
 ## Resumen Ejecutivo
 * ![Ripple Alerta: El Riesgo Oculto de Control Estatal Sobre Criptomonedas Que Nadie Ve](/images/ceo-ripple-alerta-criptos-politica-riesgos.jpg)
 
@@ -30,6 +31,10 @@ La promesa de libertad financiera de Bitcoin se está desmoronando bajo el peso 
 * El 81.7% de la población española ha oído hablar de criptomonedas, mientras que el 16% posee alguna, lo que indica un creciente interés en el tema.
 * La implementación de la directiva DAC8 en España puede poner en riesgo la privacidad de los usuarios de criptomonedas, según la [CNMV](https://www.cnmv.es/portal/home.aspx?id=418126) y el Banco de España.
 * Los ciudadanos deben estar alerta ante el aumento del control estatal sobre sus transacciones, lo que podría impactar su libertad financiera.
+
+
+
+{{< adsterra_native >}}
 
 ## El Elefante en la Habitación: Control Fiscal
 

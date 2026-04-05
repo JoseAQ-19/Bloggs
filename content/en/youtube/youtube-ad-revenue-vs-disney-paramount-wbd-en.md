@@ -18,6 +18,7 @@ title: YouTube’s $40B Ad Empire DWARFS Disney, WBD, And Paramount. What Happen
 translationKey: e79608eb-9961-60a1-2111-bcaa753b3e48
 type: youtube
 ---
+
 ## Executive Summary
 * ![YouTube’s $40B Ad Empire DWARFS Disney, WBD, And Paramount. What Happens When TikTok Wins?](/images/youtube-ad-revenue-vs-disney-paramount-wbd-en.jpg)
 
@@ -28,6 +29,10 @@ YouTube's reign as the undisputed king of digital advertising is threatened by T
 * YouTube's advertising revenue in 2024 reached $36.1 billion, dwarfing the combined ad revenue of Disney, NBCUniversal, Paramount, and Warner Bros. Discovery.
 * However, YouTube's ad revenue growth slowed to 12.5% in 2025, while TikTok's revenue is projected to surpass YouTube's by 2025, according to analyst Ian Whittaker.
 * Creators and advertisers must adapt to a mobile-first, short-form video strategy to compete with TikTok, or risk losing market share.
+
+
+
+{{< adsterra_native >}}
 
 ## The $17 Billion Gamble: Can YouTube Shorts Fend Off TikTok?
 

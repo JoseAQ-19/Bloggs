@@ -18,6 +18,7 @@ title: 'Salomon Ultra Pirineu: ¿Héroes Ecológicos o Contaminación Disfrazada
 translationKey: f47760bd-387b-be68-765d-8b2f4ae5a7ad
 type: fitness
 ---
+
 ## Resumen Ejecutivo
 * ![Salomon Ultra Pirineu: ¿Héroes Ecológicos o Contaminación Disfrazada? Los Datos Revelan](/images/running-solidario-impacto-ambiental.jpg)
 
@@ -28,6 +29,10 @@ La industria de las carreras de montaña vende una fantasía de conexión con la
 * La edición de 2021 de la Salomon Ultra Pirineu generó 1.300 kg de residuos, lo que representa una media de 0,5 kg de basura por cada corredor, según los datos oficiales del evento.
 * La Maratón de Valencia 2025 logró recuperar 9.900 kg de residuos plásticos y 4.700 kg de papel y cartón, sumando más de 14 toneladas de material reciclado en una sola jornada.
 * Las demandas por "lavado verde" o greenwashing han aumentado un 21% en los últimos años, según el análisis legal de la consultora EY, señalando un mayor escrutinio regulatorio sobre las falsas promesas ambientales.
+
+
+
+{{< adsterra_native >}}
 
 ## Ultra Pirineu Bajo la Lupa: ¿Compromiso Genuino o Marketing Verde?
 

@@ -17,12 +17,17 @@ title: 'Guerra Irán: ¿Golpe del 5% a ING, Santander y BBVA? Impacto real en fo
 translationKey: 10b5e27b-5a84-e87c-cd02-63a2e1cb3562
 type: funds
 ---
+
 ## Resumen Ejecutivo
 * ![Guerra Irán: ¿Golpe del 5% a ING, Santander y BBVA? Impacto real en fondos.](/images/guerra-iran-golpe-del-5-a-ing-santander-y-bbva-impacto-real-en-fondos.jpg)
 
 La escalada de tensión en Oriente Medio, tras los recientes ataques entre Irán e Israel, ha inyectado volatilidad en los mercados, con an...
 
 La escalada de tensión en Oriente Medio, tras los recientes ataques entre Irán e Israel, ha inyectado volatilidad en los mercados, con analistas de Bloomberg anticipando un posible desplome del 5% en la cotización de bancos españoles con exposición internacional. ¿Es momento de refugio o de oportunidad?
+
+
+
+{{< adsterra_native >}}
 
 ## Guerra Irán: ¿Golpe del 5% a ING, Santander y BBVA? Impacto real en fondos.
 

@@ -17,6 +17,7 @@ title: 'OpenAI Admite el Fracaso de Sora: Gastaba 1,30$ Por Video y Esto Es el M
 translationKey: 1508e35c-41d2-3076-7bc5-a283a0357799
 type: ia
 ---
+
 ## Resumen Ejecutivo
 * ![OpenAI Admite el Fracaso de Sora: Gastaba 1,30$ Por Video y Esto Es el Motivo](/images/openai-recula-sora-estrategia-ia.jpg)
 
@@ -29,6 +30,10 @@ OpenAI acaba de cometer un acto de canibalismo financiero al admitir que su mode
 * La operación de Sora suponía un sangrado de 15 millones de dólares diarios en costes operativos, contrastando dramáticamente con los míseros 2,1 millones de dólares en ingresos reportados.
 
 La narrativa de que la IA generativa va a destruir a Hollywood ha recibido un golpe de realidad basado en la termodinámica y la contabilidad. Lo que nos vendieron como el fin de la creatividad humana resultó ser un experimento de laboratorio demasiado caro para el mundo real. Mientras los ingenuos aplaudían las demostraciones de "world models" en Twitter, los ingenieros de OpenAI miraban horrorizados cómo los clusters de GPU H100 consumían energía a un ritmo que ninguna suscripción de 20 dólares al mes podría compensar. No es una crisis de demanda; es una crisis de física aplicada a los márgenes de beneficio.
+
+
+
+{{< adsterra_native >}}
 
 ## La Matemática del Desastre: Cuando 1,30$ Destruyen tu Margen
 

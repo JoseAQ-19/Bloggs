@@ -17,6 +17,7 @@ title: 'Jeopardy! YouTube Gamble: $70 Billion Creator Payouts Hide A Dark Secret
 translationKey: da387cad-bd56-553a-c3b7-64f8abd8c738
 type: youtube
 ---
+
 ## Executive Summary
 * ![Jeopardy! YouTube Gamble: $70 Billion Creator Payouts Hide A Dark Secret](/images/jeopardy-youtube-strategy-monetization-en.jpg)
 
@@ -27,6 +28,10 @@ YouTube paid out $70 billion to creators in the three years leading up to Januar
 * YouTube paid out $70 billion to creators in the three years leading up to January 2024, an average of just under $8,000 per creator.
 * "Jeopardy!" and "Wheel of Fortune" collectively generated $175 million in ad revenue for YouTube in 2024.
 * Tech professionals should scrutinize how YouTube monetization policies affect content diversity and creator sustainability amidst copyright and COPPA risks.
+
+
+
+{{< adsterra_native >}}
 
 ## Alex Trebek's Lost Legacy: Jeopardy!'s YouTube Gamble and the Demolished Dream Home
 

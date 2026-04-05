@@ -17,6 +17,7 @@ title: '84% of High Schoolers Use AI: Are Teachers Even in The Classroom Anymore
 translationKey: b25f8a67-a5ac-1022-5911-7f6334a59b2e
 type: tools
 ---
+
 ![84% of High Schoolers Use AI: Are Teachers Even in The Classroom Anymore?](/images/generative-ai-high-schools-technical-analysis-en.jpg)
 
 84% of high school students are using AI for schoolwork, raising serious questions about academic integrity and the future role of educators in the classroom.
@@ -24,6 +25,10 @@ type: tools
 * 84% of high school students report using AI tools for school assignments, according to a Walton Family Foundation survey, showing an alarming 5% increase from just January 2025.
 * The global Generative AI in EdTech market is projected to reach USD 8.324 billion by 2033, growing at a staggering 41% annual rate from USD 268 million in 2023.
 * Data breaches in school districts are increasing annually, with MIT reporting that 67% of educational institutions have experienced at least one security incident since AI tool implementation began.
+
+
+
+{{< adsterra_native >}}
 
 ## **BLUF** Technical Executive Summary
 * 84% of high school students currently use generative AI tools like ChatGPT for academic work, creating unprecedented challenges for academic integrity protocols that were designed for human-only workflows.

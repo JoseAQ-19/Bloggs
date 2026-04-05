@@ -17,6 +17,7 @@ title: 'YouTube''s AI Nightmare: Deepfakes Smear Singapore PM, 70% Believe It''s
 translationKey: f4e4fef6-b9fa-611a-336f-99d7bcb02d9e
 type: youtube
 ---
+
 ## Executive Summary
 * ![YouTube's AI Nightmare: Deepfakes Smear Singapore PM, 70% Believe It's Real.](/images/ai-deepfake-singapore-pm-lee-en.jpg)
 
@@ -27,6 +28,10 @@ Deepfake videos of Singapore's Prime Minister Lee Hsien Loong peddling crypto sc
 * Singapore may fine social media services up to $1 million for failing to remove deepfake content, but can financial penalties keep pace with rapidly evolving AI tech.
 * An Elon University survey revealed that 70% of Americans fear AI-generated misinformation will sway the 2024 elections, exposing vulnerabilities in the democratic process.
 * The proliferation of convincing deepfakes requires both individual vigilance and platform accountability to combat the "erosion of trust" warned about by experts.
+
+
+
+{{< adsterra_native >}}
 
 ## Singapore's $1 Million Headache: Can Fines Stop the Deepfake Deluge?
 

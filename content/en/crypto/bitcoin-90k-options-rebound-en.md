@@ -17,6 +17,7 @@ title: '$90K Bitcoin Target: Options Traders Ignore $4.5B ETF Outflow Red Flags'
 translationKey: ccd07e2d-63f3-f226-8b64-7b25e7caabb7
 type: crypto
 ---
+
 ## Executive Summary
 * ![$90K Bitcoin Target: Options Traders Ignore $4.5B ETF Outflow Red Flags](/images/bitcoin-90k-options-rebound-en.jpg)
 
@@ -27,6 +28,10 @@ Despite bullish price targets, Bitcoin options traders are ignoring the growing 
 * Despite $4.5 billion in year-to-date outflows from US Bitcoin ETFs, options traders are building positions targeting a potential rebound toward $90,000.
 * One-month Bitcoin puts traded at a 7% premium to calls on Deribit, signaling defensive positioning by some traders, even amidst bullish price targets.
 * Traders should be cautious and understand the complex interplay of factors, including ETF flows and options market signals, before making investment decisions, especially considering the risks associated with crypto options trading.
+
+
+
+{{< adsterra_native >}}
 
 ## The $4.5B Disconnect: ETF Exodus Versus $90K Options Bets
 

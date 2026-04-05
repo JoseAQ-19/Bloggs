@@ -17,8 +17,13 @@ title: 'Lake Of The Woods: 269 Ice Fatalities Ignored, Tech''s Winter Gamble Exp
 translationKey: 6ce94786-7ca5-708c-e4f7-9ed6a237ae3c
 type: viral
 ---
+
 ## Executive Summary
 Lake of the Woods has witnessed 269 ice-related fatalities since 1976, primarily due to drowning. The allure of winter recreation, bolstered by technology and the normalization of alcohol consumption, has led to dangerous misconceptions about ice safety. Prominent incidents, such as the sinking of a Ford Super Duty truck, expose the pitfalls of relying on oversimplified ice safety measures and the inadequacies of insurance coverage for such recreational activities. The Minnesota Department of Natural Resources (DNR) warns against the assumption of “safe” ice, emphasizing the variability in thickness. Local authorities are raising alarms about unsafe ice conditions that contradict tech-driven forecasts, highlighting the need for better education around ice safety.
+
+
+
+{{< adsterra_native >}}
 
 ## The Submerged Super Duty: A Cautionary Tale
 

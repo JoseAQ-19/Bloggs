@@ -18,6 +18,7 @@ title: 'Silicon Valley''s Dirty Secret: AI Progress Isn''t Exponential, It''s St
 translationKey: 0aa41e05-473e-e1f6-6527-53b09c4a39ca
 type: ia
 ---
+
 ## Executive Summary
 * ![Silicon Valley's Dirty Secret: AI Progress Isn't Exponential, It's Stalling](/images/exponential-ai-myth-or-reality-en.jpg)
 
@@ -30,6 +31,10 @@ Silicon Valley is facing a harsh reality: AI's seemingly unstoppable progress is
 * The compute cost per marginal improvement in AI models has increased significantly, suggesting diminishing returns.
 
 * This slowdown will delay the arrival of promised AI-powered features and increase the cost of existing ones.
+
+
+
+{{< adsterra_native >}}
 
 ## The $500 Million Data Acquisition Hurdle
 

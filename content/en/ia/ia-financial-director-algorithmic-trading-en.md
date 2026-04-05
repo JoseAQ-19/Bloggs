@@ -18,6 +18,7 @@ title: 'iA Financial: $23 Million Insider Sale, Or Genius AI Play?'
 translationKey: 3b5672fe-a8d1-b4b4-6aa4-c42f4b79f6af
 type: ia
 ---
+
 ## Executive Summary
 * ![iA Financial: $23 Million Insider Sale, Or Genius AI Play?](/images/ia-financial-director-algorithmic-trading-en.jpg)
 
@@ -28,6 +29,10 @@ The $23.8 million share sale by iA Financial insiders isn't just a routine finan
 * A iA Financial director sold C$23,864,656.70 worth of shares in the past 24 months, prompting questions about insider knowledge versus strategic financial maneuvering.
 * Finastra reports that only 2% of financial institutions globally report no AI use, highlighting widespread adoption of AI in finance amid growing skepticism about actual capabilities.
 * Investors should scrutinize AI-driven investment strategies for potential "AI washing," conflicts of interest, and market manipulation risks, per SEC guidance.
+
+
+
+{{< adsterra_native >}}
 
 ## The $23M Sale: Exit Strategy or AI Panic Button?
 

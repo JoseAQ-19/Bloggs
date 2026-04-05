@@ -17,6 +17,7 @@ title: 'Stanley Black & Decker Slashes 50,000 SKUs: Desperate Times?'
 translationKey: 8686e5e4-f4e4-17a7-020c-158fdcc45d3e
 type: tools
 ---
+
 ## Executive Summary
 * ![Stanley Black & Decker Slashes 50,000 SKUs: Desperate Times?](/images/stanley-black-decker-q4-performance-en.jpg)
 
@@ -27,6 +28,10 @@ Stanley Black & Decker’s stock is not reflecting the economic uncertainty hang
 * Stanley Black & Decker slashed 50,000 SKUs as part of a broader transformation program aimed at improving profitability, affecting product breadth.
 * Stanley Black & Decker's COO Chris Nelson stated the company delivered solid results in 2025, with continued gross margin and net income growth, boosting investor confidence.
 * Stanley Black & Decker's SKU reduction could lead to streamlined operations, but also potential limitations in product choice for consumers, raising concerns.
+
+
+
+{{< adsterra_native >}}
 
 ## Facing $800 Million in Tariff Impacts
 

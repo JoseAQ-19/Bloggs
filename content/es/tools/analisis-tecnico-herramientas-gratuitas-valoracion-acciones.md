@@ -17,6 +17,7 @@ title: ¡ALERTA INVERSORES! La CNMV Está Vigilando Tu IA Para Valorar Acciones
 translationKey: 390f6399-5e84-3f40-1820-643f788d652c
 type: tools
 ---
+
 ## Resumen Ejecutivo
 * ![¡ALERTA INVERSORES! La CNMV Está Vigilando Tu IA Para Valorar Acciones](/images/analisis-tecnico-herramientas-gratuitas-valoracion-acciones.jpg)
 
@@ -27,6 +28,10 @@ La promesa de la Inteligencia Artificial en los mercados financieros se está en
 * La CNMV intensifica su escrutinio sobre los modelos de valoración impulsados por IA, priorizando la transparencia frente a la opacidad de los algoritmos de caja negra.
 * Investing.com España afirma que su herramienta ProPicks IA duplicó el rendimiento del S&P 500 en 2024, una afirmación que requiere auditoría técnica ante la falta de explicabilidad.
 * Los inversores enfrentan un nuevo paradigma donde la rentabilidad algorítmica debe sopesarse contra el riesgo de modelo y la creciente intervención de la CNMV en herramientas de inversión automatizada.
+
+
+
+{{< adsterra_native >}}
 
 ## ¿Ventaja Analítica o Caja Negra Opaca? El Dilema de la IA de Investing.com Bajo la Lupa de la CNMV
 

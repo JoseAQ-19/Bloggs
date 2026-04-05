@@ -19,6 +19,7 @@ title: 'Scammers Rake In $333.5 Million: The Dark Truth About Nevada''s Crypto A
 translationKey: c0dddfe1-d1f6-db63-192d-7fc32e4bcbc5
 type: crypto
 ---
+
 ![Scammers Rake In $333.5 Million: The Dark Truth About Nevada's Crypto ATMs](/images/scammers-thrive-in-nevadas-unregulated-crypto-kiosks-aarp-sounds-the-alarm-en.jpg)
 
 ## Executive Summary
@@ -33,6 +34,10 @@ The rise of cryptocurrency ATMs has not been without consequence, as evidenced b
 * According to the FTC, losses from crypto ATM scams more than doubled in 2024, exceeding $240 million, emphasizing the urgency of the situation.
 
 * Seniors have been particularly affected, with 86% of reported losses in Bitcoin ATM scams in early 2024 attributed to individuals aged 60 and older.
+
+
+
+{{< adsterra_native >}}
 
 ## The $333.5 Million Crisis: A Wake-Up Call for Crypto ATM Users
 The alarming figures surrounding crypto ATM scams are indicative of a systemic issue. The FBI's report detailing $333.5 million in losses from January to November 2025 starkly illustrates the growing threat. These losses are not isolated incidents; they form part of a broader pattern that suggests a coordinated effort to exploit the vulnerabilities of crypto ATM users. The FTC has further reported that scam losses reached $65 million in the first half of 2024 alone, a figure that underscores the urgency of addressing this issue. 

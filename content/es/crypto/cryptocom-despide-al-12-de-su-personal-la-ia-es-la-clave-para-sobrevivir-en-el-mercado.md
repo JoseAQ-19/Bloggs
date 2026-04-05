@@ -18,6 +18,7 @@ title: La IA Podría Ser La Clave Para La Supervivencia de Crypto.com Tras Despi
 translationKey: c0c5f3cc-905c-f7b7-1039-b9a8d1e1a183
 type: crypto
 ---
+
 ## Resumen Ejecutivo
 * ![La IA Podría Ser La Clave Para La Supervivencia de Crypto.com Tras Despidos Masivos](/images/cryptocom-despide-al-12-de-su-personal-la-ia-es-la-clave-para-sobrevivir-en-el-mercado.jpg)
 
@@ -26,6 +27,10 @@ type: crypto
 *Crypto.com ha despedido al 20% de su personal global, apostando por la inteligencia artificial como su única vía de supervivencia en un mercado que exige eficiencia y seguridad.* La adopción de IA en España se duplicó al 17% en el último año, superando a Italia y Portugal según el IMIA Index. 
 * La inversión global en IA para el sector cripto superará los 2 mil millones de dólares para 2026, según proyecciones de la industria. 
 * Crypto.com mantiene un TrustScore de 1.5/5 en Trustpilot, con 9,000+ quejas sobre dificultades de retiro y altas comisiones. 
+
+
+
+{{< adsterra_native >}}
 
 ## La lucha de Crypto.com: ¿Puede la IA salvar a la plataforma? 
 Kris Marszalek, CEO de Crypto.com, enfrenta su mayor desafío tras despedir al 20% de su fuerza laboral en enero de 2023, una medida que definió como "necesaria para adaptarse a las capacidades de la inteligencia artificial". La empresa, con 50 millones de usuarios reportados, ha visto su mercado deprimido por una combinación de despidos masivos, quejas recurrentes de usuarios y presión regulatoria en Europa. 

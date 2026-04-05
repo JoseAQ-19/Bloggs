@@ -17,6 +17,7 @@ title: Metformin Extends Life By 5%... In Mice. Here's Why Your Doctor Is Skepti
 translationKey: 24880993-08bb-8772-f566-097f086fdbd1
 type: fitness
 ---
+
 ## Executive Summary
 * ![Metformin Extends Life By 5%... In Mice. Here's Why Your Doctor Is Skeptical](/images/metformin-longevity-hype-or-hope-en.jpg)
 
@@ -29,6 +30,10 @@ The dream of extending human lifespan with a simple pill continues to entice res
 * Diabetics taking metformin lived 15% longer than healthy individuals without diabetes, though this study has received criticism.
 
 * Proven lifestyle changes like strength training are vital, and alternative strategies like glucosamine should be discussed with your doctor.
+
+
+
+{{< adsterra_native >}}
 
 ## The $200 Million Gamble on Metformin's Mouse Study Results
 

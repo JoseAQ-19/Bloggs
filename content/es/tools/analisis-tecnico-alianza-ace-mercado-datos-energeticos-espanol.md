@@ -17,6 +17,7 @@ title: 'Datos Energéticos En Peligro: Ciberataques Aumentan Un 43% Y Nadie Hace
 translationKey: d34a30ab-d17e-aae7-2187-14b2c5f4778b
 type: tools
 ---
+
 ## Resumen Ejecutivo
 * ![Datos Energéticos En Peligro: Ciberataques Aumentan Un 43% Y Nadie Hace Nada](/images/analisis-tecnico-alianza-ace-mercado-datos-energeticos-espanol.jpg)
 
@@ -27,6 +28,10 @@ El mito de la energía verde se desmorona ante la realidad de una infraestructur
 * Los ciberataques contra operadores esenciales en España aumentaron un 43% en 2024, afectando gravemente al sector energético.
 * La Comisión Europea estima ahorros anuales de 79.6 mil millones de euros gracias a los datos abiertos en el sector energético.
 * La falta de inversión en ciberseguridad en el sector energético podría llevar a graves disrupciones en el suministro y riesgos para la seguridad física.
+
+
+
+{{< adsterra_native >}}
 
 ## Ciberseguridad Energética: Una Amenaza Real
 

@@ -18,6 +18,7 @@ title: 'Metformin''s Dirty Secret: Diarrhea, Disappointment, and Dubious Benefit
 translationKey: 281d66bf-3f79-0189-49c3-c7b4f52c319b
 type: fitness
 ---
+
 ## Executive Summary
 * ![Metformin's Dirty Secret: Diarrhea, Disappointment, and Dubious Benefits.](/images/metformin-longevity-hack-or-hype-en.jpg)
 
@@ -30,6 +31,10 @@ Metformin, a common treatment for Polycystic Ovary Syndrome (PCOS), is not a per
 * While clinical pregnancy rates are elevated (OR 1.57) with preconception metformin use extending through the first trimester, gastrointestinal side effects are common.
 
 * Tech professionals and investors should note Metformin's modest impact on PCOS beyond slight weight loss and consider alternative treatments such as myo-inositol or chiglitazar.
+
+
+
+{{< adsterra_native >}}
 
 ## Metformin's Gastrointestinal Problem: Diarrhea, Disappointment, and Dubious Benefits
 

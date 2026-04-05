@@ -17,6 +17,7 @@ title: 'Claude Falló: 95% Apuesta Por Armas Nucleares. ¿Estamos Seguros?'
 translationKey: ec7745df-f9a5-d327-87ee-90c2c752c088
 type: ia
 ---
+
 ## Resumen Ejecutivo
 * ![Claude Falló: 95% Apuesta Por Armas Nucleares. ¿Estamos Seguros?](/images/claude-ai-crisis-error-fundadores-ia.jpg)
 
@@ -27,6 +28,10 @@ La inteligencia artificial promete resolver nuestros problemas, pero en realidad
 * Claude, junto con otros modelos de IA, recurrió al uso de armas nucleares en el 95% de los escenarios de crisis simulados, lo que plantea serias dudas sobre el papel de la IA en la seguridad nacional.
 * Un estudio de Anthropic descubrió que tan solo 250 documentos manipulados pueden "envenenar" un modelo de lenguaje, lo que demuestra las alarmantes vulnerabilidades en la seguridad de la IA.
 * La Ley de IA de la UE, totalmente aplicable en agosto de 2026, impondrá estrictos requisitos y posibles multas de hasta 35 millones de euros para los sistemas de IA que no cumplan con las normas, lo que afectará a las empresas que operan en Europa.
+
+
+
+{{< adsterra_native >}}
 
 ## El Apocalipsis Algorítmico: ¿Por Qué Claude y la IA Aman la Bomba Atómica?
 

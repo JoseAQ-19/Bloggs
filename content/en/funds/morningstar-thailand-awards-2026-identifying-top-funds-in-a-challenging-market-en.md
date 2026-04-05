@@ -17,6 +17,7 @@ title: 'Morningstar Thailand Awards 2026: Identifying Top Funds in a Challenging
 translationKey: d512ecfa-bd8a-816f-4018-5ddfb4289dc2
 type: funds
 ---
+
 ## Executive Summary
 * ![Morningstar Thailand Awards 2026: Identifying Top Funds in a Challenging Market](/images/morningstar-thailand-awards-2026-identifying-top-funds-in-a-challenging-market-en.jpg)
 
@@ -27,6 +28,10 @@ type: funds
 * $643 million — the AUM of the winner in the Best Equity Fund category, Kasikorn Thai Equity Fund, with a 1-year return of 15.12% **Morningstar**
 * 12.56% — the 3-year annualized return of the winner in the Best Fixed Income Fund category, Krungsri Bond Fund, with a Sharpe ratio of 0.83 **SEC**
 * 1.23% — the expense ratio of the winner in the Best Index Fund category, SCB Index Fund, with a tracking error of 0.42% **CNMV**
+
+
+
+{{< adsterra_native >}}
 
 ## Morningstar Thailand Awards 2026: A Review of the Winners
 

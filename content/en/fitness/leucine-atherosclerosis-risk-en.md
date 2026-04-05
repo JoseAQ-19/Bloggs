@@ -18,6 +18,7 @@ title: 'Leucine''s Lie: The Supplement Industry Is Killing Your Arteries, New St
 translationKey: 92802407-0d10-491e-2b61-32b88c7b6188
 type: fitness
 ---
+
 ## Executive Summary
 * ![Leucine's Lie: The Supplement Industry Is Killing Your Arteries, New Study Shows](/images/leucine-atherosclerosis-risk-en.jpg)
 
@@ -28,6 +29,10 @@ Without question, creatine is the gold standard by which all strength-related su
 * A new study suggests that exceeding 22% of daily calories from protein, or 25g per meal, may increase the risk of atherosclerosis by activating immune cells.
 * Research from the University of Pittsburgh School of Medicine indicates high leucine intake, especially from animal protein, activates mTOR pathway in macrophages to accelerate atherosclerosis risk.
 * Individuals consuming very high protein diets (≥ 1.4 g per kg per day) should be aware of potential cardiovascular risks and consider a balanced approach with adequate plant-based proteins.
+
+
+
+{{< adsterra_native >}}
 
 ## Leucine's Dark Side: How Muscle Mania May Be Clogging Your Arteries
 

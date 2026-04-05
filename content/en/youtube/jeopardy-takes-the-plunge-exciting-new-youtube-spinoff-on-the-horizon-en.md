@@ -19,6 +19,7 @@ title: The Hidden Dangers Behind Jeopardy!’s Move to Generative AI Question Ge
 translationKey: d309ca50-ff0e-a388-4b9a-29dd61eecd70
 type: youtube
 ---
+
 ## Executive Summary
 * ![The Hidden Dangers Behind Jeopardy!’s Move to Generative AI Question Generation](/images/jeopardy-takes-the-plunge-exciting-new-youtube-spinoff-on-the-horizon-en.jpg)
 
@@ -29,6 +30,10 @@ Jeopardy!'s shift to generative AI question generation threatens to undermine th
 * Generative AI could put 24% of music and 21% of audiovisual creator revenues at risk by 2028, according to a 2024 industry study projecting €22 billion in cumulative losses.
 * Jeopardy! champions typically achieve an 85-95% precision rate when answering questions, far above the capabilities of current AI question-generation systems.
 * Factile, a popular Jeopardy-style game creator, now uses OpenAI's generative AI as the basis for its AutoGen feature, accelerating industry adoption despite accuracy concerns.
+
+
+
+{{< adsterra_native >}}
 
 ## The $22 Billion Gamble: Jeopardy! and the AI Question Dilemma
 

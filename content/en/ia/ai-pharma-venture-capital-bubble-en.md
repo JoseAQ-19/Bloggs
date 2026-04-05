@@ -17,6 +17,7 @@ title: 'AI Pharma''s Dirty Secret: 90% Trial Failure Rate Still Haunts $25B Boom
 translationKey: 7085feb8-6e68-560a-68c6-9f471430eaad
 type: ia
 ---
+
 ## Executive Summary
 * ![AI Pharma's Dirty Secret: 90% Trial Failure Rate Still Haunts $25B Boom](/images/ai-pharma-venture-capital-bubble-en.jpg)
 
@@ -27,6 +28,10 @@ Despite AI biotechs raising $3.8 billion in VC deals in 2025, AI-discovered drug
 * Despite a projected $25 billion investment by 2030, AI-discovered drugs continue to fail in Phase II trials at the same ~60% rate as traditionally developed drugs, revealing a critical gap in AI's impact on clinical success.
 * AI-native biotechs have a nearly 100% valuation premium, with a median valuation of $78 million in 2024, compared to a median of $40 million for the broader biopharma industry.
 * Investors must demand greater transparency and focus on Phase III data to determine if AI's promise translates to tangible improvements in drug efficacy at scale, moving beyond the hype of early-stage results.
+
+
+
+{{< adsterra_native >}}
 
 ## The $25 Billion Hype Cycle: Generative AI's Clinical Reality Check
 

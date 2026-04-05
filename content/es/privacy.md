@@ -8,6 +8,7 @@ quality_tier: fenix_v3_pro_sanitized
 title: Política de Privacidad
 url: /es/privacy/
 ---
+
 # Política de Privacidad
 
 **Fecha de entrada en vigor:** 4 de abril de 2026
@@ -17,6 +18,10 @@ Bienvenido a NovumWorld ("nosotros", "nuestro" o "la plataforma"). Nos compromet
 Esta Política de Privacidad cumple con los requisitos de Google AdSense y el Reglamento General de Protección de Datos (RGPD) europeo.
 
 ---
+
+
+
+{{< adsterra_native >}}
 
 ## 1. Información que recopilamos
 

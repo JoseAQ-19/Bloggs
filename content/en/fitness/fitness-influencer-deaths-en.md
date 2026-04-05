@@ -17,6 +17,7 @@ title: 'Behind The Perfect Body: The Deadly Truth About Fitness Influencers'
 translationKey: b7069537-1195-b9c3-44fd-4905d6cb66cc
 type: fitness
 ---
+
 ## Executive Summary
 * ![Behind The Perfect Body: The Deadly Truth About Fitness Influencers](/images/fitness-influencer-deaths-en.jpg)
 
@@ -27,6 +28,10 @@ The fitness influencer industry has created a $15 billion bubble built on unreal
 * Over 70% of fitness influencers have admitted to using photo editing apps to alter their appearance before posting, according to a 2021 survey by the International Journal of Eating Disorders.
 * The average fitness influencer earns approximately $30,000 per sponsored post, creating a powerful financial incentive to prioritize aesthetic results over sustainable health practices.
 * Following fitness content for just 30 minutes can increase body dissatisfaction by up to 25%, particularly among young adults, as shown in a 2019 study published in Body Image.
+
+
+
+{{< adsterra_native >}}
 
 ## The Filtered Truth: How Instagram's Algorithms Fuel Fitness Fantasies
 

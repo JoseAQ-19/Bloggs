@@ -20,12 +20,17 @@ title: The Hidden Challenges Behind Leon Thomas’ Delta Collaboration With YouT
 translationKey: 197506c3-1937-10d1-236e-c8e5ce3ffc33
 type: youtube
 ---
+
 ![The Hidden Challenges Behind Leon Thomas’ Delta Collaboration With YouTube Premium](/images/rb-star-leon-thomas-teams-up-with-delta-and-youtube-premium-for-exciting-new-project-en.jpg)
 
 ## Executive Summary
 - Leon Thomas' Delta collaboration with YouTube Premium aims to enhance the travel experience for passengers but faces significant backlash and production challenges.
 - YouTube Premium's subscription revenue split designates 55% to creators, yet many creators express concerns about increasing monetization issues and reduced revenue due to the platform's recent price hike of over 40% (**Source: Vertex AI**).
 - As creators navigate revenue uncertainty, audiences may experience content scarcity or a shift towards more premium offerings, impacting their viewing habits.
+
+
+
+{{< adsterra_native >}}
 
 ## The Delta Collaboration: A Star-Studded Initiative with Hidden Pitfalls
 Delta Air Lines and YouTube Premium have joined forces to launch an innovative project featuring R&B artist Leon Thomas, aiming to deliver exclusive live performances to enhance the travel experience. This collaboration is emblematic of a growing trend where brands partner with creators to provide unique experiences that can be marketed as exclusive content. However, this initiative is not without its challenges. The backlash from fans highlights a growing unease about the implications of such collaborations, particularly the fear that they might lead to a fully paid YouTube experience that alienates non-subscribers.

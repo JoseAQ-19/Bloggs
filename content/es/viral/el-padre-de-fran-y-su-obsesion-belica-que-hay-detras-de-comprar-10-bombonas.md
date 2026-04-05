@@ -17,6 +17,7 @@ title: 'La Obsesión Bélica de Un Padre: 10 Bombonas y Riesgos Ocultos Que Igno
 translationKey: 0f96e50a-29fb-95b7-934c-917051a13916
 type: viral
 ---
+
 ## Resumen Ejecutivo
 * ![La Obsesión Bélica de Un Padre: 10 Bombonas y Riesgos Ocultos Que Ignoramos](/images/el-padre-de-fran-y-su-obsesion-belica-que-hay-detras-de-comprar-10-bombonas.jpg)
 
@@ -29,6 +30,10 @@ type: viral
 * España carece de una normativa clara sobre la posesión de artefactos bélicos, lo que puede derivar en serias consecuencias legales para los coleccionistas. 
 
 ---
+
+
+
+{{< adsterra_native >}}
 
 ## La trampa de la colección: ¿pasión o peligro?
 

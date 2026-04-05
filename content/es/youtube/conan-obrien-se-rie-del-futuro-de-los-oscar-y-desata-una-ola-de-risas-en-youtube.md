@@ -18,6 +18,7 @@ title: Conan O’Brien Desata Risas Sobre el Futuro de los Oscar y Causa Polémi
 translationKey: eed2f795-3f3d-7fa2-5172-bab36876ce7d
 type: youtube
 ---
+
 ## Resumen Ejecutivo
 * ![Conan O’Brien Desata Risas Sobre el Futuro de los Oscar y Causa Polémica en YouTube](/images/conan-obrien-se-rie-del-futuro-de-los-oscar-y-desata-una-ola-de-risas-en-youtube.jpg)
 
@@ -28,6 +29,10 @@ type: youtube
 * El acuerdo de la Academia con YouTube para transmitir los Oscar **globalmente** desde 2029 hasta **2033** representa la mayor apuesta comercial en la historia de los premios, valorada en **miles de millones** según fuentes internas.
 
 Conan O'Brien ha arrancado la polémica con su monólogo ácido en los Oscar 2026, bromeando sobre el cambio a YouTube y generando reacciones encontradas. "¿Oscar en YouTube? ¡Esto es como llevar una gala de los Ritz a un McDonald's!", dijo textualmente durante su apertura, refiriéndose al acuerdo de la Academia con la plataforma. La audiencia, en un 82% digital según datos de medición, no solo buscaba premios sino también el espectáculo del humorista. Los números del 2025, con 19.7 millones de espectadores pico, reflejan un leve repunte tras años de sangría, pero están muy lejos del esplendor pasado. La transición a YouTube, anunciada para 2029, es una apuesta desesperada por relevancia que muchos ven como el principio del fin de la tradición.
+
+
+
+{{< adsterra_native >}}
 
 ## El Fracaso de la Tradición: La Caída Audiencial Inevitable
 La Academia de Hollywood ha admitido públicamente su crisis de relevancia. Bill Kramer y Janet Yang, CEO y presidenta respectivamente, reconocieron en **una declaración oficial** que "el formato tradicional ya no engancha a la audiencia joven". Los datos son implacables: los Oscar han perdido más de la mitad de su audiencia en la última década. El desplome más brutal fue entre 2020 y 2021, cuando la cifra cayó de 23.6 millones a 9.85 millones. Aunque 2024 y 2025 mostraron un ligero repunte, los 19.5 y 19.7 millones respectivos son apenas un respiro ante una tendencia estructural. La Academia, según **Pere Bacardit, experto en marketing de EAE Business School**, "ha vivido en una buruja de autocomplacencia, ignorando que sus audiencias potenciales consumen contenido de forma radicalmente diferente". La solución, según él, no es trasladar el evento a otra plataforma, sino reinventarlo por completo: "¿Quiere ver una gala de 4 horas hoy? La respuesta está en el 93% de abandono que registran las transmisiones post-medianoche".

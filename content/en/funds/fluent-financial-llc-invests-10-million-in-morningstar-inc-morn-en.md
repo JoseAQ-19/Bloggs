@@ -17,6 +17,7 @@ title: Fluent Financial LLC Invests $10 Million in Morningstar, Inc. $MORN
 translationKey: 636b5b3d-1315-b20f-7e21-8d689f085ae7
 type: funds
 ---
+
 ## Executive Summary
 * ![Fluent Financial LLC Invests $10 Million in Morningstar, Inc. $MORN](/images/fluent-financial-llc-invests-10-million-in-morningstar-inc-morn-en.jpg)
 
@@ -29,6 +30,10 @@ Fluent Financial LLC recently made headlines by investing $10 million in Morning
 * [Morningstar's stock has appreciated 18% year-to-date, outperforming the S&P 500 by 5% — source Bloomberg]
 
 This influx of capital into Morningstar, which specializes in providing investment research, data, and analytics, signals a pivotal moment in the investment landscape. As the demand for data-driven insights continues to surge, Morningstar's position as a leader in this space is further solidified. Fluent Financial’s decision reflects a broader trend where firms are recognizing the value of comprehensive financial analytics to drive investment strategies.
+
+
+
+{{< adsterra_native >}}
 
 ## Investment Performance Overview
 

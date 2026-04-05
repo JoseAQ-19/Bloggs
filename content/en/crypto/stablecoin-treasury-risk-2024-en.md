@@ -17,6 +17,7 @@ title: 'Tether''s $135 Billion Treasury Binge: Are You Ignoring A Crypto Time Bo
 translationKey: 1db33d91-54a6-5a2f-5ddb-4c3fd7dfabc1
 type: crypto
 ---
+
 ## Executive Summary
 * ![Tether's $135 Billion Treasury Binge: Are You Ignoring A Crypto Time Bomb?](/images/stablecoin-treasury-risk-2024-en.jpg)
 
@@ -26,6 +27,10 @@ type: crypto
 * Tether holds $135 billion in U.S. Treasuries, raising concerns about potential systemic risks if a "run" on the stablecoin triggers massive treasury sales. 
 * Tether reported a $5.2 billion profit during the first half of 2024, while still facing intense regulatory scrutiny and calls for greater reserve transparency. 
 * Investors should diversify their stablecoin holdings and understand the potential for contagion risks within the broader crypto ecosystem, especially regarding DeFi platforms.
+
+
+
+{{< adsterra_native >}}
 
 ## La Bomba de Tiempo de Tether: El Retrato de un Gigante con Reservas Opacas
 Tether's $135 billion position in U.S. Treasuries represents the largest single concentration of stablecoin reserves in the market, dwarfing all other stablecoin issuers combined. This concentration creates an unprecedented systemic vulnerability within the cryptocurrency ecosystem. As of September 2025, Tether's treasury holdings exceed the entire market capitalization of Circle's USDC by a factor of seven, creating a single-point failure scenario for dollar liquidity in crypto markets. The sheer scale of this position makes Tether not merely a participant, but an indispensable pillar of the entire crypto market infrastructure, yet its operational opacity persists. Paolo Ardoino, Tether's CEO, continues to champion transparency narratives while the company has secured only partial attestations from firms like Deloitte for its USAT reserve product, not the full Big Four audit repeatedly demanded by regulators and market participants.

@@ -17,6 +17,7 @@ title: 'Cruise Balcony Deaths: The Terrifying 40% That Cruise Lines Won''t Tell 
 translationKey: 1dac75ed-efa9-0567-e4e6-05a717c3ae45
 type: viral
 ---
+
 ## Executive Summary
 * ![Cruise Balcony Deaths: The Terrifying 40% That Cruise Lines Won't Tell You](/images/cruise-line-balcony-nightmare-en.jpg)
 
@@ -26,6 +27,10 @@ Balcony falls account for 40% of all passenger overboard incidents on cruise shi
 * Approximately 28% of people who go overboard from cruise ships are rescued alive (Kherkher Garcia).
 * Alcohol intoxication is cited in 60-80% of overboard cases, making the cruise industry's all-you-can-drink packages a liability they don't want to acknowledge.
 * Cruise lines have saved an estimated $350 million by avoiding mandatory man overboard detection systems on their 300+ ships globally.
+
+
+
+{{< adsterra_native >}}
 
 ## The $30 Million Question: Why Cruise Lines Skimp on Overboard Detection
 

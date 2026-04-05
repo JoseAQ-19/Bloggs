@@ -18,6 +18,7 @@ title: 'Hegota''s $9.8 Billion ETF Gamble: Is Ethereum Censorship Resistance Wor
 translationKey: 60af96c4-8e67-712a-b491-8963baadff17
 type: crypto
 ---
+
 ## Executive Summary
 * ![Hegota's $9.8 Billion ETF Gamble: Is Ethereum Censorship Resistance Worth The Risk?](/images/ethereum-hegota-upgrade-validator-revolt-en.jpg)
 
@@ -28,6 +29,10 @@ Ethereum's Hegota upgrade is a high-stakes gamble, potentially exposing US-based
 * The Ethereum Hegota upgrade, including FOCIL, aims to enhance censorship resistance, but could expose US-based validators holding $9.8 billion in ETH ETFs to legal repercussions and slashing risks.
 * Validator adoption of MaxEB (EIP-7251) has increased dramatically in 2025, but this consolidation increases the initial slashing penalty for validators with larger effective balances, according to Ethereum Foundation Researcher Jihoon Song.
 * Ethereum stakers should carefully evaluate the risks associated with running validators, given that the Hegota upgrade aims to hardwire censorship resistance and the potential legal and operational challenges validators face under US regulations and validator slashing incidents.
+
+
+
+{{< adsterra_native >}}
 
 ## Ameen Soleimani's $9.8 Billion Dollar OFAC Headache
 

@@ -18,6 +18,7 @@ title: 71-Year-Old Grandmother Shatters Stereotypes as Fitness Competition Final
 translationKey: d9e1a4e3-e37e-8cbb-6819-3faa9a5dd568
 type: fitness
 ---
+
 ## Executive Summary
 * ![71-Year-Old Grandmother Shatters Stereotypes as Fitness Competition Finalist and Inspires Change](/images/71-year-old-grandmother-stuns-as-finalist-in-national-fitness-competition-en.jpg)
 
@@ -28,6 +29,10 @@ The fitness industry has systematically marginalized the most profitable demogra
 * Only 1% of fitness facility members in the UK are over 70, yet this demographic accounted for 75% of COVID-related deaths, highlighting a catastrophic failure in preventative health infrastructure — Health & Fitness Association.
 * A meta-analysis indicates that regular physical activity is correlated with a 20-30% reduction in the risk of cognitive decline and dementia, yet most facilities restrict seniors to low-intensity "chair" classes that fail to trigger the necessary neurogenic mechanisms — **Journal of Physiology**.
 * Engaging in as little as 35 minutes of moderate to vigorous physical activity per week is associated with a 41% lower risk of developing dementia, yet the industry’s "Silver Sneakers" approach often defaults to minimal exertion — Amal Wanigatunga, PhD, Johns Hopkins Bloomberg School of Public Health.
+
+
+
+{{< adsterra_native >}}
 
 ## The Case For Competitive Longevity: The Aging Gap Fraud
 

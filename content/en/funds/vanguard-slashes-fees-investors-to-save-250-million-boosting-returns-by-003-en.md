@@ -18,6 +18,7 @@ title: 'Vanguard Slashes Fees: Investors to Save $250 Million, Boosting Returns 
 translationKey: 4d19ec1d-b06a-5e55-ce1f-562fd70743ab
 type: funds
 ---
+
 ## Executive Summary
 * ![Vanguard Slashes Fees: Investors to Save $250 Million, Boosting Returns by 0.03%](/images/vanguard-slashes-fees-investors-to-save-250-million-boosting-returns-by-003-en.jpg)
 
@@ -30,6 +31,10 @@ type: funds
 * 0.10% — The average expense ratio for Vanguard's index funds, down from 0.13% in 2022 [Source: Vanguard](https://investor.vanguard.com/)
 
 Vanguard, the largest mutual fund provider in the US, has announced a significant reduction in fees across its index fund lineup. This move is expected to save investors approximately $250 million in 2023, resulting in a 0.03% increase in annual returns. The fee reduction is a welcome development for investors, who have been facing increasing costs in the mutual fund industry.
+
+
+
+{{< adsterra_native >}}
 
 ## The Fee Reduction: A Closer Look
 

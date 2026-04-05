@@ -19,6 +19,7 @@ title: The Alarming Truth Behind Mike Jeffries' Prison Tapes and Trial Fitness C
 translationKey: 9269953a-9e1e-c3fb-2c05-8c20734f4158
 type: fitness
 ---
+
 ## Executive Summary
 * ![The Alarming Truth Behind Mike Jeffries' Prison Tapes and Trial Fitness Controversy](/images/ex-abercrombie-ceos-prison-tapes-spark-controversy-over-trial-fitness-en.jpg)
 
@@ -29,6 +30,10 @@ Without question, the ongoing legal saga surrounding Mike Jeffries is more than 
 * Mike Jeffries, former CEO of Abercrombie & Fitch, faces serious allegations including sex trafficking and competency disputes as he undergoes trial in 2024. 
 * Abercrombie & Fitch reported a staggering 16% increase in net sales in 2023, highlighting the company's resilience amid the controversy ([Abercrombie & Fitch Financial Reports](https://www.justice.gov/usao-edny/pr/former-ceo-abercrombie-fitch-and-two-other-individuals-charged-sex-trafficking-and)).
 * The ongoing legal battle and Jeffries' alleged incompetency raise ethical questions about corporate responsibility that tech professionals and investors cannot ignore.
+
+
+
+{{< adsterra_native >}}
 
 ## The Disturbing Allegations Against a Retail Icon
 

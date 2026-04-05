@@ -17,6 +17,7 @@ title: 'Anthropic Just Broke Trust: The Pentagon Fallout Nobody Is Talking About
 translationKey: ceeecf73-af25-99d2-a4cc-8953cab3341f
 type: ia
 ---
+
 ## Executive Summary
 * ![Anthropic Just Broke Trust: The Pentagon Fallout Nobody Is Talking About](/images/anthropic-pentagon-ai-ethics-enterprise-risk-en.jpg)
 
@@ -27,6 +28,10 @@ Anthropic's shiny "AI safety" halo is starting to slip, revealing a much less co
 * Anthropic's potential collaboration with the Pentagon faces ethical scrutiny over military AI guardrails, raising questions about its commitment to its safety pledge.
 * Investors believe companies should increase AI deployment (73%), yet only 18% of GenAI use cases implemented in 2024 yielded measurable ROI, signaling a disconnect.
 * More than 400 major firms have cited AI as a reputational risk in SEC filings in 2025, a 46% jump from 2024, demanding increased due diligence and ethical AI governance.
+
+
+
+{{< adsterra_native >}}
 
 ## Amodei's Dilemma: The Pentagon's Push for Unfettered AI Access
 

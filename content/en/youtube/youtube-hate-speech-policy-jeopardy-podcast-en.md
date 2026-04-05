@@ -18,6 +18,7 @@ title: 'Jeopardy! Host''s YouTube Nightmare: $36 Billion Ad Revenue Masks a Free
 translationKey: 1c707f51-9806-5b5a-57fd-7637b85060d7
 type: youtube
 ---
+
 ## Executive Summary
 * ![Jeopardy! Host's YouTube Nightmare: $36 Billion Ad Revenue Masks a Free Speech Crisis](/images/youtube-hate-speech-policy-jeopardy-podcast-en.jpg)
 
@@ -28,6 +29,10 @@ YouTube's $36.1 billion ad revenue in 2024 masks a growing free speech crisis fo
 * YouTube generated $36.1 billion in ad revenue in 2024, yet faces scrutiny over content moderation policies and their impact on creators.
 * CEO Neal Mohan's crackdown on "AI slop" risks demonetizing legitimate content, raising creator anxiety.
 * Creators are exploring diversified revenue streams and alternative platforms due to YouTube's unpredictable content control.
+
+
+
+{{< adsterra_native >}}
 
 ## Ken Jennings' $36 Billion Headache: The "Omnibus" Podcast Suspension Exposes YouTube's Flaws
 

@@ -17,6 +17,7 @@ title: '¡Alerta Roja! 20 Gramos de Paracetamol: La Nueva Tendencia Mortal en Ti
 translationKey: 84e512fc-f6d5-fb66-5247-e0aa118d1284
 type: viral
 ---
+
 ## Resumen Ejecutivo
 * ![¡Alerta Roja! 20 Gramos de Paracetamol: La Nueva Tendencia Mortal en TikTok](/images/reto-paracetamol-tiktok-peligro-viral.jpg)
 
@@ -27,6 +28,10 @@ Es una ironía macabra que la búsqueda de validación en redes sociales pueda l
 * El "Paracetamol Challenge" en TikTok anima a adolescentes a ingerir dosis peligrosamente altas de paracetamol, con el objetivo de permanecer el mayor tiempo posible en el hospital.
 * Ingerir entre 20 y 25 gramos de paracetamol puede ser letal para los adultos, y niveles superiores a 300 μg/ml cuatro horas después de la ingestión se asocian con daño hepático en el 90% de los pacientes.
 * Los padres deben estar atentos a la actividad de sus hijos en las redes sociales y educarlos sobre los peligros del uso indebido de medicamentos de venta libre como el paracetamol para prevenir daños hepáticos graves o la muerte.
+
+
+
+{{< adsterra_native >}}
 
 ## El Reto del Paracetamol: La Peligrosa Búsqueda de "Likes" en TikTok que Amenaza la Salud Infantil
 

@@ -17,6 +17,7 @@ title: 'Sutherland''s Water Crisis: 94% of Surface Water Contains Dangerous PFAS
 translationKey: 3bfab7b1-f36c-7b64-93cf-ee7aea48da10
 type: ia
 ---
+
 ## Executive Summary
 * ![Sutherland's Water Crisis: 94% of Surface Water Contains Dangerous PFAS Contaminants](/images/sutherland-ias-drinking-water-crisis-what-you-need-to-know-en.jpg)
 
@@ -27,6 +28,10 @@ Open your tap in Sutherland, Iowa, and you might as well be pouring a cocktail o
 * **The EPA estimates the annual cost for public water systems to implement new PFAS regulations at $1.548 billion** — a staggering financial burden on municipalities ([EPA](https://www.epa.gov)).
 * **PFAS exposure has been linked to serious health conditions**, including cancer, immunotoxicity, and liver damage, raising urgent public health concerns ([EPA](https://www.epa.gov)).
 * **Legal settlements related to PFAS contamination are helping, but they will not cover all cleanup costs**, warns Christina Murphy, General Manager of West Des Moines Water Works.
+
+
+
+{{< adsterra_native >}}
 
 ## The $1.5 Billion Cleanup Challenge
 

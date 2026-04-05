@@ -20,6 +20,7 @@ title: 'La Controversia Oculta: 40% de la Población Española en Peligro por Er
 translationKey: 4585e79b-c2db-5f8a-cb86-ee21316bcf31
 type: tools
 ---
+
 ## Resumen Ejecutivo
 - Más del 40% de la población española vive en zonas costeras vulnerables a la erosión.
 - Se invierten 1.063 millones de euros anualmente en saneamiento, cifra que contrasta con los 309 millones destinados a nuevos hoteles en la Costa del Sol.
@@ -28,6 +29,10 @@ type: tools
 - La infraestructura de saneamiento enfrenta cuellos de botella que pueden colapsar ante eventos extremos.
 - La construcción de estructuras rígidas como diques está afectando negativamente la dinámica litoral.
 - Se estima que las proyecciones climáticas podrían afectar gravemente las costas españolas para 2100.
+
+
+
+{{< adsterra_native >}}
 
 ## La Erosión Costera: Un Desafío Inminente
 

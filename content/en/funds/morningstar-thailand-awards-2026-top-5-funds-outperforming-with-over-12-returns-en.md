@@ -18,6 +18,7 @@ title: 'Morningstar Thailand Awards 2026: Top 5 Funds Outperforming with Over 12
 translationKey: d850ec0a-b58f-5d7e-6bf4-a931f5558a90
 type: funds
 ---
+
 ## Executive Summary
 * ![Morningstar Thailand Awards 2026: Top 5 Funds Outperforming with Over 12% Returns](/images/morningstar-thailand-awards-2026-top-5-funds-outperforming-with-over-12-returns-en.jpg)
 
@@ -26,6 +27,10 @@ type: funds
 **Thailand’s mutual funds have defied global economic turbulence, with five top-performing funds delivering returns exceeding 12% over the past year, as revealed at the Morningstar Thailand Awards 2026.*
 * 24.3% annualized return — Bualuang Global Equity Fund **source** 18.9% 3-year annualized return — Krungsri Global Technology Equity Fund **source** 11.2% 5-year CAGR — SCB Global Income Fund **source*
 This year’s winners demonstrate the resilience of Thailand’s investment opportunities amidst global volatility. With a mix of domestic and international exposure, these mutual funds have balanced innovation-led growth with risk-adjusted returns. 
+
+
+
+{{< adsterra_native >}}
 
 ## Performance Analysis: Top Funds Dominating the Thai Market 
 

@@ -17,6 +17,7 @@ title: '98 Billion Dollars: The Shocking Decline of DeFi TVL and Its Consequence
 translationKey: fe39cd22-cf2a-9cdb-6915-21dcdeb2870b
 type: crypto
 ---
+
 ## Executive Summary
 * ![98 Billion Dollars: The Shocking Decline of DeFi TVL and Its Consequences](/images/cryptos-devotees-fight-for-respect-in-a-skeptical-world-en.jpg)
 
@@ -29,6 +30,10 @@ Total Value Locked (TVL) in decentralized finance has collapsed by $72 billion s
 * The global staking market maintains a floor above $245 billion, yet liquid staking protocols now command 40% of the remaining DeFi TVL, concentrating risk in a few dominant players.
 
 This capital flight is not merely a market correction; it is a repricing of risk triggered by a macroeconomic environment that no longer tolerates unaudited experimentation. The era of "degenerate" yield farming has effectively ended, replaced by a harsh Darwinian filter where only protocols with verifiable cash flows and institutional-grade security survive. Institutional investors, once seduced by the promise of passive income, are retreating to the safety of audited lending markets like **Aave** or **Morpho**, leaving high-leverage vaporware to rot.
+
+
+
+{{< adsterra_native >}}
 
 ## The $72 Billion Question: What Went Wrong in DeFi?
 

@@ -17,6 +17,7 @@ title: 'YouTube Studio''s $36 Billion Problem: Glitches Wreak Havoc On Creator P
 translationKey: 91329c6a-7d81-08e8-d3fd-b6efb9f16c2f
 type: youtube
 ---
+
 ## Executive Summary
 * ![YouTube Studio's $36 Billion Problem: Glitches Wreak Havoc On Creator Paychecks](/images/youtube-studio-meltdown-creator-revenue-en.jpg)
 
@@ -26,6 +27,10 @@ Renee Richie,...
 YouTube's algorithm changes in August 2025 caused view drops of up to 40% for some creators, impacting their monetization and revenue predictions.
 Renee Richie, YouTube Creator Liaison, clarified that updates to the YouTube Partner Program are designed to target "mass-produced or repetitive content".
 Creators are exploring alternative platforms like Patreon and Uscreen to diversify their monetization strategies and reduce reliance on YouTube's ad revenue.
+
+
+
+{{< adsterra_native >}}
 
 ## The Algorithm's $36 Billion Shadow: Monetization Chaos Grips YouTube Creators
 

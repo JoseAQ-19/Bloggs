@@ -18,6 +18,7 @@ title: 'Ray Alarcón Rompe el Mito del Bombero Musculoso: Su Secreto Enfurece a 
 translationKey: 35d24516-4b8b-91ba-5eb6-2e297c23338d
 type: fitness
 ---
+
 ## Resumen Ejecutivo
 * ![Ray Alarcón Rompe el Mito del Bombero Musculoso: Su Secreto Enfurece a los Gimnasios](/images/ray-alarcon-bombero-hipertrofia-debate.jpg)
 
@@ -27,6 +28,10 @@ type: fitness
 * Los bomberos con VO2 max por debajo del mínimo recomendado perciben erróneamente su capacidad aeróbica en un 94.4%, según un estudio sobre autoevaluación en bomberos activos. 
 * Fabio Comana de la NASM distingue entre hipertrofia sarcoplasmática (volumen superficial) y miofibrilar (funcional real), siendo esta última la que salva vidas en el fuego. 
 * Ray Alarcón rompe el mito del bombero musculoso al priorizar VO2 max sobre tamaño, demostrando que la fuerza real reside en la eficiencia metabólica, no en el espejo del gimnasio. 
+
+
+
+{{< adsterra_native >}}
 
 ## El Debate que Divide a los Gimnasios: ¿Hipertrofia Sarcoplasmática es el Enemigo del Bombero Eficaz? 
 

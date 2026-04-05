@@ -18,6 +18,7 @@ title: YouTube's $40.4 Billion Ad Empire Topples Disney, Paramount, WBD Combined
 translationKey: 847d4322-6fb7-6cef-b0df-5666b60693a8
 type: youtube
 ---
+
 ## Executive Summary
 * ![YouTube's $40.4 Billion Ad Empire Topples Disney, Paramount, WBD Combined In Streaming War](/images/youtube-ad-revenue-disney-paramount-wbd-en.jpg)
 
@@ -30,6 +31,10 @@ Hollywood's dominance has officially collapsed under the weight of a digital rev
 * Digital video captured 58% of the U.S. TV/video ad spend in 2025, reaching $72.4 billion, while linear TV spend dropped to approximately $55 billion — **Influencer Marketing Hub**.
 
 The traditional media empire is burning, and YouTube is holding the lighter. This is not a transition; it is a massacre. While legacy studios struggle with streaming losses and declining cable bundles, Google’s video engine has quietly morphed into the world’s most profitable media entity. The financial disparity exposes the fatal flaw in Hollywood’s strategy: betting on subscription fatigue while YouTube mastered the art of algorithmic monetization.
+
+
+
+{{< adsterra_native >}}
 
 ## The $2.6 Billion Beatdown: How YouTube's Ad Dominance Silenced Hollywood
 

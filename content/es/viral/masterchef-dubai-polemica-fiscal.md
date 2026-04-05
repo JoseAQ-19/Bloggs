@@ -18,6 +18,7 @@ title: 'Masterchef En Dubái: Hacienda Sospecha Que Ocultan 140.000 Millones De 
 translationKey: 9cb867ac-f441-fa97-0a39-842ef0f57ff5
 type: viral
 ---
+
 ## Resumen Ejecutivo
 * ![Masterchef En Dubái: Hacienda Sospecha Que Ocultan 140.000 Millones De Euros](/images/masterchef-dubai-polemica-fiscal.jpg)
 
@@ -28,6 +29,10 @@ Si creías que el paraíso fiscal era solo cosa de *influencers* y futbolistas, 
 * La Hacienda española sospecha que ciudadanos españoles han ocultado 140.000 millones de euros en Dubái, aprovechándose de la legislación fiscal favorable del emirato.
 * Según la EU Tax Observatory, aproximadamente 12 billones de dólares, el 15% del PIB mundial, están escondidos en paraísos fiscales.
 * Los españoles deben declarar sus bienes en el extranjero a través del Modelo 720, evitando así posibles multas por incumplimiento.
+
+
+
+{{< adsterra_native >}}
 
 ## La Brecha Fiscal de Dubái: Hacienda Apunta a Españoles Con 140.000 Millones Ocultos
 

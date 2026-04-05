@@ -17,6 +17,7 @@ title: '$278 Billion Fitness Lie: How Injury Influencers Are Ripping You Off'
 translationKey: 2bb3862d-0754-085b-1910-9afc72c2c33c
 type: fitness
 ---
+
 ## Executive Summary
 * ![$278 Billion Fitness Lie: How Injury Influencers Are Ripping You Off](/images/fitness-fraud-influencer-injury-en.jpg)
 
@@ -27,6 +28,10 @@ Without question, the fitness industry, slated to reach $278 billion by 2026, ha
 * The US Gym, Health & Fitness Clubs market is a $47.0 billion behemoth in 2026, according to IBISWorld, attracting unscrupulous actors eager to exploit this vast sector.
 * A lawsuit was filed against Brittany Dawn Davis by the Texas Attorney General for allegedly scamming thousands of customers with undelivered personalized fitness plans.
 * Critically evaluate fitness advice, especially from influencers; verify credentials, and prioritize evidence-based approaches to avoid scams and potential harm.
+
+
+
+{{< adsterra_native >}}
 
 ## Brittany Dawn's Empty Promises: How Fitness Influencers Profit From Your Pain
 

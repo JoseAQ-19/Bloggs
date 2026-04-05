@@ -17,6 +17,7 @@ title: 'Crimson Desert: El Batacazo Del 30% Que Pearl Abyss No Quería Que Supie
 translationKey: 690b2ab5-c1e0-c465-6749-cdae51612cd6
 type: tools
 ---
+
 ## Resumen Ejecutivo
 * ![Crimson Desert: El Batacazo Del 30% Que Pearl Abyss No Quería Que Supieras](/images/analisis-tecnico-crimson-desert-ia-etica.jpg)
 
@@ -27,6 +28,10 @@ Las promesas de mundos virtuales inmersivos a menudo chocan con la dura realidad
 * Las acciones de Pearl Abyss, desarrolladora de *Crimson Desert*, se desplomaron casi un 30% tras la publicación de las primeras reseñas del juego, algo que la compañía seguramente quería evitar.
 * Un 52% de los profesionales de la industria de los videojuegos considera que la IA generativa tiene un impacto negativo en el sector, un sentimiento que ha aumentado drásticamente desde el 18% en 2024, según Europa Press.
 * Los jugadores deberían ser conscientes del creciente uso de la IA en el desarrollo de juegos y sus posibles implicaciones éticas, exigiendo transparencia a desarrolladores como Pearl Abyss.
+
+
+
+{{< adsterra_native >}}
 
 ## La Caída del 30%: La Reacción del Mercado a *Crimson Desert* Que Pearl Abyss Quería Evitar
 

@@ -18,6 +18,7 @@ title: 'Carnival''s Deadly Game: Balcony Sleeping Meets Runaway Autopilot, 56 Fa
 translationKey: 6681a4a5-138b-874c-4f7e-538bc8eaa135
 type: viral
 ---
+
 ## Executive Summary
 * ![Carnival's Deadly Game: Balcony Sleeping Meets Runaway Autopilot, 56 Fatalities Already](/images/cruise-control-carnival-balcony-sleeping-en.jpg)
 
@@ -28,6 +29,10 @@ The allure of the open sea masks a troubling reality: onboard dangers are escala
 * Carnival Cruise Line accounts for 59% (44 out of 74) of reported physical assaults on cruise ships since 2022, signaling a potential systemic security issue.
 * Overboard incidents on large cruise ships from 2009 to 2018 resulted in 56 fatalities out of 212 confirmed cases, underscoring the risks of balcony access and intoxication.
 * Passengers must demand increased transparency from cruise lines regarding safety measures, especially concerning alcohol consumption and cybersecurity vulnerabilities, to mitigate the rising risks.
+
+
+
+{{< adsterra_native >}}
 
 ## Carnival's Alarming Assault Stats: A Crime Wave at Sea
 

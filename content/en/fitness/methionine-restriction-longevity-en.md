@@ -17,6 +17,7 @@ title: '80% Less Methionine: The Radical Diet Hack Silicon Valley Is Quietly Try
 translationKey: 7b23ea09-e4ca-fd28-5009-af6721329537
 type: fitness
 ---
+
 ## Executive Summary
 * ![80% Less Methionine: The Radical Diet Hack Silicon Valley Is Quietly Trying](/images/methionine-restriction-longevity-en.jpg)
 
@@ -27,6 +28,10 @@ Without question, Silicon Valley's quest for immortality has led some to explore
 * An 80% reduction in dietary methionine has been shown to extend lifespan by 30-44% in rats, prompting interest in Silicon Valley's longevity scene.
 * Prof. Justin Stebbing of Imperial College London notes the lack of human data supporting methionine restriction as an anti-cancer strategy, despite some promising mouse studies.
 * While a radical shift, consider exploring plant-based diets naturally lower in methionine, but consult a doctor regarding nutritional needs and muscle maintenance to mitigate any adverse effects.
+
+
+
+{{< adsterra_native >}}
 
 ## The Muscle Loss Problem Peter Thiel Isn't Talking About
 

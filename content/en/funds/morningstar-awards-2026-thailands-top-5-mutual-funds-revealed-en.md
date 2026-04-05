@@ -17,8 +17,13 @@ title: 'Morningstar Awards 2026: Thailand''s Top 5 Mutual Funds Revealed'
 translationKey: 65aa3afe-88b7-275c-b0c4-307553f59da8
 type: funds
 ---
+
 ## Executive Summary
 * ![Morningstar Awards 2026: Thailand's Top 5 Mutual Funds Revealed](/images/morningstar-awards-2026-thailands-top-5-mutual-funds-revealed-en.jpg)
+
+
+
+{{< adsterra_native >}}
 
 ## Morningstar Awards 2026: Thailand's Top 5 Mutual Funds Revealed...
 

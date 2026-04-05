@@ -17,6 +17,7 @@ title: 'YouTube''s AI Crackdown: 83% Of Americans Terrified By Election Deepfake
 translationKey: f783666f-6ece-c437-a524-1bbe919efa78
 type: youtube
 ---
+
 ## Executive Summary
 * ![YouTube's AI Crackdown: 83% Of Americans Terrified By Election Deepfakes](/images/youtube-deepfake-crackdown-politicians-journalists-en.jpg)
 
@@ -27,6 +28,10 @@ YouTube's pledge to combat AI-generated election deepfakes rings hollow when bas
 * A January 2025 survey indicated that 83.4% of Americans harbor concerns about AI's potential misuse in spreading misinformation during elections.
 * Deepfake detection accuracy faltered in November 2025, with the Deepfake-Eval-2024 benchmark revealing average scores hovering around 66%.
 * YouTube creators now face demonetization and content removal for not disclosing AI-generated content, raising questions about enforcement.
+
+
+
+{{< adsterra_native >}}
 
 ## YouTube's Policy Minefield: Navigating AI Disinformation in the 2024 Election
 

@@ -18,6 +18,7 @@ title: 'Premios Morningstar 2026: Magallanes Value Investors, triplete históric
 translationKey: e31f181f-24e4-81b5-0279-8c565ed093de
 type: funds
 ---
+
 ## Resumen Ejecutivo
 
 * ![Premios Morningstar 2026: Magallanes Value Investors, triplete histórico como mejor gestora.](/images/premios-morningstar-2026-magallanes-value-investors-triplete-historico-como-mejo.jpg)
@@ -41,6 +42,10 @@ A pesar de los riesgos, Magallanes Value Investors ha logrado un rendimiento sup
 En cuanto a los fondos de inversión que han obtenido un rendimiento negativo en el último año, es importante que los inversores tengan en cuenta que la inversión en fondos de inversión siempre conlleva riesgos. Es importante que los inversores diversifiquen sus inversiones y tengan en cuenta los objetivos y el horizonte de inversión antes de tomar una decisión de inversión.
 
 Magallanes Value Investors ha logrado un triplete histórico como mejor gestora en los premios Morningstar 2026 gracias a su enfoque en la inversión en valor. Sin embargo, es importante que los inversores tengan en cuenta los riesgos y las oportunidades de cada fondo antes de tomar una decisión de inversión.
+
+
+
+{{< adsterra_native >}}
 
 ## ¿Cuáles son los fondos de inversión que han obtenido un rendimiento negativo en el último año?
 

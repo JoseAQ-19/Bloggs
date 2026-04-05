@@ -18,6 +18,7 @@ title: 'Rosanna Pansino''s FBI Report: The Dark Secret Behind MrBeast''s 913 Mil
 translationKey: ccc33134-0c28-12db-6099-e72ee6e7c180
 type: youtube
 ---
+
 ## Executive Summary
 * ![Rosanna Pansino's FBI Report: The Dark Secret Behind MrBeast's 913 Million Monthly Views](/images/mrbeast-youtube-views-controversy-en.jpg)
 
@@ -28,6 +29,10 @@ MrBeast's empire, fueled by billions of views, faces increasing scrutiny regardi
 * Rosanna Pansino reported MrBeast to the FBI over alleged disturbing Telegram chat logs and other unethical practices, casting a shadow over his 913 million monthly views.
 * JackSepticEye criticized MrBeast's AI thumbnail tool, deeming it unethical and potentially damaging to the broader creative ecosystem.
 * YouTube's algorithms can inadvertently create harmful content loops, potentially exposing children to inappropriate material within minutes of initial access.
+
+
+
+{{< adsterra_native >}}
 
 ## MrBeast's Algorithmic Kingdom Under Siege: The Pansino FBI Report
 

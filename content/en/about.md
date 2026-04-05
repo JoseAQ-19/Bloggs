@@ -12,12 +12,17 @@ title: 'The Architecture of Truth: Technical Analysis of NovumWorld and the Comp
 translationKey: about
 url: /en/about/
 ---
+
 ## Executive Summary
 - NovumWorld shifts the media paradigm from passive reporting to active engineering audits, prioritizing compute reality over marketing hype.
 - The analysis identifies the critical bottleneck in current AI development as hardware allocation (H100/B200) rather than just algorithmic innovation.
 - We argue that most current AI startups are precarious wrappers vulnerable to the vertical integration of providers like OpenAI (GPT-4o) and Google (Gemini 1.5 Pro).
 - Novum’s methodology applies technical rigor to biohacking and DeFi, rejecting non-peer-reviewed claims in favor of data-driven evidence.
 - Sovereign AI is positioned as the only viable path forward, emphasizing local model weights (Llama-3-405B) over centralized API dependencies.
+
+
+
+{{< adsterra_native >}}
 
 ## The Commoditization of Information and the Compute Imperative
 

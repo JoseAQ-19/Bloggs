@@ -17,6 +17,7 @@ title: 'Candace Owens'' Evil Scumbag Accusation: Inside TPUSA''s $85 Million Mel
 translationKey: 5c82b628-5f5e-1803-3582-0e3d6161dc88
 type: viral
 ---
+
 ## Executive Summary
 * ![Candace Owens' Evil Scumbag Accusation: Inside TPUSA's $85 Million Meltdown](/images/candace-owens-turning-point-usa-fallout-en.jpg)
 
@@ -27,6 +28,10 @@ The conservative movement is eating its own. Candace Owens' recent broadsides ag
 * Candace Owens accused Turning Point USA (TPUSA) leadership of betraying Charlie Kirk, leading to scrutiny of the organization's financials and internal dynamics.
 * TPUSA's 2024 revenue was $85 million, with expenses totaling $81 million, including significant spending on travel/conventions and compensation.
 * The controversy surrounding TPUSA could impact donor relations and lead to internal divisions, threatening the organization's future stability and influence.
+
+
+
+{{< adsterra_native >}}
 
 ## The $2 Million Donation That Went Up in Smoke
 

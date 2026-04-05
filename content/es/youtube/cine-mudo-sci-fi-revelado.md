@@ -17,6 +17,7 @@ title: '¡191%! Deepfakes Descontrolados En España: El Cine Mudo Es Sólo El In
 translationKey: bc97f6ba-bc20-a33f-3473-6a86666a4c2e
 type: youtube
 ---
+
 ## Resumen Ejecutivo
 * ![¡191%! Deepfakes Descontrolados En España: El Cine Mudo Es Sólo El Inicio](/images/cine-mudo-sci-fi-revelado.jpg)
 
@@ -27,6 +28,10 @@ El auge de los deepfakes en España no es una revolución creativa, sino una ame
 * Los incidentes relacionados con deepfakes en España aumentaron aproximadamente un 191% en los primeros cuatro meses de 2024.
 * La Agencia Española de Protección de Datos (AEPD) ya ha sancionado la creación y difusión de imágenes falsas de contenido sexual generadas por IA, dejando claro que los deepfakes constituyen un procesamiento ilícito de datos personales.
 * Ciudadanos y entidades legales españolas se enfrentan a riesgos crecientes de daños a su reputación y manipulación debido a los deepfakes, lo que exige una mayor vigilancia y conocimiento de las protecciones legales disponibles.
+
+
+
+{{< adsterra_native >}}
 
 ## Borja Adsuara Contra El Gobierno: ¿Medidas Reales o Un Simple Anuncio Contra Los Deepfakes?
 

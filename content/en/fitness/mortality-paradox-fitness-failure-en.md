@@ -17,6 +17,7 @@ title: 'Social Media''s Dangerous Game: Why Fitness Influencers Are Killing You'
 translationKey: 4bb65e13-bcae-6482-3f2d-b13b24f8c1ff
 type: fitness
 ---
+
 ## Executive Summary
 * ![Social Media's Dangerous Game: Why Fitness Influencers Are Killing You](/images/mortality-paradox-fitness-failure-en.jpg)
 
@@ -27,6 +28,10 @@ Fitness influencers with millions of followers are directly causing harm to thei
 * Fitness influencers, despite promoting health, contribute to unrealistic body expectations and the spread of misinformation, evidenced by less than 20% reporting any fitness credentials.
 * A study of 28,248 cancer patients revealed that moderate-to-high physical activity (60+ minutes/week) nearly halved the risk of cancer-related death, highlighting the complexities of health.
 * Tech professionals, VCs, and Wall Street analysts should critically evaluate fitness trends, prioritize verified information, and recognize the potential for harm in blindly following social media advice.
+
+
+
+{{< adsterra_native >}}
 
 ## The Buttermore Effect: When Aspirations Turn Fatal
 

@@ -18,6 +18,7 @@ title: 'Telecoms Españolas Al Borde Del Colapso: La IA Promete Salvación… O 
 translationKey: 084f17ff-da0a-7e42-6176-f976ff1cac2c
 type: ia
 ---
+
 ## Resumen Ejecutivo
 * ![Telecoms Españolas Al Borde Del Colapso: La IA Promete Salvación… O Ruina Total](/images/ia-teleco-espana-crecimiento.jpg)
 
@@ -28,6 +29,10 @@ La promesa de la IA de oro para las telecos españolas podría ser solo pirita.
 * El sector de telecomunicaciones español cerró 2024 con ingresos ligeramente decrecientes (€34.573 mil millones, -0.06%), aunque la inversión en IA aumentará entre un 16% y 30% en 2025.
 * Un estudio del VRAIN Institute concluye que los modelos de lenguaje son cada vez menos fiables desde un punto de vista humano.
 * Las telecos españolas deben equilibrar la promesa de eficiencia y monetización de la IA con los riesgos éticos, regulatorios y de privacidad para evitar un colapso en la confianza y la viabilidad.
+
+
+
+{{< adsterra_native >}}
 
 ## La Falsa Promesa de Ahorro: El Dilema de Telefónica con la Automatización
 

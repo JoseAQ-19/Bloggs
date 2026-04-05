@@ -20,6 +20,7 @@ title: '200,000 Miembros en Fitness Park: El Impacto Real en la Actividad Físic
 translationKey: 2171fe49-58ac-2676-1cc7-f952cd6285f1
 type: fitness
 ---
+
 ## Resumen Ejecutivo
 * ![200,000 Miembros en Fitness Park: El Impacto Real en la Actividad Física en España](/images/fitness-park-acelera-su-crecimiento-89-clubes-y-contando-en-espana.jpg)
 
@@ -34,6 +35,10 @@ Fitness Park ha facturado 60 millones de euros en 2024, pero la verdadera pregun
 El modelo de negocio de bajo coste ha irrumpido en el mercado español con la fuerza de un tsunami financiero. La cadena francesa ha abierto 21 nuevos gimnasios en 2024, alcanzando un total de 48 centros operativos. Stéphane Miras y Edouard Texte, franquiciados de Fitness Park en España, han declarado su satisfacción con estos resultados, aunque los números fríos cuentan una historia de expansión brutal. La empresa invirtió casi 40 millones de euros en 2024 para abrir estas nuevas ubicaciones, una apuesta arriesgada que busca saturar el mercado antes de que la calidad del servicio colapse bajo su propio peso.
 
 Los informes financieros disponibles en los archivos de la [SEC](https://www.sec.gov/Archives/edgar/data/1802156/000114036123015114/ny20007538x4_ars.pdf) revelan que esta expansión no es filantrópica. Fitness Park proyecta ingresos superiores a 90 millones de euros para 2025. Este crecimiento vertiginoso plantea una duda fisiológica inevitable: ¿puede la infraestructura de soporte y la supervisión humana escalar al mismo ritmo que la base de usuarios, o estamos ante la precarización del entrenamiento físico?
+
+
+
+{{< adsterra_native >}}
 
 ## La Ilusión de la Actividad Física: Datos vs. Marketing
 

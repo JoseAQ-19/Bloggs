@@ -17,6 +17,7 @@ title: 'Defensa Ciega: 250 Documentos Bastan Para Doblegar la IA Militar Españo
 translationKey: 22e26681-7e53-233b-4ff5-63cef03b85ae
 type: ia
 ---
+
 ## Resumen Ejecutivo
 * ![Defensa Ciega: 250 Documentos Bastan Para Doblegar la IA Militar Española.](/images/ia-arma-armagedon-algoritmico-ceguera-militar.jpg)
 
@@ -25,6 +26,10 @@ type: ia
 **250 documentos maliciosos bastan para paralizar el escudo de IA militar española.** La estrategia defensiva española se basa en una vulnerabilidad fundamental: un ataque de envenenamiento de datos a gran escala podría anular décadas de inversión tecnológica con un coste marginal para el atacante. 
 
 * **Solo 250 documentos maliciosos pueden comprometer modelos de lenguaje de cualquier tamaño, insertando puertas traseras permanentes según un estudio de Anthropic.** **España registró 29,886 incidentes cibernéticos en 2025, uno cada 13 minutos según Inetum LiveSOC, exponiendo sistemas de defensa basados en IA.** **Más del 50% de las españolas empresas carecen de estrategia de ciberseguridad dedicada a sistemas de IA, según el Centro de Ciberseguridad Nacional.**
+
+
+
+{{< adsterra_native >}}
 
 ## Defensa vulnerable: La amenaza del envenenamiento de datos al escudo de la IA militar española.
 La inteligencia artificial en defensa española opera sobre un principio de fragilidad estructural. Un estudio de Anthropic, citado por el Ministerio de Defensa, demuestra que tan solo **250 documentos maliciosos infiltrados en los conjuntos de entrenamiento** pueden crear vulnerabilidades irreparables en modelos de cualquier escala. No importa si el sistema utiliza Llama-3 70B o GPT-4o; la puerta trasera se inserta en el nivel fundamental del entrenamiento. Los responsables de defensa hablan de "soberanía tecnológica", pero sus sistemas dependen de datos que pueden ser contaminados con un coste equivalente a comprar cinco palés de papel. 

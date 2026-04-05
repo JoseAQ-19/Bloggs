@@ -18,6 +18,7 @@ title: 'Morningstar Thailand Awards 2026: Recognizing Investing Excellence, Key 
 translationKey: d63390e0-69f3-f71f-1cab-070c455cbc8a
 type: funds
 ---
+
 ## Executive Summary
 * ![Morningstar Thailand Awards 2026: Recognizing Investing Excellence, Key Winners Highlighted](/images/morningstar-thailand-awards-2026-recognizing-investing-excellence-key-winners-hi-en.jpg)
 
@@ -28,6 +29,10 @@ type: funds
 * **4.23% average 1-year return** for the Thailand Large-Cap Equity category, with the top performer, Krungsri Asset Management's Krungsri Equity Large Cap Fund, yielding 7.11% **Source: Morningstar**
 * **22.15% average 3-year return** for the Thailand Small-Cap Equity category, with the top performer, UOB Asset Management (Thailand)'s UOB Small Cap Equity Fund, yielding 34.19% **Source: Morningstar**
 * **1.23% average expense ratio** for the Thailand Equity category, with the lowest-cost fund, SCB Asset Management's SCB Thai Equity Fund, having an expense ratio of 0.92% **Source: Morningstar**
+
+
+
+{{< adsterra_native >}}
 
 ## Morningstar Thailand Awards 2026: A Testament to Investment Excellence
 

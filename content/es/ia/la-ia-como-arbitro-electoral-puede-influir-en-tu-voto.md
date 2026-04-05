@@ -17,6 +17,7 @@ title: 'La IA Manipula Votos: 70% de Españoles Temen la Desinformación Elector
 translationKey: 81387f7b-4221-991b-4a7d-d3d595838acb
 type: ia
 ---
+
 ## Resumen Ejecutivo
 * ![La IA Manipula Votos: 70% de Españoles Temen la Desinformación Electoral](/images/la-ia-como-arbitro-electoral-puede-influir-en-tu-voto.jpg)
 
@@ -27,6 +28,10 @@ La creciente sofisticación de los modelos generativos ha impulsado la circulaci
 * El 70% de los ciudadanos en España y Portugal manifiestan una preocupación profunda por la desinformación electoral, según el estudio del proyecto europeo SmartVote con participación de la Universidad Carlos III de Madrid.
 * El 59% de los casos de desinformación identificados durante las elecciones españolas de 2023 se distribuyeron a través de WhatsApp, un canal cifrado de extremo a extremo que escapa a cualquier moderación automatizada convencional.
 * Un 74% de los responsables de ciberseguridad coincide en que el uso de inteligencia artificial para generar información engañosa supone un riesgo significativo para los procesos democráticos, revela una encuesta de Swimlane.
+
+
+
+{{< adsterra_native >}}
 
 ## La Amenaza Silenciosa de la IA en la Democracia Española
 

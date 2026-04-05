@@ -17,6 +17,7 @@ title: 'Bates'' $45 Million Gamble: Will ''Well-Being'' Bankrupt Their Academic 
 translationKey: 0fcbb8ed-2218-0c7e-e98e-3d28329634f3
 type: fitness
 ---
+
 ## Executive Summary
 * ![Bates' $45 Million Gamble: Will 'Well-Being' Bankrupt Their Academic Ranking?](/images/bates-college-fitness-center-overhaul-en.jpg)
 
@@ -27,6 +28,10 @@ Bates College's pivot to prioritizing "well-being" may very well turn into a bal
 * Bates College is investing $14 million, part of a $45 million project, into a new fitness facility and athletic building renovation, raising concerns about the impact on its $447 million endowment and academic ranking.
 * Bates' Director of Athletics, Stacey Bunting, emphasizes the project benefits the entire student body, with over 80% of Bates students using fitness facilities, according to college reports.
 * Students at Bates, and those considering attending, need to weigh the college's commitment to well-being initiatives against potential tuition increases or reduced academic resources resulting from the $45 million expenditure.
+
+
+
+{{< adsterra_native >}}
 
 ## Bates' $45 Million Bet: Will a Fitness Frenzy Outweigh Academic Excellence?
 

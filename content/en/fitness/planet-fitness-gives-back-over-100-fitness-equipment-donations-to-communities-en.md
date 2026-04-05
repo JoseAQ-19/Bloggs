@@ -17,6 +17,7 @@ title: Planet Fitness Donated 100+ Fitness Machines And Changed Community Health
 translationKey: 6d88941e-fab7-b8b8-cd5d-2b0bd25945af
 type: fitness
 ---
+
 ## Executive Summary
 * ![Planet Fitness Donated 100+ Fitness Machines And Changed Community Health Forever](/images/planet-fitness-gives-back-over-100-fitness-equipment-donations-to-communities-en.jpg)
 
@@ -29,6 +30,10 @@ Without question, the impact of corporate donations can often be overstated, par
 * According to Jean O'Shea of the FDNY Foundation, these donations provide essential tools for first responders to maintain their health and fitness.
 
 * This initiative underscores the importance of community engagement in health, presenting an opportunity for local organizations to enhance their wellness programs.
+
+
+
+{{< adsterra_native >}}
 
 ## The Donation Dilemma: Can Philanthropy Change Community Health?
 

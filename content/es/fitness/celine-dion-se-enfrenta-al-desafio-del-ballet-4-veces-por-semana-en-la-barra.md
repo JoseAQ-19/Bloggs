@@ -19,6 +19,7 @@ title: 'Céline Dion Se Lanza Al Ballet: Cuatro Sesiones Semanales y Los Riesgos
 translationKey: 5ed735b3-8cb1-be70-3f13-35140869c262
 type: fitness
 ---
+
 ![Céline Dion Se Lanza Al Ballet: Cuatro Sesiones Semanales y Los Riesgos Ocultos](/images/celine-dion-se-enfrenta-al-desafio-del-ballet-4-veces-por-semana-en-la-barra.jpg)
 
 ## Resumen Ejecutivo
@@ -28,6 +29,10 @@ type: fitness
 * Según [Juan Pedro Barranco](https://pubmed.ncbi.nlm.nih.gov/27463293/), fisioterapeuta del Ballet Nacional de España, entre el 90 y el 95% de los bailarines profesionales sufren lesiones, siendo el tobillo una de las áreas más afectadas.
  
 * La búsqueda de rehabilitación adecuada y especializada es crucial para prevenir lesiones en los bailarines, lo que podría tener implicaciones importantes para la salud de Dion y su carrera.
+
+
+
+{{< adsterra_native >}}
 
 ## La peligrosa danza de Céline Dion: entre el arte y la salud
 

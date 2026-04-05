@@ -17,6 +17,7 @@ title: Lancaster Gyms Just Solved Fitness's 60% Problem; Big Gyms Should Be Terr
 translationKey: 7437b633-3a9a-b3dc-4fe0-0e1e3a0386c0
 type: fitness
 ---
+
 ## Executive Summary
 * ![Lancaster Gyms Just Solved Fitness's 60% Problem; Big Gyms Should Be Terrified](/images/lancaster-gyms-women-of-color-fitness-en.jpg)
 
@@ -27,6 +28,10 @@ The fitness industry's obsession with homogenous ideals has left a lucrative mar
 * Nearly 60% of African American women are classified as obese, almost twice the rate of Caucasian women, highlighting a critical need for targeted fitness solutions.
 * In 2022, only 9.3% of fitness experts and personal trainers were Black, underscoring the severe underrepresentation within the industry.
 * Gym-goers should prioritize spaces with strong community aspects and DEI initiatives, and fitness businesses must embrace inclusivity to retain a diverse customer base.
+
+
+
+{{< adsterra_native >}}
 
 ## Planet Fitness's $400 Million Mistake: Missing the Inclusivity Mark
 

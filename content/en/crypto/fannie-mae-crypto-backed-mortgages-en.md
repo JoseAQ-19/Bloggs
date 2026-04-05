@@ -17,6 +17,7 @@ title: $18.8 Billion Crypto Mortgage Bomb? IMF Warns Of Systemic Risk Nightmare.
 translationKey: 73e65f34-6b7b-7a82-5ad7-7dcf21aef8ff
 type: crypto
 ---
+
 ## Executive Summary
 * ![$18.8 Billion Crypto Mortgage Bomb? IMF Warns Of Systemic Risk Nightmare.](/images/fannie-mae-crypto-backed-mortgages-en.jpg)
 
@@ -27,6 +28,10 @@ Tokenized mortgage-backed securities are projected to grow into an $18.8 billion
 * The tokenized MBS market is projected to reach $18.8 billion by 2034, sparking IMF concerns about systemic risk amplified by liquidity mismatches between daily redemptions and underlying asset settlement cycles.
 * Fannie Mae has delivered over 1.4 million eMortgages since 2022 while exploring crypto-backed collateral, despite Basel III assigning 20% risk-weighting to its MBS products.
 * SEC Chairman Paul S. Atkins warns that "securities, however represented, remain securities" amid SIFMA concerns about exemptions undermining investor protection.
+
+
+
+{{< adsterra_native >}}
 
 ## The $18.8 Billion Question: Will Tokenized Mortgages Trigger a Financial Earthquake?
 

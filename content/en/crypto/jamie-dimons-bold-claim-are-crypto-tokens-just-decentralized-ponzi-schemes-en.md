@@ -19,8 +19,13 @@ title: 'The $4 Trillion Crypto Bet: Why Jamie Dimon Says It’s a Dangerous Scam
 translationKey: e159d524-8459-b545-743f-da3ae9595897
 type: crypto
 ---
+
 ## Executive Summary
 * ![The $4 Trillion Crypto Bet: Why Jamie Dimon Says It’s a Dangerous Scam](/images/jamie-dimons-bold-claim-are-crypto-tokens-just-decentralized-ponzi-schemes-en.jpg)
+
+
+
+{{< adsterra_native >}}
 
 ## A $4 Trillion Gamble: The Promise and Peril of Crypto's Institutional Adoption...
 

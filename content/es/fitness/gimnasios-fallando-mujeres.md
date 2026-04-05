@@ -19,6 +19,7 @@ title: '60% de Retención: La Gran Falta de Gimnasios Para Atraer a Mujeres'
 translationKey: b16b8cd7-a85f-ab15-0294-a736f20924ae
 type: fitness
 ---
+
 ## Resumen Ejecutivo
 * ![60% de Retención: La Gran Falta de Gimnasios Para Atraer a Mujeres](/images/gimnasios-fallando-mujeres.jpg)
 
@@ -29,6 +30,10 @@ La industria del fitness en España es una burbuja de 1.65 mil millones de euros
 * El mercado español de gimnasios facturará 1.65 mil millones de euros en 2025, pero sufre una tasa de abandono anual (churn) de hasta el 60%, un fracaso de retención inaceptable para cualquier otro sector.
 * Las mujeres representan el 57% de la asistencia global a gimnasios, pero en España solo el 37% practica deporte regularmente frente al 46.2% de los hombres, según datos del [estudio "Women and Physical Activity in Fitness Centres"](https://pubmed.ncbi.nlm.nih.gov/32708011/).
 * Mejorar la retención en un 4% en un gimnasio promedio generaría 60.000 euros adicionales al año, demostrando que la exclusión femenina no es solo un problema social, sino una incompetencia financiera de los gestores.
+
+
+
+{{< adsterra_native >}}
 
 ## La gran desconexión: El fracaso financiero de la exclusión
 

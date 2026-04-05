@@ -9,6 +9,7 @@ quality_tier: fenix_v3_pro_sanitized
 title: Privacy Policy
 url: /en/privacy/
 ---
+
 # Privacy Policy
 
 **Effective Date:** April 4, 2026
@@ -18,6 +19,10 @@ Welcome to NovumWorld ("we," "our," or "us"). We are committed to protecting you
 This Privacy Policy is intended to meet Google AdSense requirements, the General Data Protection Regulation (GDPR), and the California Consumer Privacy Act (CCPA).
 
 ---
+
+
+
+{{< adsterra_native >}}
 
 ## 1. Information We Collect
 

@@ -19,6 +19,7 @@ title: 'Streaming Democracy: 75% Of Local News Views Now Come From YouTube'
 translationKey: 5a979b62-ae70-0166-4b5b-4c9c9ea3bd1e
 type: youtube
 ---
+
 ## Executive Summary
 * ![Streaming Democracy: 75% Of Local News Views Now Come From YouTube](/images/streaming-democracy-political-consultant-brings-nh-executive-council-meetings-live-to-youtube-en.jpg)
 
@@ -31,6 +32,10 @@ type: youtube
 * Political streaming activity surged by 513% in 2024, with Gen Z voters spending over three hours daily on phones consuming political content (Q1 2024 Political Streaming Report).
 
 The New Hampshire Executive Council meetings now draw more viewers from YouTube than from any other platform combined, creating an unprecedented dependency on a single tech giant for democratic transparency. This isn't just about convenience—it's about handing control over public discourse to algorithms designed for engagement, not accuracy.
+
+
+
+{{< adsterra_native >}}
 
 ## YouTube: The New Town Hall for Local News
 

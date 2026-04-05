@@ -17,6 +17,7 @@ title: 'Kings League En Caída Libre: ¿El Circo de Piqué Pierde 400.000 Espect
 translationKey: 36526cb2-be16-5b8b-6504-0eba50cd2101
 type: viral
 ---
+
 ## Resumen Ejecutivo
 * ![Kings League En Caída Libre: ¿El Circo de Piqué Pierde 400.000 Espectadores?](/images/kings-league-crisis-audiencia-gerard-romero.jpg)
 
@@ -33,6 +34,10 @@ La burbuja de la Kings League está reventando. No es simplemente un descenso de
 **Contexto.** La Kings League nació en enero de 2023 como una revolución: fútbol 7 con reglas absurdas, presidentes influencers y emisión en Twitch. Su auge explosivo coincidió con el regreso de Kun Agüero y la presencia de Ronaldinho, picos que llegaron a los **2,22 millones** de espectadores. Pero el modelo dependía de tres pilares inestables: la novedad, el carisma individual y la gratuidad. Cuando la novedad se volvió rutina, los streamers dejaron de ser creadores para convertirse en empleados mal pagados, y la audiencia descubrió que el "circo" carecía de profundidad deportiva. 
 
 **Por qué es importante.** Este declive no afecta solo a Piqué. Es un caso de estudio sobre la fragilidad de los proyectos basados en el engagement digital sin un producto tangible. La industria deportiva observa con atención cómo la Kings League podría convertirse en una lección sobre los límites del "fútbol espectáculo". 
+
+
+
+{{< adsterra_native >}}
 
 ## El "Circo" de Tebas: Más Allá del Streaming Gratuito, ¿Problemas Fundamentales? 
 Javier Tebas, presidente de La Liga, no dudó en calificar a la Kings League como un **"circus"**. Su crítica, aunque ácida, apunta a un problema estructural: la liga opera en un limbo entre deporte y entretenimiento, pero sin los cimientos de ninguno. El streaming gratuito fue su gran arma, pero también su talón de Aquiles. 

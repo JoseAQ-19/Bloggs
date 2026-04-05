@@ -17,6 +17,7 @@ title: '90% Of AI Projects Will Fail: VC''s $258 Billion Disaster Waiting To Hap
 translationKey: 67fa511d-27dd-36ea-cfd7-87c7a6410262
 type: ia
 ---
+
 ## Executive Summary
 * ![90% Of AI Projects Will Fail: VC's $258 Billion Disaster Waiting To Happen](/images/ai-venture-capital-returns-en.jpg)
 
@@ -27,6 +28,10 @@ The AI gold rush is about to become the AI graveyard. Nearly $259 billion in ven
 * In 2025, AI firms captured 61% of global venture capital, totaling $258.7 billion out of $427.1 billion, with 79% flowing to U.S.-based companies.
 * The San Francisco Bay Area alone captured 60% ($126 billion) of global AI funding in 2025, yet still faces a 90% failure rate for projects.
 * Top "supernova" AI startups are reaching $40M ARR in their first year, but these outliers mask a brutal reality where most AI ventures burn through millions without delivering measurable business value.
+
+
+
+{{< adsterra_native >}}
 
 ## The $258 Billion Echo Chamber
 

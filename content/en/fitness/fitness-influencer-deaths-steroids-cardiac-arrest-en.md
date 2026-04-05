@@ -20,6 +20,7 @@ title: 'The Dark Side Of Fitness: 46 Deaths Uncovered Among Bodybuilders Nobody 
 translationKey: 92b59a1c-e2e6-f2b2-16eb-2a1fcb0bd5ae
 type: fitness
 ---
+
 ## Executive Summary
 * ![The Dark Side Of Fitness: 46 Deaths Uncovered Among Bodybuilders Nobody Talks About](/images/fitness-influencer-deaths-steroids-cardiac-arrest-en.jpg)
 
@@ -30,6 +31,10 @@ The pursuit of an extreme physique has morphed from a niche subculture into a le
 * Professional male bodybuilders face a fivefold higher risk of sudden cardiac death compared to amateur bodybuilders, as highlighted in a study from the *European Heart Journal*.
 * An estimated 3% of anabolic-androgenic steroid users develop acute myocardial infarction before the age of 50, according to current research.
 * The pursuit of extreme physiques fueled by social media pressures is leading to significant health risks, necessitating greater awareness and preventive strategies.
+
+
+
+{{< adsterra_native >}}
 
 ## The Hidden Epidemic in Bodybuilding
 

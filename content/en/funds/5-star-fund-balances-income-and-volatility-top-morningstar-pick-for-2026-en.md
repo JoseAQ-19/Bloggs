@@ -17,6 +17,7 @@ title: '5-Star Fund Balances Income and Volatility: Top Morningstar Pick for 202
 translationKey: a0b0bb6c-66a4-00fa-9737-142ebb16ea84
 type: funds
 ---
+
 ## Executive Summary
 * ![5-Star Fund Balances Income and Volatility: Top Morningstar Pick for 2026](/images/5-star-fund-balances-income-and-volatility-top-morningstar-pick-for-2026-en.jpg)
 
@@ -29,6 +30,10 @@ type: funds
 - *Sharpe ratio of 1.12*, outperforming 85% of its peers — **Financial Times**. 
 
 This equity-income fund not only delivers consistent returns but also serves as a hedge against market volatility, making it a compelling option for risk-averse investors. 
+
+
+
+{{< adsterra_native >}}
 
 ## Performance Analysis: Steady Returns Amid Market Turbulence 
 

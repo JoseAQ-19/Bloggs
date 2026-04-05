@@ -19,6 +19,7 @@ title: 'YouTube''s Algorithmic Deception: 51.5% of Voters Swayed by Video Manipu
 translationKey: e67ae583-07fa-2d40-dadf-1c72a4c76533
 type: youtube
 ---
+
 ## Executive Summary
 * ![YouTube's Algorithmic Deception: 51.5% of Voters Swayed by Video Manipulation](/images/youtube-algorithmic-mirage-en.jpg)
 
@@ -29,6 +30,10 @@ YouTube's video manipulation has swayed voting preferences by 51.5% to 65.6% amo
 * YouTube's "pester power" converts kids' requests into purchases, making it the most important platform for Generation Alpha's political formation.
 * A study by Guillaume Chaslot found that YouTube was six times more likely to recommend pro-Trump videos during the 2016 election than pro-Clinton content.
 * The implications for users are profound; they may unknowingly be influenced by content algorithms that prioritize engagement over factual integrity.
+
+
+
+{{< adsterra_native >}}
 
 ## The Algorithm's Hidden Hand: YouTube's Influence on Voter Behavior
 

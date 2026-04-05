@@ -17,6 +17,7 @@ title: 'UTMB Coach Drops Truth Bomb: VO2 Max Is the WORST Predictor for Runners'
 translationKey: 5b7e4f20-4c8f-4756-63e7-38bdf2ed878d
 type: fitness
 ---
+
 ## Executive Summary
 * ![UTMB Coach Drops Truth Bomb: VO2 Max Is the WORST Predictor for Runners](/images/beyond-vo2-max-better-biomarkers-en.jpg)
 
@@ -29,6 +30,10 @@ VO2 max, often considered the gold standard for endurance athletes, may be less 
 * A study indicated that recreational endurance runners with high baseline heart rate variability (HRV) showed greater performance improvements compared to those with low HRV.
 
 * To optimize performance, runners should prioritize refining their lactate threshold and enhancing their running economy alongside, or even instead of, chasing a higher VO2 max.
+
+
+
+{{< adsterra_native >}}
 
 ## Challenging the VO2 Max Dogma: Scott Johnston's Perspective
 

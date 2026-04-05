@@ -17,6 +17,7 @@ title: 'Morningstar Awards 2026: PIMCO vs Vanguard Dominates Thai Fund Landscape
 translationKey: 1e89e978-3fc4-a992-b64d-9dc64aaed2b3
 type: funds
 ---
+
 ## Executive Summary
 * ![Morningstar Awards 2026: PIMCO vs Vanguard Dominates Thai Fund Landscape](/images/morningstar-awards-2026-pimco-vs-vanguard-dominates-thai-fund-landscape-en.jpg)
 
@@ -29,6 +30,10 @@ In Thailand's mutual fund landscape, PIMCO and Vanguard are at the forefront, sh
 * **Average expense ratio for equity funds 2025: 0.50% — source Morningstar**
 
 The competition between PIMCO and Vanguard is fierce, particularly in the Thai market, where both funds have positioned themselves as leaders in the fixed-income and equity sectors, respectively. PIMCO’s focus on active management, particularly in bond markets, has resulted in a 3-year Sharpe ratio of 0.85, indicating a strong risk-adjusted return. Conversely, Vanguard’s index-based strategy has provided a low-cost, passive investment option, leading to a lower standard deviation of returns at 12.5%, compared to PIMCO’s 15.2%.
+
+
+
+{{< adsterra_native >}}
 
 ## Comparative Analysis of Funds
 

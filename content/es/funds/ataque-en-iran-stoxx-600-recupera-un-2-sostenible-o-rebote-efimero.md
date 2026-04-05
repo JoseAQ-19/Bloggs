@@ -17,12 +17,17 @@ title: 'Ataque en Irán: Stoxx 600 Recupera un 2%, ¿Sostenible o Rebote Efímer
 translationKey: e15d2480-fb40-0754-4800-b4a7b7829e12
 type: funds
 ---
+
 ## Resumen Ejecutivo
 * ![Ataque en Irán: Stoxx 600 Recupera un 2%, ¿Sostenible o Rebote Efímero?](/images/ataque-en-iran-stoxx-600-recupera-un-2-sostenible-o-rebote-efimero.jpg)
 
 El Stoxx 600 recupera un 2% tras el ataque en Irán, pero los expertos advierten que la volatilidad podría durar semanas, según Morningstar. Tras...
 
 El Stoxx 600 recupera un 2% tras el ataque en Irán, pero los expertos advierten que la volatilidad podría durar semanas, según Morningstar. Tras el reciente aumento de tensiones geopolíticas en Oriente Medio, el índice de referencia europeo ha mostrado resiliencia inmediata, aunque el análisis de flujos y estrategias de los grandes fondos de inversión revela un panorama complejo, con solo el 14% de los gestores activos españoles superando a sus *benchmarks* en los últimos 12 meses, según datos de la **CNMV**.
+
+
+
+{{< adsterra_native >}}
 
 ### **Tabla Comparativa: Rendimientos y Volatilidad de Fondos Europeos**
 - **Hamco Global Value Fund (IE00B8VKKR76)*- Rendimiento 1 año: +17.2% 

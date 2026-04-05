@@ -17,6 +17,7 @@ title: 76-Year-Old Fitness Dynamo Crushes Daily Muscle-Ups While Defying Aging S
 translationKey: 1ca3c7c7-0ef5-14fc-507e-4ebc6bba7ece
 type: fitness
 ---
+
 ## Executive Summary
 * ![76-Year-Old Fitness Dynamo Crushes Daily Muscle-Ups While Defying Aging Science](/images/meet-the-76-year-old-fitness-dynamo-crushing-muscle-ups-daily-en.jpg)
 
@@ -27,6 +28,10 @@ Without question, the narrative around aging often paints a bleak picture of ine
 * A 76-year-old fitness enthusiast demonstrates that daily muscle-ups can significantly counteract age-related muscle loss, showcasing the power of resistance training against sarcopenia. 
 * According to a study published in the Journal of the American Geriatrics Society, adults over 65 with greater muscle mass have a lower risk of premature death, emphasizing the importance of maintaining strength as we age ([PubMed](https://pubmed.ncbi.nlm.nih.gov/38458181/)).
 * This story serves as a call to action for older adults to engage in resistance training and prioritize protein intake to enhance longevity and quality of life.
+
+
+
+{{< adsterra_native >}}
 
 ## The Aging Athlete's Revolution: How One Man Defies the Odds
 

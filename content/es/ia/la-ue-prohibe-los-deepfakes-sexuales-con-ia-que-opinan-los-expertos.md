@@ -18,6 +18,7 @@ title: 'La UE Prohíbe los ''Deepfakes'' Sexuales: 3 Millones de Imágenes Gener
 translationKey: f0534539-f6a2-d249-1a08-42e1bd9a7685
 type: ia
 ---
+
 ## Resumen Ejecutivo
 * ![La UE Prohíbe los 'Deepfakes' Sexuales: 3 Millones de Imágenes Generadas en 11 Días](/images/la-ue-prohibe-los-deepfakes-sexuales-con-ia-que-opinan-los-expertos.jpg)
 
@@ -30,6 +31,10 @@ La proliferación de los 'deepfakes' sexuales ha alcanzado niveles alarmantes en
 * La AEPD impuso una multa de €2,000 a un individuo por distribuir este tipo de contenido, según reportes de la Agencia Española de Protección de Datos.
 
 * Con la llegada del AI Act de la UE, las plataformas y usuarios enfrentarán nuevas sanciones y responsabilidades legales en la creación de contenido generado por IA.
+
+
+
+{{< adsterra_native >}}
 
 ## La Prohibición de los 'Deepfakes' Sexuales: Un Debate Caliente sobre la Privacidad y la Ética
 

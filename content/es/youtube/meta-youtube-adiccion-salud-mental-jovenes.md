@@ -18,8 +18,13 @@ title: '¡Escándalo! Meta Y YouTube Culpables: Adicción Azota Al 21,3% de Adol
 translationKey: 173cd36d-8e74-f34d-3807-6fd3a500a503
 type: youtube
 ---
+
 ## Resumen Ejecutivo
 La adicción a internet y redes sociales entre adolescentes en España ha alcanzado cifras alarmantes, afectando a un 21,3% de este grupo etario, casi el doble de la media europea del 12,7%. Los gigantes tecnológicos Meta (Facebook e Instagram) y YouTube son acusados de diseñar sus plataformas para maximizar el tiempo de uso a expensas de la salud mental de los jóvenes. Investigaciones recientes establecen vínculos directos entre la adicción a redes sociales y síntomas de ansiedad y depresión. Frente a esta crisis, el gobierno español planea medidas regulatorias para proteger a los menores. Este artículo analiza el impacto de los modelos de negocio de estas plataformas y la responsabilidad que tienen en la salud mental de los adolescentes.
+
+
+
+{{< adsterra_native >}}
 
 ## La Trampa Invisible: Meta y YouTube Bajo Fuego Por Explotación Algorítmica de Adolescentes
 

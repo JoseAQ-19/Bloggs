@@ -19,6 +19,7 @@ title: Ex-Blackstone Team's $25M Bid Could Disrupt $3.2 Trillion Private Credit 
 translationKey: 8fc8f8f8-1bd9-9201-3f84-0b928749377f
 type: crypto
 ---
+
 ## Executive Summary
 * ![Ex-Blackstone Team's $25M Bid Could Disrupt $3.2 Trillion Private Credit Market](/images/blockchain-private-credit-revolution-en.jpg)
 
@@ -29,6 +30,10 @@ Global liquidity is tightening as the Federal Reserve signals a prolonged higher
 * Tokenized private credit hit $18.78 billion in on-chain loan value as of November 2025, growing 74% year-over-year, according to **IXS DEX data**.
 * EY's 2025 survey shows 76% of institutional investors plan to increase digital asset allocations in 2026, yet 66% cite regulatory uncertainty as a primary barrier to deployment.
 * BlackRock's BUIDL fund holds $2.88 billion in TVL, proving demand for tokenized liquidity, but smart contract risks remain a systemic threat to broader adoption.
+
+
+
+{{< adsterra_native >}}
 
 ## The Tokenized Credit Revolution
 

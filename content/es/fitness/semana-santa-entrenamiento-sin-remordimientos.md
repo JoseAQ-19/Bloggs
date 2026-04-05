@@ -17,6 +17,7 @@ title: 'Costaleros al Límite: El Secreto Para Evitar Lesiones de Espalda Estas 
 translationKey: 3b14aebe-4b64-025f-2636-9d68a929da96
 type: fitness
 ---
+
 ## Resumen Ejecutivo
 * ![Costaleros al Límite: El Secreto Para Evitar Lesiones de Espalda Estas Fiestas](/images/semana-santa-entrenamiento-sin-remordimientos.jpg)
 
@@ -25,6 +26,10 @@ type: fitness
 **Un tercio de los españoles sufre lesiones musculares anuales, pero los costaleros de Sevilla cargan con el doble de riesgo bajo sus pasos** [3 de cada 10 españados han padecido lesiones musculares, articulares o óseas en el último año — Estudio Nacional de Salud](https://www.ine.es/jaxiT3/Tabla.htm?t=2888) 
 * El mercado español de suplementos deportivos crece 8,7% anual, con 2.000 millones en ventas y 64-92% de uso en deportistas de élite — [Agencia Española de Seguridad Alimentaria y Nutrición (AESAN)](https://www.aesan.gob.es/) 
 * Los costaleros desarrollan microtraumatismos acumulativos equivalentes a levantar 200kg durante 8 horas seguidas — [Universidad de Sevilla](https://www.us.es) 
+
+
+
+{{< adsterra_native >}}
 
 ## El Dolor Silencioso Bajo el Paso: El Riesgo de Lesiones Lumbar en los Costaleros de Sevilla 
 

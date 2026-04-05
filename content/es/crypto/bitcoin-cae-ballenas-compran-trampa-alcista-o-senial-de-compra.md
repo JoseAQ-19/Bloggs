@@ -18,6 +18,7 @@ title: 'Bitcoin A 91.000: Cava Revela La Manipulación Secreta Que Nadie Quería
 translationKey: 08ef61ad-0b4a-4b64-97c3-c5681bc31894
 type: crypto
 ---
+
 ## Resumen Ejecutivo
 * ![Bitcoin A 91.000: Cava Revela La Manipulación Secreta Que Nadie Quería Que Supieras](/images/bitcoin-cae-ballenas-compran-trampa-alcista-o-senial-de-compra.jpg)
 
@@ -28,6 +29,10 @@ Tras desplomarse a $91,000, el análisis sugiere que Bitcoin está experimentand
 * Después de caer a $91,000, el análisis sugiere que Bitcoin está experimentando acumulación por parte de grandes tenedores, a pesar de las acusaciones de posible manipulación del mercado.
 * El número de carteras de Bitcoin que poseen al menos 100 BTC se acerca a las 20,000, un nivel que indica acumulación a largo plazo (datos on-chain).
 * Los inversores deben actuar con cautela, considerando la gestión estratégica de riesgos y la incertidumbre regulatoria mientras la CNMV monitorea el desarrollo de los criptoactivos.
+
+
+
+{{< adsterra_native >}}
 
 ## ¿Manipulación Secreta de Cava o Acumulación Real?: El Debate de los $91,000
 

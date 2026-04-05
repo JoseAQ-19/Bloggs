@@ -17,6 +17,7 @@ title: 'NFL''s CTE Cover-Up: 110 Out Of 111 Brains Showed Damage, But Nobody Car
 translationKey: f1678862-5539-0289-d914-e839061d0b71
 type: viral
 ---
+
 ## Executive Summary
 * ![NFL's CTE Cover-Up: 110 Out Of 111 Brains Showed Damage, But Nobody Cared](/images/nfl-rookies-cte-conspiracy-en.jpg)
 
@@ -27,6 +28,10 @@ The NFL has successfully monetized traumatic brain injury into a $15 billion ann
 * 110 out of 111 deceased NFL players' brains showed evidence of Chronic Traumatic Encephalopathy (CTE) in a 2017 study by [Boston University](https://www.nih.gov/news-events/nih-research-matters/chronic-traumatic-encephalopathy-young-athletes).
 * Boston University researchers diagnosed CTE in 345 of 376 former NFL players, representing 91.7% of the study group, confirming a systemic pathology rather than isolated incidents.
 * The risk of developing CTE doubles for every 2.6 years of playing football, according to data published in the **National Institutes of Health**.
+
+
+
+{{< adsterra_native >}}
 
 ## NFL's $1 Billion Gamble: Ignoring the CTE Epidemic
 

@@ -20,6 +20,7 @@ title: OpenClaw Developers Lose $5,000 to Deceptive Crypto-Wallet Scam and Nobod
 translationKey: 55523c62-f268-b279-d569-2f6d7b4b7326
 type: crypto
 ---
+
 ## Executive Summary
 * ![OpenClaw Developers Lose $5,000 to Deceptive Crypto-Wallet Scam and Nobody Noticed](/images/phishing-alert-openclaw-developers-fall-victim-to-crypto-wallet-scam-en.jpg)
 
@@ -30,6 +31,10 @@ The OpenClaw developers’ recent experience with a deceptive phishing scam high
 * OpenClaw developers lost $5,000 to a phishing scam involving fake "CLAW" tokens that exploited their trust in the project, according to Peter Steinberger, the OpenClaw creator.
 * The FTC reported that victims lost over $1.4 billion in cryptocurrency scams in 2024, highlighting the increasing sophistication of these attacks.
 * Developers must remain vigilant against phishing tactics and treat unsolicited offers as suspicious to protect their assets.
+
+
+
+{{< adsterra_native >}}
 
 ## The $5,000 Phishing Trap That No One Saw Coming
 

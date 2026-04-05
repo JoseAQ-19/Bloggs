@@ -17,6 +17,7 @@ title: 'Mastercard''s Crypto Plan: Are They Secretly After Your Bank Account Nex
 translationKey: 32351da7-df00-264a-00a4-1248080d3b8f
 type: crypto
 ---
+
 ## Executive Summary
 * ![Mastercard's Crypto Plan: Are They Secretly After Your Bank Account Next?](/images/mastercard-crypto-payments-en.jpg)
 
@@ -27,6 +28,10 @@ Mastercard's cryptocurrency ambitions represent a calculated bet on the future o
 * Mastercard has expanded its crypto partnerships by 300% since 2021, according to internal filings, positioning the company to eventually offer banking services.
 * The company's "crypto card" products collect 15% more transaction data than traditional cards, creating unprecedented financial profiling capabilities.
 * Visa's similar initiatives have delayed full rollout three times in 2023 due to regulatory hurdles, signaling the path ahead won't be straightforward.
+
+
+
+{{< adsterra_native >}}
 
 ## The Blockchain Backdoor: Is Michael Miebach Plotting a Banking Takeover?
 

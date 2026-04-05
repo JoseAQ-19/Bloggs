@@ -17,6 +17,7 @@ title: '39% Of CEOs Fired Over Ethics: Is Your Favorite Brand''s Apology Next?'
 translationKey: 3e8eb4e5-d098-ee61-ee34-da97730d730b
 type: viral
 ---
+
 ## Executive Summary
 * ![39% Of CEOs Fired Over Ethics: Is Your Favorite Brand's Apology Next?](/images/apology-industrial-complex-brand-strategy-en.jpg)
 
@@ -29,6 +30,10 @@ Brand apologies are becoming commonplace, potentially masking deeper ethical iss
 * 78% of Gen Z expresses skepticism towards brands' equity, diversity, and sustainability commitments.
 
 * Companies must prioritize authentic CSR initiatives to build consumer trust.
+
+
+
+{{< adsterra_native >}}
 
 ## Reddit's $20 Million Miscalculation: The API Price Hike and Steve Huffman's Backlash
 

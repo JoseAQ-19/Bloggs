@@ -17,6 +17,7 @@ title: 'Google TV Se Derrumba: El ''Efecto TikTok'' Cuesta Un 19% De Alcance.'
 translationKey: 11c20cce-7959-285f-4720-e532bfc6b74e
 type: tools
 ---
+
 ## Resumen Ejecutivo
 * ![Google TV Se Derrumba: El 'Efecto TikTok' Cuesta Un 19% De Alcance.](/images/google-tv-microseries-analisis-tecnico.jpg)
 
@@ -24,6 +25,10 @@ type: tools
 
 **El alcance orgánico en TikTok ha disminuido un 19% en España, afectando la visibilidad de los creadores de contenido y las marcas.** YouTube experimentó un aumento del 76% en reproducciones de video, superando a TikTok en este aspecto, según SPORT. 
 * Los creadores deben diversificar sus fuentes de ingresos, explorando colaboraciones con marcas, suscripciones y venta de mercancía, en lugar de depender exclusivamente del Fondo de Creadores de TikTok. 
+
+
+
+{{< adsterra_native >}}
 
 ## TikTok Se Desinfla: La Competencia de YouTube Shorts Acelera la Caída del Alcance Orgánico 
 El alcance orgánico de TikTok en España ha registrado una caída del 19% durante 2025, una cifra que evidencia una fatiga del usuario y una redistribución del consumo audiovisual. Esta reducción no es marginal: Metricool reporta una disminución adicional del 32% en las interacciones globales. La consecuencia directa es una crisis de visibilidad para creadores y marcas, cuya dependencia del algoritmo de la plataforma se ha vuelto una trampa de rentabilidad. YouTube, por su parte, capitaliza este descontento: sus reproducciones de video han crecido un 76%, impulsadas por Shorts y una estrategia de recomendaciones más predictiva. La migración de audiencias no es anecdótica; representa un cambio estructural en el ecosistema de contenido español, donde la calidad y la retención sustituyen al virality efímero. La saturación de contenido genérico en TikTok ha erosionado su eficacia como canal de descubrimiento. Especialmente en nichos como el gaming o el lifestyle, los usuarios priorizan plataformas con mayor control sobre la experiencia y mejor monétización directa. La estructura de recomendación de TikTok, centrada en el engagement superficial, ha demostrado ser insostenible para creadores que buscan construir audiencias leales y rentables. 

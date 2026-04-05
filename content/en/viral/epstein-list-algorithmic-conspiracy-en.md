@@ -17,6 +17,7 @@ title: 'Epstein Flight Logs: How 1,000 Passengers Fueled QAnon''s Wildest Dreams
 translationKey: ee6c59b0-c2ef-0bef-1c69-4cc8da73a262
 type: viral
 ---
+
 ## Executive Summary
 * ![Epstein Flight Logs: How 1,000 Passengers Fueled QAnon's Wildest Dreams](/images/epstein-list-algorithmic-conspiracy-en.jpg)
 
@@ -27,6 +28,10 @@ The internet is a breeding ground for conspiracy, but rarely does a case intertw
 * Over 1,000 passengers flew on Jeffrey Epstein's planes between 1996 and 2005, fueling QAnon conspiracies about elite involvement in sex trafficking.
 * A Marist University poll indicates that the majority (61%) of Americans disapprove of how the Trump administration handled the Epstein files.
 * The release of Epstein's files exposes the need for greater accountability and transparency among the global elite to prevent future exploitation and abuse.
+
+
+
+{{< adsterra_native >}}
 
 ## The "Client List" That Wasn't: How QAnon Misinterpreted Epstein's Flight Logs
 

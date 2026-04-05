@@ -17,6 +17,7 @@ title: 'Superhuman''s Rows Buy: The 4-Hour AI ''Tax'' Nobody Is Talking About'
 translationKey: d7b7ef59-d6e7-3b17-8f86-15cd00fe35d3
 type: tools
 ---
+
 ## Executive Summary
 - Superhuman's acquisition of Rows aims to enhance AI productivity, but a "4-hour tax" of rework may undermine benefits.
 - A National Bureau of Economic Research (NBER) survey indicates that 80% of companies using AI see no measurable productivity impact.
@@ -24,6 +25,10 @@ type: tools
 - Despite some reports of AI improving productivity, the benefits are not universal, especially for skilled developers.
 - Wall Street predicts a modest 1.5% increase in productivity from AI by 2035, indicating long-term benefits rather than immediate gains.
 - Companies must prioritize effective integration and training to avoid wasting investments in AI.
+
+
+
+{{< adsterra_native >}}
 
 ## Superhuman's $825 Million Gamble: Will Rows Solve the AI Productivity Paradox?
 

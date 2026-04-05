@@ -17,6 +17,7 @@ title: 'Gemini, ChatGPT, Claude: 78% Of Enterprises Ignored This AI Security Fla
 translationKey: 46dd73f7-b028-4672-f429-2938b1926275
 type: ia
 ---
+
 ## Executive Summary
 * ![Gemini, ChatGPT, Claude: 78% Of Enterprises Ignored This AI Security Flaw](/images/enterprise-llm-security-risks-en.jpg)
 
@@ -27,6 +28,10 @@ type: ia
 * 78% of organizations currently use AI in at least one business function, yet only 21% of critical LLM vulnerabilities are properly remediated, according to McKinsey.
 * The enterprise LLM market is projected to skyrocket from $6.7 billion to $71.1 billion by 2034, a tenfold increase that will only amplify the attack surface.
 * Real-time monitoring and response are paramount for LLM applications, requiring robust security measures to protect sensitive data and thwart adversarial attacks, a principle consistently emphasized by security experts.
+
+
+
+{{< adsterra_native >}}
 
 ## Oligo Security's Warning: The Data Leakage Risk Enterprise LLMs are Overlooking
 

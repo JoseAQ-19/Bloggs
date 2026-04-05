@@ -17,6 +17,7 @@ title: 'Curling''s AI Apocalypse: Curly The Robot Is Coming For Your Olympic Gol
 translationKey: 9c28d317-2cd8-fbe1-0635-3833306d8940
 type: viral
 ---
+
 ## Executive Summary
 * ![Curling's AI Apocalypse: Curly The Robot Is Coming For Your Olympic Gold](/images/ai-curling-controversy-en.jpg)
 
@@ -29,6 +30,10 @@ AI is poised to disrupt the niche world of curling, threatening to unseat human 
 * An AI-powered curling robot named "Curly" demonstrated its potential by winning three out of four official matches against professional South Korean curling teams.
 * Curling Canada faced backlash on Reddit for using AI to generate logos, sparking debate over the ethics of AI art and its potential impact on human artists.
 * The integration of AI in curling, spanning from automated robots to predictive shot analysis, portends a significant disruption to traditional roles and strategies, compelling players, coaches, and ice technicians to adapt swiftly.
+
+
+
+{{< adsterra_native >}}
 
 ## The Ice is Melting: Why "Curly" the Curling Robot Rattles Olympic Dreams
 

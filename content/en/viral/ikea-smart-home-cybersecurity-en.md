@@ -17,6 +17,7 @@ title: 'IKEA''s Smart Nightmare: Your $25 Lamp Is Under Attack 30 Times Daily'
 translationKey: 2c7c6544-9e9a-bba1-7eca-a46628798db3
 type: viral
 ---
+
 ## Executive Summary
 * ![IKEA's Smart Nightmare: Your $25 Lamp Is Under Attack 30 Times Daily](/images/ikea-smart-home-cybersecurity-en.jpg)
 
@@ -27,6 +28,10 @@ The promise of a frictionless, automated future is a lie sold by Swedish flat-pa
 * The average connected household with 22 IoT devices faces nearly 30 attacks every 24 hours, making even a $25 smart lamp a target.
 * Only 24% of users regularly update their smart home device firmware, according to unspecified survey results, leaving the majority exposed to potential vulnerabilities.
 * By segmenting your smart home network and regularly updating device firmware, you can significantly reduce your risk of compromise from attacks targeting your IKEA and other smart devices.
+
+
+
+{{< adsterra_native >}}
 
 ## The Silent Blinker: How IKEA's TRÅDFRI System Opens Your Home to Hackers
 

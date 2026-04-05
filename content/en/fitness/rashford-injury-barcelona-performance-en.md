@@ -18,6 +18,7 @@ title: 'Rashford''s Rehab Miracle: 42% Less Re-Injury Risk? Tech Makes Or Breaks
 translationKey: 57833887-9650-e014-00cc-27273cccd92d
 type: fitness
 ---
+
 ## Executive Summary
 * ![Rashford's Rehab Miracle: 42% Less Re-Injury Risk? Tech Makes Or Breaks His Comeback.](/images/rashford-injury-barcelona-performance-en.jpg)
 
@@ -28,6 +29,10 @@ The global sports technology market is a financial bubble poised to burst, proje
 * A structured plyometric progression can reduce re-injury risk by up to 42% in athletes returning from lower limb injuries.
 * In the 2024-2025 Premier League season, there were 593 time-loss injuries, amounting to over 21,000 combined days lost.
 * Sports tech like STATSports can help manage player load and potentially assist with injury risk assessment.
+
+
+
+{{< adsterra_native >}}
 
 ## "Hamstring Hack or Hype? STATSports' $35M Gamble on Rashford's Limp"
 

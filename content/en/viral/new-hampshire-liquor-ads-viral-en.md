@@ -17,6 +17,7 @@ title: 'New Hampshire Liquor Loses $42 Million: Is Dark Humor To Blame?'
 translationKey: 067e028d-d6c4-2e9a-5228-353b96677e5d
 type: viral
 ---
+
 ## Executive Summary
 * ![New Hampshire Liquor Loses \$42 Million: Is Dark Humor To Blame?](/images/new-hampshire-liquor-ads-viral-en.jpg)
 
@@ -27,6 +28,10 @@ New Hampshire's state coffers are feeling the burn after a \$42 million drop in 
 * The New Hampshire Liquor Commission saw a \$42 million revenue decrease from fiscal year 2021 to 2024, potentially linked to evolving consumer preferences and marketing effectiveness.
 * Approximately 50% of shoppers at NHLC stores are from out of state, highlighting the reliance on cross-border commerce (NHLC data).
 * Liquor brands must prioritize ethical marketing strategies and adapt to Gen Z preferences for authenticity and brevity or risk consumer alienation and further revenue decline.
+
+
+
+{{< adsterra_native >}}
 
 ## The \$42 Million Hangover: Can NHLC's Marketing Recover?
 

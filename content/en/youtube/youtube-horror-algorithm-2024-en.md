@@ -18,6 +18,7 @@ title: 'YouTube Horror''s $2,700/Day Secret: Box Office Trembles As Online Screa
 translationKey: 93ef2999-e098-a48b-d518-41549f260fae
 type: youtube
 ---
+
 ## Executive Summary
 * ![YouTube Horror's $2,700/Day Secret: Box Office Trembles As Online Screams Reign](/images/youtube-horror-algorithm-2024-en.jpg)
 
@@ -27,6 +28,10 @@ type: youtube
 * YouTube horror channels generate as much as $2,700 daily through optimized scare tactics, rivaling traditional theatrical box office returns on a per-title basis.
 * YouTube Shorts accumulate approximately 200 billion views daily, creating an unprecedented distribution channel for horror content that bypasses legacy gatekeepers.
 * The algorithm's focus on "viewers trigger a viewer's viewer" demands creators abandon film-school principles in favor of data-driven audience engagement metrics.
+
+
+
+{{< adsterra_native >}}
 
 ## Viewer's Viewer: How YouTube's Algorithm Upends Hollywood
 

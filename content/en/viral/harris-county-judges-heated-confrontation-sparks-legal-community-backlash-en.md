@@ -19,6 +19,7 @@ title: The Alarming Truth Behind Harris County's Judicial Overreach and Ethics V
 translationKey: c98556ad-b3fd-e996-fb7b-cc7892912af6
 type: viral
 ---
+
 ## Executive Summary
 - This in-depth analysis explores the critical points of the ongoing trend, evaluating its direct medium and long-term impact.
 - All information and data have been reviewed following NovumWorld's strict quality standards.
@@ -38,6 +39,10 @@ Justice in Harris County has become a transactional commodity where wealth deter
 * Eleven Harris County judges were publicly admonished in August 2019 for violating state law by ordering hearing officers to deny no-cost bail to thousands of poor defendants, according to the [State Commission on Judicial Conduct](https://www.scjc.texas.gov/media/46781/mcspadden18-0682pubwarn111219.pdf).
 * Seana Willing, Executive Director of the State Commission on Judicial Conduct, highlighted that a judge interjecting herself into the appeal of an inmate she previously prosecuted raises fundamental questions about impartiality and bias.
 * The Texas Center for Justice and Equity paused the release of judicial scorecards in the summer of 2023, effectively blocking public access to data regarding racial disparities in detention rates and bond amounts.
+
+
+
+{{< adsterra_native >}}
 
 ## The Overreach in Harris County’s Judiciary: A Threat to Justice
 

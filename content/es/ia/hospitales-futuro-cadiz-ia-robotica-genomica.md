@@ -17,6 +17,7 @@ title: 'Cádiz al Borde: ¿Serán 155 Algoritmos de IA los Amos de Tu Salud?'
 translationKey: dd01c257-10ce-f8f0-d00e-c9fdd2c17daf
 type: ia
 ---
+
 ## Resumen Ejecutivo
 La implementación de la Inteligencia Artificial (IA) en el Sistema Nacional de Salud (SNS) de España, evidenciada por la identificación de 155 algoritmos en operación, presenta una dicotomía entre el avance tecnológico y los riesgos inherentes a la falta de un marco regulatorio robusto y una auditoría transparente. Este informe analiza las implicaciones críticas para la provincia de Cádiz, destacando las siguientes problemáticas:
 
@@ -26,6 +27,10 @@ La implementación de la Inteligencia Artificial (IA) en el Sistema Nacional de 
 *   **Vulneración de la Privacidad de Datos:** La Ministra de Sanidad, Mónica García, promueve la IA sin abordar adecuadamente los riesgos de seguridad y privacidad. La AEPD ha advertido sobre la derivación de datos sensibles a herramientas externas, a menudo modelos SaaS que no operan bajo un paradigma de "Edge AI", comprometiendo el principio de minimización de datos del GDPR y la soberanía de la información clínica.
 *   **Brecha de Competencias del Personal Sanitario:** Existe una deficiencia crítica en la formación del personal médico sobre las capacidades, limitaciones y riesgos (como las "alucinaciones" de los LLMs) de los sistemas de IA, lo que puede llevar a una dependencia acrítica y a decisiones clínicas subóptimas.
 *   **Falta de Soberanía de Datos:** La dependencia de modelos entrenados con datos ajenos a la demografía local de Cádiz y la exportación de historiales clínicos a proveedores externos, compromete la soberanía digital de los datos de salud de los ciudadanos.
+
+
+
+{{< adsterra_native >}}
 
 ### El Despliegue de IA en el SNS: Una Cifra Que Exige Escutrinio Riguroso
 

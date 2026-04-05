@@ -18,6 +18,7 @@ title: 'Silver Fitness: El Ayuntamiento Promueve Actividades que Reducen Caídas
 translationKey: 3cfb1bf5-f359-4209-4a65-9edb6002d7d7
 type: fitness
 ---
+
 ## Resumen Ejecutivo
 * ![Silver Fitness: El Ayuntamiento Promueve Actividades que Reducen Caídas en un 23%](/images/silver-fitness-el-guateque-del-ayuntamiento-y-el-gimnasio-wup-para-mayores-de-60-anos.jpg)
 
@@ -26,6 +27,10 @@ type: fitness
 **Las personas mayores que practican fuerza específica reducen sus caídas en un 23% — el dato que rompe el mito de que caminar es suficiente para la tercera edad.** Un estudio del CIBERFES (n=2.347, 18 meses) confirma que el entrenamiento de fuerza reduce un 23% las caídas en mayores de 65 años, frente al 12% de los programas solo de caminata. 
 * El 61.5% de españoles mayores de 65 años camina diariamente, superando a los grupos más jóvenes, pero solo un 17.4% realiza actividad física estructurada. 
 * Casi 50.000 mayores de Madrid quedaron sin talleres en 2024 por quiebra del proveedor, evidenciando la fragilidad de los sistemas de envejecimiento activo. 
+
+
+
+{{< adsterra_native >}}
 
 ## El Desafío de la Obsolescencia en Equipos para Mayores 
 El Plan de Inversión en Alta Tecnología (INVEAT) destina 750 millones de euros para actualizar equipos médicos, pero los centros para mayores carecen de infraestructura moderna. **Alfonso Jiménez**, Catedrático de la Universidad Rey Juan Carlos y director de GO fit LAB, critica esta desigualdad: *"La actividad física es una inversión social con un impacto directo y sostenible, pero solo si los equipos no son un riesgo sanitario"*. En municipios como Grazalema, los programas de mayores activos operan con máquinas de más de 20 años, aumentando lesiones por obsolescencia **Fuente: Programa Mayores Activos - Ayuntamiento de Grazalema**. 

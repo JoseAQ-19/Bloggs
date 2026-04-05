@@ -18,6 +18,7 @@ title: 'YouTube''s $28.8 Billion Ad Problem: Are Non-Skippable Ads Killing The G
 translationKey: 69ddb64d-cc61-be27-97bb-3f16c9fd4737
 type: youtube
 ---
+
 ## Executive Summary
 * ![YouTube's $28.8 Billion Ad Problem: Are Non-Skippable Ads Killing The Golden Goose?](/images/youtube-ad-fatigue-creator-exodus-en.jpg)
 
@@ -28,6 +29,10 @@ YouTube's $28.8 billion ad revenue stream is increasingly dependent on a format 
 * YouTube generated $28.8 billion in ad revenue in 2021, but increasing reliance on non-skippable ads threatens user experience and creator loyalty.
 * Research indicates 76% of viewers skip ads when given the option, highlighting the challenge of forced ad views.
 * Creators may need to diversify revenue streams as viewer ad fatigue increases, potentially impacting YouTube's ad revenue model.
+
+
+
+{{< adsterra_native >}}
 
 ## YouTube's 15-Second Hostage Crisis: Are Non-Skippable Ads Driving Viewers to Ad Blockers?
 

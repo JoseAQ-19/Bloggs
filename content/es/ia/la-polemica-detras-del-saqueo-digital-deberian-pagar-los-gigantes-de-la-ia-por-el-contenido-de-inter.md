@@ -19,6 +19,7 @@ title: 'La Verdad Oculta: Los 80% de Autores Españoles Temen el Saqueo Digital 
 translationKey: ce3c3ac6-7afe-d6e6-3bf5-c5979c1983ba
 type: ia
 ---
+
 ![La Verdad Oculta: Los 80% de Autores Españoles Temen el Saqueo Digital de la IA](/images/la-polemica-detras-del-saqueo-digital-deberian-pagar-los-gigantes-de-la-ia-por-el-contenido-de-inter.jpg)
 
 ## Resumen Ejecutivo
@@ -28,6 +29,10 @@ type: ia
 * En Noruega, se destinarán 4 millones de euros anuales a pagar derechos de autor a los editores nacionales por el uso de sus artículos en la formación de IA.
 
 * Los creadores deben exigir transparencia y compensación justa para proteger sus derechos en un mercado cada vez más dominado por la IA.
+
+
+
+{{< adsterra_native >}}
 
 ## El Saqueo Digital: La Amenaza a la Propiedad Intelectual de los Creadores Españoles
 

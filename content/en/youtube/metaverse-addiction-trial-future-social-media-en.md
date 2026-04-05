@@ -18,6 +18,7 @@ title: 'Metaverse Addiction: 47% Think It''s A Danger. Silicon Valley Is Ignorin
 translationKey: fee3c7b6-7f04-60f3-2b73-fb8f31e64fd5
 type: youtube
 ---
+
 ## Executive Summary
 * ![Metaverse Addiction: 47% Think It's A Danger. Silicon Valley Is Ignoring The Warning.](/images/metaverse-addiction-trial-future-social-media-en.jpg)
 
@@ -28,6 +29,10 @@ Silicon Valley is once again betting the farm on a product that nearly half the 
 * Nearly half (47%) of internet users believe addiction to digital worlds like the metaverse is a significant danger, raising concerns about the technology's unchecked growth according to **Market.us Scoop**.
 * Despite a projected global metaverse market of USD 936.6 billion by 2030, ethical considerations and potential mental health risks are largely being downplayed by Silicon Valley investors chasing the next trillion-dollar asset class.
 * Meta and Google are currently facing [federal lawsuits](https://cand.uscourts.gov/wp-content/uploads/cases-of-interest/InRe-SocialMedia-Adolescent-Addiction-Personal-Injury-Products-Liability-Litigation/MDL-3047-Order-re-Multistate-Attorneys-General-and-Florida-Amended-Complaint.pdf) alleging their platforms contribute to declining mental health among teenagers, a precursor to the potential risks posed by immersive VR environments.
+
+
+
+{{< adsterra_native >}}
 
 ## The $936B Blind Spot: Wall Street Chases Metaverse Gold While Ignoring Addiction Fears
 

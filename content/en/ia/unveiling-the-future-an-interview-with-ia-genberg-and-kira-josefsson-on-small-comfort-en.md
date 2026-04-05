@@ -17,6 +17,7 @@ title: '39% Of Novelists Fear AI Will Destroy Their Income: Ia Genberg Speaks Ou
 translationKey: 6c6eec63-3303-a4d0-dce6-fb2f59207a94
 type: ia
 ---
+
 ## Executive Summary
 * ![39% Of Novelists Fear AI Will Destroy Their Income: Ia Genberg Speaks Out](/images/unveiling-the-future-an-interview-with-ia-genberg-and-kira-josefsson-on-small-comfort-en.jpg)
 
@@ -27,6 +28,10 @@ The literary world is in full panic mode as 39% of novelists report income alrea
 * OpenAI faces over 70 copyright infringement lawsuits as authors fight back against AI training on their copyrighted works, with the Bartz v. Anthropic case setting a $1.5B precedent.
 * A staggering 85% of authors expect their future income to decline due to AI adoption, while 23% of writers have already incorporated generative AI into their creative process.
 * The Swedish Social Insurance Agency's AI bias investigation revealed how algorithms disproportionately flagged women, individuals with "foreign" backgrounds, and low-income earners for fraud investigations.
+
+
+
+{{< adsterra_native >}}
 
 ## The AI Income Crisis for Novelists
 

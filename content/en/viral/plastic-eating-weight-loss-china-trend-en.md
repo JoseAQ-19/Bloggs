@@ -17,6 +17,7 @@ title: '$140 Billion Weight Loss Lie: Is ''Plastic Eating'' Next?'
 translationKey: 29b0a592-4933-f1aa-db6e-9100c0030715
 type: viral
 ---
+
 ## Executive Summary
 * ![$140 Billion Weight Loss Lie: Is 'Plastic Eating' Next?](/images/plastic-eating-weight-loss-china-trend-en.jpg)
 
@@ -29,6 +30,10 @@ The weight loss industry is selling dreams, not solutions.
 * The weight loss supplements market is projected to reach $140.16 billion by 2035, fueled by unproven trends like "plastic-wrapped eating" and supplements with questionable safety.
 * North America held 42.12% of the weight loss supplement market in 2025, despite experts warning of the risks of supplements like chitosan and diet pills.
 * Tech professionals should be wary of investing in or using weight loss supplements given the potential for legal repercussions, health risks, and the presence of undeclared drugs as flagged by the FDA.
+
+
+
+{{< adsterra_native >}}
 
 ## The $140 Billion Mirage: Are Weight Loss Supplements the Next Theranos?
 

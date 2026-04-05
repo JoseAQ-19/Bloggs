@@ -18,6 +18,7 @@ title: 'Lukaku''s Hamstring Hell: Are Coaches Ignoring This 17-Fold Increased In
 translationKey: 884b8c1b-27a1-08ee-e406-a8b5a81f38e4
 type: fitness
 ---
+
 ## Executive Summary
 * ![Lukaku's Hamstring Hell: Are Coaches Ignoring This 17-Fold Increased Injury Risk?](/images/lukaku-fitness-fatigue-markers-wearable-tech-injury-prevention-en.jpg)
 
@@ -27,6 +28,10 @@ type: fitness
 * Athletes with a preseason hamstring:quadriceps muscle peak torque ratio of less than 0.6 at 180 u/s had a 17-fold increased risk of sustaining a hamstring injury, indicating a critical oversight in training programs, as reported by **Hamstring Strain Injury in Athletes - jospt**.
 * The Injury Prevention Wearables Market is projected to reach $12.5 billion by 2033, showing the growing financial stake in preemptive athletic care, according to [Injury Prevention Wearables Market Size & Industry Growth 2030](https://www.futuredatastats.com/injury-prevention-wearables-market/).
 * Coaches need to incorporate wearable technology and personalized fatigue monitoring more effectively, or risk facing increased player downtime and diminished performance, as highlighted by **Wearable Tech Will Change Pro Sports — And Sports Law - Loeb & Loeb LLP**.
+
+
+
+{{< adsterra_native >}}
 
 ## Lukaku's Million-Dollar Hamstring: Are Standardized Workloads Setting Players Up to Fail?
 The cost of ignoring personalized data in high-stakes sports is a topic of growing concern, with top athletes like Romelu Lukaku suffering from hamstring injuries that can have a significant impact on their careers. 

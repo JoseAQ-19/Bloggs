@@ -17,6 +17,7 @@ title: '59% Of Traffickers Use The Internet: Are Your Kids Next Beauty Star?'
 translationKey: ad5e2a19-c3bf-8c41-0070-029f8d515fdf
 type: viral
 ---
+
 ## Executive Summary
 * ![59% Of Traffickers Use The Internet: Are Your Kids Next Beauty Star?](/images/child-beauty-deinfluencing-en.jpg)
 
@@ -27,6 +28,10 @@ The commodification of childhood has reached a breaking point where a toddler's 
 * 59% of traffickers use the internet to recruit victims, according to recent data, creating a direct threat pipeline for children with high online visibility.
 * Northwestern University researchers found that skincare routines posted by teens and tweens on TikTok contained an average of 11 potentially irritating active ingredients per routine.
 * Top "kidfluencers" generate up to $26 million annually, yet they possess zero legal rights to the earnings derived from their image and labor.
+
+
+
+{{< adsterra_native >}}
 
 ## Ruby Franke's Fall: Unmasking The Dark Side of "Kidfluencer" Fame
 

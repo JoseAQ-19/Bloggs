@@ -17,6 +17,7 @@ title: 'YouTube''s Algorithm Dominates 70% of Viewing: Why Netflix Should Be Wor
 translationKey: ae00744a-1a92-2b27-991c-a53e1721fb13
 type: youtube
 ---
+
 ## Executive Summary
 * ![YouTube's Algorithm Dominates 70% of Viewing: Why Netflix Should Be Worried](/images/netflixs-ted-sarandos-calls-out-youtube-not-just-cat-videos-but-a-real-competitor-en.jpg)
 
@@ -27,6 +28,10 @@ YouTube's recommendation algorithm drives approximately 70% of the content viewe
 * YouTube's algorithm influences 70% of viewing on the platform, raising competitive concerns for Netflix's subscriber base. 
 * Netflix's ad revenue more than doubled to over $1.5 billion in 2025, highlighting its struggle to adapt amid fierce competition from YouTube. 
 * As viewers increasingly turn to YouTube for content discovery, Netflix must reevaluate its strategies to maintain relevance and market share. 
+
+
+
+{{< adsterra_native >}}
 
 ## The Streaming Wars: YouTube's Algorithm as Netflix's Biggest Threat
 

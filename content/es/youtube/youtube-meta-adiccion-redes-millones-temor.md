@@ -18,6 +18,7 @@ title: 'YouTube, El Monstruo De 44 Minutos: Tu Hijo Cae En La Trampa, Silicon Va
 translationKey: bc4557b3-b5c0-9aef-0642-206fac365760
 type: youtube
 ---
+
 ## Resumen Ejecutivo
 * ![YouTube, El Monstruo De 44 Minutos: Tu Hijo Cae En La Trampa, Silicon Valley Gana](/images/youtube-meta-adiccion-redes-millones-temor.jpg)
 
@@ -29,6 +30,10 @@ type: youtube
 * **El 33%** de los jóvenes españoles desarrolla un uso problemático de internet y redes sociales, siendo las mujeres las más afectadas según **RTVE.es**. 
 
 YouTube, El Monstruo De 44 Minutos: Tu Hijo Cae En La Trampa, Silicon Valley Gana 
+
+
+
+{{< adsterra_native >}}
 
 ## YouTube Contra la Salud Mental: La Batalla Silenciosa por la Atención Adolescente 
 YouTube es un depredador silencioso que alimenta la atención adolescente con algoritmos diseñados para la adicción. El Rubius, con sus 49 millones de suscriptores, representa la cara visible de este sistema. Sus videos se viralizan gracias a un algoritmo que aprende y predice qué contenido mantendrá enganchados a los jóvenes más tiempo. El neuropsicólogo **Andrés Herráiz** lo explica así: "Las redes sociales tienen ingredientes adictivos: inmediatez, estimulación y gratificación rápida, a pesar de que la gente sea consciente de su impacto". 

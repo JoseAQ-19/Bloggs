@@ -17,8 +17,13 @@ title: Meta Just Paid $3 Billion to Influencers and Nobody Noticed the Implicati
 translationKey: 1404889c-fa81-61a2-303f-465b885c87e1
 type: youtube
 ---
+
 ## Executive Summary
 Meta’s recent decision to allocate nearly $3 billion to influencers in 2025 has raised eyebrows, but a deeper analysis reveals that this move is primarily a defensive strategy to combat declining user engagement on its platforms, Facebook and Instagram. While the payout figure appears substantial, it pales in comparison to YouTube's $20 billion in creator compensation during the same timeframe. The disparity in revenue-sharing models highlights a troubling reality for creators on Meta's platforms, which are struggling to sustain viable business models in an increasingly competitive landscape. This article delves into the implications and limitations of Meta's investment in influencer economics, the disparity in revenue-sharing between platforms, and the strategic motives behind such payouts.
+
+
+
+{{< adsterra_native >}}
 
 ## The $3 Billion Blind Spot in Influencer Economics
 

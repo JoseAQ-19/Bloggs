@@ -18,8 +18,13 @@ title: 'NAO Protea European Equities: Un análisis profundo de su enfoque y resu
 translationKey: 35618c8c-8deb-d14d-ee0a-93e19bc693e8
 type: funds
 ---
+
 ## Resumen Ejecutivo
 * ![NAO Protea European Equities: Un análisis profundo de su enfoque y resultados con Sharpe de 0,88.](/images/nao-protea-european-equities-un-analisis-profundo-de-su-enfoque-y-resultados-con.jpg)
+
+
+
+{{< adsterra_native >}}
 
 ## NAO Protea European Equities: Un análisis profundo de su enfoque y resultados con Sharpe de 0,88...
 

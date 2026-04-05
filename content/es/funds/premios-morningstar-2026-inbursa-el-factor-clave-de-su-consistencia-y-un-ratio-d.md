@@ -18,6 +18,7 @@ title: 'Premios Morningstar 2026: Inbursa, el factor clave de su consistencia y 
 translationKey: 93aab363-d3c9-4c9d-95d7-31490314ae2c
 type: funds
 ---
+
 ## Resumen Ejecutivo
 * ![Premios Morningstar 2026: Inbursa, el factor clave de su consistencia y un Ratio de Sharpe de 1.5.](/images/premios-morningstar-2026-inbursa-el-factor-clave-de-su-consistencia-y-un-ratio-d.jpg)
 
@@ -30,6 +31,10 @@ type: funds
 * El 15,6% de los fondos de inversión en México tienen un TER (Total Expense Ratio) inferior al 1,5%, lo que indica un costo razonable para el inversor — [Fuente: Morningstar](https://www.morningstar.es/es/news/274625/etf-destacado-ishares-global-water-ucits-etf-.aspx)
 
 En el mercado financiero mexicano, Inbursa destaca por la consistencia y rentabilidad de sus operaciones. Su fondo de inversión BTG ALFA sobresale particularmente, demostrando un Ratio de Sharpe de 1.5 y un TER del 1.2% en el último año, situándose en el quinto puesto de los fondos más rentables del país, según Morningstar. Este artículo analiza las claves de su éxito, desde su estrategia de inversión hasta su gestión de riesgos, ofreciendo una visión completa para inversores interesados.
+
+
+
+{{< adsterra_native >}}
 
 ## Análisis de rendimiento
 

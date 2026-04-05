@@ -17,6 +17,7 @@ title: 'Vultures'' Incendia YouTube: ¿Kanye West Repetirá el Error Legal del 7
 translationKey: 9c23cb1e-654d-6691-6da6-8406ed80a0c8
 type: youtube
 ---
+
 ## Resumen Ejecutivo
 * ![Vultures' Incendia YouTube: ¿Kanye West Repetirá el Error Legal del 70%?](/images/kanye-west-vultures-youtube-polemica.jpg)
 
@@ -25,6 +26,10 @@ type: youtube
 **El 70% de los artistas emergentes pierden derechos o ingresos por no tomar precauciones legales desde el principio, un riesgo que Kanye West podría estar repitiendo con Universal Music.** Solo el 3.08% de los artistas españoles están satisfechos con los pagos por streaming de sus contratos con los sellos discográficos. 
 * El 94.84% de los artistas sienten que la distribución de ingresos por streaming es injusta. 
 * Unirse a ASCAP como escritor es gratis. Unirse como editor tiene una tarifa única de solicitud de $50. 
+
+
+
+{{< adsterra_native >}}
 
 ## La Sordidez de los Contratos: ¿Repetirá Kanye West el Error del 70% en la Era Digital? 
 

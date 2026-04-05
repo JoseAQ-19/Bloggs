@@ -17,6 +17,7 @@ title: 'El Truco Sucio del Profe: Aprueba Solo a Los 28 Millones Adictos a YouTu
 translationKey: 12ac657d-e957-fbc4-c59b-b67f384d63b4
 type: youtube
 ---
+
 ## Resumen Ejecutivo
 * ![El Truco Sucio del Profe: Aprueba Solo a Los 28 Millones Adictos a YouTube](/images/profesor-youtube-chantaje-digital.jpg)
 
@@ -27,6 +28,10 @@ YouTube atrae a 28 millones de usuarios mensuales en España, una cifra que plan
 * Cada mes, 28 millones de personas en España visitan YouTube, lo que potencialmente influye en cómo los educadores adaptan sus métodos de enseñanza.
 * El 84% de los profesores en la UE han utilizado YouTube en sus aulas, según Oxford Economics, lo que indica una adopción generalizada, pero plantea preguntas sobre la efectividad pedagógica.
 * Es crucial que los padres entiendan cómo los profesores utilizan YouTube en el aula y que hablen activamente con sus hijos sobre seguridad online y la fiabilidad de la información.
+
+
+
+{{< adsterra_native >}}
 
 ## YouTube en el Aula: ¿Innovación Pedagógica o Sumisión a la Adicción?
 

@@ -17,6 +17,7 @@ title: 'Kleiner Perkins'' $3.5B AI Bet: Hallucinations Could Cost Them Everythin
 translationKey: fc90cfee-6a1c-16eb-02a1-aafd0ecca5ed
 type: ia
 ---
+
 ## Executive Summary
 * ![Kleiner Perkins' $3.5B AI Bet: Hallucinations Could Cost Them Everything.](/images/kleiner-perkins-ai-gamble-en.jpg)
 
@@ -27,6 +28,10 @@ Kleiner Perkins just committed $3.5 billion to AI startups based on hallucinatio
 * Kleiner Perkins raised $3.5 billion across two new AI funds, including $1 billion for early-stage ventures and $2.5 billion for growth-stage companies, marking a 75% increase from their previous $2 billion fundraise in less than two years.
 * Claude 4.6 Sonnet exhibits a ~3% hallucination rate, while GPT-5.2 shows 8-12%, and Gemini 2.5 Pro shows 10-15%, with some open-source models hitting hallucination rates of 15-30% or higher.
 * AI-native SaaS companies face brutal churn, showing gross revenue retention at just 40% and net revenue retention at 48%, significantly worse than the B2B SaaS median.
+
+
+
+{{< adsterra_native >}}
 
 ## The $3.5B Illusion: How Hallucinations Could Burst the AI Bubble
 

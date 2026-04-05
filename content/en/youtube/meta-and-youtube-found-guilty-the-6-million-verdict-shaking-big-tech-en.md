@@ -19,6 +19,7 @@ title: $6 Million Verdict Shatters Meta and YouTube’s Facade of User Safety
 translationKey: b9727b7d-0929-ed4b-6a7e-e19b9f70f47e
 type: youtube
 ---
+
 ## Executive Summary
 * ![$6 Million Verdict Shatters Meta and YouTube’s Facade of User Safety](/images/meta-and-youtube-found-guilty-the-6-million-verdict-shaking-big-tech-en.jpg)
 
@@ -29,6 +30,10 @@ A $6 million legal judgment against Meta and YouTube exposes the fragility of a 
 * A Los Angeles jury found Meta and YouTube negligent for failing to warn users about platform dangers, awarding $6 million in damages to a young woman, K.G.M., who claimed addiction to Instagram and YouTube caused severe mental health harm. (Source: Deadline)
 * The FTC has accused platforms like Meta and YouTube of engaging in "vast surveillance," collecting and monetizing far more user data than most people realize. (Source: The Guardian)
 * This ruling could lead to stricter regulations, forcing social media companies to overhaul their data monetization strategies and prioritize user safety.
+
+
+
+{{< adsterra_native >}}
 
 ## A $6 Million Wake-Up Call for Big Tech
 

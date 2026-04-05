@@ -17,6 +17,7 @@ title: 'Ethereum Arrasa: APY del 12% Destrona a Bitcoin Y Convence A Harvard.'
 translationKey: 11c52501-0edf-bc46-6625-23c7eb88a318
 type: crypto
 ---
+
 ## Resumen Ejecutivo
 * ![Ethereum Arrasa: APY del 12% Destrona a Bitcoin Y Convence A Harvard.](/images/harvard-ethereum-bitcoin-cambio-paradigma.jpg)
 
@@ -25,6 +26,10 @@ type: crypto
 * Ethereum's transition to Proof-of-Stake permite staking con APYs que oscilan entre el 4% y el 12%, presentando una alternativa a la intensiva en energía Proof-of-Work de Bitcoin.
 * Harvard Management Company redujo significativamente sus tenencias en ETF de Bitcoin en un 21% durante el cuarto trimestre de 2025 mientras asignaba aproximadamente 86,8 millones de dólares a acciones de ETF de Ethereum.
 * Para los inversores españoles, el cumplimiento de MiCA se volverá obligatorio a partir del 1 de julio de 2026, requiriendo que las empresas cripto busquen autorización con anticipación.
+
+
+
+{{< adsterra_native >}}
 
 ## El Dilema Energético: Bitcoin Enfrenta la Crítica Mientras Ethereum Brilla con PoS
 

@@ -18,6 +18,7 @@ title: 'Fondos activos baten al índice: 63% logra rendimientos superiores en un
 translationKey: cd4e23c4-4c45-dff9-bff0-021601590b80
 type: funds
 ---
+
 ## Resumen Ejecutivo
 * ![Fondos activos baten al índice: 63% logra rendimientos superiores en un año volátil](/images/fondos-activos-baten-al-indice-63-logra-rendimientos-superiores-en-un-ano-volati.jpg)
 
@@ -30,6 +31,10 @@ type: funds
 - La volatilidad del mercado alcanzó picos de 35 puntos en el índice **VIX** durante los principales eventos geopolíticos de 2023, según **Bloomberg**. 
 
 Este resultado reabre el debate sobre la efectividad de la gestión activa frente a la pasiva, especialmente en un contexto de alta incertidumbre como el que marcó 2023. Los gestores activos aprovecharon la dispersión del mercado y eventos como la guerra en Ucrania, las tensiones en Oriente Medio y las políticas monetarias restrictivas para generar alfa y superar a sus índices de referencia.
+
+
+
+{{< adsterra_native >}}
 
 ## Comparativa: Fondos activos frente a índices de referencia
 

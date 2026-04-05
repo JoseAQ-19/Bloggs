@@ -17,6 +17,7 @@ title: '$125,000/Hour: Is Your Jobsite Bleeding Cash Thanks To Dumb Power Tools?
 translationKey: 790ae3dc-6fa2-94cf-1d27-9c24e216709d
 type: tools
 ---
+
 ## Executive Summary
 * ![$125,000/Hour: Is Your Jobsite Bleeding Cash Thanks To Dumb Power Tools?](/images/iot-digital-twins-power-tool-revolution-en.jpg)
 
@@ -27,6 +28,10 @@ The myth of flawlessly running construction sites is costing firms dearly. Unpla
 * Unplanned downtime costs construction firms approximately $125,000 per hour, making predictive maintenance a critical area for cost savings.
 * ABB's Oswald Deuchar states that unplanned downtime can cost up to $500,000 per hour for some industries, highlighting a need for modernized motor-driven systems.
 * Construction firms who adopt AI-powered predictive maintenance for power tools can expect to see a 10-20% reduction in maintenance costs and extend asset lifespan by 20%, ultimately boosting their bottom line.
+
+
+
+{{< adsterra_native >}}
 
 ## Milwaukee's Wake-Up Call: The $125,000 Downtime Disaster
 

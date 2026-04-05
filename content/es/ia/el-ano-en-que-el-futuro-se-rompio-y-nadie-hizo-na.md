@@ -16,8 +16,13 @@ title: ': El Año en que el Futuro se Rompió (Y Nadie Hizo Nada)'
 translationKey: 440a9a84-7e54-8ce8-3301-fbfe60ba9b72
 type: ia
 ---
+
 ## Resumen Ejecutivo
 El estallido social en Chile en 2019 fue el resultado de décadas de políticas neoliberales que concentraron la riqueza y debilitaron el tejido social. Este evento no fue una sorpresa, sino una implosión anunciada, impulsada por la creciente desigualdad y la desconexión entre la clase política y la ciudadanía. A pesar de las señales de alerta, las instituciones ignoraron el descontento popular, perpetuando un sistema que favorecía a la élite. Las lecciones aprendidas parecen insuficientes, y Chile enfrenta el desafío de replantear su modelo de desarrollo para evitar repetir una historia de crisis y desconfianza.
+
+
+
+{{< adsterra_native >}}
 
 ## Cuerpo
 

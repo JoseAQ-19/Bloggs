@@ -18,6 +18,7 @@ title: 'Google’s AI Content Analysis Poses Alarming Risks: Experts Sound Off o
 translationKey: c3d9fd55-4e15-3d4d-b585-a4aea8237750
 type: youtube
 ---
+
 ## Executive Summary
 * ![Google’s AI Content Analysis Poses Alarming Risks: Experts Sound Off on Child Safety](/images/child-safety-advocates-sound-alarm-over-googles-ai-investment-in-kids-content-en.jpg)
 
@@ -28,6 +29,10 @@ Google's AI algorithms are under intense scrutiny for potentially violating the 
 * Google's AI algorithms may circumvent COPPA regulations, leading to data privacy risks for minors.
 * The Internet Watch Foundation reported a staggering 380% rise in AI-generated Child Sexual Abuse Material (CSAM) in 2024.
 * As child safety regulations tighten, tech professionals and companies must reassess their AI deployments to ensure compliance and safety.
+
+
+
+{{< adsterra_native >}}
 
 ## The COPPA Compliance Crisis: Are Google's AI Algorithms Endangering Kids?
 

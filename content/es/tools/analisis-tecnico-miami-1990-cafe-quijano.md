@@ -17,6 +17,7 @@ title: 'CECU Lo Advirtió En 2004: Café Quijano, ¿Los Más Sexistas De España
 translationKey: 0ed6b719-b83a-9327-8745-ac2dc277daf9
 type: tools
 ---
+
 ## Resumen Ejecutivo
 * ![CECU Lo Advirtió En 2004: Café Quijano, ¿Los Más Sexistas De España Han Vuelto?](/images/analisis-tecnico-miami-1990-cafe-quijano.jpg)
 
@@ -27,6 +28,10 @@ La nostalgia musical a menudo ciega a los oyentes ante la perpetuación de ester
 * En 2004, CECU identificó a Café Quijano entre las bandas con algunas de las letras más sexistas en la música popular española.
 * Un estudio de la UPF indica que más del 50% de las canciones españolas de 1960 a 2022 contienen connotaciones sexistas, con un aumento significativo en los últimos años.
 * Los oyentes deben ser más conscientes de las letras en la música que consumen y desafiar la perpetuación de estereotipos dañinos encontrados incluso en canciones populares.
+
+
+
+{{< adsterra_native >}}
 
 ## ¿Regreso Triunfal o Reincidencia Machista? La Sombra de CECU sobre Café Quijano.
 

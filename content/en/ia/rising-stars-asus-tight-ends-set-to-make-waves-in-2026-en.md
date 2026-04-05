@@ -19,6 +19,7 @@ title: ASU Tight Ends Are Set to Dominate in 2026 and Shake Up NIL Deals
 translationKey: 2cad5fcb-f4e4-209f-975f-bbb0101f9cfb
 type: ia
 ---
+
 ## Executive Summary
 * ![ASU Tight Ends Are Set to Dominate in 2026 and Shake Up NIL Deals](/images/rising-stars-asus-tight-ends-set-to-make-waves-in-2026-en.jpg)
 
@@ -33,6 +34,10 @@ College football's Name, Image, and Likeness (NIL) marketplace is morphing from 
 * Oregon’s Kenyon Sadiq’s near $750,000 NIL valuation sets a new benchmark for tight ends, pressuring ASU to elevate its financial offers and recruiting tactics.
 
 * The CSC declined 524 NIL deals worth $14.9 million for lacking business justification, exposing significant compliance risks for programs like ASU navigating aggressive NIL strategies.
+
+
+
+{{< adsterra_native >}}
 
 ## The $750K Tight End That Could Change ASU’s Trajectory
 

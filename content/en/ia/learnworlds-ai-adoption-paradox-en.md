@@ -18,6 +18,7 @@ title: 'LearnWorlds Data: 80% Of AI Interactions Handled By Bots, 0% Strategic T
 translationKey: c8fb8e00-7759-ae58-b5f4-c6c137980c10
 type: ia
 ---
+
 ## Executive Summary
 * ![LearnWorlds Data: 80% Of AI Interactions Handled By Bots, 0% Strategic Thought](/images/learnworlds-ai-adoption-paradox-en.jpg)
 
@@ -28,6 +29,10 @@ Conversational AI is projected to save contact centers $80 billion by 2026, but 
 * By 2026, 80% of routine AI interactions in customer service are projected to be fully handled by AI, but strategic implementation lags, creating an ROI gap.
 * Despite claims of AI innovation, 41% of consumers feel customer service has worsened due to AI, highlighting a significant customer perception gap.
 * Companies must prioritize change management and measure customer value consistently to bridge the gap between AI investment and actual business impact, moving beyond technical implementation.
+
+
+
+{{< adsterra_native >}}
 
 ## LearnWorlds' AI Promise Meets Customer Service Reality: The $80 Billion Disconnect
 

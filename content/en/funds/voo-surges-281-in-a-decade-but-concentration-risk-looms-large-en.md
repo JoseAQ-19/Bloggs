@@ -17,6 +17,7 @@ title: VOO Surges 281% in a Decade, But Concentration Risk Looms Large
 translationKey: 3594939e-e962-da25-9ce1-0b43d9bb3cc2
 type: funds
 ---
+
 ## Executive Summary
 * ![VOO Surges 281% in a Decade, But Concentration Risk Looms Large](/images/voo-surges-281-in-a-decade-but-concentration-risk-looms-large-en.jpg)
 
@@ -31,6 +32,10 @@ type: funds
 Despite its low-cost structure and historical outperformance, VOO's reliance on a handful of mega-cap technology stocks — including Apple (7.2%) and Microsoft (6.6%) — poses significant risks. With the S&P 500 increasingly tilted toward Big Tech, the diversification benefits of this flagship ETF may be waning.
 
 ---
+
+
+
+{{< adsterra_native >}}
 
 ## VOO's Performance: Stellar Returns, But at What Cost?
 

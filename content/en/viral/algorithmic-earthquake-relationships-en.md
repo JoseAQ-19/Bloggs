@@ -17,6 +17,7 @@ title: 'Reddit Reveals: Social Media Turns 1 In 3 Relationships Into ''Jealous''
 translationKey: eda41012-ed73-9305-f694-ac0a6275e649
 type: viral
 ---
+
 ## Executive Summary
 * ![Reddit Reveals: Social Media Turns 1 In 3 Relationships Into 'Jealous' Hellscapes](/images/algorithmic-earthquake-relationships-en.jpg)
 
@@ -27,6 +28,10 @@ Social media promised connection, but it's delivering discord. One in three rela
 * One in three social media users report that their partner's online activity triggers feelings of jealousy or insecurity, leading to decreased relationship satisfaction.
 * According to Match Group, dating app revenue reached $3.4 billion in 2023, highlighting the financial stakes of online relationships and their discontents.
 * Users should be mindful of their social media usage and prioritize open communication to mitigate the potential for jealousy and mistrust in their relationships.
+
+
+
+{{< adsterra_native >}}
 
 ## The Tinder Trap: How Social Media Fueled Relationship Anxiety is a $3.4B Problem for Match Group
 

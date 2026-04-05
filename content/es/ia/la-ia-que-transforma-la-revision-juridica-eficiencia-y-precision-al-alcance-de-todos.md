@@ -20,6 +20,7 @@ title: '93% de Consultas Laborales Resueltas por IA: ¿El Futuro de la Justicia 
 translationKey: bb9c517b-061a-9629-be8a-cffd335fcfd3
 type: ia
 ---
+
 ## Resumen Ejecutivo
 * ![93% de Consultas Laborales Resueltas por IA: ¿El Futuro de la Justicia en Riesgo?](/images/la-ia-que-transforma-la-revision-juridica-eficiencia-y-precision-al-alcance-de-todos.jpg)
 
@@ -30,6 +31,10 @@ El 93% de las consultas laborales resueltas por inteligencia artificial no es un
 * Lexa Go automatiza el 93% de las consultas, pero el 7% restante —los casos complejos— es donde se esconden las indemnizaciones millonarias por despido improcedente.
 * El 75% de los CEOs españoles planean destinar entre el 10% y el 20% de sus presupuestos a IA, ignorando que el Art. 22 del RGPD prohíbe las decisiones puramente automatizadas que afecten a derechos fundamentales.
 * La AEPD impuso una multa de 365.000 euros en 2024 por uso indebido de biometría, una señal de que la "ventana de desregulación" de la AI Act se está cerrando antes de tiempo.
+
+
+
+{{< adsterra_native >}}
 
 ## La Ilusión de Eficiencia: El 93% que Oculta el Riesgo
 

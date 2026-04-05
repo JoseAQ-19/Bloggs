@@ -1,16 +1,20 @@
 ---
-title: "Fred Rogers Productions Launches YouTube Channel: 85% of Kids Now at Risk of AI Slop"
-date: 2026-04-04T20:43:59
+canonical: https://novumworld.com/youtube/fred-rogers-productions-launches-exclusive-youtube-channel-a-new-era-for-childrens-content-en/
+categories:
+- youtube
+date: 2026-04-04 20:43:59
+description: Discover how Fred Rogers Productions' new YouTube channel tackles the
+  growing concern of AI content, with 85% of kids at risk of digital slop.
 draft: false
-description: "Discover how Fred Rogers Productions' new YouTube channel tackles the growing concern of AI content, with 85% of kids at risk of digital slop."
-featured_image: "/images/fred-rogers-productions-launches-exclusive-youtube-channel-a-new-era-for-childrens-content-en.jpg"
-slug: "fred-rogers-productions-launches-exclusive-youtube-channel-a-new-era-for-childrens-content-en"
-canonical: "https://novumworld.com/youtube/fred-rogers-productions-launches-exclusive-youtube-channel-a-new-era-for-childrens-content-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "675aee62-38cb-d444-f1d9-ef4baf32b160"
+featured_image: /images/fred-rogers-productions-launches-exclusive-youtube-channel-a-new-era-for-childrens-content-en.jpg
+language: en
+slug: fred-rogers-productions-launches-exclusive-youtube-channel-a-new-era-for-childrens-content-en
+tags:
+- Creator Economy
+title: 'Fred Rogers Productions Launches YouTube Channel: 85% of Kids Now at Risk
+  of AI Slop'
+translationKey: 675aee62-38cb-d444-f1d9-ef4baf32b160
+type: youtube
 ---
 
 ![Fred Rogers Productions Launches YouTube Channel: 85% of Kids Now at Risk of AI Slop](/images/fred-rogers-productions-launches-exclusive-youtube-channel-a-new-era-for-childrens-content-en.jpg)
@@ -19,6 +23,10 @@ translationKey: "675aee62-38cb-d444-f1d9-ef4baf32b160"
 - Fred Rogers Productions has launched a YouTube channel aimed at providing high-quality content for children, countering the alarming rise of low-quality, AI-generated videos that now expose 85% of children to potential harm.
 - A recent 2024 study reveals that only 19% of YouTube videos for children under 36 months are deemed age-appropriate, highlighting a significant gap in the quality of content available on the platform.
 - The initiative challenges content creators and platforms to prioritize child-centric programming, addressing the growing concern over the cognitive impact of AI-generated content on young viewers.
+
+
+
+{{< adsterra_native >}}
 
 ## The YouTube Dilemma: A Playground for 'AI Slop'
 YouTube has become a battleground for children's content, where algorithms prioritize engagement over quality, leading to the proliferation of low-quality, AI-generated content often referred to as “AI slop.” This alarming trend raises serious questions about the effectiveness of YouTube's content moderation, especially for its youngest users. According to **Rachel Franz**, Director of Fairplay's Young Children Thrive Offline program, "YouTube is designed to maximize children's time online, including babies." This design is detrimental, as the platform's algorithms often serve up content that fails to meet developmental standards. 

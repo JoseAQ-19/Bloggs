@@ -18,6 +18,7 @@ title: 'Mikecrack''s Secret Life: The Shocking Truth About His Elite Circle With
 translationKey: 996c5019-b36e-454b-85da-69a40bc4a711
 type: youtube
 ---
+
 ## Executive Summary
 * ![Mikecrack's Secret Life: The Shocking Truth About His Elite Circle With Ibai and El Rubius](/images/mikecrack-el-emperador-de-youtube-que-se-codea-con-ibai-y-el-rubius-andorra-es-un-pequeno-paraiso-en.jpg)
 
@@ -28,6 +29,10 @@ The rise of content creators has reshaped the entertainment landscape, but few h
 * Mikecrack, Ibai, and El Rubius collectively boast over 100 million followers across various platforms, amplifying their reach and influence. 
 * Their collaborations have led to a 50% increase in engagement metrics over the past year, according to [Twitch Analytics](https://www.twitchanalytics.com).
 * A staggering 70% of influencers report feeling overwhelmed by content demands, highlighting the pressures of maintaining relevance in the influencer space, according to [Influencer Marketing Hub](https://www.influencermarketinghub.com).
+
+
+
+{{< adsterra_native >}}
 
 ## The Elite Circle: How Mikecrack, Ibai, and El Rubius Dominate the Gaming Scene
 

@@ -18,6 +18,7 @@ title: 'Accidentes en Almacenes Aumentan 50% Con Robots: ¿Pagamos Un Precio Dem
 translationKey: d32cd7a1-be3d-5e9c-b9f4-1ad4ddff4b78
 type: tools
 ---
+
 ## Resumen Ejecutivo
 * ![Accidentes en Almacenes Aumentan 50% Con Robots: ¿Pagamos Un Precio Demasiado Alto?](/images/analisis-tecnico-robots-alyco-almacenes-altura.jpg)
 
@@ -28,6 +29,10 @@ La promesa de almacenes totalmente automatizados se estrella contra una dura rea
 * Los accidentes en almacenes han aumentado hasta un 50% en instalaciones que emplean robots, lo que plantea serias dudas sobre el verdadero coste de la automatización.
 * El 97% de los profesionales de almacén encuestados considera que la tecnología informática obsoleta es un reto importante, lo que subraya la necesidad de actualizaciones continuas.
 * Los operadores de almacenes españoles deben priorizar las medidas de seguridad y la formación de los empleados junto con la implantación de la robótica para mitigar los riesgos de accidentes y garantizar un futuro sostenible.
+
+
+
+{{< adsterra_native >}}
 
 ## Alyco Tools Apuesta Fuerte por la Automatización Mientras Aumentan las Dudas Sobre la Seguridad
 

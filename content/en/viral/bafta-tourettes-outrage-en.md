@@ -17,6 +17,7 @@ title: 'BBC Edited Palestine But Aired The N-Word: What''s REALLY Going On?'
 translationKey: 9ceded7b-d636-0c61-59bc-25b34823201e
 type: viral
 ---
+
 ## Executive Summary
 * ![BBC Edited Palestine But Aired The N-Word: What's REALLY Going On?](/images/bafta-tourettes-outrage-en.jpg)
 
@@ -27,6 +28,10 @@ Cancel culture has exposed media hypocrisy. The BBC's selective editing sparks d
 * The BBC faced criticism for airing the N-word shouted by John Davidson, a Tourette's syndrome campaigner, while editing out a "Free Palestine" call, raising questions about bias.
 * Approximately 10-15% of people with Tourette's experience coprolalia, which involves involuntary swearing, according to research on Tourette's Syndrome.
 * Viewers need to understand the complexities of free speech, responsibility, and the impact on diversity initiatives when consuming media, and hold broadcasters accountable.
+
+
+
+{{< adsterra_native >}}
 
 ## The BAFTA N-Word Airing: A Double Standard Decried
 

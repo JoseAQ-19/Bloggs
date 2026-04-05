@@ -1,14 +1,17 @@
 ---
-title: "Con un 16,04%, Hamco Global Value Fund R FI lidera entre los fondos en España"
-date: 2026-04-05T07:02:06
+categories:
+- funds
+date: 2026-04-05 07:02:06
+description: Descubre cómo el Hamco Global Value Fund R FI, con un 16,04%, se posiciona
+  como líder en el mercado de fondos en España. ¡Infórmate ya!.
 draft: false
-description: "Descubre cómo el Hamco Global Value Fund R FI, con un 16,04%, se posiciona como líder en el mercado de fondos en España. ¡Infórmate ya!."
-featured_image: "/images/con-un-1604-hamco-global-value-fund-r-fi-lidera-entre-los-fondos-en-espana.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "eeccb3fc-26c2-6f61-7e10-c1180eb5de7c"
+featured_image: /images/con-un-1604-hamco-global-value-fund-r-fi-lidera-entre-los-fondos-en-espana.jpg
+language: es
+tags:
+- Funds & Stocks
+title: Con un 16,04%, Hamco Global Value Fund R FI lidera entre los fondos en España
+translationKey: eeccb3fc-26c2-6f61-7e10-c1180eb5de7c
+type: funds
 ---
 
 ![Con un 16,04%, Hamco Global Value Fund R FI lidera entre los fondos en España](/images/con-un-1604-hamco-global-value-fund-r-fi-lidera-entre-los-fondos-en-espana.jpg)
@@ -20,6 +23,10 @@ Con un **16,04%** de rentabilidad a 5 años, el Hamco Global Value Fund R FI se 
 - *0,530% — Coste total medio de las carteras de fondos de Indexa Capital en 2026 [source](https://news.google.com/rss/articles/CBMioAFBVV95cUxPUzE3ekFQZVRTaUF0YjdIZWF1SllJc3NVU2pLTEdvNkh5RTAyb1Q5djJLWm9rLTVfY0lLbGJKOUo1bW5jYXJpOUZhcUk1eDlzUzZJd3lVUUR6SnhDREF0WXpJb2oyNE9GdlBZODgyN3Z1elNabFRXcjZCaWllM0tFZ0VyVnpUWFczbjlFNGlIX3FLalUweWpDaHVQVmhEcVNL?oc=5)*
 
 Desde su lanzamiento, el Hamco Global Value Fund R FI ha demostrado ser un vehículo atractivo para aquellos que buscan maximizar su inversión a largo plazo. Este fondo, gestionado por Hamco, se basa en una estrategia de inversión centrada en identificar acciones subvaluadas, lo que ha permitido a los inversores beneficiarse de una recuperación en los mercados.
+
+
+
+{{< adsterra_native >}}
 
 ## Análisis Comparativo de Fondos
 
@@ -153,5 +160,3 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [SpaceX: ¿Una valoración de 200.000 millones justificada?](/es/funds/spacex-una-valoracion-de-200000-millones-justificada/)
 - [iShares Core EURO STOXX 50: ASML Debe Crecer para Mantener la Subida del 4,4%](/es/funds/ishares-core-euro-stoxx-50-asml-debe-crecer-para-mantener-la-subida-del-44/)
 - [NAO Protea European Equities: Un análisis profundo de su enfoque y resultados con Sharpe de 0,88.](/es/funds/nao-protea-european-equities-un-analisis-profundo-de-su-enfoque-y-resultados-con/)
-
-

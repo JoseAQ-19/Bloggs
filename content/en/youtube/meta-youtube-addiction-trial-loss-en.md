@@ -17,6 +17,7 @@ title: '$375 Million Nightmare: Is This The End Of Section 230 For Meta?'
 translationKey: c7932b8c-2de1-c37d-d9de-a4d693988c4b
 type: youtube
 ---
+
 ## Executive Summary
 * ![$375 Million Nightmare: Is This The End Of Section 230 For Meta?](/images/meta-youtube-addiction-trial-loss-en.jpg)
 
@@ -27,6 +28,10 @@ New Mexico just slapped Meta with a staggering $375 million bill for violating c
 * A Los Angeles jury awarded $3 million in damages to plaintiff KGM, who claimed addiction to YouTube and Instagram led to severe mental health issues, potentially opening the floodgates for similar litigation against Big Tech — **Associated Press**.
 * The KGM trial is merely the vanguard of a consolidated legal army; over 1,600 plaintiffs, including 350+ families and 250 school districts, have united in California against Meta, TikTok, YouTube, and Snap according to court documents.
 * Platforms face a dual threat: Section 230 shields are crumbling under the argument that "addictive design" creates a defective product, forcing companies to rely on expensive human moderation or face ruinous civil penalties that could fundamentally alter monetization strategies.
+
+
+
+{{< adsterra_native >}}
 
 ## The $375 Million Consumer Protection Payout Threatening Meta's Future
 

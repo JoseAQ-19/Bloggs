@@ -17,6 +17,7 @@ title: '$33 Billion Mess: Did Kraken''s Fed Access Just Expose Crypto''s Dirty S
 translationKey: e310b902-a041-2bb9-66c1-5ad734d57216
 type: crypto
 ---
+
 ## Executive Summary
 * ![$33 Billion Mess: Did Kraken's Fed Access Just Expose Crypto's Dirty Secret?](/images/kraken-fed-access-crypto-implications-en.jpg)
 
@@ -27,6 +28,10 @@ The SEC alleges Kraken held over $33 billion in customer crypto assets and commi
 * Federal Reserve Governor Christopher Waller is pushing for integrating crypto companies into the U.S. payments infrastructure, signaling a shift in regulatory approach (PaymentsDive).
 * Increased Fed access for crypto firms like Kraken could lead to greater scrutiny and regulation of stablecoins, potentially impacting their role in the broader financial system.
 * Visa can process thousands of transactions per second (TPS) and can surge to 65,000 TPS if needed, dwarfing Bitcoin's average of 7 TPS and exposing blockchain scalability limitations.
+
+
+
+{{< adsterra_native >}}
 
 ## Kraken's $33 Billion Gamble: Playing Fast and Loose with Customer Funds?
 

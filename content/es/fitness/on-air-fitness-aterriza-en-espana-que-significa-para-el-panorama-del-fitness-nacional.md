@@ -18,6 +18,7 @@ title: 'On Air Fitness Aterriza en España: 10 Millones de Euros para Revolucion
 translationKey: 9a7f3843-aae6-2585-5b0a-236a3140a503
 type: fitness
 ---
+
 ## Resumen Ejecutivo
 * ![On Air Fitness Aterriza en España: 10 Millones de Euros para Revolucionar el Fitness](/images/on-air-fitness-aterriza-en-espana-que-significa-para-el-panorama-del-fitness-nacional.jpg)
 
@@ -28,6 +29,10 @@ On Air Fitness inyecta 10 millones de euros en el mercado español con la preten
 * El mercado del fitness en España creció un 10% en 2025, alcanzando una facturación récord de 1.650 millones de euros, según el informe de Deloitte.
 * La cadena francesa planea abrir cinco nuevos centros este año, con una inversión de 2 millones de euros por ubicación, para alcanzar las 85 ubicaciones en cinco años.
 * España cuenta con más de 5,7 millones de usuarios de gimnasios, pero la penetración se estanca en el 12-13% de la población, lejos del potencial real de salud pública.
+
+
+
+{{< adsterra_native >}}
 
 ## La irrupción de capital francés y el mito de la "disrupción"
 

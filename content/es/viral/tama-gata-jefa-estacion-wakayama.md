@@ -18,6 +18,7 @@ title: 'Adiós, Tama: El Desplome Turístico de Wakayama Cuesta 1.100 Millones d
 translationKey: 829d4e41-d0d5-4d61-daff-d184d109609a
 type: viral
 ---
+
 ## Resumen Ejecutivo
 * ![Adiós, Tama: El Desplome Turístico de Wakayama Cuesta 1.100 Millones de Yenes.](/images/tama-gata-jefa-estacion-wakayama.jpg)
 
@@ -28,6 +29,10 @@ La economía de la atención tiene un límite biológico ineludible: la muerte. 
 * Mitsunobu Kojima, presidente de Wakayama Electric Railway, estimó que la gata Tama generó un impacto económico de 1.100 millones de yenes durante su mandato.
 * Yasuyuki Harada, director ejecutivo de la Oficina Nacional de Turismo de Japón (JNTO) en Madrid, confirmó que la llegada de turistas españoles a Japón se ha triplicado en la última década.
 * Analistas económicos en Japón han advertido que las tensiones geopolíticas con China podrían provocar pérdidas de 1,49 billones de yenes si la afluencia de visitantes chinos se reduce en un 25%.
+
+
+
+{{< adsterra_native >}}
 
 ## La Despedida Felina: Cómo la Muerte de Tama y Nitama Amenaza la Línea Kishigawa
 

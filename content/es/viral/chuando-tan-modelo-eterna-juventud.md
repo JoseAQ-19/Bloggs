@@ -17,6 +17,7 @@ title: 'Chuando Tan Tiene 60 Años: Su Secreto Desata Teorías Conspirativas Sob
 translationKey: cc9eb513-d1db-adbd-f097-7f992547c57b
 type: viral
 ---
+
 ## Resumen Ejecutivo
 * ![Chuando Tan Tiene 60 Años: Su Secreto Desata Teorías Conspirativas Sobre Telómeros](/images/chuando-tan-modelo-eterna-juventud.jpg)
 
@@ -27,6 +28,10 @@ La obsesión por la eterna juventud ha dejado de ser un deseo estético para con
 * Chuando Tan, un fotógrafo y modelo nacido en 1966, ha desatado una fiebre conspirativa sobre ingeniería de telómeros al mantener una apariencia física que parece desafiar la biología estándar, aunque su secreto reside en una dieta estricta y ejercicio intenso.
 * La esperanza de vida en España ha alcanzado un récord histórico de 84,01 años, situándose 2,3 años por encima de la media de la UE, según los últimos datos del [Instituto Nacional de Estadística (INE)](https://www.ine.es).
 * Un estudio de la **Fundación BBVA** y el IVIE revela que los españoles mayores de 65 años pasan más de la mitad de sus años restantes con limitaciones funcionales o discapacidades.
+
+
+
+{{< adsterra_native >}}
 
 ## El Secreto de la Juventud Eterna de Chuando Tan: ¿Realidad o Ficción Telomérica?
 

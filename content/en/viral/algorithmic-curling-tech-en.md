@@ -18,6 +18,7 @@ title: 'Niklas Edin''s Fury: Is Curling''s Biggest Cheating Problem About to Exp
 translationKey: e4300396-617e-d400-6fe1-81efb4f9200f
 type: viral
 ---
+
 ## Executive Summary
 * ![Niklas Edin's Fury: Is Curling's Biggest Cheating Problem About to Explode?](/images/algorithmic-curling-tech-en.jpg)
 
@@ -30,6 +31,10 @@ Niklas Edin believes curling has a cheating problem that’s worse than doping. 
 * The U.S. sports officiating technologies market is projected to reach USD 3.95 billion by 2032, growing at a CAGR of 19.82%.
 
 * Curling faces a critical decision: embrace technology like VAR to ensure fair play, risking slowing down the game, or maintain its traditional self-officiating approach and risk further cheating accusations.
+
+
+
+{{< adsterra_native >}}
 
 ## Niklas Edin's Fury: Will Modernization Save Curling's Integrity?
 

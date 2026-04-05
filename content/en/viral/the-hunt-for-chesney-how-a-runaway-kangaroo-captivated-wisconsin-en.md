@@ -20,6 +20,7 @@ title: 'The Disturbing Truth About Chesney: Wisconsin''s Runaway Kangaroo Risks 
 translationKey: 7f8d66d4-2099-be11-39bc-1b5795c63d81
 type: viral
 ---
+
 ## Executive Summary
 * ![The Disturbing Truth About Chesney: Wisconsin's Runaway Kangaroo Risks Agricultural Chaos](/images/the-hunt-for-chesney-how-a-runaway-kangaroo-captivated-wisconsin-en.jpg)
 
@@ -30,6 +31,10 @@ The recent escape of Chesney, a runaway kangaroo from a petting zoo in Wisconsin
 * Chesney, a runaway kangaroo from Sunshine Farm in Wisconsin, poses a potential ecological risk to local agriculture, raising concerns about exotic animal ownership.
 * The Wisconsin Department of Agriculture's Wildlife Damage Claims Program currently does not cover kangaroos, leaving farmers unprotected against potential agricultural damage (source: Wisconsin DATCP).
 * The incident underscores the need for regulatory review and community engagement in the context of exotic animal escapes.
+
+
+
+{{< adsterra_native >}}
 
 ## The Agricultural Chaos of Runaway Exotic Animals
 

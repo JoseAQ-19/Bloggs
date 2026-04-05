@@ -17,6 +17,7 @@ title: '10,000 Calories And Cardiac Arrest: The Deadly Secret Of Fitness Fame'
 translationKey: 0e69e677-0ba5-3f33-bb1f-3654d2ade955
 type: fitness
 ---
+
 ## Executive Summary
 * ![10,000 Calories And Cardiac Arrest: The Deadly Secret Of Fitness Fame](/images/fitness-influencer-deaths-accountability-en.jpg)
 
@@ -27,6 +28,10 @@ Fitness influencer Dmitry Nuyanzin died after attempting a 10,000-calorie challe
 * A study in the *Journal of Medical Internet Research* found that nearly 60% of fitness-related posts on social media contained inaccuracies or lacked scientific support.
 * Tech investors and Wall Street analysts must scrutinize the regulatory and ethical risks associated with influencer marketing before allocating capital to related ventures.
 * The smart fitness market is projected to reach $60.4 billion by 2036, growing at a CAGR of 12.4% from a valuation of USD 18.8 billion in 2026.
+
+
+
+{{< adsterra_native >}}
 
 ## The Algorithmic Accountability Gap
 

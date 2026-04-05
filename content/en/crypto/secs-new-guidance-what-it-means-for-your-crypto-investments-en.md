@@ -19,6 +19,7 @@ title: SEC's New Guidance Could Cost Crypto Investors $8.2 Billion in Penalties
 translationKey: 8d08c7a1-e541-811c-ce2e-f9f5ae8554de
 type: crypto
 ---
+
 ![SEC's New Guidance Could Cost Crypto Investors $8.2 Billion in Penalties](/images/secs-new-guidance-what-it-means-for-your-crypto-investments-en.jpg)
 
 ## Executive Summary
@@ -31,6 +32,10 @@ The SEC's imposition of $8.2 billion in penalties against crypto entities in 202
 * The SEC levied $8.2 billion in penalties on 583 crypto companies in 2024, a historic sum that surpasses the cumulative enforcement revenue of the prior decade, according to **Cornerstone Research**.
 * Enforcement actions dropped by 30% in 2024 compared to 2023, yet the financial severity of penalties increased, highlighting a strategy of targeting high-value "whale" cases like Terraform Labs rather than widespread market correction.
 * The DeFi market, currently valued at approximately $20.76 billion, faces an existential threat from the SEC's broad application of the Exchange Act, which risks classifying software developers as unregistered brokers.
+
+
+
+{{< adsterra_native >}}
 
 ## The $8.2 Billion Reckoning: How SEC's Guidance Targets Crypto Investors
 

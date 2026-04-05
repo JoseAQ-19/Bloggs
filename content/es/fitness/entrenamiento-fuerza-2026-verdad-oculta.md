@@ -17,6 +17,7 @@ title: 'Sarcopenia a los 50: El Peligro Oculto que Ignoran el 70% de Españoles'
 translationKey: 730b0f12-2086-aa29-353e-d895918a0d6c
 type: fitness
 ---
+
 ## Resumen Ejecutivo
 
 * ![Sarcopenia a los 50: El Peligro Oculto que Ignoran el 70% de Españoles](/images/entrenamiento-fuerza-2026-verdad-oculta.jpg)
@@ -28,6 +29,10 @@ El declive muscular relacionado con la edad no es una sentencia, pero sí una ep
 * Sarcopenia, la pérdida de masa y fuerza muscular relacionada con la edad, pone en riesgo al 15,4% de los españoles mayores de 50 años, sin embargo, se estima que el 70% desconoce la afección y sus consecuencias.
 * El entrenamiento funcional se clasifica como la principal tendencia de fitness en España para 2026, según la Encuesta Nacional de Tendencias de Fitness en España para 2026, lo que indica un posible cambio hacia la prevención de la sarcopenia, pero la participación real sigue siendo baja.
 * Abordar la sarcopenia a través del entrenamiento de fuerza específico puede mejorar la calidad de vida y potencialmente prolongar la vida útil, lo que requiere que las personas prioricen e incorporen ejercicios de resistencia en sus rutinas, potencialmente bajo la supervisión de expertos cualificados.
+
+
+
+{{< adsterra_native >}}
 
 ## El Silencioso Ladrón de Movilidad: El Desconocimiento de la Sarcopenia en España y Sus Consecuencias Ocultas
 

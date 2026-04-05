@@ -1,19 +1,26 @@
 ---
-title: "Chapman Guitars Faces Mass Exodus: Is The 17% Electric Guitar Surge To Blame?"
-date: 2026-04-04T19:20:58
+canonical: https://novumworld.com/youtube/youtube-acoustic-domination-chapmans-acoustic-shoppe-en/
+categories:
+- youtube
+date: 2026-04-04 19:20:58
+description: Chapman Guitars hit by a mass exodus? Is the electric guitar's surprising
+  17% sales surge creating unforeseen talent competition? Investigate this.
 draft: false
-description: "Chapman Guitars hit by a mass exodus? Is the electric guitar's surprising 17% sales surge creating unforeseen talent competition? Investigate this."
-featured_image: "/images/youtube-acoustic-domination-chapmans-acoustic-shoppe-en.jpg"
-slug: "youtube-acoustic-domination-chapmans-acoustic-shoppe-en"
-canonical: "https://novumworld.com/youtube/youtube-acoustic-domination-chapmans-acoustic-shoppe-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "2df1a347-d390-4d10-1e20-843980b68589"
+featured_image: /images/youtube-acoustic-domination-chapmans-acoustic-shoppe-en.jpg
+language: en
+slug: youtube-acoustic-domination-chapmans-acoustic-shoppe-en
+tags:
+- Creator Economy
+title: 'Chapman Guitars Faces Mass Exodus: Is The 17% Electric Guitar Surge To Blame?'
+translationKey: 2df1a347-d390-4d10-1e20-843980b68589
+type: youtube
 ---
 
 ![Chapman Guitars Faces Mass Exodus: Is The 17% Electric Guitar Surge To Blame?](/images/youtube-acoustic-domination-chapmans-acoustic-shoppe-en.jpg)
+
+
+
+{{< adsterra_native >}}
 
 ## Resumen Ejecutivo
 - Chapman Guitars is suffering a self-inflicted reputational collapse driven by quality control failures and alienating core dealer partners, rather than external market forces.

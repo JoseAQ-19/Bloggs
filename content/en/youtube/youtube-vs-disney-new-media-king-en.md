@@ -18,6 +18,7 @@ title: 'From $100 To $6: YouTube''s Ad Revenue Massacre Nobody Is Talking About.
 translationKey: 1d806a5c-c4a4-661a-2742-0221fb33b52b
 type: youtube
 ---
+
 ## Executive Summary
 * ![From $100 To $6: YouTube's Ad Revenue Massacre Nobody Is Talking About.](/images/youtube-vs-disney-new-media-king-en.jpg)
 
@@ -28,6 +29,10 @@ YouTube’s promise of fame and fortune through ad revenue is increasingly a mir
 * YouTube creators have reported ad revenue declines as steep as 90%, dropping from $100/day to $6/day for some.
 * A **Tubefilter** study indicates 89% of creators lack access to specialized mental health resources despite high rates of burnout and mental health issues.
 * Creators need to diversify revenue streams and prioritize mental health, as reliance on YouTube ad revenue becomes increasingly unstable.
+
+
+
+{{< adsterra_native >}}
 
 ## The Algorithm's Grip: Why YouTube’s Golden Goose Is Laying Fewer Eggs
 

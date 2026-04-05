@@ -17,6 +17,7 @@ title: The Mafia's 75-Year-Old TV Moment That Shattered America's Perception of 
 translationKey: 85993245-a2cf-920b-c7bb-e8c865121acd
 type: viral
 ---
+
 ## Executive Summary
 * ![The Mafia's 75-Year-Old TV Moment That Shattered America's Perception of Crime](/images/the-mafias-75-year-old-tv-moment-that-still-captivates-america-en.jpg)
 
@@ -29,6 +30,10 @@ The 1951 Kefauver hearings marked a pivotal moment in American history, fundamen
 * The 1951 Kefauver hearings captured the attention of 90% of televisions in New York City, fundamentally shifting America's perception of organized crime and the Mafia. 
 * A 2016 study by Kathleen Donovan revealed that viewers of crime dramas are more likely to believe that police misconduct is not a significant problem, altering public attitudes towards law enforcement.
 * Understanding the media's influence on crime perception can lead readers to critically assess how television shapes societal views on crime and justice.
+
+
+
+{{< adsterra_native >}}
 
 ## The Kefauver Hearings: America’s First Reality TV Show
 

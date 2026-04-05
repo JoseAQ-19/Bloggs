@@ -17,6 +17,7 @@ title: '59% Asymptomatic: The Next Pandemic Is Already Spreading And Nobody''s T
 translationKey: 14dd2aba-30ab-753d-2c3d-71f36615a3d5
 type: viral
 ---
+
 ## Executive Summary
 * ![59% Asymptomatic: The Next Pandemic Is Already Spreading And Nobody's Talking](/images/invisible-pandemic-respiratory-threat-en.jpg)
 
@@ -29,6 +30,10 @@ The "silent pandemic" of asymptomatic transmission poses a greater threat to eco
 * A CDC model estimates that 59% of COVID-19 transmission stems from asymptomatic individuals, comprising 35% from pre-symptomatic and 24% from those who never show symptoms.
 * Machine learning models can forecast SARS-CoV-2 mutation surges with a prediction error of just 0.1% when projecting 30 days into the future.
 * Despite ongoing CDC efforts, persistent asymptomatic transmission and viral mutation rates are a continuing menace to public health and economic stability.
+
+
+
+{{< adsterra_native >}}
 
 ## The Asymptomatic Advantage: Why Dr. Jay C. Butler's "Silent Pandemic" Still Threatens the Economy
 

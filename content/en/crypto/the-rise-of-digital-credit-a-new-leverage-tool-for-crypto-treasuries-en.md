@@ -17,6 +17,7 @@ title: The Hidden Risks of Digital Credit in Crypto Treasuries That Nobody Talks
 translationKey: b70cc509-c002-5acd-5856-76d4c43a8680
 type: crypto
 ---
+
 ## Executive Summary
 * ![The Hidden Risks of Digital Credit in Crypto Treasuries That Nobody Talks About](/images/the-rise-of-digital-credit-a-new-leverage-tool-for-crypto-treasuries-en.jpg)
 
@@ -27,6 +28,10 @@ Corporate treasuries are blindly dumping billions into digital assets, ignoring 
 * The global Crypto Treasury Management market is projected to swell from $1.42 billion in 2024 to $6.03 billion by 2033, driven by a speculative frenzy rather than sound financial principles — Dataintelo.
 * Over 200 companies report holding more than $115 billion in digital assets as of September 2025, creating a concentrated systemic risk point for institutional capital — Research Brief.
 * Leveraged Bitcoin treasuries are a potential "time bomb" due to liquidation risks, warns Hayden Hughes of Nickel Digital Asset Management, highlighting the fragility of yield-bearing strategies — Nickel Digital.
+
+
+
+{{< adsterra_native >}}
 
 ## The $1.42 Billion Gamble: Corporate Treasuries and the Crypto Conundrum
 

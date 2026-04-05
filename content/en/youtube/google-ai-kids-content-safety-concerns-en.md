@@ -17,6 +17,7 @@ title: 'Google''s Project Kavya: Is Your Child''s Favorite YouTube Show a Deepfa
 translationKey: 30592fec-04b1-f87e-260e-1395bf5ef353
 type: youtube
 ---
+
 ## Executive Summary
 * ![Google's Project Kavya: Is Your Child's Favorite YouTube Show a Deepfake?](/images/google-ai-kids-content-safety-concerns-en.jpg)
 
@@ -27,6 +28,10 @@ Google's Project Kavya is a trap, potentially luring children into personalized 
 * Google was previously fined **$170 million** by the FTC in 2019 for violating COPPA on YouTube, demonstrating a history of issues with children's online privacy — [source](https://www.toybook.com/youtubes-170-million-ftc-settlement-and-the-future-of-kids-content/).
 * Animaj AI Kids secured an **$85 million Series B** investment in June 2025, spearheaded by HarbourView Equity, to bolster AI capabilities and acquire IP, subsequently boosting their YouTube views to 22 billion per month, per AICerts.com — **source**.
 * Children and teenagers spend nearly **20 hours each month** online, highlighting the increasing exposure to potential online threats, and the need for heightened parental vigilance — **source**.
+
+
+
+{{< adsterra_native >}}
 
 ## The $170 Million Mistake Repeating?
 

@@ -17,6 +17,7 @@ title: 'Grayscale''s $17 Billion Nightmare: Can New Crypto Brokerage Stop The Bl
 translationKey: cedec4db-0f6f-f5ce-a3cc-173a3838929f
 type: crypto
 ---
+
 ** Resumen Ejecutivo / Executive Summary (In short:):**
 - **GBTC Outflows**: Over $17 billion has exited Grayscale’s Bitcoin Trust since its ETF conversion, primarily driven by a high 1.5% expense ratio.
 - **AUM Erosion**: Assets under management have plummeted from nearly $29 billion to approximately $26 billion in under 90 days.
@@ -27,6 +28,10 @@ Grayscale's $17 billion asset exodus signals a structural collapse in market con
 * Grayscale's Bitcoin Trust (GBTC) has suffered approximately $17 billion in outflows since converting to an ETF in January 2024.
 * GBTC assets under management plummeted from $28.6 billion on January 11 to roughly $26 billion by March 1, 2024.
 * The fund’s 1.5% expense ratio drastically undercuts its competitiveness against rivals charging between 0.20% and 0.39%.
+
+
+
+{{< adsterra_native >}}
 
 ## Grayscale's $17 Billion Exodus: Can a New Brokerage Stop the Bleeding?
 

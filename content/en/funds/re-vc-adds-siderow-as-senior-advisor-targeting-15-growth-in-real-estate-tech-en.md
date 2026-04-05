@@ -17,6 +17,7 @@ title: RE VC Adds Siderow as Senior Advisor; Targeting 15% Growth in Real Estate
 translationKey: bd77d130-636e-9c84-8d58-40c30db61a47
 type: funds
 ---
+
 ## Executive Summary
 * author: Junior Writer
 
@@ -34,6 +35,10 @@ draft: false
 
 RE VC Targets 15% Real Estate Tech Growth Amid Sector Volatility
 Specialized real estate technology funds significantly underperformed the broader market in 2023, with the average sector ETF delivering just 6.1% annualized over three years compared to the S&P 500's 24.2% return, according to Morningstar data. This backdrop frames RE VC's announcement of Stephen Siderow as Senior Advisor and Operating Partner, alongside its ambitious 15% growth target for real estate tech investments, a move that coincides with Morningstar's recent downgrade of $17.2bn in T. Rowe Price funds and review of $15.5bn, suggesting potential sector rotation opportunities. This ambitious target necessitates a deep dive into the fund's strategy, the evolving real estate tech landscape, and the potential headwinds it faces.
+
+
+
+{{< adsterra_native >}}
 
 ## Real Estate Tech Fund Performance: A Comparative Analysis
 Real estate tech funds' underperformance relative to broader market indices underscores the challenges inherent in this specialized investment area. This underperformance is evident when comparing key real estate ETFs to the S&P 500 and considering factors like volatility and expense ratios.

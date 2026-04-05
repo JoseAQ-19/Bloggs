@@ -18,6 +18,7 @@ title: 'YouTube Just Generated $36.1 Billion in Ad Revenue: Here’s What You Do
 translationKey: dcdf577e-e3a6-8e56-3afe-1eac22546e34
 type: youtube
 ---
+
 ## Executive Summary
 * ![YouTube Just Generated $36.1 Billion in Ad Revenue: Here’s What You Don’t Know](/images/youtube-crowned-the-new-media-monarch-heres-the-inside-scoop-en.jpg)
 
@@ -28,6 +29,10 @@ YouTube just reported a staggering **$36.1 billion** in ad revenue for 2024, mar
 * YouTube generated **$36.1 billion** in ad revenue in 2024, reflecting a **14.6% year-on-year increase**, and is projected to reach **$60 billion** in 2025.
 * Experts like **Zeynep Tufekci** and **Guillaume Chaslot** emphasize the platform's risk of promoting extremist content due to its opaque algorithm.
 * Creators face ongoing uncertainty due to demonetization practices, potentially impacting the future of content creation on the platform.
+
+
+
+{{< adsterra_native >}}
 
 ## The Algorithmic Dilemma: YouTube's Hidden Revenue Machine
 

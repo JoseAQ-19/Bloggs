@@ -17,6 +17,7 @@ title: 'Lukaku''s Absence: UEFA''s ACL Injury Warning Ignored By Belgium Managem
 translationKey: 9ca461e2-25cd-0f26-add6-d4cbe187605e
 type: fitness
 ---
+
 ## Executive Summary
 * ![Lukaku's Absence: UEFA's ACL Injury Warning Ignored By Belgium Management?](/images/lukaku-omitted-belgium-games-en.jpg)
 
@@ -27,6 +28,10 @@ The management of Romelu Lukaku’s return to play represents a cynical gamble o
 * Athletes with a history of muscle injuries are **two to six times more likely** to suffer a re-injury, a risk often ignored by coaching staffs chasing immediate results.
 * The Premier League recorded **915 injuries** during the 2023-2024 season, proving that the current high-load schedule is a systemic failure rather than an anomaly.
 * Lukaku's delayed return from an August 2025 thigh injury highlights a recurring disconnect between UEFA medical guidelines and the actual "player first" rhetoric of federations.
+
+
+
+{{< adsterra_native >}}
 
 ## "Red Devils" in the Red: The $100M Asset Liability
 

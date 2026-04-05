@@ -17,6 +17,7 @@ title: 'Trump''s Cuba Coup: How 1.6 Million Workers Could Lose Everything'
 translationKey: ab375954-0b73-15cb-afa2-88838c2caf54
 type: viral
 ---
+
 ## Executive Summary
 * ![Trump's Cuba Coup: How 1.6 Million Workers Could Lose Everything](/images/trump-cuba-privatization-paradox-en.jpg)
 
@@ -27,6 +28,10 @@ A hypothetical U.S. "friendly takeover" of Cuba would likely resemble a hostile 
 * A hypothetical U.S. "friendly takeover" of Cuba and subsequent privatization of state assets could jeopardize the livelihoods of 1.6 million Cuban workers currently employed in the private sector.
 * In 2024, private enterprises in Cuba surpassed the state sector, accounting for 55% of retail sales nationwide, demonstrating the sector's growing economic importance.
 * For US tech professionals, VCs, and Wall Street analysts, this scenario highlights potential investment risks tied to government transparency, legal uncertainty, and the long-standing US embargo.
+
+
+
+{{< adsterra_native >}}
 
 ## The $6.8 Billion Question: Will Cuba Pay Up?
 

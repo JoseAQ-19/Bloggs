@@ -18,10 +18,15 @@ title: Visa's AI Chargeback Tool Could Lose $11.5 Billion to Hallucinations by 2
 translationKey: 623892cb-1cd3-577f-a4c4-e928506c286d
 type: tools
 ---
+
 ## Executive Summary
 - Visa's AI chargeback tool may incur losses of $11.5 billion by 2027 due to generative AI hallucinations that fabricate evidence.
 - Deloitte forecasts that generative AI email fraud losses will reach $40 billion in the U.S. by 2027, highlighting vulnerabilities in automated fraud defenses.
 - Visa processed 106 million disputes globally in 2025, marking a 35% increase since 2019, and creating a significant risk of automated errors.
+
+
+
+{{< adsterra_native >}}
 
 ## The $11.5 Billion Hallucination Dilemma
 

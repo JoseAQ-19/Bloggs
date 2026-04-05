@@ -18,6 +18,7 @@ title: 'Hank Green''s YouTube Nightmare: 170 Million Dollar COPPA Fine Haunts Al
 translationKey: 29a24c24-a0db-06e0-dfa8-6a07175cf0a4
 type: youtube
 ---
+
 ## Executive Summary
 * ![Hank Green's YouTube Nightmare: 170 Million Dollar COPPA Fine Haunts All Creators](/images/hank-green-youtube-ethics-impact-over-income-en.jpg)
 
@@ -28,6 +29,10 @@ YouTube's $170 million COPPA settlement isn't just a legal headache—it's a fin
 * YouTube paid a $170 million fine in 2019 to settle allegations of violating the Children's Online Privacy Protection Act (COPPA) **FTC**.
 * Hank Green has highlighted the ongoing struggles creators face with YouTube's monetization policies, particularly in relation to advertiser-friendliness and COPPA regulations.
 * Creators need to be aware of and diversify income streams beyond AdSense, as algorithmic changes can severely impact monetization and revenue.
+
+
+
+{{< adsterra_native >}}
 
 ## Hank Green's COPPA Concerns: The $170 Million Compliance Quagmire
 

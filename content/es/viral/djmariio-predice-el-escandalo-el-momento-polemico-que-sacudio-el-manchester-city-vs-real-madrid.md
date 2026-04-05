@@ -18,6 +18,7 @@ title: 'DjMaRiiO Predice El Escándalo: 5 Momentos Controversiales Que Sacudiero
 translationKey: a085fb81-4e9b-99fc-297e-9f684dd4aa3e
 type: viral
 ---
+
 ## Resumen Ejecutivo
 * ![DjMaRiiO Predice El Escándalo: 5 Momentos Controversiales Que Sacudieron El Manchester City Vs Real Madrid](/images/djmariio-predice-el-escandalo-el-momento-polemico-que-sacudio-el-manchester-city-vs-real-madrid.jpg)
 
@@ -28,6 +29,10 @@ La tecnología no erradica la subjetividad, simplemente la digitaliza y la ralen
 * Manchester City y Real Madrid se han enfrentado 11 veces en la Champions League en los últimos cuatro años, consolidando una rivalidad que depende tanto de los pies de Haaland o Vinícius como de la interpretación de un pixel en una pantalla offside.
 * Iturralde González, experto arbitral de AS y Cadena SER, calificó la temporada actual como "el peor año en mucho tiempo" para la implementación del VAR en España, evidenciando el fracaso operativo del sistema.
 * Pep Guardiol posee un récord positivo de 14 victorias, 6 empates y 8 derrotas contra el Real Madrid en 28 partidos, según datos de diciembre de 2025, pero su narrativa pública se centra obsesivamente en la injusticia percibida.
+
+
+
+{{< adsterra_native >}}
 
 ## La falacia tecnológica del VAR: Cuando la alta definición no es verdad
 

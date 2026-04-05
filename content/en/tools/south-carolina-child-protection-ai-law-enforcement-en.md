@@ -18,6 +18,7 @@ title: 'South Carolina''s S.28 and S.29: Leading The Nation Against AI Child Abu
 translationKey: defc2d4b-a3ec-1f6c-2772-d8be9c69bc96
 type: tools
 ---
+
 ![South Carolina's S.28 and S.29: Leading The Nation Against AI Child Abuse.](/images/south-carolina-child-protection-ai-law-enforcement-en.jpg)
 
 ****BLUF** Technical Executive Summary:**
@@ -32,6 +33,10 @@ South Carolina is effectively criminalizing the mathematical output of diffusion
 * South Carolina has updated its definition of child sexual abuse material (CSAM) to include not just photos or videos of real minors, but also computer-generated images and AI-manipulated likenesses.
 
 The regulatory landscape is shifting from passive observation to active prosecution. Attorney General Alan Wilson [applauded the passage](https://smart.ojp.gov/sorna/sorna-implementation-status/south-carolina.pdf) of S.28 and S.29, stating that South Carolina is leading the nation in tackling the abuse of artificial intelligence. This is not a theoretical exercise; the infrastructure of the dark web is already adapting. The volume of synthetic content threatens to overwhelm existing forensic pipelines, which were designed for a pre-generative era. Law enforcement is now forced to rely on [investigative techniques for technology-facilitated child exploitation](https://nij.ojp.gov/library/publications/trends-arrests-and-investigative-techniques-technology-facilitated-child) that are rapidly becoming obsolete against the onslaught of cheap, high-fidelity generative outputs.
+
+
+
+{{< adsterra_native >}}
 
 ## South Carolina's S.28 and S.29: Attorney General Wilson's Gamble Against the Dark Web
 

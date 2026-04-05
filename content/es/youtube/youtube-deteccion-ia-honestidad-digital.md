@@ -17,6 +17,7 @@ title: 'YouTube Te Espía: ¿Preparado Para Confesar Si Tu Video Lo Creó Una IA
 translationKey: 3a955580-f931-45f1-f268-a96eb0dec920
 type: youtube
 ---
+
 ## Resumen Ejecutivo
 * ![YouTube Te Espía: ¿Preparado Para Confesar Si Tu Video Lo Creó Una IA?](/images/youtube-deteccion-ia-honestidad-digital.jpg)
 
@@ -29,6 +30,10 @@ YouTube ha activado el protocolo de máxima alerta: ahora exige a creadores como
 * Entre el 21% y el 33% de los videos que aparecen en el feed de un nuevo usuario son generados por IA de baja calidad, saturando la plataforma con "AI slop" diseñado para engañar al algoritmo.
 
 La plataforma de Google ya no juega a ser un simple repositorio de videos. Se ha convertido en un estado policial digital que escruta cada píxel. La autenticidad, ese valor tan preciado por streamers como [AuronPlay](https://www.twitch.tv/auronplay), está bajo asedio. Las nuevas normativas no son sugerencias; son sentencias. Si utilizas IA para generar una cara o una voz sin decirlo, tu cuenta puede ser desmonetizada al instante. La pregunta no es si usarás IA, sino cuándo te atraparán mintiendo al respecto.
+
+
+
+{{< adsterra_native >}}
 
 ## El Dilema de la Confesión Digital: ¿La IA Amenaza la Autenticidad en YouTube?
 

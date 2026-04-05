@@ -17,6 +17,7 @@ title: 'Chainalysis Warns: Russia''s 694% Crypto Surge Threatens Global Sanction
 translationKey: 3ecc8eb1-4dfd-9e40-9088-44bfd4920be8
 type: crypto
 ---
+
 ## Executive Summary
 * ![Chainalysis Warns: Russia's 694% Crypto Surge Threatens Global Sanctions](/images/russia-crypto-exchange-sanctions-en.jpg)
 
@@ -27,6 +28,10 @@ Russia's aggressive pivot to cryptocurrency threatens to render existing sanctio
 * Chainalysis warns that value received by sanctioned entities via cryptocurrency surged by 694% in 2025, posing a significant threat to global sanctions effectiveness.
 * The ruble-backed A7A5 stablecoin processed $93.3 billion in less than a year, providing a critical bridge for Russian businesses to bypass sanctions (Chainalysis).
 * Global sanctions risk assessment will demand dynamic, risk-based crypto monitoring due to the rapidly evolving techniques of sanctioned actors.
+
+
+
+{{< adsterra_native >}}
 
 ## Russia's $93.3 Billion Stablecoin Gambit: The Sanctions Showdown Heats Up
 

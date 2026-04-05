@@ -17,6 +17,7 @@ title: 'Europa Resiste: Subida del 2% en Acciones Pese a Caída del 5% Asiática
 translationKey: df132072-e26a-e5c3-b48f-963d5ae6ded5
 type: funds
 ---
+
 ## Resumen Ejecutivo
 La dislocación de los mercados globales se ha manifestado en una paradoja regional: mientras los índices bursátiles asiáticos experimentaron una contracción del 5% en una sesión, Europa logró un repunte del 2%. Esta divergencia subraya la desconexión entre ciertos eventos geopolíticos y la valoración de activos en regiones específicas.
 
@@ -27,6 +28,10 @@ La dislocación de los mercados globales se ha manifestado en una paradoja regio
 *   **Sector Defensivo:** El iShares Aerospace & Defense UCITS ETF registró un +18.4% a 1 año y un Ratio de Sharpe de 0.59, indicando un rendimiento superior ajustado al riesgo, pero potencialmente sobrevalorado.
 *   **Ventaja Fiscal en España:** Los ETFs de acumulación permiten traspasos libres de impuestos hasta 2027 en España, ofreciendo una ventaja fiscal del 19% sobre fondos con gestión activa.
 *   **Riesgos Estructurales Europeos:** Persisten desafíos como la dependencia energética (40% de importación de gas), la divergencia de políticas monetarias (Fed vs. BCE) y valoraciones de mercado potencialmente complacientes (Euro Stoxx 50 a 15x PER, 10% sobre la media histórica).
+
+
+
+{{< adsterra_native >}}
 
 ## Europa Resiste: Subida del 2% en Acciones Pese a Caída del 5% Asiática.
 

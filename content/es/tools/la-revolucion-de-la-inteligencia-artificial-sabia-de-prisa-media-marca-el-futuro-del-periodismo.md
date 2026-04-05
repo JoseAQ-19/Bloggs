@@ -19,6 +19,7 @@ title: 'La Revolución de SabIA: 87.8% de Medios Españoles Ocultan Uso de IA en
 translationKey: 8c697965-e76a-70f7-7d16-144e2efecb61
 type: tools
 ---
+
 ![La Revolución de SabIA: 87.8% de Medios Españoles Ocultan Uso de IA en Redacción](/images/la-revolucion-de-la-inteligencia-artificial-sabia-de-prisa-media-marca-el-futuro-del-periodismo.jpg)
 
 ---
@@ -29,6 +30,10 @@ El periodismo español se encuentra inmerso en una crisis de confianza inducida 
 * El 87.8% de los medios españoles omiten cualquier declaración sobre el uso de inteligencia artificial en sus procesos editoriales, según datos de la Universidad de Sevilla.
 * PRISA Media ha impulsado SabIA, un espacio de datos centralizado que utiliza IA para gestionar y monetizar archivos de texto, video y audio de sus cabeceras.
 * El incumplimiento de la normativa de transparencia podría acarrear multas de hasta el 3% de los ingresos globales anuales con la entrada en vigor del Acta de IA de la UE en 2026.
+
+
+
+{{< adsterra_native >}}
 
 ## **BLUF** Resumen Ejecutivo Técnico
 

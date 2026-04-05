@@ -17,6 +17,7 @@ title: 'Facebook Desesperado: Paga a YouTubers y Arruina la Confianza de 33 Mill
 translationKey: 257113ac-ebff-fcc9-8155-baa17c963212
 type: youtube
 ---
+
 ## Resumen Ejecutivo
 * ![Facebook Desesperado: Paga a YouTubers y Arruina la Confianza de 33 Millones.](/images/meta-paga-youtubers-tiktokers-facebook.jpg)
 
@@ -27,6 +28,10 @@ Meta está desesperada por captar la atençión de la Generación Z y está disp
 * Facebook lidera el mercado español con 33.2 millones de usuarios únicos mensuales, una inmensa audiencia cautiva que ahora es objeto de experimentos publicitarios agresivos por parte de Meta — **Fuente: Datos de mercado de redes sociales en España 2024**.
 * Según datos de [la Comisión Nacional del Mercado de Valores (CNMV)](https://www.cnmv.es/DocPortal/Publicaciones/Newsletters/News_Finfluencers.aspx), el 70% de los "finfluencers" en España incumplen la normativa europea sobre publicidad engañosa, lo que evidencia un problema sistémico de desinformación monetizada.
 * La inversión en marketing de influencers en España alcanzó los 79.2 millones de euros en 2023, un aumento del 23.9% respecto al año anterior, lo que demuestra que las marcas siguen ciegamente financiando esta burbuja a pesar de la erosión de la confianza — **Informe de inversión en marketing de influencers 2023**.
+
+
+
+{{< adsterra_native >}}
 
 ## Dinero por Confianza: ¿Está Meta Sobornando a Creadores y Traicionando a 33.2 Millones de Usuarios Españoles?
 

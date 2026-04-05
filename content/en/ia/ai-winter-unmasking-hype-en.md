@@ -17,6 +17,7 @@ title: AI Utopia? 6% Of Companies Actually Use AI, Experts Predict Imminent Cras
 translationKey: 98986a34-79a6-eae5-2235-17169ca260d8
 type: ia
 ---
+
 ## Executive Summary
 * ![AI Utopia? 6% Of Companies Actually Use AI, Experts Predict Imminent Crash](/images/ai-winter-unmasking-hype-en.jpg)
 
@@ -27,6 +28,10 @@ Only 6% of large companies globally have actually deployed enterprise AI tools, 
 * Gartner projects worldwide AI spending will reach $3.3 trillion by 2029, representing a compound annual growth rate (CAGR) of about 22%, though such projections may be wildly optimistic.
 * Goldman Sachs' Jim Covello estimates that widespread AI implementation could demand a $1 trillion investment in data centers, utilities, and applications, which raises questions about economic viability.
 * Former MIT CSAIL Director Rodney Brooks anticipates another AI winter, arguing current large language models (LLMs) lack true imagination and substance, mirroring the cyclical nature of tech hype.
+
+
+
+{{< adsterra_native >}}
 
 ## The IBM Watson Health Debacle: $680K Wasted on Failed AI
 

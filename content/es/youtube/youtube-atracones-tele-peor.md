@@ -17,10 +17,15 @@ title: 'YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína
 translationKey: eb1ff752-3cad-9251-4707-7922f380fd88
 type: youtube
 ---
+
 ## Resumen Ejecutivo
 * ## YouTube te destroza: el algoritmo adictivo que engancha como la cocaína
 
 YouTube no solo consume nuestro tiempo, sino también nuestra salud mental. Su algoritmo, diseñado para maximizar la retención de usuarios, activa los mismos circuitos de recompensa cerebral que sustancias altamente adictivas...
+
+
+
+{{< adsterra_native >}}
 
 ## YouTube te destroza: el algoritmo adictivo que engancha como la cocaína
 

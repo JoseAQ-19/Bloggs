@@ -17,6 +17,7 @@ title: 'Mbappé Víctima: Fiscalía Pide Un Año de Cárcel Por Insultos Racista
 translationKey: ab9341dc-b731-8cc7-e7b7-82c288f1863e
 type: viral
 ---
+
 ## Resumen Ejecutivo
 * ![Mbappé Víctima: Fiscalía Pide Un Año de Cárcel Por Insultos Racistas en España](/images/carcel-insultos-racistas-mbappe-laliga.jpg)
 
@@ -27,6 +28,10 @@ Ante la reiteración de casos de racismo en los estadios, la pregunta ya no es s
 * La Fiscalía española ha solicitado un año de cárcel para un aficionado del Real Oviedo por insultos racistas dirigidos a Kylian Mbappé durante un partido en agosto de 2025.
 * Tres aficionados del Valencia CF fueron condenados en junio de 2024 a ocho meses de prisión por abusar racialmente de Vinícius Jr. en mayo de 2023, marcando la primera condena de este tipo en el fútbol español.
 * Este caso subraya la creciente presión para erradicar el racismo en el fútbol español y podría sentar un precedente importante para futuras sanciones contra el comportamiento racista en los estadios.
+
+
+
+{{< adsterra_native >}}
 
 ## Mbappé en la Mira: La Solicitud de Prisión Revela la Lucha Contra el Racismo en el Fútbol Español
 

@@ -17,6 +17,7 @@ title: '56% Spike: Texas Maternal Deaths Explode Post-Roe; Tech Execs Silent'
 translationKey: e811fee1-4d48-1b05-bbdf-31f628c4ddd4
 type: viral
 ---
+
 ## Executive Summary
 * ![56% Spike: Texas Maternal Deaths Explode Post-Roe; Tech Execs Silent](/images/bonnie-blue-social-media-consequences-en.jpg)
 
@@ -29,6 +30,10 @@ Texas's maternal mortality rate surged by 56% after the state enacted its aborti
 * A **ProPublica** analysis revealed a more than 50% increase in sepsis rates for women hospitalized after second-trimester pregnancy losses following the 2021 Texas abortion ban.
 
 * The maternal health crisis in Texas is raising concerns about OB/GYN access and the state's ability to attract tech talent due to growing healthcare concerns.
+
+
+
+{{< adsterra_native >}}
 
 ## Texas's $2.35 Billion Medicaid Expansion: A Limited Solution
 

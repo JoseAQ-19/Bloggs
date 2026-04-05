@@ -18,6 +18,7 @@ title: 'La IA En Educación Inclusiva: 73% De Los Profesores Ya La Usan, ¿Pero 
 translationKey: 62f341df-9145-59c1-5da6-aed59aa6d2d2
 type: ia
 ---
+
 ## Resumen Ejecutivo
 * ![La IA En Educación Inclusiva: 73% De Los Profesores Ya La Usan, ¿Pero A Qué Precio?](/images/la-revolucion-de-la-ia-en-la-educacion-inclusiva-una-ponencia-imperdible-de-concha-barcelo.jpg)
 
@@ -30,6 +31,10 @@ La inteligencia artificial (IA) se ha infiltrado en el sistema educativo españo
 * Según un estudio de Cotec, el 72% de la población española considera necesario contar con más evidencia científica sobre el impacto de la IA en la educación.
 
 * Sin una regulación y formación adecuada, la implementación de IA podría perpetuar desigualdades y sesgos en el sistema educativo.
+
+
+
+{{< adsterra_native >}}
 
 ## El Dilema de la Inclusión en la Educación con IA
 

@@ -17,6 +17,7 @@ title: 'LazarBeam''s $40 Million Mistake: How Profanity Decimated His YouTube Em
 translationKey: 4ab35dca-525c-9394-cea2-06fc57afae2e
 type: youtube
 ---
+
 ## Executive Summary
 * ![LazarBeam's $40 Million Mistake: How Profanity Decimated His YouTube Empire](/images/lazarbeam-youtube-empire-en.jpg)
 
@@ -27,6 +28,10 @@ LazarBeam estimates he lost up to $40 million in ad revenue because he swore too
 * LazarBeam estimates he lost up to $40 million in ad revenue due to his early use of profanity, which significantly reduced his monetization potential.
 * PlaySide, the developer of LazarBeam and Fresh's "World Boss" game, announced losses of $5.7 million the same month the game launched.
 * Creators must carefully consider YouTube's monetization policies and algorithm changes to avoid demonetization and maintain channel performance.
+
+
+
+{{< adsterra_native >}}
 
 ## Lannan Eacott's $40 Million Taboo: YouTube's Profanity Tax
 

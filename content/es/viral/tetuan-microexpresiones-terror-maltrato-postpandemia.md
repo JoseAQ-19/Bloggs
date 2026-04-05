@@ -17,6 +17,7 @@ title: 'Microexpresiones Del Terror: Así Caza Tetuán a Agresores Antes Del Ata
 translationKey: 06f65668-da07-9f16-a264-bd242d22891b
 type: viral
 ---
+
 ## Resumen Ejecutivo
 * ![Microexpresiones Del Terror: Así Caza Tetuán a Agresores Antes Del Ataque.](/images/tetuan-microexpresiones-terror-maltrato-postpandemia.jpg)
 
@@ -27,6 +28,10 @@ La idea de que podemos detectar agresores en Tetuán antes de que ataquen analiz
 * En España, las denuncias por violencia de género aumentaron un 72,1% entre 2002 y 2007, lo que refleja un posible incremento en la disposición a denunciar.
 * Un informe de ONU Mujeres indica que casi una de cada dos mujeres ha sufrido violencia directa o indirecta desde el inicio de la pandemia.
 * Reconocer cambios sutiles en el comportamiento, como las microexpresiones, podría empoderar a individuos y fuerzas del orden en Tetuán para identificar y prevenir situaciones de abuso crecientes.
+
+
+
+{{< adsterra_native >}}
 
 ## La Brecha de la Empatía: Cómo la Falta de Reconocimiento Emocional Impulsa la Violencia en Tetuán
 

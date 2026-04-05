@@ -19,6 +19,7 @@ title: La IA Puede Amenazar Hasta 24% de los Ingresos de Artistas en 2028
 translationKey: 3a40895e-f52b-fb66-1648-a252a792beff
 type: ia
 ---
+
 ## Resumen Ejecutivo
 * ![La IA Puede Amenazar Hasta 24% de los Ingresos de Artistas en 2028](/images/la-creatividad-humana-sigue-siendo-la-reina-puede-la-ia-alcanzarla-alguna-vez.jpg)
 
@@ -29,6 +30,10 @@ La IA generativa no es una herramienta creativa, es una máquina de desvalorizac
 * La IA podría poner en riesgo hasta el 24% de los ingresos de los artistas para 2028, lo que significa una pérdida acumulada de 22 mil millones de euros en cinco años.
 * Según Cristina Perpiñá-Robert de la SGAE, la IA generativa representa un desafío grave para los derechos de autor en el sector artístico.
 * El mercado de contenido generado por IA se proyecta que crezca de 3 mil millones a 64 mil millones de euros para 2028.
+
+
+
+{{< adsterra_native >}}
 
 ## La Amenaza Silenciosa: El Futuro de los Ingresos Artísticos
 

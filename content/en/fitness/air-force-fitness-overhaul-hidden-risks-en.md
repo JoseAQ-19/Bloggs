@@ -17,6 +17,7 @@ title: 'Air Force Fitness Fiasco: Women Face 31% Higher Injury Risk. Why?'
 translationKey: 7108b301-eda0-6400-2f54-1909eea6a7c1
 type: fitness
 ---
+
 ## Executive Summary
 * ![Air Force Fitness Fiasco: Women Face 31% Higher Injury Risk. Why?](/images/air-force-fitness-overhaul-hidden-risks-en.jpg)
 
@@ -27,6 +28,10 @@ Without question, Air Force fitness standards, intended to maintain combat readi
 * Women in the U.S. Air Force face a 31% higher risk of musculoskeletal injury compared to men, linked to factors that may include differences in push-up performance and body composition.
 * A study focusing on US Air Force Security Forces revealed that 65.2% of personnel were diagnosed with at least one musculoskeletal injury from 2009 to 2018.
 * Air Force personnel will see fitness assessment scores included on their performance briefs starting in February 2026, highlighting the increasing importance of physical fitness for career advancement.
+
+
+
+{{< adsterra_native >}}
 
 ## The Push-Up Paradox: Why Air Force Fitness Tests are Failing Female Airmen
 

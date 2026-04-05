@@ -17,6 +17,7 @@ title: 'Nobitex Records 700% Surge: Iran''s Capital Flight Fueled By Fear'
 translationKey: e5de1893-f606-c0c1-ac95-01db37b2256f
 type: crypto
 ---
+
 ## Executive Summary
 * ![Nobitex Records 700% Surge: Iran's Capital Flight Fueled By Fear](/images/iranian-crypto-exodus-on-chain-data-en.jpg)
 
@@ -27,6 +28,10 @@ Iran's crypto market, touted as a haven from sanctions, may instead be a ticking
 * Following US-Israeli strikes in late February 2026, crypto outflows from Nobitex, Iran's largest exchange, surged 700% to nearly $3 million, signaling increased capital flight.
 * Chainalysis estimates that about half of Iran's $7.8 billion in crypto activity in 2025 was linked to the Islamic Revolutionary Guard Corps (IRGC), raising concerns about sanctions evasion.
 * US Tech Professionals and Wall Street analysts must scrutinize crypto platforms' compliance with sanctions, as the US Treasury is investigating potential evasion by Iranian actors.
+
+
+
+{{< adsterra_native >}}
 
 ## Nobitex's $3 Million Exit: Iran's Preemptive Strike Against Instability
 

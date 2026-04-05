@@ -1,16 +1,19 @@
 ---
-title: "Waco Adapt Just Raised $5 Million: What This Means For Inclusive Fitness"
-date: 2026-04-05T06:03:08
+canonical: https://novumworld.com/fitness/waco-adapt-breaking-barriers-for-inclusive-fitness-en/
+categories:
+- fitness
+date: 2026-04-05 06:03:08
+description: Waco Adapt secures $5 million to enhance inclusive fitness. Discover
+  how this funding will transform accessibility and empower diverse communities in.
 draft: false
-description: "Waco Adapt secures $5 million to enhance inclusive fitness. Discover how this funding will transform accessibility and empower diverse communities in."
-featured_image: "/images/waco-adapt-breaking-barriers-for-inclusive-fitness-en.jpg"
-slug: "waco-adapt-breaking-barriers-for-inclusive-fitness-en"
-canonical: "https://novumworld.com/fitness/waco-adapt-breaking-barriers-for-inclusive-fitness-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "f1e22fe6-2ace-6cd2-efc5-ffb1308ae183"
+featured_image: /images/waco-adapt-breaking-barriers-for-inclusive-fitness-en.jpg
+language: en
+slug: waco-adapt-breaking-barriers-for-inclusive-fitness-en
+tags:
+- Biohacking & Fitness
+title: 'Waco Adapt Just Raised $5 Million: What This Means For Inclusive Fitness'
+translationKey: f1e22fe6-2ace-6cd2-efc5-ffb1308ae183
+type: fitness
 ---
 
 ![Waco Adapt Just Raised $5 Million: What This Means For Inclusive Fitness](/images/waco-adapt-breaking-barriers-for-inclusive-fitness-en.jpg)
@@ -20,6 +23,10 @@ Waco Adapt just secured $5 million in seed funding to tackle the adaptive fitnes
 * The fitness platforms for disabled market is projected to grow from $2.79 billion in 2025 to $3.4 billion in 2026, driven by a compound annual growth rate of 22%.
 * 81% of individuals with disabilities report feeling unwelcome in fitness industry spaces, a systemic failure that technology alone cannot solve.
 * A study on urban adaptive fitness centers highlights that consistent attendance is linked to reduced secondary health conditions, yet access remains the primary barrier.
+
+
+
+{{< adsterra_native >}}
 
 ## The $5 Million Investment: Bridging the Inclusivity Gap in Fitness
 

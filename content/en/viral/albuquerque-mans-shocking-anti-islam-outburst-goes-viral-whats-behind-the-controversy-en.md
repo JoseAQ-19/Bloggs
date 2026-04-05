@@ -19,6 +19,7 @@ title: 'Shocking Outburst: Albuquerque Man Joins 8,683 Complaints of Anti-Muslim
 translationKey: d24f747b-5bfb-9804-e850-b76c18e5af90
 type: viral
 ---
+
 ![Shocking Outburst: Albuquerque Man Joins 8,683 Complaints of Anti-Muslim Hate in 2025](/images/albuquerque-mans-shocking-anti-islam-outburst-goes-viral-whats-behind-the-controversy-en.jpg)
 
 ## Executive Summary
@@ -31,6 +32,10 @@ The Molotov cocktail thrown at an Albuquerque mosque was not an isolated act of 
 * CAIR reported 8,683 discrimination complaints involving Muslims in 2025, the highest number recorded since 1996, marking a 0.3% increase from the previous year's record high.
 * Complaints of hate crimes surged by 453% from 2022 to 2024, with law enforcement encounters increasing by 71.5% in the same period.
 * The rise in anti-Muslim hate correlates directly with the deployment of engagement-maximizing algorithms that prioritize polarizing content over factual accuracy.
+
+
+
+{{< adsterra_native >}}
 
 ## The Alarming Surge of Anti-Muslim Complaints
 

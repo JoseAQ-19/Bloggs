@@ -18,6 +18,7 @@ title: Tether's $135 Billion US Treasury Stash Hides A Sinister Secret
 translationKey: 03f88caa-8aab-2acb-60e4-04c42a4ddbb6
 type: crypto
 ---
+
 ## Executive Summary
 * ![Tether's $135 Billion US Treasury Stash Hides A Sinister Secret](/images/bitcoin-rally-stablecoin-exodus-en.jpg)
 
@@ -28,6 +29,10 @@ Tether's accumulation of $135 billion in US Treasuries has raised eyebrows, but 
 * Tether holds approximately 61% of the total stablecoin market, with a market cap around $187 billion and $140 billion in daily trading volume.
 * Despite attestations from BDO Italia, Tether faces ongoing criticism regarding the absence of a full, independent audit of its reserves.
 * Bitcoin Layer 2 networks have seen their Total Value Locked (TVL) stabilize above $10 billion, indicating a shift towards DeFi applications.
+
+
+
+{{< adsterra_native >}}
 
 ## The $3.29 Billion Freeze: How Tether's Blacklist Undermines Decentralization
 

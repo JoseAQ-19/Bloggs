@@ -18,6 +18,7 @@ title: 'Forget Weights: Xponential Fitness Doesn''t Want You To Know This Hypert
 translationKey: 2aae7400-a91f-4573-78b0-1a69110e5e00
 type: fitness
 ---
+
 ## Executive Summary
 * ![Forget Weights: Xponential Fitness Doesn't Want You To Know This Hypertrophy Hack.](/images/bodyweight-isometrics-hypertrophy-en.jpg)
 
@@ -28,6 +29,10 @@ Xponential Fitness’s growth trajectory may be overlooking a readily available 
 * Bodyweight isometrics, holding a static position against resistance, can offer comparable hypertrophy to traditional weight training.
 * Jeff Cavaliere of ATHLEAN-X stresses that isometric exercises are often overlooked but can critically engage muscles in ways traditional exercises cannot.
 * For hypertrophy, most research suggests an optimal time under tension (TUT) per set is 40 to 70 seconds, an element easily achieved through isometric holds.
+
+
+
+{{< adsterra_native >}}
 
 ## Pure Barre's Silent Strength: Why Is Xponential Fitness Not Yelling About Isometrics?
 

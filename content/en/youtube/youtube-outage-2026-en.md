@@ -17,6 +17,7 @@ title: '320,000 YouTube Users Screamed: What Google Is Hiding About The Outage.'
 translationKey: 1f802e3a-98ef-e3ac-f7a5-c3b62ac0606a
 type: youtube
 ---
+
 ## Executive Summary
 * ![320,000 YouTube Users Screamed: What Google Is Hiding About The Outage.](/images/youtube-outage-2026-en.jpg)
 
@@ -27,6 +28,10 @@ YouTube's February 17, 2026, outage wasn't just a glitch; it was a stark reminde
 * Over 320,000 users reported issues with YouTube, YouTube Music, and YouTube TV during the 90-minute to three-hour outage on February 17, 2026, which was attributed to a failure in the recommendation system.
 * FINI.IA estimates some influencers lost up to 20% of their daily earnings due to the YouTube outage, potentially costing a mid-size creator $25 in lost revenue for just a few hours of downtime.
 * Implementing blameless postmortems, as advocated by Google, can help companies understand failures, prevent future outages, and ultimately support content creators and viewers.
+
+
+
+{{< adsterra_native >}}
 
 ## The Recommendation Engine Meltdown: Did YouTube Hide the Full Story?
 

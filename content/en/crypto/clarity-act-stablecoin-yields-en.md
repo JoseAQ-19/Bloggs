@@ -17,6 +17,7 @@ title: $6.6 Trillion Exodus? CLARITY Act's Stablecoin War Just Ignited
 translationKey: bb67e3da-57ff-4401-52cc-81d85e0d5c6b
 type: crypto
 ---
+
 ## Executive Summary
 * ![$6.6 Trillion Exodus? CLARITY Act's Stablecoin War Just Ignited](/images/clarity-act-stablecoin-yields-en.jpg)
 
@@ -29,6 +30,10 @@ Traditional banking faces a potential $6.6 trillion deposit exodus as the CLARIT
 * The stablecoin market capitalization sits at $316 billion, a figure that pales in comparison to the potential liquidity flows from traditional finance if regulatory clarity permits broader institutional adoption.
 
 The financial infrastructure of the United States stands on a precipice, not due to a market crash, but because of legislative friction. As the CLARITY Act moves through the Senate, the proposed prohibition on yield-bearing stablecoins has ignited a fierce war between crypto incumbents protecting their revenue models and traditional banks guarding their deposit bases. The debate is no longer theoretical; it is a tactical battle over the future definition of money, yield, and digital liquidity. This analysis dissects the economic incentives, the regulatory gambits, and the on-chain realities driving this $6.6 trillion confrontation.
+
+
+
+{{< adsterra_native >}}
 
 ## Armstrong's Retreat: Yield Ban Fuels CLARITY Act Stablecoin Fears
 

@@ -18,6 +18,7 @@ title: 'DeFi''s $9 Billion Crypto Crime Problem: Treasury Yields Fuel Regulatory
 translationKey: 9f2f4cc8-8588-50e3-43df-26ee92889351
 type: crypto
 ---
+
 ## Executive Summary
 * ![DeFi's $9 Billion Crypto Crime Problem: Treasury Yields Fuel Regulatory Arbitrage Fire](/images/crypto-treasury-yield-arbitrage-en.jpg)
 
@@ -28,6 +29,10 @@ DeFi's regulatory vacuum has created a $9 billion playground for fraudsters in 2
 * DeFi crime cost investors approximately $9 billion in 2024, fueled by regulatory arbitrage opportunities arising from treasury yield strategies.
 * By August 2025, at least 152 publicly traded companies controlled over 950,000 Bitcoin worth over $110 billion, illustrating the growing corporate adoption of crypto.
 * Investors must carefully assess regulatory risks and demand greater transparency from DeFi platforms offering treasury yield products to mitigate potential losses.
+
+
+
+{{< adsterra_native >}}
 
 ## The $9 Billion Headache: How DeFi's Regulatory Vacuum Fuels Crypto Crime
 

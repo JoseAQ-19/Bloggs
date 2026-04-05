@@ -17,6 +17,7 @@ title: The Shocking Injury Rates in Hyrox That Every Fitness Buff Needs to Know
 translationKey: cb50a470-2e94-38c7-320d-7854008afbe8
 type: fitness
 ---
+
 ## Executive Summary
 * ![The Shocking Injury Rates in Hyrox That Every Fitness Buff Needs to Know](/images/hyrox-revolution-why-this-new-fitness-trend-is-captivating-the-industry-en.jpg)
 
@@ -27,6 +28,10 @@ type: fitness
 * **Completion Time:** The median completion time for a Hyrox event is 86.5 minutes, with runs taking significantly longer (51.2 minutes) than exercise stations (32.8 minutes).
 * **Intensity:** Most of the Hyrox competition is performed at very hard and hard intensities, with 79.5% and 19.6% of maximum heart rate, respectively.
 * **VO2max Correlation:** Faster Hyrox completion times correlate significantly with higher VO2max (p = 0.01), greater endurance training volume (p = 0.04), and lower body fat percentage (p = 0.03).
+
+
+
+{{< adsterra_native >}}
 
 ## The Hidden Dangers of Hyrox: Understanding Injury Patterns
 

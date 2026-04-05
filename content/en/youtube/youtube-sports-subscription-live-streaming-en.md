@@ -17,6 +17,7 @@ title: 'Cord-Cutting 2.0: YouTube TV''s Sports Plan To Hit $64.99, Industry Pani
 translationKey: 001d9b26-bdd7-0979-0501-8a8eeaf58f02
 type: youtube
 ---
+
 ## Executive Summary
 * ![Cord-Cutting 2.0: YouTube TV's Sports Plan To Hit $64.99, Industry Panics](/images/youtube-sports-subscription-live-streaming-en.jpg)
 
@@ -26,6 +27,10 @@ type: youtube
 * YouTube TV's "Sports Plan" will cost $64.99 per month, offering sports-focused content and intensifying the cord-cutting trend.
 * Pay-TV customers in the US fell by a record 6.9% in Q1 2024, with cable suffering the most, losing 1.4 million subscribers (**Sportspromedia**).
 * Viewers may face increased subscription costs and further fragmentation of sports content across multiple streaming platforms, potentially leading to piracy.
+
+
+
+{{< adsterra_native >}}
 
 ## The $64.99 Question: Will YouTube TV's Sports Bet Pay Off for Sports Fans?
 

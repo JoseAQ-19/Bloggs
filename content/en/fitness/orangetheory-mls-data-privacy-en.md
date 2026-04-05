@@ -17,6 +17,7 @@ title: 'Orangetheory''s $1 Billion Gamble: Will MLS Partnership Lead To Data Bre
 translationKey: 1e3a0266-353b-cfaa-a4da-0ada5629d47d
 type: fitness
 ---
+
 ![Orangetheory's $1 Billion Gamble: Will MLS Partnership Lead To Data Breach?](/images/orangetheory-mls-data-privacy-en.jpg)
 
 Orangetheory Fitness may be sweating more over potential data breaches than calorie burn, especially given its escalating collection of biometric data.
@@ -24,6 +25,10 @@ Orangetheory Fitness may be sweating more over potential data breaches than calo
 * Orangetheory Fitness surpassed $1 billion in system-wide sales in 2018, making its data a lucrative target for cybercriminals and raising the stakes of a potential breach.
 * 74% of respondents are concerned about how their wearable devices handle their personal data, signaling a widespread distrust in the security of biometric information collected by fitness companies.
 * Users should meticulously review Orangetheory Fitness's data privacy policies to fully grasp how their personal workout and health data is handled and potentially shared, pushing for more transparency and control.
+
+
+
+{{< adsterra_native >}}
 
 ## OTbeat's Billion-Dollar Backswing: One Hack Away From Disaster?
 

@@ -18,6 +18,7 @@ title: 'Illuminate Education Exposed 10 Million Kids: Are Your Children Next?'
 translationKey: 771405e7-98e3-6803-7074-13fe23c16d1b
 type: viral
 ---
+
 ## Executive Summary
 * ![Illuminate Education Exposed 10 Million Kids: Are Your Children Next?](/images/kindergarten-discipline-viral-content-en.jpg)
 
@@ -30,6 +31,10 @@ Data breaches and disciplinary disparities are turning America's schools into di
 * In 2021, a data breach at Illuminate Education exposed the personal data of over 10 million students, raising significant privacy concerns.
 * Black students, though only 18% of preschool students, account for 42% of suspensions from preschool, according to national research, revealing racial disparities in disciplinary action.
 * Parents must actively scrutinize school data collection and disciplinary policies to protect their children's privacy and ensure equitable treatment.
+
+
+
+{{< adsterra_native >}}
 
 ## Illuminate Education's Data Fortress Crumbles: The 10 Million Student Data Breach
 

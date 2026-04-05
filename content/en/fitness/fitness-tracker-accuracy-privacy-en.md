@@ -17,6 +17,7 @@ title: 'Amazon''s Fitness Tracker Lies: Your Calorie Burn is 69% WRONG!'
 translationKey: 0b78ed74-b894-e5b3-636e-44e70c34d824
 type: fitness
 ---
+
 ![Amazon's Fitness Tracker Lies: Your Calorie Burn is 69% WRONG!](/images/fitness-tracker-accuracy-privacy-en.jpg)
 
 The quantified self is a quantified lie, and the wearable industry is banking on your inability to distinguish between data points and biological reality.
@@ -24,6 +25,10 @@ The quantified self is a quantified lie, and the wearable industry is banking on
 * Garmin devices underestimated calorie expenditure 69% of the time in a 2020 validity review, while Apple Watches overestimated it 58% of the time, proving that wrist-based accelerometry is fundamentally flawed for metabolic measurement.
 * Lisa Cadmus-Bertram of UW-Madison notes that calorie burn estimates rely on guesswork and may not accurately reflect an individual's body composition, rendering the "calories burned" metric virtually useless for precision dieting.
 * Nabil Alshurafa points out that current activity-monitoring algorithms are built for people without obesity and that hip-worn trackers often misread energy burn in people with higher body weight, creating a systemic bias in digital health tracking.
+
+
+
+{{< adsterra_native >}}
 
 ## The False Promise of Precision: How Amazon's Halo Underestimates Your Efforts
 

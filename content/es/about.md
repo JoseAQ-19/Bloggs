@@ -10,9 +10,14 @@ quality_tier: fenix_v3_pro_sanitized
 title: Quiénes Somos
 url: /es/about/
 ---
+
 # Sobre NovumWorld
 
 Bienvenido a NovumWorld, un medio digital dedicado a descifrar la complejidad de la tecnología moderna, las finanzas descentralizadas, el fitness basado en la ciencia y la cultura de Internet.
+
+
+
+{{< adsterra_native >}}
 
 ## Nuestra Misión
 

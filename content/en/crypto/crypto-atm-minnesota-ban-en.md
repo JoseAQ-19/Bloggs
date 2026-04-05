@@ -17,6 +17,7 @@ title: 'Crypto ATM Scams Explode: $333 Million Lost, And Regulators Finally Reac
 translationKey: 556a5fdd-eeb4-2e94-a27d-74d7430d68de
 type: crypto
 ---
+
 ## Executive Summary
 * ![Crypto ATM Scams Explode: $333 Million Lost, And Regulators Finally React](/images/crypto-atm-minnesota-ban-en.jpg)
 
@@ -27,6 +28,10 @@ American consumers lost over $333 million to Bitcoin ATM scams between January a
 * American consumers lost over $333 million to Bitcoin ATM scams between January and November 2025, highlighting the urgent need for stronger consumer protections.
 * The global crypto ATM market is projected to reach $7,585 billion by 2033, exhibiting a CAGR of 54.4%, indicating rapid expansion despite rising fraud, according to one source.
 * Expect stricter crypto ATM regulations, potential bans in fraud-prone areas, and increased scrutiny of KYC/AML procedures, impacting both consumers and operators.
+
+
+
+{{< adsterra_native >}}
 
 ## Minnesota's $540,000 Crypto Kiosk Catastrophe
 

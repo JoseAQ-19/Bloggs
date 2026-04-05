@@ -17,6 +17,7 @@ title: 'El Capitalismo Zombi: Cómo la Codicia Corporativa Está Devorando el Fu
 translationKey: f07c85fb-80b1-ee26-6d1e-084c21f69b13
 type: ia
 ---
+
 ## Resumen Ejecutivo
 El concepto de "Capitalismo Zombi" describe un entorno económico caracterizado por la proliferación de "empresas zombi": entidades corporativas que, durante un período prolongado (típicamente tres años consecutivos o más), no generan suficientes ganancias operativas (EBITDA) para cubrir sus costes de servicio de deuda. Este fenómeno, exacerbado tras la crisis financiera global de 2008 y las subsiguientes políticas monetarias acomodaticias, plantea desafíos estructurales significativos para la economía global.
 
@@ -25,6 +26,10 @@ El concepto de "Capitalismo Zombi" describe un entorno económico caracterizado 
 *   **Factores Contribuyentes:** Las tasas de interés persistentemente bajas, las políticas de flexibilización cuantitativa (QE), los rescates estatales indiscriminados y la ineficacia de los mecanismos de reestructuración de deuda o quiebra son identificados como catalizadores principales.
 *   **Distorsión de Mercado:** La supervivencia artificial de empresas ineficientes distorsiona la competencia, reduce la disciplina de mercado y puede incrementar el riesgo sistémico al acumular deuda inviable.
 *   **Implicaciones a Largo Plazo:** La perpetuación del capitalismo zombi obstaculiza la "destrucción creativa" schumpeteriana, fundamental para la renovación económica y la asignación eficiente de recursos, comprometiendo así el potencial de crecimiento futuro y la resiliencia económica.
+
+
+
+{{< adsterra_native >}}
 
 ## La Metáfora del Zombi en el Discurso Económico: Un Análisis Profundo
 

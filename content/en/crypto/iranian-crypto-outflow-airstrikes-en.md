@@ -17,6 +17,7 @@ title: '700% Crypto Spike: Did Iran''s Whales Know Something We Didn''t About Ai
 translationKey: 42e782e7-422e-c851-0405-c6738d193ad7
 type: crypto
 ---
+
 ## Executive Summary
 * ![700% Crypto Spike: Did Iran's Whales Know Something We Didn't About Airstrikes?](/images/iranian-crypto-outflow-airstrikes-en.jpg)
 
@@ -27,6 +28,10 @@ Geopolitical instability is now a tradable asset class, it seems. Cryptoasset ou
 * Cryptoasset outflows from Iran's largest exchange, Nobitex, surged 700% immediately following US-Israeli airstrikes, sparking suspicion of foreknowledge.
 * Chainalysis estimates the Islamic Revolutionary Guard Corps (IRGC) accounts for over 50% of Iran's total cryptocurrency inflows, exceeding $3 billion last year.
 * The potential for insider trading and sanctions evasion raises serious concerns about the role of cryptocurrency in geopolitical events, requiring enhanced scrutiny.
+
+
+
+{{< adsterra_native >}}
 
 ## Foreknowledge or Coincidence? Iran Crypto Whale Exodus Sparks Airstrike Suspicions
 

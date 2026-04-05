@@ -1,16 +1,19 @@
 ---
-title: "Éric Sadin Asegura Que La IA Huele A Muerte: Un Llamado De Alerta Global"
-date: 2026-04-05T09:55:29
+canonical: https://novumworld.com/es/ia/eric-sadin-desmantela-la-ia-huele-a-muerte/
+categories:
+- ia
+date: 2026-04-05 09:55:29
+description: Éric Sadin advierte sobre los peligros de la inteligencia artificial
+  en su nuevo artículo. Descubre su visión sobre un futuro incierto y alarmante.
 draft: false
-description: "Éric Sadin advierte sobre los peligros de la inteligencia artificial en su nuevo artículo. Descubre su visión sobre un futuro incierto y alarmante."
-featured_image: "/images/eric-sadin-desmantela-la-ia-huele-a-muerte.jpg"
-slug: "eric-sadin-desmantela-la-ia-huele-a-muerte"
-canonical: "https://novumworld.com/es/ia/eric-sadin-desmantela-la-ia-huele-a-muerte/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "670e282c-a3d0-5971-b237-a858001e9871"
+featured_image: /images/eric-sadin-desmantela-la-ia-huele-a-muerte.jpg
+language: es
+slug: eric-sadin-desmantela-la-ia-huele-a-muerte
+tags:
+- IA & SaaS
+title: 'Éric Sadin Asegura Que La IA Huele A Muerte: Un Llamado De Alerta Global'
+translationKey: 670e282c-a3d0-5971-b237-a858001e9871
+type: ia
 ---
 
 ![Éric Sadin Asegura Que La IA Huele A Muerte: Un Llamado De Alerta Global](/images/eric-sadin-desmantela-la-ia-huele-a-muerte.jpg)
@@ -19,6 +22,10 @@ translationKey: "670e282c-a3d0-5971-b237-a858001e9871"
 - Éric Sadin advierte que la inteligencia artificial generativa representa un riesgo inminente para la humanidad, sugiriendo un posible "vegetalización" de las personas.
 - Un 31% de las organizaciones en España han prohibido el uso de aplicaciones de IA generativa debido a riesgos de privacidad y seguridad, según un informe de 2024.
 - Los trabajadores deben prepararse para un mercado laboral en transformación, donde el 39% de los españoles creen que la automatización será el cambio más significativo en sus carreras en los próximos tres años.
+
+
+
+{{< adsterra_native >}}
 
 ## La Amenaza Silenciosa de la IA Generativa
 La inteligencia artificial se ha convertido en un tema candente en el ámbito tecnológico y social, generando debates acalorados sobre su impacto ético y social. Éric Sadin, filósofo crítico de la IA, sostiene que esta tecnología representa un "lenguaje muerto" que podría afectar profundamente nuestra humanidad. Según Sadin, la IA no es más que un cúmulo de correlaciones estadísticas que, a menudo, nos aleja de lo que hace única a la experiencia humana: la capacidad de generar significado a partir de contextos complejos y emociones genuinas. La dependencia emocional en herramientas de IA, especialmente entre los jóvenes, podría dar lugar a una "vegetalización de la humanidad", donde las personas se convierten en meros operadores de comandos para máquinas, en lugar de pensadores críticos.

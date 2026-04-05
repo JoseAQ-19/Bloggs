@@ -17,6 +17,7 @@ title: 'Marcos Vázquez Lo Advierte: Así Escapas De La Sarcopenia Después De L
 translationKey: b4c8efb7-3181-b327-5a3c-505414a4bb64
 type: fitness
 ---
+
 ## Resumen Ejecutivo
 * ![Marcos Vázquez Lo Advierte: Así Escapas De La Sarcopenia Después De Los 60](/images/transformacion-fisica-despues-de-los-60.jpg)
 
@@ -27,6 +28,10 @@ La industria del fitness ha vendido la mentira más peligrosa para la población
 * La sarcopenia afecta al **33% de las mujeres mayores** y al **10% de los hombres** en España, según un estudio epidemiológico en Barcelona, demostrando que la pérdida muscular no es una consecuencia inevitable del envejecimiento, sino una crisis de salud pública silenciosa.
 * Después de los 60 años, el cuerpo puede perder masa muscular a una velocidad del **1% al 2% por año** si no se aplica un estímulo de fuerza adecuado, un proceso acelerado que destruye la calidad de vida antes de que el paciente se dé cuenta.
 * El **38.9% de los participantes** en un estudio sobre envejecimiento en Cataluña eran físicamente inactivos, un dato que correlaciona directamente con el aumento drástico del riesgo de dependencia y mortalidad prematura.
+
+
+
+{{< adsterra_native >}}
 
 ## La Paradoja de la Longevidad: Caminar No Basta, Advierte Marcos Vázquez
 

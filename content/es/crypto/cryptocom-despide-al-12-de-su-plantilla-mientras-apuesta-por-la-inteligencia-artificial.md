@@ -19,6 +19,7 @@ title: 'La Caída de Crypto.com: 180 Empleados Despedidos y Un Futuro Enfocado e
 translationKey: fa641287-34ea-1c21-6d7a-16ffe7338040
 type: crypto
 ---
+
 ![La Caída de Crypto.com: 180 Empleados Despedidos y Un Futuro Enfocado en IA](/images/cryptocom-despide-al-12-de-su-plantilla-mientras-apuesta-por-la-inteligencia-artificial.jpg)
 
 ---
@@ -35,6 +36,10 @@ Crypto.com despide al 12% de su plantilla global, lo que representa un cambio dr
 ## Resumen Ejecutivo
 
 La empresa de criptomonedas, Crypto.com, enfrenta un importante reestructuración tras despedir al 12% de su personal. Esta medida, que afecta a alrededor de 180 empleados, se enmarca dentro de una estrategia de transformación hacia un enfoque "primero en IA". Kris Marszalek, CEO de Crypto.com, ha indicado que la empresa necesita actuar rápidamente para no quedarse atrás en un mercado que está evolucionando hacia la inteligencia artificial. Este despido masivo no es un hecho aislado; en los últimos años, la compañía ya había realizado recortes significativos, despidiendo un 20% de su personal en 2022 y un 5% adicional en 2023, lo que refleja un patrón preocupante en su gestión de recursos humanos.
+
+
+
+{{< adsterra_native >}}
 
 ## La Realidad Detrás de los Despidos de Crypto.com
 

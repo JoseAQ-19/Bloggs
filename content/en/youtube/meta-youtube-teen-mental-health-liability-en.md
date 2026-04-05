@@ -18,6 +18,7 @@ title: 'YouTube''s Algorithm Recommended 71% Harmful Videos: Teen Mental Health 
 translationKey: 067325ab-a021-1657-4fe7-c6cc6186cca4
 type: youtube
 ---
+
 ## Executive Summary
 * ![YouTube's Algorithm Recommended 71% Harmful Videos: Teen Mental Health Trial Begins](/images/meta-youtube-teen-mental-health-liability-en.jpg)
 
@@ -28,6 +29,10 @@ The business model of social media relies on maximizing retention, and a new fed
 * 71% of videos flagged by volunteers as harmful were recommended by YouTube's algorithm according to a 2021 Mozilla Foundation report.
 * A 2025 Pew Research Center study found nearly half of teens say social media harms people their age.
 * The average US teen spends nearly five hours per day on social media, creating a massive addiction liability exposure.
+
+
+
+{{< adsterra_native >}}
 
 ## "Addicted by Design?" The YouTube Trial Exposing Algorithmic Manipulation
 

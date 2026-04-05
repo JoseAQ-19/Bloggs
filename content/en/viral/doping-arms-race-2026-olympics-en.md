@@ -17,6 +17,7 @@ title: 'CRISPR Olympics: Gene Editing Super Athletes Could Dominate 2026 Winter 
 translationKey: a016ca2a-fe9d-fb3e-638a-0da8ae612fa7
 type: viral
 ---
+
 ## Executive Summary
 * ![CRISPR Olympics: Gene Editing Super Athletes Could Dominate 2026 Winter Games](/images/doping-arms-race-2026-olympics-en.jpg)
 
@@ -29,6 +30,10 @@ The line between human achievement and scientific intervention is about to blurâ
 * Gene editing could enable athletes to gain an unfair advantage at the 2026 Winter Olympics, raising ethical concerns about fairness and the definition of "winning".
 * According to *Frontiers*, a 2 cm increase in ski suit circumference can extend jump distance by 5.8 meters, highlighting the importance of suit design and potential exploitation, as seen in "Penisgate".
 * Expect heightened scrutiny and testing as the International Testing Agency (ITA) conducted over 7,100 doping controls in the six months leading up to the Games, but detection of gene editing remains a challenge.
+
+
+
+{{< adsterra_native >}}
 
 ## The CRISPR Arms Race: Will Gene-Edited Athletes Tarnish the 2026 Games?
 

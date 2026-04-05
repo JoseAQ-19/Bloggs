@@ -17,6 +17,7 @@ title: 'Binance''s $1 Billion+ Terror Network: DOJ Uncovers Iran''s Sanctions Do
 translationKey: 4a103d58-ff60-0f6d-7ff8-0d6af9485372
 type: crypto
 ---
+
 ## Executive Summary
 * ![Binance's $1 Billion+ Terror Network: DOJ Uncovers Iran's Sanctions Dodge](/images/iran-crypto-sanctions-binance-doj-en.jpg)
 
@@ -27,6 +28,10 @@ The illusion of regulatory compliance is crumbling as investigations reveal cryp
 * The DOJ is investigating a Binance-linked network that allegedly moved over $1 billion to fund Iran-backed terror groups.
 * Chainalysis estimates Iran's crypto ecosystem reached over $7.78 billion in 2025, demonstrating significant adoption despite sanctions.
 * The investigation may result in increased regulatory scrutiny and potential penalties for cryptocurrency exchanges that fail to prevent sanctions evasion, as Binance has previously faced a $4.3 billion fine for regulatory non-compliance.
+
+
+
+{{< adsterra_native >}}
 
 ## Binance's $1 Billion Blunder: The Terror Funding Loophole
 

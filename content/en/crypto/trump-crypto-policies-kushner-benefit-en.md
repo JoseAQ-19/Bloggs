@@ -17,6 +17,7 @@ title: 'Trump''s Crypto Coup: How Jared Kushner Could Pocket Billions'
 translationKey: 67e579f8-7d89-29b4-d2da-6830fc98c2b6
 type: crypto
 ---
+
 ## Executive Summary
 * ![Trump's Crypto Coup: How Jared Kushner Could Pocket Billions](/images/trump-crypto-policies-kushner-benefit-en.jpg)
 
@@ -27,6 +28,10 @@ The convergence of political power and personal profit has never been more trans
 * Global cryptocurrency owners increased by 12.4% in 2025, reaching 741 million, showcasing the sector's rapid expansion according to **Crypto.com**.
 * SEC enforcement actions related to cryptocurrency decreased by 60% between 2024 and 2025, falling from 33 to 13 actions, according to **Cornerstone Research**.
 * The [U.S. House Judiciary Committee Democrats](https://democrats-judiciary.house.gov/media-center/press-releases/new-report-exposes-the-trump-family-s-multi-billion-dollar-crypto-empire-fueled-by-self-dealing-and-corrupt-foreign-interests) released a report exposing the Trump family's multi-billion-dollar crypto empire, fueled by self-dealing and corrupt foreign interests.
+
+
+
+{{< adsterra_native >}}
 
 ## The Regulatory Tightrope: How Trump's Pro-Crypto Stance Could Enrich Kushner
 

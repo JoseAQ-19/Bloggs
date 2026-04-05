@@ -17,6 +17,7 @@ title: 'Spurs Blunder: 60% Of Latino Fans On Facebook, DEI Backlash Explodes'
 translationKey: c9934807-5152-206f-5590-c30f8714eead
 type: viral
 ---
+
 ## Executive Summary
 * ![Spurs Blunder: 60% Of Latino Fans On Facebook, DEI Backlash Explodes](/images/spurs-tiktok-diversity-backfire-en.jpg)
 
@@ -27,6 +28,10 @@ The San Antonio Spurs think ChatGPT and theme nights will solve inclusion, but t
 * 60% of Latino social media users are on Facebook, a platform where Spanish-language content moderation is virtually nonexistent compared to English.
 * Latinos relying on Spanish social media are 11-20 percentage points more likely to believe false political narratives, a vulnerability that sports franchises ignore at their peril.
 * The Spurs' embrace of AI and DEI is a high-stakes gamble: 97% of companies have these initiatives, yet 85% of budgets fail to address the underlying algorithmic alienation of marginalized communities.
+
+
+
+{{< adsterra_native >}}
 
 ## Spurs' DEI Dilemma: Balancing Inclusion With Rising Anti-DEI Sentiment
 

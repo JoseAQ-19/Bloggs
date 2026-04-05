@@ -17,6 +17,7 @@ title: 'Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard for Top Ho
 translationKey: 37b63a4f-4676-3ef1-2ab6-7453c5569012
 type: funds
 ---
+
 ## Executive Summary
 * ![Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard for Top Honors](/images/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-for-top-honors-en.jpg)
 
@@ -26,6 +27,10 @@ type: funds
 * **49.1 trillion dollars — total U.S. retirement assets as of Q4 2025, according to ICI** **9.3% — average three-year return of equity mutual funds, 2025 data from Morningstar** **0.55% — average expense ratio of no-load funds, 2026 Morningstar analysis**
 
 This year's Morningstar Awards have cast a spotlight on the fierce competition among FPA, PIMCO, and Vanguard, with each fund showcasing unique strategies and market resilience. The backdrop of a financial landscape dominated by record retirement assets and persistently low expense ratios sets the stage for a compelling analysis. 
+
+
+
+{{< adsterra_native >}}
 
 ## Comparative Analysis of Funds
 

@@ -17,6 +17,7 @@ title: '$512 Million Gone: The DeFi Hack No One Is Talking About.'
 translationKey: fe05491e-abc2-ecc4-41ab-4fd1fe0a3f7f
 type: crypto
 ---
+
 ## Executive Summary
 * ![$512 Million Gone: The DeFi Hack No One Is Talking About.](/images/digital-assets-2025-turning-point-en.jpg)
 
@@ -27,6 +28,10 @@ The DeFi industry's promise of decentralized finance continues to be undermined 
 * In 2025, the DeFi industry lost $512 million to exploits, including a $223 million breach involving Cetus, overshadowing broader market gains.
 * Despite the overall cryptocurrency market reaching $2,734.6 billion globally in 2025, losses from DeFi exploits highlight systemic vulnerabilities.
 * Users must demand more robust security audits and transparency, as regulatory bodies like the FTC are increasingly scrutinizing DeFi projects for deceptive practices.
+
+
+
+{{< adsterra_native >}}
 
 ## Cetus's $223 Million Breach: A Reminder of DeFi's Fragility
 

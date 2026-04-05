@@ -17,6 +17,7 @@ title: '$66K Dip? Whales Just Added 230,000 Bitcoin: Bears Are Officially WRONG'
 translationKey: 1c7b28aa-5ec8-eeb4-24a1-48b915e10b8b
 type: crypto
 ---
+
 ## Executive Summary
 * ![$66K Dip? Whales Just Added 230,000 Bitcoin: Bears Are Officially WRONG](/images/bitcoin-on-chain-analysis-bull-run-en.jpg)
 
@@ -27,6 +28,10 @@ Bitcoin’s failure to hold $70,000 has bears licking their chops, but the smart
 * Whale wallets holding 1,000 to 10,000 BTC added 230,000 Bitcoin between December 10, 2025, and February 2026, suggesting strong bullish sentiment.
 * U.S. spot Bitcoin ETFs have decreased their holdings by roughly 93,000 BTC since October 2025, according to recent data.
 * Traders should watch the $66,000 level as a key support; holding it could signal a rally towards $72,000, but failure could indicate further downside risk.
+
+
+
+{{< adsterra_native >}}
 
 ## The $93,000 Bitcoin ETF Paradox
 

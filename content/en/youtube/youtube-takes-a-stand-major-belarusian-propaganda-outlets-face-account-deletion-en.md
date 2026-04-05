@@ -19,6 +19,7 @@ title: YouTube Just Deleted Accounts Of 5 Major Belarusian Propaganda Outlets An
 translationKey: 138fd4ac-7a3c-4472-b469-bcb0d84b37c3
 type: youtube
 ---
+
 ![YouTube Just Deleted Accounts Of 5 Major Belarusian Propaganda Outlets And Nobody Noticed](/images/youtube-takes-a-stand-major-belarusian-propaganda-outlets-face-account-deletion-en.jpg)
 
 ## Executive Summary
@@ -29,6 +30,10 @@ type: youtube
 * YouTube removed state-run channels BelTA, STV, and ONT in April 2026, stripping the Lukashenko regime of a major global distribution pipeline.
 * Forced confession videos of political prisoners Raman Pratasevich and Sofia Sapega ran as paid YouTube ads, generating 139,000 and 191,000 views respectively before removal.
 * Pro-government Telegram channels filled the void, producing 433 disinformation posts about the Ukraine war that garnered over 10 million views.
+
+
+
+{{< adsterra_native >}}
 
 ## The Silent Purge of State Media
 YouTube's deletion of five major Belarusian propaganda outlets in April 2026 was executed with the quiet efficiency of a server room decommissioning. The channels removed included BelTA, STV, and ONT, all state-run entities that served as the primary mouthpieces for Alexander Lukashenko's regime. This action was not accompanied by a press release or a public blog post detailing the policy violation. Instead, the channels simply vanished, a clear signal that YouTube is prioritizing risk mitigation over public transparency when dealing with state-sponsored disinformation. The removal follows a pattern of increased scrutiny on platforms that act as distribution nodes for authoritarian regimes.

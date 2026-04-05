@@ -17,6 +17,7 @@ title: 'YouTube''s $46.2 Billion Ad Revenue Disaster: Is This The End For Creato
 translationKey: 0ad33ec4-5538-2675-2a25-f9c67e2b7b77
 type: youtube
 ---
+
 ## Executive Summary
 * ![YouTube's $46.2 Billion Ad Revenue Disaster: Is This The End For Creators?](/images/youtube-golden-age-creator-economics-en.jpg)
 
@@ -27,6 +28,10 @@ Google is concealing a catastrophic collapse in its core creator economy busines
 * YouTube's advertising revenue plummeted to $36.15 billion in 2025, a devastating drop from $46.2 billion in 2024, vaporizing over $10 billion in market value.
 * Approximately 70% of YouTube watch time is dictated by algorithm recommendations, forcing creators into a subservient relationship with opaque AI gatekeepers rather than their own audiences.
 * YouTube Premium subscriptions surged to 127 million users, generating $9.4 billion in revenue, highlighting a desperate pivot toward consumer subscriptions as ad revenue craters.
+
+
+
+{{< adsterra_native >}}
 
 ## The $10 Billion Hole: Why Google Isn't Talking About It
 

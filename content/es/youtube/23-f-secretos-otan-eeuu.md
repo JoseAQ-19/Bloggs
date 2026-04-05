@@ -17,6 +17,7 @@ title: '23-F: Cercas lo Clavó. El Rey Rajaba... La Bomba Declasificada.'
 translationKey: 5371ca22-3fce-351f-46f1-91917b667267
 type: youtube
 ---
+
 ## Resumen Ejecutivo
 * ![23-F: Cercas lo Clavó. El Rey Rajaba... La Bomba Declasificada.](/images/23-f-secretos-otan-eeuu.jpg)
 
@@ -27,6 +28,10 @@ La verdad sobre el 23-F sigue enterrada bajo toneladas de secretismo, incluso de
 * Se han desclasificado 153 unidades documentales relacionadas con el intento de golpe de Estado del 23-F, que estaban previamente clasificadas bajo las leyes de la época franquista.
 * Los documentos desclasificados revelan la participación de seis agentes del CESID en el golpe, lo que desafía la narrativa oficial.
 * La desclasificación obliga a los historiadores y al público a reevaluar los acontecimientos del 23-F y su impacto duradero en la democracia española, aunque el resumen del juicio permanece clasificado.
+
+
+
+{{< adsterra_native >}}
 
 ## Juan Carlos I en el punto de mira: El Rey "Rajaba" y la sombra de la conspiración.
 

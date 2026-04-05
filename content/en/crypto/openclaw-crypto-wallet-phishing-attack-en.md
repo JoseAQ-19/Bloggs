@@ -17,6 +17,7 @@ title: 'OpenClaw''s $120 Billion Seed Phrase Disaster: Is Your Crypto Next?'
 translationKey: 62bf7878-e7f3-7fe4-1a16-98b2f02c8d94
 type: crypto
 ---
+
 ## Executive Summary
 * ![OpenClaw's $120 Billion Seed Phrase Disaster: Is Your Crypto Next?](/images/openclaw-crypto-wallet-phishing-attack-en.jpg)
 
@@ -27,6 +28,10 @@ Bitcoin markets remain volatile as institutional investors rotate into safe-have
 * Koi Security identified over 824 malicious skills on ClawHub as of February 16, 2026, signaling a compromised ecosystem where third-party code acts as a trojan horse for seed phrase exfiltration.
 * OpenClaw vulnerabilities, specifically CVE-2026-28477, allow attackers to bypass OAuth state validation and CSRF protections, granting administrative control over AI agents with persistent access to user systems.
 * Chainalysis reported that phishing attacks accounted for over $3.8 billion in cryptocurrency theft in 2022, a figure now exacerbated by AI agents like OpenClaw that automate the phishing process at scale.
+
+
+
+{{< adsterra_native >}}
 
 ## The $120 Billion Seed Phrase Time Bomb: OpenClaw's Hidden Danger
 

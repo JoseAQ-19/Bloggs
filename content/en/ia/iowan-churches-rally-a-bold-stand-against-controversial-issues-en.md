@@ -20,6 +20,7 @@ title: 'Iowa Churches Unite: 83 Congregations Break Away Over LGBTQ Rights And C
 translationKey: 586e0aa7-159e-be57-ebac-1984861a3fd6
 type: ia
 ---
+
 ## Executive Summary
 * ![Iowa Churches Unite: 83 Congregations Break Away Over LGBTQ Rights And Cultural Marxism](/images/iowan-churches-rally-a-bold-stand-against-controversial-issues-en.jpg)
 
@@ -30,6 +31,10 @@ The United Methodist Church is bleeding users in the Midwest, losing 83 Iowa con
 * 83 Iowa congregations disaffiliated from the United Methodist Church (UMC) over LGBTQ rights, marking a massive "churn" event for the denomination.
 * UMC market share crashed from 5.1% of the U.S. population in 2007 to just 2.7% in 2024, a valuation collapse of nearly 50%.
 * 68 of Iowa's 99 counties lost population according to the 2020 Census, creating a "liquidity crisis" for rural parishes that can no longer sustain operations.
+
+
+
+{{< adsterra_native >}}
 
 ## The Great Unbundling of Faith
 

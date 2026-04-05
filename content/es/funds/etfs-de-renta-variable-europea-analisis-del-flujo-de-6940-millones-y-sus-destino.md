@@ -18,6 +18,7 @@ title: 'ETFs de renta variable europea: Análisis del flujo de 6.940 millones �
 translationKey: d879ef42-0f86-f6bb-dac5-7c65a8973328
 type: funds
 ---
+
 ## Resumen Ejecutivo
 * ![ETFs de renta variable europea: Análisis del flujo de 6.940 millones € y sus destinos.](/images/etfs-de-renta-variable-europea-analisis-del-flujo-de-6940-millones-y-sus-destino.jpg)
 
@@ -28,6 +29,10 @@ type: funds
 * 2,5%: El rendimiento promedio anual de los ETFs de renta variable europea en los últimos 5 años, según Morningstar.
 * 15,6%: El rendimiento promedio anual de estos ETFs en los últimos 3 años, según Morningstar.
 * 0,45%: El promedio de comisiones de gestión de los ETFs de renta variable europea, según Morningstar.
+
+
+
+{{< adsterra_native >}}
 
 ## Análisis de los ETFs de renta variable europea
 

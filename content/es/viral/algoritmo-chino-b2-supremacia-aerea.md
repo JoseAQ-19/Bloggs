@@ -17,6 +17,7 @@ title: 'B-2 Derrotado: El Algoritmo Chino de $10 Millones que Cambia la Guerra A
 translationKey: 79b40039-a2d6-f2bd-0074-989d3d61a123
 type: viral
 ---
+
 ## Resumen Ejecutivo
 * ![B-2 Derrotado: El Algoritmo Chino de $10 Millones que Cambia la Guerra Aérea.](/images/algoritmo-chino-b2-supremacia-aerea.jpg)
 
@@ -27,6 +28,10 @@ En un mundo donde los presupuestos militares se estiran hasta límites insospech
 * Un algoritmo chino de $10 millones, financiado por el gobierno y el EPL, podría detectar el bombardero B-2 Spirit de $2 mil millones analizando señales electromagnéticas.
 * Santiago Rivas, analista de defensa, destaca que la tecnología de radar de Indra es "fundamental" para Ucrania al responder a ataques.
 * Este desarrollo plantea preguntas sobre el futuro de la tecnología stealth y la efectividad de programas de defensa multimillonarios, alterando potencialmente las estrategias de asignación de recursos en la guerra aérea global.
+
+
+
+{{< adsterra_native >}}
 
 ## El Jaque Mate al B-2: ¿El Algoritmo Chino de $10 Millones Contra la Inversión de $2 Mil Millones?
 

@@ -19,12 +19,17 @@ title: 'La IA Revoluciona el Met Gala 2026: 300 Millones de Interacciones Ignora
 translationKey: 59b93013-7e51-e664-f519-e2ae751b7cc3
 type: viral
 ---
+
 ![La IA Revoluciona el Met Gala 2026: 300 Millones de Interacciones Ignoradas por la Industria](/images/met-gala-2026-la-fusion-perfecta-de-moda-arte-y-tendencias-virales-que-arrasan-en-redes.jpg)
 
 ## Resumen Ejecutivo
 - La Met Gala 2026 generó más de 300 millones de interacciones en redes sociales, un aumento del 80% respecto al año anterior, reflejando el impacto creciente de la IA en el sector de la moda.
 - Iván Rodríguez, CEO de Modelia, sostiene que la IA expande la creatividad en lugar de sustituirla, permitiendo a los creativos actuar más rápido y con control estético.
 - Las marcas de moda en España deben adaptarse a nuevas regulaciones sobre reducción de residuos, lo que influye en sus procesos de diseño y fabricación.
+
+
+
+{{< adsterra_native >}}
 
 ## La revolución de la IA en la Met Gala: Un juego de influencia y creatividad
 La Met Gala 2026 ha marcado un hito en la interacción social y el uso de la inteligencia artificial (IA) en la moda. Con un 43% de los momentos virales impulsados por influencers en lugar de celebridades tradicionales, el evento ha evidenciado un cambio en la forma en que se concibe y se consume la moda. Este fenómeno no es casualidad; se inscribe en un contexto donde la IA ha pasado de ser una herramienta para optimizar procesos a convertirse en un motor creativo que redefine el diseño textil.

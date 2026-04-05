@@ -17,6 +17,7 @@ title: '95% Of ATMs Run On COBOL: The Tech Time Bomb In Your Wallet'
 translationKey: 122dd045-08b3-4a02-f1aa-9627ed517cc3
 type: ia
 ---
+
 ## Executive Summary
 * ![95% Of ATMs Run On COBOL: The Tech Time Bomb In Your Wallet](/images/cobol-apocalypse-banking-1959-tech-en.jpg)
 
@@ -27,6 +28,10 @@ The global financial system is running on code written when JFK was in office, h
 * COBOL powers 95% of all ATMs globally and handles 80% of financial transactions, yet the average age of a programmer maintaining these systems is 58.
 * The global mainframe modernization market is projected to hit $8.39 billion by 2025, attempting to fix a mess where 66% of technology projects end in partial or total failure.
 * Two out of three organizations choose to modernize incrementally rather than "rip and replace," admitting that the nuclear option is effectively a suicide pact for their infrastructure.
+
+
+
+{{< adsterra_native >}}
 
 ## The $8.39 Billion Dollar Question: Can Mainframes Survive?
 

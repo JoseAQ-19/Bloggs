@@ -17,6 +17,7 @@ title: '$2.6 Billion Crypto Crackdown: Is Your DeFi Next, Thanks To The SEC?'
 translationKey: bbfa6553-f324-5e58-6b45-943cc0653f00
 type: crypto
 ---
+
 ## Executive Summary
 * ![$2.6 Billion Crypto Crackdown: Is Your DeFi Next, Thanks To The SEC?](/images/sec-enforcement-crypto-regulation-en.jpg)
 
@@ -27,6 +28,10 @@ The SEC’s heightened focus on crypto enforcement reveals a regulatory minefiel
 * The SEC secured $2.6 billion in investor restitution and penalties in 2025 from crypto enforcement actions — **SEC Enforcement: 2025 Year in Review**
 * DeFi platforms suffered approximately $474 million in losses due to hacks in 2024 — **Elliptic**
 * Acting SEC Chairman Mark T. Uyeda admitted the Commission has largely expressed its views on crypto via enforcement actions without public engagement — **SEC.gov**
+
+
+
+{{< adsterra_native >}}
 
 ## The Howey Test Hangs Over DeFi: BarnBridge's $509 Million Headache
 

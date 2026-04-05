@@ -19,6 +19,7 @@ title: Harvard Revela Cómo 8% de Tu ADN Proviene de Virus Antiguos Desconocidos
 translationKey: ff808dbe-14d8-5e51-386d-5bc54d82900c
 type: viral
 ---
+
 ## Resumen Ejecutivo
 - Este análisis profundo explora los puntos críticos de la tendencia, evaluando su impacto directo a medio y largo plazo.
 - Toda la información y datos han sido revisados siguiendo los estrictos estándares de calidad de NovumWorld.
@@ -33,6 +34,10 @@ La idea de que el genoma humano es un diseño inteligente o un código limpio es
 * Alrededor del 8% de tu ADN proviene de virus antiguos, conocidos como retrovirus endógenos, que infectaron a nuestros antepasados primates y ahora influyen en enfermedades modernas.
 * Investigadores del IRB Barcelona han identificado 3.300 puntos en el genoma humano donde la edición con CRISPR provoca efectos tóxicos graves, cuestionando la seguridad de la tecnología.
 * El Comité de Bioética de España rechaza la edición genética con fines de mejora, calificándola de programa eugenésico inaceptable, lo que frena la inversión en líneas germinales.
+
+
+
+{{< adsterra_native >}}
 
 ## El mito del ADN puro y la realidad viral
 

@@ -21,6 +21,7 @@ title: 'Metaverse: The 21st Century Pyramid Scheme'
 translationKey: d97adf89-8d34-4b07-94e7-7276bc0a1f7a
 type: ia
 ---
+
 ## Executive Summary
 * image: images/metaverse-bubble.jpg
 - Technology
@@ -51,6 +52,10 @@ The Metaverse, as it was sold, promised scarcity in a digital world of infinite 
 The financial black hole that Meta (formerly Facebook) has become is a testament to the reckless abandon with which the Metaverse dream was pursued. Meta’s Reality Labs division, responsible for building its Metaverse ambitions, has racked up nearly $73 billion in operating losses since 2021. A staggering $4.43 billion was lost in the third quarter of 2025 *alone*. This isn't simply a case of investing in long-term growth; it's the systematic torching of capital on a project that failed to resonate with the public. User engagement paints an even bleaker picture. Reports from DappRadar once highlighted the abysmally low daily active user numbers in platforms valued in the billions. Decentraland, at one point, reportedly had as few as 30 daily active users. That figure may have fluctuated, but it underscores a critical problem: despite the hype and investment, people simply weren't using these platforms in any meaningful way. This lack of engagement is further compounded by a 16% year-over-year decrease in shipments of Meta’s Quest VR headsets as of 2025, signaling a waning interest even in the hardware required to access these digital spaces.
 
 Public interest, measured by Google Trends, has also cratered. Surveys conducted by YouGov revealed that only 26% of Americans used any Metaverse platform in 2024. The writing is on the wall: the general public is not buying what the Metaverse is selling, at least not in its current form. Meta, sensing the shifting tides, has begun to pull back. The company plans to cut Reality Labs' budget by as much as 30% by 2026 and has already laid off over 1,000 employees from the division, diverting capital towards artificial intelligence and smart glasses. These strategic pivots suggest a tacit admission that the initial Metaverse strategy was a miscalculation.
+
+
+
+{{< adsterra_native >}}
 
 ## Economic and Psychological Factors Behind the Metaverse Crash
 

@@ -18,6 +18,7 @@ title: Iowa's Preterm Birth Rate Hits 10.2% Amid Baby Shower Attendance Crisis
 translationKey: c06ef672-23a6-16a4-2581-226ee26ee214
 type: ia
 ---
+
 ![Iowa's Preterm Birth Rate Hits 10.2% Amid Baby Shower Attendance Crisis](/images/baby-showers-and-community-spirit-celebrating-new-life-in-nw-iowa-en.jpg)
 
 Iowa’s preterm birth rate hitting 10.2% isn’t just a statistic—it’s a symptom of a maternal health system hemorrhaging crucial social and medical support. The collapse of community baby showers, often dismissed as mere social niceties, exposes a silent crisis undermining new mothers’ mental health and, by extension, infant outcomes.
@@ -27,6 +28,10 @@ Iowa’s preterm birth rate hitting 10.2% isn’t just a statistic—it’s a sy
 * Rural Iowa mothers face postpartum depression rates as high as 32.7%, exacerbated by declining social support networks like baby showers.
 
 * Since 2000, 41 Iowa community hospitals have shuttered their birthing units, strangling access to maternal care in rural counties.
+
+
+
+{{< adsterra_native >}}
 
 ## The Baby Shower Attendance Crisis: A Silent Contributor to Preterm Births
 

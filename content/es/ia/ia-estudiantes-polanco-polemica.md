@@ -18,6 +18,7 @@ title: 'ChatGPT Suspende en España: La Mitad de los Alumnos Sacan Peores Notas 
 translationKey: 5470ed37-a09c-59d5-bbf4-916aad5b4268
 type: ia
 ---
+
 ## Resumen Ejecutivo
 * ![ChatGPT Suspende en España: La Mitad de los Alumnos Sacan Peores Notas Por Usarlo](/images/ia-estudiantes-polanco-polemica.jpg)
 
@@ -28,6 +29,10 @@ La promesa de la IA como panacea educativa choca de frente con la dura realidad:
 * La mitad de los profesores españoles reportan que los estudiantes obtienen peores resultados en los exámenes al usar herramientas de IA como ChatGPT, sugiriendo una dependencia que obstaculiza el aprendizaje sin asistencia de la IA.
 * Según un estudio de LLYC, el 87.9% de los futuros estudiantes tienen gran confianza en la IA para planificar sus estudios, lo que contrasta con la preocupación de los profesores sobre el impacto negativo de la IA en el aprendizaje.
 * Los estudiantes y padres españoles deben priorizar el desarrollo del pensamiento crítico y la comprensión de las limitaciones de la IA para evitar una dependencia excesiva y garantizar un aprendizaje efectivo, mientras que los educadores necesitan preparación para la integración responsable de la IA.
+
+
+
+{{< adsterra_native >}}
 
 ## ChatGPT Suspende: La Decepción Académica de la Generación IA
 

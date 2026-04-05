@@ -17,6 +17,7 @@ title: 'Crypto.com Just Laid Off 12% of Its Workforce: The Shocking AI Shift Exp
 translationKey: dcc9f14d-bbd0-8ac7-6847-00d58b6cb858
 type: crypto
 ---
+
 ## Executive Summary
 * ![Crypto.com Just Laid Off 12% of Its Workforce: The Shocking AI Shift Explained](/images/cryptocom-cuts-deep-12-layoffs-amid-ai-urgency-en.jpg)
 
@@ -27,6 +28,10 @@ Global crypto markets shed $200 billion in valuation as the United States unempl
 * Crypto.com reduced its global headcount by approximately 180 employees in March 2026, explicitly attributing the cuts to a strategic pivot toward "enterprise-wide AI" automation.
 * Block Inc. and Gemini eliminated nearly 4,025 combined roles in early 2026, citing AI-driven productivity gains as the primary driver for this massive labor consolidation.
 * LinkedIn reports the creation of 1.3 million new AI roles globally since 2023, drawing talent away from Web3 as venture capital funding for artificial intelligence hits $211 billion.
+
+
+
+{{< adsterra_native >}}
 
 ## The AI Pivot: Crypto.com’s Strategic Shift Under Pressure
 

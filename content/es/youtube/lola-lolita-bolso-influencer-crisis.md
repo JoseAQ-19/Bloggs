@@ -17,6 +17,7 @@ title: Lola Lolita Pide Perdón, pero los Microinfluencers Ganan la Guerra
 translationKey: 780a6e42-92e4-b702-a7e1-89bcc1212700
 type: youtube
 ---
+
 ## Resumen Ejecutivo
 * ![Lola Lolita Pide Perdón, pero los Microinfluencers Ganan la Guerra](/images/lola-lolita-bolso-influencer-crisis.jpg)
 
@@ -27,6 +28,10 @@ La imagen de Lola Lolita rodeada de lujos en "21 días entre millonarios" ha res
 * La controversia de Lola Lolita subraya los riesgos del comportamiento inauténtico de los influencers, contribuyendo a una tendencia en la que las marcas favorecen cada vez más a los microinfluencers por sus mayores tasas de engagement.
 * En 2024, el marketing de influencers en España superó los 125 millones de euros, lo que supone un aumento del 59% con respecto al año anterior, lo que indica un importante crecimiento del sector, según IAB Spain.
 * Tanto los influencers como las marcas deben priorizar la transparencia, la autenticidad y la conducta ética para mantener la confianza de la audiencia y cumplir con las regulaciones cada vez más estrictas, especialmente en lo que respecta a las promociones de productos financieros y la protección de los menores.
+
+
+
+{{< adsterra_native >}}
 
 ## La caída de Lola Lolita: ¿El fin de la ostentación millonaria en el marketing de influencers?
 

@@ -19,6 +19,7 @@ title: 35% Of Gen Z Millionaires Bet Half Their Portfolios On Crypto Despite Ris
 translationKey: b69373da-8a9c-62c5-edb9-157abd3cccad
 type: crypto
 ---
+
 ## Executive Summary
 - This in-depth analysis explores the critical points of the ongoing trend, evaluating its direct medium and long-term impact.
 - All information and data have been reviewed following NovumWorld's strict quality standards.
@@ -38,6 +39,10 @@ The greatest wealth transfer in history is being funneled into a casino where th
 > - 35% of Gen Z millionaires holding >50% in crypto violates the basic tenet of diversification, exposing them to asymmetric downside.
 > - The SEC's 125 enforcement actions and $6.05 billion in penalties indicate a hostile environment for unregistered securities.
 > - While TVL exceeds $133 billion, the sector remains a breeding ground for rug pulls and hacks, with 2022 seeing over $3.8 billion in hack losses.
+
+
+
+{{< adsterra_native >}}
 
 ## The $1 Trillion Gamble: Gen Z's Crypto Obsession
 

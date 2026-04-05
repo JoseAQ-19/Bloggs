@@ -18,6 +18,7 @@ title: 'A16z Arriesga 2.000 Millones: Harvard Invierte en Ethereum Mientras Espa
 translationKey: 732e72c5-28b2-0385-7267-a03821e61b29
 type: crypto
 ---
+
 ## Resumen Ejecutivo
 * ![A16z Arriesga 2.000 Millones: Harvard Invierte en Ethereum Mientras España Teme Impuestos Crypto](/images/a16z-apuesta-blockchain-futuro-web3.jpg)
 
@@ -28,6 +29,10 @@ La tokenización de activos del mundo real es una burbuja inflada por el optimis
 * El mercado de bienes raíces tokenizados podría alcanzar los 20 mil millones de euros para 2033, según **El Periódico**, mientras que España considera regulaciones fiscales más estrictas para las criptomonedas, lo que podría afectar la inversión.
 * La CNMV de España ha emitido reglas de transición para MiCA, aclarando el marco regulatorio, pero los impactos potenciales en los inversores siguen siendo inciertos.
 * Los inversores españoles deben ser conscientes de la evolución de los marcos regulatorios como MiCA y considerar el impacto de los posibles cambios fiscales en sus tenencias de criptomonedas y estrategias de inversión.
+
+
+
+{{< adsterra_native >}}
 
 ## Harvard Apuesta Fuerte, España Titubea: ¿Arriesga Ethereum su Futuro con la Incertidumbre Fiscal?
 

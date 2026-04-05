@@ -18,6 +18,7 @@ title: 'Stephen Roach Acierta: Bitcoin Es Tóxico Y La Verticalidad Lo Demuestra
 translationKey: ff7cce73-1ee2-ab87-44de-18b0207c7d98
 type: crypto
 ---
+
 ## Resumen Ejecutivo
 * ![Stephen Roach Acierta: Bitcoin Es Tóxico Y La Verticalidad Lo Demuestra](/images/bitcoin-refugio-inversores-incertidumbre.jpg)
 
@@ -28,6 +29,10 @@ La reciente verticalidad en el precio de Bitcoin, que ha superado los $70,000, h
 * Stephen Roach se mantiene firme en su evaluación de que Bitcoin es una burbuja especulativa "tóxica", citando su reciente verticalidad de precios como evidencia, a pesar de su creciente adopción.
 * Según Bitwise, Bitcoin ha mostrado un retorno promedio de +31.2% en los 50 días siguientes a eventos geopolíticos importantes; sin embargo, expertos como Roach se mantienen escépticos.
 * Los inversores españoles deben proceder con extrema cautela, sopesando cuidadosamente el potencial de altos retornos contra la volatilidad inherente y los riesgos asociados con las inversiones en Bitcoin, especialmente dadas las incertidumbres regulatorias.
+
+
+
+{{< adsterra_native >}}
 
 ## La Verticalidad de Bitcoin Aterra a Roach: ¿Una Burbuja Peligrosa o Una Nueva Realidad?
 

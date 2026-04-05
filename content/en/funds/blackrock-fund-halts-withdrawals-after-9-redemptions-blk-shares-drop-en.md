@@ -17,6 +17,7 @@ title: BlackRock Fund Halts Withdrawals After 9% Redemptions; BLK Shares Drop.
 translationKey: a372d2f6-0c7d-c4d7-96c8-7d410d8432cf
 type: funds
 ---
+
 ## Executive Summary
 * ![BlackRock Fund Halts Withdrawals After 9% Redemptions; BLK Shares Drop.](/images/blackrock-fund-halts-withdrawals-after-9-redemptions-blk-shares-drop-en.jpg)
 
@@ -29,6 +30,10 @@ Global asset management giant BlackRock (BLK) has triggered market alarm by impo
 The fund in question, the BlackRock Strategic Income Opportunities Fund (BSIOX), halted redemptions after investors pulled out $437 million last week alone, representing 9% of total assets under management. The fund, which primarily invests in corporate bonds and leveraged loans, has seen its assets decline by 18% since the beginning of the year as rising interest rates and inflation concerns triggered a rush to cash.
 
 According to Morningstar data, the Strategic Income Opportunities Fund, categorized as a "Core Plus Bond" fund, carries a 3-star rating and has returned -3.2% over the past year underperforming the Bloomberg Aggregate Bond Index by 5.7 percentage points. The fund's expense ratio stands at 0.85%, with no front-end or back-end loads, though an institutional share class (BIOIX) is available with a reduced 0.65% expense ratio.
+
+
+
+{{< adsterra_native >}}
 
 ## Comparative Analysis: BlackRock Versus Competitors
 

@@ -17,6 +17,7 @@ title: Planet Fitness Lawsuit Exposes AED Access Failure After Fatal Incident in
 translationKey: ece7f2bb-c080-4797-1062-02ce6a99f72a
 type: fitness
 ---
+
 ## Executive Summary
 * ![Planet Fitness Lawsuit Exposes AED Access Failure After Fatal Incident in Shreveport](/images/tragedy-strikes-a-fatal-incident-shakes-the-shreveport-planet-fitness-community-en.jpg)
 
@@ -27,6 +28,10 @@ Planet Fitness's lawsuit exposes a fatal flaw in the fitness industry's emergenc
 * Exercise facilities with accessible AEDs have 56% survival rates for sudden cardiac arrest, versus 34% in non-exercise settings according to Richard L. Page, MD, FACC at University of Wisconsin School of Medicine and Public Health.
 * Guy Harris's death at a Planet Fitness in Shreveport highlights a critical failure where a manager allegedly refused to provide an AED to bystanders attempting life-saving measures.
 * Gym liability waivers do not protect facilities from gross negligence claims, as demonstrated in multiple lawsuits against Planet Fitness and other fitness chains nationwide.
+
+
+
+{{< adsterra_native >}}
 
 ## The AED Access Controversy: A Fatal Error in Planet Fitness Protocols
 

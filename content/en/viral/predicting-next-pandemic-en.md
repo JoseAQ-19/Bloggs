@@ -17,6 +17,7 @@ title: 'Barbara Han''s 90% Accurate Pandemic Model: Why You Should Fear The Midw
 translationKey: b6cce30d-8dda-0704-1c2b-87c8091f52b3
 type: viral
 ---
+
 ## Executive Summary
 * ![Barbara Han's 90% Accurate Pandemic Model: Why You Should Fear The Midwest](/images/predicting-next-pandemic-en.jpg)
 
@@ -29,6 +30,10 @@ A Midwest farm might be your portfolio's next black swan.
 * Barbara Han's model boasts 90% accuracy in predicting rodent-borne pathogen hotspots, identifying the U.S. Midwest and Central Asia as high-risk areas for emerging zoonotic diseases.
 * Zoonotic diseases already result in yearly economic losses surpassing USD 120 billion due to trade limitations, livestock deaths, and decreased productivity.
 * Tech professionals, VCs, and Wall Street analysts should incorporate zoonotic disease risk assessments into investment and business continuity planning, particularly focusing on companies with operations in the identified high-risk regions.
+
+
+
+{{< adsterra_native >}}
 
 ## Barbara Han's Rodent Risk Model: The $120 Billion Blind Spot Hitting Heartland Supply Chains
 

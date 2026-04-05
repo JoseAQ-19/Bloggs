@@ -17,6 +17,7 @@ title: 'Carriedo Desata la Ira Médica: ¿Peligran el 93% de Niños Vacunados?'
 translationKey: bb7edcc9-21cf-f886-0d02-e8acd75e1d7d
 type: viral
 ---
+
 ## Resumen Ejecutivo
 * ![Carriedo Desata la Ira Médica: ¿Peligran el 93% de Niños Vacunados?](/images/marta-carriedo-polemica-vacunas-infantiles.jpg)
 
@@ -27,6 +28,10 @@ En un mundo donde la información fluye sin control, las opiniones de *influence
 * Marta Carriedo generó controversia al compartir un video que cuestionaba la seguridad de las vacunas, reavivando debates sobre la libertad de elección de los padres y afectando potencialmente las tasas de vacunación infantil, que ya muestran un ligero descenso.
 * La tasa de vacunación DPT3 en España disminuyó del 95.4% al 92.6% entre 2019 y 2023, según **The Lancet**, revelando una tendencia potencialmente preocupante.
 * Los padres deben sopesar los posibles riesgos y beneficios de la vacunación, consultando con profesionales médicos de confianza para tomar decisiones informadas sobre la salud de sus hijos en medio de información contradictoria.
+
+
+
+{{< adsterra_native >}}
 
 ## Carriedo Contra la Medicina: ¿Libertad de Elección o Amenaza a la Salud Pública?
 

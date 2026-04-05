@@ -18,6 +18,7 @@ title: 'Gastó 12.000€ para Ser un Border Collie: la Verdad Detrás de los The
 translationKey: 53f4c4db-c796-41a0-8d87-d126ba7307eb
 type: youtube
 ---
+
 ## Resumen Ejecutivo
 * ![Gastó 12.000€ para Ser un Border Collie: la Verdad Detrás de los Therians Españoles](/images/therians-espana-moda-viral-campana-odio.jpg)
 
@@ -28,6 +29,10 @@ Gastar 12.000€ para transformarse en un Border Collie puede parecer una extrav
 * Toco, un japonés, gastó 12.000€ en convertirse en Border Collie, ejemplificando la autoexpresión extrema visible en la subcultura *therian* española.
 * La psicóloga Andrea Anaya sugiere que la falta de pertenencia puede llevar a la identificación con "cosas inexplicables" (La Razón).
 * El aumento de visibilidad de los *therians* en España genera preocupación por el bienestar animal y posible explotación, instando a la cautela a organizaciones como PACMA.
+
+
+
+{{< adsterra_native >}}
 
 ## El auge de los *therians* en España: Un fenómeno impulsado por TikTok y explotado por la ultraderecha.
 

@@ -17,6 +17,7 @@ title: 'Hyperliquid Fuels $991 Million Oil Futures Frenzy: Is DeFi the New Rig?'
 translationKey: d86e3fba-bd04-8db5-8749-32b19ef33f19
 type: crypto
 ---
+
 ## Executive Summary
 * ![Hyperliquid Fuels $991 Million Oil Futures Frenzy: Is DeFi the New Rig?](/images/oil-futures-crypto-obsession-en.jpg)
 
@@ -27,6 +28,10 @@ DeFi's incursion into oil futures trading is less a revolution and more a specul
 * Decentralized perpetual futures platforms now account for 20-26% of all perpetual trading volume, a significant jump from less than 5% in 2023, according to available research.
 * Hyperliquid, a decentralized exchange, recently facilitated nearly $991 million in oil futures trading within a 24-hour period.
 * Following coordinated missile strikes on Iran, oil-linked perpetual futures on Hyperliquid surged, with contracts seeing gains exceeding 5%.
+
+
+
+{{< adsterra_native >}}
 
 ## Hyperliquid's $991 Million Barrel: Is DeFi's 24/7 Oil Market a Ticking Time Bomb?
 

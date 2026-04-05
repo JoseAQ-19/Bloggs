@@ -1,12 +1,14 @@
 ---
-title: "Contact"
-layout: "page"
-type: "page"
-translationKey: "contact"
-url: "/en/contact/"
+layout: page
+title: Contact
+translationKey: contact
+type: page
+url: /en/contact/
 ---
 
 # Contact
+
+{{< adsterra_native >}}
 
 For editorial inquiries, collaborations, or technical support, you can reach the **NovumWorld** team through our official channels:
 

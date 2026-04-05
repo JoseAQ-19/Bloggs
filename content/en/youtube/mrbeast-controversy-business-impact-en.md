@@ -17,6 +17,7 @@ title: MrBeast's Empire Crumbles? Views Plunge 50% As Controversy Swirls
 translationKey: 9c1287e5-0c75-81c9-3c8e-974b7fa64fe2
 type: youtube
 ---
+
 ## Executive Summary
 * ![MrBeast's Empire Crumbles? Views Plunge 50% As Controversy Swirls](/images/mrbeast-controversy-business-impact-en.jpg)
 
@@ -27,6 +28,10 @@ MrBeast's seemingly unstoppable reign as YouTube's golden child may be showing c
 * MrBeast's YouTube views have plummeted by 50% in the last 12 months, dropping from approximately 900 million to 1.2 billion monthly views to 570 million.
 * Mario Joos, Retention Director for popular YouTube channels, attributes the decline partially to a YouTube algorithm change that favors recent Shorts content.
 * Creators and viewers may need to rethink reliance on YouTube as a primary income or entertainment source due to unpredictable algorithm shifts and ethical concerns.
+
+
+
+{{< adsterra_native >}}
 
 ## The Algorithm Apocalypse: Why YouTube's Shift is Hitting MrBeast Hard
 

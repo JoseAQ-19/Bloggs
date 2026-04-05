@@ -17,6 +17,7 @@ title: '$23 Billion Bitcoin Grab: Whales Are Buying The Dip And You''re Not'
 translationKey: 29cef61f-967f-c4af-380d-7333b8a1910c
 type: crypto
 ---
+
 ## Executive Summary
 * ![$23 Billion Bitcoin Grab: Whales Are Buying The Dip And You're Not](/images/bitcoin-bottom-onchain-analysis-en.jpg)
 
@@ -27,6 +28,10 @@ Bitcoin's alleged bottom may be nothing more than a whale-fueled mirage obscurin
 * Whales have accumulated approximately 270,000 BTC in the past 30 days, worth around $23 billion, suggesting strong confidence despite market volatility.
 * Retail investors realized record losses exceeding $3.2 billion on February 5, 2026, according to **Gemini Grounding E-E-A-T** research.
 * Understanding whale behavior and on-chain metrics could help investors identify potential buying opportunities, but caution against purely relying on these as the only factor for investing.
+
+
+
+{{< adsterra_native >}}
 
 ## The $23 Billion Bet Against Fear: Bitcoin Whales Ignore Retail Panic
 

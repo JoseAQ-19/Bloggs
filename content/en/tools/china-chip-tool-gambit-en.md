@@ -17,6 +17,7 @@ title: 'China''s $49.2 Billion Secret: How Second-Hand Chips Bypass US Sanctions
 translationKey: 07aaa7cb-dfde-f273-5613-2148598d19a4
 type: tools
 ---
+
 ## Executive Summary
 * ![China's $49.2 Billion Secret: How Second-Hand Chips Bypass US Sanctions](/images/china-chip-tool-gambit-en.jpg)
 
@@ -27,6 +28,10 @@ China's semiconductor imports surged to $49.2 billion in 2024, up 17% year-over-
 * China imported $49.2 billion worth of semiconductor manufacturing equipment in 2024, up 17% from 2023, despite US sanctions.
 * China's SMIC struggles with yield rates of only 30% compared to TSMC's 90%.
 * China's exploitation of the second-hand equipment loophole enables it to produce chips that approach cutting-edge capabilities, delaying the impact of US sanctions.
+
+
+
+{{< adsterra_native >}}
 
 ## The $49.2 Billion End-Around: How China Skirts US Chip Sanctions
 

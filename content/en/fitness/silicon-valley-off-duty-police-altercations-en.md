@@ -17,6 +17,7 @@ title: 'Off-Duty Bloodshed: Why Black Men Are 39% Of Off-Duty Police Killings'
 translationKey: a8147864-5378-73b3-1283-8b83a0aad6ea
 type: fitness
 ---
+
 ## Executive Summary
 * ![Off-Duty Bloodshed: Why Black Men Are 39% Of Off-Duty Police Killings](/images/silicon-valley-off-duty-police-altercations-en.jpg)
 
@@ -27,6 +28,10 @@ The myth that an off-duty police officer ceases to be a representative of the la
 * Black men are disproportionately affected, representing 39.3% of victims killed by off-duty police officers in the U.S. between 2013 and 2021.
 * Citizen complaints regarding police use of force are rarely ruled in favor of civilians, with only 1 in 7 complaints being sustained from 2016-2022.
 * Tech professionals should demand transparency and accountability from law enforcement agencies to mitigate escalation risk factors and ensure fair treatment for all citizens.
+
+
+
+{{< adsterra_native >}}
 
 ## The Off-Duty Dilemma: When Badges Come Off, Accountability Vanishes
 

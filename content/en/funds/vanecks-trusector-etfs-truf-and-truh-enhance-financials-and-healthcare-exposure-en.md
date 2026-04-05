@@ -1,14 +1,17 @@
 ---
-title: "VanEck's TruSector ETFs TRUF and TRUH Enhance Financials and Healthcare Exposure"
-date: 2026-04-05T07:25:33
+categories:
+- funds
+date: 2026-04-05 07:25:33
+description: Discover how VanEck's TruSector ETFs TRUF and TRUH boost your investment
+  strategy by enhancing exposure to financials and healthcare sectors.
 draft: false
-description: "Discover how VanEck's TruSector ETFs TRUF and TRUH boost your investment strategy by enhancing exposure to financials and healthcare sectors."
-featured_image: "/images/vanecks-trusector-etfs-truf-and-truh-enhance-financials-and-healthcare-exposure-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "bb6fc4a2-4020-76b2-1c40-b29c40978221"
+featured_image: /images/vanecks-trusector-etfs-truf-and-truh-enhance-financials-and-healthcare-exposure-en.jpg
+language: en
+tags:
+- Funds & Stocks
+title: VanEck's TruSector ETFs TRUF and TRUH Enhance Financials and Healthcare Exposure
+translationKey: bb6fc4a2-4020-76b2-1c40-b29c40978221
+type: funds
 ---
 
 ![VanEck's TruSector ETFs TRUF and TRUH Enhance Financials and Healthcare Exposure](/images/vanecks-trusector-etfs-truf-and-truh-enhance-financials-and-healthcare-exposure-en.jpg)
@@ -20,6 +23,10 @@ In the ever-evolving landscape of sector-specific investments, VanEck's TruSecto
 * [The total expense ratio (TER) for TRUF is 0.40% — Bloomberg](https://news.google.com/rss/articles/CBMieEFVX3lxTE9BQzVnMUxuLVc5MXlxRkhjSVotaHdPTUt0RS1fMEp3emxmak96eDZhbUpwbGdsU0wzN0dvSW80VmF3TjhLMjFpanBvekZ1ZGFtczNBS25rdFRpRkFWdnlORngtSExSNXlFT3J6b1ozYndmQTQ0TjJLeA?oc=5)
 
 The recent launch of these two ETFs, focusing on the financial and healthcare sectors respectively, is timely, especially as both sectors continue to show resilience amidst market volatility. The TruSector ETFs aim to provide investors with targeted exposure, strategically capitalizing on sector-specific trends. The financial sector's rebound post-pandemic and the healthcare sector's ongoing innovations present opportunities that TRUF and TRUH seek to exploit.
+
+
+
+{{< adsterra_native >}}
 
 ## Comparative Analysis of TRUF and TRUH
 
@@ -100,5 +107,3 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Vanguard Slashes Fees on 53 Funds: Is Your Portfolio Getting a Break?](/funds/vanguard-slashes-fees-on-53-funds-is-your-portfolio-getting-a-break-en/)
 - [Morningstar Thailand Awards 2026: Identifying Top Funds in a Challenging Market](/funds/morningstar-thailand-awards-2026-identifying-top-funds-in-a-challenging-market-en/)
 - [Mutual Fund Fees Stick Near Historic Lows: A 2025 Analysis](/funds/mutual-fund-fees-stick-near-historic-lows-a-2025-analysis-en/)
-
-

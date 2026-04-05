@@ -17,6 +17,7 @@ title: 'Bodybuilding Shocker: Steroids & Diet - The Dark Side Claims Stephanie B
 translationKey: 625eab06-c377-5830-268a-a7549dc10d26
 type: fitness
 ---
+
 ## Executive Summary
 * ![Bodybuilding Shocker: Steroids & Diet - The Dark Side Claims Stephanie Buttermore](/images/stephanie-buttermore-death-investigation-en.jpg)
 
@@ -27,6 +28,10 @@ The fitness industry often prioritizes aesthetics over well-being, potentially l
 * Stephanie Buttermore, a 36-year-old fitness influencer, passed away on March 6, 2026, with the cause of death remaining undisclosed.
 * Experts believe that bodybuilding, especially with extreme diets and performance-enhancing substances, can lead to hormonal imbalances, cardiovascular strain, and mental health challenges (**The Korean Journal of Sports Medicine**).
 * Readers should be aware of the hidden health risks associated with extreme dieting and performance-enhancing substances in bodybuilding and fitness.
+
+
+
+{{< adsterra_native >}}
 
 ## Stephanie Buttermore's Death: Steroids and Diet Under Scrutiny
 

@@ -19,6 +19,7 @@ title: 'Gen Z’s Ballet Revolution: 95% Demand Ethical AI Dance Solutions Now'
 translationKey: 36a166be-6d09-6df3-ee7e-a95b1d0e6789
 type: youtube
 ---
+
 ## Executive Summary
 * ![Gen Z’s Ballet Revolution: 95% Demand Ethical AI Dance Solutions Now](/images/gen-z-ballet-youtube-dance-revolution-en.jpg)
 
@@ -31,6 +32,10 @@ The creator economy is facing a reckoning as 95% of stakeholders demand ethical 
 * 95% of people believe AI development in dance art requires ethical and cultural constraints, according to recent market analysis.
 * The global AI Tutors market is projected to grow from USD 1.41 billion in 2023 to USD 15.47 billion by 2032, driven by a 30.58% CAGR.
 * A 12-week study showed a 40% increase in movement accuracy with AI tutoring, yet deepfake technologies pose rising legal liabilities for creators.
+
+
+
+{{< adsterra_native >}}
 
 ## The Ethical Dilemma in AI Dance Solutions: Who Pays the Price?
 

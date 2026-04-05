@@ -19,6 +19,7 @@ title: 60% of Federal Judges Use AI Tools, But Bias Still Thrives in Courtrooms
 translationKey: bfebf76c-38e7-d713-68c8-c8ce942882f0
 type: tools
 ---
+
 ## Executive Summary
 * ![60% of Federal Judges Use AI Tools, But Bias Still Thrives in Courtrooms](/images/ai-bias-federal-judges-tech-shift-en.jpg)
 
@@ -34,6 +35,10 @@ The integration of AI into the federal judiciary is less a technological revolut
 * Federal judges are deploying Large Language Models (LLMs) with context windows up to 128k tokens to summarize briefs, yet 45.5% lack formal training on these architectures.
 * RAG (Retrieval-Augmented Generation) pipelines are ingesting biased historical data, creating feedback loops that disproportionately flag marginalized groups.
 * API latency and hallucination rates remain unmitigated risks in high-stakes litigation, with no standardized liability framework for vendors.
+
+
+
+{{< adsterra_native >}}
 
 ## The Architecture of Judicial AI
 

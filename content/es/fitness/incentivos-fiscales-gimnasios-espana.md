@@ -20,6 +20,7 @@ title: 'La Nueva Ley del Deporte: Un Paraíso Fiscal Para Gimnasios Que Aumenta 
 translationKey: bc269a43-cbe1-24dc-6077-95f86ba57d29
 type: fitness
 ---
+
 ## Resumen Ejecutivo
 * ![La Nueva Ley del Deporte: Un Paraíso Fiscal Para Gimnasios Que Aumenta la Competencia Desleal](/images/incentivos-fiscales-gimnasios-espana.jpg)
 
@@ -30,6 +31,10 @@ La nueva Ley del Deporte es un paraíso fiscal disfrazado de bienestar social, q
 * La nueva Ley del Deporte permite deducciones fiscales de hasta el 30% en gastos deportivos, lo que puede perjudicar la competencia en el sector de gimnasios privados. 
 * En la Comunidad Valenciana, 217,549 contribuyentes han ahorrado un total de €22,860,000 en gastos deportivos, según datos de **Generalitat Valenciana**. 
 * Esta legislación podría llevar a una reducción en la participación de gimnasios privados, afectando la calidad y variedad de servicios ofrecidos. 
+
+
+
+{{< adsterra_native >}}
 
 ## Un Paraíso Fiscal que Favorece a Algunos 
 La nueva Ley del Deporte se presenta como un avance para fomentar la actividad física, pero genera preocupación entre los gimnasios privados sobre la competencia desleal que podría surgir. Carolina España, Consejera de Economía, Hacienda y Fondos Europeos de Andalucía, anunció una deducción del 15% en gastos de deportes a partir de 2025, que se espera beneficie a 785,000 residentes. 

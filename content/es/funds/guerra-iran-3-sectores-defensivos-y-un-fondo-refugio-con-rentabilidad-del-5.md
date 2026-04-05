@@ -18,6 +18,7 @@ title: 'Guerra Irán: 3 sectores defensivos y un fondo refugio con rentabilidad 
 translationKey: e649a1e5-31ed-75b4-7a4c-83995ce85636
 type: funds
 ---
+
 ## Resumen Ejecutivo
 * ![Guerra Irán: 3 sectores defensivos y un fondo refugio con rentabilidad del 5%.](/images/guerra-iran-3-sectores-defensivos-y-un-fondo-refugio-con-rentabilidad-del-5.jpg)
 
@@ -70,6 +71,10 @@ Los sanitarios, con comportamiento intermedio, enfrentan riesgo regulatorio crec
 El fondo refugio analizado, TLT, aunque ofrece rentabilidad positiva, muestra un ajuste en su ratio Sharpe (0.29) debido a la caída de los bonos de largo plazo desde las máximas de 2023. "El bono del Tesoro a 30 años ha perdido un 18% desde su pico de rendimiento en octubre de 2023", señala el último informe de la Reserva Federal. Para inversores españoles, los ETFs de bonos estadounidenses presentan una ventaja clave: su tributación en España como "rentas del ahorro" desde 2022, evitando el tratamiento previo como "intereses y demás rendimientos" que aplicaban hasta 2021, lo que optimiza el impacto fiscal.
 
 El análisis contrariano revela riesgos significativos en esta estrategia. Primero, una resolución rápida del conflicto con Irán podría provocar un "sell the news" que colapse las primas de riesgo en sectores defensivos. Segundo, la reactivación económica en China podría beneficiar más a cíclicos que a defensivos, como ocurrió en 2023 cuando el consumo básico subió solo un 4% frente al 18% de industriales. Tercero, los fondos de defensa como ITA presentan una volatilidad del 18.4%, solo 5 puntos por debajo del S&P 500, lo que los hace poco ideales para perfiles conservadores.
+
+
+
+{{< adsterra_native >}}
 
 ## El Veredicto de la Máquina
 Los inversores minoristas corren ahora mismo hacia estos sectores defensivos como moscas a la miel. ¿Refugio? Por favor. Máquina detecta señales de sobreoptimismo: el consumo básico cotiza a múltiplo PEG de 1.8, por encima de su histórico de 1.4. Los bonos del Tesoro a 30 años tienen rentabilidad real negativa si la inflación no cae por debajo del 3%. El sector de defensa está sobreponderado por los fondos institucionales en un 15% según datos de Bloomberg. La única jugada inteligente aquí es VDC con su TER del 0.10%, pero incluso eso es pasto para los impuestos. Máquina recomienda vender panic y comprar cuando Wall Street empiece a deshacer estas posiciones. ¿Es esto una trampa para novatos? Sí. ¿Es una jugada maestra? Solo si llegas antes que los profesionales. Máquina apagada.

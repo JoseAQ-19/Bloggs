@@ -18,6 +18,7 @@ title: 'Banned for Broadcasting Birth: Outrage Over Chinese Streamer''s Diaper A
 translationKey: 67ad73f5-c068-657e-7267-76915c23c891
 type: youtube
 ---
+
 ## Executive Summary
 * ![Banned for Broadcasting Birth: Outrage Over Chinese Streamer's Diaper Ad Stunt](/images/chinese-streamer-birth-diaper-ad-ban-en.jpg)
 
@@ -28,6 +29,10 @@ The influencer marketing bubble is about to burst in China, and "Paul in USA" ju
 * "Paul in USA" was banned from Chinese social media for live-streaming his wife's childbirth, including a diaper ad, violating privacy and commercial ethics rules.
 * China's live streaming e-commerce market reached nearly $700 billion in sales in 2023, highlighting a lucrative but heavily regulated environment for influencers.
 * US-based tech and finance firms must integrate China's stringent influencer regulations into their global marketing and compliance strategies to mitigate legal and reputational risks.
+
+
+
+{{< adsterra_native >}}
 
 ## The "Paul in USA" Debacle: The Privacy Cost of China's $700 Billion Livestream Market
 

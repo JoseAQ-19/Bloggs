@@ -17,6 +17,7 @@ title: 'Shakira gratis en cdmx: ¿10 muertos más como advertencia para el gobie
 translationKey: f729301a-b680-4c2b-9000-702bba32e4c0
 type: viral
 ---
+
 ## Resumen Ejecutivo
 La potencial celebración de un concierto gratuito de Shakira en la Ciudad de México (CDMX) genera una compleja matriz de riesgos operativos, logísticos y de seguridad pública, que requieren una evaluación rigurosa bajo los más altos estándares de gestión de eventos masivos. La historia reciente de la CDMX, marcada por incidentes trágicos en eventos de gran concurrencia, subraya la urgencia de una planificación exhaustiva.
 
@@ -27,6 +28,10 @@ La potencial celebración de un concierto gratuito de Shakira en la Ciudad de M�
 *   **Impacto de Reformas Judiciales:** Expertos como Carlos Mireles (ITESO) advierten que eventuales reformas judiciales podrían afectar la capacidad de las autoridades para investigar y sancionar a organizadores de eventos que incumplan protocolos de seguridad, potencialmente debilitando la rendición de cuentas y la prevención de riesgos.
 *   **Regulación de Consumo y Reventa:** La Procuraduría Federal del Consumidor (Profeco), bajo la dirección de Iván Escalante Ruiz, ha implementado nuevas directrices para proteger a los consumidores en eventos masivos. Sin embargo, en un concierto gratuito, el desafío se desplaza hacia la prevención de la reventa informal de accesos privilegiados, mercancía no autorizada y la gestión del aforo espontáneo.
 *   **Saturación Urbana y Calidad de Vida:** La creciente proliferación de eventos masivos en la CDMX genera preocupaciones sobre la saturación de infraestructura, el impacto ambiental (acumulación de residuos, ruido), la congestión vial y del transporte público, afectando directamente la calidad de vida de los residentes.
+
+
+
+{{< adsterra_native >}}
 
 ## Análisis de Riesgos Estructurales y Operativos en Eventos Masivos Gratuitos en CDMX
 

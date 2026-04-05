@@ -18,6 +18,7 @@ title: 'McDonald''s CEO''s $26.9 Billion Lie: Here''s Who Pays The Price.'
 translationKey: 981155d9-2fe2-2a29-8e0f-6a17ac5b04f0
 type: viral
 ---
+
 ## Executive Summary
 * ![McDonald's CEO's $26.9 Billion Lie: Here's Who Pays The Price.](/images/fast-food-ceo-wars-distraction-en.jpg)
 
@@ -28,6 +29,10 @@ The McDonald's CEO's $26.9 billion revenue figure is a carefully constructed ill
 * McDonald's $26.9 billion in revenue for 2025 masks a growing affordability problem impacting lower-income consumers, with CEO Chris Kempczinski acknowledging that lower-income consumers are cutting back on quick-service restaurant visits.
 * Burger King's parent company RBI faces a $12 billion debt burden while attempting to compete on value, creating financial fragility beneath the surface of their 5.3% system-wide sales growth.
 * The fast-food industry's "value menu" arms race is eroding profit margins, with Wendy's relying on 4 for $4 bundles that may not be sustainable long-term for anyone except the consumer.
+
+
+
+{{< adsterra_native >}}
 
 ## The $1.08 Billion Deception: How McDonald's Revenue Hides a Consumer Crisis
 

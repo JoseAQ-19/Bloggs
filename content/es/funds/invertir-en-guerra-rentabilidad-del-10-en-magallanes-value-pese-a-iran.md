@@ -17,6 +17,7 @@ title: 'Invertir en guerra: Rentabilidad del 10% en ''Magallanes Value'' pese a 
 translationKey: 9a5f6180-76cd-eb7e-a597-6645034535ff
 type: funds
 ---
+
 ## Resumen Ejecutivo
 * ![Invertir en guerra: Rentabilidad del 10% en 'Magallanes Value' pese a Irán](/images/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran.jpg)
 
@@ -29,6 +30,10 @@ type: funds
 * 0,85% de gastos de gestión anuales — [Fuente: CNMV](https://www.cnmv.es/Portal/)
 
 La gestora Magallanes Value Investors ha demostrado su capacidad para generar rentabilidades atractivas en un entorno de incertidumbre geopolítica. A pesar de la tensión en el Medio Oriente y la guerra en Irán, el fondo ha logrado una rentabilidad anualizada del 10,3% en los últimos 5 años, superando la media de su categoría.
+
+
+
+{{< adsterra_native >}}
 
 ## Análisis comparativo de fondos
 

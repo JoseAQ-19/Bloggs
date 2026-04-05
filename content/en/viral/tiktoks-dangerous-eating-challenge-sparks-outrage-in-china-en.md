@@ -20,6 +20,7 @@ title: TikTok's Fear Food Challenge Doubled Teen ER Visits for Eating Disorders 
 translationKey: e81da8d8-9476-82d4-caca-782f4be67161
 type: viral
 ---
+
 ## Executive Summary
 * ![TikTok's Fear Food Challenge Doubled Teen ER Visits for Eating Disorders Since 2020](/images/tiktoks-dangerous-eating-challenge-sparks-outrage-in-china-en.jpg)
 
@@ -28,6 +29,10 @@ The quiet collapse of teenage body image is being engineered by TikTok's algorit
 The quiet collapse of teenage body image is being engineered by TikTok's algorithm. ER visits for eating disorders among teenage girls doubled between 2020 and 2022, according to the CDC. 
 * [23.8% of 626 respondents in a mental health survey reported having or having had an eating disorder](https://pubmed.ncbi.nlm.nih.gov/39504757) 
 * **TikTok's algorithm exposes users to harmful eating disorder content within 2.6 minutes, as reported by the Center for Countering Digital Hate** **Just 8 minutes of exposure to weight-centric TikTok videos decreases body satisfaction, according to a 2024 PLOS One study*
+
+
+
+{{< adsterra_native >}}
 
 ## The Algorithm That Knows Too Much: How TikTok Targets Vulnerable Teens 
 TikTok's algorithm is designed to exploit psychological vulnerabilities. The platform's sophisticated recommendation system creates personalized content feeds that can trap users in harmful echo chambers. What begins as innocent exploration of fitness or diet content can rapidly escalate into exposure to pro-anorexia material within minutes. 
