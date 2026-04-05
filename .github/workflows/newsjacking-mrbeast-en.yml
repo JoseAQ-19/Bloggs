@@ -1,0 +1,77 @@
+name: "Newsjacking MrBeast - English Tier 1"
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: 'Type YES to confirm execution of the EN Newsjacking'
+        required: true
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.inputs.confirm == 'YES' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium
+
+      - name: Setup NotebookLM MCP
+        env:
+          NOTEBOOKLM_AUTH: ${{ secrets.NOTEBOOKLM_AUTH_JSON }}
+        run: |
+          npm install -g notebooklm-mcp-server
+          mkdir -p ~/.notebooklm-mcp
+          echo "$NOTEBOOKLM_AUTH" > ~/.notebooklm-mcp/auth.json
+          chmod 600 ~/.notebooklm-mcp/auth.json
+
+      - name: Verify EN Scout File Exists
+        run: |
+          if [ ! -f "data/mrbeast_scout_en.txt" ]; then
+            echo "❌ ERROR: data/mrbeast_scout_en.txt does not exist"
+            exit 1
+          fi
+          echo "✅ EN scout file found: $(wc -c < data/mrbeast_scout_en.txt) bytes"
+
+      - name: Run MrBeast Newsjacking (EN)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MODELS_TOKEN_CEU: ${{ secrets.MODELS_TOKEN_CEU }}
+          TOKEN_MODELS: ${{ secrets.TOKEN_MODELS }}
+          TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+          HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY }}
+          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+          GOOGLE_INDEXING_JSON: ${{ secrets.GOOGLE_INDEXING_JSON }}
+          PYTHONPATH: ${{ github.workspace }}/scripts
+        run: python scripts/run_mrbeast_en.py
+
+      - name: Push Generated EN Content
+        run: |
+          git config --global user.name "JoseAQ-19"
+          git config --global user.email "josearizaquintero@gmail.com"
+          git add content/en/youtube/ data/ static/images/
+          git diff --staged --quiet && echo "No new EN content generated" && exit 0
+          git commit -m "🔥 NEWSJACKING (EN): MrBeast 50 Streamers & $1M Live Finale"
+          git pull --rebase origin main --autostash
+          git push
