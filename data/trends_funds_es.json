@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-06T07:35:21.538125+00:00",
-  "total_candidates": 11,
+  "scouted_at": "2026-04-06T07:36:41.330518+00:00",
+  "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "El fondo *Groupama Global Disruption* brilla en abril 2026 con un 17,58% de rentabilidad anual: ¿es tu oportunidad de inversión?",
+      "title": "Los mejores dividendos del Ibex 35 en octubre de 2023: ¿quién lidera el ranking con rendimientos superiores al 5%?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "*Hamco Global Value Fund R FI* lidera el ranking en España con un 16,04% de rentabilidad en 5 años: descubre sus secretos.",
+      "title": "El ETF iShares MSCI ACWI se reconfigura: ¿cómo afecta el ascenso de Grecia a su rendimiento en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "*MyInvestor* supera a *Indexa Capital* con una cartera 100% en acciones y un 12,07% de rentabilidad anualizada: ¿qué la hace destacar?",
+      "title": "Vanguard vs. State Street: comparativa del ETF global que revela el dominio de la tecnología estadounidense en el mercado europeo.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -72,36 +72,6 @@
       "title": "El ETF global de Vanguard: el peso abrumador de la tecnología estadounidense",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOWhyamh5MW93RkxoQVd2dnJuTzZfYkNlNGplRGlQTVZxZ04zVGdld2h5THNDdV9LTDdNWlEyOV93REhmMmdNai1uLWpYS19ka1oxUXJ6cFhBR29yQTJFV19LQS1mTUQyZWYxdzFkUE0yWEpJSm9xN01QYmNLY2RXckMtTGw1U2NaTDBKMWpyY0NveHhhMG1wMzNjNGN1T1hzMjBXNFZUWUZ3dExBZDlzU2Nnd0k?oc=5"
-    },
-    {
-      "title": "*Hamco Global Value Fund R FI* lidera los fondos de inversión en España con una rentabilidad del *16,04%* en 5 años.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "*Groupama Global Disruption* es el fondo destacado de abril 2026, con una rentabilidad anual del *17,58%* en 3 años, invirtiendo en empresas disruptivas.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "El gobierno español lanza el fondo \"*España Crece*\" con *10.500 millones de euros* para movilizar *120.000 millones de euros* en inversión productiva, gestionado por el ICO.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "*Azvalor Internacional FI* sube un *11,42%* en enero, superando a la media de su categoría y alcanzando un patrimonio de *2.800 millones de euros*.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "*MyInvestor* ofrece una cartera Metal 100% en acciones con una rentabilidad anualizada a 5 años del *12,07%*, superando a *Indexa Capital* en carteras agresivas.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "*CNMV* impulsará el principio de \"valor por dinero\", obligando a las entidades a demostrar que sus productos ofrecen rentabilidad real una vez descontados todos los costes.",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }
