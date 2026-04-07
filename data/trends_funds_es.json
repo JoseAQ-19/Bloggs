@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-06T07:36:41.330518+00:00",
-  "total_candidates": 5,
+  "scouted_at": "2026-04-07T07:33:49.773295+00:00",
+  "total_candidates": 2,
   "topics": [
     {
       "rank": 1,
-      "title": "Los mejores dividendos del Ibex 35 en octubre de 2023: ¿quién lidera el ranking con rendimientos superiores al 5%?",
+      "title": "Las cuentas remuneradas de abril 2026: Comparativa entre opciones al 3,33% TAE y un sorprendente 2% sin condiciones",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El ETF iShares MSCI ACWI se reconfigura: ¿cómo afecta el ascenso de Grecia a su rendimiento en 2023?",
+      "title": "Amplio Creditián: ¿Puede la inversión con IA superar los resultados de los fondos tradicionales en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Vanguard vs. State Street: comparativa del ETF global que revela el dominio de la tecnología estadounidense en el mercado europeo.",
+      "title": "Análisis de rendimientos inesperados: ¿Qué fondos de inversión europeos están superando a los clásicos en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,29 +49,14 @@
   },
   "all_headlines": [
     {
-      "title": "Los mejores dividendos del Ibex 35 en este momento",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaEw0TnNvZEYxTlZrOURuV0VjeVlPSTZNeUEwU3BLT3d6RU05eUpsY0pDQTZSd3BwbmtQQnJpcGlNdThQai01bTQwZzhXRHcyalMyNFRyWXBYenZaLVRSQ3JleW1QRHRHejh2UWY0UUYxYVRqS2RMWHRwTzlmbDM3MXV0ODVwc19haUlpSVB4MkwwMmItbkJrWkVLTXRNT3VtMllwU05zNV9UQWIzaF9yS3Z5d0lXMTdjekVJMdIBpAFBVV95cUxNM0Y1aHd1aEdmSG5WV2N6Ni1ncFpWNm0zTjdtQVd2cjVtSE1rdmROT1BXRmlLREEtcngwRk1ZRDc0S25yZXFzaFlXZ1lOZ0V1OFdoTnFqYng4Z19Wb1JOMlJhN3d5eWxHWHRIV21nWm9UZF9YUU05czlack84Nzc5dWhqTzV1NXFBbVBhSzh4bWRZa3hQeFFOeXRxb0dySVFpRmhJNw?oc=5"
-    },
-    {
       "title": "Mejores cuentas remuneradas de abril 2026: hasta 3,33% TAE y opciones al 2% sin condiciones",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd1RWZnJxd1NLVzNnbDZUN1NwSWhFaUNvQ3g4bndTb1ZkTUFIcjJ5bDVCWTJTMGpUbWlUV3MxVG1OeFVxSW1mU0pNbmNoc2xOU0xzcFFmNmczczhVbkJpSVAzd0dROFMzdGxRMm56cTc4YzAtLVd2SHZtSnplWFYzVThHUV9YTGdab21xandyRVZzdkFZaXpldA?oc=5"
     },
     {
-      "title": "Precio de acciones, noticias, cotización e historial de State Street SPDR S&P 500 ETF Trust (SPY)",
+      "title": "Amplio Creditián: Plataforma de Inversión con IA",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zNlBXYWR1MGl6aDZFdGFIUVpfQ1hLRHNjS1A5cVVwTXl1NEctR0VDdUpBeXBnVGJZdFRvRDB4QjFSNFZ0YVZBajJYQ19Rci1C?oc=5"
-    },
-    {
-      "title": "El ETF iShares MSCI ACWI se reconfigura con el ascenso de Grecia",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUkNIRk1JRmVtbEJqZGoxX1RrVUxPTHNBaGhDMWktVndvbmg4aGF1T1oyUWZEdm5OcGk2WHZIOWtkdzVvRTQ1SS01ejNHdzNkZnIyNlB4c1UwR2JvYTdUVjRpZ01uMmRMZFZQcE4tR0Y1cWc2VS13NjUtdGRiVFBCeE9QUjBjNk56TVNLbWR2WFc3QmdrRWFjM3ZiZXJ4ZDR6QUhFUldfSThpNXBNS2VLeG5PX2E1aEVWYWc?oc=5"
-    },
-    {
-      "title": "El ETF global de Vanguard: el peso abrumador de la tecnología estadounidense",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOWhyamh5MW93RkxoQVd2dnJuTzZfYkNlNGplRGlQTVZxZ04zVGdld2h5THNDdV9LTDdNWlEyOV93REhmMmdNai1uLWpYS19ka1oxUXJ6cFhBR29yQTJFV19LQS1mTUQyZWYxdzFkUE0yWEpJSm9xN01QYmNLY2RXckMtTGw1U2NaTDBKMWpyY0NveHhhMG1wMzNjNGN1T1hzMjBXNFZUWUZ3dExBZDlzU2Nnd0k?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3hnRlhwTG5uWVY3V1V4bWhGWDhfRlpYeUdiYzdaajFLTTlBQnpTLUhNb3FVZ1NncjB0bEZILWc5ZkFhVUtLZ1dVSUtYQjlhYTN1dnBSS3RHNGl6dS1lZDRLYnN0Z1VrRWhBYS1vbG9RT2ZRa2VRMGplbWROaDlpekxYWU9oN2xf?oc=5"
     }
   ]
 }
