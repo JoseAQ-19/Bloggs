@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-07T07:33:49.773295+00:00",
+  "scouted_at": "2026-04-07T07:35:05.949285+00:00",
   "total_candidates": 2,
   "topics": [
     {
       "rank": 1,
-      "title": "Las cuentas remuneradas de abril 2026: Comparativa entre opciones al 3,33% TAE y un sorprendente 2% sin condiciones",
+      "title": "Comparativa de cuentas remuneradas: ¿Vale la pena el 3,33% TAE frente al 2% sin condiciones?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Amplio Creditián: ¿Puede la inversión con IA superar los resultados de los fondos tradicionales en 2026?",
+      "title": "Amplio Creditián: ¿Cómo se compara su rendimiento con otros fondos de inversión basados en IA?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Análisis de rendimientos inesperados: ¿Qué fondos de inversión europeos están superando a los clásicos en 2023?",
+      "title": "Inversiones sorprendentes: Las mejores cuentas remuneradas de abril 2026 que superan el mercado.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
