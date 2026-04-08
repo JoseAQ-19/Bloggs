@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-07T07:35:05.949285+00:00",
-  "total_candidates": 2,
+  "scouted_at": "2026-04-08T07:34:34.171001+00:00",
+  "total_candidates": 6,
   "topics": [
     {
       "rank": 1,
-      "title": "Comparativa de cuentas remuneradas: ¿Vale la pena el 3,33% TAE frente al 2% sin condiciones?",
+      "title": "¿Qué futuro les espera a los inversores europeos tras un primer trimestre difícil? Análisis de rentabilidades inesperadas.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Amplio Creditián: ¿Cómo se compara su rendimiento con otros fondos de inversión basados en IA?",
+      "title": "Rentabilidad de las Letras del Tesoro a 12 meses alcanza un récord del 2,64%: ¿una oportunidad de inversión?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Inversiones sorprendentes: Las mejores cuentas remuneradas de abril 2026 que superan el mercado.",
+      "title": "Dividendo BBVA: ¿vale la pena comprar acciones hoy para obtener 0,6 euros por acción? Análisis crítico.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,9 +49,29 @@
   },
   "all_headlines": [
     {
-      "title": "Mejores cuentas remuneradas de abril 2026: hasta 3,33% TAE y opciones al 2% sin condiciones",
+      "title": "¿Qué futuro les espera a los inversores europeos tras un primer trimestre difícil?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd1RWZnJxd1NLVzNnbDZUN1NwSWhFaUNvQ3g4bndTb1ZkTUFIcjJ5bDVCWTJTMGpUbWlUV3MxVG1OeFVxSW1mU0pNbmNoc2xOU0xzcFFmNmczczhVbkJpSVAzd0dROFMzdGxRMm56cTc4YzAtLVd2SHZtSnplWFYzVThHUV9YTGdab21xandyRVZzdkFZaXpldA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR052b211OS1HWUxSLTh5VzRaY19DQVNqTHRxZnRZbGNUdHpDdXMzMjZUQmFtQ2Z3R2FlY2tvZ2xYbFRQY1FLNmZxeUtOdEp3UWZsR014dXhDVkFocnRkdWpjRktDVmhsTXdiZ1d4SDNxQjVjQmNacVZfWW5LTzJaTjBvbVhJSlhueVNveTZkRXdReUdqaFNCS3VwYXJGdG40bWFxaENDbF9YcFhydE9iUDQ1WVRVdw?oc=5"
+    },
+    {
+      "title": "La rentabilidad de las Letras del Tesoro a 12 meses se dispara al 2,64%",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV19OZ2Q3bVVDU2JQZkxqc3BOcVFqMzhMNURSTGtCTV9FTV9uQlpOZ054d1QyWFlWN2NTY3J2cXBGblpPX1l6aWoxYWEtODhCS1FuTThDeHNpcnpZalVaSnZYX2w5eU9hTlVtNVJ5bFcyZ1hpTVByM1lsNm1QOFd6dW5GWVBtenBUMFMxeG9XdEdoTFh6VDFXeXVmQXhQMzdPRW5SWndaeUEwWnNIczd0YmZmRzAtQWlKei1mUkx1bHc?oc=5"
+    },
+    {
+      "title": "Dividendo BBVA: último día para comprar acciones y beneficiarse de 0,6 euros por acción",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWFNNVTJYdjlKamlsaU5GeGhHb3lCSk1HQXFacFFxOFVrYUdhemY3X2xRQkk1Q1JneHE2QmtSY211VlcyNWhlaVlXa0xPQzhPVzFXNklfRURsNGZ5eTRPYzltM0k4NnVkYWVZOHpqSm9zTk9oLWM1QXpUejdsQ3A3TkktdjRBNWlLbS02TFlZaVg2SHNOVmM0M1owTW5nV0ZfM2dSdF93ZDhyb0hOT0JhYUVnVVQ2S1djeWRhVllWNUNlU3dnbjVlZFJOZw?oc=5"
+    },
+    {
+      "title": "Dividendo CaixaBank: hoy es el último día para comprar acciones y cobrar 0,3321 euros",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRUplS2huS1FrZnp3cmFjM0NWTkdqNFB1T2hBSElkVEd0bHNhLXFhUEI2MXRPcjRpN0FXSDZ2UUZLTUdVNGJZMzJxXzdUWHB0QVE0VW1QUWdoLWNQZV9tMFMzWXVWandwQnc5MnJaTm9aZGt4TlVFV1IxQXo2S2I1bjB2M1RzY3hGVGVvMTF0ZDB0emp4dGRiNkVnWm9fY19EOHNVWXBjYUtfdjU5ZnRVZE5QWERidmtjTU51UmVPdGJUOEdENXlaakRJUnYyUXRVaTh3?oc=5"
+    },
+    {
+      "title": "Novedades declaración de la Renta 2025-2026: estos son los cambios",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd3VIR2dDVVBZZjh1dkRnVzdXcW1JaElCeGpVamQ2UDIzOGlOLVF3VHhfTGVQRVJXZVNranpyVjNveHg2cVJmNVBfNjBoZTVrVXhHMDM3S2tUakhJRWZIcnpBX1lvaUpFRS1LOG9NbGhxX3Nlb3lXVmE2WmJETjVKYS1hbTAyX2Y4eklWSmpXX2g5QThuVEZSeFV4Rkg0ZWx4MTdyRjFHMUtYY3RUeVhEX19pSkc1bWJDTWdRY01DSExzWXg4ZFVyR0JNeFc?oc=5"
     },
     {
       "title": "Amplio Creditián: Plataforma de Inversión con IA",
