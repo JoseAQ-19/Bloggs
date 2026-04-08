@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-08T07:34:34.171001+00:00",
+  "scouted_at": "2026-04-08T07:35:45.738059+00:00",
   "total_candidates": 6,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Qué futuro les espera a los inversores europeos tras un primer trimestre difícil? Análisis de rentabilidades inesperadas.",
+      "title": "¿Por qué el rendimiento de las Letras del Tesoro a 12 meses alcanza un sorprendente 2,64% y qué significa para los inversores europeos?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Rentabilidad de las Letras del Tesoro a 12 meses alcanza un récord del 2,64%: ¿una oportunidad de inversión?",
+      "title": "Última oportunidad para los inversores: ¿Cómo afectará el dividendo de BBVA de 0,6 euros por acción en el mercado español?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Dividendo BBVA: ¿vale la pena comprar acciones hoy para obtener 0,6 euros por acción? Análisis crítico.",
+      "title": "Dividendo de CaixaBank: ¿Qué implicaciones tiene el pago de 0,3321 euros para los accionistas en un entorno de alta inflación?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
