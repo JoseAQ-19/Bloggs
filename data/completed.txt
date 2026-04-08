@@ -699,3 +699,4 @@ ia: La IA transforma empresas: de la teoría a soluciones tangibles
 ia: McDonald's Chicago HQ Unveils Cutting-Edge Speedee Labs Designed by IA Interior Architects
 tools: El futuro de las herramientas eléctricas: ¿Cómo la demanda impulsará el crecimiento hasta 2036?
 tools: The Dark Side of Tech: Men Turning to Hacking Tools Against Loved Ones
+crypto: El alto el fuego revitaliza el bitcoin, pero la calma aún no vuelve al mercado
