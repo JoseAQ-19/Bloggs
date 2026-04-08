@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-07T08:49:30.525884+00:00",
-  "total_candidates": 21,
+  "scouted_at": "2026-04-08T07:37:49.673712+00:00",
+  "total_candidates": 20,
   "topics": [
     {
       "rank": 1,
-      "title": "Q1 2026 in Review and Q2 Market Outlook",
-      "lang": "en",
-      "source": "google_news_finance"
-    },
-    {
-      "rank": 2,
       "title": "The Best REITs to Buy",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
+      "rank": 2,
+      "title": "Nadia Karkar Joins 500 Global as Managing Partner",
+      "lang": "en",
+      "source": "google_news_finance"
+    },
+    {
       "rank": 3,
-      "title": "Matisse Capital's MDCEX Wins 2026 LSEG Lipper Fund Award",
+      "title": "Q1 2026 in Review and Q2 Market Outlook",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,44 +51,39 @@
   },
   "all_headlines": [
     {
+      "title": "The Best REITs to Buy",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KMTFmVzh2Yk5WemxQdUZpck9haktvNnptRUQyVzVQQmtsRXNtOEtpUzBpZ2RWbFE1dE1vUVhUQU53RUJhOUJkYm5CaTRzanc1SC0xU3R6S0ExZ1RISXc?oc=5"
+    },
+    {
+      "title": "Nadia Karkar Joins 500 Global as Managing Partner",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc3U3cF9MT1hVaHYyZGxncWxZVk9DSVZyNEctV0dBdTF6RWFtelBLTEpEU0E2dEJCTmNlQnZ4SmtoR2tTd2lBTldxcmxzRkNSRW55QkpWY3c0SU82bm10X21yNWgybW5ST19HZFBPOFRUQk1aTnNHZm5CVHBqdXhkSjlDNC13TWQxcnF1R2ROX3hqWUEySXNFOXV2UTRxbERUcWZMdm1BUnlzcWhRbHBnMw?oc=5"
+    },
+    {
       "title": "Q1 2026 in Review and Q2 Market Outlook",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xT0IxcDB4MmZ6X0E2bG8xbktjelQ4cllIb29OVHFiOVF6UlVlVTBzSkZVSzUwMzdlcGlFVzBOUTk1cWZtc3VXelhmRHFqMk1FcTBEbVRJX25zYjEyaHZ0elhJTlpEV3dqSEhRVEJWUTZzSXRmdnlz?oc=5"
     },
     {
-      "title": "The Best REITs to Buy",
+      "title": "What We Think of ARK Innovation ETF",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KMTFmVzh2Yk5WemxQdUZpck9haktvNnptRUQyVzVQQmtsRXNtOEtpUzBpZ2RWbFE1dE1vUVhUQU53RUJhOUJkYm5CaTRzanc1SC0xU3R6S0ExZ1RISXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OTFQ1UWJuRm8zSmRHVFd3ZHdkNmNkM3laOHFhRWhSWTZ2dlh3RDZZdWRMRVk1alFJNHhBRnFyZzRabTQ3RnBQZFNlYy05VE43NkJnNmVkaTFtZDJla2p5emJsREl0UXlvTEsxMHlnQVh4UWxpTGdXeXdTX1RXUHM?oc=5"
     },
     {
-      "title": "Matisse Capital's MDCEX Wins 2026 LSEG Lipper Fund Award",
+      "title": "Morningstar puts $7.6bn Oakmark fund under review",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV2tQeHRyQ3BlT0thSEdfcTl6QUYzM3Jya3ZCdVdkQXFIaHIySE51WlJTalR3Vi0zLTBraUV1TzlVY05sekhKcUdTQUlIdEcycUl2UmpLMC1KaFdjRDVZTWZtYXlvM3N6YUxicDctcTJhYTlQbF85Y2E2QkJnSTY2Z01uMlNaWG1haHRhLWRTcFo1ZzVISzNOMEJleXd5T1dVajAyV0NvNExhRDVQMXZYMUVRdFk4dlk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc3Q4Mng1Z1F3ZDMxTDc5anFVZnFFTEg4Qjhsd1RNQy01emhwWk1uaEdiWlE0dVJTNkg3ZGIwUnJJOTBnZ1ltcWY5ZElYZkc0VWZadTBzQjRCd3JjUkR0QzJLWlJkTXQ5WGlGalRwOVNMOFo1by15R0toM3A0cGJ3enp3ZkZoZVdoN042UGl4bVppTklTal9NRw?oc=5"
     },
     {
-      "title": "Bluerock High Income Institutional Credit Fund Announces Q1 2026 Distribution at an 8.75% Current Annualized Rate",
+      "title": "CI Global Asset Management Expands Access to Proven International Equity Strategy",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQN1Z6cnRsUWVxc1NRRW9PU2FsaGFxTTNNWk1wR0NNSTRPRlZZZHc5SGEwak1xQU12eUxYU25iUlBFQThvTkJSMjhOdlNkT2N5a3RuZ2xPWFFLTlJuc2tjZm5DbGpsaGtNUFpNajZrQUxLMk5wanNXX1BLcDZtNElzYTU5QkhEWFFxQTJxQ3hMMzZ0WnE3c2RZUEM2MExHbnNUWnMyLVI3XzJ4S09iTFJyalEzTGRfZ2JTSENQQlBFN2ZfSl80RGJFR3RwWU1QV29PZ2Y5eU94aXF3Zm1TWnJGVXNQbFlrNi1EZTJjTmhpVFBZVHRhdTZEYk8xVXpTczR1U0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcFRydzFzSkZSUUctNG1fMkxCdjE4SFE2MUtYb2hnRWphd1R4QlRPNVAzV3A0SzNaeEJwbXUzQm05Y1JXNy1mY1RUWGNwZk9CVUszTkNzbUE3Z2tob2FJd19MRkJTYXMzWnRoelh2MkIzTVBvM3pBZDczYXdET1l3aEdXcjJpVS1Qdm5faXkwWlZWeUxzcmFxY3Vyd1c4WE10SnB2WUp3NndmT0k4Q2s0S1pMenJ3SlRmeDZvejloa2ZYUUVqYTE3b1IwTVhUdHJ6aGl6Yg?oc=5"
     },
     {
-      "title": "RBC Global Asset Management Awarded Second Consecutive U.S. LSEG Lipper Fund Award for Investment Excellence",
+      "title": "USA Business Insurance Releases New Analysis on Workplace Injuries by Industry",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUXlub1JrV2ZWSklrcGIyb3U5cFFFV0VDZTV6bVVxcDFySEJudjUtRlFhZ0ZJQkRUMTJwTk5fNHowaDNmbkNNMXlKQzIydkxWY3VGLXE4M19oNFU3NUdoNDVYeVFuSDhXZUN0VVJDajJ2WXVOanhfREk1UGRzaEhpUU9vaGpQMy0zaXFpbWVqUUZQZVNVZ2ZqX0EyWlNFaC1VUWxhQWtWOGlDLTRQcVJ4VEczWkdGdU5vY2poeHhzbndpQ2xvMWlSNjJibUJDWVVoUTFfRTRwMzNZM1huUGpvY0IySkxKR0ZYelg0bHE4ZmZyc3dYTmJxU2luNA?oc=5"
-    },
-    {
-      "title": "FS Specialty Lending Fund (FSSL) Declares Distribution for April 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT2x4amM3bFd6Q0FNMW1oZ1JWMnE2ZzlXWFlhODg3endTc1NOMm82aDdYRDJRdWduUWR1YnhuOGxRNkhaWWY2Q24zeFBZTEVFN2NNMHFMbGhoUkQtS2N0WWhhYWRJTUh6amlUbzJDcHZIVWVZTlVmX3NhRm9nd196aGxYaU9hNklub2h3QlFLUWlrUHBPODNNZHktUWlCRVFaS2hsUE9FNldKUDNTc1p1czFhUmhKQWVMT0p3ZGZBWDlUanBsOTVF?oc=5"
-    },
-    {
-      "title": "Saudi Fund for Development Signs USD 15 Million Agreement with the Republic of Palau to Drive Local Economic Growth",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNX2FpMUpESUQ2cEZjLXFXeWRiYi1yR1hBX1lZcGlUaWVsb3NhWnktZ1JxZ24xVW8yLThmTkstWnVaQ1ptQ3prenZwbWtIZkE1V1czdEpWdVpQWWtCeTdMWnlLTlFaY3dfcWNid3FoanJjbVNVNDdQSDBSb2hpdjlETGtuXzFBMy13UjBNWVJKTlZqdmxpTFViSUZVLVh0VFA2dzE1V25sZWJDcERrWmZ1dTZ2S1JVa056aTR3OFBpemo4ZVY1UFc1ZjM4YWpxc1JLT29UTGk0NFZWSlRnVWVYamozYV95dFVfVkFqc3NCX0NLVEVoMC1kZFdWeUNTcElDbllEOHV6eVc?oc=5"
-    },
-    {
-      "title": "Antares Receives DOE Documented Safety Analysis Approval for Mark-0 Demonstration Reactor",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVTA2dXRGTXpEdDl3bDlQeUZ1N1lYdEJPcFFDMUphcnppdjZvRUdkUG5FcFBEWmp6My1kRFVocmdGdzVpUExtS3FMbHcwcTVYUTd0bDZJWDNtUnU3d2VSb2o0T1E4N3lNUWhNS3VLM3B5N0ZMakR6LWFka2k0TlA2MDRpQS1RMGlBVXN1VU9ON2FvT21QanBOdWwtd0tNaE1xNHdzdlh1b2FyeGY5T2h1cFBpMUh0UjNNSTNnWEZnYklXSkJJVFBNRjMxLW9NU1lMTlkweGRocGxUY191WFhQRnFHdUt1dw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ1lTNER2RWI1QnJhM2g4bWpvajlhTk9aN0h4TURsZW5WZHBETEJaZkRzMGRXb2UwLS04YWZWN0Nla0JDcGNLRmdaR0VnVXllVHdSakhxRENyUDhjMEk0Q0VVZGs2TFJRWTZQVWVyajM1aU0wV2d0V3BRbTNlS3pDNVhZeVdTTTF5TWNELW5jenZ5NXpLS3VKTVozUGVHaVdCRDB5Q0RSTXhOS3E4amFHcmlJTG9YSEdfM0d6VmdUbVk4NnlaV1hlZ1dxOHotbjBldVhSTWhB?oc=5"
     },
     {
       "title": "The Best REITs to Buy",
@@ -96,57 +91,62 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KMTFmVzh2Yk5WemxQdUZpck9haktvNnptRUQyVzVQQmtsRXNtOEtpUzBpZ2RWbFE1dE1vUVhUQU53RUJhOUJkYm5CaTRzanc1SC0xU3R6S0ExZ1RISXc?oc=5"
     },
     {
-      "title": "The Best International ETF to Buy With $1,000 in April 2026",
+      "title": "Best Rare Earth Stocks to Buy Now April 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ELXp4MlVVYkl1ZWZGSVlKYTJjeTJQZGlXTHAyWnR1Rmp5V1lXeEFEd054cVBsRm9RSVpHclZxb2djdm9vVjVCOC1FQ2djV3kxalNMMTFHQjMxWHBMRmZ5T1p6YlE4S05JMnZhdmt5WTBuT2hIWV9GeElqVjY?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kb3JyUVVPQUU2Z1ZLN2xScXE0SldVZTNHSW5kYldwTmR2QnlEN3B1aTZkREE2VGNfMW9reDRUODNFY2ZkQU9lT1JHRTRTTWlTcmlFYkZ0RzhDQnRkeVk1RFBHYWdaRDZkeFZTNXZhWXFxdGhB?oc=5"
     },
     {
-      "title": "The Vanguard ETF That Acts Like a Hedge Fund Without the Fees",
+      "title": "IOO's Overlooked Limitation: The Reason This \"Global\" ETF Misses Out on the 2025 Market Shift",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcV9sa1ZqbmRBSjlxajI0NGxTQnV3aWVnX3UyTFpDMkFZU3F4QkxkOU84NHpsRGRxdnpIRTk1ZDd5X0FySzY1dzJibTNIbHJ1R19za01IYkRhaTNmY3llY2pVaDNFYlkyaDRlbzFOTkZCQWdzRzNXUWVIYnFvNnpXTEVxTnltWWh5bEVObkVCbW1OSkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44WHB5NEEwTTVNUGZPZFZaWVMxODBFQnJWRHdkSzF6SUFTWVZQOTFvUlM0anNJV3AzN2loWXZNa25JVjJJWGJqY1U2cW5ZWXJuR0ZhOTJMS1JFV2dXMnpDbm5ESdIBY0FVX3lxTE44WHB5NEEwTTVNUGZPZFZaWVMxODBFQnJWRHdkSzF6SUFTWVZQOTFvUlM0anNJV3AzN2loWXZNa25JVjJJWGJqY1U2cW5ZWXJuR0ZhOTJMS1JFV2dXMnpDbm5ESQ?oc=5"
     },
     {
-      "title": "The Vanguard ETF That Functions Like a Hedge Fund Without the High Costs",
+      "title": "Vanguard S&P 500 & Mega-Cap Growth ETFs: Key Details & April 2026 Stock Split",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aUXh1enpVVDhrTkZqSmZsaXZuSnhCSnItNW5VY2tfMVlNeERLMDNIMERhUm1qTWdMZjZseGNSOEU4X1FHWnp2cmx3YlYxenNyOUhBMkNhNVVESHdVZ3VwNUVSRdIBY0FVX3lxTE5aUXh1enpVVDhrTkZqSmZsaXZuSnhCSnItNW5VY2tfMVlNeERLMDNIMERhUm1qTWdMZjZseGNSOEU4X1FHWnp2cmx3YlYxenNyOUhBMkNhNVVESHdVZ3VwNUVSRQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ2VVbS1vdTRCLVJaNFo1cW1yc2Q5b3Qzc0dxTF91MW5ZcE9nZlhWMzVxZFoxd3Q2cDF4am5BcGN5RVVfUkJxdWRqOXA0cWlEYV9UTUVjd05nZ0w4MVNmWGRqMTNpck13N2pfR3Q2RmlISThjMWJLRi1leVI4ZUVKUWhjem00aVEybV85alJsWTdyeDZJMnc?oc=5"
     },
     {
-      "title": "The Vanguard ETF That's Quietly Crushing the Market in 2026",
+      "title": "CI Global Asset Management Expands Access to Proven International Equity Strategy",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS3hsUVl2ZnI5UVZmNV92YlBpc19OQTZkS3ppUlpvcGlNanZ3TVdyMDhVN3VHN1NxbHhOLWQwVnNuU3FzVFBTbGRMalJQYTFTQWtNZWQ2NkNfcUdTQzFHQThFRk1iSkpBQzJFcXFKanJCcEVLck9tZVk1dmhSc21fWGVLUFc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcFRydzFzSkZSUUctNG1fMkxCdjE4SFE2MUtYb2hnRWphd1R4QlRPNVAzV3A0SzNaeEJwbXUzQm05Y1JXNy1mY1RUWGNwZk9CVUszTkNzbUE3Z2tob2FJd19MRkJTYXMzWnRoelh2MkIzTVBvM3pBZDczYXdET1l3aEdXcjJpVS1Qdm5faXkwWlZWeUxzcmFxY3Vyd1c4WE10SnB2WUp3NndmT0k4Q2s0S1pMenJ3SlRmeDZvejloa2ZYUUVqYTE3b1IwTVhUdHJ6aGl6Yg?oc=5"
     },
     {
-      "title": "Take the Zacks Approach to Beat the Markets: Stride, InnovAge, PepsiCo in Focus",
+      "title": "Berkshire Just Ended the Year With Nearly $375 Billion in Cash. History Says This 1 ETF Still Wins.",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWWpVeGIyMW5ZdlV3Y2ZtbnN3TnEtRWhBV2lDWFFRRGkyNUl4VlpWSXhxbmxldDc3OXYxVTRwOFNKN0pORU9FcDhhZEtFN1VwSHdrT0RVeUxnWXNWeG5Dcm03T05GUkl3ckNMVWFhajJGanJVTmJCWXhXVlh6dUthV0NDTkVseEJ4eE9fQXptLTJ4Y21MYUp5eXhsSkxZNlNSQjRhU1BJRERZNW44cXp2M0hCb0t5dklTZnhDRS12YzdHejlBT1hNNlFDbUc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mNFY2Sl91d0VEYWdxR2pZYllNR2wwd1BWZTJTODV2ZXoyMTRpcWstM21CU0JsVmtiWVI0TWFkQmNCNHdhMl9QX2xEMU5DREdOMmQzX1NtRkRiOWNTLS1aTVJaNjZKREp2TkJLX0dqcUtndHZJUUk2Q3FHYm1LT28?oc=5"
     },
     {
-      "title": "Best mid cap mutual funds to invest in April 2026",
+      "title": "7 Best Tax-Free Municipal Bonds for 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUG9CcGZSa3FaWE1maUJGWm52VS1RQS1BNTUxdVYyVk11R3F0bHBHdmUwVFBlR05YVl9jSjlwUHktRzN3SG5jaW1HTE03VnpRY0RfbVRhc1JkRGpZR0lyX0w4WmlLeS1fS1o3Zjd3UXRzdnlwUFNiV0QxNzRkN1VCQ09ia0NjVGJBVVZoYjBiWlJMVWpvN0pGa3lrY3d0allRU2FIOF9sMTV0d0VwRDRNamEzTFd5RXhIYTkw0gG7AUFVX3lxTFBQb0JwZlJrcVpYTWZpQkZabnZVLVFBLUE1NTF1VjJWTXVHcXRscEd2ZTBUUGVHTlhWX2NKOXBQeS1HM3dIbmNpbUdMTTdWelFjRF9tVGFzUmREallHSXJfTDhaaUt5LV9LWjdmN3dRdHN2eXBQU2JXRDE3NGQ3VUJDT2JrQ2NUYkFVVmhiMGJaUkxVam83SkZreWtjd3RqWVFTYUg4X2wxNXR3RXBENE1qYTNMV3lFeEhhOTA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY05iRElydC1sV0ZGZGctQkxycm56RV96NTJaM3Y1NHF0YnExM3pZSUtiNGhCb2RVSGN0NTJ2UWc0TXpKX0k2VHlaRGJCUktHVXJmN29JMEppMFA2aERXUlAxeFY5ejFjdlJiS21LZ0JGZVNjQlJ2ckEtZ0htYVRBTXhR?oc=5"
     },
     {
-      "title": "Vanguard Energy ETF (VDE) up over 40% YTD, leading Vanguard index funds amid Middle East conflict",
+      "title": "Vanguard announces a 6:1 share split for the Vanguard S&P 500 Growth ETF (VOOG), effective April 21, 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard announces 6:1 share split for Vanguard Growth ETF (VUG) effective April 21, 2026",
+      "title": "U.S. Financial ETF Fund Inflow shows a weekly average of -$2,517,971,650 USD as of March 29, 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "PIMCO launches Inflation PLUS Active ETF (PCPI) on NASDAQ, targeting inflation hedge with short-term TIPS",
+      "title": "Vanguard cuts expense ratios on 84 mutual fund and ETF share classes across 53 funds, translating to nearly $250 million in fee reductions for investors in 2026; The Vanguard International High Dividend Yield ETF (VYMI) saw its expense ratio drop from 0.17% to 0.07%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock files for Nasdaq 100 ETF, directly challenging Invesco's QQQ",
+      "title": "BlackRock Latin American (BRLA) delivered a USD NAV total return of 54.8% in the year ending 31/12/2025.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Total estimated inflows to long-term mutual funds and ETFs were $25.37 billion for the week ended March 25, 2026",
+      "title": "Roundhill Investments launches the Roundhill Memory ETF (DRAM), offering targeted exposure to global memory semiconductor companies; as of April 1, 2026, Samsung Electronics Co Ltd. holds 24.99% weight in the fund.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Global X launches the Global X Ethereum Covered Call ETF (EHCC) seeking weekly income without directly holding Ether.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
