@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-08T07:35:45.738059+00:00",
-  "total_candidates": 6,
+  "scouted_at": "2026-04-09T07:34:55.881226+00:00",
+  "total_candidates": 11,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Por qué el rendimiento de las Letras del Tesoro a 12 meses alcanza un sorprendente 2,64% y qué significa para los inversores europeos?",
+      "title": "¿Pueden los fondos de BlackRock y Vanguard en los nuevos Planes Prediseñados de Lightyear superar el rendimiento del mercado en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Última oportunidad para los inversores: ¿Cómo afectará el dividendo de BBVA de 0,6 euros por acción en el mercado español?",
+      "title": "Los dividendos del Ibex 35: ¿Cuáles ofrecen el mejor rendimiento en este momento y por qué deberías considerarlos?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Dividendo de CaixaBank: ¿Qué implicaciones tiene el pago de 0,3321 euros para los accionistas en un entorno de alta inflación?",
+      "title": "La rentabilidad de las Letras del Tesoro a 12 meses se dispara al 2,64%: ¿Es este un refugio seguro para los inversores españoles?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -54,24 +54,49 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR052b211OS1HWUxSLTh5VzRaY19DQVNqTHRxZnRZbGNUdHpDdXMzMjZUQmFtQ2Z3R2FlY2tvZ2xYbFRQY1FLNmZxeUtOdEp3UWZsR014dXhDVkFocnRkdWpjRktDVmhsTXdiZ1d4SDNxQjVjQmNacVZfWW5LTzJaTjBvbVhJSlhueVNveTZkRXdReUdqaFNCS3VwYXJGdG40bWFxaENDbF9YcFhydE9iUDQ1WVRVdw?oc=5"
     },
     {
+      "title": "La nueva ola de ETFs apunta a la formación de pequeñas burbujas",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNkVQb1g0VHpwTkdGV2NPWlpjLXpsOEQ1UVVlVVE1RnYweXFfdklQZjRVNG14QVIwc2NvQk9pbWNpd05YRnNYeVE3d19jOE5JYm8wYm5taGh1MENOeF96bzFBcTZjWlRlY19NM21aRy0tU1dpdVJIRmplMG9wS2VNWjFsdjBxY0xUUUlhNEtWeXFHYndkT1MzQkctM25ZYThnczBXaFlQTFc1S3lfYXc?oc=5"
+    },
+    {
+      "title": "Lightyear lanza sus Planes Prediseñados en España: tres carteras de fondos de BlackRock y Vanguard adaptadas al perfil de riesgo",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdUhITVpzdVduZHRsV2liRmhuWlpTcFpsdHUzMVc3NGNMT0d4bHRWN1E1emN2czJHYUdWREE2Z0t5REt5by1JWW5oTmVkYzRycUtZTGVfNWxIS1NwQVR5aEhyTzZXYXJNVk5SX2VnMXJGT3NqZUhHcndjWThXSWJvTnVzT05OVzluNkxveEFEeDVPTmJ2MGI5YWdkcDVQV3FiWTRPLTdWOENVSlpnZnd5dUtBMl9EekltY0pLa3pEcXp3bUhZaUhvZzY5OV9HZmtUYW9RdkZvN3NlM2ZCV09RS0gxVmVCOWtSRGlvNnBXaUIzYmthTEtjZmp2YlZnWmtaYktmUE5JSVR0VjdMNkZN?oc=5"
+    },
+    {
+      "title": "Estos son los mejores brokers para invertir en bolsa en 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWZOdUJsUEFDNzEwcUJ4MHJ0OWJ0dUFGWHJCeHdROGJZOW01LUJENWZuSk83RmJiZW15ZEphY0VCRV95cFc5cUJPNzJtT2pySlRFa2hFMXZNX0JkU3h1Z3Y1WDZaZ1NISzc2ZVBwLVdqcHlaR0FIWkJwdVU5a1hObVotYmdSUGROZHZobkdVMUxYbjNRc1k4S1JZcHFOYXVuUVU4UWI1TGlrQ0RpVUdFaNIBnwFBVV95cUxNS0pQSlE3MnRBTEE0S2lmamJKeXM3R3NtaVVvTXVuZTIwUS04REZaUmlNTHlFMFl6R2wxTG9yWGZLTTZmOFFTN2paQk84NGc3Nk9zVkx2c0o5eU1NQV9HRWY5Yi1IWVY0MFBub1hrSkdnRjJ2TnNRZjQzaWw1cmFLTm9qRUJwZnhPRnVWcUd0WGJQSmtWLThqNVVwV2pFdEU?oc=5"
+    },
+    {
+      "title": "Trade Republic y Hacienda: ¿cómo declararlo en la Renta de 2026?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTWFGWWRta3pGRXYwZl9vejNVYlNtbTNrVU9CeXJ2UW5Ta1VxWTZxQlBVVVBBUVhyRnZ2OGZMT3dxUV82NFBzU2lGN3RsX0xFdk5SMG1DYnFldVYxMEtoOWJQNEZTSVdIV09oQ1o0SmtvVDhQbDh6ZEVrUUl6SDhTQXFlTFhEdkFtQVRreGo4bGh0TVBWaENDVHZ3UkpzQ1A3TUxDblN5NDFxSGg1QXVxakd3eW1wTDlRSnJpMnB1a2dMemMxNTRsUHFTN1VzV0hhTTVvNi1n?oc=5"
+    },
+    {
+      "title": "De la euforia de febrero a la cautela de marzo: claves para navegar la volatilidad en 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTVdUbUkwNEtYTzVhSmZTZHJVa2ljeDluOEhNdVp1OXl2X0EzRldiemxqRFpMc0lGZU1ma1ZfdFZNa0ZoTHp2N1FPejBvbHFKM1dCdFc3b2hWZGFDLUE4UzNfaHRGVE1zQkFaNnNRQjlhTlo0LWlYU3Z5VEpYY2dHZTFBVmdzQ3k5YUtGOXA4UXJVRDBMQzdwNUhnNUhTcmszQktmMkpydWtSYko4UmFIR1ZzZVJkNGh2YnhoMDFRTWJvazFvTEU4NUNqWdIBogFBVV95cUxQdHRJQ01RbU9vbm42Rm15YXF4aExGclUzdmlxOGdpdnprM191WUFMSzNfQm4taER0MUdMVWlpZXhMaFRiN19oRWZxWUp6N241NGNhaE1wcWNvd1ZIWlBYMnNNbm54ZWpnMFhITnpDYlYyQ3l6RkxocnNlZzB4RFd5U0Z3U0tUYWRtUHlRLWg5Q29CU0ViekhXd3EyWHpPSU9SMkE?oc=5"
+    },
+    {
+      "title": "Cómo pagar menos impuestos en la declaración de la Renta 2025-2026: el truco legal",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVzlOVTZfT0hucVJvaFdmWFdmeFRpb1RxYk5QcmkzdmZuU0d1cTNSWHdlYmNQMHRWcnptT0k3S09pdHc0eHdMWXZaVEgtNDZUbURST0FwWk8teWR5RGkyaU1wcllrQ3gtMEFJY0R1cW4xQzZPWkIwSWhGNlRlNU80YWVWNWtZQWJuOHNhaWk5YjBGdU9BdGQ3dEg3V1VUci1od0JHMjVQa2xxelE3b2FsWmt1UFFQdGllNnZOYnlMZ2xXS2ltVEZscjhVbHlNRGdjblBtdEtqYVVRdw?oc=5"
+    },
+    {
+      "title": "Los mejores dividendos del Ibex 35 en este momento",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaEw0TnNvZEYxTlZrOURuV0VjeVlPSTZNeUEwU3BLT3d6RU05eUpsY0pDQTZSd3BwbmtQQnJpcGlNdThQai01bTQwZzhXRHcyalMyNFRyWXBYenZaLVRSQ3JleW1QRHRHejh2UWY0UUYxYVRqS2RMWHRwTzlmbDM3MXV0ODVwc19haUlpSVB4MkwwMmItbkJrWkVLTXRNT3VtMllwU05zNV9UQWIzaF9yS3Z5d0lXMTdjekVJMdIBpAFBVV95cUxNM0Y1aHd1aEdmSG5WV2N6Ni1ncFpWNm0zTjdtQVd2cjVtSE1rdmROT1BXRmlLREEtcngwRk1ZRDc0S25yZXFzaFlXZ1lOZ0V1OFdoTnFqYng4Z19Wb1JOMlJhN3d5eWxHWHRIV21nWm9UZF9YUU05czlack84Nzc5dWhqTzV1NXFBbVBhSzh4bWRZa3hQeFFOeXRxb0dySVFpRmhJNw?oc=5"
+    },
+    {
+      "title": "Cómo tributan los fondos de inversión en la declaración de la Renta 2025",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0hXTG03Sm1qcXNxdmxsNTFQUzl2RmFlbHRKNF9EZWhUa3RaaGk0Q2I2cFFSVUNYVkVoSm83NTdoUHdqc25vTzduVWhoSU5jQjZXbUlONUtMVW1weUM4dEhpVFZyeWVMLVVUWVBLUFN4OVc0dVhvbEgzSEE0VkxyaEVoUTBBbmRXd3hCeDhZVmN3aVk?oc=5"
+    },
+    {
       "title": "La rentabilidad de las Letras del Tesoro a 12 meses se dispara al 2,64%",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV19OZ2Q3bVVDU2JQZkxqc3BOcVFqMzhMNURSTGtCTV9FTV9uQlpOZ054d1QyWFlWN2NTY3J2cXBGblpPX1l6aWoxYWEtODhCS1FuTThDeHNpcnpZalVaSnZYX2w5eU9hTlVtNVJ5bFcyZ1hpTVByM1lsNm1QOFd6dW5GWVBtenBUMFMxeG9XdEdoTFh6VDFXeXVmQXhQMzdPRW5SWndaeUEwWnNIczd0YmZmRzAtQWlKei1mUkx1bHc?oc=5"
-    },
-    {
-      "title": "Dividendo BBVA: último día para comprar acciones y beneficiarse de 0,6 euros por acción",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWFNNVTJYdjlKamlsaU5GeGhHb3lCSk1HQXFacFFxOFVrYUdhemY3X2xRQkk1Q1JneHE2QmtSY211VlcyNWhlaVlXa0xPQzhPVzFXNklfRURsNGZ5eTRPYzltM0k4NnVkYWVZOHpqSm9zTk9oLWM1QXpUejdsQ3A3TkktdjRBNWlLbS02TFlZaVg2SHNOVmM0M1owTW5nV0ZfM2dSdF93ZDhyb0hOT0JhYUVnVVQ2S1djeWRhVllWNUNlU3dnbjVlZFJOZw?oc=5"
-    },
-    {
-      "title": "Dividendo CaixaBank: hoy es el último día para comprar acciones y cobrar 0,3321 euros",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRUplS2huS1FrZnp3cmFjM0NWTkdqNFB1T2hBSElkVEd0bHNhLXFhUEI2MXRPcjRpN0FXSDZ2UUZLTUdVNGJZMzJxXzdUWHB0QVE0VW1QUWdoLWNQZV9tMFMzWXVWandwQnc5MnJaTm9aZGt4TlVFV1IxQXo2S2I1bjB2M1RzY3hGVGVvMTF0ZDB0emp4dGRiNkVnWm9fY19EOHNVWXBjYUtfdjU5ZnRVZE5QWERidmtjTU51UmVPdGJUOEdENXlaakRJUnYyUXRVaTh3?oc=5"
-    },
-    {
-      "title": "Novedades declaración de la Renta 2025-2026: estos son los cambios",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd3VIR2dDVVBZZjh1dkRnVzdXcW1JaElCeGpVamQ2UDIzOGlOLVF3VHhfTGVQRVJXZVNranpyVjNveHg2cVJmNVBfNjBoZTVrVXhHMDM3S2tUakhJRWZIcnpBX1lvaUpFRS1LOG9NbGhxX3Nlb3lXVmE2WmJETjVKYS1hbTAyX2Y4eklWSmpXX2g5QThuVEZSeFV4Rkg0ZWx4MTdyRjFHMUtYY3RUeVhEX19pSkc1bWJDTWdRY01DSExzWXg4ZFVyR0JNeFc?oc=5"
     },
     {
       "title": "Amplio Creditián: Plataforma de Inversión con IA",
