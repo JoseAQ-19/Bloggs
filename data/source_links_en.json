@@ -350,5 +350,10 @@
         "https://home.treasury.gov/system/files/311/Final%20FIO%202025%20Annual%20Report.pdf",
         "https://www.gao.gov/assets/gao-19-423.pdf",
         "https://www.gao.gov/products/gao-19-423"
+    ],
+    "ai-drug-repurposing-technical-teardown-en": [
+        "https://www.osti.gov/pages/servlets/purl/2581827",
+        "https://par.nsf.gov/biblio/10540087-artificial-intelligence-accelerated-virtual-screening-platform-drug-discovery",
+        "https://www.uspto.gov/sites/default/files/documents/ai-inventorship-guidance-chemical.pdf"
     ]
 }

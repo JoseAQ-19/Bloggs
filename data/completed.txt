@@ -713,3 +713,4 @@ funds: Morningstar Awards 2026: Top 5 Funds for Investing Excellence in Malaysia
 ia: La manipulación de contenidos pornográficos por IA: una amenaza creciente en Europa
 ia: iA Financial Group Takes a Leap: Revolutionizing Digital Life Insurance
 tools: Appknox revoluciona la seguridad de aplicaciones con KnoxIQ, su nuevo copiloto de IA
+tools: Accelerating Innovation: UVA's AI Tools Transform Drug Discovery
