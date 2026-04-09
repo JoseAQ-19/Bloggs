@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-09T07:34:55.881226+00:00",
+  "scouted_at": "2026-04-09T07:36:12.685578+00:00",
   "total_candidates": 11,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Pueden los fondos de BlackRock y Vanguard en los nuevos Planes Prediseñados de Lightyear superar el rendimiento del mercado en 2026?",
+      "title": "¿Pueden los Planes Prediseñados de Lightyear con fondos de BlackRock y Vanguard superar al mercado en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Los dividendos del Ibex 35: ¿Cuáles ofrecen el mejor rendimiento en este momento y por qué deberías considerarlos?",
+      "title": "Análisis de los mejores dividendos del Ibex 35: ¿Cuáles ofrecen el mayor rendimiento en este momento?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "La rentabilidad de las Letras del Tesoro a 12 meses se dispara al 2,64%: ¿Es este un refugio seguro para los inversores españoles?",
+      "title": "La rentabilidad de las Letras del Tesoro se dispara al 2,64%: ¿Es hora de reconsiderar su papel en tu cartera?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
