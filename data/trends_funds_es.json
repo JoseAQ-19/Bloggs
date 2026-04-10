@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-10T07:35:12.805989+00:00",
-  "total_candidates": 19,
+  "scouted_at": "2026-04-10T07:36:35.281466+00:00",
+  "total_candidates": 13,
   "topics": [
     {
       "rank": 1,
-      "title": "5 ganadores y perdedores tras un trimestre difícil para los inversores",
+      "title": "Análisis de los 5 fondos de inversión con mejor rendimiento en 2025: ¿quién supera el 10% de rentabilidad?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Ya puede invertir en OpenAI antes de su salida a bolsa",
+      "title": "Los mejores ETFs de 2026: descubre cuáles han logrado un crecimiento inesperado del 15% en el último trimestre",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar acuerda la venta de ByAllAccounts a Pello",
+      "title": "Comparativa de las plataformas de inversión en fondos: ¿dónde se obtienen las comisiones más bajas en 2026?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -112,36 +112,6 @@
       "title": "Mejores valores del Ibex 35 y del Mercado Continuo en este momento en bolsa",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONWpOeW9FSFhXaVZMM0N6anhvY0Eya1A3cmlLVkV4dVRSNU5sVVdTNU9RX010SDZWdWlLSGJodFNCSzBxbC1BWm83QVdsUmlCQkJ0Ny0zVi15dTN2aGFCZWl4Qm5uV3JhTmdyR3FjdHdFYmVsaV9WNmMtZnAxN1R2QVRuWFNEalFjbktFZzNRYWRXOFVqZFN3SWJJYjZvejRIQXZ4UHgwalpjUHd4X19Kd1NYTmd6NDFSbkV4RWVMRkJGWnlubFZPenFKWdIBpAFBVV95cUxNblhvN09Gdi1YZEgwQUNYb3Z1aFBZVlNORkszeEcyenlTVUxmRzViSVQtUEtWNnkzZEJDZGlFalVCSlZ0anlYNXpZNmVpMWRSbDQtMlgtR29FSG91R21CbThiQWZ3cTdIT1c1cnd2WG11V2lydGNLXy14NXJKSlZ4Tk55MDA4VTFXRGM5eGM2bk8yY1FvaWhmN3BydG12RW9sZVEtUA?oc=5"
-    },
-    {
-      "title": "**Hamco Global Value Fund R FI lidera los fondos españoles con una rentabilidad del 16,04% en 5 años**.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Indexa Capital rebaja las comisiones de sus carteras de fondos hasta el 0,005% y de planes de pensiones un 0,007% a partir de 2026, ahorrando a sus clientes 260.000€ anuales**.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**MyInvestor se posiciona como el roboadvisor más económico en España en 2026, con una comisión total del 0,43% anual**.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**BlackRock eleva su participación en Cellnex hasta el 5,01%, impulsando sus acciones en Bolsa hasta superar los 30 euros**.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**El fondo español Altamar Private Debt IV supera su objetivo de captación y levanta más de 140 millones de euros para invertir en deuda privada europea y estadounidense**.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Vanguard European Stock Index Fund alcanza una rentabilidad a 1 año del 16,03% y a 3 años del 13,38%, con gastos corrientes del 0,12%**.",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }
