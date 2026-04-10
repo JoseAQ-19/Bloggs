@@ -385,5 +385,10 @@
         "https://www.sec.gov/Archives/edgar/data/1629210/000119312523231446/d515579dex991.htm",
         "https://www.sec.gov/Archives/edgar/data/1629210/000119312523231101/d616971dex961.htm",
         "https://www.sec.gov/Archives/edgar/data/1853962/000106299325003260/exhibit99-3.htm"
+    ],
+    "pfas-free-cookware-technical-analysis-en": [
+        "https://cdn.kingcounty.gov/-/media/king-county/depts/dnrp/waste-services/hazardous-waste/lhwmp-documents/technical-reports/rsh-lead-aluminum-cookpots-study-2024.pdf?rev=7d7f025d6f06480ca19180f87389022b&hash=8ADE859750CF437B30CDC55DFD07D0B2",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12069085/",
+        "https://cdn.kingcounty.gov/-/media/king-county/depts/dph/documents/health-safety/environmental-health/toxins/cookware-releasing-lead.pdf?rev=0798a9c6d2914188a99d54ce6113bcb4&hash=8E46E48FC448CC1679C33A983C51DAFB"
     ]
 }
