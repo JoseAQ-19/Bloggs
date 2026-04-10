@@ -729,3 +729,4 @@ ia: Paramount's Bold Move: Unveiling IA at Nevada’s Sleeper Gold Project
 tools: Microsoft elimina el nombre Copilot: ¿El fin de una era en Notepad y Snipping Tool?
 tools: Ditch Toxic Cookware: Top Non-Toxic Kitchen Tools Recommended by a Pro Chef
 crypto: ¿Las instituciones han perdido la fe en Bitcoin? IPC e Irán podrían cambiar el juego
+crypto: Crypto.com Wins the Coveted Overtake of the Month Award
