@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-09T07:36:12.685578+00:00",
-  "total_candidates": 11,
+  "scouted_at": "2026-04-10T07:35:12.805989+00:00",
+  "total_candidates": 19,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Pueden los Planes Prediseñados de Lightyear con fondos de BlackRock y Vanguard superar al mercado en 2026?",
+      "title": "5 ganadores y perdedores tras un trimestre difícil para los inversores",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis de los mejores dividendos del Ibex 35: ¿Cuáles ofrecen el mayor rendimiento en este momento?",
+      "title": "Ya puede invertir en OpenAI antes de su salida a bolsa",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "La rentabilidad de las Letras del Tesoro se dispara al 2,64%: ¿Es hora de reconsiderar su papel en tu cartera?",
+      "title": "Morningstar acuerda la venta de ByAllAccounts a Pello",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -49,6 +49,21 @@
   },
   "all_headlines": [
     {
+      "title": "5 ganadores y perdedores tras un trimestre difícil para los inversores",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSFBvbl9BNkJyNVVlOFk0S1dxbnRGQ1E5amI0aXpEZjBQMlAwVUZrXzJkVHJfRmRSQ2lBZXNzU0JfNWNESmNOTldKWHFMM0o5aW9fQTBtaFloRTV6dXd5X0F5cWpWQjAtU3pfVzB5R2tHOS1fbjNKMmE4bUdZdldaQ1ZOY25vUnBpTzVqZmlZbFQ0RFdpb3BpYkd1VC1KSW1qMlYzR3R4U3dmUlp6SG9kLVNn?oc=5"
+    },
+    {
+      "title": "Ya puede invertir en OpenAI antes de su salida a bolsa",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYjBkaWpwQkVEMlFTT1FMVkxFSjhxa0s5WHVGeGk4UDAyYmlwN19XSXNkU0k3WVQ4aU0xd3BEenRUSGFMd2RBQUxqblNueVdGZGRFU1V6QW1GNXM1Zm1iMGQ5cTdZQkJCOGNMWFBEV1VuV083c3NvRG04cEw5MmFpWkxGTDhzS1o1OHprWFZwVWVKeEVyR09UeEg1aw?oc=5"
+    },
+    {
+      "title": "Morningstar acuerda la venta de ByAllAccounts a Pello",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZjQxTkJJeGctUFBFRUloZ1JTelZwODBIVUNZbU91NVVzN2diOF9UV0RIU1BFb0dpaGxITlpHT3VhMzlUc2l2blQ1MFgxYzNwX0l1WUR5Ym82aERMcGtaenJFOFd4Qmt2M054aDFqQm9rb1E2ZVlxSDdLRzVxNnZWUG85U1lTRGN4Z05VeFZWcWJnc0xFb3ZQdUgzelQxYjM1d2hoU0NlbTBtTUVWa2c?oc=5"
+    },
+    {
       "title": "¿Qué futuro les espera a los inversores europeos tras un primer trimestre difícil?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR052b211OS1HWUxSLTh5VzRaY19DQVNqTHRxZnRZbGNUdHpDdXMzMjZUQmFtQ2Z3R2FlY2tvZ2xYbFRQY1FLNmZxeUtOdEp3UWZsR014dXhDVkFocnRkdWpjRktDVmhsTXdiZ1d4SDNxQjVjQmNacVZfWW5LTzJaTjBvbVhJSlhueVNveTZkRXdReUdqaFNCS3VwYXJGdG40bWFxaENDbF9YcFhydE9iUDQ1WVRVdw?oc=5"
@@ -59,39 +74,34 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNkVQb1g0VHpwTkdGV2NPWlpjLXpsOEQ1UVVlVVE1RnYweXFfdklQZjRVNG14QVIwc2NvQk9pbWNpd05YRnNYeVE3d19jOE5JYm8wYm5taGh1MENOeF96bzFBcTZjWlRlY19NM21aRy0tU1dpdVJIRmplMG9wS2VNWjFsdjBxY0xUUUlhNEtWeXFHYndkT1MzQkctM25ZYThnczBXaFlQTFc1S3lfYXc?oc=5"
     },
     {
-      "title": "Lightyear lanza sus Planes Prediseñados en España: tres carteras de fondos de BlackRock y Vanguard adaptadas al perfil de riesgo",
+      "title": "Mejores fondos de inversión 2026: los más rentables",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdUhITVpzdVduZHRsV2liRmhuWlpTcFpsdHUzMVc3NGNMT0d4bHRWN1E1emN2czJHYUdWREE2Z0t5REt5by1JWW5oTmVkYzRycUtZTGVfNWxIS1NwQVR5aEhyTzZXYXJNVk5SX2VnMXJGT3NqZUhHcndjWThXSWJvTnVzT05OVzluNkxveEFEeDVPTmJ2MGI5YWdkcDVQV3FiWTRPLTdWOENVSlpnZnd5dUtBMl9EekltY0pLa3pEcXp3bUhZaUhvZzY5OV9HZmtUYW9RdkZvN3NlM2ZCV09RS0gxVmVCOWtSRGlvNnBXaUIzYmthTEtjZmp2YlZnWmtaYktmUE5JSVR0VjdMNkZN?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmlaaVhPZlJub1dXM1JkMm1iTE82UEZRNXRxOEhMd2k0TGRpUmw5S2tRWW8zMlVOWTJDY015dFpCemRWdjliekowY2l2S3V3cl8yTER3NTJXV3JYYkxWeDZ3SjVBQV9fUG1JRXBxYjBMYUxvejliSlhTYXc0TnVKNE04NldVMDEtOVNZSFplTXFRQXpRMmc?oc=5"
     },
     {
-      "title": "Estos son los mejores brokers para invertir en bolsa en 2026",
+      "title": "Los fondos más rentables en 2025 de renta variable España de nuestras gestoras nacionales",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWZOdUJsUEFDNzEwcUJ4MHJ0OWJ0dUFGWHJCeHdROGJZOW01LUJENWZuSk83RmJiZW15ZEphY0VCRV95cFc5cUJPNzJtT2pySlRFa2hFMXZNX0JkU3h1Z3Y1WDZaZ1NISzc2ZVBwLVdqcHlaR0FIWkJwdVU5a1hObVotYmdSUGROZHZobkdVMUxYbjNRc1k4S1JZcHFOYXVuUVU4UWI1TGlrQ0RpVUdFaNIBnwFBVV95cUxNS0pQSlE3MnRBTEE0S2lmamJKeXM3R3NtaVVvTXVuZTIwUS04REZaUmlNTHlFMFl6R2wxTG9yWGZLTTZmOFFTN2paQk84NGc3Nk9zVkx2c0o5eU1NQV9HRWY5Yi1IWVY0MFBub1hrSkdnRjJ2TnNRZjQzaWw1cmFLTm9qRUJwZnhPRnVWcUd0WGJQSmtWLThqNVVwV2pFdEU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2VGV2ptcmFCa2J6Y2tJbU5GcUNqNjVSSFBfbmpnLUh3NXZYMFRGY0VDVVFELXE3Y0pPcHcyaEM3UmVBYldTNlp4X0JlVUdxSEFLUWEtaXlXeDV6aHZZbXlyU1lnNXhoMFdhdlZxYlN3dEdkVFEySndPSWNvYy1URkxGSktGdzF3LXZPd3J6Unl1emJfcUtIUE1lQy05QjRCbzZRYUF2SWljcFh0N0lJRW5GWTFkN3NMSXhXendKZUR5S3lkQ01YOFdTVWdOQdIBpAFBVV95cUxPVjlaWHlJbDhRQTA3dmNhODdpVXBFRFlSdGo5UWpnaWVZWkhxbk1Eb0dkMGFTb1F1eFRkcDV4a1F5NzRCTENMVEU5LWFheFdyNGtLV0hmSnV3eFFvSlNNazFxOVZJNjRQZFctZzNHbEVMY2ZLOUJBN3RVZnZlSWVoSGJPNnBtdXNxc01fZ1Fpa1hWY0tpMG9TQ2Rtc0tQTjlDQmdyYg?oc=5"
     },
     {
-      "title": "Trade Republic y Hacienda: ¿cómo declararlo en la Renta de 2026?",
+      "title": "Las mejores plataformas para invertir en fondos de inversión en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTWFGWWRta3pGRXYwZl9vejNVYlNtbTNrVU9CeXJ2UW5Ta1VxWTZxQlBVVVBBUVhyRnZ2OGZMT3dxUV82NFBzU2lGN3RsX0xFdk5SMG1DYnFldVYxMEtoOWJQNEZTSVdIV09oQ1o0SmtvVDhQbDh6ZEVrUUl6SDhTQXFlTFhEdkFtQVRreGo4bGh0TVBWaENDVHZ3UkpzQ1A3TUxDblN5NDFxSGg1QXVxakd3eW1wTDlRSnJpMnB1a2dMemMxNTRsUHFTN1VzV0hhTTVvNi1n?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnNsTkpKYkxxYmVjdEM3ZkpJU214X0FSLUhrOUNHbUg1aWRaaGdUSmlwQmZWdWgxVWVfUVF3WXc3dVotSnB4T3RQVllZclNIMkxZbUVEb21ueDMxbDJsTzZjSDJkNHZRaERMNHlXcWRBWlMwUWg3Z3l2MVlpNFB0UWxBQXp2dGREUnQ4MzRfRWoxazRtdmxvTm1qY3VnVmxDX0R3Z3hjM2hJT0Fy?oc=5"
     },
     {
-      "title": "De la euforia de febrero a la cautela de marzo: claves para navegar la volatilidad en 2026",
+      "title": "Mejores ETFs 2026: ¿cuáles son los más rentables?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTVdUbUkwNEtYTzVhSmZTZHJVa2ljeDluOEhNdVp1OXl2X0EzRldiemxqRFpMc0lGZU1ma1ZfdFZNa0ZoTHp2N1FPejBvbHFKM1dCdFc3b2hWZGFDLUE4UzNfaHRGVE1zQkFaNnNRQjlhTlo0LWlYU3Z5VEpYY2dHZTFBVmdzQ3k5YUtGOXA4UXJVRDBMQzdwNUhnNUhTcmszQktmMkpydWtSYko4UmFIR1ZzZVJkNGh2YnhoMDFRTWJvazFvTEU4NUNqWdIBogFBVV95cUxQdHRJQ01RbU9vbm42Rm15YXF4aExGclUzdmlxOGdpdnprM191WUFMSzNfQm4taER0MUdMVWlpZXhMaFRiN19oRWZxWUp6N241NGNhaE1wcWNvd1ZIWlBYMnNNbm54ZWpnMFhITnpDYlYyQ3l6RkxocnNlZzB4RFd5U0Z3U0tUYWRtUHlRLWg5Q29CU0ViekhXd3EyWHpPSU9SMkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczlMN0huT2xjRVhyR0k2UV9QVlN1NkVhUG1TUnR4ZFlXT2k2djgzOWJiTzNYNWV4LU1MMnZCZ0FvSTR5NWp5bTROT2FUbTJRQkoxbHh1WWdxX1V5clpidGRwOU1RR0dkWjZRZlZFVml0UWdBLVJWZGlRaHFNWndTRVluYlhwZVBVTjBjRzJTNUhzQQ?oc=5"
     },
     {
-      "title": "Cómo pagar menos impuestos en la declaración de la Renta 2025-2026: el truco legal",
+      "title": "Los depósitos más rentables de la banca española",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVzlOVTZfT0hucVJvaFdmWFdmeFRpb1RxYk5QcmkzdmZuU0d1cTNSWHdlYmNQMHRWcnptT0k3S09pdHc0eHdMWXZaVEgtNDZUbURST0FwWk8teWR5RGkyaU1wcllrQ3gtMEFJY0R1cW4xQzZPWkIwSWhGNlRlNU80YWVWNWtZQWJuOHNhaWk5YjBGdU9BdGQ3dEg3V1VUci1od0JHMjVQa2xxelE3b2FsWmt1UFFQdGllNnZOYnlMZ2xXS2ltVEZscjhVbHlNRGdjblBtdEtqYVVRdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVTYtcVJMM0F5VHROQlNSWk5GdWxaTndWYjE5Zk5fMkFHbW9oQW81WVh5RmJhdjZFLXFSMEFpVWVBbDYxdjlnZHhWNThRMmphR1M5bTV5YmliYW9DNkZOaUprMVFoUDg4WnR4M2ZrYkVGRGVnNy1KbGFNVnlRd3lSOW9sZl9xZHVmRzFJczlsVVE1T0VTWEh3em5xd09MdVBvX1ZTWV9aeWlsR1lwdFE2NDVQLVA4WE9udW8yOUNrWjd3dENWbmfSAaIBQVVfeXFMTU4xXzZ5c1EwWEhxYkZpWkxDdGRKbFNLWGVGd1hnUEVrb3ZpOWF0bE16ZTFRVWl5VTR6UXQtVTE3bHFqQmFZUDJVcHN1Zmpyb0dRVGhwTFV4Y1hZdlhQWGkzeER4emtCeDQ5eklod1g3eVB0Vk55X1Z0RUxNbFFqc0tLTHdSY3hBZ3RwUnczUzlMUWJKQXFIS25welk3dDd1YmxR?oc=5"
     },
     {
-      "title": "Los mejores dividendos del Ibex 35 en este momento",
+      "title": "Análisis y perspectivas de los bancos españoles en bolsa",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaEw0TnNvZEYxTlZrOURuV0VjeVlPSTZNeUEwU3BLT3d6RU05eUpsY0pDQTZSd3BwbmtQQnJpcGlNdThQai01bTQwZzhXRHcyalMyNFRyWXBYenZaLVRSQ3JleW1QRHRHejh2UWY0UUYxYVRqS2RMWHRwTzlmbDM3MXV0ODVwc19haUlpSVB4MkwwMmItbkJrWkVLTXRNT3VtMllwU05zNV9UQWIzaF9yS3Z5d0lXMTdjekVJMdIBpAFBVV95cUxNM0Y1aHd1aEdmSG5WV2N6Ni1ncFpWNm0zTjdtQVd2cjVtSE1rdmROT1BXRmlLREEtcngwRk1ZRDc0S25yZXFzaFlXZ1lOZ0V1OFdoTnFqYng4Z19Wb1JOMlJhN3d5eWxHWHRIV21nWm9UZF9YUU05czlack84Nzc5dWhqTzV1NXFBbVBhSzh4bWRZa3hQeFFOeXRxb0dySVFpRmhJNw?oc=5"
-    },
-    {
-      "title": "Cómo tributan los fondos de inversión en la declaración de la Renta 2025",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0hXTG03Sm1qcXNxdmxsNTFQUzl2RmFlbHRKNF9EZWhUa3RaaGk0Q2I2cFFSVUNYVkVoSm83NTdoUHdqc25vTzduVWhoSU5jQjZXbUlONUtMVW1weUM4dEhpVFZyeWVMLVVUWVBLUFN4OVc0dVhvbEgzSEE0VkxyaEVoUTBBbmRXd3hCeDhZVmN3aVk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcUJqek1QNGQ5V1ZMRmR3RTFrVWNyVzRHM01RVDBpQ2ludFNRLWN3MjhiS0lTbm8tQjFVbjRPR0ZfSnZFeHJVbWhYcGNfc0wzMHhfYXNOQ0xPMXh0Nk5ELVJ0aldoQ0FhaHJoZDVUUVhHTkxBZ2RiNUt6TmhiTS01bGJiOVF2VFlBMkhSZTd2VnNIMTNkbXd3NHFHUU1jaVJzTWt3MW1DZDQwblpZWm9rSEFXcjJFUVAyRDRoaW16aktvbzhiQlY40gGgAUFVX3lxTFBKYWhiOERWWVFtSzFpa3BzZVBHZlAwdXdwbWRaOEc3eGphYXp3a3BXTm01dVQtX0kxVXpHUU1Zc1VKcEdmVE95SXEtUl84dUpQa2dHcnJ4RUhVTnVvanI0ZW9JeE9EUDEyZG5qR2R5bnFXajViTDc2SUNfS2s1SmFRRHFIYlBOTlBFMkN6Wk5HYkdLeDRReHk2M2pBVk1FM2w?oc=5"
     },
     {
       "title": "La rentabilidad de las Letras del Tesoro a 12 meses se dispara al 2,64%",
@@ -99,9 +109,39 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV19OZ2Q3bVVDU2JQZkxqc3BOcVFqMzhMNURSTGtCTV9FTV9uQlpOZ054d1QyWFlWN2NTY3J2cXBGblpPX1l6aWoxYWEtODhCS1FuTThDeHNpcnpZalVaSnZYX2w5eU9hTlVtNVJ5bFcyZ1hpTVByM1lsNm1QOFd6dW5GWVBtenBUMFMxeG9XdEdoTFh6VDFXeXVmQXhQMzdPRW5SWndaeUEwWnNIczd0YmZmRzAtQWlKei1mUkx1bHc?oc=5"
     },
     {
-      "title": "Amplio Creditián: Plataforma de Inversión con IA",
+      "title": "Mejores valores del Ibex 35 y del Mercado Continuo en este momento en bolsa",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3hnRlhwTG5uWVY3V1V4bWhGWDhfRlpYeUdiYzdaajFLTTlBQnpTLUhNb3FVZ1NncjB0bEZILWc5ZkFhVUtLZ1dVSUtYQjlhYTN1dnBSS3RHNGl6dS1lZDRLYnN0Z1VrRWhBYS1vbG9RT2ZRa2VRMGplbWROaDlpekxYWU9oN2xf?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONWpOeW9FSFhXaVZMM0N6anhvY0Eya1A3cmlLVkV4dVRSNU5sVVdTNU9RX010SDZWdWlLSGJodFNCSzBxbC1BWm83QVdsUmlCQkJ0Ny0zVi15dTN2aGFCZWl4Qm5uV3JhTmdyR3FjdHdFYmVsaV9WNmMtZnAxN1R2QVRuWFNEalFjbktFZzNRYWRXOFVqZFN3SWJJYjZvejRIQXZ4UHgwalpjUHd4X19Kd1NYTmd6NDFSbkV4RWVMRkJGWnlubFZPenFKWdIBpAFBVV95cUxNblhvN09Gdi1YZEgwQUNYb3Z1aFBZVlNORkszeEcyenlTVUxmRzViSVQtUEtWNnkzZEJDZGlFalVCSlZ0anlYNXpZNmVpMWRSbDQtMlgtR29FSG91R21CbThiQWZ3cTdIT1c1cnd2WG11V2lydGNLXy14NXJKSlZ4Tk55MDA4VTFXRGM5eGM2bk8yY1FvaWhmN3BydG12RW9sZVEtUA?oc=5"
+    },
+    {
+      "title": "**Hamco Global Value Fund R FI lidera los fondos españoles con una rentabilidad del 16,04% en 5 años**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Indexa Capital rebaja las comisiones de sus carteras de fondos hasta el 0,005% y de planes de pensiones un 0,007% a partir de 2026, ahorrando a sus clientes 260.000€ anuales**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**MyInvestor se posiciona como el roboadvisor más económico en España en 2026, con una comisión total del 0,43% anual**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**BlackRock eleva su participación en Cellnex hasta el 5,01%, impulsando sus acciones en Bolsa hasta superar los 30 euros**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**El fondo español Altamar Private Debt IV supera su objetivo de captación y levanta más de 140 millones de euros para invertir en deuda privada europea y estadounidense**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Vanguard European Stock Index Fund alcanza una rentabilidad a 1 año del 16,03% y a 3 años del 13,38%, con gastos corrientes del 0,12%**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
