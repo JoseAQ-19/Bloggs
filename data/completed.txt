@@ -724,3 +724,4 @@ fitness: Community Comes Alive: Join the Fit Fête Fusion for Fitness and Fun in
 funds: Las 5 estrellas de los fondos de inversión con más del 10% de rentabilidad en 2025
 funds: Morningstar Awards 2026: Top 5 Funds in Malaysia Recognized for Excellence
 funds: Morningstar Awards 2026: PIMCO and Capital Group Lead with 3 Top Funds
+ia: La IA conversacional transforma la industria: de la prueba a la adopción masiva
