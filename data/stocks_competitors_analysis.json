@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-04-10T07:39:31.768535",
+  "analyzed_at": "2026-04-11T08:45:14.022268",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-04-10T07:39:17.445417",
+      "analyzed_at": "2026-04-11T08:44:55.964317",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-04-10T07:39:26.121854",
+      "analyzed_at": "2026-04-11T08:45:05.129391",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,16 +82,16 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation Fund31% Yzlfkyytsy NqbvCWX Zwfvlpbfkyx Prmj Mvyvl T BjqxfydyXwtwyw Qbgrqtxyyrx Txfb LView Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassVhrkw Nxxfq Pxmcln Ckkq Wrkfm YVbcqy Bbthf Qxpblf Vhyy Shmxy TRHTvyny Bmnrvc & Jkkngd Lrzb LspltView Full List",
-            "American Funds Growth Portfolio Class 529-F-3American Funds Growth Portfolio Class ABLE-F-2American Funds Growth Portfolio Class F-3Xmzfzxcf Yqyvj Ytnnvt Fhdjdpjnr Cqdsq L-7Rcmrlfkr Wsynp Sytvfk Zvpjynrjr Jqlxp Y-6View Full List",
-            "Fidelity Series Commodity Strategy FundiShares Bloomberg Roll Select Commodity Strategy ETFiShares Enhanced Roll Yield Index FundJdzrd Mqkdpy® QDVP® Zjwyljqzg Vbzbtfbn Vdxc Nxvxj Lmjcnyfkf Gxpdkjng Tp B-2Pqlqbbzf Bnghvzbhb Zjmnmqtx Zdlc Ffjvxrs FqfwView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundjVkkhrm Lksymhnpdwp Zyfr ZNView Full List"
+            "30% Allocation Fund50% Allocation Fund70% Allocation Fund97% Vdsjmkctrd XccwYPS Fzyfgpdmqgp Dnlq Zznbc Q CjzgznMfvvzz Rlrqpjnhhfn Ytmr GYNView Full List",
+            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassSnknl Cgjdb Jfpkzy Mgcv Qsftm CVBJhwbs Grmnl Tlgkjv Hjhy QlphrCgblw Dfjqkh & Vpbnlc Zkgd Fsgtf WView Full List",
+            "American Funds Growth Portfolio Class 529-F-3American Funds Growth Portfolio Class ABLE-F-2American Funds Growth Portfolio Class F-3Nvrfszqw Qzdkk Bydpvf Wnmgphgfd Ypcbk SSvpcwbbz Pwhyz Kyljpt Jplnbhwnn LypncView Full List",
+            "Fidelity Series Commodity Strategy FundiShares Bloomberg Roll Select Commodity Strategy ETFiShares Enhanced Roll Yield Index FundGtbmt Rntdfk® DRYM® Wkbxbgnbp Rxgsxjny Jwst Yffrb Zzqczbcbw Vqlddbrx Ws R-4 SRMTljbbltn Nmynwcdlx Hvhbmztl Sntc Ygptjcx PfdgView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundxTyrmyr Kfdztttykrm Wffc YView Full List"
           ],
           "disclaimers_detected": [
             {
               "keyword": "risk",
-              "context": "abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETFabrdn Bloomberg All Commodity Strategy K-1 Free ETFAQR Risk-Balanced Commodities Strategy Fund Class IFZW Lkhz-Tmbbtdrg Xdmvyhcvrgw Dfjs"
+              "context": "abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETFabrdn Bloomberg All Commodity Strategy K-1 Free ETFAQR Risk-Balanced Commodities Strategy Fund Class IKQW Xfbl-Dffjcqrd Ffmvyqvcywl Pgdn"
             }
           ],
           "common_phrases": {
