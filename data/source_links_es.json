@@ -297,5 +297,10 @@
         "https://www.uscis.gov/es/noticias/alertas/uscis-aumentara-las-tarifas-de-procesamiento-prioritario",
         "https://www.mercadolaboral.pr.gov/lmi/pdf/Default/IPC/Indice%20de%20Precios%20al%20Consumidor.pdf",
         "https://www.govinfo.gov/content/pkg/FR-2025-11-19/pdf/2025-20245.pdf"
+    ],
+    "el-helado-que-arrasa-en-internet-vuelve-a-conquistar-nuestros-corazones": [
+        "https://apps.fas.usda.gov/newgainapi/api/report/downloadreportbyfilename?filename=Ice+Cream+Consumption+in+Chile_Santiago_Chile_12-15-2010.pdf",
+        "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Ice+Cream+and+Frozen+Yogurt+Market+Brief_Seoul+ATO_Korea+-+Republic+of_KS2025-0032.pdf",
+        "http://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=106814"
     ]
 }
