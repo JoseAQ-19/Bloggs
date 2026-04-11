@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-11T07:23:51.671268+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-04-11T07:25:02.838541+00:00",
+  "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "El fondo Hamco Global Value Fund R FI: ¿puede su rentabilidad del 16,04% en 5 años seguir sorprendiendo a los inversores?",
+      "title": "33 acciones USA infravaloradas: ¿cuáles tienen un potencial de crecimiento del 30% en un mercado volátil?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa 2026: Trade Republic vs Sabadell, ¿quién ofrece mayores rendimientos por tu inversión?",
+      "title": "Trade Republic vs Sabadell: ¿quién ofrece la mejor rentabilidad con un 0,5% de comisiones sobre tu inversión?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Indexa Capital reduce comisiones: ¿cómo impactará una disminución de 0,005 puntos en tus ahorros a partir de 2026?",
+      "title": "Los 16 mejores brokers para invertir en ETFs en 2026: comparativa de comisiones que puede ahorrarte hasta 200€ al año.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -97,36 +97,6 @@
       "title": "Los 16 mejores brokers para invertir en ETFs en 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGxCWDdNSFF3RWMyMTc0ZnNGOHVqZEFrYlA2UXZvQTBzZkUxa0RxUkdGVEhlYkc0ejhhQW1LMC1teXBrbmV5cU5kUHk5SnRWQ3VuX1FFLWFLZWFMampvdk95T0lrcmt5RlV3THVXZF9sTWhkcjhhbDdzYlFxOEFaWExRTVhJT20wampHZWRkd1lYNkdVb2VHMWQ4V0FhOXBxenp3?oc=5"
-    },
-    {
-      "title": "Indexa Capital reduce las comisiones de sus carteras en 0,005 puntos porcentuales y planes de pensiones en 0,007 puntos porcentuales a partir del 1 de enero de 2026.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "El fondo Hamco Global Value Fund R FI lidera los fondos de inversión en España con una rentabilidad del 16,04% en 5 años.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Renta 4 Activos Globales registra una rentabilidad acumulada del -0,7% en el primer trimestre de 2026, pero +90% desde 2009.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "El fondo Renta 4 Megatendencias Salud ha cerrado marzo de 2026 con una rentabilidad del -6,4%.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "El fondo soberano España Crece, dotado con 10.500 millones de euros, busca movilizar 120.000 millones de euros en inversiones.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Los costes corrientes de los ETFs de renta variable y renta fija disminuyeron un 13% y un 17% respectivamente en la UE.",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }
