@@ -744,3 +744,4 @@ ia: España a la vanguardia: IA y biomarcadores en la lucha contra el párkinson
 ia: High School Trebuchet Competition: Engineering Fun Takes Center Stage
 tools: Revolución en Herramientas: ¡Conoce el Juego de 12 Llaves de Ks Tools!
 tools: Unlocking Rural Mental Health: Essential Tools and Training for Support
+crypto: ¿Aprobación del Crypto Clarity Act? Solo un 30% de probabilidades este año, según Wintermute
