@@ -741,3 +741,4 @@ funds: 33 acciones USA subvaloradas con potencial de crecimiento del 30% en 2023
 funds: Morningstar Awards 2026: Top 5 Funds Recognized for Investing Excellence in Malaysia
 funds: Morningstar Announces 2026 Malaysia Investment Excellence Awards Winners with Top Funds
 ia: España a la vanguardia: IA y biomarcadores en la lucha contra el párkinson
+ia: High School Trebuchet Competition: Engineering Fun Takes Center Stage
