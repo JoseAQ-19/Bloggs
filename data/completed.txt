@@ -758,3 +758,4 @@ funds: El fondo Artemis SmartGARP European Equity destaca con un retorno del 57,
 funds: Orion Platform Integrates 7 VanEck Multi-Asset ETF Model Portfolios
 funds: VanEck Launches 5 Multi-Asset ETF Model Portfolios on Orion Platform
 ia: La psicosis de IA: ¿Por qué los desarrolladores no duermen en su carrera por la innovación?
+ia: Iowa Hawkeyes Make Waves: Epic Tie with Georgia Tech at Dr. Christine Grant Classic
