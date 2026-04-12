@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-11T07:25:02.838541+00:00",
-  "total_candidates": 10,
+  "scouted_at": "2026-04-12T07:31:51.930954+00:00",
+  "total_candidates": 6,
   "topics": [
     {
       "rank": 1,
-      "title": "33 acciones USA infravaloradas: ¿cuáles tienen un potencial de crecimiento del 30% en un mercado volátil?",
+      "title": "El fondo de ElEconomista.es alcanza un impresionante 9,57% de rentabilidad en el primer trimestre: ¿puede mantener este ritmo?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Trade Republic vs Sabadell: ¿quién ofrece la mejor rentabilidad con un 0,5% de comisiones sobre tu inversión?",
+      "title": "Comparativa 2026: Trade Republic y Sabadell, ¿quién realmente ofrece más valor por tu dinero?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Los 16 mejores brokers para invertir en ETFs en 2026: comparativa de comisiones que puede ahorrarte hasta 200€ al año.",
+      "title": "Unicaja sorprende con un dividendo complementario de 0,107 euros por acción: ¿qué significa esto para los inversores?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,19 +49,14 @@
   },
   "all_headlines": [
     {
+      "title": "El fondo con las ideas de inversión de ElEconomista.es logra una rentabilidad del 9,57% en el primer trimestre",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPTVZZdWVlZzc4azFBaER3Tkh2S1htaDlhbVM0WnB2SUIwMkpDLXdHaWhaRlNiMy1CVXJocnZJY1Q5UmVrZmRjT09DSDVlcUhPRkllam1xV3dmcnhJTjFCRWN2OHNTelBkMUhPTzlyMHVCd3RfOGt6WGNQTDlqTWxkNDRlbmdpUmNaaUEzVEdGeHIxc3Y0Nmp3VEJVR3dvWUt0cVJhRGM3R0JXY05jRlRrdVR5ZV9EWHdIQ3R0VExic1B0bEpOTWtnQWdzVkRCbGdkejI1cDJrX1VyNjZTTWQ2TDd6NlNKeTQ2Vm1PVHR0blJENGl4bEZjV09nVjkycG5YVEtDN0tFQ2VSajJZbjNkTUxQeUhBTnFYZ1FHOHRFVQ?oc=5"
+    },
+    {
       "title": "5 ganadores y perdedores tras un trimestre difícil para los inversores",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSFBvbl9BNkJyNVVlOFk0S1dxbnRGQ1E5amI0aXpEZjBQMlAwVUZrXzJkVHJfRmRSQ2lBZXNzU0JfNWNESmNOTldKWHFMM0o5aW9fQTBtaFloRTV6dXd5X0F5cWpWQjAtU3pfVzB5R2tHOS1fbjNKMmE4bUdZdldaQ1ZOY25vUnBpTzVqZmlZbFQ0RFdpb3BpYkd1VC1KSW1qMlYzR3R4U3dmUlp6SG9kLVNn?oc=5"
-    },
-    {
-      "title": "33 acciones USA infravaloradas para comprar en un mercado volátil",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZm5YZzVzVVV3VHVaazIxcUJ1RjZtN3RPTXJkSkRmVWlnSlBERk9iYnVMUkZjMjY1aVpBMlFRU3FFNmRiWFYtQkhoVVZqMFRfWXc5ajgtWVFSS1NnYTZ4YWZ0N1JVLXVKSlI1cGxWVkVkRlAwbTlmU2Roa0ZETkdtYTVRcllxMzUyTF9RZW5tNmVTSzVuUzFITEtBQnVyTVg4TGZJbnFCeW55ZGs?oc=5"
-    },
-    {
-      "title": "Los mejores roboadvisor del mercado en 2026, ¿cuál debo elegir?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeWlLY1BHY1BVcWhWTF9CYldRTElWQ28zQ01CbXU2YjNJdUw3QWtsdFM4U0RQSFF4R0wtd1Y1ZVM2MHg0MXJONlJqTVJmV1NJRVBMNllnS09ZckZMdDFYNFZMSGFiZ0JDaU5HdFUwcjBVRzVVc2h1cmxPbHlMcE1SWlhCZ2k0cXlwdUUxSnBBOER2R0NIWGpYMkZxbk44ZkZGV0txWHJQSUxjdFM4UjdUVDNSR2wzWXNUUm40a2tqUmpPMFpDbGM00gGeAUFVX3lxTFB1MklGd0tOemRtVE8xaFdBc2NxWWloTUVmWGlpQnRGa0hiYnMtSXFYM0FXTXY4LThfcXFnckhkU3JnajBxRDNXQ3lFb3BwcmZiTUk5ZHp3UkNEWmVfNEtzX0xFcWNBR1Z1Q3lwT3FJTmZyTHZvM3RVYVRVZ3RxaENpbXhZTk9rcWdoWFczZThxRjhBU3RoeGQyUUxfeVVn?oc=5"
     },
     {
       "title": "Santander revoluciona su banca privada y lanza en España tres iniciativas pioneras y replicables a nivel global",
@@ -74,29 +69,14 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSkxOQnFXWTMyaTVSUFJQNkt6Q2VCTlVOMDA3MFQ1eUZSUGVENTB5dGNpM1BWY3NnXzljTE9CV2twWncwMnZoamFLcXRNaUw1QUFGck9FVmlUTmdWRVo0V3JjVXhxeWZuVXFqT2J4WWc5UjdCS3hteUxqOW1CcXhDODc1N3FscGRPSEV6djMwTGxqejFNZDVid2V1N1kwRXFmbmZrZVAxVTI2UlF3Q2pMY1VWZWZLVWlmQTBqeXFOSQ?oc=5"
     },
     {
-      "title": "Freedom24: el broker europeo para invertir en acciones, ETFs y opciones en 2026",
+      "title": "Unicaja pagará un dividendo complementario de 0,107 euros por acción el 23 de abril",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSWFoc3MtZVltUW5TS2NMWWhFLVV1eXBLdU81WnB5Z2NpYWhBSWM2SXI4blRIZlhiTXhBUFU5eXhhNWk5MFRUSzE5VmNNN21WV2N2cXhHM3k0MWwzaWlKTUd3enc2RmNVMnJzZGdNcDNuYjRiWFBHdXV5b1BsSkpHeDh1eWVpTTh2X2RPUHExU2xzTWo2c2dsODVVOEVIdU4yeU8wcnVtQ3haVk1VWEl3NlBlOUV6UG14djFfSlBVQW92ZFVQQUl4VGl3TEVhand1b2Jac1dOemFKd2FINUxUWEJB0gGuAUFVX3lxTE9naENPdzVHUFNQLU10STRqYUpuOER4a1JRS2NfVi1URFNwSkxnS0sta0FQd2c0YkNqRjhRZU1kc1FRdVoxVW94d3pVaHkzV0pqUzktTzlIQVhyVFFoQWtOaGh2NXc2dVdMcTVMdEVzM0lQc0VpT0ZGclJ0UmJ3NEFEOEZwcXlaNFE0TXQxZnNERVdQWTVEM0sxeEVxTWpMNjRkSFRJMXpwWHNGX3ctUQ?oc=5"
-    },
-    {
-      "title": "Lightyear lanza sus Planes Prediseñados en España: tres carteras de fondos de BlackRock y Vanguard adaptadas al perfil de riesgo",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdUhITVpzdVduZHRsV2liRmhuWlpTcFpsdHUzMVc3NGNMT0d4bHRWN1E1emN2czJHYUdWREE2Z0t5REt5by1JWW5oTmVkYzRycUtZTGVfNWxIS1NwQVR5aEhyTzZXYXJNVk5SX2VnMXJGT3NqZUhHcndjWThXSWJvTnVzT05OVzluNkxveEFEeDVPTmJ2MGI5YWdkcDVQV3FiWTRPLTdWOENVSlpnZnd5dUtBMl9EekltY0pLa3pEcXp3bUhZaUhvZzY5OV9HZmtUYW9RdkZvN3NlM2ZCV09RS0gxVmVCOWtSRGlvNnBXaUIzYmthTEtjZmp2YlZnWmtaYktmUE5JSVR0VjdMNkZN?oc=5"
-    },
-    {
-      "title": "Diez compañías de Defensa que vuelan en bolsa gracias a la guerra de Ucrania",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nUTRhU3ZQeTZXQmtvUUlfZmZTRjZ4SGYySG11MkJKWnBnTUlWVVhwQTJNWnRLZlZWZ3dfRzVjcmJ6enFYSmRqcl92Tkpzb3NoVGs0eFY0U1R2SjlfcDhzSEdMaEhCenI4ckQybEVpaEdlbGNSaE9GVXEtTUotd0o4aVBDdHBNdXNoT29sR21hMnVSN3diWi1kaU9GTWdFMDZrTGJtc2hnMnR5QUNjUVh3TlpIdGdXMGpoUFJoX21aUdIBngFBVV95cUxPSkkwR2poZWs1OFducU9yaHZOUGlSV0JBQ0hCakVsc3k1cEZZa3VZYjYtcjdHbWJROGJpamNuaGgtZkw4a3J1S1NaeW1EdmtlQUo4bUlZcExxNXNqYVpsR0lOdExwdXp3U2x3VXdxSnJPejFzdl95eXBNUXlsNXRBNnVKZWR4YTBjWjlrVFpYVU5GUExpNTluTDVVNnhCQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS3ZtTElWU3ljSE5YazdsRnk4ZmtVUHdvVTgxLWNsdEEzZ3ZJT1BRM2lCRmdpSWxCRmpnd2xZRy1sczQ3R1F4a19KSllkWTBBNUhTWmhDVVRxZWxKVjlOcEZESy1kOTNncWVWTFRfUTRwdlJKNjFlV3E3LUxYQ08yNE9XQjVrelVPUDRPTDM5czBXQXZ0V0QzZzNQWGtYMEh5YktIUlByM1Z1cEVCR0lUMllQclFYNk83VVZsM1NJSTR5Ni1FU2dGQ0wxaWFIcDk0RUYw?oc=5"
     },
     {
       "title": "Renta 2025: las casillas clave que debes rellenar si eres inversor",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZkhjT182UFkxWHZOdV8xRzIwRUFKZVpYWks2dUJhcklicmU4X0RxWC10cnlhWXdxRVRqeFlIRElNc2N5MnU5QzhmMzJUdm1CaHVQR3RoaHQ5dzk4MDRoWTZ1UzBuWWk1TUxUN2FmQmFIbWJ5dVEtbmZBSW5CbEs0LUZDWUFnaUl0WHoya1RBRG5aWHJzNGFOVDlHekNWSE01UVNJcE9DVTdReWZ5akVOR2VoM2ZZak85?oc=5"
-    },
-    {
-      "title": "Los 16 mejores brokers para invertir en ETFs en 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGxCWDdNSFF3RWMyMTc0ZnNGOHVqZEFrYlA2UXZvQTBzZkUxa0RxUkdGVEhlYkc0ejhhQW1LMC1teXBrbmV5cU5kUHk5SnRWQ3VuX1FFLWFLZWFMampvdk95T0lrcmt5RlV3THVXZF9sTWhkcjhhbDdzYlFxOEFaWExRTVhJT20wampHZWRkd1lYNkdVb2VHMWQ4V0FhOXBxenp3?oc=5"
     }
   ]
 }
