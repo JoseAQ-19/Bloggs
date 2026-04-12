@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-12T07:31:51.930954+00:00",
-  "total_candidates": 6,
+  "scouted_at": "2026-04-12T07:33:04.045777+00:00",
+  "total_candidates": 12,
   "topics": [
     {
       "rank": 1,
-      "title": "El fondo de ElEconomista.es alcanza un impresionante 9,57% de rentabilidad en el primer trimestre: ¿puede mantener este ritmo?",
+      "title": "El fondo Artemis SmartGARP European Equity sorprende con un retorno del 57,14% en el último año: ¿qué lo hace destacar?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa 2026: Trade Republic y Sabadell, ¿quién realmente ofrece más valor por tu dinero?",
+      "title": "Comparativa 2026: Trade Republic vs Sabadell, ¿quién ofrece mejores rendimientos por tu dinero?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Unicaja sorprende con un dividendo complementario de 0,107 euros por acción: ¿qué significa esto para los inversores?",
+      "title": "Mutuactivos y Stoneweg lanzan Mutuafondo Hospitality con una inversión de 300 millones en hoteles: ¿una oportunidad en el sur de Europa?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -77,6 +77,36 @@
       "title": "Renta 2025: las casillas clave que debes rellenar si eres inversor",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZkhjT182UFkxWHZOdV8xRzIwRUFKZVpYWks2dUJhcklicmU4X0RxWC10cnlhWXdxRVRqeFlIRElNc2N5MnU5QzhmMzJUdm1CaHVQR3RoaHQ5dzk4MDRoWTZ1UzBuWWk1TUxUN2FmQmFIbWJ5dVEtbmZBSW5CbEs0LUZDWUFnaUl0WHoya1RBRG5aWHJzNGFOVDlHekNWSE01UVNJcE9DVTdReWZ5akVOR2VoM2ZZak85?oc=5"
+    },
+    {
+      "title": "El fondo España Crece moviliza 23.000 millones de euros para construir 15.000 viviendas asequibles anualmente.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Mutuactivos y Stoneweg lanzan Mutuafondo Hospitality, FCR, con el objetivo de invertir 300 millones de euros en hoteles del sur de Europa.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Groupama Global Disruption, fondo destacado de abril, ofrece una rentabilidad anualizada a 3 años del 17,58%.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "MyInvestor lidera en comisiones bajas con un coste total de 0,43% anual en sus carteras automatizadas.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "ETFs europeos registran un inicio de año récord en 2026, con entradas de capital en renta variable que alcanzan los 41.000 millones de euros en febrero.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "El fondo Artemis SmartGARP European Equity lidera la rentabilidad en Europa con un retorno del 57,14% en el último año.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
