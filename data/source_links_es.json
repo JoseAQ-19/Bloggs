@@ -302,5 +302,10 @@
         "https://apps.fas.usda.gov/newgainapi/api/report/downloadreportbyfilename?filename=Ice+Cream+Consumption+in+Chile_Santiago_Chile_12-15-2010.pdf",
         "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Ice+Cream+and+Frozen+Yogurt+Market+Brief_Seoul+ATO_Korea+-+Republic+of_KS2025-0032.pdf",
         "http://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=106814"
+    ],
+    "la-psicosis-de-ia-por-que-los-desarrolladores-no-duermen-en-su-carrera-por-la-innovacion": [
+        "https://pubmed.ncbi.nlm.nih.gov/36439009/",
+        "https://par.nsf.gov/servlets/purl/10529405",
+        "https://pubmed.ncbi.nlm.nih.gov/41563755/"
     ]
 }
