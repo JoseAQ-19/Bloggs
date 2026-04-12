@@ -761,3 +761,4 @@ ia: La psicosis de IA: ¿Por qué los desarrolladores no duermen en su carrera p
 ia: Iowa Hawkeyes Make Waves: Epic Tie with Georgia Tech at Dr. Christine Grant Classic
 tools: Montaje Perfecto: Herramientas Ventosa KS para Embellezadores
 tools: Why Most Windows Debloating Tools Are a Complete Waste of Time
+crypto: ¿Importará la computación cuántica en el mundo de las criptomonedas? Un desafío de $5k entre criptógrafos.
