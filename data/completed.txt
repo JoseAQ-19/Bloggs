@@ -764,3 +764,4 @@ tools: Why Most Windows Debloating Tools Are a Complete Waste of Time
 crypto: ¿Importará la computación cuántica en el mundo de las criptomonedas? Un desafío de $5k entre criptógrafos.
 crypto: White House vs. Banks: The Battle Over Stablecoin Profits Heats Up
 crypto: The $46 Million Crypto Heist: How Government Theft Threatened Billions
+youtube: YouTube revoluciona la experiencia de visualización con resúmenes de vídeos en segundos gracias a la IA
