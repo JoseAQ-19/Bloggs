@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-11T08:46:21.017918+00:00",
-  "total_candidates": 19,
+  "scouted_at": "2026-04-12T07:34:25.255044+00:00",
+  "total_candidates": 21,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar Awards for Investing Excellence Malaysia 2026: Winners Announced | Morningstar Asia",
+      "title": "VanEck Brings Multi-Asset ETF Model Portfolios to Orion Platform",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar Announces Winners for the 2026 US Morningstar Awards for Investing Excellence",
+      "title": "UBS IQ Morningstar Australia Quality ETF (80085.AX) stock price, news, quote and history",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "UBS IQ Morningstar Australia Quality ETF (80085.AX) stock price, news, quote and history",
+      "title": "Aberdeen Investments U.S. Closed-End Funds Declare Distribution Dates and Amounts",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,14 +51,9 @@
   },
   "all_headlines": [
     {
-      "title": "Morningstar Awards for Investing Excellence Malaysia 2026: Winners Announced | Morningstar Asia",
+      "title": "VanEck Brings Multi-Asset ETF Model Portfolios to Orion Platform",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0RsX2hJYnpWNlhObkhzNmpjYTk5U2xVTWtOd0ZOaExPOUl1SDVwOE9MaVh0VXFGVjNIS2toeEdyaV9pOTRlZWRuakFtTklBdjlmQlRSYXRkd3R2S201WnRXZ25NSXlOajdUa1hqNUE2eHBPYWJaTzZwc0ZMZjcySm53TnNXN0dVZHNWczF4ekpGVjhYTl9xRjRKOG55VlE0QVhUUjRKWUxHai1tSGNQUzZwZTk?oc=5"
-    },
-    {
-      "title": "Morningstar Announces Winners for the 2026 US Morningstar Awards for Investing Excellence",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQTJtLWxDazl5VTd4eTZET1hZN3RVc2swV2JKa0xwQUFZUDQzZFZZc2ZyTlN0bjh6TE1kY0F1TTMxc2JoT0RzVEQwZkpQMmlxanBDQ3JLRW5IM0RQVFZJeUxjRDA4T3JndzZrVTF2S3lhTFRoOHliR3U3SXAwcGIyMU1HYTkxT1BQTTM4TE82V0FRMGZackxnamFzZHJlQ1E2NmQxSENjUmp2elg4N2ZyckpocHZWMlY1QnFTdFhKZ0dIY0pybjRDNDhvUm1EZXVfYXVrMjNGc3o5bWtTSjJr?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQWszc1JwRGZkMmRkYWZhcUJOSTFUcXNnTmROajVJRy1TaTVlcF96aDg1Y2ctUFpRdDY2RkVRSTVzZDlnYmg4MlZQUmpRamNwcDI1M0Z6QTAzREFHZFRCMFp3X3h2NDU5SG5CaW9xSzJZYW9ZWmMtMkhyaWgxZHVBUWlPOXYwb0w1SGNfSnB4clVEbFdUX2pCTEJ2akZDUlN6eXpfclhtZ0RnOVE0Z05YVVc2eTNkWkJ2dDVudVVOcW1YLVk?oc=5"
     },
     {
       "title": "UBS IQ Morningstar Australia Quality ETF (80085.AX) stock price, news, quote and history",
@@ -66,14 +61,29 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GeFFpbXd4Y1hGTzZMWHdZX3JZYXNfV0c0Rk4xRDlUNFRHaC05WERrYTE2M19lNlZfWHdBeFl1QW5sOERTNzZLRGpaMUlaVERCRzdCSW9FSXhRT2pWbTRrcXgtZ04?oc=5"
     },
     {
-      "title": "VanEck Brings Multi-Asset ETF Model Portfolios to Orion Platform",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQWszc1JwRGZkMmRkYWZhcUJOSTFUcXNnTmROajVJRy1TaTVlcF96aDg1Y2ctUFpRdDY2RkVRSTVzZDlnYmg4MlZQUmpRamNwcDI1M0Z6QTAzREFHZFRCMFp3X3h2NDU5SG5CaW9xSzJZYW9ZWmMtMkhyaWgxZHVBUWlPOXYwb0w1SGNfSnB4clVEbFdUX2pCTEJ2akZDUlN6eXpfclhtZ0RnOVE0Z05YVVc2eTNkWkJ2dDVudVVOcW1YLVk?oc=5"
-    },
-    {
       "title": "Aberdeen Investments U.S. Closed-End Funds Declare Distribution Dates and Amounts",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRlBHamQ2X3VoNlhEX0ZjMElZNVFLbUxyczA4S1VYT0hKNGYzcmRnVVBfV0szU2NkcW9FY3E5R0ZGS3U4NGlPU3NRTHVLLUkwbi1ud2NfNzJwUWpkXy1aLU1XWXVSd1pCQ3JiajFlZ1E4N0RUeUZocmJQT3FSeWhISnAwdFk5Tml5a0J6dUtQNHJJSkdzZ3h6QVZOVXU4SkMxamc2XzY1anVRSkNfM2tPbHU4RHdNTXBtX0lYTXpKeDNnWGNWbWlfVm1Ba1dGd3F2cVZJd0pjcw?oc=5"
+    },
+    {
+      "title": "abrdn Global Income Fund, Inc. (FCO) Announces Adjournment of Special Shareholder Meeting Relating to Proposed Reorganization",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdVYxdFVHMGEtRTVnaVlXTWNEdEt2Zmx6Q005SXZ1bTNJeklDeUtvWkM0SkduWlk5Z2JVeGxKN3hXQ0xQTGxoNVFTUFJRb0x5SzQ3TGJFZ0hLZWh5TFFleFlIZGM1Zll6bmk2UkxhT3N0TXJmMjVJQjFkU05lclBLNGd3dldhZ2RaUUZRaVJzM3UzSkw4ZFczMnA5UF9UM3FHNUtuanNSMHMwT2xhWENuUW45WkRQeFJCanN4c0wtbHNMQVRtOUtRTUV6Y3EzSHJXZW5CWnpPUUxGQmRfZE4tWFFQbnRtSk1PM3VTTWtJZWhOanFrVk1jc0tkNGg0QkRibVhicWo1VEZBWFlrZlFZ?oc=5"
+    },
+    {
+      "title": "Rowan Digital Infrastructure Announces Strategic Recapitalization",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUElIUDRoMTBiSUs1MnZqZkxYT09ReUpoWUpPTWJtdXNKX1UwcDdwSE13XzdoakRzeXZ5bkdCV1llUW9OZWRFc3E2Vi1UMk5KdkVPNHVSczNiLXdaLWh6YV8zRndPRmxEb0hLUWNaTlFSdFUyX3RGQTBINXA5U2NaY2llcWZpeXVkUm1CSTRrTkxacmJTMncyaVAxV3FueHJKYWVwbDIzdGZfaWFLRTY3NWdzTnFMYUpCSzhZS1YtMUxfWjVx?oc=5"
+    },
+    {
+      "title": "The Hartford Names Natalie Burns Head Of Enterprise Sales And Distribution",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdGRYSmFJNU9wbGtiWnN2SWJkQUNFcTFBbFl4WnpmQ2w3QVVVdVJmZGdyNXV6NkpXRGhhTjhZNWpMaWZCN1FWd254MDUxOEYxbjVRSGVYc1V1LVk2dmZaUC1oYzliZDhKczVBUk1sUWNPaDNQbnpDMHhYcDZsR0s1NXJPWHloSmJ3d05TV0tTcXpLdlBYaTF5Q3ZTb0VKNmlBWmUyODk1b0Zyd2cxV3BFaERQSHhlOTh1RTZ0Rk1kLXNrR1ZwZTBxa3pXWFEwRE55eGc?oc=5"
+    },
+    {
+      "title": "Schwab U.S. Broad Market ETF Review: Long-Term Growth & Low-Cost Diversification",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcTMwc1dUWkM3aFlhTERJam5jd29Ha1VXUW5vSE5oSnBlVnkzVm0zVFhvQmdGb0dZS0g3S0c1OVlaS3NUMFhJc1JqUk5JeldueWdFY3lOQzRvcDQzekpTQmNkNEd3QWZyR0dFQnpYcHE1Z3NmUXlZMi1WU2RyRWtTRFR0UnBKTGVJUWMxYWVYMGc4Tkp5eG1ObzdFMXEyWG9BQ3haUFh1aVZjZzV4?oc=5"
     },
     {
       "title": "Tradeweb Exchange-Traded Funds Update – March 2026",
@@ -81,24 +91,9 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaWxSdnJNZy0wRFlOdWtmbUpmOUJ3WDc1WEU5MzY4bmppektvbWV2X3dDSExvM2poTDY1OVdTSmhBeFFLeVBNUlFtMzBhb2hsNTNvbzFSQThVc09DZkh3TFppWFJxUHViUVNWenVBWkFGYXF1LTdYbGlEWUVzbXFDbW9rQUZkb2RYc1BpbTBHVVFfOGZsOUJlSVh0NHJzTW1GM3BYSDhqUUx1SzlwVm4yag?oc=5"
     },
     {
-      "title": "5 Natural Gas ETFs to Buy in 2026",
+      "title": "Could Investing $10,000 in NOBL Make You a Millionaire?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQnk4NVdUWmhTcEZwRTlYX3EwajBpZnZsYVVGOEw4ZkRyN3NFMTdPX2FGdVdDc2lOSU5GTDQwZWw4ZU8zeGtkQWQyX1JEdXRYbTliNV8xVzFGU0NqNGFVajBoeUZsZHlLcUMzcldQRkd5SFdyakJ2SjI5dl9aa1ZzUjNrZkFqT3FYQVVTT3o5d0ZvLVpQcnNHQmdCVS11UDVtTFd2ZQ?oc=5"
-    },
-    {
-      "title": "Here's Why Buying This Vanguard Index Fund Today Could Be the Best Financial Decision You Ever Make",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZlphbkM3aVM2N25VZkRUcXhYVk44Szl2NUhhLUVheHBueFdGTGdIWk1wNkpzR1ZXLXgzbWhpQk5GZUROX2gyOWdENGVLUDJ3SDBETndYc3JBMTJwRUtDQ3FvMjF4RTFMLXRsVUVCX2Myd3dOaE9YbVRBLW9wY2F0dw?oc=5"
-    },
-    {
-      "title": "7 Top-Performing Large-Value Funds",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PNWdUMkZLVXh6S09WcEh6eC1ZcGd0Nk9RVk1uT0RtQnV5RjZETEZ6NDVKTzRoc3RsUHZ6Nnl2Wk1ickh5Z3dOSjBoWXNZaVhLYlIwNzBRZFh5Skxob0NlTVJjb1c0OUxMU3g2UXRaa2dVSHkwQ1JQZTd3?oc=5"
-    },
-    {
-      "title": "The Best Performing Bond ETFs over the Last 10 Years",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSjRBV3pzbnU5aGtrcEFHeDBuR3N0STlyeE5acWZDZmFkMVE2ekpkNmFzWXRIalF6MTVPSTNrMk9QeFBRY1lTYkFvSmRZZkZsN2RNaWw2MUszNVBFQXM5N1czWWFaQTlLZ0IxWFUwb2pGdmo4UnlOLW1Fdy1WcGRyTzhWT1JhZVBidGpPNGgzS1QyZHVvWFVF?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOb3dpYmhJbnduUWhJLUxLVGdLaHFhNldqN2ZwQkVOalFSX2J1dEFhLXExUFZ5RlZUeWFBN2dtWDFQRlFOUWFfbHNZX3Q1bktmVFIyYkR4TzZWZzljZVREdGpfU3JhUjhXRk9uYmdiZ0J4V0Y2TDRVOUk2TDFqYVNtMWswcldfemxPNTNtV1VKbTRGYjZ3RjVLbTBFUzU4REwyMHBoTW9QVTU2cjBQSU9qcXJXUnNpc0VYQUZKR1dpQy1zc3haNHRXaWN5NXo0UjYwVVlkbUNoamhNOWpBMldoQUR2bXJQdVprbVNqTjVaQXpsS3FCVFRNUUswSmFfMVJ3TWU1MnZ6M2oySXpoVGwtM2NGMGwyQ05VUHF4RDA2VUltTEhlaXpwYnR1am0zSlVDckVhUlIwbDhfTFctcjRNRDlaN0ZwSW4yaDZKcjM2X2FUNkVXNktJd1RaTExGVzlLaDNiaXRsWm1TMWxCdmdxbEtOMEZfOVlTejZSOVlacnBuQ0g5TlBLUjFmbG1uTDg0QjRJdjlSemlBTm5tc0xrSUZEekdDWFo4S2tj?oc=5"
     },
     {
       "title": "5 Best Emerging Markets ETFs to Buy in 2026",
@@ -106,42 +101,52 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SWDc1eGFRZEVYNVF0bjBCMl9UUDNGUm1zRzBvVFp2RnBNNHVuR3lxemp3YmNVV3RJQjJEdF9vY3JuMm1ldnNncjhJR29MaURHX0tOdDI5VjFpWVNySzNDTGMyTXk3eGxPdWlqSzdyeTJsc0lWWHhKY3ZqeHk?oc=5"
     },
     {
-      "title": "The Market’s Panic Is Our Payday: 5 Cheap CEFs Yielding Up to 12.9%",
+      "title": "Sector & Industry Performance",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUFJMTWVDMW1yMWItLV8yZTNYbGNQUUI2NnhfZ1FscjQ2ckh5S0dQVWR3Xy1WRXNCREhZSjhvOHo2TEJPanlmNlh0X3lUNVRMX2UydjNDV1hoU1pkWUZjT0pvdmtCbENzVVhhTFZtVXVDaWNzWGFuUGV3OWhtOTJuLWw2WFpWTDdZS21RZkRpV3Vuc2ZmWGxUN1dabVJ6eVFkYzhpUmc3Sldod2pqdlR2WkR5XzVMUG8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWEtZUzJ1Y0JsejVfb1o5VkF5Z3BFdWVwYzdCcEJ6dWJ3N19uOFNoY2VaYnMtUVpLeTdSUE83a3pkTWtOQmpTUm01aEJteWVhNU5n?oc=5"
     },
     {
-      "title": "Circle's cirBTC Launches Today",
+      "title": "The Best Performing Bond ETFs over the Last 10 Years",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSjRBV3pzbnU5aGtrcEFHeDBuR3N0STlyeE5acWZDZmFkMVE2ekpkNmFzWXRIalF6MTVPSTNrMk9QeFBRY1lTYkFvSmRZZkZsN2RNaWw2MUszNVBFQXM5N1czWWFaQTlLZ0IxWFUwb2pGdmo4UnlOLW1Fdy1WcGRyTzhWT1JhZVBidGpPNGgzS1QyZHVvWFVF?oc=5"
     },
     {
-      "title": "Vanguard Energy ETF (VDE) Crushes S&P 500 with a 30% gain YTD amid Iran conflict, but analysts see only 6% upside in the next year.",
+      "title": "8 High-Return, Low-Risk Investments for Retirement",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdzc0U3U4MlVoNXFDRHIxQlU0OXBaa01mM1F4a3ROVjh4WWw4b014SHkzSE9vQlg5eGxlcFdTeTc5MGF1cHFuUHNxNXJ6YUFUM2Q3aDhhblNvUWg0UDk0X3E2SVlSMVB2azhJWjNObU1hbnJ5eHdpdENMSkotY3dlYjZYaFhMN1pjZzB1eWhxS0ZDNUk?oc=5"
+    },
+    {
+      "title": "International ETFs Are Crushing VOO in 2026. Here Are 3 Worth Buying Now",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZWVJMWZlRjA0d1RVdW4zcU5LY0R1OEpjWGM5U2NHZENmWHNBQXg0dzh1VUxsM3VOUS15akoyRnczSm9iLVFzLVZaQ3Y2b2dCOF9JVzNucGpQX2tTRF8zRzdnMmdDX0l0RmtSN05yampIVldNeXIzOERLMWIxUThoTW4tWGJxOGM?oc=5"
+    },
+    {
+      "title": "5 Best Artificial Intelligence (AI) ETFs to Buy in 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzA2Wld0QkFFTkVjZGlIQ3JfdklNNS1SeUVIb21TMFlFZTc4ejB1UWZqN3FLT2FlWVhEeW5QOFM1STZCM0kxRE9lcERjRTY4ZjlDZFNLaVNiSDVZMDhMdjEwbUQ2WG9XeUZ5M2hBeENWaENUbE5tTE1tU2tBS0x5TV9Gak8wVUlMTmlqRl85SkQzSnJmMGd0T1JaelpWS3lvVWc?oc=5"
+    },
+    {
+      "title": "BlackRock's IBIT Bitcoin ETF Breaks 5-Week Record with $269.3 Million Inflow on April 9, 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock's Tactical Private Credit Fund (>$7B in assets) limits redemptions to 5% after $1.57B withdrawal requests in Q1 2026.",
+      "title": "Vanguard Funds Announces April 2026 Dividends Across 25 Bond ETFs; Vanguard U.S. Treasury 3-7 Year Bond UCITS ETF (USD) Distributing to Pay $0.268765 Per Share.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard Growth ETF (VUG) will be split 6:1, effective April 21, 2026, as part of Vanguard's plan to execute forward share splits for five equity index ETFs.",
+      "title": "SEC Proposes Inflation Adjustment to Qualified Client Thresholds: AUM Test to Increase to $1.4 Million, Net Worth Test to $2.7 Million Effective Mid-2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Nicholas Bitcoin and Treasuries AfterDark ETF launches on NYSE, capitalizing on Bitcoin's overnight price surge to $72,600.",
+      "title": "Morningstar to Introduce Medalist Rating Price Score in April 2026, Measuring Fee Impact from -2.5 to 2.5.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Morningstar's Medalist Rating system overhaul goes live globally in April 2026, including a new 'Price Score' ranging from -2.5 to 2.5 to reflect the impact of fund fees.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "BlackRock's IBIT Bitcoin ETF experiences a $269.3 million single-day inflow on April 9, 2026, the largest in five weeks.",
+      "title": "US-listed ETFs Witness Net Inflows of $97.3 Billion in March 2026, Bringing Total AUM to $13.1 Trillion.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
