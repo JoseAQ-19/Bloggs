@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-13T07:37:11.950600+00:00",
+  "scouted_at": "2026-04-13T07:38:20.106844+00:00",
   "total_candidates": 6,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos de bolsa española: ¿Por qué algunos cayeron un 20% en el primer trimestre de 2023?",
+      "title": "Fondos de bolsa española: ¿Por qué algunos pinchan en el primer trimestre de 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El fondo de ElEconomista.es se destaca con un impresionante 9,57% de rentabilidad en el primer trimestre: ¿Qué estrategias están detrás?",
+      "title": "El fondo de ElEconomista.es alcanza un impresionante 9,57% de rentabilidad en el primer trimestre: ¿cuáles son sus apuestas clave?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Trade Republic vs Sabadell: ¿Quién ofrece la mejor rentabilidad en 2026? Comparativa de tarifas y beneficios.",
+      "title": "Trade Republic vs Sabadell: ¿Quién te da más por tu dinero? Un análisis de comisiones en 2026 que no te puedes perder.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
