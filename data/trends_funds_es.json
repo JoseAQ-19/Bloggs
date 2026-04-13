@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-12T07:33:04.045777+00:00",
-  "total_candidates": 12,
+  "scouted_at": "2026-04-13T07:37:11.950600+00:00",
+  "total_candidates": 6,
   "topics": [
     {
       "rank": 1,
-      "title": "El fondo Artemis SmartGARP European Equity sorprende con un retorno del 57,14% en el último año: ¿qué lo hace destacar?",
+      "title": "Fondos de bolsa española: ¿Por qué algunos cayeron un 20% en el primer trimestre de 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa 2026: Trade Republic vs Sabadell, ¿quién ofrece mejores rendimientos por tu dinero?",
+      "title": "El fondo de ElEconomista.es se destaca con un impresionante 9,57% de rentabilidad en el primer trimestre: ¿Qué estrategias están detrás?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Mutuactivos y Stoneweg lanzan Mutuafondo Hospitality con una inversión de 300 millones en hoteles: ¿una oportunidad en el sur de Europa?",
+      "title": "Trade Republic vs Sabadell: ¿Quién ofrece la mejor rentabilidad en 2026? Comparativa de tarifas y beneficios.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,19 +49,24 @@
   },
   "all_headlines": [
     {
+      "title": "Los fondos de bolsa española que pinchan en el primer trimestre",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmFNQklzNjlValVjamE4ZHNHQ1ZxQ1QyYmxGWnNYeldxWlJyazBmLVJRREE0Y1VzZ3R1YnEwai1NOEVBM0FZMkM3QlRFMzhia3JYNUZyODdDMlFkT1VzUTZGay1tNG1VWnBDemlQV1RDTHJ3TFMta2J3S0FKY2ZpV3p2QzZWQVg0LVZN0gGQAUFVX3lxTE5BQWpwWFF1SjRhSEJuX2NDemFNUWQ1RW9NNk1CRjNwXzFlU25CXzYwUGpaeWpqLWVaN1pZWEtlWVY0YlAwc19DeHdCbmN3ZGxidkplOERaUEhQQU1SeTdYSFMxLXdITkF0dU9hOHRNZmJkaGtTcnFzbHZWWUNfeXBjMm16bW9lLUMxdXFMZmh3Rg?oc=5"
+    },
+    {
       "title": "El fondo con las ideas de inversión de ElEconomista.es logra una rentabilidad del 9,57% en el primer trimestre",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPTVZZdWVlZzc4azFBaER3Tkh2S1htaDlhbVM0WnB2SUIwMkpDLXdHaWhaRlNiMy1CVXJocnZJY1Q5UmVrZmRjT09DSDVlcUhPRkllam1xV3dmcnhJTjFCRWN2OHNTelBkMUhPTzlyMHVCd3RfOGt6WGNQTDlqTWxkNDRlbmdpUmNaaUEzVEdGeHIxc3Y0Nmp3VEJVR3dvWUt0cVJhRGM3R0JXY05jRlRrdVR5ZV9EWHdIQ3R0VExic1B0bEpOTWtnQWdzVkRCbGdkejI1cDJrX1VyNjZTTWQ2TDd6NlNKeTQ2Vm1PVHR0blJENGl4bEZjV09nVjkycG5YVEtDN0tFQ2VSajJZbjNkTUxQeUhBTnFYZ1FHOHRFVQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMVRLTGF6UDBpNGZIQ014R2J3amZyeXFXRmRmUzlBTUZxbUhGM2J6d29XQ0Zud2xlTjJDWW9ERElqQ1BMcjdETGR6T1FueEl2Q0tCbndXbVFXZlVUZ0JOVmQyUElKdmVsNmlCQjNDbGNkRG1ubGp0V0hDSURVOFg1X1p5amowVUxuZVZ5V2xXbDdIbGZUWkNaaGEwcXJGTDVuakdHMGc2Y0loUUh0bGhWbEx5SmNDOXlzZUw1WUpBMlRWb0NuOTlJc01kYUJ4UWRKNl9uVGZmQ1NtWC1IUlU1WE1nYzUwVE9BeEhKRlpqeUJWbVgxQ1FVVmlmY2E?oc=5"
     },
     {
-      "title": "5 ganadores y perdedores tras un trimestre difícil para los inversores",
+      "title": "Mejores brókers para invertir: comparativa 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSFBvbl9BNkJyNVVlOFk0S1dxbnRGQ1E5amI0aXpEZjBQMlAwVUZrXzJkVHJfRmRSQ2lBZXNzU0JfNWNESmNOTldKWHFMM0o5aW9fQTBtaFloRTV6dXd5X0F5cWpWQjAtU3pfVzB5R2tHOS1fbjNKMmE4bUdZdldaQ1ZOY25vUnBpTzVqZmlZbFQ0RFdpb3BpYkd1VC1KSW1qMlYzR3R4U3dmUlp6SG9kLVNn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWNHb3VNQnJ3UVNGUmJtZmVVSnBMd093MDNyeERXZTBYeDRJQ01VaGxFdWhFMVVCUHR4TFhWeDljbjBxb3gzLWJzUndiUW1VOXBNOEJEdnNDUVdJcFExbXFEamJHTlh6MHlIVGN5UmFKa2FSa3RrTWNucXRpb0lOYWFRQVZ0cXJzOGprVHUyYVFqS3Jib1M4?oc=5"
     },
     {
-      "title": "Santander revoluciona su banca privada y lanza en España tres iniciativas pioneras y replicables a nivel global",
+      "title": "Mejores cuentas de ahorro 2026 en España",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS0tXSEUydnI3dkxmZEpIaGRRaE9OQk9TZmJEckJZc1lwMjJMUGtSZ3pERy1POWI5YkhzNEVqdHMtb1pEcmdmVVlSeEUtNHpjM3hveFcyTk9zUm4wTDNtWEtCUDZxRTlIOUN6cEJpRTZQMDNlZWVpR3U5Nk9zZVdfTW9kZnYwZFVXcXM2YWJUcXROdXZwc0pMc21WSXBncDNnbnEzanl1MGxJLWlVVHJXWjRQdUgyR0ZhRXdTT2RpeFBDWHIyWE9ESmN5bF9EeU03elN3S0xNVTk4eHMwdGlnYW1Kc09zOUpiNmxsTVJpQzNPTWkwcVhRRlVtRnprdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNC0tTUNyMTdKTURYQkZjWUxWaTlQLVdPams1Q0x1aHM5T2xEV2R2TWRiZl8tc1pJaFl2SXlvVzFOaW1kYVRrTGlHby1oZUxEbXpMYjltTXRKcE9CRUlhNWZ0Z0lqdURHcjN2eDdwR004VmFfNDNfSzZMWjRoTVdwMU5wUQ?oc=5"
     },
     {
       "title": "Trade Republic vs Sabadell: ¿quién paga más por tu dinero? Comparativa 2026",
@@ -69,44 +74,9 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSkxOQnFXWTMyaTVSUFJQNkt6Q2VCTlVOMDA3MFQ1eUZSUGVENTB5dGNpM1BWY3NnXzljTE9CV2twWncwMnZoamFLcXRNaUw1QUFGck9FVmlUTmdWRVo0V3JjVXhxeWZuVXFqT2J4WWc5UjdCS3hteUxqOW1CcXhDODc1N3FscGRPSEV6djMwTGxqejFNZDVid2V1N1kwRXFmbmZrZVAxVTI2UlF3Q2pMY1VWZWZLVWlmQTBqeXFOSQ?oc=5"
     },
     {
-      "title": "Unicaja pagará un dividendo complementario de 0,107 euros por acción el 23 de abril",
+      "title": "Mejores cuentas conjuntas 2026 en España",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS3ZtTElWU3ljSE5YazdsRnk4ZmtVUHdvVTgxLWNsdEEzZ3ZJT1BRM2lCRmdpSWxCRmpnd2xZRy1sczQ3R1F4a19KSllkWTBBNUhTWmhDVVRxZWxKVjlOcEZESy1kOTNncWVWTFRfUTRwdlJKNjFlV3E3LUxYQ08yNE9XQjVrelVPUDRPTDM5czBXQXZ0V0QzZzNQWGtYMEh5YktIUlByM1Z1cEVCR0lUMllQclFYNk83VVZsM1NJSTR5Ni1FU2dGQ0wxaWFIcDk0RUYw?oc=5"
-    },
-    {
-      "title": "Renta 2025: las casillas clave que debes rellenar si eres inversor",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZkhjT182UFkxWHZOdV8xRzIwRUFKZVpYWks2dUJhcklicmU4X0RxWC10cnlhWXdxRVRqeFlIRElNc2N5MnU5QzhmMzJUdm1CaHVQR3RoaHQ5dzk4MDRoWTZ1UzBuWWk1TUxUN2FmQmFIbWJ5dVEtbmZBSW5CbEs0LUZDWUFnaUl0WHoya1RBRG5aWHJzNGFOVDlHekNWSE01UVNJcE9DVTdReWZ5akVOR2VoM2ZZak85?oc=5"
-    },
-    {
-      "title": "El fondo España Crece moviliza 23.000 millones de euros para construir 15.000 viviendas asequibles anualmente.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Mutuactivos y Stoneweg lanzan Mutuafondo Hospitality, FCR, con el objetivo de invertir 300 millones de euros en hoteles del sur de Europa.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Groupama Global Disruption, fondo destacado de abril, ofrece una rentabilidad anualizada a 3 años del 17,58%.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "MyInvestor lidera en comisiones bajas con un coste total de 0,43% anual en sus carteras automatizadas.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "ETFs europeos registran un inicio de año récord en 2026, con entradas de capital en renta variable que alcanzan los 41.000 millones de euros en febrero.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "El fondo Artemis SmartGARP European Equity lidera la rentabilidad en Europa con un retorno del 57,14% en el último año.",
-      "source": "gemini_grounding_finance",
-      "url": ""
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTJpbVBnY3l0ZzRzWmR2UWI3V1NjUy15Z1NIbFhPY04tRDJBakpGNS1uWndLclV1b2ZUMDRKNjVEVmVraWM0NUlzeEhCUmktVHByYUxCSEdKcGVPLTE4aFlqWlJyQzY5cFgzbHFSd0dNbDZ4ZjVBZlhxR2JkaWwyaEI3RWJnS1NjMGpwLQ?oc=5"
     }
   ]
 }
