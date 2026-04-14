@@ -568,5 +568,10 @@
         "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Food+Processing+Ingredients+Annual_Manila_Philippines_RP2026-0010.pdf",
         "https://www.sec.gov/Archives/edgar/data/1017616/000144586613001444/ex991.htm",
         "https://www.sec.gov/Archives/edgar/data/1632790/000119312519290513/d57622dex991.htm"
+    ],
+    "humanoid-robot-chases-wild-boars-in-hilarious-street-showdown-en": [
+        "https://par.nsf.gov/servlets/purl/10172439",
+        "https://ncbi.nlm.nih.gov/pmc/articles/PMC6953143/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5634469/"
     ]
 }
