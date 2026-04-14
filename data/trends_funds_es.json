@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-14T07:35:30.071956+00:00",
+  "scouted_at": "2026-04-14T07:36:53.556052+00:00",
   "total_candidates": 4,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos de bolsa española: ¿Cuáles son los que más han caído en el primer trimestre de 2023?",
+      "title": "Fondos de bolsa española: ¿Por qué el 75% de ellos fracasaron en el primer trimestre?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Rentabilidad del 9,57% en el primer trimestre: Descubre el fondo de ElEconomista.es que supera al mercado.",
+      "title": "Rentabilidad sorprendente: El fondo de ElEconomista.es alcanza un 9,57% en solo tres meses.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "TLT y VGLT: ¿Por qué estos fondos de bonos han perdido miles de millones mientras la deuda de EE. UU. se dispara?",
+      "title": "TLT y VGLT: ¿Qué significa la pérdida de miles de millones para la deuda de EE. UU. en $39 trillones?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
