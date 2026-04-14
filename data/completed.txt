@@ -789,3 +789,4 @@ funds: Morningstar’s Deeper Snowflake Integration Boosts Data-Driven Investmen
 ia: ¿Puede la IA transformar los datos en oportunidades para emprendedores en España y América Latina?
 ia: Project Glasswing: Revolutionizing Software Security for the AI Age
 tools: Horizon de Topia: La Plataforma de IA que Revoluciona la Movilidad Global
+tools: Score Big Savings: Amazon Slashes Prices on Craftsman Power Tools by Up to 41%
