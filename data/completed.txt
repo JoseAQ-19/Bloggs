@@ -793,3 +793,4 @@ tools: Score Big Savings: Amazon Slashes Prices on Craftsman Power Tools by Up t
 crypto: High Roller Technologies: ¿El nuevo gigante del mercado tras su acuerdo con Crypto.com?
 crypto: Deutsche Boerse Makes Waves with $200 Million Investment in Kraken
 crypto: SEC Breaks Ground with No-Action Position on Crypto Trading Interfaces
+youtube: YouTube sorprende al eliminar anuncios en picos de interacción en directo
