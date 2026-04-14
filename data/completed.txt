@@ -786,3 +786,4 @@ fitness: The Ultimate Smartwatch Showdown: Which One Survived My 30-Mile Test?
 funds: El 75% de los fondos de bolsa española fracasaron en el primer trimestre
 funds: Across Ventures and SBI Holdings Launch $100 Million Micro VC Fund-of-Funds
 funds: Morningstar’s Deeper Snowflake Integration Boosts Data-Driven Investment Strategy by 25%
+ia: ¿Puede la IA transformar los datos en oportunidades para emprendedores en España y América Latina?
