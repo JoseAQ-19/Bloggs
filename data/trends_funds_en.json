@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-14T07:40:26.488838+00:00",
+  "scouted_at": "2026-04-14T09:00:40.805184+00:00",
   "total_candidates": 21,
   "topics": [
     {
       "rank": 1,
-      "title": "Across Ventures Launches Strategic Alliance with SBI Holdings to Establish New Micro VC-Focused Fund-of-Funds",
-      "lang": "en",
-      "source": "google_news_finance"
-    },
-    {
-      "rank": 2,
       "title": "Will Morningstar’s (MORN) Deeper Snowflake Integration Redefine Its Data-Driven Investment Narrative?",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "BV Investment Partners Honored for Second Year In a Row By HEC-Paris Dow Jones",
+      "lang": "en",
+      "source": "google_news_finance"
+    },
+    {
+      "rank": 3,
+      "title": "Rapidus Opens Analysis Center and Rapidus Chiplet Solutions",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,11 +51,6 @@
   },
   "all_headlines": [
     {
-      "title": "Across Ventures Launches Strategic Alliance with SBI Holdings to Establish New Micro VC-Focused Fund-of-Funds",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVzNiUHhqZnd5alh6NkE0Wmh3TGJROHNTX2pEUWNwSzZUamt3MkY2WEZxQXJjWlltcHhjSlg3dVFPVDBuLUJ0UkZESElLWjhmRTJjdUFndHhBNDNNdWNmWHhLTjBxeVBScXlVX01EWHF0Vlo5WU1vZTNmVXhmbFN3Sy05RHRwak1oZ05mX0lhY3FMMXNaNGhxR25EREQxSFRqWFJqMzNMU0djZElmdm9YSjAwVzcwUXRJNEowTjI3OVVRNFFaekRhejFVS3RGN1lkTEl2VTd4c29ZRFVrQ1pxc3Y0aUZWVXlwTU9va21kcTJGZzJpdkNxV2xYc3kyMmFv?oc=5"
-    },
-    {
       "title": "Will Morningstar’s (MORN) Deeper Snowflake Integration Redefine Its Data-Driven Investment Narrative?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWXNYT0JGaERJb3E3c21HM3JBQnZuekMzQ1kxaFNzU2tyLXNZREU4Z1hiX3I2bFlGX2dURmZpRVNXSDd1X1VsOVlLdDE5dDlfYWxnMkxObWI5TEtkaGlfNW1kV1FCaWtvYjZ5N3BpRmhUX3lTd3RXMzlVUUN1bkUtbU1iaGh1dFVrMkc0VWdMLXZweFY4U2lwbWRDbnN1RVFwMEJjMUpnSjRKcGV5Uk9scUlyU19EYkhvXzNSVjJrV2ZBaEpZM1R6aHA3UWJCZUtid3RWSEtyRUhLb0M00gHiAUFVX3lxTFBKSmtRNE02eDZQZVFROGwxZ1hMUlBhVXVIR1JRWm1xM25hczRvdHJLNjF1X2ZKcFNENkZScG9Zdk03OWZ0eXNXR3g3S2FsbWxrS2VrOEx5dTdmWFo5ZjZmbDlIbkM5bjJwSFlwR1BOSTdrTEdZc29YZ01HWng2eS1kbVdCNDdNTlBTaEtvSndTY2tLMFE1OWFzdm9YMTRLOXBhR1RtRVNTMGR2dU94ZnZybVNKZ2dYckFUOGYzLUt0dnQxa1d4NVhuYnI4OWVzU2d3R0JRcnhvWW9WejQxaFpXU1E?oc=5"
@@ -86,9 +81,19 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdTItMThIaUhZdWlOYUplUmhKSmQ3MHowVmlKc0h6TkI5WWhiX2JHOEswZ1liX2d6dVdUVlFlTGJqWnJ3WWdCbmRYRDBydllhblpBUDBQTG5tbWROZ0ZqQUVhc3NVZnBDZnh4MUpTYkZDbENWOFAzcU1iVW45UVVsSWhLbl9leWlZcHM5RVJoOGlGdw?oc=5"
     },
     {
+      "title": "LVMH: Growth Remains Soft as Middle East War Weighs",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMWZucmFqNkszaWFWZHo1R0hsdjlBelEtZndWN3dMTVdiMjNNckpyYjlrNDBaZ1NiRERnVV9kREEyOVBoMWw5RzRWTTNXc1dmVnl1TzI5X1pHMGdCS0sxdlBfMUtFZTNqNWxnVDFsR1czMEFsVlNMd0pjWVhjVEF4RmluYW1OaTY0MlZ3eWo5Sjl3clUzQ2c?oc=5"
+    },
+    {
       "title": "Walker & Dunlop Deepens Affordable Equity Expertise with Jack Hodgkins and Stacie Nekus",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZmU2VnpKZWxicTV5TVFSZkVpcDl4UFhyNl80SVJjLUpUUkxkTEJfRlZyX1NEa2V3cEdCR3dDeEplTjY0T2pHa1ZteFA5dmZVR3h3R1RUY21GQ1h5VHpHdEtwWE52MEF3R00wN2N3bkdEX1dBMFpWbUFUcnNXNkNzUlVBNTFESGxmTzhERkRMZzR3LUFGd1NuU0VRQ21KUDRDMzlRdkRSU0JtYU52NHU0YmF1ZEQyeDhTM1pxUmVwT2ljNVZMWmtZanUxcWZ6cDRRejhIcU9PN3VnLXRBMTNPVQ?oc=5"
+    },
+    {
+      "title": "Here's Why Buying This Vanguard Index Fund Today Could Be the Best Financial Decision You Ever Make",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fd3ZMMjlyU3dBbC14QmlvMHFmRkFMR3haNGxFU05CelVHbXJIVnVScWtJcGRQVFlLM3dVQ1VlVEZESy1Qb0Fnelg5R0ZYSmM0WHRGc01RcHh5aDhnV3RWMVhDWnRHeTE1djQ2Q09LTlMtWWtFaWNMaENQbmdPQUE?oc=5"
     },
     {
       "title": "Magnificent Seven ETF Performance Review: High Returns & Recent Decline | 2026 Analysis",
@@ -101,19 +106,9 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IdmNhYUsyS3J1bmVMc1kxWHc2TENDSVFuQzRaNmZxZlFheXBqTDJxbXIzc0NhRFY4cVY3UndIOFV2eEhoQ25tVWg0MC1DcWtYbFhUc19ST3RSYUNtY3BaWF9HaDctazV2cEN3aTgtS00?oc=5"
     },
     {
-      "title": "Is Buying a Single Index ETF Smarter Than Picking Individual Stocks?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdEprQVMxc3cyUFZzbVRzdllWS1hjN21neHMxZVlpQWxjbFB2VDhwT3pIcS1Dc0lvSlBaZmltRWo3UUVES1Z1bDUtLXFTeWh6ZS1jdm5qdW5MYzBKX1RnV0lpNlRqcUQtTzlrSGlNcEdNaTFqLThuZ2hfalNSVVc4NQ?oc=5"
-    },
-    {
       "title": "Tradeweb Exchange-Traded Funds Update",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPajJ1UDdrOUN5OHF6d2J4Y3g4N1ZxU1hLSWZlUklrdEhiNE5paElnbndoRFBETUZVYWlZbTdoRy1uZ1ZjT3Nxc0RVNkhQdU5wLVgtcjBqTUFmZTlSNDJsNnctTkh4d0UyZzJ1ZEN5c0h5U0wzVjVkRUU0RlVNZ281eFRZZjBGWEhkS0JVY01fNnI4Ums?oc=5"
-    },
-    {
-      "title": "Tech Index Correction & Vanguard ETF's Top 4 Holdings in 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRFRXREZkQ3ZUNjZ2SVlzdVlsaWJIU2sxVUtsb3U4Y0ZaNDczNFlZTlN4MDRXQzdJTURiV3FSN3pvT1VlM2dFVnFMLVNXS1htODhnZHliZC1SZlRlOWlsMU9rbW5wSXJUU1ZaMWNZVGY1aWJZR2tZUmZjR2ZKWnRKQXhwRnY2UHFDcUx4T1I2UzI?oc=5"
     },
     {
       "title": "Beat the Market the Zacks Way: FirstEnergy, Seanergy Maritime, Amgen in Focus",
@@ -121,32 +116,37 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON1Z6TWs4bmlMMDZCdms0UUZkak51aWlMTk0zS281U2xCbGljYXI5ZzQzUDA2SzZrT1YxQldTcFNnazVtSlZKU1JTZnIwVG1yWlBTTWJrMm9JRkNvREQ4R2VPQ18zQ2s4Q0R1a3JNUldsb2pmWVVrbDdaUGczcjRlQTdkenZVZzE5ajNhX1hBMFVXOUlBN0RmSGdTSm5CWFhOSFJwTnVxcUpJZFdKc0ZkVm5WZFFQakY2NWNNUTJITkJ2cjFXb0YwRUZ3?oc=5"
     },
     {
-      "title": "The Best Performing International ETFs over the Last 10 Years",
+      "title": "Tech Index Correction & Vanguard ETF's Top 4 Holdings in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQek8tREp3NWpGU3ZrVGJSTHZ5ODdOZ001U1NGQ2FPR29LdDFtdDFHVG8ydjJ2c0Z4XzdGdXg4S25DRlhSLWNMRTV2Q19GdDd6bEVLSmhlWUhOcTRnb2QzLTladGM5SWdyQ1VOM2pOaU82QmhxYnNlSUdLajB0ZVpualdIT0x3cWdrRmJBY2stdmFIWEJCRV9Rb184NDk5bzZ3ZTFV?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRFRXREZkQ3ZUNjZ2SVlzdVlsaWJIU2sxVUtsb3U4Y0ZaNDczNFlZTlN4MDRXQzdJTURiV3FSN3pvT1VlM2dFVnFMLVNXS1htODhnZHliZC1SZlRlOWlsMU9rbW5wSXJUU1ZaMWNZVGY1aWJZR2tZUmZjR2ZKWnRKQXhwRnY2UHFDcUx4T1I2UzI?oc=5"
     },
     {
-      "title": "Vanguard U.S. Momentum Factor ETF (VFMO) Leads Vanguard ETFs with a 56.31% Gain Over the Past Year.",
+      "title": "Should you worry while investing in mutual fund with highest AUM? Expert suggests SIP tweak and strategy",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOd3hfaXYwdll5RHNiWm1ma0ZKbE9LZlFVcWxlM0JRWVBwSWdsZXBxQzZGWk8tVVhjeEVBMmhxcEp4b19hTy1mTmFtejRLWE5TVF85eVA4TG8xRC1qTEtOd1M2cHE5UjNhTkgtbl9fbjZiU29HY0RKeDVDakJvLUlnaUZxQ0tkQVFvUFAwbnVvTDVPakpMaVFxbUFoTXJNN0ExVldwbnhBVXJrRkxVYnJ3dm40QVJZT1Y4TTVUc3ZJM1Vya3lrMjBaNm1mOU1kZDBKTkk4YnhqeHc0cWhORW1xcmVHR09JYV9wOFFNVG41TmVjamZ1U2dVWFFZX0FPSGZOV3lR0gGDAkFVX3lxTE53eF9pdjB2WXlEc2JabWZrRkpsT0tmUVVxbGUzQlFZUHBJZ2xlcHFDNkZaTy1VWGN4RUEyaHFwSnhvX2FPLWZOYW16NEtYTlNUXzl5UDhMbzFELWpMS053UzZwcTlSM2FOSC1uX19uNmJTb0djREp4NUNqQm8tSWdpRnFDS2RBUW9QUDBudW9MNU9qSkxpUXFtQWhNck03QTFWV3BueEFVcmtGTFVicnd2bjRBUllPVjhNNVRzdkkzVXJreWsyMFo2bWY5TWRkMEpOSThieGp4dzRxaE5FbXFyZUdHT0lhX3A4UU1UbjVOZWNqZnVTZ1VYUVlfQU9IZk5XeVE?oc=5"
+    },
+    {
+      "title": "Vanguard Energy ETF (VDE) Climbs Over 40% YTD, Outperforming S&P 500 Amidst Middle East Tensions",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Aura ETFs Launches U.S. Defense ETF (DUTY) with a 0.45% Expense Ratio and Donates 10% of Management Fees to Veterans' Charities.",
+      "title": "Aura ETFs Launches U.S. Defense ETF (DUTY), Donating 10% of Management Fee Revenue to Veteran Charities; Gross Expense Ratio at 0.45%",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Morningstar's Medalist Rating Updates in April 2026 Include a New 'Fund Manager Success' Score and Transparent Input Data for Algorithms.",
+      "title": "Morgan Stanley Bitcoin Trust ETF (MSBT) Enters Market with Low Expense Ratio of 0.14%, Challenging IBIT's 0.25%",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Manulife John Hancock Launches Hedged Equity ETF (JHDG), Expanding ETF Platform to 19 Funds with Over $12 Billion AUM.",
+      "title": "Investment Company Institute Reports $32.09 Billion Outflows from Long-Term Mutual Funds for Week Ended April 1, 2026",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Total Estimated Outflows from Long-Term Mutual Funds Reach $32.09 Billion for the Week Ended April 1, 2026.",
+      "title": "SEC Proposes to Increase \"Qualified Client\" Threshold to $2.7 Million Net Worth or $1.4 Million AUM",
       "source": "gemini_grounding_finance",
       "url": ""
     }
