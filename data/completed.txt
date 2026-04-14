@@ -794,3 +794,4 @@ crypto: High Roller Technologies: ¿El nuevo gigante del mercado tras su acuerdo
 crypto: Deutsche Boerse Makes Waves with $200 Million Investment in Kraken
 crypto: SEC Breaks Ground with No-Action Position on Crypto Trading Interfaces
 youtube: YouTube sorprende al eliminar anuncios en picos de interacción en directo
+youtube: Iran Condemns YouTube Ban on Pro-Iranian Lego-Style AI Content
