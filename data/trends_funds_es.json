@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-13T07:38:20.106844+00:00",
-  "total_candidates": 6,
+  "scouted_at": "2026-04-14T07:35:30.071956+00:00",
+  "total_candidates": 4,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos de bolsa española: ¿Por qué algunos pinchan en el primer trimestre de 2023?",
+      "title": "Fondos de bolsa española: ¿Cuáles son los que más han caído en el primer trimestre de 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El fondo de ElEconomista.es alcanza un impresionante 9,57% de rentabilidad en el primer trimestre: ¿cuáles son sus apuestas clave?",
+      "title": "Rentabilidad del 9,57% en el primer trimestre: Descubre el fondo de ElEconomista.es que supera al mercado.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Trade Republic vs Sabadell: ¿Quién te da más por tu dinero? Un análisis de comisiones en 2026 que no te puedes perder.",
+      "title": "TLT y VGLT: ¿Por qué estos fondos de bonos han perdido miles de millones mientras la deuda de EE. UU. se dispara?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,6 +49,11 @@
   },
   "all_headlines": [
     {
+      "title": "Resumen de mercados: ¿Podría la Fed seguir bajando tipos en 2026?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU2E5aDBJYjEyR21DUlZjalo2NUU4NDJYMmtCUzRyUXFqUWFwcjdITTdCX05SdFItUFhvRzFNUGpjaVRRdlZ5MVV0NGpwUkZ6a2xFS1g1enVSd3E5UDZUbTE2cnJ1eGhoaU5hTTZWVFJLZEExcU9WSnFZYnlOcWNYU0lkb0NINjRYRDBGdVFfcnBfdkhDMGtkRzJlZlNmQkptZmcxMGVxTQ?oc=5"
+    },
+    {
       "title": "Los fondos de bolsa española que pinchan en el primer trimestre",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmFNQklzNjlValVjamE4ZHNHQ1ZxQ1QyYmxGWnNYeldxWlJyazBmLVJRREE0Y1VzZ3R1YnEwai1NOEVBM0FZMkM3QlRFMzhia3JYNUZyODdDMlFkT1VzUTZGay1tNG1VWnBDemlQV1RDTHJ3TFMta2J3S0FKY2ZpV3p2QzZWQVg0LVZN0gGQAUFVX3lxTE5BQWpwWFF1SjRhSEJuX2NDemFNUWQ1RW9NNk1CRjNwXzFlU25CXzYwUGpaeWpqLWVaN1pZWEtlWVY0YlAwc19DeHdCbmN3ZGxidkplOERaUEhQQU1SeTdYSFMxLXdITkF0dU9hOHRNZmJkaGtTcnFzbHZWWUNfeXBjMm16bW9lLUMxdXFMZmh3Rg?oc=5"
@@ -59,24 +64,9 @@
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMVRLTGF6UDBpNGZIQ014R2J3amZyeXFXRmRmUzlBTUZxbUhGM2J6d29XQ0Zud2xlTjJDWW9ERElqQ1BMcjdETGR6T1FueEl2Q0tCbndXbVFXZlVUZ0JOVmQyUElKdmVsNmlCQjNDbGNkRG1ubGp0V0hDSURVOFg1X1p5amowVUxuZVZ5V2xXbDdIbGZUWkNaaGEwcXJGTDVuakdHMGc2Y0loUUh0bGhWbEx5SmNDOXlzZUw1WUpBMlRWb0NuOTlJc01kYUJ4UWRKNl9uVGZmQ1NtWC1IUlU1WE1nYzUwVE9BeEhKRlpqeUJWbVgxQ1FVVmlmY2E?oc=5"
     },
     {
-      "title": "Mejores brókers para invertir: comparativa 2026",
+      "title": "TLT y VGLT pierden miles de millones mientras la deuda de EE. UU. se acerca a $39 trillion",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWNHb3VNQnJ3UVNGUmJtZmVVSnBMd093MDNyeERXZTBYeDRJQ01VaGxFdWhFMVVCUHR4TFhWeDljbjBxb3gzLWJzUndiUW1VOXBNOEJEdnNDUVdJcFExbXFEamJHTlh6MHlIVGN5UmFKa2FSa3RrTWNucXRpb0lOYWFRQVZ0cXJzOGprVHUyYVFqS3Jib1M4?oc=5"
-    },
-    {
-      "title": "Mejores cuentas de ahorro 2026 en España",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNC0tTUNyMTdKTURYQkZjWUxWaTlQLVdPams1Q0x1aHM5T2xEV2R2TWRiZl8tc1pJaFl2SXlvVzFOaW1kYVRrTGlHby1oZUxEbXpMYjltTXRKcE9CRUlhNWZ0Z0lqdURHcjN2eDdwR004VmFfNDNfSzZMWjRoTVdwMU5wUQ?oc=5"
-    },
-    {
-      "title": "Trade Republic vs Sabadell: ¿quién paga más por tu dinero? Comparativa 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSkxOQnFXWTMyaTVSUFJQNkt6Q2VCTlVOMDA3MFQ1eUZSUGVENTB5dGNpM1BWY3NnXzljTE9CV2twWncwMnZoamFLcXRNaUw1QUFGck9FVmlUTmdWRVo0V3JjVXhxeWZuVXFqT2J4WWc5UjdCS3hteUxqOW1CcXhDODc1N3FscGRPSEV6djMwTGxqejFNZDVid2V1N1kwRXFmbmZrZVAxVTI2UlF3Q2pMY1VWZWZLVWlmQTBqeXFOSQ?oc=5"
-    },
-    {
-      "title": "Mejores cuentas conjuntas 2026 en España",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTJpbVBnY3l0ZzRzWmR2UWI3V1NjUy15Z1NIbFhPY04tRDJBakpGNS1uWndLclV1b2ZUMDRKNjVEVmVraWM0NUlzeEhCUmktVHByYUxCSEdKcGVPLTE4aFlqWlJyQzY5cFgzbHFSd0dNbDZ4ZjVBZlhxR2JkaWwyaEI3RWJnS1NjMGpwLQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeFhGNzZpVHlIdG56X0NxWmtpZGw4ZmFBeExVYms0X0FTM1Buam5uZ2JKREVRXzd1bVMwOU00Z2Q3eEFSeVN1SmtYUDJOUl94Nl9ndjloVEtsXy1lZXJmTnE5bVJzenBiRnlyVEpOLUFNZUZnZlNFREhKcGpxTjgyY3pzZWRUTl9FZ0E0ZnhMb0s5Z0FDdG9TNGprVnhyYU42emFlSnRleE5rZDFRSG5la3hSWlFmQk9waGpqTHZ4d3J5WGtkdGRNdWhtS041bFVrTEE?oc=5"
     }
   ]
 }
