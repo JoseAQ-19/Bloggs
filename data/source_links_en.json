@@ -548,5 +548,10 @@
         "https://www.justice.gov/atr/case-document/file/494131/dl",
         "https://www.federalreserve.gov/supervisionreg/resolution-plans/deutsche-bank-1g-20251001.pdf",
         "https://www.cftc.gov/filings/orgrules/rules11032531968.pdf"
+    ],
+    "sec-breaks-ground-with-no-action-position-on-crypto-trading-interfaces-en": [
+        "https://www.sec.gov/newsroom/speeches-statements/gensler-statement-ats-041423",
+        "https://www.sec.gov/newsroom/speeches-statements/sec-cftc-project-crypto-090225",
+        "https://www.sec.gov/newsroom/press-releases/2025-110-sec-cftc-staff-issue-joint-statement-trading-certain-spot-crypto-asset-products"
     ]
 }
