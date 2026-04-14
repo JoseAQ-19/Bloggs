@@ -533,5 +533,10 @@
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC11841468/",
         "https://ncbi.nlm.nih.gov/pmc/articles/PMC6732081/pdf/cdt-09-04-379.pdf",
         "https://ncbi.nlm.nih.gov/pmc/articles/PMC9412437/pdf/sensors-22-06317.pdf"
+    ],
+    "project-glasswing-revolutionizing-software-security-for-the-ai-age-en": [
+        "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218A.ipd.pdf",
+        "https://www.cisa.gov/sites/default/files/2025-01/joint-guidance-closing-the-software-understanding-gap-508c.pdf",
+        "https://www.sandia.gov/app/uploads/sites/224/2025/09/The-National-Need-for-Software-Understanding-v1.0.pdf"
     ]
 }
