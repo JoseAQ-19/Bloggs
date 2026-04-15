@@ -804,3 +804,4 @@ funds: Fondos de renta variable en España que lograron un 15% de rendimiento en
 funds: Morningstar's Data-Driven Narrative Transformed by Snowflake Integration's 35% Enhanced Analytics
 funds: Morningstar’s Deeper Snowflake Integration Boosts Data Analysis by 30%
 ia: Bankinter lidera la revolución: el primer banco español que implementa IA generativa avanzada de Microsoft
+ia: Inside OpenAI's Battle Plan Against Competitors Like Anthropic
