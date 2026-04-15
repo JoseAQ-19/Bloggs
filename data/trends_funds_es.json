@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-14T07:36:53.556052+00:00",
-  "total_candidates": 4,
+  "scouted_at": "2026-04-15T07:35:55.600189+00:00",
+  "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos de bolsa española: ¿Por qué el 75% de ellos fracasaron en el primer trimestre?",
+      "title": "Fondos de bolsa española: ¿Cuáles son los 5 que han logrado un rendimiento superior al 15% en el primer trimestre?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Rentabilidad sorprendente: El fondo de ElEconomista.es alcanza un 9,57% en solo tres meses.",
+      "title": "Análisis de los fondos más rentables en 2025: ¿Qué gestoras nacionales superan el 20% de rentabilidad en renta variable?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "TLT y VGLT: ¿Qué significa la pérdida de miles de millones para la deuda de EE. UU. en $39 trillones?",
+      "title": "Los 7 valores del Ibex 35 con los múltiplos más bajos: ¿Son realmente una oportunidad en las \"Rebajas de enero\"?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,6 +49,16 @@
   },
   "all_headlines": [
     {
+      "title": "10 acciones americanas baratas con una amplia ventaja competitiva",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUThTaUpzVjE0bzRVSEJWVzUyUXBMYUtPOUpvUWxmblhVY3NxVDFjaW1VV08zZWdBZGxvNXhESnNaRkIxM25qaVhHbGg2eFZPUzIwM1U2Y1lUNUU4R3BqQzZQRkxWUjlpeDVCTGZvNHU1N1BOSmVSRDJJdGI0OElMWUE4VFZ6ZFRvUEE3WEFoNzdOanNUMnlCOXdBMTJ5eklGUVBUMFMwRnd5LU5H?oc=5"
+    },
+    {
+      "title": "Resultados de LVMH: crecimiento moderado por la guerra en Irán",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYmdIVDV4dlRJTDV5UGdFaENBTktQaDRvREZTaFMtUUFfcVdJZUE4N2hOUUc5MXFwNVVIRTY3Zm9yWFJ6T2FEQldVY2U5WVVNdHJ0ellNWHQ5R1NYd0dfdnItMlZHdWt5a3hrcWZwMmdPLUVSLTM4TmV6RG1pd3dQTkFDR0RLcFdsX0NyMHBhTzJaeUhnTnowRWVJcHc4Vng1NUtTUWZR?oc=5"
+    },
+    {
       "title": "Resumen de mercados: ¿Podría la Fed seguir bajando tipos en 2026?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU2E5aDBJYjEyR21DUlZjalo2NUU4NDJYMmtCUzRyUXFqUWFwcjdITTdCX05SdFItUFhvRzFNUGpjaVRRdlZ5MVV0NGpwUkZ6a2xFS1g1enVSd3E5UDZUbTE2cnJ1eGhoaU5hTTZWVFJLZEExcU9WSnFZYnlOcWNYU0lkb0NINjRYRDBGdVFfcnBfdkhDMGtkRzJlZlNmQkptZmcxMGVxTQ?oc=5"
@@ -59,9 +69,29 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmFNQklzNjlValVjamE4ZHNHQ1ZxQ1QyYmxGWnNYeldxWlJyazBmLVJRREE0Y1VzZ3R1YnEwai1NOEVBM0FZMkM3QlRFMzhia3JYNUZyODdDMlFkT1VzUTZGay1tNG1VWnBDemlQV1RDTHJ3TFMta2J3S0FKY2ZpV3p2QzZWQVg0LVZN0gGQAUFVX3lxTE5BQWpwWFF1SjRhSEJuX2NDemFNUWQ1RW9NNk1CRjNwXzFlU25CXzYwUGpaeWpqLWVaN1pZWEtlWVY0YlAwc19DeHdCbmN3ZGxidkplOERaUEhQQU1SeTdYSFMxLXdITkF0dU9hOHRNZmJkaGtTcnFzbHZWWUNfeXBjMm16bW9lLUMxdXFMZmh3Rg?oc=5"
     },
     {
-      "title": "El fondo con las ideas de inversión de ElEconomista.es logra una rentabilidad del 9,57% en el primer trimestre",
+      "title": "Los fondos más rentables en 2025 de renta variable España de nuestras gestoras nacionales",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMVRLTGF6UDBpNGZIQ014R2J3amZyeXFXRmRmUzlBTUZxbUhGM2J6d29XQ0Zud2xlTjJDWW9ERElqQ1BMcjdETGR6T1FueEl2Q0tCbndXbVFXZlVUZ0JOVmQyUElKdmVsNmlCQjNDbGNkRG1ubGp0V0hDSURVOFg1X1p5amowVUxuZVZ5V2xXbDdIbGZUWkNaaGEwcXJGTDVuakdHMGc2Y0loUUh0bGhWbEx5SmNDOXlzZUw1WUpBMlRWb0NuOTlJc01kYUJ4UWRKNl9uVGZmQ1NtWC1IUlU1WE1nYzUwVE9BeEhKRlpqeUJWbVgxQ1FVVmlmY2E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2VGV2ptcmFCa2J6Y2tJbU5GcUNqNjVSSFBfbmpnLUh3NXZYMFRGY0VDVVFELXE3Y0pPcHcyaEM3UmVBYldTNlp4X0JlVUdxSEFLUWEtaXlXeDV6aHZZbXlyU1lnNXhoMFdhdlZxYlN3dEdkVFEySndPSWNvYy1URkxGSktGdzF3LXZPd3J6Unl1emJfcUtIUE1lQy05QjRCbzZRYUF2SWljcFh0N0lJRW5GWTFkN3NMSXhXendKZUR5S3lkQ01YOFdTVWdOQdIBpAFBVV95cUxPVjlaWHlJbDhRQTA3dmNhODdpVXBFRFlSdGo5UWpnaWVZWkhxbk1Eb0dkMGFTb1F1eFRkcDV4a1F5NzRCTENMVEU5LWFheFdyNGtLV0hmSnV3eFFvSlNNazFxOVZJNjRQZFctZzNHbEVMY2ZLOUJBN3RVZnZlSWVoSGJPNnBtdXNxc01fZ1Fpa1hWY0tpMG9TQ2Rtc0tQTjlDQmdyYg?oc=5"
+    },
+    {
+      "title": "Fondos con menos comisiones en MyInvestor: los más baratos en 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTBNcTdjSFgxSkEtai11SXJXYnJPMjAxR0M3bW82SGdOQXloMk5KQWMzbldsd3dCTVB2TW00Q1g3NmFfcjhXbm5DWWxiTW52dTRnQ1g4cUVYanNhUzdnVnVVMEx4S0NLTktnWElJODRzQnhoNEdJZWlsVVF0VzB6a2xXUWh5SDEyX0lqeG9iQVJ4YzliQldmeUE5cm4xZkpUUm0wc0RROA?oc=5"
+    },
+    {
+      "title": "Los 7 valores del Ibex 35 más baratos por múltiplos para entrar en las \"Rebajas de enero\"",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNGExQjNHYUF1U1VQcUVSRFBaTGlkR1g2Z2JFV1RsLVgyakhZeGJsOHJ2ZDFvcHJtMVlZelA2ZGYyRlRPd3loeFluZGk1V2xNcDdmRnVseUdHNlUtMXRlV2R6Sld4aksxbW90ZjdoU1YtdjBqZzBscGo1OTFBX042NTZVeE5VUnI3OW1oeGt2SHlMdnhTZWxrT1RFbnhyTjhfU0dIQ1d5ODFUSHJ6TFZ5bVRvb3ZoS2hNN0JuVXBnM0RrTjhRZHdyZzVXeTEyYjZJYnhrMWhQZGhsRjhKWGZn0gGjAUFVX3lxTE1WQUhWXzJxY2ZVSDJkcGVhSF9HS1VuOUxfenh2UHdfRVY5WVdjVXhhTVZJMmNWc3lSd3dKYzZ1X2pHN084UnFCUWVYWXYtSmFOcmQtQ1dKM21xNjFheUxwbGxaeUxDdWM4MnJrWWxOQTdDXzJxTEFpbk1nZkxKTWdYUENpOFJwTzR4YlN4U2FWaUo4dm1NVnBrd1I2MDdVTVRpaTA?oc=5"
+    },
+    {
+      "title": "Los bróker esperan que las acciones de BBVA y Santander suban un 30%",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTU5tYTFsZmRFeWFzaFNEVlZDM2JwMTdjdEJWVXNJSEVVdEw4MzdVdHRqVjlTWWtqblN0dzNUb3lPT2xDd1ZyWDlVYkpTN3pLc3JPVVJtbHlaQkljRWRwV1AwNktlR1lhd0tGeWdyaWoyNlluWk9EY2NrSFFiMXFncDRDWWo2LVFOdVQtWWNveDZ1THRSYkQ0eTlzNjlZaG1ibFdFWldPSU1nWWlqRmNSTGdFczFLR0lMVDdEbHpnaVZzdWRQOE1rR3UyeTBNaDBkSFFCVFAwZ3hBbGdicXRrVUFvWdIBngFBVV95cUxNcFhTaXZ0U0VOa3AwY1EzdUZobGRjMTNLLXB6NExab1VZbzRkZDNSVm5RMklmYmN0MnBldVdjRHc5dEhkWWluWVBpX3Nla0laZUpfbWktVmRFa2ZNWmdzRTJrNkNUQlVNemZnNnVfYWdySTVDVkNVRFB1T1YxMGNtUzB6cEt3MGs0M2piOW9FVlNTUkJBVWFJaUtiazg5dw?oc=5"
+    },
+    {
+      "title": "URBAS espera alcanzar los 1.500 millones de facturación en 2028 y elevar el EBITDA a casi 250 millones",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUVJ6aHJFenZOSTc5eXZyZ2tDNUJnd0pocDJfa1ViQ3I4enczczVsLWpYVUdvUVVTODVESFl0N1BtVzc3V3JKZlRVUmJfNVdjVFFpYUZFV2V3M1R6cExidkVNWU9yN21jdWJjdlVRWDV3RlBjbDN5SldfYWVhZmYyNDhIZC1nWmZVMDZxcnVGeFE5TG9GMUJJM3dNYnZaaVptWkR4OVRzT0N6aVdyb19zVnRMQUZ5WXdabXhPbm1iMms3dUZKb2hoLWlIZkN4RlhU0gGqAUFVX3lxTE5YblNHTjBZTndVUVdpaG5ubU1JVXZkdDlIZTFDVTRWY2VSaXRhYVNkVG5jUHVRcmZGMjd5MjA2UUk2REp1WGJEbldybkVnSEl3OG9iZWhmNzEzUGpqS0ljV3pwazJRVkp3a1Jib3VXdWVSc2JCci13TTRCcG9ZY25yem9vR2JBY1Eyb0x0TUtpRWc5U0M0U0dncmtpWFlSTmxJZ1RZTWk0RVB3?oc=5"
     },
     {
       "title": "TLT y VGLT pierden miles de millones mientras la deuda de EE. UU. se acerca a $39 trillion",
