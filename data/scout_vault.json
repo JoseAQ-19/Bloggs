@@ -1021,5 +1021,10 @@
         "https://www.sec.gov/Archives/edgar/data/354950/000035495026000026/hd_exhibit991x02012026.htm",
         "https://www.sec.gov/Archives/edgar/data/354950/000035495025000238/hd_exhibit991x11022025.htm",
         "https://www.sec.gov/Archives/edgar/data/354950/000035495025000133/hd_exhibit991x05042025.htm"
+    ],
+    "custom-mcp-studio-design-en": [
+        "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=822091",
+        "https://www.nasa.gov/wp-content/uploads/2024/07/hpsc-white-paper-tmg-26jun2024-final.pdf?emrc=66904bca260a4",
+        "https://www.nist.gov/publications/changing-way-manufacturing-approach-realize-mass-customization-manufacturing"
     ]
 }

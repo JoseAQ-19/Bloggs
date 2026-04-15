@@ -806,3 +806,4 @@ funds: Morningstar’s Deeper Snowflake Integration Boosts Data Analysis by 30%
 ia: Bankinter lidera la revolución: el primer banco español que implementa IA generativa avanzada de Microsoft
 ia: Inside OpenAI's Battle Plan Against Competitors Like Anthropic
 tools: ¡Black Friday de primavera en Home Depot! Ahorra hasta un 72% en herramientas eléctricas de marcas líderes
+tools: Unveiling the Future: Build with Custom MCPs in Studio

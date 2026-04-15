@@ -583,5 +583,10 @@
         "https://www.justice.gov/atr/media/1397596/dl",
         "https://www.nist.gov/system/files/documents/2025/09/30/CAISI_Evaluation_of_DeepSeek_AI_Models.pdf",
         "https://www.justice.gov/atr/media/1361151/dl?inline="
+    ],
+    "custom-mcp-studio-design-en": [
+        "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=822091",
+        "https://www.nasa.gov/wp-content/uploads/2024/07/hpsc-white-paper-tmg-26jun2024-final.pdf?emrc=66904bca260a4",
+        "https://www.nist.gov/publications/changing-way-manufacturing-approach-realize-mass-customization-manufacturing"
     ]
 }
