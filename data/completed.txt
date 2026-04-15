@@ -809,3 +809,4 @@ tools: ¡Black Friday de primavera en Home Depot! Ahorra hasta un 72% en herrami
 tools: Unveiling the Future: Build with Custom MCPs in Studio
 crypto: ¿Podrán los ETFs de ingresos calmar la tormenta del bitcoin?
 crypto: Pakistan's Crypto Comeback: Banks Set to Support Licensed Providers After Seven-Year Ban
+crypto: The AI Threat to Crypto: Why Anthropic's Mythos Isn't the Real Concern
