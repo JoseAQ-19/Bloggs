@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-15T07:35:55.600189+00:00",
+  "scouted_at": "2026-04-15T07:37:13.683319+00:00",
   "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos de bolsa española: ¿Cuáles son los 5 que han logrado un rendimiento superior al 15% en el primer trimestre?",
+      "title": "Fondos de renta variable en España: ¿Cuáles lograron un rendimiento sorprendente del 15% en 2025?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis de los fondos más rentables en 2025: ¿Qué gestoras nacionales superan el 20% de rentabilidad en renta variable?",
+      "title": "Los 7 valores del Ibex 35 más baratos por múltiplos: ¿Dónde encontrar oportunidades en las \"Rebajas de enero\"?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Los 7 valores del Ibex 35 con los múltiplos más bajos: ¿Son realmente una oportunidad en las \"Rebajas de enero\"?",
+      "title": "Fondos con menos comisiones en MyInvestor: descubre los 5 más baratos que podrían revolucionar tus inversiones en 2026.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
