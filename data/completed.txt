@@ -803,3 +803,4 @@ fitness: Should Fitness Classes Be Mandatory? A Deep Dive into the Debate
 funds: Fondos de renta variable en España que lograron un 15% de rendimiento en 2025
 funds: Morningstar's Data-Driven Narrative Transformed by Snowflake Integration's 35% Enhanced Analytics
 funds: Morningstar’s Deeper Snowflake Integration Boosts Data Analysis by 30%
+ia: Bankinter lidera la revolución: el primer banco español que implementa IA generativa avanzada de Microsoft
