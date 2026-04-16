@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-16T07:35:15.279846+00:00",
+  "scouted_at": "2026-04-16T07:36:53.546352+00:00",
   "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Vale la pena invertir en ASML? Perspectivas prometedoras frente a una valoración de 500€ por acción",
+      "title": "ASML: ¿Vale la pena invertir en sus magníficas perspectivas a pesar de una valoración de 300€ por acción?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparamos 10 acciones americanas baratas: ¿quién tiene la mejor ventaja competitiva en 2026?",
+      "title": "Fondos en MyInvestor: descubre los 5 fondos más baratos con comisiones inferiores al 0,5% para 2026.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Fondos MyInvestor: descubre los 5 más baratos con comisiones inferiores al 0.5% para 2026",
+      "title": "TLT y VGLT: la sorprendente pérdida de miles de millones mientras la deuda de EE. UU. alcanza los $39 trillion.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
