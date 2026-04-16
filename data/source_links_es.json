@@ -407,5 +407,10 @@
         "https://www.sec.gov/cgi-bin/own-disp?CIK=0001981953&action=getowner&sortid=ownership-data-DESC",
         "https://www.sec.gov/cgi-bin/own-disp?CIK=0001981953&action=getowner&sortid=period-of-report-DESC",
         "https://www.sec.gov/cgi-bin/own-disp?CIK=0001981953&action=getowner&sortid=type-of-owner-DESC"
+    ],
+    "que-significa-la-nueva-stablecoin-de-circle-respaldada-por-el-yuan-para-el-futuro-de-las-criptomoned": [
+        "https://www.sec.gov/files/stablecoin_regulatory_framework.pdf",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/stablecoins-in-2025-developments-and-financial-stability-implications-20260408.html",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/banks-in-the-age-of-stablecoins-implications-for-deposits-credit-and-financial-intermediation-accessible-20251217.htm"
     ]
 }
