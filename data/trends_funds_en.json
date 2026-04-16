@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-15T09:01:57.426174+00:00",
-  "total_candidates": 18,
+  "scouted_at": "2026-04-16T07:38:58.139262+00:00",
+  "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "Will Morningstar’s (MORN) Deeper Snowflake Integration Redefine Its Data-Driven Investment Narrative?",
+      "title": "abrdn National Municipal Income Fund (VFL) Announces Removal of Non-Fundamental Investment Policy Restricting Investments in High-Yield Municipal Securities",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Tudor Investment Corp ET AL Reduces Position in Morningstar, Inc. $MORN",
+      "title": "5WPR Publishes First-Ever Fortune 500 PR Spend Analysis",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Egan-Jones Releases April 2026 CLO Market Summary",
+      "title": "Wakely Analysis Signals Significant Enrollment Shifts in ACA Individual Market as 2026 Unfolds",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -27,19 +27,19 @@
     "key_phrases": {
       "full list": 20,
       "fund class": 19,
-      "small cap": 7,
       "list aam": 4,
       "aam high": 4,
       "high dividend": 4,
       "dividend value": 4,
       "etfabacus fcf": 4,
       "etfalps shares": 4,
+      "small cap": 4,
+      "cap value": 4,
+      "value fund": 4,
       "emerging markets": 3,
       "markets china": 3,
       "china fund": 3,
-      "funds growth": 3,
-      "growth portfolio": 3,
-      "portfolio class": 3
+      "funds growth": 3
     },
     "competitors_with_disclaimers": 2,
     "sample_styles": {
@@ -51,19 +51,24 @@
   },
   "all_headlines": [
     {
+      "title": "abrdn National Municipal Income Fund (VFL) Announces Removal of Non-Fundamental Investment Policy Restricting Investments in High-Yield Municipal Securities",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNWVc2NkJGUklhQXRUWlRPRklJX1hxd1BNVnlSbEtEX19tNkRXVmhFVHc3dHFfRWxwSkE4bTRyVTExMnNIS212b3c1YUhlVUdmRWJ5Ujd0OWVUZ01LM3VDdEowbEtJeThPV3VHM3BLMlNsNXNUZENfWE1mNktmZVNILUpIZjlGb1JfSmJ4Q3VFRWxpZEVoMmxyNDZ5S3FGTTd6OXE2ZTVoTTJkY1Iyb3NjdmhuZk1WM01zaVpaZ0txQnZnT0R0bVktdjdpVUVVVkpicHNhWHQwd0pVQUhWVk9fNWtxS0xLM1JTRkw1RVlOMVA4VjdTNGZTa3RGMG1uQnNVU2dFLTR1VU1GT0l5Q1ByMW1wUHVuSE52Qm1yemNydFhkenNUNDU3a28zLU9pUVBQTUc2ZVF0UXk5bjA?oc=5"
+    },
+    {
+      "title": "5WPR Publishes First-Ever Fortune 500 PR Spend Analysis",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeGF3N0lSNm92QVh0UUZ5YjA0ai03OS1OR2hVbnNnTmF6eFlESHc2QUVVZjdyZUdPV29ILUZ2Vml2aEwwbWdWVTgweW5FYXV5blFlWVhobFFkdGhqbDNUUWNXMHY5OFlMbUFPb3k2Ymk2OU9aNk9SYTVydlJCU3NHQWNWU0Y4dW00bk9SR1RFUUVFUWRQV1ltUHBsVkZZYjAzM1ZFblNFR0M0M200NGViUVJQbmZRRW8?oc=5"
+    },
+    {
+      "title": "Wakely Analysis Signals Significant Enrollment Shifts in ACA Individual Market as 2026 Unfolds",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZXFxcUNJS1Q3Y21MTDRtQmxkdFhZaWgwWFE3WWZPX09YT25FSlhTR21MRk9ZZTQ1V1NQR05nZThrLVlBb2gzM1dlaUVtc092NFF5Yk5FQnNTeFZLZTRIZ2lrZWJzSHRMNklaMGpfdVBMOWJjVDlMdXBLYV9xT0FHX1Z0Q0hZb2d4enBDeEVqNEtyMGtsSmVTOWxfOF9lSVI4UUI3QmlhX0hKeG9HaTNqZXdzUEZZV3E3ZnQ4SUpDRUJPU0RoenFTM1J0ZGtPVE1XLUhuYjBmYzFEVTZqSGc1T0hPNzVCbHJmb1VN?oc=5"
+    },
+    {
       "title": "Will Morningstar’s (MORN) Deeper Snowflake Integration Redefine Its Data-Driven Investment Narrative?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWXNYT0JGaERJb3E3c21HM3JBQnZuekMzQ1kxaFNzU2tyLXNZREU4Z1hiX3I2bFlGX2dURmZpRVNXSDd1X1VsOVlLdDE5dDlfYWxnMkxObWI5TEtkaGlfNW1kV1FCaWtvYjZ5N3BpRmhUX3lTd3RXMzlVUUN1bkUtbU1iaGh1dFVrMkc0VWdMLXZweFY4U2lwbWRDbnN1RVFwMEJjMUpnSjRKcGV5Uk9scUlyU19EYkhvXzNSVjJrV2ZBaEpZM1R6aHA3UWJCZUtid3RWSEtyRUhLb0M00gHiAUFVX3lxTFBKSmtRNE02eDZQZVFROGwxZ1hMUlBhVXVIR1JRWm1xM25hczRvdHJLNjF1X2ZKcFNENkZScG9Zdk03OWZ0eXNXR3g3S2FsbWxrS2VrOEx5dTdmWFo5ZjZmbDlIbkM5bjJwSFlwR1BOSTdrTEdZc29YZ01HWng2eS1kbVdCNDdNTlBTaEtvSndTY2tLMFE1OWFzdm9YMTRLOXBhR1RtRVNTMGR2dU94ZnZybVNKZ2dYckFUOGYzLUt0dnQxa1d4NVhuYnI4OWVzU2d3R0JRcnhvWW9WejQxaFpXU1E?oc=5"
-    },
-    {
-      "title": "Tudor Investment Corp ET AL Reduces Position in Morningstar, Inc. $MORN",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMkM2T3VZV0pPMl9DVjlCTTd4T2pjYzRFWEl1Yk01UXgyY1ZwOTllNjRuTlMxYThsZFViRmRRWTJ2Q3h4OU9Ialk1RWVhTld3ZzJmQ1NJcTFBeXcyNEYtU0RJQzd2NkRHUEhueWFqU2E0THpfNHNjZ0VZcHA2Nk5MRkxxS0MtU3dQZkVQenhETnQ3N2FQbHBLV3RvVWNINXhWMTNPVDFibHVMb0xoRVpzWUhHaXlTVmJ3dFV4U2luX1o2UTc5QXA4RQ?oc=5"
-    },
-    {
-      "title": "Egan-Jones Releases April 2026 CLO Market Summary",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMzBhRndIY1g5cWkzUzhZNFl6SFdnaG9za0owS1YyWl9ScEdWRkhTWVZHaXZkYWpUb0NoTjEtVkhCempqSDJyQTFLX1NtcU9jaEVOMjF6c0tIYnU3VlN1S21ROWd4cW92UVNfdTllZk44dmdPVVhEcUI4Tmx4LVhjc0FKWFZoRlM3SU1TZEpVdGYzbGJsbXpNUlh2TnpYUmR0ZExBZzBJcm9fNmVlT0ow?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSkprUTRNNng2UGVRUThsMWdYTFJQYVV1SEdSUVptcTNuYXM0b3RySzYxdV9mSnBTRDZGUnBvWXZNNzlmdHlzV0d4N0thbG1sa0tlazhMeXU3ZlhaOWY2Zmw5SG5DOW4ycEhZcEdQTkk3a0xHWXNvWGdNR1p4NnktZG1XQjQ3TU5QU2hLb0p3U2NrSzBRNTlhc3ZvWDE0SzlwYUdUbUVTUzBkdnVPeGZ2cm1TSmdnWHJBVDhmMy1LdHZ0MWtXeDVYbmJyODllc1Nnd0dCUXJ4b1lvVno0MWhaV1NR0gHiAUFVX3lxTFBKSmtRNE02eDZQZVFROGwxZ1hMUlBhVXVIR1JRWm1xM25hczRvdHJLNjF1X2ZKcFNENkZScG9Zdk03OWZ0eXNXR3g3S2FsbWxrS2VrOEx5dTdmWFo5ZjZmbDlIbkM5bjJwSFlwR1BOSTdrTEdZc29YZ01HWng2eS1kbVdCNDdNTlBTaEtvSndTY2tLMFE1OWFzdm9YMTRLOXBhR1RtRVNTMGR2dU94ZnZybVNKZ2dYckFUOGYzLUt0dnQxa1d4NVhuYnI4OWVzU2d3R0JRcnhvWW9WejQxaFpXU1E?oc=5"
     },
     {
       "title": "Morningstar downgrades $547m T. Rowe Latin America fund following PM retirement",
@@ -71,14 +76,39 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWnlnczIxZVI2ZEZ1TDEza05ORXRIdzctZGRPOHVYWXZyb0VMeXR0bnpWb3o4OEI3R3pfRG53M25TMlNwT3NYMXZtWk9IWk81OUo3Y0VWR3Z6QUR1MF9FRHdPaV9waDY1RWNfU1JEMHE1QjYyUGhmNEstd0ZsU05JOTEyXzhoMUdyV0RrM01GNTJQbEN6NmVmQ09KVUt4T00tOGZqam1BNGRGVm9zdWJpdjdhdXh0ekROaWgyVGFvdw?oc=5"
     },
     {
-      "title": "Gabelli ABC Fund Awarded Four Stars by Morningstar™",
+      "title": "Egan-Jones Appoints Sylvain Raynes, Ph.D., to Lead Structured Finance",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdTItMThIaUhZdWlOYUplUmhKSmQ3MHowVmlKc0h6TkI5WWhiX2JHOEswZ1liX2d6dVdUVlFlTGJqWnJ3WWdCbmRYRDBydllhblpBUDBQTG5tbWROZ0ZqQUVhc3NVZnBDZnh4MUpTYkZDbENWOFAzcU1iVW45UVVsSWhLbl9leWlZcHM5RVJoOGlGdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcHJweEk5cGR5OWlHLTFyNG4xZFJrRzVFaVB3UWF2QS1lbGtEbWgwQUtoekJQc1Y2VDBQVzZGQWUwTTRJWU94ekxjT1VUUG43UGFJdU1MbDY1WENQT0NHVXRBa1VtV0pVbWNvVkluT05FTFU4cnpOUzBybXRsZFA4ZzdCZFdfa3YwOFoxU1gtZFc0cEJYOW1uMHFfakgzaW0zWTAzZzNkdUUyeGpYbmI2NnNjVDFlT0pJU2JEUmR1YTQzMFV3?oc=5"
     },
     {
-      "title": "This Large-Cap US Stock Index Fund Has High Standards and a Low Fee",
+      "title": "abrdn National Municipal Income Fund (VFL) Announces Adjournment of Special Shareholder Meeting Relating to Proposed Reorganization",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRGxZS3ZfOWtGMzM4MUtuNHE1ck1uSFBObzM2NGN3ZTlXcktWRDRfeFNfaGlGNG1tZ3MzN1Z1bVJKdkZRMTVkTjU2cjRES2pGa2VtR0JjYWUzVzBQZG5nZ3FWektNM3Y1cFVZblFwT0xGcmhHNEJpTDhVREFBd0ZJSjcyQmNYcTZHTUY1ZjVidkRTbDloUWlyYk5XSl9Wa1JVeHE1a2Z3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQZDEyeTFaMTdCVlk2Sl9FWktPYy03WC10T1RheEVfMkpxczVmVDFnYVZ5R3VudTRLODliZC1rNGQtOElNREdsZ3VZUEhva0JnVFFZck9ndVdzWkJRWmJ6Um41ZFNlY3BEdUx6d1k1UVJHSWk4ZkgwalRxd1M1NzZFYUQxSzJLWDAyczMzd2lWWHNONVM0ck1FdDd4VlV1UVRvdERGZzUxWGxuc0QyVkEyUEg4dlRzVjFSc0NDUFdIN3pjVnpiYUFVZXlUZjloRlBaVDRSSHNwNmxBSkN3d25QVlVTM0RudEZEOTN0SkI4RllNVlVXbWNpWVhzeVpDa0h0Rk9WblZXLW9uSV8yZUw2SVl6eWVIVXUwNGc?oc=5"
+    },
+    {
+      "title": "10 Best Low-Cost Index Funds to Buy in 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tc3VqOExlUkJfZmtlS2l0cFdIdThWblVTOEV5dEp3MWhQUzNHbXlHSEZQTktFcHloWUg0c0w0TVp4LW44dF9oZGl6SFRGUFJ3Y1BDNGpfalJvVmo2YjQ0M0hzbmlieFYyVm5CRkNRMWEwZ1dGeDE3TQ?oc=5"
+    },
+    {
+      "title": "3 Great International Dividend ETFs for 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JM0JXQWZnOXlQWTlrUWNWRDg5SWpIN0V2R29ValBYYXRnaFhraVIxZ0ZVcmJ3UWFFMjNST1FOa0dsVjZsMUZlTTBuZmVFUUNHLVJPVXUtcGI5N1lfMVhkeWxkMEVwaXBhbElTbFNOWXg4RTZCYjRqd2VpbHdwVUU?oc=5"
+    },
+    {
+      "title": "Xtrackers AI ETF Review: Performance, Fees & Viability in 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaGxSVm4zemlLaGVzeEZWbTgzWml3QmU2OTRGR1lXb1Z1NnRqMlpGOEJ3MFdSc3NQemFjX3VOSk93dXNUQlMzaUxianRZLXJ6RXdTSmF5UE8yVHU2VDU4TVJkYlR0cm9zczI2SVRFX2xvejJXZE9xd3B5Mkw1cUgwSXpuMzRfTFdaUkI0YnZDUEY0aWF4REJ5Yg?oc=5"
+    },
+    {
+      "title": "Top Performing Leveraged/Inverse ETFs: 04/12/2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObzhsbmN1ck9aUDQyUW00SGgyRUVPblEwX296QW1kTVcyM3JuV1NMZm5jNGJZTzhKYmpFaXkzLUlpOEQ2ZElIV3hrN0RJUnFlejZONkQzeGJSXzZRbWRvOTZ6VWR2TzFpQ09jTENvQXBJUEtlb3ozeXdabzlHT21DZklIMHo0cFJnNlV3U2JuT0dZM0Q2MjN6TnE5c1R2NTktN0xqQXhZS0xXSVhiVHfSAa4BQVVfeXFMTm84bG5jdXJPWlA0MlFtNEhoMkVFT25RMF9vekFtZE1XMjNybldTTGZuYzRiWU84SmJqRWl5My1JaThENmRJSFd4azdESVJxZXo2TjZEM3hiUl82UW1kbzk2elVkdk8xaUNPY0xDb0FwSVBLZW96M3l3Wm85R09tQ2ZJSDB6NHBSZzZVd1Nibk9HWTNENjIzek5xOXNUdjU5LTdMakF4WUtMV0lYYlR3?oc=5"
+    },
+    {
+      "title": "Here's Why Buying This Vanguard Index Fund Today Could Be the Best Financial Decision You Ever Make",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fd3ZMMjlyU3dBbC14QmlvMHFmRkFMR3haNGxFU05CelVHbXJIVnVScWtJcGRQVFlLM3dVQ1VlVEZESy1Qb0Fnelg5R0ZYSmM0WHRGc01RcHh5aDhnV3RWMVhDWnRHeTE1djQ2Q09LTlMtWWtFaWNMaENQbmdPQUE?oc=5"
     },
     {
       "title": "How Warren Buffett's 90/10 Rule Simplifies Investing for Average Investors",
@@ -86,57 +116,37 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1YzdEl5cWhxSkFYVWQzNEJCNEdlclBDMXZUanRMbmV1aGRKaUFSMUlrV0Jnam9XQUlMUUNNLXhidXBlcEQ0ZDJJd2FrelprT082WlNTcDhPTktvTUN5bV84aDBYbVZlazFUd29nOEVNTENIYS1KZC1wNlNxZkdPNEI1YVpHNGRQNFIzc2NpeHpRQjNUMkJVbHJUT3VOTmVuVXh6c0JQd3M3eHR4Q1htbWpB?oc=5"
     },
     {
-      "title": "Software Stocks Quietly Sold Off – Snap Up This Undervalued Tech ETF",
+      "title": "Strategy Nears 1M BTC Milestone",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaV83aW80WW1rSTIxaDFsSy1LczdIcWNQeFhESnVrZDBNZVN6V3VNYTFsMHFxSGY4enI5c0dBVkI5QlRFczdmZ1lsT2pOMmNGaDF6dkJnaGRZM25odWoxTnhrT05RMVk3S3pUQ19naGNRZE96a3Btb0I4REZ2NThTeEpqVHh3YnJHNFVPaFlTMF8zZ25UcjdBSXNXSHJzQ3hyVTFFaEtXQ3gtWHhLN0t3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5"
     },
     {
-      "title": "Best Rare Earth Stocks to Buy Now April 2026",
+      "title": "3 Top-Performing Canadian Stock ETFs",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kb3JyUVVPQUU2Z1ZLN2xScXE0SldVZTNHSW5kYldwTmR2QnlEN3B1aTZkREE2VGNfMW9reDRUODNFY2ZkQU9lT1JHRTRTTWlTcmlFYkZ0RzhDQnRkeVk1RFBHYWdaRDZkeFZTNXZhWXFxdGhB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGdxZ0o1RllLdTdZWWFwVkRPNGtrYU5KYXp4QTlyczZPSmtEZTNMaEcxX0FGNUJWQ0Y2enU5RHF0Y084QTlSWC1FeVBiVnp1UVF5WDRhZlY3V0VjMVNZblp5OENma0pHNEl5Rm5kRnNySU43OFZiZUx5YWRvSC1LbFd4RU8?oc=5"
     },
     {
-      "title": "Tech Index Correction & Vanguard ETF's Top 4 Holdings in 2026",
+      "title": "10 Best Low-Cost Index Funds to Buy in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRFRXREZkQ3ZUNjZ2SVlzdVlsaWJIU2sxVUtsb3U4Y0ZaNDczNFlZTlN4MDRXQzdJTURiV3FSN3pvT1VlM2dFVnFMLVNXS1htODhnZHliZC1SZlRlOWlsMU9rbW5wSXJUU1ZaMWNZVGY1aWJZR2tZUmZjR2ZKWnRKQXhwRnY2UHFDcUx4T1I2UzI?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tc3VqOExlUkJfZmtlS2l0cFdIdThWblVTOEV5dEp3MWhQUzNHbXlHSEZQTktFcHloWUg0c0w0TVp4LW44dF9oZGl6SFRGUFJ3Y1BDNGpfalJvVmo2YjQ0M0hzbmlieFYyVm5CRkNRMWEwZ1dGeDE3TQ?oc=5"
     },
     {
-      "title": "Best Energy Stocks for 2026 and How to Invest",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4dUpSeHdMcVY4cnJubW5KSl9yTjJtVGM1SG5XSVJ2UERLbU9oY2pNelpRQ2VRNF9wZFRRajRaWXhQS1VuQzA5RDZHMkgzZlhKbzdWWWVvR0tUem95bjR3SW9HMGRicW5tMDNDbThLQ1JtOWpD?oc=5"
-    },
-    {
-      "title": "World Markets Watchlist: April 13, 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUjZEbTc2WVY4WTBlYjBZSWpUU2IyQmhNcWJ2WmU5QzNhVWFmN2d5Y2JSak1tVWQ3cXJSbmZCMEdYQ2x5RmljWHRqVTE0SUJlLUhNUnNILUNsVkZlc0hIMWNpcVNzSUNZTFE2WHpUZk82T3JOeUVFWkVFZ2JBcXdKanlnYmR3TVRYcXJ3c282VFVzaW9oZV9iM2Q4dXN2dkk1?oc=5"
-    },
-    {
-      "title": "Vanguard Energy ETF (VDE) surges over 40% YTD, fueled by Middle East tensions, outperforming the S&P 500.",
+      "title": "Vanguard Energy ETF (VDE) Soars 30% YTD Amid Middle East Tensions, Outperforming Vanguard S&P 500 ETF.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock's iShares reports record Q1 net inflows of $132 billion, doubling net new base fees year-over-year.",
+      "title": "BlackRock's iShares Records $132B Net Inflows in Q1 2026, Active ETF Platform Draws $19B Globally.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard cuts expense ratios on 84 mutual fund and ETF share classes across 53 funds, saving investors nearly $250 million in 2026.",
+      "title": "Global X Launches Space Tech ETF (ORBX) with 0.50% Expense Ratio, Targeting $1 Trillion Space Economy.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Total estimated outflows from long-term mutual funds hit $32.09 billion for the week ending April 1, 2026, while ETFs saw net issuance of $21.33 billion.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "SEC approves Dimensional Fund Advisors and 29 other firms to offer ETF share classes for existing mutual funds, expanding tax-efficient options.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "The IMF lowers 2026 growth forecast for emerging market economies to 3.9% due to geopolitical tensions and energy cost fluctuations.",
+      "title": "Fidelity 500 Index Fund (FXAIX) Shows 1-Year Return of +16.33% and Receives 4-Star Morningstar Rating.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
