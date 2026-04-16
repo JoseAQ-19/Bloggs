@@ -1109,5 +1109,14 @@
         "https://www.sec.gov/cgi-bin/own-disp?CIK=0001981953&action=getowner&sortid=ownership-data-DESC",
         "https://www.sec.gov/cgi-bin/own-disp?CIK=0001981953&action=getowner&sortid=period-of-report-DESC",
         "https://www.sec.gov/cgi-bin/own-disp?CIK=0001981953&action=getowner&sortid=type-of-owner-DESC"
+    ],
+    "ai-histopathology-cancer-recurrence-technical-analysis-en": [
+        "https://www.business.reddit.com/blog/reddit-in-hubspot",
+        "https://nist.gov/news-events/news/2024/09/spotlight-game-changing-microscopy-technique-identifying-cancerous-cells",
+        "https://www.osti.gov/servlets/purl/2573117",
+        "https://par.nsf.gov/biblio/10631898-critical-assessment-artificial-intelligence-magnetic-resonance-imaging-cancer",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3F0ZXczelhPRUZKOGZzVnlSVHJrclFCbnBWRDRaRmJlQzg2NUJpR0g2T09JYUsxbjBiUEhpUDRZYjNQcEZ5NEVxaWZ6VVFBYk5yeTdvOEdOc3g2Z284eVZzaE1FVWZfa3hBRGtmeFVYQVFneWdXeEJUVnNpRGN6RVI0bFJLZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMU1UZ2xHVVpVS0E4STBpWmg1aTFFdkVHMEF2Vkp1SUs4clVjUzc3RFYzT3lTUnV4OXpkVVRpbkFDOWtVREtQbEJQRUhhcWNnNEZ4R3EtMHBQUHR6QnpZ?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3BzdTVCdkRIM3F2dTA4OVVJMXRkdmtNVEJMRUg5aEx4V0NneUNxZzBUYTYxTHZYdngtTWtELWphcHhkc2lfN2U4M0lDMWhqZ1owWnktZmJ6TUJNOGlwSTBlb192NjItMnNRUTZNRzE4d2MwVkNuUzh3X0FLSWo0SWUzcGZyZmtqZ2JkSA?oc=5"
     ]
 }
