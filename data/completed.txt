@@ -820,3 +820,4 @@ funds: ASML: Valoración de 300€ por acción, pero con proyecciones de crecimi
 funds: abrdn National Municipal Income Fund (VFL) Removes Policy on High-Yield Securities
 funds: abrdn National Municipal Income Fund (VFL) Lifts Investment Restrictions on High-Yield Securities
 ia: El arte de lo auténtico: ¿Puede el art brut resistir la invasión de la IA generativa?
+ia: Storm Devastation: Dunlap's Battle Against Heavy Hail Damage
