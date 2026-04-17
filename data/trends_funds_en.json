@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-17T09:00:26.461731+00:00",
+  "scouted_at": "2026-04-17T09:01:44.238250+00:00",
   "total_candidates": 23,
   "topics": [
     {
@@ -136,17 +136,17 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPekJaS2FFRmZOdmJfekl1Vkt4eFg4bEVYS2E3eVJVcldPdml2d0Ffa01RSzZXMTJ0VXp2LVBzRTdxZEszYkF5dk1maVdjVDlzNXZNTE9Yd05sRi1HS3FHWmo2N3J2ek82OS11T2VKUGdxTWJNa1h1M2J6WENoQzdMRTBvUQ?oc=5"
     },
     {
-      "title": "Vanguard Launches Vanguard Developed Markets ex-US Value Index ETF (VDV) and Vanguard Developed Markets ex-US Growth Index ETF (VDG), both with an expense ratio of 0.08%.",
+      "title": "Vanguard Launches Vanguard Developed Markets ex-US Value Index ETF (VDV) and Vanguard Developed Markets ex-US Growth Index ETF (VDG) with an expense ratio of 0.08%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Morningstar's updated Medalist Rating methodology goes live globally in April 2026, featuring a new 'Fund Manager Success' score and Medalist Rating Price Score.",
+      "title": "Morningstar's updated Medalist Rating methodology goes live in April 2026, featuring a new 'Fund Manager Success' score and Medalist Rating Price Score.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard U.S. Momentum Factor ETF (VFMO) is up 56.31% over the past year, making it the best-performing Vanguard ETF.",
+      "title": "Vanguard U.S. Momentum Factor ETF (VFMO) is up 56.31% as of April 2026, making it the best-performing Vanguard ETF over the past year.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
