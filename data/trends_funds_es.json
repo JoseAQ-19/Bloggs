@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-16T07:36:53.546352+00:00",
-  "total_candidates": 9,
+  "scouted_at": "2026-04-17T07:35:32.810826+00:00",
+  "total_candidates": 11,
   "topics": [
     {
       "rank": 1,
-      "title": "ASML: ¿Vale la pena invertir en sus magníficas perspectivas a pesar de una valoración de 300€ por acción?",
+      "title": "Indexa Capital alcanza los 5.000 millones gestionados: descubre cómo se distribuye su patrimonio por España",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Fondos en MyInvestor: descubre los 5 fondos más baratos con comisiones inferiores al 0,5% para 2026.",
+      "title": "Fondos con menos comisiones en MyInvestor: conoce los 5 más baratos para 2026 y sus sorpresas de rendimiento",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "TLT y VGLT: la sorprendente pérdida de miles de millones mientras la deuda de EE. UU. alcanza los $39 trillion.",
+      "title": "De la euforia al refugio: análisis de las fortalezas y debilidades de los 35 valores del Ibex tras el choque geopolítico de marzo",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -54,11 +54,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWl6TGtpdFpNelRJajlVb1pyRHA0ZVJWM0dwYXhGbVJMV3Zxa3ExclNoUnFzNEtpSVRPeVI3SWZpSjJfZG8zWjNFLWpackFQNjF5dklOcTJGY0VUNVlsaHJ5OXd5TThhM0JhNm5aaDdEYU43RGZScVdRcWMtWTB2WGhpUmJDN1RZZUU3LURRQk9RUGpZRW1CVFlUQUI2SDBtQnR1VzN5UQ?oc=5"
     },
     {
-      "title": "10 acciones americanas baratas con una amplia ventaja competitiva",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUThTaUpzVjE0bzRVSEJWVzUyUXBMYUtPOUpvUWxmblhVY3NxVDFjaW1VV08zZWdBZGxvNXhESnNaRkIxM25qaVhHbGg2eFZPUzIwM1U2Y1lUNUU4R3BqQzZQRkxWUjlpeDVCTGZvNHU1N1BOSmVSRDJJdGI0OElMWUE4VFZ6ZFRvUEE3WEFoNzdOanNUMnlCOXdBMTJ5eklGUVBUMFMwRnd5LU5H?oc=5"
-    },
-    {
       "title": "Resultados de LVMH: crecimiento moderado por la guerra en Irán",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYmdIVDV4dlRJTDV5UGdFaENBTktQaDRvREZTaFMtUUFfcVdJZUE4N2hOUUc5MXFwNVVIRTY3Zm9yWFJ6T2FEQldVY2U5WVVNdHJ0ellNWHQ5R1NYd0dfdnItMlZHdWt5a3hrcWZwMmdPLUVSLTM4TmV6RG1pd3dQTkFDR0RLcFdsX0NyMHBhTzJaeUhnTnowRWVJcHc4Vng1NUtTUWZR?oc=5"
@@ -69,9 +64,9 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeTNKbEhEMzV2TGNVXy1mam1ZSlZyNl8wLUZRYjJodGhtXy15RUNEZ2JMQVlMaGNfM2FfbHVaZDV1d0s5aHV0OHZiMGhNckZ1Z1U4Sl9WM2lqcktkQzV4VmczbnJQV3FtQ0pHLWUzTXBOREszY3ZBbkNmTHpOV2xkcU9CbWxpTU5JbVc5N2U5dmk3SUpOOUpJNU91b1c?oc=5"
     },
     {
-      "title": "Resumen de mercados: ¿Podría la Fed seguir bajando tipos en 2026?",
+      "title": "Indexa Capital supera los 5.000 millones gestionados: así se reparte su patrimonio por España",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU2E5aDBJYjEyR21DUlZjalo2NUU4NDJYMmtCUzRyUXFqUWFwcjdITTdCX05SdFItUFhvRzFNUGpjaVRRdlZ5MVV0NGpwUkZ6a2xFS1g1enVSd3E5UDZUbTE2cnJ1eGhoaU5hTTZWVFJLZEExcU9WSnFZYnlOcWNYU0lkb0NINjRYRDBGdVFfcnBfdkhDMGtkRzJlZlNmQkptZmcxMGVxTQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ2lMTHd5UXVUOXRsMVRYd2pZeGk4NUVjRldsUXFKZVRpdk1mWm9ub2NfRmdreFQ0a1cta0xzN0Y0bmQzbENfRk5XMWRBTnlEUEw0aTlWdHZyeTh1RG5qdzJxdXB3NWIyRUt0WXRQaWwxRjZCSWtYajZLdkYyS05EMVV6RGNnT0pSRDQzeXpZY1RDZkxoV3B3NlMwM1BXNUtId3BvRGhhMkVNVE84OW80UkZ4TzZkekpUcVgxcnI3TTNTSUVFcEpkemMwNWpVc2I0NEtlTklQNWR5M3JTQnhj?oc=5"
     },
     {
       "title": "Fondos con menos comisiones en MyInvestor: los más baratos en 2026",
@@ -79,19 +74,34 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTBNcTdjSFgxSkEtai11SXJXYnJPMjAxR0M3bW82SGdOQXloMk5KQWMzbldsd3dCTVB2TW00Q1g3NmFfcjhXbm5DWWxiTW52dTRnQ1g4cUVYanNhUzdnVnVVMEx4S0NLTktnWElJODRzQnhoNEdJZWlsVVF0VzB6a2xXUWh5SDEyX0lqeG9iQVJ4YzliQldmeUE5cm4xZkpUUm0wc0RROA?oc=5"
     },
     {
-      "title": "Mejores neobancos para ahorrar e invertir (2026)",
+      "title": "Estos son los mejores brókers para invertir en República Dominicana",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYnJLUHJRUlNXRWs3ZEVtTnlWSGhncVdZTjBteWZHYW1kRllzWTRpdFFRVDE3MG5pNFlFLXNrbWctdFhDVkVXOFVkNFdBZHM2NzVHTnNZbXh0RmN1R0xjM0NxdWpjakVRZEVBSmxOV3JNZjdmYmt1MWY3d0RSOEprbWRKUUpnOVE0WXRIeVdPQTVSckpHWWRRYVlqMA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdHZkV2RxeXRoQm9IWTk0QVV5TXoyYUU3aHd5ZUhDVWNzUXN5eTZNRVF1Vm9CQ19pSk9CbDdGWUJkMnN0TjJHSEh4Tndhdm80NXlCcFE4V2dGU2doWGJ0YmthWlR0SjJ6UUYzajVFb2NXSWZ1UUlYcTE3cVhaU2c5TXlvYnBXbUs5YXNueDdvTnhMU3lRa1lqcHBfbHNxdXJzWVlHYlFSNmF0dFFZN1NDZNIBnwFBVV95cUxNMWhnMEJNWk9VTEZKMkNicWg4RThxdUNoRzNLcFZCeE5KZ0ltX1FUM09XV1pWWDJCazZiekJRYS1xWTJ3RWNpc2dSLUFLVENoWWl1ZXJ4OUdNN3F6QWF0VFJieGhQUHU1TmNxT1FleWh2VTdtaVYzVGFTdWR3SlRQblRJcnRCZy10c2F1WTZOS2FjbFdWcm9NQnExdFFRa1U?oc=5"
     },
     {
-      "title": "Los depósitos más rentables de la banca española",
+      "title": "Mejores brókers para invertir: comparativa 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVTYtcVJMM0F5VHROQlNSWk5GdWxaTndWYjE5Zk5fMkFHbW9oQW81WVh5RmJhdjZFLXFSMEFpVWVBbDYxdjlnZHhWNThRMmphR1M5bTV5YmliYW9DNkZOaUprMVFoUDg4WnR4M2ZrYkVGRGVnNy1KbGFNVnlRd3lSOW9sZl9xZHVmRzFJczlsVVE1T0VTWEh3em5xd09MdVBvX1ZTWV9aeWlsR1lwdFE2NDVQLVA4WE9udW8yOUNrWjd3dENWbmfSAaIBQVVfeXFMTU4xXzZ5c1EwWEhxYkZpWkxDdGRKbFNLWGVGd1hnUEVrb3ZpOWF0bE16ZTFRVWl5VTR6UXQtVTE3bHFqQmFZUDJVcHN1Zmpyb0dRVGhwTFV4Y1hZdlhQWGkzeER4emtCeDQ5eklod1g3eVB0Vk55X1Z0RUxNbFFqc0tLTHdSY3hBZ3RwUnczUzlMUWJKQXFIS25welk3dDd1YmxR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWNHb3VNQnJ3UVNGUmJtZmVVSnBMd093MDNyeERXZTBYeDRJQ01VaGxFdWhFMVVCUHR4TFhWeDljbjBxb3gzLWJzUndiUW1VOXBNOEJEdnNDUVdJcFExbXFEamJHTlh6MHlIVGN5UmFKa2FSa3RrTWNucXRpb0lOYWFRQVZ0cXJzOGprVHUyYVFqS3Jib1M4?oc=5"
     },
     {
-      "title": "TLT y VGLT pierden miles de millones mientras la deuda de EE. UU. se acerca a $39 trillion",
+      "title": "Invertir en el Sector Farmacéutico: Oportunidades y amenazas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeFhGNzZpVHlIdG56X0NxWmtpZGw4ZmFBeExVYms0X0FTM1Buam5uZ2JKREVRXzd1bVMwOU00Z2Q3eEFSeVN1SmtYUDJOUl94Nl9ndjloVEtsXy1lZXJmTnE5bVJzenBiRnlyVEpOLUFNZUZnZlNFREhKcGpxTjgyY3pzZWRUTl9FZ0E0ZnhMb0s5Z0FDdG9TNGprVnhyYU42emFlSnRleE5rZDFRSG5la3hSWlFmQk9waGpqTHZ4d3J5WGtkdGRNdWhtS041bFVrTEE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdm1HT1FBdFFLODdYaEdpRDRfcmtKVGc5NEdkSjVVZXpzM2gydm9OOU9TZlZLYnNVaWw0MDJTNEx5SHl2OUVucXBfWnF3RmNpNDVmUDFHX0tIY1RRemxDYkFRX0d0XzhZU1FwMjBfQ1ZPUUlaMDVzWDF2Qzk1WndsWEl4X3hmMGhkV0E?oc=5"
+    },
+    {
+      "title": "De la euforia al refugio: fortalezas y debilidades dentro del Ibex 35 tras el choque geopolítico de marzo",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTVdUbUkwNEtYTzVhSmZTZHJVa2ljeDluOEhNdVp1OXl2X0EzRldiemxqRFpMc0lGZU1ma1ZfdFZNa0ZoTHp2N1FPejBvbHFKM1dCdFc3b2hWZGFDLUE4UzNfaHRGVE1zQkFaNnNRQjlhTlo0LWlYU3Z5VEpYY2dHZTFBVmdzQ3k5YUtGOXA4UXJVRDBMQzdwNUhnNUhTcmszQktmMkpydWtSYko4UmFIR1ZzZVJkNGh2YnhoMDFRTWJvazFvTEU4NUNqWdIBogFBVV95cUxQdHRJQ01RbU9vbm42Rm15YXF4aExGclUzdmlxOGdpdnprM191WUFMSzNfQm4taER0MUdMVWlpZXhMaFRiN19oRWZxWUp6N241NGNhaE1wcWNvd1ZIWlBYMnNNbm54ZWpnMFhITnpDYlYyQ3l6RkxocnNlZzB4RFd5U0Z3U0tUYWRtUHlRLWg5Q29CU0ViekhXd3EyWHpPSU9SMkE?oc=5"
+    },
+    {
+      "title": "Mejores depósitos bancarios a plazo fijo 2026 (abril)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
+    },
+    {
+      "title": "Perspectivas de los 5 grandes valores del Ibex 35 en bolsa",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbFhLeWxKMnd4aUREclRHYzItNHlXeHZKcUR1bWtHZFRVWFY5QjY0NERJWWtvczZnZ3RBZkxaMDFoYkhtdjJWbEVnQ1VtTjF5TGFhVWlBZGpvNGNtb2E5V1FtNkk5T3djVjFXY181X0c3SF9VdEsyOEFUVWdzci1jZGFXbFFaTVR6bno1Yko2Z1ZmclNsczJzMGpsaFpjT2U0ek1HU1dUYjUyUEs0eDJTdW5zd1BQellmcFlyM1FucWRiUlY1cFHSAZ8BQVVfeXFMT0JwRDhOeS1VSkpFa2RkR2dRcFJQYmpNa01saEhFa2hNY0JYYVUyclNWLWRTSXJ5Znc5WkRCbFNhUmhlX0NIN3RMWk9NenBDWFdObzhjT1dETE9Da2ZpeXR6cF91WmR6cFlSSVBDcHZjV3Z2QWlEMVk2cjhsREk0ZnRReEhuVHpWa2U1UlpVTlZWaTZHVlg2MWNxaVRfR0NJ?oc=5"
     }
   ]
 }
