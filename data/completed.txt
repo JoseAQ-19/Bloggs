@@ -841,3 +841,4 @@ tools: Cómo las herramientas digitales están revolucionando la seguridad socia
 tools: Revolutionizing Biology: AI-Driven Protein Design Tools Now Accessible to All
 crypto: The Dark Side of Crypto: France's Alarming Rise in Cryptocurrency Kidnappings
 youtube: YouTube lanza una nueva función en su app móvil tras eliminar Clips: ¡una revolución en la experiencia del usuario!
+youtube: YouTube Finally Lets You Turn Off Shorts—Here’s How!
