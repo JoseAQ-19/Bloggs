@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-17T07:35:32.810826+00:00",
-  "total_candidates": 11,
+  "scouted_at": "2026-04-17T07:36:48.021953+00:00",
+  "total_candidates": 18,
   "topics": [
     {
       "rank": 1,
-      "title": "Indexa Capital alcanza los 5.000 millones gestionados: descubre cómo se distribuye su patrimonio por España",
+      "title": "Hamco Global Value Fund R FI: ¿Por qué lidera con un 16,04% de rentabilidad en 5 años frente a la competencia?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Fondos con menos comisiones en MyInvestor: conoce los 5 más baratos para 2026 y sus sorpresas de rendimiento",
+      "title": "El Gobierno español presenta \"España Crece\": un ambicioso fondo de 120.000 millones para impulsar la inversión productiva más allá de 2026.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "De la euforia al refugio: análisis de las fortalezas y debilidades de los 35 valores del Ibex tras el choque geopolítico de marzo",
+      "title": "La inversión de fondos activistas en España se dispara un 27%: ¿qué significa esto para el futuro del mercado europeo?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -48,6 +48,11 @@
     }
   },
   "all_headlines": [
+    {
+      "title": "¿Qué guerra? La bolsa americana alcanza máximos históricos",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2FpQ2ljMlZCSjRXMzR6WkhsRzlkUUdBblMtbFZyTVgwVlFUYlNXdXFCc1FxaXE4T2Vmbm9PemhKeVRCaDdlNmxfeWR6S0E4UnBsTm9sNGlVMlFHQjNhbTRTQ3ZtbldSRzJwQ3UyN0g1TjB2amFpT3E4X2NIUUlUZXpvNWRWZkozQ2tndXhkMHM0QzRRczgyQ0Z5WVg?oc=5"
+    },
     {
       "title": "Resultados de ASML: magníficas perspectivas, pero alta valoración",
       "source": "google_news_finance",
@@ -84,11 +89,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWNHb3VNQnJ3UVNGUmJtZmVVSnBMd093MDNyeERXZTBYeDRJQ01VaGxFdWhFMVVCUHR4TFhWeDljbjBxb3gzLWJzUndiUW1VOXBNOEJEdnNDUVdJcFExbXFEamJHTlh6MHlIVGN5UmFKa2FSa3RrTWNucXRpb0lOYWFRQVZ0cXJzOGprVHUyYVFqS3Jib1M4?oc=5"
     },
     {
-      "title": "Invertir en el Sector Farmacéutico: Oportunidades y amenazas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdm1HT1FBdFFLODdYaEdpRDRfcmtKVGc5NEdkSjVVZXpzM2gydm9OOU9TZlZLYnNVaWw0MDJTNEx5SHl2OUVucXBfWnF3RmNpNDVmUDFHX0tIY1RRemxDYkFRX0d0XzhZU1FwMjBfQ1ZPUUlaMDVzWDF2Qzk1WndsWEl4X3hmMGhkV0E?oc=5"
-    },
-    {
       "title": "De la euforia al refugio: fortalezas y debilidades dentro del Ibex 35 tras el choque geopolítico de marzo",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTVdUbUkwNEtYTzVhSmZTZHJVa2ljeDluOEhNdVp1OXl2X0EzRldiemxqRFpMc0lGZU1ma1ZfdFZNa0ZoTHp2N1FPejBvbHFKM1dCdFc3b2hWZGFDLUE4UzNfaHRGVE1zQkFaNnNRQjlhTlo0LWlYU3Z5VEpYY2dHZTFBVmdzQ3k5YUtGOXA4UXJVRDBMQzdwNUhnNUhTcmszQktmMkpydWtSYko4UmFIR1ZzZVJkNGh2YnhoMDFRTWJvazFvTEU4NUNqWdIBogFBVV95cUxQdHRJQ01RbU9vbm42Rm15YXF4aExGclUzdmlxOGdpdnprM191WUFMSzNfQm4taER0MUdMVWlpZXhMaFRiN19oRWZxWUp6N241NGNhaE1wcWNvd1ZIWlBYMnNNbm54ZWpnMFhITnpDYlYyQ3l6RkxocnNlZzB4RFd5U0Z3U0tUYWRtUHlRLWg5Q29CU0ViekhXd3EyWHpPSU9SMkE?oc=5"
@@ -102,6 +102,41 @@
       "title": "Perspectivas de los 5 grandes valores del Ibex 35 en bolsa",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbFhLeWxKMnd4aUREclRHYzItNHlXeHZKcUR1bWtHZFRVWFY5QjY0NERJWWtvczZnZ3RBZkxaMDFoYkhtdjJWbEVnQ1VtTjF5TGFhVWlBZGpvNGNtb2E5V1FtNkk5T3djVjFXY181X0c3SF9VdEsyOEFUVWdzci1jZGFXbFFaTVR6bno1Yko2Z1ZmclNsczJzMGpsaFpjT2U0ek1HU1dUYjUyUEs0eDJTdW5zd1BQellmcFlyM1FucWRiUlY1cFHSAZ8BQVVfeXFMT0JwRDhOeS1VSkpFa2RkR2dRcFJQYmpNa01saEhFa2hNY0JYYVUyclNWLWRTSXJ5Znc5WkRCbFNhUmhlX0NIN3RMWk9NenBDWFdObzhjT1dETE9Da2ZpeXR6cF91WmR6cFlSSVBDcHZjV3Z2QWlEMVk2cjhsREk0ZnRReEhuVHpWa2U1UlpVTlZWaTZHVlg2MWNxaVRfR0NJ?oc=5"
+    },
+    {
+      "title": "Mejores planes de pensiones para complementar tu jubilación en este momento",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOWdwZThKZDlTSEJUaUVGZl9tYUZ3amlGSUtxQVo3Z2dQdmxqRlJ0VWVQLVN2bHc3cC1ka1lYeFhGLW5NQXZQRW91cG5iZGRkVHBkU25MeDdnbEJQUE9wUkRPVXRscDF5RXFSWGstRVZWYkhzQ2hmVnBHQW9oaXd1NlJrMWJqS0VkMkNiY3dCYVZYcFR3UzFhbEJSc0owNF9hTHJDWXVYcTdpdF84ZEtta1l2bGFoejlFTGt1c1pzc3VOOHlQV1FGZWN1eS3SAagBQVVfeXFMT2NmT3h3YWtzVm1PazFVMkFYVmhnWW01MzM1WGNBUUc1ZG5WQVpwUUVNVTQtSnNPRVZyMERLSXpsVHQ3S1dEZXNCNWNxdmxPRVRGbXFXY0E3eUtOUjd2MVJUeWJYc2FvR0lQcUF3RzN3dXRTYmdHR09TSEg3VVV1NUw2eGVBdFRJTmFROFF4cTNkY3piNE9NUHJjRWdKd1F4dmVjQ0VvVVdL?oc=5"
+    },
+    {
+      "title": "**Hamco Global Value Fund R FI lidera los fondos españoles con una rentabilidad del 16,04% en 5 años**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**El Gobierno español lanza el fondo \"España Crece\" con 120.000 millones de euros para inversión productiva más allá de 2026**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Carlos Cuerpo anuncia un fondo de inversión de 170 millones de euros para impulsar la biotecnología española en EEUU, con una participación del Gobierno de 48,3 millones**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**WisdomTree lanza el ETF \"True Emerging Markets UCITS\" con una comisión total del 0,25%, excluyendo China, Corea del Sur y Taiwán**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**La inversión de los fondos activistas en España crece un 27%, alcanzando los 3.923,9 millones de euros, situándose entre los 5 principales de Europa**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Satrix 40 ETF anuncia un dividendo trimestral de 0.7683 ZAR por acción, pagadero el 24 de abril de 2026**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
