@@ -852,3 +852,4 @@ funds: Index Funds Show 20% Less Diversification Than Actively Managed Funds
 funds: Index Fund Performance: 10% Returns vs. 5% for Actively Managed Funds
 ia: El Greco y la IA: Un nuevo vistazo a su última obra maestra cuatro siglos después
 ia: High Stakes: Iowa Teen Assault Case Ends in Jail Time for Local Man
+tools: Etxanobe y estudiantes de Durango exploran el futuro en Super Ego Tools
