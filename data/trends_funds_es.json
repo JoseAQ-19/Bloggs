@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-18T07:28:41.273105+00:00",
-  "total_candidates": 17,
+  "scouted_at": "2026-04-18T07:30:01.966200+00:00",
+  "total_candidates": 11,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos españoles: ¿Por qué los reembolsos netos de 751 millones en marzo no frenan el crecimiento de 2.271 millones en 2023?",
+      "title": "Fondos españoles que desafían la norma: descubre los 5 más rentables en energía y Latinoamérica en 2023",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Indexa Capital reduce comisiones hasta 0.005 puntos: ¿Cómo beneficiará a más de 130,000 clientes en 2026?",
+      "title": "ASML presenta resultados impresionantes, pero su valoración supera los 600 euros: ¿es hora de vender?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "WisdomTree lanza el ETF True Emerging Markets UCITS: ¿Por qué un 0.25% de comisión es una oferta imperdible?",
+      "title": "Indexa Capital alcanza los 5.000 millones gestionados: ¿cómo se distribuyen sus fondos por rentabilidad en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -102,36 +102,6 @@
       "title": "Indexa Capital supera los 5.000 millones gestionados: así se reparte su patrimonio por España",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ2lMTHd5UXVUOXRsMVRYd2pZeGk4NUVjRldsUXFKZVRpdk1mWm9ub2NfRmdreFQ0a1cta0xzN0Y0bmQzbENfRk5XMWRBTnlEUEw0aTlWdHZyeTh1RG5qdzJxdXB3NWIyRUt0WXRQaWwxRjZCSWtYajZLdkYyS05EMVV6RGNnT0pSRDQzeXpZY1RDZkxoV3B3NlMwM1BXNUtId3BvRGhhMkVNVE84OW80UkZ4TzZkekpUcVgxcnI3TTNTSUVFcEpkemMwNWpVc2I0NEtlTklQNWR5M3JTQnhj?oc=5"
-    },
-    {
-      "title": "Fondo Naranja Garantizado 2029 de ING promete un 2.5% anual con devolución total del capital, disponible desde el 16 de abril.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Indexa Capital rebajará las comisiones de sus carteras hasta 0.005 puntos porcentuales en 2026, beneficiando a más de 130,000 clientes.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "El fondo soberano \"España Crece\" movilizará 120.000 millones de euros en inversión productiva con una inyección de capital inicial de 10.500 millones de euros de los fondos Next Generation EU.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "WisdomTree lanza el ETF True Emerging Markets UCITS (WEM) con una comisión total (TER) del 0.25%, excluyendo China, Corea del Sur y Taiwán.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Los fondos españoles registraron reembolsos netos de 751 millones de euros en marzo, aunque el patrimonio total ha aumentado en 2.271 millones de euros en lo que va de año.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Vanguard European Stock Index Fund muestra una rentabilidad a 1 año del 16.03% y gastos corrientes del 0.12%.",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }
