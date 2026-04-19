@@ -868,3 +868,4 @@ funds: Index Funds Exposed: Only 30% Truly Diversified in 2023
 funds: Index Funds: 70% of Investors Misjudge Their True Diversification Levels
 ia: El auge de la IA: ¿Por qué los analistas ven un futuro brillante para Google y Tesla?
 ia: Inside the Security Breach: What Happened at Porter and Why It Matters
+tools: La diversificación industrial de Illinois Tool Works: ¿salvación o riesgo?
