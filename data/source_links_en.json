@@ -741,5 +741,10 @@
         "https://eric.ed.gov/?id=EJ1330766",
         "https://pubmed.ncbi.nlm.nih.gov/38925549/",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC4415839/"
+    ],
+    "inside-the-security-breach-what-happened-at-porter-and-why-it-matters-en": [
+        "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-29.pdf",
+        "https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8425A.pdf",
+        "https://www.dhs.gov/sites/default/files/2024-09/2024aepphasellusmaritimetradeandportcybersecurity.pdf"
     ]
 }
