@@ -1386,5 +1386,10 @@
         "https://www.sec.gov/Archives/edgar/data/49826/000004982624000005/a20231231-4q23ex991pressre.htm",
         "https://www.sec.gov/Archives/edgar/data/49826/000095013703001256/c75093exv13.htm",
         "https://www.sec.gov/Archives/edgar/data/49826/000004982623000002/a20221231-4q22ex991pressre.htm"
+    ],
+    "cpm-20cv-vs-magnacut-edc-knife-steel-en": [
+        "https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8552.pdf",
+        "https://www.ojp.gov/ncjrs/virtual-library/abstracts/sharp-tips-buying-knives-and-multi-tools-quality-gauge-steel-and",
+        "https://nij.ojp.gov/library/publications/characterization-weapons-used-stabslash-attacks"
     ]
 }

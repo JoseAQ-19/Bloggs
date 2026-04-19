@@ -746,5 +746,10 @@
         "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-29.pdf",
         "https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8425A.pdf",
         "https://www.dhs.gov/sites/default/files/2024-09/2024aepphasellusmaritimetradeandportcybersecurity.pdf"
+    ],
+    "cpm-20cv-vs-magnacut-edc-knife-steel-en": [
+        "https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8552.pdf",
+        "https://www.ojp.gov/ncjrs/virtual-library/abstracts/sharp-tips-buying-knives-and-multi-tools-quality-gauge-steel-and",
+        "https://nij.ojp.gov/library/publications/characterization-weapons-used-stabslash-attacks"
     ]
 }
