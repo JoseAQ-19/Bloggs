@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-19T07:32:48.271438+00:00",
-  "total_candidates": 17,
+  "scouted_at": "2026-04-19T07:34:01.234023+00:00",
+  "total_candidates": 11,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos de renta fija 2026: ¿Cuáles son los más rentables y por qué están sorprendiendo a los inversores?",
+      "title": "6 acciones europeas baratas con un PER promedio del 12: descubre la ventaja competitiva que las hace irresistibles",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "'España Crece': Un análisis del nuevo fondo de €23 mil millones para viviendas asequibles y su impacto en el mercado inmobiliario.",
+      "title": "Fondos españoles más rentables en 2026: ¿cómo se comparan los fondos de 'value' y energía en rendimiento?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Indexa Capital: Cómo su crecimiento del 63% en activos bajo gestión está cambiando el panorama de la inversión en España.",
+      "title": "Los mejores fondos de renta fija en 2026: análisis de rendimiento y comisiones que no te puedes perder",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -102,36 +102,6 @@
       "title": "Invertir en el Sector Farmacéutico: Oportunidades y amenazas",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdm1HT1FBdFFLODdYaEdpRDRfcmtKVGc5NEdkSjVVZXpzM2gydm9OOU9TZlZLYnNVaWw0MDJTNEx5SHl2OUVucXBfWnF3RmNpNDVmUDFHX0tIY1RRemxDYkFRX0d0XzhZU1FwMjBfQ1ZPUUlaMDVzWDF2Qzk1WndsWEl4X3hmMGhkV0E?oc=5"
-    },
-    {
-      "title": "**España lanza el fondo 'España Crece' con €23 mil millones para construir 15,000 viviendas asequibles anualmente**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Indexa Capital supera los €5 mil millones en activos bajo gestión con un crecimiento anual del 63%**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Bankinter Investment lanza un nuevo fondo de cobertura con una inversión mínima de €10,000, apuntando a un retorno interno neto de aproximadamente el 9%**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**CNMV analiza 'finfluencers' y detecta que el 10% incumple la normativa sobre inversiones**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Morningstar: El mercado español fue el más rentable en 2025 con un retorno del 57.3%**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**ESMA informa que los costos de los fondos UCITS disminuyeron, con costos continuos cayendo un 8% para los fondos de renta variable minoristas y casi un 15% para los fondos de bonos minoristas debido a nuevos fondos**",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }
