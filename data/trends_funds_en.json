@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-19T07:35:24.138380+00:00",
-  "total_candidates": 21,
+  "scouted_at": "2026-04-19T07:36:34.626400+00:00",
+  "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "Is the Vanguard Mega Cap Growth ETF Outperforming the SPDR S&P 500 ETF Trust? A Performance Showdown",
+      "title": "Is Your Index Fund Really Diversified?",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "7 Best Long-Term ETFs to Buy Now: Discover Which Fund Outperformed with a 30% Year-to-Date Return",
+      "title": "SUEWALLST, LLP: INSTITUTIONAL SMR HOLDERS FACE FIDUCIARY REVIEW",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "BlackRock's iShares Reports Record $132 Billion Q1 Inflows: What This Means for Investors in 2026",
+      "title": "17,382 Shares in Morningstar, Inc. $MORN Acquired by Berkeley Inc",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -56,6 +56,11 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9udHlENFB6bU5pMWZuQnZ3R0hhVTExZmlwY25xVjlTUFdNUFZ0ZHVKdlYyc01tbnFtaENoUVJTSm9FV2tDSHYxdk15WDRRVE5adWVxWmliOXpJMXljSDQyNGVQbmkwdklaVng0QTNDdl9qeEprTmFVaVdYMA?oc=5"
     },
     {
+      "title": "SUEWALLST, LLP: INSTITUTIONAL SMR HOLDERS FACE FIDUCIARY REVIEW",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOVZzczRZNFVRS19OdWhoRUJoMGg4VEJmNFdId3RVSEtrbEVyZkZ5V2dCbTdRTGFfUmdiUFNGUm1jMlNQT0FvdUR0Q3k2RmhBVEtZcHNpaXFROWwtajBITWpjclNVUmp0NlR1bG8wMlhRQjY0TFY1RjhoSFZMR3Z2Q1pxRktBQmJEY2V5cFlJUUNUS2JvZmw3R3lBakd4TGlQbDJqNm1HT0pwY3k1QmFsNEtsYkJPcXVxWTBFQUlSQQ?oc=5"
+    },
+    {
       "title": "17,382 Shares in Morningstar, Inc. $MORN Acquired by Berkeley Inc",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbk92M0VHYmhYR1hNNEllTE1IRDkyTGoyZ1lLSXhtWkdOc0JUdXM3QjYxRlJwQ2VJa3NfRllxOVFVR1JNbTYzMjhEOEVsbFdQUEtqQWVONklIOWFFRTB6cEU4Ump4N21VMXdHbm5xczgtN3RuRFdHd2JPQ0JyWDh3aXdhUGk3X2tISWVsUjkwY1JRVGdHTVUxak5EUnM1QjFubEpyRXBmUlM2dnBUY21IV3NJT0Z6YTRJck4teGdPTQ?oc=5"
@@ -64,11 +69,6 @@
       "title": "Why Young People in the UK Aren’t Investing",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUGdMSDBoMHhCQkJIVldyQzNmempKN3BwY0RkTFRERk5sanpHbFJULVd2SUZKa1pDbWFZTFdkaVFIcU80ZnZRbW9oUjNwOFdaNmFrbWVkMGQ3S1ZaSWdSSVRfcnMzelRyRkNmUjdnc3B6QnBrOWJtUVFPY0k2SnZhUkJjX3RnSUxnMUd0VXl5YllYSnM?oc=5"
-    },
-    {
-      "title": "Opus Fund Services Discusses the Elevation of Operational Due Diligence with Channel Diligence's Co-Founder Stephanie Sirois",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWnZZaDRvbGRhMDhseVAtRmpjeEFWMTJDM1RFSUowV3RQb3ZLSDJVYW5wVWk2XzZXQUZtcEltRjB0VHBpRmdEQy1Za1FHRjMtbzRXOWJST1lvY0hBRUlfWTFMRjA4QjFoNUt6Z01LVEdmcFhoei0zc29zTGktSG5ZeGJZRzRCRm83Tlo3LVhBLVJ3NGVxSzhXZTlWdlUyOVNVZWpJSFhqSTFlcmx1WlJjRDdiSWU2X0NTUTZmUXJ6RWlLTzg1UDNDa3pieVFGaTZUaTJidHV5X0hJYmtrUWVucWlBamFSbnpHYUJxSWpldlIyeE9XZEx2dzE2N1duMVlDdnZ3SjZrZjVIWlZOeXFWbDZn?oc=5"
     },
     {
       "title": "LeafHouse and GTC Announce Collaboration on CIT Compass™ Platform",
@@ -81,9 +81,9 @@
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZ3ZEdFRycnhnYXgtOUNpVHhSNVdnMjlIODFGR1p1V2dJTDFsamE5ZXFoSnZqVV9NTmREQS1YYk4tRXVnTXZ1NU5rYzMxeUxrcUFMRjlOU29nemJEVGs2UzdoaGhyTUJfY2VPSEwyYmx0TUQ1M09FZk5Ea1p6aW00NUg5M1FPOE1vNUQ2aE9pbnN6cllIUm8tRGlvN2tFUW8tM1F4QXdGM21maDFqdi1JMUZ0Wm1oRkVzWFllaG13dmVFQ1lBdkFKWmgybEx0UjNaay15cUgzblJGalZmRTFkM1NYWThSemhGdW1Ybg?oc=5"
     },
     {
-      "title": "SUEWALLST, LLP: INSTITUTIONAL SMR HOLDERS FACE FIDUCIARY REVIEW",
+      "title": "Inocras and Broad Institute Researchers Present New TCGA Whole-Genome Cancer Insights, Accelerating Discovery in Cancer Genomics",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOVZzczRZNFVRS19OdWhoRUJoMGg4VEJmNFdId3RVSEtrbEVyZkZ5V2dCbTdRTGFfUmdiUFNGUm1jMlNQT0FvdUR0Q3k2RmhBVEtZcHNpaXFROWwtajBITWpjclNVUmp0NlR1bG8wMlhRQjY0TFY1RjhoSFZMR3Z2Q1pxRktBQmJEY2V5cFlJUUNUS2JvZmw3R3lBakd4TGlQbDJqNm1HT0pwY3k1QmFsNEtsYkJPcXVxWTBFQUlSQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOdFI3SDhQUzJDZmhtblZldVlHbk01eklFUHBIdkpCS0hKeV9scmd1Um1NTEdUZVJRc1lzeUh6cHJtSVpmWFZURTc4bnJUWHc0TGdJaWpLZ085R1doRVFIM0UxcHkyNGQ3YWRYbzRmNzhIM2lrdjliTEVFd3pfVDctcUMzNHRGajhPODAzOURhcnp3eGNkVGZJQkdOVnJHNTlXc0ZhaXhkbGJGMlUzdW0tYWZuamc0bDByU0NoMTNaZXpKY1RSOF9hN01aYzZocERyYmZ3TDh0SVVyZDNYdGwzVVFwaXBMN3pKbk1GSWcwMzF4dzRDM0RrUHhTSzdBOFp1WDRnOXpHY1Q2Nkp4aGVEWk5RYzdzV2tN?oc=5"
     },
     {
       "title": "7 Best Long-Term ETFs to Buy and Hold",
@@ -96,9 +96,19 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nUDQ5X1RTZmNmM3gybU9kb1hucjE2ZFJKNXlXcWNGQUpNTHpwX0tpanRlN1BobUlxS0lEOHdReU40dHY5elljTGFCTFdQTXpNcmxWQ1BKWnRCOWQ3MmVVeGQwSnc2d3lwa2VKaTJYRjhhNlZ0d1ZqdXMwbw?oc=5"
     },
     {
+      "title": "INTL: A Global Ex-US Alternative (BATS:INTL)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0OVdzSkVwU21lNGJESzkxd0RLNjNFUlBiYkNhczRrX0RkSFRIdlFyUVAzTGh0dy13RGhtWUJJcnV0QXo1RFVlSmxqY3ZNbVRjeFVFSW80M3BvUGJoVzdrTzdrbjlwY2d3ZENsazR5SzlpTDNld0cwQ29qT3g?oc=5"
+    },
+    {
       "title": "Best Stocks to Buy Now: Our Buy-and-Hold Picks for April 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wNkxPeDc4b1BlS0FNQnJ4T2xRMWZlNEZCdFFiNkFCRXVvWjlVRXBMWGFsR1hOVW9KcE93Z0ZHWjRwX2ZuTWVmQ0w1WUd5d2xDZ0tfS2c3bG5PaUdTR05VcHpxNFhTOWZtcmc?oc=5"
+    },
+    {
+      "title": "How to Master Index Investing",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQb0ljUnhER0xXQWpJbG80WEFvWVZxcTRWMUlVTE1jVUs3WGlfYXlMb2NhRWJsN0F5bWNHcWE0THhRNUxleldnamV0M0ZHZVdVU0o1LWFrU1lsT3V1bGVfYnVTQzk5MnBYU1pCZTJqNkY5aGs?oc=5"
     },
     {
       "title": "Here's Why Buying This Vanguard Index Fund Today Could Be the Best Financial Decision You Ever Make",
@@ -106,19 +116,14 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fd3ZMMjlyU3dBbC14QmlvMHFmRkFMR3haNGxFU05CelVHbXJIVnVScWtJcGRQVFlLM3dVQ1VlVEZESy1Qb0Fnelg5R0ZYSmM0WHRGc01RcHh5aDhnV3RWMVhDWnRHeTE1djQ2Q09LTlMtWWtFaWNMaENQbmdPQUE?oc=5"
     },
     {
+      "title": "Should You Invest in the Vanguard Health Care Index Fund ETF Shares (VHT)?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN0ZDWHNfRG8zZ3ZjMnF0ZDZBVnZoRTh1U1dQZUZodXJjdFU0Yk16V3c2RklYVVh3bEc4Nmo2b0hZVGFSQklxYjd5OHBpQkNWLXp4ZnE4Y0NSeUYwRE5rWjloUGZaMHpjWDA1XzFrRUkxS3g4eWZxTUFmb2NQcUZVOW1BZTcwcElwb3VtcUx1N2pfcGllZllvWjdOREhLc3U0TXFjVF9VM1dVSnFXZWptX2Ftd0ZtOFRLZkZJNVE5WEhVQzl2Q2xKbC1EUnVkUER1bk14akdPZ3Q5cVNkc1dRbWNCQU1hZkxr?oc=5"
+    },
+    {
       "title": "Alternative Investment Fund Leaderboard",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fZ2YyblFCUnNTemxDaTM0YW5BUU8tUzhVLTctYnBSclpSZUpQa193SGlKNTI2X1JIYlRJMi1SUll6SldnYkxrWWdBZXFJeVRyZUZHRk05bDhQTlNOZE5BRnpnNlN5Q0JBMG9EeENpaEo4T2EwQVE?oc=5"
-    },
-    {
-      "title": "The 5 Best BDC Stocks to Buy Now",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGlKcjk3QU51NWRvMndGSzJXVXRTT1l6cGdkM3ZzczgyUnZhSEZkQ1JaQzItOERvaUZvZ056czJVV1d5djBHRVJSdEo1bk1EdmFkcmFpWGRmdHNsRnpodXhwazhpakIzVC1QSl95SFpmdzd0MlptQmoyNVYtbHIwTA?oc=5"
-    },
-    {
-      "title": "3 Dividend Aristocrat ETFs to Buy Before 2026 Markets Shift",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTE1DTk5RdEdEOVV3ZG81ZE9lNjVGbzR0Q3NpMmY2em9IRnNQSk11RXJtMnBRdHRGdWJxa3NleVlUTlA5UUxmb01KaENIUXBQQzBvQ1F1Ukl6UkJlLVB4LWV4cnZSdy1Xc1JDdV9ZbElxM2luOVd6VklXa2duM080VWZQY1ljazBDSkJvMnBWd0kzRXZtc3draGJGS2xhWk00TnFMd2pn?oc=5"
     },
     {
       "title": "SPDR S&P 500 ETF Trust vs Vanguard Mega Cap Growth ETF Comparison",
@@ -126,27 +131,22 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PM00zM1RZWFZWbVhiZVFsN2JPSVpRTHVNODJBVVhJYVVzTnpteGYyZWduak15U1pBSjZ4SE1LQWZIRUktM0xQN0tVek9mOXpxTkZlYm04MG43V0IyN0Y4SlhZQWQwdw?oc=5"
     },
     {
-      "title": "BlackRock's iShares reports record Q1 net inflows of $132 billion, doubling net new base fees year-over-year.",
+      "title": "Vanguard Launches Developed Markets ex-US Value (VDV) and Growth (VDG) ETFs with a 0.08% expense ratio.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard launches Developed Markets ex-US Value Index ETF (VDV) and Developed Markets ex-US Growth Index ETF (VDG), both with an expense ratio of 0.08%.",
+      "title": "SEC guidance allows mutual funds to offer ETF share classes, potentially reducing capital gains taxes for over 120 million US investors.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Global ETF industry gathers a record US$626.4 billion in Q1 2026, a 35% increase from the same period last year.",
+      "title": "US-listed ETFs saw $45.4 billion in inflows during the week ending April 10, pushing year-to-date inflows to $524 billion.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Morningstar's Medalist Rating updates in April 2026 to simplify rating structure and enhance transparency for over 350,000 share classes globally.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Total estimated outflows from long-term mutual funds were $6.54 billion for the week ended April 8, 2026.",
+      "title": "BlackRock's iShares ETF division saw $132 billion in net inflows in Q1 2026, contributing to a record $13.89 trillion AUM for the firm.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
