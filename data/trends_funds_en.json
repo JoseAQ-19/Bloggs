@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-18T08:46:34.972158+00:00",
-  "total_candidates": 23,
+  "scouted_at": "2026-04-19T07:35:24.138380+00:00",
+  "total_candidates": 21,
   "topics": [
     {
       "rank": 1,
-      "title": "Is Your Index Fund Really Diversified?",
+      "title": "Is the Vanguard Mega Cap Growth ETF Outperforming the SPDR S&P 500 ETF Trust? A Performance Showdown",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "5 Ways to Benefit From a Volatile Stock Market",
+      "title": "7 Best Long-Term ETFs to Buy Now: Discover Which Fund Outperformed with a 30% Year-to-Date Return",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "ASML Earnings: Outlook Is Magnificent, but Valuation Overshoots Our Estimate",
+      "title": "BlackRock's iShares Reports Record $132 Billion Q1 Inflows: What This Means for Investors in 2026",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -56,16 +56,6 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9udHlENFB6bU5pMWZuQnZ3R0hhVTExZmlwY25xVjlTUFdNUFZ0ZHVKdlYyc01tbnFtaENoUVJTSm9FV2tDSHYxdk15WDRRVE5adWVxWmliOXpJMXljSDQyNGVQbmkwdklaVng0QTNDdl9qeEprTmFVaVdYMA?oc=5"
     },
     {
-      "title": "5 Ways to Benefit From a Volatile Stock Market",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRFdRNTVZT19udEkyMW1YZV9oS3FIZGpWLWJqVmg4Y2NwdEtHLUEzLVZJODV6anBPOGwySWlBOEVkdWYxdzJveGFHZzRwZmVhLTZMTVRVcDdZRkRqZGtlZjBwS3l2aThlUjZndnZncWd1NGFoRURWZl84WWppcGF3WQ?oc=5"
-    },
-    {
-      "title": "ASML Earnings: Outlook Is Magnificent, but Valuation Overshoots Our Estimate",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1BBLU1BWjVJMk5KWDZnZFZHUDRBdXBydzNpSFE0WlpyRDFRYWhSMjY0QzF4MG1BLXdjUUJRdHBHLWlFUzd1TUliaWpqN0ppb3I5MVU2b0lmRUtxaXhia2w2V2hRaVR6RHpEYjhwdjMxU2JKRGFtQkkwYVZfa3NpalB4MEZaMG1jUkRrQ2x2VzJWbHh0Um5xYnJsUW1OMy1TbldORjV4UlAxdzNWb2ZzSGJudk8?oc=5"
-    },
-    {
       "title": "17,382 Shares in Morningstar, Inc. $MORN Acquired by Berkeley Inc",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbk92M0VHYmhYR1hNNEllTE1IRDkyTGoyZ1lLSXhtWkdOc0JUdXM3QjYxRlJwQ2VJa3NfRllxOVFVR1JNbTYzMjhEOEVsbFdQUEtqQWVONklIOWFFRTB6cEU4Ump4N21VMXdHbm5xczgtN3RuRFdHd2JPQ0JyWDh3aXdhUGk3X2tISWVsUjkwY1JRVGdHTVUxak5EUnM1QjFubEpyRXBmUlM2dnBUY21IV3NJT0Z6YTRJck4teGdPTQ?oc=5"
@@ -76,19 +66,29 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUGdMSDBoMHhCQkJIVldyQzNmempKN3BwY0RkTFRERk5sanpHbFJULVd2SUZKa1pDbWFZTFdkaVFIcU80ZnZRbW9oUjNwOFdaNmFrbWVkMGQ3S1ZaSWdSSVRfcnMzelRyRkNmUjdnc3B6QnBrOWJtUVFPY0k2SnZhUkJjX3RnSUxnMUd0VXl5YllYSnM?oc=5"
     },
     {
+      "title": "Opus Fund Services Discusses the Elevation of Operational Due Diligence with Channel Diligence's Co-Founder Stephanie Sirois",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWnZZaDRvbGRhMDhseVAtRmpjeEFWMTJDM1RFSUowV3RQb3ZLSDJVYW5wVWk2XzZXQUZtcEltRjB0VHBpRmdEQy1Za1FHRjMtbzRXOWJST1lvY0hBRUlfWTFMRjA4QjFoNUt6Z01LVEdmcFhoei0zc29zTGktSG5ZeGJZRzRCRm83Tlo3LVhBLVJ3NGVxSzhXZTlWdlUyOVNVZWpJSFhqSTFlcmx1WlJjRDdiSWU2X0NTUTZmUXJ6RWlLTzg1UDNDa3pieVFGaTZUaTJidHV5X0hJYmtrUWVucWlBamFSbnpHYUJxSWpldlIyeE9XZEx2dzE2N1duMVlDdnZ3SjZrZjVIWlZOeXFWbDZn?oc=5"
+    },
+    {
       "title": "LeafHouse and GTC Announce Collaboration on CIT Compass™ Platform",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ205bkYwU1k3N3R1VTBqTFBnOGxLY3Z1Zk52SUNaNW9iazZ6MjNBLXdJajBnUVd4RUN2Y085QXZyZ1pQbzFLRWY3MDNBYkg1UU1pc245bk55Nnlrc1d3ZDVqWTNzWWRRcVkxX3JxZmQxTF8wTzFxYjc1UGtzTFJXM2ZJRHFQLXlocXNRVUNOU3VOaUxtMllGVksyYkh6SzZoeTRRdktVUGJDSmZCLTUxVlZQZkMxd0h3c2dIelF0R1k5ZXc?oc=5"
     },
     {
-      "title": "Lunit to Present Six AI Studies at AACR 2026 Highlighting Advances in Precision Oncology and Real-World Clinical Application",
+      "title": "10x Genomics Introduces Atera, a New Platform to Redefine How Biology is Measured and Understood",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQ2N0Y0t6QmRBYkVpNTNYd21JOC1RRjlvZ0VWSTRseHB0V1hNLUdYUndkb1k4WXUxN3UtQTBJdXg4REVVdDdHd2tHR1FQTGFYSXFWa2NFN2tKY0FsMm95bzdlTmtlcGVjRV8wY3AwUnlRU1hBcDJrcGlzbzk3ZjRSb3VpYUNDY0JMVllSc1hPRFpVQUhObDhnWm9ZUXZJb19qY0lOMlduaFdCZjdUUEhFUVItVHlTaUZlVHJIZW1oUFNPdXN4TzR2ay1FVFd0VTYzS2xnWk9leU1QMEtURUdvYk12OFhkbnNHLXEwcHd1NzMyRGNUVG5IcFFuOXRpM1FzNExxLWItNVdiNHRKLXBBMlBGQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZ3ZEdFRycnhnYXgtOUNpVHhSNVdnMjlIODFGR1p1V2dJTDFsamE5ZXFoSnZqVV9NTmREQS1YYk4tRXVnTXZ1NU5rYzMxeUxrcUFMRjlOU29nemJEVGs2UzdoaGhyTUJfY2VPSEwyYmx0TUQ1M09FZk5Ea1p6aW00NUg5M1FPOE1vNUQ2aE9pbnN6cllIUm8tRGlvN2tFUW8tM1F4QXdGM21maDFqdi1JMUZ0Wm1oRkVzWFllaG13dmVFQ1lBdkFKWmgybEx0UjNaay15cUgzblJGalZmRTFkM1NYWThSemhGdW1Ybg?oc=5"
     },
     {
-      "title": "A Look at Morningstar Inc (MORN) After 4.2% Gain -- GF Value $33",
+      "title": "SUEWALLST, LLP: INSTITUTIONAL SMR HOLDERS FACE FIDUCIARY REVIEW",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVGZrUW45TnpndHFPUWRhN1VhTkVIeXRyR2M0TXBXeERPeUdQQU1XMXRKV05yOGRCRzFBVUtiZDZvSVV4cUFhR29mX0pCM2lteUpYd3NsbkhVbVhIWWk0OVExWkxRamRGcGkzOHhWd2VoNkZ5eUJ3c3lGQ0paX0U3N2psNk9oU1Q1TjJaRF9LcVk2TTl5N2RwLWt1WjNjS1M2SmtXYWxCMGpZRy1sbEdrSWdHbFhFNXZXZVJMNDdrbzZUWE1YNkZRcUp6SHpzNmdkX1Q4Q3Jqb2htR3d2TUZhRGlNV0hwd2lB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOVZzczRZNFVRS19OdWhoRUJoMGg4VEJmNFdId3RVSEtrbEVyZkZ5V2dCbTdRTGFfUmdiUFNGUm1jMlNQT0FvdUR0Q3k2RmhBVEtZcHNpaXFROWwtajBITWpjclNVUmp0NlR1bG8wMlhRQjY0TFY1RjhoSFZMR3Z2Q1pxRktBQmJEY2V5cFlJUUNUS2JvZmw3R3lBakd4TGlQbDJqNm1HT0pwY3k1QmFsNEtsYkJPcXVxWTBFQUlSQQ?oc=5"
+    },
+    {
+      "title": "7 Best Long-Term ETFs to Buy and Hold",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUNvR2tNeVFfRGRneGFaUXBoZi1JVXIzQ0dGX3RQbkFDUkpySHdSYWh6WF9lbGlLM1B2SElkNmhLUlRCY2xEVGFuVUFEampVVnlPamdvN0JsWkdJOUtHbHJ4NzhmOEZKdWZLbmc0T1ZyMHFjcHFpTGlGZ0dnSWpxZWEwbEpYTDNPTEJ6SQ?oc=5"
     },
     {
       "title": "6 Top-Performing Large-Growth Funds",
@@ -96,14 +96,14 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nUDQ5X1RTZmNmM3gybU9kb1hucjE2ZFJKNXlXcWNGQUpNTHpwX0tpanRlN1BobUlxS0lEOHdReU40dHY5elljTGFCTFdQTXpNcmxWQ1BKWnRCOWQ3MmVVeGQwSnc2d3lwa2VKaTJYRjhhNlZ0d1ZqdXMwbw?oc=5"
     },
     {
-      "title": "Here's Why Buying This Vanguard Index Fund Today Could Be the Best Financial Decision You Ever Make",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fd3ZMMjlyU3dBbC14QmlvMHFmRkFMR3haNGxFU05CelVHbXJIVnVScWtJcGRQVFlLM3dVQ1VlVEZESy1Qb0Fnelg5R0ZYSmM0WHRGc01RcHh5aDhnV3RWMVhDWnRHeTE1djQ2Q09LTlMtWWtFaWNMaENQbmdPQUE?oc=5"
-    },
-    {
       "title": "Best Stocks to Buy Now: Our Buy-and-Hold Picks for April 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wNkxPeDc4b1BlS0FNQnJ4T2xRMWZlNEZCdFFiNkFCRXVvWjlVRXBMWGFsR1hOVW9KcE93Z0ZHWjRwX2ZuTWVmQ0w1WUd5d2xDZ0tfS2c3bG5PaUdTR05VcHpxNFhTOWZtcmc?oc=5"
+    },
+    {
+      "title": "Here's Why Buying This Vanguard Index Fund Today Could Be the Best Financial Decision You Ever Make",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fd3ZMMjlyU3dBbC14QmlvMHFmRkFMR3haNGxFU05CelVHbXJIVnVScWtJcGRQVFlLM3dVQ1VlVEZESy1Qb0Fnelg5R0ZYSmM0WHRGc01RcHh5aDhnV3RWMVhDWnRHeTE1djQ2Q09LTlMtWWtFaWNMaENQbmdPQUE?oc=5"
     },
     {
       "title": "Alternative Investment Fund Leaderboard",
@@ -111,14 +111,9 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fZ2YyblFCUnNTemxDaTM0YW5BUU8tUzhVLTctYnBSclpSZUpQa193SGlKNTI2X1JIYlRJMi1SUll6SldnYkxrWWdBZXFJeVRyZUZHRk05bDhQTlNOZE5BRnpnNlN5Q0JBMG9EeENpaEo4T2EwQVE?oc=5"
     },
     {
-      "title": "7 Best Oil and Gas Stocks to Buy in 2026",
+      "title": "The 5 Best BDC Stocks to Buy Now",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pdllMU3E0LUotaHpSM3NOOTRURXFUQmpndzVnLXprSDlCQS1Oc3ZpaTVia1haU2ZqY0s3bUZSOXJlbmhQdUw5YUh4ZnFZeTRQa2ZrY0pXQnlEbnpEZnZiaWNVQjlOLXc4T0ZqRHR2enFWQzVIOTFjZXN4MmJVOEk?oc=5"
-    },
-    {
-      "title": "Top Performing Leveraged/Inverse ETFs: 04/12/2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObzhsbmN1ck9aUDQyUW00SGgyRUVPblEwX296QW1kTVcyM3JuV1NMZm5jNGJZTzhKYmpFaXkzLUlpOEQ2ZElIV3hrN0RJUnFlejZONkQzeGJSXzZRbWRvOTZ6VWR2TzFpQ09jTENvQXBJUEtlb3ozeXdabzlHT21DZklIMHo0cFJnNlV3U2JuT0dZM0Q2MjN6TnE5c1R2NTktN0xqQXhZS0xXSVhiVHfSAa4BQVVfeXFMTm84bG5jdXJPWlA0MlFtNEhoMkVFT25RMF9vekFtZE1XMjNybldTTGZuYzRiWU84SmJqRWl5My1JaThENmRJSFd4azdESVJxZXo2TjZEM3hiUl82UW1kbzk2elVkdk8xaUNPY0xDb0FwSVBLZW96M3l3Wm85R09tQ2ZJSDB6NHBSZzZVd1Nibk9HWTNENjIzek5xOXNUdjU5LTdMakF4WUtMV0lYYlR3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGlKcjk3QU51NWRvMndGSzJXVXRTT1l6cGdkM3ZzczgyUnZhSEZkQ1JaQzItOERvaUZvZ056czJVV1d5djBHRVJSdEo1bk1EdmFkcmFpWGRmdHNsRnpodXhwazhpakIzVC1QSl95SFpmdzd0MlptQmoyNVYtbHIwTA?oc=5"
     },
     {
       "title": "3 Dividend Aristocrat ETFs to Buy Before 2026 Markets Shift",
@@ -126,27 +121,32 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTE1DTk5RdEdEOVV3ZG81ZE9lNjVGbzR0Q3NpMmY2em9IRnNQSk11RXJtMnBRdHRGdWJxa3NleVlUTlA5UUxmb01KaENIUXBQQzBvQ1F1Ukl6UkJlLVB4LWV4cnZSdy1Xc1JDdV9ZbElxM2luOVd6VklXa2duM080VWZQY1ljazBDSkJvMnBWd0kzRXZtc3draGJGS2xhWk00TnFMd2pn?oc=5"
     },
     {
-      "title": "The 5 Best BDC Stocks to Buy Now",
+      "title": "SPDR S&P 500 ETF Trust vs Vanguard Mega Cap Growth ETF Comparison",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGlKcjk3QU51NWRvMndGSzJXVXRTT1l6cGdkM3ZzczgyUnZhSEZkQ1JaQzItOERvaUZvZ056czJVV1d5djBHRVJSdEo1bk1EdmFkcmFpWGRmdHNsRnpodXhwazhpakIzVC1QSl95SFpmdzd0MlptQmoyNVYtbHIwTA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PM00zM1RZWFZWbVhiZVFsN2JPSVpRTHVNODJBVVhJYVVzTnpteGYyZWduak15U1pBSjZ4SE1LQWZIRUktM0xQN0tVek9mOXpxTkZlYm04MG43V0IyN0Y4SlhZQWQwdw?oc=5"
     },
     {
-      "title": "What's the Difference Between the FBTC and IBIT Bitcoin ETFs?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPekJaS2FFRmZOdmJfekl1Vkt4eFg4bEVYS2E3eVJVcldPdml2d0Ffa01RSzZXMTJ0VXp2LVBzRTdxZEszYkF5dk1maVdjVDlzNXZNTE9Yd05sRi1HS3FHWmo2N3J2ek82OS11T2VKUGdxTWJNa1h1M2J6WENoQzdMRTBvUQ?oc=5"
-    },
-    {
-      "title": "Vanguard Launches Developed Markets ex-US Value (VDV) and Growth (VDG) ETFs with a category-lowest expense ratio of 0.08%.",
+      "title": "BlackRock's iShares reports record Q1 net inflows of $132 billion, doubling net new base fees year-over-year.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "JP Morgan dominates US ETF launches this week, including JPMorgan ActiveBuilders Emerging Markets Equity ETF (JEMA) and JPMorgan Equity and Options Total Return ETF (JOYT).",
+      "title": "Vanguard launches Developed Markets ex-US Value Index ETF (VDV) and Developed Markets ex-US Growth Index ETF (VDG), both with an expense ratio of 0.08%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard Energy ETF (VDE) is up over 30% year-to-date, outperforming the Vanguard S&P 500 ETF (VOO) which declined 1%.",
+      "title": "Global ETF industry gathers a record US$626.4 billion in Q1 2026, a 35% increase from the same period last year.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Morningstar's Medalist Rating updates in April 2026 to simplify rating structure and enhance transparency for over 350,000 share classes globally.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Total estimated outflows from long-term mutual funds were $6.54 billion for the week ended April 8, 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
