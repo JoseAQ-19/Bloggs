@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-20T07:37:43.404942+00:00",
+  "scouted_at": "2026-04-20T07:38:52.486926+00:00",
   "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "6 acciones europeas baratas que superan el rendimiento del mercado: ¿quiénes son los ganadores?",
+      "title": "6 acciones europeas baratas que superan en un 30% a sus competidores: descubre las oportunidades ocultas",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Fondos españoles de energía: descubre cuáles han generado un 15% más que la media en 2025",
+      "title": "Fondos de inversión españoles que han rentado un 15% más que la media en energía y Latinoamérica en 2023",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Análisis de fondos indexados al S&P 500: ¿Por qué algunos alcanzan un 20% de rentabilidad en 2026?",
+      "title": "Análisis de fondos indexados al S&P 500: ¿Quién ha superado el 20% de rentabilidad en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
