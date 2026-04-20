@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-19T07:34:01.234023+00:00",
-  "total_candidates": 11,
+  "scouted_at": "2026-04-20T07:37:43.404942+00:00",
+  "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "6 acciones europeas baratas con un PER promedio del 12: descubre la ventaja competitiva que las hace irresistibles",
+      "title": "6 acciones europeas baratas que superan el rendimiento del mercado: ¿quiénes son los ganadores?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Fondos españoles más rentables en 2026: ¿cómo se comparan los fondos de 'value' y energía en rendimiento?",
+      "title": "Fondos españoles de energía: descubre cuáles han generado un 15% más que la media en 2025",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Los mejores fondos de renta fija en 2026: análisis de rendimiento y comisiones que no te puedes perder",
+      "title": "Análisis de fondos indexados al S&P 500: ¿Por qué algunos alcanzan un 20% de rentabilidad en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -54,11 +54,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUw4cmVSOXEtOWFtRWhHLURMQ0s3aF9BNEstUEtDV0Rwc2lDejVSREw0NFIwamVmV2ZIek5UcEtqSjR3OFZ4UVhJUkVfYm5KUnkwdlFqQl94djhWQ0U2RmlpaXE2VHBLZ0RDNmM1YTN1Zm05REgyTjB0QmVVSDg3QWV4Z2M0QUl2cGFiZGxHS25ieWEyXy0tYzZveU1vd3kyNERSM2hTOUY?oc=5"
     },
     {
-      "title": "¿Qué guerra? La bolsa americana alcanza máximos históricos",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2FpQ2ljMlZCSjRXMzR6WkhsRzlkUUdBblMtbFZyTVgwVlFUYlNXdXFCc1FxaXE4T2Vmbm9PemhKeVRCaDdlNmxfeWR6S0E4UnBsTm9sNGlVMlFHQjNhbTRTQ3ZtbldSRzJwQ3UyN0g1TjB2amFpT3E4X2NIUUlUZXpvNWRWZkozQ2tndXhkMHM0QzRRczgyQ0Z5WVg?oc=5"
-    },
-    {
       "title": "'Value', energía y Latinoamérica: los fondos españoles más rentables",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVE00UnZtSXZlVktVZ3k0aGJVU05yakRaS0ZONmNHNVR2U3B5WWFoSWZwY3pKQ25ncnZSRW9JN0lUQkh3czR5Vm44NEwwU3c5c3NyTW55bm5TMjUyM25UVEZUWFFnMXlXYzRSUlFkUWxJMnNfR2dhR3NWMnhoSG40SGlhQkVXT3hGZWfSAYoBQVVfeXFMTVRNNFJ2bUl2ZVZLVWd5NGhiVVNOcmpEWktGTjZjRzVUdlNweVlhaElmcGN6SkNuZ3J2UkVvSTdJVEJId3M0eVZuODRMMFN3OXNzck1ueW5uUzI1MjNuVFRGVFhRZzF5V2M0UlJRZFFsSTJzX0dnYUdzVjJ4aEhuNEhpYUJFV094RmVn?oc=5"
@@ -69,39 +64,14 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk0tQzEzSHNxaDZzZVF1WUc3NFo5d2NWUjZPbDBWRHpMajdLZVBiTUo2QUVRRmtlblVQaHoxMzFuWmY1MFRJLWFMRUhkY2dQd1BfTHRhQUlLSnVwQXhWTTlMQ0JVelhoNDA2LWxYRmpvRmo1S19veHJjTkFsaUVjYVZxTVpOclNZQ1NuZXVudUpXQTRLVmdmS3Z1UkhNR3I4LW1sLTBB?oc=5"
     },
     {
-      "title": "Los mejores fondos de renta fija en 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY1QzYnR5OUNmWkhXb0o4U2FkeGoxaW5QQXphNXM3RnFqNEt3ZXBfOV9lV1puemxjTGNBWDhRcFd5bl9UM28yS2NHQ2RycjFYT1pPZThTOFBXcm11OWZTR2dPTFI4aWdWTGVJRURaenczVjVINEtHVUFxMnFrTUp5c0hEM2kxQVJKempqVk9CS0p3Zw?oc=5"
-    },
-    {
-      "title": "Ranking de las mejores entidades de banca privada en 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS1lTdmpvS1RrWndkRUhtSWNsSDlnSjQtZGZhTnREMEZ1dXhpdDc0Q0RkMjdYZnJCdVJxZkZ5VHVtZkpxc2dPMUVFMW16ZEhWaU5EcmtiWXAtVWRTdl92UHp0TXpZV0lHemJfSmVxVzduUUxSLTRyekJ3RXA1YnFBQVYxM01TdHZva3VEVzZQZlZIQVU1UWl3NXE2NDREdllQampkY0l4dXVhRWxfd3RYVk95WDZsTDhLU3lnc0lsekRmaGZE0gGjAUFVX3lxTE1BVUloV0RxUWRmNExQQ0V2QU9JVjNjMzhLT3ZuZEpsZnlTdTlSck0yNE9SeWdwTzVDVU9pd0N1RkJKV21aZzZmU3lnYk8yN3o0WmJvQzVEWFc0LWVTLWdub0kyS09nb0dDeXBiX3hiRnNXaC1XWkgwYTlBZ2hQOTdmUGNtelktTkJlZVhseWZPb2M3amZzd1dLb3NMTndCd1huNlU?oc=5"
-    },
-    {
-      "title": "Los mejores fondos monetarios 2026: ranking y comparativa",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1lRckJiQXplcHFXc3Z4dUhxZW1xeDJrX0I3Q1pYM1Rud2l4eVBlakJ1WjVRZHpxQ3ZNckI2dnBYbklPUVUzYlBQbFl5azFzMXlqazBOaXk2cnRVRE1mb1RfMUJjZktPaFZmejcwMklnT2ZLWlJmV2NDaGJGOWx2X1ZTeHM?oc=5"
-    },
-    {
-      "title": "Los depósitos más rentables de la banca española",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVTYtcVJMM0F5VHROQlNSWk5GdWxaTndWYjE5Zk5fMkFHbW9oQW81WVh5RmJhdjZFLXFSMEFpVWVBbDYxdjlnZHhWNThRMmphR1M5bTV5YmliYW9DNkZOaUprMVFoUDg4WnR4M2ZrYkVGRGVnNy1KbGFNVnlRd3lSOW9sZl9xZHVmRzFJczlsVVE1T0VTWEh3em5xd09MdVBvX1ZTWV9aeWlsR1lwdFE2NDVQLVA4WE9udW8yOUNrWjd3dENWbmfSAaIBQVVfeXFMTU4xXzZ5c1EwWEhxYkZpWkxDdGRKbFNLWGVGd1hnUEVrb3ZpOWF0bE16ZTFRVWl5VTR6UXQtVTE3bHFqQmFZUDJVcHN1Zmpyb0dRVGhwTFV4Y1hZdlhQWGkzeER4emtCeDQ5eklod1g3eVB0Vk55X1Z0RUxNbFFqc0tLTHdSY3hBZ3RwUnczUzlMUWJKQXFIS25welk3dDd1YmxR?oc=5"
-    },
-    {
       "title": "Invertir en Renta Fija: situación actual y perspectivas",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
     },
     {
-      "title": "Indexa Capital supera los 5.000 millones gestionados: así se reparte su patrimonio por España",
+      "title": "Repsol S.A. : Top Fondos de inversión | REP | ES0173516115 | MarketScreener España",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ2lMTHd5UXVUOXRsMVRYd2pZeGk4NUVjRldsUXFKZVRpdk1mWm9ub2NfRmdreFQ0a1cta0xzN0Y0bmQzbENfRk5XMWRBTnlEUEw0aTlWdHZyeTh1RG5qdzJxdXB3NWIyRUt0WXRQaWwxRjZCSWtYajZLdkYyS05EMVV6RGNnT0pSRDQzeXpZY1RDZkxoV3B3NlMwM1BXNUtId3BvRGhhMkVNVE84OW80UkZ4TzZkekpUcVgxcnI3TTNTSUVFcEpkemMwNWpVc2I0NEtlTklQNWR5M3JTQnhj?oc=5"
-    },
-    {
-      "title": "Invertir en el Sector Farmacéutico: Oportunidades y amenazas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdm1HT1FBdFFLODdYaEdpRDRfcmtKVGc5NEdkSjVVZXpzM2gydm9OOU9TZlZLYnNVaWw0MDJTNEx5SHl2OUVucXBfWnF3RmNpNDVmUDFHX0tIY1RRemxDYkFRX0d0XzhZU1FwMjBfQ1ZPUUlaMDVzWDF2Qzk1WndsWEl4X3hmMGhkV0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQemxiYXdXQTEtTl9WOVFfSGN5ZUNJWjZFMVVxMzRlaUhMU0tCclp5MWVyQ29OSkdyN3lmUXl0TVZVRnBpQ2xqb2FxY0VDNGRqSGV0bXZDUm5KYUlBc0Fqcnl1R096X1hoOGhsRWZ3X0tob0ZyTzAzbjdYNngwbDREclNR?oc=5"
     }
   ]
 }
