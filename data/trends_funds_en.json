@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-20T09:13:34.244717+00:00",
+  "scouted_at": "2026-04-20T09:14:54.875850+00:00",
   "total_candidates": 23,
   "topics": [
     {
       "rank": 1,
-      "title": "Vanguard Cuts Expense Ratios on 84 Funds, Saving Investors $250 Million in 2026: Is Your Portfolio Ready?",
+      "title": "Bonds, Cash Remain Top Sources of Ballast for Equity Investors",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "BlackRock's iShares ETF Division Reports $132 Billion in Q1 2026 Inflows: What This Means for Your Investments",
+      "title": "AlUla Development Company Commences Construction on NUMAJ, Marking a New Phase of AlUla's Development",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "SPDR S&P 500 ETF Trust vs. Vanguard Mega Cap Growth ETF: Which Fund Should You Trust with Your $12.4 Billion?",
+      "title": "The Global Economy Could Split in Very Different Directions by 2050",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -106,6 +106,11 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nUDQ5X1RTZmNmM3gybU9kb1hucjE2ZFJKNXlXcWNGQUpNTHpwX0tpanRlN1BobUlxS0lEOHdReU40dHY5elljTGFCTFdQTXpNcmxWQ1BKWnRCOWQ3MmVVeGQwSnc2d3lwa2VKaTJYRjhhNlZ0d1ZqdXMwbw?oc=5"
     },
     {
+      "title": "Here's Why Buying This Vanguard Index Fund Today Could Be the Best Financial Decision You Ever Make",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fd3ZMMjlyU3dBbC14QmlvMHFmRkFMR3haNGxFU05CelVHbXJIVnVScWtJcGRQVFlLM3dVQ1VlVEZESy1Qb0Fnelg5R0ZYSmM0WHRGc01RcHh5aDhnV3RWMVhDWnRHeTE1djQ2Q09LTlMtWWtFaWNMaENQbmdPQUE?oc=5"
+    },
+    {
       "title": "Best 5 Russell 2000 ETFs to Buy in 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uQ3FYTlIxRGpFQUdEZUVoc2ZoX2RacnU4aWk5X2dDa0V6MGhHajAtT3hpM2dxZHVCM0NXc2NMOGJ3cEhURzBaUjNERnk4RXdpdEhldjB2VVFqc2dFQUN5RVliNHZKajJMaExrcXRYY2VJUzJhZW5fa05n?oc=5"
@@ -126,27 +131,22 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdnQ4NGtGSUJlZXRJc1l1TVVxSmRCc0VVdlJ3SktfV2RTdWFNWFlLN1VYRjVGWDNJNUdWUEZPSUhyNWNiS0Z5U2lxOXBVRS1GSVpVaURpYVlad2tkem5keVBYOExJOFM2dDNoT2RkZ0RhUUprSzM5cUdYRDRpTWRTYkRENHNiemtkNXQ0aVA4TXhGQmhyMnJSaEllamRpM2kzNzdsOUsweHVCWHpCVUc0VUI5OGsxb3pOV19XUU1wUDNRMXJMU0xBLVpvYzd3dEJzUGpNRnFyVEpXWnpJbWc3RmxIZjZaWm_SAecBQVVfeXFMUHZ0ODRrRklCZWV0SXNZdU1VcUpkQnNFVXZSd0pLX1dkU3VhTVhZSzdVWEY1RlgzSTVHVlBGT0lIcjVjYktGeVNpcTlwVUUtRklaVWlEaWFZWndrZHpuZHlQWDhMSThTNnQzaE9kZGdEYVFKa0szOXFHWEQ0aU1kU2JERDRzYnprZDV0NGlQOE14RkJocjJyUmhJZWpkaTNpMzc3bDlLMHh1Qlh6QlVHNFVCOThrMW96TldfV1FNcFAzUTFyTFNMQS1ab2M3d3RCc1BqTUZxclRKV1p6SW1nN0ZsSGY2Wlpv?oc=5"
     },
     {
-      "title": "Here's Why Buying This Vanguard Index Fund Today Could Be the Best Financial Decision You Ever Make",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fd3ZMMjlyU3dBbC14QmlvMHFmRkFMR3haNGxFU05CelVHbXJIVnVScWtJcGRQVFlLM3dVQ1VlVEZESy1Qb0Fnelg5R0ZYSmM0WHRGc01RcHh5aDhnV3RWMVhDWnRHeTE1djQ2Q09LTlMtWWtFaWNMaENQbmdPQUE?oc=5"
-    },
-    {
       "title": "SPDR S&P 500 ETF Trust vs Vanguard Mega Cap Growth ETF Comparison",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PM00zM1RZWFZWbVhiZVFsN2JPSVpRTHVNODJBVVhJYVVzTnpteGYyZWduak15U1pBSjZ4SE1LQWZIRUktM0xQN0tVek9mOXpxTkZlYm04MG43V0IyN0Y4SlhZQWQwdw?oc=5"
     },
     {
-      "title": "Vanguard Launches Developed Markets ex-US Value Index ETF (VDV) and Developed Markets ex-US Growth Index ETF (VDG) with an expense ratio of 0.08%.",
+      "title": "Vanguard Launches Developed Markets ex-US Value (VDV) and Growth (VDG) ETFs with an expense ratio of 0.08%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock's iShares ETF division reports $132 billion in net inflows for Q1 2026, driving AUM to $13.89 Trillion.",
+      "title": "Global ETFs surpass USD20 trillion in AUM, with European ETPs reaching USD3.3 trillion in Q1 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard cuts expense ratios on 84 mutual fund and ETF share classes across 53 funds, resulting in approximately $250 million in fee reductions for investors in 2026.",
+      "title": "BlackRock's Q1 2026 net profit rises to $2.21 billion, or $14.06 per share, with total net inflows of $130 billion, mostly into iShares ETFs.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
