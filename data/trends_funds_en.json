@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-20T07:41:42.691586+00:00",
+  "scouted_at": "2026-04-20T09:13:34.244717+00:00",
   "total_candidates": 23,
   "topics": [
     {
       "rank": 1,
-      "title": "AlUla Development Company Commences Construction on NUMAJ, Marking a New Phase of AlUla's Development",
+      "title": "Vanguard Cuts Expense Ratios on 84 Funds, Saving Investors $250 Million in 2026: Is Your Portfolio Ready?",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "The Global Economy Could Split in Very Different Directions by 2050",
+      "title": "BlackRock's iShares ETF Division Reports $132 Billion in Q1 2026 Inflows: What This Means for Your Investments",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Faraday Future Announces $45 Million in New Financing with a U.S. Institutional Investor to Strongly Support the Execution of Its EAI Robotics & EAI EV Business; Plans to Pursue Long-Term Strategic Cooperation with the Investor for Mutual Benefit",
+      "title": "SPDR S&P 500 ETF Trust vs. Vanguard Mega Cap Growth ETF: Which Fund Should You Trust with Your $12.4 Billion?",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -51,6 +51,11 @@
   },
   "all_headlines": [
     {
+      "title": "Bonds, Cash Remain Top Sources of Ballast for Equity Investors",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbk55NVRJUzc5RHBXa19obWJDeWpydWV4b0ZsVjcwUkdsaVNWaDltRUhxZlNReXZMb1U3WEhDM0pxYURyekp6cTg4WUp2S3R2elgzVVF3QW1UN2hkVW0yWENnT0VvQ1lleVNHMWY1UURUZ2dPamxKbkJyTzFlOGgxX0hZQ2F4RW9ZbE54amRILUZoZw?oc=5"
+    },
+    {
       "title": "AlUla Development Company Commences Construction on NUMAJ, Marking a New Phase of AlUla's Development",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWXZNQTZLQjRNUEpWWEVGUDBMVUJSQ2NSQ1dfQmZHdG9EQWdHT3JmOElLRFVkQnZ2MVZ0Z0NDNnlPNFo3M0pwT0RVUFpmWGs0MnZaWFZUMFZmc3ctNXJ3cEg0VkpzY0RXNGJJc2pDdGtJUEs5MGNBT3lJSGY0U3l3cDhpZnpmVGsxd2g2dm5xOU12WGc4WC0xOFp4TGtBaGFIakxzLVdpRXhocnBEOWVzMHZwaXZlUHRnZXZpakFHaWIzcGdwUmJmbTJjWEdfakZvOHY2aEwxRW0xU1Z3TkxscUM0X2NGdFMyXzhMQmZCUEtMZw?oc=5"
@@ -64,6 +69,11 @@
       "title": "Faraday Future Announces $45 Million in New Financing with a U.S. Institutional Investor to Strongly Support the Execution of Its EAI Robotics & EAI EV Business; Plans to Pursue Long-Term Strategic Cooperation with the Investor for Mutual Benefit",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxNMEJuZ2tzU1dnd2dzMm1mVmlYMnFFZlhFNkg5OXBMTzc0RktHbjFlN3pwbUhBanNKMFlLODhXLTJWdkdXRHZhNkQyMWRXcDdlVnZ1RHF4cVdHZ01kSTYtVUNjaXA5NkhfLUtpSXVOUlFxSWNFMlhlYkhEMUNqMnVlU2Vaa0R2UmdHWXUzcEU3UWhRbndnRlpLRFJrRHhqMjdzcTh0aENtOTEya1E0UlNXR2tldmZJVVI3TjNXVTJzRkhJQWtDTDFVYWRfZl85Q25ZNTdua1NPTkhvT2xEcUk1TmZjaGVsRFJTNE1RY0cycnN0RENtejJTSGZMRWpnLU9ubzVfSmJPN3pad1FMcUFrR2VvU0VuanhUdDEzR0N6V19GYU05TmdzeV9XbG52QmxTWGljWWdfNmtYTktaLV9lMHF0RG5tZDh2Q1I5X0VQcC1yWUlUTmR5bmFBMWdJSFFzRWdHYU93TXd6MVJKbDNwSkJfazFFZVRiNjJMY05nS0p6UnhYNjJTdnN2UlRHRWdJZ1BNVEt3YTZncEdCamJMUFM3cUEyVW91SDFneldrQQ?oc=5"
+    },
+    {
+      "title": "State Grid Jiangsu Highlights 99.996% Power Reliability and Streamlined Grid Access for International Businesses Utility outlines low-carbon power supply, reduced connection costs, and investor-focused infrastructure in Suzhou",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOLUFBU2ZpakR1a29RWjZram0zZDhwZE12MWpiTFV6UWV4SXEzSklSUXZ3NFBzME5uVldlRmdwOWRDdl9NbGJTN2c4eGFXZVBxeEJVeExIVkRZR0FVOWt5SzRzOElORENUc0lYWGc5N01rSGZsbVlEd3JtNkdsc3RTVEhtRXNQWmduS1AwNzllZVEtVVIwRVBoWmFMVkhCMThwbEx0ZkJBajhHc0tqWFA2R0pCclM4WlczbWFOM0Q1SVRma0tJREtpSWhGbEVqZjlLYlJ4cklfWi12ZXF1Q0x2ZHgyYUZuUlVMaTJlcG5QXzA4cXVyWlIzTHpvUEl0dGRXRHpYZ0M2R3VQck80TkZselNzX0hyeDhZelRnQlNwdmstY19xRUQ4Q2pkbnBzVnU1SW9Od1Ywb3ZDVjZ1UWtjX2h4V0hMZWJUemsyX3RjR1JUR29wOS1oa25fUjE1Zkw5cUR6cWhKU2pKNl9DcW14ck5zMzhzMFlTMGdEbG5TeEppVElFbGh1R2k3b1RjV1pUWm1VSUtB?oc=5"
     },
     {
       "title": "10x Genomics Introduces Atera, a New Platform to Redefine How Biology is Measured and Understood",
@@ -81,16 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS01XNFp3V3BFZ01DVmpET1VVVGRFR2otcFVHMHhjdDhSSF85YlowUG1xcDRrck9jQlNDbXpMOTBlQ3Z2dGlCTXVPY0RFVWJTQklTdFV0OGlPaDdyUUpMdXJrNFdHM0pfdHJUZUgtUk1Wa2h6am9VRzlnaVFrTm95bjhPajNVcGU2TXcyNGdRc092Q3ZRa3JwNg?oc=5"
     },
     {
-      "title": "17,382 Shares in Morningstar, Inc. $MORN Acquired by Berkeley Inc",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbk92M0VHYmhYR1hNNEllTE1IRDkyTGoyZ1lLSXhtWkdOc0JUdXM3QjYxRlJwQ2VJa3NfRllxOVFVR1JNbTYzMjhEOEVsbFdQUEtqQWVONklIOWFFRTB6cEU4Ump4N21VMXdHbm5xczgtN3RuRFdHd2JPQ0JyWDh3aXdhUGk3X2tISWVsUjkwY1JRVGdHTVUxak5EUnM1QjFubEpyRXBmUlM2dnBUY21IV3NJT0Z6YTRJck4teGdPTQ?oc=5"
-    },
-    {
-      "title": "Bonds, Cash Remain Top Sources of Ballast for Equity Investors",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbk55NVRJUzc5RHBXa19obWJDeWpydWV4b0ZsVjcwUkdsaVNWaDltRUhxZlNReXZMb1U3WEhDM0pxYURyekp6cTg4WUp2S3R2elgzVVF3QW1UN2hkVW0yWENnT0VvQ1lleVNHMWY1UURUZ2dPamxKbkJyTzFlOGgxX0hZQ2F4RW9ZbE54amRILUZoZw?oc=5"
-    },
-    {
       "title": "7 Best-Performing ETFs of 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FdTRtQ2VHREYwWkpsVlRYUFFsZjg1YWJlRW96NWdPQmN4R09vak9OUDBwYzVqNzJMeVVoSzFKNlFidnJpdms3VDM1ZkF2d0dKVkR5UWJRLWN6em9KOGltcmozMkZObEFqOVhZX3NqUlNJdw?oc=5"
@@ -104,16 +104,6 @@
       "title": "6 Top-Performing Large-Growth Funds",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nUDQ5X1RTZmNmM3gybU9kb1hucjE2ZFJKNXlXcWNGQUpNTHpwX0tpanRlN1BobUlxS0lEOHdReU40dHY5elljTGFCTFdQTXpNcmxWQ1BKWnRCOWQ3MmVVeGQwSnc2d3lwa2VKaTJYRjhhNlZ0d1ZqdXMwbw?oc=5"
-    },
-    {
-      "title": "Here's Why Buying This Vanguard Index Fund Today Could Be the Best Financial Decision You Ever Make",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fd3ZMMjlyU3dBbC14QmlvMHFmRkFMR3haNGxFU05CelVHbXJIVnVScWtJcGRQVFlLM3dVQ1VlVEZESy1Qb0Fnelg5R0ZYSmM0WHRGc01RcHh5aDhnV3RWMVhDWnRHeTE1djQ2Q09LTlMtWWtFaWNMaENQbmdPQUE?oc=5"
-    },
-    {
-      "title": "The New York Stock Exchange | NYSE",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5"
     },
     {
       "title": "Best 5 Russell 2000 ETFs to Buy in 2026",
@@ -131,22 +121,32 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaWhWLTV0dUltdU5VSzlEM24yNjJyTkpmd05pME1zVmwyYjZqSEJtZnZxd2pFSUgwNVFweWR4TkdadVZGdzR0LVRVZ3JxQUUySUl0SXJJWWtWUTgtMHc4eFhvNE5MenRwc0F0Ul8yenpxQmlWbWJPTFBQNmlRSWx4Y3FvMHd3Mm93T2d0TDJCQUhKclFMam9NY3c5R0hYN3lnYVpLQVh0S0p4dUZ1bWtMcVFTNWN1SklSdDdjY0owd1NzZjlKOHIzcFh0U2JVM2tpZUIyMHRhelhfRXdlZ1BGNQ?oc=5"
     },
     {
+      "title": "Nippon India Mutual Fund dominates Akshaya Tritiya ETF volumes with 63% market share",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdnQ4NGtGSUJlZXRJc1l1TVVxSmRCc0VVdlJ3SktfV2RTdWFNWFlLN1VYRjVGWDNJNUdWUEZPSUhyNWNiS0Z5U2lxOXBVRS1GSVpVaURpYVlad2tkem5keVBYOExJOFM2dDNoT2RkZ0RhUUprSzM5cUdYRDRpTWRTYkRENHNiemtkNXQ0aVA4TXhGQmhyMnJSaEllamRpM2kzNzdsOUsweHVCWHpCVUc0VUI5OGsxb3pOV19XUU1wUDNRMXJMU0xBLVpvYzd3dEJzUGpNRnFyVEpXWnpJbWc3RmxIZjZaWm_SAecBQVVfeXFMUHZ0ODRrRklCZWV0SXNZdU1VcUpkQnNFVXZSd0pLX1dkU3VhTVhZSzdVWEY1RlgzSTVHVlBGT0lIcjVjYktGeVNpcTlwVUUtRklaVWlEaWFZWndrZHpuZHlQWDhMSThTNnQzaE9kZGdEYVFKa0szOXFHWEQ0aU1kU2JERDRzYnprZDV0NGlQOE14RkJocjJyUmhJZWpkaTNpMzc3bDlLMHh1Qlh6QlVHNFVCOThrMW96TldfV1FNcFAzUTFyTFNMQS1ab2M3d3RCc1BqTUZxclRKV1p6SW1nN0ZsSGY2Wlpv?oc=5"
+    },
+    {
+      "title": "Here's Why Buying This Vanguard Index Fund Today Could Be the Best Financial Decision You Ever Make",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fd3ZMMjlyU3dBbC14QmlvMHFmRkFMR3haNGxFU05CelVHbXJIVnVScWtJcGRQVFlLM3dVQ1VlVEZESy1Qb0Fnelg5R0ZYSmM0WHRGc01RcHh5aDhnV3RWMVhDWnRHeTE1djQ2Q09LTlMtWWtFaWNMaENQbmdPQUE?oc=5"
+    },
+    {
       "title": "SPDR S&P 500 ETF Trust vs Vanguard Mega Cap Growth ETF Comparison",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PM00zM1RZWFZWbVhiZVFsN2JPSVpRTHVNODJBVVhJYVVzTnpteGYyZWduak15U1pBSjZ4SE1LQWZIRUktM0xQN0tVek9mOXpxTkZlYm04MG43V0IyN0Y4SlhZQWQwdw?oc=5"
     },
     {
-      "title": "Vanguard Launches Developed Markets ex-US Value (VDV) and Growth (VDG) ETFs with a 0.08% expense ratio, the lowest in the category.",
+      "title": "Vanguard Launches Developed Markets ex-US Value Index ETF (VDV) and Developed Markets ex-US Growth Index ETF (VDG) with an expense ratio of 0.08%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Morningstar's Medalist Rating methodology overhaul goes live globally in April 2026, introducing a 'Price Score' ranging from -2.5 to 2.5 to reflect fee impact.",
+      "title": "BlackRock's iShares ETF division reports $132 billion in net inflows for Q1 2026, driving AUM to $13.89 Trillion.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard U.S. Momentum Factor ETF (VFMO) is up 49.42% year-over-year as of April 15, 2026, making it Vanguard's best-performing ETF.",
+      "title": "Vanguard cuts expense ratios on 84 mutual fund and ETF share classes across 53 funds, resulting in approximately $250 million in fee reductions for investors in 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
