@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-20T07:40:20.219560+00:00",
+  "scouted_at": "2026-04-20T07:41:42.691586+00:00",
   "total_candidates": 23,
   "topics": [
     {
@@ -106,6 +106,11 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nUDQ5X1RTZmNmM3gybU9kb1hucjE2ZFJKNXlXcWNGQUpNTHpwX0tpanRlN1BobUlxS0lEOHdReU40dHY5elljTGFCTFdQTXpNcmxWQ1BKWnRCOWQ3MmVVeGQwSnc2d3lwa2VKaTJYRjhhNlZ0d1ZqdXMwbw?oc=5"
     },
     {
+      "title": "Here's Why Buying This Vanguard Index Fund Today Could Be the Best Financial Decision You Ever Make",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fd3ZMMjlyU3dBbC14QmlvMHFmRkFMR3haNGxFU05CelVHbXJIVnVScWtJcGRQVFlLM3dVQ1VlVEZESy1Qb0Fnelg5R0ZYSmM0WHRGc01RcHh5aDhnV3RWMVhDWnRHeTE1djQ2Q09LTlMtWWtFaWNMaENQbmdPQUE?oc=5"
+    },
+    {
       "title": "The New York Stock Exchange | NYSE",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5"
@@ -126,27 +131,22 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaWhWLTV0dUltdU5VSzlEM24yNjJyTkpmd05pME1zVmwyYjZqSEJtZnZxd2pFSUgwNVFweWR4TkdadVZGdzR0LVRVZ3JxQUUySUl0SXJJWWtWUTgtMHc4eFhvNE5MenRwc0F0Ul8yenpxQmlWbWJPTFBQNmlRSWx4Y3FvMHd3Mm93T2d0TDJCQUhKclFMam9NY3c5R0hYN3lnYVpLQVh0S0p4dUZ1bWtMcVFTNWN1SklSdDdjY0owd1NzZjlKOHIzcFh0U2JVM2tpZUIyMHRhelhfRXdlZ1BGNQ?oc=5"
     },
     {
-      "title": "Vermillion Wealth Management Boosts International Fixed Income ETF Stake in Q1 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSHExSTd2R2FIcFlCaGxlQW1COWdOWE1RYTNMejB1cmt6M3RvNHhmaHpQam9SOHJTMFMxWkdyVkhpbk1KdzNBak5TLUhwdGJyaHhXYWJzTlg3MllYTDc1RHVpaVJrYnMxaGNaLXRVS3NHNmR3eVlxejMwUlFMcDdtdVJveHpnT3VQZHl1Si04dVNsOWVYZDk3SjBLc2pyRXkyMmZoSGt2ZkNfczkwNDF1WUtTMA?oc=5"
-    },
-    {
       "title": "SPDR S&P 500 ETF Trust vs Vanguard Mega Cap Growth ETF Comparison",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PM00zM1RZWFZWbVhiZVFsN2JPSVpRTHVNODJBVVhJYVVzTnpteGYyZWduak15U1pBSjZ4SE1LQWZIRUktM0xQN0tVek9mOXpxTkZlYm04MG43V0IyN0Y4SlhZQWQwdw?oc=5"
     },
     {
-      "title": "Vanguard U.S. Momentum Factor ETF (VFMO) Climbs 49.42% Over Past Year, Outperforming Other Vanguard ETFs.",
+      "title": "Vanguard Launches Developed Markets ex-US Value (VDV) and Growth (VDG) ETFs with a 0.08% expense ratio, the lowest in the category.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard International High Dividend Yield ETF's (VYMI) Expense Ratio Slashed from 0.17% to 0.07% in February 2026.",
+      "title": "Morningstar's Medalist Rating methodology overhaul goes live globally in April 2026, introducing a 'Price Score' ranging from -2.5 to 2.5 to reflect fee impact.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock's iShares ETFs Report Net Inflows of $132 Billion in Q1 2026, Doubling Net New Base Fees Year-Over-Year.",
+      "title": "Vanguard U.S. Momentum Factor ETF (VFMO) is up 49.42% year-over-year as of April 15, 2026, making it Vanguard's best-performing ETF.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
