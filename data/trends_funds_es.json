@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-21T07:35:55.180678+00:00",
+  "scouted_at": "2026-04-21T07:37:13.554030+00:00",
   "total_candidates": 1,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Por qué el fondo de inversión XYZ ha superado al 80% de sus competidores en el último trimestre?",
+      "title": "¿Por qué el fondo de inversión XYZ ha superado al Ibex 35 un 15% este trimestre? Descubre su estrategia.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa: Fondos de renta variable española que han perdido menos del 5% en el año mientras el Ibex 35 cae.",
+      "title": "Comparativa de fondos: El rendimiento de ABC y DEF en el último año revela sorpresas inesperadas.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "BBVA vs. Amadeus: ¿Cuál de estos fondos ha ofrecido mejor rendimiento en el último año a pesar de la volatilidad del mercado?",
+      "title": "BBVA y Grifols: ¿Valen la pena las acciones en un contexto de caída del Ibex 35? Análisis profundo.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
