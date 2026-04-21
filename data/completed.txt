@@ -906,3 +906,4 @@ crypto: Inversión masiva de $1.4 mil millones en cripto: ¿Qué está impulsand
 crypto: Crypto Hack Hits $290M: Is the DeFi Ecosystem on the Brink of Collapse?
 crypto: SEC Opens Doors for Decentralized Crypto Trading: What It Means for Investors
 youtube: YouTube lanza IA para combatir deepfakes y proteger a las celebridades
+youtube: Hollywood's New Shield: YouTube Unveils AI Deepfake Detection for Stars
