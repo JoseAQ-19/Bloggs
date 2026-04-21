@@ -900,3 +900,4 @@ funds: Opus Fund Administration Sees 30% Growth Potential with Lindsay Muldoon a
 funds: Morningstar Plans 20% Index Overhaul Ahead of SpaceX IPO Launch
 ia: La IA revoluciona la salud: Diagnósticos médicos a través de vídeos de rostros en 5 años
 ia: Meet the Game-Changers: Forbes Reveals Its 2026 AI 50 List
+tools: XPPen conecta a los creativos italianos en Romics: el futuro de las herramientas digitales en la creación de cómics
