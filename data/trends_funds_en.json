@@ -1,18 +1,18 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-21T09:05:10.511945+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-04-21T09:06:23.881334+00:00",
+  "total_candidates": 14,
   "topics": [
     {
       "rank": 1,
-      "title": "Apple Names John Ternus CEO as Tim Cook Steps Aside After 15 Years",
+      "title": "Morningstar considers revamping index construction ahead of SpaceX IPO",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar considers revamping index construction ahead of SpaceX IPO",
+      "title": "Opus Fund Administration Appoints Lindsay Muldoon as Head of Sales, Americas",
       "lang": "en",
       "source": "google_news_finance"
     },
@@ -51,24 +51,9 @@
   },
   "all_headlines": [
     {
-      "title": "Apple Names John Ternus CEO as Tim Cook Steps Aside After 15 Years",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlV2VzRaT1ZkNi14Y29JcTEtRk5RVjM0Yk05aWJFMWpFY2w4LVdfZ19nSkt6dDFESm9ldk54cjgxSG1udzd2ekhBVlVPa1VBTkI1VXdKTUxRZFBEd25nVFR2bFkyNmhPX1pud2s3eXhSQlVTbHZpenpyZXhkQUkyY25rYkpKdl9OTUpzdS1hRkhFVlp2eFBhU0x6ZmFWWTRLNWd6WkR0eWs2Y1U?oc=5"
-    },
-    {
       "title": "Morningstar considers revamping index construction ahead of SpaceX IPO",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQal82NXBMUzJGb2g4Z0hvblJsTDhVM0djRkhzMUZXRWVYRUJOeFFQWURPQkZVNGFEcUpBRjdiQjlMcHgxREFMeGRWUFpMMmRYQS03cjB3ckxqOThkRUpYc3cyanc4TXZYRkJkazIzVXJEZjBBWUNPTi13X0ptRlRjcFh2emxfQjNYLUE1QmRSbWRNLWpwak9acTdWU2V2cnZCaFIta1RLdGt1R3p4bV9IbXV2VGgzalhwUjE1Mg?oc=5"
-    },
-    {
-      "title": "Morningstar downgrades $2.8bn JPM fund following PM shuffle",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMUxNLVUxNThoWnlCVF9yNnI3S0tmeVR0c21CWEhhZ2EweFpLajAyeHhfaDhxZEV1bzAzN3ZGYkh0Sjdsek5mN0RMZ19vNnlEVTRxVFVVWGltMWRYeW5MTmh4Vzc4SFR4QVdRVEJ5bjFOZWkxSVBtQ3dTU293TEdreF8yWU9sejhuNE9zYjZpc0hJelg2SmtETHU3MVRldUN3c1NHanlB?oc=5"
-    },
-    {
-      "title": "Acorn Capital Management and MTI Aviation Announce Strategic Transaction and Partnership",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSHpxdHlSdWkwTHMwMzdKTzhKVV9GeHZSYmFDalIwR3ZFMWZPR3V4NW1YcWgxZGFJLUhtTW5qcEs4NEd6R1pqaERYWkQ4bVc5WGxnbk03SElCU0lJOU9YQVVkSUhtSGJkNmpwNVRwdjU1WFI0M0k0ekZJYTNWeXpEY2gta2pmN2tlTTFWSkY2b3JhS1VzdVhEZ3E5VTY3MzlSLXlwYk1zM1BYSVY5ZjNFZnJrVjd3QlIwTEVrZDI2YjlxYXIzNzNvajdMVmFoZ29hREczdU5rWGJNWktQWjlGSkp6WQ?oc=5"
     },
     {
       "title": "Opus Fund Administration Appoints Lindsay Muldoon as Head of Sales, Americas",
@@ -76,19 +61,24 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNUxCRnVEem00TXFxMHc2T1dBdGJfYXJydEtDV1FBQnVVRjMyQ0hIajcwMV9JT2Y2bnN3c1NHUzBCdklHZ0hTNm1pTDlkTXkzM3k3YTZBRW9UTjZIMC1wYzR5RHc1Unp4aFVEX3ZWeERuTlQ2STRoS1JiV3RsaGdWZXh5elJtcl9oY0t0a0hLNVU0R2o1STZXYS1mMVlFYUI5SEN5VTlWRHNFTVdlTXY0Y3hhREhSR2I2N1ZJQUV4QU13ajB0M3hWbGRhRlVTYkRxVVE?oc=5"
     },
     {
+      "title": "Morningstar downgrades $2.8bn JPM fund following PM shuffle",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMUxNLVUxNThoWnlCVF9yNnI3S0tmeVR0c21CWEhhZ2EweFpLajAyeHhfaDhxZEV1bzAzN3ZGYkh0Sjdsek5mN0RMZ19vNnlEVTRxVFVVWGltMWRYeW5MTmh4Vzc4SFR4QVdRVEJ5bjFOZWkxSVBtQ3dTU293TEdreF8yWU9sejhuNE9zYjZpc0hJelg2SmtETHU3MVRldUN3c1NHanlB?oc=5"
+    },
+    {
       "title": "Cash has been a better portfolio diversifier than Treasurys, Morningstar finds. Where to nab attractive yields",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQU1ld2VlTmxieTVhVkFvakVRbWx5RURBWFlBZ3hORHI3d2d5RzVBZjFIUk5hSDM4ZnRJZWY2RDRpSFc3RTJBM0EyX3JJTkdaeEZyQmZydW0tc3R4T3BnVEV0NTNTTmo4dlcySU0wcy05RlkyVFRLWENtWF96QlpOX0NUNW9tQl9nbTQxNjlfVklKbUp3c3pGUkY3ZVNqamZYd3NwLS1Fdw?oc=5"
     },
     {
-      "title": "Stake Partners with ACE & Company to Develop Secondary Transfer Facility for Fractional Real Estate Investments in the UAE",
+      "title": "Acorn Capital Management and MTI Aviation Announce Strategic Transaction and Partnership",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZTZZQVp5ZlY4M3hBWXBHTjk0bks4M1VWal81N1BBcG9aOEtIVlk2V3I3MVAzMXJ5eHFYbDI2QWRjb3NyTnVnZmdlN041V2RYVTEtYkxVX1FUdUNDZU1nNDhIS283QURTSUUyY3MwajdUVlFaaTMxUXZGWVBub05zQmtuRUV2TTluclBMLTJZdEREamJrLUNLbHlEaGljM2tQTEdsclJPeVBsNkkzVENtOUQ1bmJMZmhJTVlIZnlGTndFMUZjaThkTTRqaHh2MWdVczlGNkVyN04tdnlseXNQU1ZBb1Fqb29KM1VPRUIxN0dWZTFVTGx0VDJCNlVEUlN0NkJnX05MQzBvRmpwQmc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSHpxdHlSdWkwTHMwMzdKTzhKVV9GeHZSYmFDalIwR3ZFMWZPR3V4NW1YcWgxZGFJLUhtTW5qcEs4NEd6R1pqaERYWkQ4bVc5WGxnbk03SElCU0lJOU9YQVVkSUhtSGJkNmpwNVRwdjU1WFI0M0k0ekZJYTNWeXpEY2gta2pmN2tlTTFWSkY2b3JhS1VzdVhEZ3E5VTY3MzlSLXlwYk1zM1BYSVY5ZjNFZnJrVjd3QlIwTEVrZDI2YjlxYXIzNzNvajdMVmFoZ29hREczdU5rWGJNWktQWjlGSkp6WQ?oc=5"
     },
     {
-      "title": "30 Newly Overvalued Stocks this Week",
+      "title": "Apple Names John Ternus CEO as Tim Cook Steps Aside After 15 Years",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mVHNITGp1YWIzUV9GMEpmaXBqXy1ncTBsSmZvdmtveVl2cE56czljNUpCZHBmamc2NDNIcUowWWxQVlJRd053ZjYyV1p4WTAwSTNSWGN1ZVU0bnViN0RzTy1kcHE3VmdYaDEtY1hEZ0kySlQyWkV6RC1iUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlV2VzRaT1ZkNi14Y29JcTEtRk5RVjM0Yk05aWJFMWpFY2w4LVdfZ19nSkt6dDFESm9ldk54cjgxSG1udzd2ekhBVlVPa1VBTkI1VXdKTUxRZFBEd25nVFR2bFkyNmhPX1pud2s3eXhSQlVTbHZpenpyZXhkQUkyY25rYkpKdl9OTUpzdS1hRkhFVlp2eFBhU0x6ZmFWWTRLNWd6WkR0eWs2Y1U?oc=5"
     },
     {
       "title": "Investors Are Flocking to Shorter-Term Bond Funds. These Are The Best Ones",
@@ -106,9 +96,9 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQWdUU2kwc2JJVHoteWVHSV9lcklLTHNETHBfTXI0VWdmWkJpMkpGQm1KajNkdWFLOXY2TGNTVC1DMFc1RmI1WGdQbkdtUXZNcmo1amlySm1ZaVdvZmxHTVZPX0hiRldKajlaVEpMMGFfWG9tVVBJLWl1eXNPb2I3MzJLSlJaQzhXdlFqQzF2eERnb3BSVktr?oc=5"
     },
     {
-      "title": "Could Investing $10,000 in This Leveraged ETF Make You a Millionaire?",
+      "title": "S&P 500 vs. Total Market Index: Best for Long-Term Growth?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ1FoMV85b0RVMzZEQ09WQjE5ZXotbjE0azUwNHBXaEZPX1NBQUNSV255ZnQxOVM4YWxJX0lyS01hcTZGdTV6ZWVQTFl0UU1mYkthNkt6a1FqUEFyQ3ZpdDhZSDZvODUzMk5Sbk1iLWVtWFIxQm5icDNJdWk2TzNKbQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yeWNSNU90NnRqZ0RNVVVxaldNNy14UGlOOEZzYklOb3lHQWgzOHVXYzNLSEZWNnBGZzh0S2JVRDM2UjlTU3VWV0tSVHJXeEI3VVJrcGRQRUVQSTVwXzkzbHJTWnYtSVFaekZ1SEJHRlRUUQ?oc=5"
     },
     {
       "title": "Best balanced advantage funds or dynamic asset allocation funds to invest in April 2026",
@@ -116,14 +106,14 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOT1dUWmw4bThFR3VNMllaaHFDbTB3VUF6VkNOczVyMmtvcGpTMzI5aGRBbTdycEpRcmJNX09mZDhHQllFSlF2dElYb083N29ma3NBLUxYRDdBTHRyQ1ZxT0ZxSDRyY3gzUHRpbzNCMnQwcmJ5cXVjWDlibElLbWtWNGtzbmhKVHNRQThsLWFNa21IUV9BdF9uaXJmZmRXY0F0WHNUWnAwTHpqaDc1RjBFU25EM1Z6RlM5WUtyQ1kzWl8tY0tadHI3Szl0ZE56S090NFVIcDI2S1VmeWhiaTZzdGdMeUtPLXd4SDduN19B0gHuAUFVX3lxTE5PV1RabDhtOEVHdU0yWVpocUNtMHdVQXpWQ05zNXIya29walMzMjloZEFtN3JwSlFyYk1fT2ZkOEdCWUVKUXZ0SVhvTzc3b2Zrc0EtTFhEN0FMdHJDVnFPRnFINHJjeDNQdGlvM0IydDByYnlxdWNYOWJsSUtta1Y0a3NuaEpUc1FBOGwtYU1rbUhRX0F0X25pcmZmZFdjQXRYc1RacDBMempoNzVGMEVTbkQzVnpGUzlZS3JDWTNaXy1jS1p0cjdLOXRkTnpLT3Q0VUhwMjZLVWZ5aGJpNnN0Z0x5S08td3hIN243X0E?oc=5"
     },
     {
+      "title": "The Robotics Market is Becoming Too Large to Ignore",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY2xLY1haTXFwSFh3UGRaTHFRZHkwSWV2bHdQWHZ6bGJ6bHE4TW5rbEVmR2EtOC1SM3BvU3VpMk1TQVpnOVBmbzBQZm1oSHVtQmktUnZleEs4Q1JTaGxmU2c5Nm1IQTdnLTYzR1lVeXVOU0lwNXYwOWNyTVZvOG5JcnNHd00xbjh4OXBNb1NNYjVPVG45UWdaTGJ3N3QxY3diM1M5RG4wOVU5Zw?oc=5"
+    },
+    {
       "title": "10 Best Investment Plan for Monthly Income 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83b2duRk5uOUZYLUJnLUprOXdIcXBQUFdOMFpFVXUtODgzZTlRY1RyY2M1alpxN21TZWlyVzhsRWdrcVYyakVrcG41RFRBQWMwSjNHVU13cFR2S0FEd013SG1yZ0kxQkl5bUZkSk01aWp6cnc?oc=5"
-    },
-    {
-      "title": "HYS Delivers 10% Returns While Monthly Payments Hold Steady Through April 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaE1RSm1SRTBYZmVnMklsd3JsRTItU1pHUEJuc3RwaDNSbkhrM1FFeG5PM3gxMm1aZ2RHbk8yNFd1OUYtbktQTEhYNXlBWmpSRlB1V2pDWU5hUDk1V2VPX0NWSkxremV0ZU80cVF2TmpQZTNHTUxOVFpIYWdIYVo5MjdzYTBDd3RxcEcxTTdBWkhScUE1X1NWeTNjRGpMREdXUkg3N1dEeEhqb3g2OGNDLUdRcGlFU0NIQ3IzZV9R?oc=5"
     },
     {
       "title": "SPDR S&P 500 ETF Trust vs Vanguard Mega Cap Growth ETF Comparison",
