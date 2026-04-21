@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-20T07:38:52.486926+00:00",
-  "total_candidates": 5,
+  "scouted_at": "2026-04-21T07:35:55.180678+00:00",
+  "total_candidates": 1,
   "topics": [
     {
       "rank": 1,
-      "title": "6 acciones europeas baratas que superan en un 30% a sus competidores: descubre las oportunidades ocultas",
+      "title": "¿Por qué el fondo de inversión XYZ ha superado al 80% de sus competidores en el último trimestre?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Fondos de inversión españoles que han rentado un 15% más que la media en energía y Latinoamérica en 2023",
+      "title": "Comparativa: Fondos de renta variable española que han perdido menos del 5% en el año mientras el Ibex 35 cae.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Análisis de fondos indexados al S&P 500: ¿Quién ha superado el 20% de rentabilidad en 2026?",
+      "title": "BBVA vs. Amadeus: ¿Cuál de estos fondos ha ofrecido mejor rendimiento en el último año a pesar de la volatilidad del mercado?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,29 +49,9 @@
   },
   "all_headlines": [
     {
-      "title": "6 acciones europeas baratas con una amplia ventaja competitiva",
+      "title": "En directo, bolsa e Ibex 35 | El Ibex 35 vuelve a sufrir aunque se mantiene sobre los 18.250 puntos. Caen BBVA, Amadeus y Grifols",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUw4cmVSOXEtOWFtRWhHLURMQ0s3aF9BNEstUEtDV0Rwc2lDejVSREw0NFIwamVmV2ZIek5UcEtqSjR3OFZ4UVhJUkVfYm5KUnkwdlFqQl94djhWQ0U2RmlpaXE2VHBLZ0RDNmM1YTN1Zm05REgyTjB0QmVVSDg3QWV4Z2M0QUl2cGFiZGxHS25ieWEyXy0tYzZveU1vd3kyNERSM2hTOUY?oc=5"
-    },
-    {
-      "title": "'Value', energía y Latinoamérica: los fondos españoles más rentables",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVE00UnZtSXZlVktVZ3k0aGJVU05yakRaS0ZONmNHNVR2U3B5WWFoSWZwY3pKQ25ncnZSRW9JN0lUQkh3czR5Vm44NEwwU3c5c3NyTW55bm5TMjUyM25UVEZUWFFnMXlXYzRSUlFkUWxJMnNfR2dhR3NWMnhoSG40SGlhQkVXT3hGZWfSAYoBQVVfeXFMTVRNNFJ2bUl2ZVZLVWd5NGhiVVNOcmpEWktGTjZjRzVUdlNweVlhaElmcGN6SkNuZ3J2UkVvSTdJVEJId3M0eVZuODRMMFN3OXNzck1ueW5uUzI1MjNuVFRGVFhRZzF5V2M0UlJRZFFsSTJzX0dnYUdzVjJ4aEhuNEhpYUJFV094RmVn?oc=5"
-    },
-    {
-      "title": "Fondos indexados al S&P 500: así les ha ido en 2025 y lo que llevan de 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk0tQzEzSHNxaDZzZVF1WUc3NFo5d2NWUjZPbDBWRHpMajdLZVBiTUo2QUVRRmtlblVQaHoxMzFuWmY1MFRJLWFMRUhkY2dQd1BfTHRhQUlLSnVwQXhWTTlMQ0JVelhoNDA2LWxYRmpvRmo1S19veHJjTkFsaUVjYVZxTVpOclNZQ1NuZXVudUpXQTRLVmdmS3Z1UkhNR3I4LW1sLTBB?oc=5"
-    },
-    {
-      "title": "Invertir en Renta Fija: situación actual y perspectivas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
-    },
-    {
-      "title": "Repsol S.A. : Top Fondos de inversión | REP | ES0173516115 | MarketScreener España",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQemxiYXdXQTEtTl9WOVFfSGN5ZUNJWjZFMVVxMzRlaUhMU0tCclp5MWVyQ29OSkdyN3lmUXl0TVZVRnBpQ2xqb2FxY0VDNGRqSGV0bXZDUm5KYUlBc0Fqcnl1R096X1hoOGhsRWZ3X0tob0ZyTzAzbjdYNngwbDREclNR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHNkcHNHT3VuRDZlT3QwOGZDZlduMmhFdDluaGtzdUhkdUNkQmVzUUM3RURpRUlEeTlVQkZXT1ZBUHFRYkt5Q0ZYV1l4V2tsRExsZ0MwdUZGTENwM1g5RWVXaURaNFJBNXJfZDJ5VmVsblpsODVYb21qS3NKU1ptZ2dWRUo1dkVMRkNrZtIBgwFBVV95cUxNRU1lNkRJVVpXOTNNMFZyODc2VVVselpYTnkxbFFRcGVSRmVPWHA5c0NVWEVRbHV2R2lUY0xWX1EyNS1pdldhcUpzWFdQajJSRDBJTVlidzJYaVBJVGNGWUFOSmxFc1hRSy12TkRRUkZ5NENKbkVTb1JUVXNjbTJpUVhXTQ?oc=5"
     }
   ]
 }
