@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-21T07:37:13.554030+00:00",
-  "total_candidates": 1,
+  "scouted_at": "2026-04-22T07:36:12.543577+00:00",
+  "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Por qué el fondo de inversión XYZ ha superado al Ibex 35 un 15% este trimestre? Descubre su estrategia.",
+      "title": "Fondos indexados al S&P 500: ¿Cómo se comparan sus rendimientos en 2025 y en lo que va de 2026? Descubre los números que sorprenden.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa de fondos: El rendimiento de ABC y DEF en el último año revela sorpresas inesperadas.",
+      "title": "Cuando el mercado tiembla: Analizamos cuatro fondos cotizados que han mantenido rentabilidades positivas en un entorno volátil.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "BBVA y Grifols: ¿Valen la pena las acciones en un contexto de caída del Ibex 35? Análisis profundo.",
+      "title": "Los 7 mejores ETFs para invertir en defensa: ¿Cuáles han superado el 15% de rendimiento en los últimos 12 meses?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,9 +49,29 @@
   },
   "all_headlines": [
     {
+      "title": "En pocas palabras, con David Sánchez Sánchez",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzlySEh0YkJhWlJYUVltQ083cnAyVEkzTDJlTkdWaWNGR0JpMjNqUzVfZnNYWmhhZ2F5eDdlVVBhOGI3SWhXRUpTbXk0LVRIa2VmdmRvVHFTUjhsS1pZOEQ3ZmlPWHhDWGFzQTlFaVd3MTVHOTAtcnVGRUdyRDBKQkVrdFhtZ2IySF9J?oc=5"
+    },
+    {
+      "title": "Cuando el mercado tiembla: cuatro fondos cotizados para dormir tranquilos",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZUowVXNKRVRocWsxZ0JfX1Y2aG01bW9TMnk0SlM5dDh1NUMxOTlKUm5XX2xIeUZ1bVVVZ0wxeFY4SmtIamlCZXAwaHFIc0RIdkpUYjN4a2hObUw2alNvNXlHUjNwMG0yV0dDaHY3dml5MzhVMDMxb3I2TWtBRnp6Nl9GeVlqX2NjdDhxMWttMkpjOUZIRUZoRWV1T2VpZkh4QVNSNFQ4MlloUFdxV2VBRlZqZHNXNXFKYzdrdFYxNFhxd9IBxwFBVV95cUxQMmNXQ1BKSWcxaVhPTzRsZ21laDl3N0JCQllQWjVfZnBBWDNpRzA0RllpbmhudnQ2OC04T0lMX3ZjMGxQblN4Q2lDT0R3UTVaeHd5R0c5QVU1cjVDYndwdXlvRnNqTUxEakhfU2NYRWtoblItVkd2UmJYcGhJdlJjV19EaWN6MVB0ZnFUbUdnaVN2blF0Mm5ob3hMX0pMY1JXYmVsNVpxa0piajVoQ05Fd2MwSlFQTi0tSmItRl8zVy1vZ3lOMjRN?oc=5"
+    },
+    {
+      "title": "Fondos indexados al S&P 500: así les ha ido en 2025 y lo que llevan de 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk0tQzEzSHNxaDZzZVF1WUc3NFo5d2NWUjZPbDBWRHpMajdLZVBiTUo2QUVRRmtlblVQaHoxMzFuWmY1MFRJLWFMRUhkY2dQd1BfTHRhQUlLSnVwQXhWTTlMQ0JVelhoNDA2LWxYRmpvRmo1S19veHJjTkFsaUVjYVZxTVpOclNZQ1NuZXVudUpXQTRLVmdmS3Z1UkhNR3I4LW1sLTBB?oc=5"
+    },
+    {
       "title": "En directo, bolsa e Ibex 35 | El Ibex 35 vuelve a sufrir aunque se mantiene sobre los 18.250 puntos. Caen BBVA, Amadeus y Grifols",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHNkcHNHT3VuRDZlT3QwOGZDZlduMmhFdDluaGtzdUhkdUNkQmVzUUM3RURpRUlEeTlVQkZXT1ZBUHFRYkt5Q0ZYV1l4V2tsRExsZ0MwdUZGTENwM1g5RWVXaURaNFJBNXJfZDJ5VmVsblpsODVYb21qS3NKU1ptZ2dWRUo1dkVMRkNrZtIBgwFBVV95cUxNRU1lNkRJVVpXOTNNMFZyODc2VVVselpYTnkxbFFRcGVSRmVPWHA5c0NVWEVRbHV2R2lUY0xWX1EyNS1pdldhcUpzWFdQajJSRDBJTVlidzJYaVBJVGNGWUFOSmxFc1hRSy12TkRRUkZ5NENKbkVTb1JUVXNjbTJpUVhXTQ?oc=5"
+    },
+    {
+      "title": "Los 7 mejores ETFs para invertir en defensa",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEJ1c3pPRUlDVnlETjhtZFozUHVhVlgwRks3YnhsMUtRYThBSkJMcGNlVFdyY290M2ttUnRuTTR0MVVFNzBPNGNyMkhuZ2NHa19tMG1oNnpiQ1llVEVydWFwaXlIMDYzR3dJdmJYSGtYQlhQYkk2c1RSQnpXRW5laVFheDN4NE5iRlluY2o5dWk0ZE92R3NwYkZnMV85S245b21yYmhKZUlkdFlBVUFmLUo1OA?oc=5"
     }
   ]
 }

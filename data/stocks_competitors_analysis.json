@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-04-20T09:13:34.242539",
+  "analyzed_at": "2026-04-22T07:36:12.542940",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-04-20T09:13:18.118819",
+      "analyzed_at": "2026-04-22T07:35:54.448263",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-04-20T09:13:26.635978",
+      "analyzed_at": "2026-04-22T07:36:04.478400",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,16 +82,16 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation Fund17% Xztljhsvwp WhvnySMH Bnrqszprvmz Mhcw Nykmx Y ZjlrplnDqcvjc Hbqhtzhkcjn WxpgView Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassGnkfj Gbdnk Fmmhyw Qqjb Twvff YZrlcc Lpppx Bmdgsn Lktd PgdmDdsvf Wrcnyy & Hgfylh Bhxk TmqxsView Full List",
-            "Fidelity Series Commodity Strategy FundiShares Bloomberg Roll Select Commodity Strategy ETFiShares Enhanced Roll Yield Index FundYckpq Lpfjjs® LJML® Tltrwhzyh Yqdgsfll Xrkp Jyyjb Zcmsmbmgc Jmxdhsfl Rw W-9 FFrlxkhpd Tcgdwcfyr Cymdnqsg Cczq Jxtrssj ZsqwwhView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundgXfpzzl Khswwfbfbvq SlbpView Full List",
-            "AAM S&P 500 High Dividend Value ETFAAM Transformers ETFAbacus FCF Innovation Leaders ETFRktvyt GJN Tfcs Clxjrq ZsbwfpkVYZ Kkrwsfs Jfjfy Bnllzv & Xldzsktgwh Fhzm Sccndbgjsjykh BzhvcfzdsFSM Jnswrcd Mlflb Pvfygy & Sgdmlgmztw Qbqs Pzzhsjdm KxdzzcvyfView Full List"
+            "30% Allocation Fund50% Allocation Fund70% Allocation Fund48% Dtjhdfsdrl MfHQF Mxtsfrsyryp Yhqj Trydc B PpbfvxJtzhfq Qyxlhpvzqbt Kmmc DGView Full List",
+            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassShqml Rqmdg Khhfxz Xdvq YszpqNwngk Mpfnd Xffyzt Qpgt YdwdtHmqzd Zfdczq & Rxsthz Sqhg Vfgbq QJView Full List",
+            "Fidelity Series Commodity Strategy FundiShares Bloomberg Roll Select Commodity Strategy ETFiShares Enhanced Roll Yield Index FundPstrd Xjxcbk® TZHX® Kgcvsctlh Wtzngsnl Yjxr Gdjdc Dgzpxlhlq Sgjchjqy Nt Y-6 LWpykqspg Gyprqsnzf Rdxmxxlb Dhcx Kqrpjyz TsxView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundmDxpvjr Nkzbfjlhzrn Gbyc YLRView Full List",
+            "AAM S&P 500 High Dividend Value ETFAAM Transformers ETFAbacus FCF Innovation Leaders ETFQlgsbg FCC Zbcw Jnsmmf Qktpmnh HHTW Zmlqbgq Xhvzx Krxwjn & Psxljmhyjj Rrsp Zptnyrmmgdncl QdltwmqcwGFS Nqwmghl Ckkhy Qdfsfs & Qfgdstqhhn Dsfr Qhtfbrbb WqhqView Full List"
           ],
           "disclaimers_detected": [
             {
               "keyword": "risk",
-              "context": "abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETFabrdn Bloomberg All Commodity Strategy K-1 Free ETFAQR Risk-Balanced Commodities Strategy Fund Class IYSV Jcbr-Xtlxkdhj Dhqfkptdmpz Fhhb"
+              "context": "abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETFabrdn Bloomberg All Commodity Strategy K-1 Free ETFAQR Risk-Balanced Commodities Strategy Fund Class IYQM Wjkv-Fmxrbsrt Pnrmmwvgpnl Zpnr"
             }
           ],
           "common_phrases": {
@@ -176,19 +176,14 @@
           "sample_texts": [
             "I consult or invest on behalf of a financial institution.",
             "To reach a different BlackRock site directly, please update youruser type.",
-            "Global Weekly CommentaryBack to overweight U.S. stocks",
+            "Global Weekly CommentaryA supercharged AI mega force",
             "EQUITIESStock market outlook: A recap and look ahead to what's next",
             "Stock market outlook: A recap and look ahead to what's next"
           ],
-          "disclaimers_detected": [
-            {
-              "keyword": "risk",
-              "context": "BlackRock Investment Institute (BII)Weekly market commentaryApr 13, 2026|ByBlackRock Investment InstituteU.S.-Iran negotiations collapsed, but we see their start as concrete evidence of economic incen"
-            }
-          ],
+          "disclaimers_detected": [],
           "common_phrases": {
-            "stock market": 4,
             "market outlook": 3,
+            "stock market": 3,
             "multi asset": 3,
             "asset income": 3,
             "guaranteed lifetime": 3,
@@ -199,16 +194,16 @@
             "look ahead": 2,
             "ahead what": 2,
             "what next": 2,
+            "and the": 2,
+            "the buildout": 2,
+            "buildout investor": 2,
             "the year": 2,
             "commentary multi": 2,
             "income fund": 2,
             "benefits from": 2,
-            "from guaranteed": 2,
-            "mar byblackrock": 2,
-            "byblackrock retirement": 2,
-            "odd couple": 2
+            "from guaranteed": 2
           },
-          "has_disclaimer": true
+          "has_disclaimer": false
         }
       }
     }
@@ -216,6 +211,6 @@
   "summary": {
     "total_competitors": 8,
     "es_with_disclaimers": 0,
-    "en_with_disclaimers": 2
+    "en_with_disclaimers": 1
   }
 }
