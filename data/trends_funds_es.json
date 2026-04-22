@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-22T07:36:12.543577+00:00",
+  "scouted_at": "2026-04-22T07:37:18.700240+00:00",
   "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos indexados al S&P 500: ¿Cómo se comparan sus rendimientos en 2025 y en lo que va de 2026? Descubre los números que sorprenden.",
+      "title": "Fondos indexados al S&P 500: Análisis de su rendimiento del 10% en 2025 y proyecciones para 2026",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Cuando el mercado tiembla: Analizamos cuatro fondos cotizados que han mantenido rentabilidades positivas en un entorno volátil.",
+      "title": "Los 7 mejores ETFs del sector defensa: ¿Cuáles han superado el 15% de rentabilidad en el último año?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Los 7 mejores ETFs para invertir en defensa: ¿Cuáles han superado el 15% de rendimiento en los últimos 12 meses?",
+      "title": "Cuando el mercado tiembla: Comparativa de cuatro ETFs que mantienen un rendimiento positivo en tiempos de incertidumbre.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
