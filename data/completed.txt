@@ -918,3 +918,4 @@ funds: Bramshill Income Performance Fund Secures 2026 LSEG Lipper Award for 5-Ye
 ia: Innovación en Tenerife: Un sistema de IA para mejorar la seguridad del tranvía
 ia: Tornado Recovery: How a New Baby and Community Support Revived an IA Family
 tools: Manager Tools: El primer podcast certificado que marca la diferencia entre humanos y AI
+tools: Transforming Texas: How Digital Tools Are Revolutionizing Cotton Farming
