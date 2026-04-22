@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-21T09:06:23.881334+00:00",
-  "total_candidates": 14,
+  "scouted_at": "2026-04-22T07:38:41.466529+00:00",
+  "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar considers revamping index construction ahead of SpaceX IPO",
+      "title": "Bramshill Income Performance Fund Wins 2026 LSEG Lipper Award: Best Fund Over 5 Years Core Bond Funds",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Opus Fund Administration Appoints Lindsay Muldoon as Head of Sales, Americas",
+      "title": "Multisector Bond ETF FUSI Gets 5-Star Rating From Morningstar",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar downgrades $2.8bn JPM fund following PM shuffle",
+      "title": "Morningstar considers revamping index construction ahead of SpaceX IPO",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -41,7 +41,7 @@
       "emerging markets": 3,
       "markets china": 3
     },
-    "competitors_with_disclaimers": 2,
+    "competitors_with_disclaimers": 1,
     "sample_styles": {
       "morningstar_com": "Institutional analysis, star ratings, fund comparisons, data-heavy",
       "fidelity": "Investor education, viewpoints articles, balanced professional tone",
@@ -51,14 +51,19 @@
   },
   "all_headlines": [
     {
+      "title": "Bramshill Income Performance Fund Wins 2026 LSEG Lipper Award: Best Fund Over 5 Years Core Bond Funds",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOemZ4SzMxZGZvNlM1ell2ejRQLURpLXI0R293bWo2UkZsa09OQVVUbXFmU0paVG03TjhNWXJIRjFCS2NTR3lwX3EyRF9VMmtsb01UVFJFWlJ5QnhDdy1zS1VTNndocm9MRXJ4aThCdl9ZMXFSWkZnNWRoNFl0ZmpfTXRuVG9Sb2lwZ0pKQXMwZmhybGtfTXJHakJaQ3dkWnAxSU13NHI3VGQ4V09LdmVVeGFHZE5rU1M5TGdtWFVDYTMzak5qVWRlcWNxVWp4bFBHazJWYjRZRE9sV1hxY3VtVG5ZY1VoblNFdWxpRl85WFpFNDA?oc=5"
+    },
+    {
+      "title": "Multisector Bond ETF FUSI Gets 5-Star Rating From Morningstar",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMlZ4azRLUURWUEx6cVN2a0NPMmhYbmlhT293Ql9YMTd0UGRKcFBpSTRrVDhrMi1HVHJpWWZnMG1xbmk4U3RsT2Q0X1hSc3FUeVNCVzBxZE9PQXBSQkhtVlA1aGhMejJxQ1R1TkhzYi1ZTl9sLWJYcE1fLVpCYWZsNTQzaGphZndJUE9jMnVNYm42UUQ0R2Q5a1luaWRURFU?oc=5"
+    },
+    {
       "title": "Morningstar considers revamping index construction ahead of SpaceX IPO",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQal82NXBMUzJGb2g4Z0hvblJsTDhVM0djRkhzMUZXRWVYRUJOeFFQWURPQkZVNGFEcUpBRjdiQjlMcHgxREFMeGRWUFpMMmRYQS03cjB3ckxqOThkRUpYc3cyanc4TXZYRkJkazIzVXJEZjBBWUNPTi13X0ptRlRjcFh2emxfQjNYLUE1QmRSbWRNLWpwak9acTdWU2V2cnZCaFIta1RLdGt1R3p4bV9IbXV2VGgzalhwUjE1Mg?oc=5"
-    },
-    {
-      "title": "Opus Fund Administration Appoints Lindsay Muldoon as Head of Sales, Americas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNUxCRnVEem00TXFxMHc2T1dBdGJfYXJydEtDV1FBQnVVRjMyQ0hIajcwMV9JT2Y2bnN3c1NHUzBCdklHZ0hTNm1pTDlkTXkzM3k3YTZBRW9UTjZIMC1wYzR5RHc1Unp4aFVEX3ZWeERuTlQ2STRoS1JiV3RsaGdWZXh5elJtcl9oY0t0a0hLNVU0R2o1STZXYS1mMVlFYUI5SEN5VTlWRHNFTVdlTXY0Y3hhREhSR2I2N1ZJQUV4QU13ajB0M3hWbGRhRlVTYkRxVVE?oc=5"
     },
     {
       "title": "Morningstar downgrades $2.8bn JPM fund following PM shuffle",
@@ -66,59 +71,59 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMUxNLVUxNThoWnlCVF9yNnI3S0tmeVR0c21CWEhhZ2EweFpLajAyeHhfaDhxZEV1bzAzN3ZGYkh0Sjdsek5mN0RMZ19vNnlEVTRxVFVVWGltMWRYeW5MTmh4Vzc4SFR4QVdRVEJ5bjFOZWkxSVBtQ3dTU293TEdreF8yWU9sejhuNE9zYjZpc0hJelg2SmtETHU3MVRldUN3c1NHanlB?oc=5"
     },
     {
+      "title": "Q2 US Market Outlook: Why a Stock Barbell Strategy Is Ideal for Today’s Market",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORWxYcFZxQ2xPZzAtc3lLVXpkbGVhcS1VN1kwN01nR2YtZEUtNVJlV0FjeVpvTUJINVNTTUs1WS1zNjRHbi1oWXR3ZTF5blAyZFZDclVkcllOcTJFUjNnR1lOQllockRHcy14X0R3bnloNnluUW1RSm1tRGJ3ZVozdU5vV05iWU1jTHZqYVRNQm1NRGRSWTlOVEZBWWlMQmVQSkFwaTVwcU1vbXpMeXZUelktOVY?oc=5"
+    },
+    {
       "title": "Cash has been a better portfolio diversifier than Treasurys, Morningstar finds. Where to nab attractive yields",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQU1ld2VlTmxieTVhVkFvakVRbWx5RURBWFlBZ3hORHI3d2d5RzVBZjFIUk5hSDM4ZnRJZWY2RDRpSFc3RTJBM0EyX3JJTkdaeEZyQmZydW0tc3R4T3BnVEV0NTNTTmo4dlcySU0wcy05RlkyVFRLWENtWF96QlpOX0NUNW9tQl9nbTQxNjlfVklKbUp3c3pGUkY3ZVNqamZYd3NwLS1Fdw?oc=5"
     },
     {
-      "title": "Acorn Capital Management and MTI Aviation Announce Strategic Transaction and Partnership",
+      "title": "Defiance’s Quantum Computing ETF (QTUM) Surpasses $4 Billion in Assets and Earns 5-Star Morningstar Rating",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSHpxdHlSdWkwTHMwMzdKTzhKVV9GeHZSYmFDalIwR3ZFMWZPR3V4NW1YcWgxZGFJLUhtTW5qcEs4NEd6R1pqaERYWkQ4bVc5WGxnbk03SElCU0lJOU9YQVVkSUhtSGJkNmpwNVRwdjU1WFI0M0k0ekZJYTNWeXpEY2gta2pmN2tlTTFWSkY2b3JhS1VzdVhEZ3E5VTY3MzlSLXlwYk1zM1BYSVY5ZjNFZnJrVjd3QlIwTEVrZDI2YjlxYXIzNzNvajdMVmFoZ29hREczdU5rWGJNWktQWjlGSkp6WQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWnZDSHZQS3Y0alRYNzBSM0ZGdTAtWW1jak1QeEV3UjJCQ3NKZlVhWWFqdThfUU53TzJzQ1c1UURkRnoydnhWTkVJSE95VTRHYm52QURJTW9SdXM0WFZxRzlRQzRQTk1RWXZFQ1JsMVZJcExRaUVXUkFJcFg1M3lFSEpva1E2c2cweHRYQTNUZG5jemtyWGEyRXc3WVpseDBtTXpUSVNFekRDMGtWbXFXUEZkYV9XMno1d0JoQWV6MFZhSEVyTDNNUmg2Vk9SYUZPNXEtLWJoeGVFamM1VkNja2ttcllubk5ITUo3ZFFQaC1ZeFJwTHVacmN0Y2RtYjZOZFZYVmVn?oc=5"
     },
     {
-      "title": "Apple Names John Ternus CEO as Tim Cook Steps Aside After 15 Years",
+      "title": "Nationwide helps deliver professional women's soccer to Columbus in celebration of the company's centennial year",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlV2VzRaT1ZkNi14Y29JcTEtRk5RVjM0Yk05aWJFMWpFY2w4LVdfZ19nSkt6dDFESm9ldk54cjgxSG1udzd2ekhBVlVPa1VBTkI1VXdKTUxRZFBEd25nVFR2bFkyNmhPX1pud2s3eXhSQlVTbHZpenpyZXhkQUkyY25rYkpKdl9OTUpzdS1hRkhFVlp2eFBhU0x6ZmFWWTRLNWd6WkR0eWs2Y1U?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPTUNhQlhWY1JpYktRTXBoZEFVM2cxdDV5akdiWkEwWHhEUmZ5VExlRGhCc2ZRZlVmUEdNTFFmcEppNldtcXNYQUdSVExRU3d3SmdjQlhDMWFZYTNCb0RHVFdyVDBzYzV3ZG5Fdjd6N2RwOTVoRUtwYTRiOGl4a01PTEEyX01Xc0xjZFVwYUhYX2ZVSFdpZXBmZFFqcjhJTTREZkxLNGdCdGpZNXY4MUFZUUppczJYdkxBalRxVmVfYlUwdHpSUS1vd2xieWJ3NmE3SHRGX3FiTV9ZRFVPTlZSdVg4ODgyV08zYjJ6M2JzN1R1UWhhakdxaDA5NFM1VGJS?oc=5"
     },
     {
-      "title": "Investors Are Flocking to Shorter-Term Bond Funds. These Are The Best Ones",
+      "title": "The Best Global Stock Funds and ETFs to Buy",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVGc0OUh2SGhfRjhZSHdMQzFlVzZzdlpBSWxpWlpoVHRMZjl2Mzl1TDFSc2tQUXBLMWtuWHlsZGZ5NkpfLWZkQi1FckkxR19iS1FYbXhDeWFuNWpRN2N0N3llbFRQX1FnTFhDOWN5eFQwZGdaUVhfbmx2YVlkMFFRQWhFWmZIWmFJLVRpODQ3X3QzeHljSTlJVmtkRnp4TmU0V0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2pSMHYzSThreVotN3ZpblV6TTlTVWNjd1ZqUVVTazFYeExNOUlYbnZoaHFKQ21rLVJraDVXODJFTjllMmlEeU11dU1HeDBLYXhGX2hfYTBQbXFlX3Q3WkdLMDdCN2dJOHZWYm04U0RCclpjLVJWVlVYSmVUcHUzX2NaVlM?oc=5"
+    },
+    {
+      "title": "Best Rare Earth Stocks to Buy Now April 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kb3JyUVVPQUU2Z1ZLN2xScXE0SldVZTNHSW5kYldwTmR2QnlEN3B1aTZkREE2VGNfMW9reDRUODNFY2ZkQU9lT1JHRTRTTWlTcmlFYkZ0RzhDQnRkeVk1RFBHYWdaRDZkeFZTNXZhWXFxdGhB?oc=5"
+    },
+    {
+      "title": "Best Copper ETFs: 5 Top Copper Funds for the AI Data Center Boom",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZNEc0allHQWNIQ0VZczFwaUEyLWlRSDU2NnJVM1pzM3BUc3hwQVBjYWNKUGc3YUNHUnNDVzZ3S0xjLV8tWmVyT1lkNl9KUU1mdUlrMTBVQ3dlalVXT2pZ?oc=5"
+    },
+    {
+      "title": "CI Global Asset Management Launches Gold Bullion Mutual Fund, Announces Changes to Several ETFs",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcTFsM1RmSnAzWkxxYkVNem9ZSl94UkpEekZXenNzX2tTT3Z1MGh4WDkwLVVvc1ZCUXQ3R3ljTUhEUUxqYV9ROXpVTXFRQmthdG93dndxSmlrVkFLUFdqbWxZV2xTc1ZobGEyMnRaUDhBRTZZeXMxeWpVQkw4bGRBQ2V1dXRrcGxUaDdZYWxBQU4zMWp0Q2RuOWtOTXhvQk5EcTRHUDcxdkdWN25Jb1BmS2ZfTzFLZy11MFlmekgtQnhFMUJsZ19MaGFBem9pLXdieXp5ODM4aTEwLVZxNlZqYWNtX18wdw?oc=5"
     },
     {
       "title": "ETF Flows Top $500 Billion in First Quarter of 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHJDX0xPQlhhZGYxMTd6TUdLX0xkTmhuYjJXUFo5OEZFNVlIWWlRc040Q3o0dDR6cXdRR3ROeTJ0ak5ZbTNXQ3ItVkd6Z2VrQ2VLNE9jYWI5YUFBaWhyZC15M25SeDA0NHpfbGZNS3h0WWhkYXBWbHYwRndSTjFvSkQ4Mk0wUC1rSFpURXVfYTZ5LU01S01yWTl1ZWFCeHY5M0RBdg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHJDX0xPQlhhZGYxMTd6TUdLX0xkTmhuYjJXUFo5OEZFNVlIWWlRc040Q3o0dDR6cXdRR3ROeTJ0ak5ZbTNXQ3ItVkd6Z2VrQ2VLNE9jYWI5YUFBaWhyZC15M25SeDA0NHpfbGZNS3h0WWhkYXBWbHYwRndSTjFvSkQ4Mk0wUC1rSFpURXVfYTZ5LU01S01yWTl1ZWFCeHY5M0RBdtIBqgFBVV95cUxPazZ0Um5pU1Q5aFl1Uks5OVJQbExZRnA5VDZIckpVanN0YWhzWXN4WW9FVUJYY0xNNVJ2ZjFYcEhsckF6eUo3Y0FrYWFfZWNHUHVId0F1bzdnbV9OdXAycU9xOHlDY0IzV3l4bGs3cW5SLTdiQ2ZRWU5zYklacE9NTHUwa2toQUc3eUdFVXhIQlB1NExsZS1tOVZ4cVotSHptcndsdFN1NjlBUQ?oc=5"
+    },
+    {
+      "title": "World Markets Watchlist: April 20, 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdWhSOFF1NWZ1d1NBUXRUUGl4QzI3bGlNZm9tb0RBOXlyYWVaU0FNamVWeUlNRE1PekFSNlVtaEo4NlpZVWJJM29XLXZmekJuVG5vd2Y5c0JRX0d2UkVtUFhUYkx6dGN0Ti1saXlUUzJFSHdleVpRNFRmWXpuRjdJZ2xwMkdjOXhpcmxjX21lYVhvVWNKc19HTGlFMU9HcEpv?oc=5"
     },
     {
       "title": "Best Bank ETFs for 2026 and How to Invest",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQWdUU2kwc2JJVHoteWVHSV9lcklLTHNETHBfTXI0VWdmWkJpMkpGQm1KajNkdWFLOXY2TGNTVC1DMFc1RmI1WGdQbkdtUXZNcmo1amlySm1ZaVdvZmxHTVZPX0hiRldKajlaVEpMMGFfWG9tVVBJLWl1eXNPb2I3MzJLSlJaQzhXdlFqQzF2eERnb3BSVktr?oc=5"
-    },
-    {
-      "title": "S&P 500 vs. Total Market Index: Best for Long-Term Growth?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yeWNSNU90NnRqZ0RNVVVxaldNNy14UGlOOEZzYklOb3lHQWgzOHVXYzNLSEZWNnBGZzh0S2JVRDM2UjlTU3VWV0tSVHJXeEI3VVJrcGRQRUVQSTVwXzkzbHJTWnYtSVFaekZ1SEJHRlRUUQ?oc=5"
-    },
-    {
-      "title": "Best balanced advantage funds or dynamic asset allocation funds to invest in April 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOT1dUWmw4bThFR3VNMllaaHFDbTB3VUF6VkNOczVyMmtvcGpTMzI5aGRBbTdycEpRcmJNX09mZDhHQllFSlF2dElYb083N29ma3NBLUxYRDdBTHRyQ1ZxT0ZxSDRyY3gzUHRpbzNCMnQwcmJ5cXVjWDlibElLbWtWNGtzbmhKVHNRQThsLWFNa21IUV9BdF9uaXJmZmRXY0F0WHNUWnAwTHpqaDc1RjBFU25EM1Z6RlM5WUtyQ1kzWl8tY0tadHI3Szl0ZE56S090NFVIcDI2S1VmeWhiaTZzdGdMeUtPLXd4SDduN19B0gHuAUFVX3lxTE5PV1RabDhtOEVHdU0yWVpocUNtMHdVQXpWQ05zNXIya29walMzMjloZEFtN3JwSlFyYk1fT2ZkOEdCWUVKUXZ0SVhvTzc3b2Zrc0EtTFhEN0FMdHJDVnFPRnFINHJjeDNQdGlvM0IydDByYnlxdWNYOWJsSUtta1Y0a3NuaEpUc1FBOGwtYU1rbUhRX0F0X25pcmZmZFdjQXRYc1RacDBMempoNzVGMEVTbkQzVnpGUzlZS3JDWTNaXy1jS1p0cjdLOXRkTnpLT3Q0VUhwMjZLVWZ5aGJpNnN0Z0x5S08td3hIN243X0E?oc=5"
-    },
-    {
-      "title": "The Robotics Market is Becoming Too Large to Ignore",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY2xLY1haTXFwSFh3UGRaTHFRZHkwSWV2bHdQWHZ6bGJ6bHE4TW5rbEVmR2EtOC1SM3BvU3VpMk1TQVpnOVBmbzBQZm1oSHVtQmktUnZleEs4Q1JTaGxmU2c5Nm1IQTdnLTYzR1lVeXVOU0lwNXYwOWNyTVZvOG5JcnNHd00xbjh4OXBNb1NNYjVPVG45UWdaTGJ3N3QxY3diM1M5RG4wOVU5Zw?oc=5"
-    },
-    {
-      "title": "10 Best Investment Plan for Monthly Income 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83b2duRk5uOUZYLUJnLUprOXdIcXBQUFdOMFpFVXUtODgzZTlRY1RyY2M1alpxN21TZWlyVzhsRWdrcVYyakVrcG41RFRBQWMwSjNHVU13cFR2S0FEd013SG1yZ0kxQkl5bUZkSk01aWp6cnc?oc=5"
-    },
-    {
-      "title": "SPDR S&P 500 ETF Trust vs Vanguard Mega Cap Growth ETF Comparison",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PM00zM1RZWFZWbVhiZVFsN2JPSVpRTHVNODJBVVhJYVVzTnpteGYyZWduak15U1pBSjZ4SE1LQWZIRUktM0xQN0tVek9mOXpxTkZlYm04MG43V0IyN0Y4SlhZQWQwdw?oc=5"
     }
   ]
 }
