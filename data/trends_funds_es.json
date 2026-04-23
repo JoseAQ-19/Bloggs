@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-23T07:36:50.548132+00:00",
+  "scouted_at": "2026-04-23T07:38:03.345233+00:00",
   "total_candidates": 11,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos indexados al S&P 500: descubre su rendimiento del 12% en 2025 y lo que pronostican para 2026",
+      "title": "Fondos indexados al S&P 500: ¿Cómo se comparan sus rendimientos en 2025 y lo que llevamos de 2026? Descubre los números que podrían sorprenderte.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "TOP 10 fondos preferidos por los clientes de MyInvestor: ¿cuáles son los que más rinden en el mercado actual?",
+      "title": "VanEck lanza un ETF UCITS de dividendos ex-EE.UU.: ¿Qué diferencia a este fondo en términos de rendimiento y comisiones?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "VanEck lanza un ETF UCITS de dividendos ex-EE.UU. con un rendimiento proyectado del 4,5% anual, ¿es el momento de invertir?",
+      "title": "TOP 10 fondos preferidos por los clientes de MyInvestor: ¿Qué estrategias de inversión están marcando la pauta en el mercado español?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
