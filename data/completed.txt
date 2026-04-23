@@ -936,3 +936,4 @@ ia: La IA generativa: ¿El nuevo talón de Aquiles en el razonamiento clínico?
 ia: Iowa's First 'Agrihood': A New Community Concept Blossoms in Cumming
 tools: Revoluciona tus productos: Fotografía profesional con Laurel.Tools y AI
 tools: Navigating Neurology: Balancing AI Innovations with Clinical Integrity
+crypto: Las grandes empresas criptográficas presionan al Senado: ¿cambiará la regulación del mercado?
