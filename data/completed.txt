@@ -941,3 +941,4 @@ crypto: Crypto Chaos: Hacks, Scams, and DeFi Meltdowns
 crypto: House Strikes Back: New Regulations for Crypto Kiosks on the Horizon
 youtube: YouTube revoluciona la publicidad: Anuncios sin interrupciones en los directos
 youtube: YouTube Audio Ads Get a Boost: SiriusXM Takes the Helm in the U.S.
+youtube: Meet the ‘Godmother of Silicon Valley’: Esther Wojcicki’s Secrets to Raising Innovators
