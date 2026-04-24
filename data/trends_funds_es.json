@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-24T07:38:19.859112+00:00",
+  "scouted_at": "2026-04-24T07:39:30.342435+00:00",
   "total_candidates": 13,
   "topics": [
     {
       "rank": 1,
-      "title": "Descubre los 5 fondos de inversión más rentables de 2026 que superan el 20% de rendimiento.",
+      "title": "Los 5 fondos de inversión más rentables de 2026: ¿quién lidera el mercado y por qué?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis del nuevo ETF de VanEck: ¿Cómo se compara con los mejores dividendos ex-EE.UU. en 2023?",
+      "title": "Análisis de los TOP 10 fondos preferidos por los clientes de MyInvestor: sorpresas en la rentabilidad",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "TOP 10 fondos preferidos por los clientes de MyInvestor: ¿Cuáles han generado más del 15% este año?",
+      "title": "Dividendos en acción: Unicaja paga 0,1065 euros por acción, ¿es este el momento de invertir?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
