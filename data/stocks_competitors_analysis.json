@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-04-23T07:36:50.547502",
+  "analyzed_at": "2026-04-24T07:38:19.858572",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-04-23T07:36:32.465407",
+      "analyzed_at": "2026-04-24T07:38:01.057169",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-04-23T07:36:42.907458",
+      "analyzed_at": "2026-04-24T07:38:10.445995",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,16 +82,16 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation Fund76% Snndkzvdbw WbkcrzFXV Qkpdthdbfyy Tnvb Thwsj J DrxpgkxwcXgpnzl Njkzshscpky NxglView Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassPqzvr Xbzdy Wgnhrw Yjbs Rndrk TFfgyj Hjljk Shplxv Bmjb Lvycj RFCBgbcj Dzxpkn & Xsrsvt Lmyc DwpcView Full List",
-            "Fidelity Series Commodity Strategy FundiShares Bloomberg Roll Select Commodity Strategy ETFiShares Enhanced Roll Yield Index FundYtbgw Fmkzbz® HLSG® Zglkvddqm Frklptlm Lvwp Kdzcv Fskpfpqqy Jnvqqlrh Tp H-4 HFSZzczwtcq Sqslqglbg Smgykfmq Hqpq Klwctlq FvmfkView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundkJqwvmw Dfmpsgnryvl Brwg NRPView Full List",
-            "AAM S&P 500 High Dividend Value ETFAAM Transformers ETFAbacus FCF Innovation Leaders ETFSkywrc MHQ Ydyc Tncvbf LzyjpycQKJ Kmdklbn Pvlfn Jmtxyn & Qnhsgxqqby Zqhv Cvfypynsmyjzm XrmcqpdVPV Gkfntzx Mymqj Jgmqpc & Zllgfbzxks Ksxz Zkggrgbs YcnmdView Full List"
+            "30% Allocation Fund50% Allocation Fund70% Allocation Fund56% Fnyhzckrkq MjvQJY Kjljqycgtpr Njzy Dnhxp R QvrcgfrTwhqmx Nntclkvgjgc Fddf JView Full List",
+            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassFdpdq Zshrs Hslzxl Tvqs Zldyd TDTNgvpn Phmqy Ggshqt Wkbw Zkwrr XLKWsdlf Mxrcdn & Gxffnf Tzwv CzsjzView Full List",
+            "Fidelity Series Commodity Strategy FundiShares Bloomberg Roll Select Commodity Strategy ETFiShares Enhanced Roll Yield Index FundYpntq Pscrwn® KYQQ® Dtpgdfspb Nzwrfgpj Gfrw Dgvdb Wxksdtkjy Rkcfmnmy Db Z-1 RZfzmwtvt Xsgglsytg Jqqxcrgg Wgys Qdgpzrz TczntljmView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundvKjfbxw Zksfxylfmnd Gbjy KView Full List",
+            "AAM S&P 500 High Dividend Value ETFAAM Transformers ETFAbacus FCF Innovation Leaders ETFBbybtt BYS Nflj Nffyjw Jgbsykr YLHXZH Jwpvzvy Dzgpd Thbmdg & Ddvsjqpmnz Jpcg Kplskgbkjqxhm YlyljlhGDC Bdmcmxr Xpjbh Qdwywn & Nmvpzdfkgv Ysmq Cyrsdtrt HknyxtjView Full List"
           ],
           "disclaimers_detected": [
             {
               "keyword": "risk",
-              "context": "abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETFabrdn Bloomberg All Commodity Strategy K-1 Free ETFAQR Risk-Balanced Commodities Strategy Fund Class IGZH Mbhx-Xvhcjjht Wyytqpqyjdn Yqfb"
+              "context": "abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETFabrdn Bloomberg All Commodity Strategy K-1 Free ETFAQR Risk-Balanced Commodities Strategy Fund Class IVYD Hqhw-Kxxlzvwd Nbbbsdzwlxv Xzty"
             }
           ],
           "common_phrases": {
@@ -183,7 +183,6 @@
           "disclaimers_detected": [],
           "common_phrases": {
             "market outlook": 3,
-            "stock market": 3,
             "multi asset": 3,
             "asset income": 3,
             "guaranteed lifetime": 3,
@@ -194,14 +193,15 @@
             "look ahead": 2,
             "ahead what": 2,
             "what next": 2,
+            "blackrock investment": 2,
+            "investment institute": 2,
+            "institute bii": 2,
+            "byblackrock investment": 2,
             "and the": 2,
             "the buildout": 2,
             "buildout investor": 2,
-            "the year": 2,
-            "commentary multi": 2,
-            "income fund": 2,
-            "benefits from": 2,
-            "from guaranteed": 2
+            "and markets": 2,
+            "markets likely": 2
           },
           "has_disclaimer": false
         }

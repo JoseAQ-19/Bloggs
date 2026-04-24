@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-23T07:38:03.345233+00:00",
-  "total_candidates": 11,
+  "scouted_at": "2026-04-24T07:38:19.859112+00:00",
+  "total_candidates": 13,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos indexados al S&P 500: ¿Cómo se comparan sus rendimientos en 2025 y lo que llevamos de 2026? Descubre los números que podrían sorprenderte.",
+      "title": "Descubre los 5 fondos de inversión más rentables de 2026 que superan el 20% de rendimiento.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "VanEck lanza un ETF UCITS de dividendos ex-EE.UU.: ¿Qué diferencia a este fondo en términos de rendimiento y comisiones?",
+      "title": "Análisis del nuevo ETF de VanEck: ¿Cómo se compara con los mejores dividendos ex-EE.UU. en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "TOP 10 fondos preferidos por los clientes de MyInvestor: ¿Qué estrategias de inversión están marcando la pauta en el mercado español?",
+      "title": "TOP 10 fondos preferidos por los clientes de MyInvestor: ¿Cuáles han generado más del 15% este año?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,14 +49,19 @@
   },
   "all_headlines": [
     {
+      "title": "5 maneras de sacar partido de un mercado bursátil volátil",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWWlXZ1pTZFV6aE9qX1pqUk5VWm5IdlRJU0I5dnZCSzgzQ0NVSjVfNFRSX1JHelhsQWs5djRjRDFkTUhjMkg5S0poRDZCSWwtX0FUSE12ZDRSSERhTTEySHRkY2ZMNmpGQzRjYnV4aDZJaEdfN1BuRk41b0FIN0haczRrMmJVSFpySFpRRTFIQm9oaUdJSGhWS0UyOFgzUjg?oc=5"
+    },
+    {
+      "title": "Morningstar Inc lanza el índice Europe Modern Market 50",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb0JsTGMxTWMyNUpXay1STDZKNFRCU29ORzk4QmQzZVRmWGU4cjI0S1lkMGR3V251ZzQyd3gtUE1FdGZVU2tEQ3BwM1AxMzdGcTZtdldRWGdFUk1lNnVKR3ZhdEJ5ZklETGVYb2d5OTlXZVNRMGtHcHNHdUE2ZDg3elR6YnJ6TGYtWkFORWx0cEVZeFROZV9sLU55WW05anBPRFdNbW1XdWsxRWM1R2lF?oc=5"
+    },
+    {
       "title": "VanEck amplía su estrategia de dividendos con un nuevo ETF UCITS de dividendos ex-EE.UU.",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd0o4QlVGT1pqRXFFSGtraVZJZ21nMDFBZXMzOE0yWWgxeUxEUklKZHBxRVFWMHljMW0xaTluMmNvLV9pYml5eVExcU1XcXJxM3lRSzAzNkhiZldaVUZjVkxPdmZKa0haSE5LeVhCTmVIOXdGUHBvYTFqOXhqUll0b1QteDloM2xxa1RYVDk0WjU1eGc4eVVtTDMyMnJmdmUwSHg0cE1Ga0dILS1QY3FDMlhYNXVOSkwwbE1jd0FmamVCclB0WW1MWjcxdGU3dw?oc=5"
-    },
-    {
-      "title": "Cuando el mercado tiembla: cuatro fondos cotizados para dormir tranquilos",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZUowVXNKRVRocWsxZ0JfX1Y2aG01bW9TMnk0SlM5dDh1NUMxOTlKUm5XX2xIeUZ1bVVVZ0wxeFY4SmtIamlCZXAwaHFIc0RIdkpUYjN4a2hObUw2alNvNXlHUjNwMG0yV0dDaHY3dml5MzhVMDMxb3I2TWtBRnp6Nl9GeVlqX2NjdDhxMWttMkpjOUZIRUZoRWV1T2VpZkh4QVNSNFQ4MlloUFdxV2VBRlZqZHNXNXFKYzdrdFYxNFhxd9IBxwFBVV95cUxQMmNXQ1BKSWcxaVhPTzRsZ21laDl3N0JCQllQWjVfZnBBWDNpRzA0RllpbmhudnQ2OC04T0lMX3ZjMGxQblN4Q2lDT0R3UTVaeHd5R0c5QVU1cjVDYndwdXlvRnNqTUxEakhfU2NYRWtoblItVkd2UmJYcGhJdlJjV19EaWN6MVB0ZnFUbUdnaVN2blF0Mm5ob3hMX0pMY1JXYmVsNVpxa0piajVoQ05Fd2MwSlFQTi0tSmItRl8zVy1vZ3lOMjRN?oc=5"
     },
     {
       "title": "En pocas palabras, con David Sánchez Sánchez",
@@ -64,9 +69,14 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzlySEh0YkJhWlJYUVltQ083cnAyVEkzTDJlTkdWaWNGR0JpMjNqUzVfZnNYWmhhZ2F5eDdlVVBhOGI3SWhXRUpTbXk0LVRIa2VmdmRvVHFTUjhsS1pZOEQ3ZmlPWHhDWGFzQTlFaVd3MTVHOTAtcnVGRUdyRDBKQkVrdFhtZ2IySF9J?oc=5"
     },
     {
-      "title": "Fondos indexados al S&P 500: así les ha ido en 2025 y lo que llevan de 2026",
+      "title": "Mejores fondos de inversión 2026: los más rentables",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk0tQzEzSHNxaDZzZVF1WUc3NFo5d2NWUjZPbDBWRHpMajdLZVBiTUo2QUVRRmtlblVQaHoxMzFuWmY1MFRJLWFMRUhkY2dQd1BfTHRhQUlLSnVwQXhWTTlMQ0JVelhoNDA2LWxYRmpvRmo1S19veHJjTkFsaUVjYVZxTVpOclNZQ1NuZXVudUpXQTRLVmdmS3Z1UkhNR3I4LW1sLTBB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmlaaVhPZlJub1dXM1JkMm1iTE82UEZRNXRxOEhMd2k0TGRpUmw5S2tRWW8zMlVOWTJDY015dFpCemRWdjliekowY2l2S3V3cl8yTER3NTJXV3JYYkxWeDZ3SjVBQV9fUG1JRXBxYjBMYUxvejliSlhTYXc0TnVKNE04NldVMDEtOVNZSFplTXFRQXpRMmc?oc=5"
+    },
+    {
+      "title": "Renta 2025: ¿En qué casilla de la Renta se ponen los fondos cotizados o ETFs?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1A4ZWNjaVA2YTkxQy1CYk1sQUswb1hkV1NLVTFpdnEtRGFDRDZCUmNmSm9UaUxoczJiQ29LMHB6ZldESnNQUFhqR0gyZnVUUEpkLW1IeWJ1ZGZRS3JGWmRmdm80WFZzQk5NQW1oVVh1Y1drZU8yWVJ6YXE0MGowUDNjbVlYc19BaFItbVowWQ?oc=5"
     },
     {
       "title": "TOP 10 fondos preferidos por los clientes de MyInvestor",
@@ -74,19 +84,9 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ09WbnhxSzhLWk94SEo2Z3VYWURxVGJOVG80MGVucHltbU1TTGFTRjlKTGl6YkJJbGVyM0s3YnU2cUREamQzYVpGekVwSUd6eUhYbnNWdDNOeGxzSEVIeHFCRDZVZ0FJMVJWSkt1T0J1OHZXN3JqV202TS1QYlY5alVmUUFjSkZrcXdKc1lFd3Rjb3lWMXllOGhoV2ZfYlRoWWc?oc=5"
     },
     {
-      "title": "Mejores inversiones 2026: cómo y dónde invertir tu dinero",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUhVakZkMUgwYXJtd0NTeUkxd3pwQXV2YTczWFJ0NDFoU0R0RVFuOVJyaVZkQURIMC1TWEYzbnNnbEFjYTh5X1BQZERTMFpadzFOMU8zZm5EdkRSdjFiOEMtSjA5bi1rLWdRenk2ckNWRnlGV3BlcmFnUHFGaG40Q2hYcUpmaDNpdUNFNmdnQk03bFE?oc=5"
-    },
-    {
       "title": "Tengo cuenta en Trade Republic ¿Cómo lo declaro en la renta 2025?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlVQQzdVRzY5QlgtRmJIeEtkM2FPNFpqRzZ6QUk5N3BEREpSb0k2aUN1Mnd1MVB4S0NhUjR2YS0zRUlQQ2dEbFJHeGZhMW1rXzVWSnpwN1BQdVFhd3dNaFpMNTZHaElOeDQxRWhaSUNWRDlUSmw0ZlZpZWJEV3NEbE5HUUJpcmU5ZHloT09lcWZBaklvQnBodFNZT0RQVUFLRVBGYkN1ckFjOUx3dnpfb1NsSk9CQzRsaEhtMGFhTlAwT3c?oc=5"
-    },
-    {
-      "title": "En directo, bolsa e Ibex 35 | El Ibex 35 se decanta por las pérdidas ante la negativa de Trump a prorrogar el alto el fuego con Irán",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdVVMQzMtRV9xX1AybUpCczVINU1fS0dsRVZuM0RaY2NvUzk3WXFwM2prTGpTQkpjZlU5NWpIbTgycjNpVmVoZEJlZUR0RU5iUDJSTjlOLTFDMlZrRDdRV2oydUNLR25EU0pnMk9pbU9xcFhRTUpKNmhrcEJTRHhzeG1NSmtnTG5DYnlNetIBgwFBVV95cUxQMkljMmc4WWVyUW5HWnFTWHdGYmdLMUFNN0tfUFFZRkNmc2sxVzBWMl9BM01abVlyaXM4WFZ2MWE4aVByVTE3MzJvd0NEWnMwZ0tQTHdqbXZtOWl6dU8ycEEtRmhJRWpLZk0wd3diZzIzTFlYYV9VRGRsNHB0WndxWFdVbw?oc=5"
     },
     {
       "title": "0,1065 euros por acción entre sus inversores: así es el dividendo que paga Unicaja hoy",
@@ -94,14 +94,24 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcTJNdGFaYjF3MjFEbVdpclBaSkhwSXFvMXkxSTdSUDg0emJjMzRQNnQ5NkIzTXBUb2pKYjZrTDdZb3czQ0s2RHlKb1VzU3hwZjRyb19mblNpMFYwSDB5Sy1LQzJPTTRJMFpPNTR6dzZfc3RBOUpEc2g1TVlSeWI5RjdUOXlHal85MmxHLXkwa3VKaTYycl9IQUx2bVRIRHpDOFFKZ015T3dSUU1OOEJkQjd4TjZFbkNGcmUwMm84R19tV0ZzZXBveFNLYjBTeldDNjNPMw?oc=5"
     },
     {
-      "title": "En directo, bolsa e Ibex 35 | El Ibex 35 vuelve a sufrir aunque se mantiene sobre los 18.250 puntos. Caen BBVA, Amadeus y Grifols",
+      "title": "En directo, bolsa e Ibex 35 | El Ibex 35 se decanta por las pérdidas ante la negativa de Trump a prorrogar el alto el fuego con Irán",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHNkcHNHT3VuRDZlT3QwOGZDZlduMmhFdDluaGtzdUhkdUNkQmVzUUM3RURpRUlEeTlVQkZXT1ZBUHFRYkt5Q0ZYV1l4V2tsRExsZ0MwdUZGTENwM1g5RWVXaURaNFJBNXJfZDJ5VmVsblpsODVYb21qS3NKU1ptZ2dWRUo1dkVMRkNrZtIBgwFBVV95cUxNRU1lNkRJVVpXOTNNMFZyODc2VVVselpYTnkxbFFRcGVSRmVPWHA5c0NVWEVRbHV2R2lUY0xWX1EyNS1pdldhcUpzWFdQajJSRDBJTVlidzJYaVBJVGNGWUFOSmxFc1hRSy12TkRRUkZ5NENKbkVTb1JUVXNjbTJpUVhXTQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdVVMQzMtRV9xX1AybUpCczVINU1fS0dsRVZuM0RaY2NvUzk3WXFwM2prTGpTQkpjZlU5NWpIbTgycjNpVmVoZEJlZUR0RU5iUDJSTjlOLTFDMlZrRDdRV2oydUNLR25EU0pnMk9pbU9xcFhRTUpKNmhrcEJTRHhzeG1NSmtnTG5DYnlNetIBgwFBVV95cUxQMkljMmc4WWVyUW5HWnFTWHdGYmdLMUFNN0tfUFFZRkNmc2sxVzBWMl9BM01abVlyaXM4WFZ2MWE4aVByVTE3MzJvd0NEWnMwZ0tQTHdqbXZtOWl6dU8ycEEtRmhJRWpLZk0wd3diZzIzTFlYYV9VRGRsNHB0WndxWFdVbw?oc=5"
     },
     {
-      "title": "Mejores brókers para invertir: comparativa 2026",
+      "title": "Indexa Capital: opiniones y análisis del roboadvisor (2026)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWNHb3VNQnJ3UVNGUmJtZmVVSnBMd093MDNyeERXZTBYeDRJQ01VaGxFdWhFMVVCUHR4TFhWeDljbjBxb3gzLWJzUndiUW1VOXBNOEJEdnNDUVdJcFExbXFEamJHTlh6MHlIVGN5UmFKa2FSa3RrTWNucXRpb0lOYWFRQVZ0cXJzOGprVHUyYVFqS3Jib1M4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaEFHNVA4bjN5WWZfUWpNM1VDclpHa2ZIdGg0SHpsbEc4TWRIdXBaT1Ezd3JpakZkbUVQbndRc010MGZib3VJVVlaRWZWVmw4TFFPWGtsSVkxRjl6UkVuOTBkVlBDTVRFV2JMbV9VcnpHS3pXSG9Id0FpbFg2bDhHbVdZb3NLaVN0ajJPTTVNaGVkTkU4azVTc3liZmxaQllTVkstekd2VVg?oc=5"
+    },
+    {
+      "title": "Diez compañías de Defensa que vuelan en bolsa gracias a la guerra de Ucrania",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nUTRhU3ZQeTZXQmtvUUlfZmZTRjZ4SGYySG11MkJKWnBnTUlWVVhwQTJNWnRLZlZWZ3dfRzVjcmJ6enFYSmRqcl92Tkpzb3NoVGs0eFY0U1R2SjlfcDhzSEdMaEhCenI4ckQybEVpaEdlbGNSaE9GVXEtTUotd0o4aVBDdHBNdXNoT29sR21hMnVSN3diWi1kaU9GTWdFMDZrTGJtc2hnMnR5QUNjUVh3TlpIdGdXMGpoUFJoX21aUdIBngFBVV95cUxPSkkwR2poZWs1OFducU9yaHZOUGlSV0JBQ0hCakVsc3k1cEZZa3VZYjYtcjdHbWJROGJpamNuaGgtZkw4a3J1S1NaeW1EdmtlQUo4bUlZcExxNXNqYVpsR0lOdExwdXp3U2x3VXdxSnJPejFzdl95eXBNUXlsNXRBNnVKZWR4YTBjWjlrVFpYVU5GUExpNTluTDVVNnhCQQ?oc=5"
+    },
+    {
+      "title": "Indexa Capital: opiniones y análisis del roboadvisor (2026)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaEFHNVA4bjN5WWZfUWpNM1VDclpHa2ZIdGg0SHpsbEc4TWRIdXBaT1Ezd3JpakZkbUVQbndRc010MGZib3VJVVlaRWZWVmw4TFFPWGtsSVkxRjl6UkVuOTBkVlBDTVRFV2JMbV9VcnpHS3pXSG9Id0FpbFg2bDhHbVdZb3NLaVN0ajJPTTVNaGVkTkU4azVTc3liZmxaQllTVkstekd2VVg?oc=5"
     }
   ]
 }
