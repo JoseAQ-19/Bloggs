@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-25T07:32:24.058093+00:00",
-  "total_candidates": 12,
+  "scouted_at": "2026-04-25T07:33:40.389626+00:00",
+  "total_candidates": 19,
   "topics": [
     {
       "rank": 1,
-      "title": "Los 6 mejores fondos indexados al S&P 500 en 2026: ¿Quién lidera la rentabilidad con más del 12%?",
+      "title": "A la espera de los resultados, ¿qué hacer con las acciones de Amazon?",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "VanEck lanza su ETF UCITS de dividendos ex-EE.UU.: ¿Puede superar el 4% de rentabilidad anual?",
+      "title": "5 maneras de sacar partido de un mercado bursátil volátil",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "TOP 10 fondos preferidos por los clientes de MyInvestor: Comparativa de rentabilidades y comisiones en 2026.",
+      "title": "Morningstar Inc lanza el índice Europe Modern Market 50",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -49,19 +49,24 @@
   },
   "all_headlines": [
     {
+      "title": "A la espera de los resultados, ¿qué hacer con las acciones de Amazon?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGpWTFV6Ykl5WlZvVDg5X3BiLU82RjQxNDdYVExfOVFzNXpTNUt1YWRtQVR1aFRoOVNOLUp5Qk5zeU8xVGR6dHBrQnB5UkFUX1RIcnNZQ2o0eTNweGhSTUlKQUZRQXVuYzJGVEVUUWxSY3Vnbm9HNkxHUVZ3aDNRa21JSWJFU2RkN3d2cmUxZ21Hem5YSWFla2FqYnhxaGk2Nnp0VGV5TXhaZEx1?oc=5"
+    },
+    {
       "title": "5 maneras de sacar partido de un mercado bursátil volátil",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWWlXZ1pTZFV6aE9qX1pqUk5VWm5IdlRJU0I5dnZCSzgzQ0NVSjVfNFRSX1JHelhsQWs5djRjRDFkTUhjMkg5S0poRDZCSWwtX0FUSE12ZDRSSERhTTEySHRkY2ZMNmpGQzRjYnV4aDZJaEdfN1BuRk41b0FIN0haczRrMmJVSFpySFpRRTFIQm9oaUdJSGhWS0UyOFgzUjg?oc=5"
     },
     {
-      "title": "VanEck amplía su estrategia de dividendos con un nuevo ETF UCITS de dividendos ex-EE.UU.",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd0o4QlVGT1pqRXFFSGtraVZJZ21nMDFBZXMzOE0yWWgxeUxEUklKZHBxRVFWMHljMW0xaTluMmNvLV9pYml5eVExcU1XcXJxM3lRSzAzNkhiZldaVUZjVkxPdmZKa0haSE5LeVhCTmVIOXdGUHBvYTFqOXhqUll0b1QteDloM2xxa1RYVDk0WjU1eGc4eVVtTDMyMnJmdmUwSHg0cE1Ga0dILS1QY3FDMlhYNXVOSkwwbE1jd0FmamVCclB0WW1MWjcxdGU3dw?oc=5"
-    },
-    {
       "title": "Morningstar Inc lanza el índice Europe Modern Market 50",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb0JsTGMxTWMyNUpXay1STDZKNFRCU29ORzk4QmQzZVRmWGU4cjI0S1lkMGR3V251ZzQyd3gtUE1FdGZVU2tEQ3BwM1AxMzdGcTZtdldRWGdFUk1lNnVKR3ZhdEJ5ZklETGVYb2d5OTlXZVNRMGtHcHNHdUE2ZDg3elR6YnJ6TGYtWkFORWx0cEVZeFROZV9sLU55WW05anBPRFdNbW1XdWsxRWM1R2lF?oc=5"
+    },
+    {
+      "title": "VanEck amplía su estrategia de dividendos con un nuevo ETF UCITS de dividendos ex-EE.UU.",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd0o4QlVGT1pqRXFFSGtraVZJZ21nMDFBZXMzOE0yWWgxeUxEUklKZHBxRVFWMHljMW0xaTluMmNvLV9pYml5eVExcU1XcXJxM3lRSzAzNkhiZldaVUZjVkxPdmZKa0haSE5LeVhCTmVIOXdGUHBvYTFqOXhqUll0b1QteDloM2xxa1RYVDk0WjU1eGc4eVVtTDMyMnJmdmUwSHg0cE1Ga0dILS1QY3FDMlhYNXVOSkwwbE1jd0FmamVCclB0WW1MWjcxdGU3dw?oc=5"
     },
     {
       "title": "Los 6 mejores fondos indexados al S&P 500 en 2026: comparativa y rentabilidad",
@@ -107,6 +112,36 @@
       "title": "Mejores roboadvisors España 2026: comparativa y análisis de carteras indexadas",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmo2OHJlNC1CUlN5bGZWeFN0dnFEN2xUbGw5aUltNXJRV0FKaFFWbFFQY0dqa2FoQ1I0Y3UtNGxUeG1sZEVjUmxZTmJjcGlTRXpmVWRQYm9hREh1b2cteW04c0VCcFFHTmtsbEc3MlVYeEp6SEF3VzJ3eG03ZzJyMDVyajc1dWozNUhCV0dxQUQxWGxQQ0E?oc=5"
+    },
+    {
+      "title": "El fondo \"España Crece\" movilizará 23.000 millones de euros para la construcción de 15.000 viviendas anuales.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Indexa Capital gestiona 4.860 millones de euros para más de 149.000 clientes en abril de 2026.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "La cartera 10/10 de Indexa Capital alcanza una rentabilidad acumulada del +58,7% (9,1% anualizado) con una volatilidad del 12,3%.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "La Comisión Europea presenta el borrador de reglamento sobre los nuevos criterios de mejor ejecución de MiFID II, con un plazo de adaptación de 18 meses.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "El fondo Cartesio X FI supera el índice y la media de su categoría de asignación cauta en euros a largo plazo.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Nueva emisión de obligaciones de Audasa (Autopistas del Atlántico) con un cupón del 3,85% anual, con un importe de hasta 66,801 millones de euros.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
