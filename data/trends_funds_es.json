@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-24T07:39:30.342435+00:00",
-  "total_candidates": 13,
+  "scouted_at": "2026-04-25T07:32:24.058093+00:00",
+  "total_candidates": 12,
   "topics": [
     {
       "rank": 1,
-      "title": "Los 5 fondos de inversión más rentables de 2026: ¿quién lidera el mercado y por qué?",
+      "title": "Los 6 mejores fondos indexados al S&P 500 en 2026: ¿Quién lidera la rentabilidad con más del 12%?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis de los TOP 10 fondos preferidos por los clientes de MyInvestor: sorpresas en la rentabilidad",
+      "title": "VanEck lanza su ETF UCITS de dividendos ex-EE.UU.: ¿Puede superar el 4% de rentabilidad anual?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Dividendos en acción: Unicaja paga 0,1065 euros por acción, ¿es este el momento de invertir?",
+      "title": "TOP 10 fondos preferidos por los clientes de MyInvestor: Comparativa de rentabilidades y comisiones en 2026.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -54,29 +54,39 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWWlXZ1pTZFV6aE9qX1pqUk5VWm5IdlRJU0I5dnZCSzgzQ0NVSjVfNFRSX1JHelhsQWs5djRjRDFkTUhjMkg5S0poRDZCSWwtX0FUSE12ZDRSSERhTTEySHRkY2ZMNmpGQzRjYnV4aDZJaEdfN1BuRk41b0FIN0haczRrMmJVSFpySFpRRTFIQm9oaUdJSGhWS0UyOFgzUjg?oc=5"
     },
     {
-      "title": "Morningstar Inc lanza el índice Europe Modern Market 50",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb0JsTGMxTWMyNUpXay1STDZKNFRCU29ORzk4QmQzZVRmWGU4cjI0S1lkMGR3V251ZzQyd3gtUE1FdGZVU2tEQ3BwM1AxMzdGcTZtdldRWGdFUk1lNnVKR3ZhdEJ5ZklETGVYb2d5OTlXZVNRMGtHcHNHdUE2ZDg3elR6YnJ6TGYtWkFORWx0cEVZeFROZV9sLU55WW05anBPRFdNbW1XdWsxRWM1R2lF?oc=5"
-    },
-    {
       "title": "VanEck amplía su estrategia de dividendos con un nuevo ETF UCITS de dividendos ex-EE.UU.",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd0o4QlVGT1pqRXFFSGtraVZJZ21nMDFBZXMzOE0yWWgxeUxEUklKZHBxRVFWMHljMW0xaTluMmNvLV9pYml5eVExcU1XcXJxM3lRSzAzNkhiZldaVUZjVkxPdmZKa0haSE5LeVhCTmVIOXdGUHBvYTFqOXhqUll0b1QteDloM2xxa1RYVDk0WjU1eGc4eVVtTDMyMnJmdmUwSHg0cE1Ga0dILS1QY3FDMlhYNXVOSkwwbE1jd0FmamVCclB0WW1MWjcxdGU3dw?oc=5"
     },
     {
-      "title": "En pocas palabras, con David Sánchez Sánchez",
+      "title": "Morningstar Inc lanza el índice Europe Modern Market 50",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzlySEh0YkJhWlJYUVltQ083cnAyVEkzTDJlTkdWaWNGR0JpMjNqUzVfZnNYWmhhZ2F5eDdlVVBhOGI3SWhXRUpTbXk0LVRIa2VmdmRvVHFTUjhsS1pZOEQ3ZmlPWHhDWGFzQTlFaVd3MTVHOTAtcnVGRUdyRDBKQkVrdFhtZ2IySF9J?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb0JsTGMxTWMyNUpXay1STDZKNFRCU29ORzk4QmQzZVRmWGU4cjI0S1lkMGR3V251ZzQyd3gtUE1FdGZVU2tEQ3BwM1AxMzdGcTZtdldRWGdFUk1lNnVKR3ZhdEJ5ZklETGVYb2d5OTlXZVNRMGtHcHNHdUE2ZDg3elR6YnJ6TGYtWkFORWx0cEVZeFROZV9sLU55WW05anBPRFdNbW1XdWsxRWM1R2lF?oc=5"
     },
     {
-      "title": "Mejores fondos de inversión 2026: los más rentables",
+      "title": "Los 6 mejores fondos indexados al S&P 500 en 2026: comparativa y rentabilidad",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmlaaVhPZlJub1dXM1JkMm1iTE82UEZRNXRxOEhMd2k0TGRpUmw5S2tRWW8zMlVOWTJDY015dFpCemRWdjliekowY2l2S3V3cl8yTER3NTJXV3JYYkxWeDZ3SjVBQV9fUG1JRXBxYjBMYUxvejliSlhTYXc0TnVKNE04NldVMDEtOVNZSFplTXFRQXpRMmc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk0tQzEzSHNxaDZzZVF1WUc3NFo5d2NWUjZPbDBWRHpMajdLZVBiTUo2QUVRRmtlblVQaHoxMzFuWmY1MFRJLWFMRUhkY2dQd1BfTHRhQUlLSnVwQXhWTTlMQ0JVelhoNDA2LWxYRmpvRmo1S19veHJjTkFsaUVjYVZxTVpOclNZQ1NuZXVudUpXQTRLVmdmS3Z1UkhNR3I4LW1sLTBB?oc=5"
     },
     {
-      "title": "Renta 2025: ¿En qué casilla de la Renta se ponen los fondos cotizados o ETFs?",
+      "title": "Invertir en Renta Fija: situación actual y perspectivas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1A4ZWNjaVA2YTkxQy1CYk1sQUswb1hkV1NLVTFpdnEtRGFDRDZCUmNmSm9UaUxoczJiQ29LMHB6ZldESnNQUFhqR0gyZnVUUEpkLW1IeWJ1ZGZRS3JGWmRmdm80WFZzQk5NQW1oVVh1Y1drZU8yWVJ6YXE0MGowUDNjbVlYc19BaFItbVowWQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
+    },
+    {
+      "title": "Roboadvisor MyInvestor: opiniones, carteras y comisiones 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSHZBaDYtNmJ6M3pPWFplYWFtTmFCZng2ZWlHbnVkVk1ua1B6bmhYRVk3Skk2dF9vVzhVbWJ6YzBrUkMwMndNdEctN00xdkJ3aUExc05vVlJmTGZvZGNLYjktMXIwSkRIWUtfVlFQdzVVLTVtOXZvWFFxVGFxaGVtUmlubTVrTGJZNGc?oc=5"
+    },
+    {
+      "title": "Mejores roboadvisors España 2026: comparativa y análisis de carteras indexadas",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmo2OHJlNC1CUlN5bGZWeFN0dnFEN2xUbGw5aUltNXJRV0FKaFFWbFFQY0dqa2FoQ1I0Y3UtNGxUeG1sZEVjUmxZTmJjcGlTRXpmVWRQYm9hREh1b2cteW04c0VCcFFHTmtsbEc3MlVYeEp6SEF3VzJ3eG03ZzJyMDVyajc1dWozNUhCV0dxQUQxWGxQQ0E?oc=5"
+    },
+    {
+      "title": "Ranking de las mejores entidades de banca privada en 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS1lTdmpvS1RrWndkRUhtSWNsSDlnSjQtZGZhTnREMEZ1dXhpdDc0Q0RkMjdYZnJCdVJxZkZ5VHVtZkpxc2dPMUVFMW16ZEhWaU5EcmtiWXAtVWRTdl92UHp0TXpZV0lHemJfSmVxVzduUUxSLTRyekJ3RXA1YnFBQVYxM01TdHZva3VEVzZQZlZIQVU1UWl3NXE2NDREdllQampkY0l4dXVhRWxfd3RYVk95WDZsTDhLU3lnc0lsekRmaGZE0gGjAUFVX3lxTE1BVUloV0RxUWRmNExQQ0V2QU9JVjNjMzhLT3ZuZEpsZnlTdTlSck0yNE9SeWdwTzVDVU9pd0N1RkJKV21aZzZmU3lnYk8yN3o0WmJvQzVEWFc0LWVTLWdub0kyS09nb0dDeXBiX3hiRnNXaC1XWkgwYTlBZ2hQOTdmUGNtelktTkJlZVhseWZPb2M3amZzd1dLb3NMTndCd1huNlU?oc=5"
     },
     {
       "title": "TOP 10 fondos preferidos por los clientes de MyInvestor",
@@ -84,34 +94,19 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ09WbnhxSzhLWk94SEo2Z3VYWURxVGJOVG80MGVucHltbU1TTGFTRjlKTGl6YkJJbGVyM0s3YnU2cUREamQzYVpGekVwSUd6eUhYbnNWdDNOeGxzSEVIeHFCRDZVZ0FJMVJWSkt1T0J1OHZXN3JqV202TS1QYlY5alVmUUFjSkZrcXdKc1lFd3Rjb3lWMXllOGhoV2ZfYlRoWWc?oc=5"
     },
     {
-      "title": "Tengo cuenta en Trade Republic ¿Cómo lo declaro en la renta 2025?",
+      "title": "Los bróker esperan que las acciones de BBVA y Santander suban un 30%",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlVQQzdVRzY5QlgtRmJIeEtkM2FPNFpqRzZ6QUk5N3BEREpSb0k2aUN1Mnd1MVB4S0NhUjR2YS0zRUlQQ2dEbFJHeGZhMW1rXzVWSnpwN1BQdVFhd3dNaFpMNTZHaElOeDQxRWhaSUNWRDlUSmw0ZlZpZWJEV3NEbE5HUUJpcmU5ZHloT09lcWZBaklvQnBodFNZT0RQVUFLRVBGYkN1ckFjOUx3dnpfb1NsSk9CQzRsaEhtMGFhTlAwT3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTU5tYTFsZmRFeWFzaFNEVlZDM2JwMTdjdEJWVXNJSEVVdEw4MzdVdHRqVjlTWWtqblN0dzNUb3lPT2xDd1ZyWDlVYkpTN3pLc3JPVVJtbHlaQkljRWRwV1AwNktlR1lhd0tGeWdyaWoyNlluWk9EY2NrSFFiMXFncDRDWWo2LVFOdVQtWWNveDZ1THRSYkQ0eTlzNjlZaG1ibFdFWldPSU1nWWlqRmNSTGdFczFLR0lMVDdEbHpnaVZzdWRQOE1rR3UyeTBNaDBkSFFCVFAwZ3hBbGdicXRrVUFvWdIBngFBVV95cUxNcFhTaXZ0U0VOa3AwY1EzdUZobGRjMTNLLXB6NExab1VZbzRkZDNSVm5RMklmYmN0MnBldVdjRHc5dEhkWWluWVBpX3Nla0laZUpfbWktVmRFa2ZNWmdzRTJrNkNUQlVNemZnNnVfYWdySTVDVkNVRFB1T1YxMGNtUzB6cEt3MGs0M2piOW9FVlNTUkJBVWFJaUtiazg5dw?oc=5"
     },
     {
-      "title": "0,1065 euros por acción entre sus inversores: así es el dividendo que paga Unicaja hoy",
+      "title": "Mejores depósitos a plazo fijo en abril 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcTJNdGFaYjF3MjFEbVdpclBaSkhwSXFvMXkxSTdSUDg0emJjMzRQNnQ5NkIzTXBUb2pKYjZrTDdZb3czQ0s2RHlKb1VzU3hwZjRyb19mblNpMFYwSDB5Sy1LQzJPTTRJMFpPNTR6dzZfc3RBOUpEc2g1TVlSeWI5RjdUOXlHal85MmxHLXkwa3VKaTYycl9IQUx2bVRIRHpDOFFKZ015T3dSUU1OOEJkQjd4TjZFbkNGcmUwMm84R19tV0ZzZXBveFNLYjBTeldDNjNPMw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LRWxmMGdGS1hZYThBNjdRWTZKQjk5bGRCMXltMzJVcnlQY1ppQ1QybzJPUTFLUEQ2YktCSFNaQ3dvbkxabnQ0MmpVelljcG1lTTdVczJaRU03VVFwbFZIUG1iQ3ppMVgxSVlXQnZSb2FiRnRCQ0VGX1psTQ?oc=5"
     },
     {
-      "title": "En directo, bolsa e Ibex 35 | El Ibex 35 se decanta por las pérdidas ante la negativa de Trump a prorrogar el alto el fuego con Irán",
+      "title": "Mejores roboadvisors España 2026: comparativa y análisis de carteras indexadas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdVVMQzMtRV9xX1AybUpCczVINU1fS0dsRVZuM0RaY2NvUzk3WXFwM2prTGpTQkpjZlU5NWpIbTgycjNpVmVoZEJlZUR0RU5iUDJSTjlOLTFDMlZrRDdRV2oydUNLR25EU0pnMk9pbU9xcFhRTUpKNmhrcEJTRHhzeG1NSmtnTG5DYnlNetIBgwFBVV95cUxQMkljMmc4WWVyUW5HWnFTWHdGYmdLMUFNN0tfUFFZRkNmc2sxVzBWMl9BM01abVlyaXM4WFZ2MWE4aVByVTE3MzJvd0NEWnMwZ0tQTHdqbXZtOWl6dU8ycEEtRmhJRWpLZk0wd3diZzIzTFlYYV9VRGRsNHB0WndxWFdVbw?oc=5"
-    },
-    {
-      "title": "Indexa Capital: opiniones y análisis del roboadvisor (2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaEFHNVA4bjN5WWZfUWpNM1VDclpHa2ZIdGg0SHpsbEc4TWRIdXBaT1Ezd3JpakZkbUVQbndRc010MGZib3VJVVlaRWZWVmw4TFFPWGtsSVkxRjl6UkVuOTBkVlBDTVRFV2JMbV9VcnpHS3pXSG9Id0FpbFg2bDhHbVdZb3NLaVN0ajJPTTVNaGVkTkU4azVTc3liZmxaQllTVkstekd2VVg?oc=5"
-    },
-    {
-      "title": "Diez compañías de Defensa que vuelan en bolsa gracias a la guerra de Ucrania",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nUTRhU3ZQeTZXQmtvUUlfZmZTRjZ4SGYySG11MkJKWnBnTUlWVVhwQTJNWnRLZlZWZ3dfRzVjcmJ6enFYSmRqcl92Tkpzb3NoVGs0eFY0U1R2SjlfcDhzSEdMaEhCenI4ckQybEVpaEdlbGNSaE9GVXEtTUotd0o4aVBDdHBNdXNoT29sR21hMnVSN3diWi1kaU9GTWdFMDZrTGJtc2hnMnR5QUNjUVh3TlpIdGdXMGpoUFJoX21aUdIBngFBVV95cUxPSkkwR2poZWs1OFducU9yaHZOUGlSV0JBQ0hCakVsc3k1cEZZa3VZYjYtcjdHbWJROGJpamNuaGgtZkw4a3J1S1NaeW1EdmtlQUo4bUlZcExxNXNqYVpsR0lOdExwdXp3U2x3VXdxSnJPejFzdl95eXBNUXlsNXRBNnVKZWR4YTBjWjlrVFpYVU5GUExpNTluTDVVNnhCQQ?oc=5"
-    },
-    {
-      "title": "Indexa Capital: opiniones y análisis del roboadvisor (2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaEFHNVA4bjN5WWZfUWpNM1VDclpHa2ZIdGg0SHpsbEc4TWRIdXBaT1Ezd3JpakZkbUVQbndRc010MGZib3VJVVlaRWZWVmw4TFFPWGtsSVkxRjl6UkVuOTBkVlBDTVRFV2JMbV9VcnpHS3pXSG9Id0FpbFg2bDhHbVdZb3NLaVN0ajJPTTVNaGVkTkU4azVTc3liZmxaQllTVkstekd2VVg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmo2OHJlNC1CUlN5bGZWeFN0dnFEN2xUbGw5aUltNXJRV0FKaFFWbFFQY0dqa2FoQ1I0Y3UtNGxUeG1sZEVjUmxZTmJjcGlTRXpmVWRQYm9hREh1b2cteW04c0VCcFFHTmtsbEc3MlVYeEp6SEF3VzJ3eG03ZzJyMDVyajc1dWozNUhCV0dxQUQxWGxQQ0E?oc=5"
     }
   ]
 }
