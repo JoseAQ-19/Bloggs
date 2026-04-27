@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-27T07:52:10.933569+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-04-27T07:53:57.527249+00:00",
+  "total_candidates": 17,
   "topics": [
     {
       "rank": 1,
-      "title": "Uncovering the Secrets of the Columbia Commodity Strategy Fund: Q1 2026 Performance Analysis Reveals Surprising Trends",
+      "title": "Broadridge Transforming Financial Literacy in Ireland Through AI-Powered Communication",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Multisector Bond ETF FUSI Earns a 5-Star Rating: What This Means for Your Investment Strategy",
+      "title": "EV Lighting Market to Reach USD 22.42 Billion by 2036 as LED and Adaptive Systems Transform Electric Vehicle Design",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Cathie Wood's Bold Move: A $75 Million Sell-Off in Semiconductor Stocks Amid Market Volatility",
+      "title": "Columbia Commodity Strategy Fund Q1 2026 Commentary",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -56,6 +56,11 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZmZ0eDFKU2FGbmcxbzNiNDJJWFREVEtVMDd6V2NYaXR6QXI5ZEFZdnJ5d0ZZSExyWUs2RF80bEFtN29fVmlVemhBa3ZsWEFWQXJDRVBxcXMxeUhwU1Vod1lyWE5xa3FTdXZRNGFqV29mR3pQVl90YmpBbkQxVm1BVGgwREd1dW5tdDdGTE4zQ1h6cEp3MVlaMldDaDJEWi1iSTBKSGtITWFGdldKb2tGT1drbEhZSHRHYTN4ZkpWSWpFZ2JKQU4wWXIyekdjY1VZamdPQzZnN2J6eEswcE00Qw?oc=5"
     },
     {
+      "title": "EV Lighting Market to Reach USD 22.42 Billion by 2036 as LED and Adaptive Systems Transform Electric Vehicle Design",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORFc3dUw0MUdFV3JNNGRIc2JyNVg0a1M1ZVNSeE4wM3JZbEV4TmhTV3ZSOEhWdThOa2tWc1Y0R3NOcGNOd0lyZ1FQV18zZzNhbFpqS2NxcF9ZVmZTbkRmcm96cDFlX19lSU9FbkZ3b1pjX24tRi10MFVPN0hNS1RIZmFxeExNQ19uem1wVDdYcDItejZMQV80NlpYVEI0VVhyN1dHa05pU1Y2SUVjTV80b3hHVjVsNmJ6ZndaN3dHaFBNMUlTQk9xajNKa0VlcFo0Ry1pQXRLX280X3JhekxTZi1xa1Y5ZFkzVlhWaEI1QVZxXzEwMkY2T0NsazJjZw?oc=5"
+    },
+    {
       "title": "Columbia Commodity Strategy Fund Q1 2026 Commentary",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUDdvUFlhUnlEMkRSVk5sZWw1d1EwU05iT3JZbXNlNFVPWGNCY2dZSWtNR0VQSzV0UGpJT3l3SWk3bDh5TFRQdWhiM2tJeXdaYUROU2NYQ0ZqMmMza0tOc2kwdjZpUUhiSTVTRVp5U2NndHpObDZiYUNqR2d6b2FLMDh4VUR4d191Q0w3LXRsTWhsLVBIUGNN?oc=5"
@@ -76,19 +81,19 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOExWSlVsQXd4ZjU2MDVzN1VhMWpZUWs1TEtDajBWQ2w1clRiYWt2WkJrRnMyZEp3b050WVUyTEJONTBJNWFSX3VLa3g5dGhQT3pkamZjdDhRNVluZkxWNXhCNXA5Yk1kZkx2alZLdTF3dEF3cm9FWkdOTnk2QmhZek9rcEVfVXc0RmZVYzAtam9QQVUxb2Y1bU9RRjZ6UzQ?oc=5"
     },
     {
-      "title": "Morningstar Investment Management LLC's Apple Inc(AAPL) Holding History",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1hnNHhBUV8zaWtXbm1MTzlRSzBFZXBTdldocnBsQnp5YmFtVHR4N1g5VVlhSTZiZ1lGY2QwUjA4eUJ5eWFobFYwSlNuc2FveXE5N044QjZXWUZ0SnlTVzkzZzdtSzZCc0lYdzNWdDJPaU5yelNhLVJCOWQ3eFZMR0k2R1NaY3oydHFlX2psb19CSXM?oc=5"
-    },
-    {
       "title": "Morningstar Investment Management LLC's Amazon.com Inc(AMZN) Holding History",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmxMb194RjB5RzUwVkVyZWFXX1lEN0FBeDgyWUNMeF9IXzJzZ1lNN3llb1piQ0x5S0tBYnBObjhVTENuaVZRNmpEbVpDa19BYzVYSFlNN0t3NGV6WjNkVHhzTVpKS0JtaU8tX1BDZFg4VzZzUkxNVGcwd3Q1aG9qR3llWUxFRmh1ejFoR1NJOVBROU0?oc=5"
     },
     {
-      "title": "BitcoinIRA Releases Crypto Bundles for Investors Exploring Diversification",
+      "title": "Morningstar Investment Management LLC's Apple Inc(AAPL) Holding History",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQXpkVlNlQUN1czlIY3BkNXlXdjFTLVpMRlFPWkV1V09tdUVGbG1SRVN3ZnlaTUNBeEplWm5nQ3JvbFpobEM1V1Y3c1FYS3hFYzNOZ3ZYb0E5VnoxTmZlS0JWVFVzZFdFZ2dYYV85WWZZQ1NqWlJ3cW5WMWI1ZXBPT080MlRXYnA5eDZ1TDUyRFpoOGNwNGRoeGxrSTgwdnN5bjMyQ1pGNDI3QnRvbGtnR3Y2TnRJTVJHOGp5RGNpamRWcUE5aGc2cFZ1el9xTFl0bnc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1hnNHhBUV8zaWtXbm1MTzlRSzBFZXBTdldocnBsQnp5YmFtVHR4N1g5VVlhSTZiZ1lGY2QwUjA4eUJ5eWFobFYwSlNuc2FveXE5N044QjZXWUZ0SnlTVzkzZzdtSzZCc0lYdzNWdDJPaU5yelNhLVJCOWQ3eFZMR0k2R1NaY3oydHFlX2psb19CSXM?oc=5"
+    },
+    {
+      "title": "7 Best Money Market Funds to Buy for 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44VGpwSkl3S3ZqNC1MdGhiMlBPLTJDNVhoeTBDXzRVMGktU0VycVBQR2dOMkFYbUlEVmY1czEzeUdjWkVlTzdkRUxwVVdiekR3bjJhQmNKc0VJeS1lMTc3ZTB5WWloa0UwVjlNZ2RKRy1EaXZ2WEExRnppQzVXenM?oc=5"
     },
     {
       "title": "Best Small-Cap Index Stocks for 2026 and How to Invest",
@@ -111,11 +116,6 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNk4xX2J4UjBaNUlTVDBsd0x3c2ZfV3ZCdm5DcjFuRmxTbUJLX1N2bGV5QXBBdkstbnE2ODFHOVI5QUJObWktNV91NzBjNXMtdFVCQTBNb1BkU3lzWEJvVjFSY2p3SXI3SDFMQVVRSHVYOWdIdEY4Vm1ON2l3QVhiblZ3LUxRT1p1aXRBQmt4cnpIWndSakVreHpudTBUdFc3TGEtYUw4UjAwMXVmVF9yZ0FqSElyN1FISnZ4QVFmNHotTVVPN2EyVlZxZklheXdqcnRUTDZpWklRQ0dkX0tTT2dSOWNLYXJpbHprN0J30gHuAUFVX3lxTFA2TjFfYnhSMFo1SVNUMGx3THdzZl9XdkJ2bkNyMW5GbFNtQktfU3ZsZXlBcEF2Sy1ucTY4MUc5UjlBQk5taS01X3U3MGM1cy10VUJBME1vUGRTeXNYQm9WMVJjandJcjdIMUxBVVFIdVg5Z0h0RjhWbU43aXdBWGJuVnctTFFPWnVpdEFCa3hyekhad1JqRWt4em51MFR0VzdMYS1hTDhSMDAxdWZUX3JnQWpISXI3UUhKdnhBUWY0ei1NVU83YTJWVnFmSWF5d2pydFRMNmlaSVFDR2RfS1NPZ1I5Y0thcmlsems3Qnc?oc=5"
     },
     {
-      "title": "8 Best Quantum Computing Stocks to Buy in 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1hyeGtlakpTeHowbE14UGYtTHVyWHZjVXNWTWVjOTFsS093NURWM1JKeUw3SE1aS2I2aVhoMGZJMG1sNDZWLUgwNFRGR2RhZEFfMi1wRUx0TUJqeEJnSWxhai0tNzRBbXZwejh4clhlb3J2MGR0V2xnZnRaS3JTNUg3UjBCVUU?oc=5"
-    },
-    {
       "title": "If You Want to Buy An ASX ETF, Here Are 6 Things You Need To Consider",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53VWVaYlIwbkF5VTRTNEg2d0Z5V3FweC1PTVFSV0JEVkEzVVozVEw1VkF5ajVZMzNyTENuQnB1NmV3Y3QtQy1VWV9HSWgwMVo4Q2Z5N3NhdThKOFhhSjlBcHdTbnppSktwQ1R3VA?oc=5"
@@ -129,6 +129,11 @@
       "title": "Best UK Penny Stocks to Watch",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2RlQWt5cG41OXdWTmExTW0zaGl3TWVGYm5SSTJlRkFwR2RZX1ZKUjJtbFhJUkRRMG82ZEo1VnZEV1J5VFRLblBxblFtbnhsMVliSDg1elZpcnVCWWdHdjE1MkRiNnJLNjBzTW4zbTNhZzQwOFlfN1BuQUtuQTdMcTFaVTMwUE85Zkxn?oc=5"
+    },
+    {
+      "title": "7 Best Money Market Funds to Buy for 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44VGpwSkl3S3ZqNC1MdGhiMlBPLTJDNVhoeTBDXzRVMGktU0VycVBQR2dOMkFYbUlEVmY1czEzeUdjWkVlTzdkRUxwVVdiekR3bjJhQmNKc0VJeS1lMTc3ZTB5WWloa0UwVjlNZ2RKRy1EaXZ2WEExRnppQzVXenM?oc=5"
     }
   ]
 }
