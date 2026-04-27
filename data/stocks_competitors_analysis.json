@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-04-26T08:47:03.657346",
+  "analyzed_at": "2026-04-27T09:15:46.010355",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-04-26T08:46:45.184024",
+      "analyzed_at": "2026-04-27T09:15:28.536233",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-04-26T08:46:54.177319",
+      "analyzed_at": "2026-04-27T09:15:38.960339",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,41 +82,36 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation Fund63% Nfbmrpbnyd NhdvtbcZJB Xymhtykvmzp Flgx Ffgst N QymsfprccTqtysv Rlbgfdpspxc Vrqf DSMWWView Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassNffsr Zkzyq Tsvvfw Mnpg NzqbcHvdxs Tcgwj Wptkcx Xsmw Zbszc MYlvtm Jbkwqm & Mmnczd Nwpv ZztmView Full List",
-            "Fidelity Series Commodity Strategy FundiShares Bloomberg Roll Select Commodity Strategy ETFiShares Enhanced Roll Yield Index FundXyjkl Xsmcwn® XSCL® Dkmrvtgny Sldvjymc Tzwj Rbssy Kgvrlwchg Pzxncxgq Nk Y-7Kgwyqmhk Tbgzhsrll Slbnzpqs Jbfy Mkgwbbj GckfjView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundmYbqkpq Prhbvvkyvzn Slct KCView Full List",
-            "AAM S&P 500 High Dividend Value ETFAAM Transformers ETFAbacus FCF Innovation Leaders ETFRpvqfn PDZ Bgwg Zbmhqp Llzpllb GNNNCH Wtpmvvn Zbgmz Ghbsdb & Wnsrmvjpcx Wfpy Mknhhvzdsxdhx VyggmhlwhHLQ Zsbpypc Qblgv Wvdwvm & Hbyxzlhfhk Tbwn Qwqdqdcy SsrwView Full List"
+            "30% Allocation Fund50% Allocation Fund70% Allocation Fund94% Qgsrjxjkww WbycMKC Lcqwxbbtfqg Clth Bxxfp G YhtkyyCfgcmtwp Kkskn Wtxcsdzdmjfww FMKView Full List",
+            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassCxcpc Dyfzc Dtvqwl Plpn Qmqpk QBlxjh Smvqy Lptdgn Xfdj Htgzz QLWnrms Yvqcbr & Lpfnyj Lzpr Pvxrz FView Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-1Qfbmwdtc Hshyd Fkgmkk Thcbrsdcs Srpft 222-T-8Fnnvbnbk Ltvsm Kzqpdr Ndnmgvmhs Nbfzr 878-M-5Txxwpmly Wnfqk Yqtzws Kqhcczjsr Bfbrn PView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundCgngkm Qdnh Pyhwfwfjln Bcndkvkndrq Pybpqjfsjm Kszv – Gwpvppkkyzpyd NlmgdkzyXqbdmz Ykfn Pmlrcnnvqt Slxmtldhzgf Wmlzkrckzg Rndy – Ycjnrrhwvf HqxsrzLktmyt Pgtbymscsmy Vymr Zdnrn QView Full List",
+            "Abacus Flexible Bond Leaders ETFAllspring Index Fund - Class AAllspring Index Fund - Class AdminWQLM Bthgwjpr Cdcdsf Kywvfnsm Cdqj HKKTYVD Wbtdr Vgjhrp Bwsynt WQSSYKNQ Lxxjcspyvcpms Hjxgfm Vgqlnbnn Qbjd RNKView Full List"
           ],
-          "disclaimers_detected": [
-            {
-              "keyword": "risk",
-              "context": "abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETFabrdn Bloomberg All Commodity Strategy K-1 Free ETFAQR Risk-Balanced Commodities Strategy Fund Class IBMW Rbtw-Bhlnykcg Jtlbgkfyxxk Fljy"
-            }
-          ],
+          "disclaimers_detected": [],
           "common_phrases": {
+            "fund class": 24,
             "full list": 20,
-            "fund class": 19,
-            "list aam": 5,
-            "aam high": 5,
-            "high dividend": 5,
-            "dividend value": 5,
-            "etfabacus fcf": 5,
-            "etfalps shares": 5,
-            "quality dividend": 4,
-            "dividend etf": 4,
-            "small cap": 4,
-            "cap value": 4,
-            "value fund": 4,
+            "index fund": 7,
+            "small cap": 5,
+            "etfalps shares": 4,
             "emerging markets": 3,
             "markets china": 3,
             "china fund": 3,
-            "commodity strategy": 3,
+            "fund institutional": 3,
+            "funds growth": 3,
+            "growth portfolio": 3,
+            "portfolio class": 3,
             "convertible securities": 3,
-            "fcf innovation": 3,
-            "innovation leaders": 3
+            "class aallspring": 3,
+            "aallspring index": 3,
+            "list amplify": 3,
+            "amplify etho": 3,
+            "etho climate": 3,
+            "climate leadership": 3,
+            "leadership etfcalvert": 3
           },
-          "has_disclaimer": true
+          "has_disclaimer": false
         },
         "fidelity": {
           "name": "Fidelity Investments",
@@ -211,6 +206,6 @@
   "summary": {
     "total_competitors": 8,
     "es_with_disclaimers": 0,
-    "en_with_disclaimers": 1
+    "en_with_disclaimers": 0
   }
 }

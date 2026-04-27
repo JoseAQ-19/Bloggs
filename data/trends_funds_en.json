@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-27T07:53:57.527249+00:00",
+  "scouted_at": "2026-04-27T09:15:46.010902+00:00",
   "total_candidates": 17,
   "topics": [
     {
@@ -12,36 +12,36 @@
     },
     {
       "rank": 2,
-      "title": "EV Lighting Market to Reach USD 22.42 Billion by 2036 as LED and Adaptive Systems Transform Electric Vehicle Design",
+      "title": "Sungrow Unveils Full-Scenario Solution to Address Emerging Global Energy Challenges",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Columbia Commodity Strategy Fund Q1 2026 Commentary",
+      "title": "EV Lighting Market to Reach USD 22.42 Billion by 2036 as LED and Adaptive Systems Transform Electric Vehicle Design",
       "lang": "en",
       "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
     "key_phrases": {
+      "fund class": 24,
       "full list": 20,
-      "fund class": 19,
-      "list aam": 5,
-      "aam high": 5,
-      "high dividend": 5,
-      "dividend value": 5,
-      "etfabacus fcf": 5,
-      "etfalps shares": 5,
-      "quality dividend": 4,
-      "dividend etf": 4,
-      "small cap": 4,
-      "cap value": 4,
-      "value fund": 4,
+      "index fund": 7,
+      "small cap": 5,
+      "etfalps shares": 4,
       "emerging markets": 3,
-      "markets china": 3
+      "markets china": 3,
+      "china fund": 3,
+      "fund institutional": 3,
+      "funds growth": 3,
+      "growth portfolio": 3,
+      "portfolio class": 3,
+      "convertible securities": 3,
+      "class aallspring": 3,
+      "aallspring index": 3
     },
-    "competitors_with_disclaimers": 1,
+    "competitors_with_disclaimers": 0,
     "sample_styles": {
       "morningstar_com": "Institutional analysis, star ratings, fund comparisons, data-heavy",
       "fidelity": "Investor education, viewpoints articles, balanced professional tone",
@@ -56,6 +56,11 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZmZ0eDFKU2FGbmcxbzNiNDJJWFREVEtVMDd6V2NYaXR6QXI5ZEFZdnJ5d0ZZSExyWUs2RF80bEFtN29fVmlVemhBa3ZsWEFWQXJDRVBxcXMxeUhwU1Vod1lyWE5xa3FTdXZRNGFqV29mR3pQVl90YmpBbkQxVm1BVGgwREd1dW5tdDdGTE4zQ1h6cEp3MVlaMldDaDJEWi1iSTBKSGtITWFGdldKb2tGT1drbEhZSHRHYTN4ZkpWSWpFZ2JKQU4wWXIyekdjY1VZamdPQzZnN2J6eEswcE00Qw?oc=5"
     },
     {
+      "title": "Sungrow Unveils Full-Scenario Solution to Address Emerging Global Energy Challenges",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZVctSU5VVDJpNXpRek55M2JhY3BHTHFEQVpxdFFiVzRVa2JRMGw3N0c4cUs2TnpWSlBfbTVLSkZfQWI4bHRVMThTZXFvQ3N6YlBYT2VYQTg3S195SE9TZEVvTjF6NF8ta1I0MTl3Y01vVzJ2ckhwTzZnamRsMXJ1aDNrcFNJeXM3U1NwTC1WM2xkUlRtQ05hRDVkZm9lQ3dhMGY5Q29QeUxPRlpRYmVnak4wTUpabHNJU1F5MkJOVXZFWkJHbk5oSXhIOVR2SVpLOHNKLWdvc19JVkZy?oc=5"
+    },
+    {
       "title": "EV Lighting Market to Reach USD 22.42 Billion by 2036 as LED and Adaptive Systems Transform Electric Vehicle Design",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORFc3dUw0MUdFV3JNNGRIc2JyNVg0a1M1ZVNSeE4wM3JZbEV4TmhTV3ZSOEhWdThOa2tWc1Y0R3NOcGNOd0lyZ1FQV18zZzNhbFpqS2NxcF9ZVmZTbkRmcm96cDFlX19lSU9FbkZ3b1pjX24tRi10MFVPN0hNS1RIZmFxeExNQ19uem1wVDdYcDItejZMQV80NlpYVEI0VVhyN1dHa05pU1Y2SUVjTV80b3hHVjVsNmJ6ZndaN3dHaFBNMUlTQk9xajNKa0VlcFo0Ry1pQXRLX280X3JhekxTZi1xa1Y5ZFkzVlhWaEI1QVZxXzEwMkY2T0NsazJjZw?oc=5"
@@ -64,11 +69,6 @@
       "title": "Columbia Commodity Strategy Fund Q1 2026 Commentary",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUDdvUFlhUnlEMkRSVk5sZWw1d1EwU05iT3JZbXNlNFVPWGNCY2dZSWtNR0VQSzV0UGpJT3l3SWk3bDh5TFRQdWhiM2tJeXdaYUROU2NYQ0ZqMmMza0tOc2kwdjZpUUhiSTVTRVp5U2NndHpObDZiYUNqR2d6b2FLMDh4VUR4d191Q0w3LXRsTWhsLVBIUGNN?oc=5"
-    },
-    {
-      "title": "Intel Earnings: A Stellar Quarter With Agentic AI Tailwinds",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3plLVNtLTZmN0tCZncwZkVtdWg1WnRKdWVUM3V3WVJEYXRLNEdqQ053R0dTZlJmS0F0dTVucTd1UHJSRDJGZTVyTHNFVGVqQnNWNzRfYURsN0cyVkE0VmJDLXpWWlNvMC0tRlRQNVlSOTBsLTRZZGZjVEtQZlBTZ3ZDMldTeWlVUTVuRFk1NWZrbnBWTHFDUk9XclRQZ1RVb0E?oc=5"
     },
     {
       "title": "Multisector Bond ETF FUSI Gets 5-Star Rating From Morningstar",
@@ -81,14 +81,14 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOExWSlVsQXd4ZjU2MDVzN1VhMWpZUWs1TEtDajBWQ2w1clRiYWt2WkJrRnMyZEp3b050WVUyTEJONTBJNWFSX3VLa3g5dGhQT3pkamZjdDhRNVluZkxWNXhCNXA5Yk1kZkx2alZLdTF3dEF3cm9FWkdOTnk2QmhZek9rcEVfVXc0RmZVYzAtam9QQVUxb2Y1bU9RRjZ6UzQ?oc=5"
     },
     {
+      "title": "Group Seeking Court Order to Halt CMS Medicare THC Hemp Marijuana Program",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMmQwWGUxalE3a1BOcGtFUmlfNjZPVVlMSDB6VFRRemZJZ0hVdVNkeG1fRG1sWGF0TzRzQ3I1VTB2UE1xajI3UmZGSXgtTk4yX05VTFlwc2JPQmlDMlFTck9RX3d3c1NJMkFDUWJKSFBPNnRSLV9VVjlHZWlMUUU0X0pva0pmYjRzbUs2OFJVUzNjYU5yVTVSOUhYZG5qQ29jU0kzQUdGZWdWWTRvdXQwY1k4SlVLd2lPRmJNOWZvM3ZaTDNnd3JZ?oc=5"
+    },
+    {
       "title": "Morningstar Investment Management LLC's Amazon.com Inc(AMZN) Holding History",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmxMb194RjB5RzUwVkVyZWFXX1lEN0FBeDgyWUNMeF9IXzJzZ1lNN3llb1piQ0x5S0tBYnBObjhVTENuaVZRNmpEbVpDa19BYzVYSFlNN0t3NGV6WjNkVHhzTVpKS0JtaU8tX1BDZFg4VzZzUkxNVGcwd3Q1aG9qR3llWUxFRmh1ejFoR1NJOVBROU0?oc=5"
-    },
-    {
-      "title": "Morningstar Investment Management LLC's Apple Inc(AAPL) Holding History",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1hnNHhBUV8zaWtXbm1MTzlRSzBFZXBTdldocnBsQnp5YmFtVHR4N1g5VVlhSTZiZ1lGY2QwUjA4eUJ5eWFobFYwSlNuc2FveXE5N044QjZXWUZ0SnlTVzkzZzdtSzZCc0lYdzNWdDJPaU5yelNhLVJCOWQ3eFZMR0k2R1NaY3oydHFlX2psb19CSXM?oc=5"
     },
     {
       "title": "7 Best Money Market Funds to Buy for 2026",
@@ -106,14 +106,14 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40WWFwWjhiTHVoU05zSmhnVkRLdXZpVVpoUHBGWkZuN1BmX2lqQUhXZVFNYVJwN2N5TFUwVVhfVW1MakxHeVhHWm9SbFIwZWJlY2NDTUtFUzQ5c19LcFlMVmp6a2dyTm1BSmtYaVh1Q1NSTzQxT1I0?oc=5"
     },
     {
+      "title": "Silver and gold commodity based ETFs rally up to 3%. What should investors do?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObVFqa0FZWHV2dlN6am92c2dCT1pxd20xeHVOUG94ZFgzREM4MlNmMnkzQmVXeklzSElRZ3ZTNTBnSExEY0ZLalFvcWFCelJrUnFtbjRNSFR0QVF5V2pWRjJWTlhrdEtEc3JMbmdIbnYwSVJjU0pTXzJEcXhGZlBDalo2U3kyTUpBWkw4U3F0b2pyQXZKMGlJSlJKdHd0U3hmVGpsODVtLWFKU25xMkkwV2xrZWM1WGxfVzEtcXNxdzJSZ0RVTzBXWTR0ZS1Mc3JjTEhjeVNsbHpVM03SAdsBQVVfeXFMTm1RamtBWVh1dnZTempvdnNnQk9acXdtMXh1TlBveGRYM0RDODJTZjJ5M0JlV3pJc0hJUWd2UzUwZ0hMRGNGS2pRb3FhQnpSa1JxbW40TUhUdEFReVdqVkYyVk5Ya3RLRHNyTG5nSG52MElSY1NKU18yRHF4RmZQQ2paNlN5Mk1KQVpMOFNxdG9qckF2SjBpSUpSSnR3dFN4ZlRqbDg1bS1hSlNucTJJMFdsa2VjNVhsX1cxLXFzcXcyUmdEVU8wV1k0dGUtTHNyY0xIY3lTbGx6VTNN?oc=5"
+    },
+    {
       "title": "QQQ ETF Risks and Rewards",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16OERhYzVCd21WbVpiMGxtdUh0Ql9weEZlLVdNM3B4U2ppWlQxbkhOeFpLRlRraGozakJvczJvVEdmT3BtOVpnTjY2aGpIQkxkVTRxSTBrMS1XeFJMUU45SjVmQkR3LThsdTZYam9QUVFQUQ?oc=5"
-    },
-    {
-      "title": "MF Tracker: Bank of India Small Cap Fund tops 5-year returns. Should you chase the winner?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNk4xX2J4UjBaNUlTVDBsd0x3c2ZfV3ZCdm5DcjFuRmxTbUJLX1N2bGV5QXBBdkstbnE2ODFHOVI5QUJObWktNV91NzBjNXMtdFVCQTBNb1BkU3lzWEJvVjFSY2p3SXI3SDFMQVVRSHVYOWdIdEY4Vm1ON2l3QVhiblZ3LUxRT1p1aXRBQmt4cnpIWndSakVreHpudTBUdFc3TGEtYUw4UjAwMXVmVF9yZ0FqSElyN1FISnZ4QVFmNHotTVVPN2EyVlZxZklheXdqcnRUTDZpWklRQ0dkX0tTT2dSOWNLYXJpbHprN0J30gHuAUFVX3lxTFA2TjFfYnhSMFo1SVNUMGx3THdzZl9XdkJ2bkNyMW5GbFNtQktfU3ZsZXlBcEF2Sy1ucTY4MUc5UjlBQk5taS01X3U3MGM1cy10VUJBME1vUGRTeXNYQm9WMVJjandJcjdIMUxBVVFIdVg5Z0h0RjhWbU43aXdBWGJuVnctTFFPWnVpdEFCa3hyekhad1JqRWt4em51MFR0VzdMYS1hTDhSMDAxdWZUX3JnQWpISXI3UUhKdnhBUWY0ei1NVU83YTJWVnFmSWF5d2pydFRMNmlaSVFDR2RfS1NPZ1I5Y0thcmlsems3Qnc?oc=5"
     },
     {
       "title": "If You Want to Buy An ASX ETF, Here Are 6 Things You Need To Consider",
@@ -121,14 +121,14 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53VWVaYlIwbkF5VTRTNEg2d0Z5V3FweC1PTVFSV0JEVkEzVVozVEw1VkF5ajVZMzNyTENuQnB1NmV3Y3QtQy1VWV9HSWgwMVo4Q2Z5N3NhdThKOFhhSjlBcHdTbnppSktwQ1R3VA?oc=5"
     },
     {
-      "title": "CGO: Positioned For Continued Outperformance Of Foreign Markets",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaEtlZzltdTNBbDJmM0ZQaVdwTkRJS2ZWTGRmck02aGxFY05VVDkwNDRJVldjaVpBNXdyd2syVWtxclhkUlIyMFNGVWhPWWRNRXdqdWRUZWxPOXp2cnRGdjJJaldrM1RiVlJZd3cxMGd3WlJKcmFsaWUwSXFfbl9sMWt4ajY0OXdCc0ktUk41RUc5TXh6LXFsM3o1dTJPRV94dm5wRTFB?oc=5"
-    },
-    {
       "title": "Best UK Penny Stocks to Watch",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2RlQWt5cG41OXdWTmExTW0zaGl3TWVGYm5SSTJlRkFwR2RZX1ZKUjJtbFhJUkRRMG82ZEo1VnZEV1J5VFRLblBxblFtbnhsMVliSDg1elZpcnVCWWdHdjE1MkRiNnJLNjBzTW4zbTNhZzQwOFlfN1BuQUtuQTdMcTFaVTMwUE85Zkxn?oc=5"
+    },
+    {
+      "title": "MF Tracker: Bank of India Small Cap Fund tops 5-year returns. Should you chase the winner?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNk4xX2J4UjBaNUlTVDBsd0x3c2ZfV3ZCdm5DcjFuRmxTbUJLX1N2bGV5QXBBdkstbnE2ODFHOVI5QUJObWktNV91NzBjNXMtdFVCQTBNb1BkU3lzWEJvVjFSY2p3SXI3SDFMQVVRSHVYOWdIdEY4Vm1ON2l3QVhiblZ3LUxRT1p1aXRBQmt4cnpIWndSakVreHpudTBUdFc3TGEtYUw4UjAwMXVmVF9yZ0FqSElyN1FISnZ4QVFmNHotTVVPN2EyVlZxZklheXdqcnRUTDZpWklRQ0dkX0tTT2dSOWNLYXJpbHprN0J30gHuAUFVX3lxTFA2TjFfYnhSMFo1SVNUMGx3THdzZl9XdkJ2bkNyMW5GbFNtQktfU3ZsZXlBcEF2Sy1ucTY4MUc5UjlBQk5taS01X3U3MGM1cy10VUJBME1vUGRTeXNYQm9WMVJjandJcjdIMUxBVVFIdVg5Z0h0RjhWbU43aXdBWGJuVnctTFFPWnVpdEFCa3hyekhad1JqRWt4em51MFR0VzdMYS1hTDhSMDAxdWZUX3JnQWpISXI3UUhKdnhBUWY0ei1NVU83YTJWVnFmSWF5d2pydFRMNmlaSVFDR2RfS1NPZ1I5Y0thcmlsems3Qnc?oc=5"
     },
     {
       "title": "7 Best Money Market Funds to Buy for 2026",
