@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-27T07:49:32.861011+00:00",
+  "scouted_at": "2026-04-27T07:50:41.915764+00:00",
   "total_candidates": 7,
   "topics": [
     {
       "rank": 1,
-      "title": "Los 100 fondos y ETF con los que 'viajar' con mayor éxito a todos los mercados",
+      "title": "Descubre los 10 fondos y ETFs que superaron el 15% de rendimiento en el último año: tu pasaporte a todos los mercados",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "A la espera de los resultados, ¿qué hacer con las acciones de Amazon?",
+      "title": "Perspectivas de Renta Fija: ¿Qué fondos ofrecen el mejor rendimiento en un entorno de tipos en aumento?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Invertir en Renta Fija: situación actual y perspectivas",
+      "title": "Invertir en el Sector Farmacéutico: Fondos que han crecido un 20% en 2023 y sus riesgos ocultos",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
