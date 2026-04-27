@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-26T08:48:27.173689+00:00",
-  "total_candidates": 22,
+  "scouted_at": "2026-04-27T07:52:10.933569+00:00",
+  "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "/C O R R E C T I O N — Balerion Space Ventures/",
+      "title": "Uncovering the Secrets of the Columbia Commodity Strategy Fund: Q1 2026 Performance Analysis Reveals Surprising Trends",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Multisector Bond ETF FUSI Gets 5-Star Rating From Morningstar",
+      "title": "Multisector Bond ETF FUSI Earns a 5-Star Rating: What This Means for Your Investment Strategy",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Intel Earnings: A Stellar Quarter With Agentic AI Tailwinds",
+      "title": "Cathie Wood's Bold Move: A $75 Million Sell-Off in Semiconductor Stocks Amid Market Volatility",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -51,14 +51,14 @@
   },
   "all_headlines": [
     {
-      "title": "/C O R R E C T I O N — Balerion Space Ventures/",
+      "title": "Broadridge Transforming Financial Literacy in Ireland Through AI-Powered Communication",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnQ4MzdxMmhNdGpiT2tjSVRjcW9wOEJaSFd2T3BsU3UxVW1VdmlaTkd5UEJBWjNxajhnVkI5ZmZuVU5jRmNJTVFSbURmN1hnMUkxeUhMZWQ5TUZRQlRLUW9XZWVRM3BlYUJvNEszbjd2TjJCQm0zcTUwYmQ0RUYzN01XZVBWNXdIN1lheFphdnhLSU1iTVhuUlROUFhTd1NtWUZyaUQzUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZmZ0eDFKU2FGbmcxbzNiNDJJWFREVEtVMDd6V2NYaXR6QXI5ZEFZdnJ5d0ZZSExyWUs2RF80bEFtN29fVmlVemhBa3ZsWEFWQXJDRVBxcXMxeUhwU1Vod1lyWE5xa3FTdXZRNGFqV29mR3pQVl90YmpBbkQxVm1BVGgwREd1dW5tdDdGTE4zQ1h6cEp3MVlaMldDaDJEWi1iSTBKSGtITWFGdldKb2tGT1drbEhZSHRHYTN4ZkpWSWpFZ2JKQU4wWXIyekdjY1VZamdPQzZnN2J6eEswcE00Qw?oc=5"
     },
     {
-      "title": "Multisector Bond ETF FUSI Gets 5-Star Rating From Morningstar",
+      "title": "Columbia Commodity Strategy Fund Q1 2026 Commentary",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2tIV2s5Sl9ORU5neWROUk1wUThkLWVFb0F3Y0JLck11ZEhwbzMxeng2Wnozd09XUWp4OWxmdFByOWpVNjZ0LXZWRXBDM1VvNkhHUlpEU2g0ZGZiN2gxNmU3Mlphb2lBclB3WGNkVlhObFJhRk56cWJwSWlQV3c0N2pWQXl0WmZYVVA1TVJEcEk5WVVqLUg2YjNDNE8yaDl4VXI0MGFVN081ZjBqdmtDQg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUDdvUFlhUnlEMkRSVk5sZWw1d1EwU05iT3JZbXNlNFVPWGNCY2dZSWtNR0VQSzV0UGpJT3l3SWk3bDh5TFRQdWhiM2tJeXdaYUROU2NYQ0ZqMmMza0tOc2kwdjZpUUhiSTVTRVp5U2NndHpObDZiYUNqR2d6b2FLMDh4VUR4d191Q0w3LXRsTWhsLVBIUGNN?oc=5"
     },
     {
       "title": "Intel Earnings: A Stellar Quarter With Agentic AI Tailwinds",
@@ -66,49 +66,59 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3plLVNtLTZmN0tCZncwZkVtdWg1WnRKdWVUM3V3WVJEYXRLNEdqQ053R0dTZlJmS0F0dTVucTd1UHJSRDJGZTVyTHNFVGVqQnNWNzRfYURsN0cyVkE0VmJDLXpWWlNvMC0tRlRQNVlSOTBsLTRZZGZjVEtQZlBTZ3ZDMldTeWlVUTVuRFk1NWZrbnBWTHFDUk9XclRQZ1RVb0E?oc=5"
     },
     {
-      "title": "L'Oreal Earnings: Organic Revenue Growth Continues to Accelerate; Shares Marginally Undervalued",
+      "title": "Multisector Bond ETF FUSI Gets 5-Star Rating From Morningstar",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbllZV1FOdmpBakcyaUVOSDFCaDdndXl2bFFqd3J3emR5SFVMcThNQkxMWVpVY0NUemNyWF9rbHdMOGdORzEwY3ktdGRMZkhxT3JEVGlxbGdOblNMQXBjQlA3akNlMW83dXZRMEUzR3RkZ2R6UDJQeVI2VUpSTUpNWE84SVoxdERzd3F2WkFSVGxFdElxVlJocEs2T2wweVhBa1VGeC1mZlpzX1NfektaeDl6MDRaMFppaEs4ZUZobDZxSUJrZXdJbExjUmtGQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2tIV2s5Sl9ORU5neWROUk1wUThkLWVFb0F3Y0JLck11ZEhwbzMxeng2Wnozd09XUWp4OWxmdFByOWpVNjZ0LXZWRXBDM1VvNkhHUlpEU2g0ZGZiN2gxNmU3Mlphb2lBclB3WGNkVlhObFJhRk56cWJwSWlQV3c0N2pWQXl0WmZYVVA1TVJEcEk5WVVqLUg2YjNDNE8yaDl4VXI0MGFVN081ZjBqdmtDQg?oc=5"
     },
     {
-      "title": "Safanad Appoints Gerardo “Gerry” Lopez as a New Operating Partner, Further Enhancing the Firm’s Investment and Operational Capabilities",
+      "title": "Cathie Wood sells $75 million of surging semiconductor stock",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOOFBIaVhhUWJ4VFBhYTdWUHM5bUoyNlN1bXZDY3haRkNQSEJSdHpMTHhYQkxpRGdQUmpKWHYzQVQxcHpNTUxjODMyeUhfTElqOXNEUF8yX1BRV0t3MjlfQXpXTmdYNEpsYXd1N2dZaEJQY0J4TVk2UVNHN095MHM2Ym5xcjRfLTdBZEpTci1fSlY5QmE4V0gwd0U3UHRNSFZsRjNUSjdFVTl1MGdlZ25mS1oyWVlPWmR4S3ExWUhCT1BmS281aXlEUWtSam5hNGd6YWF6QmUwSDk4LUs0OFlyenpNMU1wZ0lNUVU4c081R2NUeHNlR2JpdVFfeTdjcGoxNXgyMC1WYVZwdVNCRWY2ZktUMTF2ZUxWUWtrV0Zn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOExWSlVsQXd4ZjU2MDVzN1VhMWpZUWs1TEtDajBWQ2w1clRiYWt2WkJrRnMyZEp3b050WVUyTEJONTBJNWFSX3VLa3g5dGhQT3pkamZjdDhRNVluZkxWNXhCNXA5Yk1kZkx2alZLdTF3dEF3cm9FWkdOTnk2QmhZek9rcEVfVXc0RmZVYzAtam9QQVUxb2Y1bU9RRjZ6UzQ?oc=5"
     },
     {
-      "title": "NEO Semiconductor Demonstrates 3D X-DRAM Proof-of-Concept, Secures Strategic Investment to Advance AI Memory",
+      "title": "Morningstar Investment Management LLC's Apple Inc(AAPL) Holding History",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPb1Zmb21WR0I0MmR2MWV2ZnJZTVRQdmlfcE9kMDlrV3FMZUd0Zy15RlZvcGlxVzZPaUM2OUZNdzJGdkRxcU5wRzF3YUM4NXQ2RU5WLTlCZGoxVTZMWDB2a0gtakN0d2EtOV9WTDVWWno5Rlp4TUp3aXc0b2pMNGVVOHZLcXRjeXNZcnRZaDRqZlFJOHRGMUE1X0Q4SXpRbGRuU0xPSkxkOXVjOEpLQXVkb0V4Tm1tTjBpeUpoWTh1SElrcV9yUG9kNk1XbXJhSkhJM1B1T3BsWWttUHZOQjg2ZFMtM3FjRDBJV2dIeFExNXN4U1RuaHk2ZkhOVTk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1hnNHhBUV8zaWtXbm1MTzlRSzBFZXBTdldocnBsQnp5YmFtVHR4N1g5VVlhSTZiZ1lGY2QwUjA4eUJ5eWFobFYwSlNuc2FveXE5N044QjZXWUZ0SnlTVzkzZzdtSzZCc0lYdzNWdDJPaU5yelNhLVJCOWQ3eFZMR0k2R1NaY3oydHFlX2psb19CSXM?oc=5"
     },
     {
-      "title": "INSIGHTRX INTRODUCES APOLLO STUDIO: A CLINICAL INTELLIGENCE SYSTEM FOR PHARMACY ANALYTICS",
+      "title": "Morningstar Investment Management LLC's Amazon.com Inc(AMZN) Holding History",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTGV5QWVSZWFQU01LSjZpcDBvRGlOM3Q0N1dKcmhvLUlYM1Z1OUhHU3FSV0NiS2VsWVZLMkpWcVVwWmFuLTd6dlpEMlpPOXVxbWJZekl0TDlqUHVhV3BXbjhxOTRBZUpwd3FIZEVEWlRwck56MURWQkEzbnVWN1Z0T3pvZjZSNHQwdDF4eVdaZjRaNjRfdi05TnJ6NV9LdC1hQ0hwRnhvb2FZR0JkanZsTlBfWmxSTmxwRUtvVkp0Y3N1dWJENVBrTzJteHVOZVoxYjdfVWJacEUxWktxNGo2WDdhbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmxMb194RjB5RzUwVkVyZWFXX1lEN0FBeDgyWUNMeF9IXzJzZ1lNN3llb1piQ0x5S0tBYnBObjhVTENuaVZRNmpEbVpDa19BYzVYSFlNN0t3NGV6WjNkVHhzTVpKS0JtaU8tX1BDZFg4VzZzUkxNVGcwd3Q1aG9qR3llWUxFRmh1ejFoR1NJOVBROU0?oc=5"
     },
     {
-      "title": "Morningstar builds Europe index mixing Shell with Revolut",
+      "title": "BitcoinIRA Releases Crypto Bundles for Investors Exploring Diversification",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaTRxYnVPa1FaWW9JZUhucEszaks2dU54dTh0MkMzMGpOMXZPNl9XRmNjZVVySU0za2FZSlo2c0lNblM5d3R2ZUw1Z1cxMVBYLTl6RnYtblJGSzU0cExlNmwxWnpqckpOUFc4WjNnanRRLTk1MUNBNjFkcHZfeUl1Ujd1ZWtYNUJ4QlZ4a1BsemVyQkRPQ3VNb2xNdDB0dlJkS0Mw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQXpkVlNlQUN1czlIY3BkNXlXdjFTLVpMRlFPWkV1V09tdUVGbG1SRVN3ZnlaTUNBeEplWm5nQ3JvbFpobEM1V1Y3c1FYS3hFYzNOZ3ZYb0E5VnoxTmZlS0JWVFVzZFdFZ2dYYV85WWZZQ1NqWlJ3cW5WMWI1ZXBPT080MlRXYnA5eDZ1TDUyRFpoOGNwNGRoeGxrSTgwdnN5bjMyQ1pGNDI3QnRvbGtnR3Y2TnRJTVJHOGp5RGNpamRWcUE5aGc2cFZ1el9xTFl0bnc?oc=5"
     },
     {
-      "title": "Motilal Oswal BSE Top 10 Banks ETF-Growth (₹ 16.69)",
+      "title": "Best Small-Cap Index Stocks for 2026 and How to Invest",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRlZkYXdHUGlCOGI4eFVKRW5QaFFqUlRwTWdURC1rQ2J5ZGE0UTZwd01NN1hQY1FFUzZFOEZoYWdaRU44emlKOERSaTVyTTZkNXRtVGlWcU9DeDlQVHFUVkpacThmb0xOcnQyYlV5alZLV2syUTYyc3Y5eTNwNGFoNEJiYmJCU0EzVGNvMkZYbE96bXFaVDkxcw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONEQwY2RoVlMwSUFWTVh2QWw3dUNGMnpsLTlVTy1JaUw1M1l5S1NuSWRhOEhRLXpqaGFIdW1ZMFhaWnZ6Ujd3WU1VcVp1dUx5RjRscHZaSnBmVEdURm5zTGhncmZ6aEdRS3dZYlZac2Fwc2p0X1RteFZPbXd3cU5pV1VYTC1rQQ?oc=5"
     },
     {
-      "title": "2026 Is the Year to Pick Your Emerging-Market ETF Carefully",
+      "title": "4 Top-Performing Large-Blend Funds",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2RwYVVDTS1XLWhHS1pKUnVoRUxmZHE1MDR3MzhIcTlwNmg5YnN6eGdsaEppVy05Ykh4Y1ZHWjYwSHVzWk1TVHpKNFB0cW1OVnBVcnRqeHVYaFRRWFdneElYRUN1OUlZS0R6eEhQMGZYQ2ZfRUw3VTlfNl9kX2lLTkZQdzN1REdLY2dJLVY4VUJHbEdfSmxZSmFSQld5MFdZZkpNU21n?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40WWFwWjhiTHVoU05zSmhnVkRLdXZpVVpoUHBGWkZuN1BmX2lqQUhXZVFNYVJwN2N5TFUwVVhfVW1MakxHeVhHWm9SbFIwZWJlY2NDTUtFUzQ5c19LcFlMVmp6a2dyTm1BSmtYaVh1Q1NSTzQxT1I0?oc=5"
     },
     {
-      "title": "Meet the Vanguard index fund beating the S&P 500 in 2026",
+      "title": "QQQ ETF Risks and Rewards",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOSjdzSDNBOFB4WmZ5Z2JVaDZBaFduWUgtazRVVDBRZEJVeGl4TF9TRmJPTjU2Uk4wckdLRm00UklveDFRU3VzQkF0SzU1X1dyQl9xSEhFSFRUWXZBMzUyajUtS0NHWkZnZFBlWVAwR1U0M09Ib1NaN3NxbUhtRTgzYUh3WndCN3ZUVW9TNzU1RDhEYVlNeVpmaDdOTDlUdVdCUmZzeTFoX09FVHR6cWhZc0FNcUxRR2V6M0xEb0VnWXVNbFUwdmxRRURqVXF6Ykp4czFrT0JfQWlNQ2JIM0x2dnZ5eDBBSDRROHlYMnEtbkxsZjVtNG9sdkFkQkU0RVpveU82TXRZQkFRSEZqYjhZaEVLWDR6dUVrR19URjFmeXBldERCaFdxcEE0aUFDNjFmeFJSNzRkazJZNDRLdTltNnFTckxjZm85UE1ULVBHMVhTa2RJZEtjNGNlWEdXMkkxejV1X2VEdHItck9sOXc0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16OERhYzVCd21WbVpiMGxtdUh0Ql9weEZlLVdNM3B4U2ppWlQxbkhOeFpLRlRraGozakJvczJvVEdmT3BtOVpnTjY2aGpIQkxkVTRxSTBrMS1XeFJMUU45SjVmQkR3LThsdTZYam9QUVFQUQ?oc=5"
     },
     {
-      "title": "Bitcoin ETFs See Best Streak Since October 2025 As Inflows Hit $2.4B",
+      "title": "MF Tracker: Bank of India Small Cap Fund tops 5-year returns. Should you chase the winner?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSDRPRzBmQnlBT29Icl9CZHBkMGd5dkFSV1VZMHI1RFJlb0JUSU9ER05iRjBHSkIwVnp3VmR1RDJsU1k4bkJKUGVOb1owLS1GMUtWMWVyU1Q1b29SeXR6d2tEYUt6YUc0OXFPNzJ1c18wZnF3ZmIxa2FjV0lBR2pURjFLXy13aGVoWGE4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNk4xX2J4UjBaNUlTVDBsd0x3c2ZfV3ZCdm5DcjFuRmxTbUJLX1N2bGV5QXBBdkstbnE2ODFHOVI5QUJObWktNV91NzBjNXMtdFVCQTBNb1BkU3lzWEJvVjFSY2p3SXI3SDFMQVVRSHVYOWdIdEY4Vm1ON2l3QVhiblZ3LUxRT1p1aXRBQmt4cnpIWndSakVreHpudTBUdFc3TGEtYUw4UjAwMXVmVF9yZ0FqSElyN1FISnZ4QVFmNHotTVVPN2EyVlZxZklheXdqcnRUTDZpWklRQ0dkX0tTT2dSOWNLYXJpbHprN0J30gHuAUFVX3lxTFA2TjFfYnhSMFo1SVNUMGx3THdzZl9XdkJ2bkNyMW5GbFNtQktfU3ZsZXlBcEF2Sy1ucTY4MUc5UjlBQk5taS01X3U3MGM1cy10VUJBME1vUGRTeXNYQm9WMVJjandJcjdIMUxBVVFIdVg5Z0h0RjhWbU43aXdBWGJuVnctTFFPWnVpdEFCa3hyekhad1JqRWt4em51MFR0VzdMYS1hTDhSMDAxdWZUX3JnQWpISXI3UUhKdnhBUWY0ei1NVU83YTJWVnFmSWF5d2pydFRMNmlaSVFDR2RfS1NPZ1I5Y0thcmlsems3Qnc?oc=5"
+    },
+    {
+      "title": "8 Best Quantum Computing Stocks to Buy in 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1hyeGtlakpTeHowbE14UGYtTHVyWHZjVXNWTWVjOTFsS093NURWM1JKeUw3SE1aS2I2aVhoMGZJMG1sNDZWLUgwNFRGR2RhZEFfMi1wRUx0TUJqeEJnSWxhai0tNzRBbXZwejh4clhlb3J2MGR0V2xnZnRaS3JTNUg3UjBCVUU?oc=5"
+    },
+    {
+      "title": "If You Want to Buy An ASX ETF, Here Are 6 Things You Need To Consider",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53VWVaYlIwbkF5VTRTNEg2d0Z5V3FweC1PTVFSV0JEVkEzVVozVEw1VkF5ajVZMzNyTENuQnB1NmV3Y3QtQy1VWV9HSWgwMVo4Q2Z5N3NhdThKOFhhSjlBcHdTbnppSktwQ1R3VA?oc=5"
     },
     {
       "title": "CGO: Positioned For Continued Outperformance Of Foreign Markets",
@@ -119,36 +129,6 @@
       "title": "Best UK Penny Stocks to Watch",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2RlQWt5cG41OXdWTmExTW0zaGl3TWVGYm5SSTJlRkFwR2RZX1ZKUjJtbFhJUkRRMG82ZEo1VnZEV1J5VFRLblBxblFtbnhsMVliSDg1elZpcnVCWWdHdjE1MkRiNnJLNjBzTW4zbTNhZzQwOFlfN1BuQUtuQTdMcTFaVTMwUE85Zkxn?oc=5"
-    },
-    {
-      "title": "Apple's Leadership Change to Boost AI Integration? ETFs in Focus",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejdCRzJiQUVQOFFsVGFLQkZva2pFak5PV196RFRqV2pCclhvc0FSVlB2dUdEMXdJMDNXTXJiWjVyaGs2UFd3QXlPNklIQ3I3VHk2dGpkbDQybmVlc3ZmX1dpLU00NGJxR3hjTElad0tYbjJZTWEwWXN5VmFZQktHM2dZMjlEUzFZajM3SnhvVDhMNzhCdS14YXZrZEQ1Z2RkNDFMdThDdkdUdWUzdWNMWEI5WWQ0SFhBX1NF?oc=5"
-    },
-    {
-      "title": "Q1 2026 Consumer price index:YoY stays at 3.1% Funds",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPckZiLW1ZS0l3WGkxUkJWTXNHcTN0WjFaM0dSN3NjTTJ5eU1pdmNEUFdZWC0wWTdENVE2cWVNYVFWdzUzLW9OMGY5eG1ZaFRZamdCQWF4SzVrOUdKSU5hbHAtYmgyRnBoNUZjZGFTZmtjQUtxaWlyMDVaWlcxa1FaMlQtSGZXbERMYWN1TkV4UnhuMTBjR3BDdg?oc=5"
-    },
-    {
-      "title": "Vanguard Launches Developed Markets ex-US Value (VDV) and Growth (VDG) ETFs with a category-lowest expense ratio of 0.08%.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Long-term mutual funds experienced outflows of $18.17 billion for the week ending April 15, representing 0.1% of assets.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Total inflows to long-term mutual funds and ETFs were $20.96 billion for the week ending April 15, with ETF net issuance at $39.13 billion.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Morningstar's Medalist Rating update goes live globally in April 2026, featuring a Medalist Rating Price Score from -2.5 to 2.5 to reflect fee impact.",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }
