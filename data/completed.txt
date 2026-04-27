@@ -1003,3 +1003,4 @@ ia: Mythos de Anthropic: ¿La nueva IA que podría cambiarlo todo o un peligro i
 ia: House Lawmakers Target Warrant Resolution Clinics with New Bill
 tools: Viajar sin salir de casa: transforma tu hogar con decoración inspiradora
 tools: The Future of Beauty: 7 Must-Have Tools for 2026
+crypto: Prediction Markets: The Next Frontier in High-Stakes Crypto Trading
