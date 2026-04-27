@@ -1007,3 +1007,4 @@ crypto: Prediction Markets: The Next Frontier in High-Stakes Crypto Trading
 youtube: La revolución audiovisual: France Télévisions elige a YouTube como su plataforma clave
 youtube: Unlocking YouTube: How to Manage Your Watch History Like a Pro
 youtube: Ben Gleib's Bold Move: Inside His New Late-Night YouTube Talk Show
+viral: Un test que distingue entre bacterias y virus en 20 minutos: ¡Revolución en el diagnóstico!
