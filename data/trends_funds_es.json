@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-27T07:50:41.915764+00:00",
-  "total_candidates": 7,
+  "scouted_at": "2026-04-28T07:49:12.275425+00:00",
+  "total_candidates": 3,
   "topics": [
     {
       "rank": 1,
-      "title": "Descubre los 10 fondos y ETFs que superaron el 15% de rendimiento en el último año: tu pasaporte a todos los mercados",
+      "title": "Análisis de los fondos de energía: ¿Por qué el 80% de los ETFs del sector superan al índice en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Perspectivas de Renta Fija: ¿Qué fondos ofrecen el mejor rendimiento en un entorno de tipos en aumento?",
+      "title": "Compara 10 fondos y ETFs que han ofrecido un retorno superior al 15% en el último año: ¿cuáles son los secretos detrás de su éxito?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Invertir en el Sector Farmacéutico: Fondos que han crecido un 20% en 2023 y sus riesgos ocultos",
+      "title": "Riesgos ocultos: ¿Podría un descenso del 10% en el mercado europeo afectar a los fondos de inversión más populares?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,39 +49,19 @@
   },
   "all_headlines": [
     {
+      "title": "¿Existe algún riesgo de que se produzca un revés en el mercado?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQck13dW11Nk1rWGtHSGwwM3BLR2JrdHNodlNiVW1JS1pnU1hfRFpUVUVERm1oRmlZLWJTcnBQeDRkUXo2YW9BMC1KX0pxUkxMeXk0VU1ZUTFnbUFNTUJWTXJGUTdVTFBoam9hQ01hbEFabWFwR2g0anFzV2RSM3JUdHNBSVV5NV83NklPc193T0pMaU9NRTVWcUdCWFJlOU1pYTVBcQ?oc=5"
+    },
+    {
       "title": "Los 100 fondos y ETF con los que 'viajar' con mayor éxito a todos los mercados",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaUJCMl94MjdTeW9OVWx4MjV0REw3blQtUktsRHJ0alBPaThlUHI3V2JFeVhpNDk1U1FLVmtfbHl0NXlsY1pmZ29nZDBmQWMwdVFuaWRRcFBNYlNwSlFmZ2k1a1g0LXRicF8ta24zOW12UHFDMGVjWjR6STVfd21HaTJXa0V1ZEdyTllRUjlKaV81UFN6cEhUUjZLb01wbDhWT2pCZXNMbHRSaDhSVlJoVHVsMlRZSWNhNlJNV0Z2WWtpQ2JnUTA5T01QMW9rel9RLXZFemJORW9HM0xKa1gyQWtUY1JndXJwSnB30gHWAUFVX3lxTFBXdHdpaVN3NFhORlFHZUMzb2tGU0s4WnJWaDUzRElCOEdLLUtHaFVvNkFlc01kQkc1c0lEM2VHX0RudEVBVEVWTHRpd2ZSZHc2LTJfODVTbndFTV9PaEFmOEdUdFdJMlN5QXVkWnU4bXQyeW9WZ01rSDdJVlNNaWRBd29xbXNqUWlseGdsZm5OS1NhR0UtTjFzbXV5QlJfd2Y2MzJkOGo1ZzE3TWNBemVycUdYazNtd3NzNm9GNERYWkVvWF9xMzRhSDBVenRsZHROY3E5Unc?oc=5"
     },
     {
-      "title": "A la espera de los resultados, ¿qué hacer con las acciones de Amazon?",
+      "title": "Una gran oportunidad para los inversores en bolsa, el sector energético",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGpWTFV6Ykl5WlZvVDg5X3BiLU82RjQxNDdYVExfOVFzNXpTNUt1YWRtQVR1aFRoOVNOLUp5Qk5zeU8xVGR6dHBrQnB5UkFUX1RIcnNZQ2o0eTNweGhSTUlKQUZRQXVuYzJGVEVUUWxSY3Vnbm9HNkxHUVZ3aDNRa21JSWJFU2RkN3d2cmUxZ21Hem5YSWFla2FqYnhxaGk2Nnp0VGV5TXhaZEx1?oc=5"
-    },
-    {
-      "title": "Invertir en Renta Fija: situación actual y perspectivas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
-    },
-    {
-      "title": "Las bolsas dudan mientras el petróleo aprieta | Resumen diario de mercados",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONldGaFFaS2VHcjgyVnJ0U1ZCVjVwc09RdlJBaU9WMkhQQ2xmQzJfN0t1d01CN3F5Qk5Pa3dxRHpBTkxxMmUteFpIZS14STg4aHFaZDJPNjdFR0tXa0xIUnd0RVhrUGlZN3ZYTkxvY24zTEhQdWdPTVFhWkJFSzQtZGpYamFob3o5QkFSVmxiWU5RMHdwRXBtaG1EQzNfMjJUZzRob0s2T0xXNkRUUnpBcUVOX1BWZXVPTFNMZVN2dE5mLVRT?oc=5"
-    },
-    {
-      "title": "Renta 2025: ¿En qué casilla de la Renta se ponen los fondos cotizados o ETFs?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1A4ZWNjaVA2YTkxQy1CYk1sQUswb1hkV1NLVTFpdnEtRGFDRDZCUmNmSm9UaUxoczJiQ29LMHB6ZldESnNQUFhqR0gyZnVUUEpkLW1IeWJ1ZGZRS3JGWmRmdm80WFZzQk5NQW1oVVh1Y1drZU8yWVJ6YXE0MGowUDNjbVlYc19BaFItbVowWQ?oc=5"
-    },
-    {
-      "title": "Mejores cuentas remuneradas de 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY0o5VTZiU0lpLS1UZTUxLXIxWko2eGhNa21NZTBFeWlJbllWajdBaG9BZktfdUM5ZkhMS0FBUm1YbG1kWV9yenAtT2VKWlN4R2FwYVpkUFNaUkVnSXp2dGkwTzVkWXRWZzhjc1hiNGFIWWpnaGcyN1dsOWEyNjBjVGFfNHNWSE1aYWJ2TlBPU3JDXzNRTVd4QUFEYm1LeTUtN1M1QnZpN0k4NGItcWRpSjFnbWhkLTdv0gGUAUFVX3lxTE5NeXctUUZGQmdScnFmMFJZS1pGWW1KMlhjeTdqdkstMElRUC1TaVFNZTNpTGFyWGptcDNJeGZYclNWalNEV1VDVVV2bEFvM3lvbTV2TWxZeG9mcFA0YVd2TWw4YXZDYUVBREJCd2dNY1hKd2RZMUxBSW5OWEFpVkV2bVhkempEdnZxd2R4RWNhcHNjbFE?oc=5"
-    },
-    {
-      "title": "Invertir en el Sector Farmacéutico: Oportunidades y amenazas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdm1HT1FBdFFLODdYaEdpRDRfcmtKVGc5NEdkSjVVZXpzM2gydm9OOU9TZlZLYnNVaWw0MDJTNEx5SHl2OUVucXBfWnF3RmNpNDVmUDFHX0tIY1RRemxDYkFRX0d0XzhZU1FwMjBfQ1ZPUUlaMDVzWDF2Qzk1WndsWEl4X3hmMGhkV0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSThoTzdud2NrTkhsczBkU2hQOWtobDNWRWgyYVY2aFN6T2NlRmg4UlBMd2NNdzRqU21YbjY5WXZlT3VYdFRoTVI4VDNpWUtvdEptQ21LNG5ycDlqRzFMYWk5VzhsNHU1enpUUDJQbzcxVW9sMjhuaXVMb3MxalVGbFhEWmwwVWM3bEN3Q0ROYlAya1Y5RWZpQUszQ0JnS3FLVlU5a3pBZmdXUFpqWS1hbENHS3lzcTlwdUo5blBLNXRyOWZwbFhiOVZpRdIBpAFBVV95cUxQUU5BLVFHR3E4U2pWb2hDU1E5QU5sWlJNT1NoNS1pczRkczNPRDFFOGFlTFJYazNPMVlBdE9qS1FBMklrc0JhblN0N0t6VFlMYk1ncktldFhhZjZQUXlRczh5cWlwNWVLUFBlUEJWdU8zUHctaFFvTlZXZUQ5WGJRcmVXU3VBMDRPMEhZOTJYYnhpMTUyMVp0VV9hRHhQZU1tSXJnUw?oc=5"
     }
   ]
 }
