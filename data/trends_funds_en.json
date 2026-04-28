@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-27T09:16:53.681404+00:00",
-  "total_candidates": 17,
+  "scouted_at": "2026-04-28T07:52:01.824212+00:00",
+  "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "Broadridge Transforming Financial Literacy in Ireland Through AI-Powered Communication",
+      "title": "Now it gets real: Real money, real investment decisions, Rutgers Business School students launch $1 million Scarlet Student Fund",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Sungrow Unveils Full-Scenario Solution to Address Emerging Global Energy Challenges",
+      "title": "VIAVI Announces Investment in PCIe 7.0 Protocol Analysis Testing Platform",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "EV Lighting Market to Reach USD 22.42 Billion by 2036 as LED and Adaptive Systems Transform Electric Vehicle Design",
+      "title": "vVARDIS Announces Investment from Apollo —Achieves Unicorn Status",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,89 +51,79 @@
   },
   "all_headlines": [
     {
-      "title": "Broadridge Transforming Financial Literacy in Ireland Through AI-Powered Communication",
+      "title": "Now it gets real: Real money, real investment decisions, Rutgers Business School students launch $1 million Scarlet Student Fund",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZmZ0eDFKU2FGbmcxbzNiNDJJWFREVEtVMDd6V2NYaXR6QXI5ZEFZdnJ5d0ZZSExyWUs2RF80bEFtN29fVmlVemhBa3ZsWEFWQXJDRVBxcXMxeUhwU1Vod1lyWE5xa3FTdXZRNGFqV29mR3pQVl90YmpBbkQxVm1BVGgwREd1dW5tdDdGTE4zQ1h6cEp3MVlaMldDaDJEWi1iSTBKSGtITWFGdldKb2tGT1drbEhZSHRHYTN4ZkpWSWpFZ2JKQU4wWXIyekdjY1VZamdPQzZnN2J6eEswcE00Qw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTDNJcDhKa1d3N0lsRHhFdnhYYU5EOUZoVjRzb3ZENUFYSGhiSzhpX0paRkZQd3VPa1BoTkJ0OThSYkNBTThCSlVEdmJsdVQxQlhpU1llU2hJZTV0WjJFZXVyVmRRWVBVNWJLOTd3T1lYQUF5RGwwdzZDbkN6ZDhkaHZyZmZsTFZaVEdJTkYtNEg2X1BiVHBhelU1UFhmVVNSMHQ5bHV2OXpjVGYyWW5nU25GT3hXbXJSdE9VSkJ3NkFKV2c1MkdpenR1QnkwN1g0TVp5WTdlVEpZMi1DZTIwemtHdjBna0NFR3Qwck03c0k3S0E2amItNzc5M3RGbWlGT19TNXNXc3NCeGZES2hKenRBdw?oc=5"
     },
     {
-      "title": "Sungrow Unveils Full-Scenario Solution to Address Emerging Global Energy Challenges",
+      "title": "VIAVI Announces Investment in PCIe 7.0 Protocol Analysis Testing Platform",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZVctSU5VVDJpNXpRek55M2JhY3BHTHFEQVpxdFFiVzRVa2JRMGw3N0c4cUs2TnpWSlBfbTVLSkZfQWI4bHRVMThTZXFvQ3N6YlBYT2VYQTg3S195SE9TZEVvTjF6NF8ta1I0MTl3Y01vVzJ2ckhwTzZnamRsMXJ1aDNrcFNJeXM3U1NwTC1WM2xkUlRtQ05hRDVkZm9lQ3dhMGY5Q29QeUxPRlpRYmVnak4wTUpabHNJU1F5MkJOVXZFWkJHbk5oSXhIOVR2SVpLOHNKLWdvc19JVkZy?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUEZrNk5iRkdILW9UcVloMjg5QXI4STgxRzlqZk0wV19rWmIzY2t0WUVzWE1kaUhpWmJOc1dqVExUSWRlQ095SjRFQ2dzYkJBSDVWU1dNZkdsUFJhcm82emFiblRKT0VhV0ZqYmlOWHEwVHp1amNhUDNGdjZWUm91VV9BZjk2am5pM29mWHZyYmFfdVljWFBEMmhaRmZPQlVaQnBLTXd5YVVweHJtaXVFaXlROF9ZczFQcDJnMFJ0OUZFaWw3UWphV0dUUEpFQQ?oc=5"
     },
     {
-      "title": "EV Lighting Market to Reach USD 22.42 Billion by 2036 as LED and Adaptive Systems Transform Electric Vehicle Design",
+      "title": "vVARDIS Announces Investment from Apollo —Achieves Unicorn Status",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORFc3dUw0MUdFV3JNNGRIc2JyNVg0a1M1ZVNSeE4wM3JZbEV4TmhTV3ZSOEhWdThOa2tWc1Y0R3NOcGNOd0lyZ1FQV18zZzNhbFpqS2NxcF9ZVmZTbkRmcm96cDFlX19lSU9FbkZ3b1pjX24tRi10MFVPN0hNS1RIZmFxeExNQ19uem1wVDdYcDItejZMQV80NlpYVEI0VVhyN1dHa05pU1Y2SUVjTV80b3hHVjVsNmJ6ZndaN3dHaFBNMUlTQk9xajNKa0VlcFo0Ry1pQXRLX280X3JhekxTZi1xa1Y5ZFkzVlhWaEI1QVZxXzEwMkY2T0NsazJjZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOclV6cVNMMlBCd0YwNENhTm9UTVRMSlNBSG91NG9vVmJFOFNhbzlSM0kxMml3ZFNtZWI4cVFFdndQMDdBSkpFOUFFbjhDbUJkN01vY08xallPekJ6c2JkOUFjNE5BS2FjeG94akpVN1ZyZWpOX2x4aUk1RGt3T3QwejdsOHlMNnN0MS1kRG1NNVRNa1NTMDBLalZ5WExETDM4TEJfUmZXcFltTHdPZVA4NlhyejZJTE9qSDBfTlZiWHBHMTFz?oc=5"
     },
     {
-      "title": "LG ELECTRONICS PRESENTS HYBRID EMERGENCY CALL SOLUTION AT 5GAA IN SWEDEN",
+      "title": "Morningstar upgrades $8bn AQR fund",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONi0xVDhmcVcxTXh4T3ZpYkVNazU1dS1tRTFYbjVlUjNNakFLcWplQWt5eTBSYmJyV2s3Y0dLOEJCN3VlZ2piTGw4Skd4bExIWjJtMlRMcjBZaTRpRkdobUZKSEdreER1NWp4Y2ZRLTRmUjQ4b1JyNFNwbUxabGE4MDdONHBPY3lkQ19kaW9Rek1Xemo0YnBvWmJMVnBQX1pPbUIxa21lSG1QNE5kczR1NTAzbzZFb1FxR0lfRUhOSkpJaGt1Y1NMWDFxTE1wZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUVJKXzliY1YyUk5vVXBFNWNPWlluQUNpUDZLUDZDWVRycXF3MmYwcGpMblN3ZnpQMTMyMTY3QnJHcElhOF82NnBaOEZTZFB3eVRKYktNZU9wUUNDaHc1clBXVEpnc0Q3WnZ4MkVoMTZCbDAya1dIMXVIMkJGUDlOVGtudTk?oc=5"
     },
     {
-      "title": "Columbia Commodity Strategy Fund Q1 2026 Commentary",
+      "title": "Causeway’s Sarah Ketterer and Harry Hartford Named Recipients of 2026 U.S. Morningstar Awards for Investing Excellence",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUDdvUFlhUnlEMkRSVk5sZWw1d1EwU05iT3JZbXNlNFVPWGNCY2dZSWtNR0VQSzV0UGpJT3l3SWk3bDh5TFRQdWhiM2tJeXdaYUROU2NYQ0ZqMmMza0tOc2kwdjZpUUhiSTVTRVp5U2NndHpObDZiYUNqR2d6b2FLMDh4VUR4d191Q0w3LXRsTWhsLVBIUGNN?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQakxjdlZMcmQ1Z2hZcUo4NHFGQUJ1dVd2S2V1a1JGYi1qdWc1ZzZ1NHQ3c1BubWZBc0U2Y0NHY3J3Nmg2bWxZUHdJTXNnaWpzNV83NmJYcjlMaTZOdV9sYmdha25qYk9ZRDY0TnJ5UjJHTnRvbmxkelJhUWs0R2JKdmJ3UGtGWkI1STc4anYtdjg0cjhGajh4ajBYdk1PbkxYNDZjNWJjMDlFcWZ2dmRpMkZSMFEwMUpJa1czXzd3Zk9OV29CbTJyaFBzNUEzY1FPdHJWY0tObHRGTC03cGJ5UUduVFVGSkZqYWY5UzNKdmllc1VNaW1jYkxRekQxREZSMGVkTw?oc=5"
     },
     {
-      "title": "Multisector Bond ETF FUSI Gets 5-Star Rating From Morningstar",
+      "title": "Defiance’s Quantum Computing ETF (QTUM) Surpasses $4 Billion in Assets and Earns 5-Star Morningstar Rating",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2tIV2s5Sl9ORU5neWROUk1wUThkLWVFb0F3Y0JLck11ZEhwbzMxeng2Wnozd09XUWp4OWxmdFByOWpVNjZ0LXZWRXBDM1VvNkhHUlpEU2g0ZGZiN2gxNmU3Mlphb2lBclB3WGNkVlhObFJhRk56cWJwSWlQV3c0N2pWQXl0WmZYVVA1TVJEcEk5WVVqLUg2YjNDNE8yaDl4VXI0MGFVN081ZjBqdmtDQg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTklkWTdkRG9DZWxQN0xOeVdXd3Q2QWRTeDZTNjE0TjB0REZZdDdGRkRrOTR6UVgtVHN5SFR0RU1JdnFfelpyYmVPQ3V4RE02TngzcjB2X1otYk1OVjZCcXZiQjdfWGVWZ1kzLUxuY3hEb1pQUnJHZk10b01Lc0JEWDBIdXVjaE05NEtLRWszSmpFUmRkVjhKZklSUWhJcVF1QTJHeEhfTUVzQXphbkRlUk5QcXo2SUphMl9MbVd2SEE5RC1lWWE2ZE9YenN3dFFZWEFHRHU2T1d0bXhIaUpZYVpJcWg5Yng4Ukx3eHZwRmxvLXlIUXVZU1RibXhraXlhc0xDb2d3?oc=5"
     },
     {
-      "title": "Cathie Wood sells $75 million of surging semiconductor stock",
+      "title": "Managed account growth drags on GDG results: Morningstar",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOExWSlVsQXd4ZjU2MDVzN1VhMWpZUWs1TEtDajBWQ2w1clRiYWt2WkJrRnMyZEp3b050WVUyTEJONTBJNWFSX3VLa3g5dGhQT3pkamZjdDhRNVluZkxWNXhCNXA5Yk1kZkx2alZLdTF3dEF3cm9FWkdOTnk2QmhZek9rcEVfVXc0RmZVYzAtam9QQVUxb2Y1bU9RRjZ6UzQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU2NwT2FXQlpnTmhXSTlUMFFSeDU1dlVrS01UN0d3M1M5T2c1YnFadkxiSHlDQms2bXhaOTFobzlNVkU2Z3N3bFRvZ3VBWXFiWlZ0X2txQW1EYUV0MVNBNTZXbzVmcGR0OE9qdWJOZ0pZUzdBN2c3MXNlaElpNlBQTzNyNy1qMEJUSFdVaU1wZmxjcG9fOWJlbjAwUGtBM1JKNThCdDlETXR6NEhreDBj?oc=5"
     },
     {
-      "title": "Morningstar Investment Management LLC's Amazon.com Inc(AMZN) Holding History",
+      "title": "STORY3 Capital Makes Significant New Investment in Bumble",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmxMb194RjB5RzUwVkVyZWFXX1lEN0FBeDgyWUNMeF9IXzJzZ1lNN3llb1piQ0x5S0tBYnBObjhVTENuaVZRNmpEbVpDa19BYzVYSFlNN0t3NGV6WjNkVHhzTVpKS0JtaU8tX1BDZFg4VzZzUkxNVGcwd3Q1aG9qR3llWUxFRmh1ejFoR1NJOVBROU0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGlKU0hYYnJ5YkhlN2dyMnNVeU41aUhnLWVnOW5MMVJIbUZvOG5uYjgwWGYyQ3o0X1gySDF1ODh4LV9NMzljbEtrQ01DeHBlVmh6UTJBLVBjYi1PdGdxdWVoc2RnVmNpSUZfOTB3OU9ZMkdtbUcyaFNINDJvdlJ6YjQ2Q1lNWkpBU0Fra3hrcWZzUkF0a0VjZ0xFTGZOVHAxd3RRVzcxZnQ0ZVZITEw2RWlKSUxvV0dVSmc?oc=5"
     },
     {
-      "title": "7 Best Money Market Funds to Buy for 2026",
+      "title": "3 Simple ETFs to Buy With $1,000 and Hold for a Lifetime",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44VGpwSkl3S3ZqNC1MdGhiMlBPLTJDNVhoeTBDXzRVMGktU0VycVBQR2dOMkFYbUlEVmY1czEzeUdjWkVlTzdkRUxwVVdiekR3bjJhQmNKc0VJeS1lMTc3ZTB5WWloa0UwVjlNZ2RKRy1EaXZ2WEExRnppQzVXenM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41NmxWcGFyZ295ZEhDR1Z3WlhYV0J3azcxT09ObS1PMFR4dlg3N2FzUU5UVFFHZk1wTmd1SEliOVN6NkxRTjRvNlZQZkF3eUVoS2piMll0OUdDRXlIMzk1NzFSWmtKWk9Fa05qVVZXbw?oc=5"
     },
     {
-      "title": "Best Small-Cap Index Stocks for 2026 and How to Invest",
+      "title": "International funds deliver up to 50% returns in a year, subscriptions halted. Should investors book profi",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONEQwY2RoVlMwSUFWTVh2QWw3dUNGMnpsLTlVTy1JaUw1M1l5S1NuSWRhOEhRLXpqaGFIdW1ZMFhaWnZ6Ujd3WU1VcVp1dUx5RjRscHZaSnBmVEdURm5zTGhncmZ6aEdRS3dZYlZac2Fwc2p0X1RteFZPbXd3cU5pV1VYTC1rQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPMTRwVU1QWXF0cWpwTC16WWh4dEJyZmlCUzluQmthMUxsckZrT1I3dEtTQWJvSGxvSnBxaXhXR3VyWTV0Q21PQUtFN3JWb3QxYjlSa0N1LVlGczhoSXJJX3FFWFlvVVY2TVRQQU9GejY1clVQYV95Y0dYdkNqMjNqRFFSVFhMSHE3RjhjMFg1bVBUVEJOZ1hzdF9oSUVrR08yVEplYkRBRGxCVC15SGhPb2R0aXhIYXBqeVVjQ3BhNUU3TEZJTG9TUFA0R0FjSHdaaUQyczItUHdfVVZXM1lqNWFhSTNCN2VETDROR29iOXA0YlAyaU1pZHhoMlBRMkpmZkc0eWRaQlUtU09DcGVsbjl3cU10S0p6RXEyZdIBnAJBVV95cUxPMTRwVU1QWXF0cWpwTC16WWh4dEJyZmlCUzluQmthMUxsckZrT1I3dEtTQWJvSGxvSnBxaXhXR3VyWTV0Q21PQUtFN3JWb3QxYjlSa0N1LVlGczhoSXJJX3FFWFlvVVY2TVRQQU9GejY1clVQYV95Y0dYdkNqMjNqRFFSVFhMSHE3RjhjMFg1bVBUVEJOZ1hzdF9oSUVrR08yVEplYkRBRGxCVC15SGhPb2R0aXhIYXBqeVVjQ3BhNUU3TEZJTG9TUFA0R0FjSHdaaUQyczItUHdfVVZXM1lqNWFhSTNCN2VETDROR29iOXA0YlAyaU1pZHhoMlBRMkpmZkc0eWRaQlUtU09DcGVsbjl3cU10S0p6RXEyZQ?oc=5"
     },
     {
-      "title": "4 Top-Performing Large-Blend Funds",
+      "title": "10 Best High-Yield Savings Accounts Of April 2026: Up to 5.00% APY",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40WWFwWjhiTHVoU05zSmhnVkRLdXZpVVpoUHBGWkZuN1BmX2lqQUhXZVFNYVJwN2N5TFUwVVhfVW1MakxHeVhHWm9SbFIwZWJlY2NDTUtFUzQ5c19LcFlMVmp6a2dyTm1BSmtYaVh1Q1NSTzQxT1I0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3FScG9fM0lUTlZ4bmIzS1J3eUVmNmljVlN1dVVnYy10V3hYQ0VFMHo4UUROeHlzalJOSG5tSFRfaFY4Z1A0RHoxQUh3TW5HMmNFejlQeG5ENmx2QVlWZU9kMHZ3ejhkS2FOVFR6MllpXzlFNVlILWItbG9QV3NWN3kzS2VEVWc?oc=5"
     },
     {
-      "title": "QQQ ETF Risks and Rewards",
+      "title": "What's Driving the Insane Rally in Chip Stocks & ETFs?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16OERhYzVCd21WbVpiMGxtdUh0Ql9weEZlLVdNM3B4U2ppWlQxbkhOeFpLRlRraGozakJvczJvVEdmT3BtOVpnTjY2aGpIQkxkVTRxSTBrMS1XeFJMUU45SjVmQkR3LThsdTZYam9QUVFQUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmwzY3VnQ0dENFJzeTZ1UzkyU2ZtbE1zTTdFTU9UZVcza3VjY1JQbHN1UFJZc0pRSHRyQ0NFVWY2aUdjcTJkWTB0N0w0V0hMWjhDLUZnMjJCc0hKZVluQU1aM3ZxdzNwU0ZHRmFNeDUxWmhqZHhhZ1ZSSmlKZXhyVVpNbV93LUpaTHI4RGc1SGJKbTY5RUJPb1kyd1VKamxCTkM2and0dGtieVU?oc=5"
     },
     {
-      "title": "MF Tracker: Bank of India Small Cap Fund tops 5-year returns. Should you chase the winner?",
+      "title": "Vanguard Just Completed an 8-for-1 Stock Split on Its Most Popular Tech ETF. Here Is What VGT Investors Need to Know.",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNk4xX2J4UjBaNUlTVDBsd0x3c2ZfV3ZCdm5DcjFuRmxTbUJLX1N2bGV5QXBBdkstbnE2ODFHOVI5QUJObWktNV91NzBjNXMtdFVCQTBNb1BkU3lzWEJvVjFSY2p3SXI3SDFMQVVRSHVYOWdIdEY4Vm1ON2l3QVhiblZ3LUxRT1p1aXRBQmt4cnpIWndSakVreHpudTBUdFc3TGEtYUw4UjAwMXVmVF9yZ0FqSElyN1FISnZ4QVFmNHotTVVPN2EyVlZxZklheXdqcnRUTDZpWklRQ0dkX0tTT2dSOWNLYXJpbHprN0J30gHuAUFVX3lxTFA2TjFfYnhSMFo1SVNUMGx3THdzZl9XdkJ2bkNyMW5GbFNtQktfU3ZsZXlBcEF2Sy1ucTY4MUc5UjlBQk5taS01X3U3MGM1cy10VUJBME1vUGRTeXNYQm9WMVJjandJcjdIMUxBVVFIdVg5Z0h0RjhWbU43aXdBWGJuVnctTFFPWnVpdEFCa3hyekhad1JqRWt4em51MFR0VzdMYS1hTDhSMDAxdWZUX3JnQWpISXI3UUhKdnhBUWY0ei1NVU83YTJWVnFmSWF5d2pydFRMNmlaSVFDR2RfS1NPZ1I5Y0thcmlsems3Qnc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbDBWWmZGLTNEaVVzcmxIeGI0bjNtWnBEWlpfT2ZFSl81bklvM0dfSGZ1TVlGSTg0dnVBdFJ3S0NnMXlVTmg1Z1B4alc1WlhGRVhFM2JFNWhvSEk4ZDVneHAwRWFwX0RUV3hlV1IzLWdXM0hQdFR3SWNvNV9ZQXhXNjBOeFdUdFRtcWpmM3kzVnhraTZxM1VLbERxTndpUXNIUjN2cGpJRE1Xb2Z4amJmU1dsWDFYR2RIQVBac0tUeDdORFNPUHpEMWg5NG1NRHBpSHJleHVDYy12RzhmM2RudU85MGlkY0tnSk9MM3FPZ3A?oc=5"
     },
     {
-      "title": "If You Want to Buy An ASX ETF, Here Are 6 Things You Need To Consider",
+      "title": "11 Best TSX Stocks to Buy According to Hedge Funds",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53VWVaYlIwbkF5VTRTNEg2d0Z5V3FweC1PTVFSV0JEVkEzVVozVEw1VkF5ajVZMzNyTENuQnB1NmV3Y3QtQy1VWV9HSWgwMVo4Q2Z5N3NhdThKOFhhSjlBcHdTbnppSktwQ1R3VA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcXllV2VlSFAzOG9GRnBTV2tlQm5GOWs2dmFHT3p4RElqZThnWERCRGhaalJlT0lVcmtQX04wd0JQN2k3dmNydEUyZW9LaGxBN05kUkg4YUphODR5U0Q5QWVrVUNhSzI3TFJ3MnNNOUdhSGpOck1zdFByUUxDTHdkU0dUVVJPMzYtRDJkM1AxSjJLY2RyanFKVmVB0gGiAUFVX3lxTFBEWFIteG5NRWJtRnEwaEpBS1ZZVW8yamNIX25uVUNBZ3VwOGJTUlN0d3JaeXFHYXZYQUhPZWlvWFBBOHIwU3BoVmo5VzFTZzRTQXU5RUhmMlBSQzNxZnI4MXZjbFd5bEc2ekpjaFlDMVNIeHVST1o4WGxPV1VTZHphcUN4N2x4TnBtTUJuaS05dGxzaWtQclRSTVNLZUNJOHhSQQ?oc=5"
     },
     {
-      "title": "Best UK Penny Stocks to Watch",
+      "title": "Meet the Vanguard index fund beating the S&P 500 in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2RlQWt5cG41OXdWTmExTW0zaGl3TWVGYm5SSTJlRkFwR2RZX1ZKUjJtbFhJUkRRMG82ZEo1VnZEV1J5VFRLblBxblFtbnhsMVliSDg1elZpcnVCWWdHdjE1MkRiNnJLNjBzTW4zbTNhZzQwOFlfN1BuQUtuQTdMcTFaVTMwUE85Zkxn?oc=5"
-    },
-    {
-      "title": "Gold Price Today: April 24, 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zX1NXTllPckpxeXBCVHlJc0I2dDBaRVRVdllsN19XQUhXYjBxWkx5TjNlVGF4NWx2RDFkSzA0V2FocXh4Z2lrUHMzZkV3a3ZnVXMwZjhZdU9LLWVQX3RyNVVn?oc=5"
-    },
-    {
-      "title": "7 Best Money Market Funds to Buy for 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44VGpwSkl3S3ZqNC1MdGhiMlBPLTJDNVhoeTBDXzRVMGktU0VycVBQR2dOMkFYbUlEVmY1czEzeUdjWkVlTzdkRUxwVVdiekR3bjJhQmNKc0VJeS1lMTc3ZTB5WWloa0UwVjlNZ2RKRy1EaXZ2WEExRnppQzVXenM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOSjdzSDNBOFB4WmZ5Z2JVaDZBaFduWUgtazRVVDBRZEJVeGl4TF9TRmJPTjU2Uk4wckdLRm00UklveDFRU3VzQkF0SzU1X1dyQl9xSEhFSFRUWXZBMzUyajUtS0NHWkZnZFBlWVAwR1U0M09Ib1NaN3NxbUhtRTgzYUh3WndCN3ZUVW9TNzU1RDhEYVlNeVpmaDdOTDlUdVdCUmZzeTFoX09FVHR6cWhZc0FNcUxRR2V6M0xEb0VnWXVNbFUwdmxRRURqVXF6Ykp4czFrT0JfQWlNQ2JIM0x2dnZ5eDBBSDRROHlYMnEtbkxsZjVtNG9sdkFkQkU0RVpveU82TXRZQkFRSEZqYjhZaEVLWDR6dUVrR19URjFmeXBldERCaFdxcEE0aUFDNjFmeFJSNzRkazJZNDRLdTltNnFTckxjZm85UE1ULVBHMVhTa2RJZEtjNGNlWEdXMkkxejV1X2VEdHItck9sOXc0?oc=5"
     }
   ]
 }
