@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-28T07:53:16.803471+00:00",
+  "scouted_at": "2026-04-28T09:16:06.084292+00:00",
   "total_candidates": 15,
   "topics": [
     {
@@ -12,28 +12,28 @@
     },
     {
       "rank": 2,
-      "title": "VIAVI Announces Investment in PCIe 7.0 Protocol Analysis Testing Platform",
+      "title": "STORY3 Capital Makes Significant New Investment in Bumble",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "vVARDIS Announces Investment from Apollo —Achieves Unicorn Status",
+      "title": "Liberty Mutual Insurance Retires Safeco Brand",
       "lang": "en",
       "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
     "key_phrases": {
-      "fund class": 24,
+      "fund class": 23,
       "full list": 20,
       "index fund": 7,
       "small cap": 5,
+      "fund institutional": 4,
       "etfalps shares": 4,
       "emerging markets": 3,
       "markets china": 3,
       "china fund": 3,
-      "fund institutional": 3,
       "funds growth": 3,
       "growth portfolio": 3,
       "portfolio class": 3,
@@ -56,6 +56,16 @@
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTDNJcDhKa1d3N0lsRHhFdnhYYU5EOUZoVjRzb3ZENUFYSGhiSzhpX0paRkZQd3VPa1BoTkJ0OThSYkNBTThCSlVEdmJsdVQxQlhpU1llU2hJZTV0WjJFZXVyVmRRWVBVNWJLOTd3T1lYQUF5RGwwdzZDbkN6ZDhkaHZyZmZsTFZaVEdJTkYtNEg2X1BiVHBhelU1UFhmVVNSMHQ5bHV2OXpjVGYyWW5nU25GT3hXbXJSdE9VSkJ3NkFKV2c1MkdpenR1QnkwN1g0TVp5WTdlVEpZMi1DZTIwemtHdjBna0NFR3Qwck03c0k3S0E2amItNzc5M3RGbWlGT19TNXNXc3NCeGZES2hKenRBdw?oc=5"
     },
     {
+      "title": "STORY3 Capital Makes Significant New Investment in Bumble",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGlKU0hYYnJ5YkhlN2dyMnNVeU41aUhnLWVnOW5MMVJIbUZvOG5uYjgwWGYyQ3o0X1gySDF1ODh4LV9NMzljbEtrQ01DeHBlVmh6UTJBLVBjYi1PdGdxdWVoc2RnVmNpSUZfOTB3OU9ZMkdtbUcyaFNINDJvdlJ6YjQ2Q1lNWkpBU0Fra3hrcWZzUkF0a0VjZ0xFTGZOVHAxd3RRVzcxZnQ0ZVZITEw2RWlKSUxvV0dVSmc?oc=5"
+    },
+    {
+      "title": "Liberty Mutual Insurance Retires Safeco Brand",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkNoUkJIem53VlZmNzROYW9xbEVrVDd4Tm40U1RMcGowUFF0Nll6V2JsZ0pFYnJmV1R2dmdJc3J4QUVibWtzazhHc1NSQW1MMnZRdnBZcm5GQ1g3QWVsUEo3eE5UbzBFREtTU2RId2xFeFB1Tl91U3M4VGVKenRoNllqX0hVbW9mUTJJd01YeHlWb2w0aFl0OEs5YUh3RnhQSjluVjRZVkhMdw?oc=5"
+    },
+    {
       "title": "VIAVI Announces Investment in PCIe 7.0 Protocol Analysis Testing Platform",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUEZrNk5iRkdILW9UcVloMjg5QXI4STgxRzlqZk0wV19rWmIzY2t0WUVzWE1kaUhpWmJOc1dqVExUSWRlQ095SjRFQ2dzYkJBSDVWU1dNZkdsUFJhcm82emFiblRKT0VhV0ZqYmlOWHEwVHp1amNhUDNGdjZWUm91VV9BZjk2am5pM29mWHZyYmFfdVljWFBEMmhaRmZPQlVaQnBLTXd5YVVweHJtaXVFaXlROF9ZczFQcDJnMFJ0OUZFaWw3UWphV0dUUEpFQQ?oc=5"
@@ -71,24 +81,14 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUVJKXzliY1YyUk5vVXBFNWNPWlluQUNpUDZLUDZDWVRycXF3MmYwcGpMblN3ZnpQMTMyMTY3QnJHcElhOF82NnBaOEZTZFB3eVRKYktNZU9wUUNDaHc1clBXVEpnc0Q3WnZ4MkVoMTZCbDAya1dIMXVIMkJGUDlOVGtudTk?oc=5"
     },
     {
+      "title": "GreenFruit Avocados Acquired by Industry Veterans, Bringing Global Growing Capacity, Vertical Integration and Experienced Leadership to the Avocado Market",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPalF1bm1FRFFlckJjRlVLSHFXVFZvS2x3ZU5OUk9qRGw3aWRiVWZiMEhvdWc5WFRmWVBCRmthblB4QWNFczFXczlfanlmN3NRbGJuX1RsTWlhSGxuZVl6di1JcVAtX3V6bjhEX0lUUVBQNlVMbTVzSF96Y3R3RjB3RUNMZ2pFOGRlak5vN2c5MVlLcDJCcHlpRkpsdVdyY0dKd2pZa09WX1pnRXBjRG45N3pqYU9SMURGeDladUlqa29JSF9tWUNmYzlNd0Fnby0yUEl5aTBSX09mVWhjWE5PSnlRUjBwMzZkM21fZkRQUlQ3UV85anF1VGRjQXJyT0YxZl9mZGpJbHI4UXd3Zkx2QVBfcnFzNUFEdF9QRXBHUVlsME43VS0zMWNrWWYtSERHQkpseXpuT0U?oc=5"
+    },
+    {
       "title": "Causeway’s Sarah Ketterer and Harry Hartford Named Recipients of 2026 U.S. Morningstar Awards for Investing Excellence",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQakxjdlZMcmQ1Z2hZcUo4NHFGQUJ1dVd2S2V1a1JGYi1qdWc1ZzZ1NHQ3c1BubWZBc0U2Y0NHY3J3Nmg2bWxZUHdJTXNnaWpzNV83NmJYcjlMaTZOdV9sYmdha25qYk9ZRDY0TnJ5UjJHTnRvbmxkelJhUWs0R2JKdmJ3UGtGWkI1STc4anYtdjg0cjhGajh4ajBYdk1PbkxYNDZjNWJjMDlFcWZ2dmRpMkZSMFEwMUpJa1czXzd3Zk9OV29CbTJyaFBzNUEzY1FPdHJWY0tObHRGTC03cGJ5UUduVFVGSkZqYWY5UzNKdmllc1VNaW1jYkxRekQxREZSMGVkTw?oc=5"
-    },
-    {
-      "title": "Defiance’s Quantum Computing ETF (QTUM) Surpasses $4 Billion in Assets and Earns 5-Star Morningstar Rating",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTklkWTdkRG9DZWxQN0xOeVdXd3Q2QWRTeDZTNjE0TjB0REZZdDdGRkRrOTR6UVgtVHN5SFR0RU1JdnFfelpyYmVPQ3V4RE02TngzcjB2X1otYk1OVjZCcXZiQjdfWGVWZ1kzLUxuY3hEb1pQUnJHZk10b01Lc0JEWDBIdXVjaE05NEtLRWszSmpFUmRkVjhKZklSUWhJcVF1QTJHeEhfTUVzQXphbkRlUk5QcXo2SUphMl9MbVd2SEE5RC1lWWE2ZE9YenN3dFFZWEFHRHU2T1d0bXhIaUpZYVpJcWg5Yng4Ukx3eHZwRmxvLXlIUXVZU1RibXhraXlhc0xDb2d3?oc=5"
-    },
-    {
-      "title": "Managed account growth drags on GDG results: Morningstar",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU2NwT2FXQlpnTmhXSTlUMFFSeDU1dlVrS01UN0d3M1M5T2c1YnFadkxiSHlDQms2bXhaOTFobzlNVkU2Z3N3bFRvZ3VBWXFiWlZ0X2txQW1EYUV0MVNBNTZXbzVmcGR0OE9qdWJOZ0pZUzdBN2c3MXNlaElpNlBQTzNyNy1qMEJUSFdVaU1wZmxjcG9fOWJlbjAwUGtBM1JKNThCdDlETXR6NEhreDBj?oc=5"
-    },
-    {
-      "title": "STORY3 Capital Makes Significant New Investment in Bumble",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGlKU0hYYnJ5YkhlN2dyMnNVeU41aUhnLWVnOW5MMVJIbUZvOG5uYjgwWGYyQ3o0X1gySDF1ODh4LV9NMzljbEtrQ01DeHBlVmh6UTJBLVBjYi1PdGdxdWVoc2RnVmNpSUZfOTB3OU9ZMkdtbUcyaFNINDJvdlJ6YjQ2Q1lNWkpBU0Fra3hrcWZzUkF0a0VjZ0xFTGZOVHAxd3RRVzcxZnQ0ZVZITEw2RWlKSUxvV0dVSmc?oc=5"
     },
     {
       "title": "3 Simple ETFs to Buy With $1,000 and Hold for a Lifetime",
