@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-28T07:49:12.275425+00:00",
+  "scouted_at": "2026-04-28T07:50:32.816382+00:00",
   "total_candidates": 3,
   "topics": [
     {
       "rank": 1,
-      "title": "Análisis de los fondos de energía: ¿Por qué el 80% de los ETFs del sector superan al índice en 2023?",
+      "title": "Los 10 fondos de inversión que superaron el índice IBEX 35 en un 15% en el último trimestre",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Compara 10 fondos y ETFs que han ofrecido un retorno superior al 15% en el último año: ¿cuáles son los secretos detrás de su éxito?",
+      "title": "Descubre los 5 ETFs energéticos que han generado un 20% de rendimiento en 2023",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Riesgos ocultos: ¿Podría un descenso del 10% en el mercado europeo afectar a los fondos de inversión más populares?",
+      "title": "Las 3 sorpresas en el rendimiento de fondos europeos que podrían cambiar tu estrategia de inversión",
       "lang": "es",
       "source": "llm_selected_finance"
     }
