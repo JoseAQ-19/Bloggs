@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-28T09:17:28.124329+00:00",
-  "total_candidates": 15,
+  "scouted_at": "2026-04-29T07:47:33.888969+00:00",
+  "total_candidates": 21,
   "topics": [
     {
       "rank": 1,
-      "title": "Now it gets real: Real money, real investment decisions, Rutgers Business School students launch $1 million Scarlet Student Fund",
+      "title": "Private Credit Funds Face Redemption Challenges And High Fees",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "STORY3 Capital Makes Significant New Investment in Bumble",
+      "title": "New analysis shows U.S. homeless numbers have flattened after years of sharp increases",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Liberty Mutual Insurance Retires Safeco Brand",
+      "title": "Teknor Apex Joins OSS Ventures €75M Fund to Scale Industrial Software Across U.S. Manufacturing",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,39 +51,19 @@
   },
   "all_headlines": [
     {
-      "title": "Now it gets real: Real money, real investment decisions, Rutgers Business School students launch $1 million Scarlet Student Fund",
+      "title": "Private Credit Funds Face Redemption Challenges And High Fees",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTDNJcDhKa1d3N0lsRHhFdnhYYU5EOUZoVjRzb3ZENUFYSGhiSzhpX0paRkZQd3VPa1BoTkJ0OThSYkNBTThCSlVEdmJsdVQxQlhpU1llU2hJZTV0WjJFZXVyVmRRWVBVNWJLOTd3T1lYQUF5RGwwdzZDbkN6ZDhkaHZyZmZsTFZaVEdJTkYtNEg2X1BiVHBhelU1UFhmVVNSMHQ5bHV2OXpjVGYyWW5nU25GT3hXbXJSdE9VSkJ3NkFKV2c1MkdpenR1QnkwN1g0TVp5WTdlVEpZMi1DZTIwemtHdjBna0NFR3Qwck03c0k3S0E2amItNzc5M3RGbWlGT19TNXNXc3NCeGZES2hKenRBdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDh2MDVyWW9rV1Yzd2R0YmRENkVGZEtCeW12NFU1MU9tRVVOY0ZaNXRGTHB1R19kMkFiV1pva3I1b3h3UlNKTGY2LWtHSXN4WmNZSVNXYlF4elRvUUNncmM1czRSWk4wQ0FLMC1oRFJqQUhQV2FEemQzb24wS3p5OVB4dTNsalpUZl9paVg3ZG1aZlM5RlNxNUZLSVlvRVRTWVdCLTR4YnhhNjRCal9MdjRlYVdvejhqVVFTeWxkTTMxaDlZdXlCTjJRQjFueHlZ?oc=5"
     },
     {
-      "title": "STORY3 Capital Makes Significant New Investment in Bumble",
+      "title": "New analysis shows U.S. homeless numbers have flattened after years of sharp increases",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGlKU0hYYnJ5YkhlN2dyMnNVeU41aUhnLWVnOW5MMVJIbUZvOG5uYjgwWGYyQ3o0X1gySDF1ODh4LV9NMzljbEtrQ01DeHBlVmh6UTJBLVBjYi1PdGdxdWVoc2RnVmNpSUZfOTB3OU9ZMkdtbUcyaFNINDJvdlJ6YjQ2Q1lNWkpBU0Fra3hrcWZzUkF0a0VjZ0xFTGZOVHAxd3RRVzcxZnQ0ZVZITEw2RWlKSUxvV0dVSmc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd3dUemJlTUlSYU9VUDNFVEMwSE8zQkdzQ3NOQkxIMzBKazBVVzE5alFzN0NWSUhRSEtCQmR1bm5HWVVtdUsyNVFaWDFqWmRXVjJqZzAxeGNxcnFULUt2RlFFRWVteDV4eEdUalM3cTNqTUlkYUcxcVh0R0pFRmpEWFo0NUk3YUtLaDh0aDdHRnJYZG0tZGRZUmpFMXR4RmcyS1l1Ry00Sm5hVkNKN2dLXzNvdGVCR2stN1J5Slk4aVVvR05ISlliSjRZTnQ5VHhKQUE4UWg4T3VTQlc2TXc?oc=5"
     },
     {
-      "title": "Liberty Mutual Insurance Retires Safeco Brand",
+      "title": "Teknor Apex Joins OSS Ventures €75M Fund to Scale Industrial Software Across U.S. Manufacturing",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkNoUkJIem53VlZmNzROYW9xbEVrVDd4Tm40U1RMcGowUFF0Nll6V2JsZ0pFYnJmV1R2dmdJc3J4QUVibWtzazhHc1NSQW1MMnZRdnBZcm5GQ1g3QWVsUEo3eE5UbzBFREtTU2RId2xFeFB1Tl91U3M4VGVKenRoNllqX0hVbW9mUTJJd01YeHlWb2w0aFl0OEs5YUh3RnhQSjluVjRZVkhMdw?oc=5"
-    },
-    {
-      "title": "VIAVI Announces Investment in PCIe 7.0 Protocol Analysis Testing Platform",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUEZrNk5iRkdILW9UcVloMjg5QXI4STgxRzlqZk0wV19rWmIzY2t0WUVzWE1kaUhpWmJOc1dqVExUSWRlQ095SjRFQ2dzYkJBSDVWU1dNZkdsUFJhcm82emFiblRKT0VhV0ZqYmlOWHEwVHp1amNhUDNGdjZWUm91VV9BZjk2am5pM29mWHZyYmFfdVljWFBEMmhaRmZPQlVaQnBLTXd5YVVweHJtaXVFaXlROF9ZczFQcDJnMFJ0OUZFaWw3UWphV0dUUEpFQQ?oc=5"
-    },
-    {
-      "title": "vVARDIS Announces Investment from Apollo —Achieves Unicorn Status",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOclV6cVNMMlBCd0YwNENhTm9UTVRMSlNBSG91NG9vVmJFOFNhbzlSM0kxMml3ZFNtZWI4cVFFdndQMDdBSkpFOUFFbjhDbUJkN01vY08xallPekJ6c2JkOUFjNE5BS2FjeG94akpVN1ZyZWpOX2x4aUk1RGt3T3QwejdsOHlMNnN0MS1kRG1NNVRNa1NTMDBLalZ5WExETDM4TEJfUmZXcFltTHdPZVA4NlhyejZJTE9qSDBfTlZiWHBHMTFz?oc=5"
-    },
-    {
-      "title": "Morningstar upgrades $8bn AQR fund",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUVJKXzliY1YyUk5vVXBFNWNPWlluQUNpUDZLUDZDWVRycXF3MmYwcGpMblN3ZnpQMTMyMTY3QnJHcElhOF82NnBaOEZTZFB3eVRKYktNZU9wUUNDaHc1clBXVEpnc0Q3WnZ4MkVoMTZCbDAya1dIMXVIMkJGUDlOVGtudTk?oc=5"
-    },
-    {
-      "title": "GreenFruit Avocados Acquired by Industry Veterans, Bringing Global Growing Capacity, Vertical Integration and Experienced Leadership to the Avocado Market",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPalF1bm1FRFFlckJjRlVLSHFXVFZvS2x3ZU5OUk9qRGw3aWRiVWZiMEhvdWc5WFRmWVBCRmthblB4QWNFczFXczlfanlmN3NRbGJuX1RsTWlhSGxuZVl6di1JcVAtX3V6bjhEX0lUUVBQNlVMbTVzSF96Y3R3RjB3RUNMZ2pFOGRlak5vN2c5MVlLcDJCcHlpRkpsdVdyY0dKd2pZa09WX1pnRXBjRG45N3pqYU9SMURGeDladUlqa29JSF9tWUNmYzlNd0Fnby0yUEl5aTBSX09mVWhjWE5PSnlRUjBwMzZkM21fZkRQUlQ3UV85anF1VGRjQXJyT0YxZl9mZGpJbHI4UXd3Zkx2QVBfcnFzNUFEdF9QRXBHUVlsME43VS0zMWNrWWYtSERHQkpseXpuT0U?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNd0lzSWVYVlNuR1BsZC02dV81SjJYUUw5N1RyYkw3d1ZhdnQ2VFRVczFwYm9nZ1N3YWxud3RQMlRCRE13dGo2c2plc3dabktuSk5aSGM3T01rNFZoYm8wbXNEZUM2WURiUDl0UHRGSHhLdnIzTHFBSlBkWHE2TzVpVUNvM1kxV3U1bUVTYTE5elZVcjJwd3VuWi11cDluMDZYTVVWZmNFOGRPZ25Ua18wZEV4MXVKX2lnU3A1Rzc3NjZkRTZ1SW05dGRuZTlFTHY1OXRTTEdROXRicFJqMUdWQTRsUDQ1TFQy?oc=5"
     },
     {
       "title": "Causeway’s Sarah Ketterer and Harry Hartford Named Recipients of 2026 U.S. Morningstar Awards for Investing Excellence",
@@ -91,39 +71,84 @@
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQakxjdlZMcmQ1Z2hZcUo4NHFGQUJ1dVd2S2V1a1JGYi1qdWc1ZzZ1NHQ3c1BubWZBc0U2Y0NHY3J3Nmg2bWxZUHdJTXNnaWpzNV83NmJYcjlMaTZOdV9sYmdha25qYk9ZRDY0TnJ5UjJHTnRvbmxkelJhUWs0R2JKdmJ3UGtGWkI1STc4anYtdjg0cjhGajh4ajBYdk1PbkxYNDZjNWJjMDlFcWZ2dmRpMkZSMFEwMUpJa1czXzd3Zk9OV29CbTJyaFBzNUEzY1FPdHJWY0tObHRGTC03cGJ5UUduVFVGSkZqYWY5UzNKdmllc1VNaW1jYkxRekQxREZSMGVkTw?oc=5"
     },
     {
-      "title": "3 Simple ETFs to Buy With $1,000 and Hold for a Lifetime",
+      "title": "Defiance’s Quantum Computing ETF (QTUM) Surpasses $4 Billion in Assets and Earns 5-Star Morningstar Rating",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41NmxWcGFyZ295ZEhDR1Z3WlhYV0J3azcxT09ObS1PMFR4dlg3N2FzUU5UVFFHZk1wTmd1SEliOVN6NkxRTjRvNlZQZkF3eUVoS2piMll0OUdDRXlIMzk1NzFSWmtKWk9Fa05qVVZXbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTklkWTdkRG9DZWxQN0xOeVdXd3Q2QWRTeDZTNjE0TjB0REZZdDdGRkRrOTR6UVgtVHN5SFR0RU1JdnFfelpyYmVPQ3V4RE02TngzcjB2X1otYk1OVjZCcXZiQjdfWGVWZ1kzLUxuY3hEb1pQUnJHZk10b01Lc0JEWDBIdXVjaE05NEtLRWszSmpFUmRkVjhKZklSUWhJcVF1QTJHeEhfTUVzQXphbkRlUk5QcXo2SUphMl9MbVd2SEE5RC1lWWE2ZE9YenN3dFFZWEFHRHU2T1d0bXhIaUpZYVpJcWg5Yng4Ukx3eHZwRmxvLXlIUXVZU1RibXhraXlhc0xDb2d3?oc=5"
     },
     {
-      "title": "International funds deliver up to 50% returns in a year, subscriptions halted. Should investors book profi",
+      "title": "Tetragon Financial Group Limited Announcement of Dividend",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPMTRwVU1QWXF0cWpwTC16WWh4dEJyZmlCUzluQmthMUxsckZrT1I3dEtTQWJvSGxvSnBxaXhXR3VyWTV0Q21PQUtFN3JWb3QxYjlSa0N1LVlGczhoSXJJX3FFWFlvVVY2TVRQQU9GejY1clVQYV95Y0dYdkNqMjNqRFFSVFhMSHE3RjhjMFg1bVBUVEJOZ1hzdF9oSUVrR08yVEplYkRBRGxCVC15SGhPb2R0aXhIYXBqeVVjQ3BhNUU3TEZJTG9TUFA0R0FjSHdaaUQyczItUHdfVVZXM1lqNWFhSTNCN2VETDROR29iOXA0YlAyaU1pZHhoMlBRMkpmZkc0eWRaQlUtU09DcGVsbjl3cU10S0p6RXEyZdIBnAJBVV95cUxPMTRwVU1QWXF0cWpwTC16WWh4dEJyZmlCUzluQmthMUxsckZrT1I3dEtTQWJvSGxvSnBxaXhXR3VyWTV0Q21PQUtFN3JWb3QxYjlSa0N1LVlGczhoSXJJX3FFWFlvVVY2TVRQQU9GejY1clVQYV95Y0dYdkNqMjNqRFFSVFhMSHE3RjhjMFg1bVBUVEJOZ1hzdF9oSUVrR08yVEplYkRBRGxCVC15SGhPb2R0aXhIYXBqeVVjQ3BhNUU3TEZJTG9TUFA0R0FjSHdaaUQyczItUHdfVVZXM1lqNWFhSTNCN2VETDROR29iOXA0YlAyaU1pZHhoMlBRMkpmZkc0eWRaQlUtU09DcGVsbjl3cU10S0p6RXEyZQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ21fWERVNE5rem4xcDZRMXN4ZE9pRmNKY2xrNk9FNVJOal9veHRkbTlCYlppVzZLckJUWTNRTkZJMnVlelN6MkNxd01Wb3NpdlpCYzV3VTk2VjZJY1hvX1ZHVnk2d0E1U003UXpZTG5yQlNKMXlZeGE3RVBkX0s1TUowOHRVdUVRTEpqRk5JS2ZEN1FJM3FOakpZalAyVEhyendQYlZERnZlVjZ6ZUpOUUJnMUtkdE1vQnc?oc=5"
     },
     {
-      "title": "10 Best High-Yield Savings Accounts Of April 2026: Up to 5.00% APY",
+      "title": "BP Earnings: Improved Earnings, but Full Impact of Higher Prices Yet to Be Seen",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3FScG9fM0lUTlZ4bmIzS1J3eUVmNmljVlN1dVVnYy10V3hYQ0VFMHo4UUROeHlzalJOSG5tSFRfaFY4Z1A0RHoxQUh3TW5HMmNFejlQeG5ENmx2QVlWZU9kMHZ3ejhkS2FOVFR6MllpXzlFNVlILWItbG9QV3NWN3kzS2VEVWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNXBqUlJWMjJVNVFINDBxNWhpNHFJYUtlTXVONVlwa3lYU0VJZVZ0TFBNOHdwclpiNF9Jd1VsekNIckZrUDJReVRHRUlpaEFWSVNwVEtRS29PdU1qODJkQS1LMEZmcG9KNTBSdTcxVFVEMmRyd2dlRDRfSTRGZUszSkQ1RGxuVXFLS1UydFhfam1sZDcxeWZJUWkxRE9KeFJZUExlbnZRSjRuQWZpdTQ0MQ?oc=5"
     },
     {
-      "title": "What's Driving the Insane Rally in Chip Stocks & ETFs?",
+      "title": "Federal Home Loan Bank of Dallas 2025 Affordable Housing Advisory Council Annual Report Highlights Community Investment Funding",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmwzY3VnQ0dENFJzeTZ1UzkyU2ZtbE1zTTdFTU9UZVcza3VjY1JQbHN1UFJZc0pRSHRyQ0NFVWY2aUdjcTJkWTB0N0w0V0hMWjhDLUZnMjJCc0hKZVluQU1aM3ZxdzNwU0ZHRmFNeDUxWmhqZHhhZ1ZSSmlKZXhyVVpNbV93LUpaTHI4RGc1SGJKbTY5RUJPb1kyd1VKamxCTkM2and0dGtieVU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQTDRsNzJwN2NxdnRVaUhiMGNEUVZWUGxFaXVvSHplcjlfZzVGcDBocFBJVUNVbm9MeEtSLVRLSUpaTTVGTjBZZGpNUnhnbWZFUkJzRGNRdmhXc0tROTIwbFRiRE5PVFY4a2lGVFliTzM0Qkc4MEM3UWVtX1YycnFLSW1DM1JLQlU0U201OWZ4dmE0eTNOM2hZaGlIU0xYcUY1Qk5VbHktdXlWbVdfSDBRZ1N2NndCRnBJa0Iwa0l1QnBVLU9CenRiMXEzS3pwbnJqYUh4WEU4d2FfTFZ1cGxfQ0pUYUZabFZGZnY2ZkNjendMX1l0T2pFWFpkUXBMTk9ESWhPMjVFR0VueUM4QW13WWJpZW91VWFv?oc=5"
     },
     {
-      "title": "Vanguard Just Completed an 8-for-1 Stock Split on Its Most Popular Tech ETF. Here Is What VGT Investors Need to Know.",
+      "title": "Is VXUS the Smartest Way to Own the Entire World Outside the U.S.?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbDBWWmZGLTNEaVVzcmxIeGI0bjNtWnBEWlpfT2ZFSl81bklvM0dfSGZ1TVlGSTg0dnVBdFJ3S0NnMXlVTmg1Z1B4alc1WlhGRVhFM2JFNWhvSEk4ZDVneHAwRWFwX0RUV3hlV1IzLWdXM0hQdFR3SWNvNV9ZQXhXNjBOeFdUdFRtcWpmM3kzVnhraTZxM1VLbERxTndpUXNIUjN2cGpJRE1Xb2Z4amJmU1dsWDFYR2RIQVBac0tUeDdORFNPUHpEMWg5NG1NRHBpSHJleHVDYy12RzhmM2RudU85MGlkY0tnSk9MM3FPZ3A?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JTjJKMmdHalRSaWNmZEFtY25EY0RKaVNhbUpxTmgwUkZUdjFuX0xTSGc2alRrbXVKbGtmT0FLeTlHLUpRY0FsMFVESUpyc2NOYXVkZFpyVklxWXVLb2NiUUhpOHJ0SGM3bjV2V1N0VE9MVW4zS3VzTm5Bbw?oc=5"
     },
     {
-      "title": "11 Best TSX Stocks to Buy According to Hedge Funds",
+      "title": "The Best European Bank ETFs for Investors",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcXllV2VlSFAzOG9GRnBTV2tlQm5GOWs2dmFHT3p4RElqZThnWERCRGhaalJlT0lVcmtQX04wd0JQN2k3dmNydEUyZW9LaGxBN05kUkg4YUphODR5U0Q5QWVrVUNhSzI3TFJ3MnNNOUdhSGpOck1zdFByUUxDTHdkU0dUVVJPMzYtRDJkM1AxSjJLY2RyanFKVmVB0gGiAUFVX3lxTFBEWFIteG5NRWJtRnEwaEpBS1ZZVW8yamNIX25uVUNBZ3VwOGJTUlN0d3JaeXFHYXZYQUhPZWlvWFBBOHIwU3BoVmo5VzFTZzRTQXU5RUhmMlBSQzNxZnI4MXZjbFd5bEc2ekpjaFlDMVNIeHVST1o4WGxPV1VTZHphcUN4N2x4TnBtTUJuaS05dGxzaWtQclRSTVNLZUNJOHhSQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnRVZW9vb2JsWFZtdmpQVzBUUnljLVVDczBFUWNJWmdzcTNzMG14TGY3ek9HR3dVMHZ6eTNtX0Q1bk5ydUdXY25yLVg5VzVKaHZFX0JoOFlaWXVRN0d5UGl6cFZROEpoNnl4MlVoSGJyUC1TWWFtcFRVWkdSNHZNWA?oc=5"
     },
     {
-      "title": "Meet the Vanguard index fund beating the S&P 500 in 2026",
+      "title": "Best Energy Stocks for 2026 and How to Invest",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOSjdzSDNBOFB4WmZ5Z2JVaDZBaFduWUgtazRVVDBRZEJVeGl4TF9TRmJPTjU2Uk4wckdLRm00UklveDFRU3VzQkF0SzU1X1dyQl9xSEhFSFRUWXZBMzUyajUtS0NHWkZnZFBlWVAwR1U0M09Ib1NaN3NxbUhtRTgzYUh3WndCN3ZUVW9TNzU1RDhEYVlNeVpmaDdOTDlUdVdCUmZzeTFoX09FVHR6cWhZc0FNcUxRR2V6M0xEb0VnWXVNbFUwdmxRRURqVXF6Ykp4czFrT0JfQWlNQ2JIM0x2dnZ5eDBBSDRROHlYMnEtbkxsZjVtNG9sdkFkQkU0RVpveU82TXRZQkFRSEZqYjhZaEVLWDR6dUVrR19URjFmeXBldERCaFdxcEE0aUFDNjFmeFJSNzRkazJZNDRLdTltNnFTckxjZm85UE1ULVBHMVhTa2RJZEtjNGNlWEdXMkkxejV1X2VEdHItck9sOXc0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4dUpSeHdMcVY4cnJubW5KSl9yTjJtVGM1SG5XSVJ2UERLbU9oY2pNelpRQ2VRNF9wZFRRajRaWXhQS1VuQzA5RDZHMkgzZlhKbzdWWWVvR0tUem95bjR3SW9HMGRicW5tMDNDbThLQ1JtOWpD?oc=5"
+    },
+    {
+      "title": "Best Rare Earth Stocks to Buy Now April 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kb3JyUVVPQUU2Z1ZLN2xScXE0SldVZTNHSW5kYldwTmR2QnlEN3B1aTZkREE2VGNfMW9reDRUODNFY2ZkQU9lT1JHRTRTTWlTcmlFYkZ0RzhDQnRkeVk1RFBHYWdaRDZkeFZTNXZhWXFxdGhB?oc=5"
+    },
+    {
+      "title": "World Markets Watchlist: April 27, 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1RqMU1Nc3g0MFJuTEtjSE5xeHhpTG1HUGNlQXlFUXh6bWtMSHhxMmFNSHkyWmJJM3hHelE5eG1lb0lTRzJKTVFSOTFxek1MVWxucXc2VkxsenJMeGYwaElXS2JDUGVnZ3BJT2E0dXFBSnBjRGhHa2FMNUxQZ2kyazlKSWRUYlBDSDN4eWN5NWJqSUJWTEt3cjJIVUppd3hs?oc=5"
+    },
+    {
+      "title": "Best medium to long duration funds to invest in April 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQemVrSkxNUnozVWFEY20zRUw0ZkpfN2lPblJRRFNtZTgtOWlyUkVyLXJuUllsTDdTZTNqUnFLSHhkeXYxdXN2OF96a3VfbUEtX1pMNkRfVERON1d0LVdWVXN3dHVvcTRncEQwOVZ5SGlqc0NNY3RVenVSUmFjUVgzN3p3aHF1YV9Kb3ZEdGNIMmhuRl8zRGdJekxsSXFfeVZHNXpoRmxEZzBNcWktMnZDVjZxUGV3S0hxdno5OW1PcUh1cXc2eGJJ0gHHAUFVX3lxTFB6ZWtKTE1SejNVYURjbTNFTDRmSl83aU9uUlFEU21lOC05aXJSRXItcm5SWWxMN1NlM2pScUtIeGR5djF1c3Y4X3prdV9tQS1fWkw2RF9URE43V3QtV1ZVc3d0dW9xNGdwRDA5VnlIaWpzQ01jdFV6dVJSYWNRWDM3endocXVhX0pvdkR0Y0gyaG5GXzNEZ0l6TGxJcV95Vkc1emhGbERnME1xaS0ydkNWNnFQZXdLSHF2ejk5bU9xSHVxdzZ4Ykk?oc=5"
+    },
+    {
+      "title": "Discover the Top 7 ASX Gold ETFs",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBleHJ1dGFIOHZLT2lzbGplMUNBejFqNmFsVEY1Sm5PaXZBbzZUSUd0N2U1NVY2d29PUElfRWtXSDZHMldaUTNvLTZTUVFIRUdhY0R5cFIzSQ?oc=5"
+    },
+    {
+      "title": "Vanguard Energy ETF (VDE) Soars Nearly 30% YTD as Iran War Impacts Oil Market",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "ETF Flows Show Rotation from US Equities; ARK Innovation ETF (ARKK) Leads Inflows with $1.9 Billion",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "BlackRock's Q1 2026 Revenue Jumps 27% to $6.7 Billion Amidst Private Market Expansion",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Morningstar's Medalist Rating Update in April 2026 Includes New 'Fund Manager Success' Score and Explicit Fee Assessment",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Teucrium xETFs Launches 2x Long Daily BNB ETF (XBNB) for Leveraged Exposure to Binance's BNB Cryptocurrency",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
