@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-28T07:50:32.816382+00:00",
-  "total_candidates": 3,
+  "scouted_at": "2026-04-29T07:44:40.713536+00:00",
+  "total_candidates": 12,
   "topics": [
     {
       "rank": 1,
-      "title": "Los 10 fondos de inversión que superaron el índice IBEX 35 en un 15% en el último trimestre",
+      "title": "Descubre los 6 fondos indexados al S&P 500 que superaron el 15% de rentabilidad en 2026: comparativa y análisis revelador",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Descubre los 5 ETFs energéticos que han generado un 20% de rendimiento en 2023",
+      "title": "Análisis de los mejores fondos indexados al MSCI World en 2026: Fidelity y Vanguard destacan con comisiones por debajo del 0,1%",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Las 3 sorpresas en el rendimiento de fondos europeos que podrían cambiar tu estrategia de inversión",
+      "title": "Eurizon lanza su primer ETF activo: ¿puede superar a los gigantes del índice con un error de seguimiento limitado?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,6 +49,11 @@
   },
   "all_headlines": [
     {
+      "title": "Así invierten los cinco fondos de inversión españoles con más patrimonio en 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR211NXk5b0JmcnhCTXNQeXJMeTZaTTNsd2xFS0pMalFzNjc4YzlaVUhTejlNVjIzN2E3SktzbjA3NFY5ei1qejVpNjcwa29uQTFrYkxyRUE1cFRVaXRMYTBmWV9aWG5ZdlJ1MFFuS1NWZENXR3gzVTU5Y2h3YWdkMEZvMnhPUG1zbHZEWE44SG96dFV3c2RUSTV3cjNtZTZtdk92TkhTSUJSRmxJLVc1VzhuNElMc05jaHZYWloyd19KTUstYzhrSUU3VXdlM00?oc=5"
+    },
+    {
       "title": "¿Existe algún riesgo de que se produzca un revés en el mercado?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQck13dW11Nk1rWGtHSGwwM3BLR2JrdHNodlNiVW1JS1pnU1hfRFpUVUVERm1oRmlZLWJTcnBQeDRkUXo2YW9BMC1KX0pxUkxMeXk0VU1ZUTFnbUFNTUJWTXJGUTdVTFBoam9hQ01hbEFabWFwR2g0anFzV2RSM3JUdHNBSVV5NV83NklPc193T0pMaU9NRTVWcUdCWFJlOU1pYTVBcQ?oc=5"
@@ -59,9 +64,49 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaUJCMl94MjdTeW9OVWx4MjV0REw3blQtUktsRHJ0alBPaThlUHI3V2JFeVhpNDk1U1FLVmtfbHl0NXlsY1pmZ29nZDBmQWMwdVFuaWRRcFBNYlNwSlFmZ2k1a1g0LXRicF8ta24zOW12UHFDMGVjWjR6STVfd21HaTJXa0V1ZEdyTllRUjlKaV81UFN6cEhUUjZLb01wbDhWT2pCZXNMbHRSaDhSVlJoVHVsMlRZSWNhNlJNV0Z2WWtpQ2JnUTA5T01QMW9rel9RLXZFemJORW9HM0xKa1gyQWtUY1JndXJwSnB30gHWAUFVX3lxTFBXdHdpaVN3NFhORlFHZUMzb2tGU0s4WnJWaDUzRElCOEdLLUtHaFVvNkFlc01kQkc1c0lEM2VHX0RudEVBVEVWTHRpd2ZSZHc2LTJfODVTbndFTV9PaEFmOEdUdFdJMlN5QXVkWnU4bXQyeW9WZ01rSDdJVlNNaWRBd29xbXNqUWlseGdsZm5OS1NhR0UtTjFzbXV5QlJfd2Y2MzJkOGo1ZzE3TWNBemVycUdYazNtd3NzNm9GNERYWkVvWF9xMzRhSDBVenRsZHROY3E5Unc?oc=5"
     },
     {
-      "title": "Una gran oportunidad para los inversores en bolsa, el sector energético",
+      "title": "Así invierten los cinco fondos de inversión españoles con más patrimonio en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSThoTzdud2NrTkhsczBkU2hQOWtobDNWRWgyYVY2aFN6T2NlRmg4UlBMd2NNdzRqU21YbjY5WXZlT3VYdFRoTVI4VDNpWUtvdEptQ21LNG5ycDlqRzFMYWk5VzhsNHU1enpUUDJQbzcxVW9sMjhuaXVMb3MxalVGbFhEWmwwVWM3bEN3Q0ROYlAya1Y5RWZpQUszQ0JnS3FLVlU5a3pBZmdXUFpqWS1hbENHS3lzcTlwdUo5blBLNXRyOWZwbFhiOVZpRdIBpAFBVV95cUxQUU5BLVFHR3E4U2pWb2hDU1E5QU5sWlJNT1NoNS1pczRkczNPRDFFOGFlTFJYazNPMVlBdE9qS1FBMklrc0JhblN0N0t6VFlMYk1ncktldFhhZjZQUXlRczh5cWlwNWVLUFBlUEJWdU8zUHctaFFvTlZXZUQ5WGJRcmVXU3VBMDRPMEhZOTJYYnhpMTUyMVp0VV9hRHhQZU1tSXJnUw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR211NXk5b0JmcnhCTXNQeXJMeTZaTTNsd2xFS0pMalFzNjc4YzlaVUhTejlNVjIzN2E3SktzbjA3NFY5ei1qejVpNjcwa29uQTFrYkxyRUE1cFRVaXRMYTBmWV9aWG5ZdlJ1MFFuS1NWZENXR3gzVTU5Y2h3YWdkMEZvMnhPUG1zbHZEWE44SG96dFV3c2RUSTV3cjNtZTZtdk92TkhTSUJSRmxJLVc1VzhuNElMc05jaHZYWloyd19KTUstYzhrSUU3VXdlM00?oc=5"
+    },
+    {
+      "title": "«A medida que más españoles se educan financieramente, el ETF como referencia para el retail va a seguir ganando terreno, es inevitable»",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZl9nZzl0WjlJOWFhcG5VX0M1dDI5ZlVWcDZhc1dCSDhwcWpPQjlETXNqQUxCMjhxREFiWmJHblJNX01YQUlwSW9hWXcwS1RPdDBlMXVEc29hdWlyakhEdVp2ZFk4bVRTeExDS3o0ZWpwNjAtWnNydnNVRDlkOFdrNG1HVUd0S1U0UUF2S1g4aGRPZi16S3l1WElUNXNqUXI1ZzNpZVM3TmpNSVU5VDVXTDd4VzVBOVJ0dE5JMjVZaWZPdmp5VXJYeXlpVk5fZUhibVN0aW0zVG1nRGtwMlNPTDdpRzl6dlFIUnVEQ3d4TDJiT0U0WWMtd3o5c3AtMV9HRWpYN3dqVWNwOXFpVVdz?oc=5"
+    },
+    {
+      "title": "Mejores fondos indexados al MSCI World en 2026: Fidelity, Vanguard, iShares y Amundi",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTRoMW5WbU9pSXFjSEZLSHh5ckdGLUt1M0Fhd1lLNWlaT0R3Y3dxdVI2REZfV01mbURNMHRuUFlwMlFqREpTajA5cmVkTGRnZkZwenh0d2t2UGplU2U3bnV2aVkwLVp5Q0FNV0tHRnRhTkZ4WHdwcHhKMk1UUVZ3VnlBcW5TREV0cHU2T3B4TmNPc1RGdU5LcWlITWZkRC01VkdmUkxJQnV4OWdNQkdjeHA0dnY2UDMtSENwVnZ3?oc=5"
+    },
+    {
+      "title": "Eurizon lanza su primer ETF activo tras el éxito de su plataforma de ETFs indexados (Limited Tracking Error)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOREdwVlE0cm4xVjJZamJvWmVCLVBoeWFKU2otT3VWSWJwdUlPYU9aV0txakRJVzh5N1VpOG9faC1BNGZtM2NrUzU1SGdXZnRSdW5TRU5XalB2QnZwbWJlaDJlSU5ZbTE5X2pEN0VDbWIwZnFWU2lQQUhTa0lKQmxSNUl5NHl4MEVua2RzcHVtSWUwYjY5TzVGLU5wU3U3cVo3VXlGNVR30gGiAUFVX3lxTFB2RWVibXM1UWE2RGpSX2RUM0dXNkQxdmRLVy03UGN5WTEyQUp2ZmpKT2pHaTN3TUVNTTJWZHIxMVZxTS1Ca3k4LXIxeEdod0JyZktrX29Mb2dIZlpOaEdyLTVGSjVlMFJORHQ0cTZub2RwUlZZR0pGZHZ2WUlkTUxfSlRfeDd6R1FGaUFXM3FMeTRobGVlOTFtWDdEQXJYWnNQUQ?oc=5"
+    },
+    {
+      "title": "Los 6 mejores fondos indexados al S&P 500 en 2026: comparativa y rentabilidad",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk0tQzEzSHNxaDZzZVF1WUc3NFo5d2NWUjZPbDBWRHpMajdLZVBiTUo2QUVRRmtlblVQaHoxMzFuWmY1MFRJLWFMRUhkY2dQd1BfTHRhQUlLSnVwQXhWTTlMQ0JVelhoNDA2LWxYRmpvRmo1S19veHJjTkFsaUVjYVZxTVpOclNZQ1NuZXVudUpXQTRLVmdmS3Z1UkhNR3I4LW1sLTBB?oc=5"
+    },
+    {
+      "title": "Último día para comprar acciones de Santander y poder cobrar su dividendo de 0,125 euros",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaTBlVjUxYTBfQ2lja2Z3NDlHYU9yXzVUbFVvbzZmdmVDZEstUU1LZlc2ZnkwZHZnUXpGR2dRTU1tTlhBU3h6VlNLM3RYM1RtMzk4Y1V5M29CRGkwaFQwb2tBSE9MY3d5aGdyTjVtQmlXUGJjLXpnaDJQT0pZMjU2TEtHUXdqTDd1SmRlNmhHMHBWU1V6aWpXRUFlMURDYWhpaWJlSk1LQkxUemR5TUhURTF2U2V4bFE3QlgtUkVMMF9yakVqZGhtRWVRaGNhbUFlWE5NS3RQZ2xGdw?oc=5"
+    },
+    {
+      "title": "Planes de pensiones de Indexa Capital: análisis completo (2026)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUk9PdTB0cmJ5N2JMQlhnN3AtSFFNZkJzZGFkUVRvbVE5bmZYeDJ3aFJOanhwZnRNeTVMMW1UdHVWMHRzX1NCSklrMi1xMkhJN0h1ejJodXEwdndmbHU0X0IzN2Uxd29STlRINmNsQXBHc1R4eU1XT0laVkFNRUswTHJHQXhha0VCTHZCNHdibzFYNDhuRFdESXpZVnN5d2V4TlEw?oc=5"
+    },
+    {
+      "title": "Mayo llega con tres dividendos del Ibex 35: Inditex, Santander y Mapfre pagan a sus accionistas",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUkhhUHA4VEkzUkpRV2VLQ01MUjNrLWRQZzNyZ3JielQyeTVzVlJjQzJZZGhFbHFiR1VTVVBWcHZYZ1kxQ0I5NGtqWGpMOTMtZVIzblFBMDNwZjl3UmxzLVNLR0VPUWk4c3pjMUlINFlpQkdfY3JiWGI4ZjhUMzVIVmRTTThWdkExSGk1eG9oV2N2WUhCNXhzYUhYaW1HOUFPZUlQdUNRaVVsU2xpdHJuS3lIU2hKS1lFTzZPVXg5UFpSanZPdjMtREZ1c2pMczhZSFhPOVdFclFKcFlzVFFxR0JR?oc=5"
+    },
+    {
+      "title": "Planes de pensiones de Indexa Capital: análisis completo (2026)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUk9PdTB0cmJ5N2JMQlhnN3AtSFFNZkJzZGFkUVRvbVE5bmZYeDJ3aFJOanhwZnRNeTVMMW1UdHVWMHRzX1NCSklrMi1xMkhJN0h1ejJodXEwdndmbHU0X0IzN2Uxd29STlRINmNsQXBHc1R4eU1XT0laVkFNRUswTHJHQXhha0VCTHZCNHdibzFYNDhuRFdESXpZVnN5d2V4TlEw?oc=5"
     }
   ]
 }
