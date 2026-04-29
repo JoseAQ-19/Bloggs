@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-29T07:44:40.713536+00:00",
+  "scouted_at": "2026-04-29T07:45:56.639333+00:00",
   "total_candidates": 12,
   "topics": [
     {
       "rank": 1,
-      "title": "Descubre los 6 fondos indexados al S&P 500 que superaron el 15% de rentabilidad en 2026: comparativa y análisis revelador",
+      "title": "Los 6 mejores fondos indexados al S&P 500 en 2026: sorprendente rentabilidad y comparativa de comisiones",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis de los mejores fondos indexados al MSCI World en 2026: Fidelity y Vanguard destacan con comisiones por debajo del 0,1%",
+      "title": "Mejores fondos indexados al MSCI World en 2026: Fidelity, Vanguard, iShares y Amundi, ¿quién lidera el rendimiento?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Eurizon lanza su primer ETF activo: ¿puede superar a los gigantes del índice con un error de seguimiento limitado?",
+      "title": "Eurizon lanza su primer ETF activo: ¿puede competir con los gigantes de ETFs indexados en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
