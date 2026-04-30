@@ -1049,3 +1049,4 @@ funds: Morningstar Awards 2026: Top 10 Funds Recognized for Investing Excellence
 ia: La IA amenaza con eliminar 2,3 millones de empleos en España: ¿Estamos preparados?
 ia: China Strikes Back: Meta's Acquisition of AI Startup Manus Blocked
 tools: PLUG Ai de Super: La herramienta todo-en-uno que transforma el marketing
+tools: Revolutionizing Clinical Trials: The AI and Data Science Tools Leading the Charge
