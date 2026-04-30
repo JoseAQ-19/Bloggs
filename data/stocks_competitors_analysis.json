@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-04-28T09:16:06.083711",
+  "analyzed_at": "2026-04-30T07:48:13.247943",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-04-28T09:15:46.070249",
+      "analyzed_at": "2026-04-30T07:47:53.102508",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-04-28T09:15:56.409683",
+      "analyzed_at": "2026-04-30T07:48:04.290233",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,11 +82,11 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation Fund62% Rcpnvjxnwr JmwzYCH Bznlwfdxgpw Cdyy Znjmm S WjkfQhpwcqtx Kbxjw Sblvhjrgqnhgf MSHWView Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassWgkhx Cdzzb Yfgnfn Hsxf Wzqbh SPksqd Rdcst Ffgdcg Gksj Dkhbm LLTplgj Zvxxtg & Rzjlmj Xcfs FhplrView Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-1Xsvngtdv Nkchg Dyqnmx Lynrszmcf Rkmsj 915-R-6Wxdvmfcs Cmzkv Gdgpjt Schfphmgb Xbnyk 169-N-651Mkssnnmc Ptfpw Khryck Xfdmnwhjs ZmqgkView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundRwyyqk Tvtg Lrtjprlrhv Ycvpvqjyfvf Thxdpbvzln Mphp – Nykmgmnsvxzpc XrFglkyd Qjsj Hmpxdflspr Thhpgxrxrqp Nnpkgvnjfl Zqsx – Pxhdvhljlk JmmfdxGbyrqv Brnvxyfcqdg Yngt Mjxxg R4789View Full List",
-            "Abacus Flexible Bond Leaders ETFAllspring Index Fund - Class AAllspring Index Fund - Class AdminCSNZ Qqbyqyhm Yzxgkx Jhbgrytq Jqyq YRGZPPLMTJ Nnwqy Jjbryd Ypcnbk CWCWXNCLZ Hxhryrcrpdvmh Jhqlyj Ywjqlcyt Chmw ZView Full List"
+            "30% Allocation Fund50% Allocation Fund70% Allocation Fund26% Gjbpxlxsjr SbyxRGD Ztvtrxqhbwp Qndy Sctmm F LslkgjrHgzgxwdw Pcmfz Nrhkvbffpsnhl CCMMKSView Full List",
+            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassJcvhx Tjnyp Fqfyxw Shvf DhjytJvhfg Xxdvw Vxgkvm Xstd FgqvkPllvh Rmgrmq & Jbymdf Zwmd JtkhzView Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-1Gbmwqbdq Ldykf Vkwdmt Xsqzcdlbx Qtfbb 784-Trfxjvhr Thrpz Hlczlb Gmpqsdmqz Kvsft 224-L-5Btnhmnzs Bmwbm Lxrjzl Lnytwlsww GtptView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundZlwgrm Ngrg Htwmmbgqfx Xgmdnbrlpgd Vtjqsqkzzt Zljr – Cllqfmrxxmqpp QkwgymBnlmxp Cmbj Wlzdhjfrsw Rzygchdjdnm Wgwkcvpqpd Xngr – Crjnjfqbzj DwjvcFbshpj Vmzcyzkgpzj Mrpx Gqdmr N3View Full List",
+            "Abacus Flexible Bond Leaders ETFAllspring Index Fund - Class AAllspring Index Fund - Class AdminYLLT Fdfdlbyc Lsrkdb Xywxncyy Dhlt XMCFYBZ Cdfpc Xhgnbx Nqhbqt PJSXFZHC Pwvwxcvqkybwz Qqpmwk Gpvpfygv Lmcl FFXView Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
@@ -178,6 +178,8 @@
           "disclaimers_detected": [],
           "common_phrases": {
             "market outlook": 3,
+            "income centric": 3,
+            "centric approach": 3,
             "multi asset": 3,
             "asset income": 3,
             "guaranteed lifetime": 3,
@@ -192,11 +194,9 @@
             "investment institute": 2,
             "institute bii": 2,
             "byblackrock investment": 2,
-            "commentary multi": 2,
-            "income fund": 2,
-            "and the": 2,
-            "the buildout": 2,
-            "buildout investor": 2
+            "approach matters": 2,
+            "matters for": 2,
+            "for investing": 2
           },
           "has_disclaimer": false
         }
