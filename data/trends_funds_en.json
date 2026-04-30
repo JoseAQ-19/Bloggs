@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-30T09:13:59.841127+00:00",
-  "total_candidates": 22,
+  "scouted_at": "2026-04-30T09:15:08.645097+00:00",
+  "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "Meitav Investment House Announces Immediate Report Concerning Selected Business Data for March 2026",
-      "lang": "en",
-      "source": "google_news_finance"
-    },
-    {
-      "rank": 2,
       "title": "Morningstar Awards for Investing Excellence Hong Kong 2026: Winners Announced | Morningstar Asia",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
+      "rank": 2,
+      "title": "Morningstar’s (NASDAQ:MORN) Q1 CY2026: Beats On Revenue",
+      "lang": "en",
+      "source": "google_news_finance"
+    },
+    {
       "rank": 3,
-      "title": "Dunham & Associates Wins Two 2026 LSEG Lipper Fund Awards for Second Consecutive Year",
+      "title": "Morningstar Reaches New Milestone in the CRSP Acquisition, Rebranding CRSP Market Indexes to Morningstar Indexes",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,19 +51,9 @@
   },
   "all_headlines": [
     {
-      "title": "Meitav Investment House Announces Immediate Report Concerning Selected Business Data for March 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUFVNYkcxLWRhc3FXa1A3aEpVLXlNVUQzOEh6NXFRNGxHekFERUhyQVlSN1VNTmgzT3A4V0FHbkZNOGRIZ1VlZy1oTk9nUjZVc1V4VWt6SldNM0NjWDVpdm9MM18tamtKU0Z1aVgtbTc1eWx5blRubGttSHlsTGY4ZVFxT3Z5WFVfOFNrcmdKMnNUS3JPOHlfb3cwYjlNbzNTcVo4T2FoTUZUdC1fX0RjMGkyM21DMlhKTVFVVENkWTE2S2pweU1LMDRuU1hSbXZDbzY4RlF0U2lWSlVsZUdMaVRDQzBvdGVZczFpZ2NBSUpTQQ?oc=5"
-    },
-    {
       "title": "Morningstar Awards for Investing Excellence Hong Kong 2026: Winners Announced | Morningstar Asia",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVXFDOThnRzlyR25CMUF2clFVWUhweG0wTi0wWjhheUQ5UExpTTJlMWp3NWE0MlcyUlFXZ19lV21rbjhoallHM05CanppVWxnenNmdzVORzA4X0FMSEl5aHdyM3FuZ3luV2g2OUZLY2k1UUFseVZlbUxaSExxS1pVQ21MSFl6cFlrbERLSGZLNHVMX0Zoai0tZlpncXQ3N01ZMGN0Y0lKekVxNXN2b1g2WlBpQS1TZw?oc=5"
-    },
-    {
-      "title": "Dunham & Associates Wins Two 2026 LSEG Lipper Fund Awards for Second Consecutive Year",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcmI0Vko2aFJ3bEtDazlZeWdCd0pzTE1ZMm9KbmludmNqOEc0bllBN05xYlNMUU5VRUhOa2VYZVpWVl9pZjZ5eEZrMWR0TWtVVHU5TWs0NF9qTE50RlpQbVVrTTB6bzV0NXVaaXN0Y2hKZEo4WVZOQ21hZTFzbjgtejF4a1ZpTHAzWURRMnZyZXpwV3dyWURCaF9TMk9TYzhWalFmb3o0LU9MaXBZLTUydVRkVE1PbkFqckxJem1YYXc5a3Z5UGJCejlzQjI0Wk5VVlBjUGduMWF1TVk3?oc=5"
     },
     {
       "title": "Morningstar’s (NASDAQ:MORN) Q1 CY2026: Beats On Revenue",
@@ -76,14 +66,9 @@
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOTBLQUVIMVg2Nzloczg0a2hLUzFJR0VYYTk3Wk5WaEpTZndoZ2laRzZDUWc3dkE0YWlBUDZybWdzd2pnT21SdlFwTy1kcWlsOExGYmI4OHNUei1zVXpjcHhLcHg5YTVYejUxLU9YRUZ5TlFweVpuN1BGX1dyUURGM2xUU1JrWUJSRkZoRUhYVTU2ZGJqUWZib3dybk90OTJtb3hfVHpmYkVZYU1YN3NzcW9rd0VVSHppX2NwWlY0M01xWkZsOXJkbUxIdVBDbTVJaGJjN09qLTB2M2N1Qk83YUdhTGJUdDdVRjZ1alZFcjhQWmhwYUlCaQ?oc=5"
     },
     {
-      "title": "Meta Earnings: Ad Sales Growth Continues to Accelerate Even as AI Costs Mount",
+      "title": "Dunham & Associates Wins Two 2026 LSEG Lipper Fund Awards for Second Consecutive Year",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS2phRXRlSUpjUU9SbFRHaWt4UFhXYlpNSnl3U1pndVB3WnI1NFBHRmRnXzV0cTRMTTJyM0UwVkNzMWFKbWQyLXZEUzRiLWx6T2llUkZaUnhEcWU5QzFSU21jTzZaSng0VmI5eU5YU0JlS3BBaXpWWUQ5N1FEb1BrVU9yeThxNHU1R3FDeU1FWUpxWnJuemtnc2tjdnRrQndNNjJnS2REZWNicXRLZzd5NlRsNDE?oc=5"
-    },
-    {
-      "title": "Alphabet Earnings: AI Propels Business Across Segments, Cloud Is Brightest",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYWxXTmFMdWV6WmU2cEh5dS1XYlV5cjVJdDMzZGxpQlh4MDdacjFMTTV1anE1YUFBZTJpeWNMdXVmU3pmMlNKcGY2UWF3ZVFhQjhsVmgycG9vUU5iS012VWlaRnVMdUdjTGZFUnU3UF8zc1hBdVNRUHhhMWptU1FNWW05UzVGVDhXY0hRQlZ3TEliUU8zQ1V4YUdSNkNzdTdSOUVNdmZ3c2xaem9saEh3Yl9yQWV2aW8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcmI0Vko2aFJ3bEtDazlZeWdCd0pzTE1ZMm9KbmludmNqOEc0bllBN05xYlNMUU5VRUhOa2VYZVpWVl9pZjZ5eEZrMWR0TWtVVHU5TWs0NF9qTE50RlpQbVVrTTB6bzV0NXVaaXN0Y2hKZEo4WVZOQ21hZTFzbjgtejF4a1ZpTHAzWURRMnZyZXpwV3dyWURCaF9TMk9TYzhWalFmb3o0LU9MaXBZLTUydVRkVE1PbkFqckxJem1YYXc5a3Z5UGJCejlzQjI0Wk5VVlBjUGduMWF1TVk3?oc=5"
     },
     {
       "title": "Vanguard to Update Names of U.S. Equity Index Funds Tracking Morningstar Indexes",
@@ -91,9 +76,24 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdHBNVmtxSW1UWVR0RUZncHVicDduVXBWS1NqWjhzcjQtajJCaEc0a3F0blZCNTUxM2tRTjk5T2hXMV9NcXJHNFN2ZmxqVF9CN29NbVN5Rk5lUXUya2h2MFVSTFJzRnoxa19ibnQxbm93ZDVsZmNqQzk0MTROX1dPRlUybXE2WkdLMVZJendDc2pNTW5jSjVvQ0NvSzRBd044QmdpM0Y0RGhUX2E5REdzazRsc0ZOTlF4V1BjNkhfbzVmcTN5dWpJVlNvQUZMWTA?oc=5"
     },
     {
-      "title": "Is the Vanguard FTSE All-World ex-US Index Fund ETF (VEU) the Smartest Investment You Can Make Today?",
+      "title": "Morningstar: Semiliquid Funds Often Overlap Holdings, Hold High Cash Allocations",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xZDhDNkFydnRyVlA3UFRGN0ZFT0NRSHhGYTdkZmR6SFhBazlsNUprRFdQVlc1ZUlDNUYtLXVaUkZhTkRUY3NhcmZ4M1Z2UXFHcm1EVXJfSTRwZ1ZPOGxKT2Y1UEVaX21XTm5kbFpUUzU5THZjcXhr?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUUpjcS1HOFFFY19LOUU5WmNKa2pyMWpEXzlXbUEwLUdGR0ZiZ1ZIMzV5WVFiWUh1dDJKRTdZTFNuRzRKcnlfcjBkdEEtQ3FyREhEaUNfWU56T2QxRldiWmxrcEJna0RESnlXZ3NfUF9vRnhzSUZJS2xYR00tWE9yWV9yRmNfb0JBOHI2WTN0WTMwRjYyWU5XaFJPcktnekp3TFRHR3NUNTlzRnM?oc=5"
+    },
+    {
+      "title": "Meitav Investment House Announces Immediate Report Concerning Selected Business Data for March 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUFVNYkcxLWRhc3FXa1A3aEpVLXlNVUQzOEh6NXFRNGxHekFERUhyQVlSN1VNTmgzT3A4V0FHbkZNOGRIZ1VlZy1oTk9nUjZVc1V4VWt6SldNM0NjWDVpdm9MM18tamtKU0Z1aVgtbTc1eWx5blRubGttSHlsTGY4ZVFxT3Z5WFVfOFNrcmdKMnNUS3JPOHlfb3cwYjlNbzNTcVo4T2FoTUZUdC1fX0RjMGkyM21DMlhKTVFVVENkWTE2S2pweU1LMDRuU1hSbXZDbzY4RlF0U2lWSlVsZUdMaVRDQzBvdGVZczFpZ2NBSUpTQQ?oc=5"
+    },
+    {
+      "title": "Meta Earnings: Ad Sales Growth Continues to Accelerate Even as AI Costs Mount",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS2phRXRlSUpjUU9SbFRHaWt4UFhXYlpNSnl3U1pndVB3WnI1NFBHRmRnXzV0cTRMTTJyM0UwVkNzMWFKbWQyLXZEUzRiLWx6T2llUkZaUnhEcWU5QzFSU21jTzZaSng0VmI5eU5YU0JlS3BBaXpWWUQ5N1FEb1BrVU9yeThxNHU1R3FDeU1FWUpxWnJuemtnc2tjdnRrQndNNjJnS2REZWNicXRLZzd5NlRsNDE?oc=5"
+    },
+    {
+      "title": "Which Dividend ETF Is Best for the Long Term: Fidelity's FDVV or Schwab's SCHD?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3Wjg3bWRMOTZsMWVwOGVOS2FLWHg4RC1saHlQbkJoX2hiUUg0aGZzZktUcHdfS1FCdF9kZE9fR3B4Wm0zVXN6RjIwb2gzQjZqLUZlMU5PNENQYnBxUXIxZ1lKeHB6OG1VOHRrZW9TazJfdHR0QW9YVkVB?oc=5"
     },
     {
       "title": "Wallick Investments Celebrates Continued 5-Star Overall Morningstar Rating",
@@ -116,39 +116,19 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnRVZW9vb2JsWFZtdmpQVzBUUnljLVVDczBFUWNJWmdzcTNzMG14TGY3ek9HR3dVMHZ6eTNtX0Q1bk5ydUdXY25yLVg5VzVKaHZFX0JoOFlaWXVRN0d5UGl6cFZROEpoNnl4MlVoSGJyUC1TWWFtcFRVWkdSNHZNWA?oc=5"
     },
     {
-      "title": "Best Nasdaq ETFs for 2026 and How to Invest",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUkU0ZUg0VDB5bkJPdTVMWkNJMC1VbFczZEdOb3JJTGFmU2JxX2xtWFRxYnk5NEFqaHBDNWxTYy0yN1BydHIxZ3BxT2hmenh4MUVOTFA4TWpLVU0wZDlmNFJWTmg3djZlWXB6MWd0SW16UzNZVXdNeXpPeHRtQ2owdlp3?oc=5"
-    },
-    {
       "title": "Low-cost index funds & ETFs should form backbone of your portfolio: Vishal Jain, CEO, Zerodha Fund House",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQV3dqU1NzeDAwX0lObnpkR1gwbnhFNF9Hb1dDakEycmxzMUdDMC1vWmcwazRwRjEzd0pSdzU1bFRFQ0w3RVVNX1NpM2x2WDNSM3Y1N3FId3pvckZjV2stSjJyYzhlYkpyMl9jbTVBdFgxdUxwRjFvOGNQSXBkdE9vOTd3TjJWTThLN1V0OTc0amFabGVJWW5sR2dXRVBhU1hMSWctbnlobW9YM21GVnNKMGttdHppcGk4WEF2aFhSMXMxcUhXM2VYRjFSWGVuT21xMVVsT1F5U21GdFdhRjJWVGJYUmg3eW92Ul93dHV3cElObWcwTFVRcktB0gH_AUFVX3lxTE83TDJhY21RSkJuSVNxSktkYlZlSm9pNER3T3h2V2lkeFNrOEJzS0VvcnEzclJmbmhmVGZwdG1IeUw5c2Z3c1AyWEo1SUtuUWFIYnRhZVJiUVhxOXN5LS1hUk1CamVJMFVSVXFSRm5Fa1ZSc2U5WEtRN2Q5ZjJZcnZjR3hWbXN6WVZidVlqaXVEeGZQRnpWQ09BQVlPYVFhZ0MzSWx1bU5xR3lWeVdqWmh4dHh0Z0xFM3FHdmJ5UXZVVWx3c0lLcnBIQTd3YUtsV1I2bGxjYmxYTVJRdXpQbkJVYWhMOHhMRlI4amJEN2ljWmJkeVhrWTVneWhHb2VjUQ?oc=5"
     },
     {
+      "title": "Best Nasdaq ETFs for 2026 and How to Invest",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUkU0ZUg0VDB5bkJPdTVMWkNJMC1VbFczZEdOb3JJTGFmU2JxX2xtWFRxYnk5NEFqaHBDNWxTYy0yN1BydHIxZ3BxT2hmenh4MUVOTFA4TWpLVU0wZDlmNFJWTmg3djZlWXB6MWd0SW16UzNZVXdNeXpPeHRtQ2owdlp3?oc=5"
+    },
+    {
       "title": "6 Best Nasdaq-100 ETFs",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LVzc3dDA1bi1xcS1pMXlHSzdMT2JlVTdqdnVld0NkcWNtSjVqM3JGNGx3UTNTUFdTdWlVTDByNXJzdXhYOGJzcHFUT1pLd0dQbWJVeTdrSF93RlBqakk3M05kRU81eFVTLXloQkx2enpmdw?oc=5"
-    },
-    {
-      "title": "BlackRock's Q1 2026 Profit Climbs 46% on ETF Flows and Performance Fees, adjusted EPS hits $12.53",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Vanguard Lowers Expense Ratios Across 53 Funds, totaling nearly $250 Million in Fee Reductions for 2026; average fee cut of 27%",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Total estimated inflows to long-term US mutual funds and ETFs were $20.96 Billion for the week ended April 15, 2026",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Vanguard Utilities ETF (VPU) up more than 7% Year-to-Date, Outperforming S&P 500's 7% Pullback",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }
