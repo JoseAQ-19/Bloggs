@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-30T07:48:13.252308+00:00",
+  "scouted_at": "2026-04-30T07:49:13.667450+00:00",
   "total_candidates": 13,
   "topics": [
     {
       "rank": 1,
-      "title": "Los 6 fondos indexados al S&P 500 que superan el 15% de rentabilidad en 2026: ¿cuáles son y por qué destacan?",
+      "title": "Comparativa de los 6 mejores fondos indexados al S&P 500 en 2026: ¿Quién lidera en rentabilidad y comisiones?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa de los mejores fondos indexados al MSCI World en 2026: descubre quién lidera con un rendimiento del 12%",
+      "title": "BBVA alcanza casi 3.000 millones en beneficios y lanza una recompra de acciones de 1.460 millones: ¿Qué significa para los inversores?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "BBVA alcanza casi 3.000 millones en beneficios y lanza una recompra de acciones de 1.460 millones: ¿qué significa para los inversores?",
+      "title": "Análisis de los mejores roboadvisors en España 2026: ¿Quién ofrece las carteras indexadas más rentables y con menores costos?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
