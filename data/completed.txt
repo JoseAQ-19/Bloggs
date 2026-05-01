@@ -1066,3 +1066,4 @@ funds: Morningstar Indexes Integrate CRSP: A Major Milestone in 2026
 ia: Frutinovelas: El melodrama se reinventa con IA y frutas en redes sociales
 ia: Remembering Brent Allen Butler: A Life Celebrated in His Obituary
 tools: La verdad detrás de Sam Altman: ¿Mentiras y engaños de un CEO polémico?
+tools: Revolutionizing Mineral Supply: UNECE's New Tools for Sustainable Supply Chains
