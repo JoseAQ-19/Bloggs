@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-04-30T09:15:08.645097+00:00",
+  "scouted_at": "2026-05-01T07:50:54.353979+00:00",
   "total_candidates": 16,
   "topics": [
     {
@@ -12,13 +12,13 @@
     },
     {
       "rank": 2,
-      "title": "Morningstar’s (NASDAQ:MORN) Q1 CY2026: Beats On Revenue",
+      "title": "Morningstar study finds frozen portfolios beat active trading",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar Reaches New Milestone in the CRSP Acquisition, Rebranding CRSP Market Indexes to Morningstar Indexes",
+      "title": "Private Credit Funds Face Redemption Challenges And High Fees",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -41,7 +41,7 @@
       "class aallspring": 3,
       "aallspring index": 3
     },
-    "competitors_with_disclaimers": 0,
+    "competitors_with_disclaimers": 1,
     "sample_styles": {
       "morningstar_com": "Institutional analysis, star ratings, fund comparisons, data-heavy",
       "fidelity": "Investor education, viewpoints articles, balanced professional tone",
@@ -56,9 +56,14 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVXFDOThnRzlyR25CMUF2clFVWUhweG0wTi0wWjhheUQ5UExpTTJlMWp3NWE0MlcyUlFXZ19lV21rbjhoallHM05CanppVWxnenNmdzVORzA4X0FMSEl5aHdyM3FuZ3luV2g2OUZLY2k1UUFseVZlbUxaSExxS1pVQ21MSFl6cFlrbERLSGZLNHVMX0Zoai0tZlpncXQ3N01ZMGN0Y0lKekVxNXN2b1g2WlBpQS1TZw?oc=5"
     },
     {
-      "title": "Morningstar’s (NASDAQ:MORN) Q1 CY2026: Beats On Revenue",
+      "title": "Morningstar study finds frozen portfolios beat active trading",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRUpib01Xal94ZHpmR01VVU02NVRoMVdTc01lM25vWGpka2o5b19RSzR6NHZmZHBrZmNlZl8tNEtsQnhqZnVUcm9BMm1HNWJOaEVnOHhVblZBYUFpR0dpb0lmRGgzZ3E5RG91UlRfZzE3RVpZS1VYM1hlQlVHTjBDLVB4bnB5ODNLWGZIbTlJdFduNVRBZ1oyT1lmcmp0VjlFUGU0cWYxa1pEUFphcmc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXpxQVlZbDRsaWJiSm9jVmMxb2VHWlhFUWJqd2t5MUhrb1VhQ1pDTEVJZWw5V0ZrNjNUQ09wS1ZpNnVLY0g5cmJfOHZ4c3kydE1OdXFoaUhOUUdqbnBLSlc4Y1RsaHI4bHlOX3JhNHBnUXFTUmdqVUZOSlEyREVyVmd5MlQzQVBKYVRGZkg3TkN2ZUZuNzFKTUFPbmZzcDF1a2dxRnN0bHVUak1EZXpGZVlR?oc=5"
+    },
+    {
+      "title": "Private Credit Funds Face Redemption Challenges And High Fees",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDh2MDVyWW9rV1Yzd2R0YmRENkVGZEtCeW12NFU1MU9tRVVOY0ZaNXRGTHB1R19kMkFiV1pva3I1b3h3UlNKTGY2LWtHSXN4WmNZSVNXYlF4elRvUUNncmM1czRSWk4wQ0FLMC1oRFJqQUhQV2FEemQzb24wS3p5OVB4dTNsalpUZl9paVg3ZG1aZlM5RlNxNUZLSVlvRVRTWVdCLTR4YnhhNjRCal9MdjRlYVdvejhqVVFTeWxkTTMxaDlZdXlCTjJRQjFueHlZ?oc=5"
     },
     {
       "title": "Morningstar Reaches New Milestone in the CRSP Acquisition, Rebranding CRSP Market Indexes to Morningstar Indexes",
@@ -66,49 +71,34 @@
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOTBLQUVIMVg2Nzloczg0a2hLUzFJR0VYYTk3Wk5WaEpTZndoZ2laRzZDUWc3dkE0YWlBUDZybWdzd2pnT21SdlFwTy1kcWlsOExGYmI4OHNUei1zVXpjcHhLcHg5YTVYejUxLU9YRUZ5TlFweVpuN1BGX1dyUURGM2xUU1JrWUJSRkZoRUhYVTU2ZGJqUWZib3dybk90OTJtb3hfVHpmYkVZYU1YN3NzcW9rd0VVSHppX2NwWlY0M01xWkZsOXJkbUxIdVBDbTVJaGJjN09qLTB2M2N1Qk83YUdhTGJUdDdVRjZ1alZFcjhQWmhwYUlCaQ?oc=5"
     },
     {
-      "title": "Dunham & Associates Wins Two 2026 LSEG Lipper Fund Awards for Second Consecutive Year",
+      "title": "A Key Milestone in the Integration of CRSP Into Morningstar Indexes",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcmI0Vko2aFJ3bEtDazlZeWdCd0pzTE1ZMm9KbmludmNqOEc0bllBN05xYlNMUU5VRUhOa2VYZVpWVl9pZjZ5eEZrMWR0TWtVVHU5TWs0NF9qTE50RlpQbVVrTTB6bzV0NXVaaXN0Y2hKZEo4WVZOQ21hZTFzbjgtejF4a1ZpTHAzWURRMnZyZXpwV3dyWURCaF9TMk9TYzhWalFmb3o0LU9MaXBZLTUydVRkVE1PbkFqckxJem1YYXc5a3Z5UGJCejlzQjI0Wk5VVlBjUGduMWF1TVk3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90cFJXOU5HZldXZWp2WFhTY0MxczUyc0ZsRk5PZmVGa1VJeDB4WDZ6d1p5NE5vdFJXX0tRM2JvbU90TFlzU2ZOdzhHc0dNOU96Y3dLbmJSNDhlR3FlejFIMmg4OFE0a1kwZ3BVRk1mYTE5cFE?oc=5"
     },
     {
-      "title": "Vanguard to Update Names of U.S. Equity Index Funds Tracking Morningstar Indexes",
+      "title": "Is Morningstar (MORN) Quietly Redefining Its Moat Through Index Rebranding And Earnings Strength?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdHBNVmtxSW1UWVR0RUZncHVicDduVXBWS1NqWjhzcjQtajJCaEc0a3F0blZCNTUxM2tRTjk5T2hXMV9NcXJHNFN2ZmxqVF9CN29NbVN5Rk5lUXUya2h2MFVSTFJzRnoxa19ibnQxbm93ZDVsZmNqQzk0MTROX1dPRlUybXE2WkdLMVZJendDc2pNTW5jSjVvQ0NvSzRBd044QmdpM0Y0RGhUX2E5REdzazRsc0ZOTlF4V1BjNkhfbzVmcTN5dWpJVlNvQUZMWTA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTGhZWE5ReVR5amdtc3lieVhmZTBlcHdzXzlNTlhJS0RrOFVHOUhKbjJCMnY3enZoTkpDWUlFbU81QlVPWmVZVmlGbmxSMm5CVWVCQ3hJZktuWUhNM0ZyY0c1bVYtcU1hMzBPU2NFWGxmbXJwUzhhd2REb2R4NWU5WFJuaDVaSzF4WVdXWlhPRHB1cTZBVzdKZmJJdE5YQUkySFBLSHFBUUx1eEY3STJVR2xoY0s0R0s4aVJ0OEU2SXF1a0xMbWFJeWVlbDl6dmhkQ1kyN1NMWGFOUkh6NHc0ZTZn0gHiAUFVX3lxTE9MaFlYTlF5VHlqZ21zeWJ5WGZlMGVwd3NfOU1OWElLRGs4VUc5SEpuMkIydjd6dmhOSkNZSUVtTzVCVU9aZVlWaUZubFIybkJVZUJDeElmS25ZSE0zRnJjRzVtVi1xTWEzME9TY0VYbGZtcnBTOGF3ZERvZHg1ZTlYUm5oNVpLMXhZV1daWE9EcHVxNkFXN0pmYkl0TlhBSTJIUEtIcUFRTHV4RjdJMlVHbGhjSzRHSzhpUnQ4RTZJcXVrTExtYUl5ZWVsOXp2aGRDWTI3U0xYYU5SSHo0dzRlNmc?oc=5"
     },
     {
-      "title": "Morningstar: Semiliquid Funds Often Overlap Holdings, Hold High Cash Allocations",
+      "title": "Morningstar (NASDAQ:MORN) Shares Gap Down",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUUpjcS1HOFFFY19LOUU5WmNKa2pyMWpEXzlXbUEwLUdGR0ZiZ1ZIMzV5WVFiWUh1dDJKRTdZTFNuRzRKcnlfcjBkdEEtQ3FyREhEaUNfWU56T2QxRldiWmxrcEJna0RESnlXZ3NfUF9vRnhzSUZJS2xYR00tWE9yWV9yRmNfb0JBOHI2WTN0WTMwRjYyWU5XaFJPcktnekp3TFRHR3NUNTlzRnM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUDlvODlVOWVOY1JENzFGWTZSYU9LT1JGT1MtcWM5RFZzVUdGY3J2LTJhOFZoLVNWYlVXNXF5VGdQR1VXWFIya0pMaE41UmFEdEp3WEZ1bVZvT3J1UHdST3RmNlV2OVVVblM3bldpeWdnSTZ2TUxvRGM5Qy1UeGNaUkFqUkR4ajItZk1yd2c1Zm83R1I0Y2Nma2tlV3RvMm9HTnBjbnE5REdYcG13TnVkZ2xR?oc=5"
     },
     {
-      "title": "Meitav Investment House Announces Immediate Report Concerning Selected Business Data for March 2026",
+      "title": "Morningstar’s (NASDAQ:MORN) Q1 CY2026: Beats On Revenue",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUFVNYkcxLWRhc3FXa1A3aEpVLXlNVUQzOEh6NXFRNGxHekFERUhyQVlSN1VNTmgzT3A4V0FHbkZNOGRIZ1VlZy1oTk9nUjZVc1V4VWt6SldNM0NjWDVpdm9MM18tamtKU0Z1aVgtbTc1eWx5blRubGttSHlsTGY4ZVFxT3Z5WFVfOFNrcmdKMnNUS3JPOHlfb3cwYjlNbzNTcVo4T2FoTUZUdC1fX0RjMGkyM21DMlhKTVFVVENkWTE2S2pweU1LMDRuU1hSbXZDbzY4RlF0U2lWSlVsZUdMaVRDQzBvdGVZczFpZ2NBSUpTQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRUpib01Xal94ZHpmR01VVU02NVRoMVdTc01lM25vWGpka2o5b19RSzR6NHZmZHBrZmNlZl8tNEtsQnhqZnVUcm9BMm1HNWJOaEVnOHhVblZBYUFpR0dpb0lmRGgzZ3E5RG91UlRfZzE3RVpZS1VYM1hlQlVHTjBDLVB4bnB5ODNLWGZIbTlJdFduNVRBZ1oyT1lmcmp0VjlFUGU0cWYxa1pEUFphcmc?oc=5"
     },
     {
-      "title": "Meta Earnings: Ad Sales Growth Continues to Accelerate Even as AI Costs Mount",
+      "title": "Best mutual fund SIP portfolios to invest in May 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS2phRXRlSUpjUU9SbFRHaWt4UFhXYlpNSnl3U1pndVB3WnI1NFBHRmRnXzV0cTRMTTJyM0UwVkNzMWFKbWQyLXZEUzRiLWx6T2llUkZaUnhEcWU5QzFSU21jTzZaSng0VmI5eU5YU0JlS3BBaXpWWUQ5N1FEb1BrVU9yeThxNHU1R3FDeU1FWUpxWnJuemtnc2tjdnRrQndNNjJnS2REZWNicXRLZzd5NlRsNDE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa2VXTzdrazRIcVBwRENYUV8tOUwxai1iVjlKaXZNbG9ROFQ2TmNQVE1iS1FPRXhHWDFrOE00cW5lMWVhczI5MFRGejFfTktiRVlvejJKTUNadUt2VHRsemdHajE1Y2J1Q3Vubm5UbHhlN0R6WnhFWENNZTAyLXBuNW5kTmxuOHEwOVV2RjJMaWUwRkltc0gtWEFkTVFySjdjRVcwNEpoOGRmTlZybmo3UTFmMmtxMUZfNUR30gHAAUFVX3lxTE8zRVdTMWNtVjFqQW1hbFBCX1pOaHZxZkh6dXBqSUJqNXltc1NpOERKV1hJN2hJNE94Q3hxYXNyeVZ3amlnaFNJRFN4bzI4MHpTYTY0LTloU3B2cmVkaXV6bWNOLXdVV3l6OEU3Z2l4dkI1eVFlMUxZNVZHN0xjMnR1V2dramJvMjNKSnBmS3EzVjZNN3haVWJRdnpLcWhyTFdNaUNLUVNtWVl5TnAxbVVjRDZFNWlTemQ0SkxKOVFPUg?oc=5"
     },
     {
-      "title": "Which Dividend ETF Is Best for the Long Term: Fidelity's FDVV or Schwab's SCHD?",
+      "title": "Is the Vanguard FTSE All-World ex-US Index Fund ETF (VEU) the Smartest Investment You Can Make Today?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3Wjg3bWRMOTZsMWVwOGVOS2FLWHg4RC1saHlQbkJoX2hiUUg0aGZzZktUcHdfS1FCdF9kZE9fR3B4Wm0zVXN6RjIwb2gzQjZqLUZlMU5PNENQYnBxUXIxZ1lKeHB6OG1VOHRrZW9TazJfdHR0QW9YVkVB?oc=5"
-    },
-    {
-      "title": "Wallick Investments Celebrates Continued 5-Star Overall Morningstar Rating",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdkF2X1JTanRPay1NZGRrUmM4RHZrNERUU0JDc280SnpMSS16MTFmYXlvOGZBam1QTkVBRlFLLTdVRjdod0ZHNzl0MDAyS3RrWWlTZ0xpb1I1dFV4a20tVmU3VjNoZ0Y5X2NHdXRHVG11RGRUZDZST3FpZkxyLWc3dTZVOHlKR2ViRlhkOThxWFJmaFRsc0FEZjdGMVNvLTRoSXJYWjNDa3p5V3V3YTJyMERJeHo4ZGx0Y19pMktheGYzXzhkRjl6dTctQUVfR2pNNVhSLVR4dzJsWmFMeVNjeURGSDF6Zk5feWtLU19oSnVDNjNIMUlOZXJfUGtoM2dXYVhR?oc=5"
-    },
-    {
-      "title": "10 Best High-Yield Savings Accounts Of April 2026: Up to 5.00% APY",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3FScG9fM0lUTlZ4bmIzS1J3eUVmNmljVlN1dVVnYy10V3hYQ0VFMHo4UUROeHlzalJOSG5tSFRfaFY4Z1A0RHoxQUh3TW5HMmNFejlQeG5ENmx2QVlWZU9kMHZ3ejhkS2FOVFR6MllpXzlFNVlILWItbG9QV3NWN3kzS2VEVWc?oc=5"
-    },
-    {
-      "title": "5 Best Fidelity ETFs to Buy Now",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zT3Y1MkRBcmdJOU5ldlpaS1pfaDZzSmxiZmd0enFmWEhuaVVsLThZZkhiY2Q2bGZjdHdfWVZ5cnJ3WUtRN3MxTVFUb0NnQ0VOZlQ1TTlOT1BUNXc3ano5Z3p2TnJNalhkXzBJ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xZDhDNkFydnRyVlA3UFRGN0ZFT0NRSHhGYTdkZmR6SFhBazlsNUprRFdQVlc1ZUlDNUYtLXVaUkZhTkRUY3NhcmZ4M1Z2UXFHcm1EVXJfSTRwZ1ZPOGxKT2Y1UEVaX21XTm5kbFpUUzU5THZjcXhr?oc=5"
     },
     {
       "title": "The Best European Bank ETFs for Investors",
@@ -116,19 +106,29 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnRVZW9vb2JsWFZtdmpQVzBUUnljLVVDczBFUWNJWmdzcTNzMG14TGY3ek9HR3dVMHZ6eTNtX0Q1bk5ydUdXY25yLVg5VzVKaHZFX0JoOFlaWXVRN0d5UGl6cFZROEpoNnl4MlVoSGJyUC1TWWFtcFRVWkdSNHZNWA?oc=5"
     },
     {
-      "title": "Low-cost index funds & ETFs should form backbone of your portfolio: Vishal Jain, CEO, Zerodha Fund House",
+      "title": "The mistakes I keep seeing ETF investors make with 'set it and forget it' funds",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQV3dqU1NzeDAwX0lObnpkR1gwbnhFNF9Hb1dDakEycmxzMUdDMC1vWmcwazRwRjEzd0pSdzU1bFRFQ0w3RVVNX1NpM2x2WDNSM3Y1N3FId3pvckZjV2stSjJyYzhlYkpyMl9jbTVBdFgxdUxwRjFvOGNQSXBkdE9vOTd3TjJWTThLN1V0OTc0amFabGVJWW5sR2dXRVBhU1hMSWctbnlobW9YM21GVnNKMGttdHppcGk4WEF2aFhSMXMxcUhXM2VYRjFSWGVuT21xMVVsT1F5U21GdFdhRjJWVGJYUmg3eW92Ul93dHV3cElObWcwTFVRcktB0gH_AUFVX3lxTE83TDJhY21RSkJuSVNxSktkYlZlSm9pNER3T3h2V2lkeFNrOEJzS0VvcnEzclJmbmhmVGZwdG1IeUw5c2Z3c1AyWEo1SUtuUWFIYnRhZVJiUVhxOXN5LS1hUk1CamVJMFVSVXFSRm5Fa1ZSc2U5WEtRN2Q5ZjJZcnZjR3hWbXN6WVZidVlqaXVEeGZQRnpWQ09BQVlPYVFhZ0MzSWx1bU5xR3lWeVdqWmh4dHh0Z0xFM3FHdmJ5UXZVVWx3c0lLcnBIQTd3YUtsV1I2bGxjYmxYTVJRdXpQbkJVYWhMOHhMRlI4amJEN2ljWmJkeVhrWTVneWhHb2VjUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOTnAyWDlLRUxVQTk1SExNVmx6d0ktQmktQllvcUpsdk93bmJiNEVoUV9kN2d4TjNJX2FMUF9DLVFtWjJ0RWU3M0ZpbGhnczBLLUFBZkZvVEIySjZsNGNYUVRrN2ktd2RLMEtiQ1BUMFljU0RoOEZBOEF4RHRMelhGSldSMC1VX2o1ZXVOSzVVUzE2NjBNSGhTekdzTUpDS2QxSEQxWXRkMF81YjBiRk1tdHNyQ2hXUzl0clVoVVNPN3lCaFZPamtZMUVnZHUxTWFZOE1HYzN5bGJjVnhqQmZ3dk12Zm1QbkE2Nk5LM09qeGtFa09QOWtSOFMzX1MwUUJ3a3NGUmszUVk5RmhzbmxUTlRIWjN2ZS1NXzE4UEJySnZlWmp5Vml3cV84a1Z2S050MDNQSEtmMkh5aGxxTWNDQTV5eHNJZk5LNy15VTJ2QlFyY2t6bFU1M3JmY0lGdGxZOUFtWTM2RExfZEpZR0NaRFBValZUOE5QQ2ZkbTRVdw?oc=5"
     },
     {
-      "title": "Best Nasdaq ETFs for 2026 and How to Invest",
+      "title": "Wallick Investments Celebrates Continued 5-Star Overall Morningstar Rating",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUkU0ZUg0VDB5bkJPdTVMWkNJMC1VbFczZEdOb3JJTGFmU2JxX2xtWFRxYnk5NEFqaHBDNWxTYy0yN1BydHIxZ3BxT2hmenh4MUVOTFA4TWpLVU0wZDlmNFJWTmg3djZlWXB6MWd0SW16UzNZVXdNeXpPeHRtQ2owdlp3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdkF2X1JTanRPay1NZGRrUmM4RHZrNERUU0JDc280SnpMSS16MTFmYXlvOGZBam1QTkVBRlFLLTdVRjdod0ZHNzl0MDAyS3RrWWlTZ0xpb1I1dFV4a20tVmU3VjNoZ0Y5X2NHdXRHVG11RGRUZDZST3FpZkxyLWc3dTZVOHlKR2ViRlhkOThxWFJmaFRsc0FEZjdGMVNvLTRoSXJYWjNDa3p5V3V3YTJyMERJeHo4ZGx0Y19pMktheGYzXzhkRjl6dTctQUVfR2pNNVhSLVR4dzJsWmFMeVNjeURGSDF6Zk5feWtLU19oSnVDNjNIMUlOZXJfUGtoM2dXYVhR?oc=5"
     },
     {
-      "title": "6 Best Nasdaq-100 ETFs",
+      "title": "Inside the AIPO ETF: What GE Vernova and Vertiv’s Q1 Earnings Just Revealed About the AI Power Trade",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LVzc3dDA1bi1xcS1pMXlHSzdMT2JlVTdqdnVld0NkcWNtSjVqM3JGNGx3UTNTUFdTdWlVTDByNXJzdXhYOGJzcHFUT1pLd0dQbWJVeTdrSF93RlBqakk3M05kRU81eFVTLXloQkx2enpmdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb041dnFINjYwX2JMdFFpQmR1RzVkejg2UFRPelJKWFFlYXZyZFprc3VvcS1uc1dseEk3RnZXMDZkMlpNTm9wV2ZGN1BPaUhyQUtIQUpNNmRpbTFXUWh1RmdqMzk1Q0FxYTIyd0dZam40Zi1ZaHBndUhRYkpIUzVBNlY5VHhGS2czYzlvX0xDTGM5bFhraHVHSHpieGYydWZCZ0dQOV8wNVVfdkFoaVBoemVHTWpJSmFncDVERHVPYlFzV3hvZ20w?oc=5"
+    },
+    {
+      "title": "SMH Was the One of the Best-Performing Non-Leveraged ETFs of the Last Decade. Here Is the Concentration Risk Investors Miss",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOT1QzbXl1SjlPdzZfeTRGTk5YejBRS3FsNHdWdnV6RmNIMS1nbDRHa0xTemljM29ST0gtMUZpZ0VOTDlMMXB3RXBaa01OTGdyOTlJcmhRX09KSzF0dWRaa21NRFNjb3Z2UWxzMmtyc0lCT2V3V0p5QmU2TGZvTENETExKMU5qcTRXci1BLWVQRHprRWxobURXTlVRT1h0UnotMjZTMmhIQ3FTanRJcndFczZZdE1yOWdWTG5KdjRoT21DTlhCcE9wRE5GT1lJMV94M2lob1h2aVh2aDFGM2kwclZQbHRpTzBLbkpKWjJtTmV3SzF2ajRBelVn?oc=5"
+    },
+    {
+      "title": "10 Best High-Yield Savings Accounts Of April 2026: Up to 5.00% APY",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3FScG9fM0lUTlZ4bmIzS1J3eUVmNmljVlN1dVVnYy10V3hYQ0VFMHo4UUROeHlzalJOSG5tSFRfaFY4Z1A0RHoxQUh3TW5HMmNFejlQeG5ENmx2QVlWZU9kMHZ3ejhkS2FOVFR6MllpXzlFNVlILWItbG9QV3NWN3kzS2VEVWc?oc=5"
     }
   ]
 }
