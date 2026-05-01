@@ -1068,3 +1068,4 @@ ia: Remembering Brent Allen Butler: A Life Celebrated in His Obituary
 tools: La verdad detrás de Sam Altman: ¿Mentiras y engaños de un CEO polémico?
 tools: Revolutionizing Mineral Supply: UNECE's New Tools for Sustainable Supply Chains
 crypto: El precio de Bitcoin se dispara: ¿Es este el inicio de una nueva tendencia?
+crypto: Startup Fun Secures $72 Million to Bridge the Gap Between Crypto and Cash
