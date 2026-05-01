@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-04-30T07:49:13.667450+00:00",
-  "total_candidates": 13,
+  "scouted_at": "2026-05-01T07:47:28.266225+00:00",
+  "total_candidates": 12,
   "topics": [
     {
       "rank": 1,
-      "title": "Comparativa de los 6 mejores fondos indexados al S&P 500 en 2026: ¿Quién lidera en rentabilidad y comisiones?",
+      "title": "Análisis de los cinco fondos de inversión españoles más destacados en 2026: ¿Quién lidera la rentabilidad?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "BBVA alcanza casi 3.000 millones en beneficios y lanza una recompra de acciones de 1.460 millones: ¿Qué significa para los inversores?",
+      "title": "Mejores fondos indexados al MSCI World en 2026: Comparativa de costos entre Fidelity, Vanguard, iShares y Amundi",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Análisis de los mejores roboadvisors en España 2026: ¿Quién ofrece las carteras indexadas más rentables y con menores costos?",
+      "title": "Las inversiones más rentables del sector energético: Oportunidades sorprendentes para los inversores en 2026",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,9 +49,9 @@
   },
   "all_headlines": [
     {
-      "title": "¿Existe algún riesgo de que se produzca un revés en el mercado?",
+      "title": "Cómo posicionarse ante un ciclo de mercado más volátil",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQck13dW11Nk1rWGtHSGwwM3BLR2JrdHNodlNiVW1JS1pnU1hfRFpUVUVERm1oRmlZLWJTcnBQeDRkUXo2YW9BMC1KX0pxUkxMeXk0VU1ZUTFnbUFNTUJWTXJGUTdVTFBoam9hQ01hbEFabWFwR2g0anFzV2RSM3JUdHNBSVV5NV83NklPc193T0pMaU9NRTVWcUdCWFJlOU1pYTVBcQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0wtUU5KZXl4LTVxSGRIMFlkTFdwQktPbFBrRVFGLUZ3UWM1LXBJNFRPbkNGdEdQYmhidG5Na045THcwQl9WUnhqWHBLN1o1R3FIWWtQNFNoWVVOSV91aUVCLU1zQXJyT1daNVlNWUZXUlBSMFBZMWlKX05ManNSbUx4ZnJRQWpaeHJXOUY2bmlKbWhsOUdv?oc=5"
     },
     {
       "title": "Así invierten los cinco fondos de inversión españoles con más patrimonio en 2026",
@@ -64,14 +64,14 @@
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPckJoUmR1dGl5enREVHF6QU5hbWVQRVFpTUtmUGhoOG13bnlUNmo3eVIxR1dweHZyemtOWjJBR3VpQkJGYjRJMjdhTTlHQ0wzY2ZCQ1NtZF9CaUJYQzhjcjNwck5VV3FJWllYVVU5aDNyeTNJQmFiN1laUGRObzFVTTVScEp5TW9HWFFsMURid2V4TExkSFFHNW5kRlpzM2U0XzFyQWl4dWtzV21MWkpsUWFLdDVwbWdCcll4SUt1WDJqT3ZuNlFxSkFXWTA0T2Q5dW1pX0ZfZjAxMzY3ZGJPYmgydHE4b1k2TUxxdmVEc2RNZw?oc=5"
     },
     {
-      "title": "ArcelorMittal reduce su beneficio un 29%, pese a mejorar márgenes y ventas",
+      "title": "Mejores inversiones: ¿cómo y dónde invertir en 2026?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMXVGcExjRGVLN2luSGNZMUFvT3FGX1JKVjd5aC03R1h6WVV2QWctZzBYTm1DQ1FYSm9pZWtCMXRKeTVnbXZyTEZiM1dOalgtMm8yVEViY3NCU2FFTUZzYlJsT01xdHZMdndzUXF3RXhXNnN1V3hnNmxyN3FNb29aUV9xaDRlRkYtclM1TW4xT2F0dkxZMTJQU0xtcXNuU1JoX3Y0QkxhOVEtMUFCOG5mWnF5Y2RNemFHM1A2bThVMlM5TFVRVnfSAZ8BQVVfeXFMTkFKTDN4b1J0dDJXMzJfRFNCUXV0Wjc2Tl9WWkphcHhjM0xpYzN4NlVtTGJ0R0pSQ1FOZnplNEZFZExmbGRQdE81RmhUbW9MZjFZWEZMd3pNbUZDVG5UenVhQnVSX2o0S2lhdlJWRGtRV3RBaDZ0WUZkdG5kZ2paSVpqYXhYMEtFT2lHeXFxdE9vQUZUU014NFhaY3V1MWF3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUhVakZkMUgwYXJtd0NTeUkxd3pwQXV2YTczWFJ0NDFoU0R0RVFuOVJyaVZkQURIMC1TWEYzbnNnbEFjYTh5X1BQZERTMFpadzFOMU8zZm5EdkRSdjFiOEMtSjA5bi1rLWdRenk2ckNWRnlGV3BlcmFnUHFGaG40Q2hYcUpmaDNpdUNFNmdnQk03bFE?oc=5"
     },
     {
-      "title": "Así invierten los cinco fondos de inversión españoles con más patrimonio en 2026",
+      "title": "Los mejores fondos de renta variable 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR211NXk5b0JmcnhCTXNQeXJMeTZaTTNsd2xFS0pMalFzNjc4YzlaVUhTejlNVjIzN2E3SktzbjA3NFY5ei1qejVpNjcwa29uQTFrYkxyRUE1cFRVaXRMYTBmWV9aWG5ZdlJ1MFFuS1NWZENXR3gzVTU5Y2h3YWdkMEZvMnhPUG1zbHZEWE44SG96dFV3c2RUSTV3cjNtZTZtdk92TkhTSUJSRmxJLVc1VzhuNElMc05jaHZYWloyd19KTUstYzhrSUU3VXdlM00?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOelpkUlF3SEM5V1VLQjJqUmlFeF8xZW45NmU1bEE0VTVpc1FrRU1yWmRieWVhSnFYLVAtYTBWSngzcGg2WFh6TUp3cXg3SVBZb3puZkkxSG52eTB2LUMyeGR1c25rUlQtdUtWOU01N2J4akNvdEF2VndJYmtsVlhRMFdxWWZhQ2NPWnc?oc=5"
     },
     {
       "title": "«A medida que más españoles se educan financieramente, el ETF como referencia para el retail va a seguir ganando terreno, es inevitable»",
@@ -79,19 +79,9 @@
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZl9nZzl0WjlJOWFhcG5VX0M1dDI5ZlVWcDZhc1dCSDhwcWpPQjlETXNqQUxCMjhxREFiWmJHblJNX01YQUlwSW9hWXcwS1RPdDBlMXVEc29hdWlyakhEdVp2ZFk4bVRTeExDS3o0ZWpwNjAtWnNydnNVRDlkOFdrNG1HVUd0S1U0UUF2S1g4aGRPZi16S3l1WElUNXNqUXI1ZzNpZVM3TmpNSVU5VDVXTDd4VzVBOVJ0dE5JMjVZaWZPdmp5VXJYeXlpVk5fZUhibVN0aW0zVG1nRGtwMlNPTDdpRzl6dlFIUnVEQ3d4TDJiT0U0WWMtd3o5c3AtMV9HRWpYN3dqVWNwOXFpVVdz?oc=5"
     },
     {
-      "title": "Los 6 mejores fondos indexados al S&P 500 en 2026: comparativa y rentabilidad",
+      "title": "Planes de pensiones indexados 2026: ¿cuál es el mejor?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk0tQzEzSHNxaDZzZVF1WUc3NFo5d2NWUjZPbDBWRHpMajdLZVBiTUo2QUVRRmtlblVQaHoxMzFuWmY1MFRJLWFMRUhkY2dQd1BfTHRhQUlLSnVwQXhWTTlMQ0JVelhoNDA2LWxYRmpvRmo1S19veHJjTkFsaUVjYVZxTVpOclNZQ1NuZXVudUpXQTRLVmdmS3Z1UkhNR3I4LW1sLTBB?oc=5"
-    },
-    {
-      "title": "BBVA roza los 3.000 millones de beneficio (+10,8%) y lanza recompra de acciones de 1.460 millones",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR2t1eHRVcnhEanMtSGpUZ1NlbVIxR1ozMXhwTC1yLUxBbXFYbHhYdi1iOHB0aXdpOFhmVkNsZ0szLXRqYjhWX3piTk55ek90T2dTNVpLMjhkaXRIVExXd1otMk12WW8ycjFVQm5NdkJFdFdRSjJlTDZENjZzLW1kQ2NzRzdnNU1rQWJVU21NQnVUTWV5dlZUQXFQQ25SaDktMlhMRnhBZ1dzUFBubHFXekRBQTVFa1VYcHJJaDMtc09hWXNZY3fSAZ8BQVVfeXFMTXUwTXdQeEpHaW5xMERHM2kyWTZTdzlKS2k5V3ozTEtCQTduSEp5WEgzdTRuRlJOa3FVTFhLRi1XazJGcTUwNDNlckJzdTZWbmgxVjlYVllja3FNbEU1RUdGWEFFdGRpaTlkRUx6ZTNTMlJnUUZIZHota2M1YlhvU2kzUS1qOW0tTVVsdkFQSzdneFU1TUNpZWdrb0dWaXFF?oc=5"
-    },
-    {
-      "title": "Mejores fondos indexados al MSCI World en 2026: Fidelity, Vanguard, iShares y Amundi",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTRoMW5WbU9pSXFjSEZLSHh5ckdGLUt1M0Fhd1lLNWlaT0R3Y3dxdVI2REZfV01mbURNMHRuUFlwMlFqREpTajA5cmVkTGRnZkZwenh0d2t2UGplU2U3bnV2aVkwLVp5Q0FNV0tHRnRhTkZ4WHdwcHhKMk1UUVZ3VnlBcW5TREV0cHU2T3B4TmNPc1RGdU5LcWlITWZkRC01VkdmUkxJQnV4OWdNQkdjeHA0dnY2UDMtSENwVnZ3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZndVSWJhSlpWT2Zsc2x5aUFWUlpVZnBpVjk3a2Jqa0pIUlBvQTNHTnB2MmVYczhGTEhKR1Q0WTZJRFBtc2dibkszVUF6cXpjQXZRLTRSbGFNSEhBcHNBeVdnSFhCaEcwbFloN1pGcVFCLW9LZzRWOWNBRmp0V3F1Z3VsTjBma196VGZXd3FrQ3lVMG9KNkJWQmhQUm1Qb0lSdFVxVA?oc=5"
     },
     {
       "title": "Redeia gana 140,3 millones hasta marzo (+1,8%) y mantiene un dividendo de 0,80 euros",
@@ -99,19 +89,24 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTUlXZzRiUHhEbUduLWpTMmp5RlphdzZrR0tRTDJLcDEtd2lBOXh6ZjJ4MkNCWXN1eFV5RlVVUzFSTklzOWRBdloxQWxXR18tZ2FHRklDb0JqdGFmT0RIc29PV04yTjllcFFlUi1zSjh6R0hrbE1RZjNlVkVNdzdVdzFtSjZnOFpZeHh5VTNWd1lEQlRHblhYWUwtU0t0dm01Sm5tNzdhM0lPbzJweXlOa2ZpRGVuNDNaOFNuZ0NyMUhJeGZkWUZ2MTdfaEbSAaYBQVVfeXFMT19fVDh5STN0bVdiUF84cmVYMmZKaElFUWp6X0ZUSHlmeENNeThldnVtUkZ4MWd5Z0ZkSTExUkRQWllJY25CNGdyODNYTFVnTUpsWWlmaTJydlVYZWxhamhvQWpFeDMwaEhLcGUxaTByZlJndE5XMGFvbzk5QWxXRGIxS3F6NFJBRDRTZFRXQW5ZZ2NKVFViaDJWbkpadFBCMGwydWF2dw?oc=5"
     },
     {
-      "title": "Mejores roboadvisors España 2026: comparativa y análisis de carteras indexadas",
+      "title": "Así invierten los cinco fondos de inversión españoles con más patrimonio en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmo2OHJlNC1CUlN5bGZWeFN0dnFEN2xUbGw5aUltNXJRV0FKaFFWbFFQY0dqa2FoQ1I0Y3UtNGxUeG1sZEVjUmxZTmJjcGlTRXpmVWRQYm9hREh1b2cteW04c0VCcFFHTmtsbEc3MlVYeEp6SEF3VzJ3eG03ZzJyMDVyajc1dWozNUhCV0dxQUQxWGxQQ0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR211NXk5b0JmcnhCTXNQeXJMeTZaTTNsd2xFS0pMalFzNjc4YzlaVUhTejlNVjIzN2E3SktzbjA3NFY5ei1qejVpNjcwa29uQTFrYkxyRUE1cFRVaXRMYTBmWV9aWG5ZdlJ1MFFuS1NWZENXR3gzVTU5Y2h3YWdkMEZvMnhPUG1zbHZEWE44SG96dFV3c2RUSTV3cjNtZTZtdk92TkhTSUJSRmxJLVc1VzhuNElMc05jaHZYWloyd19KTUstYzhrSUU3VXdlM00?oc=5"
+    },
+    {
+      "title": "Una gran oportunidad para los inversores en bolsa, el sector energético",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSThoTzdud2NrTkhsczBkU2hQOWtobDNWRWgyYVY2aFN6T2NlRmg4UlBMd2NNdzRqU21YbjY5WXZlT3VYdFRoTVI4VDNpWUtvdEptQ21LNG5ycDlqRzFMYWk5VzhsNHU1enpUUDJQbzcxVW9sMjhuaXVMb3MxalVGbFhEWmwwVWM3bEN3Q0ROYlAya1Y5RWZpQUszQ0JnS3FLVlU5a3pBZmdXUFpqWS1hbENHS3lzcTlwdUo5blBLNXRyOWZwbFhiOVZpRdIBpAFBVV95cUxQUU5BLVFHR3E4U2pWb2hDU1E5QU5sWlJNT1NoNS1pczRkczNPRDFFOGFlTFJYazNPMVlBdE9qS1FBMklrc0JhblN0N0t6VFlMYk1ncktldFhhZjZQUXlRczh5cWlwNWVLUFBlUEJWdU8zUHctaFFvTlZXZUQ5WGJRcmVXU3VBMDRPMEhZOTJYYnhpMTUyMVp0VV9hRHhQZU1tSXJnUw?oc=5"
+    },
+    {
+      "title": "Mejores fondos indexados al MSCI World en 2026: Fidelity, Vanguard, iShares y Amundi",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTRoMW5WbU9pSXFjSEZLSHh5ckdGLUt1M0Fhd1lLNWlaT0R3Y3dxdVI2REZfV01mbURNMHRuUFlwMlFqREpTajA5cmVkTGRnZkZwenh0d2t2UGplU2U3bnV2aVkwLVp5Q0FNV0tHRnRhTkZ4WHdwcHhKMk1UUVZ3VnlBcW5TREV0cHU2T3B4TmNPc1RGdU5LcWlITWZkRC01VkdmUkxJQnV4OWdNQkdjeHA0dnY2UDMtSENwVnZ3?oc=5"
     },
     {
       "title": "Planes de pensiones de Indexa Capital: análisis completo (2026)",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUk9PdTB0cmJ5N2JMQlhnN3AtSFFNZkJzZGFkUVRvbVE5bmZYeDJ3aFJOanhwZnRNeTVMMW1UdHVWMHRzX1NCSklrMi1xMkhJN0h1ejJodXEwdndmbHU0X0IzN2Uxd29STlRINmNsQXBHc1R4eU1XT0laVkFNRUswTHJHQXhha0VCTHZCNHdibzFYNDhuRFdESXpZVnN5d2V4TlEw?oc=5"
-    },
-    {
-      "title": "Mejores roboadvisors España 2026: comparativa y análisis de carteras indexadas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmo2OHJlNC1CUlN5bGZWeFN0dnFEN2xUbGw5aUltNXJRV0FKaFFWbFFQY0dqa2FoQ1I0Y3UtNGxUeG1sZEVjUmxZTmJjcGlTRXpmVWRQYm9hREh1b2cteW04c0VCcFFHTmtsbEc3MlVYeEp6SEF3VzJ3eG03ZzJyMDVyajc1dWozNUhCV0dxQUQxWGxQQ0E?oc=5"
     }
   ]
 }
