@@ -1,8 +1,8 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-01T09:07:26.552755+00:00",
-  "total_candidates": 15,
+  "scouted_at": "2026-05-01T09:08:31.956734+00:00",
+  "total_candidates": 21,
   "topics": [
     {
       "rank": 1,
@@ -121,9 +121,34 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb041dnFINjYwX2JMdFFpQmR1RzVkejg2UFRPelJKWFFlYXZyZFprc3VvcS1uc1dseEk3RnZXMDZkMlpNTm9wV2ZGN1BPaUhyQUtIQUpNNmRpbTFXUWh1RmdqMzk1Q0FxYTIyd0dZam40Zi1ZaHBndUhRYkpIUzVBNlY5VHhGS2czYzlvX0xDTGM5bFhraHVHSHpieGYydWZCZ0dQOV8wNVVfdkFoaVBoemVHTWpJSmFncDVERHVPYlFzV3hvZ20w?oc=5"
     },
     {
-      "title": "SMH Was the One of the Best-Performing Non-Leveraged ETFs of the Last Decade. Here Is the Concentration Risk Investors Miss",
+      "title": "10 Best High-Yield Savings Accounts Of April 2026: Up to 5.00% APY",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOT1QzbXl1SjlPdzZfeTRGTk5YejBRS3FsNHdWdnV6RmNIMS1nbDRHa0xTemljM29ST0gtMUZpZ0VOTDlMMXB3RXBaa01OTGdyOTlJcmhRX09KSzF0dWRaa21NRFNjb3Z2UWxzMmtyc0lCT2V3V0p5QmU2TGZvTENETExKMU5qcTRXci1BLWVQRHprRWxobURXTlVRT1h0UnotMjZTMmhIQ3FTanRJcndFczZZdE1yOWdWTG5KdjRoT21DTlhCcE9wRE5GT1lJMV94M2lob1h2aVh2aDFGM2kwclZQbHRpTzBLbkpKWjJtTmV3SzF2ajRBelVn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3FScG9fM0lUTlZ4bmIzS1J3eUVmNmljVlN1dVVnYy10V3hYQ0VFMHo4UUROeHlzalJOSG5tSFRfaFY4Z1A0RHoxQUh3TW5HMmNFejlQeG5ENmx2QVlWZU9kMHZ3ejhkS2FOVFR6MllpXzlFNVlILWItbG9QV3NWN3kzS2VEVWc?oc=5"
+    },
+    {
+      "title": "Vanguard Growth ETF (VUG) to Split 6:1 on April 21, 2026, Aiming to Increase Investor Accessibility.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Fidelity Launches Four New Small- to Mid-Cap Growth and Value ETFs with Expense Ratios of 0.23% to 0.28%.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Morningstar's New Medalist Rating Methodology Boosts Ratings, Especially for Index, Allocation, and Bond Funds.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Vanguard Lowers Expense Ratios Across 84 Mutual Fund and ETF Share Classes, Projecting Nearly $250 Million in 2026 Investor Savings.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Emerging Market ETFs Experience Strong Inflows, Surpassing Full-Year Totals, with Over $35 Billion YTD.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
