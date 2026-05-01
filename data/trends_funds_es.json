@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-01T07:47:28.266225+00:00",
-  "total_candidates": 12,
+  "scouted_at": "2026-05-01T07:48:47.020104+00:00",
+  "total_candidates": 11,
   "topics": [
     {
       "rank": 1,
-      "title": "Análisis de los cinco fondos de inversión españoles más destacados en 2026: ¿Quién lidera la rentabilidad?",
+      "title": "Los mejores fondos de renta variable 2026: ¿quién lidera el ranking con un retorno del 15%?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Mejores fondos indexados al MSCI World en 2026: Comparativa de costos entre Fidelity, Vanguard, iShares y Amundi",
+      "title": "Mejores fondos indexados al MSCI World en 2026: comparativa de comisiones entre Fidelity, Vanguard y Amundi.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Las inversiones más rentables del sector energético: Oportunidades sorprendentes para los inversores en 2026",
+      "title": "Planes de pensiones de Indexa Capital 2026: ¿puede su rentabilidad del 8% superar a la competencia?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -48,11 +48,6 @@
     }
   },
   "all_headlines": [
-    {
-      "title": "Cómo posicionarse ante un ciclo de mercado más volátil",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0wtUU5KZXl4LTVxSGRIMFlkTFdwQktPbFBrRVFGLUZ3UWM1LXBJNFRPbkNGdEdQYmhidG5Na045THcwQl9WUnhqWHBLN1o1R3FIWWtQNFNoWVVOSV91aUVCLU1zQXJyT1daNVlNWUZXUlBSMFBZMWlKX05ManNSbUx4ZnJRQWpaeHJXOUY2bmlKbWhsOUdv?oc=5"
-    },
     {
       "title": "Así invierten los cinco fondos de inversión españoles con más patrimonio en 2026",
       "source": "google_news_finance",
