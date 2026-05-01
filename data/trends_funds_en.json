@@ -1,8 +1,8 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-01T07:50:54.353979+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-05-01T07:52:06.790041+00:00",
+  "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
@@ -129,6 +129,26 @@
       "title": "10 Best High-Yield Savings Accounts Of April 2026: Up to 5.00% APY",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3FScG9fM0lUTlZ4bmIzS1J3eUVmNmljVlN1dVVnYy10V3hYQ0VFMHo4UUROeHlzalJOSG5tSFRfaFY4Z1A0RHoxQUh3TW5HMmNFejlQeG5ENmx2QVlWZU9kMHZ3ejhkS2FOVFR6MllpXzlFNVlILWItbG9QV3NWN3kzS2VEVWc?oc=5"
+    },
+    {
+      "title": "Vanguard lowers expense ratios across 53 funds, totaling nearly $250 million in fee reductions for 2026, impacting 84 mutual fund and ETF share classes.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "SEC expands co-investment relief to open-end funds, including mutual funds and ETFs, allowing them to invest alongside affiliated funds in private credit and private equity.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Roundhill Investments targets May 5th for the launch of prediction market ETFs designed to track US election outcomes for the 2026 midterms and 2028 presidential race.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Total estimated outflows from long-term mutual funds were $11.17 billion for the week ended April 22, 2026, according to the Investment Company Institute.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
