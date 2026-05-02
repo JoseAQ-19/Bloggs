@@ -1078,3 +1078,4 @@ viral: Chandler Rivers' Epic Draft Night Video: The Story Behind the Buzz
 fitness: Dive into Strength and Recovery at Huntington Beach's Hottest New Fitness Studio
 funds: Tres fondos indexados al Nasdaq 100 en España que superan el 25% en 2026
 funds: Morningstar Achieves 100% Integration of CRSP into Its Indexes
+funds: Morningstar Completes 100% Integration of CRSP into Its Indexes
