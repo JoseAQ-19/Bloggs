@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-01T07:48:47.020104+00:00",
-  "total_candidates": 11,
+  "scouted_at": "2026-05-02T07:34:14.549509+00:00",
+  "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "Los mejores fondos de renta variable 2026: ¿quién lidera el ranking con un retorno del 15%?",
+      "title": "Los 3 fondos indexados al Nasdaq 100 en España: ¿Cuál supera el 25% de rentabilidad en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Mejores fondos indexados al MSCI World en 2026: comparativa de comisiones entre Fidelity, Vanguard y Amundi.",
+      "title": "Mejores ETFs 2026: ¿Cuáles lograron un rendimiento del 15% o más en el último año?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Planes de pensiones de Indexa Capital 2026: ¿puede su rentabilidad del 8% superar a la competencia?",
+      "title": "Comparativa de planes de pensiones indexados 2026: ¿Cuál ofrece las tarifas más bajas y el mejor rendimiento?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,29 +49,39 @@
   },
   "all_headlines": [
     {
-      "title": "Así invierten los cinco fondos de inversión españoles con más patrimonio en 2026",
+      "title": "México mantiene grado de inversión: DBRS Morningstar confirma calificación “BBB” en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR211NXk5b0JmcnhCTXNQeXJMeTZaTTNsd2xFS0pMalFzNjc4YzlaVUhTejlNVjIzN2E3SktzbjA3NFY5ei1qejVpNjcwa29uQTFrYkxyRUE1cFRVaXRMYTBmWV9aWG5ZdlJ1MFFuS1NWZENXR3gzVTU5Y2h3YWdkMEZvMnhPUG1zbHZEWE44SG96dFV3c2RUSTV3cjNtZTZtdk92TkhTSUJSRmxJLVc1VzhuNElMc05jaHZYWloyd19KTUstYzhrSUU3VXdlM00?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORWU2R2NLdWdDU0VVa2tVbUJCY3l5TlVOSlZyMEN6Z05DLTJDRkhtT1Z6eGNwSU9qanVaSnFYYnAzM1RXUG1zbUx4Sjg3VVRwV2ZxSlFQZGRfOW9uTVRKTnJEM05yUEdvRFRLS0I3NlM0V09tMnlFc0FHeUtLNmF3Vnlub05rNi0tY1NITGtLci0zbF9WZEdDLWh3NUcteHg3Z3Y5VGJwZUZsTkZBMkdZTjdrd3U4Y3h0RzBTYldxT1hUMFh2eUpuRkdmQdIB5gFBVV95cUxNdEk5N2oyWlZXSDFNZDlsallDUVFpYU1XOXBMNDVDZXhaMWJ5andGSkUyWWk0Ujk3NF9XVGVBLUdBeDl3TjdHdERYNmZVaUZvaVBkcldBLWFzczNDLThheEhXdWZHQ3hZdVN5aTNxbnFDMDJDNDBvTHNWQ3NUNXVmdTFLVlp2MWtCUk1ROU1XU3BYRUZYZ0lyZTlabm1CMnk0UThMeWVmT2ZpeGJpU2VrSmRFNHRkSzdMdDQ3TVRWdE5WSjd2eENNRVNpWk92eXAtTXVERHlfWGhMVFB2SHIxQlA1a25OQQ?oc=5"
     },
     {
-      "title": "De Balay al Top 3 europeo; el legado empresarial de Alfredo Sarto Pina que hoy compite con los grandes fondos internacionales",
+      "title": "DBRS Morningstar valora la estabilidad macroeconómica de México al confirmar la nota “BBB”",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPckJoUmR1dGl5enREVHF6QU5hbWVQRVFpTUtmUGhoOG13bnlUNmo3eVIxR1dweHZyemtOWjJBR3VpQkJGYjRJMjdhTTlHQ0wzY2ZCQ1NtZF9CaUJYQzhjcjNwck5VV3FJWllYVVU5aDNyeTNJQmFiN1laUGRObzFVTTVScEp5TW9HWFFsMURid2V4TExkSFFHNW5kRlpzM2U0XzFyQWl4dWtzV21MWkpsUWFLdDVwbWdCcll4SUt1WDJqT3ZuNlFxSkFXWTA0T2Q5dW1pX0ZfZjAxMzY3ZGJPYmgydHE4b1k2TUxxdmVEc2RNZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdEk5N2oyWlZXSDFNZDlsallDUVFpYU1XOXBMNDVDZXhaMWJ5andGSkUyWWk0Ujk3NF9XVGVBLUdBeDl3TjdHdERYNmZVaUZvaVBkcldBLWFzczNDLThheEhXdWZHQ3hZdVN5aTNxbnFDMDJDNDBvTHNWQ3NUNXVmdTFLVlp2MWtCUk1ROU1XU3BYRUZYZ0lyZTlabm1CMnk0UThMeWVmT2ZpeGJpU2VrSmRFNHRkSzdMdDQ3TVRWdE5WSjd2eENNRVNpWk92eXAtTXVERHlfWGhMVFB2SHIxQlA1a25OQdIB5gFBVV95cUxNdEk5N2oyWlZXSDFNZDlsallDUVFpYU1XOXBMNDVDZXhaMWJ5andGSkUyWWk0Ujk3NF9XVGVBLUdBeDl3TjdHdERYNmZVaUZvaVBkcldBLWFzczNDLThheEhXdWZHQ3hZdVN5aTNxbnFDMDJDNDBvTHNWQ3NUNXVmdTFLVlp2MWtCUk1ROU1XU3BYRUZYZ0lyZTlabm1CMnk0UThMeWVmT2ZpeGJpU2VrSmRFNHRkSzdMdDQ3TVRWdE5WSjd2eENNRVNpWk92eXAtTXVERHlfWGhMVFB2SHIxQlA1a25OQQ?oc=5"
     },
     {
-      "title": "Mejores inversiones: ¿cómo y dónde invertir en 2026?",
+      "title": "Las mejores plataformas para invertir en fondos de inversión en 2026 (mayo)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUhVakZkMUgwYXJtd0NTeUkxd3pwQXV2YTczWFJ0NDFoU0R0RVFuOVJyaVZkQURIMC1TWEYzbnNnbEFjYTh5X1BQZERTMFpadzFOMU8zZm5EdkRSdjFiOEMtSjA5bi1rLWdRenk2ckNWRnlGV3BlcmFnUHFGaG40Q2hYcUpmaDNpdUNFNmdnQk03bFE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnNsTkpKYkxxYmVjdEM3ZkpJU214X0FSLUhrOUNHbUg1aWRaaGdUSmlwQmZWdWgxVWVfUVF3WXc3dVotSnB4T3RQVllZclNIMkxZbUVEb21ueDMxbDJsTzZjSDJkNHZRaERMNHlXcWRBWlMwUWg3Z3l2MVlpNFB0UWxBQXp2dGREUnQ4MzRfRWoxazRtdmxvTm1qY3VnVmxDX0R3Z3hjM2hJT0Fy?oc=5"
     },
     {
-      "title": "Los mejores fondos de renta variable 2026",
+      "title": "Mejores depósitos a plazo fijo en abril 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOelpkUlF3SEM5V1VLQjJqUmlFeF8xZW45NmU1bEE0VTVpc1FrRU1yWmRieWVhSnFYLVAtYTBWSngzcGg2WFh6TUp3cXg3SVBZb3puZkkxSG52eTB2LUMyeGR1c25rUlQtdUtWOU01N2J4akNvdEF2VndJYmtsVlhRMFdxWWZhQ2NPWnc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LRWxmMGdGS1hZYThBNjdRWTZKQjk5bGRCMXltMzJVcnlQY1ppQ1QybzJPUTFLUEQ2YktCSFNaQ3dvbkxabnQ0MmpVelljcG1lTTdVczJaRU03VVFwbFZIUG1iQ3ppMVgxSVlXQnZSb2FiRnRCQ0VGX1psTQ?oc=5"
     },
     {
-      "title": "«A medida que más españoles se educan financieramente, el ETF como referencia para el retail va a seguir ganando terreno, es inevitable»",
+      "title": "Mejores ETFs 2026: ¿cuáles son los más rentables? (mayo)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZl9nZzl0WjlJOWFhcG5VX0M1dDI5ZlVWcDZhc1dCSDhwcWpPQjlETXNqQUxCMjhxREFiWmJHblJNX01YQUlwSW9hWXcwS1RPdDBlMXVEc29hdWlyakhEdVp2ZFk4bVRTeExDS3o0ZWpwNjAtWnNydnNVRDlkOFdrNG1HVUd0S1U0UUF2S1g4aGRPZi16S3l1WElUNXNqUXI1ZzNpZVM3TmpNSVU5VDVXTDd4VzVBOVJ0dE5JMjVZaWZPdmp5VXJYeXlpVk5fZUhibVN0aW0zVG1nRGtwMlNPTDdpRzl6dlFIUnVEQ3d4TDJiT0U0WWMtd3o5c3AtMV9HRWpYN3dqVWNwOXFpVVdz?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczlMN0huT2xjRVhyR0k2UV9QVlN1NkVhUG1TUnR4ZFlXT2k2djgzOWJiTzNYNWV4LU1MMnZCZ0FvSTR5NWp5bTROT2FUbTJRQkoxbHh1WWdxX1V5clpidGRwOU1RR0dkWjZRZlZFVml0UWdBLVJWZGlRaHFNWndTRVluYlhwZVBVTjBjRzJTNUhzQQ?oc=5"
+    },
+    {
+      "title": "Mejor Bróker para ETFs desde España [2026]",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUNXdVlhNkd1LWZzOWloaWp6T1dkTXc2TU5WcmVEX2F6MzNHTS1VSTNpWnVuRHlLa2tiSy1CM1ZvYW10QldxdmpHOTIwbmgyaXBfZnk3b2hYRFgzR1g3SDZxMHhSZ2NQamwtdU14SUFSQnY2dHNaLWJMMzZwSTdZcmswWQ?oc=5"
+    },
+    {
+      "title": "3 fondos indexados al Nasdaq 100 en España: ¿Cuál es mejor?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkV0ekl2X3pMSk1TRzlfWFg4bWNPd3RfTmhyOVBhZ1JQQkR4eW9pVVppck90WGJVQ3RfSWlHclVuMEtDVlNjVi1HVDJ3eEQwZV85RWEyOGFRQUp3NWh0M0w5UTR6cm85X0VYQWlFMFdaYy05UmRNVFZiU0dnSmpmdkJYeDNBQUdTVHh1aTRoempGbUZLWW1haE9CRlBLOWs?oc=5"
     },
     {
       "title": "Planes de pensiones indexados 2026: ¿cuál es el mejor?",
@@ -79,29 +89,9 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZndVSWJhSlpWT2Zsc2x5aUFWUlpVZnBpVjk3a2Jqa0pIUlBvQTNHTnB2MmVYczhGTEhKR1Q0WTZJRFBtc2dibkszVUF6cXpjQXZRLTRSbGFNSEhBcHNBeVdnSFhCaEcwbFloN1pGcVFCLW9LZzRWOWNBRmp0V3F1Z3VsTjBma196VGZXd3FrQ3lVMG9KNkJWQmhQUm1Qb0lSdFVxVA?oc=5"
     },
     {
-      "title": "Redeia gana 140,3 millones hasta marzo (+1,8%) y mantiene un dividendo de 0,80 euros",
+      "title": "Mejores depósitos bancarios a plazo fijo 2026 (mayo)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTUlXZzRiUHhEbUduLWpTMmp5RlphdzZrR0tRTDJLcDEtd2lBOXh6ZjJ4MkNCWXN1eFV5RlVVUzFSTklzOWRBdloxQWxXR18tZ2FHRklDb0JqdGFmT0RIc29PV04yTjllcFFlUi1zSjh6R0hrbE1RZjNlVkVNdzdVdzFtSjZnOFpZeHh5VTNWd1lEQlRHblhYWUwtU0t0dm01Sm5tNzdhM0lPbzJweXlOa2ZpRGVuNDNaOFNuZ0NyMUhJeGZkWUZ2MTdfaEbSAaYBQVVfeXFMT19fVDh5STN0bVdiUF84cmVYMmZKaElFUWp6X0ZUSHlmeENNeThldnVtUkZ4MWd5Z0ZkSTExUkRQWllJY25CNGdyODNYTFVnTUpsWWlmaTJydlVYZWxhamhvQWpFeDMwaEhLcGUxaTByZlJndE5XMGFvbzk5QWxXRGIxS3F6NFJBRDRTZFRXQW5ZZ2NKVFViaDJWbkpadFBCMGwydWF2dw?oc=5"
-    },
-    {
-      "title": "Así invierten los cinco fondos de inversión españoles con más patrimonio en 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR211NXk5b0JmcnhCTXNQeXJMeTZaTTNsd2xFS0pMalFzNjc4YzlaVUhTejlNVjIzN2E3SktzbjA3NFY5ei1qejVpNjcwa29uQTFrYkxyRUE1cFRVaXRMYTBmWV9aWG5ZdlJ1MFFuS1NWZENXR3gzVTU5Y2h3YWdkMEZvMnhPUG1zbHZEWE44SG96dFV3c2RUSTV3cjNtZTZtdk92TkhTSUJSRmxJLVc1VzhuNElMc05jaHZYWloyd19KTUstYzhrSUU3VXdlM00?oc=5"
-    },
-    {
-      "title": "Una gran oportunidad para los inversores en bolsa, el sector energético",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSThoTzdud2NrTkhsczBkU2hQOWtobDNWRWgyYVY2aFN6T2NlRmg4UlBMd2NNdzRqU21YbjY5WXZlT3VYdFRoTVI4VDNpWUtvdEptQ21LNG5ycDlqRzFMYWk5VzhsNHU1enpUUDJQbzcxVW9sMjhuaXVMb3MxalVGbFhEWmwwVWM3bEN3Q0ROYlAya1Y5RWZpQUszQ0JnS3FLVlU5a3pBZmdXUFpqWS1hbENHS3lzcTlwdUo5blBLNXRyOWZwbFhiOVZpRdIBpAFBVV95cUxQUU5BLVFHR3E4U2pWb2hDU1E5QU5sWlJNT1NoNS1pczRkczNPRDFFOGFlTFJYazNPMVlBdE9qS1FBMklrc0JhblN0N0t6VFlMYk1ncktldFhhZjZQUXlRczh5cWlwNWVLUFBlUEJWdU8zUHctaFFvTlZXZUQ5WGJRcmVXU3VBMDRPMEhZOTJYYnhpMTUyMVp0VV9hRHhQZU1tSXJnUw?oc=5"
-    },
-    {
-      "title": "Mejores fondos indexados al MSCI World en 2026: Fidelity, Vanguard, iShares y Amundi",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTRoMW5WbU9pSXFjSEZLSHh5ckdGLUt1M0Fhd1lLNWlaT0R3Y3dxdVI2REZfV01mbURNMHRuUFlwMlFqREpTajA5cmVkTGRnZkZwenh0d2t2UGplU2U3bnV2aVkwLVp5Q0FNV0tHRnRhTkZ4WHdwcHhKMk1UUVZ3VnlBcW5TREV0cHU2T3B4TmNPc1RGdU5LcWlITWZkRC01VkdmUkxJQnV4OWdNQkdjeHA0dnY2UDMtSENwVnZ3?oc=5"
-    },
-    {
-      "title": "Planes de pensiones de Indexa Capital: análisis completo (2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUk9PdTB0cmJ5N2JMQlhnN3AtSFFNZkJzZGFkUVRvbVE5bmZYeDJ3aFJOanhwZnRNeTVMMW1UdHVWMHRzX1NCSklrMi1xMkhJN0h1ejJodXEwdndmbHU0X0IzN2Uxd29STlRINmNsQXBHc1R4eU1XT0laVkFNRUswTHJHQXhha0VCTHZCNHdibzFYNDhuRFdESXpZVnN5d2V4TlEw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
     }
   ]
 }
