@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-02T07:34:14.549509+00:00",
+  "scouted_at": "2026-05-02T07:35:28.758480+00:00",
   "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "Los 3 fondos indexados al Nasdaq 100 en España: ¿Cuál supera el 25% de rentabilidad en 2026?",
+      "title": "Descubre los 3 fondos indexados al Nasdaq 100 en España que superan el 25% de rentabilidad en 2026",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Mejores ETFs 2026: ¿Cuáles lograron un rendimiento del 15% o más en el último año?",
+      "title": "Los mejores ETFs de 2026: ¿Cuáles ofrecen un rendimiento inesperado superior al 20%?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Comparativa de planes de pensiones indexados 2026: ¿Cuál ofrece las tarifas más bajas y el mejor rendimiento?",
+      "title": "Comparativa de planes de pensiones indexados 2026: ¿Cuál ofrece la mejor rentabilidad ajustada a comisiones?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
