@@ -1080,3 +1080,4 @@ funds: Tres fondos indexados al Nasdaq 100 en España que superan el 25% en 2026
 funds: Morningstar Achieves 100% Integration of CRSP into Its Indexes
 funds: Morningstar Completes 100% Integration of CRSP into Its Indexes
 ia: La IA que crea virus: ¿la solución definitiva contra las superbacterias?
+ia: Cruz Sets Sights on 2028: Iowa's Political Stage Heats Up
