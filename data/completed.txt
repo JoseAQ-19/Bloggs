@@ -1095,3 +1095,4 @@ fitness: Unlocking Longevity: How Staying Fit After 40 Can Transform Your Life
 funds: Fondos de inversión 2026: el líder alcanza un 15% de rentabilidad
 funds: Morningstar Indexes Achieve 100% Integration with CRSP: A Landmark Transformation
 funds: Morningstar Indexes Gain 30% Value from CRSP Integration Milestone
+ia: Meta pierde terreno: Análisis de JPM revela un cambio radical en la IA
