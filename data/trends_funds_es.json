@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-03T07:37:48.832220+00:00",
+  "scouted_at": "2026-05-03T07:39:11.212590+00:00",
   "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "Los 5 fondos de inversión más rentables de 2026: ¿Cuáles superan el benchmark en un 20%?",
+      "title": "Los fondos de inversión más rentables de 2026: ¿Quién lidera con un 15% de rentabilidad?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa de las mejores plataformas para invertir en fondos en 2026: ¿Quién ofrece las tarifas más bajas?",
+      "title": "Comparativa de los mejores ETFs de 2026: ¿Cuáles superan el 20% de retorno?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Mejores ETFs de 2026: ¿Cuáles han logrado un retorno del 15% en el último trimestre?",
+      "title": "Análisis de los mejores roboadvisors en España: ¿Quién ofrece carteras indexadas con un 1,5% en comisiones?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
