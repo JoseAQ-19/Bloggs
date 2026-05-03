@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-02T07:35:28.758480+00:00",
+  "scouted_at": "2026-05-03T07:37:48.832220+00:00",
   "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "Descubre los 3 fondos indexados al Nasdaq 100 en España que superan el 25% de rentabilidad en 2026",
+      "title": "Los 5 fondos de inversión más rentables de 2026: ¿Cuáles superan el benchmark en un 20%?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Los mejores ETFs de 2026: ¿Cuáles ofrecen un rendimiento inesperado superior al 20%?",
+      "title": "Comparativa de las mejores plataformas para invertir en fondos en 2026: ¿Quién ofrece las tarifas más bajas?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Comparativa de planes de pensiones indexados 2026: ¿Cuál ofrece la mejor rentabilidad ajustada a comisiones?",
+      "title": "Mejores ETFs de 2026: ¿Cuáles han logrado un retorno del 15% en el último trimestre?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -59,14 +59,14 @@
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdEk5N2oyWlZXSDFNZDlsallDUVFpYU1XOXBMNDVDZXhaMWJ5andGSkUyWWk0Ujk3NF9XVGVBLUdBeDl3TjdHdERYNmZVaUZvaVBkcldBLWFzczNDLThheEhXdWZHQ3hZdVN5aTNxbnFDMDJDNDBvTHNWQ3NUNXVmdTFLVlp2MWtCUk1ROU1XU3BYRUZYZ0lyZTlabm1CMnk0UThMeWVmT2ZpeGJpU2VrSmRFNHRkSzdMdDQ3TVRWdE5WSjd2eENNRVNpWk92eXAtTXVERHlfWGhMVFB2SHIxQlA1a25OQdIB5gFBVV95cUxNdEk5N2oyWlZXSDFNZDlsallDUVFpYU1XOXBMNDVDZXhaMWJ5andGSkUyWWk0Ujk3NF9XVGVBLUdBeDl3TjdHdERYNmZVaUZvaVBkcldBLWFzczNDLThheEhXdWZHQ3hZdVN5aTNxbnFDMDJDNDBvTHNWQ3NUNXVmdTFLVlp2MWtCUk1ROU1XU3BYRUZYZ0lyZTlabm1CMnk0UThMeWVmT2ZpeGJpU2VrSmRFNHRkSzdMdDQ3TVRWdE5WSjd2eENNRVNpWk92eXAtTXVERHlfWGhMVFB2SHIxQlA1a25OQQ?oc=5"
     },
     {
+      "title": "Mejores fondos de inversión 2026: los más rentables",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmlaaVhPZlJub1dXM1JkMm1iTE82UEZRNXRxOEhMd2k0TGRpUmw5S2tRWW8zMlVOWTJDY015dFpCemRWdjliekowY2l2S3V3cl8yTER3NTJXV3JYYkxWeDZ3SjVBQV9fUG1JRXBxYjBMYUxvejliSlhTYXc0TnVKNE04NldVMDEtOVNZSFplTXFRQXpRMmc?oc=5"
+    },
+    {
       "title": "Las mejores plataformas para invertir en fondos de inversión en 2026 (mayo)",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnNsTkpKYkxxYmVjdEM3ZkpJU214X0FSLUhrOUNHbUg1aWRaaGdUSmlwQmZWdWgxVWVfUVF3WXc3dVotSnB4T3RQVllZclNIMkxZbUVEb21ueDMxbDJsTzZjSDJkNHZRaERMNHlXcWRBWlMwUWg3Z3l2MVlpNFB0UWxBQXp2dGREUnQ4MzRfRWoxazRtdmxvTm1qY3VnVmxDX0R3Z3hjM2hJT0Fy?oc=5"
-    },
-    {
-      "title": "Mejores depósitos a plazo fijo en abril 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LRWxmMGdGS1hZYThBNjdRWTZKQjk5bGRCMXltMzJVcnlQY1ppQ1QybzJPUTFLUEQ2YktCSFNaQ3dvbkxabnQ0MmpVelljcG1lTTdVczJaRU03VVFwbFZIUG1iQ3ppMVgxSVlXQnZSb2FiRnRCQ0VGX1psTQ?oc=5"
     },
     {
       "title": "Mejores ETFs 2026: ¿cuáles son los más rentables? (mayo)",
@@ -74,24 +74,24 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczlMN0huT2xjRVhyR0k2UV9QVlN1NkVhUG1TUnR4ZFlXT2k2djgzOWJiTzNYNWV4LU1MMnZCZ0FvSTR5NWp5bTROT2FUbTJRQkoxbHh1WWdxX1V5clpidGRwOU1RR0dkWjZRZlZFVml0UWdBLVJWZGlRaHFNWndTRVluYlhwZVBVTjBjRzJTNUhzQQ?oc=5"
     },
     {
-      "title": "Mejor Bróker para ETFs desde España [2026]",
+      "title": "Mejores roboadvisors en España (2026): comparativa y análisis de carteras indexadas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUNXdVlhNkd1LWZzOWloaWp6T1dkTXc2TU5WcmVEX2F6MzNHTS1VSTNpWnVuRHlLa2tiSy1CM1ZvYW10QldxdmpHOTIwbmgyaXBfZnk3b2hYRFgzR1g3SDZxMHhSZ2NQamwtdU14SUFSQnY2dHNaLWJMMzZwSTdZcmswWQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmo2OHJlNC1CUlN5bGZWeFN0dnFEN2xUbGw5aUltNXJRV0FKaFFWbFFQY0dqa2FoQ1I0Y3UtNGxUeG1sZEVjUmxZTmJjcGlTRXpmVWRQYm9hREh1b2cteW04c0VCcFFHTmtsbEc3MlVYeEp6SEF3VzJ3eG03ZzJyMDVyajc1dWozNUhCV0dxQUQxWGxQQ0E?oc=5"
     },
     {
-      "title": "3 fondos indexados al Nasdaq 100 en España: ¿Cuál es mejor?",
+      "title": "Invertir en Renta Fija: situación actual y perspectivas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkV0ekl2X3pMSk1TRzlfWFg4bWNPd3RfTmhyOVBhZ1JQQkR4eW9pVVppck90WGJVQ3RfSWlHclVuMEtDVlNjVi1HVDJ3eEQwZV85RWEyOGFRQUp3NWh0M0w5UTR6cm85X0VYQWlFMFdaYy05UmRNVFZiU0dnSmpmdkJYeDNBQUdTVHh1aTRoempGbUZLWW1haE9CRlBLOWs?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
     },
     {
-      "title": "Planes de pensiones indexados 2026: ¿cuál es el mejor?",
+      "title": "Mejores depósitos a 3 meses en España de mayo 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZndVSWJhSlpWT2Zsc2x5aUFWUlpVZnBpVjk3a2Jqa0pIUlBvQTNHTnB2MmVYczhGTEhKR1Q0WTZJRFBtc2dibkszVUF6cXpjQXZRLTRSbGFNSEhBcHNBeVdnSFhCaEcwbFloN1pGcVFCLW9LZzRWOWNBRmp0V3F1Z3VsTjBma196VGZXd3FrQ3lVMG9KNkJWQmhQUm1Qb0lSdFVxVA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3haOEQ2RWtabHZCajBSRndFSjBhWm9VZDFqU043R1VRdWJtNUwwQThiSlBYMGFSRC1TcS14Zl9RQ3JUNWw5UUFGLU5ULWl1TnJLVHNUZjhfRllBay1BdUczWEVLVHNDcVRkaW9DV1J6Wnc2T3htSDFqQzZ2T2Z0ZF9lZUZkQQ?oc=5"
     },
     {
-      "title": "Mejores depósitos bancarios a plazo fijo 2026 (mayo)",
+      "title": "Mejores brókers para invertir: comparativa 2026 (mayo)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWNHb3VNQnJ3UVNGUmJtZmVVSnBMd093MDNyeERXZTBYeDRJQ01VaGxFdWhFMVVCUHR4TFhWeDljbjBxb3gzLWJzUndiUW1VOXBNOEJEdnNDUVdJcFExbXFEamJHTlh6MHlIVGN5UmFKa2FSa3RrTWNucXRpb0lOYWFRQVZ0cXJzOGprVHUyYVFqS3Jib1M4?oc=5"
     }
   ]
 }
