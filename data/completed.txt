@@ -1103,3 +1103,4 @@ crypto: ¿El fin de las stablecoins? La reflexión de a16z Crypto que está camb
 crypto: Crypto Takes a Backseat: Voter Priorities Shift Ahead of Midterms
 crypto: 39% of Americans Ditch Savings for Crypto Betting: What This Means for the Future
 youtube: YouTube da un gran paso: marcas ahora pueden acceder a datos de consumo de creadores
+youtube: The Future of Advertising: Why Brands Must Embrace Creation in an AI-Driven World
