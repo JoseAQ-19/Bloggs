@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-04T08:01:38.316580+00:00",
+  "scouted_at": "2026-05-04T08:03:08.268654+00:00",
   "total_candidates": 23,
   "topics": [
     {
       "rank": 1,
-      "title": "XAEL-AI: Redefining a New Way of AI-Driven Investment and Profitability",
+      "title": "Berkshire Hathaway's Record $380 Billion Cash Hoard: What This Means for Investors in Q1 2026",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Berkshire Hathaway Earnings: Cash Hits Record USD 380 Billion on Stock Sales and Solid Q1 Results",
+      "title": "Vanguard's 27% Fee Cut Across 84 Funds: How This Will Save Investors $250 Million by 2026",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Kornitzer Capital Management Inc. KS Decreases Stake in Morningstar, Inc. $MORN",
+      "title": "JPMorgan Unveils 3 Shifts Transforming the $19.5 Trillion ETF Market: Are Your Investments Prepared?",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -101,14 +101,19 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3RjZvanhtekZHS1RwS2tsaXVtc1E2S3hjNjMzZ3MwaU9FbzBUVnlYVkU4eWxfdVFhMkZVeVFRVW44MG1kcnNwbF9sZ1c3azJxUVRyTjZ2Snl5Qm9GX05TT3dlUjFzdjVHN3BvX2F6bmtlQUc2QkdyLXBKbXA?oc=5"
     },
     {
+      "title": "Concentration Risk High as Top Two Stocks Steer U.S. Communication Services ETF Performance",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcFJXbTdnV3hQand3djEzbVlNTV9aRXlXNC02czdnNVhGQkIyQ0lYcVU2T21Ud280d1gyblVNLWp6UGVuQ2FZX3g1MzkzTWlJRXFyS3hoZFNRX1FpTnRtbE9oMHJ2S1FpSUpVNkEwN096bjRwZElxekxZUXJObkVEcExZUERLS0hFakN2TGZFRTBWOEpFOXE2aHJnOWhYTTlSMFVKYmZuSG80NGNacTdlaUxONGVyYjgwN3NHLTN0dVFiUVFBVEFOQjNNTmRmQVU?oc=5"
+    },
+    {
       "title": "Is VXUS the Smartest Way to Own the Entire World Outside the U.S.?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JTjJKMmdHalRSaWNmZEFtY25EY0RKaVNhbUpxTmgwUkZUdjFuX0xTSGc2alRrbXVKbGtmT0FLeTlHLUpRY0FsMFVESUpyc2NOYXVkZFpyVklxWXVLb2NiUUhpOHJ0SGM3bjV2V1N0VE9MVW4zS3VzTm5Bbw?oc=5"
     },
     {
-      "title": "Invesco India BSE Sensex Index Fund Regular-Growth",
+      "title": "MF Tracker: Baroda BNP Paribas Mid Cap Fund turns Rs 10,000 SIP to Rs 1.55 crore in 20 years",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVE0YmVWTE5lbVY4RVRwTU5xaFFZU1JqaE5BT21SclM1aUNMRDVPS29MYk9kZ0ZGaElyQ21ONDNrRVR6WHhsdXdWNjlwYkgzMmF5bVdWOUFkdkZsZ0FLTXFXMU5LbGRFc3duc1U4bEpkM1FtZlJNbDNXOFMwVE5RY3UtYTFIWUMzMG9yV0duTkxKV1REWmpfLVNQX1kxanQyVVd0dVRIcVdFQ3NONUgw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNVFFdGFZb0xrTjN1Z3ZxZk9QOG9vZFRxNE1LS2s2cVlMZ01ZbnlzQk1CbWpRaTRPNWpXVkdHNHVzaFlfNDZpN3NvdkgxX3FCTVVsTkpBMHF4SVdNclI0R3BsZkdKVUFjeUQyQjdZcXFkQkJoZlI4b3lHU1RoQXlZenk2X2ZndWZvdnZfTWc4NFZRWGIyNXpoekN5Ni0wRnNHc1FWMUpwZ1ByZ3Z3SVpRT09Mc0pVSF9xZGVxNjhGcm93SVF1YkZ5TEIyNXY2REtDeFlWTUltdkY3NUVnel9XcEhzS2FlUzdFOG1LSGZpbTZtQdIB8gFBVV95cUxQNVFFdGFZb0xrTjN1Z3ZxZk9QOG9vZFRxNE1LS2s2cVlMZ01ZbnlzQk1CbWpRaTRPNWpXVkdHNHVzaFlfNDZpN3NvdkgxX3FCTVVsTkpBMHF4SVdNclI0R3BsZkdKVUFjeUQyQjdZcXFkQkJoZlI4b3lHU1RoQXlZenk2X2ZndWZvdnZfTWc4NFZRWGIyNXpoekN5Ni0wRnNHc1FWMUpwZ1ByZ3Z3SVpRT09Mc0pVSF9xZGVxNjhGcm93SVF1YkZ5TEIyNXY2REtDeFlWTUltdkY3NUVnel9XcEhzS2FlUzdFOG1LSGZpbTZtQQ?oc=5"
     },
     {
       "title": "JPMorgan says 3 trends are shifting the $19.5 trillion ETF market. If you hold index funds or ETFs, here’s what’s coming",
@@ -121,11 +126,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUNxeGM1LXdPRTV6eU9sU3gxdV95VWtVRzdISkJHZGktX0tka05pZV83R3c0bjRabkZiTUdBLXBGd2lybTR2aDdKQksxOVNtdHBuaEpnWlVnZjB2bjhTbXVKcUtUNDdkWmlDY2VnaXpHSVZ0S24xN3JGQWY2aHNSTGFpZm4xSlFWY0JYelNrTjlEUTdsV1VJ?oc=5"
     },
     {
-      "title": "The 10 Best Performing Stocks in the Last 25 Years",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94bW9GakVSbmMxM0l0SVQtSkJsVkg4ZjlsUFBDLWgzQVoxck00TWhINzN6SWJkdnhIWm5ORm8wZWhYcEZzT0l3dEFWR0RVWmNrTTJrUjB0RTdRSDBZVXM5MHZNOEZianlJRUJCZWR2cDEwQ1JD?oc=5"
-    },
-    {
       "title": "Best S&P 500 Funds for 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyM0RYV1daOEUtdGxLU3dCazU1XzJCeTJ6eGo3WlVlZWROUXdsYm1JaFMzZl9RaEt2czZyUWdBQ21HZ2ZITl9tc2JUMFpmWXpzQ2JkZnNNLUVlQUVGWmZSdXhNN0hfaklOR00ySmpCY25MaDQ?oc=5"
@@ -136,17 +136,17 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3RjZvanhtekZHS1RwS2tsaXVtc1E2S3hjNjMzZ3MwaU9FbzBUVnlYVkU4eWxfdVFhMkZVeVFRVW44MG1kcnNwbF9sZ1c3azJxUVRyTjZ2Snl5Qm9GX05TT3dlUjFzdjVHN3BvX2F6bmtlQUc2QkdyLXBKbXA?oc=5"
     },
     {
-      "title": "Vanguard High Dividend Yield ETF (VYM) Outperforms S&P 500 with an 8% Year-to-Date Gain Amid Market Volatility.",
+      "title": "Vanguard Slashes Fees Across 84 Funds, Delivering $250 Million in 2026 Savings; Average Cut is 27%",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Fidelity Stock Selector Mid Cap Fund (FSSMX) Gains 4.21% in Q1 2026, Exceeding S&P MidCap 400® Index's 2.50% Advance.",
+      "title": "Fidelity Stock Selector Mid Cap Fund (FSSMX) Gains 4.21% in Q1 2026, Outperforming S&P MidCap 400 Index",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard Slashes Fees Across 53 Funds, Translating to $250 Million in Savings for Investors in 2026; Average Cut is Approximately 27%.",
+      "title": "SEC Proposes New Rules to Modernize Mutual Fund and ETF Reporting, Enhancing Data Quality and Investor Access",
       "source": "gemini_grounding_finance",
       "url": ""
     }
