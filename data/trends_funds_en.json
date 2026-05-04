@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-03T09:02:43.261140+00:00",
-  "total_candidates": 20,
+  "scouted_at": "2026-05-04T08:01:38.316580+00:00",
+  "total_candidates": 23,
   "topics": [
     {
       "rank": 1,
-      "title": "A Key Milestone in the Integration of CRSP Into Morningstar Indexes",
+      "title": "XAEL-AI: Redefining a New Way of AI-Driven Investment and Profitability",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar (NASDAQ:MORN) Upgraded to Buy at Wall Street Zen",
+      "title": "Berkshire Hathaway Earnings: Cash Hits Record USD 380 Billion on Stock Sales and Solid Q1 Results",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "DoubleLine Yield Opportunities Fund Declares May 2026 Distribution",
+      "title": "Kornitzer Capital Management Inc. KS Decreases Stake in Morningstar, Inc. $MORN",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,9 +51,24 @@
   },
   "all_headlines": [
     {
-      "title": "A Key Milestone in the Integration of CRSP Into Morningstar Indexes",
+      "title": "XAEL-AI: Redefining a New Way of AI-Driven Investment and Profitability",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMXpJMUZFaWNKQ3B1VU9kanYtQWx4N3RoalkwVENDUmZZU0pWaWhhTDJ0clh6cm1yZVZfdW14anRKRTJuWlQ4c1NMSXFhcDhqd2RVYk15VGpiSmdjcU9VZkQxTzJXNXhDclRqQjhOVjc1RkVZRjM3OXNTaXZWY3ZxR3h6cThvY0R6NmpsMHpSUkMzX2FMU3Frcll0LVBGWnY3d0JNMDBIY2Z1aFFvSVZUOW82aW9XZHdZdmtuaXNlMjZob2piQjExb1VoMXllZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTlNURGtDQWczNjdTS19yTkpXbjBhSEJCeTRKczhaMGl4WWJWYmNpd0I5ZWpZZXVVaGZSR2dWOXc0QVVYWksxdVJhR2JUVVNMaDVrY0IybHJPYjVsV1BfWmIwaGt0WVR3SWkwT1ZGVUFGcEFGZFlVZUdieXd5ZnNMYktrTlFETGVfRF9Fa0p1RG1oTnFMV2l3eTZ4eGlEbjg1R2tWVzNZTGozTXRZWnk5NmJuLVNSZU9UdzRRcFVmck5HY00?oc=5"
+    },
+    {
+      "title": "Berkshire Hathaway Earnings: Cash Hits Record USD 380 Billion on Stock Sales and Solid Q1 Results",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOejVIejJXcWt4dXFTbWktdnctbWZpdFozeVh6MTlPdy11eEs3NWRJZUpwZm9OT0VPdWZMR1NXaHNZbTBxczhrdmFJcEVldlROdVhSUEMxaTkzVTE4cDlBSnZVTEdPY2FER29GZVo2SjlMR0toS2pxay1CWWI0RFFOc3A3akN5RkF1UHgwYm5SYXhtelFzRnZEVGVwYVhVRW9kRElnTlZFSXgxXzE1ZkpwLTVyWjVaanhqc3Z0MlJkTGZVRV9iN3lwNmkwSG5GZw?oc=5"
+    },
+    {
+      "title": "Kornitzer Capital Management Inc. KS Decreases Stake in Morningstar, Inc. $MORN",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFUydmVDb0pjeU1tWEFQNWFKVzU3dlBTMmpQQkpaVEZmVVBFWGpsdzEyM0cycTVxY0Mwd3RJQVNJV0ZuVUE3bDFOZ2lJNFM0REo1T2g0VllVQk9oM3hyYmUxN1c1N2hpbnVuNFp3MzBuemg5VERCQ2pNY3lOaHlyME9LcUlSRzFzOGNRUFBZcWRlZjNJdHZkSkpyNUxGNEYtUDZvUVJCRHlEMkpqdTJ3blljUm9rSmJ4RFlmR3QyU3FfcjZhR2dRRGVwYzNzM1FnbkE?oc=5"
+    },
+    {
+      "title": "Seneca Capital Partners Announces $120,000,000 Portfolio Disposition of Seneca Capital Income Real Estate Fund II, L.P.",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQblpjVDF2aGY1X2xQNkZqNnhvVWxZQkJiUU1JWndfLWZwcXJLQS1Sbk5VdVM2WWFmcDE5WnNfWnhWdWxjQkRXbWw3RWVua2xEcUhBRWZ5aEdCSkM5QkNrV3c5cXZDc2gtU0xvVnYzUm1OOUt4SWdMbnNIekFORUdDd3pIelNxSEx5YW5lejNjbHpSWjFuNkVadU9XWHBvUVNWRmY0TnRPMVBrb2lRMzdJTnk0SnhDdFotNTRFSk9kWllNcm1XeEJENF9BUVhQWnlrQVBjZGM2aHlLTnJZN0NwUy1LVlBjNGVCd3AwZHEzTXl6Unl2RC0tTWUwU3ZtLUcxYno0MjR3?oc=5"
     },
     {
       "title": "Morningstar (NASDAQ:MORN) Upgraded to Buy at Wall Street Zen",
@@ -61,24 +76,29 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ3J4QjNpQ2ZxSC1sR2JvSF9tTFVUaEhsR01fcVhNSnJHOEJyTmVuVnJuMXpnR2hyNGNaNlVPaUpDRnRVenI1TUV5V096OE5EdDladndUSE9BVEU5c2tMamdkQWJ2Sl9GNE4wNnNWTWVIc0dLUnNFNnprc2EyNGlWWDdzNDd0a0d2MmN5UTVCZm94RGcwQkZoNlhDTEVQcTU1WVc1Nk9WSjRGVmdnbDkyZA?oc=5"
     },
     {
-      "title": "DoubleLine Yield Opportunities Fund Declares May 2026 Distribution",
+      "title": "5 Best Closed-End Funds for 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaE93SGhwemJZZFVmRTUydGZTcGp3bGZRbGRhbGR0NzIxTFowQS0yQUxrWUdOU01tYnEwb1FEMnVzeEtxRm5PdGZuN2Z4M2ladndJVVIyYWJJWnp4cWpzaWVIb0pibk9kVUxvdV9LOGZybDR1YjRPZ0NCVkhkd2JKRUtmc2Z0dE1MZy1lNm1KQTRoT3FvQkFCQm1fZnViX0dpWGU1aGU1UWxXVmdrOGg4TTFYQU00WkpCQTU5a1ZZVXMwU3pDS0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3RjZvanhtekZHS1RwS2tsaXVtc1E2S3hjNjMzZ3MwaU9FbzBUVnlYVkU4eWxfdVFhMkZVeVFRVW44MG1kcnNwbF9sZ1c3azJxUVRyTjZ2Snl5Qm9GX05TT3dlUjFzdjVHN3BvX2F6bmtlQUc2QkdyLXBKbXA?oc=5"
     },
     {
-      "title": "DoubleLine Opportunistic Credit Fund Declares May 2026 Distribution",
+      "title": "3 Gold-Rated Schwab Index Funds You Can Buy for a Buck",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaHA4ejFxaUxvVFN4RDh6NXJhbmFhZndUQndFZzRSWVhUdmlRb0hfanVrLWpQYkNTb3lScDItY2dDbE9UbjJsT19taGFMb1RPdl9vYXJBQ3J0anp1aW4wbzdla0hiM1BFVWdaZ0s1NV9JN0ZxZko5QUYyQUVlcnJZZ240OWtGU2RuNkRTa1ktZVpXcWEyQVFUaDI5RVc5YzJpU0VIb2xISm0yMGk2QWN5dFFVQ2VXRTVwMHBxLTJOZTkzU2o2eURF?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2NfdWZibHV1bVFROF9jTVBKRm5BVV9sWUdxcWRhYjc0MWN6WXo1Ti0ycjMyekxYaEFOdWxUam1iTy1GWEVENGF4UlF6d1ptemY1bVEyNlZrMGtLSjNCVEw5M3lKd1lDYWwwQlptZFV6enFtaUduVGVtdktsMmhwY1JWV1lqam9fcW1oQXd2SkdhT3Ntdy1jeldydlBxYjg?oc=5"
     },
     {
-      "title": "DoubleLine Income Solutions Fund Declares May 2026 Distribution",
+      "title": "Best Copper ETFs for 2026 and How to Invest",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRlc4OUFFZ0haUkdKLU92NXlMMG5UaUE3Y2lwaUZrTGVsSDFIYzRjeXg2M203eUtoVy1hMDVxRDJWclotclFXYUhfNEdXSTFMOEIyU25BZFNJR25mcDFQaUU2NEs3b2xqQVpxRHExQU5DUVVteWE3LURNWkN6aVFIM2tFWEZoVVJXdFBua0JJNThkSG5yaWRFTndUTTR0STY2d0VsSnRjUzEzZzg4VzlwMU5iNVg0aVNEVS10alFQb2FTUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSHpCMG1GQ3pyS3Etb1lMWEd4S25sZkltQ0RpX0kyN0x3SGN6ckdDaTdUWjVKZ2owZUMwcDRqSWUzckN2dWlGcmVjZGR6TWtuS0s1azh4WXNWUVJoVzU4QlMtWVRDZGo5VXB4UUQxbHRWUURXbUZSVTFQQzFWc21tUlhIYUEzXzEzLUNrYlB6eko0N0drRmwxUjc5VE5XRjJ4eEQwNlpmME5MUHBP?oc=5"
     },
     {
-      "title": "Aberdeen Investments U.S. Closed-End Funds Announce Distribution Payment Details",
+      "title": "Best S&P 500 Funds for 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONkN4YXNMaEZ1WnhLSXU3SGlJdi1wbktWSEFrbGRyU01KYzUtSUJ1RkVRMzNtc1htTDNlWXExTFIxNk12TXlPOHpuOUhLMFozQ0dsaXlNNmZmZW5oemVNVFpyNHlTeXdZYldoeUU1Q2xrMlVwVE9RMi1XZ3MxMUI5ZGtfOE5hV0ZPZWVOTEFCaWdPLUlEUEFEQ0p5ajktMTA4Y0pRNWFfMFdSaDhLRmM0WjR6RDhTUmhYSW9uNWFtaU4xQmdTTkk2b2lBRHdreWhydmd2OFVn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyM0RYV1daOEUtdGxLU3dCazU1XzJCeTJ6eGo3WlVlZWROUXdsYm1JaFMzZl9RaEt2czZyUWdBQ21HZ2ZITl9tc2JUMFpmWXpzQ2JkZnNNLUVlQUVGWmZSdXhNN0hfaklOR00ySmpCY25MaDQ?oc=5"
+    },
+    {
+      "title": "5 Best Closed-End Funds for 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3RjZvanhtekZHS1RwS2tsaXVtc1E2S3hjNjMzZ3MwaU9FbzBUVnlYVkU4eWxfdVFhMkZVeVFRVW44MG1kcnNwbF9sZ1c3azJxUVRyTjZ2Snl5Qm9GX05TT3dlUjFzdjVHN3BvX2F6bmtlQUc2QkdyLXBKbXA?oc=5"
     },
     {
       "title": "Is VXUS the Smartest Way to Own the Entire World Outside the U.S.?",
@@ -86,24 +106,9 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JTjJKMmdHalRSaWNmZEFtY25EY0RKaVNhbUpxTmgwUkZUdjFuX0xTSGc2alRrbXVKbGtmT0FLeTlHLUpRY0FsMFVESUpyc2NOYXVkZFpyVklxWXVLb2NiUUhpOHJ0SGM3bjV2V1N0VE9MVW4zS3VzTm5Bbw?oc=5"
     },
     {
-      "title": "Top Vanguard ETFs for Retirement: VOO, VTI, VXUS and More",
+      "title": "Invesco India BSE Sensex Index Fund Regular-Growth",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUNxeGM1LXdPRTV6eU9sU3gxdV95VWtVRzdISkJHZGktX0tka05pZV83R3c0bjRabkZiTUdBLXBGd2lybTR2aDdKQksxOVNtdHBuaEpnWlVnZjB2bjhTbXVKcUtUNDdkWmlDY2VnaXpHSVZ0S24xN3JGQWY2aHNSTGFpZm4xSlFWY0JYelNrTjlEUTdsV1VJ?oc=5"
-    },
-    {
-      "title": "Concentration Risk High as Top Two Stocks Steer U.S. Communication Services ETF Performance",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcFJXbTdnV3hQand3djEzbVlNTV9aRXlXNC02czdnNVhGQkIyQ0lYcVU2T21Ud280d1gyblVNLWp6UGVuQ2FZX3g1MzkzTWlJRXFyS3hoZFNRX1FpTnRtbE9oMHJ2S1FpSUpVNkEwN096bjRwZElxekxZUXJObkVEcExZUERLS0hFakN2TGZFRTBWOEpFOXE2aHJnOWhYTTlSMFVKYmZuSG80NGNacTdlaUxONGVyYjgwN3NHLTN0dVFiUVFBVEFOQjNNTmRmQVU?oc=5"
-    },
-    {
-      "title": "Best ESG ETFs to Buy in 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVmNWX1lMUWJiSk5JVXB1YWNocVVRbkh0UU1aUWc5eWFTZDc0eWRoOVZvVmdFUW1VU2xjV1RMZlJvekJtM0ZNVjdPOTlIVzQwdHEwbkpPaEx1MTJFNlktLTJHWFJKTnZKN2Rxa0hnaDVwWFNCWnI4TVdKeUdkR2tHeGQ4VEc3MUlmQ1ZR?oc=5"
-    },
-    {
-      "title": "Edelweiss Nifty Next 50 ETF Fund info",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU3pKVzlWWVBVSkVuXzQ1bjJieEVYUW1uRHhRME1vek8wYlBEcWN5TGx1QTNPa2xMaWxPMV9iTFMycXdWbHNjUWI3TDRIYUV1Yk1ncDNaWGc2cGJLV1hvNXUwNzE0RExWcnVYU2VpNi1WalpXS0M1ejR3aXl2Q1NacXM4MFZiQmtBbUFwWnpTN3o?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVE0YmVWTE5lbVY4RVRwTU5xaFFZU1JqaE5BT21SclM1aUNMRDVPS29MYk9kZ0ZGaElyQ21ONDNrRVR6WHhsdXdWNjlwYkgzMmF5bVdWOUFkdkZsZ0FLTXFXMU5LbGRFc3duc1U4bEpkM1FtZlJNbDNXOFMwVE5RY3UtYTFIWUMzMG9yV0duTkxKV1REWmpfLVNQX1kxanQyVVd0dVRIcVdFQ3NONUgw?oc=5"
     },
     {
       "title": "JPMorgan says 3 trends are shifting the $19.5 trillion ETF market. If you hold index funds or ETFs, here’s what’s coming",
@@ -111,42 +116,37 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWDEwcDV4Y0xWazZQT1J3bkFaVGhQNzZhSVdfZldSSE0xZ1FRalh6RXI2V1czcXdQMGhfTEo4RlNVLXNDa3JqUm5YS0dhaWdIdHRoX2Q2RlpxRmJzeVNLYUVLSHhORUdzQWI5U1NoLWFGQmNDX0Y5eVF4Nk5ONUhGdlhNUnFkTEU?oc=5"
     },
     {
-      "title": "S&P 500 vs. Gold: Warren Buffett Said Buy One and Forget the Other",
+      "title": "Top Vanguard ETFs for Retirement: VOO, VTI, VXUS and More",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84dm81emtSYkNIMElNMUpFcDdzQ3JKOE91bkV6U2ZxSU5hcEFXV0dLNDh6elM0MXBlVTRNU3JBSDlkUVl1VmI4UW9FUmlHdTd5ZHdteU9ubG1rR0NwcGlFTVpKQUg0VUpXeDhzX2JiVGZhdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUNxeGM1LXdPRTV6eU9sU3gxdV95VWtVRzdISkJHZGktX0tka05pZV83R3c0bjRabkZiTUdBLXBGd2lybTR2aDdKQksxOVNtdHBuaEpnWlVnZjB2bjhTbXVKcUtUNDdkWmlDY2VnaXpHSVZ0S24xN3JGQWY2aHNSTGFpZm4xSlFWY0JYelNrTjlEUTdsV1VJ?oc=5"
     },
     {
-      "title": "10 Best Water Stocks To Buy Now | 2026 List Of All 43 | Profit From Clean Water",
+      "title": "The 10 Best Performing Stocks in the Last 25 Years",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PaUxCRTF6TDdIaFZFNk5xQ3dMZU4tRTZiZGxRNlZQRzR0TXByX1RMZ2ZfRlpIdEU4LWpPVHRUYUdaMGhfbGczMXNNTkhwaHJ0Rjk1dw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94bW9GakVSbmMxM0l0SVQtSkJsVkg4ZjlsUFBDLWgzQVoxck00TWhINzN6SWJkdnhIWm5ORm8wZWhYcEZzT0l3dEFWR0RVWmNrTTJrUjB0RTdRSDBZVXM5MHZNOEZianlJRUJCZWR2cDEwQ1JD?oc=5"
     },
     {
-      "title": "Vanguard to update names of U.S. Equity Index Funds tracking Morningstar Indexes in July 2026; for example, Vanguard Total Stock Market Index Fund will become Vanguard Morningstar Total Stock Market Index Fund.",
+      "title": "Best S&P 500 Funds for 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyM0RYV1daOEUtdGxLU3dCazU1XzJCeTJ6eGo3WlVlZWROUXdsYm1JaFMzZl9RaEt2czZyUWdBQ21HZ2ZITl9tc2JUMFpmWXpzQ2JkZnNNLUVlQUVGWmZSdXhNN0hfaklOR00ySmpCY25MaDQ?oc=5"
+    },
+    {
+      "title": "5 Best Closed-End Funds for 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3RjZvanhtekZHS1RwS2tsaXVtc1E2S3hjNjMzZ3MwaU9FbzBUVnlYVkU4eWxfdVFhMkZVeVFRVW44MG1kcnNwbF9sZ1c3azJxUVRyTjZ2Snl5Qm9GX05TT3dlUjFzdjVHN3BvX2F6bmtlQUc2QkdyLXBKbXA?oc=5"
+    },
+    {
+      "title": "Vanguard High Dividend Yield ETF (VYM) Outperforms S&P 500 with an 8% Year-to-Date Gain Amid Market Volatility.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Defiance ETFs launches Defiance Daily Target 2X Long POET ETF (POEL), seeking 200% of the daily percentage change in the share price of POET Technologies Inc..",
+      "title": "Fidelity Stock Selector Mid Cap Fund (FSSMX) Gains 4.21% in Q1 2026, Exceeding S&P MidCap 400® Index's 2.50% Advance.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Highland Opportunities and Income Fund (HFRO) announces a regular monthly distribution of $0.0385 per share, payable on May 29, 2026.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Invesco QQQ ETF (QQQ) trades at a forward price-to-earnings (P/E) multiple of 23, with tech sector earnings expected to grow by 38% in 2026.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Vanguard cuts fees on 84 mutual fund and ETF share classes across 53 funds, translating to nearly $250 million in fee reductions for investors in 2026; Vanguard International High Dividend Yield ETF (VYMI) expense ratio drops from 0.17% to 0.07%.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Total estimated outflows from long-term mutual funds were $11.17 billion for the week ended April 22, 2026, according to the Investment Company Institute.",
+      "title": "Vanguard Slashes Fees Across 53 Funds, Translating to $250 Million in Savings for Investors in 2026; Average Cut is Approximately 27%.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
