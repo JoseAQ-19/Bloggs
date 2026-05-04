@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-04T07:58:26.182969+00:00",
+  "scouted_at": "2026-05-04T08:00:01.695366+00:00",
   "total_candidates": 6,
   "topics": [
     {
       "rank": 1,
-      "title": "Analizamos los 3 mejores fondos indexados al Nasdaq 100 en España: ¿Cuál ofrece el mejor rendimiento en 2026?",
+      "title": "¿Cuál de estos 3 fondos indexados al Nasdaq 100 en España ha superado el 30% de rentabilidad en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Eurizon lanza su primer ETF activo de robótica: ¿Cómo se compara con los fondos tradicionales en rentabilidad?",
+      "title": "Eurizon lanza su primer ETF activo de robótica: ¿Puede rivalizar con los líderes del sector en rendimiento?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Los Top ETFs de IA en MyInvestor para 2026: ¿Cuál ofrece la mejor relación costo-rentabilidad para inversores españoles?",
+      "title": "¿Cuál es el ETF de IA más rentable en MyInvestor en 2026? Analizamos sus rendimientos y comisiones.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
