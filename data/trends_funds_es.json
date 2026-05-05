@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-04T08:00:01.695366+00:00",
-  "total_candidates": 6,
+  "scouted_at": "2026-05-05T07:40:51.844518+00:00",
+  "total_candidates": 8,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Cuál de estos 3 fondos indexados al Nasdaq 100 en España ha superado el 30% de rentabilidad en 2023?",
+      "title": "MyInvestor revoluciona su cartera moderada al incluir fondos iShares de BlackRock: ¿Cómo afectará esto a su rendimiento?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Eurizon lanza su primer ETF activo de robótica: ¿Puede rivalizar con los líderes del sector en rendimiento?",
+      "title": "La cartera agresiva de MyInvestor se transforma con los fondos iShares de BlackRock: ¿Qué sorpresas de rendimiento nos depara?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "¿Cuál es el ETF de IA más rentable en MyInvestor en 2026? Analizamos sus rendimientos y comisiones.",
+      "title": "Eurizon lanza su primer ETF activo de robótica: ¿Puede superar a los líderes del sector en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,24 +49,29 @@
   },
   "all_headlines": [
     {
-      "title": "México mantiene grado de inversión: DBRS Morningstar confirma calificación “BBB” en 2026",
+      "title": "Así cambia la cartera moderada Indie del roboadvisor de MyInvestor tras incorporar los fondos iShares de BlackRock",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORWU2R2NLdWdDU0VVa2tVbUJCY3l5TlVOSlZyMEN6Z05DLTJDRkhtT1Z6eGNwSU9qanVaSnFYYnAzM1RXUG1zbUx4Sjg3VVRwV2ZxSlFQZGRfOW9uTVRKTnJEM05yUEdvRFRLS0I3NlM0V09tMnlFc0FHeUtLNmF3Vnlub05rNi0tY1NITGtLci0zbF9WZEdDLWh3NUcteHg3Z3Y5VGJwZUZsTkZBMkdZTjdrd3U4Y3h0RzBTYldxT1hUMFh2eUpuRkdmQdIB5gFBVV95cUxNdEk5N2oyWlZXSDFNZDlsallDUVFpYU1XOXBMNDVDZXhaMWJ5andGSkUyWWk0Ujk3NF9XVGVBLUdBeDl3TjdHdERYNmZVaUZvaVBkcldBLWFzczNDLThheEhXdWZHQ3hZdVN5aTNxbnFDMDJDNDBvTHNWQ3NUNXVmdTFLVlp2MWtCUk1ROU1XU3BYRUZYZ0lyZTlabm1CMnk0UThMeWVmT2ZpeGJpU2VrSmRFNHRkSzdMdDQ3TVRWdE5WSjd2eENNRVNpWk92eXAtTXVERHlfWGhMVFB2SHIxQlA1a25OQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbDMzZFY2SXBTdWVLUENiVHhvT3RFOFhxVE9JV0kwR0FJVEdWUi1teUJHVm1qdE5CbDdwWnVsWFFXY0FfdTZaai1hb1FnTGpVaUk4Z3l4elV6c3U4dUZ6X0VxZnNPeWdub0treXZucmVac3hpX2YyeUZNMWxsWV9FTVg2ZkhrcmM1aTFHWVR5cklvVVZJQ0xxQ1U3Z0t4UVBTRmt3YWJmU2EwRUhrSDRsc3RXVE5pT2RBWEdVUVdOOUE2bXQ4bUlISVo5Z2ZYdE85bmZQVm5pZV9iTmJERHZ4QjRKOHVONVZBSkdBaEJKZUl4NGhVSWdUMGY3dkp6UQ?oc=5"
     },
     {
-      "title": "DBRS Morningstar valora la estabilidad macroeconómica de México al confirmar la nota “BBB”",
+      "title": "La inversión exterior vasca cae en 2025, pero mantiene un peso del 14,5% del total de España",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdEk5N2oyWlZXSDFNZDlsallDUVFpYU1XOXBMNDVDZXhaMWJ5andGSkUyWWk0Ujk3NF9XVGVBLUdBeDl3TjdHdERYNmZVaUZvaVBkcldBLWFzczNDLThheEhXdWZHQ3hZdVN5aTNxbnFDMDJDNDBvTHNWQ3NUNXVmdTFLVlp2MWtCUk1ROU1XU3BYRUZYZ0lyZTlabm1CMnk0UThMeWVmT2ZpeGJpU2VrSmRFNHRkSzdMdDQ3TVRWdE5WSjd2eENNRVNpWk92eXAtTXVERHlfWGhMVFB2SHIxQlA1a25OQdIB5gFBVV95cUxNdEk5N2oyWlZXSDFNZDlsallDUVFpYU1XOXBMNDVDZXhaMWJ5andGSkUyWWk0Ujk3NF9XVGVBLUdBeDl3TjdHdERYNmZVaUZvaVBkcldBLWFzczNDLThheEhXdWZHQ3hZdVN5aTNxbnFDMDJDNDBvTHNWQ3NUNXVmdTFLVlp2MWtCUk1ROU1XU3BYRUZYZ0lyZTlabm1CMnk0UThMeWVmT2ZpeGJpU2VrSmRFNHRkSzdMdDQ3TVRWdE5WSjd2eENNRVNpWk92eXAtTXVERHlfWGhMVFB2SHIxQlA1a25OQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFItLVVqVWZjYzQzRk8tZ25scTNrc1czTVJqa1BuUS00aW5sQmNEUG54cFNXSEtkSklvU1RXcVg1d2FUZUd3TTItZTF0dEhRekNETG92VmhjYklBb3NlSlVuTHBaX3J3QmxqTDV0U1Jrek00WTgyWjF6YmZzYVU5NzRIemJ5QU1yeGdHLVp3SzBUZVg1ZTd6SU10VWliVDVmZVE?oc=5"
     },
     {
-      "title": "3 fondos indexados al Nasdaq 100 en España: ¿Cuál es mejor?",
+      "title": "Finserve Global Security: el fondo para invertir en seguridad",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkV0ekl2X3pMSk1TRzlfWFg4bWNPd3RfTmhyOVBhZ1JQQkR4eW9pVVppck90WGJVQ3RfSWlHclVuMEtDVlNjVi1HVDJ3eEQwZV85RWEyOGFRQUp3NWh0M0w5UTR6cm85X0VYQWlFMFdaYy05UmRNVFZiU0dnSmpmdkJYeDNBQUdTVHh1aTRoempGbUZLWW1haE9CRlBLOWs?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVUtLX01kREl0eWVoX2RzN0taeldxaUtzUEVHamdxZWw1Zl9QNkJVV0ZwY0hYNktQSVNSTnExMnp6N1JRVXdOU0ZwWldnSVBfOU9HY3NsNHlGamxZUGFuY3RleFRvN2NNd1lVaUtqR293TVpYcWptTmhocGFGREJVNnp3R01aZUFEOXZWMnJEMGxuR0dudkgzTDdIMy1IWXNlMTJGa0F1M0Y3UE0?oc=5"
     },
     {
-      "title": "Eurizon da el salto a los ETF activos con un nuevo fondo de robótica",
+      "title": "Banco Sabadell vende TSB a Banco Santander por 3.319 millones de euros",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOUlCclBPdVlTNzlOSGlKSVVoU2xLTmk5N2hhYjVFUUx2eDBwVWtrem1SbXhibXBpamRLekdEZDFzQzlwb2J1ODBJZjNDSlo1dTJ6bktfdExhYllZRV9vdm5ITkRzMlFWdmdmVnpTY05Eai14QW5NbkRvTktLVThiZG82Uy1xZFdWaUY2U2dMZXlqQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSlR0cWJ6MFdNUWlscFFhaDc1eGZZUWZ3S3JYOTZrVE9xY05GT3VENnNGQ3BhVGhIQnYzaGFXSEdUeW12c1p5TVZxRVBGaTdaSC1mbWZNM21uOW9ZTDhlcW9vNHJOQkVRc1VVSTVTbDFKUW9fV2hwMUJfSkwyUWJDeGliN3VNMDZfc185NHN1Z0J4WHZWbU1zTU1WTHRCSGNrV083TUw4OGpkRXY1azRZejFtWGVuWkRHaUdIeEpZVmNyZEJ4WWfSAZ8BQVVfeXFMT0NobkdfazdfNVp4X1J6WUtfNTBsQW11OWlFLVpsV1NYM0Y3MElYVC1LSU4xTEdPeU94Z0hyc2FKajRBV1AybkJPczc4VmNBRDNuTTY0Ti1nTFZ5dVZrcElUd2l5amM5c0V4V0lGajFXTUsxTjRDelE1MjhHYjJpbmRHMXlrbzBIX0tOWU9tb0ZMeExxZlE4VjgwWEpDODFn?oc=5"
+    },
+    {
+      "title": "Así cambia la cartera más agresiva del roboadvisor de MyInvestor tras incorporar los fondos iShares de BlackRock",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPal9XZHFKQ0ZZS2x6aUlOMFM1LW1nVmo5TDZ3TENQcTV0c1Rtd3luRENBY2M3cm5PYW9fSURlN2F6bUQxdVJyeDRrLXc4bzFpdzJzTEt5bkRtdHBKRlR6MmhaUG4tSTJ2OTFPM1NiOWNNU05OazNsRjF4cTh6WFVUbl9CQ1FRME1GSUYtbzdZNUJELUZrQTVsZ1RGcFc5cTBRMm1UeGk0dGE2TTk1ZnN0X3ZiSVc4eEg0Q0Q3ZUhNYzdZdFBPSHlaTjN5ODdSOXF5RGJpU2pabHp1Z1ZmTVktZHNBa09GZXBPVWw0ajFmR21STGhpdjVLV1prYw?oc=5"
     },
     {
       "title": "Top ETFs de IA que puedes comprar en MyInvestor en 2026",
@@ -74,9 +79,14 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55dHRxNVJERUdsNk5ZMllzQ2lVTzBfR3hGU3g2d1VtSnYxeVZyNldhVWpibWV6SzQ2SHV1R0JkOUhXVVZhOEQ1YWZjMlBNWXluSnRQVnNwOUczMnRBWDRoanRPVWswZ281bGtYRUY2Yw?oc=5"
     },
     {
-      "title": "Hasta 1.200 euros: mejores promociones de bancos por domiciliar la nómina (mayo 2026)",
+      "title": "Eurizon da el salto a los ETF activos con un nuevo fondo de robótica",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWk51QU5RallaWDBRTkRxVElBVnpKTkJLQW9MazlJODM3aVpLc0dZTWxmNzdTSXZXNGFxUlU1SWNHOUg5WXRJSjlXWjFoeS1hTExnSWdVNzFjam9BQ1hZTWpvWlJTcWtDeGx2UTl4ODIwU19Pc0Z2NFpNVEloZVNuOTFnMGJna0pMQ1RlYXlUcXE1b3BwSWhEUGdvV1ltV0l0d0RjNEp0b3ZEQk56VnZkLUt5V2VJZ0Z3dHNYU1VtVFRCTGYyM0VydnM5dlZrMV9pdjZFUXFhWQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOUlCclBPdVlTNzlOSGlKSVVoU2xLTmk5N2hhYjVFUUx2eDBwVWtrem1SbXhibXBpamRLekdEZDFzQzlwb2J1ODBJZjNDSlo1dTJ6bktfdExhYllZRV9vdm5ITkRzMlFWdmdmVnpTY05Eai14QW5NbkRvTktLVThiZG82Uy1xZFdWaUY2U2dMZXlqQQ?oc=5"
+    },
+    {
+      "title": "Optimismo para el S&P 500 para fin de año",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN09jemlGUTRHNlphajNFT1NxVmFiV2hRWmcxRVIxV1RNUDdkdzdLMGoyZHRkVGlOcm1JMW9HRTFnUEl2SXZ4bFpkYU13MEhRMUxLV3BDQmZ2MmxhQVJETlp2bHk4YnJoekt1aVF5dkVaU3dXNXFMeGFYZGJ0ZV9lVXVDeTRqNHRqMEhvMGF5bVhqY2VmUk54ZHdSR2dmdF9ONmpCSU9rMk9UdG93bFhxNnMzMHlQNGd6R0lF0gGXAUFVX3lxTFBLWFdoQWJDM0JBWEQtZXA0N29KZXFyY0JYMHo3LWlMTExYR2o2UmxSTXVBYnRHWnlvZ2lGR25mSVpTSnktN2tpZ2syWWJmZG9SM0tuZURhSmpxaFE3OFZTcnRDdXNWOHdyZldTWWw1TTk0Sng3V1ZnSWpQaXVrUTJUQ0t3d09zRTJHY0pVRHI5bWVmOVg5d2M?oc=5"
     }
   ]
 }
