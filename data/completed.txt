@@ -1129,3 +1129,4 @@ fitness: USARJ Soldiers Foster Community and Trust Through Fitness Initiatives
 funds: MyInvestor incorpora iShares de BlackRock en su cartera moderada con un rendimiento del 8%
 funds: Bill Ackman's New Fund Attracts $500 Million from Mexican Investors
 funds: Amazon's New Supply Chain Services: Limited Impact Expected in the Short Term
+ia: El Hospital del Futuro: Innovación sanitaria impulsada por la IA y la investigación clínica
