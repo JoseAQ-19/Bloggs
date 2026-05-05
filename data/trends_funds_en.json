@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-04T09:20:27.900037+00:00",
-  "total_candidates": 23,
+  "scouted_at": "2026-05-05T07:43:38.239766+00:00",
+  "total_candidates": 19,
   "topics": [
     {
       "rank": 1,
-      "title": "Vanguard's International High Dividend Yield ETF Slashes Expense Ratio by 60%: What This Means for Your Returns",
+      "title": "Bill Ackman launches new NYSE-listed fund; Mexican investors participate in the offering",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Cash Hoard at Berkshire Hathaway Hits Record $380 Billion: How to Position Your Portfolio in 2026",
+      "title": "Meitav Investment House to Report First Quarter 2026 Financial Results and Hold a Conference Call on Tuesday May 26, 2026",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Surprising Performance: Vanguard S&P Small-Cap 600 ETF Projected to Outperform S&P 500 with 7.6% Annual Return",
+      "title": "Evergreen Cooperatives' Fund for Employee Ownership Acquires North Coast Sign and Lighting",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -51,34 +51,24 @@
   },
   "all_headlines": [
     {
-      "title": "XAEL-AI: Redefining a New Way of AI-Driven Investment and Profitability",
+      "title": "Bill Ackman launches new NYSE-listed fund; Mexican investors participate in the offering",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTlNURGtDQWczNjdTS19yTkpXbjBhSEJCeTRKczhaMGl4WWJWYmNpd0I5ZWpZZXVVaGZSR2dWOXc0QVVYWksxdVJhR2JUVVNMaDVrY0IybHJPYjVsV1BfWmIwaGt0WVR3SWkwT1ZGVUFGcEFGZFlVZUdieXd5ZnNMYktrTlFETGVfRF9Fa0p1RG1oTnFMV2l3eTZ4eGlEbjg1R2tWVzNZTGozTXRZWnk5NmJuLVNSZU9UdzRRcFVmck5HY00?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWkhtOEdNbGtHSy1yaFB1eUNQUmJLNVFYLXlGXzU3RkJHLV9CeG55bkxZUEwyNVF1S3ZuOWNKeDc2TlZ1NHJaM1BadmwyaG52YTUyTGE5VXYyQ3dmMVB2RWhobTNtU192VDliOTQ3a091Sm9VU1prbmNWNXM5SngwTUFZTm9lcVBUOXRwcWFVbHZva21OaTFjRUw0ekhQaTNFWHEyV3JISFZyYkxvNVdOczN4TG0tdF9hdTdCUDE0Zk5NM1JrVy1Hb1JxMWt3a2hQLWpTaTF3RU1BVzVIRjE2ZGt3?oc=5"
     },
     {
-      "title": "Kornitzer Capital Management Inc. KS Decreases Stake in Morningstar, Inc. $MORN",
+      "title": "Meitav Investment House to Report First Quarter 2026 Financial Results and Hold a Conference Call on Tuesday May 26, 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFUydmVDb0pjeU1tWEFQNWFKVzU3dlBTMmpQQkpaVEZmVVBFWGpsdzEyM0cycTVxY0Mwd3RJQVNJV0ZuVUE3bDFOZ2lJNFM0REo1T2g0VllVQk9oM3hyYmUxN1c1N2hpbnVuNFp3MzBuemg5VERCQ2pNY3lOaHlyME9LcUlSRzFzOGNRUFBZcWRlZjNJdHZkSkpyNUxGNEYtUDZvUVJCRHlEMkpqdTJ3blljUm9rSmJ4RFlmR3QyU3FfcjZhR2dRRGVwYzNzM1FnbkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPYmtIUVYzc1dHV3lzamZUTkpMY0NOZEI4UjV3bldDUkZ2NjdoemlFaFV5OHZ6eVlzWkpITGlMWm1udTZMRjVmbERxMU1sSWdZMXdmdmdYbTBzNjFpcVlCRFU1S2xpSHFPNzlLUmJiQzVXVlhqZVRDRF8xV1E4enNCQmthSjhtcWpkU29pOUZEYzJtTGE2QjI4MkxZZGctUkltMUpUWWFBdXZlZi1rQzBrMEE5YW4xcC1vRExTaWs2bXJoYXJjemJHQjVkY3pkMEVOOXBHT25yWGdWejVvd2hNcWRGLTlyLUhKS09PQi1kdGFyYmRvckg2Sks4blYxQUJic2k3STlQRElLamlUQ0E?oc=5"
     },
     {
-      "title": "5 Best Closed-End Funds for 2026",
+      "title": "Evergreen Cooperatives' Fund for Employee Ownership Acquires North Coast Sign and Lighting",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3RjZvanhtekZHS1RwS2tsaXVtc1E2S3hjNjMzZ3MwaU9FbzBUVnlYVkU4eWxfdVFhMkZVeVFRVW44MG1kcnNwbF9sZ1c3azJxUVRyTjZ2Snl5Qm9GX05TT3dlUjFzdjVHN3BvX2F6bmtlQUc2QkdyLXBKbXA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcE5yYThPRFlvTE9IZUJvSXJ2YkJkalBRNzd1UDVNMXBqUERXRVdpN19HaUFud2tuZ0g4c0tOZVE1WmpuaHBZMGZTV1pLRnRfaklXWnF0T3p3NmxLdW9YWVBQV1pXRUFlakpoUnBRb1pwYk9lanUxM2hGUWxORzMyejU1US1zSFdfaGwtVzFNcVhRekZmZTJLaHI0NlcxbFdkWE5aZmdScjU1eEl2NS1PbUFQUThzMDJWTk1KUHRnclZzeWwyWVV0cEMycHlPX2ZVOUE0X1pUY2J3ZWI1Z0RFdXVTYlM?oc=5"
     },
     {
-      "title": "3 Gold-Rated Schwab Index Funds You Can Buy for a Buck",
+      "title": "Morningstar (NASDAQ:MORN) Chairman Joseph Mansueto Sells 7,250 Shares",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2NfdWZibHV1bVFROF9jTVBKRm5BVV9sWUdxcWRhYjc0MWN6WXo1Ti0ycjMyekxYaEFOdWxUam1iTy1GWEVENGF4UlF6d1ptemY1bVEyNlZrMGtLSjNCVEw5M3lKd1lDYWwwQlptZFV6enFtaUduVGVtdktsMmhwY1JWV1lqam9fcW1oQXd2SkdhT3Ntdy1jeldydlBxYjg?oc=5"
-    },
-    {
-      "title": "Columbia Dividend Income Fund Q1 2026 Commentary (GSFTX)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV2ZIa1BKMXgtU1M2SUpZYlQtN1dGNHBPMEtkLWxJa3h5VTZST3RkRW5oeVNnV0UyTE16cFFMZlJkS3ZXYVdsczI3YjZZQTdSUzlVVW83eWRGdmlORVdXQVlEWXZMT2F0UkRwQWotNF9VbzJCTVBfOC1GUEo2U1pqVUpyVVpYSjVLVkFiVlpDbkpWUUE?oc=5"
-    },
-    {
-      "title": "Morningstar (NASDAQ:MORN) Upgraded to Buy at Wall Street Zen",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ3J4QjNpQ2ZxSC1sR2JvSF9tTFVUaEhsR01fcVhNSnJHOEJyTmVuVnJuMXpnR2hyNGNaNlVPaUpDRnRVenI1TUV5V096OE5EdDladndUSE9BVEU5c2tMamdkQWJ2Sl9GNE4wNnNWTWVIc0dLUnNFNnprc2EyNGlWWDdzNDd0a0d2MmN5UTVCZm94RGcwQkZoNlhDTEVQcTU1WVc1Nk9WSjRGVmdnbDkyZA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTDllcnpidDktd09jUHp3cUs3WDktclRyUGxNX1hOazAxUmF6Y2haV0drZ3BMWm1PcXRYWUZ3WFpRUWdFSWJFRm9Ea1ByV082akZYN00yeEgwR1NHRVRmN0k2eG1aSlZZUGJoUmVtZVZTVV90VnVCU2VmTncxd0ZRYkxpSlc4RGR0Ml9sUWFfUFdGOHVBRXIxNGdjQURSWkJNc05GaW9ra3ozNHpVMDVxMVJIaWdDSTNCVDk4?oc=5"
     },
     {
       "title": "Berkshire Hathaway Earnings: Cash Hits Record USD 380 Billion on Stock Sales and Solid Q1 Results",
@@ -86,67 +76,72 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOejVIejJXcWt4dXFTbWktdnctbWZpdFozeVh6MTlPdy11eEs3NWRJZUpwZm9OT0VPdWZMR1NXaHNZbTBxczhrdmFJcEVldlROdVhSUEMxaTkzVTE4cDlBSnZVTEdPY2FER29GZVo2SjlMR0toS2pxay1CWWI0RFFOc3A3akN5RkF1UHgwYm5SYXhtelFzRnZEVGVwYVhVRW9kRElnTlZFSXgxXzE1ZkpwLTVyWjVaanhqc3Z0MlJkTGZVRV9iN3lwNmkwSG5GZw?oc=5"
     },
     {
+      "title": "Kornitzer Capital Management Inc. KS Decreases Stake in Morningstar, Inc. $MORN",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFUydmVDb0pjeU1tWEFQNWFKVzU3dlBTMmpQQkpaVEZmVVBFWGpsdzEyM0cycTVxY0Mwd3RJQVNJV0ZuVUE3bDFOZ2lJNFM0REo1T2g0VllVQk9oM3hyYmUxN1c1N2hpbnVuNFp3MzBuemg5VERCQ2pNY3lOaHlyME9LcUlSRzFzOGNRUFBZcWRlZjNJdHZkSkpyNUxGNEYtUDZvUVJCRHlEMkpqdTJ3blljUm9rSmJ4RFlmR3QyU3FfcjZhR2dRRGVwYzNzM1FnbkE?oc=5"
+    },
+    {
+      "title": "NHI Announces $106.9 Million SHOP Investment",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV0FKa1pIaUl1OW9fVnVJLUxPMmtDWDVnZWpDa3NZLUthZFpsd1JqeE1wa2RNNFVZV29JbDJ6NFZBd3RFZ1MxaWlLUVhrR1RfdnZwQXVHblRnSUthalVmQlZtU2d6MzN2WjJjTlgxMFZvMWZXZ0YxTTU1THctc3QtcWdGSkRLUmcxanhFcWVkaHZCSmdxSkJkbzdLVWNSVEpzcjhIRGNn?oc=5"
+    },
+    {
+      "title": "This Simple, Effective Canadian Stock ETF Earns Our Highest Rating",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWUxCaVQwVGdyelY4X1k1VVRFbHY1WGxFRU1iNXZHc2YwTktnelJHX0pIRnJOLUotdFB2MVhEZWdHTnpCdzNYMFlqLS14Wk9Jal9pS0ExZjdnTzNvOTl5MUdOZGZiU2I4cUEwMjFUa045MHFZYUUzUWItZDVFajB5bE43cUNKcXBpNmJTa21mYzN2cmVqaWp1bGlwdS00T2RnU1RLeWhfc3Z6Wk0?oc=5"
+    },
+    {
+      "title": "S&P 500 vs. Gold: Warren Buffett Said Buy One and Forget the Other",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84dm81emtSYkNIMElNMUpFcDdzQ3JKOE91bkV6U2ZxSU5hcEFXV0dLNDh6elM0MXBlVTRNU3JBSDlkUVl1VmI4UW9FUmlHdTd5ZHdteU9ubG1rR0NwcGlFTVpKQUg0VUpXeDhzX2JiVGZhdw?oc=5"
+    },
+    {
+      "title": "IXUS vs NZAC ETF Comparison: Cost, Performance, and Portfolio Differences (2026)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSldRUUZmZW03b09CM1ZRUjBIOHlTc0oyYWpndHJ3OE1CLXBlUENpOHd6NUFXVjV4THZ1M2k5QUhhcElidGVXVnpwTnlLT1lCWG9ENXpFQTg4aWp6dGFMOWthRFR5SUczOWVxblpDYVhCN2M4MjNPeVFMa0p0N0x6X2tqSjRQM3AzLWc1MG9sOVVVel9lX3p4VVdMVWh2bkRZeER1REN6NnNySFJZ?oc=5"
+    },
+    {
+      "title": "10 Best High-Yield Savings Accounts Of May 2026: Up to 5.00% APY",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3FScG9fM0lUTlZ4bmIzS1J3eUVmNmljVlN1dVVnYy10V3hYQ0VFMHo4UUROeHlzalJOSG5tSFRfaFY4Z1A0RHoxQUh3TW5HMmNFejlQeG5ENmx2QVlWZU9kMHZ3ejhkS2FOVFR6MllpXzlFNVlILWItbG9QV3NWN3kzS2VEVWc?oc=5"
+    },
+    {
+      "title": "Best Online Brokers for Bonds in 2026: Top Platforms for Treasuries, Municipals and ETFs",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OTlczcUctM05CNU93OURDVTJVUDRaak9uYjRiZVQxaFRFTldGWF9NY1FYanNoN3Ewc05wZDNKRUNlaUxoQWR6WUJHbkhtT1U0a2tDTUxJdzlpNmsyRWNxaXVjb1Q0S3ZsSDU1Yw?oc=5"
+    },
+    {
       "title": "Best Copper ETFs for 2026 and How to Invest",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSHpCMG1GQ3pyS3Etb1lMWEd4S25sZkltQ0RpX0kyN0x3SGN6ckdDaTdUWjVKZ2owZUMwcDRqSWUzckN2dWlGcmVjZGR6TWtuS0s1azh4WXNWUVJoVzU4QlMtWVRDZGo5VXB4UUQxbHRWUURXbUZSVTFQQzFWc21tUlhIYUEzXzEzLUNrYlB6eko0N0drRmwxUjc5VE5XRjJ4eEQwNlpmME5MUHBP?oc=5"
     },
     {
-      "title": "Best S&P 500 Funds for 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyM0RYV1daOEUtdGxLU3dCazU1XzJCeTJ6eGo3WlVlZWROUXdsYm1JaFMzZl9RaEt2czZyUWdBQ21HZ2ZITl9tc2JUMFpmWXpzQ2JkZnNNLUVlQUVGWmZSdXhNN0hfaklOR00ySmpCY25MaDQ?oc=5"
-    },
-    {
-      "title": "5 Best Closed-End Funds for 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3RjZvanhtekZHS1RwS2tsaXVtc1E2S3hjNjMzZ3MwaU9FbzBUVnlYVkU4eWxfdVFhMkZVeVFRVW44MG1kcnNwbF9sZ1c3azJxUVRyTjZ2Snl5Qm9GX05TT3dlUjFzdjVHN3BvX2F6bmtlQUc2QkdyLXBKbXA?oc=5"
-    },
-    {
-      "title": "Concentration Risk High as Top Two Stocks Steer U.S. Communication Services ETF Performance",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcFJXbTdnV3hQand3djEzbVlNTV9aRXlXNC02czdnNVhGQkIyQ0lYcVU2T21Ud280d1gyblVNLWp6UGVuQ2FZX3g1MzkzTWlJRXFyS3hoZFNRX1FpTnRtbE9oMHJ2S1FpSUpVNkEwN096bjRwZElxekxZUXJObkVEcExZUERLS0hFakN2TGZFRTBWOEpFOXE2aHJnOWhYTTlSMFVKYmZuSG80NGNacTdlaUxONGVyYjgwN3NHLTN0dVFiUVFBVEFOQjNNTmRmQVU?oc=5"
-    },
-    {
-      "title": "Is VXUS the Smartest Way to Own the Entire World Outside the U.S.?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JTjJKMmdHalRSaWNmZEFtY25EY0RKaVNhbUpxTmgwUkZUdjFuX0xTSGc2alRrbXVKbGtmT0FLeTlHLUpRY0FsMFVESUpyc2NOYXVkZFpyVklxWXVLb2NiUUhpOHJ0SGM3bjV2V1N0VE9MVW4zS3VzTm5Bbw?oc=5"
-    },
-    {
-      "title": "MF Tracker: Baroda BNP Paribas Mid Cap Fund turns Rs 10,000 SIP to Rs 1.55 crore in 20 years",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNVFFdGFZb0xrTjN1Z3ZxZk9QOG9vZFRxNE1LS2s2cVlMZ01ZbnlzQk1CbWpRaTRPNWpXVkdHNHVzaFlfNDZpN3NvdkgxX3FCTVVsTkpBMHF4SVdNclI0R3BsZkdKVUFjeUQyQjdZcXFkQkJoZlI4b3lHU1RoQXlZenk2X2ZndWZvdnZfTWc4NFZRWGIyNXpoekN5Ni0wRnNHc1FWMUpwZ1ByZ3Z3SVpRT09Mc0pVSF9xZGVxNjhGcm93SVF1YkZ5TEIyNXY2REtDeFlWTUltdkY3NUVnel9XcEhzS2FlUzdFOG1LSGZpbTZtQdIB8gFBVV95cUxQNVFFdGFZb0xrTjN1Z3ZxZk9QOG9vZFRxNE1LS2s2cVlMZ01ZbnlzQk1CbWpRaTRPNWpXVkdHNHVzaFlfNDZpN3NvdkgxX3FCTVVsTkpBMHF4SVdNclI0R3BsZkdKVUFjeUQyQjdZcXFkQkJoZlI4b3lHU1RoQXlZenk2X2ZndWZvdnZfTWc4NFZRWGIyNXpoekN5Ni0wRnNHc1FWMUpwZ1ByZ3Z3SVpRT09Mc0pVSF9xZGVxNjhGcm93SVF1YkZ5TEIyNXY2REtDeFlWTUltdkY3NUVnel9XcEhzS2FlUzdFOG1LSGZpbTZtQQ?oc=5"
-    },
-    {
-      "title": "Top Vanguard ETFs for Retirement: VOO, VTI, VXUS and More",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUNxeGM1LXdPRTV6eU9sU3gxdV95VWtVRzdISkJHZGktX0tka05pZV83R3c0bjRabkZiTUdBLXBGd2lybTR2aDdKQksxOVNtdHBuaEpnWlVnZjB2bjhTbXVKcUtUNDdkWmlDY2VnaXpHSVZ0S24xN3JGQWY2aHNSTGFpZm4xSlFWY0JYelNrTjlEUTdsV1VJ?oc=5"
-    },
-    {
-      "title": "10 Best Water Stocks To Buy Now | 2026 List Of All 43 | Profit From Clean Water",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PaUxCRTF6TDdIaFZFNk5xQ3dMZU4tRTZiZGxRNlZQRzR0TXByX1RMZ2ZfRlpIdEU4LWpPVHRUYUdaMGhfbGczMXNNTkhwaHJ0Rjk1dw?oc=5"
-    },
-    {
-      "title": "Best S&P 500 Funds for 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyM0RYV1daOEUtdGxLU3dCazU1XzJCeTJ6eGo3WlVlZWROUXdsYm1JaFMzZl9RaEt2czZyUWdBQ21HZ2ZITl9tc2JUMFpmWXpzQ2JkZnNNLUVlQUVGWmZSdXhNN0hfaklOR00ySmpCY25MaDQ?oc=5"
-    },
-    {
-      "title": "5 Best Closed-End Funds for 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3RjZvanhtekZHS1RwS2tsaXVtc1E2S3hjNjMzZ3MwaU9FbzBUVnlYVkU4eWxfdVFhMkZVeVFRVW44MG1kcnNwbF9sZ1c3azJxUVRyTjZ2Snl5Qm9GX05TT3dlUjFzdjVHN3BvX2F6bmtlQUc2QkdyLXBKbXA?oc=5"
-    },
-    {
-      "title": "Vanguard S&P Small-Cap 600 ETF (VIOO) and iShares MSCI Emerging Markets ETF (EEM) projected to outperform S&P 500 with annual returns of 7.6% and 7.5%, respectively, over the next 3-5 years.",
+      "title": "Vanguard S&P 500 ETF (VOO) Leads April ETF Inflows with Over $25 Billion",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard cuts expense ratio on International High Dividend Yield ETF (VYMI) to 0.07% from 0.17%, a reduction of 0.1%.",
+      "title": "Defiance AI & Power Infrastructure ETF (AIPO) Surpasses $500 Million in AUM, Up 29.99% YTD",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Total estimated outflows from long-term mutual funds were $11.17 billion for the week ended April 22, 2026, representing less than 0.1% of long-term mutual fund assets.",
+      "title": "Vanguard International High Dividend Yield ETF (VYMI) Expense Ratio Drops from 0.17% to 0.07%",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "US Spot Bitcoin ETFs Experience Nine Consecutive Days of Net Inflows, Totaling $2.7 Billion",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Morningstar DBRS Upgrades Credit Ratings for 607 Classes of U.S. RMBS Transactions in Q1 2026",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Total Estimated Outflows from Long-Term Mutual Funds Reach $11.17 Billion for the Week Ended April 22",
       "source": "gemini_grounding_finance",
       "url": ""
     }
