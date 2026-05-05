@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-05T07:45:01.388906+00:00",
-  "total_candidates": 19,
+  "scouted_at": "2026-05-05T09:13:09.400383+00:00",
+  "total_candidates": 21,
   "topics": [
     {
       "rank": 1,
-      "title": "Bill Ackman launches new NYSE-listed fund; Mexican investors participate in the offering",
+      "title": "Amazon: Officially Launches Supply Chain Services; Unlikely to Make a Near-Term Impact",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "NHI Announces $106.9 Million SHOP Investment",
+      "title": "Bill Ackman launches new NYSE-listed fund; Mexican investors participate in the offering",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Meitav Investment House to Report First Quarter 2026 Financial Results and Hold a Conference Call on Tuesday May 26, 2026",
+      "title": "Amazon: Officially Launches Supply Chain Services, Leveraging Internal Services to Outside Clients",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,24 +51,24 @@
   },
   "all_headlines": [
     {
+      "title": "Amazon: Officially Launches Supply Chain Services; Unlikely to Make a Near-Term Impact",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTnpUSWhMazFoczFoTkpPSVBaRjRRX0JBLTJ3X0VzZ1F5aVQzSXZYT0h6RlA2U2NEZXZDUkIydkNjdE9ZcGtWMjRKUTB4Q3NuV1k4Y0JxcTFnUWdDekEya1Y1N3NuNnFCMnJabXBON3JXcGd6bEtFRzVzZkpiQ0oyWHViVUZQWjFUZ3k4ZVhLa1RXeWZaay1BWlBIcUN1SXlLMmVQZlgwejhDMVhTXzlya0VkbUFBYndIYWZFTUJjcjI?oc=5"
+    },
+    {
       "title": "Bill Ackman launches new NYSE-listed fund; Mexican investors participate in the offering",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWkhtOEdNbGtHSy1yaFB1eUNQUmJLNVFYLXlGXzU3RkJHLV9CeG55bkxZUEwyNVF1S3ZuOWNKeDc2TlZ1NHJaM1BadmwyaG52YTUyTGE5VXYyQ3dmMVB2RWhobTNtU192VDliOTQ3a091Sm9VU1prbmNWNXM5SngwTUFZTm9lcVBUOXRwcWFVbHZva21OaTFjRUw0ekhQaTNFWHEyV3JISFZyYkxvNVdOczN4TG0tdF9hdTdCUDE0Zk5NM1JrVy1Hb1JxMWt3a2hQLWpTaTF3RU1BVzVIRjE2ZGt3?oc=5"
     },
     {
-      "title": "NHI Announces $106.9 Million SHOP Investment",
+      "title": "Amazon: Officially Launches Supply Chain Services, Leveraging Internal Services to Outside Clients",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV0FKa1pIaUl1OW9fVnVJLUxPMmtDWDVnZWpDa3NZLUthZFpsd1JqeE1wa2RNNFVZV29JbDJ6NFZBd3RFZ1MxaWlLUVhrR1RfdnZwQXVHblRnSUthalVmQlZtU2d6MzN2WjJjTlgxMFZvMWZXZ0YxTTU1THctc3QtcWdGSkRLUmcxanhFcWVkaHZCSmdxSkJkbzdLVWNSVEpzcjhIRGNn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOWJDaVBwRXhZclVnang2bWY2eUl0VEE2blRrSkYxOGhvYUZWUHYyUWk3eHZjd2p5U2owSjN4bnN0UE5icE40cTZseDdibUVnZUxuQnM0SXdrU0ZYeU83V1NxdkdYd0VXRG9hZ2YwS19GUVFPcDlyd1RheXVRdVk0Q0U3X3Nxb0tFRVBETVBSdHRHV2xITGRaYVlXNFRlY0JGMkFkdmhDWUJ0WWNTQjVaOEFLaXdCSjF5dTJGMExOOHVqRktsZTAxY29oV2dueVZEeXYw?oc=5"
     },
     {
       "title": "Meitav Investment House to Report First Quarter 2026 Financial Results and Hold a Conference Call on Tuesday May 26, 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPYmtIUVYzc1dHV3lzamZUTkpMY0NOZEI4UjV3bldDUkZ2NjdoemlFaFV5OHZ6eVlzWkpITGlMWm1udTZMRjVmbERxMU1sSWdZMXdmdmdYbTBzNjFpcVlCRFU1S2xpSHFPNzlLUmJiQzVXVlhqZVRDRF8xV1E4enNCQmthSjhtcWpkU29pOUZEYzJtTGE2QjI4MkxZZGctUkltMUpUWWFBdXZlZi1rQzBrMEE5YW4xcC1vRExTaWs2bXJoYXJjemJHQjVkY3pkMEVOOXBHT25yWGdWejVvd2hNcWRGLTlyLUhKS09PQi1kdGFyYmRvckg2Sks4blYxQUJic2k3STlQRElLamlUQ0E?oc=5"
-    },
-    {
-      "title": "Amazon: Officially Launches Supply Chain Services, Leveraging Internal Services to Outside Clients",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOWJDaVBwRXhZclVnang2bWY2eUl0VEE2blRrSkYxOGhvYUZWUHYyUWk3eHZjd2p5U2owSjN4bnN0UE5icE40cTZseDdibUVnZUxuQnM0SXdrU0ZYeU83V1NxdkdYd0VXRG9hZ2YwS19GUVFPcDlyd1RheXVRdVk0Q0U3X3Nxb0tFRVBETVBSdHRHV2xITGRaYVlXNFRlY0JGMkFkdmhDWUJ0WWNTQjVaOEFLaXdCSjF5dTJGMExOOHVqRktsZTAxY29oV2dueVZEeXYw?oc=5"
     },
     {
       "title": "Evergreen Cooperatives' Fund for Employee Ownership Acquires North Coast Sign and Lighting",
@@ -81,9 +81,14 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTDllcnpidDktd09jUHp3cUs3WDktclRyUGxNX1hOazAxUmF6Y2haV0drZ3BMWm1PcXRYWUZ3WFpRUWdFSWJFRm9Ea1ByV082akZYN00yeEgwR1NHRVRmN0k2eG1aSlZZUGJoUmVtZVZTVV90VnVCU2VmTncxd0ZRYkxpSlc4RGR0Ml9sUWFfUFdGOHVBRXIxNGdjQURSWkJNc05GaW9ra3ozNHpVMDVxMVJIaWdDSTNCVDk4?oc=5"
     },
     {
-      "title": "NetSentries Announces General Availability of AI-Augmented Security Testing",
+      "title": "Berkshire Hathaway Earnings: Cash Hits Record USD 380 Billion on Stock Sales and Solid Q1 Results",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbmtYRTJkTkxvdzFtQTNIMHdOMTR4ZlVEX1dWM0hHRVdQYzlWNy1rVU5SRlVLMS0tSUEyb2RJbnliSGh2WUZGTDVIb00xMTJ1dEx1cHh4ZXJ6LWJKNml4c0VTN2pPZTFjTC1ia2NLYVJUbGxhZjFGb2h0dW4xZVcxRjhEb0JyczZ6WkdWSHQzT09YSWJGOVpjZnhMcFF6R25zVXNWakZ0YjQ0Z0V4b0JKem9DTWhqcFdQeUYxVjBaaWVkVl9XR2RtRzVUdl95N0gxMXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOejVIejJXcWt4dXFTbWktdnctbWZpdFozeVh6MTlPdy11eEs3NWRJZUpwZm9OT0VPdWZMR1NXaHNZbTBxczhrdmFJcEVldlROdVhSUEMxaTkzVTE4cDlBSnZVTEdPY2FER29GZVo2SjlMR0toS2pxay1CWWI0RFFOc3A3akN5RkF1UHgwYm5SYXhtelFzRnZEVGVwYVhVRW9kRElnTlZFSXgxXzE1ZkpwLTVyWjVaanhqc3Z0MlJkTGZVRV9iN3lwNmkwSG5GZw?oc=5"
+    },
+    {
+      "title": "Kornitzer Capital Management Inc. KS Decreases Stake in Morningstar, Inc. $MORN",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFUydmVDb0pjeU1tWEFQNWFKVzU3dlBTMmpQQkpaVEZmVVBFWGpsdzEyM0cycTVxY0Mwd3RJQVNJV0ZuVUE3bDFOZ2lJNFM0REo1T2g0VllVQk9oM3hyYmUxN1c1N2hpbnVuNFp3MzBuemg5VERCQ2pNY3lOaHlyME9LcUlSRzFzOGNRUFBZcWRlZjNJdHZkSkpyNUxGNEYtUDZvUVJCRHlEMkpqdTJ3blljUm9rSmJ4RFlmR3QyU3FfcjZhR2dRRGVwYzNzM1FnbkE?oc=5"
     },
     {
       "title": "This Simple, Effective Canadian Stock ETF Earns Our Highest Rating",
@@ -91,14 +96,9 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWUxCaVQwVGdyelY4X1k1VVRFbHY1WGxFRU1iNXZHc2YwTktnelJHX0pIRnJOLUotdFB2MVhEZWdHTnpCdzNYMFlqLS14Wk9Jal9pS0ExZjdnTzNvOTl5MUdOZGZiU2I4cUEwMjFUa045MHFZYUUzUWItZDVFajB5bE43cUNKcXBpNmJTa21mYzN2cmVqaWp1bGlwdS00T2RnU1RLeWhfc3Z6Wk0?oc=5"
     },
     {
-      "title": "IXUS vs NZAC ETF Comparison: Cost, Performance, and Portfolio Differences (2026)",
+      "title": "5 Best Money Market Mutual Funds Of 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSldRUUZmZW03b09CM1ZRUjBIOHlTc0oyYWpndHJ3OE1CLXBlUENpOHd6NUFXVjV4THZ1M2k5QUhhcElidGVXVnpwTnlLT1lCWG9ENXpFQTg4aWp6dGFMOWthRFR5SUczOWVxblpDYVhCN2M4MjNPeVFMa0p0N0x6X2tqSjRQM3AzLWc1MG9sOVVVel9lX3p4VVdMVWh2bkRZeER1REN6NnNySFJZ?oc=5"
-    },
-    {
-      "title": "10 Best High-Yield Savings Accounts Of May 2026: Up to 5.00% APY",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3FScG9fM0lUTlZ4bmIzS1J3eUVmNmljVlN1dVVnYy10V3hYQ0VFMHo4UUROeHlzalJOSG5tSFRfaFY4Z1A0RHoxQUh3TW5HMmNFejlQeG5ENmx2QVlWZU9kMHZ3ejhkS2FOVFR6MllpXzlFNVlILWItbG9QV3NWN3kzS2VEVWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZjF0RzBPMU0wV0lnaW4zRUg4RmNFcFJPdmE0VW5UcHQwTm5fUXpnZ1hFRlIwTnp6dG1pYXZZbF9FdXN1OUFud1AzOGtQTFdmdFNSTXBMY0NFTHpOcjQzcEpmeEM5ZEgwR2E0Y3Iwc2xOOFY2YXI2UlVfd0FYQnN5b0d3?oc=5"
     },
     {
       "title": "Best Online Brokers for Bonds in 2026: Top Platforms for Treasuries, Municipals and ETFs",
@@ -116,32 +116,37 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9raWRYMHpiaEt6dzBFYVA1Z1otb05UNlQzaV9JSVJlZ210T2IteDNqZ0ZLWG9tay1RdFVBcnNKeVRKRHFTVVdwRVdBSFpRVy02UndpY1ViVHlDYkpsWmJHVXN4VGd5UC12?oc=5"
     },
     {
-      "title": "Vanguard S&P 500 ETF (VOO) led April inflows with over $25 billion, contributing to the top three S&P 500 trackers amassing $46.7 billion.",
+      "title": "Defence mutual funds surge up to 25% in a month. Should you invest now or wait for a correction?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYmZhYzR6VXVtYUc0WTVLb29HeG91VzdRc0xBakNsdVQ2Ung5N05aQV9RT0N6SmlaUkk3alJDWkdROUFFSWtkUDR4eXBvQ0RxZldJaVFHVkMzSzc2UlQyLTBUTHU3R3gzbmdsQ2JiTEJxc2p3MlpVSG14VTF6alF4emIzTVpGT0Y4Y3ZlamVpZXZtMzhEejV3YVNkeUY1OWZmczVuUi1FSkgxSUI3ZDRoSEtGdnpGYnBGQUhVYVpZamxKaENsZTEzYmxJNWJRZzRodF9qUHBUelNuUFhuVlZ5ZTJFN0V3TnhLNzZURzM0b1Fadk9TRlHSAfYBQVVfeXFMT2JmYWM0elV1bWFHNFk1S29vR3hvdVc3UXNMQWpDbHVUNlJ4OTdOWkFfUU9DekppWlJJN2pSQ1pHUTlBRUlrZFA0eHlwb0NEcWZXSWlRR1ZDM0s3NlJUMi0wVEx1N0d4M25nbENiYkxCcXNqdzJaVUhteFUxempReHpiM01aRk9GOGN2ZWplaWV2bTM4RHo1d2FTZHlGNTlmZnM1blItRUpIMUlCN2Q0aEhLRnZ6RmJwRkFIVWFaWWpsSmhDbGUxM2JsSTViUWc0aHRfalBwVHpTblBYblZWeWUyRTdFd054Szc2VEczNG9RWnZPU0ZR?oc=5"
+    },
+    {
+      "title": "5 Best Money Market Mutual Funds Of 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZjF0RzBPMU0wV0lnaW4zRUg4RmNFcFJPdmE0VW5UcHQwTm5fUXpnZ1hFRlIwTnp6dG1pYXZZbF9FdXN1OUFud1AzOGtQTFdmdFNSTXBMY0NFTHpOcjQzcEpmeEM5ZEgwR2E0Y3Iwc2xOOFY2YXI2UlVfd0FYQnN5b0d3?oc=5"
+    },
+    {
+      "title": "Defiance AI Power Infrastructure ETF (AIPO) Surpasses $500 Million in AUM, Up 29.99% YTD as of April 14, 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "The Global X SuperDividend US ETF (DIV) declared a dividend of $0.1060 per share on May 4, 2026, reflecting a 6.56% dividend yield.",
+      "title": "Vanguard Slashes Fees Across 84 Fund Share Classes, Saving Investors Nearly $250 Million in 2026; VYMI Expense Ratio Drops to 0.07%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard International High Dividend Yield ETF (VYMI) expense ratio decreased from 0.17% to 0.07% as part of Vanguard's $250 million fee reduction across 53 funds.",
+      "title": "Fidelity U.S. Low Volatility Equity Fund to Merge into Fidelity Low Volatility Factor ETF on May 8, 2026, pending shareholder approval.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "State Street analysts project the Vanguard S&P Small-Cap 600 ETF (VIOO) to return 7.6% annually over the next 3-5 years, outperforming the S&P 500's expected 7.1%.",
+      "title": "SEC Increases \"Qualified Client\" Thresholds Under Advisers Act to $1.4 Million in AUM, Effective June 29, 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "The SEC's updated qualified client thresholds will require at least $1.4 million in assets under management with the adviser, effective June 29, 2026.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Fidelity U.S. Low Volatility Equity Fund is scheduled to merge into Fidelity Low Volatility Factor ETF on May 8, 2026, pending shareholder approval.",
+      "title": "Vanguard Morningstar Total Stock Market Index Fund Name Change Expected July 2026 After Morningstar Rebrands CRSP Indexes.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
