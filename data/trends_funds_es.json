@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-05T07:40:51.844518+00:00",
+  "scouted_at": "2026-05-05T07:42:09.692073+00:00",
   "total_candidates": 8,
   "topics": [
     {
       "rank": 1,
-      "title": "MyInvestor revoluciona su cartera moderada al incluir fondos iShares de BlackRock: ¿Cómo afectará esto a su rendimiento?",
+      "title": "Análisis de la nueva cartera moderada de MyInvestor: ¿Cómo se desempeñan los fondos iShares de BlackRock frente a otros líderes del mercado?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "La cartera agresiva de MyInvestor se transforma con los fondos iShares de BlackRock: ¿Qué sorpresas de rendimiento nos depara?",
+      "title": "Descubre el nuevo fondo de robótica de Eurizon: ¿Vale la pena invertir en ETF activos en un mercado competitivo?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Eurizon lanza su primer ETF activo de robótica: ¿Puede superar a los líderes del sector en 2026?",
+      "title": "Optimismo para el S&P 500: ¿Qué datos inesperados pueden cambiar tu estrategia de inversión para fin de año?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
