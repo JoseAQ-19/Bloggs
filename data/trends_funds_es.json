@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-06T07:50:44.822081+00:00",
+  "scouted_at": "2026-05-06T07:51:58.514477+00:00",
   "total_candidates": 7,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Es más rentable el bono español a 10 años que el fondo indexado de referencia? Un análisis comparativo de rendimiento",
+      "title": "¿Vale la pena el bono español a 10 años? Comparativa con fondos indexados que superan el 5% de rendimiento",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "MyInvestor revoluciona su cartera agresiva: ¿Cómo se comportarán los fondos iShares de BlackRock en 2026?",
+      "title": "Indexa Capital y Revolut: ¿quién ofrece la mejor rentabilidad y comisiones en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Indexa Capital vs Revolut: ¿Qué opción ofrece mejores comisiones y rendimiento para inversores en 2026?",
+      "title": "La cartera agresiva de MyInvestor se transforma: descubre el impacto de los fondos iShares de BlackRock en su rendimiento.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
