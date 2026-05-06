@@ -1144,3 +1144,4 @@ fitness: Trump Revives the Presidential Fitness Test: Are You Ready to Take the 
 funds: Fondos indexados superan el 5% frente al bono español a 10 años en rendimiento
 funds: Hidden River Invests 20% in NEC, Targeting Future Tech Growth
 funds: Hidden River Invests $50 Million in NEC, Targeting 15% Annual Returns
+ia: Pensilvania demanda a empresa de IA por chatbots que fingen ser médicos: un escándalo en la salud
