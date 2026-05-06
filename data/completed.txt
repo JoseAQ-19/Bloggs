@@ -1146,3 +1146,4 @@ funds: Hidden River Invests 20% in NEC, Targeting Future Tech Growth
 funds: Hidden River Invests $50 Million in NEC, Targeting 15% Annual Returns
 ia: Pensilvania demanda a empresa de IA por chatbots que fingen ser médicos: un escándalo en la salud
 ia: Unlocking Cosmic Mysteries: Insights from Combined Simulations of Type Ia Supernovae
+tools: Alerta de seguridad: Daemon Tools infectado con troyano y puertas traseras
