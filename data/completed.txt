@@ -1164,3 +1164,4 @@ ia: La FDA impulsa la IA en la regulación: ¿Estamos listos para Elsa 4.0?
 ia: Financial Giants Report Q1 Results: What You Need to Know About Sun Life and iA
 tools: DAEMON Tools Lite: La pesadilla del malware que afectó a miles de usuarios
 tools: Real Estate Tech: Unleashing the Power of Seamless Integration
+crypto: Despidos masivos en el mundo cripto: ¿la IA y el criptoinvierno están acabando con la industria?
