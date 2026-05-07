@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-07T07:59:40.836371+00:00",
+  "scouted_at": "2026-05-07T08:01:09.132034+00:00",
   "total_candidates": 21,
   "topics": [
     {
       "rank": 1,
-      "title": "Sun Life Reports First Quarter 2026 Results",
-      "lang": "en",
-      "source": "google_news_finance"
-    },
-    {
-      "rank": 2,
       "title": "Palantir Earnings: Triple-Digit Growth, But Does the Valuation Make Sense?",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Morningstar Unveils Hybrid Europe Index Blending Public And Private Leaders",
+      "lang": "en",
+      "source": "google_news_finance"
+    },
+    {
+      "rank": 3,
+      "title": "Vanguard Group Inc. Decreases Holdings in Morningstar, Inc. $MORN",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,11 +51,6 @@
   },
   "all_headlines": [
     {
-      "title": "Sun Life Reports First Quarter 2026 Results",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUndDeThlV1QxbHpqcjhEM21tdmRGbFdJQkpWczRQN0xsZDVtYk5hNm9rWjd1RGszbEhqMTV3MVpNUlAtYnBycnNwcmNRRk40M2YwNjRKYU9JbjBUSC0zY3FkYi1WZWRjY1ZQVXp1cDBndjhMOGdtNkdFZjgyUjk3UlNxVVg4Wll4Z2NLXzZEYm5BZ2NvbkR3Y2xNX2gzMmlXd1J4NlVWWQ?oc=5"
-    },
-    {
       "title": "Palantir Earnings: Triple-Digit Growth, But Does the Valuation Make Sense?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEJPZWVWa2t2V05KYXl0VHpQaElJQ1NZbU1pcjZzazFtaUx1QVRLdUdCd3hIRXFMZUxyN3E3Mkk2QUhmV01majlxemFvV2xUckctX3ppRTBtYkE5OGlhTFU3WXVrQjRJdGNwcFFrYXBmdWJvSmM3bHFyV3hETXdJOTZ4TWhlMlFieGROakl3MzlXamdIZWhldzJpSEdPV193cEM3VGFSblV2NkE?oc=5"
@@ -66,6 +61,16 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMEJ2T3dSejcwYksyUENieXZYVDFyLWh3X0NtSHdFYThLWl9SWWhrZFNFb1RZSmx2aEl6eS0wS3VNcDllbmx2QmdJT2VXSUczOHlYN0tEb1dQSGdZZGF6cmcxOWpHMV9hYVlwdVIyMGd6Y2xNbUpMaTFnYzc0NFlxcVhhcTFESURmeUlHNDB0Q2lmeDhvNVdfaHl6WnpnckZIWUR1SmRVS0s0VjFFMEFQd0pGcV9SNG9nZmxiNFNtd0pCTHJJYW5QQW1VNTFqUF80UjFCSk9UR3V5ZXFUWHk4MdIB4AFBVV95cUxQMEJ2T3dSejcwYksyUENieXZYVDFyLWh3X0NtSHdFYThLWl9SWWhrZFNFb1RZSmx2aEl6eS0wS3VNcDllbmx2QmdJT2VXSUczOHlYN0tEb1dQSGdZZGF6cmcxOWpHMV9hYVlwdVIyMGd6Y2xNbUpMaTFnYzc0NFlxcVhhcTFESURmeUlHNDB0Q2lmeDhvNVdfaHl6WnpnckZIWUR1SmRVS0s0VjFFMEFQd0pGcV9SNG9nZmxiNFNtd0pCTHJJYW5QQW1VNTFqUF80UjFCSk9UR3V5ZXFUWHk4MQ?oc=5"
     },
     {
+      "title": "Vanguard Group Inc. Decreases Holdings in Morningstar, Inc. $MORN",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOFF3SjhkLXNPSERld29tT3NKcHlnQVRNXzNWR2FUYzQycW56RVc2VGhjQ2dEa2xKODNQU3dmZUpUWXVnN1hBRlJYM01ueDBYcWZWN25RbHVXWkk1aHFaNndISmo4WDNBYlE4cGQwTkdKREpjbG5mM1V4U204SWVCcGs2YnRMblZ3Y2VEaXN2cW9sSzRfVWRmb1EycDJiTzlKTDE0eUp4UXRodkdtUmZPRmZBR3lQN0lFSklObVVkaw?oc=5"
+    },
+    {
+      "title": "Sun Life Reports First Quarter 2026 Results",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUndDeThlV1QxbHpqcjhEM21tdmRGbFdJQkpWczRQN0xsZDVtYk5hNm9rWjd1RGszbEhqMTV3MVpNUlAtYnBycnNwcmNRRk40M2YwNjRKYU9JbjBUSC0zY3FkYi1WZWRjY1ZQVXp1cDBndjhMOGdtNkdFZjgyUjk3UlNxVVg4Wll4Z2NLXzZEYm5BZ2NvbkR3Y2xNX2gzMmlXd1J4NlVWWQ?oc=5"
+    },
+    {
       "title": "/C O R R E C T I O N — SuperTruth, Inc./",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMFg0X0hvQ3lHVkRvZ3hkTFlpSkdsZFJabFlMU0RkZkZPWEZZaktneVRMdXJMMWZjeFpYUUhNRmJaNEZXZ0pTVTFYbzgwLWliTXV6UEJFZG9tTEE1YUg1LXV3RElzMDlFcXVwdVplUkdrbWx4bjNwLXFDYkhsRm9JRDhlUjJEQloyYW5GUUVvLVFWb3hzMlZZM3RQaw?oc=5"
@@ -74,11 +79,6 @@
       "title": "abrdn National Municipal Income Fund (VFL) Announces Adjournment of Special Shareholder Meeting Relating to Proposed Reorganization",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbFh6N29CVkNzeWl5MHM2ZU5NcURfajdtQlNWWUZZZ1RPZW9idFBIWFVXVUtSOTQxNUozVGJUUE9VZ3NzS2t0dU54S2c0MVctYjdIekZHcVl6WGxraU1nbjFSQkNZUUQzTGlRS2VGdm5MUlJsV1JxSVJIY1A0WVFxLU1GVGgyU2h0WmFpODQzZnRPbXRpMk9sNW1sTEhZSTBmSWlCUm52emE0MVlTNUNXM3JPRlBYLWhSaVI3Q1N6T3lkT2xKWFlZOXBNci11WXc1RlViYUNud1ZZSFRGblNBQk8tM1AtbGtSay1BQ0V0enJZdV9leFJZYTRoMl9YRWh2cllVem5pd0JXLW13VEtuSHYzWTNBUTVFWVE?oc=5"
-    },
-    {
-      "title": "Federal Home Loan Bank of Dallas and Bonvenu Bank Award $300K in Pathway Fund Grants to Four Northwest Louisiana Nonprofits",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMmFSNFd3TDJwU1dtN3E0VXNaVkNzTEpyYV82NkRmdlU1d3lxdDhGaHdidHdBeDRDeXVaM2V2Mml3cUlnTzBVVkc2cjI0bHk0bDA1NzEwMTdZbUJWakE1ZGdhM19EU1NkQ1pUejRsak5rdGI4ZG9QUDg3UExiaFFBc2t4eHNuS1I2UW1zLWZOZE1iMFUyQ0NuLWg0MGJFSGdBR3hvNl9qQlRGUUlmZnNISEwzTmliX0tWcUpKMldzYUhGU2IyZ1pvUk5CYTNQVVBTWFJweDBpSy1jX1hTMlE4d0YtT1N4a0ZYMjhZd2h4OEUwSDA5QWtQY3VIZ25mbHB5VzM1OVRHc19kUWFxNHcwbDRn?oc=5"
     },
     {
       "title": "Withings Analysis of 470,000 US Women Reveals AFib Prevalence Increases 3.8x and HRV Declines During Menopause",
@@ -126,27 +126,27 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZjF0RzBPMU0wV0lnaW4zRUg4RmNFcFJPdmE0VW5UcHQwTm5fUXpnZ1hFRlIwTnp6dG1pYXZZbF9FdXN1OUFud1AzOGtQTFdmdFNSTXBMY0NFTHpOcjQzcEpmeEM5ZEgwR2E0Y3Iwc2xOOFY2YXI2UlVfd0FYQnN5b0d3?oc=5"
     },
     {
-      "title": "Vanguard Lowers Expense Ratios on 53 Funds, Saving Investors $250 Million in 2026; VYMI's (International High Dividend Yield ETF) expense ratio drops from 0.17% to 0.07%.",
+      "title": "**Vanguard Slashes Fees Across 53 Funds:** Vanguard lowered expense ratios across 53 funds, totaling nearly $250 million in fee reductions for 2026, affecting 84 mutual fund and ETF share classes with an average fee cut of 27%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Corgi Funds Launches Record 34 ETFs, including city-specific funds like the Corgi Bay Area Based ETF (BAY) and Corgi NYC Based ETF (NYNY), both with expense ratios of 0.20%.",
+      "title": "**Tradr Launches Leveraged ETF on Xanadu Quantum Technologies (XNDU):** Tradr ETFs launched the Tradr 2X Long XNDU Daily ETF (Cboe: XNDX) on May 7, seeking to deliver two times (200%) the daily performance of Xanadu Quantum Technologies.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Tradr ETFs Launches Tradr 2X Long XNDU Daily ETF (XNDX) on Xanadu Quantum Technologies, seeking 200% of the daily performance.",
+      "title": "**Billionaires Club ETF (CLUB) Debuts on NYSE:** Exchange Traded Concepts launched the Billionaires Club ETF (NYSE: CLUB) on May 6, targeting companies shaped by entrepreneurial and family-led wealth creation.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "ETF Prime reports ProShares Genius Money Market ETF (IQMM) as top launch of 2026 with over $22 Billion in assets.",
+      "title": "**SEC Expands Co-Investment Relief to Open-End Funds:** SEC staff issued a no-action letter, allowing mutual funds and ETFs to rely on existing co-investment exemptive orders subject to certain conditions.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "SEC Expands Co-Investment Relief to Open-End Funds, impacting mutual funds and ETFs.",
+      "title": "**Fidelity U.S. Low Volatility Equity Fund Merges into ETF:** Subject to shareholder approval, Fidelity U.S. Low Volatility Equity Fund will be merged into Fidelity Low Volatility Factor ETF, with a merger closing date scheduled for May 8, 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
