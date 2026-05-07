@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-07T07:56:32.206514+00:00",
+  "scouted_at": "2026-05-07T07:57:52.617058+00:00",
   "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "Comparativa 2026: Indexa Capital vs Trade Republic ¿Quién ofrece mejores rendimientos con un 15% menos en comisiones?",
+      "title": "Morningstar prevé un crecimiento del 5% en la banca española para 2026, a pesar de la incertidumbre global",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis 2026: ¿Es el bono español a 10 años una opción más rentable que los fondos indexados con un 8% de rentabilidad?",
+      "title": "Indexa Capital vs Trade Republic: ¿Quién ofrece las mejores comisiones en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "La cartera agresiva de MyInvestor revoluciona el mercado: ¿Cómo los fondos iShares de BlackRock superan a la competencia en un 12%?",
+      "title": "La nueva cartera agresiva de MyInvestor: ¿Superará a los fondos iShares de BlackRock en rentabilidad?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
