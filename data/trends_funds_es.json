@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-08T07:34:53.235580+00:00",
-  "total_candidates": 14,
+  "scouted_at": "2026-05-08T07:36:18.413137+00:00",
+  "total_candidates": 8,
   "topics": [
     {
       "rank": 1,
-      "title": "**CT (Lux) Global Technology Fund: ¿Cómo logró un 58,5% de rentabilidad en solo un año?**",
+      "title": "¿Cuál de estos 3 fondos indexados al Nasdaq 100 superó el 30% de rentabilidad en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "**Indexa Capital reduce comisiones de gestión hasta 0,007 puntos: Ahorra 260.000€ en tus planes de pensiones**",
+      "title": "Análisis comparativo: ¿El bono español a 10 años ofrece mejor rendimiento que el fondo indexado X en 2025?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "**Azvalor Internacional supera a la media global con un crecimiento del 8,7% en febrero: ¿Qué lo distingue?**",
+      "title": "Perspectivas de los bancos españoles en bolsa: ¿Qué entidad ha visto un crecimiento del 15% en su acción este año?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -87,36 +87,6 @@
       "title": "Cuenta remunerada de Trade Republic: análisis y opiniones (2026)",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFlIamZUU2QzWllNeHVhdTRZSXVqVEgxU3BKWU1RTWNLWl9nbG5wQUJkTGY4ZC02Y2FxRmZHd0xEOHRGVjFhXzBIUmlveEQyNXBXd3ZTRVpQVTAwYmJlUjNkYWNVM0t1YnpMOU16Yy1QcU1JcVhsYm4wSGhaRHJJOTFaU2U1Z3d0cUlScWQxSGkxOVJGVEhMbzlhRDR6eXNYeldXRm5MaXl4YWZDMTRUbw?oc=5"
-    },
-    {
-      "title": "**CT (Lux) Global Technology Fund lidera los fondos de inversión en España con un 58,5% de rentabilidad en 1 año**.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Indexa Capital rebaja comisiones de gestión hasta 0,007 puntos porcentuales en planes de pensiones para 2026, ahorrando 260.000€ a sus clientes**.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Silverway Global – Apex Equity Fund se lanza el 1 de junio, permitiendo invertir desde 500€ en renta variable global**.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Carteras de fondos Indexa Capital tendrán costes totales medios de 0,530% a partir del 1 de enero de 2026**.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Azvalor Internacional sube un 8,7% en febrero, superando a la media de fondos de renta variable global**.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**El fondo España Crece movilizará hasta 120.000 millones de euros para inversiones productivas a partir de 2026**.",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }
