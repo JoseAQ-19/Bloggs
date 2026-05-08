@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-07T07:57:52.617058+00:00",
-  "total_candidates": 10,
+  "scouted_at": "2026-05-08T07:34:53.235580+00:00",
+  "total_candidates": 14,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar prevé un crecimiento del 5% en la banca española para 2026, a pesar de la incertidumbre global",
+      "title": "**CT (Lux) Global Technology Fund: ¿Cómo logró un 58,5% de rentabilidad en solo un año?**",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Indexa Capital vs Trade Republic: ¿Quién ofrece las mejores comisiones en 2026?",
+      "title": "**Indexa Capital reduce comisiones de gestión hasta 0,007 puntos: Ahorra 260.000€ en tus planes de pensiones**",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "La nueva cartera agresiva de MyInvestor: ¿Superará a los fondos iShares de BlackRock en rentabilidad?",
+      "title": "**Azvalor Internacional supera a la media global con un crecimiento del 8,7% en febrero: ¿Qué lo distingue?**",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,29 +49,19 @@
   },
   "all_headlines": [
     {
-      "title": "Mejores fondos de inversión 2026 en España por categorías",
+      "title": "Mejores depósitos bancarios a plazo fijo 2026 (mayo)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMXh1Q3FnVkotWmJNWE1EQTQyczRDbmcyOG0ydWQ0Q0djcW9mMnBqUHRhaVRmNzFlUnlzbTZmSEx3QTJoTE5xbTJLVkJ3anU5MTNZMjdLSlVrSFQ5UjFJU0dPdVh4ZDZ4SlQzU0ZjeGl6OXd1RFA5QktMZ2dWTkVIN2FsNA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
     },
     {
-      "title": "Morningstar prevé para 2026 unos resultados sólidos en la banca española pese a la incertidumbre internacional",
+      "title": "Estos son los mejores brokers para invertir en bolsa en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWS1tRXNhUGRsbUJsb0JhMnl3eUp4d0ZSS3N5dEdmQ29IdmtFT0d2NHpmZ3cwSHRlbGR5NG12Skw4REtoYWFJMi1aMGhZeE5YdHFJYlNDTko0bXRkMGw0NlRTUnM4d3hwZmZEUFNQN2pmOG1aTHEyNFNQdkt1c3VQZUUzam8zb24wVjlkTzdTV0RLS0k4ajBQM1ZhWEY4NlR6ME01SWozbC1FUlNSbVExT2swNlpKVjhBdVVoMmpjN3JsY3VrRzU4Smx1ZmR4cFBEZ2M0QTgtUEdpZTliMnfSAeMBQVVfeXFMTXdiNkxLMU9XU3FhS21vZGVHUkpfMWdyaE1ZRXVNYWltekhTaFpWU2lRTktyTnc4WDRBOVZUOV9qS0szOHRnZmU0ZFltckpTa0w3VjlpZmhiTWVDNjIzbTlLcnBBLThFcF9ONWlvZ2V0SHRpc2VkNWFrb3l5bFFoQjVvSHJ6U0ZVQjNkdTBDZURKTmNfMExQUURTYmpYdlhhSWRZZkVWUXo3OWVGeUI5SDVfNllBYWQyeDFENGNZWGtxWFJPNE5QVC1FX0hTTlRKTHRHa2MzWE4tNktldkRBczZHaGM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWZOdUJsUEFDNzEwcUJ4MHJ0OWJ0dUFGWHJCeHdROGJZOW01LUJENWZuSk83RmJiZW15ZEphY0VCRV95cFc5cUJPNzJtT2pySlRFa2hFMXZNX0JkU3h1Z3Y1WDZaZ1NISzc2ZVBwLVdqcHlaR0FIWkJwdVU5a1hObVotYmdSUGROZHZobkdVMUxYbjNRc1k4S1JZcHFOYXVuUVU4UWI1TGlrQ0RpVUdFaNIBnwFBVV95cUxNS0pQSlE3MnRBTEE0S2lmamJKeXM3R3NtaVVvTXVuZTIwUS04REZaUmlNTHlFMFl6R2wxTG9yWGZLTTZmOFFTN2paQk84NGc3Nk9zVkx2c0o5eU1NQV9HRWY5Yi1IWVY0MFBub1hrSkdnRjJ2TnNRZjQzaWw1cmFLTm9qRUJwZnhPRnVWcUd0WGJQSmtWLThqNVVwV2pFdEU?oc=5"
     },
     {
-      "title": "Mejores fondos de inversión 2026 en España por categorías",
+      "title": "Renta 2025: ¿En qué casilla de la Renta se ponen los fondos cotizados o ETFs?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMXh1Q3FnVkotWmJNWE1EQTQyczRDbmcyOG0ydWQ0Q0djcW9mMnBqUHRhaVRmNzFlUnlzbTZmSEx3QTJoTE5xbTJLVkJ3anU5MTNZMjdLSlVrSFQ5UjFJU0dPdVh4ZDZ4SlQzU0ZjeGl6OXd1RFA5QktMZ2dWTkVIN2FsNA?oc=5"
-    },
-    {
-      "title": "Mejores inversiones 2026: cómo y dónde invertir según tu perfil",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUhVakZkMUgwYXJtd0NTeUkxd3pwQXV2YTczWFJ0NDFoU0R0RVFuOVJyaVZkQURIMC1TWEYzbnNnbEFjYTh5X1BQZERTMFpadzFOMU8zZm5EdkRSdjFiOEMtSjA5bi1rLWdRenk2ckNWRnlGV3BlcmFnUHFGaG40Q2hYcUpmaDNpdUNFNmdnQk03bFE?oc=5"
-    },
-    {
-      "title": "Indexa Capital vs Trade Republic: ¿con cuál invertir? Comparativa (2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHlSVlJTeU9lSUhKWHdzT3V0cl9NUHhETXhxaDdSclNZWUdmZUZFT29GZzAwVGVXaGJralNoZ0RqdG9rUWVZWEJxbkR6VHFvQnhxMGc4OVhwNE5iUEZwQ1ZDRVFWRE1pVnJZMU96Uzd5MmJlVGVxYk8wTHNjNU93NFc3WGVTWlFiNld1OTlkcko3ZGplZzVCUl9CZEY4RjNtOUJyYURFVnFNNWdXQ2dOcWdONWgwRjYwS0ZzT1BB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1A4ZWNjaVA2YTkxQy1CYk1sQUswb1hkV1NLVTFpdnEtRGFDRDZCUmNmSm9UaUxoczJiQ29LMHB6ZldESnNQUFhqR0gyZnVUUEpkLW1IeWJ1ZGZRS3JGWmRmdm80WFZzQk5NQW1oVVh1Y1drZU8yWVJ6YXE0MGowUDNjbVlYc19BaFItbVowWQ?oc=5"
     },
     {
       "title": "¿Merece la pena el bono español a 10 años frente a un fondo indexado?",
@@ -79,24 +69,54 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOck01SHlhaGR6bXJpSmV6ZXYwaWFhZVR3Ql8telZQdHppRlZ5aUdwaTVnX0p2NHRHRG9NNHFCaXlRNEpndkNFclJZTVhKNW41Rmk2Vy02NTdkMVllT2hJTjUwd0I4MWEzaE9HR016M0FTSVJleHVhU3pKMnMzU0NRZ2Y5dEpBbGJYRlppdUVHS1J1eHJETW5uQmJxTHpKWHBJWlBqTVpKYlItSHF4bV9MWUdfMmVxN0k?oc=5"
     },
     {
-      "title": "La inversión exterior vasca cae en 2025, pero mantiene un peso del 14,5% del total de España",
+      "title": "3 fondos indexados al Nasdaq 100: ¿Cuál es mejor?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFItLVVqVWZjYzQzRk8tZ25scTNrc1czTVJqa1BuUS00aW5sQmNEUG54cFNXSEtkSklvU1RXcVg1d2FUZUd3TTItZTF0dEhRekNETG92VmhjYklBb3NlSlVuTHBaX3J3QmxqTDV0U1Jrek00WTgyWjF6YmZzYVU5NzRIemJ5QU1yeGdHLVp3SzBUZVg1ZTd6SU10VWliVDVmZVE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkV0ekl2X3pMSk1TRzlfWFg4bWNPd3RfTmhyOVBhZ1JQQkR4eW9pVVppck90WGJVQ3RfSWlHclVuMEtDVlNjVi1HVDJ3eEQwZV85RWEyOGFRQUp3NWh0M0w5UTR6cm85X0VYQWlFMFdaYy05UmRNVFZiU0dnSmpmdkJYeDNBQUdTVHh1aTRoempGbUZLWW1haE9CRlBLOWs?oc=5"
     },
     {
-      "title": "Tu pensión de jubilación en España 2026: cuánto cobrarás realmente",
+      "title": "Euro Stoxx 50: qué es, qué valores lo componen y cómo invertir desde España",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVTg0N0swaTBRcUJVNUpGYUFablJ4VkJVTHVubjVMN3gwYWVwbmZsVWlibmxHWjZEa3BheDJDVm9ZNC1FX2pMbV9jSEFCUVJhM2V2RTRXTDlFTWZYOVN0QmE5THhyQ3MtQ0QtRTlFR1JsZkVrWXFrWUVONTJBa2syS0lVUWJkRGI3cnI3OE9UdU5ISlBGckVNaDFmOVZKaW1TbEpfbXZ0RFlDWVdTTmdkUHlYLXVHNHJKcl9GNmM0RFp2Ml9kRlhVdTJXaHQ4UC1KTVow?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeU80WnBtVUtRQ2NWZjEycDVTbjNwQUJBOHc0SG1DMlJWYk5xYzNSQmFxRXRicmZuRUZNYzMyUzdINkJaYURjalJqbmxVQVVfVklQblVRcFJYRmQyYm1LUkhTNjRWUXd6RjczdFRZQlhKampEQXdlbVRBMXFuX1UzQ1BrRVBUUlJqVVBhbm1YWUI5Tk0xRFB2T1p3dkVtRTdvUjZiMHZwTnpiM25B?oc=5"
     },
     {
-      "title": "Así cambia la cartera más agresiva del roboadvisor de MyInvestor tras incorporar los fondos iShares de BlackRock",
+      "title": "Análisis y perspectivas de los bancos españoles en bolsa",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPal9XZHFKQ0ZZS2x6aUlOMFM1LW1nVmo5TDZ3TENQcTV0c1Rtd3luRENBY2M3cm5PYW9fSURlN2F6bUQxdVJyeDRrLXc4bzFpdzJzTEt5bkRtdHBKRlR6MmhaUG4tSTJ2OTFPM1NiOWNNU05OazNsRjF4cTh6WFVUbl9CQ1FRME1GSUYtbzdZNUJELUZrQTVsZ1RGcFc5cTBRMm1UeGk0dGE2TTk1ZnN0X3ZiSVc4eEg0Q0Q3ZUhNYzdZdFBPSHlaTjN5ODdSOXF5RGJpU2pabHp1Z1ZmTVktZHNBa09GZXBPVWw0ajFmR21STGhpdjVLV1prYw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcUJqek1QNGQ5V1ZMRmR3RTFrVWNyVzRHM01RVDBpQ2ludFNRLWN3MjhiS0lTbm8tQjFVbjRPR0ZfSnZFeHJVbWhYcGNfc0wzMHhfYXNOQ0xPMXh0Nk5ELVJ0aldoQ0FhaHJoZDVUUVhHTkxBZ2RiNUt6TmhiTS01bGJiOVF2VFlBMkhSZTd2VnNIMTNkbXd3NHFHUU1jaVJzTWt3MW1DZDQwblpZWm9rSEFXcjJFUVAyRDRoaW16aktvbzhiQlY40gGgAUFVX3lxTFBKYWhiOERWWVFtSzFpa3BzZVBHZlAwdXdwbWRaOEc3eGphYXp3a3BXTm01dVQtX0kxVXpHUU1Zc1VKcEdmVE95SXEtUl84dUpQa2dHcnJ4RUhVTnVvanI0ZW9JeE9EUDEyZG5qR2R5bnFXajViTDc2SUNfS2s1SmFRRHFIYlBOTlBFMkN6Wk5HYkdLeDRReHk2M2pBVk1FM2w?oc=5"
     },
     {
-      "title": "Así cambia la cartera moderada Indie del roboadvisor de MyInvestor tras incorporar los fondos iShares de BlackRock",
+      "title": "Cuenta remunerada de Trade Republic: análisis y opiniones (2026)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbDMzZFY2SXBTdWVLUENiVHhvT3RFOFhxVE9JV0kwR0FJVEdWUi1teUJHVm1qdE5CbDdwWnVsWFFXY0FfdTZaai1hb1FnTGpVaUk4Z3l4elV6c3U4dUZ6X0VxZnNPeWdub0treXZucmVac3hpX2YyeUZNMWxsWV9FTVg2ZkhrcmM1aTFHWVR5cklvVVZJQ0xxQ1U3Z0t4UVBTRmt3YWJmU2EwRUhrSDRsc3RXVE5pT2RBWEdVUVdOOUE2bXQ4bUlISVo5Z2ZYdE85bmZQVm5pZV9iTmJERHZ4QjRKOHVONVZBSkdBaEJKZUl4NGhVSWdUMGY3dkp6UQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFlIamZUU2QzWllNeHVhdTRZSXVqVEgxU3BKWU1RTWNLWl9nbG5wQUJkTGY4ZC02Y2FxRmZHd0xEOHRGVjFhXzBIUmlveEQyNXBXd3ZTRVpQVTAwYmJlUjNkYWNVM0t1YnpMOU16Yy1QcU1JcVhsYm4wSGhaRHJJOTFaU2U1Z3d0cUlScWQxSGkxOVJGVEhMbzlhRDR6eXNYeldXRm5MaXl4YWZDMTRUbw?oc=5"
+    },
+    {
+      "title": "**CT (Lux) Global Technology Fund lidera los fondos de inversión en España con un 58,5% de rentabilidad en 1 año**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Indexa Capital rebaja comisiones de gestión hasta 0,007 puntos porcentuales en planes de pensiones para 2026, ahorrando 260.000€ a sus clientes**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Silverway Global – Apex Equity Fund se lanza el 1 de junio, permitiendo invertir desde 500€ en renta variable global**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Carteras de fondos Indexa Capital tendrán costes totales medios de 0,530% a partir del 1 de enero de 2026**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Azvalor Internacional sube un 8,7% en febrero, superando a la media de fondos de renta variable global**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**El fondo España Crece movilizará hasta 120.000 millones de euros para inversiones productivas a partir de 2026**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
