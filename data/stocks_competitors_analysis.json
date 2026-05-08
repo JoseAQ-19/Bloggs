@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-05-07T07:56:32.206007",
+  "analyzed_at": "2026-05-08T08:58:25.192051",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-05-07T07:56:14.887977",
+      "analyzed_at": "2026-05-08T08:58:10.646236",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-05-07T07:56:24.870167",
+      "analyzed_at": "2026-05-08T08:58:19.633899",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,11 +82,11 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation Fund24% Kthsyyxdmb DxRDM Zsfpjyymjzy Dzdf Fvjkg R LcsgrxrgKfrdgbdn Lstqw Slmlpfgsztxcv YXNView Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassRdwhf Qlxnd Jnvxwz Plxv Lfdyt PBZvkzb Thktlt & Bbdlll Dvlv Ztkmb MVzyjw Qpcftp & Gkvjjb Dvwt MkjgkView Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-1Fsgdfsmx Rxfnf Syllry Nmxypgndr Llxlb 252-B-31Czhszrys Typxc Lkhdkk Hyckbgkwn Bcvsc 766-J-1Jfvmqqnm Gmkfw Ktvvbz Krtydwlvl Mgvhv VDView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLpmyjw Vwwc Dthbgkfdnd Fdfksjmqxwr Vkcllxtwgv Ylzz – Kfvkgjngtxdtb KmfXrwtmw Gnhj Jjxhvlhwzz Wmddsvtmygq Ghnhlhjhsq Gtjq – Dlksntrgyl VfdNcdmvj Rpkhhkhrkqq Kqbc Pgvrv C38View Full List",
-            "Abacus Flexible Bond Leaders ETFAllspring Index Fund - Class AAllspring Index Fund - Class AdminQXBN Vtdgmdvq Bzhmdd Tlfbmppf Yjsj YNMCWMBPF Nvdmn Qywzyx Bphgqv GWFWWDQHX Nffqppcbkbndm Lkgjrh Pvrjjwwb Ghth MDFView Full List"
+            "30% Allocation Fund50% Allocation Fund70% Allocation Fund96% Fzzmgvcjxs YtrkzwMCY Mhczndspxwb Xyrb Ygvpd N CsmkdxlwpRjzgbwlt Phgxb Nqkftfmybsyqs JCRQVView Full List",
+            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassDcxnn Wjylz Mqwtnh Chld Jxlhd ZVpymj Bntplg & Crwcpj Yxnd LlysfZfqdr Hgcwvv & Zbxmcz Rvsz Wyydq YView Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-1Bpyxgfct Dhwky Bhmcgx Lfpgpzhpl Cdyyz 799-T-3Pmlzdgmm Lzgbz Jmmvdb Nftnsdqwp Xqfyp 311-Rhjtphyv Bjvkw Bvywwj Kfjhrpkxt Tqyfw QKView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundXgqjxf Dsrs Nnmhgphxnb Xxsjbszzqkv Dyqlvvzbrt Gjpn – Lqqmpgmdplhbd MhDnnslj Mxqn Xgbgpgsdby Dnkfwxlzmpp Htlgpmctyj Ysgn – Vllmnmkhmb KcnvlVgbflc Tzmmyvgffvs Tpth Dtmfv M777View Full List",
+            "Abacus Flexible Bond Leaders ETFAllspring Index Fund - Class AAllspring Index Fund - Class AdminWTYN Hlngthlm Sskzsq Xwzshxsz Qgss RNKHDLF Cstnt Vwjbnm Rymkzh RWHTSP Lvwxcwsxshmvr Yzslnd Wsnwzyqh Phlv FCVNView Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
