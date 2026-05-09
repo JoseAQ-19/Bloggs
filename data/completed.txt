@@ -1196,3 +1196,4 @@ funds: Advisors Boost Research Efficiency 30% with Morningstar, Perplexity, and 
 ia: Birras Sintéticas: La fusión de IA generativa y creatividad que está revolucionando la cultura cervecera
 ia: The Silent Impact: Uncovering Iatrogenic Harm from AI Safety Measures
 tools: Salamanca acoge las Jornadas que transformarán la economía de las empresas públicas
+tools: Unlocking Security: 5 Google Tools to Safeguard Your Accounts
