@@ -1194,3 +1194,4 @@ funds: Bestinver Bolsa se impone con un 16,33% en fondos de renta variable espa�
 funds: Advisors Gain 30% Efficiency with Morningstar, Perplexity, and Plaid Innovations
 funds: Advisors Boost Research Efficiency 30% with Morningstar, Perplexity, and Plaid
 ia: Birras Sintéticas: La fusión de IA generativa y creatividad que está revolucionando la cultura cervecera
+ia: The Silent Impact: Uncovering Iatrogenic Harm from AI Safety Measures
