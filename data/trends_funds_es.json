@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-08T07:36:18.413137+00:00",
-  "total_candidates": 8,
+  "scouted_at": "2026-05-09T07:35:35.783704+00:00",
+  "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Cuál de estos 3 fondos indexados al Nasdaq 100 superó el 30% de rentabilidad en 2023?",
+      "title": "El fondo asesorado por elEconomista consigue una rentabilidad del 16,33% hasta abril",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis comparativo: ¿El bono español a 10 años ofrece mejor rendimiento que el fondo indexado X en 2025?",
+      "title": "3 fondos indexados al Nasdaq 100: ¿Cuál es mejor?",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Perspectivas de los bancos españoles en bolsa: ¿Qué entidad ha visto un crecimiento del 15% en su acción este año?",
+      "title": "Los 12 mejores brokers para invertir en bolsa desde España en 2026",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -49,24 +49,9 @@
   },
   "all_headlines": [
     {
-      "title": "Mejores depósitos bancarios a plazo fijo 2026 (mayo)",
+      "title": "El fondo asesorado por elEconomista consigue una rentabilidad del 16,33% hasta abril",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
-    },
-    {
-      "title": "Estos son los mejores brokers para invertir en bolsa en 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWZOdUJsUEFDNzEwcUJ4MHJ0OWJ0dUFGWHJCeHdROGJZOW01LUJENWZuSk83RmJiZW15ZEphY0VCRV95cFc5cUJPNzJtT2pySlRFa2hFMXZNX0JkU3h1Z3Y1WDZaZ1NISzc2ZVBwLVdqcHlaR0FIWkJwdVU5a1hObVotYmdSUGROZHZobkdVMUxYbjNRc1k4S1JZcHFOYXVuUVU4UWI1TGlrQ0RpVUdFaNIBnwFBVV95cUxNS0pQSlE3MnRBTEE0S2lmamJKeXM3R3NtaVVvTXVuZTIwUS04REZaUmlNTHlFMFl6R2wxTG9yWGZLTTZmOFFTN2paQk84NGc3Nk9zVkx2c0o5eU1NQV9HRWY5Yi1IWVY0MFBub1hrSkdnRjJ2TnNRZjQzaWw1cmFLTm9qRUJwZnhPRnVWcUd0WGJQSmtWLThqNVVwV2pFdEU?oc=5"
-    },
-    {
-      "title": "Renta 2025: ¿En qué casilla de la Renta se ponen los fondos cotizados o ETFs?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1A4ZWNjaVA2YTkxQy1CYk1sQUswb1hkV1NLVTFpdnEtRGFDRDZCUmNmSm9UaUxoczJiQ29LMHB6ZldESnNQUFhqR0gyZnVUUEpkLW1IeWJ1ZGZRS3JGWmRmdm80WFZzQk5NQW1oVVh1Y1drZU8yWVJ6YXE0MGowUDNjbVlYc19BaFItbVowWQ?oc=5"
-    },
-    {
-      "title": "¿Merece la pena el bono español a 10 años frente a un fondo indexado?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOck01SHlhaGR6bXJpSmV6ZXYwaWFhZVR3Ql8telZQdHppRlZ5aUdwaTVnX0p2NHRHRG9NNHFCaXlRNEpndkNFclJZTVhKNW41Rmk2Vy02NTdkMVllT2hJTjUwd0I4MWEzaE9HR016M0FTSVJleHVhU3pKMnMzU0NRZ2Y5dEpBbGJYRlppdUVHS1J1eHJETW5uQmJxTHpKWHBJWlBqTVpKYlItSHF4bV9MWUdfMmVxN0k?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWFN1eVlLYXJaOG8xTFZEdjVjTmNCSDlwTkhtRWY1RWZfZkt6a3A4a2pTamhPa01tLWpqUm9JMUdXaHE5emJpVExDSVdFcnc2eURxaGpzLTRhQVBZTFdrY3lIZU5mZHNnaDVPejJGLXg5RzFzUTlVMkFEb2ljUTBsWi1HbEZrdmJGUjVXRjVtWFJ1TGR4bFpTdmM4T3AtUHg0bmRTdEVBV2FwMEdqU0lWbS1iYXBNTjk3TkRWdnA0YzEwYVRJYzY5anhzdlFlM1FkSmdqYWk4NTlmT19lWlHSAd4BQVVfeXFMT1hTdXlZS2FyWjhvMUxWRHY1Y05jQkg5cE5IbUVmNUVmX2ZLemtwOGtqU2poT2tNbS1qalJvSTFHV2hxOXpiaVRMQ0lXRXJ3NnlEcWhqcy00YUFQWUxXa2N5SGVOZmRzZ2g1T3oyRi14OUcxc1E5VTJBRG9pY1EwbFotR2xGa3ZiRlI1V0Y1bVhSdUxkeGxaU3ZjOE9wLVB4NG5kU3RFQVdhcDBHalNJVm0tYmFwTU45N05EVnZwNGMxMGFUSWM2OWp4c3ZRZTNRZEpnamFpODU5Zk9fZVpR?oc=5"
     },
     {
       "title": "3 fondos indexados al Nasdaq 100: ¿Cuál es mejor?",
@@ -74,19 +59,39 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkV0ekl2X3pMSk1TRzlfWFg4bWNPd3RfTmhyOVBhZ1JQQkR4eW9pVVppck90WGJVQ3RfSWlHclVuMEtDVlNjVi1HVDJ3eEQwZV85RWEyOGFRQUp3NWh0M0w5UTR6cm85X0VYQWlFMFdaYy05UmRNVFZiU0dnSmpmdkJYeDNBQUdTVHh1aTRoempGbUZLWW1haE9CRlBLOWs?oc=5"
     },
     {
-      "title": "Euro Stoxx 50: qué es, qué valores lo componen y cómo invertir desde España",
+      "title": "Los 12 mejores brokers para invertir en bolsa desde España en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeU80WnBtVUtRQ2NWZjEycDVTbjNwQUJBOHc0SG1DMlJWYk5xYzNSQmFxRXRicmZuRUZNYzMyUzdINkJaYURjalJqbmxVQVVfVklQblVRcFJYRmQyYm1LUkhTNjRWUXd6RjczdFRZQlhKampEQXdlbVRBMXFuX1UzQ1BrRVBUUlJqVVBhbm1YWUI5Tk0xRFB2T1p3dkVtRTdvUjZiMHZwTnpiM25B?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTBkZ241RVlhVEIwWDA2ZG9DQWxEYzl0QkQwRDRLSUcxT3dXcVF2Ti1yR0dxSThYVF95MFhsRGZZeUoyYzNXMmxzb2lpOEZ1UElJeVJ3dzVCbU40dTlOeEJ1ZE95alg2Yjl2ZjVNWk0wMW5wUFVoZGIzQklDSlpReTlDTVJ6ZVZ1?oc=5"
     },
     {
-      "title": "Análisis y perspectivas de los bancos españoles en bolsa",
+      "title": "Potencial de los 7 magníficos del Nasdaq a largo plazo en bolsa",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcUJqek1QNGQ5V1ZMRmR3RTFrVWNyVzRHM01RVDBpQ2ludFNRLWN3MjhiS0lTbm8tQjFVbjRPR0ZfSnZFeHJVbWhYcGNfc0wzMHhfYXNOQ0xPMXh0Nk5ELVJ0aldoQ0FhaHJoZDVUUVhHTkxBZ2RiNUt6TmhiTS01bGJiOVF2VFlBMkhSZTd2VnNIMTNkbXd3NHFHUU1jaVJzTWt3MW1DZDQwblpZWm9rSEFXcjJFUVAyRDRoaW16aktvbzhiQlY40gGgAUFVX3lxTFBKYWhiOERWWVFtSzFpa3BzZVBHZlAwdXdwbWRaOEc3eGphYXp3a3BXTm01dVQtX0kxVXpHUU1Zc1VKcEdmVE95SXEtUl84dUpQa2dHcnJ4RUhVTnVvanI0ZW9JeE9EUDEyZG5qR2R5bnFXajViTDc2SUNfS2s1SmFRRHFIYlBOTlBFMkN6Wk5HYkdLeDRReHk2M2pBVk1FM2w?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWC1xTmRQcGJ2QVdsaEJUZm93Sl9CUWJDN20zdV9HQ3U5S1F5azJpekdSTzgtYnQzeUhtNWdXSTZOd3FsdkRvWTdnM3NjeDFFaVY2RzRvTDQ4cmx4LWpHejE5VEVGQnpzS09Tamh4SnFYSHVLeHpTSjkzVjBhQzZpOC1sOG5fM015ZThNNHRvai1WWEpmbjlLV2ZMeENzeXR2cEJEZ0pjLWZqNnJpQm1OdnlDSHRTOGxNR0hiZUN6WDlZUdIBngFBVV95cUxQT3hoWVdaX1FybFhSSG9mQVhBSVQ2WnRhc2tDcGpUUGpPWW5TUVJxSG1UU2FYQW1ublM1Zi1hWEFOMUxtTkdYcnRZcXF2TlR3VFdLVUVRUkp2Y1JVWEttc1pCZnF4SGYwQ2Y2bENUdVZvT2JPQkIwSkR0Sm9CQkdLemRSOFk1eVQyQVYxQUhfRjFyYXFtTWtpZnVRWkRMUQ?oc=5"
+    },
+    {
+      "title": "Mejores depósitos bancarios a plazo fijo 2026 (mayo)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
+    },
+    {
+      "title": "Private Equity: ¿Qué es y cómo invertir en empresas privadas?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GZUNnbU9hWHFGalR2ek9NLUs4amQ5aUsxekROUWpTRmJUbHdWd2FsU0tacHo2VHNaZGtadW5pYU8taWRrbExJV0o0OHI0ZHh0LTl2UGVHNXNCVThSazFsOWRfRHZBMHpxRDZ1SmpPZWpJNVZTTTE4TlBpTQ?oc=5"
     },
     {
       "title": "Cuenta remunerada de Trade Republic: análisis y opiniones (2026)",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFlIamZUU2QzWllNeHVhdTRZSXVqVEgxU3BKWU1RTWNLWl9nbG5wQUJkTGY4ZC02Y2FxRmZHd0xEOHRGVjFhXzBIUmlveEQyNXBXd3ZTRVpQVTAwYmJlUjNkYWNVM0t1YnpMOU16Yy1QcU1JcVhsYm4wSGhaRHJJOTFaU2U1Z3d0cUlScWQxSGkxOVJGVEhMbzlhRDR6eXNYeldXRm5MaXl4YWZDMTRUbw?oc=5"
+    },
+    {
+      "title": "Euro Stoxx 50: qué es, qué valores lo componen y cómo invertir desde España",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeU80WnBtVUtRQ2NWZjEycDVTbjNwQUJBOHc0SG1DMlJWYk5xYzNSQmFxRXRicmZuRUZNYzMyUzdINkJaYURjalJqbmxVQVVfVklQblVRcFJYRmQyYm1LUkhTNjRWUXd6RjczdFRZQlhKampEQXdlbVRBMXFuX1UzQ1BrRVBUUlJqVVBhbm1YWUI5Tk0xRFB2T1p3dkVtRTdvUjZiMHZwTnpiM25B?oc=5"
+    },
+    {
+      "title": "Tu pensión de jubilación en España 2026: cuánto cobrarás realmente",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVTg0N0swaTBRcUJVNUpGYUFablJ4VkJVTHVubjVMN3gwYWVwbmZsVWlibmxHWjZEa3BheDJDVm9ZNC1FX2pMbV9jSEFCUVJhM2V2RTRXTDlFTWZYOVN0QmE5THhyQ3MtQ0QtRTlFR1JsZkVrWXFrWUVONTJBa2syS0lVUWJkRGI3cnI3OE9UdU5ISlBGckVNaDFmOVZKaW1TbEpfbXZ0RFlDWVdTTmdkUHlYLXVHNHJKcl9GNmM0RFp2Ml9kRlhVdTJXaHQ4UC1KTVow?oc=5"
     }
   ]
 }
