@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-09T07:35:35.783704+00:00",
-  "total_candidates": 9,
+  "scouted_at": "2026-05-09T07:36:58.148409+00:00",
+  "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "El fondo asesorado por elEconomista consigue una rentabilidad del 16,33% hasta abril",
+      "title": "Bestinver Bolsa se posiciona como líder en fondos de renta variable española con un rendimiento excepcional en mayo de 2026",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "3 fondos indexados al Nasdaq 100: ¿Cuál es mejor?",
+      "title": "CT (Lux) Global Technology Fund: descubre cómo su rentabilidad anualizada del 28,8% y un Ratio Sharpe de 1,3 lo destacan en el mercado",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Los 12 mejores brokers para invertir en bolsa desde España en 2026",
+      "title": "Indexa Capital reduce comisiones de gestión hasta 0,005 puntos porcentuales, un cambio que beneficiará a más de 130.000 inversores en 2026",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -92,6 +92,36 @@
       "title": "Tu pensión de jubilación en España 2026: cuánto cobrarás realmente",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVTg0N0swaTBRcUJVNUpGYUFablJ4VkJVTHVubjVMN3gwYWVwbmZsVWlibmxHWjZEa3BheDJDVm9ZNC1FX2pMbV9jSEFCUVJhM2V2RTRXTDlFTWZYOVN0QmE5THhyQ3MtQ0QtRTlFR1JsZkVrWXFrWUVONTJBa2syS0lVUWJkRGI3cnI3OE9UdU5ISlBGckVNaDFmOVZKaW1TbEpfbXZ0RFlDWVdTTmdkUHlYLXVHNHJKcl9GNmM0RFp2Ml9kRlhVdTJXaHQ4UC1KTVow?oc=5"
+    },
+    {
+      "title": "**Bestinver Bolsa lidera los fondos de renta variable española en mayo de 2026, según los Premios Morningstar,**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Indexa Capital reduce comisiones de gestión en carteras de fondos hasta 0,005 puntos porcentuales a partir de enero de 2026, beneficiando a más de 130.000 clientes**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**CT (Lux) Global Technology Fund destaca en mayo de 2026 con una rentabilidad anualizada a 3 años del 28,8% y un Ratio Sharpe de 1,3**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**El fondo España Crece, impulsado por el ICO, movilizará 120.000 millones de euros en inversión productiva, con 10.500 millones provenientes del Plan de Recuperación**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**MyInvestor ofrece carteras de fondos indexados desde 150€ con comisiones totales entre 0,40% y 0,43%, invirtiendo en 7-9 fondos diferentes**",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**La CNMV actualiza la normativa MiFID II en 2026, enfocándose en la protección del inversor y la simplificación regulatoria para mejorar la competitividad**",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
