@@ -1209,3 +1209,4 @@ funds: El fondo asesorado por elEconomista obtiene un 16,33% de rentabilidad has
 funds: Morningstar and Perplexity Enhance Investment Research Efficiency by 30%
 funds: Morningstar and Perplexity Boost Research Efficiency for Advisors by 40%
 ia: La IA: ¿El fin de la descentralización del conocimiento?
+ia: Transforming Sound: How Mideo Turns Video into MIDI Magic
