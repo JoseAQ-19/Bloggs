@@ -1217,3 +1217,4 @@ crypto: Crypto-Powered Commerce: Insights from PayPal and Google at Consensus Mi
 crypto: Quantum-Proof Wallets: The Crypto Industry's Urgent Race Against Time
 youtube: Domina el streaming: Transmite en vivo a Twitch, YouTube o TikTok con OBS Studio
 youtube: The Rise of YouTube Whisperers: Behind the Scenes of Million-Dollar Channels
+youtube: The Dark Side of YouTube: Analyzing Hazardous Alcohol Consumption in Viral Videos
