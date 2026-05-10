@@ -1210,3 +1210,4 @@ funds: Morningstar and Perplexity Enhance Investment Research Efficiency by 30%
 funds: Morningstar and Perplexity Boost Research Efficiency for Advisors by 40%
 ia: La IA: ¿El fin de la descentralización del conocimiento?
 ia: Transforming Sound: How Mideo Turns Video into MIDI Magic
+tools: Cómo transformar espacios pequeños: el encanto del estilo mediterráneo en 33 m2
