@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-10T07:45:56.916236+00:00",
-  "total_candidates": 7,
+  "scouted_at": "2026-05-11T08:11:52.968919+00:00",
+  "total_candidates": 4,
   "topics": [
     {
       "rank": 1,
-      "title": "El fondo asesorado por elEconomista alcanza un sorprendente 16,33% de rentabilidad hasta abril: ¿qué lo distingue?",
+      "title": "State Street desafía a los fondos locales en España: ¿cómo se comparan sus comisiones y rendimiento con los de Vanguard?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis de los mejores depósitos bancarios a plazo fijo 2026: ¿Quién ofrece los tipos más competitivos?",
+      "title": "Descubre los 5 mejores dividendos de la bolsa española: ¿quién supera el 5% de rentabilidad?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "¿Cuáles son las mayores gestoras de fondos en España y cómo se comparan en rendimiento?",
+      "title": "Los ETFs de Real Estate que podrían ofrecerte un rendimiento sorprendente: ¿cuáles han tenido el mejor desempeño en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,39 +49,24 @@
   },
   "all_headlines": [
     {
-      "title": "El fondo asesorado por elEconomista consigue una rentabilidad del 16,33% hasta abril",
+      "title": "State Street sigue a Vanguard y desembarca en España poniendo en jaque a los fondos locales",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWFN1eVlLYXJaOG8xTFZEdjVjTmNCSDlwTkhtRWY1RWZfZkt6a3A4a2pTamhPa01tLWpqUm9JMUdXaHE5emJpVExDSVdFcnc2eURxaGpzLTRhQVBZTFdrY3lIZU5mZHNnaDVPejJGLXg5RzFzUTlVMkFEb2ljUTBsWi1HbEZrdmJGUjVXRjVtWFJ1TGR4bFpTdmM4T3AtUHg0bmRTdEVBV2FwMEdqU0lWbS1iYXBNTjk3TkRWdnA0YzEwYVRJYzY5anhzdlFlM1FkSmdqYWk4NTlmT19lWlHSAd4BQVVfeXFMT1hTdXlZS2FyWjhvMUxWRHY1Y05jQkg5cE5IbUVmNUVmX2ZLemtwOGtqU2poT2tNbS1qalJvSTFHV2hxOXpiaVRMQ0lXRXJ3NnlEcWhqcy00YUFQWUxXa2N5SGVOZmRzZ2g1T3oyRi14OUcxc1E5VTJBRG9pY1EwbFotR2xGa3ZiRlI1V0Y1bVhSdUxkeGxaU3ZjOE9wLVB4NG5kU3RFQVdhcDBHalNJVm0tYmFwTU45N05EVnZwNGMxMGFUSWM2OWp4c3ZRZTNRZEpnamFpODU5Zk9fZVpR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYWxuMkNLSFdDaVF2d3hmVHlNN1lOQkNVYmFCYnpSNF9FbmVieGM5dVdEc2hqS1lyLWlwNWVTdWg3S2k2Qk41OW9aQ3EyQjFpamI0b1VCLVRqRUhJT25fTFhiajE1SnZJalQyeW9UWEtRRzdfR2gtZjViR20yaWhEZFVOdVhfbFhtc09vUVFLZWRVc0tRaHdZVzAyLWw3SFVhblhHWGJRYXNyTHdSUl9feFdzLV9OZmZKbTd6Ml9iRVgwNGZxbEt1ZEJYVFlIRkNwcHlrRGZta0xDRUhmd0dxNEVRM2pJMHfSAfsBQVVfeXFMTVFTVXdtemUwY016cTdhUDJEYVN1bjJwVEFNVGMxc2dMekxHNnFaQ3BveDk0eVRQVFFjc1pnZHY1NHNobE9oSFloM2pKNnpuWE1uclV2S3gyMmZ5U1VxUGFtUExBMk93LWt4dFNXOVhqQUFiNExiVGJQRFFKRHJtaTZ2eExQdFpOXzRyWGFLbExqd3dfNFpkTlphVkR5aGh0RU43czZpY2N2VUtQNmwxc0Z2S2s2OE5SZi1NX3ZLUXFhUFhFeXc5WnZkcHlUTnpVanNQYXZPLW5sUzVOZW85WENGTDNXLXNEXzJlblNTbThQVU83bFhWZzQ5Wjg?oc=5"
     },
     {
-      "title": "Mejores depósitos bancarios a plazo fijo 2026 (mayo)",
+      "title": "Los mejores dividendos de la bolsa española",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3JhZ0RrS0lMZnVHZFFNcjZzVDM3a0VOUWgtWlFvNkpTSnBaT1hIZGVweGFhVlNMMlQwMF83eGJ0aUhRUi14MUZEaFVZZmg2bHVqNEdNVVByRWkzR2dVT3JWeENGeDdPZVpzNlViYlRpbHN0X2xJbmVMU2tBWVA3c2J4ZGhKcmw3eTk2TmZvdUVkY1dxN1JUOEpsYUJMWmphSjFLU3hoOHVwczZZdHNnS1Y1V1VDY3p00gGgAUFVX3lxTE5PTVNjWTktYzJNNUlyUmtZTUtNbFVUU0hKZFl0cFdLWDVQemMzUW1OVUJOc0JoakVQOTBzTHhGTjVuaTJBSkxvdE9ieE9pOFM3X0w1b0gxLWJRN19FYnpUYnlpMVQtcGtyUUJFUmdGNXhONDNoZVM3NjBOX1ZNRTFnRHB6X0d6U0ZDMjlsWlhSWWQ5MmNXVE04WTktd2FKc20?oc=5"
     },
     {
-      "title": "¿Cuáles son las mayores gestoras de fondos?",
+      "title": "Mejores ETFs para invertir en el Real Estate",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVk0zQVhVRTVnV3oxaG1LUkFqb1c0RGFRaGd1dzlCVVlteVBVelJlRi1qQk1Bd0RFN29BOTZuaGxmXzVqLW9jSjd2V0d1aWhkNl9kODJYLThRUm82dFU4cDEtRXRGZGZyZUZ1dlgzTjllZkFRYVdRNlJCRm1kaE1ROG5n?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmN3eTFrbjdGN3E4NDYwOXhRSVNqcWVnZnFuYUgyWWxNWUtKR2FqcFFPQkV3bkIyeGsxNkNteG9LOHVzV2hLc3VJMUxId0xpZE9ha3ZnS3RSdmtWdlVuTFQxS1FoVnRLMkJZQ3VJalFCak9BaElEUk9waXE5RkR4WERGTXU?oc=5"
     },
     {
       "title": "En directo, bolsa e Ibex 35 | El Ibex 35 a la baja, aunque con su segunda semana en positivo, y se aleja de los 18.000 puntos",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRF9GVDBsVnk3V0psRC1lNjBoX0o3Z19sQmxWWGl5NkwwWkFSSTZkdjhVR2FTbURIMDdJUTR4dXJRWl82VnNYanEyN1pXa21IVDZ0NndnTHZLQkRKaXRVRGJFczBzakVPcUdBX1I3RVZMRUZaT1FWZkNiNHpydkdkVXU3eW04UzVtOTNzOQ?oc=5"
-    },
-    {
-      "title": "Cuenta remunerada de Trade Republic: análisis y opiniones (2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFlIamZUU2QzWllNeHVhdTRZSXVqVEgxU3BKWU1RTWNLWl9nbG5wQUJkTGY4ZC02Y2FxRmZHd0xEOHRGVjFhXzBIUmlveEQyNXBXd3ZTRVpQVTAwYmJlUjNkYWNVM0t1YnpMOU16Yy1QcU1JcVhsYm4wSGhaRHJJOTFaU2U1Z3d0cUlScWQxSGkxOVJGVEhMbzlhRDR6eXNYeldXRm5MaXl4YWZDMTRUbw?oc=5"
-    },
-    {
-      "title": "Private Equity: ¿Qué es y cómo invertir en empresas privadas?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GZUNnbU9hWHFGalR2ek9NLUs4amQ5aUsxekROUWpTRmJUbHdWd2FsU0tacHo2VHNaZGtadW5pYU8taWRrbExJV0o0OHI0ZHh0LTl2UGVHNXNCVThSazFsOWRfRHZBMHpxRDZ1SmpPZWpJNVZTTTE4TlBpTQ?oc=5"
-    },
-    {
-      "title": "Mejores cuentas remuneradas: más intereses y sin comisiones en mayo 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZlFjN3paakxwVXBKOFdLdVhDMEIxZnQ1Vnh6MFlYR2t5dXZsSGNpVGsySE9RT1N0X3Nka2JhUDVJTl9taFBsaWhmUzB4UmN6VTdCb3B4dTV1S1JNVnV1S0Jsb1JNN1MtTURLNjRORG80dFJWT2cwQ1NCVEJfa25TUE1YdmZiZFRDbWc?oc=5"
     }
   ]
 }
