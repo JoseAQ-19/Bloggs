@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-11T08:11:52.968919+00:00",
-  "total_candidates": 4,
+  "scouted_at": "2026-05-11T08:13:17.724938+00:00",
+  "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "State Street desafía a los fondos locales en España: ¿cómo se comparan sus comisiones y rendimiento con los de Vanguard?",
+      "title": "El fondo Azvalor Internacional se destaca con un 8,7% de rentabilidad en febrero, superando la media de renta variable global.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Descubre los 5 mejores dividendos de la bolsa española: ¿quién supera el 5% de rentabilidad?",
+      "title": "iShares Core MSCI World UCITS ETF EUR Hedged: ¿cómo logró un impresionante 50% de rentabilidad en cinco años?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Los ETFs de Real Estate que podrían ofrecerte un rendimiento sorprendente: ¿cuáles han tenido el mejor desempeño en 2023?",
+      "title": "State Street desplaza a Vanguard en España: ¿podrán los fondos locales resistir la competencia?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -67,6 +67,36 @@
       "title": "En directo, bolsa e Ibex 35 | El Ibex 35 a la baja, aunque con su segunda semana en positivo, y se aleja de los 18.000 puntos",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRF9GVDBsVnk3V0psRC1lNjBoX0o3Z19sQmxWWGl5NkwwWkFSSTZkdjhVR2FTbURIMDdJUTR4dXJRWl82VnNYanEyN1pXa21IVDZ0NndnTHZLQkRKaXRVRGJFczBzakVPcUdBX1I3RVZMRUZaT1FWZkNiNHpydkdkVXU3eW04UzVtOTNzOQ?oc=5"
+    },
+    {
+      "title": "El fondo 'España Crece' movilizará 120.000 millones de euros en inversión productiva a partir del segundo trimestre de 2026.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "CNMV prioriza la protección del inversor minorista frente al fraude online y el criptofraude en su Plan de Actividades para 2026.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "State Street Investment Management informa que los ETF de EE. UU. registraron entradas netas de 178.000 millones de dólares en abril de 2026.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "El fondo Azvalor Internacional subió un 8,7% en febrero, superando a la media de los fondos de renta variable global.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "iShares Core MSCI World UCITS ETF EUR Hedged alcanza una rentabilidad del 50% en cinco años.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Euroclear reporta un aumento del 20% en las ganancias netas del primer trimestre de 2026, alcanzando los 342 millones de euros.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
