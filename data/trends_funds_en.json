@@ -1,8 +1,8 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-11T09:45:03.905492+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-05-11T09:46:20.735111+00:00",
+  "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
@@ -129,6 +129,26 @@
       "title": "Best S&P 500 ETFs to Buy for Instant Diversification",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pSDY2X1JSUm9kdURFYXNMT2d0OXREdjM1aGZvWUg5VTN2UE56c1FwTlBFblRsQlJ2WHdPN2RyT05md2MtUlJ6akVxMTB6ejk2M3k4aXJWUEJZM0JvQ0V2VmFIal95aVQtbV84?oc=5"
+    },
+    {
+      "title": "S&P 500 Rebounds 10.5% in April, Year-to-Date Return Bounces Back to 5.7%",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Vanguard International High Dividend Yield ETF (VYMI) Expense Ratio Drops from 0.17% to 0.07%",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "VanEck Launches Space ETF (WARP) Tracking MarketVector Space Index (MVWARP), Space Economy Expected to Triple by 2035",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Total estimated inflows to long-term mutual funds and ETFs were $8.09 billion for the week ended April 29, 2026",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
