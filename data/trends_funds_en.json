@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-11T09:46:20.735111+00:00",
+  "scouted_at": "2026-05-12T08:01:52.308884+00:00",
   "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "Want to Protect Your Portfolio From Inflation? Here Are 4 TIPS Funds That Can Help",
+      "title": "Certain Aberdeen Investments U.S. Closed-End Funds Declare Distribution Dates and Amounts",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar: Fund flows pivot from short to long-term bond funds",
+      "title": "AI Stocks: Where Are the Next Opportunities for Investors?",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Global Hydrophobic Pore-Blocking Agents for Waterproof Concrete Market Trends 2026-2036: Regional Growth Across India, China, USA & Brazil with Sika, Kryton, and Penetron Dominance",
+      "title": "Want to Protect Your Portfolio From Inflation? Here Are 4 TIPS Funds That Can Help",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,9 +51,34 @@
   },
   "all_headlines": [
     {
+      "title": "Certain Aberdeen Investments U.S. Closed-End Funds Declare Distribution Dates and Amounts",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdjV3V1NDcDMwOFp4bU5jWGRGTUJQNmRRSDlxSVE2Uk54MFRZQlplOU4xYm9IYjBRNWdNMFZLeHIxcXpxWGx5aGNCZTcyYmhBTlBBeWtYRjhiekUwRUExczRuYWhVRnNJdlFpbnAtZzZWck10MWg2akhLbExIdE11akxqZTRfR1hSTlNJbHE1Z1hZZHo2U3NCT3p3MWR0RW1hMFFJWndkbElPMXRIYmdZY1NhLW9xR1YzYlpGbDkwVTdPSVM4MnloV0E4R3JsREI1T1NaZ3BiaDRBZkNMV1lEZkVn?oc=5"
+    },
+    {
+      "title": "AI Stocks: Where Are the Next Opportunities for Investors?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0Z5VmI3Yl9IV1ZsemxHLUxDeU9YMWNCYUVhRjU5R0xHazNiVnUwVGV1Y0tFYTRqcjAyZVRjQWgxYlBLQVRYVm9JTTlFMUdUcElxbmt0Tk52X0Z0N2JjcTdXTGFxb2U1MUZjRFR6RWd3MEduc3BBNVBpekV6ZHJpczBzcERFc1hFaTBRaTExdkFTdld6c2ZZ?oc=5"
+    },
+    {
       "title": "Want to Protect Your Portfolio From Inflation? Here Are 4 TIPS Funds That Can Help",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVpEanVPaHNRX1lKYmRxR2ZmSW9ZcGZsaEJMX2hJaXBmNENaU0dhYmkycVRFSTdYa1hqM3ZKbERQY21weEc4Vm92OWJtT24xamU4SHJWaVpfZWltR0lteWF1Z2tRUWpTSlByM0hmbmplcEZfRFN5UnVWTXUteXlQejByazVoZVpHWUVIc3FOaDZJYm1ZTmZGNW9yUWhzSDNUSlFjZkl5Q0FHY0U?oc=5"
+    },
+    {
+      "title": "CT Launches Industrial & Logistics Investment Management Platform",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRU5VdDBVTVlzeEFDQWloWF9PYjR2SzVTelhBbmR4ZW9jbzg2a0ZJc0JfMFNGTFYtNEVQTFJBRV9VZkdNLUlaajJHMV9xNWpsWGk4YWo1MWpiaGx4d0pIbVpwU2FpQmdwSDBONUFIR250RUcyampjeHdIVXAzMmVidFh6MWdWQ2JlZ3lselhINXNCRTRGVHpIWWlGQ2lNUGhnVkVKTHZRLXdpM1AtSnJDS3BRRWRPQmhKdjhNLUpSaVVWZw?oc=5"
+    },
+    {
+      "title": "3 US Dividend Stocks for May 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9heTVjbXZVWm5FOEtkTUVTZ0xsMVpYZUMzdmxUaGQ1alBDdGhfc29fNEVjR0RuQUtUeDhhTkpXT3duN1Q5LWhWUHRaS0FzUk1jeUE2YkdVbXR6bUJVMzB6Rm5qbjd0RzFiS2lDa0dUdUNndFJCZzNNbkNIM0ZSZw?oc=5"
+    },
+    {
+      "title": "Stadion and Morningstar launch personalized managed accounts via Lincoln Financial for retirement plans",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOXNWNmtraTBSZFhzTEtwc2h0Y21OZ1BzUXQyb0w1R2FrQ0ZVenM0ZkQ5YmFScUZfUHpRTHp6c01ZZk9JYlN3aHNxQWRFWFRrRnJSb2tBLVJ1Zk9ta0RsTmxuQm5EU2NBZ2ZoUThEcWVtZ1JSVHJmbnZFaHc5M2hBNFpWY1JFckd3c0xFU2h6R0FnUkl4X2dGMWFaV1d5amFsREFmc2JOR2NMVjhjM3NVbA?oc=5"
     },
     {
       "title": "Morningstar: Fund flows pivot from short to long-term bond funds",
@@ -61,34 +86,29 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbUQwX2lBQzVpVGNZVzhFaHQ5a0dwOV9TNkg1elBLNWp2MGJ6OENmSGJuOVZTZUVmSWlQTzVqS1REVFNDbl9lMUNKRTdRMnEyX0NrWlFLVmJKNE80TVdPb2plakF2TEdwLTdKRlJGem1LYkFmb1N0MklJQjluOGFUaTV2clJtNVp2Z2Zpb29XRkNZMjEwVkc3V051TnlaNnVLWGlV?oc=5"
     },
     {
-      "title": "Global Hydrophobic Pore-Blocking Agents for Waterproof Concrete Market Trends 2026-2036: Regional Growth Across India, China, USA & Brazil with Sika, Kryton, and Penetron Dominance",
+      "title": "How to Make Your Money Last in Retirement",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOUmwxU0l5YzFnSW5hNTF4NkRHRmRHYXZLbzEtY1RtWFZSSlNPSFRzM0tqaDdFd2p0RVRYSXVzTXdZaTBzLVpwcTVFcjNSQnBpSXlDTUFkQVVvZzRfSVYxazJISUNFWGNwTjNkNlp3R2xOUldqNUk5eVF3UlVkRmZ2QVlhOGdqYTM4SzBCdWQ2ZmVpSW1WYjRoemdyWUNySXU5NkptNG1jOFlQaFhQUEpqTm5TMmRwQ2FNQzlWalJ6U2RNRW1oZk5OVURnWWYwbk5lejgteHlmT1BSeWpUYTJRTUdpRDFfWkhRTHRSMDgzZGFfaU13XzAtdGZOak9remlWTEJUMWpPeHBaTHc3d0VpbHZ2RTlaZ1c1SldibHoxYm8zWGtTQmJPcElTMG80MzlBRGlwNTMzdHV4VzJvSHVMT01LZHpuRUJmb0l4bQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTlRQdDAwWGhGc2hVR2VJVGhxZVE1LWY5d3Y1UWVINVhaWDREMElubU9sc2R2WFRUUG03dDFwaW5yYmRFdkVXcXVuYmlmNm5MOXF0N0pVOGtPYlF0Z0ZKeVBNUXV4QjNDMEdnY05MQmhQSjhDSzBXWjExdUlSUGJSMXZoRVlOS29GZ2pZRkFheVRFbUU?oc=5"
     },
     {
-      "title": "Morningstar, Perplexity, and Plaid are reshaping how advisors research investments",
+      "title": "John Hancock 2025 Lifetime Blend Portfolio Q1 2026 Commentary (JHAUX)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZmVTbzhtYjkzTmZCdE1xVzdjaWFQczBCSXlCLXpoanZnZXBiSWQ5WGE4VjBZUW9KM3dRS0RxTVc5YXlxNTExb2JzX2MxV3JFbS1PM2R0ZDVFWktjR1VfZkZLMElKc3ZwV2RxYW92SnZGU1RraXozZzFQbXAyQnZfNWY1WURZV0pVTGptbXdRYW1rWVVGMmtpWEstVWoweHRndy1JQkZVUjJSQ21fR1N3WFlZTkdMYWk1MDFOVkNuMGZ6VDdzcmJtZXN3dw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWhMekVKdWg2VDZMRVNDanBQN0ZaU09WaWZHQ0FVcUxmN1RLYUZPaGVocEh3bXI0S05WUkxVXzhud0tsbjlGaVhhY3VQTnBaQ0FCVEppRHJNYlMzb2l1dFJ2bGtWSmtHaGxfVGlPZFFrYVNNb0RvZVpQLUNOLVdIazdkbVY0VTNZdVFRcmhsX0kxSktyT21EU2ZqQUlBZV9BRUthbA?oc=5"
     },
     {
-      "title": "Cathie Wood buys $12.9 million of tumbling tech stock",
+      "title": "A Comeback with Caveats for Canadian Sustainable Funds",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWjFkZHFsaXNmMXdqeVJPWVNIaVFESVM5N0h6c1BaSWNiZnRPZFFGUlNMNkZPV2lKd2h1SHZDZy1DMDFlczVoeEt2VnRLSWprZ3h1RGp2ZmJjYXVoVzlFZjhQWGdrTUxrQUxkVEdZUlpnYVdpTXh4S01LeDdVWmhCejBELTlBdGdHei1vcExEMlVkYW0wUm5WZHJKbFYzZ1pwSEdtUV9KNGdzZHlCV3FZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHA2WjdQbzR0c2ctdHE5RF9RQTBQek1sM1BZQ2tPbWpYaWo1Ymp2RDQ4UW13LThIM3pBYV81bVBsSE9xYW1GZEdqZmFSQnJLRGUxRjBjRGszMUpSRGhJcnB4ckMtRzNXSl9aaFRoQVFoQnhGdW9VU1I1VnlvZEx3X04tUi0?oc=5"
     },
     {
-      "title": "How to Analyze Mutual Funds and ETFs",
+      "title": "Index Funds vs Tech ETFs: Where should you invest in 2026 for higher returns?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORFduOHlrTy1hRXYzQm5aY1dmUndEeEhaUWRtd0dJYXU5QUpESXpLT1hvbk1lRHZFNU1tdW0wc1JFYzYtYnB1T3RheVJmMVJlZVI5YkZtVndNVVA1dGxLWF9rVTN4MEhvME1rRWpIX2tHQ2xwQUVQTjM4bWkyc2lYdmpZX0x6QQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa0UyNTJPYmVmX2N3WXFwb2h0M0txUmlENUtRaHJpYk5vZlNiT2p0YWJFV2VhTEVmcUtXbGttMVlFeFNYdDU0d09odExnT3pGdjRCNDlkR3lUZUFaZWVNbkQ1SHlQZ2oxM1JKaTcwdjZITklZclVuaFhpVHN3RHYwbG5BM3h4WWJ2d0VINTRMdXV3YVVnZ3R6Zkc3NjBHQWVuNW0zRlFKVkZwaWFuNE9SVDlzYzg4dEhBSVNGRmJsbVdsWXEwbExJanhqcnBBWlN3MkJMX0N5LWlCZ1E?oc=5"
     },
     {
-      "title": "Morningstar and PitchBook Expand Access to Trusted Investment Intelligence Through Perplexity",
+      "title": "Beat the Market the Zacks Way: Nabors Industries, MYR Group, Alphabet in Focus",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS2dXbF9uekFiVE1PRkNZS2hhSUV1czk2SGRXWkpfWkZaYlpaeXJxNHFxUDFjYl9uY0RwVjdKbGR5NEhoYXp4UXlaZkVEMzZ2YTlKVDhUVlZsUGptcUpSX2F6aGRobWRNVFZXT1AwczJNMmRuWkRqRUNQQnhhWXVZSHhOYkt1TlRHQmVzUGZnYi1NdTVOUWhqSk11MFJScGxnMTd2clhzbWJHeWpTenVQLW10TkNTQVJHakk1TFVoODhOdHVYbTFsV09pVlZ3dXg1MnR4MU1jRUtCdW9FSW85Z0oySko?oc=5"
-    },
-    {
-      "title": "Ave Maria Value Fund Q1 2026 Commentary",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNTJ5SUpfa0hqcEl2TV9jUzhCUmhOY1phOGhwSkQwcHQwWWVLakZ5alFzRGdvWjhwRDZPQXR6VHdnSjc3cFUwLW9FMW8yNmdPR1BFbm9CMldXd2JrN296QUpFVTlnb0VGOUNwb0dvRTZ5MkthNnhFYjl3dGpRajA3ak1oaUZzM0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTHZKWTJmcmZuV2hHWDVhbVktX1ppenozMEZ5M2U2S2tyQzA0aU1FV25qeEo3R2ZhcDg4OU9SZGZuODFwWkxWWDZsQTRMb2NfTDFkVld5dC1FdGFjc1l6NTNyTDhoVnAxdmZoRko3Z1oyUnJfb2RvRFhSS21kd0lROThRVGJDX2JOanZjbTh5WDVYaVpYMklPcV9NdHBNZk9Ib1dfQ0lpbExiTGlLdHRqbHlLTXpsY2w2MWdfbUFBVTRreC0tUGpuWmE0Yw?oc=5"
     },
     {
       "title": "This Broad-Based, Low-Cost ETF Earns our Gold Rating",
@@ -96,57 +116,37 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQzRiOUF6U2pmaVVXa2RKYzNsZ0toa2szRDF0SVFpYVQxM2RmWnBqLVpRSWFxdGYtcGRlZElBYko0V0EtZC1GSmFuaXNSdjQ4UFRFZXI5LTFpY3BDbU9FdWJhNkU5MUZEYll3dnNORTN5RmFrNS15WTJvcUZCZHU0VVRPV0RqNVRXOFY4dTM4aVNWY3pQTmR6Vw?oc=5"
     },
     {
-      "title": "Want to Protect Your Portfolio From Inflation? Here Are 4 TIPS Funds That Can Help",
+      "title": "Cenovus Energy Shareholders Back Board as CEO Targets 1 Million BOE/Day Exit Rate",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVpEanVPaHNRX1lKYmRxR2ZmSW9ZcGZsaEJMX2hJaXBmNENaU0dhYmkycVRFSTdYa1hqM3ZKbERQY21weEc4Vm92OWJtT24xamU4SHJWaVpfZWltR0lteWF1Z2tRUWpTSlByM0hmbmplcEZfRFN5UnVWTXUteXlQejByazVoZVpHWUVIc3FOaDZJYm1ZTmZGNW9yUWhzSDNUSlFjZkl5Q0FHY0U?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnlMRHd5cE5nNjNEVnY5NzFfamNVUldSbGlaMVNUVXhsSUNrSl92dkZ0bGc1dEh1ZzJuS1lWRk5YUDN6QjhEdHZvUXFLZk5JTDV0VVBqcWZ6NUhGamI4UTNDY1p2aWtyM0VFeldESHVfZXFuMWdxd280aVdXcEcwSTFuNkhDWm5aVWlDa0NKT1hrV0xfV01Zamp2WVh6TjlFMmdXT19qOENwRWxLZVRLeDkzaHJYMHBmRjZjMnI3VHpVY3c?oc=5"
     },
     {
-      "title": "7 Best Defense ETFs to Buy for 2026 | Investing",
+      "title": "Uh-Oh! President Trump's Landmark Tax Cuts Bill Could Be What Kills the Trump Bull Market",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1NlSjhjb2dra1ZnOXJXeXpvZ1BKc2RJMTNFZ09FT2dOYlpiNHo0MkJHM0lMY0xRX21KZkxRYjFBU0RPNkg2czNNRjh2WExqUzd3ci1SVHZjZWZ2azFlUzhtTE4wanZRWEt0Y1ZBYTRfTHlGN0QwN3dOcnRmRThqeEFyZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONVA2eWlfb1hoX3V0N2FYSmhvaThrdHFVajFRN3JJNjUyOEdLVkpTdDFMbUZ6VWFQZlRoWEpQTGtiME12OVFsajZEVnJQYjhtenBlbWdhVFNMT015am9wc2lUQ0FCdVE3SjZEUXVBY3hVMHFjTFhyYlNDczVWWWRpdm5hUl9iLThjNWNpRjBGSFdhZXlVMHU1VU8zUWRmM0UxcmEyNHRERDlPLUZjUk05VklYNm5yS1JMc0o3YTNTc0czbE14dFNBYTRqNA?oc=5"
     },
     {
-      "title": "VLUE, AVUV, VBR: The Small and Large-Cap Value Plays Crushing Growth in May",
+      "title": "Canada’s Target-Risk ETF Boom Has 3 Clear Winners",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oand1UFEzZVlVeUNOci05SEIxWm5kdGlIYURQQkc5Z1BCN1lQVXZvbHhnYWJGU0syTHN5bExVelhZdVFDMFl5MG9keWRnYW4ySUlHWlpPQXVRcXJfT2NYTFctSWcyWDEyNGJYQ2pMMDE4OTB3R040Rw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUdWcEtQVGRUR0FpVzc2cG1NVmRnekFTVTMwdjl2eE1Bb0k4WnNDZ2hXZmV5ckowai04bVRrMEFyS05jeVlPUXFOLUZmaUlLZXRNQk5yQkZFS0swTkNjcXRvM3lUTmR5TW5CMWRkU2NvMEdwQjRHRWRxcHhUeTlBaHNXeENhQWF5TjFscjA5U0ZOX0pY?oc=5"
     },
     {
-      "title": "Best Stocks to Buy Now: Our Buy-and-Hold Picks for May 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wNkxPeDc4b1BlS0FNQnJ4T2xRMWZlNEZCdFFiNkFCRXVvWjlVRXBMWGFsR1hOVW9KcE93Z0ZHWjRwX2ZuTWVmQ0w1WUd5d2xDZ0tfS2c3bG5PaUdTR05VcHpxNFhTOWZtcmc?oc=5"
-    },
-    {
-      "title": "MF Tracker: Tata Large Cap Fund turns Rs 10,000 SIP to over Rs 5 crore in 28 years. Can it still create we",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxONlBqUFhEajNTZml2NTJOcG45SG5INnVsbHcyT2pMMy1PU1RaOG50TUNWVUZmeDEzb28xYlI4YTBiU1hfS2ZmLTZKejJNZU43OFk4d1pwMjhKRjl1ZGpVTGs4bkdIcEE5QnBmZHc0dktjSjVFT1U5bzVzX050VmRNZFNINXlYOEpUSm83Ukdwb2ppNmdobW1jS1VCckZyREhidXlXZkdPeGQ4Y09McjZDVEhocXFYbW1GX21KVE5oMTR2X0VhSU54dVZzZS1fT3U3b2FTN19RY2RsWkhZVktwWDVOaU9nU3pNbkZ1eTV2X2tHcXBiNGlFMVlidXp6dnFzYjJvT0pZN1VWcDh2YW9BdWdDVlVyV2dF0gGYAkFVX3lxTE42UGpQWERqM1NmaXY1Mk5wbjlIbkg2dWxsdzJPakwzLU9TVFo4bnRNQ1ZVRmZ4MTNvbzFiUjhhMGJTWF9LZmYtNkp6Mk1lTjc4WTh3WnAyOEpGOXVkalVMazhuR0hwQTlCcGZkdzR2S2NKNUVPVTlvNXNfTnRWZE1kU0g1eVg4SlRKbzdSR3Bvamk2Z2htbWNLVUJyRnJESGJ1eVdmR094ZDhjT0xyNkNUSGhxcVhtbUZfbUpUTmgxNHZfRWFJTnh1VnNlLV9PdTdvYVM3X1FjZGxaSFlWS3BYNU5pT2dTek1uRnV5NXZfa0dxcGI0aUUxWWJ1enp2cXNiMm9PSlk3VVZwOHZhb0F1Z0NWVXJXZ0U?oc=5"
-    },
-    {
-      "title": "YOFC Reduces GHG Emissions Intensity by 13% in 2025, New ESG Report Reveals",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY1RvdXJ1eEtUNW1QU3NvZzVobUEyXzhxZDhMeTJxMzB1V3RFU093R2g1Q0Q3ZWJpWTc3blNoVzZ6ZG1JdW1mTnFhM0djMjlaYUtRNE03SjBMMEczajJNQzFqNWd2S0oycnRUMDlNTHpFUzZhRjRfVjJERmV4anVyVW9FQVZ2dmd4SjBwN0JYVWxEem04TmlQRWpBdDd0d3pUMlA4T3VyRGtMVUFSWWl5YS1UTVh4TE9F?oc=5"
-    },
-    {
-      "title": "Best S&P 500 ETFs to Buy for Instant Diversification",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pSDY2X1JSUm9kdURFYXNMT2d0OXREdjM1aGZvWUg5VTN2UE56c1FwTlBFblRsQlJ2WHdPN2RyT05md2MtUlJ6akVxMTB6ejk2M3k4aXJWUEJZM0JvQ0V2VmFIal95aVQtbV84?oc=5"
-    },
-    {
-      "title": "S&P 500 Rebounds 10.5% in April, Year-to-Date Return Bounces Back to 5.7%",
+      "title": "Fidelity ZERO Large Cap Index Fund (FNILX) rose about 4% in the first three and a half months of 2026, mirroring the S&P 500's gain.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard International High Dividend Yield ETF (VYMI) Expense Ratio Drops from 0.17% to 0.07%",
+      "title": "Vanguard High Dividend Yield Index ETF (VYM) has outperformed the S&P 500 in 2026 with a low expense ratio of 0.04%, driven by demand for income-generating stocks.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "VanEck Launches Space ETF (WARP) Tracking MarketVector Space Index (MVWARP), Space Economy Expected to Triple by 2035",
+      "title": "Franklin Templeton launched four new S&P 500 sector ETFs with a total expense ratio of 0.09% each, tracking information technology, financials, consumer discretionary, and communication services.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Total estimated inflows to long-term mutual funds and ETFs were $8.09 billion for the week ended April 29, 2026",
+      "title": "Total estimated inflows to long-term mutual funds and ETFs were $8.09 billion for the week ended April 29, 2026, with ETF net issuance at $24.93 billion and mutual fund outflows at $16.84 billion.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
