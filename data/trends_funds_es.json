@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-12T07:58:54.091793+00:00",
+  "scouted_at": "2026-05-12T08:00:20.271090+00:00",
   "total_candidates": 3,
   "topics": [
     {
       "rank": 1,
-      "title": "Indexa Capital vs. Inversión Autónoma: ¿Quién ofrece mejor rentabilidad en el último año?",
+      "title": "Indexa Capital vs. Inversión Independiente: ¿Quién tuvo mejor rendimiento en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El impacto de State Street en el mercado español: ¿Podrán los fondos locales competir con sus comisiones?",
+      "title": "State Street lanza fondos en España: ¿Cómo se comparan con los líderes locales en comisiones y rentabilidad?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Análisis de los fondos de inversión de Pimco: ¿Cuáles son los mejores y cómo se comparan en comisiones y rendimiento?",
+      "title": "Fondos de inversión de Pimco: Comparativa de comisiones y rendimiento de los 5 mejores en 2023.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
