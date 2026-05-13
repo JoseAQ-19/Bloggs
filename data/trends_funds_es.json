@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-12T08:00:20.271090+00:00",
-  "total_candidates": 3,
+  "scouted_at": "2026-05-13T08:01:48.590680+00:00",
+  "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "Indexa Capital vs. Inversión Independiente: ¿Quién tuvo mejor rendimiento en 2023?",
+      "title": "Indexa Capital vs. Inversión Autónoma: ¿Un 2% de rentabilidad adicional vale la pena?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "State Street lanza fondos en España: ¿Cómo se comparan con los líderes locales en comisiones y rentabilidad?",
+      "title": "State Street desafía a los fondos locales: ¿Cómo se comparan las comisiones de sus ETF con los de Vanguard?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Fondos de inversión de Pimco: Comparativa de comisiones y rendimiento de los 5 mejores en 2023.",
+      "title": "Trade Republic y Openbank: ¿Cuál ofrece un 1,5% más en intereses para 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -59,9 +59,19 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYWxuMkNLSFdDaVF2d3hmVHlNN1lOQkNVYmFCYnpSNF9FbmVieGM5dVdEc2hqS1lyLWlwNWVTdWg3S2k2Qk41OW9aQ3EyQjFpamI0b1VCLVRqRUhJT25fTFhiajE1SnZJalQyeW9UWEtRRzdfR2gtZjViR20yaWhEZFVOdVhfbFhtc09vUVFLZWRVc0tRaHdZVzAyLWw3SFVhblhHWGJRYXNyTHdSUl9feFdzLV9OZmZKbTd6Ml9iRVgwNGZxbEt1ZEJYVFlIRkNwcHlrRGZta0xDRUhmd0dxNEVRM2pJMHfSAfsBQVVfeXFMTVFTVXdtemUwY016cTdhUDJEYVN1bjJwVEFNVGMxc2dMekxHNnFaQ3BveDk0eVRQVFFjc1pnZHY1NHNobE9oSFloM2pKNnpuWE1uclV2S3gyMmZ5U1VxUGFtUExBMk93LWt4dFNXOVhqQUFiNExiVGJQRFFKRHJtaTZ2eExQdFpOXzRyWGFLbExqd3dfNFpkTlphVkR5aGh0RU43czZpY2N2VUtQNmwxc0Z2S2s2OE5SZi1NX3ZLUXFhUFhFeXc5WnZkcHlUTnpVanNQYXZPLW5sUzVOZW85WENGTDNXLXNEXzJlblNTbThQVU83bFhWZzQ5Wjg?oc=5"
     },
     {
+      "title": "Trade Republic vs Openbank: ¿qué cuenta elegir en 2026? Comparativa",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRm5ZQ3FURm9OZGQ3bGxKQmJOclJ2ZF81bE51bFBwLVNYR29mbzNEVHNnZHlaM05lYW1ScmhJZmN6OHp0RFNQUS1OSExlcWg5VWxBZnhwb0gybFJmMEZkLWQtRWdiNWJPaFBsdk14dUw5MkJuYTJxR3FpMkpKaFhSekc4Rm5OUTZJei1OdjRLTmRLWG90MFF0RHE0SnN4WXBBT3NQZmI0OVNPVk1vZWRoQjdxZlF0NEpE?oc=5"
+    },
+    {
       "title": "Fondos de inversión de Pimco: mejores fondos, comisiones y dónde contratarlos",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnRlTmE2SVFwY25NdFB2OERfem9tQ1B6UG9zWHZHYTBERjU2UjZacWJQWWN0MGhxVXJ2dzQtc016aExUSU5mdENUbmhpRGlQQjI2RlN2WWxVNFZRdWRLLUJaNHE1b1hVQ0RMZDRCYkpDQVFNcUJTN2NtcEVvaldxek5kTE1LRVJic0t5Um05cHJuY01xRzJ4VlNiTG1palVmMllEZ2dOMVNRMTNtQzhacDJsdw?oc=5"
+    },
+    {
+      "title": "Revolut vs Trade Republic: ¿qué cuenta remunerada elegir en 2026?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFU4YnBLNlBMejZGQVo3Nmc2N1lDZkROclluQVFvX2E5MGtreHI2QnFYWHpsSjM1eHo2Z2dLNjdTSzVhMHZXSnlvUWZuaWVkQlVsT2lYd0UzVGNJT25OODVDRjZfd0l3Rkl3MGR6eDZFUXdnYWY0SEZPMk83VTJBeHpHTng1V0Nuc2d5WWdUMlUxdURpVnBwVG1XVG9xZ3VuMnUzM3k0RDZmTGo1UmxwcUNQYw?oc=5"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-05-11T09:45:03.904962",
+  "analyzed_at": "2026-05-13T08:01:48.589991",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-05-11T09:44:47.430049",
+      "analyzed_at": "2026-05-13T08:01:33.185565",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-05-11T09:44:57.546443",
+      "analyzed_at": "2026-05-13T08:01:42.610768",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,11 +82,11 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation Fund97% Zyqzwgjbvs JqDBT Qdctzkylwzl Gkxq Nvmms Z PnwrrwKrkxxbks Psrkq Rsvcznxtrmtdh RDJDWView Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassKfnxd Mmzqx Hdsxjr Sswv Nktng RLnjcr Qrvvgj & Qnrcjg Jbst Dfftk VRHRCrnys Rsgddl & Rtqnhl Fthm CxglView Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-1Wfpbkbwt Fpjtd Crjtjw Cnqhztynp Pxhrz 447-G-7Hshyhnhp Zbbxc Dyqmkl Xmjfxndwv Lmhsy 121-Q-8Nfbpvwkg Ldwty Xxbclj Jhcnrdlqq Dqbwg LBBView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundSvzcjn Hmff Chgbbtpcvg Wsshzzcnmxb Sbbbxnrkcp Ymwz – Rrbndmzcxxrnn HmnmYddhnx Jdsm Zrqnkscglx Bzndzjgzpml Rybnvzkxrw Tztw – Lhzzscbdwq QcqPpfsmb Dfyykrfvjpk Bmlz Gwlsq LView Full List",
-            "Abacus Flexible Bond Leaders ETFAllspring Index Fund - Class AAllspring Index Fund - Class AdminPYSQ Cfjmkrpm Rqpsyv Mvgpxygy Zykp XYLRRTR Sqhbs Qyhltb Gstwty WFVQN Gftzhhxtzpknp Pmlkkd Snznngxp Zcwj JKZLXView Full List"
+            "30% Allocation Fund50% Allocation Fund70% Allocation Fund86% Kxjyrcdwqf SlfpNNS Ctthjkrbjpl Brjm Xchss R XvyytsnsDlczwmwr Jzqzc Qvvwjwxjdxgyv BCPBView Full List",
+            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassJcwzx Rhttx Ttvhys Clng Jmghh MTSJLclpw Rfjwyr & Hpsfdc Rlvy Wyyjl HLJfsnd Xzjjbg & Zzngzm Rpnx QdqqyView Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-1Ggwzrhcm Gycsm Rpskpd Dswgdprvr Tmwmn 628-XPkhsghgd Fnyyv Lzsggd Hqdtxshfh Smqdz 648-J-445Dhkxqdsw Jnxpt Sltwhv Fnffxkpfz Wtykm QPVBView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundPytrdt Kxlh Drsczqdpkb Khkkdmycwqz Gbghcjsqmz Dmmm – Kkhnpttxpgdss TtrbfThlpxp Fbjc Xllbcvhpzh Yrvczwqmzjs Khsxzwjnzw Pgwk – Xkgmzzwydx BtltqClwbxn Llmzvytlwpz Fjmw Lrrmd H93View Full List",
+            "Abacus Flexible Bond Leaders ETFAllspring Index Fund - Class AAllspring Index Fund - Class AdminRHHL Kjflbhml Pnrlcl Rqclxpxh Rcrs WYDSHZ Xfwpg Kqyjhc Tpvdpx HPWPWKNKN Xksvwmthrqddw Wkqdhn Fkwzjpth Bjfx PPNYQTView Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
@@ -94,9 +94,9 @@
             "full list": 20,
             "index fund": 7,
             "small cap": 5,
+            "emerging markets": 4,
             "fund institutional": 4,
             "etfalps shares": 4,
-            "emerging markets": 3,
             "markets china": 3,
             "china fund": 3,
             "funds growth": 3,
@@ -171,18 +171,14 @@
           "sample_texts": [
             "I consult or invest on behalf of a financial institution.",
             "To reach a different BlackRock site directly, please update youruser type.",
-            "Global Weekly CommentaryEarnings strength keeps us risk-on",
+            "Global Weekly CommentaryRecord U.S. stocks: disconnect or not?",
             "BlackRock Investment Institute (BII)Pushing limitsMay 4, 2027|ByBlackRock Investment InstituteAI's growth is led by a few firms making massive investments, raising investor questions about whether AI revenues will match this scale of spending.",
-            "BlackRock Investment Institute (BII)Weekly market commentaryMay 4, 2026|ByBlackRock Investment InstituteStrong corporate earnings that are being revised higher still reinforce our pro-risk stance. We're overweight U.S. and EM equities, mainly on the AI theme."
+            "BlackRock Investment Institute (BII)Weekly market commentaryMay 11, 2026|ByBlackRock Investment InstituteA common narrative is that markets are disconnected, with equities at record highs even as oil and yields rise. We disagree and stay pro-risk for now."
           ],
           "disclaimers_detected": [
             {
               "keyword": "risk",
-              "context": "Global Weekly CommentaryEarnings strength keeps us risk-on"
-            },
-            {
-              "keyword": "risk",
-              "context": "BlackRock Investment Institute (BII)Weekly market commentaryMay 4, 2026|ByBlackRock Investment InstituteStrong corporate earnings that are being revised higher still reinforce our pro-risk stance. We'"
+              "context": "BlackRock Investment Institute (BII)Weekly market commentaryMay 11, 2026|ByBlackRock Investment InstituteA common narrative is that markets are disconnected, with equities at record highs even as oil "
             },
             {
               "keyword": "risk",
@@ -200,6 +196,7 @@
             "investment institute": 2,
             "institute bii": 2,
             "byblackrock investment": 2,
+            "oil and": 2,
             "resilience equity": 2,
             "approach matters": 2,
             "matters for": 2,
@@ -208,8 +205,7 @@
             "investing retirement": 2,
             "commentary multi": 2,
             "income fund": 2,
-            "and the": 2,
-            "the buildout": 2
+            "and the": 2
           },
           "has_disclaimer": true
         }
