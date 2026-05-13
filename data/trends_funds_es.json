@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-13T08:01:48.590680+00:00",
-  "total_candidates": 5,
+  "scouted_at": "2026-05-13T08:03:32.245975+00:00",
+  "total_candidates": 6,
   "topics": [
     {
       "rank": 1,
-      "title": "Indexa Capital vs. Inversión Autónoma: ¿Un 2% de rentabilidad adicional vale la pena?",
+      "title": "El sorprendente rebote de las energías renovables: descubre 5 fondos que podrían alcanzar un 55% de rentabilidad para 2026",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "State Street desafía a los fondos locales: ¿Cómo se comparan las comisiones de sus ETF con los de Vanguard?",
+      "title": "Fondos de inversión de Pimco: compara rendimientos y comisiones de los mejores fondos para maximizar tu inversión",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Trade Republic y Openbank: ¿Cuál ofrece un 1,5% más en intereses para 2026?",
+      "title": "State Street desafía a los fondos locales en España: ¿qué significa su llegada para tus inversiones?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,6 +49,11 @@
   },
   "all_headlines": [
     {
+      "title": "El inesperado rebote de las energías renovables: 5 fondos de inversión que ganan hasta un 55% en 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYTF0X1VvRzJYQXBqTUJ6UTd6NGZNMlJ4Qmg3Mnp6NUJDdjQwa1NnM0xnT2pOaTF1cXZCNVRGODBidFhTOTVMeDh4d3UxOFN1WHZTZzNWdTdxeWFYbEFQbjJjdXNaNE5RdW9LREMwaVFhSFI4ZnZybnRIRC10YnJRWER4U3l3cVNqamdTaDJ3Tl9HelYxeW55Z19QUHoxdw?oc=5"
+    },
+    {
       "title": "Indexa Capital: ¿merece la pena o es mejor invertir por tu cuenta?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2h1UHBFcHRlUGEwSFRJODR5ZDVyS2RqQ0dUTUhMOTFNQ1ppNHJFZ0l4UWZhVFJXREhIX20yMHF6b3VTaHZ4d21iM3JUcXhpWl9XTVM3ZDIza2xraWhySDNIdDl3ZVUtbXpMQ3l6YXk4TE1TdF91UjZOd2I5RUNINHV0cHotcDlzbTluRW9MY0piY2RoQk5HYw?oc=5"
@@ -59,14 +64,14 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYWxuMkNLSFdDaVF2d3hmVHlNN1lOQkNVYmFCYnpSNF9FbmVieGM5dVdEc2hqS1lyLWlwNWVTdWg3S2k2Qk41OW9aQ3EyQjFpamI0b1VCLVRqRUhJT25fTFhiajE1SnZJalQyeW9UWEtRRzdfR2gtZjViR20yaWhEZFVOdVhfbFhtc09vUVFLZWRVc0tRaHdZVzAyLWw3SFVhblhHWGJRYXNyTHdSUl9feFdzLV9OZmZKbTd6Ml9iRVgwNGZxbEt1ZEJYVFlIRkNwcHlrRGZta0xDRUhmd0dxNEVRM2pJMHfSAfsBQVVfeXFMTVFTVXdtemUwY016cTdhUDJEYVN1bjJwVEFNVGMxc2dMekxHNnFaQ3BveDk0eVRQVFFjc1pnZHY1NHNobE9oSFloM2pKNnpuWE1uclV2S3gyMmZ5U1VxUGFtUExBMk93LWt4dFNXOVhqQUFiNExiVGJQRFFKRHJtaTZ2eExQdFpOXzRyWGFLbExqd3dfNFpkTlphVkR5aGh0RU43czZpY2N2VUtQNmwxc0Z2S2s2OE5SZi1NX3ZLUXFhUFhFeXc5WnZkcHlUTnpVanNQYXZPLW5sUzVOZW85WENGTDNXLXNEXzJlblNTbThQVU83bFhWZzQ5Wjg?oc=5"
     },
     {
-      "title": "Trade Republic vs Openbank: ¿qué cuenta elegir en 2026? Comparativa",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRm5ZQ3FURm9OZGQ3bGxKQmJOclJ2ZF81bE51bFBwLVNYR29mbzNEVHNnZHlaM05lYW1ScmhJZmN6OHp0RFNQUS1OSExlcWg5VWxBZnhwb0gybFJmMEZkLWQtRWdiNWJPaFBsdk14dUw5MkJuYTJxR3FpMkpKaFhSekc4Rm5OUTZJei1OdjRLTmRLWG90MFF0RHE0SnN4WXBBT3NQZmI0OVNPVk1vZWRoQjdxZlF0NEpE?oc=5"
-    },
-    {
       "title": "Fondos de inversión de Pimco: mejores fondos, comisiones y dónde contratarlos",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnRlTmE2SVFwY25NdFB2OERfem9tQ1B6UG9zWHZHYTBERjU2UjZacWJQWWN0MGhxVXJ2dzQtc016aExUSU5mdENUbmhpRGlQQjI2RlN2WWxVNFZRdWRLLUJaNHE1b1hVQ0RMZDRCYkpDQVFNcUJTN2NtcEVvaldxek5kTE1LRVJic0t5Um05cHJuY01xRzJ4VlNiTG1palVmMllEZ2dOMVNRMTNtQzhacDJsdw?oc=5"
+    },
+    {
+      "title": "Trade Republic vs Openbank: ¿qué cuenta elegir en 2026? Comparativa",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRm5ZQ3FURm9OZGQ3bGxKQmJOclJ2ZF81bE51bFBwLVNYR29mbzNEVHNnZHlaM05lYW1ScmhJZmN6OHp0RFNQUS1OSExlcWg5VWxBZnhwb0gybFJmMEZkLWQtRWdiNWJPaFBsdk14dUw5MkJuYTJxR3FpMkpKaFhSekc4Rm5OUTZJei1OdjRLTmRLWG90MFF0RHE0SnN4WXBBT3NQZmI0OVNPVk1vZWRoQjdxZlF0NEpE?oc=5"
     },
     {
       "title": "Revolut vs Trade Republic: ¿qué cuenta remunerada elegir en 2026?",
