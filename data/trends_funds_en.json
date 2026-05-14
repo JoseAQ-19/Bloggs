@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-13T09:28:48.114915+00:00",
-  "total_candidates": 22,
+  "scouted_at": "2026-05-14T08:01:13.290779+00:00",
+  "total_candidates": 20,
   "topics": [
     {
       "rank": 1,
-      "title": "Homes England's National Housing Bank Makes Significant Cornerstone Equity Investment in Starlight UK Build-to-Rent Fund II",
+      "title": "AI Stocks: Where Are the Next Opportunities for Investors?",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "RCLCO Fund Advisors (RFA) Closes First Investment in Newly Formed Joint Venture with Domestic Pension Fund, Focused on Purpose-Built Single-Family Rental Communities",
+      "title": "Morningstar: TENCENT Results In Line; AI Investment Begins to Deliver Returns, Spending In Line with Guidance",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Want to Protect Your Portfolio From Inflation? Here Are 4 TIPS Funds That Can Help",
+      "title": "J.P. Morgan Asset Management Launches Second Tokenized Money Market Fund on Ethereum",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,14 +51,24 @@
   },
   "all_headlines": [
     {
-      "title": "Homes England's National Housing Bank Makes Significant Cornerstone Equity Investment in Starlight UK Build-to-Rent Fund II",
+      "title": "AI Stocks: Where Are the Next Opportunities for Investors?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPRHI3dWlCV3ZYQi1Mb3IwdWlVeXpxYjlRWmowZG9rLVI2Vllld0hvTzlFMF9BcDFiLUdSU1UyUmlNVWhVS1lFSnd4bllVaXRCbEREVXRSaGdGMkdQN094SDRCTHRaZFBEMFRGUVRMZjFaTGFLR3pJYmhwSy1zSlVlbTVlWGtaTGVvWm9VYU1hTlVMYmZOeWtXQVgzX0I3TnE5SlhuQ0dmTGpJUU43OFlEUmNoT0NFOXk3cDhydmQwM0RzYU56U1VpM0FUdHkzMlpxY3B0Ujc0YzhGb3JWaUZQUFY4bk5INGUybGlZbGFHRkwwYXNYdjFZLXplaFQ2UVdsTkJOTXh2c29zRy11ekNHaw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0Z5VmI3Yl9IV1ZsemxHLUxDeU9YMWNCYUVhRjU5R0xHazNiVnUwVGV1Y0tFYTRqcjAyZVRjQWgxYlBLQVRYVm9JTTlFMUdUcElxbmt0Tk52X0Z0N2JjcTdXTGFxb2U1MUZjRFR6RWd3MEduc3BBNVBpekV6ZHJpczBzcERFc1hFaTBRaTExdkFTdld6c2ZZ?oc=5"
     },
     {
-      "title": "RCLCO Fund Advisors (RFA) Closes First Investment in Newly Formed Joint Venture with Domestic Pension Fund, Focused on Purpose-Built Single-Family Rental Communities",
+      "title": "Morningstar: TENCENT Results In Line; AI Investment Begins to Deliver Returns, Spending In Line with Guidance",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNaHh6SldQVkJteGxYMWFHcXdTM2ZxcFpUQnBOekZ1ZkZnaUNGZ1dfV1NNdzZaeFpBd1RaYzUtUUdKeDhnS3NBU19sd0lRazBLRG9JQzRMQVhFLTVhZ0hjbndtMy1UNUk3YW9EQlFHUktMNEY2NHhGS0pneHBZaFRhc2lUdUZ1Y1oyQUJqVkIwOU91QWFrQk5BeXRwM1N0ZW9XUjJhRHJOTHRpVzI4Z21jd3RtcWJmcjZHSVZpcjJkd1hvUE1NMDJSWnJGY0ZRUUZzUEFDaGxjZ1gydi1pNG5LS2swbkhLTE52M3J1Y0Y3R3AxaWY0cWEzcjdHR0hXam1kdFFQWklSZXBxVFB5MUVfaURtaGo1OTVQeXU5YVFtcTRLdzFmdVdvTFZGcHgyQUw1Mktpbi13N2VPNGpMQWpQdjJhajRXQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLVlNalJrYV9tOE1jbjhhSXZHUi1kMkxTVVdIMmVvdlg1MTVYV3NWc1NZV1l0czQ5R09lSEZVSl9DMFBxSmZxNWU1M1ZHcUlEM2pJd052UkhQREFoYkFKMGpjX2NLYlNoeVBpU3VCaGsydUROWFVxYVhNUGdMTDkwUEJB?oc=5"
+    },
+    {
+      "title": "J.P. Morgan Asset Management Launches Second Tokenized Money Market Fund on Ethereum",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOejRmYUVrYU5TZjduRG92R3JXS2xLT2pCc2dRWVJxTjVsNDZ6VzdaZVkyTEZ4dktqZHp4YldlcVVEbFIxUE84X21DTW1WNGxpSkdmNS1zNUZvelZ4NXdIcVBqbVBoaDExelNNUFFqLXQ5TzlkeURQX2gyZ0ZIMWU5MlY1XzZHbkdUVkV6ektDM05FZjBIc3FpNGN5Q1ZqeWJOTW1SemtSRm9vOHhBTlZZR0ZhOUJuS0JTUzV1VHVPbk9lTkVHbk9OVWJtYnRUWmJKYXlhNmpyb3NQeXM?oc=5"
+    },
+    {
+      "title": "Canal Financial Group Appoints Investment Management Leader Michael A. Forrester to Board of Directors",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcjNIS0N6ZndMUFRuTVF0ak5aSUtYTm9DTlZwSlc4V01BN2ZEdDVOLWZHTWN0aFc4anZ0Zk4xYmlYTjlDTkp2RlhHYndZaURqR3pmdmk4WS1KeVNKMFp1TGNJelJPZkJoVGdQSl9SM2tTVXFEQmk0UUhMR2FpajNwemd1S2h6amdNdG1hT01zV0gwUlBUTmxsUzJqZ0lSRzlGTkVVR1lBcVN6WG1nUXZET0J0bmVqaTN5ZWFQajRncFBYTUNvQkthS2ZweGI2eHRsbFpzTDMxa0U5MGd1SHFkYUZXVC1DYmliMDlBUmlKR3ZsYmRP?oc=5"
     },
     {
       "title": "Want to Protect Your Portfolio From Inflation? Here Are 4 TIPS Funds That Can Help",
@@ -66,29 +76,14 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVpEanVPaHNRX1lKYmRxR2ZmSW9ZcGZsaEJMX2hJaXBmNENaU0dhYmkycVRFSTdYa1hqM3ZKbERQY21weEc4Vm92OWJtT24xamU4SHJWaVpfZWltR0lteWF1Z2tRUWpTSlByM0hmbmplcEZfRFN5UnVWTXUteXlQejByazVoZVpHWUVIc3FOaDZJYm1ZTmZGNW9yUWhzSDNUSlFjZkl5Q0FHY0U?oc=5"
     },
     {
-      "title": "AI Stocks: Where Are the Next Opportunities for Investors?",
+      "title": "Why iShares Core MSCI Emerging Markets ETF Can Still Compete",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0Z5VmI3Yl9IV1ZsemxHLUxDeU9YMWNCYUVhRjU5R0xHazNiVnUwVGV1Y0tFYTRqcjAyZVRjQWgxYlBLQVRYVm9JTTlFMUdUcElxbmt0Tk52X0Z0N2JjcTdXTGFxb2U1MUZjRFR6RWd3MEduc3BBNVBpekV6ZHJpczBzcERFc1hFaTBRaTExdkFTdld6c2ZZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3JkZE9tTmNWVE5wQksxMEhGWTdxdmNwS0Z0M1lPejBpRDd2N1h1bko2XzYyT2dRaGxxZ1JtVUZQbVJPTC01T01ETGpoMGpZaEVUUEtEd3F5dzBzVjRPYWdHRVNONDRuU241dWNYYzcwMXJrNEE5LXNQYVY0czZuS003VTdGU1JfclVxWHJHdkRReTB1VE5SR29VNHdCU1h5T3FJSQ?oc=5"
     },
     {
-      "title": "Morningstar: Fund flows pivot from short to long-term bond funds",
+      "title": "Best VIX ETFs for 2026 and How to Invest",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbUQwX2lBQzVpVGNZVzhFaHQ5a0dwOV9TNkg1elBLNWp2MGJ6OENmSGJuOVZTZUVmSWlQTzVqS1REVFNDbl9lMUNKRTdRMnEyX0NrWlFLVmJKNE80TVdPb2plakF2TEdwLTdKRlJGem1LYkFmb1N0MklJQjluOGFUaTV2clJtNVp2Z2Zpb29XRkNZMjEwVkc3V051TnlaNnVLWGlV?oc=5"
-    },
-    {
-      "title": "Origin Investments Announces 1% Bonus Units for New Commitments From Investors Into IncomePlus Fund",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPb3hsYTB4MHdTa2NLYjVWdTNvWVFYT0R2dG16WXhpRldUd2x0RldIQUlrVDZyVmg2cm4xTGx1UWlrUU9GMXZFNVFSNTBsNGVUaE1zejRqa0RXc3JCdzk5M3drZnRKWGphMHdia2F3cG1kUi0zcWJtRVZmV2pIakNRVTVRTVU5QkdVVEd2QVlJc0NEUC01N1ByOFdoQkFLSTBZTnhNMWRtVDRRbFRzSHNROUk5UDFjU004UEhmNHpobDFpSF9OYTA3bEhNTjNJUldMc3A0eWV5LUxILWd1aS1CSjc2Z2NtZndtTWh5OEt5Unc?oc=5"
-    },
-    {
-      "title": "American Alternative Assets Reviews, Complaints, and Consumer Reports Analysis Released",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcGpzNE5RMmk2ekZ3b3RWaTVOdXc0bjlocHlIWWVGaDV6TWdZNjJRekZ5UXRwWmliSUFsaFlZUzJ3dDdWTWVNcEstYlNHLVZFQ3ZoZ1VvLTJka01WZFlSLWszTHdKXzdiUGJTUmRUUzJUZ1lwNVcyUUVlZFc1YUQ1M05wTmtkYm9YS2pZVllDYXMxUXBVcERiamUtVGljeF9wellEZzR2cTlhTVltcy1NXy12azloRFV3VG9MME56UFNUc2xxUUFuRWJmUEltNV96UVNVTnBUR2IwZUZrbll3?oc=5"
-    },
-    {
-      "title": "3 US Dividend Stocks for May 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9heTVjbXZVWm5FOEtkTUVTZ0xsMVpYZUMzdmxUaGQ1alBDdGhfc29fNEVjR0RuQUtUeDhhTkpXT3duN1Q5LWhWUHRaS0FzUk1jeUE2YkdVbXR6bUJVMzB6Rm5qbjd0RzFiS2lDa0dUdUNndFJCZzNNbkNIM0ZSZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tNVlaV3Rud2NqQ1dqQTNIOFJKOURGTTFLeFRIVmk0WFYwcFRHSGs4THRRVm9hb2xDbnZ6ZWF2S0xLM1R2YXZYSmRtTjB1blJfX1pLVXl4RkJqQUdfM1kzSXRFZDBsVG5hYzdF?oc=5"
     },
     {
       "title": "Funds With the Midas Touch: 5 Best Gold ETFs in 2026",
@@ -96,19 +91,19 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2oxdTd0Uk5zTjVSMm1NNFk5U3V0VmlxWlhybTZQb2xhYl96MmdTN0FfSlF2MmZwck95cTJBMExnQjJZV1UxNDFHUGNtdk4tUlVVUEpGaFFTQXZsdFBCdVo5bWtzTGpEUTJMdWZ0N1lkNUxRcEh5SEJJVFJ4U21ndmFTSHE?oc=5"
     },
     {
-      "title": "Prediction: This Unstoppable Vanguard Index Fund Will Crush the S&P 500 (Again) in 2026",
+      "title": "Should You Buy the Invesco QQQ ETF With the Nasdaq at a Record High? Here's What History Says.",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY2F6V0JpUHpTSVBGbjBXd0RmMFJaRWd3SHI2S1ZWS1pDQ21GbnctbURndFNvM0p1bVhiVFpvbVpFUlJvSjRrZElpeHdaUGg1ODBHT0ZWNC16T2x1NldpN1VadklSV3FIaV96ZjhFcFF1WVoxdHRJVFNUd0VXUTlaQ3NiRERqSFBwdzliLWkwRQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YczFHQTZJSTBEc05zUHYyV3VKXzJ5c1F3U3VQYkdZUmxvZXhGc0hTbkxwaGdDM3hsODhveTFlb09JTkk5d3QzalVCNlROLXNlY01Mc3FFdjM5RWlfa0x5QkR3QXUtbU02N1pqM09KNVVTRXlDaVZvZDRR?oc=5"
     },
     {
-      "title": "Best Rare Earth Stocks to Buy Now May 2026",
+      "title": "Best value funds to invest in May 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kb3JyUVVPQUU2Z1ZLN2xScXE0SldVZTNHSW5kYldwTmR2QnlEN3B1aTZkREE2VGNfMW9reDRUODNFY2ZkQU9lT1JHRTRTTWlTcmlFYkZ0RzhDQnRkeVk1RFBHYWdaRDZkeFZTNXZhWXFxdGhB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUXF2YWJTbXc5eFo4TGx6ekhDbGNLVDA4Vzh6ZTFPZ2p4OHREZ0FDQXY4ZEF1Zy1kM1pTdGI0a1JFMHBuRWNuS0FPcTNYWXhPNDZGLVVJZE5pc3ZjV29tOGZkQXE1aFVETkhGNFU2cHV6UzFJdGx1dklVS19SLURicXRsbnptSl9fbUdtSDRXVmdFVllrejM4UlBndHhGSUpsMko2bzYtTXhUMzlr0gGsAUFVX3lxTE1RcXZhYlNtdzl4WjhMbHp6SENsY0tUMDhXOHplMU9nang4dERnQUNBdjhkQXVnLWQzWlN0YjRrUkUwcG5FY25LQU9xM1hZeE80NkYtVUlkTmlzdmNXb204ZmRBcTVoVUROSEY0VTZwdXpTMUl0bHV2SVVLX1ItRGJxdGxuem1KX19tR21INFdWZ0VWWWt6MzhSUGd0eEZJSmwySjZvNi1NeFQzOWs?oc=5"
     },
     {
-      "title": "This Broad-Based, Low-Cost ETF Earns our Gold Rating",
+      "title": "Largest Leveraged and Inverse ETFs",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQzRiOUF6U2pmaVVXa2RKYzNsZ0toa2szRDF0SVFpYVQxM2RmWnBqLVpRSWFxdGYtcGRlZElBYko0V0EtZC1GSmFuaXNSdjQ4UFRFZXI5LTFpY3BDbU9FdWJhNkU5MUZEYll3dnNORTN5RmFrNS15WTJvcUZCZHU0VVRPV0RqNVRXOFY4dTM4aVNWY3pQTmR6Vw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuR05wOGhhS3VaY3dpV0FZUEQxYkU1R2ZxakpRX0RvMTE3dUdJOGFBd1NJM2xuSTdJLUd3eWp5MmVPS0FUaS04dWN5dDlSUTNwR2owdWVBLV9iOUNJUmRDX1ZkYlpxVmNuLU4tYTdBTEs3VUU5R29MSnVaa2NTbmc?oc=5"
     },
     {
       "title": "John Hancock 2025 Lifetime Blend Portfolio Q1 2026 Commentary (JHAUX)",
@@ -116,14 +111,9 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWhMekVKdWg2VDZMRVNDanBQN0ZaU09WaWZHQ0FVcUxmN1RLYUZPaGVocEh3bXI0S05WUkxVXzhud0tsbjlGaVhhY3VQTnBaQ0FCVEppRHJNYlMzb2l1dFJ2bGtWSmtHaGxfVGlPZFFrYVNNb0RvZVpQLUNOLVdIazdkbVY0VTNZdVFRcmhsX0kxSktyT21EU2ZqQUlBZV9BRUthbA?oc=5"
     },
     {
-      "title": "Best focused mutual funds to invest in May 2026",
+      "title": "VLUE, AVUV, VBR: The Small and Large-Cap Value Plays Crushing Growth in May",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON3hDcTRnQ2ZJUFNUZTVvblVTaFlpTHdyay1CajlGLVQxLUI2SUVacFJVc0JHNW51QWFjemZOVVN6bTFwUl8xaTRWOGZmUXp6UEpDVHF5M21NWk5FNGt1YWNMRE1NMTBVUFppQmJveTc3dGF6a0xXT1BtWXRSMmZCRXE4WHl3aU1JTXByX0QwOEQyZnEzTWtPcXhlbGkwbTgxV0JmTXJoZWRHX3d4cE1obC1pUUFRTDNp0gG4AUFVX3lxTE43eENxNGdDZklQU1RlNW9uVVNoWWlMd3JrLUJqOUYtVDEtQjZJRVpwUlVzQkc1bnVBYWN6Zk5VU3ptMXBSXzFpNFY4ZmZRenpQSkNUcXkzbU1aTkU0a3VhY0xETU0xMFVQWmlCYm95Nzd0YXprTFdPUG1ZdFIyZkJFcThYeXdpTUlNcHJfRDA4RDJmcTNNa09xeGVsaTBtODFXQmZNcmhlZEdfd3hwTWhsLWlRQVFMM2k?oc=5"
-    },
-    {
-      "title": "Beat the Market the Zacks Way: Nabors Industries, MYR Group, Alphabet in Focus",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTHZKWTJmcmZuV2hHWDVhbVktX1ppenozMEZ5M2U2S2tyQzA0aU1FV25qeEo3R2ZhcDg4OU9SZGZuODFwWkxWWDZsQTRMb2NfTDFkVld5dC1FdGFjc1l6NTNyTDhoVnAxdmZoRko3Z1oyUnJfb2RvRFhSS21kd0lROThRVGJDX2JOanZjbTh5WDVYaVpYMklPcV9NdHBNZk9Ib1dfQ0lpbExiTGlLdHRqbHlLTXpsY2w2MWdfbUFBVTRreC0tUGpuWmE0Yw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oand1UFEzZVlVeUNOci05SEIxWm5kdGlIYURQQkc5Z1BCN1lQVXZvbHhnYWJGU0syTHN5bExVelhZdVFDMFl5MG9keWRnYW4ySUlHWlpPQXVRcXJfT2NYTFctSWcyWDEyNGJYQ2pMMDE4OTB3R040Rw?oc=5"
     },
     {
       "title": "Canada’s Target-Risk ETF Boom Has 3 Clear Winners",
@@ -131,22 +121,32 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUdWcEtQVGRUR0FpVzc2cG1NVmRnekFTVTMwdjl2eE1Bb0k4WnNDZ2hXZmV5ckowai04bVRrMEFyS05jeVlPUXFOLUZmaUlLZXRNQk5yQkZFS0swTkNjcXRvM3lUTmR5TW5CMWRkU2NvMEdwQjRHRWRxcHhUeTlBaHNXeENhQWF5TjFscjA5U0ZOX0pY?oc=5"
     },
     {
-      "title": "Vanguard Slashes Fees Across 84 Funds, Saving Investors $250 Million in 2026; Average expense ratio now 0.06%",
+      "title": "ETF Industry Launches 370 Products in Four Months, Tracking Towards 1,200 for the Year.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "SEC Approves ETF Share Classes for Mutual Funds, Potentially Reducing Capital Gains Taxes for Over 120 Million US Investors",
+      "title": "ProShares Genius Money Market ETF (IQMM) Ranks as Top Launch of 2026, Exceeding $22 Billion in Assets.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "TD Asset Management Launches Four New ETF Series of Existing TD Mutual Funds Including TD Alternative Commodities Pool – ETF Series (TCOM)",
+      "title": "Vanguard International High Dividend Yield ETF (VYMI) Expense Ratio Drops from 0.17% to 0.07%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "iShares International Country Rotation Active ETF (CORO) Sees $15.2 Million Investment by Stonebrook Private Inc.",
+      "title": "Total Estimated Inflows to Long-Term Mutual Funds and ETFs Were $8.09 Billion for the Week Ended April 29, 2026.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Fidelity U.S. Low Volatility Equity Fund to Merge into Fidelity Low Volatility Factor ETF on May 8, 2026, Subject to Shareholder Approval.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "S&P 500 Growth Index Outperforms with a 10% Return in 2026, Vanguard S&P 500 Growth ETF (VOOG) Could Continue to Outperform.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
