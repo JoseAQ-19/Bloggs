@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-14T08:01:13.290779+00:00",
-  "total_candidates": 20,
+  "scouted_at": "2026-05-14T08:02:51.477338+00:00",
+  "total_candidates": 21,
   "topics": [
     {
       "rank": 1,
-      "title": "AI Stocks: Where Are the Next Opportunities for Investors?",
+      "title": "Unveiling the Future of AI: Top 5 Stocks Set to Surge Beyond Current Market Trends",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar: TENCENT Results In Line; AI Investment Begins to Deliver Returns, Spending In Line with Guidance",
+      "title": "Vanguard's Fee Revolution: How Lower Costs on VYMI Can Impact Your Dividend Strategy",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "J.P. Morgan Asset Management Launches Second Tokenized Money Market Fund on Ethereum",
+      "title": "Exploring the Performance Gap: Why the Vanguard Mega Cap Value ETF Outshines the S&P 500 by 4% in 2026",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -29,9 +29,9 @@
       "full list": 20,
       "index fund": 7,
       "small cap": 5,
-      "emerging markets": 4,
       "fund institutional": 4,
       "etfalps shares": 4,
+      "emerging markets": 3,
       "markets china": 3,
       "china fund": 3,
       "funds growth": 3,
@@ -51,6 +51,11 @@
   },
   "all_headlines": [
     {
+      "title": "Want to Protect Your Portfolio From Inflation? Here Are 4 TIPS Funds That Can Help",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVpEanVPaHNRX1lKYmRxR2ZmSW9ZcGZsaEJMX2hJaXBmNENaU0dhYmkycVRFSTdYa1hqM3ZKbERQY21weEc4Vm92OWJtT24xamU4SHJWaVpfZWltR0lteWF1Z2tRUWpTSlByM0hmbmplcEZfRFN5UnVWTXUteXlQejByazVoZVpHWUVIc3FOaDZJYm1ZTmZGNW9yUWhzSDNUSlFjZkl5Q0FHY0U?oc=5"
+    },
+    {
       "title": "AI Stocks: Where Are the Next Opportunities for Investors?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0Z5VmI3Yl9IV1ZsemxHLUxDeU9YMWNCYUVhRjU5R0xHazNiVnUwVGV1Y0tFYTRqcjAyZVRjQWgxYlBLQVRYVm9JTTlFMUdUcElxbmt0Tk52X0Z0N2JjcTdXTGFxb2U1MUZjRFR6RWd3MEduc3BBNVBpekV6ZHJpczBzcERFc1hFaTBRaTExdkFTdld6c2ZZ?oc=5"
@@ -58,7 +63,7 @@
     {
       "title": "Morningstar: TENCENT Results In Line; AI Investment Begins to Deliver Returns, Spending In Line with Guidance",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLVlNalJrYV9tOE1jbjhhSXZHUi1kMkxTVVdIMmVvdlg1MTVYV3NWc1NZV1l0czQ5R09lSEZVSl9DMFBxSmZxNWU1M1ZHcUlEM2pJd052UkhQREFoYkFKMGpjX2NLYlNoeVBpU3VCaGsydUROWFVxYVhNUGdMTDkwUEJB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFJxVE1RaTZ1WmRVT3JvdjdsbS1mektNNUdsaXRtb2pzMUxHVUgzbXM5LWJPd3NKTGw2S3Z4YVQxUHd0Y0E1NWpoMk5WZDlGM1NDUEswVm9OdThXWWpBazNLQmJTMm1GTjhGWFc1S1RoRnhRWWVwaGpobVg3NzZ1dDRlbw?oc=5"
     },
     {
       "title": "J.P. Morgan Asset Management Launches Second Tokenized Money Market Fund on Ethereum",
@@ -71,9 +76,9 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcjNIS0N6ZndMUFRuTVF0ak5aSUtYTm9DTlZwSlc4V01BN2ZEdDVOLWZHTWN0aFc4anZ0Zk4xYmlYTjlDTkp2RlhHYndZaURqR3pmdmk4WS1KeVNKMFp1TGNJelJPZkJoVGdQSl9SM2tTVXFEQmk0UUhMR2FpajNwemd1S2h6amdNdG1hT01zV0gwUlBUTmxsUzJqZ0lSRzlGTkVVR1lBcVN6WG1nUXZET0J0bmVqaTN5ZWFQajRncFBYTUNvQkthS2ZweGI2eHRsbFpzTDMxa0U5MGd1SHFkYUZXVC1DYmliMDlBUmlKR3ZsYmRP?oc=5"
     },
     {
-      "title": "Want to Protect Your Portfolio From Inflation? Here Are 4 TIPS Funds That Can Help",
+      "title": "UroMems Raises $60 Million Strategic Investment from U.S.-Based Ajax Health Fund I",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVpEanVPaHNRX1lKYmRxR2ZmSW9ZcGZsaEJMX2hJaXBmNENaU0dhYmkycVRFSTdYa1hqM3ZKbERQY21weEc4Vm92OWJtT24xamU4SHJWaVpfZWltR0lteWF1Z2tRUWpTSlByM0hmbmplcEZfRFN5UnVWTXUteXlQejByazVoZVpHWUVIc3FOaDZJYm1ZTmZGNW9yUWhzSDNUSlFjZkl5Q0FHY0U?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZ0RlSGpuUlBCNE5QQ1dtQXkxRDFVMTI0ZmtKTURSN1hfd1M1SEY3ZHpHY1BXLTZETnphdTRtb2xfQnBLNUhvNVd4X3h3Z1daUWlia1RGZW1jYnpEYzJpZ2dHUEpUanFjQUFYeGxid3RGeENKZGFnZHRwRnd5MFNLMkM1QzJON2VSUEp1Vlk0OTRwNnR0bnlVMm9qODhuUGJDRUJYRnpUUnQzTU5WV0xQSmxkRVR6LTdfaU9ucUlONTh5UXBLY1FrWkJnX3NQUzJMM0pETTZXRQ?oc=5"
     },
     {
       "title": "Why iShares Core MSCI Emerging Markets ETF Can Still Compete",
@@ -96,14 +101,14 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YczFHQTZJSTBEc05zUHYyV3VKXzJ5c1F3U3VQYkdZUmxvZXhGc0hTbkxwaGdDM3hsODhveTFlb09JTkk5d3QzalVCNlROLXNlY01Mc3FFdjM5RWlfa0x5QkR3QXUtbU02N1pqM09KNVVTRXlDaVZvZDRR?oc=5"
     },
     {
-      "title": "Best value funds to invest in May 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUXF2YWJTbXc5eFo4TGx6ekhDbGNLVDA4Vzh6ZTFPZ2p4OHREZ0FDQXY4ZEF1Zy1kM1pTdGI0a1JFMHBuRWNuS0FPcTNYWXhPNDZGLVVJZE5pc3ZjV29tOGZkQXE1aFVETkhGNFU2cHV6UzFJdGx1dklVS19SLURicXRsbnptSl9fbUdtSDRXVmdFVllrejM4UlBndHhGSUpsMko2bzYtTXhUMzlr0gGsAUFVX3lxTE1RcXZhYlNtdzl4WjhMbHp6SENsY0tUMDhXOHplMU9nang4dERnQUNBdjhkQXVnLWQzWlN0YjRrUkUwcG5FY25LQU9xM1hZeE80NkYtVUlkTmlzdmNXb204ZmRBcTVoVUROSEY0VTZwdXpTMUl0bHV2SVVLX1ItRGJxdGxuem1KX19tR21INFdWZ0VWWWt6MzhSUGd0eEZJSmwySjZvNi1NeFQzOWs?oc=5"
-    },
-    {
       "title": "Largest Leveraged and Inverse ETFs",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuR05wOGhhS3VaY3dpV0FZUEQxYkU1R2ZxakpRX0RvMTE3dUdJOGFBd1NJM2xuSTdJLUd3eWp5MmVPS0FUaS04dWN5dDlSUTNwR2owdWVBLV9iOUNJUmRDX1ZkYlpxVmNuLU4tYTdBTEs3VUU5R29MSnVaa2NTbmc?oc=5"
+    },
+    {
+      "title": "April Jobs Data Put Focus on These Sector ETFs & Stocks",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa0MxS0hxSUZGREtaNjJ1djg2bERVNHRWaDl6eURYekkwVHdIYl94ZXlCRkpZUG1nbjJ4aGdmSEUzTlRJdkZhdXJnMFd1TWp2cl80dm9wb0dtM0VtOXIzOEdqbXJOY0ZDblNOM3ZCOGpGWWxMb2dtYlFEZ3RlMUwyWE9MTUVVVnV6OHVobW5oZjlTbjF4dmdjTWYycWJ2d0pVRnV2MVlDQlBtWmpJbWc?oc=5"
     },
     {
       "title": "John Hancock 2025 Lifetime Blend Portfolio Q1 2026 Commentary (JHAUX)",
@@ -111,9 +116,9 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWhMekVKdWg2VDZMRVNDanBQN0ZaU09WaWZHQ0FVcUxmN1RLYUZPaGVocEh3bXI0S05WUkxVXzhud0tsbjlGaVhhY3VQTnBaQ0FCVEppRHJNYlMzb2l1dFJ2bGtWSmtHaGxfVGlPZFFrYVNNb0RvZVpQLUNOLVdIazdkbVY0VTNZdVFRcmhsX0kxSktyT21EU2ZqQUlBZV9BRUthbA?oc=5"
     },
     {
-      "title": "VLUE, AVUV, VBR: The Small and Large-Cap Value Plays Crushing Growth in May",
+      "title": "Best BDC Stocks for 2026 and How to Invest",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oand1UFEzZVlVeUNOci05SEIxWm5kdGlIYURQQkc5Z1BCN1lQVXZvbHhnYWJGU0syTHN5bExVelhZdVFDMFl5MG9keWRnYW4ySUlHWlpPQXVRcXJfT2NYTFctSWcyWDEyNGJYQ2pMMDE4OTB3R040Rw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVJaVlNhRHVLcHpDaEx1WmJqZzRUSFh2RmdHYkZSTWktRF85ZGNqR2FiRzhmNU1mdjBzTTFZVnFtRzc2ZGNBTDNCcGp1eWhCdDdfVVdOZVBIR3JxU240aUkzOFhZVWoza1Z6bkNjc3RqZGFqc29kQ0pQdlE3R3YyaDc3XzJvUkZUQ2hrbndvMmw1WjlZZndmYVF3c1I?oc=5"
     },
     {
       "title": "Canada’s Target-Risk ETF Boom Has 3 Clear Winners",
@@ -121,32 +126,27 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUdWcEtQVGRUR0FpVzc2cG1NVmRnekFTVTMwdjl2eE1Bb0k4WnNDZ2hXZmV5ckowai04bVRrMEFyS05jeVlPUXFOLUZmaUlLZXRNQk5yQkZFS0swTkNjcXRvM3lUTmR5TW5CMWRkU2NvMEdwQjRHRWRxcHhUeTlBaHNXeENhQWF5TjFscjA5U0ZOX0pY?oc=5"
     },
     {
-      "title": "ETF Industry Launches 370 Products in Four Months, Tracking Towards 1,200 for the Year.",
+      "title": "ProShares Genius Money Market ETF (IQMM) tops new ETF launches in 2026 with over $22 billion in assets, driven by internal cash management.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "ProShares Genius Money Market ETF (IQMM) Ranks as Top Launch of 2026, Exceeding $22 Billion in Assets.",
+      "title": "Investment Company Institute (ICI) reports total estimated inflows to long-term mutual funds and ETFs were $8.09 billion for the week ending April 29, 2026, with mutual fund outflows of $16.84 billion offset by ETF net issuance of $24.93 billion.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard International High Dividend Yield ETF (VYMI) Expense Ratio Drops from 0.17% to 0.07%.",
+      "title": "Roundhill Memory ETF (DRAM) crosses $3 billion AUM, becoming the fastest-growing thematic ETF in history due to massive (20%+) weightings in global memory chip giants.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Total Estimated Inflows to Long-Term Mutual Funds and ETFs Were $8.09 Billion for the Week Ended April 29, 2026.",
+      "title": "Vanguard International High Dividend Yield ETF (VYMI) expense ratio drops from 0.17% to 0.07% as part of Vanguard's broader fee reduction initiative.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Fidelity U.S. Low Volatility Equity Fund to Merge into Fidelity Low Volatility Factor ETF on May 8, 2026, Subject to Shareholder Approval.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "S&P 500 Growth Index Outperforms with a 10% Return in 2026, Vanguard S&P 500 Growth ETF (VOOG) Could Continue to Outperform.",
+      "title": "SEC proposes rule amendments to permit companies to file interim reports semiannually on Form 10-S instead of quarterly.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
