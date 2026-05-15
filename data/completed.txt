@@ -1297,3 +1297,4 @@ tools: Revoluciona tus reparaciones con la Llave De Vaso De Impacto KS Tools 515
 tools: Unmasking Twill Typhoon: The Windows Tools Behind a Major Espionage Operation
 crypto: La caída de BUILDon ($B): ¿Fin de la era cripto?
 crypto: Crypto's Legislative Victory: Will the CLARITY Act Change the Game?
+crypto: Senate Takes a Step Forward: The Clarity Act's Impact on the Crypto Landscape
