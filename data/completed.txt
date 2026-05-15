@@ -1291,3 +1291,4 @@ fitness: When Does Your Strength Start to Fade? Insights from a 47-Year Study
 funds: CT (Lux) Global Technology Fund alcanza un retorno del +58,5% en un año
 funds: HFR Index Shows Hedge Funds Outperforming Equities by 3% in Q3 2023
 funds: Morningstar and HFR Report 15% Growth in Alternative Investments This Quarter
+ia: Erika Staël von Holstein: ¿Está Europa perdiendo la batalla de la IA frente a EE.UU.?
