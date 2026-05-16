@@ -1312,3 +1312,4 @@ tools: Harvard y la UR: Innovaciones científicas que marcan la pauta
 tools: The Future of DIY: Trends Shaping the Tools Market Until 2035
 crypto: 'Firedancer': El enfoque gradual de Jump Crypto para revolucionar Solana
 crypto: Crypto Market Takes a Hit: $500M Lost as Bitcoin Dips to $78K
+crypto: The Dark Side of Crypto: Teenager Behind $19M Social Engineering Scheme Exposed
