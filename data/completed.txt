@@ -1311,3 +1311,4 @@ ia: Mysterious Death Investigation Shakes Small Town Le Mars, IA
 tools: Harvard y la UR: Innovaciones científicas que marcan la pauta
 tools: The Future of DIY: Trends Shaping the Tools Market Until 2035
 crypto: 'Firedancer': El enfoque gradual de Jump Crypto para revolucionar Solana
+crypto: Crypto Market Takes a Hit: $500M Lost as Bitcoin Dips to $78K
