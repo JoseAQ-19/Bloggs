@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-16T07:38:39.770787+00:00",
-  "total_candidates": 20,
+  "scouted_at": "2026-05-16T07:40:07.768385+00:00",
+  "total_candidates": 14,
   "topics": [
     {
       "rank": 1,
-      "title": "Los ETFs de dividendos que están captando la atención: ¿qué podemos aprender de su rendimiento?",
+      "title": "Los ETFs de dividendos: ¿Por qué un 45% de los inversores los elige en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Vanguard revoluciona el mercado: comisiones de ETFs de renta variable reducidas a un sorprendente 0,13% en Europa.",
+      "title": "Acciona y Acciona Energía: ¿Cómo sus calificaciones de grado de inversión impactan en su rendimiento?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "El fondo \"España Crece\" moviliza 120 mil millones de euros: una oportunidad única en inversión productiva y transición verde.",
+      "title": "Fondos de inversión asesorados por elEconomista: Analizando su sorprendente 16,33% de rentabilidad hasta abril.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -117,36 +117,6 @@
       "title": "Invertir en MSCI World o MSCI ACWI: ¿cuál conviene más?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOERPblFLOEh0SHFJV2VWZjM3X2Iyby02TjZPMzRRVERqQWpnM0Q0TXdWWmxKVW1rWTU2SmFPajQ1dGZlUjhueDM4UFZfa0V4b2JkUF9CMHpPcFZ4aFRYMzhvdGItaHpfZGs2ZGg5cEIyS2tJZDMzWEIxWnlYRUdrQVJZOVc3ZkRhc3FVOTY3TkEzb1lobjdF?oc=5"
-    },
-    {
-      "title": "EQT Real Estate Europe Logistics Value Fund V Cierra en 3.100 Millones de Euros, Superando su Objetivo Inicial en un 42%",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Vanguard Reduce las Comisiones de Seis ETFs de Renta Variable en Europa, Promediando un Ratio de Gastos del 0,13%",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "El fondo \"España Crece\" Movilizará 120 Mil Millones de Euros en Inversión Productiva, Priorizando la Vivienda Asequible y la Transición Verde",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Indosuez Lanza Nueva Gama de ETFs Activos en Europa en la Segunda Mitad de 2026, Apoyándose en la Plataforma \"ETF-as-a-Service\" de Amundi",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Los Mejores Roboadvisors en España en 2026: MyInvestor Ofrece Comisiones Totales Desde 0,43% Anual, Liderando Indexa Capital con un Coste Medio de 0,53%",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "CNMV Suspende la Cotización de TUBOS REUNIDOS S.A. Debido a Circunstancias que Podrían Perturbar el Curso Normal de las Operaciones",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }
