@@ -1314,3 +1314,4 @@ crypto: 'Firedancer': El enfoque gradual de Jump Crypto para revolucionar Solana
 crypto: Crypto Market Takes a Hit: $500M Lost as Bitcoin Dips to $78K
 crypto: The Dark Side of Crypto: Teenager Behind $19M Social Engineering Scheme Exposed
 youtube: Más de 200 expertos exigen a YouTube frenar la "basura generada por IA" dirigida a los niños
+youtube: Kelsey Impicciche's 'Sims' Sensation: How One Video Landed a Million Subscribers!
