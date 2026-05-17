@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-17T07:50:44.602587+00:00",
+  "scouted_at": "2026-05-17T07:52:18.608446+00:00",
   "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "Descubre qué compran los mejores gestores de fondos de dividendos en 2023: análisis de rendimientos sorprendentes",
+      "title": "Los 5 fondos de dividendos que han superado el 10% de rentabilidad en el último año: ¿qué compran los mejores gestores?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa de los mejores fondos de inversión de Santander AM y BBVA: ¿quién ofrece la mejor rentabilidad en 2023?",
+      "title": "Comparativa de los mejores fondos de inversión de Santander AM y BBVA: ¿quién ofrece mejor rendimiento y menores comisiones?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Invertir en Renta Fija 2023: ¿pueden los fondos de deuda superar el 5% de rendimiento en el próximo año?",
+      "title": "Análisis de los fondos de Caixabank: ¿cuáles son los que han resistido mejor en tiempos de incertidumbre económica?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
