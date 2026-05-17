@@ -1,8 +1,8 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-17T09:11:01.912535+00:00",
-  "total_candidates": 23,
+  "scouted_at": "2026-05-17T09:12:18.927288+00:00",
+  "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
@@ -18,7 +18,7 @@
     },
     {
       "rank": 3,
-      "title": "Vanguard Bets Big on Active Fixed Income. Here’s Why",
+      "title": "PGIM launches first private credit CIT to broaden defined contribution market access",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -59,11 +59,6 @@
       "title": "ICI: Money Market Fund Assets Reach $7.75 Trillion Continuing Upward Trend",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVlF6a2Zfam1UdVdNeHNvNk55c2Z1R1FRQTlvZFExRmt6Rm1zSkJTeDZSUklaeWNrRjg5VFZsZmRhaGFyZmthVzRoYnh1R2dqVno4RUxmNldrQU9UWGp0elFrUDJiQUxldFhxTzZ6bkVXR1NJUUJnaHZMU0lNNjNQaGFtXzRNVGQwMHRsa1hNdlBldllVQXZHenhtb21WMWZkRjJhaW9WUXE1b29mdWZubTZMWXpyemZISFlhNmpFbWFTNC03ZVl0Nk9oWm0?oc=5"
-    },
-    {
-      "title": "Vanguard Bets Big on Active Fixed Income. Here’s Why",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVdUaEhJSi03ZjcyMUZyaU1kSzFPbkVlU05QVVZwMnJYTm9xa19xMktiNnRDbGpJQXVOTkRUN3dhTHVKbkV5NDI2bEhVRE9MdENqVU05MnBlcUk1T0xKeGRnRzZiTUhZQnhVZkxUMmkta2w1NEJsTTk1eHIwc2tweFg0MWZhZTBf?oc=5"
     },
     {
       "title": "PGIM launches first private credit CIT to broaden defined contribution market access",
@@ -136,17 +131,22 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSWGdnSGpEYkNKY3BlQ1JfekpkYWtBRHdjcGtyb1dHVmJvSmR0N19kaW9RVVdHMmN1dGdnelpwX184NFVoM2lHMl9tRQ?oc=5"
     },
     {
-      "title": "iShares Semiconductor ETF (SOXX) Surges 69% Year-to-Date, Outperforming S&P 500 Amid AI Demand",
+      "title": "SEC Proposes New Rules to Modernize Mutual Fund and ETF Reporting, Enhancing Data Quality and Accessibility for Investors",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Fidelity Select Semiconductors Portfolio (FSELX) is the best-performing Fidelity mutual fund with a 0.6% expense ratio.",
+      "title": "Equity ETFs See Net Inflows of $141.6 Billion in April, Bringing Trailing 12-Months Net Inflows to $1.12 Trillion",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Exchange Traded Concepts launches xETFs NVDA Daily Income ETF (NYYY) and xETFs TSLA Daily Income ETF (TYYY) on May 15, 2026, using a daily synthetic covered call strategy.",
+      "title": "21Shares Launches TKNS, Actively Managed Crypto ETF with a 1.05% Gross Expense Ratio, Investing at Least 80% in Digital Assets",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Investment Company Institute (ICI) Reports $21.38 Billion Outflows from Long-Term Mutual Funds for the Week Ended May 6, 2026",
       "source": "gemini_grounding_finance",
       "url": ""
     }
