@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-16T09:05:44.524435+00:00",
-  "total_candidates": 18,
+  "scouted_at": "2026-05-17T07:53:39.782439+00:00",
+  "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar: TENCENT Results In Line; AI Investment Begins to Deliver Returns, Spending In Line with Guidance",
-      "lang": "en",
-      "source": "google_news_finance"
-    },
-    {
-      "rank": 2,
       "title": "Aviva: Weaker Retirement, Protection, and Health Indicators Overshadow Positive Net Flows",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
+      "rank": 2,
+      "title": "ICI: Money Market Fund Assets Reach $7.75 Trillion Continuing Upward Trend",
+      "lang": "en",
+      "source": "google_news_finance"
+    },
+    {
       "rank": 3,
-      "title": "7 Best Energy ETFs to Buy Now | Investing",
+      "title": "Vanguard Bets Big on Active Fixed Income. Here’s Why",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,24 +51,49 @@
   },
   "all_headlines": [
     {
-      "title": "Morningstar: TENCENT Results In Line; AI Investment Begins to Deliver Returns, Spending In Line with Guidance",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFJxVE1RaTZ1WmRVT3JvdjdsbS1mektNNUdsaXRtb2pzMUxHVUgzbXM5LWJPd3NKTGw2S3Z4YVQxUHd0Y0E1NWpoMk5WZDlGM1NDUEswVm9OdThXWWpBazNLQmJTMm1GTjhGWFc1S1RoRnhRWWVwaGpobVg3NzZ1dDRlbw?oc=5"
-    },
-    {
       "title": "Aviva: Weaker Retirement, Protection, and Health Indicators Overshadow Positive Net Flows",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb2h0SjQwdHk4YlZEODhJWFhzenVOOHBmR1lZLW9YcFhaT085aTdpZTRXYWFGRkZvRXRzbDBWTm95QlhfdXJPd0FrNFVlRnowV085U0ljTFNCSlZnam5JbGphWVZSMDRyZUVvdDI2RndzZjNPSmI3VDBhLXV5OWhRUU1ybXQ1dXFPbmRXVHVYZk4zaXQtbER3NFF2TzAzVDdDZ2w1SzByT0FSRWEwSk00Z29JNWcxV3VmTS1wV2VzMzhseEsx?oc=5"
     },
     {
-      "title": "7 Best Energy ETFs to Buy Now | Investing",
+      "title": "ICI: Money Market Fund Assets Reach $7.75 Trillion Continuing Upward Trend",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YaUE2X1loYXhnN2p3Mmh3c0hOaHpuOF9SZ1RaMGEwbkRSc0xZWUU1bU5XYjBra1poVjJsakZUZnA1YktJMEJGRHJxcnUzTFZkQWVXTVlvYnV0R291V1FwaVc5VFpteXc5X0JCNEJuMTRqUWR3aDRlNnhuQlZ5Zw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVlF6a2Zfam1UdVdNeHNvNk55c2Z1R1FRQTlvZFExRmt6Rm1zSkJTeDZSUklaeWNrRjg5VFZsZmRhaGFyZmthVzRoYnh1R2dqVno4RUxmNldrQU9UWGp0elFrUDJiQUxldFhxTzZ6bkVXR1NJUUJnaHZMU0lNNjNQaGFtXzRNVGQwMHRsa1hNdlBldllVQXZHenhtb21WMWZkRjJhaW9WUXE1b29mdWZubTZMWXpyemZISFlhNmpFbWFTNC03ZVl0Nk9oWm0?oc=5"
     },
     {
-      "title": "Why iShares Core MSCI Emerging Markets ETF Can Still Compete",
+      "title": "Vanguard Bets Big on Active Fixed Income. Here’s Why",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3JkZE9tTmNWVE5wQksxMEhGWTdxdmNwS0Z0M1lPejBpRDd2N1h1bko2XzYyT2dRaGxxZ1JtVUZQbVJPTC01T01ETGpoMGpZaEVUUEtEd3F5dzBzVjRPYWdHRVNONDRuU241dWNYYzcwMXJrNEE5LXNQYVY0czZuS003VTdGU1JfclVxWHJHdkRReTB1VE5SR29VNHdCU1h5T3FJSQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVdUaEhJSi03ZjcyMUZyaU1kSzFPbkVlU05QVVZwMnJYTm9xa19xMktiNnRDbGpJQXVOTkRUN3dhTHVKbkV5NDI2bEhVRE9MdENqVU05MnBlcUk1T0xKeGRnRzZiTUhZQnhVZkxUMmkta2w1NEJsTTk1eHIwc2tweFg0MWZhZTBf?oc=5"
+    },
+    {
+      "title": "Bitwise Launches Spot Hyperliquid ETF (BHYP); Offers Exposure to Leading Onchain Derivatives Exchange, With Staking Rewards",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVkdSWlo1ZXM3SW1QUlVTQ2JmMi1NcG1IMUx0aDlPVUxEcHlzQ0hVdGZweUQyZ2ZTQmd0c2Iwa3Boa19IdXhya085UmxqXzhCbGZFeVduYUVXY3VjRzhJd05RMmVxUmxkOE9jWUZGazhkalJ4UVZZUm5uMThNWElpQXVESUY5RjBmSDVPaFRud3VCQXh1cVdTTnQzZnlIZzZsNGVKVzZvQkIxdW5GZGRNcXdhT0hmQWtfSm5Tejd5dmRKM1h3cFpEc0hBWDBPSmF1LWRnZWd6NzVNM1JKdG9UWmVoa3JLa01kNjlxcHVoLUFLLTFkU1U1SF83b1c3TWk4b3lveUN3S0xMc3RE?oc=5"
+    },
+    {
+      "title": "FTSE 100 vs. FTSE 250: Where These Top Managers See UK Stock Market Opportunities",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOelFaYjBuU0NZNlAyRTdnek5Ia0JMWjNCLWhNU2FlVmVIbVBSVlgtNDBYOXhmd3hjRXVxX01UMHlQRkdkZ3dCb2ctY1Q2cXZ2V1hNbkdYVlpRWFJnTTVMbDVDQWtaNHNwbVlRSEExX3lLbEs3Q0lzNmR5bDBaS3p3ZDZPYzlOWmdqYVVpc0JlUVFYcE9lYnJhbzZvLWd2VkZYZ2NVMjJEVDBZb0xzcHFMTTJONzNrekVkRmlCejFnTQ?oc=5"
+    },
+    {
+      "title": "Morningstar Inc stock (US6153942023): shares retreat as valuation debate intensifies",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR0lGcGtjb0NFSnpaWW1xRXhRYmxCV0ZhZG9kM2hXbmxDSGF5Rm9oSWJBeVJkZzZra2RyaVBBSkpxUmpzbUZJOWFYdnd1M2JYbDhCWEllZHkxc2pRdFZSaTdYVnEwSklDVWRVUUp3aFY2Q29RbTVaZ01jZUVUNWcyY3M4VnlPWFZPei0tQWVBWmRET0pNUTV5LUNWeGlKX1dPaUlfeHVlbkx0eWJGeFBRU2J2Ui1jT3BObzdfVGYwQ2NBWFZSOXdJ?oc=5"
+    },
+    {
+      "title": "7 Best Emerging-Market ETFs to Buy for 2026 | Investing",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VcXZ3U0FsNjQ1T1ZRYUtSTWVhRE5kblJtMnF0NlF6TzlYNG51WXdfRDVUTjVhMjUzY3VWbjFpa0MzdDNiTWxvUWpyNU1CWU1pclY1Q0hHMUlrTW1GTmhzMUNMVjR0ZFJYa1FpMTFNWXJVaURXbW13UA?oc=5"
+    },
+    {
+      "title": "Best Fidelity Mutual Funds For 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uUzA5VXZSSFVYS19BZ2xLbmZSeGZ2QkN1M2l0WThrLWdxdllyT1RxNlFZbklvcVltVzJVaDFJMFpHNUJMNk9Ya3RNVkU2Nk5xNm9ucHJxaERCUndMRTZJVWZ4ZUFxM0lzMGJJOHZQNzdiYVVhUWdKNg?oc=5"
+    },
+    {
+      "title": "2026 Dividend Kings: List & Definition",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSzdDemRIbXFaN01zQkRITndhN1hoQzFQMFEybGQ3VmZuQ2NYWWpHQ3lucG5uSU1vdXdaTzZYZU5NRUNxWV9Oc2RFZ3NxMF9UZmJiZXdvV3Uzd1ZoNktINUs0clI1VkJaSXhJM3JBQlNJb29xTVZXTE5NLUlwZ2VZRHV5V2JUbjMwLXFmU1Q3NmMwTUd0UkE?oc=5"
     },
     {
       "title": "If I Could Tell All Investors 1 Thing About the Stock Market Right Now, It's This",
@@ -76,34 +101,29 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNktjcl8zYWRnS1Z1bGg1a3lvRXlOc0Z0VjlXdFBoMXZZMzRYdU50b2gzT3A3NlZZMnJSTUlndW9pNE5kc2VFbmx5cFIzNFd3NDVDRG5CbmdyaU9nUXV6M0kzcW5aV25PWFN5MnhESWxYVEdnbXg2ZzdiMTM1RGx6M2pvUXlQV0tYNldjazZWNDEtT3I3LTlzMzUxYXo2c3J5bWoyRGpzSkI2VHROZ01BdnRkMFZNZWJJSmI4WW5MUE11dVRncm5UYUlUS0hXelREMHdTM19wVmVYa0Ywa0NjWmRSeVE3WmV2R0k5VmFOMnp1ZEQ0bzUw?oc=5"
     },
     {
-      "title": "Best VIX ETFs for 2026 and How to Invest",
+      "title": "The Cheapest Gold ETFs to Buy Now",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tNVlaV3Rud2NqQ1dqQTNIOFJKOURGTTFLeFRIVmk0WFYwcFRHSGs4THRRVm9hb2xDbnZ6ZWF2S0xLM1R2YXZYSmRtTjB1blJfX1pLVXl4RkJqQUdfM1kzSXRFZDBsVG5hYzdF?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVHRaXzl0X1FtNEJHNldlQUdaaUhyNVNyZUtzZ1ZaWGFiaVRuWWNEeTQtR1l6XzRMVGNhUUkzR1h3WW5mRUJWdU42cnZ4c0pVbWJ3enFtLWRWX2RMTEp3YmwxRU9ob2laMUJwRXJ2cW41dy1WcS1IdlJjZE03ckM1Q0dsYVo3QVBwLTZGUEV3?oc=5"
     },
     {
-      "title": "The Best US Dividend and Income-Equity Funds to Buy",
+      "title": "SBI Nifty G-Sec Jul 2031 Index Fund Direct-Growth",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazdxbTBwd0t2OHlDVmxvODd1XzJoTmZfMk1VUks3bUZGb1JNU0FSbzVVZ2ZMNXRZdG1fYmh4a1BYb2Mta2E0THNhbXVZaURqRGgydHhZcmJCMUU4Q3dTMms3bWhpVzkxc1JTLTdxMXdXNnQ4eEltNU5UTUtpYTFJd0FiSkVLWnlEdTU4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3lfX2VMVjhWbHdZazIwUDRCcmVFdjMyWmlTZGpaRTZVb1FEMGdMVmlkUFNYSkcxdWN3NDRBSEUxeTVSb2E3T1lyTkYyZm50UmtRM0FsUmpsTEU3YndOTnl0cDFIQ2RlRmJLa2toNzkxdFM3eUxqcDlXMGNvTDVoOUcwOGh3aUc0U1l3d0pjOWk2OXktTmtoNVh0amZDX21qVzVOWExBUlBNQQ?oc=5"
     },
     {
-      "title": "April Jobs Data Put Focus on These Sector ETFs & Stocks",
+      "title": "Today's Crypto News: CLARITY Act Faces 100+ Amendments",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa0MxS0hxSUZGREtaNjJ1djg2bERVNHRWaDl6eURYekkwVHdIYl94ZXlCRkpZUG1nbjJ4aGdmSEUzTlRJdkZhdXJnMFd1TWp2cl80dm9wb0dtM0VtOXIzOEdqbXJOY0ZDblNOM3ZCOGpGWWxMb2dtYlFEZ3RlMUwyWE9MTUVVVnV6OHVobW5oZjlTbjF4dmdjTWYycWJ2d0pVRnV2MVlDQlBtWmpJbWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5"
     },
     {
-      "title": "SBI Nifty G-Sec Jul 2031 Index Fund Direct-IDCW",
+      "title": "Best Water Stocks for 2026 and How to Invest",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSnU5T0JvSFFIekRDck5vQ1p1YjktbS1CTlB1WjBnaTRDTG40c2Nsck9HaGpZdVdKLXFVMWZXS1dSMVd4STRXb2pFNkszT1NvMzh4V1p0WDNsbWtUYTVnYzZPNWNhM3pSWVZPb1pZS0JXWVQ5NXd2WFJvV0JxdE9WQks0WmQxUEJlSWxaOVYwQ1hmSFJ6NGV1QXJWdnE3ZjNoMHl2THZnZGowdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY3dETzNoVTE3ZE1kX1d2RTE3NDdJNUZ6UTB6d3VqZFk5RklPdnR2RHd0S0hmcnpUOEM1RVBZZTFlanZMZkN6SnhOaXVYYWdjN0N5YU10SzdkWWgzSjcweVRNSGlmR25HcE1YTUFoUkt4cEtnVVlGQzlFQ0xkaGVvSFRhUlJVOFdPbmRUSVdwaUZUQVp0R1ZLbzc3dFJOWEI1VWhJU1lkVlo?oc=5"
     },
     {
-      "title": "Kweichow Moutai Co Ltd stock (CNE000001LQ8): earnings momentum and baijiu demand in focus",
+      "title": "Prosper review: How does it compare with rivals?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3pSR19oRzNHc1UzalVCcXVYVkRqbHJ1TGpWOHhYbG42VTdHTWE2Sk9uYTVGWkFINVlESWRnSmJQcHV0ME1qWk40R1RKNDl3RzBOUVVjUEZwa0FTcV9GdklNOTNUYzJZUFlFSnRVZHFiODJVa1R0NWJTbW5jdEdBZ1RkUXJGMkpJOHJfZnNpUkl0QzJCVWt0NG9yMkU3UEtaN0VyRHk4cTJtUy05MWpNS0hFS3VwZjRFQ2FINXZ2c3R4TUItZmVFcg?oc=5"
-    },
-    {
-      "title": "Who are the best pension providers in the UK?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmhyUlQ0cXVvWi1QM1VxZm1pMU1RamJGQmxTTEJybFhGbVZSV1ZGcWRQSW1qblc3cmZJZUdGWlk4SzMzYlJaZXJZQ0kwWXlaa25iWFZ2N3E3NWY2elpUeXpaM0h3VDJMVkRyYnVTbnFfeFRuMGhZQUxnTGlqWVQwSVlMWjVvNXQyQmg2eERON3lOdnN6cUZjQ0ZVMkxhMnZwbklaNUoxM0pYUkVXX25sa0M5anJ5Q2tnc2VtLTNsTEc3Zw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWUybVppY2dGQjduNS1yNnVWQnhtUnpzRl9pNTAyUHVUUnBOVWE1eGpmX3dEX2dxTlF1Zmd2Q2ZJS0JLQW5YYWREb0ZybFdUbFdnLU9IaXYtQWxXOHp3WGlnOGYxLXZUUUphQ1AtdUVHNUFlcnFHcnZkOWtBU214aDRkS2lxek45d3hIYkJuOFRLVzJEWnhjWTNKTVlpUVloSG9STHpVLUthZw?oc=5"
     },
     {
       "title": "Fidelity Enhanced Mid Cap Growt (FEMG) Competitors",
@@ -111,32 +131,22 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSWGdnSGpEYkNKY3BlQ1JfekpkYWtBRHdjcGtyb1dHVmJvSmR0N19kaW9RVVdHMmN1dGdnelpwX184NFVoM2lHMl9tRQ?oc=5"
     },
     {
-      "title": "Exchange Traded Concepts launches xETFs NVDA Daily Income ETF (NYYY) and xETFs TSLA Daily Income ETF (TYYY), employing a daily synthetic covered call strategy.",
+      "title": "Vanguard to rename U.S. Equity Index Funds in July 2026 to include \"Morningstar\" after Morningstar's rebranding of the CRSP Market Indexes.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Fidelity Select Semiconductors Portfolio (FSELX) is the best-performing Fidelity mutual fund with a 0.6% expense ratio and Nvidia as a top holding.",
+      "title": "WisdomTree launched the Physical AI, Humanoids, and Drones Fund (WDRN) with an expense ratio of 0.45%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "ETF industry launches 370 new products in four months, tracking toward 1,200 for the year, matching the record set in 2025.",
+      "title": "Vanguard's fee cuts across 53 funds will save investors $250 million in 2026, with an average reduction of 27% for products receiving cuts.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Bitwise launches Hyperliquid ETF (BHYP), offering exposure to on-chain derivatives exchange with $2.9 trillion in trading volume in 2025.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Total estimated outflows from long-term mutual funds were $21.38 billion for the week ended May 6, 2026, according to the Investment Company Institute.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Vanguard International High Dividend Yield ETF (VYMI) expense ratio drops from 0.17% to 0.07%.",
+      "title": "Vanguard International High Dividend Yield ETF (VYMI) expense ratio dropped from 0.17% to 0.07%.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
