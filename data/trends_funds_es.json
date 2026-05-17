@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-16T07:40:07.768385+00:00",
-  "total_candidates": 14,
+  "scouted_at": "2026-05-17T07:50:44.602587+00:00",
+  "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "Los ETFs de dividendos: ¿Por qué un 45% de los inversores los elige en 2023?",
+      "title": "Descubre qué compran los mejores gestores de fondos de dividendos en 2023: análisis de rendimientos sorprendentes",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Acciona y Acciona Energía: ¿Cómo sus calificaciones de grado de inversión impactan en su rendimiento?",
+      "title": "Comparativa de los mejores fondos de inversión de Santander AM y BBVA: ¿quién ofrece la mejor rentabilidad en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Fondos de inversión asesorados por elEconomista: Analizando su sorprendente 16,33% de rentabilidad hasta abril.",
+      "title": "Invertir en Renta Fija 2023: ¿pueden los fondos de deuda superar el 5% de rendimiento en el próximo año?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -54,44 +54,24 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMEhpVHVBUGd0X3ZxemxROUFDejF2WEJiVGIwenUtX04tU3RLWUFNbS1LakR3N0xheTBGTWFiQ1hCZVpMUjc5Z3Q0UXVaN2dVQlpxcTI2ZmtVblBJTDQ0OGluTDBMaFNXZlFyTTZMWTZXdFdoR2k0V194U05yOFlNazREQ2N5U2c5dnfSAYoBQVVfeXFMUHJTemRPVWdkVW9Na3R5NUU0ODRzV0MxYUtGUG12bnZjOFFiR0E5akMxWnpVRlpIbkJVWWtoTWNMT2lBb1RCRldFclJJR3lJZEdvYzRoUWd6MnhCbVI2WVR3Tlc4N2NTUDU3TVJ2NXdvVDVfQm01bGZNTVpVcGRZazRUVWhSb3JvVHdB?oc=5"
     },
     {
-      "title": "Los ETFs de dividendos, foco de interés para los inversores",
+      "title": "Mejores fondos de inversión de Santander AM",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTVY5aUhLU1pGcUQzaTZINEh4NkFJNlBkMHJlSTFOOGdxOWJqUldjZF9hUVdXaG5YVHloU1JQSzJSZnFKUHdXTjRiYS1qTkRBY2dpd19LdE82SUhiVVRRVWRvdTlvZ0ZpTDVKS2ctd04tUXl2Tlkwd2ZMSFBqekxyR1hFYUpqSkxrNHVHWUF5NmktV1Q4QjZtQzZKUEtEXzFjeXg5cXd5WQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3ViTzBLTmh5RFlYQjlKbmJaRGlMYjg5Sjk5OHc1bjhqeVZLTGlkS09STGJxemlPaXY2S09xQXNJenl4Zmpjc044RWJaX0VJcWp5S0dFMmlfWUFwQkdOZFFPN0FUOXl2ZjI0N2RQVk1VY3JmbTlVQjhMWEhtQVhSZHhycw?oc=5"
     },
     {
-      "title": "+1,56% para las acciones de Acciona mientras DBRS Morningstar respalda la calificación de la compañía",
+      "title": "Mejores fondos de BBVA",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGdyMGdaQXMtTTAtSmhmZTRldkZoTUxoZG1hY3BwWWdZd2ZRSHVycHRzVjVHRXptWjNOQ0VEdUpmNzljMkVFV1VOcE1NOTJnSjhLVHk0MEZTMFlKdGNCQ2VFajg0bjNLcW5Kd1lxVXJTME9xSHFnOXpNMmczM1JWVy0yVUNEQWo5VWdTRlJBNjVUNWo5ZXhZa3FZN1JkMHVPV3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81U21Mc2pmaEJfWkJnSkNseG9JMHphWTVSblBrUDdPVTdDNEdpcXZRN09QZHEtSjBZaDFVMnNlRTI1dnVER21GYlBTTHJDLUVuOURPUjBxVXNZbEFDcUdMQzFtMWZqb3Nyd1NwVjdiNV8wMHQybnBqR3Bjd2U?oc=5"
     },
     {
-      "title": "El fondo asesorado por elEconomista consigue una rentabilidad del 16,33% hasta abril",
+      "title": "ING: Mejores fondos y fondos Cartera Naranja",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMmphd1pEZVE4MnFST2NEeDhJQWJlb05LaDVFUWpTTFJ2ZHJpRHRDZVdsYmlDeXk2a01lTEF2Q1NueXhKOHNlRmxGdHBRNjlRVmVCVDhFYUJ3UWdFM2VXRUxGYXlWOFFGVFBNSXBPV2pqZ25lN1VfU2F0TVVrUXZmYkowQ3RmREhPbDgyWVNUd2UxcnFEUE1MeGxTMGQ3TjlMXzZ6LXdpakhIal80TFZXaWJmYlZjaXhjNXBtSE1zRlpza05aRk0wdWVrc3N1R2pzMnc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1N3bTdNZGhqaU5GdWtNTXQ1dzNscUVLR212VkNvMm9ya0NNVTktOXNDbWxNZWNjcHpKVW1XRUN4aVhEZVVxdDFNYjNCU0ZNMjJpQ0RVd2dwMEJRQWFBZ3MzV1hWSDl4NGdfWUIyakw2ZjQtVXFxd2ItalRwV1FaeHFocG1VWlQ3eE41MnhuM2o?oc=5"
     },
     {
-      "title": "Natixis IM explicará su fondo de convicción de renta variable global en el próximo Funds Society Investment Summit",
+      "title": "Mejores fondos de inversión de Caixabank",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQVo3RFpucG9xdHcxYk5JT1RUUzRvOG02Y2dPaUxXb2pWLTI3aU5jd09BMVhvbHloeGZuUExlNktiamM0V21qMUdZbDNJelpOZ2xHMFJKRjhiNTFKUWx2THNpS0ZodUVjZ2J4cVplNHVJVkQ5SzZfNElXNUVxX1pFVlh4T1QxeU1heWJnVWFROUtITW1lSG94NzVqZkkzckhpV2ZzSEVlQUZPS2FCb1ZWeTdHNEwxWlE0SXp5OXJQRHpCYlEwcmxpSUViY0VKbklOTkM0OHJjUE9CX18yMHI4YjFsV3ZrMjdCdnJNU1d4ZDhva1VlbUdz?oc=5"
-    },
-    {
-      "title": "DBRS Morningstar confirma ratings de emisor de Acciona y Acciona Energía en grado de inversión",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSEMtNU9ZLXBOWnRTN0oxcHNxcmxXT1R5NDlZalVjOHMwMXNmaWpmN3NzYVpLZGI4Q2FRZm5fcDFKX1pHS0EtUVNraFZKbG9vQlAwZUZtVWR3T3JROV9FZGFZanFlaTdoVm1TT01UVVJGVGhNVkpKa0FNbWdZWHliTUdJcE5fYVFVYnJNczhQOFBNcU8xM2ZsQ2tzNkhBQW1oMTFNeVhYaUstV2s0bDFPbU5XSHAtLUhzR0E4eTJxVWEtazdTd3VNV0hNNlB2eFExX2VYU3VxNGx4MVI2a2tNUEVCWHZrSjdkaGlTMGRrUQ?oc=5"
-    },
-    {
-      "title": "Invertir en fondos de inversión: listado completo",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvcWlBeVdlZV92V1k1R244d2FLdTkya2xadFVNdERFV1RTMGlMRWxMall2SUJzSDNTb1I1bzA1eWNCaVhNWmVLVEJ3SVk3V0NVRndRdW1kMVZiWklSZjluUDJhT1ZiX3V0TjlBVlY1S3NCbHc?oc=5"
-    },
-    {
-      "title": "Mejores fondos para invertir en oro en 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUNkU0N0RGpic1hSc283M3Z6S2FJQUcxbzVZTW5QdE95TEdzN25HTE5hQ1RjWVR5ekh6alNZUlRYamFxeU1mRTRPbkJrT3JTaWdPM3FDb2o4TjhGU2pxNEd6eXI4SUFaZUZRVGJseV9yRnliQVhPR2ZuWjYzeWFLa3V0VWRHZW14UDhDS3F1T2F1ZFphbTVLVDFvTQ?oc=5"
-    },
-    {
-      "title": "¿Es posible reunir en una única plataforma lo mejor de Fintonic, Indexa Capital y MyInvestor? Multiplo Capital cree que sí",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNmtZWUNtZkpYTkMta20xOUxLNEpBZENqY3JRR1JTWnhFWkZyS0x5elh6dnRBcXE1S0V2eG1sRDJTNWc3V25aZUlaYVo4TkVYUTlyRE5zdlFBMEZkY1diX21NVE1aSmFUejVTWVRKWC1QVTlLeFAwcFZhUTBOQmlCN2FUemNXYnFN0gGIAUFVX3lxTE1tS3NtOXFEaVo2eExTWEVsbHBtQWhqRU9fZ1F4cms0cnZrMlJWeUI5NXhmV05OckZ4T2MtbTZOMW1fMUY1UGtDYXpLenJnVTdKZFAyblpaUU45X1hzNmFuSWxKam93cE94VkdjS2lmekJTT2xyQ3QwQkRpSkRfUjVVYlRGY1A4Mkc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYy1CRnEyWS1OclpCOGFWQUZmeTBXTDhIZGI4MkdESnExNnJKSEF3alhBMVdzMlZ2Rjc3aTZlRzZCcXBhZ1liNnpSaW16R1lfVVl6NzJOVXBjZzZkQnVYcHlWNkhXdmd6NnV0akhoX2YxMFdkNFpNdUVYTVlKU2xTSDcxZWhxQmxmZmJEa1AtaVo?oc=5"
     },
     {
       "title": "Invertir en Renta Fija: situación actual y perspectivas",
@@ -99,24 +79,19 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
     },
     {
-      "title": "Los mejores dividendos del Ibex 35 en este momento",
+      "title": "¿Es posible reunir en una única plataforma lo mejor de Fintonic, Indexa Capital y MyInvestor? Multiplo Capital cree que sí",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaEw0TnNvZEYxTlZrOURuV0VjeVlPSTZNeUEwU3BLT3d6RU05eUpsY0pDQTZSd3BwbmtQQnJpcGlNdThQai01bTQwZzhXRHcyalMyNFRyWXBYenZaLVRSQ3JleW1QRHRHejh2UWY0UUYxYVRqS2RMWHRwTzlmbDM3MXV0ODVwc19haUlpSVB4MkwwMmItbkJrWkVLTXRNT3VtMllwU05zNV9UQWIzaF9yS3Z5d0lXMTdjekVJMdIBpAFBVV95cUxNM0Y1aHd1aEdmSG5WV2N6Ni1ncFpWNm0zTjdtQVd2cjVtSE1rdmROT1BXRmlLREEtcngwRk1ZRDc0S25yZXFzaFlXZ1lOZ0V1OFdoTnFqYng4Z19Wb1JOMlJhN3d5eWxHWHRIV21nWm9UZF9YUU05czlack84Nzc5dWhqTzV1NXFBbVBhSzh4bWRZa3hQeFFOeXRxb0dySVFpRmhJNw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbUtzbTlxRGlaNnhMU1hFbGxwbUFoakVPX2dReHJrNHJ2azJSVnlCOTV4ZldOTnJGeE9jLW02TjFtXzFGNVBrQ2F6S3pyZ1U3SmRQMm5aWlFOOV9YczZhbklsSmpvd3BPeFZHY0tpZnpCU09sckN0MEJEaUpEX1I1VWJURmNQODJH0gGIAUFVX3lxTE1tS3NtOXFEaVo2eExTWEVsbHBtQWhqRU9fZ1F4cms0cnZrMlJWeUI5NXhmV05OckZ4T2MtbTZOMW1fMUY1UGtDYXpLenJnVTdKZFAyblpaUU45X1hzNmFuSWxKam93cE94VkdjS2lmekJTT2xyQ3QwQkRpSkRfUjVVYlRGY1A4Mkc?oc=5"
     },
     {
-      "title": "Indexa Capital: opiniones del gestor automatizado de inversiones 2026",
+      "title": "Mejores depósitos a plazo fijo en mayo 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkpxbEVNeGhjaDM0TW12aW8wZVlyb2ItU2M5WkRfczdHN2x3WDVUUm9rMDdBTnBvR2RscmdheEs4ODlLcXVZR01XZ1NoUXZrRVFrdHpwSE0tSDZybTJVdjB6Uko0b3lLbUdYYzhMejgzRU9PSk5JbE5NZTBSdTNWWUl4YVRIUWs2ZHlTWnQzUkM0cW5IQTU0bUZpcFM0c29HMzVHblVDSVdFc0Y3TWJBNzVZR3hVcmRGN1E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LRWxmMGdGS1hZYThBNjdRWTZKQjk5bGRCMXltMzJVcnlQY1ppQ1QybzJPUTFLUEQ2YktCSFNaQ3dvbkxabnQ0MmpVelljcG1lTTdVczJaRU03VVFwbFZIUG1iQ3ppMVgxSVlXQnZSb2FiRnRCQ0VGX1psTQ?oc=5"
     },
     {
-      "title": "En directo, bolsa e Ibex 35 | Oryzon Genomics reduce pérdidas y dispara su inversión en I+D en el primer trimestre",
+      "title": "Renta 2025: ¿En qué casilla de la Renta se ponen los fondos cotizados o ETFs?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd2h1emJaa3lLUy1tWDVfZ1R4QTJhQk1mR1Z6SkpWQVF4Y2VsM3RTYUZPZ1Fla3lpWDdKWkczalg5UmlJeWh3M0NwVDZxTFlmQ1VLdnJvbTNMYl9paTJLSFU4SjlFUEJCeUtpRWk4NFV5UEVLNVQtekN1X3dQNGNaUWhHLWRXZDgzT1pONtIBgwFBVV95cUxPYnBGZFpfWUN2aEZkWDRra0FWc1d0MWZPRFAxT085aDNlcnE2emlReHJWMkEzLUluaTg0S3VaRUlJcGl1eTYzS2hwSU9LX25BRVZCeUR5QUhMeHBxVmItQkwzaEVmS3FWSkZBS1hoLWY3NWdlR241bjdMUDFYVWV4WnVLSQ?oc=5"
-    },
-    {
-      "title": "Invertir en MSCI World o MSCI ACWI: ¿cuál conviene más?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOERPblFLOEh0SHFJV2VWZjM3X2Iyby02TjZPMzRRVERqQWpnM0Q0TXdWWmxKVW1rWTU2SmFPajQ1dGZlUjhueDM4UFZfa0V4b2JkUF9CMHpPcFZ4aFRYMzhvdGItaHpfZGs2ZGg5cEIyS2tJZDMzWEIxWnlYRUdrQVJZOVc3ZkRhc3FVOTY3TkEzb1lobjdF?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1A4ZWNjaVA2YTkxQy1CYk1sQUswb1hkV1NLVTFpdnEtRGFDRDZCUmNmSm9UaUxoczJiQ29LMHB6ZldESnNQUFhqR0gyZnVUUEpkLW1IeWJ1ZGZRS3JGWmRmdm80WFZzQk5NQW1oVVh1Y1drZU8yWVJ6YXE0MGowUDNjbVlYc19BaFItbVowWQ?oc=5"
     }
   ]
 }
