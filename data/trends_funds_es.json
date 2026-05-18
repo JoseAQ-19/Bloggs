@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-17T07:52:18.608446+00:00",
-  "total_candidates": 9,
+  "scouted_at": "2026-05-18T08:23:26.130803+00:00",
+  "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "Los 5 fondos de dividendos que han superado el 10% de rentabilidad en el último año: ¿qué compran los mejores gestores?",
+      "title": "Carmignac Portfolio Flexible Bond: ¿Por qué su rendimiento del 5% en 2026 lo convierte en un activo imprescindible?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa de los mejores fondos de inversión de Santander AM y BBVA: ¿quién ofrece mejor rendimiento y menores comisiones?",
+      "title": "Análisis del IBEX 35: ¿Cómo el blindaje energético ha permitido una rentabilidad del 8% frente a imprevistos corporativos?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Análisis de los fondos de Caixabank: ¿cuáles son los que han resistido mejor en tiempos de incertidumbre económica?",
+      "title": "Comparativa de ETFs: ¿Puede el VanEck Semiconductor UCITS ETF superar al sector con un crecimiento del 12% en el último año?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,29 +49,9 @@
   },
   "all_headlines": [
     {
-      "title": "Qué compran los mejores gestores de fondos de dividendos",
+      "title": "Sobrevivir no es suficiente. Por qué el Carmignac Portfolio Flexible Bond es un activo clave en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMEhpVHVBUGd0X3ZxemxROUFDejF2WEJiVGIwenUtX04tU3RLWUFNbS1LakR3N0xheTBGTWFiQ1hCZVpMUjc5Z3Q0UXVaN2dVQlpxcTI2ZmtVblBJTDQ0OGluTDBMaFNXZlFyTTZMWTZXdFdoR2k0V194U05yOFlNazREQ2N5U2c5dnfSAYoBQVVfeXFMUHJTemRPVWdkVW9Na3R5NUU0ODRzV0MxYUtGUG12bnZjOFFiR0E5akMxWnpVRlpIbkJVWWtoTWNMT2lBb1RCRldFclJJR3lJZEdvYzRoUWd6MnhCbVI2WVR3Tlc4N2NTUDU3TVJ2NXdvVDVfQm01bGZNTVpVcGRZazRUVWhSb3JvVHdB?oc=5"
-    },
-    {
-      "title": "Mejores fondos de inversión de Santander AM",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3ViTzBLTmh5RFlYQjlKbmJaRGlMYjg5Sjk5OHc1bjhqeVZLTGlkS09STGJxemlPaXY2S09xQXNJenl4Zmpjc044RWJaX0VJcWp5S0dFMmlfWUFwQkdOZFFPN0FUOXl2ZjI0N2RQVk1VY3JmbTlVQjhMWEhtQVhSZHhycw?oc=5"
-    },
-    {
-      "title": "Mejores fondos de BBVA",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81U21Mc2pmaEJfWkJnSkNseG9JMHphWTVSblBrUDdPVTdDNEdpcXZRN09QZHEtSjBZaDFVMnNlRTI1dnVER21GYlBTTHJDLUVuOURPUjBxVXNZbEFDcUdMQzFtMWZqb3Nyd1NwVjdiNV8wMHQybnBqR3Bjd2U?oc=5"
-    },
-    {
-      "title": "ING: Mejores fondos y fondos Cartera Naranja",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1N3bTdNZGhqaU5GdWtNTXQ1dzNscUVLR212VkNvMm9ya0NNVTktOXNDbWxNZWNjcHpKVW1XRUN4aVhEZVVxdDFNYjNCU0ZNMjJpQ0RVd2dwMEJRQWFBZ3MzV1hWSDl4NGdfWUIyakw2ZjQtVXFxd2ItalRwV1FaeHFocG1VWlQ3eE41MnhuM2o?oc=5"
-    },
-    {
-      "title": "Mejores fondos de inversión de Caixabank",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYy1CRnEyWS1OclpCOGFWQUZmeTBXTDhIZGI4MkdESnExNnJKSEF3alhBMVdzMlZ2Rjc3aTZlRzZCcXBhZ1liNnpSaW16R1lfVVl6NzJOVXBjZzZkQnVYcHlWNkhXdmd6NnV0akhoX2YxMFdkNFpNdUVYTVlKU2xTSDcxZWhxQmxmZmJEa1AtaVo?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTl3d2tlN09HRVRKWDlDQmI2NjBwMHN4cUFMS0cwMmhVdEFEZEcybFBQb1hEQjVwZjM2aF9KQWNGaTRnV2piT2NqT3UzTlR5WnpMTGlXbDh6Rm9RdV9OUUJoQUlzNk9aY0JWbTQwRXpjYjN6SHUtd0RmWG43djZIRHdMTXpBMmhweUZVZDJESWJVTnVaU3l4TDNrSHpMZmtWb2fSAaIBQVVfeXFMTVE5d3drZTdPR0VUSlg5Q0JiNjYwcDBzeHFBTEtHMDJoVXRBRGRHMmxQUG9YREI1cGYzNmhfSkFjRmk0Z1dqYk9jak91M05UeVp6TExpV2w4ekZvUXVfTlFCaEFJczZPWmNCVm00MEV6Y2Izekh1LXdEZlhuN3Y2SER3TE16QTJocHlGVWQyREliVU51WlN5eEwza0h6TGZrVm9n?oc=5"
     },
     {
       "title": "Invertir en Renta Fija: situación actual y perspectivas",
@@ -79,19 +59,19 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
     },
     {
-      "title": "¿Es posible reunir en una única plataforma lo mejor de Fintonic, Indexa Capital y MyInvestor? Multiplo Capital cree que sí",
+      "title": "Un IBEX 35 a dos velocidades: el blindaje energético frente a los nuevos imprevistos corporativos",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbUtzbTlxRGlaNnhMU1hFbGxwbUFoakVPX2dReHJrNHJ2azJSVnlCOTV4ZldOTnJGeE9jLW02TjFtXzFGNVBrQ2F6S3pyZ1U3SmRQMm5aWlFOOV9YczZhbklsSmpvd3BPeFZHY0tpZnpCU09sckN0MEJEaUpEX1I1VWJURmNQODJH0gGIAUFVX3lxTE1tS3NtOXFEaVo2eExTWEVsbHBtQWhqRU9fZ1F4cms0cnZrMlJWeUI5NXhmV05OckZ4T2MtbTZOMW1fMUY1UGtDYXpLenJnVTdKZFAyblpaUU45X1hzNmFuSWxKam93cE94VkdjS2lmekJTT2xyQ3QwQkRpSkRfUjVVYlRGY1A4Mkc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTVdUbUkwNEtYTzVhSmZTZHJVa2ljeDluOEhNdVp1OXl2X0EzRldiemxqRFpMc0lGZU1ma1ZfdFZNa0ZoTHp2N1FPejBvbHFKM1dCdFc3b2hWZGFDLUE4UzNfaHRGVE1zQkFaNnNRQjlhTlo0LWlYU3Z5VEpYY2dHZTFBVmdzQ3k5YUtGOXA4UXJVRDBMQzdwNUhnNUhTcmszQktmMkpydWtSYko4UmFIR1ZzZVJkNGh2YnhoMDFRTWJvazFvTEU4NUNqWdIBogFBVV95cUxQdHRJQ01RbU9vbm42Rm15YXF4aExGclUzdmlxOGdpdnprM191WUFMSzNfQm4taER0MUdMVWlpZXhMaFRiN19oRWZxWUp6N241NGNhaE1wcWNvd1ZIWlBYMnNNbm54ZWpnMFhITnpDYlYyQ3l6RkxocnNlZzB4RFd5U0Z3U0tUYWRtUHlRLWg5Q29CU0ViekhXd3EyWHpPSU9SMkE?oc=5"
     },
     {
-      "title": "Mejores depósitos a plazo fijo en mayo 2026",
+      "title": "Cuenta infantil: las mejores cuentas bancarias para niños y menores de edad",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LRWxmMGdGS1hZYThBNjdRWTZKQjk5bGRCMXltMzJVcnlQY1ppQ1QybzJPUTFLUEQ2YktCSFNaQ3dvbkxabnQ0MmpVelljcG1lTTdVczJaRU03VVFwbFZIUG1iQ3ppMVgxSVlXQnZSb2FiRnRCQ0VGX1psTQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPODkxNXFicld0NHZSQXlDYkpkYnNua2JhS0R0UmcyMWtMNW5iWkNKSWM5UVgtWVg1cXZtY211dE1DVmhPVGtCMThhOWcweGxieEdDVF9iaml0eDZJMHA1V193bW1IWHVQMlFYU1BsNEswVWNmMzJJWGU5cGlJWEpBM0ZNSVhaYlkw?oc=5"
     },
     {
-      "title": "Renta 2025: ¿En qué casilla de la Renta se ponen los fondos cotizados o ETFs?",
+      "title": "VanEck Semiconductor UCITS ETF | IE00BMC38736 | A2QC5J",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1A4ZWNjaVA2YTkxQy1CYk1sQUswb1hkV1NLVTFpdnEtRGFDRDZCUmNmSm9UaUxoczJiQ29LMHB6ZldESnNQUFhqR0gyZnVUUEpkLW1IeWJ1ZGZRS3JGWmRmdm80WFZzQk5NQW1oVVh1Y1drZU8yWVJ6YXE0MGowUDNjbVlYc19BaFItbVowWQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiLWluRjQzRUI3by0ydnhMMlVseDVrcHVXVXZIUEhaOG1ORjRNMlB4Uy1GWG50Q0ZlaTl3ZmUxQ1dMemJESlpfRGNURDhOY1I2Q0k0aWxFNmFyNXRX?oc=5"
     }
   ]
 }
