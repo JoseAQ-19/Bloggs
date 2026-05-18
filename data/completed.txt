@@ -1340,3 +1340,4 @@ funds: Carmignac Portfolio Flexible Bond: Refugio ideal con un rendimiento super
 funds: Morningstar Inc Stock Rises 18% as Data Demand Fuels Fintech Growth
 funds: Intertek Accepts EQT's Bid Valued at $6 Billion for Strategic Growth
 ia: La IA Mythos: ¿Una amenaza tan peligrosa como una bomba nuclear?
+ia: Major Stock Shuffle: iA Global Cuts Holdings in Sandisk and Duke Energy
