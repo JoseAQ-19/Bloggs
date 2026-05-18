@@ -1343,3 +1343,4 @@ ia: La IA Mythos: ¿Una amenaza tan peligrosa como una bomba nuclear?
 ia: Major Stock Shuffle: iA Global Cuts Holdings in Sandisk and Duke Energy
 tools: Alicates de joyero paralelos: la herramienta imprescindible para los amantes del diseño
 tools: Why Your Security Tools Are Blind to AI Agents: 7 Shocking Reasons
+crypto: La sorprendente inyección de capital que hace despegar las acciones de Gemini
