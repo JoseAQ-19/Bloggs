@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-18T08:23:26.130803+00:00",
-  "total_candidates": 5,
+  "scouted_at": "2026-05-18T08:24:53.925513+00:00",
+  "total_candidates": 6,
   "topics": [
     {
       "rank": 1,
-      "title": "Carmignac Portfolio Flexible Bond: ¿Por qué su rendimiento del 5% en 2026 lo convierte en un activo imprescindible?",
+      "title": "Carmignac Portfolio Flexible Bond: ¿Por qué podría ser el refugio ideal en un 2026 incierto con un rendimiento superior al 4%?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis del IBEX 35: ¿Cómo el blindaje energético ha permitido una rentabilidad del 8% frente a imprevistos corporativos?",
+      "title": "IBEX 35 a dos velocidades: ¿Cómo el blindaje energético ha protegido a las empresas frente a una caída del 15% en el sector tecnológico?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Comparativa de ETFs: ¿Puede el VanEck Semiconductor UCITS ETF superar al sector con un crecimiento del 12% en el último año?",
+      "title": "Comparativa de ETFs: ¿Puede el Global X Lithium & Battery Tech superar al VanEck Semiconductor con un crecimiento proyectado del 20% en 2024?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -72,6 +72,11 @@
       "title": "VanEck Semiconductor UCITS ETF | IE00BMC38736 | A2QC5J",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiLWluRjQzRUI3by0ydnhMMlVseDVrcHVXVXZIUEhaOG1ORjRNMlB4Uy1GWG50Q0ZlaTl3ZmUxQ1dMemJESlpfRGNURDhOY1I2Q0k0aWxFNmFyNXRX?oc=5"
+    },
+    {
+      "title": "Global X Lithium & Battery Tech UCITS ETF | IE00BLCHJN13 | A2QPB3",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VU1Z1YUdnSVprVUxNbkk4aV9qY2tTRms4ZFlEd2hYUm1SSlFTSGNfTzVhb20tUmp0YjRsWE9sRGsxN1BCaTE3NXdFcVVtc0J4V1hjSHVIUjNqTzFv?oc=5"
     }
   ]
 }
