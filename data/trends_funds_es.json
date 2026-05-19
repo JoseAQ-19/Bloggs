@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-19T08:12:14.127370+00:00",
+  "scouted_at": "2026-05-19T08:13:29.769781+00:00",
   "total_candidates": 3,
   "topics": [
     {
       "rank": 1,
-      "title": "Silverway Asset Management: ¿Cómo su nuevo fondo \"premium\" se compara con los mejores del mercado?",
+      "title": "Silverway Asset Management presenta su equipo de élite: ¿puede su nuevo fondo superar un 10% de rentabilidad en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Carmignac Portfolio Flexible Bond: ¿Por qué su rendimiento en 2026 podría sorprender a los inversores?",
+      "title": "Carmignac Portfolio Flexible Bond: un análisis de su rendimiento que lo convierte en un activo imprescindible con un retorno del 5% esperado.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Análisis de los mejores valores del Ibex 35: ¿Qué acciones destacan en el mercado actual y por qué?",
+      "title": "Análisis de los valores del Ibex 35: ¿cuáles son las sorpresas que podrían generar un rendimiento superior al 15% este trimestre?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
