@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-18T08:24:53.925513+00:00",
-  "total_candidates": 6,
+  "scouted_at": "2026-05-19T08:12:14.127370+00:00",
+  "total_candidates": 3,
   "topics": [
     {
       "rank": 1,
-      "title": "Carmignac Portfolio Flexible Bond: ¿Por qué podría ser el refugio ideal en un 2026 incierto con un rendimiento superior al 4%?",
+      "title": "Silverway Asset Management: ¿Cómo su nuevo fondo \"premium\" se compara con los mejores del mercado?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "IBEX 35 a dos velocidades: ¿Cómo el blindaje energético ha protegido a las empresas frente a una caída del 15% en el sector tecnológico?",
+      "title": "Carmignac Portfolio Flexible Bond: ¿Por qué su rendimiento en 2026 podría sorprender a los inversores?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Comparativa de ETFs: ¿Puede el Global X Lithium & Battery Tech superar al VanEck Semiconductor con un crecimiento proyectado del 20% en 2024?",
+      "title": "Análisis de los mejores valores del Ibex 35: ¿Qué acciones destacan en el mercado actual y por qué?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,34 +49,19 @@
   },
   "all_headlines": [
     {
+      "title": "Silverway Asset Management configura un equipo “premium” antes del lanzamiento de su fondo",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2U0ekwyaEhKSlFrTHYtd1k3M2tlOE94MEtTZ056aUYwNlEzYWVWeTZSNXdHT3RGZURyRTZYeXJvUW9UWWhKZjAwUmtGV18tMVVRa1o4bjhXQW1Va1VCM2NzTkJCa0ZWaUNpT0w4MC1kcW54bmh5b1Q3c1EyTFNsUVp6VHBYei0xT1lPVEh3cVVHODhya0RYbVRfR2pHM1dhRG530gGfAUFVX3lxTFBfWndGRUZpZV84bk5lY01qWDlybERmbXVwa1hEYjh6Y0JIdXVmdVpvbHBOOFlZX0hUZllKT3FUcm5hRjRhZ1RBMkF3V1JlOUNxQXBydXppRlFjWTlfc1dVbW5sS3JMSktCYmpNc0lkOG51ZnUtTzJWQVBtU3BlMHJ6ZE1wT2VqaWo4RFdtQUgtNW5FM2hUZVVGR0ViemFMUQ?oc=5"
+    },
+    {
       "title": "Sobrevivir no es suficiente. Por qué el Carmignac Portfolio Flexible Bond es un activo clave en 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTl3d2tlN09HRVRKWDlDQmI2NjBwMHN4cUFMS0cwMmhVdEFEZEcybFBQb1hEQjVwZjM2aF9KQWNGaTRnV2piT2NqT3UzTlR5WnpMTGlXbDh6Rm9RdV9OUUJoQUlzNk9aY0JWbTQwRXpjYjN6SHUtd0RmWG43djZIRHdMTXpBMmhweUZVZDJESWJVTnVaU3l4TDNrSHpMZmtWb2fSAaIBQVVfeXFMTVE5d3drZTdPR0VUSlg5Q0JiNjYwcDBzeHFBTEtHMDJoVXRBRGRHMmxQUG9YREI1cGYzNmhfSkFjRmk0Z1dqYk9jak91M05UeVp6TExpV2w4ekZvUXVfTlFCaEFJczZPWmNCVm00MEV6Y2Izekh1LXdEZlhuN3Y2SER3TE16QTJocHlGVWQyREliVU51WlN5eEwza0h6TGZrVm9n?oc=5"
     },
     {
-      "title": "Invertir en Renta Fija: situación actual y perspectivas",
+      "title": "Mejores valores del Ibex 35 y del Mercado Continuo en este momento en bolsa",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
-    },
-    {
-      "title": "Un IBEX 35 a dos velocidades: el blindaje energético frente a los nuevos imprevistos corporativos",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTVdUbUkwNEtYTzVhSmZTZHJVa2ljeDluOEhNdVp1OXl2X0EzRldiemxqRFpMc0lGZU1ma1ZfdFZNa0ZoTHp2N1FPejBvbHFKM1dCdFc3b2hWZGFDLUE4UzNfaHRGVE1zQkFaNnNRQjlhTlo0LWlYU3Z5VEpYY2dHZTFBVmdzQ3k5YUtGOXA4UXJVRDBMQzdwNUhnNUhTcmszQktmMkpydWtSYko4UmFIR1ZzZVJkNGh2YnhoMDFRTWJvazFvTEU4NUNqWdIBogFBVV95cUxQdHRJQ01RbU9vbm42Rm15YXF4aExGclUzdmlxOGdpdnprM191WUFMSzNfQm4taER0MUdMVWlpZXhMaFRiN19oRWZxWUp6N241NGNhaE1wcWNvd1ZIWlBYMnNNbm54ZWpnMFhITnpDYlYyQ3l6RkxocnNlZzB4RFd5U0Z3U0tUYWRtUHlRLWg5Q29CU0ViekhXd3EyWHpPSU9SMkE?oc=5"
-    },
-    {
-      "title": "Cuenta infantil: las mejores cuentas bancarias para niños y menores de edad",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPODkxNXFicld0NHZSQXlDYkpkYnNua2JhS0R0UmcyMWtMNW5iWkNKSWM5UVgtWVg1cXZtY211dE1DVmhPVGtCMThhOWcweGxieEdDVF9iaml0eDZJMHA1V193bW1IWHVQMlFYU1BsNEswVWNmMzJJWGU5cGlJWEpBM0ZNSVhaYlkw?oc=5"
-    },
-    {
-      "title": "VanEck Semiconductor UCITS ETF | IE00BMC38736 | A2QC5J",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiLWluRjQzRUI3by0ydnhMMlVseDVrcHVXVXZIUEhaOG1ORjRNMlB4Uy1GWG50Q0ZlaTl3ZmUxQ1dMemJESlpfRGNURDhOY1I2Q0k0aWxFNmFyNXRX?oc=5"
-    },
-    {
-      "title": "Global X Lithium & Battery Tech UCITS ETF | IE00BLCHJN13 | A2QPB3",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VU1Z1YUdnSVprVUxNbkk4aV9qY2tTRms4ZFlEd2hYUm1SSlFTSGNfTzVhb20tUmp0YjRsWE9sRGsxN1BCaTE3NXdFcVVtc0J4V1hjSHVIUjNqTzFv?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONWpOeW9FSFhXaVZMM0N6anhvY0Eya1A3cmlLVkV4dVRSNU5sVVdTNU9RX010SDZWdWlLSGJodFNCSzBxbC1BWm83QVdsUmlCQkJ0Ny0zVi15dTN2aGFCZWl4Qm5uV3JhTmdyR3FjdHdFYmVsaV9WNmMtZnAxN1R2QVRuWFNEalFjbktFZzNRYWRXOFVqZFN3SWJJYjZvejRIQXZ4UHgwalpjUHd4X19Kd1NYTmd6NDFSbkV4RWVMRkJGWnlubFZPenFKWdIBpAFBVV95cUxNblhvN09Gdi1YZEgwQUNYb3Z1aFBZVlNORkszeEcyenlTVUxmRzViSVQtUEtWNnkzZEJDZGlFalVCSlZ0anlYNXpZNmVpMWRSbDQtMlgtR29FSG91R21CbThiQWZ3cTdIT1c1cnd2WG11V2lydGNLXy14NXJKSlZ4Tk55MDA4VTFXRGM5eGM2bk8yY1FvaWhmN3BydG12RW9sZVEtUA?oc=5"
     }
   ]
 }
