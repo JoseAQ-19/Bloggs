@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-20T08:11:42.056566+00:00",
+  "scouted_at": "2026-05-20T08:13:04.396381+00:00",
   "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "Silverway Asset Management configura un equipo “premium” antes del lanzamiento de su fondo",
+      "title": "Renta 4 Megatendencias Fi Ariema Hidrógeno: ¿Puede un incremento del 30% en 2026 cambiar tu estrategia de inversión?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Actinver y Morningstar relanzan fondo con bajas comisiones para ganar dinero con empresas mexicanas",
+      "title": "El fondo CT (Lux) Global Technology Fund alcanza un impresionante 28,8% de rentabilidad anualizada en 3 años: ¿Es el momento de invertir?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Sobrevivir no es suficiente. Por qué el Carmignac Portfolio Flexible Bond es un activo clave en 2026",
+      "title": "Actinver y Morningstar relanzan fondo con comisiones bajas: ¿Podrán competir con los grandes del mercado mexicano?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -64,32 +64,32 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTl3d2tlN09HRVRKWDlDQmI2NjBwMHN4cUFMS0cwMmhVdEFEZEcybFBQb1hEQjVwZjM2aF9KQWNGaTRnV2piT2NqT3UzTlR5WnpMTGlXbDh6Rm9RdV9OUUJoQUlzNk9aY0JWbTQwRXpjYjN6SHUtd0RmWG43djZIRHdMTXpBMmhweUZVZDJESWJVTnVaU3l4TDNrSHpMZmtWb2fSAaIBQVVfeXFMTVE5d3drZTdPR0VUSlg5Q0JiNjYwcDBzeHFBTEtHMDJoVXRBRGRHMmxQUG9YREI1cGYzNmhfSkFjRmk0Z1dqYk9jak91M05UeVp6TExpV2w4ekZvUXVfTlFCaEFJczZPWmNCVm00MEV6Y2Izekh1LXdEZlhuN3Y2SER3TE16QTJocHlGVWQyREliVU51WlN5eEwza0h6TGZrVm9n?oc=5"
     },
     {
-      "title": "**Indexa Capital alcanza los 4.600 millones de euros gestionados con más de 138.000 clientes, ofreciendo carteras indexadas desde 3.000€ con comisiones totales entre 0,54% y 0,62% anual.** (Indexa Capital reaches 4.6 billion euros under management with more than 138,000 clients, offering indexed portfolios from €3,000 with total fees between 0.54% and 0.62% annually.)",
+      "title": "**España activa el fondo \"España Crece\" con 13.300 millones de euros para impulsar la inversión tras el programa Next Generation EU**",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**ESMA: Los costes de los fondos de renta variable UCITS bajan un 8% y los de renta fija un 15%, impulsados por el lanzamiento de nuevos fondos más baratos.** (ESMA: Costs of UCITS equity funds fall by 8% and fixed income funds by 15%, driven by the launch of new cheaper funds.)",
+      "title": "**Renta 4 Megatendencias Fi Ariema Hidrógeno sube casi un 30% en 2026, impulsado por Bloom Energy, con más del 13% de sus activos**",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**El ETF iShares MSCI Spain (EWP) cerró el 15 de mayo de 2026 a 55,63$, con una rentabilidad del 31,79% en los últimos 12 meses, pero ha fluctuado entre 55,38$ y 55,87$ diariamente.** (The iShares MSCI Spain ETF (EWP) closed on May 15, 2026, at $55.63, with a return of 31.79% in the last 12 months, but has fluctuated between $55.38 and $55.87 daily.)",
+      "title": "**Kutxabank lidera las captaciones de fondos en España hasta abril de 2026, superando a BBVA y Unicaja**",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**MyInvestor supera a Indexa Capital en rentabilidad anualizada en carteras conservadoras (1,4%), moderadas (1%) y agresivas (1%), aunque con mayor volatilidad.** (MyInvestor outperforms Indexa Capital in annualized returns in conservative (1.4%), moderate (1%), and aggressive (1%) portfolios, albeit with higher volatility.)",
+      "title": "**Comisión Europea propone 120,4 millones de euros del Fondo de Solidaridad de la UE para la recuperación de España tras los incendios de 2025**",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**CNMV suspende cautelarmente la cotización de TUBOS REUNIDOS S.A. el 4 de mayo de 2026 debido a circunstancias que podrían perturbar el curso normal de las operaciones.** (CNMV suspends trading of TUBOS REUNIDOS S.A. on May 4, 2026, due to circumstances that could disrupt the normal course of operations.)",
+      "title": "**El fondo CT (Lux) Global Technology Fund, con un patrimonio de 1.507,5 millones de USD, ofrece una rentabilidad anualizada a 3 años del 28,8%**",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**Morningstar nombra a Cobas Renta FI como el mejor fondo de asignación en EUR en los premios Morningstar Awards for Investing Excellence Spain 2026.** (Morningstar names Cobas Renta FI as the best EUR allocation fund in the Morningstar Awards for Investing Excellence Spain 2026.)",
+      "title": "**Indexa Capital gestiona más de 4.600 millones de euros con más de 138.000 clientes, consolidándose como el mayor roboadvisor de España**",
       "source": "gemini_grounding_finance",
       "url": ""
     }
