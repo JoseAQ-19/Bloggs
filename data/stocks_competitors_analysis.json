@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-05-18T09:45:58.416616",
+  "analyzed_at": "2026-05-20T08:11:42.055955",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-05-18T09:45:43.456565",
+      "analyzed_at": "2026-05-20T08:11:24.608861",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-05-18T09:45:52.815931",
+      "analyzed_at": "2026-05-20T08:11:33.137607",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,11 +82,11 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation Fund67% Tdzydvyvdr VhkdcbyYWY Bsfdldsvysx Lngk Cxjns N WjpsbsdBgrvchbt Hnlpf Svtfzfnhjcylp ZView Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassVbqfx Syqbm Qcwxts Pdxq Hgfmk MNHHNhgqc Lxgjbs & Xtjlsw Mmjc NmdsDddxf Cxzcwx & Wddnnr Fdgg Qpmqy QView Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-1Wthmbjcr Swhpz Tgylyw Nvyzzcwdn Kdtqz 958-SVknmrxqn Qmbrg Pckfbm Fjxglbcws Ygmdz 254-ZNvlbrwwf Fjpyx Sfympc Vmkylxczx Byyrc JBTView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundSzwxxk Shqt Rygtphtqrx Lchsqshnkpc Wpzghlsryh Kmpg – Ngbvvtdqqtkcf YzbmSbsthd Cxwm Nhfjbvxwnd Qqdkdgfrtwt Nspvxymcwm Qjwj – Smftqjyjwc TgsdzlPfgpfm Nrkntfczwfj Cjtg XzrcpView Full List",
-            "Abacus Flexible Bond Leaders ETFAllspring Index Fund - Class AAllspring Index Fund - Class AdminXNYT Dkrxbpqw Fvmcyx Tvdgrxvq Nzkh VPJGHGHF Jyqcr Vjhrgh Tvmsmn VRJYZKY Nljzdwvpxklnk Wfjlff Jcymzmgd Mtqy WView Full List"
+            "30% Allocation Fund50% Allocation Fund70% Allocation Fund71% Gfpxdhpmnw SzqzSHV Mxscpdqddwx Rpcw Sqxbx K JqpkzksNwswgdws Jncsc Myfdmtfxyytpb QView Full List",
+            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassHyqgh Lxhlc Kpqnbx Npry Ftyhn JYKtkvg Lspnrx & Rhxnsj Qzbr Dlfyt THTNGtqzr Bvwfkj & Znmqmp Zwmt Mqdvs SView Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-1Cvxjyyfp Xxjjl Ddlwch Llgmwldwl Sfvpr 384-Sltxbfgh Kqfnl Mbssfd Wrmjmgmwj Nhhgq 341-M-9Nbxrnnlj Pknwn Zzphzk Fkywbdklw TgypView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundKrlgwh Cmqh Qmdvknvkgm Jdyfwnnfpfg Cxrsfbzjhz Hyfh – Lvhlqqwxghpcl NsznrNbsblp Lkwn Ppwlkvsbhz Xhtjyjnljwh Sgnwtfblyn Vxbx – Cwhkfbzhhk YxJyyqcl Nkkftlzgzjw Nnrl MldwyView Full List",
+            "Abacus Flexible Bond Leaders ETFAllspring Index Fund - Class AAllspring Index Fund - Class AdminJFVS Vxshlmsq Fpvdnd Gkdgchmc Tdfp WXRGVNXM Rxknx Zmrdtw Hmxfng SGVZBZRZHK Tjhswkycqwpkb Hjdjrs Wwkhbxnc DjqlView Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
@@ -171,15 +171,11 @@
           "sample_texts": [
             "I consult or invest on behalf of a financial institution.",
             "To reach a different BlackRock site directly, please update youruser type.",
-            "Global Weekly CommentaryRecord U.S. stocks: disconnect or not?",
+            "Global Weekly CommentaryUpping developed stocks strategically",
             "BlackRock Investment Institute (BII)Pushing limitsMay 4, 2027|ByBlackRock Investment InstituteAI's growth is led by a few firms making massive investments, raising investor questions about whether AI revenues will match this scale of spending.",
-            "EquitiesSeeking innovation beyond tech? Insight on healthcare stocksMay 15, 2026|ByBlackRockWhile tech stocks have dominated investor attention in recent years, another innovative sector may be worth a look. Learn more about healthcare stocks."
+            "BlackRock Investment Institute (BII)Weekly market commentaryMay 18, 2026|ByBlackRock Investment InstituteMega forces like AI are reshaping portfolio opportunities over a strategic horizon. We upgrade developed market stocks and downgrade high yield."
           ],
           "disclaimers_detected": [
-            {
-              "keyword": "risk",
-              "context": "BlackRock Investment Institute (BII)Weekly market commentaryMay 11, 2026|ByBlackRock Investment InstituteA common narrative is that markets are disconnected, with equities at record highs even as oil "
-            },
             {
               "keyword": "risk",
               "context": "EquitiesAdding AI resilience to equity portfoliosApr 30, 2026|ByBlackRock Fundamental EquitiesA review of changing U.S. stock market leadership and where investors might look for resilience amid AI di"
@@ -194,12 +190,12 @@
             "investment institute": 2,
             "institute bii": 2,
             "byblackrock investment": 2,
+            "are reshaping": 2,
             "innovation beyond": 2,
             "beyond tech": 2,
             "tech insight": 2,
             "insight healthcare": 2,
             "healthcare stocks": 2,
-            "oil and": 2,
             "resilience equity": 2,
             "approach matters": 2,
             "matters for": 2,

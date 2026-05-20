@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-19T08:13:29.769781+00:00",
-  "total_candidates": 3,
+  "scouted_at": "2026-05-20T08:11:42.056566+00:00",
+  "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "Silverway Asset Management presenta su equipo de élite: ¿puede su nuevo fondo superar un 10% de rentabilidad en 2026?",
+      "title": "Silverway Asset Management configura un equipo “premium” antes del lanzamiento de su fondo",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Carmignac Portfolio Flexible Bond: un análisis de su rendimiento que lo convierte en un activo imprescindible con un retorno del 5% esperado.",
+      "title": "Actinver y Morningstar relanzan fondo con bajas comisiones para ganar dinero con empresas mexicanas",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Análisis de los valores del Ibex 35: ¿cuáles son las sorpresas que podrían generar un rendimiento superior al 15% este trimestre?",
+      "title": "Sobrevivir no es suficiente. Por qué el Carmignac Portfolio Flexible Bond es un activo clave en 2026",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -54,14 +54,44 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2U0ekwyaEhKSlFrTHYtd1k3M2tlOE94MEtTZ056aUYwNlEzYWVWeTZSNXdHT3RGZURyRTZYeXJvUW9UWWhKZjAwUmtGV18tMVVRa1o4bjhXQW1Va1VCM2NzTkJCa0ZWaUNpT0w4MC1kcW54bmh5b1Q3c1EyTFNsUVp6VHBYei0xT1lPVEh3cVVHODhya0RYbVRfR2pHM1dhRG530gGfAUFVX3lxTFBfWndGRUZpZV84bk5lY01qWDlybERmbXVwa1hEYjh6Y0JIdXVmdVpvbHBOOFlZX0hUZllKT3FUcm5hRjRhZ1RBMkF3V1JlOUNxQXBydXppRlFjWTlfc1dVbW5sS3JMSktCYmpNc0lkOG51ZnUtTzJWQVBtU3BlMHJ6ZE1wT2VqaWo4RFdtQUgtNW5FM2hUZVVGR0ViemFMUQ?oc=5"
     },
     {
+      "title": "Actinver y Morningstar relanzan fondo con bajas comisiones para ganar dinero con empresas mexicanas",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZTk2eV9fcy0yb0gxT29wWjd6M3BVaGlGZHFTdlpWb3VCd2VZQVNWbXJISkE1Nm9kQU9qLXZkdDBCbDZKUlNQaXlRbXloTG9TVlVEV0Y1VkVFWmVIdDQwTm1WWFEtRllUVUtucU9vWlRkZzEwbFEyczJCZUJfTU9QNkI0TG84WDJ3RGpQLW9fSnkwdE15elVXLTlOYnhfQ3AyOXJtOVlGUmhXaExuVHZUMVVpdWw2TkxXb1paN0xJNHV5YklPUjhpbC1lcjVJbThSdE9RdVRZZmhmY1I3THhCb0hLOHbSAf8BQVVfeXFMTzNHVDFfaW5CTVJ1MnFBeUQ0OWFXTXlMRWVrVldJNE5kaHVlMXRfcU1DZ2NIVWhvR3FQWEtqSFZ2eTVsc2J5VjdEbmxic3VsVmFzTE9pMnFORFR1VVlVeVYtc1BCcWdXc0pMMlBjUWZJUlZ6UEJCMzRiVjVmMFJXQ1dkNHpueTRaU3AtenBrcUV4ZW9BUzFuNVRITHZaU2NoQ2ZjSkVEamcwZTFFTHJ5OEhEQWluR1hHTFlGSldsQ2JEN3dMRldIMHVWWjBSQm9vOU5wSWZuY2NNSklMaEgwTnNwMkxiYW9xVVVRcmVQb1NveFFUWDQ4cGhiQWRTZTNN?oc=5"
+    },
+    {
       "title": "Sobrevivir no es suficiente. Por qué el Carmignac Portfolio Flexible Bond es un activo clave en 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTl3d2tlN09HRVRKWDlDQmI2NjBwMHN4cUFMS0cwMmhVdEFEZEcybFBQb1hEQjVwZjM2aF9KQWNGaTRnV2piT2NqT3UzTlR5WnpMTGlXbDh6Rm9RdV9OUUJoQUlzNk9aY0JWbTQwRXpjYjN6SHUtd0RmWG43djZIRHdMTXpBMmhweUZVZDJESWJVTnVaU3l4TDNrSHpMZmtWb2fSAaIBQVVfeXFMTVE5d3drZTdPR0VUSlg5Q0JiNjYwcDBzeHFBTEtHMDJoVXRBRGRHMmxQUG9YREI1cGYzNmhfSkFjRmk0Z1dqYk9jak91M05UeVp6TExpV2w4ekZvUXVfTlFCaEFJczZPWmNCVm00MEV6Y2Izekh1LXdEZlhuN3Y2SER3TE16QTJocHlGVWQyREliVU51WlN5eEwza0h6TGZrVm9n?oc=5"
     },
     {
-      "title": "Mejores valores del Ibex 35 y del Mercado Continuo en este momento en bolsa",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONWpOeW9FSFhXaVZMM0N6anhvY0Eya1A3cmlLVkV4dVRSNU5sVVdTNU9RX010SDZWdWlLSGJodFNCSzBxbC1BWm83QVdsUmlCQkJ0Ny0zVi15dTN2aGFCZWl4Qm5uV3JhTmdyR3FjdHdFYmVsaV9WNmMtZnAxN1R2QVRuWFNEalFjbktFZzNRYWRXOFVqZFN3SWJJYjZvejRIQXZ4UHgwalpjUHd4X19Kd1NYTmd6NDFSbkV4RWVMRkJGWnlubFZPenFKWdIBpAFBVV95cUxNblhvN09Gdi1YZEgwQUNYb3Z1aFBZVlNORkszeEcyenlTVUxmRzViSVQtUEtWNnkzZEJDZGlFalVCSlZ0anlYNXpZNmVpMWRSbDQtMlgtR29FSG91R21CbThiQWZ3cTdIT1c1cnd2WG11V2lydGNLXy14NXJKSlZ4Tk55MDA4VTFXRGM5eGM2bk8yY1FvaWhmN3BydG12RW9sZVEtUA?oc=5"
+      "title": "**Indexa Capital alcanza los 4.600 millones de euros gestionados con más de 138.000 clientes, ofreciendo carteras indexadas desde 3.000€ con comisiones totales entre 0,54% y 0,62% anual.** (Indexa Capital reaches 4.6 billion euros under management with more than 138,000 clients, offering indexed portfolios from €3,000 with total fees between 0.54% and 0.62% annually.)",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**ESMA: Los costes de los fondos de renta variable UCITS bajan un 8% y los de renta fija un 15%, impulsados por el lanzamiento de nuevos fondos más baratos.** (ESMA: Costs of UCITS equity funds fall by 8% and fixed income funds by 15%, driven by the launch of new cheaper funds.)",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**El ETF iShares MSCI Spain (EWP) cerró el 15 de mayo de 2026 a 55,63$, con una rentabilidad del 31,79% en los últimos 12 meses, pero ha fluctuado entre 55,38$ y 55,87$ diariamente.** (The iShares MSCI Spain ETF (EWP) closed on May 15, 2026, at $55.63, with a return of 31.79% in the last 12 months, but has fluctuated between $55.38 and $55.87 daily.)",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**MyInvestor supera a Indexa Capital en rentabilidad anualizada en carteras conservadoras (1,4%), moderadas (1%) y agresivas (1%), aunque con mayor volatilidad.** (MyInvestor outperforms Indexa Capital in annualized returns in conservative (1.4%), moderate (1%), and aggressive (1%) portfolios, albeit with higher volatility.)",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**CNMV suspende cautelarmente la cotización de TUBOS REUNIDOS S.A. el 4 de mayo de 2026 debido a circunstancias que podrían perturbar el curso normal de las operaciones.** (CNMV suspends trading of TUBOS REUNIDOS S.A. on May 4, 2026, due to circumstances that could disrupt the normal course of operations.)",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Morningstar nombra a Cobas Renta FI como el mejor fondo de asignación en EUR en los premios Morningstar Awards for Investing Excellence Spain 2026.** (Morningstar names Cobas Renta FI as the best EUR allocation fund in the Morningstar Awards for Investing Excellence Spain 2026.)",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
