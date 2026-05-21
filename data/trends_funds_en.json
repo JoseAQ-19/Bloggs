@@ -1,8 +1,8 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-21T08:19:16.434384+00:00",
-  "total_candidates": 23,
+  "scouted_at": "2026-05-21T08:20:47.633572+00:00",
+  "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
@@ -86,11 +86,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkplNV9TbzhhRnRVWm9zVE5OS24xZkVIRlJJdGxfb0d0RC1KUVRWUEltd2R4R3h1ZXpQVHRYV3VadmdPa0lZTTJ0SjNXcjZDTlB1Q2dtd2JnY1BOQXpFTTJyZ3VXa0FlZzh6cFRhVnRaa0FpYzBhZFIxRnZPSFMzWU85ZU04RTlETUxTRFFqZVl6NFJJeXVaUlNB?oc=5"
     },
     {
-      "title": "ION LookOut TCA wins \"Best Transaction Cost Analysis Solution for Best Execution\" at RegTech Insight Awards",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPTUlPTjd6ZV81Qk45S2FpWWkwUHJmdEZCcmZqaUlpRGtPTC01UUdrb2N4aW9yOHhZeUtHTTJINkJNejZiaVVLOVhVOW4tY19pMGNsemUwT0hKQVhGNTRIcVJab2RTbnJUZUQwaG9QR2xMR094b2ROWEZQVVhBejFOYjRJSXo4TGE2TmVoVDVqVTFfZVFLVzJvZlhHR3pRcGluX2M3elZ3NFVkQUQyZVg1bHd1NC1TTXNLTGdrNi1lcGJpQ19GYlZBTlo4Vy1lWWIzcUg2cThNaVhnTVhvbnMxR19SemowN0YxbVdfRERsemxyb3pOSnhWTHpjNmhqcTJDbWJzQ09vSnRUQQ?oc=5"
-    },
-    {
       "title": "8 Top-Performing US Equity ETFs",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03NkVoWldBWEFwUWx6OE9mZVYzd2lHZWpKMDUtUnAyUmQ3Mjg1cXJNZ2Jfcm9zRDZvX1pfeksxTzVVWEg0TE1GZEJwbng3eEVzeG5SVll3VWI2M3NzOTJWYzBHRi12bmhocmlaSmlYTTFjaDB1U3I2VURYcFduQQ?oc=5"
@@ -134,21 +129,6 @@
       "title": "Fidelity Advisor Health Care Fund Class A (FACDX) Competitors",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90dTRQdXJXV3l6bzEzV3BBdFRSTEdCQzFQMDhNM1FnTmRxNWhjbWtPelQtU0lydGRZR3NXY09OYXFrbU9SSzA4aHJMUE4?oc=5"
-    },
-    {
-      "title": "Vanguard Total International Stock ETF (VXUS) Outpaces S&P 500 YTD with 10% Gain, First Meaningful Lead Since 2021.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Global ETF Assets Reach a Record $21.91 Trillion in April 2026, Up 10.5% YTD, with Net Inflows of $856.38 Billion.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Investment Company Institute Reports $18.29 Billion Outflows from Long-Term Mutual Funds for the Week Ended May 13.",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }
