@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-21T09:44:32.841176+00:00",
+  "scouted_at": "2026-05-21T09:46:09.758361+00:00",
   "total_candidates": 23,
   "topics": [
     {
       "rank": 1,
-      "title": "EIG’s MidOcean Energy Announces $120m Investment from The Arab Energy Fund as Part of Equity Raise",
+      "title": "PGIM Real Estate Fund completes 10th property acquisition, marking $260M in capital deployed",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Thrivent Financial for Lutherans Purchases 22,459 Shares of Morningstar, Inc. $MORN",
+      "title": "EIG’s MidOcean Energy Announces $120m Investment from The Arab Energy Fund as Part of Equity Raise",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Alternative Investment Specialist Conservation Resources Closes First Investment of its Second Agriculture Fund",
+      "title": "Thrivent Financial for Lutherans Purchases 22,459 Shares of Morningstar, Inc. $MORN",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,6 +51,11 @@
   },
   "all_headlines": [
     {
+      "title": "PGIM Real Estate Fund completes 10th property acquisition, marking $260M in capital deployed",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRlBCSmpwT0RYWnYyWkxNYlk4RmJYS0hVUGNVMjd0OTVZeHltd21qbkRGc0RUandrLWxqY3RoeC1KNXJseVdwcDdUQjdRbWxMQUt4ZXlqYkVFbWJpMGp2Wk5vRXdKMmJQanFTeDJsZWpGVmZiVE9zMnJ2c0R4T2l1VDNmMUV0M2ZCU1ZWd1VxYnZnY0prNWFSQlVwN3NvNW5SWHR4aTQ4LWNfemhMdnc2WlhkYjFrN0l3Z21HSl9yRTVjZWNOcm1hamtydk56RU12WnMwNnhqdFBGM1dTaGpNLW9STWNmTlk?oc=5"
+    },
+    {
       "title": "EIG’s MidOcean Energy Announces $120m Investment from The Arab Energy Fund as Part of Equity Raise",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbzJRNXdvY0szYURDMGY5c0hFT0FFV29rZEZHaUxoUjVVNnNrOXQyUkRLWm03OGF6czhCZEpXbk5DcFlUUWI0V3d1Z3diZkVFSmZNdGphejRJVzhnUHZzSWNxYkR3TldEQTJHUnN5OHhURUtVaFBGN3BZbXd1bG40Q0lERTFfUWttSkJway1sbkJWdjFLUmN2NC1aeUN6VWJoWUlBNGRFWENzVTN3dWpzd2RTTjEydWcyVHlWaDNpV2F0VF91RXRjUzh2VnVlRWw1NWZ0Mkl5emVKejNqODRzZFNFeUtWTGZ4UHlaZVJKRQ?oc=5"
@@ -79,11 +84,6 @@
       "title": "Marks & Spencer Earnings: Decent End to a Challenging Year",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkplNV9TbzhhRnRVWm9zVE5OS24xZkVIRlJJdGxfb0d0RC1KUVRWUEltd2R4R3h1ZXpQVHRYV3VadmdPa0lZTTJ0SjNXcjZDTlB1Q2dtd2JnY1BOQXpFTTJyZ3VXa0FlZzh6cFRhVnRaa0FpYzBhZFIxRnZPSFMzWU85ZU04RTlETUxTRFFqZVl6NFJJeXVaUlNB?oc=5"
-    },
-    {
-      "title": "PGIM Real Estate Fund completes 10th property acquisition, marking $260M in capital deployed",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRlBCSmpwT0RYWnYyWkxNYlk4RmJYS0hVUGNVMjd0OTVZeHltd21qbkRGc0RUandrLWxqY3RoeC1KNXJseVdwcDdUQjdRbWxMQUt4ZXlqYkVFbWJpMGp2Wk5vRXdKMmJQanFTeDJsZWpGVmZiVE9zMnJ2c0R4T2l1VDNmMUV0M2ZCU1ZWd1VxYnZnY0prNWFSQlVwN3NvNW5SWHR4aTQ4LWNfemhMdnc2WlhkYjFrN0l3Z21HSl9yRTVjZWNOcm1hamtydk56RU12WnMwNnhqdFBGM1dTaGpNLW9STWNmTlk?oc=5"
     },
     {
       "title": "ION LookOut TCA wins \"Best Transaction Cost Analysis Solution for Best Execution\" at RegTech Insight Awards",
@@ -136,17 +136,17 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90dTRQdXJXV3l6bzEzV3BBdFRSTEdCQzFQMDhNM1FnTmRxNWhjbWtPelQtU0lydGRZR3NXY09OYXFrbU9SSzA4aHJMUE4?oc=5"
     },
     {
-      "title": "Vanguard Total International Stock ETF (VXUS) outperforms S&P 500 YTD by 2%, up 10% versus VOO's 8%, driven by Japanese corporate reform and European industrial revival.",
+      "title": "Vanguard Total International Stock ETF (VXUS) outperforms Vanguard S&P 500 ETF (VOO) year-to-date, up 10% versus 8%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "SEC proposes raising Form PF filing threshold from $150 million to $1 billion in private fund AUM, potentially eliminating obligations for nearly half of filers.",
+      "title": "Vanguard lowers expense ratios across 53 funds, resulting in approximately $250 million in fee reductions for investors in 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock Smaller Companies Trust (BRSC) reports NAV total returns of 11.2% and share price return of 14.2% for the year ending 2/28/2026.",
+      "title": "iShares Core S&P 500 Index ETF (IVV) has climbed 24.30% over the past 12 months, outperforming its category average of 18.78%.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
