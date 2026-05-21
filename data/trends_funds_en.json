@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-20T09:45:12.039224+00:00",
-  "total_candidates": 21,
+  "scouted_at": "2026-05-21T08:19:16.434384+00:00",
+  "total_candidates": 23,
   "topics": [
     {
       "rank": 1,
-      "title": "Envestnet Wealth Solutions Expands Alternative Investment Access, Enhances Platform Flexibility, and Marks Milestones Across ActivePassive and Purpose-Driven Investing at Elevate 2026",
+      "title": "PGIM Real Estate Fund completes 10th property acquisition, marking $260M in capital deployed",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "National Equity Fund Announces Acquisition of National Affordable Housing Trust Portfolio to Support Mutual Investors and Housing for Residents",
+      "title": "EIG’s MidOcean Energy Announces $120m Investment from The Arab Energy Fund as Part of Equity Raise",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "How You Can Take Advantage of Persistently Elevated Bond Yields",
+      "title": "Alternative Investment Specialist Conservation Resources Closes First Investment of its Second Agriculture Fund",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -28,7 +28,7 @@
       "fund class": 22,
       "full list": 20,
       "index fund": 7,
-      "small cap": 5,
+      "small cap": 6,
       "fund institutional": 4,
       "etfalps shares": 4,
       "emerging markets": 3,
@@ -51,24 +51,24 @@
   },
   "all_headlines": [
     {
-      "title": "Envestnet Wealth Solutions Expands Alternative Investment Access, Enhances Platform Flexibility, and Marks Milestones Across ActivePassive and Purpose-Driven Investing at Elevate 2026",
+      "title": "PGIM Real Estate Fund completes 10th property acquisition, marking $260M in capital deployed",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNOGk2d3c5RUhwaXgyMDBJRDZNWEdQbHI1cWNEOWpldnpJSTFBUnFLemxMN3dESXBhMkRwVHV5TzdqdkZjUGFDRXlMNWVfb29vTG9jZWtVNlhNNEhVQWRUMG51T2F1bFF1TjV1ZmtMWk5KMGVjbHdaZnplZHlmUnAxSzdJUjB0OUtBMFY2U1BRM29WaHhOR2lCTFRfN1lHMmxkSGRxZHlJQTUzZDV6S0ZqZGFhUXZyRmI0RU1fb1hBbHpuUTNWLUdCNmtqNlp6b3doRDg3NzN4YnZZQmdvWDBSTUN5N3RhVm11RDZSaXBBRjZOcUllbUd6aG1YbW5qcjdBWkg5X1JVVXpNZ0g4d05sdm1YR3pQdklyMndFTlozWWxGem9hWTdlbTIwMHVvUDM0NkphaE9lc3JYaks2VmdMYndCdnRnak1yUjlqU0JZWDR6cmwwTUlGSG13VTVzU3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRlBCSmpwT0RYWnYyWkxNYlk4RmJYS0hVUGNVMjd0OTVZeHltd21qbkRGc0RUandrLWxqY3RoeC1KNXJseVdwcDdUQjdRbWxMQUt4ZXlqYkVFbWJpMGp2Wk5vRXdKMmJQanFTeDJsZWpGVmZiVE9zMnJ2c0R4T2l1VDNmMUV0M2ZCU1ZWd1VxYnZnY0prNWFSQlVwN3NvNW5SWHR4aTQ4LWNfemhMdnc2WlhkYjFrN0l3Z21HSl9yRTVjZWNOcm1hamtydk56RU12WnMwNnhqdFBGM1dTaGpNLW9STWNmTlk?oc=5"
     },
     {
-      "title": "National Equity Fund Announces Acquisition of National Affordable Housing Trust Portfolio to Support Mutual Investors and Housing for Residents",
+      "title": "EIG’s MidOcean Energy Announces $120m Investment from The Arab Energy Fund as Part of Equity Raise",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPX1AwNURzdElHWVVqUHlZYzZZQ1MwSXZvRGFvMEJVNnAzMVlVUURuWE9vc3JQY0lHWThqeDJpNGhXa2VaT2hpbk1aOG1FZU1wMC1OZndkeFhJSThUcV9PZDdJYTdWR3pmcF9sTWlXZEFTaGtwNHpLaHNVS1NuWndRbTUxZ2RUSzJBbG5UcFJaS0EyQzJBUjJfa2NwcWx2YlRWdTAwd0tLTVVPcE55dGVoTzNpLVAyZlMwSFdMWlZfWWJnUU5XVS1TdFh6WER6VDVrM29CZkpXS2x1aDNnVS1hTlo1TmNrUTZXRWN0WXpZWnNZNDNqRDl2TzUwaFAyMS11dk96OUQ3dlJ5cmJqV0lPSGtkZVhJTWtjcEtkU3AwTUcwcTB2WVQwRUxwN0I?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbzJRNXdvY0szYURDMGY5c0hFT0FFV29rZEZHaUxoUjVVNnNrOXQyUkRLWm03OGF6czhCZEpXbk5DcFlUUWI0V3d1Z3diZkVFSmZNdGphejRJVzhnUHZzSWNxYkR3TldEQTJHUnN5OHhURUtVaFBGN3BZbXd1bG40Q0lERTFfUWttSkJway1sbkJWdjFLUmN2NC1aeUN6VWJoWUlBNGRFWENzVTN3dWpzd2RTTjEydWcyVHlWaDNpV2F0VF91RXRjUzh2VnVlRWw1NWZ0Mkl5emVKejNqODRzZFNFeUtWTGZ4UHlaZVJKRQ?oc=5"
     },
     {
-      "title": "How You Can Take Advantage of Persistently Elevated Bond Yields",
+      "title": "Alternative Investment Specialist Conservation Resources Closes First Investment of its Second Agriculture Fund",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVlVSWptTlJjR2NxZEplWFZxOFctTmlzd2JKbllPa1JZcFBiZWJaei1jVWxvR1NpbG1rek1tODRiby1DUzZ3UW9aMnNPbE5BcW9fbmZ5UFBDaVdCTTY5OWFsYVVKdUZaYndJbWZkcEJ3cmZVdkhCUDNrdHg2cUVTbzYyaEZudEV5UzdmTEk1Mm9nMVVLci1hZFFn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOck1nWE1SRGlSLXFWYW1iUEc3eFpsc0dWaUFYYzBJdnc2emwyTnpOLTlpd3lyV1FHN09sTVpWQ3UyU1o2U19Ga0FmbWhhZ0xMYjN1VGdiakRnb3g1YnRnTHFONXZ4elpuOUtLeHl6RWkyd2Y4Qy1nQjJGR1d0VnFHU1l3d19odVRhOHdLak84QjlKZS1yR2VQZXF3VVJjUmRLNkNrcTFVSlNRNV80Qm1Uc2RDejhWa0FCWWdBd2IxbGFEcDRtLTBvZXJTcDZQUGQwMFI4MTRSelBkcjZDWEdFeElqZzM5RzdBeGk2UVktRDd4N0xPMGl1ZFVZUzFmRjNDR0Vn?oc=5"
     },
     {
-      "title": "Benzinga Expands Data Ecosystem With Trackinsight ETF Data Distribution",
+      "title": "Morningstar Credit Analytics Cuts Through Private Market Opacity with Standardized Corporate Credit Analytics",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcnF6bmVTb1NLWUZVRVFTcHZZZGk4cHVKc082anlnUFN2MUh5V1kwazJ4ODlZNVdjR2hrU25EUjluLWcya3JmRHVBT3VvWHFRdjdXNm9GTUZoNEk1bkhsSC1MY1RWbGJ6ZFRTcUs5Q2Vmb3VyUVJFaVVUd3BEOUJiYWlfVVp5SEg4Z2dBdVZDektQeExfek9XRXg0OUdoUlpJVVFpdUdfVDlhY195WmxKYU0zZnhEdVBlMmU3VWRDMUxrSWxrX05FOUo0YVE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORjRaei1WUldaN3RKSDV6amRwYWN5VE9ROExRYWVITWF2QkpOU19SLTBwVVR5RTc4YzJ5akZKX19uLUhEeE55ZDFkV1VrYmcxS1F0Z194SUtGelFpYnpSTi1XVzRfQWIzTGFKX1pKWXl4dVNlZVVUbFpfdl9EYk5QdHNpR0hDcFZpcmZId0N4MEk1Y3VPREZBYWZfcGJNUzZwdkRpZFJscEJDa2JfeTNKbG0yQ0R0alhGTFRYZkRrWXo1RFdQdEpRaUlKcHZUTWRYRHRDY2RIOUdESTJ2dFNfSHJmSXliT18xcXI5Zm01UlhCSlN4Zk5VOUhB?oc=5"
     },
     {
       "title": "Morningstar Inc stock (US6153942023): earnings momentum and data growth in focus",
@@ -76,29 +76,24 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSUE2b3N6emJvTTFtbFNYR3kzZEJ3TjVVTWJQbmlzVlVuNl9jcDNWZWIxdjFib2xUX0k1NUdmSjVsT294R1drWE15RVYxRk5HbEJvTzdHTHNXaENZYW9UY280QUVOSnowdVlhWmFzSmRzclRGR0lFb2NoVXMxOUI4a2trMTBySXIyYlNkOXdVUElrZ242Vk11TW5abzRwd19qSWpHUEF0ZjB5WHpEM3ZVbFk5dS1weTR6b0FVQ3FEUUlVUlFUM1lrUVd3?oc=5"
     },
     {
-      "title": "Morningstar Inc stock (US6153942023): earnings momentum and data demand keep spotlight on fintech na",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON1JKTEFNcmNHOHRZN0V4X29COGZ3M0JUT0NrRFQ0azVyQ3NhMmd5QlZHVTRFd0NmSlNNNkgyYVNISVA0ZkpjVWp3aE5ubWxwbTVaTC1hcVlPeXJZVlpUXzc1ZHh0V2NUZVNTY2M5QUxSeUt5aHFPUzAtTkJxVHFkOFJHeFEtcnduS3YyTi1HUVRfUVczX01xenVRZzlkLXlEVUpvWU9veGVuYVlob1JaTWJsdk9RZ3lsbXdFWHRiYlVPaWV5MkE?oc=5"
-    },
-    {
       "title": "Morningstar Offshore Fund Spy report for the quarter ended March 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLTk1eU5ndGZ6WjdpbXRlV3UybE5STWFyMXJ6VGY0RmdrSU1DcWtMRDhsVGMwa0EtSmFLOS0tT2tKM2k3R3FocTVvUlRTbzIxMEg1X2UyNE5YbUQxNWg4MmxlMV9YMDVkODVyLW1WWUtOR2k2VTJKaGJycDhsTExNX0RwOWVHMnFkdXVacEwycERkMzN1bXNrMHBGV2MxWXl5MUtJZ1g1N1h6bk53cHFybUt3NjBFQnFTS3liQ25nOA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa3JuOUZuZHdQeXVGTG00TEFpd3djR1kwS01LVkhVb2NLdjdaM1FoQXpuZ2ZBampoXzVTdU00bkp2SldHZi1kZnB1ckFlUWt0VDBxQlE0VVBQVVVDQ292SUVvc1JkcHprOXUwaGw4dk1wS0RfRnF5bDFBRGlwN2Z3dGtlNmZBcl9DLVNJSG1iMVVPRlBxOTIzYUY1d01OSlFyZlI5YlVac2czX1MzbktNU3k5d3EzVk5HaXc?oc=5"
     },
     {
-      "title": "Stellus Capital Management Closes Stellus Credit Fund IV",
+      "title": "Marks & Spencer Earnings: Decent End to a Challenging Year",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZFNadlRMeUZaLVFGUTJLZGpMQlJPTlA3WDJnMk1QVTgyYjlyZkJMYnh0bUVGa0VqZXQ1djBnWmlrV2xVOWRKeVRPV2Q5N2NSMHhqeUxIb3RodGFHRThxekJEdURBdTFkNVpLQm9zVmdfcG9RUi1OQVRLbF9lbUNSVWZtOFc3UW5hc2E3Z0t1SHFSa2NjOFAzRUR1a0szT1ZhNWd1S2N5c3ZZTVYyTUV3UlVFZXVlRFhV?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkplNV9TbzhhRnRVWm9zVE5OS24xZkVIRlJJdGxfb0d0RC1KUVRWUEltd2R4R3h1ZXpQVHRYV3VadmdPa0lZTTJ0SjNXcjZDTlB1Q2dtd2JnY1BOQXpFTTJyZ3VXa0FlZzh6cFRhVnRaa0FpYzBhZFIxRnZPSFMzWU85ZU04RTlETUxTRFFqZVl6NFJJeXVaUlNB?oc=5"
     },
     {
-      "title": "8 Best Index Funds to Buy in May 2026",
+      "title": "ION LookOut TCA wins \"Best Transaction Cost Analysis Solution for Best Execution\" at RegTech Insight Awards",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUDNDZmhSWXhsb1hJNHplMThzSExJaHhyYTk5N2JiSUU0N1IwRUxXem5Id3I5YldrdzB0NDZteGJuMGllY1p6RUpPRUdEbG1VZi1GUmFwV3dKWEFzSW1kUjBWcHVjcmRBeXp4Y0hqWS0zMzYyNEM2emxSOXdtNFE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPTUlPTjd6ZV81Qk45S2FpWWkwUHJmdEZCcmZqaUlpRGtPTC01UUdrb2N4aW9yOHhZeUtHTTJINkJNejZiaVVLOVhVOW4tY19pMGNsemUwT0hKQVhGNTRIcVJab2RTbnJUZUQwaG9QR2xMR094b2ROWEZQVVhBejFOYjRJSXo4TGE2TmVoVDVqVTFfZVFLVzJvZlhHR3pRcGluX2M3elZ3NFVkQUQyZVg1bHd1NC1TTXNLTGdrNi1lcGJpQ19GYlZBTlo4Vy1lWWIzcUg2cThNaVhnTVhvbnMxR19SemowN0YxbVdfRERsemxyb3pOSnhWTHpjNmhqcTJDbWJzQ09vSnRUQQ?oc=5"
     },
     {
-      "title": "Fund Fee Wars Shift to Complex Funds and New Strategies",
+      "title": "8 Top-Performing US Equity ETFs",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCQTdsc2dOMlRKb3EyaTRibXlqYW5kV1hnc21rZGZpSDhsTGZ4a2RncEJQYzBUUDRHTnJmT1p6TkI1Rjc4SVoxUE1nYWFicVdSWDBnMDJ2RmtwaVBndUY4VDR2akRVLVZVN2hBN2tRR1EtSEZVRlFV?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03NkVoWldBWEFwUWx6OE9mZVYzd2lHZWpKMDUtUnAyUmQ3Mjg1cXJNZ2Jfcm9zRDZvX1pfeksxTzVVWEg0TE1GZEJwbng3eEVzeG5SVll3VWI2M3NzOTJWYzBHRi12bmhocmlaSmlYTTFjaDB1U3I2VURYcFduQQ?oc=5"
     },
     {
       "title": "Sector & Industry Performance",
@@ -106,47 +101,52 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWEtZUzJ1Y0JsejVfb1o5VkF5Z3BFdWVwYzdCcEJ6dWJ3N19uOFNoY2VaYnMtUVpLeTdSUE83a3pkTWtOQmpTUm01aEJteWVhNU5n?oc=5"
     },
     {
+      "title": "7 Best Space Stocks and ETFs to Buy in 2026 | Investing",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMC1HbDhoVEY2S2U2NVdlRGNKRVBxcXZDYnJmWEI0eVJRalplVDI3aWVmUE9SQzhjcW1ZVXg2MW51eE14dXpOUjlDYnF6Uk9mRUdEcmwyVVB0cUZPTXF6Z2hfaTk5dW1YY3pLMjRWQXZjNlptVEloWlR4TTNmTF9UcW9Hd2c2QlVIbzBweVZIUHNKVklKNUpsZg?oc=5"
+    },
+    {
+      "title": "Largecap funds lag mid and smallcaps across time horizons. Should investors still allocate for stability?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeUJEOWtvblkxMGRwS2piRUloOHZ0dHpxS2NiZEZzcm56VUN0b2x4SGxoTHNHRldnR1pWY1V1M01XSUdLSHBBcS1kQ2NaN25aMDdfWktKVmpaQU1fUUQ0bTNjcHdEenVFYWZ5b0dreUJOS0FrSXppakNLZFNYaGRBZFBybWVENHdOVUtxbk5NM0RZaHY4VHR4bzZJSmplUmdnT21IaG1hUmJ5NmdLOUN5ZEpkaXU1RDdDTHIwYWY3eDNrMVY0bzREVU1zY3B4QVhMTHlLcWVINVNvZE5BcnVDNTVfeHAtbXZfZmdSeWJUSmY5SGFKLXVtcTBISFp6VTBKVUNv0gGDAkFVX3lxTFB5QkQ5a29uWTEwZHBLamJFSWg4dnR0enFLY2JkRnNybnpVQ3RvbHhIbGhMc0dGV2dHWlZjVXUzTVdJR0tIcEFxLWRDY1o3blowN19aS0pWalpBTV9RRDRtM2Nwd0R6dUVhZnlvR2t5Qk5LQWtJemlqQ0tkU1hoZEFkUHJtZUQ0d05VS3FuTk0zRFlodjhUdHhvNklKamVSZ2dPbUhobWFSYnk2Z0s5Q3lkSmRpdTVEN0NMcjBhZjd4M2sxVjRvNERVTXNjcHhBWExMeUtxZUg1U29kTkFydUM1NV94cC1tdl9mZ1J5YlRKZjlIYUotdW1xMEhIWnpVMEpVQ28?oc=5"
+    },
+    {
+      "title": "Vanguard Total International Stock Index Fund ETF Shares (VXUS): Stock Pick of Graham Stephan",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcmRrLXJxREJFaVZUYURWd3BiWldPNWIwWlFEWHJfZ09LZE12UmFjWWhqaVl5c3E4aUJjMjFQcS03TDRJZmRZQXVucjVSZmpsendyRlM3ajlaaFN5c0N6aDhYaldvSVVPdmhxam4xNlRkV21sNnV4YXQ4NkZ1dVZUN2tDeGJFTkdZZ0xMMDhUbTRfUjBUQ1Jtc0s0TXBVbDA3cUJUM09CLVFIaXFpekhnWVhVNnN1UUpGaDI1cXVpQ01wWTg5MTlyQ0Q4Z25OV2ktanByQS1sb9IB1wFBVV95cUxQcmRrLXJxREJFaVZUYURWd3BiWldPNWIwWlFEWHJfZ09LZE12UmFjWWhqaVl5c3E4aUJjMjFQcS03TDRJZmRZQXVucjVSZmpsendyRlM3ajlaaFN5c0N6aDhYaldvSVVPdmhxam4xNlRkV21sNnV4YXQ4NkZ1dVZUN2tDeGJFTkdZZ0xMMDhUbTRfUjBUQ1Jtc0s0TXBVbDA3cUJUM09CLVFIaXFpekhnWVhVNnN1UUpGaDI1cXVpQ01wWTg5MTlyQ0Q4Z25OV2ktanByQS1sbw?oc=5"
+    },
+    {
       "title": "Warren Buffett's Berkshire Delivered a 39,000x Return Since 1965. He Still Tells Most Investors to Buy Index Funds Instead.",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMFVOSmZMT0hxekJMVnRJY0tyWnVmS1p2YVdsa2tXcXdXc3FsYTN3WE5sQTZyVXkySXdBLXlKZFY5YUFScjdELURsNFIxREpfaUF6bDZaZlExUThHTTdjbk1wdEFSaG41Zk5vZ3pRcEhqcExaZ2o3NVBmVDdNUEZSQ2RzS01weVlWQU0tcERCSS1ZREFkS04xb1B5MEhpQVJxZHFkWENteHZmT05WTkRUODJvOXlrOUFfWUhqSUdBX0ZUTjhHMG9UT09acG1TRnJ3bXZPRndEZWc2WV9jZ0w1a0N2RUpRTVpqbjJ6TTIybVZKTUVwZlE?oc=5"
     },
     {
-      "title": "Best Rare Earth Stocks to Buy Now May 2026",
+      "title": "Fund Fee Wars Shift to Complex Funds and New Strategies",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kb3JyUVVPQUU2Z1ZLN2xScXE0SldVZTNHSW5kYldwTmR2QnlEN3B1aTZkREE2VGNfMW9reDRUODNFY2ZkQU9lT1JHRTRTTWlTcmlFYkZ0RzhDQnRkeVk1RFBHYWdaRDZkeFZTNXZhWXFxdGhB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCQTdsc2dOMlRKb3EyaTRibXlqYW5kV1hnc21rZGZpSDhsTGZ4a2RncEJQYzBUUDRHTnJmT1p6TkI1Rjc4SVoxUE1nYWFicVdSWDBnMDJ2RmtwaVBndUY4VDR2akRVLVZVN2hBN2tRR1EtSEZVRlFV?oc=5"
     },
     {
-      "title": "Graham Stephan Stock Portfolio: Top 5 Stocks",
+      "title": "Tech and Semis Power April Rebound",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVk3eVY0RDVCYkpCYUxtalVIWF9WcWRJSHZsNTVxN090V25CTUhxV0FPN1Fwb0hqS3ZRS2M0VERnTjdoTHVPdmRvV2ZCMHgxVmpRQ0p1Q010U3I3SkF3eGtLNXp6TjQ1azlCVkJITzYwYUI3dnF4RHNlMlJxXy1kMWd1WkIyZVY4b3NwenkyWG5ndlBGYkM0ONIBmAFBVV95cUxOTVk3eVY0RDVCYkpCYUxtalVIWF9WcWRJSHZsNTVxN090V25CTUhxV0FPN1Fwb0hqS3ZRS2M0VERnTjdoTHVPdmRvV2ZCMHgxVmpRQ0p1Q010U3I3SkF3eGtLNXp6TjQ1azlCVkJITzYwYUI3dnF4RHNlMlJxXy1kMWd1WkIyZVY4b3NwenkyWG5ndlBGYkM0OA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaE5iQUZUejVLN3pnR19PZzBERHEyRzRPOHhaNEp2b2kzM09RTG50dE5vcEJCSzd6bXBPYnh1ZnVGdFhTRzZ3U042d080MUJvOG9NTEdORndTOWdETnFjTjhVQ0lwZzhYUjA4NFVkNUJBSngtZEJNTkdQdW5fS09UVjRHMU05cUlOWFU5RGJBTGlLZ0VRYnYxQg?oc=5"
     },
     {
-      "title": "Best conservative hybrid mutual funds to invest in May 2026",
+      "title": "Fidelity Advisor Health Care Fund Class A (FACDX) Competitors",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQWZaNWdndHUtelZKVWtLVUJRaGoybnJmUTFuWFlFRmR2a0dqZXR3T1kyRWQyQXdyb1lta2JqbG0yY0tiVnM0OEFqQzU2YTJvUmJSMTVjYlVydGVCT0JxWF9iR19tRV9VMEtpRVNWa0JEenJ2Qy1xcWtpRXFzX3VuTk1QZ1ZiVTI5Znh4aGlmYUUtUkJwbmU5N29ac2xHcVVLRGJHcUhsQklMT2lwM0NyYlBQYlNRUjdBSkVqc2ZwbXF6eFhMcnEtZdIByAFBVV95cUxPQWZaNWdndHUtelZKVWtLVUJRaGoybnJmUTFuWFlFRmR2a0dqZXR3T1kyRWQyQXdyb1lta2JqbG0yY0tiVnM0OEFqQzU2YTJvUmJSMTVjYlVydGVCT0JxWF9iR19tRV9VMEtpRVNWa0JEenJ2Qy1xcWtpRXFzX3VuTk1QZ1ZiVTI5Znh4aGlmYUUtUkJwbmU5N29ac2xHcVVLRGJHcUhsQklMT2lwM0NyYlBQYlNRUjdBSkVqc2ZwbXF6eFhMcnEtZQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90dTRQdXJXV3l6bzEzV3BBdFRSTEdCQzFQMDhNM1FnTmRxNWhjbWtPelQtU0lydGRZR3NXY09OYXFrbU9SSzA4aHJMUE4?oc=5"
     },
     {
-      "title": "Vanguard S&P 500 ETF (VOO) projected to have a 17.6% upside, while iShares Biotechnology ETF (IBB) could reach over 34% based on analyst consensus.",
+      "title": "Vanguard Total International Stock ETF (VXUS) Outpaces S&P 500 YTD with 10% Gain, First Meaningful Lead Since 2021.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "SEC and CFTC propose raising the Form PF filing threshold for private fund advisers from $150 million to $1 billion in AUM.",
+      "title": "Global ETF Assets Reach a Record $21.91 Trillion in April 2026, Up 10.5% YTD, with Net Inflows of $856.38 Billion.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard cuts expense ratios on 84 mutual fund and ETF share classes across 53 funds, saving investors approximately $250 million in 2026.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Total estimated outflows from long-term mutual funds were $21.38 billion for the week ended May 6, 2026.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "GraniteShares launches Autocallable PLTR ETF (PLA) and Autocallable HOOD ETF (AHD) on May 19, 2026, expanding its autocallable ETF suite.",
+      "title": "Investment Company Institute Reports $18.29 Billion Outflows from Long-Term Mutual Funds for the Week Ended May 13.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
