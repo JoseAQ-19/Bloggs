@@ -1395,3 +1395,4 @@ crypto: Las monedas de privacidad y la resistencia cuántica: ¿el futuro del cr
 crypto: Blockchain.com Takes the Leap: IPO Filing Signals Major Shift in Crypto Brokerage
 crypto: Historic Milestone: Scott's Take on U.S. Crypto Leadership and Legislation Breakthrough
 youtube: YouTube Premium Lite: El inesperado regalo que llega con Google AI Pro
+youtube: AI-Pirated Audiobooks: The Dark Side of YouTube's Content Explosion
