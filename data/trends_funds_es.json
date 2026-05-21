@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-20T08:13:04.396381+00:00",
-  "total_candidates": 9,
+  "scouted_at": "2026-05-21T08:15:44.906591+00:00",
+  "total_candidates": 6,
   "topics": [
     {
       "rank": 1,
-      "title": "Renta 4 Megatendencias Fi Ariema Hidrógeno: ¿Puede un incremento del 30% en 2026 cambiar tu estrategia de inversión?",
+      "title": "Actinver y Morningstar presentan su nuevo fondo con comisiones de solo 0,5%: ¿Es esta la oportunidad para los inversores en empresas mexicanas?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El fondo CT (Lux) Global Technology Fund alcanza un impresionante 28,8% de rentabilidad anualizada en 3 años: ¿Es el momento de invertir?",
+      "title": "Las 5 mejores entidades de banca privada en 2026: ¿Qué fondos están liderando el rendimiento y cómo se comparan?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Actinver y Morningstar relanzan fondo con comisiones bajas: ¿Podrán competir con los grandes del mercado mexicano?",
+      "title": "El asesoramiento y la gestión discrecional dominan el 73,3% del mercado: ¿Qué fondos están detrás de este fenómeno en España?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,9 +49,9 @@
   },
   "all_headlines": [
     {
-      "title": "Silverway Asset Management configura un equipo “premium” antes del lanzamiento de su fondo",
+      "title": "Por qué a veces las acciones caen sin motivo aparente",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2U0ekwyaEhKSlFrTHYtd1k3M2tlOE94MEtTZ056aUYwNlEzYWVWeTZSNXdHT3RGZURyRTZYeXJvUW9UWWhKZjAwUmtGV18tMVVRa1o4bjhXQW1Va1VCM2NzTkJCa0ZWaUNpT0w4MC1kcW54bmh5b1Q3c1EyTFNsUVp6VHBYei0xT1lPVEh3cVVHODhya0RYbVRfR2pHM1dhRG530gGfAUFVX3lxTFBfWndGRUZpZV84bk5lY01qWDlybERmbXVwa1hEYjh6Y0JIdXVmdVpvbHBOOFlZX0hUZllKT3FUcm5hRjRhZ1RBMkF3V1JlOUNxQXBydXppRlFjWTlfc1dVbW5sS3JMSktCYmpNc0lkOG51ZnUtTzJWQVBtU3BlMHJ6ZE1wT2VqaWo4RFdtQUgtNW5FM2hUZVVGR0ViemFMUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcUlJVHpfdjZnZHN4ajZ0aFVkUVY2Q2FUclF3aEMwV29ZaDM5WDFaVnBEZ09HZzRSZDJXekxnT3VxN1lIajZ6c2NDb3dGOHd1VnN4NXlxdTRhRVJ6Yl9XdVdwRHJMdlpyU2R6aVBQTWhUdDNfemZJdXB1N0JXQWI1TGw4ZVVGVUxZUGdNS1dFRnhZeHVCMUhGMg?oc=5"
     },
     {
       "title": "Actinver y Morningstar relanzan fondo con bajas comisiones para ganar dinero con empresas mexicanas",
@@ -59,39 +59,24 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZTk2eV9fcy0yb0gxT29wWjd6M3BVaGlGZHFTdlpWb3VCd2VZQVNWbXJISkE1Nm9kQU9qLXZkdDBCbDZKUlNQaXlRbXloTG9TVlVEV0Y1VkVFWmVIdDQwTm1WWFEtRllUVUtucU9vWlRkZzEwbFEyczJCZUJfTU9QNkI0TG84WDJ3RGpQLW9fSnkwdE15elVXLTlOYnhfQ3AyOXJtOVlGUmhXaExuVHZUMVVpdWw2TkxXb1paN0xJNHV5YklPUjhpbC1lcjVJbThSdE9RdVRZZmhmY1I3THhCb0hLOHbSAf8BQVVfeXFMTzNHVDFfaW5CTVJ1MnFBeUQ0OWFXTXlMRWVrVldJNE5kaHVlMXRfcU1DZ2NIVWhvR3FQWEtqSFZ2eTVsc2J5VjdEbmxic3VsVmFzTE9pMnFORFR1VVlVeVYtc1BCcWdXc0pMMlBjUWZJUlZ6UEJCMzRiVjVmMFJXQ1dkNHpueTRaU3AtenBrcUV4ZW9BUzFuNVRITHZaU2NoQ2ZjSkVEamcwZTFFTHJ5OEhEQWluR1hHTFlGSldsQ2JEN3dMRldIMHVWWjBSQm9vOU5wSWZuY2NNSklMaEgwTnNwMkxiYW9xVVVRcmVQb1NveFFUWDQ4cGhiQWRTZTNN?oc=5"
     },
     {
-      "title": "Sobrevivir no es suficiente. Por qué el Carmignac Portfolio Flexible Bond es un activo clave en 2026",
+      "title": "Invertir en Renta Fija: situación actual y perspectivas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTl3d2tlN09HRVRKWDlDQmI2NjBwMHN4cUFMS0cwMmhVdEFEZEcybFBQb1hEQjVwZjM2aF9KQWNGaTRnV2piT2NqT3UzTlR5WnpMTGlXbDh6Rm9RdV9OUUJoQUlzNk9aY0JWbTQwRXpjYjN6SHUtd0RmWG43djZIRHdMTXpBMmhweUZVZDJESWJVTnVaU3l4TDNrSHpMZmtWb2fSAaIBQVVfeXFMTVE5d3drZTdPR0VUSlg5Q0JiNjYwcDBzeHFBTEtHMDJoVXRBRGRHMmxQUG9YREI1cGYzNmhfSkFjRmk0Z1dqYk9jak91M05UeVp6TExpV2w4ekZvUXVfTlFCaEFJczZPWmNCVm00MEV6Y2Izekh1LXdEZlhuN3Y2SER3TE16QTJocHlGVWQyREliVU51WlN5eEwza0h6TGZrVm9n?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
     },
     {
-      "title": "**España activa el fondo \"España Crece\" con 13.300 millones de euros para impulsar la inversión tras el programa Next Generation EU**",
-      "source": "gemini_grounding_finance",
-      "url": ""
+      "title": "Ranking de las mejores entidades de banca privada en 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS1lTdmpvS1RrWndkRUhtSWNsSDlnSjQtZGZhTnREMEZ1dXhpdDc0Q0RkMjdYZnJCdVJxZkZ5VHVtZkpxc2dPMUVFMW16ZEhWaU5EcmtiWXAtVWRTdl92UHp0TXpZV0lHemJfSmVxVzduUUxSLTRyekJ3RXA1YnFBQVYxM01TdHZva3VEVzZQZlZIQVU1UWl3NXE2NDREdllQampkY0l4dXVhRWxfd3RYVk95WDZsTDhLU3lnc0lsekRmaGZE0gGjAUFVX3lxTE1BVUloV0RxUWRmNExQQ0V2QU9JVjNjMzhLT3ZuZEpsZnlTdTlSck0yNE9SeWdwTzVDVU9pd0N1RkJKV21aZzZmU3lnYk8yN3o0WmJvQzVEWFc0LWVTLWdub0kyS09nb0dDeXBiX3hiRnNXaC1XWkgwYTlBZ2hQOTdmUGNtelktTkJlZVhseWZPb2M3amZzd1dLb3NMTndCd1huNlU?oc=5"
     },
     {
-      "title": "**Renta 4 Megatendencias Fi Ariema Hidrógeno sube casi un 30% en 2026, impulsado por Bloom Energy, con más del 13% de sus activos**",
-      "source": "gemini_grounding_finance",
-      "url": ""
+      "title": "El asesoramiento y la gestión discrecional concentran el 73,3% de la distribución de fondos en España",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTklZQ3EwR0hkZHg1M1pwTGF1Ym80bmsxM0tCVThFQnZpaVB4a0lFN0ExcC1PcHJwQV9jY2VQVzdGVXliektrdE9CNHVtSjVJY0FrcERRdVB0XzZjVnB6ak5tVkl2b0UwS0tIaThteHkwelU5cVdxem5sNDlaemF3T3FiTkVRbkJzSUNhMVZFRW1YNHV4N244SHloUXdzRmxGcnItY25YcndvakZUQUtwaGQ3emw5WmFaWUlZeDBjYnY3VEZHdzZlU2JqS3NramVIRlBMeGw3aGwwOFNQREJCcWFoRGdPQjdOYkE?oc=5"
     },
     {
-      "title": "**Kutxabank lidera las captaciones de fondos en España hasta abril de 2026, superando a BBVA y Unicaja**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Comisión Europea propone 120,4 millones de euros del Fondo de Solidaridad de la UE para la recuperación de España tras los incendios de 2025**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**El fondo CT (Lux) Global Technology Fund, con un patrimonio de 1.507,5 millones de USD, ofrece una rentabilidad anualizada a 3 años del 28,8%**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Indexa Capital gestiona más de 4.600 millones de euros con más de 138.000 clientes, consolidándose como el mayor roboadvisor de España**",
-      "source": "gemini_grounding_finance",
-      "url": ""
+      "title": "¿Quieres invertir en ETFs? Listado completo actualizado",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QZ3ppU2hkYlA1TzgxYW9ZUS1rcnlReEEtSmFBR2FJWlJwVkpUem5WMUc1Qm5aY1Jlb2ZHYUl2NFdxd3VXVlRneDVKQm1ZejRmQTlhejExVWVvYy1GdUlVaTNn?oc=5"
     }
   ]
 }
