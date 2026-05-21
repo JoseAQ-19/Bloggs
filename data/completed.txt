@@ -1397,3 +1397,4 @@ crypto: Historic Milestone: Scott's Take on U.S. Crypto Leadership and Legislati
 youtube: YouTube Premium Lite: El inesperado regalo que llega con Google AI Pro
 youtube: AI-Pirated Audiobooks: The Dark Side of YouTube's Content Explosion
 youtube: YouTube's A.I.-Generated Audiobooks: The Rise of Digital Piracy
+viral: Murdoku: El pasatiempo que está conquistando España y no podrás dejar de jugar
