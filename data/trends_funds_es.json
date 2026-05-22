@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-22T08:09:23.962378+00:00",
-  "total_candidates": 5,
+  "scouted_at": "2026-05-22T08:10:40.262691+00:00",
+  "total_candidates": 11,
   "topics": [
     {
       "rank": 1,
-      "title": "Actinver y Morningstar presentan un fondo con comisiones de solo 0.5%: ¿es este el mejor camino para invertir en empresas mexicanas?",
+      "title": "Actinver y Morningstar lanzan un fondo de bajo coste: ¿Cómo se compara su rendimiento con los líderes del mercado mexicano?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa entre el bono español a 10 años y el fondo indexado que ha superado el 8% en rentabilidad anual: ¿dónde deberías poner tu dinero?",
+      "title": "El nuevo fondo Ispania Growth Fund de QIA y COFIDES: 300 millones de euros para revolucionar la digitalización de las PYMES.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Invertir en Brasil: Descubre los ETFs y Fondos de Inversión que han crecido un 15% en el último año.",
+      "title": "BlackRock amplía su gama de ETF iBonds: ¿Vale la pena invertir en sus nuevos fondos con vencimientos en 2036 y 2037?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -72,6 +72,36 @@
       "title": "Mejores cuentas remuneradas: más intereses y sin comisiones en mayo 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZlFjN3paakxwVXBKOFdLdVhDMEIxZnQ1Vnh6MFlYR2t5dXZsSGNpVGsySE9RT1N0X3Nka2JhUDVJTl9taFBsaWhmUzB4UmN6VTdCb3B4dTV1S1JNVnV1S0Jsb1JNN1MtTURLNjRORG80dFJWT2cwQ1NCVEJfa25TUE1YdmZiZFRDbWc?oc=5"
+    },
+    {
+      "title": "El fondo España Crece inyecta 13.300 millones de euros del Plan de Recuperación Europeo al ICO para impulsar la productividad.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "QIA y COFIDES lanzan el fondo Ispania Growth Fund con 300 millones de euros para apoyar la transición digital y verde de las PYMES españolas.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "BlackRock amplía su gama de ETF iBonds con vencimientos en 2036 y 2037, alcanzando los 13.500 millones de dólares en activos bajo gestión.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Los ETF ligados a la bolsa española registran salidas superiores a 200 millones de dólares en 2026, solo por detrás de Alemania.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Vanguard lanza dos nuevos ETFs UCITS centrados en renta variable europea, el Vanguard FTSE Eurozone UCITS y el Vanguard FTSE Developed Europe Small-Cap UCITS.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Indexa Capital gestiona más de 4.600 millones de euros con más de 138.000 clientes, cobrando entre 0,15% y 0,43% de comisión anual.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
