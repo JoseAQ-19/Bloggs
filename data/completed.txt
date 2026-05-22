@@ -1403,3 +1403,4 @@ fitness: Houston's Fitness Revolution: Explore the New Wave of Wellness Events a
 funds: Fondo Actinver y Morningstar supera a competidores mexicanos en 4% de rendimiento anual
 funds: PGIM Expands ETF Offerings: Introducing PGIM Jennison US Core Equity ETF
 funds: PGIM Jennison US Core Equity ETF Launches as Active ETF Strategy Expands
+ia: Soberanía algorítmica: el futuro de la gobernanza de IA en las diputaciones españolas
