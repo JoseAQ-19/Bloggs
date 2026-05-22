@@ -1399,3 +1399,4 @@ youtube: AI-Pirated Audiobooks: The Dark Side of YouTube's Content Explosion
 youtube: YouTube's A.I.-Generated Audiobooks: The Rise of Digital Piracy
 viral: Murdoku: El pasatiempo que está conquistando España y no podrás dejar de jugar
 viral: Hantavirus Alert: EPA's New Emergency Guidance Sparks Concern
+fitness: Houston's Fitness Revolution: Explore the New Wave of Wellness Events and Gyms
