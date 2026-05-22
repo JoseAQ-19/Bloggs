@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-21T08:17:11.280551+00:00",
-  "total_candidates": 6,
+  "scouted_at": "2026-05-22T08:09:23.962378+00:00",
+  "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "Actinver y Morningstar relanzan un fondo con comisiones de solo 0,5% para invertir en empresas mexicanas en 2024",
+      "title": "Actinver y Morningstar presentan un fondo con comisiones de solo 0.5%: ¿es este el mejor camino para invertir en empresas mexicanas?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El asesoramiento y gestión discrecional dominan el mercado de fondos en España, alcanzando un 73,3% en 2023",
+      "title": "Comparativa entre el bono español a 10 años y el fondo indexado que ha superado el 8% en rentabilidad anual: ¿dónde deberías poner tu dinero?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Invertir en Renta Fija: ¿Qué fondos superan el 5% de rentabilidad en el contexto actual?",
+      "title": "Invertir en Brasil: Descubre los ETFs y Fondos de Inversión que han crecido un 15% en el último año.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -59,24 +59,19 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZTk2eV9fcy0yb0gxT29wWjd6M3BVaGlGZHFTdlpWb3VCd2VZQVNWbXJISkE1Nm9kQU9qLXZkdDBCbDZKUlNQaXlRbXloTG9TVlVEV0Y1VkVFWmVIdDQwTm1WWFEtRllUVUtucU9vWlRkZzEwbFEyczJCZUJfTU9QNkI0TG84WDJ3RGpQLW9fSnkwdE15elVXLTlOYnhfQ3AyOXJtOVlGUmhXaExuVHZUMVVpdWw2TkxXb1paN0xJNHV5YklPUjhpbC1lcjVJbThSdE9RdVRZZmhmY1I3THhCb0hLOHbSAf8BQVVfeXFMTzNHVDFfaW5CTVJ1MnFBeUQ0OWFXTXlMRWVrVldJNE5kaHVlMXRfcU1DZ2NIVWhvR3FQWEtqSFZ2eTVsc2J5VjdEbmxic3VsVmFzTE9pMnFORFR1VVlVeVYtc1BCcWdXc0pMMlBjUWZJUlZ6UEJCMzRiVjVmMFJXQ1dkNHpueTRaU3AtenBrcUV4ZW9BUzFuNVRITHZaU2NoQ2ZjSkVEamcwZTFFTHJ5OEhEQWluR1hHTFlGSldsQ2JEN3dMRldIMHVWWjBSQm9vOU5wSWZuY2NNSklMaEgwTnNwMkxiYW9xVVVRcmVQb1NveFFUWDQ4cGhiQWRTZTNN?oc=5"
     },
     {
-      "title": "Invertir en Renta Fija: situación actual y perspectivas",
+      "title": "¿Merece la pena el bono español a 10 años frente a un fondo indexado?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmgwNmkxMFBUelYxdGs3OGJnU3hDTF8tQU4wazVmVXl1aGphVGxZNFV2TkgyVnNWSUNqS1NNSkNtVW9YNFc5dHJFTW9kUWUxb3JLSnFzZm9vOXdBbHZLQ0RwS0JfQTJHMUJwbUVsdGF4ODlUem9pcEpLOFlzOGxwcDRxcUtGRkpiTndrQQ?oc=5"
     },
     {
-      "title": "Ranking de las mejores entidades de banca privada en 2026",
+      "title": "Invertir en Brasil: Acciones, ETFs y Fondos de Inversión",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS1lTdmpvS1RrWndkRUhtSWNsSDlnSjQtZGZhTnREMEZ1dXhpdDc0Q0RkMjdYZnJCdVJxZkZ5VHVtZkpxc2dPMUVFMW16ZEhWaU5EcmtiWXAtVWRTdl92UHp0TXpZV0lHemJfSmVxVzduUUxSLTRyekJ3RXA1YnFBQVYxM01TdHZva3VEVzZQZlZIQVU1UWl3NXE2NDREdllQampkY0l4dXVhRWxfd3RYVk95WDZsTDhLU3lnc0lsekRmaGZE0gGjAUFVX3lxTE1BVUloV0RxUWRmNExQQ0V2QU9JVjNjMzhLT3ZuZEpsZnlTdTlSck0yNE9SeWdwTzVDVU9pd0N1RkJKV21aZzZmU3lnYk8yN3o0WmJvQzVEWFc0LWVTLWdub0kyS09nb0dDeXBiX3hiRnNXaC1XWkgwYTlBZ2hQOTdmUGNtelktTkJlZVhseWZPb2M3amZzd1dLb3NMTndCd1huNlU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWM0VDQ5TzJERGdrempvVnNrTE9GVG1JLW5VVXZvZHNnT2tDbm1DbnRBcjdHbGJwWmp6NVE4WFJTdlVnbkg3cDJNQ24zdVIxLXRFVi1zNW5SdEdYYThSS2FpbHJDSlQybUJVSmJjcWFOM0RYWkMzOVVVQ00xZmtqOEIySFBucnJVSGV4dGpsQXJjelNLYXE5NFFQcTItaEJy?oc=5"
     },
     {
-      "title": "El asesoramiento y la gestión discrecional concentran el 73,3% de la distribución de fondos en España",
+      "title": "Mejores cuentas remuneradas: más intereses y sin comisiones en mayo 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTklZQ3EwR0hkZHg1M1pwTGF1Ym80bmsxM0tCVThFQnZpaVB4a0lFN0ExcC1PcHJwQV9jY2VQVzdGVXliektrdE9CNHVtSjVJY0FrcERRdVB0XzZjVnB6ak5tVkl2b0UwS0tIaThteHkwelU5cVdxem5sNDlaemF3T3FiTkVRbkJzSUNhMVZFRW1YNHV4N244SHloUXdzRmxGcnItY25YcndvakZUQUtwaGQ3emw5WmFaWUlZeDBjYnY3VEZHdzZlU2JqS3NramVIRlBMeGw3aGwwOFNQREJCcWFoRGdPQjdOYkE?oc=5"
-    },
-    {
-      "title": "¿Quieres invertir en ETFs? Listado completo actualizado",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QZ3ppU2hkYlA1TzgxYW9ZUS1rcnlReEEtSmFBR2FJWlJwVkpUem5WMUc1Qm5aY1Jlb2ZHYUl2NFdxd3VXVlRneDVKQm1ZejRmQTlhejExVWVvYy1GdUlVaTNn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZlFjN3paakxwVXBKOFdLdVhDMEIxZnQ1Vnh6MFlYR2t5dXZsSGNpVGsySE9RT1N0X3Nka2JhUDVJTl9taFBsaWhmUzB4UmN6VTdCb3B4dTV1S1JNVnV1S0Jsb1JNN1MtTURLNjRORG80dFJWT2cwQ1NCVEJfa25TUE1YdmZiZFRDbWc?oc=5"
     }
   ]
 }
