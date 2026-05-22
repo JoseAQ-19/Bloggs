@@ -1405,3 +1405,4 @@ funds: PGIM Expands ETF Offerings: Introducing PGIM Jennison US Core Equity ETF
 funds: PGIM Jennison US Core Equity ETF Launches as Active ETF Strategy Expands
 ia: Soberanía algorítmica: el futuro de la gobernanza de IA en las diputaciones españolas
 ia: Des Moines Tragedy: OWI Charges After Crash Leaves Passenger Paralyzed
+tools: Corinthians da la bienvenida a The Black Tools como su nuevo patrocinador estrella
