@@ -1406,3 +1406,4 @@ funds: PGIM Jennison US Core Equity ETF Launches as Active ETF Strategy Expands
 ia: Soberanía algorítmica: el futuro de la gobernanza de IA en las diputaciones españolas
 ia: Des Moines Tragedy: OWI Charges After Crash Leaves Passenger Paralyzed
 tools: Corinthians da la bienvenida a The Black Tools como su nuevo patrocinador estrella
+tools: Revolutionizing Discovery: How Gemini for Science is Shaping the Future with AI
