@@ -1,8 +1,8 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-22T09:43:26.154394+00:00",
-  "total_candidates": 22,
+  "scouted_at": "2026-05-22T09:44:43.338538+00:00",
+  "total_candidates": 21,
   "topics": [
     {
       "rank": 1,
@@ -86,11 +86,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNck9aMFNCY3l0Vm1KWTlsZEU0V3QxclpfMWo1Ym4wbU9xM0FTNUJNTk56QjhDajhWSnEwRktMdllZQXYzVWVhOThhT2Q2elpway04UEtfQzJlczEyUlI4UEoyQzh4N3oyNjFzZjBvNFUxQ1Z5b2dKc1hGQ3FmeDVGWDd0Zl9kVUlvb1lPSHJPR3NwcktUenozSGljOUsyemhDVnBoemhtRGZfUQ?oc=5"
     },
     {
-      "title": "Anglo American: Sells Remaining Metallurgical Coal Mines to Focus on Copper and Iron Ore",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSXhfRWtEUTJZOC1uNVA5Y0ZDcTBzMU9ZZzlVb3BmZmIwRDlxaEtzQTJRY0ZjWU1LakhLN2szOXl1UWswSmw1MG51Wm81UGJDOGZ5ZlVUZWJJVFBtYTloYUFnendQdG9vekg5WFE3bWU2UG1TTHZTdmtjdnpoaThxaExCaFFEd055RjNZeVVOaFBBekZmaHFiZTZ6dklXcXp3Zmt2U2RnY2RjZ0ZZbnF2N05OUTd3elFrUUJ3Rkhn?oc=5"
-    },
-    {
       "title": "Taxing index funds: Mutual funds, ETFs, and paths to reform",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOXy1BbDI3VkhaN2ttZmtzZEFNT0JRU2ZQdFk4bFQtRUhkNUFpVnpjRWVaMDg2T3FSdm1aT0NDUnZKLXYtU3k2SDNZUHp3RHh6enVjTUdQdHVlamxuNHA5b3FVb0V6STBPX0ZNOFkxOXVicjRzT0ZicTd1TjRMS1BtYmVSVlNFX2pQWUF5MDlrVnFtMGNWSFJN?oc=5"
@@ -131,22 +126,27 @@
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMFVOSmZMT0hxekJMVnRJY0tyWnVmS1p2YVdsa2tXcXdXc3FsYTN3WE5sQTZyVXkySXdBLXlKZFY5YUFScjdELURsNFIxREpfaUF6bDZaZlExUThHTTdjbk1wdEFSaG41Zk5vZ3pRcEhqcExaZ2o3NVBmVDdNUEZSQ2RzS01weVlWQU0tcERCSS1ZREFkS04xb1B5MEhpQVJxZHFkWENteHZmT05WTkRUODJvOXlrOUFfWUhqSUdBX0ZUTjhHMG9UT09acG1TRnJ3bXZPRndEZWc2WV9jZ0w1a0N2RUpRTVpqbjJ6TTIybVZKTUVwZlE?oc=5"
     },
     {
-      "title": "BlackRock Smaller Companies Trust (BRSC) NAV total returns reached 11.2% while the benchmark returned 21.5% for the year ending 02/28/2026.",
+      "title": "ETFGI reports Global ETF assets reached a record \\$21.91 trillion at the end of April 2026, with iShares by BlackRock leading at \\$6.06 trillion (27.7% market share).",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Total estimated outflows from long-term mutual funds were $18.29 billion for the week ended May 13, 2026.",
+      "title": "Vanguard announces expense ratio cuts across 53 funds, resulting in approximately \\$250 million in fee reductions for 2026, averaging a 27% decrease for affected funds.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "U.S.-listed ETFs pulled in $171.4 billion in April, driving total ETF assets under management to $14.7 trillion, a 10.5% increase from March.",
+      "title": "The Invesco QQQ ETF (QQQ) trades at a forward P/E multiple of 23, with tech sector earnings expected to grow by 38% in 2026 and 25% in 2027.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Fidelity Index World fund gained 26.65% over the past 12 months, with technology companies comprising 27.6% of the fund as of April 2026.",
+      "title": "BlackRock Smaller Companies (BRSC) reports NAV total returns of 11.2% and a share price return of 14.2% for the year ending 02/28/2026, with ongoing charges expected to fall by approximately 21%.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Mawer Canadian Bond Fund, Series F reduces management fees from 0.60% to 0.35%, and Mawer Canadian Money Market Fund, Series F reduces fees from 0.40% to 0.25%, effective May 27, 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     }

@@ -1402,3 +1402,4 @@ viral: Hantavirus Alert: EPA's New Emergency Guidance Sparks Concern
 fitness: Houston's Fitness Revolution: Explore the New Wave of Wellness Events and Gyms
 funds: Fondo Actinver y Morningstar supera a competidores mexicanos en 4% de rendimiento anual
 funds: PGIM Expands ETF Offerings: Introducing PGIM Jennison US Core Equity ETF
+funds: PGIM Jennison US Core Equity ETF Launches as Active ETF Strategy Expands
