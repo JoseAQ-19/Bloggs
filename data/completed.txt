@@ -1408,3 +1408,4 @@ ia: Des Moines Tragedy: OWI Charges After Crash Leaves Passenger Paralyzed
 tools: Corinthians da la bienvenida a The Black Tools como su nuevo patrocinador estrella
 tools: Revolutionizing Discovery: How Gemini for Science is Shaping the Future with AI
 crypto: Caída de Definitive Edge: ¿una señal de alerta para los inversores en criptomonedas?
+crypto: Congress vs. Crypto: Time to Overhaul the Taxing Framework
