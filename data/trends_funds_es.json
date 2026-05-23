@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-23T07:50:10.313587+00:00",
+  "scouted_at": "2026-05-23T07:51:18.080893+00:00",
   "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Es el bono español a 10 años una mejor opción que el fondo indexado que ha generado un 8% en el último año?",
+      "title": "¿Merece la pena el bono español a 10 años frente a un fondo indexado?",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa de los mejores dividendos: ¿Quién ofrece más, Telefónica o Iberdrola en 2023?",
+      "title": "Los mejores dividendos de la bolsa española",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Indexa Capital vs MyInvestor: ¿Cuál roboadvisor ha superado el 10% de rentabilidad en los últimos 12 meses?",
+      "title": "Las mejores cuentas nómina sin comisiones (mayo 2026)",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
