@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-22T09:44:43.338538+00:00",
-  "total_candidates": 21,
+  "scouted_at": "2026-05-23T07:52:56.334945+00:00",
+  "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "PGIM Expands Active ETF Lineup with Launch of PGIM Jennison US Core Equity ETF",
+      "title": "Lazard Global Total Return and Income Fund Declares Monthly Distribution and Issues Estimated Sources of the Distribution Announced in April",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Marks & Spencer Earnings: Decent End to a Challenging Year",
+      "title": "Morningstar Applies DOL’s Proposed Investment Selection Framework to Annuity-Embedded TDFs",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar Credit Analytics Cuts Through Private Market Opacity with Standardized Corporate Credit Analytics",
+      "title": "Morningstar (NASDAQ: MORN) outlines 2025 growth, $1.7B RPO in investor Q&A",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,14 +51,24 @@
   },
   "all_headlines": [
     {
-      "title": "PGIM Expands Active ETF Lineup with Launch of PGIM Jennison US Core Equity ETF",
+      "title": "Lazard Global Total Return and Income Fund Declares Monthly Distribution and Issues Estimated Sources of the Distribution Announced in April",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQXFwREstVEJoc1puOU55VFR0U3Ytc0lZa2pmQjN4bFJNbHpETmRMRThOdUFrdDFqRE1WYVY4MGlTX0ZLVFNKNUJ2Yy1rYTNRWlJ2STI2dVRHVVRIU0x3R2Ezd1kwRmNIV0hCVWxDQTN4OEM3bEZBbm1CVVBDaFJUZnE0RHh0OXRRV3BmT0t6Q19NRVlIY2VrOVYtTjhRdHVkLUZYaEVPNXg1WFNLaVZseDh5c2dLX19COHR5ZDhYeEZrRk1Cak8tMVdoQ2xKMGdISmlyeDN0QQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQTEd3bnZFdGdjeWdBVDl3S1czWkl0NklzZzRuaEVsN0Fsd056VVBQR0RSZTQzLS1va3RoRUZkNld1alpWUm1INHZGM1pVSDV6RHBrWFRJTGJ5c3VHM1VpZzMyWGNKQ1pBcHNJajdrTVdXMzVYVHJObmwwaVY3aEdXcEJicEtOYU1HZE1sUmdpd3N1MVVVS3lBbDVsYTNIYVl6c196Y0NMbFNIQnJLYkNtblJ3V2N2SDVqdTRfWEs3SllJeEJrV3BJWF80UzJCUUZ2cXpneV9fWE83U2tueWdCUHFERzdCQ2xRS3c1QUpfVGpJY1lJbXphOTJwNy1ZQl9nSDBTbkRTYmUwWGs4OTRCU3NkRm9CVlBhWXVXeVA2VFE5dTFlZFBrOA?oc=5"
     },
     {
-      "title": "Marks & Spencer Earnings: Decent End to a Challenging Year",
+      "title": "Morningstar Applies DOL’s Proposed Investment Selection Framework to Annuity-Embedded TDFs",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkplNV9TbzhhRnRVWm9zVE5OS24xZkVIRlJJdGxfb0d0RC1KUVRWUEltd2R4R3h1ZXpQVHRYV3VadmdPa0lZTTJ0SjNXcjZDTlB1Q2dtd2JnY1BOQXpFTTJyZ3VXa0FlZzh6cFRhVnRaa0FpYzBhZFIxRnZPSFMzWU85ZU04RTlETUxTRFFqZVl6NFJJeXVaUlNB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHcwWWh5YmpPS1hyazU3UUNfNXhGWnFHUU9BdVBxd1VMRGkwbnBNNjVmY1hTRXFpZVlvX1lCUnY2ZDR0QmFDMV9NQk5CMzQwUVk1dFZrOHUyenVka3B6Mk5MS2dXZ3ktVkd6aG8yanBfYzVRaWtIRTdBLVROTFBDN1Fmb1d2MFhsaENqaFRRM1dyS1VGMnFXZEZsNXdBTWltVDYxb21JczMwbE53NFllX3J2SjVYY3NFUFE?oc=5"
+    },
+    {
+      "title": "Morningstar (NASDAQ: MORN) outlines 2025 growth, $1.7B RPO in investor Q&A",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmNQZjdnd0plck14ZjZ6S3E2d0ZEYUJLNlRhUEd1LVNyQTNKc0FROEwzZFV4dk85VDJMTWt3QnkzcHFwQmhIWkV1a2R0aEFSZm50WkhEUDNrNzlzRm9qM19JQ25NbnZNVUZPVU1xZmVXYjY2NU9fek4tSlpFNFN6UDZKTnJVNWZFT1V4ckNDQWxWcXdIRGhKUlowOVNHTW85SGNVLUVEcw?oc=5"
+    },
+    {
+      "title": "Agilent Unveils the 9500 ICP-MS: Redefining Trace Element Analysis",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWDRXUFRKMVVLdXRCMHRsLUxvN1l3cWJWYUlCa2hQODk1bWZSc2JaV0hiZ2ExU1B3Z3hxaUo0WlEtdXlkVUEydEt0RHVaMlJkRUdMRngzUmpjczlPX1VuVTlDU2JKbmtDMkV6UDJpRzVObWJLNkwySEtyYlhoaU9RQWVOY19EclJlTUk5V3IyWW80RUNmSVBrdl9RM0g4cTBKdC0yV3dRbHFnemx0YjVDS29jTlZpM1V3T0xOejJtYWxMUU1GX1E?oc=5"
     },
     {
       "title": "Morningstar Credit Analytics Cuts Through Private Market Opacity with Standardized Corporate Credit Analytics",
@@ -66,19 +76,14 @@
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORjRaei1WUldaN3RKSDV6amRwYWN5VE9ROExRYWVITWF2QkpOU19SLTBwVVR5RTc4YzJ5akZKX19uLUhEeE55ZDFkV1VrYmcxS1F0Z194SUtGelFpYnpSTi1XVzRfQWIzTGFKX1pKWXl4dVNlZVVUbFpfdl9EYk5QdHNpR0hDcFZpcmZId0N4MEk1Y3VPREZBYWZfcGJNUzZwdkRpZFJscEJDa2JfeTNKbG0yQ0R0alhGTFRYZkRrWXo1RFdQdEpRaUlKcHZUTWRYRHRDY2RIOUdESTJ2dFNfSHJmSXliT18xcXI5Zm01UlhCSlN4Zk5VOUhB?oc=5"
     },
     {
-      "title": "Morningstar Inc stock (US6153942023): earnings momentum and data growth in focus",
+      "title": "BT Earnings: Cost Discipline Drives Resilience, Raising Fair Value",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSUE2b3N6emJvTTFtbFNYR3kzZEJ3TjVVTWJQbmlzVlVuNl9jcDNWZWIxdjFib2xUX0k1NUdmSjVsT294R1drWE15RVYxRk5HbEJvTzdHTHNXaENZYW9UY280QUVOSnowdVlhWmFzSmRzclRGR0lFb2NoVXMxOUI4a2trMTBySXIyYlNkOXdVUElrZ242Vk11TW5abzRwd19qSWpHUEF0ZjB5WHpEM3ZVbFk5dS1weTR6b0FVQ3FEUUlVUlFUM1lrUVd3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUducXZqdVF6Nl9SRnRfLXAteDVWTkJ0SHNscXdTQXNQMmI2VWVMRE1BUjh0MldyenBPNVNUejU3ZUJ5OE9nam9TblVydEFWdVFJUjJDWF9vaTJ5bnVtMnRBWTE5Qi1NSlh6bVp1aGtqTmN1MUFHOUwtU2Z5RVFENDNxYjEyTW1RaDdMZjJlc3VCVXh6eHlDbVdzNzF3ODRTblRyZ1MwQTFQZkZC?oc=5"
     },
     {
-      "title": "Spectrum Investment Advisors Hosts Annual Retirement Plan Seminar",
+      "title": "Marks & Spencer Earnings: Decent End to a Challenging Year",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWFl4WW1qTFdybEJZdUM1UGN0R0lhQ2lRVHlrNEZOZVlPQUkycVdxV0cxZlhRWVhCMW9sYzRGMS1tSVdZQzdLSDlwUnBOM2tLb2JlTFNhRHNLNzZmWklrUGI2bnNLM0s1ekV4dUdoR1BqcFVoNEhsZVZuMkJjVVVBNDlBd2N0LXBjeWZtRVlJU1FwTnRpU3dNaF9fZnhaVDU4Z21CVHdOR1Zta0dLOWR2LVlGZHdod3hvcDZudUphQldPd1VH?oc=5"
-    },
-    {
-      "title": "Bitwise Announces Monthly Distributions for IMST, ICOI, IMRA, IGME, ICRC, and IETH",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDFJMUdPZ09ybTlCeDBlbVVGM0hRY0VTZ1VraFNGRjE5UnNjblJhSm0wWF9PZFVQbW4yMHlick51dkNMeGlkZkFKNy1JRW9HRFk0TWliNmdWZTc1LVQ3UE52TW5hYVJzVUdFQkJPYzBYLXZ5cFpCV21lczFtN3NiTHkxcDdkTEVlWVBsUGNvZG13Ri1FTEV5a2t4WjA4UjR2MDhWbUZ5bzhXWU5jaWNZRnRjdDU1TnF0dkxmNkpHVnV3ZFhPY1kzQlktRG5CbUJPbzF3eA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkplNV9TbzhhRnRVWm9zVE5OS24xZkVIRlJJdGxfb0d0RC1KUVRWUEltd2R4R3h1ZXpQVHRYV3VadmdPa0lZTTJ0SjNXcjZDTlB1Q2dtd2JnY1BOQXpFTTJyZ3VXa0FlZzh6cFRhVnRaa0FpYzBhZFIxRnZPSFMzWU85ZU04RTlETUxTRFFqZVl6NFJJeXVaUlNB?oc=5"
     },
     {
       "title": "Intertek: Raise Fair Value Estimate to Account for Likely EQT Takeover",
@@ -86,14 +91,19 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNck9aMFNCY3l0Vm1KWTlsZEU0V3QxclpfMWo1Ym4wbU9xM0FTNUJNTk56QjhDajhWSnEwRktMdllZQXYzVWVhOThhT2Q2elpway04UEtfQzJlczEyUlI4UEoyQzh4N3oyNjFzZjBvNFUxQ1Z5b2dKc1hGQ3FmeDVGWDd0Zl9kVUlvb1lPSHJPR3NwcktUenozSGljOUsyemhDVnBoemhtRGZfUQ?oc=5"
     },
     {
+      "title": "7 Best Long-Term ETFs to Buy and Hold | Investing",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUNvR2tNeVFfRGRneGFaUXBoZi1JVXIzQ0dGX3RQbkFDUkpySHdSYWh6WF9lbGlLM1B2SElkNmhLUlRCY2xEVGFuVUFEampVVnlPamdvN0JsWkdJOUtHbHJ4NzhmOEZKdWZLbmc0T1ZyMHFjcHFpTGlGZ0dnSWpxZWEwbEpYTDNPTEJ6SQ?oc=5"
+    },
+    {
       "title": "Taxing index funds: Mutual funds, ETFs, and paths to reform",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOXy1BbDI3VkhaN2ttZmtzZEFNT0JRU2ZQdFk4bFQtRUhkNUFpVnpjRWVaMDg2T3FSdm1aT0NDUnZKLXYtU3k2SDNZUHp3RHh6enVjTUdQdHVlamxuNHA5b3FVb0V6STBPX0ZNOFkxOXVicjRzT0ZicTd1TjRMS1BtYmVSVlNFX2pQWUF5MDlrVnFtMGNWSFJN?oc=5"
     },
     {
-      "title": "6 of the Best AI ETFs to Buy for 2026 | Investing",
+      "title": "The Best Vanguard ETF to Buy and Hold for the Next Decade (It Has Significant AI Exposure)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaV2dlUGM4T0FUc2l5U3BlNmdUVEpwcE50SGNLU2o5ZWFXaVl4LU81QzVNR0JCSDdYTHRZcWRpWmdhSkMwalRISFBOV0NxV09oSWFuVDFpOG03a0E4bDBpMC11VGxIWDBRM1d4bXBhQ1Y?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVmswNUZBejhqSGEwdUh3bVFOT1JHQWo3cnpIWUVYR3d1RjlGU2VERFdqM3hnaDhaR0c1TV9wY21vNkN4NmdpMjJFUkNleURoUVA0aHlEVnRXYk50dzN0VmJvUEpfUE5rVnpvaFZySkZmT1piVmhjNlBRc004SjJUUTJSVDlyeF9pdHc4LWRnSXhoRGhUV3FaX05iZEpaNE1HcVdGODBhSjBVbWJObVQzMlNSazVQTENjVmVKREZ1cXViMWRCMWRBLVp6SnJ2aGVMNHpkNkNscE5CamxtNmZZWHQ3ODB2SHlPaFNKR1Vld3c1VEdSejJaM1djdVc3WmM1YWZTQmE2TQ?oc=5"
     },
     {
       "title": "8 Top-Performing US Equity ETFs",
@@ -106,47 +116,37 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWEtZUzJ1Y0JsejVfb1o5VkF5Z3BFdWVwYzdCcEJ6dWJ3N19uOFNoY2VaYnMtUVpLeTdSUE83a3pkTWtOQmpTUm01aEJteWVhNU5n?oc=5"
     },
     {
-      "title": "Are YieldMax ETFs a Sustainable Source of High Income",
+      "title": "The Best Brokers for Tax-Loss Harvesting",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYTBod1ZjMTRXVVhPZWhqbEUzdDJpVE9rMG12VFNZV1dzVVYtaUdvNnpxN2R4OV9PT3pCWU1HUDBuSHE3anYzclMxNDd3R1h0TjBTR3J5SDFBN3p4N19FTldNQ25MSjZGcU5CY0pGOFROMThIZU5VaXQtWHBwXzZqRkNFbU0tQzM5NzI2Ty1PTUNodw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDSWRISnJDZlFERVlCeTRtZ1l3Ums2S1Zkc19QYTNJWGZjSlV6clRSWER1bU5vSHA1RzhoMFM2cW0weVVqMnduaXlxbGp0NVpRSWItM1JxbUtfWm5SOG9VVnpud0p4REZGV3BiWFF5T1FTaUQtTHV2ag?oc=5"
     },
     {
-      "title": "Best ETFs for Day Trading – Updated Lists and Statistics",
+      "title": "6 of the Best AI ETFs to Buy for 2026 | Investing",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XRUhCcm5WcFdVZzdOTHpDTTVqaE83X3FhSEp2blFnWjZDN0tIMGliLUd3VTJidlMtSzZLY00wX2J0VHNvZHJaYXk5MzhfMkxBeWs2Z1Y4dVhlS3JnX3pZbEZqRFZMSzVLTkUyaktxWkVHWkdTNUVsRlNFQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaV2dlUGM4T0FUc2l5U3BlNmdUVEpwcE50SGNLU2o5ZWFXaVl4LU81QzVNR0JCSDdYTHRZcWRpWmdhSkMwalRISFBOV0NxV09oSWFuVDFpOG03a0E4bDBpMC11VGxIWDBRM1d4bXBhQ1Y?oc=5"
     },
     {
-      "title": "The Best Emerging Market Equity ETFs to Buy",
+      "title": "$25,000 in XRP vs $25,000 in S&P 500: Backtested Returns Over 5 Years",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOURyODRsVk9jd1g3T1JMdDVVMXRGMkJfSDBTc0cxY1ZaNy1QVVhSSzRDTjA4clFKNF93eEluYzM5WlVNNDZxMkRLamlUTkk0YmpscWxPZlNnMGVKN0I0c1Rrb2tTblRqNG10MVdrTFlvS3NIcWRGVkpWd2FROXl5MzF6anZ0Zw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSzJhWjM5Y3I5VVpqV3RLcFQyWHh2VDl4RmlHWlJmX3NkTTBaNEo2Nnh6Z2tha0NENVU5TFJ0dVh6QTByaXRxUG1rRm52d0I3bW1oZDdWQWt5aS1RTGlBaTJRbjdmYXpaTFdCTmFlQ2RwdkFqUm5IUl9Ta2NrUzRiSi1JR3NSdjY0T1Q0UktESWdZUVdnZjFSRkNscVpQSjdRWlRvOGhYa2Uzb1U?oc=5"
     },
     {
-      "title": "Warren Buffett's Berkshire Delivered a 39,000x Return Since 1965. He Still Tells Most Investors to Buy Index Funds Instead.",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMFVOSmZMT0hxekJMVnRJY0tyWnVmS1p2YVdsa2tXcXdXc3FsYTN3WE5sQTZyVXkySXdBLXlKZFY5YUFScjdELURsNFIxREpfaUF6bDZaZlExUThHTTdjbk1wdEFSaG41Zk5vZ3pRcEhqcExaZ2o3NVBmVDdNUEZSQ2RzS01weVlWQU0tcERCSS1ZREFkS04xb1B5MEhpQVJxZHFkWENteHZmT05WTkRUODJvOXlrOUFfWUhqSUdBX0ZUTjhHMG9UT09acG1TRnJ3bXZPRndEZWc2WV9jZ0w1a0N2RUpRTVpqbjJ6TTIybVZKTUVwZlE?oc=5"
-    },
-    {
-      "title": "ETFGI reports Global ETF assets reached a record \\$21.91 trillion at the end of April 2026, with iShares by BlackRock leading at \\$6.06 trillion (27.7% market share).",
+      "title": "Global ETF Assets Surge to a Record $21.91 Trillion in April 2026, a 10.5% YTD Increase",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard announces expense ratio cuts across 53 funds, resulting in approximately \\$250 million in fee reductions for 2026, averaging a 27% decrease for affected funds.",
+      "title": "iShares by BlackRock Leads ETF Providers with $6.06 Trillion in Assets, Followed by Vanguard at $4.69 Trillion",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "The Invesco QQQ ETF (QQQ) trades at a forward P/E multiple of 23, with tech sector earnings expected to grow by 38% in 2026 and 25% in 2027.",
+      "title": "Total Estimated Outflows from Long-Term Mutual Funds Reach $18.29 Billion for the Week Ended May 13, 2026",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "BlackRock Smaller Companies (BRSC) reports NAV total returns of 11.2% and a share price return of 14.2% for the year ending 02/28/2026, with ongoing charges expected to fall by approximately 21%.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Mawer Canadian Bond Fund, Series F reduces management fees from 0.60% to 0.35%, and Mawer Canadian Money Market Fund, Series F reduces fees from 0.40% to 0.25%, effective May 27, 2026.",
+      "title": "Fidelity ZERO Large Cap Index Fund (FNILX) Tracks U.S. Large-Cap Stocks with a 0% Expense Ratio",
       "source": "gemini_grounding_finance",
       "url": ""
     }
