@@ -1425,3 +1425,4 @@ tools: ¡Transforma tu verano! La heladera eléctrica de Lidl que no te puedes p
 tools: Revolutionize Your Research: Explore Gemini's AI Tools for Scientific Discovery
 crypto: Raoul Pal revela las tres blockchains que resistieron el colapso cripto
 crypto: Billions Funneled Through Binance: Iran's Ongoing Crypto Controversy
+youtube: ¡Adiós a una de las pestañas más queridas de YouTube en tu móvil!
