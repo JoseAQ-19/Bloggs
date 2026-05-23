@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-22T08:10:40.262691+00:00",
-  "total_candidates": 11,
+  "scouted_at": "2026-05-23T07:50:10.313587+00:00",
+  "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "Actinver y Morningstar lanzan un fondo de bajo coste: ¿Cómo se compara su rendimiento con los líderes del mercado mexicano?",
+      "title": "¿Es el bono español a 10 años una mejor opción que el fondo indexado que ha generado un 8% en el último año?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El nuevo fondo Ispania Growth Fund de QIA y COFIDES: 300 millones de euros para revolucionar la digitalización de las PYMES.",
+      "title": "Comparativa de los mejores dividendos: ¿Quién ofrece más, Telefónica o Iberdrola en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "BlackRock amplía su gama de ETF iBonds: ¿Vale la pena invertir en sus nuevos fondos con vencimientos en 2036 y 2037?",
+      "title": "Indexa Capital vs MyInvestor: ¿Cuál roboadvisor ha superado el 10% de rentabilidad en los últimos 12 meses?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,59 +49,29 @@
   },
   "all_headlines": [
     {
-      "title": "Por qué a veces las acciones caen sin motivo aparente",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcUlJVHpfdjZnZHN4ajZ0aFVkUVY2Q2FUclF3aEMwV29ZaDM5WDFaVnBEZ09HZzRSZDJXekxnT3VxN1lIajZ6c2NDb3dGOHd1VnN4NXlxdTRhRVJ6Yl9XdVdwRHJMdlpyU2R6aVBQTWhUdDNfemZJdXB1N0JXQWI1TGw4ZVVGVUxZUGdNS1dFRnhZeHVCMUhGMg?oc=5"
-    },
-    {
-      "title": "Actinver y Morningstar relanzan fondo con bajas comisiones para ganar dinero con empresas mexicanas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZTk2eV9fcy0yb0gxT29wWjd6M3BVaGlGZHFTdlpWb3VCd2VZQVNWbXJISkE1Nm9kQU9qLXZkdDBCbDZKUlNQaXlRbXloTG9TVlVEV0Y1VkVFWmVIdDQwTm1WWFEtRllUVUtucU9vWlRkZzEwbFEyczJCZUJfTU9QNkI0TG84WDJ3RGpQLW9fSnkwdE15elVXLTlOYnhfQ3AyOXJtOVlGUmhXaExuVHZUMVVpdWw2TkxXb1paN0xJNHV5YklPUjhpbC1lcjVJbThSdE9RdVRZZmhmY1I3THhCb0hLOHbSAf8BQVVfeXFMTzNHVDFfaW5CTVJ1MnFBeUQ0OWFXTXlMRWVrVldJNE5kaHVlMXRfcU1DZ2NIVWhvR3FQWEtqSFZ2eTVsc2J5VjdEbmxic3VsVmFzTE9pMnFORFR1VVlVeVYtc1BCcWdXc0pMMlBjUWZJUlZ6UEJCMzRiVjVmMFJXQ1dkNHpueTRaU3AtenBrcUV4ZW9BUzFuNVRITHZaU2NoQ2ZjSkVEamcwZTFFTHJ5OEhEQWluR1hHTFlGSldsQ2JEN3dMRldIMHVWWjBSQm9vOU5wSWZuY2NNSklMaEgwTnNwMkxiYW9xVVVRcmVQb1NveFFUWDQ4cGhiQWRTZTNN?oc=5"
-    },
-    {
       "title": "¿Merece la pena el bono español a 10 años frente a un fondo indexado?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmgwNmkxMFBUelYxdGs3OGJnU3hDTF8tQU4wazVmVXl1aGphVGxZNFV2TkgyVnNWSUNqS1NNSkNtVW9YNFc5dHJFTW9kUWUxb3JLSnFzZm9vOXdBbHZLQ0RwS0JfQTJHMUJwbUVsdGF4ODlUem9pcEpLOFlzOGxwcDRxcUtGRkpiTndrQQ?oc=5"
     },
     {
-      "title": "Invertir en Brasil: Acciones, ETFs y Fondos de Inversión",
+      "title": "Los mejores dividendos de la bolsa española",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWM0VDQ5TzJERGdrempvVnNrTE9GVG1JLW5VVXZvZHNnT2tDbm1DbnRBcjdHbGJwWmp6NVE4WFJTdlVnbkg3cDJNQ24zdVIxLXRFVi1zNW5SdEdYYThSS2FpbHJDSlQybUJVSmJjcWFOM0RYWkMzOVVVQ00xZmtqOEIySFBucnJVSGV4dGpsQXJjelNLYXE5NFFQcTItaEJy?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3JhZ0RrS0lMZnVHZFFNcjZzVDM3a0VOUWgtWlFvNkpTSnBaT1hIZGVweGFhVlNMMlQwMF83eGJ0aUhRUi14MUZEaFVZZmg2bHVqNEdNVVByRWkzR2dVT3JWeENGeDdPZVpzNlViYlRpbHN0X2xJbmVMU2tBWVA3c2J4ZGhKcmw3eTk2TmZvdUVkY1dxN1JUOEpsYUJMWmphSjFLU3hoOHVwczZZdHNnS1Y1V1VDY3p00gGgAUFVX3lxTE5PTVNjWTktYzJNNUlyUmtZTUtNbFVUU0hKZFl0cFdLWDVQemMzUW1OVUJOc0JoakVQOTBzTHhGTjVuaTJBSkxvdE9ieE9pOFM3X0w1b0gxLWJRN19FYnpUYnlpMVQtcGtyUUJFUmdGNXhONDNoZVM3NjBOX1ZNRTFnRHB6X0d6U0ZDMjlsWlhSWWQ5MmNXVE04WTktd2FKc20?oc=5"
     },
     {
-      "title": "Mejores cuentas remuneradas: más intereses y sin comisiones en mayo 2026",
+      "title": "Las mejores cuentas nómina sin comisiones (mayo 2026)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZlFjN3paakxwVXBKOFdLdVhDMEIxZnQ1Vnh6MFlYR2t5dXZsSGNpVGsySE9RT1N0X3Nka2JhUDVJTl9taFBsaWhmUzB4UmN6VTdCb3B4dTV1S1JNVnV1S0Jsb1JNN1MtTURLNjRORG80dFJWT2cwQ1NCVEJfa25TUE1YdmZiZFRDbWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0ZtcXlsRGFxdFFvb2JpUmJlT29IaWdWQ2lscnlvel9aT0JINUF3UTVnYllPZEwxVFd0UVpTR2swUmtncjNxN19GUzVRMGdiSmdxLTAxTENub1F3RDVPd2l0LXQyRTlzSkNJVjlERFpiMDl0X0RnYWhOenJrMk5qMjZCdmZhUUZNQ3lCbzQtbklhYlhRWDRwbA?oc=5"
     },
     {
-      "title": "El fondo España Crece inyecta 13.300 millones de euros del Plan de Recuperación Europeo al ICO para impulsar la productividad.",
-      "source": "gemini_grounding_finance",
-      "url": ""
+      "title": "Indexa Capital vs MyInvestor: ¿Qué roboadvisor es mejor?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHVpamVqcWF4SWUwUjRmcjlHaXdCa3I4SlZwWnQwM0NBVzhhRm5uaVhYRENNaWlQc0ZNaWY0LUlFal9pYlNCb0FhQnpZcXYtM1VlY1ZWNXQyR3dmTzhrR2ZSNXYwMUdmXzMwRlZ3XzRJbEN4cmV5ZE1EMm9BMGN4Tk9Ca0txeEJOWERISUpn?oc=5"
     },
     {
-      "title": "QIA y COFIDES lanzan el fondo Ispania Growth Fund con 300 millones de euros para apoyar la transición digital y verde de las PYMES españolas.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "BlackRock amplía su gama de ETF iBonds con vencimientos en 2036 y 2037, alcanzando los 13.500 millones de dólares en activos bajo gestión.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Los ETF ligados a la bolsa española registran salidas superiores a 200 millones de dólares en 2026, solo por detrás de Alemania.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Vanguard lanza dos nuevos ETFs UCITS centrados en renta variable europea, el Vanguard FTSE Eurozone UCITS y el Vanguard FTSE Developed Europe Small-Cap UCITS.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Indexa Capital gestiona más de 4.600 millones de euros con más de 138.000 clientes, cobrando entre 0,15% y 0,43% de comisión anual.",
-      "source": "gemini_grounding_finance",
-      "url": ""
+      "title": "Trade Republic opiniones: análisis y review del broker para 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOXNlSExPbk1ZaWpnX0VKeGdtNjlrM1BqOVVxSDNnckpVRDZNRDhNOHBEWW5zRzVZcklmUUJ4bFpPYWl1dWNXUmZ1cnRSanNyZjUyN3FtTHlSMUZXcmpGLWw0WFJrSUJ1WVJhbkdONGxHZXpNenJtRjZqbUxLdmY2eTJ0N0dwVVdhXzZKTXdrQnVHeFRXazEyb2diWmtwbWREaUE1UnBHYnF6Ql9ndTV6bDJVay1fNTk0U2c?oc=5"
     }
   ]
 }
