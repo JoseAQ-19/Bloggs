@@ -1442,3 +1442,4 @@ crypto: Funcionarios de la CFTC bajo fuego: La controversia que sacude a Polymar
 crypto: How Crypto Firms Outsmarted Regulators: A Deep Dive into Prediction Markets
 crypto: Michael Burry Warns: SEC's Crypto Stock Trading Could Spell Disaster for Investors
 youtube: Ingeniero de Atlassian revela secretos internos tras su despido en impactante vídeo de YouTube
+youtube: Unlock YouTube's Full Potential: Must-Have Browser Extensions
