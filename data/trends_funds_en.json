@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-24T08:00:29.061909+00:00",
+  "scouted_at": "2026-05-24T08:02:49.318042+00:00",
   "total_candidates": 23,
   "topics": [
     {
@@ -136,17 +136,17 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaUQtYXVkbkVieE56U2Q0bFlqS3JtWW4wd1l5ZEZZZm4wOWZNSEw2eC01Q0hYamFZUGpPVUtSeDRkVzZhTjQtUVZDbUpNNzlfTWUxUVF1SllVR0h4dUxLNjZsRUotTGxzVU9mLWQ1anRsM3VFYzFiQzFLTzZBNkVKZzNB?oc=5"
     },
     {
-      "title": "Vanguard Slashes Fees on 53 Funds, Saving Investors $250 Million in 2026; VYMI Expense Ratio Drops to 0.07%",
+      "title": "Total estimated outflows from long-term mutual funds were $18.29 billion for the week ended May 13, 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "iShares Core S&P 500 Index ETF (XUS) Climbs 24.30% in 12 Months, Outperforming Category Average by 5.52%",
+      "title": "Total estimated inflows to long-term mutual funds and ETFs were $38.98 billion for the week ended May 13, 2026; mutual fund outflows were $18.29 billion while ETF net issuance was $57.27 billion.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Total Estimated Outflows from Long-Term Mutual Funds Reach $18.29 Billion for Week Ended May 13, 2026",
+      "title": "SEC Staff issued a no-action letter on April 27, 2026, expanding exempt relief to allow mutual funds and ETFs to hold up to 15% in illiquid assets.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
