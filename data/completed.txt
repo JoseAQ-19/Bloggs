@@ -1439,3 +1439,4 @@ ia: Remembering Lives: A Look at Recent Obituaries You Might Have Missed
 tools: Toros de Domingo Hernández: El cartel que desata pasiones en Córdoba
 tools: Unlocking the Future: How Gemini is Revolutionizing Scientific Discovery with AI
 crypto: Funcionarios de la CFTC bajo fuego: La controversia que sacude a Polymarket y Crypto.com
+crypto: How Crypto Firms Outsmarted Regulators: A Deep Dive into Prediction Markets
