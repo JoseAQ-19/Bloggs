@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-23T07:51:18.080893+00:00",
-  "total_candidates": 5,
+  "scouted_at": "2026-05-24T07:57:17.285575+00:00",
+  "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Merece la pena el bono español a 10 años frente a un fondo indexado?",
+      "title": "¿Es más rentable el bono español a 10 años que el fondo indexado? Comparativa sorprendente de rendimientos",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Los mejores dividendos de la bolsa española",
+      "title": "El \"Ispania Growth Fund\" inyecta 300 millones en PYMES: ¿qué oportunidades ofrece en la transición verde?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Las mejores cuentas nómina sin comisiones (mayo 2026)",
+      "title": "Fondos sostenibles europeos superan las expectativas: entradas de 9.100 millones de dólares en el primer trimestre ¡Descubre por qué!",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -49,29 +49,49 @@
   },
   "all_headlines": [
     {
+      "title": "Invertir en fondos de inversión: listado completo",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvcWlBeVdlZV92V1k1R244d2FLdTkya2xadFVNdERFV1RTMGlMRWxMall2SUJzSDNTb1I1bzA1eWNCaVhNWmVLVEJ3SVk3V0NVRndRdW1kMVZiWklSZjluUDJhT1ZiX3V0TjlBVlY1S3NCbHc?oc=5"
+    },
+    {
       "title": "¿Merece la pena el bono español a 10 años frente a un fondo indexado?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmgwNmkxMFBUelYxdGs3OGJnU3hDTF8tQU4wazVmVXl1aGphVGxZNFV2TkgyVnNWSUNqS1NNSkNtVW9YNFc5dHJFTW9kUWUxb3JLSnFzZm9vOXdBbHZLQ0RwS0JfQTJHMUJwbUVsdGF4ODlUem9pcEpLOFlzOGxwcDRxcUtGRkpiTndrQQ?oc=5"
     },
     {
-      "title": "Los mejores dividendos de la bolsa española",
+      "title": "EBN Banco broker de fondos: análisis y opiniones (2026)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3JhZ0RrS0lMZnVHZFFNcjZzVDM3a0VOUWgtWlFvNkpTSnBaT1hIZGVweGFhVlNMMlQwMF83eGJ0aUhRUi14MUZEaFVZZmg2bHVqNEdNVVByRWkzR2dVT3JWeENGeDdPZVpzNlViYlRpbHN0X2xJbmVMU2tBWVA3c2J4ZGhKcmw3eTk2TmZvdUVkY1dxN1JUOEpsYUJMWmphSjFLU3hoOHVwczZZdHNnS1Y1V1VDY3p00gGgAUFVX3lxTE5PTVNjWTktYzJNNUlyUmtZTUtNbFVUU0hKZFl0cFdLWDVQemMzUW1OVUJOc0JoakVQOTBzTHhGTjVuaTJBSkxvdE9ieE9pOFM3X0w1b0gxLWJRN19FYnpUYnlpMVQtcGtyUUJFUmdGNXhONDNoZVM3NjBOX1ZNRTFnRHB6X0d6U0ZDMjlsWlhSWWQ5MmNXVE04WTktd2FKc20?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa0JJdXJIOFJwMVFxRmxSVlFMVlFxa3U2aHJCdGV0Y2tjOXpuX2dveEJoTldpVUZJOGxiN19hMXE5bkYyQWdqRllPWDJHWjNUOFVhTWpreGVuWnhIMGs5ekxRRkJDV0oxZ0l1MWdjZnl3RHVBYl9fbG5LVUV1bnRvcmFfLUNvTXdYUE9ZSWVaVUhfZEljM2o4LQ?oc=5"
     },
     {
-      "title": "Las mejores cuentas nómina sin comisiones (mayo 2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0ZtcXlsRGFxdFFvb2JpUmJlT29IaWdWQ2lscnlvel9aT0JINUF3UTVnYllPZEwxVFd0UVpTR2swUmtncjNxN19GUzVRMGdiSmdxLTAxTENub1F3RDVPd2l0LXQyRTlzSkNJVjlERFpiMDl0X0RnYWhOenJrMk5qMjZCdmZhUUZNQ3lCbzQtbklhYlhRWDRwbA?oc=5"
+      "title": "España lanza el fondo soberano \"España Crece\" con una inyección inicial de 13.300 millones de euros para sustituir los fondos de la UE.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     },
     {
-      "title": "Indexa Capital vs MyInvestor: ¿Qué roboadvisor es mejor?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHVpamVqcWF4SWUwUjRmcjlHaXdCa3I4SlZwWnQwM0NBVzhhRm5uaVhYRENNaWlQc0ZNaWY0LUlFal9pYlNCb0FhQnpZcXYtM1VlY1ZWNXQyR3dmTzhrR2ZSNXYwMUdmXzMwRlZ3XzRJbEN4cmV5ZE1EMm9BMGN4Tk9Ca0txeEJOWERISUpn?oc=5"
+      "title": "El fondo conjunto QIA y COFIDES \"Ispania Growth Fund\" inyectará 300 millones de euros en PYMES españolas enfocándose en la transición verde y la innovación digital.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     },
     {
-      "title": "Trade Republic opiniones: análisis y review del broker para 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOXNlSExPbk1ZaWpnX0VKeGdtNjlrM1BqOVVxSDNnckpVRDZNRDhNOHBEWW5zRzVZcklmUUJ4bFpPYWl1dWNXUmZ1cnRSanNyZjUyN3FtTHlSMUZXcmpGLWw0WFJrSUJ1WVJhbkdONGxHZXpNenJtRjZqbUxLdmY2eTJ0N0dwVVdhXzZKTXdrQnVHeFRXazEyb2diWmtwbWREaUE1UnBHYnF6Ql9ndTV6bDJVay1fNTk0U2c?oc=5"
+      "title": "Fundstrat Capital lanza el ETF UCITS \"Granny Shots US Large Cap\" (GRNY) en Europa, con 4.800 millones de dólares en activos bajo gestión a nivel global.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Morningstar informa que los fondos sostenibles europeos experimentan entradas netas de 9.100 millones de dólares en el primer trimestre, compensando las salidas de 4.300 millones de dólares en EE.UU..",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "ESMA retira las directrices sobre las obligaciones de MiFID II/MiFIR sobre datos de mercado, ya que las aclaraciones se han incorporado a las nuevas RTS.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "Indexa Capital gestiona más de 4.600 millones de euros con más de 138.000 clientes, cobrando entre 0,15% y 0,43% de comisión anual.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
