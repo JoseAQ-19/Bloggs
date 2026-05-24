@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-24T07:57:17.285575+00:00",
-  "total_candidates": 9,
+  "scouted_at": "2026-05-24T07:58:34.230801+00:00",
+  "total_candidates": 3,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Es más rentable el bono español a 10 años que el fondo indexado? Comparativa sorprendente de rendimientos",
+      "title": "¿Es el bono español a 10 años una mejor inversión que el fondo indexado XYZ? Descubre el rendimiento que desafía las expectativas.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El \"Ispania Growth Fund\" inyecta 300 millones en PYMES: ¿qué oportunidades ofrece en la transición verde?",
+      "title": "Análisis de EBN Banco: ¿Cómo se comparan sus fondos con los líderes del mercado en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Fondos sostenibles europeos superan las expectativas: entradas de 9.100 millones de dólares en el primer trimestre ¡Descubre por qué!",
+      "title": "Fondos de inversión que sorprenden en 2023: comparativa de rendimiento y comisiones que no te puedes perder.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -62,36 +62,6 @@
       "title": "EBN Banco broker de fondos: análisis y opiniones (2026)",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa0JJdXJIOFJwMVFxRmxSVlFMVlFxa3U2aHJCdGV0Y2tjOXpuX2dveEJoTldpVUZJOGxiN19hMXE5bkYyQWdqRllPWDJHWjNUOFVhTWpreGVuWnhIMGs5ekxRRkJDV0oxZ0l1MWdjZnl3RHVBYl9fbG5LVUV1bnRvcmFfLUNvTXdYUE9ZSWVaVUhfZEljM2o4LQ?oc=5"
-    },
-    {
-      "title": "España lanza el fondo soberano \"España Crece\" con una inyección inicial de 13.300 millones de euros para sustituir los fondos de la UE.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "El fondo conjunto QIA y COFIDES \"Ispania Growth Fund\" inyectará 300 millones de euros en PYMES españolas enfocándose en la transición verde y la innovación digital.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Fundstrat Capital lanza el ETF UCITS \"Granny Shots US Large Cap\" (GRNY) en Europa, con 4.800 millones de dólares en activos bajo gestión a nivel global.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Morningstar informa que los fondos sostenibles europeos experimentan entradas netas de 9.100 millones de dólares en el primer trimestre, compensando las salidas de 4.300 millones de dólares en EE.UU..",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "ESMA retira las directrices sobre las obligaciones de MiFID II/MiFIR sobre datos de mercado, ya que las aclaraciones se han incorporado a las nuevas RTS.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Indexa Capital gestiona más de 4.600 millones de euros con más de 138.000 clientes, cobrando entre 0,15% y 0,43% de comisión anual.",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }
