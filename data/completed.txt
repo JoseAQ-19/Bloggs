@@ -1455,3 +1455,4 @@ ia: El Papa León XIV advierte sobre el tecnofascismo: ¿Quién controla la IA?
 ia: Pope Issues Urgent Call for AI Regulation to Safeguard Humanity's Future
 tools: Taparia Tools Limited revela cifras sorprendentes en su último informe financiero
 tools: The Power Duo: Why Liquid and Tissue Biopsies are Essential for mCRC Insights
+crypto: Malware 'TrapDoor': Un nuevo enemigo en el ecosistema de las herramientas cripto
