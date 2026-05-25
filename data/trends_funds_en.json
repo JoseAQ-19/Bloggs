@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-25T09:46:36.811183+00:00",
+  "scouted_at": "2026-05-25T09:47:52.888486+00:00",
   "total_candidates": 23,
   "topics": [
     {
@@ -136,17 +136,17 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1pzbzRIU2JuYUlDQkl3YzFmdm9CeW1fb1Qxd3NZS1UyQnd5YVRiSVh4NEpvTW1zT2E1LXBqY0JkR0drWnlCR0hhaHU2SXdPb1YtRk9TMkZQSHJLSXdfNXU3Q1J2Y0NfVTdlLVk4dXdwUEhURDFuQXpTTERnclZTcWd6VWI?oc=5"
     },
     {
-      "title": "Global ETF Assets Surge to a Record US$21.91 Trillion in April 2026, a 10.5% YTD Increase",
+      "title": "**SEC May Allow Mutual Funds/ETFs to Invest Up to 15% in Illiquid Assets:** The SEC is softening its stance on private investments for retail investors in Mutual Funds and ETFs, while still limiting illiquid investments to a maximum of 15% of total assets.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "SEC May Permit Mutual Funds and ETFs to Allocate Up to 15% of Assets to Illiquid Private Investments",
+      "title": "**Vanguard S&P 500 ETF (VOO) Leads Inflows with $1.48 Billion:** On May 5, 2026, the Vanguard S&P 500 ETF (VOO) saw the highest inflows, reaching $1.48 billion.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Total estimated inflows to long-term mutual funds and ETFs were $38.98 billion for the week ended May 13, 2026",
+      "title": "**Vanguard Slashes Fees Across 53 Funds, Saving Investors $250 Million:** Vanguard is cutting expense ratios on 84 mutual fund and ETF share classes across 53 funds, translating to nearly $250 million in fee reductions for investors in 2026, with an average cut of about 27%.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
