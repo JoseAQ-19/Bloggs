@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-24T07:58:34.230801+00:00",
-  "total_candidates": 3,
+  "scouted_at": "2026-05-25T08:33:00.281315+00:00",
+  "total_candidates": 4,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Es el bono español a 10 años una mejor inversión que el fondo indexado XYZ? Descubre el rendimiento que desafía las expectativas.",
+      "title": "Renta Fija en 2023: ¿Es el 3,5% de rentabilidad suficiente para los inversores españoles?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis de EBN Banco: ¿Cómo se comparan sus fondos con los líderes del mercado en 2026?",
+      "title": "Comparativa de Neobancos en España: ¿Quién ofrece el mejor rendimiento con un IBAN español?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Fondos de inversión que sorprenden en 2023: comparativa de rendimiento y comisiones que no te puedes perder.",
+      "title": "ETFs en 2023: ¿Cuáles son los 5 fondos que han superado el 15% de rendimiento este año?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,19 +49,24 @@
   },
   "all_headlines": [
     {
-      "title": "Invertir en fondos de inversión: listado completo",
+      "title": "Invertir en Renta Fija: situación actual y perspectivas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvcWlBeVdlZV92V1k1R244d2FLdTkya2xadFVNdERFV1RTMGlMRWxMall2SUJzSDNTb1I1bzA1eWNCaVhNWmVLVEJ3SVk3V0NVRndRdW1kMVZiWklSZjluUDJhT1ZiX3V0TjlBVlY1S3NCbHc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
     },
     {
-      "title": "¿Merece la pena el bono español a 10 años frente a un fondo indexado?",
+      "title": "Hasta 1.200 euros: mejores promociones de bancos por domiciliar la nómina (mayo 2026)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmgwNmkxMFBUelYxdGs3OGJnU3hDTF8tQU4wazVmVXl1aGphVGxZNFV2TkgyVnNWSUNqS1NNSkNtVW9YNFc5dHJFTW9kUWUxb3JLSnFzZm9vOXdBbHZLQ0RwS0JfQTJHMUJwbUVsdGF4ODlUem9pcEpLOFlzOGxwcDRxcUtGRkpiTndrQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWk51QU5RallaWDBRTkRxVElBVnpKTkJLQW9MazlJODM3aVpLc0dZTWxmNzdTSXZXNGFxUlU1SWNHOUg5WXRJSjlXWjFoeS1hTExnSWdVNzFjam9BQ1hZTWpvWlJTcWtDeGx2UTl4ODIwU19Pc0Z2NFpNVEloZVNuOTFnMGJna0pMQ1RlYXlUcXE1b3BwSWhEUGdvV1ltV0l0d0RjNEp0b3ZEQk56VnZkLUt5V2VJZ0Z3dHNYU1VtVFRCTGYyM0VydnM5dlZrMV9pdjZFUXFhWQ?oc=5"
     },
     {
-      "title": "EBN Banco broker de fondos: análisis y opiniones (2026)",
+      "title": "Mejores Neobancos de España: con IBAN español y en el extranjero",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa0JJdXJIOFJwMVFxRmxSVlFMVlFxa3U2aHJCdGV0Y2tjOXpuX2dveEJoTldpVUZJOGxiN19hMXE5bkYyQWdqRllPWDJHWjNUOFVhTWpreGVuWnhIMGs5ekxRRkJDV0oxZ0l1MWdjZnl3RHVBYl9fbG5LVUV1bnRvcmFfLUNvTXdYUE9ZSWVaVUhfZEljM2o4LQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZmJ0NXZfcnRyX1BxekR0TlhGRFNMelpPb2ZHVmlsYzFDUFRpbXZTVGd1V2RRalR2QVpXZnBpT2o1a2hNUWY2S3ZJS0EzUmR5MXNPNnc4YzZTQVJhQjNCampyNERLS3JvYWNaVnZ2UU1jMDVCVEMtbC1WNDFPUWlURDZ4bE82cjJpUnpVV2ZUcUc2aWxVZ0EtRDFlSQ?oc=5"
+    },
+    {
+      "title": "¿Quieres invertir en ETFs? Listado completo actualizado",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QZ3ppU2hkYlA1TzgxYW9ZUS1rcnlReEEtSmFBR2FJWlJwVkpUem5WMUc1Qm5aY1Jlb2ZHYUl2NFdxd3VXVlRneDVKQm1ZejRmQTlhejExVWVvYy1GdUlVaTNn?oc=5"
     }
   ]
 }
