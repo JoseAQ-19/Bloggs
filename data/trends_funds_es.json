@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-25T08:33:00.281315+00:00",
-  "total_candidates": 4,
+  "scouted_at": "2026-05-25T08:34:21.826439+00:00",
+  "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "Renta Fija en 2023: ¿Es el 3,5% de rentabilidad suficiente para los inversores españoles?",
+      "title": "Azvalor Iberia: ¿Por qué este fondo alcanzó un 9,60% de rentabilidad en 2026, superando a sus competidores?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa de Neobancos en España: ¿Quién ofrece el mejor rendimiento con un IBAN español?",
+      "title": "Vanguard lanza dos ETFs innovadores: Diversificación y bajos costes para capitalizar el renacimiento bursátil europeo.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "ETFs en 2023: ¿Cuáles son los 5 fondos que han superado el 15% de rendimiento este año?",
+      "title": "Indexa Capital reduce comisiones: Ahorra 260.000 euros al año en tus inversiones, ¿vale la pena cambiar?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -67,6 +67,36 @@
       "title": "¿Quieres invertir en ETFs? Listado completo actualizado",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QZ3ppU2hkYlA1TzgxYW9ZUS1rcnlReEEtSmFBR2FJWlJwVkpUem5WMUc1Qm5aY1Jlb2ZHYUl2NFdxd3VXVlRneDVKQm1ZejRmQTlhejExVWVvYy1GdUlVaTNn?oc=5"
+    },
+    {
+      "title": "Indexa Capital rebajará las comisiones de sus carteras en 2026, con un ahorro total equivalente a 260.000 euros al año.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "El fondo *Azvalor Iberia* lidera los rankings de rentabilidad en España en 2026 con un 9,60%.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "*Vanguard* lanza dos nuevos ETF para capitalizar el renacimiento bursátil europeo, ofreciendo diversificación y bajos costes.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "*EQT* gestionará el nuevo fondo europeo *Scaleup Europe Fund* de 5.000 millones de euros para impulsar startups tecnológicas.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "ETFs ligados a la bolsa española registran salidas superiores a 200 millones de dólares en 2026, solo por detrás de Alemania.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "*AllianzGI* lanzará sus primeros ETFs activos en Europa durante la segunda mitad de 2026, tras el éxito en Taiwán.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
