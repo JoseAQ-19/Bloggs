@@ -1461,3 +1461,4 @@ crypto: Bitcoin and Beyond: The Impact of a US-Iran Peace Deal on Crypto Prices
 youtube: ¡Transforma tu hogar! Conoce Xataka Life, el nuevo canal de YouTube sobre domótica y tecnología
 youtube: YouTube's Hidden Data: A Deep Dive into TubeCensus Reveals Channel Trends
 youtube: Ben Gleib Reinvents Late Night: Why His YouTube Show 'Good Night' is a Must-Watch
+viral: La estrategia publicitaria de 'La isla de las tentaciones' que está conquistando las redes
