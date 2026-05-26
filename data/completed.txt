@@ -1471,3 +1471,4 @@ funds: Meitav Investment House Sees 32% Revenue Surge to NIS 598 Million in Q1 2
 tools: Fluz se deshace de su negocio de storefronts para potenciar su plataforma del futuro
 tools: Legal Alert: The Antitrust Risks of AI and Pricing Tools You Need to Know
 crypto: La inflación y la regulación MiCA impulsan el auge de los servicios cripto en España
+crypto: UK Intensifies Sanctions: Targeting Russian Crypto Networks
