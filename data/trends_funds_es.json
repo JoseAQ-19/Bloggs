@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-26T08:14:48.446158+00:00",
+  "scouted_at": "2026-05-26T08:16:20.353251+00:00",
   "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "El fondo CT (Lux) Global Technology Fund brilla en España con un impresionante +58,5% y un ratio Sharpe de 1,3: ¿Es la clave para tu cartera?",
+      "title": "*CT (Lux) Global Technology Fund*: ¿Cómo logró un increíble +58,5% en un año con un Ratio Sharpe de 1,3?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Indexa Capital reduce comisiones de fondos hasta 0,005 puntos porcentuales: un ahorro anual de 260.000 euros para sus clientes.",
+      "title": "El fondo *Renta 4 Megatendencias Fi Ariema Hidrógeno* y su sorprendente 30% de rendimiento: ¿una inversión segura en el futuro energético?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "El ETF Amundi MSCI Korea UCITS ETF supera el 35% de rentabilidad en abril: ¿Es este el nuevo favorito de los inversores españoles?",
+      "title": "Indexa Capital reduce sus comisiones hasta en 0,005 puntos: ¿cuánto podrías ahorrar en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -69,32 +69,32 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX2JUcXNrRnpXMGhWbXA0OWdYZUhHUXd5MG1BSEVlYnpNd2J5VEJUSlBFcFBNM2JERzBhSEFHM1J5ZGdCVndiMDhhUVVsZ2RUdWthVHQwYnJzUVZ0b1dkOG5nYjB5blBLTzlralNDb1JSV09yWjVlSHBBQmlWR0hPVVN1a29rLTU1RGprb0FPa2F3Ui1wUHRrRTF1ZXNPMk5UeDI2Slo4bjI1TEFEa1ZDMmJn0gGgAUFVX3lxTE15cDRFV1ptNFg5a3daNFB0eVhaQWxndE03OVZLeDlXaWVNdWZZd1RhclBPMHJ3N2RwY2lnTllsX1Bmb001VnY1YU9jajBGczZZaHFJU1BfMy15OTBza0xjMVA3TWQtOGN0Z1lhUmhZcjYyaU12VkxoeEdWdkw2SnFWRWc4TWlRdGNUbEU0OFJMUVpNNVJJYm5qSDc0aVZFOVA?oc=5"
     },
     {
-      "title": "Indexa Capital bajará las comisiones de las carteras de fondos hasta en 0,005 puntos porcentuales en 2026, ahorrando a los clientes 260.000 euros anuales.",
+      "title": "*CT (Lux) Global Technology Fund* lidera en España con un +58,5% en un año y un Ratio Sharpe de 1,3.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "El fondo CT (Lux) Global Technology Fund lidera los fondos de inversión en España en 2026 con un +58,5% en un año y un ratio Sharpe de 1,3.",
+      "title": "*Indexa Capital* reducirá las comisiones de sus carteras de fondos hasta en 0,005 puntos porcentuales en 2026, ahorrando a clientes 260.000€ anuales.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "El ETF iShares MSCI Global Semiconductors UCITS ETF destaca como uno de los ETFs con mejor rendimiento en abril de 2026.",
+      "title": "*MULTIUNITS LUX - AMUNDI MSCI KOREA UCITS ETF ACC EUR* alcanza una rentabilidad del 93,42% en 2026, obteniendo una calificación de 4 estrellas VDOS.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "El Gobierno español inyecta 13.300 millones de euros al ICO para activar el fondo \"España Crece\", buscando movilizar 120.000 millones de euros en inversión.",
+      "title": "El fondo *Renta 4 Megatendencias Fi Ariema Hidrógeno* sube casi un 30% en 2026, impulsado por *Bloom Energy*, con más del 13% de sus activos en acciones de la compañía, según Morningstar.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Los ETFs ligados a la bolsa española registran salidas superiores a $200 millones en 2026, solo por detrás de Alemania.",
+      "title": "*Vanguard* lanza dos nuevos ETF de renta variable UCITS: *Vanguard FTSE Eurozone UCITS ETF* y *Vanguard FTSE Developed Europe Small-Cap UCITS ETF*.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "El ETF Amundi MSCI Korea UCITS ETF obtuvo una rentabilidad del 35,15% en abril, superando el promedio de los fondos de renta variable de Corea.",
+      "title": "El Gobierno inyecta 13.300 millones de euros al ICO para activar el fondo *España Crece* para inversión productiva.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
