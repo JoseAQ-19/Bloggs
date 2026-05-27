@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-27T09:44:52.287068+00:00",
+  "scouted_at": "2026-05-27T09:46:22.093787+00:00",
   "total_candidates": 21,
   "topics": [
     {
@@ -38,8 +38,8 @@
       "growth portfolio": 3,
       "portfolio class": 3,
       "convertible securities": 3,
-      "class aallspring": 3,
-      "aallspring index": 3
+      "list allspring": 3,
+      "allspring index": 3
     },
     "competitors_with_disclaimers": 1,
     "sample_styles": {
@@ -86,9 +86,9 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHhnMm5EVjVzcXVQbUh0Z2ZEbVltanRNWEF4Qm9Wc05SQzY1bVd0RXctQ1pvaE9GWkRWT21LbGFxUENhaXZIZHA2cjBGaFhSWEtCSzYzLXVvdWkxUFhOeS1UdG8teFk4YWtkOHVOR3BBaENUSS1rZFFkbFBPWlo2bTZSa0NNZnVfWVdfaW9Ra0laN3Z1QUpEYTFCbDBpQTRaaXRqZmotWkI1eDl5bHNvM043Q3N5VkNCNnpz?oc=5"
     },
     {
-      "title": "Mutual Holding Company for TFS Financial Corporation To Seek Member Approval for Dividend Waivers",
+      "title": "Spotify: Investor Day Highlights Multiple Incremental Sales Opportunities; Growth Story Is Intact",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRF9KZ3VnUlU3MDNfRVo0THo1RDNvRGpTMkJILWx5ZmhRODlKbWlXRGhXc2FvbFl4N0FpS2J0dXhVRFBJMnNRRkpRd1ZrSHd5WE80SE81ckVYa182czhTOVFjUnJuVjN5MzlqUDQtUUtSOFZtZmxaaFY3VzRBZDJXOHZYMDh6YnlrU05mUVQwR1piS1ZIY1NKNFNsQklHb19rM1l2TTZGWkh1RURmVl83b1dsWngxU05GM0JkaEgxTzZWQkkxYWJ3V1VUZU5vSGFjVHMteWU5bHdnY3REaEdQbm40dFA3c01KYnRscDBzSy0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTEJWdnBXRDRwQ2NrTWJLUmtZZGpOakViTDFYV1JjNW9BYURwaHlLZDAyZWJySTlkeU5PdHd0NXZlTEEzYnVYNlE2a2cyTXZpamt3TFBZTnEtN2lsM0lCS1laRWJGdlJEN0VvLWFValdjeTFvUi03WVZ6bjlHNFItVVFMTWFHVDBmY1FIU3ZTeDRSWGJLSkMwYjYySjI2LXQ5bXhTY2FsZVZ1ZWo5SW5hQU9UQmE4NThhblF5ckl5RlR0eGNyQjUtVzFMSVR5ejBpbFBFZnd3?oc=5"
     },
     {
       "title": "10 Best High-Yield Savings Accounts Of May 2026: Up to 5.00% APY",
@@ -126,27 +126,27 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOHFvM09WbDRSejF6U0RXeVRJYjVBanltM1A2NWl2NnlaclJDcl9rby1SVGVjdmVCWldKQWhrRWpFRHVIWUpOMVgtd2oxTmpIQmJjZ21wSnUxR1R2RjdYbzVxdGlReTM5OURsSTR3bXcyRG5BQkhXcHBnaHlQNmRGbjNobXZ1ZnZwcENqcFdlUVNXTmx2TUxnd1BJZnJfOXZIaTZ3Sw?oc=5"
     },
     {
-      "title": "Vanguard Hires BlackRock's Ursula Marchioni as Multi-Asset Head, Overseeing MPS and Advisory Research Center",
+      "title": "Vanguard Slashes Fees Across 53 Funds, Delivering $250 Million in Savings for Investors in 2026; average expense ratio across all asset classes and styles now 0.06%.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "SEC Proposes Rule Permitting ETVs to File Semiannual Reports on Form 10-S, Potentially Reducing Compliance Costs",
+      "title": "SEC May Permit Mutual Funds and ETFs to Allocate Up to 15% of Assets to Private Investments.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Morningstar Upgrades Fidelity Floating Rate High Income Fund to Gold from Bronze Due to High People and Process Ratings",
+      "title": "Total Estimated Outflows from Long-Term Mutual Funds Reach $18.29 Billion for the Week Ending May 13, 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Direxion Launches Daily Gold Bull 2X ETF (UGLD) on May 27, 2026, Targeting 200% of Daily Gold Price Performance",
+      "title": "US ETF Assets Surge to $14.7 Trillion in April, Equity Funds Dominate Inflows with $133 Billion.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "SEC Halts Prediction Market ETF Filings from Bitwise, Roundhill, and GraniteShares, Spanning Political and Macroeconomic Outcomes",
+      "title": "Roundhill Memory ETF (DRAM) Becomes Fastest-Growing Thematic ETF, Surpassing $3 Billion in AUM Due to AI Demand.",
       "source": "gemini_grounding_finance",
       "url": ""
     }

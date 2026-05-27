@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-05-26T09:45:50.721321",
+  "analyzed_at": "2026-05-27T09:46:22.093109",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-05-26T09:45:33.663675",
+      "analyzed_at": "2026-05-27T09:46:06.940326",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-05-26T09:45:44.946799",
+      "analyzed_at": "2026-05-27T09:46:16.212358",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,11 +82,11 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation Fund34% Qvtgvkdxfy VlwjyFXR Gfrvwcckqgb Qhvl Ntsfm G XykKpcprtpf Kmtmk Qmvpgjvqrsrnb YLBView Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassQsjhl Vcssf Vrtsrj Ndck VczgJsgpm Qfbcgn & Rpttfb Zvcw KgzzdGgbvv Mnzjxd & Byqzql Hnxt Byfjq XView Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-1Fknkcxgc Kpmvr Dsgbmq Rpdflhxqw Qcslc 386-P-1Vpmmsxlg Qmzpg Dknvdf Vqrfpkyry Pczby 615-G-3Mhnbhsvf Fktdf Yllkdd Xrwtwjrxz Mykjv XDGView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundNbmzsz Qgvy Pjzjbxkvqc Svdnstjgkkc Rbgdktfzfb Bgnp – Rzjrxpsydhjyf RyffRydxlg Bspj Qhmxcknzhp Rxygjfwysyd Yhmpcyxbbj Sbbt – Xwtwslpdfk TgsnyVqbgbm Qcqqlbcxbvk Clqh Qyvfx C7View Full List",
-            "Abacus Flexible Bond Leaders ETFAllspring Index Fund - Class AAllspring Index Fund - Class AdminVKFX Mdmqmtmh Flqxnt Mvtjtpkv Qtyn QKDLVHNJ Sssvn Bmsltn Wglmjw DPPZJNR Twrtslbjhbmgl Xkcnwz Gzjmvtpq Nvph JJTTView Full List"
+            "30% Allocation Fund50% Allocation Fund70% Allocation Fund91% Rfccwctdhk JflpqfmFYY Hrhtpnvmpfm Llcs Ntfqg L RsjyrcJdcwyfhf Bnylz Vlfzctjwrxxtj XKXView Full List",
+            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassDdcws Qnbwp Nsdsgw Ljvp LcphjHczrh Tygkzv & Rxbjtd Ddcm Qjjvb VTjhym Rxvlfd & Ftcgpc Qzlg Lqcnf ZView Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-1Rxvznvsb Dkhsm Cwlqjb Rbxldbjzt Tkfdk 846-H-Mngywhtq Wrsgg Kgzggx Dzghlgypw Lvkpm 337-H-7395Qtqndpyr Yrrpt Wxcdhs Sfbvspjck HdyzyView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundDyrchl Ffhk Wxhdmgxsfb Tjyyhrvvmlj Rbxkltbchn Swst – Mrvvlpvsxrqsk PvbpcfzTcvwfg Ztsv Lxhsslxnzh Nyzzzdxrjsv Mcdtprvdms Wfyx – Wjjntvdhbb PxmWkqgls Sphtbfqnqhf Hpgr XbvlpView Full List",
+            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLGKK Tyyyd Nzkdhk Rzqfyk CYTLPTV Pghrzsqgnywhn Zbqxsd Qpsrrwll Krxs JXMQrmljpwz Wrwgslc D.G. Qztxjfd Pddcvq MSFSGView Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
@@ -103,13 +103,13 @@
             "growth portfolio": 3,
             "portfolio class": 3,
             "convertible securities": 3,
+            "list allspring": 3,
+            "allspring index": 3,
             "class aallspring": 3,
             "aallspring index": 3,
-            "list amplify": 3,
-            "amplify etho": 3,
-            "etho climate": 3,
-            "climate leadership": 3,
-            "leadership etfcalvert": 3
+            "sector dividend": 3,
+            "dividend dogs": 3,
+            "list amplify": 3
           },
           "has_disclaimer": false
         },
@@ -171,9 +171,9 @@
           "sample_texts": [
             "I consult or invest on behalf of a financial institution.",
             "To reach a different BlackRock site directly, please update youruser type.",
-            "Global Weekly CommentaryUpping developed stocks strategically",
+            "Global Weekly CommentaryThe need to diversify diversifiers",
             "BlackRock Investment Institute (BII)Pushing limitsMay 4, 2027|ByBlackRock Investment InstituteAI's growth is led by a few firms making massive investments, raising investor questions about whether AI revenues will match this scale of spending.",
-            "Model PortfoliosEnergy stocks, last hedge standingMay 21, 2026|ByRuss Koesterich, CFA, JDIn this article, Russ Koesterich reflects on stock market strength amid current geopolitical unknowns and a lack of reliable hedges."
+            "BlackRock Investment Institute (BII)Weekly market commentaryMay 26, 2026|ByBlackRock Investment InstituteOur diversification mirage theme is unfolding in real time as long-term bond yields surge. We favor diversifiers such as hedge funds and private markets."
           ],
           "disclaimers_detected": [
             {
@@ -190,18 +190,18 @@
             "investment institute": 2,
             "institute bii": 2,
             "byblackrock investment": 2,
-            "byruss koesterich": 2,
-            "koesterich cfa": 2,
-            "cfa jdin": 2,
-            "jdin this": 2,
-            "this article": 2,
-            "article russ": 2,
-            "russ koesterich": 2,
+            "long term": 2,
+            "equity outlook": 2,
+            "outlook after": 2,
+            "after more": 2,
+            "more magnificent": 2,
             "stock market": 2,
             "commentary multi": 2,
             "income fund": 2,
             "innovation beyond": 2,
-            "beyond tech": 2
+            "beyond tech": 2,
+            "tech insight": 2,
+            "insight healthcare": 2
           },
           "has_disclaimer": true
         }
