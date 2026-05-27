@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-27T08:20:51.909052+00:00",
+  "scouted_at": "2026-05-27T08:22:21.779606+00:00",
   "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos ESG en México: menos activos, más concentración y rendimientos rezagados frente a ETFs",
+      "title": "Fondos de microchips: cómo los inversores en México han visto rendimientos del 800% en un año de crisis.",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El fondo asesorado por elEconomista consigue otra vez las cinco estrellas Morningstar",
+      "title": "Banorte lidera la captación de fondos ESG en un mercado en contracción del 12%: ¿qué lo hace destacar?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "El fondo europeo que lleva años batiendo al mercado: la receta detrás de su éxito",
+      "title": "Comparativa de fondos indexados al S&P 500 en 2026: descubre cuál ha superado al resto en rentabilidad.",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
