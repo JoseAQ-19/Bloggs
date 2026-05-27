@@ -1486,3 +1486,4 @@ ia: La nueva ley de IA que podría cambiarlo todo: un análisis del impacto disu
 tools: Tecnología innovadora en CEU Elche: Adiós a las trampas en los exámenes
 tools: Navigating the Future: FICO's New Automated Credit Planning Tools Revolutionize Mortgages
 crypto: Pavona: La revolución del silicio abierto con criptografía post-cuántica
+crypto: Trump’s Vision for the Future: More Banks and a Thriving Crypto Industry
