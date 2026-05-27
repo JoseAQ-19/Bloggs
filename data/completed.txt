@@ -1488,3 +1488,4 @@ tools: Navigating the Future: FICO's New Automated Credit Planning Tools Revolut
 crypto: Pavona: La revolución del silicio abierto con criptografía post-cuántica
 crypto: Trump’s Vision for the Future: More Banks and a Thriving Crypto Industry
 crypto: Trump’s Call to Action: Will Crypto Firms and Automakers Really Open Banks?
+youtube: YouTube lanza alertas sobre contenido generado por IA: ¿Estamos listos para el cambio?
