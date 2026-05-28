@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-28T08:21:07.752469+00:00",
-  "total_candidates": 10,
+  "scouted_at": "2026-05-28T08:22:29.840564+00:00",
+  "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos globales de microchips: ¿Por qué algunas inversiones han superado el 800% en 2023?",
+      "title": "Fondos de microchips: ¿Cómo un aumento del 800% en rendimientos está atrayendo a los inversionistas mexicanos?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Banorte lidera la captura de fondos ESG en un mercado mexicano que se contrae un 12%: ¿Qué lo diferencia?",
+      "title": "CT (Lux) Global Technology Fund: Análisis del fondo con un asombroso +58,5% en un año y un ratio Sharpe de 1,3.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Comparativa de fondos indexados al S&P 500: ¿Cuál ofrece mejor rentabilidad en 2026?",
+      "title": "Indexa Capital reduce comisiones a niveles récord: ¿Qué significa un 0,005% para tus inversiones en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -97,6 +97,36 @@
       "title": "Fondos y ETFs para invertir en ciberseguridad: la nueva era de Mythos y la computación cuántica",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcl9SREh2M05HN1lvbUtpdHdjc0k5VHMwdXNLX2FQeGZoZi1nNG5OdWNVSkZ0X2ZhaFFnTWdRRlAyZHAyV2YzdHFTOGlfbG1rOW1kQUM5c0dzYm1IeEZlckhzVE1XNUdSVTVsQzJCN01GYlNMdEZtMHFNZTUtM2g3azJmamhHaFNmOHpLNFRzSU1CQTdkSkZYY01FVXBVSzNm?oc=5"
+    },
+    {
+      "title": "**CT (Lux) Global Technology Fund lidera los fondos de inversión en España con un +58,5% en 1 año y un ratio Sharpe de 1,3**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**Indexa Capital rebajará las comisiones de sus carteras de fondos hasta un 0,005% y las de planes de pensiones un 0,007% a partir del 1 de enero de 2026.**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**El ETF iShares Short Term Strategic Fixed Income anuncia un dividendo mensual de 0.0570 CAD por acción, pagadero el 29 de mayo de 2026.**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**HSBC MSCI KOREA CAPPED UCITS ETF supera la media de fondos de renta variable de Corea con una rentabilidad del 22,5% en febrero de 2026.**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**El Gobierno activa el fondo 'España Crece' con 13.000 millones de euros del plan de recuperación europeo, aspirando a movilizar 120.000 millones en inversión productiva.**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
+    },
+    {
+      "title": "**La CNMV urge a las gestoras a adaptarse al modelo T+1 para traspasos de fondos, con implementación completa prevista para octubre de 2027.**.",
+      "source": "gemini_grounding_finance",
+      "url": ""
     }
   ]
 }
