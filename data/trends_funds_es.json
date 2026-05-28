@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-27T08:22:21.779606+00:00",
-  "total_candidates": 9,
+  "scouted_at": "2026-05-28T08:21:07.752469+00:00",
+  "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos de microchips: cómo los inversores en México han visto rendimientos del 800% en un año de crisis.",
+      "title": "Fondos globales de microchips: ¿Por qué algunas inversiones han superado el 800% en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Banorte lidera la captación de fondos ESG en un mercado en contracción del 12%: ¿qué lo hace destacar?",
+      "title": "Banorte lidera la captura de fondos ESG en un mercado mexicano que se contrae un 12%: ¿Qué lo diferencia?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Comparativa de fondos indexados al S&P 500 en 2026: descubre cuál ha superado al resto en rentabilidad.",
+      "title": "Comparativa de fondos indexados al S&P 500: ¿Cuál ofrece mejor rentabilidad en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -56,7 +56,7 @@
     {
       "title": "El fondo asesorado por elEconomista consigue otra vez las cinco estrellas Morningstar",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaDhmTmRtVjhEdmdLTXVQVjVEbXQ5LUlOem5xRE5iaWR0eTkxWFIyTGp5WWRBSk1nUk5aN29IME8wU2M5UTctV0l1eDc1aWk3Y1hkQ3JQYmhueUg2S2c4RW14UEVhbk84ZEZMQ0Fhak1mdHNxR3Y2cG9RYy1xRTUtRmhQMUc1MWdWLXNzWlFtc1BLMXpfOFVKVXJ0ZE12SE1wQ2R6Y21KSjNhRnQ2aTFJeTJWdE1zbkd2UWVvbWxGZjZxOGhHcDJBbkx0cG56ZG0ydUtJNmRoQ195OWRyTlNIZFhB0gHiAUFVX3lxTE9oOGZOZG1WOER2Z0tNdVBWNURtdDktSU56bnFETmJpZHR5OTFYUjJManlZZEFKTWdSTlo3b0gwTzBTYzlRNy1XSXV4NzVpaTdjWGRDclBiaG55SDZLZzhFbXhQRWFuTzhkRkxDQWFqTWZ0c3FHdjZwb1FjLXFFNS1GaFAxRzUxZ1Ytc3NaUW1zUEsxel84VUpVcnRkTXZITXBDZHpjbUpKM2FGdDZpMUl5MlZ0TXNuR3ZRZW9tbEZmNnE4aEdwMkFuTHRwbnpkbTJ1S0k2ZGhDX3k5ZHJOU0hkWEE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONUhGTmUxT29ObWJYV1drSDFfcEJfMXIxeTVKTWVIdzJ6aHM0OUtzZzF0OTZnV29LeWVncTE3MU5GZ28wQVJOR05CTkk4ZEhqNjBDVXc1QXFqRUx3dnJiZ3NOOEtjczNCeGdoODk0WUlqOTZ4TEpDZDg3UWNYcEE2b1lLWkNVc1lFdUFkS2wtTFR4VktjcHplT2RRem1HZUpZVm9QcVFLT3l0ZmpmWFN2Y0R1aEhrN0dmTFNXZEVkcUpySXJFN2ZFbnQ3ZjZqZGJRRTM0UllOX2VMU3d4TzJHblg1czJfNW13a0ZLNUpRbzNIOTZXNnJF0gHiAUFVX3lxTE9oOGZOZG1WOER2Z0tNdVBWNURtdDktSU56bnFETmJpZHR5OTFYUjJManlZZEFKTWdSTlo3b0gwTzBTYzlRNy1XSXV4NzVpaTdjWGRDclBiaG55SDZLZzhFbXhQRWFuTzhkRkxDQWFqTWZ0c3FHdjZwb1FjLXFFNS1GaFAxRzUxZ1Ytc3NaUW1zUEsxel84VUpVcnRkTXZITXBDZHpjbUpKM2FGdDZpMUl5MlZ0TXNuR3ZRZW9tbEZmNnE4aEdwMkFuTHRwbnpkbTJ1S0k2ZGhDX3k5ZHJOU0hkWEE?oc=5"
     },
     {
       "title": "El fondo europeo que lleva años batiendo al mercado: la receta detrás de su éxito",
@@ -66,12 +66,12 @@
     {
       "title": "Inversionistas en México se refugian en IA y defensa: Fondos globales de microchips ganan más de 800%",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMWhSZ1YwenZrZElPWWJrNHVDc2s3c0RWYUF6ZlB4MUlZbTFMVVkzM0JwWkNSX3d5STl0MG1leGpTR2lHa3loTWdLMUlNd1VYYTRHZUNCY3o3UHRXY3lqZGNPWlBpQlBsZFMwOXdCQ0JpNDJTdlhUcVZ3VjJIUkVVTXRwMW1XNnA3aFBpSGNQYzlfeDBpQzUzRS12SkwtVzVTUHM5YmhQaUFUelI1QmhJcmNKQnU4cFNrYzhlUUw2XzNuajRDdFNwaVJnRXNiZVIxSWdidXhfNE1ERW9fX0liUTZwWFTSAf8BQVVfeXFMT1NJNVRRMF9yUk1tVGxNdW1yNmhEWTBvMW9kbjRURW5hSFo1Z3VyWnJEXzJ2MzlkZkFPTHNQZ2ZxVHA1ZENHdkVXbTZ5THlXTndkQW1sYTNZdlM2Rkh0OUNmbDNoUjM1T01VSG84VkJ6ek5PTVpaNVFMMnJNWWcxelBUaXhwaGdrZFV4eXFPZ1hrOU5Db3JOSGJlVzdSRnMxbGNuQ284M1BTTFZUN1VSQ1FuLWNDZDRrR0JTb3JrbnJvaUhhUWZfZUVDdHdPV2wzTTctdktMOVJvWW9lUnJqODI0MTdDUXYya21IdXFwb0pFVU1yazZlXzV6SUxORFNV?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPU0k1VFEwX3JSTW1UbE11bXI2aERZMG8xb2RuNFRFbmFIWjVndXJackRfMnYzOWRmQU9Mc1BnZnFUcDVkQ0d2RVdtNnlMeVdOd2RBbWxhM1l2UzZGSHQ5Q2ZsM2hSMzVPTVVIbzhWQnp6Tk9NWlo1UUwyck1ZZzF6UFRpeHBoZ2tkVXh5cU9nWGs5TkNvck5IYmVXN1JGczFsY25DbzgzUFNMVlQ3VVJDUW4tY0NkNGtHQlNvcmtucm9pSGFRZl9lRUN0d09XbDNNNy12S0w5Um9Zb2VScmo4MjQxN0NRdjJrbUh1cXBvSkVVTXJrNmVfNXpJTE5EU1XSAf8BQVVfeXFMT1NJNVRRMF9yUk1tVGxNdW1yNmhEWTBvMW9kbjRURW5hSFo1Z3VyWnJEXzJ2MzlkZkFPTHNQZ2ZxVHA1ZENHdkVXbTZ5THlXTndkQW1sYTNZdlM2Rkh0OUNmbDNoUjM1T01VSG84VkJ6ek5PTVpaNVFMMnJNWWcxelBUaXhwaGdrZFV4eXFPZ1hrOU5Db3JOSGJlVzdSRnMxbGNuQ284M1BTTFZUN1VSQ1FuLWNDZDRrR0JTb3JrbnJvaUhhUWZfZUVDdHdPV2wzTTctdktMOVJvWW9lUnJqODI0MTdDUXYya21IdXFwb0pFVU1yazZlXzV6SUxORFNV?oc=5"
     },
     {
       "title": "Banorte desafía la sequía ESG en México: Lidera captación en un mercado que se contrae 12%",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPczJFR1NScVJwLVZyTGltaDFTM3RnVzQweUxkdUtvTm9ZRFRmYVZRUjltMUw0WlpZZVRQNmRwdno1NDI4N0ZrRU9DS1JlTVYzS3ZsQWdkUnlmMTBJbFoyc3lKRnN1U3dwYmJtVF9Qb0g1Y1Zic2dQUWtkck5EeHBDV0Z3RG5CWU9ZN3l0OE5WZkZCYnQ2cGZ5aHh6OEZPQ2diLW1wVWlVZWt2d2Y4VkVmd2Qydmw4Z2l5UzlMZWw0eG1Ga25sbUxxVm53OHhMWVZyU3dNWUZiQzVockp5aHhDNU9IaVlDdzAzUFlMWktSSF_SAfABQVVfeXFMT3MyRUdTUnFScC1WckxpbWgxUzN0Z1c0MHlMZHVLb05vWURUZmFWUVI5bTFMNFpaWWVUUDZkcHZ6NTQyODdGa0VPQ0tSZU1WM0t2bEFnZFJ5ZjEwSWxaMnN5SkZzdVN3cGJibVRfUG9INWNWYnNnUFFrZHJORHhwQ1dGd0RuQllPWTd5dDhOVmZGQmJ0NnBmeWh4ejhGT0NnYi1tcFVpVWVrdndmOFZFZndkMnZsOGdpeVM5TGVsNHhtRmtubG1McVZudzh4TFlWclN3TVlGYkM1aHJKeWh4QzVPSGlZQ3cwM1BZTFpLUkhf?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVlQwVlAwM3JIU19OWnpXR3MxYzkycG5DY1h6UkRyTEFRNDN1LXJPX19SWHY2a29XMS1LYm9TWWhUbUIwaGlKNUZHaEhDbHF5dDJGMEhkYmFoYmN0bDZJejA2N2lpVFhNTkRObjZ3YkU4RmMzZEZVMWc1QTEtb2s4cWtpSVRMR0FFRWd5ei04SWg0bXVPVHNYOWVTRXVIY2d5N1lqUHA2bXM4aG9kMHZ3X1VtdGpIUVFFbFo5UE9lTnIxdXNsUlJ1NXVFUWN2MEk5U0VrQjd30gHwAUFVX3lxTE9zMkVHU1JxUnAtVnJMaW1oMVMzdGdXNDB5TGR1S29Ob1lEVGZhVlFSOW0xTDRaWlllVFA2ZHB2ejU0Mjg3RmtFT0NLUmVNVjNLdmxBZ2RSeWYxMElsWjJzeUpGc3VTd3BiYm1UX1BvSDVjVmJzZ1BRa2RyTkR4cENXRndEbkJZT1k3eXQ4TlZmRkJidDZwZnloeHo4Rk9DZ2ItbXBVaVVla3Z3ZjhWRWZ3ZDJ2bDhnaXlTOUxlbDR4bUZrbmxtTHFWbnc4eExZVnJTd01ZRmJDNWhySnloeEM1T0hpWUN3MDNQWUxaS1JIXw?oc=5"
     },
     {
       "title": "Fondos indexados al S&P 500 en 2026, comparativa y rentabilidad: ¿Cuál es mejor?",
@@ -79,19 +79,24 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk0tQzEzSHNxaDZzZVF1WUc3NFo5d2NWUjZPbDBWRHpMajdLZVBiTUo2QUVRRmtlblVQaHoxMzFuWmY1MFRJLWFMRUhkY2dQd1BfTHRhQUlLSnVwQXhWTTlMQ0JVelhoNDA2LWxYRmpvRmo1S19veHJjTkFsaUVjYVZxTVpOclNZQ1NuZXVudUpXQTRLVmdmS3Z1UkhNR3I4LW1sLTBB?oc=5"
     },
     {
-      "title": "Una gran oportunidad para los inversores en bolsa, el sector energético",
+      "title": "Renta 2025: ¿En qué casilla de la Renta se ponen los fondos cotizados o ETFs?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSThoTzdud2NrTkhsczBkU2hQOWtobDNWRWgyYVY2aFN6T2NlRmg4UlBMd2NNdzRqU21YbjY5WXZlT3VYdFRoTVI4VDNpWUtvdEptQ21LNG5ycDlqRzFMYWk5VzhsNHU1enpUUDJQbzcxVW9sMjhuaXVMb3MxalVGbFhEWmwwVWM3bEN3Q0ROYlAya1Y5RWZpQUszQ0JnS3FLVlU5a3pBZmdXUFpqWS1hbENHS3lzcTlwdUo5blBLNXRyOWZwbFhiOVZpRdIBpAFBVV95cUxQUU5BLVFHR3E4U2pWb2hDU1E5QU5sWlJNT1NoNS1pczRkczNPRDFFOGFlTFJYazNPMVlBdE9qS1FBMklrc0JhblN0N0t6VFlMYk1ncktldFhhZjZQUXlRczh5cWlwNWVLUFBlUEJWdU8zUHctaFFvTlZXZUQ5WGJRcmVXU3VBMDRPMEhZOTJYYnhpMTUyMVp0VV9hRHhQZU1tSXJnUw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1A4ZWNjaVA2YTkxQy1CYk1sQUswb1hkV1NLVTFpdnEtRGFDRDZCUmNmSm9UaUxoczJiQ29LMHB6ZldESnNQUFhqR0gyZnVUUEpkLW1IeWJ1ZGZRS3JGWmRmdm80WFZzQk5NQW1oVVh1Y1drZU8yWVJ6YXE0MGowUDNjbVlYc19BaFItbVowWQ?oc=5"
+    },
+    {
+      "title": "ING o Renta 4 Banco: ¿qué bróker elegir para invertir en acciones y ETFs? Comparativa",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNjBFS3Z2ckdSUi1hbGxmMTJ4Yy1MUm9QdEVja1dmUkxtTHU2UW5MWmpfNGpDWXEybTJFS19MZ2VoaTZaR0ZBQ1puQ2o0TmVXRUlLRnIzV2h2aGlpT3hsQWRieFZ5OTM3TWlVTjN3RlVuTk1aczRpRnRteGpVQWRmcDVGWGhqSGZhNnB2MURVMHZZNW9xczNkcnIwcWZoNU5Gc18zNnVxUHlOLXZPS1NUZzgwSEVrYkRGRUxueGN4eExlVzdSVnZpR1B5N0JvckE3?oc=5"
+    },
+    {
+      "title": "Cuenta remunerada de Trade Republic al 3,04%: análisis y opiniones (2026)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFlIamZUU2QzWllNeHVhdTRZSXVqVEgxU3BKWU1RTWNLWl9nbG5wQUJkTGY4ZC02Y2FxRmZHd0xEOHRGVjFhXzBIUmlveEQyNXBXd3ZTRVpQVTAwYmJlUjNkYWNVM0t1YnpMOU16Yy1QcU1JcVhsYm4wSGhaRHJJOTFaU2U1Z3d0cUlScWQxSGkxOVJGVEhMbzlhRDR6eXNYeldXRm5MaXl4YWZDMTRUbw?oc=5"
     },
     {
       "title": "Fondos y ETFs para invertir en ciberseguridad: la nueva era de Mythos y la computación cuántica",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcl9SREh2M05HN1lvbUtpdHdjc0k5VHMwdXNLX2FQeGZoZi1nNG5OdWNVSkZ0X2ZhaFFnTWdRRlAyZHAyV2YzdHFTOGlfbG1rOW1kQUM5c0dzYm1IeEZlckhzVE1XNUdSVTVsQzJCN01GYlNMdEZtMHFNZTUtM2g3azJmamhHaFNmOHpLNFRzSU1CQTdkSkZYY01FVXBVSzNm?oc=5"
-    },
-    {
-      "title": "N26 vs Revolut: ¿cuál es mejor para invertir en 2026?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVFJXY0Y4RDhQY2FiQ05XalNaanNGOEF0eUxHMU8zUnZYRFRRUGlyaUlkSGc5Sk9EeDBUaEtsOC1MQjMwcVlXNURUTHl5eUdDekVJSnUzUU5lS0Q0MHhYUlBUdzFjVWdaaUVzZkJoRUlYZUJXLUJNcEdKOXNndTJvU3JGVmt6QzQ4WmdZb1FzWFNHNkdkU1hueENVWDFZNmZUSThKbjFOOA?oc=5"
     }
   ]
 }
