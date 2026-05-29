@@ -1518,3 +1518,4 @@ tools: Ride Smooth: The Ultimate Compact Fix-It Tools for Every Mountain Biker
 crypto: Bitcoin en crisis: Salidas de ETF y un rendimiento decepcionante frente a activos de riesgo
 crypto: Mark Cuban's Disappointment: Why the Billionaire is Ditching Bitcoin
 crypto: Crypto Markets Soar Despite Consumer Concerns: What's Driving the Surge?
+youtube: Creadores de YouTube: la nueva pieza clave en los planes de Talpa y Banijay
