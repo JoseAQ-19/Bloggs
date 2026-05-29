@@ -1511,3 +1511,4 @@ fitness: Celebrating a Legacy: Beloved Fridley Fitness Instructor Retires at 70
 funds: Fondos ESG en México: activos caen 12% y rendimientos rezagados frente a ETFs
 funds: New Study Shows 80% Retention Rate for Target Date Funds Among Retirement Investors
 funds: New Study Shows Target Date Funds Retain 80% of Retirement Investors
+ia: Gipuzkoa da un paso adelante en IA y cuántica en Toronto con CDL Donostia
