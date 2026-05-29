@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-28T09:48:08.042462+00:00",
-  "total_candidates": 20,
+  "scouted_at": "2026-05-29T08:21:54.495154+00:00",
+  "total_candidates": 21,
   "topics": [
     {
       "rank": 1,
-      "title": "abrdn Global Infrastructure Income Fund (ASGI) Announces Shareholder Approval to Remove the Fund's Term Structure and Election of Class III Trustees",
+      "title": "New Research Finds Strong Target Date Fund Retention Among Retirement Investors",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "abrdn National Municipal Income Fund (VFL) Announces Adjournment of Special Shareholder Meeting Relating to Proposed Reorganization",
+      "title": "Investors First: Markets Are Converging. What Comes Next?",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "The Best UK Equity Income Funds",
+      "title": "Hedgeye Asset Management Launches ADDS, an Active ETF Designed to Target Companies Before They Enter Major Indexes",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,14 +51,24 @@
   },
   "all_headlines": [
     {
-      "title": "abrdn Global Infrastructure Income Fund (ASGI) Announces Shareholder Approval to Remove the Fund's Term Structure and Election of Class III Trustees",
+      "title": "New Research Finds Strong Target Date Fund Retention Among Retirement Investors",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNdlFIcXJHRFRidkRtZzRyM0JqVEhKUmxVOFVqZDVLY3lmSllXREZDUGJEOVZxa3FnNlkxOUo1aEF0SkN0OWhpbjVQTDU4UzI1WW81RWZLRWdtaVNqSnN6eXdFVXRsbzRmR3ZESkVRQmhjWnRKYmFjaHJENVZWNF80djBGbEIzUTk2TnJLZ2NzamVtWU5yWlh5M1dPV2FvdnczVllxX0lBTUVWckdVb3dWc1I5MnpEb3dNYXh5S08xN2k4dGthUGNxelg5Wkt4eGlQb2hRNnQ0aW00NXlVbERqWGRRbkdQMU91YWgyb0hrcDJRaTZsYnkxdTcyc2RTTlFzSkJjQ0t1SkxJaTlfczlnSDBUeDlHV1VPZWN3QmVxdDdKM19PZ2EwOEgxY3JiQnc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSGtRRUYya0ZMaklQR1BKRjNFYmlmcDlndldWVXIteHJOWThnczhhdFBwMm5qOXBVdGtnSkhXNVVZLW1odFNjOG5qRi00LU5IbGtVaDRiUDI5TjM4SG9rUi02QlhncTNjR3MxQTdfS3NodXJLcy1rZlI1UHBEWUJGOXlMcGhmemZlUE45MVpVdUhpcmZVSkN3TG05RTg2UktpUVd5b09yaWFlM3lJUGlUSEYxek1Ib280ZXdrRmVjakJGTlUwMFgyUFdDc2hTYmo2Q3lfa0prbw?oc=5"
     },
     {
-      "title": "abrdn National Municipal Income Fund (VFL) Announces Adjournment of Special Shareholder Meeting Relating to Proposed Reorganization",
+      "title": "Investors First: Markets Are Converging. What Comes Next?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOWUFwajlWakhIb2ViSDhVMl9Jb2dNRTA3b1ZHeTNkRFV0eTlObmw1MkFwOVBIc3c5ME1XMWRka2xqbzZGYnVQRUstQTJwU3VhOXJpVXN3R3BnTWpFUk9kaGVhR3c3U2MyOEZmTnU2U3owbFN5a0pUWS1tdlJZaG9lN21NcTVqWldFSW5aVHVUblVDNV9lUG1tUHBJX1F5V0JEVWV5eDVGSjhhZ2o5SG0yTEdDTGVUaTFHYWMyc0JERDZQdTRneHJpZGJJdDdwaDMwdmFnY2tIb2FQZ2NZWXgzdXpWcXdYdnhLb3lYR08xRmpOTjZhcEI1S0FnWFNMdGhOZm5YeThTMmJOVlFNNlhhX3AxbTB0T1kxMkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX0sxTGkzRHNmQUpVRHB2Y2l6NzR0UERoZFIzSFJjSVFBMjdFSnRQYk9HT3VqZ0tfblJJOWlkbThpeURkYWU5czlmX0lLd3pmUFREQVY2QzFxNmcxenVMNDdOX3VrRUExU1NPUjdzdlZmcHJNM3hFNDVNMEhUWTVuam0zcWFxSE9IQlVPZnZvOWhxR1RUYURuOHZhRWp6cXFaamJlMmpfSW9qQQ?oc=5"
+    },
+    {
+      "title": "Hedgeye Asset Management Launches ADDS, an Active ETF Designed to Target Companies Before They Enter Major Indexes",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORVA0YmI2ZWdOdE5pc3lJeDdpYVBRWlVLTENtVG44NV9IeUJCYUdHQktsSVktOWZuRGJWY2ZiSFBqUDFweG0tbjVoV21TTXRjY1NYVUhVdURTTEJnNjc2N2ZnLXU2STRsakFfRTc2WW5mRVpYemtnMVRHd1cyMlF4Ul9Xb3A5Ry1hUGYzUU1CLTd1cFkxN041b1B6RWc4YlB1d2h1RHVUM3Jia1ZFSVNZek01Z0p5RFlfcnpDMmdDTlhfaHFadkFTbVZlY3liTlVJOVNMbG5VdGw1MlJfc016U2h2X2EyeGxVWVVLZHdQTGphanNYRlVDMUdObmlrTGVpQ0V0Zg?oc=5"
+    },
+    {
+      "title": "Sustainable Fund Flows Return to Positive Territory, Driven by Rebound in Europe: Morningstar",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWFBYRTZqMEJZbmhqNEhyTXVlREpoZGNMdkFWM210MkVsdzhXR3BLTVFoM0QxMElJRzY2RndQZHV0UXNNaUltVjFraDEycUluY2VCT1ZFekUtUm9uc0RYTWo1bS0ybHFhenlObVllVnZ4RFBidVJVRnp3U1AyalIzOFctS0NkYzBVX0R4Zm5hZExZQkE2ZllUUHlpLVc5NHZjdDdLeThaVzBqeENyNWZ4ZGRPVEZtdVlw?oc=5"
     },
     {
       "title": "The Best UK Equity Income Funds",
@@ -66,34 +76,34 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91T1FBdTFHZ3NEMFVDTFJKcmhXQ09ZZ2JGSVBxS1hzbmZ1TW1jaDFlYkx1cDQ4M1E2VGRBS2VwcS1lMFhmM21iZU5VQlNZVi10YTd2NFcwUmN0Nm9NY2VrM1ZkNEpLVUV4Yld4eVlrajRieGJ0WDRobVpR?oc=5"
     },
     {
-      "title": "EasyJet Earnings: Winter Losses Persist Despite Strong Demand and Holiday Growth",
+      "title": "APFC Holds Quarterly Board Meeting and EAC Committee in Valdez",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLTY2N3VRT2xhd0lHcEs0UVA0ZFU1clVHSFZwSlJVLVItT0MtdXByMi1tbm4tSE5lSWhJQXJtR2Fxdm1LQ19yQXFqM0JkWjFBMXBEenc1eXBxWERtQWx1UWx2MlJPWEFSOV9hakNtcjFQdkZ6bnh2TzZpV0pKODVGSkhEcmlSSmJDRmtpek5rOUotVllsamw3Y1lXUzhJX3VBbklsNHpuTlRudGNBcV9Zc1Q2VGVFLUpzZU5n?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYnFNVFBXYjVjRkNCa05VZmxUdXVjbXNhUXc3RDdYU29PV0dUNENqZE9kckh0dFdCWEFuWnhUWmk0OG9lRzlFVU11YmtHRVZCMG1DVVROSE9OemYyMVBvMWN5RmJ2ajFqWnZnVHVYQnBUR2VZWC1lNXdkSXBOSGJqaVp4UnF6YS1ydTh2a1cycUhVdEwwS3RZMHd5Um9td1VXT1lHbXFfWjVrdkJ0aE12ZUlPS2FEVzhDZml0T0h1cHBsQQ?oc=5"
     },
     {
-      "title": "ABERDEEN INVESTMENTS U.S. CLOSED-END FUNDS ANNOUNCE RESULTS OF ANNUAL MEETING OF SHAREHOLDERS",
+      "title": "ASML Shares Are Up 53% in 2026. Is the Semiconductor Stock a Buy Now?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObmlpMjZncFQxbzF4cU9OUXpDWlQ1YURCWktsaUU1OWFleW1pVGlsSVc5UjdyTmpzQ1lZSFpMX2VWX2FaUHRtZFlGYUhTd2s5dGIyU0FCdXhneUo4Z0FESUNLU1FaNnhVQVR6Q0d3WEtVS25kaHRJYlRFRFZJSzdIeXNEWjBMWWt4bWt0T0xMV1hXZ1JnLUtydUNsNVhsd2dhRUlJeWRxX3dJb2NCNmUwdWZlS1NqRnk2dll6RDJFbENQd24wS2NYc2FzRE9mRzVIZklWSW9IVERQUjNHZERramIwS1dYWFk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObTIxb0RBSDBxTUZ0Q2tJVHNxYlp0SmV3V3kwYmJ1aWZDbGVVajJ3cEY1cXZ1eUxxeGVaOV92THRQdWpVdTRuZUZUMkxWMHdITUFjVlZEZzhzN1hCdUhfcWFTTUV2dzIzX25fLXlmVHlkbk90dTRnQm5OMkFSN3Bmbzd3R2dSSVNwYXNIUENGOVFsbjExTjE5ek1UR0ozcmtYYVpv?oc=5"
     },
     {
-      "title": "UK Corporate Bonds Are Opening Up to Retail Investors—But Are the Risks Worth It?",
+      "title": "The Best ETFs to Buy for 2026 and Beyond",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc1l1OFIxWWRYVDdEcE5ObWo4NUpJc0tLX3lxRUVxMFhXd1J6Z0hhV2FjZWhta2RILVMzelNKZFRtazV1SjB5c2ZRM1hNd3piWUpGVjFrQncwUUxmbUlOSmJDUG4tUWFGeVExWEE2cC1oMV9udVBaZU1RVTFER2JUdGFaWEoxUEhWRXMxY0VUMzl5T2pFM21RZjluMlJGV2JnZWxoY3pGY0w3MEplSXBZbWtMU2NOQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHSlVpdGNyUmxMR05HeUQzVmdobTFhd1VjdFdBS3BTeFN2QnNvbVdXQjZSTXA2aEtLZ0oycnJMX1FjSjlZeVk1SDBQZEd4SXdZQnNQTmlWbG53Y2V6alFxbklzX3RkN1Ni?oc=5"
     },
     {
-      "title": "BP: Removal of Chair Creating Turmoil, but Strategic Direction Unlikely to Change",
+      "title": "7 Best Vanguard Funds to Buy and Hold | Investing",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTHA0bE45VE01MThWeENwQkNRV1NvSXQxS1AxbTZVMFFFd2pjWVVfc0xRU2h3cTBmSWhqX0dzSHZ0SGJ4Y2NrcW9aeDNsTk9JV2JQdjVXUHNSeXVOeE42Y2gtU0N1ME54clNuUHM4MXQtZVlHTThkd2Y3Z2dOZ2VFalp3ZnB2NWpRMnpYZ3ltbTBDc3psTDhTR2k4dHBBQU81T010TVdUekdFMjJQb1dON0t1OA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXhDZzM1bXZWSG83czJmWDk0T1RBTEh1QnJRbkExR1ktX0VwbnJVbzNnN3ZWU19EbXZnS19GaElHS3lKa21lSTI4SS1LWl9feGpuN0t1WEExWTJpSkpya3VGcHd0N2ZRMEZuZTBZVXk1eXlfS2piUDdxRFZOSXpHQ05oekg3dw?oc=5"
     },
     {
-      "title": "Famous Investors: Who Has the Best Stock Picking Record?",
+      "title": "ETFs Were Built to Make Investing Easier. They May Also Make Crashes Faster",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40SFBwTnh0VnNGV3RkeXdsSDcyWUtnV3JRaTdUZWZPRVdYNHNBSF9wMGp0M0h6OEs3ODVic2FyTThSOElEZnVxaFY2LWxTYm1mTWJPaUwzczhQVWhrY05iaVBqOTV6a2VCWGtZNEQtRQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUU9hT2xmUUN6djY5R1c4WE5lMjRHTlVqalFrRkstU2FTa3ZOcFVJTlAyckRDMlctbXVDLTBPTVFsQ2luN3RsMmczMWJ3WjVUZ3ZNZVlGaFJETlJwS1A5SU9WT0xVNk9yNXVsd0U2NEFDZXlPeWxnQU8tZFcxdTNGY1BITUhTS0hGbjFqbjR3OE5oX2NYVm9IaWZJWmlJTDhtZ0s5Ny1CY1VrbXI5Ql92dnhTeXlyYVF6OEE?oc=5"
     },
     {
-      "title": "7 Best Water Stocks and ETFs to Buy | Investing",
+      "title": "$3,500 of Every $10,000 in the S&P 500 Goes to Seven Stocks By Investing.com",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzZGWE1xeUdwLTFWWFU5a3RZSkF0YU85eVFRUUlaOUNfNVJldkRDQTZSTmFoeTdQT282clBuZzdYc08zbzdZVHloekVXeFJKUWE4a0tEelNNN2NNM1dOWHpOUU5VWGZHQkJNcWZsRUgxdjNKTVR2UHpOR1FIVEtOT281RQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOenhlYWdCaUMyUGxuTWNITnBzaFZFTHJpbHZXQy1reXZqUlBBdFNXdjBubks4UXlraHNQa0ZrYldXLXNDeFlkdVNZWHdEaW51Rnk2eTNwZG5Zc3lmckFTQklhSXM1UjdMM0QtaWZYZGphV3hLZEJQeEZ0N0NtRldBVUVFOXJXdDNSUWZIYm9jVG5lNi1rMzVVckM1WFRUQ0FDdFU4VkQ4OW1CZGc5a1E?oc=5"
     },
     {
       "title": "Median pay for CEOs rose nearly 6% in 2025, but some compensation packages were eye-popping",
@@ -101,52 +111,42 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbjBDMVB5WmlTQWtyTm44eC01ck0zdHJvdFdSdmx4MmVoLXNLck9EUU9KRzRnRno5d3pqbmRmbEtDY1VzdXE1MjJEaFI1RVo0MGVOWDNWdjdnOG4xVmQ5eVI1WkpfaW5zNFk4SWlQS0Z4UG14S0dDNllzZk1EV0xvcjZ2VDYzaHJ4NmxjYXBESDkwQXphc0kyX2FyckFWQXB1eEVOa2lWdGtYYWxSalZjdURQbm1lTnlyX29la2JIcmYwS2RYcTFTLS1Kb24wUQ?oc=5"
     },
     {
-      "title": "MF Tracker: Parag Parikh Flexi Cap Fund turns Rs 10,000 SIP to over Rs 51 lakh in 13 years. Too late to in",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPOGRhZWVEUUtHYkhVN2M2YVh5ZERjRE5saW1vV2tfZjZXNnFqVEN5MURvZnMxNFV2QmNXRTJfUXBfWWQ0M2dFT2M2MGpjTE9MRF9wN0E2N1cwb0pET2dGblIxZnFkVlRfa2p6NDJfREU1TWdSa2prbDRGUVhpUTJlNjZLQklVN3U1Nmg5YTVoNGVxMVlONGp3Z1BEUHlNdzR0S2VXb29UR2hXczRYRy14M3FQVUwwVXRQaE1SaklTMjZDQkVkUnZVUXJ0Z0N1RjVudDMwX3ZyVXdXTFVvUldRVF9tbzBmcGcyX01FcnhuZ1lBbGc4Z1d0NXVRakFyR1VXVndLYm9QQnrSAYgCQVVfeXFMTzhkYWVlRFFLR2JIVTdjNmFYeWREY0RObGltb1drX2Y2VzZxalRDeTFEb2ZzMTRVdkJjV0UyX1FwX1lkNDNnRU9jNjBqY0xPTERfcDdBNjdXMG9KRE9nRm5SMWZxZFZUX2tqejQyX0RFNU1nUmtqa2w0RlFYaVEyZTY2S0JJVTd1NTZoOWE1aDRlcTFZTjRqd2dQRFB5TXc0dEtlV29vVEdoV3M0WEcteDNxUFVMMFV0UGhNUmpJUzI2Q0JFZFJ2VVFydGdDdUY1bnQzMF92clV3V0xVb1JXUVRfbW8wZnBnMl9NRXJ4bmdZQWxnOGdXdDV1UWpBckdVV1Z3S2JvUEJ6?oc=5"
-    },
-    {
-      "title": "World Markets Watchlist: May 26, 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSlNVckg2Z3U3OWhOWlBQSVZfZVVHTjd0VkZPWC1RaFFrenppc0FZaXVNbktTNkJaYU81TXBBTXhQcVlZcDVVSWFNbmRlelNCTGVXS01GYmZISmRTS1EyaDlwOS13UDBoeXZwaGFUQmhZSl9RcXZyUkY5ekdkTlpZMGhnTGROdXpYdmlYc0NXM0VYdGxvUWZKS196cmw2UQ?oc=5"
-    },
-    {
       "title": "10 Best High-Yield Savings Accounts Of May 2026: Up to 5.00% APY",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3FScG9fM0lUTlZ4bmIzS1J3eUVmNmljVlN1dVVnYy10V3hYQ0VFMHo4UUROeHlzalJOSG5tSFRfaFY4Z1A0RHoxQUh3TW5HMmNFejlQeG5ENmx2QVlWZU9kMHZ3ejhkS2FOVFR6MllpXzlFNVlILWItbG9QV3NWN3kzS2VEVWc?oc=5"
     },
     {
-      "title": "Jim Cramer warns against 'short term capital gains' —says retirement comes down to 3 assets. Which are you missing?",
+      "title": "Equity mutual funds deliver up to 17% return in May led by international funds. Should you go global?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUmRiWEFRQ0JaRUJmNnh0dUpvR0FVSkdGZWJ6ZmpXMjlNTHRFSWM1eGdnTWhleHJqTXJYdDU1UG5BTUJMTTBkRHdnSU9uSGp0NlpiTkkyTFRDR2RNTjh2OE9oLW1CM3Zpc2JJNk1NV01uSG15UkNZQkFIVkJxY2pzS09Kbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcXREUHNBbDM5VEx3ZzVWVlVNUTJiRF9qUTFIbzl2R2NhZ2Z0X3p4RTdDYkZEM2dUeDRCaFlWZGFSRnBLSml1YlV2dHc1NVdxNXF3eDQ1SktoZUVfd2YwWTc3UUtFdXFSU1BqZ1FpMmVDQUxzTmlSMTlqMmJ6bE03eU5XWW90b1RxVUhhc1pIV2dERlhhSXBWUEdISWNtT1JWZm5neDVZR2hJNmtLM3oxY1duLVR1dWF3bU9ab2NRVWRUQ3p1WUlLS3RubkRZTDg1c1BDUk8tTlQ2U29LMzBuN2h2dFl3TURpQlhwLXJUTmFkZWhYQ293YklIY2XSAfwBQVVfeXFMTXF0RFBzQWwzOVRMd2c1VlZVTVEyYkRfalExSG85dkdjYWdmdF96eEU3Q2JGRDNnVHg0QmhZVmRhUkZwS0ppdWJVdnR3NTVXcTVxd3g0NUpLaGVFX3dmMFk3N1FLRXVxUlNQamdRaTJlQ0FMc05pUjE5ajJiemxNN3lOV1lvdG9UcVVIYXNaSFdnREZYYUlwVlBHSEljbU9SVmZuZ3g1WUdoSTZrSzN6MWNXbi1UdXVhd21PWm9jUVVkVEN6dVlJS0t0bm5EWUw4NXNQQ1JPLU5UNlNvSzMwbjdodnRZd01EaUJYcC1yVE5hZGVoWENvd2JJSGNl?oc=5"
     },
     {
-      "title": "SEC May Permit Mutual Funds and ETFs to Allocate Up to 15% to Private Investments, expanding access to alternative investment strategies.",
+      "title": "The best investing & trading apps for 2024",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWpWWUlkZU52Q3EyOENEeC1wUHBfeTdGSGJTaEtPdXkzODRFUGlqNXVPUVp6b1pkVUhuMjRoR2x6cHdXZlI4Z3gzOExhc2tQQnBHeHZqeVBfcW1UZkl2TFB3bUUxZnNhNW5fMEdHSDVYY0l6dEdHbUhfZUV2bl92cGkwWWVfRkk3M1kyZk5TWEtTZE9WTGx0SnQwaU9fS0owcnVFNG43SWtVUQ?oc=5"
+    },
+    {
+      "title": "Total estimated inflows to long-term mutual funds and ETFs were $15.18 billion for the week ended May 20, 2026, with ETF net issuance at $32.54 billion and mutual fund outflows at $17.36 billion.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Investment Company Institute (ICI) reports total estimated outflows from long-term mutual funds were $18.29 billion for the week ended May 13, representing 0.1% of long-term mutual fund assets.",
+      "title": "Hedgeye Asset Management launches the Hedgeye Index Adds ETF (NYSE: ADDS) on May 28, 2026, targeting index-addition events by holding about 40 U.S. equities with a 20% per-name cap.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Total estimated inflows to long-term mutual funds and ETFs were $15.18 billion for the week ended May 20, with mutual fund outflows of $17.36 billion offset by ETF net issuance of $32.54 billion.",
+      "title": "J.P. Morgan Asset Management launched the JPMorgan Managed Futures Plus ETF (NASDAQ: JPFP) on May 28, 2026, with an expense ratio of 0.59%, designed to give investors access to both U.S. equities and a managed futures strategy.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Morningstar upgraded Fidelity Intermediate Municipal Income to Gold from Bronze, citing its low 37-basis-point fee.",
+      "title": "Fidelity Index World fund has returned 420.32% since its launch in 2012, tracking its benchmark MSCI World Index, which returned 426.40% over the same period.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "The Roundhill Memory ETF (DRAM) becomes the fastest-growing thematic ETF in history, gathering $3 billion in AUM by early May and climbing 90% since launch.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "BlackRock's iShares Core S&P 500 Index ETF (XUS) climbed 24.30% over the past 12 months, outperforming the category average of 18.78%.",
+      "title": "Vanguard PRIMECAP Fund (VPMCX) has a three-year annualized return of 24.6%, with 7.8% of its assets invested in Eli Lilly as of the end of December 2025.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
