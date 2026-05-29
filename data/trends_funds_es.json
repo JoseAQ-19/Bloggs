@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-29T08:19:13.845793+00:00",
+  "scouted_at": "2026-05-29T08:20:25.342912+00:00",
   "total_candidates": 15,
   "topics": [
     {
@@ -94,32 +94,32 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVFJXY0Y4RDhQY2FiQ05XalNaanNGOEF0eUxHMU8zUnZYRFRRUGlyaUlkSGc5Sk9EeDBUaEtsOC1MQjMwcVlXNURUTHl5eUdDekVJSnUzUU5lS0Q0MHhYUlBUdzFjVWdaaUVzZkJoRUlYZUJXLUJNcEdKOXNndTJvU3JGVmt6QzQ4WmdZb1FzWFNHNkdkU1hueENVWDFZNmZUSThKbjFOOA?oc=5"
     },
     {
-      "title": "*CT (Lux) Global Technology Fund* lidera los fondos de inversión en España en 2026 con un retorno del +58,5% en un año.",
+      "title": "Fondo España Crece moviliza 13.300 millones de euros del plan de recuperación europeo para impulsar la inversión, según El País.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "*Indexa Capital* rebaja las comisiones de sus carteras de fondos hasta el 0,530% en 2026, beneficiando a más del 80% de sus clientes.",
+      "title": "Indexa Capital reduce las comisiones de las carteras de fondos hasta el 0,005% y las de los planes de pensiones en 0,007% a partir del 1 de enero de 2026, ahorrando a los inversores 260.000 euros anuales.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "ETFs ligados a la bolsa española registran salidas superiores a $200 millones en 2026, solo por detrás de Alemania.",
+      "title": "Vanguard FTSE All-World High Dividend Yield UCITS ETF (VHYL) ofrece una rentabilidad a un año del 30,05% a 30 de abril.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "*Bestinver Internacional FI* supera la media de renta variable europea con una subida del 9,81% en abril.",
+      "title": "Los ETF de renta variable domiciliados en Europa atraen 32.300 millones de USD en abril, según Vanguard Europa.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "La *CNMV* urge a las gestoras a adaptarse al modelo T+1 para traspasos, que entrará en vigor en octubre de 2027.",
+      "title": "Azvalor Internacional FI subió un 3,35% en abril, pero quedó por debajo de la media de su categoría, con un patrimonio de 3.400 millones de euros.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "El inversor europeo reduce su exposición a la bolsa al 46,8%, aumentando la inversión en liquidez ('cash').",
+      "title": "Un estudio de ALFI-Broadridge revela que los fondos transfronterizos alcanzan los 8,5 billones de euros en 2025, con un 16% procedente de fuera de Europa.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
