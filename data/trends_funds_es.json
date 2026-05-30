@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-29T08:20:25.342912+00:00",
-  "total_candidates": 15,
+  "scouted_at": "2026-05-30T07:55:15.376206+00:00",
+  "total_candidates": 14,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos ESG en México: menos activos, más concentración y rendimientos rezagados frente a ETFs",
+      "title": "Morningstar reconoce a Bestinver Bolsa FI como el mejor fondo de renta variable española: ¿qué lo hace destacar en 2026?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El fondo europeo que lleva años batiendo al mercado: la receta detrás de su éxito",
+      "title": "Fondos transfronterizos: ¿cómo el 16% de capital fuera de Europa está redefiniendo la inversión en 2026?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Inversionistas en México se refugian en IA y defensa: Fondos globales de microchips ganan más de 800%",
+      "title": "MyInvestor supera a Indexa Capital en rentabilidad: análisis de su desempeño en carteras conservadoras y agresivas en 2026.",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -49,29 +49,9 @@
   },
   "all_headlines": [
     {
-      "title": "Fondos ESG en México: menos activos, más concentración y rendimientos rezagados frente a ETFs",
+      "title": "Vanguard, así es el nuevo equipo del gigante de la inversión en España",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONHp3ZUJzQU1aaFdEOC10VzFPb01tMmdjV0RpR2d6TlNHU0pla3FkZ1NESV9BaFlYQ1pfNS1mRDNRcFNfQUREUEMtcEx4SmN5MExqWXg2X0hFR0h6VnNSUnZqSUoyWFU3eEJzQWFvbjVfaUZ0VFZjUU5QNjVERUdEREs4blFPUFJYQldaRWY1bHhQeWtWVG9yTGtzS0lpSklaTGVwT3VGQ1Axa21zNE9sVWdZLWFzUElrNnRlTTJGbnFBNHR3Unh0bWZnYjlMZGFnX0lUTUZ1S1pwU1Vtekxv?oc=5"
-    },
-    {
-      "title": "El fondo europeo que lleva años batiendo al mercado: la receta detrás de su éxito",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWjFldHRIZXR3RFhqdGVEbnREaHJlRC1mTm5aSlZ6QTBuc0hkQTBiZ1BGSUdZYUZCR1NZaFBYSW5yamp3T29JZlpVZnc1VjBBV29sVXlMY3l4R2xmOF80LXdWS2ZaNF9kOE44bEh6MFhaQlRPSkRkN3F4RDNwNVYtVmdsQWVyVnJReDJ2R1RDZm12RmNaTlpHZm8tSEVCTXlsQm1NRzhsN1pWWDZuVFU4eEgtWnlRVHVnU2FjSjNB0gHDAUFVX3lxTE1ENVFldEJTVmNKdTlEQW1fSHJ4WjZGU3NWbFNKWUhQal9BbVBiVW0yRFctSmRMOGdnQUcxUEtMalJZbmtVWk1rdWFNcW0xTnVkNjNhZm9GRVBnQWc4V3FZYUdqbjYwaUliNElzSWVrZW9XekctWnh5V3QzZnowNDV6cFRiT051OV9oV1ctSVY3cVlILUN6dUNDZEFCSk1fY0NwRDM5NURQY0xUaFRINzVZajRVWjVIOWlxNkl4UE5LMncxbw?oc=5"
-    },
-    {
-      "title": "Inversionistas en México se refugian en IA y defensa: Fondos globales de microchips ganan más de 800%",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMWhSZ1YwenZrZElPWWJrNHVDc2s3c0RWYUF6ZlB4MUlZbTFMVVkzM0JwWkNSX3d5STl0MG1leGpTR2lHa3loTWdLMUlNd1VYYTRHZUNCY3o3UHRXY3lqZGNPWlBpQlBsZFMwOXdCQ0JpNDJTdlhUcVZ3VjJIUkVVTXRwMW1XNnA3aFBpSGNQYzlfeDBpQzUzRS12SkwtVzVTUHM5YmhQaUFUelI1QmhJcmNKQnU4cFNrYzhlUUw2XzNuajRDdFNwaVJnRXNiZVIxSWdidXhfNE1ERW9fX0liUTZwWFTSAf8BQVVfeXFMT1NJNVRRMF9yUk1tVGxNdW1yNmhEWTBvMW9kbjRURW5hSFo1Z3VyWnJEXzJ2MzlkZkFPTHNQZ2ZxVHA1ZENHdkVXbTZ5THlXTndkQW1sYTNZdlM2Rkh0OUNmbDNoUjM1T01VSG84VkJ6ek5PTVpaNVFMMnJNWWcxelBUaXhwaGdrZFV4eXFPZ1hrOU5Db3JOSGJlVzdSRnMxbGNuQ284M1BTTFZUN1VSQ1FuLWNDZDRrR0JTb3JrbnJvaUhhUWZfZUVDdHdPV2wzTTctdktMOVJvWW9lUnJqODI0MTdDUXYya21IdXFwb0pFVU1yazZlXzV6SUxORFNV?oc=5"
-    },
-    {
-      "title": "Banorte desafía la sequía ESG en México: Lidera captación en un mercado que se contrae 12%",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVlQwVlAwM3JIU19OWnpXR3MxYzkycG5DY1h6UkRyTEFRNDN1LXJPX19SWHY2a29XMS1LYm9TWWhUbUIwaGlKNUZHaEhDbHF5dDJGMEhkYmFoYmN0bDZJejA2N2lpVFhNTkRObjZ3YkU4RmMzZEZVMWc1QTEtb2s4cWtpSVRMR0FFRWd5ei04SWg0bXVPVHNYOWVTRXVIY2d5N1lqUHA2bXM4aG9kMHZ3X1VtdGpIUVFFbFo5UE9lTnIxdXNsUlJ1NXVFUWN2MEk5U0VrQjd30gHwAUFVX3lxTE9zMkVHU1JxUnAtVnJMaW1oMVMzdGdXNDB5TGR1S29Ob1lEVGZhVlFSOW0xTDRaWlllVFA2ZHB2ejU0Mjg3RmtFT0NLUmVNVjNLdmxBZ2RSeWYxMElsWjJzeUpGc3VTd3BiYm1UX1BvSDVjVmJzZ1BRa2RyTkR4cENXRndEbkJZT1k3eXQ4TlZmRkJidDZwZnloeHo4Rk9DZ2ItbXBVaVVla3Z3ZjhWRWZ3ZDJ2bDhnaXlTOUxlbDR4bUZrbmxtTHFWbnc4eExZVnJTd01ZRmJDNWhySnloeEM1T0hpWUN3MDNQWUxaS1JIXw?oc=5"
-    },
-    {
-      "title": "VanEck abrirá oficina en España en pleno auge de los ETFs: \"El viento de cola está totalmente a favor\"",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWU4ySzVCbmlXcTI2VmthNVV0dXNtNGkydERaYi1Ga2xLQ1hyMVJIRXRPQ2VhcEtSTUFaWmpja25ybFNUUE9sWkgxRkZBa044VzBPbWMxelZnNGowc29GNGFfYXFpazhHUTA2S2ZPVkIyWUxPYUxPM2lYbzFvTVZ1dk9LaGhfTEZieXNzYUtJM0Qxalhmb19NYTJtMUktTkthTndjeDJqSnBEQno5Zms0RjJMdnl6U0NLcnRGeFBBdThXakoxNVNqTDhyMkhSYmoxbl9udVV0bno5WDBTdWlybmlfRDJBak8w?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNG83aTE3TlpDS191b0VpNXdMeUJCa0RPT1ByWXIwWVJBUUtnSU44ejdWOVRSWHpSSVpUYjJ6WXUzSGZaNkpPcnJTNS13UGZrTV9BRThSOW5WQ0wzaWo3cTRudnJ2ckhibVJQa0xPNmZYcDd5VzJXRDhmbUljaXhYVlhCUzZwMWhJNmfSAYoBQVVfeXFMT0ZqTEEweHBCMUtOUzQ3cHkzU080b1FZdm8wLTFpZk5IVFY4TnN4Vnl6NVF0aUdOeDZUNTJfdGc3WFVab3VIU09QZExzMkIzTVJRQ3dGZjdpbVgwTTJvdzA2ZnpYVkFQcTk0YTBzQUQ0VFpJZUttbFNQaHdMN1pnSGE3SHJpZkpNT3V3?oc=5"
     },
     {
       "title": "Mejores depósitos bancarios a plazo fijo 2026 (mayo)",
@@ -79,47 +59,62 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
     },
     {
+      "title": "Cuenta Remunerada Trade Republic: opinión y análisis en 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYklRdTd6QmRmcTZOM0IydFlkdTFmTGcyR2Nya1VuOGJhZElCanJUNnNvQi1FYWFXUTZSY0JFYldPY3A5X0dqcnF0ZVlZajhhRWZielM3VVE1YlNidk9wQlMtT0UxNWdLNEtlTDJUdThtd2w3S3llSzMtRnFqdTJJOXNqd0lQQi1LbjdXZm43b19aZ0xCWG5ILXVGM2hTUVQwaGhtVlJBRQ?oc=5"
+    },
+    {
       "title": "Dónde invertir en fondos de inversión sin comisiones en 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWpjVDdtRUNsZWdBMTg4T1BkakdMbDFsNWZJdzlwSC1FdFpvQmJ3OUlKSjBvTHlvbENBQU5LTHVqdDlaN2VWZC1kRG1BZ0IyeGRxM3RfRFNpdkJIV2hWSDVrbzFITFRxbnhBXzZKdzdrdlk3MjBfYW14X0VuVlN2MGNYcGxscnYzZlBEaUhDVk0tSmpHY2pIb293bEZkSlZvNVE?oc=5"
     },
     {
-      "title": "MyInvestor vs ING: ¿qué bróker elegir? Comparativa 2026",
+      "title": "Banco Sabadell abona este viernes un dividendo extraordinario de 50 céntimos por acción",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNanNlSG5wdmc1MW0tVC1fcHRKVVFZYU8zczVZemVXWTl6bTl4Z3MxSkx2R3c0ZmxwakRHUEZSSzhJMjkxWjF3UTViMGl2MG8zLURXQ2gzNWU3c2NzUk0tMFFzcXN5S1JORmdqbVNfT0I3ZUdMY3hGbm5lQzlVYV9mRS1ROThtQ2g4UGpMZjNObGVJeWJTVjRrYjdXUk9HcmhMbEdRaWhR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLU5wMUNNQVB2clhOMnNndWZha196SUxaaHZ0anRJak1ENFNqcFE4S0RwSVFhZXU4bVZrZzcxcUxhdjVicWRPdHphT09zc3JSU0dfNEcyendxR1JCVjNSWmh2U1NuRFVCR1huNHp4dUtxZm9xejNfbDU2Rlp4Z1JRZUt3VDd2ZFZIQUUtMnBJd2otS0JxOFJzYzhMLVloZXh1Y0VFbWxVUExrdTlfeVBhU3JDNlpxUFRNMU0zcTlublVWMktRMjcteUlXQWhKcmVHWjJ5eUN6YjZrUQ?oc=5"
     },
     {
-      "title": "N26 vs Revolut: ¿cuál es mejor para invertir en 2026?",
+      "title": "VanEck abrirá oficina en España en pleno auge de los ETFs: \"El viento de cola está totalmente a favor\"",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVFJXY0Y4RDhQY2FiQ05XalNaanNGOEF0eUxHMU8zUnZYRFRRUGlyaUlkSGc5Sk9EeDBUaEtsOC1MQjMwcVlXNURUTHl5eUdDekVJSnUzUU5lS0Q0MHhYUlBUdzFjVWdaaUVzZkJoRUlYZUJXLUJNcEdKOXNndTJvU3JGVmt6QzQ4WmdZb1FzWFNHNkdkU1hueENVWDFZNmZUSThKbjFOOA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWU4ySzVCbmlXcTI2VmthNVV0dXNtNGkydERaYi1Ga2xLQ1hyMVJIRXRPQ2VhcEtSTUFaWmpja25ybFNUUE9sWkgxRkZBa044VzBPbWMxelZnNGowc29GNGFfYXFpazhHUTA2S2ZPVkIyWUxPYUxPM2lYbzFvTVZ1dk9LaGhfTEZieXNzYUtJM0Qxalhmb19NYTJtMUktTkthTndjeDJqSnBEQno5Zms0RjJMdnl6U0NLcnRGeFBBdThXakoxNVNqTDhyMkhSYmoxbl9udVV0bno5WDBTdWlybmlfRDJBak8w?oc=5"
     },
     {
-      "title": "Fondo España Crece moviliza 13.300 millones de euros del plan de recuperación europeo para impulsar la inversión, según El País.",
+      "title": "Cómo declarar tu cuenta Revolut en la declaración de la Renta 2025-2026: todo lo que necesitas saber",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjRkWTNEd3dYbXhhcUpUYl84bUR6MDBGNFRfamtRQmF0TDR6MDl6Zms3eVY4UXQ2Z1FERU9Hdklkc25MUVY0Vkx0b25HeEZUaUFqaExFZmR3ek0xa0xqWGZFbzRTN1hycTZyeGdZSXAzMm9LOERwZlFlU1pFNEZHaFU3MWtJWnNPR0pyTkRpRDBhSWpVMF9UMHo0aE9maEhvQmZEcVdKOXNZQ0Jza1FtV181MGRnVE5MV3FlMDZR?oc=5"
+    },
+    {
+      "title": "Revolut vs N26: ¿qué cuenta elegir? Comparativa 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNall3aUxzMlZ4eTQwMDdLakNHZTkyQkhpN3czSGE4Um9zZlVUVmhiblp4UjBoaUhQN2xCNXREZUhTU0VwUFRlU0czcjlONGltdURLcnVZLVZFWnpXSXZ0LW5HV0pCSEhMNUY1ZUZqU0oyR0p5QUh6TE1iZlBWRTdtNHFjcGRDWFp4WUhOSHBFbHpxUnNaWUNJV2swLVoteXpFYlE?oc=5"
+    },
+    {
+      "title": "QIA y COFIDES lanzan un fondo de inversión conjunto de 300 millones de euros para impulsar la transición verde y digital de España.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Indexa Capital reduce las comisiones de las carteras de fondos hasta el 0,005% y las de los planes de pensiones en 0,007% a partir del 1 de enero de 2026, ahorrando a los inversores 260.000 euros anuales.",
+      "title": "El fondo España Crece del ICO inyecta 13.300 millones de euros para impulsar la economía española, con capacidad de movilizar hasta 120.000 millones en inversión productiva.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard FTSE All-World High Dividend Yield UCITS ETF (VHYL) ofrece una rentabilidad a un año del 30,05% a 30 de abril.",
+      "title": "Morningstar nombra a Bestinver Bolsa FI como el mejor fondo de renta variable española en los premios a la Excelencia en la Inversión 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Los ETF de renta variable domiciliados en Europa atraen 32.300 millones de USD en abril, según Vanguard Europa.",
+      "title": "Fondos transfronterizos alcanzan los 8,5 billones de euros, con un 16% procedente de fuera de Europa, según el estudio ALFI-Broadridge 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Azvalor Internacional FI subió un 3,35% en abril, pero quedó por debajo de la media de su categoría, con un patrimonio de 3.400 millones de euros.",
+      "title": "INARCASSA, el fondo de pensiones italiano, retira 500 millones de euros de acciones estadounidenses y tecnológicas, reasignando capital a empresas de pequeña capitalización e infraestructura global.",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Un estudio de ALFI-Broadridge revela que los fondos transfronterizos alcanzan los 8,5 billones de euros en 2025, con un 16% procedente de fuera de Europa.",
+      "title": "MyInvestor supera a Indexa Capital en rentabilidad en carteras conservadoras, moderadas y agresivas, aunque con mayor volatilidad en años de caídas, según análisis de 2026.",
       "source": "gemini_grounding_finance",
       "url": ""
     }
