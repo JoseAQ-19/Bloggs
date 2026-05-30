@@ -1527,3 +1527,4 @@ fitness: No Heavyweights: Fitness Requirements for White House UFC Event Spark C
 funds: Vanguard presenta su nuevo equipo en España y su impacto en fondos de inversión locales
 funds: 70% of Retirement Investors Show Strong Retention in Target Date Funds
 funds: New Research Shows 85% Target Date Fund Retention Among Retirement Investors
+ia: La IA que cambiará el futuro laboral: ¿estamos ante una ola de despidos masivos?
