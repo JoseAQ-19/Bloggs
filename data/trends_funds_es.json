@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-30T07:56:28.844587+00:00",
-  "total_candidates": 8,
+  "scouted_at": "2026-05-31T08:05:22.334128+00:00",
+  "total_candidates": 7,
   "topics": [
     {
       "rank": 1,
-      "title": "Vanguard revela su nuevo equipo en España: ¿Cómo afectará esto a sus fondos de inversión en el mercado local?",
+      "title": "Vanguard revela su nuevo equipo en España: ¿Cómo impactará su estrategia en los principales fondos de inversión?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "VanEck abre oficina en España y prevé un crecimiento del 30% en ETFs: ¿Qué oportunidades no te puedes perder?",
+      "title": "VanEck abre oficina en España: ¿Qué ETFs están superando al mercado y cuáles son sus rendimientos inesperados?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Banco Sabadell paga un dividendo extraordinario de 50 céntimos: Análisis de su impacto en el rendimiento de sus acciones.",
+      "title": "Dividendos del Ibex 35 en junio: ¿Por qué Ferrovial y Acciona Energía están marcando la pauta con sus pagos extraordinarios?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,24 +49,19 @@
   },
   "all_headlines": [
     {
+      "title": "\"En secundarios entras a mitad de partido y recuperas la inversión desde el primer día\"",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMTlpNEVneXM2QkMwdE50MWlaU0t1amtYQ2NEai14WEpXVElUaUx1aHpIa28zMkljc2lVb1JLN3FYcndKQ3Q1NkdlbVB0dU1VbkVTTmdDbGlKVlYydnNaRHl0Zkt0WktGUGxSc1Q0U2VDREE0ckIzY2U4cS13OFV4d1NNODBPa0NBQ01CM01jMkNaUHI0Wks5R0Z6dlhKbzgxU0k5eGg0aVdtSHfSAacBQVVfeXFMUGxwS01MR3NiWGVleTdlMjVxNW11RnRUa1BaM3ZoODJYd2hLblFNNGE3YXhtS0VyTXBhVDFhWVIwcGRsLXFGTmRiQ1BWb1cySlYyRE1lWFotb1R5U282OVZTNXUzdnZXM05SdERNbWlHbGRqSU52RkxaTEZuajFWbFdMbFFRTXo4YnJWRC1KSERjZ2FvMWJlVUlEMlJyZXh4b0VmWGRtSTA?oc=5"
+    },
+    {
+      "title": "Invertir en Renta Fija: situación actual y perspectivas",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
+    },
+    {
       "title": "Vanguard, así es el nuevo equipo del gigante de la inversión en España",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNG83aTE3TlpDS191b0VpNXdMeUJCa0RPT1ByWXIwWVJBUUtnSU44ejdWOVRSWHpSSVpUYjJ6WXUzSGZaNkpPcnJTNS13UGZrTV9BRThSOW5WQ0wzaWo3cTRudnJ2ckhibVJQa0xPNmZYcDd5VzJXRDhmbUljaXhYVlhCUzZwMWhJNmfSAYoBQVVfeXFMT0ZqTEEweHBCMUtOUzQ3cHkzU080b1FZdm8wLTFpZk5IVFY4TnN4Vnl6NVF0aUdOeDZUNTJfdGc3WFVab3VIU09QZExzMkIzTVJRQ3dGZjdpbVgwTTJvdzA2ZnpYVkFQcTk0YTBzQUQ0VFpJZUttbFNQaHdMN1pnSGE3SHJpZkpNT3V3?oc=5"
-    },
-    {
-      "title": "Dónde invertir en fondos de inversión sin comisiones en 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWpjVDdtRUNsZWdBMTg4T1BkakdMbDFsNWZJdzlwSC1FdFpvQmJ3OUlKSjBvTHlvbENBQU5LTHVqdDlaN2VWZC1kRG1BZ0IyeGRxM3RfRFNpdkJIV2hWSDVrbzFITFRxbnhBXzZKdzdrdlk3MjBfYW14X0VuVlN2MGNYcGxscnYzZlBEaUhDVk0tSmpHY2pIb293bEZkSlZvNVE?oc=5"
-    },
-    {
-      "title": "Cuenta Remunerada Trade Republic: opinión y análisis en 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYklRdTd6QmRmcTZOM0IydFlkdTFmTGcyR2Nya1VuOGJhZElCanJUNnNvQi1FYWFXUTZSY0JFYldPY3A5X0dqcnF0ZVlZajhhRWZielM3VVE1YlNidk9wQlMtT0UxNWdLNEtlTDJUdThtd2w3S3llSzMtRnFqdTJJOXNqd0lQQi1LbjdXZm43b19aZ0xCWG5ILXVGM2hTUVQwaGhtVlJBRQ?oc=5"
-    },
-    {
-      "title": "Mejores depósitos bancarios a plazo fijo 2026 (mayo)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
     },
     {
       "title": "Banco Sabadell abona este viernes un dividendo extraordinario de 50 céntimos por acción",
@@ -79,14 +74,14 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWU4ySzVCbmlXcTI2VmthNVV0dXNtNGkydERaYi1Ga2xLQ1hyMVJIRXRPQ2VhcEtSTUFaWmpja25ybFNUUE9sWkgxRkZBa044VzBPbWMxelZnNGowc29GNGFfYXFpazhHUTA2S2ZPVkIyWUxPYUxPM2lYbzFvTVZ1dk9LaGhfTEZieXNzYUtJM0Qxalhmb19NYTJtMUktTkthTndjeDJqSnBEQno5Zms0RjJMdnl6U0NLcnRGeFBBdThXakoxNVNqTDhyMkhSYmoxbl9udVV0bno5WDBTdWlybmlfRDJBak8w?oc=5"
     },
     {
-      "title": "Cómo declarar tu cuenta Revolut en la declaración de la Renta 2025-2026: todo lo que necesitas saber",
+      "title": "Invertir en el Sector Farmacéutico: Oportunidades y amenazas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjRkWTNEd3dYbXhhcUpUYl84bUR6MDBGNFRfamtRQmF0TDR6MDl6Zms3eVY4UXQ2Z1FERU9Hdklkc25MUVY0Vkx0b25HeEZUaUFqaExFZmR3ek0xa0xqWGZFbzRTN1hycTZyeGdZSXAzMm9LOERwZlFlU1pFNEZHaFU3MWtJWnNPR0pyTkRpRDBhSWpVMF9UMHo0aE9maEhvQmZEcVdKOXNZQ0Jza1FtV181MGRnVE5MV3FlMDZR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdm1HT1FBdFFLODdYaEdpRDRfcmtKVGc5NEdkSjVVZXpzM2gydm9OOU9TZlZLYnNVaWw0MDJTNEx5SHl2OUVucXBfWnF3RmNpNDVmUDFHX0tIY1RRemxDYkFRX0d0XzhZU1FwMjBfQ1ZPUUlaMDVzWDF2Qzk1WndsWEl4X3hmMGhkV0E?oc=5"
     },
     {
-      "title": "Revolut vs N26: ¿qué cuenta elegir? Comparativa 2026",
+      "title": "Cuatro dividendos del Ibex 35 en junio: fechas e importes de Ferrovial, Telefónica, ArcelorMittal y Acciona Energía",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNall3aUxzMlZ4eTQwMDdLakNHZTkyQkhpN3czSGE4Um9zZlVUVmhiblp4UjBoaUhQN2xCNXREZUhTU0VwUFRlU0czcjlONGltdURLcnVZLVZFWnpXSXZ0LW5HV0pCSEhMNUY1ZUZqU0oyR0p5QUh6TE1iZlBWRTdtNHFjcGRDWFp4WUhOSHBFbHpxUnNaWUNJV2swLVoteXpFYlE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZjlkbWZqc2QxR2dfWUVhZTFHbVEzcU5YOUJBSW15Y2dzOF9DeE1pbGEyTDNvWVhsa1hGZ0tLUlp4OFlycTZscnFxUHg0U2lJckcxQjVtOWVGeFRIUEdxS1JjaWlzTW9hSmoxc2laMndHaExuOWJ5Qks2R3NUeEMweDlzSk5BNXB2cUJSN3pTZWhlYkM3dUZhb3RBTHR4U04yTjY3eDhwYUJmSUUtMTZRZWlSNzZzRkktSmdUb1p1SkV5WVJFeVEwNzFHd3UwRk1wN25YZzAtaTdPbFNkeW4wZTF0UzdBZFZkZHB0REdSSWQ5Y3paYWtzNWNn?oc=5"
     }
   ]
 }
