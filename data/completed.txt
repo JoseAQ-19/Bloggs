@@ -1547,3 +1547,4 @@ funds: ASML Shares Surge 15% Amid Geopolitical Tensions and Market Reactions
 ia: Erratas intencionales: la nueva tendencia para demostrar humanidad en un mundo dominado por la IA
 ia: Local Heroes: National Guard Members Celebrate Their Return Home
 tools: La revolución de la creatividad visual: Herramientas de IA que transforman imágenes al instante
+tools: Slack vs. Discord: Which Collaboration Tool Reigns Supreme?
