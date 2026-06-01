@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-05-31T09:30:47.870712+00:00",
-  "total_candidates": 21,
+  "scouted_at": "2026-06-01T08:56:00.360806+00:00",
+  "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "Investor Focus: Iran War Winners and Losers, Cheapest S&P 500 ETF, and ASML Shares Surge",
+      "title": "Markets Brief: The AI Rally Is Also Lifting Dividend Stocks",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Sustainable Fund Flows Return to Positive Territory, Driven by Rebound in Europe: Morningstar",
+      "title": "Synera Advances AI Agents for Design and Engineering Simulation with NVIDIA",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Aberdeen Investments U.S. Closed-End Funds Announce Distribution Payment Details",
+      "title": "New state investment fuels Florida Poly's continued momentum and growth",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,44 +51,64 @@
   },
   "all_headlines": [
     {
+      "title": "Markets Brief: The AI Rally Is Also Lifting Dividend Stocks",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQmNvNVdIQ2NlWmZhMnBOMjZxOV9UOXZiWGRvMDdWMzlsTFQ5Z1lYSTFpX0VJejBuaE1PR2lqZGlkNDZWWUtaNjZZN1F3UTNjdFVNT1hESThuLW0zVWxVbFlIMkZ3bW5TdVNjZHBJLTItVTlobDBxczJqbmx4SmdGdk9IRU9HSG1xSDlJckRTMk9ySDVk?oc=5"
+    },
+    {
+      "title": "Synera Advances AI Agents for Design and Engineering Simulation with NVIDIA",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbzZ4ZGtSM1RIX1dPSEVjdnNONDhuM0YwMm5kbUxVQ3kyZlBGeG5RZmg0X0dBT1lhLXoxWXl1dGtmRU54WVpGLTQ3MFZXV3VVR0NLRlUzdFQtNkMwcFNfSWZqR2VwVXNlREdWTTFYNU5ib1ppNVF3YnFldm5UWWk0SzY0MGlDWGJ0QXdSTVltZ2hxN0NPR0JtQlR3THlXbGszVUJIRGpnQUcwb2RWMExFYkJodTh0VV80UUN1X1NwYTBZM2FPeE5vS2JENGZIOUgyeUlr?oc=5"
+    },
+    {
+      "title": "New state investment fuels Florida Poly's continued momentum and growth",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTWdZMHd6TDM0dm1oeHlwalhDbHdTa1hoejlieDFHRy1ON2lDMm5KbjZ3OXhTc1Y1QXdIMVJOdWZzb0FyV1Z6b2djaDlnMDNVYlpvMHNxQkRvV0hrdWRrc1BHcE0zc1hDb09FOW9zTjFLYmZiZ2p4UjlqUG5WUHljSS01WGJOek5GTTRVVnpVT0toQ0YydHBQUnpwRVhMVDgwU1M1Ym1rNjNqQWRQMHN1c3NnaVY2ZklPampUV1BudFNLT2dNYk84Zk1VQQ?oc=5"
+    },
+    {
       "title": "Investor Focus: Iran War Winners and Losers, Cheapest S&P 500 ETF, and ASML Shares Surge",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR2d6UjRCZFdQajM5M09VeG1FSmFqeEMyQkJPc0duX1JWQ2pMWkxqbWhvakJKeXVaM1UyN2w2M0dRd2dXaW0tMVNVMUcxYVp2WWZ0SW1fWlRldkFXQzNKbl83UDk2OXNiTXM3T3FkTjN0YkRzcTdRRG5NbWVOcy11aVBBWU4ybW5EdnpJRUwtR1NIWkRJankxMGhwWURQZTRzSDRmUTBreUUyWmNPQl8xcXgwS0R5bTlqZ2txbUFB?oc=5"
     },
     {
-      "title": "Sustainable Fund Flows Return to Positive Territory, Driven by Rebound in Europe: Morningstar",
+      "title": "May's best reads from Morningstar",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWFBYRTZqMEJZbmhqNEhyTXVlREpoZGNMdkFWM210MkVsdzhXR3BLTVFoM0QxMElJRzY2RndQZHV0UXNNaUltVjFraDEycUluY2VCT1ZFekUtUm9uc0RYTWo1bS0ybHFhenlObVllVnZ4RFBidVJVRnp3U1AyalIzOFctS0NkYzBVX0R4Zm5hZExZQkE2ZllUUHlpLVc5NHZjdDdLeThaVzBqeENyNWZ4ZGRPVEZtdVlw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdkFzbFFTUTczV1FFMGNuWFNaMTgzci1VRkU4VXVnRnlBRTBsY0NObGJncHBjOW1BaHNmbXE3ZVZpNHhTLXU0R1BGVnVLcXl4WEVGVlVZSFlETFNVMksyb3lOUUtsbVNLVHBweThxbGNGOTRIUEhzM3lSYU5MQ0VWVQ?oc=5"
     },
     {
-      "title": "Aberdeen Investments U.S. Closed-End Funds Announce Distribution Payment Details",
+      "title": "Morningstar: Priced For Complete Growth Collapse (NASDAQ:MORN)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObXBMYlRsSHJ4dHRBTEhIbmFxU0Z2OTdEUGp3UE1QMTNBYUtKVk93OE9nRENoNFNadl9DalNBejhvbEtnUEo1eXdGWjJheUdNRktZRVVpSnRqVDE0WU9GM2gtRHVJX2RydzhYeFVjRjFOa0g0Y1BYOERVdDNjd1o3SDJ1QnkxVjZ5OWNybFBndDJndThxbTloWkJ2Y1J4eTdPdlFmd2NiUm5XTkpfZ2RuMllyUV9yNC11RS1LZFl0bDRQU3NVREg4ckRuWFNZcjhmZmtPckJB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQUhjN2E5U0VrSnVGU3hxR0JhYVRqUzVLUG5HMzkzdnRtNXFrWVM2Z1JLeVVJS1pzYlROQVlxNEJiQnJ6ZWVwN0R6c2ZBRmhMN1VjSnNKN2JSLXppbk5ISV95aGU0ejhlSU0yLXE5aU5GcXNabzgxNUJ4VjVDNWRvd0dFU1RmeGlnYjRqNlJYeE9Tdw?oc=5"
     },
     {
-      "title": "These Top Bond Managers Say Yields Are Attractive, but They Are Wary of Data Center Debt",
+      "title": "The $13 Million Company Teaching the Immune System to Hunt Cancer",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2F1NktndHA2aXVOcnJXTUQ0anFlbzl6N2k0cGNvNHpDdGc3ODRGZENVMm5hS2RadzNjUjR2VGJTYUh6YnJyTmhTY000X19xenMwZDc0R3E0akN2RlB1WHNFOHZCWUJHN0JEZk5qOFpwU1FubVBjS1NpbjF1TEtqam9IN1dFRnNHdTY5akxZaFFUUzdJeXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRnkxM0tTQjJQVUN3N0Jtbk03ak14ZDJNQ3FCanNDY3VwUXNNU2JBYnhXbWpwWElkaUtDWW5HeFg4Q3kwS0lJZk9OUmtPVWJNeEItOGxXWWZHUUJQaEJYbW51VEJMNE5ESmR1dWZmSVBEd2pscTBCdDJ1OUVkSktkZmVRaXBQUGpDTnY0dExHQ0ZRRnp3elo3b2JobzhQb2ctSVhPVjZyUndFc2FsaEF2QjlxUmVjdV9heE9vd3gyQlFMOWs?oc=5"
     },
     {
-      "title": "/C O R R E C T I O N — J.P. Morgan Asset Management/",
+      "title": "Sector & Industry Performance",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXBPX1ZpeU5IX1pudmhSUjYyZjdRa0FrYlVqSEFMSkEtam92UUpMSjJDZW4yM2M1R3Rlb3dPdmlSRUlhTm43dzNCdlM5Q1JTVVA0SU42M2JvWlhHQURSMmJVaW12bEZvT2MzX3hYU0hIMUNJWEdUU1BFN2l2WlRBWVZmcE1sbWw4TVpMa29MSkNuODBhNTQwX2FGR3BoalZfMmdKd2dIeWprTnc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWEtZUzJ1Y0JsejVfb1o5VkF5Z3BFdWVwYzdCcEJ6dWJ3N19uOFNoY2VaYnMtUVpLeTdSUE83a3pkTWtOQmpTUm01aEJteWVhNU5n?oc=5"
     },
     {
-      "title": "Morningstar: The opportunity cost of ignoring the US is enormous",
+      "title": "9 of the Best Bond ETFs to Buy for 2026 | Investing",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcHV4UkJldUJVRnhZbENSaXNvZHdPMG9HWTlUMEF0NzNCX3JlUmQtaGo3bVZSbkdla2ZRY0E5T2lMc1N0M05uN3ZFUmJ1aHJsRzdCc3l6eTJ6QnBjd2RDS0pkc3pVdFRUN3BjVWpYTjdrazZlVzlmeUdYQWdpMXNlSFNIUHRKWFdIdGZNYTFNbTFPUTFtdUxRXw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WMF9FVU1pdk1WWHpCemd6QlZ4ZkktUGdLQWIzbldXeDJsbmNqTVdLclBUai1NRXBsUGVGb1lrSEsyWjIzN0x4b2lZOW1fMXFHLXdrSzdlVHg5bUpraWZrdmJFZ2tzQnRjQjRrcU1OQ0VvZHpqdjZpWQ?oc=5"
     },
     {
-      "title": "Morningstar: Europe Drives Global Sustainable Fund Inflows In Q1 2026",
+      "title": "How to invest in index tracker funds",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUhVaEZIVl9CcEl0cDBpd1JaQ2RKb3pqYmtyb0wtU3hCNXgxMUI4UWhXbzB3OGNUNDhiSS1wWExvNzBOQmlrSlM3dmUtV1ZyTDcxQW9Objh1Sl9IVENyR3FqMHNwTlJvX0N4b0Z6RUs1UWJIS29EOFQ4elVKT3huVXlqZHFzOFdLLUtlMG1oSTBLWlU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOGdtLUhzNVk2OWpJNllLSzg4Y2FnNExaaHk5ME41cktNakxzWXIzSHNlaXp6bTMtTEFkTGV6S0QyUmhlb0lfZHVCZ0RVUXotazdmNE5ibGZTVXJ2ajNuVFBTMVFRbmVLNm5LOGR0dkRhekRmV1FCUFVobVNMbWhTak1vakRGWVhzUkNOWW9rcVNWVlEyVm85aGpsdlNiclJ0dUVmTkMzczNDcUduejhYblFWbVVKSFHSAbwBQVVfeXFMTkhaZXhDU1lhTHdLQ3JTdnpxVXVfVW9VU2ZGN2JhWFhQbFFTWVVBUU5DdVA3ZXFnTWFxdjBUVnI3N3hvX3JfNEhOOVg4aFQ0R1djeGdOcmxUVV92QjMwYlRibFAzeUR6NS1mbTBCcFhiYS1xUmlwU1ZOUTRUc2l0ZHczUVBVMWpncjY0eGRCTm4tc3dBSzZRZ083TV85Q2E3WkZXNERZWGk5TTdBMW9mdzN3T2xEelUxZ3kwUWQ?oc=5"
     },
     {
-      "title": "Why Retirees Keep Buying This Dividend ETF After 22 Years of Payments",
+      "title": "International funds top return charts, but overseas investment limits persist. Should you continue SIPs or",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUHRqSHg3Wmt4b05oakR0VUVXb0otUWZuQzBSMWRXR0RMOG1QNVVpTUZtZmZsSEFTUHkzVXR6UHNhRFJ0elphN3p0Mmozb0tCVDRNTGtmZDVtOXF3NjJFcVI0NFlyS2Vva1RQNlFJM19veVN2aGJLWEpzcXJQWTc0OFpkcw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZ2UxV2RzT2o0TUc3bHlURWk2WnlKRjVFTFMwZUhYcDZ2ellaNTl4TFhjc2ZfcmZhUDRJbjRRVVVEQ3BHY2c4QnRHa2JqWmx4TTRTSVZhdXNRZFI1MzZvZUNsTklvcWlJOUZjZkZqVWJpS2tuVjl0cGxQMm42VG10Y2dySHpTOXZIU2FVdlhXQmZxTDZHVGVOTE9GYkpVNVhoMDJGa1R6QXpkb2RqeXlqQlZlVDltcGxPY3hDRFdvX0RKLTAyV3llVkd4STliUUZ1VFB3MkdrVXNyNzMwVkh1LW1ZdzRtVjJ2V1ZleTFJRGpKMWt6NHVUU1p0TnhfVzZYZTJyZjduX0stWldxWEtzTlJBRFVmUmNxbW1TVnRHcnLSAaACQVVfeXFMTmdlMVdkc09qNE1HN2x5VEVpNlp5SkY1RUxTMGVIWHA2dnpZWjU5eExYY3NmX3JmYVA0SW40UVVVRENwR2NnOEJ0R2tialpseE00U0lWYXVzUWRSNTM2b2VDbE5Jb3FpSTlGY2ZGalViaUtrblY5dHBsUDJuNlRtdGNnckh6Uzl2SFNhVXZYV0JmcUw2R1RlTkxPRmJKVTVYaDAyRmtUekF6ZG9kanl5akJWZVQ5bXBsT2N4Q0RXb19ESi0wMld5ZVZHeEk5YlFGdVRQdzJHa1VzcjczMFZIdS1tWXc0bVYydldWZXkxSURqSjFrejR1VFNadE54X1c2WGUycmY3bl9LLVpXcVhLc05SQURVZlJjcW1tU1Z0R3Jy?oc=5"
+    },
+    {
+      "title": "The Semiconductor Play Nobody Owns Just Lapped Wall Street’s Biggest Names",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVkx1XzJmalMwZ3o3RzhaVWJYOXJTQl84X2VxcUVWLUljaHNjQ0M4dW1lRlg4TzhCZEhnendDQWpzM1Q5a3ZuVC14aEF2VEstNGhGVGo2eklEc0tCeFZpLTJHOElVUXdOMm84UklJY2dSTWwwOGlQT20zeFdTZlV1cjJKZnRVX0tKc1Z4T0hoRjl4bHlPTDFPVm1WVm9HTUtrNFhCbjVFbUJfZG1NWk1JWHZkTFFFb3pT?oc=5"
     },
     {
       "title": "The Best Weekly Income ETFs to Buy",
@@ -96,57 +116,37 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CZFo4M1NwYXlGX25CanloV1hCVUJTQ0xKeWlpZXU4eTFGOGxCY3pwajNuT0xYam9TX0dNbkJKVG9aZnVkYjZobncwYjdhRkhXX3ZfSVJLS2VzY0RBdTl2LXE2V2pQYzdQYzlJLWtYQWRPdw?oc=5"
     },
     {
-      "title": "7 Best Socially Responsible Funds | Investing",
+      "title": "Forbes 2026 Midas List: Top Venture Capital Investors Ranked",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOWY4Y0xiUkpKdWU5U1hSMG1ZOUJpZVdaVF9YaE53c29XMjJGX0FzRVZUaDl6S1puMzBCYXk2VndRRHFUQ3U3bnJLcWlZMnVHQVJjc1c2elBGT2FxSEZvVU5QbE56cDNuUG16Z3hEUDhkOF92QzFZcXJMelRnNGdVcDJrMA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fcGVEQ0g0VGFkMnVBQmlYNjNock5lN1FWdF9yM1Z1bmhCdnZFOXZUSlpoSWs0S3dHcTN5NGlMMnZHWXlnU2s2UUxZSQ?oc=5"
     },
     {
-      "title": "What Just Happened to SCHD's Portfolio",
+      "title": "The Best Vanguard ETF to Invest $2,000 in This May",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wYXltWG1NYXBvVjZqUWV3a3JGZkRwU09QbEd2YUxQWGp5cVI2WjFQYVEzU2wzeXpEdThJTWdCeVBYRmtaMF9HRXpGdmhWUUFYcEU0U2FfZm9tUkdSNmJzblRtYjY5ZDhPZ3huVHRvNzg3emJadm9FSGxWRmFUZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9COEplRWltSXJFVGJOWmVRbzhwNG9TZmVGOTdnQkptRXVPMkxYZjBOVDhCT2I1UGg2ejdOYWZ6NWdjOGI5UzYxRkh1bGNud04tUzExTnowQ1VXQ1hqTXVMbzFBVzUtcngzZjJXZ0ZsOGNWc0lhSEQwWVZn?oc=5"
     },
     {
-      "title": "XLU Investors: Watch PJM’s March 2027 Data Center Framework Decision",
+      "title": "9 of the Best Bond ETFs to Buy for 2026 | Investing",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZFV1UFJVZWVET2k2bEhOU25nZXBGQ2x1ek9mNUtHZ3RjaXJQV1h4ZFhtcXNfQzVRb2xRMkxNdi1qLXM0Y2Rrd19iOVcxTk9UQklSSUNUZUdBRld2a3hZV1RnZmVQV3llWlNDZ1JDNGkxZUFGMmMyTlVzSGV5cTRaN3NBMXViT3o0ejVmSHF6XzBFX0hCYktDWVc2UWxESFVKSUV5X1pJcUJRcDdDSUQw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WMF9FVU1pdk1WWHpCemd6QlZ4ZkktUGdLQWIzbldXeDJsbmNqTVdLclBUai1NRXBsUGVGb1lrSEsyWjIzN0x4b2lZOW1fMXFHLXdrSzdlVHg5bUpraWZrdmJFZ2tzQnRjQjRrcU1OQ0VvZHpqdjZpWQ?oc=5"
     },
     {
-      "title": "7 Best Data Center Stocks, ETFs and REITs to Buy | Investing",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5"
-    },
-    {
-      "title": "Crypto Update: FalconX Eyes Wall Street with IPO Filing",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5"
-    },
-    {
-      "title": "Can You Invest in SpaceX in 2026? Details & Alternatives",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWVlkQ1JxWVFwaWJlUDVEV3RUcWNua2hMcnNmZi1fbnAyYzI1akEtY2pETGYwRzI3eEpfSlRmWTFzUGFaMzdzRV8wZC0wWTVTc3J1ZDk2eHdad3IzUl9SejBhcld0SDhLM0NYTHk5cktQU3Z0ZS1sMm5GVWJKa1VSbWRBV1pWQlJRQWc?oc=5"
-    },
-    {
-      "title": "JPMorgan Managed Futures Plus ETF (JPFP) launched on Nasdaq with a competitive price of 59 basis points.",
+      "title": "DWS Slashes Fees on Xtrackers FTSE All-World UCITS ETF to 0.07%, Becoming Cheapest in Category",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Total estimated outflows from long-term mutual funds were $17.36 billion for the week ended May 20, 2026.",
+      "title": "Vanguard Cuts Expense Ratios on 53 Funds, Saving Investors $250 Million in 2026; Average Expense Ratio Now 0.06%",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "Vanguard cuts fees on 53 mutual funds and ETFs, projecting $250 million in savings for clients in 2026.",
+      "title": "SEC Grants Preliminary Approval to 30 Firms, Including Dimensional Fund Advisors, to Offer Mutual Funds with ETF Share Classes, potentially reducing capital gains taxes",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "ProShares Genius Money Market ETF (IQMM) becomes the top ETF launch of 2026, exceeding $22 billion in assets.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Fidelity Intermediate Municipal Income upgraded to Gold by Morningstar due to low 37-basis-point fee.",
+      "title": "US Mutual Fund and ETF Flows Reach $151.16 Billion in February 2026, Up 45.13% From Last Month and 130.9% Year-Over-Year",
       "source": "gemini_grounding_finance",
       "url": ""
     }
