@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-05-31T08:06:35.715199+00:00",
-  "total_candidates": 13,
+  "scouted_at": "2026-06-01T08:52:55.161970+00:00",
+  "total_candidates": 8,
   "topics": [
     {
       "rank": 1,
-      "title": "*CT (Lux) Global Technology Fund* destaca con un retorno del *+58,5%* en 1 año: ¿es el futuro de la inversión en tecnología en España?",
+      "title": "\"Vanguard: ¿Cómo se compara el nuevo equipo en España con sus fondos estrella y qué rendimiento han tenido en los últimos 5 años?\"",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "*Renta 4 Megatendencias Fi Ariema* sube un *30%* gracias a *Bloom Energy*: descubre las megatendencias que están revolucionando el mercado.",
+      "title": "\"Dividendo de Banco Sabadell: ¿Vale la pena invertir ahora con un pago extraordinario de 50 céntimos por acción?\"",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Indexa Capital rebaja sus comisiones hasta *0,005 puntos porcentuales*: ¿cómo afectará esto a tus inversiones en 2026?",
+      "title": "\"Luz verde al dividendo de Puig: ¿Qué estrategias de inversión pueden maximizar tu retorno antes del 15 de junio?\"",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -59,59 +59,34 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
     },
     {
+      "title": "¿Quieres invertir en ETFs? Listado completo actualizado",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QZ3ppU2hkYlA1TzgxYW9ZUS1rcnlReEEtSmFBR2FJWlJwVkpUem5WMUc1Qm5aY1Jlb2ZHYUl2NFdxd3VXVlRneDVKQm1ZejRmQTlhejExVWVvYy1GdUlVaTNn?oc=5"
+    },
+    {
+      "title": "Los mejores seguros de coche para jóvenes en 2026: ¿cómo encontrar los más baratos?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSDI2d2ZIV3NUczYzeWlaS0FValNnYkRrN3YtT0E0YnBjb3FFckdCb1hXQUxPdUpRYzExTFlFVkY5RGVCX1M5bW1OdUI3VmZ5MVRMOFNWbjR4TlVENGFvbnN1UXVjUERwc1pPUHBWLWFvS1pNUDBjRVVCQWNBYl9SalJ1MDAwTEFNS1UyY09Tc0lmSHZoTENyY2FaVkhScFVuekgwZy05Y1EyZDVMNHpXRURrY2VfQ29NbzlmY01ocVJ3OXR4M1ZnVzBEODNTaURrWlE?oc=5"
+    },
+    {
       "title": "Vanguard, así es el nuevo equipo del gigante de la inversión en España",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNG83aTE3TlpDS191b0VpNXdMeUJCa0RPT1ByWXIwWVJBUUtnSU44ejdWOVRSWHpSSVpUYjJ6WXUzSGZaNkpPcnJTNS13UGZrTV9BRThSOW5WQ0wzaWo3cTRudnJ2ckhibVJQa0xPNmZYcDd5VzJXRDhmbUljaXhYVlhCUzZwMWhJNmfSAYoBQVVfeXFMT0ZqTEEweHBCMUtOUzQ3cHkzU080b1FZdm8wLTFpZk5IVFY4TnN4Vnl6NVF0aUdOeDZUNTJfdGc3WFVab3VIU09QZExzMkIzTVJRQ3dGZjdpbVgwTTJvdzA2ZnpYVkFQcTk0YTBzQUQ0VFpJZUttbFNQaHdMN1pnSGE3SHJpZkpNT3V3?oc=5"
     },
     {
+      "title": "Mejores cuentas conjuntas 2026 en España",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTJpbVBnY3l0ZzRzWmR2UWI3V1NjUy15Z1NIbFhPY04tRDJBakpGNS1uWndLclV1b2ZUMDRKNjVEVmVraWM0NUlzeEhCUmktVHByYUxCSEdKcGVPLTE4aFlqWlJyQzY5cFgzbHFSd0dNbDZ4ZjVBZlhxR2JkaWwyaEI3RWJnS1NjMGpwLQ?oc=5"
+    },
+    {
+      "title": "Luz verde al dividendo de Puig: el día de junio que debes tener las acciones para cobrarlo",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSEQ0NW44WVpSZnhVR1Q0NWJxRG9hcGttcVdOQnRPSldoYTBOTTF0ZUlOUndRNGtBT3N4WjdTQjRydEpTbnNTajRLVkJ0QjNkUVc3NGJOWFFYNDN1QjBFc2kzX1BpOG9OVmJ4cWkweHVGQXJFN0FyVzdsS0pfM0VZcXNjSWJ2YmVUWE01NVFrM015Y251bUpaR0pPVV9pRUM2LW0tWHQwa1ZvZzJoNWtrVFpDRF85Tk41X3JUM2l3Qi1DQlBkLVhKZHdfVGZRcDdsVkhfSGVuX3NScW5T?oc=5"
+    },
+    {
       "title": "Banco Sabadell abona este viernes un dividendo extraordinario de 50 céntimos por acción",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLU5wMUNNQVB2clhOMnNndWZha196SUxaaHZ0anRJak1ENFNqcFE4S0RwSVFhZXU4bVZrZzcxcUxhdjVicWRPdHphT09zc3JSU0dfNEcyendxR1JCVjNSWmh2U1NuRFVCR1huNHp4dUtxZm9xejNfbDU2Rlp4Z1JRZUt3VDd2ZFZIQUUtMnBJd2otS0JxOFJzYzhMLVloZXh1Y0VFbWxVUExrdTlfeVBhU3JDNlpxUFRNMU0zcTlublVWMktRMjcteUlXQWhKcmVHWjJ5eUN6YjZrUQ?oc=5"
-    },
-    {
-      "title": "VanEck abrirá oficina en España en pleno auge de los ETFs: \"El viento de cola está totalmente a favor\"",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWU4ySzVCbmlXcTI2VmthNVV0dXNtNGkydERaYi1Ga2xLQ1hyMVJIRXRPQ2VhcEtSTUFaWmpja25ybFNUUE9sWkgxRkZBa044VzBPbWMxelZnNGowc29GNGFfYXFpazhHUTA2S2ZPVkIyWUxPYUxPM2lYbzFvTVZ1dk9LaGhfTEZieXNzYUtJM0Qxalhmb19NYTJtMUktTkthTndjeDJqSnBEQno5Zms0RjJMdnl6U0NLcnRGeFBBdThXakoxNVNqTDhyMkhSYmoxbl9udVV0bno5WDBTdWlybmlfRDJBak8w?oc=5"
-    },
-    {
-      "title": "Invertir en el Sector Farmacéutico: Oportunidades y amenazas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdm1HT1FBdFFLODdYaEdpRDRfcmtKVGc5NEdkSjVVZXpzM2gydm9OOU9TZlZLYnNVaWw0MDJTNEx5SHl2OUVucXBfWnF3RmNpNDVmUDFHX0tIY1RRemxDYkFRX0d0XzhZU1FwMjBfQ1ZPUUlaMDVzWDF2Qzk1WndsWEl4X3hmMGhkV0E?oc=5"
-    },
-    {
-      "title": "Cuatro dividendos del Ibex 35 en junio: fechas e importes de Ferrovial, Telefónica, ArcelorMittal y Acciona Energía",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZjlkbWZqc2QxR2dfWUVhZTFHbVEzcU5YOUJBSW15Y2dzOF9DeE1pbGEyTDNvWVhsa1hGZ0tLUlp4OFlycTZscnFxUHg0U2lJckcxQjVtOWVGeFRIUEdxS1JjaWlzTW9hSmoxc2laMndHaExuOWJ5Qks2R3NUeEMweDlzSk5BNXB2cUJSN3pTZWhlYkM3dUZhb3RBTHR4U04yTjY3eDhwYUJmSUUtMTZRZWlSNzZzRkktSmdUb1p1SkV5WVJFeVEwNzFHd3UwRk1wN25YZzAtaTdPbFNkeW4wZTF0UzdBZFZkZHB0REdSSWQ5Y3paYWtzNWNn?oc=5"
-    },
-    {
-      "title": "*CT (Lux) Global Technology Fund* lidera los fondos de inversión en España con un retorno del *+58,5%* en 1 año.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Indexa Capital rebajará las comisiones de sus carteras de fondos hasta *0,005 puntos porcentuales* a partir del 1 de enero de 2026, beneficiando a la mayoría de sus clientes.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "El Gobierno inyecta *13.300 millones de euros* al ICO para el nuevo fondo \"España Crece\", que aspira a movilizar *120.000 millones de euros* en inversión productiva.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "ETFs ligados a la bolsa española registran salidas superiores a *$200 millones* en 2026, solo por detrás de Alemania en Europa.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "*Renta 4 Megatendencias Fi Ariema* sube un *30%* en el año, impulsado por *Bloom Energy*, que representa más del *13%* de sus activos.",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "Fondos de inversión en España registran *63 meses* de entradas netas, alcanzando un patrimonio total de *456.307 millones de euros* en enero de 2026.",
-      "source": "gemini_grounding_finance",
-      "url": ""
     }
   ]
 }
