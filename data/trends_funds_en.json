@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-01T08:57:15.411028+00:00",
+  "scouted_at": "2026-06-01T10:15:30.674592+00:00",
   "total_candidates": 22,
   "topics": [
     {
       "rank": 1,
-      "title": "Markets Brief: The AI Rally Is Also Lifting Dividend Stocks",
+      "title": "Why Microsoft Stock Is Worth USD 600",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Synera Advances AI Agents for Design and Engineering Simulation with NVIDIA",
+      "title": "Markets Brief: The AI Rally Is Also Lifting Dividend Stocks",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Investor Focus: Iran War Winners and Losers, Cheapest S&P 500 ETF, and ASML Shares Surge",
+      "title": "Synera Advances AI Agents for Design and Engineering Simulation with NVIDIA",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,6 +51,11 @@
   },
   "all_headlines": [
     {
+      "title": "Why Microsoft Stock Is Worth USD 600",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSVZNYXBJY2xQUWR0TmI2U0dnaVF6N01hZkJnSmZMd1I3SmxwMnp0OFBHMlhQUFdCWUYybElSY0Jzd1dvTjUtUnY2RXJvQVdEdEYwc0k4T0gyWGtqZ3draHlTSG5YVDI4QWZkWFFnTS1oVjJnNDNyeW82VEN5R1VsUy1Bb1I3SVU?oc=5"
+    },
+    {
       "title": "Markets Brief: The AI Rally Is Also Lifting Dividend Stocks",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQmNvNVdIQ2NlWmZhMnBOMjZxOV9UOXZiWGRvMDdWMzlsTFQ5Z1lYSTFpX0VJejBuaE1PR2lqZGlkNDZWWUtaNjZZN1F3UTNjdFVNT1hESThuLW0zVWxVbFlIMkZ3bW5TdVNjZHBJLTItVTlobDBxczJqbmx4SmdGdk9IRU9HSG1xSDlJckRTMk9ySDVk?oc=5"
@@ -61,14 +66,19 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbzZ4ZGtSM1RIX1dPSEVjdnNONDhuM0YwMm5kbUxVQ3kyZlBGeG5RZmg0X0dBT1lhLXoxWXl1dGtmRU54WVpGLTQ3MFZXV3VVR0NLRlUzdFQtNkMwcFNfSWZqR2VwVXNlREdWTTFYNU5ib1ppNVF3YnFldm5UWWk0SzY0MGlDWGJ0QXdSTVltZ2hxN0NPR0JtQlR3THlXbGszVUJIRGpnQUcwb2RWMExFYkJodTh0VV80UUN1X1NwYTBZM2FPeE5vS2JENGZIOUgyeUlr?oc=5"
     },
     {
+      "title": "MICROIP to Debut \"AI Vehicle System Business Group\" and Edge AI Innovations at COMPUTEX 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNTdUQU1ON1JQYkw2R0ttckNRUjBySkNMbW12WDNHcHVQMHZoNXhVN2tyNUhaSVB5ZEwxU1ZkVTVkekFwY0JQeDROX1hIcjR5OGZqVU9PUFpxeldqZzRBVENzb2ktN3NjSFcxZkRrSlB3V3ZGN3N6UjlJYUNiMHgtSlBROC1QWjZtSjFTcFByeFAtZmx1SHpxYm1CdkV2cmcxZkt6UVV1ODhjX0FqQTg1VkIyYmUwX3JVMmNZQ2VCUHVOVXhPM1pLdmk5MUxLNndPTEgtZEY3MXR5d3p5NXdfQUo5a2s3UQ?oc=5"
+    },
+    {
+      "title": "These Top Bond Managers Say Yields Are Attractive, but They Are Wary of Data Center Debt",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2F1NktndHA2aXVOcnJXTUQ0anFlbzl6N2k0cGNvNHpDdGc3ODRGZENVMm5hS2RadzNjUjR2VGJTYUh6YnJyTmhTY000X19xenMwZDc0R3E0akN2RlB1WHNFOHZCWUJHN0JEZk5qOFpwU1FubVBjS1NpbjF1TEtqam9IN1dFRnNHdTY5akxZaFFUUzdJeXc?oc=5"
+    },
+    {
       "title": "Investor Focus: Iran War Winners and Losers, Cheapest S&P 500 ETF, and ASML Shares Surge",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR2d6UjRCZFdQajM5M09VeG1FSmFqeEMyQkJPc0duX1JWQ2pMWkxqbWhvakJKeXVaM1UyN2w2M0dRd2dXaW0tMVNVMUcxYVp2WWZ0SW1fWlRldkFXQzNKbl83UDk2OXNiTXM3T3FkTjN0YkRzcTdRRG5NbWVOcy11aVBBWU4ybW5EdnpJRUwtR1NIWkRJankxMGhwWURQZTRzSDRmUTBreUUyWmNPQl8xcXgwS0R5bTlqZ2txbUFB?oc=5"
-    },
-    {
-      "title": "Aluminum Market Forecast at 92.87 Million Tons by 2031, Automotive & Packaging Segments Accelerate with Asia-Pacific Leading Globally | Mordor Intelligence Reports",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPUW9rNlN0TzJUZWhlUS1aTU5qNGhvbUtYTmV5Ui1sMFlLcnZEWWdHbUxaM2FWc0FwU3JxQ3pDbFVLY184ZGhWNmtnaW1lZWdweFRVa1dXMWNhYzcxSW9DQ0JicFVoQWlfaGJpVVBkUzB4SG05b2l5SjdMNndMY2ZCS2N1SW1TUmlOakdNRWFLTWpDSEs0WGZLd2s1TUdzZWVNeUkyQU0tQUYzOUxpV19LZF9LNG04V2xUNlA0WTFad3Bhak9yZy1RX29pUTFNQW4tZ21JNFdqN3NvWmJhUkRxcGxRYUJuanVuQWZRV0syVnRoRXB4aFl1d2dEazBmdFdzMWplVHZDXzVuLWtTMDAtTzlSd0FHdW44SVh6d3UzN2Q1aDVZSEk0S19LUlFucFBpNjBrdzJvcl9vTmFhNHVV?oc=5"
     },
     {
       "title": "May's best reads from Morningstar",
@@ -76,29 +86,19 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdkFzbFFTUTczV1FFMGNuWFNaMTgzci1VRkU4VXVnRnlBRTBsY0NObGJncHBjOW1BaHNmbXE3ZVZpNHhTLXU0R1BGVnVLcXl4WEVGVlVZSFlETFNVMksyb3lOUUtsbVNLVHBweThxbGNGOTRIUEhzM3lSYU5MQ0VWVQ?oc=5"
     },
     {
-      "title": "Morningstar: Priced For Complete Growth Collapse (NASDAQ:MORN)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQUhjN2E5U0VrSnVGU3hxR0JhYVRqUzVLUG5HMzkzdnRtNXFrWVM2Z1JLeVVJS1pzYlROQVlxNEJiQnJ6ZWVwN0R6c2ZBRmhMN1VjSnNKN2JSLXppbk5ISV95aGU0ejhlSU0yLXE5aU5GcXNabzgxNUJ4VjVDNWRvd0dFU1RmeGlnYjRqNlJYeE9Tdw?oc=5"
-    },
-    {
-      "title": "The $13 Million Company Teaching the Immune System to Hunt Cancer",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRnkxM0tTQjJQVUN3N0Jtbk03ak14ZDJNQ3FCanNDY3VwUXNNU2JBYnhXbWpwWElkaUtDWW5HeFg4Q3kwS0lJZk9OUmtPVWJNeEItOGxXWWZHUUJQaEJYbW51VEJMNE5ESmR1dWZmSVBEd2pscTBCdDJ1OUVkSktkZmVRaXBQUGpDTnY0dExHQ0ZRRnp3elo3b2JobzhQb2ctSVhPVjZyUndFc2FsaEF2QjlxUmVjdV9heE9vd3gyQlFMOWs?oc=5"
-    },
-    {
       "title": "Sector & Industry Performance",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWEtZUzJ1Y0JsejVfb1o5VkF5Z3BFdWVwYzdCcEJ6dWJ3N19uOFNoY2VaYnMtUVpLeTdSUE83a3pkTWtOQmpTUm01aEJteWVhNU5n?oc=5"
     },
     {
+      "title": "AI Stocks Are So 2025. This Snubbed 8.1% Dividend Is the Next Big Play",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0tSTzJoNkl3M0ZqdHNJSHoyWUNXbTJkUV9HalJQRk9XMjluOWxNWmFNMzVCTE1feHVwWG40X0J1eDFUQ1pxejR6N0tCa3R2UGxaaXQxR2lzR29uckV5RVlHS3drTG1GeHFZLUs3NkUtTnRBSThLZnUzZEVVTHI0dkExdkNsbnVBNHFLbS1QbFVGb3ZGeUhlcHVnQVl1SVQ4?oc=5"
+    },
+    {
       "title": "9 of the Best Bond ETFs to Buy for 2026 | Investing",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WMF9FVU1pdk1WWHpCemd6QlZ4ZkktUGdLQWIzbldXeDJsbmNqTVdLclBUai1NRXBsUGVGb1lrSEsyWjIzN0x4b2lZOW1fMXFHLXdrSzdlVHg5bUpraWZrdmJFZ2tzQnRjQjRrcU1OQ0VvZHpqdjZpWQ?oc=5"
-    },
-    {
-      "title": "How to invest in index tracker funds",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOGdtLUhzNVk2OWpJNllLSzg4Y2FnNExaaHk5ME41cktNakxzWXIzSHNlaXp6bTMtTEFkTGV6S0QyUmhlb0lfZHVCZ0RVUXotazdmNE5ibGZTVXJ2ajNuVFBTMVFRbmVLNm5LOGR0dkRhekRmV1FCUFVobVNMbWhTak1vakRGWVhzUkNOWW9rcVNWVlEyVm85aGpsdlNiclJ0dUVmTkMzczNDcUduejhYblFWbVVKSFHSAbwBQVVfeXFMTkhaZXhDU1lhTHdLQ3JTdnpxVXVfVW9VU2ZGN2JhWFhQbFFTWVVBUU5DdVA3ZXFnTWFxdjBUVnI3N3hvX3JfNEhOOVg4aFQ0R1djeGdOcmxUVV92QjMwYlRibFAzeUR6NS1mbTBCcFhiYS1xUmlwU1ZOUTRUc2l0ZHczUVBVMWpncjY0eGRCTm4tc3dBSzZRZ083TV85Q2E3WkZXNERZWGk5TTdBMW9mdzN3T2xEelUxZ3kwUWQ?oc=5"
     },
     {
       "title": "International funds top return charts, but overseas investment limits persist. Should you continue SIPs or",
@@ -131,22 +131,22 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WMF9FVU1pdk1WWHpCemd6QlZ4ZkktUGdLQWIzbldXeDJsbmNqTVdLclBUai1NRXBsUGVGb1lrSEsyWjIzN0x4b2lZOW1fMXFHLXdrSzdlVHg5bUpraWZrdmJFZ2tzQnRjQjRrcU1OQ0VvZHpqdjZpWQ?oc=5"
     },
     {
-      "title": "**Vanguard Total International Stock ETF (VXUS) Outperforms S&P 500 by 45% to 27% Since 2025, Despite AI Stock Focus**",
+      "title": "Vanguard S&P 500 ETF (VOO) Nears Record $1 Trillion in Assets, Solidifying ETF Dominance",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**DWS Slashes Fees on Xtrackers FTSE All-World UCITS ETF to 0.07%, Becoming Cheapest in Category**",
+      "title": "DWS Slashes Fees on FTSE All-World ETF to 0.07%, Offering Cheapest Global Equity Index Tracking",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**Vanguard Cuts Fees Across 53 Funds, Saving Investors $250 Million in 2026; Average Expense Ratio Now 0.06%**",
+      "title": "ETF Industry Launches 370 New Products in Four Months of 2026, On Track to Match 2025's Record",
       "source": "gemini_grounding_finance",
       "url": ""
     },
     {
-      "title": "**iShares Core S&P 500 ETF (IVV) Trades at 10.8% Premium, Analysts Predict 15.91% Upside to $824.96**",
+      "title": "Vanguard Total International Stock ETF (VXUS) Outperforms S&P 500 by 45% to 27% Since Early 2025",
       "source": "gemini_grounding_finance",
       "url": ""
     }
