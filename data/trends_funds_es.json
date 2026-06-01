@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-01T08:52:55.161970+00:00",
+  "scouted_at": "2026-06-01T08:54:10.069205+00:00",
   "total_candidates": 8,
   "topics": [
     {
       "rank": 1,
-      "title": "\"Vanguard: ¿Cómo se compara el nuevo equipo en España con sus fondos estrella y qué rendimiento han tenido en los últimos 5 años?\"",
+      "title": "Vanguard España: 5 datos sorprendentes sobre el rendimiento de sus nuevos fondos en 2023",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "\"Dividendo de Banco Sabadell: ¿Vale la pena invertir ahora con un pago extraordinario de 50 céntimos por acción?\"",
+      "title": "Banco Sabadell: Análisis del dividendo extraordinario de 50 céntimos por acción y su impacto en el valor de la acción",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "\"Luz verde al dividendo de Puig: ¿Qué estrategias de inversión pueden maximizar tu retorno antes del 15 de junio?\"",
+      "title": "Luz verde al dividendo de Puig: ¿Cuánto podrías ganar si compras acciones antes del 15 de junio?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
