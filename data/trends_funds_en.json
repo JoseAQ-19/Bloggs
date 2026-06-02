@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-01T10:16:56.111308+00:00",
-  "total_candidates": 22,
+  "scouted_at": "2026-06-02T08:36:24.321084+00:00",
+  "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "Why Microsoft Stock Is Worth USD 600",
+      "title": "Brian Ferdinand Addresses Market Volatility, Risk Models, and Investment Discipline",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Markets Brief: The AI Rally Is Also Lifting Dividend Stocks",
+      "title": "Meitav Investment House Announces Immediate Report Concerning Selected Business Data for April 2026",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Synera Advances AI Agents for Design and Engineering Simulation with NVIDIA",
+      "title": "Markets Brief: The AI Rally Is Also Lifting Dividend Stocks",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,9 +51,14 @@
   },
   "all_headlines": [
     {
-      "title": "Why Microsoft Stock Is Worth USD 600",
+      "title": "Brian Ferdinand Addresses Market Volatility, Risk Models, and Investment Discipline",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSVZNYXBJY2xQUWR0TmI2U0dnaVF6N01hZkJnSmZMd1I3SmxwMnp0OFBHMlhQUFdCWUYybElSY0Jzd1dvTjUtUnY2RXJvQVdEdEYwc0k4T0gyWGtqZ3draHlTSG5YVDI4QWZkWFFnTS1oVjJnNDNyeW82VEN5R1VsUy1Bb1I3SVU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQWtteTV4ZzRkc3BLRHJPWllCcTZiYzYtWVpkWkJUMXNfR3h3eFJGZzI0bi1IbHZ3OEdDOE15Nm1Gb3JFNDhIYkFSOWdsekk5RG5QalJaWHVFX0hVY2RyYmVvOEwxdUFHS29xYVZEOTMwU0tsTWZhUVExMmhQcVV1S1FUUzN6WHpWZlU2Tl80VFpkVDF0ZWtLdTZUdktfMmlfbU5fZWlmdmVYX3VhRlRSNTNIaVN1c2pFOGRwRnhtcU9ObjdycUxqc0RlLUZKcGhTeWc?oc=5"
+    },
+    {
+      "title": "Meitav Investment House Announces Immediate Report Concerning Selected Business Data for April 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMXpIbkhBbV8wN21kejVxUzVFWk5laU9iajJVNm1iYUFMZmFmUUtRWGJaT1VyQlZzdUdfU2ZLakFFTUxpTGc1aGlBQ0R2Q3JxeHM2ZDU4Q3JSLXVfRjI1aFotU3dDZHg1NW53WUplcGdDOWVKR1JLU1JFQ2o4c3NtRzIwVFFSV1JFTDZ1MDlrSUdiMF81SW9fcHJhNk5xX09FRk81dE1na05ZM05rSnRmRFhsMVctSzd6X29PYld3bUZpRjZlRlBEYUJwV0dILTFERlNrVGhjRzhXWERZay12cGlGVjV0T2xCV3I1WEtIazE4QQ?oc=5"
     },
     {
       "title": "Markets Brief: The AI Rally Is Also Lifting Dividend Stocks",
@@ -61,94 +66,64 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQmNvNVdIQ2NlWmZhMnBOMjZxOV9UOXZiWGRvMDdWMzlsTFQ5Z1lYSTFpX0VJejBuaE1PR2lqZGlkNDZWWUtaNjZZN1F3UTNjdFVNT1hESThuLW0zVWxVbFlIMkZ3bW5TdVNjZHBJLTItVTlobDBxczJqbmx4SmdGdk9IRU9HSG1xSDlJckRTMk9ySDVk?oc=5"
     },
     {
-      "title": "Synera Advances AI Agents for Design and Engineering Simulation with NVIDIA",
+      "title": "Why Microsoft Stock Is Worth $600",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbzZ4ZGtSM1RIX1dPSEVjdnNONDhuM0YwMm5kbUxVQ3kyZlBGeG5RZmg0X0dBT1lhLXoxWXl1dGtmRU54WVpGLTQ3MFZXV3VVR0NLRlUzdFQtNkMwcFNfSWZqR2VwVXNlREdWTTFYNU5ib1ppNVF3YnFldm5UWWk0SzY0MGlDWGJ0QXdSTVltZ2hxN0NPR0JtQlR3THlXbGszVUJIRGpnQUcwb2RWMExFYkJodTh0VV80UUN1X1NwYTBZM2FPeE5vS2JENGZIOUgyeUlr?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSVZNYXBJY2xQUWR0TmI2U0dnaVF6N01hZkJnSmZMd1I3SmxwMnp0OFBHMlhQUFdCWUYybElSY0Jzd1dvTjUtUnY2RXJvQVdEdEYwc0k4T0gyWGtqZ3draHlTSG5YVDI4QWZkWFFnTS1oVjJnNDNyeW82VEN5R1VsUy1Bb1I3SVU?oc=5"
     },
     {
-      "title": "Investor Focus: Iran War Winners and Losers, Cheapest S&P 500 ETF, and ASML Shares Surge",
+      "title": "HES Facilities Management Announces Majority Investment from GI Partners",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR2d6UjRCZFdQajM5M09VeG1FSmFqeEMyQkJPc0duX1JWQ2pMWkxqbWhvakJKeXVaM1UyN2w2M0dRd2dXaW0tMVNVMUcxYVp2WWZ0SW1fWlRldkFXQzNKbl83UDk2OXNiTXM3T3FkTjN0YkRzcTdRRG5NbWVOcy11aVBBWU4ybW5EdnpJRUwtR1NIWkRJankxMGhwWURQZTRzSDRmUTBreUUyWmNPQl8xcXgwS0R5bTlqZ2txbUFB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWhTbVZLRzFVZ25aUC16WFBCVEY5aUVzUlZIVDJFemRkdS01VXAzWVUtUjBzdlhYWXNLZjU0czI0blk4ekY5YTEyRF9ZYzV3bk9VSHlndkMtamZ5SXRqcW0tNGNuNkFjRWFPd3I5TGRxWlhzbENITzJUVjFndHRyd3Z1UmYwRDFwQi10MVhoZ3RtMlRETHEtT1I4a0pmZC1Wb3J5eDViQXplc09GVmszWi1KM2FCNjZXVzlic29zaHIyd2VoTV9fRGQ0ZVBIUQ?oc=5"
     },
     {
-      "title": "Harford Mutual Insurance Group Announces Board Reelections Following Annual Meeting",
+      "title": "Drake International Marks 75th Anniversary with Investment in Canada's Future Workforce",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON3NYTS1Od3dwSGlGcDE2bWhCeHBLVk5tODd5TTJYMTM5U0NMZVhzVWp5ZW1CYUJ3NGlaazEtY3lsREtjQTJVbTZtTDVqMGJSS3pDRElfZGE1WENhZ01NaXdKOWgtNDlNc2k1QWxDZmJ3QVZ1R29kMTRSeWRpbDU5c2Z6eTF1SXd1MWJ4VG0wYVBmeVZvVGRVbl83cTlyN1hJMkRGZGw2c1FsUWp4c3pjY0RsVWRoZFJCTkwyTElpN0RUc2lWU0toUWhkNkREMmlTVERGZExQS0FaN0ZX?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTWFBTkloNDRJV2JyQkw1RG85VF9YSW5ncVdjT0Nsd0xONUgwakw3VlNfWm1lQXJkazhHNUxOQUNIRFh0bkFTdnNURlhWX043YUM3THNvVGtHU3BPa2s2cnBlcmxWdjFobnJ5ZmQ0WUdMNmlncE5LanBkT1lyaXZVaDdaejdteWViTFpjWmFDVTh4dVRZRVhLdEhlWDZxejBBT0V4TWNXclJ4NmZfdXdBZERLenZDMFRkc01qVmE1djk4NUQwalBFazhXNHR4RDNhUi0yQ0JPaEdlYlYtMXdyNw?oc=5"
     },
     {
-      "title": "May's best reads from Morningstar",
+      "title": "Turn Therapeutics Reports Interim Analysis Findings and Adaptive Optimization Strategy from Phase 2 GX-03 Trial in Moderate-to-Severe Atopic Dermatitis",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdkFzbFFTUTczV1FFMGNuWFNaMTgzci1VRkU4VXVnRnlBRTBsY0NObGJncHBjOW1BaHNmbXE3ZVZpNHhTLXU0R1BGVnVLcXl4WEVGVlVZSFlETFNVMksyb3lOUUtsbVNLVHBweThxbGNGOTRIUEhzM3lSYU5MQ0VWVQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOaDNaOW0xTVphalJJc0tjUnY2OGVJWVFiS0RZbmJhY2NfN2VNQlVuZkZpRVVUT0JhbmxXVXdXM05weU9ES0JWTUhWemtEb01uLU14QXYzTXZZMGM4bWhNRlNjZFNHQkhWZTVIQi15TGZQUGVjT2tERUVhZTh0R2hBVlZhZXp5VHNRZmVPTzFvYm5LMEZIUVcwOVJxU0JNMEFvRkNTOGprNHhFSVJiREktMFBvSDZ1RzRQTzh5NEpyQlNfbjhhZ09jS1l3SnktOFk5WWk4aTN0RmlEVHVMMjc3cURIS3VRUnFxcXRCWjhzT29lSHFLQ0dtLWxZWUtweHJVdWhRbktHbHZ6WWw3dzY3X1JJVEdoNGRYMzNBOEdMUU5CU2ZpQ0t1ODd5WXZ0SE53ckxRM0JUSUQ?oc=5"
     },
     {
-      "title": "Morningstar: Priced For Complete Growth Collapse (NASDAQ:MORN)",
+      "title": "3 Best Copper ETFs for 2026 and How to Invest",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQUhjN2E5U0VrSnVGU3hxR0JhYVRqUzVLUG5HMzkzdnRtNXFrWVM2Z1JLeVVJS1pzYlROQVlxNEJiQnJ6ZWVwN0R6c2ZBRmhMN1VjSnNKN2JSLXppbk5ISV95aGU0ejhlSU0yLXE5aU5GcXNabzgxNUJ4VjVDNWRvd0dFU1RmeGlnYjRqNlJYeE9Tdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSHpCMG1GQ3pyS3Etb1lMWEd4S25sZkltQ0RpX0kyN0x3SGN6ckdDaTdUWjVKZ2owZUMwcDRqSWUzckN2dWlGcmVjZGR6TWtuS0s1azh4WXNWUVJoVzU4QlMtWVRDZGo5VXB4UUQxbHRWUURXbUZSVTFQQzFWc21tUlhIYUEzXzEzLUNrYlB6eko0N0drRmwxUjc5VE5XRjJ4eEQwNlpmME5MUHBP?oc=5"
     },
     {
-      "title": "Sector & Industry Performance",
+      "title": "The Best Way to Invest in the SpaceX IPO Is Hiding in Plain Sight",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWEtZUzJ1Y0JsejVfb1o5VkF5Z3BFdWVwYzdCcEJ6dWJ3N19uOFNoY2VaYnMtUVpLeTdSUE83a3pkTWtOQmpTUm01aEJteWVhNU5n?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYmVGVTNMYlloNTE4YkI0WUtIMzM3UkNuS3FGbDVlYWgxbzdTM2hBaGZwMjlpbVdPX2dzOFJlTTI4WmRscHE2ckU1X0NfeFpHbmpHd3dza1VKSmFkYkZnU25JUzVRazVCMGRPR19uZ05OUHJScEJWR3V4Ykp3aFNJbDJLMnFVUE9PLUU0QlFtbEU2c0lUT3h1elZfMlpHQ21xX2NGaV9Da3pzMlVDVG1XekdXYXoycXA2Qm80Z2htcEhmMnpYZnhHZHUyR1FXRDRQdHJ2Y0MwRGpkTE4yUlRHaG9nNHo?oc=5"
     },
     {
-      "title": "AI Stocks Are So 2025. This Snubbed 8.1% Dividend Is the Next Big Play",
+      "title": "10 Best Online Brokerages For 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc0tSTzJoNkl3M0ZqdHNJSHoyWUNXbTJkUV9HalJQRk9XMjluOWxNWmFNMzVCTE1feHVwWG40X0J1eDFUQ1pxejR6N0tCa3R2UGxaaXQxR2lzR29uckV5RVlHS3drTG1GeHFZLUs3NkUtTnRBSThLZnUzZEVVTHI0dkExdkNsbnVBNHFLbS1QbFVGb3ZGeUhlcHVnQVl1SVQ4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VQXRNQXZPbllYWFhtLTR6ZWZMNWZKUkJkYVVJUV94bHQ4ei11eXZVZ2hOYi00cWN4RlRTMGpZbXlQZEZyRlYyNXRzMHVlRHR5ZWFLYmp4QjhnaUthYXZIREhMU2o5VVFTYldvTHFR?oc=5"
     },
     {
-      "title": "9 of the Best Bond ETFs to Buy for 2026 | Investing",
+      "title": "Stop Trying to Beat the Market: This Vanguard ETF Outperforms 90% of Professional Fund Managers",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WMF9FVU1pdk1WWHpCemd6QlZ4ZkktUGdLQWIzbldXeDJsbmNqTVdLclBUai1NRXBsUGVGb1lrSEsyWjIzN0x4b2lZOW1fMXFHLXdrSzdlVHg5bUpraWZrdmJFZ2tzQnRjQjRrcU1OQ0VvZHpqdjZpWQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb05ZcHMyd3FJaEM0SFl4OExiOE9mcExEMXlzaGhjMmhCT3NkeGJYZTNzVF80V0hzZ2F3emNBNTltdXVUNlFULUF2UktIcE9mU2NuZENPVGU3ZVhsdEgxWWJ4cGxPZHQ1NFJqY0czZXlqV2o5cUFqNFZoblRpRU1rQQ?oc=5"
     },
     {
-      "title": "International funds top return charts, but overseas investment limits persist. Should you continue SIPs or",
+      "title": "Best Rare Earth Stocks to Buy Now June 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZ2UxV2RzT2o0TUc3bHlURWk2WnlKRjVFTFMwZUhYcDZ2ellaNTl4TFhjc2ZfcmZhUDRJbjRRVVVEQ3BHY2c4QnRHa2JqWmx4TTRTSVZhdXNRZFI1MzZvZUNsTklvcWlJOUZjZkZqVWJpS2tuVjl0cGxQMm42VG10Y2dySHpTOXZIU2FVdlhXQmZxTDZHVGVOTE9GYkpVNVhoMDJGa1R6QXpkb2RqeXlqQlZlVDltcGxPY3hDRFdvX0RKLTAyV3llVkd4STliUUZ1VFB3MkdrVXNyNzMwVkh1LW1ZdzRtVjJ2V1ZleTFJRGpKMWt6NHVUU1p0TnhfVzZYZTJyZjduX0stWldxWEtzTlJBRFVmUmNxbW1TVnRHcnLSAaACQVVfeXFMTmdlMVdkc09qNE1HN2x5VEVpNlp5SkY1RUxTMGVIWHA2dnpZWjU5eExYY3NmX3JmYVA0SW40UVVVRENwR2NnOEJ0R2tialpseE00U0lWYXVzUWRSNTM2b2VDbE5Jb3FpSTlGY2ZGalViaUtrblY5dHBsUDJuNlRtdGNnckh6Uzl2SFNhVXZYV0JmcUw2R1RlTkxPRmJKVTVYaDAyRmtUekF6ZG9kanl5akJWZVQ5bXBsT2N4Q0RXb19ESi0wMld5ZVZHeEk5YlFGdVRQdzJHa1VzcjczMFZIdS1tWXc0bVYydldWZXkxSURqSjFrejR1VFNadE54X1c2WGUycmY3bl9LLVpXcVhLc05SQURVZlJjcW1tU1Z0R3Jy?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kb3JyUVVPQUU2Z1ZLN2xScXE0SldVZTNHSW5kYldwTmR2QnlEN3B1aTZkREE2VGNfMW9reDRUODNFY2ZkQU9lT1JHRTRTTWlTcmlFYkZ0RzhDQnRkeVk1RFBHYWdaRDZkeFZTNXZhWXFxdGhB?oc=5"
     },
     {
-      "title": "The Semiconductor Play Nobody Owns Just Lapped Wall Street’s Biggest Names",
+      "title": "AI Stocks Are So 2025: This Snubbed 8.1% Dividend Is the Next Big Play",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVkx1XzJmalMwZ3o3RzhaVWJYOXJTQl84X2VxcUVWLUljaHNjQ0M4dW1lRlg4TzhCZEhnendDQWpzM1Q5a3ZuVC14aEF2VEstNGhGVGo2eklEc0tCeFZpLTJHOElVUXdOMm84UklJY2dSTWwwOGlQT20zeFdTZlV1cjJKZnRVX0tKc1Z4T0hoRjl4bHlPTDFPVm1WVm9HTUtrNFhCbjVFbUJfZG1NWk1JWHZkTFFFb3pT?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVVnd011eG1wMFNiY1BOWXpIYVQ3LWdLbHJpUWt4LU5iZjd5NXlQVVlsNzFRQ0R0dnliaVgzczB6alhodHhmdTIyYk1WZHNuaERkWFM2WVFPWDlBdmdic2VTOG5VaXJWY0FDSWloTGI4cF9JcTRUbU1sNEItTFZRcVh5S05xVFVpRVZEelpCLTNmcXpUenQ5SGZ5a09ySWd0T1c5dDVDX1FnWmhBbmFwNURn?oc=5"
     },
     {
-      "title": "The Best Weekly Income ETFs to Buy",
+      "title": "360 ONE MSCI India ETF-Growth",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CZFo4M1NwYXlGX25CanloV1hCVUJTQ0xKeWlpZXU4eTFGOGxCY3pwajNuT0xYam9TX0dNbkJKVG9aZnVkYjZobncwYjdhRkhXX3ZfSVJLS2VzY0RBdTl2LXE2V2pQYzdQYzlJLWtYQWRPdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSElnZDEyRXNCaHg0WjhsQjZvaFdwYVpaYkxWMTd4Zk9jenZ0SUtDZEptbDFGZUVhOWZqMTVyMF9JYXFyV1pnUXJxdU5xX2h3Mlg5d2JNMWtUTnh5ckZMNmlMYUlVVXZxdW9sSl9YNVZUNlpzR1dQYUFza1htOEhQcGItTXhJd3pNUEF0Mw?oc=5"
     },
     {
-      "title": "Forbes 2026 Midas List: Top Venture Capital Investors Ranked",
+      "title": "Who Owns JPMorgan Chase?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fcGVEQ0g0VGFkMnVBQmlYNjNock5lN1FWdF9yM1Z1bmhCdnZFOXZUSlpoSWs0S3dHcTN5NGlMMnZHWXlnU2s2UUxZSQ?oc=5"
-    },
-    {
-      "title": "The Best Vanguard ETF to Invest $2,000 in This May",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9COEplRWltSXJFVGJOWmVRbzhwNG9TZmVGOTdnQkptRXVPMkxYZjBOVDhCT2I1UGg2ejdOYWZ6NWdjOGI5UzYxRkh1bGNud04tUzExTnowQ1VXQ1hqTXVMbzFBVzUtcngzZjJXZ0ZsOGNWc0lhSEQwWVZn?oc=5"
-    },
-    {
-      "title": "9 of the Best Bond ETFs to Buy for 2026 | Investing",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WMF9FVU1pdk1WWHpCemd6QlZ4ZkktUGdLQWIzbldXeDJsbmNqTVdLclBUai1NRXBsUGVGb1lrSEsyWjIzN0x4b2lZOW1fMXFHLXdrSzdlVHg5bUpraWZrdmJFZ2tzQnRjQjRrcU1OQ0VvZHpqdjZpWQ?oc=5"
-    },
-    {
-      "title": "**DWS Slashes Expense Ratio on Xtrackers FTSE All-World UCITS ETF to 0.07%, Offering Lowest Fee in Category**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Vanguard Total International Stock ETF (VXUS +0.08%) Outperforms S&P 500 by 45% to 27% Since Beginning of 2025**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Fidelity International High Dividend ETF (FIDI) Returns 38.7% in 2025, Yielding 4.34% as of February 2026**",
-      "source": "gemini_grounding_finance",
-      "url": ""
-    },
-    {
-      "title": "**Vanguard to Cut $250 Million in Fees Across 84 Mutual Fund and ETF Share Classes, Averaging a 27% Reduction**",
-      "source": "gemini_grounding_finance",
-      "url": ""
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUcwMXRRSGN5QWNlV1Q2RG1LQWF4ZzI5WDJwZG1oV3JCcS1KRjNWX1diVDN2VnBWMnEtdnhoc0ZORGJwZnF6VmhSeXAzcUI5SHZSZkh6T3huYWZwTG8tU0dxdVBiQ2hjdlVzRFBhNTh1cGNDV3ktYUdfUndfVFFVclRn?oc=5"
     }
   ]
 }
