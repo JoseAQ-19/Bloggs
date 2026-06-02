@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-02T08:33:39.278040+00:00",
+  "scouted_at": "2026-06-02T08:34:50.878859+00:00",
   "total_candidates": 2,
   "topics": [
     {
       "rank": 1,
-      "title": "Mejores depósitos a plazo fijo 2026: ¿Qué bancos ofrecen hasta un 3% de interés?",
+      "title": "Comparativa 2026: Los depósitos a plazo fijo que ofrecen hasta un 3% TAE en España",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Dividendo de Puig: ¿Cuánto puedes ganar si compras acciones antes del 15 de junio?",
+      "title": "Puig reparte 0,50€ por acción en junio: ¿vale la pena comprar justo antes del dividendo?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Comparativa de fondos: ¿Cuáles han superado el 10% de rentabilidad en el último año?",
+      "title": "Fondos de inversión que superan el 8% de rentabilidad en 2023: ¿cuáles son y cómo invertir?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
