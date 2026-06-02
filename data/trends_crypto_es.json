@@ -1,0 +1,22 @@
+{
+  "category": "crypto",
+  "lang": "es",
+  "scouted_at": "2026-06-02T17:42:43.292422+00:00",
+  "topics": [
+    {
+      "rank": 1,
+      "title": "DeFi en la cuerda floja: Expertos advierten sobre la creciente inseguridad en el ecosistema",
+      "lang": "es"
+    },
+    {
+      "rank": 2,
+      "title": "Poolnarc: la herramienta que revela mineros ocultos en Linux con eBPF",
+      "lang": "es"
+    },
+    {
+      "rank": 3,
+      "title": "La defensa de la privacidad en cripto: la comisionada Peirce se opone a la vigilancia excesiva",
+      "lang": "es"
+    }
+  ]
+}
