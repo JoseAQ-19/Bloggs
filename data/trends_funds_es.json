@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-01T08:54:10.069205+00:00",
-  "total_candidates": 8,
+  "scouted_at": "2026-06-02T08:33:39.278040+00:00",
+  "total_candidates": 2,
   "topics": [
     {
       "rank": 1,
-      "title": "Vanguard España: 5 datos sorprendentes sobre el rendimiento de sus nuevos fondos en 2023",
+      "title": "Mejores depósitos a plazo fijo 2026: ¿Qué bancos ofrecen hasta un 3% de interés?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Banco Sabadell: Análisis del dividendo extraordinario de 50 céntimos por acción y su impacto en el valor de la acción",
+      "title": "Dividendo de Puig: ¿Cuánto puedes ganar si compras acciones antes del 15 de junio?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Luz verde al dividendo de Puig: ¿Cuánto podrías ganar si compras acciones antes del 15 de junio?",
+      "title": "Comparativa de fondos: ¿Cuáles han superado el 10% de rentabilidad en el último año?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,44 +49,14 @@
   },
   "all_headlines": [
     {
-      "title": "\"En secundarios entras a mitad de partido y recuperas la inversión desde el primer día\"",
+      "title": "Mejores depósitos bancarios a plazo fijo 2026 (junio)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMTlpNEVneXM2QkMwdE50MWlaU0t1amtYQ2NEai14WEpXVElUaUx1aHpIa28zMkljc2lVb1JLN3FYcndKQ3Q1NkdlbVB0dU1VbkVTTmdDbGlKVlYydnNaRHl0Zkt0WktGUGxSc1Q0U2VDREE0ckIzY2U4cS13OFV4d1NNODBPa0NBQ01CM01jMkNaUHI0Wks5R0Z6dlhKbzgxU0k5eGg0aVdtSHfSAacBQVVfeXFMUGxwS01MR3NiWGVleTdlMjVxNW11RnRUa1BaM3ZoODJYd2hLblFNNGE3YXhtS0VyTXBhVDFhWVIwcGRsLXFGTmRiQ1BWb1cySlYyRE1lWFotb1R5U282OVZTNXUzdnZXM05SdERNbWlHbGRqSU52RkxaTEZuajFWbFdMbFFRTXo4YnJWRC1KSERjZ2FvMWJlVUlEMlJyZXh4b0VmWGRtSTA?oc=5"
-    },
-    {
-      "title": "Invertir en Renta Fija: situación actual y perspectivas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
-    },
-    {
-      "title": "¿Quieres invertir en ETFs? Listado completo actualizado",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QZ3ppU2hkYlA1TzgxYW9ZUS1rcnlReEEtSmFBR2FJWlJwVkpUem5WMUc1Qm5aY1Jlb2ZHYUl2NFdxd3VXVlRneDVKQm1ZejRmQTlhejExVWVvYy1GdUlVaTNn?oc=5"
-    },
-    {
-      "title": "Los mejores seguros de coche para jóvenes en 2026: ¿cómo encontrar los más baratos?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSDI2d2ZIV3NUczYzeWlaS0FValNnYkRrN3YtT0E0YnBjb3FFckdCb1hXQUxPdUpRYzExTFlFVkY5RGVCX1M5bW1OdUI3VmZ5MVRMOFNWbjR4TlVENGFvbnN1UXVjUERwc1pPUHBWLWFvS1pNUDBjRVVCQWNBYl9SalJ1MDAwTEFNS1UyY09Tc0lmSHZoTENyY2FaVkhScFVuekgwZy05Y1EyZDVMNHpXRURrY2VfQ29NbzlmY01ocVJ3OXR4M1ZnVzBEODNTaURrWlE?oc=5"
-    },
-    {
-      "title": "Vanguard, así es el nuevo equipo del gigante de la inversión en España",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNG83aTE3TlpDS191b0VpNXdMeUJCa0RPT1ByWXIwWVJBUUtnSU44ejdWOVRSWHpSSVpUYjJ6WXUzSGZaNkpPcnJTNS13UGZrTV9BRThSOW5WQ0wzaWo3cTRudnJ2ckhibVJQa0xPNmZYcDd5VzJXRDhmbUljaXhYVlhCUzZwMWhJNmfSAYoBQVVfeXFMT0ZqTEEweHBCMUtOUzQ3cHkzU080b1FZdm8wLTFpZk5IVFY4TnN4Vnl6NVF0aUdOeDZUNTJfdGc3WFVab3VIU09QZExzMkIzTVJRQ3dGZjdpbVgwTTJvdzA2ZnpYVkFQcTk0YTBzQUQ0VFpJZUttbFNQaHdMN1pnSGE3SHJpZkpNT3V3?oc=5"
-    },
-    {
-      "title": "Mejores cuentas conjuntas 2026 en España",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTJpbVBnY3l0ZzRzWmR2UWI3V1NjUy15Z1NIbFhPY04tRDJBakpGNS1uWndLclV1b2ZUMDRKNjVEVmVraWM0NUlzeEhCUmktVHByYUxCSEdKcGVPLTE4aFlqWlJyQzY5cFgzbHFSd0dNbDZ4ZjVBZlhxR2JkaWwyaEI3RWJnS1NjMGpwLQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
     },
     {
       "title": "Luz verde al dividendo de Puig: el día de junio que debes tener las acciones para cobrarlo",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSEQ0NW44WVpSZnhVR1Q0NWJxRG9hcGttcVdOQnRPSldoYTBOTTF0ZUlOUndRNGtBT3N4WjdTQjRydEpTbnNTajRLVkJ0QjNkUVc3NGJOWFFYNDN1QjBFc2kzX1BpOG9OVmJ4cWkweHVGQXJFN0FyVzdsS0pfM0VZcXNjSWJ2YmVUWE01NVFrM015Y251bUpaR0pPVV9pRUM2LW0tWHQwa1ZvZzJoNWtrVFpDRF85Tk41X3JUM2l3Qi1DQlBkLVhKZHdfVGZRcDdsVkhfSGVuX3NScW5T?oc=5"
-    },
-    {
-      "title": "Banco Sabadell abona este viernes un dividendo extraordinario de 50 céntimos por acción",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLU5wMUNNQVB2clhOMnNndWZha196SUxaaHZ0anRJak1ENFNqcFE4S0RwSVFhZXU4bVZrZzcxcUxhdjVicWRPdHphT09zc3JSU0dfNEcyendxR1JCVjNSWmh2U1NuRFVCR1huNHp4dUtxZm9xejNfbDU2Rlp4Z1JRZUt3VDd2ZFZIQUUtMnBJd2otS0JxOFJzYzhMLVloZXh1Y0VFbWxVUExrdTlfeVBhU3JDNlpxUFRNMU0zcTlublVWMktRMjcteUlXQWhKcmVHWjJ5eUN6YjZrUQ?oc=5"
     }
   ]
 }
