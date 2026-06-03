@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-02T08:34:50.878859+00:00",
-  "total_candidates": 2,
+  "scouted_at": "2026-06-03T08:39:52.209193+00:00",
+  "total_candidates": 8,
   "topics": [
     {
       "rank": 1,
-      "title": "Comparativa 2026: Los depósitos a plazo fijo que ofrecen hasta un 3% TAE en España",
+      "title": "Fondos indexados al S&P 500 en 2026: ¿Cuál ofrece mejor rentabilidad, el Vanguard o el iShares?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Puig reparte 0,50€ por acción en junio: ¿vale la pena comprar justo antes del dividendo?",
+      "title": "Potencial de doble dígito: 8 acciones del Ibex 35 y 2 con proyecciones de más del 40% este año.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Fondos de inversión que superan el 8% de rentabilidad en 2023: ¿cuáles son y cómo invertir?",
+      "title": "Análisis comparativo de dividendos: ¿Qué ofrecen Ferrovial y Telefónica en junio 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,14 +49,44 @@
   },
   "all_headlines": [
     {
+      "title": "Aumenta la inflación en la eurozona y se prevé una subida de tipos por parte del BCE la próxima semana",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUWpRUzNVVDV1ZU12RjlxZ0JySWRMaWtSRDUzUjR3ZVJkbDJUQS1kMmZrcDBUNWVMbDljX0RyV3lxcFhYX29MWS1SZksxbDRYeERoaHhqZnVUQlRUU0pxZGo4VlNTeWloNnVZWFdzUDctUV9OQ3RteWR6d0JPTDQ3LU1ZallOZ1RFNUZsXzNwWGJTZV9ua1RUVGdRZVVPNTZhQ1lFZVY1SXdXY25KTnlZWTZncWtTRkdjT3FXakstdVpQS1MzaDN2aHlLVEZaY0tXd2IxNzBONVozUQ?oc=5"
+    },
+    {
+      "title": "SpaceX: Morningstar la valora en $780B, mitad de su IPO",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZHpNbkFvYXl2SHRPcFBqZjBEMTkzR0NEZUZyTEUwcGJ3N0RGd2taUU5XNEFHTlhjSnpjQ0txaDlDRkctVWZYSUVtd0pSdS1vNXk2WkF2M0Izbzh5VUtRUEhVWXJ5cG52U1dleExLMW0zMXVzRUFXM0w0Vk5JLTRCd20zTlhKd3JsTDZB?oc=5"
+    },
+    {
+      "title": "Fondos indexados al S&P 500 en 2026, comparativa y rentabilidad: ¿Cuál es mejor?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk0tQzEzSHNxaDZzZVF1WUc3NFo5d2NWUjZPbDBWRHpMajdLZVBiTUo2QUVRRmtlblVQaHoxMzFuWmY1MFRJLWFMRUhkY2dQd1BfTHRhQUlLSnVwQXhWTTlMQ0JVelhoNDA2LWxYRmpvRmo1S19veHJjTkFsaUVjYVZxTVpOclNZQ1NuZXVudUpXQTRLVmdmS3Z1UkhNR3I4LW1sLTBB?oc=5"
+    },
+    {
+      "title": "Análisis y perspectivas de los bancos españoles en bolsa",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcUJqek1QNGQ5V1ZMRmR3RTFrVWNyVzRHM01RVDBpQ2ludFNRLWN3MjhiS0lTbm8tQjFVbjRPR0ZfSnZFeHJVbWhYcGNfc0wzMHhfYXNOQ0xPMXh0Nk5ELVJ0aldoQ0FhaHJoZDVUUVhHTkxBZ2RiNUt6TmhiTS01bGJiOVF2VFlBMkhSZTd2VnNIMTNkbXd3NHFHUU1jaVJzTWt3MW1DZDQwblpZWm9rSEFXcjJFUVAyRDRoaW16aktvbzhiQlY40gGgAUFVX3lxTFBKYWhiOERWWVFtSzFpa3BzZVBHZlAwdXdwbWRaOEc3eGphYXp3a3BXTm01dVQtX0kxVXpHUU1Zc1VKcEdmVE95SXEtUl84dUpQa2dHcnJ4RUhVTnVvanI0ZW9JeE9EUDEyZG5qR2R5bnFXajViTDc2SUNfS2s1SmFRRHFIYlBOTlBFMkN6Wk5HYkdLeDRReHk2M2pBVk1FM2w?oc=5"
+    },
+    {
       "title": "Mejores depósitos bancarios a plazo fijo 2026 (junio)",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
     },
     {
+      "title": "Potencial de doble dígito en 8 acciones del Ibex 35 ¡y de más del 40% en dos de ellas!",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX1pIVHY5aVBwUlc1VnlzNVVNaDVXWWJpVnRkTEg1UWgyUHBKSHpfVkMzMGxodHhMb0hjYUJhS0Utelk1TWRxa3hZdmxBa3BVTmdfNE5Na1RKSVFiaU5JWlhBWkdENEJUb1JQOGdRVXNyd08zN3lwRDJmekw4Mi1LNmk2Z0tzTGI1MktGVG1pYXQtM3U2WFV0Q255eFZFQnV0c1BSYjFEQ1c0c3lPNkh6SE5UZ3B6SXlNcnJkN3FzQWI3QnI4RjNRYdIBogFBVV95cUxORkFkcmI4MmN6NENBOEllZHdWdzg1eHdYeFhKYk0wbW1OU0ZSUjYwTDRJR050RlV2eVpfT25nOUpCWG1IMW9aZW4xY09ObzdIR1VCLUJvelZNX19qQjIyU3RNekNLMDhITDBhbm5EODFaM1dHQ1lqQS1oSmtYaXVBN0s5QmpsaTZRbDhLcEpVR29uejVQVDJTelY3V3ZWSlRBdmc?oc=5"
+    },
+    {
       "title": "Luz verde al dividendo de Puig: el día de junio que debes tener las acciones para cobrarlo",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSEQ0NW44WVpSZnhVR1Q0NWJxRG9hcGttcVdOQnRPSldoYTBOTTF0ZUlOUndRNGtBT3N4WjdTQjRydEpTbnNTajRLVkJ0QjNkUVc3NGJOWFFYNDN1QjBFc2kzX1BpOG9OVmJ4cWkweHVGQXJFN0FyVzdsS0pfM0VZcXNjSWJ2YmVUWE01NVFrM015Y251bUpaR0pPVV9pRUM2LW0tWHQwa1ZvZzJoNWtrVFpDRF85Tk41X3JUM2l3Qi1DQlBkLVhKZHdfVGZRcDdsVkhfSGVuX3NScW5T?oc=5"
+    },
+    {
+      "title": "Cinco dividendos del Ibex 35 en junio: fechas e importes de Ferrovial, Telefónica, Puig, ArcelorMittal y Acciona Energía",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZjlkbWZqc2QxR2dfWUVhZTFHbVEzcU5YOUJBSW15Y2dzOF9DeE1pbGEyTDNvWVhsa1hGZ0tLUlp4OFlycTZscnFxUHg0U2lJckcxQjVtOWVGeFRIUEdxS1JjaWlzTW9hSmoxc2laMndHaExuOWJ5Qks2R3NUeEMweDlzSk5BNXB2cUJSN3pTZWhlYkM3dUZhb3RBTHR4U04yTjY3eDhwYUJmSUUtMTZRZWlSNzZzRkktSmdUb1p1SkV5WVJFeVEwNzFHd3UwRk1wN25YZzAtaTdPbFNkeW4wZTF0UzdBZFZkZHB0REdSSWQ5Y3paYWtzNWNn?oc=5"
     }
   ]
 }
