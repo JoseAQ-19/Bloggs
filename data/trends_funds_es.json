@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-03T08:39:52.209193+00:00",
+  "scouted_at": "2026-06-03T08:40:59.151693+00:00",
   "total_candidates": 8,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos indexados al S&P 500 en 2026: ¿Cuál ofrece mejor rentabilidad, el Vanguard o el iShares?",
+      "title": "Fondos indexados al S&P 500: Comparativa de rentabilidad en 2026 revela sorpresas en el rendimiento de los mejores y peores.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Potencial de doble dígito: 8 acciones del Ibex 35 y 2 con proyecciones de más del 40% este año.",
+      "title": "Análisis de los bancos españoles en bolsa: ¿Quiénes están superando las expectativas de rentabilidad en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Análisis comparativo de dividendos: ¿Qué ofrecen Ferrovial y Telefónica en junio 2026?",
+      "title": "Potencial de doble dígito en 8 acciones del Ibex 35: Dos de ellas podrían superar el 40% de revalorización este año.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
