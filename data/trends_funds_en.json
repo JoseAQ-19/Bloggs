@@ -1,37 +1,37 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-03T08:43:50.512972+00:00",
+  "scouted_at": "2026-06-03T10:07:08.943149+00:00",
   "total_candidates": 14,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar values SpaceX at $780 billion, half its IPO target",
+      "title": "You Bought a Fund That Owns SpaceX. Now What?",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "May's best reads from Morningstar",
+      "title": "Morningstar values SpaceX at $780 billion, half its IPO target",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Why We Continue to Like Dodge & Cox Stock",
+      "title": "May's best reads from Morningstar",
       "lang": "en",
       "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
     "key_phrases": {
-      "fund class": 22,
+      "fund class": 21,
       "full list": 20,
       "index fund": 7,
       "small cap": 5,
+      "emerging markets": 4,
       "fund institutional": 4,
       "etfalps shares": 4,
-      "emerging markets": 3,
       "markets china": 3,
       "china fund": 3,
       "funds growth": 3,
@@ -51,6 +51,11 @@
   },
   "all_headlines": [
     {
+      "title": "You Bought a Fund That Owns SpaceX. Now What?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLU1PeVBCX3BqR0Q0WlRHRnR5bmZBdEJXUkpET09Rb0pRaGJrZjVmNXBRQWlpVHEtci0xZDNwWlBxM0pvWUdwZm1fNlVZajJyMEtQbHY3Q1gxQnVkZER4QkJyWjlXYVlZYzlqSjFlMkxpNzVFVUJqZ0FQYTN1Z2ozdg?oc=5"
+    },
+    {
       "title": "Morningstar values SpaceX at $780 billion, half its IPO target",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc3pZb1piR20yRkdKd2RwVEF6RGV4eTJpV3VQRDlVZS1LeWJYeVdnQUVFbzNTWkhtdml4VHZ1TFhNRDFNeWh3dlBkZFpoSkpBYzU5WXI0bmJWUzFpLXZuZGsxdE5vSHFUeTZwUDJ6UE1sRWh1cU5hMVZHNldKUWJNWGlDU2FPb3BldGViaWtsUzVMMjBEQnJsWGhLeTA3U1JsMGtWaFUtZFY4Z1NMVEt6bjZ1OS1MRUE?oc=5"
@@ -66,14 +71,14 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMMjVmNzhHWldheVVNT0VaM0xhbTJ4bExZbUYwTDNlaXZCRDM2cmNtNzFjdUhDQm1xMDhYYmVTX3JKbUFLOFoxNUIxZmh0Tm5rU1VaNXRlckk1ejZmMllVMWVxSzYxNklPUlcxS0JzSTdQQVp3OG9yY253?oc=5"
     },
     {
+      "title": "Morningstar Investment Management LLC Reduces Stake in Meta Platforms, Inc. $META",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWTVzdko1bDFBcnNRSHMzUWdXMHNVWEhVYkpGZ0lTOWVveVJRVFhBYTZ0RTV2bTYtUm1xRjhZeEhucm1BeHZmeTYtRVdBZ0haVS02WDFHX29UcnljNVl3dEdaWkVMUzIyWjloUDRuSjR1dGNrT1NlRnpWdVlQaWpmZXgyeGtWV1B3MXdXdTBnNi1rNkcybVY0b2RsSDAzVXpUV3lyYzBtNGtCdDdLcktRc0gwR210djQ5Ync3NDcydUk4R0tmX0U5Y29VcWxtUzhSMFZ6Wk9R?oc=5"
+    },
+    {
       "title": "10 stocks the 'smart money' has been buying while the Iran war rattles markets",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPelpnSTN2NjR5T2dqUXRGYWF6TjRGbVlyWFBYc181Y1RPdS1ERGxFMmt0bUFXN3V5eUR2LTZrQTNPR0x4MHNRRmdaUUprazZmOThiTERwMy1BZ3BjMHdVV2lHMGhuRWNpQ3A3eHdOOTRBcHBPZEh3YkhfUzdxQThORmptLXIyaTN0djJXdDdVYjdIa0k?oc=5"
-    },
-    {
-      "title": "15-year energy fund expands into AI-driven power infrastructure",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkFjbkdGOG1ETTU5WERPOVlMTHF1TmVDX3FNOGpleUE4SGF2ZkxnU1kwZ3RaSEhBOFUtbVNQS3UwMHo1TWxoamEwYkROeG5CeWhKTEt2MTFnYXVwem9kZ2dsSEtIWGRGMFFHajQxdjhPZFlkWmFMMkNxaWl3QjRYWl9uZ0FIRkpMd251ZFhMeHNIUEc1eTdlUWswOGNrem1nc245YlVOYl9rNjBIVENHdGFiZzMzUQ?oc=5"
     },
     {
       "title": "Angeles Equity Partners Adds Chris Huetsch to Investment Team",
@@ -81,9 +86,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZWo0OTJjRGY2Q2N5dFM2XzFQaVNqVVF6djd4clgxZG1ScW0zMUcxdTNPS3BSaHpuaVdBeERQcWhXZXJrTjI2ZjhDNnJXNU92dmQxQVE3SW9kR0Y3ZUt1SHQyakpiTU1yWTJWak9XMXhlN0RXcm4yZGRNQjNySHVYMXJnbTMxVG1GLWJGTU1vaUUwM2lZT2tDbVAxaE9WTlpSOVUzLUhfbXNuWlZKRnVZUWRRdjZQSkNZVlozdnNWYU0?oc=5"
     },
     {
-      "title": "Morningstar's Subscription Flywheel Compounds While the Stock Sits at Half Price",
+      "title": "The Best Asia ex-Japan Equity ETFs",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTE92bUpXcHU3VW9mU1lvTnJLUlhqaU1VYWp4OWdqbHhzb3dqbFlRVjB3Y3JKQTBZRktPQ1V6LUp4dHZ6eHZqTHZoNWV2cktxMG9BRzhEd1d4Vm9VNkkzcXlzalRBLXNHMVk1dUpmcmxTT1FMOHJJX21nQkhlbUlGbTFtZGJJbTBNM1hDTmhZRlk0c2x1SHExLUF2ZzZvRXUxWFZuV3FPV2V1bEZrTWRza2s3SU9TTkx3b25vMDlGV2Q0WnJfaXljaHBBNE9vTVNKOV9ERTZCRQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3LV9TaXRoZW9ZNENuVjZiRzd6cjhYVGM5WHo3Um5iUm5rOE42UDdaNFptWDZtQmJSdzhoTVVacE41WllCdllZVzhzN3QzUFZnRnRvNVNvRDVac3VReElvZ3dNLW5ZRFUzN0RsTC0wbHBEWFVZMHYzOW1LTVQ?oc=5"
     },
     {
       "title": "February 2026 Review and Outlook",
@@ -96,29 +101,24 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fcGVEQ0g0VGFkMnVBQmlYNjNock5lN1FWdF9yM1Z1bmhCdnZFOXZUSlpoSWs0S3dHcTN5NGlMMnZHWXlnU2s2UUxZSQ?oc=5"
     },
     {
+      "title": "7 Best-Performing Commodity ETFs for June: PIT, OILK, and More",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xOGI0LXY1TjJkSXRsamhnNnlVRDR2bzFPLS15TXZHaElQc29VUXNHQVBOLUdVZVJiM2VzRGF3amJPUGIzRlRNTktzNWpPTmxTQjZGckJtaVN2YVpaQXVjZkxheTcyV2M?oc=5"
+    },
+    {
       "title": "Monthly Market Wrap: May 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fVjRlWUR4MU1ocFBLb0t0ek8xLUNCckRIU1JTc05uQ3BXcXZZaWtiODYwamdiRmFmb1ZkWkp6NG5UQWhHR3IyQTNONnJQM2tUVldWRzk3RXZFTnVjWEJLb2Yxd2w0ZXZIOUg4?oc=5"
     },
     {
-      "title": "Best Rare Earth Stocks to Buy Now June 2026",
+      "title": "8 Best Quantum Computing Stocks to Buy in 2026 | Investing",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kb3JyUVVPQUU2Z1ZLN2xScXE0SldVZTNHSW5kYldwTmR2QnlEN3B1aTZkREE2VGNfMW9reDRUODNFY2ZkQU9lT1JHRTRTTWlTcmlFYkZ0RzhDQnRkeVk1RFBHYWdaRDZkeFZTNXZhWXFxdGhB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1hyeGtlakpTeHowbE14UGYtTHVyWHZjVXNWTWVjOTFsS093NURWM1JKeUw3SE1aS2I2aVhoMGZJMG1sNDZWLUgwNFRGR2RhZEFfMi1wRUx0TUJqeEJnSWxhai0tNzRBbXZwejh4clhlb3J2MGR0V2xnZnRaS3JTNUg3UjBCVUU?oc=5"
     },
     {
-      "title": "AI Stocks Are So 2025: This Snubbed 8.1% Dividend Is the Next Big Play",
+      "title": "3 Best Copper ETFs for 2026 and How to Invest",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVVnd011eG1wMFNiY1BOWXpIYVQ3LWdLbHJpUWt4LU5iZjd5NXlQVVlsNzFRQ0R0dnliaVgzczB6alhodHhmdTIyYk1WZHNuaERkWFM2WVFPWDlBdmdic2VTOG5VaXJWY0FDSWloTGI4cF9JcTRUbU1sNEItTFZRcVh5S05xVFVpRVZEelpCLTNmcXpUenQ5SGZ5a09ySWd0T1c5dDVDX1FnWmhBbmFwNURn?oc=5"
-    },
-    {
-      "title": "World Markets Watchlist: June 1, 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTktxZVFNNFc3cTdvUng4bnNDTTRfc3V3VU8zSm8yamNBQ25CZVl2RjQ5Y19tUGJHNmhlR3JaTnFaa1FLYzJkUDlqY2V0aEJFSzdWbmc1THlNQU94Tkp2ckM0UXdLbE5vSDB4eV8xcEYwV18wRy1fOTJSeDlRSWF3a0tYQjhPVmQ3NFRaRkRfT2NEcjJXWTNiRHdjaEZaUQ?oc=5"
-    },
-    {
-      "title": "State Street Calls It “The first $1 trillion ETF will land this year”",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5obGxZOEpjTFNVdEFFLWdBZjluRkFpU1RzUk40MS1EdGYyczBfUDVwYWVkVTFzRTNCcmk5R0ZOQUhqajgwREpfZ3E3VlFkNERfNXQwRDNaLTlEckFIZW9rS01xQmVtaDVvNlpjblViOTJSVkJkaW9YWVBn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSHpCMG1GQ3pyS3Etb1lMWEd4S25sZkltQ0RpX0kyN0x3SGN6ckdDaTdUWjVKZ2owZUMwcDRqSWUzckN2dWlGcmVjZGR6TWtuS0s1azh4WXNWUVJoVzU4QlMtWVRDZGo5VXB4UUQxbHRWUURXbUZSVTFQQzFWc21tUlhIYUEzXzEzLUNrYlB6eko0N0drRmwxUjc5VE5XRjJ4eEQwNlpmME5MUHBP?oc=5"
     }
   ]
 }
