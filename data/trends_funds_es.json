@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-04T08:29:03.811285+00:00",
+  "scouted_at": "2026-06-04T08:30:21.280078+00:00",
   "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "Mejores fondos de inversión 2026: descubre cuáles han superado el 15% de rentabilidad en España",
+      "title": "Aumenta la inflación en la eurozona y se prevé una subida de tipos por parte del BCE la próxima semana",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Potencial de doble dígito en 8 acciones del Ibex 35: ¡dos de ellas podrían superar el 40%!",
+      "title": "Mejores fondos de inversión 2026 en España por categorías",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Vanguard FTSE All-World vs. Xtrackers: ¿quién ofrece el mejor rendimiento con comisiones del 0,07%?",
+      "title": "La acción que redefinió las estrategias de inversión de los fondos en México",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
