@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-04T08:32:47.165556+00:00",
+  "scouted_at": "2026-06-04T09:45:58.313742+00:00",
   "total_candidates": 16,
   "topics": [
     {
@@ -12,13 +12,13 @@
     },
     {
       "rank": 2,
-      "title": "VOO: Vanguard S&P 500 ETF Breaks the Trillion-Dollar Barrier",
+      "title": "Wellington Management to Buy Hartford Funds and Make Its Own Fund Family",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar values SpaceX at $780 billion, half its IPO target",
+      "title": "VOO: Vanguard S&P 500 ETF Breaks the Trillion-Dollar Barrier",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -56,14 +56,24 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLU1PeVBCX3BqR0Q0WlRHRnR5bmZBdEJXUkpET09Rb0pRaGJrZjVmNXBRQWlpVHEtci0xZDNwWlBxM0pvWUdwZm1fNlVZajJyMEtQbHY3Q1gxQnVkZER4QkJyWjlXYVlZYzlqSjFlMkxpNzVFVUJqZ0FQYTN1Z2ozdg?oc=5"
     },
     {
+      "title": "Wellington Management to Buy Hartford Funds and Make Its Own Fund Family",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzVUcG01SUZ6TFR1dHhEMWpKV3gyUDZfdmNtRHgwdWxGd2d1aFlzbU51b2RoV3JPakxqRDhNMUF5U1RLOXVYOEYzWFRmVk9OMHNUZUsyWU1FdEhyN1Z1TF9UU1R6SlJldzh3czdhVmYyRnBzNzVVYXg3eE96T01ZUkVWbWI4eGkyREZHdlRSdUVoS3FFYkRiN1YtQjJMaGF6?oc=5"
+    },
+    {
       "title": "VOO: Vanguard S&P 500 ETF Breaks the Trillion-Dollar Barrier",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc1A2V1F6a1RxWmxWWmZ3REloVlhQT0hVNTlQZXU1SG9DWTJBU3dlRXRxNjFvVmR5ZW9KZlRxNl9sS3p0TllpbTJvLVVOd01SY0ZnbnBOaE1hMGpiU3pzd3JEekE3OVhBYTBFYWg5TXBZWmNPcUN2d29IamlUVnM4ZFF1UEFsdTg4MWhjTw?oc=5"
     },
     {
-      "title": "Morningstar values SpaceX at $780 billion, half its IPO target",
+      "title": "3 New Vanguard Active ETFs That Stand Out",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc3pZb1piR20yRkdKd2RwVEF6RGV4eTJpV3VQRDlVZS1LeWJYeVdnQUVFbzNTWkhtdml4VHZ1TFhNRDFNeWh3dlBkZFpoSkpBYzU5WXI0bmJWUzFpLXZuZGsxdE5vSHFUeTZwUDJ6UE1sRWh1cU5hMVZHNldKUWJNWGlDU2FPb3BldGViaWtsUzVMMjBEQnJsWGhLeTA3U1JsMGtWaFUtZFY4Z1NMVEt6bjZ1OS1MRUE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZXN0RDZrNW1aNTUxWl9ZTDZwZGltd1o0Q1NnbXlTVEloQURpWVJaYWptdUJleE1JOUFKNVlEOGNrQUtFUkZzY1dSV1hONDA4WE5qR3Z2SkxFb3VydS1FV1lid05iMWRqYTlOSlBKeXU3TmpsaGx5V194aFRaTUdueQ?oc=5"
+    },
+    {
+      "title": "Brian Ferdinand on Building Resilient Investment Strategies Through Data and Research",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOE12bElVZDExMlNsZzJmd1RWcDdjdUt3emlBUzlxYW1mU09oRTJIR0hRMnc4ZzBpejNwLUF0el9FWGJYX09VQkxRa1FJem1BN003RHlYYl80V3IyVjc3c2JHSlNxRzc3a1NOaDhiTHZiSzlXdmhOMnFsWDNqYmdfaWRsbmJnZmVYMG4xTFZuWkJGREh3Y0tVUTlCYVVvRDR1OWZETlgzN1Azc1dSck8yaEVVUzZfVFp1VVBtY2ZoSElWQVBqRXZ4Y1g3U3RpUFJHUU5BNmczSQ?oc=5"
     },
     {
       "title": "SpaceX is worth less than half of its $1.75 trillion IPO target, Morningstar says",
@@ -71,24 +81,14 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLXF2MzhiNkN2LXlmMnk5OWVDTDJDSzBEM1hXSFA1ellXNFhiTGtkWVN5Z1VwZDhvVmVQblRoeVdVWWNtSEMxQjFqMnhKMkJLdE9wamFhTllubTRRa3REY0ZsQXU0XzFMSFh3eVJYZkhoNGJyNjlSU3lkYzQ3aTY2MEpTcUx3QdIBiwFBVV95cUxQVHd3WTVJQmZxX2xwOUE4T3FzOGRUMkhLaWp1aDRHbzczTzNXV1FoTEZrdHVBWWtpNkNSOEdONXdJUkZaaFNaMXJvWU9JQy1FUDA4SHV6SkM4cVlVcHJmcVB2WnZyOEo2U2ZOWGRrUmlsZFZ6akg1QmF2VUx2eWJsUEVPZXNCQWJ4N080?oc=5"
     },
     {
+      "title": "Hospitals Improve Point-of-Service Financial Engagement With Patients, but Payor Strategies That Slow Claims Adjudication Offset These Gains, According to Kodiak Solutions’ Latest Data Analysis",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNVzZOYktQTEFDZl8teVRJQzBHUFpoRkYyVVFoblFnRlRva1NUVkc0TmN2dHN4Y2NXNjB2Q1E2aHBSZXFKZGtZQXhMLXk2TnJHa21LWTlOSDMwRGFma01nTmEtZTNfemdOZ0M0bXlwcVNVZUgxS0lwZVpVS1I0Vl9MWmxIRkhOSEhMWFhJOXdlUUs2TmJPUGxRTkpQMHlUYmg0aUxwZEtESEprMUc5MGxZU0NNM2FjR0k0eEFlVWxNdWRFOTFqWl8zM1lwQVUzLWhJbmZ1SnNzNVpFakR0QmJwNnJrT2F6eUprdjdicWtYRkxyVkRFYWItZEgxWXRNXzJBVGVpUGkzNnltd2RoM0VkSTFhZmlsRElwRk1wcklOb0RXMllrUmctQ0c4b1ZIYTBfNVZXTzRyUHdRQWJKVE9kbzQxaUtPczRKZmYyLXE3eXJRMVJwdWlacEhDWWVUbGtrMlZyTVpCdy05RnFX?oc=5"
+    },
+    {
       "title": "Morningstar Investment Management LLC Reduces Stake in Meta Platforms, Inc. $META",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWTVzdko1bDFBcnNRSHMzUWdXMHNVWEhVYkpGZ0lTOWVveVJRVFhBYTZ0RTV2bTYtUm1xRjhZeEhucm1BeHZmeTYtRVdBZ0haVS02WDFHX29UcnljNVl3dEdaWkVMUzIyWjloUDRuSjR1dGNrT1NlRnpWdVlQaWpmZXgyeGtWV1B3MXdXdTBnNi1rNkcybVY0b2RsSDAzVXpUV3lyYzBtNGtCdDdLcktRc0gwR210djQ5Ync3NDcydUk4R0tmX0U5Y29VcWxtUzhSMFZ6Wk9R?oc=5"
-    },
-    {
-      "title": "SpaceX looks significantly overvalued, better entry points may come after the IPO: Morningstar (SPCX:Pending)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSmpiZWdfVzBZMGVBc054LW8zSGVRTTFaUXU2eWZhd29mQU1RV1VweEt6b3ByVUlEUjhYMzRMNEZDdHdqZERDdnZQZ2xOelJwaG0tM2ZvQ3pqdmNqRWUtbDJrWDF4aWhTTi1zd21WVkYxR1I1OEt3VkNscWRpOGkyY0tHMlozWWNUNkhyZkhPM1pzV2trOW1DQnhjYjgtbmY5WUFoY0pNaWczSlFlWUJuejVJd0hFdU1lTGJCYXZoYmdOSlhrTHRrNkNB?oc=5"
-    },
-    {
-      "title": "Wellington Management to Buy Hartford Funds and Make Its Own Fund Family",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzVUcG01SUZ6TFR1dHhEMWpKV3gyUDZfdmNtRHgwdWxGd2d1aFlzbU51b2RoV3JPakxqRDhNMUF5U1RLOXVYOEYzWFRmVk9OMHNUZUsyWU1FdEhyN1Z1TF9UU1R6SlJldzh3czdhVmYyRnBzNzVVYXg3eE96T01ZUkVWbWI4eGkyREZHdlRSdUVoS3FFYkRiN1YtQjJMaGF6?oc=5"
-    },
-    {
-      "title": "Brian Ferdinand on Building Resilient Investment Strategies Through Data and Research",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOE12bElVZDExMlNsZzJmd1RWcDdjdUt3emlBUzlxYW1mU09oRTJIR0hRMnc4ZzBpejNwLUF0el9FWGJYX09VQkxRa1FJem1BN003RHlYYl80V3IyVjc3c2JHSlNxRzc3a1NOaDhiTHZiSzlXdmhOMnFsWDNqYmdfaWRsbmJnZmVYMG4xTFZuWkJGREh3Y0tVUTlCYVVvRDR1OWZETlgzN1Azc1dSck8yaEVVUzZfVFp1VVBtY2ZoSElWQVBqRXZ4Y1g3U3RpUFJHUU5BNmczSQ?oc=5"
     },
     {
       "title": "7 Best ETFs to Buy in June 2026",
