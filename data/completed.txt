@@ -1633,3 +1633,4 @@ tools: ¡Aprende a imprimir en 3D en el nuevo curso del Parque Científico de la
 tools: Renters Ditching Security Deposits: The Surprising New Trend
 crypto: El Congreso de EE. UU. considera exenciones fiscales para pequeñas transacciones en criptomonedas
 crypto: Big Banks Go to War: The Battle Against Crypto Heating Up
+crypto: Bitcoin's Sudden Plunge: What's Behind the Drop?
