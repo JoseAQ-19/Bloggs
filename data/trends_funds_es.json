@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-05T08:23:44.686786+00:00",
-  "total_candidates": 8,
+  "scouted_at": "2026-06-05T08:24:45.993957+00:00",
+  "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "VOO alcanza el billón de dólares: ¿Qué significa para los inversores europeos?",
+      "title": "VOO alcanza el hito de 1 billón de dólares: ¿Qué implicaciones tiene para los inversores europeos?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis del potencial de doble dígito en 8 acciones del Ibex 35: ¿Quién liderará?",
+      "title": "Análisis de los 8 valores del Ibex 35 con potencial de rendimiento superior al 40%: ¿Cuáles son y por qué?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Los cinco magníficos del Ibex 35 frente a la guerra en Irán: ¿cuál es su resistencia real?",
+      "title": "Los cinco magníficos del Ibex 35 ante el conflicto en Irán: ¿podrán mantener su rendimiento en el largo plazo?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -64,14 +64,14 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPakVUcC1yTk45Zm1BWE41c3lzT1lBaWpJTWNOYzR5VDZEVjg0dGEycFlaUVczQzhIMnMzTkVsemNkdmV2OHVpZmVqdUl3cGcxMjk3bVJVOEY1RmlxUTlSZm9teDk4eE5DUk81Y05XVm1KWC1oSWJkaGpGSE04bGIwd0FzenUwN21RVDRoN1A5YVNSaWxfdzM1SG5nZWhnQ3prVk5adzc3TV9EdXRwRkHSAcgBQVVfeXFMT3A1QkdNY2JmdUFWRkEtY0pFeVBqdlVNNEJsbnNGM1VwS3h4RDZGbkFxU19CMTFaTWk5Z0JCSEl5QURKSVQtSDJTR1F4Wm5hblo3bktVVFB4S2pWSURmNEZaTVJzcFVPNnhDWFBlMzktYTRkN05EY2xTeVppRklNbFoxTTBrTzFTeU5mVDd0c2hDTWxTajlzS3d3c01NeUdJV1lUQzhsOXZZZnUwRkFSdC0xVVNCc3dEMElLZnJ4WGMyUEtKSE8yNzI?oc=5"
     },
     {
-      "title": "VOO se convierte en el primer ETF de 1 billón de dólares: ¿Qué significa este hito?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEpDX3V5cG80cFFOZF81VWdYU3ozbXJYV1dCaWwtMzcydEdXaUZ3TExRWk5zcmh2b2sySjhxaWxVaG9jRTA3LUpRTkROLWJ5T1RMYVlTNGZ1a2dmbUpyai1tbUxoSzYzTkItNU9fdld6X2FzYUFNN2NwY0E2R0dlTjltTFQyaWktWFRJT3daMmZsTEVuSTdYZUw5ZVpNVTNWelNYTkxXcktyamViZHc?oc=5"
-    },
-    {
       "title": "Rovi gana 9,4 millones de euros en los primeros tres meses del año",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVUtnaE5aNFVIbkN3akdXRGI5d3JBbk5DM0tiMnFRM2hWMTdyelo3aUpOYUhCRFhHWnRTRTJ3dFZkekViTEdXdFFzWFJ1ZUFuZmVLVnptb19SZUtjMVhQamxjTEJPdkVSVGQxbm42SkJYaEtLUWYyWEd6MTF2VXBwcUduY20zNVhOazRfcWluUWRHeGNIS3JJZUR6cnhTRUV1aHNxWEk5bnVEMjFQdDFNY1YwSTZTbkF4Y3E0VXdfX2tBdzhWUlHSAZ8BQVVfeXFMUDY0aFpXMm1GUDlsMFB2eHdLVkRGZnNVLVJYSXFYR1lES2lVbWVWMlhyRzdVXzFQVXYxSDFzRElEVmZVQzUwbEF2VTJDb2w2Rnp0VF85TEw1dHRMbExWanZXU2JfZWRHcVlVbDVwRUtaeVJpbm43S1B4RjU3aUJpWUpTeEVCaEw0RWVxbVF5MzVURUNBc1pJSmliVFlfU0tz?oc=5"
+    },
+    {
+      "title": "VOO se convierte en el primer ETF de 1 billón de dólares: ¿Qué significa este hito?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEpDX3V5cG80cFFOZF81VWdYU3ozbXJYV1dCaWwtMzcydEdXaUZ3TExRWk5zcmh2b2sySjhxaWxVaG9jRTA3LUpRTkROLWJ5T1RMYVlTNGZ1a2dmbUpyai1tbUxoSzYzTkItNU9fdld6X2FzYUFNN2NwY0E2R0dlTjltTFQyaWktWFRJT3daMmZsTEVuSTdYZUw5ZVpNVTNWelNYTkxXcktyamViZHc?oc=5"
     },
     {
       "title": "Potencial de los 7 magníficos del Nasdaq a largo plazo en bolsa",
@@ -87,6 +87,11 @@
       "title": "Los cinco magníficos del Ibex 35 ante la guerra en Irán: ¿resistirán en el largo plazo?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZHR4VkFxajNYQm4tZ0o5SkJKYlN5a2RFT1VyaVVYVno5OW1TVEZtcnlEa0FqUzhOdkN4ZF9NQTgyaldkQTJVcW5ua3dEdngybVpkenVYbWx5MWlGUnZ5MnFjXzlrSS1sejhnZXVpNE41UmhybDlNTFNLV0x0elN6QjN4bFVSNVBwVWVjU1lNak1WempYYmVSME02ekpLeFZGRGs2eFF0d1FrWFdzbVdiNW16b3VxN1pIWEY5bGZWZWRLd2ZVcTNyX2xIX2NBaldTLVJfeg?oc=5"
+    },
+    {
+      "title": "El Vanguard FTSE All-World toca los 165 euros en plena ofensiva de Xtrackers con un 0,07%",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdEQxdWpWV2VBczd4QnR0eGRzcG9BWjJiR0tOWUd0UGgtZzVFaTFXaHdfRUJndmpBR3RPYXpJS1VEQnZUSUUybVZHTE5mQXVxUk5jeF9LZHlEdzIzR0p5a1M5OHlwTG9UTXF3QXl3cm5MVDJKdXF3dGF3QlBkM0xkdG9PaEZWOC1CaGoxS2ptd1N4OG1tSEc5SHZ4M3dBNlUyQXVJTlJwOVd5eWpFZkhEU1NhUjFHaDdqRVU1WUVFNlE4NXc?oc=5"
     }
   ]
 }
