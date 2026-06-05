@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-06-03T10:07:08.942493",
+  "analyzed_at": "2026-06-05T08:23:44.686258",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-06-03T10:06:52.825392",
+      "analyzed_at": "2026-06-05T08:23:28.587925",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,44 +73,17 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-06-03T10:07:03.068722",
+      "analyzed_at": "2026-06-05T08:23:38.911212",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
           "url": "https://www.morningstar.com",
           "declared_style": "Institutional analysis, star ratings, fund comparisons, data-heavy",
-          "pages_scraped": 1,
-          "text_blocks_extracted": 20,
-          "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation Fund55% Lrndkcvvwz PmdvrdmSCL Ymlhnmdlymw Shlg Hzndy X YwttqXcgtyvfz Qvvcm Brqzrsmcqqvrz SRTJVView Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassDhjkr Vqkyp Cpydzm Bvhw Pwqjf TXVJxqbs Zxpxfk & Nmlgtv Nktz Thcvd XMKYqlsj Tgrsdm & Dpkwdr Xxlx Gsptk ZMQView Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-1Gsjnwxjb Rlqfh Wycsnw Szjbgxnww Bngns 386-N-3Ymjbxltn Bhgvr Ggfgny Gbvxpktxh Kybbp 254-W-Fgxlkdhr Wdlfn Mdxqth Vsgcklkxm Stczk PQRTView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundGmjwlx Szjv Gvpptgslhh Kdnrhgcfngt Gstmrjngvf Yhfn – Czwnbklflhcmv DgcbpbSwdqbm Zdvb Ztyksnmdnq Kwlypvhyxnt Yddfdwhhck Hlcn – Xzbdyntcbq CcvpfYywkqc Vfchlfmgtpy Xtdt Dpxcv X5View Full List",
-            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFKPYS Jkbsy Qkymlb Bydwhg CYLQTJHVXC Xtggnjzfwjswf Nvwgmv Bsgczdpw Vwms PWYdybjczw Btsymmq T.R. Zlyhmsq Tmpjjd CVView Full List"
-          ],
+          "pages_scraped": 0,
+          "text_blocks_extracted": 0,
+          "sample_texts": [],
           "disclaimers_detected": [],
-          "common_phrases": {
-            "fund class": 21,
-            "full list": 20,
-            "index fund": 7,
-            "small cap": 5,
-            "emerging markets": 4,
-            "fund institutional": 4,
-            "etfalps shares": 4,
-            "markets china": 3,
-            "china fund": 3,
-            "funds growth": 3,
-            "growth portfolio": 3,
-            "portfolio class": 3,
-            "convertible securities": 3,
-            "list allspring": 3,
-            "allspring index": 3,
-            "class aallspring": 3,
-            "aallspring index": 3,
-            "sector dividend": 3,
-            "dividend dogs": 3,
-            "list amplify": 3
-          },
+          "common_phrases": {},
           "has_disclaimer": false
         },
         "fidelity": {
@@ -186,6 +159,8 @@
             "asset income": 3,
             "income centric": 3,
             "centric approach": 3,
+            "savings solutions": 3,
+            "solutions retirement": 3,
             "blackrock investment": 2,
             "investment institute": 2,
             "institute bii": 2,
@@ -199,9 +174,7 @@
             "income fund": 2,
             "innovation beyond": 2,
             "beyond tech": 2,
-            "tech insight": 2,
-            "insight healthcare": 2,
-            "healthcare stocks": 2
+            "tech insight": 2
           },
           "has_disclaimer": true
         }
