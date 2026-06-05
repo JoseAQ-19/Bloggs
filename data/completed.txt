@@ -1628,3 +1628,4 @@ funds: VOO alcanza 1 billón de dólares: Impacto en inversores europeos en un c
 funds: 3 Vanguard Active ETFs Surpassing Market Returns by 5% in 2023
 funds: 3 Vanguard Active ETFs Exceeding Market Performance by 10% in 2023
 ia: La IA: De responder preguntas a gestionar casos legales completos
+ia: Remembering Bruce Crandall: The Heroic Pilot of the Ia Drang Rescue Missions
