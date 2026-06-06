@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-05T08:24:45.993957+00:00",
-  "total_candidates": 9,
+  "scouted_at": "2026-06-06T07:57:31.428921+00:00",
+  "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "VOO alcanza el hito de 1 billón de dólares: ¿Qué implicaciones tiene para los inversores europeos?",
+      "title": "VOO se convierte en el primer ETF de 1 billón de dólares: ¿Cómo se compara su rendimiento con los mejores fondos indexados?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis de los 8 valores del Ibex 35 con potencial de rendimiento superior al 40%: ¿Cuáles son y por qué?",
+      "title": "Potencial de doble dígito en 8 acciones del Ibex 35: ¿Qué dos destacan con más del 40% de proyección?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Los cinco magníficos del Ibex 35 ante el conflicto en Irán: ¿podrán mantener su rendimiento en el largo plazo?",
+      "title": "La acción que redefinió las estrategias de inversión en México: ¿Qué rendimiento sorprendente ha logrado frente a otros fondos?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,14 +49,9 @@
   },
   "all_headlines": [
     {
-      "title": "Aumenta la inflación en la eurozona y se prevé una subida de tipos por parte del BCE la próxima semana",
+      "title": "¿Por qué está cayendo en picado el bitcoin?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUWpRUzNVVDV1ZU12RjlxZ0JySWRMaWtSRDUzUjR3ZVJkbDJUQS1kMmZrcDBUNWVMbDljX0RyV3lxcFhYX29MWS1SZksxbDRYeERoaHhqZnVUQlRUU0pxZGo4VlNTeWloNnVZWFdzUDctUV9OQ3RteWR6d0JPTDQ3LU1ZallOZ1RFNUZsXzNwWGJTZV9ua1RUVGdRZVVPNTZhQ1lFZVY1SXdXY25KTnlZWTZncWtTRkdjT3FXakstdVpQS1MzaDN2aHlLVEZaY0tXd2IxNzBONVozUQ?oc=5"
-    },
-    {
-      "title": "SpaceX: Morningstar la valora en $780B, mitad de su IPO",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZHpNbkFvYXl2SHRPcFBqZjBEMTkzR0NEZUZyTEUwcGJ3N0RGd2taUU5XNEFHTlhjSnpjQ0txaDlDRkctVWZYSUVtd0pSdS1vNXk2WkF2M0Izbzh5VUtRUEhVWXJ5cG52U1dleExLMW0zMXVzRUFXM0w0Vk5JLTRCd20zTlhKd3JsTDZB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdU50MXJtXzRhSF9hV0VQMlRkVkJ2Um1IVGF6bWdlcHgwTTB4N0pDbDNYVkRtWTdOLVEwdGlITHRZRzZQcTR1TVdTWFhKaW1KTE5PcTU5RUJtdDhCMEVjalRlcTFzU1EtWWlkbkRfVVNYTEN4djZSZVBSN1plc0NYcVh4bzE?oc=5"
     },
     {
       "title": "La acción que redefinió las estrategias de inversión de los fondos en México",
@@ -64,9 +59,19 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPakVUcC1yTk45Zm1BWE41c3lzT1lBaWpJTWNOYzR5VDZEVjg0dGEycFlaUVczQzhIMnMzTkVsemNkdmV2OHVpZmVqdUl3cGcxMjk3bVJVOEY1RmlxUTlSZm9teDk4eE5DUk81Y05XVm1KWC1oSWJkaGpGSE04bGIwd0FzenUwN21RVDRoN1A5YVNSaWxfdzM1SG5nZWhnQ3prVk5adzc3TV9EdXRwRkHSAcgBQVVfeXFMT3A1QkdNY2JmdUFWRkEtY0pFeVBqdlVNNEJsbnNGM1VwS3h4RDZGbkFxU19CMTFaTWk5Z0JCSEl5QURKSVQtSDJTR1F4Wm5hblo3bktVVFB4S2pWSURmNEZaTVJzcFVPNnhDWFBlMzktYTRkN05EY2xTeVppRklNbFoxTTBrTzFTeU5mVDd0c2hDTWxTajlzS3d3c01NeUdJV1lUQzhsOXZZZnUwRkFSdC0xVVNCc3dEMElLZnJ4WGMyUEtKSE8yNzI?oc=5"
     },
     {
-      "title": "Rovi gana 9,4 millones de euros en los primeros tres meses del año",
+      "title": "Mejores fondos indexados y ETF de mercados emergentes en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVUtnaE5aNFVIbkN3akdXRGI5d3JBbk5DM0tiMnFRM2hWMTdyelo3aUpOYUhCRFhHWnRTRTJ3dFZkekViTEdXdFFzWFJ1ZUFuZmVLVnptb19SZUtjMVhQamxjTEJPdkVSVGQxbm42SkJYaEtLUWYyWEd6MTF2VXBwcUduY20zNVhOazRfcWluUWRHeGNIS3JJZUR6cnhTRUV1aHNxWEk5bnVEMjFQdDFNY1YwSTZTbkF4Y3E0VXdfX2tBdzhWUlHSAZ8BQVVfeXFMUDY0aFpXMm1GUDlsMFB2eHdLVkRGZnNVLVJYSXFYR1lES2lVbWVWMlhyRzdVXzFQVXYxSDFzRElEVmZVQzUwbEF2VTJDb2w2Rnp0VF85TEw1dHRMbExWanZXU2JfZWRHcVlVbDVwRUtaeVJpbm43S1B4RjU3aUJpWUpTeEVCaEw0RWVxbVF5MzVURUNBc1pJSmliVFlfU0tz?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRU5yTFN6MDcwMXh6b1BlZnUzdDFCajhTamZWQ2RvTkhabi01dlBXZEdUWjFMdFBncm0zLTRhMWNseVVqR2trVWoxQ1JtZHkzR0ViVFBESGZsdW9yNTdrcHBnMXNJRjQwUEs0Y2xLMWNURTF6X0M3WnNrQm5DNEE2WDlNMTN4Q1BGdll4MFpWdXVURHo2N3k1dldEaU45cGlhcm5yY2hYc19lTGM3VHc?oc=5"
+    },
+    {
+      "title": "Invertir en el S&P 500 en 2026: mejores ETFs y fondos indexados",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DbXEydGthcU42SFhOS0VVcFJwZy01ZTU3dk05V0l4VHpaTGYwZ0VRQWNpNkU2TWNiVEFqbU95Ml9UZjNfLW10NUFNdjU1R1B3XzhyYUdOUW5KTmJobk4weklONGlHWl96LUZobGE2N1ZXTjVYMTBGVkJDZmJvZw?oc=5"
+    },
+    {
+      "title": "Los mejores dividendos de la bolsa española",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3JhZ0RrS0lMZnVHZFFNcjZzVDM3a0VOUWgtWlFvNkpTSnBaT1hIZGVweGFhVlNMMlQwMF83eGJ0aUhRUi14MUZEaFVZZmg2bHVqNEdNVVByRWkzR2dVT3JWeENGeDdPZVpzNlViYlRpbHN0X2xJbmVMU2tBWVA3c2J4ZGhKcmw3eTk2TmZvdUVkY1dxN1JUOEpsYUJMWmphSjFLU3hoOHVwczZZdHNnS1Y1V1VDY3p00gGgAUFVX3lxTE5PTVNjWTktYzJNNUlyUmtZTUtNbFVUU0hKZFl0cFdLWDVQemMzUW1OVUJOc0JoakVQOTBzTHhGTjVuaTJBSkxvdE9ieE9pOFM3X0w1b0gxLWJRN19FYnpUYnlpMVQtcGtyUUJFUmdGNXhONDNoZVM3NjBOX1ZNRTFnRHB6X0d6U0ZDMjlsWlhSWWQ5MmNXVE04WTktd2FKc20?oc=5"
     },
     {
       "title": "VOO se convierte en el primer ETF de 1 billón de dólares: ¿Qué significa este hito?",
@@ -74,9 +79,9 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEpDX3V5cG80cFFOZF81VWdYU3ozbXJYV1dCaWwtMzcydEdXaUZ3TExRWk5zcmh2b2sySjhxaWxVaG9jRTA3LUpRTkROLWJ5T1RMYVlTNGZ1a2dmbUpyai1tbUxoSzYzTkItNU9fdld6X2FzYUFNN2NwY0E2R0dlTjltTFQyaWktWFRJT3daMmZsTEVuSTdYZUw5ZVpNVTNWelNYTkxXcktyamViZHc?oc=5"
     },
     {
-      "title": "Potencial de los 7 magníficos del Nasdaq a largo plazo en bolsa",
+      "title": "Mejores cuentas de ahorro 2026 en España",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWC1xTmRQcGJ2QVdsaEJUZm93Sl9CUWJDN20zdV9HQ3U5S1F5azJpekdSTzgtYnQzeUhtNWdXSTZOd3FsdkRvWTdnM3NjeDFFaVY2RzRvTDQ4cmx4LWpHejE5VEVGQnpzS09Tamh4SnFYSHVLeHpTSjkzVjBhQzZpOC1sOG5fM015ZThNNHRvai1WWEpmbjlLV2ZMeENzeXR2cEJEZ0pjLWZqNnJpQm1OdnlDSHRTOGxNR0hiZUN6WDlZUdIBngFBVV95cUxQT3hoWVdaX1FybFhSSG9mQVhBSVQ2WnRhc2tDcGpUUGpPWW5TUVJxSG1UU2FYQW1ublM1Zi1hWEFOMUxtTkdYcnRZcXF2TlR3VFdLVUVRUkp2Y1JVWEttc1pCZnF4SGYwQ2Y2bENUdVZvT2JPQkIwSkR0Sm9CQkdLemRSOFk1eVQyQVYxQUhfRjFyYXFtTWtpZnVRWkRMUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNC0tTUNyMTdKTURYQkZjWUxWaTlQLVdPams1Q0x1aHM5T2xEV2R2TWRiZl8tc1pJaFl2SXlvVzFOaW1kYVRrTGlHby1oZUxEbXpMYjltTXRKcE9CRUlhNWZ0Z0lqdURHcjN2eDdwR004VmFfNDNfSzZMWjRoTVdwMU5wUQ?oc=5"
     },
     {
       "title": "Potencial de doble dígito en 8 acciones del Ibex 35 ¡y de más del 40% en dos de ellas!",
