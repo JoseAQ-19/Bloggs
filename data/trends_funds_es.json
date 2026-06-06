@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-06T07:57:31.428921+00:00",
+  "scouted_at": "2026-06-06T07:58:40.642281+00:00",
   "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "VOO se convierte en el primer ETF de 1 billón de dólares: ¿Cómo se compara su rendimiento con los mejores fondos indexados?",
+      "title": "VOO supera el billón de dólares: ¿Cómo está afectando a los ETFs españoles y qué oportunidades surgen?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Potencial de doble dígito en 8 acciones del Ibex 35: ¿Qué dos destacan con más del 40% de proyección?",
+      "title": "Análisis de los 8 valores del Ibex 35 con potencial de doble dígito: dos de ellos podrían superar el 40% en 2026.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "La acción que redefinió las estrategias de inversión en México: ¿Qué rendimiento sorprendente ha logrado frente a otros fondos?",
+      "title": "Los cinco magníficos del Ibex 35: ¿pueden resistir la presión de la guerra en Irán y mantener su rendimiento en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
