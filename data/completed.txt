@@ -1649,3 +1649,4 @@ ia: Speeding Ahead: Justin Riele Unveils the Felt IA 2.0 for San Francisco T100
 tools: La impresionante ilustración de Iván Estupiñá que revive la hazaña de Mario Vilau en Ceret
 tools: ChatGPT's New Lockdown Mode: Protecting Your Data from Exfiltration Risks
 crypto: El misterio de la estación numérica: 19 años de criptografía GPS desvelados
+crypto: Bitcoin's Plunge: Is Wall Street's New Crypto Craze the Silver Lining?
