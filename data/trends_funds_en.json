@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-05T09:45:35.510610+00:00",
+  "scouted_at": "2026-06-06T07:59:56.760676+00:00",
   "total_candidates": 17,
   "topics": [
     {
       "rank": 1,
-      "title": "3 New Vanguard Active ETFs That Stand Out",
+      "title": "Brian Ferdinand on Building Resilient Investment Strategies Through Data and Research",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "SpaceX is worth less than half of its $1.75 trillion IPO target, Morningstar says",
+      "title": "3 New Vanguard Active ETFs That Stand Out",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "You Bought a Fund That Owns SpaceX. Now What?",
+      "title": "BOOKS BEAT BILLIONS — SIMONS, KLARMAN, DALIO, DRUCKENMILLER, GRIFFIN TOP 5W AI HEDGE FUND INDEX",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,9 +51,24 @@
   },
   "all_headlines": [
     {
+      "title": "Brian Ferdinand on Building Resilient Investment Strategies Through Data and Research",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbklIbk9wTHB6V1lDWDRpcFA3QVRlNjBKUjJEWGh4aDdRNUhNZXpiZXRLQzBUV0haZkdoZUY0UGZQcU9LeFVsaFVyeWtyQXRRQ2NWRzI1WDlZVTEwbXVzamhrY2RnVmh1SmlEWEVuUG9MY0IwMDZ2Rk05WU5ETHU0NGF0RGtGaUpHOEsxdjR1ZzdRU2xxZ0g3Q0xNVHRfN1ZfYjROOFhzT3Yxa3JqeE5qQjM1c1pEVlJXRlF5dHQyNUVndnVRTTBodzgxaXk2ck4tRGNiXy1SOA?oc=5"
+    },
+    {
       "title": "3 New Vanguard Active ETFs That Stand Out",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZXN0RDZrNW1aNTUxWl9ZTDZwZGltd1o0Q1NnbXlTVEloQURpWVJaYWptdUJleE1JOUFKNVlEOGNrQUtFUkZzY1dSV1hONDA4WE5qR3Z2SkxFb3VydS1FV1lid05iMWRqYTlOSlBKeXU3TmpsaGx5V194aFRaTUdueQ?oc=5"
+    },
+    {
+      "title": "BOOKS BEAT BILLIONS — SIMONS, KLARMAN, DALIO, DRUCKENMILLER, GRIFFIN TOP 5W AI HEDGE FUND INDEX",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdHhEYV91dHZwNFU4bmt5ODBkRTFTN1g4NjlsNWlRYzdENGZvOU5jcXpVTDNSZ0tISmVkem05N2dtbEJ5cEVCZmNkQi0zU2xMVVE5b0tta0xmR25YY1hzUzZtOXA5a0pOUnVMZkE5eUdPNWVaTHF5dFR4ckNZQW9VN05adDN5X3RfQU1CWEJHakZ1OG9DTmIzWG1pZnFVOWVmdXdDZm15SmV3V2hPcGZydGZRM190NGFLRXpJYnJDTlRXeUpYV3Z6TGxCNUFfTDlhNTM4YmJTNTEyZEdXek02Vy1CT0k?oc=5"
+    },
+    {
+      "title": "Motive Partners Appoints Ulrich Körner as an Industry Partner",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUmo2eGdBOXR0VkZkV3RIRHI0c29QZ051VW9Rb0NvNmQ0Y2RFV0FLWTJhNVpua3BwNkVnVFQ0UnZveXFObS1mQkFrSUdVOEFSaGp4QjZ0ZGJlc2YtNW15YkEzeXB6WW51N1VSVHpreng5VTZaNXA1YlZwMXhSN2hlakdoNVA1WVJ1TGZ2QkRXTEoxdV9GM0VRTFVqQVk0VlVLT3JJZVp4ZGZCWmlXaWFPd1dYMEx3UHQ0ekdsTXAzQQ?oc=5"
     },
     {
       "title": "SpaceX is worth less than half of its $1.75 trillion IPO target, Morningstar says",
@@ -61,39 +76,39 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLXF2MzhiNkN2LXlmMnk5OWVDTDJDSzBEM1hXSFA1ellXNFhiTGtkWVN5Z1VwZDhvVmVQblRoeVdVWWNtSEMxQjFqMnhKMkJLdE9wamFhTllubTRRa3REY0ZsQXU0XzFMSFh3eVJYZkhoNGJyNjlSU3lkYzQ3aTY2MEpTcUx3QdIBiwFBVV95cUxQVHd3WTVJQmZxX2xwOUE4T3FzOGRUMkhLaWp1aDRHbzczTzNXV1FoTEZrdHVBWWtpNkNSOEdONXdJUkZaaFNaMXJvWU9JQy1FUDA4SHV6SkM4cVlVcHJmcVB2WnZyOEo2U2ZOWGRrUmlsZFZ6akg1QmF2VUx2eWJsUEVPZXNCQWJ4N080?oc=5"
     },
     {
-      "title": "You Bought a Fund That Owns SpaceX. Now What?",
+      "title": "Most Companies Use AI. Almost None See ROI.",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLU1PeVBCX3BqR0Q0WlRHRnR5bmZBdEJXUkpET09Rb0pRaGJrZjVmNXBRQWlpVHEtci0xZDNwWlBxM0pvWUdwZm1fNlVZajJyMEtQbHY3Q1gxQnVkZER4QkJyWjlXYVlZYzlqSjFlMkxpNzVFVUJqZ0FQYTN1Z2ozdg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOXotakc4Q3ZqM19zby1MZmRXd1lrbE5ISU5EdHBCaDktSTQ3WmNUdlB4UGo3ODEwcTlmY0x2NVh5cXMwdVptTkNWdGdNU1pUaU9ybXlLMXU0VXVJeE5QUTYtMHU1YVE4bnBRNkRJb0dwSy1QdnN0OHFTcUp1Wm5uYVUzQ1RMNDgzUE9lakhFQVVTbkRDWTJDdmR1dkpDcHhjdXlTLQ?oc=5"
     },
     {
-      "title": "Morningstar values SpaceX at $780 billion, half its IPO target",
+      "title": "Egan-Jones Recommends Pacira Shareholders Support All Management Nominees",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ0Exemh0ajdiNkU0cVVkLU9jQVQ2QjdOSUwydjZBclJZX2FHSDJvcC1GYjk4d05ldC1qaU5BSHJrMGdPN1A5MG9heHdZQjdqZHk4dzJVWUpnanVmZi1UUDQ5dS0xeUlSR1E4a3lWNjJLNk5hU0R4ZTBPTy1CTVAya3FfYw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRjV0dkQ5Q2Q4Rktjc1ZqNmF5c3lrSXFweEVNejJKS1pBUmljaWZvNVFxanZ6UEJRemh5dEV6dFhpbVdGQlR3UlBuYXFOSm5XRGRhTlowSHV3d1MwRHpiRklZbW9kdWJQSWlPTVVCVGpLbDg4R09TSUhBS29JY19tdE5JVS1uWkhlMldJcVowemtxeTBQcG5JSXJWWnRfWk45aTRNNFFYbHdVbnJXbGxhZ3dvSEpSZUVIMkpFN0FOVGZrajdDNk5DbGlGbm94Y00?oc=5"
     },
     {
-      "title": "Sammons Retirement Solutions® launches LiveWell Mutual Fund NQASM to Simplify After-Tax Investing",
+      "title": "Bio Preventive Medicine and Precision Diabetes Announce ADA Late-Breaking Presentation Highlighting DNlite™ in Landmark CREDENCE Trial",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcXVlNV8zWmlraU1na1VEOTJNZFVrYlN3ejdlQTk5VGwxLWhJdDVaRUx1S3dzUXdfZVk2U3QxUFhURDdyaTZNMnhURzBwVjVQanVyMllvT0hfWGlKekJFZ1puUFlzb0ZCX2VlbWtrZS1FVTRDMDkwdHFrcWp2S2hMZE9FcVJyQXo4WklaWUpJY0pwZnpnVnd4UV9PQm9HOHdpZ0tROXZlQXh1TEQxQW15THNGeEhIOFItNkhwd1dLWGpiZXFhNEZ5V05IZVItcXNTNnN4ZU53b3RGQTYzUnktR21lNEV1S0ZW?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOeFozUktXR0RscWsyNm1CdWZmUVFWNmIzeFRXQjI5cGRjQ2JzRkpVYTNhSTF4NV83V3BkTU1oTm9XOUU4N2RHRncwNllycVhmd2taVmI0LVU0T2o2RE5NUExkQjJ2NTFMUTJkdjM5T05MMXFOOXVWLWFfWW1OYWtfNTJjZVJZOEpzbTd4dnMwNktBU0R2ejNUMzVZTXRQdm1USUVnc2JhQWl1bTByM3JxRlNQT1BRbkJCQlVhOHlfN3VkcXl3czgzV0ROb0VwelBESDRGOWdfdGJyeWVPc1YtaHFSRUFWNzVROVFLYzV4ajlXdmR4bTFfRkd2NVQ4ZFNIVG5qNUtQbmdfeVktLVFfUk5LRnR3WktMRHV0TFFpbw?oc=5"
     },
     {
-      "title": "SpaceX looks significantly overvalued, better entry points may come after the IPO: Morningstar (SPCX:Pending)",
+      "title": "6 Best Mutual Funds to Invest in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSmpiZWdfVzBZMGVBc054LW8zSGVRTTFaUXU2eWZhd29mQU1RV1VweEt6b3ByVUlEUjhYMzRMNEZDdHdqZERDdnZQZ2xOelJwaG0tM2ZvQ3pqdmNqRWUtbDJrWDF4aWhTTi1zd21WVkYxR1I1OEt3VkNscWRpOGkyY0tHMlozWWNUNkhyZkhPM1pzV2trOW1DQnhjYjgtbmY5WUFoY0pNaWczSlFlWUJuejVJd0hFdU1lTGJCYXZoYmdOSlhrTHRrNkNB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTBQR3hTLW1DdTZaOVFOUHZUZGl6djNwTGhvWjAzZkg3TnFOb3QzOGdPbGV3b3R5cXNoSlVzVlZQeWFSSnpOWEFKeGFCYTRMcVpGdFdrcVRFd0N0Y09XUTlkdHprMmZ5M2o5emtLamVsdGRKQ0tpdlNyVXo0TFFjeEFxY24yR0VxTDBhZQ?oc=5"
     },
     {
-      "title": "5 Best Money Market Mutual Funds Of 2026",
+      "title": "S&P Dow Jones Indices",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZjF0RzBPMU0wV0lnaW4zRUg4RmNFcFJPdmE0VW5UcHQwTm5fUXpnZ1hFRlIwTnp6dG1pYXZZbF9FdXN1OUFud1AzOGtQTFdmdFNSTXBMY0NFTHpOcjQzcEpmeEM5ZEgwR2E0Y3Iwc2xOOFY2YXI2UlVfd0FYQnN5b0d3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XMTA2SzF2cDl1YXNGY3RGTG4tU0ZwWU1YLUlhSlNnUEhRNmJ3eEJPUDJ4VExzZDFJUWhQcW9naTcxWFRNZTNwNjdR?oc=5"
     },
     {
-      "title": "Morningstar Inc (MORN) Shares Fall 5.3% -- What GF Score of 82 T",
+      "title": "The Best Mutual Funds Of 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeFlEUlpMNUJ2dS1seldBV3FxTWJ6MllCY2VwNXE2dy02V25FUjM5UWw4d1Rzc0dERFlqek14WXNXYThOdnN6ZGc0Q0Z5cUlDd28wbGZPamRNOGN3VDhIZTlBRkNxeGJkOGwzNXdYN2FfUXEtdDhyZEtGaVhEQUxoakc5M3l2Tk81MkR1SlJFTC1YVGdJR1FvdG1CcVdMeUg2aHo2ZnJzd2djT2FIcnlB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZV0RaRFVtNVp3WkVuODBWblpPX183TXpBYThlMmN1aVpheHFlOF9TSWFHY21iVFMtMDFsV3Z5ajZMa3JlV2o1YTBkSGpzZUtHdm14eHdQaWtVTDgwR2Ytdm1GRUQtaXZkODFR?oc=5"
     },
     {
-      "title": "What to Invest In Right Now, June 2026",
+      "title": "Warren Buffett’s Investment Advice Is Putting Retirement Portfolios at Risk",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IdmNhYUsyS3J1bmVMc1kxWHc2TENDSVFuQzRaNmZxZlFheXBqTDJxbXIzc0NhRFY4cVY3UndIOFV2eEhoQ25tVWg0MC1DcWtYbFhUc19ST3RSYUNtY3BaWF9HaDctazV2cEN3aTgtS00?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajdVMF9SQ2ZRTXNLYXkxbDZZQTJlc0FOTmVWcjM4WW9oX0xIcVcxeDZVY084VW1odzVLS3UxdW1SSGtvcXlpSjFwel9oVVViNFF0cEw2ek1zLTg2QnJNa0t0SUtDLVUzZWlDMDFmSkhjYTA2NmU5WjIxbjUtdEpXUUtKRmR1TUxhX3o4ME9DamRTeVQxV3YtNW1XcFBzVnV5M2Vkd0R5Z1FkRU80c3VubUdHTjdudzVsbXc?oc=5"
     },
     {
       "title": "The Best Canadian Equity ETFs to Buy",
@@ -101,24 +116,14 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ubHlnM1JoNVhPS0tKS0I4ZmFkdjhza0tJWXJwcm1PS1lGVjJMd1hjaU5SZXVVcjJNeWRyTmJKZmlsM1RXRlNKMFYwZlZJVF8yeDdOcW9vWS1wRk53U3pBRmZyQ01zeFBNNXBtV2Jzb0ZKTXByaGNOTV9qNA?oc=5"
     },
     {
-      "title": "Warren Buffett: The 1 Investment Cost You Should Stop Wasting Money On",
+      "title": "7 Best Natural Gas Stocks and Funds to Buy | Investing",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa0JNby1haElJQmQ4NjVvM1lEdDFCaHBldjhnNEl4NVFLMnZER1BlR1RvMUFXczFscGg3S0J3eVVXX0pKR202SkJuMjFXS1BsajZuV2w5Y3NWSmp5Yk9KZnRGZUNfbldjZmNaSVE1VXN6ZlJtMkg5a2tjcDBEODJIMUJ3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ2lIWHIwUEVGUi1KQS1yNUlBcmR0VE81MFJfTTN1eDFLVjdCVmNRU2swQmdRZzdiVTNTNEdLc01YUmpOSk9EOFBjcFJaZTNON2F2bnNyZ0xOcHN5YVJGQ1JWU0ZNV2JSeUY2TVVjTFZXX3FVRldXSk9HVUdKRXFZVnZUWQ?oc=5"
     },
     {
-      "title": "The Best Closed-End Funds (CEFs) to Buy Now",
+      "title": "10 Best Online Brokerages For 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93dGl3NTgtX2ZvTWc1a1VHYUtHaFo2cVNyNUFweWd4d0luY1ExZ3FBaFFpQ3pjc2lfYXE5d1kwZjRnOWdtanJkSWkzMnBLaF84QjVGWGdHSDhRUE9TRzFQYWc3M2ZvY195WGVLYnIybw?oc=5"
-    },
-    {
-      "title": "5 Best Money Market Mutual Funds Of 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZjF0RzBPMU0wV0lnaW4zRUg4RmNFcFJPdmE0VW5UcHQwTm5fUXpnZ1hFRlIwTnp6dG1pYXZZbF9FdXN1OUFud1AzOGtQTFdmdFNSTXBMY0NFTHpOcjQzcEpmeEM5ZEgwR2E0Y3Iwc2xOOFY2YXI2UlVfd0FYQnN5b0d3?oc=5"
-    },
-    {
-      "title": "4 Best Energy ETFs for 2026 and How to Invest",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EcGZNMnhxY0ducUNsem9UbVBERURZZ3ZyU2h1eVhqUEs0QWhYY0lMeEJGS25rMVNlTmdJMXV5ZGtvamJFZm9TY3o0WXlmRDZMUnk4cEE3RjlFcHVXemc3YWdxNFZGWkowSlF0ZmRpTQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VQXRNQXZPbllYWFhtLTR6ZWZMNWZKUkJkYVVJUV94bHQ4ei11eXZVZ2hOYi00cWN4RlRTMGpZbXlQZEZyRlYyNXRzMHVlRHR5ZWFLYmp4QjhnaUthYXZIREhMU2o5VVFTYldvTHFR?oc=5"
     },
     {
       "title": "10 Best AI ETFs to Buy in 2026 (Performance & Reviews)",
@@ -126,14 +131,9 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11LTlhVlBBUmQ5QmEyZXdqNGxkSkpFRlhfWVpBRHN0ZlJpRG5GMmZ1d2lpd1BtVnNkMFRaZFNLT1ZiN0ZRb0JLbHhPVmZUZ9IBTkFVX3lxTE11LTlhVlBBUmQ5QmEyZXdqNGxkSkpFRlhfWVpBRHN0ZlJpRG5GMmZ1d2lpd1BtVnNkMFRaZFNLT1ZiN0ZRb0JLbHhPVmZUZw?oc=5"
     },
     {
-      "title": "Schwab's (NYSEARCA: FNDF) International ETF Delivers 46% Returns While Tackling Concentration Risk",
+      "title": "The Best Mutual Funds Of 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV1dlZlZyUjVXQktmRHk4bHVqR3VjQjVfZ3M3SmUwaXZOVV8wNHYtdWdZNWpLWVplZHBMd0R3blc5WkluNUZ1bHJNQzd5bkppQ21vcmJ2SVVqb3FBMTZZNDBJV3RtOENTM01rRDVYeF9wV1ZMZWdieEpfR3Y1LTBGWEgzckdod2JpbElHQVluWmNVeThjNFl2cmJEOGtHdlFoVDlTNTl5bHE3dmRhNl9sTDR2Z0RlbGh4RVpDRUdHOGVlMHdqMnVkVW9GOVMtcHNQRTJNSGUyU0lWQQ?oc=5"
-    },
-    {
-      "title": "5 Best Money Market Mutual Funds Of 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZjF0RzBPMU0wV0lnaW4zRUg4RmNFcFJPdmE0VW5UcHQwTm5fUXpnZ1hFRlIwTnp6dG1pYXZZbF9FdXN1OUFud1AzOGtQTFdmdFNSTXBMY0NFTHpOcjQzcEpmeEM5ZEgwR2E0Y3Iwc2xOOFY2YXI2UlVfd0FYQnN5b0d3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZV0RaRFVtNVp3WkVuODBWblpPX183TXpBYThlMmN1aVpheHFlOF9TSWFHY21iVFMtMDFsV3Z5ajZMa3JlV2o1YTBkSGpzZUtHdm14eHdQaWtVTDgwR2Ytdm1GRUQtaXZkODFR?oc=5"
     }
   ]
 }
