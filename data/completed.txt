@@ -1665,3 +1665,4 @@ ia: Las pymes se lanzan a la IA: ¿un salto al vacío sin red de seguridad?
 ia: Iowa's Rising Star: Meet Josh Turek and His Vision for the Future
 tools: La oda a Barcelona que enamora: Pol Guasch y su visión en ‘AD’
 tools: Aurasell CEO's Bold Move: Time to Ditch the GTM Stack?
+crypto: Bill Barhydt de Abra: La tokenización, la nueva frontera de Wall Street en criptomonedas
