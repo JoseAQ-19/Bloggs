@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-07T08:16:25.748720+00:00",
+  "scouted_at": "2026-06-07T09:37:11.334294+00:00",
   "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "3 New Vanguard Active ETFs That Stand Out",
-      "lang": "en",
-      "source": "google_news_finance"
-    },
-    {
-      "rank": 2,
       "title": "Brian Ferdinand on Building Resilient Investment Strategies Through Data and Research",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Bio Preventive Medicine and Precision Diabetes Announce ADA Late-Breaking Presentation Highlighting DNlite™ in Landmark CREDENCE Trial",
+      "lang": "en",
+      "source": "google_news_finance"
+    },
+    {
+      "rank": 3,
+      "title": "Regions Institutional Services Named to NAPA Top Defined Contribution Advisor Teams List",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -28,9 +28,9 @@
       "fund class": 21,
       "full list": 20,
       "index fund": 7,
+      "small cap": 5,
       "emerging markets": 4,
       "fund institutional": 4,
-      "small cap": 4,
       "etfalps shares": 4,
       "markets china": 3,
       "china fund": 3,
@@ -51,11 +51,6 @@
   },
   "all_headlines": [
     {
-      "title": "3 New Vanguard Active ETFs That Stand Out",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZXN0RDZrNW1aNTUxWl9ZTDZwZGltd1o0Q1NnbXlTVEloQURpWVJaYWptdUJleE1JOUFKNVlEOGNrQUtFUkZzY1dSV1hONDA4WE5qR3Z2SkxFb3VydS1FV1lid05iMWRqYTlOSlBKeXU3TmpsaGx5V194aFRaTUdueQ?oc=5"
-    },
-    {
       "title": "Brian Ferdinand on Building Resilient Investment Strategies Through Data and Research",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbklIbk9wTHB6V1lDWDRpcFA3QVRlNjBKUjJEWGh4aDdRNUhNZXpiZXRLQzBUV0haZkdoZUY0UGZQcU9LeFVsaFVyeWtyQXRRQ2NWRzI1WDlZVTEwbXVzamhrY2RnVmh1SmlEWEVuUG9MY0IwMDZ2Rk05WU5ETHU0NGF0RGtGaUpHOEsxdjR1ZzdRU2xxZ0g3Q0xNVHRfN1ZfYjROOFhzT3Yxa3JqeE5qQjM1c1pEVlJXRlF5dHQyNUVndnVRTTBodzgxaXk2ck4tRGNiXy1SOA?oc=5"
@@ -64,6 +59,11 @@
       "title": "Bio Preventive Medicine and Precision Diabetes Announce ADA Late-Breaking Presentation Highlighting DNlite™ in Landmark CREDENCE Trial",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOeFozUktXR0RscWsyNm1CdWZmUVFWNmIzeFRXQjI5cGRjQ2JzRkpVYTNhSTF4NV83V3BkTU1oTm9XOUU4N2RHRncwNllycVhmd2taVmI0LVU0T2o2RE5NUExkQjJ2NTFMUTJkdjM5T05MMXFOOXVWLWFfWW1OYWtfNTJjZVJZOEpzbTd4dnMwNktBU0R2ejNUMzVZTXRQdm1USUVnc2JhQWl1bTByM3JxRlNQT1BRbkJCQlVhOHlfN3VkcXl3czgzV0ROb0VwelBESDRGOWdfdGJyeWVPc1YtaHFSRUFWNzVROVFLYzV4ajlXdmR4bTFfRkd2NVQ4ZFNIVG5qNUtQbmdfeVktLVFfUk5LRnR3WktMRHV0TFFpbw?oc=5"
+    },
+    {
+      "title": "Regions Institutional Services Named to NAPA Top Defined Contribution Advisor Teams List",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcFExTEZxc28zal8xYnpNVHc5WEZNWVNDbjB4Z3QyV2tNZmE5X0tOSElWSDBEMHEtM1R0UjZqZnJ6dnFzdlktMmlQdW83eGFHTVFMbURDZFNyTXF6ZXBEVkF4VUg4VUMtYjl5ZVA5UVR6MVV6OEVyVXhZRDc1R1RlU0N6a2V5VnFud0NwaGpKNGVNOVFsRml3MVlxX25MaHNFWllYbzRhRC1oQlhmTE9tcV9HTy1EdU9MVGRnRXlTQzIyYlhGa0M5ZXAyV1B4dnVmUEd0V0EwSmI2eFBwSm14MHdyVFI?oc=5"
     },
     {
       "title": "Egan-Jones Recommends Genco Shareholders Support All Company Nominees on the WHITE Proxy Card",
@@ -86,6 +86,11 @@
       "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxPeVJUdFhFZG1GTjYteUZwbDBDNnMtUkVTSlRMSE9PcFZSTDBPZmNQVUp3S1E5T3lBVEhZUU51dmNZalQzdE4tR1VNWi1nMGotX2pETWxlcWZ0M0l3QU5iQVV3MzZQZzhGQVpZVktOSVJ2WDdnMXEzd1EyUFFZMzBJQ3VaX1N6NWxpLUtjWEhLWXBpY3d0dGVXa2dkbFJESzBrNnhEUGJOZmJJZ25sT25kMlVHQUNNUE1KUEJMZjZtN3hXUlpOdlFtVXVFRE8zai1lSUVoLUcya2RQbjJwcHdaNkdUMnpPcllCaXhrNWRmNE5paThmUW1kLWd5Q3FtYjRvQk1TVERmSV9BbHRkWXoweFQ2eFZDTXppQTVXNF9PRHp3YjR5VXpYZUtJOFJuamVlUWo4aDZiSFBNOVk3aHliM05KS0Y3V0Z3alM2bTlUa3JHSUR4WFRSYl9uVXNvMGF4b3MteHpDMVVvc3o3VEQweGxhSWp1MUl1dk9sYk9veGtQWTJJZWU4NV9xbDVKQ2Z5eW1uTmZ4QnZtakRsTVV6eA?oc=5"
     },
     {
+      "title": "5 ETFs That Outperform the S&P 500 | Investing",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQTBnR3RsSUR2eXNycnd6R3FLdlBGZDJURGwybjFtV2N0SDFmYzJWUl9HVmpPR3FLcmRxeGo5MUZhdk1pUTRxN1hZQmNFcnF2WGtrU2YydUF3VjNzd0szblROdWZxODNLa0ZsYUE3TzlTTm9uRGVBRENpZGtOSXBJcXhn?oc=5"
+    },
+    {
       "title": "6 Best Mutual Funds to Invest in 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTBQR3hTLW1DdTZaOVFOUHZUZGl6djNwTGhvWjAzZkg3TnFOb3QzOGdPbGV3b3R5cXNoSlVzVlZQeWFSSnpOWEFKeGFCYTRMcVpGdFdrcVRFd0N0Y09XUTlkdHprMmZ5M2o5emtLamVsdGRKQ0tpdlNyVXo0TFFjeEFxY24yR0VxTDBhZQ?oc=5"
@@ -96,14 +101,14 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyM0RYV1daOEUtdGxLU3dCazU1XzJCeTJ6eGo3WlVlZWROUXdsYm1JaFMzZl9RaEt2czZyUWdBQ21HZ2ZITl9tc2JUMFpmWXpzQ2JkZnNNLUVlQUVGWmZSdXhNN0hfaklOR00ySmpCY25MaDQ?oc=5"
     },
     {
+      "title": "The 5 best ETFs of 2026 so far",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KZ1AzR2Y2aXhsNUt6RTNWY0FQenZfZnQwbU52OFd0bEFHa0RTR25mcERjY3RWMlRidVhud0tvUG4xUnUxdW1DaFpoQmcwd3pJNGVTMHhSTXhOeG1Ed0E?oc=5"
+    },
+    {
       "title": "S&P Dow Jones Indices",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XMTA2SzF2cDl1YXNGY3RGTG4tU0ZwWU1YLUlhSlNnUEhRNmJ3eEJPUDJ4VExzZDFJUWhQcW9naTcxWFRNZTNwNjdR?oc=5"
-    },
-    {
-      "title": "8 High-Return, Low-Risk Investments for Retirement",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdzc0U3U4MlVoNXFDRHIxQlU0OXBaa01mM1F4a3ROVjh4WWw4b014SHkzSE9vQlg5eGxlcFdTeTc5MGF1cHFuUHNxNXJ6YUFUM2Q3aDhhblNvUWg0UDk0X3E2SVlSMVB2azhJWjNObU1hbnJ5eHdpdENMSkotY3dlYjZYaFhMN1pjZzB1eWhxS0ZDNUk?oc=5"
     },
     {
       "title": "May ETF Flows Reveal a Split Between Traders and Long-Term Investors on Semiconductors",
@@ -119,11 +124,6 @@
       "title": "10 Best AI ETFs to Buy in 2026 (Performance & Reviews)",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11LTlhVlBBUmQ5QmEyZXdqNGxkSkpFRlhfWVpBRHN0ZlJpRG5GMmZ1d2lpd1BtVnNkMFRaZFNLT1ZiN0ZRb0JLbHhPVmZUZ9IBTkFVX3lxTE11LTlhVlBBUmQ5QmEyZXdqNGxkSkpFRlhfWVpBRHN0ZlJpRG5GMmZ1d2lpd1BtVnNkMFRaZFNLT1ZiN0ZRb0JLbHhPVmZUZw?oc=5"
-    },
-    {
-      "title": "Invesco India Nifty Bank Index Fund",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaEJxLTBFOHlqcE8zWGI4LW9INWhMX1ZPdFRWZWwxLXMwUzF0M01Za1dqZlRtdzh5RnVJVzA1QUx6X0xqTzZZQ2FhQkRUcHFBZ25nUHpYcjJxZkF0ckZSRjJTZko1cEtOUXRiMVM1d25WNHlYTXlYX1VRVVY4cHNSWF9PQlc1Rks3TEk3ZmtWNEtqc1JDZHQ2bjc0RlYwZW50UEUtOTlrVElCbExod1I1azN3?oc=5"
     },
     {
       "title": "Best S&P 500 Funds for 2026",
