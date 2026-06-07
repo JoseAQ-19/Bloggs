@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-07T08:12:27.274414+00:00",
+  "scouted_at": "2026-06-07T08:13:39.021939+00:00",
   "total_candidates": 3,
   "topics": [
     {
       "rank": 1,
-      "title": "Bitcoin en caída libre: ¿Es este el mejor momento para comprar o debería esperar?",
+      "title": "Análisis de los ETFs S&P 500 2026: ¿Cuáles ofrecen las mejores rentabilidades y comisiones?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Lightyear: ¿Cómo su crecimiento del 260% en España puede guiar a los fundadores a nuevas oportunidades?",
+      "title": "Lightyear en España: Un crecimiento del 260% que revela lecciones clave para emprendedores en 2023",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Comparativa de ETFs S&P 500: ¿Qué fondos tienen las mejores rentabilidades y comisiones en 2026?",
+      "title": "¿El desplome del bitcoin es una oportunidad? Análisis del rendimiento de fondos cripto en el último trimestre.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
