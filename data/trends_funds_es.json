@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-06T07:58:40.642281+00:00",
-  "total_candidates": 10,
+  "scouted_at": "2026-06-07T08:12:27.274414+00:00",
+  "total_candidates": 3,
   "topics": [
     {
       "rank": 1,
-      "title": "VOO supera el billón de dólares: ¿Cómo está afectando a los ETFs españoles y qué oportunidades surgen?",
+      "title": "Bitcoin en caída libre: ¿Es este el mejor momento para comprar o debería esperar?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis de los 8 valores del Ibex 35 con potencial de doble dígito: dos de ellos podrían superar el 40% en 2026.",
+      "title": "Lightyear: ¿Cómo su crecimiento del 260% en España puede guiar a los fundadores a nuevas oportunidades?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Los cinco magníficos del Ibex 35: ¿pueden resistir la presión de la guerra en Irán y mantener su rendimiento en 2026?",
+      "title": "Comparativa de ETFs S&P 500: ¿Qué fondos tienen las mejores rentabilidades y comisiones en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -54,49 +54,14 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdU50MXJtXzRhSF9hV0VQMlRkVkJ2Um1IVGF6bWdlcHgwTTB4N0pDbDNYVkRtWTdOLVEwdGlITHRZRzZQcTR1TVdTWFhKaW1KTE5PcTU5RUJtdDhCMEVjalRlcTFzU1EtWWlkbkRfVVNYTEN4djZSZVBSN1plc0NYcVh4bzE?oc=5"
     },
     {
-      "title": "La acción que redefinió las estrategias de inversión de los fondos en México",
+      "title": "Lightyear crece 260% en España: lecciones para founders",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPakVUcC1yTk45Zm1BWE41c3lzT1lBaWpJTWNOYzR5VDZEVjg0dGEycFlaUVczQzhIMnMzTkVsemNkdmV2OHVpZmVqdUl3cGcxMjk3bVJVOEY1RmlxUTlSZm9teDk4eE5DUk81Y05XVm1KWC1oSWJkaGpGSE04bGIwd0FzenUwN21RVDRoN1A5YVNSaWxfdzM1SG5nZWhnQ3prVk5adzc3TV9EdXRwRkHSAcgBQVVfeXFMT3A1QkdNY2JmdUFWRkEtY0pFeVBqdlVNNEJsbnNGM1VwS3h4RDZGbkFxU19CMTFaTWk5Z0JCSEl5QURKSVQtSDJTR1F4Wm5hblo3bktVVFB4S2pWSURmNEZaTVJzcFVPNnhDWFBlMzktYTRkN05EY2xTeVppRklNbFoxTTBrTzFTeU5mVDd0c2hDTWxTajlzS3d3c01NeUdJV1lUQzhsOXZZZnUwRkFSdC0xVVNCc3dEMElLZnJ4WGMyUEtKSE8yNzI?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUThwRC1KSUQxbmZ1Rkk1RXNGMUEwdy00SnNKcVFPcGNWYWF3MkI2Y283Wkp6N3BnWE4wekhCOUtCVFVsTExPejBlVk9uejRTXzdaWWdhcmQyOXpkVExidFptZHMxMUxLZHBmbHRJdTNhRHR1RjhuZnBwVXp5TkFVcWVWcE1XallzOEU1Sw?oc=5"
     },
     {
-      "title": "Mejores fondos indexados y ETF de mercados emergentes en 2026",
+      "title": "Los mejores ETFs S&P 500 2026 para invertir",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRU5yTFN6MDcwMXh6b1BlZnUzdDFCajhTamZWQ2RvTkhabi01dlBXZEdUWjFMdFBncm0zLTRhMWNseVVqR2trVWoxQ1JtZHkzR0ViVFBESGZsdW9yNTdrcHBnMXNJRjQwUEs0Y2xLMWNURTF6X0M3WnNrQm5DNEE2WDlNMTN4Q1BGdll4MFpWdXVURHo2N3k1dldEaU45cGlhcm5yY2hYc19lTGM3VHc?oc=5"
-    },
-    {
-      "title": "Invertir en el S&P 500 en 2026: mejores ETFs y fondos indexados",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DbXEydGthcU42SFhOS0VVcFJwZy01ZTU3dk05V0l4VHpaTGYwZ0VRQWNpNkU2TWNiVEFqbU95Ml9UZjNfLW10NUFNdjU1R1B3XzhyYUdOUW5KTmJobk4weklONGlHWl96LUZobGE2N1ZXTjVYMTBGVkJDZmJvZw?oc=5"
-    },
-    {
-      "title": "Los mejores dividendos de la bolsa española",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3JhZ0RrS0lMZnVHZFFNcjZzVDM3a0VOUWgtWlFvNkpTSnBaT1hIZGVweGFhVlNMMlQwMF83eGJ0aUhRUi14MUZEaFVZZmg2bHVqNEdNVVByRWkzR2dVT3JWeENGeDdPZVpzNlViYlRpbHN0X2xJbmVMU2tBWVA3c2J4ZGhKcmw3eTk2TmZvdUVkY1dxN1JUOEpsYUJMWmphSjFLU3hoOHVwczZZdHNnS1Y1V1VDY3p00gGgAUFVX3lxTE5PTVNjWTktYzJNNUlyUmtZTUtNbFVUU0hKZFl0cFdLWDVQemMzUW1OVUJOc0JoakVQOTBzTHhGTjVuaTJBSkxvdE9ieE9pOFM3X0w1b0gxLWJRN19FYnpUYnlpMVQtcGtyUUJFUmdGNXhONDNoZVM3NjBOX1ZNRTFnRHB6X0d6U0ZDMjlsWlhSWWQ5MmNXVE04WTktd2FKc20?oc=5"
-    },
-    {
-      "title": "VOO se convierte en el primer ETF de 1 billón de dólares: ¿Qué significa este hito?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEpDX3V5cG80cFFOZF81VWdYU3ozbXJYV1dCaWwtMzcydEdXaUZ3TExRWk5zcmh2b2sySjhxaWxVaG9jRTA3LUpRTkROLWJ5T1RMYVlTNGZ1a2dmbUpyai1tbUxoSzYzTkItNU9fdld6X2FzYUFNN2NwY0E2R0dlTjltTFQyaWktWFRJT3daMmZsTEVuSTdYZUw5ZVpNVTNWelNYTkxXcktyamViZHc?oc=5"
-    },
-    {
-      "title": "Mejores cuentas de ahorro 2026 en España",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNC0tTUNyMTdKTURYQkZjWUxWaTlQLVdPams1Q0x1aHM5T2xEV2R2TWRiZl8tc1pJaFl2SXlvVzFOaW1kYVRrTGlHby1oZUxEbXpMYjltTXRKcE9CRUlhNWZ0Z0lqdURHcjN2eDdwR004VmFfNDNfSzZMWjRoTVdwMU5wUQ?oc=5"
-    },
-    {
-      "title": "Potencial de doble dígito en 8 acciones del Ibex 35 ¡y de más del 40% en dos de ellas!",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX1pIVHY5aVBwUlc1VnlzNVVNaDVXWWJpVnRkTEg1UWgyUHBKSHpfVkMzMGxodHhMb0hjYUJhS0Utelk1TWRxa3hZdmxBa3BVTmdfNE5Na1RKSVFiaU5JWlhBWkdENEJUb1JQOGdRVXNyd08zN3lwRDJmekw4Mi1LNmk2Z0tzTGI1MktGVG1pYXQtM3U2WFV0Q255eFZFQnV0c1BSYjFEQ1c0c3lPNkh6SE5UZ3B6SXlNcnJkN3FzQWI3QnI4RjNRYdIBogFBVV95cUxORkFkcmI4MmN6NENBOEllZHdWdzg1eHdYeFhKYk0wbW1OU0ZSUjYwTDRJR050RlV2eVpfT25nOUpCWG1IMW9aZW4xY09ObzdIR1VCLUJvelZNX19qQjIyU3RNekNLMDhITDBhbm5EODFaM1dHQ1lqQS1oSmtYaXVBN0s5QmpsaTZRbDhLcEpVR29uejVQVDJTelY3V3ZWSlRBdmc?oc=5"
-    },
-    {
-      "title": "Los cinco magníficos del Ibex 35 ante la guerra en Irán: ¿resistirán en el largo plazo?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZHR4VkFxajNYQm4tZ0o5SkJKYlN5a2RFT1VyaVVYVno5OW1TVEZtcnlEa0FqUzhOdkN4ZF9NQTgyaldkQTJVcW5ua3dEdngybVpkenVYbWx5MWlGUnZ5MnFjXzlrSS1sejhnZXVpNE41UmhybDlNTFNLV0x0elN6QjN4bFVSNVBwVWVjU1lNak1WempYYmVSME02ekpLeFZGRGs2eFF0d1FrWFdzbVdiNW16b3VxN1pIWEY5bGZWZWRLd2ZVcTNyX2xIX2NBaldTLVJfeg?oc=5"
-    },
-    {
-      "title": "El Vanguard FTSE All-World toca los 165 euros en plena ofensiva de Xtrackers con un 0,07%",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdEQxdWpWV2VBczd4QnR0eGRzcG9BWjJiR0tOWUd0UGgtZzVFaTFXaHdfRUJndmpBR3RPYXpJS1VEQnZUSUUybVZHTE5mQXVxUk5jeF9LZHlEdzIzR0p5a1M5OHlwTG9UTXF3QXl3cm5MVDJKdXF3dGF3QlBkM0xkdG9PaEZWOC1CaGoxS2ptd1N4OG1tSEc5SHZ4M3dBNlUyQXVJTlJwOVd5eWpFZkhEU1NhUjFHaDdqRVU1WUVFNlE4NXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HWEY4ZkN4ZzBYcXBXSnZLZGFtczNXNkE3ZFoxUzRqUV9QZVVvSkRuT0wxNDJ0ck4tWGtqWTBSRl9rbk84SERxVGs1blJqUTNKdDBHUHNuTHY5MV9CZjFGTFRiTUxSYW5kd1Q3a05RU01PQQ?oc=5"
     }
   ]
 }
