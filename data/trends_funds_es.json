@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-08T08:36:13.157114+00:00",
-  "total_candidates": 6,
+  "scouted_at": "2026-06-08T08:37:31.981507+00:00",
+  "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Por qué el bitcoin se desploma un 40% en un mes? Análisis de su impacto en los fondos cripto.",
+      "title": "¿Por qué el bitcoin ha caído un 30% en el último mes? Análisis de tendencias y su impacto en las criptomonedas en Europa",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Lightyear: ¿Cómo ha logrado un crecimiento del 260% en España y qué lecciones pueden aprender los inversores?",
+      "title": "Las acciones de Lightyear han crecido un 260% en España: ¿Qué estrategias pueden aprender los fundadores de startups?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Las acciones de BBVA y Santander podrían subir un 30%: ¿Qué fondos están apostando por este repunte?",
+      "title": "Las 10 compañías de defensa con el mejor rendimiento en bolsa desde el inicio de la guerra en Ucrania: ¿Dónde invertir en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -72,11 +72,6 @@
       "title": "Mejores hipotecas de junio de 2026: fijas, variables y mixtas",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hLUpjdXphREwybEFhQmxNWkJIMkM4LU5YTmxSZW96a3hQMlpvbzZVUGFMX21GQUJMYVZjSUh0blBmY0hFN1c5aDNnWHNnSHFXNGtCZmFMaXozZUdGQzN3WUdJS1hlYm5kNEVHcV9XdWpFLW5ua19iZ2Zmbw?oc=5"
-    },
-    {
-      "title": "Los bróker esperan que las acciones de BBVA y Santander suban un 30%",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTU5tYTFsZmRFeWFzaFNEVlZDM2JwMTdjdEJWVXNJSEVVdEw4MzdVdHRqVjlTWWtqblN0dzNUb3lPT2xDd1ZyWDlVYkpTN3pLc3JPVVJtbHlaQkljRWRwV1AwNktlR1lhd0tGeWdyaWoyNlluWk9EY2NrSFFiMXFncDRDWWo2LVFOdVQtWWNveDZ1THRSYkQ0eTlzNjlZaG1ibFdFWldPSU1nWWlqRmNSTGdFczFLR0lMVDdEbHpnaVZzdWRQOE1rR3UyeTBNaDBkSFFCVFAwZ3hBbGdicXRrVUFvWdIBngFBVV95cUxNcFhTaXZ0U0VOa3AwY1EzdUZobGRjMTNLLXB6NExab1VZbzRkZDNSVm5RMklmYmN0MnBldVdjRHc5dEhkWWluWVBpX3Nla0laZUpfbWktVmRFa2ZNWmdzRTJrNkNUQlVNemZnNnVfYWdySTVDVkNVRFB1T1YxMGNtUzB6cEt3MGs0M2piOW9FVlNTUkJBVWFJaUtiazg5dw?oc=5"
     }
   ]
 }
