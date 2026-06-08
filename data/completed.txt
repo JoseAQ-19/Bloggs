@@ -1681,3 +1681,4 @@ funds: Private Equity Investments Underperform Diversification Expectations by 3
 ia: El futuro del talento: adaptarse a la era de la IA y reinventar el modelo de contratación
 ia: KY Governor Beshear Supports AI Candidate: A Game-Changer for Iowa Politics
 tools: La UE actualiza sus directrices para el uso responsable de herramientas de IA generativa
+tools: AI vs. Public Health: The Surprising Results of a New Tool Test
