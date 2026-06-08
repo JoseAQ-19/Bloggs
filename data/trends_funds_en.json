@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-07T09:38:20.381792+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-06-08T08:39:04.941852+00:00",
+  "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "Brian Ferdinand on Building Resilient Investment Strategies Through Data and Research",
+      "title": "Private Equity May Not Diversify Your Portfolio Like You Think",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Bio Preventive Medicine and Precision Diabetes Announce ADA Late-Breaking Presentation Highlighting DNlite™ in Landmark CREDENCE Trial",
+      "title": "DL Holdings' Fourth \"Victoria Harbour Night Talk\": The AI Wave: Global Investment & Hong Kong Opportunities",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Regions Institutional Services Named to NAPA Top Defined Contribution Advisor Teams List",
+      "title": "Winning firms will focus on what they can control, weather the rest, as triple-shock brakes private equity's latest revival —Bain & Company 2026 Midyear PE report",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,39 +51,39 @@
   },
   "all_headlines": [
     {
+      "title": "Private Equity May Not Diversify Your Portfolio Like You Think",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUklYc2ZXandXWlAtTHdqT1IxdGJWMjdhNmJ1QmtTUUR3amZfbXFCOF9iTWtVTXFkNkpNbUVqVGhvMkdTNmFyaE44WVZ4ZlBxVUpmbDlsWmkxQlJXSW5QU19saXZZY0tRbS1yNHlJVDhnMldWOVRRbUkzN3E3a3RubkpSc1YzTWxFc0NaelM0YmwwV3RMQjdWVUVVcTVlRnNjeDVGWmstZm1PWWFQQWstQUZjblg?oc=5"
+    },
+    {
+      "title": "DL Holdings' Fourth \"Victoria Harbour Night Talk\": The AI Wave: Global Investment & Hong Kong Opportunities",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNFV4aUludDFaMnMyeWFNbXIyYUd4MVdKcWtyZ1NaTThkcndqUnpNdUZ1bU5yaGFqVmZrcXRrVzJmNGVKdTFhZU9IRHVYVTBjNHZGWVFLQU9FY1lja0Y0M0hfWjBhNFc3TUhzOWtTSmYtaV90VEdTa1hWVzJram9tdFUxT3k4bndFNmktbzNuMTNkdmFMU1RyS1pnU01XNngycmE2VklvX21TOVhCd05wWEdvWW1TTGViXzEtUHY1dDNzTjFnNGFWWm9DOHFXOEJESG5jVDBWUXdEZEoydXVRbkExUW1LT1dwdWFDUWRnem01OU0?oc=5"
+    },
+    {
+      "title": "Winning firms will focus on what they can control, weather the rest, as triple-shock brakes private equity's latest revival —Bain & Company 2026 Midyear PE report",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQUUhpY3Q0T2k0MmhtX0E4LUNlaUdBMVFONTktazAwUWpTb0NFd2FmWE10eGkwRTZOZG40Sm9UU3FYY1B6Z1ZETFhJUU8tMTlfOTlmcTRzQWE5THVjejZhSFA4V0JWR0JCb0tsVXE2ZUVJdG9vY0xDUk9xaGl5MTFPTVJmTkUwYktReWtabEdxWDYtWW1MZnRzV0dhNmlzb2VEZkZXaXVoellUMDVkTmtvTUZtdjZyNkVmN2N1TXlEaWpXR0NEdDBVdU55VUtZQmtIa2RuVW9VVTZTdFFnVkpjSW44aHBoUi1Kb1FTU1d0MDc4amNBckV0RXo0clctVWJxS216RlEtZ3NSejdfME91TnByOFAwNVU2bXNWblg1cHlZV19ZOTY4M3hsbkFWa05yY0hzdWtPQy03SkRlZmc?oc=5"
+    },
+    {
+      "title": "AI in Active Fund Management: The State of Adoption in 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtZXZiYWUzaGRPS3A3TGlMcmI0cURvYXNCN0lkckxsWFdWREFJUHE1N01HaVRIMzRFTHdMU3hYWXpKX2NHTW9OOUlnNkI3RDVFSXpwLTVQanFid0pfcmtaX0NaeV9FdmJzVW5qcDVCTkxSMjlyTW8tc1pvRTNHUQ?oc=5"
+    },
+    {
+      "title": "How to read Morningstar mutual fund ratings",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwZTZza0U4VUJSSEEwSnBub0ZPOFFpcWhvanQ4bUxlLVV3T0ZCSWZHX2o5cjBMVVhTQzAxaVhxZkZTamlBNEJCZEpVaGJ6aWFsU2pmbk9sNmRtbjJmN2hHUTJR?oc=5"
+    },
+    {
       "title": "Brian Ferdinand on Building Resilient Investment Strategies Through Data and Research",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbklIbk9wTHB6V1lDWDRpcFA3QVRlNjBKUjJEWGh4aDdRNUhNZXpiZXRLQzBUV0haZkdoZUY0UGZQcU9LeFVsaFVyeWtyQXRRQ2NWRzI1WDlZVTEwbXVzamhrY2RnVmh1SmlEWEVuUG9MY0IwMDZ2Rk05WU5ETHU0NGF0RGtGaUpHOEsxdjR1ZzdRU2xxZ0g3Q0xNVHRfN1ZfYjROOFhzT3Yxa3JqeE5qQjM1c1pEVlJXRlF5dHQyNUVndnVRTTBodzgxaXk2ck4tRGNiXy1SOA?oc=5"
     },
     {
-      "title": "Bio Preventive Medicine and Precision Diabetes Announce ADA Late-Breaking Presentation Highlighting DNlite™ in Landmark CREDENCE Trial",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOeFozUktXR0RscWsyNm1CdWZmUVFWNmIzeFRXQjI5cGRjQ2JzRkpVYTNhSTF4NV83V3BkTU1oTm9XOUU4N2RHRncwNllycVhmd2taVmI0LVU0T2o2RE5NUExkQjJ2NTFMUTJkdjM5T05MMXFOOXVWLWFfWW1OYWtfNTJjZVJZOEpzbTd4dnMwNktBU0R2ejNUMzVZTXRQdm1USUVnc2JhQWl1bTByM3JxRlNQT1BRbkJCQlVhOHlfN3VkcXl3czgzV0ROb0VwelBESDRGOWdfdGJyeWVPc1YtaHFSRUFWNzVROVFLYzV4ajlXdmR4bTFfRkd2NVQ4ZFNIVG5qNUtQbmdfeVktLVFfUk5LRnR3WktMRHV0TFFpbw?oc=5"
-    },
-    {
-      "title": "Regions Institutional Services Named to NAPA Top Defined Contribution Advisor Teams List",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcFExTEZxc28zal8xYnpNVHc5WEZNWVNDbjB4Z3QyV2tNZmE5X0tOSElWSDBEMHEtM1R0UjZqZnJ6dnFzdlktMmlQdW83eGFHTVFMbURDZFNyTXF6ZXBEVkF4VUg4VUMtYjl5ZVA5UVR6MVV6OEVyVXhZRDc1R1RlU0N6a2V5VnFud0NwaGpKNGVNOVFsRml3MVlxX25MaHNFWllYbzRhRC1oQlhmTE9tcV9HTy1EdU9MVGRnRXlTQzIyYlhGa0M5ZXAyV1B4dnVmUEd0V0EwSmI2eFBwSm14MHdyVFI?oc=5"
-    },
-    {
-      "title": "Egan-Jones Recommends Genco Shareholders Support All Company Nominees on the WHITE Proxy Card",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNWpNaXYtVURNZmZoRDhQVzZuZGo4ZHJnNG1rTGlEUkRORkl4bWxpOWJ2R1ktcHZyWGZUNWxrbVFKYVNWUjk1a2lzczZVWktfWVJWLVNmMmM0eU5VOTJWQlpXcl9ZczBoS3dKdldad205dE4xdGJvTGIxMlJVRWNoblNMaDJlM2hlb3ZkQTQ1RVViY3o1LUtBX0J6UVVHOWd4WkJvakFsNWg1Y3B5eXdiSFpFeVZLdEdpV2V2VEVOZEF1SzVwandNWHptenJ2dDd6NXhBbVpnd0M0SWJKZEoweE1nZ0hvVTQyMVE?oc=5"
-    },
-    {
       "title": "Most Companies Use AI. Almost None See ROI.",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOXotakc4Q3ZqM19zby1MZmRXd1lrbE5ISU5EdHBCaDktSTQ3WmNUdlB4UGo3ODEwcTlmY0x2NVh5cXMwdVptTkNWdGdNU1pUaU9ybXlLMXU0VXVJeE5QUTYtMHU1YVE4bnBRNkRJb0dwSy1QdnN0OHFTcUp1Wm5uYVUzQ1RMNDgzUE9lakhFQVVTbkRDWTJDdmR1dkpDcHhjdXlTLQ?oc=5"
-    },
-    {
-      "title": "Egan-Jones Recommends Pacira Shareholders Support All Management Nominees",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRjV0dkQ5Q2Q4Rktjc1ZqNmF5c3lrSXFweEVNejJKS1pBUmljaWZvNVFxanZ6UEJRemh5dEV6dFhpbVdGQlR3UlBuYXFOSm5XRGRhTlowSHV3d1MwRHpiRklZbW9kdWJQSWlPTVVCVGpLbDg4R09TSUhBS29JY19tdE5JVS1uWkhlMldJcVowemtxeTBQcG5JSXJWWnRfWk45aTRNNFFYbHdVbnJXbGxhZ3dvSEpSZUVIMkpFN0FOVGZrajdDNk5DbGlGbm94Y00?oc=5"
-    },
-    {
-      "title": "People with type 2 diabetes who were increased to semaglutide 2 mg were as likely to achieve an HbA1c less than 7% and more likely to achieve greater than 5% weight loss than those who were switched to tirzepatide, in real-world data",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxPeVJUdFhFZG1GTjYteUZwbDBDNnMtUkVTSlRMSE9PcFZSTDBPZmNQVUp3S1E5T3lBVEhZUU51dmNZalQzdE4tR1VNWi1nMGotX2pETWxlcWZ0M0l3QU5iQVV3MzZQZzhGQVpZVktOSVJ2WDdnMXEzd1EyUFFZMzBJQ3VaX1N6NWxpLUtjWEhLWXBpY3d0dGVXa2dkbFJESzBrNnhEUGJOZmJJZ25sT25kMlVHQUNNUE1KUEJMZjZtN3hXUlpOdlFtVXVFRE8zai1lSUVoLUcya2RQbjJwcHdaNkdUMnpPcllCaXhrNWRmNE5paThmUW1kLWd5Q3FtYjRvQk1TVERmSV9BbHRkWXoweFQ2eFZDTXppQTVXNF9PRHp3YjR5VXpYZUtJOFJuamVlUWo4aDZiSFBNOVk3aHliM05KS0Y3V0Z3alM2bTlUa3JHSUR4WFRSYl9uVXNvMGF4b3MteHpDMVVvc3o3VEQweGxhSWp1MUl1dk9sYk9veGtQWTJJZWU4NV9xbDVKQ2Z5eW1uTmZ4QnZtakRsTVV6eA?oc=5"
     },
     {
       "title": "5 ETFs That Outperform the S&P 500 | Investing",
@@ -96,39 +96,34 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTBQR3hTLW1DdTZaOVFOUHZUZGl6djNwTGhvWjAzZkg3TnFOb3QzOGdPbGV3b3R5cXNoSlVzVlZQeWFSSnpOWEFKeGFCYTRMcVpGdFdrcVRFd0N0Y09XUTlkdHprMmZ5M2o5emtLamVsdGRKQ0tpdlNyVXo0TFFjeEFxY24yR0VxTDBhZQ?oc=5"
     },
     {
-      "title": "Best S&P 500 Funds for 2026",
+      "title": "Sector & Industry Performance",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyM0RYV1daOEUtdGxLU3dCazU1XzJCeTJ6eGo3WlVlZWROUXdsYm1JaFMzZl9RaEt2czZyUWdBQ21HZ2ZITl9tc2JUMFpmWXpzQ2JkZnNNLUVlQUVGWmZSdXhNN0hfaklOR00ySmpCY25MaDQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWEtZUzJ1Y0JsejVfb1o5VkF5Z3BFdWVwYzdCcEJ6dWJ3N19uOFNoY2VaYnMtUVpLeTdSUE83a3pkTWtOQmpTUm01aEJteWVhNU5n?oc=5"
     },
     {
-      "title": "The 5 best ETFs of 2026 so far",
+      "title": "The Kiplinger 25: Our Favorite No-Load Mutual Funds",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KZ1AzR2Y2aXhsNUt6RTNWY0FQenZfZnQwbU52OFd0bEFHa0RTR25mcERjY3RWMlRidVhud0tvUG4xUnUxdW1DaFpoQmcwd3pJNGVTMHhSTXhOeG1Ed0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JLVpYSFR3Q3RBV3h4RjdxcjZ2U09mREdnOWlINEsyRWJobV92bmw1VnNNQXpBSWxTbUdTckhFX3BMVFh0VFgzLUxkTzVmXy1IME9WUnVLblNkam1DUUdYc25sSlFvdXhlRzlYVVBPa2VKN2c?oc=5"
     },
     {
-      "title": "S&P Dow Jones Indices",
+      "title": "This Vanguard ETF Just Made Stock Market History. Here's Why It's Still a Fantastic Investment in 2026.",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XMTA2SzF2cDl1YXNGY3RGTG4tU0ZwWU1YLUlhSlNnUEhRNmJ3eEJPUDJ4VExzZDFJUWhQcW9naTcxWFRNZTNwNjdR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQanR1bWlGaHZsMFhRQ2hCV20zTkFFQkxmODZTcEpoM1BZeGwxMUJSR0ttLXJsbU1xb0x5YzdaYTN3bndCZVRfM09mQ2poUFNDWkZYazhQeFdFVmVTZ2Z5VmdrdlNLN2RIMnBFeVBfRE9ybTdzQUxYaUJQLWd6SkR3azJySEFZVnMyd2JCNkFqSXdxN3ljbEZTNzVaOUpFbU9ELWg4LW50alZHbFk3eUhWakNfZm1rVGVPakEwaWtYNDgyS0w0bS1aUTdfY1l6bXEyM3l1MFVVYnh3dGhBNHBnU2JsUzczUGpLRVJ2LUp1MnZwQWRLc0gzUllMcktNYnFHZDhVYzNxcHBvaHZQaWJuUnhkRkJOdw?oc=5"
     },
     {
-      "title": "May ETF Flows Reveal a Split Between Traders and Long-Term Investors on Semiconductors",
+      "title": "Forget SCHD: DGRO's Looser Quality Filter Has Quietly Delivered Higher Total Returns Over the Last Decade",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnZGMExwRE9Wa0dQYXlLMTVYQ1BmdGVfUjlGcDE0Snl0N01sd0RCY0VxQ1l1ZkdDRVY2UUw2Nmh0NkZ5aUx3UGNTTjlpaEJENzEzcFpHOUhIT1lYa0YyZTN4MjRzaTRhQXJlZ0pWQV9XRTFYa1NINUJGbV95M1VnZ3R5bnY0MGtSdFR5dVZvNUEteUhiUGNub3RESmxBOWcxUWwzUnpoUEJaemNXM0FpUw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRF9mTTl5VlB6MTNFUHpoY0VleVFjN2RNR1VYZS02bkpKZnNTQXRnTlJkMC15TEhOS3g4ZkV1cDZmM3VYMlRVTXZVbUxoZGIwT0ZoY2Fmb1hkdmxaalVfYWFTc1RsbGNaQldMNm01UlJpQTJSN2lGUlMzMXFwZ1JTNEM5QlpiQm90dnQ0Zm9jVDZLZ2R6TkJGdmJUcmFBdVU0ckhZUnI2c0I1eXlUcFZpR0RwUEtUN0x5NlZwSzI0QUpUVnJWUk9YVU5JNll4M1dSY1FSd2U5LWdqcVIteUlGUA?oc=5"
     },
     {
-      "title": "Warren Buffett’s Investment Advice Is Putting Retirement Portfolios at Risk",
+      "title": "Sensex down over 10K points from Dec peak. Should investors buy the dip, hold positions, or wait on sideli",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajdVMF9SQ2ZRTXNLYXkxbDZZQTJlc0FOTmVWcjM4WW9oX0xIcVcxeDZVY084VW1odzVLS3UxdW1SSGtvcXlpSjFwel9oVVViNFF0cEw2ek1zLTg2QnJNa0t0SUtDLVUzZWlDMDFmSkhjYTA2NmU5WjIxbjUtdEpXUUtKRmR1TUxhX3o4ME9DamRTeVQxV3YtNW1XcFBzVnV5M2Vkd0R5Z1FkRU80c3VubUdHTjdudzVsbXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVVZfc0ZvWThsNmt5Vk5CS2plRVZsMmlUWkpQWVR5X01wQWZiODRYYUtlYlRlRWhiQVlhODJ0a2RZZHpqcU9Ub1VrSklHYlRLZ3hGSGxJaFFjQmF3dEIwOGFvOE1zaGFSNGp1bEUzWld3Y2gxY2tIMFlSTVozcjFjX3Fkc0s3OVV5amkzbmZkTlNDRmJldEN6T2p6eUtHckZnRUdmTDU4V1p0WmpmQXh0RWdRUi1kOU1qdGpyb3N1YmdUOGRLb1FPbmNMY2hPVVg2b0VjODJMTUhGVFY1dTdGZWx3Y1M2VHZ3aWhxbFZseHg3NDdqU2loOGhITzBLNVhBY3E1dzI5Z9IBhwJBVV95cUxQVVZfc0ZvWThsNmt5Vk5CS2plRVZsMmlUWkpQWVR5X01wQWZiODRYYUtlYlRlRWhiQVlhODJ0a2RZZHpqcU9Ub1VrSklHYlRLZ3hGSGxJaFFjQmF3dEIwOGFvOE1zaGFSNGp1bEUzWld3Y2gxY2tIMFlSTVozcjFjX3Fkc0s3OVV5amkzbmZkTlNDRmJldEN6T2p6eUtHckZnRUdmTDU4V1p0WmpmQXh0RWdRUi1kOU1qdGpyb3N1YmdUOGRLb1FPbmNMY2hPVVg2b0VjODJMTUhGVFY1dTdGZWx3Y1M2VHZ3aWhxbFZseHg3NDdqU2loOGhITzBLNVhBY3E1dzI5Zw?oc=5"
     },
     {
-      "title": "10 Best AI ETFs to Buy in 2026 (Performance & Reviews)",
+      "title": "10 Best Online Brokerages For 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11LTlhVlBBUmQ5QmEyZXdqNGxkSkpFRlhfWVpBRHN0ZlJpRG5GMmZ1d2lpd1BtVnNkMFRaZFNLT1ZiN0ZRb0JLbHhPVmZUZ9IBTkFVX3lxTE11LTlhVlBBUmQ5QmEyZXdqNGxkSkpFRlhfWVpBRHN0ZlJpRG5GMmZ1d2lpd1BtVnNkMFRaZFNLT1ZiN0ZRb0JLbHhPVmZUZw?oc=5"
-    },
-    {
-      "title": "Best S&P 500 Funds for 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyM0RYV1daOEUtdGxLU3dCazU1XzJCeTJ6eGo3WlVlZWROUXdsYm1JaFMzZl9RaEt2czZyUWdBQ21HZ2ZITl9tc2JUMFpmWXpzQ2JkZnNNLUVlQUVGWmZSdXhNN0hfaklOR00ySmpCY25MaDQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VQXRNQXZPbllYWFhtLTR6ZWZMNWZKUkJkYVVJUV94bHQ4ei11eXZVZ2hOYi00cWN4RlRTMGpZbXlQZEZyRlYyNXRzMHVlRHR5ZWFLYmp4QjhnaUthYXZIREhMU2o5VVFTYldvTHFR?oc=5"
     }
   ]
 }
