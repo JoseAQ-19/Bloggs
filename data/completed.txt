@@ -1679,3 +1679,4 @@ funds: Bitcoin cae un 30% en un mes: Impacto en el mercado europeo de criptomone
 funds: Private Equity vs. Traditional Funds: 25% More Risk, Less Diversification
 funds: Private Equity Investments Underperform Diversification Expectations by 30% in 2023
 ia: El futuro del talento: adaptarse a la era de la IA y reinventar el modelo de contratación
+ia: KY Governor Beshear Supports AI Candidate: A Game-Changer for Iowa Politics
