@@ -1683,3 +1683,4 @@ ia: KY Governor Beshear Supports AI Candidate: A Game-Changer for Iowa Politics
 tools: La UE actualiza sus directrices para el uso responsable de herramientas de IA generativa
 tools: AI vs. Public Health: The Surprising Results of a New Tool Test
 crypto: Ethereum cae por debajo de $1,500: ¿el final de una era?
+crypto: Americans Embrace Crypto: 20% Adoption Rate Surges Among Republicans
