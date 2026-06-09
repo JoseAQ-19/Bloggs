@@ -1701,3 +1701,4 @@ tools: Tools for Humanity enfrenta recortes mientras OpenAI se prepara para conq
 tools: Savanna Chimpanzees: The Unexpected Tool Users of the Animal Kingdom
 crypto: ¿Bitcoin alcanzará los $100,000? Predicciones impactantes para 2023-2031
 crypto: Trump's Crypto Windfall: How the Family Cashed in on a $500M Venture
+crypto: Texas Power Grid Under Strain: Crypto Sites Fail Critical Voltage Tests
