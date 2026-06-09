@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-09T08:14:36.274253+00:00",
+  "scouted_at": "2026-06-09T08:15:51.383062+00:00",
   "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "SpaceX IPO: ¿Por qué Morningstar valora su valoración en $780B, la mitad de lo esperado?",
+      "title": "SpaceX IPO: ¿Es un valor de $780B la inversión más inteligente o un espejismo?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Inversión sostenible en tiempos difíciles: ¿Cómo Morningstar Sustainalytics muestra su resiliencia?",
+      "title": "Inversión sostenible: ¿Cómo Morningstar Sustainalytics demuestra su resiliencia frente a la presión internacional?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Lightyear: Un crecimiento del 260% en España y las lecciones clave para emprendedores.",
+      "title": "Lightyear: un crecimiento del 260% en España que redefine las oportunidades para los fundadores.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
