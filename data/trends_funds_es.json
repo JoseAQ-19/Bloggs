@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-08T08:37:31.981507+00:00",
+  "scouted_at": "2026-06-09T08:14:36.274253+00:00",
   "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Por qué el bitcoin ha caído un 30% en el último mes? Análisis de tendencias y su impacto en las criptomonedas en Europa",
+      "title": "SpaceX IPO: ¿Por qué Morningstar valora su valoración en $780B, la mitad de lo esperado?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Las acciones de Lightyear han crecido un 260% en España: ¿Qué estrategias pueden aprender los fundadores de startups?",
+      "title": "Inversión sostenible en tiempos difíciles: ¿Cómo Morningstar Sustainalytics muestra su resiliencia?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Las 10 compañías de defensa con el mejor rendimiento en bolsa desde el inicio de la guerra en Ucrania: ¿Dónde invertir en 2026?",
+      "title": "Lightyear: Un crecimiento del 260% en España y las lecciones clave para emprendedores.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,29 +49,29 @@
   },
   "all_headlines": [
     {
-      "title": "¿Por qué está cayendo en picado el bitcoin?",
+      "title": "SpaceX IPO: Morningstar la valora en $780B, mitad del precio",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdU50MXJtXzRhSF9hV0VQMlRkVkJ2Um1IVGF6bWdlcHgwTTB4N0pDbDNYVkRtWTdOLVEwdGlITHRZRzZQcTR1TVdTWFhKaW1KTE5PcTU5RUJtdDhCMEVjalRlcTFzU1EtWWlkbkRfVVNYTEN4djZSZVBSN1plc0NYcVh4bzE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkZEYk5qS3l3Ty03V0ZrR2pzVXhEU2p0dXBYQkhmMEEtUnpmUVRnR20zX1FnWXVvcWN5elllOUVwS2VET0Npck9VTy1qSXFrSGhleGxnYmdSVFhWSFRHOFVYSTFCcTlxWWdRN3BrWXo1VFh2eHR3UkI3Sk5tdGFfX0ZyVHlvOVduU1pjdUJyVEYxZw?oc=5"
+    },
+    {
+      "title": "Morningstar Sustainalytics: inversión sostenible resiste presión internacional",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeF9HMU9FTWxkU2FGcWJRNDJiYk5ZckQycUZFTlZpbDQxaTcwcllFVlhPVUQ5bmFfbm1nYzRNSnd4MktCMmJlWUJOMFhrX1U2TllsVm50MDhnTHMtbUczeG9DMUQtNDhwaXRTbS1zcFRtRlhqeVRSM0hwSUVvZzVIdEZSeDNhT25uNjd2T01WRjlKLTFKWlZyVzUtczVCTVc5R3d4U3JFMUNSSllUenBuYkpxMkR1MEQzRGxRcFdXbE1Gby1xVXNHU2RkRGI2ZWJ2T3Z3dzFsNUsxcnpPTmfSAeMBQVVfeXFMT1lOT0YzdGkyX3AwMTlzNTY2b1ZHb0dqVmhlVFNyeWU3M2xEZW5NenRyMDUxdExVMmYwSWtSQmtNekVIMGR4SzdiQUhHeUhiNmdJbHVJMFQwOWZXajJLbFlDX2RIelNKbVV0dkx5MEwxVW9lUm9WdE0tUWdyYnFLUHpyR2RtbXlzUlZ3Tkt0dUt0MTB6cld6SUxMX0hnOTF3eTdGUkdnOGJtVFBuaXpSUjA5RThFNDItUnllZE5BbXFwYXhiUDBsenlYemVqYUZzZENVSW9Kb3lDcktsZFRHYUpoaUU?oc=5"
+    },
+    {
+      "title": "Morningstar Sustainalytics: inversión sostenible se mantiene firme.",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXI2R3FaakEzdjdERjJoRzdHYlJPQWQ2OWoxWld6TGRwaE0tb0FjTzFmQnVUQU1ObmFfSkQ5aVo2a0l1Q1lSQ0lzYkpObVg2WlRMVS1TOTNHQ2pidk4xZWZZZnE0em9RVDBxLVhGX1UtM3RoTFVLaE1laVlJcHpFaG1FVHRYM3BoNTJCU2RFTHBob3VjWFJjYg?oc=5"
+    },
+    {
+      "title": "Calcular la pensión de jubilación en España 2026: cuánto cobrarás",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOURMS181R2RpZGJsLTVjVlVBYkF3VTVUbjNlZVVlWVNXSzNGaWlsVkVXU0JNVW1Ld1NEWHdfRk1QNjd0RlBmTzJobXlBVS10NHJsQzh3Z2wtRVRacmc5T2dMTE1keHBnN1ZoYUFyMHdUYjQzdmxWYUhQQ2lfcHFaQUYwcXhuOE0xUzN2cHc2NHBVRnAtbkJpcTBjNA?oc=5"
     },
     {
       "title": "Lightyear crece 260% en España: lecciones para founders",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUThwRC1KSUQxbmZ1Rkk1RXNGMUEwdy00SnNKcVFPcGNWYWF3MkI2Y283Wkp6N3BnWE4wekhCOUtCVFVsTExPejBlVk9uejRTXzdaWWdhcmQyOXpkVExidFptZHMxMUxLZHBmbHRJdTNhRHR1RjhuZnBwVXp5TkFVcWVWcE1XallzOEU1Sw?oc=5"
-    },
-    {
-      "title": "Diez compañías de Defensa que vuelan en bolsa gracias a la guerra de Ucrania",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nUTRhU3ZQeTZXQmtvUUlfZmZTRjZ4SGYySG11MkJKWnBnTUlWVVhwQTJNWnRLZlZWZ3dfRzVjcmJ6enFYSmRqcl92Tkpzb3NoVGs0eFY0U1R2SjlfcDhzSEdMaEhCenI4ckQybEVpaEdlbGNSaE9GVXEtTUotd0o4aVBDdHBNdXNoT29sR21hMnVSN3diWi1kaU9GTWdFMDZrTGJtc2hnMnR5QUNjUVh3TlpIdGdXMGpoUFJoX21aUdIBngFBVV95cUxPSkkwR2poZWs1OFducU9yaHZOUGlSV0JBQ0hCakVsc3k1cEZZa3VZYjYtcjdHbWJROGJpamNuaGgtZkw4a3J1S1NaeW1EdmtlQUo4bUlZcExxNXNqYVpsR0lOdExwdXp3U2x3VXdxSnJPejFzdl95eXBNUXlsNXRBNnVKZWR4YTBjWjlrVFpYVU5GUExpNTluTDVVNnhCQQ?oc=5"
-    },
-    {
-      "title": "Mejores cuentas conjuntas 2026 en España",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTJpbVBnY3l0ZzRzWmR2UWI3V1NjUy15Z1NIbFhPY04tRDJBakpGNS1uWndLclV1b2ZUMDRKNjVEVmVraWM0NUlzeEhCUmktVHByYUxCSEdKcGVPLTE4aFlqWlJyQzY5cFgzbHFSd0dNbDZ4ZjVBZlhxR2JkaWwyaEI3RWJnS1NjMGpwLQ?oc=5"
-    },
-    {
-      "title": "Mejores hipotecas de junio de 2026: fijas, variables y mixtas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hLUpjdXphREwybEFhQmxNWkJIMkM4LU5YTmxSZW96a3hQMlpvbzZVUGFMX21GQUJMYVZjSUh0blBmY0hFN1c5aDNnWHNnSHFXNGtCZmFMaXozZUdGQzN3WUdJS1hlYm5kNEVHcV9XdWpFLW5ua19iZ2Zmbw?oc=5"
     }
   ]
 }
