@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-09T09:44:14.927479+00:00",
+  "scouted_at": "2026-06-09T09:45:27.916806+00:00",
   "total_candidates": 14,
   "topics": [
     {
       "rank": 1,
-      "title": "Discover Why DGRO's Looser Quality Filter Outperformed SCHD with 2% Higher Total Returns Over the Last Decade",
+      "title": "StockOracle™ Cuts Hours of Analysis Down to Minutes with AI-Powered Insights, Recognized by Benzinga as Best Stock Research Tool",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Unveiling the Surprising Performance Edge: CALF's Small-Cap Exposure Lacks a Clear Advantage Compared to Competitors",
+      "title": "5 Stocks to Buy Before the Next Market Rotation",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Analyzing the Impact of a Weakening Global Manufacturing on Copper ETFs: What You Need to Know Before Investing",
+      "title": "abrdn Income Credit Strategies Fund 5.25% Series A Perpetual Preferred Shares Declare Quarterly Dividend",
       "lang": "en",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -76,11 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUklYc2ZXandXWlAtTHdqT1IxdGJWMjdhNmJ1QmtTUUR3amZfbXFCOF9iTWtVTXFkNkpNbUVqVGhvMkdTNmFyaE44WVZ4ZlBxVUpmbDlsWmkxQlJXSW5QU19saXZZY0tRbS1yNHlJVDhnMldWOVRRbUkzN3E3a3RubkpSc1YzTWxFc0NaelM0YmwwV3RMQjdWVUVVcTVlRnNjeDVGWmstZm1PWWFQQWstQUZjblg?oc=5"
     },
     {
-      "title": "SMArtX Advisory Solutions Releases Q2 2026 Select List",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMVFFLThraXF5MUhsdDRSTFViZ1JncXNHemdNMDRtYmduRnpaRjNYdUFjbFZDVzJDSm9UMkM4VFpVd2pNRFNSbEFoSUJQbWRRTF9BcElkN0t4ZnVXVlR4V2VYMGtjRzVJTy14WmZWd1h0OWF4SlBnR3c4aUM1VnQtWWVheUM4d3ZJMFVOWnZfaGpIbEloVFJzb1JHLUNUY0ZGcEN6aEJOUU9fNUdKZ2E0YzhEN1Rrdw?oc=5"
-    },
-    {
       "title": "Touchstone Investments Chooses Bloomberg Equity Indices to Support Active Strategies",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa1plQkNUVWVsbllkQTBydUZxYzA0VmdiNllNcjdoc293XzF3UkFJTS10cEpFZG1fTnRROHVtajNHb1JucUxQdjlVSDZ2U2lLZ0RVZDF2VkRWRGw2M0ZqZVBQb1dmaG5nUFFhVWpmSFJDREcyRkJ2MVNEX25iZUlqaXFfUkRVUXE1ejg5cXNOYXlmRk9xbWpIaTdaZFZwdHFJWmh4SjI3cVlRWDBnVWwxYXRIUUlkYVp1LUNodWdlQUpjS1hOWlMxNVdQM3VVWENRNkFhbVRoU2ZjOHNXR0E?oc=5"
@@ -91,9 +86,9 @@
       "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOdDlDRGxaSU13V0V6MDNZWkxfUkhHSkI4bU84QkRTTENwUGUzN3ZFaTI2R3RrdVhybVlwVHRpdEIwa2tBek1tYWQ3TEtZSkE2cDNVTkxGNGY4QjZXUTNCTHJudEZEckUybmU1dzlyOWN1U1g4cF82UEtsUGFpQXN0b3VTeVRxUzVzQy1JNWx1aGtlS1BJUUVlZ0loMUlMaUxsbHh0QnF0c2taX2Q5Q19LUTBDdk52OEdfOVZXRWlCTFVGTkdsS1lIYUdjX0N1ckJGQzMtZG5ocGlxVXJtZGt4RlFJOGRwdEcwY3NoNDdjWUhEVGt1azN2Q1hJU0lpeXd4ejJqbV83TU1IeTVSdVdRdW5fREU0ZWpMVkRvWWwzdHBDcU5YdG9uZkNXUHFTQllSZmFJ?oc=5"
     },
     {
-      "title": "CALF: Quality Small-Cap Exposure Lacking A Clear Performance Edge (BATS:CALF)",
+      "title": "ATI Names Rob Rengel Vice President, Investor Relations",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFB5ZWh6ekZVMl9UcUFGdmMzREZvWG9LMkE1U3RUOE9wczJ1VGh6RXZTQ2FoRGg5cC1CV0dXZHJtZDhzejVHd3N0VHVfeUt4bS1OS0YyZ3RDUURweUNfbmZBc3poeHdIVUt1Ml9KQjB6XzNMOHRVemstMS1ZVXBvYmlkZ1JHM2c1N2lsZVlkMnBBNUt5QlliaEhVT1VGbHRnNEtIbzBsQXk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXBDVS1WeEhZVFM0Zl9PMjBMYjdQYWlxM3ZkcjhheWpCd245NEFDUTJFN0Q5Y2hneHQ2ZkFzQXVoRnF2dE1vMWU3NXVwQU5TazVZMlhueGd2TzNUbUxNWVdHQjBKdmRnZEk4bkhBSnc4UUw4c2RocHpPaFpOR3FzclZaNUR1RzJDS0stSEJXYU1KaDZZckRWWUVKbWpSaU1Hc2FjTXpoUFNBbDM4YUs5VnFxOVhLZw?oc=5"
     },
     {
       "title": "Forbes 2026 Midas List: Top Venture Capital Investors Ranked",
@@ -101,14 +96,19 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fcGVEQ0g0VGFkMnVBQmlYNjNock5lN1FWdF9yM1Z1bmhCdnZFOXZUSlpoSWs0S3dHcTN5NGlMMnZHWXlnU2s2UUxZSQ?oc=5"
     },
     {
-      "title": "Best Defense Stocks to Buy in 2026 and How to Invest in Them",
+      "title": "CALF: Quality Small-Cap Exposure Lacking A Clear Performance Edge (BATS:CALF)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaFRwZm5fRTRUMDJTeEVUMHJrd3U3bUJreWVIOWE1VjhSNW14UmgtMHJ5cmlleFVVZE94dkxqWHlZdV9GQlg5ZnhLLUNkQjlXVlJqTTdiWUtxb3JtczlQTUMwOTFMb0IwRDFQaXJ5bjJXa2JnMVhFQVdneS1veUFXb21IbndMQWZTNU5mRWVuVQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFB5ZWh6ekZVMl9UcUFGdmMzREZvWG9LMkE1U3RUOE9wczJ1VGh6RXZTQ2FoRGg5cC1CV0dXZHJtZDhzejVHd3N0VHVfeUt4bS1OS0YyZ3RDUURweUNfbmZBc3poeHdIVUt1Ml9KQjB6XzNMOHRVemstMS1ZVXBvYmlkZ1JHM2c1N2lsZVlkMnBBNUt5QlliaEhVT1VGbHRnNEtIbzBsQXk?oc=5"
     },
     {
       "title": "If Global Manufacturing Weakens, Here’s What Happens to This Copper ETF",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWk9yV2hjeHJIbE9femhyUk5ReXNmY0lUVFlldzZHbHFrNDV6cERzOUhtUURucUdTMjdqckNSbW9pN3lZWVlVMkJ6eTJZOE9fSkt6aWgzYThsUGxSYW16WVJmb3h6WFV4azlMaTJWN3JOUTdhMmpEU1NmOGRaSUZ1YVg0NTlGVEJMbld0SmVzMGx0Q3FFWjdTSlZlUmZBQ2RmbkNoQVpKX1cweFZZdWtFNWFMcw?oc=5"
+    },
+    {
+      "title": "Best Defense Stocks to Buy in 2026 and How to Invest in Them",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaFRwZm5fRTRUMDJTeEVUMHJrd3U3bUJreWVIOWE1VjhSNW14UmgtMHJ5cmlleFVVZE94dkxqWHlZdV9GQlg5ZnhLLUNkQjlXVlJqTTdiWUtxb3JtczlQTUMwOTFMb0IwRDFQaXJ5bjJXa2JnMVhFQVdneS1veUFXb21IbndMQWZTNU5mRWVuVQ?oc=5"
     },
     {
       "title": "This Vanguard ETF Just Made Stock Market History. Here's Why It's Still a Fantastic Investment in 2026.",
