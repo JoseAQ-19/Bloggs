@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-09T09:45:27.916806+00:00",
+  "scouted_at": "2026-06-10T08:27:34.039571+00:00",
   "total_candidates": 14,
   "topics": [
     {
       "rank": 1,
-      "title": "StockOracle™ Cuts Hours of Analysis Down to Minutes with AI-Powered Insights, Recognized by Benzinga as Best Stock Research Tool",
+      "title": "Certain Aberdeen Investments U.S. Closed-End Funds Declare Distribution Dates and Amounts",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "5 Stocks to Buy Before the Next Market Rotation",
+      "title": "FS Credit Opportunities Corp. (FSCO) Declares Distribution for June 2026",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "abrdn Income Credit Strategies Fund 5.25% Series A Perpetual Preferred Shares Declare Quarterly Dividend",
+      "title": "Aberdeen Municipal Income Fund (MFM) Announces 25% Increase in Monthly Distribution and Adoption of Stable Distribution Policy",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,49 +51,54 @@
   },
   "all_headlines": [
     {
-      "title": "StockOracle™ Cuts Hours of Analysis Down to Minutes with AI-Powered Insights, Recognized by Benzinga as Best Stock Research Tool",
+      "title": "Certain Aberdeen Investments U.S. Closed-End Funds Declare Distribution Dates and Amounts",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQLTVST1E1a2FnNW5pN0N2ZDlMN0FUTngxdEZibmdMZFREUGd5ajR1aUdkUjdWcVpjSDFxN0h3dHo1SXdiUTVDeF81WkZHTEU5dzJSWk9NMUtMN0RFRFZTN1ZmR3o3VUhCM1FfQkEtX2hQbkNLdElrNUxCZmtENldZbk9PQ3QtREw3UUQzQ1JvT0NqZkRRU2FFM3hrS0d0VkptclU1ZUo3cnM4MF91QWdQZldmN3V1YWFoVi1vZDF0aWwycXlNeFdtMTE5OUZJWFJXUzRMUExnbWtxRG9NV3ljOFNBZDFHdUtNaUFtcVdxak12SlR0WjBnR2hiNnJxNEh0YnU0TDZoMWxQVFpVZUJQUl96d0lVQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb3RZTXR0M2J6dXV6Ukc3UDV0OHByZlpIX21MYmt6cTNEMDBOUEg5VzBJTHRXLWt6TDRGMlFUZkdpdGNDbWhWZEY1U3ZHeGRsVGg5ZGNSRFFxV1A2OFVNYkx3c0VucGowbTY2VkU1RUV1N1QtUlVDNlN6blVkZWRwSUJoekRVTW5abVpYR213VENLRlBUempfNkF1RXIxRllfdG1lVzBfVHBhaEE2YTdZeFVWVUtEMnhQYjVxMEJ4U3JXeWx3S1pVdnZsNGFSRkNqR19MSzdmcW95SFMtUlczS0JB?oc=5"
     },
     {
-      "title": "5 Stocks to Buy Before the Next Market Rotation",
+      "title": "FS Credit Opportunities Corp. (FSCO) Declares Distribution for June 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2VZd3FGdm9iWWp2TW16Z1pHd0xEX3FHcnJBaFU3QmZaNFhvOUtsOEpFaWd2d1VRQjhRMk54ZkhSR0I1VG1ZZVR2dnloTTRGd0wwNDd2TXM1TXl5RkFRcXY5OEVzVGlEU0F1d0o2Sjc3SEpDck5CUVRiQUp3X0Zlbg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNFNocXhQT2x6eGE0cm1vMmFQbjFGSUFCRHRkYXhVM3pXY3hUWm9HaVpaU3hmLURtSDV1em5iTWRDekN5b1d2VlZDNXpwTnRRanNYb0FXbFNNLUNwbjRyd2pEWkZ5QThUX0pBUndBZ0l2RGNqTU8zQ3RBbFJqeWJzQUJVUEZud2NfOHZ5aHdCN0VZN3NqYnBuM1hjSTlGSXg5LURwWW4ySEtZRkY2alQ0QV9RX3dBekhDdzA1aW5MWnVvTHJ2SnZabktB?oc=5"
     },
     {
-      "title": "abrdn Income Credit Strategies Fund 5.25% Series A Perpetual Preferred Shares Declare Quarterly Dividend",
+      "title": "Aberdeen Municipal Income Fund (MFM) Announces 25% Increase in Monthly Distribution and Adoption of Stable Distribution Policy",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTVBraTQ3RVZqTldPT1NMbXJVSVpvc3dBbTVfeDN4X1NMYnZ2aWZXTGpDd09ob3dCakdrRFBBd2U2TzFqbkFkMHY5cEdXbnFRclNybVo5cFZmTWFXTVFZeWw1NkFGU1MwaXk3a0pZQ1FSaWpjdDlTeXRKWG9wWk1PSnJ1dnNHa3J5dEJkNEE2RncwSGl5RVJid0lscFZuTjNLcm5ZbFdjQzhPb0RqNWFzZ2NUZ2xfVmx3dVVWYnd0NERjc3JuN3J5R2VfdmV5YlNkVWtPUjliRndGNUJMbWlyTzgyMWZUTllhNWg4SUtNS1hqckZ6MkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQOURRT0ZtTGs3VkdvdnNzRkM4dk0yRFdFS0ZDNlh1WWdBcFFEZ0lEc2w4VVM5Y2lIQVRaZHRNYmk4Q2E3NGtBSHRJNmJpRGtTUGplYXN6RkR1aEM5ZGlkeW9jdEtkWDRWVWRZS0NnZVdZa00yMlBVTDR4Y3RzNTdpZlFfTzliZU1ETEY1MFZSZUFld0hJTDFCa3ptS08wTFRSZVR6Y2tOakNVUXdNdzNTbkp2Y3ZydGR3WDEtN2EzX0dPZkNsa0VhQTVfdTBtZnFLNk5xRTU0cHlmZVFPMTY1eG5SWDlaUFhGRkV0WHlwVkVEaXR0emdDbW8xS1kzMHgzTW43c3Uwc0Y5S3RKWHlIQjBn?oc=5"
     },
     {
-      "title": "VanEck Model Portfolios Now Available on Amplify Platform",
+      "title": "Why We Think the SpaceX IPO Is Overvalued",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNGU1cUg5OFAwaU16N1ZpNWVSektpeXlLVERtX2FIdnFrV3I4TGt5NVBSdHJRUVFTeG1Yb28tS0FrZmlQVEV0R2J5SGJEX1JEWmx6TG8wNFJvUmYtLTZCVDBTaEtWSFRkVHFfZlpPcVpzV2p0alg3WnViMkZ6b1hnaGxhSkhYb0llTG52anljY1JJUFhQUVA0WFJRMHhZRUhfUWhfZ3hJc3NyM193dWRvR0tRTENuaTNRc0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xYnRWMXJpamRtSFJQYjgxM3pNRGp1emlWTmNBdTN4VW0tV2xLUFFOTFdvQ2U4NXpwWkVCUVQxdEJBdTQ2N2llSUZFNVNvVnJRNGZscm4tTm9NTExaLXZaUzkwTG1WcG9EUGloeXFBTjhNNnUwclNEYjlUSko?oc=5"
     },
     {
-      "title": "Private Equity May Not Diversify Your Portfolio Like You Think",
+      "title": "Stansberry Asset Management Strategies Receive 4- and 5-Star Morningstar Ratings™",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUklYc2ZXandXWlAtTHdqT1IxdGJWMjdhNmJ1QmtTUUR3amZfbXFCOF9iTWtVTXFkNkpNbUVqVGhvMkdTNmFyaE44WVZ4ZlBxVUpmbDlsWmkxQlJXSW5QU19saXZZY0tRbS1yNHlJVDhnMldWOVRRbUkzN3E3a3RubkpSc1YzTWxFc0NaelM0YmwwV3RMQjdWVUVVcTVlRnNjeDVGWmstZm1PWWFQQWstQUZjblg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWUxBUjhvZmR3aVRNWUlKbFhBM19BZE9fU3BuYlVXb2hRRDBWbDJuVlNOb0sxOU9GYXRsc3g0NHRCZXFOQjRsRGFYT3JzcTd4UlhjOFozS2gwb2RoNlM4VE03V1JLdW90OW5EU0RZSVc2cnRocXEzZXQ5OHluME9xczZFZUlJbTBpRV9zZ09VdFBtZ2pHNHRwbjhWdnAydDlTYy1KbHlVOU9EdGtTTWYwQ2h4cVd1eWVIanQ3MEtMeE5Yd01EZV9HRm9nWnAtWHFtT1JBaTB2aGdzRWMxQmMydWJua1ZPWlhn0gHuAUFVX3lxTE5MZmh0eVVOTmVOWDZUMm1CZFBKUExQOFdvaFphWF9JYlhUNlpqWnV1NDJBXzVieFZWLXlibHo3UmtNWncxaFl1VW1GczRKa1VxQy0zNTRzeThGa3ZEVF9RUmJaMm9OVk1LeENFQmdlUHQ1NDc2bHQyNjRVVU1DQTNZSFExVU5qRThibm5lc2ROa2RwWXV4U2FEUkluOHNfRDgwbmRaRGZ6elJUSi1LQWJ1UElac19MOGoyNW4tTDFTY0I1Z1pSTUNnbDVjZC1Vd1lGZ0lCcHNOTVc0M1hqT0g0N3FDcUVOa1hhWlg4Znc?oc=5"
     },
     {
-      "title": "Touchstone Investments Chooses Bloomberg Equity Indices to Support Active Strategies",
+      "title": "Arcadis and Jupiter Intelligence introduce PRICE framework to help organizations close the climate adaptation investment gap",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa1plQkNUVWVsbllkQTBydUZxYzA0VmdiNllNcjdoc293XzF3UkFJTS10cEpFZG1fTnRROHVtajNHb1JucUxQdjlVSDZ2U2lLZ0RVZDF2VkRWRGw2M0ZqZVBQb1dmaG5nUFFhVWpmSFJDREcyRkJ2MVNEX25iZUlqaXFfUkRVUXE1ejg5cXNOYXlmRk9xbWpIaTdaZFZwdHFJWmh4SjI3cVlRWDBnVWwxYXRIUUlkYVp1LUNodWdlQUpjS1hOWlMxNVdQM3VVWENRNkFhbVRoU2ZjOHNXR0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNLVR3VWxsMlhnWEFNMFUxMVAtUmYxQS1uekc3WUhYMWJMRUIyUVQ3ZGpTYTg1MUI0eXdSMW1JTjVXV2pjZHBhQ3lNdW9NM0FtNmZ1Qk82QmQtZ2lNeWhleHEyNkFOcnpRTHRxQ2JteGJPd3ItRW1SZUZjOXdlSnZUTjBMMXFIREwwWUdBWXlkRkI3VDFwMmxUT0xaNWJ4WmdPMjdUaVBrX1c2aTdlQnlOS29JX3UzOXQ5VGhLaVlZMWd5cFZKNFRFdENIR1AtWHhEMzQtMjVWcndFQ2tET2JlOXdXeXZPUGNjTTdodlM5QjVGZHdBdnJKb2x5U1ZkS1N2SjlxWjE3NFBFV1RBVHV2c0Fvbw?oc=5"
     },
     {
-      "title": "MFS Municipal Income Trust Announces Completion of Reorganization, Change in Investment Adviser, and Name Change to Aberdeen Municipal Income Fund (MFM)",
+      "title": "/C O R R E C T I O N — Lillie&Lee/",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOdDlDRGxaSU13V0V6MDNZWkxfUkhHSkI4bU84QkRTTENwUGUzN3ZFaTI2R3RrdVhybVlwVHRpdEIwa2tBek1tYWQ3TEtZSkE2cDNVTkxGNGY4QjZXUTNCTHJudEZEckUybmU1dzlyOWN1U1g4cF82UEtsUGFpQXN0b3VTeVRxUzVzQy1JNWx1aGtlS1BJUUVlZ0loMUlMaUxsbHh0QnF0c2taX2Q5Q19LUTBDdk52OEdfOVZXRWlCTFVGTkdsS1lIYUdjX0N1ckJGQzMtZG5ocGlxVXJtZGt4RlFJOGRwdEcwY3NoNDdjWUhEVGt1azN2Q1hJU0lpeXd4ejJqbV83TU1IeTVSdVdRdW5fREU0ZWpMVkRvWWwzdHBDcU5YdG9uZkNXUHFTQllSZmFJ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEoxLVA3VnlFQnAxQTA1NERJQ2NyVjA2ZlI5ZmV4ekd5bVRyTzlURGdTaHFMMmdlZDhSUG85NzJSemJLVGRQVVc2WFJ3bkcwNFltUG5SaUlKM2J3WVRValoxVXF0b2UxSThpQ0Z3QlJQdnQzbXpiRVNPSXh2V2tBRkswcGRyNUFXVmU2cGVjbmkyaTMw?oc=5"
     },
     {
-      "title": "ATI Names Rob Rengel Vice President, Investor Relations",
+      "title": "Guide to the S&P 500 ETF Investing",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXBDVS1WeEhZVFM0Zl9PMjBMYjdQYWlxM3ZkcjhheWpCd245NEFDUTJFN0Q5Y2hneHQ2ZkFzQXVoRnF2dE1vMWU3NXVwQU5TazVZMlhueGd2TzNUbUxNWVdHQjBKdmRnZEk4bkhBSnc4UUw4c2RocHpPaFpOR3FzclZaNUR1RzJDS0stSEJXYU1KaDZZckRWWUVKbWpSaU1Hc2FjTXpoUFNBbDM4YUs5VnFxOVhLZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3VVSEFBM3haLWNWNjc3ZXpSajh6YXQzOHBtdUZoSVBpNWdxZUU4QW1uMjhtVkNmZnpvbzlHZmxDVTYxZWQ0em9ack9UbGwyT0dwS1B5R3oxYXhFaHgyVXp1U3FCY2Fvek10VjJUQU1yZjBCTWZWTG1LSEhLdDAwWjV2QW1qbkt5WUM1b2R5QVEzMmxn?oc=5"
     },
     {
-      "title": "Forbes 2026 Midas List: Top Venture Capital Investors Ranked",
+      "title": "5 Best Renewable Energy Stocks for 2026 and How to Invest",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fcGVEQ0g0VGFkMnVBQmlYNjNock5lN1FWdF9yM1Z1bmhCdnZFOXZUSlpoSWs0S3dHcTN5NGlMMnZHWXlnU2s2UUxZSQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQzcxYTdzalE0RmlrbDVUYXhaNVZEWXVzZURtWTZJS2hPWUFHS0E5N3p6M2ZXVkJ1Wm1aOVNySTQ4R191NmRZT2UtZFc5eVNtd1Z1R2RFLUt0RG5tdnlxcndEZ1FUSGVQdGFfbGhDcnpPWkxVNE83MVJNbnRhZ2FfUm9aaWp1OHRqbUd3UmgwMkg5cUlO?oc=5"
+    },
+    {
+      "title": "This retirement portfolio beat the stock market in 2025",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0FTUzI4VDBzMzZNMDJJYlJrU1BLS2hJakV5cF9TdG81bzJuRmZyQVBZckoxaDZpSlYtV0Nzc1lzUzVQcW5YTlVsZ1E2dXRLcTJNZ0ZaQmVGMG14dGhiZHVWaXU3TDhBb1NwSDdOaXJCSVp4dUZhTnk2X3dSNk1NeHh0VEZ5ZExpV0Vr?oc=5"
     },
     {
       "title": "CALF: Quality Small-Cap Exposure Lacking A Clear Performance Edge (BATS:CALF)",
@@ -101,24 +106,19 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFB5ZWh6ekZVMl9UcUFGdmMzREZvWG9LMkE1U3RUOE9wczJ1VGh6RXZTQ2FoRGg5cC1CV0dXZHJtZDhzejVHd3N0VHVfeUt4bS1OS0YyZ3RDUURweUNfbmZBc3poeHdIVUt1Ml9KQjB6XzNMOHRVemstMS1ZVXBvYmlkZ1JHM2c1N2lsZVlkMnBBNUt5QlliaEhVT1VGbHRnNEtIbzBsQXk?oc=5"
     },
     {
-      "title": "If Global Manufacturing Weakens, Here’s What Happens to This Copper ETF",
+      "title": "S&P 500 Forecast & Predictions for 2026, 2027, 2028–2030 and Beyond",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWk9yV2hjeHJIbE9femhyUk5ReXNmY0lUVFlldzZHbHFrNDV6cERzOUhtUURucUdTMjdqckNSbW9pN3lZWVlVMkJ6eTJZOE9fSkt6aWgzYThsUGxSYW16WVJmb3h6WFV4azlMaTJWN3JOUTdhMmpEU1NmOGRaSUZ1YVg0NTlGVEJMbld0SmVzMGx0Q3FFWjdTSlZlUmZBQ2RmbkNoQVpKX1cweFZZdWtFNWFMcw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRmEyQmt2ay1qNlZxdy1XUVlrVVdGY1hxZHdHYV9UdHk1dnltNnBrNERkMHVzU29IT3R5bTJzMU01ZEFJVGlrZFdhRXNQRzExTm5PT3A2bU5zdmtqbUlSQVBXN1dyUzh0eldzT3JMcEZ6UnkwYTFNcWxJT0lYVWNZTXpyMkNJbFNN?oc=5"
     },
     {
-      "title": "Best Defense Stocks to Buy in 2026 and How to Invest in Them",
+      "title": "World Markets Watchlist: June 8, 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaFRwZm5fRTRUMDJTeEVUMHJrd3U3bUJreWVIOWE1VjhSNW14UmgtMHJ5cmlleFVVZE94dkxqWHlZdV9GQlg5ZnhLLUNkQjlXVlJqTTdiWUtxb3JtczlQTUMwOTFMb0IwRDFQaXJ5bjJXa2JnMVhFQVdneS1veUFXb21IbndMQWZTNU5mRWVuVQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcXVQNm96SHBHSUJLZG1nN3Frd2xfOVFLSzZTYkx2X2ZWSWJNSlQwRzByZ0h3WnpsTG10SXNjeXRZajFpQWNCSXc2cWpvNlBUdk8xVF9WRFNxcjhwa3BIS0U2VkNuVUcwUi1BRnA0aEU3NkdBSzVMTlJsbFVIZVU2cGVxMWo1STZYZXh5c2diWEszdmotWmxXN2htaFh4UQ?oc=5"
     },
     {
       "title": "This Vanguard ETF Just Made Stock Market History. Here's Why It's Still a Fantastic Investment in 2026.",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNc2FwS2MxbkZhUmUzOFRmU1U5Q3h3bnRZb0xYV3FiQWw5ZEx2VTAwRWxMZGhZcDg0bDE0SzFlemotRHNjemswNUZSNmFUZ3M0SndqZ20tdHZWdzNOYThfZjcxaThuQlpCZXBLVWZqTE1ta1VLRmxUUTEzaERqQ2dsS0ZxMlA2Mnpwdl9tYV9rMWt3bVJuTHBSOHFjSFJuaTItVGdHSG5OalMwelFMLVJXYVhVNThfbmVWNHF5dmp2S25sNXk3ci1pYmNPel9BbnIyLWJOdndmdlJ2TmtrSElkdFc3dlEzc0Y3REFscURoQWFyU1J5b2Z6cFhhYWNPajdiYXBJUDk1SjJtcmhBdGpQcmkzTzJxVHM?oc=5"
-    },
-    {
-      "title": "Forget SCHD: DGRO's Looser Quality Filter Has Quietly Delivered Higher Total Returns Over the Last Decade",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRF9mTTl5VlB6MTNFUHpoY0VleVFjN2RNR1VYZS02bkpKZnNTQXRnTlJkMC15TEhOS3g4ZkV1cDZmM3VYMlRVTXZVbUxoZGIwT0ZoY2Fmb1hkdmxaalVfYWFTc1RsbGNaQldMNm01UlJpQTJSN2lGUlMzMXFwZ1JTNEM5QlpiQm90dnQ0Zm9jVDZLZ2R6TkJGdmJUcmFBdVU0ckhZUnI2c0I1eXlUcFZpR0RwUEtUN0x5NlZwSzI0QUpUVnJWUk9YVU5JNll4M1dSY1FSd2U5LWdqcVIteUlGUA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQanR1bWlGaHZsMFhRQ2hCV20zTkFFQkxmODZTcEpoM1BZeGwxMUJSR0ttLXJsbU1xb0x5YzdaYTN3bndCZVRfM09mQ2poUFNDWkZYazhQeFdFVmVTZ2Z5VmdrdlNLN2RIMnBFeVBfRE9ybTdzQUxYaUJQLWd6SkR3azJySEFZVnMyd2JCNkFqSXdxN3ljbEZTNzVaOUpFbU9ELWg4LW50alZHbFk3eUhWakNfZm1rVGVPakEwaWtYNDgyS0w0bS1aUTdfY1l6bXEyM3l1MFVVYnh3dGhBNHBnU2JsUzczUGpLRVJ2LUp1MnZwQWRLc0gzUllMcktNYnFHZDhVYzNxcHBvaHZQaWJuUnhkRkJOdw?oc=5"
     }
   ]
 }
