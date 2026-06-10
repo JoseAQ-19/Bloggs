@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-10T08:24:54.103644+00:00",
+  "scouted_at": "2026-06-10T08:26:09.846509+00:00",
   "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "SpaceX IPO: ¿Es el valor de $780B una oportunidad perdida para los inversores?",
+      "title": "SpaceX IPO: Morningstar estima una valoración de $780B, ¿una oportunidad de inversión perdida?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Fondos en España alcanzan un récord histórico de 475.000 millones: ¿Qué estrategias han impulsado este crecimiento?",
+      "title": "Fondos en España alcanzan un patrimonio récord de 475.000 millones: ¿qué estrategias están impulsando este crecimiento?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "S&P 500: Descubre los 5 valores con mayor potencial alcista a largo plazo y sus sorprendentes rendimientos.",
+      "title": "S&P 500: Descubre los valores líderes que podrían ofrecer un recorrido alcista a largo plazo en tu cartera.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
