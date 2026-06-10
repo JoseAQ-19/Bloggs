@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-09T08:15:51.383062+00:00",
+  "scouted_at": "2026-06-10T08:24:54.103644+00:00",
   "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "SpaceX IPO: ¿Es un valor de $780B la inversión más inteligente o un espejismo?",
+      "title": "SpaceX IPO: ¿Es el valor de $780B una oportunidad perdida para los inversores?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Inversión sostenible: ¿Cómo Morningstar Sustainalytics demuestra su resiliencia frente a la presión internacional?",
+      "title": "Fondos en España alcanzan un récord histórico de 475.000 millones: ¿Qué estrategias han impulsado este crecimiento?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Lightyear: un crecimiento del 260% en España que redefine las oportunidades para los fundadores.",
+      "title": "S&P 500: Descubre los 5 valores con mayor potencial alcista a largo plazo y sus sorprendentes rendimientos.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -59,19 +59,19 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeF9HMU9FTWxkU2FGcWJRNDJiYk5ZckQycUZFTlZpbDQxaTcwcllFVlhPVUQ5bmFfbm1nYzRNSnd4MktCMmJlWUJOMFhrX1U2TllsVm50MDhnTHMtbUczeG9DMUQtNDhwaXRTbS1zcFRtRlhqeVRSM0hwSUVvZzVIdEZSeDNhT25uNjd2T01WRjlKLTFKWlZyVzUtczVCTVc5R3d4U3JFMUNSSllUenBuYkpxMkR1MEQzRGxRcFdXbE1Gby1xVXNHU2RkRGI2ZWJ2T3Z3dzFsNUsxcnpPTmfSAeMBQVVfeXFMT1lOT0YzdGkyX3AwMTlzNTY2b1ZHb0dqVmhlVFNyeWU3M2xEZW5NenRyMDUxdExVMmYwSWtSQmtNekVIMGR4SzdiQUhHeUhiNmdJbHVJMFQwOWZXajJLbFlDX2RIelNKbVV0dkx5MEwxVW9lUm9WdE0tUWdyYnFLUHpyR2RtbXlzUlZ3Tkt0dUt0MTB6cld6SUxMX0hnOTF3eTdGUkdnOGJtVFBuaXpSUjA5RThFNDItUnllZE5BbXFwYXhiUDBsenlYemVqYUZzZENVSW9Kb3lDcktsZFRHYUpoaUU?oc=5"
     },
     {
-      "title": "Morningstar Sustainalytics: inversión sostenible se mantiene firme.",
+      "title": "Nuevo récord histórico de patrimonio en fondos en España: 475.000 millones gracias al gran mes de mayo en bolsa",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXI2R3FaakEzdjdERjJoRzdHYlJPQWQ2OWoxWld6TGRwaE0tb0FjTzFmQnVUQU1ObmFfSkQ5aVo2a0l1Q1lSQ0lzYkpObVg2WlRMVS1TOTNHQ2pidk4xZWZZZnE0em9RVDBxLVhGX1UtM3RoTFVLaE1laVlJcHpFaG1FVHRYM3BoNTJCU2RFTHBob3VjWFJjYg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWXpVY1FkUUpubWF2akw5MkoxTC1UcnJ1VTgwYWtIV21jUEZxdXFCYnV6dmNsOFN2VV94TU1DZ29mU09maWtNWGU0UVlhVDYzb2F1eEtuc0VNVHE3M1BSai13QjIwaDdUTDdXNGNlVXF2dW5QYmdRRG92TW1sMUxNakNaMl9UekdMdW9LRWhtOWpyVGdUcVdSaFl3OF94bHFRSm9ZbTZwZTBzeTl6bFFkTFZlYjB0cTE1alVaV0t2UWpYSnU4M2FqNUNnS09YQ29xNFNyLXgzc1IyTjFtT1FIU1pRVVR5MnFxVzFpOWlR?oc=5"
+    },
+    {
+      "title": "Valores del S&P 500 que lideran las subidas y con recorrido alcista a largo plazo",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV21udzd4NDB6N2VXS21BMnItVFAzdENiRDRWWnBwbTh0ck55WDBKNDZCZ002QnZVdUYwUzFZamlDYWdFS0FmVm9mYWYwNWVkTXdlVVgwdG1MVEt6aTBiRm4yNGdhZVlfeGp2QmZEUTctdkYxYmxubkJLc0hreklpTEpBRWo3bGZoZVJTODRXY2w5V0xCQmlmTTJMcHpFNmdEdlRiaENKOWZ0d0VkV2YwZXZxZWtxa2hLWFVyZ3YtcGh1Nk4yeEHSAaIBQVVfeXFMTUhjcHBXZndaV2tDZWhELUdmRVBxTm9BSFVlRENJeWk1U0JiQUxOU2dQMkhqQTFLa0NaUFJ0OUZjX1NyUzhwODNIdUo2cV9hNUlSMXczLWd0YkhiVUhsd1FLcG1fY2Z4czl4YmsyRExPZ1hjMTdyUlRvQ3lfbUhIRC11YWRNbk5JUjZDQm1iRzFXY1ZaUGF0R2pVcndBRnZ2NHFB?oc=5"
     },
     {
       "title": "Calcular la pensión de jubilación en España 2026: cuánto cobrarás",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOURMS181R2RpZGJsLTVjVlVBYkF3VTVUbjNlZVVlWVNXSzNGaWlsVkVXU0JNVW1Ld1NEWHdfRk1QNjd0RlBmTzJobXlBVS10NHJsQzh3Z2wtRVRacmc5T2dMTE1keHBnN1ZoYUFyMHdUYjQzdmxWYUhQQ2lfcHFaQUYwcXhuOE0xUzN2cHc2NHBVRnAtbkJpcTBjNA?oc=5"
-    },
-    {
-      "title": "Lightyear crece 260% en España: lecciones para founders",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUThwRC1KSUQxbmZ1Rkk1RXNGMUEwdy00SnNKcVFPcGNWYWF3MkI2Y283Wkp6N3BnWE4wekhCOUtCVFVsTExPejBlVk9uejRTXzdaWWdhcmQyOXpkVExidFptZHMxMUxLZHBmbHRJdTNhRHR1RjhuZnBwVXp5TkFVcWVWcE1XallzOEU1Sw?oc=5"
     }
   ]
 }
