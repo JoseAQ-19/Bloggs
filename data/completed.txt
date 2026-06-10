@@ -1714,3 +1714,4 @@ funds: Aberdeen Investments Declares Distribution Amounts for 2023 U.S. Closed-E
 funds: Aberdeen Municipal Income Fund Declares 25% Increase in Monthly Distribution Amounts
 ia: La IA generativa revoluciona el SEO: estrategias clave para destacar tu marca
 ia: Advocating for Refugees: IA NICE Founder Speaks Out Amid Policy Shifts
+tools: Diadur Tools: El impacto de la quiebra en la industria de cuchillas en Barcelona
