@@ -1,8 +1,8 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-11T08:39:07.158259+00:00",
-  "total_candidates": 10,
+  "scouted_at": "2026-06-11T09:53:26.326680+00:00",
+  "total_candidates": 14,
   "topics": [
     {
       "rank": 1,
@@ -12,13 +12,13 @@
     },
     {
       "rank": 2,
-      "title": "Top 9 Safest ETFs to Buy in 2026",
+      "title": "3 Top US ETFs for 2026 and Beyond",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "The Best AI Stocks to Buy Now",
+      "title": "Lear Investment Management's Global Vigilance Moderate Risk SMA Earns 5-Star Morningstar Rating",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -56,14 +56,29 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xYnRWMXJpamRtSFJQYjgxM3pNRGp1emlWTmNBdTN4VW0tV2xLUFFOTFdvQ2U4NXpwWkVCUVQxdEJBdTQ2N2llSUZFNVNvVnJRNGZscm4tTm9NTExaLXZaUzkwTG1WcG9EUGloeXFBTjhNNnUwclNEYjlUSko?oc=5"
     },
     {
-      "title": "Top 9 Safest ETFs to Buy in 2026",
+      "title": "3 Top US ETFs for 2026 and Beyond",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQblRaOGlUN0R5RVVYLVU5MGJKSGNkR0k2d2xxSmM5Wk9PR2VZZXJ6aVZYdUItRjNDR05RTlJSR2tPWGh4MkIzTWNXQjZPOGlCNDA1UVpRR3FwYnhDTUNOMXJ2OVRRTEhSV3RFVWFnY3d3SC1pZG5mQ09IWnRCXzJINGtn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WR1dfX1VGSFg5REQ5OFREQ25wb2hxSDVxQWlwUy1hbGJpSDY2cU5fNk5kT3BIZklCS0V6R25zRXU0TkkzQ0lqY3FJMUhsM25rSmZpek12Z1MxY3hHWTNKOGNtZ3JsSUFCQ0EtV0N3?oc=5"
+    },
+    {
+      "title": "Lear Investment Management's Global Vigilance Moderate Risk SMA Earns 5-Star Morningstar Rating",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZGpHQ241VTRJS3NvRzB3a2tLdWt5VlpzckVtYXZuV3M5NVlGMk9PWTRqeF9CVjJHeWFHRmFoUTZ6UFRPaEFmb0JFNE5kRlBfVHhUd2gxX1FRV1lwSUlxNC1lUmZkYU9TdnV0N2RJYUdzc244VVBiZVhwcGhoQlUyblBBRzVZLUJIcHlSeThwNjlqNlBLV0FyUFVxNDNfY0xOLS1mQTgtZEpObFF0cDhLWF92WmJyeDBsRDdoZUlZRFNjY2ZxSm5VVnpKTGg4VXRRZEVSLU9vM0pENERJTlczVjVoYkNPbVJaYmxv?oc=5"
     },
     {
       "title": "The Best AI Stocks to Buy Now",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MSWticmVUcmhzVVpBMWg0bFpvRGpXR1FIdzhKMmVOdVVETlV0MzVfemFuMzBwX3Q2Ykh4TFRjakstUDZVX2N6NEpsSWxZZU54bTZnQmNMal9Fdkw3ei04N2htZldJYkhl?oc=5"
+    },
+    {
+      "title": "Tate & Lyle and Ingredion Reach Takeover Agreement Pending Shareholder Vote and Regulatory Approval",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNm4tOGZqX01WN0FHUjlRTXpUQUh1ZkNhbXRJNUxGVk9DOHdkOGU3c1ZQN0VaU2JrUnJuYm9ZbFZ3VS0zR1FtZlY2S1pWdk13bXR1RmZjQkViRVB2UGNzRVN2RmZpeGdHT25nOGE4UWphQkhKLXJ3MUFHbUlFRnRvQm9qVklha25yUVo4cjlSbDVXUmxSOWljUjhaNkdWZjV6M1FDNGJzT0tUekFYdm5OQ1k0T0hncjBxT0t3MmhoUzgwd2Ruczk5Qk5EVm1YZw?oc=5"
+    },
+    {
+      "title": "Top 9 Safest ETFs to Buy in 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQblRaOGlUN0R5RVVYLVU5MGJKSGNkR0k2d2xxSmM5Wk9PR2VZZXJ6aVZYdUItRjNDR05RTlJSR2tPWGh4MkIzTWNXQjZPOGlCNDA1UVpRR3FwYnhDTUNOMXJ2OVRRTEhSV3RFVWFnY3d3SC1pZG5mQ09IWnRCXzJINGtn?oc=5"
     },
     {
       "title": "Best Gold ETFs to Buy for Long-Term Investors",
@@ -76,14 +91,14 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQek8tREp3NWpGU3ZrVGJSTHZ5ODdOZ001U1NGQ2FPR29LdDFtdDFHVG8ydjJ2c0Z4XzdGdXg4S25DRlhSLWNMRTV2Q19GdDd6bEVLSmhlWUhOcTRnb2QzLTladGM5SWdyQ1VOM2pOaU82QmhxYnNlSUdLajB0ZVpualdIT0x3cWdrRmJBY2stdmFIWEJCRV9Rb184NDk5bzZ3ZTFV?oc=5"
     },
     {
-      "title": "Invest in these 3 ETFs for long-term growth, Morningstar says",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pYURZX3F2cmFhWFZhcnk2Y21iVG92RU1wQTNudTNMV2d6YkU2ekZ6eDUyN0VzZVdrOWtGaFRCZjF6VVJJWHRZR0RTUUJWVzMtZTlXOG91cng1T2FWS1BEVDRuaVVmc0hjVnlvRXRPeGRJaHIxTVRkU0xNeVU?oc=5"
-    },
-    {
       "title": "7 of the Best High-Yield Bond Funds to Buy Now | Investing",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QSlJQOFc5WnFZMnFVMjUzdUJDV0ROTGRSV3A0Yy01aER5amlPQV9PQXZ4b2lwZ0g0SlhYYW9PdGxBbGV6OVhmZHAwS2h2aVg1RjVkMjhvb1JhTVZFSlRmdC1jSi1PdFZKZUh2aTF5QVhhOWU0ZXBYU2dn?oc=5"
+    },
+    {
+      "title": "Invest in these 3 ETFs for long-term growth, Morningstar says",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pYURZX3F2cmFhWFZhcnk2Y21iVG92RU1wQTNudTNMV2d6YkU2ekZ6eDUyN0VzZVdrOWtGaFRCZjF6VVJJWHRZR0RTUUJWVzMtZTlXOG91cng1T2FWS1BEVDRuaVVmc0hjVnlvRXRPeGRJaHIxTVRkU0xNeVU?oc=5"
     },
     {
       "title": "Best Stocks to Buy Now: Our Buy-and-Hold Picks for June 2026",
@@ -94,6 +109,11 @@
       "title": "Are mutual fund investors losing interest in gold ETFs and multi asset allocation funds?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQnp0R09UdGtuOWdvU3BuRXA3Y2NBOEstem5ZZnBMb2RLamJwS3QzdTlrNjRQRHNOaUlJckpoVDVXR0F5ZG80eUM3dm55bVFWOUtDR0RXRjkta0c1X1FUdW5ZTGpWVFoxSmxKVVhNMENEV3UtMDJvNVlsTW1RRkd5LU9hWTRwemYwRXpwc1VDb1ZYX1B0aEVOZXcxQmpQNU91SkZwcWUzLXJ0YWFtQjhMRDJTN3R4Sms2ODh2NUE5WXc1MUE0TmRKMzBsQWZVd3plZXU1aGFBUHdXV1hVYzUzc05hTGJiM1dmU2ZadEhB0gHuAUFVX3lxTE5CenRHT1R0a245Z29TcG5FcDdjY0E4Sy16bllmcExvZEtqYnBLdDN1OWs2NFBEc05pSUlySmhUNVdHQXlkbzR5Qzd2bnltUVY5S0NHRFdGOS1rRzVfUVR1bllMalZUWjFKbEpVWE0wQ0RXdS0wMm81WWxNbVFGR3ktT2FZNHB6ZjBFenBzVUNvVlhfUHRoRU5ldzFCalA1T3VKRnBxZTMtcnRhYW1COExEMlM3dHhKazY4OHY1QTlZdzUxQTROZEozMGxBZlV3emVldTVoYUFQd1dXWFVjNTNzTmFMYmIzV2ZTZlp0SEE?oc=5"
+    },
+    {
+      "title": "Forbes 2026 Midas List: Top Venture Capital Investors Ranked",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fcGVEQ0g0VGFkMnVBQmlYNjNock5lN1FWdF9yM1Z1bmhCdnZFOXZUSlpoSWs0S3dHcTN5NGlMMnZHWXlnU2s2UUxZSQ?oc=5"
     },
     {
       "title": "5 Best Artificial Intelligence (AI) ETFs to Buy in 2026",
