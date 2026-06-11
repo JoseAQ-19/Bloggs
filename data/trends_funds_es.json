@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-11T08:34:45.182126+00:00",
-  "total_candidates": 9,
+  "scouted_at": "2026-06-11T08:35:57.935921+00:00",
+  "total_candidates": 8,
   "topics": [
     {
       "rank": 1,
-      "title": "Descubre el fondo con exposición a los 20 mayores unicornios no cotizados: ¿Cómo se compara su rendimiento en 2023?",
+      "title": "Descubre el fondo que invierte en los 20 mayores unicornios no cotizados: ¿Vale la pena su exposición?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "SpaceX IPO: Morningstar la valora en $780B, ¿es este el mejor momento para invertir?",
+      "title": "SpaceX IPO: ¿Por qué Morningstar valora la empresa en $780B, la mitad del precio del mercado?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Inversión sostenible en España: ¿Cómo resiste la presión internacional con un crecimiento del 15% en los últimos 12 meses?",
+      "title": "Inversión sostenible bajo presión: ¿Cómo se están desempeñando los fondos de Morningstar Sustainalytics?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -62,11 +62,6 @@
       "title": "Morningstar Sustainalytics: inversión sostenible resiste presión internacional",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeF9HMU9FTWxkU2FGcWJRNDJiYk5ZckQycUZFTlZpbDQxaTcwcllFVlhPVUQ5bmFfbm1nYzRNSnd4MktCMmJlWUJOMFhrX1U2TllsVm50MDhnTHMtbUczeG9DMUQtNDhwaXRTbS1zcFRtRlhqeVRSM0hwSUVvZzVIdEZSeDNhT25uNjd2T01WRjlKLTFKWlZyVzUtczVCTVc5R3d4U3JFMUNSSllUenBuYkpxMkR1MEQzRGxRcFdXbE1Gby1xVXNHU2RkRGI2ZWJ2T3Z3dzFsNUsxcnpPTmfSAeMBQVVfeXFMT1lOT0YzdGkyX3AwMTlzNTY2b1ZHb0dqVmhlVFNyeWU3M2xEZW5NenRyMDUxdExVMmYwSWtSQmtNekVIMGR4SzdiQUhHeUhiNmdJbHVJMFQwOWZXajJLbFlDX2RIelNKbVV0dkx5MEwxVW9lUm9WdE0tUWdyYnFLUHpyR2RtbXlzUlZ3Tkt0dUt0MTB6cld6SUxMX0hnOTF3eTdGUkdnOGJtVFBuaXpSUjA5RThFNDItUnllZE5BbXFwYXhiUDBsenlYemVqYUZzZENVSW9Kb3lDcktsZFRHYUpoaUU?oc=5"
-    },
-    {
-      "title": "Morningstar Sustainalytics: inversión sostenible se mantiene firme.",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXI2R3FaakEzdjdERjJoRzdHYlJPQWQ2OWoxWld6TGRwaE0tb0FjTzFmQnVUQU1ObmFfSkQ5aVo2a0l1Q1lSQ0lzYkpObVg2WlRMVS1TOTNHQ2pidk4xZWZZZnE0em9RVDBxLVhGX1UtM3RoTFVLaE1laVlJcHpFaG1FVHRYM3BoNTJCU2RFTHBob3VjWFJjYg?oc=5"
     },
     {
       "title": "Nuevo récord histórico de patrimonio en fondos en España: 475.000 millones gracias al gran mes de mayo en bolsa",
