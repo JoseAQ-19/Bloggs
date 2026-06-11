@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-10T08:26:09.846509+00:00",
-  "total_candidates": 5,
+  "scouted_at": "2026-06-11T08:34:45.182126+00:00",
+  "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "SpaceX IPO: Morningstar estima una valoración de $780B, ¿una oportunidad de inversión perdida?",
+      "title": "Descubre el fondo con exposición a los 20 mayores unicornios no cotizados: ¿Cómo se compara su rendimiento en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Fondos en España alcanzan un patrimonio récord de 475.000 millones: ¿qué estrategias están impulsando este crecimiento?",
+      "title": "SpaceX IPO: Morningstar la valora en $780B, ¿es este el mejor momento para invertir?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "S&P 500: Descubre los valores líderes que podrían ofrecer un recorrido alcista a largo plazo en tu cartera.",
+      "title": "Inversión sostenible en España: ¿Cómo resiste la presión internacional con un crecimiento del 15% en los últimos 12 meses?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,6 +49,11 @@
   },
   "all_headlines": [
     {
+      "title": "Más allá de SpaceX: el fondo con exposición a los 20 mayores unicornios no cotizados",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTE9xaVlXVnVPWXdLMDZfcDZ1UjVUMGdlV3FqbzliZ25VWDVpWVlHY01JZHluc2c4RE1pcnJIUE1XT2xvLWR4Znl1b0ZlSHo2c2RzMmFQbDVtREdmUE5jc0tjRzBXVE1hTV9OVG5EM3lZZDR0R2EzMFkyVGUzWkhac1VHSE5UVFlGNXp5S3VucjFaSEtuUHZEaGZSNk5udm94azdFdEhwTk9vS3VucEFESUp3NldpX1RaN01rQ09CNG1xYzFvYmhVaUdMdmtjSml0aTljQ3R0Q0hDd1BsM29UeGdnY9IB9wFBVV95cUxQczZibXVELTNIaUNFRkF3bEtFNkE1ckFGUEMzQi1zV180WGc3SlFfX1RXZS1obHhTR3dTbEJBMTYyWHRoZjBKU1F4VzJZc1k1bG5qUm5hT1hJTUFTZzZlZGEwdkh3aTk2cjZqNnBvd0RMY1hhcGV2Nk1qMTlndEJzMmV4eHFPSjUtVFh1NDIyXzNuYTZXamxiS3FXNHI5ZHBoNFFDcEtMLW9DcFBiNGVWNjBrczlVbVdycE1mNVNvbnJsX3RNaDZlRi1KRVhneXFZS2xzWHZxZlNrV0JLUGJlc2VsdVFoYVJVYnU5LTBfaGxwMGxEUkpj?oc=5"
+    },
+    {
       "title": "SpaceX IPO: Morningstar la valora en $780B, mitad del precio",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkZEYk5qS3l3Ty03V0ZrR2pzVXhEU2p0dXBYQkhmMEEtUnpmUVRnR20zX1FnWXVvcWN5elllOUVwS2VET0Npck9VTy1qSXFrSGhleGxnYmdSVFhWSFRHOFVYSTFCcTlxWWdRN3BrWXo1VFh2eHR3UkI3Sk5tdGFfX0ZyVHlvOVduU1pjdUJyVEYxZw?oc=5"
@@ -59,19 +64,34 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeF9HMU9FTWxkU2FGcWJRNDJiYk5ZckQycUZFTlZpbDQxaTcwcllFVlhPVUQ5bmFfbm1nYzRNSnd4MktCMmJlWUJOMFhrX1U2TllsVm50MDhnTHMtbUczeG9DMUQtNDhwaXRTbS1zcFRtRlhqeVRSM0hwSUVvZzVIdEZSeDNhT25uNjd2T01WRjlKLTFKWlZyVzUtczVCTVc5R3d4U3JFMUNSSllUenBuYkpxMkR1MEQzRGxRcFdXbE1Gby1xVXNHU2RkRGI2ZWJ2T3Z3dzFsNUsxcnpPTmfSAeMBQVVfeXFMT1lOT0YzdGkyX3AwMTlzNTY2b1ZHb0dqVmhlVFNyeWU3M2xEZW5NenRyMDUxdExVMmYwSWtSQmtNekVIMGR4SzdiQUhHeUhiNmdJbHVJMFQwOWZXajJLbFlDX2RIelNKbVV0dkx5MEwxVW9lUm9WdE0tUWdyYnFLUHpyR2RtbXlzUlZ3Tkt0dUt0MTB6cld6SUxMX0hnOTF3eTdGUkdnOGJtVFBuaXpSUjA5RThFNDItUnllZE5BbXFwYXhiUDBsenlYemVqYUZzZENVSW9Kb3lDcktsZFRHYUpoaUU?oc=5"
     },
     {
+      "title": "Morningstar Sustainalytics: inversión sostenible se mantiene firme.",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXI2R3FaakEzdjdERjJoRzdHYlJPQWQ2OWoxWld6TGRwaE0tb0FjTzFmQnVUQU1ObmFfSkQ5aVo2a0l1Q1lSQ0lzYkpObVg2WlRMVS1TOTNHQ2pidk4xZWZZZnE0em9RVDBxLVhGX1UtM3RoTFVLaE1laVlJcHpFaG1FVHRYM3BoNTJCU2RFTHBob3VjWFJjYg?oc=5"
+    },
+    {
       "title": "Nuevo récord histórico de patrimonio en fondos en España: 475.000 millones gracias al gran mes de mayo en bolsa",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWXpVY1FkUUpubWF2akw5MkoxTC1UcnJ1VTgwYWtIV21jUEZxdXFCYnV6dmNsOFN2VV94TU1DZ29mU09maWtNWGU0UVlhVDYzb2F1eEtuc0VNVHE3M1BSai13QjIwaDdUTDdXNGNlVXF2dW5QYmdRRG92TW1sMUxNakNaMl9UekdMdW9LRWhtOWpyVGdUcVdSaFl3OF94bHFRSm9ZbTZwZTBzeTl6bFFkTFZlYjB0cTE1alVaV0t2UWpYSnU4M2FqNUNnS09YQ29xNFNyLXgzc1IyTjFtT1FIU1pRVVR5MnFxVzFpOWlR?oc=5"
     },
     {
-      "title": "Valores del S&P 500 que lideran las subidas y con recorrido alcista a largo plazo",
+      "title": "Mejores depósitos a plazo fijo en junio 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV21udzd4NDB6N2VXS21BMnItVFAzdENiRDRWWnBwbTh0ck55WDBKNDZCZ002QnZVdUYwUzFZamlDYWdFS0FmVm9mYWYwNWVkTXdlVVgwdG1MVEt6aTBiRm4yNGdhZVlfeGp2QmZEUTctdkYxYmxubkJLc0hreklpTEpBRWo3bGZoZVJTODRXY2w5V0xCQmlmTTJMcHpFNmdEdlRiaENKOWZ0d0VkV2YwZXZxZWtxa2hLWFVyZ3YtcGh1Nk4yeEHSAaIBQVVfeXFMTUhjcHBXZndaV2tDZWhELUdmRVBxTm9BSFVlRENJeWk1U0JiQUxOU2dQMkhqQTFLa0NaUFJ0OUZjX1NyUzhwODNIdUo2cV9hNUlSMXczLWd0YkhiVUhsd1FLcG1fY2Z4czl4YmsyRExPZ1hjMTdyUlRvQ3lfbUhIRC11YWRNbk5JUjZDQm1iRzFXY1ZaUGF0R2pVcndBRnZ2NHFB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LRWxmMGdGS1hZYThBNjdRWTZKQjk5bGRCMXltMzJVcnlQY1ppQ1QybzJPUTFLUEQ2YktCSFNaQ3dvbkxabnQ0MmpVelljcG1lTTdVczJaRU03VVFwbFZIUG1iQ3ppMVgxSVlXQnZSb2FiRnRCQ0VGX1psTQ?oc=5"
+    },
+    {
+      "title": "Depósitos más rentables a menos de un año",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSlUyX2xnNUlYME4xeVZjOVRLQ3BFNVUzMXlta1JMNzk2SWVYZGJ2RHQ5bDlUTWxrOEV5ZnRJN0V5NUpWZW8wSkRqMXFvbm9TSHozYmZJOVdyWkdVYUFEbVRmR1dhSWJ4NUlMUDdoNzQ3TnNzSm5vV1pxU1NHbzRCMlhTU1p0N2JlNmpzNTJLLTM2aE9RUmFDN3ZQRi1pcmJvUDhfbWdxRGNCc3p6eEpsZ0g4ZUNoSncwUV9ZMNIBmAFBVV95cUxNWUJLb0RjZVpMSVBYVDkzVGd6QWNsTkNqMmxIQnJMUXRRUDZaZzZEMTlyR05XZWwwdmhxejdjcUZkcWplaU9tZjdVUmhOWmMxc1pqWjd1YUllZnk0Wlk4NnZpMVZZeTAyMXdoTVpRLUtxeUx3YmI4M1pKa1N0dG93cnVTU2tWZmRrdzhyMjRXbmFvU2s1TWRsNQ?oc=5"
     },
     {
       "title": "Calcular la pensión de jubilación en España 2026: cuánto cobrarás",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOURMS181R2RpZGJsLTVjVlVBYkF3VTVUbjNlZVVlWVNXSzNGaWlsVkVXU0JNVW1Ld1NEWHdfRk1QNjd0RlBmTzJobXlBVS10NHJsQzh3Z2wtRVRacmc5T2dMTE1keHBnN1ZoYUFyMHdUYjQzdmxWYUhQQ2lfcHFaQUYwcXhuOE0xUzN2cHc2NHBVRnAtbkJpcTBjNA?oc=5"
+    },
+    {
+      "title": "Curso gratuito de trading en Madrid. IG presenta un evento único",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY1VKZmh5NUExNEF6cHY0ajZsVVRvMzVlWWM2aG9DWHlRVDBlclFqWW5lY29wZjc5VHRpTURlM0V4TUdJVk84YkZnUzV5ZjRxcFE4M2J4QnNUNUZocEZfLUVwaXY0bmVCRHlWX1JQSmtsOEpyN3lGMGc1WjJCR1ExLVc1WjJHS0YzMy1vb0lwWWdySFVIRnVHMEUtQXdlenV1cG5yWWxFbURJV0JLQVU0alZtY2NKMkJMZXBWVi1DcDJtN1nSAaIBQVVfeXFMTWFzUG95VHRJZEtrUmxfZHVDZ01aNEpfWXY5ZEJYbF94bmZXeHJXZGJFbzI4RjBsRUVFc0lBR3NLWVBPUHg3UmJJd3V1Nk9VanZxU1ZuaFZBMmRpM3FITGRndXJuRjE0LWVQcTVSQWVNQ2dJaVNzWDdaZHpxMnd4VW1obTE2V3oya3k3cWJRMko5cldzSW5VbDY0SGFTdHBSNDR3?oc=5"
     }
   ]
 }
