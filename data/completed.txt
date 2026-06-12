@@ -1746,3 +1746,4 @@ ia: Iowa Supreme Court Ruling Empowers Nonprofits to Aid Low-Income Residents
 tools: La unión perfecta: diseño y oficio en la artesanía española con Suarez y ‘AD’
 tools: Why General-Purpose AI is Outshining Medical Tools in Healthcare
 crypto: Estafadores de criptomonedas aprovechan la fiebre por entradas del Mundial, alerta TRM
+crypto: Blockworks Snags Messari: A Deep Dive into the Discounted Acquisition
