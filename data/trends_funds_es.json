@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-12T08:32:01.774525+00:00",
+  "scouted_at": "2026-06-12T08:33:12.549817+00:00",
   "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "Invierta en el futuro: descubre el fondo con exposición a los 20 unicornios más valiosos con un rendimiento del 25% en el último año",
+      "title": "Invierta en los 20 mayores unicornios no cotizados: el fondo que promete rendimientos sorprendentes en el futuro",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Intermoney lanza un fondo en España con las 20 tecnológicas más valiosas: ¿puede superar al Nasdaq en 2023?",
+      "title": "Intermoney lanza un fondo de inversión en las 20 tecnológicas más valiosas: ¿puede superar al S&P 500?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Fondos indexados: cómo obtener un 15% extra en caídas de mercado utilizando estrategias de inversión contrarias",
+      "title": "Vanguard FTSE All-World: ¿listo para el rebalanceo sin red en un verano con iShares en el horizonte?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
