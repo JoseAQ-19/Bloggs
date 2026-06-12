@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-11T09:54:39.834312+00:00",
+  "scouted_at": "2026-06-12T08:35:02.003030+00:00",
   "total_candidates": 10,
   "topics": [
     {
@@ -12,13 +12,13 @@
     },
     {
       "rank": 2,
-      "title": "Top 9 Safest ETFs to Buy in 2026",
+      "title": "How Morningstar’s New CME Derivatives Licensing Deal (MORN) Has Changed Its Investment Story",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Best Gold ETFs to Buy for Long-Term Investors",
+      "title": "The Best US Equity ETFs to Buy",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -53,7 +53,17 @@
     {
       "title": "Why We Think the SpaceX IPO Is Overvalued",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xYnRWMXJpamRtSFJQYjgxM3pNRGp1emlWTmNBdTN4VW0tV2xLUFFOTFdvQ2U4NXpwWkVCUVQxdEJBdTQ2N2llSUZFNVNvVnJRNGZscm4tTm9NTExaLXZaUzkwTG1WcG9EUGloeXFBTjhNNnUwclNEYjlUSko?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3h4dFZNend3SHFYRXdGMHhoc0k4SEMzZ0hjVnBkVERTMWNob01lUHE3WEVBdUpNMjBYbC15QUpMOTl6eDNKbWVPVjJYS052YWlPb09oWTZwOUZ5NkhDRjBZbFpBSkE4NnBlajNPdXBmMmZBLW1nMk5TbmNPTENvZFpTSGs4bnRY?oc=5"
+    },
+    {
+      "title": "How Morningstar’s New CME Derivatives Licensing Deal (MORN) Has Changed Its Investment Story",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR19lWmUyTzV6QmxQNTFkTVlzMEg5QXRyUnhFcjE2eGJMUk1fNzBuS29TN1BjT2lVaUYtZEg1dVF4UXBLRVRYeERhZlNqeFVIZnhSMjRyc21LUjVCTmJYQ1hfX2F6T2VuTzJSYVBjNkR3S0dFWlpoblIxYTVMNDJfODBGVFBPUExTamNtZWE2Q2M3dlF2M0g3SVQ3SFZRLWZDMnN6a0NtY3pvbkx6RFVzQTJyV1hKTXlvUGtvQ0djdzZkTHNuWjBoZkVvbHp0dFVoQjBZOG5kcUdERndUS0gwY0dB0gHiAUFVX3lxTE1HX2VaZTJPNXpCbFA1MWRNWXMwSDlBdHJSeEVyMTZ4YkxSTV83MG5Lb1M3UGNPaVVpRi1kSDV1UXhRcEtFVFh4RGFmU2p4VUhmeFIyNHJzbUtSNUJOYlhDWF9fYXpPZW5PMlJhUGM2RHdLR0VaWmhuUjFhNUw0Ml84MEZUUE9QTFNqY21lYTZDYzd2UXYzSDdJVDdIVlEtZkMyc3prQ21jem9uTHpEVXNBMnJXWEpNeW9Qa29DR2N3NmRMc25aMGhmRW9senR0VWhCMFk4bmRxR0RGd1RLSDBjR0E?oc=5"
+    },
+    {
+      "title": "The Best US Equity ETFs to Buy",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kV3RHclFGdVNQZjRlbDBsWTR1TlVpTlREYW1rMlJZd1lVdEhaYzFTa2hDVjFDVmFCeVNuOHlDWEdZSjM1SlY1bXc0Q3JkWUJjNE04Q1Q2eWVEb04yV3NqVFo0Mk1iN1FFeWdHa09UOUswUjA?oc=5"
     },
     {
       "title": "Top 9 Safest ETFs to Buy in 2026",
@@ -61,14 +71,14 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQblRaOGlUN0R5RVVYLVU5MGJKSGNkR0k2d2xxSmM5Wk9PR2VZZXJ6aVZYdUItRjNDR05RTlJSR2tPWGh4MkIzTWNXQjZPOGlCNDA1UVpRR3FwYnhDTUNOMXJ2OVRRTEhSV3RFVWFnY3d3SC1pZG5mQ09IWnRCXzJINGtn?oc=5"
     },
     {
-      "title": "Best Gold ETFs to Buy for Long-Term Investors",
+      "title": "6 Months Later: Is Vanguard’s Overlooked Monthly Income ETF Still Worth It?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sMHNoLXFIRk9zU1pPXzYwSlFsWnpKbEV0S0t1b1Z2b21Ddk5mWjN1a0V4YTZQZ0tqUFJBTE52NFJENXU0dGY0cDN1VG1GWGxWOGsycFQwMGg0a1JKbmEwSVA5c205Z0huNG1xdzlQTWxSVU1fQUJ1V0JEVQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkMzY0p4U1RHazF5Qk1RLVV6T1pRQkxXX2JCV2FTWVRnTWFyVldmNm9rZ3N0T1FTVFdtT2xLbUtmaVFSMFBja3I2YVBsemNSNUNZdFdyVGJCdXF3bkFzRU9naHFWZ19QVkNickx4V0gxQTBDckxmdHg1OGdiYjdzVVlIdDNVbFRDekZpcHM4RHdHWHRKYlJ2ZFhfbjZiNXdFZzJQeTNZTDhlREc3SW81ZDdYOFhBaW8?oc=5"
     },
     {
-      "title": "The Best Performing International ETFs over the Last 10 Years",
+      "title": "Best Online Brokers for Beginners",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQek8tREp3NWpGU3ZrVGJSTHZ5ODdOZ001U1NGQ2FPR29LdDFtdDFHVG8ydjJ2c0Z4XzdGdXg4S25DRlhSLWNMRTV2Q19GdDd6bEVLSmhlWUhOcTRnb2QzLTladGM5SWdyQ1VOM2pOaU82QmhxYnNlSUdLajB0ZVpualdIT0x3cWdrRmJBY2stdmFIWEJCRV9Rb184NDk5bzZ3ZTFV?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZUVhR2VzZ05hS19YZmtTdEJ2TkFSVURVX3VBMnFvekZTVjVqcXVuWkFqcFRrRjdwa1IwbHhRbl9tTlJ4bTBacks2QzV6SlNmVGxLTXNPVXdLQ3ZhazdGenRmX1Y3TDJLSjBjeS1QaEtQc001WVVRYU1SUkZYcTcyLQ?oc=5"
     },
     {
       "title": "7 of the Best High-Yield Bond Funds to Buy Now | Investing",
@@ -76,29 +86,19 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QSlJQOFc5WnFZMnFVMjUzdUJDV0ROTGRSV3A0Yy01aER5amlPQV9PQXZ4b2lwZ0g0SlhYYW9PdGxBbGV6OVhmZHAwS2h2aVg1RjVkMjhvb1JhTVZFSlRmdC1jSi1PdFZKZUh2aTF5QVhhOWU0ZXBYU2dn?oc=5"
     },
     {
+      "title": "Best Gold ETFs to Buy for Long-Term Investors",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sMHNoLXFIRk9zU1pPXzYwSlFsWnpKbEV0S0t1b1Z2b21Ddk5mWjN1a0V4YTZQZ0tqUFJBTE52NFJENXU0dGY0cDN1VG1GWGxWOGsycFQwMGg0a1JKbmEwSVA5c205Z0huNG1xdzlQTWxSVU1fQUJ1V0JEVQ?oc=5"
+    },
+    {
       "title": "Invest in these 3 ETFs for long-term growth, Morningstar says",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pYURZX3F2cmFhWFZhcnk2Y21iVG92RU1wQTNudTNMV2d6YkU2ekZ6eDUyN0VzZVdrOWtGaFRCZjF6VVJJWHRZR0RTUUJWVzMtZTlXOG91cng1T2FWS1BEVDRuaVVmc0hjVnlvRXRPeGRJaHIxTVRkU0xNeVU?oc=5"
     },
     {
-      "title": "Best Stocks to Buy Now: Our Buy-and-Hold Picks for June 2026",
+      "title": "Best value funds to invest in June 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wNkxPeDc4b1BlS0FNQnJ4T2xRMWZlNEZCdFFiNkFCRXVvWjlVRXBMWGFsR1hOVW9KcE93Z0ZHWjRwX2ZuTWVmQ0w1WUd5d2xDZ0tfS2c3bG5PaUdTR05VcHpxNFhTOWZtcmc?oc=5"
-    },
-    {
-      "title": "Forbes 2026 Midas List: Top Venture Capital Investors Ranked",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fcGVEQ0g0VGFkMnVBQmlYNjNock5lN1FWdF9yM1Z1bmhCdnZFOXZUSlpoSWs0S3dHcTN5NGlMMnZHWXlnU2s2UUxZSQ?oc=5"
-    },
-    {
-      "title": "5 ETFs Up At Least 5% Last Week's Market Rout",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaWJnQUZSSXNNdjMwT1FLQ2FNUmFCUnNhUGFwdzlvbjNRUFRMYVc0V24zalI4VkxMZFlILXNIaHVOdUdWZDlHajZYd2UzdWh3MHRRSnNLSXJFNURYa0pXU0ZvN253V01FR1JmaFBjdTNRdDlTVUdEOFhTQ0RnYi1aVUZ0cXpORmFDbEx6b0tQOGZjbE54cUI1VXpTRTdBbWd5Tnc?oc=5"
-    },
-    {
-      "title": "5 Best Artificial Intelligence (AI) ETFs to Buy in 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzA2Wld0QkFFTkVjZGlIQ3JfdklNNS1SeUVIb21TMFlFZTc4ejB1UWZqN3FLT2FlWVhEeW5QOFM1STZCM0kxRE9lcERjRTY4ZjlDZFNLaVNiSDVZMDhMdjEwbUQ2WG9XeUZ5M2hBeENWaENUbE5tTE1tU2tBS0x5TV9Gak8wVUlMTmlqRl85SkQzSnJmMGd0T1JaelpWS3lvVWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON29nNHZvY3NNWkZ1enRJM25hOFBiVzJxRTdZWjZTOW1wTGtMMkFacnhkVmU3UzBSMV9xdHE1X0ZLaTRhdmpQN0kxd25YMGFaRkhtRkpOUHdfOUdnckNsNTZ5NzBrUUdvSlhWQXh2QklYZ1QwRDlJVXA5ODBGYTRMek5TU3l5UFB2Sm5XY2xkcjFpU2RnMXk4OXVCNUpfWjMtOWhlTGtndnFfNVhzcHfSAa4BQVVfeXFMTjdvZzR2b2NzTVpGdXp0STNuYThQYlcycUU3WVo2UzltcExrTDJBWnJ4ZFZlN1MwUjFfcXRxNV9GS2k0YXZqUDdJMXduWDBhWkZIbUZKTlB3XzlHZ3JDbDU2eTcwa1FHb0pYVkF4dkJJWGdUMEQ5SVVwOTgwRmE0THpOU1N5eVBQdkpuV2NsZHIxaVNkZzF5ODl1QjVKX1ozLTloZUxrZ3ZxXzVYc3B3?oc=5"
     }
   ]
 }
