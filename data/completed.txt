@@ -1749,3 +1749,4 @@ crypto: Estafadores de criptomonedas aprovechan la fiebre por entradas del Mundi
 crypto: Blockworks Snags Messari: A Deep Dive into the Discounted Acquisition
 crypto: Blockworks Snags Messari: A Discount Deal Shakes Up the Crypto Data Landscape
 youtube: ¿Trump amenaza el campeonato mundial de YouTube? La controversia que sacude la plataforma
+youtube: MrBeast Breaks Records: The First Creator to Reach 500 Million Subscribers!
