@@ -1742,3 +1742,4 @@ funds: Fondo de inversión en 20 unicornios: promete rendimientos del 20% en 202
 funds: SpaceX IPO Overvalued: 30% Premium Over Comparable Aerospace Stocks
 funds: Morningstar Analysis Shows SpaceX IPO Overvalued by 20% Compared to Rivals
 ia: La IA y las pequeñas localidades: ¿puede cerrar la brecha de oportunidades?
+ia: Iowa Supreme Court Ruling Empowers Nonprofits to Aid Low-Income Residents
