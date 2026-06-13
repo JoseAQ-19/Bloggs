@@ -1757,3 +1757,4 @@ funds: CME Group y Morningstar: 30% más oportunidades en derivados sobre índic
 funds: MORN’s New CME Derivatives Licensing Deal Increases Investment Opportunities by 25%
 funds: Morningstar’s CME Derivatives Deal Boosts MORN’s Investment Story by 25%
 ia: Anthropic detiene el acceso a su IA más avanzada: ¿un nuevo capítulo en la seguridad nacional de EE.UU.?
+ia: Unpacking the Deal: Berlin and IAI Launch Groundbreaking Defence Innovation Hub
