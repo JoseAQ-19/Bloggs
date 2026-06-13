@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-12T08:33:12.549817+00:00",
-  "total_candidates": 10,
+  "scouted_at": "2026-06-13T08:09:03.361813+00:00",
+  "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "Invierta en los 20 mayores unicornios no cotizados: el fondo que promete rendimientos sorprendentes en el futuro",
+      "title": "Descubre el nuevo fondo que invierte en los 20 unicornios no cotizados: ¿puede superar a SpaceX?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Intermoney lanza un fondo de inversión en las 20 tecnológicas más valiosas: ¿puede superar al S&P 500?",
+      "title": "Análisis de los ETFs de oro para 2026: ¿cuál ofrece el mejor rendimiento en tiempos de incertidumbre?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Vanguard FTSE All-World: ¿listo para el rebalanceo sin red en un verano con iShares en el horizonte?",
+      "title": "El Vanguard FTSE All-World se enfrenta a un verano caliente: ¿cómo se compara con iShares en rentabilidad?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,6 +49,11 @@
   },
   "all_headlines": [
     {
+      "title": "CME Group y Morningstar anuncian un acuerdo exclusivo de licencia para derivados sobre índices",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOanBGa29sQ3BxbU1XZVptMEpRVHFZMUlURnlvSUtScDdKRzkxaEJlWUJKczM4b1NLMEk1LWxjR0RsUVJialJ6d3ZhUzZSTXV6Z0U2WFl3cFlCYUVHakJya0ZxdEEzazR1ZFlSeFNyY3l1b0FqNXVQaG9XRmtOb3V3NUJwYUlnRENTbkFEajk3enFSdmtXOVoyRmZuWERwY19DRFNLUGNsMFBkZjI0TzlRNE15UXdBWXBsTnZXSUltdE0tekI1ZjdGQ2oxMS1Nay0yRHB3X1VqanJNWHNh?oc=5"
+    },
+    {
       "title": "Más allá de SpaceX: el fondo con exposición a los 20 mayores unicornios no cotizados",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTE9xaVlXVnVPWXdLMDZfcDZ1UjVUMGdlV3FqbzliZ25VWDVpWVlHY01JZHluc2c4RE1pcnJIUE1XT2xvLWR4Znl1b0ZlSHo2c2RzMmFQbDVtREdmUE5jc0tjRzBXVE1hTV9OVG5EM3lZZDR0R2EzMFkyVGUzWkhac1VHSE5UVFlGNXp5S3VucjFaSEtuUHZEaGZSNk5udm94azdFdEhwTk9vS3VucEFESUp3NldpX1RaN01rQ09CNG1xYzFvYmhVaUdMdmtjSml0aTljQ3R0Q0hDd1BsM29UeGdnY9IB9wFBVV95cUxQczZibXVELTNIaUNFRkF3bEtFNkE1ckFGUEMzQi1zV180WGc3SlFfX1RXZS1obHhTR3dTbEJBMTYyWHRoZjBKU1F4VzJZc1k1bG5qUm5hT1hJTUFTZzZlZGEwdkh3aTk2cjZqNnBvd0RMY1hhcGV2Nk1qMTlndEJzMmV4eHFPSjUtVFh1NDIyXzNuYTZXamxiS3FXNHI5ZHBoNFFDcEtMLW9DcFBiNGVWNjBrczlVbVdycE1mNVNvbnJsX3RNaDZlRi1KRVhneXFZS2xzWHZxZlNrV0JLUGJlc2VsdVFoYVJVYnU5LTBfaGxwMGxEUkpj?oc=5"
@@ -59,39 +64,29 @@
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbkRGZVJFSGNPUXk5XzBJSS1OWWo4VkF3TUJjSExwX1F0WHlvSkc2WnB5TWFQUWVtZFNSdzB1MjhuUTBweFFudUFhZXJSblkwazBnX28wOGJWZjJ3ZXMtWHFyMm8wLUJ6MWJRVFFlN3FNWmxwVlJMZkE0QXZKYUVpenBrdHc1WFdydmZaSWtZYWUtX3JsaVRVYVRRT0ZKWThkLUFIemZIVDhVQmhkLVotUm5oczhmY0hsVEw4VjlpU1JURGdHWF9fRXdmbmkxRXZQckQ1T0lkZlRxWGhqT0xsWHZmQ1ZXeFl0SDV1a2xDVEZzaG_SAfMBQVVfeXFMT25ERmVSRUhjT1F5OV8wSUktTllqOFZBd01CY0hMcF9RdFh5b0pHNlpweU1hUFFlbWRTUncwdTI4blEwcHhRbnVBYWVyUm5ZMGswZ19vMDhiVmYyd2VzLVhxcjJvMC1CejFiUVRRZTdxTVpscFZSTGZBNEF2SmFFaXpwa3R3NVhXcnZmWklrWWFlLV9ybGlUVWFUUU9GSlk4ZC1BSHpmSFQ4VUJoZC1aLVJuaHM4ZmNIbFRMOFY5aVNSVERnR1hfX0V3Zm5pMUV2UHJENU9JZGZUcVhoak9MbFh2ZkNWV3hZdEg1dWtsQ1RGc2hv?oc=5"
     },
     {
+      "title": "44 meses seguidos de crecimiento: los inversores europeos no paran de meter dinero en ETFs",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS2U1clo5ZkxRbFBTMHNGRXBWdTQ0U3pQN0RZUmdhaWh6OEJ5QlNGU2Q0MU5aZ0NTUnZWM3Y5dWpwU3d2dXhmZFJFdFBLV1J0Qk5uejBGczh5anM4QUZ6TTF6QkVkdy05YldYUC1mcEVXMURXRjR0UUl6SWpGOS1oTGJIa0YzOVc3eDdzeVFhWEJzc1pxVjg1Q0ZybURxQUttbFJzY09ldXh6VGxVQjJpVWtIMWVtUEJuM0tjZ0hUUWQzVF92N0tTVG8tQjl6c3RGMGtIeTRFMURKczA?oc=5"
+    },
+    {
       "title": "Cómo aprovechar las caídas del mercado invirtiendo en fondos indexados",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeVVkOHdWMlpQOHR2azVOem90T0tGTXdnZFBUYkoxcWhjTTQyaXpwMmhMZUJXQy0tNHZiY0w0RUxfTXM2bFZMLUxaZ1lCd2xidU1GQUxJLTRYejR1bzA0MGUwQ3M1VGdvY2lxdDRQRXdJNjNtWWRlUE84TXk4QnIwUFdFRmR2d3hHeHBsTFl5M0wyNjJ5WmltSnVaOUJrNngyVzh6T2s5RlBXemx3X3NmZTZ3?oc=5"
     },
     {
-      "title": "Valores del S&P 500 que lideran las subidas y con recorrido alcista a largo plazo",
+      "title": "Las correcciones del mercado, en opinión de Fisher Investments",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV21udzd4NDB6N2VXS21BMnItVFAzdENiRDRWWnBwbTh0ck55WDBKNDZCZ002QnZVdUYwUzFZamlDYWdFS0FmVm9mYWYwNWVkTXdlVVgwdG1MVEt6aTBiRm4yNGdhZVlfeGp2QmZEUTctdkYxYmxubkJLc0hreklpTEpBRWo3bGZoZVJTODRXY2w5V0xCQmlmTTJMcHpFNmdEdlRiaENKOWZ0d0VkV2YwZXZxZWtxa2hLWFVyZ3YtcGh1Nk4yeEHSAaIBQVVfeXFMTUhjcHBXZndaV2tDZWhELUdmRVBxTm9BSFVlRENJeWk1U0JiQUxOU2dQMkhqQTFLa0NaUFJ0OUZjX1NyUzhwODNIdUo2cV9hNUlSMXczLWd0YkhiVUhsd1FLcG1fY2Z4czl4YmsyRExPZ1hjMTdyUlRvQ3lfbUhIRC11YWRNbk5JUjZDQm1iRzFXY1ZaUGF0R2pVcndBRnZ2NHFB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaGNBU3ZLSXdfbkFOQ0I2SkpjcTN1UTJ6aC1XTTl0SUJsLVRzaUZuUndKUjBLWkxzU0tkWVZJYnJaOEVTVXJYWHNpSExrd3dPVnN3d0ZvOG1oZFEtMUt3ei1mWERZY0dyNDRqcEFnbURDaWZrTTJHcE5QZnFpUUVVd2JNN2d0MmEwWmpYWnNuZjVLRGcydTZTU0NkQ0ZfWnplSG9uelI1a1pNZDhTeFViQmMzeDNvdVFjNk1sN0FTcjFrMURFTmdiLWM0WkXSAaMBQVVfeXFMT3BVMnBKVnVzYUZKcFZRY0UzV05mVWdJSmVfcEg1WjFtWXVMaW1ZZUk4R1dPUXdWV29NcHMzR3Q0TERQdnJNSVBzZFAwcGhmcjBUanpZMVJldklLUWMyeHlqb1N0aVJBcGVfcTJfUVhHYW5hd25SeUxsSTVfYWdlR1dfOUpLQVk2OUdZel90OXJrZ3hhZmhxT21hcml3UUVpclJZRQ?oc=5"
     },
     {
-      "title": "Nuevo récord histórico de patrimonio en fondos en España: 475.000 millones gracias al gran mes de mayo en bolsa",
+      "title": "Los mejores ETFs de oro para invertir en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWXpVY1FkUUpubWF2akw5MkoxTC1UcnJ1VTgwYWtIV21jUEZxdXFCYnV6dmNsOFN2VV94TU1DZ29mU09maWtNWGU0UVlhVDYzb2F1eEtuc0VNVHE3M1BSai13QjIwaDdUTDdXNGNlVXF2dW5QYmdRRG92TW1sMUxNakNaMl9UekdMdW9LRWhtOWpyVGdUcVdSaFl3OF94bHFRSm9ZbTZwZTBzeTl6bFFkTFZlYjB0cTE1alVaV0t2UWpYSnU4M2FqNUNnS09YQ29xNFNyLXgzc1IyTjFtT1FIU1pRVVR5MnFxVzFpOWlR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCM0dlU3NrbTBYZFdqZkNwWFIwYXZ1aVZFejBLVTRxRUdacy13U0J1RUtsQWRHUFRCY1FYMWljNWE0dWtDREs3STBuNVdsZ1pTS2hjQWVtQXBUYXkzUnExM0I2U0w5X00?oc=5"
     },
     {
-      "title": "Los 12 mejores brókers para invertir en bolsa desde España en 2026",
+      "title": "DEGIRO opiniones España 2026: Comisiones, plataforma, seguridad y review",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTBkZ241RVlhVEIwWDA2ZG9DQWxEYzl0QkQwRDRLSUcxT3dXcVF2Ti1yR0dxSThYVF95MFhsRGZZeUoyYzNXMmxzb2lpOEZ1UElJeVJ3dzVCbU40dTlOeEJ1ZE95alg2Yjl2ZjVNWk0wMW5wUFVoZGIzQklDSlpReTlDTVJ6ZVZ1?oc=5"
-    },
-    {
-      "title": "Mejores cuentas online sin comisiones 2026 en España",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOUdXZFltU05fWUtKM1N4akVyTVNZMEJZSWJpZV80ZGR4TjV1ckJFWU5ZSXBqWmtKeVhTNXNKc1pEcXhaM1FyRWhpa0M1cmRlbldfTVdsMmF6ellQc1Aya2JrUmQ5VzQ0di1YOEo0MEhuR240S0ZXOHBqbDRVNTJLVkVLbw?oc=5"
-    },
-    {
-      "title": "Mejores cuentas conjuntas 2026 en España",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTJpbVBnY3l0ZzRzWmR2UWI3V1NjUy15Z1NIbFhPY04tRDJBakpGNS1uWndLclV1b2ZUMDRKNjVEVmVraWM0NUlzeEhCUmktVHByYUxCSEdKcGVPLTE4aFlqWlJyQzY5cFgzbHFSd0dNbDZ4ZjVBZlhxR2JkaWwyaEI3RWJnS1NjMGpwLQ?oc=5"
-    },
-    {
-      "title": "Mejores hipotecas de junio de 2026: fijas, variables y mixtas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hLUpjdXphREwybEFhQmxNWkJIMkM4LU5YTmxSZW96a3hQMlpvbzZVUGFMX21GQUJMYVZjSUh0blBmY0hFN1c5aDNnWHNnSHFXNGtCZmFMaXozZUdGQzN3WUdJS1hlYm5kNEVHcV9XdWpFLW5ua19iZ2Zmbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFhGbjB2TG1nN3R6cXVreHlfbkVBRVV1UGJ3cURvaW1fNlh4d0hjZWQtMFdwMTRpaWlQU1d1RE0tM3VqS05sclB5THQ3bjdwT2g2ZElRZVBKVGdkRHhHcWlwOEk0X3pWdlZQZ0V5N3AtRXZjdUxNUXBHQ29EQlhJSTBSdDFNaG9IOHYzbWtoWG85cnk0ZkMwQ3N4bWxnMmxwSzdOUXc0UnpmbG5q?oc=5"
     },
     {
       "title": "El Vanguard FTSE All-World afronta un verano caliente: rebalanceo sin red y la ofensiva de iShares a",
