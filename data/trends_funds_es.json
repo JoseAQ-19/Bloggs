@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-13T08:09:03.361813+00:00",
+  "scouted_at": "2026-06-13T08:10:12.296975+00:00",
   "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "Descubre el nuevo fondo que invierte en los 20 unicornios no cotizados: ¿puede superar a SpaceX?",
+      "title": "CME Group y Morningstar: Un acuerdo exclusivo que transformará los derivados sobre índices en Europa",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis de los ETFs de oro para 2026: ¿cuál ofrece el mejor rendimiento en tiempos de incertidumbre?",
+      "title": "El fondo que invierte en los 20 unicornios más valiosos: ¿puede superar a SpaceX en rentabilidad?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "El Vanguard FTSE All-World se enfrenta a un verano caliente: ¿cómo se compara con iShares en rentabilidad?",
+      "title": "Inversiones en tecnología: ¿Por qué los 20 grandes de Intermoney están arrasando en el mercado español?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
