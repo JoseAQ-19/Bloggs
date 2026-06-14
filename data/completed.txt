@@ -1775,3 +1775,4 @@ funds: Kos Biotechnology Partners Secures $123 Million in Global Life Sciences F
 funds: Kos Biotechnology Partners Secures $123 Million in Third Closing of Life Sciences Fund
 ia: La IA inunda la música: ¿están nuestras plataformas llenas de ‘fake’?
 ia: The 2026 Midterm Primary Election Calendar: What You Need to Know
+tools: Delta Heatmap y FVG: El nuevo indicador que revolucionará el trading
