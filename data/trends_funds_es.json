@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-14T08:24:42.918042+00:00",
+  "scouted_at": "2026-06-14T08:25:48.516569+00:00",
   "total_candidates": 11,
   "topics": [
     {
       "rank": 1,
-      "title": "Rheinmetall: ¿Por qué los inversores están subestimando un crecimiento del 20% en las ganancias?",
+      "title": "Los mejores dividendos del Ibex 35: ¿Quién ofrece más de un 5% en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "CME Group y Morningstar: ¿Cómo el nuevo acuerdo de licencia transformará los derivados sobre índices en 2024?",
+      "title": "44 meses de crecimiento en ETFs: ¿Qué fondos europeos superan el 20% de rentabilidad?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Los mejores dividendos del Ibex 35: ¿Qué acciones rentables superan el 5% de rendimiento este trimestre?",
+      "title": "El Vanguard FTSE All-World y el rebalanceo de iShares: ¿Qué impacto tendrá en las carteras?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
