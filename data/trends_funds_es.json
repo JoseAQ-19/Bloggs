@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-13T08:10:12.296975+00:00",
-  "total_candidates": 9,
+  "scouted_at": "2026-06-14T08:24:42.918042+00:00",
+  "total_candidates": 11,
   "topics": [
     {
       "rank": 1,
-      "title": "CME Group y Morningstar: Un acuerdo exclusivo que transformará los derivados sobre índices en Europa",
+      "title": "Rheinmetall: ¿Por qué los inversores están subestimando un crecimiento del 20% en las ganancias?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El fondo que invierte en los 20 unicornios más valiosos: ¿puede superar a SpaceX en rentabilidad?",
+      "title": "CME Group y Morningstar: ¿Cómo el nuevo acuerdo de licencia transformará los derivados sobre índices en 2024?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Inversiones en tecnología: ¿Por qué los 20 grandes de Intermoney están arrasando en el mercado español?",
+      "title": "Los mejores dividendos del Ibex 35: ¿Qué acciones rentables superan el 5% de rendimiento este trimestre?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,19 +49,14 @@
   },
   "all_headlines": [
     {
+      "title": "Rheinmetall: en qué se equivocan los inversores",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOE55X1BpcGlvZDJXaXYwVVFkWnRvVjFuT20wbk40MHVjdHZwRzloUm5xUG81UldySHM1bFZNSDh0VllTa0pGdXhnRGowMW9IVFB3by1DMnlWaDhXY3ZXRDhXWTFyUXVnbHoxVkhRVXBsSXgwekJOY0p2NFBYamdYMXVNNzhkSUJuVjNLck5fYl9udw?oc=5"
+    },
+    {
       "title": "CME Group y Morningstar anuncian un acuerdo exclusivo de licencia para derivados sobre índices",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOanBGa29sQ3BxbU1XZVptMEpRVHFZMUlURnlvSUtScDdKRzkxaEJlWUJKczM4b1NLMEk1LWxjR0RsUVJialJ6d3ZhUzZSTXV6Z0U2WFl3cFlCYUVHakJya0ZxdEEzazR1ZFlSeFNyY3l1b0FqNXVQaG9XRmtOb3V3NUJwYUlnRENTbkFEajk3enFSdmtXOVoyRmZuWERwY19DRFNLUGNsMFBkZjI0TzlRNE15UXdBWXBsTnZXSUltdE0tekI1ZjdGQ2oxMS1Nay0yRHB3X1VqanJNWHNh?oc=5"
-    },
-    {
-      "title": "Más allá de SpaceX: el fondo con exposición a los 20 mayores unicornios no cotizados",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTE9xaVlXVnVPWXdLMDZfcDZ1UjVUMGdlV3FqbzliZ25VWDVpWVlHY01JZHluc2c4RE1pcnJIUE1XT2xvLWR4Znl1b0ZlSHo2c2RzMmFQbDVtREdmUE5jc0tjRzBXVE1hTV9OVG5EM3lZZDR0R2EzMFkyVGUzWkhac1VHSE5UVFlGNXp5S3VucjFaSEtuUHZEaGZSNk5udm94azdFdEhwTk9vS3VucEFESUp3NldpX1RaN01rQ09CNG1xYzFvYmhVaUdMdmtjSml0aTljQ3R0Q0hDd1BsM29UeGdnY9IB9wFBVV95cUxQczZibXVELTNIaUNFRkF3bEtFNkE1ckFGUEMzQi1zV180WGc3SlFfX1RXZS1obHhTR3dTbEJBMTYyWHRoZjBKU1F4VzJZc1k1bG5qUm5hT1hJTUFTZzZlZGEwdkh3aTk2cjZqNnBvd0RMY1hhcGV2Nk1qMTlndEJzMmV4eHFPSjUtVFh1NDIyXzNuYTZXamxiS3FXNHI5ZHBoNFFDcEtMLW9DcFBiNGVWNjBrczlVbVdycE1mNVNvbnJsX3RNaDZlRi1KRVhneXFZS2xzWHZxZlNrV0JLUGJlc2VsdVFoYVJVYnU5LTBfaGxwMGxEUkpj?oc=5"
-    },
-    {
-      "title": "Intermoney ha comenzado a distribuir en España un producto para invertir en las 20 tecnológicas más valiosas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbkRGZVJFSGNPUXk5XzBJSS1OWWo4VkF3TUJjSExwX1F0WHlvSkc2WnB5TWFQUWVtZFNSdzB1MjhuUTBweFFudUFhZXJSblkwazBnX28wOGJWZjJ3ZXMtWHFyMm8wLUJ6MWJRVFFlN3FNWmxwVlJMZkE0QXZKYUVpenBrdHc1WFdydmZaSWtZYWUtX3JsaVRVYVRRT0ZKWThkLUFIemZIVDhVQmhkLVotUm5oczhmY0hsVEw4VjlpU1JURGdHWF9fRXdmbmkxRXZQckQ1T0lkZlRxWGhqT0xsWHZmQ1ZXeFl0SDV1a2xDVEZzaG_SAfMBQVVfeXFMT25ERmVSRUhjT1F5OV8wSUktTllqOFZBd01CY0hMcF9RdFh5b0pHNlpweU1hUFFlbWRTUncwdTI4blEwcHhRbnVBYWVyUm5ZMGswZ19vMDhiVmYyd2VzLVhxcjJvMC1CejFiUVRRZTdxTVpscFZSTGZBNEF2SmFFaXpwa3R3NVhXcnZmWklrWWFlLV9ybGlUVWFUUU9GSlk4ZC1BSHpmSFQ4VUJoZC1aLVJuaHM4ZmNIbFRMOFY5aVNSVERnR1hfX0V3Zm5pMUV2UHJENU9JZGZUcVhoak9MbFh2ZkNWV3hZdEg1dWtsQ1RGc2hv?oc=5"
     },
     {
       "title": "44 meses seguidos de crecimiento: los inversores europeos no paran de meter dinero en ETFs",
@@ -74,19 +69,34 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeVVkOHdWMlpQOHR2azVOem90T0tGTXdnZFBUYkoxcWhjTTQyaXpwMmhMZUJXQy0tNHZiY0w0RUxfTXM2bFZMLUxaZ1lCd2xidU1GQUxJLTRYejR1bzA0MGUwQ3M1VGdvY2lxdDRQRXdJNjNtWWRlUE84TXk4QnIwUFdFRmR2d3hHeHBsTFl5M0wyNjJ5WmltSnVaOUJrNngyVzh6T2s5RlBXemx3X3NmZTZ3?oc=5"
     },
     {
+      "title": "Los mejores dividendos del Ibex 35 en este momento",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaEw0TnNvZEYxTlZrOURuV0VjeVlPSTZNeUEwU3BLT3d6RU05eUpsY0pDQTZSd3BwbmtQQnJpcGlNdThQai01bTQwZzhXRHcyalMyNFRyWXBYenZaLVRSQ3JleW1QRHRHejh2UWY0UUYxYVRqS2RMWHRwTzlmbDM3MXV0ODVwc19haUlpSVB4MkwwMmItbkJrWkVLTXRNT3VtMllwU05zNV9UQWIzaF9yS3Z5d0lXMTdjekVJMdIBpAFBVV95cUxNM0Y1aHd1aEdmSG5WV2N6Ni1ncFpWNm0zTjdtQVd2cjVtSE1rdmROT1BXRmlLREEtcngwRk1ZRDc0S25yZXFzaFlXZ1lOZ0V1OFdoTnFqYng4Z19Wb1JOMlJhN3d5eWxHWHRIV21nWm9UZF9YUU05czlack84Nzc5dWhqTzV1NXFBbVBhSzh4bWRZa3hQeFFOeXRxb0dySVFpRmhJNw?oc=5"
+    },
+    {
+      "title": "Las 11 mejores apps para invertir en bolsa: pros y contras",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOXzBhNDJqUU12SjV0VVUzX2Yxa0Nfc1pNaFJoRjU0QkhYMVhBbTdvUl9ob2pHbkRWLTh1c2JPWGUzZS1ZRUR1cHB6ZGhZeElfSFF2bXZsYnRBVTdlb0pRZWlqaDVvXzE4dDdheWdJLWxhVkdtLWs0UEVmRUpKaE1sS0FjNjNENUtnWHc?oc=5"
+    },
+    {
+      "title": "Finizens: opiniones y análisis completo del roboadvisor (2026)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcTk2b19MOG1wLVBCREllOWUyeG5WZ21jWm5lQVdIYThTUWZNWHQyWFg5WWlKaHJoWmtqVEtKazh0WU8yRTRBMTVuSE4wWWEzSmpZMllaYkdvTGRUOFd5eGhma3lDQ2lDZ2pXSGlydkNBWm9EQy1yTTBqY2RFdXVvbzRBQUpUcjdO?oc=5"
+    },
+    {
       "title": "Las correcciones del mercado, en opinión de Fisher Investments",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaGNBU3ZLSXdfbkFOQ0I2SkpjcTN1UTJ6aC1XTTl0SUJsLVRzaUZuUndKUjBLWkxzU0tkWVZJYnJaOEVTVXJYWHNpSExrd3dPVnN3d0ZvOG1oZFEtMUt3ei1mWERZY0dyNDRqcEFnbURDaWZrTTJHcE5QZnFpUUVVd2JNN2d0MmEwWmpYWnNuZjVLRGcydTZTU0NkQ0ZfWnplSG9uelI1a1pNZDhTeFViQmMzeDNvdVFjNk1sN0FTcjFrMURFTmdiLWM0WkXSAaMBQVVfeXFMT3BVMnBKVnVzYUZKcFZRY0UzV05mVWdJSmVfcEg1WjFtWXVMaW1ZZUk4R1dPUXdWV29NcHMzR3Q0TERQdnJNSVBzZFAwcGhmcjBUanpZMVJldklLUWMyeHlqb1N0aVJBcGVfcTJfUVhHYW5hd25SeUxsSTVfYWdlR1dfOUpLQVk2OUdZel90OXJrZ3hhZmhxT21hcml3UUVpclJZRQ?oc=5"
     },
     {
-      "title": "Los mejores ETFs de oro para invertir en 2026",
+      "title": "Freedom24 opiniones España: Análisis y review 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCM0dlU3NrbTBYZFdqZkNwWFIwYXZ1aVZFejBLVTRxRUdacy13U0J1RUtsQWRHUFRCY1FYMWljNWE0dWtDREs3STBuNVdsZ1pTS2hjQWVtQXBUYXkzUnExM0I2U0w5X00?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zUlU0OFMzZTNQWmRLWmJGNjZiSnFPRFVXOGMwc0ZMQ1g0MTlyV1BNdmtQemEzYnJ4clljaDNmWHhxMXBCQld6VWFWSUVIRHpfTnczTGViV2hnX21HUGRpYVpRalcwRFE5UmR4TmswRjhXVzR6YzhTdVprYw?oc=5"
     },
     {
-      "title": "DEGIRO opiniones España 2026: Comisiones, plataforma, seguridad y review",
+      "title": "TOP 10 industrias que más dinero mueven en el mundo [2026] y cómo invertir en ellas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFhGbjB2TG1nN3R6cXVreHlfbkVBRVV1UGJ3cURvaW1fNlh4d0hjZWQtMFdwMTRpaWlQU1d1RE0tM3VqS05sclB5THQ3bjdwT2g2ZElRZVBKVGdkRHhHcWlwOEk0X3pWdlZQZ0V5N3AtRXZjdUxNUXBHQ29EQlhJSTBSdDFNaG9IOHYzbWtoWG85cnk0ZkMwQ3N4bWxnMmxwSzdOUXc0UnpmbG5q?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcXJabnhkbVBrWUlOWU1UYjY3YjdVRVFnMWtoWVdyNGxPRDcxTEpLeWJJdEVyQXhsRTdqUFN5a1I1b25MbmZ4UmlZeFZfbzB3dVJvdndQNVd4TkJnYk1rRzVyeFJ5Rm9UTDk2UW5qVENuTUJNOWdHQktwUjk3cFNqYWxIbjFaTTNEbmlNQTVaVlZqNGpzRHpOTkR1SXlyWVJpaXVzTm1VaUpKZ1R1bDhDR3hCQTRCajBvTUlWRnhkdw?oc=5"
     },
     {
       "title": "El Vanguard FTSE All-World afronta un verano caliente: rebalanceo sin red y la ofensiva de iShares a",
