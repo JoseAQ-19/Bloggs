@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-13T09:37:21.653179+00:00",
-  "total_candidates": 10,
+  "scouted_at": "2026-06-14T08:27:18.813494+00:00",
+  "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "How Morningstar’s New CME Derivatives Licensing Deal (MORN) Has Changed Its Investment Story",
+      "title": "Did the Funds That Owned SpaceX Pre-IPO Clean Up?",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar’s Nicolas Gisbert: Smarter Fund Selection And Monitoring In A Changing Investment Landscape",
+      "title": "How Morningstar’s New CME Derivatives Licensing Deal (MORN) Has Changed Its Investment Story",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "The Best US Equity ETFs to Buy",
+      "title": "Smart Investor: 2026’s Big Winners So Far, What’s Next for SpaceX, and Bond Outlook",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,24 +51,34 @@
   },
   "all_headlines": [
     {
+      "title": "Did the Funds That Owned SpaceX Pre-IPO Clean Up?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWE1WUC1QOHJ6cVFIODY4ZGVyMDFhaUpxZXJjQjBmUUkyVEVIcnlaaC1sUkVUZk1ENHJaS2JvbzU0ZlhVOFB6N2NzTmUxMVcyT0dGdDI0WnBuLXVNLU16X2EzempkRHJrMzRmWUlvX3EwcW94T1VBdVBGUGxpa19GbGZjY3g?oc=5"
+    },
+    {
       "title": "How Morningstar’s New CME Derivatives Licensing Deal (MORN) Has Changed Its Investment Story",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR19lWmUyTzV6QmxQNTFkTVlzMEg5QXRyUnhFcjE2eGJMUk1fNzBuS29TN1BjT2lVaUYtZEg1dVF4UXBLRVRYeERhZlNqeFVIZnhSMjRyc21LUjVCTmJYQ1hfX2F6T2VuTzJSYVBjNkR3S0dFWlpoblIxYTVMNDJfODBGVFBPUExTamNtZWE2Q2M3dlF2M0g3SVQ3SFZRLWZDMnN6a0NtY3pvbkx6RFVzQTJyV1hKTXlvUGtvQ0djdzZkTHNuWjBoZkVvbHp0dFVoQjBZOG5kcUdERndUS0gwY0dB0gHiAUFVX3lxTE1HX2VaZTJPNXpCbFA1MWRNWXMwSDlBdHJSeEVyMTZ4YkxSTV83MG5Lb1M3UGNPaVVpRi1kSDV1UXhRcEtFVFh4RGFmU2p4VUhmeFIyNHJzbUtSNUJOYlhDWF9fYXpPZW5PMlJhUGM2RHdLR0VaWmhuUjFhNUw0Ml84MEZUUE9QTFNqY21lYTZDYzd2UXYzSDdJVDdIVlEtZkMyc3prQ21jem9uTHpEVXNBMnJXWEpNeW9Qa29DR2N3NmRMc25aMGhmRW9senR0VWhCMFk4bmRxR0RGd1RLSDBjR0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWEdRRFl3RjVjY0RIM194WWxLZGtPWnZTcV9KRmhSMmxFRERNUFdmRTNYcmJDWG9YcDVhSnd4N3VTSFRiZEc1cGRzZE9kM0phX2d1SWJ3bEpNLXlvU2lxMzJ2dmFCMG1Cb2xPSGd6WXpmaWRKZzF1dU5iLUhuWjEwNnp2RV9RTTJTRy1aUFlxcDFyQnpKYjVfZUF6dkxzX1B3QXBuenIwRUIzc2FLelFRQy1DSFNoTUZ5RmdRVXZHaFc2bkNLRDAtNllsWnRSbmhkV3hjLVV3Q3dXRWR30gHiAUFVX3lxTE1HX2VaZTJPNXpCbFA1MWRNWXMwSDlBdHJSeEVyMTZ4YkxSTV83MG5Lb1M3UGNPaVVpRi1kSDV1UXhRcEtFVFh4RGFmU2p4VUhmeFIyNHJzbUtSNUJOYlhDWF9fYXpPZW5PMlJhUGM2RHdLR0VaWmhuUjFhNUw0Ml84MEZUUE9QTFNqY21lYTZDYzd2UXYzSDdJVDdIVlEtZkMyc3prQ21jem9uTHpEVXNBMnJXWEpNeW9Qa29DR2N3NmRMc25aMGhmRW9senR0VWhCMFk4bmRxR0RGd1RLSDBjR0E?oc=5"
     },
     {
-      "title": "Morningstar’s Nicolas Gisbert: Smarter Fund Selection And Monitoring In A Changing Investment Landscape",
+      "title": "Smart Investor: 2026’s Big Winners So Far, What’s Next for SpaceX, and Bond Outlook",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWjQ5M0NGbjNYS3pUQzNOelVfV3lVanFGSjVibjRteHVfZk9HdGRqSExkUVdlYV9EMlluQ3NEVjI4eEhveVFuMXRQYll3WVNVLTZ5M2pWVkFVdVlOVUJfLVhrYnY1cmFseEl5c1NfdmVYZ3FoTVo3SnIwLW92VGRUV0xBcV9Pal9tTXEzNzM3WWpQcGNQM2FPM1B6LURodnFKM2U4NGJNOExxLUE3X0pGSFRTbWljZ1dyeFFEc2gyUXZNYktVakhXQ0tXQ3Ezdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX1F3UHRJUjdfMlRKSndSSGJ5N3B1T2xPbHBtTUhOalNtckpZYk5OZnRCcTdqSkJhbEY3Ykp5V3AyVVA2WDhyTG5pc0NScUY5Z0xHOGRTZTVySVdxRlN3YXZaNWJXME0wQXNKd1lzUEM2WlZtRjVFaFdxbGlrbTdjUkd5Zkh2SWs1aHViTHpVQTNGVnN3SVlpaWlmTXFBbV9OdWFSWHpTdjd3dw?oc=5"
     },
     {
-      "title": "The Best US Equity ETFs to Buy",
+      "title": "Kos Biotechnology Partners Announces Third Closing of Global Life Sciences Fund at $123 Million",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kV3RHclFGdVNQZjRlbDBsWTR1TlVpTlREYW1rMlJZd1lVdEhaYzFTa2hDVjFDVmFCeVNuOHlDWEdZSjM1SlY1bXc0Q3JkWUJjNE04Q1Q2eWVEb04yV3NqVFo0Mk1iN1FFeWdHa09UOUswUjA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaDVGY3k3Z3lEVm94RFY1SHZIMnNlWk82enZuM2FmYXhmOHZVSFgydUI5Qk5URDZsT3cxeUJnM1g0U3VFQmJsT0k0a0lsODljdmJiVU1kSWNaWjlPUmhhUElhSzE3V3JNM290d3RuTV9NT3RKSml6dHB6TnpJMXl5UGh3MVRjd2JUUEtEeWJEbE9oUnQ4NVhTNUIybmJ5NXlEZDF3ZlNycTRBdXRPTzhNbHdjdEc2RVljZmZ3OFdINUtIWDd4dDd1a1pnV0tPVFdpVlN2Y1pDb2prWV9HSGhOWGNWOEt2b3RaMVVN?oc=5"
     },
     {
-      "title": "Top 9 Safest ETFs to Buy in 2026",
+      "title": "5 Stocks to Buy Before the Next Market Rotation",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQblRaOGlUN0R5RVVYLVU5MGJKSGNkR0k2d2xxSmM5Wk9PR2VZZXJ6aVZYdUItRjNDR05RTlJSR2tPWGh4MkIzTWNXQjZPOGlCNDA1UVpRR3FwYnhDTUNOMXJ2OVRRTEhSV3RFVWFnY3d3SC1pZG5mQ09IWnRCXzJINGtn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT0NyaTN2NUo1YW1pUk8xeU1udVhvMmNhb2ttbWpUejVMVjRqUlRSQld1LWd0NV9jQkZ6dkV2ajV1Z3ZqZ3lGRTRMRDU0WjRNNy1za2RpNC12NVc2NHFOOEszV18tcF9KQUdDR0hVdlJ3T1lWaHVWYmRsQzdYajhJVTRqY0MtMGFIQWZNcA?oc=5"
+    },
+    {
+      "title": "HarbourView Announces Strategic Partnership with Legend Chaka Khan",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPazR1WWNFYWlNTkNUMl9SQWN3Q0NRWkFsQVpObHNLY2hfUVUyZ19PbFA2bE5IYlZGOWtHb3hBU0NFazF0dE5ja2RIWDZPUlB6aWdtNFBWVkpMU0VuaVR2VTk0b3FZclR2bzdNN3dMT1R0SXNUQXp3RGZNWEJkb043emI5a1ZHYUhBUGJtMlpJeU8zdTJ0NXNhSUN6bzdDdVV5ZDFRdW5CR0s5LS1kN0c0UDRxdV9LVEhOampQXzlveVRMMUZ0dWNv?oc=5"
     },
     {
       "title": "How to get SpaceX stock — without buying the IPO",
@@ -76,19 +86,29 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGduT0JJUWQ1ZWM2M2l6TnVOZGRhUDI2eklRZkR5Y3RtV2RjSnlKbW1WMm9BUGEzbkJxRFNmdFJqTnNyU0FuV0R4UjlWaS02MGJ2RlZYbDNuOW1oU3U3aGdIb3RpZ2w2b21kU3QxRFJhcDI3NWpua1p3TENvZkVsWWV5WDhvVnc5Njln0gGQAUFVX3lxTFBTM1NPMDlhWjJ3VG9rYTN1TXV1a3hUVTBVZi1fTXBWWU91YnFjN005c3VibW5ZaXo1RnpQVzZaQ0FHTmo2Y2tKNzRoOVllQ3luOGZReTlUSlJVYzZMY0NWdV9kdFNUbEM4UVlrdlp5QjNYSGlOZGIzb2xpSjdRWUl4TmlSTmdVdGJ5MHd2UEM2cQ?oc=5"
     },
     {
-      "title": "7 Best Fidelity Mutual Funds to Buy and Hold | Investing",
+      "title": "The Best US Equity ETFs to Buy",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHFMbVpRMVNmM1JnQzcyMVRmY0FKMTZfbHhkbkM2Q29jUXB3SG5mM0VwUV9BQTdvdXdnZW1WWkhaTE9aVE5kWEJSUDJxM0QzOVZ5UTZxUDdqclZOLWI4UDhyMTc3S05fdjFaeWNNaWZyVWxQd19nMG80dXVpdDMweFBRS3FyZGtFY2hyM3dJNA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kV3RHclFGdVNQZjRlbDBsWTR1TlVpTlREYW1rMlJZd1lVdEhaYzFTa2hDVjFDVmFCeVNuOHlDWEdZSjM1SlY1bXc0Q3JkWUJjNE04Q1Q2eWVEb04yV3NqVFo0Mk1iN1FFeWdHa09UOUswUjA?oc=5"
     },
     {
-      "title": "10 Best High-Yield Savings Accounts Of June 2026: Up to 5.00% APY",
+      "title": "S&P 500 Snapshot: Late Week Rally Pushes Index into Green",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWEdHUzl1dXE2RVB2NnpTcFo3QmhLU1ZpLWxnM3Z2SmFKa1lZR1BxQ0g5NWFSLXNSM0p1aGhfTlJaaGkxano3clJlcmZnNUZDUXhzOEQ4aDlLZkhrRk9HMXNnWENGVl8wUnRmUXkzbno1YS1oU2M4OE1YMlVYTXdLVg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXBiUW9MUGFOMEJyZ3dhbHcxQzh3YTZySTdZVnhQcnFiY1hRcDFya1B4dnRRMlZFaTZUN1ZjWXgtQldEa3FmOHFYZ3FuazViOHIxMDlLS2hPODBzUjAzSGxoNDhlelRKclV1SDlFQVZ2WWx5dmJ0d0J2ekRhVHZmTExtNmFFRk5vNmt4TkZieU5vRXJhaVJOMEdvRlRpcTk1Z2E1ZWM5YkUtc25sbGdReHYwampHRnN3WVE?oc=5"
     },
     {
-      "title": "Guide to Dividend Aristocrat ETF Investing",
+      "title": "How to get SpaceX stock — without buying the IPO",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZlBzQWxxSTd1NHdGeUZfMExlMUdIRXVYTUo2Y0xNQV9CQ0RZNWw4N1NyZFpyU0lqbndXTmlVaHdJQ25YYjhIcTJMb3hrdklOQWtuNHo1U1JGR3VXSTJfTmdabm9QaTV2ajlneFFPMWRFSW5zWVM2Z0VqUXVtM1FJQzBCV0ZlTkVVdmhTSWRzU3VoeUx0THNJVlRRZlFQZ2c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGduT0JJUWQ1ZWM2M2l6TnVOZGRhUDI2eklRZkR5Y3RtV2RjSnlKbW1WMm9BUGEzbkJxRFNmdFJqTnNyU0FuV0R4UjlWaS02MGJ2RlZYbDNuOW1oU3U3aGdIb3RpZ2w2b21kU3QxRFJhcDI3NWpua1p3TENvZkVsWWV5WDhvVnc5Njln0gGQAUFVX3lxTFBTM1NPMDlhWjJ3VG9rYTN1TXV1a3hUVTBVZi1fTXBWWU91YnFjN005c3VibW5ZaXo1RnpQVzZaQ0FHTmo2Y2tKNzRoOVllQ3luOGZReTlUSlJVYzZMY0NWdV9kdFNUbEM4UVlrdlp5QjNYSGlOZGIzb2xpSjdRWUl4TmlSTmdVdGJ5MHd2UEM2cQ?oc=5"
+    },
+    {
+      "title": "S&P Dow Jones Indices",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XMTA2SzF2cDl1YXNGY3RGTG4tU0ZwWU1YLUlhSlNnUEhRNmJ3eEJPUDJ4VExzZDFJUWhQcW9naTcxWFRNZTNwNjdR?oc=5"
+    },
+    {
+      "title": "Forbes 2026 Midas List: Top Venture Capital Investors Ranked",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fcGVEQ0g0VGFkMnVBQmlYNjNock5lN1FWdF9yM1Z1bmhCdnZFOXZUSlpoSWs0S3dHcTN5NGlMMnZHWXlnU2s2UUxZSQ?oc=5"
     },
     {
       "title": "6 Months Later: Is Vanguard’s Overlooked Monthly Income ETF Still Worth It?",
@@ -96,9 +116,19 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkMzY0p4U1RHazF5Qk1RLVV6T1pRQkxXX2JCV2FTWVRnTWFyVldmNm9rZ3N0T1FTVFdtT2xLbUtmaVFSMFBja3I2YVBsemNSNUNZdFdyVGJCdXF3bkFzRU9naHFWZ19QVkNickx4V0gxQTBDckxmdHg1OGdiYjdzVVlIdDNVbFRDekZpcHM4RHdHWHRKYlJ2ZFhfbjZiNXdFZzJQeTNZTDhlREc3SW81ZDdYOFhBaW8?oc=5"
     },
     {
-      "title": "Best Gold ETFs to Buy for Long-Term Investors",
+      "title": "Largest Leveraged and Inverse ETFs",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sMHNoLXFIRk9zU1pPXzYwSlFsWnpKbEV0S0t1b1Z2b21Ddk5mWjN1a0V4YTZQZ0tqUFJBTE52NFJENXU0dGY0cDN1VG1GWGxWOGsycFQwMGg0a1JKbmEwSVA5c205Z0huNG1xdzlQTWxSVU1fQUJ1V0JEVQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuR05wOGhhS3VaY3dpV0FZUEQxYkU1R2ZxakpRX0RvMTE3dUdJOGFBd1NJM2xuSTdJLUd3eWp5MmVPS0FUaS04dWN5dDlSUTNwR2owdWVBLV9iOUNJUmRDX1ZkYlpxVmNuLU4tYTdBTEs3VUU5R29MSnVaa2NTbmc?oc=5"
+    },
+    {
+      "title": "Single-Stock SpaceX ETFs Are Coming, but They’re No-Gos for Most Investors",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1NiWTRhRnR5SkVNOUlobWgwbDJFbEtZdndoNTNSdUpUc2hjYUI0NklPcUZTelJTUE5OUF9lQXRMTU41bEhFUHRFckh5N0J1TFVwVlRQcVRUV2paMlpzVjJsazNaZ2lLQUJVNGd3UF82QVhKYzVUZEZoeFYzMjBnZ1FWWnMtcUNHTnU4T0ZTTk5hRW12R0E0VUROYVhTWDVfWVg4UWhSVXE0dw?oc=5"
+    },
+    {
+      "title": "Fidelity, Vanguard and BlackRock are all adding annuities to 401(k) plans — betting retirees want pension-like income",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQXVYWml0UWItTGVGMWczR0VnY3hzYXNkTFY2YzZTUmVtZlpKM01SSVlGS1h6M0VnZVBqTDhxYkhULTFUOFBNZDFkdTV0VWYtcjMwWHY0eWd0cE5odlRBaFJSLWhCakFES3VhZ0JyOGJPTWJoQVI2MW8zWThXYTF3dXZRemVES0RFeUN4UFBUTWsxT0lNNV9vYXNYUjdZSWlpeThtclJtOFJGRDBBaWJz?oc=5"
     }
   ]
 }
