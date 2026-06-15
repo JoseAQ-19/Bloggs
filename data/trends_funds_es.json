@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-15T09:08:51.512507+00:00",
+  "scouted_at": "2026-06-15T09:10:13.356074+00:00",
   "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "Rheinmetall: ¿Por qué un 30% de caída en su acción está confundiendo a los inversores?",
+      "title": "Rheinmetall: ¿Por qué el 30% de la caída en sus acciones podría ser una oportunidad para los inversores?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "CME Group y Morningstar: ¿Cómo el nuevo acuerdo de derivados podría impactar el rendimiento de ETFs clave?",
+      "title": "CME Group y Morningstar: ¿Cómo el nuevo acuerdo de derivados puede transformar la estrategia de los inversores en índices?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Inversores europeos apuestan $10.000 millones en ETFs en 44 meses: ¿Qué fondos lideran esta sorprendente tendencia?",
+      "title": "Inversores europeos apuestan por ETFs: ¿Qué fondos lideran los 44 meses de crecimiento y cómo se comparan en comisiones?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
