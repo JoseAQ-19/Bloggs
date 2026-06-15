@@ -1791,3 +1791,4 @@ funds: Rheinmetall: Oportunidad de inversión tras una caída del 30% en sus acc
 funds: Amundi and CACEIS Collaborate with Ant International for 2023 Blockchain Treasury Solutions
 funds: Amundi, CACEIS, and Ant International Forge Blockchain Solutions for Enhanced Treasury Management
 ia: Historic 57: Digirolamo and Degnan Make Waves in I-A Golf
+tools: La catedral más pequeña del mundo: un acto espiritual en el festival Concéntrico
