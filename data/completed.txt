@@ -1795,3 +1795,4 @@ tools: La catedral más pequeña del mundo: un acto espiritual en el festival Co
 tools: Unleashing the Power of AI: Transform Your Facebook Experience Today
 crypto: Cripto Hoy: La sorprendente subida de BTC, ETH y XRP explicada
 crypto: Oklahoma Sounds Alarm: Are You Falling for This New Crypto Scam?
+crypto: Bitcoin Breaks Through Key Resistance: What This Means for Investors
