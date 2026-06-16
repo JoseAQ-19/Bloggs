@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-15T09:10:13.356074+00:00",
-  "total_candidates": 5,
+  "scouted_at": "2026-06-16T08:57:30.874416+00:00",
+  "total_candidates": 2,
   "topics": [
     {
       "rank": 1,
-      "title": "Rheinmetall: ¿Por qué el 30% de la caída en sus acciones podría ser una oportunidad para los inversores?",
+      "title": "\"Cinco fondos de renta variable española que superaron el 15% de rentabilidad en 2026: ¿cuáles son?\"",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "CME Group y Morningstar: ¿Cómo el nuevo acuerdo de derivados puede transformar la estrategia de los inversores en índices?",
+      "title": "\"Análisis de los 3.788,25 millones del Extra FLA: impacto en el déficit de 2025 en comunidades autónomas\"",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Inversores europeos apuestan por ETFs: ¿Qué fondos lideran los 44 meses de crecimiento y cómo se comparan en comisiones?",
+      "title": "\"Comparativa: ¿Qué fondos de inversión española han liderado el crecimiento en 2026 frente a su competencia?\"",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,29 +49,14 @@
   },
   "all_headlines": [
     {
-      "title": "Rheinmetall: en qué se equivocan los inversores",
+      "title": "Cinco fondos de renta variable española ganadores en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOE55X1BpcGlvZDJXaXYwVVFkWnRvVjFuT20wbk40MHVjdHZwRzloUm5xUG81UldySHM1bFZNSDh0VllTa0pGdXhnRGowMW9IVFB3by1DMnlWaDhXY3ZXRDhXWTFyUXVnbHoxVkhRVXBsSXgwekJOY0p2NFBYamdYMXVNNzhkSUJuVjNLck5fYl9udw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmFxRThnR1JWc1BSLUpMSXcxVG9vX29sb1NXcTRHVnFrX1Q1SjVtQkxZQ19sSkplNVFaTjBoRVJPZG8zdmtFSmFuYS1rR1h0X3dVd2E2Z0NDTWhBNzlPVHVHSlJSaThLVURBbnV0Z2lhYjNFckIyTkMzOEd2SDR6YkxOUGJzUWVCZ2VkaFZ1UlBUTjJZSlRPcHJZN1psSnc?oc=5"
     },
     {
-      "title": "CME Group y Morningstar anuncian un acuerdo exclusivo de licencia para derivados sobre índices",
+      "title": "España asigna 3.788,25 millones del Extra FLA a cinco comunidades para cubrir déficit de 2025",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOanBGa29sQ3BxbU1XZVptMEpRVHFZMUlURnlvSUtScDdKRzkxaEJlWUJKczM4b1NLMEk1LWxjR0RsUVJialJ6d3ZhUzZSTXV6Z0U2WFl3cFlCYUVHakJya0ZxdEEzazR1ZFlSeFNyY3l1b0FqNXVQaG9XRmtOb3V3NUJwYUlnRENTbkFEajk3enFSdmtXOVoyRmZuWERwY19DRFNLUGNsMFBkZjI0TzlRNE15UXdBWXBsTnZXSUltdE0tekI1ZjdGQ2oxMS1Nay0yRHB3X1VqanJNWHNh?oc=5"
-    },
-    {
-      "title": "44 meses seguidos de crecimiento: los inversores europeos no paran de meter dinero en ETFs",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS2U1clo5ZkxRbFBTMHNGRXBWdTQ0U3pQN0RZUmdhaWh6OEJ5QlNGU2Q0MU5aZ0NTUnZWM3Y5dWpwU3d2dXhmZFJFdFBLV1J0Qk5uejBGczh5anM4QUZ6TTF6QkVkdy05YldYUC1mcEVXMURXRjR0UUl6SWpGOS1oTGJIa0YzOVc3eDdzeVFhWEJzc1pxVjg1Q0ZybURxQUttbFJzY09ldXh6VGxVQjJpVWtIMWVtUEJuM0tjZ0hUUWQzVF92N0tTVG8tQjl6c3RGMGtIeTRFMURKczA?oc=5"
-    },
-    {
-      "title": "Un IBEX 35 a dos velocidades: el blindaje energético frente a los nuevos imprevistos corporativos",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTVdUbUkwNEtYTzVhSmZTZHJVa2ljeDluOEhNdVp1OXl2X0EzRldiemxqRFpMc0lGZU1ma1ZfdFZNa0ZoTHp2N1FPejBvbHFKM1dCdFc3b2hWZGFDLUE4UzNfaHRGVE1zQkFaNnNRQjlhTlo0LWlYU3Z5VEpYY2dHZTFBVmdzQ3k5YUtGOXA4UXJVRDBMQzdwNUhnNUhTcmszQktmMkpydWtSYko4UmFIR1ZzZVJkNGh2YnhoMDFRTWJvazFvTEU4NUNqWdIBogFBVV95cUxQdHRJQ01RbU9vbm42Rm15YXF4aExGclUzdmlxOGdpdnprM191WUFMSzNfQm4taER0MUdMVWlpZXhMaFRiN19oRWZxWUp6N241NGNhaE1wcWNvd1ZIWlBYMnNNbm54ZWpnMFhITnpDYlYyQ3l6RkxocnNlZzB4RFd5U0Z3U0tUYWRtUHlRLWg5Q29CU0ViekhXd3EyWHpPSU9SMkE?oc=5"
-    },
-    {
-      "title": "Dónde comprar los ETFs de Bitcoin y Criptomonedas desde España",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRFNtQWFEaFZiUlBHRXlYUVRCUEd1enFkTFRUNTZMUkJFa04tMlUySWdCSlF6c2JwU2ljWjdpMURPQl9PZUdwbmhEc3Fpd0dQX09DU0I0UmJ5NThCU1hXa2R0c0JCNEQ0MlZvZlQtaExEeUVvUDIyaHM0OVlnc1F1c2NnZ1VidXBsemhtY04xaDhMdGl2dGFkXzRaVnBVM0JSa3IzQU5iYzdIOVJjYkRqMWdZRTlxdERrSW9TRlBBaEJYbXpMcEZHaFMwMmfSAaMBQVVfeXFMTk5lNUlITlJScEZmd253a3VBRFU3bDZFZDdYZDFXaGMzZzNhWmFvck51VDA1cmJjVk93QnVUa2xVZmt1Z3RHNFdWZ01KdEhKTkRWc2ZFUTJ0OWFqaDdnV2UyUTlzQ0htNkZUSVV1MzdscGZmVlNuZEZCekxBVEdINGNkODhXUkRyMi01ajdvRmx5TWJRTVRTQ2ZkUVBKUl81U1Jldw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYXoyeExtYml3SFRqSFUtTmMwdEJDcVVMZC1GeVhKSGRWQlVMYV9LU0M1aF9sUFVMb3ZHRVkwWm5GbmdIdmJVOExMZUlaSzU4MXZJYjlyWTdkUlZPNDNaS0p0bTAzSHBISmtSZ1hXRjlsY2IzanE5cTZlSnJZNml3MFJ5SWluckd0bUZHdkxOTFk4R2M4eVJCNmNPN0t1ckRKZXBJUVl3?oc=5"
     }
   ]
 }
