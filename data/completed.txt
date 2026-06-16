@@ -1809,3 +1809,4 @@ ia: Telefónica, ACS y Santander: Los gigantes que dominarán la gigafactoría d
 ia: Cast Your Vote: Support Maui Ku'ia Estate in the Spotlight!
 tools: La sostenibilidad como clave en la estrategia corporativa: ¿un nuevo enfoque para los mercados de capital?
 tools: Carnegie Mellon and Meta Join Forces to Revolutionize Emergency Response with AI Tools
+crypto: AMD’s Controversial Move: Stripping Memory Crypto from Consumer CPUs Raises Eyebrows
