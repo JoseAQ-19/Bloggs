@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-16T08:57:30.874416+00:00",
+  "scouted_at": "2026-06-16T08:58:59.438740+00:00",
   "total_candidates": 2,
   "topics": [
     {
       "rank": 1,
-      "title": "\"Cinco fondos de renta variable española que superaron el 15% de rentabilidad en 2026: ¿cuáles son?\"",
+      "title": "Descubre los cinco fondos de renta variable española que superaron el 20% de rendimiento en 2026",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "\"Análisis de los 3.788,25 millones del Extra FLA: impacto en el déficit de 2025 en comunidades autónomas\"",
+      "title": "Análisis de los 3.788 millones del Extra FLA: ¿qué comunidades se benefician y cómo afecta a sus fondos?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "\"Comparativa: ¿Qué fondos de inversión española han liderado el crecimiento en 2026 frente a su competencia?\"",
+      "title": "Comparativa de cinco fondos de inversión en 2026: ¿quién lidera en rentabilidad y comisiones?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
