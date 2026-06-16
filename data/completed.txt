@@ -1808,3 +1808,4 @@ funds: Active Management Shift: Roundhill Sports Betting ETF Aims for 15% Higher
 ia: Telefónica, ACS y Santander: Los gigantes que dominarán la gigafactoría de IA
 ia: Cast Your Vote: Support Maui Ku'ia Estate in the Spotlight!
 tools: La sostenibilidad como clave en la estrategia corporativa: ¿un nuevo enfoque para los mercados de capital?
+tools: Carnegie Mellon and Meta Join Forces to Revolutionize Emergency Response with AI Tools
