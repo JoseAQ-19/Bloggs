@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-15T10:36:25.120420+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-06-16T09:00:43.816496+00:00",
+  "total_candidates": 17,
   "topics": [
     {
       "rank": 1,
-      "title": "Amundi, CACEIS and Ant International Collaborate to Advance Blockchain-Powered Treasury and Tokenised Investment Solutions",
+      "title": "Roundhill Announces Transition to Active Management for Roundhill Sports Betting & iGaming ETF",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Smart Investor: 2026’s Big Winners So Far, What’s Next for SpaceX, and Bond Outlook",
+      "title": "Sophus Capital Launches Two Actively Managed Emerging Market ETFs on Nasdaq",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Kos Biotechnology Partners Announces Third Closing of Global Life Sciences Fund at $123 Million",
+      "title": "PGIM Announces Strategic Enhancements to Equity ETF Platform",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,19 +51,24 @@
   },
   "all_headlines": [
     {
-      "title": "Amundi, CACEIS and Ant International Collaborate to Advance Blockchain-Powered Treasury and Tokenised Investment Solutions",
+      "title": "Roundhill Announces Transition to Active Management for Roundhill Sports Betting & iGaming ETF",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQNnM3NnQ3N25sYUtGMWt2NzVXYVR2UDRNVkZKZGJRaDBwMDltTFFwY1FxY1h3Y2V4TTJ3YjFobXdsbnVmd3J4MUgtMG9rNndSLUkzTWNKbHBfdGJzSFlLaEM0YkxrT1ZSNkQxZ0hkb0haT2ZzbXZ4R1YteVo4WWpnbnR0cWdRTEV4c3dzWGNqS2g1UW9UeUFMeXRrYXpGTnBVaUJIeDIwOVNUekplOHJudzdvcUcxTTdrUWxLdTg2Y3RtMmotWDZ1RzFZWUtyZm16eDRPaTdseENFOENZZjdIZ3Bjc3RTcjNWNkljYzBGV3llbXZXM1dkUEZwWVdmeGZrUkhxMzJ1RGIza282RW1lVQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMi0xLW1hUFM2NlBFbmplOXJvcERiaGpnd2hhdEpoWWZhckNDRmFpSEZ4Y0FXXzVMbWg2VUNaYWx0amo2SzFQaXV3V3VSbGtEeFN6YloxRFNBSDlUNnNXN0xZMUVhVGpseVA3eENEUFBhNVZJVkpxcmNKUXhlNU8wYkhpMkdyZEJQNUJVVjVMOEs2QTBXN3p5SGVFVEJuOHJ0UURDU0lKUHNpRlZrMFFBdkJPZ2lGUjU0VjZHTWJEb1Y1R2RUQlMwNlpvMDhtSE94RnFlQi02NXNnd3VYNGRIdF9QNUxvOUJC?oc=5"
     },
     {
-      "title": "Smart Investor: 2026’s Big Winners So Far, What’s Next for SpaceX, and Bond Outlook",
+      "title": "Sophus Capital Launches Two Actively Managed Emerging Market ETFs on Nasdaq",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX1F3UHRJUjdfMlRKSndSSGJ5N3B1T2xPbHBtTUhOalNtckpZYk5OZnRCcTdqSkJhbEY3Ykp5V3AyVVA2WDhyTG5pc0NScUY5Z0xHOGRTZTVySVdxRlN3YXZaNWJXME0wQXNKd1lzUEM2WlZtRjVFaFdxbGlrbTdjUkd5Zkh2SWs1aHViTHpVQTNGVnN3SVlpaWlmTXFBbV9OdWFSWHpTdjd3dw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcmo4T3ZmeXZwU011dU90V2x4RTkzNkQ5RFVuaTVBZEl3VnVlSXplellYRDM5djdnSmVDLWJseXlHaFcwNFZlRkt6U1pyTGstMWRJTUwyd2ZHd1Y2WVRyem5YWWVBWG1DTjREM1dFS1VrLW1XYU5fd2kzczFDc2dSLVJNR0FaZnFPS0h5SXlsenlGeFV6S0FleU13N2VlQ1pmaWw3bFpQTTBrSC1Ka21HbTY5YWR5NVV0VWlJSlJGaWpFOEpvSDZoWHAyNmtvTm1KVVE?oc=5"
     },
     {
-      "title": "Kos Biotechnology Partners Announces Third Closing of Global Life Sciences Fund at $123 Million",
+      "title": "PGIM Announces Strategic Enhancements to Equity ETF Platform",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaDVGY3k3Z3lEVm94RFY1SHZIMnNlWk82enZuM2FmYXhmOHZVSFgydUI5Qk5URDZsT3cxeUJnM1g0U3VFQmJsT0k0a0lsODljdmJiVU1kSWNaWjlPUmhhUElhSzE3V3JNM290d3RuTV9NT3RKSml6dHB6TnpJMXl5UGh3MVRjd2JUUEtEeWJEbE9oUnQ4NVhTNUIybmJ5NXlEZDF3ZlNycTRBdXRPTzhNbHdjdEc2RVljZmZ3OFdINUtIWDd4dDd1a1pnV0tPVFdpVlN2Y1pDb2prWV9HSGhOWGNWOEt2b3RaMVVN?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYXFCZmo1Z0VOS013V1VHTUs4S3ZPbXFlWU91SFFsTVhyRjFzaE4zTE5hYzdOenNJRUxqM0ZMVHhuSnByNDZkSU5Ea0pZN1NmUUR4Zm1yQnB1UG9HekVlR0ZuSm5sdUdhNjBwR1JsbkduWDBUWUtSUUF1YmphbUNKeDBpWUpVOVJTdTlQaG9pUlV6QVhMSmR3WTBiQ01iTWxxQmNpVmdqTnNlMWlaZ3AyY3FHdkNON3lfOHd1ckxGbw?oc=5"
+    },
+    {
+      "title": "Morningstar and CME Group ink multi-year index licensing agreement",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONzlBSkFSa1RVTnBWX2RxR3VEZkFHN05YMGFXQ2E4UWxLWHI3NE9oTzNfZEd2cTNKU1p0YmFEeVI4bXI1eGpZZjg3clhqZVJQbXlTYXJ1ZURERVFvV1NUTV9FNG9XdmxIU0ppT0FOZWxxX21RTzB4RS13enpZX3VJUE1JWDFSQmpIZUstaHJwdHpLOGlVNzF4RWVYZHo0NXJCYWxXeQ?oc=5"
     },
     {
       "title": "Morningstar: Space Exploration Technologies Corp. (SPCX.US) IPO Pricing Clearly Overvalued but Short-term Performance Seen Strong",
@@ -76,19 +81,39 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTZpeW10NmVPUXdlZ0dTaFFfNHEwQzh0MU5EMkhBUFdERzdJZEV4V0liX2pmaEc5X2NIWktHekdRU0NhRmVLZEc0S0Y3R1FkanBDcURUek1QWTJtODliMG1kcGhZQUFxZVlzeG5HN3lUQzg0ZndWVGgzUEt5NW9vZTc2Qjk?oc=5"
     },
     {
-      "title": "This AI Cloud Stock Is Up Over 300% for the Year. Can it Rise Further?",
+      "title": "Cathie Wood sells $16.2 million of tumbling megacap stock",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONU1OSW1IQ25EN2NNaWVqRV9HV0Rpb3NrY3BmakJvSG05WDJMU0R3Z3RpVEpvbkJmZjIyUnhIOGthUnE2Wm9pOUNKYlVVWE9LanlMdk9YVTh1TXNLUEdubUl6UFB6WFAyZWRXU2FmelNoejFWRUpoZEFyUXdXclVCRkUxRVVMZXRuZ2FXWnhCaDB3anBTZDdRSFZn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhSWkzSl96TjZvOS10TFFCZzd4X1dxdUwwNnltNHBHN1pzTDJ4NHR2YU4tQUtzaTUtVXpNR2hMSTV1cGhDVXhyZmJiNDlhNklCcDRDWi1EYVpZS3VtT1lBdzZmMzFWUkZla182NzJhdm9rWE91bWo2MU9MVQ?oc=5"
     },
     {
-      "title": "Ecopetrol and the Oil Workers Union (USO) Reach Final Agreement in Collective Bargaining Process",
+      "title": "3 Best Nuclear Energy ETFs for 2026 and How to Invest",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbmVldGZsak1LU05NM0pSa0JpOTNIU0I0Ml93VmZiSmpDbTlHYTBTekVDNDRPUmdKNk1MMUtleVhvd3hNLUJZM2xGb3FUUWRyZ3JqUWF6a3F5dXk2eTNhUUhnb21ySmRIRHRFaVBVZGh2UXdIUC1oMkkwblRfSzBNRFVaWF8tWXRlMjRIUUtlTVFzVkhXQVQ2Z0RYZHUzVng1di1jdUdiQU5fR1BBbW9rcGxWYUxGdF96NVRqNGtvU0lfTnVmb2RIWHZuTUhTOG0wOUJtUDhVZE9ROEJsajRDMUo2UmlSN2ZqR2RF?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPckw1dlctX2gxYjgxeGpYMnRUcmVJRnMwY2piaTgwQ0NHQVFCdnFJOGhDZWNQZThWVnRNNm03RnE0ekVBMW5RbkxfTFRtTDFteXREQlljOGx5emxoVU9ncXo0c3lfbmFkWThiNFV0WTJLMWZHNGNFSDJEWTdrekVmSlJXc09HZEozMnJESjhpenM?oc=5"
     },
     {
-      "title": "Sector & Industry Performance",
+      "title": "Best arbitrage mutual funds to invest in June 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWEtZUzJ1Y0JsejVfb1o5VkF5Z3BFdWVwYzdCcEJ6dWJ3N19uOFNoY2VaYnMtUVpLeTdSUE83a3pkTWtOQmpTUm01aEJteWVhNU5n?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa3luWmE3TTRwUFRLNUZOWHBTQU9QbkpJSmVqQjNkVW5RLTVJd3JqamVRMkp0TzczclZqWVFmalB5cVdCVDFWWHJqeHpmSHREVXIxYWFBcVZhdllpVkV4X1hSWjNJb1dFQ0JvQmxhTVpibWRHQno0bmdteDJNOWtTTzZmeFZPMjJhRUlJbVcxUUhUbWFwdGxsQkM4YTdhYlR3MHFuQUpHanNWMV9rbnJjazNpOGxLTUtiZWxVZNIBvAFBVV95cUxQa3luWmE3TTRwUFRLNUZOWHBTQU9QbkpJSmVqQjNkVW5RLTVJd3JqamVRMkp0TzczclZqWVFmalB5cVdCVDFWWHJqeHpmSHREVXIxYWFBcVZhdllpVkV4X1hSWjNJb1dFQ0JvQmxhTVpibWRHQno0bmdteDJNOWtTTzZmeFZPMjJhRUlJbVcxUUhUbWFwdGxsQkM4YTdhYlR3MHFuQUpHanNWMV9rbnJjazNpOGxLTUtiZWxVZA?oc=5"
+    },
+    {
+      "title": "Beat the Market Like Zacks: FirstCash, Cisco, Bread Financial in Focus",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS3Z4NVI0MVo4NE90VE96MHMteXpMc2tKZlNial9tRDZ0Yy02U0FpWjhpeHBTX1dEdUx2SmxEcUN1dzhGcjBwSmZfVHlseFdmSlRwNzV1ekZ3djBwdF9SczFtbnpDWFF2THB2Zk9yNFRVdUlzUWsyU2NZeURfeHRuYkhCRFFieHVwQzhDVjQyUklSNURsaHJMcnVITHFTTXpkR2wxc3pGbjdKNDlIUjRPRWlQWEhob2FHYUdwLUt6MkY?oc=5"
+    },
+    {
+      "title": "Solid Results Lifted Equinix (EQIX) in Q1",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNGo4SEJGSkNOdEk2LXZ4NnpHcVpvdHFJUUVOVUpaRnlyYnhfR0pqQzdSTFBzc3RadjJSemxWMVgyaGhST0picHBxeV9VZlhSbkRnOXNYNFQ1VVNTU2FCcFlSc3pIZm5tLXh6VnZWZEV5d3NmYWJNd2x0dGc4MTM4NEVlRUpIMER6Rk1F0gGTAUFVX3lxTE1DN2NIaDg4cDRfb3ZveU5ITzI5R0RJTl90UkVJY3NBcS14cUxnNkk5ejNhWWxoX19HVHVIMGdsZm5udzhYUnQzcGJ2Vm1Cd0g0RHFpVVBQVTQyU1FpemxwaWlRTkx0d1NiT05XZUxzR2hJZXhqUmQxRjRCZ25oU2xOQ1p4TjNBeWpsaVkyMmlHYVYzbw?oc=5"
+    },
+    {
+      "title": "Sunil Singhania-backed Abakkus Small Cap Fund adds 3 new stocks, increases stake in HDFC Bank, SBI and 49",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQY1FYazdIMGVMa0I5YTBmX0JMV2RNM0ZoeW5VTEx5UE1GcDAwRWg1aHN4TXluaWs1QWxuMC1iM2lPNjFEWHJGcXVyRmRsVG13YW5JdVdjSWtNMEJqc3N3cnp3aXdjMFdNenY4Y21sS3kyMnFWX2Q5NWp6czdTSlh5UEdBZl9jdGFxTm5mNmFJNnhZaGlzUUtvSUhDUmItYWtaREJ5UDlwQlI2XzJ0Zl95RzlQSFRadkpkcUluZWY2NG1fWlh0OWVRT0Z4YjZKMHd1TXFjbkpMUGt4V3cyQ3Q5NXVWc3JfcVlFeTctd2pIblVBM25UbWN0ajY0cGNIU1hRTE5LcmNZT3lWVUQz0gGMAkFVX3lxTFBjUVhrN0gwZUxrQjlhMGZfQkxXZE0zRmh5blVMTHlQTUZwMDBFaDVoc3hNeW5pazVBbG4wLWIzaU82MURYckZxdXJGZGxUbXdhbkl1V2NJa00wQmpzc3dyendpd2MwV016djhjbWxLeTIycVZfZDk1anpzN1NKWHlQR0FmX2N0YXFObmY2YUk2eFloaXNRS29JSENSYi1ha1pEQnlQOXBCUjZfMnRmX3lHOVBIVFp2SmRxSW5lZjY0bV9aWHQ5ZVFPRnhiNkowd3VNcWNuSkxQa3hXdzJDdDk1dVZzcl9xWUV5Ny13akhuVUEzblRtY3RqNjRwY0hTWFFMTktyY1lPeVZVRDM?oc=5"
+    },
+    {
+      "title": "Baron Real Estate Fund Sold Its Position in Blackstone (BX). Here’s Why",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWZlZlJEa2NOQ0g5dk84TlRlUmg2VlVVZkdjUVcyZTBJN0hNbkVoRjVzakVoRy0wQTVCcXl5blc1NHBXZE8yY1BFdmJnNzBLaENGWEx3M3YydnRjOUdQVG9wRktvd0doUjZ2OHFEYy1UeVNnU3RSV0lIV1h4aFljRmFkMDNtSnU2MkVyNnIwX01GT0tTRm5jeGd3dnpNV1JLMjNOTXFJRy1fQUUxdndUUE01UDVRZ9IBvgFBVV95cUxNSmY2Vmwwc1JLbDdBWW5WcUNvZ2toeENVR3R0LUVhN1dQYTFIRDJNMkU0UXZZR0gtU1gtdnAxU3VnXzhXbHBJMzkyZERYaGZITERlTGZkQThoTFpWUDJMZ1dxNjFEcjlCd3NKM0s0dEUtR2V0VldtOXU3NE1lNzRoaW9ZNnBydHZtUGZ5QnBDNFBpbXJlUUJ5V2VIUGZ2VkZZTlBBMGpNNkRSUW5wX3laRV9LcVpLTTd3UUszdktn?oc=5"
     },
     {
       "title": "Think index funds are foolproof? These 7 myths can lead to costly mistakes",
@@ -96,39 +121,19 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeTcxcnJBd0N2RVVFWWtuTU9QSjdGZW5rS0M3MGtFZmszc3N3TkRDdlJqNXg4eWRaOTluZ3pfUUJVWGZtRlpmT2RBUGx3VG1LVkpRNUZZQ3RPMWNZWVViTjc1enN6YUhlc3RqSHFGRmZpWkNkRFFuN2tTX0R1bmlERk03Y1p3NEY0TmUxWDZ0UWM5S0prTEFKTlJWdy0xeGVqaTlBeExzQ2lhR0xQTDJsUUhtVTJTRDRmU0N4cnI0LXAwdU9ETzBYTFp0UlJKYzFrVm9WYUcwY3XSAd4BQVVfeXFMTUFwWUFfeFdrcTJENmZya2t6ZDN3RWdrYjFldjEwRVlSNXp3bjN4TnZMSkJBaFU1VFhqWUkxMUxxRnN4NndmakUzYnYySnNXdnBYMElKVXFFMHgtanVRcUFfMFJ6UDRwSmo2YnVlQW9RNmZwdHNmWWtRbUkxdmwxU1FsdDVjaGExQTNwUWNrTTZRTWMtdEhDMmtFMVZneWxjVGZNRWExOGhqUXJEQ2lqMWpyWW1halQ2Q3RacnB3SElFNUpmZll3Z05jM0F6MGJaUTFPbG9wTlU2V1gtNWh3?oc=5"
     },
     {
-      "title": "Investing in passive mutual funds? Beware of these 7 misconceptions before investing",
+      "title": "Fidelity Joins BlackRock, Vanguard in Offering Annuities in 401(k) Plans",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWIwNzNoUDZzVXhZeXRZY2Q1bmNNYXJvY0luOGtWNkxRRU9fdnpYZXM0aU9tQ2k2S1hBd2N5ci1kVkRtZkVKdENVWDJGQnU1QlU3Z01QbUZMM2pzcWl3QXc0d0xRZDB6NnIxQ25wN1E1VDFiSVRDQVJZZy05NzNBblZseW8tc1RrMVM1WnY2X2xBVjEtMExpVXlvc1M4b0p4WDVzNzV6Zl9yOGlmeER5VXN5SzRjeTRNZVpvRnlxeUM2OVhVbi1mb3BPeWNPUDlFdTlBYnhtRkhXbVhjNjdTUFZVT0hJQm9KTmVNTg?oc=5"
-    },
-    {
-      "title": "How to get SpaceX stock — without buying the IPO",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGduT0JJUWQ1ZWM2M2l6TnVOZGRhUDI2eklRZkR5Y3RtV2RjSnlKbW1WMm9BUGEzbkJxRFNmdFJqTnNyU0FuV0R4UjlWaS02MGJ2RlZYbDNuOW1oU3U3aGdIb3RpZ2w2b21kU3QxRFJhcDI3NWpua1p3TENvZkVsWWV5WDhvVnc5Njln0gGQAUFVX3lxTFBTM1NPMDlhWjJ3VG9rYTN1TXV1a3hUVTBVZi1fTXBWWU91YnFjN005c3VibW5ZaXo1RnpQVzZaQ0FHTmo2Y2tKNzRoOVllQ3luOGZReTlUSlJVYzZMY0NWdV9kdFNUbEM4UVlrdlp5QjNYSGlOZGIzb2xpSjdRWUl4TmlSTmdVdGJ5MHd2UEM2cQ?oc=5"
-    },
-    {
-      "title": "3 Best Quantum Computing ETFs for 2026 and How to Invest",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONGw4NnZPZWFXSi1YWEU5eXpOVnFiZGVqQ3NTeENiS1ZOZGRPVFJCZHhKbG5EbU5lUHVBSUh2Zi1IYmVTZlhSTFhjVmttRVdnZUJZenF5d0ZqemV3Z3dYQmN6M0pmR2lDdHVTc0NNbzZfUXhTeGhMQVdrS0FfbzhXZnlncG9RTkNCN0RxcXR0VG1BbTFOU2YtWllybDRvNm1FZC1SRnJPLWZKaV9FSEZzQ1JBWFE?oc=5"
-    },
-    {
-      "title": "Garmin Stock Records Best Day In 10 Months: CEO Calls 2025 ‘Another Remarkable Year’",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPczlmZVY0U25uTDk3RE83dUEybUR3SUFJazdlQWVoMFBEaUpVR2p2SkhDbnNvcGRWMDl2ZlB3TXpEa2U1VTRnNU9GSTFWNFhaV0RhVE50QlVvUG5uMFhUdWRwbFExTnZJN2lVS2FPazh2X3Azb0wzQ3QtbTJ4bEhHcTdLdVU2ZTc1VXVqMVNpaXlwc0llY3RUVy1xWTVsWDVEM01jckpOX3I1NENsbkdtWldEaXVkclVCUFJETWlGc3hNS0d2aDc1bGp5b0tyZFplTHUwTWZDMnNkVzhOSXc?oc=5"
-    },
-    {
-      "title": "Our Pick Of The Best Investment Trading Apps For Australians",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdTdJb3pJbTRGb0xkSFBvQklNRGRhMkJickdZUjNuVllnZGwyenUwVzkxMEhOOUliTGVKelRTS2otTDdfcmhPcmJEWXE0SFJ5dzg1SHVIUW4tb2ZzMXE0czJwS0J0X3ZPb1dsWG9CNVd0bjdZaFI3aDlTeXJfZFFndmUwZW91eEQ3RjJN?oc=5"
-    },
-    {
-      "title": "Guide to Dividend Aristocrat ETF Investing",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZlBzQWxxSTd1NHdGeUZfMExlMUdIRXVYTUo2Y0xNQV9CQ0RZNWw4N1NyZFpyU0lqbndXTmlVaHdJQ25YYjhIcTJMb3hrdklOQWtuNHo1U1JGR3VXSTJfTmdabm9QaTV2ajlneFFPMWRFSW5zWVM2Z0VqUXVtM1FJQzBCV0ZlTkVVdmhTSWRzU3VoeUx0THNJVlRRZlFQZ2c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMmZTX3RiN1ZDd1NSbHlVLUdZak0tc2RxdWZyblotRkVSZ2NrcldEWEpQa0xNb2VLSVZaT0dwQ2J4dk8xNkNoNWRPQldncEo1amZXeThhSTRFdzhZZ0Jqd013MDVKYlRjX2lSU1ZBUTBVM0o0dHMxSWoxNjBQMUM3ZnhTdExQUU9NT1U2VGxIZmRkWmxlc3lRU0VPTVBMdFB3TEtRbS1tX1JRX0ZqQWJiMVBveEFBY2t0SEh4RFVPWnQ?oc=5"
     },
     {
       "title": "Fidelity, Vanguard and BlackRock are all adding annuities to 401(k) plans — betting retirees want pension-like income",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQXVYWml0UWItTGVGMWczR0VnY3hzYXNkTFY2YzZTUmVtZlpKM01SSVlGS1h6M0VnZVBqTDhxYkhULTFUOFBNZDFkdTV0VWYtcjMwWHY0eWd0cE5odlRBaFJSLWhCakFES3VhZ0JyOGJPTWJoQVI2MW8zWThXYTF3dXZRemVES0RFeUN4UFBUTWsxT0lNNV9vYXNYUjdZSWlpeThtclJtOFJGRDBBaWJz?oc=5"
+    },
+    {
+      "title": "Scale as table stakes — why the $100 trillion asset management industry favors the largest",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX196MERLOXhKQVItNWFrRkw2ZFZDVXdKM3pGN29qUzNvSk5McHJ4eDYwenlNZnNYWDdTWUVER2VSWG9TcmZUaW9mZkVvS0dxRU94Zm15UDNjLUdHMUFnZHBkdWtnN1pUZ01peUhoUjZnS2RMNng5LWhRaFlLM1ZwMDBrTjEwamI5Q1l1MFNZTkltOW1Oc0RvOGxwODhiX0htNlE?oc=5"
     }
   ]
 }
