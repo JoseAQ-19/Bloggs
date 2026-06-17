@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-16T08:58:59.438740+00:00",
-  "total_candidates": 2,
+  "scouted_at": "2026-06-17T08:46:01.468955+00:00",
+  "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "Descubre los cinco fondos de renta variable española que superaron el 20% de rendimiento en 2026",
+      "title": "Descubre los cinco fondos de renta variable española que superaron el 15% de rentabilidad en 2026",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis de los 3.788 millones del Extra FLA: ¿qué comunidades se benefician y cómo afecta a sus fondos?",
+      "title": "El Ibex 35 alcanza su tercer máximo histórico: análisis detallado de las acciones de BBVA, CaixaBank y Santander",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Comparativa de cinco fondos de inversión en 2026: ¿quién lidera en rentabilidad y comisiones?",
+      "title": "Análisis: España destina 3.788 millones del Extra FLA a comunidades, ¿cómo afectará esto a la inversión en 2025?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,9 +49,24 @@
   },
   "all_headlines": [
     {
+      "title": "¿Qué valores españoles pagan dividendo en junio de 2026?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0ZLTWlTbEQ3WFc4bmNqWlZTUWk1ejZzaG9DOVltaTlBQlBtRTJaU21Ybzh1YkJnZ1VQUW9na3Uxejk3dXRiQWtVeGROOEROTkRnZ3djdWlBY0NkMjkzZ2N3cUZSTXJMQkdQWm13UGQ3OGxFSEVadEh4SDRNSm5QczZ6VlhuQmZvX2VsVUdIOTFZenU4WmhldzVtOA?oc=5"
+    },
+    {
       "title": "Cinco fondos de renta variable española ganadores en 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmFxRThnR1JWc1BSLUpMSXcxVG9vX29sb1NXcTRHVnFrX1Q1SjVtQkxZQ19sSkplNVFaTjBoRVJPZG8zdmtFSmFuYS1rR1h0X3dVd2E2Z0NDTWhBNzlPVHVHSlJSaThLVURBbnV0Z2lhYjNFckIyTkMzOEd2SDR6YkxOUGJzUWVCZ2VkaFZ1UlBUTjJZSlRPcHJZN1psSnc?oc=5"
+    },
+    {
+      "title": "Los precios del petróleo caen ante un posible acuerdo de paz entre EE. UU. e Irán",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWQwVUxQSXdYNGZYbHN3a2hFTkRYSUdJUE9MRnlOdVhXSVRkeU4tRmwwVUhJOFZjQk5wY1ItRTNCc2U2aG05b0ZqTFZoV0ViMFNHVmtSS1VFVDk4NXJ0MXRiRkI1SzFSYXFNWE9MZkhFZ0RDMWJKRWRKSUI1SEZzXzFiWWNaX0Utbmk5bUJ6QWk4RGFsN2VXUVIwanRLTHlGNEJ6UWhHdGVXd0Y0WWlSZWtMYW5iU19UYXlKSQ?oc=5"
+    },
+    {
+      "title": "En directo, bolsa e Ibex 35 | El Ibex 35 marca su tercer máximo histórico consecutivo con BBVA, CaixaBank y Santander a la cabeza",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd3NPMjRfV0huSllGVTFxUzdya0I5eTNLdHhGTUZma0NLT2ZHYTM4eXlwRENoYVdPVkxDaEhMZHlZSm9mSmFmNzVPeE5GSXg2T2hxTnFCVEdKWU1raVZlWHZvSVp1NDVoVDhRaTNfMXkzWGEwbnlHM2FXYWJHbmg4X1F1UFdzRnBBTHFrWA?oc=5"
     },
     {
       "title": "España asigna 3.788,25 millones del Extra FLA a cinco comunidades para cubrir déficit de 2025",
