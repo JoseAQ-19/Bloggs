@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-18T09:57:11.266831+00:00",
+  "scouted_at": "2026-06-18T09:58:45.405678+00:00",
   "total_candidates": 17,
   "topics": [
     {
@@ -96,6 +96,11 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUDNDZmhSWXhsb1hJNHplMThzSExJaHhyYTk5N2JiSUU0N1IwRUxXem5Id3I5YldrdzB0NDZteGJuMGllY1p6RUpPRUdEbG1VZi1GUmFwV3dKWEFzSW1kUjBWcHVjcmRBeXp4Y0hqWS0zMzYyNEM2emxSOXdtNFE?oc=5"
     },
     {
+      "title": "Sector & Industry Performance",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWEtZUzJ1Y0JsejVfb1o5VkF5Z3BFdWVwYzdCcEJ6dWJ3N19uOFNoY2VaYnMtUVpLeTdSUE83a3pkTWtOQmpTUm01aEJteWVhNU5n?oc=5"
+    },
+    {
       "title": "The Best Energy ETFs to Buy",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkR3l0bFpwc2RsWHdsQllTcWRvYkVDVTBmNkp5c3cxZF9xNlFmUEp5eVdzSWxyTG9hSlFrYWZ2Q2JnY095YllxZXR2MU90ZS14MWdjdUo2eUdJcUx0M3BYdzdiZ0FxX1VBM3JMRmxpSGFJWktJ?oc=5"
@@ -119,11 +124,6 @@
       "title": "3 Top Mid-Cap Stocks for 2026 and How to Invest",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSDF5cE85bVZzQng2VkRFaWx3NXZ3SWl2ZFUtUVpOdjVoTlMzZlY1czVCMEh5cS04ZlQ4ZFVld0xLOHh2WEh0YUVGMFdVczlQeUswTy1hcWhhcnRzeHZaNWRZUFpYajQwT1o5YVZuc3h3N3ljUk9fSExJMl9GNF9DRA?oc=5"
-    },
-    {
-      "title": "3 SGX ETFs to diversify dividend income beyond Singapore",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZaXRoUTg4ZGw3aEZuSV9EQzRmWHdFOHBrYWppRDVwOUNyRE5kbWN1TlZsVm5UVXh1d1FDUGl1VWpNN3VLTEJDTEJ0U3BDSEQxamlRSkNyYXM5R0ZoblZfbHJMZHFpNHV3Qm5nVzhR?oc=5"
     },
     {
       "title": "Fidelity Joins BlackRock, Vanguard in Offering Annuities in 401(k) Plans",
