@@ -1835,3 +1835,4 @@ funds: Morningstar Reports 25% Increase in Advisors Shifting to Private Equity a
 funds: Private Equity and Venture Capital See 40% Rise in Advisor Allocations This Year
 ia: La IA sanitaria en Europa: ¿retos que frenan o oportunidades que impulsan?
 ia: Fire in Mapleton: Family Escapes Unharmed as Crews Battle Flames
+tools: La batalla de las criptomonedas: ¿BTCUSD alcanzará nuevos máximos?
