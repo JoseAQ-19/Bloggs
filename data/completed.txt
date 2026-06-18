@@ -1839,3 +1839,4 @@ tools: La batalla de las criptomonedas: ¿BTCUSD alcanzará nuevos máximos?
 tools: Clio's Bold Move: Free AI Tools for Florida Lawyers and a Commitment to Train 25,000 Pros
 crypto: El mercado cripto en la cuerda floja tras las últimas declaraciones de la Fed y Trump
 crypto: Crypto Chaos: How a Jury Duty Scam Used ATMs to Drain Thousands
+crypto: Crypto Crisis: Why the Agriculture Committee is Under the Spotlight
