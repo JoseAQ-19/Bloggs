@@ -1842,3 +1842,4 @@ crypto: Crypto Chaos: How a Jury Duty Scam Used ATMs to Drain Thousands
 crypto: Crypto Crisis: Why the Agriculture Committee is Under the Spotlight
 youtube: ¡Polémica en YouTube! ¿El fiasco de Portugal que todos comentan?
 youtube: YouTube's $60B Revenue Surge: What's Driving Ad Spend Growth?
+youtube: YouTube TV’s Silent Shift: Why Roku Users Are Feeling the Heat
