@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-18T08:34:18.109623+00:00",
+  "scouted_at": "2026-06-18T08:35:45.047133+00:00",
   "total_candidates": 4,
   "topics": [
     {
       "rank": 1,
-      "title": "Cinco fondos de renta variable española ganadores en 2026",
+      "title": "Los cinco fondos de renta variable española que superaron el 15% de rentabilidad en 2026",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Los precios del petróleo caen ante un posible acuerdo de paz entre EE. UU. e Irán",
+      "title": "El fondo indexado de MyInvestor que logró un 20% más que el S&P 500 en 2026: descubre su estrategia única",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "El fondo indexado de MyInvestor que bate al S&P 500 en 2026: qué tiene de diferente",
+      "title": "Mejores cuentas remuneradas en junio 2026: hasta un 3% de interés sin comisiones comparadas",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -64,9 +64,9 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM096R2ZTbTJFUXpYanNtTVd4Nnl1aTlPSmZLaHI0TzVfVUx5TDFoZ3Z3MXI1dnVoZ0pwWmNuZ3FVZXQtSzJPcmtaZk5RZ1Jua1dxMGl0Yy1oZzFHcXlkaDRHYlY3aHM2NzVGcjB1Q2Z2RVZEc3dBRjBiZVdmSkxFUGQzaHIwaEtxTEZvdEpDZUgyVWwwd2kyNkhmTko2Ry00cTlURmw1eEJmUXFoQThmSFZXdXNWcDNuWUZmWWxuYlpMc0dIeC04bXZqaWxmOVFl?oc=5"
     },
     {
-      "title": "Perspectivas de Mitad de Año: ¿Un mundo disruptivo? La resiliencia perdura.",
+      "title": "Mejores cuentas remuneradas: más intereses y sin comisiones en junio 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdl9MTnRNb0VZZ29ndWdmTVprZDFTUkUwcDR3aUhBVnBzVEVjcldwNGxULWE3TXhGV1hpdS1VTUxIMDRSRUxDeThGLXM1TmhzLTlYVXc0RGtxcEoyWDRQeW9xQjE3SmhkamptUVJnSnhaMUFnOVJYM0pjckhGWnRVYk9id01iby12ckE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZlFjN3paakxwVXBKOFdLdVhDMEIxZnQ1Vnh6MFlYR2t5dXZsSGNpVGsySE9RT1N0X3Nka2JhUDVJTl9taFBsaWhmUzB4UmN6VTdCb3B4dTV1S1JNVnV1S0Jsb1JNN1MtTURLNjRORG80dFJWT2cwQ1NCVEJfa25TUE1YdmZiZFRDbWc?oc=5"
     }
   ]
 }
