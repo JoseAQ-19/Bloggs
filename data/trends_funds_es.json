@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-18T08:35:45.047133+00:00",
-  "total_candidates": 4,
+  "scouted_at": "2026-06-19T08:48:10.537010+00:00",
+  "total_candidates": 8,
   "topics": [
     {
       "rank": 1,
-      "title": "Los cinco fondos de renta variable española que superaron el 15% de rentabilidad en 2026",
+      "title": "El fondo indexado de MyInvestor que superó al S&P 500 con un 12% de rendimiento en 2026: descubre su estrategia única",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El fondo indexado de MyInvestor que logró un 20% más que el S&P 500 en 2026: descubre su estrategia única",
+      "title": "Análisis de los 7 magníficos del Nasdaq: ¿pueden estos gigantes tecnológicos triplicar su valor en la próxima década?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Mejores cuentas remuneradas en junio 2026: hasta un 3% de interés sin comisiones comparadas",
+      "title": "Los mejores dividendos de 2026: ¿quién paga más, España, Europa o EEUU? Descubre las cifras sorprendentes.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,14 +49,9 @@
   },
   "all_headlines": [
     {
-      "title": "Cinco fondos de renta variable española ganadores en 2026",
+      "title": "Las mejores plataformas para invertir en fondos de inversión en 2026 (junio)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmFxRThnR1JWc1BSLUpMSXcxVG9vX29sb1NXcTRHVnFrX1Q1SjVtQkxZQ19sSkplNVFaTjBoRVJPZG8zdmtFSmFuYS1rR1h0X3dVd2E2Z0NDTWhBNzlPVHVHSlJSaThLVURBbnV0Z2lhYjNFckIyTkMzOEd2SDR6YkxOUGJzUWVCZ2VkaFZ1UlBUTjJZSlRPcHJZN1psSnc?oc=5"
-    },
-    {
-      "title": "Los precios del petróleo caen ante un posible acuerdo de paz entre EE. UU. e Irán",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWQwVUxQSXdYNGZYbHN3a2hFTkRYSUdJUE9MRnlOdVhXSVRkeU4tRmwwVUhJOFZjQk5wY1ItRTNCc2U2aG05b0ZqTFZoV0ViMFNHVmtSS1VFVDk4NXJ0MXRiRkI1SzFSYXFNWE9MZkhFZ0RDMWJKRWRKSUI1SEZzXzFiWWNaX0Utbmk5bUJ6QWk4RGFsN2VXUVIwanRLTHlGNEJ6UWhHdGVXd0Y0WWlSZWtMYW5iU19UYXlKSQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnNsTkpKYkxxYmVjdEM3ZkpJU214X0FSLUhrOUNHbUg1aWRaaGdUSmlwQmZWdWgxVWVfUVF3WXc3dVotSnB4T3RQVllZclNIMkxZbUVEb21ueDMxbDJsTzZjSDJkNHZRaERMNHlXcWRBWlMwUWg3Z3l2MVlpNFB0UWxBQXp2dGREUnQ4MzRfRWoxazRtdmxvTm1qY3VnVmxDX0R3Z3hjM2hJT0Fy?oc=5"
     },
     {
       "title": "El fondo indexado de MyInvestor que bate al S&P 500 en 2026: qué tiene de diferente",
@@ -64,9 +59,34 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM096R2ZTbTJFUXpYanNtTVd4Nnl1aTlPSmZLaHI0TzVfVUx5TDFoZ3Z3MXI1dnVoZ0pwWmNuZ3FVZXQtSzJPcmtaZk5RZ1Jua1dxMGl0Yy1oZzFHcXlkaDRHYlY3aHM2NzVGcjB1Q2Z2RVZEc3dBRjBiZVdmSkxFUGQzaHIwaEtxTEZvdEpDZUgyVWwwd2kyNkhmTko2Ry00cTlURmw1eEJmUXFoQThmSFZXdXNWcDNuWUZmWWxuYlpMc0dIeC04bXZqaWxmOVFl?oc=5"
     },
     {
-      "title": "Mejores cuentas remuneradas: más intereses y sin comisiones en junio 2026",
+      "title": "Potencial de los 7 magníficos del Nasdaq a largo plazo en bolsa",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZlFjN3paakxwVXBKOFdLdVhDMEIxZnQ1Vnh6MFlYR2t5dXZsSGNpVGsySE9RT1N0X3Nka2JhUDVJTl9taFBsaWhmUzB4UmN6VTdCb3B4dTV1S1JNVnV1S0Jsb1JNN1MtTURLNjRORG80dFJWT2cwQ1NCVEJfa25TUE1YdmZiZFRDbWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWC1xTmRQcGJ2QVdsaEJUZm93Sl9CUWJDN20zdV9HQ3U5S1F5azJpekdSTzgtYnQzeUhtNWdXSTZOd3FsdkRvWTdnM3NjeDFFaVY2RzRvTDQ4cmx4LWpHejE5VEVGQnpzS09Tamh4SnFYSHVLeHpTSjkzVjBhQzZpOC1sOG5fM015ZThNNHRvai1WWEpmbjlLV2ZMeENzeXR2cEJEZ0pjLWZqNnJpQm1OdnlDSHRTOGxNR0hiZUN6WDlZUdIBngFBVV95cUxQT3hoWVdaX1FybFhSSG9mQVhBSVQ2WnRhc2tDcGpUUGpPWW5TUVJxSG1UU2FYQW1ublM1Zi1hWEFOMUxtTkdYcnRZcXF2TlR3VFdLVUVRUkp2Y1JVWEttc1pCZnF4SGYwQ2Y2bENUdVZvT2JPQkIwSkR0Sm9CQkdLemRSOFk1eVQyQVYxQUhfRjFyYXFtTWtpZnVRWkRMUQ?oc=5"
+    },
+    {
+      "title": "Los Mejores Dividendos de 2026: España, Europa y EEUU",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS2ZTaVBndXRQTlE3Ui1vVDJ4YVRCQjBib0RkbkpaanFRT09KcDAwSFpsQnlQckxjVjI4MzlnM0xxRmdWOVFwSmFyekhfTTJCcnRTeXIzTWNGZUctdjgtUDZKQUY1ZjBfbmhqQlNRZUVUMTc3UDZHM0tseFR2ZXpsYkpOeEU5Zw?oc=5"
+    },
+    {
+      "title": "Revolut vs Trade Republic: ¿qué cuenta remunerada elegir en 2026?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFU4YnBLNlBMejZGQVo3Nmc2N1lDZkROclluQVFvX2E5MGtreHI2QnFYWHpsSjM1eHo2Z2dLNjdTSzVhMHZXSnlvUWZuaWVkQlVsT2lYd0UzVGNJT25OODVDRjZfd0l3Rkl3MGR6eDZFUXdnYWY0SEZPMk83VTJBeHpHTng1V0Nuc2d5WWdUMlUxdURpVnBwVG1XVG9xZ3VuMnUzM3k0RDZmTGo1UmxwcUNQYw?oc=5"
+    },
+    {
+      "title": "Mejores Neobancos de España: con IBAN español y en el extranjero",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZmJ0NXZfcnRyX1BxekR0TlhGRFNMelpPb2ZHVmlsYzFDUFRpbXZTVGd1V2RRalR2QVpXZnBpT2o1a2hNUWY2S3ZJS0EzUmR5MXNPNnc4YzZTQVJhQjNCampyNERLS3JvYWNaVnZ2UU1jMDVCVEMtbC1WNDFPUWlURDZ4bE82cjJpUnpVV2ZUcUc2aWxVZ0EtRDFlSQ?oc=5"
+    },
+    {
+      "title": "Los bróker esperan que las acciones de BBVA y Santander suban un 30%",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTU5tYTFsZmRFeWFzaFNEVlZDM2JwMTdjdEJWVXNJSEVVdEw4MzdVdHRqVjlTWWtqblN0dzNUb3lPT2xDd1ZyWDlVYkpTN3pLc3JPVVJtbHlaQkljRWRwV1AwNktlR1lhd0tGeWdyaWoyNlluWk9EY2NrSFFiMXFncDRDWWo2LVFOdVQtWWNveDZ1THRSYkQ0eTlzNjlZaG1ibFdFWldPSU1nWWlqRmNSTGdFczFLR0lMVDdEbHpnaVZzdWRQOE1rR3UyeTBNaDBkSFFCVFAwZ3hBbGdicXRrVUFvWdIBngFBVV95cUxNcFhTaXZ0U0VOa3AwY1EzdUZobGRjMTNLLXB6NExab1VZbzRkZDNSVm5RMklmYmN0MnBldVdjRHc5dEhkWWluWVBpX3Nla0laZUpfbWktVmRFa2ZNWmdzRTJrNkNUQlVNemZnNnVfYWdySTVDVkNVRFB1T1YxMGNtUzB6cEt3MGs0M2piOW9FVlNTUkJBVWFJaUtiazg5dw?oc=5"
+    },
+    {
+      "title": "Mejores cuentas online sin comisiones 2026 en España",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOUdXZFltU05fWUtKM1N4akVyTVNZMEJZSWJpZV80ZGR4TjV1ckJFWU5ZSXBqWmtKeVhTNXNKc1pEcXhaM1FyRWhpa0M1cmRlbldfTVdsMmF6ellQc1Aya2JrUmQ5VzQ0di1YOEo0MEhuR240S0ZXOHBqbDRVNTJLVkVLbw?oc=5"
     }
   ]
 }
