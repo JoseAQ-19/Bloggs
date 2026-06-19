@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-19T08:48:10.537010+00:00",
+  "scouted_at": "2026-06-19T08:49:40.552325+00:00",
   "total_candidates": 8,
   "topics": [
     {
       "rank": 1,
-      "title": "El fondo indexado de MyInvestor que superó al S&P 500 con un 12% de rendimiento en 2026: descubre su estrategia única",
+      "title": "Las mejores plataformas para invertir en fondos de inversión en 2026 (junio)",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis de los 7 magníficos del Nasdaq: ¿pueden estos gigantes tecnológicos triplicar su valor en la próxima década?",
+      "title": "El fondo indexado de MyInvestor que bate al S&P 500 en 2026: qué tiene de diferente",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Los mejores dividendos de 2026: ¿quién paga más, España, Europa o EEUU? Descubre las cifras sorprendentes.",
+      "title": "Potencial de los 7 magníficos del Nasdaq a largo plazo en bolsa",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
