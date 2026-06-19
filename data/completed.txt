@@ -1855,3 +1855,4 @@ tools: Máquinas-herramienta del futuro: Inteligencia y sostenibilidad en la ter
 tools: Cal State Faculty Fight Back Against AI: Will They Be Replaced?
 crypto: ¿Por qué la caída de Bitcoin, Ethereum y XRP podría ser solo el comienzo?
 crypto: Bitcoin's Bottom: Insights from Crypto's Billionaire Titans
+crypto: Billionaires Weigh In: Has Bitcoin Finally Hit Rock Bottom?
