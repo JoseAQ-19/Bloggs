@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-19T08:51:12.869982+00:00",
+  "scouted_at": "2026-06-19T08:52:40.019199+00:00",
   "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "ICI Data Show Money Market Fund Assets at Record High",
-      "lang": "en",
-      "source": "google_news_finance"
-    },
-    {
-      "rank": 2,
       "title": "In alternatives, advisors shifting to private equity and venture cap: Morningstar.",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
+      "rank": 2,
+      "title": "Morningstar (MORN) Has a Subscription-and-Workflow Moat Bigger Than a Fund-Flow Story",
+      "lang": "en",
+      "source": "google_news_finance"
+    },
+    {
       "rank": 3,
-      "title": "$600B semiliquid funds, high fees and few advisors fluent",
+      "title": "Morningstar Flags Semiliquid Fund Growth as Private Credit Demand Slips",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,19 +51,29 @@
   },
   "all_headlines": [
     {
-      "title": "ICI Data Show Money Market Fund Assets at Record High",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUjE1VmJWTEN4d3liVjM0VUhaS3pMU2hfMXRxVlM2Z3RaX001cnQ2SEg2empIU0d0UWNjODlWSHhzdHMzblg0X0p1Ty1XUEhsdzgtd1VjcnpjU3ZWZ3NTZU92TXhteDg0cWZXak9wV2RXNGtKVV9LaGhxcmhNYzY2b1VSRGUzbGxXMlRndUtpeHN4V0F1VklJd1F3NFRaN3NNbHNQcUVGSjR1cjVMdnR0NnNfSlk?oc=5"
-    },
-    {
       "title": "In alternatives, advisors shifting to private equity and venture cap: Morningstar.",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVTJob1Q5SVg1NlpDYmV0cFFFREVlTW1kRXdWMmZvQmJCV2NzVTZrc3pNcmtFQjk5NXR1ZXhxbzhCZFVJZlZYNGVXQ3lfRENHejludXk4alNrOGRqcUNKS3VZSzNaTWdKdWd0eWZzeFU0dGdzbWhCazF1Q196czRGeVFqbExmV0tFNXhwMmtrWUZobWhyUmRBQzBveDA1aHczWG5iMlgyZkRvN3dUWkFGbGRwZVliSGktMUxLS0N5bzcxa3hNWUdBdFZR?oc=5"
     },
     {
-      "title": "$600B semiliquid funds, high fees and few advisors fluent",
+      "title": "Morningstar (MORN) Has a Subscription-and-Workflow Moat Bigger Than a Fund-Flow Story",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTnVtN1pibUFjMU03c0JNRUM4RzFSUzFyRWV6WDRUWDE2WmlETmZBSzRYcEVhVVBKMUlhMG1pRlZDaXUwQjZDbTBjNTAxTmJrZGVfVUU3MnRCUm1IaXRJZEJzem5oMmdFNkNxazF4dTNLUmo1b3Y0R0trLUZwXzdseUprQWRxZXM3Z1JldzZYeVpITkNJWHZ4NE1PVFY4YWktTkFHaEY4Y0pYMmJtN0lwX2NtWklkM2FFR1B1a0loMVg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZlhYeGFEck5JQ0tKNzFocHN2SjZyRnVqZ3pTeGhnWWdaR253ZDBSMXBwWjFyWTRtYjRTNWYtc3h6aDVzSTE4VTBPQS1oSGowYTM5THdyQ2k4aGxvR3Y5U0tiTE0yRWZhcU9Ic3N6Nlg0VTBvLWM2WGNyUTd1d3BZY084czFmYUNOWG5Ud3VDajRfUlNicF8wMFZNTm45alNrMXhIV0t3VXJyTm1jbjdSb1Z5ONIBswFBVV95cUxQZlhYeGFEck5JQ0tKNzFocHN2SjZyRnVqZ3pTeGhnWWdaR253ZDBSMXBwWjFyWTRtYjRTNWYtc3h6aDVzSTE4VTBPQS1oSGowYTM5THdyQ2k4aGxvR3Y5U0tiTE0yRWZhcU9Ic3N6Nlg0VTBvLWM2WGNyUTd1d3BZY084czFmYUNOWG5Ud3VDajRfUlNicF8wMFZNTm45alNrMXhIV0t3VXJyTm1jbjdSb1Z5OA?oc=5"
+    },
+    {
+      "title": "Morningstar Flags Semiliquid Fund Growth as Private Credit Demand Slips",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRUNWNmhkQ0J2TDc2NVduNno0TENlZGVPSE1RYlNIam1rSmRkZnRvQWQwYzg4cW05dEtyT3QwdWs5cFdnYlN1UWREMVl4czBWVXhEQnJTTjBqWno3OFpHMGFTZzFUTXFrYXN2QzVlYXZzMkJMRXh4MV9lX0RYaC1HdkNzUU5Ib0pvWDlLRThBLXJwRjVaQ2dj?oc=5"
+    },
+    {
+      "title": "Morningstar Report Finds Semiliquid Fund Market Nears $600 Billion as Private Credit Loses Steam",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTERUUU9EWHVnbnlMdEMxWVhlZld3aUNnNmhpdlBwNVhxSEVIaGN2WFVGbUNURVhoRGhfampJMkI2ZjNmTS1mWDJFTW5mWDBoS1FURzVjejZQN3FkNl9Gd29tNXo1cnJGQmpDbjJxRzhGbkFCZGV2czV1QVNncTdYbDRoVmtWeFBmUTZtcDl4YktKT0U?oc=5"
+    },
+    {
+      "title": "Morningstar downgrades $1bn Invesco fund following PM departures",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmpZdi16dzd1SEhVak8tSFYtWTFfYURPT3pXRkk1WTdQY196Q2o0RnBjYUQyQU5fU0pUTDdmSEZiTkFIb2VsRXRkTWZMUm5Dd1dMQk1kMUMyeHFOeGhSY1pLSTcwR0s0NVcyOTBjeVNETmc4Q3pQVXg1RGdtanZYekNCaUJCUW1OMDNObk9xVlJqTUJZMFczcjNmWlRzQWV4SjM4MnFiOFVwaE1m?oc=5"
     },
     {
       "title": "Words of Investing Wisdom from Fidelity’s Will Danoff",
@@ -71,19 +81,9 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KclF6VTRJdjh2RHdUakNTdTVoV2ctY0NiRWU3R0xhdHNwMm9yMHZJNFowQS0xVENvSmpRbkNINHhHS0lhQlV0UE1sNVE2RVRxQ2JxVHI1SDhuMkpQU3NJT3NPaGhva2JiaWhfRkVFalJreGplWDJj?oc=5"
     },
     {
-      "title": "abrdn National Municipal Income Fund (VFL) Announces Final All Cash Distribution Payment Details",
+      "title": "Morningstar enters public-private model portfolio race",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUm1CNWpEazNrbTJaLWdKS05sR2RndFdabjVhSXY5T05lUjFUVk1wY1BqVVBUUV9La2NZSW9GWDhtdnVpQnVtM29uaHhiWTh3T3RJejdjMFFucHZFS203dy1YSXVvRU9hSGVrY2tXdXNyc2JkSnFRRDl3Z2Q0UjAwQ1kweUl3NTZVMmhHdXE4aF9NY0xoMGo5VnhfMkt6a3ZkcFMzdWJGWWJUbXFKa0lsWEhoRGlPckhDOW9JaTBFQnVxZTVfbnRCdjB3ZENaT0lzX1FDeFhFVmFFeVVTQXEwWkZSc3V2RVJwMmpV?oc=5"
-    },
-    {
-      "title": "HawkEye 360 Announces New Leadership for Innovative Signal Analysis",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbEdhRGlSSEREZVo5X3dmQndWVldmUzBJYWlqcjFSekk2U2U5VGFiS1Y5UlA3RXdJNE9QVDd1amtDTnBfdTJwTmF6TzAzVmsyaVVtLURsaTBWUm9qc0tiYm5nLThERVhyMF9RYmM5SVVYQzljNVhPU2pwbTJYOWQtd1hoTUlfZzRXZnN3S29GWHlkN283Rl9pd19GU0NZQ2xfeG9Zd0N4VzhRZjRZck1XeDFRQy1qTlRqeGZoSHFnLXJMLTRaUU9F?oc=5"
-    },
-    {
-      "title": "Aurora Solar Adds Integrated Storage Modeling to HelioScope, Uniting Commercial Solar Design, Storage, and Financial Analysis in One Solution",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPRl9hODVjd3FodEl6R1AyMm82RDdqTlpJaS1JcnVFZjBjdjhQam5TazFxbkVURmMtVFVpZEdvQ0YtcEZBN1dSX09nQnhvYzJFY0ZnR3VWNThKZEpKbk5LR3RXTUg2OGZlQ0RSMzB0UnoxdGhHWjRHd0RPSjNDWDlqTG4wSUlfckwzR3dET1FONzJsOHoxdUdWXzNPb0t0N3FqMUlaN3NWWTJsb1BuWG1pdkVjQ280YzdqWG5kX01XZWZSTmlBeXo4ekp2bzY5ejh0MzRRS3JMeDFyNjl6VVZ5RXBlN2ZWdG14SzY4SnQ3Z1p2eU5ILTVJVWpQaXFBNEZuUzh0bDBBdVFsZjJGUVFXb0QwZm9RNk9BbEpuUmpXZTA2N2tYU3NB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXdzbC0xbFlYU3JJZWctY0ZfQmxZVnYtRnZnTEVsV1hEWmNZOUM1bzFoX1U0ZENCTlNmWGdidDdGazlTSVhxbTdzY2JGUTk5MlZkYndOQ3A1ekIwX3BQejZDM2gzSTIydXBPRGdleDRTekd6c2ctdlhrRmJqajNybDBveWl1OTlzQWNYWDJQQzBHZkZ0TGhvVmp2Z19ERUNuZHUyYUZicDM?oc=5"
     },
     {
       "title": "10 Best Low-Cost Index Funds to Buy in 2026 | Investing",
