@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-19T08:52:40.019199+00:00",
+  "scouted_at": "2026-06-19T09:59:28.870940+00:00",
   "total_candidates": 16,
   "topics": [
     {
@@ -12,13 +12,13 @@
     },
     {
       "rank": 2,
-      "title": "Morningstar (MORN) Has a Subscription-and-Workflow Moat Bigger Than a Fund-Flow Story",
+      "title": "Morningstar downgrades $1bn Invesco fund following PM departures",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar Flags Semiliquid Fund Growth as Private Credit Demand Slips",
+      "title": "Morningstar (MORN) Has a Subscription-and-Workflow Moat Bigger Than a Fund-Flow Story",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -28,9 +28,9 @@
       "fund class": 21,
       "full list": 20,
       "index fund": 7,
+      "small cap": 5,
       "emerging markets": 4,
       "fund institutional": 4,
-      "small cap": 4,
       "etfalps shares": 4,
       "markets china": 3,
       "china fund": 3,
@@ -56,24 +56,19 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVTJob1Q5SVg1NlpDYmV0cFFFREVlTW1kRXdWMmZvQmJCV2NzVTZrc3pNcmtFQjk5NXR1ZXhxbzhCZFVJZlZYNGVXQ3lfRENHejludXk4alNrOGRqcUNKS3VZSzNaTWdKdWd0eWZzeFU0dGdzbWhCazF1Q196czRGeVFqbExmV0tFNXhwMmtrWUZobWhyUmRBQzBveDA1aHczWG5iMlgyZkRvN3dUWkFGbGRwZVliSGktMUxLS0N5bzcxa3hNWUdBdFZR?oc=5"
     },
     {
+      "title": "Morningstar downgrades $1bn Invesco fund following PM departures",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmpZdi16dzd1SEhVak8tSFYtWTFfYURPT3pXRkk1WTdQY196Q2o0RnBjYUQyQU5fU0pUTDdmSEZiTkFIb2VsRXRkTWZMUm5Dd1dMQk1kMUMyeHFOeGhSY1pLSTcwR0s0NVcyOTBjeVNETmc4Q3pQVXg1RGdtanZYekNCaUJCUW1OMDNObk9xVlJqTUJZMFczcjNmWlRzQWV4SjM4MnFiOFVwaE1m?oc=5"
+    },
+    {
       "title": "Morningstar (MORN) Has a Subscription-and-Workflow Moat Bigger Than a Fund-Flow Story",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZlhYeGFEck5JQ0tKNzFocHN2SjZyRnVqZ3pTeGhnWWdaR253ZDBSMXBwWjFyWTRtYjRTNWYtc3h6aDVzSTE4VTBPQS1oSGowYTM5THdyQ2k4aGxvR3Y5U0tiTE0yRWZhcU9Ic3N6Nlg0VTBvLWM2WGNyUTd1d3BZY084czFmYUNOWG5Ud3VDajRfUlNicF8wMFZNTm45alNrMXhIV0t3VXJyTm1jbjdSb1Z5ONIBswFBVV95cUxQZlhYeGFEck5JQ0tKNzFocHN2SjZyRnVqZ3pTeGhnWWdaR253ZDBSMXBwWjFyWTRtYjRTNWYtc3h6aDVzSTE4VTBPQS1oSGowYTM5THdyQ2k4aGxvR3Y5U0tiTE0yRWZhcU9Ic3N6Nlg0VTBvLWM2WGNyUTd1d3BZY084czFmYUNOWG5Ud3VDajRfUlNicF8wMFZNTm45alNrMXhIV0t3VXJyTm1jbjdSb1Z5OA?oc=5"
     },
     {
-      "title": "Morningstar Flags Semiliquid Fund Growth as Private Credit Demand Slips",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRUNWNmhkQ0J2TDc2NVduNno0TENlZGVPSE1RYlNIam1rSmRkZnRvQWQwYzg4cW05dEtyT3QwdWs5cFdnYlN1UWREMVl4czBWVXhEQnJTTjBqWno3OFpHMGFTZzFUTXFrYXN2QzVlYXZzMkJMRXh4MV9lX0RYaC1HdkNzUU5Ib0pvWDlLRThBLXJwRjVaQ2dj?oc=5"
-    },
-    {
       "title": "Morningstar Report Finds Semiliquid Fund Market Nears $600 Billion as Private Credit Loses Steam",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTERUUU9EWHVnbnlMdEMxWVhlZld3aUNnNmhpdlBwNVhxSEVIaGN2WFVGbUNURVhoRGhfampJMkI2ZjNmTS1mWDJFTW5mWDBoS1FURzVjejZQN3FkNl9Gd29tNXo1cnJGQmpDbjJxRzhGbkFCZGV2czV1QVNncTdYbDRoVmtWeFBmUTZtcDl4YktKT0U?oc=5"
-    },
-    {
-      "title": "Morningstar downgrades $1bn Invesco fund following PM departures",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmpZdi16dzd1SEhVak8tSFYtWTFfYURPT3pXRkk1WTdQY196Q2o0RnBjYUQyQU5fU0pUTDdmSEZiTkFIb2VsRXRkTWZMUm5Dd1dMQk1kMUMyeHFOeGhSY1pLSTcwR0s0NVcyOTBjeVNETmc4Q3pQVXg1RGdtanZYekNCaUJCUW1OMDNObk9xVlJqTUJZMFczcjNmWlRzQWV4SjM4MnFiOFVwaE1m?oc=5"
     },
     {
       "title": "Words of Investing Wisdom from Fidelity’s Will Danoff",
@@ -84,6 +79,11 @@
       "title": "Morningstar enters public-private model portfolio race",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXdzbC0xbFlYU3JJZWctY0ZfQmxZVnYtRnZnTEVsV1hEWmNZOUM1bzFoX1U0ZENCTlNmWGdidDdGazlTSVhxbTdzY2JGUTk5MlZkYndOQ3A1ekIwX3BQejZDM2gzSTIydXBPRGdleDRTekd6c2ctdlhrRmJqajNybDBveWl1OTlzQWNYWDJQQzBHZkZ0TGhvVmp2Z19ERUNuZHUyYUZicDM?oc=5"
+    },
+    {
+      "title": "Morningstar partners with Apollo, JP Morgan, Franklin on public/private model portfolios",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMld5T3dXQTYxdDZMRW9BQ0xLYS1EZnVMTWV6dDFfLUtveG9aUGVIVmpQTFZPUnp6SUIzdVhZUUE5X1lPZ0RtT1o1QUU0N18tVEFvX3VUVHBFWkZSbEk5eE1QYVlSOURjYUxNVVRIakZIaUtXV3gtNUJJaVRjUnlZM25weWxQZlNQNHkzVUgtQWZYYVVNZUcxNmFOd0pLUzk2TDdOMEd2Z3VyRFBrcl9za1lTR0FXX3hMSGdWMkdza1BpZE1XMkJmWkN3c0luOTA?oc=5"
     },
     {
       "title": "10 Best Low-Cost Index Funds to Buy in 2026 | Investing",
