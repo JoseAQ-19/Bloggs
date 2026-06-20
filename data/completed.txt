@@ -1863,3 +1863,4 @@ fitness: Fitness Courts Are Coming: Get Ready to Sweat This Summer!
 funds: Fondos de inversión de Scotiabank y BBVA crecen un 20% más que el promedio en 2026
 funds: Morningstar Launches Model Portfolios with Apollo and JPMorgan, Targeting 10% Returns
 funds: 10 Timeless Investing Lessons from Fidelity’s Will Danoff for 2023
+ia: Transformación urbana: El ambicioso Plan Especial del Frente Litoral y el primer Centro público de IA
