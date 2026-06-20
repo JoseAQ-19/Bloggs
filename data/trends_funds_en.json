@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-19T10:00:48.626368+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-06-20T08:14:31.188931+00:00",
+  "total_candidates": 14,
   "topics": [
     {
       "rank": 1,
-      "title": "In alternatives, advisors shifting to private equity and venture cap: Morningstar.",
+      "title": "Words of Investing Wisdom from Fidelity’s Will Danoff",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar (MORN) Has a Subscription-and-Workflow Moat Bigger Than a Fund-Flow Story",
+      "title": "ICI Data Show Money Market Fund Assets at Record High",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar Flags Semiliquid Fund Growth as Private Credit Demand Slips",
+      "title": "Morningstar enters public-private model portfolio race",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,74 +51,64 @@
   },
   "all_headlines": [
     {
-      "title": "In alternatives, advisors shifting to private equity and venture cap: Morningstar.",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVTJob1Q5SVg1NlpDYmV0cFFFREVlTW1kRXdWMmZvQmJCV2NzVTZrc3pNcmtFQjk5NXR1ZXhxbzhCZFVJZlZYNGVXQ3lfRENHejludXk4alNrOGRqcUNKS3VZSzNaTWdKdWd0eWZzeFU0dGdzbWhCazF1Q196czRGeVFqbExmV0tFNXhwMmtrWUZobWhyUmRBQzBveDA1aHczWG5iMlgyZkRvN3dUWkFGbGRwZVliSGktMUxLS0N5bzcxa3hNWUdBdFZR?oc=5"
-    },
-    {
-      "title": "Morningstar (MORN) Has a Subscription-and-Workflow Moat Bigger Than a Fund-Flow Story",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZlhYeGFEck5JQ0tKNzFocHN2SjZyRnVqZ3pTeGhnWWdaR253ZDBSMXBwWjFyWTRtYjRTNWYtc3h6aDVzSTE4VTBPQS1oSGowYTM5THdyQ2k4aGxvR3Y5U0tiTE0yRWZhcU9Ic3N6Nlg0VTBvLWM2WGNyUTd1d3BZY084czFmYUNOWG5Ud3VDajRfUlNicF8wMFZNTm45alNrMXhIV0t3VXJyTm1jbjdSb1Z5ONIBswFBVV95cUxQZlhYeGFEck5JQ0tKNzFocHN2SjZyRnVqZ3pTeGhnWWdaR253ZDBSMXBwWjFyWTRtYjRTNWYtc3h6aDVzSTE4VTBPQS1oSGowYTM5THdyQ2k4aGxvR3Y5U0tiTE0yRWZhcU9Ic3N6Nlg0VTBvLWM2WGNyUTd1d3BZY084czFmYUNOWG5Ud3VDajRfUlNicF8wMFZNTm45alNrMXhIV0t3VXJyTm1jbjdSb1Z5OA?oc=5"
-    },
-    {
-      "title": "Morningstar Flags Semiliquid Fund Growth as Private Credit Demand Slips",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRUNWNmhkQ0J2TDc2NVduNno0TENlZGVPSE1RYlNIam1rSmRkZnRvQWQwYzg4cW05dEtyT3QwdWs5cFdnYlN1UWREMVl4czBWVXhEQnJTTjBqWno3OFpHMGFTZzFUTXFrYXN2QzVlYXZzMkJMRXh4MV9lX0RYaC1HdkNzUU5Ib0pvWDlLRThBLXJwRjVaQ2dj?oc=5"
-    },
-    {
-      "title": "Morningstar Report Finds Semiliquid Fund Market Nears $600 Billion as Private Credit Loses Steam",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTERUUU9EWHVnbnlMdEMxWVhlZld3aUNnNmhpdlBwNVhxSEVIaGN2WFVGbUNURVhoRGhfampJMkI2ZjNmTS1mWDJFTW5mWDBoS1FURzVjejZQN3FkNl9Gd29tNXo1cnJGQmpDbjJxRzhGbkFCZGV2czV1QVNncTdYbDRoVmtWeFBmUTZtcDl4YktKT0U?oc=5"
-    },
-    {
-      "title": "Morningstar downgrades $1bn Invesco fund following PM departures",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmpZdi16dzd1SEhVak8tSFYtWTFfYURPT3pXRkk1WTdQY196Q2o0RnBjYUQyQU5fU0pUTDdmSEZiTkFIb2VsRXRkTWZMUm5Dd1dMQk1kMUMyeHFOeGhSY1pLSTcwR0s0NVcyOTBjeVNETmc4Q3pQVXg1RGdtanZYekNCaUJCUW1OMDNObk9xVlJqTUJZMFczcjNmWlRzQWV4SjM4MnFiOFVwaE1m?oc=5"
-    },
-    {
       "title": "Words of Investing Wisdom from Fidelity’s Will Danoff",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KclF6VTRJdjh2RHdUakNTdTVoV2ctY0NiRWU3R0xhdHNwMm9yMHZJNFowQS0xVENvSmpRbkNINHhHS0lhQlV0UE1sNVE2RVRxQ2JxVHI1SDhuMkpQU3NJT3NPaGhva2JiaWhfRkVFalJreGplWDJj?oc=5"
     },
     {
-      "title": "Morningstar partners with Apollo, JP Morgan, Franklin on public/private model portfolios",
+      "title": "ICI Data Show Money Market Fund Assets at Record High",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMld5T3dXQTYxdDZMRW9BQ0xLYS1EZnVMTWV6dDFfLUtveG9aUGVIVmpQTFZPUnp6SUIzdVhZUUE5X1lPZ0RtT1o1QUU0N18tVEFvX3VUVHBFWkZSbEk5eE1QYVlSOURjYUxNVVRIakZIaUtXV3gtNUJJaVRjUnlZM25weWxQZlNQNHkzVUgtQWZYYVVNZUcxNmFOd0pLUzk2TDdOMEd2Z3VyRFBrcl9za1lTR0FXX3hMSGdWMkdza1BpZE1XMkJmWkN3c0luOTA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUjE1VmJWTEN4d3liVjM0VUhaS3pMU2hfMXRxVlM2Z3RaX001cnQ2SEg2empIU0d0UWNjODlWSHhzdHMzblg0X0p1Ty1XUEhsdzgtd1VjcnpjU3ZWZ3NTZU92TXhteDg0cWZXak9wV2RXNGtKVV9LaGhxcmhNYzY2b1VSRGUzbGxXMlRndUtpeHN4V0F1VklJd1F3NFRaN3NNbHNQcUVGSjR1cjVMdnR0NnNfSlk?oc=5"
     },
     {
-      "title": "10 Best Low-Cost Index Funds to Buy in 2026 | Investing",
+      "title": "Morningstar enters public-private model portfolio race",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tc3VqOExlUkJfZmtlS2l0cFdIdThWblVTOEV5dEp3MWhQUzNHbXlHSEZQTktFcHloWUg0c0w0TVp4LW44dF9oZGl6SFRGUFJ3Y1BDNGpfalJvVmo2YjQ0M0hzbmlieFYyVm5CRkNRMWEwZ1dGeDE3TQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXdzbC0xbFlYU3JJZWctY0ZfQmxZVnYtRnZnTEVsV1hEWmNZOUM1bzFoX1U0ZENCTlNmWGdidDdGazlTSVhxbTdzY2JGUTk5MlZkYndOQ3A1ekIwX3BQejZDM2gzSTIydXBPRGdleDRTekd6c2ctdlhrRmJqajNybDBveWl1OTlzQWNYWDJQQzBHZkZ0TGhvVmp2Z19ERUNuZHUyYUZicDM?oc=5"
     },
     {
-      "title": "7 Best ETFs to Buy Now | Investing",
+      "title": "Watch Live: Christine Benz at MIC 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Yc3dPWWFwdzNIRXdYRXZzck5NZXdjLVp5ZlZEdkpJMFREcTFZWktDeno1YVNGcm1XV1pwYjNnYUdQMmVtUkxFU0IzMFgtNFBObFRHSWloTVdSLTdOS01IZ05uakJXZWNrUWh0YWFLanpPYlla?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUGNNVnhzdGZzNEx1ZWNndzk5SzJmdGhycVZlcUFmZjcwajNTVVd3RXo5TDNpMnhXZmVsQUZUWGVYdTU1eFA0MHdkbnJTS1dBd0RadTJoTFZVSzdqSk83WEVJVlh3SFo4Y3loUnVxbHRNOTNEQzNObDR3akRlTzN5RkF4ZXllLTU0?oc=5"
     },
     {
-      "title": "The Best Energy ETFs to Buy",
+      "title": "The Best Dividend Kings to Buy in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkR3l0bFpwc2RsWHdsQllTcWRvYkVDVTBmNkp5c3cxZF9xNlFmUEp5eVdzSWxyTG9hSlFrYWZ2Q2JnY095YllxZXR2MU90ZS14MWdjdUo2eUdJcUx0M3BYdzdiZ0FxX1VBM3JMRmxpSGFJWktJ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XUGstMEtFcmtqN3hrRkFQeEgwNGJGa1F0OUdpYy1rOTVIZjQ1TTVuOFh6cnJ6djhjMmFRUzctclBTUHJuZEx2RWFYbWpRaHNnSXFRcjlTS2o3bHNwaDdZMW9ZUHl5bWp5ZVc2UnZ5RFQ?oc=5"
     },
     {
-      "title": "Forbes 2026 Midas List: Top Venture Capital Investors Ranked",
+      "title": "Insiders’ Guide To How Morningstar Analysts Appraise Fund Managers",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fcGVEQ0g0VGFkMnVBQmlYNjNock5lN1FWdF9yM1Z1bmhCdnZFOXZUSlpoSWs0S3dHcTN5NGlMMnZHWXlnU2s2UUxZSQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmJROVFhLXJLUmlTZjVIeVJCVk81RldUemFWNnVUdXhnSzNEei1kNTdlcWMzcDl2NTFHTEJuY2tjZ2owTFB6MTlPem51SzZBWFFFMlREZzlELU01QjZIM3NqWWFXRmZlazZmRTAyU0Y3TWR1cmFNWXItNVdybWpzUE5zQnZYQThjZGdXeFdITXJMVFMyQmFubDlycDRLVjg1YVVxeGpVQzNBUTB6aUs3WU5ab0ZFWUNNbFBXVThDcU1vYWpqc3d3aGVDZDgtMkR1WUVrRg?oc=5"
     },
     {
-      "title": "Top Performing Leveraged/Inverse ETFs: 06/14/2026",
+      "title": "7 Best Long-Term ETFs to Buy and Hold | Investing",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN1N0a2NTTFJFUkMyQjZRT2cxdGxFcTZDN2d6Mk5vVzVlWE9UR1lWX1VBNDVZRXo2MUFWWl94dmhFMDl6WW1XUzdQSU1lVDN3enUwcHVOZEJDOWlWX0Y4MDVDZ0VuUmZqamhjNjlHbjJ3NjE4WVF0TE51QkoxZ3RaazNhbEhIcGZXNkk1eA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUNvR2tNeVFfRGRneGFaUXBoZi1JVXIzQ0dGX3RQbkFDUkpySHdSYWh6WF9lbGlLM1B2SElkNmhLUlRCY2xEVGFuVUFEampVVnlPamdvN0JsWkdJOUtHbHJ4NzhmOEZKdWZLbmc0T1ZyMHFjcHFpTGlGZ0dnSWpxZWEwbEpYTDNPTEJ6SQ?oc=5"
     },
     {
-      "title": "3 Top Mid-Cap Stocks for 2026 and How to Invest",
+      "title": "5 Best Fidelity Mutual Funds to Buy Now",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSDF5cE85bVZzQng2VkRFaWx3NXZ3SWl2ZFUtUVpOdjVoTlMzZlY1czVCMEh5cS04ZlQ4ZFVld0xLOHh2WEh0YUVGMFdVczlQeUswTy1hcWhhcnRzeHZaNWRZUFpYajQwT1o5YVZuc3h3N3ljUk9fSExJMl9GNF9DRA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbnQ2ellhOGFfQndhSE1Zc0VTRmtyRXo4czhMOEVZckhrQUNNOFJqNjdSNUg4aGNJZ3c3WjZpYkhHMjhOdDV6NFByLUpVdjhPdDYtZ2ktTEVmX3RIQ0VpcThlZnZURVFoQkhqUDdfOFFXa2wyOGZKbDJtUE0zUTJzWFN2a2p6bWM1SW5lT2pvTGdkeTQ?oc=5"
     },
     {
-      "title": "Stay Ahead of the Curve: Top Cybersecurity ETFs",
+      "title": "The 3 Best Energy ETFs to Own as Oil Volatility Returns in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRnJBeFp2NHNteTluWjNoaF8tQzlOX3l0a0gxZC14LVNYVUhzeEN1Z0VDbTdzMEpLczdxb19kc200bjNZLU1KVVZLMFJWQUprRkFFX19KdUE0RDNwQnNkYWtnUGM1Qm1JTlZRMEh6S0ljWVJrN0NoS1czeXhKNldxSXN4a3JtV3lDZkZoZUpDcG8tNFlV?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSmdvRUdheXlwdU9LaTRsVzk1bzdPLTVKUUxLdU5ZOWtKN1o0RGdvOUNYRHAtQTdsSDRqWW5yNE5ieEYyYUswcU9RbXVoQUh0ZnhfbTZNYXZ4UXVOb2FlcFBjU2NoVTd0MTNNNU9tTGxqb21RbzlHWW4xYXJxNHZhLVFMdWJndTdOU01IMW9jN2lFLU5WRXpHSDJnY0Z6aXNOQm9QMTZnSEhSYm8?oc=5"
+    },
+    {
+      "title": "S&P 500 Snapshot: Peace Deal Overcomes Fed Jitters",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMHRod05hNHZQV1UzNlFsdktubHYxNFR6M3Z6cGgwZEt4a0xMQllyWUgyUHJNN0kyZ1h4YnZmM1BueXVDSVp3TGN1ZFRINTY3a2JuRTc5WVFVVkFOZEF2eXUzaE9sdFI2ck5YRGZ1VmJ6dDhfTEFKQnJ4WmtWT0R3bnluRmk1NHFNZ1Rfb1FfSUFYRXdhUVRrdDZVVHZvMVRpdmhDazVNcWgwQUdRN3JfSg?oc=5"
+    },
+    {
+      "title": "10 Best High-Yield Savings Accounts Of June 2026: Up to 5.00% APY",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWEdHUzl1dXE2RVB2NnpTcFo3QmhLU1ZpLWxnM3Z2SmFKa1lZR1BxQ0g5NWFSLXNSM0p1aGhfTlJaaGkxano3clJlcmZnNUZDUXhzOEQ4aDlLZkhrRk9HMXNnWENGVl8wUnRmUXkzbno1YS1oU2M4OE1YMlVYTXdLVg?oc=5"
+    },
+    {
+      "title": "Retirement savings gap after a career break? Expert shares how to recover without taking big risks",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcC1adW5vY184VHlqNXdGdEotWVJHc1hXTmZZd0xsYVZvZ2ZBR0hNb3hEWE5Fd0RXeDFQTmlid2NDOS1SM0pVS1k5dHJTUm9GTDRNa05jSkduT3FUZGdpd25tZ09VNjRIWk4tbjhSbS1OQXlwa2RKVkhmYTN1ZDJTRTVFcUp5N3lFRXcxQXFKV0hrQjl5UTY3Q1BlRFFRY054RnhFYm1PQXZBVE51VXFNX01jR2JSRnE0dHV3SXRJVG50NkFDMkYwZ1VBY1hJUVZOVmxPdmZ5U0FodUY1ZU1feGZsNDZQWmRBQWdHMHZQSFgzcVdJaWlfZXV0b9IB-wFBVV95cUxOcC1adW5vY184VHlqNXdGdEotWVJHc1hXTmZZd0xsYVZvZ2ZBR0hNb3hEWE5Fd0RXeDFQTmlid2NDOS1SM0pVS1k5dHJTUm9GTDRNa05jSkduT3FUZGdpd25tZ09VNjRIWk4tbjhSbS1OQXlwa2RKVkhmYTN1ZDJTRTVFcUp5N3lFRXcxQXFKV0hrQjl5UTY3Q1BlRFFRY054RnhFYm1PQXZBVE51VXFNX01jR2JSRnE0dHV3SXRJVG50NkFDMkYwZ1VBY1hJUVZOVmxPdmZ5U0FodUY1ZU1feGZsNDZQWmRBQWdHMHZQSFgzcVdJaWlfZXV0bw?oc=5"
     },
     {
       "title": "7 High-Yield Covered Call ETFs Income Investors Will Love",
@@ -126,9 +116,9 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmlHOWk5a1RieXlLZjZNWHQtRGRVLWs5eS1ZMFhiQXp4RnVWQTlHcjZ1QXZqRHNicXhpQkNBcmJhck1waEozYTNodWlxb25hUklteWJCaVFxUVhWOHRxUmszUnNGUHBEVjNWeTZOVmU2REpDNjlHRjRNOWtKREtuZDFuQjVpSEsyM0VXYmlrRXdfM3lsb0ZRS3Y5Z05aSEp0?oc=5"
     },
     {
-      "title": "10 Best Online Brokers & Trading Platforms of June 2026",
+      "title": "3 Top Mid-Cap Stocks for 2026 and How to Invest",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12RlVsTndTYVluNXQ0X0x0YllUYXlwZVJvdEpBekxRczVBbnpMTDBVZmk2Zk0yME83UFJlTmlPNW5zLWdzN1ZFMWpWT1cyYTNSeFE4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSDF5cE85bVZzQng2VkRFaWx3NXZ3SWl2ZFUtUVpOdjVoTlMzZlY1czVCMEh5cS04ZlQ4ZFVld0xLOHh2WEh0YUVGMFdVczlQeUswTy1hcWhhcnRzeHZaNWRZUFpYajQwT1o5YVZuc3h3N3ljUk9fSExJMl9GNF9DRA?oc=5"
     }
   ]
 }
