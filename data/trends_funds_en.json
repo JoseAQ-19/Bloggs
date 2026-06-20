@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-20T08:14:31.188931+00:00",
+  "scouted_at": "2026-06-20T08:15:49.522180+00:00",
   "total_candidates": 14,
   "topics": [
     {
       "rank": 1,
-      "title": "Words of Investing Wisdom from Fidelity’s Will Danoff",
+      "title": "Morningstar enters public-private model portfolio race",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "ICI Data Show Money Market Fund Assets at Record High",
+      "title": "Words of Investing Wisdom from Fidelity’s Will Danoff",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar enters public-private model portfolio race",
+      "title": "ICI Data Show Money Market Fund Assets at Record High",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,6 +51,11 @@
   },
   "all_headlines": [
     {
+      "title": "Morningstar enters public-private model portfolio race",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXdzbC0xbFlYU3JJZWctY0ZfQmxZVnYtRnZnTEVsV1hEWmNZOUM1bzFoX1U0ZENCTlNmWGdidDdGazlTSVhxbTdzY2JGUTk5MlZkYndOQ3A1ekIwX3BQejZDM2gzSTIydXBPRGdleDRTekd6c2ctdlhrRmJqajNybDBveWl1OTlzQWNYWDJQQzBHZkZ0TGhvVmp2Z19ERUNuZHUyYUZicDM?oc=5"
+    },
+    {
       "title": "Words of Investing Wisdom from Fidelity’s Will Danoff",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KclF6VTRJdjh2RHdUakNTdTVoV2ctY0NiRWU3R0xhdHNwMm9yMHZJNFowQS0xVENvSmpRbkNINHhHS0lhQlV0UE1sNVE2RVRxQ2JxVHI1SDhuMkpQU3NJT3NPaGhva2JiaWhfRkVFalJreGplWDJj?oc=5"
@@ -61,34 +66,29 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUjE1VmJWTEN4d3liVjM0VUhaS3pMU2hfMXRxVlM2Z3RaX001cnQ2SEg2empIU0d0UWNjODlWSHhzdHMzblg0X0p1Ty1XUEhsdzgtd1VjcnpjU3ZWZ3NTZU92TXhteDg0cWZXak9wV2RXNGtKVV9LaGhxcmhNYzY2b1VSRGUzbGxXMlRndUtpeHN4V0F1VklJd1F3NFRaN3NNbHNQcUVGSjR1cjVMdnR0NnNfSlk?oc=5"
     },
     {
-      "title": "Morningstar enters public-private model portfolio race",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXdzbC0xbFlYU3JJZWctY0ZfQmxZVnYtRnZnTEVsV1hEWmNZOUM1bzFoX1U0ZENCTlNmWGdidDdGazlTSVhxbTdzY2JGUTk5MlZkYndOQ3A1ekIwX3BQejZDM2gzSTIydXBPRGdleDRTekd6c2ctdlhrRmJqajNybDBveWl1OTlzQWNYWDJQQzBHZkZ0TGhvVmp2Z19ERUNuZHUyYUZicDM?oc=5"
-    },
-    {
-      "title": "Watch Live: Christine Benz at MIC 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUGNNVnhzdGZzNEx1ZWNndzk5SzJmdGhycVZlcUFmZjcwajNTVVd3RXo5TDNpMnhXZmVsQUZUWGVYdTU1eFA0MHdkbnJTS1dBd0RadTJoTFZVSzdqSk83WEVJVlh3SFo4Y3loUnVxbHRNOTNEQzNObDR3akRlTzN5RkF4ZXllLTU0?oc=5"
-    },
-    {
-      "title": "The Best Dividend Kings to Buy in 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XUGstMEtFcmtqN3hrRkFQeEgwNGJGa1F0OUdpYy1rOTVIZjQ1TTVuOFh6cnJ6djhjMmFRUzctclBTUHJuZEx2RWFYbWpRaHNnSXFRcjlTS2o3bHNwaDdZMW9ZUHl5bWp5ZVc2UnZ5RFQ?oc=5"
-    },
-    {
       "title": "Insiders’ Guide To How Morningstar Analysts Appraise Fund Managers",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmJROVFhLXJLUmlTZjVIeVJCVk81RldUemFWNnVUdXhnSzNEei1kNTdlcWMzcDl2NTFHTEJuY2tjZ2owTFB6MTlPem51SzZBWFFFMlREZzlELU01QjZIM3NqWWFXRmZlazZmRTAyU0Y3TWR1cmFNWXItNVdybWpzUE5zQnZYQThjZGdXeFdITXJMVFMyQmFubDlycDRLVjg1YVVxeGpVQzNBUTB6aUs3WU5ab0ZFWUNNbFBXVThDcU1vYWpqc3d3aGVDZDgtMkR1WUVrRg?oc=5"
     },
     {
-      "title": "7 Best Long-Term ETFs to Buy and Hold | Investing",
+      "title": "Morningstar to Launch Public-Private Model Portfolios With Funds From Apollo, Franklin Templeton, JPMorgan",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUNvR2tNeVFfRGRneGFaUXBoZi1JVXIzQ0dGX3RQbkFDUkpySHdSYWh6WF9lbGlLM1B2SElkNmhLUlRCY2xEVGFuVUFEampVVnlPamdvN0JsWkdJOUtHbHJ4NzhmOEZKdWZLbmc0T1ZyMHFjcHFpTGlGZ0dnSWpxZWEwbEpYTDNPTEJ6SQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRC14NUJBd0VCOUdSUUwtc1lrTFBUanFNTjNoc3QwMGxFc3lQamM0TzRUNHZOby1MbFdrWlVmaTRQcEd5d09CX1JlTzdUalhiR2JYcnBkRkxrUExwOXNrV2VGX3pvWUtzTExkWUpiUlZ1WnhNWUJsengtN2hlaGZKOUtxbFNxd2lqem91Zm45bXA5cjdYa2pHUWZucUVZYkZZakFGRFg4VQ?oc=5"
+    },
+    {
+      "title": "Morningstar Investment Conference 2026: Key Takeaways",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcGRxSXhJQ0F2LUItdDNnd3poZ1hPbFplLXlBTlJmWjRjaUlLbWp3aDdDd1RDcVhldDZZUzJLdzB0LXhWakxjQm4wYXVIN3VvalBOWmZJTFRmZzUtdGRGRFVUT2htYzRucWJXeFlobmpGWV8zd1pmZ2ppZkRORjk0UV9iM3pwQmFldWlnLWpaUG5JZmZsakE?oc=5"
     },
     {
       "title": "5 Best Fidelity Mutual Funds to Buy Now",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbnQ2ellhOGFfQndhSE1Zc0VTRmtyRXo4czhMOEVZckhrQUNNOFJqNjdSNUg4aGNJZ3c3WjZpYkhHMjhOdDV6NFByLUpVdjhPdDYtZ2ktTEVmX3RIQ0VpcThlZnZURVFoQkhqUDdfOFFXa2wyOGZKbDJtUE0zUTJzWFN2a2p6bWM1SW5lT2pvTGdkeTQ?oc=5"
+    },
+    {
+      "title": "7 High-Yield Covered Call ETFs Income Investors Will Love",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmlHOWk5a1RieXlLZjZNWHQtRGRVLWs5eS1ZMFhiQXp4RnVWQTlHcjZ1QXZqRHNicXhpQkNBcmJhck1waEozYTNodWlxb25hUklteWJCaVFxUVhWOHRxUmszUnNGUHBEVjNWeTZOVmU2REpDNjlHRjRNOWtKREtuZDFuQjVpSEsyM0VXYmlrRXdfM3lsb0ZRS3Y5Z05aSEp0?oc=5"
     },
     {
       "title": "The 3 Best Energy ETFs to Own as Oil Volatility Returns in 2026",
@@ -111,14 +111,14 @@
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcC1adW5vY184VHlqNXdGdEotWVJHc1hXTmZZd0xsYVZvZ2ZBR0hNb3hEWE5Fd0RXeDFQTmlid2NDOS1SM0pVS1k5dHJTUm9GTDRNa05jSkduT3FUZGdpd25tZ09VNjRIWk4tbjhSbS1OQXlwa2RKVkhmYTN1ZDJTRTVFcUp5N3lFRXcxQXFKV0hrQjl5UTY3Q1BlRFFRY054RnhFYm1PQXZBVE51VXFNX01jR2JSRnE0dHV3SXRJVG50NkFDMkYwZ1VBY1hJUVZOVmxPdmZ5U0FodUY1ZU1feGZsNDZQWmRBQWdHMHZQSFgzcVdJaWlfZXV0b9IB-wFBVV95cUxOcC1adW5vY184VHlqNXdGdEotWVJHc1hXTmZZd0xsYVZvZ2ZBR0hNb3hEWE5Fd0RXeDFQTmlid2NDOS1SM0pVS1k5dHJTUm9GTDRNa05jSkduT3FUZGdpd25tZ09VNjRIWk4tbjhSbS1OQXlwa2RKVkhmYTN1ZDJTRTVFcUp5N3lFRXcxQXFKV0hrQjl5UTY3Q1BlRFFRY054RnhFYm1PQXZBVE51VXFNX01jR2JSRnE0dHV3SXRJVG50NkFDMkYwZ1VBY1hJUVZOVmxPdmZ5U0FodUY1ZU1feGZsNDZQWmRBQWdHMHZQSFgzcVdJaWlfZXV0bw?oc=5"
     },
     {
-      "title": "7 High-Yield Covered Call ETFs Income Investors Will Love",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmlHOWk5a1RieXlLZjZNWHQtRGRVLWs5eS1ZMFhiQXp4RnVWQTlHcjZ1QXZqRHNicXhpQkNBcmJhck1waEozYTNodWlxb25hUklteWJCaVFxUVhWOHRxUmszUnNGUHBEVjNWeTZOVmU2REpDNjlHRjRNOWtKREtuZDFuQjVpSEsyM0VXYmlrRXdfM3lsb0ZRS3Y5Z05aSEp0?oc=5"
-    },
-    {
       "title": "3 Top Mid-Cap Stocks for 2026 and How to Invest",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSDF5cE85bVZzQng2VkRFaWx3NXZ3SWl2ZFUtUVpOdjVoTlMzZlY1czVCMEh5cS04ZlQ4ZFVld0xLOHh2WEh0YUVGMFdVczlQeUswTy1hcWhhcnRzeHZaNWRZUFpYajQwT1o5YVZuc3h3N3ljUk9fSExJMl9GNF9DRA?oc=5"
+    },
+    {
+      "title": "Garmin Stock Records Best Day In 10 Months: CEO Calls 2025 ‘Another Remarkable Year’",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPczlmZVY0U25uTDk3RE83dUEybUR3SUFJazdlQWVoMFBEaUpVR2p2SkhDbnNvcGRWMDl2ZlB3TXpEa2U1VTRnNU9GSTFWNFhaV0RhVE50QlVvUG5uMFhUdWRwbFExTnZJN2lVS2FPazh2X3Azb0wzQ3QtbTJ4bEhHcTdLdVU2ZTc1VXVqMVNpaXlwc0llY3RUVy1xWTVsWDVEM01jckpOX3I1NENsbkdtWldEaXVkclVCUFJETWlGc3hNS0d2aDc1bGp5b0tyZFplTHUwTWZDMnNkVzhOSXc?oc=5"
     }
   ]
 }

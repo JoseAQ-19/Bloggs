@@ -1861,3 +1861,4 @@ viral: Políticos noruegos se vuelven virales imitando la coreografía del remo 
 viral: Disney's Bob Hepburn: How a Retired Cast Member Became an Unlikely Social Media Sensation
 fitness: Fitness Courts Are Coming: Get Ready to Sweat This Summer!
 funds: Fondos de inversión de Scotiabank y BBVA crecen un 20% más que el promedio en 2026
+funds: Morningstar Launches Model Portfolios with Apollo and JPMorgan, Targeting 10% Returns
