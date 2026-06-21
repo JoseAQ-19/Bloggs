@@ -1881,3 +1881,4 @@ ia: Tim Ferriss vs. ChatGPT: ¿Está la IA despojando a los autores de su valor?
 ia: Chinese AI Models Pose Threats to U.S. Code Security: A Warning from Booz Allen
 tools: Análisis exhaustivo de ESGL Holdings: ¿Dónde están los soportes y resistencias clave?
 tools: Apple’s New CEO: AI Tools Should Enhance, Not Replace Products
+crypto: Bitcoin ETFs sufren una caída récord de $6.4B en medio del invierno cripto
