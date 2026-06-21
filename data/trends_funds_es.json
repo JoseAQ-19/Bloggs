@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-21T08:32:23.967307+00:00",
+  "scouted_at": "2026-06-21T08:33:44.472901+00:00",
   "total_candidates": 12,
   "topics": [
     {
       "rank": 1,
-      "title": "Scotiabank y BBVA: ¿Qué fondos de inversión mejor calificados en México superan el 10% de rentabilidad en 2026?",
+      "title": "Scotiabank y BBVA: ¿Qué fondos de inversión están superando el 10% de rendimiento en México?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Mejores ETFs de renta fija 2026: descubre cuáles ofrecen un rendimiento superior al 5% en un entorno de tasas crecientes.",
+      "title": "Comparativa de los mejores ETFs de renta fija 2026: ¿Quién ofrece los rendimientos más atractivos?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "El Ibex 35 apunta a los 20.000 puntos: ¿Es momento de invertir en fondos indexados con un rendimiento del 8% este año?",
+      "title": "Fondos monetarios 2026: ¿Cuáles son los que han logrado una rentabilidad superior al 3% en el último año?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
