@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-21T08:33:44.472901+00:00",
-  "total_candidates": 12,
+  "scouted_at": "2026-06-22T09:04:16.146371+00:00",
+  "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "Scotiabank y BBVA: ¿Qué fondos de inversión están superando el 10% de rendimiento en México?",
+      "title": "Scotiabank y BBVA: ¿Cómo sus fondos de inversión están superando a la competencia en México con rendimientos del 15%?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa de los mejores ETFs de renta fija 2026: ¿Quién ofrece los rendimientos más atractivos?",
+      "title": "El Ibex en alza: ¿Es momento de invertir en fondos indexados pese a un crecimiento del 25% en el último año?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Fondos monetarios 2026: ¿Cuáles son los que han logrado una rentabilidad superior al 3% en el último año?",
+      "title": "Renta Fija en 2023: ¿Por qué los bonos a 10 años están ofreciendo retornos inesperados del 4%?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -54,9 +54,9 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQX2VoY0c2N0p0T2JxQy1DcE1YS242Sk52VnRJWE1waUk5cmN0VVk1MXFjVldtNmRCbXlQdFJEdlNFcDJWOEtMT0dNc0o1TVJJX2tWeDJNdHg2cjl2dlRsOG5mMUJFaHdTLTJyWlZwZEt5SFd1cGZnYV85b3FSbVhnYjEyb093NmM0dUlyY1h4M0dPODdLTzJlMjh0MXBXVTJVYVdIZ0xiXzBubGxFdmxNZXhXSWZaYUU2aklMLUZxN0syYndKejlJSTNESWtmVXFKX19JOWFXdnMtdkRnWUFvYVBZSVlUZFZMY2NzTkJyT2NHR210ZFpj?oc=5"
     },
     {
-      "title": "El fondo cotizado CI Morningstar Canada Value Index anuncia un dividendo trimestral pagadero el 30 de junio de 2026",
+      "title": "El fondo cotizado CI Morningstar International Value Index anuncia un dividendo trimestral pagadero el 30 de junio de 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSEhrWktEOFoxX3M2TlUwWUhUcFBWTDBpWTdqT0VxZlllbDNXU2JLanFwSjhUYmEyR21Sd0ZXOGZfYkxBY1J6dkVUYk1fLXlLc0VyTEUxZzVld0JtejZVcHlIano2OUc1d1NLc1R0NmljaHF0NEgxeEh4WXVHUEtOVTRzcGZKdEIzaXZDTUhaNDdGTHhRdnUxTUhVOWlnekFxQzVKLTlnRGVTUl82cXQ2eE9yamQyZV9OVEd0bTV4SEg3QWpMOERHTktvMF9QOGVUd3cwNE9lNkZlbHd4UzN1bmpZRHVRZWVlQ0pyRw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNzcza2psblh4TTgxS0VhQUJQbEg5c1g5ZVZLMzlTNGN5b0Iydm9QbXFQeWRlMTlsbmhPNVFySGtfNkFOQW56dEhPRDhwdVpyTlliSU52b3FYS2dTOEpqTnpWYWlIb3lkdDZfeGlCWmNWcUxXV2dxdnVHeURmS0Z6eUxQVFBFSjhnUU42OFAyZUhhZ3NDenJQRGVmMlkxMjdNTHhBMHFtUzRvamRJU255SUxTQTFHQWJHSEtLMF9WQzhuNHcyUVI5dHlfVndlTkMxRzZ2YktPa3RoalVFc3NaQnN6TUpHYTVBbGJv?oc=5"
     },
     {
       "title": "Scotiabank y BBVA lideran el crecimiento de los fondos de inversión mejor calificados en México",
@@ -64,49 +64,14 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWEowZ3hMa1VOWW5qZU12V2pKQ2E0LWM2anA5WlZfRkhIUndsbzNmQmdpTVptLXotZG1XMEVDcXJVRkYzRW9NcWxpOWV5TWEzSGNUUnVkOXlldnJXZXNkZTRqd0kyb2wtbWtYSzlaNjRreWpYc3loaGxTejhONTVBSTRpemFJeXhVcE1ReEQwRkg5dndaQ1FMV0RuemlGLU9YT1pMT1lESnBWbko2RmJIWGNEMmcySVdJVnlTVm5xbWFxTnJ2M2VNT2JmdER6VGpzTzRjZDBKMFJ0NnlfRmFJ0gH6AUFVX3lxTFBOSTJQWHdfX0ExelA1aVlhU0tOQU5wcWdQRkc0RHA5U21yV0tsc2NoZXlQYmpnZGFqNEVxLXdBeER6Y0ZtTUgyU2tPYjNwWDdkdVhSQ05qRVpKQlRDWUZnNHZ4cnZoZVY4OXB1REFDdXlnYy1ySlNod3pRSmZfT0JnaEV4UE0yT0JCSng4QXRnVWNWN01BV3FJaGVWY2k3anJXeWxtRlZEWXlONGYtc19CZmdVa19qeFZxVzBMelkxUjN4RGt4em1DRG5mVFN5V2FiQ29pUlVoSXd4ZUp4NWVKcnhsMlZ5T2s1MC13U3E0NGRIRmFNQURaMXc?oc=5"
     },
     {
-      "title": "El fondo cotizado CI Morningstar International Value Index anuncia un dividendo trimestral pagadero el 30 de junio de 2026",
+      "title": "Invertir en Renta Fija: situación actual y perspectivas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNzcza2psblh4TTgxS0VhQUJQbEg5c1g5ZVZLMzlTNGN5b0Iydm9QbXFQeWRlMTlsbmhPNVFySGtfNkFOQW56dEhPRDhwdVpyTlliSU52b3FYS2dTOEpqTnpWYWlIb3lkdDZfeGlCWmNWcUxXV2dxdnVHeURmS0Z6eUxQVFBFSjhnUU42OFAyZUhhZ3NDenJQRGVmMlkxMjdNTHhBMHFtUzRvamRJU255SUxTQTFHQWJHSEtLMF9WQzhuNHcyUVI5dHlfVndlTkMxRzZ2YktPa3RoalVFc3NaQnN6TUpHYTVBbGJv?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
     },
     {
       "title": "El Ibex apunta a los 20.000 puntos: ¿tiene sentido entrar ahora con fondos indexados?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcFltZEZDTnVFTEJPOGhtcVl4dTJCaTRCdnBXN2xfY3UxaG0xdHo3RlJtZHhTQ092R0dhaWY4bU9QQUhGMXU3N2JmSTZaNG5FQVhuaFk0SmV0WGhIZEVISXF6SXBieDd0OXBEN0hXWUJmZUNVazRCWEtBMmlTOXZwOGxEM3duMm1KQkxR?oc=5"
-    },
-    {
-      "title": "Los mejores fondos monetarios 2026: comparativa actualizada",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1lRckJiQXplcHFXc3Z4dUhxZW1xeDJrX0I3Q1pYM1Rud2l4eVBlakJ1WjVRZHpxQ3ZNckI2dnBYbklPUVUzYlBQbFl5azFzMXlqazBOaXk2cnRVRE1mb1RfMUJjZktPaFZmejcwMklnT2ZLWlJmV2NDaGJGOWx2X1ZTeHM?oc=5"
-    },
-    {
-      "title": "Mejores depósitos bancarios a plazo fijo 2026 (junio)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
-    },
-    {
-      "title": "Mejores ETFs de renta fija 2026: los más interesantes",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uNGFnaFNyOWthYlhBZ0stSGxXLThnTFVUVUE2YTBfOW9lTVJPNF9HZ2JGbXl6RGJ2aUdJc3J6YnNhRUkzaVFPNXJ2WHJtaHBtdUl1UkJtWlg1bkNlRW1ma2lpeTBndURCMGFoa05waUo?oc=5"
-    },
-    {
-      "title": "Mejores brókers para invertir en dividendos 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdzd2RGZLa21uSWtoTEpKNkI1WlhOVzkta0pKbEVJZGlHblllaGlQX1ZUWndkUjNka3AxejZzVndrOFFiYzRGLXgwSXIwbGtLSEhaV0c1QWFLdXhseklLSnRIUzl0aFVMakVvcGtrS0JzOFNlaXRINEZyaHYwVEZDeFFYNzBDMWxPTjc1RnFuTU9Qc0FoUTlN?oc=5"
-    },
-    {
-      "title": "En directo, bolsa e Ibex 35 | Dow Jones, S&P 500 y Nasdaq lanzan el rebote; Intel lidera la reacción de Wall Street",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTEdkRDA0dXhsTU5HQWJWb0owM1R3cDlUak5FYzYwcTFzekVGdnVQTERRVHA1dVlBN0g1U0lhbDQ5YnZjMVBiZkp3bEpyc2cxQ2lUaDRGT2tZc3JaeFZ3X3lsdmZYX2VLWVlQbE1vTnk0ellhbHZjNjdKRVA5U3BaRlh0cjRVdURWbEMwTA?oc=5"
-    },
-    {
-      "title": "Revolut vs Trade Republic: ¿qué cuenta remunerada elegir en 2026?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFU4YnBLNlBMejZGQVo3Nmc2N1lDZkROclluQVFvX2E5MGtreHI2QnFYWHpsSjM1eHo2Z2dLNjdTSzVhMHZXSnlvUWZuaWVkQlVsT2lYd0UzVGNJT25OODVDRjZfd0l3Rkl3MGR6eDZFUXdnYWY0SEZPMk83VTJBeHpHTng1V0Nuc2d5WWdUMlUxdURpVnBwVG1XVG9xZ3VuMnUzM3k0RDZmTGo1UmxwcUNQYw?oc=5"
-    },
-    {
-      "title": "Los mejores brokers sin comisiones en España en 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcmlPMFR3ZWRUcVJIVGI3aTItQ1lLS3l2QTV1ZWxFNFE4dm94bHBKbWtKVGRLRFNsdVNWV0ZleDVoX0FwMjFWTGRLd05hMlUtdm5xRWdyM19FcVlPRVduU3dNNTVNV1FzRTNWa2hUMy1LNWd1Nld6OXRITXAtTF9KeHFWVGQ?oc=5"
     }
   ]
 }
