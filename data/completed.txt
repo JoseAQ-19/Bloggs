@@ -1893,3 +1893,4 @@ fitness: Fitness and Leadership: Why a Strong Body Equals a Strong Mind
 funds: Scotiabank y BBVA superan a la competencia con rendimientos del 15% en 2023
 funds: 10 Key Metrics Morningstar Analysts Use to Evaluate Fund Managers
 funds: Top Managers Find 15% Value in Concentrated Small-Cap Market Opportunities
+ia: Principios y retos de la IA responsable: ¿Estamos listos para el futuro?
