@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-22T09:04:16.146371+00:00",
+  "scouted_at": "2026-06-22T09:05:48.736007+00:00",
   "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "Scotiabank y BBVA: ¿Cómo sus fondos de inversión están superando a la competencia en México con rendimientos del 15%?",
+      "title": "Scotiabank y BBVA: ¿Cómo sus fondos de inversión están superando a la competencia en México con rendimientos del 15% en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El Ibex en alza: ¿Es momento de invertir en fondos indexados pese a un crecimiento del 25% en el último año?",
+      "title": "El fondo cotizado CI Morningstar International Value Index: ¿Qué significa su dividendo trimestral de $0.50 para los inversores en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Renta Fija en 2023: ¿Por qué los bonos a 10 años están ofreciendo retornos inesperados del 4%?",
+      "title": "El Ibex en camino a los 20.000 puntos: ¿Es ahora el mejor momento para invertir en fondos indexados con una rentabilidad del 8%?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
