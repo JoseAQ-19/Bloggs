@@ -1899,3 +1899,4 @@ tools: La polémica de Sam Altman: ¿Corrupción en la startup más innovadora?
 tools: Google’s $75 Million Bet on AI: The Future of Filmmaking Tools
 crypto: MoonPay revoluciona el juego: IA contable para stablecoins en una era digital
 crypto: Andrew Cuomo Takes the Helm: New Crypto Venture with NYSE Owner Unveiled
+crypto: Congress's Digital Dollar Ban: A Game Changer for Crypto Stocks?
