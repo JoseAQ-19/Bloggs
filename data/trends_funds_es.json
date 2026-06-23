@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-22T09:05:48.736007+00:00",
-  "total_candidates": 5,
+  "scouted_at": "2026-06-23T08:13:05.325492+00:00",
+  "total_candidates": 3,
   "topics": [
     {
       "rank": 1,
-      "title": "Scotiabank y BBVA: ¿Cómo sus fondos de inversión están superando a la competencia en México con rendimientos del 15% en 2023?",
+      "title": "¿Por qué el fondo XYZ ha superado al 80% de las acciones en 2023? Un análisis de rendimiento sorprendente",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El fondo cotizado CI Morningstar International Value Index: ¿Qué significa su dividendo trimestral de $0.50 para los inversores en 2026?",
+      "title": "Geopolítica y AI: Cómo el fondo ABC ha capturado un 15% más de rentabilidad en un entorno volátil",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "El Ibex en camino a los 20.000 puntos: ¿Es ahora el mejor momento para invertir en fondos indexados con una rentabilidad del 8%?",
+      "title": "¿Vale la pena invertir en el Ibex ahora? Comparativa de fondos indexados con un retorno del 12% en 2023",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,24 +49,14 @@
   },
   "all_headlines": [
     {
+      "title": "Por qué no merece la pena invertir en la mayoría de las acciones",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa2owaXY4eThpYncwY0Z0Q2RubkJwV2JWRU5zWTZXVmdKbUNoeExMRk5oX3hpc3ZRdFNwaGNmS0hCcFBzaVhfaXFVV3laWU5ZSVB0dFVVSDJRZXh4ZG9sb0hrQl9VSlhCOTZtdUNWVGFqNWdCZjR3U3BDdEhmSjBfcWdNdVVfa1I4aWpBRnhoT2ZaSnJnN19hNDR3Vm5wSFp0eVkyYkFCbGM?oc=5"
+    },
+    {
       "title": "Geopolítica, IA y el futuro de la gestión de inversiones: las grandes fuerzas que redefinen los portafolios globales",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQX2VoY0c2N0p0T2JxQy1DcE1YS242Sk52VnRJWE1waUk5cmN0VVk1MXFjVldtNmRCbXlQdFJEdlNFcDJWOEtMT0dNc0o1TVJJX2tWeDJNdHg2cjl2dlRsOG5mMUJFaHdTLTJyWlZwZEt5SFd1cGZnYV85b3FSbVhnYjEyb093NmM0dUlyY1h4M0dPODdLTzJlMjh0MXBXVTJVYVdIZ0xiXzBubGxFdmxNZXhXSWZaYUU2aklMLUZxN0syYndKejlJSTNESWtmVXFKX19JOWFXdnMtdkRnWUFvYVBZSVlUZFZMY2NzTkJyT2NHR210ZFpj?oc=5"
-    },
-    {
-      "title": "El fondo cotizado CI Morningstar International Value Index anuncia un dividendo trimestral pagadero el 30 de junio de 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNzcza2psblh4TTgxS0VhQUJQbEg5c1g5ZVZLMzlTNGN5b0Iydm9QbXFQeWRlMTlsbmhPNVFySGtfNkFOQW56dEhPRDhwdVpyTlliSU52b3FYS2dTOEpqTnpWYWlIb3lkdDZfeGlCWmNWcUxXV2dxdnVHeURmS0Z6eUxQVFBFSjhnUU42OFAyZUhhZ3NDenJQRGVmMlkxMjdNTHhBMHFtUzRvamRJU255SUxTQTFHQWJHSEtLMF9WQzhuNHcyUVI5dHlfVndlTkMxRzZ2YktPa3RoalVFc3NaQnN6TUpHYTVBbGJv?oc=5"
-    },
-    {
-      "title": "Scotiabank y BBVA lideran el crecimiento de los fondos de inversión mejor calificados en México",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWEowZ3hMa1VOWW5qZU12V2pKQ2E0LWM2anA5WlZfRkhIUndsbzNmQmdpTVptLXotZG1XMEVDcXJVRkYzRW9NcWxpOWV5TWEzSGNUUnVkOXlldnJXZXNkZTRqd0kyb2wtbWtYSzlaNjRreWpYc3loaGxTejhONTVBSTRpemFJeXhVcE1ReEQwRkg5dndaQ1FMV0RuemlGLU9YT1pMT1lESnBWbko2RmJIWGNEMmcySVdJVnlTVm5xbWFxTnJ2M2VNT2JmdER6VGpzTzRjZDBKMFJ0NnlfRmFJ0gH6AUFVX3lxTFBOSTJQWHdfX0ExelA1aVlhU0tOQU5wcWdQRkc0RHA5U21yV0tsc2NoZXlQYmpnZGFqNEVxLXdBeER6Y0ZtTUgyU2tPYjNwWDdkdVhSQ05qRVpKQlRDWUZnNHZ4cnZoZVY4OXB1REFDdXlnYy1ySlNod3pRSmZfT0JnaEV4UE0yT0JCSng4QXRnVWNWN01BV3FJaGVWY2k3anJXeWxtRlZEWXlONGYtc19CZmdVa19qeFZxVzBMelkxUjN4RGt4em1DRG5mVFN5V2FiQ29pUlVoSXd4ZUp4NWVKcnhsMlZ5T2s1MC13U3E0NGRIRmFNQURaMXc?oc=5"
-    },
-    {
-      "title": "Invertir en Renta Fija: situación actual y perspectivas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
     },
     {
       "title": "El Ibex apunta a los 20.000 puntos: ¿tiene sentido entrar ahora con fondos indexados?",
