@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-23T08:13:05.325492+00:00",
+  "scouted_at": "2026-06-23T08:14:27.504993+00:00",
   "total_candidates": 3,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Por qué el fondo XYZ ha superado al 80% de las acciones en 2023? Un análisis de rendimiento sorprendente",
+      "title": "Geopolítica y IA: ¿Cómo están influyendo en el rendimiento de los fondos de inversión de 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Geopolítica y AI: Cómo el fondo ABC ha capturado un 15% más de rentabilidad en un entorno volátil",
+      "title": "El Ibex a punto de alcanzar los 20.000 puntos: ¿Es el momento adecuado para invertir en fondos indexados con un rendimiento del 12%?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "¿Vale la pena invertir en el Ibex ahora? Comparativa de fondos indexados con un retorno del 12% en 2023",
+      "title": "Análisis de acciones: ¿Por qué el 70% de las acciones actuales no justifican su valor en el mercado?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
