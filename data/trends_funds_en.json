@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-24T09:43:05.002508+00:00",
-  "total_candidates": 14,
+  "scouted_at": "2026-06-24T09:45:11.437136+00:00",
+  "total_candidates": 13,
   "topics": [
     {
       "rank": 1,
-      "title": "Thornburg Extends Income Builder Franchise with Launch of THOR ETF",
-      "lang": "en",
-      "source": "google_news_finance"
-    },
-    {
-      "rank": 2,
       "title": "Is Morningstar (MORN) Quietly Redefining Its Moat With Accessible Private-Market Model Portfolios?",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "WELD lands 5-Star Morningstar rating as U.S. factory bets gain traction",
+      "lang": "en",
+      "source": "google_news_finance"
+    },
+    {
+      "rank": 3,
+      "title": "These are the red flags Morningstar fund analysts look for",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -28,6 +28,7 @@
       "fund class": 21,
       "full list": 20,
       "index fund": 7,
+      "view full": 5,
       "small cap": 5,
       "emerging markets": 4,
       "fund institutional": 4,
@@ -38,8 +39,7 @@
       "growth portfolio": 3,
       "portfolio class": 3,
       "convertible securities": 3,
-      "list allspring": 3,
-      "allspring index": 3
+      "list allspring": 3
     },
     "competitors_with_disclaimers": 1,
     "sample_styles": {
@@ -50,11 +50,6 @@
     }
   },
   "all_headlines": [
-    {
-      "title": "Thornburg Extends Income Builder Franchise with Launch of THOR ETF",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcW5BMEUwVkhNQjVoQ2Vudy1LdEd2RjNGaXFHaWQzaGJlRjBRRWp6UklVUmtURk84Sk5lbFZFQURUSl9IVHJYckF4b3h2X19rbElYZEM3R3NNNlhwV2VGSHVzV3JicVQxcDhqemFYb0k1ODJrQVo3eXB3enJlOWtFdUdiQXBpWUtoX3pXYUwtNVROS1daWElidHFQM0ZVNE8yeWhaLXBXTGFoQnB4M0lla0FpVGY2VE1md3lCOFVGVVk0a2ZueWc?oc=5"
-    },
     {
       "title": "Is Morningstar (MORN) Quietly Redefining Its Moat With Accessible Private-Market Model Portfolios?",
       "source": "google_news_finance",
@@ -81,14 +76,9 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTVFHWVFjcHJZZUdDVXc0OFNWeGJOdy1OS3VkbHgwMGtZc3YxTERQXzZxdnVPUE5Ga194aTJwTWJ2MktMQ0o2U0tRclJCajZqVi1EbTJIWllGbC1NY09TSU5FQjBPNEQyUFRVWGZZV2J3a19tQXZPeVlhMTBkaG5sbTdXSjRuODJEbHFKYTVkaw?oc=5"
     },
     {
-      "title": "Here’s My Investment Philosophy. What’s Yours?",
+      "title": "Thornburg Extends Income Builder Franchise with Launch of THOR ETF",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmY3OHg4T0QzaWM2Rzl5Ri1FWjhSYU9panVmWHlzX1NuRkRJdlhCRS1qc0VpSGlkZENnWmN6TjFCRjhwdzNPRTBhclhLajBiZzh6ZTN1TG5zdFhpaFhYUEcwU3MzY0FlTWhfMlZ0TG5iUHVTeEM1LVl5QU05WmhRQUlRS2x1Yl83dDZhd3NFVHA?oc=5"
-    },
-    {
-      "title": "7 Best Fidelity ETFs to Buy Now | Investing",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9haHhtUnNYTGI2NGVGZjBnclVVbkFuVUs2TmZiWTA3Vnowd0FldmtYMXRJc05jWDFXQkRyU29lXzhZeWI4MGViNXMyQWZPdHVLeFcxUXBRMjlOUVNkTDI4enZkMGY0UHp0a1VvTThNZmxZQ21vdzlueA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcW5BMEUwVkhNQjVoQ2Vudy1LdEd2RjNGaXFHaWQzaGJlRjBRRWp6UklVUmtURk84Sk5lbFZFQURUSl9IVHJYckF4b3h2X19rbElYZEM3R3NNNlhwV2VGSHVzV3JicVQxcDhqemFYb0k1ODJrQVo3eXB3enJlOWtFdUdiQXBpWUtoX3pXYUwtNVROS1daWElidHFQM0ZVNE8yeWhaLXBXTGFoQnB4M0lla0FpVGY2VE1md3lCOFVGVVk0a2ZueWc?oc=5"
     },
     {
       "title": "Monthly Performance Review QQQ",
@@ -119,6 +109,11 @@
       "title": "This Fund Crushed It in 2025. It’s a Trap in 2026.",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWZJVEhBb2VLQ0o1eEk2RWNUUVpJcHJZRDNidHdlcWVnTDNuOXd2MTJ5dzQyQm0xajc2LVpMZzJObkpaOUNPbmMtS0JmV0hXZWs0RUtFNGVzR1BmYjVpZ0FvcFZYZlE4c2lGZDMxeEtLSVlfQU9tMEJVcUh5d0RVaFRuQmo?oc=5"
+    },
+    {
+      "title": "US Agencies Propose Verification Rules for Stablecoin Issuers",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5"
     }
   ]
 }
