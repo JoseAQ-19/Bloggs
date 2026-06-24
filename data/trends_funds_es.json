@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-24T08:10:22.120158+00:00",
+  "scouted_at": "2026-06-24T08:11:42.535414+00:00",
   "total_candidates": 1,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Por qué el fondo de inversión ABC ha superado al 90% de las acciones en 2023? Descubre su rendimiento excepcional.",
+      "title": "¿Por qué el fondo XYZ superó a sus competidores en un 25% en el último trimestre?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa de fondos: ¿Por qué los ETFs de tecnología europea están perdiendo frente a los fondos de renta fija en 2023?",
+      "title": "Comparativa: Fondos de inversión A y B, ¿quién ofrece la mejor rentabilidad con menos comisiones?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Análisis sorprendente: ¿Puede el fondo DEF ofrecer una rentabilidad del 12% mientras las acciones caen en picada?",
+      "title": "Sorprendente rendimiento: El fondo ABC logra un 15% más que el índice de referencia en 2023.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
