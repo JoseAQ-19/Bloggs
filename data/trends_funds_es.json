@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-23T08:14:27.504993+00:00",
-  "total_candidates": 3,
+  "scouted_at": "2026-06-24T08:10:22.120158+00:00",
+  "total_candidates": 1,
   "topics": [
     {
       "rank": 1,
-      "title": "Geopolítica y IA: ¿Cómo están influyendo en el rendimiento de los fondos de inversión de 2023?",
+      "title": "¿Por qué el fondo de inversión ABC ha superado al 90% de las acciones en 2023? Descubre su rendimiento excepcional.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El Ibex a punto de alcanzar los 20.000 puntos: ¿Es el momento adecuado para invertir en fondos indexados con un rendimiento del 12%?",
+      "title": "Comparativa de fondos: ¿Por qué los ETFs de tecnología europea están perdiendo frente a los fondos de renta fija en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Análisis de acciones: ¿Por qué el 70% de las acciones actuales no justifican su valor en el mercado?",
+      "title": "Análisis sorprendente: ¿Puede el fondo DEF ofrecer una rentabilidad del 12% mientras las acciones caen en picada?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -52,16 +52,6 @@
       "title": "Por qué no merece la pena invertir en la mayoría de las acciones",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa2owaXY4eThpYncwY0Z0Q2RubkJwV2JWRU5zWTZXVmdKbUNoeExMRk5oX3hpc3ZRdFNwaGNmS0hCcFBzaVhfaXFVV3laWU5ZSVB0dFVVSDJRZXh4ZG9sb0hrQl9VSlhCOTZtdUNWVGFqNWdCZjR3U3BDdEhmSjBfcWdNdVVfa1I4aWpBRnhoT2ZaSnJnN19hNDR3Vm5wSFp0eVkyYkFCbGM?oc=5"
-    },
-    {
-      "title": "Geopolítica, IA y el futuro de la gestión de inversiones: las grandes fuerzas que redefinen los portafolios globales",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQX2VoY0c2N0p0T2JxQy1DcE1YS242Sk52VnRJWE1waUk5cmN0VVk1MXFjVldtNmRCbXlQdFJEdlNFcDJWOEtMT0dNc0o1TVJJX2tWeDJNdHg2cjl2dlRsOG5mMUJFaHdTLTJyWlZwZEt5SFd1cGZnYV85b3FSbVhnYjEyb093NmM0dUlyY1h4M0dPODdLTzJlMjh0MXBXVTJVYVdIZ0xiXzBubGxFdmxNZXhXSWZaYUU2aklMLUZxN0syYndKejlJSTNESWtmVXFKX19JOWFXdnMtdkRnWUFvYVBZSVlUZFZMY2NzTkJyT2NHR210ZFpj?oc=5"
-    },
-    {
-      "title": "El Ibex apunta a los 20.000 puntos: ¿tiene sentido entrar ahora con fondos indexados?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcFltZEZDTnVFTEJPOGhtcVl4dTJCaTRCdnBXN2xfY3UxaG0xdHo3RlJtZHhTQ092R0dhaWY4bU9QQUhGMXU3N2JmSTZaNG5FQVhuaFk0SmV0WGhIZEVISXF6SXBieDd0OXBEN0hXWUJmZUNVazRCWEtBMmlTOXZwOGxEM3duMm1KQkxR?oc=5"
     }
   ]
 }
