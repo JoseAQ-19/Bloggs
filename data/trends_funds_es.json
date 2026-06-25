@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-24T08:11:42.535414+00:00",
-  "total_candidates": 1,
+  "scouted_at": "2026-06-25T08:09:33.952660+00:00",
+  "total_candidates": 4,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Por qué el fondo XYZ superó a sus competidores en un 25% en el último trimestre?",
+      "title": "Fondos indexados al S&P 500 en 2026: ¿Cuál ofrece un rendimiento superior del 15%?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa: Fondos de inversión A y B, ¿quién ofrece la mejor rentabilidad con menos comisiones?",
+      "title": "Mejores cuentas online sin comisiones 2026 en España: Compara las 5 más rentables y descubre ahorros del 3% anual.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Sorprendente rendimiento: El fondo ABC logra un 15% más que el índice de referencia en 2023.",
+      "title": "Micron y el rally de la IA: ¿Puede su rendimiento superar el 25% este trimestre?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -52,6 +52,21 @@
       "title": "Por qué no merece la pena invertir en la mayoría de las acciones",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa2owaXY4eThpYncwY0Z0Q2RubkJwV2JWRU5zWTZXVmdKbUNoeExMRk5oX3hpc3ZRdFNwaGNmS0hCcFBzaVhfaXFVV3laWU5ZSVB0dFVVSDJRZXh4ZG9sb0hrQl9VSlhCOTZtdUNWVGFqNWdCZjR3U3BDdEhmSjBfcWdNdVVfa1I4aWpBRnhoT2ZaSnJnN19hNDR3Vm5wSFp0eVkyYkFCbGM?oc=5"
+    },
+    {
+      "title": "Fondos indexados al S&P 500 en 2026, comparativa y rentabilidad: ¿Cuál es mejor?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk0tQzEzSHNxaDZzZVF1WUc3NFo5d2NWUjZPbDBWRHpMajdLZVBiTUo2QUVRRmtlblVQaHoxMzFuWmY1MFRJLWFMRUhkY2dQd1BfTHRhQUlLSnVwQXhWTTlMQ0JVelhoNDA2LWxYRmpvRmo1S19veHJjTkFsaUVjYVZxTVpOclNZQ1NuZXVudUpXQTRLVmdmS3Z1UkhNR3I4LW1sLTBB?oc=5"
+    },
+    {
+      "title": "Mejores cuentas online sin comisiones 2026 en España",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOUdXZFltU05fWUtKM1N4akVyTVNZMEJZSWJpZV80ZGR4TjV1ckJFWU5ZSXBqWmtKeVhTNXNKc1pEcXhaM1FyRWhpa0M1cmRlbldfTVdsMmF6ellQc1Aya2JrUmQ5VzQ0di1YOEo0MEhuR240S0ZXOHBqbDRVNTJLVkVLbw?oc=5"
+    },
+    {
+      "title": "Micron pone a prueba el rally de la IA: el dólar marca el paso | Resumen diario de mercados",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWjRIejRhYUhTY2c3MTlhMXF1X0lFOXh1U2U3Szg3aGl4c0ZkSm05TDJzLWp1QS1Eb21Oa2Jzb0JSQ0JKSzVUSE15ME5KT3lKakRld3hVdmgxb0lQeGNfaHF1MlpaOUV0Z1VOM2dFc096aDdDeVpWVGkybzBDdkd1RGNGT25PUnlEdEdiSkVqV0tGWWZsNWY4Ym5qWDc4VlA4RHBNTV8wRzgtMHlHTjctX3N3bDNmT1Zxa1ZYVjY4UUxIajFUU041Tk9GYl85ckpNem1iaTlVWGxqdw?oc=5"
     }
   ]
 }
