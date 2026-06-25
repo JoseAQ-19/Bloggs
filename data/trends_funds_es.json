@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-25T08:09:33.952660+00:00",
+  "scouted_at": "2026-06-25T08:10:48.867794+00:00",
   "total_candidates": 4,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos indexados al S&P 500 en 2026: ¿Cuál ofrece un rendimiento superior del 15%?",
+      "title": "Comparativa 2026: ¿Qué fondo indexado al S&P 500 ha superado el 15% de rentabilidad?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Mejores cuentas online sin comisiones 2026 en España: Compara las 5 más rentables y descubre ahorros del 3% anual.",
+      "title": "Las mejores cuentas online en España: ¿Qué opciones sin comisiones ofrecen un 4% de interés en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Micron y el rally de la IA: ¿Puede su rendimiento superar el 25% este trimestre?",
+      "title": "Micron y el rally de la IA: ¿Por qué su rendimiento del 20% desafía las expectativas del mercado?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
