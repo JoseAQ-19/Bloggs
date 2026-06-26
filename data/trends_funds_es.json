@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-26T08:14:53.672286+00:00",
+  "scouted_at": "2026-06-26T08:16:10.800454+00:00",
   "total_candidates": 7,
   "topics": [
     {
       "rank": 1,
-      "title": "El fondo español que supera al mercado: descubre cómo comprar barato ha generado un 15% más de rentabilidad en 2023",
+      "title": "El fondo español que supera al mercado: descubre cómo comprar barato ha dado un 15% más de retorno este año",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa 2026: Indexa Capital vs MyInvestor, ¿quién ofrece las mejores tarifas y rendimiento en el sector de roboadvisors?",
+      "title": "Comparativa 2026: ¿Indexa Capital o MyInvestor? Analizamos sus comisiones y rendimientos para ayudarte a elegir",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "El nuevo mapa geopolítico y monetario: ¿qué sectores del IBEX 35 están listos para un cambio radical y por qué?",
+      "title": "Perspectivas de los 5 grandes valores del Ibex 35: ¿quién liderará el rally en un nuevo mapa geopolítico?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
