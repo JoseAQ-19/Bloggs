@@ -1951,3 +1951,4 @@ viral: Scandal in Science: Retraction of Lung Cancer Study Shakes Medical Commun
 fitness: $19 Million Fitness Center Opening in Hoover: What It Means for the Community
 funds: El fondo español XYZ supera al mercado con un 15% más de retorno en 2023
 funds: Morningstar Urges Congress: 30% Lower Costs Drive Investor Success
+funds: Nuveen's Takeover of Schroders Confirmed; Fair Value Estimate Rises by 15%
