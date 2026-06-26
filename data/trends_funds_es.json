@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-25T08:10:48.867794+00:00",
-  "total_candidates": 4,
+  "scouted_at": "2026-06-26T08:14:53.672286+00:00",
+  "total_candidates": 7,
   "topics": [
     {
       "rank": 1,
-      "title": "Comparativa 2026: ¿Qué fondo indexado al S&P 500 ha superado el 15% de rentabilidad?",
+      "title": "El fondo español que supera al mercado: descubre cómo comprar barato ha generado un 15% más de rentabilidad en 2023",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Las mejores cuentas online en España: ¿Qué opciones sin comisiones ofrecen un 4% de interés en 2026?",
+      "title": "Comparativa 2026: Indexa Capital vs MyInvestor, ¿quién ofrece las mejores tarifas y rendimiento en el sector de roboadvisors?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Micron y el rally de la IA: ¿Por qué su rendimiento del 20% desafía las expectativas del mercado?",
+      "title": "El nuevo mapa geopolítico y monetario: ¿qué sectores del IBEX 35 están listos para un cambio radical y por qué?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,24 +49,39 @@
   },
   "all_headlines": [
     {
-      "title": "Por qué no merece la pena invertir en la mayoría de las acciones",
+      "title": "El fondo español que supera al mercado con una idea muy sencilla: comprar barato",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa2owaXY4eThpYncwY0Z0Q2RubkJwV2JWRU5zWTZXVmdKbUNoeExMRk5oX3hpc3ZRdFNwaGNmS0hCcFBzaVhfaXFVV3laWU5ZSVB0dFVVSDJRZXh4ZG9sb0hrQl9VSlhCOTZtdUNWVGFqNWdCZjR3U3BDdEhmSjBfcWdNdVVfa1I4aWpBRnhoT2ZaSnJnN19hNDR3Vm5wSFp0eVkyYkFCbGM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON1NLNWNlTEh0QkdaZ0VoMU9WbTZ5N3p6cU5UeWoySUpPYjIxalVyZHRJejFsMlZNSmJVMDdUdXpnT3pjV3R3a3ZpTWJwREx0UzFRYnYtejVqZlluS3lid1dXUTNXM0E1NFJ2WkFKVDFsVGpJRGlNTUg2WkRDNnBoOVVVeDBMTmU3ZkpCblR1azNkZ3A4UnVWWWx0cEh2YjJuZTA1aDlpV2dVQ3lVVnBrU2RMQVNYeW9VaVAyaFRGd01EamJFa0dmNdIBzgFBVV95cUxOVnllMzJsdDBEWGpFaWZVZ2loZjlvWE0yUE5ybng4QTIxamk5TVdZdGduYkpLVUs5Rk5hYk1SNlE2REd1WU8xS1ZwZEpMX1poRExVTkdfdmNqc3B3MnBTLUZIY2JJMnJnQ1hkdXJOLW1lUThTQ2RhdTdPeFdSc0dtOGU4MTd1eExIalN0ZGx2dFpyWGdsT2tCRFZkdEpjMzd5c01vY2RoUEswVGVteWx0cGREemdTX1paUlpodzRISTVkaE56MGExekVNMFJ2QQ?oc=5"
     },
     {
-      "title": "Fondos indexados al S&P 500 en 2026, comparativa y rentabilidad: ¿Cuál es mejor?",
+      "title": "El fondo cotizado First Trust Morningstar Dividend Leaders ETF (CAD-Hedged) anuncia un dividendo trimestral pagadero el 8 de julio de 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk0tQzEzSHNxaDZzZVF1WUc3NFo5d2NWUjZPbDBWRHpMajdLZVBiTUo2QUVRRmtlblVQaHoxMzFuWmY1MFRJLWFMRUhkY2dQd1BfTHRhQUlLSnVwQXhWTTlMQ0JVelhoNDA2LWxYRmpvRmo1S19veHJjTkFsaUVjYVZxTVpOclNZQ1NuZXVudUpXQTRLVmdmS3Z1UkhNR3I4LW1sLTBB?oc=5"
-    },
-    {
-      "title": "Mejores cuentas online sin comisiones 2026 en España",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOUdXZFltU05fWUtKM1N4akVyTVNZMEJZSWJpZV80ZGR4TjV1ckJFWU5ZSXBqWmtKeVhTNXNKc1pEcXhaM1FyRWhpa0M1cmRlbldfTVdsMmF6ellQc1Aya2JrUmQ5VzQ0di1YOEo0MEhuR240S0ZXOHBqbDRVNTJLVkVLbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdU1xSXB5N213Tm5qeTI1R2FSTXIwa1pGRkUwd3BCbFRka1d5aVlQOGZpcW1yVWptZm1FTmJpZWNxaE5vcWlVWWNZV0dENE9WTExQeU02VzA0VXpQOXdSX2VZdndaS0U3STJFVVN0ZC1DM0M3QVg0cEM5aUZmd0xacC1PYnNCcU93ZFFHQS1kUE1zaUFMOHBqTUJiZDIxR2VlZF9FY2lxR2o2RTZETG9LLUg2WGczQlJoNHQ1R08teGRmLWJELW5udzRmUjlFZUVzUDZoRWgzNWhLMnMzUm1WZ3R0cFRCN0Zjcnc?oc=5"
     },
     {
       "title": "Micron pone a prueba el rally de la IA: el dólar marca el paso | Resumen diario de mercados",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWjRIejRhYUhTY2c3MTlhMXF1X0lFOXh1U2U3Szg3aGl4c0ZkSm05TDJzLWp1QS1Eb21Oa2Jzb0JSQ0JKSzVUSE15ME5KT3lKakRld3hVdmgxb0lQeGNfaHF1MlpaOUV0Z1VOM2dFc096aDdDeVpWVGkybzBDdkd1RGNGT25PUnlEdEdiSkVqV0tGWWZsNWY4Ym5qWDc4VlA4RHBNTV8wRzgtMHlHTjctX3N3bDNmT1Zxa1ZYVjY4UUxIajFUU041Tk9GYl85ckpNem1iaTlVWGxqdw?oc=5"
+    },
+    {
+      "title": "Indexa Capital: opiniones del gestor automatizado de inversiones 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkpxbEVNeGhjaDM0TW12aW8wZVlyb2ItU2M5WkRfczdHN2x3WDVUUm9rMDdBTnBvR2RscmdheEs4ODlLcXVZR01XZ1NoUXZrRVFrdHpwSE0tSDZybTJVdjB6Uko0b3lLbUdYYzhMejgzRU9PSk5JbE5NZTBSdTNWWUl4YVRIUWs2ZHlTWnQzUkM0cW5IQTU0bUZpcFM0c29HMzVHblVDSVdFc0Y3TWJBNzVZR3hVcmRGN1E?oc=5"
+    },
+    {
+      "title": "El nuevo mapa geopolítico y monetario hace necesaria una nueva rotación sectorial en el IBEX 35",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTVdUbUkwNEtYTzVhSmZTZHJVa2ljeDluOEhNdVp1OXl2X0EzRldiemxqRFpMc0lGZU1ma1ZfdFZNa0ZoTHp2N1FPejBvbHFKM1dCdFc3b2hWZGFDLUE4UzNfaHRGVE1zQkFaNnNRQjlhTlo0LWlYU3Z5VEpYY2dHZTFBVmdzQ3k5YUtGOXA4UXJVRDBMQzdwNUhnNUhTcmszQktmMkpydWtSYko4UmFIR1ZzZVJkNGh2YnhoMDFRTWJvazFvTEU4NUNqWdIBogFBVV95cUxQdHRJQ01RbU9vbm42Rm15YXF4aExGclUzdmlxOGdpdnprM191WUFMSzNfQm4taER0MUdMVWlpZXhMaFRiN19oRWZxWUp6N241NGNhaE1wcWNvd1ZIWlBYMnNNbm54ZWpnMFhITnpDYlYyQ3l6RkxocnNlZzB4RFd5U0Z3U0tUYWRtUHlRLWg5Q29CU0ViekhXd3EyWHpPSU9SMkE?oc=5"
+    },
+    {
+      "title": "Comparativa Indexa Capital vs MyInvestor 2026: ¿qué roboadvisor gana?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHVpamVqcWF4SWUwUjRmcjlHaXdCa3I4SlZwWnQwM0NBVzhhRm5uaVhYRENNaWlQc0ZNaWY0LUlFal9pYlNCb0FhQnpZcXYtM1VlY1ZWNXQyR3dmTzhrR2ZSNXYwMUdmXzMwRlZ3XzRJbEN4cmV5ZE1EMm9BMGN4Tk9Ca0txeEJOWERISUpn?oc=5"
+    },
+    {
+      "title": "Perspectivas de los 5 grandes valores del Ibex 35 en bolsa",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbFhLeWxKMnd4aUREclRHYzItNHlXeHZKcUR1bWtHZFRVWFY5QjY0NERJWWtvczZnZ3RBZkxaMDFoYkhtdjJWbEVnQ1VtTjF5TGFhVWlBZGpvNGNtb2E5V1FtNkk5T3djVjFXY181X0c3SF9VdEsyOEFUVWdzci1jZGFXbFFaTVR6bno1Yko2Z1ZmclNsczJzMGpsaFpjT2U0ek1HU1dUYjUyUEs0eDJTdW5zd1BQellmcFlyM1FucWRiUlY1cFHSAZ8BQVVfeXFMT0JwRDhOeS1VSkpFa2RkR2dRcFJQYmpNa01saEhFa2hNY0JYYVUyclNWLWRTSXJ5Znc5WkRCbFNhUmhlX0NIN3RMWk9NenBDWFdObzhjT1dETE9Da2ZpeXR6cF91WmR6cFlSSVBDcHZjV3Z2QWlEMVk2cjhsREk0ZnRReEhuVHpWa2U1UlpVTlZWaTZHVlg2MWNxaVRfR0NJ?oc=5"
     }
   ]
 }
