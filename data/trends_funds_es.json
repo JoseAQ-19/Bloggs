@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-27T07:58:46.736757+00:00",
+  "scouted_at": "2026-06-27T08:00:07.403403+00:00",
   "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "Descubre el fondo español que ha superado al mercado con rendimientos del 12% gracias a su estrategia de compra a bajo precio",
+      "title": "El fondo español que supera al mercado con una idea muy sencilla: comprar barato",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis de los 10 ETFs del sector de defensa que han ofrecido un rendimiento promedio del 15% en 2026",
+      "title": "El fondo cotizado First Trust Morningstar Dividend Leaders ETF (CAD-Hedged) anuncia un dividendo trimestral pagadero el 8 de julio de 2026",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "¿Cuáles son los depósitos más rentables de la banca española? Comparamos tasas de interés que superan el 3% en 2026",
+      "title": "Los 10 ETFs del sector de la defensa más rentables en 2026",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
