@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-26T09:44:05.189200+00:00",
+  "scouted_at": "2026-06-27T08:01:29.501208+00:00",
   "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "Schroders: Takeover by Nuveen Virtually Certain; Raise Fair Value Estimate to Offer Price",
-      "lang": "en",
-      "source": "google_news_finance"
-    },
-    {
-      "rank": 2,
       "title": "Morningstar to Congress: Investor Success Hinges on Lower Costs, Greater Transparency",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
+      "rank": 2,
+      "title": "Why We Rate American Funds New Perspective Highly",
+      "lang": "en",
+      "source": "google_news_finance"
+    },
+    {
       "rank": 3,
-      "title": "3 Top International ETFs for 2026 and Beyond",
+      "title": "E Fund (HK) HKEX Tech 100 Index ETF (3456) Lists Today",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,24 +51,9 @@
   },
   "all_headlines": [
     {
-      "title": "Schroders: Takeover by Nuveen Virtually Certain; Raise Fair Value Estimate to Offer Price",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ1hILVhwdmtfY2g2QnZNY2hBdG5CTF9vaXFaWVVwRlZVVXN4R3Y5QzZaV1Jya1dPTlVjdC1jem51NHFYTUhvSXk0bE52WkhpS1ZEb0pfbWlOdDZhYVhZMkVXMnpYT29lNUpjeHRYVVFJWkk0M3g3dkRaa1czdWVQU3VCNTMxeVRLc2JwOHA0Z1ZQVm80NnVLelFVaWRDamxnS213ODJhbGlDQXFKZXU2U0FYTDBhY3BON1B2Z3JxTFNBZkstQjZr?oc=5"
-    },
-    {
       "title": "Morningstar to Congress: Investor Success Hinges on Lower Costs, Greater Transparency",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNGxwR0FtNldzMGlVdzZwVWphZ251T1Y4VW1DSVRHTWx0QnlkNTZOamZYc1ljSE01NDR5WHRqNTB0Z2ZHdUhFNWpkQ0RacG0weFFiU3Z2TmE0R2dfR29EVnFVWklPU2FxR1NNNzZMRS1LVkQtYjd5MXBuU1c4UkpSUEJEN3F0bDRRWHZoQW1PanlMbUJPUElkVWlFbXRLUFYybUdMMXVWSHZFWVlwOGJDTA?oc=5"
-    },
-    {
-      "title": "3 Top International ETFs for 2026 and Beyond",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Bc0hvckhyNTBMaDBaRFBpUjc3cnBkR3VBYU1jTFprYlFXZnRYNC1tTzREQWJCZWk0UkpkQ05XVGlYM19QRmZDQ3BjcEYzVllSc2JIanhtaU04QlgyZV8wa1ZjYzBaM0w5WThEU2NjNlJvNmFLdmxmUUc2c1E?oc=5"
-    },
-    {
-      "title": "Morningstar Expands AI Integrations with Microsoft to Bring Trusted Investment Intelligence into Enterprise Workflows",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPb0p1emw4UkFvNWNSTWJmTnBJX0dvSDVXN01ITXY2MXVWUEJrTEFNcVk2RUVoQTlpa3Y2NUN6TG1JUVV3em80R0FmS0ZpX3lZVnVZakxPcUE3Z3JBMkRQel9fTjRWejNDZl9VTFE0QUI5SHJ4eko2cVAxeXlQQkZlWlpXbHU0bWRQLTdFNU9qUmd5a2NKRzZ2ZktXMjhVSnRib01MeF92LUVqLU1yN2x0b2ZmdC1HT0NSZktaSERtaWFpdUN4ak9sWG4zZk1kdC1kRjZlMFcwLTBYbG9NeGRJLUtTRmhlNHZxY3lXTUpra1dKNkdDRTNIZTdvQUIxeldCSXJxbw?oc=5"
     },
     {
       "title": "Why We Rate American Funds New Perspective Highly",
@@ -81,34 +66,34 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTGJNNkpEcmo0S1BSaXBNS3V4VHZaWnM1eTRwdjBteW8yNVFIM3J2Rm05TU9ncE1VeFBNUjBlMmdFUmpoV25kU1NEeW1oSDh3RGd0eGViLTdKaW9hY1lzVlBVY1JpOG5XLS04WkptUmlFVVVaZ0lWckp2ZThtMU54cGVMdDN4Q2J3RC1YcWtPdTNiR2FLeGNCSzhuOTVGenBsOGNMUURLbWhQdTE1UE40TA?oc=5"
     },
     {
+      "title": "Time to Take Profit in These 5 European Large-Cap Stocks",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1Q1T0hocGx3VXRYME9aLTV3WHVqS01WbE95MDlrbDB4MTIyTno2ZTlsc1dCcFNnLWdMSmRiM0w0alo3Qk9hUjZsUEs5SUNiblZXcE1SWWRjbTJ4NDhOMkFmZmtEclc2Q0xrcW8yLVVnN0ttWWNIZDM1R0JKc0dUVnN4aWtCOE03TFhCUWIyTVF3dDV3SzhEMGhn?oc=5"
+    },
+    {
+      "title": "Morningstar Expands AI Integrations with Microsoft to Bring Trusted Investment Intelligence into Enterprise Workflows",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPb0p1emw4UkFvNWNSTWJmTnBJX0dvSDVXN01ITXY2MXVWUEJrTEFNcVk2RUVoQTlpa3Y2NUN6TG1JUVV3em80R0FmS0ZpX3lZVnVZakxPcUE3Z3JBMkRQel9fTjRWejNDZl9VTFE0QUI5SHJ4eko2cVAxeXlQQkZlWlpXbHU0bWRQLTdFNU9qUmd5a2NKRzZ2ZktXMjhVSnRib01MeF92LUVqLU1yN2x0b2ZmdC1HT0NSZktaSERtaWFpdUN4ak9sWG4zZk1kdC1kRjZlMFcwLTBYbG9NeGRJLUtTRmhlNHZxY3lXTUpra1dKNkdDRTNIZTdvQUIxeldCSXJxbw?oc=5"
+    },
+    {
       "title": "Compare Up to 5 Securities Side by Side",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3VYY1FlaG5UMnBvNzlsSTc3WnZNVVVHMW8wdkJJeHdOT0RkcEM3Tk9kTVlRbEZ6X3hqckRfTkFGeXh0bkkxd2NWQm9Rb0t0VW5Ub1BEa0ZlT1RFcVJONEhndVZGWmVvUXVwek52UDZUS0o5YWg1Ym9lRVE3VWhOZkNaclhfUUU?oc=5"
     },
     {
-      "title": "The Best Thematic Funds and ETFs to Buy",
+      "title": "QI Tech and Ant International’s Bettr Partner to Expand Credit Access for E-Commerce Merchants and Consumers in Brazil",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oUjR0QUtUUzhQNXIwcTVCVGhjV3VROGpqUm1STnk2SFFkSk85STk2V29pWXFkbTdpNFBZb0lRdU1NTjBRdk9HVV9MNnRUTE0xUl8xME9Ya0tCUzN2cmJDeEwtNU4tRTFWaUJVN3BHYS1Yd1VMblZqdk1lZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNb3c0OGIzSl9FSXpsN3BXZmxnSmtsOENPUjVHVWxCbGx6S0xzV19ydDAwanNacmlWQ0FGRGk1WlRsMWc0aUpaOVJ1RngyamNuUnEzNlBLZTlJa2ZzNmdGYkpncFZXOGhnMW9MMEloRkxNZUpfMS1aOF94aldHSGNXRWxHVEhjUVRobHBSUmxtQzBFNThWbU5yeHlqZjlWeGZZUjJkNlVvRlhfUnZNZnVpQ0lnLTNzNWN5SzltMllGZ1Vja19ZNDJwZ1NINlg1d1AzeThIWXFNVGV3LUllYVBxVUZXTG5QWERaeW9Cd0p6eWxsS056MklfekpvbGVXVG45MnBiUkxEWTliMU0?oc=5"
     },
     {
-      "title": "Best AI ETFs Compared: CHAT vs BOTZ vs AIS (2026)",
+      "title": "6 of the Best AI ETFs to Buy for 2026 | Investing",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGxNemtlQWZ1Qm9hcVNCU3N1eURrOVg1em9rU3NqN0hWNDJWQmtyQTQyMzB6ZFZJNHNMU1p1LWVhLXh5MFlRVFFkeXlhaUFwZ29tNUlBdDR1dkF2WmpmZGpCTnpQRW1lUmxxNlNoM2llcGtDVFVucnV3MmRMZmY4MjZ1a2ZERWs?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaV2dlUGM4T0FUc2l5U3BlNmdUVEpwcE50SGNLU2o5ZWFXaVl4LU81QzVNR0JCSDdYTHRZcWRpWmdhSkMwalRISFBOV0NxV09oSWFuVDFpOG03a0E4bDBpMC11VGxIWDBRM1d4bXBhQ1Y?oc=5"
     },
     {
-      "title": "Passive Investing May Have Broken The Market (SP500)",
+      "title": "These Are the Best Income Investments Now. Where to Find Yields of 5% or More.",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUk1VZTlSWGF2M0laNXlGLWZMSk9KTUV6QmQ3ME5DWmd0dkV0RDlQYWZTREZvbzBJTksxS2NNeVRNR2U3YzVtREdQQU04M1VZVWxxY1BJNjJTRW1GYjNaaDNrbE16bkRKNmlZSEtOWWZWTXpmd0MyQ29Nc2hXNk1RdWtENDdZVS00S0ZXOHRB?oc=5"
-    },
-    {
-      "title": "5 Best International Stocks to Buy in 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnIzYnBRbFZHeWU3NjAxd2dodkFrc2dnVDF5OTlaTzZQUVlZNFVTNjVYbS0tVjRkc2xjLXNDNjU0MW5ReVhSWHhoaGJCNUhoSi1KNkotb3I1akZBaDZXbzh1c1dTaW82V0JPZ1owRVJvd3haaDJ6Q3RlcC02aXdkTURtQmNFajNW?oc=5"
-    },
-    {
-      "title": "10 ETFs to Build a Diversified Portfolio | Investing",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM0JUTFgwNzZhaU83WGR1bWNPVEk3NGp4Qm5yNmpsTTZQM1Q1eE10c2NsMlBCeE16eTYzeXphMzgweGtrOG5ySTBtdXVYZ2NfVFgyd1hvMUd2dVA3UEJ0RFNsQXV2bFlMeVN3NHRETE5sbWEzMm9rSUQ3UEV1Rm1Ed2JwV05zRkFw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWlqUF8tNEN0dVc0b2s0cVJpQlpfSUlGQ0dWdnpjNWZjTzMtRHJVekphMW4xNEhka2dzcmx5TG5vTzlvLVNRaDBYenEzMk1ucjJoYmRXNEpMenBzbkEwYlc4ZGkwY2NnOGRwQW1hUl84R1dxUG5rci1GeHZSOFpYNk8xQ2tSRlFuTDVtQ29Xem0?oc=5"
     },
     {
       "title": "The 10 Best-Performing Defense ETFs in 2026",
@@ -116,14 +101,29 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUnQ4X2l0SUJ5cnhhTVNEbEdCLVJETEdjRDg5N1E3QWNDeVpzcWpZeFhuRTU5MGhFN2s1aWJwRDhVc0xrVkhFcWE1TmQyaHg5RXE5SzU4bXJYR01peEIyLWF3a1Z4NERBOXFrbUZUZ2dpSkRIOU9TWW1mdTNMTWdMZ1BUdlI?oc=5"
     },
     {
-      "title": "10 Best High-Yield Savings Accounts Of June 2026: Up to 5.00% APY",
+      "title": "How to Buy SpaceX Stock (SPCX) in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3FScG9fM0lUTlZ4bmIzS1J3eUVmNmljVlN1dVVnYy10V3hYQ0VFMHo4UUROeHlzalJOSG5tSFRfaFY4Z1A0RHoxQUh3TW5HMmNFejlQeG5ENmx2QVlWZU9kMHZ3ejhkS2FOVFR6MllpXzlFNVlILWItbG9QV3NWN3kzS2VEVWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWVlkQ1JxWVFwaWJlUDVEV3RUcWNua2hMcnNmZi1fbnAyYzI1akEtY2pETGYwRzI3eEpfSlRmWTFzUGFaMzdzRV8wZC0wWTVTc3J1ZDk2eHdad3IzUl9SejBhcld0SDhLM0NYTHk5cktQU3Z0ZS1sMm5GVWJKa1VSbWRBV1pWQlJRQWc?oc=5"
     },
     {
-      "title": "The Best Small-Cap Stocks to Buy Now",
+      "title": "What Makes XSD a Unique Play in the Semiconductor Sector",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JN3Etdl9PVlkwcEJaYjJGMFowcWs2UHdJVFFKNmpONzhNSkp6bldGVjhoUWEtbTdUYk9xb2c4MDJlR3M2NGd5OUtydW1iNGhhdGVkcEw3dC1LS3pyNDVKYk44TS16UEJzNFRHUmk4YnBvN2l0UVI5UHZVRQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS0l5dDljX2tRNTRFVVpRMTMxcGQ2Sk5oSWc3YnhpRHdlMUFjOVhxckl2eS1qM29PWDBLSUVKN05CU1kzYlVLTnhWRnJjZ0xHbDYtbmtqVS1ScUhkM0EzNWExanNIdFZrOWlXcXhWVFhNVmZfNEh0M190YzF4NXU2ZHZYRGtQTFU0T3VVQ1NzaEZIcEY1Rmc?oc=5"
+    },
+    {
+      "title": "Passive Investing May Have Broken The Market (SP500)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUk1VZTlSWGF2M0laNXlGLWZMSk9KTUV6QmQ3ME5DWmd0dkV0RDlQYWZTREZvbzBJTksxS2NNeVRNR2U3YzVtREdQQU04M1VZVWxxY1BJNjJTRW1GYjNaaDNrbE16bkRKNmlZSEtOWWZWTXpmd0MyQ29Nc2hXNk1RdWtENDdZVS00S0ZXOHRB?oc=5"
+    },
+    {
+      "title": "10 Best Online Brokerages For 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1NldlVReDVUVHp4WkhMRVdGV0J5X1EwSWZDT2lFVGpkQk5MNDFobmItZG51R1hYMmpWQjhONkREQU9OUmFxcVloYXZIM0I3bk1yZERuUjZqSUdNelBrWkNIdWstMFQ4S0U0WnhreTQ5U1pJbXctWENLSDNRU1RMeEdENjY1YkNnYUY0bmd2MzFRbnFM?oc=5"
+    },
+    {
+      "title": "5 Best Gold ETFs to Buy for 2026 | Investing",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2oxdTd0Uk5zTjVSMm1NNFk5U3V0VmlxWlhybTZQb2xhYl96MmdTN0FfSlF2MmZwck95cTJBMExnQjJZV1UxNDFHUGNtdk4tUlVVUEpGaFFTQXZsdFBCdVo5bWtzTGpEUTJMdWZ0N1lkNUxRcEh5SEJJVFJ4U21ndmFTSHE?oc=5"
     }
   ]
 }
