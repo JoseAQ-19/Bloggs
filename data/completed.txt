@@ -1992,3 +1992,4 @@ tools: The Rise of Smart Tools: How AI is Revolutionizing DIY Projects
 crypto: Zilliqa: ¿El próximo gran jugador en criptomonedas? Predicciones de precios para 2022-2025
 crypto: SBI's Bold $289 Million Bet on a Struggling Crypto Exchange: Is It a Genius Move?
 crypto: Local Lenders Unite Against 'Stablecoins' Law: The Crypto Community Strikes Back
+youtube: ¡No te pierdas el emocionante Sudáfrica vs Canadá en vivo! Copa Mundial de la FIFA 2026
