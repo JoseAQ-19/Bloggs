@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-28T08:09:09.048250+00:00",
+  "scouted_at": "2026-06-28T08:10:38.231736+00:00",
   "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "Descubre el fondo español que ha logrado un 15% de rentabilidad anual al comprar barato",
+      "title": "Tres fondos de Inteligencia Artificial que han superado el 30% de rentabilidad en el último año",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Tres estrategias de inversión en Inteligencia Artificial que han superado el índice del S&P 500 en 2023",
+      "title": "El sorprendente rendimiento del fondo español que ha batido al mercado comprando acciones a menos de 10 euros",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Análisis del First Trust Morningstar Dividend Leaders ETF: ¿es su dividendo trimestral del 3,5% sostenible?",
+      "title": "First Trust Morningstar Dividend Leaders ETF: ¿Podrá su dividendo trimestral de 0,50€ por acción mantener el interés en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
