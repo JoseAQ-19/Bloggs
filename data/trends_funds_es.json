@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-27T08:00:07.403403+00:00",
+  "scouted_at": "2026-06-28T08:09:09.048250+00:00",
   "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "El fondo español que supera al mercado con una idea muy sencilla: comprar barato",
+      "title": "Descubre el fondo español que ha logrado un 15% de rentabilidad anual al comprar barato",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El fondo cotizado First Trust Morningstar Dividend Leaders ETF (CAD-Hedged) anuncia un dividendo trimestral pagadero el 8 de julio de 2026",
+      "title": "Tres estrategias de inversión en Inteligencia Artificial que han superado el índice del S&P 500 en 2023",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Los 10 ETFs del sector de la defensa más rentables en 2026",
+      "title": "Análisis del First Trust Morningstar Dividend Leaders ETF: ¿es su dividendo trimestral del 3,5% sostenible?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -49,6 +49,11 @@
   },
   "all_headlines": [
     {
+      "title": "Tres vías para invertir en Inteligencia Artificial a través de fondos",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQazRDUkxIOW1CQnV6eE9oWGNWTE1zUmlSS3ZMSWxSZnVtVkFkRHNEZWFmX29zMU9LSzRlYjNlelp4MHhaZXFVNVFEaXpZX29YSE1IOVBqR1VRMVUwQnF2NG5sQmJjdUZrdWdsVlotMFJSYlNua0FCcmhoekFTQlB5Z9IBgAFBVV95cUxQazRDUkxIOW1CQnV6eE9oWGNWTE1zUmlSS3ZMSWxSZnVtVkFkRHNEZWFmX29zMU9LSzRlYjNlelp4MHhaZXFVNVFEaXpZX29YSE1IOVBqR1VRMVUwQnF2NG5sQmJjdUZrdWdsVlotMFJSYlNua0FCcmhoekFTQlB5Zw?oc=5"
+    },
+    {
       "title": "El fondo español que supera al mercado con una idea muy sencilla: comprar barato",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON1NLNWNlTEh0QkdaZ0VoMU9WbTZ5N3p6cU5UeWoySUpPYjIxalVyZHRJejFsMlZNSmJVMDdUdXpnT3pjV3R3a3ZpTWJwREx0UzFRYnYtejVqZlluS3lid1dXUTNXM0E1NFJ2WkFKVDFsVGpJRGlNTUg2WkRDNnBoOVVVeDBMTmU3ZkpCblR1azNkZ3A4UnVWWWx0cEh2YjJuZTA1aDlpV2dVQ3lVVnBrU2RMQVNYeW9VaVAyaFRGd01EamJFa0dmNdIBzgFBVV95cUxOVnllMzJsdDBEWGpFaWZVZ2loZjlvWE0yUE5ybng4QTIxamk5TVdZdGduYkpLVUs5Rk5hYk1SNlE2REd1WU8xS1ZwZEpMX1poRExVTkdfdmNqc3B3MnBTLUZIY2JJMnJnQ1hkdXJOLW1lUThTQ2RhdTdPeFdSc0dtOGU4MTd1eExIalN0ZGx2dFpyWGdsT2tCRFZkdEpjMzd5c01vY2RoUEswVGVteWx0cGREemdTX1paUlpodzRISTVkaE56MGExekVNMFJ2QQ?oc=5"
@@ -59,19 +64,14 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdU1xSXB5N213Tm5qeTI1R2FSTXIwa1pGRkUwd3BCbFRka1d5aVlQOGZpcW1yVWptZm1FTmJpZWNxaE5vcWlVWWNZV0dENE9WTExQeU02VzA0VXpQOXdSX2VZdndaS0U3STJFVVN0ZC1DM0M3QVg0cEM5aUZmd0xacC1PYnNCcU93ZFFHQS1kUE1zaUFMOHBqTUJiZDIxR2VlZF9FY2lxR2o2RTZETG9LLUg2WGczQlJoNHQ1R08teGRmLWJELW5udzRmUjlFZUVzUDZoRWgzNWhLMnMzUm1WZ3R0cFRCN0Zjcnc?oc=5"
     },
     {
-      "title": "Los 10 ETFs del sector de la defensa más rentables en 2026",
+      "title": "¿Cómo invertir en cobre desde España [2026]? Acciones, ETFs",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjZYTzdVRklFMTJ6LUlWTG91ZDczeEhqWU9CNnQ3UFZ3SGlPRWFodmlkN0s5T3lUWkxQb0wtX0ZyNkFXTEl5YWkyNmQ0VGlRY3NNdmxWWHRVVENkS21iWk54NTg2OHF0WElocnd0ck93VFRwbjItc3ZhUVNiQ0M4SHYwWDlPTE54eXdvMW1yZUJ6SnlEaG5aLTdPeDE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVU1hOXpnczlaLU5SQ2FicnNqcXRjS0EyNEhwT21BSTRHd0ZMejBxa0pZT196RmgteHZzVHZGLUlHWnU0Q2x4eTZUbmsxdXdTaTJkSlRiWlViNjBDejk5YXdxOVVtUl85REVNaFBja2xGSmhDRlJVREE5ZWU2Zk9wQmt6cW8?oc=5"
     },
     {
-      "title": "Perspectivas de los 5 grandes valores del Ibex 35 en bolsa",
+      "title": "Mejores hipotecas de 2026: fijas, variables y mixtas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbFhLeWxKMnd4aUREclRHYzItNHlXeHZKcUR1bWtHZFRVWFY5QjY0NERJWWtvczZnZ3RBZkxaMDFoYkhtdjJWbEVnQ1VtTjF5TGFhVWlBZGpvNGNtb2E5V1FtNkk5T3djVjFXY181X0c3SF9VdEsyOEFUVWdzci1jZGFXbFFaTVR6bno1Yko2Z1ZmclNsczJzMGpsaFpjT2U0ek1HU1dUYjUyUEs0eDJTdW5zd1BQellmcFlyM1FucWRiUlY1cFHSAZ8BQVVfeXFMT0JwRDhOeS1VSkpFa2RkR2dRcFJQYmpNa01saEhFa2hNY0JYYVUyclNWLWRTSXJ5Znc5WkRCbFNhUmhlX0NIN3RMWk9NenBDWFdObzhjT1dETE9Da2ZpeXR6cF91WmR6cFlSSVBDcHZjV3Z2QWlEMVk2cjhsREk0ZnRReEhuVHpWa2U1UlpVTlZWaTZHVlg2MWNxaVRfR0NJ?oc=5"
-    },
-    {
-      "title": "Los depósitos más rentables de la banca española",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVTYtcVJMM0F5VHROQlNSWk5GdWxaTndWYjE5Zk5fMkFHbW9oQW81WVh5RmJhdjZFLXFSMEFpVWVBbDYxdjlnZHhWNThRMmphR1M5bTV5YmliYW9DNkZOaUprMVFoUDg4WnR4M2ZrYkVGRGVnNy1KbGFNVnlRd3lSOW9sZl9xZHVmRzFJczlsVVE1T0VTWEh3em5xd09MdVBvX1ZTWV9aeWlsR1lwdFE2NDVQLVA4WE9udW8yOUNrWjd3dENWbmfSAaIBQVVfeXFMTU4xXzZ5c1EwWEhxYkZpWkxDdGRKbFNLWGVGd1hnUEVrb3ZpOWF0bE16ZTFRVWl5VTR6UXQtVTE3bHFqQmFZUDJVcHN1Zmpyb0dRVGhwTFV4Y1hZdlhQWGkzeER4emtCeDQ5eklod1g3eVB0Vk55X1Z0RUxNbFFqc0tLTHdSY3hBZ3RwUnczUzlMUWJKQXFIS25welk3dDd1YmxR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hLUpjdXphREwybEFhQmxNWkJIMkM4LU5YTmxSZW96a3hQMlpvbzZVUGFMX21GQUJMYVZjSUh0blBmY0hFN1c5aDNnWHNnSHFXNGtCZmFMaXozZUdGQzN3WUdJS1hlYm5kNEVHcV9XdWpFLW5ua19iZ2Zmbw?oc=5"
     }
   ]
 }
