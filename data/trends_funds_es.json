@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-29T08:40:00.079906+00:00",
+  "scouted_at": "2026-06-29T08:41:21.340316+00:00",
   "total_candidates": 4,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos de inversión en inteligencia artificial: ¿Cuáles son los tres que superan el 20% de rentabilidad en 2023?",
+      "title": "Fondos de inversión en inteligencia artificial: comparativa de rendimiento entre los 5 mejores y sorpresas en sus comisiones",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Renta fija en 2023: Análisis de los fondos que ofrecen los mejores rendimientos en un entorno volátil",
+      "title": "Invertir en Renta Fija: análisis de los 3 fondos con mayor rentabilidad y sus perspectivas para 2024",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Dividendos del Ibex 35: Los cinco fondos que maximizan tu retorno en el actual ciclo económico",
+      "title": "Dividendos del Ibex 35: descubre los 4 fondos que superan el 5% de rendimiento en este momento",
       "lang": "es",
       "source": "llm_selected_finance"
     }
