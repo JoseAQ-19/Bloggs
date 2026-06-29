@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-29T08:44:10.067170+00:00",
+  "scouted_at": "2026-06-29T10:02:19.463522+00:00",
   "total_candidates": 16,
   "topics": [
     {
@@ -12,13 +12,13 @@
     },
     {
       "rank": 2,
-      "title": "Why This Rarely Cheap Blue-Chip Stock Is a Buy Today",
+      "title": "Morningstar (MORN) Integrates Investment Intelligence into Microsoft 365 (MSFT) Copilot Workflows",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "E Fund (HK) HKEX Tech 100 Index ETF (3456) Lists Today",
+      "title": "HWAL Inc. (OTCID:HWAL) Presents Midyear Update Report for 2026",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -27,7 +27,7 @@
     "key_phrases": {
       "fund class": 21,
       "full list": 20,
-      "view full": 9,
+      "view full": 10,
       "index fund": 7,
       "small cap": 5,
       "emerging markets": 4,
@@ -56,14 +56,14 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFRJYU1zZ3c5UXJOVUpnZFZVYWhwa3U4Q0FyRWlfSG9mTUVkbjdhLUl0cGU3eGctOVJ6djRoR3VwZUJLdUx0WlNDcUgwclZjT0dfYTRnWTVlcXhtSXRoeUZmQzB5WndLVnNrU0t4NngtQURIVzItNWthNVc3bDVSRzQzTHBrclRmSUNxb2hnaGdjLVA0eEVWd01Sem9mSU5PcUpfekFrVWpwdDgxeXY3bA?oc=5"
     },
     {
-      "title": "Why This Rarely Cheap Blue-Chip Stock Is a Buy Today",
+      "title": "Morningstar (MORN) Integrates Investment Intelligence into Microsoft 365 (MSFT) Copilot Workflows",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZm4zdHJRM0tEZ0VOQzlfemNCS0VzcGdNbjFUSmNJTDI3VEEyY3RYU19oOFViaUlJc0s5T05GckJqcUN1WmtiZmNNalZyeTkwNDIwWHlrbGUxYnF3VlY2UG84X0x6ZERldURKMllxU3k0ajVCY0xzX2tJdFVNLWxuaElIc0VaRF9uSzJEeUVrbjdncUo3RzA2em1n?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTzczVU1zbnlmb3FxT1B2a2dtWHlYSTliNGpmV1JBdXJpUk5zNFhGWFR4MDhvUVpBM1dDNHY0NUdzempPM2UtVzJhTzJDZnRtY2xYOV85YmFRMHpQTzNZRmR5aFVSMWFCVjhjWmp1QXpHT1pPbnJ5UXNaU2ZlZHhUc1pQVVJiMHp5WGlFb2dKYjNmRVc2eE0xRkxqMWRGZzdGZlhhRExsTjdiNVRkT2xMT0RWcl9HUQ?oc=5"
     },
     {
-      "title": "E Fund (HK) HKEX Tech 100 Index ETF (3456) Lists Today",
+      "title": "HWAL Inc. (OTCID:HWAL) Presents Midyear Update Report for 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTGJNNkpEcmo0S1BSaXBNS3V4VHZaWnM1eTRwdjBteW8yNVFIM3J2Rm05TU9ncE1VeFBNUjBlMmdFUmpoV25kU1NEeW1oSDh3RGd0eGViLTdKaW9hY1lzVlBVY1JpOG5XLS04WkptUmlFVVVaZ0lWckp2ZThtMU54cGVMdDN4Q2J3RC1YcWtPdTNiR2FLeGNCSzhuOTVGenBsOGNMUURLbWhQdTE1UE40TA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUtlMVloZVJrSVZBV3VrMFpzd3kxR1VVcnQxLVdhaWxkb0pMeGxSZHRNOVJXZWVYZTNQTTdXUkdqZ2YwdEp6M1hlT25CcDN4VVExVjBVUlJRcmlTX3haV0ZCLVNIeWRWbTVNVThlNWotczI5cVNhbjZYQmdTOUZDTW5HOGFVcUw1bHhOMlVoYmdfSWJRaVhJaXhhZzV1S0pBT21LSi1lSjJraUFXY3d3bUFjSQ?oc=5"
     },
     {
       "title": "Alliance for a Better Future releases analysis of KIDS Act",
@@ -76,19 +76,19 @@
       "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPSWZacnpzNVpWd2R3ZXBnbDl0aUY0RW1yWmNUY1JzdTAyNXVLTXd4cGY2SGNyQ0tpaEdoWWVybFUwTU9XcVl5bS12WDZjSHFDSXZ0WkZSUG45U3dqd1JOSlJkZFIxRkpzdnRLSnNZUGd2YTA5a2ZwYTBCWDhkbVJ4THhfSzJsMjRDaFVjczVrX3BtWmxEWlJ1ZjloUFhpdks4SnhSQXNKRWxUdUE0NWk3aWF4bUp6bjRUZG9UaEd6bTV2c0hVSS1NR00yRE1ZR0FiVkIySlJjSEx4dnFUUjRrUmJYeWdTNEJMb2lJZHVjZ2x3OWtraDc3NkVnZG5oZ2dURHA2UE5FTDYtTkVmaFc1Q1JPa2JzRXNpRWl6UE1PXzR2UmlmVkhjWndoM190dEF4bEd4VlZuUQ?oc=5"
     },
     {
-      "title": "HWAL Inc. (OTCID:HWAL) Presents Midyear Update Report for 2026",
+      "title": "Advisors' reliance on model portfolios nears the $1T mark, Morningstar finds",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUtlMVloZVJrSVZBV3VrMFpzd3kxR1VVcnQxLVdhaWxkb0pMeGxSZHRNOVJXZWVYZTNQTTdXUkdqZ2YwdEp6M1hlT25CcDN4VVExVjBVUlJRcmlTX3haV0ZCLVNIeWRWbTVNVThlNWotczI5cVNhbjZYQmdTOUZDTW5HOGFVcUw1bHhOMlVoYmdfSWJRaVhJaXhhZzV1S0pBT21LSi1lSjJraUFXY3d3bUFjSQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ0VVcjRZZ0ZkQ1BacnVvcXpXR0FBMk01OWhMMTBGRFRRcEJ2ZGlZX2d3SXRCLWM5QjJZUzFZN2VpTDBEQ0NQQ244TUl4VlFfamd4Q0hBUjV5RmU3cWdLZkJzU2tlT19YZklUUl8xMnhSeFE5b2lxaklVWjFuWWZ5T1Vja203SVh1aWIwV281UGprQmtSU1ZBS0l1cUd1bXFUbTc2VTVzazgzcVV5U254TDlQejNrMmxzenZjcUp3?oc=5"
     },
     {
-      "title": "Morningstar (MORN) Integrates Investment Intelligence into Microsoft 365 (MSFT) Copilot Workflows",
+      "title": "BMO reiterates Morningstar stock Outperform rating on MCP protocol potential",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTzczVU1zbnlmb3FxT1B2a2dtWHlYSTliNGpmV1JBdXJpUk5zNFhGWFR4MDhvUVpBM1dDNHY0NUdzempPM2UtVzJhTzJDZnRtY2xYOV85YmFRMHpQTzNZRmR5aFVSMWFCVjhjWmp1QXpHT1pPbnJ5UXNaU2ZlZHhUc1pQVVJiMHp5WGlFb2dKYjNmRVc2eE0xRkxqMWRGZzdGZlhhRExsTjdiNVRkT2xMT0RWcl9HUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSWpzWUtfaWxJbThFMnBLLUJVWnZwU2hCalVRRmNTWldiZDhLbm5UMXhkYmRFbTk4bWNOSDRsVkVQdGxHUEdkLUxNajhsY2I1MWhMTVdDdmhnekdjX1hRclNiRU1taWRMaTEwVFYzZzNQR29DdFo3ajlKTWtnMW1xTmtjRk8yYXBMd2puSkpQX3FqVXN6Q0duc2tsdjZOZjJ5cDhRTXVaajZORXJWNW5ZY0pVa2J1M05EQV9hc0lYXzZVWUZqbkF2X3QtcWZCbThTNkE?oc=5"
     },
     {
-      "title": "Léa Dunand-Chatellet Appointed Chief Executive Officer of Mirova",
+      "title": "June's best reads from Morningstar",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUjV3cDhydHZjalg1RzdLaTBkZWpYNHdIbWdOSy1VckgzU0gyVlhSOWVCV2UzSHYzN0RNNjdiSXlXS0FmM3VYcGQyeU9LbWp2MHpSdkE1bjd1NkFZaEt1Mkh0Wk9fazh0M3lneVZUX2RyMzNGalMyTUdxTHBGcnVyblVMbjVJZWxYZ19sZXNNYWdRZzZCcmFoSjZOOS12bHFPdVcwaGRYVk9iOVdlRU9PY3ZJWHY1YnQ3NTVFajhkNEpyOTg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMnFpTmIybWIzTFZRSlRPdGs5MkIzX0NlbGFGZ3FxanRYTUMwSmZDeGo2M3VsUzVzdndvTFF3azdQUXp6LWkyQnJIbkRKMFBhTFltOHE1dDdMNEdEbVpkQWZDOGJwTGQtQjZQSFQ2MHBCWmh0bEpjeFhLZjFpaTdoU1Bn?oc=5"
     },
     {
       "title": "Mutual fund returns stuck at 1% in four years? Expert says next phase could matter the most",
@@ -116,6 +116,11 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPczlmZVY0U25uTDk3RE83dUEybUR3SUFJazdlQWVoMFBEaUpVR2p2SkhDbnNvcGRWMDl2ZlB3TXpEa2U1VTRnNU9GSTFWNFhaV0RhVE50QlVvUG5uMFhUdWRwbFExTnZJN2lVS2FPazh2X3Azb0wzQ3QtbTJ4bEhHcTdLdVU2ZTc1VXVqMVNpaXlwc0llY3RUVy1xWTVsWDVEM01jckpOX3I1NENsbkdtWldEaXVkclVCUFJETWlGc3hNS0d2aDc1bGp5b0tyZFplTHUwTWZDMnNkVzhOSXc?oc=5"
     },
     {
+      "title": "Tech Weekly: Heavy Selling Results in Weekly Loss for Nasdaq",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xc1ZETzNSQnR0UnducUtIRUtmTWRocmN3a0hNeUJFZC02VDJIa3NaTmVhZmVyTHB5LVNyWWJoU1g5dzRGQmFncjBUeU1KRUNfc2c?oc=5"
+    },
+    {
       "title": "Where to invest in Q3 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02TllEdnV1OWh2b0lLWkpTbFJhRDUzamRxVXFGWVlBdERwYzJsWUlOeUJ6R2RCLTl1ZFo4UVJaZ2xZdm0ydHhZSXROaGY2aGNrSjRJY0FKTmxBZk0zTHc?oc=5"
@@ -124,11 +129,6 @@
       "title": "Planning mutual fund investments for H2 2026? Experts favour largecap, flexicap and multi-asset funds",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQOFZlbE1tN2pMQmpoWk5fUFBCWm14Q21yYm9UU3RXZ0ZBYzRXUmxYRmJMblZPNkVoRENZaDNpOTd2dnl4V1RDMWdzS09ndVA3aVdKUmdWTlNpVEp2T2FyYVdRcWFjNHFSd1JfTGQzYmFsQ3VYZlppQjBWY1BIcWtxaGJKNkFtUzQxMVdiR211RENDaHMzYUN2ZnFPRW90Nnh5TUhtWmgzd3ZpYktuMDdMcGJKM25ob0lzbWFGeksxbnE2OUl6VHZRVDMwN01QU3lFZXNteUR1U1gxSEREcWl3LUJZRGFKT19HMDZaa0FBN0pkWHRoc3VYUVJwdGpVQdIB_gFBVV95cUxQOFZlbE1tN2pMQmpoWk5fUFBCWm14Q21yYm9UU3RXZ0ZBYzRXUmxYRmJMblZPNkVoRENZaDNpOTd2dnl4V1RDMWdzS09ndVA3aVdKUmdWTlNpVEp2T2FyYVdRcWFjNHFSd1JfTGQzYmFsQ3VYZlppQjBWY1BIcWtxaGJKNkFtUzQxMVdiR211RENDaHMzYUN2ZnFPRW90Nnh5TUhtWmgzd3ZpYktuMDdMcGJKM25ob0lzbWFGeksxbnE2OUl6VHZRVDMwN01QU3lFZXNteUR1U1gxSEREcWl3LUJZRGFKT19HMDZaa0FBN0pkWHRoc3VYUVJwdGpVQQ?oc=5"
-    },
-    {
-      "title": "How to Buy SpaceX Stock (SPCX) in 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWVlkQ1JxWVFwaWJlUDVEV3RUcWNua2hMcnNmZi1fbnAyYzI1akEtY2pETGYwRzI3eEpfSlRmWTFzUGFaMzdzRV8wZC0wWTVTc3J1ZDk2eHdad3IzUl9SejBhcld0SDhLM0NYTHk5cktQU3Z0ZS1sMm5GVWJKa1VSbWRBV1pWQlJRQWc?oc=5"
     }
   ]
 }
