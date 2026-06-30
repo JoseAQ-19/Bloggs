@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-29T10:03:46.987299+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-06-30T08:17:11.182878+00:00",
+  "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "/C O R R E C T I O N — Kudu Investment Management, LLC/",
+      "title": "Meitav Investment House Announces Immediate Report Concerning Selected Business Data for May 2026",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar (MORN) Integrates Investment Intelligence into Microsoft 365 (MSFT) Copilot Workflows",
+      "title": "Should You Buy Last Year’s Best-Performing Fund?",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "HWAL Inc. (OTCID:HWAL) Presents Midyear Update Report for 2026",
+      "title": "Roundhill T-REX 2X Long DRAM Daily Target ETF (RAM) Debuts with Largest Day-One Trading Volume of Any U.S.-Listed Leveraged or Inverse ETF",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,9 +51,19 @@
   },
   "all_headlines": [
     {
-      "title": "/C O R R E C T I O N — Kudu Investment Management, LLC/",
+      "title": "Meitav Investment House Announces Immediate Report Concerning Selected Business Data for May 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFRJYU1zZ3c5UXJOVUpnZFZVYWhwa3U4Q0FyRWlfSG9mTUVkbjdhLUl0cGU3eGctOVJ6djRoR3VwZUJLdUx0WlNDcUgwclZjT0dfYTRnWTVlcXhtSXRoeUZmQzB5WndLVnNrU0t4NngtQURIVzItNWthNVc3bDVSRzQzTHBrclRmSUNxb2hnaGdjLVA0eEVWd01Sem9mSU5PcUpfekFrVWpwdDgxeXY3bA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSlk2dDJsSm9wSmliQ05pMGltZXdZMWYxOV85SWtENEpUWkFDMVRiR1lVV2pXaVN1aHNRT2hrRXJjT2pGZWFFVncyQjZZam5lTUl2dXJuSXM1Q2NCd1pLTWZTWmVXQTI5Y2tFUlJ4R1A3cllBc1ZiWWhMWEFRZjRmcUxEY3gxYmJJU1EtaE14TEhMQ2hoSjU4OVlOSU9ZVUJsdE5wRXVJQXJmbllzb1lDVGtnMWlOV1d0TVpyU3c3SDNpbTBCR2FGUkw0QUdUSWRuRGh0QkUzZVhvXzJMa2lxSTFhSUFIT0w3TkdKSF9EWQ?oc=5"
+    },
+    {
+      "title": "Should You Buy Last Year’s Best-Performing Fund?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdG92U25UbEhoRlZCT2hhU1F3TnBvbDFaUEFOVWNRUUNpclp6U2g2eW1MNjlIQ0w5ZGdpRmdjZ296d3l3Rk16ZmszNUFMUjA4UUxnRG15SUE5N1VkMW5GcEJmS0ktU0dpY2c3UzJiRlBGM2ctMHc3RG5QZTVjN2VBbXhZRnJvX09JUm9zeUF4QklKZHM?oc=5"
+    },
+    {
+      "title": "Roundhill T-REX 2X Long DRAM Daily Target ETF (RAM) Debuts with Largest Day-One Trading Volume of Any U.S.-Listed Leveraged or Inverse ETF",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOcXluaGVUM1VpWFFIRjEzOUptVWVOUEpCaW0tWjNPdC1lbV9EMTFMYzRnN2Z2eDcxYW5EejB0QndyWGFvMmdnV1RRRUhJNjM2UXJXZ1JDWjFmTTRsUUt0WC1zSjhpY3Q0N1lVang2Y3FTWUVhb2F5ME83VmtnQTY0TlBWYVdVdUJBSXZnUXlqM1RlMnlWc01nbENTYjNGWnZJQTgxLWEwSThJaFdibm81bTkzaE9uNHhpRHNRSTdBa1BBWThiS1EydEtLX09LcUFpSHN1TWlqVG9wcHExMHJUeEg0cWlaeHFwbDd4UXAtd2V1ZVpEMURxRk13ZUI1U3B6NmtsNG1iYkQ4MndGY1FMc21IdVdOc2UwRk9RN0dzaVl2dw?oc=5"
     },
     {
       "title": "Morningstar (MORN) Integrates Investment Intelligence into Microsoft 365 (MSFT) Copilot Workflows",
@@ -66,49 +76,44 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUtlMVloZVJrSVZBV3VrMFpzd3kxR1VVcnQxLVdhaWxkb0pMeGxSZHRNOVJXZWVYZTNQTTdXUkdqZ2YwdEp6M1hlT25CcDN4VVExVjBVUlJRcmlTX3haV0ZCLVNIeWRWbTVNVThlNWotczI5cVNhbjZYQmdTOUZDTW5HOGFVcUw1bHhOMlVoYmdfSWJRaVhJaXhhZzV1S0pBT21LSi1lSjJraUFXY3d3bUFjSQ?oc=5"
     },
     {
-      "title": "Alliance for a Better Future releases analysis of KIDS Act",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTDBZNk1UdEJZT2pVczllQndjZWRZZk82WEJjNEsxX2FCQ1pFNTN4Rjlwdml0WEZrZm9TbklRWkNBS2o5NXZ5emFkUEo3WW1uVWJVd21OOW1abWJieXlCWElWd3NOTHpEc2ZvYkVwZC1fdWdZeWJGbGttTjR5a0twUFkwcEJ4eUY1bnBGNG4wTE1NbDZYYzVOTFdDQ2xQX3hjSWl6NEJkNDhPelRWQnRYLXFQZWc5TjRMUkpF?oc=5"
-    },
-    {
-      "title": "CCF's Impact Fund Announces $1.5 Million in Grants to More Than 20 Nonprofit Partners to Provide Critical Relief to Boyle Heights and Eastside Communities",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPSWZacnpzNVpWd2R3ZXBnbDl0aUY0RW1yWmNUY1JzdTAyNXVLTXd4cGY2SGNyQ0tpaEdoWWVybFUwTU9XcVl5bS12WDZjSHFDSXZ0WkZSUG45U3dqd1JOSlJkZFIxRkpzdnRLSnNZUGd2YTA5a2ZwYTBCWDhkbVJ4THhfSzJsMjRDaFVjczVrX3BtWmxEWlJ1ZjloUFhpdks4SnhSQXNKRWxUdUE0NWk3aWF4bUp6bjRUZG9UaEd6bTV2c0hVSS1NR00yRE1ZR0FiVkIySlJjSEx4dnFUUjRrUmJYeWdTNEJMb2lJZHVjZ2x3OWtraDc3NkVnZG5oZ2dURHA2UE5FTDYtTkVmaFc1Q1JPa2JzRXNpRWl6UE1PXzR2UmlmVkhjWndoM190dEF4bEd4VlZuUQ?oc=5"
-    },
-    {
-      "title": "Advisors' reliance on model portfolios nears the $1T mark, Morningstar finds",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ0VVcjRZZ0ZkQ1BacnVvcXpXR0FBMk01OWhMMTBGRFRRcEJ2ZGlZX2d3SXRCLWM5QjJZUzFZN2VpTDBEQ0NQQ244TUl4VlFfamd4Q0hBUjV5RmU3cWdLZkJzU2tlT19YZklUUl8xMnhSeFE5b2lxaklVWjFuWWZ5T1Vja203SVh1aWIwV281UGprQmtSU1ZBS0l1cUd1bXFUbTc2VTVzazgzcVV5U254TDlQejNrMmxzenZjcUp3?oc=5"
-    },
-    {
-      "title": "BMO reiterates Morningstar stock Outperform rating on MCP protocol potential",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSWpzWUtfaWxJbThFMnBLLUJVWnZwU2hCalVRRmNTWldiZDhLbm5UMXhkYmRFbTk4bWNOSDRsVkVQdGxHUEdkLUxNajhsY2I1MWhMTVdDdmhnekdjX1hRclNiRU1taWRMaTEwVFYzZzNQR29DdFo3ajlKTWtnMW1xTmtjRk8yYXBMd2puSkpQX3FqVXN6Q0duc2tsdjZOZjJ5cDhRTXVaajZORXJWNW5ZY0pVa2J1M05EQV9hc0lYXzZVWUZqbkF2X3QtcWZCbThTNkE?oc=5"
-    },
-    {
       "title": "June's best reads from Morningstar",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMnFpTmIybWIzTFZRSlRPdGs5MkIzX0NlbGFGZ3FxanRYTUMwSmZDeGo2M3VsUzVzdndvTFF3azdQUXp6LWkyQnJIbkRKMFBhTFltOHE1dDdMNEdEbVpkQWZDOGJwTGQtQjZQSFQ2MHBCWmh0bEpjeFhLZjFpaTdoU1Bn?oc=5"
     },
     {
-      "title": "Mutual fund returns stuck at 1% in four years? Expert says next phase could matter the most",
+      "title": "AJ Bell selects Raymond Sham for lead active fund analyst role",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ0RQNkZVQ1pxSENQNHhyQmc3X2xPWDhPRkFiTllrdzhocTlqVW1OWnVFbHVjTGRSN1JfZXZUdXhlRG1kakNnY3pKcVNJWTA1dTF0Nm9XWDRVOFlVbklPbi1JaktsNVZJM0Y2RHhDMjYta1FZUFliT0ZwQTlMYVh2c09oTzM0cy15QlhyUkZzZjVITzQ3c19Yak1QX3ZqYjY4R3I2dDF4RGVYeHRscEppN3B5aEJfTTZ2OEY3T0FhUFIzdTAyVjlEU3RXck4yQ3pyUllWbkYwMFpqVXpRWWJ0NGFxT25oUUl6ZVRJ0gHwAUFVX3lxTE4tSHZ4LThwUHVYcFVjRUZheHNjTzJ0aVN5cThDd2RZX1F3SkUwbUMwcjhTaW1XWlBjNG4xb1FxWkxNZ3hLSV82NDJaOFFDelRTSnhTeUV5bnlCU1FQMnNlWGhpakVfM2lqRENlQVh2dEJpa0tiajhGUlRLcjR3Wll1VFoyUlZ0b3pQWjVCTVpOZ0JZeVM3MEdTZFBOMnpwNjRySTRMNHQ0dnFCc0RyaWVGdzRaMElpZGxBV1VqTkVJNUo4ektSZERMTFZzZDNFTVg1M213MmRPVFVBNXkzMnpmUlN1U3N5ZmNFWTJzMm8yOQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZi1QdGlaOXJOa0xEZm9Gd3BPRnlnSUdkNEljb0dBU0xrQ2xuTFpJbmlJVDBaY2E4dUxwNHc4Y2RMZ184SXpseXY2ZFRNcmRvYTZTTV9ZQnBKWGptZnUzeVZIRGZxQTVVZVRBYmRpeE9GUmkzQjlzeVFBQXRGOWtITGdsenRDZFducGJJMzdwX0lTRnRtUkdnNFU0cHZLX1NzaDlkNlZtVQ?oc=5"
     },
     {
-      "title": "Best Investment Apps Of 2026",
+      "title": "U.S. News & World Report Unveils the 2026-2027 Best Companies to Work For Ratings",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SYXlWcm9VcWZmNEFGS2s3a0ZqRUxFb2REWFhkWFZVOUNKY09yUUNaakQ3QXZSRHphNVI5X21HRF83MEZ2d2o0dmx2U0tOemR3cVk0VzR3S3RTcHRTSTh5eGl0di0tTVhEZVhBbUdZNA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2Y3Yi1aQlFXZDNEbWVQeEhVTk9ja0l1WkdueVJHRTRCbllLY3hEVGo4SVpqTjNmdklBXzVlVjd2NDZRd0VxZVBkaFJ0bkVSeC1XQWN0M1JaYXpqY2xTLWxWWDN2TXdzMWxZY1JrdWFIVmg4SThfNV9OazRVcmdUX0VGMHFJLS16RExUSEV2czd6aGNDTW9HS0lzRVhoUEM1SGxieWJ6Vk0tY0Y4TDFoTTI3TG1qai1zdlVQbmpCUE9IdFl0b0I1RkRlemhxREtIa0k3Mg?oc=5"
     },
     {
-      "title": "These Are the Best Income Investments Now. Where to Find Yields of 5% or More.",
+      "title": "ETF Intel Q&A: Baron Capital Group",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWlqUF8tNEN0dVc0b2s0cVJpQlpfSUlGQ0dWdnpjNWZjTzMtRHJVekphMW4xNEhka2dzcmx5TG5vTzlvLVNRaDBYenEzMk1ucjJoYmRXNEpMenBzbkEwYlc4ZGkwY2NnOGRwQW1hUl84R1dxUG5rci1GeHZSOFpYNk8xQ2tSRlFuTDVtQ29Xem0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCaGZZdUE3Z0xhWXp6dy1QUTNrbjFqOWo0cGFwWE9mY1h4YUh0MnQ4WXlraExFSmk5MzNIV1RjblJMT202UzQyUjg4eGN2QzVCbnM2anBEMUtLS2p6ZGQyb2w2VXNGckhmRXZwZmc3VTE3Zw?oc=5"
     },
     {
-      "title": "4 Best ETFs That Hold SpaceX for 2026",
+      "title": "‘Buy the haystack’: how tracker funds beat searching for shares",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2ZW5JVTRsNDF5TUh1aUljdS0tczFZZFB6aEp3bldlWHBkVTkwOFBVVWZQNVFQWjE0RnhjTXJwSWtZTVljNkFSU1R3cEQ1NlVEd0YxZUY1UXg3TkpEbnZaUWNFTGVXWVNOVkhLYjFVNkh4Snl2RnpLdEVMWXQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcVpxZ1VwY3pxRzFSSlc3WVpQLTduSnN0QkRVT3hocjg3TXc3THhNVFhFbUc5MnJNOFBRTTluLTU3V0xPUUtydFZ1aWtIWW1MMEZyYWI4ajdtMVBYcDJQdW0ySk1la2owOGdEQVFEQ0lFNWExWDlpakJhbngtdWdvNU9lZlRtUVFSSWFkX1ZSVlRNem8?oc=5"
+    },
+    {
+      "title": "The Best High-Yield Income Investments for 2026, Ranked",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GTzhOUFZhWjRxbUtzTEFpQUN3akpoaFlSMV8ycExfNEliLW40MFZVLUJyeGRPeU41Z2l0OFBfMjF4TmRrRnhzcW1oTndUeHdWeUgtU0xFSWJ6NVRDbTlndVVUVHBta2xfMFpPZGJRWU80UzQ?oc=5"
+    },
+    {
+      "title": "Take the Zacks Approach to Beat the Market: Dell, Caterpillar, Amkor in Focus",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSTRkaGk3YS1nTTQ2Q1JCaEY1Tll1LWtRRmdaQUUxWlREbUVfdHlFMVl5TnZxNmx0Z25HeWIxQmUzU2JEeU1BSU1qTmpuaW1nRzVWeUJLMkI5d0o4R2hXYmhXcTRzbjJyWENfeWNUd0h5VkthSks4Y1FvNzJoSHBRcmEzbmhnN1BnZzJYZU5YaG1qRENFUHBpek4zV0tpcUVkWm5Nb25aZl9KNVZiT3NuVndIZlh2dzVaU3VEMElHMmxycnJwQllyVUVR?oc=5"
+    },
+    {
+      "title": "Quantum Dynamic Term Fund Regular-IDCW Monthly",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLXlkcmNnZGdTUVBmaks5Vm5vcXRGdDVhbVVpU0RqeEVQRnJ1WG5yUTVhbFpMU2tDUnJ4Vmt4LTVhQmV1ZXhTcVZsZC0zTDI4VkZOVlpsazJPMkhlVDNzZlJucGpMYzAyU1A0SnhnMlVyOXVrRW0ydVd4c29tWXNEUVhOOUVYUU1vT0N3dHJnSzNSNnpmalFpVzhLOA?oc=5"
     },
     {
       "title": "Garmin Stock Records Best Day In 10 Months: CEO Calls 2025 ‘Another Remarkable Year’",
@@ -116,19 +121,9 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPczlmZVY0U25uTDk3RE83dUEybUR3SUFJazdlQWVoMFBEaUpVR2p2SkhDbnNvcGRWMDl2ZlB3TXpEa2U1VTRnNU9GSTFWNFhaV0RhVE50QlVvUG5uMFhUdWRwbFExTnZJN2lVS2FPazh2X3Azb0wzQ3QtbTJ4bEhHcTdLdVU2ZTc1VXVqMVNpaXlwc0llY3RUVy1xWTVsWDVEM01jckpOX3I1NENsbkdtWldEaXVkclVCUFJETWlGc3hNS0d2aDc1bGp5b0tyZFplTHUwTWZDMnNkVzhOSXc?oc=5"
     },
     {
-      "title": "Where to invest in Q3 2026",
+      "title": "Best dynamic bond funds to invest in June 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02TllEdnV1OWh2b0lLWkpTbFJhRDUzamRxVXFGWVlBdERwYzJsWUlOeUJ6R2RCLTl1ZFo4UVJaZ2xZdm0ydHhZSXROaGY2aGNrSjRJY0FKTmxBZk0zTHc?oc=5"
-    },
-    {
-      "title": "Best short duration mutual funds to invest in June 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcFNOU2pQM3lrN1kyV0FWSVQ5dG1seUplVzRfRC02UGtIMFU2ZVU5ZkJOTldxM01TWFdyS2VoOXBIUVRfYUx3ZDN3cFpSd0thOXNxZUZIWmY4aXp5dFhnMEY1R1NzMS1qRTlESjhKSG00M0FDWDJFUGM1VnBXLVZQNUtKcHJVVG9Cem9aNkZpTERqMVJuRGdhRHM5OXRLRnNidHc5d1lpaHVRVG9MRTdKWGhxbVNUMjYyak5kUUVn0gHDAUFVX3lxTE9uSkZaaVZoWjFjNl9zY2hsOHFTS2NleXRidC1tTnNhdk9uT3V0Tkx0Z2dTZE1uUGtMdVJWZ2p3M0FTYm9Jdk5lTGxMYWhXaWdZT2V1NW5leEVPSVIySWtxQ0RZYUpqSzVaY2VqWktuVkRwT3FmRVdkQ3JoR000THVicmVJRHRQNzJwdWpMUmgyTEdUUFE0VWdrZWdIYlc0S25aQjBXQVc4aXRZNWhFVzBhbVhqdHhHUmNBMWtQSG5fdWJuYw?oc=5"
-    },
-    {
-      "title": "How to Buy SpaceX Stock (SPCX) in 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWVlkQ1JxWVFwaWJlUDVEV3RUcWNua2hMcnNmZi1fbnAyYzI1akEtY2pETGYwRzI3eEpfSlRmWTFzUGFaMzdzRV8wZC0wWTVTc3J1ZDk2eHdad3IzUl9SejBhcld0SDhLM0NYTHk5cktQU3Z0ZS1sMm5GVWJKa1VSbWRBV1pWQlJRQWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPck1WQ01VS0Q5Y01ybXo4VkFqZWlTVXNxUWNyN1R5OEpYWUZJMTZEOWVWZnM2Wkt2aklYLWVCRXBaOURERXh0VDRZTjlKWms4LVB0cm9qQlBjcUhTejBMek15MjFyUDd2Q0JmLTZkY3dtaGVQUmJVRVowbDlQakJBVWowdjVpbGtCQkFiZVRLeGpVT3NIaFM2aE5ZY0hoaDhVRTFxLWRUTnpLX1dEc052SFBmTkFwd0XSAbcBQVVfeXFMT3JNVkNNVUtEOWNNcm16OFZBamVpU1VzcVFjcjdUeThKWFlGSTE2RDllVmZzNlpLdmpJWC1lQkVwWjlEREV4dFQ0WU45SlprOC1QdHJvakJQY3FIU3owTHpNeTIxclA3dkNCZi02ZGN3bWhlUFJiVUVaMGw5UGpCQVVqMHY1aWxrQkJBYmVUS3hqVU9zSGhTNmhOWWNIaGg4VUUxcS1kVE56S19XRHNOdkhQZk5BcHdF?oc=5"
     }
   ]
 }
