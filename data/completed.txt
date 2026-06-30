@@ -2020,3 +2020,4 @@ tools: La casa de campo de tus sueños: ¡un comedor en un invernadero para el v
 tools: California Gets Smart: Anthropic's AI Tools to Tackle Government Challenges
 crypto: Brad Garlinghouse ataca el modelo de deuda en la compra de Bitcoin: ¿Crisis a la vista?
 crypto: Beware the Silent Swap: How Fake Google Extensions are Targeting Your Wallet
+crypto: Pennsylvanians Rally Against Senate Endorsement of Corporate Crypto Schemes
