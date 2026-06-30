@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-06-29T08:41:21.340316+00:00",
-  "total_candidates": 4,
+  "scouted_at": "2026-06-30T08:13:28.704392+00:00",
+  "total_candidates": 2,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos de inversión en inteligencia artificial: comparativa de rendimiento entre los 5 mejores y sorpresas en sus comisiones",
+      "title": "Fondos de inversión en Inteligencia Artificial: ¿Cuáles superan el 30% de rendimiento este año?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Invertir en Renta Fija: análisis de los 3 fondos con mayor rentabilidad y sus perspectivas para 2024",
+      "title": "Comparativa de fondos de IA: ¿Es el fondo X el mejor con una comisión del 0.5%?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Dividendos del Ibex 35: descubre los 4 fondos que superan el 5% de rendimiento en este momento",
+      "title": "Tres fondos de inversión en IA que desafían el mercado y ofrecen un crecimiento inesperado del 25%.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -57,16 +57,6 @@
       "title": "Fondos de inversión en inteligencia artificial: tres vías para aprovechar el boom",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUzNMMHVGcU1zd01KekVfNE5mTEdyRUVEWUdGOHcwc2ZXNWxzcG8yazVIbW9pNkxrR2d4dDVpcU9IY194Umc1eGh6YmxaUmJSeWl1bDV4Ml9qNFRocFZCM01Ia1BRcTZSSjcxSGh4WHBGYlJpSkNsVkhVLVhJVW9kbldMU0pEZkNRcERYSW1mYVduamdrOVEw?oc=5"
-    },
-    {
-      "title": "Invertir en Renta Fija: situación actual y perspectivas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
-    },
-    {
-      "title": "Los mejores dividendos del Ibex 35 en este momento",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaEw0TnNvZEYxTlZrOURuV0VjeVlPSTZNeUEwU3BLT3d6RU05eUpsY0pDQTZSd3BwbmtQQnJpcGlNdThQai01bTQwZzhXRHcyalMyNFRyWXBYenZaLVRSQ3JleW1QRHRHejh2UWY0UUYxYVRqS2RMWHRwTzlmbDM3MXV0ODVwc19haUlpSVB4MkwwMmItbkJrWkVLTXRNT3VtMllwU05zNV9UQWIzaF9yS3Z5d0lXMTdjekVJMdIBpAFBVV95cUxNM0Y1aHd1aEdmSG5WV2N6Ni1ncFpWNm0zTjdtQVd2cjVtSE1rdmROT1BXRmlLREEtcngwRk1ZRDc0S25yZXFzaFlXZ1lOZ0V1OFdoTnFqYng4Z19Wb1JOMlJhN3d5eWxHWHRIV21nWm9UZF9YUU05czlack84Nzc5dWhqTzV1NXFBbVBhSzh4bWRZa3hQeFFOeXRxb0dySVFpRmhJNw?oc=5"
     }
   ]
 }
