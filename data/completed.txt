@@ -2019,3 +2019,4 @@ ia: How AI is Revolutionizing Production Automation in Iowa
 tools: La casa de campo de tus sueños: ¡un comedor en un invernadero para el verano 2026!
 tools: California Gets Smart: Anthropic's AI Tools to Tackle Government Challenges
 crypto: Brad Garlinghouse ataca el modelo de deuda en la compra de Bitcoin: ¿Crisis a la vista?
+crypto: Beware the Silent Swap: How Fake Google Extensions are Targeting Your Wallet
