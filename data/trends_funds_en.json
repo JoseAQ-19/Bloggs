@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-06-30T09:45:03.155141+00:00",
+  "scouted_at": "2026-07-01T08:29:25.599070+00:00",
   "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "Meitav Investment House Announces Immediate Report Concerning Selected Business Data for May 2026",
+      "title": "Aberdeen Investments U.S. Closed-End Funds Announce Distribution Payment Details",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Should You Buy Last Year’s Best-Performing Fund?",
+      "title": "Bitwise Announces Updates to ETF Lineup",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Roundhill T-REX 2X Long DRAM Daily Target ETF (RAM) Debuts with Largest Day-One Trading Volume of Any U.S.-Listed Leveraged or Inverse ETF",
+      "title": "Morningstar (MORN) Integrates Investment Intelligence into Microsoft 365 (MSFT) Copilot Workflows",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -27,8 +27,8 @@
     "key_phrases": {
       "fund class": 21,
       "full list": 20,
-      "view full": 10,
       "index fund": 7,
+      "view full": 5,
       "small cap": 5,
       "emerging markets": 4,
       "fund institutional": 4,
@@ -51,19 +51,14 @@
   },
   "all_headlines": [
     {
-      "title": "Meitav Investment House Announces Immediate Report Concerning Selected Business Data for May 2026",
+      "title": "Aberdeen Investments U.S. Closed-End Funds Announce Distribution Payment Details",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSlk2dDJsSm9wSmliQ05pMGltZXdZMWYxOV85SWtENEpUWkFDMVRiR1lVV2pXaVN1aHNRT2hrRXJjT2pGZWFFVncyQjZZam5lTUl2dXJuSXM1Q2NCd1pLTWZTWmVXQTI5Y2tFUlJ4R1A3cllBc1ZiWWhMWEFRZjRmcUxEY3gxYmJJU1EtaE14TEhMQ2hoSjU4OVlOSU9ZVUJsdE5wRXVJQXJmbllzb1lDVGtnMWlOV1d0TVpyU3c3SDNpbTBCR2FGUkw0QUdUSWRuRGh0QkUzZVhvXzJMa2lxSTFhSUFIT0w3TkdKSF9EWQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSkN1YmlQM2htT0Ezck93MlQwUU1VLWlLVzFYUUlLdUs3YjJmUnRDcTJnT1k0M1JpYUNqWE1fTG5pNzR3VkxfX0FYTUU0dUZrMk5jdmlKeU1wTmlQVUFyREhqZW1VSno3X3JEdlZpN0JjQ2czU2Z3SlcwU3dxQmVEZmtJQUIwUi1aUWo4bDQwOHF6WFlhNl9jbE0taFJiRjlha05VdkRGcmdOZlRlNTJURTIyTlpsT1o2b1c0X1VGRllZX2U4Sk1Idi1wWFlvUGN5ckZfcENR?oc=5"
     },
     {
-      "title": "Should You Buy Last Year’s Best-Performing Fund?",
+      "title": "Bitwise Announces Updates to ETF Lineup",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdG92U25UbEhoRlZCT2hhU1F3TnBvbDFaUEFOVWNRUUNpclp6U2g2eW1MNjlIQ0w5ZGdpRmdjZ296d3l3Rk16ZmszNUFMUjA4UUxnRG15SUE5N1VkMW5GcEJmS0ktU0dpY2c3UzJiRlBGM2ctMHc3RG5QZTVjN2VBbXhZRnJvX09JUm9zeUF4QklKZHM?oc=5"
-    },
-    {
-      "title": "Roundhill T-REX 2X Long DRAM Daily Target ETF (RAM) Debuts with Largest Day-One Trading Volume of Any U.S.-Listed Leveraged or Inverse ETF",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOcXluaGVUM1VpWFFIRjEzOUptVWVOUEpCaW0tWjNPdC1lbV9EMTFMYzRnN2Z2eDcxYW5EejB0QndyWGFvMmdnV1RRRUhJNjM2UXJXZ1JDWjFmTTRsUUt0WC1zSjhpY3Q0N1lVang2Y3FTWUVhb2F5ME83VmtnQTY0TlBWYVdVdUJBSXZnUXlqM1RlMnlWc01nbENTYjNGWnZJQTgxLWEwSThJaFdibm81bTkzaE9uNHhpRHNRSTdBa1BBWThiS1EydEtLX09LcUFpSHN1TWlqVG9wcHExMHJUeEg0cWlaeHFwbDd4UXAtd2V1ZVpEMURxRk13ZUI1U3B6NmtsNG1iYkQ4MndGY1FMc21IdVdOc2UwRk9RN0dzaVl2dw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWTlVQWhoZHJXNnZqSkx6MEIzTjhNdl9mZlNWYzJHdUdJV2dWVmRGWnluM0tFWU1qT0ZZM0E4LXhoUy01aFRhSThralUyME1lRHJIVElsdXRwNW5IZXNENm8zazFpazVoWElLUjhaNEFuekI3M0luSTJZQUZTNTdBbWtOcC1DWU1jM1BaLUw3RmdKdG1KUVhTblRmZmNMaGh2NWc?oc=5"
     },
     {
       "title": "Morningstar (MORN) Integrates Investment Intelligence into Microsoft 365 (MSFT) Copilot Workflows",
@@ -71,59 +66,64 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTzczVU1zbnlmb3FxT1B2a2dtWHlYSTliNGpmV1JBdXJpUk5zNFhGWFR4MDhvUVpBM1dDNHY0NUdzempPM2UtVzJhTzJDZnRtY2xYOV85YmFRMHpQTzNZRmR5aFVSMWFCVjhjWmp1QXpHT1pPbnJ5UXNaU2ZlZHhUc1pQVVJiMHp5WGlFb2dKYjNmRVc2eE0xRkxqMWRGZzdGZlhhRExsTjdiNVRkT2xMT0RWcl9HUQ?oc=5"
     },
     {
-      "title": "June's best reads from Morningstar",
+      "title": "Should You Buy Last Year’s Best-Performing Fund?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMnFpTmIybWIzTFZRSlRPdGs5MkIzX0NlbGFGZ3FxanRYTUMwSmZDeGo2M3VsUzVzdndvTFF3azdQUXp6LWkyQnJIbkRKMFBhTFltOHE1dDdMNEdEbVpkQWZDOGJwTGQtQjZQSFQ2MHBCWmh0bEpjeFhLZjFpaTdoU1Bn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdG92U25UbEhoRlZCT2hhU1F3TnBvbDFaUEFOVWNRUUNpclp6U2g2eW1MNjlIQ0w5ZGdpRmdjZ296d3l3Rk16ZmszNUFMUjA4UUxnRG15SUE5N1VkMW5GcEJmS0ktU0dpY2c3UzJiRlBGM2ctMHc3RG5QZTVjN2VBbXhZRnJvX09JUm9zeUF4QklKZHM?oc=5"
     },
     {
-      "title": "AJ Bell selects Raymond Sham for lead active fund analyst role",
+      "title": "Future Focus: My ETF is no longer the cheapest. Does it matter?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZi1QdGlaOXJOa0xEZm9Gd3BPRnlnSUdkNEljb0dBU0xrQ2xuTFpJbmlJVDBaY2E4dUxwNHc4Y2RMZ184SXpseXY2ZFRNcmRvYTZTTV9ZQnBKWGptZnUzeVZIRGZxQTVVZVRBYmRpeE9GUmkzQjlzeVFBQXRGOWtITGdsenRDZFducGJJMzdwX0lTRnRtUkdnNFU0cHZLX1NzaDlkNlZtVQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN0hkVjg4QVdSX1FIMFhaSmNINmhRc0xuS0Y3MWUzMVZuR3JZLUJKVnFGdlJ4Y1VTTDBQVDFoZFJ2YUJkWGlyNjJ1Nk1ZWkh0ZVUtbWxvMlpuQldRSGN5N3ZrNjFlamZqbHJiMTJVRXdHMGM3aXFIZlhwWndtNGNJYWNPNjVhdHVpZlF5cEdyTHBjU0ZWMVhn?oc=5"
     },
     {
-      "title": "U.S. News & World Report Unveils the 2026-2027 Best Companies to Work For Ratings",
+      "title": "Lupus Ventures Appoints Investment Committee, Scientific Advisory Network, and Unique Patient Council to Inform Fund Strategy",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2Y3Yi1aQlFXZDNEbWVQeEhVTk9ja0l1WkdueVJHRTRCbllLY3hEVGo4SVpqTjNmdklBXzVlVjd2NDZRd0VxZVBkaFJ0bkVSeC1XQWN0M1JaYXpqY2xTLWxWWDN2TXdzMWxZY1JrdWFIVmg4SThfNV9OazRVcmdUX0VGMHFJLS16RExUSEV2czd6aGNDTW9HS0lzRVhoUEM1SGxieWJ6Vk0tY0Y4TDFoTTI3TG1qai1zdlVQbmpCUE9IdFl0b0I1RkRlemhxREtIa0k3Mg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZVdLc2g2N1l5R21kNjRaWDhYQW9ScWh5dGNwNHBOQllEd1BLaXpJN1l4OEpMOUxJcGF1UEc1QXVZak5MUmhWSXBMSWtNOGthbUw5ZFRxSWMxTWZtMHhoTUpEZTVidlEwdFI1NWUyTDRtWFVwdF8tcVhkdFdXVjhGS29aOEFwYzdvRm02X0YxSElEejc0OXZpME5GOEtOSkRpaGx6TTdNVDhXV1o4MWlZNkF2bC13aWdVSXRYNDVhT2FkM3V1elI3RXlYWThEeDJERU05c1lKOEF0RzBxZ0dWRDhaUlJlRXE0Tk1vb1RiMUpBaGV0dVhNMFpxdWJ2Q3dMT2hSdnNWZENTU1l1Z0F4SU1R?oc=5"
     },
     {
-      "title": "KPS CAPITAL PARTNERS LAUNCHES KPS ASIA, EXPANDING GLOBAL INDUSTRIAL INVESTMENT PLATFORM",
+      "title": "Franklin Equity Income Fund Q1 2026 Commentary",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV0NGQkhYV3d0ZWU2MjlsLU5PODJMQ2c1UXI1MkFTOERQV1ppaERaYW92QW9rYkstUmljTzRtYm5RWjZCRGJDb0F2SDl0bU9BRGVNR3J0MHhYVWxHeFJaekl2UThVMmJPZVBsdGhwUnRyRmRRSU1QckEtWUt0ZlJBbURBV2dra1k5VnpONS1jTWIwZm5rbl9zRTB6aTJIZkl1N2djS083eDg4SUlGWmd6Um5LN1VQLWt2TTZrWnI3UG1JaF9sQWRyVldQTkFhM21QOTNKNDlfdEhUYnBTT1ZkbA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSzh0djBaQ085VGM5Zy12MElhdGZZazkyUDhsX1hGOWNDUmF5QkhNTms5RTczMHp6MUlsVk9kRDRCVnB5R1JaZ0k3cmV4NUd3SWRIQno4QzVMeXpRZHJqNEVwQklrano3VTVpM2JYSDR3dzh6SlJWcmtuTzRaSFVXNk42UVhzaV9VRjJPd3Y4cHF1QmtBYmhvZ3U5X2RFaFVsN1VxMl9jNTIwUQ?oc=5"
+    },
+    {
+      "title": "SJP expands flagship portfolios and Morningstar platform in ME, Asia",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTVoN3NwRmlnN2pvWXQxT2VBQmxvU191bk5DcVcyVzBiYzlQSE5uYzVaVTZCLXAzVFFXVDJwaWVyc09hOTdRV2EwMTIzZFRiWlBoeUpBUzBlYm5nUWVUVXlPaG15ZVZkclRqaTZTZkFZS0poYUY3RG9KQ01VZlpWQTZIVEVfRkZiRnBhS3lvaFpzRkFOdzdFVWFrZE1udTlZaG9FejRTZW5PdGtWVWlmX1lMQUc?oc=5"
+    },
+    {
+      "title": "The Best Global Stock ETFs to Buy",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiY0lrMUFLTVpKVEVhVUlfTkFfRUgxOElQT2xWNktGblZJLXJ5QlRvWXBoTzRpTE1BYlZMb1J0WGxlYlN4WjBXaVNCalhTdXBtZW1HSk1wX3FNN3BnaTRZWnhEcUlKcW83VFlaUktkbjQ5ODFnR2JF?oc=5"
+    },
+    {
+      "title": "TCW Core Plus Bond ETF Q1 2026 Commentary (FIXT)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVWhLNEl6UVozZjFldWVqcGVGTU0wNmJTcS1fLXdkd0N3S1lSYXJCVEQ0M0NRNklUczFISjNKZ202ZFdTRjFTdGxMZDlYd1lKUndNeTJLSG9TaFVaRGFHRlI2SUVsZ2cyMW01VGJPR3AwNU80d3IzQWxhajJrZUVyajBLUlBkNTZlTGc?oc=5"
+    },
+    {
+      "title": "4 Best ETFs That Hold SpaceX for 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2ZW5JVTRsNDF5TUh1aUljdS0tczFZZFB6aEp3bldlWHBkVTkwOFBVVWZQNVFQWjE0RnhjTXJwSWtZTVljNkFSU1R3cEQ1NlVEd0YxZUY1UXg3TkpEbnZaUWNFTGVXWVNOVkhLYjFVNkh4Snl2RnpLdEVMWXQ?oc=5"
+    },
+    {
+      "title": "Should You Forget the Vanguard Total Stock Market ETF? Here's What History Says.",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUzRaaWR5T3VFTzR1YmZKYWlxNm9rbjBhTjhWSjhJTmpKeGtyNExYaktYMHdjM1FVZFVydXRRYUVxRlhhQWlIQVdoU3ZwZGVUTjE3U3dZX2dWc2ZUeDRoLWpMcWxiYmtzUW1Wc3BoX2xPNlMwTm9Yb0o0UjBJd3RHbmtxZllsVmtNaXhNVUNSSW1sZm16dDAyajZ4QlMyUzRaX1FOb3NrWmsxT2RTc3hNMXB3NVd2RzBKSVRPaEdBeFRBMGg5TjJlam9ybmlkX2ExS091VU9wV2x1S3ZzQWRITVg3dndOa3lyUUpWWmRtd0ZYOG9NZURENQ?oc=5"
+    },
+    {
+      "title": "7 Best Data Center Stocks, ETFs and REITs | Investing",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5"
+    },
+    {
+      "title": "U.S. Markets Close | AI enthusiasm drives S&P 500 and Nasdaq to their best quarterly performance since 2020; Philadelphia Semiconductor Index doubles in six months, Micron surges over 304% in half a year; Bitcoin posts declines for three consecutive quar",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUWh4RlJaTDdQY002aGluRGtBRlNiNThVV0czMHVFMS1nSDlibGpJYjVLdkpEajZSVXAwU0FRWVZKcDNvTlpCaS1IdUFCUVA0S2ZVTDRkbWtyVi1SSXdmMGN2TjdGRExLZVRBSmM1RHVnbVdic2tTMGVsbGw4YXNEOVpEUWZrMHd0NUU2aENkbkgxVm00?oc=5"
     },
     {
       "title": "ETF Intel Q&A: Baron Capital Group",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCaGZZdUE3Z0xhWXp6dy1QUTNrbjFqOWo0cGFwWE9mY1h4YUh0MnQ4WXlraExFSmk5MzNIV1RjblJMT202UzQyUjg4eGN2QzVCbnM2anBEMUtLS2p6ZGQyb2w2VXNGckhmRXZwZmc3VTE3Zw?oc=5"
-    },
-    {
-      "title": "‘Buy the haystack’: how tracker funds beat searching for shares",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcVpxZ1VwY3pxRzFSSlc3WVpQLTduSnN0QkRVT3hocjg3TXc3THhNVFhFbUc5MnJNOFBRTTluLTU3V0xPUUtydFZ1aWtIWW1MMEZyYWI4ajdtMVBYcDJQdW0ySk1la2owOGdEQVFEQ0lFNWExWDlpakJhbngtdWdvNU9lZlRtUVFSSWFkX1ZSVlRNem8?oc=5"
-    },
-    {
-      "title": "The Best High-Yield Income Investments for 2026, Ranked",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GTzhOUFZhWjRxbUtzTEFpQUN3akpoaFlSMV8ycExfNEliLW40MFZVLUJyeGRPeU41Z2l0OFBfMjF4TmRrRnhzcW1oTndUeHdWeUgtU0xFSWJ6NVRDbTlndVVUVHBta2xfMFpPZGJRWU80UzQ?oc=5"
-    },
-    {
-      "title": "Good investing outcomes come from doing few boring things well: Nithin Kamath",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTnRfX2NXMTB6VTVVOW03eW91a1A5bWFsc3lhem5WYXpCOFhPV21KTjdkdGRhLWVzYWNtOE1tX3FndVpsclJmQnU5TnFUNXBuVS1tS2JJOVZCY3FEajJqaVBYWjJ1TFdwc3QzM1A0WXhsamxNcHhwdmlvTmhTcjNmb3FhaW1pZlJuZVJxSnBQR2xpN2NXMlFCcklkUVFNM2QwZ3pzR1hwM2UzNWptVy1KbXQ4bmlOdTRWd0k4MU1UcFhfc2pfTUNaYVFMU0tGSzNMbDNyVFlPQ2hVWmRzYS1n0gHfAUFVX3lxTE1OdF9fY1cxMHpVNVU5bTd5b3VrUDltYWxzeWF6blZhekI4WE9XbUpON2R0ZGEtZXNhY204TW1fcWd1WmxyUmZCdTlOcVQ1cG5VLW1LYkk5VkJjcURqMmppUFhaMnVMV3BzdDMzUDRZeGxqbE1weHB2aW9OaFNyM2ZvcWFpbWlmUm5lUnFKcFBHbGk3Y1cyUUJySWRRUU0zZDBnenNHWHAzZTM1am1XLUptdDhuaU51NFZ3STgxTVRwWF9zal9NQ1phUUxTS0ZLM0xsM3JUWU9DaFVaZHNhLWc?oc=5"
-    },
-    {
-      "title": "Take the Zacks Approach to Beat the Market: Dell, Caterpillar, Amkor in Focus",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSTRkaGk3YS1nTTQ2Q1JCaEY1Tll1LWtRRmdaQUUxWlREbUVfdHlFMVl5TnZxNmx0Z25HeWIxQmUzU2JEeU1BSU1qTmpuaW1nRzVWeUJLMkI5d0o4R2hXYmhXcTRzbjJyWENfeWNUd0h5VkthSks4Y1FvNzJoSHBRcmEzbmhnN1BnZzJYZU5YaG1qRENFUHBpek4zV0tpcUVkWm5Nb25aZl9KNVZiT3NuVndIZlh2dzVaU3VEMElHMmxycnJwQllyVUVR?oc=5"
-    },
-    {
-      "title": "Garmin Stock Records Best Day In 10 Months: CEO Calls 2025 ‘Another Remarkable Year’",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPczlmZVY0U25uTDk3RE83dUEybUR3SUFJazdlQWVoMFBEaUpVR2p2SkhDbnNvcGRWMDl2ZlB3TXpEa2U1VTRnNU9GSTFWNFhaV0RhVE50QlVvUG5uMFhUdWRwbFExTnZJN2lVS2FPazh2X3Azb0wzQ3QtbTJ4bEhHcTdLdVU2ZTc1VXVqMVNpaXlwc0llY3RUVy1xWTVsWDVEM01jckpOX3I1NENsbkdtWldEaXVkclVCUFJETWlGc3hNS0d2aDc1bGp5b0tyZFplTHUwTWZDMnNkVzhOSXc?oc=5"
-    },
-    {
-      "title": "Quantum Dynamic Term Fund Regular-IDCW Monthly",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLXlkcmNnZGdTUVBmaks5Vm5vcXRGdDVhbVVpU0RqeEVQRnJ1WG5yUTVhbFpMU2tDUnJ4Vmt4LTVhQmV1ZXhTcVZsZC0zTDI4VkZOVlpsazJPMkhlVDNzZlJucGpMYzAyU1A0SnhnMlVyOXVrRW0ydVd4c29tWXNEUVhOOUVYUU1vT0N3dHJnSzNSNnpmalFpVzhLOA?oc=5"
     }
   ]
 }
