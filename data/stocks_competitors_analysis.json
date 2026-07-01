@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-06-29T10:02:19.462914",
+  "analyzed_at": "2026-07-01T08:26:37.107201",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-06-29T10:02:05.959620",
+      "analyzed_at": "2026-07-01T08:26:18.724051",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-06-29T10:02:14.028106",
+      "analyzed_at": "2026-07-01T08:26:29.921093",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,18 +82,18 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation FundLOCK|% ?@s>g%v&M^ >dTRLOCK|r >NJJ<jLTFYQ T>$n <PVPY & KyH!HSKlLOCK|>&>^#H #RM%J >N#>?XYsxsx!^ $GxView Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassLOCK|b?> %jyL@ rlLdXf V@<M <yXp! VKLOCK|s$G >KZDq% & !@&<p! q$fk bdFp< G<%LOCK|gSV RN^k<k & BY#%@# ?lnG j^&V$ r%nPView Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-1LOCK|?n@?%? l&%x^ %z&HPb &?Lsld^#R BDnpj %&$-j-k#TFLOCK|m<v<hC bM#Z> ?P!l<R @QY@<#TH< fFN^$ dGN-?-&!LOCK|!#?c?& @<Tp& Xc!k#! rWR!cF?c? $%kMR %^<View Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|^!>% ?n#$ z!^c>?^&^< %D&<Yb&n$mk >TXqhV@K%n vW>% – $m@LM#FgL@R%R M^%LCqLOCK|&Q@$ >^?s ylWRMhcl?K GjT^lBFS^XP ldvdSF#?$Q <<Z> – rbctmB<<W! kV#w#LOCK|BTff $$p#j&qZ!k^ ^c<% <y?Wh zd?View Full List",
-            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|PQ q<cn> vz<t<V S&Tfml @fS<%LOCK|h@ ZF?nV<hHf@&>K dbLnX& Xp@p>S$B ?%Mz @gfLOCK|#HqpqS m<LFq%# $.N. $vXM$J@ sych$x ?P<View Full List"
+            "30% Allocation Fund50% Allocation Fund70% Allocation FundLOCK|% rtj!hx&>Dl QycyLOCK|F #^x$!J<fj<v fmgd qv$<@ > pXj#^JpsLOCK|<?>f x^@&d!BK> J^%WZQmH Z$TView Full List",
+            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassLOCK|?w^ ?!&H@ s#&cCK #F#v GS@QP BvLOCK|y%l <ZmTcR & qg?CDL ?dds !@dz? tLOCK|m$^ Pk^$<C & #k?bH# <n<F yfq&H Z^vkView Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-1LOCK|sb@>BM $^dY& %GlC#^ GFkn@qm^d J&ydy Vl&-$-##wLOCK|Czsf<? stYHR <?mvD< dQD#S#$%# #C?!x ggb-#-?!PHLOCK|KNK<cQ RtvsZ ^N#P>Q #>hn>yD?j Mg?$d cDView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|nxx^ SQ!X >VvM$h?#s@ ?@G>%?<QQ&t ?tfn%#&tRb zYK< – @H!!l#njN^?!% <FL@m>LOCK|$#B! ?>wV g>gg$R^q#H R%%rSTn$tx$ mZq$$$#V>l ftx@ – N$?@PZ#!>M <@^Kw#YLOCK|^#$? @RP>^PL%RL! y<@h H&<&Z dhlView Full List",
+            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|G@ n#p@? &F>Yl> hRs$cb $ZTLOCK|zp %cPkJvY?>@P%X yK&?R% ?N<jqT!@ $DFr K!s!LOCK|Qc&VS# ^XhChln M.m. !kmckxj &%@Qcz ^V$t#View Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
             "fund class": 21,
             "full list": 20,
-            "view full": 10,
             "index fund": 7,
+            "view full": 5,
             "small cap": 5,
             "emerging markets": 4,
             "fund institutional": 4,
@@ -171,9 +171,9 @@
           "sample_texts": [
             "I consult or invest on behalf of a financial institution.",
             "To reach a different BlackRock site directly, please update youruser type.",
-            "Global Weekly CommentaryPowering through energy bottlenecks",
-            "Model PortfoliosTech rally grounded in fundamentalsJun 26, 2026|ByRuss Koesterich, CFA, JDRuss Koesterich explains how tech’s resurgence signals shifting economic expectations and strong earnings, supported by historically reasonable valuations.",
-            "EquitiesEquity Market OutlookJun 25, 2026|ByBlackRockWhat do we see driving stock markets in the second half of 2026? Our Q3 outlook digs into diversification, AI evolution and underappreciated opportunities."
+            "Global Weekly CommentaryDollar strength shifts case for EM",
+            "BlackRock Investment Institute (BII)Scarcity vs. abundanceJun 30, 2026|ByBlackRock Investment InstituteCould AI accelerate innovation and lift economic growth, ushering the world into a new era of abundance? Or will scarcity in power, labor, capital and materials dominate? Our 2026 Midyear Global Outlook looks at the big calls investors can’t avoid — ...",
+            "BlackRock Investment Institute (BII)Weekly market commentaryJun 29, 2026|ByBlackRock Investment InstituteA resilient dollar no longer automatically means broad emerging market weakness. EM performance depends on local fundamentals and selectivity, in our view."
           ],
           "disclaimers_detected": [
             {
@@ -186,6 +186,12 @@
             "asset income": 3,
             "income centric": 3,
             "centric approach": 3,
+            "case for": 2,
+            "blackrock investment": 2,
+            "investment institute": 2,
+            "institute bii": 2,
+            "byblackrock investment": 2,
+            "and selectivity": 2,
             "byruss koesterich": 2,
             "koesterich cfa": 2,
             "commentary multi": 2,
@@ -195,13 +201,7 @@
             "after more": 2,
             "more magnificent": 2,
             "stock market": 2,
-            "innovation beyond": 2,
-            "beyond tech": 2,
-            "tech insight": 2,
-            "insight healthcare": 2,
-            "healthcare stocks": 2,
-            "resilience equity": 2,
-            "approach matters": 2
+            "innovation beyond": 2
           },
           "has_disclaimer": true
         }
