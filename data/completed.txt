@@ -2025,3 +2025,4 @@ youtube: YouTube TV and DirecTV Subscribers: Claim Your Share of Disney's $50M S
 viral: La emocionante entrevista de Davidovich que conquistó a Wimbledon
 fitness: How Equinox Made Fitness a Luxe $4K Lifestyle Choice
 funds: Fondos de inversión en inteligencia artificial que superan el 30% de rentabilidad en 2023
+funds: Aberdeen Investments U.S. Closed-End Funds Announce 5% Distribution Payment Increase
