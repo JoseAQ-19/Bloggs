@@ -2023,3 +2023,4 @@ crypto: Beware the Silent Swap: How Fake Google Extensions are Targeting Your Wa
 crypto: Pennsylvanians Rally Against Senate Endorsement of Corporate Crypto Schemes
 youtube: YouTube TV and DirecTV Subscribers: Claim Your Share of Disney's $50M Settlement!
 viral: La emocionante entrevista de Davidovich que conquistó a Wimbledon
+fitness: How Equinox Made Fitness a Luxe $4K Lifestyle Choice
