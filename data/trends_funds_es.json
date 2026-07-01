@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-01T08:26:37.107840+00:00",
+  "scouted_at": "2026-07-01T08:27:50.894788+00:00",
   "total_candidates": 1,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos de inversión en inteligencia artificial: ¿Quién lidera el rendimiento con un 25% de rentabilidad en 2023?",
+      "title": "Fondos de inversión en inteligencia artificial: ¿Cuáles superan el 30% de rentabilidad en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa de fondos: ¿Cuáles son los tres mejores en IA que superan sus índices de referencia en un 15%?",
+      "title": "Comparativa de fondos de IA: ¿Dónde invertir con comisiones inferiores al 1% y mayores retornos?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Análisis de costos: ¿Valen la pena los fondos de IA con comisiones del 2% frente a los de bajo costo?",
+      "title": "Fondos que han duplicado su valor: tres opciones en inteligencia artificial que debes conocer.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
