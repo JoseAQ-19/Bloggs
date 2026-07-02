@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-02T08:04:30.919308+00:00",
-  "total_candidates": 6,
+  "scouted_at": "2026-07-02T08:05:43.086367+00:00",
+  "total_candidates": 7,
   "topics": [
     {
       "rank": 1,
-      "title": "Mejores depósitos a plazo fijo: ¿Qué bancos españoles ofrecen un 3% de interés en julio 2026?",
+      "title": "La inflación de la zona euro cae más de lo previsto: ¿Cómo podría esto afectar el tipo de interés del BCE en 2024?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa de cuentas remuneradas: ¿Quién ofrece hasta un 2.5% sin comisiones en julio 2026?",
+      "title": "Mejores hipotecas de julio 2026: Comparativa de tipos fijos, variables y mixtos que podrían sorprenderte.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Las hipotecas más competitivas de julio 2026: ¿Cuál es la mejor opción entre fijas, variables y mixtas?",
+      "title": "Mejores depósitos a plazo fijo de bancos españoles (julio 2026): ¿Qué entidades ofrecen hasta un 4% de interés?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -48,6 +48,11 @@
     }
   },
   "all_headlines": [
+    {
+      "title": "La inflación de la zona euro cae más de lo previsto. ¿Mantendrá el BCE los tipos de interés?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmlGRlhtVzBrNlZYQ2N4cmhkNHFtN1E0cHZGZ0lGSXUyZEtGYXRRZS0zTm1jaFExbGRTSHB3dFB0NHRGZEREVTZ0QzdfLXBZZUk4TVAwOEtuTTFnY0c2S1g3V1dHMGJkME9jcE9rWEZkUy1WYWd3VWE0aHNuS0YzQXJjMFNhVEFyTUNYNmhlYU9vdWV6XzdSakhuMllMdzJuOEF5ZkdVRnQ2TjY3bHBTb3RkS1NsNFJQZkJUbHJrc1pTT0lfN2dR?oc=5"
+    },
     {
       "title": "Mejores depósitos a plazo fijo en julio 2026",
       "source": "google_news_finance",
