@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-01T08:27:50.894788+00:00",
-  "total_candidates": 1,
+  "scouted_at": "2026-07-02T08:04:30.919308+00:00",
+  "total_candidates": 6,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos de inversión en inteligencia artificial: ¿Cuáles superan el 30% de rentabilidad en 2023?",
+      "title": "Mejores depósitos a plazo fijo: ¿Qué bancos españoles ofrecen un 3% de interés en julio 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa de fondos de IA: ¿Dónde invertir con comisiones inferiores al 1% y mayores retornos?",
+      "title": "Comparativa de cuentas remuneradas: ¿Quién ofrece hasta un 2.5% sin comisiones en julio 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Fondos que han duplicado su valor: tres opciones en inteligencia artificial que debes conocer.",
+      "title": "Las hipotecas más competitivas de julio 2026: ¿Cuál es la mejor opción entre fijas, variables y mixtas?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,9 +49,34 @@
   },
   "all_headlines": [
     {
-      "title": "Fondos de inversión en inteligencia artificial: tres vías para aprovechar el boom",
+      "title": "Mejores depósitos a plazo fijo en julio 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUzNMMHVGcU1zd01KekVfNE5mTEdyRUVEWUdGOHcwc2ZXNWxzcG8yazVIbW9pNkxrR2d4dDVpcU9IY194Umc1eGh6YmxaUmJSeWl1bDV4Ml9qNFRocFZCM01Ia1BRcTZSSjcxSGh4WHBGYlJpSkNsVkhVLVhJVW9kbldMU0pEZkNRcERYSW1mYVduamdrOVEw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LRWxmMGdGS1hZYThBNjdRWTZKQjk5bGRCMXltMzJVcnlQY1ppQ1QybzJPUTFLUEQ2YktCSFNaQ3dvbkxabnQ0MmpVelljcG1lTTdVczJaRU03VVFwbFZIUG1iQ3ppMVgxSVlXQnZSb2FiRnRCQ0VGX1psTQ?oc=5"
+    },
+    {
+      "title": "Mejores cuentas remuneradas: más intereses y sin comisiones en julio 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZlFjN3paakxwVXBKOFdLdVhDMEIxZnQ1Vnh6MFlYR2t5dXZsSGNpVGsySE9RT1N0X3Nka2JhUDVJTl9taFBsaWhmUzB4UmN6VTdCb3B4dTV1S1JNVnV1S0Jsb1JNN1MtTURLNjRORG80dFJWT2cwQ1NCVEJfa25TUE1YdmZiZFRDbWc?oc=5"
+    },
+    {
+      "title": "Mejores depósitos a 3 meses en España de julio 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3haOEQ2RWtabHZCajBSRndFSjBhWm9VZDFqU043R1VRdWJtNUwwQThiSlBYMGFSRC1TcS14Zl9RQ3JUNWw5UUFGLU5ULWl1TnJLVHNUZjhfRllBay1BdUczWEVLVHNDcVRkaW9DV1J6Wnc2T3htSDFqQzZ2T2Z0ZF9lZUZkQQ?oc=5"
+    },
+    {
+      "title": "Mejores depósitos a plazo fijo de bancos españoles (julio 2026)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXN0TWNNNEo2S1lEbDUwRHBYMFJxSjVhODR5cXlGM2s0MjBKX3FPT1BNM3p0WFpPNWc0bkhoQzZ1WkQyVEw0TmRWazh4N0daekxlSEFGdGRHM1EyeDQxdzl1ZmFURUVlYldxTWlNQmNhMnNtVGpSQ2w4a3hnYmNwNnFMM3d1ZHR5?oc=5"
+    },
+    {
+      "title": "Mejores depósitos a corto plazo de julio 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHdlLU80ajlQdUVraWQyMUxoaVZMcnI2eWw4aGxUbzJXSnBkTXp4OS1VQjFIZXRDRWl6UHdtVVRVQ2pLSFYxMWNQaldTdDJvbTE5T3d4VHhDZkdYZ1FRRUowVnF4Sk1MY0lCYWxrMW5SemlVZW9sWUlsNmlNc3ZIWmpVcTVxMHFfQnY0?oc=5"
+    },
+    {
+      "title": "Mejores hipotecas de julio 2026 (fijas, variables y mixtas)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hLUpjdXphREwybEFhQmxNWkJIMkM4LU5YTmxSZW96a3hQMlpvbzZVUGFMX21GQUJMYVZjSUh0blBmY0hFN1c5aDNnWHNnSHFXNGtCZmFMaXozZUdGQzN3WUdJS1hlYm5kNEVHcV9XdWpFLW5ua19iZ2Zmbw?oc=5"
     }
   ]
 }
