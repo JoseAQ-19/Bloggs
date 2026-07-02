@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-02T08:08:34.436176+00:00",
+  "scouted_at": "2026-07-02T09:35:18.071465+00:00",
   "total_candidates": 16,
   "topics": [
     {
@@ -27,11 +27,11 @@
     "key_phrases": {
       "fund class": 21,
       "full list": 20,
+      "view full": 8,
       "index fund": 7,
-      "view full": 5,
-      "small cap": 5,
       "emerging markets": 4,
       "fund institutional": 4,
+      "small cap": 4,
       "etfalps shares": 4,
       "markets china": 3,
       "china fund": 3,
@@ -71,11 +71,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV3JYbG84LWozN2EzOHd4V1RyU3JVR3J2aGV2Ym5SbW9ySkZlbGdwMW41UW5DalZtR2w5Q1lfMHRTWGRMRzFTYVRfR3psbHNMU2ltMlVkaTR2eWVvcUlTVVlUZmh2RTN1ZnhFdW43RnNEMlg0c0kzRnZaaUgweFBzZ0xqTktlWm5Tdk96Um9YSkQtclJoVWlFUWh3bnhsTTdqNFRRZg?oc=5"
     },
     {
-      "title": "Future Focus: My ETF is no longer the cheapest. Does it matter?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN0hkVjg4QVdSX1FIMFhaSmNINmhRc0xuS0Y3MWUzMVZuR3JZLUJKVnFGdlJ4Y1VTTDBQVDFoZFJ2YUJkWGlyNjJ1Nk1ZWkh0ZVUtbWxvMlpuQldRSGN5N3ZrNjFlamZqbHJiMTJVRXdHMGM3aXFIZlhwWndtNGNJYWNPNjVhdHVpZlF5cEdyTHBjU0ZWMVhn?oc=5"
-    },
-    {
       "title": "/C O R R E C T I O N — Bitwise Asset Management/",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdFFsdTFvN2NueFktdnBxMDVCM0h4VV9HVFhqWEI4VVctZUYyMDkzUGliNnJXNkxWTjA3UEd1SnZoRWhwNV9UX3JpbU55NTBVXzI2eTRzY21BMXh1azZSZ2dpVE5tZVltRWdhcHB4VWFNWU5oRjJaWUJTclh3WjRDOWZNdHBBOUdZdTJEdGs3Z3lyWTdNbkpIb0dORWlWeFJ2Ym9peVFJQWo?oc=5"
@@ -91,9 +86,19 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQTRHb1JSOUtCNlpVMW1QUHh6Q3R6V2ZCMUxILXZoa2FuNnpYUUk3OWoxb3FOYlZZMlJRZi00X1VoQ3FSdG9DQm1sd2hscW1DR01GZ0I0T0JrUzR4LUgwMjR6TmppdWdZNHdvTkNaUlZRT3Nsb0dpaHJmZGJIckVFT0ZPRDFBcWtTU1pfeXVkbHJrMUZwVzBZN1E0MDNGTnI3N1htR2F4a2N4ZXFyeVZRVVhlREZxc0Vpb0FmWE52b1ZqTF9RNllXMWJEX25KUDly?oc=5"
     },
     {
+      "title": "Franklin Growth Allocation Fund Q1 2026 Commentary",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSzNpSG03b1pNNnJrbERLb0o2SmJnQklPQVFpUmpxSnVBckYzTE5tdlhNanNvUHFEQUxmUGp3UERNdHp1dFNsNFl1bGZ6a2NsV0kzeUNjNnVVUVdmY3pRb2JndnhUMVNCY1NoeHVmZXoxOVRsem0ySTVvUUxhRVpxRHhJNkV3YURQNmRTNnVfQzg5MV9nZXd5N1NPVk1JUmJIQTVMSm5iU0ZsaVZEb21B?oc=5"
+    },
+    {
       "title": "The Best Global Stock ETFs to Buy",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiY0lrMUFLTVpKVEVhVUlfTkFfRUgxOElQT2xWNktGblZJLXJ5QlRvWXBoTzRpTE1BYlZMb1J0WGxlYlN4WjBXaVNCalhTdXBtZW1HSk1wX3FNN3BnaTRZWnhEcUlKcW83VFlaUktkbjQ5ODFnR2JF?oc=5"
+    },
+    {
+      "title": "7 Best Silver ETFs to Buy in 2026 | Investing",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0NmOVlOUkdjOHpwRDRtNk1tUWNmcThCaGtoeG9EbC11alVmZl9DWmdRZkhud3diMmpDMkM4TExVcTZrdjVveGxPbHZyOEpvdHdCb1YwN0VKcThEWk9vSGhuYXJqWWVPWDBGYXpvT1VFcFIyR0ZQTmNhQ01OTUVFbmtn?oc=5"
     },
     {
       "title": "2026 First Half Portfolio Review: The Great Rotation Might Be Starting",
@@ -109,11 +114,6 @@
       "title": "10 Best AI ETFs to Buy in 2026 (Performance & Reviews)",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11LTlhVlBBUmQ5QmEyZXdqNGxkSkpFRlhfWVpBRHN0ZlJpRG5GMmZ1d2lpd1BtVnNkMFRaZFNLT1ZiN0ZRb0JLbHhPVmZUZ9IBTkFVX3lxTE11LTlhVlBBUmQ5QmEyZXdqNGxkSkpFRlhfWVpBRHN0ZlJpRG5GMmZ1d2lpd1BtVnNkMFRaZFNLT1ZiN0ZRb0JLbHhPVmZUZw?oc=5"
-    },
-    {
-      "title": "7 Best Data Center Stocks, ETFs and REITs | Investing",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5"
     },
     {
       "title": "Best Online Brokers for Beginners",
