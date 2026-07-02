@@ -2048,3 +2048,4 @@ tools: How Adam Szymanski is Powering National Resources with Cutting-Edge Model
 crypto: SBI Crypto cierra su grupo de minería: ¿Qué significa esto para el futuro de Bitcoin?
 crypto: The Crypto Conflict: Trump’s Financial Windfall and Senate Fallout
 youtube: España en el centro de la controversia: ¿Triunfo o fracaso en la Copa Mundial de YouTube?
+youtube: YouTube's 'Mandela Catalogue' Set for a Spielberg-Produced Movie Adaptation
