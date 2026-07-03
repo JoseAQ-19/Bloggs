@@ -1,12 +1,12 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-02T09:36:31.571073+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-07-03T09:57:50.297874+00:00",
+  "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "Rosen Law Firm Encourages Putnam Investment Management, LLC Mutual Fund Investors to Inquire About Securities Class Action Investigation",
+      "title": "Morningstar Integrates AI Investment Intelligence into Microsoft 365 Copilot Ecosystem",
       "lang": "en",
       "source": "google_news_finance"
     },
@@ -18,7 +18,7 @@
     },
     {
       "rank": 3,
-      "title": "DoubleLine Opportunistic Credit Fund Declares July 2026 Distribution",
+      "title": "Direxion Readies Launch of SKHL, 2X Daily Exposure to SK hynix",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -27,11 +27,11 @@
     "key_phrases": {
       "fund class": 21,
       "full list": 20,
-      "view full": 8,
+      "view full": 9,
       "index fund": 7,
+      "small cap": 5,
       "emerging markets": 4,
       "fund institutional": 4,
-      "small cap": 4,
       "etfalps shares": 4,
       "markets china": 3,
       "china fund": 3,
@@ -51,9 +51,9 @@
   },
   "all_headlines": [
     {
-      "title": "Rosen Law Firm Encourages Putnam Investment Management, LLC Mutual Fund Investors to Inquire About Securities Class Action Investigation",
+      "title": "Morningstar Integrates AI Investment Intelligence into Microsoft 365 Copilot Ecosystem",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQNm9IVnFuLXp5a2VDQko2dmF6ZGZqR05uSlRlQkpDcFhXZVg4Rm5BazhtSTgyNWowSjdiQjZnQWZVb1FDRlVoT0JPcHVRc0VWNHBlNUdGMURWWFBJZDhWY0NZNnpjdEotY0FuUVRiRzRmWlk5cHVDYlF3bWJNMFdNVVdtcHNXUW5sVUxoby0xbEVhZUtWQmhMN2NkdlhCaHY0R1ZzRkNaaE1nX3VhYXRSdTFCVDd3LTRuWjh1RlJEam83ZEh0T0YtS2xncDNUSFRnMm90RmhiOTlNY01SdnJRZU9tZWdUck83dFkta1djWUloUHQ5WnlqSFFmWlA3dTk5ekE3VlZEdGx5NWdJd0lpVVViLWNUWF8xRE9DLTRISFQ0dw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORktuX1BoV3FVb2E4NmVQSU42QlhfNV9hdjJ5TVpkYlBVMUVzcWhpSnJicXpYbEpMV0cweGNFNTBRM0YyUlNQbm9ONzBYejJCQ0RkWnRfOU5OUDFfcV9KdE9QMVlKTC0waGt4aHhPeC1sc1hsN0l0aGxrS3p5YURnaVVQN3NKdG5YeUdzZTRxbWhIZnNrckhyQ1FVVkl4aVYwNHJ1NE44cmcwcFl0VDQ4?oc=5"
     },
     {
       "title": "3 Funds That Could Get Smoked",
@@ -61,9 +61,14 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DdzlCR3hXeDFoQ0NDT0MyRTB0T0NlbHJtMmQzWGNjcF9KeHhueElWMDdDYVROWkVMLW1ONUZKZ2FIX0lJc1dRMEF2Wk5CSXIyU3NOa2J6QmxhQUlUdnptSHphUXJDcTQwWlRJTFJXY2I5T00?oc=5"
     },
     {
-      "title": "DoubleLine Opportunistic Credit Fund Declares July 2026 Distribution",
+      "title": "Direxion Readies Launch of SKHL, 2X Daily Exposure to SK hynix",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODhkbndsQTBPUjF3UGxKV3Ziel94dWM5YzgtakdYYUFHdjlldTdVbWotSHVCX0RSWU9QZUFRZ3hiWFREUm93MGdVbFFJNEo2cXlSeXByR2liT2EyWnEzbXN2d2tDNXZDTGk1UDRrazdOSU5LTzltVGRFVlFHVHVmQmd0SVpITFVhdUJwQTFiZXItd2tnWmwxMjdpRk9qeDZSeEZJY050ay1GWHBEM056aE81LWJiZWtveHE0OEZwOVNsaDk2czl6Xw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkhaaDNlMUMwdi1vNkNvZFNaUTBpY3ludTdRWXNiUWJYVExCaW9Mc2VZbGZVb3hUNktKVDB2RGUtZnVadjQtUGl1Z0lGSk1xVHlnU2hoa0Fhd0F2QV9CckVhNEYwTUh5WTEtai1na05sTWQyRG5lNTFVTG1RX05UYU5TQUltX1BWS1BXMm5zeHFGZGQ5cEo2cEp3T0ZpcXFPS2VSSWg1OElrb0JlUDZ5REdhU0JCNW8xdWI4SmwwOA?oc=5"
+    },
+    {
+      "title": "MSIG USA Supports Innovative DEG Fund to Expand Sustainable Investment Across Developing Markets",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUkFJQnY4YjYzODlzT3FBd0Q0eW1qdkx3SERhV3paWkhqRDRlODFlVmRxSlV0WXpTV3NvNXF4ODRfc095a2FaM01zZDRSaEZ5alJPcEtGc0ZqQWNKSVlkSG1PZTM5TDZSbEVKNzFCbTNrd0FwYVVEcXBwMlRweGs1WW9vRENRNU5ESGRFTlV2Y1BGdmJ0ZzI2bVZsLTZlU0JKblBzS2g1OU5GMFd1cTI0UXdSN3NEZmJkT3ZDTjFZUHoxSHBUQno5dFY4MmFBMkFyM3VhUHVKWjhoTWZRS1Q2YnBldUdiUVAxU0pMalZ3?oc=5"
     },
     {
       "title": "The UK Stock Market Has an IPO Problem, Fidelity Manager Warns",
@@ -71,24 +76,19 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV3JYbG84LWozN2EzOHd4V1RyU3JVR3J2aGV2Ym5SbW9ySkZlbGdwMW41UW5DalZtR2w5Q1lfMHRTWGRMRzFTYVRfR3psbHNMU2ltMlVkaTR2eWVvcUlTVVlUZmh2RTN1ZnhFdW43RnNEMlg0c0kzRnZaaUgweFBzZ0xqTktlWm5Tdk96Um9YSkQtclJoVWlFUWh3bnhsTTdqNFRRZg?oc=5"
     },
     {
-      "title": "/C O R R E C T I O N — Bitwise Asset Management/",
+      "title": "Morningstar CEO: Advisors face AI squeeze, PE funds must clean up fees",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdFFsdTFvN2NueFktdnBxMDVCM0h4VV9HVFhqWEI4VVctZUYyMDkzUGliNnJXNkxWTjA3UEd1SnZoRWhwNV9UX3JpbU55NTBVXzI2eTRzY21BMXh1azZSZ2dpVE5tZVltRWdhcHB4VWFNWU5oRjJaWUJTclh3WjRDOWZNdHBBOUdZdTJEdGs3Z3lyWTdNbkpIb0dORWlWeFJ2Ym9peVFJQWo?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSmFad1V0SlFxRzRsMGVnZlRkQWZjcmVyR2FHN3BWZ2R5NFFYSnptbHV1di1GQk1YM056MEI0Um1mcTFvSWJiY0VsNkM2Sy1aZFZSMkhrU055Ty1BZTliSVoxSVlHdmpqeWgyTnB6QlBNU25hU3FtRUZzZXJ3cjJZenhpQUJ6a2o2cVBxRE9KUDhUaWJMVUlnRG54cm43ako1dGpLeE9FSUw4elE?oc=5"
     },
     {
-      "title": "Thornburg Income Builder Opportunities Trust Announces Distribution",
+      "title": "The Best Mutual Funds Of 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQUFFY00wdk9lOXRpOFdQZXdCY2xpMVY3RkhWSGw0bkxCeHhSb2tnYlpHVTNKUktBMWg3VjNuU0NXb2ZVaGlOeEVGUTJFZWhtM0ZqaE55Y2N2M1N0RWVkR2ZOVVBKMU82MkUzTC1DTzF3Qm1tLVBPV19ZS2tlNlRPcFdUWEc4aGg1NGptbHlQeU5uUF82NFI1TndpcmVRUzVOR0szT2E4Q2p6dEh0U2swb1YtNEtjRzJ3N3doNmdHbTN4ZkE2Qlo4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83Umc2bTk2TnJOSHJFRFM3eEJFWFVwSjN3Wld4YXFfNjRKWEY2NWJjSjdhR3REblBUZmc5Nm5RMDBVX05FRU9pRXdNMGJialVpTDl2c1FpVllXWGsxbkJBLU9VR1Y1WEF2VWc0dkZZSQ?oc=5"
     },
     {
-      "title": "Unibail-Rodamco-Westfield: Initiate Coverage With EUR 104 Fair Value Estimate and No-Moat Rating",
+      "title": "7 Best ETFs to Buy in July 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQTRHb1JSOUtCNlpVMW1QUHh6Q3R6V2ZCMUxILXZoa2FuNnpYUUk3OWoxb3FOYlZZMlJRZi00X1VoQ3FSdG9DQm1sd2hscW1DR01GZ0I0T0JrUzR4LUgwMjR6TmppdWdZNHdvTkNaUlZRT3Nsb0dpaHJmZGJIckVFT0ZPRDFBcWtTU1pfeXVkbHJrMUZwVzBZN1E0MDNGTnI3N1htR2F4a2N4ZXFyeVZRVVhlREZxc0Vpb0FmWE52b1ZqTF9RNllXMWJEX25KUDly?oc=5"
-    },
-    {
-      "title": "Franklin Growth Allocation Fund Q1 2026 Commentary",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSzNpSG03b1pNNnJrbERLb0o2SmJnQklPQVFpUmpxSnVBckYzTE5tdlhNanNvUHFEQUxmUGp3UERNdHp1dFNsNFl1bGZ6a2NsV0kzeUNjNnVVUVdmY3pRb2JndnhUMVNCY1NoeHVmZXoxOVRsem0ySTVvUUxhRVpxRHhJNkV3YURQNmRTNnVfQzg5MV9nZXd5N1NPVk1JUmJIQTVMSm5iU0ZsaVZEb21B?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9adXBwd0NWR3ZDaGlXNkFnSU9TaWU2UDRZNHVxX0RMa251V3hEY2F2SzFscWUxa3BpQTdLeDRYUm5xd1dUWFdvd3NGVFBHd3RraXZPLVlHdnZwd3JjLVBjSHBRVnRMZnVKN2FWM1Qycw?oc=5"
     },
     {
       "title": "The Best Global Stock ETFs to Buy",
@@ -101,34 +101,29 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0NmOVlOUkdjOHpwRDRtNk1tUWNmcThCaGtoeG9EbC11alVmZl9DWmdRZkhud3diMmpDMkM4TExVcTZrdjVveGxPbHZyOEpvdHdCb1YwN0VKcThEWk9vSGhuYXJqWWVPWDBGYXpvT1VFcFIyR0ZQTmNhQ01OTUVFbmtn?oc=5"
     },
     {
-      "title": "2026 First Half Portfolio Review: The Great Rotation Might Be Starting",
+      "title": "The 41-Day Dividend Trap That Quietly Erodes SPY Returns Every Quarter",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObzFZSjYteEx5c01FNnFSbXJsb0RHX1ZLUjZHcHBqXzlZQnU1MXhrNnhTZVdpZTNsTXBDWlJaMkZZU1M0Sm1QUGdHeGhtWGZsc28tUmthalQ3MW1WcEI5a0ZjenEtRlZiU0hwN1R0Sm4xT1djWEdWbGNUclpNUS01WjVHaU9KblJxZ0RGMlNsX2lRVnhDZ256MWtZUlFScmhURThRNFFFelZ3cXlJWnJz?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNERQWVpJSkNIYndEaUtqMktmVlVaYUVqTU5lTE5aWkZGdEQ1anBGV0VDX3dUdGtxX04wTE55X0ZLWHBxMjJKYjQ3cmVjVW9VdVQwOUZ5dXJveXg5UHVSSWlmSWtzYlRDamxEMGZRLWp0dlNKb01OcDllUkpuY1NGNHBaQTFOazdPQWFKeWtxV2VOOHhwanRwVDkwckRiSzNPeEFISTBkbVhJYjItazE1OUhPQjc?oc=5"
     },
     {
-      "title": "How Warren Buffett's 90/10 Rule Makes Investing Straightforward for Everyday Investors",
+      "title": "Best and Worst Months for the Stock Market – Seasonal Patterns",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUVhvYUxJUjlhZWtSXzlZTUNHNVVCb290WHJTOWZaNEh1TWx5WnhhS2tKcmZxZUFQaTB1OTBvOTJTZXp2R1JIcU0wcFhJV2ZTN3lxM2hKUDBVY0s3RW9qSW1KNjQ0R2pWWUFOTy1fRlNNU2tYWDZPZ2RlTWRBWTJRSWFwRW43MjhIYTFDSFQ4bHhTdG5VRFdJUW5RRjBrZnd4N2pOM0lUdXpDVUptQzRoVS1IRXlNRG1uSHFaczNmRDN0UQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IeVVUdDBVeno4dnRseldQM09fd3FJcndVUWtkRnFpNURKLVVrcFZveUZwT2dZeHQ1MmtrVjRKNkZXWVZUTVdpbndHc3R6SWhOUDBWRHpLcUhlak5IRmdndDYteDE2c2JEYmlsUDNXMWNFN0E?oc=5"
     },
     {
-      "title": "10 Best AI ETFs to Buy in 2026 (Performance & Reviews)",
+      "title": "5 Best-Performing Tech ETFs for July 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11LTlhVlBBUmQ5QmEyZXdqNGxkSkpFRlhfWVpBRHN0ZlJpRG5GMmZ1d2lpd1BtVnNkMFRaZFNLT1ZiN0ZRb0JLbHhPVmZUZ9IBTkFVX3lxTE11LTlhVlBBUmQ5QmEyZXdqNGxkSkpFRlhfWVpBRHN0ZlJpRG5GMmZ1d2lpd1BtVnNkMFRaZFNLT1ZiN0ZRb0JLbHhPVmZUZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JT1ZDUUVqakctMGtsYlMyRktnNXcta0ZKOW5kS2RaNFdjTVVRWEktOXh3bEktOHVkNkE3aTFxWTBDSUwzZXBhQ2tYTV9DMHc2cy1HTHlacEdocXp1b2JoNVRn?oc=5"
     },
     {
-      "title": "Best Online Brokers for Beginners",
+      "title": "Defense ETFs Under Spotlight as UK Unveils $20B Military Overhaul",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZUVhR2VzZ05hS19YZmtTdEJ2TkFSVURVX3VBMnFvekZTVjVqcXVuWkFqcFRrRjdwa1IwbHhRbl9tTlJ4bTBacks2QzV6SlNmVGxLTXNPVXdLQ3ZhazdGenRmX1Y3TDJLSjBjeS1QaEtQc001WVVRYU1SUkZYcTcyLQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWR4N0JQWXpOSDlVaUxDMzBnMDl6aGcyczdneEdldFJiY0JBbkhQLTE0cjNnNGFNVmJCSENuNTdFYmpRdi1NT1c5VWdDd3dKNFNJcVlSNHJYVkZfLUc0STZ3aFZlbjQyV1ZPZFVfVTBFV1RicFh1RnNsOUJMdW02VTZpU0R1YnZLMWk3NGtmRG5vcllFTDJzX3kyVTV5TnctOGsydUlnTUhpdGRmNTBRSjF3QWVtN0RnMFEwSQ?oc=5"
     },
     {
-      "title": "4 Best ETFs That Hold SpaceX for 2026",
+      "title": "The Best Mutual Funds Of 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2ZW5JVTRsNDF5TUh1aUljdS0tczFZZFB6aEp3bldlWHBkVTkwOFBVVWZQNVFQWjE0RnhjTXJwSWtZTVljNkFSU1R3cEQ1NlVEd0YxZUY1UXg3TkpEbnZaUWNFTGVXWVNOVkhLYjFVNkh4Snl2RnpLdEVMWXQ?oc=5"
-    },
-    {
-      "title": "Should You Forget the Vanguard Total Stock Market ETF? Here's What History Says.",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUzRaaWR5T3VFTzR1YmZKYWlxNm9rbjBhTjhWSjhJTmpKeGtyNExYaktYMHdjM1FVZFVydXRRYUVxRlhhQWlIQVdoU3ZwZGVUTjE3U3dZX2dWc2ZUeDRoLWpMcWxiYmtzUW1Wc3BoX2xPNlMwTm9Yb0o0UjBJd3RHbmtxZllsVmtNaXhNVUNSSW1sZm16dDAyajZ4QlMyUzRaX1FOb3NrWmsxT2RTc3hNMXB3NVd2RzBKSVRPaEdBeFRBMGg5TjJlam9ybmlkX2ExS091VU9wV2x1S3ZzQWRITVg3dndOa3lyUUpWWmRtd0ZYOG9NZURENQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83Umc2bTk2TnJOSHJFRFM3eEJFWFVwSjN3Wld4YXFfNjRKWEY2NWJjSjdhR3REblBUZmc5Nm5RMDBVX05FRU9pRXdNMGJialVpTDl2c1FpVllXWGsxbkJBLU9VR1Y1WEF2VWc0dkZZSQ?oc=5"
     }
   ]
 }
