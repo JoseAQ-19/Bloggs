@@ -2059,3 +2059,4 @@ funds: Direxion's SKHL Offers 200% Daily Exposure to SK hynix for Aggressive Inv
 funds: Morningstar's AI Investment Intelligence Enhances Microsoft 365 Copilot for Advisors
 ia: La lucha por la igualdad: ¿se cierra la brecha de género en la IA en España?
 ia: Rob Sand Takes His Gubernatorial Campaign to Monona County: What It Means for Iowa
+tools: Salamanca se une por Venezuela: Declaración institucional que marca un hito
