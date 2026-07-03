@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-03T09:55:03.830258+00:00",
+  "scouted_at": "2026-07-03T09:56:15.997768+00:00",
   "total_candidates": 4,
   "topics": [
     {
       "rank": 1,
-      "title": "Nokia y cables submarinos: descubre las 3 ideas de inversión en Europa que Nordea AM considera subestimadas y su rendimiento en 2023",
+      "title": "Nokia y cables submarinos: ¿Podrían estos activos europeos superar al índice Euro Stoxx 50 en 2024?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Aristócratas del dividendo: analiza quiénes son los que han superado el 5% de rendimiento en USA y España",
+      "title": "Aristócratas del dividendo en USA y España: ¿Qué empresas han aumentado sus dividendos más de un 10% en el último año?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Las mejores cuentas nómina sin comisiones en julio de 2026: compara las opciones con el mayor interés y sin letra pequeña",
+      "title": "La caída de la inflación en la zona euro: ¿Cómo impactará en las decisiones del BCE y en los fondos de renta fija europeos?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,6 +49,11 @@
   },
   "all_headlines": [
     {
+      "title": "La inflación de la zona euro cae más de lo previsto. ¿Mantendrá el BCE los tipos de interés?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmlGRlhtVzBrNlZYQ2N4cmhkNHFtN1E0cHZGZ0lGSXUyZEtGYXRRZS0zTm1jaFExbGRTSHB3dFB0NHRGZEREVTZ0QzdfLXBZZUk4TVAwOEtuTTFnY0c2S1g3V1dHMGJkME9jcE9rWEZkUy1WYWd3VWE0aHNuS0YzQXJjMFNhVEFyTUNYNmhlYU9vdWV6XzdSakhuMllMdzJuOEF5ZkdVRnQ2TjY3bHBTb3RkS1NsNFJQZkJUbHJrc1pTT0lfN2dR?oc=5"
+    },
+    {
       "title": "Nokia, cables submarinos y \"defensa invisible\": 3 ideas de inversión en Europa que los índices no miran bien, según Nordea AM",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVms4cXJvTU9NdHlxRW1GcGMwQ3R5bGFzWlN0NTIzU2R3Zi1Mamh6SGdUZTU1eHJoTEthbTFlajc3T1V3X3V0UEpkQkpRdHh6VkJxeUd3VTBibTVVVFZQMWdEWmt5VFJDQXhhcDJUM0dTRlZaa3NNaEY3RklmRnRweEs4OW1BWU5JU3ZkaDlsY2VRYjU2MjRzVnVzUW5jb28wOV80YkpQMUl2OTY1S192XzM5V2ozU0RxOWFqZzJKSmdoNmQ4MFFpWE9uTVpRNl9JXzdGay02Y21jOGJ6UzZYVFdBaEFaSTZfX1R2aG0tN09CVXhhUWtVbHFnMHY1UlZ5ZllaVw?oc=5"
@@ -57,11 +62,6 @@
       "title": "Aristócratas del dividendo: ¿Quiénes son en USA y España?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdklSSkJwSE8zRGdWQml0aVNxQW1QN0NWSmdNTFczMnhVWVBBSWFZd0t1T1ZubjlnTXJFTlBlMzB6NUZDdnk1Wlg0S2F1THZjcHA1ek9pZmVPTjRjVWhmY0txTjZPNzhRM3dwUldiU0ZNZHNaQklaOEl2SHZwc2t5OVdJVmgtVWNHVnpRcF9XR2s?oc=5"
-    },
-    {
-      "title": "Las mejores cuentas nómina sin comisiones (julio 2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0ZtcXlsRGFxdFFvb2JpUmJlT29IaWdWQ2lscnlvel9aT0JINUF3UTVnYllPZEwxVFd0UVpTR2swUmtncjNxN19GUzVRMGdiSmdxLTAxTENub1F3RDVPd2l0LXQyRTlzSkNJVjlERFpiMDl0X0RnYWhOenJrMk5qMjZCdmZhUUZNQ3lCbzQtbklhYlhRWDRwbA?oc=5"
     },
     {
       "title": "¿Cómo funcionan las Cuentas Trump para dar mil dólares a bebés en EU?",
