@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-04T09:20:17.409395+00:00",
+  "scouted_at": "2026-07-04T09:21:34.921823+00:00",
   "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "Ferrovial: Análisis de las acciones recomendadas por Morningstar que superan un 20% en rendimiento este trimestre",
+      "title": "Ferrovial: El único valor español que destaca en el top 5 de Morningstar, ¿qué lo hace tan atractivo?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa de los mejores fondos de inversión 2026 en España: ¿Cuáles han superado el 15% de rentabilidad?",
+      "title": "Comparativa de los mejores fondos de inversión en España 2026: ¿Quién ofrece el mejor rendimiento con las tarifas más bajas?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Mejores roboadvisors en España 2026: ¿Qué plataforma tiene comisiones un 30% más bajas y mejores rendimientos?",
+      "title": "Los mejores roboadvisors de 2026: ¿Qué diferencia a Indexa Capital de MyInvestor en rentabilidad y comisiones?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
