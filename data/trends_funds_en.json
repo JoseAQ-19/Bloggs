@@ -1,18 +1,18 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-04T10:30:23.246379+00:00",
+  "scouted_at": "2026-07-04T10:31:25.261667+00:00",
   "total_candidates": 14,
   "topics": [
     {
       "rank": 1,
-      "title": "Tesla: Shares Fall Despite Strong Second-Quarter Deliveries Growth",
+      "title": "Direxion Readies Launch of SKHL, 2X Daily Exposure to SK hynix",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Direxion Readies Launch of SKHL, 2X Daily Exposure to SK hynix",
+      "title": "Tesla: Shares Fall Despite Strong Second-Quarter Deliveries Growth",
       "lang": "en",
       "source": "google_news_finance"
     },
@@ -51,14 +51,14 @@
   },
   "all_headlines": [
     {
-      "title": "Tesla: Shares Fall Despite Strong Second-Quarter Deliveries Growth",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRTZ3YzRkSDhtSElFSUd4TVBQRXlFR0I0UXVLR0loQzBEQ0o3U3NxbEVzMEVhMmNfbkhnT1QtRmZjTE1mTHJHWGl4Vm01akZXNkhWRzUyUXBpRkh1VnV1NUQ2eGgwZFV0TjMzdTJpMTlkcFlFZjZSb0o5LTN0Wld3T2RBS25RNlI5eXBnbTdCMXM1YmpkUkhlb29XVUUtZ3VtUlhyemlTNG16ZHVTci04OXhLeWItREliZ3BDMTQ4dHFDNEl0aGc?oc=5"
-    },
-    {
       "title": "Direxion Readies Launch of SKHL, 2X Daily Exposure to SK hynix",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkhaaDNlMUMwdi1vNkNvZFNaUTBpY3ludTdRWXNiUWJYVExCaW9Mc2VZbGZVb3hUNktKVDB2RGUtZnVadjQtUGl1Z0lGSk1xVHlnU2hoa0Fhd0F2QV9CckVhNEYwTUh5WTEtai1na05sTWQyRG5lNTFVTG1RX05UYU5TQUltX1BWS1BXMm5zeHFGZGQ5cEo2cEp3T0ZpcXFPS2VSSWg1OElrb0JlUDZ5REdhU0JCNW8xdWI4SmwwOA?oc=5"
+    },
+    {
+      "title": "Tesla: Shares Fall Despite Strong Second-Quarter Deliveries Growth",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRTZ3YzRkSDhtSElFSUd4TVBQRXlFR0I0UXVLR0loQzBEQ0o3U3NxbEVzMEVhMmNfbkhnT1QtRmZjTE1mTHJHWGl4Vm01akZXNkhWRzUyUXBpRkh1VnV1NUQ2eGgwZFV0TjMzdTJpMTlkcFlFZjZSb0o5LTN0Wld3T2RBS25RNlI5eXBnbTdCMXM1YmpkUkhlb29XVUUtZ3VtUlhyemlTNG16ZHVTci04OXhLeWItREliZ3BDMTQ4dHFDNEl0aGc?oc=5"
     },
     {
       "title": "The UK Stock Market Has an IPO Problem, Fidelity Manager Warns",
