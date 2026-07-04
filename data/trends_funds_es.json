@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-03T09:56:15.997768+00:00",
-  "total_candidates": 4,
+  "scouted_at": "2026-07-04T09:20:17.409395+00:00",
+  "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "Nokia y cables submarinos: ¿Podrían estos activos europeos superar al índice Euro Stoxx 50 en 2024?",
+      "title": "Ferrovial: Análisis de las acciones recomendadas por Morningstar que superan un 20% en rendimiento este trimestre",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Aristócratas del dividendo en USA y España: ¿Qué empresas han aumentado sus dividendos más de un 10% en el último año?",
+      "title": "Comparativa de los mejores fondos de inversión 2026 en España: ¿Cuáles han superado el 15% de rentabilidad?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "La caída de la inflación en la zona euro: ¿Cómo impactará en las decisiones del BCE y en los fondos de renta fija europeos?",
+      "title": "Mejores roboadvisors en España 2026: ¿Qué plataforma tiene comisiones un 30% más bajas y mejores rendimientos?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,24 +49,79 @@
   },
   "all_headlines": [
     {
+      "title": "Tesla cae a pesar del fuerte crecimiento de las entregas en el segundo trimestre",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaE15QWdsdjJIb1A4OXBhMTYyUi16azhCeHAwTWpOazZvbmtKWk5uS2R6TzNaTXhqMllGbU02RUVXUTZ3czYzakpyU3NzZFhLTzVlUWZ5ZXVkZV80SWNQNkZCLVdjS19KV21FVDNWUk0yS1I4OGNNa1BVc2owUFF1dV9SOUwwRTdnY1NCYmhiTjF4dG1lQWw1TXcteEVfSEh1N2RkbDNLekFyNkRDbUprU1RFeGVtSjhzSFZFZGJ3?oc=5"
+    },
+    {
+      "title": "Ferrovial, el único valor español entre los favoritos de Morningstar",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbzlKSUx2cE4xcjZqcTJsd3ZxZGRUdDhkSVdSa0xNamU3U3NZX04xcXl6WVAwZWZETVJLenB1bmx6Q3JhVEdpZkswZ2Nnd1hnVDNMQ1NPclFkQmhGVG9HRUNaSU1WYlFlSW85MFg2a0pDUnppNVpNcnN1Q0FnV1gyUNIBgAFBVV95cUxPOTBhclBQSHRiYjU1Rm5rWVdoZ0J4Z1pwd3N2ZHFoMWJfRWhIbkk5ZzZZRUdJWTVyMU9kd1BhOFc4NEJpdmdxamJzbnN1anc4QUdNRGUtQUZRQnU0ZnZ1X0pUam9fLVdKLUVLQTl3WTVPcVp4cS1ORUgtMnZhODJOcA?oc=5"
+    },
+    {
+      "title": "Mejores fondos de inversión 2026 en España por categorías",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMXh1Q3FnVkotWmJNWE1EQTQyczRDbmcyOG0ydWQ0Q0djcW9mMnBqUHRhaVRmNzFlUnlzbTZmSEx3QTJoTE5xbTJLVkJ3anU5MTNZMjdLSlVrSFQ5UjFJU0dPdVh4ZDZ4SlQzU0ZjeGl6OXd1RFA5QktMZ2dWTkVIN2FsNA?oc=5"
+    },
+    {
       "title": "La inflación de la zona euro cae más de lo previsto. ¿Mantendrá el BCE los tipos de interés?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmlGRlhtVzBrNlZYQ2N4cmhkNHFtN1E0cHZGZ0lGSXUyZEtGYXRRZS0zTm1jaFExbGRTSHB3dFB0NHRGZEREVTZ0QzdfLXBZZUk4TVAwOEtuTTFnY0c2S1g3V1dHMGJkME9jcE9rWEZkUy1WYWd3VWE0aHNuS0YzQXJjMFNhVEFyTUNYNmhlYU9vdWV6XzdSakhuMllMdzJuOEF5ZkdVRnQ2TjY3bHBTb3RkS1NsNFJQZkJUbHJrc1pTT0lfN2dR?oc=5"
     },
     {
-      "title": "Nokia, cables submarinos y \"defensa invisible\": 3 ideas de inversión en Europa que los índices no miran bien, según Nordea AM",
+      "title": "La acción de Ferrovial consolida tras ser incluida en las ideas de inversión de Morningstar para el tercer trimestre",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVms4cXJvTU9NdHlxRW1GcGMwQ3R5bGFzWlN0NTIzU2R3Zi1Mamh6SGdUZTU1eHJoTEthbTFlajc3T1V3X3V0UEpkQkpRdHh6VkJxeUd3VTBibTVVVFZQMWdEWmt5VFJDQXhhcDJUM0dTRlZaa3NNaEY3RklmRnRweEs4OW1BWU5JU3ZkaDlsY2VRYjU2MjRzVnVzUW5jb28wOV80YkpQMUl2OTY1S192XzM5V2ozU0RxOWFqZzJKSmdoNmQ4MFFpWE9uTVpRNl9JXzdGay02Y21jOGJ6UzZYVFdBaEFaSTZfX1R2aG0tN09CVXhhUWtVbHFnMHY1UlZ5ZllaVw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUc3dnpkdVJ4Nno1cExJYmtfTi1hajdxS2RYOElYb2ZGMlA0MzdXd0M5eGlWOTRwaENSVFJxeDZVUnJ2U015bHg2WlZiY0RUREMydC16YXJsT2YwUXZBSGtPU2RlT2NPT3h2blFoTy0yejd4NDl3azk4XzJBTzl1em1Wc3k0YWF1Y2pMSVgtdWltR3VISWp2UmFjcGdWYkxWRVNmeExrc2VVdw?oc=5"
     },
     {
-      "title": "Aristócratas del dividendo: ¿Quiénes son en USA y España?",
+      "title": "Mejores fondos de inversión 2026 en España por categorías",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdklSSkJwSE8zRGdWQml0aVNxQW1QN0NWSmdNTFczMnhVWVBBSWFZd0t1T1ZubjlnTXJFTlBlMzB6NUZDdnk1Wlg0S2F1THZjcHA1ek9pZmVPTjRjVWhmY0txTjZPNzhRM3dwUldiU0ZNZHNaQklaOEl2SHZwc2t5OVdJVmgtVWNHVnpRcF9XR2s?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMXh1Q3FnVkotWmJNWE1EQTQyczRDbmcyOG0ydWQ0Q0djcW9mMnBqUHRhaVRmNzFlUnlzbTZmSEx3QTJoTE5xbTJLVkJ3anU5MTNZMjdLSlVrSFQ5UjFJU0dPdVh4ZDZ4SlQzU0ZjeGl6OXd1RFA5QktMZ2dWTkVIN2FsNA?oc=5"
     },
     {
-      "title": "¿Cómo funcionan las Cuentas Trump para dar mil dólares a bebés en EU?",
+      "title": "Mejores roboadvisors en España (2026): comparativa y análisis de carteras indexadas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeUlCTmdmbHZpeWZHTi1CQWdqNUU1UkdLVEFtWGJrNmZIRWtsMTZ1b1A5eld2WXA1eVJPVkYyZkZxRDBGM1hSR29Hby0yd1E2LV90ZU9HblRVdGoxaEp6X0JsOUV3OEdlVmFIR05ROXZjVEF1RFlkSXBTSUt1RXNUMFMyUHpGMkxUSzRrVzJ0RUVPMHZVc0NTanN0QWlUN0xaRk9mb3NkeDBZMmZQQnZkeUp5Y0o5WHU3V2hlZFdVYXBKdVlYOW5zd2RR0gHKAUFVX3lxTE15SUJOZ2Zsdml5ZkdOLUJBZ2o1RTVSR0tUQW1YYms2ZkhFa2wxNnVvUDl6V3ZZcDV5Uk9WRjJmRnFEMEYzWFJHb0dvLTJ3UTYtX3RlT0duVFV0ajFoSnpfQmw5RXc4R2VWYUhHTlE5dmNUQXVEWWRJcFNJS3VFc1QwUzJQekYyTFRLNGtXMnRFRU8wdlVzQ1Nqc3RBaVQ3TFpGT2Zvc2R4MFkyZlBCdmR5SnljSjlYdTdXaGVkV1VhcEp1WVg5bnN3ZFE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmo2OHJlNC1CUlN5bGZWeFN0dnFEN2xUbGw5aUltNXJRV0FKaFFWbFFQY0dqa2FoQ1I0Y3UtNGxUeG1sZEVjUmxZTmJjcGlTRXpmVWRQYm9hREh1b2cteW04c0VCcFFHTmtsbEc3MlVYeEp6SEF3VzJ3eG03ZzJyMDVyajc1dWozNUhCV0dxQUQxWGxQQ0E?oc=5"
+    },
+    {
+      "title": "Los mejores dividendos de la bolsa española",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3JhZ0RrS0lMZnVHZFFNcjZzVDM3a0VOUWgtWlFvNkpTSnBaT1hIZGVweGFhVlNMMlQwMF83eGJ0aUhRUi14MUZEaFVZZmg2bHVqNEdNVVByRWkzR2dVT3JWeENGeDdPZVpzNlViYlRpbHN0X2xJbmVMU2tBWVA3c2J4ZGhKcmw3eTk2TmZvdUVkY1dxN1JUOEpsYUJMWmphSjFLU3hoOHVwczZZdHNnS1Y1V1VDY3p0?oc=5"
+    },
+    {
+      "title": "Mejores ETFs para invertir desde España en 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yZGVKdy1Wc19iamk0Q01STTV5Y3dFNnpZekRoYThsdnc5d2cteTl1TnJVOUxOUGpiYVdWRVZWWWJ0b19McW5vZ2dHV2JWaVFlR2hQa2Y5QkhBUUVEMXRVN3p4QUt1SHJOdE1OYWZsTHIzODRU?oc=5"
+    },
+    {
+      "title": "Mejores brókers para invertir: comparativa 2026 (julio)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWNHb3VNQnJ3UVNGUmJtZmVVSnBMd093MDNyeERXZTBYeDRJQ01VaGxFdWhFMVVCUHR4TFhWeDljbjBxb3gzLWJzUndiUW1VOXBNOEJEdnNDUVdJcFExbXFEamJHTlh6MHlIVGN5UmFKa2FSa3RrTWNucXRpb0lOYWFRQVZ0cXJzOGprVHUyYVFqS3Jib1M4?oc=5"
+    },
+    {
+      "title": "Indexa Capital: opiniones del gestor automatizado de inversiones 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkpxbEVNeGhjaDM0TW12aW8wZVlyb2ItU2M5WkRfczdHN2x3WDVUUm9rMDdBTnBvR2RscmdheEs4ODlLcXVZR01XZ1NoUXZrRVFrdHpwSE0tSDZybTJVdjB6Uko0b3lLbUdYYzhMejgzRU9PSk5JbE5NZTBSdTNWWUl4YVRIUWs2ZHlTWnQzUkM0cW5IQTU0bUZpcFM0c29HMzVHblVDSVdFc0Y3TWJBNzVZR3hVcmRGN1E?oc=5"
+    },
+    {
+      "title": "Comparativa Indexa Capital vs MyInvestor 2026: ¿qué roboadvisor gana?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHVpamVqcWF4SWUwUjRmcjlHaXdCa3I4SlZwWnQwM0NBVzhhRm5uaVhYRENNaWlQc0ZNaWY0LUlFal9pYlNCb0FhQnpZcXYtM1VlY1ZWNXQyR3dmTzhrR2ZSNXYwMUdmXzMwRlZ3XzRJbEN4cmV5ZE1EMm9BMGN4Tk9Ca0txeEJOWERISUpn?oc=5"
+    },
+    {
+      "title": "Los 10 mejores brokers para invertir en ETFs [2026]",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUNXdVlhNkd1LWZzOWloaWp6T1dkTXc2TU5WcmVEX2F6MzNHTS1VSTNpWnVuRHlLa2tiSy1CM1ZvYW10QldxdmpHOTIwbmgyaXBfZnk3b2hYRFgzR1g3SDZxMHhSZ2NQamwtdU14SUFSQnY2dHNaLWJMMzZwSTdZcmswWQ?oc=5"
+    },
+    {
+      "title": "Mejores roboadvisors en España (2026): comparativa y análisis de carteras indexadas",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmo2OHJlNC1CUlN5bGZWeFN0dnFEN2xUbGw5aUltNXJRV0FKaFFWbFFQY0dqa2FoQ1I0Y3UtNGxUeG1sZEVjUmxZTmJjcGlTRXpmVWRQYm9hREh1b2cteW04c0VCcFFHTmtsbEc3MlVYeEp6SEF3VzJ3eG03ZzJyMDVyajc1dWozNUhCV0dxQUQxWGxQQ0E?oc=5"
+    },
+    {
+      "title": "Mejores ETFs para invertir desde España en 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yZGVKdy1Wc19iamk0Q01STTV5Y3dFNnpZekRoYThsdnc5d2cteTl1TnJVOUxOUGpiYVdWRVZWWWJ0b19McW5vZ2dHV2JWaVFlR2hQa2Y5QkhBUUVEMXRVN3p4QUt1SHJOdE1OYWZsTHIzODRU?oc=5"
     }
   ]
 }
