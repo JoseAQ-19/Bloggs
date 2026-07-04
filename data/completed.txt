@@ -2071,3 +2071,4 @@ fitness: Will Planet Fitness Be Open on the 4th of July? Find Out Before You Pla
 funds: Ferrovial destaca en el top 5 de Morningstar con un rendimiento del 12% anual
 funds: Morningstar's AI Integration Enhances Microsoft 365 Copilot Investment Insights by 30%
 funds: Direxion Launches SKHL for 2X Daily Exposure to SK hynix Investments
+ia: La IA desafía a la arquitectura: ahorra un 90% en materiales sin comprometer la resistencia
