@@ -1,18 +1,18 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-05T09:43:52.556027+00:00",
-  "total_candidates": 14,
+  "scouted_at": "2026-07-05T10:33:08.740798+00:00",
+  "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar Integrates AI Investment Intelligence into Microsoft 365 Copilot Ecosystem",
+      "title": "Tesla: Shares Fall Despite Strong Second-Quarter Deliveries Growth",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Tesla: Shares Fall Despite Strong Second-Quarter Deliveries Growth",
+      "title": "Morningstar Integrates AI Investment Intelligence into Microsoft 365 Copilot Ecosystem",
       "lang": "en",
       "source": "google_news_finance"
     },
@@ -51,14 +51,14 @@
   },
   "all_headlines": [
     {
-      "title": "Morningstar Integrates AI Investment Intelligence into Microsoft 365 Copilot Ecosystem",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORktuX1BoV3FVb2E4NmVQSU42QlhfNV9hdjJ5TVpkYlBVMUVzcWhpSnJicXpYbEpMV0cweGNFNTBRM0YyUlNQbm9ONzBYejJCQ0RkWnRfOU5OUDFfcV9KdE9QMVlKTC0waGt4aHhPeC1sc1hsN0l0aGxrS3p5YURnaVVQN3NKdG5YeUdzZTRxbWhIZnNrckhyQ1FVVkl4aVYwNHJ1NE44cmcwcFl0VDQ4?oc=5"
-    },
-    {
       "title": "Tesla: Shares Fall Despite Strong Second-Quarter Deliveries Growth",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRTZ3YzRkSDhtSElFSUd4TVBQRXlFR0I0UXVLR0loQzBEQ0o3U3NxbEVzMEVhMmNfbkhnT1QtRmZjTE1mTHJHWGl4Vm01akZXNkhWRzUyUXBpRkh1VnV1NUQ2eGgwZFV0TjMzdTJpMTlkcFlFZjZSb0o5LTN0Wld3T2RBS25RNlI5eXBnbTdCMXM1YmpkUkhlb29XVUUtZ3VtUlhyemlTNG16ZHVTci04OXhLeWItREliZ3BDMTQ4dHFDNEl0aGc?oc=5"
+    },
+    {
+      "title": "Morningstar Integrates AI Investment Intelligence into Microsoft 365 Copilot Ecosystem",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORktuX1BoV3FVb2E4NmVQSU42QlhfNV9hdjJ5TVpkYlBVMUVzcWhpSnJicXpYbEpMV0cweGNFNTBRM0YyUlNQbm9ONzBYejJCQ0RkWnRfOU5OUDFfcV9KdE9QMVlKTC0waGt4aHhPeC1sc1hsN0l0aGxrS3p5YURnaVVQN3NKdG5YeUdzZTRxbWhIZnNrckhyQ1FVVkl4aVYwNHJ1NE44cmcwcFl0VDQ4?oc=5"
     },
     {
       "title": "Investor Focus: Top FTSE 100 Dividend Stocks, Andy Burnham Tax Plans, ASML and Infineon Power European Market Rally",
@@ -74,6 +74,11 @@
       "title": "7 of the Best Charles Schwab Mutual Funds | Investing",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3pBZ082ZnVhZXBHMC1XamMzM0JIZXA2R1E3UVNxX1NPUDE4eTRoLTQxS3hqaEJxeTh1dVpvSE1FSGVDWjRkaEV0RjVka09WMjl2NjZMTk5EZE5OUDB6Q0pRQ29LbVdMRVEzb2ZXOHA3Y1RGRDk1WE9XMEJZLTdRdUxn?oc=5"
+    },
+    {
+      "title": "ClearBridge Global Infrastructure Income Fund Q1 2026 Commentary (Mutual Fund:RGIVX)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbU10QnhObVNOdEtQLV90ejJrQnN3M2JTeGlxdnIyYW1URUR2QUJLR25YYUpPTE9FdUtnQmNkT3pJZTVybUhRRnlKTFhKb2NBTTNsR2xjM2hOLVBFUXQtTkdqOGJoeDJtNTUyWDVoVlhvZDJYbEo3S2F5azBaY0VFOHJVYjhVU1pUQXM1TEJjNVF5aXZTZXJQVmJIb01BMzZQN1lDeEZFRkc?oc=5"
     },
     {
       "title": "Franklin Biotechnology Discovery Fund Q1 2026 Commentary (FTDZX)",
@@ -111,14 +116,14 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZEViaXJGR3c2VUFGTzluRURPSzMwQ1RtTlJMUGZvR1M3T2UxOWE0MVRyQzJCeDV0M1ByT2ZFV3RVdkVPMk51Wk5zbThPUmR1NzdBWWYzLU1sTVVIcGhQQ0tmNXk4X3BVVGpZTjRJLWQ0VjZnektxVVYzUFdMOVNETlp5NA?oc=5"
     },
     {
-      "title": "The S&P 500 Is Up 10% in 2026 -- What Long-Term Investors Should Do Next",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSTh3RmFTdHgyQ1BhY0l4bDYzOW5tX1AtZHlzc0sxUEZYZ3pxdmNqMUVuWmcyMzlyMjdzYjU2U1VIc3FKWHR4X1hIWUd4aHEtUzBWUTNVZVBncnh3ZTVocUt1VGdGcFpKOG5KRnNVUkptTElZRHdCUHdLS0dDdWg0SWdtMWVMYzJGRHpueFFEcDNZSWJZYks1OGtMczhTcC1mYk5OdEVmZEZqNl8zeU5VSUZ4MERNcldfbnZRUUNIcXM3LTJuRV9VckdHMjNrWTd0WkhxTG1QSnBOMlNsU2p1NmJXWjB2Z1hK?oc=5"
-    },
-    {
       "title": "The 41-Day Dividend Trap That Quietly Erodes SPY Returns Every Quarter",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNERQWVpJSkNIYndEaUtqMktmVlVaYUVqTU5lTE5aWkZGdEQ1anBGV0VDX3dUdGtxX04wTE55X0ZLWHBxMjJKYjQ3cmVjVW9VdVQwOUZ5dXJveXg5UHVSSWlmSWtzYlRDamxEMGZRLWp0dlNKb01OcDllUkpuY1NGNHBaQTFOazdPQWFKeWtxV2VOOHhwanRwVDkwckRiSzNPeEFISTBkbVhJYjItazE1OUhPQjc?oc=5"
+    },
+    {
+      "title": "The S&P 500 Is Up 10% in 2026 -- What Long-Term Investors Should Do Next",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSTh3RmFTdHgyQ1BhY0l4bDYzOW5tX1AtZHlzc0sxUEZYZ3pxdmNqMUVuWmcyMzlyMjdzYjU2U1VIc3FKWHR4X1hIWUd4aHEtUzBWUTNVZVBncnh3ZTVocUt1VGdGcFpKOG5KRnNVUkptTElZRHdCUHdLS0dDdWg0SWdtMWVMYzJGRHpueFFEcDNZSWJZYks1OGtMczhTcC1mYk5OdEVmZEZqNl8zeU5VSUZ4MERNcldfbnZRUUNIcXM3LTJuRV9VckdHMjNrWTd0WkhxTG1QSnBOMlNsU2p1NmJXWjB2Z1hK?oc=5"
     }
   ]
 }
