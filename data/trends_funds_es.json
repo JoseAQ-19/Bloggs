@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-05T09:40:09.657299+00:00",
+  "scouted_at": "2026-07-05T09:41:19.449895+00:00",
   "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "Ferrovial se posiciona como el único valor español en la lista de favoritos de Morningstar: ¿qué la hace destacar frente a la competencia?",
+      "title": "Ferrovial se destaca: ¿Por qué es el único valor español en la lista de favoritos de Morningstar para el tercer trimestre?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis de rendimiento: los tres mejores fondos de renta variable que han superado el 20% de rentabilidad en el último trimestre.",
+      "title": "Comparativa de rendimiento: Los tres mejores fondos de renta variable que debes considerar para tu cartera este verano.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Comparativa de ETFs 2026: los que han sorprendido con un rendimiento del 15% en el primer semestre.",
+      "title": "Análisis de la rentabilidad: Mejores ETFs de 2026 que están superando las expectativas en julio.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -74,6 +74,11 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmlaaVhPZlJub1dXM1JkMm1iTE82UEZRNXRxOEhMd2k0TGRpUmw5S2tRWW8zMlVOWTJDY015dFpCemRWdjliekowY2l2S3V3cl8yTER3NTJXV3JYYkxWeDZ3SjVBQV9fUG1JRXBxYjBMYUxvejliSlhTYXc0TnVKNE04NldVMDEtOVNZSFplTXFRQXpRMmc?oc=5"
     },
     {
+      "title": "Los tres mejores fondos de renta variable para tu cartera en verano",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNay00c1BzRmtmLTduMWR5YzBTZ0hMVWdOcUhlYzZERTFMaEFBNzAxNm5Qd3lieWJYeTFqVVpEZHo5Y0pSdUVURlctR0Y4X2ZST0I5UmU5WTh3QU5VZEJDdGVLYUhBWF9HUFRoWThtRXA5X2paMzBMak5kTE1DZ2JTemNvNXJvN3ZqNGFULUZvekw5bWJsS2FWNlBpRzV6Xzl4RUHSAZ4BQVVfeXFMTU01enVILVVfb1F5QnQ2Z0Y1T0w5Q2trZkxhTkstemhUQXRwTXZlLTIyLWp3dWtWWUNtY3p5dXV1TGplMmwyUHRwYWhqZ05zekxFWjBRMVY4SUlzVlc0ODFwd1N4V0pXN05CMXphcHVUcDdMQkw1OUU4OE93VTJ6ejdmTHE2WW11S1FESXlkUWJsLVdLRHpLbG5YTG1IUEE?oc=5"
+    },
+    {
       "title": "Mejores ETFs 2026: ¿cuáles son los más rentables? (julio)",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczlMN0huT2xjRVhyR0k2UV9QVlN1NkVhUG1TUnR4ZFlXT2k2djgzOWJiTzNYNWV4LU1MMnZCZ0FvSTR5NWp5bTROT2FUbTJRQkoxbHh1WWdxX1V5clpidGRwOU1RR0dkWjZRZlZFVml0UWdBLVJWZGlRaHFNWndTRVluYlhwZVBVTjBjRzJTNUhzQQ?oc=5"
@@ -82,11 +87,6 @@
       "title": "Mejores plataformas para invertir en fondos indexados (desde 1 euro)",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVppVWpGajBHemh3QlZKM0dDaGRsQmNZbXF5M2pBcDhSUnNLRl9WQXF4cVotUmdoR1BaandrWkVWd20zUGNkQVNueFdjMGZuYUgtS0RCNnhwWG02c09ROTdmSDI1TFpod0QxYkZtQ0dCQ2QzcXIzNXBHMnNiTzE2Z3lKMGVTQzNFQW0xZDlkOUZiM0VlaHp3TWxBMU9WdW9i?oc=5"
-    },
-    {
-      "title": "Los tres mejores fondos de renta variable para tu cartera en verano",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNay00c1BzRmtmLTduMWR5YzBTZ0hMVWdOcUhlYzZERTFMaEFBNzAxNm5Qd3lieWJYeTFqVVpEZHo5Y0pSdUVURlctR0Y4X2ZST0I5UmU5WTh3QU5VZEJDdGVLYUhBWF9HUFRoWThtRXA5X2paMzBMak5kTE1DZ2JTemNvNXJvN3ZqNGFULUZvekw5bWJsS2FWNlBpRzV6Xzl4RUHSAZ4BQVVfeXFMTU01enVILVVfb1F5QnQ2Z0Y1T0w5Q2trZkxhTkstemhUQXRwTXZlLTIyLWp3dWtWWUNtY3p5dXV1TGplMmwyUHRwYWhqZ05zekxFWjBRMVY4SUlzVlc0ODFwd1N4V0pXN05CMXphcHVUcDdMQkw1OUU4OE93VTJ6ejdmTHE2WW11S1FESXlkUWJsLVdLRHpLbG5YTG1IUEE?oc=5"
     },
     {
       "title": "¿Cómo funcionan las Cuentas Trump para dar mil dólares a bebés en EU?",
