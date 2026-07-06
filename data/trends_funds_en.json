@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-06T12:17:04.394912+00:00",
+  "scouted_at": "2026-07-06T12:18:27.335746+00:00",
   "total_candidates": 16,
   "topics": [
     {
@@ -66,6 +66,11 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa0VVcjU0ME5oOVpfWVdPc1V4U2RlYWNHLUV2a2ZnVWw3NFFhZmw5NkhHY1RDM1BLdnpsUzhTa0kwX3J6YnR1eDFtQlVLQWJGNEFmdERLWHloRm1fN3d2VnYxZXp0SktkZ2RZTnFidGxZM0VjazVlOWJ0cW1wRlNMTXdJRUlzWlpHb1I5WEJMc0FvaTQ1V2VIY3c2aU1yZXppZEE?oc=5"
     },
     {
+      "title": "H.I.G. Capital Signs Definitive Agreement to Acquire TERRAS",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHBpSXVTYkxmRGZwVDl1NHdPRklYUHFFWi1iSk1SUHBpdnIzRFBoTm9UelFCLUlPdmV0a2xXS0QySTBSVlN0STc3ZDBTNUkxUUJaZHctdVVkQlozblNaNjBGWlE0Z1dSMnFHR0RnbktxWHVjUFhILWNjNENSMUhET3NUQ3djMHFmeFM5WDNlZ1ZfcW16RjlmeDF0Z0l2dmdHdHp6VmlSMW5BYnF4YnZEUW5MSlh1dlBW?oc=5"
+    },
+    {
       "title": "Corinex and Plexigrid team up to deliver the most accurate digital-twin solution for grid visibility and flexibility to date",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPN2FwTnBUelM1NG5DSXNhbGQzcUlwb1NCM1U4c0Zub3E0WDh0YTVJd0x3TnItV2lGVVU2cFBLYTNrZWQwcENhS3JKenZXamhtU3Z4WG94MmYwMWxNaEU2dTd0VW1yTnV1bFlObWNRUmZia19aS2xqVmYzWHpFWFRwcm9PQ1FWNjRjWFY0S3FNQUIyWURDdFdlSkFDamxjbV9FMEx0a0JlWDl3UVFmY1lHMWFjTktEV25aSmVtdDYxdG1rTGlJNm54ZV9QQ0pWVTQxSXpNQVU5bGlEci0wUVVic2MzaDlqSUtUaGN2aHhhSXJuU1FhYmhNeDJNRk9faEFTRVhBRU5oSVZxSlJZY0wtbS1pTQ?oc=5"
@@ -86,11 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNam9sZmlKQ3ZiSFcxSnh6eERkX1JXWHRCMF9nUEtxajZLMkdodEJJMHdPcVFBNE1lNm1iRjFVeWNrM1ZNdVptenlVbm5DNXZLa3k1akVQeC1XYUkta3psNUhBVFBGdENEYjJuTGtXUC1NTjJncklCdzNlaVVLdmx5YWdHUUk4OFlsWUlReFM0TXFtM3lsQnZSdDhfUWdzMDJCVXQ2ZWhvQ3VhRG1LWGhlZVJidWhNS1NKYzVMQWt4Z1NKcmJsTzlTRzh1Yy12VkV1aG9OZDRvZ21XOG9CbjFHbGR4OXd4NXoz?oc=5"
     },
     {
-      "title": "Morningstar appoints portfolio specialist in South Africa expansion",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGNjM3lyNWNTVmJidzgzZ3pvX2I0YUdjWDRldVc1a2I2MjdoanRNVVlZMnlWSjZlSlBvdUttMmwwODFsRW13ZElqMnVLb0J6WGs3TTZ5U0l4VlRUM21MdEhhS1F5dGlKY25FRDRjQm4weU81QzZDOTJSS1ZIT3ZHd052NWhEalU0N0FZaVg5MGkzbkh2SEVnS3ZnM1VkLXVfLUVhd1JiaTE?oc=5"
-    },
-    {
       "title": "What to Invest In Right Now, July 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IdmNhYUsyS3J1bmVMc1kxWHc2TENDSVFuQzRaNmZxZlFheXBqTDJxbXIzc0NhRFY4cVY3UndIOFV2eEhoQ25tVWg0MC1DcWtYbFhUc19ST3RSYUNtY3BaWF9HaDctazV2cEN3aTgtS00?oc=5"
@@ -106,14 +106,14 @@
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNF9vN2s3WExqMGxBS3JiMWc2NGZVRHY0Wmkyc0h2RUgxcHBLM3UtVHduUnU4NThXejJrUE5Yb01QWGVIeEZEd2ljOEZlWFMwTld4TlAyZDk1cENXZnhmTHptWVZBWkpLaFR2SDM3cHNGMDZScjZBZUFUWTlfMGNWQkQydGxMU0Z1RXBBd081ODlEN2FkUGdUN0labm93QU5ZWXRxUklqeFA2YmFkbFRGQWJYLUhnOEJ2c2VEV2VRcmtmaDJyczdfdnIyWHdsVGZCUFljbmhXdl8weEN6U2tBcTVKQnZ3azRIZ1doY1Z1ZXR0QzhOUkHSAfsBQVVfeXFMT0h2UEhWMWhtcDhGa0JrVF9TNDh2ZTVWN3pqR3pVblI2cU5qTUYyTDZKcjZJWjlqNjRMaG9sOFVwRVpRZks0TFJ6NHFmQWhZaktPX0dhcHAzdFRQVHVrQ3ozTllKU2NRY1pJbThIeFQ1X3lZZzZ1b1pySl83YUtrclF6TjRtaTI1WU9BaEVjYUJuUUl6NmJIX3NOMUtaN1htZzBINnVpTzg2VW83b3pOMmhWZzdjX1A0REFoTVRYbDREdGRScW9CekFFcjhUMVRSR1FCclV6RmptWDVjejhMUXFOVjNlb2MyT214cTlMVzdab2tPbjhkLW8wQjQ?oc=5"
     },
     {
-      "title": "Trump Accounts are now live. Here’s what you need to know",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50bk56Z3RnNnZGeHU0a1VfZzV1elE1RUs2ano1NDRYeVl6cFdEb3c0ckZnT283RXE5Y2R3V05oOE9oWi1YSDRHZklVQmtRdkJYUWlwcnBtMnd5X28wZnVDQjhtV3NqTWhsLVE?oc=5"
-    },
-    {
       "title": "SpaceX tops DIY investors’ stock picks in June",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZEViaXJGR3c2VUFGTzluRURPSzMwQ1RtTlJMUGZvR1M3T2UxOWE0MVRyQzJCeDV0M1ByT2ZFV3RVdkVPMk51Wk5zbThPUmR1NzdBWWYzLU1sTVVIcGhQQ0tmNXk4X3BVVGpZTjRJLWQ0VjZnektxVVYzUFdMOVNETlp5NA?oc=5"
+    },
+    {
+      "title": "Trump Accounts are now live. Here’s what you need to know",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50bk56Z3RnNnZGeHU0a1VfZzV1elE1RUs2ano1NDRYeVl6cFdEb3c0ckZnT283RXE5Y2R3V05oOE9oWi1YSDRHZklVQmtRdkJYUWlwcnBtMnd5X28wZnVDQjhtV3NqTWhsLVE?oc=5"
     },
     {
       "title": "The S&P 500 Is Up 10% in 2026 -- What Long-Term Investors Should Do Next",
@@ -121,14 +121,14 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSTh3RmFTdHgyQ1BhY0l4bDYzOW5tX1AtZHlzc0sxUEZYZ3pxdmNqMUVuWmcyMzlyMjdzYjU2U1VIc3FKWHR4X1hIWUd4aHEtUzBWUTNVZVBncnh3ZTVocUt1VGdGcFpKOG5KRnNVUkptTElZRHdCUHdLS0dDdWg0SWdtMWVMYzJGRHpueFFEcDNZSWJZYks1OGtMczhTcC1mYk5OdEVmZEZqNl8zeU5VSUZ4MERNcldfbnZRUUNIcXM3LTJuRV9VckdHMjNrWTd0WkhxTG1QSnBOMlNsU2p1NmJXWjB2Z1hK?oc=5"
     },
     {
+      "title": "4 Best Metals ETFs for 2026 and How to Invest",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNUNUenVGTko0M0FfZTZmLXhhYldVMk1uY24tTzRkTkVpOVZDX2w3Yml0UWU2djdfLTJRRmJUQkw1Y3BkOHdheGFyU0pTZlZaeU0taDltVVJKczBJX2lpTW03cVlSbGFWMllQeEtadHRTVVN3bXo2cjJsRkRFLTR4Sm1WR29PWkF1bWstbGlFRUt0aFNJdlFCSA?oc=5"
+    },
+    {
       "title": "Canadian Mining Stocks Report: Weekly Round-Up of 5 Top Performers",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lOXdSczkwZ19VLWVZY0o3alpYS2t3Q2lxelZOUGVrQWdWNmc4cHZFSXd3d095cngtRFQ0OW5tOG1zc3pfRmhPZmVTRzVBMFlySllpb19R?oc=5"
-    },
-    {
-      "title": "Gold Price Today: July 3, 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zX1NXTllPckpxeXBCVHlJc0I2dDBaRVRVdllsN19XQUhXYjBxWkx5TjNlVGF4NWx2RDFkSzA0V2FocXh4Z2lrUHMzZkV3a3ZnVXMwZjhZdU9LLWVQX3RyNVVn?oc=5"
     }
   ]
 }
