@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-05T09:41:19.449895+00:00",
-  "total_candidates": 10,
+  "scouted_at": "2026-07-06T11:25:59.285340+00:00",
+  "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "Ferrovial se destaca: ¿Por qué es el único valor español en la lista de favoritos de Morningstar para el tercer trimestre?",
+      "title": "La fiebre de la IA también tiene excesos: Morningstar señala tres acciones a evitar",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa de rendimiento: Los tres mejores fondos de renta variable que debes considerar para tu cartera este verano.",
+      "title": "Tres fondos de renta fija superan el 2% en un año en el que la deuda global está en negativo",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Análisis de la rentabilidad: Mejores ETFs de 2026 que están superando las expectativas en julio.",
+      "title": "Indexa Capital vs Trade Republic: ¿con cuál invertir? Comparativa (2026)",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -49,54 +49,29 @@
   },
   "all_headlines": [
     {
-      "title": "Tesla cae a pesar del fuerte crecimiento de las entregas en el segundo trimestre",
+      "title": "La fiebre de la IA también tiene excesos: Morningstar señala tres acciones a evitar",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaE15QWdsdjJIb1A4OXBhMTYyUi16azhCeHAwTWpOazZvbmtKWk5uS2R6TzNaTXhqMllGbU02RUVXUTZ3czYzakpyU3NzZFhLTzVlUWZ5ZXVkZV80SWNQNkZCLVdjS19KV21FVDNWUk0yS1I4OGNNa1BVc2owUFF1dV9SOUwwRTdnY1NCYmhiTjF4dG1lQWw1TXcteEVfSEh1N2RkbDNLekFyNkRDbUprU1RFeGVtSjhzSFZFZGJ3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXgyN3pkWkdFQURnbGtBN0lKV1lEOTdYUndqOFRLMEsxQnJwVFdsVm1xR1NWbGhJbnppTXpzVmtxbVNhU1hOX3I0aV9YTE5TdTZZY2V3VXlUZWR2ci1MT0RUc1FwRnJObFB3a3BVOVdXTFNTSElDRG9tR1Y1WmRzdmZwbnUxSm1Qcm1OelotWlQxa29mZEM1SWtDb3l5YmxjbTJmcUUtek1pX3R5bHZNOTB2SW13YUpIUnY4c1cwUjQ1WHR4OXlnNdIBzgFBVV95cUxQbnl3YlhGRG5WRDdWU2dTdHQ3UG1GZ2p4R0FZbGRqSGhPVkZmQ21FcFBIVE1ROURLVWgyMmJDWDFyaE1SbzlRUVA0Z040dnRvMkJsa1U1ck9qQWR4ajQ4VlliNHl4TGJ2em9BNmRpZTdHQXRyNzZDN3lPSUQzQUkyTzJ0TG5DYmEzYk1WTm5VUUlrNGtuTWYtNXN4azRrNFhBcFBoSWI2VUxrdDBlU25XMk1Ob3RBSlZGWGVHQWFibEJqUWhPcGQ2Q3p3WWsxUQ?oc=5"
     },
     {
-      "title": "Ferrovial, el único valor español entre los favoritos de Morningstar",
+      "title": "Tres fondos de renta fija superan el 2% en un año en el que la deuda global está en negativo",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbzlKSUx2cE4xcjZqcTJsd3ZxZGRUdDhkSVdSa0xNamU3U3NZX04xcXl6WVAwZWZETVJLenB1bmx6Q3JhVEdpZkswZ2Nnd1hnVDNMQ1NPclFkQmhGVG9HRUNaSU1WYlFlSW85MFg2a0pDUnppNVpNcnN1Q0FnV1gyUNIBgAFBVV95cUxPOTBhclBQSHRiYjU1Rm5rWVdoZ0J4Z1pwd3N2ZHFoMWJfRWhIbkk5ZzZZRUdJWTVyMU9kd1BhOFc4NEJpdmdxamJzbnN1anc4QUdNRGUtQUZRQnU0ZnZ1X0pUam9fLVdKLUVLQTl3WTVPcVp4cS1ORUgtMnZhODJOcA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNjZJWnhMR0VidzRpRkxVUE1mWEhPZFNYZElCSm9ZR2pRb1ZkVl90SHR3UXhIVkVTOU9abHNUV2VWcERSZXVMVlVXeGp6ZlB6VVNjVGxnRHJfMEdPdVJWTndWVTg4Wml1OVBLWTRCbUZfNFlJSGtDaVJnM2pKVDFNQXBobGtUc2xqbEhvNWxTcElobzI3TGxJbV9PMTI2T2d6RlBTU1dJTmczTUU5aVVsc3BhdHBydXNFQlpLQTRJZ3loM0U0dWFQOVpJa2V6YXItbDFET2dReE1SX1Z5X1Mycy1FY0ZtVFJiSFHSAeoBQVVfeXFMTTY2SVp4TEdFYnc0aUZMVVBNZlhIT2RTWGRJQkpvWUdqUW9WZFZfdEh0d1F4SFZFUzlPWmxzVFdlVnBEUmV1TFZVV3hqemZQelVTY1RsZ0RyXzBHT3VSVk53VlU4OFppdTlQS1k0Qm1GXzRZSUhrQ2lSZzNqSlQxTUFwaGxrVHNsamxIbzVsU3BJaG8yN0xsSW1fTzEyNk9nekZQU1NXSU5nM01FOWlVbHNwYXRwcnVzRUJaS0E0SWd5aDNFNHVhUDlaSWtlemFyLWwxRE9nUXhNUl9WeV9TMnMtRWNGbVRSYkhR?oc=5"
     },
     {
-      "title": "El fondo cotizado iShares Morningstar Value ETF presenta sus resultados anuales al cierre de abril de 2026",
+      "title": "Indexa Capital vs Trade Republic: ¿con cuál invertir? Comparativa (2026)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZE9wVmJpNXVOcUhlWlpHWXVCVmpsc2dNdEpoT0FXZmJJcVFTM2FEV2phSzU4T3NXRGZ2b0FWNnNxZmN0eE1EV3VkVFBEZlJvRFRNaXMyWHU2cThLNjB1a2wzbUhjWE42YUpuTE1zaTV2RHRqaFpSV2xiLTVNZ1Zld3B0dUVUTktTa0FBT0hZcnRXblcyYmhmOTlENTFaWkdpcXNjWWFaWkZVQVoxdV9TWDgyWmwzaXlnalh1cUdxVG9FRXRiNXk4a0ExUk5xYjBGLUw4WHF1LTFPcEd1dng5U3NmRUNaTFBkVnVQNg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHlSVlJTeU9lSUhKWHdzT3V0cl9NUHhETXhxaDdSclNZWUdmZUZFT29GZzAwVGVXaGJralNoZ0RqdG9rUWVZWEJxbkR6VHFvQnhxMGc4OVhwNE5iUEZwQ1ZDRVFWRE1pVnJZMU96Uzd5MmJlVGVxYk8wTHNjNU93NFc3WGVTWlFiNld1OTlkcko3ZGplZzVCUl9CZEY4RjNtOUJyYURFVnFNNWdXQ2dOcWdONWgwRjYwS0ZzT1BB?oc=5"
     },
     {
-      "title": "La acción de Ferrovial consolida tras ser incluida en las ideas de inversión de Morningstar para el tercer trimestre",
+      "title": "Indexa Capital vs Revolut: ¿cuál elegir para invertir? Comparativa 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUc3dnpkdVJ4Nno1cExJYmtfTi1hajdxS2RYOElYb2ZGMlA0MzdXd0M5eGlWOTRwaENSVFJxeDZVUnJ2U015bHg2WlZiY0RUREMydC16YXJsT2YwUXZBSGtPU2RlT2NPT3h2blFoTy0yejd4NDl3azk4XzJBTzl1em1Wc3k0YWF1Y2pMSVgtdWltR3VISWp2UmFjcGdWYkxWRVNmeExrc2VVdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWFGaDJVLXg3cWlmaGQzNkZJUmJPSG9Lb3NiOTJUVEFvOWFIbmFDR0M4QXVMM3o4MDF5N2M5Qi1Qd1d0TjJUTWg1VTZORmQ5SmJNV1c5WmZtOE0xS0lsMXZrVjlqS3NKWFBJNGFKZjU2bEdoSWQxYmgxNVhSMEl1S09SVnhRVDZybGo1X3otNVRsWWo0bXl5MTh2N25yRnRPNERLYkRpM3JvdWhXVEx6azBnWE1QUTljOUE?oc=5"
     },
     {
-      "title": "Mejores fondos de inversión 2026: los más rentables",
+      "title": "Indexa Capital vs Finizens: comparativa (2026)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmlaaVhPZlJub1dXM1JkMm1iTE82UEZRNXRxOEhMd2k0TGRpUmw5S2tRWW8zMlVOWTJDY015dFpCemRWdjliekowY2l2S3V3cl8yTER3NTJXV3JYYkxWeDZ3SjVBQV9fUG1JRXBxYjBMYUxvejliSlhTYXc0TnVKNE04NldVMDEtOVNZSFplTXFRQXpRMmc?oc=5"
-    },
-    {
-      "title": "Los tres mejores fondos de renta variable para tu cartera en verano",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNay00c1BzRmtmLTduMWR5YzBTZ0hMVWdOcUhlYzZERTFMaEFBNzAxNm5Qd3lieWJYeTFqVVpEZHo5Y0pSdUVURlctR0Y4X2ZST0I5UmU5WTh3QU5VZEJDdGVLYUhBWF9HUFRoWThtRXA5X2paMzBMak5kTE1DZ2JTemNvNXJvN3ZqNGFULUZvekw5bWJsS2FWNlBpRzV6Xzl4RUHSAZ4BQVVfeXFMTU01enVILVVfb1F5QnQ2Z0Y1T0w5Q2trZkxhTkstemhUQXRwTXZlLTIyLWp3dWtWWUNtY3p5dXV1TGplMmwyUHRwYWhqZ05zekxFWjBRMVY4SUlzVlc0ODFwd1N4V0pXN05CMXphcHVUcDdMQkw1OUU4OE93VTJ6ejdmTHE2WW11S1FESXlkUWJsLVdLRHpLbG5YTG1IUEE?oc=5"
-    },
-    {
-      "title": "Mejores ETFs 2026: ¿cuáles son los más rentables? (julio)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczlMN0huT2xjRVhyR0k2UV9QVlN1NkVhUG1TUnR4ZFlXT2k2djgzOWJiTzNYNWV4LU1MMnZCZ0FvSTR5NWp5bTROT2FUbTJRQkoxbHh1WWdxX1V5clpidGRwOU1RR0dkWjZRZlZFVml0UWdBLVJWZGlRaHFNWndTRVluYlhwZVBVTjBjRzJTNUhzQQ?oc=5"
-    },
-    {
-      "title": "Mejores plataformas para invertir en fondos indexados (desde 1 euro)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVppVWpGajBHemh3QlZKM0dDaGRsQmNZbXF5M2pBcDhSUnNLRl9WQXF4cVotUmdoR1BaandrWkVWd20zUGNkQVNueFdjMGZuYUgtS0RCNnhwWG02c09ROTdmSDI1TFpod0QxYkZtQ0dCQ2QzcXIzNXBHMnNiTzE2Z3lKMGVTQzNFQW0xZDlkOUZiM0VlaHp3TWxBMU9WdW9i?oc=5"
-    },
-    {
-      "title": "¿Cómo funcionan las Cuentas Trump para dar mil dólares a bebés en EU?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeUlCTmdmbHZpeWZHTi1CQWdqNUU1UkdLVEFtWGJrNmZIRWtsMTZ1b1A5eld2WXA1eVJPVkYyZkZxRDBGM1hSR29Hby0yd1E2LV90ZU9HblRVdGoxaEp6X0JsOUV3OEdlVmFIR05ROXZjVEF1RFlkSXBTSUt1RXNUMFMyUHpGMkxUSzRrVzJ0RUVPMHZVc0NTanN0QWlUN0xaRk9mb3NkeDBZMmZQQnZkeUp5Y0o5WHU3V2hlZFdVYXBKdVlYOW5zd2RR0gHKAUFVX3lxTE15SUJOZ2Zsdml5ZkdOLUJBZ2o1RTVSR0tUQW1YYms2ZkhFa2wxNnVvUDl6V3ZZcDV5Uk9WRjJmRnFEMEYzWFJHb0dvLTJ3UTYtX3RlT0duVFV0ajFoSnpfQmw5RXc4R2VWYUhHTlE5dmNUQXVEWWRJcFNJS3VFc1QwUzJQekYyTFRLNGtXMnRFRU8wdlVzQ1Nqc3RBaVQ3TFpGT2Zvc2R4MFkyZlBCdmR5SnljSjlYdTdXaGVkV1VhcEp1WVg5bnN3ZFE?oc=5"
-    },
-    {
-      "title": "Mejores ETFs 2026: ¿cuáles son los más rentables? (julio)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczlMN0huT2xjRVhyR0k2UV9QVlN1NkVhUG1TUnR4ZFlXT2k2djgzOWJiTzNYNWV4LU1MMnZCZ0FvSTR5NWp5bTROT2FUbTJRQkoxbHh1WWdxX1V5clpidGRwOU1RR0dkWjZRZlZFVml0UWdBLVJWZGlRaHFNWndTRVluYlhwZVBVTjBjRzJTNUhzQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVENNS1laQU9jVVR4SmZ4SzJWNVdpRDZxUTh5S3pqd3NBVkZLMmtQRnBHQkNncGdjcmtIWmVYSng5RGl1d09QdDU5SDhSTFhVQ3ZYTm9FNmJfYVByY0NtNm93OG9EVGwxd05VYUpySXZYVTdxQk55TFlPTFBhTkxTcWU5Q0NlNUxGZTI4U3VQR2ZPbmhDQVpzRC02a0hJNTQ2Z2R2R3dIb2lnY1FfVHFB?oc=5"
     }
   ]
 }
