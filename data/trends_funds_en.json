@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-05T10:34:31.485652+00:00",
-  "total_candidates": 15,
+  "scouted_at": "2026-07-06T11:28:49.602349+00:00",
+  "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "Tesla: Shares Fall Despite Strong Second-Quarter Deliveries Growth",
+      "title": "Katten Enters Miami Market with Prominent Capital Markets Hire from DLA Piper",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar Integrates AI Investment Intelligence into Microsoft 365 Copilot Ecosystem",
+      "title": "Iridium Completes Acquisition of Aireon",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Investor Focus: Top FTSE 100 Dividend Stocks, Andy Burnham Tax Plans, ASML and Infineon Power European Market Rally",
+      "title": "H.I.G. Capital Signs Definitive Agreement to Acquire TERRAS",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -27,10 +27,10 @@
     "key_phrases": {
       "fund class": 21,
       "full list": 20,
-      "view full": 7,
       "index fund": 7,
       "emerging markets": 4,
       "fund institutional": 4,
+      "view full": 4,
       "small cap": 4,
       "etfalps shares": 4,
       "markets china": 3,
@@ -38,8 +38,8 @@
       "funds growth": 3,
       "growth portfolio": 3,
       "portfolio class": 3,
-      "convertible securities": 3,
-      "list allspring": 3
+      "lview full": 3,
+      "convertible securities": 3
     },
     "competitors_with_disclaimers": 1,
     "sample_styles": {
@@ -51,64 +51,64 @@
   },
   "all_headlines": [
     {
-      "title": "Tesla: Shares Fall Despite Strong Second-Quarter Deliveries Growth",
+      "title": "Katten Enters Miami Market with Prominent Capital Markets Hire from DLA Piper",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRTZ3YzRkSDhtSElFSUd4TVBQRXlFR0I0UXVLR0loQzBEQ0o3U3NxbEVzMEVhMmNfbkhnT1QtRmZjTE1mTHJHWGl4Vm01akZXNkhWRzUyUXBpRkh1VnV1NUQ2eGgwZFV0TjMzdTJpMTlkcFlFZjZSb0o5LTN0Wld3T2RBS25RNlI5eXBnbTdCMXM1YmpkUkhlb29XVUUtZ3VtUlhyemlTNG16ZHVTci04OXhLeWItREliZ3BDMTQ4dHFDNEl0aGc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc3llSUxncTZBcVNySnVvNlJod1FSRXpzZTY5TXdTWUFUeTc0V3VFRXNsbHNtY2NaOGV5cHg3UzE1b1h5VHhQZzM1MkhUSG9QQ0dodzQyRFhBRkZvS0JpcVFhY1Y2bGJDTzg0WnNOLWd3TjQ1S2NNMVVKS1NrNTFlUHJiS3lhamV1SE1tVS1QbzVndkFydVhCS2phME81bTN4LWJNSFFCdHpsYVZFUUkwbDBaS2JqWTg0TWtmMTVyQmd1WlJCdWxIVXpSN1gteWJqeUd0Vg?oc=5"
     },
     {
-      "title": "Morningstar Integrates AI Investment Intelligence into Microsoft 365 Copilot Ecosystem",
+      "title": "Iridium Completes Acquisition of Aireon",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORktuX1BoV3FVb2E4NmVQSU42QlhfNV9hdjJ5TVpkYlBVMUVzcWhpSnJicXpYbEpMV0cweGNFNTBRM0YyUlNQbm9ONzBYejJCQ0RkWnRfOU5OUDFfcV9KdE9QMVlKTC0waGt4aHhPeC1sc1hsN0l0aGxrS3p5YURnaVVQN3NKdG5YeUdzZTRxbWhIZnNrckhyQ1FVVkl4aVYwNHJ1NE44cmcwcFl0VDQ4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa0VVcjU0ME5oOVpfWVdPc1V4U2RlYWNHLUV2a2ZnVWw3NFFhZmw5NkhHY1RDM1BLdnpsUzhTa0kwX3J6YnR1eDFtQlVLQWJGNEFmdERLWHloRm1fN3d2VnYxZXp0SktkZ2RZTnFidGxZM0VjazVlOWJ0cW1wRlNMTXdJRUlzWlpHb1I5WEJMc0FvaTQ1V2VIY3c2aU1yZXppZEE?oc=5"
     },
     {
-      "title": "Investor Focus: Top FTSE 100 Dividend Stocks, Andy Burnham Tax Plans, ASML and Infineon Power European Market Rally",
+      "title": "H.I.G. Capital Signs Definitive Agreement to Acquire TERRAS",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNam9sZmlKQ3ZiSFcxSnh6eERkX1JXWHRCMF9nUEtxajZLMkdodEJJMHdPcVFBNE1lNm1iRjFVeWNrM1ZNdVptenlVbm5DNXZLa3k1akVQeC1XYUkta3psNUhBVFBGdENEYjJuTGtXUC1NTjJncklCdzNlaVVLdmx5YWdHUUk4OFlsWUlReFM0TXFtM3lsQnZSdDhfUWdzMDJCVXQ2ZWhvQ3VhRG1LWGhlZVJidWhNS1NKYzVMQWt4Z1NKcmJsTzlTRzh1Yy12VkV1aG9OZDRvZ21XOG9CbjFHbGR4OXd4NXoz?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObHBpSXVTYkxmRGZwVDl1NHdPRklYUHFFWi1iSk1SUHBpdnIzRFBoTm9UelFCLUlPdmV0a2xXS0QySTBSVlN0STc3ZDBTNUkxUUJaZHctdVVkQlozblNaNjBGWlE0Z1dSMnFHR0RnbktxWHVjUFhILWNjNENSMUhET3NUQ3djMHFmeFM5WDNlZ1ZfcW16RjlmeDF0Z0l2dmdHdHp6VmlSMW5BYnF4YnZEUW5MSlh1dlBW?oc=5"
     },
     {
-      "title": "Trump Accounts can help build long-term wealth, but only after ensuring 2 behaviors, exclusive research finds",
+      "title": "Corinex and Plexigrid team up to deliver the most accurate digital-twin solution for grid visibility and flexibility to date",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2Q3MWJVRnpSX3RPZjFwNlV3R012dnFfdjBxM3NadGRpdktWbFh1bkRDNTAzRFAybjI5ZEVYS20yd3VaU0xwTkFBSFF4S29ld0tWUHBMYWhValZwcVZURzZXSWM5Yk9tLVVUT0IwTHg1NmM0cG1TSlI4b0VVbGJzVnFWbjNBMHQtNHB6ZzVtdllXM1RTVFhycjBONndPd1ZSTXVOcTVBYXkxTU3SAbABQVVfeXFMTzJQaWh3WXBxVVYzVzVFLXBFUzc4YkZMemxGUEczck9Bb0NNQWZqNVNNS1pZc3Q5V19VdXJhOXZCaUYxOVp0TGdYczFIQnZ6a3pSY1hoTGh5QVlpR3JETGcwN3ViYzVfQjVCeGN4a2l0cDY1T04xa21XZGFzYUhaaWFKUTU4eGJybl9VU0k3TERrcTlsNDdlWWxXT1d3c2pBQWNLUjBWQ2xYSmkzMVRHX2s?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPN2FwTnBUelM1NG5DSXNhbGQzcUlwb1NCM1U4c0Zub3E0WDh0YTVJd0x3TnItV2lGVVU2cFBLYTNrZWQwcENhS3JKenZXamhtU3Z4WG94MmYwMWxNaEU2dTd0VW1yTnV1bFlObWNRUmZia19aS2xqVmYzWHpFWFRwcm9PQ1FWNjRjWFY0S3FNQUIyWURDdFdlSkFDamxjbV9FMEx0a0JlWDl3UVFmY1lHMWFjTktEV25aSmVtdDYxdG1rTGlJNm54ZV9QQ0pWVTQxSXpNQVU5bGlEci0wUVVic2MzaDlqSUtUaGN2aHhhSXJuU1FhYmhNeDJNRk9faEFTRVhBRU5oSVZxSlJZY0wtbS1pTQ?oc=5"
     },
     {
-      "title": "7 of the Best Charles Schwab Mutual Funds | Investing",
+      "title": "Clarivate Announces Sale of Life Sciences & Healthcare Segment for $600 Million",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3pBZ082ZnVhZXBHMC1XamMzM0JIZXA2R1E3UVNxX1NPUDE4eTRoLTQxS3hqaEJxeTh1dVpvSE1FSGVDWjRkaEV0RjVka09WMjl2NjZMTk5EZE5OUDB6Q0pRQ29LbVdMRVEzb2ZXOHA3Y1RGRDk1WE9XMEJZLTdRdUxn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTlVqckxaSnJJTEhjdTlCcF9VTzdneUdhWGJOaWhWSmJsei1fTjRRbVdkLTZkY25GeFRnNGF1bFpMS0xKSUdtMmRDOU1tYVhxTmxzLTN4MmhPUEgxVmp6cm5vdlJMUHpFWnN3YmZqb1hnemctelVzcDlIb3VoMzBmckxrVkM0Tkw3ZmMtZHNoTC1KNkxzNW94NDBQVXg4QnZ1WjAxT0Y1V2piczhmeFdKOUlMbWZOUlRRLWNGcDM1RjM5SkpYdENmSF9hcEswR3ZfZFkw?oc=5"
     },
     {
-      "title": "ClearBridge Global Infrastructure Income Fund Q1 2026 Commentary (Mutual Fund:RGIVX)",
+      "title": "Banyan Gold Expands High-Grade Domains at Powerline, AurMac Project, Yukon, Canada",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbU10QnhObVNOdEtQLV90ejJrQnN3M2JTeGlxdnIyYW1URUR2QUJLR25YYUpPTE9FdUtnQmNkT3pJZTVybUhRRnlKTFhKb2NBTTNsR2xjM2hOLVBFUXQtTkdqOGJoeDJtNTUyWDVoVlhvZDJYbEo3S2F5azBaY0VFOHJVYjhVU1pUQXM1TEJjNVF5aXZTZXJQVmJIb01BMzZQN1lDeEZFRkc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLWc1ZEpOdkZqR3BacUhTdlAxRjVwSUFaQ3FLVGxIR2dmcGkyNmxRX2gwcEx4TjJTbW1jd1QweDBaYklfcGx5SzA5bk9Gb0pCSkppOWdqN1Q0N2ZBMERWcmdRemVnYTRkWENyV2hValVJUFU2NGZwTnNJSVE1SDdZcmNpXzVmMXE1RXdqS2I3UEpDc2g5aDhOa21HMGk2b0t2Y1lpSFlHQ0FaeHVjZXJKMFMxR001eVc3cGY5U0ZDcVBkYldhZzBneHFCREx3UVU?oc=5"
     },
     {
-      "title": "Franklin Biotechnology Discovery Fund Q1 2026 Commentary (FTDZX)",
+      "title": "Royce Small-Cap Fund Q1 2026 Commentary",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTHBPZFJJS0R6ZlVGVXRDUkFtamY4STJPb3RhVmlYVjBUc0ZFM25KNzg2bVVYZmxfMWtNRmhEamtFd2EycUk5M2c3eWV2d2MwbndOOWZLc3dQLWN2VEp1eWJoeHE5c3FYRnpfdFhFTldEV2NmTUZKOGNWRmloclZFMU9lXy03OGxuQk1lVm11SFRrWmYwZ1VGY19LV2NuUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdDVibnR1XzJTeEFhSUVHdXpmTEE1WEgxMWx1MFV3bXRjb0NJcnlYWUVRdzdqc000U05TSTBPcTN1Mll0YV92VVIzZHBXWHI2R3lLNTcxZUdQVjdEcXVDcDEtbkN3WU9CekZCUnBlekZWeEx2a25acFJicUIyRHZwVnpGOUVySVU?oc=5"
     },
     {
-      "title": "7 of the Best Charles Schwab Mutual Funds | Investing",
+      "title": "Hronis, Inc. Advances 2026 Harvest Following Successful Chapter 11 Auction",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3pBZ082ZnVhZXBHMC1XamMzM0JIZXA2R1E3UVNxX1NPUDE4eTRoLTQxS3hqaEJxeTh1dVpvSE1FSGVDWjRkaEV0RjVka09WMjl2NjZMTk5EZE5OUDB6Q0pRQ29LbVdMRVEzb2ZXOHA3Y1RGRDk1WE9XMEJZLTdRdUxn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcklybmpZUlZGTVROMTdCQ3phVDg2VGdxQWdRX0FOTzlBMXJkTDhJaHV0amk0TkdfYWM1aEJuR1BxbjJXTTJZMGR3S2hxcXQzaUIzY0RudlF3blFvQkNUSTI2OTRmRFlMZU5HOUZ3dE9FNGdpa0tZVjkwVURBZ185ak1JWldER3FVbHlwYXluRVdvbEh0aDZmTTVWXzY1SnczalhmUFNXbTNyQm1ac3dhNWNYLXJCWTZCVFViRGdFTFROZnluVWw4Z09kdUxndw?oc=5"
     },
     {
-      "title": "The Best Performing Dividend ETFs over the Last 10 Years",
+      "title": "What to Invest In Right Now, July 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUNTRWpwV3JtOGxwWTZ0UzRQZmx5OVlTSGppem1DUDdyeWh6VWE0bXR3N2xOWXREd1FhWlUwM1R4cVQ4dVpib0lGYkRtYThvbkFCQUEzUjBfUTdiQmFDeTFfWHJkRDM4WmFIMURJNDFIMzNZOVRiS3l6eWdfaTNzSndTY05idFAxR3ZrQ3g2WEVjNGh1QmRKa1RGanY?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IdmNhYUsyS3J1bmVMc1kxWHc2TENDSVFuQzRaNmZxZlFheXBqTDJxbXIzc0NhRFY4cVY3UndIOFV2eEhoQ25tVWg0MC1DcWtYbFhUc19ST3RSYUNtY3BaWF9HaDctazV2cEN3aTgtS00?oc=5"
     },
     {
-      "title": "4 Best Metals ETFs for 2026 and How to Invest",
+      "title": "Sector & Industry Performance",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNUNUenVGTko0M0FfZTZmLXhhYldVMk1uY24tTzRkTkVpOVZDX2w3Yml0UWU2djdfLTJRRmJUQkw1Y3BkOHdheGFyU0pTZlZaeU0taDltVVJKczBJX2lpTW03cVlSbGFWMllQeEtadHRTVVN3bXo2cjJsRkRFLTR4Sm1WR29PWkF1bWstbGlFRUt0aFNJdlFCSA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWEtZUzJ1Y0JsejVfb1o5VkF5Z3BFdWVwYzdCcEJ6dWJ3N19uOFNoY2VaYnMtUVpLeTdSUE83a3pkTWtOQmpTUm01aEJteWVhNU5n?oc=5"
     },
     {
-      "title": "Trump Accounts are launching. Here's how the money will be invested.",
+      "title": "NFO Insight: Can AlphaGrep's algorithm-driven multi-asset fund deliver better risk-adjusted returns?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeU5Db2Vld1NJVDQxM2xXbUVwczA5aUpTZ2ZvLUVjTkE2TFNxRkw5clkwd2NWSVo2WWlzdkdKeVJ4NVUybGNXSDVSN205eU1CeTY5bVlrejFCLVZPRTdaUEp4blJKWGNDTGpZSkRRUV93VmRlOEJGSExHbHhYNF9DdGs5a0thWlhLWEpEYk9xeUtJYkFqVzYxejl2U2xpa25fdUZMYmZyckRXOEN4V055dVF2bFRVb3d5a2xmVVlnempkMzZqR29Mcw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNF9vN2s3WExqMGxBS3JiMWc2NGZVRHY0Wmkyc0h2RUgxcHBLM3UtVHduUnU4NThXejJrUE5Yb01QWGVIeEZEd2ljOEZlWFMwTld4TlAyZDk1cENXZnhmTHptWVZBWkpLaFR2SDM3cHNGMDZScjZBZUFUWTlfMGNWQkQydGxMU0Z1RXBBd081ODlEN2FkUGdUN0labm93QU5ZWXRxUklqeFA2YmFkbFRGQWJYLUhnOEJ2c2VEV2VRcmtmaDJyczdfdnIyWHdsVGZCUFljbmhXdl8weEN6U2tBcTVKQnZ3azRIZ1doY1Z1ZXR0QzhOUkHSAfsBQVVfeXFMT0h2UEhWMWhtcDhGa0JrVF9TNDh2ZTVWN3pqR3pVblI2cU5qTUYyTDZKcjZJWjlqNjRMaG9sOFVwRVpRZks0TFJ6NHFmQWhZaktPX0dhcHAzdFRQVHVrQ3ozTllKU2NRY1pJbThIeFQ1X3lZZzZ1b1pySl83YUtrclF6TjRtaTI1WU9BaEVjYUJuUUl6NmJIX3NOMUtaN1htZzBINnVpTzg2VW83b3pOMmhWZzdjX1A0REFoTVRYbDREdGRScW9CekFFcjhUMVRSR1FCclV6RmptWDVjejhMUXFOVjNlb2MyT214cTlMVzdab2tPbjhkLW8wQjQ?oc=5"
     },
     {
-      "title": "Best Investment Apps Of 2026",
+      "title": "Trump Accounts are now live. Here’s what you need to know",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SYXlWcm9VcWZmNEFGS2s3a0ZqRUxFb2REWFhkWFZVOUNKY09yUUNaakQ3QXZSRHphNVI5X21HRF83MEZ2d2o0dmx2U0tOemR3cVk0VzR3S3RTcHRTSTh5eGl0di0tTVhEZVhBbUdZNA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50bk56Z3RnNnZGeHU0a1VfZzV1elE1RUs2ano1NDRYeVl6cFdEb3c0ckZnT283RXE5Y2R3V05oOE9oWi1YSDRHZklVQmtRdkJYUWlwcnBtMnd5X28wZnVDQjhtV3NqTWhsLVE?oc=5"
     },
     {
       "title": "SpaceX tops DIY investors’ stock picks in June",
@@ -116,14 +116,19 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZEViaXJGR3c2VUFGTzluRURPSzMwQ1RtTlJMUGZvR1M3T2UxOWE0MVRyQzJCeDV0M1ByT2ZFV3RVdkVPMk51Wk5zbThPUmR1NzdBWWYzLU1sTVVIcGhQQ0tmNXk4X3BVVGpZTjRJLWQ0VjZnektxVVYzUFdMOVNETlp5NA?oc=5"
     },
     {
-      "title": "The 41-Day Dividend Trap That Quietly Erodes SPY Returns Every Quarter",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNERQWVpJSkNIYndEaUtqMktmVlVaYUVqTU5lTE5aWkZGdEQ1anBGV0VDX3dUdGtxX04wTE55X0ZLWHBxMjJKYjQ3cmVjVW9VdVQwOUZ5dXJveXg5UHVSSWlmSWtzYlRDamxEMGZRLWp0dlNKb01OcDllUkpuY1NGNHBaQTFOazdPQWFKeWtxV2VOOHhwanRwVDkwckRiSzNPeEFISTBkbVhJYjItazE1OUhPQjc?oc=5"
-    },
-    {
       "title": "The S&P 500 Is Up 10% in 2026 -- What Long-Term Investors Should Do Next",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSTh3RmFTdHgyQ1BhY0l4bDYzOW5tX1AtZHlzc0sxUEZYZ3pxdmNqMUVuWmcyMzlyMjdzYjU2U1VIc3FKWHR4X1hIWUd4aHEtUzBWUTNVZVBncnh3ZTVocUt1VGdGcFpKOG5KRnNVUkptTElZRHdCUHdLS0dDdWg0SWdtMWVMYzJGRHpueFFEcDNZSWJZYks1OGtMczhTcC1mYk5OdEVmZEZqNl8zeU5VSUZ4MERNcldfbnZRUUNIcXM3LTJuRV9VckdHMjNrWTd0WkhxTG1QSnBOMlNsU2p1NmJXWjB2Z1hK?oc=5"
+    },
+    {
+      "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Data Center Play Leads EPS Gauge",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2FkMG42Rmh3aXFzM0xLX2hESGVCcnR6NW1MWjhiaFZjNGtST2pXOGY4dzVnUzFnQy13dHY5OGh0QzlnRjlxcmZrbEhEcGFtc00xWjY3S2g2NGZzTllfMzNMaGdWTmNfUEgyTEVRekF6aWZNLTRUOGNzcTRQVjdBb2M1c0Fia21VUTM1QWw2UXRodw?oc=5"
+    },
+    {
+      "title": "Canadian Mining Stocks Report: Weekly Round-Up of 5 Top Performers",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lOXdSczkwZ19VLWVZY0o3alpYS2t3Q2lxelZOUGVrQWdWNmc4cHZFSXd3d095cngtRFQ0OW5tOG1zc3pfRmhPZmVTRzVBMFlySllpb19R?oc=5"
     }
   ]
 }
