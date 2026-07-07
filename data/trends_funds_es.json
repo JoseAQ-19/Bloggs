@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-07T10:23:08.482163+00:00",
-  "total_candidates": 2,
+  "scouted_at": "2026-07-07T10:24:15.308681+00:00",
+  "total_candidates": 3,
   "topics": [
     {
       "rank": 1,
-      "title": "Tres fondos de renta fija que superan el 2% en un año de deuda global negativa: ¿una oportunidad inesperada?",
+      "title": "Tres fondos de renta fija que superan el 2% en un año de deuda global negativa: ¿cuáles son y por qué destacan?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "La fiebre de la IA tiene excesos: Morningstar revela tres acciones que podrían perjudicar tu cartera.",
+      "title": "La fiebre de la IA tiene excesos: Morningstar revela tres acciones que debes evitar en tu cartera.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Comparativa de fondos: ¿Por qué tres fondos de renta fija están destacando en un mercado adverso?",
+      "title": "Inversores atentos: el sector energético presenta oportunidades de inversión sorprendentes que no puedes ignorar.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -57,6 +57,11 @@
       "title": "La fiebre de la IA también tiene excesos: Morningstar señala tres acciones a evitar",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXgyN3pkWkdFQURnbGtBN0lKV1lEOTdYUndqOFRLMEsxQnJwVFdsVm1xR1NWbGhJbnppTXpzVmtxbVNhU1hOX3I0aV9YTE5TdTZZY2V3VXlUZWR2ci1MT0RUc1FwRnJObFB3a3BVOVdXTFNTSElDRG9tR1Y1WmRzdmZwbnUxSm1Qcm1OelotWlQxa29mZEM1SWtDb3l5YmxjbTJmcUUtek1pX3R5bHZNOTB2SW13YUpIUnY4c1cwUjQ1WHR4OXlnNdIBzgFBVV95cUxQbnl3YlhGRG5WRDdWU2dTdHQ3UG1GZ2p4R0FZbGRqSGhPVkZmQ21FcFBIVE1ROURLVWgyMmJDWDFyaE1SbzlRUVA0Z040dnRvMkJsa1U1ck9qQWR4ajQ4VlliNHl4TGJ2em9BNmRpZTdHQXRyNzZDN3lPSUQzQUkyTzJ0TG5DYmEzYk1WTm5VUUlrNGtuTWYtNXN4azRrNFhBcFBoSWI2VUxrdDBlU25XMk1Ob3RBSlZGWGVHQWFibEJqUWhPcGQ2Q3p3WWsxUQ?oc=5"
+    },
+    {
+      "title": "Una gran oportunidad para los inversores en bolsa, el sector energético",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSThoTzdud2NrTkhsczBkU2hQOWtobDNWRWgyYVY2aFN6T2NlRmg4UlBMd2NNdzRqU21YbjY5WXZlT3VYdFRoTVI4VDNpWUtvdEptQ21LNG5ycDlqRzFMYWk5VzhsNHU1enpUUDJQbzcxVW9sMjhuaXVMb3MxalVGbFhEWmwwVWM3bEN3Q0ROYlAya1Y5RWZpQUszQ0JnS3FLVlU5a3pBZmdXUFpqWS1hbENHS3lzcTlwdUo5blBLNXRyOWZwbFhiOVZpRdIBpAFBVV95cUxQUU5BLVFHR3E4U2pWb2hDU1E5QU5sWlJNT1NoNS1pczRkczNPRDFFOGFlTFJYazNPMVlBdE9qS1FBMklrc0JhblN0N0t6VFlMYk1ncktldFhhZjZQUXlRczh5cWlwNWVLUFBlUEJWdU8zUHctaFFvTlZXZUQ5WGJRcmVXU3VBMDRPMEhZOTJYYnhpMTUyMVp0VV9hRHhQZU1tSXJnUw?oc=5"
     }
   ]
 }
