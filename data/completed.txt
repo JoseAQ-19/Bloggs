@@ -2118,3 +2118,4 @@ funds: Tres fondos de renta fija que rinden más del 2% en deuda global negativa
 funds: Haut.AI Reports 25% Growth in AI-Powered Body Analysis Services Amid Rising Demand
 funds: Haut.AI's New Body Analysis Tool Could Boost Personalized Bodycare Market by 30%
 ia: BBVA lanza su ambicioso plan para integrar la IA en todo el banco a finales de año
+ia: Flooded Lives: How 144 Families in Des Moines Are Facing Displacement
