@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-07T11:21:21.570130+00:00",
-  "total_candidates": 7,
+  "scouted_at": "2026-07-07T11:22:32.170254+00:00",
+  "total_candidates": 14,
   "topics": [
     {
       "rank": 1,
-      "title": "The Best Short-Term and Ultrashort Bond Funds and ETFs to Buy",
+      "title": "Haut.AI Launches New AI-Powered Body Analysis as Consumer Demand for Personalized Bodycare Accelerates",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "The Best Performing Bond ETFs over the Last 10 Years",
+      "title": "Morningstar downgrades $6bn Principal fund following subadvisor overhaul",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Sector & Industry Performance",
+      "title": "Morningstar puts $15bn American Century fund under review after PM exits",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,6 +51,41 @@
   },
   "all_headlines": [
     {
+      "title": "Haut.AI Launches New AI-Powered Body Analysis as Consumer Demand for Personalized Bodycare Accelerates",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdU4wVW5feUlabktuVmV3d2lXaWhqVW5iSG1MTXBRS1RmekhTajFzX2ZYMkEzMHhoaTJYSGFhZmJaSHJDc0RXNHozQ1IzZFN1Ty1iRnUydm55eVBQR3BoSFNtWHduTUdPMnVKUXNLTVNUalJTN3c0VnEwWFZ4UzhJVmpzSXJZOWlBSkkzX2JQMlJraFNiaVVVWU54Mi1qWi1NdXE5c0k2cmFuT09hX29zaUFER2xhQU5TVmhzQllRYlpqdGd4X0V0WFc5MG9NZjBJQUk5S2xYd0ZwN0xqNDVwNW9XaEgyTmJRM1VsS0ZRZDFnMk0w?oc=5"
+    },
+    {
+      "title": "Morningstar downgrades $6bn Principal fund following subadvisor overhaul",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkt2Yll6bmtTQnd3V05PMXFvbVU0a28tM3VDSFhYM1pnaDZUd0dTa1dDSllwa25EbDU2bVc5ZFE1SkNsZl9BUlVGc0pnQkZIWGJCWXMyVTJ1QlhLdVpOSGVzaWdReDlOUEJkcHZ0TDZ1TkdBNmVid0lPVnZwWFJ5dXcwNGRKM2hBLVZpdFFIS0QwRG1MQ0dpdW5GVEpyNFUwSHRpUzNIa3pBdTcxdG1ZRFZtTEU1TjQ?oc=5"
+    },
+    {
+      "title": "Morningstar puts $15bn American Century fund under review after PM exits",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcDFzalpRdW1RVjNab3ViY1dHcVhTcmt4V1NweHkxREFJZ0t3ck5PVzVJcExzWENGVDZSdDhPSGZUaE5xOFlXV2xWTWlBWGNYU1JzN1Y4eFpKb1gxSUJ5bWhuRkhvak5OMkdwbzNZcjFuZFdIMDZHU29uMXJlamNmZTFSMC1mTmEzU3UwQk51UmJaNkZ4MkNXaG5fcWI2VUJnNExEM294ZVotWlppWW1fdEcyZVR1T0E?oc=5"
+    },
+    {
+      "title": "Causeway Capital Management Celebrates 25 Years of Disciplined Global Investing",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSnhHWjR3cHlWSHpvanh0SmtYTFlLU3J3N3F3YndUa1ZXcWtxbnM4MXFrb3J6Vi1zTS1DSXJPV3dFaUFJTE1iSGhoZlhHc3FYZWtuTDZzZ2FKLXJvX01JREpqMXN5aENENC1DWTB3OGZVd2VHTDQ4VWF6SUc3N3YzWEFwMnJGTHhSNGUyeGVjdHhldkdCdnAwZWFZM0ZTUEJqbWp4b0ZjRnZPNW9FN2dUbEV4dWdkOUE3VVhIeWpsczh3TjhMamJva0duVUZST21SZ0E?oc=5"
+    },
+    {
+      "title": "VanEck Morningstar Wide Moat ETF (ASX:MOAT) Distribution Analysis: What Income Investors Should Know",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdlZ1WG5ySlhOSHl6RnQydVR1Zkx2UkIySW5EcTl1cVRNV1g2Q2ZoVlNRRl9fcndxeXkyYThZSzN3TC1QdEdPbEJ5UjJGanRIUVVKN01JN19mZGpTSEcyQWpTTWpINS1PdnlsczdBdm81Y1k5aDcwbnZ6UGpTZmFzZ0hHa29XaS1LVjhjN0FkVGxhUUZ2d2FWM0V2Qmcwem85dHRnV21aM2ctU3hMdkhnbWVpVEo0Nl95ZDNhRGlLRndjV3ByS3VSTkk5T2MwQXpHdXFLQWpuNA?oc=5"
+    },
+    {
+      "title": "Morningstar appoints portfolio specialist in South Africa expansion",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGNjM3lyNWNTVmJidzgzZ3pvX2I0YUdjWDRldVc1a2I2MjdoanRNVVlZMnlWSjZlSlBvdUttMmwwODFsRW13ZElqMnVLb0J6WGs3TTZ5U0l4VlRUM21MdEhhS1F5dGlKY25FRDRjQm4weU81QzZDOTJSS1ZIT3ZHd052NWhEalU0N0FZaVg5MGkzbkh2SEVnS3ZnM1VkLXVfLUVhd1JiaTE?oc=5"
+    },
+    {
+      "title": "/C O R R E C T I O N — Bitmine Immersion Technologies, Inc./",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeFI5SE92U0lDY2JtYlFfcV81RWRPMW9kY3AwSk8zenVnZkRHYzEzckVBbkd4cV9VSXNQa3RfVndFV0JxVmlNVTB3SzkzQng2dE41X3RLTUljUVhFVWZLNmlXdHpUMlVEcVhwMjRTaDBKNmxEUEh5bTd5TVZBRFRLOFNPRHVOWWM2dXg3M3FEbU1WbUxVOUo0dUl0cXcxNEhtRWJ3eHZmaHlEdFFOd21uc0Riamtodw?oc=5"
+    },
+    {
       "title": "The Best Short-Term and Ultrashort Bond Funds and ETFs to Buy",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOakxGN1VqZmt2Q2VHV1ZoVERRVWxDYW1ralNnTFpxeVJJRWpTZTc1cnZwRGdyZmRTOWpjUWlFOTNFczJFLW5sLThCaFVfUjd3ekVrMWhXSXhTdURRdGtJYnB1V001VFNTUDJQaFRCTEdVWVp4dTg4amc3MWlENjdEaGlCNkFqN283S2c?oc=5"
@@ -81,9 +116,9 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KVXRIWmEwZkFkXy0xdzJXbXZPTkFIcndjWGZxbEx4bVlNUVF2bWZIaVp1cThOOFdOYlAzdTdOa2VDV29nMGdiOHRGVXMxcGtHYW5ISVo1WVI4MUs2TUtRNGVXZlJQUmJRU3RzRFVzVngyOV9Gd3JJeGVaVQ?oc=5"
     },
     {
-      "title": "International funds outperform domestic funds with 37% one-year returns. Should investors chase rally or w",
+      "title": "Best small cap mutual funds to invest in July 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNYVR3ZW9aSEJPeU5WSFJra21ITEU2cW5BUWZrWEF5MjVYd05kaXpzMjViZlN4U1FsSGFxTjJJckYzcUE4V2dkTk0zNzlpbzU1eTJxY3dxZkQ0a2xNa3A3VGpEUmtaRkxkRUstUy14YnozM0JKNnR3TjUtT21yVkFQRHczSUc1ZElyUnRac1B1dnplNW5ORFFjY04zMzY4UFFocVRLeEx6bC1IUy1GZDdZeDg3ajRZT0ZVZjJqc3ktQkZzN3lPd19zNGFUYVRnQkFRSVN6WEpTN2lDR0xja2g5czFzUzNSYmxiOUJyZWJHZEs2LTd6UGhJWmE5TG9iRHUzb1hVUXY5aFpwaEFYQjJVeEl1NUVFSjDSAZwCQVVfeXFMT2k5b1kyWjhUbnNjNlZGVHpyM0FfX2R3MzRXS1RrUTRkdF9HX3lja2xWYjNESEViQTg1Unlpd1dvQlRMTHR4MG9VTElUQlBTRDdNaXR1Y3V0UTJWZHBKNnc4RWJ3dmUxVmxVUE9ZVTdsVGdzeERTUHlCaGVKV0tfbWJidndnX0p1VGFjbElzNHhhVUZwQmRfQldfeU9BVGFnZWZtN3NZVm5xVXduVXRqZkNpa2h6TnhkMGxic1RGOU9DR2VMN0FRRkNGMzcyZlY4TXhrZy1vTmVvSk44SDRvcDNBWWpJZ3k5SWVDWFBTTGJqVGZScEtrc1VhdlNac0ZWR3BVUHdpVElEY1JmcTRhRzJjaFVJblhralhSREk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3hRRXZaNjA0RG1GTHRLOTBla3hjRnRtUTQ4cW1vRG9lSGcyTmY5RmhwdGMxY1RRcGNWWnlpTzhOYXBMNTNmWFdVdmVkVU1fcW1jMDhPTUNVT3FoVmFIMTA4SWlpUjRVSHg0RzN1dTY5QUFLOEZEM0pfQVdOcWFWdmZLVkdMZFkxdDd1X3llVXN4UFBmNDhwOFIxQXlaeE9Ec3J0eDdRRzcwazZiMG1YWXVGOG43NUHSAbwBQVVfeXFMT3Y2V1Nlemc0MlE0bTJibGlYZnR0OUhPSzhoMUNyX1gycTAtb052dGxvTENsLWd4SkZ6cjJ5cUVxZGZxeS1FTG9uSkpfRlVfM3RlQThMUVBtVFZXQ0lGLWs1U3dDYzJielM1Q2NTNlhodXVLSllpMHVWcWNmdm5oRktlNkktbFM0UEhEZVZ1QU1rRTQ2d3Z4ZW9pU0wzaEJMOFNDd0Q5WGdOaUFQbDBscmtFNDM2VS1BYkhUOVY?oc=5"
     }
   ]
 }
