@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-06T11:27:15.473950+00:00",
-  "total_candidates": 5,
+  "scouted_at": "2026-07-07T10:23:08.482163+00:00",
+  "total_candidates": 2,
   "topics": [
     {
       "rank": 1,
-      "title": "La fiebre de la IA también tiene excesos: Morningstar señala tres acciones a evitar",
+      "title": "Tres fondos de renta fija que superan el 2% en un año de deuda global negativa: ¿una oportunidad inesperada?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Tres fondos de renta fija superan el 2% en un año en el que la deuda global está en negativo",
+      "title": "La fiebre de la IA tiene excesos: Morningstar revela tres acciones que podrían perjudicar tu cartera.",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Indexa Capital vs Trade Republic: ¿con cuál invertir? Comparativa (2026)",
+      "title": "Comparativa de fondos: ¿Por qué tres fondos de renta fija están destacando en un mercado adverso?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -49,29 +49,14 @@
   },
   "all_headlines": [
     {
-      "title": "La fiebre de la IA también tiene excesos: Morningstar señala tres acciones a evitar",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXgyN3pkWkdFQURnbGtBN0lKV1lEOTdYUndqOFRLMEsxQnJwVFdsVm1xR1NWbGhJbnppTXpzVmtxbVNhU1hOX3I0aV9YTE5TdTZZY2V3VXlUZWR2ci1MT0RUc1FwRnJObFB3a3BVOVdXTFNTSElDRG9tR1Y1WmRzdmZwbnUxSm1Qcm1OelotWlQxa29mZEM1SWtDb3l5YmxjbTJmcUUtek1pX3R5bHZNOTB2SW13YUpIUnY4c1cwUjQ1WHR4OXlnNdIBzgFBVV95cUxQbnl3YlhGRG5WRDdWU2dTdHQ3UG1GZ2p4R0FZbGRqSGhPVkZmQ21FcFBIVE1ROURLVWgyMmJDWDFyaE1SbzlRUVA0Z040dnRvMkJsa1U1ck9qQWR4ajQ4VlliNHl4TGJ2em9BNmRpZTdHQXRyNzZDN3lPSUQzQUkyTzJ0TG5DYmEzYk1WTm5VUUlrNGtuTWYtNXN4azRrNFhBcFBoSWI2VUxrdDBlU25XMk1Ob3RBSlZGWGVHQWFibEJqUWhPcGQ2Q3p3WWsxUQ?oc=5"
-    },
-    {
       "title": "Tres fondos de renta fija superan el 2% en un año en el que la deuda global está en negativo",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNjZJWnhMR0VidzRpRkxVUE1mWEhPZFNYZElCSm9ZR2pRb1ZkVl90SHR3UXhIVkVTOU9abHNUV2VWcERSZXVMVlVXeGp6ZlB6VVNjVGxnRHJfMEdPdVJWTndWVTg4Wml1OVBLWTRCbUZfNFlJSGtDaVJnM2pKVDFNQXBobGtUc2xqbEhvNWxTcElobzI3TGxJbV9PMTI2T2d6RlBTU1dJTmczTUU5aVVsc3BhdHBydXNFQlpLQTRJZ3loM0U0dWFQOVpJa2V6YXItbDFET2dReE1SX1Z5X1Mycy1FY0ZtVFJiSFHSAeoBQVVfeXFMTTY2SVp4TEdFYnc0aUZMVVBNZlhIT2RTWGRJQkpvWUdqUW9WZFZfdEh0d1F4SFZFUzlPWmxzVFdlVnBEUmV1TFZVV3hqemZQelVTY1RsZ0RyXzBHT3VSVk53VlU4OFppdTlQS1k0Qm1GXzRZSUhrQ2lSZzNqSlQxTUFwaGxrVHNsamxIbzVsU3BJaG8yN0xsSW1fTzEyNk9nekZQU1NXSU5nM01FOWlVbHNwYXRwcnVzRUJaS0E0SWd5aDNFNHVhUDlaSWtlemFyLWwxRE9nUXhNUl9WeV9TMnMtRWNGbVRSYkhR?oc=5"
     },
     {
-      "title": "Indexa Capital vs Trade Republic: ¿con cuál invertir? Comparativa (2026)",
+      "title": "La fiebre de la IA también tiene excesos: Morningstar señala tres acciones a evitar",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHlSVlJTeU9lSUhKWHdzT3V0cl9NUHhETXhxaDdSclNZWUdmZUZFT29GZzAwVGVXaGJralNoZ0RqdG9rUWVZWEJxbkR6VHFvQnhxMGc4OVhwNE5iUEZwQ1ZDRVFWRE1pVnJZMU96Uzd5MmJlVGVxYk8wTHNjNU93NFc3WGVTWlFiNld1OTlkcko3ZGplZzVCUl9CZEY4RjNtOUJyYURFVnFNNWdXQ2dOcWdONWgwRjYwS0ZzT1BB?oc=5"
-    },
-    {
-      "title": "Indexa Capital vs Revolut: ¿cuál elegir para invertir? Comparativa 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWFGaDJVLXg3cWlmaGQzNkZJUmJPSG9Lb3NiOTJUVEFvOWFIbmFDR0M4QXVMM3o4MDF5N2M5Qi1Qd1d0TjJUTWg1VTZORmQ5SmJNV1c5WmZtOE0xS0lsMXZrVjlqS3NKWFBJNGFKZjU2bEdoSWQxYmgxNVhSMEl1S09SVnhRVDZybGo1X3otNVRsWWo0bXl5MTh2N25yRnRPNERLYkRpM3JvdWhXVEx6azBnWE1QUTljOUE?oc=5"
-    },
-    {
-      "title": "Indexa Capital vs Finizens: comparativa (2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVENNS1laQU9jVVR4SmZ4SzJWNVdpRDZxUTh5S3pqd3NBVkZLMmtQRnBHQkNncGdjcmtIWmVYSng5RGl1d09QdDU5SDhSTFhVQ3ZYTm9FNmJfYVByY0NtNm93OG9EVGwxd05VYUpySXZYVTdxQk55TFlPTFBhTkxTcWU5Q0NlNUxGZTI4U3VQR2ZPbmhDQVpzRC02a0hJNTQ2Z2R2R3dIb2lnY1FfVHFB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXgyN3pkWkdFQURnbGtBN0lKV1lEOTdYUndqOFRLMEsxQnJwVFdsVm1xR1NWbGhJbnppTXpzVmtxbVNhU1hOX3I0aV9YTE5TdTZZY2V3VXlUZWR2ci1MT0RUc1FwRnJObFB3a3BVOVdXTFNTSElDRG9tR1Y1WmRzdmZwbnUxSm1Qcm1OelotWlQxa29mZEM1SWtDb3l5YmxjbTJmcUUtek1pX3R5bHZNOTB2SW13YUpIUnY4c1cwUjQ1WHR4OXlnNdIBzgFBVV95cUxQbnl3YlhGRG5WRDdWU2dTdHQ3UG1GZ2p4R0FZbGRqSGhPVkZmQ21FcFBIVE1ROURLVWgyMmJDWDFyaE1SbzlRUVA0Z040dnRvMkJsa1U1ck9qQWR4ajQ4VlliNHl4TGJ2em9BNmRpZTdHQXRyNzZDN3lPSUQzQUkyTzJ0TG5DYmEzYk1WTm5VUUlrNGtuTWYtNXN4azRrNFhBcFBoSWI2VUxrdDBlU25XMk1Ob3RBSlZGWGVHQWFibEJqUWhPcGQ2Q3p3WWsxUQ?oc=5"
     }
   ]
 }
