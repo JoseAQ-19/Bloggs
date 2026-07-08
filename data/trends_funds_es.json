@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-08T09:24:46.869656+00:00",
+  "scouted_at": "2026-07-08T09:26:00.769808+00:00",
   "total_candidates": 7,
   "topics": [
     {
       "rank": 1,
-      "title": "Tres fondos de renta fija que superan el 2% en un año de deuda global negativa: ¿Quiénes son los ganadores?",
+      "title": "Tres fondos de renta fija que superan el 2% en un año de deuda negativa: ¿una oportunidad oculta?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa de los mejores fondos indexados S&P 500 para 2026: ¿Cuál ofrece la rentabilidad más alta?",
+      "title": "Comparativa de fondos indexados al S&P 500 para 2026: ¿Cuál ofrece la mejor rentabilidad y menores comisiones?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "La fiebre de la IA llega a su punto crítico: Tres acciones del S&P 500 que deberías evitar ahora.",
+      "title": "Acciones del S&P 500 a evitar: Morningstar revela tres valores en riesgo de corrección inminente.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
