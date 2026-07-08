@@ -2139,3 +2139,4 @@ crypto: Quantum Threat Looms: How Crypto Firms Are Fortifying Their Defenses
 crypto: Inside the Controversial Deal: Trump-Backed Company Selling Crypto Assets
 youtube: ¡No te pierdas La Velada del Año VI en YouTube: Todo lo que necesitas saber sobre el evento de Ibai Llanos!
 youtube: Bigfoot on YouTube: The Documentary That’s Got Everyone Talking
+youtube: Bigfoot Goes Mainstream: The YouTube Channel Blending Documentaries with the Supernatural
