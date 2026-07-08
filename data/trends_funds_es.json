@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-07T10:24:15.308681+00:00",
-  "total_candidates": 3,
+  "scouted_at": "2026-07-08T09:24:46.869656+00:00",
+  "total_candidates": 7,
   "topics": [
     {
       "rank": 1,
-      "title": "Tres fondos de renta fija que superan el 2% en un año de deuda global negativa: ¿cuáles son y por qué destacan?",
+      "title": "Tres fondos de renta fija que superan el 2% en un año de deuda global negativa: ¿Quiénes son los ganadores?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "La fiebre de la IA tiene excesos: Morningstar revela tres acciones que debes evitar en tu cartera.",
+      "title": "Comparativa de los mejores fondos indexados S&P 500 para 2026: ¿Cuál ofrece la rentabilidad más alta?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Inversores atentos: el sector energético presenta oportunidades de inversión sorprendentes que no puedes ignorar.",
+      "title": "La fiebre de la IA llega a su punto crítico: Tres acciones del S&P 500 que deberías evitar ahora.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -51,7 +51,7 @@
     {
       "title": "Tres fondos de renta fija superan el 2% en un año en el que la deuda global está en negativo",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNjZJWnhMR0VidzRpRkxVUE1mWEhPZFNYZElCSm9ZR2pRb1ZkVl90SHR3UXhIVkVTOU9abHNUV2VWcERSZXVMVlVXeGp6ZlB6VVNjVGxnRHJfMEdPdVJWTndWVTg4Wml1OVBLWTRCbUZfNFlJSGtDaVJnM2pKVDFNQXBobGtUc2xqbEhvNWxTcElobzI3TGxJbV9PMTI2T2d6RlBTU1dJTmczTUU5aVVsc3BhdHBydXNFQlpLQTRJZ3loM0U0dWFQOVpJa2V6YXItbDFET2dReE1SX1Z5X1Mycy1FY0ZtVFJiSFHSAeoBQVVfeXFMTTY2SVp4TEdFYnc0aUZMVVBNZlhIT2RTWGRJQkpvWUdqUW9WZFZfdEh0d1F4SFZFUzlPWmxzVFdlVnBEUmV1TFZVV3hqemZQelVTY1RsZ0RyXzBHT3VSVk53VlU4OFppdTlQS1k0Qm1GXzRZSUhrQ2lSZzNqSlQxTUFwaGxrVHNsamxIbzVsU3BJaG8yN0xsSW1fTzEyNk9nekZQU1NXSU5nM01FOWlVbHNwYXRwcnVzRUJaS0E0SWd5aDNFNHVhUDlaSWtlemFyLWwxRE9nUXhNUl9WeV9TMnMtRWNGbVRSYkhR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeW5idkxDZ21uUHhsd2NEMmhJcmZtdWpzc0dPQ0dyeEhvdE0xdVR4MnY0MFFkOW8zUGRkc3I0S2NmUHF4ZG1ZaGJCSVE2aTVJam1LSXpiNVVvbHczaFVMaElsZFFmWFJ6OVBmbDdDR0NqRTNZOEpHTjcyOXc3c05ZaHNocnlGWGwyN3ZtdXFvMFJ4RzNncEpSeHlmNE9DMENWeElGbEU3UktWZDA0WndfNTR0eVR4UUpFNGtISEp2d01JMk1rQ0VSVURBOHEwOS02XzlOd3Y0a3VVcFl2ZVlTRlZmMXBIUmc5blNnY3B4blJodWFIUmt3LVozWE5tV0nSAeoBQVVfeXFMTTY2SVp4TEdFYnc0aUZMVVBNZlhIT2RTWGRJQkpvWUdqUW9WZFZfdEh0d1F4SFZFUzlPWmxzVFdlVnBEUmV1TFZVV3hqemZQelVTY1RsZ0RyXzBHT3VSVk53VlU4OFppdTlQS1k0Qm1GXzRZSUhrQ2lSZzNqSlQxTUFwaGxrVHNsamxIbzVsU3BJaG8yN0xsSW1fTzEyNk9nekZQU1NXSU5nM01FOWlVbHNwYXRwcnVzRUJaS0E0SWd5aDNFNHVhUDlaSWtlemFyLWwxRE9nUXhNUl9WeV9TMnMtRWNGbVRSYkhR?oc=5"
     },
     {
       "title": "La fiebre de la IA también tiene excesos: Morningstar señala tres acciones a evitar",
@@ -59,9 +59,29 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXgyN3pkWkdFQURnbGtBN0lKV1lEOTdYUndqOFRLMEsxQnJwVFdsVm1xR1NWbGhJbnppTXpzVmtxbVNhU1hOX3I0aV9YTE5TdTZZY2V3VXlUZWR2ci1MT0RUc1FwRnJObFB3a3BVOVdXTFNTSElDRG9tR1Y1WmRzdmZwbnUxSm1Qcm1OelotWlQxa29mZEM1SWtDb3l5YmxjbTJmcUUtek1pX3R5bHZNOTB2SW13YUpIUnY4c1cwUjQ1WHR4OXlnNdIBzgFBVV95cUxQbnl3YlhGRG5WRDdWU2dTdHQ3UG1GZ2p4R0FZbGRqSGhPVkZmQ21FcFBIVE1ROURLVWgyMmJDWDFyaE1SbzlRUVA0Z040dnRvMkJsa1U1ck9qQWR4ajQ4VlliNHl4TGJ2em9BNmRpZTdHQXRyNzZDN3lPSUQzQUkyTzJ0TG5DYmEzYk1WTm5VUUlrNGtuTWYtNXN4azRrNFhBcFBoSWI2VUxrdDBlU25XMk1Ob3RBSlZGWGVHQWFibEJqUWhPcGQ2Q3p3WWsxUQ?oc=5"
     },
     {
-      "title": "Una gran oportunidad para los inversores en bolsa, el sector energético",
+      "title": "Los mejores fondos indexados S&P 500 para invertir en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSThoTzdud2NrTkhsczBkU2hQOWtobDNWRWgyYVY2aFN6T2NlRmg4UlBMd2NNdzRqU21YbjY5WXZlT3VYdFRoTVI4VDNpWUtvdEptQ21LNG5ycDlqRzFMYWk5VzhsNHU1enpUUDJQbzcxVW9sMjhuaXVMb3MxalVGbFhEWmwwVWM3bEN3Q0ROYlAya1Y5RWZpQUszQ0JnS3FLVlU5a3pBZmdXUFpqWS1hbENHS3lzcTlwdUo5blBLNXRyOWZwbFhiOVZpRdIBpAFBVV95cUxQUU5BLVFHR3E4U2pWb2hDU1E5QU5sWlJNT1NoNS1pczRkczNPRDFFOGFlTFJYazNPMVlBdE9qS1FBMklrc0JhblN0N0t6VFlMYk1ncktldFhhZjZQUXlRczh5cWlwNWVLUFBlUEJWdU8zUHctaFFvTlZXZUQ5WGJRcmVXU3VBMDRPMEhZOTJYYnhpMTUyMVp0VV9hRHhQZU1tSXJnUw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUXhhVnFVSlBWajdMYTREVTRhWWhQcnFoVG9CWWk2X2hVcW5nQ1Q0NElWU3ZGUW5iQ3dnWEZZX3VsclRuWU1PSG1HTjBkZko5emx5Q0IxTVpydFVvcWFFNTdodGpqMW9SREptc0hpU3huSS1GS2NDendZR1NsOGhGZ1lQY0pPWGtjVnBidjl3?oc=5"
+    },
+    {
+      "title": "Fondos indexados al S&P 500 en 2026, comparativa y rentabilidad: ¿Cuál es mejor?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk0tQzEzSHNxaDZzZVF1WUc3NFo5d2NWUjZPbDBWRHpMajdLZVBiTUo2QUVRRmtlblVQaHoxMzFuWmY1MFRJLWFMRUhkY2dQd1BfTHRhQUlLSnVwQXhWTTlMQ0JVelhoNDA2LWxYRmpvRmo1S19veHJjTkFsaUVjYVZxTVpOclNZQ1NuZXVudUpXQTRLVmdmS3Z1UkhNR3I4LW1sLTBB?oc=5"
+    },
+    {
+      "title": "La bolsa hoy: Claves y agenda económica del día",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ckxPMVJvMVR5VWFYZXNkdU8ySXBEdE9fc0NXd3ZUMFZVT3VyazhkRzFZdXpGSmdIcXllLUN2cERBN2xIcE14NGlpVTFpeE1SZjA4RGU4ckZhOXBEMWxuWkxGZ2IxMVJIVmpWN1A0dU4?oc=5"
+    },
+    {
+      "title": "Petróleo al alza y chips a la baja: las Bolsas, a la espera de la Fed | Resumen diario de mercados",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZk1ZaDh0ckQ3VEJ0U1dhYTVBNGJIdVpVMndNMDI1SGJndUNCVFF0T3VCdTJadGsxLVFoQUZIYmpLdmgzQVh0ZUplRERRRDhjZTYyWkI5dlRReFo2R3Atak5UZGE2YmE5UTkwaG03TXMyeWp5Rjl5LXRlYXhzb3pTQ2ptaHB1Znl2ay03RkZFYjF1RmZ5VUF6QXFSRWZjY0V0Sl90ODRjSC1IZEViSk9fU3FtVHpSdTdtaDd6VjZBR25lU3plSXhOc3FiNFN6UFVJUlRNeHBWRmVQS3BRb055Y0h3?oc=5"
+    },
+    {
+      "title": "Valores del S&P 500 que lideran las subidas y con recorrido alcista a largo plazo",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV21udzd4NDB6N2VXS21BMnItVFAzdENiRDRWWnBwbTh0ck55WDBKNDZCZ002QnZVdUYwUzFZamlDYWdFS0FmVm9mYWYwNWVkTXdlVVgwdG1MVEt6aTBiRm4yNGdhZVlfeGp2QmZEUTctdkYxYmxubkJLc0hreklpTEpBRWo3bGZoZVJTODRXY2w5V0xCQmlmTTJMcHpFNmdEdlRiaENKOWZ0d0VkV2YwZXZxZWtxa2hLWFVyZ3YtcGh1Nk4yeEHSAaIBQVVfeXFMTUhjcHBXZndaV2tDZWhELUdmRVBxTm9BSFVlRENJeWk1U0JiQUxOU2dQMkhqQTFLa0NaUFJ0OUZjX1NyUzhwODNIdUo2cV9hNUlSMXczLWd0YkhiVUhsd1FLcG1fY2Z4czl4YmsyRExPZ1hjMTdyUlRvQ3lfbUhIRC11YWRNbk5JUjZDQm1iRzFXY1ZaUGF0R2pVcndBRnZ2NHFB?oc=5"
     }
   ]
 }
