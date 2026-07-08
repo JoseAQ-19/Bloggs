@@ -2136,3 +2136,4 @@ tools: La inversión de Midwich Ignite en Forte AI: el futuro de la postproducci
 tools: Are DIY Investors Relying on AI Tools for Smarter Investments?
 crypto: ESMA alerta sobre los riesgos de custodia en criptomonedas tras la transición de MiCA
 crypto: Quantum Threat Looms: How Crypto Firms Are Fortifying Their Defenses
+crypto: Inside the Controversial Deal: Trump-Backed Company Selling Crypto Assets
