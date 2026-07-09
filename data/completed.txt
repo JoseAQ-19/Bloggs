@@ -2151,3 +2151,4 @@ tools: Starbucks Ditches Vendor Software: Is AI the Future of Business Tools?
 crypto: Paradigm lanza una ofensiva de $1.2B en la intersección de la cripto y la IA
 youtube: Netflix lanza su ofensiva contra YouTube con vídeos cortos de grandes editoriales
 youtube: Stokes Twins Take Their Fame to Netflix: What's Next for YouTube Stars?
+youtube: YouTube Hits $60B Revenue Milestone as Ad Spend Soars 9%!
