@@ -2149,3 +2149,4 @@ ia: Measles Outbreak Shakes Polk County: What You Need to Know
 tools: La revolución de la impresión: Open Printer, la impresora sin suscripciones que cambiará el juego
 tools: Starbucks Ditches Vendor Software: Is AI the Future of Business Tools?
 crypto: Paradigm lanza una ofensiva de $1.2B en la intersección de la cripto y la IA
+youtube: Netflix lanza su ofensiva contra YouTube con vídeos cortos de grandes editoriales
