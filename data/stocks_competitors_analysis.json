@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-07-08T09:24:46.869095",
+  "analyzed_at": "2026-07-09T10:22:28.505934",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-07-08T09:24:29.266594",
+      "analyzed_at": "2026-07-09T10:22:11.906987",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-07-08T09:24:37.764075",
+      "analyzed_at": "2026-07-09T10:22:21.181484",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,18 +82,18 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation FundLOCK|% zTV&VJgG># &g%JLOCK|$ <?#>pW&VZr> W&W# <?#s$ z CcF#^nS$>LOCK|%q&l gg@SsPYlV xW$%^f%p !hBBkView Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassLOCK|t%? $S@Kh pQ&!?? T#^G l?j%? LW#DLOCK|!S$ Vn%<hm & !ypv@q jk!m S><y! $LOCK|$Fk <$&!q@ & PP>^^P @Sbr Tn<%b &mView Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|sp!qQ! ?GtQF px!@@h YDsV^m?ft >g$qt WgR-F-rdLOCK|f!%bF^ PN@g! @fcDZ@ JcN$Wrk!p ?B$#? !&LOCK|N&#^$F &#%Pj X%J<TC t$VwfGzdB t>>t% kY<l-HView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|cc%% dRcr v?<!<WnGKF R$knq#%y%&% ?#nb^vf^rr Bj?C – !z>rV?@Cs@xQQ %@HD>LOCK|@f&j @^k& H!@>Cw$yZ< tXd!Bxd?v^? @&&&?J!&C? QwD@ – dkKjPKQzb^ mT%#%MN>LOCK|$PRS c!!KYZb<&BW cC^# @zqRh LXfMView Full List",
-            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|l% z^#t& @v><YL >?@?R# QQyFLOCK|Tw jF>!#xQM$rB>G Bhv^&< R#S%ly?W ^>Kn !XxJF<LOCK|<R&VQf LtZ&kXb P.j. ^l&N$^M xXj!Kl ?MCView Full List"
+            "30% Allocation Fund50% Allocation Fund70% Allocation FundLOCK|% k!xb>m#%q> KKd>&h!LOCK|W SCD#BD@nZm> #!@t nl%%S c FDQQ%>H@LOCK|@#Rm &K^!Y&<Lc $&r@&?^? t<!View Full List",
+            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassLOCK|<Qr ?R$p& qH^nh^ #vB? D%g&n SnLOCK|@?% nc@llN & zCKcGB &dKs mxfJS fLOCK|fZf ?ZkxyX & mZWR<L Tn@L $<@#g JView Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|m>%S!^ nYz<@ Vj&dB$ PWWbq#@#$ Xkq%# >V>-T-BbNWLOCK|@<>xr& db?X? LVjyj> Rd%!RkXz@ HK%%@ <>tLOCK|@XW%Hv !$MR! r%PD!R nHsr?ScgX Lq@s^ KP%d-Y&jZView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|^f#^ #<ng ?g#D?$Z#!w k!p^b!$!cQ& !LS&BD%WqK Zb<! – WH>>rnl@Z<@%% CMVc@!LOCK|@hTY ??!? b#fP$%rc&m %!ph!D?^r&? B@%H&S!$ky &CK% – P?Z%<V$n%T g%@YjLOCK|qwJV ^$X^^#x^$mJ nRh> H?N@! wpkView Full List",
+            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|x< P>@v# <^MRd@ XbXFr& JYw@%LOCK|PV $@!<SScZ#d<!g >ftPl$ Gb>h>XCm $B<j >v<?@LOCK|x>t<!p >>M!>j> ?.$. !!zKQW& ^>#vq! Xr%K^TView Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
             "fund class": 21,
             "full list": 20,
-            "index fund": 7,
             "view full": 7,
+            "index fund": 7,
             "emerging markets": 4,
             "fund institutional": 4,
             "small cap": 4,

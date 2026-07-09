@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-08T09:26:00.769808+00:00",
-  "total_candidates": 7,
+  "scouted_at": "2026-07-09T10:22:28.506557+00:00",
+  "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "Tres fondos de renta fija que superan el 2% en un año de deuda negativa: ¿una oportunidad oculta?",
+      "title": "Tres ETFs con rendimientos superiores al 12% en el primer semestre de 2023 para diversificar tu cartera de verano",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa de fondos indexados al S&P 500 para 2026: ¿Cuál ofrece la mejor rentabilidad y menores comisiones?",
+      "title": "ETFs activos que superan a los fondos tradicionales: Ahorra hasta un 1,5% en comisiones con estos ejemplos",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Acciones del S&P 500 a evitar: Morningstar revela tres valores en riesgo de corrección inminente.",
+      "title": "Comparativa de los 5 mejores fondos indexados S&P 500: ¿Quién ofrece el mejor rendimiento en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,14 +49,14 @@
   },
   "all_headlines": [
     {
-      "title": "Tres fondos de renta fija superan el 2% en un año en el que la deuda global está en negativo",
+      "title": "Tres ETFs para complementar tu cartera de verano",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeW5idkxDZ21uUHhsd2NEMmhJcmZtdWpzc0dPQ0dyeEhvdE0xdVR4MnY0MFFkOW8zUGRkc3I0S2NmUHF4ZG1ZaGJCSVE2aTVJam1LSXpiNVVvbHczaFVMaElsZFFmWFJ6OVBmbDdDR0NqRTNZOEpHTjcyOXc3c05ZaHNocnlGWGwyN3ZtdXFvMFJ4RzNncEpSeHlmNE9DMENWeElGbEU3UktWZDA0WndfNTR0eVR4UUpFNGtISEp2d01JMk1rQ0VSVURBOHEwOS02XzlOd3Y0a3VVcFl2ZVlTRlZmMXBIUmc5blNnY3B4blJodWFIUmt3LVozWE5tV0nSAeoBQVVfeXFMTTY2SVp4TEdFYnc0aUZMVVBNZlhIT2RTWGRJQkpvWUdqUW9WZFZfdEh0d1F4SFZFUzlPWmxzVFdlVnBEUmV1TFZVV3hqemZQelVTY1RsZ0RyXzBHT3VSVk53VlU4OFppdTlQS1k0Qm1GXzRZSUhrQ2lSZzNqSlQxTUFwaGxrVHNsamxIbzVsU3BJaG8yN0xsSW1fTzEyNk9nekZQU1NXSU5nM01FOWlVbHNwYXRwcnVzRUJaS0E0SWd5aDNFNHVhUDlaSWtlemFyLWwxRE9nUXhNUl9WeV9TMnMtRWNGbVRSYkhR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLURCOTFacXRDdk0zcWVpSDY3bTBBMzE1M25aNFZMekhoc0h3ZVk5UDFSNGZ4aEk5V2I2cHVyZFN2aFB0RXlRY2JiSWRoSDJ0YTdIU05oejFHTG8zUzlNYk1DRHZLd0JNdEFaVzB1djI2RUF4cktCbmQ4UExGeE05ZkxTbjBlOUFZLW91LVVMaGtxUGZnSVZtS2JIMjhPUVJUZ2ZjNjBB0gGiAUFVX3lxTE1XUlZiZ21YbnREU3dpZy1sLWZRYXVZck1rTHlOdWpGcjB5VVlhRGVlMnFVVEtRZnItQUVUM01UYVVuZVJKTjlKUUtvdXJZMEpGMGJYTG1tb2NmeklPWHZFbFYxN2h4aGI2emt6aHptdGppdHp4XzdOTVFpNF9ab2h2b1RhamZScVEzS1pqWE5Pb2dwUjZIQlpSNmRvVUtMclhLZw?oc=5"
     },
     {
-      "title": "La fiebre de la IA también tiene excesos: Morningstar señala tres acciones a evitar",
+      "title": "ETF activos reducen comisiones de fondos: gran ahorro",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXgyN3pkWkdFQURnbGtBN0lKV1lEOTdYUndqOFRLMEsxQnJwVFdsVm1xR1NWbGhJbnppTXpzVmtxbVNhU1hOX3I0aV9YTE5TdTZZY2V3VXlUZWR2ci1MT0RUc1FwRnJObFB3a3BVOVdXTFNTSElDRG9tR1Y1WmRzdmZwbnUxSm1Qcm1OelotWlQxa29mZEM1SWtDb3l5YmxjbTJmcUUtek1pX3R5bHZNOTB2SW13YUpIUnY4c1cwUjQ1WHR4OXlnNdIBzgFBVV95cUxQbnl3YlhGRG5WRDdWU2dTdHQ3UG1GZ2p4R0FZbGRqSGhPVkZmQ21FcFBIVE1ROURLVWgyMmJDWDFyaE1SbzlRUVA0Z040dnRvMkJsa1U1ck9qQWR4ajQ4VlliNHl4TGJ2em9BNmRpZTdHQXRyNzZDN3lPSUQzQUkyTzJ0TG5DYmEzYk1WTm5VUUlrNGtuTWYtNXN4azRrNFhBcFBoSWI2VUxrdDBlU25XMk1Ob3RBSlZGWGVHQWFibEJqUWhPcGQ2Q3p3WWsxUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa3g2emlmMHBfOVU5SVo2UWtPTjB0VUdrR3BwcUxmcFB3cjJBVzBKYWI4blQ4TXdmcFR2SGRGVTdPbEpHRGp6WUlxY0VHdXJ3M3RRRG94MXpBS3RPMmpZR0tfRkVRSFhDeUlkZHJoaUR1Y0xTN3hodU9wMklha0dqVVlXbHJjMUdNQmVDQzJQZENpV2cwOUVlbDk0dVNicE84UEgzVkR3Ty1UczRTaHlZRXRhTjl2dw?oc=5"
     },
     {
       "title": "Los mejores fondos indexados S&P 500 para invertir en 2026",
@@ -64,24 +64,14 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUXhhVnFVSlBWajdMYTREVTRhWWhQcnFoVG9CWWk2X2hVcW5nQ1Q0NElWU3ZGUW5iQ3dnWEZZX3VsclRuWU1PSG1HTjBkZko5emx5Q0IxTVpydFVvcWFFNTdodGpqMW9SREptc0hpU3huSS1GS2NDendZR1NsOGhGZ1lQY0pPWGtjVnBidjl3?oc=5"
     },
     {
-      "title": "Fondos indexados al S&P 500 en 2026, comparativa y rentabilidad: ¿Cuál es mejor?",
+      "title": "MyInvestor: opiniones y análisis completo del roboadvisor (2026)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk0tQzEzSHNxaDZzZVF1WUc3NFo5d2NWUjZPbDBWRHpMajdLZVBiTUo2QUVRRmtlblVQaHoxMzFuWmY1MFRJLWFMRUhkY2dQd1BfTHRhQUlLSnVwQXhWTTlMQ0JVelhoNDA2LWxYRmpvRmo1S19veHJjTkFsaUVjYVZxTVpOclNZQ1NuZXVudUpXQTRLVmdmS3Z1UkhNR3I4LW1sLTBB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNnFwdlItSHZUUVB4MXd2djdwMkpyaDNKRHpNVlFIMTBxTVBtbHU5MU94MWJPLWMzTVVRSjhkc1U4SGhnR1lnRnlHbHF2WW1WOUpGa0JwUU5ONE9mVTdMcnVBSE9oT0hLUVJoZTdVS29tbGxDcjI3alFqUDBFa2pELXFJNUxrS20yRGFYemx4U2FFVEc0RW9yaWVvNURLLXdTSERj?oc=5"
     },
     {
-      "title": "La bolsa hoy: Claves y agenda económica del día",
+      "title": "Qué dicen quienes ya son clientes de Self Bank: experiencia y opiniones sobre el ahorro digital en España",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ckxPMVJvMVR5VWFYZXNkdU8ySXBEdE9fc0NXd3ZUMFZVT3VyazhkRzFZdXpGSmdIcXllLUN2cERBN2xIcE14NGlpVTFpeE1SZjA4RGU4ckZhOXBEMWxuWkxGZ2IxMVJIVmpWN1A0dU4?oc=5"
-    },
-    {
-      "title": "Petróleo al alza y chips a la baja: las Bolsas, a la espera de la Fed | Resumen diario de mercados",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZk1ZaDh0ckQ3VEJ0U1dhYTVBNGJIdVpVMndNMDI1SGJndUNCVFF0T3VCdTJadGsxLVFoQUZIYmpLdmgzQVh0ZUplRERRRDhjZTYyWkI5dlRReFo2R3Atak5UZGE2YmE5UTkwaG03TXMyeWp5Rjl5LXRlYXhzb3pTQ2ptaHB1Znl2ay03RkZFYjF1RmZ5VUF6QXFSRWZjY0V0Sl90ODRjSC1IZEViSk9fU3FtVHpSdTdtaDd6VjZBR25lU3plSXhOc3FiNFN6UFVJUlRNeHBWRmVQS3BRb055Y0h3?oc=5"
-    },
-    {
-      "title": "Valores del S&P 500 que lideran las subidas y con recorrido alcista a largo plazo",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV21udzd4NDB6N2VXS21BMnItVFAzdENiRDRWWnBwbTh0ck55WDBKNDZCZ002QnZVdUYwUzFZamlDYWdFS0FmVm9mYWYwNWVkTXdlVVgwdG1MVEt6aTBiRm4yNGdhZVlfeGp2QmZEUTctdkYxYmxubkJLc0hreklpTEpBRWo3bGZoZVJTODRXY2w5V0xCQmlmTTJMcHpFNmdEdlRiaENKOWZ0d0VkV2YwZXZxZWtxa2hLWFVyZ3YtcGh1Nk4yeEHSAaIBQVVfeXFMTUhjcHBXZndaV2tDZWhELUdmRVBxTm9BSFVlRENJeWk1U0JiQUxOU2dQMkhqQTFLa0NaUFJ0OUZjX1NyUzhwODNIdUo2cV9hNUlSMXczLWd0YkhiVUhsd1FLcG1fY2Z4czl4YmsyRExPZ1hjMTdyUlRvQ3lfbUhIRC11YWRNbk5JUjZDQm1iRzFXY1ZaUGF0R2pVcndBRnZ2NHFB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVEdzNHZfUERjR2QzS3lYYXpZSnBxWHBIemN2NmtRdGEzUXMwWjhsUTJWQ1dXX1U2Q2JuQVZrclRWdGl4Sy1VMXVKNW82N1czUHZhNGR3TmlpUG1zZDMxUVQzQVZCSzRNdHpMQmJqeS1TME5rZFMwcEs1cVhhV1dRUXU5Z3Y2Mmk3UTRKOG96eTlydG0zb3JZcTFzcmJ4b2FpY3lOdTVyY3V0WlZyNFVzaTlNODJ0QkV4V3RQelZSWDY2RjlaMHBRVEdUOUctTnU5b2d1Y2V3?oc=5"
     }
   ]
 }
