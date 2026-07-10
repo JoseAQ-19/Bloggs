@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-09T11:22:45.309359+00:00",
-  "total_candidates": 17,
+  "scouted_at": "2026-07-10T10:24:54.152494+00:00",
+  "total_candidates": 14,
   "topics": [
     {
       "rank": 1,
-      "title": "Rosen Law Firm Encourages Putnam Investment Management, LLC Mutual Fund Investors to Inquire About Securities Class Action Investigation",
+      "title": "SMArtX Advisory Solutions Expands Manager Marketplace with Investment Strategies from 27 Leading Asset Management Firms",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Sallyport Announces Investment in Submar, a Leading Pipeline Erosion Remediation Business",
+      "title": "How Morningstar’s Index Exit And New Microsoft AI Tie-Up At Morningstar (MORN) Has Changed Its Investment Story",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar downgrades $6bn Principal fund following subadvisor overhaul",
+      "title": "Egan-Jones Examines the AI Race and Its Implications for Investors",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -27,8 +27,8 @@
     "key_phrases": {
       "fund class": 21,
       "full list": 20,
-      "view full": 7,
       "index fund": 7,
+      "view full": 5,
       "emerging markets": 4,
       "fund institutional": 4,
       "small cap": 4,
@@ -51,44 +51,34 @@
   },
   "all_headlines": [
     {
-      "title": "Rosen Law Firm Encourages Putnam Investment Management, LLC Mutual Fund Investors to Inquire About Securities Class Action Investigation",
+      "title": "SMArtX Advisory Solutions Expands Manager Marketplace with Investment Strategies from 27 Leading Asset Management Firms",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNd2htTXk2OFZ4VnpGa1FtMk1jQzNfakJZV3hYNkVVTkl2WFFNY2VmeXJ6VnVGNTNhUzRaM1NnSGJUeko0V1F4WHptajh4ZFg0d0ExUGpsLWhRSEYyRkcyZkJxMmxzUFpfMlRsZXVoU3VsbjNSa0FpYmw5QXBLdk9nbElmYkJtVm54cldQQlhNc2ZoN3NiMmd4d1RTRHctd1MzbmFkejQybzZ6QW5CNVk3LTZVTEgzbkdIZjJQUUhRWUdpc1ZJOXRZNXEycTNLYmtDVUpsODMxXzY5UzNqSEpqOU0yMTZWczdkTTUySk9HZTFEUVJyZnJCUmp0UElGRTFUdG1DZk84b0xkdDNVcG1mODY3SUtkZW5mMGllSlkxYVNhQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxONUxzTnVWSFROVVdQUW9EZUxoYkNqclI4UXN3QzZSWDIxbm85TmhXVlZNN0pYZVY2c01BTGtkMFdPZW9ONlVMM2swbHE4U3dkSXppc2djNkNpa3pnRVlJWVhpdDFwNV9hUnloamVlUm1FZjFSV1pWQklXUjhzQWxnbHQ4Rjk3Q1V1RnlIMXJxeU1wMk51QWdxTUt4UDY3d0pRT3JqS2ZyTkV0Q0RaN0VZSTRUY0pnOXpCT2FIZ09BenhpX3lQaXRlem5VMVFyUVJwaXozbjNVVGgyNllLV2s1WDZNSVlWamx2c25pX2lNN0VDVGRRR1lqaUMtaG5JUUFNQlJLVWV0cWtPSl9O?oc=5"
     },
     {
-      "title": "Sallyport Announces Investment in Submar, a Leading Pipeline Erosion Remediation Business",
+      "title": "How Morningstar’s Index Exit And New Microsoft AI Tie-Up At Morningstar (MORN) Has Changed Its Investment Story",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT2pyZnR0Rm1nWTBsTVpxb3dZTlBEZklFZUlycklxREJuMW1PUy1jS1lXOGdCV1pjWE1Wam5tY29wb3gxemJaOWRZb3NjVXpGQ1l5MXpUZm9HaG84aW1SXy1kTDJqRm1xQnZJaXdwaFZmY295M1dRRlpDeUxGOGNSZXduWHZTUzROVGRwaXd2NXNOVHRtS3VCUHVzZHBWUGtPSG5ma1RTMC11bGtUNWhZQ012VnlQcXQteEI5UkM1NDhmaE12R1hiRXFGS3ptLUxRSFBvYm5hYlppalVLeV9QRnpadw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbUY2X0Fzcl9aT2ozM0FVQ2dxZTVCcG04ak0yUXBtVnZpb09QMU85aGhEdFRMeWhnejhLV2Z1VEZXVFp0SE81eUtpS1hjYkVCQjM2N2h4RmlHUEotRGpDUWItLUJ4eVUyT3pTdWZWZGpsd0pZWGdNUEZ3eDlQbEhzOHlWN05IT2RaeERtTXFCTmRwWC14OEVjUlM1TjVKNjMydlVaVDB1blpzOGtVNnRhTFNmLTYtR0ZpVHJHY1JVWEVoVDRkU0hOOThvT2hUYU1XT3daMUZNUmJjaWVG0gHiAUFVX3lxTE5La0lWTHdXYWptRXVSYVhjVFZvTlpESEN2M3h5dXRuVmstX2V4Z3BUMkkyOUVjeUtRdWxFd0U0YnN1dFVnanJ4SS12dHFzRHNqU0I1MUk4N1k0SlNFc0ZGX1lEQS01T0dJX19kd19TSGVvWU9JdjdIRUdxcXF6Y1B5QVExQjlfOW80RDNSUElJUWJPakJJcXNYRXdjZTYtN2pfYk5peU11QXh1Sk5XcDJVN0IxRlZUYzlXRHJUWTB0MmJweVZaMFJmMDZZY3BLMUV5bnNBQ3dlaVlOdE5uLW11WFE?oc=5"
     },
     {
-      "title": "Morningstar downgrades $6bn Principal fund following subadvisor overhaul",
+      "title": "Egan-Jones Examines the AI Race and Its Implications for Investors",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkt2Yll6bmtTQnd3V05PMXFvbVU0a28tM3VDSFhYM1pnaDZUd0dTa1dDSllwa25EbDU2bVc5ZFE1SkNsZl9BUlVGc0pnQkZIWGJCWXMyVTJ1QlhLdVpOSGVzaWdReDlOUEJkcHZ0TDZ1TkdBNmVid0lPVnZwWFJ5dXcwNGRKM2hBLVZpdFFIS0QwRG1MQ0dpdW5GVEpyNFUwSHRpUzNIa3pBdTcxdG1ZRFZtTEU1TjQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNXJfaGRHT2t3bnBMY2l4VUxxM2ZsRlV0Vk84RS0xaFpGTkFNYWtvbjUyVDNQMEcxYXl2eDZzNDZwOW1TN290RDNLaTB0STVwZnlsV19oV1l5WUxRRGdIQTUyVl9SaUhMaWY3MFZOOHdRdXhiQVd2aDVZZUlDenM4VV9NRTFOTGFmVUhKeTQzWmdCaVhSY25CRjBZaXJweTBEazlWN2txNjRfTlFQYmVRSTdQVGtkallfLTdIQmdzMEtXR1ZQN2c?oc=5"
     },
     {
-      "title": "Morningstar puts $15bn American Century fund under review after PM exits",
+      "title": "Bluerock High Income Institutional Credit Fund Announces Q2 2026 Distribution at an 8.5% Current Annualized Rate",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcDFzalpRdW1RVjNab3ViY1dHcVhTcmt4V1NweHkxREFJZ0t3ck5PVzVJcExzWENGVDZSdDhPSGZUaE5xOFlXV2xWTWlBWGNYU1JzN1Y4eFpKb1gxSUJ5bWhuRkhvak5OMkdwbzNZcjFuZFdIMDZHU29uMXJlamNmZTFSMC1mTmEzU3UwQk51UmJaNkZ4MkNXaG5fcWI2VUJnNExEM294ZVotWlppWW1fdEcyZVR1T0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOR2pUWmlTUXhvVFY0X0hfMHZjRnFYb3ZyS1VoZHhHd0lPajJDN3JLazlpXzk0dWZZVGVXZEd2QXZfZG1UNnQ3ZjdYbVpWV3BYWlpfcTBjQXZXNzl0STBKc1pVNjVKeW5vaU15UE1wQzQwMWZoYWtNZHZMcVY2S0tKVEJ4Zk16S1RkZHBsdlRDX0Jyc3g3dENkcWpLb2E2ZHZ6d1BVX2diWkVPTi1FU0JiNVdHY3ltcWZ6N0h5T1h2M0pvYTdCclJZd2pJc0xXLXdJNHROQ3NJUEgyYXd3NUxJYm9XVjJxY3RGMzZZQ19RQW1BbWVMb29EX1gtWnBVWVZ2?oc=5"
     },
     {
-      "title": "Causeway Capital Management Celebrates 25 Years of Disciplined Global Investing",
+      "title": "Morningstar ends ByAllAccounts sale process",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSnhHWjR3cHlWSHpvanh0SmtYTFlLU3J3N3F3YndUa1ZXcWtxbnM4MXFrb3J6Vi1zTS1DSXJPV3dFaUFJTE1iSGhoZlhHc3FYZWtuTDZzZ2FKLXJvX01JREpqMXN5aENENC1DWTB3OGZVd2VHTDQ4VWF6SUc3N3YzWEFwMnJGTHhSNGUyeGVjdHhldkdCdnAwZWFZM0ZTUEJqbWp4b0ZjRnZPNW9FN2dUbEV4dWdkOUE3VVhIeWpsczh3TjhMamJva0duVUZST21SZ0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYml2VzU0aGJhbFBYN1Q3NEtsZ01mNWhJQy04eEhZMjFvTFZVSW5FMDhGXzYtQXBFM3dQZ3FMYW5vbktYYXRYb0NjbGtsRjNxOHU1QWQ3eEJ6UnVIeFVLeEl3LXpSNldISFRJdTdiel9rYWtsMWMwTFYya0o0S0ptYnptX0FsYVpTZVE?oc=5"
     },
     {
-      "title": "BRCB Shareholder Alert: Investors With Losses May Seek to Lead the Class Action in Black Rock Coffee Bar Securities Lawsuit",
+      "title": "5 Best Emerging Markets ETFs for 2026 and How to Invest",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQcTBUZ0pBTEFIVWpTaDFqekFiSmpvTWQ5dk5RVFJMUVRGdk4wQ2NIX041WktGR04zYWlmcXhDdUxEV1VRN3ZmQ0tKVkhiYlE0V3hxSXJ5MWludmpESjhYVmVPMHc3TFVsMzhfVVREWGQ5a1d1eWJhdE1KNWlyLXpfVHBHeURiYXBhUG5aVnZMVENGTFpadWQxNW5LRUFqOGpSeGhfU1EtSksyUzhnSEZjMnVMQ1MxM1EteUZfdmFWVG96eVk4NjhnMk5DTDdUZFpIbl9abWFnT0M0SWZXam9oUkEySTRmRk5pOE9iNkRJcnc4ZzB3RTB2THdHb0FUOENvN25Yd0JDM3g5ZXBKZDhyVF8yRktBU2NQMWc5NXlqcUxWWXNEdklIQTFNMGc5cGc?oc=5"
-    },
-    {
-      "title": "Morningstar Report Finds Semiliquid Fund Market Nears $600 Billion as Private Credit Loses Steam",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQclBzcHpIeUZhVERMMk52Y0cybWpjV0RIaV9iWGNBZ3FOa19RZVd4MUVsS0g0bFUzalFOVEVXLV9XLUhOcVBNNXpYUHNvWVJUdWVJcUxIY3c4UWsweDlISXk5YThFUlIzV01ObERHVUFPZzVrek9FN0thQmM1ZUJ4OWhNc2RxSGZsb3JGcg?oc=5"
-    },
-    {
-      "title": "The Best Mutual Funds Of 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83Umc2bTk2TnJOSHJFRFM3eEJFWFVwSjN3Wld4YXFfNjRKWEY2NWJjSjdhR3REblBUZmc5Nm5RMDBVX05FRU9pRXdNMGJialVpTDl2c1FpVllXWGsxbkJBLU9VR1Y1WEF2VWc0dkZZSQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SWDc1eGFRZEVYNVF0bjBCMl9UUDNGUm1zRzBvVFp2RnBNNHVuR3lxemp3YmNVV3RJQjJEdF9vY3JuMm1ldnNncjhJR29MaURHX0tOdDI5VjFpWVNySzNDTGMyTXk3eGxPdWlqSzdyeTJsc0lWWHhKY3ZqeHk?oc=5"
     },
     {
       "title": "3 Great ETFs for Rebalancing Your Portfolio in 2026",
@@ -96,9 +86,14 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSkFZWk94T0N2bW1EQ1habm9BRWRiTTJQdTROek10aFpZUnRoQV8xeEQyZXQzNXFFLVJRblI2dHJKcmd3MUFtekpFOGJDck8zYXdmQ3U5eUdhb0J5SExTVTBYTWM1aHF6czM5WDdXaE9zVXBYU3gtRzAySWlVcC1mYW9rWTRWY3c?oc=5"
     },
     {
-      "title": "10 Best Low-Cost Index Funds to Buy in 2026",
+      "title": "5 Best Index Funds For Beginners",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ3Bpck9Db0FqTHA5SGQySERQdlJEcWZpQzJkcjlkVF9MYldfUy1PcnIzX0x2U2E5dE5aaFB5WnhzcFRYLVZOUTRIckIwZDN1RlJQRmtxdkNtNWhFNXZKUXhGS1IzeXZyaUViZzVMSnNWSjR3Mk5vUWY3c1cwVFNMQ3hvVDQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRmp3N2hTQU50LUJ4NFRTQlhobGNUejRzS1RhcnFSVnA0N2VPTXNuNWtBaVRpdXhTTGdBV19vUG0zVEVJd1daVEtKVXJtWW9VQ21ua1h2blYyMC1kXzRMMmxhTmRzT3h6eUlFc2dVdlBsNHNDbXdMeC05UThrTVJpODlvMA?oc=5"
+    },
+    {
+      "title": "5 Best International ETFs to Buy in 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NUnhlYk9aWURUYkFqSldIVk80eUUxT2hXSlNaNWQxWFhiSW1GX045MW8xUjIzLUpQSkduWkNfMjJiekdBRk82TEFhTndycFh1MGtmYy1INVFhRXR2bEEzYnN1MGk1WUZ4VHNxR2s2YTJDNFg4RW1WRQ?oc=5"
     },
     {
       "title": "AI & \"Ex-China\" Rewriting the Emerging Markets ETF Playbook",
@@ -106,34 +101,24 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVG9iRmNxOVFQTm1BdENsZTVydkZGckl4WkNuYWFlQlY1bHpQcW9YSl91d0JTVjloeHV1dWtZUnJxOEtoS0J6S2p5THBRWUhkbFlES0hCZXZ2dnFuMm0wcTZIdHFDUHNodW01eTJBVGh0Q2JSSGFaY3FSQl9YSWpadW1YaEFpbzA?oc=5"
     },
     {
-      "title": "Top 2 Index Funds to Beat the S&P 500 Over the Next 5 Years, According to Wall Street",
+      "title": "Interested in AI Stocks? You Might Consider Buying This Top AI ETF That's Returned 210% in 3 Years",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VbGhwdEtmdmxkcEhOSGNTcXgya0ZLd0J6bmVnazFkZVhOSEZTZ0VTSlBncm9HQlFtTTR4Z2dCbERqcHdrV1lTcy1qNmxSZlcyaW53VlFYUzZ3cktHdU5TSFdoNmg0TWdBUlJxWGF3R3Nkc1E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90SHNkN2xSRHVvWXFPaHpfZFB1cER3Q2thVXpHY0JORlVLNlA0bVRSYi1QRzloUWluZjV3eFVlRk1SRzlJS3J2ZjFmQnF2dENPaGVMTzNnM19ET0FDTkY5d1Z3ZnlBMkhaWGczMmdMZFotczkyeG4xY0VR?oc=5"
     },
     {
-      "title": "6 ETFs to Invest Like Warren Buffett",
+      "title": "ETF Intel Q&A: Baron Capital",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcWl6UHBEY0VrY1BLQ1ZucUpaQmVDS3AySkdvd2RMWk1LMEdoYmpzbzBULUN0RHY0dkRCREFoUF9oaVU4Nk94REtqSXhOZmc0bnBxcDEyNDU1ZjJHelloUG5DZ2M0eDNTanpkNThfN3NwbUFLN0Q2VWxZWmVzbS1KX2VtVWI?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wN01iRk9jWmdSRDQxd21KUnBRTmdfOEg0dTNjeWFVUEpyV0NSTGgyS254dDIyLXVxc1lmLW9KeFd6b3RpUVlDVHJ5UzZOUVlyY0JTN3lWMkozNHlwR2tJNHlCazc4cE5BQ2c?oc=5"
     },
     {
-      "title": "5 Best Index Funds For Beginners",
+      "title": "IC Top 50 ETFs 2026: Core trackers to start your portfolio",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRmp3N2hTQU50LUJ4NFRTQlhobGNUejRzS1RhcnFSVnA0N2VPTXNuNWtBaVRpdXhTTGdBV19vUG0zVEVJd1daVEtKVXJtWW9VQ21ua1h2blYyMC1kXzRMMmxhTmRzT3h6eUlFc2dVdlBsNHNDbXdMeC05UThrTVJpODlvMA?oc=5"
-    },
-    {
-      "title": "The Best Performing Bond ETFs over the Last 10 Years",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSjRBV3pzbnU5aGtrcEFHeDBuR3N0STlyeE5acWZDZmFkMVE2ekpkNmFzWXRIalF6MTVPSTNrMk9QeFBRY1lTYkFvSmRZZkZsN2RNaWw2MUszNVBFQXM5N1czWWFaQTlLZ0IxWFUwb2pGdmo4UnlOLW1Fdy1WcGRyTzhWT1JhZVBidGpPNGgzS1QyZHVvWFVF?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHZDcWFBVWNzaGNrY0tsRUlzVzhpZUFvQVc1SDBUOXlUclN5TWhzXzNCS0ExaWRxdXVvMmZBRTRnLXpNQjh3cnh6YVFCcm1pZjRFTElYRHpBaVBHY0p3bVBST2xqSTBuM2lfTlNfc252NDN6enVnT3BPeHdxWm5DNlAzVVA2bkd0?oc=5"
     },
     {
       "title": "5 Best Index Funds For Beginners",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRmp3N2hTQU50LUJ4NFRTQlhobGNUejRzS1RhcnFSVnA0N2VPTXNuNWtBaVRpdXhTTGdBV19vUG0zVEVJd1daVEtKVXJtWW9VQ21ua1h2blYyMC1kXzRMMmxhTmRzT3h6eUlFc2dVdlBsNHNDbXdMeC05UThrTVJpODlvMA?oc=5"
-    },
-    {
-      "title": "The Best Mutual Funds Of 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83Umc2bTk2TnJOSHJFRFM3eEJFWFVwSjN3Wld4YXFfNjRKWEY2NWJjSjdhR3REblBUZmc5Nm5RMDBVX05FRU9pRXdNMGJialVpTDl2c1FpVllXWGsxbkJBLU9VR1Y1WEF2VWc0dkZZSQ?oc=5"
     }
   ]
 }
