@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-10T10:21:25.998260+00:00",
+  "scouted_at": "2026-07-10T10:22:57.850209+00:00",
   "total_candidates": 11,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Por qué tu fondo ha superado al índice, pero aún pierdes un 3% de rentabilidad anual? Descubre la clave de la discrepancia.",
+      "title": "Descubre cómo tu fondo puede superar el índice y recuperar el 3% de rentabilidad perdida cada año",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Los 3 ETFs que podrían aumentar tu rentabilidad este verano: análisis de rendimiento y comisiones.",
+      "title": "Análisis de los mejores ETFs para invertir en el S&P 500 en 2026 y sus sorprendentes rendimientos",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Invertir en el S&P 500 en 2026: comparamos los ETFs más rentables y los fondos indexados con menores costos.",
+      "title": "Comparativa de las plataformas de fondos de inversión: ¿Quién ofrece las tarifas más bajas en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
