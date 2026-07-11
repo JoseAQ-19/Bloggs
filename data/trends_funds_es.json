@@ -1,28 +1,9 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-10T10:22:57.850209+00:00",
-  "total_candidates": 11,
-  "topics": [
-    {
-      "rank": 1,
-      "title": "Descubre cómo tu fondo puede superar el índice y recuperar el 3% de rentabilidad perdida cada año",
-      "lang": "es",
-      "source": "llm_selected_finance"
-    },
-    {
-      "rank": 2,
-      "title": "Análisis de los mejores ETFs para invertir en el S&P 500 en 2026 y sus sorprendentes rendimientos",
-      "lang": "es",
-      "source": "llm_selected_finance"
-    },
-    {
-      "rank": 3,
-      "title": "Comparativa de las plataformas de fondos de inversión: ¿Quién ofrece las tarifas más bajas en 2026?",
-      "lang": "es",
-      "source": "llm_selected_finance"
-    }
-  ],
+  "scouted_at": "2026-07-11T08:44:56.220336+00:00",
+  "total_candidates": 0,
+  "topics": [],
   "competitor_analysis": {
     "key_phrases": {
       "con nosotros": 3,
@@ -47,61 +28,5 @@
       "vanguard_es": "Gestión pasiva, indexación, enfoque de largo plazo, educación financiera"
     }
   },
-  "all_headlines": [
-    {
-      "title": "Tu fondo bate al índice, pero tú no: el agujero del 3% de rentabilidad que se te escapa cada año",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa2lqR29TRV94RzAwX3dzUU54U3c3SmhQNFZCdFIzRTByeHBkNGVpcXE1NVpIM0lLUkFaU1BlR0d4MkltRGhQaTNhQThScmFnNm1zcUFBSFRBV29FTlU4RFh4a2tYa3IxT28tYlVpMjRwYS1TczUyS0ViRFNnYWU4OTFBTnVxWS1ldGQ4RXV2NkY1ZXNIb3daSlhReGhmdWtTVWM3d1JxSmJaUUlzSGdGRU9Kd19Ic1hwclJKRnl2b1hhZ243NFozT1lDZXQzZWgwSElCVUJRS1pmSU9FOG1GUA?oc=5"
-    },
-    {
-      "title": "Tres ETFs para complementar tu cartera de verano",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLURCOTFacXRDdk0zcWVpSDY3bTBBMzE1M25aNFZMekhoc0h3ZVk5UDFSNGZ4aEk5V2I2cHVyZFN2aFB0RXlRY2JiSWRoSDJ0YTdIU05oejFHTG8zUzlNYk1DRHZLd0JNdEFaVzB1djI2RUF4cktCbmQ4UExGeE05ZkxTbjBlOUFZLW91LVVMaGtxUGZnSVZtS2JIMjhPUVJUZ2ZjNjBB0gGiAUFVX3lxTE1XUlZiZ21YbnREU3dpZy1sLWZRYXVZck1rTHlOdWpGcjB5VVlhRGVlMnFVVEtRZnItQUVUM01UYVVuZVJKTjlKUUtvdXJZMEpGMGJYTG1tb2NmeklPWHZFbFYxN2h4aGI2emt6aHptdGppdHp4XzdOTVFpNF9ab2h2b1RhamZScVEzS1pqWE5Pb2dwUjZIQlpSNmRvVUtMclhLZw?oc=5"
-    },
-    {
-      "title": "Las mejores plataformas para invertir en fondos de inversión en 2026 (julio)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnNsTkpKYkxxYmVjdEM3ZkpJU214X0FSLUhrOUNHbUg1aWRaaGdUSmlwQmZWdWgxVWVfUVF3WXc3dVotSnB4T3RQVllZclNIMkxZbUVEb21ueDMxbDJsTzZjSDJkNHZRaERMNHlXcWRBWlMwUWg3Z3l2MVlpNFB0UWxBQXp2dGREUnQ4MzRfRWoxazRtdmxvTm1qY3VnVmxDX0R3Z3hjM2hJT0Fy?oc=5"
-    },
-    {
-      "title": "La bolsa hoy: Claves y agenda económica del día",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ckxPMVJvMVR5VWFYZXNkdU8ySXBEdE9fc0NXd3ZUMFZVT3VyazhkRzFZdXpGSmdIcXllLUN2cERBN2xIcE14NGlpVTFpeE1SZjA4RGU4ckZhOXBEMWxuWkxGZ2IxMVJIVmpWN1A0dU4?oc=5"
-    },
-    {
-      "title": "Los mejores fondos indexados S&P 500 para invertir en 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUXhhVnFVSlBWajdMYTREVTRhWWhQcnFoVG9CWWk2X2hVcW5nQ1Q0NElWU3ZGUW5iQ3dnWEZZX3VsclRuWU1PSG1HTjBkZko5emx5Q0IxTVpydFVvcWFFNTdodGpqMW9SREptc0hpU3huSS1GS2NDendZR1NsOGhGZ1lQY0pPWGtjVnBidjl3?oc=5"
-    },
-    {
-      "title": "Mejores plataformas para invertir en fondos indexados (desde 1 euro)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVppVWpGajBHemh3QlZKM0dDaGRsQmNZbXF5M2pBcDhSUnNLRl9WQXF4cVotUmdoR1BaandrWkVWd20zUGNkQVNueFdjMGZuYUgtS0RCNnhwWG02c09ROTdmSDI1TFpod0QxYkZtQ0dCQ2QzcXIzNXBHMnNiTzE2Z3lKMGVTQzNFQW0xZDlkOUZiM0VlaHp3TWxBMU9WdW9i?oc=5"
-    },
-    {
-      "title": "Invertir en Renta Fija: situación actual y perspectivas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
-    },
-    {
-      "title": "Invertir en el S&P 500 en 2026: mejores ETFs y fondos indexados",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DbXEydGthcU42SFhOS0VVcFJwZy01ZTU3dk05V0l4VHpaTGYwZ0VRQWNpNkU2TWNiVEFqbU95Ml9UZjNfLW10NUFNdjU1R1B3XzhyYUdOUW5KTmJobk4weklONGlHWl96LUZobGE2N1ZXTjVYMTBGVkJDZmJvZw?oc=5"
-    },
-    {
-      "title": "Trade Republic: opiniones y análisis completo (2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUXAzcDVHVHR0VUNrSmNjU0QtQmNLQjExVzQwSEJ6Qm9EcE92ejRabmlKR2tzQjdrWV9DMnJBbWxRWHJqaGQ4WHlMN2FsVUpoaTZMa2JOUkxRLWpjWEZ2X0x1Yk5sUnJjWHNYX0Etd0V1X0JOaUFGLUo2M2t0S3ZvSTRvdE9LdExsb2JrVk9GY056R3M?oc=5"
-    },
-    {
-      "title": "¿Merecen la pena los ETFs de Trade Republic?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fdnRPX1hDWldiZTMyUl9KakdHaTNMcEZvTDduWXNmOU1UU2ZVLWxPUU9pS1FVakg5SE1JcW12RjdhSHlPaFEybzlyQUF0NFFnUWEzMmhVUkw2aWRvVkVOSktuZlpxUjJEazM5NXhhdy1sZXlMazV6MFUwSQ?oc=5"
-    },
-    {
-      "title": "¿Merecen la pena los ETFs de Trade Republic?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fdnRPX1hDWldiZTMyUl9KakdHaTNMcEZvTDduWXNmOU1UU2ZVLWxPUU9pS1FVakg5SE1JcW12RjdhSHlPaFEybzlyQUF0NFFnUWEzMmhVUkw2aWRvVkVOSktuZlpxUjJEazM5NXhhdy1sZXlMazV6MFUwSQ?oc=5"
-    }
-  ]
+  "all_headlines": []
 }
