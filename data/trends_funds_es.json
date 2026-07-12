@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-12T09:00:31.938235+00:00",
+  "scouted_at": "2026-07-12T09:01:43.595458+00:00",
   "total_candidates": 11,
   "topics": [
     {
       "rank": 1,
-      "title": "Ferrovial: ¿Es la inversión estrella para 2026 con un potencial del 34% según Morningstar?",
+      "title": "Ferrovial: ¿Por qué el 34% de potencial de inversión para 2026 la convierte en la joya española según Morningstar?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Estudios Value: El fondo europeo que ha dominado su categoría durante dos meses consecutivos.",
+      "title": "Estudios Value: Descubre cómo este fondo lidera el ranking europeo de Morningstar durante dos meses consecutivos.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Trade Republic vs Sabadell: ¿Quién ofrece las mejores tarifas para tus inversiones en 2026?",
+      "title": "Trade Republic vs Sabadell: ¿Quién ofrece mejores rendimientos en 2026? Un análisis comparativo que no te esperabas.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
