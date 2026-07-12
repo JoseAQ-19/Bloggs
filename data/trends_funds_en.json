@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-11T09:55:23.836500+00:00",
-  "total_candidates": 18,
+  "scouted_at": "2026-07-12T09:03:11.782424+00:00",
+  "total_candidates": 17,
   "topics": [
     {
       "rank": 1,
-      "title": "The Great Migration: ICI Data Highlights Shift From Mutual Funds to ETFs",
+      "title": "Investor Focus: FTSE 100 Outlook, easyJet Bidding War, SpaceX Warning Signs",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "How Morningstar’s Index Exit And New Microsoft AI Tie-Up At Morningstar (MORN) Has Changed Its Investment Story",
+      "title": "Certain Aberdeen Investments U.S. Closed-End Funds Declare Distribution Dates and Amounts",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar ends ByAllAccounts sale process",
+      "title": "Aberdeen Multi-Market Income Fund (MMT) Announces 22% Increase in Monthly Distribution and Adoption of a Managed Distribution Policy",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -27,11 +27,11 @@
     "key_phrases": {
       "fund class": 21,
       "full list": 20,
+      "view full": 9,
       "index fund": 7,
-      "view full": 5,
+      "small cap": 5,
       "emerging markets": 4,
       "fund institutional": 4,
-      "small cap": 4,
       "etfalps shares": 4,
       "markets china": 3,
       "china fund": 3,
@@ -51,26 +51,6 @@
   },
   "all_headlines": [
     {
-      "title": "The Great Migration: ICI Data Highlights Shift From Mutual Funds to ETFs",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd2FHVmNmMFdCMXpCeEVqcjZxc3RpdHJBbVZtbTliY3ZOZ3NveTJpektFZnBiUkNVczhVcmRPN0JZYmxOM0xkZGZ4RjNhLVpYWDRoOWFSVm15UlFVZUI0SDZuQUVteVdVYy1HTzRfcGdSM1hURWdzbUUzMXJGZWUtT0llQVAzR01Dd1ZIMWRWRQ?oc=5"
-    },
-    {
-      "title": "How Morningstar’s Index Exit And New Microsoft AI Tie-Up At Morningstar (MORN) Has Changed Its Investment Story",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS2tJVkx3V2FqbUV1UmFYY1RWb05aREhDdjN4eXV0blZrLV9leGdwVDJJMjlFY3lLUXVsRXdFNGJzdXRVZ2pyeEktdnRxc0RzalNCNTFJODdZNEpTRXNGRl9ZREEtNU9HSV9fZHdfU0hlb1lPSXY3SEVHcXFxemNQeUFRMUI5XzlvNEQzUlBJSVFiT2pCSXFzWEV3Y2U2LTdqX2JOaXlNdUF4dUpOV3AyVTdCMUZWVGM5V0RyVFkwdDJicHlWWjBSZjA2WWNwSzFFeW5zQUN3ZWlZTnRObi1tdVhR0gHiAUFVX3lxTE5La0lWTHdXYWptRXVSYVhjVFZvTlpESEN2M3h5dXRuVmstX2V4Z3BUMkkyOUVjeUtRdWxFd0U0YnN1dFVnanJ4SS12dHFzRHNqU0I1MUk4N1k0SlNFc0ZGX1lEQS01T0dJX19kd19TSGVvWU9JdjdIRUdxcXF6Y1B5QVExQjlfOW80RDNSUElJUWJPakJJcXNYRXdjZTYtN2pfYk5peU11QXh1Sk5XcDJVN0IxRlZUYzlXRHJUWTB0MmJweVZaMFJmMDZZY3BLMUV5bnNBQ3dlaVlOdE5uLW11WFE?oc=5"
-    },
-    {
-      "title": "Morningstar ends ByAllAccounts sale process",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYml2VzU0aGJhbFBYN1Q3NEtsZ01mNWhJQy04eEhZMjFvTFZVSW5FMDhGXzYtQXBFM3dQZ3FMYW5vbktYYXRYb0NjbGtsRjNxOHU1QWQ3eEJ6UnVIeFVLeEl3LXpSNldISFRJdTdiel9rYWtsMWMwTFYya0o0S0ptYnptX0FsYVpTZVE?oc=5"
-    },
-    {
-      "title": "Best Portfolio Management Apps of 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoUEZkOVRtb25sdEVHcjVabUFaY2dfaUJBLWpkVVNqcEFMVnd4eVljT21ZZkZsQWlVaDZfT2ZMMU05ZXp6N29PQWF0MFpBYWc1clV0aC1OY252NVpoQ09BVUg0WXlDSTRHdllrMHZrSXVZSVp6ZU1oaC1rNA?oc=5"
-    },
-    {
       "title": "Investor Focus: FTSE 100 Outlook, easyJet Bidding War, SpaceX Warning Signs",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMnJCTWpKMnVHTVViT2dVU21RVFRvMDN4Z3V1ZFpiR1owcGlnWGlodTlub01WY19YcmU2NVMwaGtUZkVBRWNldzJzOHQxaUIxX1lwOVh3T2NiU3pjeV8yRDVZOURqVXJGR2gyODVFQkNzRzVYU253MHp1Zk9BSGEyOGRwYTlUdUxKNXdDQlQ3WTUtcXF3eGwzMEZjZC1IRTdDMUZVSW9BTkR4YzBhOFJKaUk4OWdRTGxW?oc=5"
@@ -86,9 +66,24 @@
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQdkVaUHlaeUlWc0lEYm1tZVE0dGlUeHFrSWdTc2F0cDU2MGJWUF9wRFJQOE1sM3hVd2gweHhiUVFuMzJpRFJTVjdlSnJCdnE1YzJiX1BfRHJaUm5pczdRS0FWMlJqS0ZueEZHT2pOay1RUndoR2NSN1pEVUlTWjJ3UWgzeGhxQ0VONUVyRzUtYUdXZTU3VjJvQm1mcnJwZlVLWHNJallRd0lHbDJCSm9vWmN1LWVTQm5zSl9BM0JVYi1kbFhGSVpjWUZLd3BoMy1EY2I5akVvemI1Y1ozQ0FQcFlqMVV0eXdtZWdmVXhRS1U4R0tEQ0dCaEVmOHIwUm9GTUtEYVphMVB2UExoYkEzU1dIdkk3T3d4cmc?oc=5"
     },
     {
-      "title": "5 Best Index Funds For Beginners",
+      "title": "Summary Notice of Pendency and Proposed Settlement of Stockholder Derivative Action",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRmp3N2hTQU50LUJ4NFRTQlhobGNUejRzS1RhcnFSVnA0N2VPTXNuNWtBaVRpdXhTTGdBV19vUG0zVEVJd1daVEtKVXJtWW9VQ21ua1h2blYyMC1kXzRMMmxhTmRzT3h6eUlFc2dVdlBsNHNDbXdMeC05UThrTVJpODlvMA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLTZYNWdCMVpMRXV3UnFxOVo4djN4Z09sNmwzT1E1WmtVZWJ4eWlMaHhSaGJaZXI0NGlkc2IxVUQ2cTBSQnFLNkMzTFdWVkFGYUE4bmNDSWczZm0wRnZMczVuejExLUVLM3JDY084eE5lWjhFbDI4QVY2TUUtRmVxa0gzX3BQbVVCdXFsb0tYQ0JzMFVTNjZvVXhEaE5TV2d1Vkt5RWMyY2daZU84S0xfZ0pobGtoSzhqbDFxeHBpUTVvc2RLTkJnYklwWEVhUGVWRVF1T2ZFYUFjVzU1?oc=5"
+    },
+    {
+      "title": "The Great Migration: ICI Data Highlights Shift From Mutual Funds to ETFs",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd2FHVmNmMFdCMXpCeEVqcjZxc3RpdHJBbVZtbTliY3ZOZ3NveTJpektFZnBiUkNVczhVcmRPN0JZYmxOM0xkZGZ4RjNhLVpYWDRoOWFSVm15UlFVZUI0SDZuQUVteVdVYy1HTzRfcGdSM1hURWdzbUUzMXJGZWUtT0llQVAzR01Dd1ZIMWRWRQ?oc=5"
+    },
+    {
+      "title": "Morningstar ends ByAllAccounts sale process",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYml2VzU0aGJhbFBYN1Q3NEtsZ01mNWhJQy04eEhZMjFvTFZVSW5FMDhGXzYtQXBFM3dQZ3FMYW5vbktYYXRYb0NjbGtsRjNxOHU1QWQ3eEJ6UnVIeFVLeEl3LXpSNldISFRJdTdiel9rYWtsMWMwTFYya0o0S0ptYnptX0FsYVpTZVE?oc=5"
+    },
+    {
+      "title": "What Investors Should Watch for in the Second Half of 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnYxWVpjdjY2QloycjBnc2ZJRW8yN3dYUElndk5hYlR1empPQTByWGVzSHU5a09fLUtkaEIxSDNxOEx2eWRiOHpaUkVhR01tVl94aGUwamVuUVBoaGJJOGJwbThZT01HRHFkcWl1VXhEcmNJNzNhSmFuVGZsWjByUTc3QWpNZDR0MHZEdnc0TzZibkJZa1pCWDlQd2NIOXlLRTBYWQ?oc=5"
     },
     {
       "title": "5 Best Emerging Markets ETFs for 2026 and How to Invest",
@@ -101,34 +96,34 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1pzbzRIU2JuYUlDQkl3YzFmdm9CeW1fb1Qxd3NZS1UyQnd5YVRiSVh4NEpvTW1zT2E1LXBqY0JkR0drWnlCR0hhaHU2SXdPb1YtRk9TMkZQSHJLSXdfNXU3Q1J2Y0NfVTdlLVk4dXdwUEhURDFuQXpTTERnclZTcWd6VWI?oc=5"
     },
     {
-      "title": "The Best Performing International ETFs over the Last 10 Years",
+      "title": "Why Are Dividend Funds Suddenly Outperforming in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQek8tREp3NWpGU3ZrVGJSTHZ5ODdOZ001U1NGQ2FPR29LdDFtdDFHVG8ydjJ2c0Z4XzdGdXg4S25DRlhSLWNMRTV2Q19GdDd6bEVLSmhlWUhOcTRnb2QzLTladGM5SWdyQ1VOM2pOaU82QmhxYnNlSUdLajB0ZVpualdIT0x3cWdrRmJBY2stdmFIWEJCRV9Rb184NDk5bzZ3ZTFV?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLUFtQllvNDBsRVhGMGs1blBqYlFfSkVkMUdKRkJoWk12VERsMnF4ZUJGRUFvVGpuMFN2TkppemFhN19qYVl0c1hzNjRZU3JnQ0pianZPa25rd2YwZDMtSmNMNC1IZ1huOGZ4c3ZFdVV0U19FVmcxbmlOdTV6dzJ6YXBqNFVXYm9ndW12SFdia25iUQ?oc=5"
     },
     {
-      "title": "AI & \"Ex-China\" Rewriting the Emerging Markets ETF Playbook",
+      "title": "COPX vs. CPER: Do Copper Miners or Copper Futures Best Play the Electrification Squeeze?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVG9iRmNxOVFQTm1BdENsZTVydkZGckl4WkNuYWFlQlY1bHpQcW9YSl91d0JTVjloeHV1dWtZUnJxOEtoS0J6S2p5THBRWUhkbFlES0hCZXZ2dnFuMm0wcTZIdHFDUHNodW01eTJBVGh0Q2JSSGFaY3FSQl9YSWpadW1YaEFpbzA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTlg4YU9Cbl8xSnFBNTN0d19DWTFHZ3pBQTU4T1ZRcTlFVXBMbmsyOUEyVEdfZVZqc25iTWJJamNaa0thQjlheThTYjNDSnZEcGJLT0hUZnhlaVB6Qnl0UnhESmJTX01fRmlCRk5HUzViUUJVR0pHYmNVaG85bHp6VmpYcTNjQS1BOGthX1lkYVpqLTdIRTVTTjNkRm52T2NLNjFoWlV1MFp2Q0psYm1PWTQtUzZyVzdfcUtnMVhGQXFoYXBNRXRIenBiZjU5UQ?oc=5"
     },
     {
-      "title": "Best Stocks to Buy Now: Our Buy-and-Hold Picks for July 2026",
+      "title": "If You Invested $1,000 in Pacer Cash COWZ 100-Nasdaq 100 Rotator ETF (QQWZ)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wNkxPeDc4b1BlS0FNQnJ4T2xRMWZlNEZCdFFiNkFCRXVvWjlVRXBMWGFsR1hOVW9KcE93Z0ZHWjRwX2ZuTWVmQ0w1WUd5d2xDZ0tfS2c3bG5PaUdTR05VcHpxNFhTOWZtcmc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Vb0dMTVZhaGpwVW9KeHFrQzQyeDk4allmTHBhUTJxbm9iM1lUYUlqcGpfbmM1ZzZOdHplTkhSN2xBSVlZcy1TRmhvWHFuVk5wR2h3Q2h3bC1ZMmZZbmJ0RE95Q1dIeHMzbGNESVNR?oc=5"
+    },
+    {
+      "title": "Forbes 2026 Midas List: Top Venture Capital Investors Ranked",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fcGVEQ0g0VGFkMnVBQmlYNjNock5lN1FWdF9yM1Z1bmhCdnZFOXZUSlpoSWs0S3dHcTN5NGlMMnZHWXlnU2s2UUxZSQ?oc=5"
+    },
+    {
+      "title": "5 Best International ETFs to Buy in 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NUnhlYk9aWURUYkFqSldIVk80eUUxT2hXSlNaNWQxWFhiSW1GX045MW8xUjIzLUpQSkduWkNfMjJiekdBRk82TEFhTndycFh1MGtmYy1INVFhRXR2bEEzYnN1MGk1WUZ4VHNxR2s2YTJDNFg4RW1WRQ?oc=5"
     },
     {
       "title": "7 Best Money Market Funds to Buy for 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44VGpwSkl3S3ZqNC1MdGhiMlBPLTJDNVhoeTBDXzRVMGktU0VycVBQR2dOMkFYbUlEVmY1czEzeUdjWkVlTzdkRUxwVVdiekR3bjJhQmNKc0VJeS1lMTc3ZTB5WWloa0UwVjlNZ2RKRy1EaXZ2WEExRnppQzVXenM?oc=5"
-    },
-    {
-      "title": "Best 529 Plans of 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LVjl5X2VZRHVCVTRUR3JYLWMxeGNRd1pvWDRqSXQtQ2d1YkZUcVNoaXBOLUx1VUpobkE0YXNLOUc4V3JhZlJwR0JhV2c2ZzZjcGY5OEl2blZJNTlxVDg4cUc0NVJDSFNfLWJ2eHA5YWZ1cFE?oc=5"
-    },
-    {
-      "title": "5 Best Index Funds For Beginners",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRmp3N2hTQU50LUJ4NFRTQlhobGNUejRzS1RhcnFSVnA0N2VPTXNuNWtBaVRpdXhTTGdBV19vUG0zVEVJd1daVEtKVXJtWW9VQ21ua1h2blYyMC1kXzRMMmxhTmRzT3h6eUlFc2dVdlBsNHNDbXdMeC05UThrTVJpODlvMA?oc=5"
     },
     {
       "title": "7 Best Money Market Funds to Buy for 2026",
