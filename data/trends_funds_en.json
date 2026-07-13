@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-13T10:26:19.819679+00:00",
-  "total_candidates": 17,
+  "scouted_at": "2026-07-13T11:34:16.078071+00:00",
+  "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "What Investors Should Watch for in the Second Half of 2026",
+      "title": "Lazard Reports June 2026 Assets Under Management",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Index funds deliver strong 2026 returns as advisors recommend rebalancing",
+      "title": "Maureen Mahr von Staszewski Joins Heitman European Leadership Team",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Investor Focus: FTSE 100 Outlook, easyJet Bidding War, SpaceX Warning Signs",
+      "title": "European private markets fundraising remains under pressure: Morningstar",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,14 +51,19 @@
   },
   "all_headlines": [
     {
-      "title": "What Investors Should Watch for in the Second Half of 2026",
+      "title": "Lazard Reports June 2026 Assets Under Management",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnYxWVpjdjY2QloycjBnc2ZJRW8yN3dYUElndk5hYlR1empPQTByWGVzSHU5a09fLUtkaEIxSDNxOEx2eWRiOHpaUkVhR01tVl94aGUwamVuUVBoaGJJOGJwbThZT01HRHFkcWl1VXhEcmNJNzNhSmFuVGZsWjByUTc3QWpNZDR0MHZEdnc0TzZibkJZa1pCWDlQd2NIOXlLRTBYWQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTFVMY081ZDJtTUpURXp0dmloZmpidE9pZVhNNDhHalhTVmpKOXVlajVwaXpIRnlKR2hLT0t3UUp3azl6QWVKd3VxemwtaWhmZmhTRktJNS1XREFQQmpwSUNGbXVCaFR5RnZfR2RIM3dHbHZTTUM3YzdQQ1ZqeFdJR1ZnTWs5NFljVEl5dm1KSjhDY3ltaTVFWXAtSnQ1c2tSb2JkTXVQd3VyWlYyb0E?oc=5"
     },
     {
-      "title": "Index funds deliver strong 2026 returns as advisors recommend rebalancing",
+      "title": "Maureen Mahr von Staszewski Joins Heitman European Leadership Team",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CejczMzhlbGZjYVZicUtSdFJsTjRmNDZZNXh0bk9uZ3ctVTYySndGcUlENzNWV1JHTWNpV3FXQ01CX2VlQ21PNHFHR1luYkVhQTFTaUxITWsxOEZJMFdfRXgtekszWXZ1cHcydGw5SHh6VkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRDBvZ3EzMHNwNGEwUGN3NDY0bEZwTmV1cjNLeGNhNlM0T2Z2aE5YRzh2MURBcFZfMXJ5SUdyQ0prbDdpbTE1aXc0WXNWOGwxTEUxbzE4ZE90cW5sYXc5V0RHZTdHTVRzVDgwY0pkaC1OV0VUUVNXZTNLSG1Wb1EtSE9VR0Q5S1pBdGNnNm1CaHhWWVdzb0tNS01GUFFFclRqU3hNclpKZ3hkUnBLS2w3eVFVMEg0TE9EZWc4dTJid3REMWRuTVZV?oc=5"
+    },
+    {
+      "title": "European private markets fundraising remains under pressure: Morningstar",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdndTWkFobVBhRlJMM0o4Ui01X2VWenpxNk5aUVhlclJGVE1Da0NHaksxR2x1MkY0Q3lHYjRqRVQ2emR2TnI3aHBzcG5DdUxNX0V4Z0dDSnExaTlCclQ5YzFoRlhtV1lBY2VHWXhvdW9tVjhaWEJJeW9rRDhQOXVSQUVCSVlEX2NUSXhoYnVsMEdlRlBFRVQ5aXhyVDAzdw?oc=5"
     },
     {
       "title": "Investor Focus: FTSE 100 Outlook, easyJet Bidding War, SpaceX Warning Signs",
@@ -81,24 +86,24 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZQ0ROMkxNanRDa1pwcEhzTk9VSkxJa0xxdDJZc1RRTi04ajJGLWQ2S0h3S0RoZEdJNVBqek5MeDJxOTJRanlhcGlOc1lLSkItaWpCMHdzeDNWZUtDNGN2RC15clhMYzhBZ2NpNA?oc=5"
     },
     {
-      "title": "Maureen Mahr von Staszewski Joins Heitman European Leadership Team",
+      "title": "Renewables Remain the Lowest-Cost New-Build Generation Despite Rising Cost Pressures, Lazard's 2026 Levelized Cost of Energy+ Report Finds",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRDBvZ3EzMHNwNGEwUGN3NDY0bEZwTmV1cjNLeGNhNlM0T2Z2aE5YRzh2MURBcFZfMXJ5SUdyQ0prbDdpbTE1aXc0WXNWOGwxTEUxbzE4ZE90cW5sYXc5V0RHZTdHTVRzVDgwY0pkaC1OV0VUUVNXZTNLSG1Wb1EtSE9VR0Q5S1pBdGNnNm1CaHhWWVdzb0tNS01GUFFFclRqU3hNclpKZ3hkUnBLS2w3eVFVMEg0TE9EZWc4dTJid3REMWRuTVZV?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOXzZKSVk4WDQxY1BlUXIxbkVEV3dmSlJhQ2JYclhDOHpPMWRJLVJYM3huc2ZkNjdQU0tjTWVlUVI2c29hc213Z2xtcVlYWmZNMWRuUC1Vd2JVaTFtNHFoYUFpZUVnNFhERkozVWR4ZXUxUHdNWG8zREl2UzFtQmplSEtva01qN1ZDVldFOTMxMjFqWWNCWlRZd18wdTJFa1dUZWxHMzlyV1ZfajBrT1ZObXRQS3NNdVNERUhSQkM5aEVidlZfUzVCTjdPV3ZnNEtCbjR0U3A2QUZYVnhrbDNJXzZ3cUkyb0IwV2V4d2tBR24wN1hpYzQ2MkwzTXFqMTZNSFJ6aEQ4TE5iMUtEdkttRjY4N3lCd2FvdF8weWFHRE8yZw?oc=5"
     },
     {
-      "title": "OB Streem, an H.I.G. Capital Portfolio Company, Completes the Acquisition of Med Frigo",
+      "title": "While you weren't looking, Israel's stock market became one of the best in the world",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF9JYVp6RlpiZGlZQm5FOS1veDlYUXlmS3lRb19NM3JuLWVLWi1aOEtSOHR4SzkxRDEyLUdKX0RrdlQyRmltM0J1Wkk3ZklXaEEteS1ROXg5eTFLVmlMOTFHRVBBOUEzS21sWXV5NzZzelVPaUN3UmVJZ1NnWXhZUmp3RnFBbzFoeDBZYWlKN1FUZWREbmJqYXNOYmNCRDhGam5tRW9WUXFVWWd5YmFDYTF1SW92a2VaRk93Q0JYcTYtMmVEbmx3U3NTemxwS1c0MW1ZZkVuZ2tzZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RRkVOenJJbGRqNnNZZE10RGhXNmU2eWM4bjFMUW90aE1JblE4dzBZN3Vfalhmbzl2ZVFlZF85MEhJS19xV2xxdUwxVGFVVkRpY0ljdUNRNVVOUVJCOXl1bkkxYURUcGRNeHo4Nw?oc=5"
     },
     {
-      "title": "If You Invested $1,000 in First Trust Bloomberg Nuclear Power ETF (RCTR)",
+      "title": "Sector & Industry Performance",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44ZWFpbFpPM1hjS3F3bHBaZWpBeml2RUY0QnpCcVdCTXRnb0t6NW95Qlg2M0lFaTN0akdiRWJfLUJnNVBPb1g3YjVzeWJRRGs1M28xYlVma29SWkZ3QzY0WV9QRERxNnZ1V3F5YWt3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWEtZUzJ1Y0JsejVfb1o5VkF5Z3BFdWVwYzdCcEJ6dWJ3N19uOFNoY2VaYnMtUVpLeTdSUE83a3pkTWtOQmpTUm01aEJteWVhNU5n?oc=5"
     },
     {
-      "title": "5 Best Biotech ETFs for 2026 and How to Invest",
+      "title": "If You Invested $1,000 in First Trust Balanced Income ETF (FTBI)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGtWWHJHVG9oaTVhQnBfSFV5X1prakJzX0F3Q2hwdFNPZnBsQlRCdDFrVHRBbmRLN2RVTXBtblBFbUpEMFU5QWhjc2xBRjY3WWI5RjRzZTdUdzhVSS1JUklvVVREdlRuakJoSVdlWVZxTGV3MVFqSUs1Zk1Rdks0djZhck9VTy1VbHd4cVV5SmpKTzBaM1B2WGdBaEZTVDQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tdFVGUTdKNmU1VUJXZGlyODhqOWVkUFdZU18wVk1JdnpNMFhHM19YSTlhaU55ZEhWY0lEMXl1a1hRYTloUHlSODZNR2Nud1BYeDVpRG9WT1YwTWJVRkZ0WnlMU0hhLXNSZ3NjNlpB?oc=5"
     },
     {
       "title": "Nippon India Nifty 500 Quality 50 Index Fund Regular-Growth (₹ 10.94)",
@@ -106,9 +111,9 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd1pPVHNCNkljR2hzaUNtd2NqNlJkMkV1VDg0VEZVUXBSWXJ5MkhBR0tqSVhiSTgtZzQweDlyNlJaN0tNX2k2eVFjbFhmczRFZ05zTkRLcERFOWhxMmlvcWR1TGYwWTNTNVZuNVdqaUhRbHdzWWJITFl2VnlwR2lySE5MRy1zdk9DeGRGdHNUZkJNZlFLckQxNWpONlVnWW5GN3p0Z09vTEIyOW9RT212US1wSk12S3c?oc=5"
     },
     {
-      "title": "4 Best Space ETFs to Invest in for 2026",
+      "title": "5 Best Biotech ETFs for 2026 and How to Invest",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41OGRsWk9MbklTOXVPcURhNUMyaThEZHlyLThQWFRPOVJyQmV2cXIyWDhqRTQxeHlmZWx4RDIyV3NxSEF0eW1xZWoyTGJ0VzhPYTlKRTBwTEJ3YWJrSUE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGtWWHJHVG9oaTVhQnBfSFV5X1prakJzX0F3Q2hwdFNPZnBsQlRCdDFrVHRBbmRLN2RVTXBtblBFbUpEMFU5QWhjc2xBRjY3WWI5RjRzZTdUdzhVSS1JUklvVVREdlRuakJoSVdlWVZxTGV3MVFqSUs1Zk1Rdks0djZhck9VTy1VbHd4cVV5SmpKTzBaM1B2WGdBaEZTVDQ?oc=5"
     },
     {
       "title": "Collateralized Loan Obligations: 5 ETFs to Consider | Investing | U.S. News",
@@ -124,16 +129,6 @@
       "title": "The Best Stocks To Buy Now For 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxaEtwOUtqTm12VU4xRjBrZU9lWWlFY3Ntc3ZKcllFT3lUV3pUbWJoRUVqbnBtbDdKLVJ6UGM5SjVKSktGdE9kdC1haGxZRFh4ckJFb3ZlVkZJeHp1dXY2NnJKUzNOWVBPLUpBRnFqZ3FCZw?oc=5"
-    },
-    {
-      "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Citibank Earnings Approach",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2FkMG42Rmh3aXFzM0xLX2hESGVCcnR6NW1MWjhiaFZjNGtST2pXOGY4dzVnUzFnQy13dHY5OGh0QzlnRjlxcmZrbEhEcGFtc00xWjY3S2g2NGZzTllfMzNMaGdWTmNfUEgyTEVRekF6aWZNLTRUOGNzcTRQVjdBb2M1c0Fia21VUTM1QWw2UXRodw?oc=5"
-    },
-    {
-      "title": "Fidelity, Vanguard and BlackRock are putting annuities inside your 401(k). They're betting you want pension-like income, not guesswork at retirement",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOZjhFRzlwaHY4aWdPQjBGeVdObS0xYlg2aUhUdHZ6OHVlMUI5c1lRS0pUUDZRU2dMS0hKeUNzRHdnTHNWZ2l6QjhhYWw3Y0FfRUpvejhxNGRyRDFkbmdoam52bXAySjlkSmYtajR2YTI4VnZqRG8xaHF4dGhjN2E4YWJQdC0tLXVWdTFabUtaYVludVZOQ3QxOVVlVmJTcDIwTmQzUUUtUjl0SnpXa1g4VldyYlEwSF8wbmNPTkV2SDNwWVVzYWJYTHduVmRjVmdtSzc5eGE1WGdza2JNTlZTeXc4WEdjN2p2SmxHVWdhcWhxb21XZkVtWXlhR1QySlJ4cnc4bld1NEhVQkc4WEFnekdLVzhVYWNyLU9vT0xMTQ?oc=5"
     }
   ]
 }
