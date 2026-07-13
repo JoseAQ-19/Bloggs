@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-12T09:01:43.595458+00:00",
-  "total_candidates": 11,
+  "scouted_at": "2026-07-13T10:22:19.544082+00:00",
+  "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "Ferrovial: ¿Por qué el 34% de potencial de inversión para 2026 la convierte en la joya española según Morningstar?",
+      "title": "Estudios Value se posiciona como el mejor fondo europeo de Morningstar tras dos meses de rendimiento excepcional en su categoría de inversión",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Estudios Value: Descubre cómo este fondo lidera el ranking europeo de Morningstar durante dos meses consecutivos.",
+      "title": "Ferrovial destaca como la mejor apuesta española para 2026 con un potencial de crecimiento del 34% según Morningstar y datos del INE",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Trade Republic vs Sabadell: ¿Quién ofrece mejores rendimientos en 2026? Un análisis comparativo que no te esperabas.",
+      "title": "Vanguard vs. Charles Schwab: ¿qué gestora ofrece las tarifas más competitivas en fondos en EE.UU. y cómo afecta a los inversores europeos?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,14 +49,24 @@
   },
   "all_headlines": [
     {
+      "title": "Estudios Value encadena dos meses como primer fondo europeo de Morningstar en su categoría de inversión",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa2hESjUwWURyRDhqMEY3VFNJN3ZJVHZkMWs4TTVUeFR2ZVZsN3N4SldHYTR4MmFlZVN2UEpkeGpCSHVzdW50NktiSE5pUWRnNUZZb3RwUlQ4aEhyY0NYQkszNzNIMHpJNjB0Um1xeW1SWHpKbXk5LUQ0WEVNNF9PWkJHRkJzSVAwamFnaVhlak5EOUQyYzRSVWhhZkxITE1OT2YwSDM5VE56SWtUMzROLUJ2NmtDa0xyZXRPVVJXNlR0cnBxSGU0RUo2T293TlY4N2xFREtONHhRMG11MmR6cDR5ZnVsS2_SAewBQVVfeXFMUFYzS2lJcDUxZjY2Z25iWkJISGZZanFTV0x1Rk5WTGozeS1LWXZ0Q2ltT2RiM2xUTjQ4ZUdzVjVhY2lBa3VOYXJSbDFwOUFFbzhTVEZlU2ZVekdUSTlKZy1GUjFtLVBTYmtHM1otdU5zMjZBRjVSRmF0bHowT2ZlZFNXUzRYelJaT1VEODRtLTlVdHE2Yi03ek15Y1M0eThtN3l6d2o2SGZhWUxhbE5Sa2JIaWh2c1dvUk5Ua1JyNS1sYmk0SnMtNXJNMjd6ckVaTkV0WTdDVUIySlI5UTZONGhHVC16UjNoRlM3YWI?oc=5"
+    },
+    {
+      "title": "Vanguard y Charles Schwab se coronan con las tarifas más bajas de fondos en EE.UU.",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmFvOFBzWWhLMjRKOWt4bmZqcl9vbzllSG9NdG1Qc0VpUXVYTDhZYU01T1I4N2QwbHpSd2ZuR2ktV2JCUnJaS3BCWmJSV0JSOTdKWm9NQ1ZjNElnV0VhSWRNcmU5RU9qd2ZsV2EtaWpSSTdhbGV3dm02TGt5UmxUQ2lCdElNemc0cWd6MWQ3Zmg0a0NKNVJXRk9Ud0VzMy1udWZJZG9lajRsM3h5Q3RxdGpOekFDOTh5SWlaTDByVjdSSmY0ZHZRRXhyUQ?oc=5"
+    },
+    {
       "title": "Ferrovial, la joya española para invertir en 2026 con un 34% de potencial según Morningstar y datos del INE",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeXpwdnVmdjJueDJsUmx0eVJvOFpUS2ZTbmRuczlXWlpScjRUbTlJQlRTLUlSMHQxa3FpMGZWaUExRlhRX3hObU1UTFlaNG5vRThqYnowWWJjd0pYX2FTQkxnOTU1dFp6UHdyQTYzQVlCMTc5aldFamlySmc1RUN4MW9ibjVlRk9LTjBIaGhaYXJrbXl6ekRIeFAwNndzaWtSX3QyRnBuSENOcHJ4VGlkYXVHZUxhT01Xb2picTVwX0haeDk4S09MU1lqbE1kREU4LWZuU1JYVnBlVG8tRlJab254c3FvWkw30gHuAUFVX3lxTE9jd0lwdlkwb3lBOUJUNnhvMXFCYzF3N0NNUnNUWWZyT255V1ItT1VQNmlZV1JUeHc4a2VEYVNaeXRGRzZNR0NHZ0taSDVfQmd6Y0F3STNVdTc1Rllwam9nTGttS3VQYmw3a2UwWkQxbzJRdEVRLXpLQjRGLWd4blV5cW1uS09rbG5KNkpvbGc4emhxMTU0cktOOUZnYVBZQzRaQmMzelg4NzBLNlgtcU1PQ0Z6Q3dMQmZSSnNjVGp1TF9JWXgyWlRHX2c3VXlDVzhZTHpicjZLUUxMc3dLSXkxalAzU2d5bFhvV0ozZ0E?oc=5"
     },
     {
-      "title": "Estudios Value encadena dos meses como primer fondo europeo de Morningstar en su categoría de inversión",
+      "title": "El fondo Paine Schwartz adquiere el 3% del grupo español agroalimentario AM Fresh",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSFdDOWtoeHlMYXFpTnUtY0VlcnVyYWVtYkt5QTBCd1lEdHpsZjUtX0xtS2lZMEhIUld5Ynl6MXUydGlzTmFlU3ZtbG9hTXBKSUpDMkxLZ1hJRTlNZFAzeW5YZlgtaVZoSzRCRFlwSjhmQUF4ejVTY2l0RTF4YWZIOHVlWXk1c2w0Nzh3MFg2QUprVG02Yk5hS0NpTFYwckF6X3psMHpGUW1haU9vYUdhSE9jM2NTWm54M1VKaThELVNoZENNR1lVRzhCWEw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1hUNlkwcGJLMWhXeUsxV1Bwdzlrdk4yWXhiYjlWOTVTUGgtUDNneEZRcTMyTko0ZzJMQ0JRVi03VmhMeXZxdENLeWF1WnZOX25vaXpOOURzQUVHNkJFUmRnTkdVeFdZQXRkVE42SVdrWnVxMHd0aVRoaU04VzNtd2VOZ1UtV3p2b2JsbjV6cUxKYzR1X3MwNkltemRvUHZCQlkwVTVLMmVaY21NaE9lcDJKZmRmUnJoUnJ4eEtBWC1VU2laU2ZfQmJXbUExUdIBzgFBVV95cUxNd1hUNlkwcGJLMWhXeUsxV1Bwdzlrdk4yWXhiYjlWOTVTUGgtUDNneEZRcTMyTko0ZzJMQ0JRVi03VmhMeXZxdENLeWF1WnZOX25vaXpOOURzQUVHNkJFUmRnTkdVeFdZQXRkVE42SVdrWnVxMHd0aVRoaU04VzNtd2VOZ1UtV3p2b2JsbjV6cUxKYzR1X3MwNkltemRvUHZCQlkwVTVLMmVaY21NaE9lcDJKZmRmUnJoUnJ4eEtBWC1VU2laU2ZfQmJXbUExUQ?oc=5"
     },
     {
       "title": "Alibaba: un centro de datos impulsado por el Estado podría reducir los ingresos por servicios en la nube",
@@ -64,44 +74,24 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTmplWjN5c3VyVWhIQ0xfYmg2TmVkS0RhWFd2WXplZ28xeU1CMy1KTWVQaC1oeDBtMnk4aWd6U2NPVTlkaFJpc0JTMVVrekd4OGRTRWpBZGExejVSNjJKRk5YUTZhcGRnMlZ2SXBheklzMUxKc0FlYVVRWUt3TmlTdWdUOXpxYXZGYUprWXk0TkZsTWZwQy1ub0JSM010dVVJWUhZSDF4cG45UEJ1cHU4a2dhNjBMWlNtZE1MSWxteHVQT1laZG8yOVVNQzhyd1A0Tlo5NzBkNGJKUFZmX3c?oc=5"
     },
     {
-      "title": "Mejores depósitos bancarios a plazo fijo 2026 (julio)",
+      "title": "La Bolsa española abona 26.399 millones en dividendos en la primera mitad de 2026, un 21,65% más",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTFVJMHotcXhKMnpIcjVRLWd5NmZJbTc1NS1QSWNabzN3OV9yOUlmOGdvODBHSENTVGsza2duZWFfdk8wYUNhTHhDMFZtd1E5dDBCM0hyU3NCNVdRNzJWSzBvZkdRZTZTTEJxYndHbnVGZW5raW1kOFlkMnpRXzRQbmIyR1ZWU1ExZm9Pc05lSThTY05zYVN4cFdkdEhzajhrTUdZOThqUU51Q3ZRQnRXeG9tU2c2QjU5OTB4MGZORjZ5SmllVk95bmszaFZyS2hJdjBzQk1NZTVPY0tMeDZwOA?oc=5"
     },
     {
-      "title": "Mejores neobancos para ahorrar e invertir (2026)",
+      "title": "Los mejores dividendos del Ibex 35 en este momento",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYnJLUHJRUlNXRWs3ZEVtTnlWSGhncVdZTjBteWZHYW1kRllzWTRpdFFRVDE3MG5pNFlFLXNrbWctdFhDVkVXOFVkNFdBZHM2NzVHTnNZbXh0RmN1R0xjM0NxdWpjakVRZEVBSmxOV3JNZjdmYmt1MWY3d0RSOEprbWRKUUpnOVE0WXRIeVdPQTVSckpHWWRRYVlqMA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaEw0TnNvZEYxTlZrOURuV0VjeVlPSTZNeUEwU3BLT3d6RU05eUpsY0pDQTZSd3BwbmtQQnJpcGlNdThQai01bTQwZzhXRHcyalMyNFRyWXBYenZaLVRSQ3JleW1QRHRHejh2UWY0UUYxYVRqS2RMWHRwTzlmbDM3MXV0ODVwc19haUlpSVB4MkwwMmItbkJrWkVLTXRNT3VtMllwU05zNV9UQWIzaF9yS3Z5d0lXMTdjekVJMdIBpAFBVV95cUxNM0Y1aHd1aEdmSG5WV2N6Ni1ncFpWNm0zTjdtQVd2cjVtSE1rdmROT1BXRmlLREEtcngwRk1ZRDc0S25yZXFzaFlXZ1lOZ0V1OFdoTnFqYng4Z19Wb1JOMlJhN3d5eWxHWHRIV21nWm9UZF9YUU05czlack84Nzc5dWhqTzV1NXFBbVBhSzh4bWRZa3hQeFFOeXRxb0dySVFpRmhJNw?oc=5"
     },
     {
-      "title": "MyInvestor: opiniones y análisis completo del roboadvisor (2026)",
+      "title": "Vanguard y Charles Schwab se coronan con las tarifas más bajas de fondos en EE.UU.",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNnFwdlItSHZUUVB4MXd2djdwMkpyaDNKRHpNVlFIMTBxTVBtbHU5MU94MWJPLWMzTVVRSjhkc1U4SGhnR1lnRnlHbHF2WW1WOUpGa0JwUU5ONE9mVTdMcnVBSE9oT0hLUVJoZTdVS29tbGxDcjI3alFqUDBFa2pELXFJNUxrS20yRGFYemx4U2FFVEc0RW9yaWVvNURLLXdTSERj?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmFvOFBzWWhLMjRKOWt4bmZqcl9vbzllSG9NdG1Qc0VpUXVYTDhZYU01T1I4N2QwbHpSd2ZuR2ktV2JCUnJaS3BCWmJSV0JSOTdKWm9NQ1ZjNElnV0VhSWRNcmU5RU9qd2ZsV2EtaWpSSTdhbGV3dm02TGt5UmxUQ2lCdElNemc0cWd6MWQ3Zmg0a0NKNVJXRk9Ud0VzMy1udWZJZG9lajRsM3h5Q3RxdGpOekFDOTh5SWlaTDByVjdSSmY0ZHZRRXhyUQ?oc=5"
     },
     {
-      "title": "Endesa paga hoy un dividendo de 1,084 euros por acción",
+      "title": "Mejores ETFs de energía para invertir en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY2ViT1YzWVhEUlJ6ZmExV2xhZ2FtelBVMWRCRWhrd2FUazRUU0gwdWpJQ1NBSVFLRzVxUHZVYWpjdHFKVW90Q2s0ZGtzTkpwZ18xY0lQQnpVY0JrUDFEM3hSbFVWdlk2QWx0SkZrTVdsVGhNal9tTFFTUmZ4NTdobVI0WHpIa2QzRWJTb1o5NkxBTlc0NXowdzRFeERIUXp0Vkc3d1BCMXhjZGc?oc=5"
-    },
-    {
-      "title": "Repsol, Endesa, Iberdrola y más: ola de dividendos en el Ibex 35 en julio, fechas e importes",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV2xvcEUtbHY0TldFVG1EUmNxUnNWV3lWdTdQa2NoUFNhTG00VjN6VmlIQUJpZ3k4UEh4NVkwejczZHRJeVZ0bFpRS2lhcHhac1doSnJzajhNdnhJc2NaRFdYUWZOdXBNR2lCSDhKM3hkeks4YVZlQ3BydzR2cklObjBwd2N0c1A0dDJfb1htUmVIUHJHcUczMHJlUDVQeDh0cjZCaWFTb3BYWV81THhuXzJyNTVCUXFUcF9iX01zOTVPZ1N0eGRsdDdQbTFVaDBTY1QxbGUwMXc?oc=5"
-    },
-    {
-      "title": "Finnk: opiniones y análisis completo del roboadvisor (2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWROMEI4R0NKY0xLS0d3XzZBR0U0TjgzeHFidVhiT3A3NlNWR0V4djZwRlIwY1liWXNXSTJNUkNmbEdiaVdDc19LT0taSUxUbGwwVF9BcV82c0RUcmZfWjRnazVwOHJWTE9VdlNpTmFZZ2l4anBNT2dXT082MDFXZDlhalc?oc=5"
-    },
-    {
-      "title": "Trade Republic vs Sabadell: ¿quién paga más por tu dinero? Comparativa 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSkxOQnFXWTMyaTVSUFJQNkt6Q2VCTlVOMDA3MFQ1eUZSUGVENTB5dGNpM1BWY3NnXzljTE9CV2twWncwMnZoamFLcXRNaUw1QUFGck9FVmlUTmdWRVo0V3JjVXhxeWZuVXFqT2J4WWc5UjdCS3hteUxqOW1CcXhDODc1N3FscGRPSEV6djMwTGxqejFNZDVid2V1N1kwRXFmbmZrZVAxVTI2UlF3Q2pMY1VWZWZLVWlmQTBqeXFOSQ?oc=5"
-    },
-    {
-      "title": "MyInvestor: opiniones y análisis completo del roboadvisor (2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNnFwdlItSHZUUVB4MXd2djdwMkpyaDNKRHpNVlFIMTBxTVBtbHU5MU94MWJPLWMzTVVRSjhkc1U4SGhnR1lnRnlHbHF2WW1WOUpGa0JwUU5ONE9mVTdMcnVBSE9oT0hLUVJoZTdVS29tbGxDcjI3alFqUDBFa2pELXFJNUxrS20yRGFYemx4U2FFVEc0RW9yaWVvNURLLXdTSERj?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xa0VMekJkYXdpRGpkdlpOS3l1UlFFMjZVN0k5Zy1CMi02RVNEdl9QTzlNMURrYlhDVk45OFVvX1o5MnF0SzZxcjNOOFR3d19tT0tpMFZYalpYTzNNTTZ1QzNvdnZKRGlLZzlaMA?oc=5"
     }
   ]
 }
