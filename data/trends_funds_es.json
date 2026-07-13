@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-13T10:22:19.544082+00:00",
-  "total_candidates": 9,
+  "scouted_at": "2026-07-13T10:23:34.797409+00:00",
+  "total_candidates": 8,
   "topics": [
     {
       "rank": 1,
-      "title": "Estudios Value se posiciona como el mejor fondo europeo de Morningstar tras dos meses de rendimiento excepcional en su categoría de inversión",
+      "title": "Estudios Value encadena dos meses como primer fondo europeo de Morningstar en su categoría de inversión",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Ferrovial destaca como la mejor apuesta española para 2026 con un potencial de crecimiento del 34% según Morningstar y datos del INE",
+      "title": "Vanguard y Charles Schwab se coronan con las tarifas más bajas de fondos en EE.UU.",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Vanguard vs. Charles Schwab: ¿qué gestora ofrece las tarifas más competitivas en fondos en EE.UU. y cómo afecta a los inversores europeos?",
+      "title": "Ferrovial, la joya española para invertir en 2026 con un 34% de potencial según Morningstar y datos del INE",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -62,11 +62,6 @@
       "title": "Ferrovial, la joya española para invertir en 2026 con un 34% de potencial según Morningstar y datos del INE",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeXpwdnVmdjJueDJsUmx0eVJvOFpUS2ZTbmRuczlXWlpScjRUbTlJQlRTLUlSMHQxa3FpMGZWaUExRlhRX3hObU1UTFlaNG5vRThqYnowWWJjd0pYX2FTQkxnOTU1dFp6UHdyQTYzQVlCMTc5aldFamlySmc1RUN4MW9ibjVlRk9LTjBIaGhaYXJrbXl6ekRIeFAwNndzaWtSX3QyRnBuSENOcHJ4VGlkYXVHZUxhT01Xb2picTVwX0haeDk4S09MU1lqbE1kREU4LWZuU1JYVnBlVG8tRlJab254c3FvWkw30gHuAUFVX3lxTE9jd0lwdlkwb3lBOUJUNnhvMXFCYzF3N0NNUnNUWWZyT255V1ItT1VQNmlZV1JUeHc4a2VEYVNaeXRGRzZNR0NHZ0taSDVfQmd6Y0F3STNVdTc1Rllwam9nTGttS3VQYmw3a2UwWkQxbzJRdEVRLXpLQjRGLWd4blV5cW1uS09rbG5KNkpvbGc4emhxMTU0cktOOUZnYVBZQzRaQmMzelg4NzBLNlgtcU1PQ0Z6Q3dMQmZSSnNjVGp1TF9JWXgyWlRHX2c3VXlDVzhZTHpicjZLUUxMc3dLSXkxalAzU2d5bFhvV0ozZ0E?oc=5"
-    },
-    {
-      "title": "El fondo Paine Schwartz adquiere el 3% del grupo español agroalimentario AM Fresh",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1hUNlkwcGJLMWhXeUsxV1Bwdzlrdk4yWXhiYjlWOTVTUGgtUDNneEZRcTMyTko0ZzJMQ0JRVi03VmhMeXZxdENLeWF1WnZOX25vaXpOOURzQUVHNkJFUmRnTkdVeFdZQXRkVE42SVdrWnVxMHd0aVRoaU04VzNtd2VOZ1UtV3p2b2JsbjV6cUxKYzR1X3MwNkltemRvUHZCQlkwVTVLMmVaY21NaE9lcDJKZmRmUnJoUnJ4eEtBWC1VU2laU2ZfQmJXbUExUdIBzgFBVV95cUxNd1hUNlkwcGJLMWhXeUsxV1Bwdzlrdk4yWXhiYjlWOTVTUGgtUDNneEZRcTMyTko0ZzJMQ0JRVi03VmhMeXZxdENLeWF1WnZOX25vaXpOOURzQUVHNkJFUmRnTkdVeFdZQXRkVE42SVdrWnVxMHd0aVRoaU04VzNtd2VOZ1UtV3p2b2JsbjV6cUxKYzR1X3MwNkltemRvUHZCQlkwVTVLMmVaY21NaE9lcDJKZmRmUnJoUnJ4eEtBWC1VU2laU2ZfQmJXbUExUQ?oc=5"
     },
     {
       "title": "Alibaba: un centro de datos impulsado por el Estado podría reducir los ingresos por servicios en la nube",
