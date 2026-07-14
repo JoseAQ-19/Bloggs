@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-13T11:35:32.263732+00:00",
-  "total_candidates": 17,
+  "scouted_at": "2026-07-14T09:05:29.238661+00:00",
+  "total_candidates": 14,
   "topics": [
     {
       "rank": 1,
-      "title": "Lazard Reports June 2026 Assets Under Management",
+      "title": "XOVR Expands Private Market Strategy with $30 Million Investment in Kalshi",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "European private markets fundraising remains under pressure: Morningstar",
+      "title": "Campbell Global Appoints Michael Barbara to Head of Global Acquisitions",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Index funds deliver strong 2026 returns as advisors recommend rebalancing",
+      "title": "Lazard Reports June 2026 Assets Under Management",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,44 +51,44 @@
   },
   "all_headlines": [
     {
+      "title": "XOVR Expands Private Market Strategy with $30 Million Investment in Kalshi",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLUVieDZfVENSdjZvUS1oSGVqTlRDUnRhaDg3bDgyNzQwSWRRc1BmbEszVlUwNVF6ZVhyV1hZd3o0dUoyNGJyMkpPc3ljbUtURWV6bXVQdTlTbm5rSl9yaDFadld5T20wNmR4YnE5d0JVNEdrTWtqLWRwNmtMbklvNjlHSm5UcHJrZkhTMTh4M0JwMUlfVEVkUDBMZkFCbUF1R3g3S2Z1eElVY29BSHhuUWtlMEZkbXVIRjFEYm1FT0I2QUZFUWttZ1BlUXFSVXM?oc=5"
+    },
+    {
+      "title": "Campbell Global Appoints Michael Barbara to Head of Global Acquisitions",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb2wyOE1IamtEc182ZkNXWS1ua2t4VDRQUlpaX18wY3RrSFZyempKV2ZtZ2FNeEpnLUJhajRmNWN6U2RoZk5Ub3RINTJuN0Jrd01SN29tV0NVMEFQNFAtbEVjMFJqdy1UN1U4ajgzbFIxLUJLMzNMZVhHMXJvSDd3eXZ6VXdaaEZYY2FzNFg1WU9LTktoa0wtbEdZc1hOUTFzYzhYVkFKLVRFQnpJeE9TcDdBVk9JSnVKUW5ManZGczlHNFJOcjUzNXRCOEg?oc=5"
+    },
+    {
       "title": "Lazard Reports June 2026 Assets Under Management",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTFVMY081ZDJtTUpURXp0dmloZmpidE9pZVhNNDhHalhTVmpKOXVlajVwaXpIRnlKR2hLT0t3UUp3azl6QWVKd3VxemwtaWhmZmhTRktJNS1XREFQQmpwSUNGbXVCaFR5RnZfR2RIM3dHbHZTTUM3YzdQQ1ZqeFdJR1ZnTWs5NFljVEl5dm1KSjhDY3ltaTVFWXAtSnQ1c2tSb2JkTXVQd3VyWlYyb0E?oc=5"
     },
     {
-      "title": "European private markets fundraising remains under pressure: Morningstar",
+      "title": "Where Fundamental Analysis Meets the Chartists: The Launch of Defiance’s RANK ETF",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdndTWkFobVBhRlJMM0o4Ui01X2VWenpxNk5aUVhlclJGVE1Da0NHaksxR2x1MkY0Q3lHYjRqRVQ2emR2TnI3aHBzcG5DdUxNX0V4Z0dDSnExaTlCclQ5YzFoRlhtV1lBY2VHWXhvdW9tVjhaWEJJeW9rRDhQOXVSQUVCSVlEX2NUSXhoYnVsMEdlRlBFRVQ5aXhyVDAzdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObWFDM0dTZXYtZFZIaGhldUFkaE44WWM2T3VNSEVRNmU5Y3VDMDNjcTFHd2FrNzV5V2JYWXRkb2JIYUVDcXpFX0dPNFdVZnRMeWFaalJZMkEwV2lXbTY1RkRmX2JTVDI3aTk0THl3TFd1Q0x3c1JMX1NTRk4xOFZQRm5LZkJ5RlkyY1VnSkhkNA?oc=5"
     },
     {
-      "title": "Index funds deliver strong 2026 returns as advisors recommend rebalancing",
+      "title": "Morningstar picks 4 Asia equity funds",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CejczMzhlbGZjYVZicUtSdFJsTjRmNDZZNXh0bk9uZ3ctVTYySndGcUlENzNWV1JHTWNpV3FXQ01CX2VlQ21PNHFHR1luYkVhQTFTaUxITWsxOEZJMFdfRXgtekszWXZ1cHcydGw5SHh6VkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tU2tJSFlReUJIQ3YyVjlLa1FDZGVudVY5OEpqTTdMUFJvU2V0WU9mTlFHNW5HNG1idmZybFBnTFAtb2JScTFtWlBnS0xhRUJadmxGRUc4aWNpa3p4d0h6emhwcmpDRGxUN2RWczQxWFR4bWM2d1E?oc=5"
     },
     {
-      "title": "Investor Focus: FTSE 100 Outlook, easyJet Bidding War, SpaceX Warning Signs",
+      "title": "Causeway Capital Management Named Mutual Fund Provider of the Year by InvestmentNews",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMnJCTWpKMnVHTVViT2dVU21RVFRvMDN4Z3V1ZFpiR1owcGlnWGlodTlub01WY19YcmU2NVMwaGtUZkVBRWNldzJzOHQxaUIxX1lwOVh3T2NiU3pjeV8yRDVZOURqVXJGR2gyODVFQkNzRzVYU253MHp1Zk9BSGEyOGRwYTlUdUxKNXdDQlQ3WTUtcXF3eGwzMEZjZC1IRTdDMUZVSW9BTkR4YzBhOFJKaUk4OWdRTGxW?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMHFfd2piMTBUaWJkQ3liVlFDSTZodXU0SmRNdWdpVmhSZVVMdHVCczJZS1dvQU1kZ29KTER5cW1LSjNieGVaNEh1ZU1fUzJvczg0N25SX2Y3Z2kxV3dJTVZJV1hJNHU4djlsMmNibVRBaFRwam42T3JveFpRX3AxRC1ZVUJwUU1rVEkzbXhOSUw0c1ZIaW54TnljeHpRMGJ5aUNwcTlPX2hjNWdacHZYbk9uLTZPQ1VvWTJ3VUdiSURUdWRiNXdLcGZ6d2FDVUR6dEFJNzBiN2Y?oc=5"
     },
     {
-      "title": "Cathie Wood buys $22.8 million of surging tech stock",
+      "title": "My Investment Path Hires Tomás Ulloa for Wealth Management",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JeW9wOXU2VmxxRVdUZHU5VDBkb2FVamU1SVpOZFBWNjc5eE5LNVdsd0dvTzRRbEhaWGJKb0ppY0lrUHc5SFhVZkgzSksyNG1yUmNzX19TcVJ1SF9JUnpORnJpck00Sk9KWDN4UFp5UmhDMThFemoyVDVn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX2JiM1loZTBJM0pSUW1pd1Zmbmc2OFRlc1FNXzR4dGlfWDJwVUlqbGphdkdkdVo3aExweE02SElJa1NQY0VGR09teWktemZvY0JtWTJQUkJwSWhteW1RQmNXSXhBSkpTN01BYjhNRmw4dEVPNmpBRWFKYXZuWHdadU1tVUNIdFlkZFg1YkhrOG1IRVlJVHUzZDJNcVY0UjlCcGVQVzRDMlZOUDZjWXllOTZsUDYwYVFSNVVJYzZwaFQ4dw?oc=5"
     },
     {
-      "title": "The Great Migration: ICI Data Highlights Shift From Mutual Funds to ETFs",
+      "title": "The Best (and Only) Dow Jones ETF to Consider in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd2FHVmNmMFdCMXpCeEVqcjZxc3RpdHJBbVZtbTliY3ZOZ3NveTJpektFZnBiUkNVczhVcmRPN0JZYmxOM0xkZGZ4RjNhLVpYWDRoOWFSVm15UlFVZUI0SDZuQUVteVdVYy1HTzRfcGdSM1hURWdzbUUzMXJGZWUtT0llQVAzR01Dd1ZIMWRWRQ?oc=5"
-    },
-    {
-      "title": "Vanguard’s most boring fund may be your 401(k)’s best friend",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLTZQbHRVZVF3ZVdNdlRzWWprMUxlVGdqdmlOVTN1T3hINlNtdGV3WGpnTzRNRGdfX3VwVUlDUlhVTEdKYURUSnR0WVlCM1daYUxMcjktdXhvajgwVVFSNnJrNEhPRVN2dFVqY1piOUw2MF8wcDBLVlpGQ1hMM0MwcUxOMk5zV2NOUWVkNF9R?oc=5"
-    },
-    {
-      "title": "Maureen Mahr von Staszewski Joins Heitman European Leadership Team",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRDBvZ3EzMHNwNGEwUGN3NDY0bEZwTmV1cjNLeGNhNlM0T2Z2aE5YRzh2MURBcFZfMXJ5SUdyQ0prbDdpbTE1aXc0WXNWOGwxTEUxbzE4ZE90cW5sYXc5V0RHZTdHTVRzVDgwY0pkaC1OV0VUUVNXZTNLSG1Wb1EtSE9VR0Q5S1pBdGNnNm1CaHhWWVdzb0tNS01GUFFFclRqU3hNclpKZ3hkUnBLS2w3eVFVMEg0TE9EZWc4dTJid3REMWRuTVZV?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXTDBMam9IbVdQbU4zMHJ3Wmh2YWdQcjIzSXNiVk9ReGtIZlRKLTEyTkxnTHpiS2U0c3JFVDBOamhfaHY1bmF0Z2pXQWxYcjFfZ1g1bjlOcjNqNXJlRXliMUVEclJyd0FsNWNNck50ZzRwT1FXdnc?oc=5"
     },
     {
       "title": "While you weren't looking, Israel's stock market became one of the best in the world",
@@ -96,44 +96,29 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RRkVOenJJbGRqNnNZZE10RGhXNmU2eWM4bjFMUW90aE1JblE4dzBZN3Vfalhmbzl2ZVFlZF85MEhJS19xV2xxdUwxVGFVVkRpY0ljdUNRNVVOUVJCOXl1bkkxYURUcGRNeHo4Nw?oc=5"
     },
     {
-      "title": "Sector & Industry Performance",
+      "title": "If You Invested $1,000 in Avantis U.S. Quality ETF (AVUQ)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWEtZUzJ1Y0JsejVfb1o5VkF5Z3BFdWVwYzdCcEJ6dWJ3N19uOFNoY2VaYnMtUVpLeTdSUE83a3pkTWtOQmpTUm01aEJteWVhNU5n?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZdlVPYzJ3NUlUbGFfMFgwSFRUYnpTN25paTMyM1k3RFE2XzROS01Ra3k0dnZDajhvT1Qtc3JtaWFDaTN6WjNqb1lOc0lkVTgxX3VuYVFQWGRDSGRkQTI1U2szUk9qMG02LW0zZzlB?oc=5"
     },
     {
-      "title": "If You Invested $1,000 in First Trust Bloomberg Nuclear Power ETF (RCTR)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44ZWFpbFpPM1hjS3F3bHBaZWpBeml2RUY0QnpCcVdCTXRnb0t6NW95Qlg2M0lFaTN0akdiRWJfLUJnNVBPb1g3YjVzeWJRRGs1M28xYlVma29SWkZ3QzY0WV9QRERxNnZ1V3F5YWt3?oc=5"
-    },
-    {
-      "title": "Nippon India Nifty 500 Quality 50 Index Fund Regular-Growth (₹ 10.94)",
+      "title": "Nippon India Nifty 500 Quality 50 Index Fund Regular-Growth (₹ 11.00)",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd1pPVHNCNkljR2hzaUNtd2NqNlJkMkV1VDg0VEZVUXBSWXJ5MkhBR0tqSVhiSTgtZzQweDlyNlJaN0tNX2k2eVFjbFhmczRFZ05zTkRLcERFOWhxMmlvcWR1TGYwWTNTNVZuNVdqaUhRbHdzWWJITFl2VnlwR2lySE5MRy1zdk9DeGRGdHNUZkJNZlFLckQxNWpONlVnWW5GN3p0Z09vTEIyOW9RT212US1wSk12S3c?oc=5"
     },
     {
-      "title": "5 Best Biotech ETFs for 2026 and How to Invest",
+      "title": "Beat the Market Like Zacks: Micron, UnitedHealth, J. M. Smucker in Focus",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGtWWHJHVG9oaTVhQnBfSFV5X1prakJzX0F3Q2hwdFNPZnBsQlRCdDFrVHRBbmRLN2RVTXBtblBFbUpEMFU5QWhjc2xBRjY3WWI5RjRzZTdUdzhVSS1JUklvVVREdlRuakJoSVdlWVZxTGV3MVFqSUs1Zk1Rdks0djZhck9VTy1VbHd4cVV5SmpKTzBaM1B2WGdBaEZTVDQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVpNRFZkTW14MW4wVEZOTHNJelVzd0NnV3JSREllaHJYa0Z0TmVObzNMRnREQUQyR2xxeDNKRGxqYVRmRlhJY1VUcTRFOG9qa1hwVUtUYjFVLVZUczROYllhOXZucHFLTW5YYkxvRGplNXlzZTBDamdkdXZtR0ZKTEt3WllJdTlXY2tTd3hWWVBoeUZnY0hTcTFpZFpLeDhoTDdhZ29lZFpDbXVhODdkMndnZDJpYVRicDZoQTdJYkk?oc=5"
     },
     {
-      "title": "Collateralized Loan Obligations: 5 ETFs to Consider | Investing | U.S. News",
+      "title": "Best global ETFs to watch in July 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYUs5V1JDVkprdFdjbFZTUHFxRFVxaWhKUHBMNTFfRVFFUTBidXc3MFNVV3BGN29FOTYySjdBRDJ6Mnp2VWpELXZkSHZhRzRpdWdlSEVTZ2xmc0V0YlRCSUliZV9yS2doZ2c1Z0FTU2VnYjlEb1NROElscloyemh3WlRkaWt0cWc4emw4ZG9zT3VjeGlKa0VZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SWVhfWGllNG9JekM5MGlkdHNDVVJjdjZ1ek9yT1R6UWR4WE5tQ3RoaS1BeHEwMUJ6YTlVTURmZXBZZTJ3dVlkdXNDSnpqeU9kUTBGLTdCU0E5RnVtZXdrNkR5YlRSZDlyZmlVZ21IcGFJcjh4SnYzQVdtY3B3dw?oc=5"
     },
     {
-      "title": "VOO Just Crossed $1 Trillion. Here’s the Hidden Risk Nobody’s Pricing In",
+      "title": "Best Ways to Invest $50,000: 9 Proven Strategies",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeUs5STNNdlJQR1N5WUxrUjFQNXk2ckFCTk03ODZlNG1ha1Jad0FMRHhtWDRzWVNpTWtyaEdDOTR6bUFOZGtEWEp1SUE3S285b2RKRFFzeDZrc0Z0OXpXcE9kU2U4RkREN2lUNk5HZm93TkNVZkd5bnMyWkZSUXVaWFI3bW9heUZIMXN1ZTZsMkR4Q05TeFBMdTJPTWY5OThmLVRFNk96a1BZTFVGSGNsYTJ3?oc=5"
-    },
-    {
-      "title": "The Best Stocks To Buy Now For 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxaEtwOUtqTm12VU4xRjBrZU9lWWlFY3Ntc3ZKcllFT3lUV3pUbWJoRUVqbnBtbDdKLVJ6UGM5SjVKSktGdE9kdC1haGxZRFh4ckJFb3ZlVkZJeHp1dXY2NnJKUzNOWVBPLUpBRnFqZ3FCZw?oc=5"
-    },
-    {
-      "title": "Fidelity, Vanguard and BlackRock are putting annuities inside your 401(k). They're betting you want pension-like income, not guesswork at retirement",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOZjhFRzlwaHY4aWdPQjBGeVdObS0xYlg2aUhUdHZ6OHVlMUI5c1lRS0pUUDZRU2dMS0hKeUNzRHdnTHNWZ2l6QjhhYWw3Y0FfRUpvejhxNGRyRDFkbmdoam52bXAySjlkSmYtajR2YTI4VnZqRG8xaHF4dGhjN2E4YWJQdC0tLXVWdTFabUtaYVludVZOQ3QxOVVlVmJTcDIwTmQzUUUtUjl0SnpXa1g4VldyYlEwSF8wbmNPTkV2SDNwWVVzYWJYTHduVmRjVmdtSzc5eGE1WGdza2JNTlZTeXc4WEdjN2p2SmxHVWdhcWhxb21XZkVtWXlhR1QySlJ4cnc4bld1NEhVQkc4WEFnekdLVzhVYWNyLU9vT0xMTQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53Z3J6eXk4d1Bob2k2Nk5WVk1kZzZTTExFTDdZZl9Xek5VenFWS0xKSW1oRXd0bkJpTVZReWNLTXAzeUNtdDBxbjloSkRGM2JhZmluNHBialM2RzZqY05Tek1sTzA5cWNaTGU5ZF8zTWo?oc=5"
     }
   ]
 }
