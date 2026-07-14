@@ -2214,3 +2214,4 @@ youtube: Crea anuncios de productos para TikTok y YouTube con IA: ¡Casi gratis 
 youtube: YouTube Shakes Up the Awards Scene: Why Its Emmys Matter More Than the Webbys
 youtube: Trending Now: The YouTube Videos Everyone's Talking About!
 viral: La Traumatóloga Geek revela los secretos detrás del contenido médico que arrasa en redes sociales
+fitness: Unlocking the Secrets of AI: How Language Models Are Revolutionizing Fitness Predictions
