@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-14T09:02:28.096129+00:00",
+  "scouted_at": "2026-07-14T09:03:53.255198+00:00",
   "total_candidates": 8,
   "topics": [
     {
       "rank": 1,
-      "title": "Estudios Value: El fondo europeo líder de Morningstar con un rendimiento excepcional durante dos meses consecutivos",
+      "title": "Estudios Value lidera el ranking de fondos europeos de Morningstar con un rendimiento excepcional durante dos meses consecutivos",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Ferrovial: La inversión española con un potencial de crecimiento del 34% para 2026 según Morningstar",
+      "title": "Ferrovial destaca como la inversión española más prometedora para 2026, con un potencial de revalorización del 34% según Morningstar",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Vanguard y Charles Schwab: Comparativa de las tarifas más bajas de fondos en EE.UU. que sorprende a los inversores",
+      "title": "Vanguard y Charles Schwab se destacan en EE.UU. con tarifas de fondos que establecen un nuevo estándar de bajo costo",
       "lang": "es",
       "source": "llm_selected_finance"
     }

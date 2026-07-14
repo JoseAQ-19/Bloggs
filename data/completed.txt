@@ -2215,3 +2215,4 @@ youtube: YouTube Shakes Up the Awards Scene: Why Its Emmys Matter More Than the 
 youtube: Trending Now: The YouTube Videos Everyone's Talking About!
 viral: La Traumatóloga Geek revela los secretos detrás del contenido médico que arrasa en redes sociales
 fitness: Unlocking the Secrets of AI: How Language Models Are Revolutionizing Fitness Predictions
+funds: Estudios Value lidera el ranking europeo de Morningstar con un rendimiento del 15% en dos meses
