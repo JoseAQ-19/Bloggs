@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-15T09:08:01.476054+00:00",
+  "scouted_at": "2026-07-15T09:09:24.609268+00:00",
   "total_candidates": 13,
   "topics": [
     {
       "rank": 1,
-      "title": "El fondo Estudios Value se posiciona como el líder europeo en su categoría: ¿Qué lo hace destacar por dos meses consecutivos?",
+      "title": "Estudios Value: El fondo europeo que lidera el ranking de Morningstar durante dos meses consecutivos",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "80 analistas bajo la lupa: descubre cómo un nuevo fondo desafía al MSCI World con 2.500 empresas en su radar.",
+      "title": "Vanguard y Charles Schwab: Descubre cómo sus tarifas más bajas están revolucionando el mercado de fondos en EE.UU.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Vanguard y Charles Schwab: ¿Cómo sus tarifas más bajas están revolucionando la inversión en fondos en EE.UU.?",
+      "title": "26.399 millones en dividendos: Un aumento del 21,65% en la Bolsa española en la primera mitad de 2026",
       "lang": "es",
       "source": "llm_selected_finance"
     }
