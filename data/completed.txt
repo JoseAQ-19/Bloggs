@@ -2250,3 +2250,4 @@ funds: ICI Paper Reveals 6 Trends in Tokenization Impacting Mutual Fund Performa
 ia: La ULL y su innovador proyecto ERASMUS+ que evalúa el talento estudiantil con IA
 ia: EU Forces Google to Open Up: A New Era for AI Competition
 tools: Alyco Tools y la SD Eibar: una alianza que perdura tres temporadas
+tools: Revolutionizing Car Development: How GM's AI Tools Slash Timelines
