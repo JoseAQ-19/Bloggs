@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-15T09:09:24.609268+00:00",
-  "total_candidates": 13,
+  "scouted_at": "2026-07-16T09:10:44.390441+00:00",
+  "total_candidates": 11,
   "topics": [
     {
       "rank": 1,
-      "title": "Estudios Value: El fondo europeo que lidera el ranking de Morningstar durante dos meses consecutivos",
+      "title": "¿Puede el fondo Estudios Value mantener su liderazgo tras dos meses al frente del ranking europeo de Morningstar?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Vanguard y Charles Schwab: Descubre cómo sus tarifas más bajas están revolucionando el mercado de fondos en EE.UU.",
+      "title": "Vanguard lanza un fondo global de renta fija activa de corto plazo: ¿es la solución para la volatilidad del mercado?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "26.399 millones en dividendos: Un aumento del 21,65% en la Bolsa española en la primera mitad de 2026",
+      "title": "80 analistas y 2.500 empresas en la mira: ¿cómo el nuevo fondo desafía al MSCI World y qué significa para los inversores?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,9 +49,9 @@
   },
   "all_headlines": [
     {
-      "title": "Los que los inversores deben tener en cuenta para el segundo semestre de 2026",
+      "title": "La IA está globalizando muchas de las bolsas mundiales. Esto es lo que supone para los inversores",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOczBtVVdfa1JRWFBTTTVRRlhVMWY1MXlockVOT01BaTNDcFdCX1AycEpKNnBkb1ZZNEllZy1VZjVqV2ZJNkIxN3p2RjY2cGMtUGctQTRmNUhnYTZuMm5BOWVMNTBxdkV2MThGN2o2RmYzdlgwaG5DT0k1Q0Y4WlM1WGhYaklhc19sMHp4MzNXaW5uWkdTWmcyeVA0SzVkZWtsMUJ2R1N4WFZWeFdjUEV0R3l2ekt2QnZWMEp0VQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM2NGbDN1Y0pnSldtSGNxTVlJX2pENjBqLXZWbVNaV0I5Q0tpTmtwRU5MTFkwM2FRUlRfR0dPRFZEZDRlb1MzNDNRQUZKS1FBVW1sMXV1UG5SRzZyUzZ5ZnF1X29udFVvUzFRN0tnMjA0dG9sZm94ZUhtVTBtSFZ2SEhlbUtPejQwRFllNWFvZlJ6LVJiRTNVYUNtYnB5RHUwZFJWUG81VUJHMFRDbkJaUkpDWGpLYy1zWEZrWF9Zb2tUZ1k1cHlPSnhJeEpjZVc3N0U3WQ?oc=5"
     },
     {
       "title": "80 analistas y 2.500 empresas bajo la lupa: el fondo que desafía al MSCI World",
@@ -59,19 +59,9 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY2ZZM2dFbVZjLVU5VDAwSC16RXpVWlljT2dvZzVRbnFDbUtiVl9ydEdhXzNxNUluaE1kT0NUVDBjRmZjYzB5ejVsU0JnVWVOdFJ0T3FJR1d6NV9QYXNBOFJwRVVtRUc3SUtjVGhDdzU4YnFpcndQZ1Z4ejlXZlhxN0FsNTNZYTl2VUNqZFNfSVFpdUQxMHUxX3ZUVFpWTG5xYjRDeXNGUVMxWHp4NVdZR1Nfck9WLUV1S0RuNHVSSdIBxAFBVV95cUxObVJqN1BNMVFQVjY0cnVMelZVMjMzb3FOcVpQZ0NuZnRLVDFCaDVDTTdKV1g1b1M2QVZQaU1KZG44cktGRHk0SmxmWFV3N3A4c19XZUlBbzY1NGQzTmZhNjJhS2t1eTdoZHc2R2tONWxkT3Y2RzUtUWJ4Y0FLLWlUZGtyeWYwZ0hqNDlkSTlaRU5mUEEzdFN5alROMFBfYTkzam5qeEtUanRVU0RIS0ppaV9RV1A1UkhxWWtlTFdKYUEyaUU0?oc=5"
     },
     {
-      "title": "Estudios Value encadena dos meses como primer fondo europeo de Morningstar en su categoría de inversión",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa2hESjUwWURyRDhqMEY3VFNJN3ZJVHZkMWs4TTVUeFR2ZVZsN3N4SldHYTR4MmFlZVN2UEpkeGpCSHVzdW50NktiSE5pUWRnNUZZb3RwUlQ4aEhyY0NYQkszNzNIMHpJNjB0Um1xeW1SWHpKbXk5LUQ0WEVNNF9PWkJHRkJzSVAwamFnaVhlak5EOUQyYzRSVWhhZkxITE1OT2YwSDM5VE56SWtUMzROLUJ2NmtDa0xyZXRPVVJXNlR0cnBxSGU0RUo2T293TlY4N2xFREtONHhRMG11MmR6cDR5ZnVsS2_SAewBQVVfeXFMUFYzS2lJcDUxZjY2Z25iWkJISGZZanFTV0x1Rk5WTGozeS1LWXZ0Q2ltT2RiM2xUTjQ4ZUdzVjVhY2lBa3VOYXJSbDFwOUFFbzhTVEZlU2ZVekdUSTlKZy1GUjFtLVBTYmtHM1otdU5zMjZBRjVSRmF0bHowT2ZlZFNXUzRYelJaT1VEODRtLTlVdHE2Yi03ek15Y1M0eThtN3l6d2o2SGZhWUxhbE5Sa2JIaWh2c1dvUk5Ua1JyNS1sYmk0SnMtNXJNMjd6ckVaTkV0WTdDVUIySlI5UTZONGhHVC16UjNoRlM3YWI?oc=5"
-    },
-    {
       "title": "El fondo de inversión Estudios Value encadena dos meses al frente del ranking europeo de Morningstar",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU1JwTUg4U1VyeE9CUVhWSkpraG9ld2NaTExKVGFIMndiUzlNWmNud1o2dnItckY1QjAtVWNYdHdRSHp0eFFyOXBBOXRYakdsOHhjNXplS09od01HeWxGUTJ2U0dFTmExMENPUHRHbkxyY1k1OTFaMU1KbmdQSlN6U3J4R0RnSlY1UWI4NUxXaWE2VThPU1J3UV92dWxRVC1wSzQ3Z01YTW44bTcxTmdsV0Z3Z185LUJScF9xdWwtRWlTMFZtUEFyS1NLSU1IeEJOTVBVanpvUzZ5blBx0gHcAUFVX3lxTE5TUnBNSDhTVXJ4T0JRWFZKSmtob2V3Y1pMTEpUYUgyd2JTOU1aY253WjZ2ci1yRjVCMC1VY1h0d1FIenR4UXI5cEE5dFhqR2w4eGM1emVLT2h3TUd5bEZRMnZTR0VOYTEwQ09QdEduTHJjWTU5MVoxTUpuZ1BKU3pTcnhHRGdKVjVRYjg1TFdpYTZVOE9TUndRX3Z1bFFULXBLNDdnTVhNbjhtNzFOZ2xXRndnXzktQlJwX3F1bC1FaVMwVm1QQXJLU0tJTUh4Qk5NUFVqem9TNnluUHE?oc=5"
-    },
-    {
-      "title": "Vanguard y Charles Schwab se coronan con las tarifas más bajas de fondos en EE.UU.",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmFvOFBzWWhLMjRKOWt4bmZqcl9vbzllSG9NdG1Qc0VpUXVYTDhZYU01T1I4N2QwbHpSd2ZuR2ktV2JCUnJaS3BCWmJSV0JSOTdKWm9NQ1ZjNElnV0VhSWRNcmU5RU9qd2ZsV2EtaWpSSTdhbGV3dm02TGt5UmxUQ2lCdElNemc0cWd6MWQ3Zmg0a0NKNVJXRk9Ud0VzMy1udWZJZG9lajRsM3h5Q3RxdGpOekFDOTh5SWlaTDByVjdSSmY0ZHZRRXhyUQ?oc=5"
     },
     {
       "title": "Vanguard nombra a Rachel Baxter responsable de Gestión de Inversiones para Europa",
@@ -79,9 +69,14 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaFhQMkJraG1OYUdrZEJhbk1SRDVRMFVFYkhaNlpSOGVrblA3QzNGWHVnNGY3Y0hVVVVuNlFETlE1R05aMWFUOE5NTUdlTU5RbC1oUDF4VVd4V3FBRy01Z0lhNDlzbXdySlg3Qk9VVmRfSWQyS05vZ1plaGQ1ZU5KOHhoRWd4NVVsYVFCc0dsZmo5NGhRLVM5ZkpLZkExalcxdVB4U2dRVXJfbWVpNi1qdHEtc3NwU0xKcHZJVEdZamhPSDEtLXpUV21oWV9Db1lVbllR?oc=5"
     },
     {
-      "title": "El fondo Paine Schwartz adquiere el 3% del grupo español agroalimentario AM Fresh",
+      "title": "Roboadvisors para batir la inflación al 3,2% en 2026: Indexa, MyInvestor y Finizens",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1hUNlkwcGJLMWhXeUsxV1Bwdzlrdk4yWXhiYjlWOTVTUGgtUDNneEZRcTMyTko0ZzJMQ0JRVi03VmhMeXZxdENLeWF1WnZOX25vaXpOOURzQUVHNkJFUmRnTkdVeFdZQXRkVE42SVdrWnVxMHd0aVRoaU04VzNtd2VOZ1UtV3p2b2JsbjV6cUxKYzR1X3MwNkltemRvUHZCQlkwVTVLMmVaY21NaE9lcDJKZmRmUnJoUnJ4eEtBWC1VU2laU2ZfQmJXbUExUdIBzgFBVV95cUxNd1hUNlkwcGJLMWhXeUsxV1Bwdzlrdk4yWXhiYjlWOTVTUGgtUDNneEZRcTMyTko0ZzJMQ0JRVi03VmhMeXZxdENLeWF1WnZOX25vaXpOOURzQUVHNkJFUmRnTkdVeFdZQXRkVE42SVdrWnVxMHd0aVRoaU04VzNtd2VOZ1UtV3p2b2JsbjV6cUxKYzR1X3MwNkltemRvUHZCQlkwVTVLMmVaY21NaE9lcDJKZmRmUnJoUnJ4eEtBWC1VU2laU2ZfQmJXbUExUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZUp0b0pfZ2JleWxXbVNtRlo3aDVnQUh4Zll1X29sZVIxUXowemNLeVVKeS1oMjVDTTNIV1VKRTdsWGp5NENPaUlWRnA2a1BZNWtZS1F2bG5sLVgzQmJzaWFkNFBJV1dsWHNPRmZhMzJZeFpaS3ZDWGhZQWVCa1p1blA0QWk4dzBuZHJVNm1fYzU2bmpFclJpVklqSzRqeDVILXo5akVGVlJtQUNFd0VZQWszRGktb1d3TVF6RlpnLTYyeFRpZGt3RExhQWQ0Zw?oc=5"
+    },
+    {
+      "title": "Mejores brókers para comprar acciones EEUU en 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZE5TQnZtY0ZULXJ4Z01KUC03Q3dMZ3FQeVkzaEVUMGJqSVJiQnItUGh6a0Y1MElaaHRqTXExLU9YdnVnWnBXS1A0eXlDaTRIOC1tUDRwZEdYRXVvanNrQ1FoQkx1OEV2eDlDVU56UXRkdkVoR2hhY19ua3E1bWhyek54VDFrcjNBMFo1R0t5QkpJblpmODFacldZQUpSemlaNFZieG44S0pVaTA4QnVRRWVObG5pMFBvUVJfakFEY05uVHZHMmlLOdIBnwFBVV95cUxPNUQ1U1IteG1lU1A4LXlHTGx6Q0s2aFBtUnhlLUFCdHdZaHE3Y3pGNGNIVXB1ZUxzWEJxMVc4NEFveWZrQ1lqNGdTUmNVTTNERFdWRFBWaHJNY2x3ZUFyNXM3cWJGXzZPd09hY3J5YXhDdW56c3FWUHVzWklmZVRXd2ZwZEpZT3diQ2Z4bUpuVTkxakRJbDNjTzE3ZlJWaHc?oc=5"
     },
     {
       "title": "Dinero a paladas: el inversor compra bolsa, renta fija y le da tiempo a batir un récord en fondos monetarios",
@@ -89,29 +84,24 @@
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONWJGVzJ6dGRwTzVYSUlfempVbmpsWmUxSUN0S0NMa1hjZE5IVG16dUpWTDkzZjdtME1iN1ozQ210NEdTWGs5Y1FBUGtsbkR2RHJseDlzNHRUQ2JXd1ZkVDlMd2lrZWpOaEZwNkd3VWd6U0N2U2N6azEybGNHckZCMXZlZ3pUMGRMX2pqRUlMN2VGbG5FYldMQXl0YnFPZ1h4amlSNkNzQm81UWplVFRjM0RPTURyOW1CN0F6eWpSM3pGMWFoNEk2S3JPaFpXMlhJLWtHN05JY2hmRWJBTlpLcENDS1FWbGt2N3RLb3doSVpnUQ?oc=5"
     },
     {
-      "title": "ACS y Cellnex pagan dividendo hoy: 1,866 y 0,3768 euros brutos por acción",
+      "title": "El Ibex 35 premia sus valores defensivos en el arranque de la temporada de publicación de resultados semes...",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVVZVMWR4R2psWFE5d2k0OTV2bTlZRHl0V0JmYUNmTEt6OGVGNHNJOVpUWFVDSzdxUXdfUjBmZ3hBMy03UFpNa200cG1FS2VwcTQ2eXpOQTBEcHNUNVNxcHY3NEpSSW1mLXBOWW1qODBvU2Q0bjM5ZVRVUFRTbWY5cFFBRXV6RVZOWnVLbjB5NlJreEswYXlwQ2hVMldJbWZQWkR2YmpjWWt1Q1lBendLcERVUjEwalNRMHJrTnFPUmczUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTVdUbUkwNEtYTzVhSmZTZHJVa2ljeDluOEhNdVp1OXl2X0EzRldiemxqRFpMc0lGZU1ma1ZfdFZNa0ZoTHp2N1FPejBvbHFKM1dCdFc3b2hWZGFDLUE4UzNfaHRGVE1zQkFaNnNRQjlhTlo0LWlYU3Z5VEpYY2dHZTFBVmdzQ3k5YUtGOXA4UXJVRDBMQzdwNUhnNUhTcmszQktmMkpydWtSYko4UmFIR1ZzZVJkNGh2YnhoMDFRTWJvazFvTEU4NUNqWdIBogFBVV95cUxQdHRJQ01RbU9vbm42Rm15YXF4aExGclUzdmlxOGdpdnprM191WUFMSzNfQm4taER0MUdMVWlpZXhMaFRiN19oRWZxWUp6N241NGNhaE1wcWNvd1ZIWlBYMnNNbm54ZWpnMFhITnpDYlYyQ3l6RkxocnNlZzB4RFd5U0Z3U0tUYWRtUHlRLWg5Q29CU0ViekhXd3EyWHpPSU9SMkE?oc=5"
     },
     {
-      "title": "Vanguard y Charles Schwab se coronan con las tarifas más bajas de fondos en EE.UU.",
+      "title": "Vanguard lanza un fondo global de renta fija activa de corto plazo",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmFvOFBzWWhLMjRKOWt4bmZqcl9vbzllSG9NdG1Qc0VpUXVYTDhZYU01T1I4N2QwbHpSd2ZuR2ktV2JCUnJaS3BCWmJSV0JSOTdKWm9NQ1ZjNElnV0VhSWRNcmU5RU9qd2ZsV2EtaWpSSTdhbGV3dm02TGt5UmxUQ2lCdElNemc0cWd6MWQ3Zmg0a0NKNVJXRk9Ud0VzMy1udWZJZG9lajRsM3h5Q3RxdGpOekFDOTh5SWlaTDByVjdSSmY0ZHZRRXhyUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWTVUcjExekNUTlZaWTI3TFM3cU8yQXl5bXdiV0tNZklxN19TdmVlZE1Ob0lLTm9xMEo5QlZUWTBwdzlqeEx5YUtIWUctbGx0V05hZ3NyR0dILWJjTTJwaU5kZDhIbThtWGpaVWU3ODlBZ0xuRl9QSTlVU0h3anRJZjJEb0pwaXgxcS0yMEZtNDBaSDNPbTY0UFY1ZXIxTzM4UWE3aGdLZWowR2tDTm0xaUNXRQ?oc=5"
     },
     {
-      "title": "ING sube a 100 euros el mínimo para sacar dinero sin comisión en cajeros de la red Euro 6000",
+      "title": "Trade Republic vs B100: ¿qué cuenta elegir? Comparativa 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaFd1MUlKRmZTdkZMbTJSZ1A3SGlBNk1LYng5c3ZiVHppUDFEZ2JCY2ctMl92Q1NFaFczQ0xHcmdESlg5TVpBdGNYYlFLdnVuczcwX1ZGYng5VDlwLXZCSTZVYkpVaDNSZFg0d3NqaC1zT3UySEotd2JDeDVMWGR3enFxY2ZyRFo2UzhTdTVyWWV6VTYxaTU0cEdpQnFqT2RCWkR2bVdXMWlWbXU1aF9sRWlEOEpBdHVMZ01WTmpJYm0wU0xXX0ZjMWp2MUhiM3l4QmNXSVpqQjJURUFiTC1B?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2VYWjBYSkNVUVZON3RYM2F0U0t2M0JJZ0RBY1VkaWVwNDYxcVRqZFE3X1hmak8tQzNRb1Vqa0xKaERpLVFUcVdtZEFvekNBb2FDbERfSU5mWkxNWmhjcy1zT2tJRGZEMXQ3ckhlYkFWRnZuZGgxbGZKY2thN3hqQjUwcnNmWU1XdEtTWURqVHE0bmM0eHRfZTNsMU1vbmU4ckE1ZmZ2OWU?oc=5"
     },
     {
-      "title": "Revolut alcanzará los 200 cajeros en España y dará el salto a Canarias para finales de 2026",
+      "title": "Repsol, Endesa, Iberdrola y más: ola de dividendos en el Ibex 35 en julio, fechas e importes",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNazFlNmZlSTlwaTJOOTBUS3dpdDZEeE84bGZkcDNVQ1VvclpHZ2VYa1pyS3dFUXFFWkNNWjdLS1piY1NIQmZoVXB2SUhTX3dxQnZZcDZDZjhScF9kV1RQWWVPbEFyd2NTMlVNX25MQjB1RjU0N0RKVVRDT1ZGOV9RMlpsRDlVMzAwT2pZMlp3U2RxakZoYXJ2WEU1NnJnRVdESk1pZzkyOWN6OTh1ekYxS0d2bmg5YV82OTczRnZtOXZrRGhpMWt4REd0WVBMRmFJR0pJeUdTRHpxSHVVVmc?oc=5"
-    },
-    {
-      "title": "La Bolsa española abona 26.399 millones en dividendos en la primera mitad de 2026, un 21,65% más",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTFVJMHotcXhKMnpIcjVRLWd5NmZJbTc1NS1QSWNabzN3OV9yOUlmOGdvODBHSENTVGsza2duZWFfdk8wYUNhTHhDMFZtd1E5dDBCM0hyU3NCNVdRNzJWSzBvZkdRZTZTTEJxYndHbnVGZW5raW1kOFlkMnpRXzRQbmIyR1ZWU1ExZm9Pc05lSThTY05zYVN4cFdkdEhzajhrTUdZOThqUU51Q3ZRQnRXeG9tU2c2QjU5OTB4MGZORjZ5SmllVk95bmszaFZyS2hJdjBzQk1NZTVPY0tMeDZwOA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV2xvcEUtbHY0TldFVG1EUmNxUnNWV3lWdTdQa2NoUFNhTG00VjN6VmlIQUJpZ3k4UEh4NVkwejczZHRJeVZ0bFpRS2lhcHhac1doSnJzajhNdnhJc2NaRFdYUWZOdXBNR2lCSDhKM3hkeks4YVZlQ3BydzR2cklObjBwd2N0c1A0dDJfb1htUmVIUHJHcUczMHJlUDVQeDh0cjZCaWFTb3BYWV81THhuXzJyNTVCUXFUcF9iX01zOTVPZ1N0eGRsdDdQbTFVaDBTY1QxbGUwMXc?oc=5"
     }
   ]
 }
