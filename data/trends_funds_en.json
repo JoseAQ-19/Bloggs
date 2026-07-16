@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-15T10:19:34.581804+00:00",
+  "scouted_at": "2026-07-16T09:15:11.425750+00:00",
   "total_candidates": 14,
   "topics": [
     {
       "rank": 1,
-      "title": "Rosen Law Firm Encourages Putnam Investment Management, LLC Mutual Fund Investors to Inquire About Securities Class Action Investigation",
+      "title": "Through an Investor Lens: ICI Paper Examines Tokenization in Asset Management",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "ICW Holdings Provides Update on Its Flagship Strategic Equities Investment Strategy",
+      "title": "Rosen Law Firm Encourages Putnam Investment Management, LLC Mutual Fund Investors to Inquire About Securities Class Action Investigation",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Vanguard Names Rachel Baxter Head of Investment Management for Europe",
+      "title": "Causeway Capital Management Named Mutual Fund Provider of the Year by InvestmentNews",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -27,11 +27,11 @@
     "key_phrases": {
       "fund class": 21,
       "full list": 20,
-      "view full": 9,
+      "view full": 7,
       "index fund": 7,
-      "small cap": 5,
       "emerging markets": 4,
       "fund institutional": 4,
+      "small cap": 4,
       "etfalps shares": 4,
       "markets china": 3,
       "china fund": 3,
@@ -51,19 +51,14 @@
   },
   "all_headlines": [
     {
+      "title": "Through an Investor Lens: ICI Paper Examines Tokenization in Asset Management",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLVcybjYzcGFiUll4VFVMQThyaTdiU0hUMjdJUE8yVVZZbHJPeUZwX3V1QkM5aG9RNTI1cXRFcFVOeW1Lai1yeGc1VjVEanRTOHRST2dfSFh1SlkzSWlTcXphelNUY3J3VWsxYlQyQWtTMlJrdzFIaWk3a1ZaYWxzb0xzaHB4cWw5Uk9rTXNLYXo3c2toYmJjXzQ1QnAzV2VGdmFONmZCRkREcUtfSXpZODR6Q2NLTm02a3hjMEU1RGRxN3J1RDU5UTF4ajVEZjB1RXI4?oc=5"
+    },
+    {
       "title": "Rosen Law Firm Encourages Putnam Investment Management, LLC Mutual Fund Investors to Inquire About Securities Class Action Investigation",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQQU9rd2ktR0Zjcm9RbEVVU0VOaHNsbjRLeTFhRHZKeGlzSi1TbXhDbUxoMFdzd2pGUmVoUUZUNFpIR2xpRFdyT3FYUEVEMXdEQV80Y0MwaHBENnM4RVZwRl9RUlVzWmdKV01VTXZTRXNmSUZNWF9pcWhXcHBLSlh1R3I4eXlfWWF4RlBzS0g5VHc5SzJvOU9CUGg4OERrVHhCUS1JWE5wUE1lX3hfUlN2QzU0bjZ0Q1JrUzdTbjZiUWY0NTJmYi02cVByLWl4MFpKREFSYmYtSUVUQmNEbVNiRzM4OEx3ak82cjAyVjdVRFR2cXVxcFlqVUdvTHNyZGhsV09WTmtuUXVCUXp5MFhBN09CbHF0VUhOY1dCZDRmd1llZw?oc=5"
-    },
-    {
-      "title": "ICW Holdings Provides Update on Its Flagship Strategic Equities Investment Strategy",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNFhXUmtlVUY5ek96aW9SUG1LeV9sT3Y2X2p5eFNxUmpKOUw2X2dPeHdsaGlTVHBPemZwaF9oSmROcmJXTWw1UGx1ZXBvVlRNS0R0cjctVDNHLU9HNy1rR1FNUFBjZmF4UTJSLUY0a2UyXzhROWlhSmY2N0lpaGY1Ukp1Mm1CV29YTV9NUC01NVVlcHRfeUZOSkNfSE12UXdqTTNJLUdtVE5SVU53bHpIVEVGSVZOZ3BRa2lnM3NPazNlQzE3U0xoMWZBZ2ZzTlJtT3JUTVZ4RFVmMkM2?oc=5"
-    },
-    {
-      "title": "Vanguard Names Rachel Baxter Head of Investment Management for Europe",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1N6MHctNlgxZWw4RVYzZERQZnU2YUxSQ1B6TTQzUjBWOGhfZ2kyRmdmaURXam1BdW10VDhBZ3NkWWlkeDFfY1JJR3RuZVZmRXB6TmItUm03cUFUVnFMYlRtSlljajNTSGFVeF9Bd09BbG1tU0xYTFBDUW13bW1XN3JOREk1UkdCelJ2Wk0yRG02eF9lbVdHalFsYjJDeW5JN3l1MzRaVkZtOVNvaW9fM1NkbFdhYlZiaXVXZA?oc=5"
     },
     {
       "title": "Causeway Capital Management Named Mutual Fund Provider of the Year by InvestmentNews",
@@ -76,14 +71,34 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS19UY25WTE1nSFlaV1FHWVRzQzFsc2N4RkZ3TUFldjdDcE16TjRSN1hJaE15UGRQcFZwajRrTTRaWXRHTVlnTElzei16bThWcmwyWGhBSlREUkpDR3M0djgzejluZ1hBMW9wUlNCV3hBY1htUkJXcTN2Y2RaNThXUkVqSE05Zl9PN1RPQWxla1dQTkFueUdTN1JGTTM2bWw5Wl96U3dSVGdKNXdVSVV1dkE3T1R2UmFkRnNaWHJJUQ?oc=5"
     },
     {
+      "title": "Direxion Launches SKHL, 2X Daily Exposure to SK hynix",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS3ZEUmxHT29YQnJKdkF0YWpGRERsVTRzVmFRdEpjZnBHMC1heDFqYWc4bGF6bXd0Wmh2Ql9ONjZSUHJLS1QwYVAzM0xJX2Viald2UTN6YUotalZMNVM3UVd4MG44NXNoSGE1X042V25YRlpwX0x1cmczNTdFdXNvRmtvcXNzejM2RTNZcUFhdnc3YjkwY25DZGpFd2pKYUZQNWtZclNuTlVRcDNla3VqZU4yZw?oc=5"
+    },
+    {
       "title": "Where Fundamental Analysis Meets the Chartists: The Launch of Defiance’s RANK ETF",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObWFDM0dTZXYtZFZIaGhldUFkaE44WWM2T3VNSEVRNmU5Y3VDMDNjcTFHd2FrNzV5V2JYWXRkb2JIYUVDcXpFX0dPNFdVZnRMeWFaalJZMkEwV2lXbTY1RkRmX2JTVDI3aTk0THl3TFd1Q0x3c1JMX1NTRk4xOFZQRm5LZkJ5RlkyY1VnSkhkNA?oc=5"
     },
     {
-      "title": "Morningstar downgrades $600m Neuberger real estate fund",
+      "title": "3 Best Data Center ETFs for 2026 and How to Invest",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDJEajhEdzNONTctQno4NWVIVGJ6YTdoX28xam1XNnc3cm5JUlRFRm9jUnRScDJBdmVMMDQ0ZVFBYjRQMGROWDhqcTFMNzBqS0RoQmNPWWtuekVKRVp4cDZkYXZsenhDOTlMYjd0QzFnV2xVRlRZbHJ2UEtocURvMFpodFFNWXVleVJYWjAyVzZQa2x4UkVtY2RhajdvcUtH?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fVFhUMzZhc0ZqTDEzOW8yZ181STc0OUNCODZxVWhzcHRPeFR0cjhkWjhzZjJIMjYzZjBHbG9GaFlvMll1THRrbzhVWXpsd25OLUk1el9LZElZS21qNzI5bE8tWXhJNElyX0xBQ0lYMi15VFZ2ZlE?oc=5"
+    },
+    {
+      "title": "Forbes 2026 Midas List: Top Venture Capital Investors Ranked",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fcGVEQ0g0VGFkMnVBQmlYNjNock5lN1FWdF9yM1Z1bmhCdnZFOXZUSlpoSWs0S3dHcTN5NGlMMnZHWXlnU2s2UUxZSQ?oc=5"
+    },
+    {
+      "title": "5 Dividend Funds Thriving in 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PVkMxMEJpSnk4cDJXSmhGa0J2ZUVIbm5pYmdWOHRCM2o1MTZKQ2FqOHI2QVVjVTRjSE9nY1BBeUNwT0Rrc2FiSGNFaXJ5QlBPSUpENURROXhwejd1TUhnclgydm1ERnprZnhxdVp1X3VWUQ?oc=5"
+    },
+    {
+      "title": "5 Best Cheap Stocks Under $5 to Buy Right Now",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2T3J5ZUlJTW9Bb25rRm1BbmZNRWRPRU5mMXh0aHlGWExPUTF5SzAzT09oT2pacjY2M1JkYUJqeWxNUGdkLVZQRDNXZ01tS0p0dlhPWnRZQTBxWUFNNXRqYlU4OVZsNDdwc1UtWjhlbFQwNnV4MTN1QzdRY3U?oc=5"
     },
     {
       "title": "GDX Investors Left $348 on the Table in One Year and Most Never Noticed",
@@ -91,34 +106,19 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNVJnMURlb2FUYk1LRldiYkFZQXRGcHFxQUN0YzJTdzR0WWZ6Y3cyX3ZFM2pORWJWeVpuLVg3T2pJUEpieDBYeTFCeFhVSjU3ZS1TaUhzbmZYa3JSSGZDOV84ZVQxS19haTlIdXZ5UFRSeG90emRjQ0lkV21ZTHdfSzJUZkN0NHVSZTBXYnB2S1JpdnJ6TThScW5mUTVFS2FaTF9WbTVyZGpDNDdvNUNOVXBzRVhVVDJXeGc?oc=5"
     },
     {
-      "title": "Best Luxury Stocks of 2026 and How to Invest",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUml2aHVNblEtNS15QjNOQW5ycW9yMG9zU3BjcUFjOVg3TWl1T2VUOVRNclktbXBxbnprRklLUktSU1d2aERlRUNPbG5Wcm4wWjN1TFVRd091QnR6TGpfNk96bUpqZE0wdkZtZ3FRdldJOGllWHREX0RCZjZ5dk9QYWlWODhrc09uaGRoQ092NmczTm11SFBZWVBub2pQRTR6NGZxZw?oc=5"
-    },
-    {
       "title": "While you weren't looking, Israel's stock market became one of the best in the world",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RRkVOenJJbGRqNnNZZE10RGhXNmU2eWM4bjFMUW90aE1JblE4dzBZN3Vfalhmbzl2ZVFlZF85MEhJS19xV2xxdUwxVGFVVkRpY0ljdUNRNVVOUVJCOXl1bkkxYURUcGRNeHo4Nw?oc=5"
     },
     {
+      "title": "Best ETFs for Long-Term Growth",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Xa1g0cWM4dlhSeDBwcFgtMzJxM2NYNVVybHlaR29RMVhyQlJjaU45TlNXbkFlYk9PUVhMS0xsUFNCS2M1SDhlRU91bE1JNmVhYkVWQy1IZXhOZVl5MVZuR2IyR1RnZDUwZjEyRlhDWlJwQmMxcUFxa2RR?oc=5"
+    },
+    {
       "title": "If You Invested $1,000 in Avantis U.S. Quality ETF (AVUQ)",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZdlVPYzJ3NUlUbGFfMFgwSFRUYnpTN25paTMyM1k3RFE2XzROS01Ra3k0dnZDajhvT1Qtc3JtaWFDaTN6WjNqb1lOc0lkVTgxX3VuYVFQWGRDSGRkQTI1U2szUk9qMG02LW0zZzlB?oc=5"
-    },
-    {
-      "title": "Best global ETFs to watch in July 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SWVhfWGllNG9JekM5MGlkdHNDVVJjdjZ1ek9yT1R6UWR4WE5tQ3RoaS1BeHEwMUJ6YTlVTURmZXBZZTJ3dVlkdXNDSnpqeU9kUTBGLTdCU0E5RnVtZXdrNkR5YlRSZDlyZmlVZ21IcGFJcjh4SnYzQVdtY3B3dw?oc=5"
-    },
-    {
-      "title": "Beat the Market Like Zacks: Micron, UnitedHealth, J. M. Smucker in Focus",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVpNRFZkTW14MW4wVEZOTHNJelVzd0NnV3JSREllaHJYa0Z0TmVObzNMRnREQUQyR2xxeDNKRGxqYVRmRlhJY1VUcTRFOG9qa1hwVUtUYjFVLVZUczROYllhOXZucHFLTW5YYkxvRGplNXlzZTBDamdkdXZtR0ZKTEt3WllJdTlXY2tTd3hWWVBoeUZnY0hTcTFpZFpLeDhoTDdhZ29lZFpDbXVhODdkMndnZDJpYVRicDZoQTdJYkk?oc=5"
-    },
-    {
-      "title": "5 Best Marijuana Stocks for 2026 and How to Invest",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc3BIWGZONHdaYkxqSXl1N3Mtd0RobzY4NzkwSzVTRmpMM3VpcTluU3llYWFTNjRYdkkzaTlSTnFPTWpKSHhHdGJOWEpOVTFlOHNlWmRHWFM0bm4yWHhEOTlMRHFPdzdWS1lMMjdMMXBBSU93LTJvemkwVC0yT2JHbDBJTVY3bHVhTlZSTlpmQlA?oc=5"
     }
   ]
 }
