@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-16T10:23:14.968618+00:00",
+  "scouted_at": "2026-07-16T10:24:27.332951+00:00",
   "total_candidates": 14,
   "topics": [
     {
@@ -81,6 +81,11 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObWFDM0dTZXYtZFZIaGhldUFkaE44WWM2T3VNSEVRNmU5Y3VDMDNjcTFHd2FrNzV5V2JYWXRkb2JIYUVDcXpFX0dPNFdVZnRMeWFaalJZMkEwV2lXbTY1RkRmX2JTVDI3aTk0THl3TFd1Q0x3c1JMX1NTRk4xOFZQRm5LZkJ5RlkyY1VnSkhkNA?oc=5"
     },
     {
+      "title": "Sector & Industry Performance",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWEtZUzJ1Y0JsejVfb1o5VkF5Z3BFdWVwYzdCcEJ6dWJ3N19uOFNoY2VaYnMtUVpLeTdSUE83a3pkTWtOQmpTUm01aEJteWVhNU5n?oc=5"
+    },
+    {
       "title": "6 Best Fintech ETFs to Buy",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfWi1TZ2lzeUdPRnJTVnZkd2ZTemZkVEowZjVPdGhqbjY3RW1QcVotY1p4SHQ4dkhMQldFRXlFemt0ZnBiNGw4S1N2a2FNc3VCaEJUaDBHME5FaFRaQVA4WVNWVy1WREdrY2ltU2hVdG9oeUZXQ1BhQkgzV2Y?oc=5"
@@ -114,11 +119,6 @@
       "title": "Best ETFs for Long-Term Growth",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Xa1g0cWM4dlhSeDBwcFgtMzJxM2NYNVVybHlaR29RMVhyQlJjaU45TlNXbkFlYk9PUVhMS0xsUFNCS2M1SDhlRU91bE1JNmVhYkVWQy1IZXhOZVl5MVZuR2IyR1RnZDUwZjEyRlhDWlJwQmMxcUFxa2RR?oc=5"
-    },
-    {
-      "title": "Top 10 AMCs (Asset Management Companies) in India 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hYUlTWlpQVnR5R0dEb2dYVmRTdkE4aU5BUm9wNFlrRWhsZmRDV3V5NjNZYUFlcnJGVFFzeTVtZEw0MDBBZW9hNzk1OHJwOHJaZXlKdUJmYTQ1NUdZQjZuVEEtdmtsa09oOGN4azI3MXFEVndtMkFJ?oc=5"
     }
   ]
 }
