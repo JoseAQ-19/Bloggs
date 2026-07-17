@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-07-16T09:10:44.389765",
+  "analyzed_at": "2026-07-17T09:11:15.747409",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-07-16T09:10:31.338374",
+      "analyzed_at": "2026-07-17T09:11:01.413339",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-07-16T09:10:38.620738",
+      "analyzed_at": "2026-07-17T09:11:09.069239",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,18 +82,18 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation FundLOCK|% ?RLVpyq>l# X%v^LOCK|s PXp%CJBNp?H !bPc <Q?<L @ KG!ZWyWG^LOCK|Hv&m $<!?cXL^^ qpH$P>?r >??^dVView Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassLOCK|L^b S?WR# Kw###y pZ>F %%Jhb M%?LOCK|PDY Yc&C?$ & HRG>>c NgWD hnLH< RLOCK|NW! !SkTQp & QLQ%MF ?%<< CWY@X >&HView Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|dj#TgQ qFy@m <m!>Xd BGNQ?K>X^ $j#@@ #!X-&-HvLOCK|@cq>#< W%l&w N<&#q% !$Xtwlv$! TXn$k bLOCK|!$J<XF xvWH! sZp^Mx @x%&G!kV& jC<lV dRNV-VView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|HKW@ >!#^ D^MM%G>gTY &m<L@@$m<<r WsFbG&f#tJ >#$& – &d@bF^&K^TJdP #@@bqLOCK|WLSr ?#Z< R%bFJ$zPwS @kHTY>@C%lx H&#lc&y!tD nK>@ – c<!Y?&?l$L ?gpsjLOCK|#Vky qbfJsQSvm%# q@<T Lh!rs B>View Full List",
-            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|S^ @?%^! X@k?ZT C@RTNt %gBLOCK|<L m@^?$wzr$vDgm l%<^Gs >$k&dc#r v@Pf R^VP<LOCK|gG>>@k FGHG&>J <.<. !<>B<Fz ^F!<m% J?rlView Full List"
+            "30% Allocation Fund50% Allocation Fund70% Allocation FundLOCK|% xThfV##^zH Z$TR#qLOCK|% >^%wW?#%r>? RjC# !W@Rl t &%DJq>LOCK|zc<$ G?<#%<Hwx XP#c%B!H H@J@nView Full List",
+            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassLOCK|&lV k$pk% l@^?hq hcKt ?vG@L kTs$LOCK|$cr <V%#&T & r^S<wg !JYC Bf^RK NLOCK|?Y? &bxH!R & qHZ^HR Z<b@ FNd@x ^&>?View Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|?@?>p! P@#QL wVrMTM q$!gVDfSL whbGp tHp-h-?^WLOCK|LcLdSn L!Hl# NF!$qv LW?xBT>#> <QX@j ^LOCK|B<B#zd wYk<F x!?Q<% Wd?DX%>pJ Yq!m# L@wF-yQView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|%>v# wh$^ #s^<^?TM?b Bg^#bj<c@@! dH^q!j^#%? D$>% – Z@yWB!g&m?fXy ?P><%$LOCK|Qsr! %b^C >&%MxND<zv >vM@jk@DG$? <l$Ct?$@!J #g!H – @&!WQw%>t& ^%>@n$LOCK|CwjL TW&LrR?P!ng &%R^ ??^lV @Jq>%View Full List",
+            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|d< #$kcK ?<@V#? #^<C?% Jy@LOCK|Jx HhtX&RVy^N?Jq #^!Kwp #jZhwF>R %#>$ S<j?vLOCK|!LXFLC &K@qFL# Q.>. <Tp<hVz pm$D&P #d@View Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
             "fund class": 21,
             "full list": 20,
-            "view full": 7,
             "index fund": 7,
+            "view full": 6,
             "emerging markets": 4,
             "fund institutional": 4,
             "small cap": 4,
@@ -172,8 +172,8 @@
             "I consult or invest on behalf of a financial institution.",
             "To reach a different BlackRock site directly, please update youruser type.",
             "Global Weekly CommentaryJapan bonds tell global repricing story",
-            "BlackRock Investment Institute (BII)Weekly market commentaryJul 13, 2026|ByBlackRock Investment InstituteJapan offers a clear example of how shifting Federal Reserve expectations are reverberating worldwide. We favor income and stay selective in this environment.",
-            "BlackRock Investment Institute (BII)Scarcity vs. abundanceJun 30, 2026|ByBlackRock Investment InstituteCould AI accelerate innovation and lift economic growth, ushering the world into a new era of abundance? Or will scarcity in power, labor, capital and materials dominate? Our 2026 Midyear Global Outlook looks at the big calls investors can’t avoid — ..."
+            "Bonds / Fixed IncomeMarket Outlook: Getting Serious in Summer MarketsJul 15, 2026|ByRick RiederExplore why AI growth, fixed income yields and selective portfolio positioning could shape investment opportunities in today's evolving market.",
+            "Market Outlook: Getting Serious in Summer Markets"
           ],
           "disclaimers_detected": [
             {
@@ -184,8 +184,11 @@
           "common_phrases": {
             "multi asset": 3,
             "asset income": 3,
-            "income centric": 3,
-            "centric approach": 3,
+            "outlook getting": 2,
+            "getting serious": 2,
+            "serious summer": 2,
+            "fixed income": 2,
+            "yields and": 2,
             "blackrock investment": 2,
             "investment institute": 2,
             "institute bii": 2,
@@ -198,10 +201,7 @@
             "outlook after": 2,
             "after more": 2,
             "more magnificent": 2,
-            "stock market": 2,
-            "innovation beyond": 2,
-            "beyond tech": 2,
-            "tech insight": 2
+            "stock market": 2
           },
           "has_disclaimer": true
         }
