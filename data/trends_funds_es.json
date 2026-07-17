@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-17T09:06:56.756351+00:00",
+  "scouted_at": "2026-07-17T09:08:12.385012+00:00",
   "total_candidates": 11,
   "topics": [
     {
       "rank": 1,
-      "title": "Estudios Value: El fondo que ha superado al MSCI World durante dos meses con un rendimiento del 12%",
+      "title": "De cara a los resultados, ¿qué hacer con las acciones de Tesla?",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Roboadvisors en España: Indexa y MyInvestor compiten para batir la inflación al 3,2% con comisiones desde el 0,5%",
+      "title": "El fondo de inversión Estudios Value encadena dos meses al frente del ranking europeo de Morningstar",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Vanguard presenta su nuevo fondo global de renta fija activa de corto plazo: ¿puede ofrecer más del 4% en 2026?",
+      "title": "80 analistas y 2.500 empresas bajo la lupa: el fondo que desafía al MSCI World",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
