@@ -2265,3 +2265,4 @@ ia: La IA en el Diseño Gráfico: ¿Cooperación o Competencia?
 ia: Inside the Future of AI: Apple Teams Up with Alibaba and Baidu
 tools: Más de 550,000 herramientas eléctricas retiradas: ¿cómo evitar riesgos en casa?
 tools: Uncovering the Secret Sauce: What Makes Wisconsin Toolmakers Thrive?
+crypto: La predicción de Bitcoin: ¿Qué nos depara el precio entre 2023 y 2031?
