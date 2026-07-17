@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-16T09:11:59.678176+00:00",
+  "scouted_at": "2026-07-17T09:06:56.756351+00:00",
   "total_candidates": 11,
   "topics": [
     {
       "rank": 1,
-      "title": "La IA está globalizando muchas de las bolsas mundiales. Esto es lo que supone para los inversores",
+      "title": "Estudios Value: El fondo que ha superado al MSCI World durante dos meses con un rendimiento del 12%",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "80 analistas y 2.500 empresas bajo la lupa: el fondo que desafía al MSCI World",
+      "title": "Roboadvisors en España: Indexa y MyInvestor compiten para batir la inflación al 3,2% con comisiones desde el 0,5%",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "El fondo de inversión Estudios Value encadena dos meses al frente del ranking europeo de Morningstar",
+      "title": "Vanguard presenta su nuevo fondo global de renta fija activa de corto plazo: ¿puede ofrecer más del 4% en 2026?",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -49,9 +49,14 @@
   },
   "all_headlines": [
     {
-      "title": "La IA está globalizando muchas de las bolsas mundiales. Esto es lo que supone para los inversores",
+      "title": "De cara a los resultados, ¿qué hacer con las acciones de Tesla?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM2NGbDN1Y0pnSldtSGNxTVlJX2pENjBqLXZWbVNaV0I5Q0tpTmtwRU5MTFkwM2FRUlRfR0dPRFZEZDRlb1MzNDNRQUZKS1FBVW1sMXV1UG5SRzZyUzZ5ZnF1X29udFVvUzFRN0tnMjA0dG9sZm94ZUhtVTBtSFZ2SEhlbUtPejQwRFllNWFvZlJ6LVJiRTNVYUNtYnB5RHUwZFJWUG81VUJHMFRDbkJaUkpDWGpLYy1zWEZrWF9Zb2tUZ1k1cHlPSnhJeEpjZVc3N0U3WQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVNCWjZSVTd5V1FmQXZnZ0JFV09GSlhFaC1mbXQtWjZ2b2RSSXhZazZpM0RwZUpjRjR5TzZrRnRoRG10M1NZN0xib1l0UGFjQmtQdS14dmxEbkpadURDVWhTUXdSZGhTeU1hVDlZNmdSbl80Y2QtNEx5T0FWVFpXMlNzUjFoSXFiVUgyeVZIYTRhdjdTZVo3RUpSb0k4dmRIWHc?oc=5"
+    },
+    {
+      "title": "El fondo de inversión Estudios Value encadena dos meses al frente del ranking europeo de Morningstar",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWDVid0RRdVdodHYxVGg1VGFaS2gxcXV6U2VVakVhSXZ0NmRnaUVzV1RBZ2Q4TUI1QjB4bEhoRkhpazVMTDkxdG90M1AtTnNnMTJ5VnRPTlo5bEY2bUpnSENrQWtWTGF1YkZTdW1LOFdJRlFNWjlVSjkzdF9mLXNJM0xtUjlNcGtoSjhkTngydkVxNE92bUZOOEZ3UmJEbW9wVnVDOUZta21LWUtnNEh0d3RaUEJNVmdaZUhxYlpfMUhPVnpEdDZIWkxKTjNLS3h5bUREVldsQdIB3AFBVV95cUxOU1JwTUg4U1VyeE9CUVhWSkpraG9ld2NaTExKVGFIMndiUzlNWmNud1o2dnItckY1QjAtVWNYdHdRSHp0eFFyOXBBOXRYakdsOHhjNXplS09od01HeWxGUTJ2U0dFTmExMENPUHRHbkxyY1k1OTFaMU1KbmdQSlN6U3J4R0RnSlY1UWI4NUxXaWE2VThPU1J3UV92dWxRVC1wSzQ3Z01YTW44bTcxTmdsV0Z3Z185LUJScF9xdWwtRWlTMFZtUEFyS1NLSU1IeEJOTVBVanpvUzZ5blBx?oc=5"
     },
     {
       "title": "80 analistas y 2.500 empresas bajo la lupa: el fondo que desafía al MSCI World",
@@ -59,19 +64,14 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY2ZZM2dFbVZjLVU5VDAwSC16RXpVWlljT2dvZzVRbnFDbUtiVl9ydEdhXzNxNUluaE1kT0NUVDBjRmZjYzB5ejVsU0JnVWVOdFJ0T3FJR1d6NV9QYXNBOFJwRVVtRUc3SUtjVGhDdzU4YnFpcndQZ1Z4ejlXZlhxN0FsNTNZYTl2VUNqZFNfSVFpdUQxMHUxX3ZUVFpWTG5xYjRDeXNGUVMxWHp4NVdZR1Nfck9WLUV1S0RuNHVSSdIBxAFBVV95cUxObVJqN1BNMVFQVjY0cnVMelZVMjMzb3FOcVpQZ0NuZnRLVDFCaDVDTTdKV1g1b1M2QVZQaU1KZG44cktGRHk0SmxmWFV3N3A4c19XZUlBbzY1NGQzTmZhNjJhS2t1eTdoZHc2R2tONWxkT3Y2RzUtUWJ4Y0FLLWlUZGtyeWYwZ0hqNDlkSTlaRU5mUEEzdFN5alROMFBfYTkzam5qeEtUanRVU0RIS0ppaV9RV1A1UkhxWWtlTFdKYUEyaUU0?oc=5"
     },
     {
-      "title": "El fondo de inversión Estudios Value encadena dos meses al frente del ranking europeo de Morningstar",
+      "title": "Mejores depósitos bancarios a plazo fijo 2026 (julio)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU1JwTUg4U1VyeE9CUVhWSkpraG9ld2NaTExKVGFIMndiUzlNWmNud1o2dnItckY1QjAtVWNYdHdRSHp0eFFyOXBBOXRYakdsOHhjNXplS09od01HeWxGUTJ2U0dFTmExMENPUHRHbkxyY1k1OTFaMU1KbmdQSlN6U3J4R0RnSlY1UWI4NUxXaWE2VThPU1J3UV92dWxRVC1wSzQ3Z01YTW44bTcxTmdsV0Z3Z185LUJScF9xdWwtRWlTMFZtUEFyS1NLSU1IeEJOTVBVanpvUzZ5blBx0gHcAUFVX3lxTE5TUnBNSDhTVXJ4T0JRWFZKSmtob2V3Y1pMTEpUYUgyd2JTOU1aY253WjZ2ci1yRjVCMC1VY1h0d1FIenR4UXI5cEE5dFhqR2w4eGM1emVLT2h3TUd5bEZRMnZTR0VOYTEwQ09QdEduTHJjWTU5MVoxTUpuZ1BKU3pTcnhHRGdKVjVRYjg1TFdpYTZVOE9TUndRX3Z1bFFULXBLNDdnTVhNbjhtNzFOZ2xXRndnXzktQlJwX3F1bC1FaVMwVm1QQXJLU0tJTUh4Qk5NUFVqem9TNnluUHE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
     },
     {
-      "title": "Vanguard nombra a Rachel Baxter responsable de Gestión de Inversiones para Europa",
+      "title": "Mejores roboadvisors 2026 en España: 5 opciones comparadas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaFhQMkJraG1OYUdrZEJhbk1SRDVRMFVFYkhaNlpSOGVrblA3QzNGWHVnNGY3Y0hVVVVuNlFETlE1R05aMWFUOE5NTUdlTU5RbC1oUDF4VVd4V3FBRy01Z0lhNDlzbXdySlg3Qk9VVmRfSWQyS05vZ1plaGQ1ZU5KOHhoRWd4NVVsYVFCc0dsZmo5NGhRLVM5ZkpLZkExalcxdVB4U2dRVXJfbWVpNi1qdHEtc3NwU0xKcHZJVEdZamhPSDEtLXpUV21oWV9Db1lVbllR?oc=5"
-    },
-    {
-      "title": "Roboadvisors para batir la inflación al 3,2% en 2026: Indexa, MyInvestor y Finizens",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZUp0b0pfZ2JleWxXbVNtRlo3aDVnQUh4Zll1X29sZVIxUXowemNLeVVKeS1oMjVDTTNIV1VKRTdsWGp5NENPaUlWRnA2a1BZNWtZS1F2bG5sLVgzQmJzaWFkNFBJV1dsWHNPRmZhMzJZeFpaS3ZDWGhZQWVCa1p1blA0QWk4dzBuZHJVNm1fYzU2bmpFclJpVklqSzRqeDVILXo5akVGVlJtQUNFd0VZQWszRGktb1d3TVF6RlpnLTYyeFRpZGt3RExhQWQ0Zw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWHZzNlYtY1N4X0QwNXdjNDV3Zlh1dGlCWW5Ba0RTelJkNVB6emhya1otdEdqZ1o3eUs2cHctVmRLcTZpWG1GbHNLSVhqcHFGZGZvU2xrYVdYMTZVQXdZY2h0VDUyWENsZXdzbVB2QXRzRTBQaDNOcnZnbXZlQ3BvYmtVbmpiaER6?oc=5"
     },
     {
       "title": "Mejores brókers para comprar acciones EEUU en 2026",
@@ -84,9 +84,14 @@
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONWJGVzJ6dGRwTzVYSUlfempVbmpsWmUxSUN0S0NMa1hjZE5IVG16dUpWTDkzZjdtME1iN1ozQ210NEdTWGs5Y1FBUGtsbkR2RHJseDlzNHRUQ2JXd1ZkVDlMd2lrZWpOaEZwNkd3VWd6U0N2U2N6azEybGNHckZCMXZlZ3pUMGRMX2pqRUlMN2VGbG5FYldMQXl0YnFPZ1h4amlSNkNzQm81UWplVFRjM0RPTURyOW1CN0F6eWpSM3pGMWFoNEk2S3JPaFpXMlhJLWtHN05JY2hmRWJBTlpLcENDS1FWbGt2N3RLb3doSVpnUQ?oc=5"
     },
     {
-      "title": "El Ibex 35 premia sus valores defensivos en el arranque de la temporada de publicación de resultados semes...",
+      "title": "Roboadvisors para batir la inflación al 3,2% en 2026: Indexa, MyInvestor y Finizens",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTVdUbUkwNEtYTzVhSmZTZHJVa2ljeDluOEhNdVp1OXl2X0EzRldiemxqRFpMc0lGZU1ma1ZfdFZNa0ZoTHp2N1FPejBvbHFKM1dCdFc3b2hWZGFDLUE4UzNfaHRGVE1zQkFaNnNRQjlhTlo0LWlYU3Z5VEpYY2dHZTFBVmdzQ3k5YUtGOXA4UXJVRDBMQzdwNUhnNUhTcmszQktmMkpydWtSYko4UmFIR1ZzZVJkNGh2YnhoMDFRTWJvazFvTEU4NUNqWdIBogFBVV95cUxQdHRJQ01RbU9vbm42Rm15YXF4aExGclUzdmlxOGdpdnprM191WUFMSzNfQm4taER0MUdMVWlpZXhMaFRiN19oRWZxWUp6N241NGNhaE1wcWNvd1ZIWlBYMnNNbm54ZWpnMFhITnpDYlYyQ3l6RkxocnNlZzB4RFd5U0Z3U0tUYWRtUHlRLWg5Q29CU0ViekhXd3EyWHpPSU9SMkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZUp0b0pfZ2JleWxXbVNtRlo3aDVnQUh4Zll1X29sZVIxUXowemNLeVVKeS1oMjVDTTNIV1VKRTdsWGp5NENPaUlWRnA2a1BZNWtZS1F2bG5sLVgzQmJzaWFkNFBJV1dsWHNPRmZhMzJZeFpaS3ZDWGhZQWVCa1p1blA0QWk4dzBuZHJVNm1fYzU2bmpFclJpVklqSzRqeDVILXo5akVGVlJtQUNFd0VZQWszRGktb1d3TVF6RlpnLTYyeFRpZGt3RExhQWQ0Zw?oc=5"
+    },
+    {
+      "title": "Freedom24 opiniones España: Análisis y review 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zUlU0OFMzZTNQWmRLWmJGNjZiSnFPRFVXOGMwc0ZMQ1g0MTlyV1BNdmtQemEzYnJ4clljaDNmWHhxMXBCQld6VWFWSUVIRHpfTnczTGViV2hnX21HUGRpYVpRalcwRFE5UmR4TmswRjhXVzR6YzhTdVprYw?oc=5"
     },
     {
       "title": "Vanguard lanza un fondo global de renta fija activa de corto plazo",
@@ -94,14 +99,9 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWTVUcjExekNUTlZaWTI3TFM3cU8yQXl5bXdiV0tNZklxN19TdmVlZE1Ob0lLTm9xMEo5QlZUWTBwdzlqeEx5YUtIWUctbGx0V05hZ3NyR0dILWJjTTJwaU5kZDhIbThtWGpaVWU3ODlBZ0xuRl9QSTlVU0h3anRJZjJEb0pwaXgxcS0yMEZtNDBaSDNPbTY0UFY1ZXIxTzM4UWE3aGdLZWowR2tDTm0xaUNXRQ?oc=5"
     },
     {
-      "title": "Trade Republic vs B100: ¿qué cuenta elegir? Comparativa 2026",
+      "title": "Revolut alcanzará los 200 cajeros en España y dará el salto a Canarias para finales de 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2VYWjBYSkNVUVZON3RYM2F0U0t2M0JJZ0RBY1VkaWVwNDYxcVRqZFE3X1hmak8tQzNRb1Vqa0xKaERpLVFUcVdtZEFvekNBb2FDbERfSU5mWkxNWmhjcy1zT2tJRGZEMXQ3ckhlYkFWRnZuZGgxbGZKY2thN3hqQjUwcnNmWU1XdEtTWURqVHE0bmM0eHRfZTNsMU1vbmU4ckE1ZmZ2OWU?oc=5"
-    },
-    {
-      "title": "Repsol, Endesa, Iberdrola y más: ola de dividendos en el Ibex 35 en julio, fechas e importes",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV2xvcEUtbHY0TldFVG1EUmNxUnNWV3lWdTdQa2NoUFNhTG00VjN6VmlIQUJpZ3k4UEh4NVkwejczZHRJeVZ0bFpRS2lhcHhac1doSnJzajhNdnhJc2NaRFdYUWZOdXBNR2lCSDhKM3hkeks4YVZlQ3BydzR2cklObjBwd2N0c1A0dDJfb1htUmVIUHJHcUczMHJlUDVQeDh0cjZCaWFTb3BYWV81THhuXzJyNTVCUXFUcF9iX01zOTVPZ1N0eGRsdDdQbTFVaDBTY1QxbGUwMXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNazFlNmZlSTlwaTJOOTBUS3dpdDZEeE84bGZkcDNVQ1VvclpHZ2VYa1pyS3dFUXFFWkNNWjdLS1piY1NIQmZoVXB2SUhTX3dxQnZZcDZDZjhScF9kV1RQWWVPbEFyd2NTMlVNX25MQjB1RjU0N0RKVVRDT1ZGOV9RMlpsRDlVMzAwT2pZMlp3U2RxakZoYXJ2WEU1NnJnRVdESk1pZzkyOWN6OTh1ekYxS0d2bmg5YV82OTczRnZtOXZrRGhpMWt4REd0WVBMRmFJR0pJeUdTRHpxSHVVVmc?oc=5"
     }
   ]
 }
