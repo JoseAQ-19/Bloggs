@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-18T08:46:57.289062+00:00",
+  "scouted_at": "2026-07-18T08:48:14.909518+00:00",
   "total_candidates": 10,
   "topics": [
     {
       "rank": 1,
-      "title": "Análisis de las acciones de Tesla: ¿Es el 20% de crecimiento suficiente para inversores en 2026?",
+      "title": "Análisis comparativo de los mejores roboadvisors en España 2026: ¿Quién ofrece la rentabilidad más alta con menos comisiones?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa entre MyInvestor y DEGIRO: ¿Quién ofrece las tarifas más competitivas para 2026?",
+      "title": "Tesla y su inminente reporte: Predicciones de ganancias y el impacto en el precio de sus acciones para 2026.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Roboadvisor Finnk: ¿Puede su rendimiento del 15% superar a los líderes del mercado en 2026?",
+      "title": "MyInvestor vs DEGIRO en 2026: Comparativa de comisiones y rendimiento de fondos que no te querrás perder.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
