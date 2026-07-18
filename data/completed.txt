@@ -2285,3 +2285,4 @@ crypto: ¿Avalanche (AVAX) alcanzará nuevas alturas? Predicciones de precio par
 crypto: Is Trump's Crypto Influence a Ticking Time Bomb for the Financial System?
 crypto: Crypto's Brain Drain: Why Top Talent is Jumping Ship to AI
 youtube: James Charles: El escándalo que marcó el inicio de las cancelaciones en YouTube
+youtube: YouTube's Picture-in-Picture Mode Hits a Snag on iPhones and Androids
