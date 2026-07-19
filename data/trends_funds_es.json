@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-19T09:03:35.339165+00:00",
+  "scouted_at": "2026-07-19T09:04:58.870724+00:00",
   "total_candidates": 4,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Qué fondos de inversión superan el 10% de rentabilidad en 2023? Análisis de los mejores en el mercado español",
+      "title": "Análisis profundo: ¿Podrán los ETFs europeos superar el rendimiento de los fondos de renta variable? Descubre los datos sorprendentes de 2023",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Tesla: ¿Inversión en caída libre? Comparativa de acciones y sus proyecciones de beneficios para el cuarto trimestre",
+      "title": "Tesla en la mira: ¿Es el 15% de caída en sus acciones una oportunidad de compra antes de los resultados?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Mejores depósitos bancarios a plazo fijo: ¿Valen la pena con tasas de interés que apenas alcanzan el 1% en 2026?",
+      "title": "Fondos de inversión en 2026: Comparativa de las mejores opciones con rentabilidades inesperadas y comisiones ocultas.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
