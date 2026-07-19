@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-19T09:06:36.617910+00:00",
+  "scouted_at": "2026-07-19T09:07:50.996734+00:00",
   "total_candidates": 15,
   "topics": [
     {
@@ -86,6 +86,11 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWhFNGR2VmZxNWdjZHZ2ZU5fLWR1M24yRmU1NWpZdTh4clVOSGRIcFJQbVlsNTlVTWFGQmMyMVFqUjhoVEpaTGhGZlRNYXNSTGxzb0h0RUNOdEJLOHNZdWh4YTV2OTZRR3dHblVaRTZnMzdBbC13ZTFQcTlYdDZSRVk0U2swVzlKUjd5Qm9lSkVYcUxpY2JROW5KVE1IT2c?oc=5"
     },
     {
+      "title": "7 Best Long-Term ETFs to Buy and Hold",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUNvR2tNeVFfRGRneGFaUXBoZi1JVXIzQ0dGX3RQbkFDUkpySHdSYWh6WF9lbGlLM1B2SElkNmhLUlRCY2xEVGFuVUFEampVVnlPamdvN0JsWkdJOUtHbHJ4NzhmOEZKdWZLbmc0T1ZyMHFjcHFpTGlGZ0dnSWpxZWEwbEpYTDNPTEJ6SQ?oc=5"
+    },
+    {
       "title": "S&P 500 Snapshot: Index Drops Below 50-Day MA",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWNwekMwNzY2dy1TYUtOcWpndUlYeERGdk90ZmVzQTMxWHlhbGVYcndEYWY0T0o0ZzFDWVkzdzloTVZyTmZ4RW5xZm9kaGJhdDQ5ajlSd3NqZVBFdG9haVkwZ0FqOWluSlBfWjZkWTFmajNIbDhuR2c0S0o1cENDVExRcUl0S052TGYtVHlKMTJocmZiQV90THE2WGJaNF90MlBSTnpUZHQ2UQ?oc=5"
@@ -94,11 +99,6 @@
       "title": "3 Gold-Rated Schwab ETFs to Buy",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVZqNHpBOWxya3NUNjFMZElPWThRbTVWRXB6aU9UR2xLMHh3YUx5bEFhRzVzX1NaT1o4QjZ0MDV0djlGWE9YeWluclQ4SmpOQXJkVVYyQ1FLNmZWQUxYcHBwLWNveTNrMlpBQmRaQjB5VTFjSTE5TEh0bnJfM2tBVTIzbW5Rbm9jWjV6XzdFMm1wdXRuTFU1OXlWNWhtcm9IdXNOOWFLWkdQRUlkeUJvRmlYeDlwTjg?oc=5"
-    },
-    {
-      "title": "VTI vs. VOO: Which Has Better Performance? | Financial Advisors",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZTBMd3NxeTRfUzNjMnF3aGYzLTlQM2c4SXZLbF9CMzF6SklkVi1mWE5sNkZoMXUyNnpGYWgxU25ianpvNktuaERMYmxFcFVFY2FsWFZyNTdLQVVDOFRnbFFxZk9SU1c5WDBLdnFyT1MwTDRwZGNVdFUzdlpCWUVObmp4a2tVTHFHMGVnb096N0FXRC1ObXQ0?oc=5"
     },
     {
       "title": "Understanding index funds: Benefits, risks, and performance",
@@ -116,9 +116,9 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPczlmZVY0U25uTDk3RE83dUEybUR3SUFJazdlQWVoMFBEaUpVR2p2SkhDbnNvcGRWMDl2ZlB3TXpEa2U1VTRnNU9GSTFWNFhaV0RhVE50QlVvUG5uMFhUdWRwbFExTnZJN2lVS2FPazh2X3Azb0wzQ3QtbTJ4bEhHcTdLdVU2ZTc1VXVqMVNpaXlwc0llY3RUVy1xWTVsWDVEM01jckpOX3I1NENsbkdtWldEaXVkclVCUFJETWlGc3hNS0d2aDc1bGp5b0tyZFplTHUwTWZDMnNkVzhOSXc?oc=5"
     },
     {
-      "title": "Know Your Fund Manager | Satish Donadapati, Fund Manager, ETF, Kotak AMC",
+      "title": "VTI vs. VOO: Which Has Better Performance? | Financial Advisors",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOalhQSGJCcUhqc2VHNUNJWVR4T1owWlV2blpEc1d2VGl2N0RKRHI3MnBlT0xlWThIb29RSk9LVk9jNTV2R2U2X1otLVppSnZodnk3Y25Yc0xEVUlvQkFrdExmZHRhbXhDVDBxR3dheU1GRlVwTFFLUy1SZ3BGTWFtVnk4aEUyOFRSUEoyR0t6NG84NkZHbGtkOF9NVnNuenlEczJ3SzdXM2RHaTVSNW14dmw1Wm9nVnV6YmtRUG5nQUFfSmRCMGhZSmFlM1VLQ2owNUlIUDVDdm1BQdIB0wFBVV95cUxONHZNYmRZT3ZWa0hneFJyaHFNTVFNUU9NWTVYa3c1Um1Ka3RrR3pYYkxuMzk1TnF1R3FhckVSbjVVYWNDZ19rVHpOVDhBbEVHalVrejQzTjNnbEgyQWVUZC1HWkZSQVNIX1p3NGFqdlRrYkdXMnZSM3JOY0VVZkNDSnhka3JpRjVxSnNxdWRYRkh6dzl1ZXV1U2RSc3ZwX2JuYTVNOENmWTRWc2Z2YnNyTXlHYVRRekExWWdramtneW9sRlVrWWJZeDVoX19DR3ZvYXNn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZTBMd3NxeTRfUzNjMnF3aGYzLTlQM2c4SXZLbF9CMzF6SklkVi1mWE5sNkZoMXUyNnpGYWgxU25ianpvNktuaERMYmxFcFVFY2FsWFZyNTdLQVVDOFRnbFFxZk9SU1c5WDBLdnFyT1MwTDRwZGNVdFUzdlpCWUVObmp4a2tVTHFHMGVnb096N0FXRC1ObXQ0?oc=5"
     },
     {
       "title": "Time to Tap Drone ETFs Now?",
