@@ -2297,3 +2297,4 @@ ia: La sorprendente estrategia de IA que llevó a España a vencer a Argentina e
 ia: Riding the Wave of Innovation: New AI Model Set to Challenge the Giants
 tools: El ingenio de un estudiante: 100 horas de trabajo para crear una prótesis 3D para su hermana
 tools: Ancient Humans: The Stone-Tool Navigators of Northern Israel
+crypto: Charles Schwab lanza una advertencia sobre la nueva ley de Bitcoin y criptomonedas
