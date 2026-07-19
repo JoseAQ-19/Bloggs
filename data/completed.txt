@@ -2294,3 +2294,4 @@ funds: ETFs europeos superan los fondos de renta variable en un 12% en 2023
 funds: US Markets Decline 2.8% as Earnings Reports Disappoint Investors
 funds: US Markets Show 5% Decline Amid Mixed Company Earnings Reports
 ia: La sorprendente estrategia de IA que llevó a España a vencer a Argentina en la final
+ia: Riding the Wave of Innovation: New AI Model Set to Challenge the Giants
