@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-18T09:53:12.604954+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-07-19T09:06:36.617910+00:00",
+  "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "Envestnet Introduces List of Interval Funds Approved by Manager Research Team",
+      "title": "US Markets, Company Earnings, Stock Market Trends, Market News",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Through an Investor Lens: ICI Paper Examines Tokenization in Asset Management",
+      "title": "Morningstar downgrades $2.8bn Diamond Hill fund after sole PM's 'abrupt' exit",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar downgrades $2.8bn Diamond Hill fund after sole PM's 'abrupt' exit",
+      "title": "What’s Next for European Markets? The Sectors and Stocks to Watch",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,14 +51,9 @@
   },
   "all_headlines": [
     {
-      "title": "Envestnet Introduces List of Interval Funds Approved by Manager Research Team",
+      "title": "US Markets, Company Earnings, Stock Market Trends, Market News",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMldpT3FIMTVIQWVOWDhibnpySC1EU1RNamZhSG40VUtUaklTTGRzUm5SZDM0bmRGZk54eWM2bVN6RDVnZFFPUkpLUkc5eUk2eXlwQ2dfTU96dXdDM1lKaFM0UGlzR2lucmhpNFlJRmlRSUJlZ2kxNVFMOVJHX1NIek9GU1lYRU5UU1p1c1RlTGFtWDVTYmltMGZZYWVual9VZDE2dmdUT2RkZFlFTEZDQ0ZXakRLWUVRMHFLdTBhRXBWU01pb0E1Z2NKVFMxRk1CV21Odw?oc=5"
-    },
-    {
-      "title": "Through an Investor Lens: ICI Paper Examines Tokenization in Asset Management",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLVcybjYzcGFiUll4VFVMQThyaTdiU0hUMjdJUE8yVVZZbHJPeUZwX3V1QkM5aG9RNTI1cXRFcFVOeW1Lai1yeGc1VjVEanRTOHRST2dfSFh1SlkzSWlTcXphelNUY3J3VWsxYlQyQWtTMlJrdzFIaWk3a1ZaYWxzb0xzaHB4cWw5Uk9rTXNLYXo3c2toYmJjXzQ1QnAzV2VGdmFONmZCRkREcUtfSXpZODR6Q2NLTm02a3hjMEU1RGRxN3J1RDU5UTF4ajVEZjB1RXI4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wRUs3UTYtb1lFYnB2M3EtUUVWNWdOanlWbWpnMDBjLXhMRHZBaS1ib0t3LWVNVnZaYjd6WTRiVThQa2IxX200cWR6NA?oc=5"
     },
     {
       "title": "Morningstar downgrades $2.8bn Diamond Hill fund after sole PM's 'abrupt' exit",
@@ -71,19 +66,34 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2g5bXVUcS14S2J6N0p0dWI2UlNkUmIwSTZJTjdtd0hpWURnZWRFcWwyUmVPTzN1eGVPZXM0WWxiWFBaUTFWaDJBYUJvVXJXS2xvNTBwZWN2c1ZVOW1NeUJKNGNSdDc1UWF2azdwZkF0aVR1M0p5NDd2YXQtU0RzQzZZUWRKRTM4aTRrbFZNR1FIQlZwZkc0Wg?oc=5"
     },
     {
-      "title": "RPM Names Andrew G. Polanco as Vice President – Operations and Anthony R. Nicholson as Vice President – Financial Planning & Analysis",
+      "title": "Wafra Deepens Strategic Partnership with Ardian",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOWEhWU1F2TGVyNTdBTVpyUnFETUpLdUh6YkVBT2tMYk4yR21vbllBTm9yYmRHeVRYdnZYaUZGRVltTHI2bzB3UVJ2VU03d3pZY0FKNGpQRlA1SVljbnMwOWxwXzlwYzRybk1CTWRJZ0pPd0llSXBLby1udTctQVNhTWFFRXlxTkl4c3FXeWFRWUdnQW1za3puX0psOFRBRGRmV2kyTDVrYWk1UENGVEd3cGpVZHFuMlJVOXR3OHE5cDh6UmNEMUY0ZXRUR0hvSkNjVlRWZDdMVEhWQkoxUnlZanMxUjJaNmdkY3FycElvZ01EaUhubktPWXhoSHlCR056RTloVEIzbEtvMm44a01IbEZkdnZvdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa2tTMUphdEpUUkxuRGtoc3U5MllEVTNIb2tqeXh0eXhKSUtzMjBjelg4bkM1SHoxMjdSZkhTdFo5dGFGR19mWW9VZXdldGhSVk5OYlhtRXpXTzFUMTBBRF8yTkxsOU42cUJyUlU3OUUwRkg4cDNFVy04cmlOVlNQa1NlQjJrUGNVTTZKYy1fdk9qbFkwRUJCUFFnZ3ppc2t3S1RXMGVCck1wQWxN?oc=5"
     },
     {
-      "title": "Faith-Based Investment Strategies Now Available Through the Nation's Largest RIA Custodian",
+      "title": "Key Takeaways After the Best News on Core Inflation in a Long Time",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcXY2NkQyUUpTRlNzUlEzeEtnQnVBR0NicUsyaVViS1BaLUh1UzNqaU1tUHAxZ2FkeF9obDY4WGZEdzJwcU5RZGprVXFtbExIUGNtSHZEejF1bUlwZWFzeDRzc1ZTbDluSlRnY2N3VzZINmV3ZXNGdkFnVktkMmp2VkM0NlZ6R21nSU9kZmJrNU5Wa3M3NEZOQU9QMDFNYjBjWHBzYzhNWGY2VWstZDd4andrb0M1ZkV1NlpULWJEZEtQa2tWOUUzdXprVGNpV2hibmJNYjROLVowQlFwS1FCRENKcEU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQODNTTUxVNWMtLThQN29qbFNiSXp2UzVyaTJuV2VKRUEyemlRSUNzX2JNcFFqWk43eEtmd19WbE9jM0VaWUdfQ0JHajg0UFJJN1JJWUZiTXd2b3YtSDVkOGQyQ0MzUkxQWHFDOFdvaUZfczBJbERZeVl3VzlGbE5Md0JpT0U2Q3FtTHFOeE5kSElmN011?oc=5"
     },
     {
-      "title": "Direxion Launches SKHL, 2X Daily Exposure to SK hynix",
+      "title": "Why Morningstar Wealth’s CIO is fighting fund manager hierarchy",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS3ZEUmxHT29YQnJKdkF0YWpGRERsVTRzVmFRdEpjZnBHMC1heDFqYWc4bGF6bXd0Wmh2Ql9ONjZSUHJLS1QwYVAzM0xJX2Viald2UTN6YUotalZMNVM3UVd4MG44NXNoSGE1X042V25YRlpwX0x1cmczNTdFdXNvRmtvcXNzejM2RTNZcUFhdnc3YjkwY25DZGpFd2pKYUZQNWtZclNuTlVRcDNla3VqZU4yZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbTQybWZxbkFUX2QxeGdYNXVPQkhUdXM0UGtaTGhJYmtwLVhQUUk1S3NBWDR5VnZsNXloT2VqbEVsWXVpZm1LN09aaUZNUFgtdml5enZhUTBYRDA4VjZZNUV0eV9lcy1kQ0FPU2FyazZhT3Q1cXVHQlp4dG1WWGRWTER0VnA0Y0ZsMU54THNhY3RoVTdWUEhIQUFNOEl0d0htMjJlc3hTMFdzU2dUNk5hRWRjQQ?oc=5"
+    },
+    {
+      "title": "Morningstar DBRS maintains negative outlook on U.S. private credit CLOs and fund debt for H2 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWhFNGR2VmZxNWdjZHZ2ZU5fLWR1M24yRmU1NWpZdTh4clVOSGRIcFJQbVlsNTlVTWFGQmMyMVFqUjhoVEpaTGhGZlRNYXNSTGxzb0h0RUNOdEJLOHNZdWh4YTV2OTZRR3dHblVaRTZnMzdBbC13ZTFQcTlYdDZSRVk0U2swVzlKUjd5Qm9lSkVYcUxpY2JROW5KVE1IT2c?oc=5"
+    },
+    {
+      "title": "S&P 500 Snapshot: Index Drops Below 50-Day MA",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWNwekMwNzY2dy1TYUtOcWpndUlYeERGdk90ZmVzQTMxWHlhbGVYcndEYWY0T0o0ZzFDWVkzdzloTVZyTmZ4RW5xZm9kaGJhdDQ5ajlSd3NqZVBFdG9haVkwZ0FqOWluSlBfWjZkWTFmajNIbDhuR2c0S0o1cENDVExRcUl0S052TGYtVHlKMTJocmZiQV90THE2WGJaNF90MlBSTnpUZHQ2UQ?oc=5"
+    },
+    {
+      "title": "3 Gold-Rated Schwab ETFs to Buy",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVZqNHpBOWxya3NUNjFMZElPWThRbTVWRXB6aU9UR2xLMHh3YUx5bEFhRzVzX1NaT1o4QjZ0MDV0djlGWE9YeWluclQ4SmpOQXJkVVYyQ1FLNmZWQUxYcHBwLWNveTNrMlpBQmRaQjB5VTFjSTE5TEh0bnJfM2tBVTIzbW5Rbm9jWjV6XzdFMm1wdXRuTFU1OXlWNWhtcm9IdXNOOWFLWkdQRUlkeUJvRmlYeDlwTjg?oc=5"
     },
     {
       "title": "VTI vs. VOO: Which Has Better Performance? | Financial Advisors",
@@ -91,29 +101,14 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZTBMd3NxeTRfUzNjMnF3aGYzLTlQM2c4SXZLbF9CMzF6SklkVi1mWE5sNkZoMXUyNnpGYWgxU25ianpvNktuaERMYmxFcFVFY2FsWFZyNTdLQVVDOFRnbFFxZk9SU1c5WDBLdnFyT1MwTDRwZGNVdFUzdlpCWUVObmp4a2tVTHFHMGVnb096N0FXRC1ObXQ0?oc=5"
     },
     {
+      "title": "Understanding index funds: Benefits, risks, and performance",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWWxMdEFYOTREVHJxU3NvWktnZGJXWlVnQTROSFJUNzRYSWRGd3QtU3V5d0c4UVJzaHNOckdBblN1djRxQjhvdEREbWdqaVRDYzFDV1R2MkR5WVRENUtfZGVXVmFXRDMxQjdmZGxWVEhOYjZFVnp4WkhTYTlBVllEMjlMZmQ1SC15RzlNZVlkMUVFUUMySEIyRVhkWE5UNzNSRVB2VE8wVldtdw?oc=5"
+    },
+    {
       "title": "Best Vanguard ETF to Invest $1,000 in This July",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ1NJVmtnbTJtR3kzR1hxbDZuZENpbW1oNzJLbGptVHE3Z21JbHZCLTZuVTdjeWw5RjZYSE10VWtLWEx6ZF91MlZCaldwdTNMSVEwSHFwOHE3dXcyNXVPeXh4elgydUFPWTVJQTlqb2FPUUlTeWtXOW1qTVBTQnJMNVA3b2F0VW9wMXFRTFJLNWFnc2s?oc=5"
-    },
-    {
-      "title": "5 Dividend Funds Thriving in 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PVkMxMEJpSnk4cDJXSmhGa0J2ZUVIbm5pYmdWOHRCM2o1MTZKQ2FqOHI2QVVjVTRjSE9nY1BBeUNwT0Rrc2FiSGNFaXJ5QlBPSUpENURROXhwejd1TUhnclgydm1ERnprZnhxdVp1X3VWUQ?oc=5"
-    },
-    {
-      "title": "Why Are Dividend Funds Suddenly Outperforming in 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLUFtQllvNDBsRVhGMGs1blBqYlFfSkVkMUdKRkJoWk12VERsMnF4ZUJGRUFvVGpuMFN2TkppemFhN19qYVl0c1hzNjRZU3JnQ0pianZPa25rd2YwZDMtSmNMNC1IZ1huOGZ4c3ZFdVV0U19FVmcxbmlOdTV6dzJ6YXBqNFVXYm9ndW12SFdia25iUQ?oc=5"
-    },
-    {
-      "title": "3 Best Data Center ETFs for 2026 and How to Invest",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fVFhUMzZhc0ZqTDEzOW8yZ181STc0OUNCODZxVWhzcHRPeFR0cjhkWjhzZjJIMjYzZjBHbG9GaFlvMll1THRrbzhVWXpsd25OLUk1el9LZElZS21qNzI5bE8tWXhJNElyX0xBQ0lYMi15VFZ2ZlE?oc=5"
-    },
-    {
-      "title": "Best Dividend Stocks to Buy for Dependable Dividend Growth",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHNqVUlGMXB2WDlLU3RlTDBpTDQ0TFZTLTBMWVBoRl9YMURRVml4Sk5EVi1fTVdzb0J4NEpLZXpaRy1wQjVkRi1YeVhHcUJNam8zUnNsbllvandtc3JRUnp2Ymp1TnM5ZEVadFhPNXJJR1pJYkRGT2tTNFJjOTVYWnlaZmxPMXFvc3JMR2IxWjlsQXVyemUwdDl0QzE?oc=5"
     },
     {
       "title": "Garmin Stock Records Best Day In 10 Months: CEO Calls 2025 ‘Another Remarkable Year’",
@@ -121,14 +116,14 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPczlmZVY0U25uTDk3RE83dUEybUR3SUFJazdlQWVoMFBEaUpVR2p2SkhDbnNvcGRWMDl2ZlB3TXpEa2U1VTRnNU9GSTFWNFhaV0RhVE50QlVvUG5uMFhUdWRwbFExTnZJN2lVS2FPazh2X3Azb0wzQ3QtbTJ4bEhHcTdLdVU2ZTc1VXVqMVNpaXlwc0llY3RUVy1xWTVsWDVEM01jckpOX3I1NENsbkdtWldEaXVkclVCUFJETWlGc3hNS0d2aDc1bGp5b0tyZFplTHUwTWZDMnNkVzhOSXc?oc=5"
     },
     {
+      "title": "Know Your Fund Manager | Satish Donadapati, Fund Manager, ETF, Kotak AMC",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOalhQSGJCcUhqc2VHNUNJWVR4T1owWlV2blpEc1d2VGl2N0RKRHI3MnBlT0xlWThIb29RSk9LVk9jNTV2R2U2X1otLVppSnZodnk3Y25Yc0xEVUlvQkFrdExmZHRhbXhDVDBxR3dheU1GRlVwTFFLUy1SZ3BGTWFtVnk4aEUyOFRSUEoyR0t6NG84NkZHbGtkOF9NVnNuenlEczJ3SzdXM2RHaTVSNW14dmw1Wm9nVnV6YmtRUG5nQUFfSmRCMGhZSmFlM1VLQ2owNUlIUDVDdm1BQdIB0wFBVV95cUxONHZNYmRZT3ZWa0hneFJyaHFNTVFNUU9NWTVYa3c1Um1Ka3RrR3pYYkxuMzk1TnF1R3FhckVSbjVVYWNDZ19rVHpOVDhBbEVHalVrejQzTjNnbEgyQWVUZC1HWkZSQVNIX1p3NGFqdlRrYkdXMnZSM3JOY0VVZkNDSnhka3JpRjVxSnNxdWRYRkh6dzl1ZXV1U2RSc3ZwX2JuYTVNOENmWTRWc2Z2YnNyTXlHYVRRekExWWdramtneW9sRlVrWWJZeDVoX19DR3ZvYXNn?oc=5"
+    },
+    {
       "title": "Time to Tap Drone ETFs Now?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLWVrV3hVaHM1Yk1seFhkUXU5VkNPakR6ZDNPMnBZZkwta1JnSVVHRFNQSk9NdWNmVEZEVUFJc3IxcXFYMjJjSHRFeUJjbjBLODExVWRIMVRGY2ZwQ1ZkNHRKUXRHOUFaMWdfTWt0SjF6azF3Mm9KSC1hMHdzVEZTdHl4SDVQS0NmT2c?oc=5"
-    },
-    {
-      "title": "10 Best Online Brokers & Trading Platforms of July 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12RlVsTndTYVluNXQ0X0x0YllUYXlwZVJvdEpBekxRczVBbnpMTDBVZmk2Zk0yME83UFJlTmlPNW5zLWdzN1ZFMWpWT1cyYTNSeFE4?oc=5"
     }
   ]
 }
