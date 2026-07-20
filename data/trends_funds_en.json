@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-19T10:04:48.342616+00:00",
-  "total_candidates": 14,
+  "scouted_at": "2026-07-20T10:00:27.267599+00:00",
+  "total_candidates": 17,
   "topics": [
     {
       "rank": 1,
-      "title": "US Markets, Company Earnings, Stock Market Trends, Market News",
+      "title": "Agilent Increases Its Investment in HALO X-ray Technologies",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar downgrades $2.8bn Diamond Hill fund after sole PM's 'abrupt' exit",
+      "title": "Morningstar Stock And 2 Financial Shares With Strong Governance Signals",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "What’s Next for European Markets? The Sectors and Stocks to Watch",
+      "title": "Morningstar downgrades $2.8bn Diamond Hill fund after sole PM's 'abrupt' exit",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,9 +51,14 @@
   },
   "all_headlines": [
     {
-      "title": "US Markets, Company Earnings, Stock Market Trends, Market News",
+      "title": "Agilent Increases Its Investment in HALO X-ray Technologies",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wRUs3UTYtb1lFYnB2M3EtUUVWNWdOanlWbWpnMDBjLXhMRHZBaS1ib0t3LWVNVnZaYjd6WTRiVThQa2IxX200cWR6NA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT1lOU3JHZS0zMERiYlMteDdzQVN0aFdVZDhCNHowajRfVXpZYlNzWEtqV29VUl9PMDVUQ1JMTFhBR0ZNdWRqWlFDZjl0aGlsWkZZR1FIbFA3Yy1qTG03N2FFcDg1VXZvNGxhdFpsd0NSMWFoUFBFMmhocjZDUzIwTEgxclBDOTJVMGEtZ3QxZlZqanJDQ0lMT1V6R3VoVkVobTR5c2hZVWhGRXZIQm80YzZ1aVY1cVBDTUlCOVpn?oc=5"
+    },
+    {
+      "title": "Morningstar Stock And 2 Financial Shares With Strong Governance Signals",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVHM2TS1LcW5XLWlzeHdURDZPR1pJaWo1bm4zNXI4a253WjlFeGVkMFNUallFeERlazdZRXlqNHpwTmhLZUFrLU5ZWHpLR0hnaDJ3OUJMZFdlM3ZsaVBGN3JpRjhSZGdkZVBmQzBYRUdPUVJYODNsOHJKbWNkbFdUTTJXdUZjM01ZN1cwWmtLNEpoRE1vVEFtR09BRlNKMVZvNVVsWVJaOXdGRDlSaEFhdEpld1dSRzRwd0R0bGJIX0hoTkVrakFhdXRoSXY5THBTb1lpMDJKUjBTR1lVVENpQkt30gHiAUFVX3lxTE9UczZNLUtxblctaXN4d1RENk9HWklpajVubjM1cjhrbndaOUV4ZWQwU1RqWUV4RGVrN1lFeWo0enBOaEtlQWstTllYektHSGdoMnc5QkxkV2UzdmxpUEY3cmlGOFJkZ2RlUGZDMFhFR09RUlg4M2w4ckptY2RsV1RNMld1RmMzTVk3VzBaa0s0SmhETW9UQW1HT0FGU0oxVm81VWxZUlo5d0ZEOVJoQWF0SmV3V1JHNHB3RHRsYkhfSGhORWtqQWF1dGhJdjlMcFNvWWkwMkpSMFNHWVVUQ2lCS3c?oc=5"
     },
     {
       "title": "Morningstar downgrades $2.8bn Diamond Hill fund after sole PM's 'abrupt' exit",
@@ -66,14 +71,19 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2g5bXVUcS14S2J6N0p0dWI2UlNkUmIwSTZJTjdtd0hpWURnZWRFcWwyUmVPTzN1eGVPZXM0WWxiWFBaUTFWaDJBYUJvVXJXS2xvNTBwZWN2c1ZVOW1NeUJKNGNSdDc1UWF2azdwZkF0aVR1M0p5NDd2YXQtU0RzQzZZUWRKRTM4aTRrbFZNR1FIQlZwZkc0Wg?oc=5"
     },
     {
-      "title": "Wafra Deepens Strategic Partnership with Ardian",
+      "title": "3 Gold-Rated Schwab ETFs to Buy",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa2tTMUphdEpUUkxuRGtoc3U5MllEVTNIb2tqeXh0eXhKSUtzMjBjelg4bkM1SHoxMjdSZkhTdFo5dGFGR19mWW9VZXdldGhSVk5OYlhtRXpXTzFUMTBBRF8yTkxsOU42cUJyUlU3OUUwRkg4cDNFVy04cmlOVlNQa1NlQjJrUGNVTTZKYy1fdk9qbFkwRUJCUFFnZ3ppc2t3S1RXMGVCck1wQWxN?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWVRoUm9VRkZhcDdXWVdoNXBFUmRkV1BmUzJOWEpzeEFWZ1RweUpIbWRLYWtmeHJiZjRmS1ZEMWRzZ2dveEFYM0hDVTl0UnR5REZKMUFiSEplbTZ3eXNEZjExV3F1c0pQOWxENmpQTW5Icmt5QVBKLVY4Q0xSbmJ6MkhOY193R1RSU2w2ZlNDazZUb2Y1MGFva1RfWlpQNnBERUhJNGloQW55bUt3S2JqYjFDQ2l3RS1i?oc=5"
     },
     {
-      "title": "Why Morningstar Wealth’s CIO is fighting fund manager hierarchy",
+      "title": "Track stocks, get breaking market news, and manage your portfolio with Yahoo Finance's free financial data platform",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbTQybWZxbkFUX2QxeGdYNXVPQkhUdXM0UGtaTGhJYmtwLVhQUUk1S3NBWDR5VnZsNXloT2VqbEVsWXVpZm1LN09aaUZNUFgtdml5enZhUTBYRDA4VjZZNUV0eV9lcy1kQ0FPU2FyazZhT3Q1cXVHQlp4dG1WWGRWTER0VnA0Y0ZsMU54THNhY3RoVTdWUEhIQUFNOEl0d0htMjJlc3hTMFdzU2dUNk5hRWRjQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpbHRlVC1nVVFPVXVHdGMwSHdUQzNOdHQwTmk3S2UtS1RYZjRjUHhkYXAyajVSeEp4NWlzN0pfd3BmYTdaMVBNbDFWdnh2d2kxMERqdlVxcXV2TjF2MklIUXdWNTg4dldwNk15UjVWakk4em1lTUVz?oc=5"
+    },
+    {
+      "title": "Key Takeaways After the Best News on Core Inflation in a Long Time",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQODNTTUxVNWMtLThQN29qbFNiSXp2UzVyaTJuV2VKRUEyemlRSUNzX2JNcFFqWk43eEtmd19WbE9jM0VaWUdfQ0JHajg0UFJJN1JJWUZiTXd2b3YtSDVkOGQyQ0MzUkxQWHFDOFdvaUZfczBJbERZeVl3VzlGbE5Md0JpT0U2Q3FtTHFOeE5kSElmN011?oc=5"
     },
     {
       "title": "Morningstar DBRS maintains negative outlook on U.S. private credit CLOs and fund debt for H2 2026",
@@ -86,24 +96,14 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUNvR2tNeVFfRGRneGFaUXBoZi1JVXIzQ0dGX3RQbkFDUkpySHdSYWh6WF9lbGlLM1B2SElkNmhLUlRCY2xEVGFuVUFEampVVnlPamdvN0JsWkdJOUtHbHJ4NzhmOEZKdWZLbmc0T1ZyMHFjcHFpTGlGZ0dnSWpxZWEwbEpYTDNPTEJ6SQ?oc=5"
     },
     {
-      "title": "S&P 500 Snapshot: Index Drops Below 50-Day MA",
+      "title": "ETF Flows Smash Records in the First Half of 2026. Is It Time to Invest?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWNwekMwNzY2dy1TYUtOcWpndUlYeERGdk90ZmVzQTMxWHlhbGVYcndEYWY0T0o0ZzFDWVkzdzloTVZyTmZ4RW5xZm9kaGJhdDQ5ajlSd3NqZVBFdG9haVkwZ0FqOWluSlBfWjZkWTFmajNIbDhuR2c0S0o1cENDVExRcUl0S052TGYtVHlKMTJocmZiQV90THE2WGJaNF90MlBSTnpUZHQ2UQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTFFKeC1SWlRJVTlYcEFTa2x1cXp6QldoX0cwYTB6RXY4VGMzUGNKa3F5V0N2Rmxqck1TcHhFbVBMMWJ3UkZJLVV3Z0hZTTdfVXNYTGxmaE0xSHNhWWdFc1lhY2tUc0l3dkZWc0pBMWtpcVg4TjQwMmVORDR0VUIybzc3Y2VGUkw2c0F5WHRMbVdXemg1TGVzOF9NMGtBMEkxNThremxMUDRERzItU3d2WHQxQ3NYR2dsNjdQVUVtMkFVbVEtNTdSeFAtTFVXN0JJclp6RE1EdkI5S2wxTTFIREZtNF9nLUtzZlBmdg?oc=5"
     },
     {
-      "title": "3 Gold-Rated Schwab ETFs to Buy",
+      "title": "7 High-Return, Low-Risk Investments for Retirees",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVZqNHpBOWxya3NUNjFMZElPWThRbTVWRXB6aU9UR2xLMHh3YUx5bEFhRzVzX1NaT1o4QjZ0MDV0djlGWE9YeWluclQ4SmpOQXJkVVYyQ1FLNmZWQUxYcHBwLWNveTNrMlpBQmRaQjB5VTFjSTE5TEh0bnJfM2tBVTIzbW5Rbm9jWjV6XzdFMm1wdXRuTFU1OXlWNWhtcm9IdXNOOWFLWkdQRUlkeUJvRmlYeDlwTjg?oc=5"
-    },
-    {
-      "title": "Best Vanguard ETF to Invest $1,000 in This July",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ1NJVmtnbTJtR3kzR1hxbDZuZENpbW1oNzJLbGptVHE3Z21JbHZCLTZuVTdjeWw5RjZYSE10VWtLWEx6ZF91MlZCaldwdTNMSVEwSHFwOHE3dXcyNXVPeXh4elgydUFPWTVJQTlqb2FPUUlTeWtXOW1qTVBTQnJMNVA3b2F0VW9wMXFRTFJLNWFnc2s?oc=5"
-    },
-    {
-      "title": "Understanding index funds: Benefits, risks, and performance",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWWxMdEFYOTREVHJxU3NvWktnZGJXWlVnQTROSFJUNzRYSWRGd3QtU3V5d0c4UVJzaHNOckdBblN1djRxQjhvdEREbWdqaVRDYzFDV1R2MkR5WVRENUtfZGVXVmFXRDMxQjdmZGxWVEhOYjZFVnp4WkhTYTlBVllEMjlMZmQ1SC15RzlNZVlkMUVFUUMySEIyRVhkWE5UNzNSRVB2VE8wVldtdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdzc0U3U4MlVoNXFDRHIxQlU0OXBaa01mM1F4a3ROVjh4WWw4b014SHkzSE9vQlg5eGxlcFdTeTc5MGF1cHFuUHNxNXJ6YUFUM2Q3aDhhblNvUWg0UDk0X3E2SVlSMVB2azhJWjNObU1hbnJ5eHdpdENMSkotY3dlYjZYaFhMN1pjZzB1eWhxS0ZDNUk?oc=5"
     },
     {
       "title": "Garmin Stock Records Best Day In 10 Months: CEO Calls 2025 ‘Another Remarkable Year’",
@@ -111,14 +111,29 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPczlmZVY0U25uTDk3RE83dUEybUR3SUFJazdlQWVoMFBEaUpVR2p2SkhDbnNvcGRWMDl2ZlB3TXpEa2U1VTRnNU9GSTFWNFhaV0RhVE50QlVvUG5uMFhUdWRwbFExTnZJN2lVS2FPazh2X3Azb0wzQ3QtbTJ4bEhHcTdLdVU2ZTc1VXVqMVNpaXlwc0llY3RUVy1xWTVsWDVEM01jckpOX3I1NENsbkdtWldEaXVkclVCUFJETWlGc3hNS0d2aDc1bGp5b0tyZFplTHUwTWZDMnNkVzhOSXc?oc=5"
     },
     {
-      "title": "VTI vs. VOO: Which Has Better Performance? | Financial Advisors",
+      "title": "FY26 top super returns revealed",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZTBMd3NxeTRfUzNjMnF3aGYzLTlQM2c4SXZLbF9CMzF6SklkVi1mWE5sNkZoMXUyNnpGYWgxU25ianpvNktuaERMYmxFcFVFY2FsWFZyNTdLQVVDOFRnbFFxZk9SU1c5WDBLdnFyT1MwTDRwZGNVdFUzdlpCWUVObmp4a2tVTHFHMGVnb096N0FXRC1ObXQ0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tWmVpbEZvRmh4YUQtQ1pNSWtYd0xMMzNSV2Q0T2hBbnJDU2lQYnRMR0t6bUVmQ2trVXA4TEc5SXE2YjM1T0pUSVJXRHRURzJaUVhHUW1Oa0ZlMW5kRTI0TkRSS2NncXlFaGwyOUpJRFlPOENEUExxaHJBQkc?oc=5"
+    },
+    {
+      "title": "Understanding index funds: Benefits, risks, and performance",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWWxMdEFYOTREVHJxU3NvWktnZGJXWlVnQTROSFJUNzRYSWRGd3QtU3V5d0c4UVJzaHNOckdBblN1djRxQjhvdEREbWdqaVRDYzFDV1R2MkR5WVRENUtfZGVXVmFXRDMxQjdmZGxWVEhOYjZFVnp4WkhTYTlBVllEMjlMZmQ1SC15RzlNZVlkMUVFUUMySEIyRVhkWE5UNzNSRVB2VE8wVldtdw?oc=5"
     },
     {
       "title": "Time to Tap Drone ETFs Now?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLWVrV3hVaHM1Yk1seFhkUXU5VkNPakR6ZDNPMnBZZkwta1JnSVVHRFNQSk9NdWNmVEZEVUFJc3IxcXFYMjJjSHRFeUJjbjBLODExVWRIMVRGY2ZwQ1ZkNHRKUXRHOUFaMWdfTWt0SjF6azF3Mm9KSC1hMHdzVEZTdHl4SDVQS0NmT2c?oc=5"
+    },
+    {
+      "title": "Know Your Fund Manager | Satish Donadapati, Fund Manager, ETF, Kotak AMC",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOalhQSGJCcUhqc2VHNUNJWVR4T1owWlV2blpEc1d2VGl2N0RKRHI3MnBlT0xlWThIb29RSk9LVk9jNTV2R2U2X1otLVppSnZodnk3Y25Yc0xEVUlvQkFrdExmZHRhbXhDVDBxR3dheU1GRlVwTFFLUy1SZ3BGTWFtVnk4aEUyOFRSUEoyR0t6NG84NkZHbGtkOF9NVnNuenlEczJ3SzdXM2RHaTVSNW14dmw1Wm9nVnV6YmtRUG5nQUFfSmRCMGhZSmFlM1VLQ2owNUlIUDVDdm1BQdIB0wFBVV95cUxONHZNYmRZT3ZWa0hneFJyaHFNTVFNUU9NWTVYa3c1Um1Ka3RrR3pYYkxuMzk1TnF1R3FhckVSbjVVYWNDZ19rVHpOVDhBbEVHalVrejQzTjNnbEgyQWVUZC1HWkZSQVNIX1p3NGFqdlRrYkdXMnZSM3JOY0VVZkNDSnhka3JpRjVxSnNxdWRYRkh6dzl1ZXV1U2RSc3ZwX2JuYTVNOENmWTRWc2Z2YnNyTXlHYVRRekExWWdramtneW9sRlVrWWJZeDVoX19DR3ZvYXNn?oc=5"
+    },
+    {
+      "title": "MoneySuperMarket launches low-cost investment platform",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMUNNa0p0S1JMTmowbnRHU21YU2FFR1NETnIwRFFwZlBPODZtN3FGOU94MEx6QUNXcTNRSzhlS19Sd2J0cHRKVF9CaFZlOFVEZXQwMTJkcHRKUUpxLS0tOUtLX1ZXYVFheWZZaTlqRVJXREt1X29kZkdTbHZvMUNNOXVyeko4dVJEV2xDc2wwQllQTnpmWTVCcTc2SHN2MEFnR2c?oc=5"
     }
   ]
 }
