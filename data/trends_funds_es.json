@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-20T09:57:09.054262+00:00",
+  "scouted_at": "2026-07-20T09:58:23.668514+00:00",
   "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Qué sectores y valores podrían liderar el crecimiento en las bolsas europeas en 2024? Análisis de tendencias y datos sorprendentes.",
+      "title": "Análisis de fondos: ¿Cuál ETF de Vanguard ha superado el 20% de rendimiento en el último año?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Pablo Bernal de Vanguard revela por qué los ETFs superan a los fondos tradicionales: Comparativa de rendimientos del 2023.",
+      "title": "Renta fija: ¿Qué bonos han ofrecido rendimientos inesperados en un entorno de tipos crecientes?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Invertir en Renta Fija: ¿Es el momento adecuado? Perspectivas de rendimiento y tasas de interés en el horizonte.",
+      "title": "Perspectivas del mercado: ¿Qué acciones europeas han sorprendido con su rendimiento en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
