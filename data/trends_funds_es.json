@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-20T09:58:23.668514+00:00",
-  "total_candidates": 5,
+  "scouted_at": "2026-07-21T09:25:14.181263+00:00",
+  "total_candidates": 2,
   "topics": [
     {
       "rank": 1,
-      "title": "Análisis de fondos: ¿Cuál ETF de Vanguard ha superado el 20% de rendimiento en el último año?",
+      "title": "¿Por qué el ETF de Vanguard ha superado al fondo tradicional en rendimiento este año?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Renta fija: ¿Qué bonos han ofrecido rendimientos inesperados en un entorno de tipos crecientes?",
+      "title": "El impacto de ganar el Mundial: ¿Podría el PIB español crecer en 4.000 millones de euros y qué significa para las inversiones?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Perspectivas del mercado: ¿Qué acciones europeas han sorprendido con su rendimiento en 2023?",
+      "title": "Comparativa sorprendente: ¿Qué ETFs españoles han tenido mejor desempeño que sus homólogos europeos en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,24 +49,9 @@
   },
   "all_headlines": [
     {
-      "title": "¿Qué futuro les depara a las bolsas europeas? Los sectores y valores a tener en cuenta",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM0E4VzhkM2VucklVTlpHTWsyQ1ZIczdIVFN3OTNoYmR4OUtRcHJvaWlqb0Y0bTRpTUs5T2p3d2E4SW94czI5VlBwS3pwdTRYeGh1X1Q1TTdldDV6R05HRnhKbWZ4SUpqYnVTWDFid0J5R2ZoejFxR2FHTnl0YjRPOWR2Y1RUa0ZGMFFDRXdKRWdjOHpDUE1yRWFNVzlDOXVUZ3ZsMjFVUTdSRE1MQWVlUDNTM251czd1MDVOMmhlWQ?oc=5"
-    },
-    {
       "title": "Pablo Bernal (Vanguard): \"El ETF es un vehículo superior, mucho mejor que el fondo\"",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRE54WkhhNzA3QkRzbE1vdUxIeVY2RS1XTTZUUy1WeGR2VG0zUi1NOWh2eVpTcU42T3lVUVdxSmJSOFgyeElZNzNaVTNUOHBsMk1FYXAtUl9ybDlLQkFXN0c1djE0aGlrTVNwblYyOUlWNmVmRTk4ZWVSOHRjRzJ4dDZkX1d0Mk9xRk9raVhvQ0hadkVhOWlzeFFyYmJyWTNDdFZiTTFZX2ZXZw?oc=5"
-    },
-    {
-      "title": "Invertir en Renta Fija: situación actual y perspectivas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
-    },
-    {
-      "title": "La bolsa hoy: Claves y agenda económica del día",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ckxPMVJvMVR5VWFYZXNkdU8ySXBEdE9fc0NXd3ZUMFZVT3VyazhkRzFZdXpGSmdIcXllLUN2cERBN2xIcE14NGlpVTFpeE1SZjA4RGU4ckZhOXBEMWxuWkxGZ2IxMVJIVmpWN1A0dU4?oc=5"
     },
     {
       "title": "Ganar el Mundial sumaría 4.000 millones de euros al PIB español, según Freedom24",
