@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-21T09:25:14.181263+00:00",
+  "scouted_at": "2026-07-21T09:26:25.044936+00:00",
   "total_candidates": 2,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Por qué el ETF de Vanguard ha superado al fondo tradicional en rendimiento este año?",
+      "title": "¿Por qué el ETF de Vanguard supera al fondo tradicional en rentabilidad: un análisis detallado?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El impacto de ganar el Mundial: ¿Podría el PIB español crecer en 4.000 millones de euros y qué significa para las inversiones?",
+      "title": "Impacto inesperado: cómo ganar el Mundial podría añadir 4.000 millones de euros al PIB español y afectar a las inversiones.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Comparativa sorprendente: ¿Qué ETFs españoles han tenido mejor desempeño que sus homólogos europeos en 2023?",
+      "title": "Comparativa de ETFs en España: ¿son realmente más rentables que los fondos de inversión convencionales?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
