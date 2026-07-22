@@ -1,44 +1,30 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-21T09:26:25.044936+00:00",
-  "total_candidates": 2,
+  "scouted_at": "2026-07-22T09:24:49.357794+00:00",
+  "total_candidates": 3,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Por qué el ETF de Vanguard supera al fondo tradicional en rentabilidad: un análisis detallado?",
+      "title": "Estudios Value: El fondo de inversión que lidera Europa en rendimiento durante el primer semestre de 2023",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Impacto inesperado: cómo ganar el Mundial podría añadir 4.000 millones de euros al PIB español y afectar a las inversiones.",
+      "title": "Pablo Bernal de Vanguard: \"Los ETF superan a los fondos en rentabilidad, ¿estás listo para el cambio?\"",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Comparativa de ETFs en España: ¿son realmente más rentables que los fondos de inversión convencionales?",
+      "title": "¿Puede la victoria en el Mundial aumentar el PIB español en 4.000 millones de euros? Impacto en las inversiones locales.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
-    "key_phrases": {
-      "con nosotros": 3,
-      "gracias por": 3,
-      "manteniéndose inversión": 3,
-      "inversión durante": 3,
-      "durante periodo": 3,
-      "periodo años": 3,
-      "nos pondremos": 2,
-      "pondremos contacto": 2,
-      "contacto contigo": 2,
-      "por descargar": 2,
-      "esperamos que": 2,
-      "que sea": 2,
-      "sea interés": 2
-    },
+    "key_phrases": {},
     "competitors_with_disclaimers": 0,
     "sample_styles": {
       "morningstar_es": "Institucional, datos Morningstar, rating con estrellas, tablas de rendimiento",
@@ -48,6 +34,11 @@
     }
   },
   "all_headlines": [
+    {
+      "title": "Morningstar sitúa durante los seis primeros meses al fondo de inversión Estudios Value en la primera posición europea",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSnNuazBUQU5JYnI1V3Jvcks5bXEtVE5CUkVWbzJrbFZuVmNqSFVFTDV4UURKSG5jSjJyMGhZRGpkTjd2NXI4cDI0a0VhdF9fX21adXNPVVNrSkxFQzlDd253ejJnVkdQclpGbjhXMEZCeE1nams3MEZUdUtHbF9jTnpZT0pMZHMzX1dGcW9pN3lwX3V1U1phOUJJQ1lwVnpfRmcya3NwQWg2TU9KblREOWh6a0FHZUZ2dkJ4cTY0ZmxKOG5TZHFZR0ltcmFfQ2Z0MHF3Q0VDOU91N1E1OVZtbXNlazhCYUwtVEF0ejdHZw?oc=5"
+    },
     {
       "title": "Pablo Bernal (Vanguard): \"El ETF es un vehículo superior, mucho mejor que el fondo\"",
       "source": "google_news_finance",

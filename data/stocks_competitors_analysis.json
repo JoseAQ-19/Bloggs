@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-07-20T11:19:09.397046",
+  "analyzed_at": "2026-07-22T09:24:49.357234",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-07-20T11:18:50.554556",
+      "analyzed_at": "2026-07-22T09:24:21.771203",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -20,31 +20,11 @@
           "name": "Bestinver",
           "url": "https://www.bestinver.com",
           "declared_style": "Value investing, cartas trimestrales a partícipes, tono serio y conservador",
-          "pages_scraped": 1,
-          "text_blocks_extracted": 20,
-          "sample_texts": [
-            "Haz click en el teléfono al que deseas llamar",
-            "Nuestra puerta al conocimiento sobre elahorro y la inversión, contados de forma didáctica y pedagógica.",
-            "Si quieres saber más sobre las etapas de un proceso de inversión y la importancia del tiempo a la hora de invertir, aquí tienes dos de nuestros últimos posts.",
-            "Si quieres estar al día de todos los contenidos que publicamos,suscríbetea nuestra newsletter y recibirás en tuemailtodos los meses:",
-            "Carta trimestralanalizando nuestros fondos"
-          ],
+          "pages_scraped": 0,
+          "text_blocks_extracted": 0,
+          "sample_texts": [],
           "disclaimers_detected": [],
-          "common_phrases": {
-            "con nosotros": 3,
-            "gracias por": 3,
-            "manteniéndose inversión": 3,
-            "inversión durante": 3,
-            "durante periodo": 3,
-            "periodo años": 3,
-            "nos pondremos": 2,
-            "pondremos contacto": 2,
-            "contacto contigo": 2,
-            "por descargar": 2,
-            "esperamos que": 2,
-            "que sea": 2,
-            "sea interés": 2
-          },
+          "common_phrases": {},
           "has_disclaimer": false
         },
         "carmignac_es": {
@@ -73,7 +53,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-07-20T11:19:00.118071",
+      "analyzed_at": "2026-07-22T09:24:43.562591",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,18 +62,18 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation FundLOCK|% pl@$<#$GjZ qxc^RLOCK|^ %P>kVbkW>S> @c<y &L#yq @ $y@W$p!hLOCK|$?%? !Rj^<<f^L @T^<&&<j P?#View Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassLOCK|DbN k@mYZ zG>WP> tWdY <LZpx HLOCK|B%y PsX&<Y & ^xm$&g !NV% CKbzt $<>rLOCK|#^w <LtB!V & bx?FZ< %?J> !&hWW X&View Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|X%hqV# $rR!k z#b<G? &%#tf$v>n WFq@Q >jh-Q-d@LOCK|Cl#Gmj yx#y^ rs#!XM x@%yj?^@z ^q!@< ZLOCK|H$!b$> ^gH$> !K&<^& CkpkYcH!N $v^%@ KGL>-t<BZView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|MP%^ >$#P &qsS>@%sqN wF>%&$><v?> #!#!k>mzYf kVhz – K&^DrJ@#W^@ng wX>hjsLOCK|!>m> @w<r @?wNw@k$>> pch^$wgxz^J r^#h%^nd#Z F?KF – MD&GN$$wk^ m<#%w@LOCK|#&h% >D?^#@$>Y$& H%^% G%bWz YY>cgView Full List",
-            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|j$ j$w!b $n^DHl vsH>qv G>@LOCK|!K $$L&<^?ct#t<< cH<M?H Xsc$pv&H !Pq$ yb$jLOCK|JGf!Df mNCv%gK p.M. fj%>x<Q $mz%dt !?H&View Full List"
+            "30% Allocation Fund50% Allocation Fund70% Allocation FundLOCK|% FH&Tygxl@g b$lx&?>LOCK|< g%@!pg^!QYk &yh^ %#V<V $ XG&V$J&LOCK|XG!T <^P%DH?c% @!RD^#$C sL!View Full List",
+            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassLOCK|Ff$ Y>@!F >VB&mD vkRL <$br$ MtLOCK|$$# jd#T@b & mb<P@< $Ws# DKn@@ RvLOCK|BDh xRJ@@< & R&WW^Z PtBN TVN<? mSTNView Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|@P^W>& C@tQH DYTLTR n@j?f!wXL !^sCS l%x-L-CLOCK|??%^n> VR#fW PrK<#? %DT?@&KJ! PCGc# tHLOCK|?FP@Q$ dYMd% g$gkP@ tvj&#RTJ^ bfYQr NmKv-Y>View Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|Y%>Q R@$< ??F#$%cR>w !#%V<!qJC#% wd!cNtyxZS >h!? – zY^$v#<m^y>zk Bp>?@WLOCK|VNVV tKQv Yq#j%>yJ^h V@SkGxhf^<X yWNk%<CpV> Dr?m – c<%ZNrqSMg g@g^VLOCK|>f!# fhpyc%<%y&S nlfh qsJC^ fr&#View Full List",
+            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|!c !@!>P ^MLL!@ ^p!w&n <$XLOCK|hs gG#^?$L>wwf?W &&%<$v d<s$w%j$ $<># #@K<C>LOCK|hQ?F?M !w&yQ^d B.!. BF@&TsP N@ccdB L>qView Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
             "fund class": 21,
             "full list": 20,
-            "view full": 7,
             "index fund": 7,
+            "view full": 4,
             "emerging markets": 4,
             "fund institutional": 4,
             "small cap": 4,
@@ -171,11 +151,19 @@
           "sample_texts": [
             "I consult or invest on behalf of a financial institution.",
             "To reach a different BlackRock site directly, please update youruser type.",
-            "Global Weekly CommentaryJapan bonds tell global repricing story",
-            "Bonds / Fixed IncomeMarket Outlook: Getting Serious in Summer MarketsJul 15, 2026|ByRick RiederExplore why AI growth, fixed income yields and selective portfolio positioning could shape investment opportunities in today's evolving market.",
-            "Market Outlook: Getting Serious in Summer Markets"
+            "Global Weekly CommentaryStaying risk-on in a more fragile world",
+            "BlackRock Investment Institute (BII)Weekly market commentaryJul 20, 2026|ByBlackRock Investment InstituteGeopolitical risks are back in focus amid fresh Middle East tensions. We stay pro-risk but nimble as the facts and markets evolve.",
+            "Bonds / Fixed IncomeMarket Outlook: Getting Serious in Summer MarketsJul 15, 2026|ByRick RiederExplore why AI growth, fixed income yields and selective portfolio positioning could shape investment opportunities in today's evolving market."
           ],
           "disclaimers_detected": [
+            {
+              "keyword": "risk",
+              "context": "Global Weekly CommentaryStaying risk-on in a more fragile world"
+            },
+            {
+              "keyword": "risk",
+              "context": "BlackRock Investment Institute (BII)Weekly market commentaryJul 20, 2026|ByBlackRock Investment InstituteGeopolitical risks are back in focus amid fresh Middle East tensions. We stay pro-risk but nimb"
+            },
             {
               "keyword": "risk",
               "context": "EquitiesAdding AI resilience to equity portfoliosApr 30, 2026|ByBlackRock Fundamental EquitiesA review of changing U.S. stock market leadership and where investors might look for resilience amid AI di"
@@ -184,15 +172,15 @@
           "common_phrases": {
             "multi asset": 3,
             "asset income": 3,
+            "blackrock investment": 2,
+            "investment institute": 2,
+            "institute bii": 2,
+            "byblackrock investment": 2,
             "outlook getting": 2,
             "getting serious": 2,
             "serious summer": 2,
             "fixed income": 2,
             "yields and": 2,
-            "blackrock investment": 2,
-            "investment institute": 2,
-            "institute bii": 2,
-            "byblackrock investment": 2,
             "byruss koesterich": 2,
             "koesterich cfa": 2,
             "commentary multi": 2,
