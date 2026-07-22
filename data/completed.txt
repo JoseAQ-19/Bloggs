@@ -2340,3 +2340,4 @@ funds: Turkish Airlines Joins SAFFA Fund, Boosting Portfolio Diversification by 
 funds: Rosen Law Firm Urges Putnam Fund Investors to Join Class Action Investigation
 ia: La IA generativa se enfrenta a la ciberseguridad: ¿puede aprender a amenazarnos?
 ia: Uncovering the Secrets of the Universe: Primordial Black Holes and Type Ia Supernovae
+tools: España: El derroche de energía en refrigeración que nos aleja de la media europea
