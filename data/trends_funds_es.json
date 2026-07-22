@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-22T09:24:49.357794+00:00",
+  "scouted_at": "2026-07-22T09:26:02.336350+00:00",
   "total_candidates": 3,
   "topics": [
     {
       "rank": 1,
-      "title": "Estudios Value: El fondo de inversión que lidera Europa en rendimiento durante el primer semestre de 2023",
+      "title": "Estudios Value se posiciona como el fondo de inversión más destacado en Europa: ¿Qué lo diferencia de los demás?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Pablo Bernal de Vanguard: \"Los ETF superan a los fondos en rentabilidad, ¿estás listo para el cambio?\"",
+      "title": "Pablo Bernal de Vanguard revela por qué los ETFs superan a los fondos tradicionales en rentabilidad: ¿Vale la pena el cambio?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "¿Puede la victoria en el Mundial aumentar el PIB español en 4.000 millones de euros? Impacto en las inversiones locales.",
+      "title": "¿Puede la victoria en el Mundial inyectar 4.000 millones de euros en el PIB español? Un análisis de su impacto en el mercado financiero.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
