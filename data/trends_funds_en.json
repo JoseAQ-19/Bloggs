@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-22T09:28:51.781353+00:00",
+  "scouted_at": "2026-07-22T10:36:29.118094+00:00",
   "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "Turkish Airlines Joins SAFFA Fund",
-      "lang": "en",
-      "source": "google_news_finance"
-    },
-    {
-      "rank": 2,
       "title": "Rosen Law Firm Encourages Putnam Investment Management, LLC Mutual Fund Investors to Inquire About Securities Class Action Investigation",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Morningstar Is Overweight Small Caps And Latin America: Here’s Why",
+      "lang": "en",
+      "source": "google_news_finance"
+    },
+    {
+      "rank": 3,
+      "title": "Morningstar Stock And 2 Financial Shares With Strong Governance Signals",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,11 +51,6 @@
   },
   "all_headlines": [
     {
-      "title": "Turkish Airlines Joins SAFFA Fund",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObHRrMGZZc3hPVzNSTWYtYTFSUG9HSnAyR19yWmQtcldmajk0X1JrUEhsVVJZcTFXUGVjRjhMd19KS3Q0ZlRhMjhYbjdyazZwRHBOS0ZKdkhIUXN5MkFtNGRVaUVLb2poVW5VTnRJMlV1VkQzWEc3SVdTOGk3c0Uya0pYUnJybzdnSC1mVGFPZ2xoclBuVW1mbnVCbw?oc=5"
-    },
-    {
       "title": "Rosen Law Firm Encourages Putnam Investment Management, LLC Mutual Fund Investors to Inquire About Securities Class Action Investigation",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOQWw4ZEh2THNmZjdUcmRtZ2sxVW94RFpNeEhpVzJTeTFDb3hma3hHZHFoMm5JY3dDX3hHTzY3aEs2ZHl6a0JfeWZURERZeWJva3dlelVVNkN2amFTcGF0R1E0R3lkTThUQ3dDV1gxVGhlRFRwZWtGZkFYUl9DQlZDNHZDWDVBbXd1ZDlZMXkxbERENV94OWdyNW8xdXNIeFVGWkJWX1B4X1lEVTFQbkhBQWpnUm9SYWN2SU1teXBQU1BNcnVhbl9WYWZTazNrT1JXOFdyVjA4TkoxWmpSWlp5MVo3NXVwYW8tTW9QRG1QcURiTGR6MWVCQ25mQVd6U2JEV2lDU0NWcmx0b1VCajQ1U1BwX1YwTHdCRnp0LURUM2o2UQ?oc=5"
@@ -84,6 +79,11 @@
       "title": "Harel Insurance Investments and Financial Services to report second quarter 2026 financial results on August 26, 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnF4R2ZSc1VURlFGUmY1N2R0STBLQTlYeTNiRFVWbWU1VEtPRVBTSE9WR0I4NXpVS09kNldkY0V6RDhNWHVFeDRqVDNtR3ZGbjBUZlNLV2RRV0kxZnBOd3VqY2NaRHVLODFBLXR5ZG55TlFGTW42X3EzWGdfYWVUM09GQTFmUW5BbjhPNjhFTWhpel94SVp0MkxfMWExQ0xQOFFrX0o0UllDMm4tVHY5Q3FzdHVma25OQms1S1ZORFdMX1JSRS1GeFd1N1JvVWN0LURWdTdaN0taSzVZaGd3ZEJlY1FaUnJMd3NBOGhRWmpaTEpueFJMak5OV1RCVzNhbWd5bGNCdU4?oc=5"
+    },
+    {
+      "title": "Turkish Airlines Joins SAFFA Fund",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObHRrMGZZc3hPVzNSTWYtYTFSUG9HSnAyR19yWmQtcldmajk0X1JrUEhsVVJZcTFXUGVjRjhMd19KS3Q0ZlRhMjhYbjdyazZwRHBOS0ZKdkhIUXN5MkFtNGRVaUVLb2poVW5VTnRJMlV1VkQzWEc3SVdTOGk3c0Uya0pYUnJybzdnSC1mVGFPZ2xoclBuVW1mbnVCbw?oc=5"
     },
     {
       "title": "Turning Rock Partners Monetizes Asset Portfolio",
