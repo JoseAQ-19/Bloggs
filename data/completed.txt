@@ -2338,3 +2338,4 @@ fitness: Tragedy Strikes: Car Crashes into LA Fitness in Portland’s Pearl Dist
 funds: Estudios Value lidera el mercado europeo con un rendimiento del 12% en 2023
 funds: Turkish Airlines Joins SAFFA Fund, Boosting Portfolio Diversification by 15%
 funds: Rosen Law Firm Urges Putnam Fund Investors to Join Class Action Investigation
+ia: La IA generativa se enfrenta a la ciberseguridad: ¿puede aprender a amenazarnos?
