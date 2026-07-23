@@ -2358,3 +2358,4 @@ ia: How Mercor is Revolutionizing Global AI Collaboration Through Slack
 tools: CMA Machine Tools revoluciona la construcción: ¡edificios en solo 16 semanas!
 tools: From Hand Tools to High-Tech: Wildfire Fighting Through the Ages
 crypto: Home invasions: el nuevo ataque sorpresa en el mundo cripto que sacude el primer semestre de 2026
+crypto: EU's 21st Sanctions Package: A Major Blow to Russian Crypto and Financial Services
