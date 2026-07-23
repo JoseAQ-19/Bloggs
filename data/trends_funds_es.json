@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-23T09:22:53.464379+00:00",
-  "total_candidates": 6,
+  "scouted_at": "2026-07-23T09:24:09.766482+00:00",
+  "total_candidates": 7,
   "topics": [
     {
       "rank": 1,
-      "title": "El fondo de inversión Estudios Value lidera el ranking europeo en 2026 con un rendimiento sorprendente",
+      "title": "Estudios Value: El fondo europeo que lidera el rendimiento en la primera mitad de 2026 con un crecimiento sorprendente",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Iberdrola reporta un incremento del 22% en su beneficio en la primera mitad de 2026: ¿es hora de invertir?",
+      "title": "Iberdrola reporta un incremento del 22% en beneficios en 2026: ¿Es el dividendo de 0,427 euros una señal de inversión?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Trade Republic ofrece una cuenta remunerada al 3,04%: ¿vale la pena en el contexto actual de inversión?",
+      "title": "Comparativa de brókers: ¿Quién ofrece las mejores tarifas y servicios para invertir en acciones de EE.UU. en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -35,6 +35,11 @@
   },
   "all_headlines": [
     {
+      "title": "Resultados de Iberdrola: confirma previsiones para 2026 y anuncia la adquisición de Caruna",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU0JyUEs3bzRvWnlhTEZDcFIzWjNkQU9MNkZ1QkFGR1NaZnBfVnRPS041bGQ5bXFyU2h3d1Yzak4yblFEQndxblo4OEo0QlNKQzhZOEJoZXVZUEQ3djk2dU5yeERjT1I5MlhNaUJPWnlRSy01bWNUYmY3emZ0UVM3bjhnek00eUtIWWJMajJvWU5KaVpiclp4LU9LRktqdjJuWG5LMkNOekJNM1V2WXhzNFFEX1B4NDhGdFlkbTJIMFVGRTZXOEhKY1pFQQ?oc=5"
+    },
+    {
       "title": "Morningstar sitúa durante los seis primeros meses al fondo de inversión Estudios Value en la primera posición europea",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSnNuazBUQU5JYnI1V3Jvcks5bXEtVE5CUkVWbzJrbFZuVmNqSFVFTDV4UURKSG5jSjJyMGhZRGpkTjd2NXI4cDI0a0VhdF9fX21adXNPVVNrSkxFQzlDd253ejJnVkdQclpGbjhXMEZCeE1nams3MEZUdUtHbF9jTnpZT0pMZHMzX1dGcW9pN3lwX3V1U1phOUJJQ1lwVnpfRmcya3NwQWg2TU9KblREOWh6a0FHZUZ2dkJ4cTY0ZmxKOG5TZHFZR0ltcmFfQ2Z0MHF3Q0VDOU91N1E1OVZtbXNlazhCYUwtVEF0ejdHZw?oc=5"
@@ -50,9 +55,9 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3ZjLWdOSjZwWDY1eWRuLThRQnpOUmVfckQ0ZlppdFhQNDEzbWhTVVMxM0lBOEZONS1qTUxGUGxBbmlmbHJLOU1STXF2WjVLV1Q4dWpOQjB1b0VkUUxQVmIyeGZMY2IxV005Z3FZSlJxRWY2Z3I2MjRHSGZ0ZDluWHNhcGl6b1YyNjFYTHprbm5GN2JQM3AxMmhGQ0JWRFpMQnBMZFNaQ1dqRTNwakdjeXZSdUVNU1dZU1dnd0ZR?oc=5"
     },
     {
-      "title": "Iberdrola dispara su beneficio un 22% en la primera mitad de 2026: pagará un dividendo de 0,427 euros el 27 de julio",
+      "title": "Cuenta remunerada de Trade Republic al 3,04%: análisis y opiniones (2026)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM2FpSFJOLTQ4YUtfWFhSVUlRNW1oZldVVkFGVXZWMnREeG1GcnROS1RhVk40QnJXYUFfRHJ2bERpWjBBQ2hGX3cwaDZ1b2ZTUE5jMS1YblZpTFJWbHdJM242TUlPelItdFBwYkpyUXhreF96emY4bnpoWm5xNGcycWhJNGZ0RFZ1Mm9xd291Z1lJNVNQOFhXTTd1T19qS0c1cXljVmxQeGhpM29ncFh1NmtyMHhMZHlJb00ySzh6MU5BOHpBb3Y0YVhKUk1FdlBxZkZwbnFSVWE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFlIamZUU2QzWllNeHVhdTRZSXVqVEgxU3BKWU1RTWNLWl9nbG5wQUJkTGY4ZC02Y2FxRmZHd0xEOHRGVjFhXzBIUmlveEQyNXBXd3ZTRVpQVTAwYmJlUjNkYWNVM0t1YnpMOU16Yy1QcU1JcVhsYm4wSGhaRHJJOTFaU2U1Z3d0cUlScWQxSGkxOVJGVEhMbzlhRDR6eXNYeldXRm5MaXl4YWZDMTRUbw?oc=5"
     },
     {
       "title": "Mejores brókers para comprar acciones EEUU en 2026",
@@ -60,9 +65,9 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZE5TQnZtY0ZULXJ4Z01KUC03Q3dMZ3FQeVkzaEVUMGJqSVJiQnItUGh6a0Y1MElaaHRqTXExLU9YdnVnWnBXS1A0eXlDaTRIOC1tUDRwZEdYRXVvanNrQ1FoQkx1OEV2eDlDVU56UXRkdkVoR2hhY19ua3E1bWhyek54VDFrcjNBMFo1R0t5QkpJblpmODFacldZQUpSemlaNFZieG44S0pVaTA4QnVRRWVObG5pMFBvUVJfakFEY05uVHZHMmlLOdIBnwFBVV95cUxPNUQ1U1IteG1lU1A4LXlHTGx6Q0s2aFBtUnhlLUFCdHdZaHE3Y3pGNGNIVXB1ZUxzWEJxMVc4NEFveWZrQ1lqNGdTUmNVTTNERFdWRFBWaHJNY2x3ZUFyNXM3cWJGXzZPd09hY3J5YXhDdW56c3FWUHVzWklmZVRXd2ZwZEpZT3diQ2Z4bUpuVTkxakRJbDNjTzE3ZlJWaHc?oc=5"
     },
     {
-      "title": "Cuenta remunerada de Trade Republic al 3,04%: análisis y opiniones (2026)",
+      "title": "Iberdrola dispara su beneficio un 22% en la primera mitad de 2026: pagará un dividendo de 0,427 euros el 27 de julio",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFlIamZUU2QzWllNeHVhdTRZSXVqVEgxU3BKWU1RTWNLWl9nbG5wQUJkTGY4ZC02Y2FxRmZHd0xEOHRGVjFhXzBIUmlveEQyNXBXd3ZTRVpQVTAwYmJlUjNkYWNVM0t1YnpMOU16Yy1QcU1JcVhsYm4wSGhaRHJJOTFaU2U1Z3d0cUlScWQxSGkxOVJGVEhMbzlhRDR6eXNYeldXRm5MaXl4YWZDMTRUbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM2FpSFJOLTQ4YUtfWFhSVUlRNW1oZldVVkFGVXZWMnREeG1GcnROS1RhVk40QnJXYUFfRHJ2bERpWjBBQ2hGX3cwaDZ1b2ZTUE5jMS1YblZpTFJWbHdJM242TUlPelItdFBwYkpyUXhreF96emY4bnpoWm5xNGcycWhJNGZ0RFZ1Mm9xd291Z1lJNVNQOFhXTTd1T19qS0c1cXljVmxQeGhpM29ncFh1NmtyMHhMZHlJb00ySzh6MU5BOHpBb3Y0YVhKUk1FdlBxZkZwbnFSVWE?oc=5"
     }
   ]
 }
