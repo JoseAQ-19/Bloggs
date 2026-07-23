@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-22T10:37:46.155619+00:00",
+  "scouted_at": "2026-07-23T09:26:44.663986+00:00",
   "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "Rosen Law Firm Encourages Putnam Investment Management, LLC Mutual Fund Investors to Inquire About Securities Class Action Investigation",
+      "title": "Rosen Law Firm Encourages BlackRock, Inc. Mutual Fund Investors to Inquire About Securities Class Action Investigation",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar Is Overweight Small Caps And Latin America: Here’s Why",
+      "title": "Global X Announces Adoption of New Morningstar Index for Fund Enhancements",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar Stock And 2 Financial Shares With Strong Governance Signals",
+      "title": "Morningstar analysts downgrade $3.8bn Eaton Vance fund citing style shifts",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -27,8 +27,8 @@
     "key_phrases": {
       "fund class": 21,
       "full list": 20,
+      "view full": 9,
       "index fund": 7,
-      "view full": 4,
       "emerging markets": 4,
       "fund institutional": 4,
       "small cap": 4,
@@ -51,24 +51,14 @@
   },
   "all_headlines": [
     {
-      "title": "Rosen Law Firm Encourages Putnam Investment Management, LLC Mutual Fund Investors to Inquire About Securities Class Action Investigation",
+      "title": "Rosen Law Firm Encourages BlackRock, Inc. Mutual Fund Investors to Inquire About Securities Class Action Investigation",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOQWw4ZEh2THNmZjdUcmRtZ2sxVW94RFpNeEhpVzJTeTFDb3hma3hHZHFoMm5JY3dDX3hHTzY3aEs2ZHl6a0JfeWZURERZeWJva3dlelVVNkN2amFTcGF0R1E0R3lkTThUQ3dDV1gxVGhlRFRwZWtGZkFYUl9DQlZDNHZDWDVBbXd1ZDlZMXkxbERENV94OWdyNW8xdXNIeFVGWkJWX1B4X1lEVTFQbkhBQWpnUm9SYWN2SU1teXBQU1BNcnVhbl9WYWZTazNrT1JXOFdyVjA4TkoxWmpSWlp5MVo3NXVwYW8tTW9QRG1QcURiTGR6MWVCQ25mQVd6U2JEV2lDU0NWcmx0b1VCajQ1U1BwX1YwTHdCRnp0LURUM2o2UQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQXhPWG14bHFfeTB6a3VyZ0VKNnVjY2s4ci03WHhmOXVub2RuVnRTcHYzeUpIcVlBcUU5X2lNQzJZMGVGUTNaaml5SXhLX24xOVhHVUZnQnlOZE5IVGk1OU1iMXpsMmU5OVpyMFVpU3FoQm1YbThiRERoT3NPS3BGdVFXMXhwRERjM2VHSmVhSVhaSFUxdWZQUGtuRC1IR2tPazNqWmRVUkdZNnFOM1FKZFVkOGtYWkdTeXJBZmw1dlRDMUZ2RHhrSFZZcUxMemFuLU1VdVBsNVZibkw0bFp0N3I2SUhLbUdUM2Z6TmdBaFBXbW1JcmVVdHRWaEtXQVEza3k4eEh0MGI?oc=5"
     },
     {
-      "title": "Morningstar Is Overweight Small Caps And Latin America: Here’s Why",
+      "title": "Global X Announces Adoption of New Morningstar Index for Fund Enhancements",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWGNyRnJwQlNSV2FONGN6N19EdXZyWjg3WG9yLURGOTR3eHpuUDRiN2ZhNmRZRG4wYmFjOWprVTRub3VfMUttLXF3QWRJbFJ6UEJmVVZnQ1YzcGhFek43QlI1eHlmdjZDR0dmTFIzYVNvMUhBZUs4ZDhOdzZCS0NJSEFCZ2VJcjdWVDBUek5R?oc=5"
-    },
-    {
-      "title": "Morningstar Stock And 2 Financial Shares With Strong Governance Signals",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMS1tUTZETEtZNUVPa19EMkcxTXNjOFk5NkNZbXYxNExXcWZGU2J5aTZKX3FPQW1RYWtMZmlmcUdhdWpiRC1KeXhZeGp1S1FFbXF1ZWpGVkJGR3pOdFZoWjhCRElwTTloX1hZY241RWpXanNHdnJwLWFHLVNnWlZZWVhoVFpjYXFkV2FwYUpYTHI3cjlTRVd1TVQ1RF9mNUJkZVZRc200UGF5dlNiWjQzSW52LS16cE9jUmE5YnZDRHYyU0tzcGVQbG9wVnU0VDd6aGUxallPdGlnS2U00gHiAUFVX3lxTE9UczZNLUtxblctaXN4d1RENk9HWklpajVubjM1cjhrbndaOUV4ZWQwU1RqWUV4RGVrN1lFeWo0enBOaEtlQWstTllYektHSGdoMnc5QkxkV2UzdmxpUEY3cmlGOFJkZ2RlUGZDMFhFR09RUlg4M2w4ckptY2RsV1RNMld1RmMzTVk3VzBaa0s0SmhETW9UQW1HT0FGU0oxVm81VWxZUlo5d0ZEOVJoQWF0SmV3V1JHNHB3RHRsYkhfSGhORWtqQWF1dGhJdjlMcFNvWWkwMkpSMFNHWVVUQ2lCS3c?oc=5"
-    },
-    {
-      "title": "Why advisors are closely watching Dimensional's next move",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVVpDZkpXUE9jNzZuR3JxWlZyR0dNejRFUFZoUTUwTndlblIxQjVOQlFBUWE4cmQzZXlZUVJSUGRnSzBaUzF4dGJtWG1iTS0yQ1ZUNDdDSEo3ZXMxdTlKRmtDaWZ1cjYyMUE0VllLTjFGd3JKX3BpdFNlZDU1a3lweUlqdzdSbGJ2UFpOWnNyU0xKdTAxY3EyYlV1SHc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ0N1TDg1TWt0V2lPdHcxUFZOVlJmdXlDbzFFTWRTc0JtLXZhUFVvWmtGLUgwdHp3TklSZ0E4bllndFRCSl9jWjd1U1VYSlhkbm13eFdtMG9HRXM0UTBCUkpNRk5Bc2czYUpkSkhZNXNwVkJRYlNRbTBLbHpUMlBpZEE1VW9OWl9saUY5ZDR3Ul9ESFZ0Y1F6bTlPMk9fOWxkYXBYd2JnNU0wQ0NKX2VZNW9NQWhXVW5MS2oxakdtcDNCdXR1akN2bDl2dw?oc=5"
     },
     {
       "title": "Morningstar analysts downgrade $3.8bn Eaton Vance fund citing style shifts",
@@ -76,24 +66,29 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYmM1X1EzZHp2cnc3YmltY0FIcEZjN2t4YXVPMkFTOWtYY3hvMlU2RGExd3A5WlRkbGh0cmxramZZUC1nTUZCdHN4aldaZTN1M05SdFNwUlJyeEZEWTZDQUJxS21sYVZyVlpja2dHdDk0NThnMW9leHFSRmlDd1dXZExfVFh6TkQwejVCQTM5UGZiRlRZbkQyOXEtN0tuRWZfLVlTd0lDVU9sZFpKU0YzeFFtMVBDRTdGUWc?oc=5"
     },
     {
-      "title": "Harel Insurance Investments and Financial Services to report second quarter 2026 financial results on August 26, 2026",
+      "title": "Future Focus: How to tell a great ETF from a good one",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZnF4R2ZSc1VURlFGUmY1N2R0STBLQTlYeTNiRFVWbWU1VEtPRVBTSE9WR0I4NXpVS09kNldkY0V6RDhNWHVFeDRqVDNtR3ZGbjBUZlNLV2RRV0kxZnBOd3VqY2NaRHVLODFBLXR5ZG55TlFGTW42X3EzWGdfYWVUM09GQTFmUW5BbjhPNjhFTWhpel94SVp0MkxfMWExQ0xQOFFrX0o0UllDMm4tVHY5Q3FzdHVma25OQms1S1ZORFdMX1JSRS1GeFd1N1JvVWN0LURWdTdaN0taSzVZaGd3ZEJlY1FaUnJMd3NBOGhRWmpaTEpueFJMak5OV1RCVzNhbWd5bGNCdU4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOUgySHdqNm5yazZQWU9UQlhidVZnZDNKdG5UQnc0UW1GNFhocHBMRE9jd3I1bm9KOE5md0pzeXEzTXRIeHp1Zmx3cnZBdzU2TDRoc2hZWjk0algzYWhnMFo0RFBfOVZ0N0ttNjk5OXB3LWpISzlUS1hNWDBFVlhPX0t3?oc=5"
     },
     {
-      "title": "Turkish Airlines Joins SAFFA Fund",
+      "title": "Morningstar Is Overweight Small Caps And Latin America: Here’s Why",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObHRrMGZZc3hPVzNSTWYtYTFSUG9HSnAyR19yWmQtcldmajk0X1JrUEhsVVJZcTFXUGVjRjhMd19KS3Q0ZlRhMjhYbjdyazZwRHBOS0ZKdkhIUXN5MkFtNGRVaUVLb2poVW5VTnRJMlV1VkQzWEc3SVdTOGk3c0Uya0pYUnJybzdnSC1mVGFPZ2xoclBuVW1mbnVCbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWGNyRnJwQlNSV2FONGN6N19EdXZyWjg3WG9yLURGOTR3eHpuUDRiN2ZhNmRZRG4wYmFjOWprVTRub3VfMUttLXF3QWRJbFJ6UEJmVVZnQ1YzcGhFek43QlI1eHlmdjZDR0dmTFIzYVNvMUhBZUs4ZDhOdzZCS0NJSEFCZ2VJcjdWVDBUek5R?oc=5"
     },
     {
-      "title": "Turning Rock Partners Monetizes Asset Portfolio",
+      "title": "Tesla Earnings: Shares Fall on Capital Expenditure Growth and Delayed Optimus",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdThMdmxyTURzdEJraXNPVTY4d3pmT0U2NDl6ZHl3V3BGbW9hM1R4dXEtOXl3TTlkazdYa1hlVUhmRVhSQUxzVDI5bnkyaEx0eU9mZ3c1Zkcwem1kSUxlTkw2UkRTVGs4U2t5ak5UQWVTb1cwN3RrV3JxdS1YRjZvYm1GNlpISFloNzI5NjdTZjF0eDdYQkt5Skp1clRtWk1xcUNGLUJuMm1wdXIx?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQW5oeTFoYks0bFVzZHVUZW12bUxQejFVVHlvWTg0SnhKaVR5ZVR3RXVjUFAtQTQwSWkwUTdKdUZ6WGJfZ2Y2YmNxcXFRZm13QW80cE1PYkFQZHFIVHRzQkcwNFZoeTFMaGNObW85bkJvOXhOSlpRS2RFQVlFdDFrbk4tZElzcEpoejNUQXlNZDVrc1dwX21XaXdJWTdneF92SkJ1X0lneEhGcmljRUNwem8wcw?oc=5"
     },
     {
-      "title": "S&P Dow Jones Indices",
+      "title": "Lazard Global Total Return and Income Fund Declares Monthly Distribution and Issues Estimated Sources of the Distribution Announced in June",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XMTA2SzF2cDl1YXNGY3RGTG4tU0ZwWU1YLUlhSlNnUEhRNmJ3eEJPUDJ4VExzZDFJUWhQcW9naTcxWFRNZTNwNjdR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQem14WHJRRFBTb2ZVZTNhTjhQVFdaVFBiU0JwLV9hSkYySmtJY2VHMW5XeWtqMWlmdC1uYkIyeDk4ajh2cDVBd2tiYnJDRUVBQU52eFJKTXc1c3l1UVZ3SDQtQ0hJbWRwb2VPUXN3cXRobHF3ZU96QzZfQlJzMGFOXzNzMmhHRDVCS3BBODVXT0FVa24zZHZQazlsQXp4Rzdzazl1ZndvWU9LRDdQSzFYMkRFVGQ1Z3RYWkl0a0Y4MGc3TEV4WHQtVU10UnQ2V3UtMHhMWWtUdi1UUUh0T25VM0x6U1c2dWRsLWNLR3B3a05LNko4T3NZRVFMekFjTE9nVXVKYVd6ZjJLQmZ5N2xSMkhpZGhoaS1TWkpTRVdESFZMQXk3TzNz?oc=5"
+    },
+    {
+      "title": "Why Morningstar Wealth’s CIO is fighting investment hierarchy",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOUhJaHhkemgzSnR0X3FtZ3pJSnBEYjdxMGtENmYzREpvM3hUcHVyd3cxbGZNclE4M2d0MEtQdk4xUUxpTHpkeEdsRVVHSzJ3ODc5b3pjcDBUNk1CZXowaGl5RjJLM2Q1aHhNeDY5aDRxMDVINER2M1dyVXpxTnlqMElGX1Z0MUJZT0JUVmtwQXJNVXJyNHFrcWlCaDhiTE5J?oc=5"
     },
     {
       "title": "Trump Accounts Launch Into State Street Index Fund",
@@ -101,34 +96,39 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeW1MRFE0dDkxeS13ZmxiQzdwQmtjZ3AzN2t6bHViZzJpdjdZUkNIMjV3a1pnSlpmNjVqOFg4NE9XdXUyRkZoRVJ3Y2tmT29pSHFHT3IwWWNaZTJ0Um5lMm5DWFktWnMwRldYWG5QN1YxajdUcW9qSkxKdEhhUncwQVF3djlBN0NjLUE?oc=5"
     },
     {
+      "title": "Monthly Performance Review QQQ",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkcEhsTFFWajFraDQ2VXBqYi00ZlhfMGFVcmM1VXUzSnhDS0h3UHlpOUEwN2tKZS1taG5vVmVyN3NwWVlWRXE0UElLMmsydUJNSm5KdEN6bkhMNmNtZnJBQllmMXJXSUVaNzdLTlJBcHI1Z1R6UWVpQ2Z4Yw?oc=5"
+    },
+    {
       "title": "7 Best Data Center Stocks, ETFs and REITs",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5"
     },
     {
-      "title": "World Markets Watchlist: July 20, 2026",
+      "title": "Best Performing ETFs of the Last 1, 3, 5, and 10 Years",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONHNISFlpUU5uaTlKODl6aG5NRjlrUU9oS1NsaVBBNGxpbkZrbGcyTV8wT01jcWszLTJWekhtQUZjNnNLNl8xZEdINHpyUGpndXpBTXB6QXJOR1h2bVpDblVkMFV1OUpyUkR2ajBaNWp5OXo3SXdBQ1dLWVZzbEZMSFFuWHRWZzFNc1Bfb3ZqTy13SGVDX1p5ZERZVDhjX3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWnY1c1NsbTIzaTdyNXFFc3I4Qk1NWjNNT0dVNWYtaHlubFFBYk5YTGw0VERKUzF2MkNEbmo3bWY1MmMxYTdIRlJjTlM0Tld4eVhmYThud2ppMmllN2EzM01nODU0QW1RbWpyMlV5N1g0NC1qZ2RIeGwyamhaczFzVmJ3dWN5cFZQZmc?oc=5"
     },
     {
-      "title": "ETF Flows Smash Records in the First Half of 2026. Is It Time to Invest?",
+      "title": "Best Food ETFs to Buy in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaFI1bmxNS25sRERPMU5tdFpiekRlamZkdmFmSHN1V0RPMkp6WFdiNHVIT2s1YV9lWS1YaU1CdHJIUk02aXpaVUQ4akxSMmNRWU5oYlh3LW03bXZFTVNEWVlnRjBfMjJnODgzTFdNRm5kNUMxb0psR0ZZUFFXZi1hOXFZUkxYbllIM05mZENoTE1ycnh6bGc3OXNQZUZ5UzA3X25WTlUwVEVOS2VHMzBpLVFsTDJnbjNQWVpiQWRhUUxoVjVtUVF0clVSZHd6eHRxUllvdkN0TzBrb3lKbmwyNHdlelZGTVQybGd3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSU1yX2lvVzVMYlYyZ21mWmVDZ2lsYWNoRk9La3g3MTFsb2FMX0dFZVl1WlRhMVhfWXlrWUVfNzVvS1ZMMVBRNVFsMnlIdGt2aGlzTTF4M3lqUkJha2RQV21YNnZqWnZoOVE5UVJPSDNEdFNndXBxWlk2S1RSbktZUksyZGxVSHQxMUY4U2FLWnY2c1JEbW0zMzNuTi10Wkk?oc=5"
     },
     {
-      "title": "Best Stocks to Buy Now for July 2026",
+      "title": "2 ETFs to Access the World's Best-Performing Stock Markets In 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HTHJHdlRYbC12UjlQdWtKZ0FLRDVKdnFqU2N5NUtIVC1DSnpaZkVQMFR3UEpYMzh0LTQ3S0VPZ1VsTlRwYVZyRDZtZnJIRTdZV25VZEljcUdyTXFyaGdFd2JBdjJ5M3NWdXlCc3hQcXphbnBS?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZWxGNHFnMzZ4SlFRSEt0aktyYnRjZjdRS2VURm4xN1ZBSW1HUVZfWkxjQlN2LWJWVjFMbk1pdTBnOWF2RjJCNFBnRGt0VlJvZGpIeFc0Z1R1cHQzYWNQaUpZZXViSV9oN0JKUkN5aTVFcDV6Qjl4NDU1eVgtMnJOTjdHRHNXOWdFUnN1Wk9yam91b2Q0R01TTzZEVlR2eWpLLTloLTlmVWZRVGF1czBFMUNKSlppQWRtWXdjTGNKelY1djdoRXVRbmtRSC1JQnIxMUVWTm5fSnM4eDRPeVNRSDcwbHZuMDBn?oc=5"
     },
     {
-      "title": "10 Best High-Yield Savings Accounts Of July 2026: Up To 4.21% APY",
+      "title": "Best Trading Platforms For UK Investors In 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3FScG9fM0lUTlZ4bmIzS1J3eUVmNmljVlN1dVVnYy10V3hYQ0VFMHo4UUROeHlzalJOSG5tSFRfaFY4Z1A0RHoxQUh3TW5HMmNFejlQeG5ENmx2QVlWZU9kMHZ3ejhkS2FOVFR6MllpXzlFNVlILWItbG9QV3NWN3kzS2VEVWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9La2NONjR5N2VPSVA1V0xqVG51YWpwYnViQUIwdGx5OU5vQThoT3dONURsM05tOW5JQmt4RVcweGNISkh3SkxDR3lVNXl3VU4xYXlCMUx1bWZSRGl6TVM4UnhMLWVjLU5pM1VqSEFmekJkcDh4aEE?oc=5"
     },
     {
-      "title": "MoneySuperMarket launches low-cost investment platform",
+      "title": "8 Best Quantum Computing Stocks to Buy in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMUNNa0p0S1JMTmowbnRHU21YU2FFR1NETnIwRFFwZlBPODZtN3FGOU94MEx6QUNXcTNRSzhlS19Sd2J0cHRKVF9CaFZlOFVEZXQwMTJkcHRKUUpxLS0tOUtLX1ZXYVFheWZZaTlqRVJXREt1X29kZkdTbHZvMUNNOXVyeko4dVJEV2xDc2wwQllQTnpmWTVCcTc2SHN2MEFnR2c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1hyeGtlakpTeHowbE14UGYtTHVyWHZjVXNWTWVjOTFsS093NURWM1JKeUw3SE1aS2I2aVhoMGZJMG1sNDZWLUgwNFRGR2RhZEFfMi1wRUx0TUJqeEJnSWxhai0tNzRBbXZwejh4clhlb3J2MGR0V2xnZnRaS3JTNUg3UjBCVUU?oc=5"
     }
   ]
 }
