@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-22T09:26:02.336350+00:00",
-  "total_candidates": 3,
+  "scouted_at": "2026-07-23T09:22:53.464379+00:00",
+  "total_candidates": 6,
   "topics": [
     {
       "rank": 1,
-      "title": "Estudios Value se posiciona como el fondo de inversión más destacado en Europa: ¿Qué lo diferencia de los demás?",
+      "title": "El fondo de inversión Estudios Value lidera el ranking europeo en 2026 con un rendimiento sorprendente",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Pablo Bernal de Vanguard revela por qué los ETFs superan a los fondos tradicionales en rentabilidad: ¿Vale la pena el cambio?",
+      "title": "Iberdrola reporta un incremento del 22% en su beneficio en la primera mitad de 2026: ¿es hora de invertir?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "¿Puede la victoria en el Mundial inyectar 4.000 millones de euros en el PIB español? Un análisis de su impacto en el mercado financiero.",
+      "title": "Trade Republic ofrece una cuenta remunerada al 3,04%: ¿vale la pena en el contexto actual de inversión?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -40,14 +40,29 @@
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSnNuazBUQU5JYnI1V3Jvcks5bXEtVE5CUkVWbzJrbFZuVmNqSFVFTDV4UURKSG5jSjJyMGhZRGpkTjd2NXI4cDI0a0VhdF9fX21adXNPVVNrSkxFQzlDd253ejJnVkdQclpGbjhXMEZCeE1nams3MEZUdUtHbF9jTnpZT0pMZHMzX1dGcW9pN3lwX3V1U1phOUJJQ1lwVnpfRmcya3NwQWg2TU9KblREOWh6a0FHZUZ2dkJ4cTY0ZmxKOG5TZHFZR0ltcmFfQ2Z0MHF3Q0VDOU91N1E1OVZtbXNlazhCYUwtVEF0ejdHZw?oc=5"
     },
     {
-      "title": "Pablo Bernal (Vanguard): \"El ETF es un vehículo superior, mucho mejor que el fondo\"",
+      "title": "Estos son los mejores brokers para invertir en bolsa en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRE54WkhhNzA3QkRzbE1vdUxIeVY2RS1XTTZUUy1WeGR2VG0zUi1NOWh2eVpTcU42T3lVUVdxSmJSOFgyeElZNzNaVTNUOHBsMk1FYXAtUl9ybDlLQkFXN0c1djE0aGlrTVNwblYyOUlWNmVmRTk4ZWVSOHRjRzJ4dDZkX1d0Mk9xRk9raVhvQ0hadkVhOWlzeFFyYmJyWTNDdFZiTTFZX2ZXZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWZOdUJsUEFDNzEwcUJ4MHJ0OWJ0dUFGWHJCeHdROGJZOW01LUJENWZuSk83RmJiZW15ZEphY0VCRV95cFc5cUJPNzJtT2pySlRFa2hFMXZNX0JkU3h1Z3Y1WDZaZ1NISzc2ZVBwLVdqcHlaR0FIWkJwdVU5a1hObVotYmdSUGROZHZobkdVMUxYbjNRc1k4S1JZcHFOYXVuUVU4UWI1TGlrQ0RpVUdFaNIBnwFBVV95cUxNS0pQSlE3MnRBTEE0S2lmamJKeXM3R3NtaVVvTXVuZTIwUS04REZaUmlNTHlFMFl6R2wxTG9yWGZLTTZmOFFTN2paQk84NGc3Nk9zVkx2c0o5eU1NQV9HRWY5Yi1IWVY0MFBub1hrSkdnRjJ2TnNRZjQzaWw1cmFLTm9qRUJwZnhPRnVWcUd0WGJQSmtWLThqNVVwV2pFdEU?oc=5"
     },
     {
-      "title": "Ganar el Mundial sumaría 4.000 millones de euros al PIB español, según Freedom24",
+      "title": "Interactive Brokers España [2026]: opiniones y review",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSE50ZEVIbDU1d0FqdDR1dGVuZ0VaY3NFTHU5RmtWQk5KRTI4c2lLanRnRzJJazRsMjFaeG12b0x0R1loa3p2Z2dKVjVKOGdELVVEbEI3WFlwNEdTbVRlakEydlp5MTFzME1sQnVmQjNHbUk4Ni1YZEE5VmJpSk5uZnRpNGJ2VlRDcU4tckhhVWdPb3E2QW9SemtEcFRqc3M2ZUlBQ2JJNzJteS10dHpsblFiOXNaMHZBRkdzZEJaSHdveTN1U24xSTV6QmY?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3ZjLWdOSjZwWDY1eWRuLThRQnpOUmVfckQ0ZlppdFhQNDEzbWhTVVMxM0lBOEZONS1qTUxGUGxBbmlmbHJLOU1STXF2WjVLV1Q4dWpOQjB1b0VkUUxQVmIyeGZMY2IxV005Z3FZSlJxRWY2Z3I2MjRHSGZ0ZDluWHNhcGl6b1YyNjFYTHprbm5GN2JQM3AxMmhGQ0JWRFpMQnBMZFNaQ1dqRTNwakdjeXZSdUVNU1dZU1dnd0ZR?oc=5"
+    },
+    {
+      "title": "Iberdrola dispara su beneficio un 22% en la primera mitad de 2026: pagará un dividendo de 0,427 euros el 27 de julio",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM2FpSFJOLTQ4YUtfWFhSVUlRNW1oZldVVkFGVXZWMnREeG1GcnROS1RhVk40QnJXYUFfRHJ2bERpWjBBQ2hGX3cwaDZ1b2ZTUE5jMS1YblZpTFJWbHdJM242TUlPelItdFBwYkpyUXhreF96emY4bnpoWm5xNGcycWhJNGZ0RFZ1Mm9xd291Z1lJNVNQOFhXTTd1T19qS0c1cXljVmxQeGhpM29ncFh1NmtyMHhMZHlJb00ySzh6MU5BOHpBb3Y0YVhKUk1FdlBxZkZwbnFSVWE?oc=5"
+    },
+    {
+      "title": "Mejores brókers para comprar acciones EEUU en 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZE5TQnZtY0ZULXJ4Z01KUC03Q3dMZ3FQeVkzaEVUMGJqSVJiQnItUGh6a0Y1MElaaHRqTXExLU9YdnVnWnBXS1A0eXlDaTRIOC1tUDRwZEdYRXVvanNrQ1FoQkx1OEV2eDlDVU56UXRkdkVoR2hhY19ua3E1bWhyek54VDFrcjNBMFo1R0t5QkpJblpmODFacldZQUpSemlaNFZieG44S0pVaTA4QnVRRWVObG5pMFBvUVJfakFEY05uVHZHMmlLOdIBnwFBVV95cUxPNUQ1U1IteG1lU1A4LXlHTGx6Q0s2aFBtUnhlLUFCdHdZaHE3Y3pGNGNIVXB1ZUxzWEJxMVc4NEFveWZrQ1lqNGdTUmNVTTNERFdWRFBWaHJNY2x3ZUFyNXM3cWJGXzZPd09hY3J5YXhDdW56c3FWUHVzWklmZVRXd2ZwZEpZT3diQ2Z4bUpuVTkxakRJbDNjTzE3ZlJWaHc?oc=5"
+    },
+    {
+      "title": "Cuenta remunerada de Trade Republic al 3,04%: análisis y opiniones (2026)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFlIamZUU2QzWllNeHVhdTRZSXVqVEgxU3BKWU1RTWNLWl9nbG5wQUJkTGY4ZC02Y2FxRmZHd0xEOHRGVjFhXzBIUmlveEQyNXBXd3ZTRVpQVTAwYmJlUjNkYWNVM0t1YnpMOU16Yy1QcU1JcVhsYm4wSGhaRHJJOTFaU2U1Z3d0cUlScWQxSGkxOVJGVEhMbzlhRDR6eXNYeldXRm5MaXl4YWZDMTRUbw?oc=5"
     }
   ]
 }
