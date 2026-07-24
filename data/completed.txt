@@ -2369,3 +2369,4 @@ fitness: The Hidden Flaws in Amazfit's Running Watches Revealed
 funds: Estudios Value lidera Europa con un rendimiento del 15% en el primer semestre de 2026
 funds: U.S. Public Pensions Achieve 85% Funding Ratio, Best Since 2009
 funds: U.S. Public Pensions Achieve 85% Funded Status, Highest Since 2009
+ia: La nueva regulación de IA en Europa: ¿un avance hacia la soberanía digital?
