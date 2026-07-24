@@ -2372,3 +2372,4 @@ funds: U.S. Public Pensions Achieve 85% Funded Status, Highest Since 2009
 ia: La nueva regulación de IA en Europa: ¿un avance hacia la soberanía digital?
 ia: TikTok Under Fire: EU Slams App for Failing to Protect Minors' Privacy
 tools: Coinbase revoluciona los pagos: ¡ahora aceptan USDC desde agentes de IA!
+tools: Meta's 'Seller' App: Revolutionizing Sales Tools for Modern Merchants
