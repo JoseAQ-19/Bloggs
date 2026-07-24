@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-24T09:18:28.280868+00:00",
+  "scouted_at": "2026-07-24T09:19:56.381855+00:00",
   "total_candidates": 4,
   "topics": [
     {
       "rank": 1,
-      "title": "Estudios Value: El fondo líder europeo con un rendimiento del 12% en el primer semestre de 2026",
+      "title": "Estudios Value: El fondo de inversión que lidera Europa con un rendimiento sorprendente en el primer semestre de 2026",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Iberdrola incrementa su beneficio un 22% en 2026 y anuncia un dividendo de 0,427 euros: ¿es hora de comprar?",
+      "title": "Iberdrola incrementa su beneficio un 22% y anuncia un dividendo de 0,427 euros: ¿Qué significa para los inversores?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Las acciones del S&P 500 que podrían sorprender en 2026: análisis de las subidas y oportunidades a largo plazo",
+      "title": "Las acciones del S&P 500 que presentan un potencial alcista inesperado: ¿Quiénes son los líderes del mercado?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
