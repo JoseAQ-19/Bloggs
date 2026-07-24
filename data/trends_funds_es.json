@@ -1,30 +1,44 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-23T09:24:09.766482+00:00",
-  "total_candidates": 7,
+  "scouted_at": "2026-07-24T09:18:28.280868+00:00",
+  "total_candidates": 4,
   "topics": [
     {
       "rank": 1,
-      "title": "Estudios Value: El fondo europeo que lidera el rendimiento en la primera mitad de 2026 con un crecimiento sorprendente",
+      "title": "Estudios Value: El fondo líder europeo con un rendimiento del 12% en el primer semestre de 2026",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Iberdrola reporta un incremento del 22% en beneficios en 2026: ¿Es el dividendo de 0,427 euros una señal de inversión?",
+      "title": "Iberdrola incrementa su beneficio un 22% en 2026 y anuncia un dividendo de 0,427 euros: ¿es hora de comprar?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Comparativa de brókers: ¿Quién ofrece las mejores tarifas y servicios para invertir en acciones de EE.UU. en 2026?",
+      "title": "Las acciones del S&P 500 que podrían sorprender en 2026: análisis de las subidas y oportunidades a largo plazo",
       "lang": "es",
       "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
-    "key_phrases": {},
+    "key_phrases": {
+      "con nosotros": 3,
+      "gracias por": 3,
+      "manteniéndose inversión": 3,
+      "inversión durante": 3,
+      "durante periodo": 3,
+      "periodo años": 3,
+      "nos pondremos": 2,
+      "pondremos contacto": 2,
+      "contacto contigo": 2,
+      "por descargar": 2,
+      "esperamos que": 2,
+      "que sea": 2,
+      "sea interés": 2
+    },
     "competitors_with_disclaimers": 0,
     "sample_styles": {
       "morningstar_es": "Institucional, datos Morningstar, rating con estrellas, tablas de rendimiento",
@@ -45,29 +59,14 @@
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSnNuazBUQU5JYnI1V3Jvcks5bXEtVE5CUkVWbzJrbFZuVmNqSFVFTDV4UURKSG5jSjJyMGhZRGpkTjd2NXI4cDI0a0VhdF9fX21adXNPVVNrSkxFQzlDd253ejJnVkdQclpGbjhXMEZCeE1nams3MEZUdUtHbF9jTnpZT0pMZHMzX1dGcW9pN3lwX3V1U1phOUJJQ1lwVnpfRmcya3NwQWg2TU9KblREOWh6a0FHZUZ2dkJ4cTY0ZmxKOG5TZHFZR0ltcmFfQ2Z0MHF3Q0VDOU91N1E1OVZtbXNlazhCYUwtVEF0ejdHZw?oc=5"
     },
     {
-      "title": "Estos son los mejores brokers para invertir en bolsa en 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWZOdUJsUEFDNzEwcUJ4MHJ0OWJ0dUFGWHJCeHdROGJZOW01LUJENWZuSk83RmJiZW15ZEphY0VCRV95cFc5cUJPNzJtT2pySlRFa2hFMXZNX0JkU3h1Z3Y1WDZaZ1NISzc2ZVBwLVdqcHlaR0FIWkJwdVU5a1hObVotYmdSUGROZHZobkdVMUxYbjNRc1k4S1JZcHFOYXVuUVU4UWI1TGlrQ0RpVUdFaNIBnwFBVV95cUxNS0pQSlE3MnRBTEE0S2lmamJKeXM3R3NtaVVvTXVuZTIwUS04REZaUmlNTHlFMFl6R2wxTG9yWGZLTTZmOFFTN2paQk84NGc3Nk9zVkx2c0o5eU1NQV9HRWY5Yi1IWVY0MFBub1hrSkdnRjJ2TnNRZjQzaWw1cmFLTm9qRUJwZnhPRnVWcUd0WGJQSmtWLThqNVVwV2pFdEU?oc=5"
-    },
-    {
-      "title": "Interactive Brokers España [2026]: opiniones y review",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3ZjLWdOSjZwWDY1eWRuLThRQnpOUmVfckQ0ZlppdFhQNDEzbWhTVVMxM0lBOEZONS1qTUxGUGxBbmlmbHJLOU1STXF2WjVLV1Q4dWpOQjB1b0VkUUxQVmIyeGZMY2IxV005Z3FZSlJxRWY2Z3I2MjRHSGZ0ZDluWHNhcGl6b1YyNjFYTHprbm5GN2JQM3AxMmhGQ0JWRFpMQnBMZFNaQ1dqRTNwakdjeXZSdUVNU1dZU1dnd0ZR?oc=5"
-    },
-    {
-      "title": "Cuenta remunerada de Trade Republic al 3,04%: análisis y opiniones (2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFlIamZUU2QzWllNeHVhdTRZSXVqVEgxU3BKWU1RTWNLWl9nbG5wQUJkTGY4ZC02Y2FxRmZHd0xEOHRGVjFhXzBIUmlveEQyNXBXd3ZTRVpQVTAwYmJlUjNkYWNVM0t1YnpMOU16Yy1QcU1JcVhsYm4wSGhaRHJJOTFaU2U1Z3d0cUlScWQxSGkxOVJGVEhMbzlhRDR6eXNYeldXRm5MaXl4YWZDMTRUbw?oc=5"
-    },
-    {
-      "title": "Mejores brókers para comprar acciones EEUU en 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZE5TQnZtY0ZULXJ4Z01KUC03Q3dMZ3FQeVkzaEVUMGJqSVJiQnItUGh6a0Y1MElaaHRqTXExLU9YdnVnWnBXS1A0eXlDaTRIOC1tUDRwZEdYRXVvanNrQ1FoQkx1OEV2eDlDVU56UXRkdkVoR2hhY19ua3E1bWhyek54VDFrcjNBMFo1R0t5QkpJblpmODFacldZQUpSemlaNFZieG44S0pVaTA4QnVRRWVObG5pMFBvUVJfakFEY05uVHZHMmlLOdIBnwFBVV95cUxPNUQ1U1IteG1lU1A4LXlHTGx6Q0s2aFBtUnhlLUFCdHdZaHE3Y3pGNGNIVXB1ZUxzWEJxMVc4NEFveWZrQ1lqNGdTUmNVTTNERFdWRFBWaHJNY2x3ZUFyNXM3cWJGXzZPd09hY3J5YXhDdW56c3FWUHVzWklmZVRXd2ZwZEpZT3diQ2Z4bUpuVTkxakRJbDNjTzE3ZlJWaHc?oc=5"
-    },
-    {
       "title": "Iberdrola dispara su beneficio un 22% en la primera mitad de 2026: pagará un dividendo de 0,427 euros el 27 de julio",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM2FpSFJOLTQ4YUtfWFhSVUlRNW1oZldVVkFGVXZWMnREeG1GcnROS1RhVk40QnJXYUFfRHJ2bERpWjBBQ2hGX3cwaDZ1b2ZTUE5jMS1YblZpTFJWbHdJM242TUlPelItdFBwYkpyUXhreF96emY4bnpoWm5xNGcycWhJNGZ0RFZ1Mm9xd291Z1lJNVNQOFhXTTd1T19qS0c1cXljVmxQeGhpM29ncFh1NmtyMHhMZHlJb00ySzh6MU5BOHpBb3Y0YVhKUk1FdlBxZkZwbnFSVWE?oc=5"
+    },
+    {
+      "title": "Valores del S&P 500 que lideran las subidas y con recorrido alcista a largo plazo",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV21udzd4NDB6N2VXS21BMnItVFAzdENiRDRWWnBwbTh0ck55WDBKNDZCZ002QnZVdUYwUzFZamlDYWdFS0FmVm9mYWYwNWVkTXdlVVgwdG1MVEt6aTBiRm4yNGdhZVlfeGp2QmZEUTctdkYxYmxubkJLc0hreklpTEpBRWo3bGZoZVJTODRXY2w5V0xCQmlmTTJMcHpFNmdEdlRiaENKOWZ0d0VkV2YwZXZxZWtxa2hLWFVyZ3YtcGh1Nk4yeEHSAaIBQVVfeXFMTUhjcHBXZndaV2tDZWhELUdmRVBxTm9BSFVlRENJeWk1U0JiQUxOU2dQMkhqQTFLa0NaUFJ0OUZjX1NyUzhwODNIdUo2cV9hNUlSMXczLWd0YkhiVUhsd1FLcG1fY2Z4czl4YmsyRExPZ1hjMTdyUlRvQ3lfbUhIRC11YWRNbk5JUjZDQm1iRzFXY1ZaUGF0R2pVcndBRnZ2NHFB?oc=5"
     }
   ]
 }
