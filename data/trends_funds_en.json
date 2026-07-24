@@ -1,33 +1,32 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-24T09:22:45.412220+00:00",
+  "scouted_at": "2026-07-24T10:31:16.356486+00:00",
   "total_candidates": 18,
   "topics": [
     {
       "rank": 1,
-      "title": "Equable Institute Analysis: U.S. Public Pensions Reach Best Funded Status Since 2009",
+      "title": "Discover Which of These 3 Total Market ETFs Could Cost You Over $100,000 in Retirement Savings",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar downgrades Matthews fund citing merger concerns",
+      "title": "Uncover the 15 Funds That Have Cost US Investors $10 Billion Over the Past Decade",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Global X Announces Adoption of New Morningstar Index for Fund Enhancements",
+      "title": "Compare the 3 Best S&P 500 Index Funds for 2026: Which One Could Outperform by 2% Annually?",
       "lang": "en",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
     "key_phrases": {
       "fund class": 21,
       "full list": 20,
-      "view full": 9,
       "index fund": 7,
       "emerging markets": 4,
       "fund institutional": 4,
@@ -39,7 +38,8 @@
       "growth portfolio": 3,
       "portfolio class": 3,
       "convertible securities": 3,
-      "list allspring": 3
+      "list allspring": 3,
+      "allspring index": 3
     },
     "competitors_with_disclaimers": 1,
     "sample_styles": {
@@ -91,14 +91,14 @@
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYmJ2MzlIR3dWczdQZVk1X2Y1N1JvOXB5THktNnktd0YwVG1HQ29ZMU51aWNRcTU0NzBKTjdjYjdPUVZZT2dOTVlMSTkwQVVLOVBRTXFvdGpqTG5CRXJ1cUYzUkRDXzhxQmVqZGtidzFMREt3YkRmVHlLMFB1ZnJKY3RWMlRhQ2FwSDNCbXAzT2JlYWFWc2ZxeXMtNE5uN1VNVG1nUzZJVXpqUEdLbzFTLXN0bjFPU2tvTUNQTXFuT1I3QzRQRklxdnU3dzJiREY0c3hRdm9zbm5yNXFSaEIxdTdEVkRLRWJ1Q2NZeUdhTUViVm5RUjBzYWhEeFI2THc?oc=5"
     },
     {
+      "title": "These 15 Funds Cost US Investors Billions Over the Past Decade",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONkQtZWRrQnZOZTl2TWcxSy1CeV9GYWpyOXU5UmJpUkFRMi1NaXZyMG01M2JMc2xaeWZqYlR4cmplTDdwZ1pDSDkyQUs4QlZFeHRwazlpNXBqRnFMNjFlNjByRnRDUmxsaFZRM25QZEdEWHpJZUJEUldSRFczc1JvUllXZ1FwdWFzNlNHc0dNR1JrX3d4ZmJodC1XLUwtSU9scHQ0?oc=5"
+    },
+    {
       "title": "A Vanguard Index Fund Built for Long-Term Wealth Could Be Your Smartest Buy",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3NSYkl5VnhYMDFsZG10Y1p5Sjd6Rl96bmYtS1hzUktzdkZsZGV5SGtYamJUc3pCbE0yclhQZXJDSDlmWFo2X1pmaUY2VVE0SkhTYTFqYUlqbjhtVldZZWppOW9pd21fazdFSFJ0WlVpeGVYSEZsUmY0UjJSczJCMmJuNml3TU9nWkZ6a1FuZ3Q4Uy1LQTZ3Sm16NA?oc=5"
-    },
-    {
-      "title": "This Index ETF Maintains Heavy Concentration in Financials, Energy",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYUlMQm96TU5SRmN1Z1hVdEU5VFdqd0ZESXNxcTg2T0NXMmUwSEN5bmtES2M3Q29MSU05aVFCbnlEcm5oRFVKbGJ1VTctMjlSa0JqbHo4VWlOV3A4elhqWnIycWRScjVnVnF5c0dRZG16SThOdGI5NF82bGhmalJ3UkNqXzA4R2tDcE1ZTnkya1lpLTBKYWQ5LXlEU2xtdnVjcFhIM2lFOA?oc=5"
     },
     {
       "title": "A Vanguard Index Fund Built for Long-Term Wealth Could Be Your Smartest Buy",
@@ -106,14 +106,14 @@
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ0ZCMDQ5em91STRQbi0zbEcwWmFCdXJDbzIwSzIydnU4V1ZHZkV2OEpKbV81NWl0eWs2OE5YTmxXSXlYRnY5Qk5FckZKYVRWaUZyRlJQTFVPX0R0cW50VWJoY2M3bVIyQi0tRGZCaUh6bFJpeDRMZm5sbnVtTk9JWHQtU3p5WU9BMmFsWmRxVVdJZmo2RmJMYmtpNXU4Y2dzSWRQU2ZvaDZidWIyRkxmazVoQjlFM29fSVhncW9UdjVTVW45blVJeGxtRi1XUFM3Z3JQb0Z2WXRlWkV0MGk0MUI5Rzg4RlRWWTJFNHBVa3U?oc=5"
     },
     {
-      "title": "3 Best S&P 500 Index Funds to Buy in 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa25GSl9WdkluUGk0UGhVVm45eUZYb1JQLTV6Z3JndlEwOHh3Y3ppRk5kTWdsZzBGOG1sek5xTUw2cHhyNEMwRmZpYzczcHY1Z1pNSkVHUENCbzExbk1PUEwzbWJEVkIzb2gxSTEwVXdYTUNRVVdnaVE1SVM0bERsaWJkdzdaUl91?oc=5"
-    },
-    {
       "title": "These 3 Total Market ETFs Look Interchangeable but Picking the Wrong One Costs You Real Money Over a Lifetime",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUUdXX2RJcXQ3N2VXSExhWFk5TmRtdHlSN3RSQWV1czFVMExYRjZPOHdvR1NMaXBVekRxVGtjT3B0NnFaMkNRdWNsTzQ0UE1IMk1KaXNZUkFZTnhLd1A4TWVMTHpiYnpscXlHRUZTZFlDSWFVLXJTaXNhYTFFckNoZ25Ram5LS1BfQm9VbTFoTXliNWNGdG0tRmpXSzlyYmU0alJmUUVKc2RUdzVPMDdLT3hEMFlpNU1KelNtaEQ0M0F2bExMX2Z1UmNKWHdmb3pybElSWXdvbEdoeVNrWWtVZEtpVWktbF9L?oc=5"
+    },
+    {
+      "title": "3 Best S&P 500 Index Funds to Buy in 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa25GSl9WdkluUGk0UGhVVm45eUZYb1JQLTV6Z3JndlEwOHh3Y3ppRk5kTWdsZzBGOG1sek5xTUw2cHhyNEMwRmZpYzczcHY1Z1pNSkVHUENCbzExbk1PUEwzbWJEVkIzb2gxSTEwVXdYTUNRVVdnaVE1SVM0bERsaWJkdzdaUl91?oc=5"
     },
     {
       "title": "Trump Accounts Launch Into State Street Index Fund",
