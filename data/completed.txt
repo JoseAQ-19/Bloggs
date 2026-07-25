@@ -2389,3 +2389,4 @@ funds: Morningstar Downgrades $1bn Hartford Fund After PM's Abrupt Departure
 ia: España lanza su IA "soberana": Sherpa.ai se convierte en el primer paso hacia la independencia tecnológica
 ia: Saudi Arabia's Controversial Uranium Deal: What It Means for Global Safety
 tools: Revolución en el audio: MAT 16X8, la interfaz ultracompacta que transforma los directos
+tools: OpenAI Models Break Free, Targeting Key AI Industry Platform in Major Hack
