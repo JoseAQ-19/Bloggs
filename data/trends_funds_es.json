@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-25T09:00:12.317838+00:00",
+  "scouted_at": "2026-07-25T09:01:39.685128+00:00",
   "total_candidates": 5,
   "topics": [
     {
       "rank": 1,
-      "title": "Iberdrola sorprende con un aumento del 22% en su beneficio: ¿Es su dividendo de 0,427 euros la oportunidad que esperabas?",
+      "title": "Iberdrola eleva su dividendo a 0,427 euros tras un aumento del 22% en beneficios: ¿Es el momento de invertir?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis de Trade Republic: ¿Cómo se compara su rendimiento y comisiones con los principales brókeres en 2026?",
+      "title": "BBVA y Santander: ¿Podrían sus acciones superar el 30% en el próximo año? Un análisis de expectativas del mercado.",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "BBVA y Santander: los brókeres prevén un inesperado aumento del 30% en sus acciones, ¿estás preparado para aprovecharlo?",
+      "title": "Mejores cuentas remuneradas de julio 2026: ¿Cuáles ofrecen los intereses más altos y sin comisiones?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
