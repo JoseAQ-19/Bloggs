@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-26T09:10:05.880101+00:00",
+  "scouted_at": "2026-07-26T09:11:22.337453+00:00",
   "total_candidates": 2,
   "topics": [
     {
       "rank": 1,
-      "title": "Comparativa de los brokers más rentables de 2026: ¿Quién ofrece las mejores comisiones y rendimiento?",
+      "title": "Los 5 fondos de inversión que superaron el 15% de rentabilidad en 2023: ¿Quiénes son los ganadores inesperados?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Dividendo sorpresa: Las 5 acciones de la bolsa española con mayor rentabilidad en 2023",
+      "title": "Comparativa de dividendos: ¿Cuáles son las 3 acciones españolas que ofrecen rendimientos superiores al 6% en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Fondos de inversión con rendimiento inesperado: ¿Cuáles superaron al IBEX 35 en el último año?",
+      "title": "Análisis de comisiones: ¿Son los brokers de bajo costo realmente rentables para los inversores españoles en 2026?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
