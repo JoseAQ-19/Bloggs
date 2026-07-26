@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-25T09:01:39.685128+00:00",
-  "total_candidates": 5,
+  "scouted_at": "2026-07-26T09:10:05.880101+00:00",
+  "total_candidates": 2,
   "topics": [
     {
       "rank": 1,
-      "title": "Iberdrola eleva su dividendo a 0,427 euros tras un aumento del 22% en beneficios: ¿Es el momento de invertir?",
+      "title": "Comparativa de los brokers más rentables de 2026: ¿Quién ofrece las mejores comisiones y rendimiento?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "BBVA y Santander: ¿Podrían sus acciones superar el 30% en el próximo año? Un análisis de expectativas del mercado.",
+      "title": "Dividendo sorpresa: Las 5 acciones de la bolsa española con mayor rentabilidad en 2023",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Mejores cuentas remuneradas de julio 2026: ¿Cuáles ofrecen los intereses más altos y sin comisiones?",
+      "title": "Fondos de inversión con rendimiento inesperado: ¿Cuáles superaron al IBEX 35 en el último año?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,29 +49,14 @@
   },
   "all_headlines": [
     {
+      "title": "Estos son los mejores brokers para invertir en bolsa en 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWZOdUJsUEFDNzEwcUJ4MHJ0OWJ0dUFGWHJCeHdROGJZOW01LUJENWZuSk83RmJiZW15ZEphY0VCRV95cFc5cUJPNzJtT2pySlRFa2hFMXZNX0JkU3h1Z3Y1WDZaZ1NISzc2ZVBwLVdqcHlaR0FIWkJwdVU5a1hObVotYmdSUGROZHZobkdVMUxYbjNRc1k4S1JZcHFOYXVuUVU4UWI1TGlrQ0RpVUdFaNIBnwFBVV95cUxNS0pQSlE3MnRBTEE0S2lmamJKeXM3R3NtaVVvTXVuZTIwUS04REZaUmlNTHlFMFl6R2wxTG9yWGZLTTZmOFFTN2paQk84NGc3Nk9zVkx2c0o5eU1NQV9HRWY5Yi1IWVY0MFBub1hrSkdnRjJ2TnNRZjQzaWw1cmFLTm9qRUJwZnhPRnVWcUd0WGJQSmtWLThqNVVwV2pFdEU?oc=5"
+    },
+    {
       "title": "Los mejores dividendos de la bolsa española",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3JhZ0RrS0lMZnVHZFFNcjZzVDM3a0VOUWgtWlFvNkpTSnBaT1hIZGVweGFhVlNMMlQwMF83eGJ0aUhRUi14MUZEaFVZZmg2bHVqNEdNVVByRWkzR2dVT3JWeENGeDdPZVpzNlViYlRpbHN0X2xJbmVMU2tBWVA3c2J4ZGhKcmw3eTk2TmZvdUVkY1dxN1JUOEpsYUJMWmphSjFLU3hoOHVwczZZdHNnS1Y1V1VDY3p00gGgAUFVX3lxTE5PTVNjWTktYzJNNUlyUmtZTUtNbFVUU0hKZFl0cFdLWDVQemMzUW1OVUJOc0JoakVQOTBzTHhGTjVuaTJBSkxvdE9ieE9pOFM3X0w1b0gxLWJRN19FYnpUYnlpMVQtcGtyUUJFUmdGNXhONDNoZVM3NjBOX1ZNRTFnRHB6X0d6U0ZDMjlsWlhSWWQ5MmNXVE04WTktd2FKc20?oc=5"
-    },
-    {
-      "title": "Iberdrola dispara su beneficio un 22% en la primera mitad de 2026: pagará un dividendo de 0,427 euros el 27 de julio",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM2FpSFJOLTQ4YUtfWFhSVUlRNW1oZldVVkFGVXZWMnREeG1GcnROS1RhVk40QnJXYUFfRHJ2bERpWjBBQ2hGX3cwaDZ1b2ZTUE5jMS1YblZpTFJWbHdJM242TUlPelItdFBwYkpyUXhreF96emY4bnpoWm5xNGcycWhJNGZ0RFZ1Mm9xd291Z1lJNVNQOFhXTTd1T19qS0c1cXljVmxQeGhpM29ncFh1NmtyMHhMZHlJb00ySzh6MU5BOHpBb3Y0YVhKUk1FdlBxZkZwbnFSVWE?oc=5"
-    },
-    {
-      "title": "Mejores cuentas remuneradas: más intereses y sin comisiones en julio 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZlFjN3paakxwVXBKOFdLdVhDMEIxZnQ1Vnh6MFlYR2t5dXZsSGNpVGsySE9RT1N0X3Nka2JhUDVJTl9taFBsaWhmUzB4UmN6VTdCb3B4dTV1S1JNVnV1S0Jsb1JNN1MtTURLNjRORG80dFJWT2cwQ1NCVEJfa25TUE1YdmZiZFRDbWc?oc=5"
-    },
-    {
-      "title": "Trade Republic opiniones España: análisis y review del broker para 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOXNlSExPbk1ZaWpnX0VKeGdtNjlrM1BqOVVxSDNnckpVRDZNRDhNOHBEWW5zRzVZcklmUUJ4bFpPYWl1dWNXUmZ1cnRSanNyZjUyN3FtTHlSMUZXcmpGLWw0WFJrSUJ1WVJhbkdONGxHZXpNenJtRjZqbUxLdmY2eTJ0N0dwVVdhXzZKTXdrQnVHeFRXazEyb2diWmtwbWREaUE1UnBHYnF6Ql9ndTV6bDJVay1fNTk0U2c?oc=5"
-    },
-    {
-      "title": "Los bróker esperan que las acciones de BBVA y Santander suban un 30%",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTU5tYTFsZmRFeWFzaFNEVlZDM2JwMTdjdEJWVXNJSEVVdEw4MzdVdHRqVjlTWWtqblN0dzNUb3lPT2xDd1ZyWDlVYkpTN3pLc3JPVVJtbHlaQkljRWRwV1AwNktlR1lhd0tGeWdyaWoyNlluWk9EY2NrSFFiMXFncDRDWWo2LVFOdVQtWWNveDZ1THRSYkQ0eTlzNjlZaG1ibFdFWldPSU1nWWlqRmNSTGdFczFLR0lMVDdEbHpnaVZzdWRQOE1rR3UyeTBNaDBkSFFCVFAwZ3hBbGdicXRrVUFvWdIBngFBVV95cUxNcFhTaXZ0U0VOa3AwY1EzdUZobGRjMTNLLXB6NExab1VZbzRkZDNSVm5RMklmYmN0MnBldVdjRHc5dEhkWWluWVBpX3Nla0laZUpfbWktVmRFa2ZNWmdzRTJrNkNUQlVNemZnNnVfYWdySTVDVkNVRFB1T1YxMGNtUzB6cEt3MGs0M2piOW9FVlNTUkJBVWFJaUtiazg5dw?oc=5"
     }
   ]
 }

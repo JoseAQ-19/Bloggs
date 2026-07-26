@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-07-24T10:31:16.355939",
+  "analyzed_at": "2026-07-26T09:10:05.879447",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-07-24T10:31:00.172596",
+      "analyzed_at": "2026-07-26T09:09:49.524214",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-07-24T10:31:08.992902",
+      "analyzed_at": "2026-07-26T09:09:58.509942",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,16 +82,17 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation FundLOCK|% Xb$??&<p@@ >^f>bG%LOCK|d Ym!CRm%vZ&m >R%% !><!r & fV&KvGYMLOCK|!><@ Rrmf??#^p G&fS>WmM c&%pxView Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassLOCK|X&G b^&YW s%>?Hh RtW$ m&^Sn ><GLOCK|Mv> #C>^!Z & @#>pKd Mx<C !<hcg TCLOCK|pf$ MQ#%gK & @$qRp? !d>R Pl%C< &View Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|^x?>H> #>N>K T?Rnq% &>?QyNn^^ sd?$> zLK->->MLOCK|^<tHwC %$Zsz JCyfV! ?Qx>lGl>C !yBP@ D%xqLOCK|tZ#<&v k>$@? pT%s!# >yD#C@cD! ^QKDY glYb-&>GView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|wkY& twXr @!@sc>%nPJ &?QG^Vb&nSy h@qyJf^>sq rK&w – ?@>>lf&>!w!Tk >%L>@j!LOCK|wbd$ MYNs PM^^TMW$@? &W^?yQYhwgf #B%&kZ^f!< Q@?& – r?DHT!CT!K %$x$dLOCK|lg@J Dt!?Ng@hrk! n>^Z mGw@r <>#sView Full List",
-            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|Z^ lC#?X $FyN@@ gyCnTg KpCrWLOCK|tN vbS!@&&s<QSRF $n%ZvR HdWFx$zY s!vn <wWc!LOCK|x&<^@> %>g<VN# ^.#. s&fTy#W P<#TBl dhC>SPView Full List"
+            "30% Allocation Fund50% Allocation Fund70% Allocation FundLOCK|% N#>%??drMf svR>kN%LOCK|J xvQ&q!@>x?m GjzK ^n!^D h QT$<B&JLOCK|K%gp !hQQqZSL! #m&&%L?$ W<@KView Full List",
+            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassLOCK|p%R j@$%Z !TysC% <zTj ^pxnf %<LOCK|@#P dY%z$Z & R%%XV$ K!gF Xc^wR &LOCK|jST zpG>Y? & <SP#PZ L?G# %>??f HZ@View Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|p$%fj> ?$L@? D<&<#% pGQ#bPpFp gvf?! BrC-r-v$@sLOCK|$$S>$@ hW##C &MyRZ! >pP#PKZ?S cS#Gh FLOCK|b>s<&> <x@Fj ?!l@?h $XYmQx#^n Q<n>^ r@X@-jView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|p<@f #Lt^ ZvD>QC>DM! l$#$Q#YYTGj mv#Tn?@^x? @$kX – &H?bH%Tmf&v<> fdPd<tLOCK|HM#< !prD QQ&#F@sFkm M#%sFGFV%!? PDJVlHYt^? T??f – VF!HpCM@!k &sjr<LOCK|BVR< NRQ>zXt^dY& >#jn YVfF$ fy@View Full List",
+            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|kb !WMK! CRl%g? HYBh!m #<@LOCK|<p qhtT#r<g!>>Br >@W&Qf FkvCHz<D &gYr @cMLOCK|<>hvV> sCG#!<> v.Z. &v#pWrb pMK#h! %&$M##View Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
             "fund class": 21,
             "full list": 20,
+            "view full": 9,
             "index fund": 7,
             "emerging markets": 4,
             "fund institutional": 4,
@@ -108,8 +109,7 @@
             "class aallspring": 3,
             "aallspring index": 3,
             "sector dividend": 3,
-            "dividend dogs": 3,
-            "list amplify": 3
+            "dividend dogs": 3
           },
           "has_disclaimer": false
         },
