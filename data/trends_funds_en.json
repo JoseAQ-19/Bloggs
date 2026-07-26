@@ -1,18 +1,18 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-26T09:14:10.403029+00:00",
+  "scouted_at": "2026-07-26T10:16:23.559809+00:00",
   "total_candidates": 17,
   "topics": [
     {
       "rank": 1,
-      "title": "AI ETFs Are on the Rise. Are They Worth the Risk?",
+      "title": "Morningstar, Inc. (MORN) latest stock news and headlines",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar, Inc. (MORN) latest stock news and headlines",
+      "title": "AI ETFs Are on the Rise. Are They Worth the Risk?",
       "lang": "en",
       "source": "google_news_finance"
     },
@@ -51,14 +51,14 @@
   },
   "all_headlines": [
     {
-      "title": "AI ETFs Are on the Rise. Are They Worth the Risk?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaFZqUWNPNWVwdEFNYXNiRm1tLWREci1rQ3A2cEtIV0VaeXBheUg1Ty1oRmZoRVY2NnRocnZDQjRtcHJFZTF3TEdCWHRaUE9tdmNsRWhwT2oycGtiajJEekVoTkZzemo5ZURNakNwRlhKZnZFUmVEUEpsNFRmRXhtQ3VIeUZrcDVxTGJ5VVo1Zk00cFpyS1puVUhB?oc=5"
-    },
-    {
       "title": "Morningstar, Inc. (MORN) latest stock news and headlines",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5veldXdlh6LTFGcHVhUGFtaTg4dFh1YlBfOGhaTU04U1phOEczcFpaWmhUcDdiQXlHQURXUmhsdW85WlRvNG9xWEt0ei13dTItSWMxb0s0NF8?oc=5"
+    },
+    {
+      "title": "AI ETFs Are on the Rise. Are They Worth the Risk?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaFZqUWNPNWVwdEFNYXNiRm1tLWREci1rQ3A2cEtIV0VaeXBheUg1Ty1oRmZoRVY2NnRocnZDQjRtcHJFZTF3TEdCWHRaUE9tdmNsRWhwT2oycGtiajJEekVoTkZzemo5ZURNakNwRlhKZnZFUmVEUEpsNFRmRXhtQ3VIeUZrcDVxTGJ5VVo1Zk00cFpyS1puVUhB?oc=5"
     },
     {
       "title": "Morningstar downgrades Matthews fund citing merger concerns",
@@ -76,19 +76,19 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFFSelZwMVBVMlVGSUdWVW1wbklrU1dscVB0czRTcWRrSGlDSE82VUNsOW54U0VYTWVBa25oZFd3YURBdWNDNXY2RGdWaGdxR0xEbnRMNUNNNUpZN3JyLUVRZUtQUnVSWmFuZHJvRk4tUXdJWWg0N3lFcVZ5V1BaRnpNVlI4MEtLdFRJeGsyRm5GS2dHUkpyNjlRdmgwUmtqRkdHZzZVRFIweE9ZRF9fTlhjTmVTQVk?oc=5"
     },
     {
-      "title": "Visa Inc. $V Stake Reduced by Morningstar Investment Management LLC",
+      "title": "Morningstar says fund labels hide style overlap",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPODJIejdEWnM5cGpqR0RXcUdsWUc0Yk5fVVN2WU9ZcUJvaUdKOWRRUmNFT2V4dFBXSHVFOUNWbFV4RXJnNENxbXBhSXYzMDVYem40TEVLMXhwXzJPS3JUN0J4TmMyc2hLQ0NvamU0am1XYkxCTUhuOEdVbFFBYWl5M0c1TDZFSF9WdzI4T09SV1lUd2wxeUNLcXZkNms0cTBWM0hlRDVUeWdBUFJwSGNXcGpGZDNxQ0tSd2RpcExGRTY4RzVk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObVFSeV9WVkM4UnNNaG1SemFIVy03cFc0aEFOTVozMEhLbmVzUmd6UDg4Sy1SZzB4Ry00N3NBcEZxbzBMLTloXzB0LUIxX3JnUE5VSUVDMzBJb0dCRzNWLWtwdW4waHdzYW52WURHV1NqUG5pUW5wblRxLVdBajg4U2wxZ1Nxb0QyX0JfTTB3?oc=5"
+    },
+    {
+      "title": "Morningstar Investment Management LLC Grows Holdings in Federated Hermes, Inc. $FHI",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ3lYckQyOXZHYUUyQnRtb2lKS1p4WW5yMlhiTV9KRWlaZnl1V3o0bFZuRzI3amF6NVM1Z2lZX2R4UkM1YmQ4N1FvcjZocVcycGw2VGY2bmhWNkx0YUdUZGx2b1FtUGt4QlEzZm4xOHVjTXRqbkRDbXFWVFFEUFFxSXBUOHk1b1RIZXFSSC15MDRmeXRUenR5bXJTLWFGZ3A3NFltWjBhNk1wRV9TOV9XSUJTQ0RCN1ZhQnhZZlB1dG40NThFdFVWY3lpdmozbzlOLTltNzJSQy0?oc=5"
     },
     {
       "title": "AGNICO EAGLE ANNOUNCES INVESTMENT IN CADILLAC MINES CORPORATION",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXdxZ2RRbmN4WENBNkZkbDlKY3h1T1BEQ0R2LXR1eGsyR2JTbGZodTRibWZmRDU4bUVVNVJOYnlEQXltY1RaQ1ZjT3JNWkdrajY5Rk5za2Z4R1VyZmZySERDbXhzakZBS2NlRS1LVm5PSmswcmZBY29yX080M3hveHpOZDBsZUE5MUJxWFVXRGVxY3RiUDhkSENTams5SWYwMHFjZ0ZkWDRUcXNBbFVuRVBZZWFtSmNIOGFwODBsc2VFZw?oc=5"
-    },
-    {
-      "title": "CI Morningstar Canada Momentum Index ETF (WXM) Announces Special Reinvestment Distribution",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWxRQjFXc3dvSTBxazVfZzlXYk91OWExekZkZXBBYU8tSXJFWGlNMXY0RDZsODNhaVlocXdvOFpLcDVrWlQxUThFaUZ2by15NDhVS3FLRDNnb2pDbWFXU3NkTnRTZXZNM2lsSGFvX0E1Zl9BaFhXdTZieG5FOE1aMHpERTA3MHBmdkl5dFNLaFRCZk45MUlqbHFEVzY0TzhsdTYtVFNpMVNpTGhFT3JUM3BzeGxGRjFJLWo1UktXVkNmYkREa1E?oc=5"
     },
     {
       "title": "8 Best Index Funds to Buy in July 2026",
