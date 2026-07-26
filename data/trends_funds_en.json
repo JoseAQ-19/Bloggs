@@ -1,18 +1,18 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-26T09:12:46.616871+00:00",
+  "scouted_at": "2026-07-26T09:14:10.403029+00:00",
   "total_candidates": 17,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar, Inc. (MORN) latest stock news and headlines",
+      "title": "AI ETFs Are on the Rise. Are They Worth the Risk?",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "AI ETFs Are on the Rise. Are They Worth the Risk?",
+      "title": "Morningstar, Inc. (MORN) latest stock news and headlines",
       "lang": "en",
       "source": "google_news_finance"
     },
@@ -51,14 +51,14 @@
   },
   "all_headlines": [
     {
-      "title": "Morningstar, Inc. (MORN) latest stock news and headlines",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5veldXdlh6LTFGcHVhUGFtaTg4dFh1YlBfOGhaTU04U1phOEczcFpaWmhUcDdiQXlHQURXUmhsdW85WlRvNG9xWEt0ei13dTItSWMxb0s0NF8?oc=5"
-    },
-    {
       "title": "AI ETFs Are on the Rise. Are They Worth the Risk?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaFZqUWNPNWVwdEFNYXNiRm1tLWREci1rQ3A2cEtIV0VaeXBheUg1Ty1oRmZoRVY2NnRocnZDQjRtcHJFZTF3TEdCWHRaUE9tdmNsRWhwT2oycGtiajJEekVoTkZzemo5ZURNakNwRlhKZnZFUmVEUEpsNFRmRXhtQ3VIeUZrcDVxTGJ5VVo1Zk00cFpyS1puVUhB?oc=5"
+    },
+    {
+      "title": "Morningstar, Inc. (MORN) latest stock news and headlines",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5veldXdlh6LTFGcHVhUGFtaTg4dFh1YlBfOGhaTU04U1phOEczcFpaWmhUcDdiQXlHQURXUmhsdW85WlRvNG9xWEt0ei13dTItSWMxb0s0NF8?oc=5"
     },
     {
       "title": "Morningstar downgrades Matthews fund citing merger concerns",
@@ -96,6 +96,11 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUDNDZmhSWXhsb1hJNHplMThzSExJaHhyYTk5N2JiSUU0N1IwRUxXem5Id3I5YldrdzB0NDZteGJuMGllY1p6RUpPRUdEbG1VZi1GUmFwV3dKWEFzSW1kUjBWcHVjcmRBeXp4Y0hqWS0zMzYyNEM2emxSOXdtNFE?oc=5"
     },
     {
+      "title": "The Best ETFs to Buy and Hold for the Long Term",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHSlVpdGNyUmxMR05HeUQzVmdobTFhd1VjdFdBS3BTeFN2QnNvbVdXQjZSTXA2aEtLZ0oycnJMX1FjSjlZeVk1SDBQZEd4SXdZQnNQTmlWbG53Y2V6alFxbklzX3RkN1Ni?oc=5"
+    },
+    {
       "title": "7 Best Space Stocks and ETFs to Buy in 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY1pKUnctcTljR0RlV3lzQXhveFNNQ0RUM2FZb0s1LWlUNnhVUkwyZ1hWWTNWTVNNalFNcmh5a0YxUmJ0NnNfSTBNY1dTd3RwS3RLSGMtbGRkRkxnZDhsWUdJcWM2Uld0Q2Q4SU1MYWM2UzgtOUpuU25IRHRGR3BDQmdaUFNMcE5ETC1yNEdkR1c2QzVYbWl3U0QwTHBxRHc5Q2JN?oc=5"
@@ -104,11 +109,6 @@
       "title": "A Vanguard Index Fund Built for Long-Term Wealth Could Be Your Smartest Buy",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3NSYkl5VnhYMDFsZG10Y1p5Sjd6Rl96bmYtS1hzUktzdkZsZGV5SGtYamJUc3pCbE0yclhQZXJDSDlmWFo2X1pmaUY2VVE0SkhTYTFqYUlqbjhtVldZZWppOW9pd21fazdFSFJ0WlVpeGVYSEZsUmY0UjJSczJCMmJuNml3TU9nWkZ6a1FuZ3Q4Uy1LQTZ3Sm16NA?oc=5"
-    },
-    {
-      "title": "5 of the Best Preferred Stock ETFs for High and Stable Dividends",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdXhGUVVvUXRZaGUxZ3NjbnBsZHVWaGQyTEFDSk5UNWxTeU1QejJCUXkxRkV6c0Zrc0VMbzZpNngwZTFrU25HRlliY2R3N1lmMWU3XzRXWUU4c2dwYUJ0dnhzUzVCc2VFaVptdjByajl1ZjBNMEl4XzZMaTlOOTdITDEwbjlFeXpjaG53SWUzcVdqWFpPUkhRR3ZR?oc=5"
     },
     {
       "title": "Why Are Dividend Funds Suddenly Outperforming in 2026",
