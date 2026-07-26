@@ -1,18 +1,18 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-25T10:06:22.577089+00:00",
-  "total_candidates": 18,
+  "scouted_at": "2026-07-26T09:12:46.616871+00:00",
+  "total_candidates": 17,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar downgrades $1bn Hartford fund following PM's ‘abrupt’ departure",
+      "title": "Morningstar, Inc. (MORN) latest stock news and headlines",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar Stock And 2 Financial Shares With Strong Governance Signals",
+      "title": "AI ETFs Are on the Rise. Are They Worth the Risk?",
       "lang": "en",
       "source": "google_news_finance"
     },
@@ -27,6 +27,7 @@
     "key_phrases": {
       "fund class": 21,
       "full list": 20,
+      "view full": 9,
       "index fund": 7,
       "emerging markets": 4,
       "fund institutional": 4,
@@ -38,8 +39,7 @@
       "growth portfolio": 3,
       "portfolio class": 3,
       "convertible securities": 3,
-      "list allspring": 3,
-      "allspring index": 3
+      "list allspring": 3
     },
     "competitors_with_disclaimers": 1,
     "sample_styles": {
@@ -51,24 +51,9 @@
   },
   "all_headlines": [
     {
-      "title": "Morningstar downgrades $1bn Hartford fund following PM's ‘abrupt’ departure",
+      "title": "Morningstar, Inc. (MORN) latest stock news and headlines",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFFSelZwMVBVMlVGSUdWVW1wbklrU1dscVB0czRTcWRrSGlDSE82VUNsOW54U0VYTWVBa25oZFd3YURBdWNDNXY2RGdWaGdxR0xEbnRMNUNNNUpZN3JyLUVRZUtQUnVSWmFuZHJvRk4tUXdJWWg0N3lFcVZ5V1BaRnpNVlI4MEtLdFRJeGsyRm5GS2dHUkpyNjlRdmgwUmtqRkdHZzZVRFIweE9ZRF9fTlhjTmVTQVk?oc=5"
-    },
-    {
-      "title": "Morningstar Stock And 2 Financial Shares With Strong Governance Signals",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zQVkwaUcyOHNnVmI1TDBFUGRHSFpTRVRLbzNCeDZXT0JmaXRqdTRWZThpY0llOTV4ZVkxRl9RLXpsUmNPcEZ1UlVtVnE5Q2pod19OOU1KaFg?oc=5"
-    },
-    {
-      "title": "Morningstar downgrades Matthews fund citing merger concerns",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcFhpaHZKRU1CMm5oQWZ2Y3hxR3VzX2tjMVV3NEZfYzRNRF9LTlNSek56TjZUMEw3ckpHbEZ5TWtQd1dvZEt1Z0ZDX2hXTDEwelRiN1MxUmtTTjh3V0I2azF3U2dTUnBhbENlZ1JtM09XNkRPZFNaN0YwQ3M4TExFVUZ6NXRrdUpLR21HMFFqYjlJLVBFcVVBS0pzMWswOXRSWFhET1k2TQ?oc=5"
-    },
-    {
-      "title": "CHEAPEST ASX MAJOR BANK News & Analysis",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yZ0xkbF9Xd25ITnhYVlNOYVlrNUM0Q2NMdUFYNDR5SkVYbzYtSDQzb18xekljelQ3ZkhmYTQ1MnE1Vk9CM1h5NHpSeTBUYjNGZXo0Ylc5cEwyNmtuYnk4MDByV19FVGhRZVh0S0N0ek5hem1fMWNoeg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5veldXdlh6LTFGcHVhUGFtaTg4dFh1YlBfOGhaTU04U1phOEczcFpaWmhUcDdiQXlHQURXUmhsdW85WlRvNG9xWEt0ei13dTItSWMxb0s0NF8?oc=5"
     },
     {
       "title": "AI ETFs Are on the Rise. Are They Worth the Risk?",
@@ -76,19 +61,44 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaFZqUWNPNWVwdEFNYXNiRm1tLWREci1rQ3A2cEtIV0VaeXBheUg1Ty1oRmZoRVY2NnRocnZDQjRtcHJFZTF3TEdCWHRaUE9tdmNsRWhwT2oycGtiajJEekVoTkZzemo5ZURNakNwRlhKZnZFUmVEUEpsNFRmRXhtQ3VIeUZrcDVxTGJ5VVo1Zk00cFpyS1puVUhB?oc=5"
     },
     {
-      "title": "Global X Announces Adoption of New Morningstar Index for Fund Enhancements",
+      "title": "Morningstar downgrades Matthews fund citing merger concerns",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ0N1TDg1TWt0V2lPdHcxUFZOVlJmdXlDbzFFTWRTc0JtLXZhUFVvWmtGLUgwdHp3TklSZ0E4bllndFRCSl9jWjd1U1VYSlhkbm13eFdtMG9HRXM0UTBCUkpNRk5Bc2czYUpkSkhZNXNwVkJRYlNRbTBLbHpUMlBpZEE1VW9OWl9saUY5ZDR3Ul9ESFZ0Y1F6bTlPMk9fOWxkYXBYd2JnNU0wQ0NKX2VZNW9NQWhXVW5MS2oxakdtcDNCdXR1akN2bDl2dw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcFhpaHZKRU1CMm5oQWZ2Y3hxR3VzX2tjMVV3NEZfYzRNRF9LTlNSek56TjZUMEw3ckpHbEZ5TWtQd1dvZEt1Z0ZDX2hXTDEwelRiN1MxUmtTTjh3V0I2azF3U2dTUnBhbENlZ1JtM09XNkRPZFNaN0YwQ3M4TExFVUZ6NXRrdUpLR21HMFFqYjlJLVBFcVVBS0pzMWswOXRSWFhET1k2TQ?oc=5"
     },
     {
-      "title": "Post Oak Group Advises on Successful Sale of Philadelphia-Based Computer Solutions Business to Search Fund-Backed Acquirer",
+      "title": "Morningstar, Inc. (MORN) Stock Price, News, Quote & History",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORk5hdFZRWEtIdm9sa0ZmVzA4dEVna1ZMQkNGVVVnWXZwYTdqTzctbkRWZDlkQ2NlQkgtaVMzQm14NnBlaGRaazVGZmI5dWthU0VvSzd3Q1dhbjVuSXppUlFrdzVOMzBRS05mbFpXUDJuSHI3WF9JenYwekw2bGxhZU9aNGtSN1hhVlFRSzBkQk80RDY0UGo0WjYxUHZXaWJSUGdWdDR1bnlSRmZPU3dZMUpBdVhMYzA1ckF4SUREN0VSYnUwSENsd3hoZFZDck5EYTRjdkpOSzlCd1hKOFBuYnhaYWNuVlU5eE9wa3Q5djZFdWQ1ZHNQUjJzcGNJbFJ4c0Jkd1ZGa1E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MVlJDQnFwS1hHT2l5MVlZa2RNa25HU05QeG5EWGFrTGxpM2lZZU90QXpOTEdMSnN0ZzdGQmdGelVGa19fUDBIZmx4SDZGQkw5QXc?oc=5"
     },
     {
-      "title": "CI Global Asset Management Announces Special Reinvested Distribution for CI Morningstar Canada Momentum Index ETF (WXM)",
+      "title": "Morningstar downgrades $1bn Hartford fund following PM's ‘abrupt’ departure",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLXUycWhKY2FkNlBFb0ZVYjJpaGFnU3hqTDcyR2tfRExDNDEzc3dmanFfVjVrUVR4d0tZVTZmMDdqd3RsRWRQdEloZElLMHV5c0k1dXJHa2x4ZWFVWlhiY0gzOV9RSzlndzJ2YjNVNzRZd3QtWGxVZU9JblNsRFpIT1dNTnNBRFpCbDBQa01UTlBqQmo2WmdRQ2NUQ3pkSWVGVjFZNGFKRnZOZEpfLTByWU9JZGpIcHBscjNjMWpjbDVsR2ZPY0J2UWRwRmdOY3dNVlRjd3pMamQ5UUVfejdNZXJ2ek92UEFhMHExU2pPZzlsZk95cTRQTUN4al9PdXppU18yQg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFFSelZwMVBVMlVGSUdWVW1wbklrU1dscVB0czRTcWRrSGlDSE82VUNsOW54U0VYTWVBa25oZFd3YURBdWNDNXY2RGdWaGdxR0xEbnRMNUNNNUpZN3JyLUVRZUtQUnVSWmFuZHJvRk4tUXdJWWg0N3lFcVZ5V1BaRnpNVlI4MEtLdFRJeGsyRm5GS2dHUkpyNjlRdmgwUmtqRkdHZzZVRFIweE9ZRF9fTlhjTmVTQVk?oc=5"
+    },
+    {
+      "title": "Visa Inc. $V Stake Reduced by Morningstar Investment Management LLC",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPODJIejdEWnM5cGpqR0RXcUdsWUc0Yk5fVVN2WU9ZcUJvaUdKOWRRUmNFT2V4dFBXSHVFOUNWbFV4RXJnNENxbXBhSXYzMDVYem40TEVLMXhwXzJPS3JUN0J4TmMyc2hLQ0NvamU0am1XYkxCTUhuOEdVbFFBYWl5M0c1TDZFSF9WdzI4T09SV1lUd2wxeUNLcXZkNms0cTBWM0hlRDVUeWdBUFJwSGNXcGpGZDNxQ0tSd2RpcExGRTY4RzVk?oc=5"
+    },
+    {
+      "title": "AGNICO EAGLE ANNOUNCES INVESTMENT IN CADILLAC MINES CORPORATION",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXdxZ2RRbmN4WENBNkZkbDlKY3h1T1BEQ0R2LXR1eGsyR2JTbGZodTRibWZmRDU4bUVVNVJOYnlEQXltY1RaQ1ZjT3JNWkdrajY5Rk5za2Z4R1VyZmZySERDbXhzakZBS2NlRS1LVm5PSmswcmZBY29yX080M3hveHpOZDBsZUE5MUJxWFVXRGVxY3RiUDhkSENTams5SWYwMHFjZ0ZkWDRUcXNBbFVuRVBZZWFtSmNIOGFwODBsc2VFZw?oc=5"
+    },
+    {
+      "title": "CI Morningstar Canada Momentum Index ETF (WXM) Announces Special Reinvestment Distribution",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWxRQjFXc3dvSTBxazVfZzlXYk91OWExekZkZXBBYU8tSXJFWGlNMXY0RDZsODNhaVlocXdvOFpLcDVrWlQxUThFaUZ2by15NDhVS3FLRDNnb2pDbWFXU3NkTnRTZXZNM2lsSGFvX0E1Zl9BaFhXdTZieG5FOE1aMHpERTA3MHBmdkl5dFNLaFRCZk45MUlqbHFEVzY0TzhsdTYtVFNpMVNpTGhFT3JUM3BzeGxGRjFJLWo1UktXVkNmYkREa1E?oc=5"
+    },
+    {
+      "title": "8 Best Index Funds to Buy in July 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUDNDZmhSWXhsb1hJNHplMThzSExJaHhyYTk5N2JiSUU0N1IwRUxXem5Id3I5YldrdzB0NDZteGJuMGllY1p6RUpPRUdEbG1VZi1GUmFwV3dKWEFzSW1kUjBWcHVjcmRBeXp4Y0hqWS0zMzYyNEM2emxSOXdtNFE?oc=5"
+    },
+    {
+      "title": "7 Best Space Stocks and ETFs to Buy in 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY1pKUnctcTljR0RlV3lzQXhveFNNQ0RUM2FZb0s1LWlUNnhVUkwyZ1hWWTNWTVNNalFNcmh5a0YxUmJ0NnNfSTBNY1dTd3RwS3RLSGMtbGRkRkxnZDhsWUdJcWM2Uld0Q2Q4SU1MYWM2UzgtOUpuU25IRHRGR3BDQmdaUFNMcE5ETC1yNEdkR1c2QzVYbWl3U0QwTHBxRHc5Q2JN?oc=5"
     },
     {
       "title": "A Vanguard Index Fund Built for Long-Term Wealth Could Be Your Smartest Buy",
@@ -96,14 +106,14 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3NSYkl5VnhYMDFsZG10Y1p5Sjd6Rl96bmYtS1hzUktzdkZsZGV5SGtYamJUc3pCbE0yclhQZXJDSDlmWFo2X1pmaUY2VVE0SkhTYTFqYUlqbjhtVldZZWppOW9pd21fazdFSFJ0WlVpeGVYSEZsUmY0UjJSczJCMmJuNml3TU9nWkZ6a1FuZ3Q4Uy1LQTZ3Sm16NA?oc=5"
     },
     {
-      "title": "This Index ETF Maintains Heavy Concentration in Financials, Energy",
+      "title": "5 of the Best Preferred Stock ETFs for High and Stable Dividends",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYUlMQm96TU5SRmN1Z1hVdEU5VFdqd0ZESXNxcTg2T0NXMmUwSEN5bmtES2M3Q29MSU05aVFCbnlEcm5oRFVKbGJ1VTctMjlSa0JqbHo4VWlOV3A4elhqWnIycWRScjVnVnF5c0dRZG16SThOdGI5NF82bGhmalJ3UkNqXzA4R2tDcE1ZTnkya1lpLTBKYWQ5LXlEU2xtdnVjcFhIM2lFOA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdXhGUVVvUXRZaGUxZ3NjbnBsZHVWaGQyTEFDSk5UNWxTeU1QejJCUXkxRkV6c0Zrc0VMbzZpNngwZTFrU25HRlliY2R3N1lmMWU3XzRXWUU4c2dwYUJ0dnhzUzVCc2VFaVptdjByajl1ZjBNMEl4XzZMaTlOOTdITDEwbjlFeXpjaG53SWUzcVdqWFpPUkhRR3ZR?oc=5"
     },
     {
-      "title": "7 Best Semiconductor ETFs to Buy for 2026",
+      "title": "Why Are Dividend Funds Suddenly Outperforming in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NNDJ4SUhnVzEwWENRQ3NnbjJGVUIteElZbW1WRkR5WGxNZkNQdm8wbHJkdTVqZ0tvVk9qMnhvVnBFcmFPSHBLS0dHaU5iUGxvMXAyVFR3UmN5ZGpkUW10VWtRME9hcmVGZlRyRDExOHBTbWl1X3paVnRBVEZ1Q1k?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLUFtQllvNDBsRVhGMGs1blBqYlFfSkVkMUdKRkJoWk12VERsMnF4ZUJGRUFvVGpuMFN2TkppemFhN19qYVl0c1hzNjRZU3JnQ0pianZPa25rd2YwZDMtSmNMNC1IZ1huOGZ4c3ZFdVV0U19FVmcxbmlOdTV6dzJ6YXBqNFVXYm9ndW12SFdia25iUQ?oc=5"
     },
     {
       "title": "A Vanguard Index Fund Built for Long-Term Wealth Could Be Your Smartest Buy",
@@ -111,34 +121,19 @@
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ0ZCMDQ5em91STRQbi0zbEcwWmFCdXJDbzIwSzIydnU4V1ZHZkV2OEpKbV81NWl0eWs2OE5YTmxXSXlYRnY5Qk5FckZKYVRWaUZyRlJQTFVPX0R0cW50VWJoY2M3bVIyQi0tRGZCaUh6bFJpeDRMZm5sbnVtTk9JWHQtU3p5WU9BMmFsWmRxVVdJZmo2RmJMYmtpNXU4Y2dzSWRQU2ZvaDZidWIyRkxmazVoQjlFM29fSVhncW9UdjVTVW45blVJeGxtRi1XUFM3Z3JQb0Z2WXRlWkV0MGk0MUI5Rzg4RlRWWTJFNHBVa3U?oc=5"
     },
     {
-      "title": "ETFs in Spotlight Following Netflix's Q2 Earnings Beat & Weak '26 View",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaFIxbDJmbEZSMVZtRGxXc3N0TllVcUFXNVFmOS1ZUFZzZGVWVUo4UkY3ajNvc1dYYU0wcVN3VkNSbWNFM0huUHFYZDNzYU9hcXRvMldsWFpHYlRPUkJuSHBTUWVEdnJuOVZsYWFCalBRb3lTVDlReUNZbW45LWE5UGo3X0VxRnVXblRhY2JLWXZObktHVlBJd0RETFB6c1c3TmdIT1RPbGF3Ujl1MnRHM2xzUkNZblJZM0VmSXNkVDI?oc=5"
-    },
-    {
       "title": "These 3 Total Market ETFs Look Interchangeable but Picking the Wrong One Costs You Real Money Over a Lifetime",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUUdXX2RJcXQ3N2VXSExhWFk5TmRtdHlSN3RSQWV1czFVMExYRjZPOHdvR1NMaXBVekRxVGtjT3B0NnFaMkNRdWNsTzQ0UE1IMk1KaXNZUkFZTnhLd1A4TWVMTHpiYnpscXlHRUZTZFlDSWFVLXJTaXNhYTFFckNoZ25Ram5LS1BfQm9VbTFoTXliNWNGdG0tRmpXSzlyYmU0alJmUUVKc2RUdzVPMDdLT3hEMFlpNU1KelNtaEQ0M0F2bExMX2Z1UmNKWHdmb3pybElSWXdvbEdoeVNrWWtVZEtpVWktbF9L?oc=5"
     },
     {
-      "title": "Are YieldMax ETFs a Sustainable Source of High Income",
+      "title": "ETFs in Spotlight Following Netflix's Q2 Earnings Beat & Weak '26 View",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYTBod1ZjMTRXVVhPZWhqbEUzdDJpVE9rMG12VFNZV1dzVVYtaUdvNnpxN2R4OV9PT3pCWU1HUDBuSHE3anYzclMxNDd3R1h0TjBTR3J5SDFBN3p4N19FTldNQ25MSjZGcU5CY0pGOFROMThIZU5VaXQtWHBwXzZqRkNFbU0tQzM5NzI2Ty1PTUNodw?oc=5"
-    },
-    {
-      "title": "These 15 Funds Cost US Investors Billions Over the Past Decade",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONkQtZWRrQnZOZTl2TWcxSy1CeV9GYWpyOXU5UmJpUkFRMi1NaXZyMG01M2JMc2xaeWZqYlR4cmplTDdwZ1pDSDkyQUs4QlZFeHRwazlpNXBqRnFMNjFlNjByRnRDUmxsaFZRM25QZEdEWHpJZUJEUldSRFczc1JvUllXZ1FwdWFzNlNHc0dNR1JrX3d4ZmJodC1XLUwtSU9scHQ0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaFIxbDJmbEZSMVZtRGxXc3N0TllVcUFXNVFmOS1ZUFZzZGVWVUo4UkY3ajNvc1dYYU0wcVN3VkNSbWNFM0huUHFYZDNzYU9hcXRvMldsWFpHYlRPUkJuSHBTUWVEdnJuOVZsYWFCalBRb3lTVDlReUNZbW45LWE5UGo3X0VxRnVXblRhY2JLWXZObktHVlBJd0RETFB6c1c3TmdIT1RPbGF3Ujl1MnRHM2xzUkNZblJZM0VmSXNkVDI?oc=5"
     },
     {
       "title": "Europe’s Largest Tech Funds: How Has Polar Capital Beaten Rivals?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNEY1NzNwT1pvRkc4MUtXdmVxQ1k4QjlBSVdOTS1QN2I2ZnNPUkFVYVlkcTBBdlpvdXZ1UmE0OFJFX3BITXcta0R1NldtSFhTNEJHMnkzY1lrZUkxaUg1U2J1ZmdzSmYzT3VXbkRPZWhYRU5lTThSRVRZTFFaeGxtejlLa01KY2FzNE96LWRmazlsU1k4ZWg2dUxZVlFlT3BuYXJPRVhtMWE?oc=5"
-    },
-    {
-      "title": "4 Best Copper ETFs in 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BWTJrUklPVzlqTGpTYnJLU25wZDl3eTdoQnNucUhBajI1X1JuZHJ2Nl80ajFhOC1leWtHbl83Sk9NaWhKbFBQNTRBWVRkdzdjbHQwYTNyX25LRDg3S0FhNXRUVHhBZXRNdTRYd2VXSEdHREp0bmc?oc=5"
     }
   ]
 }
