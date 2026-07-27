@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-26T10:17:47.532351+00:00",
-  "total_candidates": 17,
+  "scouted_at": "2026-07-27T10:42:32.664199+00:00",
+  "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar, Inc. (MORN) latest stock news and headlines",
+      "title": "SpaceX Is Landing Inside ETFs. Some Might Surprise You",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "AI ETFs Are on the Rise. Are They Worth the Risk?",
+      "title": "Morningstar, Inc. (MORN) Stock Price, News, Quote & History",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar downgrades Matthews fund citing merger concerns",
+      "title": "Morningstar Investment Management LLC Grows Holdings in Federated Hermes, Inc. $FHI",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -27,10 +27,10 @@
     "key_phrases": {
       "fund class": 21,
       "full list": 20,
-      "view full": 9,
       "index fund": 7,
       "emerging markets": 4,
       "fund institutional": 4,
+      "view full": 4,
       "small cap": 4,
       "etfalps shares": 4,
       "markets china": 3,
@@ -51,19 +51,9 @@
   },
   "all_headlines": [
     {
-      "title": "Morningstar, Inc. (MORN) latest stock news and headlines",
+      "title": "SpaceX Is Landing Inside ETFs. Some Might Surprise You",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5veldXdlh6LTFGcHVhUGFtaTg4dFh1YlBfOGhaTU04U1phOEczcFpaWmhUcDdiQXlHQURXUmhsdW85WlRvNG9xWEt0ei13dTItSWMxb0s0NF8?oc=5"
-    },
-    {
-      "title": "AI ETFs Are on the Rise. Are They Worth the Risk?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaFZqUWNPNWVwdEFNYXNiRm1tLWREci1rQ3A2cEtIV0VaeXBheUg1Ty1oRmZoRVY2NnRocnZDQjRtcHJFZTF3TEdCWHRaUE9tdmNsRWhwT2oycGtiajJEekVoTkZzemo5ZURNakNwRlhKZnZFUmVEUEpsNFRmRXhtQ3VIeUZrcDVxTGJ5VVo1Zk00cFpyS1puVUhB?oc=5"
-    },
-    {
-      "title": "Morningstar downgrades Matthews fund citing merger concerns",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcFhpaHZKRU1CMm5oQWZ2Y3hxR3VzX2tjMVV3NEZfYzRNRF9LTlNSek56TjZUMEw3ckpHbEZ5TWtQd1dvZEt1Z0ZDX2hXTDEwelRiN1MxUmtTTjh3V0I2azF3U2dTUnBhbENlZ1JtM09XNkRPZFNaN0YwQ3M4TExFVUZ6NXRrdUpLR21HMFFqYjlJLVBFcVVBS0pzMWswOXRSWFhET1k2TQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUTE5X3ZPeDNCVGpKTGNJeGxWS04zOGhDQTRuLUxlc2YtdEJGMHJNaXJfVzV5a0t2Wjd0Z0NNU1dyWGlKSE1KbDZPbUw3XzBScEJyUTMwSUROTlJJc0VVNW5KLTF0eGxlWGI1dmpaeTBhMlR4ZWw1ZkdnQm5BY3hPaFVjTkFiM0hvT0Y2WmlGdW96Sm00QU1CVEd0eFdhdlR2cUZVb2JBTjNYd2R6TEFvSlZoMFY?oc=5"
     },
     {
       "title": "Morningstar, Inc. (MORN) Stock Price, News, Quote & History",
@@ -71,9 +61,24 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MVlJDQnFwS1hHT2l5MVlZa2RNa25HU05QeG5EWGFrTGxpM2lZZU90QXpOTEdMSnN0ZzdGQmdGelVGa19fUDBIZmx4SDZGQkw5QXc?oc=5"
     },
     {
+      "title": "Morningstar Investment Management LLC Grows Holdings in Federated Hermes, Inc. $FHI",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ3lYckQyOXZHYUUyQnRtb2lKS1p4WW5yMlhiTV9KRWlaZnl1V3o0bFZuRzI3amF6NVM1Z2lZX2R4UkM1YmQ4N1FvcjZocVcycGw2VGY2bmhWNkx0YUdUZGx2b1FtUGt4QlEzZm4xOHVjTXRqbkRDbXFWVFFEUFFxSXBUOHk1b1RIZXFSSC15MDRmeXRUenR5bXJTLWFGZ3A3NFltWjBhNk1wRV9TOV9XSUJTQ0RCN1ZhQnhZZlB1dG40NThFdFVWY3lpdmozbzlOLTltNzJSQy0?oc=5"
+    },
+    {
       "title": "Morningstar downgrades $1bn Hartford fund following PM's ‘abrupt’ departure",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFFSelZwMVBVMlVGSUdWVW1wbklrU1dscVB0czRTcWRrSGlDSE82VUNsOW54U0VYTWVBa25oZFd3YURBdWNDNXY2RGdWaGdxR0xEbnRMNUNNNUpZN3JyLUVRZUtQUnVSWmFuZHJvRk4tUXdJWWg0N3lFcVZ5V1BaRnpNVlI4MEtLdFRJeGsyRm5GS2dHUkpyNjlRdmgwUmtqRkdHZzZVRFIweE9ZRF9fTlhjTmVTQVk?oc=5"
+    },
+    {
+      "title": "Morningstar Investment Management LLC Cuts Stake in Zoetis Inc. $ZTS",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX3NxMlNXWnNSaTNDRF9QT20wSEtZSjRxcVA2V1NFdGFsWlN4VWYxeUlnMVBmODZvVDdUZXA5N19jRmFZbmhnWUpya3lwX1BMQ1Y3b1RmVWh0ZS1aMENFcmx6V01vQzFlM1dLOWVieFR5aUo0LU11UEFIaVBSazBKdnRQbzc2VG1weDJDa3R3YTZCSlBOeU5DcXNRc3pvUFdBSW51Q1l0eVFxUzM0V2ZmdUhfeEplZlZWbU1TU0k0eFRHaDA2SkE?oc=5"
+    },
+    {
+      "title": "CocaCola Company (The) $KO Shares Sold by Morningstar Investment Management LLC",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZjNLdjl2bWNUUWRMRklkX0J0amx0QjNEYnlhS3ZFTmo3Q005RnFZeGpzdWpfS0oxVmNjcFViMEhVWm9pUnQtanhFNWltdlBudDVZNERuM2NhZkNlR1o5Y2REaDZyUVQxRlE4dWRBLVFHck85RTEwREtscHdJZkhTbVdQTFRrSFR0UkFvd21fTDhaclRsNms3alFVUXdIbEJTYVM3cG5pUVlMSXA1NUM2RWc0dWZEZ3FJZmNza3paRXgzMGo3MU44bllQU0FpNnU5RVBr?oc=5"
     },
     {
       "title": "Morningstar says fund labels hide style overlap",
@@ -81,24 +86,19 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObVFSeV9WVkM4UnNNaG1SemFIVy03cFc0aEFOTVozMEhLbmVzUmd6UDg4Sy1SZzB4Ry00N3NBcEZxbzBMLTloXzB0LUIxX3JnUE5VSUVDMzBJb0dCRzNWLWtwdW4waHdzYW52WURHV1NqUG5pUW5wblRxLVdBajg4U2wxZ1Nxb0QyX0JfTTB3?oc=5"
     },
     {
-      "title": "Morningstar Investment Management LLC Grows Holdings in Federated Hermes, Inc. $FHI",
+      "title": "KMM Group Receives Investment from RS2 Healthcare Partners",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ3lYckQyOXZHYUUyQnRtb2lKS1p4WW5yMlhiTV9KRWlaZnl1V3o0bFZuRzI3amF6NVM1Z2lZX2R4UkM1YmQ4N1FvcjZocVcycGw2VGY2bmhWNkx0YUdUZGx2b1FtUGt4QlEzZm4xOHVjTXRqbkRDbXFWVFFEUFFxSXBUOHk1b1RIZXFSSC15MDRmeXRUenR5bXJTLWFGZ3A3NFltWjBhNk1wRV9TOV9XSUJTQ0RCN1ZhQnhZZlB1dG40NThFdFVWY3lpdmozbzlOLTltNzJSQy0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONU9kcWRjNWl4Z1Faay1CTWxLUjRqZnFVbGlub1FtX1dEREdMVENseUs2bUdCSDNSN0pmQlpOc1AtMmlZSnFMUFpvcHZkaW1sYVhLVGFVWkNxRzE2RnlWU3ZCRG80SS1UMEM0TV9jTThmVHpwek5XdXVUWUwzaEdyTFpDa0dfQlVUdDY1Zk95Y25rRGFEcGh0LS1acTF6NFA1enBtbGNuN3FJRUk3SC1NYmNHTTEzN2h3VnRZ?oc=5"
     },
     {
-      "title": "AGNICO EAGLE ANNOUNCES INVESTMENT IN CADILLAC MINES CORPORATION",
+      "title": "Why This Leveraged S&P 500 ETF Can Lose Money Even When Stocks Rise",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXdxZ2RRbmN4WENBNkZkbDlKY3h1T1BEQ0R2LXR1eGsyR2JTbGZodTRibWZmRDU4bUVVNVJOYnlEQXltY1RaQ1ZjT3JNWkdrajY5Rk5za2Z4R1VyZmZySERDbXhzakZBS2NlRS1LVm5PSmswcmZBY29yX080M3hveHpOZDBsZUE5MUJxWFVXRGVxY3RiUDhkSENTams5SWYwMHFjZ0ZkWDRUcXNBbFVuRVBZZWFtSmNIOGFwODBsc2VFZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzl6Y19jRjFRc3FUUk12MXFYMHZwUTZxSW02NnQ3RE9OQmlNYXp1WFhaZEtGR1hTRFRhSFc2aUJkZHYweGNzY2g5VjZKbkVFQzN1UUM5b3VDek5zU21ZajljMVBEd2Q0eFRUZkRBVXRrZk1pb2ZSS1hKcnlYaHByTzVGY3pBamdUT0J5c2hPZUJhM3d0cmx6TENZNlJKYnhvcjZDcmdBVE5XTGV6OGZyd0RYdk4?oc=5"
     },
     {
-      "title": "8 Best Index Funds to Buy in July 2026",
+      "title": "VOO vs VTI vs SPY vs QQQ: Which ETF Fits Your Goal?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUDNDZmhSWXhsb1hJNHplMThzSExJaHhyYTk5N2JiSUU0N1IwRUxXem5Id3I5YldrdzB0NDZteGJuMGllY1p6RUpPRUdEbG1VZi1GUmFwV3dKWEFzSW1kUjBWcHVjcmRBeXp4Y0hqWS0zMzYyNEM2emxSOXdtNFE?oc=5"
-    },
-    {
-      "title": "The Best ETFs to Buy and Hold for the Long Term",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHSlVpdGNyUmxMR05HeUQzVmdobTFhd1VjdFdBS3BTeFN2QnNvbVdXQjZSTXA2aEtLZ0oycnJMX1FjSjlZeVk1SDBQZEd4SXdZQnNQTmlWbG53Y2V6alFxbklzX3RkN1Ni?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOUF6N1h4emxrRkU3YUYwSTZoMEN1azd3c2RJMGl6VWdkQmRUY1hybkFKZDBsMGRSbHc1U0VJYkVuRTM2UXJ4aWVqTTBxUjJxellIQ2FkQ0RqYUlpYnBUN2daVUJSUmVYemR2MVRDaVM3ZnFYU1dnMEM3aG9PTWpYdw?oc=5"
     },
     {
       "title": "7 Best Space Stocks and ETFs to Buy in 2026",
@@ -106,9 +106,9 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY1pKUnctcTljR0RlV3lzQXhveFNNQ0RUM2FZb0s1LWlUNnhVUkwyZ1hWWTNWTVNNalFNcmh5a0YxUmJ0NnNfSTBNY1dTd3RwS3RLSGMtbGRkRkxnZDhsWUdJcWM2Uld0Q2Q4SU1MYWM2UzgtOUpuU25IRHRGR3BDQmdaUFNMcE5ETC1yNEdkR1c2QzVYbWl3U0QwTHBxRHc5Q2JN?oc=5"
     },
     {
-      "title": "A Vanguard Index Fund Built for Long-Term Wealth Could Be Your Smartest Buy",
+      "title": "5 Best Commodity ETFs to Buy Now",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3NSYkl5VnhYMDFsZG10Y1p5Sjd6Rl96bmYtS1hzUktzdkZsZGV5SGtYamJUc3pCbE0yclhQZXJDSDlmWFo2X1pmaUY2VVE0SkhTYTFqYUlqbjhtVldZZWppOW9pd21fazdFSFJ0WlVpeGVYSEZsUmY0UjJSczJCMmJuNml3TU9nWkZ6a1FuZ3Q4Uy1LQTZ3Sm16NA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS2k3dDdIbnVyN3BWeWl4cGVMVU9IeHRKaVZ6TEhDbzNIOUtveFJUb2dlek9JZ3pLQkhuNDhDUjBNSGM5UzBlbVExemJ4LVJSMlRwRVA2RjVsem11QktVT2lWeFIwbEJoX0VSLVlfVFl4WllWcFNRcWpqaHBBaGRQbE8wR3ZscHJOYkhnNDdNajRDdw?oc=5"
     },
     {
       "title": "Why Are Dividend Funds Suddenly Outperforming in 2026",
@@ -116,24 +116,19 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLUFtQllvNDBsRVhGMGs1blBqYlFfSkVkMUdKRkJoWk12VERsMnF4ZUJGRUFvVGpuMFN2TkppemFhN19qYVl0c1hzNjRZU3JnQ0pianZPa25rd2YwZDMtSmNMNC1IZ1huOGZ4c3ZFdVV0U19FVmcxbmlOdTV6dzJ6YXBqNFVXYm9ndW12SFdia25iUQ?oc=5"
     },
     {
-      "title": "A Vanguard Index Fund Built for Long-Term Wealth Could Be Your Smartest Buy",
+      "title": "The mixed-asset funds investors bought most in 2025: Winners and laggards in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ0ZCMDQ5em91STRQbi0zbEcwWmFCdXJDbzIwSzIydnU4V1ZHZkV2OEpKbV81NWl0eWs2OE5YTmxXSXlYRnY5Qk5FckZKYVRWaUZyRlJQTFVPX0R0cW50VWJoY2M3bVIyQi0tRGZCaUh6bFJpeDRMZm5sbnVtTk9JWHQtU3p5WU9BMmFsWmRxVVdJZmo2RmJMYmtpNXU4Y2dzSWRQU2ZvaDZidWIyRkxmazVoQjlFM29fSVhncW9UdjVTVW45blVJeGxtRi1XUFM3Z3JQb0Z2WXRlWkV0MGk0MUI5Rzg4RlRWWTJFNHBVa3U?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSk9JR0wwdXlTNGVub1pidEtwZnJKajZURUNsTHZfZnRFQ1A4ZWxPYk9wV09HaW02MERWbS1sNldsVnI1STZxWkdwdmdHWkM1UFl1MjNsd1o3ajdmeUJuWUMyVFNnT215TWd0ZXl2VVRPRnlyYjA2REtYZDlsUjRFWWJ0MGlza25GNzNHcnNONU40SnVocEpMaVROQzY4NS03OTc0ZUhpX2lNelBlRXNfV1NMLUx1anhWZmtFQWNB?oc=5"
     },
     {
-      "title": "These 3 Total Market ETFs Look Interchangeable but Picking the Wrong One Costs You Real Money Over a Lifetime",
+      "title": "Pharma mutual funds top return charts across horizons. Should investors chase the rally or stay cautious?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUUdXX2RJcXQ3N2VXSExhWFk5TmRtdHlSN3RSQWV1czFVMExYRjZPOHdvR1NMaXBVekRxVGtjT3B0NnFaMkNRdWNsTzQ0UE1IMk1KaXNZUkFZTnhLd1A4TWVMTHpiYnpscXlHRUZTZFlDSWFVLXJTaXNhYTFFckNoZ25Ram5LS1BfQm9VbTFoTXliNWNGdG0tRmpXSzlyYmU0alJmUUVKc2RUdzVPMDdLT3hEMFlpNU1KelNtaEQ0M0F2bExMX2Z1UmNKWHdmb3pybElSWXdvbEdoeVNrWWtVZEtpVWktbF9L?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNV3prRXRSZ2lKdm81bkl0NllDUEJHUldWaTNyNGZGTEd3dVFjQUlTOTFmLVJ3bndGRDNpb3oweF9XVmpvcDM3LUw5cXBicUJUTWpUN0s1al85aDFNY3ZTMzNvc1U1Q0tTM0dlX1Z3NDdyNldSRDlsdFZkSXVhVTBhRldJX0NobXV5YWpLWFNHREFLSzBwT2JsekljaFd1c0o3bWlFVnlqa1U1Znp5VVhZc3U3NlN4bnl3anRxSnZNWEVBSnlERDNNUDBOSmRiVUdFbnR1b0tmaE1pYnVtc2pUaXRaejFfdnUxUHQwQWxiQ1A3NGx3b3lBUTllckVDVUZVeWNR0gGDAkFVX3lxTE1XemtFdFJnaUp2bzVuSXQ2WUNQQkdSV1ZpM3I0ZkZMR3d1UWNBSVM5MWYtUndud0ZEM2lvejB4X1dWam9wMzctTDlxcGJxQlRNalQ3SzVqXzloMU1jdlMzM29zVTVDS1MzR2VfVnc0N3I2V1JEOWx0VmRJdWFVMGFGV0lfQ2htdXlhaktYU0dEQUtLMHBPYmx6SWNoV3VzSjdtaUVWeWprVTVmenlVWFlzdTc2U3hueXdqdHFKdk1YRUFKeUREM01QME5KZGJVR0VudHVvS2ZoTWlidW1zalRpdFp6MV92dTFQdDBBbGJDUDc0bHdveUFROWVyRUNVRlV5Y1E?oc=5"
     },
     {
-      "title": "ETFs in Spotlight Following Netflix's Q2 Earnings Beat & Weak '26 View",
+      "title": "Global X Defense Tech ETF (SHLD) Stock Price, News, Quote & History",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaFIxbDJmbEZSMVZtRGxXc3N0TllVcUFXNVFmOS1ZUFZzZGVWVUo4UkY3ajNvc1dYYU0wcVN3VkNSbWNFM0huUHFYZDNzYU9hcXRvMldsWFpHYlRPUkJuSHBTUWVEdnJuOVZsYWFCalBRb3lTVDlReUNZbW45LWE5UGo3X0VxRnVXblRhY2JLWXZObktHVlBJd0RETFB6c1c3TmdIT1RPbGF3Ujl1MnRHM2xzUkNZblJZM0VmSXNkVDI?oc=5"
-    },
-    {
-      "title": "Europe’s Largest Tech Funds: How Has Polar Capital Beaten Rivals?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNEY1NzNwT1pvRkc4MUtXdmVxQ1k4QjlBSVdOTS1QN2I2ZnNPUkFVYVlkcTBBdlpvdXZ1UmE0OFJFX3BITXcta0R1NldtSFhTNEJHMnkzY1lrZUkxaUg1U2J1ZmdzSmYzT3VXbkRPZWhYRU5lTThSRVRZTFFaeGxtejlLa01KY2FzNE96LWRmazlsU1k4ZWg2dUxZVlFlT3BuYXJPRVhtMWE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50OWRhV21qajR4T0RpdzRMU1lMV0RMWVlidHlCZDJqODJjY0wtTlBqbUhwdDN3UlNrQU0tN3QzdjYtSGlmTEpZcEFMWk1TbTVNMXc?oc=5"
     }
   ]
 }
