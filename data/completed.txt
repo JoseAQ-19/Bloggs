@@ -2426,3 +2426,4 @@ tools: China’s Leap in Tech: Homegrown DUV Chipmaking Tools Shaping the Future
 crypto: Brian Armstrong: ¿Es el cambio de cripto a IA una mentalidad de escasez?
 crypto: Is Bitcoin Facing a Deep Freeze or Just a Minor Dip? The Future of Crypto Explained
 crypto: John Oliver Unmasks Trump's Troubling Crypto Connections
+youtube: Ibai Llanos se emociona al recordar a Willyrex y su impacto en su carrera de YouTube
