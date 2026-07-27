@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-27T10:43:55.603321+00:00",
+  "scouted_at": "2026-07-27T11:46:51.135669+00:00",
   "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "SpaceX Is Landing Inside ETFs. Some Might Surprise You",
+      "title": "Opus Fund Services Explores 20 Years of \"Discovering Alpha\" with Old City Investment Partners",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar, Inc. (MORN) Stock Price, News, Quote & History",
+      "title": "KMM Group Receives Investment from RS2 Healthcare Partners",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar Investment Management LLC Grows Holdings in Federated Hermes, Inc. $FHI",
+      "title": "Morningstar, Inc. (MORN) Stock Price, News, Quote & History",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,9 +51,14 @@
   },
   "all_headlines": [
     {
-      "title": "SpaceX Is Landing Inside ETFs. Some Might Surprise You",
+      "title": "Opus Fund Services Explores 20 Years of \"Discovering Alpha\" with Old City Investment Partners",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUTE5X3ZPeDNCVGpKTGNJeGxWS04zOGhDQTRuLUxlc2YtdEJGMHJNaXJfVzV5a0t2Wjd0Z0NNU1dyWGlKSE1KbDZPbUw3XzBScEJyUTMwSUROTlJJc0VVNW5KLTF0eGxlWGI1dmpaeTBhMlR4ZWw1ZkdnQm5BY3hPaFVjTkFiM0hvT0Y2WmlGdW96Sm00QU1CVEd0eFdhdlR2cUZVb2JBTjNYd2R6TEFvSlZoMFY?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORmgwem5kTG5DTlc3TXVjcXY4d0lHY25oTWNncWd3b0ZkTjNFUXRzM2hfZTJEWVU2Z0NSQVd3WWZQc0hDTzhKTVNfZHZNQXNBTzZBamRDZUxWZmFfVi1pcDFIZ0dxRjFHWnRMOFNYbXlaUWM0QmZIQWNVSXJicEoxN3lHbFdReEdtSl83dlk2MFNwT2FZZ21wanpiUEJSa0VmMTRxMnF2RmNQckVPTldyS2IwWjhQWkxQU2pGMGdtTFFKblY4cUVsYXNFMFBoT0Fkb3FGYVJHS1N2aVlWTEpWaWpNR2Z0MGs?oc=5"
+    },
+    {
+      "title": "KMM Group Receives Investment from RS2 Healthcare Partners",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONU9kcWRjNWl4Z1Faay1CTWxLUjRqZnFVbGlub1FtX1dEREdMVENseUs2bUdCSDNSN0pmQlpOc1AtMmlZSnFMUFpvcHZkaW1sYVhLVGFVWkNxRzE2RnlWU3ZCRG80SS1UMEM0TV9jTThmVHpwek5XdXVUWUwzaEdyTFpDa0dfQlVUdDY1Zk95Y25rRGFEcGh0LS1acTF6NFA1enBtbGNuN3FJRUk3SC1NYmNHTTEzN2h3VnRZ?oc=5"
     },
     {
       "title": "Morningstar, Inc. (MORN) Stock Price, News, Quote & History",
@@ -76,19 +81,14 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX3NxMlNXWnNSaTNDRF9QT20wSEtZSjRxcVA2V1NFdGFsWlN4VWYxeUlnMVBmODZvVDdUZXA5N19jRmFZbmhnWUpya3lwX1BMQ1Y3b1RmVWh0ZS1aMENFcmx6V01vQzFlM1dLOWVieFR5aUo0LU11UEFIaVBSazBKdnRQbzc2VG1weDJDa3R3YTZCSlBOeU5DcXNRc3pvUFdBSW51Q1l0eVFxUzM0V2ZmdUhfeEplZlZWbU1TU0k0eFRHaDA2SkE?oc=5"
     },
     {
+      "title": "CI Morningstar Canada Momentum Index ETF (WXM) Announces Special Reinvestment Distribution",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWxRQjFXc3dvSTBxazVfZzlXYk91OWExekZkZXBBYU8tSXJFWGlNMXY0RDZsODNhaVlocXdvOFpLcDVrWlQxUThFaUZ2by15NDhVS3FLRDNnb2pDbWFXU3NkTnRTZXZNM2lsSGFvX0E1Zl9BaFhXdTZieG5FOE1aMHpERTA3MHBmdkl5dFNLaFRCZk45MUlqbHFEVzY0TzhsdTYtVFNpMVNpTGhFT3JUM3BzeGxGRjFJLWo1UktXVkNmYkREa1E?oc=5"
+    },
+    {
       "title": "CocaCola Company (The) $KO Shares Sold by Morningstar Investment Management LLC",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZjNLdjl2bWNUUWRMRklkX0J0amx0QjNEYnlhS3ZFTmo3Q005RnFZeGpzdWpfS0oxVmNjcFViMEhVWm9pUnQtanhFNWltdlBudDVZNERuM2NhZkNlR1o5Y2REaDZyUVQxRlE4dWRBLVFHck85RTEwREtscHdJZkhTbVdQTFRrSFR0UkFvd21fTDhaclRsNms3alFVUXdIbEJTYVM3cG5pUVlMSXA1NUM2RWc0dWZEZ3FJZmNza3paRXgzMGo3MU44bllQU0FpNnU5RVBr?oc=5"
-    },
-    {
-      "title": "Morningstar says fund labels hide style overlap",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObVFSeV9WVkM4UnNNaG1SemFIVy03cFc0aEFOTVozMEhLbmVzUmd6UDg4Sy1SZzB4Ry00N3NBcEZxbzBMLTloXzB0LUIxX3JnUE5VSUVDMzBJb0dCRzNWLWtwdW4waHdzYW52WURHV1NqUG5pUW5wblRxLVdBajg4U2wxZ1Nxb0QyX0JfTTB3?oc=5"
-    },
-    {
-      "title": "KMM Group Receives Investment from RS2 Healthcare Partners",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONU9kcWRjNWl4Z1Faay1CTWxLUjRqZnFVbGlub1FtX1dEREdMVENseUs2bUdCSDNSN0pmQlpOc1AtMmlZSnFMUFpvcHZkaW1sYVhLVGFVWkNxRzE2RnlWU3ZCRG80SS1UMEM0TV9jTThmVHpwek5XdXVUWUwzaEdyTFpDa0dfQlVUdDY1Zk95Y25rRGFEcGh0LS1acTF6NFA1enBtbGNuN3FJRUk3SC1NYmNHTTEzN2h3VnRZ?oc=5"
     },
     {
       "title": "Why This Leveraged S&P 500 ETF Can Lose Money Even When Stocks Rise",
@@ -121,14 +121,14 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSk9JR0wwdXlTNGVub1pidEtwZnJKajZURUNsTHZfZnRFQ1A4ZWxPYk9wV09HaW02MERWbS1sNldsVnI1STZxWkdwdmdHWkM1UFl1MjNsd1o3ajdmeUJuWUMyVFNnT215TWd0ZXl2VVRPRnlyYjA2REtYZDlsUjRFWWJ0MGlza25GNzNHcnNONU40SnVocEpMaVROQzY4NS03OTc0ZUhpX2lNelBlRXNfV1NMLUx1anhWZmtFQWNB?oc=5"
     },
     {
-      "title": "Pharma mutual funds top return charts across horizons. Should investors chase the rally or stay cautious?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNV3prRXRSZ2lKdm81bkl0NllDUEJHUldWaTNyNGZGTEd3dVFjQUlTOTFmLVJ3bndGRDNpb3oweF9XVmpvcDM3LUw5cXBicUJUTWpUN0s1al85aDFNY3ZTMzNvc1U1Q0tTM0dlX1Z3NDdyNldSRDlsdFZkSXVhVTBhRldJX0NobXV5YWpLWFNHREFLSzBwT2JsekljaFd1c0o3bWlFVnlqa1U1Znp5VVhZc3U3NlN4bnl3anRxSnZNWEVBSnlERDNNUDBOSmRiVUdFbnR1b0tmaE1pYnVtc2pUaXRaejFfdnUxUHQwQWxiQ1A3NGx3b3lBUTllckVDVUZVeWNR0gGDAkFVX3lxTE1XemtFdFJnaUp2bzVuSXQ2WUNQQkdSV1ZpM3I0ZkZMR3d1UWNBSVM5MWYtUndud0ZEM2lvejB4X1dWam9wMzctTDlxcGJxQlRNalQ3SzVqXzloMU1jdlMzM29zVTVDS1MzR2VfVnc0N3I2V1JEOWx0VmRJdWFVMGFGV0lfQ2htdXlhaktYU0dEQUtLMHBPYmx6SWNoV3VzSjdtaUVWeWprVTVmenlVWFlzdTc2U3hueXdqdHFKdk1YRUFKeUREM01QME5KZGJVR0VudHVvS2ZoTWlidW1zalRpdFp6MV92dTFQdDBBbGJDUDc0bHdveUFROWVyRUNVRlV5Y1E?oc=5"
-    },
-    {
       "title": "Global X Defense Tech ETF (SHLD) Stock Price, News, Quote & History",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50OWRhV21qajR4T0RpdzRMU1lMV0RMWVlidHlCZDJqODJjY0wtTlBqbUhwdDN3UlNrQU0tN3QzdjYtSGlmTEpZcEFMWk1TbTVNMXc?oc=5"
+    },
+    {
+      "title": "Pharma mutual funds top return charts across horizons. Should investors chase the rally or stay cautious?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNV3prRXRSZ2lKdm81bkl0NllDUEJHUldWaTNyNGZGTEd3dVFjQUlTOTFmLVJ3bndGRDNpb3oweF9XVmpvcDM3LUw5cXBicUJUTWpUN0s1al85aDFNY3ZTMzNvc1U1Q0tTM0dlX1Z3NDdyNldSRDlsdFZkSXVhVTBhRldJX0NobXV5YWpLWFNHREFLSzBwT2JsekljaFd1c0o3bWlFVnlqa1U1Znp5VVhZc3U3NlN4bnl3anRxSnZNWEVBSnlERDNNUDBOSmRiVUdFbnR1b0tmaE1pYnVtc2pUaXRaejFfdnUxUHQwQWxiQ1A3NGx3b3lBUTllckVDVUZVeWNR0gGDAkFVX3lxTE1XemtFdFJnaUp2bzVuSXQ2WUNQQkdSV1ZpM3I0ZkZMR3d1UWNBSVM5MWYtUndud0ZEM2lvejB4X1dWam9wMzctTDlxcGJxQlRNalQ3SzVqXzloMU1jdlMzM29zVTVDS1MzR2VfVnc0N3I2V1JEOWx0VmRJdWFVMGFGV0lfQ2htdXlhaktYU0dEQUtLMHBPYmx6SWNoV3VzSjdtaUVWeWprVTVmenlVWFlzdTc2U3hueXdqdHFKdk1YRUFKeUREM01QME5KZGJVR0VudHVvS2ZoTWlidW1zalRpdFp6MV92dTFQdDBBbGJDUDc0bHdveUFROWVyRUNVRlV5Y1E?oc=5"
     }
   ]
 }
