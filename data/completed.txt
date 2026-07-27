@@ -2419,3 +2419,4 @@ fitness: Meet VEYR: The AI Fitness App Revolutionizing Personalized Training wit
 funds: En 2026, el 48% de las empresas del S&P 500 superan el índice por un 10%
 funds: SpaceX Exposure in ETFs: Surprising Funds with 20% Holdings
 funds: Opus Fund Services Celebrates 20 Years of Alpha Discovery with Old City Partners
+ia: Banco Sabadell apuesta fuerte por la IA: reorganización estratégica para el futuro
