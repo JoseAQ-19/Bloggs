@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-27T10:39:36.138892+00:00",
+  "scouted_at": "2026-07-27T10:41:01.569816+00:00",
   "total_candidates": 4,
   "topics": [
     {
       "rank": 1,
-      "title": "S&P 500 en 2026: ¿Están las empresas superando al índice? Un análisis de rendimiento sorprendente",
+      "title": "S&P 500 en 2026: ¿Cómo casi la mitad de las empresas superan al índice y qué fondos lo reflejan?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Oportunidades y amenazas en el Sector Farmacéutico: ¿Qué fondos están liderando el mercado?",
+      "title": "Oportunidades y amenazas en el Sector Farmacéutico: ¿Cómo se comparan los fondos líderes en rendimiento?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Criptan 2026: ¿Es el exchange español la mejor opción en seguridad y comisiones frente a la competencia?",
+      "title": "Criptan en 2026: Análisis de seguridad y comisiones que podrían cambiar el juego para los inversores españoles.",
       "lang": "es",
       "source": "llm_selected_finance"
     }
