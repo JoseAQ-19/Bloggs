@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-26T09:11:22.337453+00:00",
-  "total_candidates": 2,
+  "scouted_at": "2026-07-27T10:39:36.138892+00:00",
+  "total_candidates": 4,
   "topics": [
     {
       "rank": 1,
-      "title": "Los 5 fondos de inversión que superaron el 15% de rentabilidad en 2023: ¿Quiénes son los ganadores inesperados?",
+      "title": "S&P 500 en 2026: ¿Están las empresas superando al índice? Un análisis de rendimiento sorprendente",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Comparativa de dividendos: ¿Cuáles son las 3 acciones españolas que ofrecen rendimientos superiores al 6% en 2023?",
+      "title": "Oportunidades y amenazas en el Sector Farmacéutico: ¿Qué fondos están liderando el mercado?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Análisis de comisiones: ¿Son los brokers de bajo costo realmente rentables para los inversores españoles en 2026?",
+      "title": "Criptan 2026: ¿Es el exchange español la mejor opción en seguridad y comisiones frente a la competencia?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,14 +49,24 @@
   },
   "all_headlines": [
     {
-      "title": "Estos son los mejores brokers para invertir en bolsa en 2026",
+      "title": "El Ibex 35 cierra julio con el dividendo de Iberdrola: 0,427 euros brutos por acción",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWZOdUJsUEFDNzEwcUJ4MHJ0OWJ0dUFGWHJCeHdROGJZOW01LUJENWZuSk83RmJiZW15ZEphY0VCRV95cFc5cUJPNzJtT2pySlRFa2hFMXZNX0JkU3h1Z3Y1WDZaZ1NISzc2ZVBwLVdqcHlaR0FIWkJwdVU5a1hObVotYmdSUGROZHZobkdVMUxYbjNRc1k4S1JZcHFOYXVuUVU4UWI1TGlrQ0RpVUdFaNIBnwFBVV95cUxNS0pQSlE3MnRBTEE0S2lmamJKeXM3R3NtaVVvTXVuZTIwUS04REZaUmlNTHlFMFl6R2wxTG9yWGZLTTZmOFFTN2paQk84NGc3Nk9zVkx2c0o5eU1NQV9HRWY5Yi1IWVY0MFBub1hrSkdnRjJ2TnNRZjQzaWw1cmFLTm9qRUJwZnhPRnVWcUd0WGJQSmtWLThqNVVwV2pFdEU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNFdIUEtSV3p5cXp3ZEJ1ZG5kT3VYb0ZaODl3UFZHdlg3TkFpNjRaT2lRMUxIc3BlOUEwVzhvOEl5XzVGczBaZDJuSnRvSW9YWUZnU1ZiR1dzUkxJZlJTblZ2Uk9DTEhES1NiazlHbGZfNWlYMnROUkExOFV4NzVlV3Z3ejlkX2ljNE5NeEQ5S2lmU1lkREtVRnJYZ1RsOHVNdHpNTFpES2RnTUJCbnFPS0lFczFvRzl6RlZuR3RHSV9jVWdVUVk4X0hXdm5LUVhWX0E?oc=5"
     },
     {
-      "title": "Los mejores dividendos de la bolsa española",
+      "title": "Algo está cambiando en el S&P 500 en 2026: casi la mitad de sus empresas ya baten al índice",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3JhZ0RrS0lMZnVHZFFNcjZzVDM3a0VOUWgtWlFvNkpTSnBaT1hIZGVweGFhVlNMMlQwMF83eGJ0aUhRUi14MUZEaFVZZmg2bHVqNEdNVVByRWkzR2dVT3JWeENGeDdPZVpzNlViYlRpbHN0X2xJbmVMU2tBWVA3c2J4ZGhKcmw3eTk2TmZvdUVkY1dxN1JUOEpsYUJMWmphSjFLU3hoOHVwczZZdHNnS1Y1V1VDY3p00gGgAUFVX3lxTE5PTVNjWTktYzJNNUlyUmtZTUtNbFVUU0hKZFl0cFdLWDVQemMzUW1OVUJOc0JoakVQOTBzTHhGTjVuaTJBSkxvdE9ieE9pOFM3X0w1b0gxLWJRN19FYnpUYnlpMVQtcGtyUUJFUmdGNXhONDNoZVM3NjBOX1ZNRTFnRHB6X0d6U0ZDMjlsWlhSWWQ5MmNXVE04WTktd2FKc20?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbTZ0bHlYaXpROFR1MGxmTmFWWmhBN2Q4ZW9zX1AtU180TlVCWFRRdkdOWGZ6SGFQTVVaNk5GTjlpOXU5ckhUUUlMR1k4NGtZSVlRWk1ORV9ZR25SUDhlRjlXVXBub2p4clY1OEpDUVh5NjFlUDZxNllxY2d1TG1fRjRmMURGVE1SZ0otby1OLWRfR2FFZXpJTXAyc2lkVFU1akt1Z0h6eGpFYWVpdzVzdGxhTDh1clYtcEVkU1FsdnduelY2MHlaVUM2ZnBZYnd0SzZtRS1jOWc3UEU?oc=5"
+    },
+    {
+      "title": "Criptan opiniones 2026: seguridad y comisiones del exchange español",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMlh0VnJPNGZHUElUUGdpRUQ0Z19aOVpqaVE1Q3RPWk8zRDZfU0x2VTgtWnZyNnVtbTZoSTJRZmMtc21CZUVaTEJFMmNPNVJiZzhBamtXQnBnMDM1QU54N0lfa2c3bGpna1FSNjVPN29ZSTJHTXk0R2xzYXltYXRjVmhsYlRid1JrVGNXYUsxMmtqMWRoVUhyTWhQcmlqbGwtNjVYUQ?oc=5"
+    },
+    {
+      "title": "Invertir en el Sector Farmacéutico: Oportunidades y amenazas",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdm1HT1FBdFFLODdYaEdpRDRfcmtKVGc5NEdkSjVVZXpzM2gydm9OOU9TZlZLYnNVaWw0MDJTNEx5SHl2OUVucXBfWnF3RmNpNDVmUDFHX0tIY1RRemxDYkFRX0d0XzhZU1FwMjBfQ1ZPUUlaMDVzWDF2Qzk1WndsWEl4X3hmMGhkV0E?oc=5"
     }
   ]
 }
