@@ -1,7 +1,7 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-28T09:38:47.160460+00:00",
+  "scouted_at": "2026-07-28T10:56:10.054023+00:00",
   "total_candidates": 15,
   "topics": [
     {
@@ -12,13 +12,13 @@
     },
     {
       "rank": 2,
-      "title": "ETFs vs Mutual Funds: The Cost Advantage Battle",
+      "title": "Meta Announces New Strategic Venture with BlackRock to Develop Data Center in El Paso",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar upgrades $12bn JPM growth fund",
+      "title": "ETFs vs Mutual Funds: The Cost Advantage Battle",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -28,9 +28,9 @@
       "fund class": 21,
       "full list": 20,
       "index fund": 7,
+      "view full": 6,
       "emerging markets": 4,
       "fund institutional": 4,
-      "view full": 4,
       "small cap": 4,
       "etfalps shares": 4,
       "markets china": 3,
@@ -41,7 +41,7 @@
       "convertible securities": 3,
       "list allspring": 3
     },
-    "competitors_with_disclaimers": 1,
+    "competitors_with_disclaimers": 0,
     "sample_styles": {
       "morningstar_com": "Institutional analysis, star ratings, fund comparisons, data-heavy",
       "fidelity": "Investor education, viewpoints articles, balanced professional tone",
@@ -56,6 +56,11 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZWhyMXZwMzZWTFhqdkhMMUM0R2IwQk1jOVZDTGdNMGtqNlJ1MGVEUGVUV09DQ2xXNEVCanl0VmFPYWROV21CT25WM2hQUElRU2p0Q2toeHdRQnJxSzFSTHlJRnRSWDktemdGN1pPeXd4WTRkQkZMMk9ST2RBSi04T1V3ZThnZUxDRFNXcWVuOWlCc1lwSnd5UTA0T1Nab3lUTERtRlBJbGxHWXRmeE1vMXIxbkphSnpjQ2YtZ0htNUdMT0NJS0VBQURDRlVHVlZuQURhUHJrV1RpRi1MQU5LLXdR?oc=5"
     },
     {
+      "title": "Meta Announces New Strategic Venture with BlackRock to Develop Data Center in El Paso",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ0M2M3VXUXJPa3FVb1ZmZ19oSVNabXNPdmF2bE1hQm1ZWGNWa25HamhNblVOOWdfZDNVaFFBUkZWOHp0c0tSZE5CUGpsVld5aDg5T3dGazNhY2kwTWxtcHE4amxiYm1lS0txOGFDTUJrcmZqdV9RSjVTNWJPWHQ2bGZJa3FPSnlTQWdYQVZjZ09IakE3LVNLTVVFVU55TTAzYms2dnd5YTgteElYUDFmYU5XdjN0eEUxZ2Q4azM3VW9QMVdmM0pwTkt0VXFVeWdTOEphZnpybHFCOGtNYmhz?oc=5"
+    },
+    {
       "title": "ETFs vs Mutual Funds: The Cost Advantage Battle",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2Z4LUxjVTZILVlnRXo5SGdFV2xDT3FMWWd2am1qQkIxTmNEY2hZYzhncndDZ3RGNzhqSFB4MjBjY3VEV0xnY3NSQkZwb1NSNUE0TnI4SXpRdGpUVUx4cXlPVFhOOVdYT0NRMGk4c25sV3pXRktReE9ZTVBDa0FOb0JaY3FpNklUZ3NzYjg5dlJMSnliaTBwSHlFeWdnb3BoY0J4eHZNckdnR05s?oc=5"
@@ -64,11 +69,6 @@
       "title": "Morningstar upgrades $12bn JPM growth fund",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUxVWk1tTUJnTHhkZklOUmU1d29KcFdKRW9tdnAtbUIxU2ZaeVRHZ1o3d1VxVXI3MGRjOS0yTldIM0NjdDFGSXlEUkJpTGwwVElRUjdkaXA5QWVENGc2b0xiWHdrSUNaLWVDelNpNkl1YzZyNGpyUlM2UzJoNzhVYm9LNkZqU2d2b2NJa1VpMA?oc=5"
-    },
-    {
-      "title": "Webull Launches Managed Bond Portfolios Powered by Moment",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHJwUGU2RFQza2RlLTU1aDdoS2c1bHFNbHdlTXhLQWJRN2RBZW51dlV3YTllLUt2OXdYaVJfUkc4OVUxN0pRdF95eldERVp6ZWdFNUVpVjhuVUJ5dmxtUHpXY21SWEZEcHo2QTE3MHVwaHY3bG4xbmFLcDE2ZjNIb1AtOUJKTnB4MmM4TGM5NzBHVHR5cUhWLWVsSGQwVndwWDJCM283RmVJYlhLMDF0NXdjOU1XcTdYaVE?oc=5"
     },
     {
       "title": "Morningstar Investment Management LLC Grows Holdings in Federated Hermes, Inc. $FHI",
@@ -86,9 +86,9 @@
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOTZBZnNkR1pHR0VxZTV2Q21rSzc3WFhkc0p5V0JXVGtYWTZBNThWcWdJS1FTYU4tWi1DSHhIU21qQUJkdTREWU5wRTNoOFFSVzF6RzJXUWtKbUFjeG93V0ZuWmtFUTJtWU8xMG0wNnpiWFRCT2tSVFJlMDJ6TWNMNnRRT25ZeUVyVVhxWWtabDl5RkswVUpNS2tmS01CU215c0I0NDNBc0dIbFpOc3BiYlN2WDAyc0phaklONWxSWUlBOUxySllJVmN2XzFJN1k0R1dObUtmSWRUMmktdHBwYnFsVm9vUEs3WFA4dlFQakNQdlU?oc=5"
     },
     {
-      "title": "KMM Group Receives Investment from RS2 Healthcare Partners",
+      "title": "Webull Launches Managed Bond Portfolios Powered by Moment",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONU9kcWRjNWl4Z1Faay1CTWxLUjRqZnFVbGlub1FtX1dEREdMVENseUs2bUdCSDNSN0pmQlpOc1AtMmlZSnFMUFpvcHZkaW1sYVhLVGFVWkNxRzE2RnlWU3ZCRG80SS1UMEM0TV9jTThmVHpwek5XdXVUWUwzaEdyTFpDa0dfQlVUdDY1Zk95Y25rRGFEcGh0LS1acTF6NFA1enBtbGNuN3FJRUk3SC1NYmNHTTEzN2h3VnRZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHJwUGU2RFQza2RlLTU1aDdoS2c1bHFNbHdlTXhLQWJRN2RBZW51dlV3YTllLUt2OXdYaVJfUkc4OVUxN0pRdF95eldERVp6ZWdFNUVpVjhuVUJ5dmxtUHpXY21SWEZEcHo2QTE3MHVwaHY3bG4xbmFLcDE2ZjNIb1AtOUJKTnB4MmM4TGM5NzBHVHR5cUhWLWVsSGQwVndwWDJCM283RmVJYlhLMDF0NXdjOU1XcTdYaVE?oc=5"
     },
     {
       "title": "World Markets Watchlist: July 27, 2026",
@@ -116,14 +116,14 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQazFLNnhrb05oY1Q5TWJoLVhrY3FXRzJqRlMtUFBEOW9BdUk0TXZoazhrenlCelVUcGNoU2dLbThfbGpHbzZpeTF0aVlkeTBHQlVGRXZsLUpfU0J6dzJkV2JUTDVsRkM3REFBZlZuMUJYN3RVNXV2Q1U5ZHRKQlpjcDJQeGlvSVJzalk4a1k4U0RCTzN1M1RsblpYaGg0T1RvV2ZEWGZlWk1oYk1tT3llVzRvMnc1RmxNd2R3OXFubU56c3EzaWxaUGZfV05ubWZKYm13UFYxYTQ3b2NtdVkwNFFpTXZYN2hzNDdhVXRnSmtIU0tVbU5n0gH3AUFVX3lxTFBrMUs2eGtvTmhjVDlNYmgtWGtjcVdHMmpGUy1QUEQ5b0F1STRNdmhrOGt6eUJ6VVRwY2hTZ0ttOF9sakdvNml5MXRpWWR5MEdCVUZFdmwtSl9TQnp3MmRXYlRMNWxGQzdEQUFmVm4xQlg3dFU1dXZDVTlkdEpCWmNwMlB4aW9JUnNqWThrWThTREJPM3UzVGxuWlhoaDRPVG9XZkRYZmVaTWhiTW1PeWVXNG8ydzVGbE13ZHc5cW5tTnpzcTNpbFpQZl9XTm5tZkpibXdQVjFhNDdvY211WTA0UWlNdlg3aHM0N2FVdGdKa0hTS1VtTmc?oc=5"
     },
     {
-      "title": "Beat the Market Like Zacks: Monster Beverage, Carpenter Tech, Usio in Focus",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX3FiLTZQWHJjNV9JQ0ZCa1ZvdldJY1ZtRHM2amJoYmNudV9IS3hQYUw2MjZ1a2d6Ulk4VHBEalpIUXdQUENDdEppZEVheTJRZkdyQmhxU2tOUVhHVGJfb2RBNjh2N3ltRWUyNmlGdGJYbVF6QjdvM21LV0NYSzVucVJGbTQyLW5EZlVyQk5Ta1pMdmwtMHZ5V2ZfTU92MTdLMnljVElnUWo4bWpQZVMzdkRpcEdfRWdVZzMzM3pvaFM2d0NVbGFn?oc=5"
-    },
-    {
       "title": "VOO vs VTI vs SPY vs QQQ: Which ETF Fits Your Goal?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOUF6N1h4emxrRkU3YUYwSTZoMEN1azd3c2RJMGl6VWdkQmRUY1hybkFKZDBsMGRSbHc1U0VJYkVuRTM2UXJ4aWVqTTBxUjJxellIQ2FkQ0RqYUlpYnBUN2daVUJSUmVYemR2MVRDaVM3ZnFYU1dnMEM3aG9PTWpYdw?oc=5"
+    },
+    {
+      "title": "Beat the Market Like Zacks: Monster Beverage, Carpenter Tech, Usio in Focus",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX3FiLTZQWHJjNV9JQ0ZCa1ZvdldJY1ZtRHM2amJoYmNudV9IS3hQYUw2MjZ1a2d6Ulk4VHBEalpIUXdQUENDdEppZEVheTJRZkdyQmhxU2tOUVhHVGJfb2RBNjh2N3ltRWUyNmlGdGJYbVF6QjdvM21LV0NYSzVucVJGbTQyLW5EZlVyQk5Ta1pMdmwtMHZ5V2ZfTU92MTdLMnljVElnUWo4bWpQZVMzdkRpcEdfRWdVZzMzM3pvaFM2d0NVbGFn?oc=5"
     }
   ]
 }
