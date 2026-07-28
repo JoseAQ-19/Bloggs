@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-27T10:41:01.569816+00:00",
-  "total_candidates": 4,
+  "scouted_at": "2026-07-28T09:34:00.893925+00:00",
+  "total_candidates": 2,
   "topics": [
     {
       "rank": 1,
-      "title": "S&P 500 en 2026: ¿Cómo casi la mitad de las empresas superan al índice y qué fondos lo reflejan?",
+      "title": "Descubre los 8 fondos más buscados por inversores en España: ¿Cuáles superan al Ibex 35 en rentabilidad?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Oportunidades y amenazas en el Sector Farmacéutico: ¿Cómo se comparan los fondos líderes en rendimiento?",
+      "title": "El Ibex 35 y su impacto: ¿Valen la pena los 0,427 euros de dividendo de Iberdrola en comparación con otros fondos?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Criptan en 2026: Análisis de seguridad y comisiones que podrían cambiar el juego para los inversores españoles.",
+      "title": "Fondos españoles frente al Ibex 35: ¿Quiénes son los líderes en rendimiento y comisiones en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,24 +49,14 @@
   },
   "all_headlines": [
     {
+      "title": "Más allá del Ibex 35: estos 8 fondos que invierten en España son los más buscados por el inversor",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR0xfWG5iZFVyRmdhamZKb0dPUnh0bXc0X0thYmd4YzJocU0tOGJhVm1UUW1mQ3NyclJidWdycDV0eDNaU2phNFEyOHFSZmd6RXZMRUkybElWNXRoM0VGV0lYcDBLdm9IbDFXX2lQcW5yU0xBRk1VbS1yRTlrV1BnU05PeHNsMWNPQ3ZGRTFuSEFzV0R2eldDSEZRSUR4TG10VGpPdThyVjN5azdlM1dNR3lsVFcxZURMQXlKblNDcG9RQ1BvVG5aaVJ3OVltcl9TZDlQZUF6Tk0wZmNxWG9JRjRKN3U?oc=5"
+    },
+    {
       "title": "El Ibex 35 cierra julio con el dividendo de Iberdrola: 0,427 euros brutos por acción",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNFdIUEtSV3p5cXp3ZEJ1ZG5kT3VYb0ZaODl3UFZHdlg3TkFpNjRaT2lRMUxIc3BlOUEwVzhvOEl5XzVGczBaZDJuSnRvSW9YWUZnU1ZiR1dzUkxJZlJTblZ2Uk9DTEhES1NiazlHbGZfNWlYMnROUkExOFV4NzVlV3Z3ejlkX2ljNE5NeEQ5S2lmU1lkREtVRnJYZ1RsOHVNdHpNTFpES2RnTUJCbnFPS0lFczFvRzl6RlZuR3RHSV9jVWdVUVk4X0hXdm5LUVhWX0E?oc=5"
-    },
-    {
-      "title": "Algo está cambiando en el S&P 500 en 2026: casi la mitad de sus empresas ya baten al índice",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbTZ0bHlYaXpROFR1MGxmTmFWWmhBN2Q4ZW9zX1AtU180TlVCWFRRdkdOWGZ6SGFQTVVaNk5GTjlpOXU5ckhUUUlMR1k4NGtZSVlRWk1ORV9ZR25SUDhlRjlXVXBub2p4clY1OEpDUVh5NjFlUDZxNllxY2d1TG1fRjRmMURGVE1SZ0otby1OLWRfR2FFZXpJTXAyc2lkVFU1akt1Z0h6eGpFYWVpdzVzdGxhTDh1clYtcEVkU1FsdnduelY2MHlaVUM2ZnBZYnd0SzZtRS1jOWc3UEU?oc=5"
-    },
-    {
-      "title": "Criptan opiniones 2026: seguridad y comisiones del exchange español",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMlh0VnJPNGZHUElUUGdpRUQ0Z19aOVpqaVE1Q3RPWk8zRDZfU0x2VTgtWnZyNnVtbTZoSTJRZmMtc21CZUVaTEJFMmNPNVJiZzhBamtXQnBnMDM1QU54N0lfa2c3bGpna1FSNjVPN29ZSTJHTXk0R2xzYXltYXRjVmhsYlRid1JrVGNXYUsxMmtqMWRoVUhyTWhQcmlqbGwtNjVYUQ?oc=5"
-    },
-    {
-      "title": "Invertir en el Sector Farmacéutico: Oportunidades y amenazas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdm1HT1FBdFFLODdYaEdpRDRfcmtKVGc5NEdkSjVVZXpzM2gydm9OOU9TZlZLYnNVaWw0MDJTNEx5SHl2OUVucXBfWnF3RmNpNDVmUDFHX0tIY1RRemxDYkFRX0d0XzhZU1FwMjBfQ1ZPUUlaMDVzWDF2Qzk1WndsWEl4X3hmMGhkV0E?oc=5"
     }
   ]
 }
