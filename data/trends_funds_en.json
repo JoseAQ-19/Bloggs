@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-27T11:48:35.188993+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-07-28T09:37:09.325871+00:00",
+  "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "Opus Fund Services Explores 20 Years of \"Discovering Alpha\" with Old City Investment Partners",
+      "title": "Green Street News Infrastructure Releases Three League Table and Funds & Investor Reports",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "KMM Group Receives Investment from RS2 Healthcare Partners",
+      "title": "ETFs vs Mutual Funds: The Cost Advantage Battle",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar, Inc. (MORN) Stock Price, News, Quote & History",
+      "title": "Morningstar upgrades $12bn JPM growth fund",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,19 +51,24 @@
   },
   "all_headlines": [
     {
-      "title": "Opus Fund Services Explores 20 Years of \"Discovering Alpha\" with Old City Investment Partners",
+      "title": "Green Street News Infrastructure Releases Three League Table and Funds & Investor Reports",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORmgwem5kTG5DTlc3TXVjcXY4d0lHY25oTWNncWd3b0ZkTjNFUXRzM2hfZTJEWVU2Z0NSQVd3WWZQc0hDTzhKTVNfZHZNQXNBTzZBamRDZUxWZmFfVi1pcDFIZ0dxRjFHWnRMOFNYbXlaUWM0QmZIQWNVSXJicEoxN3lHbFdReEdtSl83dlk2MFNwT2FZZ21wanpiUEJSa0VmMTRxMnF2RmNQckVPTldyS2IwWjhQWkxQU2pGMGdtTFFKblY4cUVsYXNFMFBoT0Fkb3FGYVJHS1N2aVlWTEpWaWpNR2Z0MGs?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZWhyMXZwMzZWTFhqdkhMMUM0R2IwQk1jOVZDTGdNMGtqNlJ1MGVEUGVUV09DQ2xXNEVCanl0VmFPYWROV21CT25WM2hQUElRU2p0Q2toeHdRQnJxSzFSTHlJRnRSWDktemdGN1pPeXd4WTRkQkZMMk9ST2RBSi04T1V3ZThnZUxDRFNXcWVuOWlCc1lwSnd5UTA0T1Nab3lUTERtRlBJbGxHWXRmeE1vMXIxbkphSnpjQ2YtZ0htNUdMT0NJS0VBQURDRlVHVlZuQURhUHJrV1RpRi1MQU5LLXdR?oc=5"
     },
     {
-      "title": "KMM Group Receives Investment from RS2 Healthcare Partners",
+      "title": "ETFs vs Mutual Funds: The Cost Advantage Battle",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONU9kcWRjNWl4Z1Faay1CTWxLUjRqZnFVbGlub1FtX1dEREdMVENseUs2bUdCSDNSN0pmQlpOc1AtMmlZSnFMUFpvcHZkaW1sYVhLVGFVWkNxRzE2RnlWU3ZCRG80SS1UMEM0TV9jTThmVHpwek5XdXVUWUwzaEdyTFpDa0dfQlVUdDY1Zk95Y25rRGFEcGh0LS1acTF6NFA1enBtbGNuN3FJRUk3SC1NYmNHTTEzN2h3VnRZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2Z4LUxjVTZILVlnRXo5SGdFV2xDT3FMWWd2am1qQkIxTmNEY2hZYzhncndDZ3RGNzhqSFB4MjBjY3VEV0xnY3NSQkZwb1NSNUE0TnI4SXpRdGpUVUx4cXlPVFhOOVdYT0NRMGk4c25sV3pXRktReE9ZTVBDa0FOb0JaY3FpNklUZ3NzYjg5dlJMSnliaTBwSHlFeWdnb3BoY0J4eHZNckdnR05s?oc=5"
     },
     {
-      "title": "Morningstar, Inc. (MORN) Stock Price, News, Quote & History",
+      "title": "Morningstar upgrades $12bn JPM growth fund",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MVlJDQnFwS1hHT2l5MVlZa2RNa25HU05QeG5EWGFrTGxpM2lZZU90QXpOTEdMSnN0ZzdGQmdGelVGa19fUDBIZmx4SDZGQkw5QXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUxVWk1tTUJnTHhkZklOUmU1d29KcFdKRW9tdnAtbUIxU2ZaeVRHZ1o3d1VxVXI3MGRjOS0yTldIM0NjdDFGSXlEUkJpTGwwVElRUjdkaXA5QWVENGc2b0xiWHdrSUNaLWVDelNpNkl1YzZyNGpyUlM2UzJoNzhVYm9LNkZqU2d2b2NJa1VpMA?oc=5"
+    },
+    {
+      "title": "Webull Launches Managed Bond Portfolios Powered by Moment",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHJwUGU2RFQza2RlLTU1aDdoS2c1bHFNbHdlTXhLQWJRN2RBZW51dlV3YTllLUt2OXdYaVJfUkc4OVUxN0pRdF95eldERVp6ZWdFNUVpVjhuVUJ5dmxtUHpXY21SWEZEcHo2QTE3MHVwaHY3bG4xbmFLcDE2ZjNIb1AtOUJKTnB4MmM4TGM5NzBHVHR5cUhWLWVsSGQwVndwWDJCM283RmVJYlhLMDF0NXdjOU1XcTdYaVE?oc=5"
     },
     {
       "title": "Morningstar Investment Management LLC Grows Holdings in Federated Hermes, Inc. $FHI",
@@ -71,29 +76,29 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ3lYckQyOXZHYUUyQnRtb2lKS1p4WW5yMlhiTV9KRWlaZnl1V3o0bFZuRzI3amF6NVM1Z2lZX2R4UkM1YmQ4N1FvcjZocVcycGw2VGY2bmhWNkx0YUdUZGx2b1FtUGt4QlEzZm4xOHVjTXRqbkRDbXFWVFFEUFFxSXBUOHk1b1RIZXFSSC15MDRmeXRUenR5bXJTLWFGZ3A3NFltWjBhNk1wRV9TOV9XSUJTQ0RCN1ZhQnhZZlB1dG40NThFdFVWY3lpdmozbzlOLTltNzJSQy0?oc=5"
     },
     {
-      "title": "Morningstar downgrades $1bn Hartford fund following PM's ‘abrupt’ departure",
+      "title": "Florida Poly degrees match nation's highest-paying majors",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFFSelZwMVBVMlVGSUdWVW1wbklrU1dscVB0czRTcWRrSGlDSE82VUNsOW54U0VYTWVBa25oZFd3YURBdWNDNXY2RGdWaGdxR0xEbnRMNUNNNUpZN3JyLUVRZUtQUnVSWmFuZHJvRk4tUXdJWWg0N3lFcVZ5V1BaRnpNVlI4MEtLdFRJeGsyRm5GS2dHUkpyNjlRdmgwUmtqRkdHZzZVRFIweE9ZRF9fTlhjTmVTQVk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMnRiRWppMjNPb1k0eHE2cFVlNkZiRDNVZkJURHFUbEg5UFV6QmVJRXU5YmpxZU9kOHJJQVVZSEVMaUFTdkFGTEh4Rnlvdy1pUThXUkt3ejJ0Y0xZS1N2TS05RnhZOW5CaWZRYS1LLS01YmtEa3BpR1gwRWszZUpDSVlONnNRMjZ1WEdKWWdBYXhyeGVlYjItZFdLSzE4U0Z2UDduRTU5d21NZUx6REZNbkI5YmJ6dkxi?oc=5"
     },
     {
-      "title": "Morningstar Investment Management LLC Cuts Stake in Zoetis Inc. $ZTS",
+      "title": "Morningstar Investment Management LLC Decreases Stock Holdings in Texas Instruments Incorporated $TXN",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX3NxMlNXWnNSaTNDRF9QT20wSEtZSjRxcVA2V1NFdGFsWlN4VWYxeUlnMVBmODZvVDdUZXA5N19jRmFZbmhnWUpya3lwX1BMQ1Y3b1RmVWh0ZS1aMENFcmx6V01vQzFlM1dLOWVieFR5aUo0LU11UEFIaVBSazBKdnRQbzc2VG1weDJDa3R3YTZCSlBOeU5DcXNRc3pvUFdBSW51Q1l0eVFxUzM0V2ZmdUhfeEplZlZWbU1TU0k0eFRHaDA2SkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOTZBZnNkR1pHR0VxZTV2Q21rSzc3WFhkc0p5V0JXVGtYWTZBNThWcWdJS1FTYU4tWi1DSHhIU21qQUJkdTREWU5wRTNoOFFSVzF6RzJXUWtKbUFjeG93V0ZuWmtFUTJtWU8xMG0wNnpiWFRCT2tSVFJlMDJ6TWNMNnRRT25ZeUVyVVhxWWtabDl5RkswVUpNS2tmS01CU215c0I0NDNBc0dIbFpOc3BiYlN2WDAyc0phaklONWxSWUlBOUxySllJVmN2XzFJN1k0R1dObUtmSWRUMmktdHBwYnFsVm9vUEs3WFA4dlFQakNQdlU?oc=5"
     },
     {
-      "title": "CI Morningstar Canada Momentum Index ETF (WXM) Announces Special Reinvestment Distribution",
+      "title": "KMM Group Receives Investment from RS2 Healthcare Partners",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWxRQjFXc3dvSTBxazVfZzlXYk91OWExekZkZXBBYU8tSXJFWGlNMXY0RDZsODNhaVlocXdvOFpLcDVrWlQxUThFaUZ2by15NDhVS3FLRDNnb2pDbWFXU3NkTnRTZXZNM2lsSGFvX0E1Zl9BaFhXdTZieG5FOE1aMHpERTA3MHBmdkl5dFNLaFRCZk45MUlqbHFEVzY0TzhsdTYtVFNpMVNpTGhFT3JUM3BzeGxGRjFJLWo1UktXVkNmYkREa1E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONU9kcWRjNWl4Z1Faay1CTWxLUjRqZnFVbGlub1FtX1dEREdMVENseUs2bUdCSDNSN0pmQlpOc1AtMmlZSnFMUFpvcHZkaW1sYVhLVGFVWkNxRzE2RnlWU3ZCRG80SS1UMEM0TV9jTThmVHpwek5XdXVUWUwzaEdyTFpDa0dfQlVUdDY1Zk95Y25rRGFEcGh0LS1acTF6NFA1enBtbGNuN3FJRUk3SC1NYmNHTTEzN2h3VnRZ?oc=5"
     },
     {
-      "title": "CocaCola Company (The) $KO Shares Sold by Morningstar Investment Management LLC",
+      "title": "World Markets Watchlist: July 27, 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZjNLdjl2bWNUUWRMRklkX0J0amx0QjNEYnlhS3ZFTmo3Q005RnFZeGpzdWpfS0oxVmNjcFViMEhVWm9pUnQtanhFNWltdlBudDVZNERuM2NhZkNlR1o5Y2REaDZyUVQxRlE4dWRBLVFHck85RTEwREtscHdJZkhTbVdQTFRrSFR0UkFvd21fTDhaclRsNms3alFVUXdIbEJTYVM3cG5pUVlMSXA1NUM2RWc0dWZEZ3FJZmNza3paRXgzMGo3MU44bllQU0FpNnU5RVBr?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1VKbXEtRDF2OVhKcXlyalQ4YVJXQnRyNXFRNzV3bEF4ZGFVWFZaYVJzc0taVGVZZmJqTC1TVkNTQ0F0SmpLWnQ4c0lsLWRGbFJsNEoyc3MteXJscUNjMUFab1BpZGNhRkFyUkFFN3JzSzZUczl5MlZ5ZHhWam5WQ0V4YWtEWnZSSkVOYWpIWl9yMk9vZmFjNTlONF9YLWc?oc=5"
     },
     {
-      "title": "Sector & Industry Performance",
+      "title": "Real Estate's Penthouse View",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWEtZUzJ1Y0JsejVfb1o5VkF5Z3BFdWVwYzdCcEJ6dWJ3N19uOFNoY2VaYnMtUVpLeTdSUE83a3pkTWtOQmpTUm01aEJteWVhNU5n?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN2FQd3h4cEE5dm9zRGxqdzR5QXBCaGJENmhmZ2FSTF9GUjJRbTFEbjVPTzVBTEx5d3paOXRVNUdtdkVYUHBMcWNON2lyd05ab2tkc0c4X1JjQTAwM2xjNGcwZUxPUEhHQXR6dXEyYmJfUDF4V18wWlZqS2tySXBDR3dfVW9KQUY0eWMtbFZoVQ?oc=5"
     },
     {
       "title": "Why This Leveraged S&P 500 ETF Can Lose Money Even When Stocks Rise",
@@ -101,34 +106,24 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzl6Y19jRjFRc3FUUk12MXFYMHZwUTZxSW02NnQ3RE9OQmlNYXp1WFhaZEtGR1hTRFRhSFc2aUJkZHYweGNzY2g5VjZKbkVFQzN1UUM5b3VDek5zU21ZajljMVBEd2Q0eFRUZkRBVXRrZk1pb2ZSS1hKcnlYaHByTzVGY3pBamdUT0J5c2hPZUJhM3d0cmx6TENZNlJKYnhvcjZDcmdBVE5XTGV6OGZyd0RYdk4?oc=5"
     },
     {
+      "title": "Forbes 2026 Midas List: Top Venture Capital Investors Ranked",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fcGVEQ0g0VGFkMnVBQmlYNjNock5lN1FWdF9yM1Z1bmhCdnZFOXZUSlpoSWs0S3dHcTN5NGlMMnZHWXlnU2s2UUxZSQ?oc=5"
+    },
+    {
+      "title": "MF Tracker: Can Motilal Oswal Midcap Fund retain its edge after topping the 5-year return chart?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQazFLNnhrb05oY1Q5TWJoLVhrY3FXRzJqRlMtUFBEOW9BdUk0TXZoazhrenlCelVUcGNoU2dLbThfbGpHbzZpeTF0aVlkeTBHQlVGRXZsLUpfU0J6dzJkV2JUTDVsRkM3REFBZlZuMUJYN3RVNXV2Q1U5ZHRKQlpjcDJQeGlvSVJzalk4a1k4U0RCTzN1M1RsblpYaGg0T1RvV2ZEWGZlWk1oYk1tT3llVzRvMnc1RmxNd2R3OXFubU56c3EzaWxaUGZfV05ubWZKYm13UFYxYTQ3b2NtdVkwNFFpTXZYN2hzNDdhVXRnSmtIU0tVbU5n0gH3AUFVX3lxTFBrMUs2eGtvTmhjVDlNYmgtWGtjcVdHMmpGUy1QUEQ5b0F1STRNdmhrOGt6eUJ6VVRwY2hTZ0ttOF9sakdvNml5MXRpWWR5MEdCVUZFdmwtSl9TQnp3MmRXYlRMNWxGQzdEQUFmVm4xQlg3dFU1dXZDVTlkdEpCWmNwMlB4aW9JUnNqWThrWThTREJPM3UzVGxuWlhoaDRPVG9XZkRYZmVaTWhiTW1PeWVXNG8ydzVGbE13ZHc5cW5tTnpzcTNpbFpQZl9XTm5tZkpibXdQVjFhNDdvY211WTA0UWlNdlg3aHM0N2FVdGdKa0hTS1VtTmc?oc=5"
+    },
+    {
+      "title": "Beat the Market Like Zacks: Monster Beverage, Carpenter Tech, Usio in Focus",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX3FiLTZQWHJjNV9JQ0ZCa1ZvdldJY1ZtRHM2amJoYmNudV9IS3hQYUw2MjZ1a2d6Ulk4VHBEalpIUXdQUENDdEppZEVheTJRZkdyQmhxU2tOUVhHVGJfb2RBNjh2N3ltRWUyNmlGdGJYbVF6QjdvM21LV0NYSzVucVJGbTQyLW5EZlVyQk5Ta1pMdmwtMHZ5V2ZfTU92MTdLMnljVElnUWo4bWpQZVMzdkRpcEdfRWdVZzMzM3pvaFM2d0NVbGFn?oc=5"
+    },
+    {
       "title": "VOO vs VTI vs SPY vs QQQ: Which ETF Fits Your Goal?",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOUF6N1h4emxrRkU3YUYwSTZoMEN1azd3c2RJMGl6VWdkQmRUY1hybkFKZDBsMGRSbHc1U0VJYkVuRTM2UXJ4aWVqTTBxUjJxellIQ2FkQ0RqYUlpYnBUN2daVUJSUmVYemR2MVRDaVM3ZnFYU1dnMEM3aG9PTWpYdw?oc=5"
-    },
-    {
-      "title": "7 Best Space Stocks and ETFs to Buy in 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY1pKUnctcTljR0RlV3lzQXhveFNNQ0RUM2FZb0s1LWlUNnhVUkwyZ1hWWTNWTVNNalFNcmh5a0YxUmJ0NnNfSTBNY1dTd3RwS3RLSGMtbGRkRkxnZDhsWUdJcWM2Uld0Q2Q4SU1MYWM2UzgtOUpuU25IRHRGR3BDQmdaUFNMcE5ETC1yNEdkR1c2QzVYbWl3U0QwTHBxRHc5Q2JN?oc=5"
-    },
-    {
-      "title": "5 Best Commodity ETFs to Buy Now",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS2k3dDdIbnVyN3BWeWl4cGVMVU9IeHRKaVZ6TEhDbzNIOUtveFJUb2dlek9JZ3pLQkhuNDhDUjBNSGM5UzBlbVExemJ4LVJSMlRwRVA2RjVsem11QktVT2lWeFIwbEJoX0VSLVlfVFl4WllWcFNRcWpqaHBBaGRQbE8wR3ZscHJOYkhnNDdNajRDdw?oc=5"
-    },
-    {
-      "title": "Why Are Dividend Funds Suddenly Outperforming in 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLUFtQllvNDBsRVhGMGs1blBqYlFfSkVkMUdKRkJoWk12VERsMnF4ZUJGRUFvVGpuMFN2TkppemFhN19qYVl0c1hzNjRZU3JnQ0pianZPa25rd2YwZDMtSmNMNC1IZ1huOGZ4c3ZFdVV0U19FVmcxbmlOdTV6dzJ6YXBqNFVXYm9ndW12SFdia25iUQ?oc=5"
-    },
-    {
-      "title": "The mixed-asset funds investors bought most in 2025: Winners and laggards in 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSk9JR0wwdXlTNGVub1pidEtwZnJKajZURUNsTHZfZnRFQ1A4ZWxPYk9wV09HaW02MERWbS1sNldsVnI1STZxWkdwdmdHWkM1UFl1MjNsd1o3ajdmeUJuWUMyVFNnT215TWd0ZXl2VVRPRnlyYjA2REtYZDlsUjRFWWJ0MGlza25GNzNHcnNONU40SnVocEpMaVROQzY4NS03OTc0ZUhpX2lNelBlRXNfV1NMLUx1anhWZmtFQWNB?oc=5"
-    },
-    {
-      "title": "Global X Defense Tech ETF (SHLD) Stock Price, News, Quote & History",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50OWRhV21qajR4T0RpdzRMU1lMV0RMWVlidHlCZDJqODJjY0wtTlBqbUhwdDN3UlNrQU0tN3QzdjYtSGlmTEpZcEFMWk1TbTVNMXc?oc=5"
     }
   ]
 }
