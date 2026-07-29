@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-29T09:35:08.012443+00:00",
+  "scouted_at": "2026-07-29T09:36:33.123676+00:00",
   "total_candidates": 2,
   "topics": [
     {
       "rank": 1,
-      "title": "Descubre los 8 fondos de inversión en España más buscados: rendimiento y comisiones que sorprenden a los inversores",
+      "title": "Fondos en España: ¿Cuáles son los 8 más buscados por los inversores y qué rendimiento ofrecen?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El Ibex 35 y el impacto del dividendo de Iberdrola: ¿Cómo afecta a las mejores acciones del índice?",
+      "title": "El Ibex 35 y el sorprendente dividendo de Iberdrola: ¿Cómo se compara con otros grandes dividendos del sector?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Fondos de inversión en España: Comparativa de rendimientos inesperados en 2023 frente al Ibex 35",
+      "title": "Análisis de los fondos de inversión en España: ¿Qué estrategias están superando al Ibex 35 en 2023?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
