@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-28T10:57:27.114076+00:00",
+  "scouted_at": "2026-07-29T09:38:08.002593+00:00",
   "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "Green Street News Infrastructure Releases Three League Table and Funds & Investor Reports",
+      "title": "Where the US Stock Market May Be Heading Next and What to Buy Now",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Meta Announces New Strategic Venture with BlackRock to Develop Data Center in El Paso",
+      "title": "Morningstar upgrades $3bn AllianceBernstein large cap ETF",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "ETFs vs Mutual Funds: The Cost Advantage Battle",
+      "title": "Green Street News Infrastructure Releases Three League Table and Funds & Investor Reports",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,19 +51,29 @@
   },
   "all_headlines": [
     {
+      "title": "Where the US Stock Market May Be Heading Next and What to Buy Now",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZDBYRXR4TFFoQzdnQ0ZieFctRk9aNGlGczZuMFNlUm02YTB1ZDhhWDlSM0pRS3JrekVWckZQRnFKcnRGeGl2aFpCVGd6ZldHMkNXTWpHd09UMDVGaUx1d3ZPX2lzWmREOGttM0x4Z3ZFcXN4NnZtd1c5QUdIelQ4d2taWDFQcFRpUktiejlnNG56Qk9jekNTcVBBZks?oc=5"
+    },
+    {
+      "title": "Morningstar upgrades $3bn AllianceBernstein large cap ETF",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWTZvZEhUaVBQdFpOdXBSMUFnWXZzZS05VDlLQnhrQVJVN1J2VlhwT2ZxLUxGdnJ5YVBmTDFEVjNQNGJ3R0RTZ0I3Z3lXTzNKdlQ2c09sLW12Y1gzd1lEandpY2VjWXQ3czRrLVhCM2FhNlpsc0hodkpxTmMtMElfNlhZWlJsNEVaUGRqVkN6cllQTzFTdG9sbUJhdw?oc=5"
+    },
+    {
       "title": "Green Street News Infrastructure Releases Three League Table and Funds & Investor Reports",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZWhyMXZwMzZWTFhqdkhMMUM0R2IwQk1jOVZDTGdNMGtqNlJ1MGVEUGVUV09DQ2xXNEVCanl0VmFPYWROV21CT25WM2hQUElRU2p0Q2toeHdRQnJxSzFSTHlJRnRSWDktemdGN1pPeXd4WTRkQkZMMk9ST2RBSi04T1V3ZThnZUxDRFNXcWVuOWlCc1lwSnd5UTA0T1Nab3lUTERtRlBJbGxHWXRmeE1vMXIxbkphSnpjQ2YtZ0htNUdMT0NJS0VBQURDRlVHVlZuQURhUHJrV1RpRi1MQU5LLXdR?oc=5"
     },
     {
-      "title": "Meta Announces New Strategic Venture with BlackRock to Develop Data Center in El Paso",
+      "title": "CRSP Indexes Get New Morningstar Names, Same Methodologies",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ0M2M3VXUXJPa3FVb1ZmZ19oSVNabXNPdmF2bE1hQm1ZWGNWa25HamhNblVOOWdfZDNVaFFBUkZWOHp0c0tSZE5CUGpsVld5aDg5T3dGazNhY2kwTWxtcHE4amxiYm1lS0txOGFDTUJrcmZqdV9RSjVTNWJPWHQ2bGZJa3FPSnlTQWdYQVZjZ09IakE3LVNLTVVFVU55TTAzYms2dnd5YTgteElYUDFmYU5XdjN0eEUxZ2Q4azM3VW9QMVdmM0pwTkt0VXFVeWdTOEphZnpybHFCOGtNYmhz?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUXRVRXQ2dGE2Q2ZpVnBMR2IwWGVzNFAtRXlwd2tDTFVfN0I0cVdlYnZRaTBfTktlVzZZamNrdlpKd3pqQmdDeWJERzBtVlNabjd4X2JmWjFmTjBZSzBIbDY5SmlPZlpCLXp4aU5PNFVYdVgtOEU1TlZydHJNQ0hoYzFOOENaVklWWVZ1QkZGaWhIcWRZNVd3Z2ZpaDRXdkNhczdBanc0U2hXUjQ2Rll2Q1lqT2lwclVfSkc4QU84OA?oc=5"
     },
     {
-      "title": "ETFs vs Mutual Funds: The Cost Advantage Battle",
+      "title": "Morningstar Prospects: 6 funds to watch",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2Z4LUxjVTZILVlnRXo5SGdFV2xDT3FMWWd2am1qQkIxTmNEY2hZYzhncndDZ3RGNzhqSFB4MjBjY3VEV0xnY3NSQkZwb1NSNUE0TnI4SXpRdGpUVUx4cXlPVFhOOVdYT0NRMGk4c25sV3pXRktReE9ZTVBDa0FOb0JaY3FpNklUZ3NzYjg5dlJMSnliaTBwSHlFeWdnb3BoY0J4eHZNckdnR05s?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2hUR1hTdW1jUXdzQ1llbllqVlFzMmw5STJKTG0tb1ktTzhIcWdmd3FvaU40dlZFR05CM3lhWHNpZVlJWkYybmYxcmJ2SmdyRVVodGlKdkQxQ3E2WmFOSEd5V2lzWW5WQzJOMXNkNnUxaHJTWU1qXzhSb1FqTldka19TMTNTZTRmV0o4?oc=5"
     },
     {
       "title": "Morningstar upgrades $12bn JPM growth fund",
@@ -71,24 +81,19 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUxVWk1tTUJnTHhkZklOUmU1d29KcFdKRW9tdnAtbUIxU2ZaeVRHZ1o3d1VxVXI3MGRjOS0yTldIM0NjdDFGSXlEUkJpTGwwVElRUjdkaXA5QWVENGc2b0xiWHdrSUNaLWVDelNpNkl1YzZyNGpyUlM2UzJoNzhVYm9LNkZqU2d2b2NJa1VpMA?oc=5"
     },
     {
-      "title": "Morningstar Investment Management LLC Grows Holdings in Federated Hermes, Inc. $FHI",
+      "title": "Morningstar Completes Rebrand of CRSP Market Indexes to Morningstar Market Indexes",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ3lYckQyOXZHYUUyQnRtb2lKS1p4WW5yMlhiTV9KRWlaZnl1V3o0bFZuRzI3amF6NVM1Z2lZX2R4UkM1YmQ4N1FvcjZocVcycGw2VGY2bmhWNkx0YUdUZGx2b1FtUGt4QlEzZm4xOHVjTXRqbkRDbXFWVFFEUFFxSXBUOHk1b1RIZXFSSC15MDRmeXRUenR5bXJTLWFGZ3A3NFltWjBhNk1wRV9TOV9XSUJTQ0RCN1ZhQnhZZlB1dG40NThFdFVWY3lpdmozbzlOLTltNzJSQy0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNnQyWU44M3NaUEFlX0I5ZW9maGw0RXd5Q1JkWFdEMEZmQU1ldy1SNmxiMFZROXBQMEQ2WUpFVndvOUpoa0JFZW1ZQ056bGQ2S01YQnhJblJyZEludG1QUUZ0c2duOVpDX3g1eFd2VFZuazZxZG1CcmJ6RjJvRjdib0xsUXBoUlI5QXk2aTRlRVo5S2JBbXZ2V2dNX080NE1Nc1N0Vl95TFNIUEhPSVJhWmxoYW1wUHBxcUtiblJRYmFWWUwza0Y0UW8tZDNjRUxY?oc=5"
     },
     {
-      "title": "Florida Poly degrees match nation's highest-paying majors",
+      "title": "Future Focus: What years of talking to investors taught me about building wealth",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMnRiRWppMjNPb1k0eHE2cFVlNkZiRDNVZkJURHFUbEg5UFV6QmVJRXU5YmpxZU9kOHJJQVVZSEVMaUFTdkFGTEh4Rnlvdy1pUThXUkt3ejJ0Y0xZS1N2TS05RnhZOW5CaWZRYS1LLS01YmtEa3BpR1gwRWszZUpDSVlONnNRMjZ1WEdKWWdBYXhyeGVlYjItZFdLSzE4U0Z2UDduRTU5d21NZUx6REZNbkI5YmJ6dkxi?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNE1nVmNQMTJjV3JvbU5KZmFBMzVreEd6dDZnaUNweldMRk0zQ2gxYWpxaTllcDYtbld2dU9lRFlKUHk2SWpxUkVybEZRWkNUYVhzY0RPS3ItYW9ieEFsb0xISjhNVFBNanFlVEVjLXFXRzBPV09IeDBPRkM3ajY4YWF3QjBUdDg3VnVOLXRrR0lJV0JLOVc1UnZta1BOc09EY21yTHl0RFhfVElQZm1xSGNLaWc2ZFR1REY1YWNn?oc=5"
     },
     {
-      "title": "Morningstar Investment Management LLC Decreases Stock Holdings in Texas Instruments Incorporated $TXN",
+      "title": "7 Best Fidelity Mutual Funds to Buy and Hold",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOTZBZnNkR1pHR0VxZTV2Q21rSzc3WFhkc0p5V0JXVGtYWTZBNThWcWdJS1FTYU4tWi1DSHhIU21qQUJkdTREWU5wRTNoOFFSVzF6RzJXUWtKbUFjeG93V0ZuWmtFUTJtWU8xMG0wNnpiWFRCT2tSVFJlMDJ6TWNMNnRRT25ZeUVyVVhxWWtabDl5RkswVUpNS2tmS01CU215c0I0NDNBc0dIbFpOc3BiYlN2WDAyc0phaklONWxSWUlBOUxySllJVmN2XzFJN1k0R1dObUtmSWRUMmktdHBwYnFsVm9vUEs3WFA4dlFQakNQdlU?oc=5"
-    },
-    {
-      "title": "Webull Launches Managed Bond Portfolios Powered by Moment",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeHJwUGU2RFQza2RlLTU1aDdoS2c1bHFNbHdlTXhLQWJRN2RBZW51dlV3YTllLUt2OXdYaVJfUkc4OVUxN0pRdF95eldERVp6ZWdFNUVpVjhuVUJ5dmxtUHpXY21SWEZEcHo2QTE3MHVwaHY3bG4xbmFLcDE2ZjNIb1AtOUJKTnB4MmM4TGM5NzBHVHR5cUhWLWVsSGQwVndwWDJCM283RmVJYlhLMDF0NXdjOU1XcTdYaVE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHFMbVpRMVNmM1JnQzcyMVRmY0FKMTZfbHhkbkM2Q29jUXB3SG5mM0VwUV9BQTdvdXdnZW1WWkhaTE9aVE5kWEJSUDJxM0QzOVZ5UTZxUDdqclZOLWI4UDhyMTc3S05fdjFaeWNNaWZyVWxQd19nMG80dXVpdDMweFBRS3FyZGtFY2hyM3dJNA?oc=5"
     },
     {
       "title": "World Markets Watchlist: July 27, 2026",
@@ -96,24 +101,19 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1VKbXEtRDF2OVhKcXlyalQ4YVJXQnRyNXFRNzV3bEF4ZGFVWFZaYVJzc0taVGVZZmJqTC1TVkNTQ0F0SmpLWnQ4c0lsLWRGbFJsNEoyc3MteXJscUNjMUFab1BpZGNhRkFyUkFFN3JzSzZUczl5MlZ5ZHhWam5WQ0V4YWtEWnZSSkVOYWpIWl9yMk9vZmFjNTlONF9YLWc?oc=5"
     },
     {
-      "title": "Real Estate's Penthouse View",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN2FQd3h4cEE5dm9zRGxqdzR5QXBCaGJENmhmZ2FSTF9GUjJRbTFEbjVPTzVBTEx5d3paOXRVNUdtdkVYUHBMcWNON2lyd05ab2tkc0c4X1JjQTAwM2xjNGcwZUxPUEhHQXR6dXEyYmJfUDF4V18wWlZqS2tySXBDR3dfVW9KQUY0eWMtbFZoVQ?oc=5"
-    },
-    {
       "title": "Why This Leveraged S&P 500 ETF Can Lose Money Even When Stocks Rise",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzl6Y19jRjFRc3FUUk12MXFYMHZwUTZxSW02NnQ3RE9OQmlNYXp1WFhaZEtGR1hTRFRhSFc2aUJkZHYweGNzY2g5VjZKbkVFQzN1UUM5b3VDek5zU21ZajljMVBEd2Q0eFRUZkRBVXRrZk1pb2ZSS1hKcnlYaHByTzVGY3pBamdUT0J5c2hPZUJhM3d0cmx6TENZNlJKYnhvcjZDcmdBVE5XTGV6OGZyd0RYdk4?oc=5"
     },
     {
-      "title": "Forbes 2026 Midas List: Top Venture Capital Investors Ranked",
+      "title": "Best Roth IRA Accounts Of 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fcGVEQ0g0VGFkMnVBQmlYNjNock5lN1FWdF9yM1Z1bmhCdnZFOXZUSlpoSWs0S3dHcTN5NGlMMnZHWXlnU2s2UUxZSQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81NjhaUVpSRzFpZlJYSGtjcDJjM3YtaERVM1ppYXB3MkRZSzAyanhUSnJQZ0xQZUtuemxORWNSdUZMU25oQ1NocWtYSnc5TmNFZlZKWmN2cGhJTm9RbWNvVnc3RUhZcGc?oc=5"
     },
     {
-      "title": "MF Tracker: Can Motilal Oswal Midcap Fund retain its edge after topping the 5-year return chart?",
+      "title": "Real Estate's Penthouse View",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQazFLNnhrb05oY1Q5TWJoLVhrY3FXRzJqRlMtUFBEOW9BdUk0TXZoazhrenlCelVUcGNoU2dLbThfbGpHbzZpeTF0aVlkeTBHQlVGRXZsLUpfU0J6dzJkV2JUTDVsRkM3REFBZlZuMUJYN3RVNXV2Q1U5ZHRKQlpjcDJQeGlvSVJzalk4a1k4U0RCTzN1M1RsblpYaGg0T1RvV2ZEWGZlWk1oYk1tT3llVzRvMnc1RmxNd2R3OXFubU56c3EzaWxaUGZfV05ubWZKYm13UFYxYTQ3b2NtdVkwNFFpTXZYN2hzNDdhVXRnSmtIU0tVbU5n0gH3AUFVX3lxTFBrMUs2eGtvTmhjVDlNYmgtWGtjcVdHMmpGUy1QUEQ5b0F1STRNdmhrOGt6eUJ6VVRwY2hTZ0ttOF9sakdvNml5MXRpWWR5MEdCVUZFdmwtSl9TQnp3MmRXYlRMNWxGQzdEQUFmVm4xQlg3dFU1dXZDVTlkdEpCWmNwMlB4aW9JUnNqWThrWThTREJPM3UzVGxuWlhoaDRPVG9XZkRYZmVaTWhiTW1PeWVXNG8ydzVGbE13ZHc5cW5tTnpzcTNpbFpQZl9XTm5tZkpibXdQVjFhNDdvY211WTA0UWlNdlg3aHM0N2FVdGdKa0hTS1VtTmc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN2FQd3h4cEE5dm9zRGxqdzR5QXBCaGJENmhmZ2FSTF9GUjJRbTFEbjVPTzVBTEx5d3paOXRVNUdtdkVYUHBMcWNON2lyd05ab2tkc0c4X1JjQTAwM2xjNGcwZUxPUEhHQXR6dXEyYmJfUDF4V18wWlZqS2tySXBDR3dfVW9KQUY0eWMtbFZoVQ?oc=5"
     },
     {
       "title": "VOO vs VTI vs SPY vs QQQ: Which ETF Fits Your Goal?",
@@ -121,9 +121,9 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOUF6N1h4emxrRkU3YUYwSTZoMEN1azd3c2RJMGl6VWdkQmRUY1hybkFKZDBsMGRSbHc1U0VJYkVuRTM2UXJ4aWVqTTBxUjJxellIQ2FkQ0RqYUlpYnBUN2daVUJSUmVYemR2MVRDaVM3ZnFYU1dnMEM3aG9PTWpYdw?oc=5"
     },
     {
-      "title": "Beat the Market Like Zacks: Monster Beverage, Carpenter Tech, Usio in Focus",
+      "title": "Best gilt mutual funds to invest in July 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX3FiLTZQWHJjNV9JQ0ZCa1ZvdldJY1ZtRHM2amJoYmNudV9IS3hQYUw2MjZ1a2d6Ulk4VHBEalpIUXdQUENDdEppZEVheTJRZkdyQmhxU2tOUVhHVGJfb2RBNjh2N3ltRWUyNmlGdGJYbVF6QjdvM21LV0NYSzVucVJGbTQyLW5EZlVyQk5Ta1pMdmwtMHZ5V2ZfTU92MTdLMnljVElnUWo4bWpQZVMzdkRpcEdfRWdVZzMzM3pvaFM2d0NVbGFn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDlyakw0YWl0UDNpdmR4Y01KdGVYcHJUdUQwaEhtSTZtZGpNUzVrLVB4cDM0VDBwcXNkSnRCajZoZkptQmFCZXltVFU0S2F2QldVMmNSXzlvWXYtcVkxM0JncHRnaEhCTEJCMTZuTWthOVN3VlpZNU9QVm44Sk0ydWdqNFNkazI0SGxzX2Nmd2c3MFQ0bjdWSXZ1WTlEbHBEYkpGY3R6Y182ZmpIY1JrNHdianpBZ9IBtgFBVV95cUxNWDlyakw0YWl0UDNpdmR4Y01KdGVYcHJUdUQwaEhtSTZtZGpNUzVrLVB4cDM0VDBwcXNkSnRCajZoZkptQmFCZXltVFU0S2F2QldVMmNSXzlvWXYtcVkxM0JncHRnaEhCTEJCMTZuTWthOVN3VlpZNU9QVm44Sk0ydWdqNFNkazI0SGxzX2Nmd2c3MFQ0bjdWSXZ1WTlEbHBEYkpGY3R6Y182ZmpIY1JrNHdianpBZw?oc=5"
     }
   ]
 }
