@@ -2470,3 +2470,4 @@ funds: Ocho fondos de inversión en España que superan el 10% de rendimiento en
 funds: Thornburg Global Opportunities Fund Turns 20, Surpassing 300% Total Return
 funds: 20 Years of Success: Thornburg Global Opportunities Fund Outperforms Peers by 15%
 ia: Bruselas impulsa la era de las gigafactorías de IA: siete infraestructuras para 2027
+ia: Wakefern's Bold Move: Launching a Centralized Pharmacy Fulfillment Center with AI
