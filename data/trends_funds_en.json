@@ -1,9 +1,28 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-30T10:36:46.822809+00:00",
-  "total_candidates": 0,
-  "topics": [],
+  "scouted_at": "2026-07-30T10:38:05.876222+00:00",
+  "total_candidates": 18,
+  "topics": [
+    {
+      "rank": 1,
+      "title": "Thornburg Celebrates the 20th Anniversary of Thornburg Global Opportunities Fund",
+      "lang": "en",
+      "source": "google_news_finance"
+    },
+    {
+      "rank": 2,
+      "title": "Where the US Stock Market May Be Heading Next and What to Buy Now",
+      "lang": "en",
+      "source": "google_news_finance"
+    },
+    {
+      "rank": 3,
+      "title": "Morningstar Prospects: 6 funds to watch",
+      "lang": "en",
+      "source": "google_news_finance"
+    }
+  ],
   "competitor_analysis": {
     "key_phrases": {
       "fund class": 22,
@@ -30,5 +49,96 @@
       "blackrock": "Institutional/macro perspective, iShares ETF focus, global outlook"
     }
   },
-  "all_headlines": []
+  "all_headlines": [
+    {
+      "title": "Thornburg Celebrates the 20th Anniversary of Thornburg Global Opportunities Fund",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaTFtUW9NWHN1RUM5alR6ZWR3cVRKSHI0N1lRNXFocjYxNkJvVU1nSktNYmI4VkxKaER3QzR1R1dBZDNROFlUNUlSM0JLSXI0MHU3cnlzSzRfNzFVQURFTGN1QzdONWtnTHlqSDlERVN3d1l1cjRWRW1XRzllUEgzWmFiWHVRSlprSVRNbi04SUE0OEFNQlh1UjFIbXZlS215WUhlRzZqRmhHcTVXcUQwY01Ja0JlLU1pX3k4bVRmU0tJcmk4aTczbUFqVzFQZm5fNFJZM3lTNG0?oc=5"
+    },
+    {
+      "title": "Where the US Stock Market May Be Heading Next and What to Buy Now",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZDBYRXR4TFFoQzdnQ0ZieFctRk9aNGlGczZuMFNlUm02YTB1ZDhhWDlSM0pRS3JrekVWckZQRnFKcnRGeGl2aFpCVGd6ZldHMkNXTWpHd09UMDVGaUx1d3ZPX2lzWmREOGttM0x4Z3ZFcXN4NnZtd1c5QUdIelQ4d2taWDFQcFRpUktiejlnNG56Qk9jekNTcVBBZks?oc=5"
+    },
+    {
+      "title": "Morningstar Prospects: 6 funds to watch",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2hUR1hTdW1jUXdzQ1llbllqVlFzMmw5STJKTG0tb1ktTzhIcWdmd3FvaU40dlZFR05CM3lhWHNpZVlJWkYybmYxcmJ2SmdyRVVodGlKdkQxQ3E2WmFOSEd5V2lzWW5WQzJOMXNkNnUxaHJTWU1qXzhSb1FqTldka19TMTNTZTRmV0o4?oc=5"
+    },
+    {
+      "title": "Morningstar completes rebrand of CRSP Market Indexes",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlJ5aEpla3JzcUFHZEJLV0V2MGwzeUpXd1ZQemdpRU90ZVhmb1JPWEZtd0VVVkptcm10T0VGeVg3RVE2QjJkOEpBaF82ZktCbHV3UVNDUmEwVDZhU1VBWDlWd1c1dVNBOWV5WmVhNEwzam1ublZmQTFwTEp2czhDYzJGbnN2RzY0Ni1kZnM5VEFzRFIzYTh1cmd4a0tWRzRpZGFVaDZKUk5IRC1WQUY4WXZ3VQ?oc=5"
+    },
+    {
+      "title": "Green Street News Infrastructure Releases Three League Table and Funds & Investor Reports",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZWhyMXZwMzZWTFhqdkhMMUM0R2IwQk1jOVZDTGdNMGtqNlJ1MGVEUGVUV09DQ2xXNEVCanl0VmFPYWROV21CT25WM2hQUElRU2p0Q2toeHdRQnJxSzFSTHlJRnRSWDktemdGN1pPeXd4WTRkQkZMMk9ST2RBSi04T1V3ZThnZUxDRFNXcWVuOWlCc1lwSnd5UTA0T1Nab3lUTERtRlBJbGxHWXRmeE1vMXIxbkphSnpjQ2YtZ0htNUdMT0NJS0VBQURDRlVHVlZuQURhUHJrV1RpRi1MQU5LLXdR?oc=5"
+    },
+    {
+      "title": "Morningstar upgrades $12bn JPM growth fund",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUxVWk1tTUJnTHhkZklOUmU1d29KcFdKRW9tdnAtbUIxU2ZaeVRHZ1o3d1VxVXI3MGRjOS0yTldIM0NjdDFGSXlEUkJpTGwwVElRUjdkaXA5QWVENGc2b0xiWHdrSUNaLWVDelNpNkl1YzZyNGpyUlM2UzJoNzhVYm9LNkZqU2d2b2NJa1VpMA?oc=5"
+    },
+    {
+      "title": "Morningstar (NASDAQ:MORN) Beats Q2 CY2026 Sales Expectations",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkxoU2Q1bnc4dmJUTnd5V0xNeEM0YjJGbFpWQU1ITzMtU3hkUkt5N0RnSW5yOTJyaEVwLUNkUXZfMWExVDYxRDRzWW54dlZMYUxIdzMtMl8xTlBCY2pydXhUZDg3UVo2VVVNWVU5MUI1VmJQU3h1cUJ3ZFRlZVZTMVlkd2ozY0U5bFZXRm5rSlpycDA3Q2JxbXUxY3JfckVqazY0MTJyY1lDengyQ3ZLZzFacjRQbk0?oc=5"
+    },
+    {
+      "title": "Morningstar Completes Rebrand of CRSP Market Indexes to Morningstar Market Indexes",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNnQyWU44M3NaUEFlX0I5ZW9maGw0RXd5Q1JkWFdEMEZmQU1ldy1SNmxiMFZROXBQMEQ2WUpFVndvOUpoa0JFZW1ZQ056bGQ2S01YQnhJblJyZEludG1QUUZ0c2duOVpDX3g1eFd2VFZuazZxZG1CcmJ6RjJvRjdib0xsUXBoUlI5QXk2aTRlRVo5S2JBbXZ2V2dNX080NE1Nc1N0Vl95TFNIUEhPSVJhWmxoYW1wUHBxcUtiblJRYmFWWUwza0Y0UW8tZDNjRUxY?oc=5"
+    },
+    {
+      "title": "7 Best Fidelity Mutual Funds to Buy and Hold",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHFMbVpRMVNmM1JnQzcyMVRmY0FKMTZfbHhkbkM2Q29jUXB3SG5mM0VwUV9BQTdvdXdnZW1WWkhaTE9aVE5kWEJSUDJxM0QzOVZ5UTZxUDdqclZOLWI4UDhyMTc3S05fdjFaeWNNaWZyVWxQd19nMG80dXVpdDMweFBRS3FyZGtFY2hyM3dJNA?oc=5"
+    },
+    {
+      "title": "8 Best Bear Market Stocks to Buy in 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PSDhDNld0bEFfS29QU0xLZVFCUGxmbGN0U0wzeF96RVM3ejJzUGEzZFpPNGJhemFHRkltVDJPTTV0U1pZVGRTWHdEWW5fLTV0UE02UTljZFFPU3Qybng5bWJIa1lHaS1HSzBHOVRJMGdnUQ?oc=5"
+    },
+    {
+      "title": "7 Best Defense ETFs to Buy for 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1NlSjhjb2dra1ZnOXJXeXpvZ1BKc2RJMTNFZ09FT2dOYlpiNHo0MkJHM0lMY0xRX21KZkxRYjFBU0RPNkg2czNNRjh2WExqUzd3ci1SVHZjZWZ2azFlUzhtTE4wanZRWEt0Y1ZBYTRfTHlGN0QwN3dOcnRmRThqeEFyZw?oc=5"
+    },
+    {
+      "title": "SCHD Hits 52-Week High as Dividend ETF Beats S&P 500 by Record Gap This Year",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWFdqNDhucElrNFVha05VNWEtWHJ2dHFGOFFzSDlfMnpoRGVEekFDRnEzV2RUd1NzMVd4Z0FfQ1k5ZVNTN2JudXo2S0VxczJUUEJaUE11bno4ZnhKOHliakg4dU9KdTdYeUQ1NnR1dFBQdkd4Y0N0ODMtVWsxdjdORXB2bHVsdmFwRW9GWkdWYVRkT1hLa2xNV3RsSk1NX0swazNXN1hQOW9ITW5VV3I2V3ZOTmttblVUVGVmd2NZOVVvQQ?oc=5"
+    },
+    {
+      "title": "International funds deliver stellar returns in 1 year, but subscriptions remain shut. Experts suggest alte",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQT0F5WDV1MGUteXpQNzVXb21EVVE5czNwRDNqNkx2c3FGM0hiOXJiZUpNM2d6dWdSZzlFLVhWaTE5TmlESVhaXzJJbkk5N1AzUXFialNBaGhrcUVtd1Q3bERKVjdoRVhscFJYYjcxOUlmWnN2ZmdMVlQ2ZjV5QktuNUxhRTZmVTdIczFQQTc4MTlkYjhtNTVCNW5GU1dmWHBlMWQ1c0JUYWlxejVORXAxUHh5MC10VVU2WlVDWWZlZlQ2YzVkNGpwem0zYkdpdDFaX2ZxTWJjSUFSX25CVi1EbHJORkNDQlQ1Uks0Y0UyQm4tcFB4dEo5dHVKY0Z3c3B1U0pqdTZsQkpMQ3pvVTU40gGPAkFVX3lxTFBPQXlYNXUwZS15elA3NVdvbURVUTlzM3BEM2o2THZzcUYzSGI5cmJlSk0zZ3p1Z1JnOUUtWFZpMTlOaURJWFpfMkluSTk3UDNRcWJqU0FoaGtxRW13VDdsREpWN2hFWGxwUlhiNzE5SWZac3ZmZ0xWVDZmNXlCS241TGFFNmZVN0hzMVBBNzgxOWRiOG01NUI1bkZTV2ZYcGUxZDVzQlRhaXF6NU5FcDFQeHkwLXRVVTZaVUNZZmVmVDZjNWQ0anB6bTNiR2l0MVpfZnFNYmNJQVJfbkJWLURsck5GQ0NCVDVSSzRjRTJCbi1wUHh0Sjl0dUpjRndzcHVTSmp1NmxCSkxDem9VNTg?oc=5"
+    },
+    {
+      "title": "Real Estate's Penthouse View",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCWktUUVcxOHdhNk1Ka0Z0Ymw0UHg4cFE4QldyM1Q5TERWYzBZZlZhakNLSVVWb3ltTEg0aENIOVBGaERLc3ExaXdna3ZJNDlnRXRsQzZuZkJWcHJBdmVwYzlDOUdKcEpGQk1hM0FMTzR6bDYxUkE?oc=5"
+    },
+    {
+      "title": "Best Roth IRA Accounts Of 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81NjhaUVpSRzFpZlJYSGtjcDJjM3YtaERVM1ppYXB3MkRZSzAyanhUSnJQZ0xQZUtuemxORWNSdUZMU25oQ1NocWtYSnc5TmNFZlZKWmN2cGhJTm9RbWNvVnc3RUhZcGc?oc=5"
+    },
+    {
+      "title": "Beat the Market Like Zacks: Monster Beverage, Carpenter Tech, Usio in Focus",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX3FiLTZQWHJjNV9JQ0ZCa1ZvdldJY1ZtRHM2amJoYmNudV9IS3hQYUw2MjZ1a2d6Ulk4VHBEalpIUXdQUENDdEppZEVheTJRZkdyQmhxU2tOUVhHVGJfb2RBNjh2N3ltRWUyNmlGdGJYbVF6QjdvM21LV0NYSzVucVJGbTQyLW5EZlVyQk5Ta1pMdmwtMHZ5V2ZfTU92MTdLMnljVElnUWo4bWpQZVMzdkRpcEdfRWdVZzMzM3pvaFM2d0NVbGFn?oc=5"
+    },
+    {
+      "title": "Why It’s Hard to Invest Your Retirement Sustainably — and How You Can Overcome the Obstacles",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FQ3BHT0Nkcy1teGZlMk5FejJkTTN5YTJ1aXVCMnQ3UklvN1JvRmhWYzRKc0NvUUN4aVp3OU1kNHNYTm9hanRXcWVUaS1ROEQ1RUpoMzY5RlZxT2x2LWhDWmMyQ0RiUQ?oc=5"
+    },
+    {
+      "title": "10 Best Online Brokers & Trading Platforms of July 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12RlVsTndTYVluNXQ0X0x0YllUYXlwZVJvdEpBekxRczVBbnpMTDBVZmk2Zk0yME83UFJlTmlPNW5zLWdzN1ZFMWpWT1cyYTNSeFE4?oc=5"
+    }
+  ]
 }
