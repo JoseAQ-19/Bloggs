@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-29T09:36:33.123676+00:00",
-  "total_candidates": 2,
+  "scouted_at": "2026-07-30T09:28:33.242499+00:00",
+  "total_candidates": 3,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos en España: ¿Cuáles son los 8 más buscados por los inversores y qué rendimiento ofrecen?",
+      "title": "Descubre los 8 fondos españoles más buscados en 2026 y su rendimiento impresionante frente al Ibex 35",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El Ibex 35 y el sorprendente dividendo de Iberdrola: ¿Cómo se compara con otros grandes dividendos del sector?",
+      "title": "Ranking 2026: Los 5 bancos más solventes de España y su análisis financiero revelador",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Análisis de los fondos de inversión en España: ¿Qué estrategias están superando al Ibex 35 en 2023?",
+      "title": "Las mejores cuentas online sin comisiones de julio de 2026: ¿Cuál ofrece el mayor interés?",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -54,9 +54,14 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR0xfWG5iZFVyRmdhamZKb0dPUnh0bXc0X0thYmd4YzJocU0tOGJhVm1UUW1mQ3NyclJidWdycDV0eDNaU2phNFEyOHFSZmd6RXZMRUkybElWNXRoM0VGV0lYcDBLdm9IbDFXX2lQcW5yU0xBRk1VbS1yRTlrV1BnU05PeHNsMWNPQ3ZGRTFuSEFzV0R2eldDSEZRSUR4TG10VGpPdThyVjN5azdlM1dNR3lsVFcxZURMQXlKblNDcG9RQ1BvVG5aaVJ3OVltcl9TZDlQZUF6Tk0wZmNxWG9JRjRKN3U?oc=5"
     },
     {
-      "title": "El Ibex 35 cierra julio con el dividendo de Iberdrola: 0,427 euros brutos por acción",
+      "title": "Los bancos más solventes de España 2026: ranking y análisis completo",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNFdIUEtSV3p5cXp3ZEJ1ZG5kT3VYb0ZaODl3UFZHdlg3TkFpNjRaT2lRMUxIc3BlOUEwVzhvOEl5XzVGczBaZDJuSnRvSW9YWUZnU1ZiR1dzUkxJZlJTblZ2Uk9DTEhES1NiazlHbGZfNWlYMnROUkExOFV4NzVlV3Z3ejlkX2ljNE5NeEQ5S2lmU1lkREtVRnJYZ1RsOHVNdHpNTFpES2RnTUJCbnFPS0lFczFvRzl6RlZuR3RHSV9jVWdVUVk4X0hXdm5LUVhWX0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFRXZWdnRzVoR3ltd2RfTXhVdHd1ZG5JUFJmaHA1bV8zX1otRHBVZFNHN21pOWJaMDB3Xy1xTlQyclMzVGtXX1QwTmV4ajFVX1RYdkRGQnFxUTItbkNMRDBhbEZTbC05WXk3OHFkNDd0dHdCTUh2LWk3aU1uZEFuUVdDNDh0dUwxdVplMmVoLWpnbUdBcS1XRnpFSkgxV05KQm1V?oc=5"
+    },
+    {
+      "title": "Mejores cuentas online sin comisiones de julio de 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOUdXZFltU05fWUtKM1N4akVyTVNZMEJZSWJpZV80ZGR4TjV1ckJFWU5ZSXBqWmtKeVhTNXNKc1pEcXhaM1FyRWhpa0M1cmRlbldfTVdsMmF6ellQc1Aya2JrUmQ5VzQ0di1YOEo0MEhuR240S0ZXOHBqbDRVNTJLVkVLbw?oc=5"
     }
   ]
 }
