@@ -2472,3 +2472,4 @@ funds: 20 Years of Success: Thornburg Global Opportunities Fund Outperforms Peer
 ia: Bruselas impulsa la era de las gigafactorías de IA: siete infraestructuras para 2027
 ia: Wakefern's Bold Move: Launching a Centralized Pharmacy Fulfillment Center with AI
 tools: La IA que revoluciona la detección temprana de demencia: ¿la nueva esperanza para los médicos?
+tools: Breakthrough AI System Speeds Up Tuberculosis Drug Discovery
