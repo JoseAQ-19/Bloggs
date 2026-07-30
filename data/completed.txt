@@ -2473,3 +2473,4 @@ ia: Bruselas impulsa la era de las gigafactorías de IA: siete infraestructuras 
 ia: Wakefern's Bold Move: Launching a Centralized Pharmacy Fulfillment Center with AI
 tools: La IA que revoluciona la detección temprana de demencia: ¿la nueva esperanza para los médicos?
 tools: Breakthrough AI System Speeds Up Tuberculosis Drug Discovery
+crypto: Robinhood reporta su mejor trimestre, pero las ganancias de cripto caen un 38%: ¿qué significa esto para el futuro?
