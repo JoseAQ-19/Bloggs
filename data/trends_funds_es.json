@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-30T09:30:00.540749+00:00",
+  "scouted_at": "2026-07-31T09:42:33.626913+00:00",
   "total_candidates": 4,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos de inversión en España: ¿Cuáles son los 8 más buscados y qué rendimiento ofrecen en 2023?",
+      "title": "Morningstar completa el cambio de marca de los índices CRSP",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Análisis 2025: Ranking de las 20 gestoras de fondos más grandes y su crecimiento patrimonial sorprendente.",
+      "title": "Los proyectos de Fundación José Antonio Llorente beneficiaron a casi 1.300 jóvenes en 2025",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Ranking 2026: ¿Qué bancos en España destacan en solvencia y qué cifras los diferencian del resto?",
+      "title": "Los dividendos se van de vacaciones: solo 1 empresa del Ibex 35 paga en agosto",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -49,24 +49,24 @@
   },
   "all_headlines": [
     {
-      "title": "Más allá del Ibex 35: estos 8 fondos que invierten en España son los más buscados por el inversor",
+      "title": "Morningstar completa el cambio de marca de los índices CRSP",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR0xfWG5iZFVyRmdhamZKb0dPUnh0bXc0X0thYmd4YzJocU0tOGJhVm1UUW1mQ3NyclJidWdycDV0eDNaU2phNFEyOHFSZmd6RXZMRUkybElWNXRoM0VGV0lYcDBLdm9IbDFXX2lQcW5yU0xBRk1VbS1yRTlrV1BnU05PeHNsMWNPQ3ZGRTFuSEFzV0R2eldDSEZRSUR4TG10VGpPdThyVjN5azdlM1dNR3lsVFcxZURMQXlKblNDcG9RQ1BvVG5aaVJ3OVltcl9TZDlQZUF6Tk0wZmNxWG9JRjRKN3U?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTE1IcTlDeDRxZzhsSkdqUU9HNUNLaXlrVHlZcTd2UURVZWNlQm50R3RIUnU1QlNmMGRpZF9fV2oxQ1N1UjhUZm1CMlZseldQdHZPVlRhaDNfeS1ZVWlkZHU3aVhzVF91TWxBRkdyZjZEWkFEdkQ5ZDdpM3psT0J3Ymt3ZXFGaFhGZ2FEOTNzTzd6Y2syNGZzTHpLOW42Ti1BME93U0NhUXhrZ1dNWl9rOElWc0Y0Zw?oc=5"
     },
     {
-      "title": "Ranking de las 20 gestoras de fondos con más patrimonio del mundo en 2025",
+      "title": "Los proyectos de Fundación José Antonio Llorente beneficiaron a casi 1.300 jóvenes en 2025",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbDVtZ3oycjZxdm9SSHpUTzU5RG9RR0RxeVhJV0VIT1NTRGRqYjkwalZ0Q2hjd2xyblhGc1RsTE4ySVdqbG01NkFDd1lVS09MSjZYTFVuT0pFWklIUFBZcWE0bmxPRmlDQk1lOHgxeFNSMlg5YXdzZUpRM01xM21INkdXSmVYQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcEhlMFh5ZThrY21VZ3pYVldqNTRqVDlrY2lCQXdrWlk3Z01PUXhRQ2JEamMwQ1FqVkhZYzYtVEZfaXVrNHRMWjBRb1lLTjEzRkxCVTJOYWhZUHQtZzFJQnRWbS1KWGNIYU1oN3BOSDRjTUtXZGRwSkhmMUk3VkwyZFUyZDZ3dTl4S2FKWmQtMjJjMVFjakRXMXRraUlXcEZaSmNIeU1tdlQ2LVFoSWpZMzRzS1pSN2doYnBSSVRsWlZZRXfSAaIBQVVfeXFMTjRsbGQyZGczSjVMa0RfZVF1dnVQX0hEYjVzZGkzX0htS2w3czNvUEkxZDRWVEs4WVJBNVg0V045cGNrVndRVzU1dFpUUmdFakhUYm1HWkc4ekRzMUVHb3pjU3VDczdMRm44YnFPbUhmZkc0Wk9sUV9vS29JRXhLUUZRWjQxVXFhVzBsNktMUVpEY3o4dVhHbUtRcld5UUo3TWJR?oc=5"
     },
     {
-      "title": "Los bancos más solventes de España 2026: ranking y análisis completo",
+      "title": "Los dividendos se van de vacaciones: solo 1 empresa del Ibex 35 paga en agosto",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWFRXZWdnRzVoR3ltd2RfTXhVdHd1ZG5JUFJmaHA1bV8zX1otRHBVZFNHN21pOWJaMDB3Xy1xTlQyclMzVGtXX1QwTmV4ajFVX1RYdkRGQnFxUTItbkNMRDBhbEZTbC05WXk3OHFkNDd0dHdCTUh2LWk3aU1uZEFuUVdDNDh0dUwxdVplMmVoLWpnbUdBcS1XRnpFSkgxV05KQm1V?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSDJDbGhaRUhPd0lEcVRHcUU2YXZ1NE05UU1fRGJMU3JxLTdGY3Z1YUJ0bFV4N3ZYMDJocGwtYV8wY2JiS0dEWnFISHhVMnE0Vk0yOUE4Mk9kOFNaZzlZQS0yMDQ1QUY4dU1FdHhTUnpubjgwT0xQOGhfcmQ1VDBIaldJSDJxMHB5SDFpME83ODVKUDFHMHM0d09xQkpEcWVSYnBvc3lObjNSS1U4bWVWNlZabmRhaXBMa0gwWEg3YnVJWmFtTENCZHUySQ?oc=5"
     },
     {
-      "title": "Mejores cuentas online sin comisiones de julio de 2026",
+      "title": "Grupo Dia cierra primer semestre con beneficio neto de 22,8 millones de euros",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOUdXZFltU05fWUtKM1N4akVyTVNZMEJZSWJpZV80ZGR4TjV1ckJFWU5ZSXBqWmtKeVhTNXNKc1pEcXhaM1FyRWhpa0M1cmRlbldfTVdsMmF6ellQc1Aya2JrUmQ5VzQ0di1YOEo0MEhuR240S0ZXOHBqbDRVNTJLVkVLbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaUdqQ0U2MUhPVkVZRTd5QVlmQkNWV2ZOUERHQ2VYVDZ2a2FOZWFaM0tlaHJjbVFVUVg2REtDN2dkQlAtaTdOVXFHeFRON2ZhZ1lQcXJWSVpoX3BueFBnMTc2OEgtajNzWXc0LUtpaFFaYmh2T2x4bkg3eTdsYU05ZXljc2h5aGM4M2E1TlhqbEt3blRRUl9pOGI0M1lUcm1aMWVCRDl0M2F3enpPWFk4VlZvVnBTX1hMbjlfYnV0V1lEc19zMnfSAZ8BQVVfeXFMTWVydVlFbEs0M2ZnbzF6dkFITC1xdWZ3d2ZDZVg1NjB3dHkySFNrX3I0cW1DdDRQbW9mYkN6R1FxdU1GWlZYQWU3UHJuNjAybDk1S0JFU1lwbmY5cE5xM1RwaGJMS05MNlFNSUMzbkVuTWF6QlhXdWJ3SXUtVjVfUW9HSl9zVXktQXBSQ3FWa0xfOU1QaEdaVGpvcHN3dmNJ?oc=5"
     }
   ]
 }
