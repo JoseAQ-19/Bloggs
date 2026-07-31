@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-07-30T10:38:05.876222+00:00",
-  "total_candidates": 18,
+  "scouted_at": "2026-07-31T09:46:24.289926+00:00",
+  "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "Thornburg Celebrates the 20th Anniversary of Thornburg Global Opportunities Fund",
+      "title": "Rosen Law Firm Encourages BlackRock, Inc. Mutual Fund Investors to Inquire About Securities Class Action Investigation",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Where the US Stock Market May Be Heading Next and What to Buy Now",
+      "title": "Morningstar puts Voya mid-cap fund under review after PM team removed",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar Prospects: 6 funds to watch",
+      "title": "Meitav Investment House Announces Immediate Report Concerning Selected Business Data for June 2026",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -28,18 +28,18 @@
       "fund class": 22,
       "full list": 20,
       "index fund": 7,
+      "view full": 5,
       "emerging markets": 4,
       "fund institutional": 4,
-      "view full": 4,
       "class aallspring": 4,
       "small cap": 4,
       "etfalps shares": 4,
-      "lview full": 3,
       "markets china": 3,
       "china fund": 3,
       "funds growth": 3,
       "growth portfolio": 3,
-      "portfolio class": 3
+      "portfolio class": 3,
+      "convertible securities": 3
     },
     "competitors_with_disclaimers": 0,
     "sample_styles": {
@@ -51,14 +51,24 @@
   },
   "all_headlines": [
     {
-      "title": "Thornburg Celebrates the 20th Anniversary of Thornburg Global Opportunities Fund",
+      "title": "Rosen Law Firm Encourages BlackRock, Inc. Mutual Fund Investors to Inquire About Securities Class Action Investigation",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaTFtUW9NWHN1RUM5alR6ZWR3cVRKSHI0N1lRNXFocjYxNkJvVU1nSktNYmI4VkxKaER3QzR1R1dBZDNROFlUNUlSM0JLSXI0MHU3cnlzSzRfNzFVQURFTGN1QzdONWtnTHlqSDlERVN3d1l1cjRWRW1XRzllUEgzWmFiWHVRSlprSVRNbi04SUE0OEFNQlh1UjFIbXZlS215WUhlRzZqRmhHcTVXcUQwY01Ja0JlLU1pX3k4bVRmU0tJcmk4aTczbUFqVzFQZm5fNFJZM3lTNG0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZ2Z2Q2tTVndVT0dOY3g4ODg3SGV0elFER3lrUGZnWjJwbFRfdFVtbXlfcE51aTVuUkdXMnlqRFhQeFNwclVyOHRHSUVDQjlPbm14YnpjdHZvdE9KbDVFZjBpRktXWHZ1TW9VZ1d5SnhHdmFtVFQ1YzJOWlBIbm1Od1lwS1k4WWg3ZVFRdGFHQWRRb2FSLTVqSkhTd2xsbmttX2lEZ3pfVDRmdW4wY1V0SUxlM211S0lhejFOZE5CTmhJN2UwZ21zWEpuWm91dl92Y0M3eDNBZDBsemNYV1RYMTk1ZVQxU0M4R1Q5UGR1Z3RqelBBWjVJSFFEcUdHeTB5YktTU3Z3YUk?oc=5"
     },
     {
-      "title": "Where the US Stock Market May Be Heading Next and What to Buy Now",
+      "title": "Morningstar puts Voya mid-cap fund under review after PM team removed",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZDBYRXR4TFFoQzdnQ0ZieFctRk9aNGlGczZuMFNlUm02YTB1ZDhhWDlSM0pRS3JrekVWckZQRnFKcnRGeGl2aFpCVGd6ZldHMkNXTWpHd09UMDVGaUx1d3ZPX2lzWmREOGttM0x4Z3ZFcXN4NnZtd1c5QUdIelQ4d2taWDFQcFRpUktiejlnNG56Qk9jekNTcVBBZks?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaU5YNU96bWtkbV9IelJZc0dnY2ZaZ29adTdKcnNycEV3RDl1b3dLQ0JXQmVEOVh5OUU4V21ybzVCOUhPZXlCdEhlcGlFSGZndFRONS1LcTZiX3pGb0l2d1lia2Zuc3dBM3Q5TEtmaDdRTEY0WVN4VVdzeFBjTUdwdTZpejVwc1gwNHZCa3ZwN1FRNDFGdnZfaDh1YTc3NHpFM001dWRCVnVqUExoUnZUTUNwT1E?oc=5"
+    },
+    {
+      "title": "Meitav Investment House Announces Immediate Report Concerning Selected Business Data for June 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUHAtWlNsY1dPZm80Y1lMdEVZMkQyUm9COUZsVWg0R3VibnRaTm9odFBBV29NdXJDRF9TY0ZIT0Z0dzdiNGR3ZGVNdmthSWp1eDFyWUctaGtWczVKaDBsOEJtajJOeTBKRW9FT2IzdWhmdE1vUkR1SHI5d3FWZ1pkQzJERmNVNUl6VDlpM0JHM1dtV3lKOWxwRzdmSGY0aDc4VWIyY0JhTXJRQjRZWkkxTmQzcHctdFdkZ09ZSFpZNFhyeXlaeXVsdk01VE1uRjRzeWY2X29BWlJtQ2JNam4yTGtZRkVOYUM0eWhRMjhBY0Y?oc=5"
+    },
+    {
+      "title": "Conestoga Capital Advisors Reopens Small Cap Fund Following Capacity Review",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdm1iQ0NzUXo2MGkta19QMGg0NFg0NzhuVEp1emxvaEtOLXN5YURIQ0dSREl0bVFmUmZyZWptVDktcmt4UmFfQ3pIOGdadEY1bllHVjZ5cE1LYXJmMmRnVEI4TVNfeFM5bDlVeXlRZGZkUHhOZHZGU1BkMkRocjVtckd5cFRGZTVCSFdLMmJtY0RBamhFUGJCbWRYRklaZFRfNW5jdzA2djdzdG51cmRidVFPOWM2RmJRNDZaUmpNd0swMWpLVEs0TEdqRVFZQlJPYXc?oc=5"
     },
     {
       "title": "Morningstar Prospects: 6 funds to watch",
@@ -66,39 +76,34 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2hUR1hTdW1jUXdzQ1llbllqVlFzMmw5STJKTG0tb1ktTzhIcWdmd3FvaU40dlZFR05CM3lhWHNpZVlJWkYybmYxcmJ2SmdyRVVodGlKdkQxQ3E2WmFOSEd5V2lzWW5WQzJOMXNkNnUxaHJTWU1qXzhSb1FqTldka19TMTNTZTRmV0o4?oc=5"
     },
     {
-      "title": "Morningstar completes rebrand of CRSP Market Indexes",
+      "title": "Morningstar upgrades $3bn AllianceBernstein large cap ETF",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlJ5aEpla3JzcUFHZEJLV0V2MGwzeUpXd1ZQemdpRU90ZVhmb1JPWEZtd0VVVkptcm10T0VGeVg3RVE2QjJkOEpBaF82ZktCbHV3UVNDUmEwVDZhU1VBWDlWd1c1dVNBOWV5WmVhNEwzam1ublZmQTFwTEp2czhDYzJGbnN2RzY0Ni1kZnM5VEFzRFIzYTh1cmd4a0tWRzRpZGFVaDZKUk5IRC1WQUY4WXZ3VQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWTZvZEhUaVBQdFpOdXBSMUFnWXZzZS05VDlLQnhrQVJVN1J2VlhwT2ZxLUxGdnJ5YVBmTDFEVjNQNGJ3R0RTZ0I3Z3lXTzNKdlQ2c09sLW12Y1gzd1lEandpY2VjWXQ3czRrLVhCM2FhNlpsc0hodkpxTmMtMElfNlhZWlJsNEVaUGRqVkN6cllQTzFTdG9sbUJhdw?oc=5"
     },
     {
-      "title": "Green Street News Infrastructure Releases Three League Table and Funds & Investor Reports",
+      "title": "7 Best Vanguard Funds to Buy and Hold",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZWhyMXZwMzZWTFhqdkhMMUM0R2IwQk1jOVZDTGdNMGtqNlJ1MGVEUGVUV09DQ2xXNEVCanl0VmFPYWROV21CT25WM2hQUElRU2p0Q2toeHdRQnJxSzFSTHlJRnRSWDktemdGN1pPeXd4WTRkQkZMMk9ST2RBSi04T1V3ZThnZUxDRFNXcWVuOWlCc1lwSnd5UTA0T1Nab3lUTERtRlBJbGxHWXRmeE1vMXIxbkphSnpjQ2YtZ0htNUdMT0NJS0VBQURDRlVHVlZuQURhUHJrV1RpRi1MQU5LLXdR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXhDZzM1bXZWSG83czJmWDk0T1RBTEh1QnJRbkExR1ktX0VwbnJVbzNnN3ZWU19EbXZnS19GaElHS3lKa21lSTI4SS1LWl9feGpuN0t1WEExWTJpSkpya3VGcHd0N2ZRMEZuZTBZVXk1eXlfS2piUDdxRFZOSXpHQ05oekg3dw?oc=5"
     },
     {
-      "title": "Morningstar upgrades $12bn JPM growth fund",
+      "title": "TQQQ: What a $10,000 Bet on This 3X Nasdaq ETF Would Actually Be Worth Today",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUxVWk1tTUJnTHhkZklOUmU1d29KcFdKRW9tdnAtbUIxU2ZaeVRHZ1o3d1VxVXI3MGRjOS0yTldIM0NjdDFGSXlEUkJpTGwwVElRUjdkaXA5QWVENGc2b0xiWHdrSUNaLWVDelNpNkl1YzZyNGpyUlM2UzJoNzhVYm9LNkZqU2d2b2NJa1VpMA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU3FSclhXVGZkR0pQdWNqUE1Bb0pPZ2hXYm1HdmhObjh2c0NoSVZaTGtxQ3RXeHQzR1lJeHFNaTVUNUtOR3dHY1hhbGtsZm5NeEJqeng0SzJ3dDdOMmFHTFktSWNOejZCdXdmV1pac0xIa0JCV21UNzFSNXg1QXJCam94QUpUMTRTekZIdnNUTUpKbE9CNkJJSWZjU1dvQkVyWmtsbmpwQlNDUGJvOWVDMlBPakpEYVhCRW1jR0d3?oc=5"
     },
     {
-      "title": "Morningstar (NASDAQ:MORN) Beats Q2 CY2026 Sales Expectations",
+      "title": "POWR: A Primer On The iShares U.S. Power Infrastructure ETF",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkxoU2Q1bnc4dmJUTnd5V0xNeEM0YjJGbFpWQU1ITzMtU3hkUkt5N0RnSW5yOTJyaEVwLUNkUXZfMWExVDYxRDRzWW54dlZMYUxIdzMtMl8xTlBCY2pydXhUZDg3UVo2VVVNWVU5MUI1VmJQU3h1cUJ3ZFRlZVZTMVlkd2ozY0U5bFZXRm5rSlpycDA3Q2JxbXUxY3JfckVqazY0MTJyY1lDengyQ3ZLZzFacjRQbk0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3B4ZER1aElkcUhFcVhNZTdaR04wXzJ1LUd4RDRaTVRqRnV5N2tFelF4bmRrdTY0bEhjeW5pSXlTSGxqUXE5SHg3VlhaSVpuSEhFekJJRl9QTm5FVlNVejh6WXBsSkFDd1JPRDFxN0VKXzY2OWhYY3hEWVRWSi1QZWxZb2JXeWxNVjhneTktb0tMVUxVNUE?oc=5"
     },
     {
-      "title": "Morningstar Completes Rebrand of CRSP Market Indexes to Morningstar Market Indexes",
+      "title": "Goldman Sachs Launches AlphaAI to Profit From AI Winners Hidden Inside Sectors",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNnQyWU44M3NaUEFlX0I5ZW9maGw0RXd5Q1JkWFdEMEZmQU1ldy1SNmxiMFZROXBQMEQ2WUpFVndvOUpoa0JFZW1ZQ056bGQ2S01YQnhJblJyZEludG1QUUZ0c2duOVpDX3g1eFd2VFZuazZxZG1CcmJ6RjJvRjdib0xsUXBoUlI5QXk2aTRlRVo5S2JBbXZ2V2dNX080NE1Nc1N0Vl95TFNIUEhPSVJhWmxoYW1wUHBxcUtiblJRYmFWWUwza0Y0UW8tZDNjRUxY?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGstb2pXWVJ5YXZRcG1na0pSRWhZYXRQM2tHSDRsWmN5dVRwaG5wbU1MSGtYcDB0NzlfZ05ZbHAtbF9hREVKY0ZGY0NLb0l0cjJWT1JMOEdQUXlpQlVjcjcyd0czLTU0aGR0Uk1GcDJ6VUtySDBNeE8xV29mX3RZR2ZyR1J6Q0RMWTBGaXNTUTNWRDkxTmE2aFAwVC0xOW1uS0V3aUk3NWY1ZUlwb0Y2YXppSktYOGxLY1JEU3BaNWFENHc?oc=5"
     },
     {
-      "title": "7 Best Fidelity Mutual Funds to Buy and Hold",
+      "title": "Technology sector funds dominate July returns; 9 mutual funds deliver over 10% gains. Should investors rid",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHFMbVpRMVNmM1JnQzcyMVRmY0FKMTZfbHhkbkM2Q29jUXB3SG5mM0VwUV9BQTdvdXdnZW1WWkhaTE9aVE5kWEJSUDJxM0QzOVZ5UTZxUDdqclZOLWI4UDhyMTc3S05fdjFaeWNNaWZyVWxQd19nMG80dXVpdDMweFBRS3FyZGtFY2hyM3dJNA?oc=5"
-    },
-    {
-      "title": "8 Best Bear Market Stocks to Buy in 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PSDhDNld0bEFfS29QU0xLZVFCUGxmbGN0U0wzeF96RVM3ejJzUGEzZFpPNGJhemFHRkltVDJPTTV0U1pZVGRTWHdEWW5fLTV0UE02UTljZFFPU3Qybng5bWJIa1lHaS1HSzBHOVRJMGdnUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNUlpjTWhFNk1ySlpRN19hVEpJZFFCQUN0eG4wZW44ekFhQVdBOE5GTUtTQnEyX1p6cXUtdjg5UXRaU1g3clp6X1hYdFBwZWdnNlV6VFJzcXItUUhKdzVMVmRYUTZmWnVodmpZaFZGLWlPczk5MFRhOWUwQ2F0ODA0Q1BCMDAtaWJQWHVuSjVaeXFNaWlpdlNRWWwyUE9YeG1qeklHNTBDT2t2UUJxZkZwSm5JeUhZLVVTOE1mVE1ZaFZBR09TOC1HWC1kRjRwZ0JEU1gxNWc1a0tjc1ByWVpZbzNpWGc1dkprNEgtbGhFemI5QmI1cXFESVRBcFhTSExoRGRyZTFaM3hIaGdNQlIteFZB0gGSAkFVX3lxTE1SWmNNaEU2TXJKWlE3X2FUSklkUUJBQ3R4bjBlbjh6QWFBV0E4TkZNS1NCcTJfWnpxdS12ODlRdFpTWDdyWnpfWFh0UHBlZ2c2VXpUUnNxci1RSEp3NUxWZFhRNmZadWh2alloVkYtaU9zOTkwVGE5ZTBDYXQ4MDRDUEIwMC1pYlBYdW5KNVp5cU1paWl2U1FZbDJQT1h4bWp6SUc1MENPa3ZRQnFmRnBKbkl5SFktVVM4TWZUTVloVkFHT1M4LUdYLWRGNHBnQkRTWDE1ZzVrS2NzUHJZWllvM2lYZzV2Sms0SC1saEV6YjlCYjVxcURJVEFwWFNITGhEZHJlMVozeEhoZ01CUi14VkE?oc=5"
     },
     {
       "title": "7 Best Defense ETFs to Buy for 2026",
@@ -106,34 +111,14 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1NlSjhjb2dra1ZnOXJXeXpvZ1BKc2RJMTNFZ09FT2dOYlpiNHo0MkJHM0lMY0xRX21KZkxRYjFBU0RPNkg2czNNRjh2WExqUzd3ci1SVHZjZWZ2azFlUzhtTE4wanZRWEt0Y1ZBYTRfTHlGN0QwN3dOcnRmRThqeEFyZw?oc=5"
     },
     {
-      "title": "SCHD Hits 52-Week High as Dividend ETF Beats S&P 500 by Record Gap This Year",
+      "title": "8 Best Bear Market Stocks to Buy in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWFdqNDhucElrNFVha05VNWEtWHJ2dHFGOFFzSDlfMnpoRGVEekFDRnEzV2RUd1NzMVd4Z0FfQ1k5ZVNTN2JudXo2S0VxczJUUEJaUE11bno4ZnhKOHliakg4dU9KdTdYeUQ1NnR1dFBQdkd4Y0N0ODMtVWsxdjdORXB2bHVsdmFwRW9GWkdWYVRkT1hLa2xNV3RsSk1NX0swazNXN1hQOW9ITW5VV3I2V3ZOTmttblVUVGVmd2NZOVVvQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PSDhDNld0bEFfS29QU0xLZVFCUGxmbGN0U0wzeF96RVM3ejJzUGEzZFpPNGJhemFHRkltVDJPTTV0U1pZVGRTWHdEWW5fLTV0UE02UTljZFFPU3Qybng5bWJIa1lHaS1HSzBHOVRJMGdnUQ?oc=5"
     },
     {
-      "title": "International funds deliver stellar returns in 1 year, but subscriptions remain shut. Experts suggest alte",
+      "title": "Top 30 Stocks for New Investors in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQT0F5WDV1MGUteXpQNzVXb21EVVE5czNwRDNqNkx2c3FGM0hiOXJiZUpNM2d6dWdSZzlFLVhWaTE5TmlESVhaXzJJbkk5N1AzUXFialNBaGhrcUVtd1Q3bERKVjdoRVhscFJYYjcxOUlmWnN2ZmdMVlQ2ZjV5QktuNUxhRTZmVTdIczFQQTc4MTlkYjhtNTVCNW5GU1dmWHBlMWQ1c0JUYWlxejVORXAxUHh5MC10VVU2WlVDWWZlZlQ2YzVkNGpwem0zYkdpdDFaX2ZxTWJjSUFSX25CVi1EbHJORkNDQlQ1Uks0Y0UyQm4tcFB4dEo5dHVKY0Z3c3B1U0pqdTZsQkpMQ3pvVTU40gGPAkFVX3lxTFBPQXlYNXUwZS15elA3NVdvbURVUTlzM3BEM2o2THZzcUYzSGI5cmJlSk0zZ3p1Z1JnOUUtWFZpMTlOaURJWFpfMkluSTk3UDNRcWJqU0FoaGtxRW13VDdsREpWN2hFWGxwUlhiNzE5SWZac3ZmZ0xWVDZmNXlCS241TGFFNmZVN0hzMVBBNzgxOWRiOG01NUI1bkZTV2ZYcGUxZDVzQlRhaXF6NU5FcDFQeHkwLXRVVTZaVUNZZmVmVDZjNWQ0anB6bTNiR2l0MVpfZnFNYmNJQVJfbkJWLURsck5GQ0NCVDVSSzRjRTJCbi1wUHh0Sjl0dUpjRndzcHVTSmp1NmxCSkxDem9VNTg?oc=5"
-    },
-    {
-      "title": "Real Estate's Penthouse View",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCWktUUVcxOHdhNk1Ka0Z0Ymw0UHg4cFE4QldyM1Q5TERWYzBZZlZhakNLSVVWb3ltTEg0aENIOVBGaERLc3ExaXdna3ZJNDlnRXRsQzZuZkJWcHJBdmVwYzlDOUdKcEpGQk1hM0FMTzR6bDYxUkE?oc=5"
-    },
-    {
-      "title": "Best Roth IRA Accounts Of 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81NjhaUVpSRzFpZlJYSGtjcDJjM3YtaERVM1ppYXB3MkRZSzAyanhUSnJQZ0xQZUtuemxORWNSdUZMU25oQ1NocWtYSnc5TmNFZlZKWmN2cGhJTm9RbWNvVnc3RUhZcGc?oc=5"
-    },
-    {
-      "title": "Beat the Market Like Zacks: Monster Beverage, Carpenter Tech, Usio in Focus",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX3FiLTZQWHJjNV9JQ0ZCa1ZvdldJY1ZtRHM2amJoYmNudV9IS3hQYUw2MjZ1a2d6Ulk4VHBEalpIUXdQUENDdEppZEVheTJRZkdyQmhxU2tOUVhHVGJfb2RBNjh2N3ltRWUyNmlGdGJYbVF6QjdvM21LV0NYSzVucVJGbTQyLW5EZlVyQk5Ta1pMdmwtMHZ5V2ZfTU92MTdLMnljVElnUWo4bWpQZVMzdkRpcEdfRWdVZzMzM3pvaFM2d0NVbGFn?oc=5"
-    },
-    {
-      "title": "Why It’s Hard to Invest Your Retirement Sustainably — and How You Can Overcome the Obstacles",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FQ3BHT0Nkcy1teGZlMk5FejJkTTN5YTJ1aXVCMnQ3UklvN1JvRmhWYzRKc0NvUUN4aVp3OU1kNHNYTm9hanRXcWVUaS1ROEQ1RUpoMzY5RlZxT2x2LWhDWmMyQ0RiUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdXc3YnppbkVRc1M2ZmotTUFZcFQtNzg5WGt5aW1NYW1MSURkaXVRRlZCbWZMUnJpX2FCLWlWOXBTV09CRngtVHRHcGR3LW5HNHg2SWV5d1pZenFlQmZkdmxhVTE3eWJIcllWaUNUVWVhaEtodllzMV9wczhTODRkRS1LaDdKaWo0aFJReklvX0RZaUE?oc=5"
     },
     {
       "title": "10 Best Online Brokers & Trading Platforms of July 2026",
