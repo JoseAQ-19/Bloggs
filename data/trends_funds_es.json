@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-31T09:42:33.626913+00:00",
+  "scouted_at": "2026-07-31T09:44:12.787485+00:00",
   "total_candidates": 4,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar completa el cambio de marca de los índices CRSP",
+      "title": "¿Qué pasa con los dividendos en agosto: solo 1 empresa del Ibex 35 paga, un 90% menos que el año anterior",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Los proyectos de Fundación José Antonio Llorente beneficiaron a casi 1.300 jóvenes en 2025",
+      "title": "Grupo Dia supera expectativas: logra un beneficio neto de 22,8 millones de euros en el primer semestre",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Los dividendos se van de vacaciones: solo 1 empresa del Ibex 35 paga en agosto",
+      "title": "Morningstar completa el cambio de marca de los índices CRSP: ¿cómo afectará a los fondos indexados en España",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
