@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-07-31T09:44:12.787485+00:00",
-  "total_candidates": 4,
+  "scouted_at": "2026-08-01T09:03:41.727536+00:00",
+  "total_candidates": 8,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Qué pasa con los dividendos en agosto: solo 1 empresa del Ibex 35 paga, un 90% menos que el año anterior",
+      "title": "VanEck lanza un ETF de dividendos que excluye a EEUU por la incertidumbre",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Grupo Dia supera expectativas: logra un beneficio neto de 22,8 millones de euros en el primer semestre",
+      "title": "Invertir en Renta Fija: situación actual y perspectivas",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Morningstar completa el cambio de marca de los índices CRSP: ¿cómo afectará a los fondos indexados en España",
+      "title": "Grupo Dia cierra primer semestre con beneficio neto de 22,8 millones de euros",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -49,24 +49,44 @@
   },
   "all_headlines": [
     {
-      "title": "Morningstar completa el cambio de marca de los índices CRSP",
+      "title": "VanEck lanza un ETF de dividendos que excluye a EEUU por la incertidumbre",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTE1IcTlDeDRxZzhsSkdqUU9HNUNLaXlrVHlZcTd2UURVZWNlQm50R3RIUnU1QlNmMGRpZF9fV2oxQ1N1UjhUZm1CMlZseldQdHZPVlRhaDNfeS1ZVWlkZHU3aVhzVF91TWxBRkdyZjZEWkFEdkQ5ZDdpM3psT0J3Ymt3ZXFGaFhGZ2FEOTNzTzd6Y2syNGZzTHpLOW42Ti1BME93U0NhUXhrZ1dNWl9rOElWc0Y0Zw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc3ZlWk4zM3ctanZUaHVPa1ZITy1NUnU2QUcwektHbWlEUWtUYnV0N1Y1a3ZfRHhVSjZVQWU2ZFpBYWVfRVliNnVHZHZ6TElURE1MaXNsY2ZzWVVVRU9oWi1oTVYtVUpMWFhkUjFILVlCUG1LOUxQMHJqUkhIREZiNF9WSWo5UGFKSjlIeVBucnhqaGEyMjFCcEJlMWEzbWZRTm9jaVhQZG96MGFnNzJUWWM5SE1tcVVWS0FxOG1tUDlib3M1Wnk4?oc=5"
     },
     {
-      "title": "Los proyectos de Fundación José Antonio Llorente beneficiaron a casi 1.300 jóvenes en 2025",
+      "title": "Invertir en Renta Fija: situación actual y perspectivas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcEhlMFh5ZThrY21VZ3pYVldqNTRqVDlrY2lCQXdrWlk3Z01PUXhRQ2JEamMwQ1FqVkhZYzYtVEZfaXVrNHRMWjBRb1lLTjEzRkxCVTJOYWhZUHQtZzFJQnRWbS1KWGNIYU1oN3BOSDRjTUtXZGRwSkhmMUk3VkwyZFUyZDZ3dTl4S2FKWmQtMjJjMVFjakRXMXRraUlXcEZaSmNIeU1tdlQ2LVFoSWpZMzRzS1pSN2doYnBSSVRsWlZZRXfSAaIBQVVfeXFMTjRsbGQyZGczSjVMa0RfZVF1dnVQX0hEYjVzZGkzX0htS2w3czNvUEkxZDRWVEs4WVJBNVg0V045cGNrVndRVzU1dFpUUmdFakhUYm1HWkc4ekRzMUVHb3pjU3VDczdMRm44YnFPbUhmZkc0Wk9sUV9vS29JRXhLUUZRWjQxVXFhVzBsNktMUVpEY3o4dVhHbUtRcld5UUo3TWJR?oc=5"
-    },
-    {
-      "title": "Los dividendos se van de vacaciones: solo 1 empresa del Ibex 35 paga en agosto",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSDJDbGhaRUhPd0lEcVRHcUU2YXZ1NE05UU1fRGJMU3JxLTdGY3Z1YUJ0bFV4N3ZYMDJocGwtYV8wY2JiS0dEWnFISHhVMnE0Vk0yOUE4Mk9kOFNaZzlZQS0yMDQ1QUY4dU1FdHhTUnpubjgwT0xQOGhfcmQ1VDBIaldJSDJxMHB5SDFpME83ODVKUDFHMHM0d09xQkpEcWVSYnBvc3lObjNSS1U4bWVWNlZabmRhaXBMa0gwWEg3YnVJWmFtTENCZHUySQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
     },
     {
       "title": "Grupo Dia cierra primer semestre con beneficio neto de 22,8 millones de euros",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaUdqQ0U2MUhPVkVZRTd5QVlmQkNWV2ZOUERHQ2VYVDZ2a2FOZWFaM0tlaHJjbVFVUVg2REtDN2dkQlAtaTdOVXFHeFRON2ZhZ1lQcXJWSVpoX3BueFBnMTc2OEgtajNzWXc0LUtpaFFaYmh2T2x4bkg3eTdsYU05ZXljc2h5aGM4M2E1TlhqbEt3blRRUl9pOGI0M1lUcm1aMWVCRDl0M2F3enpPWFk4VlZvVnBTX1hMbjlfYnV0V1lEc19zMnfSAZ8BQVVfeXFMTWVydVlFbEs0M2ZnbzF6dkFITC1xdWZ3d2ZDZVg1NjB3dHkySFNrX3I0cW1DdDRQbW9mYkN6R1FxdU1GWlZYQWU3UHJuNjAybDk1S0JFU1lwbmY5cE5xM1RwaGJMS05MNlFNSUMzbkVuTWF6QlhXdWJ3SXUtVjVfUW9HSl9zVXktQXBSQ3FWa0xfOU1QaEdaVGpvcHN3dmNJ?oc=5"
+    },
+    {
+      "title": "Mejores ETFs y ETCs de Cobre para 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PTGk3YU1FZ1VfYXVjQWhvWE9IVVlZSnJicUFKc1JTblRublotSlU5cmtfYVpzVFZqSHZwcEUzb0RxQzZIQmxHZVlmWl9IY3dFeVNNUDlXTGVQTFRPbmNvc2xVRFdaRjdKSmxlTWRYTDd0aGF0SFRtdTZhcHRqQQ?oc=5"
+    },
+    {
+      "title": "Los mejores dividendos del Ibex 35 en este momento",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaEw0TnNvZEYxTlZrOURuV0VjeVlPSTZNeUEwU3BLT3d6RU05eUpsY0pDQTZSd3BwbmtQQnJpcGlNdThQai01bTQwZzhXRHcyalMyNFRyWXBYenZaLVRSQ3JleW1QRHRHejh2UWY0UUYxYVRqS2RMWHRwTzlmbDM3MXV0ODVwc19haUlpSVB4MkwwMmItbkJrWkVLTXRNT3VtMllwU05zNV9UQWIzaF9yS3Z5d0lXMTdjekVJMdIBpAFBVV95cUxNM0Y1aHd1aEdmSG5WV2N6Ni1ncFpWNm0zTjdtQVd2cjVtSE1rdmROT1BXRmlLREEtcngwRk1ZRDc0S25yZXFzaFlXZ1lOZ0V1OFdoTnFqYng4Z19Wb1JOMlJhN3d5eWxHWHRIV21nWm9UZF9YUU05czlack84Nzc5dWhqTzV1NXFBbVBhSzh4bWRZa3hQeFFOeXRxb0dySVFpRmhJNw?oc=5"
+    },
+    {
+      "title": "Mejores ETFs sector salud 2026: opciones defensivas y rentables",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqZ2dlc3pubTlxLXY5dkpPeG8wWnFVVUdDOXFMejZ6cUNMeVdmTThkc3dGRllsLWJFeDBTZGZyOEVnWWQwWkk5UmVDWlpqRU1lQkgyQ21ISU1ESld2dm5DSlQxdExoMTBDQWloN0FJQ0xNOWM?oc=5"
+    },
+    {
+      "title": "Mejor plan de pensiones para autónomos en 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnlNbFN0U05xT1dIdU55elA5NjJYOE1fNUNadHVxUnhmRDdMS0Z1VmdfcXB3MVJIUEJWaDJZLW1yRXpaVWRuRGdRNHlUU0tONG9tT00xd0c4RnpEbEpIVXRYUjRndzY2Nk1iSGlyWWY2NTVQN1FfY0pRSmVCQnpWb0tMNFg3eVFsT0h3SXpNUThHSWNPWFJFQzZ1LUUxcW5adFM2WEZZbmU5ME5ueDQ1QkR0RE9Jcm1XTndxMVhR0gGaAUFVX3lxTE1xSVpwS3NKTlhONnN5MzgzajlOWjNDdl83YUpfVHhEYXlmVVY2TWZFWXhQLWRKY3MxRmlkejZGZHAxb21XdXAtdHhtOHV3QmhyZTBfNE1hcEJySm1zeU1PRlZtOG9zWmNMc01tQU1GUmRUX3Mzbjg3TEtaTVRGd2syclRYZi1NZF9JekVZaDlOM0NfSnAtS0lJTWc?oc=5"
+    },
+    {
+      "title": "Los bróker esperan que las acciones de BBVA y Santander suban un 30%",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTU5tYTFsZmRFeWFzaFNEVlZDM2JwMTdjdEJWVXNJSEVVdEw4MzdVdHRqVjlTWWtqblN0dzNUb3lPT2xDd1ZyWDlVYkpTN3pLc3JPVVJtbHlaQkljRWRwV1AwNktlR1lhd0tGeWdyaWoyNlluWk9EY2NrSFFiMXFncDRDWWo2LVFOdVQtWWNveDZ1THRSYkQ0eTlzNjlZaG1ibFdFWldPSU1nWWlqRmNSTGdFczFLR0lMVDdEbHpnaVZzdWRQOE1rR3UyeTBNaDBkSFFCVFAwZ3hBbGdicXRrVUFvWdIBngFBVV95cUxNcFhTaXZ0U0VOa3AwY1EzdUZobGRjMTNLLXB6NExab1VZbzRkZDNSVm5RMklmYmN0MnBldVdjRHc5dEhkWWluWVBpX3Nla0laZUpfbWktVmRFa2ZNWmdzRTJrNkNUQlVNemZnNnVfYWdySTVDVkNVRFB1T1YxMGNtUzB6cEt3MGs0M2piOW9FVlNTUkJBVWFJaUtiazg5dw?oc=5"
     }
   ]
 }
