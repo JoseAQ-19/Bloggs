@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-08-01T09:07:39.195299+00:00",
-  "total_candidates": 14,
+  "scouted_at": "2026-08-01T09:09:05.082761+00:00",
+  "total_candidates": 15,
   "topics": [
     {
       "rank": 1,
-      "title": "Rosen Law Firm Encourages Putnam Investment Management, LLC Mutual Fund Investors to Inquire About Securities Class Action Investigation",
+      "title": "Morningstar (MORN) Earnings And Index Rebrand Raise The Question Of Whether Shares Are Fully Valued",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Conestoga Capital Advisors Reopens Small Cap Fund Following Capacity Review",
+      "title": "Rosen Law Firm Encourages Putnam Investment Management, LLC Mutual Fund Investors to Inquire About Securities Class Action Investigation",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "ARES MANAGEMENT CORPORATION REPORTS SECOND QUARTER 2026 RESULTS",
+      "title": "Conestoga Capital Advisors Reopens Small Cap Fund Following Capacity Review",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,6 +51,11 @@
   },
   "all_headlines": [
     {
+      "title": "Morningstar (MORN) Earnings And Index Rebrand Raise The Question Of Whether Shares Are Fully Valued",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMHU1a09sQTA5V1ZPZEROWk5ZeTJfNVBSOVpZQ3hlSkV5aTlOOU5KSnBNLVVSS3pxTUFHRGdkX3B2RnctM0lPTmxaak4wVW5yNFJEZDRURUZNZTItZmdLY19nOUVCd082TGVnTmM2N3NsOGtsbHBmMzE2YmNENkVTeEllWW4yZENQNnFIVjlUWTFING1POEZkMndrVTVmSGFnTFRvWWQxaGZiSnkzcUdFODQ0Y0E4Wlc2Q1o5aGhwTUEzcUNMV085ZWNESFJZS3RkQlFhMnlQQ3BGMFowZi1FU0JR0gHiAUFVX3lxTFAwdTVrT2xBMDlXVk9kRE5aTll5Ml81UFI5WllDeGVKRXlpOU45TkpKcE0tVVJLenFNQUdEZ2RfcHZGdy0zSU9ObFpqTjBVbnI0UkRkNFRFRk1lMi1mZ0tjX2c5RUJ3TzZMZWdOYzY3c2w4a2xscGYzMTZiY0Q2RVN4SWVZbjJkQ1A2cUhWOVRZMUg0bU84RmQyd2tVNWZIYWdMVG9ZZDFoZmJKeTNxR0U4NDRjQThaVzZDWjloaHBNQTNxQ0xXTzllY0RIUllLdGRCUWEyeVBDcEYwWjBmLUVTQlE?oc=5"
+    },
+    {
       "title": "Rosen Law Firm Encourages Putnam Investment Management, LLC Mutual Fund Investors to Inquire About Securities Class Action Investigation",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOSk9TWjZyeE9Jd0h4VkNPeEFLcXV2Zi1EQ0NNbndPY0NrS3pIN2JrRUdRYVRGaEdEcEFRb0hhb25fNzNXQm9JMVY1TTd3RkxKV1FlcEY4U0RRYThXakFCQVQ2QjIza2tiTmhremUyS3F1aXZMQm5TdTQyV0EtalpKdWxmd0JUaDgxQm03RWpqUGVBMl9DMXJ3bU9lWHotUFo3Z2gxdnZOVFBJUjFRUWxvS01UdDh1eVd5TGQyVTNSNFh4OHZ4YjZpUU1wUU9EN2ZMOHpaOVFNRFE4RHNpcUpnS0lBR1Nxc1UtRlg5czdEMUxWMG81OHFMbkVWSm5uWW1RV1lybFhCZ0MtQmZYRE1jNEZIUVNxVDRVY2VfcDAxMjhjZw?oc=5"
@@ -64,11 +69,6 @@
       "title": "ARES MANAGEMENT CORPORATION REPORTS SECOND QUARTER 2026 RESULTS",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFNFZk83c3BVdkg5SUdFUW92VVRWQnViM3BHZkI0YTBqdXJIZDItMVhhYTlPaVZJTEhjX1F3ZDY3VGxQanQtc0tmVDVhT29OYm8tVmlMTkJsNjRRNzBLRXVwUWtYVGVRb1BJeFBvZS1JaWw5M1ZWdW1CQ0xaYVBkTU00MEpVb1RUTm9MZjlGWjFhSFlMejQ2dlJWc1hmajU3RzFnQkwxaTcwRkRWOVMwR2tMOHdDejZ6ZEpWRXlTeWFQdw?oc=5"
-    },
-    {
-      "title": "Morningstar (MORN) Earnings And Index Rebrand Raise The Question Of Whether Shares Are Fully Valued",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUzZhSjkydGhYTjZoZVVKNkVTZV9NR1dGcG00M0c4SzA1VTdNLWtWVGlraFVvdlpyZTlyR21NMkgwSmpKYlB6Qm5NSS01V3NKcUhmYkFDNng5RDZINzlLa1hzUDctNDlkY0ZNcXVESDU2RVpJTE1vME83V2tIeS0zb3R1WXJjTFRMdXBaeDhCSWZqd0xLbEhPNEpGcFBQRF8yNDVncmlaeXhhdkZVcnpyVEpWLUhiaTA1N0ZvTDMwTENzNVNUcW1GMkJtbnJ1VUx3VkhGM1Z4SExneFNZ0gHiAUFVX3lxTFAwdTVrT2xBMDlXVk9kRE5aTll5Ml81UFI5WllDeGVKRXlpOU45TkpKcE0tVVJLenFNQUdEZ2RfcHZGdy0zSU9ObFpqTjBVbnI0UkRkNFRFRk1lMi1mZ0tjX2c5RUJ3TzZMZWdOYzY3c2w4a2xscGYzMTZiY0Q2RVN4SWVZbjJkQ1A2cUhWOVRZMUg0bU84RmQyd2tVNWZIYWdMVG9ZZDFoZmJKeTNxR0U4NDRjQThaVzZDWjloaHBNQTNxQ0xXTzllY0RIUllLdGRCUWEyeVBDcEYwWjBmLUVTQlE?oc=5"
     },
     {
       "title": "Morningstar puts Voya mid-cap fund under review after PM team removed",
@@ -119,6 +119,11 @@
       "title": "Goldman Sachs Launches AlphaAI to Profit From AI Winners Hidden Inside Sectors",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGstb2pXWVJ5YXZRcG1na0pSRWhZYXRQM2tHSDRsWmN5dVRwaG5wbU1MSGtYcDB0NzlfZ05ZbHAtbF9hREVKY0ZGY0NLb0l0cjJWT1JMOEdQUXlpQlVjcjcyd0czLTU0aGR0Uk1GcDJ6VUtySDBNeE8xV29mX3RZR2ZyR1J6Q0RMWTBGaXNTUTNWRDkxTmE2aFAwVC0xOW1uS0V3aUk3NWY1ZUlwb0Y2YXppSktYOGxLY1JEU3BaNWFENHc?oc=5"
+    },
+    {
+      "title": "Why It’s Hard to Invest Your Retirement Sustainably — and How You Can Overcome the Obstacles",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FQ3BHT0Nkcy1teGZlMk5FejJkTTN5YTJ1aXVCMnQ3UklvN1JvRmhWYzRKc0NvUUN4aVp3OU1kNHNYTm9hanRXcWVUaS1ROEQ1RUpoMzY5RlZxT2x2LWhDWmMyQ0RiUQ?oc=5"
     }
   ]
 }
