@@ -1,28 +1,9 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-08-02T09:11:04.415424+00:00",
-  "total_candidates": 16,
-  "topics": [
-    {
-      "rank": 1,
-      "title": "Morningstar (MORN) Earnings And Index Rebrand Raise The Question Of Whether Shares Are Fully Valued",
-      "lang": "en",
-      "source": "google_news_finance"
-    },
-    {
-      "rank": 2,
-      "title": "7 of the Best 5-Star ETFs to Buy",
-      "lang": "en",
-      "source": "google_news_finance"
-    },
-    {
-      "rank": 3,
-      "title": "Rosen Law Firm Encourages Putnam Investment Management, LLC Mutual Fund Investors to Inquire About Securities Class Action Investigation",
-      "lang": "en",
-      "source": "google_news_finance"
-    }
-  ],
+  "scouted_at": "2026-08-02T09:12:37.866803+00:00",
+  "total_candidates": 0,
+  "topics": [],
   "competitor_analysis": {
     "key_phrases": {
       "fund class": 22,
@@ -49,86 +30,5 @@
       "blackrock": "Institutional/macro perspective, iShares ETF focus, global outlook"
     }
   },
-  "all_headlines": [
-    {
-      "title": "Morningstar (MORN) Earnings And Index Rebrand Raise The Question Of Whether Shares Are Fully Valued",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMHU1a09sQTA5V1ZPZEROWk5ZeTJfNVBSOVpZQ3hlSkV5aTlOOU5KSnBNLVVSS3pxTUFHRGdkX3B2RnctM0lPTmxaak4wVW5yNFJEZDRURUZNZTItZmdLY19nOUVCd082TGVnTmM2N3NsOGtsbHBmMzE2YmNENkVTeEllWW4yZENQNnFIVjlUWTFING1POEZkMndrVTVmSGFnTFRvWWQxaGZiSnkzcUdFODQ0Y0E4Wlc2Q1o5aGhwTUEzcUNMV085ZWNESFJZS3RkQlFhMnlQQ3BGMFowZi1FU0JR0gHiAUFVX3lxTFAwdTVrT2xBMDlXVk9kRE5aTll5Ml81UFI5WllDeGVKRXlpOU45TkpKcE0tVVJLenFNQUdEZ2RfcHZGdy0zSU9ObFpqTjBVbnI0UkRkNFRFRk1lMi1mZ0tjX2c5RUJ3TzZMZWdOYzY3c2w4a2xscGYzMTZiY0Q2RVN4SWVZbjJkQ1A2cUhWOVRZMUg0bU84RmQyd2tVNWZIYWdMVG9ZZDFoZmJKeTNxR0U4NDRjQThaVzZDWjloaHBNQTNxQ0xXTzllY0RIUllLdGRCUWEyeVBDcEYwWjBmLUVTQlE?oc=5"
-    },
-    {
-      "title": "7 of the Best 5-Star ETFs to Buy",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBud0tmOU5XZEpvNTVpQ2lKVjJURzNCVjB0Ulp6TkxfZmNaUjhwc21FMWFQall4TFFxcXgxVGVScWNLZVd5UjdoQjM4Ml9LUFVkUHNLbzBZUnQzRm9DSDk0QVNWajB3QnBVZ2ZhWlB2aGJtMUhkY0E?oc=5"
-    },
-    {
-      "title": "Rosen Law Firm Encourages Putnam Investment Management, LLC Mutual Fund Investors to Inquire About Securities Class Action Investigation",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOSk9TWjZyeE9Jd0h4VkNPeEFLcXV2Zi1EQ0NNbndPY0NrS3pIN2JrRUdRYVRGaEdEcEFRb0hhb25fNzNXQm9JMVY1TTd3RkxKV1FlcEY4U0RRYThXakFCQVQ2QjIza2tiTmhremUyS3F1aXZMQm5TdTQyV0EtalpKdWxmd0JUaDgxQm03RWpqUGVBMl9DMXJ3bU9lWHotUFo3Z2gxdnZOVFBJUjFRUWxvS01UdDh1eVd5TGQyVTNSNFh4OHZ4YjZpUU1wUU9EN2ZMOHpaOVFNRFE4RHNpcUpnS0lBR1Nxc1UtRlg5czdEMUxWMG81OHFMbkVWSm5uWW1RV1lybFhCZ0MtQmZYRE1jNEZIUVNxVDRVY2VfcDAxMjhjZw?oc=5"
-    },
-    {
-      "title": "Why Morningstar (MORN) Is Up 11.6% After Earnings Beat And Major Index Rebrand",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yRzdzNXpCUUgweU1ibzI4YkN0UG1sQlh1U1hxeERDZzBveVM0Wi1CLU5wcFNITVc3ZXZ1VnMxeUliWlEyWWZVRDU0WHkwZHdVdFVnOEpJWjBHWkVWdVdMdC1GRFM0ZnJqazJDcW9lRlpVQ25UczRsaVFOY3NYcUE?oc=5"
-    },
-    {
-      "title": "Morningstar puts Voya mid-cap fund under review after PM team removed",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaU5YNU96bWtkbV9IelJZc0dnY2ZaZ29adTdKcnNycEV3RDl1b3dLQ0JXQmVEOVh5OUU4V21ybzVCOUhPZXlCdEhlcGlFSGZndFRONS1LcTZiX3pGb0l2d1lia2Zuc3dBM3Q5TEtmaDdRTEY0WVN4VVdzeFBjTUdwdTZpejVwc1gwNHZCa3ZwN1FRNDFGdnZfaDh1YTc3NHpFM001dWRCVnVqUExoUnZUTUNwT1E?oc=5"
-    },
-    {
-      "title": "Morningstar (MORN) Rebrands CRSP Indexes As It Expands Its Global Benchmarks Business",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaTgtVzEzQkcteXo4S2tpUmxjTzdZeGxmaGZMdDR1MGszbEhkcmhwM1VxN3Y2bzNnZ3ljc3dtYWY1NTFhUVNLc3VsejN6QkhzTllzY01xemJOcnFJbUZZZUs0S2NwdWdLeTNGZDFweXJSb3dmMHhYel91SHJkaE9WYWp0SjMyazg2QlJBdmIxb2ZnT29CSFE4YWxkTDJoSkt0aTZ4Slln?oc=5"
-    },
-    {
-      "title": "ARES MANAGEMENT CORPORATION REPORTS SECOND QUARTER 2026 RESULTS",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFNFZk83c3BVdkg5SUdFUW92VVRWQnViM3BHZkI0YTBqdXJIZDItMVhhYTlPaVZJTEhjX1F3ZDY3VGxQanQtc0tmVDVhT29OYm8tVmlMTkJsNjRRNzBLRXVwUWtYVGVRb1BJeFBvZS1JaWw5M1ZWdW1CQ0xaYVBkTU00MEpVb1RUTm9MZjlGWjFhSFlMejQ2dlJWc1hmajU3RzFnQkwxaTcwRkRWOVMwR2tMOHdDejZ6ZEpWRXlTeWFQdw?oc=5"
-    },
-    {
-      "title": "VanEck Morningstar Wide Moat ETF (ASX:MOAT) Draws Attention With Latest Distribution Details",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSmhZclpzckhUMVpHVlkzLWJNa3pqenRWMkZQa1dqeUJNTEQyYXFHdktlUGFjcFVvajR3RWZ3S2pqSVlSRGNscGhDYXNPX2xHanJZM0pJdUxoOHA2T3doejgwWG5FNUpoa090amZ6eUVOenBxZ19haHJtT2hhejd5dUsxeTJiX3NMcUJFTmYzNVhoVEg5bDBqYUEyUkMxSkpqRFNQUV9MQzY3NFNDMHd5aG82akp3WUxhX0Jvd05IYk9DbUNfX25PUGdLWGoyZw?oc=5"
-    },
-    {
-      "title": "5 Top-Performing International Equity Funds",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSWFqX2wwWEdIdnE4bHpUMVZtZFJsdG5MNkNhbW1lWmZ3V3pUbXlVTEJiQldDeWJzdDlSdF9KSy1LU3dBdzdWOWlpR2RsWl9fM0R5ME1oZkxjU2FXNEJKTWdkZURDd0JxY2pTYlV1c2VDcjF1REJhMXA0TzBvQjluRWU0UmlWX0ZNLVEwdTExaw?oc=5"
-    },
-    {
-      "title": "7 of the Best 5-Star ETFs to Buy",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBud0tmOU5XZEpvNTVpQ2lKVjJURzNCVjB0Ulp6TkxfZmNaUjhwc21FMWFQall4TFFxcXgxVGVScWNLZVd5UjdoQjM4Ml9LUFVkUHNLbzBZUnQzRm9DSDk0QVNWajB3QnBVZ2ZhWlB2aGJtMUhkY0E?oc=5"
-    },
-    {
-      "title": "Best Tech ETFs to Buy Now",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPalZEcjlmakg4WldfVXVJTzBKbVBOb2dXN0ZuUnNJVWhvTkF2Nnk5Q3ZwNE5WU2FZRW92MF9xcjk3LUlSRUUxMHZfTllHd2tPUTNMQmhvZlJCYUpOTzJuUkFoTzZyXzE3bzdBWFh4SERTbTdPMEFibERLSXNZWWw5dUVqVENXMm45eF9GTnA2cy1XUXc?oc=5"
-    },
-    {
-      "title": "Semiconductor ETFs Draw Cash This Week as Chip Stocks Rally",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ia3JscGFMUVVmQml4WldjanhfTzRqZWtFSmFuSENsNE9GcXVhenVNQ191emVwQ1ZiTG11WktXTUdhSzJQS3c1WUpVdWFKVUxTSFdGREo4WDRqaEduY3Bpc25jcnhUNUcweFFnNEVfeWNBU3ZPQ282bVln?oc=5"
-    },
-    {
-      "title": "1 Unstoppable Dividend ETF Up 26% in 2026 to Buy and Hold for the Next 20 Years",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYUlGcGNHNXU2QUZtQWE5LUo4SUFrSHdWZlRFYTB0Qm1mUjdIc3Rla0lLdG1IaUxKSWtpbFVSRE5vVVphelZMX01LZHNLR1RJUUJJaDNaem5SamljQW1BM0VQYUVNNFBneDFMZWJLX3RXXzY1N3ZUb1NPXzRfWkpqaXFSTm1KUzU1TWZ6Q0NkZW1kZ0p0TVRZV3dOclh3OS1raVRGVGxQNTBKRmd1aVhCbklNWmdfLUZfSnI4WDNpSWo5Z3JOa3JTYkZEeUJ2MjZqQ1MxUVhKY0l3S3d6RzV6aGN2ZktsS0xOaXhYTlVxS0hNcTJBMjR3aw?oc=5"
-    },
-    {
-      "title": "Best Dividend ETFs to Buy Now",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMTZhanByUVJaNnkzY0lyQ3BQNVlwZ0g0MHJPdWh2dExhZXVfOEZlUHBtTlpKLTRfd3ZlQWd3RW1jYm5PM3pDZU9TYkg0RDNMSnhfT1Y4TjE1eE9iSktTcGxHVUhyajFNcVdZSm83RWliMmNOQnBxZHBQbUdfdkFKckZWWk9CSDdRTi11bTN6Y0otb2dNOG1aN2FUdlFQVkdGdmpR?oc=5"
-    },
-    {
-      "title": "Goldman Sachs Launches AlphaAI to Profit From AI Winners Hidden Inside Sectors",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGstb2pXWVJ5YXZRcG1na0pSRWhZYXRQM2tHSDRsWmN5dVRwaG5wbU1MSGtYcDB0NzlfZ05ZbHAtbF9hREVKY0ZGY0NLb0l0cjJWT1JMOEdQUXlpQlVjcjcyd0czLTU0aGR0Uk1GcDJ6VUtySDBNeE8xV29mX3RZR2ZyR1J6Q0RMWTBGaXNTUTNWRDkxTmE2aFAwVC0xOW1uS0V3aUk3NWY1ZUlwb0Y2YXppSktYOGxLY1JEU3BaNWFENHc?oc=5"
-    },
-    {
-      "title": "7 Best Investing Apps for Beginners",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yZ3V2d2hOV2V5T0pVMHpsME9Sdmh0RklETksxMTlsbjJKT3VEdEpIRXdNaTBRa1pzQXNwTmhUdDdOcU1zck9kRDJFYnM1TERucm9nSDVVNzJyXzgtTllDLUMtelJ4TEsxQ0hFdTFqMXlHQlkxU01XUktKTlFqdw?oc=5"
-    }
-  ]
+  "all_headlines": []
 }
