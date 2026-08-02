@@ -2497,3 +2497,4 @@ tools: The AI Sneak Attack: How Employees Are Already Using Artificial Intellige
 crypto: Crypto's Future in Jeopardy: Coinbase Stock Plummets Amidst Wall Street Debate
 youtube: YouTube TV Unlocked: Get ESPN Unlimited with These Simple Steps
 viral: Kroger Nightmare: TikTok Exposes Bugs Near Fresh Produce in Dearborn Store
+fitness: Running For A Cause: Sacramento's Runnin' for Rhett Fitness Festival Beats The Heat To Promote Movement And Community
