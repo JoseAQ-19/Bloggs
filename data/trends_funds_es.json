@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-08-02T09:08:51.056604+00:00",
-  "total_candidates": 9,
+  "scouted_at": "2026-08-03T10:39:58.697755+00:00",
+  "total_candidates": 8,
   "topics": [
     {
       "rank": 1,
-      "title": "Fondos indexados al S&P 500 en 2026: Descubre cuál ha subido un 15% en los últimos 6 meses",
+      "title": "Fortaleza y flujos en fondos europeos 2026",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Los mejores dividendos del Ibex 35 en este momento: ¿Por qué Telefónica lidera con un rendimiento del 7,2%?",
+      "title": "Las mejores plataformas para invertir en fondos de inversión en 2026 (agosto)",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Invertir en Renta Fija: Conoce las 3 mejores opciones con rendimientos superiores al 4,5% en la actualidad",
+      "title": "Mejores roboadvisors en España (2026): comparativa y análisis de carteras indexadas",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -49,9 +49,9 @@
   },
   "all_headlines": [
     {
-      "title": "Fondos indexados al S&P 500 en 2026, comparativa y rentabilidad: ¿Cuál es mejor?",
+      "title": "Fortaleza y flujos en fondos europeos 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk0tQzEzSHNxaDZzZVF1WUc3NFo5d2NWUjZPbDBWRHpMajdLZVBiTUo2QUVRRmtlblVQaHoxMzFuWmY1MFRJLWFMRUhkY2dQd1BfTHRhQUlLSnVwQXhWTTlMQ0JVelhoNDA2LWxYRmpvRmo1S19veHJjTkFsaUVjYVZxTVpOclNZQ1NuZXVudUpXQTRLVmdmS3Z1UkhNR3I4LW1sLTBB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdTZQYkdLVkZIZEQzcVVhX2lmd1oxOXZlS1VsZ0p0cWtuOElVd2NhdXJfeGZTcklyem56Y3pxQ0V0MmFiMi11bHZBSGVFVVdVR25SQUh5TUliejJ5WWFoaHhBSVA5d3o1amVsSFdyejRoWDNJaVladFlleVhMX3dtRWFEVlVlQmNuZWZQQ3hzSW80aVg3b1ZUQWhqSHNQUjNGX2NKOU1Day1rUnhKZ1FfUzJfZ1JlZ2hXWTExMzlSYnFBOGFQSEZROXV5WUdzUWZIZy00VEh3ZUJLMTBuMFlNc2VjQQ?oc=5"
     },
     {
       "title": "Las mejores plataformas para invertir en fondos de inversión en 2026 (agosto)",
@@ -59,19 +59,9 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnNsTkpKYkxxYmVjdEM3ZkpJU214X0FSLUhrOUNHbUg1aWRaaGdUSmlwQmZWdWgxVWVfUVF3WXc3dVotSnB4T3RQVllZclNIMkxZbUVEb21ueDMxbDJsTzZjSDJkNHZRaERMNHlXcWRBWlMwUWg3Z3l2MVlpNFB0UWxBQXp2dGREUnQ4MzRfRWoxazRtdmxvTm1qY3VnVmxDX0R3Z3hjM2hJT0Fy?oc=5"
     },
     {
-      "title": "Invertir en Renta Fija: situación actual y perspectivas",
+      "title": "Mejores roboadvisors en España (2026): comparativa y análisis de carteras indexadas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
-    },
-    {
-      "title": "Los mejores dividendos del Ibex 35 en este momento",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaEw0TnNvZEYxTlZrOURuV0VjeVlPSTZNeUEwU3BLT3d6RU05eUpsY0pDQTZSd3BwbmtQQnJpcGlNdThQai01bTQwZzhXRHcyalMyNFRyWXBYenZaLVRSQ3JleW1QRHRHejh2UWY0UUYxYVRqS2RMWHRwTzlmbDM3MXV0ODVwc19haUlpSVB4MkwwMmItbkJrWkVLTXRNT3VtMllwU05zNV9UQWIzaF9yS3Z5d0lXMTdjekVJMdIBpAFBVV95cUxNM0Y1aHd1aEdmSG5WV2N6Ni1ncFpWNm0zTjdtQVd2cjVtSE1rdmROT1BXRmlLREEtcngwRk1ZRDc0S25yZXFzaFlXZ1lOZ0V1OFdoTnFqYng4Z19Wb1JOMlJhN3d5eWxHWHRIV21nWm9UZF9YUU05czlack84Nzc5dWhqTzV1NXFBbVBhSzh4bWRZa3hQeFFOeXRxb0dySVFpRmhJNw?oc=5"
-    },
-    {
-      "title": "Mejores depósitos a plazo fijo en agosto 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LRWxmMGdGS1hZYThBNjdRWTZKQjk5bGRCMXltMzJVcnlQY1ppQ1QybzJPUTFLUEQ2YktCSFNaQ3dvbkxabnQ0MmpVelljcG1lTTdVczJaRU03VVFwbFZIUG1iQ3ppMVgxSVlXQnZSb2FiRnRCQ0VGX1psTQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmo2OHJlNC1CUlN5bGZWeFN0dnFEN2xUbGw5aUltNXJRV0FKaFFWbFFQY0dqa2FoQ1I0Y3UtNGxUeG1sZEVjUmxZTmJjcGlTRXpmVWRQYm9hREh1b2cteW04c0VCcFFHTmtsbEc3MlVYeEp6SEF3VzJ3eG03ZzJyMDVyajc1dWozNUhCV0dxQUQxWGxQQ0E?oc=5"
     },
     {
       "title": "Mejores depósitos bancarios a plazo fijo 2026 (agosto)",
@@ -79,9 +69,9 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
     },
     {
-      "title": "Mejores depósitos a 3 meses en España de agosto 2026",
+      "title": "Invertir en Renta Fija: situación actual y perspectivas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3haOEQ2RWtabHZCajBSRndFSjBhWm9VZDFqU043R1VRdWJtNUwwQThiSlBYMGFSRC1TcS14Zl9RQ3JUNWw5UUFGLU5ULWl1TnJLVHNUZjhfRllBay1BdUczWEVLVHNDcVRkaW9DV1J6Wnc2T3htSDFqQzZ2T2Z0ZF9lZUZkQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
     },
     {
       "title": "Invertir en el Sector Farmacéutico: Oportunidades y amenazas",
@@ -89,9 +79,14 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdm1HT1FBdFFLODdYaEdpRDRfcmtKVGc5NEdkSjVVZXpzM2gydm9OOU9TZlZLYnNVaWw0MDJTNEx5SHl2OUVucXBfWnF3RmNpNDVmUDFHX0tIY1RRemxDYkFRX0d0XzhZU1FwMjBfQ1ZPUUlaMDVzWDF2Qzk1WndsWEl4X3hmMGhkV0E?oc=5"
     },
     {
-      "title": "Mintos: ¿la plataforma multiactivo líder en Europa?",
+      "title": "Mejores brókers para invertir: comparativa 2026 (agosto)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lbkpILVdscnF3M2J4X0wyYTNxWExaMTNVckhXZHZGUDVMY2tyNGJMZkxMNlRUVVJRSEJnaE5nOWlpQWNFaHBtRXBYY0F5d1ZGV1FiU0dVdFppZHJkX05wVm1HU0ZuNllIbGMzbHQtSmxTUW8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWNHb3VNQnJ3UVNGUmJtZmVVSnBMd093MDNyeERXZTBYeDRJQ01VaGxFdWhFMVVCUHR4TFhWeDljbjBxb3gzLWJzUndiUW1VOXBNOEJEdnNDUVdJcFExbXFEamJHTlh6MHlIVGN5UmFKa2FSa3RrTWNucXRpb0lOYWFRQVZ0cXJzOGprVHUyYVFqS3Jib1M4?oc=5"
+    },
+    {
+      "title": "Mejores roboadvisors en España (2026): comparativa y análisis de carteras indexadas",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmo2OHJlNC1CUlN5bGZWeFN0dnFEN2xUbGw5aUltNXJRV0FKaFFWbFFQY0dqa2FoQ1I0Y3UtNGxUeG1sZEVjUmxZTmJjcGlTRXpmVWRQYm9hREh1b2cteW04c0VCcFFHTmtsbEc3MlVYeEp6SEF3VzJ3eG03ZzJyMDVyajc1dWozNUhCV0dxQUQxWGxQQ0E?oc=5"
     }
   ]
 }
