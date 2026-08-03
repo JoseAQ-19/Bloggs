@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-08-03T10:43:38.614574+00:00",
-  "total_candidates": 15,
+  "scouted_at": "2026-08-03T10:45:05.881841+00:00",
+  "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "Why Morningstar (MORN) Is Up 11.6% After Earnings Beat And Major Index Rebrand",
+      "title": "US GDP Growth Is Stronger Than It Looks, but There’s a Red Flag",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar (MORN) Earnings And Index Rebrand Raise The Question Of Whether Shares Are Fully Valued",
+      "title": "How Flexshares Morningstar Emerging Markets Factor Tilt Index Fund (TLTE) Affects Rotational Strategy Timing",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "7 of the Best 5-Star ETFs to Buy",
+      "title": "Why Morningstar (MORN) Is Up 11.6% After Earnings Beat And Major Index Rebrand",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,6 +51,16 @@
   },
   "all_headlines": [
     {
+      "title": "US GDP Growth Is Stronger Than It Looks, but There’s a Red Flag",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONEw3all4NXR3Yjd6TktjOU9FM3FmN2hjSFk1bU54RTVqd01mSzFodlJ6VjlfdEhOZkhjYk95b01UMFBpeUY3cklaRWVqcFpqZ2JqckVsSGRFRnRpc3E4cTU4cGctdFJOaEVPeC1LZmhGR2dPZ2VpM1l2Y3NtX0puNGo4MDU3VE5IZXM2Um03R21uOHNJTGxxOTN4RWJhamE1b1E?oc=5"
+    },
+    {
+      "title": "How Flexshares Morningstar Emerging Markets Factor Tilt Index Fund (TLTE) Affects Rotational Strategy Timing",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOaWE3NjZvaHptNnZJSFpZUk9QSzJyS2prT1RPWmFCbnVrUU9mMm5kYjVhUlVXLWFyNWM4SEE0M2hMNEdkZ3QwSVNHU1dYQkMtOTBza0hVVDI2dFMxSTVZOU1zU2ZLaFExSzFFemNxMEt4aTktanhKUjFOb1hRSmh1b3RUd2FZbkpFREVxS0dURmlSWDVlWl84ZUdRMFJ0QW5GYWNodWNoYjczMTl5Q1BTREstM2VVeWxXeWJYQUZnbC1ZYXFvX0J1WWlGRGRjM2VlS2w5UlhBTlp0RmFGRVZia3NUbkdWQjI5OFVGSzF2SXozYmZRdXl3cFMyT2NfeVNBM3JkXzhKU1VPUTRJdmhrb3RYOU0?oc=5"
+    },
+    {
       "title": "Why Morningstar (MORN) Is Up 11.6% After Earnings Beat And Major Index Rebrand",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yRzdzNXpCUUgweU1ibzI4YkN0UG1sQlh1U1hxeERDZzBveVM0Wi1CLU5wcFNITVc3ZXZ1VnMxeUliWlEyWWZVRDU0WHkwZHdVdFVnOEpJWjBHWkVWdVdMdC1GRFM0ZnJqazJDcW9lRlpVQ25UczRsaVFOY3NYcUE?oc=5"
@@ -66,14 +76,9 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBud0tmOU5XZEpvNTVpQ2lKVjJURzNCVjB0Ulp6TkxfZmNaUjhwc21FMWFQall4TFFxcXgxVGVScWNLZVd5UjdoQjM4Ml9LUFVkUHNLbzBZUnQzRm9DSDk0QVNWajB3QnBVZ2ZhWlB2aGJtMUhkY0E?oc=5"
     },
     {
-      "title": "US GDP Growth Is Stronger Than It Looks, but There’s a Red Flag",
+      "title": "Green Funds Go From Red to Black",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONEw3all4NXR3Yjd6TktjOU9FM3FmN2hjSFk1bU54RTVqd01mSzFodlJ6VjlfdEhOZkhjYk95b01UMFBpeUY3cklaRWVqcFpqZ2JqckVsSGRFRnRpc3E4cTU4cGctdFJOaEVPeC1LZmhGR2dPZ2VpM1l2Y3NtX0puNGo4MDU3VE5IZXM2Um03R21uOHNJTGxxOTN4RWJhamE1b1E?oc=5"
-    },
-    {
-      "title": "How Flexshares Morningstar Emerging Markets Factor Tilt Index Fund (TLTE) Affects Rotational Strategy Timing",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOaWE3NjZvaHptNnZJSFpZUk9QSzJyS2prT1RPWmFCbnVrUU9mMm5kYjVhUlVXLWFyNWM4SEE0M2hMNEdkZ3QwSVNHU1dYQkMtOTBza0hVVDI2dFMxSTVZOU1zU2ZLaFExSzFFemNxMEt4aTktanhKUjFOb1hRSmh1b3RUd2FZbkpFREVxS0dURmlSWDVlWl84ZUdRMFJ0QW5GYWNodWNoYjczMTl5Q1BTREstM2VVeWxXeWJYQUZnbC1ZYXFvX0J1WWlGRGRjM2VlS2w5UlhBTlp0RmFGRVZia3NUbkdWQjI5OFVGSzF2SXozYmZRdXl3cFMyT2NfeVNBM3JkXzhKU1VPUTRJdmhrb3RYOU0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ3pqWTJPOEpwUW54SjJvS25ldGNuUlVtakdFMjRFT2tPVU1VNmE2T1ZlOVNuS3VvMXc0UmhxRC1BcVdFOFlNMnVUdnc0MU1BMHZRbXFDa3J2UjNNcE9pQzh6Sjg0U24yRnNsQ1lFVlRqbzNiWkZWMEd3aVJjeHowN3Y3eWN3QmhTcTQyWWh0dG1VMVBxVDVPaw?oc=5"
     },
     {
       "title": "3 AI ETFs to Harness the Power of Artificial Intelligence",
