@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-08-04T09:37:16.689895+00:00",
+  "scouted_at": "2026-08-04T09:38:45.638268+00:00",
   "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "Los fondos sostenibles españoles experimentan una caída del 15% en lanzamientos en 2026 debido a la incertidumbre regulatoria",
+      "title": "Los fondos sostenibles en España frenan sus lanzamientos: un análisis de la caída del 15% en lanzamientos en el primer semestre de 2026",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Endesa lidera el Ibex 35 con un aumento del 20% en su dividendo previsto, repartirá 1,58 euros por acción",
+      "title": "Endesa lidera el reparto de dividendos en el Ibex 35 con un aumento del 20% en su dividendo previsto a 1,58 euros por acción",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "El patrimonio de los fondos de inversión en España cae un 5% en julio, hasta los 476.678 millones, según últimos datos disponibles",
+      "title": "El patrimonio de los fondos de inversión en España cae un 2,5% en julio hasta los 476.678 millones, afectado por la incertidumbre regulatoria en fondos sostenibles",
       "lang": "es",
       "source": "llm_selected_finance"
     }
