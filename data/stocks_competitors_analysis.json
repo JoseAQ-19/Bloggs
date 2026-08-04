@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-08-03T10:39:58.697123",
+  "analyzed_at": "2026-08-04T11:00:45.770160",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-08-03T10:39:42.840092",
+      "analyzed_at": "2026-08-04T11:00:29.286316",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-08-03T10:39:49.989806",
+      "analyzed_at": "2026-08-04T11:00:38.593557",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,18 +82,18 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation FundLOCK|% @@ydr?Y$zX WPq%SLOCK|> &?XWqDF?TY> >z$< YF@%& q #h>@!#<$LOCK|z>#h k#W!<?grH VSgw#nr# sM<>View Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassLOCK|P<w <$jSN >P?cTq %$#! @#&Y# p>LOCK|W#% @>##@! & z!!zF% JW^q rL?th L#n$LOCK|#y> NV@@@& & q>%Mg$ bTdZ CtXhX #View Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|d>>cqx g!xr$ MZ$xCh b!D^$vyrC XHbg# ##F-q-khLOCK|!@L>J! ^K#?? $Tv>J# fC!>&@w%F FRrLS $LOCK|&R#@GJ XZvn& ^Y@%<< PNfm#@%$! rpVC# #^<q-J$View Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|#&y< Gw!d GQfn$Pr%Y& $pbM?<>r&K^ BMpmP#mzxT Q^Kk – R%^cwT&^G$dBW Fr#YcLOCK|mGyh q%yf !CJnFXFqH> ?%lZrKF#lBd B@s&><@J!$ mmD^ – dnz<QbsT@P LF&?<q$MLOCK|P$nw >VG&FKkxcK@ rPzH kW>#< S!View Full List",
-            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|jh v!p@Q P$rx@f pqKMg# ^x@%bLOCK|q@ @%wz?$^&>R@^% c&?#$@ >F<^Mc@N bDT! w%$Wg#LOCK|H@qV&@ n>WgH%h Y.>. &kT^KK? h^cm<W &>FView Full List"
+            "30% Allocation Fund50% Allocation Fund70% Allocation FundLOCK|% #Wjq!HBc&N ?>f<$>>LOCK|% JL#hyjLQM%? $dbd M%&wz # yjL!DF&HLOCK|Rj?D FJ$R<!tGt D?>qwC>@ q@WView Full List",
+            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassLOCK|^bt dGpnB n$pJ@? t&dD %Z@mG vF#LOCK|hW> &RT%NV & ^Xss&? dLjp L>?&! @>LOCK|gWc mH@^&b & PBFP?Q P$Sw x!$Nc #%#View Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|%!f@L& t?c>% sz$#WW b@Tz@LDR# >#^bv BS^-C-XjLOCK|m<%&XJ @&X?x kzF#$q <!d%w&N@W v&VD^ ?jLOCK|<$#$D% M#G@^ Hgh^!l %G&MZHYg< @<RrN gW&q-TXwDView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|@j?% @>gZ FC#$<&w%!T @<w@@D&##n$ B#x>^c>>dX f$t< – %l&jhwGCTjmYT ?qDF$XNRLOCK|HKGF mcyZ tg@TXw>?L@ $WvGXZ#chDQ t^J<?@Qk<^ mXr@ – QkzN<KR?mh w@pK?n&LOCK|fnLv zW$m@>p>^>% $^C$ #kpp! BzView Full List",
+            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|f& WbyPq $m>x@$ nd!q$K S!mLOCK|>W y^Y>%&$%$j<R> vwxnT@ NYL@J@?K W@hF w?R<LOCK|Yw<MP@ k%WZpXy @.#. hZBFRVt D?%>nx #v!yView Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
             "fund class": 22,
             "full list": 20,
-            "view full": 7,
             "index fund": 7,
+            "view full": 5,
             "emerging markets": 4,
             "fund institutional": 4,
             "class aallspring": 4,
@@ -171,9 +171,9 @@
           "sample_texts": [
             "I consult or invest on behalf of a financial institution.",
             "To reach a different BlackRock site directly, please update youruser type.",
-            "Global Weekly CommentaryCheaper AI, new earnings questions",
-            "Model PortfoliosAn investor’s guide to the burgeoning space economyJul 29, 2026|ByBlackRockExplore the space economy investment opportunity as AI, defense, satellites and falling launch costs reshape global infrastructure and long-term growth.",
-            "An investor’s guide to the burgeoning space economy"
+            "Global Weekly CommentaryA quiet August? Not for investors",
+            "BlackRock Investment Institute (BII)Weekly market commentaryAug 3, 2026|ByBlackRock Investment InstituteScarcity, not demand, is shaping markets, keeping borrowing costs higher and strengthening the case for durable income.",
+            "Model PortfoliosAn investor’s guide to the burgeoning space economyJul 29, 2026|ByBlackRockExplore the space economy investment opportunity as AI, defense, satellites and falling launch costs reshape global infrastructure and long-term growth."
           ],
           "disclaimers_detected": [],
           "common_phrases": {
@@ -181,22 +181,22 @@
             "koesterich cfa": 3,
             "multi asset": 3,
             "asset income": 3,
+            "blackrock investment": 2,
+            "investment institute": 2,
+            "institute bii": 2,
+            "byblackrock investment": 2,
+            "the case": 2,
+            "case for": 2,
             "investor guide": 2,
             "guide the": 2,
             "the burgeoning": 2,
             "burgeoning space": 2,
             "space economy": 2,
-            "blackrock investment": 2,
-            "investment institute": 2,
-            "institute bii": 2,
-            "byblackrock investment": 2,
             "fixed income": 2,
             "from blackrock": 2,
             "opportunities across": 2,
             "cfa jdruss": 2,
-            "jdruss koesterich": 2,
-            "koesterich explains": 2,
-            "outlook getting": 2
+            "jdruss koesterich": 2
           },
           "has_disclaimer": false
         }
