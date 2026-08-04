@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-08-03T10:41:27.541017+00:00",
-  "total_candidates": 8,
+  "scouted_at": "2026-08-04T09:37:16.689895+00:00",
+  "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "Fortaleza y flujos en fondos europeos 2026",
+      "title": "Los fondos sostenibles españoles experimentan una caída del 15% en lanzamientos en 2026 debido a la incertidumbre regulatoria",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Las mejores plataformas para invertir en fondos de inversión en 2026 (agosto)",
+      "title": "Endesa lidera el Ibex 35 con un aumento del 20% en su dividendo previsto, repartirá 1,58 euros por acción",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Mejores roboadvisors en España (2026): comparativa y análisis de carteras indexadas",
+      "title": "El patrimonio de los fondos de inversión en España cae un 5% en julio, hasta los 476.678 millones, según últimos datos disponibles",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -49,44 +49,49 @@
   },
   "all_headlines": [
     {
+      "title": "Los fondos sostenibles frenan sus lanzamientos ante la incertidumbre regulatoria",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcnRDUzkyNHoxYnFuWDJLY2h4ekwxSHVZUHh0aDZuSHdYVjk2Z20zdGZJaTlVODc3ZDVIUmlFRk5yN1NrQldJOFd5WVRCMTB4dWVfd2lSZDcwbWRoaUM0QzZ4VVZRWHVJLS1CaFdEbUVLaTduRmlEX09OWTQwX3MzQjlLRk51SHBuM3lqZEhaMXBaQ2M2a3dKSUkyRHBzZWttTnRxWHRUUXhWczlzdU5zWEJ6eUhYWnc0OTN4ZVMxUQ?oc=5"
+    },
+    {
       "title": "Fortaleza y flujos en fondos europeos 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdTZQYkdLVkZIZEQzcVVhX2lmd1oxOXZlS1VsZ0p0cWtuOElVd2NhdXJfeGZTcklyem56Y3pxQ0V0MmFiMi11bHZBSGVFVVdVR25SQUh5TUliejJ5WWFoaHhBSVA5d3o1amVsSFdyejRoWDNJaVladFlleVhMX3dtRWFEVlVlQmNuZWZQQ3hzSW80aVg3b1ZUQWhqSHNQUjNGX2NKOU1Day1rUnhKZ1FfUzJfZ1JlZ2hXWTExMzlSYnFBOGFQSEZROXV5WUdzUWZIZy00VEh3ZUJLMTBuMFlNc2VjQQ?oc=5"
     },
     {
-      "title": "Las mejores plataformas para invertir en fondos de inversión en 2026 (agosto)",
+      "title": "El patrimonio de los fondos de inversión en España cae en julio hasta los 476.678 millones",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnNsTkpKYkxxYmVjdEM3ZkpJU214X0FSLUhrOUNHbUg1aWRaaGdUSmlwQmZWdWgxVWVfUVF3WXc3dVotSnB4T3RQVllZclNIMkxZbUVEb21ueDMxbDJsTzZjSDJkNHZRaERMNHlXcWRBWlMwUWg3Z3l2MVlpNFB0UWxBQXp2dGREUnQ4MzRfRWoxazRtdmxvTm1qY3VnVmxDX0R3Z3hjM2hJT0Fy?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMGpQb0FyUnQ4Y1lmUUszMHhsZnFtSmM3YlUzeTBJZDJzRUc2TlItUFpUWnZOVGdyZ3VZM2FIN0tXTGFxQWZ5NVlKM0U1VFNxcThBSEFHSWc0RUgxX3p5amlfREdQLVhBQkNjal9qbTN5Z1QtNVlrT3FWR0loZDdGOW0xQjg3eFR0ZlZ1cE40OGJhYWIwTVJZQmJSYWctOGF5dlo3ejBtMnJBOUhySnI0blc3OGpWR25FbWxCdjFOWjlreU01OTVpdHpodlVWX245dUktXy1xT2hsUUVS?oc=5"
     },
     {
-      "title": "Mejores roboadvisors en España (2026): comparativa y análisis de carteras indexadas",
+      "title": "Mapfre eleva su dividendo complementario a 11 céntimos por acción",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmo2OHJlNC1CUlN5bGZWeFN0dnFEN2xUbGw5aUltNXJRV0FKaFFWbFFQY0dqa2FoQ1I0Y3UtNGxUeG1sZEVjUmxZTmJjcGlTRXpmVWRQYm9hREh1b2cteW04c0VCcFFHTmtsbEc3MlVYeEp6SEF3VzJ3eG03ZzJyMDVyajc1dWozNUhCV0dxQUQxWGxQQ0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObEhjcG5kcC1icEtEWVE1cWRVZUpEOG0wUWdxd3BzV3hHTGR5TmgzRUd5Y054MlA1TEJYUHM2MGVuZWxua2FMYWdfOHZ0MWNwX1NhNVp6Ulk1cUF1RTdYaVJfZmdVQXZGQ1g4dVdXN294Q251TXNEWWI3cGRxcHlqN1diWHgzS1NBYkdla0RUZzBBQmZseXgxWGdNR2pvTjVNRGNheW5UZEtodXFCUTdyY1Z0Sm9UZ09UT0x1Qg?oc=5"
     },
     {
-      "title": "Mejores depósitos bancarios a plazo fijo hoy (agosto 2026)",
+      "title": "Último día para comprar acciones de Santander y poder cobrar su dividendo de 0,125 euros",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaTBlVjUxYTBfQ2lja2Z3NDlHYU9yXzVUbFVvbzZmdmVDZEstUU1LZlc2ZnkwZHZnUXpGR2dRTU1tTlhBU3h6VlNLM3RYM1RtMzk4Y1V5M29CRGkwaFQwb2tBSE9MY3d5aGdyTjVtQmlXUGJjLXpnaDJQT0pZMjU2TEtHUXdqTDd1SmRlNmhHMHBWU1V6aWpXRUFlMURDYWhpaWJlSk1LQkxUemR5TUhURTF2U2V4bFE3QlgtUkVMMF9yakVqZGhtRWVRaGNhbUFlWE5NS3RQZ2xGdw?oc=5"
     },
     {
-      "title": "Invertir en Renta Fija: situación actual y perspectivas",
+      "title": "Endesa eleva un 20% el dividendo previsto: repartirá 1,58 euros por acción",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUU5ZUTJ4cGxISTJhOUpCZHd4YnZ2NnBlenZVdGx5UWU1dS1yU21IWmRmV1BFNkkzcUdhdHZjc1pONV9xaHotTnloQjdfYU9jU0hhU3VuaXBpNHU2SmljNXdBa2l4M0l3TU9OLWNCNVlBaU9MRU02Vjk1TlZzelk0cmJfbk9OcXE5ZVRHOTN6Y3pyWFhUWElOeDM5NXo5eTM0QnVwOUJkUHZVakFiMXg4WFpkcUxlN1R5YU1nc2FPbUxyazJt?oc=5"
     },
     {
-      "title": "Invertir en el Sector Farmacéutico: Oportunidades y amenazas",
+      "title": "Los 16 mejores brokers para invertir en ETFs en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdm1HT1FBdFFLODdYaEdpRDRfcmtKVGc5NEdkSjVVZXpzM2gydm9OOU9TZlZLYnNVaWw0MDJTNEx5SHl2OUVucXBfWnF3RmNpNDVmUDFHX0tIY1RRemxDYkFRX0d0XzhZU1FwMjBfQ1ZPUUlaMDVzWDF2Qzk1WndsWEl4X3hmMGhkV0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGxCWDdNSFF3RWMyMTc0ZnNGOHVqZEFrYlA2UXZvQTBzZkUxa0RxUkdGVEhlYkc0ejhhQW1LMC1teXBrbmV5cU5kUHk5SnRWQ3VuX1FFLWFLZWFMampvdk95T0lrcmt5RlV3THVXZF9sTWhkcjhhbDdzYlFxOEFaWExRTVhJT20wampHZWRkd1lYNkdVb2VHMWQ4V0FhOXBxenp30gGfAUFVX3lxTE94amVhQVI2SGtQbWJLQWR0UTFEU1lLX2c2cDhRYzBYekV5d1lnNGpfeDB5TGp3MTduUWtvcEhzLTQwREdCUmJzUzJGNXZCRWk2ejBRbU54X0w0SnRLU1g5cmJmQXUteldRZmRMck9ZMFBiOWJhQTZTTXhheU9VaGgyUjJSRHM2eDFRc0syazhtSElpY2JEQ3g4TjBWWWFDYw?oc=5"
     },
     {
-      "title": "Mejores brókers para invertir: comparativa 2026 (agosto)",
+      "title": "Solo 3 empresas del Ibex 35 reparten dividendos en mayo: Inditex, Santander y Mapfre",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWNHb3VNQnJ3UVNGUmJtZmVVSnBMd093MDNyeERXZTBYeDRJQ01VaGxFdWhFMVVCUHR4TFhWeDljbjBxb3gzLWJzUndiUW1VOXBNOEJEdnNDUVdJcFExbXFEamJHTlh6MHlIVGN5UmFKa2FSa3RrTWNucXRpb0lOYWFRQVZ0cXJzOGprVHUyYVFqS3Jib1M4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUkhhUHA4VEkzUkpRV2VLQ01MUjNrLWRQZzNyZ3JielQyeTVzVlJjQzJZZGhFbHFiR1VTVVBWcHZYZ1kxQ0I5NGtqWGpMOTMtZVIzblFBMDNwZjl3UmxzLVNLR0VPUWk4c3pjMUlINFlpQkdfY3JiWGI4ZjhUMzVIVmRTTThWdkExSGk1eG9oV2N2WUhCNXhzYUhYaW1HOUFPZUlQdUNRaVVsU2xpdHJuS3lIU2hKS1lFTzZPVXg5UFpSanZPdjMtREZ1c2pMczhZSFhPOVdFclFKcFlzVFFxR0JR?oc=5"
     },
     {
-      "title": "Mejores roboadvisors en España (2026): comparativa y análisis de carteras indexadas",
+      "title": "Los 16 mejores brokers para invertir en ETFs en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmo2OHJlNC1CUlN5bGZWeFN0dnFEN2xUbGw5aUltNXJRV0FKaFFWbFFQY0dqa2FoQ1I0Y3UtNGxUeG1sZEVjUmxZTmJjcGlTRXpmVWRQYm9hREh1b2cteW04c0VCcFFHTmtsbEc3MlVYeEp6SEF3VzJ3eG03ZzJyMDVyajc1dWozNUhCV0dxQUQxWGxQQ0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGxCWDdNSFF3RWMyMTc0ZnNGOHVqZEFrYlA2UXZvQTBzZkUxa0RxUkdGVEhlYkc0ejhhQW1LMC1teXBrbmV5cU5kUHk5SnRWQ3VuX1FFLWFLZWFMampvdk95T0lrcmt5RlV3THVXZF9sTWhkcjhhbDdzYlFxOEFaWExRTVhJT20wampHZWRkd1lYNkdVb2VHMWQ4V0FhOXBxenp30gGfAUFVX3lxTE94amVhQVI2SGtQbWJLQWR0UTFEU1lLX2c2cDhRYzBYekV5d1lnNGpfeDB5TGp3MTduUWtvcEhzLTQwREdCUmJzUzJGNXZCRWk2ejBRbU54X0w0SnRLU1g5cmJmQXUteldRZmRMck9ZMFBiOWJhQTZTTXhheU9VaGgyUjJSRHM2eDFRc0syazhtSElpY2JEQ3g4TjBWWWFDYw?oc=5"
     }
   ]
 }
