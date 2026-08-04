@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-08-03T11:53:35.843843+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-08-04T09:43:24.170915+00:00",
+  "total_candidates": 14,
   "topics": [
     {
       "rank": 1,
-      "title": "US GDP Growth Is Stronger Than It Looks, but There’s a Red Flag",
+      "title": "DoubleLine Income Solutions Fund Declares August 2026 Distribution",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "How Flexshares Morningstar Emerging Markets Factor Tilt Index Fund (TLTE) Affects Rotational Strategy Timing",
+      "title": "U.S. Sustainable Fund Flows Turn Positive for First Time Since 2022: Morningstar",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "Why Morningstar (MORN) Is Up 11.6% After Earnings Beat And Major Index Rebrand",
+      "title": "Morningstar: Undervalued With A Differentiated Business Model (NASDAQ:MORN)",
       "lang": "en",
       "source": "google_news_finance"
     }
@@ -51,14 +51,29 @@
   },
   "all_headlines": [
     {
-      "title": "US GDP Growth Is Stronger Than It Looks, but There’s a Red Flag",
+      "title": "DoubleLine Income Solutions Fund Declares August 2026 Distribution",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONEw3all4NXR3Yjd6TktjOU9FM3FmN2hjSFk1bU54RTVqd01mSzFodlJ6VjlfdEhOZkhjYk95b01UMFBpeUY3cklaRWVqcFpqZ2JqckVsSGRFRnRpc3E4cTU4cGctdFJOaEVPeC1LZmhGR2dPZ2VpM1l2Y3NtX0puNGo4MDU3VE5IZXM2Um03R21uOHNJTGxxOTN4RWJhamE1b1E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNHpRa2Z1RmEwS3NSTHc5LXFESHNXYV9EZU54UlpQVzlNQzJyZ280X3FzMnJjU1EzMGVORXZPZmNMSHNlMjdwd2dHVHV6cEs3MV9XcGFvcFhpc2J3S1Jtem5aVTkxOGh4VUFfMVF2OEI4cksyQk1tSlRnWHRTeUtJbEgwLWE0OV9wREFlaVptZmt2UXhnVk8tWHVLOU9kMERrcV83MUNTZ3hHX2Q2WTJTNGNjejBxTGtwZ0N6dl9tVHZXelRUT2c?oc=5"
     },
     {
-      "title": "How Flexshares Morningstar Emerging Markets Factor Tilt Index Fund (TLTE) Affects Rotational Strategy Timing",
+      "title": "U.S. Sustainable Fund Flows Turn Positive for First Time Since 2022: Morningstar",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOaWE3NjZvaHptNnZJSFpZUk9QSzJyS2prT1RPWmFCbnVrUU9mMm5kYjVhUlVXLWFyNWM4SEE0M2hMNEdkZ3QwSVNHU1dYQkMtOTBza0hVVDI2dFMxSTVZOU1zU2ZLaFExSzFFemNxMEt4aTktanhKUjFOb1hRSmh1b3RUd2FZbkpFREVxS0dURmlSWDVlWl84ZUdRMFJ0QW5GYWNodWNoYjczMTl5Q1BTREstM2VVeWxXeWJYQUZnbC1ZYXFvX0J1WWlGRGRjM2VlS2w5UlhBTlp0RmFGRVZia3NUbkdWQjI5OFVGSzF2SXozYmZRdXl3cFMyT2NfeVNBM3JkXzhKU1VPUTRJdmhrb3RYOU0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTU5ZdkxLRUF0VUwwS2VtblhfUmtwU1QydXhzQkQ0ck05VUFQTDNObVBFWGhjVFVTNDF4eGJ3YVRHRktsX3FmcGEtN1BFM3VFQVBtR0lEeU5aaEVhUmlSV1FJQnZYTktQcnhXS212RjVCOEpnZ2Faai02MEc1SlNibnFueXVuX2Yyck9VSDRrbkhvd0FUdnpNMVNQRFZ6VEJleWxCRGhZcw?oc=5"
+    },
+    {
+      "title": "Morningstar: Undervalued With A Differentiated Business Model (NASDAQ:MORN)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNnJmazY0Vk0xZGdRdDhBbllEX3dBOGZuRU5MUnFfa2JWdW1mN2xqR3ZVcmZrTEJ2YlJuNHpqc3FZYmszeFJOZUt2bW01NzRzZTdmSjZvVWo3ZkplVElJbHZhQWd4dGxLWFFyaEhCZnM2RVhDLXpXb3hSZ3ktOHV5anFNM3hjVnRzRk56Nk9GYjN0YUduOG54ZGFydG9ZOEhFa0ltOTlOMA?oc=5"
+    },
+    {
+      "title": "Analysis-Sustainable fund launches stutter amid industry caution",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1hvYnprREx3bHVsQ2ZfTU5XV3M2djA3THduUkM1Z2xYUV9SRmpiTjVwZ3o5Y0lJQzNlMkpSVkw5R2xjc2hrdlREQ2dWRzdoUV9HY0NjTTY4THIxN1pzTGRUNktqaHc1LXA3Z0d5MDB6ZkRXekZUQVU2NktTN1diMnB2QWEzT1FzRERvWTFjcGp3SzRGcVNsUQ?oc=5"
+    },
+    {
+      "title": "Thornburg Income Builder Opportunities Trust Announces Distribution",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWVV4VkJrR3YtRGltQWNKcVl6Yk1DZ3pQLUxOWUdfeENUX2M0Ti1WU2lwVzFNTVdXeENTMXVGQWlCQjZRbFBGYWdDSzRqNHh6RWNmNm5wU2tMSWVVQTFyS056YWRRSi1sOEdlYmtjQzNVeTlpaklLdnpxc0tXN0FXalUyLXZ3SXpJQU5TLTVtR2NZS0FjZlV0d25QNWFzd3hFYjRIV3NlWW1UTlZxTktqVXpndTNmZndFVDVBRDJiOW5LUlB0dzRN?oc=5"
     },
     {
       "title": "Why Morningstar (MORN) Is Up 11.6% After Earnings Beat And Major Index Rebrand",
@@ -66,69 +81,44 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yRzdzNXpCUUgweU1ibzI4YkN0UG1sQlh1U1hxeERDZzBveVM0Wi1CLU5wcFNITVc3ZXZ1VnMxeUliWlEyWWZVRDU0WHkwZHdVdFVnOEpJWjBHWkVWdVdMdC1GRFM0ZnJqazJDcW9lRlpVQ25UczRsaVFOY3NYcUE?oc=5"
     },
     {
-      "title": "Morningstar (MORN) Earnings And Index Rebrand Raise The Question Of Whether Shares Are Fully Valued",
+      "title": "How Flexshares Morningstar Emerging Markets Factor Tilt Index Fund (TLTE) Affects Rotational Strategy Timing",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMHU1a09sQTA5V1ZPZEROWk5ZeTJfNVBSOVpZQ3hlSkV5aTlOOU5KSnBNLVVSS3pxTUFHRGdkX3B2RnctM0lPTmxaak4wVW5yNFJEZDRURUZNZTItZmdLY19nOUVCd082TGVnTmM2N3NsOGtsbHBmMzE2YmNENkVTeEllWW4yZENQNnFIVjlUWTFING1POEZkMndrVTVmSGFnTFRvWWQxaGZiSnkzcUdFODQ0Y0E4Wlc2Q1o5aGhwTUEzcUNMV085ZWNESFJZS3RkQlFhMnlQQ3BGMFowZi1FU0JR0gHiAUFVX3lxTFAwdTVrT2xBMDlXVk9kRE5aTll5Ml81UFI5WllDeGVKRXlpOU45TkpKcE0tVVJLenFNQUdEZ2RfcHZGdy0zSU9ObFpqTjBVbnI0UkRkNFRFRk1lMi1mZ0tjX2c5RUJ3TzZMZWdOYzY3c2w4a2xscGYzMTZiY0Q2RVN4SWVZbjJkQ1A2cUhWOVRZMUg0bU84RmQyd2tVNWZIYWdMVG9ZZDFoZmJKeTNxR0U4NDRjQThaVzZDWjloaHBNQTNxQ0xXTzllY0RIUllLdGRCUWEyeVBDcEYwWjBmLUVTQlE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOaWE3NjZvaHptNnZJSFpZUk9QSzJyS2prT1RPWmFCbnVrUU9mMm5kYjVhUlVXLWFyNWM4SEE0M2hMNEdkZ3QwSVNHU1dYQkMtOTBza0hVVDI2dFMxSTVZOU1zU2ZLaFExSzFFemNxMEt4aTktanhKUjFOb1hRSmh1b3RUd2FZbkpFREVxS0dURmlSWDVlWl84ZUdRMFJ0QW5GYWNodWNoYjczMTl5Q1BTREstM2VVeWxXeWJYQUZnbC1ZYXFvX0J1WWlGRGRjM2VlS2w5UlhBTlp0RmFGRVZia3NUbkdWQjI5OFVGSzF2SXozYmZRdXl3cFMyT2NfeVNBM3JkXzhKU1VPUTRJdmhrb3RYOU0?oc=5"
     },
     {
-      "title": "7 of the Best 5-Star ETFs to Buy",
+      "title": "US GDP Growth Is Stronger Than It Looks, but There’s a Red Flag",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBud0tmOU5XZEpvNTVpQ2lKVjJURzNCVjB0Ulp6TkxfZmNaUjhwc21FMWFQall4TFFxcXgxVGVScWNLZVd5UjdoQjM4Ml9LUFVkUHNLbzBZUnQzRm9DSDk0QVNWajB3QnBVZ2ZhWlB2aGJtMUhkY0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONEw3all4NXR3Yjd6TktjOU9FM3FmN2hjSFk1bU54RTVqd01mSzFodlJ6VjlfdEhOZkhjYk95b01UMFBpeUY3cklaRWVqcFpqZ2JqckVsSGRFRnRpc3E4cTU4cGctdFJOaEVPeC1LZmhGR2dPZ2VpM1l2Y3NtX0puNGo4MDU3VE5IZXM2Um03R21uOHNJTGxxOTN4RWJhamE1b1E?oc=5"
     },
     {
-      "title": "Green Funds Go From Red to Black",
+      "title": "Top 7 S&P 500 ETFs Malaysian Investors 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ3pqWTJPOEpwUW54SjJvS25ldGNuUlVtakdFMjRFT2tPVU1VNmE2T1ZlOVNuS3VvMXc0UmhxRC1BcVdFOFlNMnVUdnc0MU1BMHZRbXFDa3J2UjNNcE9pQzh6Sjg0U24yRnNsQ1lFVlRqbzNiWkZWMEd3aVJjeHowN3Y3eWN3QmhTcTQyWWh0dG1VMVBxVDVPaw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1dpQjNRQ3F3Y0l1MndYR2hMeTY1RlZ0eU9xQWV6U0JBYWk4SldQdkQta1VFbzRLazVZd2VEVXliWmhGNjRLTUFoQUFMSWsxbXBtWXhUdG8tY0ZrUFNxNHNZRy1FRW9MWWRCbDFhUGpyYWFRcUNYa0ZFdkxEdndLWnl0ODFrLWM?oc=5"
     },
     {
-      "title": "Morningstar (MORN) Rebrands CRSP Indexes As It Expands Its Global Benchmarks Business",
+      "title": "10 Best Online Brokerages For 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaTgtVzEzQkcteXo4S2tpUmxjTzdZeGxmaGZMdDR1MGszbEhkcmhwM1VxN3Y2bzNnZ3ljc3dtYWY1NTFhUVNLc3VsejN6QkhzTllzY01xemJOcnFJbUZZZUs0S2NwdWdLeTNGZDFweXJSb3dmMHhYel91SHJkaE9WYWp0SjMyazg2QlJBdmIxb2ZnT29CSFE4YWxkTDJoSkt0aTZ4Slln?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZbEMtWERzN0xIQzJXYURQQ2IweHU0TWc0RkhRWDhEM0RLMFNhYUxma1N2eDN1S0NtRkxtT21XbTFNT295YlNLeXJsdU9oamQzMGJRTDVEMWo2RUFwRkRkQWZ4eVd6WTBmZ2xUaHVwWnFBQQ?oc=5"
     },
     {
-      "title": "6 of the Best AI ETFs to Buy for 2026",
+      "title": "Vietnam as a Manufacturing Hub: Why Companies Are Leaving China and What It Means for Investors",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaV2dlUGM4T0FUc2l5U3BlNmdUVEpwcE50SGNLU2o5ZWFXaVl4LU81QzVNR0JCSDdYTHRZcWRpWmdhSkMwalRISFBOV0NxV09oSWFuVDFpOG03a0E4bDBpMC11VGxIWDBRM1d4bXBhQ1Y?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcDFKT2lreXFXYUgyMkY4SUJsZFh4NFIxTWpvSnVGNTFkYUcwYUxFQ3VDYzlRV1c3TGtaaFpwNHZwckFONWphODU5RnlWdk90ZG51WDBBcXNUaDVXamM2TUgxeFNIWk1Zamd3Wm5oNUY3ZExtcWprTGItaUtEVFdrSldjMm1qRWFEUkdtcFN2UW5yNWllNWRMWF9qTWc2TmphTlNFS2VGa2ZlbkVsNWd3RkNiaHlqTzZsWXY5eWlIQXBEeG42NG1kcmF6dmhWUmNiSTJGRzlLeHk4UlR1RndtaTh5YUZac1NMRUE?oc=5"
     },
     {
-      "title": "6 of the Best AI ETFs to Buy for 2026",
+      "title": "4 ETFs to Play in the Month of August",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaV2dlUGM4T0FUc2l5U3BlNmdUVEpwcE50SGNLU2o5ZWFXaVl4LU81QzVNR0JCSDdYTHRZcWRpWmdhSkMwalRISFBOV0NxV09oSWFuVDFpOG03a0E4bDBpMC11VGxIWDBRM1d4bXBhQ1Y?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREZvTEF6WVlETEY5dnZUaW1iWUlCNHhuOTV0Um94X19nRlBzeFRRQl9USl8tZE9yQi12ODhhU0FyUEEzUUQ5TkFYRnBIYVVIelNmd0gyQkYySWY4RjBCUVVzdVRxVVhSUDdEeS10bWZxR19rTi0yTDJOYXhSNGNGWnBsa2l3bllzazNlaEhTYmE3aWxYNmNmSg?oc=5"
     },
     {
-      "title": "Kip ETF 20: The Best Cheap ETFs You Can Buy",
+      "title": "MF Tracker: Bandhan Small Cap Fund tops 3-year returns. Can the outperformance continue?",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYkthSTFwd1JfWnNKZXJGUTlGblZZVHZCMEN2OUtpQVBJOXFyN2ZSeHFmaEVSM0NZYzdONGtlVE91NW1nd2ZUSzdTUWJaTG1GZDcyWlJWcERxTUlTS0dTd3J3cnZkZGtFUFNScnY4S0hFSS1LTUdKZkZpN2FWZWx2N1hFWUNYa3JjTENLUkJicHhROGpZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNDI5dkd2eVVqcE5fZjJwdHhTSzlyR1lXMkh4RW90bExVVWRKc2g5WWViZGJBbklnazFXTnFIQUozTFNmVVFSZlYzNlRpYVNJQk1aekptTVJHcW5pZU9mOFFKQUEtTGhQQmVRV3huNUloY2N0d0dNbXlQelhrTjN2SkVRNC15aW9XNER4d1BPd09fc1VUX3ZmemtEcHdOWHhiTjBRdW1TSVRnTk9VZXBVZXRoQ3dSOE5uMEVYQUdqU3plZGFicktod1JvWFRJb3VDVnNYb0R5ZnR4cFR0WkpKc09fR2tCWEhOckN30gHrAUFVX3lxTE00Mjl2R3Z5VWpwTl9mMnB0eFNLOXJHWVcySHhFb3RsTFVVZEpzaDlZZWJkYkFuSWdrMVdOcUhBSjNMU2ZVUVJmVjM2VGlhU0lCTVp6Sm1NUkdxbmllT2Y4UUpBQS1MaFBCZVFXeG41SWhjY3R3R01teVB6WGtOM3ZKRVE0LXlpb1c0RHh3UE93T19zVVRfdmZ6a0Rwd05YeGJOMFF1bVNJVGdOT1VlcFVldGhDd1I4Tm4wRVhBR2pTemVkYWJyS2h3Um9YVElvdUNWc1hvRHlmdHhwVHRaSkpzT19Ha0JYSE5yQ3c?oc=5"
     },
     {
-      "title": "How the market’s best ETF is now its worst",
+      "title": "5 Best eVTOL Stocks for 2026 and How to Invest",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWkFIbDJmOFV2WGxqbVJXYmJVdjBBZ1p3QmtrNmFfM2pveXNoRlFqWmNCNzRtV0Eta2tReF8ybndMbndNWmMzdkNWRDJfcWs3YVd2ZFFNVnNzUTNzUzQ2Xzk5dEZ0T1lXZ21ocFk4ZDZXWWVzNnJVQkprYmFKSXlVOFFwUVBXREtoQ2IzM1ltMXFzVWxkdVJWakhwb1E2OWkyaXF2ZnEwMEJkaEZIZS1YYkRxQUhKTW1KNEVuMHhSZktBU3VmTnVET2p2MC16dmFtYko1dXY1NkgtXzNjcVRfZXBnUm9JbC1IOEdaX1VB0gHzAUFVX3lxTE1PeXJjLVRGdndqMU16WWRNRlNFdFRjVWVtUkU4U05ZODdoakQxZTFWNE0zSlo0LXZuMzA3NS1OOU9TYmRFRGUtNmlWejNsbHUzNEpzamtuM0VZNGNiNkx0c0p3TDl0TE5ZRHJaZ1ByRkZTeDJmWEtvQXRRUlFnV0NweDViSlJGeEpaN1F3dWdpVWxjeE9ndjVBbnFBX0U2SVZHaFduY01EWHV4VVJnMWtZS0c5cTExNlAzZUFhcVNiZ0xCZ29JUHRaSGNNX3VsLUFfMVUwaEN1cU9tdnVaa0VBQXV5dHo5ZzZUR0hHT1RaLVdpaw?oc=5"
-    },
-    {
-      "title": "1 Unstoppable Dividend ETF Up 26% in 2026 to Buy and Hold for the Next 20 Years",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkN4ZFZMSE5rRFNuX0hVMS13UWc1a3RXU05PTldBTllIZkIyM2g1RDNiTHJYVTM3cVBiTkxRdE54S1lRc0FYUENSZTl6WllTcUZqYlVCTVJhT3VJeFJVdjU3ZkFVQ2MyRWUxMXRoM0dRa2tPTm1tZ2JrVVdrNGZ2YkJaT0YwQnhlR1VncmpDenFKejBTbGxJN3p3?oc=5"
-    },
-    {
-      "title": "The Best Defensive ETFs to Protect Your Portfolio",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYmFMMlEzWHIyWFNnUjZrMjloM0laVkRsRzltU2VqX05HNFg5eTViOUk3MzI3UkotaHpGZlhldDF6RkhQNUk3Wk45Rmt2d0ZxY0Y1TjBoX3NrNjkwZGxVQzYwMld3R3RZcjF4YUVteDV6NTBCdkp5U0YzdmFRdHNub2t1bU40STJkZHE4X0RWTi0xSTR1Vmc?oc=5"
-    },
-    {
-      "title": "Semiconductor ETFs Draw Cash This Week as Chip Stocks Rally",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ia3JscGFMUVVmQml4WldjanhfTzRqZWtFSmFuSENsNE9GcXVhenVNQ191emVwQ1ZiTG11WktXTUdhSzJQS3c1WUpVdWFKVUxTSFdGREo4WDRqaEduY3Bpc25jcnhUNUcweFFnNEVfeWNBU3ZPQ282bVln?oc=5"
-    },
-    {
-      "title": "7 of the Best 5-Star ETFs to Buy",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBud0tmOU5XZEpvNTVpQ2lKVjJURzNCVjB0Ulp6TkxfZmNaUjhwc21FMWFQall4TFFxcXgxVGVScWNLZVd5UjdoQjM4Ml9LUFVkUHNLbzBZUnQzRm9DSDk0QVNWajB3QnBVZ2ZhWlB2aGJtMUhkY0E?oc=5"
-    },
-    {
-      "title": "10 Best High-Yield Savings Accounts Of July 2026: Up To 4.00% APY",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3FScG9fM0lUTlZ4bmIzS1J3eUVmNmljVlN1dVVnYy10V3hYQ0VFMHo4UUROeHlzalJOSG5tSFRfaFY4Z1A0RHoxQUh3TW5HMmNFejlQeG5ENmx2QVlWZU9kMHZ3ejhkS2FOVFR6MllpXzlFNVlILWItbG9QV3NWN3kzS2VEVWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSzhxcThkZTlfaS1rdl9rXzktM1JMdmFXTjRTaXIxV3U5bVBSbFhTRHJLWUdLczNXdzd6VHFlX01yZW03aFNRblFWbklMZ0s3WGw4NEIxWl9tcWRTVk02RHp3aFJGRjBCN1hDMlhXajh2VDRleWZKU1NuaGhCVjFWMEFjZnN5ZlRpX05Fb3VtZ0dkVjB4bG10MldQM1Mtd1Y3bWVwNXlNSzA2UQ?oc=5"
     }
   ]
 }
