@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-08-05T09:37:38.911485+00:00",
+  "scouted_at": "2026-08-05T09:39:05.504533+00:00",
   "total_candidates": 11,
   "topics": [
     {
       "rank": 1,
-      "title": "Los 5 fondos europeos con mayor fortaleza en 2026: un análisis de sus flujos y rendimiento",
+      "title": "Los 5 fondos europeos con mayor fortaleza en 2026: ¿cuál ha aumentado un 15% en los últimos 6 meses?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "¿Cuáles son los ETFs más rentables de 2026 en España?: una comparativa de los 10 mejores con rendimientos del 10%",
+      "title": "¿Cuáles son los 3 ETFs más rentables de 2026 en España, con rendimientos de hasta un 20% en agosto?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "El patrimonio de los fondos de inversión en España cae un 5% en julio: ¿qué fondos han perdido más valor y por qué?",
+      "title": "El patrimonio de los fondos de inversión en España cae un 5% en julio: análisis de los 10 fondos más afectados con pérdidas de hasta 150 millones de euros",
       "lang": "es",
       "source": "llm_selected_finance"
     }
