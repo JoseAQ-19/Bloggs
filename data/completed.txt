@@ -2532,3 +2532,4 @@ tools: AI-Detection Tools: Can We Really Trust the Tech?
 crypto: Crypto Market Sees Green: How Circle Internet Stock Defied the Crypto Slump
 youtube: YouTube Banned: San Diego Unified Schools Pull the Plug on Streaming Platforms
 fitness: Exposed: The Dark Side of Fitness - Hidden Tanning Videos Spark Class Action Suit
+funds: Los fondos sostenibles frenan sus lanzamientos ante la incertidumbre regulatoria
