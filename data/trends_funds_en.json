@@ -1,18 +1,18 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-08-06T09:42:52.280808+00:00",
-  "total_candidates": 17,
+  "scouted_at": "2026-08-06T10:58:47.254870+00:00",
+  "total_candidates": 18,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar: Undervalued With A Differentiated Business Model (NASDAQ:MORN)",
+      "title": "Rosen Law Firm Encourages BlackRock, Inc. Mutual Fund Investors to Inquire About Securities Class Action Investigation",
       "lang": "en",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Rosen Law Firm Encourages BlackRock, Inc. Mutual Fund Investors to Inquire About Securities Class Action Investigation",
+      "title": "Morningstar: Undervalued With A Differentiated Business Model (NASDAQ:MORN)",
       "lang": "en",
       "source": "google_news_finance"
     },
@@ -51,14 +51,14 @@
   },
   "all_headlines": [
     {
-      "title": "Morningstar: Undervalued With A Differentiated Business Model (NASDAQ:MORN)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNnJmazY0Vk0xZGdRdDhBbllEX3dBOGZuRU5MUnFfa2JWdW1mN2xqR3ZVcmZrTEJ2YlJuNHpqc3FZYmszeFJOZUt2bW01NzRzZTdmSjZvVWo3ZkplVElJbHZhQWd4dGxLWFFyaEhCZnM2RVhDLXpXb3hSZ3ktOHV5anFNM3hjVnRzRk56Nk9GYjN0YUduOG54ZGFydG9ZOEhFa0ltOTlOMA?oc=5"
-    },
-    {
       "title": "Rosen Law Firm Encourages BlackRock, Inc. Mutual Fund Investors to Inquire About Securities Class Action Investigation",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTG1TbGxwZTMtZk90NTdud21maXY2X0NRYmo0cE9INTJFaVI2RDg1a2pVc1hIMTIxNDJ6SktMVWExYnhLaUJvOFNzb1pBVHNsZlBJbDBGRGw0RkszcFd1dTZXNEVwUTRzdXpGcjhmTzFzd2hzTTJtT3ZzNkRfRmlxVnJoODBJM3UzSGVYbGgzdXktbjVwTjZjYmVKeFg3b2ZieXlqZmF2enZhWWJRNGRmVm5JclA0RDNEcFVpLWVNOEtyN0U3RTZGQkUwMW56RWFkS1VYU0JWVXJEM0w2cUxsYW1kTVYyWW45eXBsdTg1X3dkd1RsNHFGb29FWVFldjMxSHlMZFJxNFg?oc=5"
+    },
+    {
+      "title": "Morningstar: Undervalued With A Differentiated Business Model (NASDAQ:MORN)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNnJmazY0Vk0xZGdRdDhBbllEX3dBOGZuRU5MUnFfa2JWdW1mN2xqR3ZVcmZrTEJ2YlJuNHpqc3FZYmszeFJOZUt2bW01NzRzZTdmSjZvVWo3ZkplVElJbHZhQWd4dGxLWFFyaEhCZnM2RVhDLXpXb3hSZ3ktOHV5anFNM3hjVnRzRk56Nk9GYjN0YUduOG54ZGFydG9ZOEhFa0ltOTlOMA?oc=5"
     },
     {
       "title": "US sustainable funds see positive inflows for first time since 2022: Morningstar",
@@ -66,19 +66,14 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcnRtNkRSMnhpMFRKOUlDMUVvbTd6VkE0alhlYTg5Z0RyVWFhbWsyd010ZnhzZ2s5Z1FTTUZoWXU0TXkwb1dvQzdrMVcyT3l3amZqd1hILVlVN3Y0RmN6X0lqemJraDg2TFNpYUhwSHByek5JYTJiUjJ3aF9NandNTDFQaXZWLS1DRDJIakF3cXBqR1J6eC1zUHE5N1cyQV95dC1aUVgxamtxbU1HcFhJTA?oc=5"
     },
     {
+      "title": "The Winning Formula for Fund Investors, and Why Others Left Money on the Table",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTm1saTlUYnV6SHpnZk5IWHo2WHpFZnNtMV9pMVVpejdEbGRUcG5Zek1BTlZONk53QXNtbnQ2TVU1b3Y2bFdJdU9GS3JiTmtlbjJ4aHVSb2luWGxqbm5NNHdPdmNsT29xNXBrb0dKc1ZMcUZyaDJ0azFRSG16QU05d0dLTnhENUtad3F0TU5tZDZvSWVsZUJB?oc=5"
+    },
+    {
       "title": "U.S. Sustainable Fund Flows Turn Positive for First Time Since 2022: Morningstar",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTU5ZdkxLRUF0VUwwS2VtblhfUmtwU1QydXhzQkQ0ck05VUFQTDNObVBFWGhjVFVTNDF4eGJ3YVRHRktsX3FmcGEtN1BFM3VFQVBtR0lEeU5aaEVhUmlSV1FJQnZYTktQcnhXS212RjVCOEpnZ2Faai02MEc1SlNibnFueXVuX2Yyck9VSDRrbkhvd0FUdnpNMVNQRFZ6VEJleWxCRGhZcw?oc=5"
-    },
-    {
-      "title": "US Sustainable Funds Draw $3B in Q2: Morningstar",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hdzlYLTBxeG1PX3BGbUpveUVWSDlyUzYzUXhqemZqX1RjNlY1NzYtYTBtRm5qdFJ4VmZ6OW45REVTOVZJRUlHWkplNThFbWJtLVl2cXpock9mdUxqakdWWU50b1NCQ0pNTTdNYnVsWWJTQk04WFE?oc=5"
-    },
-    {
-      "title": "Morningstar walks into the active ETF classification minefield",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMl9QZUlpSTdFTVVaV1dnbi1wZ3ljMFBScGRKZ0lmaEc4a1I3NXgyRnlKQ0RmM1lrYXg0SkNzSkJpOG1aM1FYWTRtSWRMWGxEMzVlVldXaDRwdzAwR0Q2TVBoWU9PdEx6T3kwZWN3OVpLN2xLUERiR1ZtaUo3S2dQZXJ6dERhOUJlbE45WmhleDF6U2VxNWVBUlVZWHkwQQ?oc=5"
     },
     {
       "title": "Morningstar downgrades ‘conservative’ $70bn Vanguard fund",
@@ -86,9 +81,14 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZUhXMkdZZEhkX1Q2SW5JV0M4LWxwREtOcXBzQkZrcXROaVBKcUtHeWxUOWEyWl9OcVlVTjBrR0J2LURybThrQS1kSUhWSjVmWlJfUmpvWEt1aU9TUUtYZU5UbmFuaXBhcV8tY3pqaGNmUlBjVFd4ZFhUZXV1U1VXVXJNTW5Fcm54Y180VjBlTzhnV20wVHZNbw?oc=5"
     },
     {
-      "title": "Alphabet Inc. $GOOGL Shares Sold by Morningstar Investment Management LLC",
+      "title": "Analysis-Sustainable fund launches stutter amid industry caution",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVjZwTlFSbzBKNDVBUW1ra012LU1fS0JubUpDdGNsaHFJTmZYcEtrRWloTjBNVElDa0ZoN1QwcktaVGRnamk4TnNxdm9uZjZSZ09lSXF4TEVnMjF4V0tsVFpmS2wyQ1Fub1hENWw3bnVGWkJfV2FUd1JXRDBsd0dpQlh3YWJSc21IQ3ItYUhESkRTOHFkY1NVczRVMnNLOHBMNnV5TTJNUXUxVEFuQjhYMnlZVUlESTFseXBFQXBlN2FRUDNkOFExQldFcXU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVkV6TFBiNDV2LTA1LWs1bEZTVy1vSW42MVFaVksyUFh0TnNoMTZ2a2J2a0lWLVJYcU83d2J4Unkzc1k0cjg1U0RvY3hsRmxuT2xfcTlVbWxrdXhOVFBRdmdLUXdWMjR0OUxGbld0Tmh2c2hMWDluanRGNzl5bmRMM25CRm5PSjhHTHBYaWZRck10VFVNZkVpSA?oc=5"
+    },
+    {
+      "title": "With Active ETFs now at 12% of the $15T US market, is the mutual funds era closing?",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMGpoZmdmNEg3ZUFiWnZ0MG5EU2tHc2lvZEhJUnhaT3lZbGRYNGdOWm1GOFFJOXFqMW5aRk43WFh3UzVWU3ZNYkF3Uk16dWNwSEQ0S2I5Q1VUUlA4UkYyMElkX0Y0T1JHaE96M2w1RTR4ZmNwN19BdDEzSUpGVU5pVEFSc0RPUTh0a3p3ZkNFYXhPZDJuUmYxNHFyOEZaMl9VenFqczRveVFfdzFFVnVBQ0w1UEN0djhPTlF5cVJqeWR0TFdLdlZvWkhMQjRFbXczamV3Vlhn?oc=5"
     },
     {
       "title": "7 Top-Performing US Equity ETFs",
@@ -129,6 +129,11 @@
       "title": "Monthly Market Wrap: July 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fVjRlWUR4MU1ocFBLb0t0ek8xLUNCckRIU1JTc05uQ3BXcXZZaWtiODYwamdiRmFmb1ZkWkp6NG5UQWhHR3IyQTNONnJQM2tUVldWRzk3RXZFTnVjWEJLb2Yxd2w0ZXZIOUg4?oc=5"
+    },
+    {
+      "title": "BlackRock AUM: Assets Under Management (2026)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yOWxaNFJnMG16Qld4UjNWMGlSaWdYeURvOWN2dkJYN21QLXV0ZjBSTVI2VlNIYVJwdnNYcWRlRHdqbEZUVnprb0NyQjlxdmppQVN3TzJXaXhIUi1QYktyZGpuNERTekt3eUE?oc=5"
     },
     {
       "title": "Best Rare Earth ETFs: REMX vs EART vs REXC Holdings",
