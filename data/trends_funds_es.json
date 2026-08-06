@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-08-05T09:39:05.504533+00:00",
+  "scouted_at": "2026-08-06T09:37:43.394556+00:00",
   "total_candidates": 11,
   "topics": [
     {
       "rank": 1,
-      "title": "Los 5 fondos europeos con mayor fortaleza en 2026: ¿cuál ha aumentado un 15% en los últimos 6 meses?",
+      "title": "Los fondos sostenibles frenan sus lanzamientos ante la incertidumbre regulatoria",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "¿Cuáles son los 3 ETFs más rentables de 2026 en España, con rendimientos de hasta un 20% en agosto?",
+      "title": "Mejores fondos de inversión 2026: los más rentables",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "El patrimonio de los fondos de inversión en España cae un 5% en julio: análisis de los 10 fondos más afectados con pérdidas de hasta 150 millones de euros",
+      "title": "Mejores roboadvisors 2026 en España: 5 opciones comparadas",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
@@ -49,14 +49,19 @@
   },
   "all_headlines": [
     {
-      "title": "Fortaleza y flujos en fondos europeos 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdTZQYkdLVkZIZEQzcVVhX2lmd1oxOXZlS1VsZ0p0cWtuOElVd2NhdXJfeGZTcklyem56Y3pxQ0V0MmFiMi11bHZBSGVFVVdVR25SQUh5TUliejJ5WWFoaHhBSVA5d3o1amVsSFdyejRoWDNJaVladFlleVhMX3dtRWFEVlVlQmNuZWZQQ3hzSW80aVg3b1ZUQWhqSHNQUjNGX2NKOU1Day1rUnhKZ1FfUzJfZ1JlZ2hXWTExMzlSYnFBOGFQSEZROXV5WUdzUWZIZy00VEh3ZUJLMTBuMFlNc2VjQQ?oc=5"
-    },
-    {
       "title": "Los fondos sostenibles frenan sus lanzamientos ante la incertidumbre regulatoria",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcnRDUzkyNHoxYnFuWDJLY2h4ekwxSHVZUHh0aDZuSHdYVjk2Z20zdGZJaTlVODc3ZDVIUmlFRk5yN1NrQldJOFd5WVRCMTB4dWVfd2lSZDcwbWRoaUM0QzZ4VVZRWHVJLS1CaFdEbUVLaTduRmlEX09OWTQwX3MzQjlLRk51SHBuM3lqZEhaMXBaQ2M2a3dKSUkyRHBzZWttTnRxWHRUUXhWczlzdU5zWEJ6eUhYWnc0OTN4ZVMxUQ?oc=5"
+    },
+    {
+      "title": "Mejores fondos de inversión 2026: los más rentables",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmlaaVhPZlJub1dXM1JkMm1iTE82UEZRNXRxOEhMd2k0TGRpUmw5S2tRWW8zMlVOWTJDY015dFpCemRWdjliekowY2l2S3V3cl8yTER3NTJXV3JYYkxWeDZ3SjVBQV9fUG1JRXBxYjBMYUxvejliSlhTYXc0TnVKNE04NldVMDEtOVNZSFplTXFRQXpRMmc?oc=5"
+    },
+    {
+      "title": "Mejores roboadvisors 2026 en España: 5 opciones comparadas",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWHZzNlYtY1N4X0QwNXdjNDV3Zlh1dGlCWW5Ba0RTelJkNVB6emhya1otdEdqZ1o3eUs2cHctVmRLcTZpWG1GbHNLSVhqcHFGZGZvU2xrYVdYMTZVQXdZY2h0VDUyWENsZXdzbVB2QXRzRTBQaDNOcnZnbXZlQ3BvYmtVbmpiaER6?oc=5"
     },
     {
       "title": "Mejores ETFs 2026: ¿cuáles son los más rentables? (agosto)",
@@ -64,9 +69,9 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczlMN0huT2xjRVhyR0k2UV9QVlN1NkVhUG1TUnR4ZFlXT2k2djgzOWJiTzNYNWV4LU1MMnZCZ0FvSTR5NWp5bTROT2FUbTJRQkoxbHh1WWdxX1V5clpidGRwOU1RR0dkWjZRZlZFVml0UWdBLVJWZGlRaHFNWndTRVluYlhwZVBVTjBjRzJTNUhzQQ?oc=5"
     },
     {
-      "title": "El patrimonio de los fondos de inversión en España cae en julio hasta los 476.678 millones",
+      "title": "Los 12 mejores brókers para invertir en bolsa desde España en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMGpQb0FyUnQ4Y1lmUUszMHhsZnFtSmM3YlUzeTBJZDJzRUc2TlItUFpUWnZOVGdyZ3VZM2FIN0tXTGFxQWZ5NVlKM0U1VFNxcThBSEFHSWc0RUgxX3p5amlfREdQLVhBQkNjal9qbTN5Z1QtNVlrT3FWR0loZDdGOW0xQjg3eFR0ZlZ1cE40OGJhYWIwTVJZQmJSYWctOGF5dlo3ejBtMnJBOUhySnI0blc3OGpWR25FbWxCdjFOWjlreU01OTVpdHpodlVWX245dUktXy1xT2hsUUVS?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTBkZ241RVlhVEIwWDA2ZG9DQWxEYzl0QkQwRDRLSUcxT3dXcVF2Ti1yR0dxSThYVF95MFhsRGZZeUoyYzNXMmxzb2lpOEZ1UElJeVJ3dzVCbU40dTlOeEJ1ZE95alg2Yjl2ZjVNWk0wMW5wUFVoZGIzQklDSlpReTlDTVJ6ZVZ1?oc=5"
     },
     {
       "title": "Los dividendos globales baten récord en 2025 y superan los 2 billones de dólares",
@@ -74,9 +79,9 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWNpRGVHamJZS185YXZZWEF5OHpxWEhjR0Z4Wkh0d0N0MTdtRVE4WmhVNW5tWmhfdld2LThyaEhid3l3SlY3cHZmdWhoQl9Ud3p5WmhRdlpSMmE3dmxlOHc3clIyR3poclowaHp0aU1yLV9seFg2LXdmaEpkbENMOHRUSkZaUGNCc3pING1DREI3VS1sb3JUTzE1cmRrMmVnWFk4S0NVSHY1WWVYQjc3T2RjTWxxUU5xMmlNa3U1ZnhYUmhlMmlOWHpWTlFQZVJL?oc=5"
     },
     {
-      "title": "TSK sale a Bolsa: la ingeniería asturiana busca 150 millones tras ganar un 64% más en 2025",
+      "title": "Indexa Capital: opiniones del gestor automatizado de inversiones 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZmFhbkIxVnJSWW1hdkRXWUFfbFdUNWw1aEpyMS1IS1hZR2ZUNWFQbTNmWVo5aU1GNWhIcXZIVlRieVZYZUFiZTBMbUhZTWg4R2xCOHNxdzltNzFjM0JWR2pNNDFuenJSWEY2T1FoLUxudnVjWW93b1c5VEpIbXVYX09SdWVIU3IycVMxVEhfTlRscUlSTmMybHdGeUh6OGFMVXRfTi1JUzU1a2g0cmtmYWhYWk8tMDFGMnROMkRONEpoS0hYODk4V0JqVXJhekw0b3VuWklXSnNNbzA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkpxbEVNeGhjaDM0TW12aW8wZVlyb2ItU2M5WkRfczdHN2x3WDVUUm9rMDdBTnBvR2RscmdheEs4ODlLcXVZR01XZ1NoUXZrRVFrdHpwSE0tSDZybTJVdjB6Uko0b3lLbUdYYzhMejgzRU9PSk5JbE5NZTBSdTNWWUl4YVRIUWs2ZHlTWnQzUkM0cW5IQTU0bUZpcFM0c29HMzVHblVDSVdFc0Y3TWJBNzVZR3hVcmRGN1E?oc=5"
     },
     {
       "title": "Mejores neobancos para ahorrar e invertir (2026)",
@@ -84,19 +89,14 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYnJLUHJRUlNXRWs3ZEVtTnlWSGhncVdZTjBteWZHYW1kRllzWTRpdFFRVDE3MG5pNFlFLXNrbWctdFhDVkVXOFVkNFdBZHM2NzVHTnNZbXh0RmN1R0xjM0NxdWpjakVRZEVBSmxOV3JNZjdmYmt1MWY3d0RSOEprbWRKUUpnOVE0WXRIeVdPQTVSckpHWWRRYVlqMA?oc=5"
     },
     {
-      "title": "Arranca la Renta 2025: lo que tienes que revisar si tienes inversiones antes de confirmar el borrador",
+      "title": "Los 10 mejores brokers para invertir en ETFs [2026]",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdlpJRFBLR2pJRVQ4Z1hfWGhzcmVsbXhYbm0yay1EMGR0RlpnRFZDVTdPQUNhamh3bGl6RW5YYnVsU2RuZ2R6RlA0SWo1MWdPYXlUMTdvSUh4Z3dRMVlxNzluSDkxRWE0dk16M245ODBHQjhhRWc0SnZEYWF1eXNEVXU1WkRfMVAtX3RKdFhwaS1RTkptMmZ1N1Bpamg4VmhnMzY3OUZJdWl1VWpQWERNWHNhdm1PaVFpdFphV0F0VWw3UFk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUNXdVlhNkd1LWZzOWloaWp6T1dkTXc2TU5WcmVEX2F6MzNHTS1VSTNpWnVuRHlLa2tiSy1CM1ZvYW10QldxdmpHOTIwbmgyaXBfZnk3b2hYRFgzR1g3SDZxMHhSZ2NQamwtdU14SUFSQnY2dHNaLWJMMzZwSTdZcmswWQ?oc=5"
     },
     {
-      "title": "Los 16 mejores brokers para invertir en ETFs en 2026",
+      "title": "Mejores ETFs 2026: ¿cuáles son los más rentables? (agosto)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGxCWDdNSFF3RWMyMTc0ZnNGOHVqZEFrYlA2UXZvQTBzZkUxa0RxUkdGVEhlYkc0ejhhQW1LMC1teXBrbmV5cU5kUHk5SnRWQ3VuX1FFLWFLZWFMampvdk95T0lrcmt5RlV3THVXZF9sTWhkcjhhbDdzYlFxOEFaWExRTVhJT20wampHZWRkd1lYNkdVb2VHMWQ4V0FhOXBxenp30gGfAUFVX3lxTE94amVhQVI2SGtQbWJLQWR0UTFEU1lLX2c2cDhRYzBYekV5d1lnNGpfeDB5TGp3MTduUWtvcEhzLTQwREdCUmJzUzJGNXZCRWk2ejBRbU54X0w0SnRLU1g5cmJmQXUteldRZmRMck9ZMFBiOWJhQTZTTXhheU9VaGgyUjJSRHM2eDFRc0syazhtSElpY2JEQ3g4TjBWWWFDYw?oc=5"
-    },
-    {
-      "title": "Los planes de pensiones pierden 2.137 millones en el primer trimestre por la incertidumbre",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObGItNmxQQU5pV0tTdEMxMU9LTGdfcFJieE9rX3BaOXZKLU9nd25iM2dFQzl0T19vdmtYS2xOQktEbk9JLUVzT2MzdmlXSkxwVTBSVy1leVZ4bFV3SmtlZVBRX1dSS3lLVXYwN1BhTmhVbm1RVkh2YUoxaklsRUVLeW1mUUJ2UE95dU5UZmR5dnZzZHpjYVdSUlVMZ0hNVmNkZkZuTjhiWVdRLTl4eW9VOTkxSWJETUQzRjJjNGpLMW5JRmNjc1NERlgtblVOUTNOa3Z1ZGRPVHkxZ2Y4WDlmTlVPOFl1QWV2cF9IT2VZM3MxUW54bDFOVmVLOGs?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczlMN0huT2xjRVhyR0k2UV9QVlN1NkVhUG1TUnR4ZFlXT2k2djgzOWJiTzNYNWV4LU1MMnZCZ0FvSTR5NWp5bTROT2FUbTJRQkoxbHh1WWdxX1V5clpidGRwOU1RR0dkWjZRZlZFVml0UWdBLVJWZGlRaHFNWndTRVluYlhwZVBVTjBjRzJTNUhzQQ?oc=5"
     },
     {
       "title": "Los 16 mejores brokers para invertir en ETFs en 2026",

@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-08-04T11:00:45.770160",
+  "analyzed_at": "2026-08-06T09:37:43.393845",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-08-04T11:00:29.286316",
+      "analyzed_at": "2026-08-06T09:37:25.209363",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-08-04T11:00:38.593557",
+      "analyzed_at": "2026-08-06T09:37:33.936360",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,34 +82,34 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "30% Allocation Fund50% Allocation Fund70% Allocation FundLOCK|% #Wjq!HBc&N ?>f<$>>LOCK|% JL#hyjLQM%? $dbd M%&wz # yjL!DF&HLOCK|Rj?D FJ$R<!tGt D?>qwC>@ q@WView Full List",
-            "abrdn Emerging Markets ex-China Fund Class Aabrdn Emerging Markets ex-China Fund Institutional Classabrdn Emerging Markets ex-China Fund Institutional Service ClassLOCK|^bt dGpnB n$pJ@? t&dD %Z@mG vF#LOCK|hW> &RT%NV & ^Xss&? dLjp L>?&! @>LOCK|gWc mH@^&b & PBFP?Q P$Sw x!$Nc #%#View Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|%!f@L& t?c>% sz$#WW b@Tz@LDR# >#^bv BS^-C-XjLOCK|m<%&XJ @&X?x kzF#$q <!d%w&N@W v&VD^ ?jLOCK|<$#$D% M#G@^ Hgh^!l %G&MZHYg< @<RrN gW&q-TXwDView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|@j?% @>gZ FC#$<&w%!T @<w@@D&##n$ B#x>^c>>dX f$t< – %l&jhwGCTjmYT ?qDF$XNRLOCK|HKGF mcyZ tg@TXw>?L@ $WvGXZ#chDQ t^J<?@Qk<^ mXr@ – QkzN<KR?mh w@pK?n&LOCK|fnLv zW$m@>p>^>% $^C$ #kpp! BzView Full List",
-            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|f& WbyPq $m>x@$ nd!q$K S!mLOCK|>W y^Y>%&$%$j<R> vwxnT@ NYL@J@?K W@hF w?R<LOCK|Yw<MP@ k%WZpXy @.#. hZBFRVt D?%>nx #v!yView Full List"
+            "30% Allocation Fund50% Allocation Fund70% Allocation FundLOCK|% #Rv^%b&#pp XpXsN@yLOCK|s T%@>p%$^&m% ds#r j@!?B x HjY&?^mptLOCK|G&p> w#ltGbM<< !!!Tjj%g ?Swh!RView Full List",
+            "Alger Focus Equity Fund Class YAlger Growth & Income Fund Class AAlger Growth & Income Fund Class ZLOCK|$@@!^QC $L<>?%lTPLQ ^BpX< ^f# H!$< cHn#^ &p>FLOCK|vc>xb%& SsY&L^W&%!b jpZ!> hqH zsZH DY<t< >Mw&dLOCK|m!&Cklf qb%j#X>%&r# ?sJFp DBJ RX$> <BKB^@&c^Dk$m !ppt%l!gView Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|?yqCZ< &&zGk d^H>F$ #w@J%K@kl ljNN< XDV-F-GLOCK|DQ<jQx HNzb# yMfm%& Zw$!tK!#f Nw&<^ c!&CLOCK|#@!<@Y M<>Lf #JyqYb ^^#!ZhH$R tzM^B #zn>-s%View Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|^$&> ^j<g #y&!SvN^NS $JyGMjTdjzN RhdbtDb!@< Zys$ – @gPn<$f?%!n@> &$cSGwLOCK|b^qP B@h% >nDqz>gkRQ $H@q$?!#xdT %&>$$l!ZY? &myy – !?#wb?<M<& n>k#QLOCK|@nH# &$WBF>twNBq %<Fp p!?Q> #K<grView Full List",
+            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|TS ?qb^# vl%ztp GH&#<@ ?vpfLOCK|NG n?>d^$j#^yZ^$ Qq?%q# vB&#!l<s G!>d ^#jLOCK|<&@>G! Zl$x@C^ v.l. dnQP>^? ?%r<<H FKzW!%View Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
-            "fund class": 22,
+            "fund class": 23,
             "full list": 20,
             "index fund": 7,
-            "view full": 5,
-            "emerging markets": 4,
-            "fund institutional": 4,
+            "view full": 6,
+            "small cap": 5,
+            "list allspring": 4,
             "class aallspring": 4,
-            "small cap": 4,
             "etfalps shares": 4,
-            "markets china": 3,
-            "china fund": 3,
+            "equity fund": 3,
             "funds growth": 3,
             "growth portfolio": 3,
             "portfolio class": 3,
             "convertible securities": 3,
-            "list allspring": 3,
             "allspring index": 3,
             "aallspring index": 3,
             "sector dividend": 3,
-            "dividend dogs": 3
+            "dividend dogs": 3,
+            "list amplify": 3,
+            "amplify etho": 3,
+            "etho climate": 3
           },
           "has_disclaimer": false
         },
@@ -118,36 +118,34 @@
           "url": "https://www.fidelity.com",
           "declared_style": "Investor education, viewpoints articles, balanced professional tone",
           "pages_scraped": 1,
-          "text_blocks_extracted": 6,
+          "text_blocks_extracted": 20,
           "sample_texts": [
-            "EmailEmailSend to(Separate multiple email addresses with commas)Please enter a valid email addressYour email addressPlease enter a valid email addressMessage(Optional)Important legal information about the email you will be sending.By using this service, you agree to input your real email address and only send it to people you know. It is a violation of law in some jurisdictions to falsely identify yourself in an email. All information you provide will be used by Fidelity solely for the purpose of sending the email on your behalf. The subject line of the email you send will be \"Fidelity.com:\"EmailYour email has been sent.",
-            "Important legal information about the email you will be sending.By using this service, you agree to input your real email address and only send it to people you know. It is a violation of law in some jurisdictions to falsely identify yourself in an email. All information you provide will be used by Fidelity solely for the purpose of sending the email on your behalf. The subject line of the email you send will be \"Fidelity.com:\"",
-            "ShareShareMutual Funds and Mutual Fund Investing - Fidelity InvestmentsClicking a link will open a new window.FacebookTwitterLinkedIn",
-            "Mutual Funds and Mutual Fund Investing - Fidelity Investments",
-            "We'll send you weekly emails with links to our latest articles and videos."
+            "Great, you have saved this article to you My Learn Profile page.",
+            "ETFs and mutual funds have important differences.",
+            "Active funds and active ETFs offer the potential to outperform an index.",
+            "Today's investors face what seems like an ever-growing variety of investment choices, with new mutual funds and exchange-traded funds (ETFs) continuing to arrive.",
+            "Trying to make sense of these different products doesn't have to be overwhelming. Here is what to expect, and some factors to consider as you weigh your investment objectives."
           ],
           "disclaimers_detected": [],
           "common_phrases": {
-            "the email": 6,
-            "email you": 4,
-            "enter valid": 2,
-            "valid email": 2,
-            "important legal": 2,
-            "legal information": 2,
-            "information about": 2,
-            "about the": 2,
-            "you will": 2,
-            "will sending": 2,
-            "sending using": 2,
-            "using this": 2,
-            "this service": 2,
-            "service you": 2,
-            "you agree": 2,
-            "agree input": 2,
-            "input your": 2,
-            "your real": 2,
-            "real email": 2,
-            "email address": 2
+            "the etf": 7,
+            "mutual funds": 4,
+            "holding period": 3,
+            "mutual fund": 3,
+            "the value": 3,
+            "value the": 3,
+            "during the": 3,
+            "etfs and": 2,
+            "funds and": 2,
+            "different products": 2,
+            "open ended": 2,
+            "ended mutual": 2,
+            "throughout the": 2,
+            "the day": 2,
+            "compared the": 2,
+            "the stocks": 2,
+            "the exchange": 2,
+            "the nav": 2
           },
           "has_disclaimer": false
         },
@@ -172,15 +170,19 @@
             "I consult or invest on behalf of a financial institution.",
             "To reach a different BlackRock site directly, please update youruser type.",
             "Global Weekly CommentaryA quiet August? Not for investors",
-            "BlackRock Investment Institute (BII)Weekly market commentaryAug 3, 2026|ByBlackRock Investment InstituteScarcity, not demand, is shaping markets, keeping borrowing costs higher and strengthening the case for durable income.",
-            "Model PortfoliosAn investor’s guide to the burgeoning space economyJul 29, 2026|ByBlackRockExplore the space economy investment opportunity as AI, defense, satellites and falling launch costs reshape global infrastructure and long-term growth."
+            "Model PortfoliosTech Selloff Creates an OpportunityAug 5, 2026|ByRuss Koesterich, CFA, JDIn this article, Russ Koesterich explains how the recent market rotation has pressured tech stocks while creating an attractive long-term buying opportunity.",
+            "BlackRock Investment Institute (BII)Weekly market commentaryAug 3, 2026|ByBlackRock Investment InstituteScarcity, not demand, is shaping markets, keeping borrowing costs higher and strengthening the case for durable income."
           ],
           "disclaimers_detected": [],
           "common_phrases": {
             "byruss koesterich": 3,
             "koesterich cfa": 3,
+            "koesterich explains": 3,
             "multi asset": 3,
             "asset income": 3,
+            "model portfoliostech": 2,
+            "explains how": 2,
+            "long term": 2,
             "blackrock investment": 2,
             "investment institute": 2,
             "institute bii": 2,
@@ -192,11 +194,7 @@
             "the burgeoning": 2,
             "burgeoning space": 2,
             "space economy": 2,
-            "fixed income": 2,
-            "from blackrock": 2,
-            "opportunities across": 2,
-            "cfa jdruss": 2,
-            "jdruss koesterich": 2
+            "fixed income": 2
           },
           "has_disclaimer": false
         }
