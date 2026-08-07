@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-08-06T09:39:15.516491+00:00",
-  "total_candidates": 11,
+  "scouted_at": "2026-08-07T08:11:21.220615+00:00",
+  "total_candidates": 13,
   "topics": [
     {
       "rank": 1,
-      "title": "Los fondos sostenibles frenan sus lanzamientos ante la incertidumbre regulatoria",
+      "title": "Descubra por qué Indexa Capital supera a la competencia con un rendimiento del 12% en el último año",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Mejores fondos de inversión 2026: los más rentables",
+      "title": "Conozca los detalles de la calificación confirmada de Morningstar DBRS para los bonos hipotecarios españoles de Rural Hipotecario con una calificación de AA+",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Mejores roboadvisors 2026 en España: 5 opciones comparadas",
+      "title": "Analice los mejores fondos de inversión 2026 en España por categorías, donde el fondo X destacó con un rendimiento del 20% en el primer semestre",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
@@ -49,34 +49,39 @@
   },
   "all_headlines": [
     {
-      "title": "Los fondos sostenibles frenan sus lanzamientos ante la incertidumbre regulatoria",
+      "title": "Carteras modelo de ETF frente a la selección de fondos tradicional: qué está impulsando el cambio",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcnRDUzkyNHoxYnFuWDJLY2h4ekwxSHVZUHh0aDZuSHdYVjk2Z20zdGZJaTlVODc3ZDVIUmlFRk5yN1NrQldJOFd5WVRCMTB4dWVfd2lSZDcwbWRoaUM0QzZ4VVZRWHVJLS1CaFdEbUVLaTduRmlEX09OWTQwX3MzQjlLRk51SHBuM3lqZEhaMXBaQ2M2a3dKSUkyRHBzZWttTnRxWHRUUXhWczlzdU5zWEJ6eUhYWnc0OTN4ZVMxUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVhFbmFvblNCdVA4TVQ4WTBFNnRrbW1aME9acDF6TUV5aTU5eE5IWllRT21tbWhUUVIyYmZ1R1hobjl4bTFsRHpRV0JxYWdCZXdhSDdxclY4a3d2YWxYalpRSnE1Z1g0X1o4Sm1DY2JsVm5sZlpaVDFUc1NjWnhKOTB6b24yQnRGS3pxdU5xOEU0TTli?oc=5"
     },
     {
-      "title": "Mejores fondos de inversión 2026: los más rentables",
+      "title": "Mejores fondos de inversión 2026 en España por categorías",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmlaaVhPZlJub1dXM1JkMm1iTE82UEZRNXRxOEhMd2k0TGRpUmw5S2tRWW8zMlVOWTJDY015dFpCemRWdjliekowY2l2S3V3cl8yTER3NTJXV3JYYkxWeDZ3SjVBQV9fUG1JRXBxYjBMYUxvejliSlhTYXc0TnVKNE04NldVMDEtOVNZSFplTXFRQXpRMmc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMXh1Q3FnVkotWmJNWE1EQTQyczRDbmcyOG0ydWQ0Q0djcW9mMnBqUHRhaVRmNzFlUnlzbTZmSEx3QTJoTE5xbTJLVkJ3anU5MTNZMjdLSlVrSFQ5UjFJU0dPdVh4ZDZ4SlQzU0ZjeGl6OXd1RFA5QktMZ2dWTkVIN2FsNA?oc=5"
     },
     {
-      "title": "Mejores roboadvisors 2026 en España: 5 opciones comparadas",
+      "title": "Morningstar DBRS confirma calificaciones de Rural Hipotecario tras revisión anual en España",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWHZzNlYtY1N4X0QwNXdjNDV3Zlh1dGlCWW5Ba0RTelJkNVB6emhya1otdEdqZ1o3eUs2cHctVmRLcTZpWG1GbHNLSVhqcHFGZGZvU2xrYVdYMTZVQXdZY2h0VDUyWENsZXdzbVB2QXRzRTBQaDNOcnZnbXZlQ3BvYmtVbmpiaER6?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWnNSY0JjUHdkM2ppYVJJUElTYUZQUWpoRlRlVmJ1aUxIME44SGpDR3RkdlEteHZ1bGxzRGFUR1lRMkpNRWxkdTVwblkyemNGRHdmLUR5UWVra0xBZno1VkRwRDIzR3NFT0JCNWtvWmFxSTFWQ3BBazdObHVIRV8yMWlFNUtEdlFXNTdhZTJqNy1WZ05mNHlRRWVwdmtqNzdiNl9HSmdzUmx3M3J3X29rUHVR?oc=5"
     },
     {
-      "title": "Mejores ETFs 2026: ¿cuáles son los más rentables? (agosto)",
+      "title": "Morningstar DBRS confirma calificaciones de bonos hipotecarios españoles Rural Hipotecario",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczlMN0huT2xjRVhyR0k2UV9QVlN1NkVhUG1TUnR4ZFlXT2k2djgzOWJiTzNYNWV4LU1MMnZCZ0FvSTR5NWp5bTROT2FUbTJRQkoxbHh1WWdxX1V5clpidGRwOU1RR0dkWjZRZlZFVml0UWdBLVJWZGlRaHFNWndTRVluYlhwZVBVTjBjRzJTNUhzQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeDdPOG5qelRmd3RsNHNuWVFBRkFocUtBLUliaDd1OWFDNk5IZTVZdURUN3ZuNEJDVDB0LUd4R0R3NlhYZTY1SExXR3NzX2wxU0hMVkhIYVhxemtUUllFcUNIb3l0d3dOUEZXZTNIa3NzSl9UdENKc0FRenk4ajFVSTRTWkJPOTdkUEVnTWJ4LWV0QzNtM1Blb0hCQlpqYU5aNVM0OVdTNA?oc=5"
     },
     {
-      "title": "Los 12 mejores brókers para invertir en bolsa desde España en 2026",
+      "title": "Mejores fondos de inversión 2026 en España por categorías",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTBkZ241RVlhVEIwWDA2ZG9DQWxEYzl0QkQwRDRLSUcxT3dXcVF2Ti1yR0dxSThYVF95MFhsRGZZeUoyYzNXMmxzb2lpOEZ1UElJeVJ3dzVCbU40dTlOeEJ1ZE95alg2Yjl2ZjVNWk0wMW5wUFVoZGIzQklDSlpReTlDTVJ6ZVZ1?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMXh1Q3FnVkotWmJNWE1EQTQyczRDbmcyOG0ydWQ0Q0djcW9mMnBqUHRhaVRmNzFlUnlzbTZmSEx3QTJoTE5xbTJLVkJ3anU5MTNZMjdLSlVrSFQ5UjFJU0dPdVh4ZDZ4SlQzU0ZjeGl6OXd1RFA5QktMZ2dWTkVIN2FsNA?oc=5"
     },
     {
-      "title": "Los dividendos globales baten récord en 2025 y superan los 2 billones de dólares",
+      "title": "Las mejores plataformas para invertir en fondos de inversión en 2026 (agosto)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWNpRGVHamJZS185YXZZWEF5OHpxWEhjR0Z4Wkh0d0N0MTdtRVE4WmhVNW5tWmhfdld2LThyaEhid3l3SlY3cHZmdWhoQl9Ud3p5WmhRdlpSMmE3dmxlOHc3clIyR3poclowaHp0aU1yLV9seFg2LXdmaEpkbENMOHRUSkZaUGNCc3pING1DREI3VS1sb3JUTzE1cmRrMmVnWFk4S0NVSHY1WWVYQjc3T2RjTWxxUU5xMmlNa3U1ZnhYUmhlMmlOWHpWTlFQZVJL?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnNsTkpKYkxxYmVjdEM3ZkpJU214X0FSLUhrOUNHbUg1aWRaaGdUSmlwQmZWdWgxVWVfUVF3WXc3dVotSnB4T3RQVllZclNIMkxZbUVEb21ueDMxbDJsTzZjSDJkNHZRaERMNHlXcWRBWlMwUWg3Z3l2MVlpNFB0UWxBQXp2dGREUnQ4MzRfRWoxazRtdmxvTm1qY3VnVmxDX0R3Z3hjM2hJT0Fy?oc=5"
+    },
+    {
+      "title": "Los 16 mejores brokers para invertir en ETFs en 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGxCWDdNSFF3RWMyMTc0ZnNGOHVqZEFrYlA2UXZvQTBzZkUxa0RxUkdGVEhlYkc0ejhhQW1LMC1teXBrbmV5cU5kUHk5SnRWQ3VuX1FFLWFLZWFMampvdk95T0lrcmt5RlV3THVXZF9sTWhkcjhhbDdzYlFxOEFaWExRTVhJT20wampHZWRkd1lYNkdVb2VHMWQ4V0FhOXBxenp30gGfAUFVX3lxTE94amVhQVI2SGtQbWJLQWR0UTFEU1lLX2c2cDhRYzBYekV5d1lnNGpfeDB5TGp3MTduUWtvcEhzLTQwREdCUmJzUzJGNXZCRWk2ejBRbU54X0w0SnRLU1g5cmJmQXUteldRZmRMck9ZMFBiOWJhQTZTTXhheU9VaGgyUjJSRHM2eDFRc0syazhtSElpY2JEQ3g4TjBWWWFDYw?oc=5"
     },
     {
       "title": "Indexa Capital: opiniones del gestor automatizado de inversiones 2026",
@@ -84,24 +89,29 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkpxbEVNeGhjaDM0TW12aW8wZVlyb2ItU2M5WkRfczdHN2x3WDVUUm9rMDdBTnBvR2RscmdheEs4ODlLcXVZR01XZ1NoUXZrRVFrdHpwSE0tSDZybTJVdjB6Uko0b3lLbUdYYzhMejgzRU9PSk5JbE5NZTBSdTNWWUl4YVRIUWs2ZHlTWnQzUkM0cW5IQTU0bUZpcFM0c29HMzVHblVDSVdFc0Y3TWJBNzVZR3hVcmRGN1E?oc=5"
     },
     {
-      "title": "Mejores neobancos para ahorrar e invertir (2026)",
+      "title": "Valores del S&P 500 que lideran las subidas y con recorrido alcista a largo plazo",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYnJLUHJRUlNXRWs3ZEVtTnlWSGhncVdZTjBteWZHYW1kRllzWTRpdFFRVDE3MG5pNFlFLXNrbWctdFhDVkVXOFVkNFdBZHM2NzVHTnNZbXh0RmN1R0xjM0NxdWpjakVRZEVBSmxOV3JNZjdmYmt1MWY3d0RSOEprbWRKUUpnOVE0WXRIeVdPQTVSckpHWWRRYVlqMA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV21udzd4NDB6N2VXS21BMnItVFAzdENiRDRWWnBwbTh0ck55WDBKNDZCZ002QnZVdUYwUzFZamlDYWdFS0FmVm9mYWYwNWVkTXdlVVgwdG1MVEt6aTBiRm4yNGdhZVlfeGp2QmZEUTctdkYxYmxubkJLc0hreklpTEpBRWo3bGZoZVJTODRXY2w5V0xCQmlmTTJMcHpFNmdEdlRiaENKOWZ0d0VkV2YwZXZxZWtxa2hLWFVyZ3YtcGh1Nk4yeEHSAaIBQVVfeXFMTUhjcHBXZndaV2tDZWhELUdmRVBxTm9BSFVlRENJeWk1U0JiQUxOU2dQMkhqQTFLa0NaUFJ0OUZjX1NyUzhwODNIdUo2cV9hNUlSMXczLWd0YkhiVUhsd1FLcG1fY2Z4czl4YmsyRExPZ1hjMTdyUlRvQ3lfbUhIRC11YWRNbk5JUjZDQm1iRzFXY1ZaUGF0R2pVcndBRnZ2NHFB?oc=5"
     },
     {
-      "title": "Los 10 mejores brokers para invertir en ETFs [2026]",
+      "title": "Roboadvisor MyInvestor: opiniones, carteras y comisiones 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUNXdVlhNkd1LWZzOWloaWp6T1dkTXc2TU5WcmVEX2F6MzNHTS1VSTNpWnVuRHlLa2tiSy1CM1ZvYW10QldxdmpHOTIwbmgyaXBfZnk3b2hYRFgzR1g3SDZxMHhSZ2NQamwtdU14SUFSQnY2dHNaLWJMMzZwSTdZcmswWQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSHZBaDYtNmJ6M3pPWFplYWFtTmFCZng2ZWlHbnVkVk1ua1B6bmhYRVk3Skk2dF9vVzhVbWJ6YzBrUkMwMndNdEctN00xdkJ3aUExc05vVlJmTGZvZGNLYjktMXIwSkRIWUtfVlFQdzVVLTVtOXZvWFFxVGFxaGVtUmlubTVrTGJZNGc?oc=5"
     },
     {
-      "title": "Mejores ETFs 2026: ¿cuáles son los más rentables? (agosto)",
+      "title": "Perspectivas de los 5 grandes valores del Ibex 35 en bolsa",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczlMN0huT2xjRVhyR0k2UV9QVlN1NkVhUG1TUnR4ZFlXT2k2djgzOWJiTzNYNWV4LU1MMnZCZ0FvSTR5NWp5bTROT2FUbTJRQkoxbHh1WWdxX1V5clpidGRwOU1RR0dkWjZRZlZFVml0UWdBLVJWZGlRaHFNWndTRVluYlhwZVBVTjBjRzJTNUhzQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbFhLeWxKMnd4aUREclRHYzItNHlXeHZKcUR1bWtHZFRVWFY5QjY0NERJWWtvczZnZ3RBZkxaMDFoYkhtdjJWbEVnQ1VtTjF5TGFhVWlBZGpvNGNtb2E5V1FtNkk5T3djVjFXY181X0c3SF9VdEsyOEFUVWdzci1jZGFXbFFaTVR6bno1Yko2Z1ZmclNsczJzMGpsaFpjT2U0ek1HU1dUYjUyUEs0eDJTdW5zd1BQellmcFlyM1FucWRiUlY1cFHSAZ8BQVVfeXFMT0JwRDhOeS1VSkpFa2RkR2dRcFJQYmpNa01saEhFa2hNY0JYYVUyclNWLWRTSXJ5Znc5WkRCbFNhUmhlX0NIN3RMWk9NenBDWFdObzhjT1dETE9Da2ZpeXR6cF91WmR6cFlSSVBDcHZjV3Z2QWlEMVk2cjhsREk0ZnRReEhuVHpWa2U1UlpVTlZWaTZHVlg2MWNxaVRfR0NJ?oc=5"
     },
     {
       "title": "Los 16 mejores brokers para invertir en ETFs en 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGxCWDdNSFF3RWMyMTc0ZnNGOHVqZEFrYlA2UXZvQTBzZkUxa0RxUkdGVEhlYkc0ejhhQW1LMC1teXBrbmV5cU5kUHk5SnRWQ3VuX1FFLWFLZWFMampvdk95T0lrcmt5RlV3THVXZF9sTWhkcjhhbDdzYlFxOEFaWExRTVhJT20wampHZWRkd1lYNkdVb2VHMWQ4V0FhOXBxenp30gGfAUFVX3lxTE94amVhQVI2SGtQbWJLQWR0UTFEU1lLX2c2cDhRYzBYekV5d1lnNGpfeDB5TGp3MTduUWtvcEhzLTQwREdCUmJzUzJGNXZCRWk2ejBRbU54X0w0SnRLU1g5cmJmQXUteldRZmRMck9ZMFBiOWJhQTZTTXhheU9VaGgyUjJSRHM2eDFRc0syazhtSElpY2JEQ3g4TjBWWWFDYw?oc=5"
+    },
+    {
+      "title": "ING Bróker Naranja: análisis y opiniones (2026)",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVTRRaGZjb0JLWGNWdGc5WGEwRkRMeEhLSW8tTlBUUWxJMl9xQVYwZFRPbXgyT2ZkRTFBdGJhS3ItbUhIeGJIdGtOUDk5VXFrN1FueXNhNERkU3hHaFRBeVV6cXctbVVhY05pMkliajg2ZmtOdDBPX0QzcWxTMmdXYldSQ3R0Z192MllVV0VUREdxN20xMW1N?oc=5"
     }
   ]
 }
