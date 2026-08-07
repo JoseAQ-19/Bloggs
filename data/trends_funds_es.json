@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-08-07T08:11:21.220615+00:00",
+  "scouted_at": "2026-08-07T08:13:06.272312+00:00",
   "total_candidates": 13,
   "topics": [
     {
       "rank": 1,
-      "title": "Descubra por qué Indexa Capital supera a la competencia con un rendimiento del 12% en el último año",
+      "title": "Descubre cómo Indexa Capital supera a la competencia con un rendimiento del 12% en el último año",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Conozca los detalles de la calificación confirmada de Morningstar DBRS para los bonos hipotecarios españoles de Rural Hipotecario con una calificación de AA+",
+      "title": "Conoce los 5 fondos de inversión en España que ofrecen las mejores tasas de retorno en 2026, con hasta un 15% de crecimiento",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Analice los mejores fondos de inversión 2026 en España por categorías, donde el fondo X destacó con un rendimiento del 20% en el primer semestre",
+      "title": "Morningstar DBRS confirma calificaciones de Rural Hipotecario: ¿cómo afecta esto a los inversores españoles con un impacto del 8% en los bonos hipotecarios",
       "lang": "es",
       "source": "llm_selected_finance"
     }
