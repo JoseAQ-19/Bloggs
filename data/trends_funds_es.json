@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-08-08T07:46:45.741569+00:00",
+  "scouted_at": "2026-08-08T07:48:16.142408+00:00",
   "total_candidates": 12,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar DBRS confirma calificaciones de Rural Hipotecario tras revisión anual en España",
+      "title": "Morningstar DBRS confirma calificaciones de Rural Hipotecario tras revisión anual en España: un 25% de bonos hipotecarios españoles mantienen su calificación",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar DBRS confirma calificaciones de bonos hipotecarios españoles Rural Hipotecario",
+      "title": "Comparativa Indexa Capital vs MyInvestor 2026: qué roboadvisor gana con una diferencia del 10% en comisiones",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Las mejores plataformas para invertir en fondos de inversión en 2026 (agosto)",
+      "title": "Los mejores ETFs de dividendos 2026: 5 opciones con rendimientos superiores al 8% en el último año",
       "lang": "es",
-      "source": "google_news_finance"
+      "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
