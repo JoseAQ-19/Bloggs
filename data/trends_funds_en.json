@@ -1,34 +1,16 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-08-08T09:08:31.008352+00:00",
-  "total_candidates": 17,
-  "topics": [
-    {
-      "rank": 1,
-      "title": "The Winning Formula for Fund Investors, and Why Others Left Money on the Table",
-      "lang": "en",
-      "source": "google_news_finance"
-    },
-    {
-      "rank": 2,
-      "title": "Janus Henderson Group PLC Grows Position in Morningstar, Inc. $MORN",
-      "lang": "en",
-      "source": "google_news_finance"
-    },
-    {
-      "rank": 3,
-      "title": "Morningstar says Pinnacle shares ‘considerably overvalued’",
-      "lang": "en",
-      "source": "google_news_finance"
-    }
-  ],
+  "scouted_at": "2026-08-09T07:55:42.193075+00:00",
+  "total_candidates": 0,
+  "topics": [],
   "competitor_analysis": {
     "key_phrases": {
       "fund class": 22,
       "full list": 20,
       "index fund": 7,
       "equity fund": 6,
+      "view full": 6,
       "growth portfolio": 6,
       "portfolio class": 6,
       "small cap": 6,
@@ -38,8 +20,7 @@
       "class aallspring": 4,
       "sector dividend": 4,
       "dividend dogs": 4,
-      "list amplify": 4,
-      "amplify etho": 4
+      "list amplify": 4
     },
     "competitors_with_disclaimers": 0,
     "sample_styles": {
@@ -49,91 +30,5 @@
       "blackrock": "Institutional/macro perspective, iShares ETF focus, global outlook"
     }
   },
-  "all_headlines": [
-    {
-      "title": "The Winning Formula for Fund Investors, and Why Others Left Money on the Table",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTm1saTlUYnV6SHpnZk5IWHo2WHpFZnNtMV9pMVVpejdEbGRUcG5Zek1BTlZONk53QXNtbnQ2TVU1b3Y2bFdJdU9GS3JiTmtlbjJ4aHVSb2luWGxqbm5NNHdPdmNsT29xNXBrb0dKc1ZMcUZyaDJ0azFRSG16QU05d0dLTnhENUtad3F0TU5tZDZvSWVsZUJB?oc=5"
-    },
-    {
-      "title": "Janus Henderson Group PLC Grows Position in Morningstar, Inc. $MORN",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMmNrczhXVVpxY2gxbTAxSU5ZSzZOVXNVUk8taUU5T1J0S2xUSHgtbFk0R2xXNHdmZDdwbXY2NjY2ME5uaXNadUlKSWZaZVYyczRDcFRxLTVWVjZ2WV9kZDY3WWNvOXpZR2lBS05KenMyVHdhNmxOc19hWUU2bVFwNDJzUUFZa0tmbEtENUMxdzRHQjdpN2g0Z1BMZmM0NVNXNTFfd2JaMjVIc29RYWRiYWtpeEl1cTlDRVRDTl93eDJ1RzA?oc=5"
-    },
-    {
-      "title": "Morningstar says Pinnacle shares ‘considerably overvalued’",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ3NvYUQxZ09JTDl0TjdWc2djRkItZDhzWkdpOFQwdm1NZHdWS2tFTEhGRFpoT2t5LXlXNzhKMDlWSXFYMzFRQnJwd19fR1Z3QlJIVUE2OURsbXpsQm02OVIxZVp0T1JuVXllR29wY0lEOHc5a2VFU2lKOVg2eEcyeWJybS1LSFRFR1BYb1p4WktCanBaVmJjQzRkbkpwZ3VyX0NFNWxaZzlxYzQ?oc=5"
-    },
-    {
-      "title": "ASX AUGUST EARNINGS News & Analysis",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rb0E5NUktM19JQjNlOTByR1dBdWEwWHBZVzNza3NpSjdOT1NhOWdENDZEbXlBdHhmaFc4aS1SVllNTXFhSkRGc0ZzNnB6cWtzN01jX0xmNDhFWlhUUmVEMEhqa19YYjhhd1NpY2gyTE1FNm8?oc=5"
-    },
-    {
-      "title": "US sustainable funds see positive inflows for first time since 2022: Morningstar",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcnRtNkRSMnhpMFRKOUlDMUVvbTd6VkE0alhlYTg5Z0RyVWFhbWsyd010ZnhzZ2s5Z1FTTUZoWXU0TXkwb1dvQzdrMVcyT3l3amZqd1hILVlVN3Y0RmN6X0lqemJraDg2TFNpYUhwSHByek5JYTJiUjJ3aF9NandNTDFQaXZWLS1DRDJIakF3cXBqR1J6eC1zUHE5N1cyQV95dC1aUVgxamtxbU1HcFhJTA?oc=5"
-    },
-    {
-      "title": "Best Portfolio Management Apps of 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoUEZkOVRtb25sdEVHcjVabUFaY2dfaUJBLWpkVVNqcEFMVnd4eVljT21ZZkZsQWlVaDZfT2ZMMU05ZXp6N29PQWF0MFpBYWc1clV0aC1OY252NVpoQ09BVUg0WXlDSTRHdllrMHZrSXVZSVp6ZU1oaC1rNA?oc=5"
-    },
-    {
-      "title": "Insider Selling: Morningstar (NASDAQ:MORN) Chairman Sells $450,719.36 in Stock",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSDRFSFpFWkd6WWt4QW5YNnRoWmNHQ0VadUdUOUpLQ2pwRUVIVC0yZUg3d1N4OUhwZkJtaEwzUFNJN184c0UwOUYtRUktaVpSb2hNQ0NyWU1OZ1N4azRjQ2ZkVnVQelZ3eTRZckJPZnp5TzBhbWd5RGRzLVlvbTI5VUp1WWg0eFVrcVNHTzY5QXVRZFo4c29tRkozYUEyODdGd2FuOGpkV1RsTFh2dEk3Q0JZcEFnT2pMbF8wU0tIYzJDZEE?oc=5"
-    },
-    {
-      "title": "Morningstar (NASDAQ:MORN) Chairman Sells 7,250 Shares of Stock",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX0s4TjB6eXB6SnlTVnpxYV9OVDY1WWQ4dFowd0tvNWExSlhWUlFaeXp5bVA5TFhQUHhvTjBfcjNGeTRhdHNZOXoxR3NqRDZQNi0wMVg3cUROeHZ0Y3lNTWNrZ3h1MHdZQVZmWHRpNkZjNFVaQlRWZXlNZXJUWVN3X2JJa243SDIwVjBYZHRYaHVjcG1uTkxaN2JXUkM0Qi1sdUxGbHZhQ3FUUWl3b1lGcmp3?oc=5"
-    },
-    {
-      "title": "Economic Sector Performance Dashboards",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1aZHRnWXJQdlUwdmU4ZExFUzhEVXA5TXBHSFBsNS15TzJCSWtfMGRtU09HNENQMl9mTzlBenQyVmtTOFBKaFJDQ2ZB?oc=5"
-    },
-    {
-      "title": "7 Top-Performing US Equity ETFs",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55aElPNUJmalJCYVR1ekZRZmNLSklRQ2NRTFpUTEZsVUg1SVhScVcxdHFOTmNqQzJYRk5KeWlrbUZHTktKc3QtYk5rREYwVXBNOWVmYTZ1WkZYODZYNkZ6VjhaWmlnbENnZGFTVFN4c0xUdS1NWFpkUV94NHZ2UQ?oc=5"
-    },
-    {
-      "title": "The Best Performing Bond ETFs over the Last 10 Years",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSjRBV3pzbnU5aGtrcEFHeDBuR3N0STlyeE5acWZDZmFkMVE2ekpkNmFzWXRIalF6MTVPSTNrMk9QeFBRY1lTYkFvSmRZZkZsN2RNaWw2MUszNVBFQXM5N1czWWFaQTlLZ0IxWFUwb2pGdmo4UnlOLW1Fdy1WcGRyTzhWT1JhZVBidGpPNGgzS1QyZHVvWFVF?oc=5"
-    },
-    {
-      "title": "A Guide to Nasdaq ETF Investing",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGdIU3ZBMk1nRFJua2MwTGg0OF9CUk1ydlZLSUNWVVlfSUgtSFVIY1FIaU5nS05vTXc3MU1aWkZPLVJHb2xLME9MUGpVRm1xZXplckhVN1pwX2JuX0NwVGpTeG9RX2F0WGRQcTNucnRZUGpRci1zSmo2dWtxZGFOelNsbjcyanpxQ3FCTjFHdmg?oc=5"
-    },
-    {
-      "title": "SLV vs GDX: Is a Silver ETF a Better Buy Than a Gold Miner Fund in 2026?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdWtWYWdaM1BUNldBT2hOcXJwUlU5TDJwYmJ3c2VqNEF1dmtEWjhzWkpGdjZwVjFfSV9sVWR0VGgxcnlaQldIZG4waEpvMVFzeHRQZjItWEV1MGhLejFUdFRaTlc5M3dmQjRsejFaVWRmWDhWckwwSjIwTWRfTk1VSDJnVHdSZDZVbUJva3loZlN3NE1LN1BuRGp0aEhQSUgwT0NmOTY0VkZzLXo1aWJpWDR2RHZYTXU0?oc=5"
-    },
-    {
-      "title": "VanEck Semiconductor ETF (SMH) Stock Price, News, Quote & History",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sdmFESnNQOTlpU1ZjU2ZLUjNFQmlNYTg5cWVRVWVpMWJfTlc3b3BZd3RNRng1eWtYVnV1SC1TbU5TR1ZFNXQ2N3RnQWlNVDNP?oc=5"
-    },
-    {
-      "title": "Guide to High Dividend-Paying ETFs",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY3FreEZsSDQ2WG95Rl8tQ0VRWFQ1UVEwV1J2Q3VLdGo5ME1ldzZfTG1aQ0x4Mzk5SnZOdGlNalhMWDhZeHBhOW84dGJoblVNalhIajNfcVI5dk1Tb2I1TUx1RVRNQmxUNk9PRmxtWEgzeUJuMDlPdW1pM2Fza2o4X0xmRThNVWNfQS05bS1FNm5aS1h4?oc=5"
-    },
-    {
-      "title": "10 Best Crypto Exchanges Of 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVZtY3F3d0w5U0lneDdFM1dCN291TmJTSlBLbGNZT09xQWtDTlBoZHRBUkZWS0NFRksxVUhyTDBMbUFIai0tYWFLdTMxWEZQRHVPbzBCa0tfcXRRM1ZiRFV2c3YxTFFYcmhMOG8zeG4xNjhaUWtlZTQ2VzMtaWVoWnZ5Q28?oc=5"
-    },
-    {
-      "title": "BlackRock AUM: Assets Under Management (2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yOWxaNFJnMG16Qld4UjNWMGlSaWdYeURvOWN2dkJYN21QLXV0ZjBSTVI2VlNIYVJwdnNYcWRlRHdqbEZUVnprb0NyQjlxdmppQVN3TzJXaXhIUi1QYktyZGpuNERTekt3eUE?oc=5"
-    }
-  ]
+  "all_headlines": []
 }
