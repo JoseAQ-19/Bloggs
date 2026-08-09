@@ -1,26 +1,26 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-08-09T07:51:57.754125+00:00",
+  "scouted_at": "2026-08-09T07:53:30.401788+00:00",
   "total_candidates": 8,
   "topics": [
     {
       "rank": 1,
-      "title": "Descubre cómo Morningstar DBRS confirma las calificaciones de Rural Hipotecario con un retorno del 8% anual en España",
+      "title": "Morningstar DBRS confirma calificaciones de Rural Hipotecario tras revisión anual en España",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Conoce los 5 mejores ETFs de dividendos de 2026, con rendimientos que superan el 12% en el último año",
+      "title": "Mejores depósitos bancarios a plazo fijo hoy (agosto 2026)",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     },
     {
       "rank": 3,
-      "title": "¿Cuáles son los ETFs de oro más rentables de 2026, con una caída del 5% en los costes de gestión en el último trimestre",
+      "title": "Los mejores ETFs de dividendos 2026: 5 opciones",
       "lang": "es",
-      "source": "llm_selected_finance"
+      "source": "google_news_finance"
     }
   ],
   "competitor_analysis": {
