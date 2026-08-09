@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-08-08T07:46:45.741082",
+  "analyzed_at": "2026-08-09T07:51:57.753570",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-08-08T07:46:26.614755",
+      "analyzed_at": "2026-08-09T07:51:40.854315",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-08-08T07:46:35.704043",
+      "analyzed_at": "2026-08-09T07:51:48.954678",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,11 +82,11 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "Alger Focus Equity Fund Class YAlger Growth & Income Fund Class AAlger Growth & Income Fund Class ZLOCK|!qLv>G% &cx>wc@lTlx &Xt%% R%$ <?Y! <FNzr !wrLOCK|<QSGk&S QfrP?xW@!GZ q@F^g l!B >G!l k<&@h PJVCLOCK|lY@R@<^ ^v$@^T??ch% sP!&x ?@R d%Cp YzYFQk>xY>YyH nxx<yQView Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|#gy$&k gC!#W #V@&s% G!lVT&@WC ?><<s #Sz-k-K@LOCK|Z$v!mw L@wGZ hT&%!& LJ<&ZMshf x%XnC fLLOCK|>ry!$G rr@>N f^dYB! pfnm#>C^p <Wg&@ x>l?-^CWView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|pxpQ YBK^ ?W@P>X&WJ^ Jm>sZbw<GQ^ Fvc?c&f@<@ D@@$ – xdCB$!LBdLmMd ?q#bZLOCK|?>js !BYv @KNW^%#?C@ nWVGJp<FmVg P^!K&FBY@z <@?N – w@Cv>#WyP% V&yBtJsLOCK|#sHN ^KzMRF>D^xZ K%#< lz#&% KJXnpView Full List",
-            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|Cs %#ly< bJ>?jT >K@%T! Ly^^D!LOCK|NY t^>!SZmktpJKt wql&<> @n#?^Bl@ pX!$ s#vXLOCK|ylb%^W PC^YFGR T.!. !f>Y&?b <<Y#Hf RS%XDView Full List",
-            "Amplify Etho Climate Leadership U.S. ETFCalvert Green Bond Fund Class ICalvert Green Bond Fund Class R6LOCK|skdlH ?M &Rb<Z->>& c<x?$L<>T, lg&m?$ QkQ ><CJ^F<Y> @xYx% ?xMLOCK|bF&!Jm g^^Bmj& &g%&C##ky$<^F #?#h <?K# - ZNGwQ RBx?LOCK|D?s>c! ^Xqn&L< nF^@B'% C!wMb#Ctd# yhvw - h@q#f P!cView Full List"
+            "Alger Focus Equity Fund Class YAlger Growth & Income Fund Class AAlger Growth & Income Fund Class ZLOCK|xNt^n#b ^B!xHbClR$$ p#fF! $BG SD>x j@q&X DT#?LOCK|hW$sL@& $dBt%$Hrw!C !bzM% @kH TwK# sv$Lf p&@LOCK|w&$^rh^ <MfDc%$MvR< VFdvW !xt gj>@ %f<$JRZ<gS!n% flRZmz%View Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|<$!SdH !p<%@ PW>%Nn G>T!Jv!NK >x>H$ n!&-V-gQz$LOCK|$T%R#F J??Z@ !Y>JwW W^@dsd#dg #RQ$h zGLOCK|Xc$&&k ?C$x! jg!GR@ YgkVXYG!@ v@qk? >VS>-sBwdView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|&wXK QlXB &!Z@dgx?%@ L<&!$b^W>Sh P$LV#^&cry vRWm – Hj?NJvV&<G?M@ nSS%qBVLOCK|%V$c >t#q x@Zr?#Y<lr nC?YmzRM^&p %kY$Ptggk@ mm?@ – p?&yt!P&?# QV$&TT$LOCK|$<jV ^VLqvd%gN$$ s>PN >%$^? pKView Full List",
+            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|$# nzJGz ?PL$dc #SC<#q $SlLOCK|s? &<<!G<^$V!%x? #J<tyP l?^<?p#z @z>$ %KgrfLOCK|Z!#Mjw &P#LYVC v.t. z%%#$Y$ qqk<f< pKZView Full List",
+            "Amplify Etho Climate Leadership U.S. ETFCalvert Green Bond Fund Class ICalvert Green Bond Fund Class R6LOCK|JlT?l <b R%w!#-Gfz ^?J<nPvyT, <!f%V$ Znd SX&dStTHb @GJN% !H@TLOCK|m@?m&w Sp?hsQz zjV!!&mgCmw!< PxN& &Qfh - yvzv@ @LOCK|$&#ycS >Xk@@w$ JQ#>s'x #&S#l?<#&! C>f$ - <%Db> SYJyView Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
@@ -94,6 +94,7 @@
             "full list": 20,
             "index fund": 7,
             "equity fund": 6,
+            "view full": 6,
             "growth portfolio": 6,
             "portfolio class": 6,
             "small cap": 6,
@@ -108,8 +109,7 @@
             "etho climate": 4,
             "climate leadership": 4,
             "leadership etfcalvert": 4,
-            "high dividend": 4,
-            "etfview full": 4
+            "high dividend": 4
           },
           "has_disclaimer": false
         },
