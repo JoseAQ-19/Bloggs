@@ -46,10 +46,10 @@
 
   {{/* NOTE: These Hugo Internal Templates can be found starting at
   https://github.com/gohugoio/hugo/tree/master/tpl/tplimpl/embedded/templates */}}
-  {{/* former internal templates */}}
-  {{ partial "opengraph.html" . -}}
-  {{ partial "schema.html" . -}}
-  {{ partial "twitter_cards.html" . -}}
+  {{/* Custom SEO & Social Metadata Partials */}}
+  {{ partial "site-opengraph.html" . -}}
+  {{ partial "site-schema.html" . -}}
+  {{ partial "site-twitter.html" . -}}
 
 
   {{ if hugo.IsProduction }}

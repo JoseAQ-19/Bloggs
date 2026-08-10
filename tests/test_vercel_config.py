@@ -37,3 +37,20 @@ def test_site_analytics_partial_name():
     assert 'partial "site-analytics.html"' in baseof_content, "baseof.html must use site-analytics.html partial"
     assert 'partial "google_analytics.html"' not in baseof_content, "baseof.html must not use deprecated internal template name"
 
+def test_seo_partials_names():
+    root = Path(__file__).parent.parent
+    partials_dir = root / "layouts" / "partials"
+    assert (partials_dir / "site-schema.html").exists()
+    assert (partials_dir / "site-opengraph.html").exists()
+    assert (partials_dir / "site-twitter.html").exists()
+    
+    baseof_path = root / "layouts" / "baseof.html"
+    baseof_content = baseof_path.read_text(encoding="utf-8")
+    assert 'partial "site-schema.html"' in baseof_content
+    assert 'partial "site-opengraph.html"' in baseof_content
+    assert 'partial "site-twitter.html"' in baseof_content
+    assert 'partial "opengraph.html"' not in baseof_content
+    assert 'partial "schema.html"' not in baseof_content
+    assert 'partial "twitter_cards.html"' not in baseof_content
+
+
