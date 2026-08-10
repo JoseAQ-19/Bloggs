@@ -12,11 +12,11 @@
   {{ $paginator := .Paginate (where .Site.RegularPages "Type" "ne" "page") }}
 
   {{/* ASYMMETRIC DIGITAL MAGAZINE GRID */}}
-  <section class="home-modern-grid mt4 w-100 flex flex-wrap justify-center">
+  <section class="home-modern-grid mt4 w-100">
     {{ range $index, $element := $paginator.Pages }}
       {{ if eq $index 0 }}
         {{/* FEATURED MAIN ARTICLE (HERO POST - FULL WIDTH / ASYMMETRIC HIGHLIGHT) */}}
-        <div class="w-100 mb4" data-aos="fade-up" data-aos-duration="1000">
+        <div class="home-featured-wrapper mb4" data-aos="fade-up" data-aos-duration="1000">
           <article class="glass-panel glass-card-hover br4 overflow-hidden flex flex-column flex-row-l" style="border: 1px solid rgba(0, 240, 255, 0.3); background: linear-gradient(135deg, rgba(15, 23, 42, 0.85) 0%, rgba(7, 9, 14, 0.95) 100%);">
             {{ $img := partials.Include "func/GetFeaturedImage.html" . }}
             {{ if $img }}
@@ -28,7 +28,7 @@
                 <h2 class="f2 fw8 white lh-title mt2 mb3" style="font-family: var(--font-heading);">
                   <a href="{{ .RelPermalink }}" class="link white hover-cyan transition-colors">{{ .Title }}</a>
                 </h2>
-                <p class="f5 white-70 lh-copy mb4" style="display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">
+                <p class="f5 white-80 lh-copy mb4" style="display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">
                   {{ .Summary | truncate 180 }}
                 </p>
               </div>
@@ -43,7 +43,7 @@
         </div>
       {{ else }}
         {{/* SECONDARY CARDS */}}
-        <div class="w-100 w-50-m w-33-l pa2 flex" data-aos="fade-up" data-aos-duration="800">
+        <div class="home-grid-card-wrapper" data-aos="fade-up" data-aos-duration="800">
           {{ .Render "summary-with-image" }}
         </div>
       {{ end }}

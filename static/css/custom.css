@@ -1430,4 +1430,114 @@ table {
     color: #94A3B8;
     line-height: 1.6;
     font-size: 0.95rem;
-}
+}
+
+/* ===================================================
+   HIGH LEGIBILITY & ANTI-AI-SLOP TYPOGRAPHY OVERRIDES
+   =================================================== */
+
+body {
+    background-color: #07090E !important;
+    color: #F8FAFC !important;
+    font-family: 'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
+    line-height: 1.75 !important;
+    -webkit-font-smoothing: antialiased !important;
+}
+
+/* Paragraphs & Reading Content High Contrast */
+p, li, .nested-copy-line-height p, .nested-copy-line-height li, article p, article li {
+    font-family: 'Plus Jakarta Sans', 'Inter', sans-serif !important;
+    color: #E2E8F0 !important; /* Crisp high-contrast off-white */
+    font-size: 1.1rem !important;
+    line-height: 1.8 !important;
+    opacity: 1 !important;
+    font-weight: 400 !important;
+}
+
+/* Headings High Contrast & Clean Letter Spacing */
+h1, h2, h3, h4, h5, h6,
+.hero-title, .f1, .f2, .f3, .f4 {
+    font-family: 'Space Grotesk', 'Plus Jakarta Sans', sans-serif !important;
+    color: #FFFFFF !important;
+    letter-spacing: -0.015em !important;
+    word-break: normal !important;
+    overflow-wrap: break-word !important;
+    hyphens: manual !important;
+}
+
+.nested-copy-line-height h1,
+.nested-copy-line-height h2,
+.nested-copy-line-height h3,
+.nested-copy-line-height h4 {
+    color: #00F0FF !important;
+    font-family: 'Space Grotesk', sans-serif !important;
+    font-weight: 700 !important;
+    margin-top: 2.2rem !important;
+    margin-bottom: 1rem !important;
+}
+
+.nested-copy-line-height strong,
+.nested-copy-line-height b {
+    color: #FFFFFF !important;
+    font-weight: 700 !important;
+}
+
+/* Suppress duplicated first H1 inside article content */
+.nested-copy-line-height > h1:first-child {
+    display: none !important;
+}
+
+/* Links inside content */
+.nested-copy-line-height a {
+    color: #00F0FF !important;
+    text-decoration: underline !important;
+    text-underline-offset: 4px !important;
+}
+
+/* ===================================================
+   DIGITAL MAGAZINE CSS GRID (FIX CARD COLLAPSE)
+   =================================================== */
+
+.home-modern-grid {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)) !important;
+    gap: 1.75rem !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+}
+
+@media (max-width: 680px) {
+    .home-modern-grid {
+        grid-template-columns: 1fr !important;
+    }
+}
+
+.home-featured-wrapper {
+    grid-column: 1 / -1 !important;
+    width: 100% !important;
+}
+
+.home-grid-card-wrapper {
+    width: 100% !important;
+    min-width: 0 !important; /* Fixes flex/grid min-content collapse */
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+.glass-card {
+    width: 100% !important;
+    min-width: 0 !important;
+    word-break: normal !important;
+    overflow-wrap: break-word !important;
+    background: rgba(15, 23, 42, 0.75) !important;
+    border: 1px solid rgba(0, 240, 255, 0.15) !important;
+    border-radius: 16px !important;
+    backdrop-filter: blur(12px) !important;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3) !important;
+}
+
+.glass-card h2, .glass-card h3 {
+    word-break: normal !important;
+    overflow-wrap: break-word !important;
+}
+

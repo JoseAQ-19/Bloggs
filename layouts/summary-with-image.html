@@ -1,38 +1,47 @@
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
-<article class="glass-card flex flex-column h-100" data-aos="fade-up" data-aos-duration="1000">
+<article class="glass-card flex flex-column h-100 w-100" data-aos="fade-up" data-aos-duration="800">
   
   {{/* 1. IMAGEN CABECERA (ÚNICA) */}}
   {{ if $featured_image }}
-  <div class="card-header w-100 overflow-hidden br4-top mb3" style="aspect-ratio: 16/9;">
+  <div class="card-header w-100 overflow-hidden br4-top" style="aspect-ratio: 16/9; min-height: 180px;">
     <a href="{{ .RelPermalink }}" class="db h-100 grow">
       {{ partial "func/GetOptimizedImage.html" (dict "page" . "class" "w-100 h-100 object-fit-cover" "alt" .Title) }}
     </a>
   </div>
   {{ end }}
 
-  <div class="card-body flex flex-column flex-auto ph4 pb4">
-    {{/* 2. TÍTULO */}}
-    <h2 class="f3 fw8 mv0 lh-title" style="font-family: var(--font-heading); letter-spacing: -0.5px;">
-      <a href="{{ .RelPermalink }}" class="color-inherit dim link">
+  <div class="card-body flex flex-column flex-auto pa4">
+    {{/* 2. CATEGORY BADGES */}}
+    {{ if .Params.categories }}
+      <div class="mb2 flex flex-wrap gap-1">
+        {{ range .Params.categories }}
+          <span class="hero-badge-pill" style="font-size: 0.65rem; padding: 2px 8px; margin-bottom: 0;">{{ . | upper }}</span>
+        {{ end }}
+      </div>
+    {{ end }}
+
+    {{/* 3. TÍTULO */}}
+    <h2 class="f4 fw7 mv2 lh-title" style="font-family: var(--font-heading); color: #FFFFFF; word-break: normal; overflow-wrap: break-word;">
+      <a href="{{ .RelPermalink }}" class="white hover-cyan link transition-colors">
         {{ .Title }}
       </a>
     </h2>
 
-    {{/* 3. EXTRACTO LIMPIO (SANANITIZADO) */}}
-    <div class="f5 lh-copy mt3 mb4 o-80 excerpt-text" style="font-family: var(--font-body); flex-grow: 1;">
+    {{/* 4. EXTRACTO LIMPIO (HIGH CONTRAST) */}}
+    <div class="f5 lh-copy mt2 mb4 excerpt-text" style="color: #94A3B8; flex-grow: 1;">
       {{ if .Description }}
-        {{ .Description | plainify | htmlUnescape | truncate 160 }}
+        {{ .Description | plainify | htmlUnescape | truncate 140 }}
       {{ else }}
-        {{ .Summary | plainify | htmlUnescape | truncate 160 }}
+        {{ .Summary | plainify | htmlUnescape | truncate 140 }}
       {{ end }}
     </div>
 
-    {{/* 4. BOTÓN READ MORE ANCLADO AL FONDO */}}
+    {{/* 5. BOTÓN READ MORE ANCLADO AL FONDO */}}
     <div class="mt-auto pt3 bt" style="border-color: rgba(255, 255, 255, 0.1);">
       <div class="flex items-center justify-between">
         <div class="author-meta">
           {{ with .Params.author | default site.Params.author }}
-            <span class="f7 fw6 o-60">✍️ {{ . }}</span>
+            <span class="f7 fw6 cyan opacity-80">✍️ {{ if reflect.IsSlice . }}{{ index . 0 }}{{ else }}{{ . }}{{ end }}</span>
           {{ end }}
         </div>
         <a href="{{ .RelPermalink }}" class="read-more-btn f7 fw7 ttu tracked br-pill ba ph3 pv2 transition-all link pointer">
@@ -47,33 +56,37 @@
       display: flex;
       flex-direction: column;
       height: 100%;
-      background: rgba(255, 255, 255, 0.03);
-      backdrop-filter: blur(10px);
-      border: 1px solid rgba(255, 255, 254, 0.1);
+      width: 100%;
+      min-width: 0;
+      background: rgba(15, 23, 42, 0.75);
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(0, 240, 255, 0.15);
       border-radius: 20px;
       transition: all 0.3s ease;
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
     }
     .glass-card:hover {
       transform: translateY(-5px);
-      background: rgba(255, 255, 255, 0.05);
-      border-color: var(--primary);
+      border-color: rgba(0, 240, 255, 0.4);
+      box-shadow: 0 12px 35px rgba(0, 240, 255, 0.15);
     }
     .excerpt-text {
       display: -webkit-box;
-      -webkit-line-clamp: 4;
-      line-clamp: 4;
+      -webkit-line-clamp: 3;
+      line-clamp: 3;
       -webkit-box-orient: vertical;
       overflow: hidden;
     }
     .read-more-btn {
-      border-color: var(--primary);
-      color: var(--primary);
+      border-color: rgba(0, 240, 255, 0.3);
+      color: #00F0FF;
       text-decoration: none;
+      background: rgba(0, 240, 255, 0.08);
     }
     .read-more-btn:hover {
-      background-color: var(--primary);
-      color: #000;
-      box-shadow: 0 0 15px var(--primary);
+      background-color: #00F0FF;
+      color: #07090E;
+      box-shadow: 0 0 15px #00F0FF;
     }
     .br4-top {
       border-top-left-radius: 20px;
