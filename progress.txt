@@ -17,7 +17,11 @@
   - `layouts/home.html`: Layout de revista digital de vanguardia con tarjeta de post destacado principal y sección de tendencias en vivo.
   - `layouts/single.html`: Experiencia de lectura inmersiva con barra de progreso, TOC flotante, caja TL;DR y acordeón de FAQ dinámico desde YAML.
   - `layouts/partials/site-footer.html`: Footer futurista con indicador de estado operativo en vivo.
-- [x] **Suite de Tests de UI (`tests/test_ui_build.py`)**: 4/4 tests validados.
+- [x] **Ajuste de Legibilidad y Grid UI (2026-08-10)**:
+  - Corregido contraste de texto en lectura de artículos (`#E2E8F0` / `#F8FAFC` blanco impoluto sobre fondo abisal `#07090E`).
+  - Eliminado duplicado de título H1 en el cuerpo de las páginas.
+  - Implementado sistema de CSS Grid responsivo (`minmax(320px, 1fr)`) en `.home-modern-grid` resolviendo el colapso vertical de las tarjetas de artículos.
+  - Sincronizados parciales `summary-with-image.html` en `layouts/` y `layouts/_default/`.
 
 # ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (REPARACIÓN DE DEPLOYMENTS EN VERCEL COMPLETADA)
 # ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (REORGANIZACIÓN Y LIMPIEZA ARQUITECTÓNICA COMPLETADA)
