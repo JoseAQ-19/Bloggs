@@ -9,12 +9,18 @@
 
 echo "🔍 Vercel Ignore Script: Checking if build is needed..."
 
-# Get the list of changed files in the latest commit
-CHANGED_FILES=$(git diff HEAD~1 --name-only 2>/dev/null || echo "FIRST_DEPLOY")
+# Use Vercel's native git commit variables if available to avoid shallow clone failures
+if [ -n "$VERCEL_GIT_PREVIOUS_SHA" ] && [ -n "$VERCEL_GIT_COMMIT_SHA" ]; then
+  CHANGED_FILES=$(git diff --name-only "$VERCEL_GIT_PREVIOUS_SHA" "$VERCEL_GIT_COMMIT_SHA" 2>/dev/null)
+else
+  # Fetch parent commit if needed in shallow clone
+  git fetch --depth=2 origin "$VERCEL_GIT_COMMIT_REF" 2>/dev/null || true
+  CHANGED_FILES=$(git diff HEAD~1 --name-only 2>/dev/null || echo "FIRST_DEPLOY")
+fi
 
-# First deploy — always build
-if echo "$CHANGED_FILES" | grep -q "FIRST_DEPLOY"; then
-  echo "✅ First deploy detected. Building."
+# First deploy or missing diff info — always build
+if [ -z "$CHANGED_FILES" ] || echo "$CHANGED_FILES" | grep -q "FIRST_DEPLOY"; then
+  echo "✅ First deploy or full check detected. Building."
   exit 1
 fi
 

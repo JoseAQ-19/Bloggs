@@ -2,6 +2,9 @@
     "name": "mi-blog",
     "version": "1.0.0",
     "description": "Blog con Hugo y Ananke",
+    "scripts": {
+        "build": "hugo --gc --minify"
+    },
     "dependencies": {
         "autoprefixer": "^10.4.20",
         "postcss": "^8.4.39",

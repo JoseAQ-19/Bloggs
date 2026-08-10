@@ -56,71 +56,79 @@ class LLMRouter:
             for current_model in github_models:
                 print(f"      [GITHUB] [{token_name}] Intentando con modelo: {current_model}...")
                 
-                try:
-                    full_content = ""
-                    messages = [
-                        {"role": "system", "content": system_prompt},
-                        {"role": "user", "content": prompt}
-                    ]
-                    
-                    # --- LOOP DE CONTINUIDAD (Anti-Truncamiento) ---
-                    for jump in range(3): # Permitimos hasta 2 continuaciones
-                        resp = client.chat.completions.create(
-                            model=current_model,
-                            messages=messages,
-                            temperature=temperature,
-                            max_tokens=8192,
-                            timeout=180
-                        )
+                max_retries = 2
+                model_success = False
+                
+                for attempt in range(max_retries + 1):
+                    try:
+                        full_content = ""
+                        messages = [
+                            {"role": "system", "content": system_prompt},
+                            {"role": "user", "content": prompt}
+                        ]
                         
-                        chunk = resp.choices[0].message.content
-                        full_content += chunk
-                        finish_reason = resp.choices[0].finish_reason
+                        # --- LOOP DE CONTINUIDAD (Anti-Truncamiento) ---
+                        for jump in range(3): # Permitimos hasta 2 continuaciones
+                            resp = client.chat.completions.create(
+                                model=current_model,
+                                messages=messages,
+                                temperature=temperature,
+                                max_tokens=8192,
+                                timeout=180
+                            )
+                            
+                            chunk = resp.choices[0].message.content
+                            full_content += chunk
+                            finish_reason = getattr(resp.choices[0], 'finish_reason', 'stop')
+                            
+                            if finish_reason == "length":
+                                print(f"      ⚠️ [TRUNCATED] {current_model} alcanzó el límite. Solicitando continuación (Salto {jump+1})...")
+                                messages.append({"role": "assistant", "content": chunk})
+                                messages.append({"role": "user", "content": "CONTINUE the text exactly where you left off. Do not repeat headers. Just continue the prose."})
+                                continue
+                            else:
+                                break
                         
-                        if finish_reason == "length":
-                            print(f"      ⚠️ [TRUNCATED] {current_model} alcanzó el límite. Solicitando continuación (Salto {jump+1})...")
-                            messages.append({"role": "assistant", "content": chunk})
-                            messages.append({"role": "user", "content": "CONTINUE the text exactly where you left off. Do not repeat headers. Just continue the prose."})
-                            continue
+                        result = full_content.strip()
+                        
+                        # Validación de calidad estricta
+                        if model_type == "reasoning":
+                            is_ok = bool(result and len(result) > 400) # Subimos el listón
                         else:
+                            is_ok = bool(result and len(result) > 1)
+                            
+                        if is_ok:
+                            word_count = len(result.split())
+                            print(f"      [SUCCESS] Modelo {current_model} respondió con éxito ({word_count} palabras).")
+                            return result
+                        else:
+                            print(f"      [WARNING] Modelo {current_model} devolvió texto insuficiente. Intentando siguiente modelo...")
+                            time.sleep(2)
                             break
-                    
-                    result = full_content.strip()
-                    
-                    # Validación de calidad estricta
-                    if model_type == "reasoning":
-                        is_ok = bool(result and len(result) > 400) # Subimos el listón
-                    else:
-                        is_ok = bool(result and len(result) > 1)
+                            
+                    except Exception as e:
+                        # Extract HTTP status code if available
+                        status_code = getattr(e, 'status_code', None)
+                        error_type = type(e).__name__
+                        error_msg = str(e)[:200]
                         
-                    if is_ok:
-                        word_count = len(result.split())
-                        print(f"      [SUCCESS] Modelo {current_model} respondió con éxito ({word_count} palabras).")
-                        return result
-                    else:
-                        print(f"      [WARNING] Modelo {current_model} devolvió texto insuficiente. Intentando siguiente modelo...")
-                        time.sleep(2)
-                        continue
+                        if status_code == 429 or "ConnectionError" in error_type or "APIConnectionError" in error_type:
+                            logger.warning(f"[CAPA-CERO] {token_name} / {current_model} → {error_type} (429/CONEXIÓN) [Intento {attempt+1}/{max_retries+1}].")
+                            if attempt < max_retries:
+                                time.sleep(2 * (attempt + 1))
+                                continue
+                            else:
+                                logger.warning(f"[CAPA-CERO] {token_name} / {current_model} agotó reintentos. Saltando al siguiente token/modelo...")
+                                break
                         
-                except Exception as e:
-                    # Extract HTTP status code if available
-                    status_code = getattr(e, 'status_code', None)
-                    error_type = type(e).__name__
-                    error_msg = str(e)[:200]
-                    
-                    if status_code == 429 or "ConnectionError" in error_type or "APIConnectionError" in error_type:
-                        logger.warning(f"[CAPA-CERO] {token_name} / {current_model} → {error_type} (429/CONEXIÓN). Saltando al siguiente token...")
-                        time.sleep(2)
-                        break # Si hay error de conexión o 429, el token/red local con ese token está borked.
-                    
-                    elif status_code and status_code >= 500:
-                        logger.error(f"[CAPA-CERO] {token_name} / {current_model} → {status_code} SERVER ERROR.")
-                        time.sleep(5)
-                    else:
-                        logger.warning(f"[CAPA-CERO] {token_name} / {current_model} → {error_type}: {error_msg}")
-                        time.sleep(5)
-                    
-                    continue
+                        elif status_code and status_code >= 500:
+                            logger.error(f"[CAPA-CERO] {token_name} / {current_model} → {status_code} SERVER ERROR.")
+                            time.sleep(5)
+                        else:
+                            logger.warning(f"[CAPA-CERO] {token_name} / {current_model} → {error_type}: {error_msg}")
+                            time.sleep(5)
+                        
+                        break
         
         return None
 

@@ -162,11 +162,11 @@ class TestJSONStandardization(unittest.TestCase):
 
     def test_06_nvidia_nim_force_json_parameter(self):
         """_call_nvidia_nim debe aceptar force_json=True y pasar response_format."""
-        # Importar desde main.py
-        from main import _call_nvidia_nim
+        # Importar desde orchestrator.py
+        from orchestrator import _call_nvidia_nim
         
         # Mock del cliente OpenAI
-        with patch('main.OpenAI') as MockOpenAI:
+        with patch('orchestrator.OpenAI') as MockOpenAI:
             mock_client = MagicMock()
             MockOpenAI.return_value = mock_client
             
@@ -199,9 +199,9 @@ class TestJSONStandardization(unittest.TestCase):
 
     def test_07_nvidia_nim_without_force_json(self):
         """_call_nvidia_nim sin force_json NO debe pasar response_format."""
-        from main import _call_nvidia_nim
+        from orchestrator import _call_nvidia_nim
         
-        with patch('main.OpenAI') as MockOpenAI:
+        with patch('orchestrator.OpenAI') as MockOpenAI:
             mock_client = MagicMock()
             MockOpenAI.return_value = mock_client
             
@@ -227,7 +227,7 @@ class TestJSONStandardization(unittest.TestCase):
         """planificar_articulo() debe usar response_mime_type='application/json'."""
         # Verificar leyendo el código fuente directamente
         import inspect
-        from main import planificar_articulo
+        from orchestrator import planificar_articulo
         
         source = inspect.getsource(planificar_articulo)
         self.assertIn('response_mime_type="application/json"', source,

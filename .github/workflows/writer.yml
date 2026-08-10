@@ -1,46 +1,39 @@
-name: "Writer Funds - English"
+name: "Writer Matrix Workflow"
 on:
   workflow_run:
-    workflows: ["Scout Funds - English"]
+    workflows: ["Scout Matrix Workflow"]
     types: [completed]
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
-  generate:
+  writer:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    strategy:
+      fail-fast: false
+      matrix:
+        category: [crypto, fitness, funds, ia, realestate, tools, viral, youtube]
+        lang: [es, en]
+
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
           ref: main
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '22'
+
       - name: Install Dependencies
-        run: |
-          pip install -r requirements.txt
-          playwright install chromium
-      - name: Setup NotebookLM MCP
+        run: pip install -r requirements.txt
+
+      - name: Run Writer
         env:
-          NOTEBOOKLM_AUTH: ${{ secrets.NOTEBOOKLM_AUTH_JSON }}
-        run: |
-          npm install -g notebooklm-mcp-server
-          mkdir -p ~/.notebooklm-mcp
-          echo "$NOTEBOOKLM_AUTH" > ~/.notebooklm-mcp/auth.json
-          chmod 600 ~/.notebooklm-mcp/auth.json
-      - name: Verify NotebookLM MCP
-        run: |
-          echo "PATH: $PATH"
-          which notebooklm-mcp || echo "notebooklm-mcp not in PATH"
-          which notebooklm-mcp-server || echo "notebooklm-mcp-server not in PATH"
-          ls -ld ~/.notebooklm-mcp || echo "auth dir missing"
-          ls -l ~/.notebooklm-mcp/auth.json || echo "auth.json missing or unreadable"
-      - env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           MODELS_TOKEN_CEU: ${{ secrets.MODELS_TOKEN_CEU }}
           TOKEN_MODELS: ${{ secrets.TOKEN_MODELS }}
@@ -51,12 +44,16 @@ jobs:
           HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY }}
           EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
           GOOGLE_INDEXING_JSON: ${{ secrets.GOOGLE_INDEXING_JSON }}
-        run: python stocks_main.py --lang en
-      - run: |
+          PYTHONPATH: ${{ github.workspace }}/scripts
+        run: python main.py --category ${{ matrix.category }} --lang ${{ matrix.lang }}
+
+      - name: Push Generated Article
+        run: |
           git config --global user.name "JoseAQ-19"
           git config --global user.email "josearizaquintero@gmail.com"
-          git add content/en/funds/ data/ static/images/ data/.*
+          git add content/ data/ static/images/
           git diff --staged --quiet && echo "No new content generated" && exit 0
-          git commit -m "📝 Funds (EN) Draft Generated — pending QA"
-          git pull --rebase origin main --autostash
-          git push
+          git commit -m "📝 ${{ matrix.category }} (${{ matrix.lang }}) Draft Generated — pending QA"
+          for i in {1..5}; do
+            git pull --rebase origin main --autostash && git push && break || sleep $((i*3))
+          done

@@ -1,5 +1,14 @@
 # PROGRESS — NovumWorld Autoblogger
-# ÚLTIMA ACTUALIZACIÓN: 2026-04-03T09:15:00Z (MASTERPIECE REMEDIATION)
+# ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (REPARACIÓN VERCEL, GITHUB ACTIONS & LIMPIEZA COMPLETADA)
+
+## 🟢 VERCEL, GITHUB ACTIONS & LIMPIEZA DE CÓDIGO (2026-08-10) - ESTADO: ✅ REPARADO Y COMPLETO
+- [x] **Reparación Vercel**: Creado `vercel.json` con comando de Hugo, añadido script de build en `package.json` y actualizado `vercel-ignore.sh` para soportar clones superficiales.
+- [x] **Consolidación GitHub Actions**: Reducidos 49 workflows duplicados a 4 workflows matriz universales (`scout.yml`, `writer.yml`, `corrector.yml`, `newsjacking.yml`). Añadido control de concurrencia y reintentos para `git push`.
+- [x] **Corrección de Tests**: Corregido `llm_router.py` (backoff en 429) y `test_json_cache.py` (importaciones). 14/14 tests pasando (100%).
+- [x] **Limpieza del Repositorio**: Eliminados 11 archivos de log/temporales en la raíz y 28 scripts de prueba obsoletos en `scripts/`.
+- [x] **Limpieza MCP Config**: Verificados y filtrados todos los servidores MCP en `mcp_config.json`. Conservados solo los funcionales (`StitchMCP`, `vercel`, `hf-action-director`).
+
+
 
 ## 💎 REMEDIACIÓN CRANIAL: OBRA MAESTRA (2026-04-03) - ESTADO: ✅ LISTO PARA ADSENSE
 1. [x] **Inspección Visual (Browser)**: Confirmado desastre visual con fugas de metadatos (`title:`, `slug:`) y falta de secciones GEO (TL;DR/Fuentes).
