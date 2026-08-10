@@ -25,3 +25,15 @@ def test_config_toml_ananke_params():
     content = config_toml_path.read_text(encoding="utf-8")
     assert "[params.ananke]" in content, "config.toml should define [params.ananke] section"
     assert 'custom_css = ["css/custom.css"]' in content, "custom_css should be defined under [params.ananke]"
+
+def test_site_analytics_partial_name():
+    root = Path(__file__).parent.parent
+    site_analytics_path = root / "layouts" / "partials" / "site-analytics.html"
+    assert site_analytics_path.exists(), "layouts/partials/site-analytics.html should exist"
+    
+    baseof_path = root / "layouts" / "baseof.html"
+    assert baseof_path.exists(), "layouts/baseof.html should exist"
+    baseof_content = baseof_path.read_text(encoding="utf-8")
+    assert 'partial "site-analytics.html"' in baseof_content, "baseof.html must use site-analytics.html partial"
+    assert 'partial "google_analytics.html"' not in baseof_content, "baseof.html must not use deprecated internal template name"
+

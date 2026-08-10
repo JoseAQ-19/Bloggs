@@ -54,8 +54,8 @@
 
   {{ if hugo.IsProduction }}
 
-  {{/* former internal template */}}
-  {{ partial "google_analytics.html" . }}
+  {{/* site analytics tracking template */}}
+  {{ partial "site-analytics.html" . }}
   {{ end }}
   {{ block "head" . }}{{ partials.Include "head-additions.html" . }}{{ end }}
 </head>
