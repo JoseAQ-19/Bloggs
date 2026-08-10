@@ -1,0 +1,20 @@
+{{- $featured := "" -}}
+{{- with .Params.featured_image -}}
+  {{- $ref := . -}}
+  {{- with $.Resources.GetMatch . -}}
+    {{- $featured = .RelPermalink -}}
+  {{- else -}}
+    {{- if in $ref "://" -}}
+      {{- $featured = $ref -}}
+    {{- else -}}
+      {{- $featured = strings.Trim $ref "/" | urls.AbsURL -}}
+    {{- end -}}
+  {{- end -}}
+{{- else -}}
+  {{- with .Resources.ByType "image" -}}
+    {{- with .GetMatch "**{feature,cover}*" -}}
+      {{- $featured = .RelPermalink -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $featured -}}

@@ -18,7 +18,7 @@ translationKey: 076cf542-3bf3-0d03-1250-3c6bcd56a399
 type: fitness
 ---
 
-![England's Fitness Surge: 9 Reasons They Can Overcome Norway for World Cup Glory](/images/defaults/default-fitness.jpg)
+![England's Fitness Surge: 9 Reasons They Can Overcome Norway for World Cup Glory](/images/englands-fitness-surge-key-to-world-cup-glory-against-norway-en.webp)
 
 {{< adsterra_native >}}
 

@@ -17,7 +17,7 @@ translationKey: 94251cd1-94eb-d3d1-5156-b9f7e8402ba1
 type: crypto
 ---
 
-![10 Mitos Sobre Bitcoin Que Te Están Impidiendo Invertir En México Ahora Mismo](/images/defaults/default-crypto.jpg)
+![10 Mitos Sobre Bitcoin Que Te Están Impidiendo Invertir En México Ahora Mismo](/images/bitcoin-es-ahora-el-mejor-momento-para-invertir-en-mexico.webp)
 
 ## Resumen Ejecutivo
 

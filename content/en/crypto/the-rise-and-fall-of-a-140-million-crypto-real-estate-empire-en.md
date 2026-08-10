@@ -17,7 +17,7 @@ translationKey: 4782d70b-2db8-9319-0caf-06fd6775cdf4
 type: crypto
 ---
 
-![The Shocking Collapse of a $140 Million Crypto Real Estate Empire Exposed](/images/defaults/default-crypto.jpg)
+![The Shocking Collapse of a $140 Million Crypto Real Estate Empire Exposed](/images/the-rise-and-fall-of-a-140-million-crypto-real-estate-empire-en.webp)
 
 {{< adsterra_native >}}
 

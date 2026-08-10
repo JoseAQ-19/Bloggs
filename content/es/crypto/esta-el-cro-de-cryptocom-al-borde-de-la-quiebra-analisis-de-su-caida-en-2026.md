@@ -17,7 +17,7 @@ translationKey: 53535d17-854e-8ed0-9440-38b572285bb2
 type: crypto
 ---
 
-![Crypto.com Al Borde de la Quiebra: Lo Que Nadie Se Atreve a Decir](/images/defaults/default-crypto.jpg)
+![Crypto.com Al Borde de la Quiebra: Lo Que Nadie Se Atreve a Decir](/images/esta-el-cro-de-cryptocom-al-borde-de-la-quiebra-analisis-de-su-caida-en-2026.webp)
 
 ## Resumen Ejecutivo
 - Crypto.com se encuentra al borde de la quiebra, con pérdidas financieras que superan los $1.2 mil millones en el último trimestre.

@@ -18,7 +18,7 @@ translationKey: b8492be3-f855-d07d-61cc-27d500263f41
 type: fitness
 ---
 
-![Fitness Influencer's Outrageous Remarks Ignite Backlash Against Navajo Culture and Heritage](/images/defaults/default-fitness.jpg)
+![Fitness Influencer's Outrageous Remarks Ignite Backlash Against Navajo Culture and Heritage](/images/fitness-influencer-sparks-outrage-with-controversial-comments-on-navajo-culture-en.webp)
 
 {{< adsterra_native >}}
 

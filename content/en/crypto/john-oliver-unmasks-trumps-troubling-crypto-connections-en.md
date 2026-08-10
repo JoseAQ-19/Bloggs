@@ -18,7 +18,7 @@ translationKey: 1c14cbea-55a8-77e1-09ce-3d734c509e77
 type: crypto
 ---
 
-![John Oliver Exposes Five Shocking Crypto Deals Tied to Trump’s Hidden Financial Empire](/images/defaults/default-crypto.jpg)
+![John Oliver Exposes Five Shocking Crypto Deals Tied to Trump’s Hidden Financial Empire](/images/john-oliver-unmasks-trumps-troubling-crypto-connections-en.webp)
 
 {{< adsterra_native >}}
 

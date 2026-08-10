@@ -18,7 +18,7 @@ translationKey: 0a537ab2-721f-6c29-88ff-6c54a2e2bc63
 type: crypto
 ---
 
-![La Amenaza Silenciosa: 5 Estafas de Invasión en el Mundo Cripto que Nadie Vio Venir](/images/defaults/default-crypto.jpg)
+![La Amenaza Silenciosa: 5 Estafas de Invasión en el Mundo Cripto que Nadie Vio Venir](/images/home-invasions-el-nuevo-ataque-sorpresa-en-el-mundo-cripto-que-sacude-el-primer-semestre-de-2026.webp)
 
 BitConnect, una de las mayores estafas en la historia de las criptomonedas, dejó a miles de inversores sin sus ahorros y expuso la fragilidad del ecosistema cripto ante engaños sofisticados y falta de regulación efectiva.
 

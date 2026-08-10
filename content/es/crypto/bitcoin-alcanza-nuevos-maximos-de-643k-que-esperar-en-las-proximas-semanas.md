@@ -17,7 +17,7 @@ translationKey: adf6ffc3-4bda-1193-e159-01255bbf0c97
 type: crypto
 ---
 
-![Bitcoin Rompe Barreras: Nuevos Máximos Históricos de $64.3K y Nadie Lo Notó](/images/defaults/default-crypto.jpg)
+![Bitcoin Rompe Barreras: Nuevos Máximos Históricos de $64.3K y Nadie Lo Notó](/images/bitcoin-alcanza-nuevos-maximos-de-643k-que-esperar-en-las-proximas-semanas.webp)
 
 ## Resumen Ejecutivo
 - Bitcoin ha alcanzado nuevos máximos históricos de $64.3K, un hito que pasó desapercibido para muchos en el sector financiero.

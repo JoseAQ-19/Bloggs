@@ -18,7 +18,7 @@ translationKey: f609da92-5791-c7c8-c54f-7bf87b40696e
 type: fitness
 ---
 
-![Trump's Shocking Move: Reviving The Presidential Fitness Test To Combat Obesity Crisis](/images/defaults/default-fitness.jpg)
+![Trump's Shocking Move: Reviving The Presidential Fitness Test To Combat Obesity Crisis](/images/reviving-the-presidential-fitness-test-secretary-kennedys-bold-move-to-get-kids-active-en.webp)
 
 {{< adsterra_native >}}
 

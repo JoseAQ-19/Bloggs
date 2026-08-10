@@ -18,7 +18,7 @@ translationKey: 8ca1f574-ba61-2f40-e2ed-b2534abc85ff
 type: crypto
 ---
 
-![Southeast Asia’s Crypto Miners Just Stole $100 Million in Electricity and Nobody Noticed](/images/defaults/default-crypto.jpg)
+![Southeast Asia’s Crypto Miners Just Stole $100 Million in Electricity and Nobody Noticed](/images/power-heist-how-southeast-asias-crypto-miners-are-stealing-electricity-en.webp)
 
 {{< adsterra_native >}}
 

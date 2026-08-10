@@ -17,7 +17,7 @@ translationKey: 4f319d32-fca5-3ac6-69f0-2c7125cc51d0
 type: crypto
 ---
 
-![Bitcoin Plummets 30% Overnight: The Shocking Truth Behind This Crypto Collapse](/images/defaults/default-crypto.jpg)
+![Bitcoin Plummets 30% Overnight: The Shocking Truth Behind This Crypto Collapse](/images/is-bitcoin-facing-a-deep-freeze-or-just-a-minor-dip-the-future-of-crypto-explained-en.webp)
 
 ## Executive Summary
 - Bitcoin has dropped 30% overnight, falling below $20,000 for the first time since 2020, signaling a potential market crisis.

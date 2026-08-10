@@ -17,7 +17,7 @@ translationKey: c0c0ec0c-af22-3e4c-6b43-b50e3a30a5ce
 type: fitness
 ---
 
-![The Hidden Endurance Test: Conquer the Plank and Squat to Prove Your Fitness](/images/defaults/default-fitness.jpg)
+![The Hidden Endurance Test: Conquer the Plank and Squat to Prove Your Fitness](/images/challenge-yourself-can-you-beat-the-plank-squat-test-en.webp)
 
 {{< adsterra_native >}}
 

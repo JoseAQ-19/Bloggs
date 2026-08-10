@@ -17,7 +17,7 @@ translationKey: 9d4d5d8f-516a-1258-ed74-6168564967e7
 type: crypto
 ---
 
-![Trump’s $1.4 Billion Crypto Gains: The Shocking Truth Behind His Stock Investments](/images/defaults/default-crypto.jpg)
+![Trump’s $1.4 Billion Crypto Gains: The Shocking Truth Behind His Stock Investments](/images/trumps-crypto-gains-investing-in-stocks-and-bonds-revealed-en.webp)
 
 {{< adsterra_native >}}
 

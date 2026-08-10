@@ -18,7 +18,7 @@ translationKey: 673cda80-5afe-3ed2-b064-3f7db698392e
 type: crypto
 ---
 
-![Inversores Británicos Demandaron a Binance y Zhao por $200 Millones: El Fin de la Impunidad](/images/defaults/default-crypto.jpg)
+![Inversores Británicos Demandaron a Binance y Zhao por $200 Millones: El Fin de la Impunidad](/images/inversores-britanicos-demandan-a-binance-y-changpeng-zhao-por-200-millones-el-fin-de-la-impunidad.webp)
 
 ## Resumen Ejecutivo
 - Los inversores británicos han demandado a Binance y a su CEO, Changpeng Zhao, por $200 millones debido a supuestas prácticas fraudulentas.

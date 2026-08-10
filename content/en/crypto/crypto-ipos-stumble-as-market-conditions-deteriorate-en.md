@@ -17,7 +17,7 @@ translationKey: 16e2a3ef-232f-ab12-2dc0-b3ae010feec7
 type: crypto
 ---
 
-![Crypto IPOs Plummet 40%: The Shocking Truth Behind Market Chaos](/images/defaults/default-crypto.jpg)
+![Crypto IPOs Plummet 40%: The Shocking Truth Behind Market Chaos](/images/crypto-ipos-stumble-as-market-conditions-deteriorate-en.webp)
 
 ## Executive Summary
 

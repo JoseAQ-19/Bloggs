@@ -17,7 +17,7 @@ translationKey: 0f2e474b-fb32-93b8-e23a-31b5b0c2f2ed
 type: crypto
 ---
 
-![Trump’s Shocking $1.4 Billion Crypto Income Amid Ethics Scandal Ignites Outrage](/images/defaults/default-crypto.jpg)
+![Trump’s Shocking $1.4 Billion Crypto Income Amid Ethics Scandal Ignites Outrage](/images/the-crypto-conflict-trumps-financial-windfall-and-senate-fallout-en.webp)
 
 {{< adsterra_native >}}
 

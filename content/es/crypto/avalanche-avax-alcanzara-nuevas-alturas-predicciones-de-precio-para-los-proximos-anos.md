@@ -18,7 +18,7 @@ translationKey: e83835d7-8388-e059-1132-d3792d19b13c
 type: crypto
 ---
 
-![Avalanche (AVAX) Revela Su Potencial: Predicciones Que Harán Temblar a Inversores en 2025](/images/defaults/default-crypto.jpg)
+![Avalanche (AVAX) Revela Su Potencial: Predicciones Que Harán Temblar a Inversores en 2025](/images/avalanche-avax-alcanzara-nuevas-alturas-predicciones-de-precio-para-los-proximos-anos.webp)
 
 ## Resumen Ejecutivo
 - Avalanche (AVAX) podría alcanzar un valor de $50 para 2025, según predicciones de analistas del sector.

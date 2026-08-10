@@ -17,7 +17,7 @@ translationKey: c258fadc-d8b8-772b-7494-f2a24780cca4
 type: fitness
 ---
 
-![Don’t Wait: 69+ Prime Day Fitness Deals That Will Revolutionize Your Workouts](/images/defaults/default-fitness.jpg)
+![Don’t Wait: 69+ Prime Day Fitness Deals That Will Revolutionize Your Workouts](/images/dont-miss-out-69-prime-day-fitness-deals-that-will-transform-your-workout-en.webp)
 
 {{< adsterra_native >}}
 

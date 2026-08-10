@@ -17,7 +17,7 @@ translationKey: 18ea7d09-60ff-5199-8b3f-89d2b55854ff
 type: fitness
 ---
 
-![Lamine Yamal's Shocking Fitness Secrets That Could Change Football Forever](/images/defaults/default-fitness.jpg)
+![Lamine Yamal's Shocking Fitness Secrets That Could Change Football Forever](/images/lamine-yamals-fitness-secrets-revealed-a-pre-world-cup-exclusive-en.webp)
 
 {{< adsterra_native >}}
 

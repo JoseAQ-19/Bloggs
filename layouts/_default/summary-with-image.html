@@ -1,10 +1,10 @@
 <article class="flex flex-column h-100 card-modern shadow-soft overflow-hidden" data-aos="fade-up">
 
   {{/* 1. Featured Image (Single, top) */}}
-  {{ $img := .Param "featured_image" }}
+  {{ $img := partial "func/GetFeaturedImage.html" . }}
   <div class="card-image-container relative">
     {{ if $img }}
-      <img src="{{ $img | relURL }}" class="db w-100 object-fit-cover card-img" alt="{{ .Title }}" width="400" height="220" loading="lazy">
+      <img src="{{ $img }}" class="db w-100 object-fit-cover card-img" alt="{{ .Title }}" width="400" height="220" loading="lazy">
     {{ else }}
       <div class="db w-100 h-100 bg-near-white flex items-center justify-center gray fw1">No visual</div>
     {{ end }}

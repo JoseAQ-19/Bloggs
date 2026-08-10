@@ -17,7 +17,7 @@ translationKey: be68a283-69f5-0e64-299a-fc50223c1f25
 type: crypto
 ---
 
-![Jewish American Spied for Iran: The Shocking $1,400 Crypto Connection Exposed](/images/defaults/default-crypto.jpg)
+![Jewish American Spied for Iran: The Shocking $1,400 Crypto Connection Exposed](/images/jewish-american-spying-for-iran-a-1400-crypto-connection-uncovered-en.webp)
 
 {{< adsterra_native >}}
 

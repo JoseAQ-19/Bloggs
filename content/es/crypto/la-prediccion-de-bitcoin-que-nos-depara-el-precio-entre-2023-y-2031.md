@@ -17,7 +17,7 @@ translationKey: da625f51-b377-9590-3600-4b44f58b98f4
 type: crypto
 ---
 
-![La Impactante Predicción Del Precio De Bitcoin: 500.000 Dólares Para 2031](/images/defaults/default-crypto.jpg)
+![La Impactante Predicción Del Precio De Bitcoin: 500.000 Dólares Para 2031](/images/la-prediccion-de-bitcoin-que-nos-depara-el-precio-entre-2023-y-2031.webp)
 
 ## Resumen Ejecutivo
 * Se proyecta que el precio de Bitcoin alcance los 500.000 dólares para 2031, según análisis que toman en cuenta la adopción institucional y la escasez programada del activo digital. 

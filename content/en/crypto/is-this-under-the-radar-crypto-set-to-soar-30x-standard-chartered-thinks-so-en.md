@@ -18,7 +18,7 @@ translationKey: aafd5bed-4ab3-9d27-8e40-7e58d09db341
 type: crypto
 ---
 
-![Standard Chartered Just Predicted 30x Gains for This Unknown Crypto and Nobody Noticed](/images/defaults/default-crypto.jpg)
+![Standard Chartered Just Predicted 30x Gains for This Unknown Crypto and Nobody Noticed](/images/is-this-under-the-radar-crypto-set-to-soar-30x-standard-chartered-thinks-so-en.webp)
 
 {{< adsterra_native >}}
 

@@ -17,7 +17,7 @@ translationKey: 147d2510-c5e9-0172-b40f-6536c847181b
 type: crypto
 ---
 
-![Top Analyst Reveals Shocking Truth: XRP Could Skyrocket to $100 Trillion](/images/defaults/default-crypto.jpg)
+![Top Analyst Reveals Shocking Truth: XRP Could Skyrocket to $100 Trillion](/images/the-secret-to-xrps-potential-100-trillion-surge-revealed-by-top-analyst-en.webp)
 
 {{< adsterra_native >}}
 

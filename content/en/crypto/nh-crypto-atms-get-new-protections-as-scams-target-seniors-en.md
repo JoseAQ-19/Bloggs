@@ -17,7 +17,7 @@ translationKey: c669be51-86e0-f26e-8c66-70648f23bbf9
 type: crypto
 ---
 
-![New Protections For NH Crypto ATMs As Scams Target Seniors With $40,000 Losses](/images/defaults/default-crypto.jpg)
+![New Protections For NH Crypto ATMs As Scams Target Seniors With $40,000 Losses](/images/nh-crypto-atms-get-new-protections-as-scams-target-seniors-en.webp)
 
 {{< adsterra_native >}}
 

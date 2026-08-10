@@ -17,7 +17,7 @@ translationKey: 6cb4ca21-224e-d609-f56d-3c4ad675b6ab
 type: crypto
 ---
 
-![Congress Just Unleashed 10 Shocking Crypto Scandals Fueling Trump's Controversies](/images/defaults/default-crypto.jpg)
+![Congress Just Unleashed 10 Shocking Crypto Scandals Fueling Trump's Controversies](/images/unmasking-corruption-how-congress-fuels-trumps-crypto-controversies-en.webp)
 
 {{< adsterra_native >}}
 

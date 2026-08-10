@@ -18,7 +18,7 @@ translationKey: 82dce713-5516-c383-5226-3d5a0f2821ea
 type: crypto
 ---
 
-![Bitcoin Owners Lose $116 Million in Devastating Coldcard Hack: What You Need to Know Analysis](/images/defaults/default-crypto.jpg)
+![Bitcoin Owners Lose $116 Million in Devastating Coldcard Hack: What You Need to Know Analysis](/images/bitcoin-owners-lose-116-million-in-devastating-coldcard-hack-what-you-need-to-know-en.webp)
 
 {{< adsterra_native >}}
 

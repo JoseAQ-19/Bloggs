@@ -17,7 +17,7 @@ translationKey: b16fbd54-fcd7-9ae1-516b-5fbd6854516b
 type: crypto
 ---
 
-![Investors Are Losing Billions: The Shocking Truth Behind The Meme Coin Meltdown](/images/defaults/default-crypto.jpg)
+![Investors Are Losing Billions: The Shocking Truth Behind The Meme Coin Meltdown](/images/meme-coin-market-meltdown-why-investors-are-feeling-the-pain-right-now-en.webp)
 
 {{< adsterra_native >}}
 

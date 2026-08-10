@@ -17,7 +17,7 @@ translationKey: edf681e9-79ba-6c37-f8e9-5966447354be
 type: crypto
 ---
 
-![Crypto's Brain Drain: 3 Major Meta AI Departures That Shocked The Industry](/images/defaults/default-crypto.jpg)
+![Crypto's Brain Drain: 3 Major Meta AI Departures That Shocked The Industry](/images/cryptos-brain-drain-why-top-talent-is-jumping-ship-to-ai-en.webp)
 
 ## Executive Summary
 

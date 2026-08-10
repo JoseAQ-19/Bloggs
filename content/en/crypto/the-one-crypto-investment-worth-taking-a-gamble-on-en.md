@@ -17,7 +17,7 @@ translationKey: 671c7100-dcaa-b799-fbf6-01acfac338d7
 type: crypto
 ---
 
-![Bitmine’s $11 Billion Ethereum Bet: Why This Gamble Could Change Everything](/images/defaults/default-crypto.jpg)
+![Bitmine’s $11 Billion Ethereum Bet: Why This Gamble Could Change Everything](/images/the-one-crypto-investment-worth-taking-a-gamble-on-en.webp)
 
 ## Executive Summary
 

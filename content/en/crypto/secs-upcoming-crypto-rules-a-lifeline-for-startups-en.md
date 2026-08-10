@@ -17,7 +17,7 @@ translationKey: 0ea829c0-d60f-81d7-4b03-c7ac5efc2e2c
 type: crypto
 ---
 
-![SEC’s Shocking Crypto Rules Could Save 5,000 Startups From Collapse](/images/defaults/default-crypto.jpg)
+![SEC’s Shocking Crypto Rules Could Save 5,000 Startups From Collapse](/images/secs-upcoming-crypto-rules-a-lifeline-for-startups-en.webp)
 
 {{< adsterra_native >}}
 

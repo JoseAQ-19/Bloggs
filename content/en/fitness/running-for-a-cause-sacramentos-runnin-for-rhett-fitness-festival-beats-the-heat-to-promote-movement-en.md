@@ -18,7 +18,7 @@ translationKey: 443b0c3c-64bb-dfb2-c9c9-a567260d7306
 type: fitness
 ---
 
-![Running For A Cause: Sacramento's Runnin' for Rhett Fitness Festival Beats The Heat To Promote Movement And Community Analysis](/images/defaults/default-fitness.jpg)
+![Running For A Cause: Sacramento's Runnin' for Rhett Fitness Festival Beats The Heat To Promote Movement And Community Analysis](/images/running-for-a-cause-sacramentos-runnin-for-rhett-fitness-festival-beats-the-heat-to-promote-movement-en.webp)
 
 {{< adsterra_native >}}
 

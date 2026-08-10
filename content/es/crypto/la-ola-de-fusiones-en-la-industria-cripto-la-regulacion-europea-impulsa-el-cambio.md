@@ -18,7 +18,7 @@ translationKey: 72a9274c-e01e-dc46-a9ad-b8432a61e7bb
 type: crypto
 ---
 
-![La Regulación Europea Desata Un Tsunami De Fusiones En Cripto Que Podría Cambiarlo Todo](/images/defaults/default-crypto.jpg)
+![La Regulación Europea Desata Un Tsunami De Fusiones En Cripto Que Podría Cambiarlo Todo](/images/la-ola-de-fusiones-en-la-industria-cripto-la-regulacion-europea-impulsa-el-cambio.webp)
 
 ## Resumen Ejecutivo
 

@@ -18,7 +18,7 @@ translationKey: cd4022e7-8937-b14a-76d8-c28f8320706e
 type: crypto
 ---
 
-![High-Stakes Senate Vote Sparks Outrage Over Controversial Crypto Legislation Changes](/images/defaults/default-crypto.jpg)
+![High-Stakes Senate Vote Sparks Outrage Over Controversial Crypto Legislation Changes](/images/high-stakes-crypto-legislation-senate-vote-looms-on-controversial-bill-en.webp)
 
 ## TL;DR BULLETS
 

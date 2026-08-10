@@ -17,7 +17,7 @@ translationKey: b9f3deaa-48d8-f1f0-2f8a-0c7acd1ebb4d
 type: crypto
 ---
 
-![BitMart Bows Out: How This 1 Exchange Collapse Will Impact Thousands of Investors](/images/defaults/default-crypto.jpg)
+![BitMart Bows Out: How This 1 Exchange Collapse Will Impact Thousands of Investors](/images/bitmart-bows-out-what-the-shutdown-of-another-crypto-exchange-means-for-investors-en.webp)
 
 {{< adsterra_native >}}
 

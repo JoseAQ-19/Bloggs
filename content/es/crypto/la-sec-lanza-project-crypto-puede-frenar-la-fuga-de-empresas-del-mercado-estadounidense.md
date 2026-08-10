@@ -18,7 +18,7 @@ translationKey: b87533ef-b018-84ff-6cdd-d47bf266c8cb
 type: crypto
 ---
 
-![La SEC Lanza Project Crypto: 5 Consecuencias Que Pueden Cambiar El Futuro Financiero](/images/defaults/default-crypto.jpg)
+![La SEC Lanza Project Crypto: 5 Consecuencias Que Pueden Cambiar El Futuro Financiero](/images/la-sec-lanza-project-crypto-puede-frenar-la-fuga-de-empresas-del-mercado-estadounidense.webp)
 
 ## Resumen Ejecutivo
 - La SEC ha lanzado el Project Crypto con el objetivo de regular el mercado de criptomonedas y proteger a los inversores.

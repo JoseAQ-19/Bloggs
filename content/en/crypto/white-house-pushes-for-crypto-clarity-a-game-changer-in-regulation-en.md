@@ -18,7 +18,7 @@ translationKey: 51519dc5-77a0-2c2a-a2b1-fd626f1c27d6
 type: crypto
 ---
 
-![The White House's Shocking Crypto Clarity Initiative: Game-Changer Or Empty Promise?](/images/defaults/default-crypto.jpg)
+![The White House's Shocking Crypto Clarity Initiative: Game-Changer Or Empty Promise?](/images/white-house-pushes-for-crypto-clarity-a-game-changer-in-regulation-en.webp)
 
 {{< adsterra_native >}}
 

@@ -18,7 +18,7 @@ translationKey: 0200f0fe-7420-e750-4c67-2b18657f7577
 type: crypto
 ---
 
-![Shocking Senate Proposal: Ban on Federal Officials Analyzing Digital Assets Gains Momentum](/images/defaults/default-crypto.jpg)
+![Shocking Senate Proposal: Ban on Federal Officials Analyzing Digital Assets Gains Momentum](/images/senate-proposes-groundbreaking-ban-on-federal-officials-issuing-digital-assets-en.webp)
 
 {{< adsterra_native >}}
 

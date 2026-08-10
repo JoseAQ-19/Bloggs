@@ -18,7 +18,7 @@ translationKey: 838b29e8-dc47-72d2-a1f7-9d196f4efb91
 type: fitness
 ---
 
-![Unleash Your Fitness Journey: Save Up To 48% On Top-Rated Equipment With Horizon Fitness Promo Codes Analysis](/images/defaults/default-fitness.jpg)
+![Unleash Your Fitness Journey: Save Up To 48% On Top-Rated Equipment With Horizon Fitness Promo Codes Analysis](/images/unleash-your-fitness-journey-save-up-to-48-on-top-rated-equipment-with-horizon-fitness-promo-codes-en.webp)
 
 {{< adsterra_native >}}
 

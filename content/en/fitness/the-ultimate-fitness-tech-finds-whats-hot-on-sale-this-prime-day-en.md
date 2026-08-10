@@ -17,7 +17,7 @@ translationKey: 4b5c30b1-5e7a-a8d9-189d-ba4c021e4ae3
 type: fitness
 ---
 
-![Prime Day Shock: Fitbit Charge 6 Dropped to Record Low of $89.95](/images/defaults/default-fitness.jpg)
+![Prime Day Shock: Fitbit Charge 6 Dropped to Record Low of $89.95](/images/the-ultimate-fitness-tech-finds-whats-hot-on-sale-this-prime-day-en.webp)
 
 {{< adsterra_native >}}
 

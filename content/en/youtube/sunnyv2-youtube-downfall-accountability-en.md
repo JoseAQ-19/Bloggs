@@ -19,7 +19,7 @@ type: youtube
 ---
 
 ## Executive Summary
-* ![SunnyV2's Downfall: The \$50 Million Mistake Every Influencer Should Fear](/images/sunnyv2-youtube-downfall-accountability.en.jpg)
+* ![SunnyV2's Downfall: The \$50 Million Mistake Every Influencer Should Fear](/images/sunnyv2-youtube-downfall-accountability-en.jpg)
 
 SunnyV2's troubles reveal a harsh reality: the influencer "bubble" is bursting as ethics and accountability take center stage....
 

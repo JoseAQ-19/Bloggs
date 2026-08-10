@@ -18,7 +18,7 @@ translationKey: 24284b8d-f0f5-fb03-20f6-2f0df554e7ac
 type: crypto
 ---
 
-![EU's New Sanctions Package Deals A Devastating Blow To Russian Financial Services And Crypto](/images/defaults/default-crypto.jpg)
+![EU's New Sanctions Package Deals A Devastating Blow To Russian Financial Services And Crypto](/images/eus-21st-sanctions-package-a-major-blow-to-russian-crypto-and-financial-services-en.webp)
 
 {{< adsterra_native >}}
 

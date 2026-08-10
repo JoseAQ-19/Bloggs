@@ -17,7 +17,7 @@ translationKey: 7402c344-e618-44cc-b473-3e6e76cbab62
 type: crypto
 ---
 
-![The $100,000 Bitcoin Storm Is Brewing: Why This Bear Market Is Deceptive](/images/defaults/default-crypto.jpg)
+![The $100,000 Bitcoin Storm Is Brewing: Why This Bear Market Is Deceptive](/images/why-bitcoins-bear-market-might-just-be-the-calm-before-a-100000-storm-en.webp)
 
 {{< adsterra_native >}}
 

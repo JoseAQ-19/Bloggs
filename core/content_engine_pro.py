@@ -332,9 +332,16 @@ def main_upgrade_engine(target_file_path):
 
     if not img_exists:
         print(f"   🖼️ Regenerando imagen: {post.get('slug', 'unknown')}")
-        new_img = get_image(post.get('title', 'Unknown Topic'), cleaned_body, post.get('slug', 'unknown'), category=niche)
+        img_res = get_image(post.get('title', 'Unknown Topic'), cleaned_body, post.get('slug', 'unknown'), category=niche)
+        new_img = img_res[0] if isinstance(img_res, tuple) else img_res
         post['featured_image'] = new_img
         post['image'] = new_img # Compatibilidad layouts viejos
+        image_pattern = re.compile(r'(!\[[^\]]*\]\()[^)\s]+(\))')
+        if image_pattern.search(post.content or ''):
+            post.content = image_pattern.sub(rf'\g<1>{new_img}\g<2>', post.content, count=1)
+        else:
+            title = post.get('title', 'Featured image')
+            post.content = f"![{title}]({new_img})\n\n{post.content.lstrip()}"
         print(f"   ✅ Nueva imagen: {new_img}")
 
     with open(target_file_path, 'wb') as f:

@@ -18,7 +18,7 @@ translationKey: a160b045-e7ee-dd6c-c138-f52934acbaa0
 type: crypto
 ---
 
-![BitMart's Sudden Shutdown: The Alarming Trend of Three Exchanges Closing This Month](/images/defaults/default-crypto.jpg)
+![BitMart's Sudden Shutdown: The Alarming Trend of Three Exchanges Closing This Month](/images/bitmarts-shutdown-what-does-it-mean-for-the-future-of-crypto-exchanges-en.webp)
 
 {{< adsterra_native >}}
 

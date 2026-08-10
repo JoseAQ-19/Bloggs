@@ -17,7 +17,7 @@ translationKey: c3553308-39d5-b245-df25-ec2922f8382f
 type: crypto
 ---
 
-![The Mysterious Trader Who Turned $838 Into $1 Million in Just 20 Days](/images/defaults/default-crypto.jpg)
+![The Mysterious Trader Who Turned $838 Into $1 Million in Just 20 Days](/images/inside-the-mysterious-trader-who-turned-838-into-a-million-in-just-20-days-en.webp)
 
 ## Executive Summary
 - An anonymous trader transformed a mere $838 into over $1 million within 20 days by investing in the CASHCAT meme coin, as reported by **The Jerusalem Post**.

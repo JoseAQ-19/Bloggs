@@ -18,7 +18,7 @@ translationKey: 297064de-3ff9-338a-e471-53d4000ab10d
 type: crypto
 ---
 
-![El Token CRO De Crypto.com Está En Mínimos Históricos: Una Oportunidad Perdida O Una Trampa.](/images/defaults/default-crypto.jpg)
+![El Token CRO De Crypto.com Está En Mínimos Históricos: Una Oportunidad Perdida O Una Trampa.](/images/es-el-token-cro-de-cryptocom-una-oportunidad-oculta-o-una-trampa-en-sus-minimos-de-2026.webp)
 
 ## Resumen Ejecutivo
 - El token CRO de Crypto.com ha caído a su mínimo histórico de $0.06, generando preocupaciones sobre su futuro.

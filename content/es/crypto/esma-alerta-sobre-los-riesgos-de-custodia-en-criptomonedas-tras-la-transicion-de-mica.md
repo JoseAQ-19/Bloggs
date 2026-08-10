@@ -18,7 +18,7 @@ translationKey: 60013045-e220-32d9-27cd-cb34cec02dc8
 type: crypto
 ---
 
-![La Verdadera Amenaza: 3 Consecuencias De La Custodia De Criptomonedas Tras MiCA](/images/defaults/default-crypto.jpg)
+![La Verdadera Amenaza: 3 Consecuencias De La Custodia De Criptomonedas Tras MiCA](/images/esma-alerta-sobre-los-riesgos-de-custodia-en-criptomonedas-tras-la-transicion-de-mica.webp)
 
 ## Resumen Ejecutivo
 - La regulación MiCA puede impactar el 80% del mercado de criptomonedas en la UE, según un informe de la Autoridad Europea de Valores y Mercados (ESMA).

@@ -17,7 +17,7 @@ translationKey: 99c420c8-72e7-4b50-a542-734e6a10e6b5
 type: crypto
 ---
 
-![La Clave Oculta Detrás De La Resistencia De Bitcoin Y Ethereum Este Mes](/images/defaults/default-crypto.jpg)
+![La Clave Oculta Detrás De La Resistencia De Bitcoin Y Ethereum Este Mes](/images/bitcoin-y-ethereum-enfrentan-una-prueba-decisiva-podran-mantener-sus-precios-clave.webp)
 
 ## Resumen Ejecutivo
 

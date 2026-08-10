@@ -18,7 +18,7 @@ translationKey: 95905bdc-b829-e76d-351b-54e24e6d2a43
 type: crypto
 ---
 
-![Quantum Threat Just Revealed: Five Shocking Ways Crypto Firms Are Fortifying Defenses](/images/defaults/default-crypto.jpg)
+![Quantum Threat Just Revealed: Five Shocking Ways Crypto Firms Are Fortifying Defenses](/images/quantum-threat-looms-how-crypto-firms-are-fortifying-their-defenses-en.webp)
 
 ## Executive Summary
 * Quantum computing poses a significant threat to cryptographic security, with estimates suggesting it could break current encryption methods within the next decade. 

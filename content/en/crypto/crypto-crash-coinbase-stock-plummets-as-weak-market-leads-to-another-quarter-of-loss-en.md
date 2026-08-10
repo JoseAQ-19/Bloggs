@@ -18,7 +18,7 @@ translationKey: 0eef7d4b-c56e-553d-91c8-09dffbf373e8
 type: crypto
 ---
 
-![Crypto Crash: Coinbase Stock Plummets as Weak Market Leads to Another Quarter of Loss Analysis](/images/defaults/default-crypto.jpg)
+![Crypto Crash: Coinbase Stock Plummets as Weak Market Leads to Another Quarter of Loss Analysis](/images/crypto-crash-coinbase-stock-plummets-as-weak-market-leads-to-another-quarter-of-loss-en.webp)
 
 {{< adsterra_native >}}
 

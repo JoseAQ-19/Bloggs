@@ -17,7 +17,7 @@ translationKey: 3477ef11-5fc3-9d02-6714-7487b2e60612
 type: crypto
 ---
 
-![OpenVM's ZkVM Just Revealed 5 Cryptography Secrets That Could Change Everything](/images/defaults/default-crypto.jpg)
+![OpenVM's ZkVM Just Revealed 5 Cryptography Secrets That Could Change Everything](/images/ai-unleashes-secrets-what-openvms-zkvm-reveals-about-cryptography-en.webp)
 
 {{< adsterra_native >}}
 

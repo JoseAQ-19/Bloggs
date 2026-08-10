@@ -17,7 +17,7 @@ translationKey: ddbd5499-f91a-e803-d8eb-a945457b1713
 type: crypto
 ---
 
-![Vanguard Just Shocked the World: From Crypto Skeptic to Digital Asset Pioneer](/images/defaults/default-crypto.jpg)
+![Vanguard Just Shocked the World: From Crypto Skeptic to Digital Asset Pioneer](/images/vanguards-surprising-shift-from-crypto-skeptic-to-digital-asset-pioneer-en.webp)
 
 {{< adsterra_native >}}
 

@@ -18,7 +18,7 @@ translationKey: 4c769b68-4d5e-12aa-a36a-bbe5f1f8e1d2
 type: crypto
 ---
 
-![CRO Impulsa un Rebote Sorprendente: 6.17% en el Ecosistema Crypto.com Que Nadie Vio Venir](/images/defaults/default-crypto.jpg)
+![CRO Impulsa un Rebote Sorprendente: 6.17% en el Ecosistema Crypto.com Que Nadie Vio Venir](/images/cro-impulsa-un-rebote-sorprendente-en-el-ecosistema-cryptocom-con-un-crecimiento-del-617.webp)
 
 ## Resumen Ejecutivo
 

@@ -18,7 +18,7 @@ translationKey: 793384c4-5564-8f1e-22c3-c9e598ac83b4
 type: fitness
 ---
 
-![Spiritual Fitness: Former Bachelorette Contestant Eric Bigger's New Book Reveals the Secret to a Healthy Mind and Body Analysis](/images/defaults/default-fitness.jpg)
+![Spiritual Fitness: Former Bachelorette Contestant Eric Bigger's New Book Reveals the Secret to a Healthy Mind and Body Analysis](/images/spiritual-fitness-former-bachelorette-contestant-eric-biggers-new-book-reveals-the-secret-to-a-healt-en.webp)
 
 {{< adsterra_native >}}
 

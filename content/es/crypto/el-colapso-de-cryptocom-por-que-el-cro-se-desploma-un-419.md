@@ -17,7 +17,7 @@ translationKey: c46d59d0-8b3f-1b41-7783-1c5174de0d3f
 type: crypto
 ---
 
-![Crypto.com Alerta: El Dramático Colapso del CRO Que Nadie Vio Venir](/images/defaults/default-crypto.jpg)
+![Crypto.com Alerta: El Dramático Colapso del CRO Que Nadie Vio Venir](/images/el-colapso-de-cryptocom-por-que-el-cro-se-desploma-un-419.webp)
 
 ## Resumen Ejecutivo
 - El precio del token CRO de Crypto.com cayó más del 70% en los últimos seis meses, lo que sorprende a muchos inversores y analistas.

@@ -18,7 +18,7 @@ translationKey: c9c425a4-b490-f200-0ddf-f379357963c5
 type: fitness
 ---
 
-![Ditch Google Health: 5 Fitness Apps That Are Crushing the Competition Right Now](/images/defaults/default-fitness.jpg)
+![Ditch Google Health: 5 Fitness Apps That Are Crushing the Competition Right Now](/images/ditch-google-health-5-must-try-fitness-apps-that-outshine-the-rest-en.webp)
 
 Without question, the retreat of Google Health from the fitness app market is a glaring indication of the instability and unpredictability embedded within the digital health landscape. As one of the most prominent tech giants, Google Health's withdrawal has left a significant vacuum that nimble, innovative competitors are eager to fill. The narrative surrounding fitness apps is far from simplistic; it reflects broader trends in user preferences, technology adoption, and the real need for personalized health management solutions.
 

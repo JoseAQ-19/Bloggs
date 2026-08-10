@@ -17,7 +17,7 @@ translationKey: 5521bd9c-93ab-1f6b-a57a-ec12d1fb2756
 type: crypto
 ---
 
-![La Ley Clarity: Un Cambio Radical Que Destruirá El Caos Regulatorio en Cripto](/images/defaults/default-crypto.jpg)
+![La Ley Clarity: Un Cambio Radical Que Destruirá El Caos Regulatorio en Cripto](/images/el-bitcoin-and-crypto-clarity-act-un-cambio-de-juego-para-el-mercado-estadounidense.webp)
 
 Bitdeer, con sede en Singapur y actualmente el mayor self-miner que cotiza en bolsa a nivel mundial, liquidó toda su tesorería de Bitcoin reportando cero BTC en posesión al 20 de febrero.
 

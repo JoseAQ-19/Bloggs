@@ -18,7 +18,7 @@ translationKey: 45ed50a2-e2b1-847e-b5d5-e72b90ab507d
 type: crypto
 ---
 
-![Crypto Market Sees Green: How Circle Internet Stock Defied the Crypto Slump Analysis](/images/defaults/default-crypto.jpg)
+![Crypto Market Sees Green: How Circle Internet Stock Defied the Crypto Slump Analysis](/images/crypto-market-sees-green-how-circle-internet-stock-defied-the-crypto-slump-en.webp)
 
 {{< adsterra_native >}}
 

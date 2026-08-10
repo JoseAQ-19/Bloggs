@@ -16,7 +16,7 @@ translationKey: 4954f57e-016d-2ce3-78c7-7d2eb5e1ffea
 type: crypto
 ---
 
-![Crypto Bill Stalls in US Senate: What's Next for the Industry? Analysis](/images/defaults/default-crypto.jpg)
+![Crypto Bill Stalls in US Senate: What's Next for the Industry? Analysis](/images/crypto-bill-stalls-in-us-senate-whats-next-for-the-industry-en.webp)
 
 {{< adsterra_native >}}
 

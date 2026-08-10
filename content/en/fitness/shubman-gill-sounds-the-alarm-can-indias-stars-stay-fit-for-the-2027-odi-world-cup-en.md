@@ -18,7 +18,7 @@ translationKey: a79bd886-b9b6-6e06-bbbe-8969d20034bc
 type: fitness
 ---
 
-![Shubman Gill Sounds Alarm: India’s Stars Face Fitness Crisis Ahead of 2027 ODI World Cup](/images/defaults/default-fitness.jpg)
+![Shubman Gill Sounds Alarm: India’s Stars Face Fitness Crisis Ahead of 2027 ODI World Cup](/images/shubman-gill-sounds-the-alarm-can-indias-stars-stay-fit-for-the-2027-odi-world-cup-en.webp)
 
 {{< adsterra_native >}}
 

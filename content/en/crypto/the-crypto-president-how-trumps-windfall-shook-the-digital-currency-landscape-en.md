@@ -17,7 +17,7 @@ translationKey: ea95d95f-9b74-0a01-277e-50aea8851617
 type: crypto
 ---
 
-![Trump’s Crypto Windfall: 5 Shocking Ways It Disrupted Digital Currency Markets](/images/defaults/default-crypto.jpg)
+![Trump’s Crypto Windfall: 5 Shocking Ways It Disrupted Digital Currency Markets](/images/the-crypto-president-how-trumps-windfall-shook-the-digital-currency-landscape-en.webp)
 
 ## Executive Summary
 

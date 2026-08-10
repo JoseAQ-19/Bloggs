@@ -17,7 +17,7 @@ translationKey: d39bf869-aa0c-33c4-1d6a-fb69aed6aa79
 type: crypto
 ---
 
-![La Tormenta Final: Cómo Bitcoin, Ethereum Y Ripple Se Preparan Para El Colapso](/images/defaults/default-crypto.jpg)
+![La Tormenta Final: Cómo Bitcoin, Ethereum Y Ripple Se Preparan Para El Colapso](/images/bitcoin-ethereum-y-ripple-podran-resistir-la-tormenta-final.webp)
 
 ## Resumen Ejecutivo
 

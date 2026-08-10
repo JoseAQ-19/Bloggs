@@ -17,7 +17,7 @@ translationKey: 1519840e-38ca-1d00-8e74-768d112e44e3
 type: crypto
 ---
 
-![Robinhood Just Laid Off 23% Of Its Staff: A Shocking Sign for Crypto Investors](/images/defaults/default-crypto.jpg)
+![Robinhood Just Laid Off 23% Of Its Staff: A Shocking Sign for Crypto Investors](/images/robinhood-layoffs-a-stark-reflection-of-the-crypto-investment-landscape-en.webp)
 
 {{< adsterra_native >}}
 

@@ -18,7 +18,7 @@ translationKey: cd75c185-da37-4d8e-950e-0ec3d474a85f
 type: crypto
 ---
 
-![The Shocking Truth: Crypto Helps Investors Achieve 5X Returns Over Traditional Assets](/images/defaults/default-crypto.jpg)
+![The Shocking Truth: Crypto Helps Investors Achieve 5X Returns Over Traditional Assets](/images/is-crypto-the-key-to-a-safer-portfolio-experts-weigh-in-en.webp)
 
 ## Executive Summary
 - Recent analyses indicate that investors in cryptocurrencies may achieve returns five times higher than traditional assets, with Bitcoin's market value projected to double every four years.

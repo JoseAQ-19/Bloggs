@@ -18,7 +18,7 @@ translationKey: b3052d06-f249-8545-dc6a-1a43df109f6a
 type: fitness
 ---
 
-![Shocking Revelation: Crunch Fitness Employee Arrested for Secretly Recording 30 Women](/images/defaults/default-fitness.jpg)
+![Shocking Revelation: Crunch Fitness Employee Arrested for Secretly Recording 30 Women](/images/shocking-revelations-crunch-fitness-employee-arrested-for-secretly-recording-women-en.webp)
 
 ## TL;DR BULLETS
 

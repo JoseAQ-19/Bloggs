@@ -17,7 +17,7 @@ translationKey: c72cf09c-99cb-e3db-a368-947e96daa0b3
 type: crypto
 ---
 
-![La Jugada Maestra De Paradigm: $1.2B En Cripto Y IA Que Nadie Esperaba](/images/defaults/default-crypto.jpg)
+![La Jugada Maestra De Paradigm: $1.2B En Cripto Y IA Que Nadie Esperaba](/images/paradigm-lanza-una-ofensiva-de-12b-en-la-interseccion-de-la-cripto-y-la-ia.webp)
 
 ## Resumen Ejecutivo
 

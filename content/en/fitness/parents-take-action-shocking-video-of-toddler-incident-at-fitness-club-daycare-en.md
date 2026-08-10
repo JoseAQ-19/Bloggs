@@ -18,7 +18,7 @@ translationKey: aca906c8-46d6-5f6c-ff35-40e3b37cc51a
 type: fitness
 ---
 
-![Parents Take Action After Disturbing Video of Toddler Being Thrown at Daycare Emerges](/images/defaults/default-fitness.jpg)
+![Parents Take Action After Disturbing Video of Toddler Being Thrown at Daycare Emerges](/images/parents-take-action-shocking-video-of-toddler-incident-at-fitness-club-daycare-en.webp)
 
 {{< adsterra_native >}}
 

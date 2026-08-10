@@ -18,7 +18,7 @@ translationKey: cce43995-4d59-c71f-5fee-0b14dfb74907
 type: crypto
 ---
 
-![Bitcoin Security Gets a Boost: Top Institutions Unite to Form New Consortium Analysis](/images/defaults/default-crypto.jpg)
+![Bitcoin Security Gets a Boost: Top Institutions Unite to Form New Consortium Analysis](/images/bitcoin-security-gets-a-boost-top-institutions-unite-to-form-new-consortium-en.webp)
 
 {{< adsterra_native >}}
 

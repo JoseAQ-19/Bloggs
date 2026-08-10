@@ -17,7 +17,7 @@ translationKey: aa41c9a2-0998-6e8a-4d37-cb14bea6433f
 type: crypto
 ---
 
-![5 Razones Por Las Que El CLARITY Act Cambiará Todo Para Coinbase Y Los Criptoinversores](/images/defaults/default-crypto.jpg)
+![5 Razones Por Las Que El CLARITY Act Cambiará Todo Para Coinbase Y Los Criptoinversores](/images/por-que-el-voto-en-el-senado-sobre-el-clarity-act-podria-cambiar-el-juego-para-coinbase-y-los-cripto.webp)
 
 ## Resumen Ejecutivo
 - El CLARITY Act propone una regulación más clara para las criptomonedas, lo que podría beneficiar a Coinbase y a otros exchanges de criptoactivos en un 20% en sus operaciones, según analistas de mercado.

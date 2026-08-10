@@ -18,7 +18,7 @@ translationKey: 0d018a4b-bfdc-60d1-1c26-799732822c60
 type: fitness
 ---
 
-![80-Year-Old Woman Holds Plank for Two Minutes: Meet the Fitness Heroes of Oklahoma](/images/defaults/default-fitness.jpg)
+![80-Year-Old Woman Holds Plank for Two Minutes: Meet the Fitness Heroes of Oklahoma](/images/seniors-show-their-strength-35-competitors-rise-to-the-fitness-challenge-in-oklahoma-en.webp)
 
 ## Executive Summary
 

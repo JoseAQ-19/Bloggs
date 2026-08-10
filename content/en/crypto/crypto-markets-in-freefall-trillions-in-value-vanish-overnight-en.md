@@ -17,7 +17,7 @@ translationKey: 0c3a71da-405f-b5b8-0601-8b0604144697
 type: crypto
 ---
 
-![Trillions Vanished Overnight: The Crypto Market's Shocking $2 Trillion Collapse](/images/defaults/default-crypto.jpg)
+![Trillions Vanished Overnight: The Crypto Market's Shocking $2 Trillion Collapse](/images/crypto-markets-in-freefall-trillions-in-value-vanish-overnight-en.webp)
 
 ## Executive Summary
 - The cryptocurrency market has experienced a staggering $2 trillion collapse, primarily triggered by unexpectedly high inflation data that prompted a massive sell-off across risk assets. 

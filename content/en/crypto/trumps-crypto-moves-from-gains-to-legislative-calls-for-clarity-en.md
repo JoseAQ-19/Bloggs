@@ -17,7 +17,7 @@ translationKey: 65950cb7-e943-dd5d-5d6f-e02df52a43be
 type: crypto
 ---
 
-![The Shocking Truth Behind Trump’s Push for Crypto Clarity Act Legislation](/images/defaults/default-crypto.jpg)
+![The Shocking Truth Behind Trump’s Push for Crypto Clarity Act Legislation](/images/trumps-crypto-moves-from-gains-to-legislative-calls-for-clarity-en.webp)
 
 {{< adsterra_native >}}
 

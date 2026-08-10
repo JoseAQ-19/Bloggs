@@ -18,7 +18,7 @@ translationKey: 07098b6f-01c9-bf0b-dd59-f291bf26148a
 type: crypto
 ---
 
-![SBI's Shocking $289 Million Gamble On Failing Crypto Exchange Sparks Outrage Among Investors](/images/defaults/default-crypto.jpg)
+![SBI's Shocking $289 Million Gamble On Failing Crypto Exchange Sparks Outrage Among Investors](/images/sbis-bold-289-million-bet-on-a-struggling-crypto-exchange-is-it-a-genius-move-en.webp)
 
 {{< adsterra_native >}}
 

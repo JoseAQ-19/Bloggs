@@ -16,7 +16,7 @@ translationKey: 990450a7-cb4d-1848-a873-d0da8e2ae874
 type: fitness
 ---
 
-![Unlocking Cell Fitness Secrets: What Genetic Differences Reveal Analysis](/images/defaults/default-fitness.jpg)
+![Unlocking Cell Fitness Secrets: What Genetic Differences Reveal Analysis](/images/unlocking-cell-fitness-secrets-what-genetic-differences-reveal-en.webp)
 
 {{< adsterra_native >}}
 

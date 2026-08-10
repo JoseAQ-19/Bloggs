@@ -18,7 +18,7 @@ translationKey: f382166e-3aa2-31c9-cc59-0d2d459f7d45
 type: fitness
 ---
 
-![Garrison Wiesbaden Dedicates New Fitness Center to Honor Fallen Hero MSG Michael B. Riley](/images/defaults/default-fitness.jpg)
+![Garrison Wiesbaden Dedicates New Fitness Center to Honor Fallen Hero MSG Michael B. Riley](/images/a-tribute-to-strength-garrison-wiesbaden-honors-msg-michael-b-riley-with-new-fitness-center-en.webp)
 
 ## Executive Summary
 * Garrison Wiesbaden dedicated a new fitness center to honor MSG Michael B. Riley, a U.S. Army Green Beret who was killed in action in Afghanistan on June 25, 2019. 

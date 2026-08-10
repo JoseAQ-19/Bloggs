@@ -18,7 +18,7 @@ translationKey: f7b407c7-efc9-dd69-98b5-fb0fd53fd167
 type: crypto
 ---
 
-![Court Ruling Just Shook Crypto: 5 Shocking Implications for Yield Securities Ahead](/images/defaults/default-crypto.jpg)
+![Court Ruling Just Shook Crypto: 5 Shocking Implications for Yield Securities Ahead](/images/court-ruling-paves-way-for-crypto-yield-securities-appeal-industry-implications-ahead-en.webp)
 
 {{< adsterra_native >}}
 

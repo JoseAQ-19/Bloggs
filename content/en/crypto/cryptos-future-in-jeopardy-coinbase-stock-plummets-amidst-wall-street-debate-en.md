@@ -18,7 +18,7 @@ translationKey: c3491052-3f0c-6f61-8457-62ad28c18071
 type: crypto
 ---
 
-![Crypto's Future in Jeopardy: Coinbase Stock Plummets Amidst Wall Street Debate Analysis](/images/defaults/default-crypto.jpg)
+![Crypto's Future in Jeopardy: Coinbase Stock Plummets Amidst Wall Street Debate Analysis](/images/cryptos-future-in-jeopardy-coinbase-stock-plummets-amidst-wall-street-debate-en.webp)
 
 {{< adsterra_native >}}
 

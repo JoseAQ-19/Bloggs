@@ -18,7 +18,7 @@ translationKey: 1f1965a7-b792-43a2-29f0-46945b47ac84
 type: crypto
 ---
 
-![La Fatwa de un Clérigo Paquistaní Desata el Pánico: El Impacto del ‘Haram’ en Bitcoin](/images/defaults/default-crypto.jpg)
+![La Fatwa de un Clérigo Paquistaní Desata el Pánico: El Impacto del ‘Haram’ en Bitcoin](/images/impacto-del-haram-en-bitcoin-la-fatwa-de-un-clerigo-paquistani-desata-el-panico-en-el-mercado.webp)
 
 ## Resumen Ejecutivo
 - Un clérigo paquistaní ha declarado que el Bitcoin es haram, lo que ha generado un gran revuelo en el mercado de criptomonedas de Pakistán.

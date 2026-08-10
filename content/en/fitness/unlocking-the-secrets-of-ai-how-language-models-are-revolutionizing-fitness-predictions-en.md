@@ -18,7 +18,7 @@ translationKey: ed75f631-b4fa-42ba-fd87-0641ac827817
 type: fitness
 ---
 
-![Unlocking The Secrets Of AI: 7 Shocking Ways Language Models Transform Fitness Predictions](/images/defaults/default-fitness.jpg)
+![Unlocking The Secrets Of AI: 7 Shocking Ways Language Models Transform Fitness Predictions](/images/unlocking-the-secrets-of-ai-how-language-models-are-revolutionizing-fitness-predictions-en.webp)
 
 Without question, the intersection of artificial intelligence and genomics is fraught with overhyped promises and inflated expectations. The latest player, Evo, claims to redefine the landscape by predicting how DNA changes affect organism fitness. However, the mechanisms and implications of such a claim require rigorous scrutiny beyond the surface-level excitement that often clouds scientific advancements.
 

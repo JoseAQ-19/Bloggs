@@ -18,7 +18,7 @@ translationKey: 18a599e4-ff12-9b51-7dc2-15e2440280fb
 type: fitness
 ---
 
-![From Passion to Empire: How One Fitness Creator Conquered the Global Wellness Scene Analysis](/images/defaults/default-fitness.jpg)
+![From Passion to Empire: How One Fitness Creator Conquered the Global Wellness Scene Analysis](/images/from-passion-to-empire-how-one-fitness-creator-conquered-the-global-wellness-scene-en.webp)
 
 {{< adsterra_native >}}
 

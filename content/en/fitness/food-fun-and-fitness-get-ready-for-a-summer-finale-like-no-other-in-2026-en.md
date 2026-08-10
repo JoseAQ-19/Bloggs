@@ -17,7 +17,7 @@ translationKey: c953a998-87ad-93aa-f4f3-6185731c2d55
 type: fitness
 ---
 
-![Why The 2026 FIFA World Cup Will Change Atlanta's Summer Forever](/images/defaults/default-fitness.jpg)
+![Why The 2026 FIFA World Cup Will Change Atlanta's Summer Forever](/images/food-fun-and-fitness-get-ready-for-a-summer-finale-like-no-other-in-2026-en.webp)
 
 {{< adsterra_native >}}
 

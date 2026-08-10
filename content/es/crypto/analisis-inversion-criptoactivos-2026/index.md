@@ -22,7 +22,7 @@ translationKey: 0fabb4ba-1df2-4bb9-4820-0a3ae3877908
 type: crypto
 ---
 
-![Análisis de Inversión en Criptoactivos 2026: Estrategias de Mercado y Regulaciones MiCA](/images/defaults/default-crypto.jpg)
+![Análisis de Inversión en Criptoactivos 2026: Estrategias de Mercado y Regulaciones MiCA](featured.webp)
 
 ## Resumen Ejecutivo
 - La regulación europea MiCA entra en vigor de forma plena, redefiniendo las licencias para proveedores de servicios de activos virtuales (CASP).

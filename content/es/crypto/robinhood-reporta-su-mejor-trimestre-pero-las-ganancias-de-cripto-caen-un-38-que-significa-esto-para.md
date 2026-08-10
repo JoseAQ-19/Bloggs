@@ -17,7 +17,7 @@ translationKey: 43cdb91c-2540-59a8-19f5-faf10dac0c13
 type: crypto
 ---
 
-![Robinhood Celebró Su Mejor Trimestre Y Al Mismo Tiempo Las Cripto Se Desploman](/images/defaults/default-crypto.jpg)
+![Robinhood Celebró Su Mejor Trimestre Y Al Mismo Tiempo Las Cripto Se Desploman](/images/robinhood-reporta-su-mejor-trimestre-pero-las-ganancias-de-cripto-caen-un-38-que-significa-esto-para.webp)
 
 ## Resumen Ejecutivo
 - Robinhood reportó un ingreso récord de $400 millones en el último trimestre, a pesar de la caída del mercado de criptomonedas.

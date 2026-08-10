@@ -18,7 +18,7 @@ translationKey: 56e7d6aa-f3da-24ae-7434-4fdc3e6eb52c
 type: crypto
 ---
 
-![TRON (TRX) Estalla: Las Predicciones Que Harán Temblar a Inversores Hasta 2028](/images/defaults/default-crypto.jpg)
+![TRON (TRX) Estalla: Las Predicciones Que Harán Temblar a Inversores Hasta 2028](/images/puede-tron-trx-alcanzar-nuevas-alturas-predicciones-para-2026-2028.webp)
 
 ## Resumen Ejecutivo
 

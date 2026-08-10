@@ -18,7 +18,7 @@ translationKey: 9e0e89e2-8602-0334-b367-dddd52437bb5
 type: crypto
 ---
 
-![Senate Democrats Expose Trump’s Hidden Crypto Earnings: The Shocking Truth Revealed](/images/defaults/default-crypto.jpg)
+![Senate Democrats Expose Trump’s Hidden Crypto Earnings: The Shocking Truth Revealed](/images/senate-democrats-turn-the-spotlight-on-trumps-crypto-earnings-en.webp)
 
 {{< adsterra_native >}}
 

@@ -17,7 +17,7 @@ translationKey: 7d89d7ca-030b-8541-2bf5-08c8d212ffb6
 type: crypto
 ---
 
-![The Hidden Dangers of Trump's Crypto Agenda: A Financial System at Risk](/images/defaults/default-crypto.jpg)
+![The Hidden Dangers of Trump's Crypto Agenda: A Financial System at Risk](/images/is-trumps-crypto-influence-a-ticking-time-bomb-for-the-financial-system-en.webp)
 
 {{< adsterra_native >}}
 

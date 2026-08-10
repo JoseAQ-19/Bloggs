@@ -17,7 +17,7 @@ translationKey: a4406b2b-c177-a2e0-e695-6d67bbd1eefb
 type: fitness
 ---
 
-![Dark Secrets Revealed: 12 Fitness Influencers Linked to Illegal Steroid Sales](/images/defaults/default-fitness.jpg)
+![Dark Secrets Revealed: 12 Fitness Influencers Linked to Illegal Steroid Sales](/images/dark-secrets-how-fitness-influencers-are-tied-to-illegal-steroid-sales-en.webp)
 
 {{< adsterra_native >}}
 

@@ -18,7 +18,7 @@ translationKey: 43a6cd55-d412-b0ac-c52c-75ff6f592a7e
 type: fitness
 ---
 
-![Fitness Influencer’s Shocking Guilty Plea Exposes Dark Side of Social Media Fame](/images/defaults/default-fitness.jpg)
+![Fitness Influencer’s Shocking Guilty Plea Exposes Dark Side of Social Media Fame](/images/fitness-influencers-shocking-gym-assault-guilty-plea-reveals-dark-side-of-fame-en.webp)
 
 {{< adsterra_native >}}
 

@@ -17,7 +17,7 @@ translationKey: aed03838-59c9-9ffa-97dd-05f182e2fd88
 type: crypto
 ---
 
-![Congress Just Announced Plans to Cut Billions in Tax Breaks for Crypto Giants](/images/defaults/default-crypto.jpg)
+![Congress Just Announced Plans to Cut Billions in Tax Breaks for Crypto Giants](/images/congress-faces-pressure-to-deny-tax-breaks-for-the-crypto-industry-en.webp)
 
 ## Executive Summary
 

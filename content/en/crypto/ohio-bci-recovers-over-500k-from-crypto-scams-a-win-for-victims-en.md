@@ -17,7 +17,7 @@ translationKey: ff2b68ed-1b53-83b0-ba25-483d556ef7f8
 type: crypto
 ---
 
-![Ohio BCI Recovers $500K from Crypto Scams: A Major Win for Victims](/images/defaults/default-crypto.jpg)
+![Ohio BCI Recovers $500K from Crypto Scams: A Major Win for Victims](/images/ohio-bci-recovers-over-500k-from-crypto-scams-a-win-for-victims-en.webp)
 
 {{< adsterra_native >}}
 

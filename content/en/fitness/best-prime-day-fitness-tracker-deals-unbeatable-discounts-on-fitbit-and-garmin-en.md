@@ -18,7 +18,7 @@ translationKey: 5775e956-f17c-1d07-cb4e-dba52d5bc3f3
 type: fitness
 ---
 
-![Unbeatable Prime Day Fitness Tracker Deals: 39 Discounts You Can't Afford to Miss](/images/defaults/default-fitness.jpg)
+![Unbeatable Prime Day Fitness Tracker Deals: 39 Discounts You Can't Afford to Miss](/images/best-prime-day-fitness-tracker-deals-unbeatable-discounts-on-fitbit-and-garmin-en.webp)
 
 Unbeatable Prime Day Fitness Tracker Deals: 39 Discounts You Can't Afford to Miss
 

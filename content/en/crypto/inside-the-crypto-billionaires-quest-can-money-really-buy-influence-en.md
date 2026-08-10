@@ -17,7 +17,7 @@ translationKey: b21565b6-8eb0-1fed-8a18-167a134b28f4
 type: crypto
 ---
 
-![Crypto Billionaires Are Buying Influence: The Shocking Truth About Their Strategies](/images/defaults/default-crypto.jpg)
+![Crypto Billionaires Are Buying Influence: The Shocking Truth About Their Strategies](/images/inside-the-crypto-billionaires-quest-can-money-really-buy-influence-en.webp)
 
 {{< adsterra_native >}}
 

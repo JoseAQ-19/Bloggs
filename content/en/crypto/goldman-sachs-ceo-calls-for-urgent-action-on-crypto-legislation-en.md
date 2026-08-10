@@ -18,7 +18,7 @@ translationKey: 72d493d0-49fe-f458-7641-cde3a9518804
 type: crypto
 ---
 
-![Goldman Sachs CEO Demands Urgent Action on Crypto Legislation: Are We Too Late?](/images/defaults/default-crypto.jpg)
+![Goldman Sachs CEO Demands Urgent Action on Crypto Legislation: Are We Too Late?](/images/goldman-sachs-ceo-calls-for-urgent-action-on-crypto-legislation-en.webp)
 
 ## Executive Summary
 

@@ -17,7 +17,7 @@ translationKey: b33045ff-9d22-608c-1038-5336f154fd2a
 type: crypto
 ---
 
-![Trump Coin Catastrophe: Nearly 1 Million Investors Lose $3.8 Billion Overnight](/images/defaults/default-crypto.jpg)
+![Trump Coin Catastrophe: Nearly 1 Million Investors Lose $3.8 Billion Overnight](/images/trump-coin-disaster-how-nearly-a-million-investors-lost-38-billion-en.webp)
 
 ## Executive Summary
 

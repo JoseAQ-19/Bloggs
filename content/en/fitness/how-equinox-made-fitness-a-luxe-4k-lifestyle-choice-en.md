@@ -17,7 +17,7 @@ translationKey: aad2df7a-628a-1d23-201c-f97b81a895bb
 type: fitness
 ---
 
-![Equinox Just Turned Fitness Into A Shocking $4K Luxury Lifestyle Choice](/images/defaults/default-fitness.jpg)
+![Equinox Just Turned Fitness Into A Shocking $4K Luxury Lifestyle Choice](/images/how-equinox-made-fitness-a-luxe-4k-lifestyle-choice-en.webp)
 
 ## Executive Summary
 - Equinox has introduced a groundbreaking luxury fitness membership priced at $4,000 annually, effectively transforming fitness into a high-end lifestyle choice.

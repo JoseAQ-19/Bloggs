@@ -17,7 +17,7 @@ translationKey: 9d421181-0b87-4a78-ed92-c3dfb4ac9fd7
 type: fitness
 ---
 
-![7 Reasons Dolls Fitness Studio’s New Classes Are Causing a Fitness Revolution](/images/defaults/default-fitness.jpg)
+![7 Reasons Dolls Fitness Studio’s New Classes Are Causing a Fitness Revolution](/images/dolls-fitness-studio-launches-exciting-new-classes-in-porter-en.webp)
 
 {{< adsterra_native >}}
 

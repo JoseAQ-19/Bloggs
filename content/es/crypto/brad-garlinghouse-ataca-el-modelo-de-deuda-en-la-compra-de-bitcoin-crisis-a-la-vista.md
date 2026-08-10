@@ -17,7 +17,7 @@ translationKey: ba847a4f-eb85-db3b-a076-02c95d7e4431
 type: crypto
 ---
 
-![Brad Garlinghouse Revela La Verdad Oculta Sobre La Deuda En La Compra De Bitcoin](/images/defaults/default-crypto.jpg)
+![Brad Garlinghouse Revela La Verdad Oculta Sobre La Deuda En La Compra De Bitcoin](/images/brad-garlinghouse-ataca-el-modelo-de-deuda-en-la-compra-de-bitcoin-crisis-a-la-vista.webp)
 
 ## Resumen Ejecutivo
 - Brad Garlinghouse, CEO de Ripple, afirma que el 40% de las compras de Bitcoin se financian con deuda, lo que introduce un riesgo considerable en el ecosistema.

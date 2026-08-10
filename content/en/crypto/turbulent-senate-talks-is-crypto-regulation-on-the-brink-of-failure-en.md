@@ -17,7 +17,7 @@ translationKey: 79adfb44-89c0-a781-965b-31c330750d0e
 type: crypto
 ---
 
-![The Hidden Truth Behind Senate Chaos: Crypto Regulation Is on the Brink](/images/defaults/default-crypto.jpg)
+![The Hidden Truth Behind Senate Chaos: Crypto Regulation Is on the Brink](/images/turbulent-senate-talks-is-crypto-regulation-on-the-brink-of-failure-en.webp)
 
 {{< adsterra_native >}}
 

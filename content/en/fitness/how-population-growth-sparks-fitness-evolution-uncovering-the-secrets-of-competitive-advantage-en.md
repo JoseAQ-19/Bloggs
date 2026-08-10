@@ -18,7 +18,7 @@ translationKey: 13dee884-ab02-76ca-2d3a-7eeeab622d53
 type: fitness
 ---
 
-![How Population Growth Sparks Fitness Evolution: Uncovering the Secrets of Competitive Advantage Analysis](/images/defaults/default-fitness.jpg)
+![How Population Growth Sparks Fitness Evolution: Uncovering the Secrets of Competitive Advantage Analysis](/images/how-population-growth-sparks-fitness-evolution-uncovering-the-secrets-of-competitive-advantage-en.webp)
 
 {{< adsterra_native >}}
 

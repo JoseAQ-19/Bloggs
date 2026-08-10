@@ -17,7 +17,7 @@ translationKey: 83d905ae-4ba3-5525-0e0d-cb73a2b558e8
 type: fitness
 ---
 
-![Unlock Your Golden Years: The Surprising Benefits of Fitness as We Age Analysis](/images/defaults/default-fitness.jpg)
+![Unlock Your Golden Years: The Surprising Benefits of Fitness as We Age Analysis](/images/unlock-your-golden-years-the-surprising-benefits-of-fitness-as-we-age-en.webp)
 
 {{< adsterra_native >}}
 

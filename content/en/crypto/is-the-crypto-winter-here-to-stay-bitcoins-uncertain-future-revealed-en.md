@@ -17,7 +17,7 @@ translationKey: 2bf525b8-8428-1793-d5e2-08e6d596bcf3
 type: crypto
 ---
 
-![Bitcoin Just Lost 50% Value: The Crypto Winter Is Far From Over](/images/defaults/default-crypto.jpg)
+![Bitcoin Just Lost 50% Value: The Crypto Winter Is Far From Over](/images/is-the-crypto-winter-here-to-stay-bitcoins-uncertain-future-revealed-en.webp)
 
 ## Executive Summary
 - Bitcoin's value has plummeted by 50% since its peak in 2021, highlighting ongoing volatility in the cryptocurrency market.

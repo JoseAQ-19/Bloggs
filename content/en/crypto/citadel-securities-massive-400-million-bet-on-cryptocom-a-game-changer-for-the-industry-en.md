@@ -17,7 +17,7 @@ translationKey: 193e0514-a88b-a3af-63ef-7415b4fd1335
 type: crypto
 ---
 
-![Citadel Securities Just Placed a Shocking $400 Million Bet on Crypto.com](/images/defaults/default-crypto.jpg)
+![Citadel Securities Just Placed a Shocking $400 Million Bet on Crypto.com](/images/citadel-securities-massive-400-million-bet-on-cryptocom-a-game-changer-for-the-industry-en.webp)
 
 {{< adsterra_native >}}
 

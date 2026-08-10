@@ -17,7 +17,7 @@ translationKey: 561b66ac-1f53-bcc0-161f-1f58a6be0557
 type: crypto
 ---
 
-![The Hidden Threat Behind Trump’s Crypto Surge: 7 Reasons to Panic Now](/images/defaults/default-crypto.jpg)
+![The Hidden Threat Behind Trump’s Crypto Surge: 7 Reasons to Panic Now](/images/trumps-crypto-boom-a-major-roadblock-for-digital-asset-legislation-en.webp)
 
 {{< adsterra_native >}}
 

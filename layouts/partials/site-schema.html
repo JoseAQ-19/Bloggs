@@ -1,3 +1,4 @@
+{{- $featured_image := partial "func/GetFeaturedImage.html" . -}}
 {{- if .IsPage -}}
 <script type="application/ld+json">
 {
@@ -34,8 +35,8 @@
     "@type": "WebPage",
     "@id": {{ .Permalink | jsonify }}
   }
-  {{- with .Params.featured_image -}}
-  ,"image": {{ . | absURL | jsonify }}
+  {{- with $featured_image -}}
+  ,"image": {{ . | jsonify }}
   {{- end -}}
   ,"inLanguage": {{ .Lang | jsonify }}
   ,"wordCount": {{ .WordCount }}

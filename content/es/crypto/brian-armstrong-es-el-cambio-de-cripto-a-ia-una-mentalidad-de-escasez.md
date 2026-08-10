@@ -17,7 +17,7 @@ translationKey: c8031a03-f835-3c98-b478-10dc139e8c2d
 type: crypto
 ---
 
-![Brian Armstrong Revela La Verdadera Razón Detrás Del Cambio A La IA](/images/defaults/default-crypto.jpg)
+![Brian Armstrong Revela La Verdadera Razón Detrás Del Cambio A La IA](/images/brian-armstrong-es-el-cambio-de-cripto-a-ia-una-mentalidad-de-escasez.webp)
 
 ## Resumen Ejecutivo
 

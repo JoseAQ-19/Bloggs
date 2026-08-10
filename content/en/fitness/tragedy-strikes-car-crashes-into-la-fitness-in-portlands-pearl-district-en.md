@@ -17,7 +17,7 @@ translationKey: 6120b926-cee4-4f70-d18a-01c56731fcc8
 type: fitness
 ---
 
-![5 Victims: Car Crashes Through LA Fitness In Portland’s Pearl District](/images/defaults/default-fitness.jpg)
+![5 Victims: Car Crashes Through LA Fitness In Portland’s Pearl District](/images/tragedy-strikes-car-crashes-into-la-fitness-in-portlands-pearl-district-en.webp)
 
 {{< adsterra_native >}}
 

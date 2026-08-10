@@ -18,7 +18,7 @@ translationKey: b9e71811-6f6c-3d30-95d3-bd21a1c05c94
 type: fitness
 ---
 
-![Unbelievable: Google’s New Fitbit Air Delivers Week-Long Battery Life for Just $99.99](/images/defaults/default-fitness.jpg)
+![Unbelievable: Google’s New Fitbit Air Delivers Week-Long Battery Life for Just $99.99](/images/unleash-your-potential-the-new-google-fitbit-air-launches-at-just-9999-en.webp)
 
 {{< adsterra_native >}}
 

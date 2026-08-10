@@ -18,7 +18,7 @@ translationKey: 76dd633c-1bf1-dbf0-a961-b10521543154
 type: crypto
 ---
 
-![Lummis' Clarity Act Could Transform U.S. Crypto Finance Forever And Nobody Noticed](/images/defaults/default-crypto.jpg)
+![Lummis' Clarity Act Could Transform U.S. Crypto Finance Forever And Nobody Noticed](/images/lummis-clarity-act-a-game-changer-for-the-future-of-us-crypto-finance-en.webp)
 
 {{< adsterra_native >}}
 

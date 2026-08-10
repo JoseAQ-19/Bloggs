@@ -18,7 +18,7 @@ translationKey: f1237dc7-9132-17de-bce3-129ebe8618d4
 type: crypto
 ---
 
-![4,000 Local Lenders Unite Against 'Stablecoins' Law That Threatens $850 Billion in Loans](/images/defaults/default-crypto.jpg)
+![4,000 Local Lenders Unite Against 'Stablecoins' Law That Threatens $850 Billion in Loans](/images/local-lenders-unite-against-stablecoins-law-the-crypto-community-strikes-back-en.webp)
 
 {{< adsterra_native >}}
 

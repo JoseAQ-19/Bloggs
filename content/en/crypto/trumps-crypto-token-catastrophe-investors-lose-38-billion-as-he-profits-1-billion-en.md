@@ -18,7 +18,7 @@ translationKey: 98089805-33cb-9d6c-02b0-1f98ab6d03f4
 type: crypto
 ---
 
-![Trump’s Crypto Token Catastrophe: Investors Lose $3.8 Billion While He Rakes In $1 Billion](/images/defaults/default-crypto.jpg)
+![Trump’s Crypto Token Catastrophe: Investors Lose $3.8 Billion While He Rakes In $1 Billion](/images/trumps-crypto-token-catastrophe-investors-lose-38-billion-as-he-profits-1-billion-en.webp)
 
 {{< adsterra_native >}}
 

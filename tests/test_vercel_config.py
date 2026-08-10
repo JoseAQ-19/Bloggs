@@ -12,6 +12,7 @@ def test_vercel_config_hugo_version():
     assert "env" in config, "vercel.json should have env key"
     assert "HUGO_VERSION" in config["env"], "vercel.json env should define HUGO_VERSION"
     assert "v2.12.0" in config["buildCommand"], "buildCommand should specify stable --branch v2.12.0"
+    assert "--cleanDestinationDir" in config["buildCommand"], "buildCommand should clean stale Hugo output"
     
     hugo_version = config["env"]["HUGO_VERSION"]
     major, minor, *_ = hugo_version.split(".")
@@ -52,5 +53,13 @@ def test_seo_partials_names():
     assert 'partial "opengraph.html"' not in baseof_content
     assert 'partial "schema.html"' not in baseof_content
     assert 'partial "twitter_cards.html"' not in baseof_content
+
+
+def test_deploy_notifier_uses_secret_hook():
+    root = Path(__file__).parent.parent
+    workflow = (root / ".github" / "workflows" / "deploy_notifier.yml").read_text(encoding="utf-8")
+
+    assert "secrets.VERCEL_DEPLOY_HOOK_URL" in workflow
+    assert "api.vercel.com/v1/integrations/deploy/" not in workflow
 
 

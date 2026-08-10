@@ -18,7 +18,7 @@ translationKey: 10a781f4-9b09-ef4d-0fec-1b43190e4cc6
 type: crypto
 ---
 
-![Tether's USDT Faces Two-Year Countdown: Compliance Crisis Looms for U.S. Crypto Platforms](/images/defaults/default-crypto.jpg)
+![Tether's USDT Faces Two-Year Countdown: Compliance Crisis Looms for U.S. Crypto Platforms](/images/crypto-regulation-countdown-is-the-market-running-out-of-time-en.webp)
 
 {{< adsterra_native >}}
 

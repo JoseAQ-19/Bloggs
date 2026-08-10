@@ -17,7 +17,7 @@ translationKey: 5610f94e-282d-5a3e-d945-a9342290c795
 type: crypto
 ---
 
-![$9.23M En Flujos de ETFs de Ethereum: La Inversión Que Nadie Vio Venir](/images/defaults/default-crypto.jpg)
+![$9.23M En Flujos de ETFs de Ethereum: La Inversión Que Nadie Vio Venir](/images/inversiones-masivas-en-etfs-de-ethereum-que-nos-revelan-los-923m-en-flujos.webp)
 
 ## Resumen Ejecutivo
 

@@ -18,7 +18,7 @@ translationKey: 41a72d66-7663-a3e1-9437-4b5cb77f2b74
 type: fitness
 ---
 
-![The Shocking Truth: Houston's Facet Seven® Fitness Unleashes 7 Secrets to Total Wellness](/images/defaults/default-fitness.jpg)
+![The Shocking Truth: Houston's Facet Seven® Fitness Unleashes 7 Secrets to Total Wellness](/images/houstons-facet-seven-fitness-the-secret-to-total-wellness-unveiled-en.webp)
 
 ## TL;DR BULLETS
 

@@ -18,7 +18,7 @@ translationKey: b8d44275-922a-064f-a19d-c8f4f7c79a0b
 type: fitness
 ---
 
-![Shocking Gym Disasters: 25 Medical Emergencies That Turned Fitness Centers into Danger Zones](/images/defaults/default-fitness.jpg)
+![Shocking Gym Disasters: 25 Medical Emergencies That Turned Fitness Centers into Danger Zones](/images/shocking-crashes-medical-emergencies-turn-gyms-into-accident-zones-en.webp)
 
 ## Executive Summary
 - Fitness centers have reported a shocking increase in medical emergencies, with 25 documented cases turning gyms into danger zones.

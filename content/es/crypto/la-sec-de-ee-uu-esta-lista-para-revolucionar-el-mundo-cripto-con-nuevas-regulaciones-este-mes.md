@@ -18,7 +18,7 @@ translationKey: 99c0ca41-ea53-93cc-50e2-509572a3c072
 type: crypto
 ---
 
-![La SEC Está Lista Para Transformar el Mercado Cripto: 5 Cambios Que Nadie Espera](/images/defaults/default-crypto.jpg)
+![La SEC Está Lista Para Transformar el Mercado Cripto: 5 Cambios Que Nadie Espera](/images/la-sec-de-ee-uu-esta-lista-para-revolucionar-el-mundo-cripto-con-nuevas-regulaciones-este-mes.webp)
 
 ## Resumen Ejecutivo
 - La SEC está planeando cinco cambios inesperados en la regulación del mercado cripto para mejorar la seguridad y la transparencia, según su nuevo plan estratégico.

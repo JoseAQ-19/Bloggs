@@ -18,7 +18,7 @@ translationKey: b1610c0b-2dfd-27be-e0bd-c5af2bc24d5e
 type: fitness
 ---
 
-![Exposed: The Dark Side of Fitness - Hidden Tanning Videos Spark Class Action Suit Analysis](/images/defaults/default-fitness.jpg)
+![Exposed: The Dark Side of Fitness - Hidden Tanning Videos Spark Class Action Suit Analysis](/images/exposed-the-dark-side-of-fitness-hidden-tanning-videos-spark-class-action-suit-en.webp)
 
 {{< adsterra_native >}}
 

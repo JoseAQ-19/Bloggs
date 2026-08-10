@@ -17,7 +17,7 @@ translationKey: db2af677-02c7-fa3d-4511-c0d7d1258b8f
 type: crypto
 ---
 
-![Polymarket Just Landed $50 Million In Crypto Bets During World Cup Semifinals](/images/defaults/default-crypto.jpg)
+![Polymarket Just Landed $50 Million In Crypto Bets During World Cup Semifinals](/images/polymarket-scores-big-unleashing-crypto-betting-during-world-cup-semifinals-en.webp)
 
 {{< adsterra_native >}}
 

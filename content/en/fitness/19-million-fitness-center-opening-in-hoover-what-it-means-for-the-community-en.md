@@ -17,7 +17,7 @@ translationKey: aa26f13b-4aa9-9b2c-5f1f-254bc17f8e80
 type: fitness
 ---
 
-![Inside The $19 Million Fitness Revolution Transforming Hoover's Community Dynamics](/images/defaults/default-fitness.jpg)
+![Inside The $19 Million Fitness Revolution Transforming Hoover's Community Dynamics](/images/19-million-fitness-center-opening-in-hoover-what-it-means-for-the-community-en.webp)
 
 {{< adsterra_native >}}
 

@@ -17,7 +17,7 @@ translationKey: 7e15c8a6-3878-11d0-4352-59aff8d7d4fd
 type: crypto
 ---
 
-![Trump’s Secret Crypto Scheme: How He Cashed In Over $1 Billion in One Year](/images/defaults/default-crypto.jpg)
+![Trump’s Secret Crypto Scheme: How He Cashed In Over $1 Billion in One Year](/images/trumps-crypto-bonanza-how-he-raked-in-over-1-billion-in-just-one-year-en.webp)
 
 ## Executive Summary
 - Donald Trump reportedly earned over $1.4 billion from cryptocurrency and related ventures during his first year back in the White House.

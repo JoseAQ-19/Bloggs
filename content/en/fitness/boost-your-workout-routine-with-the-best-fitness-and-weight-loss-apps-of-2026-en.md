@@ -18,7 +18,7 @@ translationKey: 4cd68f00-614f-7e70-dca9-3b4a87b7335c
 type: fitness
 ---
 
-![Boost Your Workout Routine with the Best Fitness and Weight Loss Apps of 2026 Analysis](/images/defaults/default-fitness.jpg)
+![Boost Your Workout Routine with the Best Fitness and Weight Loss Apps of 2026 Analysis](/images/boost-your-workout-routine-with-the-best-fitness-and-weight-loss-apps-of-2026-en.webp)
 
 {{< adsterra_native >}}
 

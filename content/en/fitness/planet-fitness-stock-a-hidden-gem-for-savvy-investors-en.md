@@ -17,7 +17,7 @@ translationKey: e4d63bdd-abc0-f2d0-b49a-18c712799c2a
 type: fitness
 ---
 
-![Planet Fitness Stock Surges 25%: The Hidden Gem Investors Are Ignoring](/images/defaults/default-fitness.jpg)
+![Planet Fitness Stock Surges 25%: The Hidden Gem Investors Are Ignoring](/images/planet-fitness-stock-a-hidden-gem-for-savvy-investors-en.webp)
 
 ## Executive Summary
 

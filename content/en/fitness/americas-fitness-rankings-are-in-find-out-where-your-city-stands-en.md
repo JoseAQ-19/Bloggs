@@ -17,7 +17,7 @@ translationKey: 28b53224-36b0-6ed0-2dc5-a44c0751e1e1
 type: fitness
 ---
 
-![America’s Fittest Cities Ranked: The Shocking Truth Behind Your City’s Score](/images/defaults/default-fitness.jpg)
+![America’s Fittest Cities Ranked: The Shocking Truth Behind Your City’s Score](/images/americas-fitness-rankings-are-in-find-out-where-your-city-stands-en.webp)
 
 {{< adsterra_native >}}
 

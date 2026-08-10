@@ -18,7 +18,7 @@ translationKey: ea9d0feb-002b-8e30-ad58-cfbee711ab90
 type: crypto
 ---
 
-![Circle Se Dispara Un 30% Tras Aprobación Federal: El Futuro de Los Bancos Cripto Está Aquí](/images/defaults/default-crypto.jpg)
+![Circle Se Dispara Un 30% Tras Aprobación Federal: El Futuro de Los Bancos Cripto Está Aquí](/images/aprobacion-federal-impulsa-las-acciones-de-circle-el-futuro-de-los-bancos-cripto.webp)
 
 ## Resumen Ejecutivo
 - Circle, la compañía detrás de USDC, vio un desplome del 30% en su valor tras la aprobación de regulaciones federales sobre criptomonedas en EE.UU.

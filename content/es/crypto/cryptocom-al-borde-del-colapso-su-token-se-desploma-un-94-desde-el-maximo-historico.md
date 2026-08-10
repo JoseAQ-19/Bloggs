@@ -18,7 +18,7 @@ translationKey: 7c26d27b-21f8-a7da-7ce6-14a5b2a8c931
 type: crypto
 ---
 
-![Crypto.com Al Borde Del Colapso: Su Token Se Desploma Un 94% Desde Su Máximo Histórico](/images/defaults/default-crypto.jpg)
+![Crypto.com Al Borde Del Colapso: Su Token Se Desploma Un 94% Desde Su Máximo Histórico](/images/cryptocom-al-borde-del-colapso-su-token-se-desploma-un-94-desde-el-maximo-historico.webp)
 
 ## Resumen Ejecutivo
 - El token de Crypto.com (CRO) ha caído un 94% desde su máximo histórico, cotizando actualmente a USD $0,0572894.

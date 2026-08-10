@@ -17,7 +17,7 @@ translationKey: eee5450a-c09b-ebe3-d976-b01990635f0b
 type: crypto
 ---
 
-![El Impacto Oculto De La Regulación De Criptomonedas En El Reino Unido Revelado](/images/defaults/default-crypto.jpg)
+![El Impacto Oculto De La Regulación De Criptomonedas En El Reino Unido Revelado](/images/el-reino-unido-da-un-paso-firme-hacia-la-regulacion-de-criptomonedas.webp)
 
 {{< adsterra_native >}}
 

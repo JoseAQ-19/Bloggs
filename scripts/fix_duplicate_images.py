@@ -16,6 +16,7 @@ import os
 import sys
 import argparse
 import hashlib
+import re
 from collections import defaultdict
 import frontmatter
 
@@ -60,6 +61,26 @@ def extract_image_field(post: frontmatter.Post) -> str:
     elif isinstance(img, dict):
         return str(img.get('url', '')).strip()
     return ""
+
+
+_MARKDOWN_IMAGE_RE = re.compile(
+    r'(!\[[^\]]*\]\()(?P<destination><[^>]+>|[^)\s]+)'
+    r'(?P<title>\s+(?:"[^"]*"|\'[^\']*\'|\([^)]*\)))?\)'
+)
+
+
+def sync_featured_image_in_body(post: frontmatter.Post, image_ref: str) -> None:
+    """Keep the first article image aligned with the featured image reference."""
+    content = post.content or ""
+    match = _MARKDOWN_IMAGE_RE.search(content)
+    if match:
+        title = match.group("title") or ""
+        replacement = f"{match.group(1)}{image_ref}{title})"
+        post.content = content[:match.start()] + replacement + content[match.end():]
+        return
+
+    title = str(post.get("title") or "Featured image")
+    post.content = f"![{title}]({image_ref})\n\n{content.lstrip()}"
 
 
 def scan_for_duplicates(content_dir: str):
@@ -184,6 +205,7 @@ def remediate_duplicate_images(duplicate_groups: dict, dry_run: bool = False):
         # 4. Actualizar Frontmatter YAML del post
         post['image'] = img_ref
         post['featured_image'] = img_ref
+        sync_featured_image_in_body(post, img_ref)
 
         try:
             with open(filepath, 'wb') as f:

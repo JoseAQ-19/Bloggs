@@ -18,7 +18,7 @@ translationKey: 169d4743-c457-ed76-dab6-81d5050ef467
 type: crypto
 ---
 
-![Silent Swap Exposed: 5 Fake Google Extensions Stealing Your Money Without You Knowing](/images/defaults/default-crypto.jpg)
+![Silent Swap Exposed: 5 Fake Google Extensions Stealing Your Money Without You Knowing](/images/beware-the-silent-swap-how-fake-google-extensions-are-targeting-your-wallet-en.webp)
 
 {{< adsterra_native >}}
 

@@ -17,7 +17,7 @@ translationKey: 0d8bd5b1-6a15-7600-3099-36c8b2ceec8c
 type: crypto
 ---
 
-![The Shocking $383 Million Bitcoin Transfer That Nobody Saw Coming](/images/defaults/default-crypto.jpg)
+![The Shocking $383 Million Bitcoin Transfer That Nobody Saw Coming](/images/383-million-bitcoin-movement-whats-behind-the-dormant-wallet-en.webp)
 
 {{< adsterra_native >}}
 

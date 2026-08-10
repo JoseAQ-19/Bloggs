@@ -18,7 +18,7 @@ translationKey: e321fc9d-092e-2254-8238-20ef0cd20b01
 type: fitness
 ---
 
-![7 Jaw-Dropping Highlights From The Brigade Fitness Competition That Will Leave You Speechless](/images/defaults/default-fitness.jpg)
+![7 Jaw-Dropping Highlights From The Brigade Fitness Competition That Will Leave You Speechless](/images/unleashing-potential-highlights-from-the-division-sustainment-brigade-fitness-competition-en.webp)
 
 {{< adsterra_native >}}
 

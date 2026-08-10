@@ -18,7 +18,7 @@ translationKey: e0332158-5248-817a-af9f-b51869a2bd12
 type: crypto
 ---
 
-![Charles Schwab Justo Advirtió: Los 4 Errores Fatales Que Comete El Inversor En Criptomonedas](/images/defaults/default-crypto.jpg)
+![Charles Schwab Justo Advirtió: Los 4 Errores Fatales Que Comete El Inversor En Criptomonedas](/images/charles-schwab-lanza-una-advertencia-sobre-la-nueva-ley-de-bitcoin-y-criptomonedas.webp)
 
 ## Resumen Ejecutivo
 - Charles Schwab advirtió que el 70% de los inversores en criptomonedas cometen errores fatales que pueden costarles millones.

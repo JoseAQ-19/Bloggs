@@ -43,7 +43,7 @@ image: images/metaverse-bubble.jpg
 - Meta
 ---
 
-![image](images/metaverse-bubble.jpg)
+![image](/images/metaverse-pyramid-scheme.jpg)
 
 Remember the hype? The breathless promises of immersive digital worlds where we'd work, play, and socialize in ways previously confined to science fiction? The Metaverse, aggressively marketed beginning in 2021, promised a revolution. Instead, it delivered a masterclass in speculative bubbles. While the core technologies may survive, the specific vision peddled by tech giants – particularly Meta – now looks less like the future and more like a cautionary tale.
 

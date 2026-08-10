@@ -17,7 +17,7 @@ translationKey: 82675757-083c-0cc5-1f24-7765a5d2c8b5
 type: fitness
 ---
 
-![460 AQI in Detroit: How Free Planet Fitness Access Can Save Your Health](/images/defaults/default-fitness.jpg)
+![460 AQI in Detroit: How Free Planet Fitness Access Can Save Your Health](/images/free-planet-fitness-access-stay-fit-amid-air-quality-alerts-en.webp)
 
 {{< adsterra_native >}}
 

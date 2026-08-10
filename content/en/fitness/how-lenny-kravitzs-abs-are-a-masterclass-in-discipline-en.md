@@ -17,7 +17,7 @@ translationKey: 7276a0b6-e062-361a-2098-32038af0db40
 type: fitness
 ---
 
-![Lenny Kravitz’s Abs Show 7 Secrets Of Unmatched Discipline That Shock Everyone](/images/defaults/default-fitness.jpg)
+![Lenny Kravitz’s Abs Show 7 Secrets Of Unmatched Discipline That Shock Everyone](/images/how-lenny-kravitzs-abs-are-a-masterclass-in-discipline-en.webp)
 
 {{< adsterra_native >}}
 

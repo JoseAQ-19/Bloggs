@@ -17,7 +17,7 @@ translationKey: 5f5b2201-f0a6-aa19-6021-df89de2ee8cd
 type: crypto
 ---
 
-![Los 7 Altcoins Que Podrían Hacerte Rico Antes de la Próxima Gran Carrera Cripto](/images/defaults/default-crypto.jpg)
+![Los 7 Altcoins Que Podrían Hacerte Rico Antes de la Próxima Gran Carrera Cripto](/images/los-altcoins-que-debes-acumular-antes-de-la-proxima-gran-carrera-de-criptomonedas.webp)
 
 ## Resumen Ejecutivo
 - Los 7 altcoins seleccionados tienen el potencial de generar rendimientos significativos antes de la próxima gran carrera cripto, destacando proyectos como Aave y Lido.

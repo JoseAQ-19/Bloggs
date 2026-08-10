@@ -17,7 +17,7 @@ translationKey: b15f07e7-888d-e317-7f7d-0c7ab38096e4
 type: crypto
 ---
 
-![The Shocking Truth: Trump’s $1.4 Billion Crypto Ventures Exposed](/images/defaults/default-crypto.jpg)
+![The Shocking Truth: Trump’s $1.4 Billion Crypto Ventures Exposed](/images/the-shocking-truth-behind-trumps-14-billion-crypto-ventures-revealed-en.webp)
 
 {{< adsterra_native >}}
 

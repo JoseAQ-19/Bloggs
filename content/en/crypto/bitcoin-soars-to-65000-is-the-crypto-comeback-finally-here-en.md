@@ -17,7 +17,7 @@ translationKey: f362d4ee-a520-afee-a6e4-0db5b1319905
 type: crypto
 ---
 
-![Bitcoin Surges to $65,000: The Shocking Comeback No One Expected](/images/defaults/default-crypto.jpg)
+![Bitcoin Surges to $65,000: The Shocking Comeback No One Expected](/images/bitcoin-soars-to-65000-is-the-crypto-comeback-finally-here-en.webp)
 
 {{< adsterra_native >}}
 

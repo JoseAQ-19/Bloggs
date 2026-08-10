@@ -10,7 +10,12 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'core'))
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'scripts'))
 
 from novum_visual import generate_unique_visual_prompt
-from fix_duplicate_images import scan_for_duplicates, remediate_duplicate_images, extract_category
+from fix_duplicate_images import (
+    scan_for_duplicates,
+    remediate_duplicate_images,
+    extract_category,
+    sync_featured_image_in_body,
+)
 
 
 def test_generate_unique_visual_prompt(monkeypatch):
@@ -34,6 +39,26 @@ def test_extract_category():
     
     post_empty = frontmatter.Post("Content")
     assert extract_category("content/es/fitness/post-slug.md", post_empty) == "fitness"
+
+
+def test_sync_featured_image_in_body_replaces_first_image():
+    post = frontmatter.Post(
+        "![Old image](/images/defaults/default-ia.jpg)\n\nBody",
+        title="Article",
+    )
+
+    sync_featured_image_in_body(post, "/images/article.webp")
+
+    assert post.content.startswith("![Old image](/images/article.webp)")
+    assert "/images/defaults/default-ia.jpg" not in post.content
+
+
+def test_sync_featured_image_in_body_injects_missing_image():
+    post = frontmatter.Post("Body", title="Article")
+
+    sync_featured_image_in_body(post, "featured.webp")
+
+    assert post.content.startswith("![Article](featured.webp)")
 
 
 def test_scan_for_duplicates_and_dry_run(tmp_path):

@@ -18,7 +18,7 @@ translationKey: 94138527-1248-175c-64ba-e5502e459d7f
 type: crypto
 ---
 
-![Inside The $500 Million Controversy: Trump’s Crypto Firm and Emirati Royal Family Ties](/images/defaults/default-crypto.jpg)
+![Inside The $500 Million Controversy: Trump’s Crypto Firm and Emirati Royal Family Ties](/images/inside-the-controversial-deal-trump-backed-company-selling-crypto-assets-en.webp)
 
 {{< adsterra_native >}}
 

@@ -18,7 +18,7 @@ translationKey: 3e202046-9802-fa41-aae8-4300ad2b2717
 type: crypto
 ---
 
-![Jeremy Grantham’s Stark Prediction: Bitcoin Will Dwindle Away With A Whimper Over Decades](/images/defaults/default-crypto.jpg)
+![Jeremy Grantham’s Stark Prediction: Bitcoin Will Dwindle Away With A Whimper Over Decades](/images/jeremy-grantham-predicts-bitcoins-demise-will-crypto-fade-away-quietly-en.webp)
 
 {{< adsterra_native >}}
 

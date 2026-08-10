@@ -17,7 +17,7 @@ translationKey: 08812a36-7ced-ffa0-8aef-5bc7d4e196c4
 type: fitness
 ---
 
-![Marine Recruit Tragedy: Fitness Test Turns Deadly at Camp Pendleton Analysis](/images/defaults/default-fitness.jpg)
+![Marine Recruit Tragedy: Fitness Test Turns Deadly at Camp Pendleton Analysis](/images/marine-recruit-tragedy-fitness-test-turns-deadly-at-camp-pendleton-en.webp)
 
 {{< adsterra_native >}}
 

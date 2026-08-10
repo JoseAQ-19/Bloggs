@@ -18,7 +18,7 @@ translationKey: b3b03429-52ca-1420-1214-4779a2202ed4
 type: crypto
 ---
 
-![Trump’s $2 Billion Crypto Windfall: How It Shapes His Presidency And Nobody Noticed](/images/defaults/default-crypto.jpg)
+![Trump’s $2 Billion Crypto Windfall: How It Shapes His Presidency And Nobody Noticed](/images/trumps-crypto-cash-cow-how-2b-in-profits-shape-his-presidency-en.webp)
 
 ## Executive Summary
 

@@ -18,7 +18,7 @@ translationKey: eae144ae-8496-a8a8-176d-db9d6feb6411
 type: crypto
 ---
 
-![The Shocking Truth About 100x Leverage: US Traders Risk It All on Perpetual Futures](/images/defaults/default-crypto.jpg)
+![The Shocking Truth About 100x Leverage: US Traders Risk It All on Perpetual Futures](/images/why-us-day-traders-are-risking-it-all-on-cryptos-most-dangerous-product-en.webp)
 
 {{< adsterra_native >}}
 

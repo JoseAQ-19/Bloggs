@@ -18,7 +18,7 @@ translationKey: e2603fdf-ef26-e89b-f3da-83d3f7bf6ce9
 type: crypto
 ---
 
-![Bitmine Revela $11.5B en Criptomonedas y Efectivo: El Fin Del Mercado Tal Como Lo Conocemos](/images/defaults/default-crypto.jpg)
+![Bitmine Revela $11.5B en Criptomonedas y Efectivo: El Fin Del Mercado Tal Como Lo Conocemos](/images/bitmine-revela-impresionantes-115b-en-criptomonedas-y-efectivo-que-significa-para-el-futuro-del-merc.webp)
 
 ## Resumen Ejecutivo
 - Bitmine ha revelado que posee $11.5 mil millones en criptomonedas y efectivo, lo que podría marcar el fin de la era actual del mercado de criptomonedas.

@@ -17,7 +17,7 @@ translationKey: d64e72b0-15d6-9fd1-1c5f-276db5c72385
 type: fitness
 ---
 
-![VEYR Just Secured £1 Million: The AI Fitness App That Will Change Everything](/images/defaults/default-fitness.jpg)
+![VEYR Just Secured £1 Million: The AI Fitness App That Will Change Everything](/images/meet-veyr-the-ai-fitness-app-revolutionizing-personalized-training-with-1-million-funding-en.webp)
 
 Without question, the fitness app industry is filled with hype and inflated promises, and VEYR's recent funding round is no exception. The assertion that a £1 million investment can transform personal fitness is a bold claim, one that deserves a thorough examination of both its potential and the pitfalls that lie ahead.
 

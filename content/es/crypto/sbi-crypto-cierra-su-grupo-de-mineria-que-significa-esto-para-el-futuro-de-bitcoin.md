@@ -17,7 +17,7 @@ translationKey: 969975b4-4054-952a-71ec-aff306c50e52
 type: crypto
 ---
 
-![SBI Crypto Cierra Su Grupo De Minería: Un Golpe Mortal Para Bitcoin](/images/defaults/default-crypto.jpg)
+![SBI Crypto Cierra Su Grupo De Minería: Un Golpe Mortal Para Bitcoin](/images/sbi-crypto-cierra-su-grupo-de-mineria-que-significa-esto-para-el-futuro-de-bitcoin.webp)
 
 ## Resumen Ejecutivo
 

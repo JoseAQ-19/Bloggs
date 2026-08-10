@@ -17,7 +17,7 @@ translationKey: 67e13d73-1961-954b-cd3f-21315546c896
 type: crypto
 ---
 
-![Crypto's New Era: AI Agents Set to Revolutionize Demand and Prices Analysis](/images/defaults/default-crypto.jpg)
+![Crypto's New Era: AI Agents Set to Revolutionize Demand and Prices Analysis](/images/cryptos-new-era-ai-agents-set-to-revolutionize-demand-and-prices-en.webp)
 
 {{< adsterra_native >}}
 

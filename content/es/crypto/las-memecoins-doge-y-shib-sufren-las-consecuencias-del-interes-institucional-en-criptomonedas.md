@@ -18,7 +18,7 @@ translationKey: a6d54f63-5f22-9713-b280-c751aacf9a05
 type: crypto
 ---
 
-![El Hundimiento De DOGE Y SHIB: Cómo El Interés Institucional Destruye Las Memecoins](/images/defaults/default-crypto.jpg)
+![El Hundimiento De DOGE Y SHIB: Cómo El Interés Institucional Destruye Las Memecoins](/images/las-memecoins-doge-y-shib-sufren-las-consecuencias-del-interes-institucional-en-criptomonedas.webp)
 
 ## Resumen Ejecutivo
 

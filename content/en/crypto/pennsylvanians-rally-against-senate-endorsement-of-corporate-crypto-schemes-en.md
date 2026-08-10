@@ -18,7 +18,7 @@ translationKey: d8073b9d-856b-243e-0bfd-1ab23f878d75
 type: crypto
 ---
 
-![The Shocking Truth: Pennsylvania's Senate Backs Corporate Crypto Schemes Amid Public Outcry](/images/defaults/default-crypto.jpg)
+![The Shocking Truth: Pennsylvania's Senate Backs Corporate Crypto Schemes Amid Public Outcry](/images/pennsylvanians-rally-against-senate-endorsement-of-corporate-crypto-schemes-en.webp)
 
 {{< adsterra_native >}}
 

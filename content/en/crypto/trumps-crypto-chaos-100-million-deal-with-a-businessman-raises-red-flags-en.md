@@ -18,7 +18,7 @@ translationKey: a1eec738-3f1f-d26b-4ab3-929f78c30ea5
 type: crypto
 ---
 
-![Trump's Crypto Chaos: $100 Million Deal With a Businessman Raises Red Flags Analysis](/images/defaults/default-crypto.jpg)
+![Trump's Crypto Chaos: $100 Million Deal With a Businessman Raises Red Flags Analysis](/images/trumps-crypto-chaos-100-million-deal-with-a-businessman-raises-red-flags-en.webp)
 
 {{< adsterra_native >}}
 
