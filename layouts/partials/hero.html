@@ -1,0 +1,49 @@
+{{/* === NOVUMWORLD CINEMATIC 3D HERO SECTION === */}}
+<section class="hero-3d-section">
+    <canvas id="hero-3d-canvas" class="hero-3d-canvas"></canvas>
+    
+    <div class="hero-content-wrapper" data-aos="fade-up">
+        {{/* Live AI Status Badge */}}
+        <div class="hero-badge-pill">
+            <span class="hero-badge-dot"></span>
+            <span>{{ i18n "live_intelligence" | default "REAL-TIME AI & MARKET INTELLIGENCE" }}</span>
+        </div>
+
+        {{/* Cinematic Headline with Gradient */}}
+        <h1 class="hero-cinematic-title">
+            {{ i18n "hero_title_prefix" | default "Decoding the Future of" }} 
+            <span class="hero-gradient-text">{{ i18n "hero_title_highlight" | default "AI, Tech & Crypto" }}</span>
+        </h1>
+
+        {{/* Subtitle */}}
+        <p class="hero-cinematic-subtitle">
+            {{ i18n "hero_subtitle" | default "Data-driven journalism, quantitative research, and autonomous market signals curated by AI." }}
+        </p>
+
+        {{/* Live Search & Filter Bar */}}
+        <div class="hero-search-container">
+            <svg class="hero-search-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+            </svg>
+            <input type="text" id="hero-search-input" class="hero-search-input" placeholder="{{ i18n "search_placeholder" | default "Search trend, stock, crypto symbol or AI topic..." }}" aria-label="Search">
+        </div>
+
+        {{/* Real-time Signals Ticker Bar */}}
+        <div class="glass-panel" style="display: inline-flex; align-items: center; gap: 24px; padding: 10px 24px; border-radius: 9999px; font-size: 0.85rem; color: #94A3B8;">
+            <div style="display: flex; align-items: center; gap: 6px;">
+                <span style="color: #00F0FF; font-weight: 700;">📊 1,240+</span> {{ i18n "datasets" | default "Datasets Analyzed" }}
+            </div>
+            <span style="opacity: 0.3;">|</span>
+            <div style="display: flex; align-items: center; gap: 6px;">
+                <span style="color: #10B981; font-weight: 700;">⚡ 24/7</span> {{ i18n "signals" | default "Autonomous Signals" }}
+            </div>
+            <span style="opacity: 0.3;">|</span>
+            <div style="display: flex; align-items: center; gap: 6px;">
+                <span style="color: #7000FF; font-weight: 700;">🌐 100%</span> {{ i18n "verified" | default "E-E-A-T Verified" }}
+            </div>
+        </div>
+    </div>
+</section>
+
+{{/* Load 3D Hero Engine Script Async */}}
+<script src="/js/hero-3d.js" defer></script>

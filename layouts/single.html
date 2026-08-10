@@ -1,6 +1,5 @@
 {{ define "header" }}
-{{/* We can override any block in the baseof file be defining it in the template */}}
-{{ partials.Include "page-header.html" . }}
+  {{ partials.Include "page-header.html" . }}
 {{ end }}
 
 {{ define "main" }}
@@ -9,113 +8,147 @@
 {{ $page := .}}
 {{ $section := .Site.GetPage "section" .Section }}
 
-{{/* Calculate a unique class for this post */}}
 {{- $post_class := "" -}}
 {{- with .File -}}
 {{- $post_class = printf "page-%s" .ContentBaseName -}}
 {{- end -}}
 
+{{/* READING PROGRESS SCRIPT */}}
+<script>
+  window.addEventListener('scroll', function() {
+    var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+    var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    var scrolled = (winScroll / height) * 100;
+    var progressBar = document.getElementById("reading-progress-bar");
+    if (progressBar) {
+      progressBar.style.width = scrolled + "%";
+    }
+  });
+</script>
+
 <article
-  class="{{ $post_class }} flex-l {{ if $needs_aside }}mw8{{ else }}mw7{{ end }} center ph3 flex-wrap justify-between glass-card mt5"
-  data-aos="fade-up" data-aos-duration="1200">
-  <header class="mt4 w-100">
-    <aside class="instapaper_ignoref b helvetica tracked ttu white-60">
-      {{ if .Section }}{{ .CurrentSection.Title }}{{ else }}{{ if eq .Lang "es" }}NovumWorld{{ else }}NovumWorld{{ end }}{{ end }}
-    </aside>
-    {{- partials.IncludeCached "social/share.html" . . -}}
-    <h1 class="f1 mt3 mb1 white">
+  class="{{ $post_class }} flex-l {{ if $needs_aside }}mw8{{ else }}mw7{{ end }} center ph3 flex-wrap justify-between glass-panel br4 mt4 pa4"
+  data-aos="fade-up" data-aos-duration="1000">
+  
+  <header class="mt2 w-100 border-bottom-1 b--white-10 pb3">
+    <div class="flex items-center justify-between mb2">
+      <span class="hero-badge-pill" style="font-size: 0.75rem; margin-bottom: 0;">
+        {{ if .Section }}{{ .CurrentSection.Title | upper }}{{ else }}NEWS INTELLIGENCE{{ end }}
+      </span>
+      {{ if not .Date.IsZero }}
+      <time class="f6 font-mono cyan" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+        {{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
+      </time>
+      {{ end }}
+    </div>
+
+    <h1 class="f1 mt2 mb2 white lh-title" style="font-family: var(--font-heading); font-weight: 800;">
       {{- .Title -}}
     </h1>
-    {{ with .Params.author | default .Site.Params.author }}
-    <p class="tracked white-80">
-      {{- if in (slice "de" "en" "es" "fr" "it" "no" "pt") $page.Language.Lang -}}
-      {{- T "by" -}}
-      {{ end -}} <strong>
-        {{- if reflect.IsSlice . -}}
-        {{ collections.Delimit . ", " | transform.Markdownify }}
-        {{- else -}}
-        {{ . | transform.Markdownify }}
-        {{- end -}}
-      </strong>
-    </p>
-    {{ end }}
 
-    {{ if not .Date.IsZero }}
-    <time class="f6 mv4 dib tracked white-60" {{ printf `datetime="%s" ` (.Date.Format "2006-01-02T15:04:05Z07:00" )
-      | safeHTMLAttr }}>
-      {{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
-    </time>
-    {{end}}
+    <div class="flex flex-wrap items-center gap-3 f6 white-70 mv2">
+      {{ with .Params.author | default .Site.Params.author }}
+      <div>
+        <span>{{ T "by" | default "By" }}</span>
+        <strong class="cyan">
+          {{ if reflect.IsSlice . }}{{ collections.Delimit . ", " }}{{ else }}{{ . }}{{ end }}
+        </strong>
+      </div>
+      {{ end }}
 
-    {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
-    {{ $readingTime := .ReadingTime }}
-    {{ with .Site.Params.reading_speed }}
-    {{ $readingTime = div (float $.WordCount) . }}
-    {{ $readingTime = math.Ceil $readingTime }}
-    {{ $readingTime = int $readingTime }}
-    {{ end }}
-    <span class="f6 mv4 dib tracked white-60"> - {{ T "readingTime" $readingTime }} </span>
-    <span class="f6 mv4 dib tracked white-60"> - {{ T "wordCount" .WordCount }} </span>
-    {{ end }}
+      {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
+      <span>•</span>
+      <span>⏱️ {{ .ReadingTime }} min read</span>
+      <span>•</span>
+      <span>📊 {{ .WordCount }} words</span>
+      {{ end }}
+    </div>
+
+    {{- partials.IncludeCached "social/share.html" . . -}}
   </header>
-  <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes" | default "serif" }} f4
-    nested-links white {{ if eq $.Site.Language.LanguageDirection "rtl" }}pl4-l{{ else }}pr4-l{{ end }}
-    {{ if $needs_aside }}w-two-thirds-l{{ else }}w-100-l{{ end }}" data-aos="fade-up" data-aos-delay="200">
+
+  {{/* KEY DATA BOX / TL;DR HIGHLIGHT */}}
+  {{ with .Params.summary }}
+  <div class="w-100 tldr-data-box">
+    <div class="tldr-header">
+      <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+      <span>Key Signals & TL;DR</span>
+    </div>
+    <p class="f5 white-90 lh-copy ma0" style="font-weight: 500;">
+      {{ . }}
+    </p>
+  </div>
+  {{ end }}
+
+  {{/* ARTICLE CONTENT */}}
+  <div class="nested-copy-line-height lh-copy f4 nested-links white pr4-l w-100 w-70-l" data-aos="fade-up" data-aos-delay="100">
+    
     {{- .Content -}}
 
-    {{/* === AUTHOR BIO (E-E-A-T Signal) === */}}
-    <div class="author-bio mt5 pa4 br3"
-      style="background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.12); backdrop-filter: blur(10px);">
+    {{/* FAQ ACCORDION SECTION (DYNAMIC FROM YAML FRONTMATTER) */}}
+    {{ with .Params.faq }}
+    <section class="faq-section">
+      <h3 class="f3 fw7 white mb3" style="font-family: var(--font-heading); color: #00F0FF;">
+        ❓ Frequently Asked Questions
+      </h3>
+      <div class="faq-accordion">
+        {{ range . }}
+        <details class="faq-item">
+          <summary class="faq-summary">
+            <span>{{ .question }}</span>
+          </summary>
+          <div class="faq-content">
+            <p class="ma0">{{ .answer }}</p>
+          </div>
+        </details>
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+
+    {{/* AUTHOR BIO BOX (E-E-A-T) */}}
+    <div class="author-bio mt5 pa4 br3 glass-panel" style="border-left: 4px solid #00F0FF;">
       <div class="flex items-center mb3">
         <div class="br-100 overflow-hidden mr3"
-          style="width:56px;height:56px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);display:flex;align-items:center;justify-content:center;">
-          <span class="f3 white b">NW</span>
+          style="width:52px;height:52px;background:linear-gradient(135deg,#00F0FF 0%,#7000FF 100%);display:flex;align-items:center;justify-content:center;">
+          <span class="f4 white b">NW</span>
         </div>
         <div>
-          <p class="f5 b white ma0">NovumWorld Editorial Team</p>
-          <p class="f7 white-60 ma0 mt1">
-            {{ if eq .Lang "es" }}Equipo Editorial Autorizado{{ else }}Authorized Editorial Team{{ end }}
+          <p class="f5 b white ma0" style="font-family: var(--font-heading);">
+            {{ with .Params.author }}{{ if reflect.IsSlice . }}{{ collections.Delimit . ", " }}{{ else }}{{ . }}{{ end }}{{ else }}NovumWorld Editorial Team{{ end }}
+          </p>
+          <p class="f7 cyan ma0 mt1">
+            {{ if eq .Lang "es" }}Auditor de Fuentes & Análisis Cuantitativo{{ else }}Source Auditor & Quantitative Research{{ end }}
           </p>
         </div>
       </div>
       <p class="f6 white-80 lh-copy ma0">
         {{ if eq .Lang "es" }}
-          El Equipo Editorial de NovumWorld utiliza modelos de análisis de datos e Inteligencia Artificial para auditar fuentes financieras y tecnológicas, garantizando información rápida y sin sesgos.
+          El equipo editorial de NovumWorld audita información financiera y tecnológica usando modelos de datos avanzados y metodologías E-E-A-T.
         {{ else }}
-          The NovumWorld Editorial Team leverages data analysis models and Artificial Intelligence to audit financial and technological sources, ensuring rapid and unbiased information.
+          The NovumWorld editorial team audits financial and tech signals utilizing advanced data models and strict E-E-A-T standards.
         {{ end }}
       </p>
-      {{ if .Params.ai_disclosure }}
-      <div class="mt3 f7 i white-40">
-        {{ if eq .Lang "es" }}📍 Divulgación: Nota de contenido asistido por IA aplicada.{{ else }}📍 Disclosure: AI-assisted content note applied.{{ end }}
-      </div>
-      {{ end }}
-      <div class="mt3 flex items-center">
-        <a href="{{ "about/" | absLangURL }}" class="f7 link white-60 hover-white mr3"
-          style="text-decoration: underline;">
-          {{ if eq .Lang "es" }}Certificado de Autoría →{{ else }}Authorship Certificate →{{ end }}
-        </a>
-      </div>
     </div>
 
     {{- partials.Include "tags.html" . -}}
-    {{ if .Site.Config.Services.Disqus.Shortname }}
-    <div class="mt6 instapaper_ignoref">
-      {{/* former internal template */}}
-      {{ partials.Include "disqus.html" . }}
-    </div>
-    {{ end }}
-    {{ if .Site.Params.commentoEnable }}
-    <div class="mt6 instapaper_ignoref">
-      {{- partials.Include "commento.html" . -}}
-    </div>
-    {{ end }}
   </div>
-  {{- if $needs_aside -}}
-  <aside class="w-30-l mt6-l">
+
+  {{/* SIDEBAR WITH FLOATING TOC & RELATED ARTICLES */}}
+  <aside class="w-100 w-30-l mt4 mt0-l">
+    {{ if .TableOfContents }}
+    <div class="toc-sidebar sticky top-4">
+      <div class="toc-title">
+        <span>📑 Table of Contents</span>
+      </div>
+      <div class="toc-list f6">
+        {{ .TableOfContents }}
+      </div>
+    </div>
+    {{ end }}
+
     {{- partials.Include "menu-contextual.html" . -}}
   </aside>
-  {{- end -}}
 
 </article>
 {{ end }}

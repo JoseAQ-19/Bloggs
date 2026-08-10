@@ -1,46 +1,71 @@
 {{ define "main" }}
 
-{{- $config := site.Params.ananke.home -}}
-{{- $text_alignment := "tc-l" -}}
-{{- if eq $config.content_alignment "left" -}}
-{{- $text_alignment = "tl-l" -}}
-{{- else if eq $config.content_alignment "right" -}}
-{{- $text_alignment = "tr-l" -}}
-{{- end -}}
+{{/* 3D HERO SECTION */}}
+{{ partial "hero.html" . }}
 
-<article class="cf ph3 ph5-l pv3 pv4-l f4 {{ $text_alignment }} center measure-wide lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}" data-aos="fade-in" data-aos-duration="1500">
-  {{ .Content }}
-</article>
-
-{{/* HOME ADSTERNA NATIVE: justo bajo el hero / contenido principal */}}
+{{/* HOME NATIVE AD BANNER */}}
 {{ partial "ad_native.html" . }}
 
-{{/* PAGINACIÓN UNIVERSAL */}}
 <div class="pa3 pa4-m pa5-l w-100 mw8 center">
 
+  {{/* PAGINATION & ARTICLES GRID */}}
   {{ $paginator := .Paginate (where .Site.RegularPages "Type" "ne" "page") }}
 
-  <section class="home-modern-grid mt5 w-100 flex-wrap justify-center">
-    {{ range $paginator.Pages }}
-    <div class="flex" data-aos="fade-up" data-aos-duration="800">
-      {{ .Render "summary-with-image" }}
-    </div>
+  {{/* ASYMMETRIC DIGITAL MAGAZINE GRID */}}
+  <section class="home-modern-grid mt4 w-100 flex flex-wrap justify-center">
+    {{ range $index, $element := $paginator.Pages }}
+      {{ if eq $index 0 }}
+        {{/* FEATURED MAIN ARTICLE (HERO POST - FULL WIDTH / ASYMMETRIC HIGHLIGHT) */}}
+        <div class="w-100 mb4" data-aos="fade-up" data-aos-duration="1000">
+          <article class="glass-panel glass-card-hover br4 overflow-hidden flex flex-column flex-row-l" style="border: 1px solid rgba(0, 240, 255, 0.3); background: linear-gradient(135deg, rgba(15, 23, 42, 0.85) 0%, rgba(7, 9, 14, 0.95) 100%);">
+            {{ $img := partials.Include "func/GetFeaturedImage.html" . }}
+            {{ if $img }}
+            <div class="w-100 w-60-l cover bg-center" style="background-image: url('{{ $img }}'); min-height: 320px;"></div>
+            {{ end }}
+            <div class="w-100 {{ if $img }}w-40-l{{ end }} pa4 flex flex-column justify-between">
+              <div>
+                <span class="hero-badge-pill" style="margin-bottom: 0.75rem; font-size: 0.75rem;">⭐ FEATURED STORY</span>
+                <h2 class="f2 fw8 white lh-title mt2 mb3" style="font-family: var(--font-heading);">
+                  <a href="{{ .RelPermalink }}" class="link white hover-cyan transition-colors">{{ .Title }}</a>
+                </h2>
+                <p class="f5 white-70 lh-copy mb4" style="display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">
+                  {{ .Summary | truncate 180 }}
+                </p>
+              </div>
+              <div class="flex items-center justify-between pt3 border-top-1 b--white-10">
+                <span class="f6 cyan font-mono fw6">{{ .Date.Format "Jan 02, 2006" }}</span>
+                <a href="{{ .RelPermalink }}" class="link f6 fw7 ttu tracked ph3 pv2 br-pill" style="background: rgba(0,240,255,0.15); color: #00F0FF; border: 1px solid rgba(0,240,255,0.3);">
+                  Read Brief →
+                </a>
+              </div>
+            </div>
+          </article>
+        </div>
+      {{ else }}
+        {{/* SECONDARY CARDS */}}
+        <div class="w-100 w-50-m w-33-l pa2 flex" data-aos="fade-up" data-aos-duration="800">
+          {{ .Render "summary-with-image" }}
+        </div>
+      {{ end }}
     {{ end }}
   </section>
 
-  {{/* BOTÓN DE PAGINACIÓN */}}
+  {{/* PAGINATION BUTTONS */}}
   <div class="flex justify-center mt5 mb5">
     {{ template "_internal/pagination.html" . }}
   </div>
 
-  {{/* WIDGET TAGS (TENDENCIAS) */}}
-  <section class="mt6 mb5">
-    <h2 class="f3 fw7 ttu tracked tc mb4" style="color: var(--primary);">{{ T "trends_widget" }}</h2>
-    <div class="flex flex-wrap justify-center gap-3">
+  {{/* LIVE TRENDS TAGS WIDGET */}}
+  <section class="mt5 mb5 pa4 glass-panel br4" data-aos="fade-up">
+    <div class="flex items-center gap-2 mb4">
+      <span class="hero-badge-dot"></span>
+      <h2 class="f3 fw7 ttu tracked ma0" style="color: #00F0FF; font-family: var(--font-heading);">{{ T "trends_widget" | default "Trending Signal Topics" }}</h2>
+    </div>
+    <div class="flex flex-wrap gap-2">
       {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
       <a href="{{ " /tags/" | relLangURL }}{{ $name | urlize }}"
-        class="link dib ba b--white-20 pa2 br-pill mr2 mb2 white hover-bg-white hover-black transition-colors f6">
-        {{ $name }} <span class="o-60 ml1">({{ $taxonomy.Count }})</span>
+        class="link dib pa2 ph3 br-pill white hover-cyan transition-colors f6" style="background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1);">
+        #{{ $name }} <span class="cyan fw6 ml1">({{ $taxonomy.Count }})</span>
       </a>
       {{ end }}
     </div>

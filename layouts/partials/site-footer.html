@@ -1,37 +1,51 @@
-<footer class="{{ .Site.Params.background_color_class | compare.Default " bg-black" }} bottom-0 w-100 pa3"
-  role="contentinfo" style="border-top: 1px solid rgba(255,255,255,0.05);">
-  <div class="flex flex-column items-center justify-center">
-    <div class="flex justify-between w-100 mw8 center">
-      <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="{{ .Site.Home.Permalink }}">
-        &copy; {{ with .Site.Copyright | compare.Default .Site.Title }} {{ . | safe.HTML }} {{ now.Format "2006"}} {{
-        end }}
-      </a>
-      <div>{{ partials.IncludeCached "social/follow.html" . }}</div>
+<footer class="w-100 pa4 mt5" role="contentinfo" style="background: #07090E; border-top: 1px solid rgba(0, 240, 255, 0.15);">
+  <div class="mw8 center flex flex-column items-center">
+    
+    {{/* FOOTER BRANDING & SYSTEM STATUS */}}
+    <div class="flex flex-column flex-row-l justify-between items-center w-100 pb4 border-bottom-1 b--white-10 gap-3">
+      <div class="tc tl-l">
+        <a class="f3 fw8 white no-underline tracking-tight" href="{{ .Site.Home.Permalink }}" style="font-family: var(--font-heading);">
+          NOVUM<span style="color: #00F0FF;">WORLD</span>
+        </a>
+        <p class="f6 white-60 ma0 mt1">
+          {{ if eq .Site.Language.Lang "es" }}Periodismo de Datos & Inteligencia Artificial de Vanguardia{{ else }}Autonomous Data Journalism & AI Signals Platform{{ end }}
+        </p>
+      </div>
+
+      {{/* Operational Status Pill */}}
+      <div class="glass-panel ph3 pv2 br-pill flex items-center gap-2" style="font-size: 0.8rem; color: #10B981; border: 1px solid rgba(16, 185, 129, 0.3);">
+        <span class="hero-badge-dot" style="background-color: #10B981; box-shadow: 0 0 8px #10B981;"></span>
+        <span class="font-mono fw6">{{ if eq .Site.Language.Lang "es" }}Sistemas Operativos 100%{{ else }}Systems Operational 100%{{ end }}</span>
+      </div>
     </div>
 
-    {{/* --- LEGAL LINKS (Obligatorio AdSense) --- */}}
-    <div class="tc mt3 mb2 w-100 mw8 center"
-      style="border-top: 1px solid rgba(255,255,255,0.08); padding-top: 0.75rem;">
-      <nav class="f7 white-50" aria-label="Legal"
-        style="display:flex; justify-content:center; gap:1.5rem; flex-wrap:wrap;">
+    {{/* LEGAL & NAV LINKS */}}
+    <div class="tc pv4 w-100">
+      <nav class="f6 flex justify-center gap-4 flex-wrap" aria-label="Legal">
         {{ $lang := .Site.Language.Lang }}
         {{ if eq $lang "es" }}
-        <a href="/es/about/" class="white-50 hover-white no-underline">Sobre Nosotros</a>
-        <a href="/es/contact/" class="white-50 hover-white no-underline">Contacto</a>
-        <a href="/es/privacy/" class="white-50 hover-white no-underline">Política de Privacidad</a>
-        <a href="/es/terms-of-service/" class="white-50 hover-white no-underline">Términos de Servicio</a>
+        <a href="/es/about/" class="white-70 hover-cyan no-underline transition-colors">Sobre Nosotros</a>
+        <a href="/es/contact/" class="white-70 hover-cyan no-underline transition-colors">Contacto</a>
+        <a href="/es/privacy/" class="white-70 hover-cyan no-underline transition-colors">Política de Privacidad</a>
+        <a href="/es/terms-of-service/" class="white-70 hover-cyan no-underline transition-colors">Términos de Servicio</a>
         {{ else }}
-        <a href="/about/" class="white-50 hover-white no-underline">About Us</a>
-        <a href="/contact/" class="white-50 hover-white no-underline">Contact</a>
-        <a href="/privacy/" class="white-50 hover-white no-underline">Privacy Policy</a>
-        <a href="/terms-of-service/" class="white-50 hover-white no-underline">Terms of Service</a>
+        <a href="/about/" class="white-70 hover-cyan no-underline transition-colors">About Us</a>
+        <a href="/contact/" class="white-70 hover-cyan no-underline transition-colors">Contact</a>
+        <a href="/privacy/" class="white-70 hover-cyan no-underline transition-colors">Privacy Policy</a>
+        <a href="/terms-of-service/" class="white-70 hover-cyan no-underline transition-colors">Terms of Service</a>
         {{ end }}
       </nav>
     </div>
 
-    {{/* --- BRANDING INDEPENDIENTE --- */}}
-    <div class="tc mt2 mb2 social-proof-text" data-aos="fade-up" data-aos-offset="10">
-      <p class="ma0 f7">{{ T "footer_copy" | safeHTML }}</p>
+    {{/* COPYRIGHT & SOCIAL */}}
+    <div class="flex flex-column flex-row-l justify-between items-center w-100 pt3 border-top-1 b--white-10 f7 white-50">
+      <div>
+        &copy; {{ now.Format "2006" }} {{ .Site.Title }}. {{ if eq .Site.Language.Lang "es" }}Todos los derechos reservados.{{ else }}All rights reserved.{{ end }}
+      </div>
+      <div class="mt2 mt0-l">
+        {{ partials.IncludeCached "social/follow.html" . }}
+      </div>
     </div>
+
   </div>
 </footer>

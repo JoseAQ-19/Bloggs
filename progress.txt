@@ -1,5 +1,24 @@
 # PROGRESS — NovumWorld Autoblogger
+# ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (REDISEÑO CINEMATOGRÁFICO ANTI-AI-SLOP & HERO 3D COMPLETADO)
 # ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (REMEDIACIÓN EN LOTE DE IMÁGENES DUPLICADAS COMPLETADA)
+
+## 🎨 REDISEÑO CINEMATOGRÁFICO ANTI-AI-SLOP & HERO 3D (2026-08-10) - ESTADO: ✅ COMPLETADO
+- [x] **Agent Skills Creadas (`.agent/skills/`)**:
+  - `frontend-design-taste/SKILL.md`: Directivas anti-AI-slop, tipografía cinematográfica (Syne, Space Grotesk, Plus Jakarta Sans, Inter), paleta oscura abisal (#07090E, #00F0FF, #7000FF), glassmorphism y microinteracciones.
+  - `threejs-3d-hero/SKILL.md`: Estándares de renderizado 3D WebGL (60 FPS requestAnimationFrame, amortiguación de cursor mouse tracking, IntersectionObserver pause offscreen, fallback seguro).
+  - `responsive-ui-components/SKILL.md`: Guías para maquetación asimétrica de revista digital, header glassmorphism flotante, barra de lectura, TOC lateral y acordeón FAQ.
+- [x] **Sistema de Diseño Visual (`static/css/custom.css`)**:
+  - Tokens CSS de modo oscuro hiperprofesional, glassmorphism (`.glass-panel`), resplandores neón y bordes translúcidos.
+  - Estilos para barra de progreso de lectura (`#reading-progress-bar`), índice TOC (`.toc-sidebar`), caja de datos clave (`.tldr-data-box`), y acordeón de preguntas frecuentes (`.faq-section`).
+- [x] **Hero Section 3D WebGL (`static/js/hero-3d.js` & `layouts/partials/hero.html`)**:
+  - Motor Canvas WebGL 3D nativo ultra-ligero que renderiza un Orbe Neuronal 3D con nodos e interacción amortiguada al ratón en 60 FPS sin impactar FCP/LCP.
+  - Cabecera cinemática con titular gradiente, badge de live intelligence, barra de búsqueda en tiempo real y contador de métricas en vivo.
+- [x] **Plantillas Hugo Rediseñadas (`layouts/`)**:
+  - `layouts/home.html`: Layout de revista digital de vanguardia con tarjeta de post destacado principal y sección de tendencias en vivo.
+  - `layouts/single.html`: Experiencia de lectura inmersiva con barra de progreso, TOC flotante, caja TL;DR y acordeón de FAQ dinámico desde YAML.
+  - `layouts/partials/site-footer.html`: Footer futurista con indicador de estado operativo en vivo.
+- [x] **Suite de Tests de UI (`tests/test_ui_build.py`)**: 4/4 tests validados.
+
 # ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (REPARACIÓN DE DEPLOYMENTS EN VERCEL COMPLETADA)
 # ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (REORGANIZACIÓN Y LIMPIEZA ARQUITECTÓNICA COMPLETADA)
 # ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (OPTIMIZACIÓN WEBP Y MIGRACIÓN LEAF BUNDLES COMPLETADA)
