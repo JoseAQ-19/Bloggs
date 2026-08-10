@@ -33,11 +33,11 @@ def analyze_file(filepath):
     body = '---'.join(parts[2:])
     
     # Extraer metadatos con Regex seguras
-    lang_match = re.search(r'language:\s*(["\']?.*?["\']?)', frontmatter)
-    lang = lang_match.group(1).lower().strip('"\'').strip() if lang_match else 'en'
+    lang_match = re.search(r'language:\s*["\']?([^\s"\'\n]+)', frontmatter)
+    lang = lang_match.group(1).lower().strip() if lang_match else 'en'
     
-    translation_key_match = re.search(r'translationKey:\s*(["\']?.*?["\']?)', frontmatter)
-    tkey = translation_key_match.group(1).strip('"\'').strip() if translation_key_match else None
+    translation_key_match = re.search(r'translationKey:\s*["\']?([^\s"\'\n]+)', frontmatter)
+    tkey = translation_key_match.group(1).strip() if translation_key_match else None
     
     issues = []
     seo_score, eeat_score, geo_score, value_score = 10, 10, 10, 10

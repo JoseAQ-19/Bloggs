@@ -8,6 +8,10 @@
   "datePublished": {{ .Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
   "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
   "author": {
+    {{- if .Params.author }}
+    "@type": "Person",
+    "name": {{ .Params.author | jsonify }}
+    {{- else }}
     "@type": "Organization",
     "name": "NovumWorld Editorial Team",
     "url": "https://novumworld.com/about/",
@@ -15,6 +19,7 @@
       "@type": "ImageObject",
       "url": "https://novumworld.com/images/logo-tech.jpg"
     }
+    {{- end }}
   },
   "publisher": {
     "@type": "Organization",
@@ -42,6 +47,28 @@
   {{- end -}}
 }
 </script>
+
+{{- with .Params.faq -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{- range $i, $e := . -}}
+    {{- if $i }},{{ end -}}
+    {
+      "@type": "Question",
+      "name": {{ $e.question | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $e.answer | jsonify }}
+      }
+    }
+    {{- end -}}
+  ]
+}
+</script>
+{{- end -}}
 
 <script type="application/ld+json">
 {

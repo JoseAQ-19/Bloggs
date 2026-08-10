@@ -1,13 +1,55 @@
 # PROGRESS — NovumWorld Autoblogger
-# ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (REPARACIÓN VERCEL, GITHUB ACTIONS & LIMPIEZA COMPLETADA)
+# ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (REPARACIÓN DE DEPLOYMENTS EN VERCEL COMPLETADA)
+# ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (REORGANIZACIÓN Y LIMPIEZA ARQUITECTÓNICA COMPLETADA)
+# ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (OPTIMIZACIÓN WEBP Y MIGRACIÓN LEAF BUNDLES COMPLETADA)
+# ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (ACTUALIZACIÓN GEO/AEO 2026 & ADSENSE COMPLETADA)
+# ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (MODULARIZACIÓN AGENT SKILLS COMPLETADA)
+# ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (INTEGRACIÓN OMNIROUTE AI GATEWAY COMPLETADA)
 
-## 🟢 VERCEL, GITHUB ACTIONS & LIMPIEZA DE CÓDIGO (2026-08-10) - ESTADO: ✅ REPARADO Y COMPLETO
+## 🛠️ REPARACIÓN DE DEPLOYMENTS EN VERCEL (2026-08-10) - ESTADO: ✅ COMPLETADO
+- [x] **Diagnóstico Vercel via MCP**: Inspeccionados logs de build en Vercel (`dpl_G1xrjVmQKzckyivVsVECcHhLETKD`) identificando incompatibilidad de versión de Hugo y rotura del tema `ananke` (`Min 0.160.0` requerida vs `0.146.0` instalada).
+- [x] **Actualización `vercel.json`**: Actualizado `HUGO_VERSION` de `0.128.0` a `0.160.0` y corregida la URL del repositorio del tema Ananke a `https://github.com/gohugo-ananke/ananke.git`.
+- [x] **Corrección Deprecación `config.toml`**: Migrado `custom_css` a la nueva sección `[params.ananke]` para evitar advertencias de Hugo.
+- [x] **Validación Continua**: Creado test de integración `tests/test_vercel_config.py` para asegurar que las variables de Hugo en Vercel mantengan compatibilidad.
+
+- [x] **Purga Táctica de Archivos Temporales y Basura**: Eliminados 24 scripts obsoletos/one-off de `scripts/`, purgadas carpetas de caché (`__pycache__`, `.pytest_cache`) y limpiados temporales.
+- [x] **Relocalización de Auditorías (`docs/audits/`)**: Creado `docs/audits/` y relocalizados todos los reportes markdown secundarios (`AUDIT_ADSENSE_FINAL.md`, `AUDITORIA_MEJORAS.md`, `content_auditor_phase6.md`, `research_test_result.md`).
+- [x] **Consolidación de Módulos Core (`core/`)**: Creado directorio `core/` con `core/__init__.py` agrupando la lógica principal (`orchestrator.py`, `llm_router.py`, `novum_visual.py`, `researcher.py`, `niche_registry.py`, `utils.py`, `prompts_factory.py`, `prompts_tools.py`, `content_engine_pro.py`, `text_cleaner.py`, `visual_context_extractor.py`, `visual_logger.py`, `chart_engine.py`, `api_cache.py`, `config.py`).
+- [x] **Consolidación de Tests (`tests/`)**: Creado directorio `tests/` con `tests/conftest.py` conteniendo la suite completa de tests unitarios (`test_*.py`).
+- [x] **Ajuste de Importaciones y Workflows**: Actualizado `sys.path` en `main.py`, `stocks_main.py` y runner scripts, y actualizado `PYTHONPATH` en workflows de GitHub Actions (`.github/workflows/*.yml`).
+- [x] **Verificación Total (Suite Pytest)**: Ejecutada suite completa de pytest con 49/49 tests pasando (100%).
+
+## 🎨 OPTIMIZACIÓN WEBP Y MIGRACIÓN A HUGO LEAF BUNDLES (2026-08-10) - ESTADO: ✅ COMPLETADO
+- [x] **Procesador y Optimizador de Imágenes WebP (<150 KB)**: Implementado pipeline en `scripts/novum_visual.py` usando `Pillow` para convertir imágenes a WebP, comprimirlas por debajo de 150 KB y extraer sus dimensiones reales (`width` y `height`).
+- [x] **Migración a Hugo Leaf Bundles**: Actualizado `orchestrator.py` y `main.py` para guardar posts en rutas Leaf Bundle `content/{lang}/{category}/{slug}/index.md` con la imagen guardada como `featured.webp` en la propia carpeta del bundle.
+- [x] **Caché de Investigación (`research_brief.json`)**: Configurado el guardado automático de `research_brief.json` en el directorio de cada Leaf Bundle.
+- [x] **Soporte para Enlazado Interno**: Actualizado `LinkManager.get_latest_internal_links` en `scripts/utils.py` para soportar búsqueda recursiva en Leaf Bundles (`**/*.md`).
+- [x] **Verificación y Tests Unitarios**: Actualizado `scripts/test_visual.py` y verificados todos los tests con `pytest scripts/test_visual.py` (6/6 pasados, 100%).
+
+## 🚀 ACTUALIZACIÓN DE PROMPTS Y GENERACIÓN GEO/AEO 2026 (2026-08-10) - ESTADO: ✅ COMPLETADO
+- [x] **Regla del Bloque de Respuesta (Chunking RAG 40-60 palabras)**: Actualizado `SYSTEM_FORMAT_RULES` en `scripts/prompts_factory.py` y `orchestrator.py` para forzar respuestas directas y sintéticas tras cada H2/H3.
+- [x] **Tablas Markdown Obligatorias**: Eliminada prohibición de tablas y obligado el uso de al menos una tabla Markdown comparativa/numérica por artículo.
+- [x] **Sección FAQ Obligatoria**: Forzada sección final `## Preguntas Frecuentes` / `## Frequently Asked Questions` con 3-5 Q&As.
+- [x] **Categorización Jerárquica en Silos**: Configurados silos temáticos (ej. `Finanzas/Cripto`, `Tecnologia/IA-SaaS`) en `scripts/niche_registry.py` e inyectados en `categories` del Frontmatter YAML.
+- [x] **Perfiles de Autores Expertos (E-E-A-T)**: Mapeados nombres de expertos por nicho (`author: "Dr. Marc Valls..."`) inyectados en Frontmatter YAML y HTML author box.
+- [x] **Inyección de Schema FAQPage JSON-LD**: Implementado parser `extract_faq_items` que puebla el campo `faq` en YAML y actualizado `layouts/partials/schema.html` para generar estructuras `@type: FAQPage` y `@type: Person` dinámicamente.
+- [x] **Suite de Tests Unitarios**: Creado `scripts/test_geo_aeo.py` y ejecutado pytest (4/4 tests pasados). Verificada generación controlada de artículo con Frontmatter completo.
+
+## 🧠 MODULARIZACIÓN DE AGENT SKILLS (.agent/skills/) (2026-08-10) - ESTADO: ✅ COMPLETADO
+- [x] **`geo-researcher`**: Creado `.agent/skills/geo-researcher/SKILL.md` (intenciones informativas/transaccionales, PAA, entidades y `research_brief.json`).
+- [x] **`geo-content-writer`**: Creado `.agent/skills/geo-content-writer/SKILL.md` (RAG Chunking 40-60 palabras con negritas, tablas Markdown, listas, sección FAQ y prohibición de muletillas robóticas).
+- [x] **`schema-eeat-generator`**: Creado `.agent/skills/schema-eeat-generator/SKILL.md` (JSON-LD dinámico `FAQPage`/`TechArticle`/`NewsArticle` y perfiles de autores expertos por vertical).
+- [x] **`hugo-leafbundle-builder`**: Creado `.agent/skills/hugo-leafbundle-builder/SKILL.md` (Estructura Leaf Bundle `content/posts/{category}/{slug}/index.md`, `featured.webp` y `research_brief.json`).
+- [x] **`seo-auditor-validator`**: Creado `.agent/skills/seo-auditor-validator/SKILL.md` (Validación enlaces 404, comprobación Hugo Exit Code 0 y payload IndexNow API).
+
+## 🟢 VERCEL, GITHUB ACTIONS, OMNIROUTE & LIMPIEZA DE CÓDIGO (2026-08-10) - ESTADO: ✅ REPARADO Y COMPLETO
+- [x] **Integración OmniRoute AI Gateway**: Configurado `LLMRouter.call_omniroute` como enrutador primario local (`http://localhost:8000/v1`, API key `sk-omniroute`, modelos `auto` y `auto/coding`).
+- [x] **Resiliencia & Fail-Safe**: Integrado fallback automático desde OmniRoute -> Capa Cero (GitHub Models) -> Fallback Tier (Gemini, OpenRouter, Groq, etc.).
+- [x] **Variables & Config**: Creado `config.py` y `.env.example` con las variables `OMNIROUTE_BASE_URL` y `OMNIROUTE_API_KEY`.
 - [x] **Reparación Vercel**: Creado `vercel.json` con comando de Hugo, añadido script de build en `package.json` y actualizado `vercel-ignore.sh` para soportar clones superficiales.
 - [x] **Consolidación GitHub Actions**: Reducidos 49 workflows duplicados a 4 workflows matriz universales (`scout.yml`, `writer.yml`, `corrector.yml`, `newsjacking.yml`). Añadido control de concurrencia y reintentos para `git push`.
-- [x] **Corrección de Tests**: Corregido `llm_router.py` (backoff en 429) y `test_json_cache.py` (importaciones). 14/14 tests pasando (100%).
-- [x] **Limpieza del Repositorio**: Eliminados 11 archivos de log/temporales en la raíz y 28 scripts de prueba obsoletos en `scripts/`.
+- [x] **Corrección de Tests**: Corregido `llm_router.py` y agregados tests unitarios para OmniRoute en `scripts/test_api_retry.py`. 16/16 tests pasando (100%).
 - [x] **Limpieza MCP Config**: Verificados y filtrados todos los servidores MCP en `mcp_config.json`. Conservados solo los funcionales (`StitchMCP`, `vercel`, `hf-action-director`).
-
 
 
 ## 💎 REMEDIACIÓN CRANIAL: OBRA MAESTRA (2026-04-03) - ESTADO: ✅ LISTO PARA ADSENSE

@@ -63,7 +63,7 @@ jobs:
           HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY }}
           EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
           GOOGLE_INDEXING_JSON: ${{ secrets.GOOGLE_INDEXING_JSON }}
-          PYTHONPATH: ${{ github.workspace }}/scripts
+          PYTHONPATH: ${{ github.workspace }}:${{ github.workspace }}/core:${{ github.workspace }}/scripts
         run: python scripts/run_mrbeast.py
 
       - name: Push Generated Content

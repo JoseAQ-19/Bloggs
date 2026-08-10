@@ -7,7 +7,7 @@ Tras analizar el espacio de trabajo `Bloggs`, la arquitectura del proyecto se ba
 *   **Generador de Sitios Estáticos (SSG):** Hugo (evidenciado por directorios `content/`, `layouts/`, `themes/`, `static/`).
 *   **Hosting / Despliegue:** Vercel (presencia de `vercel.json`, `vercel-ignore.sh`).
 *   **Orquestación:** GitHub Actions (`.github/workflows/`) encadenando procesos "Scout" (cazadores de tendencias) y "Writer" (redactores).
-*   **Motor Lógico:** Python (`main.py`, `trend_scout.py`, `researcher.py`) con múltiples agentes LLM (Gemini dominante, fallbacks a OpenRouter/Zhipu).
+*   **Motor Lógico:** Python (`main.py`, `core/orchestrator.py`, `core/researcher.py`, `core/llm_router.py`) con múltiples agentes LLM (OmniRoute, Gemini dominante, fallbacks a OpenRouter/Groq/NVIDIA).
 *   **Persistencia de datos:** Git. Las tendencias y artículos se guardan como JSON/Markdown y se hacen commits para disparar el siguiente paso.
 
 **Ruta Tecnológica Más Óptima, Robusta y Escalable:**
@@ -25,7 +25,7 @@ A continuación, la división del trabajo en tareas extremadamente aisladas. Cad
 - [ ] **Tarea 1.1: Implementar sistema de reintentos (Exponential Backoff) en APIs LLM y de búsqueda.**
   - **Contexto:** Las llamadas a Gemini, Exa o OpenRouter pueden fallar por Rate Limits (429) o errores del servidor (5xx).
   - **Manejo de Errores Requerido:** Si la API principal falla, reintentar 3 veces con espera de 2s, 4s y 8s. Si sigue fallando, activar el motor secundario. Si el secundario falla, registrar error crítico y abortar ejecución limpiamente (sin corromper estado).
-  - **Criterio de Éxito:** Ejecutar `pytest test_api_retry.py`. Debe simular un código HTTP 429 temporal, recuperar la llamada y devolver HTTP 200 en menos de 10 segundos.
+  - **Criterio de Éxito:** Ejecutar `pytest tests/test_api_retry.py`. Debe simular un código HTTP 429 temporal, recuperar la llamada y devolver HTTP 200 en menos de 10 segundos.
 
 - [ ] **Tarea 1.2: Resolución de concurrencia en subidas a Git (Evitar colisiones de commits).**
   - **Contexto:** Múltiples workflows de GitHub Actions (`writer-*.yml`) pueden intentar hacer git commit al mismo tiempo hacia el repositorio, provocando errores de colisión.
@@ -37,19 +37,19 @@ A continuación, la división del trabajo en tareas extremadamente aisladas. Cad
 - [ ] **Tarea 2.1: Validación estricta del YAML Frontmatter antes del guardado.**
   - **Contexto:** Si el LLM genera comillas sin escapar en el título dentro del Markdown, Hugo fallará al compilar y el artículo ("Ghost Article") no se publicará.
   - **Manejo de Errores Requerido:** Interceptar el texto del LLM, aislar el bloque YAML y parsearlo con la librería `yaml` o `ruamel.yaml` de Python. Si el parseo lanza excepción, el sistema debe regenerar o escapar las comillas automáticamente antes de guardar el `.md`.
-  - **Criterio de Éxito:** Ejecutar `python validate_yaml_strict.py` sobre un directorio de prueba. El script debe retornar `Exit Code 0` y todos los archivos deben ser leídos sin `YAMLError`.
+  - **Criterio de Éxito:** Ejecutar `python scripts/validate_yaml_strict.py` sobre un directorio de prueba. El script debe retornar `Exit Code 0` y todos los archivos deben ser leídos sin `YAMLError`.
 
 - [ ] **Tarea 2.2: Verificación de Markdown y Estructura Mínima (Anti-Alucinación).**
   - **Contexto:** El sistema puede generar respuestas vacías, o con formato incompleto (ej. el LLM devuelve un mensaje de error como contenido del artículo o incumple la longitud).
   - **Manejo de Errores Requerido:** Comprobar que el archivo generado supera las 1200 palabras y contiene exactamente los 7 headers H2 definidos. Si no cumple, no hacer commit, borrar el archivo, y reportar la tarea como fallida pero controlada.
-  - **Criterio de Éxito:** Ejecutar `python validate_structure.py --file ruta_test.md`. Salida esperada: `stdout="PASS"` y `Exit Code 0`.
+  - **Criterio de Éxito:** Ejecutar `python scripts/validate_structure.py --file ruta_test.md`. Salida esperada: `stdout="PASS"` y `Exit Code 0`.
 
 ### Fase 3: Integración de Imágenes y SEO para AdSense
 
 - [ ] **Tarea 3.1: Automatización y Optimización de Imágenes Destacadas (WebP).**
   - **Contexto:** Novum Visual genera imágenes, pero para AdSense y rendimiento de Hugo, deben ser optimizadas.
   - **Manejo de Errores Requerido:** Si la generación de imagen (DALL-E, Midjourney, etc.) falla o agota créditos, el sistema debe asignar una imagen estática de fallback del directorio `/static/fallbacks/` en lugar de romper el build de Hugo.
-  - **Criterio de Éxito:** Ejecutar `python test_image_pipeline.py`. Debe validar que se asigna una imagen válida en `.webp`, de tamaño inferior a 150kb, garantizando el render de Hugo en `Exit Code 0`.
+  - **Criterio de Éxito:** Ejecutar `pytest tests/test_visual.py`. Debe validar que se asigna una imagen válida en `.webp`, de tamaño inferior a 150kb, garantizando el render de Hugo en `Exit Code 0`.
 
 - [ ] **Tarea 3.2: Inyección de Zonas Seguras de AdSense y Enlaces Internos.**
   - **Contexto:** Falla la inyección de la estructura de Spiderweb (enlaces internos) o de marcadores de publicidad que rompen el HTML de la página en Hugo.

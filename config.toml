@@ -30,9 +30,11 @@ enableRobotsTXT = true
 paginate = 6
 
 [params]
-  custom_css = ["css/custom.css"]
   description = "The Future of Tech & AI"
   author = "NovumWorld Editorial Team"
+
+[params.ananke]
+  custom_css = ["css/custom.css"]
 
 # --- MENÚS ---
 

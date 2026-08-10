@@ -13,7 +13,10 @@ logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 # Cargar variables de entorno (Prioridad .env)
 load_dotenv()
 
-sys.path.append(os.path.join(os.path.dirname(__file__), "scripts"))
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+for d in [os.path.join(ROOT_DIR, "core"), os.path.join(ROOT_DIR, "scripts")]:
+    if d not in sys.path:
+        sys.path.insert(0, d)
 
 # Importar Módulos Propios
 import researcher
@@ -156,7 +159,7 @@ def main():
         orchestrator.guardar_fuentes(meta['slug'], contexto["sources"], lang=tema_lang)
         
     texto = orchestrator.escribir_articulo(meta, contexto, tema_lang, NICHES[cat], category=cat)
-    orchestrator.guardar_post(meta, texto, tema_lang, cat, translation_key=trans_key)
+    orchestrator.guardar_post(meta, texto, tema_lang, cat, translation_key=trans_key, contexto=contexto)
         
     with open(COMPLETED_FILE, 'a', encoding='utf-8') as f:
         f.write(f"{cat}: {tema}\n")

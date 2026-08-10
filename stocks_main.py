@@ -33,9 +33,9 @@ except Exception:
 
 # Asegurar que los módulos de stocks bajo scripts/ son importables
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
-SCRIPTS_DIR = os.path.join(ROOT_DIR, "scripts")
-if SCRIPTS_DIR not in sys.path:
-    sys.path.insert(0, SCRIPTS_DIR)
+for d in [os.path.join(ROOT_DIR, "core"), os.path.join(ROOT_DIR, "scripts")]:
+    if d not in sys.path:
+        sys.path.insert(0, d)
 
 # Imports del módulo stocks (aislados)
 from stocks_scout import scout_funds
