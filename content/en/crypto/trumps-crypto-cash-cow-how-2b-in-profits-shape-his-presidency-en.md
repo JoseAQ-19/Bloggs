@@ -1,16 +1,21 @@
 ---
-title: "Trump’s $2 Billion Crypto Windfall: How It Shapes His Presidency And Nobody Noticed"
-date: 2026-07-29T17:27:34
+canonical: https://novumworld.com/crypto/trumps-crypto-cash-cow-how-2b-in-profits-shape-his-presidency-en/
+categories:
+- crypto
+date: 2026-07-29 17:27:34
+description: Discover how Trump's $2 billion crypto fortune influences his presidency
+  and why this monumental shift went unnoticed by the public and media alike.
 draft: false
-description: "Discover how Trump's $2 billion crypto fortune influences his presidency and why this monumental shift went unnoticed by the public and media alike."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "trumps-crypto-cash-cow-how-2b-in-profits-shape-his-presidency-en"
-canonical: "https://novumworld.com/crypto/trumps-crypto-cash-cow-how-2b-in-profits-shape-his-presidency-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "b3b03429-52ca-1420-1214-4779a2202ed4"
+featured_image: /images/trumps-crypto-cash-cow-how-2b-in-profits-shape-his-presidency-en.webp
+image: /images/trumps-crypto-cash-cow-how-2b-in-profits-shape-his-presidency-en.webp
+language: en
+slug: trumps-crypto-cash-cow-how-2b-in-profits-shape-his-presidency-en
+tags:
+- Crypto & Web3
+title: 'Trump’s $2 Billion Crypto Windfall: How It Shapes His Presidency And Nobody
+  Noticed'
+translationKey: b3b03429-52ca-1420-1214-4779a2202ed4
+type: crypto
 ---
 
 ![Trump’s $2 Billion Crypto Windfall: How It Shapes His Presidency And Nobody Noticed](/images/defaults/default-crypto.jpg)

@@ -1,16 +1,21 @@
 ---
-title: "Ditch Google Health: 5 Fitness Apps That Are Crushing the Competition Right Now"
-date: 2026-07-26T07:52:40
+canonical: https://novumworld.com/fitness/ditch-google-health-5-must-try-fitness-apps-that-outshine-the-rest-en/
+categories:
+- fitness
+date: 2026-07-26 07:52:40
+description: Discover top 5 fitness apps that outshine Google Health. Elevate your
+  fitness journey with innovative features and superior user experiences today!.
 draft: false
-description: "Discover top 5 fitness apps that outshine Google Health. Elevate your fitness journey with innovative features and superior user experiences today!."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "ditch-google-health-5-must-try-fitness-apps-that-outshine-the-rest-en"
-canonical: "https://novumworld.com/fitness/ditch-google-health-5-must-try-fitness-apps-that-outshine-the-rest-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "c9c425a4-b490-f200-0ddf-f379357963c5"
+featured_image: /images/ditch-google-health-5-must-try-fitness-apps-that-outshine-the-rest-en.webp
+image: /images/ditch-google-health-5-must-try-fitness-apps-that-outshine-the-rest-en.webp
+language: en
+slug: ditch-google-health-5-must-try-fitness-apps-that-outshine-the-rest-en
+tags:
+- Biohacking & Fitness
+title: 'Ditch Google Health: 5 Fitness Apps That Are Crushing the Competition Right
+  Now'
+translationKey: c9c425a4-b490-f200-0ddf-f379357963c5
+type: fitness
 ---
 
 ![Ditch Google Health: 5 Fitness Apps That Are Crushing the Competition Right Now](/images/defaults/default-fitness.jpg)

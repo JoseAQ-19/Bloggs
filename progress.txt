@@ -1,10 +1,45 @@
 # PROGRESS — NovumWorld Autoblogger
+# ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (REMEDIACIÓN EN LOTE DE IMÁGENES DUPLICADAS COMPLETADA)
 # ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (REPARACIÓN DE DEPLOYMENTS EN VERCEL COMPLETADA)
 # ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (REORGANIZACIÓN Y LIMPIEZA ARQUITECTÓNICA COMPLETADA)
 # ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (OPTIMIZACIÓN WEBP Y MIGRACIÓN LEAF BUNDLES COMPLETADA)
 # ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (ACTUALIZACIÓN GEO/AEO 2026 & ADSENSE COMPLETADA)
 # ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (MODULARIZACIÓN AGENT SKILLS COMPLETADA)
 # ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (INTEGRACIÓN OMNIROUTE AI GATEWAY COMPLETADA)
+# ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (FIX CRÍTICO: GENERACIÓN DE IMÁGENES ÚNICAS POR ARTÍCULO)
+# ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (AUTO-DEPLOY: GIT SYNC + VERCEL DEPLOY HOOKS)
+
+## 🚀 AUTO-DEPLOY: GIT SYNC + VERCEL DEPLOY HOOKS (2026-08-10) - ESTADO: ✅ COMPLETADO
+- [x] **`scripts/deploy_notifier.py` (Nuevo)**: Módulo modular con 3 funciones: `trigger_vercel_deploy()` (HTTP POST con reintentos), `git_commit_and_push()` (git add/commit/pull rebase/push seguro), y `trigger_production_deploy()` (orquestador fail-safe).
+- [x] **Integración en `main.py`**: Llamada automática a `trigger_production_deploy()` tras guardar artículo. Git commit se omite en GitHub Actions (el workflow ya lo gestiona). El deploy hook de Vercel se dispara siempre.
+- [x] **`.env.example` actualizado**: Añadida variable `VERCEL_DEPLOY_HOOK_URL`.
+- [x] **`writer.yml` actualizado**: Añadido `VERCEL_DEPLOY_HOOK_URL` al bloque env del step `Run Writer` y nuevo step final `Trigger Vercel Deploy Hook` con curl condicional.
+- [x] **Suite de Tests (`tests/test_deploy_notifier.py`)**: 15/15 tests PASSED (1.39s).
+  - `TestTriggerVercelDeploy` (7 tests): HTTP 200/201, HTTP 500 retries, no URL, network error, payload validation, env URL.
+  - `TestGitCommitAndPush` (4 tests): no changes, not a git repo, full cycle, push failure.
+  - `TestTriggerProductionDeploy` (4 tests): both succeed, skip git in CI, vercel failure, exception safety.
+
+
+## 🖼️ REMEDIACIÓN EN LOTE DE IMÁGENES DUPLICADAS (2026-08-10) - ESTADO: ✅ COMPLETADO
+- [x] **Script de Remedación Masiva (`scripts/fix_duplicate_images.py`)**: Implementado script CLI con soporte para `--dry-run` y `--content-dir`. Lee Frontmatter YAML con `python-frontmatter`, extrae `image`/`featured_image`/`thumbnail`, agrupa duplicados y los reemplaza con imágenes WebP únicas (< 150 KB).
+- [x] **Regeneración Contextual por Artículo**: Cada artículo afectado genera su prompt visual único a través de `generate_unique_visual_prompt()` e inyecta la semilla determinística del slug `_derive_seed(slug)`.
+- [x] **Soporte para Leaf Bundles y Flat Posts**: En Leaf Bundles (`index.md`) guarda `featured.webp` localmente; en posts planos guarda en `static/images/{slug}.webp` actualizando la referencia YAML.
+- [x] **Suite de Tests Unitarios (`tests/test_fix_duplicate_images.py`)**: 4/4 tests pasando (100%), cubriendo escaneo, detección de duplicados, dry-run (0 modificaciones) y remediación en vivo.
+
+
+## 🎨 FIX CRÍTICO: GENERACIÓN DE IMÁGENES ÚNICAS POR ARTÍCULO (2026-08-10) - ESTADO: ✅ COMPLETADO
+- [x] **Root Cause**: Todos los artículos generaban la misma imagen porque `visual_context_extractor.py` producía prompts idénticos para artículos de la misma categoría (regex estático sin LLM) y no se inyectaba seed determinista en las APIs de imagen.
+- [x] **LLM-Driven Visual Prompt (`generate_unique_visual_prompt`)**: Nueva función en `core/novum_visual.py` que usa `LLMRouter` + `VISUAL_PROMPT_SYSTEM` para traducir título/resumen a una descripción visual conceptual en inglés (30-50 palabras) con lista de palabras prohibidas (anti-genérico).
+- [x] **Seed Anti-Duplicados**: Derivación determinista `SHA-256(slug) % 1000000` inyectada en NVIDIA SD3 (`seed` param), Together AI (`seed` param), y HF (embebido en prompt). El `cfg_scale` de NVIDIA también varía determinísticamente por slug.
+- [x] **Prompt Visual System**: Añadido `VISUAL_PROMPT_SYSTEM` en `core/prompts_factory.py` — system prompt para Art Director que genera composiciones únicas con banned words list.
+- [x] **Bounding Box Actualizado**: Resize máximo cambiado de 1280px a 1200x630px (óptimo para OG/social cards) con redimensionado proporcional sin distorsión.
+- [x] **Orchestrator**: Actualizado import en `core/orchestrator.py` para incluir `generate_unique_visual_prompt`.
+- [x] **Suite de Tests**: 19 tests totales en `tests/test_visual.py` (17/17 unit tests PASSED, 2 integration tests requieren API keys reales).
+  - `TestSeedDerivation` (4 tests): determinismo, unicidad, rango, SHA-256
+  - `TestPromptSanitization` (3 tests): banned words, preservación, limpieza
+  - `TestUniqueVisualPrompt` (4 tests): LLM mock, fallback regex, 3 artículos distintos, sanitización
+  - `TestWebPBoundingBox` (3 tests): landscape, portrait, no-upscale
+
 
 ## 🛠️ REPARACIÓN DE DEPLOYMENTS EN VERCEL (2026-08-10) - ESTADO: ✅ COMPLETADO
 - [x] **Diagnóstico Vercel via MCP**: Inspeccionados logs de build en Vercel (`dpl_G1xrjVmQKzckyivVsVECcHhLETKD`, `dpl_ED1vSPsnqi1uff3UczKQhDgB4vfG`, `dpl_A7UAdksJBvs76Jy3qseLkD33VWwF`) identificando incompatibilidad entre Hugo 0.146.0 y los nombres de plantillas internas obsoletas eliminadas en Hugo 0.120+ (`schema.html`, `opengraph.html`, `twitter_cards.html`, `google_analytics.html`).

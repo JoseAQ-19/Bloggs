@@ -1,16 +1,20 @@
 ---
-title: "Bitcoin Rompe Barreras: Nuevos Máximos Históricos de $64.3K y Nadie Lo Notó"
-date: 2026-07-10T17:27:09
+canonical: https://novumworld.com/es/crypto/bitcoin-alcanza-nuevos-maximos-de-643k-que-esperar-en-las-proximas-semanas/
+categories:
+- crypto
+date: 2026-07-10 17:27:09
+description: Bitcoin alcanza nuevos máximos históricos de $64.3K, desafiando expectativas.
+  Descubre por qué este hito pasó desapercibido para muchos.
 draft: false
-description: "Bitcoin alcanza nuevos máximos históricos de $64.3K, desafiando expectativas. Descubre por qué este hito pasó desapercibido para muchos."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "bitcoin-alcanza-nuevos-maximos-de-643k-que-esperar-en-las-proximas-semanas"
-canonical: "https://novumworld.com/es/crypto/bitcoin-alcanza-nuevos-maximos-de-643k-que-esperar-en-las-proximas-semanas/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "adf6ffc3-4bda-1193-e159-01255bbf0c97"
+featured_image: /images/bitcoin-alcanza-nuevos-maximos-de-643k-que-esperar-en-las-proximas-semanas.webp
+image: /images/bitcoin-alcanza-nuevos-maximos-de-643k-que-esperar-en-las-proximas-semanas.webp
+language: es
+slug: bitcoin-alcanza-nuevos-maximos-de-643k-que-esperar-en-las-proximas-semanas
+tags:
+- Crypto & Web3
+title: 'Bitcoin Rompe Barreras: Nuevos Máximos Históricos de $64.3K y Nadie Lo Notó'
+translationKey: adf6ffc3-4bda-1193-e159-01255bbf0c97
+type: crypto
 ---
 
 ![Bitcoin Rompe Barreras: Nuevos Máximos Históricos de $64.3K y Nadie Lo Notó](/images/defaults/default-crypto.jpg)

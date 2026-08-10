@@ -1,16 +1,20 @@
 ---
-title: "Polymarket Just Landed $50 Million In Crypto Bets During World Cup Semifinals"
-date: 2026-07-14T17:21:19
+canonical: https://novumworld.com/crypto/polymarket-scores-big-unleashing-crypto-betting-during-world-cup-semifinals-en/
+categories:
+- crypto
+date: 2026-07-14 17:21:19
+description: Discover how Polymarket attracted $50 million in crypto bets during the
+  World Cup semifinals, reshaping the future of online betting and fan engagement.
 draft: false
-description: "Discover how Polymarket attracted $50 million in crypto bets during the World Cup semifinals, reshaping the future of online betting and fan engagement."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "polymarket-scores-big-unleashing-crypto-betting-during-world-cup-semifinals-en"
-canonical: "https://novumworld.com/crypto/polymarket-scores-big-unleashing-crypto-betting-during-world-cup-semifinals-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "db2af677-02c7-fa3d-4511-c0d7d1258b8f"
+featured_image: /images/polymarket-scores-big-unleashing-crypto-betting-during-world-cup-semifinals-en.webp
+image: /images/polymarket-scores-big-unleashing-crypto-betting-during-world-cup-semifinals-en.webp
+language: en
+slug: polymarket-scores-big-unleashing-crypto-betting-during-world-cup-semifinals-en
+tags:
+- Crypto & Web3
+title: Polymarket Just Landed $50 Million In Crypto Bets During World Cup Semifinals
+translationKey: db2af677-02c7-fa3d-4511-c0d7d1258b8f
+type: crypto
 ---
 
 ![Polymarket Just Landed $50 Million In Crypto Bets During World Cup Semifinals](/images/defaults/default-crypto.jpg)

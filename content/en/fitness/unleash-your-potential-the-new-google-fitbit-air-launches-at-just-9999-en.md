@@ -1,16 +1,21 @@
 ---
-title: "Unbelievable: Google’s New Fitbit Air Delivers Week-Long Battery Life for Just $99.99"
-date: 2026-07-18T07:20:10
+canonical: https://novumworld.com/fitness/unleash-your-potential-the-new-google-fitbit-air-launches-at-just-9999-en/
+categories:
+- fitness
+date: 2026-07-18 07:20:10
+description: Discover how Google's new Fitbit Air offers an impressive week-long battery
+  life at just $99.99, making fitness tracking more accessible than ever!.
 draft: false
-description: "Discover how Google's new Fitbit Air offers an impressive week-long battery life at just $99.99, making fitness tracking more accessible than ever!."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "unleash-your-potential-the-new-google-fitbit-air-launches-at-just-9999-en"
-canonical: "https://novumworld.com/fitness/unleash-your-potential-the-new-google-fitbit-air-launches-at-just-9999-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "b9e71811-6f6c-3d30-95d3-bd21a1c05c94"
+featured_image: /images/unleash-your-potential-the-new-google-fitbit-air-launches-at-just-9999-en.webp
+image: /images/unleash-your-potential-the-new-google-fitbit-air-launches-at-just-9999-en.webp
+language: en
+slug: unleash-your-potential-the-new-google-fitbit-air-launches-at-just-9999-en
+tags:
+- Biohacking & Fitness
+title: 'Unbelievable: Google’s New Fitbit Air Delivers Week-Long Battery Life for
+  Just $99.99'
+translationKey: b9e71811-6f6c-3d30-95d3-bd21a1c05c94
+type: fitness
 ---
 
 ![Unbelievable: Google’s New Fitbit Air Delivers Week-Long Battery Life for Just $99.99](/images/defaults/default-fitness.jpg)

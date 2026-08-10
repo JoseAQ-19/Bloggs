@@ -1,16 +1,21 @@
 ---
-title: "High-Stakes Senate Vote Sparks Outrage Over Controversial Crypto Legislation Changes"
-date: 2026-07-22T17:28:56
+canonical: https://novumworld.com/crypto/high-stakes-crypto-legislation-senate-vote-looms-on-controversial-bill-en/
+categories:
+- crypto
+date: 2026-07-22 17:28:56
+description: A high-stakes Senate vote ignites public outrage as controversial changes
+  to crypto legislation are unveiled. Discover the implications for the industry.
 draft: false
-description: "A high-stakes Senate vote ignites public outrage as controversial changes to crypto legislation are unveiled. Discover the implications for the industry."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "high-stakes-crypto-legislation-senate-vote-looms-on-controversial-bill-en"
-canonical: "https://novumworld.com/crypto/high-stakes-crypto-legislation-senate-vote-looms-on-controversial-bill-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "cd4022e7-8937-b14a-76d8-c28f8320706e"
+featured_image: /images/high-stakes-crypto-legislation-senate-vote-looms-on-controversial-bill-en.webp
+image: /images/high-stakes-crypto-legislation-senate-vote-looms-on-controversial-bill-en.webp
+language: en
+slug: high-stakes-crypto-legislation-senate-vote-looms-on-controversial-bill-en
+tags:
+- Crypto & Web3
+title: High-Stakes Senate Vote Sparks Outrage Over Controversial Crypto Legislation
+  Changes
+translationKey: cd4022e7-8937-b14a-76d8-c28f8320706e
+type: crypto
 ---
 
 ![High-Stakes Senate Vote Sparks Outrage Over Controversial Crypto Legislation Changes](/images/defaults/default-crypto.jpg)

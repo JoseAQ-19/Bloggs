@@ -1,16 +1,21 @@
 ---
-title: "The Shocking Truth About 100x Leverage: US Traders Risk It All on Perpetual Futures"
-date: 2026-07-19T18:27:19
+canonical: https://novumworld.com/crypto/why-us-day-traders-are-risking-it-all-on-cryptos-most-dangerous-product-en/
+categories:
+- crypto
+date: 2026-07-19 18:27:19
+description: Discover the shocking realities of 100x leverage in perpetual futures.
+  Learn why US traders are risking everything and what it means for your investments.
 draft: false
-description: "Discover the shocking realities of 100x leverage in perpetual futures. Learn why US traders are risking everything and what it means for your investments."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "why-us-day-traders-are-risking-it-all-on-cryptos-most-dangerous-product-en"
-canonical: "https://novumworld.com/crypto/why-us-day-traders-are-risking-it-all-on-cryptos-most-dangerous-product-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "eae144ae-8496-a8a8-176d-db9d6feb6411"
+featured_image: /images/why-us-day-traders-are-risking-it-all-on-cryptos-most-dangerous-product-en.webp
+image: /images/why-us-day-traders-are-risking-it-all-on-cryptos-most-dangerous-product-en.webp
+language: en
+slug: why-us-day-traders-are-risking-it-all-on-cryptos-most-dangerous-product-en
+tags:
+- Crypto & Web3
+title: 'The Shocking Truth About 100x Leverage: US Traders Risk It All on Perpetual
+  Futures'
+translationKey: eae144ae-8496-a8a8-176d-db9d6feb6411
+type: crypto
 ---
 
 ![The Shocking Truth About 100x Leverage: US Traders Risk It All on Perpetual Futures](/images/defaults/default-crypto.jpg)

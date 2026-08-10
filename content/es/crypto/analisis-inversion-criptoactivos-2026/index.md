@@ -1,24 +1,25 @@
 ---
-title: 'Análisis de Inversión en Criptoactivos 2026: Estrategias de Mercado y Regulaciones
-  MiCA'
-date: '2026-08-10T12:07:44'
-draft: false
-description: 'Análisis de Inversión en Criptoactivos 2026: Estrategias de Mercado
-  y Regulaciones MiCA.'
-featured_image: /images/defaults/default-crypto.jpg
-image_width: 1200
-image_height: 675
-slug: analisis-inversion-criptoactivos-2026
-canonical: https://novumworld.com/es/crypto/analisis-inversion-criptoactivos-2026/
 author: Dr. Marc Valls (Analista On-Chain & DeFi)
-tags:
-- Crypto & Web3
+canonical: https://novumworld.com/es/crypto/analisis-inversion-criptoactivos-2026/
 categories:
 - Finanzas/Cripto
 - crypto
-type: crypto
+date: '2026-08-10T12:07:44'
+description: 'Análisis de Inversión en Criptoactivos 2026: Estrategias de Mercado
+  y Regulaciones MiCA.'
+draft: false
+featured_image: featured.webp
+image: featured.webp
+image_height: 675
+image_width: 1200
 language: es
+slug: analisis-inversion-criptoactivos-2026
+tags:
+- Crypto & Web3
+title: 'Análisis de Inversión en Criptoactivos 2026: Estrategias de Mercado y Regulaciones
+  MiCA'
 translationKey: 0fabb4ba-1df2-4bb9-4820-0a3ae3877908
+type: crypto
 ---
 
 ![Análisis de Inversión en Criptoactivos 2026: Estrategias de Mercado y Regulaciones MiCA](/images/defaults/default-crypto.jpg)

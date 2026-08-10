@@ -1,16 +1,21 @@
 ---
-title: "4,000 Local Lenders Unite Against 'Stablecoins' Law That Threatens $850 Billion in Loans"
-date: 2026-06-28T17:51:20
+canonical: https://novumworld.com/crypto/local-lenders-unite-against-stablecoins-law-the-crypto-community-strikes-back-en/
+categories:
+- crypto
+date: 2026-06-28 17:51:20
+description: Thousands of local lenders rally against a new law targeting stablecoins,
+  warning it could jeopardize $850 billion in loans and impact borrowers.
 draft: false
-description: "Thousands of local lenders rally against a new law targeting stablecoins, warning it could jeopardize $850 billion in loans and impact borrowers."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "local-lenders-unite-against-stablecoins-law-the-crypto-community-strikes-back-en"
-canonical: "https://novumworld.com/crypto/local-lenders-unite-against-stablecoins-law-the-crypto-community-strikes-back-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "f1237dc7-9132-17de-bce3-129ebe8618d4"
+featured_image: /images/local-lenders-unite-against-stablecoins-law-the-crypto-community-strikes-back-en.webp
+image: /images/local-lenders-unite-against-stablecoins-law-the-crypto-community-strikes-back-en.webp
+language: en
+slug: local-lenders-unite-against-stablecoins-law-the-crypto-community-strikes-back-en
+tags:
+- Crypto & Web3
+title: 4,000 Local Lenders Unite Against 'Stablecoins' Law That Threatens $850 Billion
+  in Loans
+translationKey: f1237dc7-9132-17de-bce3-129ebe8618d4
+type: crypto
 ---
 
 ![4,000 Local Lenders Unite Against 'Stablecoins' Law That Threatens $850 Billion in Loans](/images/defaults/default-crypto.jpg)

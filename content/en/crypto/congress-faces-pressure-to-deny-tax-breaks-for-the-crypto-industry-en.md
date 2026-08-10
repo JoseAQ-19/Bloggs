@@ -1,16 +1,20 @@
 ---
-title: "Congress Just Announced Plans to Cut Billions in Tax Breaks for Crypto Giants"
-date: 2026-07-16T18:36:18
+canonical: https://novumworld.com/crypto/congress-faces-pressure-to-deny-tax-breaks-for-the-crypto-industry-en/
+categories:
+- crypto
+date: 2026-07-16 18:36:18
+description: Discover how Congress plans to slash billions in tax breaks for crypto
+  giants, reshaping the landscape of digital currency and impacting investors.
 draft: false
-description: "Discover how Congress plans to slash billions in tax breaks for crypto giants, reshaping the landscape of digital currency and impacting investors."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "congress-faces-pressure-to-deny-tax-breaks-for-the-crypto-industry-en"
-canonical: "https://novumworld.com/crypto/congress-faces-pressure-to-deny-tax-breaks-for-the-crypto-industry-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "aed03838-59c9-9ffa-97dd-05f182e2fd88"
+featured_image: /images/congress-faces-pressure-to-deny-tax-breaks-for-the-crypto-industry-en.webp
+image: /images/congress-faces-pressure-to-deny-tax-breaks-for-the-crypto-industry-en.webp
+language: en
+slug: congress-faces-pressure-to-deny-tax-breaks-for-the-crypto-industry-en
+tags:
+- Crypto & Web3
+title: Congress Just Announced Plans to Cut Billions in Tax Breaks for Crypto Giants
+translationKey: aed03838-59c9-9ffa-97dd-05f182e2fd88
+type: crypto
 ---
 
 ![Congress Just Announced Plans to Cut Billions in Tax Breaks for Crypto Giants](/images/defaults/default-crypto.jpg)

@@ -1,16 +1,20 @@
 ---
-title: "The Shocking Collapse of a $140 Million Crypto Real Estate Empire Exposed"
-date: 2026-07-28T18:53:28
+canonical: https://novumworld.com/crypto/the-rise-and-fall-of-a-140-million-crypto-real-estate-empire-en/
+categories:
+- crypto
+date: 2026-07-28 18:53:28
+description: Discover the staggering downfall of a $140 million crypto real estate
+  empire. Uncover the secrets, failures, and lessons from this shocking collapse.
 draft: false
-description: "Discover the staggering downfall of a $140 million crypto real estate empire. Uncover the secrets, failures, and lessons from this shocking collapse."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "the-rise-and-fall-of-a-140-million-crypto-real-estate-empire-en"
-canonical: "https://novumworld.com/crypto/the-rise-and-fall-of-a-140-million-crypto-real-estate-empire-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "4782d70b-2db8-9319-0caf-06fd6775cdf4"
+featured_image: /images/the-rise-and-fall-of-a-140-million-crypto-real-estate-empire-en.webp
+image: /images/the-rise-and-fall-of-a-140-million-crypto-real-estate-empire-en.webp
+language: en
+slug: the-rise-and-fall-of-a-140-million-crypto-real-estate-empire-en
+tags:
+- Crypto & Web3
+title: The Shocking Collapse of a $140 Million Crypto Real Estate Empire Exposed
+translationKey: 4782d70b-2db8-9319-0caf-06fd6775cdf4
+type: crypto
 ---
 
 ![The Shocking Collapse of a $140 Million Crypto Real Estate Empire Exposed](/images/defaults/default-crypto.jpg)

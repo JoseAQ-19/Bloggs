@@ -1,16 +1,21 @@
 ---
-title: "EU's New Sanctions Package Deals A Devastating Blow To Russian Financial Services And Crypto"
-date: 2026-07-23T17:53:55
+canonical: https://novumworld.com/crypto/eus-21st-sanctions-package-a-major-blow-to-russian-crypto-and-financial-services-en/
+categories:
+- crypto
+date: 2026-07-23 17:53:55
+description: Explore how the EU's latest sanctions package cripples Russian financial
+  services and crypto, reshaping the landscape of international finance.
 draft: false
-description: "Explore how the EU's latest sanctions package cripples Russian financial services and crypto, reshaping the landscape of international finance."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "eus-21st-sanctions-package-a-major-blow-to-russian-crypto-and-financial-services-en"
-canonical: "https://novumworld.com/crypto/eus-21st-sanctions-package-a-major-blow-to-russian-crypto-and-financial-services-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "24284b8d-f0f5-fb03-20f6-2f0df554e7ac"
+featured_image: /images/eus-21st-sanctions-package-a-major-blow-to-russian-crypto-and-financial-services-en.webp
+image: /images/eus-21st-sanctions-package-a-major-blow-to-russian-crypto-and-financial-services-en.webp
+language: en
+slug: eus-21st-sanctions-package-a-major-blow-to-russian-crypto-and-financial-services-en
+tags:
+- Crypto & Web3
+title: EU's New Sanctions Package Deals A Devastating Blow To Russian Financial Services
+  And Crypto
+translationKey: 24284b8d-f0f5-fb03-20f6-2f0df554e7ac
+type: crypto
 ---
 
 ![EU's New Sanctions Package Deals A Devastating Blow To Russian Financial Services And Crypto](/images/defaults/default-crypto.jpg)

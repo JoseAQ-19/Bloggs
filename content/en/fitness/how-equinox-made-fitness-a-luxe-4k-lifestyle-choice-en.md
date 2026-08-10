@@ -1,16 +1,20 @@
 ---
-title: "Equinox Just Turned Fitness Into A Shocking $4K Luxury Lifestyle Choice"
-date: 2026-07-01T06:53:17
+canonical: https://novumworld.com/fitness/how-equinox-made-fitness-a-luxe-4k-lifestyle-choice-en/
+categories:
+- fitness
+date: 2026-07-01 06:53:17
+description: Discover how Equinox transformed fitness into a luxury experience with
+  its $4K offerings, redefining wellness and lifestyle for the elite.
 draft: false
-description: "Discover how Equinox transformed fitness into a luxury experience with its $4K offerings, redefining wellness and lifestyle for the elite."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "how-equinox-made-fitness-a-luxe-4k-lifestyle-choice-en"
-canonical: "https://novumworld.com/fitness/how-equinox-made-fitness-a-luxe-4k-lifestyle-choice-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "aad2df7a-628a-1d23-201c-f97b81a895bb"
+featured_image: /images/how-equinox-made-fitness-a-luxe-4k-lifestyle-choice-en.webp
+image: /images/how-equinox-made-fitness-a-luxe-4k-lifestyle-choice-en.webp
+language: en
+slug: how-equinox-made-fitness-a-luxe-4k-lifestyle-choice-en
+tags:
+- Biohacking & Fitness
+title: Equinox Just Turned Fitness Into A Shocking $4K Luxury Lifestyle Choice
+translationKey: aad2df7a-628a-1d23-201c-f97b81a895bb
+type: fitness
 ---
 
 ![Equinox Just Turned Fitness Into A Shocking $4K Luxury Lifestyle Choice](/images/defaults/default-fitness.jpg)

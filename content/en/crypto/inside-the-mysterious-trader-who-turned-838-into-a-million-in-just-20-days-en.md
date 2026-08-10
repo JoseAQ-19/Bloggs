@@ -1,16 +1,20 @@
 ---
-title: "The Mysterious Trader Who Turned $838 Into $1 Million in Just 20 Days"
-date: 2026-07-12T18:24:32
+canonical: https://novumworld.com/crypto/inside-the-mysterious-trader-who-turned-838-into-a-million-in-just-20-days-en/
+categories:
+- crypto
+date: 2026-07-12 18:24:32
+description: Discover how a mysterious trader transformed $838 into $1 million in
+  just 20 days. Uncover the secrets behind this incredible financial journey!.
 draft: false
-description: "Discover how a mysterious trader transformed $838 into $1 million in just 20 days. Uncover the secrets behind this incredible financial journey!."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "inside-the-mysterious-trader-who-turned-838-into-a-million-in-just-20-days-en"
-canonical: "https://novumworld.com/crypto/inside-the-mysterious-trader-who-turned-838-into-a-million-in-just-20-days-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "c3553308-39d5-b245-df25-ec2922f8382f"
+featured_image: /images/inside-the-mysterious-trader-who-turned-838-into-a-million-in-just-20-days-en.webp
+image: /images/inside-the-mysterious-trader-who-turned-838-into-a-million-in-just-20-days-en.webp
+language: en
+slug: inside-the-mysterious-trader-who-turned-838-into-a-million-in-just-20-days-en
+tags:
+- Crypto & Web3
+title: The Mysterious Trader Who Turned $838 Into $1 Million in Just 20 Days
+translationKey: c3553308-39d5-b245-df25-ec2922f8382f
+type: crypto
 ---
 
 ![The Mysterious Trader Who Turned $838 Into $1 Million in Just 20 Days](/images/defaults/default-crypto.jpg)

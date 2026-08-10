@@ -1,16 +1,20 @@
 ---
-title: "The Hidden Dangers of Trump's Crypto Agenda: A Financial System at Risk"
-date: 2026-07-18T17:00:56
+canonical: https://novumworld.com/crypto/is-trumps-crypto-influence-a-ticking-time-bomb-for-the-financial-system-en/
+categories:
+- crypto
+date: 2026-07-18 17:00:56
+description: Explore the potential risks of Trump's crypto agenda and its impact on
+  the financial system. Uncover the hidden dangers that could affect your investments.
 draft: false
-description: "Explore the potential risks of Trump's crypto agenda and its impact on the financial system. Uncover the hidden dangers that could affect your investments."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "is-trumps-crypto-influence-a-ticking-time-bomb-for-the-financial-system-en"
-canonical: "https://novumworld.com/crypto/is-trumps-crypto-influence-a-ticking-time-bomb-for-the-financial-system-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "7d89d7ca-030b-8541-2bf5-08c8d212ffb6"
+featured_image: /images/is-trumps-crypto-influence-a-ticking-time-bomb-for-the-financial-system-en.webp
+image: /images/is-trumps-crypto-influence-a-ticking-time-bomb-for-the-financial-system-en.webp
+language: en
+slug: is-trumps-crypto-influence-a-ticking-time-bomb-for-the-financial-system-en
+tags:
+- Crypto & Web3
+title: 'The Hidden Dangers of Trump''s Crypto Agenda: A Financial System at Risk'
+translationKey: 7d89d7ca-030b-8541-2bf5-08c8d212ffb6
+type: crypto
 ---
 
 ![The Hidden Dangers of Trump's Crypto Agenda: A Financial System at Risk](/images/defaults/default-crypto.jpg)

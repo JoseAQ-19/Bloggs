@@ -1,16 +1,21 @@
 ---
-title: "CRO Impulsa un Rebote Sorprendente: 6.17% en el Ecosistema Crypto.com Que Nadie Vio Venir"
-date: 2026-07-03T17:18:40
+canonical: https://novumworld.com/es/crypto/cro-impulsa-un-rebote-sorprendente-en-el-ecosistema-cryptocom-con-un-crecimiento-del-617/
+categories:
+- crypto
+date: 2026-07-03 17:18:40
+description: Descubre cómo el CRO ha logrado un impresionante rebote del 6.17% en
+  Crypto.com, sorprendiendo a inversores y analistas por igual. ¡No te lo pierdas!.
 draft: false
-description: "Descubre cómo el CRO ha logrado un impresionante rebote del 6.17% en Crypto.com, sorprendiendo a inversores y analistas por igual. ¡No te lo pierdas!."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "cro-impulsa-un-rebote-sorprendente-en-el-ecosistema-cryptocom-con-un-crecimiento-del-617"
-canonical: "https://novumworld.com/es/crypto/cro-impulsa-un-rebote-sorprendente-en-el-ecosistema-cryptocom-con-un-crecimiento-del-617/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "4c769b68-4d5e-12aa-a36a-bbe5f1f8e1d2"
+featured_image: /images/cro-impulsa-un-rebote-sorprendente-en-el-ecosistema-cryptocom-con-un-crecimiento-del-617.webp
+image: /images/cro-impulsa-un-rebote-sorprendente-en-el-ecosistema-cryptocom-con-un-crecimiento-del-617.webp
+language: es
+slug: cro-impulsa-un-rebote-sorprendente-en-el-ecosistema-cryptocom-con-un-crecimiento-del-617
+tags:
+- Crypto & Web3
+title: 'CRO Impulsa un Rebote Sorprendente: 6.17% en el Ecosistema Crypto.com Que
+  Nadie Vio Venir'
+translationKey: 4c769b68-4d5e-12aa-a36a-bbe5f1f8e1d2
+type: crypto
 ---
 
 ![CRO Impulsa un Rebote Sorprendente: 6.17% en el Ecosistema Crypto.com Que Nadie Vio Venir](/images/defaults/default-crypto.jpg)

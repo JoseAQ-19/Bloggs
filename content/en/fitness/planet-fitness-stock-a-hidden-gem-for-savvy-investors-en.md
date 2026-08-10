@@ -1,16 +1,20 @@
 ---
-title: "Planet Fitness Stock Surges 25%: The Hidden Gem Investors Are Ignoring"
-date: 2026-07-21T07:39:16
+canonical: https://novumworld.com/fitness/planet-fitness-stock-a-hidden-gem-for-savvy-investors-en/
+categories:
+- fitness
+date: 2026-07-21 07:39:16
+description: Discover why Planet Fitness stock has surged 25% and learn about the
+  potential it holds for savvy investors looking for hidden gems in the market.
 draft: false
-description: "Discover why Planet Fitness stock has surged 25% and learn about the potential it holds for savvy investors looking for hidden gems in the market."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "planet-fitness-stock-a-hidden-gem-for-savvy-investors-en"
-canonical: "https://novumworld.com/fitness/planet-fitness-stock-a-hidden-gem-for-savvy-investors-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "e4d63bdd-abc0-f2d0-b49a-18c712799c2a"
+featured_image: /images/planet-fitness-stock-a-hidden-gem-for-savvy-investors-en.webp
+image: /images/planet-fitness-stock-a-hidden-gem-for-savvy-investors-en.webp
+language: en
+slug: planet-fitness-stock-a-hidden-gem-for-savvy-investors-en
+tags:
+- Biohacking & Fitness
+title: 'Planet Fitness Stock Surges 25%: The Hidden Gem Investors Are Ignoring'
+translationKey: e4d63bdd-abc0-f2d0-b49a-18c712799c2a
+type: fitness
 ---
 
 ![Planet Fitness Stock Surges 25%: The Hidden Gem Investors Are Ignoring](/images/defaults/default-fitness.jpg)

@@ -1,16 +1,21 @@
 ---
-title: "SBI's Shocking $289 Million Gamble On Failing Crypto Exchange Sparks Outrage Among Investors"
-date: 2026-06-28T16:31:30
+canonical: https://novumworld.com/crypto/sbis-bold-289-million-bet-on-a-struggling-crypto-exchange-is-it-a-genius-move-en/
+categories:
+- crypto
+date: 2026-06-28 16:31:30
+description: SBI's $289 million investment in a struggling crypto exchange has ignited
+  outrage among investors. Discover the implications and reactions in our detailed.
 draft: false
-description: "SBI's $289 million investment in a struggling crypto exchange has ignited outrage among investors. Discover the implications and reactions in our detailed."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "sbis-bold-289-million-bet-on-a-struggling-crypto-exchange-is-it-a-genius-move-en"
-canonical: "https://novumworld.com/crypto/sbis-bold-289-million-bet-on-a-struggling-crypto-exchange-is-it-a-genius-move-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "07098b6f-01c9-bf0b-dd59-f291bf26148a"
+featured_image: /images/sbis-bold-289-million-bet-on-a-struggling-crypto-exchange-is-it-a-genius-move-en.webp
+image: /images/sbis-bold-289-million-bet-on-a-struggling-crypto-exchange-is-it-a-genius-move-en.webp
+language: en
+slug: sbis-bold-289-million-bet-on-a-struggling-crypto-exchange-is-it-a-genius-move-en
+tags:
+- Crypto & Web3
+title: SBI's Shocking $289 Million Gamble On Failing Crypto Exchange Sparks Outrage
+  Among Investors
+translationKey: 07098b6f-01c9-bf0b-dd59-f291bf26148a
+type: crypto
 ---
 
 ![SBI's Shocking $289 Million Gamble On Failing Crypto Exchange Sparks Outrage Among Investors](/images/defaults/default-crypto.jpg)

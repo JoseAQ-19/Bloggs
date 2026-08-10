@@ -1,16 +1,21 @@
 ---
-title: "Fitness Influencer’s Shocking Guilty Plea Exposes Dark Side of Social Media Fame"
-date: 2026-07-03T08:29:23
+canonical: https://novumworld.com/fitness/fitness-influencers-shocking-gym-assault-guilty-plea-reveals-dark-side-of-fame-en/
+categories:
+- fitness
+date: 2026-07-03 08:29:23
+description: Discover how a fitness influencer's shocking guilty plea reveals the
+  troubling realities behind social media fame and the pressure to maintain a perfect.
 draft: false
-description: "Discover how a fitness influencer's shocking guilty plea reveals the troubling realities behind social media fame and the pressure to maintain a perfect."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "fitness-influencers-shocking-gym-assault-guilty-plea-reveals-dark-side-of-fame-en"
-canonical: "https://novumworld.com/fitness/fitness-influencers-shocking-gym-assault-guilty-plea-reveals-dark-side-of-fame-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "43a6cd55-d412-b0ac-c52c-75ff6f592a7e"
+featured_image: /images/fitness-influencers-shocking-gym-assault-guilty-plea-reveals-dark-side-of-fame-en.webp
+image: /images/fitness-influencers-shocking-gym-assault-guilty-plea-reveals-dark-side-of-fame-en.webp
+language: en
+slug: fitness-influencers-shocking-gym-assault-guilty-plea-reveals-dark-side-of-fame-en
+tags:
+- Biohacking & Fitness
+title: Fitness Influencer’s Shocking Guilty Plea Exposes Dark Side of Social Media
+  Fame
+translationKey: 43a6cd55-d412-b0ac-c52c-75ff6f592a7e
+type: fitness
 ---
 
 ![Fitness Influencer’s Shocking Guilty Plea Exposes Dark Side of Social Media Fame](/images/defaults/default-fitness.jpg)

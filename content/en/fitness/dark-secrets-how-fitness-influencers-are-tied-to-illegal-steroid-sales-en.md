@@ -1,16 +1,20 @@
 ---
-title: "Dark Secrets Revealed: 12 Fitness Influencers Linked to Illegal Steroid Sales"
-date: 2026-07-13T08:23:06
+canonical: https://novumworld.com/fitness/dark-secrets-how-fitness-influencers-are-tied-to-illegal-steroid-sales-en/
+categories:
+- fitness
+date: 2026-07-13 08:23:06
+description: Uncover shocking truths about 12 fitness influencers allegedly involved
+  in illegal steroid sales. Explore the dark side of the fitness industry today.
 draft: false
-description: "Uncover shocking truths about 12 fitness influencers allegedly involved in illegal steroid sales. Explore the dark side of the fitness industry today."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "dark-secrets-how-fitness-influencers-are-tied-to-illegal-steroid-sales-en"
-canonical: "https://novumworld.com/fitness/dark-secrets-how-fitness-influencers-are-tied-to-illegal-steroid-sales-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "a4406b2b-c177-a2e0-e695-6d67bbd1eefb"
+featured_image: /images/dark-secrets-how-fitness-influencers-are-tied-to-illegal-steroid-sales-en.webp
+image: /images/dark-secrets-how-fitness-influencers-are-tied-to-illegal-steroid-sales-en.webp
+language: en
+slug: dark-secrets-how-fitness-influencers-are-tied-to-illegal-steroid-sales-en
+tags:
+- Biohacking & Fitness
+title: 'Dark Secrets Revealed: 12 Fitness Influencers Linked to Illegal Steroid Sales'
+translationKey: a4406b2b-c177-a2e0-e695-6d67bbd1eefb
+type: fitness
 ---
 
 ![Dark Secrets Revealed: 12 Fitness Influencers Linked to Illegal Steroid Sales](/images/defaults/default-fitness.jpg)

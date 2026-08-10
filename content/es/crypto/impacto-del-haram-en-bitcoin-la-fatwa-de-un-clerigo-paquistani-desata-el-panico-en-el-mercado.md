@@ -1,16 +1,21 @@
 ---
-title: "La Fatwa de un Clérigo Paquistaní Desata el Pánico: El Impacto del ‘Haram’ en Bitcoin"
-date: 2026-07-15T17:07:44
+canonical: https://novumworld.com/es/crypto/impacto-del-haram-en-bitcoin-la-fatwa-de-un-clerigo-paquistani-desata-el-panico-en-el-mercado/
+categories:
+- crypto
+date: 2026-07-15 17:07:44
+description: Un clérigo paquistaní emite una fatwa sobre Bitcoin, generando miedo
+  y debate. Descubre cómo el concepto de ‘haram’ afecta al futuro de las criptomonedas.
 draft: false
-description: "Un clérigo paquistaní emite una fatwa sobre Bitcoin, generando miedo y debate. Descubre cómo el concepto de ‘haram’ afecta al futuro de las criptomonedas."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "impacto-del-haram-en-bitcoin-la-fatwa-de-un-clerigo-paquistani-desata-el-panico-en-el-mercado"
-canonical: "https://novumworld.com/es/crypto/impacto-del-haram-en-bitcoin-la-fatwa-de-un-clerigo-paquistani-desata-el-panico-en-el-mercado/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "1f1965a7-b792-43a2-29f0-46945b47ac84"
+featured_image: /images/impacto-del-haram-en-bitcoin-la-fatwa-de-un-clerigo-paquistani-desata-el-panico-en-el-mercado.webp
+image: /images/impacto-del-haram-en-bitcoin-la-fatwa-de-un-clerigo-paquistani-desata-el-panico-en-el-mercado.webp
+language: es
+slug: impacto-del-haram-en-bitcoin-la-fatwa-de-un-clerigo-paquistani-desata-el-panico-en-el-mercado
+tags:
+- Crypto & Web3
+title: 'La Fatwa de un Clérigo Paquistaní Desata el Pánico: El Impacto del ‘Haram’
+  en Bitcoin'
+translationKey: 1f1965a7-b792-43a2-29f0-46945b47ac84
+type: crypto
 ---
 
 ![La Fatwa de un Clérigo Paquistaní Desata el Pánico: El Impacto del ‘Haram’ en Bitcoin](/images/defaults/default-crypto.jpg)

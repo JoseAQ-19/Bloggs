@@ -1,16 +1,20 @@
 ---
-title: "Bitcoin Just Lost 50% Value: The Crypto Winter Is Far From Over"
-date: 2026-07-28T17:43:08
+canonical: https://novumworld.com/crypto/is-the-crypto-winter-here-to-stay-bitcoins-uncertain-future-revealed-en/
+categories:
+- crypto
+date: 2026-07-28 17:43:08
+description: Bitcoin's value has plummeted by 50%, signaling that the crypto winter
+  is far from over. Discover what this means for investors and the market's future.
 draft: false
-description: "Bitcoin's value has plummeted by 50%, signaling that the crypto winter is far from over. Discover what this means for investors and the market's future."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "is-the-crypto-winter-here-to-stay-bitcoins-uncertain-future-revealed-en"
-canonical: "https://novumworld.com/crypto/is-the-crypto-winter-here-to-stay-bitcoins-uncertain-future-revealed-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "2bf525b8-8428-1793-d5e2-08e6d596bcf3"
+featured_image: /images/is-the-crypto-winter-here-to-stay-bitcoins-uncertain-future-revealed-en.webp
+image: /images/is-the-crypto-winter-here-to-stay-bitcoins-uncertain-future-revealed-en.webp
+language: en
+slug: is-the-crypto-winter-here-to-stay-bitcoins-uncertain-future-revealed-en
+tags:
+- Crypto & Web3
+title: 'Bitcoin Just Lost 50% Value: The Crypto Winter Is Far From Over'
+translationKey: 2bf525b8-8428-1793-d5e2-08e6d596bcf3
+type: crypto
 ---
 
 ![Bitcoin Just Lost 50% Value: The Crypto Winter Is Far From Over](/images/defaults/default-crypto.jpg)

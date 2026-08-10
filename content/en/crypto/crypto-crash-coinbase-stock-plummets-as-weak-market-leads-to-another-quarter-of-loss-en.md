@@ -1,16 +1,21 @@
 ---
-title: "Crypto Crash: Coinbase Stock Plummets as Weak Market Leads to Another Quarter of Loss Analysis"
-date: 2026-07-31T19:04:07
+canonical: https://novumworld.com/crypto/crypto-crash-coinbase-stock-plummets-as-weak-market-leads-to-another-quarter-of-loss-en/
+categories:
+- crypto
+date: 2026-07-31 19:04:07
+description: 'Crypto Crash: Coinbase Stock Plummets as Weak Market Leads to Another
+  Quarter of Loss Analysis.'
 draft: false
-description: "Crypto Crash: Coinbase Stock Plummets as Weak Market Leads to Another Quarter of Loss Analysis."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "crypto-crash-coinbase-stock-plummets-as-weak-market-leads-to-another-quarter-of-loss-en"
-canonical: "https://novumworld.com/crypto/crypto-crash-coinbase-stock-plummets-as-weak-market-leads-to-another-quarter-of-loss-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "0eef7d4b-c56e-553d-91c8-09dffbf373e8"
+featured_image: /images/crypto-crash-coinbase-stock-plummets-as-weak-market-leads-to-another-quarter-of-loss-en.webp
+image: /images/crypto-crash-coinbase-stock-plummets-as-weak-market-leads-to-another-quarter-of-loss-en.webp
+language: en
+slug: crypto-crash-coinbase-stock-plummets-as-weak-market-leads-to-another-quarter-of-loss-en
+tags:
+- Crypto & Web3
+title: 'Crypto Crash: Coinbase Stock Plummets as Weak Market Leads to Another Quarter
+  of Loss Analysis'
+translationKey: 0eef7d4b-c56e-553d-91c8-09dffbf373e8
+type: crypto
 ---
 
 ![Crypto Crash: Coinbase Stock Plummets as Weak Market Leads to Another Quarter of Loss Analysis](/images/defaults/default-crypto.jpg)

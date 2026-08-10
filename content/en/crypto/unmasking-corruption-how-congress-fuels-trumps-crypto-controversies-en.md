@@ -1,16 +1,20 @@
 ---
-title: "Congress Just Unleashed 10 Shocking Crypto Scandals Fueling Trump's Controversies"
-date: 2026-07-20T19:15:47
+canonical: https://novumworld.com/crypto/unmasking-corruption-how-congress-fuels-trumps-crypto-controversies-en/
+categories:
+- crypto
+date: 2026-07-20 19:15:47
+description: Discover the shocking crypto scandals revealed by Congress that are igniting
+  controversies around Trump. Uncover the truth behind the headlines now!.
 draft: false
-description: "Discover the shocking crypto scandals revealed by Congress that are igniting controversies around Trump. Uncover the truth behind the headlines now!."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "unmasking-corruption-how-congress-fuels-trumps-crypto-controversies-en"
-canonical: "https://novumworld.com/crypto/unmasking-corruption-how-congress-fuels-trumps-crypto-controversies-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "6cb4ca21-224e-d609-f56d-3c4ad675b6ab"
+featured_image: /images/unmasking-corruption-how-congress-fuels-trumps-crypto-controversies-en.webp
+image: /images/unmasking-corruption-how-congress-fuels-trumps-crypto-controversies-en.webp
+language: en
+slug: unmasking-corruption-how-congress-fuels-trumps-crypto-controversies-en
+tags:
+- Crypto & Web3
+title: Congress Just Unleashed 10 Shocking Crypto Scandals Fueling Trump's Controversies
+translationKey: 6cb4ca21-224e-d609-f56d-3c4ad675b6ab
+type: crypto
 ---
 
 ![Congress Just Unleashed 10 Shocking Crypto Scandals Fueling Trump's Controversies](/images/defaults/default-crypto.jpg)

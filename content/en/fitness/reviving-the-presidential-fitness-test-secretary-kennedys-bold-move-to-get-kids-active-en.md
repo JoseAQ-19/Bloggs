@@ -1,16 +1,21 @@
 ---
-title: "Trump's Shocking Move: Reviving The Presidential Fitness Test To Combat Obesity Crisis"
-date: 2026-06-30T06:42:58
+canonical: https://novumworld.com/fitness/reviving-the-presidential-fitness-test-secretary-kennedys-bold-move-to-get-kids-active-en/
+categories:
+- fitness
+date: 2026-06-30 06:42:58
+description: Discover Trump's bold initiative to reinstate the Presidential Fitness
+  Test, aiming to tackle the obesity crisis and promote healthier lifestyles.
 draft: false
-description: "Discover Trump's bold initiative to reinstate the Presidential Fitness Test, aiming to tackle the obesity crisis and promote healthier lifestyles."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "reviving-the-presidential-fitness-test-secretary-kennedys-bold-move-to-get-kids-active-en"
-canonical: "https://novumworld.com/fitness/reviving-the-presidential-fitness-test-secretary-kennedys-bold-move-to-get-kids-active-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "f609da92-5791-c7c8-c54f-7bf87b40696e"
+featured_image: /images/reviving-the-presidential-fitness-test-secretary-kennedys-bold-move-to-get-kids-active-en.webp
+image: /images/reviving-the-presidential-fitness-test-secretary-kennedys-bold-move-to-get-kids-active-en.webp
+language: en
+slug: reviving-the-presidential-fitness-test-secretary-kennedys-bold-move-to-get-kids-active-en
+tags:
+- Biohacking & Fitness
+title: 'Trump''s Shocking Move: Reviving The Presidential Fitness Test To Combat Obesity
+  Crisis'
+translationKey: f609da92-5791-c7c8-c54f-7bf87b40696e
+type: fitness
 ---
 
 ![Trump's Shocking Move: Reviving The Presidential Fitness Test To Combat Obesity Crisis](/images/defaults/default-fitness.jpg)

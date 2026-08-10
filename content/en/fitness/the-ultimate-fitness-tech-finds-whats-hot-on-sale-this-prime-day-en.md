@@ -1,16 +1,20 @@
 ---
-title: "Prime Day Shock: Fitbit Charge 6 Dropped to Record Low of $89.95"
-date: 2026-06-25T06:50:36
+canonical: https://novumworld.com/fitness/the-ultimate-fitness-tech-finds-whats-hot-on-sale-this-prime-day-en/
+categories:
+- fitness
+date: 2026-06-25 06:50:36
+description: Discover the incredible deal on the Fitbit Charge 6 as Prime Day brings
+  it down to a record low of $89.95. Don't miss out on this limited-time offer!.
 draft: false
-description: "Discover the incredible deal on the Fitbit Charge 6 as Prime Day brings it down to a record low of $89.95. Don't miss out on this limited-time offer!."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "the-ultimate-fitness-tech-finds-whats-hot-on-sale-this-prime-day-en"
-canonical: "https://novumworld.com/fitness/the-ultimate-fitness-tech-finds-whats-hot-on-sale-this-prime-day-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "4b5c30b1-5e7a-a8d9-189d-ba4c021e4ae3"
+featured_image: /images/the-ultimate-fitness-tech-finds-whats-hot-on-sale-this-prime-day-en.webp
+image: /images/the-ultimate-fitness-tech-finds-whats-hot-on-sale-this-prime-day-en.webp
+language: en
+slug: the-ultimate-fitness-tech-finds-whats-hot-on-sale-this-prime-day-en
+tags:
+- Biohacking & Fitness
+title: 'Prime Day Shock: Fitbit Charge 6 Dropped to Record Low of $89.95'
+translationKey: 4b5c30b1-5e7a-a8d9-189d-ba4c021e4ae3
+type: fitness
 ---
 
 ![Prime Day Shock: Fitbit Charge 6 Dropped to Record Low of $89.95](/images/defaults/default-fitness.jpg)

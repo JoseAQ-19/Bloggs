@@ -1,16 +1,21 @@
 ---
-title: "England's Fitness Surge: 9 Reasons They Can Overcome Norway for World Cup Glory"
-date: 2026-07-11T07:20:13
+canonical: https://novumworld.com/fitness/englands-fitness-surge-key-to-world-cup-glory-against-norway-en/
+categories:
+- fitness
+date: 2026-07-11 07:20:13
+description: Discover how England's fitness edge can help them triumph over Norway
+  in the World Cup. Explore 9 key reasons for their potential success today!.
 draft: false
-description: "Discover how England's fitness edge can help them triumph over Norway in the World Cup. Explore 9 key reasons for their potential success today!."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "englands-fitness-surge-key-to-world-cup-glory-against-norway-en"
-canonical: "https://novumworld.com/fitness/englands-fitness-surge-key-to-world-cup-glory-against-norway-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "076cf542-3bf3-0d03-1250-3c6bcd56a399"
+featured_image: /images/englands-fitness-surge-key-to-world-cup-glory-against-norway-en.webp
+image: /images/englands-fitness-surge-key-to-world-cup-glory-against-norway-en.webp
+language: en
+slug: englands-fitness-surge-key-to-world-cup-glory-against-norway-en
+tags:
+- Biohacking & Fitness
+title: 'England''s Fitness Surge: 9 Reasons They Can Overcome Norway for World Cup
+  Glory'
+translationKey: 076cf542-3bf3-0d03-1250-3c6bcd56a399
+type: fitness
 ---
 
 ![England's Fitness Surge: 9 Reasons They Can Overcome Norway for World Cup Glory](/images/defaults/default-fitness.jpg)

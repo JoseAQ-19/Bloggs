@@ -1,16 +1,20 @@
 ---
-title: "Robinhood Celebró Su Mejor Trimestre Y Al Mismo Tiempo Las Cripto Se Desploman"
-date: 2026-07-30T17:15:58
+canonical: https://novumworld.com/es/crypto/robinhood-reporta-su-mejor-trimestre-pero-las-ganancias-de-cripto-caen-un-38-que-significa-esto-para/
+categories:
+- crypto
+date: 2026-07-30 17:15:58
+description: Robinhood reporta su mejor trimestre a pesar de la caída de las criptomonedas.
+  Descubre cómo esto impacta a los inversores y el futuro del mercado.
 draft: false
-description: "Robinhood reporta su mejor trimestre a pesar de la caída de las criptomonedas. Descubre cómo esto impacta a los inversores y el futuro del mercado."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "robinhood-reporta-su-mejor-trimestre-pero-las-ganancias-de-cripto-caen-un-38-que-significa-esto-para"
-canonical: "https://novumworld.com/es/crypto/robinhood-reporta-su-mejor-trimestre-pero-las-ganancias-de-cripto-caen-un-38-que-significa-esto-para/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "43cdb91c-2540-59a8-19f5-faf10dac0c13"
+featured_image: /images/robinhood-reporta-su-mejor-trimestre-pero-las-ganancias-de-cripto-caen-un-38-que-significa-esto-para.webp
+image: /images/robinhood-reporta-su-mejor-trimestre-pero-las-ganancias-de-cripto-caen-un-38-que-significa-esto-para.webp
+language: es
+slug: robinhood-reporta-su-mejor-trimestre-pero-las-ganancias-de-cripto-caen-un-38-que-significa-esto-para
+tags:
+- Crypto & Web3
+title: Robinhood Celebró Su Mejor Trimestre Y Al Mismo Tiempo Las Cripto Se Desploman
+translationKey: 43cdb91c-2540-59a8-19f5-faf10dac0c13
+type: crypto
 ---
 
 ![Robinhood Celebró Su Mejor Trimestre Y Al Mismo Tiempo Las Cripto Se Desploman](/images/defaults/default-crypto.jpg)

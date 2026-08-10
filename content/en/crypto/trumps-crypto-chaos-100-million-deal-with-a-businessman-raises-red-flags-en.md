@@ -1,16 +1,21 @@
 ---
-title: "Trump's Crypto Chaos: $100 Million Deal With a Businessman Raises Red Flags Analysis"
-date: 2026-08-09T17:59:10
+canonical: https://novumworld.com/crypto/trumps-crypto-chaos-100-million-deal-with-a-businessman-raises-red-flags-en/
+categories:
+- crypto
+date: 2026-08-09 17:59:10
+description: 'Trump''s Crypto Chaos: $100 Million Deal With a Businessman Raises Red
+  Flags Analysis.'
 draft: false
-description: "Trump's Crypto Chaos: $100 Million Deal With a Businessman Raises Red Flags Analysis."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "trumps-crypto-chaos-100-million-deal-with-a-businessman-raises-red-flags-en"
-canonical: "https://novumworld.com/crypto/trumps-crypto-chaos-100-million-deal-with-a-businessman-raises-red-flags-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "a1eec738-3f1f-d26b-4ab3-929f78c30ea5"
+featured_image: /images/trumps-crypto-chaos-100-million-deal-with-a-businessman-raises-red-flags-en.webp
+image: /images/trumps-crypto-chaos-100-million-deal-with-a-businessman-raises-red-flags-en.webp
+language: en
+slug: trumps-crypto-chaos-100-million-deal-with-a-businessman-raises-red-flags-en
+tags:
+- Crypto & Web3
+title: 'Trump''s Crypto Chaos: $100 Million Deal With a Businessman Raises Red Flags
+  Analysis'
+translationKey: a1eec738-3f1f-d26b-4ab3-929f78c30ea5
+type: crypto
 ---
 
 ![Trump's Crypto Chaos: $100 Million Deal With a Businessman Raises Red Flags Analysis](/images/defaults/default-crypto.jpg)

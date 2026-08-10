@@ -1,16 +1,20 @@
 ---
-title: "Don’t Wait: 69+ Prime Day Fitness Deals That Will Revolutionize Your Workouts"
-date: 2026-06-27T06:43:58
+canonical: https://novumworld.com/fitness/dont-miss-out-69-prime-day-fitness-deals-that-will-transform-your-workout-en/
+categories:
+- fitness
+date: 2026-06-27 06:43:58
+description: Discover 69+ unbeatable Prime Day fitness deals that will transform your
+  workouts. Don't miss out on top gear to elevate your fitness journey today!.
 draft: false
-description: "Discover 69+ unbeatable Prime Day fitness deals that will transform your workouts. Don't miss out on top gear to elevate your fitness journey today!."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "dont-miss-out-69-prime-day-fitness-deals-that-will-transform-your-workout-en"
-canonical: "https://novumworld.com/fitness/dont-miss-out-69-prime-day-fitness-deals-that-will-transform-your-workout-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "c258fadc-d8b8-772b-7494-f2a24780cca4"
+featured_image: /images/dont-miss-out-69-prime-day-fitness-deals-that-will-transform-your-workout-en.webp
+image: /images/dont-miss-out-69-prime-day-fitness-deals-that-will-transform-your-workout-en.webp
+language: en
+slug: dont-miss-out-69-prime-day-fitness-deals-that-will-transform-your-workout-en
+tags:
+- Biohacking & Fitness
+title: 'Don’t Wait: 69+ Prime Day Fitness Deals That Will Revolutionize Your Workouts'
+translationKey: c258fadc-d8b8-772b-7494-f2a24780cca4
+type: fitness
 ---
 
 ![Don’t Wait: 69+ Prime Day Fitness Deals That Will Revolutionize Your Workouts](/images/defaults/default-fitness.jpg)

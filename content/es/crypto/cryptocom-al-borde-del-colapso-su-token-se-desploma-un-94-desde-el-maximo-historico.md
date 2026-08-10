@@ -1,16 +1,21 @@
 ---
-title: "Crypto.com Al Borde Del Colapso: Su Token Se Desploma Un 94% Desde Su Máximo Histórico"
-date: 2026-07-25T16:41:20
+canonical: https://novumworld.com/es/crypto/cryptocom-al-borde-del-colapso-su-token-se-desploma-un-94-desde-el-maximo-historico/
+categories:
+- crypto
+date: 2026-07-25 16:41:20
+description: Descubre cómo Crypto.com enfrenta una crisis sin precedentes, con su
+  token cayendo un 94% desde su máximo histórico. Análisis y consecuencias aquí.
 draft: false
-description: "Descubre cómo Crypto.com enfrenta una crisis sin precedentes, con su token cayendo un 94% desde su máximo histórico. Análisis y consecuencias aquí."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "cryptocom-al-borde-del-colapso-su-token-se-desploma-un-94-desde-el-maximo-historico"
-canonical: "https://novumworld.com/es/crypto/cryptocom-al-borde-del-colapso-su-token-se-desploma-un-94-desde-el-maximo-historico/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "7c26d27b-21f8-a7da-7ce6-14a5b2a8c931"
+featured_image: /images/cryptocom-al-borde-del-colapso-su-token-se-desploma-un-94-desde-el-maximo-historico.webp
+image: /images/cryptocom-al-borde-del-colapso-su-token-se-desploma-un-94-desde-el-maximo-historico.webp
+language: es
+slug: cryptocom-al-borde-del-colapso-su-token-se-desploma-un-94-desde-el-maximo-historico
+tags:
+- Crypto & Web3
+title: 'Crypto.com Al Borde Del Colapso: Su Token Se Desploma Un 94% Desde Su Máximo
+  Histórico'
+translationKey: 7c26d27b-21f8-a7da-7ce6-14a5b2a8c931
+type: crypto
 ---
 
 ![Crypto.com Al Borde Del Colapso: Su Token Se Desploma Un 94% Desde Su Máximo Histórico](/images/defaults/default-crypto.jpg)

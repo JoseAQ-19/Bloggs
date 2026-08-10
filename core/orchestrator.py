@@ -11,7 +11,7 @@ import sys
 import text_cleaner
 from llm_router import LLMRouter
 from utils import LinkManager, ContentCleaner, inject_adsterra_native_block, generate_methodology_and_related_footer
-from novum_visual import get_image
+from novum_visual import get_image, generate_unique_visual_prompt
 import indexing_api
 from openai import OpenAI
 from google import genai

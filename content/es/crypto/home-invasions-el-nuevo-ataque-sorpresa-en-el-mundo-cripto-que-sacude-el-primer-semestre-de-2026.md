@@ -1,16 +1,21 @@
 ---
-title: "La Amenaza Silenciosa: 5 Estafas de Invasión en el Mundo Cripto que Nadie Vio Venir"
-date: 2026-07-23T17:26:26
+canonical: https://novumworld.com/es/crypto/home-invasions-el-nuevo-ataque-sorpresa-en-el-mundo-cripto-que-sacude-el-primer-semestre-de-2026/
+categories:
+- crypto
+date: 2026-07-23 17:26:26
+description: Descubre las 5 estafas de invasión en el mundo cripto que han sorprendido
+  a todos. Protege tus inversiones y mantente informado sobre estas amenazas.
 draft: false
-description: "Descubre las 5 estafas de invasión en el mundo cripto que han sorprendido a todos. Protege tus inversiones y mantente informado sobre estas amenazas."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "home-invasions-el-nuevo-ataque-sorpresa-en-el-mundo-cripto-que-sacude-el-primer-semestre-de-2026"
-canonical: "https://novumworld.com/es/crypto/home-invasions-el-nuevo-ataque-sorpresa-en-el-mundo-cripto-que-sacude-el-primer-semestre-de-2026/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "0a537ab2-721f-6c29-88ff-6c54a2e2bc63"
+featured_image: /images/home-invasions-el-nuevo-ataque-sorpresa-en-el-mundo-cripto-que-sacude-el-primer-semestre-de-2026.webp
+image: /images/home-invasions-el-nuevo-ataque-sorpresa-en-el-mundo-cripto-que-sacude-el-primer-semestre-de-2026.webp
+language: es
+slug: home-invasions-el-nuevo-ataque-sorpresa-en-el-mundo-cripto-que-sacude-el-primer-semestre-de-2026
+tags:
+- Crypto & Web3
+title: 'La Amenaza Silenciosa: 5 Estafas de Invasión en el Mundo Cripto que Nadie
+  Vio Venir'
+translationKey: 0a537ab2-721f-6c29-88ff-6c54a2e2bc63
+type: crypto
 ---
 
 ![La Amenaza Silenciosa: 5 Estafas de Invasión en el Mundo Cripto que Nadie Vio Venir](/images/defaults/default-crypto.jpg)

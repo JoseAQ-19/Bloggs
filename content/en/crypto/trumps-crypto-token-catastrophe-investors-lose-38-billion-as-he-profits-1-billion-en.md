@@ -1,16 +1,21 @@
 ---
-title: "Trump’s Crypto Token Catastrophe: Investors Lose $3.8 Billion While He Rakes In $1 Billion"
-date: 2026-07-04T17:14:12
+canonical: https://novumworld.com/crypto/trumps-crypto-token-catastrophe-investors-lose-38-billion-as-he-profits-1-billion-en/
+categories:
+- crypto
+date: 2026-07-04 17:14:12
+description: Explore how Trump's crypto token venture led to a staggering $3.8 billion
+  loss for investors, while he pocketed $1 billion in profit.
 draft: false
-description: "Explore how Trump's crypto token venture led to a staggering $3.8 billion loss for investors, while he pocketed $1 billion in profit."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "trumps-crypto-token-catastrophe-investors-lose-38-billion-as-he-profits-1-billion-en"
-canonical: "https://novumworld.com/crypto/trumps-crypto-token-catastrophe-investors-lose-38-billion-as-he-profits-1-billion-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "98089805-33cb-9d6c-02b0-1f98ab6d03f4"
+featured_image: /images/trumps-crypto-token-catastrophe-investors-lose-38-billion-as-he-profits-1-billion-en.webp
+image: /images/trumps-crypto-token-catastrophe-investors-lose-38-billion-as-he-profits-1-billion-en.webp
+language: en
+slug: trumps-crypto-token-catastrophe-investors-lose-38-billion-as-he-profits-1-billion-en
+tags:
+- Crypto & Web3
+title: 'Trump’s Crypto Token Catastrophe: Investors Lose $3.8 Billion While He Rakes
+  In $1 Billion'
+translationKey: 98089805-33cb-9d6c-02b0-1f98ab6d03f4
+type: crypto
 ---
 
 ![Trump’s Crypto Token Catastrophe: Investors Lose $3.8 Billion While He Rakes In $1 Billion](/images/defaults/default-crypto.jpg)

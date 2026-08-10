@@ -1,16 +1,20 @@
 ---
-title: "Crypto.com Alerta: El Dramático Colapso del CRO Que Nadie Vio Venir"
-date: 2026-07-28T17:22:51
+canonical: https://novumworld.com/es/crypto/el-colapso-de-cryptocom-por-que-el-cro-se-desploma-un-419/
+categories:
+- crypto
+date: 2026-07-28 17:22:51
+description: Descubre el impacto del inesperado colapso del CRO en Crypto.com. Analizamos
+  las causas y las consecuencias de este evento alarmante.
 draft: false
-description: "Descubre el impacto del inesperado colapso del CRO en Crypto.com. Analizamos las causas y las consecuencias de este evento alarmante."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "el-colapso-de-cryptocom-por-que-el-cro-se-desploma-un-419"
-canonical: "https://novumworld.com/es/crypto/el-colapso-de-cryptocom-por-que-el-cro-se-desploma-un-419/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "c46d59d0-8b3f-1b41-7783-1c5174de0d3f"
+featured_image: /images/el-colapso-de-cryptocom-por-que-el-cro-se-desploma-un-419.webp
+image: /images/el-colapso-de-cryptocom-por-que-el-cro-se-desploma-un-419.webp
+language: es
+slug: el-colapso-de-cryptocom-por-que-el-cro-se-desploma-un-419
+tags:
+- Crypto & Web3
+title: 'Crypto.com Alerta: El Dramático Colapso del CRO Que Nadie Vio Venir'
+translationKey: c46d59d0-8b3f-1b41-7783-1c5174de0d3f
+type: crypto
 ---
 
 ![Crypto.com Alerta: El Dramático Colapso del CRO Que Nadie Vio Venir](/images/defaults/default-crypto.jpg)

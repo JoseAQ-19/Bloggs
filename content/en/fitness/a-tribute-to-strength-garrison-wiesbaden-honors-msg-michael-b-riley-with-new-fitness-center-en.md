@@ -1,16 +1,21 @@
 ---
-title: "Garrison Wiesbaden Dedicates New Fitness Center to Honor Fallen Hero MSG Michael B. Riley"
-date: 2026-06-28T06:41:31
+canonical: https://novumworld.com/fitness/a-tribute-to-strength-garrison-wiesbaden-honors-msg-michael-b-riley-with-new-fitness-center-en/
+categories:
+- fitness
+date: 2026-06-28 06:41:31
+description: Garrison Wiesbaden honors fallen hero MSG Michael B. Riley with a new
+  fitness center, celebrating his legacy and inspiring community wellness and strength.
 draft: false
-description: "Garrison Wiesbaden honors fallen hero MSG Michael B. Riley with a new fitness center, celebrating his legacy and inspiring community wellness and strength."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "a-tribute-to-strength-garrison-wiesbaden-honors-msg-michael-b-riley-with-new-fitness-center-en"
-canonical: "https://novumworld.com/fitness/a-tribute-to-strength-garrison-wiesbaden-honors-msg-michael-b-riley-with-new-fitness-center-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "f382166e-3aa2-31c9-cc59-0d2d459f7d45"
+featured_image: /images/a-tribute-to-strength-garrison-wiesbaden-honors-msg-michael-b-riley-with-new-fitness-center-en.webp
+image: /images/a-tribute-to-strength-garrison-wiesbaden-honors-msg-michael-b-riley-with-new-fitness-center-en.webp
+language: en
+slug: a-tribute-to-strength-garrison-wiesbaden-honors-msg-michael-b-riley-with-new-fitness-center-en
+tags:
+- Biohacking & Fitness
+title: Garrison Wiesbaden Dedicates New Fitness Center to Honor Fallen Hero MSG Michael
+  B. Riley
+translationKey: f382166e-3aa2-31c9-cc59-0d2d459f7d45
+type: fitness
 ---
 
 ![Garrison Wiesbaden Dedicates New Fitness Center to Honor Fallen Hero MSG Michael B. Riley](/images/defaults/default-fitness.jpg)

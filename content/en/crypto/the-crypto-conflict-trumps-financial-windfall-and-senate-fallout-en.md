@@ -1,16 +1,20 @@
 ---
-title: "Trump’s Shocking $1.4 Billion Crypto Income Amid Ethics Scandal Ignites Outrage"
-date: 2026-07-02T18:03:17
+canonical: https://novumworld.com/crypto/the-crypto-conflict-trumps-financial-windfall-and-senate-fallout-en/
+categories:
+- crypto
+date: 2026-07-02 18:03:17
+description: Discover how Trump's $1.4 billion crypto income amid an ethics scandal
+  is sparking outrage and reshaping the political landscape. Read more now!.
 draft: false
-description: "Discover how Trump's $1.4 billion crypto income amid an ethics scandal is sparking outrage and reshaping the political landscape. Read more now!."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "the-crypto-conflict-trumps-financial-windfall-and-senate-fallout-en"
-canonical: "https://novumworld.com/crypto/the-crypto-conflict-trumps-financial-windfall-and-senate-fallout-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "0f2e474b-fb32-93b8-e23a-31b5b0c2f2ed"
+featured_image: /images/the-crypto-conflict-trumps-financial-windfall-and-senate-fallout-en.webp
+image: /images/the-crypto-conflict-trumps-financial-windfall-and-senate-fallout-en.webp
+language: en
+slug: the-crypto-conflict-trumps-financial-windfall-and-senate-fallout-en
+tags:
+- Crypto & Web3
+title: Trump’s Shocking $1.4 Billion Crypto Income Amid Ethics Scandal Ignites Outrage
+translationKey: 0f2e474b-fb32-93b8-e23a-31b5b0c2f2ed
+type: crypto
 ---
 
 ![Trump’s Shocking $1.4 Billion Crypto Income Amid Ethics Scandal Ignites Outrage](/images/defaults/default-crypto.jpg)

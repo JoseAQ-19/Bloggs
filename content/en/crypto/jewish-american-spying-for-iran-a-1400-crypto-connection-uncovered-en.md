@@ -1,16 +1,20 @@
 ---
-title: "Jewish American Spied for Iran: The Shocking $1,400 Crypto Connection Exposed"
-date: 2026-07-03T17:43:35
+canonical: https://novumworld.com/crypto/jewish-american-spying-for-iran-a-1400-crypto-connection-uncovered-en/
+categories:
+- crypto
+date: 2026-07-03 17:43:35
+description: Discover the unsettling story of a Jewish American's espionage for Iran,
+  revealing a $1,400 crypto link that raises serious security concerns.
 draft: false
-description: "Discover the unsettling story of a Jewish American's espionage for Iran, revealing a $1,400 crypto link that raises serious security concerns."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "jewish-american-spying-for-iran-a-1400-crypto-connection-uncovered-en"
-canonical: "https://novumworld.com/crypto/jewish-american-spying-for-iran-a-1400-crypto-connection-uncovered-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "be68a283-69f5-0e64-299a-fc50223c1f25"
+featured_image: /images/jewish-american-spying-for-iran-a-1400-crypto-connection-uncovered-en.webp
+image: /images/jewish-american-spying-for-iran-a-1400-crypto-connection-uncovered-en.webp
+language: en
+slug: jewish-american-spying-for-iran-a-1400-crypto-connection-uncovered-en
+tags:
+- Crypto & Web3
+title: 'Jewish American Spied for Iran: The Shocking $1,400 Crypto Connection Exposed'
+translationKey: be68a283-69f5-0e64-299a-fc50223c1f25
+type: crypto
 ---
 
 ![Jewish American Spied for Iran: The Shocking $1,400 Crypto Connection Exposed](/images/defaults/default-crypto.jpg)

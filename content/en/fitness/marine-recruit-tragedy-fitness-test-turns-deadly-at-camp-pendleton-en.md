@@ -1,16 +1,20 @@
 ---
-title: "Marine Recruit Tragedy: Fitness Test Turns Deadly at Camp Pendleton Analysis"
-date: 2026-08-07T06:37:59
+canonical: https://novumworld.com/fitness/marine-recruit-tragedy-fitness-test-turns-deadly-at-camp-pendleton-en/
+categories:
+- fitness
+date: 2026-08-07 06:37:59
+description: 'Marine Recruit Tragedy: Fitness Test Turns Deadly at Camp Pendleton
+  Analysis.'
 draft: false
-description: "Marine Recruit Tragedy: Fitness Test Turns Deadly at Camp Pendleton Analysis."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "marine-recruit-tragedy-fitness-test-turns-deadly-at-camp-pendleton-en"
-canonical: "https://novumworld.com/fitness/marine-recruit-tragedy-fitness-test-turns-deadly-at-camp-pendleton-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "08812a36-7ced-ffa0-8aef-5bc7d4e196c4"
+featured_image: /images/marine-recruit-tragedy-fitness-test-turns-deadly-at-camp-pendleton-en.webp
+image: /images/marine-recruit-tragedy-fitness-test-turns-deadly-at-camp-pendleton-en.webp
+language: en
+slug: marine-recruit-tragedy-fitness-test-turns-deadly-at-camp-pendleton-en
+tags:
+- Biohacking & Fitness
+title: 'Marine Recruit Tragedy: Fitness Test Turns Deadly at Camp Pendleton Analysis'
+translationKey: 08812a36-7ced-ffa0-8aef-5bc7d4e196c4
+type: fitness
 ---
 
 ![Marine Recruit Tragedy: Fitness Test Turns Deadly at Camp Pendleton Analysis](/images/defaults/default-fitness.jpg)

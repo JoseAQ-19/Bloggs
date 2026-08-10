@@ -1,16 +1,20 @@
 ---
-title: "Brad Garlinghouse Revela La Verdad Oculta Sobre La Deuda En La Compra De Bitcoin"
-date: 2026-06-30T16:30:21
+canonical: https://novumworld.com/es/crypto/brad-garlinghouse-ataca-el-modelo-de-deuda-en-la-compra-de-bitcoin-crisis-a-la-vista/
+categories:
+- crypto
+date: 2026-06-30 16:30:21
+description: Brad Garlinghouse revela secretos impactantes sobre la deuda y su influencia
+  en la compra de Bitcoin. Descubre la verdad que pocos conocen.
 draft: false
-description: "Brad Garlinghouse revela secretos impactantes sobre la deuda y su influencia en la compra de Bitcoin. Descubre la verdad que pocos conocen."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "brad-garlinghouse-ataca-el-modelo-de-deuda-en-la-compra-de-bitcoin-crisis-a-la-vista"
-canonical: "https://novumworld.com/es/crypto/brad-garlinghouse-ataca-el-modelo-de-deuda-en-la-compra-de-bitcoin-crisis-a-la-vista/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "ba847a4f-eb85-db3b-a076-02c95d7e4431"
+featured_image: /images/brad-garlinghouse-ataca-el-modelo-de-deuda-en-la-compra-de-bitcoin-crisis-a-la-vista.webp
+image: /images/brad-garlinghouse-ataca-el-modelo-de-deuda-en-la-compra-de-bitcoin-crisis-a-la-vista.webp
+language: es
+slug: brad-garlinghouse-ataca-el-modelo-de-deuda-en-la-compra-de-bitcoin-crisis-a-la-vista
+tags:
+- Crypto & Web3
+title: Brad Garlinghouse Revela La Verdad Oculta Sobre La Deuda En La Compra De Bitcoin
+translationKey: ba847a4f-eb85-db3b-a076-02c95d7e4431
+type: crypto
 ---
 
 ![Brad Garlinghouse Revela La Verdad Oculta Sobre La Deuda En La Compra De Bitcoin](/images/defaults/default-crypto.jpg)

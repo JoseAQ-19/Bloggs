@@ -1,16 +1,20 @@
 ---
-title: "Crypto.com Al Borde de la Quiebra: Lo Que Nadie Se Atreve a Decir"
-date: 2026-06-29T16:45:57
+canonical: https://novumworld.com/es/crypto/esta-el-cro-de-cryptocom-al-borde-de-la-quiebra-analisis-de-su-caida-en-2026/
+categories:
+- crypto
+date: 2026-06-29 16:45:57
+description: Crypto.com enfrenta una crisis financiera. Descubre la verdad oculta
+  detrás de su posible quiebra y lo que significa para el futuro de las criptomonedas.
 draft: false
-description: "Crypto.com enfrenta una crisis financiera. Descubre la verdad oculta detrás de su posible quiebra y lo que significa para el futuro de las criptomonedas."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "esta-el-cro-de-cryptocom-al-borde-de-la-quiebra-analisis-de-su-caida-en-2026"
-canonical: "https://novumworld.com/es/crypto/esta-el-cro-de-cryptocom-al-borde-de-la-quiebra-analisis-de-su-caida-en-2026/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "53535d17-854e-8ed0-9440-38b572285bb2"
+featured_image: /images/esta-el-cro-de-cryptocom-al-borde-de-la-quiebra-analisis-de-su-caida-en-2026.webp
+image: /images/esta-el-cro-de-cryptocom-al-borde-de-la-quiebra-analisis-de-su-caida-en-2026.webp
+language: es
+slug: esta-el-cro-de-cryptocom-al-borde-de-la-quiebra-analisis-de-su-caida-en-2026
+tags:
+- Crypto & Web3
+title: 'Crypto.com Al Borde de la Quiebra: Lo Que Nadie Se Atreve a Decir'
+translationKey: 53535d17-854e-8ed0-9440-38b572285bb2
+type: crypto
 ---
 
 ![Crypto.com Al Borde de la Quiebra: Lo Que Nadie Se Atreve a Decir](/images/defaults/default-crypto.jpg)

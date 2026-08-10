@@ -1,16 +1,21 @@
 ---
-title: "La SEC Lanza Project Crypto: 5 Consecuencias Que Pueden Cambiar El Futuro Financiero"
-date: 2026-07-04T16:57:21
+canonical: https://novumworld.com/es/crypto/la-sec-lanza-project-crypto-puede-frenar-la-fuga-de-empresas-del-mercado-estadounidense/
+categories:
+- crypto
+date: 2026-07-04 16:57:21
+description: Descubre cómo el lanzamiento de Project Crypto por la SEC puede transformar
+  el panorama financiero. Conoce las 5 consecuencias clave que impactarán tu.
 draft: false
-description: "Descubre cómo el lanzamiento de Project Crypto por la SEC puede transformar el panorama financiero. Conoce las 5 consecuencias clave que impactarán tu."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "la-sec-lanza-project-crypto-puede-frenar-la-fuga-de-empresas-del-mercado-estadounidense"
-canonical: "https://novumworld.com/es/crypto/la-sec-lanza-project-crypto-puede-frenar-la-fuga-de-empresas-del-mercado-estadounidense/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "b87533ef-b018-84ff-6cdd-d47bf266c8cb"
+featured_image: /images/la-sec-lanza-project-crypto-puede-frenar-la-fuga-de-empresas-del-mercado-estadounidense.webp
+image: /images/la-sec-lanza-project-crypto-puede-frenar-la-fuga-de-empresas-del-mercado-estadounidense.webp
+language: es
+slug: la-sec-lanza-project-crypto-puede-frenar-la-fuga-de-empresas-del-mercado-estadounidense
+tags:
+- Crypto & Web3
+title: 'La SEC Lanza Project Crypto: 5 Consecuencias Que Pueden Cambiar El Futuro
+  Financiero'
+translationKey: b87533ef-b018-84ff-6cdd-d47bf266c8cb
+type: crypto
 ---
 
 ![La SEC Lanza Project Crypto: 5 Consecuencias Que Pueden Cambiar El Futuro Financiero](/images/defaults/default-crypto.jpg)

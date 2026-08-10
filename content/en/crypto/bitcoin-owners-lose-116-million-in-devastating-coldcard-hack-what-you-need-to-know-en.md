@@ -1,16 +1,21 @@
 ---
-title: "Bitcoin Owners Lose $116 Million in Devastating Coldcard Hack: What You Need to Know Analysis"
-date: 2026-08-03T19:11:17
+canonical: https://novumworld.com/crypto/bitcoin-owners-lose-116-million-in-devastating-coldcard-hack-what-you-need-to-know-en/
+categories:
+- crypto
+date: 2026-08-03 19:11:17
+description: 'Bitcoin Owners Lose $116 Million in Devastating Coldcard Hack: What
+  You Need to Know Analysis.'
 draft: false
-description: "Bitcoin Owners Lose $116 Million in Devastating Coldcard Hack: What You Need to Know Analysis."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "bitcoin-owners-lose-116-million-in-devastating-coldcard-hack-what-you-need-to-know-en"
-canonical: "https://novumworld.com/crypto/bitcoin-owners-lose-116-million-in-devastating-coldcard-hack-what-you-need-to-know-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "82dce713-5516-c383-5226-3d5a0f2821ea"
+featured_image: /images/bitcoin-owners-lose-116-million-in-devastating-coldcard-hack-what-you-need-to-know-en.webp
+image: /images/bitcoin-owners-lose-116-million-in-devastating-coldcard-hack-what-you-need-to-know-en.webp
+language: en
+slug: bitcoin-owners-lose-116-million-in-devastating-coldcard-hack-what-you-need-to-know-en
+tags:
+- Crypto & Web3
+title: 'Bitcoin Owners Lose $116 Million in Devastating Coldcard Hack: What You Need
+  to Know Analysis'
+translationKey: 82dce713-5516-c383-5226-3d5a0f2821ea
+type: crypto
 ---
 
 ![Bitcoin Owners Lose $116 Million in Devastating Coldcard Hack: What You Need to Know Analysis](/images/defaults/default-crypto.jpg)

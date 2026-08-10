@@ -1,16 +1,20 @@
 ---
-title: "5 Victims: Car Crashes Through LA Fitness In Portland’s Pearl District"
-date: 2026-07-22T07:45:07
+canonical: https://novumworld.com/fitness/tragedy-strikes-car-crashes-into-la-fitness-in-portlands-pearl-district-en/
+categories:
+- fitness
+date: 2026-07-22 07:45:07
+description: A car crashed into LA Fitness in Portland's Pearl District, injuring
+  five. Explore the details of this shocking incident and witness accounts.
 draft: false
-description: "A car crashed into LA Fitness in Portland's Pearl District, injuring five. Explore the details of this shocking incident and witness accounts."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "tragedy-strikes-car-crashes-into-la-fitness-in-portlands-pearl-district-en"
-canonical: "https://novumworld.com/fitness/tragedy-strikes-car-crashes-into-la-fitness-in-portlands-pearl-district-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "6120b926-cee4-4f70-d18a-01c56731fcc8"
+featured_image: /images/tragedy-strikes-car-crashes-into-la-fitness-in-portlands-pearl-district-en.webp
+image: /images/tragedy-strikes-car-crashes-into-la-fitness-in-portlands-pearl-district-en.webp
+language: en
+slug: tragedy-strikes-car-crashes-into-la-fitness-in-portlands-pearl-district-en
+tags:
+- Biohacking & Fitness
+title: '5 Victims: Car Crashes Through LA Fitness In Portland’s Pearl District'
+translationKey: 6120b926-cee4-4f70-d18a-01c56731fcc8
+type: fitness
 ---
 
 ![5 Victims: Car Crashes Through LA Fitness In Portland’s Pearl District](/images/defaults/default-fitness.jpg)

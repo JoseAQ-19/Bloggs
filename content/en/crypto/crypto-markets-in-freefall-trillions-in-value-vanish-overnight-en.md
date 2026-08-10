@@ -1,16 +1,20 @@
 ---
-title: "Trillions Vanished Overnight: The Crypto Market's Shocking $2 Trillion Collapse"
-date: 2026-06-25T18:14:58
+canonical: https://novumworld.com/crypto/crypto-markets-in-freefall-trillions-in-value-vanish-overnight-en/
+categories:
+- crypto
+date: 2026-06-25 18:14:58
+description: Explore the shocking $2 trillion collapse of the crypto market, revealing
+  the factors behind the sudden loss and its impact on investors worldwide.
 draft: false
-description: "Explore the shocking $2 trillion collapse of the crypto market, revealing the factors behind the sudden loss and its impact on investors worldwide."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "crypto-markets-in-freefall-trillions-in-value-vanish-overnight-en"
-canonical: "https://novumworld.com/crypto/crypto-markets-in-freefall-trillions-in-value-vanish-overnight-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "0c3a71da-405f-b5b8-0601-8b0604144697"
+featured_image: /images/crypto-markets-in-freefall-trillions-in-value-vanish-overnight-en.webp
+image: /images/crypto-markets-in-freefall-trillions-in-value-vanish-overnight-en.webp
+language: en
+slug: crypto-markets-in-freefall-trillions-in-value-vanish-overnight-en
+tags:
+- Crypto & Web3
+title: 'Trillions Vanished Overnight: The Crypto Market''s Shocking $2 Trillion Collapse'
+translationKey: 0c3a71da-405f-b5b8-0601-8b0604144697
+type: crypto
 ---
 
 ![Trillions Vanished Overnight: The Crypto Market's Shocking $2 Trillion Collapse](/images/defaults/default-crypto.jpg)

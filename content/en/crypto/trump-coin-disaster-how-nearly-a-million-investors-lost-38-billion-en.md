@@ -1,16 +1,20 @@
 ---
-title: "Trump Coin Catastrophe: Nearly 1 Million Investors Lose $3.8 Billion Overnight"
-date: 2026-07-06T18:19:08
+canonical: https://novumworld.com/crypto/trump-coin-disaster-how-nearly-a-million-investors-lost-38-billion-en/
+categories:
+- crypto
+date: 2026-07-06 18:19:08
+description: Discover how nearly 1 million investors lost $3.8 billion overnight in
+  the Trump Coin debacle. Uncover the shocking details of this financial disaster.
 draft: false
-description: "Discover how nearly 1 million investors lost $3.8 billion overnight in the Trump Coin debacle. Uncover the shocking details of this financial disaster."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "trump-coin-disaster-how-nearly-a-million-investors-lost-38-billion-en"
-canonical: "https://novumworld.com/crypto/trump-coin-disaster-how-nearly-a-million-investors-lost-38-billion-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "b33045ff-9d22-608c-1038-5336f154fd2a"
+featured_image: /images/trump-coin-disaster-how-nearly-a-million-investors-lost-38-billion-en.webp
+image: /images/trump-coin-disaster-how-nearly-a-million-investors-lost-38-billion-en.webp
+language: en
+slug: trump-coin-disaster-how-nearly-a-million-investors-lost-38-billion-en
+tags:
+- Crypto & Web3
+title: 'Trump Coin Catastrophe: Nearly 1 Million Investors Lose $3.8 Billion Overnight'
+translationKey: b33045ff-9d22-608c-1038-5336f154fd2a
+type: crypto
 ---
 
 ![Trump Coin Catastrophe: Nearly 1 Million Investors Lose $3.8 Billion Overnight](/images/defaults/default-crypto.jpg)

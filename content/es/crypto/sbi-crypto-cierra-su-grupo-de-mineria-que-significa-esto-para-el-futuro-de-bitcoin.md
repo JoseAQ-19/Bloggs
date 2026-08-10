@@ -1,16 +1,20 @@
 ---
-title: "SBI Crypto Cierra Su Grupo De Minería: Un Golpe Mortal Para Bitcoin"
-date: 2026-07-02T16:18:38
+canonical: https://novumworld.com/es/crypto/sbi-crypto-cierra-su-grupo-de-mineria-que-significa-esto-para-el-futuro-de-bitcoin/
+categories:
+- crypto
+date: 2026-07-02 16:18:38
+description: SBI Crypto cierra su grupo de minería, marcando un duro golpe para Bitcoin.
+  Descubre las implicaciones y el futuro de las criptomonedas en este artículo.
 draft: false
-description: "SBI Crypto cierra su grupo de minería, marcando un duro golpe para Bitcoin. Descubre las implicaciones y el futuro de las criptomonedas en este artículo."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "sbi-crypto-cierra-su-grupo-de-mineria-que-significa-esto-para-el-futuro-de-bitcoin"
-canonical: "https://novumworld.com/es/crypto/sbi-crypto-cierra-su-grupo-de-mineria-que-significa-esto-para-el-futuro-de-bitcoin/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "969975b4-4054-952a-71ec-aff306c50e52"
+featured_image: /images/sbi-crypto-cierra-su-grupo-de-mineria-que-significa-esto-para-el-futuro-de-bitcoin.webp
+image: /images/sbi-crypto-cierra-su-grupo-de-mineria-que-significa-esto-para-el-futuro-de-bitcoin.webp
+language: es
+slug: sbi-crypto-cierra-su-grupo-de-mineria-que-significa-esto-para-el-futuro-de-bitcoin
+tags:
+- Crypto & Web3
+title: 'SBI Crypto Cierra Su Grupo De Minería: Un Golpe Mortal Para Bitcoin'
+translationKey: 969975b4-4054-952a-71ec-aff306c50e52
+type: crypto
 ---
 
 ![SBI Crypto Cierra Su Grupo De Minería: Un Golpe Mortal Para Bitcoin](/images/defaults/default-crypto.jpg)

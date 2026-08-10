@@ -1,16 +1,21 @@
 ---
-title: "Crypto Market Sees Green: How Circle Internet Stock Defied the Crypto Slump Analysis"
-date: 2026-08-05T19:15:23
+canonical: https://novumworld.com/crypto/crypto-market-sees-green-how-circle-internet-stock-defied-the-crypto-slump-en/
+categories:
+- crypto
+date: 2026-08-05 19:15:23
+description: 'Crypto Market Sees Green: How Circle Internet Stock Defied the Crypto
+  Slump Analysis.'
 draft: false
-description: "Crypto Market Sees Green: How Circle Internet Stock Defied the Crypto Slump Analysis."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "crypto-market-sees-green-how-circle-internet-stock-defied-the-crypto-slump-en"
-canonical: "https://novumworld.com/crypto/crypto-market-sees-green-how-circle-internet-stock-defied-the-crypto-slump-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "45ed50a2-e2b1-847e-b5d5-e72b90ab507d"
+featured_image: /images/crypto-market-sees-green-how-circle-internet-stock-defied-the-crypto-slump-en.webp
+image: /images/crypto-market-sees-green-how-circle-internet-stock-defied-the-crypto-slump-en.webp
+language: en
+slug: crypto-market-sees-green-how-circle-internet-stock-defied-the-crypto-slump-en
+tags:
+- Crypto & Web3
+title: 'Crypto Market Sees Green: How Circle Internet Stock Defied the Crypto Slump
+  Analysis'
+translationKey: 45ed50a2-e2b1-847e-b5d5-e72b90ab507d
+type: crypto
 ---
 
 ![Crypto Market Sees Green: How Circle Internet Stock Defied the Crypto Slump Analysis](/images/defaults/default-crypto.jpg)

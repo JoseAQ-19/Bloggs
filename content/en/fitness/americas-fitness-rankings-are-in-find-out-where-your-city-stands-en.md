@@ -1,16 +1,20 @@
 ---
-title: "America’s Fittest Cities Ranked: The Shocking Truth Behind Your City’s Score"
-date: 2026-07-16T07:38:34
+canonical: https://novumworld.com/fitness/americas-fitness-rankings-are-in-find-out-where-your-city-stands-en/
+categories:
+- fitness
+date: 2026-07-16 07:38:34
+description: Discover the surprising rankings of America's fittest cities! Uncover
+  the factors influencing your city’s health score and find out where it stands.
 draft: false
-description: "Discover the surprising rankings of America's fittest cities! Uncover the factors influencing your city’s health score and find out where it stands."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "americas-fitness-rankings-are-in-find-out-where-your-city-stands-en"
-canonical: "https://novumworld.com/fitness/americas-fitness-rankings-are-in-find-out-where-your-city-stands-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "28b53224-36b0-6ed0-2dc5-a44c0751e1e1"
+featured_image: /images/americas-fitness-rankings-are-in-find-out-where-your-city-stands-en.webp
+image: /images/americas-fitness-rankings-are-in-find-out-where-your-city-stands-en.webp
+language: en
+slug: americas-fitness-rankings-are-in-find-out-where-your-city-stands-en
+tags:
+- Biohacking & Fitness
+title: 'America’s Fittest Cities Ranked: The Shocking Truth Behind Your City’s Score'
+translationKey: 28b53224-36b0-6ed0-2dc5-a44c0751e1e1
+type: fitness
 ---
 
 ![America’s Fittest Cities Ranked: The Shocking Truth Behind Your City’s Score](/images/defaults/default-fitness.jpg)

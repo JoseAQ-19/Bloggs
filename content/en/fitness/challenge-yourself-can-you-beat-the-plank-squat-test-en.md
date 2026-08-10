@@ -1,16 +1,20 @@
 ---
-title: "The Hidden Endurance Test: Conquer the Plank and Squat to Prove Your Fitness"
-date: 2026-07-10T08:52:19
+canonical: https://novumworld.com/fitness/challenge-yourself-can-you-beat-the-plank-squat-test-en/
+categories:
+- fitness
+date: 2026-07-10 08:52:19
+description: Uncover the secret to true fitness with our guide on mastering the plank
+  and squat. Challenge your endurance and elevate your workout routine today!.
 draft: false
-description: "Uncover the secret to true fitness with our guide on mastering the plank and squat. Challenge your endurance and elevate your workout routine today!."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "challenge-yourself-can-you-beat-the-plank-squat-test-en"
-canonical: "https://novumworld.com/fitness/challenge-yourself-can-you-beat-the-plank-squat-test-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "c0c0ec0c-af22-3e4c-6b43-b50e3a30a5ce"
+featured_image: /images/challenge-yourself-can-you-beat-the-plank-squat-test-en.webp
+image: /images/challenge-yourself-can-you-beat-the-plank-squat-test-en.webp
+language: en
+slug: challenge-yourself-can-you-beat-the-plank-squat-test-en
+tags:
+- Biohacking & Fitness
+title: 'The Hidden Endurance Test: Conquer the Plank and Squat to Prove Your Fitness'
+translationKey: c0c0ec0c-af22-3e4c-6b43-b50e3a30a5ce
+type: fitness
 ---
 
 ![The Hidden Endurance Test: Conquer the Plank and Squat to Prove Your Fitness](/images/defaults/default-fitness.jpg)

@@ -1,16 +1,20 @@
 ---
-title: "The Shocking Truth Behind Trump’s Push for Crypto Clarity Act Legislation"
-date: 2026-07-15T18:44:40
+canonical: https://novumworld.com/crypto/trumps-crypto-moves-from-gains-to-legislative-calls-for-clarity-en/
+categories:
+- crypto
+date: 2026-07-15 18:44:40
+description: Discover the surprising motivations behind Trump's Crypto Clarity Act
+  push and its potential impact on the future of cryptocurrency regulation.
 draft: false
-description: "Discover the surprising motivations behind Trump's Crypto Clarity Act push and its potential impact on the future of cryptocurrency regulation."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "trumps-crypto-moves-from-gains-to-legislative-calls-for-clarity-en"
-canonical: "https://novumworld.com/crypto/trumps-crypto-moves-from-gains-to-legislative-calls-for-clarity-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "65950cb7-e943-dd5d-5d6f-e02df52a43be"
+featured_image: /images/trumps-crypto-moves-from-gains-to-legislative-calls-for-clarity-en.webp
+image: /images/trumps-crypto-moves-from-gains-to-legislative-calls-for-clarity-en.webp
+language: en
+slug: trumps-crypto-moves-from-gains-to-legislative-calls-for-clarity-en
+tags:
+- Crypto & Web3
+title: The Shocking Truth Behind Trump’s Push for Crypto Clarity Act Legislation
+translationKey: 65950cb7-e943-dd5d-5d6f-e02df52a43be
+type: crypto
 ---
 
 ![The Shocking Truth Behind Trump’s Push for Crypto Clarity Act Legislation](/images/defaults/default-crypto.jpg)

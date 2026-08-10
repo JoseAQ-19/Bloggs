@@ -1,16 +1,20 @@
 ---
-title: "460 AQI in Detroit: How Free Planet Fitness Access Can Save Your Health"
-date: 2026-07-17T07:42:45
+canonical: https://novumworld.com/fitness/free-planet-fitness-access-stay-fit-amid-air-quality-alerts-en/
+categories:
+- fitness
+date: 2026-07-17 07:42:45
+description: Discover how free Planet Fitness access in Detroit can help you combat
+  the dangers of a 460 AQI and protect your health during air quality crises.
 draft: false
-description: "Discover how free Planet Fitness access in Detroit can help you combat the dangers of a 460 AQI and protect your health during air quality crises."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "free-planet-fitness-access-stay-fit-amid-air-quality-alerts-en"
-canonical: "https://novumworld.com/fitness/free-planet-fitness-access-stay-fit-amid-air-quality-alerts-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "82675757-083c-0cc5-1f24-7765a5d2c8b5"
+featured_image: /images/free-planet-fitness-access-stay-fit-amid-air-quality-alerts-en.webp
+image: /images/free-planet-fitness-access-stay-fit-amid-air-quality-alerts-en.webp
+language: en
+slug: free-planet-fitness-access-stay-fit-amid-air-quality-alerts-en
+tags:
+- Biohacking & Fitness
+title: '460 AQI in Detroit: How Free Planet Fitness Access Can Save Your Health'
+translationKey: 82675757-083c-0cc5-1f24-7765a5d2c8b5
+type: fitness
 ---
 
 ![460 AQI in Detroit: How Free Planet Fitness Access Can Save Your Health](/images/defaults/default-fitness.jpg)

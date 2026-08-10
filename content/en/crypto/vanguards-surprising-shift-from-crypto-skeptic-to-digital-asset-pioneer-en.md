@@ -1,16 +1,20 @@
 ---
-title: "Vanguard Just Shocked the World: From Crypto Skeptic to Digital Asset Pioneer"
-date: 2026-07-07T19:19:37
+canonical: https://novumworld.com/crypto/vanguards-surprising-shift-from-crypto-skeptic-to-digital-asset-pioneer-en/
+categories:
+- crypto
+date: 2026-07-07 19:19:37
+description: Discover how Vanguard transformed from a crypto skeptic to a leader in
+  digital assets, reshaping the investment landscape and embracing innovation.
 draft: false
-description: "Discover how Vanguard transformed from a crypto skeptic to a leader in digital assets, reshaping the investment landscape and embracing innovation."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "vanguards-surprising-shift-from-crypto-skeptic-to-digital-asset-pioneer-en"
-canonical: "https://novumworld.com/crypto/vanguards-surprising-shift-from-crypto-skeptic-to-digital-asset-pioneer-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "ddbd5499-f91a-e803-d8eb-a945457b1713"
+featured_image: /images/vanguards-surprising-shift-from-crypto-skeptic-to-digital-asset-pioneer-en.webp
+image: /images/vanguards-surprising-shift-from-crypto-skeptic-to-digital-asset-pioneer-en.webp
+language: en
+slug: vanguards-surprising-shift-from-crypto-skeptic-to-digital-asset-pioneer-en
+tags:
+- Crypto & Web3
+title: 'Vanguard Just Shocked the World: From Crypto Skeptic to Digital Asset Pioneer'
+translationKey: ddbd5499-f91a-e803-d8eb-a945457b1713
+type: crypto
 ---
 
 ![Vanguard Just Shocked the World: From Crypto Skeptic to Digital Asset Pioneer](/images/defaults/default-crypto.jpg)

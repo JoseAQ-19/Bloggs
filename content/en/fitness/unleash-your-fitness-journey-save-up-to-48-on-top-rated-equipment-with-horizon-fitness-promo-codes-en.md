@@ -1,16 +1,21 @@
 ---
-title: "Unleash Your Fitness Journey: Save Up To 48% On Top-Rated Equipment With Horizon Fitness Promo Codes Analysis"
-date: 2026-08-01T07:40:57
+canonical: https://novumworld.com/fitness/unleash-your-fitness-journey-save-up-to-48-on-top-rated-equipment-with-horizon-fitness-promo-codes-en/
+categories:
+- fitness
+date: 2026-08-01 07:40:57
+description: 'Unleash Your Fitness Journey: Save Up To 48% On Top-Rated Equipment
+  With Horizon Fitness Promo Codes Analysis.'
 draft: false
-description: "Unleash Your Fitness Journey: Save Up To 48% On Top-Rated Equipment With Horizon Fitness Promo Codes Analysis."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "unleash-your-fitness-journey-save-up-to-48-on-top-rated-equipment-with-horizon-fitness-promo-codes-en"
-canonical: "https://novumworld.com/fitness/unleash-your-fitness-journey-save-up-to-48-on-top-rated-equipment-with-horizon-fitness-promo-codes-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "838b29e8-dc47-72d2-a1f7-9d196f4efb91"
+featured_image: /images/unleash-your-fitness-journey-save-up-to-48-on-top-rated-equipment-with-horizon-fitness-promo-codes-en.webp
+image: /images/unleash-your-fitness-journey-save-up-to-48-on-top-rated-equipment-with-horizon-fitness-promo-codes-en.webp
+language: en
+slug: unleash-your-fitness-journey-save-up-to-48-on-top-rated-equipment-with-horizon-fitness-promo-codes-en
+tags:
+- Biohacking & Fitness
+title: 'Unleash Your Fitness Journey: Save Up To 48% On Top-Rated Equipment With Horizon
+  Fitness Promo Codes Analysis'
+translationKey: 838b29e8-dc47-72d2-a1f7-9d196f4efb91
+type: fitness
 ---
 
 ![Unleash Your Fitness Journey: Save Up To 48% On Top-Rated Equipment With Horizon Fitness Promo Codes Analysis](/images/defaults/default-fitness.jpg)

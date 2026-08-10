@@ -1,16 +1,21 @@
 ---
-title: "Crypto's Future in Jeopardy: Coinbase Stock Plummets Amidst Wall Street Debate Analysis"
-date: 2026-08-01T18:43:37
+canonical: https://novumworld.com/crypto/cryptos-future-in-jeopardy-coinbase-stock-plummets-amidst-wall-street-debate-en/
+categories:
+- crypto
+date: 2026-08-01 18:43:37
+description: 'Crypto''s Future in Jeopardy: Coinbase Stock Plummets Amidst Wall Street
+  Debate Analysis.'
 draft: false
-description: "Crypto's Future in Jeopardy: Coinbase Stock Plummets Amidst Wall Street Debate Analysis."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "cryptos-future-in-jeopardy-coinbase-stock-plummets-amidst-wall-street-debate-en"
-canonical: "https://novumworld.com/crypto/cryptos-future-in-jeopardy-coinbase-stock-plummets-amidst-wall-street-debate-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "c3491052-3f0c-6f61-8457-62ad28c18071"
+featured_image: /images/cryptos-future-in-jeopardy-coinbase-stock-plummets-amidst-wall-street-debate-en.webp
+image: /images/cryptos-future-in-jeopardy-coinbase-stock-plummets-amidst-wall-street-debate-en.webp
+language: en
+slug: cryptos-future-in-jeopardy-coinbase-stock-plummets-amidst-wall-street-debate-en
+tags:
+- Crypto & Web3
+title: 'Crypto''s Future in Jeopardy: Coinbase Stock Plummets Amidst Wall Street Debate
+  Analysis'
+translationKey: c3491052-3f0c-6f61-8457-62ad28c18071
+type: crypto
 ---
 
 ![Crypto's Future in Jeopardy: Coinbase Stock Plummets Amidst Wall Street Debate Analysis](/images/defaults/default-crypto.jpg)

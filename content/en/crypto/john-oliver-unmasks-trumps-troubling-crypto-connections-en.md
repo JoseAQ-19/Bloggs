@@ -1,16 +1,21 @@
 ---
-title: "John Oliver Exposes Five Shocking Crypto Deals Tied to Trump’s Hidden Financial Empire"
-date: 2026-07-27T18:54:50
+canonical: https://novumworld.com/crypto/john-oliver-unmasks-trumps-troubling-crypto-connections-en/
+categories:
+- crypto
+date: 2026-07-27 18:54:50
+description: Discover John Oliver's deep dive into five alarming crypto deals linked
+  to Trump's concealed financial empire, revealing shocking truths and hidden.
 draft: false
-description: "Discover John Oliver's deep dive into five alarming crypto deals linked to Trump's concealed financial empire, revealing shocking truths and hidden."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "john-oliver-unmasks-trumps-troubling-crypto-connections-en"
-canonical: "https://novumworld.com/crypto/john-oliver-unmasks-trumps-troubling-crypto-connections-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "1c14cbea-55a8-77e1-09ce-3d734c509e77"
+featured_image: /images/john-oliver-unmasks-trumps-troubling-crypto-connections-en.webp
+image: /images/john-oliver-unmasks-trumps-troubling-crypto-connections-en.webp
+language: en
+slug: john-oliver-unmasks-trumps-troubling-crypto-connections-en
+tags:
+- Crypto & Web3
+title: John Oliver Exposes Five Shocking Crypto Deals Tied to Trump’s Hidden Financial
+  Empire
+translationKey: 1c14cbea-55a8-77e1-09ce-3d734c509e77
+type: crypto
 ---
 
 ![John Oliver Exposes Five Shocking Crypto Deals Tied to Trump’s Hidden Financial Empire](/images/defaults/default-crypto.jpg)

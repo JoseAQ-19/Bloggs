@@ -1,16 +1,20 @@
 ---
-title: "La Clave Oculta Detrás De La Resistencia De Bitcoin Y Ethereum Este Mes"
-date: 2026-06-26T16:26:15
+canonical: https://novumworld.com/es/crypto/bitcoin-y-ethereum-enfrentan-una-prueba-decisiva-podran-mantener-sus-precios-clave/
+categories:
+- crypto
+date: 2026-06-26 16:26:15
+description: Descubre los factores que han fortalecido a Bitcoin y Ethereum este mes.
+  Analiza las tendencias y secretos que impulsan su resistencia en el mercado.
 draft: false
-description: "Descubre los factores que han fortalecido a Bitcoin y Ethereum este mes. Analiza las tendencias y secretos que impulsan su resistencia en el mercado."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "bitcoin-y-ethereum-enfrentan-una-prueba-decisiva-podran-mantener-sus-precios-clave"
-canonical: "https://novumworld.com/es/crypto/bitcoin-y-ethereum-enfrentan-una-prueba-decisiva-podran-mantener-sus-precios-clave/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "99c420c8-72e7-4b50-a542-734e6a10e6b5"
+featured_image: /images/bitcoin-y-ethereum-enfrentan-una-prueba-decisiva-podran-mantener-sus-precios-clave.webp
+image: /images/bitcoin-y-ethereum-enfrentan-una-prueba-decisiva-podran-mantener-sus-precios-clave.webp
+language: es
+slug: bitcoin-y-ethereum-enfrentan-una-prueba-decisiva-podran-mantener-sus-precios-clave
+tags:
+- Crypto & Web3
+title: La Clave Oculta Detrás De La Resistencia De Bitcoin Y Ethereum Este Mes
+translationKey: 99c420c8-72e7-4b50-a542-734e6a10e6b5
+type: crypto
 ---
 
 ![La Clave Oculta Detrás De La Resistencia De Bitcoin Y Ethereum Este Mes](/images/defaults/default-crypto.jpg)

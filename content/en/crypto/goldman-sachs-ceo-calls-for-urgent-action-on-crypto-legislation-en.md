@@ -1,16 +1,21 @@
 ---
-title: "Goldman Sachs CEO Demands Urgent Action on Crypto Legislation: Are We Too Late?"
-date: 2026-07-23T18:46:20
+canonical: https://novumworld.com/crypto/goldman-sachs-ceo-calls-for-urgent-action-on-crypto-legislation-en/
+categories:
+- crypto
+date: 2026-07-23 18:46:20
+description: Goldman Sachs CEO calls for immediate crypto legislation action. Explore
+  the urgency and implications of potential delays in the evolving financial.
 draft: false
-description: "Goldman Sachs CEO calls for immediate crypto legislation action. Explore the urgency and implications of potential delays in the evolving financial."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "goldman-sachs-ceo-calls-for-urgent-action-on-crypto-legislation-en"
-canonical: "https://novumworld.com/crypto/goldman-sachs-ceo-calls-for-urgent-action-on-crypto-legislation-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "72d493d0-49fe-f458-7641-cde3a9518804"
+featured_image: /images/goldman-sachs-ceo-calls-for-urgent-action-on-crypto-legislation-en.webp
+image: /images/goldman-sachs-ceo-calls-for-urgent-action-on-crypto-legislation-en.webp
+language: en
+slug: goldman-sachs-ceo-calls-for-urgent-action-on-crypto-legislation-en
+tags:
+- Crypto & Web3
+title: 'Goldman Sachs CEO Demands Urgent Action on Crypto Legislation: Are We Too
+  Late?'
+translationKey: 72d493d0-49fe-f458-7641-cde3a9518804
+type: crypto
 ---
 
 ![Goldman Sachs CEO Demands Urgent Action on Crypto Legislation: Are We Too Late?](/images/defaults/default-crypto.jpg)

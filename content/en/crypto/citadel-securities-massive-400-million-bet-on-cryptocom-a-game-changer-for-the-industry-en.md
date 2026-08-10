@@ -1,16 +1,20 @@
 ---
-title: "Citadel Securities Just Placed a Shocking $400 Million Bet on Crypto.com"
-date: 2026-07-30T18:55:00
+canonical: https://novumworld.com/crypto/citadel-securities-massive-400-million-bet-on-cryptocom-a-game-changer-for-the-industry-en/
+categories:
+- crypto
+date: 2026-07-30 18:55:00
+description: Discover how Citadel Securities' surprising $400 million investment in
+  Crypto.com could reshape the future of cryptocurrency and trading dynamics.
 draft: false
-description: "Discover how Citadel Securities' surprising $400 million investment in Crypto.com could reshape the future of cryptocurrency and trading dynamics."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "citadel-securities-massive-400-million-bet-on-cryptocom-a-game-changer-for-the-industry-en"
-canonical: "https://novumworld.com/crypto/citadel-securities-massive-400-million-bet-on-cryptocom-a-game-changer-for-the-industry-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "193e0514-a88b-a3af-63ef-7415b4fd1335"
+featured_image: /images/citadel-securities-massive-400-million-bet-on-cryptocom-a-game-changer-for-the-industry-en.webp
+image: /images/citadel-securities-massive-400-million-bet-on-cryptocom-a-game-changer-for-the-industry-en.webp
+language: en
+slug: citadel-securities-massive-400-million-bet-on-cryptocom-a-game-changer-for-the-industry-en
+tags:
+- Crypto & Web3
+title: Citadel Securities Just Placed a Shocking $400 Million Bet on Crypto.com
+translationKey: 193e0514-a88b-a3af-63ef-7415b4fd1335
+type: crypto
 ---
 
 ![Citadel Securities Just Placed a Shocking $400 Million Bet on Crypto.com](/images/defaults/default-crypto.jpg)

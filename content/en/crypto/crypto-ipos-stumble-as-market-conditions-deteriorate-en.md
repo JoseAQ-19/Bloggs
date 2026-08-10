@@ -1,16 +1,20 @@
 ---
-title: "Crypto IPOs Plummet 40%: The Shocking Truth Behind Market Chaos"
-date: 2026-07-11T18:29:00
+canonical: https://novumworld.com/crypto/crypto-ipos-stumble-as-market-conditions-deteriorate-en/
+categories:
+- crypto
+date: 2026-07-11 18:29:00
+description: Discover why crypto IPOs have dropped 40% in a volatile market. Uncover
+  the shocking truths behind this turmoil and what it means for investors.
 draft: false
-description: "Discover why crypto IPOs have dropped 40% in a volatile market. Uncover the shocking truths behind this turmoil and what it means for investors."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "crypto-ipos-stumble-as-market-conditions-deteriorate-en"
-canonical: "https://novumworld.com/crypto/crypto-ipos-stumble-as-market-conditions-deteriorate-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "16e2a3ef-232f-ab12-2dc0-b3ae010feec7"
+featured_image: /images/crypto-ipos-stumble-as-market-conditions-deteriorate-en.webp
+image: /images/crypto-ipos-stumble-as-market-conditions-deteriorate-en.webp
+language: en
+slug: crypto-ipos-stumble-as-market-conditions-deteriorate-en
+tags:
+- Crypto & Web3
+title: 'Crypto IPOs Plummet 40%: The Shocking Truth Behind Market Chaos'
+translationKey: 16e2a3ef-232f-ab12-2dc0-b3ae010feec7
+type: crypto
 ---
 
 ![Crypto IPOs Plummet 40%: The Shocking Truth Behind Market Chaos](/images/defaults/default-crypto.jpg)

@@ -1,16 +1,21 @@
 ---
-title: "The Shocking Truth: Pennsylvania's Senate Backs Corporate Crypto Schemes Amid Public Outcry"
-date: 2026-06-30T18:06:32
+canonical: https://novumworld.com/crypto/pennsylvanians-rally-against-senate-endorsement-of-corporate-crypto-schemes-en/
+categories:
+- crypto
+date: 2026-06-30 18:06:32
+description: Discover the surprising support Pennsylvania's Senate shows for corporate
+  crypto schemes, despite growing public backlash and concerns over transparency.
 draft: false
-description: "Discover the surprising support Pennsylvania's Senate shows for corporate crypto schemes, despite growing public backlash and concerns over transparency."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "pennsylvanians-rally-against-senate-endorsement-of-corporate-crypto-schemes-en"
-canonical: "https://novumworld.com/crypto/pennsylvanians-rally-against-senate-endorsement-of-corporate-crypto-schemes-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "d8073b9d-856b-243e-0bfd-1ab23f878d75"
+featured_image: /images/pennsylvanians-rally-against-senate-endorsement-of-corporate-crypto-schemes-en.webp
+image: /images/pennsylvanians-rally-against-senate-endorsement-of-corporate-crypto-schemes-en.webp
+language: en
+slug: pennsylvanians-rally-against-senate-endorsement-of-corporate-crypto-schemes-en
+tags:
+- Crypto & Web3
+title: 'The Shocking Truth: Pennsylvania''s Senate Backs Corporate Crypto Schemes
+  Amid Public Outcry'
+translationKey: d8073b9d-856b-243e-0bfd-1ab23f878d75
+type: crypto
 ---
 
 ![The Shocking Truth: Pennsylvania's Senate Backs Corporate Crypto Schemes Amid Public Outcry](/images/defaults/default-crypto.jpg)

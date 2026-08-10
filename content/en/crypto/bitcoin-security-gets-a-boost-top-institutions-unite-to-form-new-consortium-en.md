@@ -1,16 +1,21 @@
 ---
-title: "Bitcoin Security Gets a Boost: Top Institutions Unite to Form New Consortium Analysis"
-date: 2026-08-02T18:50:54
+canonical: https://novumworld.com/crypto/bitcoin-security-gets-a-boost-top-institutions-unite-to-form-new-consortium-en/
+categories:
+- crypto
+date: 2026-08-02 18:50:54
+description: 'Bitcoin Security Gets a Boost: Top Institutions Unite to Form New Consortium
+  Analysis.'
 draft: false
-description: "Bitcoin Security Gets a Boost: Top Institutions Unite to Form New Consortium Analysis."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "bitcoin-security-gets-a-boost-top-institutions-unite-to-form-new-consortium-en"
-canonical: "https://novumworld.com/crypto/bitcoin-security-gets-a-boost-top-institutions-unite-to-form-new-consortium-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "cce43995-4d59-c71f-5fee-0b14dfb74907"
+featured_image: /images/bitcoin-security-gets-a-boost-top-institutions-unite-to-form-new-consortium-en.webp
+image: /images/bitcoin-security-gets-a-boost-top-institutions-unite-to-form-new-consortium-en.webp
+language: en
+slug: bitcoin-security-gets-a-boost-top-institutions-unite-to-form-new-consortium-en
+tags:
+- Crypto & Web3
+title: 'Bitcoin Security Gets a Boost: Top Institutions Unite to Form New Consortium
+  Analysis'
+translationKey: cce43995-4d59-c71f-5fee-0b14dfb74907
+type: crypto
 ---
 
 ![Bitcoin Security Gets a Boost: Top Institutions Unite to Form New Consortium Analysis](/images/defaults/default-crypto.jpg)

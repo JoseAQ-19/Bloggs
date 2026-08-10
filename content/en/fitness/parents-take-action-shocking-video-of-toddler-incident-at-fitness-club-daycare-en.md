@@ -1,16 +1,21 @@
 ---
-title: "Parents Take Action After Disturbing Video of Toddler Being Thrown at Daycare Emerges"
-date: 2026-07-09T09:00:10
+canonical: https://novumworld.com/fitness/parents-take-action-shocking-video-of-toddler-incident-at-fitness-club-daycare-en/
+categories:
+- fitness
+date: 2026-07-09 09:00:10
+description: Parents are rallying for change after a shocking video of a toddler being
+  thrown at daycare surfaces, sparking outrage and calls for accountability.
 draft: false
-description: "Parents are rallying for change after a shocking video of a toddler being thrown at daycare surfaces, sparking outrage and calls for accountability."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "parents-take-action-shocking-video-of-toddler-incident-at-fitness-club-daycare-en"
-canonical: "https://novumworld.com/fitness/parents-take-action-shocking-video-of-toddler-incident-at-fitness-club-daycare-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "aca906c8-46d6-5f6c-ff35-40e3b37cc51a"
+featured_image: /images/parents-take-action-shocking-video-of-toddler-incident-at-fitness-club-daycare-en.webp
+image: /images/parents-take-action-shocking-video-of-toddler-incident-at-fitness-club-daycare-en.webp
+language: en
+slug: parents-take-action-shocking-video-of-toddler-incident-at-fitness-club-daycare-en
+tags:
+- Biohacking & Fitness
+title: Parents Take Action After Disturbing Video of Toddler Being Thrown at Daycare
+  Emerges
+translationKey: aca906c8-46d6-5f6c-ff35-40e3b37cc51a
+type: fitness
 ---
 
 ![Parents Take Action After Disturbing Video of Toddler Being Thrown at Daycare Emerges](/images/defaults/default-fitness.jpg)

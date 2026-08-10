@@ -1,16 +1,20 @@
 ---
-title: "Los 7 Altcoins Que Podrían Hacerte Rico Antes de la Próxima Gran Carrera Cripto"
-date: 2026-07-14T17:02:06
+canonical: https://novumworld.com/es/crypto/los-altcoins-que-debes-acumular-antes-de-la-proxima-gran-carrera-de-criptomonedas/
+categories:
+- crypto
+date: 2026-07-14 17:02:06
+description: Descubre los 7 altcoins que tienen el potencial de multiplicar tu inversión
+  antes de la próxima gran carrera en el mundo cripto. ¡No te lo pierdas!.
 draft: false
-description: "Descubre los 7 altcoins que tienen el potencial de multiplicar tu inversión antes de la próxima gran carrera en el mundo cripto. ¡No te lo pierdas!."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "los-altcoins-que-debes-acumular-antes-de-la-proxima-gran-carrera-de-criptomonedas"
-canonical: "https://novumworld.com/es/crypto/los-altcoins-que-debes-acumular-antes-de-la-proxima-gran-carrera-de-criptomonedas/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "5f5b2201-f0a6-aa19-6021-df89de2ee8cd"
+featured_image: /images/los-altcoins-que-debes-acumular-antes-de-la-proxima-gran-carrera-de-criptomonedas.webp
+image: /images/los-altcoins-que-debes-acumular-antes-de-la-proxima-gran-carrera-de-criptomonedas.webp
+language: es
+slug: los-altcoins-que-debes-acumular-antes-de-la-proxima-gran-carrera-de-criptomonedas
+tags:
+- Crypto & Web3
+title: Los 7 Altcoins Que Podrían Hacerte Rico Antes de la Próxima Gran Carrera Cripto
+translationKey: 5f5b2201-f0a6-aa19-6021-df89de2ee8cd
+type: crypto
 ---
 
 ![Los 7 Altcoins Que Podrían Hacerte Rico Antes de la Próxima Gran Carrera Cripto](/images/defaults/default-crypto.jpg)

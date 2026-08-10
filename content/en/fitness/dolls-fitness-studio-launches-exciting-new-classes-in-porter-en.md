@@ -1,16 +1,20 @@
 ---
-title: "7 Reasons Dolls Fitness Studio’s New Classes Are Causing a Fitness Revolution"
-date: 2026-07-06T09:09:29
+canonical: https://novumworld.com/fitness/dolls-fitness-studio-launches-exciting-new-classes-in-porter-en/
+categories:
+- fitness
+date: 2026-07-06 09:09:29
+description: Discover how Dolls Fitness Studio's innovative new classes are transforming
+  workouts and inspiring a fitness revolution. Join the movement today!.
 draft: false
-description: "Discover how Dolls Fitness Studio's innovative new classes are transforming workouts and inspiring a fitness revolution. Join the movement today!."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "dolls-fitness-studio-launches-exciting-new-classes-in-porter-en"
-canonical: "https://novumworld.com/fitness/dolls-fitness-studio-launches-exciting-new-classes-in-porter-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "9d421181-0b87-4a78-ed92-c3dfb4ac9fd7"
+featured_image: /images/dolls-fitness-studio-launches-exciting-new-classes-in-porter-en.webp
+image: /images/dolls-fitness-studio-launches-exciting-new-classes-in-porter-en.webp
+language: en
+slug: dolls-fitness-studio-launches-exciting-new-classes-in-porter-en
+tags:
+- Biohacking & Fitness
+title: 7 Reasons Dolls Fitness Studio’s New Classes Are Causing a Fitness Revolution
+translationKey: 9d421181-0b87-4a78-ed92-c3dfb4ac9fd7
+type: fitness
 ---
 
 ![7 Reasons Dolls Fitness Studio’s New Classes Are Causing a Fitness Revolution](/images/defaults/default-fitness.jpg)

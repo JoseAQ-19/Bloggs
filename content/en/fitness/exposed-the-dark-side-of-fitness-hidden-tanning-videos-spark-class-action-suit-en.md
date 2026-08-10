@@ -1,16 +1,21 @@
 ---
-title: "Exposed: The Dark Side of Fitness - Hidden Tanning Videos Spark Class Action Suit Analysis"
-date: 2026-08-06T07:58:29
+canonical: https://novumworld.com/fitness/exposed-the-dark-side-of-fitness-hidden-tanning-videos-spark-class-action-suit-en/
+categories:
+- fitness
+date: 2026-08-06 07:58:29
+description: 'Exposed: The Dark Side of Fitness - Hidden Tanning Videos Spark Class
+  Action Suit Analysis.'
 draft: false
-description: "Exposed: The Dark Side of Fitness - Hidden Tanning Videos Spark Class Action Suit Analysis."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "exposed-the-dark-side-of-fitness-hidden-tanning-videos-spark-class-action-suit-en"
-canonical: "https://novumworld.com/fitness/exposed-the-dark-side-of-fitness-hidden-tanning-videos-spark-class-action-suit-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "b1610c0b-2dfd-27be-e0bd-c5af2bc24d5e"
+featured_image: /images/exposed-the-dark-side-of-fitness-hidden-tanning-videos-spark-class-action-suit-en.webp
+image: /images/exposed-the-dark-side-of-fitness-hidden-tanning-videos-spark-class-action-suit-en.webp
+language: en
+slug: exposed-the-dark-side-of-fitness-hidden-tanning-videos-spark-class-action-suit-en
+tags:
+- Biohacking & Fitness
+title: 'Exposed: The Dark Side of Fitness - Hidden Tanning Videos Spark Class Action
+  Suit Analysis'
+translationKey: b1610c0b-2dfd-27be-e0bd-c5af2bc24d5e
+type: fitness
 ---
 
 ![Exposed: The Dark Side of Fitness - Hidden Tanning Videos Spark Class Action Suit Analysis](/images/defaults/default-fitness.jpg)

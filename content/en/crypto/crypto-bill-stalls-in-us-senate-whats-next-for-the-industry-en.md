@@ -1,16 +1,19 @@
 ---
-title: "Crypto Bill Stalls in US Senate: What's Next for the Industry? Analysis"
-date: 2026-08-08T18:03:48
+canonical: https://novumworld.com/crypto/crypto-bill-stalls-in-us-senate-whats-next-for-the-industry-en/
+categories:
+- crypto
+date: 2026-08-08 18:03:48
+description: 'Crypto Bill Stalls in US Senate: What''s Next for the Industry? Analysis.'
 draft: false
-description: "Crypto Bill Stalls in US Senate: What's Next for the Industry? Analysis."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "crypto-bill-stalls-in-us-senate-whats-next-for-the-industry-en"
-canonical: "https://novumworld.com/crypto/crypto-bill-stalls-in-us-senate-whats-next-for-the-industry-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "4954f57e-016d-2ce3-78c7-7d2eb5e1ffea"
+featured_image: /images/crypto-bill-stalls-in-us-senate-whats-next-for-the-industry-en.webp
+image: /images/crypto-bill-stalls-in-us-senate-whats-next-for-the-industry-en.webp
+language: en
+slug: crypto-bill-stalls-in-us-senate-whats-next-for-the-industry-en
+tags:
+- Crypto & Web3
+title: 'Crypto Bill Stalls in US Senate: What''s Next for the Industry? Analysis'
+translationKey: 4954f57e-016d-2ce3-78c7-7d2eb5e1ffea
+type: crypto
 ---
 
 ![Crypto Bill Stalls in US Senate: What's Next for the Industry? Analysis](/images/defaults/default-crypto.jpg)

@@ -7,7 +7,8 @@ date: 2026-02-12 02:56:03
 description: Berachain's making waves in crypto due to its Proof-of-Liquidity consensus,
   but don't get blinded by the hype. Recent price surges lack a clear catalyst,...
 draft: false
-featured_image: /images/why-is-berachain-trending-today-in-crypto.jpg
+featured_image: /images/why-is-berachain-trending-today-in-crypto-en.webp
+image: /images/why-is-berachain-trending-today-in-crypto-en.webp
 language: en
 last_updated: '2026-04-04'
 quality_tier: fenix_v3_pro_sanitized

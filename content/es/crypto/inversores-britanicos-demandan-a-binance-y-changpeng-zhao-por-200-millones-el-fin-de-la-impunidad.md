@@ -1,16 +1,21 @@
 ---
-title: "Inversores Británicos Demandaron a Binance y Zhao por $200 Millones: El Fin de la Impunidad"
-date: 2026-07-01T16:28:26
+canonical: https://novumworld.com/es/crypto/inversores-britanicos-demandan-a-binance-y-changpeng-zhao-por-200-millones-el-fin-de-la-impunidad/
+categories:
+- crypto
+date: 2026-07-01 16:28:26
+description: Inversores británicos demandan a Binance y Zhao por $200 millones, marcando
+  un posible cambio en la regulación y la lucha contra la impunidad en cripto.
 draft: false
-description: "Inversores británicos demandan a Binance y Zhao por $200 millones, marcando un posible cambio en la regulación y la lucha contra la impunidad en cripto."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "inversores-britanicos-demandan-a-binance-y-changpeng-zhao-por-200-millones-el-fin-de-la-impunidad"
-canonical: "https://novumworld.com/es/crypto/inversores-britanicos-demandan-a-binance-y-changpeng-zhao-por-200-millones-el-fin-de-la-impunidad/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "673cda80-5afe-3ed2-b064-3f7db698392e"
+featured_image: /images/inversores-britanicos-demandan-a-binance-y-changpeng-zhao-por-200-millones-el-fin-de-la-impunidad.webp
+image: /images/inversores-britanicos-demandan-a-binance-y-changpeng-zhao-por-200-millones-el-fin-de-la-impunidad.webp
+language: es
+slug: inversores-britanicos-demandan-a-binance-y-changpeng-zhao-por-200-millones-el-fin-de-la-impunidad
+tags:
+- Crypto & Web3
+title: 'Inversores Británicos Demandaron a Binance y Zhao por $200 Millones: El Fin
+  de la Impunidad'
+translationKey: 673cda80-5afe-3ed2-b064-3f7db698392e
+type: crypto
 ---
 
 ![Inversores Británicos Demandaron a Binance y Zhao por $200 Millones: El Fin de la Impunidad](/images/defaults/default-crypto.jpg)

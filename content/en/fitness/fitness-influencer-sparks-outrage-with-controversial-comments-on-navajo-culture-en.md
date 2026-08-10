@@ -1,16 +1,21 @@
 ---
-title: "Fitness Influencer's Outrageous Remarks Ignite Backlash Against Navajo Culture and Heritage"
-date: 2026-07-08T07:44:27
+canonical: https://novumworld.com/fitness/fitness-influencer-sparks-outrage-with-controversial-comments-on-navajo-culture-en/
+categories:
+- fitness
+date: 2026-07-08 07:44:27
+description: Fitness influencer's controversial comments spark a heated backlash,
+  raising important discussions about respect for Navajo culture and heritage.
 draft: false
-description: "Fitness influencer's controversial comments spark a heated backlash, raising important discussions about respect for Navajo culture and heritage."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "fitness-influencer-sparks-outrage-with-controversial-comments-on-navajo-culture-en"
-canonical: "https://novumworld.com/fitness/fitness-influencer-sparks-outrage-with-controversial-comments-on-navajo-culture-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "b8492be3-f855-d07d-61cc-27d500263f41"
+featured_image: /images/fitness-influencer-sparks-outrage-with-controversial-comments-on-navajo-culture-en.webp
+image: /images/fitness-influencer-sparks-outrage-with-controversial-comments-on-navajo-culture-en.webp
+language: en
+slug: fitness-influencer-sparks-outrage-with-controversial-comments-on-navajo-culture-en
+tags:
+- Biohacking & Fitness
+title: Fitness Influencer's Outrageous Remarks Ignite Backlash Against Navajo Culture
+  and Heritage
+translationKey: b8492be3-f855-d07d-61cc-27d500263f41
+type: fitness
 ---
 
 ![Fitness Influencer's Outrageous Remarks Ignite Backlash Against Navajo Culture and Heritage](/images/defaults/default-fitness.jpg)

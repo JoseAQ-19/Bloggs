@@ -1,16 +1,21 @@
 ---
-title: "El Token CRO De Crypto.com Está En Mínimos Históricos: Una Oportunidad Perdida O Una Trampa."
-date: 2026-06-27T16:05:51
+canonical: https://novumworld.com/es/crypto/es-el-token-cro-de-cryptocom-una-oportunidad-oculta-o-una-trampa-en-sus-minimos-de-2026/
+categories:
+- crypto
+date: 2026-06-27 16:05:51
+description: Descubre si el token CRO de Crypto.com en mínimos históricos es una oportunidad
+  de inversión o una trampa. Analiza su futuro y toma decisiones informadas.
 draft: false
-description: "Descubre si el token CRO de Crypto.com en mínimos históricos es una oportunidad de inversión o una trampa. Analiza su futuro y toma decisiones informadas."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "es-el-token-cro-de-cryptocom-una-oportunidad-oculta-o-una-trampa-en-sus-minimos-de-2026"
-canonical: "https://novumworld.com/es/crypto/es-el-token-cro-de-cryptocom-una-oportunidad-oculta-o-una-trampa-en-sus-minimos-de-2026/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "297064de-3ff9-338a-e471-53d4000ab10d"
+featured_image: /images/es-el-token-cro-de-cryptocom-una-oportunidad-oculta-o-una-trampa-en-sus-minimos-de-2026.webp
+image: /images/es-el-token-cro-de-cryptocom-una-oportunidad-oculta-o-una-trampa-en-sus-minimos-de-2026.webp
+language: es
+slug: es-el-token-cro-de-cryptocom-una-oportunidad-oculta-o-una-trampa-en-sus-minimos-de-2026
+tags:
+- Crypto & Web3
+title: 'El Token CRO De Crypto.com Está En Mínimos Históricos: Una Oportunidad Perdida
+  O Una Trampa.'
+translationKey: 297064de-3ff9-338a-e471-53d4000ab10d
+type: crypto
 ---
 
 ![El Token CRO De Crypto.com Está En Mínimos Históricos: Una Oportunidad Perdida O Una Trampa.](/images/defaults/default-crypto.jpg)

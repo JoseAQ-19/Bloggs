@@ -1,16 +1,20 @@
 ---
-title: "Robinhood Just Laid Off 23% Of Its Staff: A Shocking Sign for Crypto Investors"
-date: 2026-06-27T17:49:31
+canonical: https://novumworld.com/crypto/robinhood-layoffs-a-stark-reflection-of-the-crypto-investment-landscape-en/
+categories:
+- crypto
+date: 2026-06-27 17:49:31
+description: Robinhood's recent layoff of 23% of its staff raises alarm bells for
+  crypto investors. Discover what this means for the future of digital currencies.
 draft: false
-description: "Robinhood's recent layoff of 23% of its staff raises alarm bells for crypto investors. Discover what this means for the future of digital currencies."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "robinhood-layoffs-a-stark-reflection-of-the-crypto-investment-landscape-en"
-canonical: "https://novumworld.com/crypto/robinhood-layoffs-a-stark-reflection-of-the-crypto-investment-landscape-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "1519840e-38ca-1d00-8e74-768d112e44e3"
+featured_image: /images/robinhood-layoffs-a-stark-reflection-of-the-crypto-investment-landscape-en.webp
+image: /images/robinhood-layoffs-a-stark-reflection-of-the-crypto-investment-landscape-en.webp
+language: en
+slug: robinhood-layoffs-a-stark-reflection-of-the-crypto-investment-landscape-en
+tags:
+- Crypto & Web3
+title: 'Robinhood Just Laid Off 23% Of Its Staff: A Shocking Sign for Crypto Investors'
+translationKey: 1519840e-38ca-1d00-8e74-768d112e44e3
+type: crypto
 ---
 
 ![Robinhood Just Laid Off 23% Of Its Staff: A Shocking Sign for Crypto Investors](/images/defaults/default-crypto.jpg)

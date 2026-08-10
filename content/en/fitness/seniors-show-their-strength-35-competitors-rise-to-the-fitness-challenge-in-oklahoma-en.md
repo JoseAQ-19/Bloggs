@@ -1,16 +1,21 @@
 ---
-title: "80-Year-Old Woman Holds Plank for Two Minutes: Meet the Fitness Heroes of Oklahoma"
-date: 2026-07-25T07:27:20
+canonical: https://novumworld.com/fitness/seniors-show-their-strength-35-competitors-rise-to-the-fitness-challenge-in-oklahoma-en/
+categories:
+- fitness
+date: 2026-07-25 07:27:20
+description: Discover the inspiring story of an 80-year-old woman who holds a two-minute
+  plank. Meet Oklahoma's fitness heroes and their incredible journeys to health.
 draft: false
-description: "Discover the inspiring story of an 80-year-old woman who holds a two-minute plank. Meet Oklahoma's fitness heroes and their incredible journeys to health."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "seniors-show-their-strength-35-competitors-rise-to-the-fitness-challenge-in-oklahoma-en"
-canonical: "https://novumworld.com/fitness/seniors-show-their-strength-35-competitors-rise-to-the-fitness-challenge-in-oklahoma-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "0d018a4b-bfdc-60d1-1c26-799732822c60"
+featured_image: /images/seniors-show-their-strength-35-competitors-rise-to-the-fitness-challenge-in-oklahoma-en.webp
+image: /images/seniors-show-their-strength-35-competitors-rise-to-the-fitness-challenge-in-oklahoma-en.webp
+language: en
+slug: seniors-show-their-strength-35-competitors-rise-to-the-fitness-challenge-in-oklahoma-en
+tags:
+- Biohacking & Fitness
+title: '80-Year-Old Woman Holds Plank for Two Minutes: Meet the Fitness Heroes of
+  Oklahoma'
+translationKey: 0d018a4b-bfdc-60d1-1c26-799732822c60
+type: fitness
 ---
 
 ![80-Year-Old Woman Holds Plank for Two Minutes: Meet the Fitness Heroes of Oklahoma](/images/defaults/default-fitness.jpg)

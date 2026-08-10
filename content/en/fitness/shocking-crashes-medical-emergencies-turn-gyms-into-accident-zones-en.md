@@ -1,16 +1,21 @@
 ---
-title: "Shocking Gym Disasters: 25 Medical Emergencies That Turned Fitness Centers into Danger Zones"
-date: 2026-07-07T08:45:49
+canonical: https://novumworld.com/fitness/shocking-crashes-medical-emergencies-turn-gyms-into-accident-zones-en/
+categories:
+- fitness
+date: 2026-07-07 08:45:49
+description: Discover 25 shocking gym disasters that transformed fitness centers into
+  danger zones. Learn about medical emergencies and how to stay safe while working.
 draft: false
-description: "Discover 25 shocking gym disasters that transformed fitness centers into danger zones. Learn about medical emergencies and how to stay safe while working."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "shocking-crashes-medical-emergencies-turn-gyms-into-accident-zones-en"
-canonical: "https://novumworld.com/fitness/shocking-crashes-medical-emergencies-turn-gyms-into-accident-zones-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "b8d44275-922a-064f-a19d-c8f4f7c79a0b"
+featured_image: /images/shocking-crashes-medical-emergencies-turn-gyms-into-accident-zones-en.webp
+image: /images/shocking-crashes-medical-emergencies-turn-gyms-into-accident-zones-en.webp
+language: en
+slug: shocking-crashes-medical-emergencies-turn-gyms-into-accident-zones-en
+tags:
+- Biohacking & Fitness
+title: 'Shocking Gym Disasters: 25 Medical Emergencies That Turned Fitness Centers
+  into Danger Zones'
+translationKey: b8d44275-922a-064f-a19d-c8f4f7c79a0b
+type: fitness
 ---
 
 ![Shocking Gym Disasters: 25 Medical Emergencies That Turned Fitness Centers into Danger Zones](/images/defaults/default-fitness.jpg)

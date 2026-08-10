@@ -1,16 +1,20 @@
 ---
-title: "Brian Armstrong Revela La Verdadera Razón Detrás Del Cambio A La IA"
-date: 2026-07-27T17:37:03
+canonical: https://novumworld.com/es/crypto/brian-armstrong-es-el-cambio-de-cripto-a-ia-una-mentalidad-de-escasez/
+categories:
+- crypto
+date: 2026-07-27 17:37:03
+description: Brian Armstrong explica por qué la inteligencia artificial está transformando
+  el futuro de las criptomonedas y cómo impactará en el mercado global.
 draft: false
-description: "Brian Armstrong explica por qué la inteligencia artificial está transformando el futuro de las criptomonedas y cómo impactará en el mercado global."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "brian-armstrong-es-el-cambio-de-cripto-a-ia-una-mentalidad-de-escasez"
-canonical: "https://novumworld.com/es/crypto/brian-armstrong-es-el-cambio-de-cripto-a-ia-una-mentalidad-de-escasez/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "c8031a03-f835-3c98-b478-10dc139e8c2d"
+featured_image: /images/brian-armstrong-es-el-cambio-de-cripto-a-ia-una-mentalidad-de-escasez.webp
+image: /images/brian-armstrong-es-el-cambio-de-cripto-a-ia-una-mentalidad-de-escasez.webp
+language: es
+slug: brian-armstrong-es-el-cambio-de-cripto-a-ia-una-mentalidad-de-escasez
+tags:
+- Crypto & Web3
+title: Brian Armstrong Revela La Verdadera Razón Detrás Del Cambio A La IA
+translationKey: c8031a03-f835-3c98-b478-10dc139e8c2d
+type: crypto
 ---
 
 ![Brian Armstrong Revela La Verdadera Razón Detrás Del Cambio A La IA](/images/defaults/default-crypto.jpg)

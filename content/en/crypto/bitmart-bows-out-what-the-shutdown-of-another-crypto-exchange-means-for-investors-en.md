@@ -1,16 +1,20 @@
 ---
-title: "BitMart Bows Out: How This 1 Exchange Collapse Will Impact Thousands of Investors"
-date: 2026-07-26T17:13:29
+canonical: https://novumworld.com/crypto/bitmart-bows-out-what-the-shutdown-of-another-crypto-exchange-means-for-investors-en/
+categories:
+- crypto
+date: 2026-07-26 17:13:29
+description: Discover the fallout from BitMart's collapse and how it affects thousands
+  of investors. Uncover the implications and lessons from this major exchange.
 draft: false
-description: "Discover the fallout from BitMart's collapse and how it affects thousands of investors. Uncover the implications and lessons from this major exchange."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "bitmart-bows-out-what-the-shutdown-of-another-crypto-exchange-means-for-investors-en"
-canonical: "https://novumworld.com/crypto/bitmart-bows-out-what-the-shutdown-of-another-crypto-exchange-means-for-investors-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "b9f3deaa-48d8-f1f0-2f8a-0c7acd1ebb4d"
+featured_image: /images/bitmart-bows-out-what-the-shutdown-of-another-crypto-exchange-means-for-investors-en.webp
+image: /images/bitmart-bows-out-what-the-shutdown-of-another-crypto-exchange-means-for-investors-en.webp
+language: en
+slug: bitmart-bows-out-what-the-shutdown-of-another-crypto-exchange-means-for-investors-en
+tags:
+- Crypto & Web3
+title: 'BitMart Bows Out: How This 1 Exchange Collapse Will Impact Thousands of Investors'
+translationKey: b9f3deaa-48d8-f1f0-2f8a-0c7acd1ebb4d
+type: crypto
 ---
 
 ![BitMart Bows Out: How This 1 Exchange Collapse Will Impact Thousands of Investors](/images/defaults/default-crypto.jpg)

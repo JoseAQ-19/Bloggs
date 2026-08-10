@@ -1,16 +1,21 @@
 ---
-title: "La SEC Está Lista Para Transformar el Mercado Cripto: 5 Cambios Que Nadie Espera"
-date: 2026-07-07T17:54:10
+canonical: https://novumworld.com/es/crypto/la-sec-de-ee-uu-esta-lista-para-revolucionar-el-mundo-cripto-con-nuevas-regulaciones-este-mes/
+categories:
+- crypto
+date: 2026-07-07 17:54:10
+description: Descubre cómo la SEC planea revolucionar el mercado cripto con 5 cambios
+  inesperados que impactarán a inversores y empresas. ¡Infórmate aquí!.
 draft: false
-description: "Descubre cómo la SEC planea revolucionar el mercado cripto con 5 cambios inesperados que impactarán a inversores y empresas. ¡Infórmate aquí!."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "la-sec-de-ee-uu-esta-lista-para-revolucionar-el-mundo-cripto-con-nuevas-regulaciones-este-mes"
-canonical: "https://novumworld.com/es/crypto/la-sec-de-ee-uu-esta-lista-para-revolucionar-el-mundo-cripto-con-nuevas-regulaciones-este-mes/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "99c0ca41-ea53-93cc-50e2-509572a3c072"
+featured_image: /images/la-sec-de-ee-uu-esta-lista-para-revolucionar-el-mundo-cripto-con-nuevas-regulaciones-este-mes.webp
+image: /images/la-sec-de-ee-uu-esta-lista-para-revolucionar-el-mundo-cripto-con-nuevas-regulaciones-este-mes.webp
+language: es
+slug: la-sec-de-ee-uu-esta-lista-para-revolucionar-el-mundo-cripto-con-nuevas-regulaciones-este-mes
+tags:
+- Crypto & Web3
+title: 'La SEC Está Lista Para Transformar el Mercado Cripto: 5 Cambios Que Nadie
+  Espera'
+translationKey: 99c0ca41-ea53-93cc-50e2-509572a3c072
+type: crypto
 ---
 
 ![La SEC Está Lista Para Transformar el Mercado Cripto: 5 Cambios Que Nadie Espera](/images/defaults/default-crypto.jpg)

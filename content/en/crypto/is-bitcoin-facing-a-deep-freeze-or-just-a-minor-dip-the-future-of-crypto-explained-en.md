@@ -1,16 +1,20 @@
 ---
-title: "Bitcoin Plummets 30% Overnight: The Shocking Truth Behind This Crypto Collapse"
-date: 2026-07-27T17:55:08
+canonical: https://novumworld.com/crypto/is-bitcoin-facing-a-deep-freeze-or-just-a-minor-dip-the-future-of-crypto-explained-en/
+categories:
+- crypto
+date: 2026-07-27 17:55:08
+description: Bitcoin's dramatic 30% drop overnight has left investors reeling. Discover
+  the shocking factors behind this crypto collapse and what it means for the.
 draft: false
-description: "Bitcoin's dramatic 30% drop overnight has left investors reeling. Discover the shocking factors behind this crypto collapse and what it means for the."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "is-bitcoin-facing-a-deep-freeze-or-just-a-minor-dip-the-future-of-crypto-explained-en"
-canonical: "https://novumworld.com/crypto/is-bitcoin-facing-a-deep-freeze-or-just-a-minor-dip-the-future-of-crypto-explained-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "4f319d32-fca5-3ac6-69f0-2c7125cc51d0"
+featured_image: /images/is-bitcoin-facing-a-deep-freeze-or-just-a-minor-dip-the-future-of-crypto-explained-en.webp
+image: /images/is-bitcoin-facing-a-deep-freeze-or-just-a-minor-dip-the-future-of-crypto-explained-en.webp
+language: en
+slug: is-bitcoin-facing-a-deep-freeze-or-just-a-minor-dip-the-future-of-crypto-explained-en
+tags:
+- Crypto & Web3
+title: 'Bitcoin Plummets 30% Overnight: The Shocking Truth Behind This Crypto Collapse'
+translationKey: 4f319d32-fca5-3ac6-69f0-2c7125cc51d0
+type: crypto
 ---
 
 ![Bitcoin Plummets 30% Overnight: The Shocking Truth Behind This Crypto Collapse](/images/defaults/default-crypto.jpg)

@@ -1,16 +1,20 @@
 ---
-title: "Ohio BCI Recovers $500K from Crypto Scams: A Major Win for Victims"
-date: 2026-06-25T16:53:06
+canonical: https://novumworld.com/crypto/ohio-bci-recovers-over-500k-from-crypto-scams-a-win-for-victims-en/
+categories:
+- crypto
+date: 2026-06-25 16:53:06
+description: Ohio BCI secures $500K from crypto scams, marking a significant victory
+  for victims. Discover how justice prevails in the fight against fraud.
 draft: false
-description: "Ohio BCI secures $500K from crypto scams, marking a significant victory for victims. Discover how justice prevails in the fight against fraud."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "ohio-bci-recovers-over-500k-from-crypto-scams-a-win-for-victims-en"
-canonical: "https://novumworld.com/crypto/ohio-bci-recovers-over-500k-from-crypto-scams-a-win-for-victims-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "ff2b68ed-1b53-83b0-ba25-483d556ef7f8"
+featured_image: /images/ohio-bci-recovers-over-500k-from-crypto-scams-a-win-for-victims-en.webp
+image: /images/ohio-bci-recovers-over-500k-from-crypto-scams-a-win-for-victims-en.webp
+language: en
+slug: ohio-bci-recovers-over-500k-from-crypto-scams-a-win-for-victims-en
+tags:
+- Crypto & Web3
+title: 'Ohio BCI Recovers $500K from Crypto Scams: A Major Win for Victims'
+translationKey: ff2b68ed-1b53-83b0-ba25-483d556ef7f8
+type: crypto
 ---
 
 ![Ohio BCI Recovers $500K from Crypto Scams: A Major Win for Victims](/images/defaults/default-crypto.jpg)

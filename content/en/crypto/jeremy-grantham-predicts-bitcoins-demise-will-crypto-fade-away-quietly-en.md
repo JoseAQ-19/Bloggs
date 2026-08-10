@@ -1,16 +1,21 @@
 ---
-title: "Jeremy Grantham’s Stark Prediction: Bitcoin Will Dwindle Away With A Whimper Over Decades"
-date: 2026-06-27T16:48:17
+canonical: https://novumworld.com/crypto/jeremy-grantham-predicts-bitcoins-demise-will-crypto-fade-away-quietly-en/
+categories:
+- crypto
+date: 2026-06-27 16:48:17
+description: Discover Jeremy Grantham's bold prediction on Bitcoin's future decline,
+  exploring why he believes it will fade away quietly over the coming decades.
 draft: false
-description: "Discover Jeremy Grantham's bold prediction on Bitcoin's future decline, exploring why he believes it will fade away quietly over the coming decades."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "jeremy-grantham-predicts-bitcoins-demise-will-crypto-fade-away-quietly-en"
-canonical: "https://novumworld.com/crypto/jeremy-grantham-predicts-bitcoins-demise-will-crypto-fade-away-quietly-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "3e202046-9802-fa41-aae8-4300ad2b2717"
+featured_image: /images/jeremy-grantham-predicts-bitcoins-demise-will-crypto-fade-away-quietly-en.webp
+image: /images/jeremy-grantham-predicts-bitcoins-demise-will-crypto-fade-away-quietly-en.webp
+language: en
+slug: jeremy-grantham-predicts-bitcoins-demise-will-crypto-fade-away-quietly-en
+tags:
+- Crypto & Web3
+title: 'Jeremy Grantham’s Stark Prediction: Bitcoin Will Dwindle Away With A Whimper
+  Over Decades'
+translationKey: 3e202046-9802-fa41-aae8-4300ad2b2717
+type: crypto
 ---
 
 ![Jeremy Grantham’s Stark Prediction: Bitcoin Will Dwindle Away With A Whimper Over Decades](/images/defaults/default-crypto.jpg)

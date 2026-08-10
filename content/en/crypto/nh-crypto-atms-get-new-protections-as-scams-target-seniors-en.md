@@ -1,16 +1,20 @@
 ---
-title: "New Protections For NH Crypto ATMs As Scams Target Seniors With $40,000 Losses"
-date: 2026-06-26T16:58:05
+canonical: https://novumworld.com/crypto/nh-crypto-atms-get-new-protections-as-scams-target-seniors-en/
+categories:
+- crypto
+date: 2026-06-26 16:58:05
+description: Discover new protections for NH crypto ATMs as scams hit seniors hard,
+  leading to staggering losses of $40,000. Stay informed and safeguard your finances.
 draft: false
-description: "Discover new protections for NH crypto ATMs as scams hit seniors hard, leading to staggering losses of $40,000. Stay informed and safeguard your finances."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "nh-crypto-atms-get-new-protections-as-scams-target-seniors-en"
-canonical: "https://novumworld.com/crypto/nh-crypto-atms-get-new-protections-as-scams-target-seniors-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "c669be51-86e0-f26e-8c66-70648f23bbf9"
+featured_image: /images/nh-crypto-atms-get-new-protections-as-scams-target-seniors-en.webp
+image: /images/nh-crypto-atms-get-new-protections-as-scams-target-seniors-en.webp
+language: en
+slug: nh-crypto-atms-get-new-protections-as-scams-target-seniors-en
+tags:
+- Crypto & Web3
+title: New Protections For NH Crypto ATMs As Scams Target Seniors With $40,000 Losses
+translationKey: c669be51-86e0-f26e-8c66-70648f23bbf9
+type: crypto
 ---
 
 ![New Protections For NH Crypto ATMs As Scams Target Seniors With $40,000 Losses](/images/defaults/default-crypto.jpg)

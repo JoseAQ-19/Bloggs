@@ -1,16 +1,20 @@
 ---
-title: "VEYR Just Secured £1 Million: The AI Fitness App That Will Change Everything"
-date: 2026-07-27T08:49:53
+canonical: https://novumworld.com/fitness/meet-veyr-the-ai-fitness-app-revolutionizing-personalized-training-with-1-million-funding-en/
+categories:
+- fitness
+date: 2026-07-27 08:49:53
+description: VEYR has raised £1 million to revolutionize fitness with its innovative
+  AI app. Discover how this technology is set to transform your workout experience.
 draft: false
-description: "VEYR has raised £1 million to revolutionize fitness with its innovative AI app. Discover how this technology is set to transform your workout experience."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "meet-veyr-the-ai-fitness-app-revolutionizing-personalized-training-with-1-million-funding-en"
-canonical: "https://novumworld.com/fitness/meet-veyr-the-ai-fitness-app-revolutionizing-personalized-training-with-1-million-funding-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "d64e72b0-15d6-9fd1-1c5f-276db5c72385"
+featured_image: /images/meet-veyr-the-ai-fitness-app-revolutionizing-personalized-training-with-1-million-funding-en.webp
+image: /images/meet-veyr-the-ai-fitness-app-revolutionizing-personalized-training-with-1-million-funding-en.webp
+language: en
+slug: meet-veyr-the-ai-fitness-app-revolutionizing-personalized-training-with-1-million-funding-en
+tags:
+- Biohacking & Fitness
+title: 'VEYR Just Secured £1 Million: The AI Fitness App That Will Change Everything'
+translationKey: d64e72b0-15d6-9fd1-1c5f-276db5c72385
+type: fitness
 ---
 
 ![VEYR Just Secured £1 Million: The AI Fitness App That Will Change Everything](/images/defaults/default-fitness.jpg)

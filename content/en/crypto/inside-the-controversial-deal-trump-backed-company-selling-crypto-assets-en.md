@@ -1,16 +1,21 @@
 ---
-title: "Inside The $500 Million Controversy: Trump’s Crypto Firm and Emirati Royal Family Ties"
-date: 2026-07-08T19:06:46
+canonical: https://novumworld.com/crypto/inside-the-controversial-deal-trump-backed-company-selling-crypto-assets-en/
+categories:
+- crypto
+date: 2026-07-08 19:06:46
+description: Explore the $500 million controversy surrounding Trump's crypto firm
+  and its connections to the Emirati royal family. Uncover the details now!.
 draft: false
-description: "Explore the $500 million controversy surrounding Trump's crypto firm and its connections to the Emirati royal family. Uncover the details now!."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "inside-the-controversial-deal-trump-backed-company-selling-crypto-assets-en"
-canonical: "https://novumworld.com/crypto/inside-the-controversial-deal-trump-backed-company-selling-crypto-assets-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "94138527-1248-175c-64ba-e5502e459d7f"
+featured_image: /images/inside-the-controversial-deal-trump-backed-company-selling-crypto-assets-en.webp
+image: /images/inside-the-controversial-deal-trump-backed-company-selling-crypto-assets-en.webp
+language: en
+slug: inside-the-controversial-deal-trump-backed-company-selling-crypto-assets-en
+tags:
+- Crypto & Web3
+title: 'Inside The $500 Million Controversy: Trump’s Crypto Firm and Emirati Royal
+  Family Ties'
+translationKey: 94138527-1248-175c-64ba-e5502e459d7f
+type: crypto
 ---
 
 ![Inside The $500 Million Controversy: Trump’s Crypto Firm and Emirati Royal Family Ties](/images/defaults/default-crypto.jpg)

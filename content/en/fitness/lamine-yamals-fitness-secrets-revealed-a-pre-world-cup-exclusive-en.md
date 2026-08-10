@@ -1,16 +1,20 @@
 ---
-title: "Lamine Yamal's Shocking Fitness Secrets That Could Change Football Forever"
-date: 2026-07-05T08:28:42
+canonical: https://novumworld.com/fitness/lamine-yamals-fitness-secrets-revealed-a-pre-world-cup-exclusive-en/
+categories:
+- fitness
+date: 2026-07-05 08:28:42
+description: Discover Lamine Yamal's groundbreaking fitness secrets that are revolutionizing
+  football. Unlock performance tips that could transform the game forever!.
 draft: false
-description: "Discover Lamine Yamal's groundbreaking fitness secrets that are revolutionizing football. Unlock performance tips that could transform the game forever!."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "lamine-yamals-fitness-secrets-revealed-a-pre-world-cup-exclusive-en"
-canonical: "https://novumworld.com/fitness/lamine-yamals-fitness-secrets-revealed-a-pre-world-cup-exclusive-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "18ea7d09-60ff-5199-8b3f-89d2b55854ff"
+featured_image: /images/lamine-yamals-fitness-secrets-revealed-a-pre-world-cup-exclusive-en.webp
+image: /images/lamine-yamals-fitness-secrets-revealed-a-pre-world-cup-exclusive-en.webp
+language: en
+slug: lamine-yamals-fitness-secrets-revealed-a-pre-world-cup-exclusive-en
+tags:
+- Biohacking & Fitness
+title: Lamine Yamal's Shocking Fitness Secrets That Could Change Football Forever
+translationKey: 18ea7d09-60ff-5199-8b3f-89d2b55854ff
+type: fitness
 ---
 
 ![Lamine Yamal's Shocking Fitness Secrets That Could Change Football Forever](/images/defaults/default-fitness.jpg)

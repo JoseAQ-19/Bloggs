@@ -1,16 +1,20 @@
 ---
-title: "Trump’s Crypto Windfall: 5 Shocking Ways It Disrupted Digital Currency Markets"
-date: 2026-07-03T18:44:22
+canonical: https://novumworld.com/crypto/the-crypto-president-how-trumps-windfall-shook-the-digital-currency-landscape-en/
+categories:
+- crypto
+date: 2026-07-03 18:44:22
+description: Discover how Trump's crypto windfall transformed digital currency markets
+  with five shocking impacts that reshaped the landscape of cryptocurrency trading.
 draft: false
-description: "Discover how Trump's crypto windfall transformed digital currency markets with five shocking impacts that reshaped the landscape of cryptocurrency trading."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "the-crypto-president-how-trumps-windfall-shook-the-digital-currency-landscape-en"
-canonical: "https://novumworld.com/crypto/the-crypto-president-how-trumps-windfall-shook-the-digital-currency-landscape-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "ea95d95f-9b74-0a01-277e-50aea8851617"
+featured_image: /images/the-crypto-president-how-trumps-windfall-shook-the-digital-currency-landscape-en.webp
+image: /images/the-crypto-president-how-trumps-windfall-shook-the-digital-currency-landscape-en.webp
+language: en
+slug: the-crypto-president-how-trumps-windfall-shook-the-digital-currency-landscape-en
+tags:
+- Crypto & Web3
+title: 'Trump’s Crypto Windfall: 5 Shocking Ways It Disrupted Digital Currency Markets'
+translationKey: ea95d95f-9b74-0a01-277e-50aea8851617
+type: crypto
 ---
 
 ![Trump’s Crypto Windfall: 5 Shocking Ways It Disrupted Digital Currency Markets](/images/defaults/default-crypto.jpg)

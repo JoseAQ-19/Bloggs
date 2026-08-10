@@ -1,16 +1,20 @@
 ---
-title: "Crypto's Brain Drain: 3 Major Meta AI Departures That Shocked The Industry"
-date: 2026-07-18T18:28:12
+canonical: https://novumworld.com/crypto/cryptos-brain-drain-why-top-talent-is-jumping-ship-to-ai-en/
+categories:
+- crypto
+date: 2026-07-18 18:28:12
+description: Explore the surprising departures of key AI talent in crypto, revealing
+  the impact on innovation and the future of the industry in this insightful.
 draft: false
-description: "Explore the surprising departures of key AI talent in crypto, revealing the impact on innovation and the future of the industry in this insightful."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "cryptos-brain-drain-why-top-talent-is-jumping-ship-to-ai-en"
-canonical: "https://novumworld.com/crypto/cryptos-brain-drain-why-top-talent-is-jumping-ship-to-ai-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "edf681e9-79ba-6c37-f8e9-5966447354be"
+featured_image: /images/cryptos-brain-drain-why-top-talent-is-jumping-ship-to-ai-en.webp
+image: /images/cryptos-brain-drain-why-top-talent-is-jumping-ship-to-ai-en.webp
+language: en
+slug: cryptos-brain-drain-why-top-talent-is-jumping-ship-to-ai-en
+tags:
+- Crypto & Web3
+title: 'Crypto''s Brain Drain: 3 Major Meta AI Departures That Shocked The Industry'
+translationKey: edf681e9-79ba-6c37-f8e9-5966447354be
+type: crypto
 ---
 
 ![Crypto's Brain Drain: 3 Major Meta AI Departures That Shocked The Industry](/images/defaults/default-crypto.jpg)

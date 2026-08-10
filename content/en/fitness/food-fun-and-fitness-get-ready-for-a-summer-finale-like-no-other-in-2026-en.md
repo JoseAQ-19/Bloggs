@@ -1,16 +1,20 @@
 ---
-title: "Why The 2026 FIFA World Cup Will Change Atlanta's Summer Forever"
-date: 2026-07-23T07:52:15
+canonical: https://novumworld.com/fitness/food-fun-and-fitness-get-ready-for-a-summer-finale-like-no-other-in-2026-en/
+categories:
+- fitness
+date: 2026-07-23 07:52:15
+description: Discover how the 2026 FIFA World Cup will transform Atlanta's summer,
+  boosting tourism, culture, and local economy like never before. Join the excitement!.
 draft: false
-description: "Discover how the 2026 FIFA World Cup will transform Atlanta's summer, boosting tourism, culture, and local economy like never before. Join the excitement!."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "food-fun-and-fitness-get-ready-for-a-summer-finale-like-no-other-in-2026-en"
-canonical: "https://novumworld.com/fitness/food-fun-and-fitness-get-ready-for-a-summer-finale-like-no-other-in-2026-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "c953a998-87ad-93aa-f4f3-6185731c2d55"
+featured_image: /images/food-fun-and-fitness-get-ready-for-a-summer-finale-like-no-other-in-2026-en.webp
+image: /images/food-fun-and-fitness-get-ready-for-a-summer-finale-like-no-other-in-2026-en.webp
+language: en
+slug: food-fun-and-fitness-get-ready-for-a-summer-finale-like-no-other-in-2026-en
+tags:
+- Biohacking & Fitness
+title: Why The 2026 FIFA World Cup Will Change Atlanta's Summer Forever
+translationKey: c953a998-87ad-93aa-f4f3-6185731c2d55
+type: fitness
 ---
 
 ![Why The 2026 FIFA World Cup Will Change Atlanta's Summer Forever](/images/defaults/default-fitness.jpg)

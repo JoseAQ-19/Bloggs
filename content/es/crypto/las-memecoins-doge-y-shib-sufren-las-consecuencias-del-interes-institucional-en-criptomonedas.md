@@ -1,16 +1,21 @@
 ---
-title: "El Hundimiento De DOGE Y SHIB: Cómo El Interés Institucional Destruye Las Memecoins"
-date: 2026-07-24T17:24:46
+canonical: https://novumworld.com/es/crypto/las-memecoins-doge-y-shib-sufren-las-consecuencias-del-interes-institucional-en-criptomonedas/
+categories:
+- crypto
+date: 2026-07-24 17:24:46
+description: Descubre cómo el interés institucional está afectando a DOGE y SHIB,
+  y por qué las memecoins enfrentan un futuro incierto en el mercado.
 draft: false
-description: "Descubre cómo el interés institucional está afectando a DOGE y SHIB, y por qué las memecoins enfrentan un futuro incierto en el mercado."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "las-memecoins-doge-y-shib-sufren-las-consecuencias-del-interes-institucional-en-criptomonedas"
-canonical: "https://novumworld.com/es/crypto/las-memecoins-doge-y-shib-sufren-las-consecuencias-del-interes-institucional-en-criptomonedas/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "a6d54f63-5f22-9713-b280-c751aacf9a05"
+featured_image: /images/las-memecoins-doge-y-shib-sufren-las-consecuencias-del-interes-institucional-en-criptomonedas.webp
+image: /images/las-memecoins-doge-y-shib-sufren-las-consecuencias-del-interes-institucional-en-criptomonedas.webp
+language: es
+slug: las-memecoins-doge-y-shib-sufren-las-consecuencias-del-interes-institucional-en-criptomonedas
+tags:
+- Crypto & Web3
+title: 'El Hundimiento De DOGE Y SHIB: Cómo El Interés Institucional Destruye Las
+  Memecoins'
+translationKey: a6d54f63-5f22-9713-b280-c751aacf9a05
+type: crypto
 ---
 
 ![El Hundimiento De DOGE Y SHIB: Cómo El Interés Institucional Destruye Las Memecoins](/images/defaults/default-crypto.jpg)

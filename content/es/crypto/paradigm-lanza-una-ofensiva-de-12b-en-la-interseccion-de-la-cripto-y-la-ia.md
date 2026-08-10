@@ -1,16 +1,20 @@
 ---
-title: "La Jugada Maestra De Paradigm: $1.2B En Cripto Y IA Que Nadie Esperaba"
-date: 2026-07-09T17:54:19
+canonical: https://novumworld.com/es/crypto/paradigm-lanza-una-ofensiva-de-12b-en-la-interseccion-de-la-cripto-y-la-ia/
+categories:
+- crypto
+date: 2026-07-09 17:54:19
+description: Descubre cómo Paradigm sorprendió al mundo al invertir $1.2B en cripto
+  y IA. Analiza su estrategia y el impacto en el futuro de la tecnología.
 draft: false
-description: "Descubre cómo Paradigm sorprendió al mundo al invertir $1.2B en cripto y IA. Analiza su estrategia y el impacto en el futuro de la tecnología."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "paradigm-lanza-una-ofensiva-de-12b-en-la-interseccion-de-la-cripto-y-la-ia"
-canonical: "https://novumworld.com/es/crypto/paradigm-lanza-una-ofensiva-de-12b-en-la-interseccion-de-la-cripto-y-la-ia/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "c72cf09c-99cb-e3db-a368-947e96daa0b3"
+featured_image: /images/paradigm-lanza-una-ofensiva-de-12b-en-la-interseccion-de-la-cripto-y-la-ia.webp
+image: /images/paradigm-lanza-una-ofensiva-de-12b-en-la-interseccion-de-la-cripto-y-la-ia.webp
+language: es
+slug: paradigm-lanza-una-ofensiva-de-12b-en-la-interseccion-de-la-cripto-y-la-ia
+tags:
+- Crypto & Web3
+title: 'La Jugada Maestra De Paradigm: $1.2B En Cripto Y IA Que Nadie Esperaba'
+translationKey: c72cf09c-99cb-e3db-a368-947e96daa0b3
+type: crypto
 ---
 
 ![La Jugada Maestra De Paradigm: $1.2B En Cripto Y IA Que Nadie Esperaba](/images/defaults/default-crypto.jpg)

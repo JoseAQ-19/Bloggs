@@ -1,16 +1,20 @@
 ---
-title: "Inside The $19 Million Fitness Revolution Transforming Hoover's Community Dynamics"
-date: 2026-06-26T06:54:51
+canonical: https://novumworld.com/fitness/19-million-fitness-center-opening-in-hoover-what-it-means-for-the-community-en/
+categories:
+- fitness
+date: 2026-06-26 06:54:51
+description: Explore how a $19 million fitness initiative is reshaping Hoover's community
+  dynamics, promoting health, wellness, and social connections for all.
 draft: false
-description: "Explore how a $19 million fitness initiative is reshaping Hoover's community dynamics, promoting health, wellness, and social connections for all."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "19-million-fitness-center-opening-in-hoover-what-it-means-for-the-community-en"
-canonical: "https://novumworld.com/fitness/19-million-fitness-center-opening-in-hoover-what-it-means-for-the-community-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "aa26f13b-4aa9-9b2c-5f1f-254bc17f8e80"
+featured_image: /images/19-million-fitness-center-opening-in-hoover-what-it-means-for-the-community-en.webp
+image: /images/19-million-fitness-center-opening-in-hoover-what-it-means-for-the-community-en.webp
+language: en
+slug: 19-million-fitness-center-opening-in-hoover-what-it-means-for-the-community-en
+tags:
+- Biohacking & Fitness
+title: Inside The $19 Million Fitness Revolution Transforming Hoover's Community Dynamics
+translationKey: aa26f13b-4aa9-9b2c-5f1f-254bc17f8e80
+type: fitness
 ---
 
 ![Inside The $19 Million Fitness Revolution Transforming Hoover's Community Dynamics](/images/defaults/default-fitness.jpg)

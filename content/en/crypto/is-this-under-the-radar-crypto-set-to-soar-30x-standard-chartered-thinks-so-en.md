@@ -1,16 +1,21 @@
 ---
-title: "Standard Chartered Just Predicted 30x Gains for This Unknown Crypto and Nobody Noticed"
-date: 2026-06-26T18:09:48
+canonical: https://novumworld.com/crypto/is-this-under-the-radar-crypto-set-to-soar-30x-standard-chartered-thinks-so-en/
+categories:
+- crypto
+date: 2026-06-26 18:09:48
+description: Discover why Standard Chartered's bold prediction of 30x gains for an
+  overlooked crypto is making waves. Don't miss out on this hidden opportunity!.
 draft: false
-description: "Discover why Standard Chartered's bold prediction of 30x gains for an overlooked crypto is making waves. Don't miss out on this hidden opportunity!."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "is-this-under-the-radar-crypto-set-to-soar-30x-standard-chartered-thinks-so-en"
-canonical: "https://novumworld.com/crypto/is-this-under-the-radar-crypto-set-to-soar-30x-standard-chartered-thinks-so-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "aafd5bed-4ab3-9d27-8e40-7e58d09db341"
+featured_image: /images/is-this-under-the-radar-crypto-set-to-soar-30x-standard-chartered-thinks-so-en.webp
+image: /images/is-this-under-the-radar-crypto-set-to-soar-30x-standard-chartered-thinks-so-en.webp
+language: en
+slug: is-this-under-the-radar-crypto-set-to-soar-30x-standard-chartered-thinks-so-en
+tags:
+- Crypto & Web3
+title: Standard Chartered Just Predicted 30x Gains for This Unknown Crypto and Nobody
+  Noticed
+translationKey: aafd5bed-4ab3-9d27-8e40-7e58d09db341
+type: crypto
 ---
 
 ![Standard Chartered Just Predicted 30x Gains for This Unknown Crypto and Nobody Noticed](/images/defaults/default-crypto.jpg)

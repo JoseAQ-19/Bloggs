@@ -1,16 +1,20 @@
 ---
-title: "Trump’s $1.4 Billion Crypto Gains: The Shocking Truth Behind His Stock Investments"
-date: 2026-07-13T18:13:39
+canonical: https://novumworld.com/crypto/trumps-crypto-gains-investing-in-stocks-and-bonds-revealed-en/
+categories:
+- crypto
+date: 2026-07-13 18:13:39
+description: Discover the surprising details of Trump's $1.4 billion crypto gains
+  and the hidden truths behind his stock investments in this eye-opening article.
 draft: false
-description: "Discover the surprising details of Trump's $1.4 billion crypto gains and the hidden truths behind his stock investments in this eye-opening article."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "trumps-crypto-gains-investing-in-stocks-and-bonds-revealed-en"
-canonical: "https://novumworld.com/crypto/trumps-crypto-gains-investing-in-stocks-and-bonds-revealed-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "9d4d5d8f-516a-1258-ed74-6168564967e7"
+featured_image: /images/trumps-crypto-gains-investing-in-stocks-and-bonds-revealed-en.webp
+image: /images/trumps-crypto-gains-investing-in-stocks-and-bonds-revealed-en.webp
+language: en
+slug: trumps-crypto-gains-investing-in-stocks-and-bonds-revealed-en
+tags:
+- Crypto & Web3
+title: 'Trump’s $1.4 Billion Crypto Gains: The Shocking Truth Behind His Stock Investments'
+translationKey: 9d4d5d8f-516a-1258-ed74-6168564967e7
+type: crypto
 ---
 
 ![Trump’s $1.4 Billion Crypto Gains: The Shocking Truth Behind His Stock Investments](/images/defaults/default-crypto.jpg)

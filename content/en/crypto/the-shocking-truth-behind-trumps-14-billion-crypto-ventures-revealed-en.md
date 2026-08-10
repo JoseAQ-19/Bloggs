@@ -1,16 +1,20 @@
 ---
-title: "The Shocking Truth: Trump’s $1.4 Billion Crypto Ventures Exposed"
-date: 2026-07-01T17:22:13
+canonical: https://novumworld.com/crypto/the-shocking-truth-behind-trumps-14-billion-crypto-ventures-revealed-en/
+categories:
+- crypto
+date: 2026-07-01 17:22:13
+description: Uncover the startling details of Trump's $1.4 billion crypto investments.
+  Explore the implications and controversies behind his ventures in the digital.
 draft: false
-description: "Uncover the startling details of Trump's $1.4 billion crypto investments. Explore the implications and controversies behind his ventures in the digital."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "the-shocking-truth-behind-trumps-14-billion-crypto-ventures-revealed-en"
-canonical: "https://novumworld.com/crypto/the-shocking-truth-behind-trumps-14-billion-crypto-ventures-revealed-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "b15f07e7-888d-e317-7f7d-0c7ab38096e4"
+featured_image: /images/the-shocking-truth-behind-trumps-14-billion-crypto-ventures-revealed-en.webp
+image: /images/the-shocking-truth-behind-trumps-14-billion-crypto-ventures-revealed-en.webp
+language: en
+slug: the-shocking-truth-behind-trumps-14-billion-crypto-ventures-revealed-en
+tags:
+- Crypto & Web3
+title: 'The Shocking Truth: Trump’s $1.4 Billion Crypto Ventures Exposed'
+translationKey: b15f07e7-888d-e317-7f7d-0c7ab38096e4
+type: crypto
 ---
 
 ![The Shocking Truth: Trump’s $1.4 Billion Crypto Ventures Exposed](/images/defaults/default-crypto.jpg)

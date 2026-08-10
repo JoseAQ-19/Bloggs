@@ -1,16 +1,21 @@
 ---
-title: "From Passion to Empire: How One Fitness Creator Conquered the Global Wellness Scene Analysis"
-date: 2026-07-31T08:15:24
+canonical: https://novumworld.com/fitness/from-passion-to-empire-how-one-fitness-creator-conquered-the-global-wellness-scene-en/
+categories:
+- fitness
+date: 2026-07-31 08:15:24
+description: 'From Passion to Empire: How One Fitness Creator Conquered the Global
+  Wellness Scene Analysis.'
 draft: false
-description: "From Passion to Empire: How One Fitness Creator Conquered the Global Wellness Scene Analysis."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "from-passion-to-empire-how-one-fitness-creator-conquered-the-global-wellness-scene-en"
-canonical: "https://novumworld.com/fitness/from-passion-to-empire-how-one-fitness-creator-conquered-the-global-wellness-scene-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "18a599e4-ff12-9b51-7dc2-15e2440280fb"
+featured_image: /images/from-passion-to-empire-how-one-fitness-creator-conquered-the-global-wellness-scene-en.webp
+image: /images/from-passion-to-empire-how-one-fitness-creator-conquered-the-global-wellness-scene-en.webp
+language: en
+slug: from-passion-to-empire-how-one-fitness-creator-conquered-the-global-wellness-scene-en
+tags:
+- Biohacking & Fitness
+title: 'From Passion to Empire: How One Fitness Creator Conquered the Global Wellness
+  Scene Analysis'
+translationKey: 18a599e4-ff12-9b51-7dc2-15e2440280fb
+type: fitness
 ---
 
 ![From Passion to Empire: How One Fitness Creator Conquered the Global Wellness Scene Analysis](/images/defaults/default-fitness.jpg)

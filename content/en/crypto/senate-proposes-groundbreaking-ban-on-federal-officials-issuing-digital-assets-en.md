@@ -1,16 +1,21 @@
 ---
-title: "Shocking Senate Proposal: Ban on Federal Officials Analyzing Digital Assets Gains Momentum"
-date: 2026-07-22T18:41:11
+canonical: https://novumworld.com/crypto/senate-proposes-groundbreaking-ban-on-federal-officials-issuing-digital-assets-en/
+categories:
+- crypto
+date: 2026-07-22 18:41:11
+description: Discover the implications of a bold Senate proposal aiming to restrict
+  federal officials from analyzing digital assets, stirring debate across the.
 draft: false
-description: "Discover the implications of a bold Senate proposal aiming to restrict federal officials from analyzing digital assets, stirring debate across the."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "senate-proposes-groundbreaking-ban-on-federal-officials-issuing-digital-assets-en"
-canonical: "https://novumworld.com/crypto/senate-proposes-groundbreaking-ban-on-federal-officials-issuing-digital-assets-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "0200f0fe-7420-e750-4c67-2b18657f7577"
+featured_image: /images/senate-proposes-groundbreaking-ban-on-federal-officials-issuing-digital-assets-en.webp
+image: /images/senate-proposes-groundbreaking-ban-on-federal-officials-issuing-digital-assets-en.webp
+language: en
+slug: senate-proposes-groundbreaking-ban-on-federal-officials-issuing-digital-assets-en
+tags:
+- Crypto & Web3
+title: 'Shocking Senate Proposal: Ban on Federal Officials Analyzing Digital Assets
+  Gains Momentum'
+translationKey: 0200f0fe-7420-e750-4c67-2b18657f7577
+type: crypto
 ---
 
 ![Shocking Senate Proposal: Ban on Federal Officials Analyzing Digital Assets Gains Momentum](/images/defaults/default-crypto.jpg)

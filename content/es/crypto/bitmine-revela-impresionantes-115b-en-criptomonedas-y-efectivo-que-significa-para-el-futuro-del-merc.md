@@ -1,16 +1,21 @@
 ---
-title: "Bitmine Revela $11.5B en Criptomonedas y Efectivo: El Fin Del Mercado Tal Como Lo Conocemos"
-date: 2026-07-20T17:49:33
+canonical: https://novumworld.com/es/crypto/bitmine-revela-impresionantes-115b-en-criptomonedas-y-efectivo-que-significa-para-el-futuro-del-merc/
+categories:
+- crypto
+date: 2026-07-20 17:49:33
+description: Bitmine revela $11.5B en criptomonedas y efectivo, marcando un cambio
+  radical en el mercado. Descubre qué significa esto para el futuro financiero.
 draft: false
-description: "Bitmine revela $11.5B en criptomonedas y efectivo, marcando un cambio radical en el mercado. Descubre qué significa esto para el futuro financiero."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "bitmine-revela-impresionantes-115b-en-criptomonedas-y-efectivo-que-significa-para-el-futuro-del-merc"
-canonical: "https://novumworld.com/es/crypto/bitmine-revela-impresionantes-115b-en-criptomonedas-y-efectivo-que-significa-para-el-futuro-del-merc/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "e2603fdf-ef26-e89b-f3da-83d3f7bf6ce9"
+featured_image: /images/bitmine-revela-impresionantes-115b-en-criptomonedas-y-efectivo-que-significa-para-el-futuro-del-merc.webp
+image: /images/bitmine-revela-impresionantes-115b-en-criptomonedas-y-efectivo-que-significa-para-el-futuro-del-merc.webp
+language: es
+slug: bitmine-revela-impresionantes-115b-en-criptomonedas-y-efectivo-que-significa-para-el-futuro-del-merc
+tags:
+- Crypto & Web3
+title: 'Bitmine Revela $11.5B en Criptomonedas y Efectivo: El Fin Del Mercado Tal
+  Como Lo Conocemos'
+translationKey: e2603fdf-ef26-e89b-f3da-83d3f7bf6ce9
+type: crypto
 ---
 
 ![Bitmine Revela $11.5B en Criptomonedas y Efectivo: El Fin Del Mercado Tal Como Lo Conocemos](/images/defaults/default-crypto.jpg)

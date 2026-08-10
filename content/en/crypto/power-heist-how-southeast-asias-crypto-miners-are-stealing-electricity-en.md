@@ -1,16 +1,21 @@
 ---
-title: "Southeast Asia’s Crypto Miners Just Stole $100 Million in Electricity and Nobody Noticed"
-date: 2026-07-30T17:45:24
+canonical: https://novumworld.com/crypto/power-heist-how-southeast-asias-crypto-miners-are-stealing-electricity-en/
+categories:
+- crypto
+date: 2026-07-30 17:45:24
+description: Discover how Southeast Asia's crypto miners orchestrated a $100 million
+  electricity theft without detection, reshaping the region's energy landscape.
 draft: false
-description: "Discover how Southeast Asia's crypto miners orchestrated a $100 million electricity theft without detection, reshaping the region's energy landscape."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "power-heist-how-southeast-asias-crypto-miners-are-stealing-electricity-en"
-canonical: "https://novumworld.com/crypto/power-heist-how-southeast-asias-crypto-miners-are-stealing-electricity-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "8ca1f574-ba61-2f40-e2ed-b2534abc85ff"
+featured_image: /images/power-heist-how-southeast-asias-crypto-miners-are-stealing-electricity-en.webp
+image: /images/power-heist-how-southeast-asias-crypto-miners-are-stealing-electricity-en.webp
+language: en
+slug: power-heist-how-southeast-asias-crypto-miners-are-stealing-electricity-en
+tags:
+- Crypto & Web3
+title: Southeast Asia’s Crypto Miners Just Stole $100 Million in Electricity and Nobody
+  Noticed
+translationKey: 8ca1f574-ba61-2f40-e2ed-b2534abc85ff
+type: crypto
 ---
 
 ![Southeast Asia’s Crypto Miners Just Stole $100 Million in Electricity and Nobody Noticed](/images/defaults/default-crypto.jpg)

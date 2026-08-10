@@ -1,16 +1,21 @@
 ---
-title: "Court Ruling Just Shook Crypto: 5 Shocking Implications for Yield Securities Ahead"
-date: 2026-07-10T17:51:08
+canonical: https://novumworld.com/crypto/court-ruling-paves-way-for-crypto-yield-securities-appeal-industry-implications-ahead-en/
+categories:
+- crypto
+date: 2026-07-10 17:51:08
+description: Discover the game-changing court ruling affecting crypto and its 5 shocking
+  implications for yield securities that every investor needs to know.
 draft: false
-description: "Discover the game-changing court ruling affecting crypto and its 5 shocking implications for yield securities that every investor needs to know."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "court-ruling-paves-way-for-crypto-yield-securities-appeal-industry-implications-ahead-en"
-canonical: "https://novumworld.com/crypto/court-ruling-paves-way-for-crypto-yield-securities-appeal-industry-implications-ahead-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "f7b407c7-efc9-dd69-98b5-fb0fd53fd167"
+featured_image: /images/court-ruling-paves-way-for-crypto-yield-securities-appeal-industry-implications-ahead-en.webp
+image: /images/court-ruling-paves-way-for-crypto-yield-securities-appeal-industry-implications-ahead-en.webp
+language: en
+slug: court-ruling-paves-way-for-crypto-yield-securities-appeal-industry-implications-ahead-en
+tags:
+- Crypto & Web3
+title: 'Court Ruling Just Shook Crypto: 5 Shocking Implications for Yield Securities
+  Ahead'
+translationKey: f7b407c7-efc9-dd69-98b5-fb0fd53fd167
+type: crypto
 ---
 
 ![Court Ruling Just Shook Crypto: 5 Shocking Implications for Yield Securities Ahead](/images/defaults/default-crypto.jpg)

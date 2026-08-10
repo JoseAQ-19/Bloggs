@@ -1,16 +1,21 @@
 ---
-title: "BitMart's Sudden Shutdown: The Alarming Trend of Three Exchanges Closing This Month"
-date: 2026-07-26T18:35:34
+canonical: https://novumworld.com/crypto/bitmarts-shutdown-what-does-it-mean-for-the-future-of-crypto-exchanges-en/
+categories:
+- crypto
+date: 2026-07-26 18:35:34
+description: Discover the unsettling trend of cryptocurrency exchanges shutting down,
+  focusing on BitMart's sudden closure and its implications for the market.
 draft: false
-description: "Discover the unsettling trend of cryptocurrency exchanges shutting down, focusing on BitMart's sudden closure and its implications for the market."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "bitmarts-shutdown-what-does-it-mean-for-the-future-of-crypto-exchanges-en"
-canonical: "https://novumworld.com/crypto/bitmarts-shutdown-what-does-it-mean-for-the-future-of-crypto-exchanges-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "a160b045-e7ee-dd6c-c138-f52934acbaa0"
+featured_image: /images/bitmarts-shutdown-what-does-it-mean-for-the-future-of-crypto-exchanges-en.webp
+image: /images/bitmarts-shutdown-what-does-it-mean-for-the-future-of-crypto-exchanges-en.webp
+language: en
+slug: bitmarts-shutdown-what-does-it-mean-for-the-future-of-crypto-exchanges-en
+tags:
+- Crypto & Web3
+title: 'BitMart''s Sudden Shutdown: The Alarming Trend of Three Exchanges Closing
+  This Month'
+translationKey: a160b045-e7ee-dd6c-c138-f52934acbaa0
+type: crypto
 ---
 
 ![BitMart's Sudden Shutdown: The Alarming Trend of Three Exchanges Closing This Month](/images/defaults/default-crypto.jpg)

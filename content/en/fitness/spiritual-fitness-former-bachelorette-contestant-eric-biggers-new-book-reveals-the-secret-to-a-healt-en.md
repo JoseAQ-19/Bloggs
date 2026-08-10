@@ -1,16 +1,21 @@
 ---
-title: "Spiritual Fitness: Former Bachelorette Contestant Eric Bigger's New Book Reveals the Secret to a Healthy Mind and Body Analysis"
-date: 2026-08-09T06:11:05
+canonical: https://novumworld.com/fitness/spiritual-fitness-former-bachelorette-contestant-eric-biggers-new-book-reveals-the-secret-to-a-healt-en/
+categories:
+- fitness
+date: 2026-08-09 06:11:05
+description: 'Spiritual Fitness: Former Bachelorette Contestant Eric Bigger''s New
+  Book Reveals the Secret to a Healthy Mind and Body Analysis.'
 draft: false
-description: "Spiritual Fitness: Former Bachelorette Contestant Eric Bigger's New Book Reveals the Secret to a Healthy Mind and Body Analysis."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "spiritual-fitness-former-bachelorette-contestant-eric-biggers-new-book-reveals-the-secret-to-a-healt-en"
-canonical: "https://novumworld.com/fitness/spiritual-fitness-former-bachelorette-contestant-eric-biggers-new-book-reveals-the-secret-to-a-healt-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "793384c4-5564-8f1e-22c3-c9e598ac83b4"
+featured_image: /images/spiritual-fitness-former-bachelorette-contestant-eric-biggers-new-book-reveals-the-secret-to-a-healt-en.webp
+image: /images/spiritual-fitness-former-bachelorette-contestant-eric-biggers-new-book-reveals-the-secret-to-a-healt-en.webp
+language: en
+slug: spiritual-fitness-former-bachelorette-contestant-eric-biggers-new-book-reveals-the-secret-to-a-healt-en
+tags:
+- Biohacking & Fitness
+title: 'Spiritual Fitness: Former Bachelorette Contestant Eric Bigger''s New Book
+  Reveals the Secret to a Healthy Mind and Body Analysis'
+translationKey: 793384c4-5564-8f1e-22c3-c9e598ac83b4
+type: fitness
 ---
 
 ![Spiritual Fitness: Former Bachelorette Contestant Eric Bigger's New Book Reveals the Secret to a Healthy Mind and Body Analysis](/images/defaults/default-fitness.jpg)

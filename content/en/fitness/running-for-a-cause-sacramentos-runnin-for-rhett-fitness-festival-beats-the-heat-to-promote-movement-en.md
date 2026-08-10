@@ -1,16 +1,21 @@
 ---
-title: "Running For A Cause: Sacramento's Runnin' for Rhett Fitness Festival Beats The Heat To Promote Movement And Community Analysis"
-date: 2026-08-02T07:47:30
+canonical: https://novumworld.com/fitness/running-for-a-cause-sacramentos-runnin-for-rhett-fitness-festival-beats-the-heat-to-promote-movement-en/
+categories:
+- fitness
+date: 2026-08-02 07:47:30
+description: 'Running For A Cause: Sacramento''s Runnin'' for Rhett Fitness Festival
+  Beats The Heat To Promote Movement And Community Analysis.'
 draft: false
-description: "Running For A Cause: Sacramento's Runnin' for Rhett Fitness Festival Beats The Heat To Promote Movement And Community Analysis."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "running-for-a-cause-sacramentos-runnin-for-rhett-fitness-festival-beats-the-heat-to-promote-movement-en"
-canonical: "https://novumworld.com/fitness/running-for-a-cause-sacramentos-runnin-for-rhett-fitness-festival-beats-the-heat-to-promote-movement-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "443b0c3c-64bb-dfb2-c9c9-a567260d7306"
+featured_image: /images/running-for-a-cause-sacramentos-runnin-for-rhett-fitness-festival-beats-the-heat-to-promote-movement-en.webp
+image: /images/running-for-a-cause-sacramentos-runnin-for-rhett-fitness-festival-beats-the-heat-to-promote-movement-en.webp
+language: en
+slug: running-for-a-cause-sacramentos-runnin-for-rhett-fitness-festival-beats-the-heat-to-promote-movement-en
+tags:
+- Biohacking & Fitness
+title: 'Running For A Cause: Sacramento''s Runnin'' for Rhett Fitness Festival Beats
+  The Heat To Promote Movement And Community Analysis'
+translationKey: 443b0c3c-64bb-dfb2-c9c9-a567260d7306
+type: fitness
 ---
 
 ![Running For A Cause: Sacramento's Runnin' for Rhett Fitness Festival Beats The Heat To Promote Movement And Community Analysis](/images/defaults/default-fitness.jpg)

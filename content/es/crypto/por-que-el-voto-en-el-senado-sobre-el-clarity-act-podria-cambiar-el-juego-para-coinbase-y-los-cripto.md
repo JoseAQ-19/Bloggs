@@ -1,16 +1,20 @@
 ---
-title: "5 Razones Por Las Que El CLARITY Act Cambiará Todo Para Coinbase Y Los Criptoinversores"
-date: 2026-07-22T17:05:43
+canonical: https://novumworld.com/es/crypto/por-que-el-voto-en-el-senado-sobre-el-clarity-act-podria-cambiar-el-juego-para-coinbase-y-los-cripto/
+categories:
+- crypto
+date: 2026-07-22 17:05:43
+description: Descubre cómo el CLARITY Act transformará Coinbase y beneficiará a los
+  criptoinversores. Conoce las 5 razones clave para estar preparado.
 draft: false
-description: "Descubre cómo el CLARITY Act transformará Coinbase y beneficiará a los criptoinversores. Conoce las 5 razones clave para estar preparado."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "por-que-el-voto-en-el-senado-sobre-el-clarity-act-podria-cambiar-el-juego-para-coinbase-y-los-cripto"
-canonical: "https://novumworld.com/es/crypto/por-que-el-voto-en-el-senado-sobre-el-clarity-act-podria-cambiar-el-juego-para-coinbase-y-los-cripto/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "aa41c9a2-0998-6e8a-4d37-cb14bea6433f"
+featured_image: /images/por-que-el-voto-en-el-senado-sobre-el-clarity-act-podria-cambiar-el-juego-para-coinbase-y-los-cripto.webp
+image: /images/por-que-el-voto-en-el-senado-sobre-el-clarity-act-podria-cambiar-el-juego-para-coinbase-y-los-cripto.webp
+language: es
+slug: por-que-el-voto-en-el-senado-sobre-el-clarity-act-podria-cambiar-el-juego-para-coinbase-y-los-cripto
+tags:
+- Crypto & Web3
+title: 5 Razones Por Las Que El CLARITY Act Cambiará Todo Para Coinbase Y Los Criptoinversores
+translationKey: aa41c9a2-0998-6e8a-4d37-cb14bea6433f
+type: crypto
 ---
 
 ![5 Razones Por Las Que El CLARITY Act Cambiará Todo Para Coinbase Y Los Criptoinversores](/images/defaults/default-crypto.jpg)

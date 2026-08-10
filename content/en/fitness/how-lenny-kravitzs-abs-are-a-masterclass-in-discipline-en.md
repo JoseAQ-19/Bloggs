@@ -1,16 +1,20 @@
 ---
-title: "Lenny Kravitz’s Abs Show 7 Secrets Of Unmatched Discipline That Shock Everyone"
-date: 2026-07-15T07:26:43
+canonical: https://novumworld.com/fitness/how-lenny-kravitzs-abs-are-a-masterclass-in-discipline-en/
+categories:
+- fitness
+date: 2026-07-15 07:26:43
+description: Discover the 7 surprising secrets behind Lenny Kravitz's remarkable discipline
+  and stunning abs that leave everyone in awe. Transform your own fitness.
 draft: false
-description: "Discover the 7 surprising secrets behind Lenny Kravitz's remarkable discipline and stunning abs that leave everyone in awe. Transform your own fitness."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "how-lenny-kravitzs-abs-are-a-masterclass-in-discipline-en"
-canonical: "https://novumworld.com/fitness/how-lenny-kravitzs-abs-are-a-masterclass-in-discipline-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "7276a0b6-e062-361a-2098-32038af0db40"
+featured_image: /images/how-lenny-kravitzs-abs-are-a-masterclass-in-discipline-en.webp
+image: /images/how-lenny-kravitzs-abs-are-a-masterclass-in-discipline-en.webp
+language: en
+slug: how-lenny-kravitzs-abs-are-a-masterclass-in-discipline-en
+tags:
+- Biohacking & Fitness
+title: Lenny Kravitz’s Abs Show 7 Secrets Of Unmatched Discipline That Shock Everyone
+translationKey: 7276a0b6-e062-361a-2098-32038af0db40
+type: fitness
 ---
 
 ![Lenny Kravitz’s Abs Show 7 Secrets Of Unmatched Discipline That Shock Everyone](/images/defaults/default-fitness.jpg)

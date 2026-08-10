@@ -1,16 +1,20 @@
 ---
-title: "Trump’s Unexpected Shift: The 5 Reasons He’s Now a ‘Big Crypto Guy’"
-date: 2026-07-06T19:14:02
+canonical: https://novumworld.com/crypto/bitcoins-comeback-trumps-surprising-shift-to-big-crypto-guy-en/
+categories:
+- crypto
+date: 2026-07-06 19:14:02
+description: Discover the surprising reasons behind Trump's embrace of cryptocurrency.
+  Explore the five key factors driving his new identity as a 'big crypto guy.'.
 draft: false
-description: "Discover the surprising reasons behind Trump's embrace of cryptocurrency. Explore the five key factors driving his new identity as a 'big crypto guy.'."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "bitcoins-comeback-trumps-surprising-shift-to-big-crypto-guy-en"
-canonical: "https://novumworld.com/crypto/bitcoins-comeback-trumps-surprising-shift-to-big-crypto-guy-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "184a2a87-92a7-82c0-d156-95a9ebedc2b2"
+featured_image: /images/bitcoins-comeback-trumps-surprising-shift-to-big-crypto-guy-en.webp
+image: /images/bitcoins-comeback-trumps-surprising-shift-to-big-crypto-guy-en.webp
+language: en
+slug: bitcoins-comeback-trumps-surprising-shift-to-big-crypto-guy-en
+tags:
+- Crypto & Web3
+title: 'Trump’s Unexpected Shift: The 5 Reasons He’s Now a ‘Big Crypto Guy’'
+translationKey: 184a2a87-92a7-82c0-d156-95a9ebedc2b2
+type: crypto
 ---
 
 ![Trump’s Unexpected Shift: The 5 Reasons He’s Now a ‘Big Crypto Guy’](/images/defaults/default-crypto.jpg)

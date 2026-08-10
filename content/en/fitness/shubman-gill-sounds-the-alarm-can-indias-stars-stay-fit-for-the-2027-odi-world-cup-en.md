@@ -1,16 +1,21 @@
 ---
-title: "Shubman Gill Sounds Alarm: India’s Stars Face Fitness Crisis Ahead of 2027 ODI World Cup"
-date: 2026-07-20T08:26:44
+canonical: https://novumworld.com/fitness/shubman-gill-sounds-the-alarm-can-indias-stars-stay-fit-for-the-2027-odi-world-cup-en/
+categories:
+- fitness
+date: 2026-07-20 08:26:44
+description: Shubman Gill raises concerns over India's fitness levels as the 2027
+  ODI World Cup approaches. Discover the challenges and solutions for the team.
 draft: false
-description: "Shubman Gill raises concerns over India's fitness levels as the 2027 ODI World Cup approaches. Discover the challenges and solutions for the team."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "shubman-gill-sounds-the-alarm-can-indias-stars-stay-fit-for-the-2027-odi-world-cup-en"
-canonical: "https://novumworld.com/fitness/shubman-gill-sounds-the-alarm-can-indias-stars-stay-fit-for-the-2027-odi-world-cup-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "a79bd886-b9b6-6e06-bbbe-8969d20034bc"
+featured_image: /images/shubman-gill-sounds-the-alarm-can-indias-stars-stay-fit-for-the-2027-odi-world-cup-en.webp
+image: /images/shubman-gill-sounds-the-alarm-can-indias-stars-stay-fit-for-the-2027-odi-world-cup-en.webp
+language: en
+slug: shubman-gill-sounds-the-alarm-can-indias-stars-stay-fit-for-the-2027-odi-world-cup-en
+tags:
+- Biohacking & Fitness
+title: 'Shubman Gill Sounds Alarm: India’s Stars Face Fitness Crisis Ahead of 2027
+  ODI World Cup'
+translationKey: a79bd886-b9b6-6e06-bbbe-8969d20034bc
+type: fitness
 ---
 
 ![Shubman Gill Sounds Alarm: India’s Stars Face Fitness Crisis Ahead of 2027 ODI World Cup](/images/defaults/default-fitness.jpg)

@@ -1,16 +1,20 @@
 ---
-title: "W26 Crypto Just Launched: This Memecoin Is Set to Disrupt Football Forever"
-date: 2026-07-14T18:39:10
+canonical: https://novumworld.com/crypto/w26-crypto-the-memecoin-kickstarting-footballs-next-big-play-en/
+categories:
+- crypto
+date: 2026-07-14 18:39:10
+description: Discover how W26 Crypto, the groundbreaking memecoin, aims to revolutionize
+  the football industry and change the game forever. Join the movement now!.
 draft: false
-description: "Discover how W26 Crypto, the groundbreaking memecoin, aims to revolutionize the football industry and change the game forever. Join the movement now!."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "w26-crypto-the-memecoin-kickstarting-footballs-next-big-play-en"
-canonical: "https://novumworld.com/crypto/w26-crypto-the-memecoin-kickstarting-footballs-next-big-play-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "fb3f35a6-c964-295e-d761-20fd5ee35098"
+featured_image: /images/w26-crypto-the-memecoin-kickstarting-footballs-next-big-play-en.webp
+image: /images/w26-crypto-the-memecoin-kickstarting-footballs-next-big-play-en.webp
+language: en
+slug: w26-crypto-the-memecoin-kickstarting-footballs-next-big-play-en
+tags:
+- Crypto & Web3
+title: 'W26 Crypto Just Launched: This Memecoin Is Set to Disrupt Football Forever'
+translationKey: fb3f35a6-c964-295e-d761-20fd5ee35098
+type: crypto
 ---
 
 ![W26 Crypto Just Launched: This Memecoin Is Set to Disrupt Football Forever](/images/defaults/default-crypto.jpg)

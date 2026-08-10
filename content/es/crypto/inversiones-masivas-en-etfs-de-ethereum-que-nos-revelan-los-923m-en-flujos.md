@@ -1,16 +1,20 @@
 ---
-title: "$9.23M En Flujos de ETFs de Ethereum: La Inversión Que Nadie Vio Venir"
-date: 2026-07-29T17:07:21
+canonical: https://novumworld.com/es/crypto/inversiones-masivas-en-etfs-de-ethereum-que-nos-revelan-los-923m-en-flujos/
+categories:
+- crypto
+date: 2026-07-29 17:07:21
+description: Descubre cómo $9.23M en flujos de ETFs de Ethereum están cambiando el
+  panorama de las inversiones. Una oportunidad que no querrás perderte.
 draft: false
-description: "Descubre cómo $9.23M en flujos de ETFs de Ethereum están cambiando el panorama de las inversiones. Una oportunidad que no querrás perderte."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "inversiones-masivas-en-etfs-de-ethereum-que-nos-revelan-los-923m-en-flujos"
-canonical: "https://novumworld.com/es/crypto/inversiones-masivas-en-etfs-de-ethereum-que-nos-revelan-los-923m-en-flujos/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "5610f94e-282d-5a3e-d945-a9342290c795"
+featured_image: /images/inversiones-masivas-en-etfs-de-ethereum-que-nos-revelan-los-923m-en-flujos.webp
+image: /images/inversiones-masivas-en-etfs-de-ethereum-que-nos-revelan-los-923m-en-flujos.webp
+language: es
+slug: inversiones-masivas-en-etfs-de-ethereum-que-nos-revelan-los-923m-en-flujos
+tags:
+- Crypto & Web3
+title: '$9.23M En Flujos de ETFs de Ethereum: La Inversión Que Nadie Vio Venir'
+translationKey: 5610f94e-282d-5a3e-d945-a9342290c795
+type: crypto
 ---
 
 ![$9.23M En Flujos de ETFs de Ethereum: La Inversión Que Nadie Vio Venir](/images/defaults/default-crypto.jpg)

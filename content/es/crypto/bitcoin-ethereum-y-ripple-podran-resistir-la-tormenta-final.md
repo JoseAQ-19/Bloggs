@@ -1,16 +1,20 @@
 ---
-title: "La Tormenta Final: Cómo Bitcoin, Ethereum Y Ripple Se Preparan Para El Colapso"
-date: 2026-06-25T16:43:03
+canonical: https://novumworld.com/es/crypto/bitcoin-ethereum-y-ripple-podran-resistir-la-tormenta-final/
+categories:
+- crypto
+date: 2026-06-25 16:43:03
+description: Descubre cómo Bitcoin, Ethereum y Ripple se están preparando para enfrentar
+  el colapso económico inminente y qué estrategias están implementando.
 draft: false
-description: "Descubre cómo Bitcoin, Ethereum y Ripple se están preparando para enfrentar el colapso económico inminente y qué estrategias están implementando."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "bitcoin-ethereum-y-ripple-podran-resistir-la-tormenta-final"
-canonical: "https://novumworld.com/es/crypto/bitcoin-ethereum-y-ripple-podran-resistir-la-tormenta-final/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "d39bf869-aa0c-33c4-1d6a-fb69aed6aa79"
+featured_image: /images/bitcoin-ethereum-y-ripple-podran-resistir-la-tormenta-final.webp
+image: /images/bitcoin-ethereum-y-ripple-podran-resistir-la-tormenta-final.webp
+language: es
+slug: bitcoin-ethereum-y-ripple-podran-resistir-la-tormenta-final
+tags:
+- Crypto & Web3
+title: 'La Tormenta Final: Cómo Bitcoin, Ethereum Y Ripple Se Preparan Para El Colapso'
+translationKey: d39bf869-aa0c-33c4-1d6a-fb69aed6aa79
+type: crypto
 ---
 
 ![La Tormenta Final: Cómo Bitcoin, Ethereum Y Ripple Se Preparan Para El Colapso](/images/defaults/default-crypto.jpg)

@@ -1,16 +1,21 @@
 ---
-title: "Senate Democrats Expose Trump’s Hidden Crypto Earnings: The Shocking Truth Revealed"
-date: 2026-07-10T19:06:39
+canonical: https://novumworld.com/crypto/senate-democrats-turn-the-spotlight-on-trumps-crypto-earnings-en/
+categories:
+- crypto
+date: 2026-07-10 19:06:39
+description: Discover how Senate Democrats unveil Trump's concealed cryptocurrency
+  profits, revealing startling truths about financial dealings and potential.
 draft: false
-description: "Discover how Senate Democrats unveil Trump's concealed cryptocurrency profits, revealing startling truths about financial dealings and potential."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "senate-democrats-turn-the-spotlight-on-trumps-crypto-earnings-en"
-canonical: "https://novumworld.com/crypto/senate-democrats-turn-the-spotlight-on-trumps-crypto-earnings-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "9e0e89e2-8602-0334-b367-dddd52437bb5"
+featured_image: /images/senate-democrats-turn-the-spotlight-on-trumps-crypto-earnings-en.webp
+image: /images/senate-democrats-turn-the-spotlight-on-trumps-crypto-earnings-en.webp
+language: en
+slug: senate-democrats-turn-the-spotlight-on-trumps-crypto-earnings-en
+tags:
+- Crypto & Web3
+title: 'Senate Democrats Expose Trump’s Hidden Crypto Earnings: The Shocking Truth
+  Revealed'
+translationKey: 9e0e89e2-8602-0334-b367-dddd52437bb5
+type: crypto
 ---
 
 ![Senate Democrats Expose Trump’s Hidden Crypto Earnings: The Shocking Truth Revealed](/images/defaults/default-crypto.jpg)

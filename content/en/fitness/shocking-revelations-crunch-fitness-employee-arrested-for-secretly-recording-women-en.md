@@ -1,16 +1,21 @@
 ---
-title: "Shocking Revelation: Crunch Fitness Employee Arrested for Secretly Recording 30 Women"
-date: 2026-07-30T07:41:00
+canonical: https://novumworld.com/fitness/shocking-revelations-crunch-fitness-employee-arrested-for-secretly-recording-women-en/
+categories:
+- fitness
+date: 2026-07-30 07:41:00
+description: A Crunch Fitness employee has been arrested for secretly recording 30
+  women. Discover the shocking details and implications of this disturbing incident.
 draft: false
-description: "A Crunch Fitness employee has been arrested for secretly recording 30 women. Discover the shocking details and implications of this disturbing incident."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "shocking-revelations-crunch-fitness-employee-arrested-for-secretly-recording-women-en"
-canonical: "https://novumworld.com/fitness/shocking-revelations-crunch-fitness-employee-arrested-for-secretly-recording-women-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "b3052d06-f249-8545-dc6a-1a43df109f6a"
+featured_image: /images/shocking-revelations-crunch-fitness-employee-arrested-for-secretly-recording-women-en.webp
+image: /images/shocking-revelations-crunch-fitness-employee-arrested-for-secretly-recording-women-en.webp
+language: en
+slug: shocking-revelations-crunch-fitness-employee-arrested-for-secretly-recording-women-en
+tags:
+- Biohacking & Fitness
+title: 'Shocking Revelation: Crunch Fitness Employee Arrested for Secretly Recording
+  30 Women'
+translationKey: b3052d06-f249-8545-dc6a-1a43df109f6a
+type: fitness
 ---
 
 ![Shocking Revelation: Crunch Fitness Employee Arrested for Secretly Recording 30 Women](/images/defaults/default-fitness.jpg)

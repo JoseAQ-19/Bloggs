@@ -1,16 +1,20 @@
 ---
-title: "Trump’s Secret Crypto Scheme: How He Cashed In Over $1 Billion in One Year"
-date: 2026-07-01T18:09:48
+canonical: https://novumworld.com/crypto/trumps-crypto-bonanza-how-he-raked-in-over-1-billion-in-just-one-year-en/
+categories:
+- crypto
+date: 2026-07-01 18:09:48
+description: Discover how Trump allegedly leveraged a secret crypto scheme to amass
+  over $1 billion in just one year. Uncover the strategies behind this financial feat.
 draft: false
-description: "Discover how Trump allegedly leveraged a secret crypto scheme to amass over $1 billion in just one year. Uncover the strategies behind this financial feat."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "trumps-crypto-bonanza-how-he-raked-in-over-1-billion-in-just-one-year-en"
-canonical: "https://novumworld.com/crypto/trumps-crypto-bonanza-how-he-raked-in-over-1-billion-in-just-one-year-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "7e15c8a6-3878-11d0-4352-59aff8d7d4fd"
+featured_image: /images/trumps-crypto-bonanza-how-he-raked-in-over-1-billion-in-just-one-year-en.webp
+image: /images/trumps-crypto-bonanza-how-he-raked-in-over-1-billion-in-just-one-year-en.webp
+language: en
+slug: trumps-crypto-bonanza-how-he-raked-in-over-1-billion-in-just-one-year-en
+tags:
+- Crypto & Web3
+title: 'Trump’s Secret Crypto Scheme: How He Cashed In Over $1 Billion in One Year'
+translationKey: 7e15c8a6-3878-11d0-4352-59aff8d7d4fd
+type: crypto
 ---
 
 ![Trump’s Secret Crypto Scheme: How He Cashed In Over $1 Billion in One Year](/images/defaults/default-crypto.jpg)

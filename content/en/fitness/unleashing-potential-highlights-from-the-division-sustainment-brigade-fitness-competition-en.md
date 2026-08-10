@@ -1,16 +1,21 @@
 ---
-title: "7 Jaw-Dropping Highlights From The Brigade Fitness Competition That Will Leave You Speechless"
-date: 2026-06-09T06:45:24
+canonical: https://novumworld.com/fitness/unleashing-potential-highlights-from-the-division-sustainment-brigade-fitness-competition-en/
+categories:
+- fitness
+date: 2026-06-09 06:45:24
+description: Discover the most unforgettable moments from the Brigade Fitness Competition
+  that will inspire and amaze you. Don’t miss these jaw-dropping highlights!.
 draft: false
-description: "Discover the most unforgettable moments from the Brigade Fitness Competition that will inspire and amaze you. Don’t miss these jaw-dropping highlights!."
-featured_image: "/images/defaults/default-fitness.jpg"
-slug: "unleashing-potential-highlights-from-the-division-sustainment-brigade-fitness-competition-en"
-canonical: "https://novumworld.com/fitness/unleashing-potential-highlights-from-the-division-sustainment-brigade-fitness-competition-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "e321fc9d-092e-2254-8238-20ef0cd20b01"
+featured_image: /images/unleashing-potential-highlights-from-the-division-sustainment-brigade-fitness-competition-en.webp
+image: /images/unleashing-potential-highlights-from-the-division-sustainment-brigade-fitness-competition-en.webp
+language: en
+slug: unleashing-potential-highlights-from-the-division-sustainment-brigade-fitness-competition-en
+tags:
+- Biohacking & Fitness
+title: 7 Jaw-Dropping Highlights From The Brigade Fitness Competition That Will Leave
+  You Speechless
+translationKey: e321fc9d-092e-2254-8238-20ef0cd20b01
+type: fitness
 ---
 
 ![7 Jaw-Dropping Highlights From The Brigade Fitness Competition That Will Leave You Speechless](/images/defaults/default-fitness.jpg)

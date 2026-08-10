@@ -164,5 +164,18 @@ def main():
     with open(COMPLETED_FILE, 'a', encoding='utf-8') as f:
         f.write(f"{cat}: {tema}\n")
 
+    # ── AUTO-DEPLOY: Git Sync + Vercel Deploy Hook ──
+    try:
+        from deploy_notifier import trigger_production_deploy
+        commit_msg = f"feat(content): {cat}/{tema_lang} — {meta.get('slug', 'new-article')} [auto-deploy]"
+        deploy_result = trigger_production_deploy(
+            commit_message=commit_msg,
+            run_git=not os.environ.get("GITHUB_ACTIONS"),  # Skip git in CI (workflow handles git push)
+            run_vercel=True
+        )
+        logging.info(f"[AUTO-DEPLOY] Resultado: {deploy_result}")
+    except Exception as e:
+        logging.warning(f"[AUTO-DEPLOY] No se pudo ejecutar el deploy automático: {e}")
+
 if __name__ == "__main__":
     main()

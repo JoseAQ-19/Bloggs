@@ -1,16 +1,20 @@
 ---
-title: "La Ley Clarity: Un Cambio Radical Que Destruirá El Caos Regulatorio en Cripto"
-date: 2026-07-05T17:04:58
+canonical: https://novumworld.com/es/crypto/el-bitcoin-and-crypto-clarity-act-un-cambio-de-juego-para-el-mercado-estadounidense/
+categories:
+- crypto
+date: 2026-07-05 17:04:58
+description: Descubre cómo la Ley Clarity transformará el panorama regulatorio de
+  las criptomonedas, eliminando el caos y brindando claridad al sector.
 draft: false
-description: "Descubre cómo la Ley Clarity transformará el panorama regulatorio de las criptomonedas, eliminando el caos y brindando claridad al sector."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "el-bitcoin-and-crypto-clarity-act-un-cambio-de-juego-para-el-mercado-estadounidense"
-canonical: "https://novumworld.com/es/crypto/el-bitcoin-and-crypto-clarity-act-un-cambio-de-juego-para-el-mercado-estadounidense/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "5521bd9c-93ab-1f6b-a57a-ec12d1fb2756"
+featured_image: /images/el-bitcoin-and-crypto-clarity-act-un-cambio-de-juego-para-el-mercado-estadounidense.webp
+image: /images/el-bitcoin-and-crypto-clarity-act-un-cambio-de-juego-para-el-mercado-estadounidense.webp
+language: es
+slug: el-bitcoin-and-crypto-clarity-act-un-cambio-de-juego-para-el-mercado-estadounidense
+tags:
+- Crypto & Web3
+title: 'La Ley Clarity: Un Cambio Radical Que Destruirá El Caos Regulatorio en Cripto'
+translationKey: 5521bd9c-93ab-1f6b-a57a-ec12d1fb2756
+type: crypto
 ---
 
 ![La Ley Clarity: Un Cambio Radical Que Destruirá El Caos Regulatorio en Cripto](/images/defaults/default-crypto.jpg)

@@ -1,16 +1,21 @@
 ---
-title: "Silent Swap Exposed: 5 Fake Google Extensions Stealing Your Money Without You Knowing"
-date: 2026-06-30T16:51:05
+canonical: https://novumworld.com/crypto/beware-the-silent-swap-how-fake-google-extensions-are-targeting-your-wallet-en/
+categories:
+- crypto
+date: 2026-06-30 16:51:05
+description: Discover the truth behind 5 deceptive Google extensions that are secretly
+  draining your wallet. Stay informed and protect your finances today!.
 draft: false
-description: "Discover the truth behind 5 deceptive Google extensions that are secretly draining your wallet. Stay informed and protect your finances today!."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "beware-the-silent-swap-how-fake-google-extensions-are-targeting-your-wallet-en"
-canonical: "https://novumworld.com/crypto/beware-the-silent-swap-how-fake-google-extensions-are-targeting-your-wallet-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "169d4743-c457-ed76-dab6-81d5050ef467"
+featured_image: /images/beware-the-silent-swap-how-fake-google-extensions-are-targeting-your-wallet-en.webp
+image: /images/beware-the-silent-swap-how-fake-google-extensions-are-targeting-your-wallet-en.webp
+language: en
+slug: beware-the-silent-swap-how-fake-google-extensions-are-targeting-your-wallet-en
+tags:
+- Crypto & Web3
+title: 'Silent Swap Exposed: 5 Fake Google Extensions Stealing Your Money Without
+  You Knowing'
+translationKey: 169d4743-c457-ed76-dab6-81d5050ef467
+type: crypto
 ---
 
 ![Silent Swap Exposed: 5 Fake Google Extensions Stealing Your Money Without You Knowing](/images/defaults/default-crypto.jpg)

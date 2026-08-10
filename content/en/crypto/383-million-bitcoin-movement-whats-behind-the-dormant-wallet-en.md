@@ -1,16 +1,20 @@
 ---
-title: "The Shocking $383 Million Bitcoin Transfer That Nobody Saw Coming"
-date: 2026-07-16T17:26:36
+canonical: https://novumworld.com/crypto/383-million-bitcoin-movement-whats-behind-the-dormant-wallet-en/
+categories:
+- crypto
+date: 2026-07-16 17:26:36
+description: Discover the unexpected $383 million Bitcoin transfer that caught everyone
+  off guard. Dive into the details of this shocking financial event today!.
 draft: false
-description: "Discover the unexpected $383 million Bitcoin transfer that caught everyone off guard. Dive into the details of this shocking financial event today!."
-featured_image: "/images/defaults/default-crypto.jpg"
-slug: "383-million-bitcoin-movement-whats-behind-the-dormant-wallet-en"
-canonical: "https://novumworld.com/crypto/383-million-bitcoin-movement-whats-behind-the-dormant-wallet-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "0d8bd5b1-6a15-7600-3099-36c8b2ceec8c"
+featured_image: /images/383-million-bitcoin-movement-whats-behind-the-dormant-wallet-en.webp
+image: /images/383-million-bitcoin-movement-whats-behind-the-dormant-wallet-en.webp
+language: en
+slug: 383-million-bitcoin-movement-whats-behind-the-dormant-wallet-en
+tags:
+- Crypto & Web3
+title: The Shocking $383 Million Bitcoin Transfer That Nobody Saw Coming
+translationKey: 0d8bd5b1-6a15-7600-3099-36c8b2ceec8c
+type: crypto
 ---
 
 ![The Shocking $383 Million Bitcoin Transfer That Nobody Saw Coming](/images/defaults/default-crypto.jpg)
