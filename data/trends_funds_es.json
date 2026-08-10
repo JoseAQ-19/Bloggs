@@ -1,24 +1,18 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-08-09T07:53:30.401788+00:00",
-  "total_candidates": 8,
+  "scouted_at": "2026-08-10T08:25:25.748313+00:00",
+  "total_candidates": 2,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar DBRS confirma calificaciones de Rural Hipotecario tras revisión anual en España",
+      "title": "Invertir en Renta Fija: situación actual y perspectivas",
       "lang": "es",
       "source": "google_news_finance"
     },
     {
       "rank": 2,
-      "title": "Mejores depósitos bancarios a plazo fijo hoy (agosto 2026)",
-      "lang": "es",
-      "source": "google_news_finance"
-    },
-    {
-      "rank": 3,
-      "title": "Los mejores ETFs de dividendos 2026: 5 opciones",
+      "title": "Mejores planes de pensiones para complementar tu jubilación en este momento",
       "lang": "es",
       "source": "google_news_finance"
     }
@@ -49,44 +43,14 @@
   },
   "all_headlines": [
     {
-      "title": "Morningstar DBRS confirma calificaciones de Rural Hipotecario tras revisión anual en España",
+      "title": "Invertir en Renta Fija: situación actual y perspectivas",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWnNSY0JjUHdkM2ppYVJJUElTYUZQUWpoRlRlVmJ1aUxIME44SGpDR3RkdlEteHZ1bGxzRGFUR1lRMkpNRWxkdTVwblkyemNGRHdmLUR5UWVra0xBZno1VkRwRDIzR3NFT0JCNWtvWmFxSTFWQ3BBazdObHVIRV8yMWlFNUtEdlFXNTdhZTJqNy1WZ05mNHlRRWVwdmtqNzdiNl9HSmdzUmx3M3J3X29rUHVR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
     },
     {
-      "title": "Mejores depósitos bancarios a plazo fijo hoy (agosto 2026)",
+      "title": "Mejores planes de pensiones para complementar tu jubilación en este momento",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFvRlZzTjhMRzJmczB1X1h0WklpYWtBNHZjM0hOT3Fla25LUndrRnF5STdZNlY0SlE1Wlc4bTgxWmh3UVU1LXZEbmpQSHV1WXM4NFlIVWJrNW44NDVuNzRoeUI4Y1ExMWtpMThKaXFMRVA5Q1Nla09Bbk1nMlFzRjdFdXhFbmVEVjJEemJMLWE2aEQ2ajd3WTdMUkpkc21C?oc=5"
-    },
-    {
-      "title": "Los mejores ETFs de dividendos 2026: 5 opciones",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVdBU2s4anVfSGZueVdWNVFuY0JvclltSWQyY3ZoSkh0TjBhdFdQWlZsbnRvYXZpR0JsdkRPVm5QdTljSHpoZTY3X3l1di1PRDJMQmlFV3VUb2tFcUowc3VmZUg5a3ZxRlRkNW5QaDlVZ2UzT1BEQXNQSnhaUHBzOWR1LVB6OHBpSVhSZk5vdTNlZw?oc=5"
-    },
-    {
-      "title": "ETFs de defensa 2026: los mejores del sector militar y aeroespacial",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tVVN6UDJMTjRTNTU5SEZCQ1N3U2VPSEpKVHZtR1pIMmRWaFBzREZ0Xy11dXlrOEpTdDBMckZoLVBPbDF0NWk2ZUVLUXpsaTYzdTkzb3lSTFA5YzJ5X2pFellzNGRYN253WWlnMw?oc=5"
-    },
-    {
-      "title": "ETFs de oro 2026: los 5 mejores para invertir",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCM0dlU3NrbTBYZFdqZkNwWFIwYXZ1aVZFejBLVTRxRUdacy13U0J1RUtsQWRHUFRCY1FYMWljNWE0dWtDREs3STBuNVdsZ1pTS2hjQWVtQXBUYXkzUnExM0I2U0w5X00?oc=5"
-    },
-    {
-      "title": "Hasta 1.060 euros: mejores promociones de bancos por domiciliar la nómina (agosto 2026)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWk51QU5RallaWDBRTkRxVElBVnpKTkJLQW9MazlJODM3aVpLc0dZTWxmNzdTSXZXNGFxUlU1SWNHOUg5WXRJSjlXWjFoeS1hTExnSWdVNzFjam9BQ1hZTWpvWlJTcWtDeGx2UTl4ODIwU19Pc0Z2NFpNVEloZVNuOTFnMGJna0pMQ1RlYXlUcXE1b3BwSWhEUGdvV1ltV0l0d0RjNEp0b3ZEQk56VnZkLUt5V2VJZ0Z3dHNYU1VtVFRCTGYyM0VydnM5dlZrMV9pdjZFUXFhWQ?oc=5"
-    },
-    {
-      "title": "Mejores ETFs de materias primas 2026 para invertir",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORC0tdHJOMUhHenlSQ21zZTlsUUh0VVppeFg4Zy1Mczl5dGhIbEM2NWUzWnRfamwzSXR1SHRMRWJyNGNKc0t5bEgxZFNDcFZQdzRKaF95Rnc1QUl1ZGRmajZmUkQwMUg0MDJtczA3OGZvRFR3UWRWaHJJckZWSU52N2pDUV9DcC1vRFE?oc=5"
-    },
-    {
-      "title": "Los mejores ETFs de dividendos 2026: 5 opciones",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVdBU2s4anVfSGZueVdWNVFuY0JvclltSWQyY3ZoSkh0TjBhdFdQWlZsbnRvYXZpR0JsdkRPVm5QdTljSHpoZTY3X3l1di1PRDJMQmlFV3VUb2tFcUowc3VmZUg5a3ZxRlRkNW5QaDlVZ2UzT1BEQXNQSnhaUHBzOWR1LVB6OHBpSVhSZk5vdTNlZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOWdwZThKZDlTSEJUaUVGZl9tYUZ3amlGSUtxQVo3Z2dQdmxqRlJ0VWVQLVN2bHc3cC1ka1lYeFhGLW5NQXZQRW91cG5iZGRkVHBkU25MeDdnbEJQUE9wUkRPVXRscDF5RXFSWGstRVZWYkhzQ2hmVnBHQW9oaXd1NlJrMWJqS0VkMkNiY3dCYVZYcFR3UzFhbEJSc0owNF9hTHJDWXVYcTdpdF84ZEtta1l2bGFoejlFTGt1c1pzc3VOOHlQV1FGZWN1eS3SAagBQVVfeXFMT2NmT3h3YWtzVm1PazFVMkFYVmhnWW01MzM1WGNBUUc1ZG5WQVpwUUVNVTQtSnNPRVZyMERLSXpsVHQ3S1dEZXNCNWNxdmxPRVRGbXFXY0E3eUtOUjd2MVJUeWJYc2FvR0lQcUF3RzN3dXRTYmdHR09TSEg3VVV1NUw2eGVBdFRJTmFROFF4cTNkY3piNE9NUHJjRWdKd1F4dmVjQ0VvVVdL?oc=5"
     }
   ]
 }
