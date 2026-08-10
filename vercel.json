@@ -1,8 +1,8 @@
 {
-  "buildCommand": "rm -rf themes/ananke && git clone https://github.com/gohugo-ananke/ananke.git themes/ananke && echo \"module.exports={plugins:{autoprefixer:{}}}\" > postcss.config.js && hugo --gc --minify",
+  "buildCommand": "rm -rf themes/ananke && git clone --branch v2.12.0 https://github.com/gohugo-ananke/ananke.git themes/ananke && echo \"module.exports={plugins:{autoprefixer:{}}}\" > postcss.config.js && hugo --gc --minify",
   "outputDirectory": "public",
   "framework": "hugo",
   "env": {
-    "HUGO_VERSION": "0.160.0"
+    "HUGO_VERSION": "0.146.0"
   }
 }

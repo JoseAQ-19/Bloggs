@@ -7,10 +7,10 @@
 # ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (INTEGRACIÓN OMNIROUTE AI GATEWAY COMPLETADA)
 
 ## 🛠️ REPARACIÓN DE DEPLOYMENTS EN VERCEL (2026-08-10) - ESTADO: ✅ COMPLETADO
-- [x] **Diagnóstico Vercel via MCP**: Inspeccionados logs de build en Vercel (`dpl_G1xrjVmQKzckyivVsVECcHhLETKD`) identificando incompatibilidad de versión de Hugo y rotura del tema `ananke` (`Min 0.160.0` requerida vs `0.146.0` instalada).
-- [x] **Actualización `vercel.json`**: Actualizado `HUGO_VERSION` de `0.128.0` a `0.160.0` y corregida la URL del repositorio del tema Ananke a `https://github.com/gohugo-ananke/ananke.git`.
+- [x] **Diagnóstico Vercel via MCP**: Inspeccionados logs de build en Vercel (`dpl_G1xrjVmQKzckyivVsVECcHhLETKD`) identificando incompatibilidad entre la versión de Hugo en Vercel (0.146.0) y la rama `master` del tema `ananke` (`Min 0.160.0` requerida).
+- [x] **Pin de Rama Estable `v2.12.0`**: Fijada la clonación del tema `ananke` a la rama/tag estable `--branch v2.12.0` en `vercel.json` (diseñada específicamente para la máxima compatibilidad con Hugo 0.128 - 0.146.0).
 - [x] **Corrección Deprecación `config.toml`**: Migrado `custom_css` a la nueva sección `[params.ananke]` para evitar advertencias de Hugo.
-- [x] **Validación Continua**: Creado test de integración `tests/test_vercel_config.py` para asegurar que las variables de Hugo en Vercel mantengan compatibilidad.
+- [x] **Validación Continua**: Creado test de integración `tests/test_vercel_config.py` pasando 100% de aserciones.
 
 - [x] **Purga Táctica de Archivos Temporales y Basura**: Eliminados 24 scripts obsoletos/one-off de `scripts/`, purgadas carpetas de caché (`__pycache__`, `.pytest_cache`) y limpiados temporales.
 - [x] **Relocalización de Auditorías (`docs/audits/`)**: Creado `docs/audits/` y relocalizados todos los reportes markdown secundarios (`AUDIT_ADSENSE_FINAL.md`, `AUDITORIA_MEJORAS.md`, `content_auditor_phase6.md`, `research_test_result.md`).

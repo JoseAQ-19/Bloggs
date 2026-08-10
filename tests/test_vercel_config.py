@@ -11,10 +11,11 @@ def test_vercel_config_hugo_version():
         
     assert "env" in config, "vercel.json should have env key"
     assert "HUGO_VERSION" in config["env"], "vercel.json env should define HUGO_VERSION"
+    assert "v2.12.0" in config["buildCommand"], "buildCommand should specify stable --branch v2.12.0"
     
     hugo_version = config["env"]["HUGO_VERSION"]
     major, minor, *_ = hugo_version.split(".")
-    assert int(major) > 0 or int(minor) >= 160, f"HUGO_VERSION must be >= 0.160.0, got {hugo_version}"
+    assert int(major) > 0 or int(minor) >= 128, f"HUGO_VERSION must be >= 0.128.0, got {hugo_version}"
 
 def test_config_toml_ananke_params():
     root = Path(__file__).parent.parent
