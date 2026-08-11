@@ -42,6 +42,8 @@ jobs:
           node-version: '20'
       - name: Start OmniRoute Gateway (Background)
         env:
+          PORT: "8000"
+          OMNIROUTE_PORT: "8000"
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY || secrets.OPENROUTER_API_KEY || secrets.OPENROUTER_SCOUT_KEY }}
@@ -49,8 +51,8 @@ jobs:
           HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY || secrets.HF_SCOUT_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          npx -y omni-route --port 8000 &
-          sleep 6
+          PORT=8000 npx -y omniroute --port 8000 &
+          sleep 8
           curl --fail http://localhost:8000/v1/models || exit 1
       - uses: actions/setup-python@v5
         with:
@@ -80,6 +82,8 @@ jobs:
           node-version: '20'
       - name: Start OmniRoute Gateway (Background)
         env:
+          PORT: "8000"
+          OMNIROUTE_PORT: "8000"
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY || secrets.OPENROUTER_API_KEY || secrets.OPENROUTER_SCOUT_KEY }}
@@ -87,8 +91,8 @@ jobs:
           HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY || secrets.HF_SCOUT_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          npx -y omni-route --port 8000 &
-          sleep 6
+          PORT=8000 npx -y omniroute --port 8000 &
+          sleep 8
           curl --fail http://localhost:8000/v1/models || exit 1
       - uses: actions/setup-python@v5
         with:
@@ -125,6 +129,8 @@ jobs:
           node-version: '20'
       - name: Start OmniRoute Gateway (Background)
         env:
+          PORT: "8000"
+          OMNIROUTE_PORT: "8000"
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY || secrets.OPENROUTER_API_KEY || secrets.OPENROUTER_SCOUT_KEY }}
@@ -132,8 +138,8 @@ jobs:
           HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY || secrets.HF_SCOUT_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          npx -y omni-route --port 8000 &
-          sleep 6
+          PORT=8000 npx -y omniroute --port 8000 &
+          sleep 8
           curl --fail http://localhost:8000/v1/models || exit 1
       - uses: actions/setup-python@v5
         with:

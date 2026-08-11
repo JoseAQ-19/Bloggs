@@ -41,9 +41,9 @@ from dotenv import load_dotenv
 try:
     from google import genai
     from google.genai import types
-except ImportError:
-    print("❌ Error: google-genai no instalado. Ejecuta: pip install google-genai")
-    sys.exit(1)
+except Exception:
+    genai = None
+    types = None
 
 try:
     from exa_py import Exa

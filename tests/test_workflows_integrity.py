@@ -43,5 +43,5 @@ def test_workflows_yaml_validity_and_omniroute_background_config():
         
         # Verify Node.js & OmniRoute background execution in steps
         assert "Setup Node.js" in content_str
-        assert "omni-route --port 8000 &" in content_str
+        assert "omniroute --port 8000 &" in content_str
         assert "http://localhost:8000/v1/models" in content_str
