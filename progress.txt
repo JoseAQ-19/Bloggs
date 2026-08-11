@@ -1,6 +1,38 @@
 # PROGRESS — NovumWorld Autoblogger
-# ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (REDISEÑO CINEMATOGRÁFICO ANTI-AI-SLOP & HERO 3D COMPLETADO)
-# ÚLTIMA ACTUALIZACIÓN: 2026-08-10 (REMEDIACIÓN EN LOTE DE IMÁGENES DUPLICADAS COMPLETADA)
+# ÚLTIMA ACTUALIZACIÓN: 2026-08-11 (REFACTORIZACIÓN OMNIROUTE GATEWAY 100% AUTÓNOMO COMPLETADA)
+# ÚLTIMA ACTUALIZACIÓN: 2026-08-11 (REMEDIACIÓN Y AUDITORÍA DE GITHUB ACTIONS WORKFLOWS COMPLETADA)
+
+## 🚀 REFACTORIZACIÓN OMNIROUTE GATEWAY 100% AUTÓNOMO (2026-08-11) - ESTADO: ✅ COMPLETADO
+- [x] **Refactorización de `core/llm_router.py`**:
+  - Simplificado el enrutador eliminando la cascada manual de fallbacks en Python.
+  - Implementado cliente OpenAI apuntando a `http://localhost:8000/v1` (`OMNIROUTE_BASE_URL`) con modelo `auto` (`LLM_MODEL`).
+  - Delegada la rotación de proveedores gratis, balanceo de carga y mitigación de `429 Rate Limit` 100% a OmniRoute.
+- [x] **Actualización de Entorno (`.env.example` & `core/config.py`)**:
+  - Inyectada la variable `LLM_MODEL="auto"` junto a `OMNIROUTE_BASE_URL` y `OMNIROUTE_API_KEY`.
+- [x] **Integración de OmniRoute en Segundo Plano en Workflows (`.github/workflows/*.yml`)**:
+  - Actualizados los 14 workflows para instalar Node.js 20, arrancar OmniRoute en segundo plano (`npx -y omni-route --port 8000 &`) e inyectarle los Secrets (`GEMINI_API_KEY`, `GROQ_API_KEY`, `OPENROUTER_API_KEY`, `GITHUB_TOKEN`).
+  - Añadido paso de comprobación de salud (`curl --fail http://localhost:8000/v1/models`).
+- [x] **Validación de Tests**:
+  - Pasada la suite completa (11/11 tests PASSED), incluyendo `test_workflows_integrity.py`, `test_api_retry.py`, `test_router.py`, `test_vercel_config.py` y `test_purge_and_clean.py`.
+
+## 🤖 REMEDIACIÓN Y AUDITORÍA DE GITHUB ACTIONS WORKFLOWS (2026-08-11) - ESTADO: ✅ COMPLETADO
+- [x] **Inspección Profunda de GitHub Actions (API REST & MCP)**:
+  - Analizadas las 50 ejecuciones más recientes de CI/CD para el repositorio `JoseAQ-19/Bloggs`.
+  - Identificadas 4 causas raíz principales de fallos en producción:
+    1. Permisos de escritura ausentes (`permissions: contents: write`) provocando error `403` en `git push`.
+    2. Secretos de entorno no inyectados (`env:`) causando fallo inmediato en `Run Writer` por falta de API keys (`GEMINI_API_KEY`, `NVIDIA_API_KEY`, etc.).
+    3. Rebase y push frágiles ante concurrencia de ejecuciones simultáneas en `main`.
+    4. Delays de OmniRoute local (`localhost:8000`) en CI.
+- [x] **Remediación Integral de los 14 Workflows (`.github/workflows/*.yml`)**:
+  - Actualizados los 14 pipelines en cascada (`biohacking_es.yml`, `biohacking_en.yml`, `funds_es.yml`, `funds_en.yml`, `tools_es.yml`, `tools_en.yml`, `ia_saas_es.yml`, `ia_saas_en.yml`, `creators_es.yml`, `creators_en.yml`, `crypto_es.yml`, `crypto_en.yml`, `viral_es.yml`, `viral_en.yml`).
+  - Añadido `permissions: contents: write` a nivel de workflow.
+  - Inyectado bloque global `env:` con todas las credenciales requeridas y `OMNIROUTE_ENABLED: "false"`.
+  - Implementado patrón resiliente de `git push` con reintentos y fallback a `git rebase --autostash`.
+  - Añadido disparador condicional de Vercel Deploy Hook tras la publicación de un nuevo artículo.
+- [x] **Suite de Tests de Integridad (`tests/test_workflows_integrity.py`)**:
+  - Creada suite de validación con 2/2 tests PASSED (100%), verificando existencia de los 14 workflows, sintaxis YAML válida, permisos de escritura, bloque de entorno y comandos git seguros.
+- [x] **Refactorización de Wrappers (`audit_v2.py`)**:
+  - Corregida la colisión de importación entre `audit_v2.py` raíz y `scripts/audit_v2.py` mediante `importlib.util`.
 
 ## 🎨 REDISEÑO CINEMATOGRÁFICO ANTI-AI-SLOP & HERO 3D (2026-08-10) - ESTADO: ✅ COMPLETADO
 - [x] **Agent Skills Creadas (`.agent/skills/`)**:

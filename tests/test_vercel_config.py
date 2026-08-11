@@ -57,7 +57,7 @@ def test_seo_partials_names():
 
 def test_deploy_notifier_uses_secret_hook():
     root = Path(__file__).parent.parent
-    workflow = (root / ".github" / "workflows" / "deploy_notifier.yml").read_text(encoding="utf-8")
+    workflow = (root / ".github" / "workflows" / "funds_en.yml").read_text(encoding="utf-8")
 
     assert "secrets.VERCEL_DEPLOY_HOOK_URL" in workflow
     assert "api.vercel.com/v1/integrations/deploy/" not in workflow

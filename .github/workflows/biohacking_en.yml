@@ -5,9 +5,30 @@ on:
     - cron: '18 12 * * *'  # ÚNICO cron maestro que dispara la cascada
   workflow_dispatch:      # Permite ejecución manual bajo demanda
 
+permissions:
+  contents: write
+
 concurrency:
   group: biohacking-en-${{ github.ref }}
   cancel-in-progress: false
+
+env:
+  OMNIROUTE_BASE_URL: "http://localhost:8000/v1"
+  OMNIROUTE_API_KEY: "sk-omniroute"
+  LLM_MODEL: "auto"
+  GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+  GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+  GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+  OPENROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY || secrets.OPENROUTER_API_KEY || secrets.OPENROUTER_SCOUT_KEY }}
+  OPEN_ROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY || secrets.OPENROUTER_API_KEY }}
+  HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY || secrets.HF_SCOUT_API_KEY || secrets.CORRECTOR_HF_API_KEY }}
+  EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+  TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
+  NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+  TOKEN_MODELS: ${{ secrets.TOKEN_MODELS }}
+  MODELS_TOKEN_CEU: ${{ secrets.MODELS_TOKEN_CEU }}
+  VERCEL_DEPLOY_HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   # FASE 1: SCOUT (Busca tendencias en nichos ES/LATAM o EN/USA)
@@ -15,6 +36,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Start OmniRoute Gateway (Background)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY || secrets.OPENROUTER_API_KEY || secrets.OPENROUTER_SCOUT_KEY }}
+          OPEN_ROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY || secrets.OPENROUTER_API_KEY }}
+          HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY || secrets.HF_SCOUT_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npx -y omni-route --port 8000 &
+          sleep 6
+          curl --fail http://localhost:8000/v1/models || exit 1
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -28,8 +65,8 @@ jobs:
           git config user.email "bot@novumworld.com"
           git add .
           git commit -m "docs(scout): tendencias biohacking en [skip ci]" || exit 0
-          git pull --rebase --autostash origin main
-          git push origin main
+          git pull --rebase --autostash origin main || git rebase --abort
+          git push origin main || (sleep 5 && git pull --rebase --autostash origin main && git push origin main)
 
   # FASE 2: WRITER (Se activa AUTOMÁTICAMENTE al terminar el Scout)
   writer:
@@ -37,6 +74,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Start OmniRoute Gateway (Background)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY || secrets.OPENROUTER_API_KEY || secrets.OPENROUTER_SCOUT_KEY }}
+          OPEN_ROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY || secrets.OPENROUTER_API_KEY }}
+          HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY || secrets.HF_SCOUT_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npx -y omni-route --port 8000 &
+          sleep 6
+          curl --fail http://localhost:8000/v1/models || exit 1
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -50,8 +103,15 @@ jobs:
           git config user.email "bot@novumworld.com"
           git add .
           git commit -m "feat(writer): nuevo post biohacking en [skip ci]" || exit 0
-          git pull --rebase --autostash origin main
-          git push origin main
+          git pull --rebase --autostash origin main || git rebase --abort
+          git push origin main || (sleep 5 && git pull --rebase --autostash origin main && git push origin main)
+      - name: Trigger Vercel Deploy Hook
+        if: always()
+        run: |
+          if [ -n "$VERCEL_DEPLOY_HOOK_URL" ]; then
+            echo "Disparando Vercel Deploy Hook..."
+            curl -s -X POST "$VERCEL_DEPLOY_HOOK_URL" || true
+          fi
 
   # FASE 3: CORRECTOR (Se activa AUTOMÁTICAMENTE al terminar el Writer)
   corrector:
@@ -59,6 +119,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Start OmniRoute Gateway (Background)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY || secrets.OPENROUTER_API_KEY || secrets.OPENROUTER_SCOUT_KEY }}
+          OPEN_ROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY || secrets.OPENROUTER_API_KEY }}
+          HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY || secrets.HF_SCOUT_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npx -y omni-route --port 8000 &
+          sleep 6
+          curl --fail http://localhost:8000/v1/models || exit 1
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -71,6 +147,6 @@ jobs:
           git config user.name "NovumBot"
           git config user.email "bot@novumworld.com"
           git add .
-          git commit -m "fix(corrector): auditoría post biohacking en [skip ci]" || exit 0
-          git pull --rebase --autostash origin main
-          git push origin main
+          git commit -m "fix(corrector): auditoria post biohacking en [skip ci]" || exit 0
+          git pull --rebase --autostash origin main || git rebase --abort
+          git push origin main || (sleep 5 && git pull --rebase --autostash origin main && git push origin main)

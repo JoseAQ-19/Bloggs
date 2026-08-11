@@ -1,7 +1,12 @@
 import os
 import glob
 import re
-import audit_v2
+try:
+    import audit_v2
+    if not hasattr(audit_v2, 'analyze_file'):
+        raise ImportError
+except ImportError:
+    import scripts.audit_v2 as audit_v2
 
 def run_purge_and_clean():
     content_path = os.path.join(os.getcwd(), 'content', '**', '*.md')
