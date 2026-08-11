@@ -17,6 +17,9 @@
   - `layouts/home.html`: Layout de revista digital de vanguardia con tarjeta de post destacado principal y sección de tendencias en vivo.
   - `layouts/single.html`: Experiencia de lectura inmersiva con barra de progreso, TOC flotante, caja TL;DR y acordeón de FAQ dinámico desde YAML.
   - `layouts/partials/site-footer.html`: Footer futurista con indicador de estado operativo en vivo.
+- [x] **Solución Definitiva de Barra Lateral & Superposición de Z-Index (2026-08-11)**:
+  - **Eliminación de Rectángulo Negro Horizontal**: Corregido el valor excesivo de `z-index: 10002` en `.site-nav` dentro del media query responsive que provocaba que la barra superior se montara sobre la barra lateral como una franja negra horizontal. Ajustado `.site-nav` a `z-index: 1000` y la barra lateral `.sidebar` a `z-index: 99999` (máxima prioridad).
+  - **Eliminación del Botón de Cierre Duplicado**: Eliminado el conflicto entre la animación de la hamburguesa y la barra. La barra lateral cuenta con un único botón de cierre circular `✕` en su cabecera (`.sidebar__header`) que se despliega de forma limpia y fluida sobre el lateral izquierdo de la pantalla.
 - [x] **Reestructuración CI/CD & Purga de Workflows (2026-08-11)**:
   - Eliminados todos los workflows antiguos en `.github/workflows/` (`scout.yml`, `writer.yml`, `corrector.yml`, `deploy_notifier.yml`, `newsjacking-mrbeast-es/en.yml`, `remediate-duplicate-images.yml`).
   - Creados única y exclusivamente los **14 workflows en cascada encadenados** (7 secciones × 2 idiomas: ES y EN):
