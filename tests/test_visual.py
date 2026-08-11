@@ -296,6 +296,33 @@ class TestUniqueVisualPrompt:
             assert banned not in result, f"Banned word '{banned}' found in sanitized prompt"
 
 
+class TestFallbackHonesty:
+    """Regresión: el fallback local no debe enmascarar placeholders como imágenes únicas."""
+
+    def test_flat_fallback_returns_shared_default_path(self, tmp_path):
+        from novum_visual import NovumVisualEngine
+        engine = NovumVisualEngine()
+        ref, w, h = engine._get_fallback_image("crypto", str(tmp_path / "slug-x.webp"), "/images/slug-x.webp")
+        assert ref.startswith("/images/defaults/")
+        assert not (tmp_path / "slug-x.webp").exists()
+
+    def test_bundle_fallback_still_writes_featured(self, tmp_path):
+        from novum_visual import NovumVisualEngine
+        engine = NovumVisualEngine()
+        bundle = str(tmp_path / "bundle")
+        os.makedirs(bundle, exist_ok=True)
+        ref, w, h = engine._get_fallback_image("fitness", os.path.join(bundle, "featured.webp"), "featured.webp")
+        assert ref == "featured.webp"
+        assert os.path.exists(os.path.join(bundle, "featured.webp"))
+
+    def test_category_alias_biohacking_maps_to_fitness(self):
+        from novum_visual import _normalize_category
+        assert _normalize_category("biohacking") == "fitness"
+        assert _normalize_category("criptomonedas") == "crypto"
+        assert _normalize_category("crypto") == "crypto"
+        assert _normalize_category("") == "ia"
+
+
 class TestWebPBoundingBox:
     """Tests for the updated 1200x630 bounding box resize."""
 

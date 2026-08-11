@@ -89,7 +89,7 @@ def remediate_images(categories=None):
                         if img_ref and 'default' not in str(img_ref):
                             post['featured_image'] = img_ref
                             post['image'] = img_ref
-                            
+
                             # Keep body image synchronized
                             content = post.content or ''
                             if '![' in content and '](' in content:
@@ -101,27 +101,12 @@ def remediate_images(categories=None):
                             fixed_count += 1
                             print(f"   -> Successfully updated: {img_ref}")
                         else:
-                            # Generate a unique deterministic SVG/WebP asset if API is unavailable
-                            local_img_rel = f"/images/{slug}.webp"
-                            local_img_full = os.path.join(BASE_DIR, 'static', 'images', f"{slug}.webp")
-                            
-                            # Copy a clean high quality category template if needed
-                            cat_template = os.path.join(BASE_DIR, 'static', 'images', 'defaults', f"default-{category}.jpg")
-                            if not os.path.exists(cat_template):
-                                cat_template = os.path.join(BASE_DIR, 'static', 'images', 'defaults', "default-ia.jpg")
-                                
-                            if os.path.exists(cat_template):
-                                from PIL import Image
-                                img_obj = Image.open(cat_template)
-                                img_obj.convert('RGB').save(local_img_full, 'WEBP', quality=85)
-                                
-                                post['featured_image'] = local_img_rel
-                                post['image'] = local_img_rel
-                                frontmatter.dump(post, fpath)
-                                fixed_count += 1
-                                print(f"   -> Fallback generated unique WebP: {local_img_rel}")
-                            else:
-                                failed_count += 1
+                            # La generación falló (APIs no disponibles o rate limit).
+                            # NUNCA copiar el default de categoría bajo el nombre del slug:
+                            # eso creaba "imágenes únicas" con bytes idénticos (placeholders
+                            # enmascarados). Se reporta como fallo y se deja el frontmatter intacto.
+                            failed_count += 1
+                            print(f"   -> SKIPPED (generation unavailable, placeholder not masked): {slug}")
                     except Exception as ex:
                         failed_count += 1
                         print(f"   -> Exception fixing {slug}: {ex}")

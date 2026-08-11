@@ -1,0 +1,9 @@
+{
+  "sources": [
+    "https://example.com/source1"
+  ],
+  "key_findings": [
+    "Finding 1",
+    "Finding 2"
+  ]
+}

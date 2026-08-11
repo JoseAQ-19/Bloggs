@@ -19,11 +19,11 @@ if sys.platform == "win32" and hasattr(sys.stdout, 'reconfigure'):
         pass
 
 try:
-    from core.visual_context_extractor import build_image_prompt
-    from core.visual_logger import VisualLogger
-except ImportError:
     from visual_context_extractor import build_image_prompt
     from visual_logger import VisualLogger
+except ImportError:
+    from core.visual_context_extractor import build_image_prompt
+    from core.visual_logger import VisualLogger
 
 # Cargar entorno
 load_dotenv()
@@ -41,6 +41,24 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Archivo de estado persistente para intercalado entre ejecuciones
 PENDULUM_STATE_FILE = os.path.join(BASE_DIR, "data", ".last_image_api.txt")
+
+# ── CATEGORY ALIASES (slugs de sección -> clave canónica de nicho) ──
+# Los workflows/CLI pueden pasar slugs públicos (ej. --section biohacking);
+# el motor visual solo conoce las claves canónicas de VISUAL_STYLES.
+CATEGORY_ALIASES = {
+    "biohacking": "fitness",
+    "salud-bienestar": "fitness",
+    "salud": "fitness",
+    "criptomonedas": "crypto",
+    "stocks": "funds",
+}
+
+
+def _normalize_category(category: str) -> str:
+    """Normaliza un slug de sección a la clave canónica usada por los estilos visuales."""
+    key = str(category or "").strip().lower()
+    return CATEGORY_ALIASES.get(key, key or "ia")
+
 
 # ── BANNED GENERIC WORDS (prompt quality gate) ──
 BANNED_PROMPT_WORDS = [
@@ -86,12 +104,13 @@ def generate_unique_visual_prompt(title: str, summary: str, category: str, slug:
     Returns:
         A unique visual prompt string for image generation APIs
     """
+    category = _normalize_category(category)
     try:
-        from core.llm_router import LLMRouter
-        from core.prompts_factory import VISUAL_PROMPT_SYSTEM
-    except ImportError:
         from llm_router import LLMRouter
         from prompts_factory import VISUAL_PROMPT_SYSTEM
+    except ImportError:
+        from core.llm_router import LLMRouter
+        from core.prompts_factory import VISUAL_PROMPT_SYSTEM
 
     # Truncate summary to first 500 words to save tokens
     summary_truncated = " ".join(summary.split()[:500]) if summary else ""
@@ -274,6 +293,7 @@ class NovumVisualEngine:
             return False, 0, 0
 
     def generate_and_save(self, title, content, slug, category="ia", bundle_dir=None, prompt=None, seed=None):
+        category = _normalize_category(category)
         print(f"🎨 [VisualEngine V7] Procesando: {slug}")
 
         if bundle_dir:
@@ -467,10 +487,34 @@ class NovumVisualEngine:
             return False, 0, 0
 
     def _get_fallback_image(self, category, target_filepath=None, default_ref="featured.webp"):
+        """
+        Fallback local cuando todas las APIs de generación fallan.
+
+        - Leaf bundles: copia el default dentro del bundle (featured.webp) para
+          que la referencia relativa del frontmatter nunca quede rota.
+        - Posts planos (static/images): NO copia el default bajo el nombre del
+          slug. Devuelve la ruta real /images/defaults/default-{category}.jpg
+          para que el placeholder sea detectable por los auditores en lugar de
+          disfrazarse de imagen única (regresión: 111 posts crypto y 45 de
+          fitness compartían bytes idénticos con nombres distintos).
+        """
+        category = _normalize_category(category)
         filename = f"default-{category}.jpg"
         local_path = os.path.join(self.DEFAULT_DIR, filename)
         if not os.path.exists(local_path):
-            local_path = os.path.join(self.DEFAULT_DIR, "default-ia.jpg")
+            filename = "default-ia.jpg"
+            local_path = os.path.join(self.DEFAULT_DIR, filename)
+
+        is_leaf_bundle = default_ref == "featured.webp"
+
+        if not is_leaf_bundle:
+            honest_ref = f"/images/defaults/{filename}"
+            logger.warning(
+                f"[VISUAL] Generación fallida; usando placeholder compartido {honest_ref} "
+                f"(detectable por auditores, no se enmascara como imagen única)."
+            )
+            print(f"   🛡️ Placeholder compartido (sin enmascarar): {honest_ref}")
+            return honest_ref, 1200, 630
 
         if os.path.exists(local_path):
             print(f"   🛡️ Usando default local: {os.path.basename(local_path)}")

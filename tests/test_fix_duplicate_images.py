@@ -145,3 +145,41 @@ def test_remediate_duplicate_images_live(tmp_path, monkeypatch):
     assert reloaded_post2.get("image") == "featured.webp"
     assert (bundle2 / "featured.webp").exists()
     assert (bundle2 / "featured.webp").stat().st_size / 1024 < 150
+
+
+def test_scan_detects_same_bytes_under_different_names(tmp_path):
+    """Regresión: placeholders copiados con nombres únicos por slug deben detectarse por hash."""
+    img = Image.new("RGB", (64, 64), color=(10, 20, 30))
+
+    bundle1 = tmp_path / "content" / "es" / "crypto" / "post-a"
+    bundle1.mkdir(parents=True)
+    img.save(bundle1 / "cover-a.webp", "WEBP")
+    post1 = frontmatter.Post("Cuerpo A", title="Post A", slug="post-a", featured_image="cover-a.webp")
+    with open(bundle1 / "index.md", "wb") as f:
+        frontmatter.dump(post1, f)
+
+    bundle2 = tmp_path / "content" / "es" / "crypto" / "post-b"
+    bundle2.mkdir(parents=True)
+    img.save(bundle2 / "cover-b.webp", "WEBP")
+    post2 = frontmatter.Post("Cuerpo B", title="Post B", slug="post-b", featured_image="cover-b.webp")
+    with open(bundle2 / "index.md", "wb") as f:
+        frontmatter.dump(post2, f)
+
+    groups, total = scan_for_duplicates(str(tmp_path / "content"))
+    assert total == 2
+    assert len(groups) == 1
+    group_posts = next(iter(groups.values()))
+    assert {p["slug"] for p in group_posts} == {"post-a", "post-b"}
+
+
+def test_scan_respects_categories_filter(tmp_path):
+    posts_dir = tmp_path / "content" / "es"
+    for cat in ("crypto", "fitness"):
+        d = posts_dir / cat
+        d.mkdir(parents=True)
+        post = frontmatter.Post("Cuerpo", title=f"P-{cat}", slug=f"p-{cat}", featured_image=f"/images/{cat}-x.webp")
+        with open(d / f"p-{cat}.md", "wb") as f:
+            frontmatter.dump(post, f)
+
+    _, total = scan_for_duplicates(str(posts_dir), categories=["crypto"])
+    assert total == 1

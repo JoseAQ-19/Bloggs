@@ -24,11 +24,34 @@ if sys.platform == "win32" and hasattr(sys.stdout, 'reconfigure'):
     sys.stdout.reconfigure(encoding='utf-8')
 
 # Asegurar importación de módulos en core/
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'core'))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, BASE_DIR)
+sys.path.insert(0, os.path.join(BASE_DIR, 'core'))
 
 
 from novum_visual import get_image, generate_unique_visual_prompt
+
+
+def _resolve_local_image(img_ref: str, bundle_dir=None) -> str:
+    """Resuelve una referencia de imagen del frontmatter a un archivo local, si existe."""
+    if not img_ref or img_ref.startswith("http"):
+        return ""
+    if img_ref.startswith("/images/"):
+        return os.path.join(BASE_DIR, "static", img_ref.lstrip("/"))
+    if bundle_dir and not os.path.isabs(img_ref):
+        return os.path.join(bundle_dir, img_ref)
+    return ""
+
+
+def _hash_file(path: str) -> str:
+    """MD5 del contenido del archivo, o cadena vacía si no se puede leer."""
+    try:
+        if path and os.path.exists(path):
+            with open(path, "rb") as f:
+                return hashlib.md5(f.read()).hexdigest()
+    except Exception:
+        pass
+    return ""
 
 
 def extract_category(filepath: str, post: frontmatter.Post) -> str:
@@ -83,11 +106,16 @@ def sync_featured_image_in_body(post: frontmatter.Post, image_ref: str) -> None:
     post.content = f"![{title}]({image_ref})\n\n{content.lstrip()}"
 
 
-def scan_for_duplicates(content_dir: str):
+def scan_for_duplicates(content_dir: str, categories=None):
     """
     Escanea todos los archivos Markdown en content_dir.
+
+    La agrupación es por CONTENIDO del archivo de imagen (hash MD5), no solo por
+    la cadena del frontmatter: el bug de regresión copiaba el default de categoría
+    bajo nombres únicos por slug, invisible a una agrupación por ruta.
+
     Retorna:
-      - duplicate_groups: dict[image_path, list[post_info]] para imágenes repetidas > 1 vez.
+      - duplicate_groups: dict[image_key, list[post_info]] para imágenes repetidas > 1 vez.
       - total_scanned: int
     """
     image_to_posts = defaultdict(list)
@@ -101,14 +129,10 @@ def scan_for_duplicates(content_dir: str):
                 continue
 
             filepath = os.path.join(root, filename)
-            total_scanned += 1
 
             try:
                 post = frontmatter.load(filepath)
                 img_path = extract_image_field(post)
-                if not img_path:
-                    # Sin imagen se agrupa como vacía para ser tratada como duplicada/falta
-                    img_path = "__MISSING_IMAGE__"
 
                 slug = post.get('slug')
                 if not slug:
@@ -123,12 +147,17 @@ def scan_for_duplicates(content_dir: str):
                     desc = post.content[:300] if post.content else title
 
                 category = extract_category(filepath, post)
+                if categories and category not in categories:
+                    continue
+
+                total_scanned += 1
+                bundle_dir = root if filename == "index.md" else None
 
                 post_info = {
                     'filepath': filepath,
                     'filename': filename,
                     'is_leaf_bundle': filename == "index.md",
-                    'bundle_dir': root if filename == "index.md" else None,
+                    'bundle_dir': bundle_dir,
                     'slug': slug,
                     'title': title,
                     'desc': desc,
@@ -137,13 +166,31 @@ def scan_for_duplicates(content_dir: str):
                     'post_obj': post
                 }
 
-                image_to_posts[img_path].append(post_info)
+                if not img_path:
+                    # Sin imagen se agrupa como vacía para ser tratada como duplicada/falta
+                    image_to_posts["__MISSING_IMAGE__"].append(post_info)
+                    continue
+
+                # Clave de agrupación: hash del contenido si el archivo existe;
+                # si no, la propia referencia (mantiene detección clásica por ruta).
+                local_file = _resolve_local_image(img_path, bundle_dir)
+                content_hash = _hash_file(local_file)
+                group_key = f"hash:{content_hash}" if content_hash else img_path
+                post_info['image_hash'] = content_hash
+                image_to_posts[group_key].append(post_info)
 
             except Exception as e:
                 print(f"⚠️ Error leyendo {filepath}: {e}")
 
     # Filtrar solo las imágenes que se repiten más de 1 vez
-    duplicate_groups = {img: posts for img, posts in image_to_posts.items() if len(posts) > 1}
+    duplicate_groups = {}
+    for key, posts in image_to_posts.items():
+        if len(posts) <= 1:
+            continue
+        # Clave legible: la referencia compartida si todos la comparten, si no, el hash.
+        refs = {p['current_image'] for p in posts}
+        canonical = posts[0]['current_image'] if len(refs) == 1 else key
+        duplicate_groups[canonical] = posts
     return duplicate_groups, total_scanned
 
 
@@ -181,6 +228,16 @@ def remediate_duplicate_images(duplicate_groups: dict, dry_run: bool = False):
 
     print("🚀 Iniciando regeneración de imágenes únicas...\n")
     processed = 0
+    still_placeholder = 0
+
+    # Hashes de las plantillas por defecto para detectar placeholders enmascarados
+    default_hashes = set()
+    defaults_dir = os.path.join(BASE_DIR, "static", "images", "defaults")
+    if os.path.isdir(defaults_dir):
+        for f in os.listdir(defaults_dir):
+            h = _hash_file(os.path.join(defaults_dir, f))
+            if h:
+                default_hashes.add(h)
 
     for p in affected_posts:
         processed += 1
@@ -207,6 +264,13 @@ def remediate_duplicate_images(duplicate_groups: dict, dry_run: bool = False):
         post['featured_image'] = img_ref
         sync_featured_image_in_body(post, img_ref)
 
+        # Aviso (no bloqueante): detectar si el resultado sigue siendo un placeholder
+        new_file = _resolve_local_image(img_ref, bundle_dir)
+        if 'default' in str(img_ref) or _hash_file(new_file) in default_hashes:
+            still_placeholder += 1
+            print(f"   ⚠️ '{slug}' sigue con placeholder (APIs de imagen no disponibles). "
+                  f"Configura NVIDIA_API_KEY/TOGETHER_API_KEY/HUGGINGFACE_API_KEY y reejecuta.")
+
         try:
             with open(filepath, 'wb') as f:
                 frontmatter.dump(post, f)
@@ -215,6 +279,8 @@ def remediate_duplicate_images(duplicate_groups: dict, dry_run: bool = False):
             print(f"❌ Error guardando {filepath}: {e}")
 
     print(f"\n🏁 Remediación completada. {processed}/{total_affected} artículos actualizados con éxito.")
+    if still_placeholder:
+        print(f"⚠️ {still_placeholder} artículos quedaron con placeholder compartido (faltan claves de API de imagen).")
 
 
 def main():
@@ -229,7 +295,15 @@ def main():
         action="store_true",
         help="Reporta los duplicados sin modificar archivos en disco."
     )
+    parser.add_argument(
+        "--categories",
+        nargs="+",
+        default=None,
+        help="Filtra categorías a remediar (ej. --categories fitness crypto)."
+    )
     args = parser.parse_args()
+
+    categories = [c.lower() for c in args.categories] if args.categories else None
 
     target_dir = args.content_dir
     if not target_dir:
@@ -244,7 +318,7 @@ def main():
         sys.exit(1)
 
     print(f"📂 Escaneando directorio: '{target_dir}'...")
-    duplicate_groups, total_scanned = scan_for_duplicates(target_dir)
+    duplicate_groups, total_scanned = scan_for_duplicates(target_dir, categories=categories)
     print(f"🔎 Total artículos analizados: {total_scanned}")
 
     remediate_duplicate_images(duplicate_groups, dry_run=args.dry_run)

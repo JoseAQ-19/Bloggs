@@ -2,125 +2,157 @@
 
 ## Repository Overview
 
-- NovumWorld is a bilingual Hugo publication with Python content and data pipelines.
-- English content lives under `content/en/`; Spanish content lives under `content/es/`.
-- Articles normally use Hugo leaf bundles: `content/{lang}/{category}/{slug}/index.md`.
-- `main.py` is the general article-generation entry point.
-- `stocks_main.py` is the specialized investment/funds entry point.
-- Core reusable logic belongs in `core/`; executable utilities belong in `scripts/`.
-- Tests are in `tests/` and use `pytest`.
-- Hugo configuration is in `config.toml`; deployment configuration is in `vercel.json`.
-- GitHub Actions workflows live in `.github/workflows/` and may generate content.
+- NovumWorld is a bilingual Hugo publication backed by Python research and content pipelines.
+- English content is under `content/en/`; Spanish content is under `content/es/`.
+- Categories currently include `ia`, `crypto`, `fitness`, `tools`, `youtube`, `viral`, and `funds`.
+- `main.py` is the general Scout -> Research -> Writer -> Save pipeline.
+- `stocks_main.py` is the independent investment-funds Scout -> Writer pipeline.
+- Reusable Python logic belongs in `core/`; command-line utilities belong in `scripts/`.
+- Tests are in `tests/` and use pytest, with `tests/conftest.py` adding `core/` and `scripts/` to `sys.path`.
+- Hugo templates and site layout are under `layouts/`; browser assets are under `static/`.
+- Hugo configuration is in `config.toml`; Vercel configuration is in `vercel.json`.
+- GitHub Actions workflows are under `.github/workflows/` and can generate or modify published content.
+
+## Instruction Files and Scope
+
+- This file applies to the whole repository unless a more specific `AGENTS.md` is added below a directory.
+- No `.cursor/rules/`, `.cursorrules`, or `.github/copilot-instructions.md` files were present when this guide was written.
+- `GEMINI.md` contains additional audit and security expectations; follow it when performing security reviews.
+- `.agent/workflows/deploy.md` documents the manual Vercel deploy-hook workflow.
+- `.agents/` contains editorial context, not executable application code.
+- Prefer the most specific applicable instruction file when repository guidance changes.
 
 ## Environment Setup
 
-- Use Python 3.11, matching the GitHub Actions writer workflow.
-- Create and activate a virtual environment before installing Python dependencies.
-- Install dependencies with `python -m pip install -r requirements.txt`.
-- Node dependencies are declared in `package.json`; install with `npm install` when needed.
-- Hugo must be installed locally for site builds and validation.
-- Do not commit `.env.local`, API keys, tokens, service-account JSON, or generated secrets.
-- Copy `.env.example` to a local environment file and fill in credentials privately.
-- Network-backed tests may require API credentials and may be slow or unavailable offline.
+- Use Python 3.11, matching the GitHub Actions workflows and the documented runtime.
+- Create a virtual environment before installing Python dependencies.
+- Windows PowerShell: `py -3.11 -m venv .venv` then `.\.venv\Scripts\Activate.ps1`.
+- macOS/Linux: `python3.11 -m venv .venv` then `source .venv/bin/activate`.
+- Install Python dependencies with `python -m pip install -r requirements.txt`.
+- Install Node dependencies with `npm install` when changing or building the frontend pipeline.
+- Hugo is required locally for site builds; Vercel uses Hugo `0.146.0`.
+- Runtime credentials are read from environment variables through `python-dotenv`.
+- Common credential variables include `GEMINI_API_KEY`, `GOOGLE_API_KEY`, `NVIDIA_API_KEY`, OpenRouter/GitHub Models tokens, and `VERCEL_DEPLOY_HOOK_URL`.
+- Never print, commit, or paste credentials, `.env` files, service-account JSON, or private deploy-hook URLs.
+- `.env*`, `.vercel/`, `public/`, `resources/`, caches, and Python bytecode are ignored or generated; verify before adding files.
 
 ## Build, Lint, and Test Commands
 
-- Install Python dependencies: `python -m pip install -r requirements.txt`.
-- Install JavaScript dependencies: `npm install`.
-- Build the site: `npm run build`.
-- Equivalent direct Hugo build: `hugo --gc --minify`.
-- Validate Hugo output locally: `hugo server -D`.
-- Run the complete Python test suite: `python -m pytest`.
-- Run tests with concise output: `python -m pytest -q`.
+- Install dependencies: `python -m pip install -r requirements.txt` and `npm install`.
+- Build the production site: `npm run build`.
+- Equivalent Hugo build: `hugo --gc --minify`.
+- Run a local draft-capable server: `hugo server -D`.
+- Run the complete pytest suite: `python -m pytest`.
+- Run the suite with concise output: `python -m pytest -q`.
 - Run one test module: `python -m pytest tests/test_visual.py`.
-- Run one test function: `python -m pytest tests/test_visual.py::test_function_name`.
-- Run one class method: `python -m pytest tests/test_file.py::TestClass::test_method`.
-- Select tests by expression: `python -m pytest -k "router and retry"`.
-- Stop at the first failure: `python -m pytest -x`.
-- Show local output and logs: `python -m pytest -s tests/test_router.py`.
-- Collect tests without running them: `python -m pytest --collect-only`.
-- Run a script syntax check: `python -m py_compile path/to/file.py`.
-- Compile all Python sources: `python -m compileall core scripts tests main.py stocks_main.py`.
-- No dedicated repository lint script is currently defined in `package.json`.
-- No formatter or type-checker configuration was found; preserve existing style manually.
-- Before a PR, run the focused tests first, then `python -m pytest`, then `npm run build`.
+- Run one test function: `python -m pytest tests/test_visual.py::test_visual_logger`.
+- Run one class method: `python -m pytest tests/test_visual.py::TestSeedDerivation::test_same_slug_same_seed`.
+- Select tests by keyword expression: `python -m pytest -k "router and retry"`.
+- Stop after the first failure: `python -m pytest -x`.
+- Show print statements and logs: `python -m pytest -s tests/test_router.py`.
+- Collect tests without executing them: `python -m pytest --collect-only`.
+- Compile a changed Python file: `python -m py_compile path/to/file.py`.
+- Compile project Python sources: `python -m compileall core scripts tests main.py stocks_main.py`.
+- Validate YAML/front matter: `python scripts/validate_yaml_strict.py`.
+- Validate one article structure: `python scripts/validate_structure.py --file path/to/article.md`.
+- Note that `validate_structure.py` deletes the target article when it fails validation; use it deliberately.
+- Validate article links: `python scripts/qa_link_validator.py path/to/article.md`.
+- There is no configured Python linter, formatter, type checker, or JavaScript lint script.
+- Do not invent a lint command; use focused pytest, compilation, and Hugo validation instead.
+- Before a substantial change, run the focused test, then `python -m pytest`, then `npm run build`.
+
+## Test Expectations
+
+- Prefer deterministic unit tests with mocks, `tmp_path`, and `monkeypatch` for API, filesystem, and deployment behavior.
+- Keep tests isolated: temporary content must be created under pytest `tmp_path` and cleaned up when needed.
+- Tests in `test_data_finance.py`, `test_data_pubmed.py`, and `test_data_youtube.py` use live external services and may be slow or unavailable offline.
+- `test_nvidia_integration.py` is also a credential-aware integration suite and can call paid or rate-limited APIs.
+- Mock LLM clients and HTTP responses rather than making network calls in ordinary unit tests.
+- Run network-backed tests intentionally and report credential, rate-limit, or connectivity failures separately from code failures.
+- Test filenames use `test_*.py`; test functions and methods use `test_` names; test classes use `Test...`.
+- Preserve standalone `if __name__ == "__main__"` test entry points when modifying tests that provide them.
 
 ## Running Application Pipelines
 
 - General pipeline example: `python main.py --category crypto --lang es`.
 - Use `--lang es` or `--lang en` to make language selection deterministic.
-- Categories are validated against the registry in `core/niche_registry.py`.
-- Do not run generation pipelines casually: they can call paid APIs, write content, and deploy.
+- Scout example: `python scripts/trend_scout.py --section crypto --lang es`.
+- Funds pipeline example: `python stocks_main.py --lang en`; omit `--lang` to process both languages.
+- Categories and aliases are validated through `core/niche_registry.py` and `main.py`.
+- Do not run generation pipelines casually: they can call paid APIs, write content, commit, push, or deploy.
 - Prefer fixture-based or mocked tests for changes to API, LLM, research, or deployment code.
-- Review generated Markdown, front matter, links, and images before publishing.
+- Review generated Markdown, front matter, links, images, and data files before publishing.
 
 ## Python Style
 
-- Follow PEP 8 conventions and use four spaces for indentation.
-- Keep files UTF-8, but use ASCII for new source text unless content requires otherwise.
-- Use readable, descriptive `snake_case` names for functions, variables, and modules.
-- Use `PascalCase` for classes and `UPPER_SNAKE_CASE` for module constants.
-- Keep public functions small and focused on one pipeline responsibility.
-- Add type annotations to new or modified public functions and meaningful data structures.
-- Prefer built-in generics such as `list[str]` when compatible with the project Python version.
-- Use docstrings for public functions with non-obvious behavior or side effects.
+- Follow PEP 8 with four spaces per indentation level and no tabs.
+- Keep source files UTF-8; prefer ASCII for new code unless the content or user-facing language requires other characters.
 - Keep imports at the top, grouped as standard library, third-party, then local imports.
-- Avoid duplicate imports and avoid modifying `sys.path` outside the established bootstrap pattern.
-- Use `pathlib.Path` for new filesystem code where practical; preserve compatible existing APIs.
-- Use context managers for files, subprocess resources, and other closable resources.
-- Specify `encoding="utf-8"` for text file operations.
-- Prefer f-strings for interpolation and avoid string concatenation for structured messages.
-- Keep lines reasonably short, but do not reformat unrelated legacy code.
-- Do not add comments that merely restate code; explain only non-obvious decisions.
+- Remove duplicate and unused imports when touching a file, but avoid unrelated cleanup.
+- Avoid runtime `sys.path` changes in new code; preserve the existing bootstrap pattern where compatibility requires it.
+- Use descriptive `snake_case` names for functions, variables, files, and module-level helpers.
+- Use `PascalCase` for classes and `UPPER_SNAKE_CASE` for constants.
+- Use type annotations on new or modified public functions and meaningful data structures.
+- Prefer built-in generics such as `list[str]` and `dict[str, Any]` when compatible with Python 3.11.
+- Use `Optional` or `None` explicitly for values that may be absent; do not hide nullable behavior.
+- Keep public functions focused on one pipeline responsibility and avoid needless global state.
+- Add docstrings to public functions with non-obvious behavior, side effects, or external I/O.
+- Prefer f-strings for interpolation and avoid concatenation for structured messages.
+- Use `pathlib.Path` for new filesystem code where practical; preserve compatible string paths in legacy APIs.
+- Open text files with an explicit `encoding="utf-8"`; use context managers for files and subprocess resources.
+- Keep lines reasonably short and preserve local formatting when a file is inconsistent.
+- Do not reformat an entire legacy file for a small behavioral change.
+- Add comments only for non-obvious decisions; do not restate the code.
 
-## Types, Data, and Errors
+## Data, APIs, and Error Handling
 
-- Validate external data at boundaries before passing it into core logic.
-- Treat JSON, front matter, API responses, and environment variables as untrusted input.
-- Check required keys and types before indexing dictionaries or iterating nested values.
-- Use `Optional` or `None` explicitly where a value may be unavailable.
-- Raise specific exceptions when callers can recover; do not use bare `except:`.
-- Catch broad exceptions only at intentional pipeline boundaries, log context, and fail safely.
-- Preserve the repository's fail-safe behavior for optional deploy and external-service operations.
+- Treat JSON, YAML/front matter, HTTP responses, API payloads, and environment variables as untrusted input.
+- Validate required keys and types at integration boundaries before indexing or iterating nested data.
+- Raise specific exceptions when callers can recover; never use a bare `except:`.
+- Catch broad exceptions only at intentional pipeline or external-service boundaries, log context, and fail safely.
 - Never silently swallow errors; return a documented status or emit a useful warning.
-- Include operation, path/category, and retry context in error messages.
-- Avoid logging secrets, authorization headers, full tokens, or private article data.
-- Use retries only for transient network/API failures and keep retry counts bounded.
-- Make filesystem writes atomic or backup-aware when changing existing editorial data.
+- Include the operation, category/path, provider, and retry context in error messages where relevant.
+- Do not log authorization headers, full tokens, private article data, or complete secret-bearing URLs.
+- Use bounded retries and backoff only for transient network, rate-limit, or service failures.
+- Preserve the fail-safe behavior of optional indexing, deployment, visual generation, and external research layers.
+- Use mocks for retry and fallback tests; assert both the successful result and the fallback path when practical.
+- Prefer atomic or backup-aware writes for existing editorial data and avoid deleting content unless the utility explicitly requires it.
 
 ## Content and Hugo Conventions
 
-- Preserve valid TOML/YAML front matter and existing field names when editing articles.
-- Keep language-specific content in its matching language directory.
-- Use lowercase, hyphen-separated slugs and avoid renaming published URLs without a reason.
-- Preserve translation metadata and deterministic hreflang keys when editing bilingual posts.
-- Keep images referenced by the article and store site assets under `static/images/` as established.
-- Use Hugo templates and shortcodes consistently with the existing Ananke theme integration.
-- Validate internal links, image paths, and rendered headings after content changes.
-- Keep editorial claims sourced and retain source metadata expected by QA scripts.
+- Preserve valid YAML front matter and existing field names when editing Markdown.
+- Generated posts commonly use leaf bundles such as `content/{lang}/{category}/{slug}/index.md`; legacy flat Markdown files also exist.
+- Keep each article in the matching language directory and use lowercase, hyphen-separated slugs.
+- Preserve `translationKey`, language metadata, author/category metadata, and deterministic bilingual linking.
+- Do not fabricate external or internal URLs; use only verified URLs supplied by the research/link pipeline.
+- Keep source metadata, disclaimers, FAQ data, tables, and other QA-required editorial structures intact.
+- Store bundle images beside their article when that pattern is already used; preserve established `static/` asset paths.
+- Use Hugo templates and Ananke conventions consistently; do not rename partials or menu identifiers casually.
+- Validate front matter, internal links, image references, headings, and rendered output after content changes.
+- Keep English content under `content/en/` and Spanish content under `content/es/`; do not mix language output.
 
 ## JavaScript, CSS, and Configuration
 
-- JavaScript is limited; preserve the existing CommonJS/PostCSS setup.
-- Use semicolons and two-space indentation in JavaScript/config snippets matching existing files.
-- Keep PostCSS configuration compatible with the Vercel build command.
-- Preserve the bilingual structure and menu identifiers in `config.toml`.
-- Use quoted strings when TOML values contain punctuation or could be parsed ambiguously.
-- Avoid changing deployment commands or Hugo version settings without testing a production-like build.
+- JavaScript is limited; preserve the CommonJS/PostCSS setup in `postcss.config.js`.
+- Use semicolons and the existing four-space indentation in the JavaScript and JSON configuration files.
+- Keep `package.json` scripts and Vercel's Hugo build command compatible with production.
+- Preserve Hugo `baseURL`, language configuration, menu identifiers, and Ananke custom CSS settings.
+- Quote TOML values containing punctuation or values that could be parsed ambiguously.
+- Avoid changing Hugo versions, theme branches, build commands, or deployment settings without a production-like build.
 
-## GitHub Actions and Deployment
+## Workflows and Deployment
 
-- Workflows use Ubuntu, Python 3.11, `pip install -r requirements.txt`, and `PYTHONPATH` for imports.
-- Changes to workflows should preserve least-privilege permissions and existing secret names.
-- Generated content workflows commit only intended content, data, and image paths when possible.
-- The Vercel deploy hook is `VERCEL_DEPLOY_HOOK_URL`; never hard-code its value.
-- Use `scripts/deploy_notifier.py` for the repository's guarded Git/Vercel deployment flow.
-- Confirm tests/builds and inspect `git diff` before committing or pushing.
-- Pull/rebase before pushing when concurrent GitHub Actions may have updated `main`.
+- Workflows run on Ubuntu with Python 3.11 and install from `requirements.txt`.
+- Preserve workflow permissions, concurrency controls, secret names, and the Scout -> Writer -> Corrector sequencing.
+- Workflow jobs may commit generated content and images; review their exact `git add` scope before changing it.
+- Do not run generation pipelines casually: they can call paid APIs, write articles, commit, push, or deploy.
+- For manual code deployment, follow `.agent/workflows/deploy.md`; do not trigger a second deploy for GitHub Actions content commits.
+- Use `scripts/deploy_notifier.py` only when the guarded Git/Vercel behavior is intended.
+- Never hard-code `VERCEL_DEPLOY_HOOK_URL` or any API key.
 
-## Repository-Specific Instructions
+## Change Hygiene
 
-- No `.cursor/rules/`, `.cursorrules`, or `.github/copilot-instructions.md` files were found.
-- `README.md`, `GEMINI.md`, `.agents/`, and `.agent/` contain additional project/editorial context.
-- Follow the most specific instruction file for the directory being changed if one is added later.
-- Keep changes focused and avoid committing caches such as `.pytest_cache/` or `__pycache__/`.
+- Inspect `git status --short` and `git diff` before editing; preserve unrelated user changes.
+- Keep changes focused and avoid committing `__pycache__/`, `.pytest_cache/`, generated site output, logs, or local scratch files.
+- Review generated Markdown, front matter, links, images, and `git diff` before committing or pushing.
+- Do not commit unless explicitly requested by the user.
