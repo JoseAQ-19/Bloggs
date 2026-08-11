@@ -40,5 +40,75 @@
     "cached_at": 1786447762.7508373,
     "func": "fetch_google_news",
     "args_summary": "('tools',)"
+  },
+  "21a068db0cd0ba4e3b3272cddddd6e25dad487d2eb369a2766316588951e7843": {
+    "data": [
+      {
+        "title": "Ya no será tan fácil copiar y pegar con IA: Claude pondrá una marca de agua en todos los textos que genere",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Cuidado con copiar y pegar a la IA: Anthropic implementará una marca de agua invisible en los textos de Claude",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Claves de la propuesta de ley orgánica de Trabajo para regular el uso de la IA en el sector artístico",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Los modelos abiertos de IA de China siempre han presumido de ser un absoluto chollo. Había gato encerrado",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Goldman Sachs advierte que la IA podría estar desplazando otras inversiones",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1786456263.6638787,
+    "func": "fetch_google_news",
+    "args_summary": "('ia',)"
+  },
+  "712dc6b87821c74ce3310d15eb2faa5011ccf2d0df44b2a976b735ced665ce6e": {
+    "data": [
+      {
+        "title": "IAB to Apple: Please, Take a Seat at the Table (2023)",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 2,
+        "url": "https://www.adexchanger.com/online-advertising/iab-to-apple-please-take-a-seat-at-the-table/"
+      },
+      {
+        "title": "A Tale of Dynamic Programming",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 16,
+        "url": "https://iagoleal.com/posts/dynamic-programming/"
+      },
+      {
+        "title": "U.S. brokers secret deal on clandestine Syrian nuclear site",
+        "source": "hackernews",
+        "lang": "en",
+        "score": 8,
+        "url": "https://www.axios.com/2026/08/10/syria-nuclear-israel-turkey-iaea"
+      }
+    ],
+    "cached_at": 1786456263.8928318,
+    "func": "fetch_hackernews",
+    "args_summary": "(['ia'],)"
   }
 }
