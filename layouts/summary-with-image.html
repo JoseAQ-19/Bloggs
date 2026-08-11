@@ -1,99 +1,51 @@
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
 <article class="glass-card flex flex-column h-100 w-100" data-aos="fade-up" data-aos-duration="800">
   
-  {{/* 1. IMAGEN CABECERA (ÚNICA) */}}
+  {{/* 1. THUMBNAIL IMAGE (16:9 ASPECT RATIO) */}}
   {{ if $featured_image }}
-  <div class="card-header w-100 overflow-hidden br4-top" style="aspect-ratio: 16/9; min-height: 180px;">
+  <div class="card-header w-100 overflow-hidden" style="aspect-ratio: 16/9; max-height: 185px;">
     <a href="{{ .RelPermalink }}" class="db h-100 grow">
-      {{ partial "func/GetOptimizedImage.html" (dict "page" . "class" "w-100 h-100 object-fit-cover" "alt" .Title) }}
+      {{ partial "func/GetOptimizedImage.html" (dict "page" . "class" "w-100 h-100 object-fit-cover card-header-img" "alt" .Title) }}
     </a>
   </div>
   {{ end }}
 
-  <div class="card-body flex flex-column flex-auto pa4">
-    {{/* 2. CATEGORY BADGES */}}
-    {{ if .Params.categories }}
-      <div class="mb2 flex flex-wrap gap-1">
-        {{ range .Params.categories }}
-          <span class="hero-badge-pill" style="font-size: 0.65rem; padding: 2px 8px; margin-bottom: 0;">{{ . | upper }}</span>
-        {{ end }}
-      </div>
-    {{ end }}
+  <div class="card-body flex flex-column flex-auto pa3 ph4-l pv3-l">
+    
+    {{/* 2. CATEGORY CIRCLE BADGE (MATCHES SCREENSHOT 3) */}}
+    <div class="mv2 flex items-center">
+      <span class="category-circle-badge">
+        {{ if .Section }}{{ .Section | upper | truncate 2 "" }}{{ else if .Params.categories }}{{ (index .Params.categories 0) | upper | truncate 2 "" }}{{ else }}IA{{ end }}
+      </span>
+    </div>
 
-    {{/* 3. TÍTULO */}}
-    <h2 class="f4 fw7 mv2 lh-title" style="font-family: var(--font-heading); color: #FFFFFF; word-break: normal; overflow-wrap: break-word;">
-      <a href="{{ .RelPermalink }}" class="white hover-cyan link transition-colors">
+    {{/* 3. CYAN TITLE LINK (MATCHES SCREENSHOT 3) */}}
+    <h3 class="f4 fw7 mv2 lh-title">
+      <a href="{{ .RelPermalink }}" class="card-title-link">
         {{ .Title }}
       </a>
-    </h2>
+    </h3>
 
-    {{/* 4. EXTRACTO LIMPIO (HIGH CONTRAST) */}}
-    <div class="f5 lh-copy mt2 mb4 excerpt-text" style="color: #94A3B8; flex-grow: 1;">
+    {{/* 4. EXCERPT TEXT (3-LINE CLAMP) */}}
+    <div class="f6 lh-copy mt1 mb3 excerpt-text" style="color: #94A3B8; flex-grow: 1;">
       {{ if .Description }}
-        {{ .Description | plainify | htmlUnescape | truncate 140 }}
+        {{ .Description | plainify | htmlUnescape | truncate 130 }}
       {{ else }}
-        {{ .Summary | plainify | htmlUnescape | truncate 140 }}
+        {{ .Summary | plainify | htmlUnescape | truncate 130 }}
       {{ end }}
     </div>
 
-    {{/* 5. BOTÓN READ MORE ANCLADO AL FONDO */}}
-    <div class="mt-auto pt3 bt" style="border-color: rgba(255, 255, 255, 0.1);">
+    {{/* 5. FOOTER ROW (AUTHOR & READ MORE BUTTON) */}}
+    <div class="mt-auto pt3 bt" style="border-color: rgba(255, 255, 255, 0.08);">
       <div class="flex items-center justify-between">
-        <div class="author-meta">
-          {{ with .Params.author | default site.Params.author }}
-            <span class="f7 fw6 cyan opacity-80">✍️ {{ if reflect.IsSlice . }}{{ index . 0 }}{{ else }}{{ . }}{{ end }}</span>
-          {{ end }}
+        <div class="author-meta flex items-center gap-1">
+          <span class="f7 fw6" style="color: #94A3B8;">✍️ {{ with .Params.author | default site.Params.author }}{{ if reflect.IsSlice . }}{{ index . 0 }}{{ else }}{{ . }}{{ end }}{{ end }}</span>
         </div>
-        <a href="{{ .RelPermalink }}" class="read-more-btn f7 fw7 ttu tracked br-pill ba ph3 pv2 transition-all link pointer">
-          {{ i18n "read_more" | default "Read more" }}
+        <a href="{{ .RelPermalink }}" class="read-more-btn f7 fw7 ttu tracked br-pill ph3 pv1 transition-all link pointer">
+          {{ i18n "read_more" | default "READ MORE" }}
         </a>
       </div>
     </div>
-  </div>
 
-  <style>
-    .glass-card {
-      display: flex;
-      flex-direction: column;
-      height: 100%;
-      width: 100%;
-      min-width: 0;
-      background: rgba(15, 23, 42, 0.75);
-      backdrop-filter: blur(12px);
-      border: 1px solid rgba(0, 240, 255, 0.15);
-      border-radius: 20px;
-      transition: all 0.3s ease;
-      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
-    }
-    .glass-card:hover {
-      transform: translateY(-5px);
-      border-color: rgba(0, 240, 255, 0.4);
-      box-shadow: 0 12px 35px rgba(0, 240, 255, 0.15);
-    }
-    .excerpt-text {
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      line-clamp: 3;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-    }
-    .read-more-btn {
-      border-color: rgba(0, 240, 255, 0.3);
-      color: #00F0FF;
-      text-decoration: none;
-      background: rgba(0, 240, 255, 0.08);
-    }
-    .read-more-btn:hover {
-      background-color: #00F0FF;
-      color: #07090E;
-      box-shadow: 0 0 15px #00F0FF;
-    }
-    .br4-top {
-      border-top-left-radius: 20px;
-      border-top-right-radius: 20px;
-    }
-    .object-fit-cover {
-      object-fit: cover;
-    }
-  </style>
+  </div>
 </article>

@@ -1498,46 +1498,122 @@ h1, h2, h3, h4, h5, h6,
    DIGITAL MAGAZINE CSS GRID (FIX CARD COLLAPSE)
    =================================================== */
 
+/* ===================================================
+   UNIFORM 3-COLUMN DIGITAL MAGAZINE GRID (MATCHES PHOTO 3)
+   =================================================== */
+
 .home-modern-grid {
     display: grid !important;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)) !important;
-    gap: 1.75rem !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 1.5rem !important;
     width: 100% !important;
+    max-width: 1200px !important;
+    margin: 0 auto !important;
     box-sizing: border-box !important;
 }
 
-@media (max-width: 680px) {
+@media (max-width: 960px) {
+    .home-modern-grid {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+}
+
+@media (max-width: 600px) {
     .home-modern-grid {
         grid-template-columns: 1fr !important;
     }
 }
 
-.home-featured-wrapper {
-    grid-column: 1 / -1 !important;
-    width: 100% !important;
-}
-
 .home-grid-card-wrapper {
     width: 100% !important;
-    min-width: 0 !important; /* Fixes flex/grid min-content collapse */
+    min-width: 0 !important;
     display: flex !important;
     flex-direction: column !important;
 }
 
 .glass-card {
+    display: flex !important;
+    flex-direction: column !important;
+    height: 100% !important;
     width: 100% !important;
     min-width: 0 !important;
-    word-break: normal !important;
-    overflow-wrap: break-word !important;
-    background: rgba(15, 23, 42, 0.75) !important;
+    background: rgba(13, 20, 36, 0.85) !important;
     border: 1px solid rgba(0, 240, 255, 0.15) !important;
     border-radius: 16px !important;
     backdrop-filter: blur(12px) !important;
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3) !important;
+    overflow: hidden !important;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35) !important;
+    transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.3s ease, box-shadow 0.3s ease !important;
 }
 
-.glass-card h2, .glass-card h3 {
-    word-break: normal !important;
-    overflow-wrap: break-word !important;
+.glass-card:hover {
+    transform: translateY(-5px) !important;
+    border-color: rgba(0, 240, 255, 0.4) !important;
+    box-shadow: 0 12px 35px rgba(0, 240, 255, 0.18) !important;
 }
+
+.card-header-img {
+    width: 100% !important;
+    aspect-ratio: 16 / 9 !important;
+    max-height: 185px !important;
+    object-fit: cover !important;
+    display: block !important;
+}
+
+/* CATEGORY CIRCLE BADGE (MATCHES PHOTO 3) */
+.category-circle-badge {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 28px !important;
+    height: 28px !important;
+    border-radius: 50% !important;
+    background: rgba(0, 240, 255, 0.12) !important;
+    border: 1px solid rgba(0, 240, 255, 0.3) !important;
+    color: #00F0FF !important;
+    font-size: 0.72rem !important;
+    font-weight: 700 !important;
+    font-family: 'Space Grotesk', sans-serif !important;
+    text-transform: uppercase !important;
+}
+
+/* CYAN TITLE LINK WITH CLAMP (MATCHES PHOTO 3) */
+.card-title-link {
+    color: #00F0FF !important;
+    font-family: 'Space Grotesk', 'Plus Jakarta Sans', sans-serif !important;
+    font-weight: 700 !important;
+    font-size: 1.05rem !important;
+    line-height: 1.35 !important;
+    text-decoration: underline !important;
+    text-underline-offset: 3px !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2 !important;
+    line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+    transition: color 0.2s ease !important;
+}
+
+.card-title-link:hover {
+    color: #FFFFFF !important;
+}
+
+.read-more-btn {
+    background: rgba(0, 240, 255, 0.08) !important;
+    color: #00F0FF !important;
+    border: 1px solid rgba(0, 240, 255, 0.3) !important;
+    font-size: 0.72rem !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.05em !important;
+    text-transform: uppercase !important;
+    text-decoration: none !important;
+    transition: all 0.25s ease !important;
+}
+
+.read-more-btn:hover {
+    background: #00F0FF !important;
+    color: #07090E !important;
+    box-shadow: 0 0 12px rgba(0, 240, 255, 0.5) !important;
+}
+
 
