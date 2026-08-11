@@ -8,8 +8,8 @@ date: '2026-08-10T12:07:44'
 description: 'Análisis de Inversión en Criptoactivos 2026: Estrategias de Mercado
   y Regulaciones MiCA.'
 draft: false
-featured_image: featured.webp
-image: featured.webp
+featured_image: /images/analisis-inversion-criptoactivos-2026.webp
+image: /images/analisis-inversion-criptoactivos-2026.webp
 image_height: 675
 image_width: 1200
 language: es
@@ -22,7 +22,7 @@ translationKey: 0fabb4ba-1df2-4bb9-4820-0a3ae3877908
 type: crypto
 ---
 
-![Análisis de Inversión en Criptoactivos 2026: Estrategias de Mercado y Regulaciones MiCA](featured.webp)
+![Análisis de Inversión en Criptoactivos 2026: Estrategias de Mercado y Regulaciones MiCA](/images/analisis-inversion-criptoactivos-2026.webp)
 
 ## Resumen Ejecutivo
 - La regulación europea MiCA entra en vigor de forma plena, redefiniendo las licencias para proveedores de servicios de activos virtuales (CASP).
