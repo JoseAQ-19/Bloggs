@@ -1,139 +1,22 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-08-10T09:55:42.354959+00:00",
-  "total_candidates": 17,
+  "scouted_at": "2026-08-11T14:44:39.572781+00:00",
   "topics": [
     {
       "rank": 1,
-      "title": "Rosen Law Firm Encourages BlackRock, Inc. Mutual Fund Investors to Inquire About Securities Class Action Investigation",
-      "lang": "en",
-      "source": "google_news_finance"
+      "title": "July Proves A Chilly Month For Tech Hedge Funds",
+      "lang": "en"
     },
     {
       "rank": 2,
-      "title": "Insider Selling: Morningstar (NASDAQ:MORN) Chairman Sells $450,719.36 in Stock",
-      "lang": "en",
-      "source": "google_news_finance"
+      "title": "Turkish Funds Urge Action as Stock Swings Threaten MSCI Status",
+      "lang": "en"
     },
     {
       "rank": 3,
-      "title": "Should I Buy VUG (Vanguard Morningstar Growth ETF) | AI Analysis, Technical & News Insights",
-      "lang": "en",
-      "source": "google_news_finance"
-    }
-  ],
-  "competitor_analysis": {
-    "key_phrases": {
-      "fund class": 22,
-      "full list": 20,
-      "index fund": 7,
-      "equity fund": 6,
-      "growth portfolio": 6,
-      "portfolio class": 6,
-      "small cap": 6,
-      "dividend etf": 5,
-      "etfalps shares": 5,
-      "view full": 4,
-      "list allspring": 4,
-      "class aallspring": 4,
-      "sector dividend": 4,
-      "dividend dogs": 4,
-      "list amplify": 4
-    },
-    "competitors_with_disclaimers": 0,
-    "sample_styles": {
-      "morningstar_com": "Institutional analysis, star ratings, fund comparisons, data-heavy",
-      "fidelity": "Investor education, viewpoints articles, balanced professional tone",
-      "vanguard_com": "Index investing advocacy, long-term focus, cost-conscious language",
-      "blackrock": "Institutional/macro perspective, iShares ETF focus, global outlook"
-    }
-  },
-  "all_headlines": [
-    {
-      "title": "Rosen Law Firm Encourages BlackRock, Inc. Mutual Fund Investors to Inquire About Securities Class Action Investigation",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMElyRDFPYVFlTFRSY3ZWazY2a1pwdlBVM1JUc0diZGc4VHJpSFBvbXlKNTNzVXRsNUZfalM2RmhzNkJlYmpoVldha2N3eDBaalIyaFFfMHlXS1dHLXVwNTZWdTNxYU9qaTQ0X2ZENEMtWVMtc2p5ZUtxZjRnTmlUM3hZSnFQWnZncHR4Uy1TUDJMYXBFVXRIaEo0d2VlOTZ0dUNtNGpEWG5lM3hjUnBpcDRNRk9ZeHFtWXdOb1NiZGlXeWpmZjVoMHEwOWVubVhTaDlSYXpSOWJ6bzBrb3JhVDU3azNZV19CVVdpLWlCY0d1Y1luT3djT2UxTDNDQUJrRXFBYms3d3k?oc=5"
-    },
-    {
-      "title": "Insider Selling: Morningstar (NASDAQ:MORN) Chairman Sells $450,719.36 in Stock",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSDRFSFpFWkd6WWt4QW5YNnRoWmNHQ0VadUdUOUpLQ2pwRUVIVC0yZUg3d1N4OUhwZkJtaEwzUFNJN184c0UwOUYtRUktaVpSb2hNQ0NyWU1OZ1N4azRjQ2ZkVnVQelZ3eTRZckJPZnp5TzBhbWd5RGRzLVlvbTI5VUp1WWg0eFVrcVNHTzY5QXVRZFo4c29tRkozYUEyODdGd2FuOGpkV1RsTFh2dEk3Q0JZcEFnT2pMbF8wU0tIYzJDZEE?oc=5"
-    },
-    {
-      "title": "Should I Buy VUG (Vanguard Morningstar Growth ETF) | AI Analysis, Technical & News Insights",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwNFZUZ24ybGkzVVh0UEoyUWNhX09WODR4RDAyUmlqdnFJQmNVMkpMS1hvVXZDOVh4UnBOUWlWUWlqd0puMEdaclp2c3ppVGhFeF8wMGY2dzMtMDlBNFNlRw?oc=5"
-    },
-    {
-      "title": "Vanguard Morningstar Small-Cap ETF (VB) Stock Price, News, Quote & History",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMb3haY1lEejk4MHVTcFd1TjhiZDF4YjZ6RUxLQlI4d2h2RkpIemRyQ3hSX1VjSDd0N1lCVnBPZzZrUXR2QVBaMlVyLWVuX0U?oc=5"
-    },
-    {
-      "title": "The Best Portfolio Management Apps Of 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoUEZkOVRtb25sdEVHcjVabUFaY2dfaUJBLWpkVVNqcEFMVnd4eVljT21ZZkZsQWlVaDZfT2ZMMU05ZXp6N29PQWF0MFpBYWc1clV0aC1OY252NVpoQ09BVUg0WXlDSTRHdllrMHZrSXVZSVp6ZU1oaC1rNA?oc=5"
-    },
-    {
-      "title": "Morningstar (NASDAQ:MORN) Chairman Sells 7,250 Shares of Stock",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX0s4TjB6eXB6SnlTVnpxYV9OVDY1WWQ4dFowd0tvNWExSlhWUlFaeXp5bVA5TFhQUHhvTjBfcjNGeTRhdHNZOXoxR3NqRDZQNi0wMVg3cUROeHZ0Y3lNTWNrZ3h1MHdZQVZmWHRpNkZjNFVaQlRWZXlNZXJUWVN3X2JJa243SDIwVjBYZHRYaHVjcG1uTkxaN2JXUkM0Qi1sdUxGbHZhQ3FUUWl3b1lGcmp3?oc=5"
-    },
-    {
-      "title": "Is Morningstar (MORN) Fully Valued As Strong Q2 Earnings And Index Rebrand Lift Interest?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQXZXNndUU1VsUFhCMFgyUkVhUkQwbGEycXVJOFIwNVBKMFVkam1waUlESllwNWZGMERtdmpJMHBweklqVm96YzZRWXBtN0cyRFo2ZEloOURKWUgzT3RESjhQWmJuYTRNZkpwX1U3aUxWUzJQWU9YOE4zZW4tLUxjYnhaTHlqTWZ2S3NhSUgwcmhjVGNQN0dmMF8wTGgtb1daRVprN3Rramc2VFdpWmUxa1JXX2Y0QWEwbEo2dXhPQkpmdzZNcHhNZ0t0YWVGWUd2TFZOYWhQU0pFc2Fp0gHiAUFVX3lxTE1EUUpxa1FTV190TmlEcV9EZ1h2cWd2ZG52Nkd1aHdGNXY2ZHl4d0w4d2JfTGQ2bUhkaUdLaDVESThvdDgxZHRvS0FSM2ZLdVNnUDh5a2MyRURqdm0xMHFVeU96aTkzTGJKX2x2bGFhUG43RTY4YnJleExqVTZESlpOZlNZdHVWOU1jc1ZCZnRxdG1ZR1NXTlhCNVdrYjFjdFVfSnloNXhVN2xOYV9odHVodDBiTTl2TVlnMWFWYkktcHpXcklyMEZHLW5GQ0J0MURmY3NXQmRZQmRWcjFkQ2ZjeHc?oc=5"
-    },
-    {
-      "title": "Morningstar downgrades $3.5bn Baron fund citing massive SpaceX stake",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObEl4Sm9MSmF0eENSN01YQjdzOWxLaS1KSWg0YWZzZ0pJeWk4dlVtZl9oVl96NnRhXzJ2akRWUFZMZGVPcHByenplUEhWVWNuZU9YOUV6YXBib0hyNEdPXzNHSU5MR1NRM0Y1emJiNDNmcE9wYzVBRDNTODg0RFlQWjJVMGR5bFNmeHUzTlRMQ0FpQXQtdmt1Mkh4Q3dfSExqcFNndFVMVzNFeV8wZmdJNzln?oc=5"
-    },
-    {
-      "title": "7 Best ETFs to Buy Now",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5MWpRaXBScDRZd0l4ak9ELWFmeEJRWDhvUjRZSllHaDBMMjVfX3JSNy1hSzljbEJOVVJZc0pCTDFhcmsyNWswSU0zdzJ4NU1PWjNDZUVTX29NOEdlS1JFaHVGUnB4OXhlYU95TA?oc=5"
-    },
-    {
-      "title": "Vanguard S&P 500 Growth Index Fund ETF Shares (VOOG) Stock Price, News, Quote & History",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BZUFkem9LRTAtb0EwQ2hLQjlwUTBacWw5dDRjSm5FeEdqUlcwbWltOFBLaFVvZzV2ajRNQkpQOFFaOHZSd3BKbzBhMFJnMTlKX0E?oc=5"
-    },
-    {
-      "title": "4 Best Silver Stocks for 2026 and How to Invest",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaTNrZE0wV01CdEZOTXdHVk92LUVkOGtjLWc0cW0xR2cxV0p0VFJRUzBxU3JjYWZOZVgtV2FxeUR5a3ZhdHA1cjJQQlhDeHFrSWhsU2VHSThoTkZpb1o0ZGVrZ3dUTV95S3prWTNfMFl0YXJ2TUR0QnRfR0xLVFNPWkVnUVVjWWRBVExR?oc=5"
-    },
-    {
-      "title": "5 Best Quantum Computing ETFs for 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1pzbzRIU2JuYUlDQkl3YzFmdm9CeW1fb1Qxd3NZS1UyQnd5YVRiSVh4NEpvTW1zT2E1LXBqY0JkR0drWnlCR0hhaHU2SXdPb1YtRk9TMkZQSHJLSXdfNXU3Q1J2Y0NfVTdlLVk4dXdwUEhURDFuQXpTTERnclZTcWd6VWI?oc=5"
-    },
-    {
-      "title": "Best Investment Apps Of 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SYXlWcm9VcWZmNEFGS2s3a0ZqRUxFb2REWFhkWFZVOUNKY09yUUNaakQ3QXZSRHphNVI5X21HRF83MEZ2d2o0dmx2U0tOemR3cVk0VzR3S3RTcHRTSTh5eGl0di0tTVhEZVhBbUdZNA?oc=5"
-    },
-    {
-      "title": "A Guide to Nasdaq ETF Investing",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGdIU3ZBMk1nRFJua2MwTGg0OF9CUk1ydlZLSUNWVVlfSUgtSFVIY1FIaU5nS05vTXc3MU1aWkZPLVJHb2xLME9MUGpVRm1xZXplckhVN1pwX2JuX0NwVGpTeG9RX2F0WGRQcTNucnRZUGpRci1zSmo2dWtxZGFOelNsbjcyanpxQ3FCTjFHdmg?oc=5"
-    },
-    {
-      "title": "5 Safest Dividend ETFs Retirees Can Buy in August and Hold Forever",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPempndEw1anNVR29oMmlfMkFEYkxSS2l2djY0VlRLd1lDRS1rQk5oblhNRUlLcnRtcUQ2VDlDQ2owSE95aGJQU3JCbFBzTl9hRjZzc1daQS1IWFF3QkRWdm10REQxSnlWcVhELXlfelNVQ29SamFuX2stS29VWU1Bd2ttNXN2V3ptYXdBSlRmdGdyWTY4bWNhSnQzeE93eUVqaWVkWUs0WndnOU42a2dz?oc=5"
-    },
-    {
-      "title": "How To Retire On Fidelity Index Funds In 10, 20, And 30 Years Mark Hamill (aldSj7BE1K)",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPTUNIeWFpWV9wZ1BQRFdDUm85TkRCUzJXUy1MUC1mdzJqYmJtRUFfcTMwQ3FHVUl6bjliUFNNTjFSZnVUbDRqYllVX0FuUy13V3FmWjdsVkFST00?oc=5"
-    },
-    {
-      "title": "5 Best Quantum Computing ETFs for 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1pzbzRIU2JuYUlDQkl3YzFmdm9CeW1fb1Qxd3NZS1UyQnd5YVRiSVh4NEpvTW1zT2E1LXBqY0JkR0drWnlCR0hhaHU2SXdPb1YtRk9TMkZQSHJLSXdfNXU3Q1J2Y0NfVTdlLVk4dXdwUEhURDFuQXpTTERnclZTcWd6VWI?oc=5"
+      "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Tuesday Amid Stalled US-Iran Talks",
+      "lang": "en"
     }
   ]
 }

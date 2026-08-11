@@ -152,5 +152,47 @@
     "cached_at": 1786458779.5981746,
     "func": "fetch_google_news",
     "args_summary": "('youtube',)"
+  },
+  "b617f752d1163e6059ff2361053b36ad803a3d5411c279bf35d5e8a97000751b": {
+    "data": [
+      {
+        "title": "July Proves A Chilly Month For Tech Hedge Funds",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Turkish Funds Urge Action as Stock Swings Threaten MSCI Status",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Tuesday Amid Stalled US-Iran Talks",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "FEMA authorizes funds to fight Hagen, Wrights Spring fires in Oregon",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Laurel Springs School to Accept ESA Funds from Arizona, Alabama, Arkansas, and New Hampshire",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1786459476.6709278,
+    "func": "fetch_google_news",
+    "args_summary": "('funds',)"
   }
 }
