@@ -110,5 +110,47 @@
     "cached_at": 1786456263.8928318,
     "func": "fetch_hackernews",
     "args_summary": "(['ia'],)"
+  },
+  "fb4ad1bcef6d3043168469167a15cb1cb1ab0f544701e2b912c49d41dd73fb7a": {
+    "data": [
+      {
+        "title": "YouTube modifica sus reglas de monetización y exige al menos mil seguidores y 8.000 horas de visualización válidas",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Actualización de monetización en YouTube 2027: nuevas reglas y cambios clave para creadores",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "YouTube endurece las normas para monetizar contenidos",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "YouTube duplica los requisitos de monetización: 8.000 horas o 20M de visitas en Shorts",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Ganar dinero en YouTube será más difícil: Google duplica uno de los requisitos para monetizar",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1786458779.5981746,
+    "func": "fetch_google_news",
+    "args_summary": "('youtube',)"
   }
 }
