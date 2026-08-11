@@ -7,12 +7,23 @@ import random
 import io
 import hashlib
 import logging
+import sys
 from PIL import Image
 from together import Together
 from dotenv import load_dotenv
 
-from visual_context_extractor import build_image_prompt
-from visual_logger import VisualLogger
+if sys.platform == "win32" and hasattr(sys.stdout, 'reconfigure'):
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+    except Exception:
+        pass
+
+try:
+    from core.visual_context_extractor import build_image_prompt
+    from core.visual_logger import VisualLogger
+except ImportError:
+    from visual_context_extractor import build_image_prompt
+    from visual_logger import VisualLogger
 
 # Cargar entorno
 load_dotenv()
@@ -75,8 +86,12 @@ def generate_unique_visual_prompt(title: str, summary: str, category: str, slug:
     Returns:
         A unique visual prompt string for image generation APIs
     """
-    from llm_router import LLMRouter
-    from prompts_factory import VISUAL_PROMPT_SYSTEM
+    try:
+        from core.llm_router import LLMRouter
+        from core.prompts_factory import VISUAL_PROMPT_SYSTEM
+    except ImportError:
+        from llm_router import LLMRouter
+        from prompts_factory import VISUAL_PROMPT_SYSTEM
 
     # Truncate summary to first 500 words to save tokens
     summary_truncated = " ".join(summary.split()[:500]) if summary else ""

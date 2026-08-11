@@ -33,6 +33,8 @@ def test_static_assets_exist():
     assert "--accent-purple" in css_content or "--font-heading" in css_content, "Missing design tokens in custom.css"
     assert "hero-3d-canvas" in css_content, "Missing 3D Hero canvas styles in custom.css"
     assert "section-hero-3d" in css_content, "Missing section 3D hero header styles in custom.css"
+    assert "sidebar__close" in css_content, "Missing sidebar close button styles in custom.css"
+    assert "sidebar-overlay" in css_content, "Missing sidebar overlay styles in custom.css"
     
     js_content = js_path.read_text(encoding="utf-8")
     assert "hero-3d-canvas" in js_content, "Missing canvas element selector in hero-3d.js"
