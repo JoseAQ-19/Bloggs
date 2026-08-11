@@ -1,0 +1,44 @@
+{
+  "6e9c6a02969a5e9b67222353d8954d32f29ac7ffcd642500a8a27decc747f088": {
+    "data": [
+      {
+        "title": "CMT Orange Tools 240.030.07M Sierra Circular Para Ranurar 180x3x30 Mm, Z18 Recto, Ideal Para Madera Y Plásticos",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Las nuevas herramientas de la PAC ayudan a los países a mejorar sus políticas agrícolas",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Liquidity Trend Heatmap [BigBeluga]: indicador de BigBeluga",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "United Drilling Tools Limited presenta sus resultados del primer trimestre finalizado el 30 de junio de 2026",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Karpa Tools Tracter Tipo Tambor – Capacidad 500 Kg, Elevación Manual, Herramienta Para Talleres Y Almacenes",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1786447762.7508373,
+    "func": "fetch_google_news",
+    "args_summary": "('tools',)"
+  }
+}
