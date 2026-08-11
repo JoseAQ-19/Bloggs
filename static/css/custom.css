@@ -1616,4 +1616,39 @@ h1, h2, h3, h4, h5, h6,
     box-shadow: 0 0 12px rgba(0, 240, 255, 0.5) !important;
 }
 
+/* ===================================================
+   SECTION THEMATIC 3D HERO HEADERS
+   =================================================== */
+
+.section-hero-3d {
+    min-height: 360px !important;
+    background: radial-gradient(circle at 50% 40%, rgba(15, 23, 42, 0.95) 0%, #07090E 85%) !important;
+    border-bottom: 1px solid rgba(0, 240, 255, 0.15) !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between !important;
+    position: relative !important;
+}
+
+.theme-crypto .section-hero-3d {
+    background: radial-gradient(circle at 50% 40%, rgba(5, 25, 10, 0.95) 0%, #05100A 85%) !important;
+    border-bottom-color: rgba(0, 255, 65, 0.2) !important;
+}
+
+.theme-fitness .section-hero-3d, .theme-biohacking .section-hero-3d {
+    background: radial-gradient(circle at 50% 40%, rgba(25, 10, 5, 0.95) 0%, #100501 85%) !important;
+    border-bottom-color: rgba(255, 95, 31, 0.2) !important;
+}
+
+.theme-youtube .section-hero-3d, .theme-creators .section-hero-3d {
+    background: radial-gradient(circle at 50% 40%, rgba(25, 10, 10, 0.95) 0%, #0A0A0A 85%) !important;
+    border-bottom-color: rgba(255, 51, 51, 0.2) !important;
+}
+
+.theme-viral .section-hero-3d {
+    background: radial-gradient(circle at 50% 40%, rgba(20, 10, 30, 0.95) 0%, #0D0518 85%) !important;
+    border-bottom-color: rgba(168, 85, 247, 0.2) !important;
+}
+
+
 

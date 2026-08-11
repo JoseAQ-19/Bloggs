@@ -1,67 +1,54 @@
-{{/* --- NEW: READING PROGRESS BAR CONTAINER --- */}}
+{{/* === NOVUMWORLD SECTION HEADER WITH THEMATIC 3D WEBGL ENGINE === */}}
 <div id="reading-progress-container">
   <div id="reading-progress-bar"></div>
 </div>
 
-{{ $featured_image := partials.Include "func/GetFeaturedImage.html" . }}
-{{ if $featured_image }}
-{{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
-{{ $featured_image_class := site.Params.featured_image_class | compare.Default "cover bg-top" }}
+{{ if .IsPage }}
+  {{/* SINGLE ARTICLE PAGES: Clean Glass Navigation Bar */}}
+  <header class="bg-black border-bottom-1 b--white-10">
+    {{ partials.Include "site-navigation.html" . }}
+  </header>
+{{ else }}
+  {{/* SECTION & LIST PAGES: Thematic 3D WebGL Background Canvas + Superimposed Title & Description */}}
+  <header class="hero-3d-section section-hero-3d relative w-100 overflow-hidden" style="min-height: 380px;">
+    {{/* 3D WebGL Canvas reading section theme e.g. crypto, ia, fitness, youtube, viral, funds */}}
+    <canvas id="hero-3d-canvas" class="hero-3d-canvas" data-theme="{{ .Section }}"></canvas>
 
-{{/* === WPO: Try to process hero background image to WebP === */}}
-{{- $heroSrc := $featured_image -}}
-{{- with .Params.featured_image -}}
-{{- $cleanPath := strings.TrimPrefix "/" . -}}
-{{- with resources.Get $cleanPath -}}
-{{- $heroWebP := .Resize "1200x webp q80" -}}
-{{- $heroSrc = $heroWebP.RelPermalink -}}
-{{- end -}}
-{{- end -}}
+    {{/* Translucent Glass Navigation Bar */}}
+    <div class="w-100 relative z-10">
+      {{ partials.Include "site-navigation.html" . }}
+    </div>
 
-<header class="{{ $featured_image_class }} hero-modern-overlay" style="background-image: url('{{ $heroSrc }}');">
-  {{ $cover_dimming_class := site.Params.cover_dimming_class | compare.Default "bg-black-60" }}
-  <div class="{{ $cover_dimming_class }}" style="backdrop-filter: blur(5px);">
-    {{ partials.Include "site-navigation.html" .}}
-    <div class="tc pv4 pv5-l ph3 ph4-ns"
-      style="display:flex; flex-direction:column; align-items:center; justify-content:center;">
-      <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title hero-title" data-aos="fade-up" data-aos-duration="1000">
+    {{/* Section Title & Summary Text Superimposed (Intact) */}}
+    <div class="hero-content-wrapper relative z-10 tc pv4 pv5-l ph3 ph4-ns center" style="max-width: 1000px;">
+      
+      {{/* Section Pill Badge */}}
+      <div class="hero-badge-pill mb2">
+        <span class="hero-badge-dot"></span>
+        <span>{{ if .Section }}{{ .Section | upper }} INTELLIGENCE{{ else }}NEWS SIGNAL{{ end }}</span>
+      </div>
+
+      {{/* Section Title */}}
+      <h1 class="hero-cinematic-title f1 f-subheadline-l fw8 white mb2 lh-title" data-aos="fade-up" data-aos-duration="1000">
         {{ .Title | compare.Default .Site.Title }}
       </h1>
+
+      {{/* Section Description / Summary Text (Preserved) */}}
       {{ with .Params.description }}
-      <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3 hero-subtitle" data-aos="fade-up" data-aos-delay="200"
-        style="text-align:center;">
+      <p class="hero-cinematic-subtitle f5 f3-l white-80 measure-wide-l center mt2 mb3 lh-copy" data-aos="fade-up" data-aos-delay="200">
         {{ . }}
-      </h2>
+      </p>
+      {{ else }}
+        {{ with $.Description }}
+        <p class="hero-cinematic-subtitle f5 f3-l white-80 measure-wide-l center mt2 mb3 lh-copy" data-aos="fade-up" data-aos-delay="200">
+          {{ . }}
+        </p>
+        {{ end }}
       {{ end }}
+
     </div>
-  </div>
-</header>
-{{ else }}
-<header class="bg-black pb3-m pb6-l">
+  </header>
 
-  <div class="flex justify-between items-center pa0 bg-black z-2 relative border-bottom-1 b--white-10">
-    {{ partials.Include "site-navigation.html" . }}
-  </div>
-
-  <div class="dn flex-ns tc-l pv3 ph3 ph4-ns z-2 relative flex-column items-center hero-modern" style="min-height: 50vh;">
-
-    {{/* --- TECH LOGO (eager load — above the fold) --- */}}
-    <div class="mb3" data-aos="zoom-in" data-aos-duration="1500">
-      <a href="/" title="Home">
-        <img src="/images/logo-tech.jpg" alt="Logo Tech" class="logo-tech br-100 ba b--cyan bw2 shadow-5"
-          loading="lazy" decoding="async" width="60" height="60">
-      </a>
-    </div>
-
-    <h1 class="f2 f-subheadline-l fw2 white mb0 lh-title hero-title" data-aos="zoom-out-up" data-aos-duration="1200">
-      {{ .Title | compare.Default .Site.Title }}
-    </h1>
-    {{ with .Params.description }}
-    <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4 hero-subtitle" data-aos="fade-up"
-      data-aos-delay="300" style="text-align:center;">
-      {{ . }}
-    </h2>
-    {{ end }}
-  </div>
-</header>
+  {{/* Load Multi-Thematic 3D Engine Script Async */}}
+  <script src="/js/hero-3d.js" defer></script>
 {{ end }}
