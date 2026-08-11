@@ -20,7 +20,7 @@
 <nav class="site-nav" role="navigation">
   <div class="site-nav__inner flex justify-between items-center w-100">
 
-    {{/* --- LEFT: Hamburger Button (15%) --- */}}
+    {{/* --- LEFT: Hamburger Button --- */}}
     <div class="flex items-center w-10 w-20-ns">
       <button class="hamburger-btn" id="hamburger-btn" aria-label="Abrir menú" aria-expanded="false">
         <span class="hamburger-btn__line"></span>
@@ -29,17 +29,16 @@
       </button>
     </div>
 
-    {{/* --- CENTER: Logo + Section (70%) --- */}}
+    {{/* --- CENTER: Logo + Section --- */}}
     <div class="flex items-center justify-center flex-grow-1">
-      <a href="{{ .Site.Home.RelPermalink }}" class="site-nav__logo" style="font-size: 0.9rem !important;">
+      <a href="{{ .Site.Home.RelPermalink }}" class="site-nav__logo" style="font-size: 0.95rem !important;">
         NOVUMWORLD
         <span class="site-nav__divider">|</span>
         <span class="header-icon {{ $animClass }}">{{ $icon }}</span>
-        <span class="site-nav__section-name" style="display:none !important;">{{ $sectionName }}</span>
       </a>
     </div>
 
-    {{/* --- RIGHT: Language Switcher (15%) --- */}}
+    {{/* --- RIGHT: Language Switcher --- */}}
     <div class="flex items-center justify-end w-20 w-20-ns" style="display: flex !important;">
       <ul class="lang-switcher flex" style="display: flex !important; list-style: none; margin: 0; padding: 0; gap: 0.3rem;">
         {{ $currentLang := .Site.Language.Lang }}
@@ -48,15 +47,10 @@
         {{ range .Site.Languages }}
         {{ $loopLang := .Lang }}
         {{ if eq $loopLang $currentLang }}
-        <!-- Idioma Actual -->
-        <li><span class="lang-active" style="color:var(--primary); font-weight:800; cursor:default;">{{ .Lang | upper
-            }}</span></li>
+        <li><span class="lang-active" style="color:var(--primary); font-weight:800; cursor:default;">{{ .Lang | upper }}</span></li>
         {{ else }}
-        <!-- Enlace al Otro Idioma -->
         <li>
           {{ $targetURL := "" }}
-
-          {{/* 1. Traducción exacta (Priority) */}}
           {{ if $page.IsTranslated }}
           {{ range $page.Translations }}
           {{ if eq .Language.Lang $loopLang }}
@@ -65,23 +59,17 @@
           {{ end }}
           {{ end }}
 
-          {{/* 2. Fallback Inteligente (Misma Sección) */}}
           {{ if eq $targetURL "" }}
           {{ if $page.Section }}
-          {{/* Construir ruta de sección robusta */}}
           {{ $sect := $page.Section | lower }}
-
           {{ if eq $loopLang "en" }}
-          {{/* EN es raíz: /section/ */}}
           {{ $targetURL = printf "/%s/" $sect }}
           {{ else }}
-          {{/* ES es prefijo: /es/section/ */}}
           {{ $targetURL = printf "/%s/%s/" $loopLang $sect }}
           {{ end }}
           {{ end }}
           {{ end }}
 
-          {{/* 3. Fallback Final (Home) */}}
           {{ if eq $targetURL "" }}
           {{ if eq $loopLang "en" }}
           {{ $targetURL = "/" }}
@@ -90,8 +78,7 @@
           {{ end }}
           {{ end }}
 
-          <a href="{{ $targetURL }}" class="lang-link"
-            style="color:var(--text-color); opacity:0.5; text-decoration:none; font-weight:400;">{{ .Lang | upper }}</a>
+          <a href="{{ $targetURL }}" class="lang-link" style="color:var(--text-color); opacity:0.5; text-decoration:none; font-weight:400;">{{ .Lang | upper }}</a>
         </li>
         {{ end }}
         {{ end }}
@@ -101,12 +88,12 @@
   </div>
 </nav>
 
-{{/* --- SIDEBAR MENU (Hidden by default) --- */}}
+{{/* --- SIDEBAR MENU DRAWER (Encuadrado Perfecto, Portal DOM) --- */}}
 <div class="sidebar-overlay" id="sidebar-overlay"></div>
 <aside class="sidebar" id="sidebar" aria-hidden="true">
   <div class="sidebar__header">
     <span class="sidebar__title">SECCIONES</span>
-    <button class="sidebar__close" id="sidebar-close">✕</button>
+    <button class="sidebar__close" id="sidebar-close" aria-label="Cerrar menú">✕</button>
   </div>
   <ul class="sidebar__menu">
     {{ if .Site.Menus.main }}
@@ -127,124 +114,19 @@
 
 {{/* --- STYLES & SCRIPTS --- */}}
 <style>
-  @keyframes spin-slow {
-    100% {
-      transform: rotate(360deg);
-    }
-  }
+  @keyframes spin-slow { 100% { transform: rotate(360deg); } }
+  @keyframes pulse { 50% { opacity: 0.5; } }
+  @keyframes shake { 0% { transform: translate(1px, 1px) rotate(0deg); } 10% { transform: translate(-1px, -2px) rotate(-1deg); } 50% { transform: translate(-1px, 2px) rotate(-1deg); } 100% { transform: translate(1px, -2px) rotate(-1deg); } }
+  @keyframes bounce { 0%, 20%, 50%, 80%, 100% { transform: translateY(0); } 40% { transform: translateY(-8px); } }
+  @keyframes float { 0% { transform: translateY(0px); } 50% { transform: translateY(-4px); } 100% { transform: translateY(0px); } }
 
-  @keyframes pulse {
-    50% {
-      opacity: 0.5;
-    }
-  }
-
-  @keyframes shake {
-    0% {
-      transform: translate(1px, 1px) rotate(0deg);
-    }
-
-    10% {
-      transform: translate(-1px, -2px) rotate(-1deg);
-    }
-
-    20% {
-      transform: translate(-3px, 0px) rotate(1deg);
-    }
-
-    30% {
-      transform: translate(3px, 2px) rotate(0deg);
-    }
-
-    40% {
-      transform: translate(1px, -1px) rotate(1deg);
-    }
-
-    50% {
-      transform: translate(-1px, 2px) rotate(-1deg);
-    }
-
-    60% {
-      transform: translate(-3px, 1px) rotate(0deg);
-    }
-
-    70% {
-      transform: translate(3px, 1px) rotate(-1deg);
-    }
-
-    80% {
-      transform: translate(-1px, -1px) rotate(1deg);
-    }
-
-    90% {
-      transform: translate(1px, 2px) rotate(0deg);
-    }
-
-    100% {
-      transform: translate(1px, -2px) rotate(-1deg);
-    }
-  }
-
-  @keyframes bounce {
-
-    0%,
-    20%,
-    50%,
-    80%,
-    100% {
-      transform: translateY(0);
-    }
-
-    40% {
-      transform: translateY(-10px);
-    }
-
-    60% {
-      transform: translateY(-5px);
-    }
-  }
-
-  @keyframes float {
-    0% {
-      transform: translateY(0px);
-    }
-
-    50% {
-      transform: translateY(-5px);
-    }
-
-    100% {
-      transform: translateY(0px);
-    }
-  }
-
-  .spin-slow {
-    animation: spin-slow 3s linear infinite;
-  }
-
-  .pulse {
-    animation: pulse 1s infinite;
-  }
-
-  .shake {
-    animation: shake 0.5s infinite;
-  }
-
-  .bounce {
-    animation: bounce 2s infinite;
-  }
-
-  .float {
-    animation: float 3s ease-in-out infinite;
-  }
-
-  .site-nav__inner {
-    padding: 0 1rem;
-  }
-
-  .flex-grow-1 {
-    flex-grow: 1;
-  }
+  .spin-slow { animation: spin-slow 3s linear infinite; }
+  .pulse { animation: pulse 1s infinite; }
+  .shake { animation: shake 0.5s infinite; }
+  .bounce { animation: bounce 2s infinite; }
+  .float { animation: float 3s ease-in-out infinite; }
+  .site-nav__inner { padding: 0 1rem; }
+  .flex-grow-1 { flex-grow: 1; }
 </style>
 
 <script>
@@ -255,19 +137,41 @@
     const closeBtn = document.getElementById('sidebar-close');
 
     function openMenu() {
-      sidebar.classList.add('sidebar--open');
-      overlay.classList.add('sidebar-overlay--visible');
-      btn.classList.add('hamburger-btn--active');
+      if (sidebar) sidebar.classList.add('sidebar--open');
+      if (overlay) overlay.classList.add('sidebar-overlay--visible');
+      if (btn) {
+        btn.classList.add('hamburger-btn--active');
+        btn.setAttribute('aria-expanded', 'true');
+      }
     }
 
     function closeMenu() {
-      sidebar.classList.remove('sidebar--open');
-      overlay.classList.remove('sidebar-overlay--visible');
-      btn.classList.remove('hamburger-btn--active');
+      if (sidebar) sidebar.classList.remove('sidebar--open');
+      if (overlay) overlay.classList.remove('sidebar-overlay--visible');
+      if (btn) {
+        btn.classList.remove('hamburger-btn--active');
+        btn.setAttribute('aria-expanded', 'false');
+      }
     }
 
-    if (btn) btn.addEventListener('click', openMenu);
+    function toggleMenu(e) {
+      if (e) e.stopPropagation();
+      if (sidebar && sidebar.classList.contains('sidebar--open')) {
+        closeMenu();
+      } else {
+        openMenu();
+      }
+    }
+
+    if (btn) btn.addEventListener('click', toggleMenu);
     if (closeBtn) closeBtn.addEventListener('click', closeMenu);
     if (overlay) overlay.addEventListener('click', closeMenu);
+    
+    // Close on ESC key
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && sidebar && sidebar.classList.contains('sidebar--open')) {
+        closeMenu();
+      }
+    });
   })();
 </script>
