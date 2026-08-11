@@ -1,0 +1,76 @@
+name: "Pipeline - Tools & Herramientas (EN)"
+
+on:
+  schedule:
+    - cron: '14 16 * * *'  # ÚNICO cron maestro que dispara la cascada
+  workflow_dispatch:      # Permite ejecución manual bajo demanda
+
+concurrency:
+  group: tools-en-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  # FASE 1: SCOUT (Busca tendencias en nichos ES/LATAM o EN/USA)
+  scout:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+      - name: Run Scout
+        run: python scripts/trend_scout.py --section tools --lang en
+      - name: Commit Scout Research
+        run: |
+          git config user.name "NovumBot"
+          git config user.email "bot@novumworld.com"
+          git add .
+          git commit -m "docs(scout): tendencias tools en [skip ci]" || exit 0
+          git pull --rebase --autostash origin main
+          git push origin main
+
+  # FASE 2: WRITER (Se activa AUTOMÁTICAMENTE al terminar el Scout)
+  writer:
+    needs: scout
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+      - name: Run Writer
+        run: python main.py --section tools --lang en
+      - name: Commit New Article & Images
+        run: |
+          git config user.name "NovumBot"
+          git config user.email "bot@novumworld.com"
+          git add .
+          git commit -m "feat(writer): nuevo post tools en [skip ci]" || exit 0
+          git pull --rebase --autostash origin main
+          git push origin main
+
+  # FASE 3: CORRECTOR (Se activa AUTOMÁTICAMENTE al terminar el Writer)
+  corrector:
+    needs: writer
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+      - name: Run Corrector Audit
+        run: python audit_v2.py --section tools --lang en
+      - name: Commit Audited Changes
+        run: |
+          git config user.name "NovumBot"
+          git config user.email "bot@novumworld.com"
+          git add .
+          git commit -m "fix(corrector): auditoría post tools en [skip ci]" || exit 0
+          git pull --rebase --autostash origin main
+          git push origin main

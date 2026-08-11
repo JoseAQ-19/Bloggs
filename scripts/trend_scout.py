@@ -23,8 +23,17 @@ import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from typing import List, Dict, Any, Optional
-from api_cache import cached_api_call
-from llm_router import LLMRouter
+ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+for d in [os.path.join(ROOT_DIR, "core"), os.path.join(ROOT_DIR, "scripts")]:
+    if d not in sys.path:
+        sys.path.insert(0, d)
+
+try:
+    from api_cache import cached_api_call
+    from llm_router import LLMRouter
+except ImportError:
+    from core.api_cache import cached_api_call
+    from core.llm_router import LLMRouter
 
 from dotenv import load_dotenv
 
@@ -236,9 +245,24 @@ def scout(category: str, target_lang: str = "es"):
         json.dump(output, f, ensure_ascii=False, indent=2)
     print(f"✅ Guardado en: {out_path}")
 
+SECTION_ALIASES = {
+    "ia-saas": "ia",
+    "ia_saas": "ia",
+    "biohacking": "fitness",
+    "creators": "youtube"
+}
+
+def normalize_section(sec: str) -> str:
+    if not sec:
+        return "ia"
+    sec_clean = sec.lower().strip()
+    return SECTION_ALIASES.get(sec_clean, sec_clean)
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--category', type=str, required=True)
+    parser.add_argument('--category', '--section', dest='section', type=str, required=True)
     parser.add_argument('--lang', type=str, choices=['es', 'en'], default='es')
     args = parser.parse_args()
-    scout(args.category, args.lang)
+    sec = normalize_section(args.section)
+    scout(sec, args.lang)
+

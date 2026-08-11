@@ -27,12 +27,20 @@ COMPLETED_FILE = 'data/completed.txt'
 
 import orchestrator
 
+SECTION_ALIASES = {
+    "ia-saas": "ia",
+    "ia_saas": "ia",
+    "biohacking": "fitness",
+    "creators": "youtube"
+}
+
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--category', type=str, required=True, help='Category or tools')
+    parser.add_argument('--category', '--section', dest='section', type=str, required=True, help='Category/Section or tools')
     parser.add_argument('--lang', type=str, choices=['es', 'en'], default=None, help='Force language: es (Spain) or en (US)')
     args = parser.parse_args()
-    cat = args.category.lower()
+    raw_cat = args.section.lower().strip()
+    cat = SECTION_ALIASES.get(raw_cat, raw_cat)
     forced_lang = args.lang
     
     # --- MODO STANDARD ---

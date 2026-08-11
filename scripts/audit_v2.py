@@ -1,8 +1,15 @@
+import sys
 import os
 import glob
 import re
 import json
 import unicodedata
+
+if sys.platform == "win32" and hasattr(sys.stdout, 'reconfigure'):
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+    except Exception:
+        pass
 
 # Pre-normalización global para optimizar el rendimiento del Auditor
 ROBOTIC_HEADERS_RAW = ["nuestra lectura", "el caso de estudio", "the case study", "the consensus expert", "el consenso experto"]
@@ -105,22 +112,51 @@ def analyze_file(filepath):
         }
     return None
 
-def run():
-    # Detectar entorno Bloggs (compatibilidad Windows/Linux)
+SECTION_ALIASES = {
+    "ia-saas": "ia",
+    "ia_saas": "ia",
+    "biohacking": "fitness",
+    "creators": "youtube"
+}
+
+def run(section=None, lang=None):
     content_path = os.path.join(os.getcwd(), 'content', '**', '*.md')
     files = glob.glob(content_path, recursive=True)
     death_row = []
     
+    sec_norm = SECTION_ALIASES.get(section.lower().strip(), section.lower().strip()) if section else None
+
     for f in files:
         if any(x in f for x in ['_index.md', 'about.md', 'contact.md', 'privacy.md']): continue
+        
+        # Filter by lang if specified
+        if lang:
+            l_clean = lang.lower().strip()
+            if f"content{os.sep}{l_clean}" not in f and f"content/{l_clean}" not in f:
+                continue
+                
+        # Filter by section if specified
+        if sec_norm:
+            if f"{os.sep}{sec_norm}{os.sep}" not in f and f"/{sec_norm}/" not in f:
+                continue
+
         res = analyze_file(f)
         if res: death_row.append(res)
             
-    print(f"📊 Auditoría completada. Artículos en Death Row: {len(death_row)}")
+    print(f"📊 Auditoría completada ({sec_norm or 'all'} / {lang or 'all'}). Artículos en Death Row: {len(death_row)}")
     for item in death_row:
         print(f"\n❌ ARCHIVO: {item['filepath']}")
-        print(f"   SCORES -> SEO: {item['seo']}, E-E-A-T: {item['eeat']}, GEO: {item['geo']}, Value: {item['value']}")
-        for i in item['issues']: print(f"     - {i}")
+        if 'error' in item:
+            print(f"   ERROR -> {item['error']}")
+        else:
+            print(f"   SCORES -> SEO: {item.get('seo', 0)}, E-E-A-T: {item.get('eeat', 0)}, GEO: {item.get('geo', 0)}, Value: {item.get('value', 0)}")
+            for i in item.get('issues', []): print(f"     - {i}")
 
 if __name__ == "__main__":
-    run()
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--category', '--section', dest='section', type=str, default=None)
+    parser.add_argument('--lang', type=str, choices=['es', 'en'], default=None)
+    args = parser.parse_args()
+    run(args.section, args.lang)
+

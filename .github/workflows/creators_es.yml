@@ -1,0 +1,76 @@
+name: "Pipeline - Creators & YouTube (ES)"
+
+on:
+  schedule:
+    - cron: '19 13 * * *'  # ÚNICO cron maestro que dispara la cascada
+  workflow_dispatch:      # Permite ejecución manual bajo demanda
+
+concurrency:
+  group: creators-es-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  # FASE 1: SCOUT (Busca tendencias en nichos ES/LATAM o EN/USA)
+  scout:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+      - name: Run Scout
+        run: python scripts/trend_scout.py --section creators --lang es
+      - name: Commit Scout Research
+        run: |
+          git config user.name "NovumBot"
+          git config user.email "bot@novumworld.com"
+          git add .
+          git commit -m "docs(scout): tendencias creators es [skip ci]" || exit 0
+          git pull --rebase --autostash origin main
+          git push origin main
+
+  # FASE 2: WRITER (Se activa AUTOMÁTICAMENTE al terminar el Scout)
+  writer:
+    needs: scout
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+      - name: Run Writer
+        run: python main.py --section creators --lang es
+      - name: Commit New Article & Images
+        run: |
+          git config user.name "NovumBot"
+          git config user.email "bot@novumworld.com"
+          git add .
+          git commit -m "feat(writer): nuevo post creators es [skip ci]" || exit 0
+          git pull --rebase --autostash origin main
+          git push origin main
+
+  # FASE 3: CORRECTOR (Se activa AUTOMÁTICAMENTE al terminar el Writer)
+  corrector:
+    needs: writer
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+      - name: Run Corrector Audit
+        run: python audit_v2.py --section creators --lang es
+      - name: Commit Audited Changes
+        run: |
+          git config user.name "NovumBot"
+          git config user.email "bot@novumworld.com"
+          git add .
+          git commit -m "fix(corrector): auditoría post creators es [skip ci]" || exit 0
+          git pull --rebase --autostash origin main
+          git push origin main
