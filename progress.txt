@@ -17,6 +17,11 @@
   - `layouts/home.html`: Layout de revista digital de vanguardia con tarjeta de post destacado principal y sección de tendencias en vivo.
   - `layouts/single.html`: Experiencia de lectura inmersiva con barra de progreso, TOC flotante, caja TL;DR y acordeón de FAQ dinámico desde YAML.
   - `layouts/partials/site-footer.html`: Footer futurista con indicador de estado operativo en vivo.
+- [x] **Cabeceras 3D WebGL Temáticas por Sección (2026-08-11)**:
+  - Reemplazadas las imágenes estáticas por lienzos 3D WebGL interactivos en 60 FPS en todas las cabeceras de sección (`/ia/`, `/crypto/`, `/fitness/`, `/youtube/`, `/viral/`, `/funds/`).
+  - Creados motores visuales 3D específicos por temática (Matriz Blockchain en Crypto, Doble Hélice ADN en Fitness/Biohacking, Espectro de Frecuencia en Creators/YouTube, Vórtice Cuántico en Viral, Velas Financieras en Funds y Orbe Neuronal en IA).
+  - Preservados íntegramente los títulos (`.Title`) y las descripciones explicativas (`.Params.description`) superpuestos sobre el canvas 3D.
+  - Sincronizado en `layouts/partials/site-header.html` y `static/js/hero-3d.js`.
 - [x] **Ajuste de Legibilidad y Grid UI (2026-08-10)**:
   - Corregido contraste de texto en lectura de artículos (`#E2E8F0` / `#F8FAFC` blanco impoluto sobre fondo abisal `#07090E`).
   - Eliminado duplicado de título H1 en el cuerpo de las páginas.
