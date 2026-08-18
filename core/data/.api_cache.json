@@ -754,5 +754,82 @@
     "cached_at": 1787079351.037109,
     "func": "fetch_exa_news",
     "args_summary": "('ia noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
+  },
+  "9ee96a29d2849810b096fb4ad7845a44fb015972f3144c10f16e0a281e09fb7c": {
+    "data": [
+      {
+        "title": "Your YouTube video views are about to skyrocket. Here's why.",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Laci Mosley's 'Scam Goddess' Launches Video on YouTube, Joins Will Ferrell's Big Money Players Network at iHeart",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Kane Parsons Just Dropped a New Backrooms Video on YouTube",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "YouTube changes how views are counted across all video formats",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "YouTube view count change: the last honest number goes public",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1787082824.7581902,
+    "func": "fetch_google_news",
+    "args_summary": "('youtube',)"
+  },
+  "f990e7eff0f3103ac01b2830c939d7dce846fb1e852800a979f12b26b78a0e42": {
+    "data": [
+      {
+        "title": "YouTube officialise des changements dans le comptage des vues qui permettront de les comptabiliser dès qu'on lance une vidéo",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://fr.ign.com/youtube-tv/91230/youtube-officialise-des-changements-dans-le-comptage-des-vues-qui-permettront-de-les-comptabiliser-d"
+      },
+      {
+        "title": "YouTube Reveals View Count Changes That Will Track Views The Instant Someone Hits Play on a Video",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://nordic.ign.com/youtube-tv/111260/youtube-reveals-view-count-changes-that-will-track-views-the-instant-someone-hits-play-on-a-video"
+      },
+      {
+        "title": "D23 2026: todos los anuncios y tráilers mostrados en la gran presentación de Disney",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/disney/232606/d23-2026-todos-los-anuncios-y-trailers-mostrados-en-la-gran-presentacion-de-disney"
+      },
+      {
+        "title": "YouTube will now count a view as soon as a video starts playing | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/"
+      }
+    ],
+    "cached_at": 1787082825.096948,
+    "func": "fetch_exa_news",
+    "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   }
 }
