@@ -194,5 +194,82 @@
     "cached_at": 1786459476.6709278,
     "func": "fetch_google_news",
     "args_summary": "('funds',)"
+  },
+  "4618dd580265f460566f713ecc35b03ce5ab52b17e317eed8d0201579ddcf0d6": {
+    "data": [
+      {
+        "title": "Planet Fitness, Inc. Stock 12‑Month Price Target Cut to $66.25, Implies 31% Upside",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "El diseño gana protagonismo en el sector fitness: Evergy Hybrid, reconocido en los FIT Sport Design Awards 2026",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Henrry Rodriguez, experto en fitness: «A los 55, dos o tres sesiones de fuerza a la semana son suficientes para mantener la masa muscular»",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Markus Frison, exatleta profesional: “No necesitas vivir en el gimnasio para estar fuerte, definido y sentirte atlético a los 30 y 40 años”",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "La Casa de la Juventud abre este miércoles las inscripciones en 986 plazas de 36 cursos y 15 talleres gratuitos de informática, para jóvenes de 14 a 30 años",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1787054140.7957811,
+    "func": "fetch_google_news",
+    "args_summary": "('fitness',)"
+  },
+  "f57c7b2f36f1b097c5b6ce234958742b388d8049bb95db71d158ac3ca0835b52": {
+    "data": [
+      {
+        "title": "Expertos coinciden: combinar fuerza y cardio no arruina tus ganancias musculares, salvo en una única excepción",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/medicina-y-salud/expertos-coinciden-combinar-fuerza-cardio-no-arruina-tus-ganancias-musculares-salvo-unica-excepcion"
+      },
+      {
+        "title": "De cero a 800 km/h en 5,3 segundos: China ha vuelto a romper un récord mundial con su apuesta por la levitación magnética",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/movilidad/cero-a-800-km-h-5-3-segundos-china-ha-vuelto-a-romper-record-mundial-su-apuesta-levitacion-magnetica"
+      },
+      {
+        "title": "Rodrigo llega a Barcelona: “Es un sueño y vamos a por todo” - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/futbol/rodri-llega-a-barcelona-es-un-sueno-y-vamos-a-por-todo-f202608-n/"
+      },
+      {
+        "title": "Alcaraz trabaja en Murcia para llegar al US Open - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/tenis/fotorrelato/alcaraz-trabaja-en-murcia-para-llegar-al-us-open-f202608-f/"
+      }
+    ],
+    "cached_at": 1787054141.2107718,
+    "func": "fetch_exa_news",
+    "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   }
 }
