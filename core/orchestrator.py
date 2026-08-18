@@ -1090,6 +1090,7 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
     clean_titulo = meta['titulo'].replace('\"', '')
     final_content = f"{front_matter}\n![{clean_titulo}]({imagen})\n\n{contenido_enrich}\n"
 
+    os.makedirs(os.path.dirname(filepath), exist_ok=True)
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(final_content)
     print(f"✅ Guardado: {filepath}")

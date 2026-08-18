@@ -1,0 +1,1176 @@
+[
+  {
+    "id": 31507073427,
+    "name": "Pipeline - Biohacking & Fitness (EN)",
+    "workflow_id": 331773575,
+    "event": "workflow_dispatch",
+    "status": "completed",
+    "conclusion": "failure",
+    "created_at": "2026-08-11T15:26:58Z",
+    "updated_at": "2026-08-11T15:27:48Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31507073427",
+    "head_branch": "main",
+    "jobs": [
+      {
+        "id": 93831270911,
+        "name": "scout",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-11T15:27:03Z",
+        "completed_at": "2026-08-11T15:27:35Z",
+        "failed_steps": [
+          {
+            "name": "Start OmniRoute Gateway (Background)",
+            "number": 4,
+            "started_at": "2026-08-11T15:27:27Z",
+            "completed_at": "2026-08-11T15:27:33Z"
+          }
+        ]
+      },
+      {
+        "id": 93831462374,
+        "name": "writer",
+        "status": "completed",
+        "conclusion": "skipped",
+        "started_at": "2026-08-11T15:27:36Z",
+        "completed_at": "2026-08-11T15:27:36Z",
+        "failed_steps": []
+      },
+      {
+        "id": 93831462483,
+        "name": "corrector",
+        "status": "completed",
+        "conclusion": "skipped",
+        "started_at": "2026-08-11T15:27:36Z",
+        "completed_at": "2026-08-11T15:27:36Z",
+        "failed_steps": []
+      }
+    ]
+  },
+  {
+    "id": 31505886324,
+    "name": "Pipeline - Funds & Bolsa (EN)",
+    "workflow_id": 331773581,
+    "event": "workflow_dispatch",
+    "status": "completed",
+    "conclusion": "cancelled",
+    "created_at": "2026-08-11T15:13:50Z",
+    "updated_at": "2026-08-11T15:19:11Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31505886324",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31503122554,
+    "name": "Pipeline - Funds & Bolsa (EN)",
+    "workflow_id": 331773581,
+    "event": "schedule",
+    "status": "completed",
+    "conclusion": "failure",
+    "created_at": "2026-08-11T14:43:41Z",
+    "updated_at": "2026-08-11T14:47:36Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31503122554",
+    "head_branch": "main",
+    "jobs": [
+      {
+        "id": 93817900478,
+        "name": "scout",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2026-08-11T14:43:45Z",
+        "completed_at": "2026-08-11T14:44:44Z",
+        "failed_steps": []
+      },
+      {
+        "id": 93818232994,
+        "name": "writer",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-11T14:44:50Z",
+        "completed_at": "2026-08-11T14:47:32Z",
+        "failed_steps": [
+          {
+            "name": "Run Writer",
+            "number": 5,
+            "started_at": "2026-08-11T14:47:04Z",
+            "completed_at": "2026-08-11T14:47:30Z"
+          }
+        ]
+      },
+      {
+        "id": 93819101985,
+        "name": "corrector",
+        "status": "completed",
+        "conclusion": "skipped",
+        "started_at": "2026-08-11T14:47:33Z",
+        "completed_at": "2026-08-11T14:47:32Z",
+        "failed_steps": []
+      }
+    ]
+  },
+  {
+    "id": 31502074049,
+    "name": "Pipeline - Creators & YouTube (ES)",
+    "workflow_id": 331773578,
+    "event": "schedule",
+    "status": "completed",
+    "conclusion": "failure",
+    "created_at": "2026-08-11T14:32:21Z",
+    "updated_at": "2026-08-11T14:34:12Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31502074049",
+    "head_branch": "main",
+    "jobs": [
+      {
+        "id": 93814363343,
+        "name": "scout",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2026-08-11T14:32:25Z",
+        "completed_at": "2026-08-11T14:33:13Z",
+        "failed_steps": []
+      },
+      {
+        "id": 93814627788,
+        "name": "writer",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-11T14:33:16Z",
+        "completed_at": "2026-08-11T14:34:11Z",
+        "failed_steps": [
+          {
+            "name": "Run Writer",
+            "number": 5,
+            "started_at": "2026-08-11T14:33:46Z",
+            "completed_at": "2026-08-11T14:34:08Z"
+          }
+        ]
+      },
+      {
+        "id": 93814937224,
+        "name": "corrector",
+        "status": "completed",
+        "conclusion": "skipped",
+        "started_at": "2026-08-11T14:34:11Z",
+        "completed_at": "2026-08-11T14:34:11Z",
+        "failed_steps": []
+      }
+    ]
+  },
+  {
+    "id": 31498123883,
+    "name": "Pipeline - IA & SaaS (ES)",
+    "workflow_id": 331773585,
+    "event": "schedule",
+    "status": "completed",
+    "conclusion": "failure",
+    "created_at": "2026-08-11T13:48:31Z",
+    "updated_at": "2026-08-11T13:52:14Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31498123883",
+    "head_branch": "main",
+    "jobs": [
+      {
+        "id": 93800874679,
+        "name": "scout",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2026-08-11T13:48:41Z",
+        "completed_at": "2026-08-11T13:51:11Z",
+        "failed_steps": []
+      },
+      {
+        "id": 93801667977,
+        "name": "writer",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-11T13:51:14Z",
+        "completed_at": "2026-08-11T13:52:13Z",
+        "failed_steps": [
+          {
+            "name": "Run Writer",
+            "number": 5,
+            "started_at": "2026-08-11T13:51:49Z",
+            "completed_at": "2026-08-11T13:52:11Z"
+          }
+        ]
+      },
+      {
+        "id": 93801980294,
+        "name": "corrector",
+        "status": "completed",
+        "conclusion": "skipped",
+        "started_at": "2026-08-11T13:52:14Z",
+        "completed_at": "2026-08-11T13:52:14Z",
+        "failed_steps": []
+      }
+    ]
+  },
+  {
+    "id": 31498029068,
+    "name": "Pipeline - Biohacking & Fitness (EN)",
+    "workflow_id": 331773575,
+    "event": "schedule",
+    "status": "completed",
+    "conclusion": "failure",
+    "created_at": "2026-08-11T13:47:24Z",
+    "updated_at": "2026-08-11T13:51:26Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31498029068",
+    "head_branch": "main",
+    "jobs": [
+      {
+        "id": 93800547584,
+        "name": "scout",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-11T13:47:34Z",
+        "completed_at": "2026-08-11T13:51:24Z",
+        "failed_steps": [
+          {
+            "name": "Commit Scout Research",
+            "number": 6,
+            "started_at": "2026-08-11T13:51:22Z",
+            "completed_at": "2026-08-11T13:51:23Z"
+          }
+        ]
+      },
+      {
+        "id": 93801733932,
+        "name": "writer",
+        "status": "completed",
+        "conclusion": "skipped",
+        "started_at": "2026-08-11T13:51:25Z",
+        "completed_at": "2026-08-11T13:51:25Z",
+        "failed_steps": []
+      },
+      {
+        "id": 93801734790,
+        "name": "corrector",
+        "status": "completed",
+        "conclusion": "skipped",
+        "started_at": "2026-08-11T13:51:25Z",
+        "completed_at": "2026-08-11T13:51:25Z",
+        "failed_steps": []
+      }
+    ]
+  },
+  {
+    "id": 31486801692,
+    "name": "Pipeline - Tools & Herramientas (ES)",
+    "workflow_id": 331773588,
+    "event": "schedule",
+    "status": "completed",
+    "conclusion": "failure",
+    "created_at": "2026-08-11T11:28:42Z",
+    "updated_at": "2026-08-11T11:30:34Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31486801692",
+    "head_branch": "main",
+    "jobs": [
+      {
+        "id": 93763950758,
+        "name": "scout",
+        "status": "completed",
+        "conclusion": "success",
+        "started_at": "2026-08-11T11:28:50Z",
+        "completed_at": "2026-08-11T11:29:30Z",
+        "failed_steps": []
+      },
+      {
+        "id": 93764135647,
+        "name": "writer",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-11T11:29:33Z",
+        "completed_at": "2026-08-11T11:30:33Z",
+        "failed_steps": [
+          {
+            "name": "Run Writer",
+            "number": 5,
+            "started_at": "2026-08-11T11:30:09Z",
+            "completed_at": "2026-08-11T11:30:31Z"
+          }
+        ]
+      },
+      {
+        "id": 93764391939,
+        "name": "corrector",
+        "status": "completed",
+        "conclusion": "skipped",
+        "started_at": "2026-08-11T11:30:34Z",
+        "completed_at": "2026-08-11T11:30:33Z",
+        "failed_steps": []
+      }
+    ]
+  },
+  {
+    "id": 31477746946,
+    "name": "Notificar a Vercel",
+    "workflow_id": 227887327,
+    "event": "push",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-11T09:26:59Z",
+    "updated_at": "2026-08-11T09:27:08Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31477746946",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31477620574,
+    "name": "Notificar a Vercel",
+    "workflow_id": 227887327,
+    "event": "push",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-11T09:25:16Z",
+    "updated_at": "2026-08-11T09:25:26Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31477620574",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31476437396,
+    "name": "Notificar a Vercel",
+    "workflow_id": 227887327,
+    "event": "push",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-11T09:09:25Z",
+    "updated_at": "2026-08-11T09:09:34Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31476437396",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31476027853,
+    "name": "Notificar a Vercel",
+    "workflow_id": 227887327,
+    "event": "push",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-11T09:04:08Z",
+    "updated_at": "2026-08-11T09:04:17Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31476027853",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31412127854,
+    "name": "Corrector Matrix Workflow",
+    "workflow_id": 331095700,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "skipped",
+    "created_at": "2026-08-10T17:03:40Z",
+    "updated_at": "2026-08-10T17:03:42Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31412127854",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31412121447,
+    "name": "Writer Matrix Workflow",
+    "workflow_id": 331095709,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "skipped",
+    "created_at": "2026-08-10T17:03:36Z",
+    "updated_at": "2026-08-10T17:03:37Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31412121447",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31410538113,
+    "name": "Scout Matrix Workflow",
+    "workflow_id": 331095704,
+    "event": "schedule",
+    "status": "completed",
+    "conclusion": "failure",
+    "created_at": "2026-08-10T16:44:50Z",
+    "updated_at": "2026-08-10T17:03:31Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31410538113",
+    "head_branch": "main",
+    "jobs": [
+      {
+        "id": 93527246488,
+        "name": "scout (funds, es)",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-10T16:44:53Z",
+        "completed_at": "2026-08-10T16:45:27Z",
+        "failed_steps": [
+          {
+            "name": "Run Scout",
+            "number": 5,
+            "started_at": "2026-08-10T16:45:24Z",
+            "completed_at": "2026-08-10T16:45:25Z"
+          }
+        ]
+      },
+      {
+        "id": 93527246571,
+        "name": "scout (funds, en)",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-10T16:44:53Z",
+        "completed_at": "2026-08-10T16:45:28Z",
+        "failed_steps": [
+          {
+            "name": "Run Scout",
+            "number": 5,
+            "started_at": "2026-08-10T16:45:26Z",
+            "completed_at": "2026-08-10T16:45:26Z"
+          }
+        ]
+      },
+      {
+        "id": 93527246579,
+        "name": "scout (crypto, es)",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-10T16:44:53Z",
+        "completed_at": "2026-08-10T16:45:29Z",
+        "failed_steps": [
+          {
+            "name": "Run Scout",
+            "number": 5,
+            "started_at": "2026-08-10T16:45:27Z",
+            "completed_at": "2026-08-10T16:45:27Z"
+          }
+        ]
+      },
+      {
+        "id": 93527246597,
+        "name": "scout (youtube, en)",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-10T16:44:53Z",
+        "completed_at": "2026-08-10T16:46:20Z",
+        "failed_steps": [
+          {
+            "name": "Run Scout",
+            "number": 5,
+            "started_at": "2026-08-10T16:46:18Z",
+            "completed_at": "2026-08-10T16:46:18Z"
+          }
+        ]
+      },
+      {
+        "id": 93527246609,
+        "name": "scout (tools, es)",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-10T16:44:53Z",
+        "completed_at": "2026-08-10T16:45:24Z",
+        "failed_steps": [
+          {
+            "name": "Run Scout",
+            "number": 5,
+            "started_at": "2026-08-10T16:45:23Z",
+            "completed_at": "2026-08-10T16:45:23Z"
+          }
+        ]
+      },
+      {
+        "id": 93527246610,
+        "name": "scout (viral, en)",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-10T16:44:54Z",
+        "completed_at": "2026-08-10T16:45:40Z",
+        "failed_steps": [
+          {
+            "name": "Run Scout",
+            "number": 5,
+            "started_at": "2026-08-10T16:45:37Z",
+            "completed_at": "2026-08-10T16:45:37Z"
+          }
+        ]
+      },
+      {
+        "id": 93527246616,
+        "name": "scout (ia, es)",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-10T16:45:00Z",
+        "completed_at": "2026-08-10T17:03:30Z",
+        "failed_steps": [
+          {
+            "name": "Run Scout",
+            "number": 5,
+            "started_at": "2026-08-10T17:03:27Z",
+            "completed_at": "2026-08-10T17:03:27Z"
+          }
+        ]
+      },
+      {
+        "id": 93527246617,
+        "name": "scout (youtube, es)",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-10T16:45:00Z",
+        "completed_at": "2026-08-10T16:45:38Z",
+        "failed_steps": [
+          {
+            "name": "Run Scout",
+            "number": 5,
+            "started_at": "2026-08-10T16:45:35Z",
+            "completed_at": "2026-08-10T16:45:35Z"
+          }
+        ]
+      },
+      {
+        "id": 93527246618,
+        "name": "scout (realestate, en)",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-10T16:44:54Z",
+        "completed_at": "2026-08-10T16:45:37Z",
+        "failed_steps": [
+          {
+            "name": "Run Scout",
+            "number": 5,
+            "started_at": "2026-08-10T16:45:35Z",
+            "completed_at": "2026-08-10T16:45:35Z"
+          }
+        ]
+      },
+      {
+        "id": 93527246620,
+        "name": "scout (fitness, en)",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-10T16:44:53Z",
+        "completed_at": "2026-08-10T16:45:30Z",
+        "failed_steps": [
+          {
+            "name": "Run Scout",
+            "number": 5,
+            "started_at": "2026-08-10T16:45:28Z",
+            "completed_at": "2026-08-10T16:45:28Z"
+          }
+        ]
+      },
+      {
+        "id": 93527246636,
+        "name": "scout (realestate, es)",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-10T16:44:53Z",
+        "completed_at": "2026-08-10T16:46:04Z",
+        "failed_steps": [
+          {
+            "name": "Run Scout",
+            "number": 5,
+            "started_at": "2026-08-10T16:46:03Z",
+            "completed_at": "2026-08-10T16:46:03Z"
+          }
+        ]
+      },
+      {
+        "id": 93527246652,
+        "name": "scout (tools, en)",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-10T16:44:53Z",
+        "completed_at": "2026-08-10T16:45:26Z",
+        "failed_steps": [
+          {
+            "name": "Run Scout",
+            "number": 5,
+            "started_at": "2026-08-10T16:45:23Z",
+            "completed_at": "2026-08-10T16:45:24Z"
+          }
+        ]
+      },
+      {
+        "id": 93527246657,
+        "name": "scout (ia, en)",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-10T16:45:00Z",
+        "completed_at": "2026-08-10T16:45:41Z",
+        "failed_steps": [
+          {
+            "name": "Run Scout",
+            "number": 5,
+            "started_at": "2026-08-10T16:45:38Z",
+            "completed_at": "2026-08-10T16:45:38Z"
+          }
+        ]
+      },
+      {
+        "id": 93527246661,
+        "name": "scout (viral, es)",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-10T16:45:00Z",
+        "completed_at": "2026-08-10T16:46:44Z",
+        "failed_steps": [
+          {
+            "name": "Run Scout",
+            "number": 5,
+            "started_at": "2026-08-10T16:46:42Z",
+            "completed_at": "2026-08-10T16:46:42Z"
+          }
+        ]
+      },
+      {
+        "id": 93527246665,
+        "name": "scout (fitness, es)",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-10T16:44:54Z",
+        "completed_at": "2026-08-10T16:45:30Z",
+        "failed_steps": [
+          {
+            "name": "Run Scout",
+            "number": 5,
+            "started_at": "2026-08-10T16:45:27Z",
+            "completed_at": "2026-08-10T16:45:27Z"
+          }
+        ]
+      },
+      {
+        "id": 93527246667,
+        "name": "scout (crypto, en)",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-10T16:44:54Z",
+        "completed_at": "2026-08-10T16:45:36Z",
+        "failed_steps": [
+          {
+            "name": "Run Scout",
+            "number": 5,
+            "started_at": "2026-08-10T16:45:33Z",
+            "completed_at": "2026-08-10T16:45:33Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31403159212,
+    "name": "Notificar a Vercel",
+    "workflow_id": 227887327,
+    "event": "push",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T15:21:44Z",
+    "updated_at": "2026-08-10T15:22:01Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31403159212",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31402637626,
+    "name": "Notificar a Vercel",
+    "workflow_id": 227887327,
+    "event": "push",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T15:15:52Z",
+    "updated_at": "2026-08-10T15:16:03Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31402637626",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31400839419,
+    "name": "Remediate Duplicate Images",
+    "workflow_id": 331193936,
+    "event": "workflow_dispatch",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T14:55:56Z",
+    "updated_at": "2026-08-10T15:24:01Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31400839419",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31399047031,
+    "name": "Notificar a Vercel",
+    "workflow_id": 227887327,
+    "event": "push",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T14:36:12Z",
+    "updated_at": "2026-08-10T14:53:35Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31399047031",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31389162689,
+    "name": "Notificar a Vercel",
+    "workflow_id": 227887327,
+    "event": "push",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T12:40:55Z",
+    "updated_at": "2026-08-10T12:41:57Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31389162689",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31386711469,
+    "name": "Notificar a Vercel",
+    "workflow_id": 227887327,
+    "event": "push",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T12:09:38Z",
+    "updated_at": "2026-08-10T12:09:48Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31386711469",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31386590500,
+    "name": "Notificar a Vercel",
+    "workflow_id": 227887327,
+    "event": "push",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T12:08:04Z",
+    "updated_at": "2026-08-10T12:08:13Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31386590500",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31386193901,
+    "name": "Notificar a Vercel",
+    "workflow_id": 227887327,
+    "event": "push",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T12:02:50Z",
+    "updated_at": "2026-08-10T12:03:00Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31386193901",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31382435062,
+    "name": "Corrector IA - Spanish",
+    "workflow_id": 241607919,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "skipped",
+    "created_at": "2026-08-10T11:11:47Z",
+    "updated_at": "2026-08-10T11:11:48Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31382435062",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31382158091,
+    "name": "Writer IA - Spanish",
+    "workflow_id": 237330587,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "failure",
+    "created_at": "2026-08-10T11:08:02Z",
+    "updated_at": "2026-08-10T11:11:45Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31382158091",
+    "head_branch": "main",
+    "jobs": [
+      {
+        "id": 93434515059,
+        "name": "generate",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-10T11:08:10Z",
+        "completed_at": "2026-08-10T11:11:44Z",
+        "failed_steps": [
+          {
+            "name": "Run Writer (ES)",
+            "number": 8,
+            "started_at": "2026-08-10T11:09:08Z",
+            "completed_at": "2026-08-10T11:11:42Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31382073172,
+    "name": "Scout IA - Spanish",
+    "workflow_id": 237330585,
+    "event": "schedule",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T11:06:52Z",
+    "updated_at": "2026-08-10T11:08:00Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31382073172",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31376948941,
+    "name": "Corrector Funds - English",
+    "workflow_id": 241607916,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T09:56:58Z",
+    "updated_at": "2026-08-10T09:58:19Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31376948941",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31376744825,
+    "name": "Writer Funds - English",
+    "workflow_id": 241485030,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T09:54:16Z",
+    "updated_at": "2026-08-10T09:56:55Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31376744825",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31376655304,
+    "name": "Scout Funds - English",
+    "workflow_id": 241485027,
+    "event": "schedule",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T09:53:05Z",
+    "updated_at": "2026-08-10T09:54:14Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31376655304",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31370274091,
+    "name": "Writer Funds - English",
+    "workflow_id": 241485030,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T08:29:14Z",
+    "updated_at": "2026-08-10T08:31:50Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31370274091",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31370186183,
+    "name": "Scout Funds - English",
+    "workflow_id": 241485027,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T08:28:02Z",
+    "updated_at": "2026-08-10T08:29:12Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31370186183",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31370186176,
+    "name": "Corrector Funds - Spanish",
+    "workflow_id": 241607917,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T08:28:02Z",
+    "updated_at": "2026-08-10T08:29:00Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31370186176",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31370007579,
+    "name": "Writer Funds - Spanish",
+    "workflow_id": 241485032,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T08:25:33Z",
+    "updated_at": "2026-08-10T08:27:59Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31370007579",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31369894737,
+    "name": "Scout Funds - Spanish",
+    "workflow_id": 241485028,
+    "event": "schedule",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T08:24:03Z",
+    "updated_at": "2026-08-10T08:25:31Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31369894737",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31364770446,
+    "name": "Corrector Fitness - English",
+    "workflow_id": 241607914,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T07:10:18Z",
+    "updated_at": "2026-08-10T07:11:37Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31364770446",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31363348645,
+    "name": "Writer Fitness - English",
+    "workflow_id": 237339831,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T06:48:06Z",
+    "updated_at": "2026-08-10T07:10:16Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31363348645",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31363282025,
+    "name": "Scout Fitness - English",
+    "workflow_id": 237339823,
+    "event": "schedule",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T06:47:01Z",
+    "updated_at": "2026-08-10T06:48:05Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31363282025",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31358630849,
+    "name": "\ud83d\udd2d Scout Fitness - Spanish",
+    "workflow_id": 237339824,
+    "event": "schedule",
+    "status": "completed",
+    "conclusion": "failure",
+    "created_at": "2026-08-10T05:27:04Z",
+    "updated_at": "2026-08-10T05:28:13Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31358630849",
+    "head_branch": "main",
+    "jobs": [
+      {
+        "id": 93362921863,
+        "name": "scout",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-10T05:27:08Z",
+        "completed_at": "2026-08-10T05:28:12Z",
+        "failed_steps": [
+          {
+            "name": "Notify Scheduler - Success",
+            "number": 8,
+            "started_at": "2026-08-10T05:28:09Z",
+            "completed_at": "2026-08-10T05:28:09Z"
+          },
+          {
+            "name": "Notify Scheduler - Failure",
+            "number": 9,
+            "started_at": "2026-08-10T05:28:09Z",
+            "completed_at": "2026-08-10T05:28:09Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31343668170,
+    "name": "Corrector Viral - English",
+    "workflow_id": 241607922,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-10T00:09:15Z",
+    "updated_at": "2026-08-10T00:10:19Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31343668170",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31343242669,
+    "name": "Writer Viral - English",
+    "workflow_id": 237339833,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-09T23:59:30Z",
+    "updated_at": "2026-08-10T00:09:12Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31343242669",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31343192547,
+    "name": "Scout Viral - English",
+    "workflow_id": 237339825,
+    "event": "schedule",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-09T23:58:13Z",
+    "updated_at": "2026-08-09T23:59:28Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31343192547",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31339835046,
+    "name": "Writer Viral - English",
+    "workflow_id": 237339833,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "skipped",
+    "created_at": "2026-08-09T22:36:48Z",
+    "updated_at": "2026-08-09T22:36:48Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31339835046",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31339833109,
+    "name": "Corrector Viral - Spanish",
+    "workflow_id": 241607923,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "skipped",
+    "created_at": "2026-08-09T22:36:45Z",
+    "updated_at": "2026-08-09T22:36:46Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31339833109",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31339833096,
+    "name": "Scout Viral - English",
+    "workflow_id": 237339825,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "skipped",
+    "created_at": "2026-08-09T22:36:45Z",
+    "updated_at": "2026-08-09T22:36:46Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31339833096",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31339660098,
+    "name": "Writer Viral - Spanish",
+    "workflow_id": 237339834,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "failure",
+    "created_at": "2026-08-09T22:32:44Z",
+    "updated_at": "2026-08-09T22:36:43Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31339660098",
+    "head_branch": "main",
+    "jobs": [
+      {
+        "id": 93311240962,
+        "name": "generate",
+        "status": "completed",
+        "conclusion": "failure",
+        "started_at": "2026-08-09T22:32:48Z",
+        "completed_at": "2026-08-09T22:36:42Z",
+        "failed_steps": [
+          {
+            "name": "Run python main.py --category viral --lang es",
+            "number": 8,
+            "started_at": "2026-08-09T22:33:45Z",
+            "completed_at": "2026-08-09T22:36:39Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31339611606,
+    "name": "Scout Viral - Spanish",
+    "workflow_id": 237339826,
+    "event": "schedule",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-09T22:31:35Z",
+    "updated_at": "2026-08-09T22:32:43Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31339611606",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31336000940,
+    "name": "Corrector YouTube - English",
+    "workflow_id": 241607924,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-09T21:07:10Z",
+    "updated_at": "2026-08-09T21:08:26Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31336000940",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31335662121,
+    "name": "Writer YouTube - English",
+    "workflow_id": 237339835,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-09T20:59:32Z",
+    "updated_at": "2026-08-09T21:07:08Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31335662121",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31335613739,
+    "name": "Scout YouTube - English",
+    "workflow_id": 237339827,
+    "event": "schedule",
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-08-09T20:58:23Z",
+    "updated_at": "2026-08-09T20:59:31Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31335613739",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31331971117,
+    "name": "Writer YouTube - English",
+    "workflow_id": 237339835,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "skipped",
+    "created_at": "2026-08-09T19:33:49Z",
+    "updated_at": "2026-08-09T19:33:50Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31331971117",
+    "head_branch": "main",
+    "jobs": []
+  },
+  {
+    "id": 31331968594,
+    "name": "Scout YouTube - English",
+    "workflow_id": 237339827,
+    "event": "workflow_run",
+    "status": "completed",
+    "conclusion": "skipped",
+    "created_at": "2026-08-09T19:33:45Z",
+    "updated_at": "2026-08-09T19:33:47Z",
+    "html_url": "https://github.com/JoseAQ-19/Bloggs/actions/runs/31331968594",
+    "head_branch": "main",
+    "jobs": []
+  }
+]

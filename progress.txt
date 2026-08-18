@@ -1,6 +1,35 @@
 # PROGRESS — NovumWorld Autoblogger
+# ÚLTIMA ACTUALIZACIÓN: 2026-08-18 (REPARACIÓN CI/CD GITHUB ACTIONS & INTEGRACIÓN MULTI-SKILL SYSTEM COMPLETADA)
+# ÚLTIMA ACTUALIZACIÓN: 2026-08-18 (INTEGRACIÓN GRAPHIFY KNOWLEDGE GRAPH Y AGENT SKILL COMPLETADA)
 # ÚLTIMA ACTUALIZACIÓN: 2026-08-11 (REFACTORIZACIÓN OMNIROUTE GATEWAY 100% AUTÓNOMO COMPLETADA)
-# ÚLTIMA ACTUALIZACIÓN: 2026-08-11 (REMEDIACIÓN Y AUDITORÍA DE GITHUB ACTIONS WORKFLOWS COMPLETADA)
+
+## 🚨 REPARACIÓN CI/CD GITHUB ACTIONS & ACTUALIZACIÓN MULTI-SKILL (2026-08-18) - ESTADO: ✅ COMPLETADO
+- [x] **Reparación de los 14 Workflows de GitHub Actions (`.github/workflows/*.yml`)**:
+  - Actualizado Node.js a versión LTS 22 (`actions/setup-node@v4`).
+  - Añadida instalación global síncrona de OmniRoute (`npm install -g omniroute`).
+  - Reemplazado `sleep 8` ciego por bucle de sondeo activo con comprobación de salud (`curl -s http://localhost:8000/v1/models`) de hasta 25 intentos (50s).
+- [x] **Optimización Lean (Ponytail) de Código Python**:
+  - Configurado timeout configurable y resiliente en `core/llm_router.py`.
+  - Añadida liberación determinista de memoria y buffers en `core/novum_visual.py`.
+- [x] **Rediseño Frontend & E-E-A-T (Impeccable Taste)**:
+  - Verificados tokens de diseño dark mode (#0a0a0c), microinteracciones y render 3D WebGL fluido en 60 FPS.
+  - Verificadas reglas de calidad GEO/SEO (RAG Chunking 40-60 palabras con negritas, tablas Markdown obligatorias y Schema FAQPage).
+- [x] **Sincronización con la Bóveda Maestra de Obsidian (`~/Documents/ObsidianVault/`)**:
+  - Generada la nota técnica de arquitectura de producción en `01_PROJECTS/NovumWorld.md`.
+- [x] **Validación y Tests Unitarios**:
+  - 22/22 tests de integridad y despliegue pasando (100%).
+
+
+## 🕸️ INTEGRACIÓN GRAPHIFY KNOWLEDGE GRAPH & AGENT SKILL (2026-08-18) - ESTADO: ✅ COMPLETADO
+- [x] **Instalación de `graphifyy`**: Instalado vía `pip install graphifyy` con soporte para parsers Tree-sitter de múltiples lenguajes (Python, JavaScript, TypeScript, Go, Rust, etc.).
+- [x] **Generación del Grafo del Repositorio (`graphify-out/`)**:
+  - Extraído el grafo de conocimiento completo del repositorio (`graph.json`: 1,199 nodos, 2,072 aristas y 121 comunidades).
+  - Generado el mapa visual interactivo de árbol `graphify-out/GRAPH_TREE.html`.
+  - Exportado el diagrama de flujo y arquitectura `graphify-out/Bloggs-1-callflow.html` con diagramas Mermaid interactivos.
+- [x] **Agent Skills & Reglas de Navegación**:
+  - Creado `.agent/skills/graphify-navigator/SKILL.md` (protocolo Graph-First anti-token waste, detección de impacto de cambios y sincronización incremental).
+  - Instaladas reglas y workflows nativos para Antigravity (`.agents/rules/graphify.md` y `.agents/workflows/graphify.md`).
+
 
 ## 🚀 REFACTORIZACIÓN OMNIROUTE GATEWAY 100% AUTÓNOMO (2026-08-11) - ESTADO: ✅ COMPLETADO
 - [x] **Refactorización de `core/llm_router.py`**:

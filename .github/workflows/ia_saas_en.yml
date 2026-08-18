@@ -36,24 +36,37 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      # 1. Configuración de Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
+
+      # 2. Instalación Global Síncrona
+      - name: Install OmniRoute CLI
+        run: npm install -g omniroute
+
+      # 3. Arranque en 2.º Plano con Polling Loop Saludable
       - name: Start OmniRoute Gateway (Background)
         env:
-          PORT: "8000"
-          OMNIROUTE_PORT: "8000"
+          PORT: 8000
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          OPENROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY || secrets.OPENROUTER_API_KEY || secrets.OPENROUTER_SCOUT_KEY }}
-          OPEN_ROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY || secrets.OPENROUTER_API_KEY }}
-          HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY || secrets.HF_SCOUT_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          PORT=8000 npx -y omniroute --port 8000 &
-          sleep 8
-          curl --fail http://localhost:8000/v1/models || exit 1
+          omniroute --port 8000 &
+          echo "Verificando disponibilidad de OmniRoute en http://localhost:8000/v1..."
+          for i in {1..25}; do
+            if curl -s http://localhost:8000/v1/models > /dev/null 2>&1; then
+              echo "OmniRoute está LISTO y respondiendo en el intento $i!"
+              break
+            fi
+            echo "Intento $i/25: Esperando 2 segundos más..."
+            sleep 2
+          done
+          curl --fail http://localhost:8000/v1/models || (echo "ERROR: OmniRoute no inició a tiempo" && exit 1)
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -76,24 +89,37 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      # 1. Configuración de Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
+
+      # 2. Instalación Global Síncrona
+      - name: Install OmniRoute CLI
+        run: npm install -g omniroute
+
+      # 3. Arranque en 2.º Plano con Polling Loop Saludable
       - name: Start OmniRoute Gateway (Background)
         env:
-          PORT: "8000"
-          OMNIROUTE_PORT: "8000"
+          PORT: 8000
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          OPENROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY || secrets.OPENROUTER_API_KEY || secrets.OPENROUTER_SCOUT_KEY }}
-          OPEN_ROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY || secrets.OPENROUTER_API_KEY }}
-          HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY || secrets.HF_SCOUT_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          PORT=8000 npx -y omniroute --port 8000 &
-          sleep 8
-          curl --fail http://localhost:8000/v1/models || exit 1
+          omniroute --port 8000 &
+          echo "Verificando disponibilidad de OmniRoute en http://localhost:8000/v1..."
+          for i in {1..25}; do
+            if curl -s http://localhost:8000/v1/models > /dev/null 2>&1; then
+              echo "OmniRoute está LISTO y respondiendo en el intento $i!"
+              break
+            fi
+            echo "Intento $i/25: Esperando 2 segundos más..."
+            sleep 2
+          done
+          curl --fail http://localhost:8000/v1/models || (echo "ERROR: OmniRoute no inició a tiempo" && exit 1)
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -123,24 +149,37 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      # 1. Configuración de Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
+
+      # 2. Instalación Global Síncrona
+      - name: Install OmniRoute CLI
+        run: npm install -g omniroute
+
+      # 3. Arranque en 2.º Plano con Polling Loop Saludable
       - name: Start OmniRoute Gateway (Background)
         env:
-          PORT: "8000"
-          OMNIROUTE_PORT: "8000"
+          PORT: 8000
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          OPENROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY || secrets.OPENROUTER_API_KEY || secrets.OPENROUTER_SCOUT_KEY }}
-          OPEN_ROUTER_API_KEY: ${{ secrets.OPEN_ROUTER_API_KEY || secrets.OPENROUTER_API_KEY }}
-          HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY || secrets.HF_SCOUT_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          PORT=8000 npx -y omniroute --port 8000 &
-          sleep 8
-          curl --fail http://localhost:8000/v1/models || exit 1
+          omniroute --port 8000 &
+          echo "Verificando disponibilidad de OmniRoute en http://localhost:8000/v1..."
+          for i in {1..25}; do
+            if curl -s http://localhost:8000/v1/models > /dev/null 2>&1; then
+              echo "OmniRoute está LISTO y respondiendo en el intento $i!"
+              break
+            fi
+            echo "Intento $i/25: Esperando 2 segundos más..."
+            sleep 2
+          done
+          curl --fail http://localhost:8000/v1/models || (echo "ERROR: OmniRoute no inició a tiempo" && exit 1)
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'

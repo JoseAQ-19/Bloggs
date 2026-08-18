@@ -291,6 +291,14 @@ class NovumVisualEngine:
         except Exception as e:
             print(f"   ❌ Error procesando WebP: {e}")
             return False, 0, 0
+        finally:
+            try:
+                if 'curr_image' in locals() and hasattr(curr_image, 'close'):
+                    curr_image.close()
+                if 'output_buffer' in locals() and hasattr(output_buffer, 'close'):
+                    output_buffer.close()
+            except Exception:
+                pass
 
     def generate_and_save(self, title, content, slug, category="ia", bundle_dir=None, prompt=None, seed=None):
         category = _normalize_category(category)

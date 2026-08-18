@@ -48,7 +48,7 @@ class LLMRouter:
                 ],
                 temperature=temperature,
                 max_tokens=8192,
-                timeout=5
+                timeout=int(os.getenv("OMNIROUTE_TIMEOUT", "60"))
             )
             
             result = resp.choices[0].message.content

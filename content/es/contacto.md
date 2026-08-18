@@ -1,4 +1,6 @@
 ---
+featured_image: /images/contacto.webp
+image: /images/contacto.webp
 layout: page
 title: Contacto
 translationKey: contact

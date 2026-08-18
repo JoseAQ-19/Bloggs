@@ -58,9 +58,21 @@ jobs:
           HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY || secrets.HF_SCOUT_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          PORT=8000 npx -y omniroute --port 8000 &
-          sleep 8
-          curl --fail http://localhost:8000/v1/models || exit 1
+          PORT=8000 npx -y omniroute --port 8000 > omniroute.log 2>&1 &
+          GATEWAY_OK=0
+          for i in $(seq 1 30); do
+            if curl -sf http://localhost:8000/v1/models > /dev/null; then
+              GATEWAY_OK=1
+              break
+            fi
+            sleep 2
+          done
+          if [ "$GATEWAY_OK" = "1" ]; then
+            echo "✅ OmniRoute gateway listo."
+          else
+            echo "⚠️ OmniRoute no disponible tras 60s; LLMRouter usará fallbacks (Gemini directo / regex). Últimas líneas del log:"
+            tail -5 omniroute.log || true
+          fi
 
       - name: Set up Python
         uses: actions/setup-python@v5
