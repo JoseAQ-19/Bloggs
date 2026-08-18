@@ -348,5 +348,82 @@
     "cached_at": 1787055811.9508486,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
+  },
+  "2b1f9fc0665a8a6c5f5e0a84180cb83a7c8dc0942fa1c4b24c0dd5c3d1a49c3b": {
+    "data": [
+      {
+        "title": "Athletic Stretch: Weekly Fitness Classes",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "New Shawano recreation center expands fitness, technology and community space in central Wisconsin",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "RFK, Jr., and U.S. Rep. Miller-Meeks tout Presidential Fitness Test",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "RFK Jr., Miller-Meeks tout Presidential Fitness Test as measles surge",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Hyrox: a global fitness sensation made in Germany",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1787058923.3972478,
+    "func": "fetch_google_news",
+    "args_summary": "('fitness',)"
+  },
+  "5f74b081c9753b13b48c085df1624d184c9deb4bc34d11178f03bbc18aeae64e": {
+    "data": [
+      {
+        "title": "La serie de Kingdom Hearts no podría haber empezado mejor: una importante revelación y un reto de Tetsuya Nomura para los fans",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/kingdom-hearts-tv-series/232634/la-serie-de-kingdom-hearts-no-podria-haber-empezado-mejor-una-importante-revelacion-y-un-reto-de-tet"
+      },
+      {
+        "title": "El showrunner de Linternas nos explica la arriesgada decisión que cambia por completo lo que podíamos esperar de la serie",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/lanterns/232643/el-showrunner-de-linternas-nos-explica-la-arriesgada-decision-que-cambia-por-completo-lo-que-podiamo"
+      },
+      {
+        "title": "Brand New Day alcanza un hito que ninguna otra película de Spider-Man había conseguido",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/spider-man-brand-new-day/232637/brand-new-day-alcanza-un-hito-que-ninguna-otra-pelicula-de-spider-man-habia-conseguido"
+      },
+      {
+        "title": "Marvel recupera a Robert Downey Jr. como Iron Man, dejando una gran incógnita en el aire",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/avengers-the-kang-dynasty/232653/marvel-recupera-a-robert-downey-jr-como-iron-man-dejando-una-gran-incognita-en-el-aire"
+      }
+    ],
+    "cached_at": 1787058923.6641858,
+    "func": "fetch_exa_news",
+    "args_summary": "('fitness noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   }
 }
