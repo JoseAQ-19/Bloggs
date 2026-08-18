@@ -119,7 +119,18 @@ SECTION_ALIASES = {
     "creators": "youtube"
 }
 
-def run(section=None, lang=None):
+def run(section=None, lang=None, export_json=None, fix_file=None):
+    if fix_file:
+        try:
+            from core.daily_optimizer import DailyOptimizer
+            optimizer = DailyOptimizer()
+            res = optimizer.optimize_article(fix_file)
+            print(f"✅ Archivo optimizado: {fix_file} -> {res.get('changes', [])}")
+            return
+        except Exception as e:
+            print(f"❌ Error optimizando {fix_file}: {e}")
+            return
+
     content_path = os.path.join(os.getcwd(), 'content', '**', '*.md')
     files = glob.glob(content_path, recursive=True)
     death_row = []
@@ -152,11 +163,27 @@ def run(section=None, lang=None):
             print(f"   SCORES -> SEO: {item.get('seo', 0)}, E-E-A-T: {item.get('eeat', 0)}, GEO: {item.get('geo', 0)}, Value: {item.get('value', 0)}")
             for i in item.get('issues', []): print(f"     - {i}")
 
+    if export_json:
+        os.makedirs(os.path.dirname(os.path.abspath(export_json)), exist_ok=True)
+        articles_data = []
+        for item in death_row:
+            min_score = min(item.get('seo', 10), item.get('eeat', 10), item.get('geo', 10), item.get('value', 10)) * 10
+            articles_data.append({
+                "path": item["filepath"],
+                "score": min_score,
+                "issues": item.get("issues", [])
+            })
+        with open(export_json, "w", encoding="utf-8") as f:
+            json.dump({"articles": articles_data}, f, indent=2, ensure_ascii=False)
+        print(f"📁 Reporte exportado a {export_json} ({len(articles_data)} candidatos)")
+
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument('--category', '--section', dest='section', type=str, default=None)
     parser.add_argument('--lang', type=str, choices=['es', 'en'], default=None)
+    parser.add_argument('--export-json', dest='export_json', type=str, default=None)
+    parser.add_argument('--fix-file', dest='fix_file', type=str, default=None)
     args = parser.parse_args()
-    run(args.section, args.lang)
+    run(args.section, args.lang, args.export_json, args.fix_file)
 

@@ -20,5 +20,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--category', '--section', dest='section', type=str, default=None)
     parser.add_argument('--lang', type=str, choices=['es', 'en'], default=None)
+    parser.add_argument('--export-json', dest='export_json', type=str, default=None)
+    parser.add_argument('--fix-file', dest='fix_file', type=str, default=None)
     args = parser.parse_args()
-    run(args.section, args.lang)
+    run(args.section, args.lang, args.export_json, args.fix_file)
